@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/7/2008/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/7-2008-454836
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-30T00:00:00Z'
+  retrieved_at: '2026-10-22T17:52:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b48d0e56cd442d22a23ccc18f949e58f624c242ffaea14568df2245dea5ef2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6bf25d23ec097080a64e5036f83345687ca611434fd3dd3767a3ff6bb5887f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:52:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,14 +70,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Crime
-- Código de Processo Penal
 - Álcool
+- Código de Processo Penal
+- Código Penal
+- Condutor
+- Crime
+- Droga
 - Interpretação do Direito
 - Veículo
-- Condutor
-- Droga
-- Código Penal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/ac/4/1995/07/06/p/dre
@@ -103,16 +103,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/77/2001/07/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/77/2001/07/13/p/dre
+- type: cites
+  target: pt:dre:143082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2289602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641082:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:52:34Z'
   warnings: []
   errors: []
 ---
@@ -247,7 +279,7 @@ Neste preciso sentido veio este Supremo Tribunal de Justiça, através do assent
 
 «Para os fins dos artigos 1.º, alínea f), 120.º, 284.º, n.º 1, 303.º, n.º 4, 309.º, n.º 2, 359.º, n.os 1 e 3, e 379.º, alínea b), do Código de Processo Penal, não constitui alteração substancial dos factos descritos na acusação ou na pronúncia a simples alteração da respectiva qualificação jurídica (ou convolação), ainda que se traduza na submissão de tais factos a uma figura criminal mais grave.»
 
-# Parte da doutrina, mais tarde, optou por diferente solução, defendendo a aplicação analógica do artigo 358.º (obviamente na sua versão originária) às situações de alteração da qualificação jurídica, assumindo a livre qualificação jurídica dos factos descritos na acusação ou na pronúncia com a dupla condição da comunicação prévia ao arguido e da concessão de tempo para a sua defesa (22).
+Parte da doutrina, mais tarde, optou por diferente solução, defendendo a aplicação analógica do artigo 358.º (obviamente na sua versão originária) às situações de alteração da qualificação jurídica, assumindo a livre qualificação jurídica dos factos descritos na acusação ou na pronúncia com a dupla condição da comunicação prévia ao arguido e da concessão de tempo para a sua defesa (22).
 
 Por sua vez, o Tribunal Constitucional, através do [Acórdão n.º 279/95](https://diariodarepublica.pt/dr/detalhe/acordao/279-1995-2289602), em recurso interposto do assento n.º 2/93, julgou inconstitucional a interpretação naquele assumida nos casos em que a convolação conduzisse à condenação do arguido em pena mais grave, sem que o mesmo fosse prevenido da nova qualificação jurídica e sem que lhe fosse dada oportunidade de defesa, sob a argumentação de que o arguido não tem de ser sacrificado no altar da correcta qualificação jurídico-penal da matéria de facto e que uma eventual alteração final do enquadramento jurídico desta não tem necessariamente de fazer-se à custa do sacrifício dos seus direitos de defesa, sendo que para assegurar esta defesa basta que lhe seja dado conhecimento prévio da nova qualificação.
 

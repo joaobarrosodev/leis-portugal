@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 51/1992, 3º Suplemento, Série I-A de 1992-02-29
   number: '51'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 1142-(10) a 1142-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/02/051a03/00100013.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/22-a/1992/02/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-a-1992-302359
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-25T00:00:00Z'
+  retrieved_at: '2026-10-22T18:34:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c8d431a4a49026d4b6bd4769cd30c33c188f29d3d4ed2870baa67a41b3daa34
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: baa0f62f3a9b4335b509290b11dca719fdb25266d36964f098118fd314060db8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:34:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ACTO Administrativo
-- Modernização Administrativa
+- Administração Pública
 - Código do Procedimento Administrativo
+- Contratação Pública
 - Contrato Administrativo
 - Definição de Competências
 - Delegação de Competências
-- Direito Administrativo
-- Administração Pública
-- Legalidade Administrativa
 - Direito à Informação
+- Direito Administrativo
+- Legalidade Administrativa
+- Modernização Administrativa
 - Processo Administrativo
 - Processo Administrativo Gracioso
 - Regulamento
 - Responsabilidade Administrativa
-- Contratação Pública
 relationships:
 - type: amended_by
   target: pt:dre:2727563:por
@@ -90,21 +90,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/442/1991/11/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/442/1991/11/15/p/dre
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408541:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:34:41Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 22-A/92
+# Declaração de rectificação n.º 22-A/92
 
 Para os devidos efeitos se declara que o [Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), publicado no Diário da República, n.º 263, de 15 de Novembro de 1991, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com alterações no preâmbulo, pelo que se procede à sua publicação integral, bem como com outra inexactidões, que assim se rectificam:
 
@@ -154,13 +162,13 @@ Prevê-se ainda a possibilidade de os preceitos deste Código serem mandados apl
 
 6. O Código divide-se em quatro partes:
 
-# Parte I - Princípios gerais;
+Parte I - Princípios gerais;
 
-# Parte II - Dos sujeitos;
+Parte II - Dos sujeitos;
 
-# Parte III - Do procedimento administrativo;
+Parte III - Do procedimento administrativo;
 
-# Parte IV - Da actividade administrativa.
+Parte IV - Da actividade administrativa.
 
 Na parte I contêm-se as disposições preliminares (artigos 1.º e 2.º) e a enunciação dos princípios gerais da acção administrativa (artigos 3.º a 12.º).
 

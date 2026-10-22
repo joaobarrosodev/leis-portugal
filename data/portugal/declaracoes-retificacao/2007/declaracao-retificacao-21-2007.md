@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/21/2007/03/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/21-2007-518604
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:07:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 484966d5a35f9e07dede8175530c42c12ad7d114a0b79be5dd078c21ff0333b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b04119518a0637b5a26eda97b23021e434c8d04a6538f396beaa9c4ea6feffd5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:07:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,93 +68,93 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Financeira do Estado
-- Programa Estágios Profissionais na Administração Pública
 - ADSE
 - Alteração Orçamental
-- Instituto da Segurança Social
+- Apoio ao Investimento
 - Aquisição de Bens e Serviços
-- Região Autónoma
-- Serviço Nacional de Bombeiros e Protecção Civil
+- Autarquia Local
+- Autoridade Nacional de Protecção Civil
 - Autorização de Despesas
-- Financiamento
-- Ministério das Finanças e da Administração Pública
+- Caixa Geral de Aposentações
 - Centro Cultural
-- Ministério da Defesa Nacional
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
-- Ministério da Administração Interna
-- Gestão Financeira
-- Direcção Geral do Tesouro
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Créditos do Estado
+- Departamento de Prospectiva e Planeamento
 - Despesas de Deslocação
 - Despesas Públicas
 - Direção Geral das Autarquias Locais
-- Instituto de Gestão do Crédito Público
+- Direção Geral do Orçamento
+- Direcção Geral do Desenvolvimento Regional
+- Direcção Geral do Ordenamento do Território e Desenvolvimento Urbano
+- Direcção Geral do Tesouro
 - Dívidas das Autarquias Locais
 - Duodécimo
-- Presidência Portuguesa
 - Estrutura de Missão para a Extensão da Plataforma Continental
 - Execução do Orçamento
-- Fundo Social Municipal
-- Caixa Geral de Aposentações
+- Financiamento
+- Formação Profissional
+- FSE
 - Fundo de Maneio
-- Instituto de Gestão de Fundos de Capitalização da Segurança Social
-- Apoio ao Investimento
-- Projeto de Investimento
+- Fundo para as Relações Internacionais
+- Fundo Social Municipal
 - Fundos Autónomos
-- Ministério da Ciência e do Ensino Superior
-- Créditos do Estado
-- Ministério da Justiça
-- Ministério do Trabalho e da Solidariedade Social
-- Palop
-- IRS
+- Gabinete de Estudos e Planeamento de Instalações
+- Gestão Financeira
 - Indep
 - Instituto Camões
+- Instituto da Segurança Social
+- Instituto de Gestão de Fundos de Capitalização da Segurança Social
+- Instituto de Gestão do Crédito Público
 - Instituto de Gestão Financeira da Segurança Social
 - Instituto de Gestão Financeira e Patrimonial da Justiça
+- Instituto do Emprego e Formação Profissional
+- Instituto Português de Apoio ao Desenvolvimento
+- IRS
 - Locação Financeira
-- Santa Casa da Misericórdia
-- FSE
-- Gabinete de Estudos e Planeamento de Instalações
-- Departamento de Prospectiva e Planeamento
-- Direcção Geral do Desenvolvimento Regional
-- Direção Geral do Orçamento
-- Direcção Geral do Ordenamento do Território e Desenvolvimento Urbano
-- Fundo para as Relações Internacionais
-- Orçamento Geral do Estado
+- Ministério da Administração Interna
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Ministério da Ciência e do Ensino Superior
+- Ministério da Defesa Nacional
+- Ministério da Justiça
+- Ministério da Saúde
+- Ministério das Finanças e da Administração Pública
+- Ministério do Trabalho e da Solidariedade Social
+- Ministério dos Negócios Estrangeiros
+- Ministro de Estado e das Finanças
 - Orçamento da Segurança Social
+- Orçamento Geral do Estado
 - Organismo Autónomo
+- Palop
+- Pensões
 - Pessoa Colectiva de Direito Público
+- Pessoal Docente
 - Piddac
 - Plano Oficial de Contabilidade Pública
-- UMIC
-- Pessoal Docente
-- Pensões
+- Portugal Vela 2007
+- Presidência Portuguesa
 - Programa de Investimento
-- Ministro de Estado e das Finanças
+- Programa Estágios Profissionais na Administração Pública
+- Projeto de Investimento
 - QCA III
-- Instituto Português de Apoio ao Desenvolvimento
 - Quadro de Excedentes
 - Rectificação de Numero de Diploma
-- Ministério da Saúde
+- Região Autónoma
 - Retenção na Fonte
-- Ministério dos Negócios Estrangeiros
-- Autoridade Nacional de Protecção Civil
+- Santa Casa da Misericórdia
+- Serviço Nacional de Bombeiros e Protecção Civil
 - Sistema Bancário
 - Transferência de Verbas
-- Autarquia Local
-- Portugal Vela 2007
+- UMIC
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:07:48Z'
   warnings: []
   errors: []
 ---

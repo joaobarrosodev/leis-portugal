@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/63/1991/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/63-1991-598308
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-24T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 362be7c09552c660f53f984aab508939ba95255c356f63358cc8f4234fff5ada
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8f4425b411ed1ea35bb7bd361ee467c63e339c763b5ae6dcf5be7748ca5620c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Incêndio
 - Comissão Nacional Especializada de Fogos Florestais
-- Serviço Nacional de Protecção Civil
-- Orgânica
 - Exploração Florestal
+- Incêndio
+- Orgânica
+- Serviço Nacional de Protecção Civil
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/9/1991/03/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/9/1991/03/21/p/dre
+- type: cites
+  target: pt:dre:421388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547018:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:15Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 63/91
+# Declaração de rectificação n.º 63/91
 
 Para os devidos efeitos se declara que a [Resolução do Conselho de Ministros n.º 9/91](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/9-1991-471281), publicada no Diário da República, 1.ª série, n.º 67, de 21 de Março de 1991, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 

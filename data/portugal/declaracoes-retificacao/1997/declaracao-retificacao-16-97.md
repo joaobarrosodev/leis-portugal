@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/16/1997/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-1997-667762
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-10-15T00:00:00Z'
+  retrieved_at: '2026-10-22T18:49:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 627a75e4caf1968f5faf5677e45f54812506a4aec2266070a07ce6f8c79e282c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 311673f248cfffbfa870bf768321c3adcf330566b2254a35de618559181b3991
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:49:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Conselho Superior da Magistratura
 - Assembleia da República
+- Conselho Superior da Magistratura
 - Vogal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/52/1997/08/23/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/52/1997/08/23/p/dre
+- type: cites
+  target: pt:dre:196479:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:49:04Z'
   warnings: []
   errors: []
 ---

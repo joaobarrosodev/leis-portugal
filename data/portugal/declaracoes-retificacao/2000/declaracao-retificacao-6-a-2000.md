@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 129/2000, 1º Suplemento, Série I-A de 2000-06-03
   number: '129'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2578-(2) a 2578-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/06/129a01/00020002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/6-a/2000/06/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/6-a-2000-216152
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-06-03T00:00:00Z'
+  retrieved_at: '2026-10-22T18:56:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b4fcd9f68664f54b655edefdce08b95507bac4a3344c38c55fb313badb6652e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 229099e41005ec5e59ae177890613c25178a2698392cca1ffc9df4998f390e0d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:56:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,37 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
+- Ação Social
 - Acção Financeira
+- Açores
 - Administração Central
 - Administração do Porto de Lisboa
 - Administração dos Portos de Setúbal e Sesimbra
 - Administração dos Portos do Douro e Leixões
 - ADSE
-- Metropolitano de Lisboa
+- Álcool
 - Alienação de BENS
 - Alienação de Créditos
 - Alienação de Participação Social
 - Alteração Orçamental
-- Região Autónoma
-- Valores Mobiliários
-- Financiamento
-- Garantia
-- Empresa
-- Lares
-- Turismo
-- Inspeção Geral de Finanças
-- Instituto do Emprego e Formação Profissional
-- RTP
+- Autarquia Local
 - Código da SISA e do Imposto sobre Sucessões e Doações
 - Código de Processo Tributário
 - Código do IRC
 - Código do IRS
 - Código do IVA
-- Imposto sobre Produtos Petrolíferos
 - Companhia Carris de Ferro de Lisboa
 - Companhias Reunidas de Congelados e Bacalhau
-- Finanças Locais
 - Conselho de Mercados de Obras Públicas e Particulares
 - Conta Poupança-condomínio
 - Conta Poupança-emigrante
@@ -107,35 +97,36 @@ subjects:
 - Contribuições da Segurança Social
 - Cooperação Financeira
 - Cooperação Técnica
-- Educação
-- Timor Leste
-- Saúde
+- Cooperativa
 - Defensor do Contribuinte
+- Deficiente
 - Depósito Bancário
 - Despesas Públicas
+- Direito de Petição
 - Direito Público
 - Dívida Flutuante
 - Dívida Pública
 - Dotação Orçamental
-- Álcool
-- Empresa de Electricidade da Madeira
+- Dupla Tributação
+- Educação
 - Electricidade dos Açores
 - Emolumento Cadastral
-- Fusão de Empresas
+- Empresa
+- Empresa de Electricidade da Madeira
 - Entidade Patronal
+- Equipamento Informático
 - Estatuto dos Benefícios Fiscais
-- Cooperativa
-- Serviço Nacional de Saúde
 - EURO 2004
+- Evasão Fiscal
 - Execução do Orçamento
-- Ação Social
-- Fundo de Coesão Municipal
-- Índice de Desenvolvimento Social
+- Finanças Locais
+- Financiamento
 - Fiscalização
-- Lisboa
+- Forças Armadas
+- FSE
 - Fundação Centro Cultural de Belém
 - Fundação das Descobertas
-- Rendimento Mínimo Garantido
+- Fundo de Coesão Municipal
 - Fundo de Compensação do Seguro de Colheitas
 - Fundo de Estabilização Financeira da Segurança Social
 - Fundo de Financiamento das Freguesias
@@ -147,55 +138,63 @@ subjects:
 - Fundo Geral Municipal
 - Fundo para a Cooperação Económica
 - Fundos Autónomos
+- Fusão de Empresas
+- Garantia
 - GAT
 - Grémio dos Armadores da Pesca do Arrasto
-- Seguro
-- Instituto para a Construção Rodoviária
-- Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
+- Habitação
+- IAPMEI
+- Imposto Automóvel
 - Imposto de Camionagem
 - Imposto de Circulação
 - Imposto do SELO
 - Imposto Especial sobre o Consumo
 - Imposto Mineiro e de Águas Minerais
-- IRS
-- IVA
+- Imposto sobre Produtos Petrolíferos
 - Imposto sobre Sucessões e Doações
+- Imposto sobre Veículos
 - Impostos Directos
 - Impostos Indirectos
 - Incentivos Fiscais
+- Índice de Desenvolvimento Social
 - Infracção Aduaneira
 - Infracção Fiscal
-- Programa IMIT
-- Instituições de Segurança Social
-- Instituto para a Conservação e Exploração da REDE Rodoviária
 - Inofor
-- Instituto Português da ARTE Cinematográfica e Audiovisual
-- QCA
-- Isenção Fiscal
-- Tribunal de Contas
-- Junta Autónoma das Estradas
+- Inspeção Geral de Finanças
+- Instituições de Segurança Social
 - Instituto das Estradas de Portugal
+- Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
+- Instituto do Emprego e Formação Profissional
+- Instituto para a Conservação e Exploração da REDE Rodoviária
+- Instituto para a Construção Rodoviária
+- Instituto Português da ARTE Cinematográfica e Audiovisual
+- IRC
+- IRS
+- Isenção Fiscal
+- IVA
+- Junta Autónoma das Estradas
 - Junta de Freguesia
 - Junta Metropolitana
+- Lares
 - Lei das Finanças Locais
 - Lei Geral Tributária
-- FSE
-- Orçamento Geral do Estado
-- Forças Armadas
-- Equipamento Informático
+- Lisboa
+- Madeira.região Autónoma
+- Metro do Porto
+- Metropolitano de Lisboa
+- Microempresa
 - Operações de Tesouraria
 - OPV
 - Orçamento
+- Orçamento Geral do Estado
 - Organismo Autónomo
-- Tabaco
+- Pensões
 - Piddac
 - Plano de Investimentos
 - Plano Poupança em Acções
+- Porto
 - Porto 2001
-- Dupla Tributação
-- Evasão Fiscal
-- IRC
-- Pensões
+- Prédio Urbano
 - PRID
 - Privatização
 - Processo Tributário
@@ -203,53 +202,58 @@ subjects:
 - Programa Contratos de Modernização Administrativa
 - Programa Energia
 - Programa Formação da Administração Pública II
+- Programa IMIT
 - Programa Melhoria do Impacte Ambiental da Actividade Produtiva
-- Madeira.região Autónoma
+- QCA
 - Receita
-- Direito de Petição
 - Reestruturação de Empresas
 - Refer
-- Microempresa
+- Região Autónoma
 - Regime Fiscal
 - Regime Jurídico
 - Regime Jurídico das Infracções Fiscais Aduaneiras
-- Habitação
-- Imposto Automóvel
 - Relatório de Actividade
+- Rendimento Mínimo Garantido
 - Retenção na Fonte
+- RTP
+- Saúde
 - Segurança Social
+- Seguro
+- Serviço Nacional de Saúde
 - Siderurgia Nacional-sgps
-- Açores
 - Sistema de Apoio à Jovens Empresários
-- IAPMEI
-- Prédio Urbano
 - Sociedade Corretora
 - Sociedade Financeira de Corretagem
-- Metro do Porto
+- Tabaco
 - Tabela Geral do Imposto do SELO
 - TAXA de Radiodifusão
+- Timor Leste
 - Transferência de Verbas
 - Transporte Escolar
-- Autarquia Local
-- Porto
+- Tribunal de Contas
 - Tributação
-- Imposto sobre Veículos
+- Turismo
+- Valores Mobiliários
 - Visto do Tribunal de Contas
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/3-b/2000/04/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3-b/2000/04/04/p/dre
+- type: cites
+  target: pt:dre:679669:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:56:19Z'
   warnings: []
   errors: []
 ---

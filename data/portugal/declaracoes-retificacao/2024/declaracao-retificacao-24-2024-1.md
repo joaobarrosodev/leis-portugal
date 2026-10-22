@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/04/08100/0003400034.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/24/2024/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/24-2024-862903174
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-04-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:15:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a83d9147c3afce07b82b3e130e6084d3c1361d7280c27454e4a7b78a29fe422
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a741c47b96a7ea29cbc59ea47fc989f85219e938bddb0f47dbfce1e23280b2f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:15:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/mapofic/2-a/2024/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/mapofic/2-a/2024/03/23/p/dre
+- type: cites
+  target: pt:dre:857147316:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:15:05Z'
   warnings: []
   errors: []
 ---
@@ -99,3 +103,5 @@ Na relação dos deputados eleitos pela Aliança Democrática, onde se lê "Són
 Na relação dos deputados eleitos pelo Partido Socialista, onde se lê "Hugo Daniel Matos Oliveira" deve ler-se "Hugo Daniel Matos de Oliveira" (Aveiro); onde se lê "Raquel Fátima Cardoso Ferreira" deve ler-se "Raquel de Fátima Cardoso Ferreira" (Coimbra); onde se lê "Luís Carlos Piteira Dias" deve ler-se "Luis Carlos Piteira Dias" (Évora); onde se lê "Isabel Sofia Alves de Andrade" deve ler-se "Isabel Sofia Alves Andrade" (Porto); onde se lê "Elsa Maria Henriques Deus Pais" deve ler-se "Elza Maria Henriques Deus Pais" (Viseu) e onde se lê "Paulo Alexandre Nascimento Cafofo" deve ler-se "Paulo Alexandre Nascimento Cafôfo" (Madeira).
 
 Comissão Nacional de Eleições, 16 de abril de 2024. - O Presidente, Juiz Conselheiro José Vítor Soreto de Barros.
+
+117631095

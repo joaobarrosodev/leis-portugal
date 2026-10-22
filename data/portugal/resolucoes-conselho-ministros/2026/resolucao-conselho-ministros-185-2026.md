@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/09/18700/0001500017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,26 +48,42 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/185/2026/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/185-2026-1173491825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-25T00:00:00Z'
+  retrieved_at: '2026-10-22T18:53:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 714b03743d4308d334eee5f155b75a860473b74e3b1bbb547e74d650e922a9a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8debbe88d59c104b67d97cdf87654fa650a8ea71bf5146d93d735cd27fe03684
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:53:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autorização de Despesas
+- Conselho de Ministros
+- Financiamento
+- Gestão Orçamental
+- Governo XXV
+- Instituto da Habitação e da Reabilitação Urbana
+- Orçamento do Estado
+- Portugal 2030
+- Programa de Apoio ao Acesso à Habitação-1.º Direito
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:129/2024
+  label: Altera, com efeitos a 04 de setembro de 2026, os n.ºs 6,7,8 e os n.ºs 9 e 10 passarem respetivamente a anterior n.º
+    6 e anterior n.º 7, bem como altera o anexo à Resolução do Conselho de Ministros n.º 129/2024, de 25 de setembro, Diário
+    da República n.º 186/2024, Série I
+  source: null
+  date: '2024-09-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/129/2024/09/25/p/dre
   label: null
@@ -84,16 +100,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/90-a/2024/07/19/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/90-a/2024/07/19/p/dre
+- type: cites
+  target: pt:dre:858093992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:872631819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:888861495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:911089432:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:53:54Z'
   warnings: []
   errors: []
 ---
@@ -146,21 +178,25 @@ Presidência do Conselho de Ministros, 4 de setembro de 2026. - O Primeiro-Minis
 
 Resumo do financiamento plurianual
 
-| Fontes de Financiamento | Fontes de Financiamento | 20 000 casas Plano de Recuperação e Resiliência (PRR) ― Dotações para compromissos anuais (em milhões de euros) | 20 000 casas Plano de Recuperação e Resiliência (PRR) ― Dotações para compromissos anuais (em milhões de euros) | 20 000 casas Plano de Recuperação e Resiliência (PRR) ― Dotações para compromissos anuais (em milhões de euros) | 20 000 casas Plano de Recuperação e Resiliência (PRR) ― Dotações para compromissos anuais (em milhões de euros) | 20 000 casas Plano de Recuperação e Resiliência (PRR) ― Dotações para compromissos anuais (em milhões de euros) | 20 000 casas Plano de Recuperação e Resiliência (PRR) ― Dotações para compromissos anuais (em milhões de euros) | Total | Total |
+| Fontes de Financiamento | 20 000 casas Plano de Recuperação e Resiliência (PRR) ― Dotações para compromissos anuais (em milhões de euros) | Total |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Fontes de Financiamento | Fontes de Financiamento | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | Total | Total |
-| PRR i01 |  | (*) 680,44 | 350,00 | 156,56 |  |  |  | (**) 1 187,00 | (**) 1 187,00 |
-| PRR i09 |  | (*) 78,61 | 78,61 | 39,31 |  |  |  | 196,53 | 196,53 |
-| Orçamento do Estado (OE) ― [Resolução do Conselho de Ministros n.º 57-B/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/57-b-2024-858093992), de 28 de março ou fundos europeus estruturais e de investimento quando aplicável n.º 6 da presente RCM |  | 10,00 | 190,25 | 190,25 |  |  |  | 390,50 | 390,50 |
-| OE ― [Resolução do Conselho de Ministros n.º 90-A/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/90-a-2024-872631819), de 19 de julho ou fundos europeus estruturais e de investimento quando aplicável n.º 6 da presente RCM |  | 150,00 | 166,00 | 84,00 |  |  |  | 400,00 | 400,00 |
-| Total |  | (*) 919,05 | 784,86 | 470,12 | 0,00 | 0,00 | 0,00 | 2 174,03 | 2 174,03 |
-| (*) Valor acumulado até 2024.(**) Deduzidos 2 % a valor de dotação de 1210,34 M€ para apoio técnico PRR. | (*) Valor acumulado até 2024.(**) Deduzidos 2 % a valor de dotação de 1210,34 M€ para apoio técnico PRR. | (*) Valor acumulado até 2024.(**) Deduzidos 2 % a valor de dotação de 1210,34 M€ para apoio técnico PRR. | (*) Valor acumulado até 2024.(**) Deduzidos 2 % a valor de dotação de 1210,34 M€ para apoio técnico PRR. | (*) Valor acumulado até 2024.(**) Deduzidos 2 % a valor de dotação de 1210,34 M€ para apoio técnico PRR. | (*) Valor acumulado até 2024.(**) Deduzidos 2 % a valor de dotação de 1210,34 M€ para apoio técnico PRR. | (*) Valor acumulado até 2024.(**) Deduzidos 2 % a valor de dotação de 1210,34 M€ para apoio técnico PRR. | (*) Valor acumulado até 2024.(**) Deduzidos 2 % a valor de dotação de 1210,34 M€ para apoio técnico PRR. | (*) Valor acumulado até 2024.(**) Deduzidos 2 % a valor de dotação de 1210,34 M€ para apoio técnico PRR. | (*) Valor acumulado até 2024.(**) Deduzidos 2 % a valor de dotação de 1210,34 M€ para apoio técnico PRR. |
-| Fonte de financiamento | Fonte de financiamento | 39 993 casas 1.º Direito ― Dotações para compromissos anuais ― Valores indicativos (em milhões de euros) | 39 993 casas 1.º Direito ― Dotações para compromissos anuais ― Valores indicativos (em milhões de euros) | 39 993 casas 1.º Direito ― Dotações para compromissos anuais ― Valores indicativos (em milhões de euros) | 39 993 casas 1.º Direito ― Dotações para compromissos anuais ― Valores indicativos (em milhões de euros) | 39 993 casas 1.º Direito ― Dotações para compromissos anuais ― Valores indicativos (em milhões de euros) | 39 993 casas 1.º Direito ― Dotações para compromissos anuais ― Valores indicativos (em milhões de euros) | Total | Total |
-| Fonte de financiamento | Fonte de financiamento | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | Total | Total |
-| OE ― Resolução do Conselho de Ministros ou fundos europeus estruturais e de investimento quando aplicável n.º 6 da presente RCM | Até 100% |  | 345,00 | 300,00 | 200,00 |  |  | 845,00 | 845,00 |
-| OE ― Resolução do Conselho de Ministros | 60 % |  |  |  | 400,00 | 500,00 | 266,00 | 1 166,00 | 1 166,00 |
-| Total |  | 0,00 | 345,00 | 300,00 | 600,00 | 500,00 | 266,00 | 2 011,00 | 2 011,00 |
-| Fontes de Financiamento | Fontes de Financiamento | 58 993 casas 1.º Direito ― Dotações para compromissos anuais ― Valores indicativos (em milhões de euros) | 58 993 casas 1.º Direito ― Dotações para compromissos anuais ― Valores indicativos (em milhões de euros) | 58 993 casas 1.º Direito ― Dotações para compromissos anuais ― Valores indicativos (em milhões de euros) | 58 993 casas 1.º Direito ― Dotações para compromissos anuais ― Valores indicativos (em milhões de euros) | 58 993 casas 1.º Direito ― Dotações para compromissos anuais ― Valores indicativos (em milhões de euros) | 58 993 casas 1.º Direito ― Dotações para compromissos anuais ― Valores indicativos (em milhões de euros) | Total | Total |
-| Fontes de Financiamento | Fontes de Financiamento | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | Total | Total |
-| Total |  | 919,05 | 1 129,86 | 770,12 | 600,00 | 500,00 | 266,00 | 4 185,03 | 4 185,03 |
+| 2024 | 2025 | 2026 | 2027 | 2028 | 2029 |  |  |  |  |
+| PRR i01 |  | (*) 680,44 | 350,00 | 156,56 |  |  |  | (**) 1 187,00 |  |
+| PRR i09 |  | (*) 78,61 | 78,61 | 39,31 |  |  |  | 196,53 |  |
+| Orçamento do Estado (OE) ― [Resolução do Conselho de Ministros n.º 57-B/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/57-b-2024-858093992), de 28 de março ou fundos europeus estruturais e de investimento quando aplicável n.º 6 da presente RCM |  | 10,00 | 190,25 | 190,25 |  |  |  | 390,50 |  |
+| OE ― [Resolução do Conselho de Ministros n.º 90-A/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/90-a-2024-872631819), de 19 de julho ou fundos europeus estruturais e de investimento quando aplicável n.º 6 da presente RCM |  | 150,00 | 166,00 | 84,00 |  |  |  | 400,00 |  |
+| Total |  | (*) 919,05 | 784,86 | 470,12 | 0,00 | 0,00 | 0,00 | 2 174,03 |  |
+| (*) Valor acumulado até 2024.(**) Deduzidos 2 % a valor de dotação de 1210,34 M€ para apoio técnico PRR. |  |  |  |  |  |  |  |  |  |
+| Fonte de financiamento | 39 993 casas 1.º Direito ― Dotações para compromissos anuais ― Valores indicativos (em milhões de euros) | Total |  |  |  |  |  |  |  |
+| 2024 | 2025 | 2026 | 2027 | 2028 | 2029 |  |  |  |  |
+| OE ― Resolução do Conselho de Ministros ou fundos europeus estruturais e de investimento quando aplicável n.º 6 da presente RCM | Até 100% |  | 345,00 | 300,00 | 200,00 |  |  | 845,00 |  |
+| OE ― Resolução do Conselho de Ministros | 60 % |  |  |  | 400,00 | 500,00 | 266,00 | 1 166,00 |  |
+| Total |  | 0,00 | 345,00 | 300,00 | 600,00 | 500,00 | 266,00 | 2 011,00 |  |
+| Fontes de Financiamento | 58 993 casas 1.º Direito ― Dotações para compromissos anuais ― Valores indicativos (em milhões de euros) | Total |  |  |  |  |  |  |  |
+| 2024 | 2025 | 2026 | 2027 | 2028 | 2029 |  |  |  |  |
+| Total |  | 919,05 | 1 129,86 | 770,12 | 600,00 | 500,00 | 266,00 | 4 185,03 |  |
 |  |  |  |  |  |  |  |  |  | » |
+
+119949578
+
+.Tbl2 { height:17px; } .Tbl3 { border-bottom-width:1px; border-left-width:0px; border-top-width:1px; border-right-width:1px; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-width:1px; border-left-width:1px; border-top-width:1px; border-right-width:1px; vertical-align:middle; } .Tbl6 { border-bottom-width:1px; border-left-width:1px; border-top-width:1px; border-right-width:0px; vertical-align:middle; } .Tbl7 { height:26px; } .Tbl8 { min-height:18px; } .Tbl9 { border-bottom-width:1px; border-left-width:0px; border-top-width:1px; border-right-width:1px; } .Tbl10 { border-bottom-width:1px; border-left-width:1px; border-top-width:1px; border-right-width:1px; } .Tbl11 { border-bottom-width:1px; border-left-width:1px; border-top-width:1px; border-right-width:0px; } .Tbl12 { min-height:47px; } .Tbl13 { min-height:43px; } .Tbl14 { border-bottom-width:1px; border-right-style:solid; border-left-width:0px; border-top-width:1px; border-right-width:0px; } .Tbl15 { text-align:left; } .Tbl16 { min-height:37px; } .Tbl17 { min-height:15px; } .Tbl18 { border-bottom-width:0px; border-left-width:0px; border-top-width:1px; border-right-width:1px; } .Tbl19 { border-bottom-width:0px; border-left-width:1px; border-top-width:1px; border-right-width:1px; } .Tbl20 { border-bottom-width:0px; border-left-width:1px; border-top-width:1px; border-right-width:0px; } .Tbl21 { min-height:3px; } .Tbl22 { border-bottom-width:1px; border-left-width:0px; border-top-width:0px; border-right-width:1px; } .Tbl23 { border-bottom-width:1px; border-left-width:1px; border-top-width:0px; border-right-width:1px; } .Tbl24 { border-bottom-width:1px; border-left-width:1px; border-top-width:0px; border-right-width:0px; } .Tbl25 { border-bottom-width:0px; border-left-width:0px; border-top-width:0px; border-right-width:0px; } .Tbl26 { margin-top:0px; text-align:center; }

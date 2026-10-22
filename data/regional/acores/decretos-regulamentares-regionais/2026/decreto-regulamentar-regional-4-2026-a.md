@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/2026/03/26/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2026-1077350809
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-26T00:00:00Z'
+  retrieved_at: '2026-10-22T18:36:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb08b9b3660f4d58c0a2db6cd8ed9e34a9b8e4fb6819e74206cbc0b96ce1e2a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d119879a3a0e7bd9c2b82cf1a5a2e6e387a347336aef1dd93f75f1ee2feb66fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:36:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
-- Médico
+- Açores
 - Colocação de Médicos
+- Função Pública
 - Governo Regional
 - Incentivo Profissional
 - Incentivos à Deslocação
+- Médico
 - Mobilidade de Pessoal
 - Serviço Regional de Saúde
-- Açores
 - Subsídio
 - Subsídio de Fixação
 relationships:
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:1/2022/A
+  label: Altera, a partir de 27 de março de 2026, com efeitos a 1 de janeiro de 2026, o artigo 5.º do Decreto Regulamentar
+    Regional n.º 1/2022/A, de 21 de janeiro, Diário da República n.º 15/2022, Série I
+  source: null
+  date: '2022-01-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/28/1999/07/31/a/dre
   label: null
@@ -106,16 +112,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:177992988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185043375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224661319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870891839:por
+  label: null
+  source: null
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:36:44Z'
   warnings: []
   errors: []
 ---
@@ -132,11 +166,11 @@ Assim, nos termos da alínea d) do n.º 1 do artigo 227.º da Constituição da 
 
 ###### Artigo 1.º — Objeto
 
-O presente diploma procede à quarta alteração ao [Decreto Regulamentar Regional n.º 1/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2022-177992988), de 21 de janeiro, alterado e republicado pelos Decretos Regulamentares Regionais n.<sup>os</sup>[8/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2022-185043375), de 22 de junho, [33/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-2023-224661319), de 23 de novembro, e [9/2024/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2024-870891839), de 4 de julho, que estabelece o regime de atribuição de incentivos à fixação, aplicável ao pessoal médico, na Região Autónoma dos Açores.
+O presente diploma procede à quarta alteração ao [Decreto Regulamentar Regional n.º 1/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2022-177992988), de 21 de janeiro, alterado e republicado pelos Decretos Regulamentares Regionais n.os[8/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2022-185043375), de 22 de junho, [33/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-2023-224661319), de 23 de novembro, e [9/2024/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2024-870891839), de 4 de julho, que estabelece o regime de atribuição de incentivos à fixação, aplicável ao pessoal médico, na Região Autónoma dos Açores.
 
 ###### Artigo 2.º — Alteração ao [Decreto Regulamentar Regional n.º 1/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2022-177992988), de 21 de janeiro
 
-O artigo 5.º do [Decreto Regulamentar Regional n.º 1/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2022-177992988), de 21 de janeiro, alterado e republicado pelos Decretos Regulamentares Regionais n.<sup>os</sup>[8/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2022-185043375), de 22 de junho, [33/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-2023-224661319), de 23 de novembro, e [9/2024/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2024-870891839), de 4 de julho, passa a ter a seguinte redação:
+O artigo 5.º do [Decreto Regulamentar Regional n.º 1/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2022-177992988), de 21 de janeiro, alterado e republicado pelos Decretos Regulamentares Regionais n.os[8/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2022-185043375), de 22 de junho, [33/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-2023-224661319), de 23 de novembro, e [9/2024/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2024-870891839), de 4 de julho, passa a ter a seguinte redação:
 
 «Artigo 5.º
 
@@ -170,7 +204,7 @@ e) Zona E (Graciosa, Pico, Flores) - 55 %.
 
 ###### Artigo 3.º — Republicação
 
-É republicado em anexo ao presente diploma, do qual faz parte integrante, o [Decreto Regulamentar Regional n.º 1/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2022-177992988), de 21 de janeiro, alterado e republicado pelos Decretos Regulamentares Regionais n.<sup>os</sup>[8/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2022-185043375), de 22 de junho, [33/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-2023-224661319), de 23 de novembro, e [9/2024/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2024-870891839), de 4 de julho, com as alterações introduzidas pelo presente diploma.
+É republicado em anexo ao presente diploma, do qual faz parte integrante, o [Decreto Regulamentar Regional n.º 1/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2022-177992988), de 21 de janeiro, alterado e republicado pelos Decretos Regulamentares Regionais n.os[8/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2022-185043375), de 22 de junho, [33/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-2023-224661319), de 23 de novembro, e [9/2024/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2024-870891839), de 4 de julho, com as alterações introduzidas pelo presente diploma.
 
 ###### Artigo 4.º — Produção de efeitos
 
@@ -182,11 +216,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Madalena, em 4 de março de 2026.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 18 de março de 2026.**
+Assinado em Angra do Heroísmo em 18 de março de 2026.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -244,7 +278,7 @@ b) Acréscimo remuneratório.
 
 a) Valor despendido no transporte, por via aérea, para o médico e respetivo agregado familiar, para a ilha do novo local de trabalho, incluindo animais de companhia;
 
-b) Transporte de bens, por via marítima, até ao limite de 10 m<sup>3</sup>, para todo o agregado familiar;
+b) Transporte de bens, por via marítima, até ao limite de 10 m3, para todo o agregado familiar;
 
 c) Transporte de um veículo automóvel ligeiro, desde que este se verifique nos 90 dias anteriores ou imediatos ao início de funções;
 
@@ -353,3 +387,5 @@ Os encargos decorrentes da aplicação do presente diploma são suportados pelo 
 1 - O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 2 - Sem prejuízo do disposto no número anterior, o regime de incentivos previsto no presente diploma só se efetiva após a celebração do contrato de trabalho entre o pessoal médico e os serviços e estabelecimentos de saúde do Serviço Regional de Saúde, ou após o início do processo de mobilidade.
+
+119948038

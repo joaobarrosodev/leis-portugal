@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/08/15200/0002000021.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/165/2026/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/165-2026-1154789328
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-07T00:00:00Z'
+  retrieved_at: '2026-10-22T18:49:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c934d3be73f9e5fb84d444bd59e0cb7e74f2eb62cbb4ca0b5178989c5fc67d0b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9f109d7b4f894e5fcee45a8e1ef5ca103bab1d543f2d51e1b01a53f8c0a8745
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:49:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência para a Gestão do Sistema Educativo
 - Autorização de Despesas
 - Conselho de Ministros
 - Delegação de Competências
-- Ministro da Educação Ciência e Inovação
 - Governo XXV
-- Agência para a Gestão do Sistema Educativo
+- Ministro da Educação Ciência e Inovação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-le
@@ -113,29 +113,73 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/97/2025/05/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/97/2025/05/05/p/dre
+- type: cites
+  target: pt:dre:115652961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:916745907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:943290583:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:49:38Z'
   warnings: []
   errors: []
 ---
 
 # Resolução do Conselho de Ministros n.º 165/2026
 
-De acordo com o disposto no n.º 1 do artigo 20.º e nos n.<sup>os</sup>1, 2 e 5 do artigo 21.º da Lei de Bases do Sistema Educativo, aprovada pela [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de outubro, a educação especial visa a recuperação e a integração socioeducativas dos indivíduos com necessidades educativas específicas devidas a deficiências físicas e mentais, organizando-se, preferencialmente, segundo modelos diversificados de integração em estabelecimentos regulares de ensino, sem prejuízo da sua prestação em instituições específicas quando o tipo e o grau de deficiência do educando comprovadamente o exijam, incumbindo ao Estado promover e apoiar as respostas educativas necessárias.
+De acordo com o disposto no n.º 1 do artigo 20.º e nos n.os1, 2 e 5 do artigo 21.º da Lei de Bases do Sistema Educativo, aprovada pela [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de outubro, a educação especial visa a recuperação e a integração socioeducativas dos indivíduos com necessidades educativas específicas devidas a deficiências físicas e mentais, organizando-se, preferencialmente, segundo modelos diversificados de integração em estabelecimentos regulares de ensino, sem prejuízo da sua prestação em instituições específicas quando o tipo e o grau de deficiência do educando comprovadamente o exijam, incumbindo ao Estado promover e apoiar as respostas educativas necessárias.
 
 O [Decreto-Lei n.º 54/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), de 6 de julho, estabelece o regime jurídico da educação inclusiva nos ensinos básico e secundário das redes pública, privada, cooperativa e solidária, definindo as medidas de suporte à aprendizagem e à inclusão e os recursos específicos a mobilizar para assegurar uma resposta adequada às necessidades das crianças e jovens ao longo do respetivo percurso escolar.
 
 O paradigma da educação inclusiva, como referido, assenta na prioridade da resposta educativa em contexto de escola regular, mediante a mobilização das medidas de suporte à aprendizagem e à inclusão adequadas às necessidades de cada aluno. Todavia, subsistem situações excecionais em que, apesar dessa mobilização, a resposta da escola não se revela suficiente para assegurar uma resposta educativa satisfatória às necessidades específicas de determinados alunos. Nesses casos, os estabelecimentos de educação especial com acordo de cooperação com o Ministério da Educação, Ciência e Inovação constituem recursos específicos da comunidade, mobilizados para apoio à aprendizagem e à inclusão e que asseguram respostas educativas especializadas e complementares às disponibilizadas pelas escolas.
 
-Integram estes recursos as cooperativas e associações de ensino especial sem fins lucrativos, as instituições particulares de solidariedade social e outras entidades sem fins lucrativos que desenvolvam atividade no âmbito da educação especial, abrangidas, respetivamente, pelas Portarias n.<sup>os</sup> [1102/97](https://diariodarepublica.pt/dr/detalhe/portaria/1102-1997-675019), de 3 de novembro, e [98/2011](https://diariodarepublica.pt/dr/detalhe/portaria/98-2011-279443), de 9 de março, bem como os estabelecimentos de ensino particular de educação especial que cumpram os requisitos de funcionamento previstos na [Portaria n.º 1103/97](https://diariodarepublica.pt/dr/detalhe/portaria/1103-1997-675023), de 3 de novembro. Nestes casos, o respetivo financiamento é assegurado pelo mencionado ministério, nos termos da legislação aplicável.
+Integram estes recursos as cooperativas e associações de ensino especial sem fins lucrativos, as instituições particulares de solidariedade social e outras entidades sem fins lucrativos que desenvolvam atividade no âmbito da educação especial, abrangidas, respetivamente, pelas Portarias n.os [1102/97](https://diariodarepublica.pt/dr/detalhe/portaria/1102-1997-675019), de 3 de novembro, e [98/2011](https://diariodarepublica.pt/dr/detalhe/portaria/98-2011-279443), de 9 de março, bem como os estabelecimentos de ensino particular de educação especial que cumpram os requisitos de funcionamento previstos na [Portaria n.º 1103/97](https://diariodarepublica.pt/dr/detalhe/portaria/1103-1997-675023), de 3 de novembro. Nestes casos, o respetivo financiamento é assegurado pelo mencionado ministério, nos termos da legislação aplicável.
 
 A [Resolução do Conselho de Ministros n.º 97/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/97-2025-916745907), de 5 de maio, alterada pela [Resolução do Conselho de Ministros n.º 169/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/169-2025-943290583), de 30 de outubro, autorizou a realização da despesa relativa aos apoios financeiros decorrentes da celebração de contratos e acordos de cooperação, no âmbito da educação especial, para o ano letivo de 2025-2026. Torna-se agora necessário autorizar a realização da despesa correspondente ao ano letivo de 2026-2027, assegurando a continuidade do financiamento das respostas especializadas e a estabilidade do apoio educativo prestado às crianças e jovens com necessidades específicas.
 
@@ -168,3 +212,5 @@ ii) Cooperativas e associações de ensino especial e instituições particulare
 6 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 30 de julho de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119949274

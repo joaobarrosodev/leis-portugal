@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/80/2026/05/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/80-2026-1118713682
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-11T00:00:00Z'
+  retrieved_at: '2026-10-22T18:40:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4697b4515d3abd27963c221a4eaca8d038215ea7e7b58fa591e4cf04fd0dbcaa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d816c9b8070763c9531610378179e2695267720b3b6bab61062cbd33f3cb254
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:40:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Metropolitano de Lisboa
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
 - Conselho de Administração
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
-- Obras Públicas
 - Governo XXV
+- Metropolitano de Lisboa
+- Obras Públicas
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:173/2018
+  label: Altera, com efeitos a partir de 16 de abril de 2026, a Resolução do Conselho de Ministros n.º 173/2018, de 14 de
+    dezembro, Diário da República n.º 241/2018, Série I
+  source: null
+  date: '2018-12-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -104,16 +110,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/89/2023/08/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/89/2023/08/04/p/dre
+- type: cites
+  target: pt:dre:117384027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166296481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205450891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216714705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:40:44Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +158,7 @@ A [Resolução do Conselho de Ministros n.º 173/2018](https://diariodarepublica
 
 Face ao acréscimo dos custos envolvidos na concretização dos diversos empreendimentos que integram este plano de expansão, decorrentes de diversas vicissitudes, os valores então autorizados tornaram-se insuficientes.
 
-Assim, foram aprovadas as Resoluções do Conselho de Ministros n.<sup>os</sup>[88/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/88-2021-166296481), de 2 de julho, e [144/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/144-2022-205450891), de 29 de dezembro, que autorizaram a despesa adicional necessária à concretização do plano, fixando-a no montante global de € 331 429 066,00, valor ao qual acresce o IVA, à taxa legal em vigor.
+Assim, foram aprovadas as Resoluções do Conselho de Ministros n.os[88/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/88-2021-166296481), de 2 de julho, e [144/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/144-2022-205450891), de 29 de dezembro, que autorizaram a despesa adicional necessária à concretização do plano, fixando-a no montante global de € 331 429 066,00, valor ao qual acresce o IVA, à taxa legal em vigor.
 
 Posteriormente, foi aprovada pela [Resolução do Conselho de Ministros n.º 89/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/89-2023-216714705), de 4 de agosto, a reprogramação dos encargos plurianuais relativos ao plano de expansão, em virtude de circunstâncias inerentes ao concurso público relativo à construção dos acabamentos e ao fornecimento de todos os sistemas, tendo resultado no alargamento temporal dos encargos financeiros assumidos até 2025.
 
@@ -140,7 +174,7 @@ Assim:
 
 Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Alterar a [Resolução do Conselho de Ministros n.º 173/2018](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/173-2018-117384027), de 14 de dezembro, alterada pelas Resoluções do Conselho de Ministros n.<sup>os</sup>[88/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/88-2021-166296481), de 2 de julho, [144/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/144-2022-205450891), de 29 de dezembro, e [89/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/89-2023-216714705), de 4 de agosto, que passa a ter a seguinte redação:
+1 - Alterar a [Resolução do Conselho de Ministros n.º 173/2018](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/173-2018-117384027), de 14 de dezembro, alterada pelas Resoluções do Conselho de Ministros n.os[88/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/88-2021-166296481), de 2 de julho, [144/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/144-2022-205450891), de 29 de dezembro, e [89/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/89-2023-216714705), de 4 de agosto, que passa a ter a seguinte redação:
 
 «1 - [...]
 
@@ -213,3 +247,5 @@ ii) Em 2027: € 25 797 438,00.
 2 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 16 de abril de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119948402

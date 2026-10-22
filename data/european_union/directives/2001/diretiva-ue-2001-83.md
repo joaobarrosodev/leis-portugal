@@ -35,6 +35,468 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-01-01'
+version_history:
+  file: diretiva-ue-2001-83.versoes.json
+  count: 13
+  source_lastmod: '2025-01-01'
+  versions:
+  - date: '2001-11-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-26'
+    amending: null
+    amending_title: Directiva 2002/98/CE do Parlamento Europeu e do Conselho de 27 de Janeiro de 2003; Directiva 2003/63/CE
+      da Comissão Texto relevante para efeitos do EEE de 25 de Junho de 2003; Directiva 2004/24/CE do Parlamento Europeu e
+      do Conselho de 31 de Março de 2004; Directiva 2004/27/CE do Parlamento Europeu e do Conselho de 31 de Março de 2004;
+      Regulamento (CE) n. o 1901/2006 do Parlamento Europeu e do Conselho de 12 de Dezembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+    - Altera Artigo 38.º
+    - Altera Artigo 40.º
+    - Altera Artigo 46.º
+    - Altera Artigo 47.º
+    - Altera Artigo 50.º
+    - Altera Artigo 51.º
+  - date: '2008-03-21'
+    amending: null
+    amending_title: Directiva 2008/29/CE do Parlamento Europeu e do Conselho de 11 de Março de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 14.º
+    - Altera Artigo 16.ºG
+    - Altera Artigo 35.º
+    - Altera Artigo 46.º-A
+    - Altera Artigo 47.º
+    - Altera Artigo 84.º
+    - Altera Artigo 104.º
+    - Altera Artigo 107.º
+    - Altera Artigo 108.º
+    - Altera Artigo 109.º
+    - Altera Artigo 111.º
+    - Altera Artigo 120.º
+    - Altera Artigo 121.º
+    - Altera Introdução e princípios gerais
+    - Altera 1.6. Avaliação do risco ambiental
+    - 'Altera 3.2. Conteúdo: princípios e requisitos básicos'
+    - Altera a) Princípios
+    - Altera b) Conteúdo
+    - Altera c) Avaliação e certificação
+    - Altera Lista dos prazos de transposição para o direito nacional (referidos no artigo 128.º)
+    - Altera Notas
+  - date: '2008-12-30'
+    amending: null
+    amending_title: Regulamento (CE) n. o 1394/2007 do Parlamento Europeu e do Conselho de 13 de Novembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 16.ºG
+    - Altera Artigo 84.º
+    - Altera Artigo 104.º
+    - Altera Artigo 109.º
+    - Altera Artigo 111.º
+    - Altera Introdução e princípios gerais
+    - Altera 1.6. Avaliação do risco ambiental
+    - 'Altera 3.2. Conteúdo: princípios e requisitos básicos'
+    - Altera a) Princípios
+    - Altera b) Conteúdo
+    - Altera c) Avaliação e certificação
+    - Altera Lista dos prazos de transposição para o direito nacional (referidos no artigo 128.º)
+    - Altera Notas
+  - date: '2009-07-20'
+    amending: null
+    amending_title: Directiva 2009/53/CE do Parlamento Europeu e do Conselho Texto relevante para efeitos do EEE de 18 de
+      Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 16.ºG
+    - Altera Artigo 35.º
+    - Altera Artigo 84.º
+    - Altera Artigo 104.º
+    - Altera Artigo 109.º
+    - Altera Artigo 111.º
+    - Altera Introdução e princípios gerais
+    - Altera 1.6. Avaliação do risco ambiental
+    - 'Altera 3.2. Conteúdo: princípios e requisitos básicos'
+    - Altera a) Princípios
+    - Altera b) Conteúdo
+    - Altera c) Avaliação e certificação
+    - Altera Lista dos prazos de transposição para o direito nacional (referidos no artigo 128.º)
+    - Altera Notas
+    - Adita Artigo 23.ºB
+  - date: '2009-10-05'
+    amending: null
+    amending_title: Directiva 2009/120/CE da Comissão Texto relevante para efeitos do EEE de 14 de Setembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 16.ºG
+    - Altera Artigo 84.º
+    - Altera Artigo 104.º
+    - Altera Artigo 109.º
+    - Altera Artigo 111.º
+    - Altera NORMAS E PROTOCOLOS ANALÍTICOS, FARMACOTÓXICOLÓGICOS E CLÍNICOS EM MATÉRIA DE ENSAIOS DE MEDICAMENTOS
+    - Altera Introdução e princípios gerais
+    - Altera 1.6. Avaliação do risco ambiental
+    - 'Altera 3.2. Conteúdo: princípios e requisitos básicos'
+    - Altera a) Princípios
+    - Altera b) Conteúdo
+    - Altera c) Avaliação e certificação
+    - Altera MEDICAMENTOS DE TERAPIA AVANÇADA
+    - Altera Lista dos prazos de transposição para o direito nacional (referidos no artigo 128.º)
+    - Altera Notas
+    - Adita 1. INTRODUÇÃO
+    - Adita 2. DEFINIÇÕES
+    - Adita 2.1. Medicamento de terapia genética
+    - Adita 2.2. Medicamentos de terapia com células somáticas
+    - Adita 3. REQUISITOS ESPECÍFICOS NO QUE RESPEITA AO MÓDULO 3
+    - Adita 3.1. Requisitos específicos aplicáveis a todos os medicamentos de terapia avançada
+    - Adita 3.2. Requisitos específicos aplicáveis aos medicamentos de terapia genética
+    - 'Adita 3.2.1. Introdução: produto acabado, substância activa e materiais de base'
+    - Adita 3.2.1.1. Medicamento de terapia genética que contém uma sequência ou sequências do ácido nucleico recombinante
+      ou organismo(s) ou vírus geneticamente modificado(s)
+    - Adita 3.2.1.2. Medicamento de terapia genética que contém células geneticamente modificadas
+    - Adita 3.2.2. Requisitos específicos
+    - Adita 3.3. Requisitos específicos aplicáveis a medicamentos de terapia com células somáticas e produtos da engenharia
+      de tecidos
+    - 'Adita 3.3.1. Introdução: produto acabado, substância activa e materiais de base'
+    - Adita 3.3.2. Requisitos específicos
+    - 'Adita 3.3.2.1. Materiais de base:'
+    - Adita 3.3.2.2. Processo de fabrico
+    - Adita 3.3.2.3. Caracterização e estratégia de controlo
+    - Adita 3.3.2.4. Excipientes
+  - date: '2011-01-20'
+    amending: eu:celex:32002L0098:por
+    amending_title: Directiva 2002/98/CE do Parlamento Europeu e do Conselho de 27 de Janeiro de 2003; Directiva 2003/63/CE
+      da Comissão Texto relevante para efeitos do EEE de 25 de Junho de 2003; Directiva 2004/24/CE do Parlamento Europeu e
+      do Conselho de 31 de Março de 2004; Directiva 2004/27/CE do Parlamento Europeu e do Conselho de 31 de Março de 2004;
+      Regulamento (CE) n. o 1901/2006 do Parlamento Europeu e do Conselho de 12 de Dezembro de 2006; Regulamento (CE) n. o
+      1394/2007 do Parlamento Europeu e do Conselho de 13 de Novembro de 2007; Directiva 2008/29/CE do Parlamento Europeu
+      e do Conselho de 11 de Março de 2008; Directiva 2009/53/CE do Parlamento Europeu e do Conselho Texto relevante para
+      efeitos do EEE de 18 de Junho de 2009; Directiva 2009/120/CE da Comissão Texto relevante para efeitos do EEE de 14 de
+      Setembro de 2009; Directiva 2010/84/UE do Parlamento Europeu e do Conselho Texto relevante para efeitos do EEE de 15
+      de Dezembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 11.º
+    - Altera Artigo 16.º
+    - Altera Artigo 16.ºG
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 27.º
+    - Altera Artigo 31.º
+    - Altera Artigo 33.º
+    - Altera Artigo 50.º
+    - Altera Artigo 54.º
+    - Altera Artigo 55.º
+    - Altera Artigo 59.º
+    - Altera Artigo 61.º
+    - Altera Artigo 62.º
+    - Altera Artigo 63.º
+    - Altera Artigo 76.º
+    - Altera Artigo 84.º
+    - Altera Artigo 101.º
+    - Altera Artigo 102.º
+    - Altera Artigo 103.º
+    - Altera Artigo 104.º
+    - Altera Artigo 105.º
+    - Altera Artigo 106.º
+    - Altera Artigo 107.º
+    - Altera Artigo 108.º
+    - Altera Artigo 109.º
+  - date: '2011-07-21'
+    amending: eu:celex:32011L0062:por
+    amending_title: Directiva 2011/62/UE do Parlamento Europeu e do Conselho Texto relevante para efeitos do EEE de 8 de Junho
+      de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 16.ºG
+    - Altera Artigo 40.º
+    - Altera Artigo 46.º
+    - Altera Artigo 47.º
+    - Altera Artigo 51.º
+    - Altera Artigo 54.º
+    - Altera Artigo 57.º
+    - Altera Artigo 76.º
+    - Altera Artigo 77.º
+    - Altera Artigo 80.º
+    - Altera Artigo 82.º
+    - Altera Artigo 84.º
+    - Altera Artigo 109.º
+    - Altera Artigo 111.º
+    - Altera Artigo 116.º
+    - Altera Artigo 121.ºA
+    - Altera Artigo 121.ºB
+    - Altera Introdução e princípios gerais
+    - Altera 1.6. Avaliação do risco ambiental
+    - 'Altera 3.2. Conteúdo: princípios e requisitos básicos'
+    - Altera a) Princípios
+    - Altera b) Conteúdo
+    - Altera c) Avaliação e certificação
+    - Altera 3.1. Requisitos específicos aplicáveis a todos os medicamentos de terapia avançada
+    - Altera 3.4.2. Medicamentos combinados de terapia avançada, na acepção da alínea d) do n.º 1 do artigo 2.º do Regulamento
+      (CE) n.º 1394/2007
+    - Altera Lista dos prazos de transposição para o direito nacional (referidos no artigo 128.º)
+    - Altera Notas
+    - Adita Artigo 46.º-B
+    - Adita Artigo 47.º-A
+    - Adita Artigo 52.º-A
+    - Adita Artigo 52.º-B
+    - Adita Artigo 54.º-A
+  - date: '2019-01-28'
+    amending: eu:celex:32012L0026:por
+    amending_title: DIRETIVA 2012/26/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 25 de outubro
+      de 2012; REGULAMENTO (EU) 2019/5 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 16.ºG
+    - Altera Artigo 23.º-A
+    - Altera Artigo 23.ºB
+    - Altera Artigo 31.º
+    - Altera Artigo 34.º
+    - Altera Artigo 37.º
+    - Altera Artigo 63.º
+    - Altera Artigo 84.º
+    - Altera Artigo 85.º-A
+    - Altera Artigo 85.º-C
+    - Altera Artigo 97.º
+    - Altera Artigo 107.ºI
+    - Altera Artigo 107.ºJ
+    - Altera Artigo 109.º
+    - Altera Artigo 114.º
+    - Altera Artigo 123.º
+    - Altera Introdução e princípios gerais
+    - Altera 1.6. Avaliação do risco ambiental
+    - 'Altera 3.2. Conteúdo: princípios e requisitos básicos'
+    - Altera a) Princípios
+    - Altera b) Conteúdo
+    - Altera c) Avaliação e certificação
+    - Altera 3.1. Requisitos específicos aplicáveis a todos os medicamentos de terapia avançada
+    - Altera 3.4.2. Medicamentos combinados de terapia avançada, na acepção da alínea d) do n.º 1 do artigo 2.º do Regulamento
+      (CE) n.º 1394/2007
+    - Altera Lista dos prazos de transposição para o direito nacional (referidos no artigo 128.º)
+    - Altera Notas
+    - Adita Artigo 121.º-A
+    - Suprime Artigo 121.ºA
+    - Suprime Artigo 121.ºB
+    - Suprime Artigo 121.ºC
+  - date: '2019-07-26'
+    amending: eu:celex:32019R1243:por
+    amending_title: REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 14.º
+    - Altera Artigo 16.ºG
+    - Altera Artigo 23.ºB
+    - Altera Artigo 46.º-A
+    - Altera Artigo 47.º
+    - Altera Artigo 84.º
+    - Altera Artigo 85.º-C
+    - Altera Artigo 109.º
+    - Altera Artigo 120.º
+    - Altera Artigo 121.º
+    - Altera Artigo 121.º-A
+    - Altera Introdução e princípios gerais
+    - Altera 1.6. Avaliação do risco ambiental
+    - 'Altera 3.2. Conteúdo: princípios e requisitos básicos'
+    - Altera a) Princípios
+    - Altera b) Conteúdo
+    - Altera c) Avaliação e certificação
+    - Altera 3.1. Requisitos específicos aplicáveis a todos os medicamentos de terapia avançada
+    - Altera 3.4.2. Medicamentos combinados de terapia avançada, na acepção da alínea d) do n.º 1 do artigo 2.º do Regulamento
+      (CE) n.º 1394/2007
+    - Altera Lista dos prazos de transposição para o direito nacional (referidos no artigo 128.º)
+    - Altera Notas
+  - date: '2021-05-26'
+    amending: eu:celex:32017R0745:por
+    amending_title: REGULAMENTO (UE) 2017/745 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de abril de 2017
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 16.ºG
+    - Altera Artigo 23.ºB
+    - Altera Artigo 71.º
+    - Altera Artigo 84.º
+    - Altera Artigo 85.º-C
+    - Altera Artigo 97.º
+    - Altera Artigo 109.º
+    - Altera Artigo 121.º-A
+    - Altera Introdução e princípios gerais
+    - 'Altera 1. MÓDULO 1: INFORMAÇÕES ADMINISTRATIVAS'
+    - 'Altera 2. MÓDULO 2: RESUMOS'
+    - 'Altera 3. MÓDULO 3: INFORMAÇÕES QUÍMICA, FARMACÊUTICA E BIOLÓGICA RELATIVAS AOS MEDICAMENTOS QUE CONTÊM SUBSTÂNCIAS
+      ACTIVAS QUÍMICAS E/OU BIOLÓGICAS'
+    - 'Altera 4. MÓDULO 4: RELATÓRIOS NÃO CLÍNICOS'
+    - 'Altera 5. MÓDULO 5: RELATÓRIOS DE ESTUDOS CLÍNICOS'
+    - Altera 1. MEDICAMENTOS BIOLÓGICOS
+    - Altera 2. MEDICAMENTOS E PRECURSORES RADIOFARMACÊUTICOS
+    - Altera 4. MEDICAMENTOS À BASE DE PLANTAS
+    - Altera 2. DEFINIÇÕES
+    - Altera 3. REQUISITOS ESPECÍFICOS NO QUE RESPEITA AO MÓDULO 3
+    - Altera 4. REQUISITOS ESPECÍFICOS NO QUE RESPEITA AO MÓDULO 4
+    - Altera 5. REQUISITOS ESPECÍFICOS NO QUE RESPEITA AO MÓDULO 5
+    - Altera Directivas revogadas e suas sucessivas alterações (referidas no artigo 128.º)
+    - Altera Lista dos prazos de transposição para o direito nacional (referidos no artigo 128.º)
+    - Altera Notas
+    - Suprime 1.1. Índice
+    - Suprime 1.2. Formulário do pedido
+    - Suprime 1.3. Resumo das características do medicamento, rotulagem e folheto informativo
+    - Suprime 1.3.1. Resumo das características do medicamento
+    - Suprime 1.3.2. Rotulagem e folheto informativo
+    - Suprime 1.3.3. Projectos de embalgem e amostras
+    - Suprime 1.3.4. Resumos das características do medicamento já aprovados nos Estados-Membros
+    - Suprime 1.4. Informações sobre os peritos
+    - Suprime 1.5. Requisitos específicos para diferentes tipos de pedidos
+    - Suprime 1.6. Avaliação do risco ambiental
+  - date: '2022-01-01'
+    amending: eu:celex:32022L0642:por
+    amending_title: DIRETIVA (UE) 2022/642 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de abril de 2022
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 16.ºG
+    - Altera Artigo 20.º
+    - Altera Artigo 23.ºB
+    - Altera Artigo 40.º
+    - Altera Artigo 48.º
+    - Altera Artigo 84.º
+    - Altera Artigo 85.º-C
+    - Altera Artigo 104.º
+    - Altera Artigo 109.º
+    - Altera Artigo 121.º-A
+    - Altera Introdução e princípios gerais
+    - 'Altera 1. MÓDULO 1: INFORMAÇÕES ADMINISTRATIVAS'
+    - 'Altera 3. MÓDULO 3: INFORMAÇÕES QUÍMICA, FARMACÊUTICA E BIOLÓGICA RELATIVAS AOS MEDICAMENTOS QUE CONTÊM SUBSTÂNCIAS
+      ACTIVAS QUÍMICAS E/OU BIOLÓGICAS'
+    - Altera 1. MEDICAMENTOS BIOLÓGICOS
+    - Altera 3. REQUISITOS ESPECÍFICOS NO QUE RESPEITA AO MÓDULO 3
+    - Altera Lista dos prazos de transposição para o direito nacional (referidos no artigo 128.º)
+    - Altera Notas
+    - Adita Artigo 5.º-A
+    - Adita Artigo 18.º-A
+    - Adita Artigo 111.º-C
+    - Adita Artigo 126.º-C
+    - Adita Artigo 127.º-C
+    - Adita Artigo 127.º-D
+  - date: '2025-01-01'
+    amending: eu:celex:32023R1182:por
+    amending_title: REGULAMENTO (UE) 2023/1182 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de junho de 2023
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 16.ºG
+    - Altera Artigo 23.ºB
+    - Altera Artigo 84.º
+    - Altera Artigo 85.º-C
+    - Altera Artigo 109.º
+    - Altera Artigo 121.º-A
+    - Altera Introdução e princípios gerais
+    - 'Altera 1. MÓDULO 1: INFORMAÇÕES ADMINISTRATIVAS'
+    - 'Altera 3. MÓDULO 3: INFORMAÇÕES QUÍMICA, FARMACÊUTICA E BIOLÓGICA RELATIVAS AOS MEDICAMENTOS QUE CONTÊM SUBSTÂNCIAS
+      ACTIVAS QUÍMICAS E/OU BIOLÓGICAS'
+    - Altera 1. MEDICAMENTOS BIOLÓGICOS
+    - Altera 3. REQUISITOS ESPECÍFICOS NO QUE RESPEITA AO MÓDULO 3
+    - Altera Lista dos prazos de transposição para o direito nacional (referidos no artigo 128.º)
+    - Altera Notas
+    - Suprime Artigo 5.º-A
 identifiers:
   celex: 32001L0083
   eli: http://data.europa.eu/eli/dir/2001/83/oj
@@ -49,7 +511,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6af3ed69-c00a-4629-9deb-a7003a30a52d.0010
   content_url: http://publications.europa.eu/resource/cellar/d105edf6-c200-11ef-91ed-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0083-20250101
-  retrieved_at: '2026-10-22T02:36:00Z'
+  retrieved_at: '2026-10-22T17:38:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-05-11T14:58:10.224+02:00'
 integrity:
@@ -58,9 +520,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:00Z'
-  notes: Texto consolidado 02001L0083-20250101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:38:41Z'
+  notes: 13 versão(ões); histórico completo em diretiva-ue-2001-83.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -708,50 +1170,22 @@ relationships:
   source: null
 article_structure:
   article_count: 197
-  section_count: 102
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 103
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:00Z'
-  warnings: []
+  checked_at: '2026-10-22T17:38:41Z'
+  warnings:
+  - '02001L0083-20030208: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001L0083-20030701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001L0083-20040430: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 2001/83/CE do Parlamento Europeu e do Conselho, de 6 de Novembro de 2001
-
-> 02001L0083 — PT — 01.01.2025 — 016.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32002L0098) — [DIRECTIVA 2002/98/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de Janeiro de 2003](http://publications.europa.eu/resource/celex/32002L0098) — L 33 — 30 — 8.2.2003
-- [►M2](http://publications.europa.eu/resource/celex/32003L0063) — [DIRECTIVA 2003/63/CE DA COMISSÃO de 25 de Junho de 2003](http://publications.europa.eu/resource/celex/32003L0063) — L 159 — 46 — 27.6.2003
-- [►M3](http://publications.europa.eu/resource/celex/32004L0024) — [DIRECTIVA 2004/24/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 31 de Março de 2004](http://publications.europa.eu/resource/celex/32004L0024) — L 136 — 85 — 30.4.2004
-- [►M4](http://publications.europa.eu/resource/celex/32004L0027) — [DIRECTIVA 2004/27/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 31 de Março de 2004](http://publications.europa.eu/resource/celex/32004L0027) — L 136 — 34 — 30.4.2004
-- [►M5](http://publications.europa.eu/resource/celex/32006R1901) — [REGULAMENTO (CE) N.O 1901/2006 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006R1901) — L 378 — 1 — 27.12.2006
-- [►M6](http://publications.europa.eu/resource/celex/32007R1394) — [REGULAMENTO (CE) N.º 1394/2007 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de Novembro de 2007](http://publications.europa.eu/resource/celex/32007R1394) — L 324 — 121 — 10.12.2007
-- [►M7](http://publications.europa.eu/resource/celex/32008L0029) — [DIRECTIVA 2008/29/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2008](http://publications.europa.eu/resource/celex/32008L0029) — L 81 — 51 — 20.3.2008
-- [►M8](http://publications.europa.eu/resource/celex/32009L0053) — [DIRECTIVA 2009/53/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009](http://publications.europa.eu/resource/celex/32009L0053) — L 168 — 33 — 30.6.2009
-- [►M9](http://publications.europa.eu/resource/celex/32009L0120) — [DIRECTIVA 2009/120/CE DA COMISSÃO de 14 de Setembro de 2009](http://publications.europa.eu/resource/celex/32009L0120) — L 242 — 3 — 15.9.2009
-- [►M10](http://publications.europa.eu/resource/celex/32010L0084) — [DIRECTIVA 2010/84/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de Dezembro de 2010](http://publications.europa.eu/resource/celex/32010L0084) — L 348 — 74 — 31.12.2010
-- [►M11](http://publications.europa.eu/resource/celex/32011L0062) — [DIRECTIVA 2011/62/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de Junho de 2011](http://publications.europa.eu/resource/celex/32011L0062) — L 174 — 74 — 1.7.2011
-- [►M12](http://publications.europa.eu/resource/celex/32012L0026) — [DIRETIVA 2012/26/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de outubro de 2012](http://publications.europa.eu/resource/celex/32012L0026) — L 299 — 1 — 27.10.2012
-- [►M13](http://publications.europa.eu/resource/celex/32017R0745) — [REGULAMENTO (UE) 2017/745 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de abril de 2017](http://publications.europa.eu/resource/celex/32017R0745) — L 117 — 1 — 5.5.2017
-- [►M14](http://publications.europa.eu/resource/celex/32019R0005) — [REGULAMENTO (EU) 2019/5 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2018](http://publications.europa.eu/resource/celex/32019R0005) — L 4 — 24 — 7.1.2019
-- [►M15](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-- [►M16](http://publications.europa.eu/resource/celex/32022L0642) — [DIRETIVA (UE) 2022/642 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de abril de 2022](http://publications.europa.eu/resource/celex/32022L0642) — L 118 — 4 — 20.4.2022
-- [►M17](http://publications.europa.eu/resource/celex/32023R1182) — [REGULAMENTO (UE) 2023/1182 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de junho de 2023](http://publications.europa.eu/resource/celex/32023R1182) — L 157 — 1 — 20.6.2023
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32007R1394R%2801%29) — [Rectificação, JO L 087, 31.3.2009, p. 174 (1394/2007)](http://publications.europa.eu/resource/celex/32007R1394R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32010L0084R%2802%29) — [Rectificação, JO L 276, 21.10.2011, p. 63 (2010/84/UE)](http://publications.europa.eu/resource/celex/32010L0084R%2802%29)
-
-## DIRECTIVA 2001/83/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 6 de Novembro de 2001
 

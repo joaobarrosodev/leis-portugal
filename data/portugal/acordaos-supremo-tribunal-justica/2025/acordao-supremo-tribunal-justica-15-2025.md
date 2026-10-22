@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/15/2025/11/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/15-2025-945116928
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-10T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f73dc38b107b7d86ff2023d40536e0f39a6fed453fc6ed5656f258debb720b92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba2706a7876beeefa5388eced8c52b13689a6f5899798801172f82733787223a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Despedimento
 - Código do Trabalho
+- Contrato de Trabalho
 - Convenção Coletiva de Trabalho
+- Despedimento
 - Jurisprudencia
 - Posto de Trabalho
-- Contrato de Trabalho
 - Reintegração de Pessoal
 - TAP
 relationships:
@@ -82,13 +82,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:23Z'
   warnings: []
   errors: []
 ---
@@ -451,7 +451,7 @@ A TAP Air Portugal agradece a colaboração prestada por V. Exa. Com os nossos c
 
 26 - O que criou na A. CC revolta e confusão.
 
-27 - A R. encetou um plano de contingência em função da paralisação total da sua atividade, do qual faziam parte várias medidas a que legalmente podiam recorrer, desde o lay off à caducidade dos contratos a termo (aplicável ao PNC como ao pessoal de terra), passando por medidas que dependem do acordo dos trabalhadores, como sejam as licenças sem retribuição (cf. docs. n.<sup>os</sup>6, 7 e 8 que se juntam e dão por reproduzidos).
+27 - A R. encetou um plano de contingência em função da paralisação total da sua atividade, do qual faziam parte várias medidas a que legalmente podiam recorrer, desde o lay off à caducidade dos contratos a termo (aplicável ao PNC como ao pessoal de terra), passando por medidas que dependem do acordo dos trabalhadores, como sejam as licenças sem retribuição (cf. docs. n.os6, 7 e 8 que se juntam e dão por reproduzidos).
 
 28 - A R., à data daquela paralisação, não encerrou nenhuma das suas rotas, antes deixou nas datas referidas de voar para qualquer destino.
 
@@ -553,7 +553,8 @@ A TAP Air Portugal agradece a colaboração prestada por V. Exa. Com os nossos c
 
 50 - Aquelas rotas tiveram o seu primeiro voo e encerraram ou mantiveram-se activas conforme quadro que segue:
 
-![](https://files.diariodarepublica.pt/images/945116928/944877766.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/945116928/944877766.png) |
+| --- |
 
 51 - A R. encerrou as seguintes rotas já abertas:
 
@@ -709,7 +710,7 @@ c) Ocorrência de motivo justificativo em contrário relacionado com exercício 
 
 8 - Os tripulantes contratados como CAB 0 até à data da assinatura deste acordo manter-se-ão como CAB 0, por um período máximo de três anos, para efeitos exclusivamente remuneratórios, sendo eliminado para todos os demais efeitos, nomeadamente de evolução na carreira e de antiguidade, contando todo o tempo de antiguidade e categoria na posição de CAB 0 para os efeitos de anuidades e integração nos níveis salariais.
 
-Como se vê dos n.<sup>os</sup>1 e 3 da cláusula 4.ª e n.<sup>os</sup>1 e 2 da cláusula 5.ª, apenas os tripulantes de cabine contratados a termo são classificados nas categorias CAB início e CAB 0, sendo os tripulantes com contrato por tempo indeterminados integrados na categoria CAB I.” (sublinhado nosso)
+Como se vê dos n.os1 e 3 da cláusula 4.ª e n.os1 e 2 da cláusula 5.ª, apenas os tripulantes de cabine contratados a termo são classificados nas categorias CAB início e CAB 0, sendo os tripulantes com contrato por tempo indeterminados integrados na categoria CAB I.” (sublinhado nosso)
 
 Este Acórdão concluiu, seguidamente, que um trabalhador contratado a termo, mas cujo contrato se converteu em contrato sem termo por não existir motivo válido para a existência do termo deveria para efeitos da sua evolução salarial ser considerado como tendo sido admitido pela CAB 1.
 
@@ -717,9 +718,9 @@ Em primeiro lugar, concorda-se inteiramente com o Acórdão referido quando este
 
 Mas, assim sendo, tais cláusulas ao preverem uma categoria de admissão para contratados a termo com retribuições menos elevadas e uma evolução/progressão salarial mais longa, violam diretamente o princípio da igualdade de tratamento entre trabalhadores contratados a termo e trabalhadores contratados por tempo indeterminado.
 
-A jurisprudência do Tribunal de Justiça tem, reiteradamente, afirmado que este princípio corresponde a um princípio fundamental do Direito da União Europeia<sup>1</sup> que não deve ser interpretado restritivamente e que não pode ser violado nem sequer por convenção coletiva<sup>2</sup>. Trata-se, desde logo, de um princípio consagrado no artigo 4.º n.º 1 do Acordo-Quadro CES, UNICE e CEEP relativo ao contrato de trabalho a termo, anexo à [Diretiva 1999/70/CE](https://data.europa.eu/eli/dir/1999/70/oj?locale=pt) do Conselho de 28 de junho de 1999: “No que diz respeito às condições de emprego, não poderão os trabalhadores contratados a termo receber tratamento menos favorável do que os trabalhadores permanentes numa situação comparável pelo simples motivo de os primeiros terem um contrato ou uma relação laboral a termo, salvo se razões objectivas justificarem um tratamento diferente” <sup>3</sup>.
+A jurisprudência do Tribunal de Justiça tem, reiteradamente, afirmado que este princípio corresponde a um princípio fundamental do Direito da União Europeia1 que não deve ser interpretado restritivamente e que não pode ser violado nem sequer por convenção coletiva2. Trata-se, desde logo, de um princípio consagrado no artigo 4.º n.º 1 do Acordo-Quadro CES, UNICE e CEEP relativo ao contrato de trabalho a termo, anexo à [Diretiva 1999/70/CE](https://data.europa.eu/eli/dir/1999/70/oj?locale=pt) do Conselho de 28 de junho de 1999: “No que diz respeito às condições de emprego, não poderão os trabalhadores contratados a termo receber tratamento menos favorável do que os trabalhadores permanentes numa situação comparável pelo simples motivo de os primeiros terem um contrato ou uma relação laboral a termo, salvo se razões objectivas justificarem um tratamento diferente” 3.
 
-A lei portuguesa transpôs o referido princípio. Com efeito, o princípio da igualdade de tratamento estava consagrado no artigo 136.º do Código do Trabalho de 2003<sup>4</sup>, tal como está hoje consagrado no artigo 146.º n.º 1 do Código do Trabalho de 2009, e, por força da interpretação conforme, há que atribuir a este preceito natureza imperativa.
+A lei portuguesa transpôs o referido princípio. Com efeito, o princípio da igualdade de tratamento estava consagrado no artigo 136.º do Código do Trabalho de 20034, tal como está hoje consagrado no artigo 146.º n.º 1 do Código do Trabalho de 2009, e, por força da interpretação conforme, há que atribuir a este preceito natureza imperativa.
 
 Assim, há que concluir pela nulidade, por violação de norma legal imperativa, das cláusulas que previam categorias inferiores na admissão para os contratados a termo, com a consequência de que os Recorrentes, tal como já foi decidido em situação similar pelo mencionado Acórdão de 16-06-2016, se devem considerar para efeitos de evolução salarial, como tendo sido admitidos com a CAB 1.
 
@@ -765,7 +766,7 @@ A Reclamante respondeu.
 
 Começando a análise pelo pedido de reforma do Acórdão este funda-se na alegada existência de “erro grosseiro, evidente e incontroverso” (n.º 207 da Reclamação) que decorreria da “aplicação claramente incorreta dos cânones hermenêuticos previstos no artigo 9.º do CC” (n.º 211), já que o AUJ recorreu exclusivamente ao elemento literal e “é pacífico e inequívoco que o intérprete-aplicador tem um dever de esgotar todos os critérios interpretativos que estejam ao seu alcance, mesmo que o elemento literal aparentemente pareça apontar num único sentido” (n.º 218 da Reclamação).
 
-Respondendo dir-se-á que, como ensina BAPTISTA MACHADO, o texto é o ponto de partida da interpretação, cabendo-lhe uma função negativa, a de “eliminar aqueles sentidos que não tenham qualquer apoio ou pelo menos uma correspondência ou ressonância nas palavras da lei”, mas também uma função positiva, que é, desde logo a seguinte: “se o texto comporta apenas um sentido, é esse o sentido da norma”. É precisamente o que sucede aqui com a “CAB 0 (contratos a termo”): resulta do teor literal da norma, sem necessidade de mais indagações, que se trata de uma categoria para contratados a termo<sup>1</sup>.
+Respondendo dir-se-á que, como ensina BAPTISTA MACHADO, o texto é o ponto de partida da interpretação, cabendo-lhe uma função negativa, a de “eliminar aqueles sentidos que não tenham qualquer apoio ou pelo menos uma correspondência ou ressonância nas palavras da lei”, mas também uma função positiva, que é, desde logo a seguinte: “se o texto comporta apenas um sentido, é esse o sentido da norma”. É precisamente o que sucede aqui com a “CAB 0 (contratos a termo”): resulta do teor literal da norma, sem necessidade de mais indagações, que se trata de uma categoria para contratados a termo1.
 
 Não se deve, por conseguinte, recorrer aos outros cânones hermenêuticos para, no limite, ter o escrito como não escrito.
 
@@ -890,3 +891,5 @@ Albertina das Dores Nunes Aveiro Pereira
 Mário Belo Morgado
 
 1 - BAPTISTA MACHADO, Introdução ao Direito e ao Discurso Legitimador, 13.ª reimpressão, Almedina, Coimbra, p. 182.
+
+119739364

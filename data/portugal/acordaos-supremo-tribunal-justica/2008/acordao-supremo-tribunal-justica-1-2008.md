@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/1/2008/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/1-2008-246538
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T17:52:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f259c83d5c310e6c0e2d19604e2cbe7d9712520c0ada67b3181566e8b1854cc8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd7a0cfcbab1ffea51f6be61ea39a428f803b5dc19a665d5e7c2ea0574d3023d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:52:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,22 +71,30 @@ reuse:
 subjects:
 - Aquisição de Imóveis
 - Documento Autentico
-- Registos e Notariado
 - Impugnação
 - Interpretação do Direito
 - ONUS da Prova
+- Registos e Notariado
 - Usucapiao
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:231095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592766:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:52:29Z'
   warnings: []
   errors: []
 ---
@@ -227,21 +235,21 @@ Daí a necessidade de uniformização da jurisprudência.
 
 2 - No caso dos autos, trata-se de uma escritura de justificação notarial para estabelecimento de trato sucessivo no registo predial, prevista no artigo 116.º, n.º 1, do Código do Registo Predial e nos artigos 89.º, 96.º, n.º 1, e 101.º do Código do Notariado, que dispõem o seguinte:
 
-###### Artigo 116.º, n.º 1, do Código do Registo Predial:
+Artigo 116.º, n.º 1, do Código do Registo Predial:
 
 «O adquirente que não disponha de documento para prova do seu direito pode obter a primeira inscrição mediante escritura de justificação notarial ou decisão proferida no âmbito do processo de justificação previsto neste capítulo.»
 
-###### Artigo 89.º do Código do Notariado:
+Artigo 89.º do Código do Notariado:
 
 «1 - A justificação para efeitos do n.º 1 do artigo 116.º do Código do Registo Predial consiste na declaração, feita pelo interessado, em que este se afirme, com exclusão de outrem, titular do direito que se arroga, especificando a causa da sua aquisição e referindo as razões que o impossibilitam de a comprovar pelos meios normais.
 
 2 - Quando for alegada a usucapião, baseada em posse não titulada, devem mencionar-se expressamente as circunstâncias de facto que determinam o início da posse, bem como as que consubstanciam e caracterizam a posse geradora da usucapião.»
 
-###### Artigo 96.º, n.º 1, do Código do Notariado:
+Artigo 96.º, n.º 1, do Código do Notariado:
 
 «As declarações prestadas pelo justificante são confirmadas por três declarantes.»
 
-###### Artigo 101.º do Código do Notariado:
+Artigo 101.º do Código do Notariado:
 
 «1 - Se algum interessado impugnar em juízo o facto justificado, deve requerer simultaneamente ao tribunal a imediata comunicação ao notário da pendência da acção.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44465-1962-162607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-07-16T00:00:00Z'
+  retrieved_at: '2026-10-22T19:30:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d86d1ad56dcbfd7964b2d366c37b82ffd02f1b0d2a0dd93c669db2b04d324a4c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e5eea39f95f717b6c44bac34777fb280ed8ec60925ba638180ee3a789a553f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:30:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685850:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:30:13Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +132,11 @@ Assim, por motivo de urgência, nos termos do § 1.º do artigo 150.º da Consti
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, o seguinte:
 
-###### Artigo 1.º É atribuída ao médico estomatologista do Exército colocado no Comando Militar da província de Cabo Verde a gratificação especial mensal de 2500$00, como remuneração dos serviços da sua especialização prestados no Hospital da Praia.
+Artigo 1.º É atribuída ao médico estomatologista do Exército colocado no Comando Militar da província de Cabo Verde a gratificação especial mensal de 2500$00, como remuneração dos serviços da sua especialização prestados no Hospital da Praia.
 
 § único. O abono da presente gratificação cessa a partir da data da apresentação ao serviço do médico estomatologista colocado na província.
 
-###### Art. 2.º É autorizado o Governo da província da Guiné a acordar com os Transportes Aéreos Portugueses a instalação de uma agência na província, com carácter temporário, sob a directa dependência dos serviços de aeronáutica civil.
+Art. 2.º É autorizado o Governo da província da Guiné a acordar com os Transportes Aéreos Portugueses a instalação de uma agência na província, com carácter temporário, sob a directa dependência dos serviços de aeronáutica civil.
 
 § 1.º O pessoal da agência a contratar fora dos quadros, nos termos da alínea b) do § 1.º do artigo 45.º do Estatuto do Funcionalismo Ultramarino, será constituído pelas seguintes unidades:
 
@@ -124,9 +160,9 @@ Rendimentos da Agência dos Transportes Aéreos.
 
 § 5.º Fica o Governo da província autorizado a regulamentar, com obediência às regras da contabilidade pública, o funcionamento da agência.
 
-###### Art. 3.º Fica o Governo da província de S. Tomé e Príncipe autorizado a abrir um crédito especial da quantia de 127405$30, em adicional à tabela de despesa extraordinária do orçamento geral em vigor, destinado a custear o pagamento de despesas realizadas no ano de 1961 com o restauro de monumentos nacionais, tomando como contrapartida o saldo das contas de exercícios findos.
+Art. 3.º Fica o Governo da província de S. Tomé e Príncipe autorizado a abrir um crédito especial da quantia de 127405$30, em adicional à tabela de despesa extraordinária do orçamento geral em vigor, destinado a custear o pagamento de despesas realizadas no ano de 1961 com o restauro de monumentos nacionais, tomando como contrapartida o saldo das contas de exercícios findos.
 
-###### Art. 4.º O n.º 2) do artigo 29.º do [Decreto n.º 42672](https://diariodarepublica.pt/dr/detalhe/decreto/42672-1959-438389), de 23 de Novembro de 1959, passa a ter a seguinte redacção:
+Art. 4.º O n.º 2) do artigo 29.º do [Decreto n.º 42672](https://diariodarepublica.pt/dr/detalhe/decreto/42672-1959-438389), de 23 de Novembro de 1959, passa a ter a seguinte redacção:
 
 ###### Artigo 29.º ...
 
@@ -152,59 +188,59 @@ b) Pessoal auxiliar técnico:
 
 4 de motorista de 2.ª classe.
 
-###### Art. 5.º É autorizado o Governo-Geral de Angola a dar o aval da província no empréstimo de 2050000$00 a contrair pela firma Fernando da Silva Laires, com sede em Luanda, no Banco de Fomento Nacional, com as cláusulas e condições que forem ajustadas entre si e destinado à aquisição de duas viaturas para transportes públicos e à construção de uma garagem e estação de serviço para recolha e assistência das viaturas.
+Art. 5.º É autorizado o Governo-Geral de Angola a dar o aval da província no empréstimo de 2050000$00 a contrair pela firma Fernando da Silva Laires, com sede em Luanda, no Banco de Fomento Nacional, com as cláusulas e condições que forem ajustadas entre si e destinado à aquisição de duas viaturas para transportes públicos e à construção de uma garagem e estação de serviço para recolha e assistência das viaturas.
 
 § único. A província goza do privilégio creditório, nos termos do artigo 878.º do Código Civil, pelas quantias que haja de despender para cumprimento da responsabilidade assumida nos termos do corpo do artigo.
 
-###### Art. 6.º Fica o Governo-Geral de Moçambique autorizado a contratar ou assalariar, além dos quadros fixados por lei para o serviço meteorológico provincial, o pessoal das categorias incluídas no quadro privativo que for necessário para executar os trabalhos de meteorologia e geofísica correspondentes à participação da província no programa da Expedição Internacional ao Oceano Índico, e também a admitir estagiários para adquirirem a preparação técnica necessária para executar aqueles trabalhos.
+Art. 6.º Fica o Governo-Geral de Moçambique autorizado a contratar ou assalariar, além dos quadros fixados por lei para o serviço meteorológico provincial, o pessoal das categorias incluídas no quadro privativo que for necessário para executar os trabalhos de meteorologia e geofísica correspondentes à participação da província no programa da Expedição Internacional ao Oceano Índico, e também a admitir estagiários para adquirirem a preparação técnica necessária para executar aqueles trabalhos.
 
 § único. Os vencimentos, salários, subsídios e outros abonos aos indivíduos admitidos nos termos deste artigo serão pagos pelas verbas globais de despesa extraordinária com aqueles trabalhos, inscrita ou a inscrever no orçamento geral da província.
 
-###### Art. 7.º É atribuído no corrente ano, à Santa Casa da Misericórdia da província de Macau um subsídio extraordinário até ao montante de 400000$00, expressamente destinado à realização de obras de adaptação no rés-do-chão do seu edifício arrendado ao Estado para instalação da secretaria notarial. As obras deverão ser executadas com o prévio acordo do Governo da província.
+Art. 7.º É atribuído no corrente ano, à Santa Casa da Misericórdia da província de Macau um subsídio extraordinário até ao montante de 400000$00, expressamente destinado à realização de obras de adaptação no rés-do-chão do seu edifício arrendado ao Estado para instalação da secretaria notarial. As obras deverão ser executadas com o prévio acordo do Governo da província.
 
-###### Art. 8.º Para a execução do disposto no artigo antecedente e para ocorrer a despesas de apetrechamento da referida secretaria notarial, fica o Governo da província de Macau autorizado a abrir dois créditos especiais até aos montantes de 400000$00 e 40000$00, respectivamente, a inscrever na tabela de despesa extraordinária, com contrapartida no saldo das contas de exercícios findos.
+Art. 8.º Para a execução do disposto no artigo antecedente e para ocorrer a despesas de apetrechamento da referida secretaria notarial, fica o Governo da província de Macau autorizado a abrir dois créditos especiais até aos montantes de 400000$00 e 40000$00, respectivamente, a inscrever na tabela de despesa extraordinária, com contrapartida no saldo das contas de exercícios findos.
 
-###### Art. 9.º As alíneas d) e e) do § 1.º do artigo 5.º do [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415), de 25 de Maio de 1962, passam a ter a seguinte redacção:
+Art. 9.º As alíneas d) e e) do § 1.º do artigo 5.º do [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415), de 25 de Maio de 1962, passam a ter a seguinte redacção:
 
 d) Segundos-adjuntos do chefe de missão ou engenheiro residente (pessoal técnico superior) - G;
 
 e) Segundos-assistentes das missões, técnicos de 2.ª classe (pessoal técnico superior) - H.
 
-###### Art. 10.º Aos primeiros-assistentes das missões e brigadas são exigidas as habilitações referidas no artigo 34.º do regulamento aprovado pelo [Decreto n.º 41029](https://diariodarepublica.pt/dr/detalhe/decreto/41029-1957-654312), de 15 de Março de 1957.
+Art. 10.º Aos primeiros-assistentes das missões e brigadas são exigidas as habilitações referidas no artigo 34.º do regulamento aprovado pelo [Decreto n.º 41029](https://diariodarepublica.pt/dr/detalhe/decreto/41029-1957-654312), de 15 de Março de 1957.
 
 § único. Os actuais primeiros-assistentes das missões e brigadas que não possuam tais habilitações passarão a designar-se segundos-adjuntos de chefe de missão.
 
-###### Art. 11.º É extinta no quadro especial técnico, nos dois escalões do quadro comum, a que se refere o artigo 31.º do decreto n.º 41365, de 15 de Novembro de 1957, a categoria de veterinário de 3.ª classe, considerando-se aumentado o quadro comum na 2.ª classe com as unidades a fixar pelos governadores das respectivas províncias segundo as necessidades do serviço, mas em número nunca superior às suprimidas na 3.ª classe.
+Art. 11.º É extinta no quadro especial técnico, nos dois escalões do quadro comum, a que se refere o artigo 31.º do decreto n.º 41365, de 15 de Novembro de 1957, a categoria de veterinário de 3.ª classe, considerando-se aumentado o quadro comum na 2.ª classe com as unidades a fixar pelos governadores das respectivas províncias segundo as necessidades do serviço, mas em número nunca superior às suprimidas na 3.ª classe.
 
-###### Art. 12.º São extintas no quadro especial técnico, nos três escalões do quadro comum, a que se referem o artigo 54.º do decreto n.º 41482, de 28 de Dezembro de 1957, e o artigo 38.º do Diploma Legislativo Ministerial n.º 88, de 26 de Outubro de 1961, publicado em Angola, as categorias de agrónomo de 3.ª classe, silvicultor de 3.ª classe e outros técnicos habilitados com curso superior, considerando-se aumentado o quadro comum na 2.ª classe com as unidades a fixar pelos governadores das respectivas províncias segundo a necessidade dos serviços, mas em número nunca superior às suprimidas na 3.ª classe.
+Art. 12.º São extintas no quadro especial técnico, nos três escalões do quadro comum, a que se referem o artigo 54.º do decreto n.º 41482, de 28 de Dezembro de 1957, e o artigo 38.º do Diploma Legislativo Ministerial n.º 88, de 26 de Outubro de 1961, publicado em Angola, as categorias de agrónomo de 3.ª classe, silvicultor de 3.ª classe e outros técnicos habilitados com curso superior, considerando-se aumentado o quadro comum na 2.ª classe com as unidades a fixar pelos governadores das respectivas províncias segundo a necessidade dos serviços, mas em número nunca superior às suprimidas na 3.ª classe.
 
 § único. É aplicável aos regentes agrícolas e florestais de 3.ª classe o disposto neste artigo.
 
-###### Art. 13.º Os técnicos de 3.ª classe a que se referem os artigos 11.º e 12.º ingressam na 2.ª classe dos respectivos quadros comuns, nos escalões a que pertencem, por simples portaria anotada, com dispensa das formalidades de visto e posse.
+Art. 13.º Os técnicos de 3.ª classe a que se referem os artigos 11.º e 12.º ingressam na 2.ª classe dos respectivos quadros comuns, nos escalões a que pertencem, por simples portaria anotada, com dispensa das formalidades de visto e posse.
 
 A antiguidade na 2.ª classe conta-se, para todos os efeitos, desde a data do ingresso no quadro na 3.ª classe.
 
-###### Art. 14.º Os artigos 15.º e 16.º do [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415), de 25 de Maio de 1962, abrangem o pessoal técnico médio e superior das brigadas e missões.
+Art. 14.º Os artigos 15.º e 16.º do [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415), de 25 de Maio de 1962, abrangem o pessoal técnico médio e superior das brigadas e missões.
 
-###### Art. 15.º A redacção do artigo 18.º e alínea c) do artigo 19.º do [Decreto n.º 44227](https://diariodarepublica.pt/dr/detalhe/decreto/44227-1962-518188), de 9 de Março de 1962, passa a ser a seguinte:
+Art. 15.º A redacção do artigo 18.º e alínea c) do artigo 19.º do [Decreto n.º 44227](https://diariodarepublica.pt/dr/detalhe/decreto/44227-1962-518188), de 9 de Março de 1962, passa a ser a seguinte:
 
-###### Art. 18.º Consideram-se denunciados e rescindidos no termo dos respectivos prazos todos os contratos do pessoal das brigadas extintas; se pertencer a outros quadros e nelas tiver servido em comissão ou por contrato, regressa imediatamente aos quadros de origem, salvo quanto aos engenheiros que requeiram o ingresso no quadro comum nos termos deste diploma.
+Art. 18.º Consideram-se denunciados e rescindidos no termo dos respectivos prazos todos os contratos do pessoal das brigadas extintas; se pertencer a outros quadros e nelas tiver servido em comissão ou por contrato, regressa imediatamente aos quadros de origem, salvo quanto aos engenheiros que requeiram o ingresso no quadro comum nos termos deste diploma.
 
-###### Art. 19.º ...
+Art. 19.º ...
 
 c) Como engenheiro-chefe, os engenheiros que, sendo chefes de brigada, tenham mais de doze anos de serviço seguido ou interpolado como chefe de missão ou de brigada de estudo e construção de portos ou caminhos de ferro no ultramar e boas informações.
 
-###### Art. 16.º O artigo 2.º do [Decreto n.º 43108](https://diariodarepublica.pt/dr/detalhe/decreto/43108-1960-501237), de 5 de Agosto de 1960, passa a ter a seguinte redacção:
+Art. 16.º O artigo 2.º do [Decreto n.º 43108](https://diariodarepublica.pt/dr/detalhe/decreto/43108-1960-501237), de 5 de Agosto de 1960, passa a ter a seguinte redacção:
 
-###### Art. 2.º Este empréstimo vencerá o juro de 2,5 por cento ao ano e será levantado da seguinte maneira: 44000000$00 em 1960; 22000000$00 em 1961; 44000000$00 em 1962, e 22000000$00 em 1963.
+Art. 2.º Este empréstimo vencerá o juro de 2,5 por cento ao ano e será levantado da seguinte maneira: 44000000$00 em 1960; 22000000$00 em 1961; 44000000$00 em 1962, e 22000000$00 em 1963.
 
-###### Art. 17.º Ficam os governadores-gerais e de província autorizados a abrir, cumpridas as formalidades legais, os créditos necessários para a execução deste diploma, servindo de contrapartida disponibilidades ou recursos orçamentais.
+Art. 17.º Ficam os governadores-gerais e de província autorizados a abrir, cumpridas as formalidades legais, os créditos necessários para a execução deste diploma, servindo de contrapartida disponibilidades ou recursos orçamentais.
 
-###### Art. 18.º Fica o Ministro do Ultramar autorizado a mandar aplicar por simples despachos, a quaisquer despesas de apetrechamento de interesse comum das províncias ultramarinas e do Ministério do Ultramar, como tal declarado nos mesmos despachos, a parte do saldo da conta a que se referem o artigo 8.º do [Decreto n.º 26288](https://diariodarepublica.pt/dr/detalhe/decreto/26288-1936-685850), de 28 de Janeiro de 1936, e o § 3.º do artigo 73.º do [Decreto n.º 41968](https://diariodarepublica.pt/dr/detalhe/decreto/41968-1958-339383), de 22 de Novembro de 1958, que se mostrar exceder o limite dos encargos anuais do empréstimo contraído ao abrigo da base XIX da [Lei n.º 1920](https://diariodarepublica.pt/dr/detalhe/lei/1920-1935-576311), de 29 de Maio de 1935.
+Art. 18.º Fica o Ministro do Ultramar autorizado a mandar aplicar por simples despachos, a quaisquer despesas de apetrechamento de interesse comum das províncias ultramarinas e do Ministério do Ultramar, como tal declarado nos mesmos despachos, a parte do saldo da conta a que se referem o artigo 8.º do [Decreto n.º 26288](https://diariodarepublica.pt/dr/detalhe/decreto/26288-1936-685850), de 28 de Janeiro de 1936, e o § 3.º do artigo 73.º do [Decreto n.º 41968](https://diariodarepublica.pt/dr/detalhe/decreto/41968-1958-339383), de 22 de Novembro de 1958, que se mostrar exceder o limite dos encargos anuais do empréstimo contraído ao abrigo da base XIX da [Lei n.º 1920](https://diariodarepublica.pt/dr/detalhe/lei/1920-1935-576311), de 29 de Maio de 1935.
 
-###### Art. 19.º Este decreto entra imediatamente em vigor e revoga as disposições em contrário.
+Art. 19.º Este decreto entra imediatamente em vigor e revoga as disposições em contrário.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Julho de 1962. - ANTÓNIO DE OLIVEIRA SALAZAR. - Adriano José Alves Moreira.
 

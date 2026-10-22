@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 255/1993, 3º Suplemento, Série I-B de 1993-10-30
   number: '255'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 6130-(30) a 6130-(30)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/10/255b03/00300030.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/221/1993/10/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/221-1993-664521
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:37:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83fa1dbfff14b686595136c6bae2783f502b080b04c5cf38f0863bae93236053
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 712c2000d7f2326f264d2e0a157be30a696d59706d0b9da7e28ab0acfcc1b201
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:37:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,37 +67,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Educação
 - Encargos Gerais da Nação
-- Ministério do Planeamento e da Administração do Território
-- Ministério do MAR
-- Ministério das Obras Públicas Transportes e Comunicações
-- Ministério das Finanças
+- Ministério da Educação
 - Ministério da Indústria e Energia
+- Ministério da Saúde
+- Ministério das Finanças
+- Ministério das Obras Públicas Transportes e Comunicações
 - Ministério do Ambiente e Recursos Naturais
 - Ministério do Comércio e Turismo
 - Ministério do Emprego e da Segurança Social
-- Ministério da Saúde
+- Ministério do MAR
+- Ministério do Planeamento e da Administração do Território
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decl/123/1993/10/15/p/dre
   label: null
   source: http://data.dre.pt/eli/decl/123/1993/10/15/p/dre
+- type: cites
+  target: pt:dre:668530:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:37:57Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 221/93
+# Declaração de rectificação n.º 221/93
 
 Segundo comunicação do Ministério das Finanças, a [Declaração n.º 123/93](https://diariodarepublica.pt/dr/detalhe/declaracao/123-1993-668530), publicada no Diário da República, n.º 242, de 15 de Outubro de 1993, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 

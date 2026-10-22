@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45265-1963-686800
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-09-23T00:00:00Z'
+  retrieved_at: '2026-10-22T19:36:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a91af414f8b63424d699bccbdbf97f9726ceaa1dad9432152cf1946f4a4e78b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b59716f6c52869f97b795f2f29e9b99ac55b75516ba2355dd0c7f0f31e8f31d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:36:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:36:51Z'
   warnings: []
   errors: []
 ---
@@ -92,10 +96,10 @@ Tendo em vista o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos § 2.º do artigo 80.º, o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção-Geral da Aeronáutica Civil a celebrar contrato com a Sociedade Comercial Matos Tavares, Lda., para o fornecimento de oito multiacopladores de antenas de VHF de emissão e de recepção, marca Rohde & Schwarz, destinados à instalação do plano de VHF-EUM, no aeroporto de Lisboa, pela importância de 235290$00.
+Artigo 1.º É autorizada a Direcção-Geral da Aeronáutica Civil a celebrar contrato com a Sociedade Comercial Matos Tavares, Lda., para o fornecimento de oito multiacopladores de antenas de VHF de emissão e de recepção, marca Rohde & Schwarz, destinados à instalação do plano de VHF-EUM, no aeroporto de Lisboa, pela importância de 235290$00.
 
-###### Art. 2.º Seja qual for o valor dos materiais a fornecer, não poderá a Direcção-Geral da Aeronáutica Civil despender com pagamentos relativos a fornecimentos efectuados, por virtude do contrato, mais de 190000$00 no corrente ano e 45290$00, ou o que se apurar como saldo, no ano de 1964.
+Art. 2.º Seja qual for o valor dos materiais a fornecer, não poderá a Direcção-Geral da Aeronáutica Civil despender com pagamentos relativos a fornecimentos efectuados, por virtude do contrato, mais de 190000$00 no corrente ano e 45290$00, ou o que se apurar como saldo, no ano de 1964.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Setembro de 1963. - ANTÓNIO DE OLIVEIRA SALAZAR - António Manuel Pinto Barbosa - Carlos Gomes da Silva Ribeiro.

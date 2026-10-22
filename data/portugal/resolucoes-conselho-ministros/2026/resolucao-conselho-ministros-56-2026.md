@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/56/2026/03/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/56-2026-1075293616
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-23T00:00:00Z'
+  retrieved_at: '2026-10-22T18:36:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 497afb9e803bc555a83520acf2de05d276bea6fdc2d5b1be7119b177ad54d0db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f6a2db94da620d9d436f7027f9ee0e8b40076b5662d50296446540dbf1aaf89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:36:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- Região Norte
 - Programa Regional de Ordenamento do Território do Norte
+- Região Norte
 relationships:
 - type: cites
   target: celex:32000L0060
@@ -113,16 +113,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/177/2021/12/17/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/177/2021/12/17/p/dre
+- type: cites
+  target: pt:dre:116068877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124097546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125009062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:126787030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:135951161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176075686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176907481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213558633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214476438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67442930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:889312078:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:36:17Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +219,7 @@ Assim:
 
 Nos termos do n.º 1 do artigo 60.º do Decreto-Lei n.º [80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Aprovar o Programa Regional de Ordenamento do Território do Norte (PROT-Norte), publicado em anexo à presente resolução e que dela faz parte integrante, com o conteúdo documental a que se refere o n.º 1 do artigo 55.º do Decreto-Lei n.º [80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio, que aprova a revisão do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), sendo a restante documentação a que se referem os n.<sup>os</sup>2 a 4 do artigo 55.º do RJIGT publicada na plataforma Sistema de Submissão Automática dos Instrumentos de Gestão Territorial da Direção-Geral do Território.
+1 - Aprovar o Programa Regional de Ordenamento do Território do Norte (PROT-Norte), publicado em anexo à presente resolução e que dela faz parte integrante, com o conteúdo documental a que se refere o n.º 1 do artigo 55.º do Decreto-Lei n.º [80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio, que aprova a revisão do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), sendo a restante documentação a que se referem os n.os2 a 4 do artigo 55.º do RJIGT publicada na plataforma Sistema de Submissão Automática dos Instrumentos de Gestão Territorial da Direção-Geral do Território.
 
 2 - Reconhecer que o PROT-Norte constitui um quadro orientador para a formação de decisões de planeamento na área do ordenamento do território a realizar na NUTS II Norte.
 
@@ -249,7 +317,8 @@ E é desta bússola inspiracional que surge o esquema referencial do PROT-NORTE,
 
 Assim, a partir do modelo estrutural do PNPOT, o PROT-NORTE considerou 5 Sistemas temáticos - natural, social, económico, de conectividades, urbano -, e o de gestão e governança territoriais, aos quais alocou a ponderação de vulnerabilidades críticas, e que se fazem percorrer pelo espraiamento de mudanças incontornáveis do momento atual: i) digitais e tecnológicas, ii) climáticas e iii) sociodemográficas:
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075464747.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075464747.png) |
+| --- |
 
 O PROT-NORTE identifica ainda 4 fatores distintivos que, para além do DESAFIO DEMOGRÁFICO incluem a ÁGUA, ENERGIA, a NEUTRALIDADE CARBÓNICA, aos quais confere centralidade na estratégia e na identificação dos projetos e medidas estruturantes que hão de consubstanciar os grandes desafios do PROT-NORTE.
 
@@ -283,7 +352,7 @@ A visão estabelecida no Plano Nacional Energia e Clima 2021-2030 (PNEC2030), de
 
 Face à evidência das alterações climáticas, e apesar do esforço de descarbonização que tem vindo a ser desenvolvido em Portugal, é necessário definir, para os próximos anos, uma estratégia de descarbonização. Passará pela eletrificação crescente da economia e da sociedade, associada ao crescimento da oferta de eletricidade de origem renovável e ao aumento da suficiência e da eficiência energética, envolvendo também comunidades energéticas renováveis.
 
-A patente manifestação dos reflexos da Mudança Climática, bem como o compromisso público de progressão acelerada no alcance da antecipação das metas previstas elevam a NEUTRALIDADE CARBÓNICA à dimensão de fator distintivo do PROT-NORTE. O Mercado de Carbono, enquanto “campo de trocas”, possibilita que os países ou as regiões mais altamente emitentes, incapazes de cumprir as metas de redução, possam adquirir o “excedente”, negativo, das quotas dos países menos emitentes de CO<sub>2</sub>, será considerado como a base a partir da qual se progredirá na Região Norte. As emissões, que são provocadas, direta ou indiretamente, pelos usos do solo e pelas atividades económicas, sociais e naturais, sendo as mais significativas as decorrentes da produção de energia a partir de combustíveis fósseis, da mobilidade, das atividades industriais, do tecido edificado e respetiva eficiência energética, e do setor agrícola e da pecuária, serão a plataforma de referência para a caracterização da atualidade.
+A patente manifestação dos reflexos da Mudança Climática, bem como o compromisso público de progressão acelerada no alcance da antecipação das metas previstas elevam a NEUTRALIDADE CARBÓNICA à dimensão de fator distintivo do PROT-NORTE. O Mercado de Carbono, enquanto “campo de trocas”, possibilita que os países ou as regiões mais altamente emitentes, incapazes de cumprir as metas de redução, possam adquirir o “excedente”, negativo, das quotas dos países menos emitentes de CO2, será considerado como a base a partir da qual se progredirá na Região Norte. As emissões, que são provocadas, direta ou indiretamente, pelos usos do solo e pelas atividades económicas, sociais e naturais, sendo as mais significativas as decorrentes da produção de energia a partir de combustíveis fósseis, da mobilidade, das atividades industriais, do tecido edificado e respetiva eficiência energética, e do setor agrícola e da pecuária, serão a plataforma de referência para a caracterização da atualidade.
 
 Esta visão, em sede do PROT-NORTE, aportará um apelo reforçado sobre os territórios de baixa densidade que, tendo menos emissões contribuirão positivamente para o rácio regional, podendo vir a ser aqueles que mais ganharão com a “venda” de créditos negativos. Os respetivos montantes poderão ser vocacionados para catapultar outros tipos de investimentos nestes territórios, robustecendo as abordagens de remuneração dos serviços de ecossistemas em associação a estes créditos e revelando novas potencialidades do Solo Rústico.
 
@@ -291,7 +360,8 @@ No âmbito dos trabalhos de elaboração do PROT-NORTE, lançamos as bases terri
 
 Assim, consolidando os referidos Fatores Distintivos e declinando o referencial metodológico do PNPOT a nível regional, materializamos a proposta das Opções Estratégicas de Base Territorial (OEBT) do PROT-NORTE.
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075464748.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075464748.png) |
+| --- |
 
 Modelo da relação Sistemas do PROT-NORTE e Fatores Distintivos
 
@@ -299,7 +369,8 @@ Nesta formulação, afirmamos as especificidades e complexidades territoriais do
 
 - O primeiro, reconhecendo que planear e/ou programar num contexto de incerteza baseia-se no conhecimento técnico e científico, nas aspirações e num “conhecimento de cultura”, adota uma nova leitura do Território com a clarividência de que é o Sistema Natural que suporta todos os outros Sistemas que servem e sustentam a Sociedade. Efetivamente, sobre o sistema natural e o seu conjunto irreproduzível de atributos - o capital natural -, foi ancestralmente sobreposta a construção de um modelo social e económico, que lhes acrescentou sustentabilidade e prosperidade, por via do aprofundamento de uma cultura e identidade que contribuíram para consolidar o seu potencial e, paradoxalmente, a sua sobre utilização.
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075464749.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075464749.png) |
+| --- |
 
 Variação inter-sistemas no espaço e no tempo
 
@@ -321,7 +392,8 @@ Do referencial da abordagem emanaram os 10 Desafios Territoriais e as 39 Opçõe
 
 Nestes termos e tendo por base o estabelecido no Anexo I da RCM n.º [177/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/177-2021-176075686), de 17 de dezembro, as páginas seguintes delineiam uma proposta para as OEBT identificando os 10 Desafios Territoriais para as mudanças a que o PROT-NORTE pretende dar corpo:
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075464750.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075464750.png) |
+| --- |
 
 Desafios e Opções Estratégicas de Base Territorial para o Norte
 
@@ -343,11 +415,11 @@ D2 - Um Norte que reafirma a água como garante da identidade e perenidade
 
 D3 - Um Norte eficiente e eletrificado com energias renováveis
 
-3.1 - Reforçar a exploração das Fontes de Energia Renováveis (FER) para produção de eletricidade e H<sub>2</sub>
+3.1 - Reforçar a exploração das Fontes de Energia Renováveis (FER) para produção de eletricidade e H2
 
 3.2 - Dinamizar o armazenamento de energia e o reforço das infraestruturas de rede
 
-3.3 - Promover a mobilidade elétrica e o recurso H<sub>2</sub>
+3.3 - Promover a mobilidade elétrica e o recurso H2
 
 3.4 - Melhorar a suficiência, eficiência e resiliência do edificado
 
@@ -425,7 +497,8 @@ D10 - Um Norte que reforça o sistema de gestão territorial e a sua governança
 
 Desafios Transversais
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075464751.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075464751.png) |
+| --- |
 
 D1. Um Norte atrativo que reforça o equilíbrio geracional e promove a diversidade cultural
 
@@ -455,23 +528,28 @@ Incentivar o diálogo intergeracional e intercultural. Desenvolver e promover a�
 
 Projeção da variação da população residente dos 15 aos 64 anos, por concelho (2020-2040)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075464752.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075464752.png) |
+| --- |
 
 Mulheres em idade fértil (15-49 anos), por freguesia (2021)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075464753.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075464753.png) |
+| --- |
 
 População estrangeira com estatuto legal de residente, por concelho (2021)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075464754.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075464754.png) |
+| --- |
 
 Jovens (0 aos 14 anos) por idosos (65 ou mais anos) (2021)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075464755.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075464755.png) |
+| --- |
 
 Demografia: Desafios territoriais diferenciados
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075464756.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075464756.png) |
+| --- |
 
 A - Territórios densos e mais atrativos, com potencial de crescimento populacional, com uma estrutura etária equilibrada e mais jovem.
 
@@ -497,27 +575,33 @@ Reforçar o envelhecimento ativo e saudável. Formular políticas públicas que 
 
 População residente com 75 ou mais anos, por freguesia (2021)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075464757.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075464757.png) |
+| --- |
 
 Projeção da variação da população residente com 65 ou mais anos, por concelho (2018)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075464758.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075464758.png) |
+| --- |
 
 Nascimentos e fecundidade, por concelho (2021)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075464759.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075464759.png) |
+| --- |
 
 Tempo de acesso à pré-escola mais próxima (2020)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075464760.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075464760.png) |
+| --- |
 
 População ativa com 65 ou mais anos, por concelho (2021)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075464761.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075464761.png) |
+| --- |
 
 Cuidadores informais com estatuto da Segurança Social, por concelho (2021)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075464762.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075464762.png) |
+| --- |
 
 1.3 - Aumentar o acesso à diversidade cultural e melhorar o equilíbrio regional
 
@@ -533,23 +617,28 @@ Fortalecer o ecossistema criativo e cultural fundado na inovação de processos 
 
 Equipamentos culturais (2021)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075464763.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075464763.png) |
+| --- |
 
 Visitantes de museus (2021)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075464764.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075464764.png) |
+| --- |
 
 Património cultural (2022)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075464765.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075464765.png) |
+| --- |
 
 Emprego nas indústrias criativas (2020)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075464766.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075464766.png) |
+| --- |
 
 Cultura: Desafios territoriais diferenciados
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075464767.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075464767.png) |
+| --- |
 
 A - Territórios culturais polarizadores de oferta, procura, equipamentos e ativos patrimoniais - em termos qualitativos e quantitativos.
 
@@ -561,7 +650,8 @@ D - Territórios culturais tendencialmente retraídos do ponto de vista dos ativ
 
 E - Territórios culturais tendencialmente repulsivos pelo desempenho negativo dos indicadores da oferta, procura, programação, equipamentos e ativos patrimoniais.
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075464768.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075464768.png) |
+| --- |
 
 D2. Um Norte que reafirma a água como garante da identidade e perenidade
 
@@ -605,11 +695,13 @@ Alcançar e manter o bom estado das massas de água de forma a potenciar o aprov
 
 Vulnerabilidade e Riscos Naturais
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075464769.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075464769.png) |
+| --- |
 
 Classificação do estado global das massas de água superficiais (2014-2019)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075464770.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075464770.png) |
+| --- |
 
 2.2 - Reforçar as disponibilidades e as reservas de água em função dos usos
 
@@ -637,11 +729,13 @@ Assegurar a comunicação e a divulgação, promovendo a construção de uma soc
 
 Índice de escassez WEI+ (1989-2015)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075464771.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075464771.png) |
+| --- |
 
 Áreas de apanhamento a alta altitude
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075464772.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075464772.png) |
+| --- |
 
 2.3 - Promover a melhoria da eficiência do uso da água
 
@@ -671,9 +765,11 @@ Assegurar a comunicação e a divulgação sobre a água, promovendo a construç
 
 Eficiência hídrica dos sistemas públicos de abastecimento de água
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075464773.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075464773.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075464774.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075464774.png) |
+| --- |
 
 D3. Um Norte mais eficiente e eletrificado com energias renováveis
 
@@ -689,13 +785,14 @@ Finalmente, na indústria, verifica-se uma elevada dependência de combustíveis
 
 Centros eletroprodutores de energia renovável
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537175.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537175.png) |
+| --- |
 
-3.1 - Reforçar a exploração das Fontes de Energia Renováveis (FER) para produção de eletricidade e H<sub>2</sub>
+3.1 - Reforçar a exploração das Fontes de Energia Renováveis (FER) para produção de eletricidade e H2
 
 O Norte testemunhou uma forte aposta na construção de centros eletroprodutores capazes de aproveitar os recursos renováveis endógenos da Região para a produção de eletricidade, aproveitando parte do seu potencial hídrico e o eólico onshore. Estes recursos ainda não se encontram esgotados, sendo possível promover a sua exploração por forma a dar corpo a uma estratégia de eletrificação da economia. Por outro lado, a exploração de recursos renováveis, como o solar fotovoltaico e eólico offshore apresentam um potencial significativo na Região, podendo contribuir para uma integração económica entre os diversos territórios da Região através da transferência de valor das áreas mais industriais para as áreas mais rurais e pobres, contribuindo para a equalização económica dos territórios.
 
-O Hidrogénio renovável, produzido a partir da eletrólise da água, com eletricidade de origem renovável, ou por recurso a outras tecnologias, assume-se como um vetor energético complementar da eletricidade a que é necessário recorrer para descarbonizar setores da economia. Esta solução deve ser guiada por critérios de sustentabilidade ambiental em relação ao uso da água, pelo que importa avaliar soluções de dessalinização de água do mar no caso de grandes instalações industriais. A localização de eletrolisadores deve ainda considerar informação disponível no Atlas do H<sub>2</sub> Verde Sustentável. Para tal, apresentam-se os seguintes objetivos:
+O Hidrogénio renovável, produzido a partir da eletrólise da água, com eletricidade de origem renovável, ou por recurso a outras tecnologias, assume-se como um vetor energético complementar da eletricidade a que é necessário recorrer para descarbonizar setores da economia. Esta solução deve ser guiada por critérios de sustentabilidade ambiental em relação ao uso da água, pelo que importa avaliar soluções de dessalinização de água do mar no caso de grandes instalações industriais. A localização de eletrolisadores deve ainda considerar informação disponível no Atlas do H2 Verde Sustentável. Para tal, apresentam-se os seguintes objetivos:
 
 Promover o repower de parques eólicos onshore, através da substituição das turbinas eólicas instaladas por novas máquinas de maior potência nominal e rendimento superior, permitindo o aumento da produtibilidade. Esta solução beneficia ainda de processos de licenciamento simplificados, bem como de informação coletada pelo parque anterior, o que permite otimizar a localização das turbinas dentro dos limites desse parque eólico.
 
@@ -711,29 +808,35 @@ Ativar a produção de eletricidade a partir de energias marinhas, através do a
 
 Potência eólica instalada e potencial eólico
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537176.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537176.png) |
+| --- |
 
 Parques eólicos, áreas com menor sensibilidade ambiental e patrimonial e potencial eólico
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537177.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537177.png) |
+| --- |
 
 Potência fotovoltaica instalada e potencial
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537178.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537178.png) |
+| --- |
 
 Parques solares fotovoltaicos em operação
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537179.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537179.png) |
+| --- |
 
 Hídricas de grande volume
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537180.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537180.png) |
+| --- |
 
 Áreas marítimas propostas para exploração de energias marinhas
 
 Offshore e respetivas potências indicativas (2022)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537181.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537181.png) |
+| --- |
 
 3.2 - Dinamizar o armazenamento de energia e o reforço das infraestruturas de rede
 
@@ -755,33 +858,39 @@ Construir uma infraestrutura de rede elétrica offshore em muito alta tensão (M
 
 Rede nacional de transporte de eletricidade (2023)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537182.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537182.png) |
+| --- |
 
 Rede de distribuição de eletricidade (2023)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537183.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537183.png) |
+| --- |
 
 Potência por posto de carregamento (2022)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537184.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537184.png) |
+| --- |
 
 Consumo de combustível automóvel (2022)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537185.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537185.png) |
+| --- |
 
 Percentagem de consumidores residenciais de eletricidade com tarifa social (2019)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537186.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537186.png) |
+| --- |
 
 Percentagem estimada de edifícios com classe energética C a F (2014-2021)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537187.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537187.png) |
+| --- |
 
-3.3 - Promover a mobilidade elétrica e o recurso H<sub>2</sub>
+3.3 - Promover a mobilidade elétrica e o recurso H2
 
 A mobilidade representa atualmente cerca de 40 % do consumo anual de energia em Portugal, com o setor dos transportes a ser responsável por cerca de 50 % das emissões de gases de efeito estufa (GEE), sendo este o panorama equivalente no Norte.
 
-A mobilidade está fortemente dependente de recursos fósseis (petróleo e gás natural), que não são endógenos à Região, nem a Portugal, sendo flagrante o seu impacte na dependência externa do setor. A eletrificação da mobilidade provocará uma significativa redução efetiva nas emissões de CO<sub>2</sub>/GEE, contribuindo para a descarbonização deste setor e demais economia, bem como da Região. Também a utilização do hidrogénio nos transportes coletivos e de longa distância contribuirá para promover essa descarbonização.
+A mobilidade está fortemente dependente de recursos fósseis (petróleo e gás natural), que não são endógenos à Região, nem a Portugal, sendo flagrante o seu impacte na dependência externa do setor. A eletrificação da mobilidade provocará uma significativa redução efetiva nas emissões de CO2/GEE, contribuindo para a descarbonização deste setor e demais economia, bem como da Região. Também a utilização do hidrogénio nos transportes coletivos e de longa distância contribuirá para promover essa descarbonização.
 
 Atualmente, a Região não se encontra preparada para acomodar esta mudança, quando se tem em conta o número de postos de carregamento públicos de veículos elétricos, a capacidade produção, a capacidade de transporte e a capacidade de distribuição de energia elétrica.
 
@@ -793,9 +902,9 @@ Desenvolver “hubs” de carregamento de veículos elétricos nas cidades com p
 
 Dinamizar soluções de carregamento de frotas de veículos partilhados, tais como táxis, transporte individual de passageiros em veículo descaracterizado (TVDE) e car-sharing, mas também de veículos comerciais ligeiros de entrega porta a porta, para reduzir o número de veículos nas áreas urbanas.
 
-Promover a eletrificação de portos e utilização de hidrogénio nos transportes marítimos, através da eletrificação da movimentação de cargas e preparação dos cais de acostagem para conectar os navios, quando atracados, à rede elétrica. Em simultâneo, os portos devem promover a instalação de produção local de eletricidade através da instalação de painéis solares PV e aerogeradores onshore e nearshore. Projeto e construção de infraestruturas de armazenamento e de rede de hidrogénio para futura alimentação em H<sub>2</sub> dos navios.
+Promover a eletrificação de portos e utilização de hidrogénio nos transportes marítimos, através da eletrificação da movimentação de cargas e preparação dos cais de acostagem para conectar os navios, quando atracados, à rede elétrica. Em simultâneo, os portos devem promover a instalação de produção local de eletricidade através da instalação de painéis solares PV e aerogeradores onshore e nearshore. Projeto e construção de infraestruturas de armazenamento e de rede de hidrogénio para futura alimentação em H2 dos navios.
 
-Desenvolver uma rede de abastecimento de H<sub>2</sub> para frotas de veículos, através do apoio ao licenciamento e construção de postos de armazenamento e abastecimento de hidrogénio situados em estações de recolhas de frotas de veículos de transporte público de passageiros, em estações de serviço de eixos rodoviários principais e terminais de contentores.
+Desenvolver uma rede de abastecimento de H2 para frotas de veículos, através do apoio ao licenciamento e construção de postos de armazenamento e abastecimento de hidrogénio situados em estações de recolhas de frotas de veículos de transporte público de passageiros, em estações de serviço de eixos rodoviários principais e terminais de contentores.
 
 Estes casos podem exigir um esforço de investimento significativo que deve poder contar com o apoio público a estes investimentos, através de financiamentos de fundos europeus e ou verbas do orçamento de estado, devendo estas soluções ser desenvolvidas com uma garantia de dispersão territorial.
 
@@ -803,7 +912,8 @@ Se se considerar que Portugal é um país importador de petróleo e outros recur
 
 Energia - Potencial, Centros eletroprodutores e Rede Nacional de Transporte (RNT)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537188.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537188.png) |
+| --- |
 
 3.4 - Melhorar a suficiência, eficiência e resiliência do edificado
 
@@ -829,7 +939,8 @@ Aumentar a literacia energética - Promover a literacia e democratização do co
 
 Dinamizar a monitorização de desempenho - Incluir nos mecanismos de monitorização periódica do território indicadores de desempenho relativos ao bem-estar e ao desempenho energético, assim como a ocorrência de fenómenos de rebound - utilização das poupanças para novos consumos.
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537189.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537189.png) |
+| --- |
 
 D4. Um Norte na liderança da neutralidade carbónica nacional
 
@@ -863,51 +974,62 @@ A estas emissões de GEE de base urbana e industrial, adicionaram-se as emissõe
 
 O balanço entre as emissões urbanas e agrícolas de um ano padrão, e as emissões médias de um ano médio de incêndios rurais e do sequestro de carbono conseguido pelo crescimento médio anual da biomassa florestal a partir da COS, mostra uma distribuição menos acentuada das diferenças entre o litoral e interior, que voltam a ser significativas se retirarmos o fator incêndios. A gestão dos incêndios rurais tem grande importância no âmbito da neutralidade carbónica, visto que os mesmos ocorrem predominantemente nas áreas mais interiores.
 
-Independentemente destes balanços, o território possui dois stocks de carbono que devem ser levados em conta: um stock de carbono na biomassa, que está diretamente ligado à cobertura florestal da Região, e que em média varia entre 0 e 75 ton CO<sub>2</sub>eq por hectare, e um stock de carbono no solo (Carbono Orgânico), que apresenta uma variação ligada ao histórico de uso e ocupação do solo, bem como aos fenómenos históricos de degradação do mesmo, nomeadamente de desertificação no nordeste. Este stock apresenta uma variação entre 0 e 857 ton CO<sub>2</sub>eq por hectare. A desproporção de grandeza entre os stocks demonstra a importância da gestão do solo, principalmente na sua componente orgânica, para conseguir a neutralidade carbónica.
+Independentemente destes balanços, o território possui dois stocks de carbono que devem ser levados em conta: um stock de carbono na biomassa, que está diretamente ligado à cobertura florestal da Região, e que em média varia entre 0 e 75 ton CO2eq por hectare, e um stock de carbono no solo (Carbono Orgânico), que apresenta uma variação ligada ao histórico de uso e ocupação do solo, bem como aos fenómenos históricos de degradação do mesmo, nomeadamente de desertificação no nordeste. Este stock apresenta uma variação entre 0 e 857 ton CO2eq por hectare. A desproporção de grandeza entre os stocks demonstra a importância da gestão do solo, principalmente na sua componente orgânica, para conseguir a neutralidade carbónica.
 
 Emissões de GEE pelos tecidos urbanos, industriais e serviços
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537190.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537190.png) |
+| --- |
 
 Emissões de GEE pelas atividades agrícolas
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537191.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537191.png) |
+| --- |
 
 Emissões de GEE Totais
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537192.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537192.png) |
+| --- |
 
 Emissões de GEE num ano médio de Incêndios Florestais, calculado a partir da Área Ardida nos últimos 13 anos
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537193.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537193.png) |
+| --- |
 
 Sequestro de Carbono pelos Povoamentos Florestais, num ano médio
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537194.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537194.png) |
+| --- |
 
 Emissões de GEE Totais, com Sequestro e com um ano médio de Incêndios
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537195.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537195.png) |
+| --- |
 
 Emissões de GEE Totais, com Sequestro, sem Incêndios Florestais
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537196.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537196.png) |
+| --- |
 
 Carta de Usos e Ocupação do Solo
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537197.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537197.png) |
+| --- |
 
 Stock de Carbono na Biomassa Florestal
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537198.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537198.png) |
+| --- |
 
 Stock de Carbono no Solo
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537199.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537199.png) |
+| --- |
 
 Territórios Homogéneos do ponto de vista dos Balanços de Carbono
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537200.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537200.png) |
+| --- |
 
 A análise integrada entre emissões líquidas de GEE e stocks de carbono permite delinear três unidades territoriais homogéneas do ponto de vista do fator distintivo da neutralidade carbónica:
 
@@ -967,15 +1089,17 @@ O condicionamento do solo pela integração de carbono no mesmo é determinante 
 
 Assim, definem-se os seguintes objetivos:
 
-Adoção de técnicas de agricultura regenerativa adaptada às culturas e às microrregiões de produção, como complemento ao condicionamento do solo. Nesta unidade territorial localizam-se a maior parte dos produtos de origem vegetal de excelência agroalimentar (DOP e IGP) da Região e, por isso, é fundamental que estes sistemas de produção tomem especial cuidado na gestão da cobertura do solo, principalmente nas épocas secas, diminuir ao máximo a sua mobilização e fazer uma gestão integrada da disponibilidade de água e da macro e microfauna do solo. É ainda importante a revisão de práticas de correção de solo que têm um efeito de libertação de CO<sub>2</sub>, bem como de adubações azotadas, que poderão levar a emissões significativas de N<sub>2</sub>O, que por sua vez têm um efeito de estufa 310 vezes superior ao CO<sub>2</sub>.
+Adoção de técnicas de agricultura regenerativa adaptada às culturas e às microrregiões de produção, como complemento ao condicionamento do solo. Nesta unidade territorial localizam-se a maior parte dos produtos de origem vegetal de excelência agroalimentar (DOP e IGP) da Região e, por isso, é fundamental que estes sistemas de produção tomem especial cuidado na gestão da cobertura do solo, principalmente nas épocas secas, diminuir ao máximo a sua mobilização e fazer uma gestão integrada da disponibilidade de água e da macro e microfauna do solo. É ainda importante a revisão de práticas de correção de solo que têm um efeito de libertação de CO2, bem como de adubações azotadas, que poderão levar a emissões significativas de N2O, que por sua vez têm um efeito de estufa 310 vezes superior ao CO2.
 
 Melhorar a gestão das áreas de matos e acelerar a sua conversão em áreas de floresta ou de paisagens de mosaicos agrossilvopastoril, tomando sempre em consideração a estruturação da paisagem, com o objetivo da prevenção da ocorrência de incêndios rurais. Nesta unidade territorial localizam-se igualmente uma parte dos produtos pecuários de excelência agroalimentar (DOP e IGP) da Região e, por isso, os sistemas de produção deverão levar em conta para o seu suporte forrageiro a aptidão bioclimática e edafo-ecológica das culturas/cultivares, adequando as tecnologias e as práticas aos novos desafios decorrentes das alterações climáticas e da neutralidade carbónica, reforçando as paisagens de mosaicos agrossilvopastoris. Alternativamente e perante a vastidão destas áreas de matos e uma diminuição paulatina dos efetivos pecuários, valorizar estes espaços reconvertendo-os para áreas florestais sempre que compatível com o seu estatuto de conservação.
 
 Assegurar a medição dos stocks do solo, para garantir o ganho marginal de carbono decorrente da adoção destas práticas regenerativas, como igualmente referido no objetivo estratégico 4.2. Só será possível valorizar o ativo de carbono com a medição efetiva do impacte adicional dos projetos de condicionamento e regeneração do solo, sendo certo que esta garantirá uma fonte de recursos para sua implementação como mecanismo de compensação e apoio na prossecução do previsto no objetivo estratégico 4.1 - adoção de um mecanismo de aquisição das unidades de compensação doutros territórios.
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537201.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537201.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537202.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537202.png) |
+| --- |
 
 D5. Um Norte que afirma o valor do seu capital natural, por inteiro
 
@@ -1025,11 +1149,13 @@ Reconhecer a importância de uma Área de Produção Agroalimentar e Florestal (
 
 Constituir e adensar uma Rede Periurbana de Espaços Naturais (RPEN), composta pelas áreas não impermeabilizadas adjacentes aos principais centros urbanos do Norte, e que devem ser assumidas como potenciais para a criação de uma efetiva RPEN que, atualmente, não detém representação cartográfica enquanto estrutura coesa. Impõe-se, assim, consagrar um ordenamento e a adoção de políticas públicas que garantam a equidade ambiental, permitindo que aqueles cuja vida diária os mantém distantes dos espaços naturais, tenham igualdade de oportunidades na fruição de uma envolvente naturalizada e saudável, obtendo-se desta forma uma maior eficiência social na aplicação das políticas públicas.
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537203.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537203.png) |
+| --- |
 
 Área de Excelência Natural (AEN) Área de Produção Agrícola e Florestal (APAF)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537204.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537204.png) |
+| --- |
 
 Promover uma natureza sustentável valorizada por todos
 
@@ -1047,21 +1173,26 @@ Promover uma agrossilvopastorícia sustentável, identificada que está a forte 
 
 Presença de alcateias de lobos (2002/2003)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537205.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537205.png) |
+| --- |
 
 Distribuição de carvalhos (Quercus spp.)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537206.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537206.png) |
+| --- |
 
 Corredores ecológicos dos Programas Regionais de Ordenamento Florestal (PROF)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537207.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537207.png) |
+| --- |
 
 Biodiversidade e conectividade
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537208.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537208.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537209.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537209.png) |
+| --- |
 
 5.2 - Assegurar a conservação do solo e uma gestão sustentável dos recursos hídricos e geológicos
 
@@ -1077,19 +1208,23 @@ Salvaguardar o potencial de exploração de recursos geológicos e minerais cons
 
 Áreas de apanhamento a alta altitude
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537210.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537210.png) |
+| --- |
 
 Áreas com suscetibilidade à desertificação do solo
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537211.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537211.png) |
+| --- |
 
 Áreas potenciais em recursos minerais e suas principais ocorrências (LNEG)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537212.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537212.png) |
+| --- |
 
 Ocorrências representativas do potencial hidromineral sobre base geológica adaptada da Carta Geológica de Portugal à escala 1/1 000 000 (LNEG)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537213.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537213.png) |
+| --- |
 
 5.3 - Reforçar a interação entre a Sociedade e a Natureza - uma Saúde única de todos para todos
 
@@ -1103,11 +1238,13 @@ Desenvolver uma maior oferta de serviços de suporte à visitação, num context
 
 Áreas de visitação com valor natural e paisagístico
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537214.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537214.png) |
+| --- |
 
 Acessibilidade à área de excelência natural a partir do Aeroporto Francisco Sá Carneiro
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537215.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537215.png) |
+| --- |
 
 5.4 - Conhecer as vulnerabilidades, diminuir os riscos e aumentar a resiliência
 
@@ -1125,13 +1262,16 @@ Assegurar a manutenção do bom estado qualitativo das massas de água, qualidad
 
 Vulnerabilidades e riscos naturais
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537216.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537216.png) |
+| --- |
 
 Riscos mistos - Regimes de fogo
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537217.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537217.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537218.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537218.png) |
+| --- |
 
 D6. Um Norte mais inclusivo, justo e equitativo para todos
 
@@ -1159,19 +1299,23 @@ Aumentar o acesso à habitação da classe média-baixa e média, e particularme
 
 Promover a inovação na habitação - Disseminar a eficiência energética e o autoconsumo de energia nas habitações, e promover soluções habitacionais mais sustentáveis e mais ajustadas às preferências e características das populações (idosos, jovens e imigrantes), são desafios transversais em termos territoriais.
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537219.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537219.png) |
+| --- |
 
 Despesas com a habitação (encargos e rendas mensais), por freguesia (2021)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537220.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537220.png) |
+| --- |
 
 Habitação: Desafios territoriais diferenciados
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537221.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537221.png) |
+| --- |
 
 Certificação energética dos edifícios (classes A, B e C), por concelho (2022)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537222.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537222.png) |
+| --- |
 
 A - Territórios com bom acesso à habitação, com um edificado antigo e ocupado por proprietários sem encargos que, por vezes, apresenta más condições habitacionais, eventualmente desocupado, com má acessibilidade digital e muito baixa eficiência energética.
 
@@ -1203,23 +1347,28 @@ Reforçar a governança dos processos de decisão sobre a educação, formação
 
 Percursos diretos de sucesso estudantil, por concelho (2022)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537223.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537223.png) |
+| --- |
 
 Taxa de retenção e desistência no ensino básico, por concelho (2019)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537224.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537224.png) |
+| --- |
 
 População dos 18-24 anos com o 3.º ciclo do ensino básico completo que não está a frequentar o sistema de ensino, por concelho (2021)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537225.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537225.png) |
+| --- |
 
 Educação: Desafios territoriais diferenciados
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537226.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537226.png) |
+| --- |
 
 População dos 25-44 anos sem o ensino secundário, por concelho (2021)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537227.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537227.png) |
+| --- |
 
 A - Territórios educativos com um perfil inovador, próspero e resiliente, mas com vulnerabilidades que evidenciam contrastes internos significativos.
 
@@ -1253,23 +1402,28 @@ Fomentar um modelo de governança baseado na ideia de “saúde em todas as pol�
 
 Acessibilidade aos estabelecimentos de saúde
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537228.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537228.png) |
+| --- |
 
 População diagnosticada com hipertensão sem complicações (K86), por concelho (2022)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537229.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537229.png) |
+| --- |
 
 Saúde: desafios territoriais diferenciados
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537230.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537230.png) |
+| --- |
 
 População com 15 ou mais anos com dificuldades de memória ou concentração, por concelho (2021)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537231.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537231.png) |
+| --- |
 
 População seguida por abuso do tabaco (P17), por concelho (2022)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537232.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537232.png) |
+| --- |
 
 A e B - Territórios com uma oferta de serviços mais acessível e diversificada. A população é relativamente jovem e pouco vulnerável, mas com comportamentos de risco (tabaco, abuso do álcool, HIV-Sida). O perfil A é genericamente melhor que o perfil B.
 
@@ -1289,23 +1443,28 @@ Promover e qualificar os recursos e as parcerias institucionais para a inclusão
 
 População com 15 ou mais anos cuja principal fonte de rendimentos é o apoio social, por freguesia (2021)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537233.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537233.png) |
+| --- |
 
 Idosos a residirem sós, por freguesia (2021)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537234.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537234.png) |
+| --- |
 
 Índice de diversidade de oferta de serviços sociais, por concelho (2021)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537235.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537235.png) |
+| --- |
 
 Vulnerabilidades Sociais: desafios territoriais diferenciados
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537236.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537236.png) |
+| --- |
 
 População potencialmente vulnerável, por concelho (2022)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537237.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537237.png) |
+| --- |
 
 A - Territórios sociais prósperos, inovadores e resilientes (contexto social, empregabilidade, capacidade de consumo, e acesso a serviços), mas com coexistência de contextos e categoriais sociais fortemente permeáveis à vulnerabilidade urbana (grupos de risco e marginais).
 
@@ -1317,7 +1476,8 @@ D - Territórios sociais de industrialização difusa e de periferia urbana, mar
 
 E - Territórios sociais de baixa densidade marcados por desempenhos baixos de prosperidade, inovação social e resiliência comunitária, acompanhados por incidência muito elevada de riscos de isolamento e abandono social.
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537238.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537238.png) |
+| --- |
 
 D7. Um Norte mais próspero e inovador em todos os lugares
 
@@ -1355,23 +1515,28 @@ Promover as economias de proximidade, social e alternativa (cooperativa), contri
 
 Inovação económica: organizações e redes intrarregionais de inovação
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537239.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537239.png) |
+| --- |
 
 Valor acrescentado bruto (VAB) e exportações, por concelho (2022)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537240.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537240.png) |
+| --- |
 
 Inovação e prosperidade económica: desafios territoriais diferenciados
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537241.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537241.png) |
+| --- |
 
 Estudantes do ensino superior, unidades de investigação e outras infraestruturas (2022)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537242.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537242.png) |
+| --- |
 
 Natalidade empresarial, empresas gazela e incubadoras de base tecnológica, por concelho (2020)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537243.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537243.png) |
+| --- |
 
 A - Territórios com perfil inovador, bem inseridos nas redes de inovação económica, prósperos, com bons contributos para a criação de riqueza e para a produtividade, e com tecidos empresariais resilientes em momentos de crise.
 
@@ -1401,23 +1566,28 @@ Promover novos empregos, ligados a economias de proximidade (comércio e serviç
 
 Total de pessoal ao serviço e peso do pessoal com ensino superior, por concelho (2020)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537244.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537244.png) |
+| --- |
 
 Variação da população residente empregada, por concelho (2011-2021)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537245.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537245.png) |
+| --- |
 
 Emprego: desafios territoriais diferenciados
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537246.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537246.png) |
+| --- |
 
 Produtividade aparente do trabalho, por concelho (2022)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537247.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537247.png) |
+| --- |
 
 Ganho médio mensal dos trabalhadores por conta de outrem, por concelho (2021)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537248.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537248.png) |
+| --- |
 
 A - Territórios com emprego inovador e próspero, mas com vulnerabilidades na resiliência, com desigualdades salariais muito significativas e desemprego ou precaridade do emprego jovem, evidenciando contrastes internos.
 
@@ -1451,19 +1621,23 @@ Promover a descarbonização na oferta turística - a transição energética e 
 
 Património natural e cultural (2022)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537249.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537249.png) |
+| --- |
 
 Rotas turísticas (2023)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537250.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537250.png) |
+| --- |
 
 Capacidade de alojamento nos estabelecimentos turísticos, por concelho (2023)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537251.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537251.png) |
+| --- |
 
 Proveitos totais nos estabelecimentos de alojamento turístico, por concelho (2021)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537252.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537252.png) |
+| --- |
 
 7.4 - Impulsionar uma ruralidade de oportunidades
 
@@ -1483,19 +1657,23 @@ Promover a gestão ativa do território agroflorestal e rural do Norte para a su
 
 Bacias de produção animal
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537253.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537253.png) |
+| --- |
 
 Bacias de produção vegetal
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537254.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537254.png) |
+| --- |
 
 Bacias de produção agropecuária
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537255.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537255.png) |
+| --- |
 
 Principais bacias de produção agropecuária, em área e VPP
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537256.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537256.png) |
+| --- |
 
 7.5 - Atribuir uma nova centralidade à floresta
 
@@ -1513,9 +1691,11 @@ Consolidar o Sistema de Gestão Integrada dos Fogos Rurais, como pilar da susten
 
 Principais áreas do espaço florestal
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537257.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537257.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537258.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537258.png) |
+| --- |
 
 D8. Um Norte mais conectado, acessível, digital e descarbonizado
 
@@ -1559,15 +1739,18 @@ Promover a literacia digital como condição de sucesso para a prosperidade, imp
 
 Acessos à Internet em banda larga em local fixo
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537259.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537259.png) |
+| --- |
 
 Acessos à Internet em banda larga em local fixo, por 100 habitantes
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537260.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537260.png) |
+| --- |
 
 Áreas sem cobertura de redes de elevada capacidade e níveis de compactação e densidade urbana
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537261.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537261.png) |
+| --- |
 
 8.2 - Reforçar as infraestruturas para a internacionalização
 
@@ -1587,7 +1770,8 @@ Influenciar a revisão dos planos setoriais nacionais a partir de uma visão reg
 
 Redes de conectividades na região Norte (PNPOT, 2019)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537262.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537262.png) |
+| --- |
 
 8.3 - Organizar redes e serviços de transportes coletivos rodoviários adequados aos modelos de ocupação territorial
 
@@ -1607,11 +1791,13 @@ A conjugação destes objetivos visa o incremento da procura no transporte colet
 
 Bases para a definição de ‘bacias de mobilidade pendular’
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537263.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537263.png) |
+| --- |
 
 Movimentos pendulares entre municípios
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537264.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537264.png) |
+| --- |
 
 8.4 - Diminuir a dependência dos cidadãos do transporte individual motorizado nas deslocações de proximidade e nas ligações interurbanas
 
@@ -1635,29 +1821,35 @@ Ativar a oferta de serviços ambulantes e o transporte a pedido, para prestaçã
 
 Meta proposta para a repartição modal em 2035 (tendo por base um inquérito à mobilidade abrangente)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537265.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537265.png) |
+| --- |
 
 Movimentos pendulares em Transporte Individual motorizado (TIm)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537266.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537266.png) |
+| --- |
 
 Movimentos pendulares em Modos Suaves (MS)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537267.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537267.png) |
+| --- |
 
 Movimentos pendulares em Transporte Coletivo (TC)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537268.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537268.png) |
+| --- |
 
 Portugal Ciclável (PC2030)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537269.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537269.png) |
+| --- |
 
 Rede Ferroviária
 
 (Plano Ferroviário Nacional aprovado)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537270.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537270.png) |
+| --- |
 
 8.5 - Organizar e gerir uma rede rodoviária regional de intermediação entre a rede nacional e as redes municipais
 
@@ -1679,9 +1871,11 @@ Para isso revela-se indispensável estabilizar um nível regional de estradas e 
 
 Rede rodoviária da região Norte
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537271.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537271.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537272.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537272.png) |
+| --- |
 
 D9. Um Norte mais policêntrico para um sistema territorial mais coeso
 
@@ -1727,29 +1921,35 @@ Consolidar o Sistema Regional de Inovação, reforçando a dinâmica cooperativa
 
 Rede de projetos CORDIS (H2020) envolvendo organizações localizadas em Portugal
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537273.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537273.png) |
+| --- |
 
 Hotspots das organizações que participam na CORDIS no programa H2020
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537274.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537274.png) |
+| --- |
 
 Fonte: CORDIS Datalab (2022).
 
 População residente por área urbana funcional
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537275.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537275.png) |
+| --- |
 
 Sistema urbano peninsular
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537276.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537276.png) |
+| --- |
 
 Estudantes do ensino superior e fluxos casa-universidade (2022)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537277.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537277.png) |
+| --- |
 
 Instituições e redes inovação económica (2020)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537278.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537278.png) |
+| --- |
 
 9.2 - Melhorar o acesso aos serviços de interesse geral para uma maior justiça socioespacial
 
@@ -1771,23 +1971,28 @@ A estruturação dos serviços deve também atender ao envelhecimento da popula�
 
 Serviços de Interesse Geral: polaridades urbanas e níveis de acessibilidade (2021)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537279.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537279.png) |
+| --- |
 
 Comunidades e níveis de relacionamento de proximidade - movimentos pendulares (2021)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537280.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537280.png) |
+| --- |
 
 Acessibilidade às escolas básicas (2020)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537281.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537281.png) |
+| --- |
 
 Acessibilidade aos centros urbanos (2021)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537282.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537282.png) |
+| --- |
 
 Oferta de serviços e habitação: desafios territoriais diferenciados
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537283.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537283.png) |
+| --- |
 
 Na oferta de serviços de educação, saúde, apoio social, cultura e habitação, identificam-se cinco perfis territoriais:
 
@@ -1817,27 +2022,33 @@ Estas articulações suportam-se em subsistemas territoriais que refletem contex
 
 Relações interurbanas e rurais-urbanas
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537284.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537284.png) |
+| --- |
 
 Acessibilidades das Viaturas Médicas de Emergência e Reanimação (VMER)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537285.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537285.png) |
+| --- |
 
 Mobilidade pendular: fluxos intracomunidades (2021)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537286.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537286.png) |
+| --- |
 
 Mobilidade pendular: fluxos intercomunidades (2021)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537287.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537287.png) |
+| --- |
 
 Estudantes nos estabelecimentos de ensino superior e fluxos casa-universidade (2022)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537288.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537288.png) |
+| --- |
 
 Comunidades do ensino superior e fluxos casa-universidade (2022)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537289.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537289.png) |
+| --- |
 
 9.4 - Promover a inovação e a qualidade intraurbana
 
@@ -1857,29 +2068,36 @@ Fomentar e favorecer a mobilidade intraurbana: o incremento da mobilidade intrau
 
 Compactação e densidade urbana (2021)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537290.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537290.png) |
+| --- |
 
 Perfis sociais (2021)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537291.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537291.png) |
+| --- |
 
 Tecidos urbanos densos e compactos e territórios agrícolas e florestais (2021)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537292.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537292.png) |
+| --- |
 
 Alojamentos vagos nas áreas urbanas mais densas e compactas, por concelho (2021)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537293.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537293.png) |
+| --- |
 
 Alojamentos servidos por sistemas de drenagem de águas residuais, por concelho (2021)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537294.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537294.png) |
+| --- |
 
 Idosos a residir sós nas áreas urbanas mais densas e compactas, por concelho (2021)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537295.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537295.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537296.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537296.png) |
+| --- |
 
 D10. Um Norte que reforça o sistema de gestão territorial e a sua governança
 
@@ -1917,11 +2135,13 @@ Sincronizar, no espaço e no tempo, a elaboração de programas e planos - trava
 
 Processo de adequação dos PDM aos novos critérios/conceitos de classificação e qualificação do solo (jan2022 a ago2024)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537297.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537297.png) |
+| --- |
 
 Programas e planos especiais na região Norte (novembro, 2023)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537298.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537298.png) |
+| --- |
 
 10.2 - Reforçar a dimensão estratégica e programática dos PDM
 
@@ -1953,7 +2173,8 @@ Modelo Territorial
 
 O Modelo Territorial da região Norte concretiza os 10 Desafios Territoriais e sustenta-se nos 5 Sistemas Territoriais. Para além disso, atende a um conjunto de Vulnerabilidades Críticas que o podem condicionar:
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537299.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537299.png) |
+| --- |
 
 Síntese para o Modelo Territorial
 
@@ -1977,25 +2198,30 @@ Comum a todos estes contextos territoriais, são os espaços dominantemente flor
 
 Sistema Natural da Região Norte
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537300.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537300.png) |
+| --- |
 
 Informação de suporte ao Sistema Natural Áreas de conectividade natural
 
 Área de Excelência Natural
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537301.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537301.png) |
+| --- |
 
 Áreas de apanhamento a alta altitude Perfis do balanço de carbono
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537302.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537302.png) |
+| --- |
 
 Principais bacias agropecuárias e florestais
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537303.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537303.png) |
+| --- |
 
 Bacias de produção agropecuária
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537304.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537304.png) |
+| --- |
 
 Síntese para o Modelo Territorial
 
@@ -2017,27 +2243,33 @@ As políticas de base territorial devem atender a esta diversidade e complexidad
 
 Sistema Social da Região Norte
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537305.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537305.png) |
+| --- |
 
 Informação de suporte ao Sistema Social
 
 Estrutura social
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537306.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537306.png) |
+| --- |
 
 População residente estrangeira
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537307.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537307.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537308.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537308.png) |
+| --- |
 
 Acessibilidade aos centros urbanos
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537309.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537309.png) |
+| --- |
 
 Acessibilidade aos serviços de nível superior
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537310.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537310.png) |
+| --- |
 
 Síntese para o Modelo Territorial
 
@@ -2065,31 +2297,38 @@ Sistema Económico da Região Norte
 
 Informação de suporte ao Sistema Económico
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537311.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537311.png) |
+| --- |
 
 Estrutura das atividades económicas
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537312.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537312.png) |
+| --- |
 
 Peso das exportações
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537313.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537313.png) |
+| --- |
 
 Valor acrescentado bruto
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537314.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537314.png) |
+| --- |
 
 SC&T e infraestruturas económicas
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537315.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537315.png) |
+| --- |
 
 Principais bacias agropecuárias e florestais
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537316.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537316.png) |
+| --- |
 
 Principais bacias de produção agropecuária, em área e VPP
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537317.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537317.png) |
+| --- |
 
 Síntese para o Modelo Territorial
 
@@ -2109,21 +2348,25 @@ Os corredores mais relevantes não traduzem ‘a infraestrutura’ em si, mas an
 
 Sistema de Conectividades da Região Norte
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537318.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537318.png) |
+| --- |
 
 Informação de suporte ao Sistema de Conectividades
 
 Corredores multi ou monomodais
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537319.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537319.png) |
+| --- |
 
 Rede Nacional de Transporte de Eletricidade
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537320.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537320.png) |
+| --- |
 
 Áreas sem cobertura de redes de elevada capacidade e níveis de compactação e densidade urbana
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537321.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537321.png) |
+| --- |
 
 Síntese para o Modelo Territorial
 
@@ -2151,33 +2394,40 @@ A vitalidade do sistema urbano pode apoiar-se também num conjunto de redes urba
 
 Sistema Urbano da Região Norte
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537322.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537322.png) |
+| --- |
 
 Informação de suporte ao Sistema Urbano
 
 Densidade de população e emprego
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537323.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537323.png) |
+| --- |
 
 Edificado e estrutura social
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537324.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537324.png) |
+| --- |
 
 População urbana e densidades
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537325.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537325.png) |
+| --- |
 
 Perfis de serviços sociais e económicos
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537326.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537326.png) |
+| --- |
 
 Mobilidade pendular: comunidades e fluxos internos
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537327.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537327.png) |
+| --- |
 
 Mobilidade pendular: fluxos intercomunidades
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537328.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537328.png) |
+| --- |
 
 Síntese para o Modelo Territorial
 
@@ -2203,31 +2453,38 @@ Os riscos tecnológicos relevados dizem respeito a infraestruturas e a atividade
 
 Vulnerabilidades Críticas da Região Norte
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537329.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537329.png) |
+| --- |
 
 Regimes de Fogo
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537330.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537330.png) |
+| --- |
 
 Informação de suporte às Vulnerabilidades Críticas
 
 Riscos relacionados com os recursos hídricos
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537331.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537331.png) |
+| --- |
 
 Riscos associados à geodinâmica externa
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537332.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537332.png) |
+| --- |
 
 Riscos associados à atividade industrial e comercial
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537333.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537333.png) |
+| --- |
 
 Riscos associados à meteorologia adversa
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537334.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537334.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537335.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537335.png) |
+| --- |
 
 Estrutura Regional de Proteção e Valorização Ambiental e Cultural - ERPVAC
 
@@ -2253,15 +2510,18 @@ Estrutura Regional de Proteção e Valorização Ambiental e Cultural - ERPVAC
 
 Património cultural (2022)
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537336.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537336.png) |
+| --- |
 
 Estrutura Regional de Proteção e Valorização Ambiental
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537337.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537337.png) |
+| --- |
 
 Estrutura Regional de Proteção e Valorização Ambiental e Cultural - ERPVAC
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537338.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537338.png) |
+| --- |
 
 Esta nova visão, que destaca a relação de continuidade entre o urbano e o rústico, a necessidade de presença humana para a efetiva persistência dos ecossistemas e dos atributos da paisagem, e o suporte económico que sustenta tais premissas, encontram-se transpostas para o PROT-NORTE, numa aproximação absolutamente convergente com o que se dispõe na ENCNB.
 
@@ -2305,19 +2565,23 @@ Conceção do Modelo Territorial
 
 1) Capital Natural
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537339.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537339.png) |
+| --- |
 
 2) Capital Cultural
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537340.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537340.png) |
+| --- |
 
 3) Estrutura urbano-económica
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537341.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537341.png) |
+| --- |
 
 4) Conectividades
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537342.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537342.png) |
+| --- |
 
 A qualificação da multifuncionalidade e do policentrismo do Noroeste passa por uma aposta na valorização do Arco do Noroeste, por via da inovação e da prosperidade urbana, ancoradas no aumento da resiliência territorial. Neste contexto, cada NUTS III incorpora realidades heterogéneas que devem ser equacionadas localmente, atendendo a um conjunto de problemáticas:
 
@@ -2391,9 +2655,11 @@ Neste subsistema territorial os espaços urbanos e os territórios rurais devem 
 
 Modelo Territorial da Região Norte
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537343.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537343.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293616/1075537344.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293616/1075537344.png) |
+| --- |
 
 Com a publicação do DL n.º [27/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2020-135951161), de 17 de junho, foi dado um passo decisivo na democratização da governação territorial, com a consagração da eleição indireta dos presidentes das CCDR através de um colégio eleitoral, composto pelos presidentes e vereadores das câmaras municipais e pelos presidentes e membros das assembleias municipais (incluindo os presidentes de junta de freguesia) da respetiva área territorial. Também dois dos seus vice-presidentes passaram a ser eleitos por colégios com outra constituição. Esse mesmo diploma anuncia já que, num segundo momento, seriam harmonizadas as circunscrições territoriais da administração desconcentrada do Estado, e a integração nas CCDR dos serviços desconcentrados de natureza territorial, em paralelo com a manutenção dos órgãos de gestão dos programas regionais de fundos de financiamento.
 
@@ -2507,7 +2773,7 @@ Indicadores macro ou de contexto
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | PROT publicado | Não | 2023 | 1.º semestre de 2025 | 2025 | Região | Diário da República |  |
 | Proporção de Área Territorial com informação cadastral | 5,99 % | 2023 | 40 % | 2029 | Região | DGT, BUPi |  |
-| Taxa anual de artificialização líquida do Solo (km<sup>2</sup>/ano) | 7,2 | 2018 | 4,7 | 2029 | Região | Observatório do Ordenamento do Território e do Urbanismo | Taxa anual de Artificialização Líquida do Solo |
+| Taxa anual de artificialização líquida do Solo (km2/ano) | 7,2 | 2018 | 4,7 | 2029 | Região | Observatório do Ordenamento do Território e do Urbanismo | Taxa anual de Artificialização Líquida do Solo |
 
 Indicadores relacionais ou de resultado
 
@@ -2618,51 +2884,55 @@ Indicadores macro ou de contexto
 
 No âmbito do procedimento de Avaliação Ambiental Estratégica (AAE), que se desenvolve em paralelo com o processo de elaboração do PROT-NORTE, foi efetuada a identificação, necessariamente preliminar, de um conjunto de indicadores que procuram fazer demonstrar o grau de territorialização dos ODS da Agenda 2030 na região Norte, atendendo às O&D e às Medidas propostas para concretização da Estratégia e do Modelo Territorial do PROT-NORTE.
 
-| ODS | ODS | Indicadores a integrar na monitorização (proposta preliminar) | Indicadores a integrar na monitorização (proposta preliminar) | Unidade | Método de cálculo | Fonte |
+| ODS | Indicadores a integrar na monitorização (proposta preliminar) | Unidade | Método de cálculo | Fonte |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 7 | Energias renováveis e acessíveis | Meta 7.1 (0-100) | Meta 7.1 (0-100) |  |  |  |
-|  | Energias renováveis e acessíveis | 7.1.2 | Percentagem da população com acesso primário a combustíveis e tecnologias limpas | % | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |
-|  |  | Meta 7.2 (0-100) | Meta 7.2 (0-100) |  |  |  |
+| 7 | Energias renováveis e acessíveis | Meta 7.1 (0-100) |  |  |  |  |
+|  | 7.1.2 | Percentagem da população com acesso primário a combustíveis e tecnologias limpas | % | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |  |
+|  |  | Meta 7.2 (0-100) |  |  |  |  |
 |  |  | 7.2.1(b) | Percentagem da produção por fontes de energias renováveis na produção de energia total | % | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |
-|  |  | Meta 7.3 (0-100) | Meta 7.3 (0-100) |  |  |  |
+|  |  | Meta 7.3 (0-100) |  |  |  |  |
 |  |  | 7.3.3 | Consumo de energia elétrica para iluminação das vias públicas e iluminação interior de edifícios do Estado | kWh | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |
-| 9 | Indústria, inovação e infraestruturas | Meta 9.2 (0-100) | Meta 9.2 (0-100) |  |  |  |
-| 9 | Indústria, inovação e infraestruturas | 9.2.1 | Valor acrescentado bruto da indústria transformadora por pessoal ao serviço | € | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |
-| 9 | Indústria, inovação e infraestruturas | Meta 9.4 (0-100) | Meta 9.4 (0-100) |  |  |  |
-| 9 | Indústria, inovação e infraestruturas | 9.4.1 | Emissão de CO<sub>2</sub> por unidade de VAB das empresas da região | Kg CO<sub>2</sub>/€ | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |
-| 11 | Cidades e comunidades sustentáveis | Meta 11.3 (0-100) | Meta 11.3 (0-100) |  |  |  |
-| 11 | Cidades e comunidades sustentáveis | 11.3.1(a) | Evolução da eficiência dos territórios artificializados por habitante | % | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |
-| 11 | Cidades e comunidades sustentáveis | 11.3.1(b) | Territórios artificializados (m<sup>2</sup>) per capita | m<sup>2</sup> | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |
-| 11 | Cidades e comunidades sustentáveis | Meta 11.4 (0-100) | Meta 11.4 (0-100) |  |  |  |
-| 11 | Cidades e comunidades sustentáveis | 11.4.1 | Despesas municipais médias em património cultural e proteção da biodiversidade e paisagem per capita | € | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |
-| 11 | Cidades e comunidades sustentáveis | Meta 11.6 (0-100) | Meta 11.6 (0-100) |  |  |  |
-| 11 | Cidades e comunidades sustentáveis | 11.6.1(b) | Proporção de resíduos urbanos preparados para reutilização e reciclagem | % | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |
-| 6 | Água potável e saneamento | Meta 6.1 (0-100) | Meta 6.1 (0-100) |  |  |  |
+| 9 | Indústria, inovação e infraestruturas | Meta 9.2 (0-100) |  |  |  |  |
+| 9.2.1 | Valor acrescentado bruto da indústria transformadora por pessoal ao serviço | € | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |  |  |
+| Meta 9.4 (0-100) |  |  |  |  |  |  |
+| 9.4.1 | Emissão de CO2 por unidade de VAB das empresas da região | Kg CO2/€ | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |  |  |
+| 11 | Cidades e comunidades sustentáveis | Meta 11.3 (0-100) |  |  |  |  |
+| 11.3.1(a) | Evolução da eficiência dos territórios artificializados por habitante | % | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |  |  |
+| 11.3.1(b) | Territórios artificializados (m2) per capita | m2 | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |  |  |
+| Meta 11.4 (0-100) |  |  |  |  |  |  |
+| 11.4.1 | Despesas municipais médias em património cultural e proteção da biodiversidade e paisagem per capita | € | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |  |  |
+| Meta 11.6 (0-100) |  |  |  |  |  |  |
+| 11.6.1(b) | Proporção de resíduos urbanos preparados para reutilização e reciclagem | % | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |  |  |
+| 6 | Água potável e saneamento | Meta 6.1 (0-100) |  |  |  |  |
 |  |  | 6.1.1(b) | Água segura | % | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |
-|  |  | Meta 6.2 (0-100) | Meta 6.2 (0-100) |  |  |  |
+|  |  | Meta 6.2 (0-100) |  |  |  |  |
 |  |  | 6.2.1(b) | Acessibilidade física do serviço de saneamento de águas residuais | % | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |
-|  |  | Meta 6.3 (0-100) | Meta 6.3 (0-100) |  |  |  |
+|  |  | Meta 6.3 (0-100) |  |  |  |  |
 |  |  | 6.3.1(b) | Acessibilidade física ao serviço de tratamento das águas residuais | % | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |
 |  |  | 6.3.2 | Proporção de massas de água com boa qualidade ambiental | % | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |
 |  |  | 6.3.3 | Águas balneares com qualidade excelente |  |  |  |
-|  |  | 6.3.4 | Nitrato nas águas subterrâneas | mg NO<sub>3</sub>/litro | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |
-|  |  | Meta 6.4 (0-100) | Meta 6.4 (0-100) |  |  |  |
-|  |  | 6.4.2 | Perdas reais de água | [m<sup>3</sup>/(km.dia)] ou [l/(ramal.dia)] | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |
-| 13 | Ação climática | Meta 13.2 (0-100) | Meta 13.2 (0-100) |  |  |  |
-| 13 | Ação climática | 13.2.2(b) | Emissões de gases de efeito estufa per capita | t/hab | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |
-| 13 | Ação climática | Meta 13.a (0-100) | Meta 13.a (0-100) |  |  |  |
-| 13 | Ação climática | 13.a.1 | Proporção da despesa dos municípios em ambiente | % | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |
-| 14 | Proteger a vida marinha | Meta 14.1 (0-100) | Meta 14.1 (0-100) |  |  |  |
-| 14 | Proteger a vida marinha | 14.1.1 | Proporção de águas subterrâneas com nutrientes dentro do Valor Máximo Recomendado por tipo de nutriente | % Azoto amoniacal; %Fósforo | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |
-| 14 | Proteger a vida marinha | 14.1.2 | Águas balneares com qualidade excelente | % | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |
-| 15 | Proteger a vida terrestre | Meta 15.1 (0-100) | Meta 15.1 (0-100) |  |  |  |
+|  |  | 6.3.4 | Nitrato nas águas subterrâneas | mg NO3/litro | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |
+|  |  | Meta 6.4 (0-100) |  |  |  |  |
+|  |  | 6.4.2 | Perdas reais de água | [m3/(km.dia)] ou [l/(ramal.dia)] | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |
+| 13 | Ação climática | Meta 13.2 (0-100) |  |  |  |  |
+| 13.2.2(b) | Emissões de gases de efeito estufa per capita | t/hab | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |  |  |
+| Meta 13.a (0-100) |  |  |  |  |  |  |
+| 13.a.1 | Proporção da despesa dos municípios em ambiente | % | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |  |  |
+| 14 | Proteger a vida marinha | Meta 14.1 (0-100) |  |  |  |  |
+| 14.1.1 | Proporção de águas subterrâneas com nutrientes dentro do Valor Máximo Recomendado por tipo de nutriente | % Azoto amoniacal; %Fósforo | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |  |  |
+| 14.1.2 | Águas balneares com qualidade excelente | % | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |  |  |
+| 15 | Proteger a vida terrestre | Meta 15.1 (0-100) |  |  |  |  |
 |  |  | 15.1.1 | Proporção da superfície florestal | % | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |
 |  |  | 15.1.2 | Rácio entre as áreas que pertencem à Rede Natura 2000 e as áreas protegidas | % | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |
-|  |  | 15.1.3 | Nitrato nas águas subterrâneas (mg NO<sub>3</sub>/litro) | mg NO<sub>3</sub>/litro | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |
-|  |  | Meta 15.2 (0-100) | Meta 15.2 (0-100) |  |  |  |
+|  |  | 15.1.3 | Nitrato nas águas subterrâneas (mg NO3/litro) | mg NO3/litro | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |
+|  |  | Meta 15.2 (0-100) |  |  |  |  |
 |  |  | 15.2.1 | Variação da área florestal (%) | % | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |
-|  |  | Meta 15.3 (0-100) | Meta 15.3 (0-100) |  |  |  |
-|  |  | 15.3.1 | Territórios artificializados (m<sup>2</sup>) per capita | m<sup>2</sup>/hab | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |
-| 8 | Trabalho digno e crescimento económico | Meta 8.9 (0-100) | Meta 8.9 (0-100) |  |  |  |
-| 8 | Trabalho digno e crescimento económico | 8.9.1(a) | Proporção do VAB do setor do turismo no VAB total | % | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |
-| 8 | Trabalho digno e crescimento económico | 8.9.2 | Proporção de empreendimentos turísticos com certificação ambiental | % | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |
+|  |  | Meta 15.3 (0-100) |  |  |  |  |
+|  |  | 15.3.1 | Territórios artificializados (m2) per capita | m2/hab | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |
+| 8 | Trabalho digno e crescimento económico | Meta 8.9 (0-100) |  |  |  |  |
+| 8.9.1(a) | Proporção do VAB do setor do turismo no VAB total | % | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |  |  |
+| 8.9.2 | Proporção de empreendimentos turísticos com certificação ambiental | % | Conforme ISM - CESOP LOCAL | ISM - CESOP LOCAL (Índice de Sustentabilidade Municipal) |  |  |
+
+119948031
+
+.Tbl1 { margin-left:auto; margin-right:auto; } .Tbl2 { height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:47px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl9 { min-height:57px; } .Tbl10 { min-height:28px; } .Tbl11 { min-height:37px; } .Tbl12 { min-height:18px; } .Tbl13 { height:28px; } .Tbl14 { min-height:66px; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:middle; } .Tbl19 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl21 { min-height:27px; } .Tbl22 { min-height:36px; } .Tbl23 { min-height:45px; } .Tbl24 { min-height:81px; } .Tbl25 { height:18px; } .Tbl26 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; } .Tbl27 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl28 { height:37px; } .Tbl29 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:none; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; } .Tbl30 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:none; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl31 { min-height:25px; } .Tbl32 { min-height:17px; } .Tbl33 { min-height:34px; } .Tbl34 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:none; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; } .Tbl35 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:none; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl36 { min-height:38px; }

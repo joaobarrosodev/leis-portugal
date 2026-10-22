@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 227/1996, 3º Suplemento, Série I-A de 1996-09-30
   number: '227'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3438-(10) a 3438-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/09/227a03/00100010.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/14-d/1996/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-d-1996-147849
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-09-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:47:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 619d2df3f9577cc7b41f97aa093f9010b6d5af0cdb322f330a7da46805a22b6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99d3af4c4ab447914b97594b6325ff0815ed5f9ded528db9e8fa27d169f3d261
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:47:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,29 +68,33 @@ reuse:
 subjects:
 - Cessação de Actividade
 - Ensino Particular
+- Ensino Superior
+- Estabelecimento de Ensino
 - Instituto Erasmus de Ensino Superior
 - Instituto Superior de Ciências da Informação e da Empresa
 - Interesse Público
-- Estabelecimento de Ensino
-- Ensino Superior
-- Transferência de Competências
 - Porto
+- Transferência de Competências
 - Universidade Fernando Pessoa
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/107/1996/07/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/107/1996/07/31/p/dre
+- type: cites
+  target: pt:dre:406885:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:47:09Z'
   warnings: []
   errors: []
 ---

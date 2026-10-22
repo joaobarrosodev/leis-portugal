@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/1/2026/01/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/1-2026-1000882015
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-08T00:00:00Z'
+  retrieved_at: '2026-10-22T18:28:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76747cfa39ad1a907240bfc10ee0a4fa01b16a73fd9d8b7cf25713c3e9660e9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba918f80c40e6baa90834ae663be6b51ce9e6efa0751e0fd6257d750e9ed6296
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:28:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,11 +69,11 @@ subjects:
 - Cereal
 - Comissão Coordenadora
 - Comissão de Acompanhamento
-- Ministério da Agricultura e do MAR
-- Gabinete de Planeamento Políticas e Administração Geral
-- Produção Agrícola
 - Estratégia Nacional para a Promoção da Produção de Cereais
 - Estratégia para o Aumento da Produção Sustentável de Cereais
+- Gabinete de Planeamento Políticas e Administração Geral
+- Ministério da Agricultura e do MAR
+- Produção Agrícola
 relationships:
 - type: cites
   target: celex:32013R1308
@@ -107,16 +107,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/19/2013/04/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/19/2013/04/05/p/dre
+- type: cites
+  target: pt:dre:115777790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176907481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70737914:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:resolucao-conselho-ministros:101/2018
+  label: Revoga, a partir de 9 de janeiro de 2026, a Resolução do Conselho de Ministros n.º 101/2018, de 26 de julho, Diário
+    da República n.º 143/2018, Série I
+  source: null
+  date: '2018-07-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:28:17Z'
   warnings: []
   errors: []
 ---
@@ -321,7 +351,7 @@ Medidas prioritárias
 | Entidades envolvidas: DGADR - Direção-Geral de Agricultura e Desenvolvimento Rural, EDIA - Empresa de Desenvolvimento e Infraestruturas do Alqueva, S. A., MAE (APA) - Ministério do Ambiente e Energia - Agência Portuguesa do Ambiente, AGPEPAC Continente. |
 | Medida P4 - Simplificar o processo de licenciamento de infraestruturas hidráulicas |
 | Ações a desenvolver:1 - Criação de uma comissão técnica de acompanhamento permanente que envolva o sector e a APA.2 - Criação de propostas de adaptação da legislação relativa ao Regime Jurídico de Avaliação de Impacte Ambiental e de planos de gestão de bacias hidrográficas. |
-| Fundamentação:Tendo em conta o enquadramento da Diretiva relativa à Avaliação do Impacte Ambiental 2011/92/UE, transposta pelo Regime Jurídico da Avaliação de Impacto Ambiental (RJAIA), [Decreto-Lei n.º 151-B/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-b-2013-513863), de 31 de outubro, na redação atual, pretende-se:• Criar propostas de adaptação da legislação nacional de impacto ambiental no caso de ampliação da área beneficiada por barragens agrícolas, de forma que a exigência de AIA seja definida em função de limiares fixos superior aos atuais.• Dentro dessas propostas, adequar no caso de barragens ou instalações concebidas para retenção ou armazenagem permanente de água os limiares a partir dos quais é exigida obrigatoriamente AIA em termos dos seguintes requisitos: área inundada, volume de armazenamento, coroamento e altura da barragem.Atualmente, a AIA é obrigatória quando o armazenamento da nova albufeira/reservatório ou da sua ampliação é superior ou igual a 10 hm<sup>3</sup> (anexo i do [Decreto-Lei n.º 151-B/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-b-2013-513863), de 31 de outubro) ou nas circunstâncias definidas no anexo ii, alínea g), do [Decreto-Lei n.º 151-B/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-b-2013-513863), de 31 de outubro. Deve ponderar-se a possibilidade de se considerar um maior volume e alturas nas albufeiras hidroagrícolas, em caso de zonas não sensíveis ou em caso de reforço de perímetro de rega já construído, ao invés de considerar o fator da área inundável pela albufeira, como fator determinante para AIA em qualquer dos casos.O incremento da dimensão da infraestrutura de armazenamento de água não dispensa o parecer obrigatório da Autoridade Nacional de Segurança de Barragens. Deve, assim, ajustar-se o nível das taxas de licenciamento AIA das barragens agrícolas ([Portaria n.º 368/2015](https://diariodarepublica.pt/dr/detalhe/portaria/368-2015-70737914), de 19 de outubro).Considerando as condicionantes previstas nos planos de gestão das bacias hidrográficas no que respeita à aplicação aérea - de produtos fitofarmacêuticos na cultura do arroz -, importa propor procedimentos para sistematizar e simplificar processos de avaliação de risco das aplicações aéreas. |
+| Fundamentação:Tendo em conta o enquadramento da Diretiva relativa à Avaliação do Impacte Ambiental 2011/92/UE, transposta pelo Regime Jurídico da Avaliação de Impacto Ambiental (RJAIA), [Decreto-Lei n.º 151-B/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-b-2013-513863), de 31 de outubro, na redação atual, pretende-se:• Criar propostas de adaptação da legislação nacional de impacto ambiental no caso de ampliação da área beneficiada por barragens agrícolas, de forma que a exigência de AIA seja definida em função de limiares fixos superior aos atuais.• Dentro dessas propostas, adequar no caso de barragens ou instalações concebidas para retenção ou armazenagem permanente de água os limiares a partir dos quais é exigida obrigatoriamente AIA em termos dos seguintes requisitos: área inundada, volume de armazenamento, coroamento e altura da barragem.Atualmente, a AIA é obrigatória quando o armazenamento da nova albufeira/reservatório ou da sua ampliação é superior ou igual a 10 hm3 (anexo i do [Decreto-Lei n.º 151-B/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-b-2013-513863), de 31 de outubro) ou nas circunstâncias definidas no anexo ii, alínea g), do [Decreto-Lei n.º 151-B/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-b-2013-513863), de 31 de outubro. Deve ponderar-se a possibilidade de se considerar um maior volume e alturas nas albufeiras hidroagrícolas, em caso de zonas não sensíveis ou em caso de reforço de perímetro de rega já construído, ao invés de considerar o fator da área inundável pela albufeira, como fator determinante para AIA em qualquer dos casos.O incremento da dimensão da infraestrutura de armazenamento de água não dispensa o parecer obrigatório da Autoridade Nacional de Segurança de Barragens. Deve, assim, ajustar-se o nível das taxas de licenciamento AIA das barragens agrícolas ([Portaria n.º 368/2015](https://diariodarepublica.pt/dr/detalhe/portaria/368-2015-70737914), de 19 de outubro).Considerando as condicionantes previstas nos planos de gestão das bacias hidrográficas no que respeita à aplicação aérea - de produtos fitofarmacêuticos na cultura do arroz -, importa propor procedimentos para sistematizar e simplificar processos de avaliação de risco das aplicações aéreas. |
 | Calendário: a partir de 2025. |
 | Entidades envolvidas: DGADR, MAE (APA), OA - Organização de Agricultores. |
 | Medida P5 - Implementar a agricultura de precisão via OP |
@@ -394,3 +424,7 @@ Medidas estratégicas
 | Fundamentação:• Esta ação depende dos resultados obtidos na experiência piloto da intervenção PEPAC. Pretende-se, assim, aumentar o investimento na bioeconomia, para melhoria do desempenho ambiental a partir da qual serão avaliados os compromissos a criar para a operacionalização de uma medida de maior espetro. |
 | Calendário: pós 2027. |
 | Entidades envolvidas: GPP, INIAV, OA. |
+
+119918463
+
+.Tbl2 { min-height:20px; } .Tbl3 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; } .Tbl4 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; } .Tbl5 { border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; } .Tbl6 { border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:none; border-bottom-width:1px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:none; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; } .Tbl8 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; } .Tbl9 { min-height:28px; } .Tbl10 { border-collapse:collapse; border-width:1px; } .Tbl11 { height:3px; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:none; border-right-style:none; border-left-style:none; vertical-align:middle; } .Tbl13 { min-height:52px; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:none; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:none; border-left-style:none; vertical-align:middle; } .Tbl15 { min-height:98px; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:none; } .Tbl17 { min-height:117px; } .Tbl18 { min-height:22px; } .Tbl19 { min-height:30px; } .Tbl20 { text-align:justify; text-align-last:justify; } .Tbl21 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:none; border-left-style:none; vertical-align:middle; } .Tbl22 { min-height:120px; } .Tbl23 { min-height:88px; } .Tbl24 { min-height:24px; } .Tbl25 { min-height:44px; } .Tbl26 { min-height:65px; } .Tbl27 { min-height:141px; } .Tbl28 { min-height:18px; } .Tbl29 { min-height:40px; } .Tbl30 { min-height:38px; } .Tbl31 { min-height:61px; } .Tbl32 { min-height:229px; } .Tbl33 { min-height:23px; } .Tbl34 { min-height:26px; } .Tbl35 { min-height:58px; } .Tbl36 { min-height:174px; } .Tbl37 { min-height:25px; } .Tbl38 { min-height:37px; } .Tbl39 { min-height:62px; } .Tbl40 { min-height:82px; } .Tbl41 { min-height:221px; } .Tbl42 { min-height:43px; } .Tbl43 { min-height:131px; } .Tbl44 { border-collapse:collapse; border-width:1px; margin-left:auto; } .Tbl45 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:none; border-left-style:none; } .Tbl46 { min-height:21px; } .Tbl47 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:none; border-left-style:none; vertical-align:middle; } .Tbl48 { min-height:70px; } .Tbl49 { min-height:97px; } .Tbl50 { min-height:19px; } .Tbl51 { min-height:41px; } .Tbl52 { margin-top:23px; } .Tbl53 { min-height:139px; } .Tbl54 { min-height:74px; } .Tbl55 { min-height:122px; } .Tbl56 { min-height:54px; } .Tbl57 { min-height:49px; } .Tbl58 { min-height:180px; } .Tbl59 { min-height:39px; } .Tbl60 { min-height:99px; } .Tbl61 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:none; vertical-align:middle; } .Tbl62 { min-height:108px; } .Tbl63 { min-height:27px; } .Tbl64 { min-height:45px; } .Tbl65 { min-height:84px; } .Tbl66 { min-height:81px; } .Tbl67 { min-height:56px; } .Tbl68 { min-height:286px; } .Tbl69 { min-height:15px; } .Tbl70 { min-height:51px; }

@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/186/2009/05/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/186-2009-608733
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-13T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99b24ec4aeffaf7a1dddf25196839c6a8eab4c8c86a8bf3dc0576b841d344992
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 006d14c3fcc712363122e6d4149bdcec94907811a5067dbf4b1ec4b00cae9863
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,32 +70,72 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
-- Tempo de Serviço
-- Aposentação
-- Igualdade de Tratamento
-- Estatuto da Aposentação
 - Administração Pública
+- Aposentação
 - Caixa Geral de Aposentações
-- Inconstitucionalidade
-- Reforma Antecipada
-- Pensão de Aposentação
+- Estatuto da Aposentação
+- Função Pública
 - Funcionário Público
+- Igualdade de Tratamento
+- Inconstitucionalidade
+- Pensão de Aposentação
+- Reforma Antecipada
+- Tempo de Serviço
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/1/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/1/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:180580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1941159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2534414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2909177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3575632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:48Z'
   warnings: []
   errors: []
 ---

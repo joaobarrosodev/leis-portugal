@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43462-1960-479901
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-08-12T00:00:00Z'
+  retrieved_at: '2026-10-22T19:22:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30afbfb24a2fa9a4577118d40a50bdeb8937264b11d2e9dddc1b35ca2e281937
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 861881ea33874eb82912c2e6ac8150e4a422c507227d7e0508ef99a1a46fd71b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:22:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,20 @@ relationships:
   target: pt:dre:579935:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:378123:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:22:06Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +98,7 @@ Sob proposta do Governo de Cabo Verde e ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O quadro administrativo da província de Cabo Verde será constituído pela forma seguinte:
+Artigo 1.º O quadro administrativo da província de Cabo Verde será constituído pela forma seguinte:
 
 1 chefe de serviços;
 
@@ -116,11 +120,11 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § 3.º As funções de secretário dos concelhos de 1.ª e 2.ª classes são exercidas por segundos-oficiais e as dos concelhos de 3.ª classe por terceiros-oficiais.
 
-###### Art. 2.º O provimento dos lugares efectuar-se-á nos termos previstos para as correspondentes categorias do quadro administrativo do ultramar.
+Art. 2.º O provimento dos lugares efectuar-se-á nos termos previstos para as correspondentes categorias do quadro administrativo do ultramar.
 
 § único. Os lugares de administradores de concelho poderão ser preenchidos, em comissão, por pessoas estranhas ao quadro, habilitadas com curso superior, até um terço das vagas que em cada uma destas categorias ocorrerem.
 
-###### Art. 3.º Para o quadro a que se refere o artigo 1.º deste diploma transitam os actuais funcionários que o mereçam, pelas provas prestadas e informações obtidas e desde que satisfaçam às condições seguintes:
+Art. 3.º Para o quadro a que se refere o artigo 1.º deste diploma transitam os actuais funcionários que o mereçam, pelas provas prestadas e informações obtidas e desde que satisfaçam às condições seguintes:
 
 1) Administrador de concelho de 1.ª classe - o primeiro-oficial do actual quadro e os administradores dos concelhos da mesma classe que desempenhem essas funções há mais de oito anos;
 
@@ -134,11 +138,11 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 6) Aspirante - os funcionários desta categoria que não tenham sido colocados nas situações previstas nos números anteriores.
 
-###### Art. 4.º Para todos os efeito legais, as categorias fixadas no artigo 1.º deste decreto consideram-se equivalentes às do quadro administrativo das outras províncias ultramarinas, designadas pela mesma letra no § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 4.º Para todos os efeito legais, as categorias fixadas no artigo 1.º deste decreto consideram-se equivalentes às do quadro administrativo das outras províncias ultramarinas, designadas pela mesma letra no § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 5.º Fica o Governo de Cabo Verde autorizado a abrir os créditos necessários para fazer face ao aumento de despesa resultante da execução deste decreto, tomando como contrapartida disponibilidades ou recursos orçamentais.
+Art. 5.º Fica o Governo de Cabo Verde autorizado a abrir os créditos necessários para fazer face ao aumento de despesa resultante da execução deste decreto, tomando como contrapartida disponibilidades ou recursos orçamentais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

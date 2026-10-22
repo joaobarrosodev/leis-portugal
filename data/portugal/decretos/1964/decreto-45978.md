@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45978-1964-537062
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-10-20T00:00:00Z'
+  retrieved_at: '2026-10-22T19:42:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: caca065d935d4766fc766e7c36db50abfd00b64e09a1c4cfd432ca4d73e4b311
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85dccdab361a5bacf142835888e557762cf45ffe2d1246eae0bd61bb039bcc0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:42:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:534799:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:42:30Z'
   warnings: []
   errors: []
 ---
@@ -87,14 +91,14 @@ Com fundamento no disposto no artigo 10.º do [Decreto-Lei n.º 45885](https://d
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças um crédito especial no montante de 25000000$00, devendo a mesma importância constituir o artigo 314.º «Para despesas resultantes da execução do [Decreto-Lei n.º 45885](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45885-1964-534799), de 24 de Agosto de 1964», do capítulo 12.º do orçamento dos Encargos Gerais da Nação para o corrente ano económico.
+Artigo 1.º É aberto no Ministério das Finanças um crédito especial no montante de 25000000$00, devendo a mesma importância constituir o artigo 314.º «Para despesas resultantes da execução do [Decreto-Lei n.º 45885](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45885-1964-534799), de 24 de Agosto de 1964», do capítulo 12.º do orçamento dos Encargos Gerais da Nação para o corrente ano económico.
 
-###### Art. 2.º Para contrapartida do crédito aberto no artigo precedente, é inscrita a seguinte rubrica no actual orçamento das receitas do Estado:
+Art. 2.º Para contrapartida do crédito aberto no artigo precedente, é inscrita a seguinte rubrica no actual orçamento das receitas do Estado:
 
-### Capítulo 9.º «Receita extraordinária»:
+Capítulo 9.º «Receita extraordinária»:
 
-###### Artigo 294.º-B «Receita proveniente da execução do [Decreto-Lei n.º 45885](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45885-1964-534799), de 24 de Agosto de 1964» ... 25000000$00
+Artigo 294.º-B «Receita proveniente da execução do [Decreto-Lei n.º 45885](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45885-1964-534799), de 24 de Agosto de 1964» ... 25000000$00
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Outubro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - António Manuel Pinto Barbosa.

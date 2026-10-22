@@ -92,6 +92,12 @@ relationships:
   label: Altera Anexo I; Altera Anexo III
   source: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/74-2026-1090808520
   date: '2026-04-24'
+- type: amended_by
+  target: pt:dre:1134398998:por
+  label: Alterados, com efeitos a partir de 11 de junho de 2026, os n.ºs 7 e 10 pelo(a) Resolução do Conselho de Ministros
+    n.º 129/2026 - Diário da República n.º 117/2026, Série I de 2026-06-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/129-2026-1134398998
+  date: '2026-06-19'
 - type: cites
   target: celex:32021R2116
   label: null
@@ -124,6 +130,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/15-c/2026/02/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/15-c/2026/02/01/p/dre
+- type: cites
+  target: pt:dre:1031784677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1031784680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115879178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 4

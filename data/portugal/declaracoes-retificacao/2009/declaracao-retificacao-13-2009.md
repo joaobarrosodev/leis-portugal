@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/13/2009/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-2009-601476
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-01T00:00:00Z'
+  retrieved_at: '2026-10-22T19:11:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f45d33a22777e99a881c48cf2488fa1a772cefaeaefef5a0d6275c109d91b7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 235dc9505533bd1674cffcb103295cca5030896677b23499b39723a6799666a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:11:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
-- Financiamento
-- Instituto do Emprego e Formação Profissional
+- Contrato de Trabalho
 - Desempregado
+- Desemprego
 - Empresa Privada
 - Entidade Patronal
+- Financiamento
+- Instituto da Segurança Social
+- Instituto do Emprego e Formação Profissional
 - Jovem
-- Desemprego
 - Política de Emprego
-- Contrato de Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:611298:por
@@ -94,16 +94,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/130/2009/01/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/130/2009/01/30/p/dre
+- type: cites
+  target: pt:dre:426483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:portaria:130/2009
+  label: "Rectifica a Portaria n.º 130/2009, de 30 de Janeiro, DR.IS [21]\0\0"
+  source: null
+  date: '2009-01-30'
+- type: repealed_by
+  target: pt:dre:611298:por
+  label: "Revogada, a partir de 06.03.2010, com excepção do art. 4.º cuja vigência do apoio foi prorrogada até 31.12.2010\
+    \ pela Port 99/2010, de 15-Fev, e sem prejuízo do disposto no art. 14.º e no n.º 2 do art. 15.º, a Port 130/2009, de 30-Jan,\
+    \ rectificada pela presente declaração de rectificação, pela PORT.125/2010.01.03.2010.MTSSO, DR.IS [41] de 01.03.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/125-2010-611298
+  date: '2010-03-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:11:02Z'
   warnings: []
   errors: []
 ---

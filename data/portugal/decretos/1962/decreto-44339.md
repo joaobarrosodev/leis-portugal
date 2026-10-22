@@ -49,40 +49,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44339-1962-140836
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-11-17T00:00:00Z'
+  retrieved_at: '2026-10-22T19:29:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f770529771ececcb1aade1ef5d72191a24c850bddb6f74cc35bad29c16494f7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e3f5ad919badc3cf4fb42ffb5c362bb143c74387ccaf224da2e54ae579415a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:29:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exportação
+- Importação
+- Indústria Têxtil
+- Indústria Transformadora
 relationships:
 - type: amended_by
   target: pt:dre:280538:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:280538:por
+  label: Excluída a a fibra poliéster descontínua (em qualquer estado) da autorização prevista no art. 1.º pelo(a) Decreto
+    n.º 147/77 - Diário da República n.º 266/1977, Série I de 1977-11-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/147-1977-280538
+  date: '1977-11-17'
+- type: cites
+  target: pt:dre:321313:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:29:13Z'
   warnings: []
   errors: []
 ---
@@ -93,20 +107,20 @@ Visto o n.º 8.º do artigo 4.º e o § único do artigo 3.º da Reforma Aduanei
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a importação, sob regime de draubaque, de fibras têxteis, sintéticas ou artificiais, contínuas ou descontínuas, destinadas ao fabrico de fios, tintos ou não, ou de tecidos, mesmo tintos ou estampados, em cuja constituição entrem apenas uma daquelas fibras importadas ou misturas destas fibras entre si ou com outras fibras, mesmo naturais, que não tenham sido importadas em regime de draubaque.
+Artigo 1.º É autorizada a importação, sob regime de draubaque, de fibras têxteis, sintéticas ou artificiais, contínuas ou descontínuas, destinadas ao fabrico de fios, tintos ou não, ou de tecidos, mesmo tintos ou estampados, em cuja constituição entrem apenas uma daquelas fibras importadas ou misturas destas fibras entre si ou com outras fibras, mesmo naturais, que não tenham sido importadas em regime de draubaque.
 
-###### Art. 2.º Restituir-se-ão os direitos correspondentes aos pesos das fibras, importadas ao abrigo do regime de draubaque, contidas nos fios ou tecidos a exportar.
+Art. 2.º Restituir-se-ão os direitos correspondentes aos pesos das fibras, importadas ao abrigo do regime de draubaque, contidas nos fios ou tecidos a exportar.
 
 § 1.º No caso de fios ou tecidos em cuja constituição entre apenas uma fibra, esse peso será conferido pela verificação aduaneira.
 
 § 2.º No caso de fios ou tecidos em cuja constituição entrem várias fibras, as quantidades das que foram importadas em regime de draubaque, e naqueles se contêm, deverão ser declaradas pelo exportador e confirmadas por análise a efectuar no laboratório da Direcção-Geral das Alfândegas.
 
-###### Art. 3.º A exportação dos tecidos a que se refere o presente decreto deverá efectuar-se no prazo de dois anos, a contar da data da importação da respectiva matéria-prima.
+Art. 3.º A exportação dos tecidos a que se refere o presente decreto deverá efectuar-se no prazo de dois anos, a contar da data da importação da respectiva matéria-prima.
 
-###### Art. 4.º É permitido aos importadores, sem dependência de prévio despacho ministerial, usar da faculdade de garantir os direitos, nos termos do artigo 443-A do Regulamento das Alfândegas.
+Art. 4.º É permitido aos importadores, sem dependência de prévio despacho ministerial, usar da faculdade de garantir os direitos, nos termos do artigo 443-A do Regulamento das Alfândegas.
 
-###### Art. 5.º São revogados os Decretos n.os 43170, 43569 e 44144, respectivamente de 21 de Setembro de 1960, de 28 de Março de 1961 e de 2 de Janeiro de 1962.
+Art. 5.º São revogados os Decretos n.os 43170, 43569 e 44144, respectivamente de 21 de Setembro de 1960, de 28 de Março de 1961 e de 2 de Janeiro de 1962.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 11 de Maio de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa.

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/47/2005/06/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/47-2005-227775
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-06-14T00:00:00Z'
+  retrieved_at: '2026-10-22T19:05:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24147350ca61f3eb6b86c99129d6d4ad644e7dac003b87dd5eb1b8a7e5abf428
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9255a7658f41f61663dd131e0324b815036971e09ef8f67184d1121e615e8236
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:05:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,16 +69,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aposentação
+- Cabo Verde
 - Cálculo de Pensões
 - Cidade da Praia
 - Contribuições da Segurança Social
 - Convenção
-- Portugal
-- Cabo Verde
 - Pensão de Invalidez
-- Pensão de Velhice
 - Pensão de Reforma
+- Pensão de Velhice
 - Pensões
+- Portugal
 - Prestações da Segurança Social
 - Proteção Social
 - Regime Contributivo da Segurança Social
@@ -99,16 +99,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/decpresrep/2/2005/01/04/p/dre
   label: null
   source: http://data.dre.pt/eli/decpresrep/2/2005/01/04/p/dre
+- type: cites
+  target: pt:dre:457216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618942:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:aviso:202/2005
+  label: "Rectifica o Aviso n.º 202/2005, de 9 de Maio, DR.IS-A [89]\0\0"
+  source: null
+  date: '2005-05-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:05:09Z'
   warnings: []
   errors: []
 ---

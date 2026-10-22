@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/63/2026/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/63-2026-1076925540
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-25T00:00:00Z'
+  retrieved_at: '2026-10-22T18:36:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94fd49bb4ce86911e29a0f0967e1222f06cadf6fc0fb53b95a0a11038a4b7478
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb213eeefd9e61bab58a31677e02dbbb1242049185ec8cca290b6df82c74e92a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:36:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
 subjects:
 - Alienação de Acções
 - Alienação de Participações do Estado
+- Banca
+- Brasil
 - Caixa Geral de Depósitos
 - Capital Social
 - Regulamentação de Atos Legislativos
 - Setor Empresarial do Estado
-- Banca
-- Brasil
 - Venda Directa
 relationships:
 - type: cites
@@ -88,16 +88,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/135/2025/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/135/2025/09/10/p/dre
+- type: cites
+  target: pt:dre:114406168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123675745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:934744197:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:36:39Z'
   warnings: []
   errors: []
 ---
@@ -124,11 +136,11 @@ Atendendo à função de garantia prosseguida por esse mecanismo, entende-se apr
 
 Adicionalmente, o n.º 2 do artigo 15.º do caderno de encargos prevê a possibilidade de se determinar que o proponente selecionado preste uma garantia bancária à primeira solicitação, em valor correspondente à diferença entre o montante global do preço oferecido e o montante da prestação pecuniária inicial, podendo, todavia, a garantia bancária ser substituída por outro instrumento considerado adequado a servir a mesma finalidade de garantia de cumprimento, nos termos do n.º 4 do artigo 15.º do caderno de encargos.
 
-A referida garantia bancária ou instrumento considerado adequado devem ser prestados de acordo com o modelo e demais termos e condições estabelecidos na presente resolução, em conformidade com o disposto nos n.<sup>os</sup>3 e 4 do artigo 15.º do caderno de encargos.
+A referida garantia bancária ou instrumento considerado adequado devem ser prestados de acordo com o modelo e demais termos e condições estabelecidos na presente resolução, em conformidade com o disposto nos n.os3 e 4 do artigo 15.º do caderno de encargos.
 
 Assim:
 
-Nos termos do n.º 3 do artigo 4.º e do artigo 5.º do [Decreto-Lei n.º 153/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2017-114406168), de 28 de dezembro, e das alíneas c) e g) do artigo 199.º da Constituição e para os efeitos do n.º 3 do artigo 2.º e dos n.<sup>os</sup>1 e 4 do artigo 15.º do caderno de encargos, aprovado em anexo à [Resolução do Conselho de Ministros n.º 129-B/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/129-b-2019-123675745), de 1 de agosto, o Conselho de Ministros resolve:
+Nos termos do n.º 3 do artigo 4.º e do artigo 5.º do [Decreto-Lei n.º 153/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2017-114406168), de 28 de dezembro, e das alíneas c) e g) do artigo 199.º da Constituição e para os efeitos do n.º 3 do artigo 2.º e dos n.os1 e 4 do artigo 15.º do caderno de encargos, aprovado em anexo à [Resolução do Conselho de Ministros n.º 129-B/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/129-b-2019-123675745), de 1 de agosto, o Conselho de Ministros resolve:
 
 1 - Determinar a seleção e admissão a participar na fase subsequente do processo de alienação das ações objeto da venda direta da sociedade Banco Caixa Geral - Brasil, S. A., sociedade de direito brasileiro, prevista no n.º 1 do artigo 3.º do [Decreto-Lei n.º 153/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2017-114406168), de 28 de dezembro, os seguintes potenciais investidores que apresentaram intenções de aquisição indicativas da totalidade dessas ações:
 
@@ -156,7 +168,7 @@ d) Sputnik LLC.
 
 9 - Determinar que a garantia prevista no número anterior é prestada, pelo proponente selecionado, mediante garantia bancária autónoma e à primeira solicitação, em língua portuguesa ou inglesa, em termos materialmente equivalentes aos constantes do modelo anexo à presente resolução, da qual faz parte integrante.
 
-10 - Determinar que a garantia a que se referem os n.<sup>os</sup>8 e 9 é emitida a favor da CGD, S. A., e da Caixa - Participações, SGPS, S. A., por instituição de crédito nacional ou estrangeira, que deverá ser entidade terceira ao proponente, com notação de risco da dívida sénior de longo prazo igual ou superior a A- (A menos) ou notação equivalente atribuída por uma agência de notação de risco reconhecida a nível internacional, ou aceite pela CGD, S. A.
+10 - Determinar que a garantia a que se referem os n.os8 e 9 é emitida a favor da CGD, S. A., e da Caixa - Participações, SGPS, S. A., por instituição de crédito nacional ou estrangeira, que deverá ser entidade terceira ao proponente, com notação de risco da dívida sénior de longo prazo igual ou superior a A- (A menos) ou notação equivalente atribuída por uma agência de notação de risco reconhecida a nível internacional, ou aceite pela CGD, S. A.
 
 11 - Determinar que a referida garantia é denominada em euros ou, mediante aceitação da CGD, S. A., noutra moeda, ou compatível com os mecanismos relevantes vertidos nas minutas finais dos instrumentos jurídicos previstos no artigo 18.º do caderno de encargos, devendo ser entregue à CGD, S. A., até ao momento da celebração dos referidos instrumentos jurídicos.
 
@@ -319,3 +331,5 @@ The Bank
 [certified signatures with the necessary capacity and powers]
 
 Stamp duty in the amount of [...] was paid on [.] [.].
+
+119948086

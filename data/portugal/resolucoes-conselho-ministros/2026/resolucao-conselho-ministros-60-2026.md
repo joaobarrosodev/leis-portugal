@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/60/2026/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/60-2026-1076925537
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-25T00:00:00Z'
+  retrieved_at: '2026-10-22T18:36:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4fff6a748a843cea0ab4822619685b56d5719499c019462ce944feda5e25112
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96fa106e8c8a39a3faf4bc8f6449100e5b0fc70c237b667f5354650956ddee00
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:36:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,39 @@ reuse:
 subjects:
 - Barragem de Crestuma-lever
 - Cinfães
-- Ordenamento do Território
-- Plano Director Municipal
-- Recursos Hídricos
 - Medidas Preventivas
-- Proteção do Ambiente
+- Ordenamento do Território
 - Penafiel
+- Plano Director Municipal
 - Política de Solos
+- Proteção do Ambiente
+- Recursos Hídricos
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:163/2007
+  label: Suspende, nos termos do n.º 1 e com medidas preventivas, a aplicação do n.º 1 do artigo 36.º, da alínea a) do n.º
+    1 do artigo 59.º-A, do n.º 1 do artigo 64.º-A e das alíneas a) e b) do n.º 3 do artigo 65.º-A do Regulamento do Plano
+    Diretor Municipal de Penafiel, ratificado pela Resolução do Conselho de Ministros n.º 163/2007, de 12 de outubro, Diário
+    da República n.º 197/2007, Série I
+  source: null
+  date: '2007-10-12'
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:187/2007
+  label: Suspende, nos termos do n.º 1 e com medidas preventivas, a aplicação da alínea a) do n.º 1 do artigo 21.º, do n.º
+    1 do artigo 22.º, da alínea a) do n.º 1 do artigo 24.º, das alíneas a) e c) do n.º 2 e do n.º 3 do artigo 27.º, do n.º
+    1 e da alínea d) do n.º 2 do artigo 29.º e das alíneas d) e e) do n.º 4 do artigo 30.º do Regulamento do Plano de Ordenamento
+    das Albufeiras de Crestuma-Lever, aprovado pela Resolução do Conselho de Ministros n.º 187/2007, de 21 de dezembro, Diário
+    da República n.º 246/2007, Série I
+  source: null
+  date: '2007-12-21'
+- type: amends
+  target: pt:numero:aviso:12625/2017
+  label: Suspende, nos termos do n.º 1 e com medidas preventivas, a aplicação da alínea c) do n.º 2 do artigo 61.º, da alínea
+    b) do n.º 1 do artigo 82.º, do n.º 2 do artigo 84.º, do n.º 2 do artigo 85.º e da alínea a) do n.º 2 e do n.º 6 do artigo
+    86.º do Regulamento do Plano Diretor Municipal de Cinfães, publicado pelo Aviso n.º 12625/2017, de 20 de outubro, Diário
+    da República n.º 203/2017, Série II
+  source: null
+  date: '2017-10-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/80/2015/05/14/p/dre
   label: null
@@ -100,16 +125,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/23/2024/02/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/23/2024/02/05/p/dre
+- type: cites
+  target: pt:dre:108352214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124457181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131065854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170514545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2783470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:840278736:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:36:34Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +221,7 @@ Foram promovidas as audições da Comunidade Intermunicipal do Tâmega e Sousa, 
 
 Assim:
 
-Nos termos do n.º 2 do artigo 125.º, da alínea a) do n.º 1 do artigo 126.º, do n.<sup>o</sup>8 do artigo 134.º, do n.º 3 do artigo 137.º e do n.º 1 do artigo 141.º do Regime Jurídico dos Instrumentos de Gestão Territorial, aprovado pelo [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos do n.º 2 do artigo 125.º, da alínea a) do n.º 1 do artigo 126.º, do n.o8 do artigo 134.º, do n.º 3 do artigo 137.º e do n.º 1 do artigo 141.º do Regime Jurídico dos Instrumentos de Gestão Territorial, aprovado pelo [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Determinar a suspensão nas áreas identificadas nas plantas constantes dos anexos i a iii à presente resolução, da qual fazem parte integrante:
 
@@ -192,23 +257,28 @@ Presidência do Conselho de Ministros, 22 de janeiro de 2026. - O Primeiro-Minis
 
 Extrato da planta que identifica as áreas do Plano de Ordenamento das Albufeiras de Crestuma-Lever abrangidas pela suspensão parcial e sujeitas a medidas preventivas
 
-![](https://files.diariodarepublica.pt/images/1076925537/1076923374.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1076925537/1076923374.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1076925537/1077224075.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1076925537/1077224075.png) |
+| --- |
 
 ## ANEXO II — (a que se refere o n.º 1)
 
 Extrato da planta que identifica as áreas do Plano Diretor Municipal de Cinfãesabrangidas pela suspensão parcial e sujeitas a medidas preventivas
 
-![](https://files.diariodarepublica.pt/images/1076925537/1077224076.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1076925537/1077224076.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1076925537/1077224077.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1076925537/1077224077.png) |
+| --- |
 
 ## ANEXO III — (a que se refere o n.º 1)
 
 Extrato da planta que identifica as áreas do Plano Diretor Municipal de Penafielabrangidas pela suspensão parcial e sujeitas a medidas preventivas
 
-![](https://files.diariodarepublica.pt/images/1076925537/1077224078.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1076925537/1077224078.png) |
+| --- |
 
 Identificadores das imagens e respetivos endereços do sítio do SNIT
 
@@ -223,3 +293,5 @@ Identificadores das imagens e respetivos endereços do sítio do SNIT
 85803 - [https://ssaigt.dgterritorio.pt/i/PSusp_85803_POACL_S_POIIICi.jpg](https://ssaigt.dgterritorio.pt/i/PSusp_85803_POACL_S_POIIICi.jpg)
 
 85803 - [https://ssaigt.dgterritorio.pt/i/PSusp_85803_POACL_S_POPenaf.jpg](https://ssaigt.dgterritorio.pt/i/PSusp_85803_POACL_S_POPenaf.jpg)
+
+119948030

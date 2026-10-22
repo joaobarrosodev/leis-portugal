@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/57/2026/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-19T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5c0e71e4da3fab0b6d983b5d060f889d048a7e0cd7a8ae1f7f8d1315faa0016
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3fefc3e6c01ab8e34ba6527a558e1632e98b0dd54c645cb15847a1fe1e57129b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Instituto do Cinema e do Audiovisual
-- Extinção de Serviços
-- Produção Cinematográfica
-- Subvenção Pública
-- Conselho Consultivo
 - Cinema
-- Indústria Cinematográfica
-- Subsídio não Reembolsável
+- Conselho Consultivo
+- Extinção de Serviços
+- Financiamento
 - Fundo de Apoio ao Turismo e ao Cinema
+- Indústria Cinematográfica
+- Instituto do Cinema e do Audiovisual
 - Linha de financiamento
+- Produção Cinematográfica
 - Programa de Financiamento da Indústria do Audiovisual e do Cinema
+- Subsídio não Reembolsável
+- Subvenção Pública
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:79/2012
+  label: Altera, a partir de 20 de fevereiro de 2026, os artigos 3.º, 4.º, 7.º-A e 7.º-C e revoga as alíneas h), k), l) e
+    n) do n.º 2 do artigo 3.º e as alíneas b) e c) do n.º 3 do artigo 7.º-A do Decreto-Lei n.º 79/2012, de 27 de março, Diário
+    da República n.º 62/2012, Série I
+  source: null
+  date: '2012-03-27'
+- type: amends
+  target: pt:numero:decreto-lei:45/2018
+  label: Extingue, a partir de 20 de fevereiro de 2026, nos termos do artigo 11.º do presente diploma, o Incentivo à Produção
+    Cinematográfica e Audiovisual, no âmbito do Fundo de Apoio ao Turismo e ao Cinema, previsto no Decreto-Lei n.º 45/2018,
+    de 19 de junho, Diário da República n.º 116/2018, Série I, e revoga, nos termos da alínea a) do artigo 14.º, o referido
+    diploma
+  source: null
+  date: '2018-06-19'
 - type: cites
   target: celex:32014R0651
   label: null
@@ -108,16 +123,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/55/2012/09/06/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/55/2012/09/06/p/dre
+- type: cites
+  target: pt:dre:115172414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115536002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170175411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207760042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553947:por
+  label: null
+  source: null
 article_structure:
-  article_count: 18
+  article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:43Z'
   warnings: []
   errors: []
 ---
@@ -242,7 +281,7 @@ c) Os restantes € 15 000 000, preferencialmente, ao Incentivo Financeiro à Gr
 
 ###### Artigo 9.º — Implementação e gestão
 
-1 - O regulamento do incentivo previsto na alínea a) do artigo 4.º incorpora as normas consignadas no n.º 2, nas alíneas a), b), c) e e) do n.º 6 e nos n.<sup>os</sup>7, 8 e 12 do artigo 17.º-A da [Lei n.º 55/2012](https://diariodarepublica.pt/dr/detalhe/lei/55-2012-174871), de 6 de setembro, na sua redação atual.
+1 - O regulamento do incentivo previsto na alínea a) do artigo 4.º incorpora as normas consignadas no n.º 2, nas alíneas a), b), c) e e) do n.º 6 e nos n.os7, 8 e 12 do artigo 17.º-A da [Lei n.º 55/2012](https://diariodarepublica.pt/dr/detalhe/lei/55-2012-174871), de 6 de setembro, na sua redação atual.
 
 2 - A gestão e apoio à implementação dos incentivos cabe ao ICA, I. P., com exceção da decisão final de seleção das candidaturas apoiadas, que cabe à Comissão de Seleção.
 
@@ -302,7 +341,9 @@ n) [Revogada.]
 
 3 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 São órgãos do Instituto do Cinema e do Audiovisual, I. P.
 
@@ -314,7 +355,9 @@ c) [...]
 
 d) O conselho consultivo da PFC.
 
-###### Artigo 7.º-A — [...]
+Artigo 7.º-A
+
+[...]
 
 1 - A PFC é o órgão responsável por prosseguir as atribuições do ICA, I. P., em matéria de promoção da captação de filmagens e produções audiovisuais internacionais para Portugal e de simplificação e agilização dos procedimentos para esse efeito.
 
@@ -342,7 +385,9 @@ i) [...]
 
 j) [...]
 
-###### Artigo 7.º-C — Conselho consultivo da Portugal Film Commission
+Artigo 7.º-C
+
+Conselho consultivo da Portugal Film Commission
 
 1 - [...]
 
@@ -396,12 +441,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de dezembro de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro - Manuel Castro Almeida - Margarida Balseiro Lopes.
 
-**Promulgado em 29 de janeiro de 2026.**
+Promulgado em 29 de janeiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 1 de fevereiro de 2026.**
+Referendado em 1 de fevereiro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119947626

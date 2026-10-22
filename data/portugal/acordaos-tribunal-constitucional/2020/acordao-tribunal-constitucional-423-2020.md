@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/15200/0003400038.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/423/2020/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/423-2020-139679806
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-08-06T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7f902de04d8d6ca9c8f68e8536ecdc56612f9e23b2f185a60b5ee606a47719a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57056234a72c90ef5913c2c7407140771cdedad2329572c421ae5fdcc6bf4959
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assembleia Municipal
+- Autarquia Local
 - Chaves
 - Inconstitucionalidade
 - Legalidade
 - Referendo Local
-- Autarquia Local
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
@@ -96,13 +96,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:04Z'
   warnings: []
   errors: []
 ---
@@ -252,3 +252,5 @@ III - Decisão
 Pelo exposto, o Tribunal Constitucional decide ter por verificada a constitucionalidade e a legalidade do referendo local que a Assembleia Municipal de Chaves, na sua reunião ordinária de 30 de junho de 2020, deliberou realizar.
 
 Lisboa, 15 de julho de 2020. - João Pedro Caupers - José Teles Pereira - Fernando Vaz Ventura - Maria de Fátima Mata-Mouros - Gonçalo Almeida Ribeiro - Joana Fernandes Costa - Mariana Canotilho - José João Abrantes - Maria José Rangel de Mesquita - Assunção Raimundo - Pedro Machete - Atesto o voto de conformidade do Juiz Conselheiro Lino Ribeiro, nos termos do disposto no artigo 15.º-A do [Decreto-Lei n.º 10-A/2020](https://diariodarepublica.pt/web/guest/pesquisa/-/search/130243053/details/normal?l=1), de 13 de março (aditado pelo artigo 3.º do [Decreto-Lei n.º 20/2020](https://diariodarepublica.pt/web/guest/pesquisa/-/search/132883356/details/normal?l=1), de 1 de maio), João Pedro Caupers.
+
+113450758

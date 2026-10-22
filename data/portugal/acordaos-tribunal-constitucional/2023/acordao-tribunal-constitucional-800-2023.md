@@ -29,7 +29,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24400/0007500143.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/800/2023/12/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/800-2023-808125341
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-20T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54130e3a32d2ca01b2b50b4e5e573fb51d3f248fbc6fca7084f6bb4cb20faad6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0debdc732c6657bf2ea44c7af9d04a2ecceed5cf2c379f4c3d3f7ef56fdf6ba3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,13 +72,13 @@ reuse:
 subjects:
 - Acesso à Informação
 - Armazenagem
-- Comunicações Eletrónicas
-- Combate ao Crime
-- Segurança da Informação
-- Interpretação do Direito
 - Assembleia da República
+- Combate ao Crime
+- Comunicações Eletrónicas
 - Confidencialidade
+- Interpretação do Direito
 - Perfil Nacional de Metadados
+- Segurança da Informação
 relationships:
 - type: cites
   target: celex:31995L0046
@@ -156,6 +156,98 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/79/2021/11/24/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/79/2021/11/24/p/dre
+- type: cites
+  target: pt:dre:108234809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125515884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144272939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171674458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174824631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1778690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184356510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1985720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224553578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3306251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70300353:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32006L0024
   label: null
@@ -165,15 +257,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:28Z'
   warnings: []
   errors: []
 ---
@@ -206,7 +298,9 @@ Alteração à [Lei n.º 32/2008](https://diariodarepublica.pt/dr/detalhe/lei/32
 
 Os artigos 2.º, 4.º, 6.º, 7.º, 9.º, 15.º, 16.º e 17.º da [Lei n.º 32/2008](https://diariodarepublica.pt/dr/detalhe/lei/32-2008-456812), de 17 de julho, alterada pela [Lei n.º 79/2021](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), de 24 de novembro, passam a ter a seguinte redação:
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Os fornecedores de serviços de comunicações eletrónicas publicamente disponíveis ou de uma rede pública de comunicações devem conservar, nos termos previstos na presente lei, em Portugal ou no território de outro Estado-Membro da União Europeia, as seguintes categorias de dados:
 
@@ -234,7 +328,9 @@ f) [...]
 
 7 - [...]
 
-###### Artigo 6.º — Período e regras de conservação
+Artigo 6.º
+
+Período e regras de conservação
 
 1 - Para efeitos da finalidade prevista no n.º 1 do artigo 3.º, as entidades referidas no n.º 1 do artigo 4.º devem conservar, pelo período de um ano a contar da data da conclusão da comunicação, os seguintes dados:
 
@@ -254,7 +350,9 @@ c) Os endereços de protocolo IP atribuídos à fonte de uma ligação.
 
 6 - A autorização judicial a que se refere o n.º 3 compete a uma formação das secções criminais do Supremo Tribunal de Justiça, constituída pelos presidentes das secções e por um juiz designado pelo Conselho Superior da Magistratura, de entre os mais antigos destas secções.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -1260,7 +1358,7 @@ O apertado prazo constitucionalmente fixado para a fiscalização preventiva da 
 
 ([65]) Texto disponível em https://www.ejustice.just.fgov.be/cgi/article.pl?numac=2022015454&caller=list&article_lang
 
-=F&row_id=1&numero=8&pub_date=2022-08-08&dt=LOI&language=fr&du=d&fr=f&choix1=ET&choix2=ET&fromtab=+moftxt+UNION+montxt+UNION+modtxt&nl=n&trier=promulgation&pdda=2022&pdfa=2022&pddj=01&pddm=07&pdfj=31&sql=dt+=+%27LOI%27+and+pd+between+date%272022-07-01 %27+and+date%272022-08-31 %27+&rech=49&pdfm=08&tri=dd+AS+RANK+. Para o procedimento legislativo, vd. Projet de loi relatif à la collecte et à la conservation des données d'identification et des métadonnées dans le secteur des communications électroniques et à la fourniture de ces données aux autorités (disponível em https://www.dekamer.be/kvvcr/showpage.cfm?section=flwb&language=fr&cfm=flwbn.cfm?lang=N&dossierID=2572&legislat=55).
+=F&row_id=1№=8&pub_date=2022-08-08&dt=LOI&language=fr&du=d&fr=f&choix1=ET&choix2=ET&fromtab=+moftxt+UNION+montxt+UNION+modtxt&nl=n&trier=promulgation&pdda=2022&pdfa=2022&pddj=01&pddm=07&pdfj=31&sql=dt+=+%27LOI%27+and+pd+between+date%272022-07-01 %27+and+date%272022-08-31 %27+&rech=49&pdfm=08&tri=dd+AS+RANK+. Para o procedimento legislativo, vd. Projet de loi relatif à la collecte et à la conservation des données d'identification et des métadonnées dans le secteur des communications électroniques et à la fourniture de ces données aux autorités (disponível em https://www.dekamer.be/kvvcr/showpage.cfm?section=flwb&language=fr&cfm=flwbn.cfm?lang=N&dossierID=2572&legislat=55).
 
 ([66]) Vd. o artigo 11.º da referida Loi du 20 juillet 2022, que introduziu alterações à Loi du 13 juin 2005 relative aux communications électroniques.
 
@@ -1448,7 +1546,9 @@ De forma genérica e necessariamente sintética, para fins de descoberta da verd
 
 5 - De notar, ainda, que à luz das normas que foram agora objeto deste controlo preventivo, o legislador previu um tratamento autónomo de cada categoria de dados pessoais (em função da gravidade das ingerências operadas), sendo que, no que concerne à conservação dos dados de tráfego e de localização, de acordo com a nova redação do artigo 6.º da [Lei n.º 32/2008](https://diariodarepublica.pt/dr/detalhe/lei/32-2008-456812), a duração dessa conservação foi ainda mais limitada temporalmente, nos seguintes termos:
 
-###### Artigo 6.º — Período e regras de conservação
+Artigo 6.º
+
+Período e regras de conservação
 
 "1 - Para efeitos da finalidade prevista no n.º 1 do artigo 3.º, as entidades referidas no n.º 1 do artigo 4.º devem conservar, pelo período de um ano a contar da data da conclusão da comunicação, os seguintes dados:
 
@@ -1491,3 +1591,5 @@ Quanto àquela outra questão da ausência de consentimento prévio dos clientes
 No que toca à alegação de que a conservação indiscriminada de dados de tráfego (e de localização) faz de todos nós suspeitos do cometimento de crimes, ela vale o que vale. Somos tão suspeitos de ser criminosos em virtude da possibilidade de conservação generalizada e indiferenciada dos dados em questão, como somos suspeitos de cometer infrações fiscais em virtude da existência de uma base de dados bastante circunstanciada da Autoridade Tributária, como seremos suspeitos de terrorismo em virtude da existência de uma base de dados dos serviços de inteligência do Estado.
 
 10 - Por todos estes motivos, não acompanho, na íntegra, a decisão a que esta declaração de voto se apõe. Maria Benedita Urbano.
+
+117167873

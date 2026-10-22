@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 99/1991, 2º Suplemento, Série I-B de 1991-04-30
   number: '99'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2388-(14) a 2388-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/099b02/00140014.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/101/1991/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/101-1991-459472
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:28:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd713ae2e6d6eb9f469312ea79a187d1730504124ce15fe33d0fd2fc64d0e7a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 999da0d2d1a63082e1ff8c796c6463125e037384afda01e2df48534eff825f61
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:28:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,22 @@ subjects:
 - Ministério da Agricultura Pescas e Alimentação
 - Orçamento
 - Transferência de Verbas
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADA PELA DECLARAÇÃO RECTIFICAÇÃO NUMERO 184/91, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SERIE-B, NUMERO 174,\
+    \ 3 SUPLEMENTO, DE 31/7/91.\031/7/91.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:28:34Z'
   warnings: []
   errors: []
 ---
@@ -92,10 +97,10 @@ Segundo comunicação da 8.ª Delegação da Direcção-Geral da Contabilidade P
 
 Onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/099b02/00140014.pdf))](https://files.diariodarepublica.pt/1s/1991/04/099b02/00140014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/099b02/00140014.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/099b02/00140014.pdf))](https://files.diariodarepublica.pt/1s/1991/04/099b02/00140014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/099b02/00140014.pdf)
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 18 de Abril de 1991. - O Secretário-Geral, França Martins.

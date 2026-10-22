@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44514-1962-163409
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-08-17T00:00:00Z'
+  retrieved_at: '2026-10-22T19:30:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 457a716626f715f19de6968dc490d649103cc1e170d51e4d93fb993edb51c816
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf741443a2648b9ee0d90c728d6b25616e8bfa653b47355570a446a0baed5777
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:30:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:321313:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:30:36Z'
   warnings: []
   errors: []
 ---
@@ -88,13 +92,13 @@ Visto o n.º 8.º do artigo 4.º e o § único do artigo 3.º da Reforma Aduanei
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a importação, sob regime de draubaque, de chumbo destinado ao fabrico de zarcão e litargírio.
+Artigo 1.º É autorizada a importação, sob regime de draubaque, de chumbo destinado ao fabrico de zarcão e litargírio.
 
-###### Art. 2.º No acto da exportação deverá ser apresentado boletim de análise, que ficará junto ao bilhete de despacho respectivo, passado por um laboratório oficial, de que conste o teor em chumbo existente no zarcão ou litargírio exportado.
+Art. 2.º No acto da exportação deverá ser apresentado boletim de análise, que ficará junto ao bilhete de despacho respectivo, passado por um laboratório oficial, de que conste o teor em chumbo existente no zarcão ou litargírio exportado.
 
 § único. As alfândegas extrairão amostras dos produtos a exportar e, para confirmação dos resultados constantes dos boletins apresentados, procederão às análises julgadas convenientes.
 
-###### Art. 3.º Restituir-se-ão os direitos correspondentes ao chumbo importado ao abrigo do regime de braubaque existente nos produtos exportados.
+Art. 3.º Restituir-se-ão os direitos correspondentes ao chumbo importado ao abrigo do regime de braubaque existente nos produtos exportados.
 
 § único. Para cálculo dos direitos de importação a restituir aplicar-se-á a seguinte fórmula:
 
@@ -106,8 +110,8 @@ a representa a quantidade exportada de zarcão ou litargírio, expressa em tonel
 
 t representa a quantidade de chumbo contido em 100 kg do zarcão ou litargírio exportado, de acordo com o indicado pela análise.
 
-###### Art. 4.º É permitido aos importadores, sem dependência de prévio despacho ministerial, usar da faculdade de garantir os direitos, nos termos do artigo 443.º-A do Regulamento das Alfândegas.
+Art. 4.º É permitido aos importadores, sem dependência de prévio despacho ministerial, usar da faculdade de garantir os direitos, nos termos do artigo 443.º-A do Regulamento das Alfândegas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 17 de Agosto de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa.

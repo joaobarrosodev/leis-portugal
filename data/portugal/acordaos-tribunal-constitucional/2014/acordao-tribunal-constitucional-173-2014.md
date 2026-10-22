@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/173/2014/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/173-2014-571900
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-12T00:00:00Z'
+  retrieved_at: '2026-10-22T18:24:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce5d0a0972a7bc1f23e9c88fc28a86b40c36a26adf32a423e29c439e41e3ea5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07c42f220c78c12ab70dcd64de0436be0ab52072bb609d9136db552e41e359c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:24:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,14 +72,14 @@ subjects:
 - Acidente de Trabalho
 - Actualização de Pensões
 - Beneficiário
-- Pensão por Incapacidade Permanente para o Trabalho
 - Fundo de Acidentes de Trabalho
+- Incapacidade Permanente
+- Incapacidade Temporária
 - Inconstitucionalidade
+- Pensão por Incapacidade Permanente para o Trabalho
 - Pensionista
 - Pensões
 - Remição de Pensões
-- Incapacidade Temporária
-- Incapacidade Permanente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/ac/232/2003/06/17/p/dre
@@ -109,16 +109,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/77/2010/10/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/77/2010/10/11/p/dre
+- type: cites
+  target: pt:dre:1338631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:915427:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:24:23Z'
   warnings: []
   errors: []
 ---

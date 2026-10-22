@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 278/1996, 1º Suplemento, Série I-A de 1996-11-30
   number: '278'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4340-(2) a 4340-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/11/278a01/00020003.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/16-d/1996/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-d-1996-248865
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:47:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45b76bd299e6f086ecd4bf5f3bdda390d5f092b69df86ea901cf9b6fd8fdf99d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64fed5c223e79a9a76c57b1096e351100853355510b6d6d15f047f2c34f96dc6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:47:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,33 +68,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de Créditos
+- Assembleia da República
 - Assunção de Dívidas
-- Garantia
-- Sociedade Anónima
+- Cobrança de Dívidas
 - Cobrança de Impostos
 - Cobrança de Juros
 - Código de Processo Tributário
-- Política Fiscal
 - Competência Própria
 - Contribuições da Segurança Social
+- Crédito
 - Dívidas ao Estado
 - Documentação Administrativa
+- Execução por Dívidas
 - Fazenda Pública
 - Fundo de Desemprego
-- Ministro da Solidariedade e Segurança Social
-- Ministro das Finanças
-- Pagamento
+- Garantia
 - Instituto Público
 - JURO de MORA
-- Títulos de Crédito
-- Crédito
-- Assembleia da República
-- Política Económica
-- Reconversão de Empresas
-- Cobrança de Dívidas
-- Execução por Dívidas
-- Setor Empresarial
+- Ministro da Solidariedade e Segurança Social
+- Ministro das Finanças
 - Obrigações do Tesouro
+- Pagamento
+- Política Económica
+- Política Fiscal
+- Reconversão de Empresas
+- Setor Empresarial
+- Sociedade Anónima
+- Títulos de Crédito
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/124/1996/08/10/p/dre
@@ -112,16 +112,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
+- type: cites
+  target: pt:dre:405684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621680:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:47:29Z'
   warnings: []
   errors: []
 ---

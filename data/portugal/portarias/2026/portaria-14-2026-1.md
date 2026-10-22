@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/14/2026/01/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/14-2026-998488162
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-07T00:00:00Z'
+  retrieved_at: '2026-10-22T18:28:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4f170d4c355ebb1cbb4b77ad1e15d2d137fa1fadc76a93351a8a7cf3fe5aa32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f7c8bf1d540b51baf8c92fbb6337d788fb3f2867b8028814f666e77981ff1f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:28:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,12 +69,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Desenvolvimento Rural
-- Regulamentação de Atos Legislativos
-- Política Agrícola Comum
 - Apicultura
+- Desenvolvimento Rural
 - Plano Estratégico da Política Agrícola Comum para Portugal
+- Política Agrícola Comum
+- Regulamentação de Atos Legislativos
 relationships:
+- type: amends
+  target: pt:numero:portaria:171/2024
+  label: Altera, com efeitos a 1 de janeiro de 2025, o artigo 18.º da Portaria n.º 171/2024/1, de 24 de junho, Diário da República
+    n.º 120/2024, Série I
+  source: null
+  date: '2024-06-24'
 - type: cites
   target: celex:32021R2115
   label: null
@@ -91,16 +97,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/171/2024/06/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/171/2024/06/24/p/dre
+- type: cites
+  target: pt:dre:207760041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:869798289:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:28:12Z'
   warnings: []
   errors: []
 ---
@@ -147,4 +161,6 @@ O artigo 18.º da [Portaria n.º 171/2024/1](https://diariodarepublica.pt/dr/det
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2025.
 
-**O Ministro da Agricultura e Mar, José Manuel Fernandes, em 30 de dezembro de 2025.**
+O Ministro da Agricultura e Mar, José Manuel Fernandes, em 30 de dezembro de 2025.
+
+119945525

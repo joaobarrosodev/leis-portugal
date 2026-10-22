@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/09/16900/0001100034.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/535/2022/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/535-2022-200477770
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-01T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69519c995e7f26caf8bad8f4058c1c64fb06539371a38245bb6f30991eb0c48e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b94da7e131989f71b09196fe683e928c045dd6d8deff81089115e8e7676279b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assembleia Legislativa
+- Autarquia Local
 - Contra-ordenação
+- Diploma Legal
+- Estacionamento
 - Fiscalização Rodoviária
 - Inconstitucionalidade
 - Interpretação do Direito
-- Assembleia Legislativa
-- Estacionamento
 - Madeira.região Autónoma
-- Diploma Legal
 - Representante da República para a Região Autónoma da Madeira
 - Transferência de Competências
-- Autarquia Local
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/
@@ -121,16 +121,152 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/50/2018/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/50/2018/08/16/p/dre
+- type: cites
+  target: pt:dre:116068877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116068878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117128623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117128624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117142823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117142824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117142867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117142868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117142869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117142870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117142871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117142872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117142873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118748847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118748848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118748849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118748850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:120454166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124793108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128277509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179804278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58228086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75437528:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:23Z'
   warnings: []
   errors: []
 ---
@@ -640,3 +776,5 @@ Acompanho o acórdão e a sua fundamentação. Não subscrevo, porém, a parte f
 De acordo com aquela norma, Deputados, grupos parlamentares e Governo ficam impedidos de, nos termos do n.º 1 do artigo 167.º da Constituição, exercer iniciativa legislativa nesta matéria. Fixa-se, assim, um procedimento legislativo próximo daquele que a Constituição reserva aos Estatutos Político-Administrativos e às leis relativas à eleição dos deputados às Assembleias Legislativas das regiões autónomas (artigo 226.º da Constituição). Prevendo-se, pois, um ato legislativo reforçado, porque subordinado a um específico procedimento legislativo.
 
 Ora, nenhuma lei pode criar novas categorias de atos legislativos, nos termos do n.º 5 do artigo 112.º da Constituição. A Constituição não admite ao legislador ordinário a modificação do poder de iniciativa legislativa nem o valor normativo de outras leis. - Afonso Patrão.
+
+115630476

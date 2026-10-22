@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/157/2026/08/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2026-1153918006
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-03T00:00:00Z'
+  retrieved_at: '2026-10-22T18:48:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 033b8798357bad64ea03498d5935626858a525077bf0c4b205f3f19cc75763ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0f0e9f14ec25e8a568dd96787f20d60aa0d2903cadfb0f82d7fece6f8c32f70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:48:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
-- Análise Laboratorial
-- Autoridade Tributária e Aduaneira
-- Inspecção Sanitária
-- Definição de Competências
-- Direção Geral de Alimentação e Veterinária
-- Fiscalização
-- ASAE
-- GNR
-- Instituto da Conservação da Natureza e das Florestas
-- Proteção Fitossanitária
-- Madeira.região Autónoma
-- Alimento para Animais
-- Regulamento CE
 - Açores
+- Alimento para Animais
+- Análise Laboratorial
+- ASAE
 - Autarquia Local
 - Autoridade da Mobilidade e dos Transportes
 - Autoridade Nacional de Comunicações
+- Autoridade Tributária e Aduaneira
 - Contraordenação Económica
+- Definição de Competências
+- Direção Geral de Alimentação e Veterinária
+- Fiscalização
+- GNR
+- Inspecção Sanitária
+- Instituto da Conservação da Natureza e das Florestas
+- Madeira.região Autónoma
+- Proteção Fitossanitária
+- PSP
+- Regulamento CE
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:67/2020
+  label: Altera, os artigos 3.º, 4.º, 7.º, 8.º, 14.º, 16.º, 17.º, 18.º, 19.º, 21.º, 23.º, 30.º, revoga as alíneas a), d),
+    e), f), i), j), k), l), y), ii), pp), rr), ss), uu), vv), ww), aaa), bbb) e ccc) do n.º 1 do artigo 21.º e republica em
+    anexo o Decreto-Lei n.º 67/2020, de 15 de setembro. do Decreto-Lei n.º 67/2020, de 15 de setembro, Diário da República
+    n.º 180/2020, Série I
+  source: null
+  date: '2020-09-15'
 - type: cites
   target: celex:32014R0910
   label: null
@@ -147,16 +155,104 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2019/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2019/08/08/p/dre
+- type: cites
+  target: pt:dre:116734769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:142870334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213558633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55076558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58801094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635844:por
+  label: null
+  source: null
 article_structure:
-  article_count: 49
+  article_count: 38
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:48:51Z'
   warnings: []
   errors: []
 ---
@@ -209,7 +305,9 @@ Os artigos 3.º, 4.º, 7.º, 8.º, 14.º, 16.º, 17.º, 18.º, 19.º, 21.º, 23.
 
 8 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O inspetor fitossanitário é uma pessoa singular com o grau de licenciatura ou bacharelato na área das ciências agrárias, que para o exercício de funções de inspeção esteja integrada nos serviços oficiais em matéria de proteção fitossanitária, ou atue no âmbito de uma delegação conferida a pessoas singulares ou organismos públicos ou privados nos termos previstos no n.º 8 do artigo anterior.
 
@@ -227,7 +325,9 @@ Os artigos 3.º, 4.º, 7.º, 8.º, 14.º, 16.º, 17.º, 18.º, 19.º, 21.º, 23.
 
 8 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -247,7 +347,9 @@ Os artigos 3.º, 4.º, 7.º, 8.º, 14.º, 16.º, 17.º, 18.º, 19.º, 21.º, 23.
 
 8 - [Anterior n.º 8.]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A DGAV e o ICNF, I. P., realizam regularmente controlos oficiais a todos os operadores profissionais, com base no risco e com uma frequência adequada nos termos estabelecidos nos artigos 9.º a 14.º e no artigo 22.º do [Regulamento (UE) n.º 2017/625](https://data.europa.eu/eli/reg/2017/625/oj?locale=pt).
 
@@ -263,7 +365,9 @@ Os artigos 3.º, 4.º, 7.º, 8.º, 14.º, 16.º, 17.º, 18.º, 19.º, 21.º, 23.
 
 7 - [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -273,7 +377,9 @@ Os artigos 3.º, 4.º, 7.º, 8.º, 14.º, 16.º, 17.º, 18.º, 19.º, 21.º, 23.
 
 4 - [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - A aplicação da medida fitossanitária de destruição de vegetais, produtos vegetais e outros objetos, é sempre precedida de notificação das autoridades competentes aos operadores profissionais ou a qualquer pessoa mesmo não sendo operador profissional para, na presença de, no mínimo, dois técnicos da DGAV, das Regiões Autónomas ou do ICNF, I. P., consoante se trate de área agrícola ou florestal, proceder à destruição dos vegetais, produtos vegetais e outros objetos, preferencialmente num prazo acordado com os notificados, emitindo-se, se for o caso, o respetivo auto de destruição, o qual é assinado pelos presentes.
 
@@ -281,7 +387,9 @@ Os artigos 3.º, 4.º, 7.º, 8.º, 14.º, 16.º, 17.º, 18.º, 19.º, 21.º, 23.
 
 3 - [...]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -295,7 +403,9 @@ Os artigos 3.º, 4.º, 7.º, 8.º, 14.º, 16.º, 17.º, 18.º, 19.º, 21.º, 23.
 
 6 - [...]
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - A aplicação de medidas de proteção fitossanitária, as ações de controlo oficial e outras atividades oficiais realizadas nos termos previstos no presente decreto-lei são atividades de interesse público de salvaguarda de situações que coloquem em risco a fitossanidade e o ambiente.
 
@@ -303,7 +413,9 @@ Os artigos 3.º, 4.º, 7.º, 8.º, 14.º, 16.º, 17.º, 18.º, 19.º, 21.º, 23.
 
 3 - [...]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo 3.º e das competências atribuídas por lei a outras entidades em razão da matéria ou da área de jurisdição, a fiscalização do disposto no presente decreto-lei compete à DGAV, ao ICNF, I. P., às Regiões Autónomas, à Autoridade Tributária e Aduaneira, à Autoridade de Segurança Alimentar e Económica (ASAE), à Guarda Nacional Republicana, à Polícia de Segurança Pública e às restantes forças de segurança.
 
@@ -311,7 +423,9 @@ Os artigos 3.º, 4.º, 7.º, 8.º, 14.º, 16.º, 17.º, 18.º, 19.º, 21.º, 23.
 
 3 - [...]
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...]
 
@@ -431,7 +545,7 @@ ddd) [...]
 
 a) A introdução, circulação, manutenção, multiplicação ou libertação, no território nacional, de pragas de quarentena da União e de pragas de quarentena de zonas protegidas nestas zonas, em violação, respetivamente, do n.º 1 do artigo 5.º e do n.º 2 do artigo 32.º do [Regulamento (UE) n.º 2016/2031](https://data.europa.eu/eli/reg/2016/2031/oj?locale=pt);
 
-b) A não tomada imediata, pelo operador profissional, de medidas fitossanitárias necessárias para evitar a dispersão da praga, em violação do artigo 10.º, do n.º 4 do artigo 14.º, do n.º 1 do artigo 33.º e do n.º 2 do artigo 62.º do [Regulamento (UE) n.º 2016/2031](https://data.europa.eu/eli/reg/2016/2031/oj?locale=pt), e dos n.<sup>os</sup>4 e 6 do artigo 8.º do presente decreto-lei;
+b) A não tomada imediata, pelo operador profissional, de medidas fitossanitárias necessárias para evitar a dispersão da praga, em violação do artigo 10.º, do n.º 4 do artigo 14.º, do n.º 1 do artigo 33.º e do n.º 2 do artigo 62.º do [Regulamento (UE) n.º 2016/2031](https://data.europa.eu/eli/reg/2016/2031/oj?locale=pt), e dos n.os4 e 6 do artigo 8.º do presente decreto-lei;
 
 c) A não tomada, pelo operador profissional, de medidas fitossanitárias notificadas para a eliminação da praga, em violação do n.º 5 do artigo 14.º, do n.º 1 do artigo 33.º e do n.º 2 do artigo 62.º do [Regulamento (UE) n.º 2016/2031](https://data.europa.eu/eli/reg/2016/2031/oj?locale=pt), e do n.º 4 do artigo 8.º do presente decreto-lei;
 
@@ -473,7 +587,9 @@ s) O não cumprimento de medidas de proteção fitossanitária notificadas, em v
 
 5 - [Anterior n.º 4.]
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]
 
@@ -505,7 +621,9 @@ c) Ao presidente da ANA, S. A., à ANAC, à ANACOM e à AMT nos casos em que a i
 
 8 - [...]
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - Sem prejuízo das competências atribuídas por lei à DGAV, ao ICNF, I. P., e à ASAE, os atos e os procedimentos necessários à execução do presente decreto-lei nas Regiões Autónomas dos Açores e da Madeira competem às entidades das respetivas administrações regionais com atribuições e competências nas matérias em causa, sem prejuízo das adaptações decorrentes da estrutura própria da administração regional autónoma e das especificidades regionais a introduzir em decreto legislativo regional.
 
@@ -525,15 +643,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 18 de junho de 2026. - Luís Montenegro - Inês Carmelo Rosa Calado Lopes Domingos - Joaquim Miranda Sarmento - José Manuel Fernandes.
 
-**Promulgado em 24 de julho de 2026.**
+Promulgado em 24 de julho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 27 de julho de 2026.**
+Referendado em 27 de julho de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -559,11 +677,11 @@ Para efeitos do presente decreto-lei são adotadas as definições pertinentes c
 
 1 - Compete à Direção-Geral de Alimentação e Veterinária (DGAV), na qualidade de autoridade fitossanitária nacional, a aplicação e o controlo do disposto no [Regulamento (UE) n.º 2016/2031](https://data.europa.eu/eli/reg/2016/2031/oj?locale=pt), e legislação complementar, bem como no [Regulamento (UE) n.º 2017/625](https://data.europa.eu/eli/reg/2017/625/oj?locale=pt), e legislação complementar, no domínio relativo às medidas de proteção contra as pragas dos vegetais, e em articulação com o Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), caso se trate de matéria florestal.
 
-2 - Compete, ainda, à DGAV definir e divulgar, no âmbito dos Regulamentos (UE) n.<sup>os</sup>[2016/2031](https://data.europa.eu/eli/reg/2016/2031/oj?locale=pt) e [2017/625](https://data.europa.eu/eli/reg/2017/625/oj?locale=pt), e sua regulamentação de execução, o estabelecimento de áreas demarcadas, a aplicação das medidas fitossanitárias transitórias, derrogações ou procedimentos e o estabelecimento dos respetivos requisitos e prazos.
+2 - Compete, ainda, à DGAV definir e divulgar, no âmbito dos Regulamentos (UE) n.os[2016/2031](https://data.europa.eu/eli/reg/2016/2031/oj?locale=pt) e [2017/625](https://data.europa.eu/eli/reg/2017/625/oj?locale=pt), e sua regulamentação de execução, o estabelecimento de áreas demarcadas, a aplicação das medidas fitossanitárias transitórias, derrogações ou procedimentos e o estabelecimento dos respetivos requisitos e prazos.
 
 3 - As áreas demarcadas e a aplicação das medidas referidas no número anterior são determinadas por despacho do diretor-geral de Alimentação e Veterinária publicado no sítio na Internet da DGAV, sem prejuízo da publicação de manuais ou outros documentos orientadores, necessários à sua aplicabilidade, através de informação divulgada em permanência no mesmo sítio na Internet, ou da utilização de outras formas de comunicação aos interessados e ou ao público em geral.
 
-4 - A DGAV articula com o ICNF, I. P., a aplicação dos n.<sup>os</sup>2 e 3 quando estejam em apreço unicamente questões fitossanitárias florestais.
+4 - A DGAV articula com o ICNF, I. P., a aplicação dos n.os2 e 3 quando estejam em apreço unicamente questões fitossanitárias florestais.
 
 5 - Sem prejuízo das competências atribuídas por lei à DGAV, nas Regiões Autónomas, a aplicação e o controlo da matéria regulada pelo presente decreto-lei e na correspondente legislação europeia é exercida nos termos do disposto no artigo 30.º
 
@@ -625,7 +743,7 @@ Para efeitos do presente decreto-lei são adotadas as definições pertinentes c
 
 4 - Quando, por motivo de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, a transmissão da informação em causa pode ser efetuada por qualquer outro meio previsto na lei.
 
-5 - A obrigação de proceder à atualização dos dados por parte do operador profissional, prevista no n.º 5 do artigo 66.º do [Regulamento (UE) n.º 2016/2031](https://data.europa.eu/eli/reg/2016/2031/oj?locale=pt), deve ser feita nos termos dos n.<sup>os</sup>2 e 3.
+5 - A obrigação de proceder à atualização dos dados por parte do operador profissional, prevista no n.º 5 do artigo 66.º do [Regulamento (UE) n.º 2016/2031](https://data.europa.eu/eli/reg/2016/2031/oj?locale=pt), deve ser feita nos termos dos n.os2 e 3.
 
 6 - Sempre que, no âmbito do pedido de registo oficial, o operador declare a intenção de proceder à emissão de passaportes fitossanitários, à colocação da marca no material de embalagem de madeira ou à emissão de qualquer outra forma de atestação, nos termos da alínea c) do n.º 2 do artigo 66.º do [Regulamento (UE) n.º 2016/2031](https://data.europa.eu/eli/reg/2016/2031/oj?locale=pt), a entidade recetora do pedido de registo, a DGAV, o ICNF, I. P., ou a região autónoma consoante o tipo e local de atividade, deve, no prazo de 30 dias contados da receção do pedido, notificar o interessado para o agendamento de uma vistoria prévia ao local de atividade, a realizar até 15 dias após a data da notificação.
 
@@ -647,7 +765,7 @@ Para efeitos do presente decreto-lei são adotadas as definições pertinentes c
 
 5 - Os operadores profissionais adotam as medidas fitossanitárias necessárias para a erradicação ou confinamento das pragas referidas no número anterior, conforme previsto nos artigos 17.º e 28.º, ou as medidas fitossanitárias adotadas ao abrigo do n.º 1 do artigo 29.º ou do n.º 1 do artigo 30.º, ou do n.º 1 do artigo 33.º do [Regulamento (UE) n.º 2016/2031](https://data.europa.eu/eli/reg/2016/2031/oj?locale=pt).
 
-6 - Os operadores profissionais adotam as medidas fitossanitárias necessárias para eliminar o risco de dispersão das pragas referidas nos n.<sup>os</sup>4 e 5, enquanto a suspeita da sua presença numa parte do território nacional onde não é conhecida não estiver oficialmente confirmada, conforme previsto no artigo 10.º do [Regulamento (UE) n.º 2016/2031](https://data.europa.eu/eli/reg/2016/2031/oj?locale=pt).
+6 - Os operadores profissionais adotam as medidas fitossanitárias necessárias para eliminar o risco de dispersão das pragas referidas nos n.os4 e 5, enquanto a suspeita da sua presença numa parte do território nacional onde não é conhecida não estiver oficialmente confirmada, conforme previsto no artigo 10.º do [Regulamento (UE) n.º 2016/2031](https://data.europa.eu/eli/reg/2016/2031/oj?locale=pt).
 
 7 - As medidas previstas no número anterior são notificadas aos operadores profissionais pela autoridade competente.
 
@@ -823,7 +941,7 @@ z) A não inscrição obrigatória no registo oficial pelos operadores profissio
 
 aa) A não apresentação anual da atualização das alterações aos elementos de registo constantes do n.º 2 do artigo 66.º do [Regulamento (UE) n.º 2016/2031](https://data.europa.eu/eli/reg/2016/2031/oj?locale=pt) nos prazos estabelecidos, em violação do n.º 5 do artigo 66.º do mesmo regulamento;
 
-bb) A não conservação pelos operadores profissionais dos registos mencionados nos n.<sup>os</sup>1, 2 e 3 do artigo 69.º, no n.º 5 do artigo 93.º e no n.º 3 do artigo 95.º do [Regulamento (UE) n.º 2016/2031](https://data.europa.eu/eli/reg/2016/2031/oj?locale=pt), por um prazo de, pelo menos, três anos, em violação do n.º 4 do artigo 69.º e dos n.<sup>os</sup>3 e 5 dos artigos 93.º e 95.º do mesmo regulamento;
+bb) A não conservação pelos operadores profissionais dos registos mencionados nos n.os1, 2 e 3 do artigo 69.º, no n.º 5 do artigo 93.º e no n.º 3 do artigo 95.º do [Regulamento (UE) n.º 2016/2031](https://data.europa.eu/eli/reg/2016/2031/oj?locale=pt), por um prazo de, pelo menos, três anos, em violação do n.º 4 do artigo 69.º e dos n.os3 e 5 dos artigos 93.º e 95.º do mesmo regulamento;
 
 cc) A inexistência de um sistema ou de procedimento de rastreabilidade pelos operadores profissionais, em violação do n.º 1 do artigo 70.º do [Regulamento (UE) n.º 2016/2031](https://data.europa.eu/eli/reg/2016/2031/oj?locale=pt);
 
@@ -847,7 +965,7 @@ ll) A emissão de passaporte fitossanitário para vegetais, produtos vegetais ou
 
 mm) A não conservação, pelo operador profissional autorizado a emitir passaportes fitossanitários, dos registos da identificação precisa e da monitorização dos pontos críticos do seu processo de produção, bem como, dos pontos críticos relacionados com a circulação dos vegetais, produtos vegetais e outros objetos, para o cumprimento dos requisitos a que se refere o n.º 1 do artigo 90.º do [Regulamento (UE) n.º 2016/2031](https://data.europa.eu/eli/reg/2016/2031/oj?locale=pt);
 
-nn) A não invalidação do passaporte fitossanitário pelo operador profissional ou a não conservação do passaporte invalidado ou do seu conteúdo por, pelo menos, três anos, em violação dos n.<sup>os</sup>1 e 3 do artigo 95.º do [Regulamento (UE) n.º 2016/2031](https://data.europa.eu/eli/reg/2016/2031/oj?locale=pt);
+nn) A não invalidação do passaporte fitossanitário pelo operador profissional ou a não conservação do passaporte invalidado ou do seu conteúdo por, pelo menos, três anos, em violação dos n.os1 e 3 do artigo 95.º do [Regulamento (UE) n.º 2016/2031](https://data.europa.eu/eli/reg/2016/2031/oj?locale=pt);
 
 oo) A aplicação da marca em material de embalagem de madeira, novo ou reparado, madeira ou outros objetos, por um operador profissional autorizado nos termos do artigo 98.º do [Regulamento (UE) n.º 2016/2031](https://data.europa.eu/eli/reg/2016/2031/oj?locale=pt), sem cumprimento dos requisitos de marcação enunciados no anexo 2 da Norma Internacional para as Medidas Fitossanitárias n.º 15 (NIMF 15), ou sem cumprimento dos requisitos de tratamento nos termos do anexo 1 da NIMF 15, em violação do n.º 1 do artigo 96.º ou do n.º 1 do artigo 97.º do mesmo regulamento;
 
@@ -879,13 +997,13 @@ bbb) [Revogada.]
 
 ccc) [Revogada.]
 
-ddd) O incumprimento pelos responsáveis pelos locais, estabelecimentos, instalações, maquinarias, embalagens ou meios de transporte onde se exerçam atividades a inspecionar ou tenham lugar quaisquer atos a executar no âmbito de ações de controlo oficial, da obrigação de facultar a entrada e a permanência às autoridades de inspeção, fiscalização ou vigilância, bem como às que tenham como incumbência a execução de atos de cumprimento de normas previstas no presente decreto-lei, desde que se encontrem no exercício das suas funções, em violação dos n.<sup>os</sup>1 e 2 do artigo 20.º do presente decreto-lei.
+ddd) O incumprimento pelos responsáveis pelos locais, estabelecimentos, instalações, maquinarias, embalagens ou meios de transporte onde se exerçam atividades a inspecionar ou tenham lugar quaisquer atos a executar no âmbito de ações de controlo oficial, da obrigação de facultar a entrada e a permanência às autoridades de inspeção, fiscalização ou vigilância, bem como às que tenham como incumbência a execução de atos de cumprimento de normas previstas no presente decreto-lei, desde que se encontrem no exercício das suas funções, em violação dos n.os1 e 2 do artigo 20.º do presente decreto-lei.
 
 2 - Constitui contraordenação económica muito grave, punível nos termos do RJCE:
 
 a) A introdução, circulação, manutenção, multiplicação ou libertação, no território nacional, de pragas de quarentena da União e de pragas de quarentena de zonas protegidas nestas zonas, em violação, respetivamente, do n.º 1 do artigo 5.º e do n.º 2 do artigo 32.º do [Regulamento (UE) n.º 2016/2031](https://data.europa.eu/eli/reg/2016/2031/oj?locale=pt);
 
-b) A não tomada imediata, pelo operador profissional, de medidas fitossanitárias necessárias para evitar a dispersão da praga, em violação do artigo 10.º, do n.º 4 do artigo 14.º, do n.º 1 do artigo 33.º e do n.º 2 do artigo 62.º do [Regulamento (UE) n.º 2016/2031](https://data.europa.eu/eli/reg/2016/2031/oj?locale=pt), e dos n.<sup>os</sup>4 e 6 do artigo 8.º do presente decreto-lei;
+b) A não tomada imediata, pelo operador profissional, de medidas fitossanitárias necessárias para evitar a dispersão da praga, em violação do artigo 10.º, do n.º 4 do artigo 14.º, do n.º 1 do artigo 33.º e do n.º 2 do artigo 62.º do [Regulamento (UE) n.º 2016/2031](https://data.europa.eu/eli/reg/2016/2031/oj?locale=pt), e dos n.os4 e 6 do artigo 8.º do presente decreto-lei;
 
 c) A não tomada, pelo operador profissional, de medidas fitossanitárias notificadas para a eliminação da praga, em violação do n.º 5 do artigo 14.º, do n.º 1 do artigo 33.º e do n.º 2 do artigo 62.º do [Regulamento (UE) n.º 2016/2031](https://data.europa.eu/eli/reg/2016/2031/oj?locale=pt), e do n.º 4 do artigo 8.º do presente decreto-lei;
 
@@ -1023,7 +1141,7 @@ O produto das coimas aplicadas pela prática das contraordenações económicas 
 
 a) Às matérias abrangidas pela alínea a) do n.º 1 do artigo 53.º do [Regulamento (UE) n.º 2017/625](https://data.europa.eu/eli/reg/2017/625/oj?locale=pt), até 13 de dezembro de 2020;
 
-b) Às matérias abrangidas pelos n.<sup>os</sup>1 e 3 do artigo 54.º do [Regulamento (UE) n.º 2017/625](https://data.europa.eu/eli/reg/2017/625/oj?locale=pt), até 13 de dezembro de 2022.
+b) Às matérias abrangidas pelos n.os1 e 3 do artigo 54.º do [Regulamento (UE) n.º 2017/625](https://data.europa.eu/eli/reg/2017/625/oj?locale=pt), até 13 de dezembro de 2022.
 
 2 - Até à publicação da portaria a que se refere o n.º 1 do artigo 26.º do presente decreto-lei, mantêm-se transitoriamente aplicáveis, com as necessárias adaptações, as taxas previstas no artigo 25.º do [Decreto-Lei n.º 154/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2005-141854), de 6 de setembro, na sua redação atual.
 
@@ -1086,3 +1204,5 @@ d) A [Portaria n.º 47/95](https://diariodarepublica.pt/dr/detalhe/portaria/47-1
 ###### Artigo 33.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+119949216

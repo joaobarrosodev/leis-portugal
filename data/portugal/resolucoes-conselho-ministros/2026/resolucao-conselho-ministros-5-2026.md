@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/5/2026/01/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/5-2026-1011550850
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-16T00:00:00Z'
+  retrieved_at: '2026-10-22T18:29:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6854e442d34cd1f96632dcd02cc727a7c38404d3c1159f947504d832d5b9c3cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bdd023208357708aeee86ee5d323ab18804a9947d7315cfcd3e1b7bef9b1607c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:29:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estrada
 - Conservação de Estradas
+- Estrada
+- Infraestruturas de Portugal
 - Obras Públicas
 - Plano Rodoviario
 - Tráfego Rodoviário
-- Infraestruturas de Portugal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/380/2007/11/13/p/dre
@@ -85,16 +85,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/69/2025/03/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/69/2025/03/20/p/dre
+- type: cites
+  target: pt:dre:629160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67085601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:911693279:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:29:12Z'
   warnings: []
   errors: []
 ---
@@ -132,3 +144,5 @@ d) Continuação do traçado da A13/IC3 entre Coimbra (Ceira) e o IP3/ IC2 (Sous
 4 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 17 de dezembro de 2025. - O Primeiro-Ministro, Luís Montenegro.
+
+119947289

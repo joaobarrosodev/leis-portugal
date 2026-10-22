@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/88/2026/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2026-1088732648
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-23T00:00:00Z'
+  retrieved_at: '2026-10-22T18:39:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 410345ca80b81023b8687b36a76c6ea29eb7338d1a776c21b1baa385a1b3afb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93fc5c5eb2cf8515167ca69d905f3071a2283aeec4e301096aadca9375c0e3a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:39:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa do Ambiente
 - Aproximação das Legislações
-- Gestão de Resíduos
+- Chumbo
 - Equipamento Eléctrico
 - Equipamento Eletrónico
-- Saúde Pública
-- Chumbo
+- Gestão de Resíduos
 - Proteção do Ambiente
+- Saúde Pública
 - Substância Perigosa
-- Agência Portuguesa do Ambiente
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:79/2013
+  label: Altera, a partir de 24 de abril de 2026, com efeitos a 1 de julho de 2026, o anexo i do Decreto-Lei n.º 79/2013,
+    de 11 de junho, Diário da República n.º 111/2013, Série I
+  source: null
+  date: '2013-06-11'
 - type: cites
   target: celex:32011L0065
   label: null
@@ -89,6 +95,10 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/79/2013/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/79/2013/06/11/p/dre
+- type: cites
+  target: pt:dre:496704:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32011L0065
   label: null
@@ -100,13 +110,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:39:09Z'
   warnings: []
   errors: []
 ---
@@ -141,21 +151,21 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de março de 2026. - Luís Montenegro - Ana Isabel Marques Xavier - João Manuel do Amaral Esteves.
 
-**Promulgado em 13 de abril de 2026.**
+Promulgado em 13 de abril de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 14 de abril de 2026.**
+Referendado em 14 de abril de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
 ## ANEXO I — [...]
 
-| [...] | [...] | [...] |
+| [...] | [...] |  |
 | --- | --- | --- |
 | 1 | [...] | [...] |
 | 1(a) | [...] | [...] |
@@ -217,8 +227,12 @@ Visto e aprovado em Conselho de Ministros de 12 de março de 2026. - Luís Monte
 
 (*) A isenção não abrange os equipamentos elétricos e eletrónicos destinados ao público em geral quando esses equipamentos, ou parte dos mesmos, possam, em condições normais ou previsíveis de utilização, ser colocados na boca por crianças. No entanto, a isenção é aplicável sempre que se possa demonstrar que:
 
-A taxa de libertação de chumbo desses equipamentos elétricos e eletrónicos ou de qualquer parte acessível, revestida ou não, não excede 0,05 μg/cm<sup>2</sup> por hora (equivalente a 0,05 μg/g/h);
+A taxa de libertação de chumbo desses equipamentos elétricos e eletrónicos ou de qualquer parte acessível, revestida ou não, não excede 0,05 μg/cm2 por hora (equivalente a 0,05 μg/g/h);
 
 No caso dos artigos revestidos, o revestimento é suficiente para garantir que esta taxa de libertação não é excedida durante um período de, pelo menos, dois anos, em condições normais ou razoavelmente previsíveis de utilização dos equipamentos elétricos e eletrónicos.
 
 Para efeitos da presente nota de rodapé, considera-se que um equipamento elétrico e eletrónico, ou uma parte acessível do mesmo, pode ser colocado na boca por crianças se uma das suas dimensões for inferior a 5 cm ou tiver uma parte destacável ou saliente desse tamanho.
+
+119948310
+
+.Tbl1 { border-collapse:collapse; border-width:1px; border-color:rgb(0,0,0); } .Tbl2 { height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:18px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:top; } .Tbl9 { min-height:28px; } .Tbl10 { min-height:37px; } .Tbl11 { min-height:62px; } .Tbl12 { min-height:47px; }

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/157-a/2026/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/157-a-2026-1153918028
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:48:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70d237f452742e56dc83db879f40a4ed6837a8d1bd6e48993088d1a82dd2ce80
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f37f026a7a540867c032fd7ed08eb839fb83a4c47daca2cb74a221482df59c9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:48:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Marinha Grande
 - Ordenamento do Território
 - Orla Costeira
 - Ovar
-- Proteção do Ambiente
 - Plano de Ordenamento da Orla Costeira
 - Política de Solos
 - Programa
-- Marinha Grande
+- Proteção do Ambiente
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:112/2017
+  label: Altera, a partir de 1 de agosto de 2026, o anexo i e o modelo territorial do anexo ii da Resolução do Conselho de
+    Ministros n.º 112/2017, de 10 de agosto, Diário da República n.º 154/2017, Série I
+  source: null
+  date: '2017-08-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/159/2012/07/24/p/dre
   label: null
@@ -91,16 +97,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/112/2017/08/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/112/2017/08/10/p/dre
+- type: cites
+  target: pt:dre:107987275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:860274599:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:48:43Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +143,7 @@ Para a prossecução destes objetivos, o POC-OMG procedeu à delimitação e cla
 
 Decorridos sete anos desde a aprovação do POC-OMG, verificou-se a necessidade de adequar a delimitação e a classificação das praias marítimas à situação existente e à procura para uso balnear e atividades complementares, bem como de proceder à correção de erros e incongruências detetados pelas diferentes entidades competentes, no âmbito da execução do programa, nas normas que contêm os princípios e os critérios para o uso e gestão das praias com aptidão balnear e zonas envolventes.
 
-Neste contexto, o [Despacho n.º 4034/2024](https://diariodarepublica.pt/dr/detalhe/despacho/4034-2024-860274599), publicado no Diário da República, 2.ª série, n.º 74, de 12 de abril, determinou a promoção da alteração ao POC-OMG, cometida à APA, I. P., cuja elaboração técnica foi acompanhada por uma comissão consultiva, que congregou, nos termos do n.º 3 daquele despacho, um conjunto alargado de entidades representativas dos interesses em presença. Nos termos do n.º 6 do referido despacho, e atendendo ao disposto no artigo 4.º do [Decreto-Lei n.º 232/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-2007-639155), de 15 de junho, em articulação com os n.<sup>os</sup> 1 e 2 do artigo 120.º do Regime Jurídico dos Instrumentos de Gestão Territorial, aprovado pelo [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio (RJIGT), a alteração ao POC-OMG não foi sujeita a avaliação ambiental. Na sequência da emissão de parecer final da comissão consultiva e de reuniões de concertação com vista a ultrapassar objeções levantadas, a proposta de alteração ao POC-OMG foi revista e submetida, nos termos do artigo 50.º do RJIGT, a discussão pública, que decorreu entre 19 de março e 2 de maio de 2025.
+Neste contexto, o [Despacho n.º 4034/2024](https://diariodarepublica.pt/dr/detalhe/despacho/4034-2024-860274599), publicado no Diário da República, 2.ª série, n.º 74, de 12 de abril, determinou a promoção da alteração ao POC-OMG, cometida à APA, I. P., cuja elaboração técnica foi acompanhada por uma comissão consultiva, que congregou, nos termos do n.º 3 daquele despacho, um conjunto alargado de entidades representativas dos interesses em presença. Nos termos do n.º 6 do referido despacho, e atendendo ao disposto no artigo 4.º do [Decreto-Lei n.º 232/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-2007-639155), de 15 de junho, em articulação com os n.os 1 e 2 do artigo 120.º do Regime Jurídico dos Instrumentos de Gestão Territorial, aprovado pelo [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio (RJIGT), a alteração ao POC-OMG não foi sujeita a avaliação ambiental. Na sequência da emissão de parecer final da comissão consultiva e de reuniões de concertação com vista a ultrapassar objeções levantadas, a proposta de alteração ao POC-OMG foi revista e submetida, nos termos do artigo 50.º do RJIGT, a discussão pública, que decorreu entre 19 de março e 2 de maio de 2025.
 
 Deste processo resultaram, por um lado, a introdução de alterações pontuais às diretivas do POC-OMG, e, por outro, tal como refletido no modelo territorial ora atualizado, a criação e reclassificação das seguintes praias: Velha dos Pescadores de Esmoriz, Cortegaça/Parque de Campismo, Santa Marinha e Furadouro Sul, no município de Ovar; Biarritz Ria, no município de Ílhavo; Barrinha de Mira, no município de Mira; Murtinheira, no município de Figueira da Foz; e Água de Madeiros, no município de Marinha Grande.
 
@@ -135,7 +161,7 @@ Nos termos do n.º 1 do artigo 51.º, do n.º 1 do artigo 116.º e do n.º 1 do 
 
 3 - Determinar que as alterações previstas nos números anteriores não implicam a atualização dos planos territoriais preexistentes, incidindo exclusivamente sobre as normas de gestão do POC-OMG e não condicionando a ocupação, o uso nem a transformação do solo no respetivo âmbito de incidência territorial.
 
-4 - Estabelecer que os elementos referidos nos n.<sup>os</sup>1 e 2 encontram-se disponíveis para consulta no Sistema Nacional de Informação Territorial e no sítio na Internet da Agência Portuguesa do Ambiente, I. P.
+4 - Estabelecer que os elementos referidos nos n.os1 e 2 encontram-se disponíveis para consulta no Sistema Nacional de Informação Territorial e no sítio na Internet da Agência Portuguesa do Ambiente, I. P.
 
 5 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
@@ -205,12 +231,12 @@ Quadro 1
 
 Critérios e parâmetros para o dimensionamento dos apoios de praia
 
-| Tipologia de praia | Intensidade | Acessibilidade | Parâmetros para a definição da tipologia e número de apoios |
+| Tipologia de praia | Critérios para a definição da capacidade de carga | Parâmetros para a definição da tipologia e número de apoios |  |
 | --- | --- | --- | --- |
-| Tipologia de praia | Critérios para a definição da capacidade de carga | Critérios para a definição da capacidade de carga | Parâmetros para a definição da tipologia e número de apoios |
-| [...] | A capacidade de carga da praia (C) é dada pela seguinte fórmula:C = área útil balnear passível de ser concessionada/7,5 m<sup>2</sup> + área útil balnear não concessionada/15 m<sup>2</sup> | [...] | [...] |
-| [...] | A capacidade de carga da praia (C) é dada pela seguinte fórmula:C = área útil balnear passível de ser concessionada/15 m<sup>2</sup> + área útil balnear não concessionada/25 m<sup>2</sup> | [...]. |  |
-| [...] | A capacidade de carga da praia (C) é dada pela seguinte fórmula:C = área útil balnear passível de ser concessionada/15 m<sup>2</sup> + área útil balnear não concessionada/25 m<sup>2</sup> | [...] |  |
+| Intensidade | Acessibilidade |  |  |
+| [...] | A capacidade de carga da praia (C) é dada pela seguinte fórmula:C = área útil balnear passível de ser concessionada/7,5 m2 + área útil balnear não concessionada/15 m2 | [...] | [...] |
+| [...] | A capacidade de carga da praia (C) é dada pela seguinte fórmula:C = área útil balnear passível de ser concessionada/15 m2 + área útil balnear não concessionada/25 m2 | [...]. |  |
+| [...] | A capacidade de carga da praia (C) é dada pela seguinte fórmula:C = área útil balnear passível de ser concessionada/15 m2 + área útil balnear não concessionada/25 m2 | [...] |  |
 
 [...]
 
@@ -240,23 +266,28 @@ Modelo Territorial
 
 (a que se refere o n.º 1)
 
-![](https://files.diariodarepublica.pt/images/1153918028/1153917840.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1153918028/1153917840.png) |
+| --- |
 
 [POC_MT_F1]
 
-![](https://files.diariodarepublica.pt/images/1153918028/1153917841.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1153918028/1153917841.png) |
+| --- |
 
 [POC_MT_F2]
 
-![](https://files.diariodarepublica.pt/images/1153918028/1153917842.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1153918028/1153917842.png) |
+| --- |
 
 [POC_MT_F3]
 
-![](https://files.diariodarepublica.pt/images/1153918028/1153917843.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1153918028/1153917843.png) |
+| --- |
 
 [POC_MT_F4]
 
-![](https://files.diariodarepublica.pt/images/1153918028/1153917844.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1153918028/1153917844.png) |
+| --- |
 
 [POC_MT_F5]
 
@@ -269,3 +300,7 @@ Modelo Territorial
 86853 - [https://ssaigt.dgterritorio.pt/i/Pec_Graf_86853_POC_MT_F4.jpg](https://ssaigt.dgterritorio.pt/i/Pec_Graf_86853_POC_MT_F4.jpg)
 
 86853 - [https://ssaigt.dgterritorio.pt/i/Pec_Graf_86853_POC_MT_F5.jpg](https://ssaigt.dgterritorio.pt/i/Pec_Graf_86853_POC_MT_F5.jpg)
+
+119949259
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { height:17px; } .Tbl4 { text-align:center; } .Tbl5 { height:26px; } .Tbl6 { min-height:62px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:top; }

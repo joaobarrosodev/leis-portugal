@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/04602/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/15-a/2024/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/15-a-2024-854167132
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-05T00:00:00Z'
+  retrieved_at: '2026-10-22T19:14:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2172eaa77cc6aee17de8c906ff108453cca4feec0adb31119715f03d6a3e6c07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea2538244013ed1e2f24a5fc1d301170675c336f25d34d089ed6bb01342d6b31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:14:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa do Ambiente
 - Comissão Técnica de Acompanhamento
 - Fiscalização
 - Instituto da Conservação da Natureza e das Florestas
-- Proteção do Ambiente
-- Projeto
-- Taxa
 - Plataforma Eletrónica
-- Agência Portuguesa do Ambiente
+- Projeto
+- Proteção do Ambiente
+- Taxa
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/4/2024/01/05/p/dre
@@ -87,16 +87,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836117866:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:4/2024
+  label: Retifica as alíneas a) e r) do artigo 4.º, o n.º 5 do artigo 16.º, o n.º 3 do artigo 18.º, o n.º 3 do artigo 20.º,
+    o n.º 10 do artigo 21.º e o n.º 3 do artigo 22.º do Decreto-Lei n.º 4/2024, de 5 de janeiro, Diário da República n.º 4/2024,
+    Série I
+  source: null
+  date: '2024-01-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:14:55Z'
   warnings: []
   errors: []
 ---
@@ -115,11 +138,11 @@ deve ler-se:
 
 2 - Na alínea r) do artigo 4.º, onde se lê:
 
-"r) ‘Sequestro de carbono’, a remoção de CO<sub>2</sub> da atmosfera e o seu armazenamento duradouro biológico, geológico e tecnológico;"
+"r) ‘Sequestro de carbono’, a remoção de CO2 da atmosfera e o seu armazenamento duradouro biológico, geológico e tecnológico;"
 
 deve ler-se:
 
-"r) ‘Sequestro de carbono’, a remoção de CO<sub>2</sub> da atmosfera e o seu armazenamento duradouro biológico, geológico ou tecnológico;"
+"r) ‘Sequestro de carbono’, a remoção de CO2 da atmosfera e o seu armazenamento duradouro biológico, geológico ou tecnológico;"
 
 3 - No n.º 5 do artigo 16.º, onde se lê:
 
@@ -155,10 +178,12 @@ deve ler-se:
 
 7 - No n.º 3 do artigo 22.º, onde se lê:
 
-"3 - A bolsa de garantia é constituída por 20 % dos CCF e CCV emitidos pelos projetos de sequestro de carbono que contribuem para a bolsa, nos termos do número anterior, com exceção dos projetos previstos no n.º 2 do artigo 8.º desenvolvidos em áreas prioritárias, previstas nos n.<sup>os</sup>2 e 3 do artigo 8.º, que revertem 10 %."
+"3 - A bolsa de garantia é constituída por 20 % dos CCF e CCV emitidos pelos projetos de sequestro de carbono que contribuem para a bolsa, nos termos do número anterior, com exceção dos projetos previstos no n.º 2 do artigo 8.º desenvolvidos em áreas prioritárias, previstas nos n.os2 e 3 do artigo 8.º, que revertem 10 %."
 
 deve ler-se:
 
-"3 - A bolsa de garantia é constituída por 20 % dos CCF e CCV emitidos pelos projetos de sequestro de carbono que contribuem para a bolsa, nos termos do número anterior, com exceção dos projetos previstos nos n.<sup>os</sup>2 e 3 do artigo 7.º desenvolvidos em áreas prioritárias, que revertem 10 %."
+"3 - A bolsa de garantia é constituída por 20 % dos CCF e CCV emitidos pelos projetos de sequestro de carbono que contribuem para a bolsa, nos termos do número anterior, com exceção dos projetos previstos nos n.os2 e 3 do artigo 7.º desenvolvidos em áreas prioritárias, que revertem 10 %."
 
 Secretaria-Geral, 5 de março de 2024. - A Secretária-Geral Adjunta, Fátima Costa Ferreira.
+
+117437335

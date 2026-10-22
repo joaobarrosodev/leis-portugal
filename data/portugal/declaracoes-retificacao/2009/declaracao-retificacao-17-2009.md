@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/17/2009/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-03T00:00:00Z'
+  retrieved_at: '2026-10-22T19:11:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8feb14ae001035ea1022cf9acb331ac358115f5ffe5683ec2b37004135236030
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 693802ce59d8d436d158a765d0ffec907b99e735975aa11943c7045bb932f362
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:11:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,41 +69,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Seguradora
 - Alienação de Participação Social
-- Contrato de Seguro
 - Aproximação das Legislações
-- Crime
-- Garantia
-- Sociedade Anónima
+- Atividade Seguradora
 - Capital Social
 - CE Países
-- Co-seguro
-- Multa
+- Companhia de Seguros
 - Companhia Portuguesa de Resseguros
 - Comunidade Europeia
-- Contra-ordenação
 - Concorrência
+- Contra-ordenação
+- Contrato de Seguro
+- Co-seguro
+- Crime
+- Direito de Estabelecimento
+- Direito Penal
+- Empresa Estrangeira
 - Empresa Europeia
 - Fundo de Pensões
 - Fundos Autónomos
-- Seguro
+- Garantia
 - Ilícito de MERA Ordenação Social
 - Instituto de Seguros de Portugal
-- Direito de Estabelecimento
 - Livre Prestação de Serviços
 - Mediação de Seguros
+- Multa
 - Mútua de Seguros
-- Zona Tributária Privilegiada
 - Participação Qualificada
-- Sanção Penal
 - Prémio de Seguro
 - Processo de Ilícito de MERA Ordenação Social
-- Recuperação de Empresas
+- Profissional de Seguros
 - Provisão Técnica
-- Direito Penal
 - RAMO não VIDA
 - RAMO VIDA
+- Recuperação de Empresas
 - Regime Fiscal
 - Regime Jurídico
 - Responsabilidade Civil
@@ -112,12 +111,13 @@ subjects:
 - Responsabilidade pelo Risco
 - Resseguro
 - Sanção
+- Sanção Penal
 - Segredo Profissional
-- Companhia de Seguros
+- Seguro
 - Seguro de VIDA
+- Sociedade Anónima
 - Sucursal
-- Empresa Estrangeira
-- Profissional de Seguros
+- Zona Tributária Privilegiada
 relationships:
 - type: cites
   target: celex:32005L0068
@@ -143,16 +143,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/94-b/1998/04/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/94-b/1998/04/17/p/dre
+- type: cites
+  target: pt:dre:396962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539387:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:2/2009
+  label: "Rectifica o Decreto-Lei n.º 2/2009, de 5 de Janeiro, DR.IS [2], que altera o Decreto-Lei nº 94-B/98, de 17 de Abril,\
+    \ bem como a republicação do mesmo \0 \0"
+  source: null
+  date: '2009-01-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:11:07Z'
   warnings: []
   errors: []
 ---

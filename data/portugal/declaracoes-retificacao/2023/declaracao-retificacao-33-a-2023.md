@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 246/2023, 3º Suplemento, Série I de 2023-12-22
   number: '246'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 70-(2) a 70-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24603/0000200013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/33-a/2023/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/33-a-2023-835674276
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-22T00:00:00Z'
+  retrieved_at: '2026-10-22T19:14:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a85f1baba82c0f87f36015f6f65d1991013c5ab48a8a3a04544462d879374065
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c7d7926866eaf8ebd90b3d05ab423bf6b92e1ca723d1cc87c301c1b5286f945
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:14:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Concurso Público Internacional
+- Contratação Pública
 - Diário da República
-- Rectificação de Entidade Emitente
-- União Europeia
 - Imprensa Nacional-Casa da Moeda
 - Jornal Oficial
 - Publicitação
-- Contratação Pública
+- Rectificação de Entidade Emitente
+- União Europeia
 relationships:
 - type: cites
   target: celex:32014L0023
@@ -109,16 +109,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/318-a/2023/10/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/318-a/2023/10/25/p/dre
+- type: cites
+  target: pt:dre:159432383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223338606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:14:35Z'
   warnings: []
   errors: []
 ---
@@ -177,13 +197,15 @@ deve ler-se:
 
 Secretaria-Geral, 22 de dezembro de 2023. - A Secretária-Geral Adjunta, Fátima Costa Ferreira.
 
-## ANEXO I — Modelo único de anúncio de abertura de procedimento
+ANEXO I
+
+Modelo único de anúncio de abertura de procedimento
 
 [a que se refere a alínea a) do n.º 1 do artigo 1.º]
 
-|  |  |  |  |  |  |  |
+| Nível | Elemento | Repetível | Tipo | Aplicação<br>Específica | Pub. Nac. (*) | Pub. Int. (**) |
 | --- | --- | --- | --- | --- | --- | --- |
-| Nível | Elemento | Repetível | Tipo | Aplicação Específica | Pub. Nac. (*) | Pub. Int. (**) |
+|  |  |  |  |  |  |  |
 | 1 | Identificação e contactos da Entidade Adjudicante | Não | - |  | - | - |
 | 1.1 | Identificador da Secção do Anúncio da Organização | Sim | Código |  | NA | Obrigatório |
 | 1.2 | Designação da Entidade Adjudicante | Não | Texto |  | Obrigatório | Obrigatório |
@@ -266,7 +288,7 @@ Secretaria-Geral, 22 de dezembro de 2023. - A Secretária-Geral Adjunta, Fátima
 | 7.1 | Está prevista a possibilidade de o(s) vencedor(es) do concurso de conceção realizar(em) o desenvolvimento de parte(s) do projeto vencedor, mediante procedimento por ajuste direto? | Não | Indicador | VII/VIII | Obrigatório | NA |
 | 7.2 | O contrato envolve aquisição conjunta (satisfação de várias entidades)? | Não | Indicador |  | Obrigatório | NA |
 | 7.2.1 | (Se Sim) A Entidade Adjudicante atua como compradora no procedimento? | Não | Indicador |  | Obrigatório | NA |
-| 7.2.1.1 | [Se Sim, replicar a entidade indicada em 1 automaticamente, e incluir as restantes na lista de aquisição conjunta] [NIPC \\| Designação da Entidade Adjudicante] (*) \\| Unidades Orgânicas \\| % ou valor | Sim | - |  | Obrigatório | NA |
+| 7.2.1.1 | [Se Sim, replicar a entidade indicada em 1 automaticamente, e incluir as restantes na lista de aquisição conjunta] [NIPC \| Designação da Entidade Adjudicante] (*) \| Unidades Orgânicas \| % ou valor | Sim | - |  | Obrigatório | NA |
 | 7.3 | O contrato é adjudicado por uma central de compras? | Não | Indicador | I/XV/III/XVI/IV/V/VI/IX | Obrigatório | NA |
 | 7.4 | Procedimento aberto a qualquer fornecedor? | Não | Indicador | XI | Obrigatório | NA |
 | 8 | Técnicas |  |  |  | - | - |
@@ -316,7 +338,7 @@ Secretaria-Geral, 22 de dezembro de 2023. - A Secretária-Geral Adjunta, Fátima
 | 13.2 | URL para Apresentação | Não | URL | # VI | Obrigatório | Obrigatório |
 | 13.3 | Admissibilidade da apresentação de propostas variantes | Não | Código | #VII/VIII/IX/X/XI | Obrigatório | Obrigatório |
 | 13.4 | Prazo para apresentação das candidaturas | Não | Data | III/XVI/IV/V/VI | Obrigatório | NA |
-| 13.5 | Prazo para a decisão de qualificação XXX dias a contar do termo do prazo para a apresentação das candidaturas | Não | Duração | III/XVI/IV/V/VI | Opcional | NA |
+| 13.5 | Prazo para a decisão de qualificação<br>XXX dias a contar do termo do prazo para a apresentação das candidaturas | Não | Duração | III/XVI/IV/V/VI | Opcional | NA |
 | 13.6 | Requisitos mínimos | Não | - | III/XVI/IV/V/VI/IX/X | Obrigatório | NA |
 | 13.6.1 | Requisitos mínimos de capacidade técnica | Não | Texto | III/XVI/IV/V/VI/IX/X | Obrigatório | NA |
 | 13.6.2 | Requisitos mínimos de capacidade financeira | Não | Texto | III/XVI/IV/V/VI/IX/X | Obrigatório | NA |
@@ -341,7 +363,7 @@ Secretaria-Geral, 22 de dezembro de 2023. - A Secretária-Geral Adjunta, Fátima
 | 13.9 | Remuneração pela participação no diálogo, ou critério do respetivo cálculo | Não | Texto | V | Obrigatório | NA |
 | 13.10 | Prazo para apresentação das propostas de investigação e desenvolvimento | Não | Data | VI | Obrigatório | NA |
 | 13.11 | Prazo para apresentação das propostas | Não | Data | #VII/VIII | Obrigatório | Obrigatório |
-| 13.12 | Prazo durante o qual os concorrentes são obrigados a manter as respetivas propostas XXX dias a contar do termo do prazo para a apresentação das propostas | Não | Duração | #VII/VIII | Obrigatório | Obrigatório |
+| 13.12 | Prazo durante o qual os concorrentes são obrigados a manter as respetivas propostas<br>XXX dias a contar do termo do prazo para a apresentação das propostas | Não | Duração | #VII/VIII | Obrigatório | Obrigatório |
 | 13.13 | Língua de Apresentação | Sim | Código | #VII/VIII | NA | Obrigatório (a) |
 | 13.14 | Apresentação de Catálogo Eletrónico | Não | Código | #VII/VIII | Opcional | Obrigatório |
 | 13.15 | Assinatura Eletrónica da Apresentação | Não | Indicador | #VII/VIII | NA | Obrigatório (a) |
@@ -517,13 +539,15 @@ XVI = Concurso limitado por prévia qualificação simplificado
 
 XVII = Intenção de celebração de contratos de empreitadas de obras públicas por parte de concessionários de obras públicas que não sejam entidades adjudicantes
 
-## ANEXO II — Modelo de anúncio de adjudicação de serviços sociais e de outros serviços específicos
+ANEXO II
+
+Modelo de anúncio de adjudicação de serviços sociais e de outros serviços específicos
 
 [a que se refere a alínea b) do n.º 1 do artigo 1.º]
 
-|  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Nível | Elemento | Repetível | Tipo | Pub. Nac. (*) | Pub. Int. (**) |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
 | 1 | Identificação e contactos da Entidade Adjudicante | Não |  | - | - |
 | 1.1 | Identificador da Secção do Anúncio da Organização | Sim | Código | NA | Obrigatório |
 | 1.2 | Designação da Entidade Adjudicante | Não | Texto | Obrigatório | Obrigatório |
@@ -580,8 +604,8 @@ XVII = Intenção de celebração de contratos de empreitadas de obras públicas
 | 6.2 | Informação do Adjudicatário | Não | URL |  |  |
 | 6.2.1 | Agrupamento de pessoas singulares ou coletivas | Não | Indicador | Obrigatório | NA |
 | 6.2.1.1 | (Se Sim) Tipo de Agrupamento | Não | Código | Obrigatório | NA |
-| 6.2.1.2 | (Se Sim) NIPC \\| Designação \\| País (para cada membro do agrupamento) | Sim | Numérico \\| Texto \\| Código | Obrigatório | NA |
-| 6.2.1.3 | (Se Não) NIPC (se aplicável), Designação e País | Não | Numérico \\| Texto \\| Código | Obrigatório | NA |
+| 6.2.1.2 | (Se Sim) NIPC \| Designação \| País (para cada membro do agrupamento) | Sim | Numérico \| Texto \| Código | Obrigatório | NA |
+| 6.2.1.3 | (Se Não) NIPC (se aplicável), Designação e País | Não | Numérico \| Texto \| Código | Obrigatório | NA |
 | 6.3 | Informação relativa à adjudicação | Não | Texto | Obrigatório | NA |
 | 6.3.1 | Data da adjudicação | Não | Data | Obrigatório | Obrigatório |
 | 6.3.2 | Valor da adjudicação XXX EUR | Não | Numérico | Obrigatório | Obrigatório |
@@ -666,13 +690,15 @@ Quando «NA» a nível internacional e Obrigatório/Opcional a nível Nacional s
 
 (a) Campos publicitados a nível internacional no TED, mas não publicitados a nível nacional.
 
-## ANEXO III — Modelo de anúncio de hasta pública de alienação de bens móveis
+ANEXO III
+
+Modelo de anúncio de hasta pública de alienação de bens móveis
 
 [a que se refere a alínea c) do n.º 1 do artigo 1.º]
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
 | Nível | Elemento | Repetível | Tipo | Pub. Nac. (*) |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
 | 1 | Identificação e contactos da Entidade Adjudicante | Não | - | - |
 | 1.1 | Designação da Entidade Adjudicante | Não | Texto | Obrigatório |
 | 1.2 | NIPC | Não | Numérico | Obrigatório |
@@ -727,7 +753,7 @@ Quando «NA» a nível internacional e Obrigatório/Opcional a nível Nacional s
 | 12 | Condições de Apresentação | Não | - | Obrigatório |
 | 12.1 | Modo e Local de apresentação das propostas | Não | Código | Obrigatório |
 | 12.2 | Prazo para apresentação das propostas | Não | Data | Obrigatório |
-| 12.3 | Prazo durante o qual os concorrentes são obrigados a manter as respetivas propostas XXX dias a contar do termo do prazo para a apresentação das propostas | Não | Duração | Obrigatório |
+| 12.3 | Prazo durante o qual os concorrentes são obrigados a manter as respetivas propostas<br>XXX dias a contar do termo do prazo para a apresentação das propostas | Não | Duração | Obrigatório |
 | 13 | Critério de seleção | Não | - | - |
 | 13.1 | Apenas o valor licitado | Não | Indicador | Obrigatório |
 | 13.1.1 | (Se Não) Fator de avaliação | Não | Código | Obrigatório |
@@ -749,3 +775,5 @@ Quando «NA» a nível internacional e Obrigatório/Opcional a nível Nacional s
 (1) Pré-preenchido de forma automática em função da Entidade Adjudicante.
 
 (2) Pré-preenchido de forma automática com base na escolha do anúncio a nível nacional.
+
+117197592

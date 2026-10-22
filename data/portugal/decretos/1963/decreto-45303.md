@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1963/10/24100/16251625.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45303-1963-687619
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-01-02T00:00:00Z'
+  retrieved_at: '2026-10-22T19:37:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae8e9e8d809441d93dce0492a28f03a2b382358194333178cc0a92b93a79e61b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9835dd74a006c1d17271b1c21d9605be1b311ad9b5eeee272f0b06c9554adca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:37:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arrendamento Urbano para Habitação
+- Avaliação de Prédios
+- Comissão de Avaliação do Inquilinato
+- Prédio Urbano
 relationships:
 - type: amended_by
   target: pt:dre:616471:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:384581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658920:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:616471:por
+  label: "Revogado pelo DR.1/86.02.01.1986.MFP, DR.IS [1] de 02.01.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/1-1986-616471
+  date: '1986-01-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:37:03Z'
   warnings: []
   errors: []
 ---
@@ -89,8 +106,8 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, o seguinte:
 
-###### Artigo único. As comissões de avaliação de que trata o artigo 5.º do [Decreto n.º 37021](https://diariodarepublica.pt/dr/detalhe/decreto/37021-1948-384581), de 21 de Agosto de 1948, com a redacção que lhe deu o artigo 1.º do [Decreto n.º 37784](https://diariodarepublica.pt/dr/detalhe/decreto/37784-1950-658920), de 14 de Março de 1950, são presididas nos concelhos que sejam sede de comarca, excepto os de Lisboa e Porto, pelo conservador do Registo Civil e, sendo este do sexo feminino, pelo conservador do Registo Predial. Na falta ou impedimento de ambos ou se ambos forem do sexo feminino, presidirá o chefe da secretaria judicial.
+Artigo único. As comissões de avaliação de que trata o artigo 5.º do [Decreto n.º 37021](https://diariodarepublica.pt/dr/detalhe/decreto/37021-1948-384581), de 21 de Agosto de 1948, com a redacção que lhe deu o artigo 1.º do [Decreto n.º 37784](https://diariodarepublica.pt/dr/detalhe/decreto/37784-1950-658920), de 14 de Março de 1950, são presididas nos concelhos que sejam sede de comarca, excepto os de Lisboa e Porto, pelo conservador do Registo Civil e, sendo este do sexo feminino, pelo conservador do Registo Predial. Na falta ou impedimento de ambos ou se ambos forem do sexo feminino, presidirá o chefe da secretaria judicial.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Outubro de 1963. - ANTÓNIO DE OLIVEIRA SALAZAR - João de Matos Antunes Varela - António Manuel Pinto Barbosa.

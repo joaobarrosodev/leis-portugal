@@ -50,18 +50,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43137-1960-514650
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-08-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:19:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23369540479e744cbdf16385de8ba53c348cb38691fb1e027ef4bc3070225e9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52408704ed516903dc64c1d9f9b41f0dddb32ce5bc1f4920c823ae2378cecfac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:19:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:384414:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:19:25Z'
   warnings: []
   errors: []
 ---
@@ -98,12 +102,12 @@ Considerando que aquela falta de pessoal docente se manifesta especialmente no e
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os candidatos a professores efectivos que tenham sido classificados com, pelo menos, 16 valores nas suas licenciaturas ou nos cursos superiores das escolas superiores de Belas-Artes são dispensados da parte especial do exame de admissão ao estágio a que se refere o n.º 3 do artigo 237.º do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948.
+Artigo 1.º Os candidatos a professores efectivos que tenham sido classificados com, pelo menos, 16 valores nas suas licenciaturas ou nos cursos superiores das escolas superiores de Belas-Artes são dispensados da parte especial do exame de admissão ao estágio a que se refere o n.º 3 do artigo 237.º do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948.
 
-###### Art. 2.º Os leitores e antigos leitores de Português enviados pelo Instituto de Alta Cultura a Universidades estrangeiras com, pelo menos, quatro anos de exercício e possuidores do grau de doutor por uma Universidade portuguesa são dispensados do estágio pedagógico referido no capítulo XV do Estatuto do Ensino Técnico Profissional, podendo requerer Exame de Estado do grupo para o qual é habilitação básica a licenciatura que possuem, nas mesmas condições fixadas para os estagiários aprovados no 2.º ano do estágio.
+Art. 2.º Os leitores e antigos leitores de Português enviados pelo Instituto de Alta Cultura a Universidades estrangeiras com, pelo menos, quatro anos de exercício e possuidores do grau de doutor por uma Universidade portuguesa são dispensados do estágio pedagógico referido no capítulo XV do Estatuto do Ensino Técnico Profissional, podendo requerer Exame de Estado do grupo para o qual é habilitação básica a licenciatura que possuem, nas mesmas condições fixadas para os estagiários aprovados no 2.º ano do estágio.
 
-###### Art. 3.º A classificação final destes candidatos será determinada pelo júri tomando como base a média das classificações de cada prova prestada e atendendo também às classificações obtidas no doutoramento e ainda ao curriculum vitae.
+Art. 3.º A classificação final destes candidatos será determinada pelo júri tomando como base a média das classificações de cada prova prestada e atendendo também às classificações obtidas no doutoramento e ainda ao curriculum vitae.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Agosto de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Francisco de Paula Leite Pinto.

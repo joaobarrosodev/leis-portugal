@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 76/1998, 3º Suplemento, Série I-A de 1998-03-31
   number: '76'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 1420-(13) a 1420-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/03/076a03/00130013.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/7-g/1998/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-g-1998-276180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:52:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c027e9398e412a468f1865c0c44a0546c79858d559a8e8f3cbfe1072d9d7174c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4568520687142882e0d650e6c8fa7acb7ac1e254c5b6a9b6f94ace56e4a27a71
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:52:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código do IRC
-- Pagamento de Contribuições
 - IRC
+- Pagamento de Contribuições
 - Taxa
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/44/1998/03/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/44/1998/03/03/p/dre
+- type: cites
+  target: pt:dre:218483:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:52:11Z'
   warnings: []
   errors: []
 ---

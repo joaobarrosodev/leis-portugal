@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/07/12800/0337303383.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/6/2017/07/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/6-2017-107631420
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-07-05T00:00:00Z'
+  retrieved_at: '2026-10-22T17:54:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b7c10d7df2644316008edad9f70edccc47a92d7d42cbaf91cd09fb2189893c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 858021f01f9ff892e338dbfb3fec6a1b54cf97c156e55e9b3377486d0d878501
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:54:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código das Expropriações
-- Reserva Ecológica Nacional
 - Expropriação
 - Indemnização
 - Infraestrutura dos Transportes
 - Interpretação do Direito
 - Jurisprudencia
 - Prédio Rústico
+- Reserva Ecológica Nacional
 - Supremo Tribunal de Justiça
 relationships:
 - type: cites
@@ -109,13 +109,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:54:05Z'
   warnings: []
   errors: []
 ---

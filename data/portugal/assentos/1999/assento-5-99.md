@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/asst/5/1999/07/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/assento/5-1999-355939
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-09-27T00:00:00Z'
+  retrieved_at: '2026-10-22T18:28:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee1211b050a5394750782b167651d9cc635157f63322b8e979e4aa60b81fa92f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2dca72ee84ddc9f8553c00c881226b1b449959deca8b5b92bfb2f8da99f2e79e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:28:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alcoolismo
-- Crime
 - Carta de Condução
 - Código da Estrada
+- Código Penal
 - Contra-ordenação
+- Crime
+- Direito Penal
 - Ilícito de MERA Ordenação Social
 - Interpretação do Direito
-- Segurança Rodoviária
-- Sanção Penal
-- Código Penal
-- Direito Penal
 - Responsabilidade Criminal
+- Sanção Penal
+- Segurança Rodoviária
 - Taxa de Alcoolemia
 relationships:
 - type: amended_by
@@ -89,16 +89,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/48/1995/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/48/1995/03/15/p/dre
+- type: cites
+  target: pt:dre:185720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608490:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:662121:por
+  label: "Rectificado, pela DECL-RECT.17/99.1999.09.27.STJ DR.IS-A [239] DE 13/OUT/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/17-1999-662121
+  date: '1999-09-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:28:14Z'
   warnings: []
   errors: []
 ---

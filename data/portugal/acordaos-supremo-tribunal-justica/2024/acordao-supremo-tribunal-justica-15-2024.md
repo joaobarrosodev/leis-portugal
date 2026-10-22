@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/24200/0003000047.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/15/2024/12/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/15-2024-900079879
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-13T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fc96ca02362fa4bf9d5b169932afa69b8ad77162d03472ec56fecfb3d5249db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29af50811c37dd9ccfb6342b4c53a8ad43ffe93e267d5a9841b8c08eda6cb259
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Processo Penal
 - Código de Processo Penal
 - Interpretação do Direito
 - Jurisprudencia
 - Prazo
-- Supremo Tribunal de Justiça
 - Prisão Preventiva
+- Processo Penal
+- Supremo Tribunal de Justiça
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/15/1993/01/22/p/dre
@@ -87,16 +87,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/59/1998/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/59/1998/08/25/p/dre
+- type: cites
+  target: pt:dre:2306266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662562:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:08Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +145,7 @@ Invoca, como acórdão fundamento, o igualmente proferido pelo Supremo Tribunal 
 
 2 - O acórdão recorrido indeferiu petição de habeas corpus, por entender que, em virtude da interposição do recurso para o Tribunal Constitucional, ao prazo do art.º 215.º, n.º 6, do Código de Processo Penal, acresciam seis meses nos termos do n.º 5 do mesmo normativo e que, em consequência, o prazo máximo da medida de obrigação de permanência na habitação não havia sido ultrapassado.
 
-3 - O acórdão fundamento deferiu petição de habeas corpus, com o entendimento que a extensão do prazo da prisão preventiva por mais seis meses, nos termos do art.º 215.º, n.º 5, do Código de Processo Penal, em razão da interposição do recurso para o Tribunal Constitucional, não se aplicava ao caso, por considerar que o alargamento de seis meses a que se refere o n.º 5 do artigo 215.º do CPP tem como referência expressa “os prazos previstos nas alíneas c) e d) do n.º 1 bem como os correspondentemente referidos nos n.<sup>os</sup>2 e 3 pelo que, quer a letra quer o espírito da lei afastam essa interpretação”.
+3 - O acórdão fundamento deferiu petição de habeas corpus, com o entendimento que a extensão do prazo da prisão preventiva por mais seis meses, nos termos do art.º 215.º, n.º 5, do Código de Processo Penal, em razão da interposição do recurso para o Tribunal Constitucional, não se aplicava ao caso, por considerar que o alargamento de seis meses a que se refere o n.º 5 do artigo 215.º do CPP tem como referência expressa “os prazos previstos nas alíneas c) e d) do n.º 1 bem como os correspondentemente referidos nos n.os2 e 3 pelo que, quer a letra quer o espírito da lei afastam essa interpretação”.
 
 4 - Recebido o recurso no Supremo Tribunal de Justiça, a conferência da 3.ª secção criminal, por acórdão de 08.11.2023, julgou verificados todos os requisitos formais e substanciais, aqui incluída a oposição de julgados, e determinou o seu prosseguimento, nos termos do artigo 441.º, n.º 1, 2.ª parte, do CPP.
 
@@ -163,11 +191,11 @@ Esse é o prazo que o legislador considerou, em abstracto, como sendo suficiente
 
 Nestes termos, o acréscimo do prazo de prisão preventiva previsto no n.º 5 do artigo 215.º do CPP mostra-se justificado, segundo a razão de ser da lei, não apenas pelo eventual protelamento do trânsito em julgado da decisão condenatória, mas também pela possível demora produzida na emissão de uma decisão em primeira instância. Ou seja, a prorrogação do prazo de prisão preventiva é legitimada pelo potencial efeito dilatório do recurso de constitucionalidade, quer porque com a interposição desse recurso se evitou que o processo chegasse ao seu termo com o trânsito em julgado da decisão condenatória, quer porque esse recurso se poderá repercutir de algum modo no julgamento da causa.
 
-É, por outro lado, irrelevante que se não encontre já pendente o recurso para o Tribunal Constitucional quando opera a dilação ao prazo máximo de prisão preventiva aplicável por força das disposições conjugadas da alínea c) do n.º 1 e dos n.<sup>os</sup>2 e 3 do artigo 215.º Justamente porque o aumento do prazo se destina a suprir o efeito negativo que a interposição do recurso poderá vir a gerar relativamente a qualquer das fases do processo, segundo o momento processual em que o recurso seja interposto, e deverá reflectir-se necessariamente no cômputo global do prazo de prisão preventiva.
+É, por outro lado, irrelevante que se não encontre já pendente o recurso para o Tribunal Constitucional quando opera a dilação ao prazo máximo de prisão preventiva aplicável por força das disposições conjugadas da alínea c) do n.º 1 e dos n.os2 e 3 do artigo 215.º Justamente porque o aumento do prazo se destina a suprir o efeito negativo que a interposição do recurso poderá vir a gerar relativamente a qualquer das fases do processo, segundo o momento processual em que o recurso seja interposto, e deverá reflectir-se necessariamente no cômputo global do prazo de prisão preventiva.
 
 Reconhecendo-se ao legislador, como se deixou vincado, uma certa margem de conformação quanto à fixação dos prazos de prisão preventiva, por efeito do disposto no artigo 28.º, n.º 4, da Constituição, não parece que o acréscimo de seis meses ao limite máximo da prisão preventiva por via da interposição de recurso para o Tribunal Constitucional, tal como prevê o n.º 5 do artigo 215.º do CPP, represente uma restrição desproporcionada ou excessiva em relação aos fins que se pretendem obter. Isso porque - como se anotou -, essa prorrogação do prazo é aplicável por uma única vez, ainda que o interessado - como é o caso - tenha interposto mais do que um recurso de constitucionalidade. E também porque se traduz num acréscimo temporal que se mostra ser ajustado às possíveis incidências processuais que poderão resultar da interposição de um recurso desse tipo.»
 
-A [Lei n.º 48/2007](https://diariodarepublica.pt/dr/detalhe/lei/48-2007-641082), de 29 de agosto, reduziu os prazos máximos da prisão preventiva e introduziu os atuais n.<sup>os</sup>6, 7 e 8.
+A [Lei n.º 48/2007](https://diariodarepublica.pt/dr/detalhe/lei/48-2007-641082), de 29 de agosto, reduziu os prazos máximos da prisão preventiva e introduziu os atuais n.os6, 7 e 8.
 
 Disse, então, o legislador que «[o]s prazos de prisão preventiva são reduzidos em termos equilibrados, para acentuar o carácter excepcional desta medida sem prejudicar os seus fins cautelares. Todavia, no caso de o arguido já ter sido condenado em duas instâncias sucessivas, o prazo máximo eleva-se para metade da pena que tiver sido fixada. Embora continue a valer o princípio da presunção de inocência, consagrado no n.º 2 do artigo 32.º da Constituição, a gravidade dos indícios que militam contra o arguido justifica aí a elevação do prazo. Para evitar que a prisão preventiva se possa perpetuar, estipula-se que os prazos previstos para essa medida não podem ser ultrapassados quando existir pluralidade de processos (artigo 215.º).» [vd. a exposição de motivos da Proposta de Lei n.º 109/X, publicada no Diário da Assembleia da República, 2.ª série-A, n.º 31, de 23 de dezembro de 2006, da qual germinou a [Lei n.º 48/2007](https://diariodarepublica.pt/dr/detalhe/lei/48-2007-641082), de 29 de agosto].
 
@@ -177,7 +205,7 @@ Com a [Lei n.º 48/2007](https://diariodarepublica.pt/dr/detalhe/lei/48-2007-641
 
 Ora, considerando a descrita evolução histórica e as diferentes razões de ser que subjazem à extensão do prazo máximo da prisão preventiva em caso de recurso para o Tribunal Constitucional [citadas no Acórdão n.º [2/2008](https://diariodarepublica.pt/dr/detalhe/acordao/2-2008-2306266) do Tribunal Constitucional] e à elevação do prazo máximo da prisão preventiva na hipótese de condenação em 1.ª instância confirmada em sede de recurso ordinário [assinaladas na exposição de motivos da Proposta de Lei n.º 109/X], ter-se-á de concluir que o legislador não quis que o acréscimo previsto no [atual] n.º 5 se aplicasse na situação contemplada do n.º 6.
 
-Repare-se que este n.º 6 abre a porta a um aumento significativo dos prazos de prisão preventiva e, nessa medida, a aceitação de uma dupla prorrogação desses prazos, para além de não estar amparada na letra da lei [tal como o anterior n.º 4, o atual n.º 5 do art.º 215.º do Código de Processo Penal apenas remete para os prazos referidos nas als. c) e d) do n.º 1 e dos correspondentemente referidos nos n.<sup>os</sup>2 e 3 do mesmo normativo], contrariaria a intenção do legislador de 2007 de proceder à sua redução «em termos equilibrados» [e de que o novo n.º 7, ao fixar um prazo máximo global para a prisão preventiva sofrida em todos os processos pendentes contra o arguido ainda que os mesmos não estejam em conexão, não deixa igualmente de constituir reflexo] e seria suscetível de afrontar o princípio geral da proporcionalidade, a que também estão sujeitos os prazos de prisão preventiva [cf. JOSÉ LOBO MOUTINHO, in Constituição Portuguesa anotada, JORGE MIRANDA e RUI MEDEIROS, Volume I, 2.ª edição revista, Universidade Católica Editora, pág. 483, anotação VII], consagrado no art.º 18.º, n.º 2, 2.ª parte, da Constituição, segundo o qual as restrições dos direitos, liberdades e garantias - entre os quais se inclui, naturalmente, o direito à liberdade [art.º 27.º, n.º 1, da Constituição] - devem limitar-se ao necessário para salvaguardar outros direitos ou interesses constitucionalmente protegidos [vd., aliás, ELISABETE FERREIRA e PAULO PINTO DE ALBUQUERQUE, Comentário do Código de Processo Penal à luz da Constituição da República e da Convenção Europeia dos Direitos do Homem, Volume I, 5.ª edição atualizada, UCP Editora, pág. 947, comentário 18].
+Repare-se que este n.º 6 abre a porta a um aumento significativo dos prazos de prisão preventiva e, nessa medida, a aceitação de uma dupla prorrogação desses prazos, para além de não estar amparada na letra da lei [tal como o anterior n.º 4, o atual n.º 5 do art.º 215.º do Código de Processo Penal apenas remete para os prazos referidos nas als. c) e d) do n.º 1 e dos correspondentemente referidos nos n.os2 e 3 do mesmo normativo], contrariaria a intenção do legislador de 2007 de proceder à sua redução «em termos equilibrados» [e de que o novo n.º 7, ao fixar um prazo máximo global para a prisão preventiva sofrida em todos os processos pendentes contra o arguido ainda que os mesmos não estejam em conexão, não deixa igualmente de constituir reflexo] e seria suscetível de afrontar o princípio geral da proporcionalidade, a que também estão sujeitos os prazos de prisão preventiva [cf. JOSÉ LOBO MOUTINHO, in Constituição Portuguesa anotada, JORGE MIRANDA e RUI MEDEIROS, Volume I, 2.ª edição revista, Universidade Católica Editora, pág. 483, anotação VII], consagrado no art.º 18.º, n.º 2, 2.ª parte, da Constituição, segundo o qual as restrições dos direitos, liberdades e garantias - entre os quais se inclui, naturalmente, o direito à liberdade [art.º 27.º, n.º 1, da Constituição] - devem limitar-se ao necessário para salvaguardar outros direitos ou interesses constitucionalmente protegidos [vd., aliás, ELISABETE FERREIRA e PAULO PINTO DE ALBUQUERQUE, Comentário do Código de Processo Penal à luz da Constituição da República e da Convenção Europeia dos Direitos do Homem, Volume I, 5.ª edição atualizada, UCP Editora, pág. 947, comentário 18].
 
 3.1 - Aqui chegados, estamos em condições de formular a seguinte conclusão em conformidade com o disposto no art.º 442.º, n.º 2, do Código de Processo Penal:
 
@@ -197,7 +225,7 @@ O acórdão fundamento foi, igualmente, proferido pelo Supremo Tribunal de Justi
 
 O recurso foi interposto pelo condenado, no dia 27.07.2023, dentro do prazo de 30 dias a contar do trânsito em julgado do acórdão recorrido, previsto no n.º 1 do artigo 438.º do CPP. O recorrente tem legitimidade, os acórdãos em conflito são ambos do Supremo Tribunal de Justiça e transitaram em julgado, não sendo admissível recurso ordinário do acórdão recorrido.
 
-Estão assim verificados os pressupostos formais do recurso, a que se referem os artigos 437.º, n.<sup>os</sup>1, 2, 4 e 5, e 438.º, n.º 1, do CPP.
+Estão assim verificados os pressupostos formais do recurso, a que se referem os artigos 437.º, n.os1, 2, 4 e 5, e 438.º, n.º 1, do CPP.
 
 Cumpre, pois, verificar a mesmidade da questão de direito e a oposição de julgados relevante.
 
@@ -249,7 +277,7 @@ Com efeito, então se cumpriram 2 anos e 3 meses. Com a elevação de seis meses
 
 Não se pode subtrair à previsão explícita do artigo 215.º, n.º 5, nas remissões que faz, nenhum elemento. Verifica-se a hipótese, logo, aplica-se a estatuição desse normativo constante. A interposição de recurso para o Tribunal Constitucional é o conector jurídico essencial.
 
-9 - Assim sendo, o prazo máximo de prisão preventiva do peticionante não atingiu o seu limite no referido dia 21 de março de 2023, nem assim se mantém em violação do disposto nas disposições conjugadas dos n.<sup>os</sup>1, alínea d), 2 e 6 do CPP. Pelo contrário, aplica-se-lhe a elevação do período em causa por mais seis meses. Tal é motivo suficiente para o indeferimento da requerida providência de Habeas Corpus, nos termos do artigo 222.º, n.º 2, alínea c) do CPP, atenta a previsão dos artigos 215.º, n.<sup>os</sup>5 e 6 do CPP.”
+9 - Assim sendo, o prazo máximo de prisão preventiva do peticionante não atingiu o seu limite no referido dia 21 de março de 2023, nem assim se mantém em violação do disposto nas disposições conjugadas dos n.os1, alínea d), 2 e 6 do CPP. Pelo contrário, aplica-se-lhe a elevação do período em causa por mais seis meses. Tal é motivo suficiente para o indeferimento da requerida providência de Habeas Corpus, nos termos do artigo 222.º, n.º 2, alínea c) do CPP, atenta a previsão dos artigos 215.º, n.os5 e 6 do CPP.”
 
 2.b. Por sua vez, o acórdão fundamento, sobre matéria que se sintetiza, decidiu como segue:
 
@@ -267,7 +295,7 @@ f) Sendo que se iniciou a medida de coação em 03.05.2017, sem se aplicar a ele
 
 O Tribunal decidiu que:
 
-“Porém, o alargamento de seis meses a que se refere o n.º 5 do artigo 215.º do CPP tem como referência expressa “os prazos previstos nas alíneas c) e d) do n.º 1 bem como os correspondentemente referidos nos n.<sup>os</sup>2 e 3.” pelo que, quer a letra quer o espírito da lei afastam essa interpretação.
+“Porém, o alargamento de seis meses a que se refere o n.º 5 do artigo 215.º do CPP tem como referência expressa “os prazos previstos nas alíneas c) e d) do n.º 1 bem como os correspondentemente referidos nos n.os2 e 3.” pelo que, quer a letra quer o espírito da lei afastam essa interpretação.
 
 Com efeito, se o legislador pretendesse o alargamento do prazo sempre que houvesse recurso para o Tribunal Constitucional não aludiria às referidas normas e diria simplesmente que o prazo acresceria em seis meses no caso de interposição desse recurso, ao invés de indicar um âmbito de incidência específica da norma em causa. Por outro lado, o princípio da presunção de inocência impõe limites, até por razões de constitucionalidade (artigo 32.º, n.º 2 da CRP), à duração da prisão preventiva que o legislador entendeu, razoavelmente, fixar em metade da pena aplicada, quando confirmada em sede de recurso ordinário.
 
@@ -327,7 +355,7 @@ O artigo 28.º estabelece os parâmetros constitucionais de aplicação da pris�
 
 Por sua vez, o art.º 31.º institui a providência de habeas corpus contra o abuso de poder, em virtude de detenção ou prisão ilegal.
 
-A Convenção Europeia dos Direitos Humanos (CEDH) <sup>1</sup>, no art.º 5°, erigiu, em termos similares, o direito à liberdade como direito fundamental:
+A Convenção Europeia dos Direitos Humanos (CEDH) 1, no art.º 5°, erigiu, em termos similares, o direito à liberdade como direito fundamental:
 
 “1. Toda a pessoa tem direito à liberdade e segurança. Ninguém pode ser privado da sua liberdade, salvo nos casos seguintes e de acordo com o procedimento legal:
 
@@ -337,7 +365,7 @@ b) Se for preso ou detido legalmente, por desobediência a uma decisão tomada, 
 
 c) Se for preso e detido a fim de comparecer perante a autoridade judicial competente, quando houver suspeita razoável de ter cometido uma infracção, ou quando houver motivos razoáveis para crer que é necessário impedi-lo de cometer uma infracção ou de se pôr em fuga depois de a ter cometido; [...]”
 
-O art.º 9.º do Pacto Internacional sobre os Direitos Civis e Políticos (PICP)<sup>2</sup> estabelece, quanto ao direito à liberdade e segurança que:
+O art.º 9.º do Pacto Internacional sobre os Direitos Civis e Políticos (PICP)2 estabelece, quanto ao direito à liberdade e segurança que:
 
 “1 - Todo o indivíduo tem direito à liberdade e à segurança da sua pessoa. Ninguém pode ser objecto de prisão ou detenção arbitrária. Ninguém pode ser privado da sua liberdade a não ser por motivo e em conformidade com processos previstos na lei.
 
@@ -355,7 +383,7 @@ A Declaração Universal dos Direitos do Homem (DUDH), estabelece, no seu artigo
 
 b) As restrições ao direito à liberdade
 
-O art.º 18.º da CRP regulamenta o regime dos direitos, liberdades e garantias, de âmbito definido no artigo precedente, enunciando, nos n.<sup>os</sup>2 e 3, as condições imperativas da sua restrição legal:
+O art.º 18.º da CRP regulamenta o regime dos direitos, liberdades e garantias, de âmbito definido no artigo precedente, enunciando, nos n.os2 e 3, as condições imperativas da sua restrição legal:
 
 “2. A lei só pode restringir os direitos, liberdades e garantias nos casos expressamente previstos na Constituição, devendo as restrições limitar-se ao necessário para salvaguardar outros direitos ou interesses constitucionalmente protegidos.
 
@@ -377,9 +405,9 @@ Na Carta dos Direitos Fundamentais da UE, o art.º 52.º estatui que:
 
 7 - Os órgãos jurisdicionais da União e dos Estados-Membros têm em devida conta as anotações destinadas a orientar a interpretação da presente Carta.”
 
-A garantia do conteúdo essencial do direito fundamental (na Constituição e, pode afirmar-se, no direito convencional e da UE citados) é, nas palavras de Gomes Canotilho e Vital Moreira, “uma baliza última de defesa dos direitos, liberdades e garantias, delimitando um núcleo que em nenhum caso deverá ser invadido [...] porque, em última análise, para não existir aniquilação do núcleo essencial, é necessário que haja sempre um resto substancial de direito, liberdade e garantia que assegure a sua utilidade constitucional” <sup>4</sup>.
+A garantia do conteúdo essencial do direito fundamental (na Constituição e, pode afirmar-se, no direito convencional e da UE citados) é, nas palavras de Gomes Canotilho e Vital Moreira, “uma baliza última de defesa dos direitos, liberdades e garantias, delimitando um núcleo que em nenhum caso deverá ser invadido [...] porque, em última análise, para não existir aniquilação do núcleo essencial, é necessário que haja sempre um resto substancial de direito, liberdade e garantia que assegure a sua utilidade constitucional” 4.
 
-Para Jorge Miranda, “o conteúdo essencial tem de ser entendido como um limite absoluto correspondente à finalidade ou ao valor que justifica o direito” <sup>5</sup>.
+Para Jorge Miranda, “o conteúdo essencial tem de ser entendido como um limite absoluto correspondente à finalidade ou ao valor que justifica o direito” 5.
 
 As normas processuais penais que corporizam o mandato constitucional restritivo de um direito fundamental, no caso, o direito à liberdade que integra o círculo dos direitos liberdades e garantias, devem limitar-se ao necessário para salvaguardar outros direitos ou interesses constitucionalmente protegidos, subordinando-se ao princípio geral da proporcionalidade, e não podem diminuir a extensão e o alcance do conteúdo essencial dos preceitos constitucionais.
 
@@ -397,11 +425,11 @@ No modelo adotado pelo Código de Processo Penal, o prazo de prisão preventiva 
 
 A lei prevê, ainda, um outro limite para o prazo máximo da prisão preventiva, através do n.º 6 do artigo 215.º, que resulta da confirmação em sede de recurso ordinário da sentença condenatória de primeira instância.
 
-b) Os n.<sup>os</sup>5 e 6 do art.º 215.º do CPP - breve nota histórica
+b) Os n.os5 e 6 do art.º 215.º do CPP - breve nota histórica
 
 O atual n.º 5 constava, já, sob o n.º 4, da versão original, aprovada pelo [Decreto-Lei n.º 78/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1987-662562), de 17.02, mantendo-se inalterado, apesar das 43 alterações sofridas pelo CPP.
 
-Na sua previsão, os “prazos referidos nas alíneas c) e d) do n.º 1, bem como os correspondentemente referidos nos n.<sup>os</sup>2 e 3, são acrescentados de seis meses se tiver havido recurso para o Tribunal Constitucional ou se o processo penal tiver sido suspenso para julgamento em outro tribunal de questão prejudicial”.
+Na sua previsão, os “prazos referidos nas alíneas c) e d) do n.º 1, bem como os correspondentemente referidos nos n.os2 e 3, são acrescentados de seis meses se tiver havido recurso para o Tribunal Constitucional ou se o processo penal tiver sido suspenso para julgamento em outro tribunal de questão prejudicial”.
 
 Este acréscimo do prazo, em 6 meses, nas palavras do Acórdão do Tribunal Constitucional n.º [2/2008](https://diariodarepublica.pt/dr/detalhe/acordao/2-2008-2306266), de 04.01, “mostra-se justificado, segundo a razão de ser da lei, não apenas pelo eventual protelamento do trânsito em julgado da decisão condenatória, mas também pela possível demora produzida na emissão de uma decisão em primeira instância. Ou seja, a prorrogação do prazo de prisão preventiva é legitimada pelo potencial efeito dilatório do recurso de constitucionalidade, quer porque com a interposição desse recurso se evitou que o processo chegasse ao seu termo com o trânsito em julgado da decisão condenatória, quer porque esse recurso se poderá repercutir de algum modo no julgamento da causa.”
 
@@ -409,7 +437,7 @@ Por sua vez, o n.º 5 foi introduzido pela [Lei n.º 48/2007](https://diariodare
 
 “No caso de o arguido ter sido condenado a pena de prisão em 1.ª instância e a sentença condenatória ter sido confirmada em sede de recurso ordinário, o prazo máximo da prisão preventiva eleva-se para metade da pena que tiver sido fixada”.
 
-A redação do artigo 215.º, na reforma de 2007, reduziu os prazos de prisão preventiva para cada uma das situações elencadas nos n.<sup>os</sup>1 e 2 e aditou o n.º 6.
+A redação do artigo 215.º, na reforma de 2007, reduziu os prazos de prisão preventiva para cada uma das situações elencadas nos n.os1 e 2 e aditou o n.º 6.
 
 Da exposição de motivos da Proposta de Lei n.º 109/X/2, de 20.12.2006, constava, a este respeito: “Os prazos de prisão preventiva são reduzidos em termos equilibrados, para acentuar o carácter excepcional desta medida sem prejudicar os seus fins cautelares. Todavia, no caso de o arguido já ter sido condenado em duas instâncias sucessivas, o prazo máximo eleva-se para metade da pena que tiver sido fixada. Embora continue a valer o princípio da presunção de inocência, consagrado no n.º 2 do artigo 32.º da Constituição, a gravidade dos indícios que militam contra o arguido justifica aí a elevação do prazo. Para evitar que a prisão preventiva se possa perpetuar, estipula-se que os prazos previstos para essa medida não podem ser ultrapassados quando existir pluralidade de processos (artigo 215.º)”. (destacado nosso)
 
@@ -419,11 +447,11 @@ Assim, Maia Costa defende que a norma se encontra “sobres os limites consentid
 
 “A norma deste n.º 6 permite um alongamento significativo da prisão preventiva que poderá ser entendido como contendendo com o princípio da presunção de inocência, ou como constituindo como que uma “pré-execução” de pena, também em infração àquele princípio. A norma assenta numa conceção “gradualista” daquele princípio, segundo a qual ele não tem a mesma intensidade ao longo do processo, conceção essa que poderá justificar-se desta forma: com a condenação em 1.ª instância, decretada após uma audiência formal em que o arguido pôde apresentar sem restrições a sua defesa, e a posterior confirmação dessa condenação pelo tribunal superior, existe um fundamento sólido de imputação da responsabilidade criminal que provoca uma natural “erosão” ou “fragilização” do princípio da presunção de inocência; por isso, o estabelecimento de novos prazos de prisão preventiva a partir da confirmação da condenação em primeira instância, e tendo como referência a pena fixada, mostra-se materialmente justificado, não podendo considerar-se ofensivo daquele princípio.
 
-Contudo, esta regra poderá levar à previsão de prazos muito longos de prisão preventiva. Seria certamente mais consentâneo com o referido princípio da presunção de inocência, o estabelecimento de um limite máximo inultrapassável, independentemente da medida da pena. Nesta hipótese, a constitucionalidade da norma poderia ser consistentemente argumentada. A solução legal adotada, porém, estabelecendo exclusivamente como referência para a prisão preventiva a medida da pena aplicada, assemelha-se fortemente a uma pré execução dessa pena. Por isso, a constitucionalidade da norma no confronto com o princípio da presunção de inocência não pode deixar de ser questionada. No mínimo, o que se poderá dizer é que ela se situa nos limites consentidos por esse princípio, mas precisamente sobre esses limites. Note-se que a conceção gradualista do princípio de presunção de inocência foi rejeitada pelo Tribunal Constitucional no Acórdão n.º 1166/96, posição reafirmada no Acórdão n.º 524/97. No sentido de inconstitucionalidade do preceito, ver Pinto Albuquerque, pág. 620 I, Augusto Silva Dias, “A prisão preventiva após a revisão de 2007. Foi superada a crise?” Estudos em honra do Prof. José de Oliveira Ascenção, volume 2, páginas 1389-1391.” <sup>6</sup>
+Contudo, esta regra poderá levar à previsão de prazos muito longos de prisão preventiva. Seria certamente mais consentâneo com o referido princípio da presunção de inocência, o estabelecimento de um limite máximo inultrapassável, independentemente da medida da pena. Nesta hipótese, a constitucionalidade da norma poderia ser consistentemente argumentada. A solução legal adotada, porém, estabelecendo exclusivamente como referência para a prisão preventiva a medida da pena aplicada, assemelha-se fortemente a uma pré execução dessa pena. Por isso, a constitucionalidade da norma no confronto com o princípio da presunção de inocência não pode deixar de ser questionada. No mínimo, o que se poderá dizer é que ela se situa nos limites consentidos por esse princípio, mas precisamente sobre esses limites. Note-se que a conceção gradualista do princípio de presunção de inocência foi rejeitada pelo Tribunal Constitucional no Acórdão n.º 1166/96, posição reafirmada no Acórdão n.º 524/97. No sentido de inconstitucionalidade do preceito, ver Pinto Albuquerque, pág. 620 I, Augusto Silva Dias, “A prisão preventiva após a revisão de 2007. Foi superada a crise?” Estudos em honra do Prof. José de Oliveira Ascenção, volume 2, páginas 1389-1391.” 6
 
 Elisabete Ferreira e Pinto de Albuquerque defendem que a norma é inconstitucional:
 
-“Em qualquer caso, a disposição é desproporcional e viola a presunção de inocência, por exemplo, no caso de homicídio qualificado, punido com a pena de 20 anos de prisão confirmada pelo TR, o limite máximo de prisão preventiva é de 10 anos! Este alargamento da prisão preventiva é manifestamente contrário ao princípio da presunção de inocência e ao princípio da liberdade, violando o padrão europeu fixado em face dos arts. 5.º, § 4.º e 6.º, § 2.º da CEDH, pelo que o art. 215.º, n.º 6 é inconstitucional.” <sup>7</sup>
+“Em qualquer caso, a disposição é desproporcional e viola a presunção de inocência, por exemplo, no caso de homicídio qualificado, punido com a pena de 20 anos de prisão confirmada pelo TR, o limite máximo de prisão preventiva é de 10 anos! Este alargamento da prisão preventiva é manifestamente contrário ao princípio da presunção de inocência e ao princípio da liberdade, violando o padrão europeu fixado em face dos arts. 5.º, § 4.º e 6.º, § 2.º da CEDH, pelo que o art. 215.º, n.º 6 é inconstitucional.” 7
 
 Com estas breves notas, não se pretende retomar esse debate, aliás, estranho ao objeto do recurso e que não teve eco na jurisprudência deste Tribunal ou do Tribunal Constitucional, mas evidenciar o impacto que, pela extensão da restrição ao direito à liberdade, a introdução do n.º 6 do art.º 215.º do CPP produziu.
 
@@ -441,7 +469,7 @@ b) Refira-se, em primeiro lugar, que o n.º 6 do art.º 215.º do CPP apenas se 
 
 Com efeito, a definição de uma nova lógica de prazos de prisão preventiva, desligada da fase em que o processo se encontra e apenas em relação com a confirmação da condenação em sede de recurso ordinário, significa, necessária e literalmente, uma “elevação” do prazo, em razão de uma ideia de erosão da presunção de inocência que ocorrera com o acórdão confirmatório.
 
-Como diz Maia Costa, em interpretação que se acolhe, “O n.º 6 fala de elevação do prazo de prisão preventiva, o que revela que a regra nele contida só vale, quando por via da sua aplicação, o prazo não é inferior ao que resulta da aplicação das restantes regras do artigo. Assim, se metade da pena confirmada for inferior aos prazos estabelecidos nos n.os 1, 2, 3 e 5 deste artigo, serão estes os prazos que prevalecem.” <sup>8</sup> (destacado nosso).
+Como diz Maia Costa, em interpretação que se acolhe, “O n.º 6 fala de elevação do prazo de prisão preventiva, o que revela que a regra nele contida só vale, quando por via da sua aplicação, o prazo não é inferior ao que resulta da aplicação das restantes regras do artigo. Assim, se metade da pena confirmada for inferior aos prazos estabelecidos nos n.os 1, 2, 3 e 5 deste artigo, serão estes os prazos que prevalecem.” 8 (destacado nosso).
 
 Ou seja, na ponderação da elevação do prazo prevista no n.º 6 do art. 215.º do CPP, há que verificar, antes do mais, se o prazo resultante da aplicação das disposições conjugadas dos n.os 1, 2 e 5 da mesma disposição legal não é superior a metade da pena.
 
@@ -449,13 +477,13 @@ c) Movendo-se no domínio de normas legais sujeitas ao regime do art.º 18.º da
 
 Ora, não obstante as sucessivas alterações do CPP e, em particular, a importante reforma de 2007, o atual n.º 5 do art.º 215.º corresponde ao texto inicial do n.º 4 do art.º 215.º, da versão original do CPP.
 
-A norma em causa fixa, de forma clara, o âmbito da sua aplicação: “Os prazos referidos nas alíneas c) e d) do n.º 1, bem como os correspondentemente referidos nos n.<sup>os</sup>2 e 3, são acrescentados de seis meses se tiver havido recurso para o Tribunal Constitucional ou se o processo penal tiver sido suspenso para julgamento em outro tribunal de questão prejudicial.”
+A norma em causa fixa, de forma clara, o âmbito da sua aplicação: “Os prazos referidos nas alíneas c) e d) do n.º 1, bem como os correspondentemente referidos nos n.os2 e 3, são acrescentados de seis meses se tiver havido recurso para o Tribunal Constitucional ou se o processo penal tiver sido suspenso para julgamento em outro tribunal de questão prejudicial.”
 
 Da literalidade da norma, resulta a sua não aplicação ao prazo elevado do n.º 6 do mesmo artigo.
 
 O elemento histórico, supra sumariado, confere indubitável apoio ao modelo assim concebido: na reforma de 2007, a redução geral dos prazos de prisão preventiva foi acompanhada da introdução de um novo prazo máximo, sempre superior aos prazos “gerais”, no caso de decisão, em recurso, confirmatória da condenação e manteve-se a redação do n.º 5.
 
-O facto de, ao contrário dos prazos previstos nos n.<sup>os</sup>1 e 2 do art.º 215.º, o prazo previsto no n.º 6 não ser determinado em unidade temporal e ter como medida a pena em concreto aplicada (na decisão em 1.ª instância ou na decisão em recurso) confere-lhe uma amplitude tal que impõe cuidadosa formulação, dentro dos limites da extensão e do alcance do conteúdo essencial do direito.
+O facto de, ao contrário dos prazos previstos nos n.os1 e 2 do art.º 215.º, o prazo previsto no n.º 6 não ser determinado em unidade temporal e ter como medida a pena em concreto aplicada (na decisão em 1.ª instância ou na decisão em recurso) confere-lhe uma amplitude tal que impõe cuidadosa formulação, dentro dos limites da extensão e do alcance do conteúdo essencial do direito.
 
 Não se afigura admissível uma interpretação que proceda à extensão do âmbito de aplicação, definido com precisão, do n.º 5 do art.º 215.º, a um prazo máximo de prisão preventiva com a natureza do previsto no n.º 6 do mesmo artigo, na ausência de previsão legal expressa.
 
@@ -471,7 +499,7 @@ a) Fixar a seguinte jurisprudência:
 
 “O acréscimo de seis meses dos prazos de duração máximos de prisão preventiva, em razão da interposição de recurso para o Tribunal Constitucional, previsto no art.º 215.º, n.º 5, do Código de Processo Penal, não se aplica na hipótese legal do n.º 6 do mesmo normativo.”
 
-b) Confirmar o Acórdão recorrido, por se não mostrar excedido o prazo máximo resultante da aplicação conjugada dos n.<sup>os</sup>1, 2 e 5 do art. 215.º do CPP.
+b) Confirmar o Acórdão recorrido, por se não mostrar excedido o prazo máximo resultante da aplicação conjugada dos n.os1, 2 e 5 do art. 215.º do CPP.
 
 Oportunamente, cumpra-se o disposto no artigo 444.º, n.º 1, do Código de Processo Penal.
 
@@ -565,18 +593,20 @@ Pelo exposto, fixaria jurisprudência com o sentido seguinte:
 
 Nuno A. Gonçalves
 
-<sup>1</sup> Convenção adotada em Roma, a 4 de novembro de 1950, com entrada em vigor na ordem jurídica portuguesa a 9 de novembro de 1978, tendo sido aprovada para ratificação pela [Lei n.º 65/78](https://diariodarepublica.pt/dr/detalhe/lei/65-1978-328440), de 13 de outubro, publicada no Diário da República, 1.ª série, n.º 236/78 (retificada por Declaração da Assembleia da República publicada no Diário da República, 1.ª série, n.º 286/78, de 14 de dezembro).
+1 Convenção adotada em Roma, a 4 de novembro de 1950, com entrada em vigor na ordem jurídica portuguesa a 9 de novembro de 1978, tendo sido aprovada para ratificação pela [Lei n.º 65/78](https://diariodarepublica.pt/dr/detalhe/lei/65-1978-328440), de 13 de outubro, publicada no Diário da República, 1.ª série, n.º 236/78 (retificada por Declaração da Assembleia da República publicada no Diário da República, 1.ª série, n.º 286/78, de 14 de dezembro).
 
-<sup>2</sup> Da Organização das Nações Unidas, Aprovado para ratificação pela [Lei n.º 29/78](https://diariodarepublica.pt/dr/detalhe/lei/29-1978-426144), de 12/06 (retificada mediante retificação publicada no Diário da República n.º 153/78, de 06/07) Diário da República I, n.º 133, de 12/06/1978 ([Lei n.º 29/78](https://diariodarepublica.pt/dr/detalhe/lei/29-1978-426144)).
+2 Da Organização das Nações Unidas, Aprovado para ratificação pela [Lei n.º 29/78](https://diariodarepublica.pt/dr/detalhe/lei/29-1978-426144), de 12/06 (retificada mediante retificação publicada no Diário da República n.º 153/78, de 06/07) Diário da República I, n.º 133, de 12/06/1978 ([Lei n.º 29/78](https://diariodarepublica.pt/dr/detalhe/lei/29-1978-426144)).
 
-<sup>3</sup> Juridicamente vinculativa com a entrada em vigor do Tratado de Lisboa, em dezembro de 2009.
+3 Juridicamente vinculativa com a entrada em vigor do Tratado de Lisboa, em dezembro de 2009.
 
-<sup>4</sup> Constituição da República Portuguesa Anotada, vol. I, 4.ª ed., Coimbra Ed., 2007, pág. 395.
+4 Constituição da República Portuguesa Anotada, vol. I, 4.ª ed., Coimbra Ed., 2007, pág. 395.
 
-<sup>5</sup> Manual de Direito Constitucional, tomo IV, Coimbra Editora, 3.ª ed., 2000, pág. 341.
+5 Manual de Direito Constitucional, tomo IV, Coimbra Editora, 3.ª ed., 2000, pág. 341.
 
-<sup>6</sup> Código Processo Penal Comentado, António Henriques Gaspar et alii, 3.ª Edição Revista, 2021, pág. 838.
+6 Código Processo Penal Comentado, António Henriques Gaspar et alii, 3.ª Edição Revista, 2021, pág. 838.
 
-<sup>7</sup> Comentário do Código de Processo Penal à luz da Constituição da República e da Convenção Europeia dos Direitos do Homem, Volume I, 5.ª edição atualizada, UCP Editora, pág. 947, comentário 18.
+7 Comentário do Código de Processo Penal à luz da Constituição da República e da Convenção Europeia dos Direitos do Homem, Volume I, 5.ª edição atualizada, UCP Editora, pág. 947, comentário 18.
 
-<sup>8</sup> Ob. Cit., n. 12 da anotação ao art.º 215.º, pág. 838.
+8 Ob. Cit., n. 12 da anotação ao art.º 215.º, pág. 838.
+
+118458405

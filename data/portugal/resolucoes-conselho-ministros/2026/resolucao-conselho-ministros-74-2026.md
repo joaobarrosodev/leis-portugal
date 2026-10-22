@@ -78,13 +78,38 @@ reuse:
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agência Portuguesa do Ambiente
+- Autarquia Local
+- Catástrofe
+- Conselho de Ministros
+- Contrato Programa
+- Delegação de Competências
+- Financiamento
+- Fundo Ambiental
+- Governo XXV
+- Ministro do Ambiente e Energia
+- Prejuízo Financeiro
+- Tempestade Kristin
+- Temporal
 relationships:
+- type: amended_by
+  target: pt:dre:1164128605:por
+  label: Alterados, a partir de 1 de setembro de 2026, os n.os 1 e 4 e o anexo i pelo(a) Resolução do Conselho de Ministros
+    n.º 176/2026 - Diário da República n.º 168/2026, Série I de 2026-08-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/176-2026-1164128605
+  date: '2026-08-30'
 - type: amended_by
   target: pt:dre:1164128605:por
   label: Altera Diploma; Altera Anexo I
   source: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/176-2026-1164128605
   date: '2026-08-31'
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:17-A/2026
+  label: Altera, a partir de 25 de abril de 2026, os anexos i e iii da Resolução do Conselho de Ministros n.º 17-A/2026, de
+    3 de fevereiro, Diário da República n.º 23/2026, Suplemento, Série I
+  source: null
+  date: '2026-02-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -117,6 +142,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/17-a/2026/02/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/17-a/2026/02/03/p/dre
+- type: cites
+  target: pt:dre:1031784677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1034985574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1041146578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1051077047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:933628165:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 2

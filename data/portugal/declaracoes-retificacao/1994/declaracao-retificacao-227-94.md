@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 277/1994, 4º Suplemento, Série I-B de 1994-11-30
   number: '277'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 7070-(11) a 7070-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/11/277b04/00110011.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/227/1994/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/227-1994-355914
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:41:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0cc3b1c5bc8981474cacf9489e6e0f740bac61320354ef073b05acb5cac53f9e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f5665465820c3dadde2dcc7f276d107a62a9933a04444f6a0810fa14507f67d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:41:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Comércio
 - Desenvolvimento Rural
+- Financiamento
+- Produto Agrícola
+- Programa de Apoio à Modernização Agrícola e Florestal
 - Qualidade do Produto
 - Regulamento
-- Programa de Apoio à Modernização Agrícola e Florestal
-- Comércio
-- Produto Agrícola
 relationships:
 - type: cites
   target: celex:31992R2081
@@ -90,18 +90,18 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:41:52Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 227/94
+# Declaração de rectificação n.º 227/94
 
 Segundo comunicação do Ministério da Agricultura, a Portaria n.º 809-F/94, publicada no Diário da República, 1.ª série, n.º 211 (suplemento), de 12 de Setembro de 1994, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 

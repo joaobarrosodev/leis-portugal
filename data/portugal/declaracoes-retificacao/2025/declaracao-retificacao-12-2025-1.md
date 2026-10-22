@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/02/03000/0000200007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/12/2025/02/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/12-2025-907097144
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-12T00:00:00Z'
+  retrieved_at: '2026-10-22T19:15:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17ec29d1f11f70800f21449bbefea32c0c3b4d77b194c9de56e19cda6f312a14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6cd287a26bcea977967c56f90d64abb3c71cd67878f5ae07eec81a687ede2d48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:15:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acção de Formação
+- Autarquia Local
 - Cativação de Verba
 - Corrupção
 - Orçamento Geral do Estado
-- Transferência de Verbas
-- Autarquia Local
 - Programa de Capacitação Avançada para Trabalhadores em Funções Públicas
+- Transferência de Verbas
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/45-a/2024/12/31/p/dre
@@ -89,16 +89,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/231/2019/07/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/231/2019/07/23/p/dre
+- type: cites
+  target: pt:dre:123407857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211666654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901667918:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:lei:45-A/2024
+  label: Retifica o n.º 7 do artigo 3.º, o artigo 287.º e o mapa 12 da Lei n.º 45-A/2024, de 31 de dezembro, Diário da República
+    n.º 253/2024, Suplemento, Série I
+  source: null
+  date: '2024-12-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:15:40Z'
   warnings: []
   errors: []
 ---
@@ -111,30 +133,37 @@ Para os devidos efeitos, observado o disposto no n.º 2 do artigo 115.º do Regi
 
 No n.º 7 do artigo 3.º, onde se lê:
 
-«Sem prejuízo do disposto no n.º 5, excluem-se das cativações previstas nos n.<sup>os</sup>1 e 3 as dotações previstas na Lei de Programação Militar e na lei de infraestruturas militares.»
+«Sem prejuízo do disposto no n.º 5, excluem-se das cativações previstas nos n.os1 e 3 as dotações previstas na Lei de Programação Militar e na lei de infraestruturas militares.»
 
 deve ler-se:
 
-«Sem prejuízo do disposto no n.º 5, excluem-se das cativações previstas nos n.<sup>os</sup>1 a 3 as dotações previstas na Lei de Programação Militar e na lei de infraestruturas militares.»
+«Sem prejuízo do disposto no n.º 5, excluem-se das cativações previstas nos n.os1 a 3 as dotações previstas na Lei de Programação Militar e na lei de infraestruturas militares.»
 
 No artigo 287.º, onde se lê:
 
-«Em 2025, o membro do Governo responsável pela área da Administração Pública procede à inclusão de conteúdos de frequência obrigatória orientados para a prevenção e deteção da corrupção nos cursos e programas previstos nas Portarias n.<sup>os</sup>[146/2011](https://diariodarepublica.pt/dr/detalhe/portaria/146-2011-278038), de 7 de abril, e [231/2019](https://diariodarepublica.pt/dr/detalhe/portaria/231-2019-123407857), de 23 de julho, nomeadamente no Programa de Capacitação Avançada para Trabalhadores em Funções Públicas, no Curso Avançado de Gestão Pública, no Programa de Formação em Gestão Pública e no Curso de Alta Direção em Administração Pública.»
+«Em 2025, o membro do Governo responsável pela área da Administração Pública procede à inclusão de conteúdos de frequência obrigatória orientados para a prevenção e deteção da corrupção nos cursos e programas previstos nas Portarias n.os[146/2011](https://diariodarepublica.pt/dr/detalhe/portaria/146-2011-278038), de 7 de abril, e [231/2019](https://diariodarepublica.pt/dr/detalhe/portaria/231-2019-123407857), de 23 de julho, nomeadamente no Programa de Capacitação Avançada para Trabalhadores em Funções Públicas, no Curso Avançado de Gestão Pública, no Programa de Formação em Gestão Pública e no Curso de Alta Direção em Administração Pública.»
 
 deve ler-se:
 
-«Em 2025, o membro do Governo responsável pela área da Administração Pública procede à inclusão de conteúdos de frequência obrigatória orientados para a prevenção e deteção da corrupção nos cursos e programas previstos nas Portarias n.<sup>os</sup>[103/2023](https://diariodarepublica.pt/dr/detalhe/portaria/103-2023-211666654), de 12 de abril, e [231/2019](https://diariodarepublica.pt/dr/detalhe/portaria/231-2019-123407857), de 23 de julho, nomeadamente no Programa de Capacitação Avançada para Trabalhadores em Funções Públicas e nos cursos de Formação Avançada para a Administração Pública (FA>AP).»
+«Em 2025, o membro do Governo responsável pela área da Administração Pública procede à inclusão de conteúdos de frequência obrigatória orientados para a prevenção e deteção da corrupção nos cursos e programas previstos nas Portarias n.os[103/2023](https://diariodarepublica.pt/dr/detalhe/portaria/103-2023-211666654), de 12 de abril, e [231/2019](https://diariodarepublica.pt/dr/detalhe/portaria/231-2019-123407857), de 23 de julho, nomeadamente no Programa de Capacitação Avançada para Trabalhadores em Funções Públicas e nos cursos de Formação Avançada para a Administração Pública (FA>AP).»
 
 É retificado o mapa 12 [Lei n.º 45-A/2024](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918)024, de 31 de dezembro, relativo às transferências para os municípios, publicado em anexo à presente declaração.
 
 Assembleia da República, 7 de fevereiro de 2025. - A Secretária-Geral, Anabela Leitão Cabral Ferreira.
 
-![](https://files.diariodarepublica.pt/images/907097144/907095916.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/907097144/907095916.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/907097144/907095917.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/907097144/907095917.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/907097144/907095918.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/907097144/907095918.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/907097144/907095919.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/907097144/907095919.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/907097144/907095920.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/907097144/907095920.png) |
+| --- |
+
+118676328

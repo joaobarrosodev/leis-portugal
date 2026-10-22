@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 72/1962, 1º Suplemento, Série I de 1962-03-31
   number: '72'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2 - 33
   pdf_url: https://files.diariodarepublica.pt/1s/1962/03/07201/00020033.pdf
 entry_into_force_dates: []
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44260-1962-423052
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-10-09T00:00:00Z'
+  retrieved_at: '2026-10-22T19:28:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7687074bc8edf61716909fc0c91e262881ae734f11a985efb2d4c3a930ac1cfe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53e8c6370b608a09e05a5d08ee1d3064a5e3045ecf07d893f922792232413e54
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:28:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Certificado de Origem
+- Circulação de Mercadorias
+- Especificação Técnica
+- Pauta Aduaneira
+- Produto de Fabricação Nacional
 relationships:
 - type: amended_by
   target: pt:dre:148422:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:182232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654121:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:28:35Z'
   warnings: []
   errors: []
 ---
@@ -93,13 +110,13 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ### CAPÍTULO I — Generalidades
 
-###### Artigo 1.º Para os fins do disposto no [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), de 8 de Novembro de 1961, o regime respeitante à determinação, prova e verificação da prova da origem nacional das mercadorias transaccionadas entre territórios nacionais obedecerá às disposições estabelecidas no presente decreto.
+Artigo 1.º Para os fins do disposto no [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), de 8 de Novembro de 1961, o regime respeitante à determinação, prova e verificação da prova da origem nacional das mercadorias transaccionadas entre territórios nacionais obedecerá às disposições estabelecidas no presente decreto.
 
-###### Art. 2.º A partir de 1 de Julho de 1962, para efeitos da aplicação do regime de liberdade de circulação estabelecido no artigo 9.º do [Decreto n.º 41026](https://diariodarepublica.pt/dr/detalhe/decreto/41026-1957-654121), de 9 de Março de 1957, a determinação da origem nacional, sua prova e verificação obedecerão às disposições do artigo 6.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232) e às do presente decreto.
+Art. 2.º A partir de 1 de Julho de 1962, para efeitos da aplicação do regime de liberdade de circulação estabelecido no artigo 9.º do [Decreto n.º 41026](https://diariodarepublica.pt/dr/detalhe/decreto/41026-1957-654121), de 9 de Março de 1957, a determinação da origem nacional, sua prova e verificação obedecerão às disposições do artigo 6.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232) e às do presente decreto.
 
 § único. O Governo decidirá, até 31 de Dezembro de 1965, se as disposições a que se refere o corpo deste artigo deverão também ser observadas para efeitos da aplicação do regime de direitos preferenciais em vigor, enquanto este subsistir.
 
-###### Art. 3.º Em relação a mercadorias submetidas num dos territórios nacionais a operações que não sejam suficientes para lhes conferir a origem nacional, de harmonia com as disposições do artigo 6.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232) e do presente decreto, poderão ser estabelecidos contingentes pautais para a sua importação noutros territórios nacionais em condições especialmente favoráveis, se as referidas operações forem consideradas de grande interesse e importância para a economia do dito território.
+Art. 3.º Em relação a mercadorias submetidas num dos territórios nacionais a operações que não sejam suficientes para lhes conferir a origem nacional, de harmonia com as disposições do artigo 6.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232) e do presente decreto, poderão ser estabelecidos contingentes pautais para a sua importação noutros territórios nacionais em condições especialmente favoráveis, se as referidas operações forem consideradas de grande interesse e importância para a economia do dito território.
 
 § 1.º O estabelecimento de contingentes pautais, nos termos do disposto no corpo deste artigo, será objecto de decisão do Governo, depois de obtido parecer favorável das autoridades económicas e aduaneiras do território importador em relação ao qual se propõe a fixação desses contingentes.
 
@@ -123,11 +140,11 @@ d) O processo de repartição do contingente pautal.
 
 ### CAPÍTULO II — Disposições interpretativas e regras de aplicação
 
-###### Art. 4.º Para efeitos de aplicação dos critérios da determinação da origem nacional, o termo «matérias» compreende os produtos, partes e peças utilizados na produção das mercadorias.
+Art. 4.º Para efeitos de aplicação dos critérios da determinação da origem nacional, o termo «matérias» compreende os produtos, partes e peças utilizados na produção das mercadorias.
 
-###### Art. 5.º Na determinação da origem das mercadorias, a energia, o combustível, as instalações, as máquinas e as ferramentas utilizados para a sua produção em territórios nacionais, assim como as matérias utilizadas para a conservação dessas instalações, máquinas e ferramentas, serão considerados inteiramente produzidos em território português.
+Art. 5.º Na determinação da origem das mercadorias, a energia, o combustível, as instalações, as máquinas e as ferramentas utilizados para a sua produção em territórios nacionais, assim como as matérias utilizadas para a conservação dessas instalações, máquinas e ferramentas, serão considerados inteiramente produzidos em território português.
 
-###### Art. 6.º Para efeitos do disposto na alínea c) do artigo 6.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), não deve considerar-se como tendo sido produzida em território português qualquer mercadoria que nele haja sido submetida apenas a uma ou mais das seguintes operações:
+Art. 6.º Para efeitos do disposto na alínea c) do artigo 6.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), não deve considerar-se como tendo sido produzida em território português qualquer mercadoria que nele haja sido submetida apenas a uma ou mais das seguintes operações:
 
 a) Embalagem, qualquer que seja o lugar onde os materiais de embalagem tenham sido produzidos;
 
@@ -139,7 +156,7 @@ d) Aposição de marcas;
 
 e) Composição de sortidos de mercadorias.
 
-###### Art. 7.º O termo «produtor» inclui o cultivador e o fabricante, assim como a pessoa que fornece mercadorias a outra, sem que haja venda, para que, por sua ordem, esta proceda à última transformação das mercadorias em causa.
+Art. 7.º O termo «produtor» inclui o cultivador e o fabricante, assim como a pessoa que fornece mercadorias a outra, sem que haja venda, para que, por sua ordem, esta proceda à última transformação das mercadorias em causa.
 
 § 1.º Quando um exportador confia a fabricação de mercadorias a um produtor e para isso lhe dá instruções, cingindo-se depois a examinar as mercadorias antes da sua exportação:
 
@@ -151,7 +168,7 @@ b) O exportador será reputado produtor se, nos termos do corpo deste artigo, fo
 
 § 3.º Em relação à sucata e a desperdícios resultantes de operações fabris efectuadas em territórios nacionais, pode ser considerado como produtor o fabricante que na sua laboração obteve essa sucata ou esses desperdícios.
 
-###### Art. 8.º Cada artefacto incluído numa remessa será considerado isoladamente.
+Art. 8.º Cada artefacto incluído numa remessa será considerado isoladamente.
 
 § único. Para os fins do corpo deste artigo:
 
@@ -161,7 +178,7 @@ b) As ferramentas, peças e acessórios importados juntamente com um artefacto e
 
 c) Sem prejuízo do disposto nas alíneas anteriores, será considerado como um só artefacto qualquer artefacto não montado ou desmontado cuja importação em diferentes remessas tenha sido autorizada nos termos das disposições aduaneiras aplicáveis, em virtude de não ser possível, por motivos de transporte ou de produção, a sua importação numa só expedição.
 
-###### Art. 9.º Quando, relativamente a certos produtos ou indústrias, o produtor não tenha possibilidades práticas de proceder à separação física de matérias da mesma natureza, mas de origem diferente, utilizadas na produção de mercadorias, ou nessa separação tenha graves inconvenientes, pode ser autorizado a substituir tal separação por um sistema contabilístico apropriado que garanta que não serão consideradas de origem nacional mais mercadorias do que aquelas que efectivamente o seriam se o produtor procedesse à separação física das matérias.
+Art. 9.º Quando, relativamente a certos produtos ou indústrias, o produtor não tenha possibilidades práticas de proceder à separação física de matérias da mesma natureza, mas de origem diferente, utilizadas na produção de mercadorias, ou nessa separação tenha graves inconvenientes, pode ser autorizado a substituir tal separação por um sistema contabilístico apropriado que garanta que não serão consideradas de origem nacional mais mercadorias do que aquelas que efectivamente o seriam se o produtor procedesse à separação física das matérias.
 
 § 1.º Os pedidos, devidamente fundamentados, para a aplicação do regime previsto neste artigo deverão ser dirigidos ao serviço público designado nos termos do artigo 17.º do presente diploma, do território onde residir o exportador interessado. A esse serviço competirá conceder autorização para a aplicação do regime mencionado, observadas as normas orientadoras que forem estabelecidas pelo Governo.
 
@@ -185,13 +202,13 @@ c) As declarações de compromisso mencionadas nas duas alíneas anteriores deve
 
 § 5.º A autorização a que se refere o presente artigo pode ser retirada a todo o tempo, depois de avisado o interessado com, pelo menos, seis meses de antecedência.
 
-###### Art. 10.º No caso de misturas que não constituam grupos, lotes ou conjuntos de artefactos separáveis abrangidos pelo disposto na alínea c) do § único do artigo 8.º, não será considerado como tendo origem nacional qualquer produto resultante de misturas de mercadorias que tenham a origem nacional e de mercadorias que a não tenham, se as características daquele produto não diferirem essencialmente das características das mercadorias que foram misturadas.
+Art. 10.º No caso de misturas que não constituam grupos, lotes ou conjuntos de artefactos separáveis abrangidos pelo disposto na alínea c) do § único do artigo 8.º, não será considerado como tendo origem nacional qualquer produto resultante de misturas de mercadorias que tenham a origem nacional e de mercadorias que a não tenham, se as características daquele produto não diferirem essencialmente das características das mercadorias que foram misturadas.
 
 § 1.º Se, não obstante o disposto no corpo deste artigo, puder ser feita, prova de qual a quantidade ou valor que corresponde às mercadorias de origem nacional que entram na composição da mistura, tal parte e só essa será considerada no produto como estando em condições de usufruir dos benefícios da origem nacional.
 
 § 2.º Na hipótese prevista no parágrafo anterior, do respectivo certificado de origem deverá constar qual a proporção em que no produto entram, em peso ou valor, as mercadorias de origem nacional, consoante esse produto seja tributado especìficamente ou ad valorem no território importador.
 
-###### Art. 11.º Para efeitos da aplicação dos critérios de origem as embalagens serão consideradas como formando um todo com as mercadorias que acondicionam, e nenhuma parte das embalagens necessárias ao transporte e armazenagem das mercadorias será considerada como tendo sido importada do estrangeiro, quando da determinação da origem das mercadorias no seu conjunto.
+Art. 11.º Para efeitos da aplicação dos critérios de origem as embalagens serão consideradas como formando um todo com as mercadorias que acondicionam, e nenhuma parte das embalagens necessárias ao transporte e armazenagem das mercadorias será considerada como tendo sido importada do estrangeiro, quando da determinação da origem das mercadorias no seu conjunto.
 
 § 1.º Não obstante o disposto no corpo deste artigo, será feita separadamente a determinação da origem para as taras que como tais tenham inscrição especial nas pautas de importação dos diferentes territórios nacionais ou que, não sendo de uso habitual ou tendo valor superior às habitualmente empregadas no acondicionamento de mercadorias, devam ser classificadas em separado como artefactos sujeitos aos respectivos direitos, nos termos das legislações aduaneiras aplicáveis.
 
@@ -199,7 +216,7 @@ c) As declarações de compromisso mencionadas nas duas alíneas anteriores deve
 
 ### CAPÍTULO III — Disposições relativas aos critérios de origem
 
-###### Art. 12.º Para os fins da alínea a) do artigo 6.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), consideram-se como inteiramente produzidos em território português designadamente:
+Art. 12.º Para os fins da alínea a) do artigo 6.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), consideram-se como inteiramente produzidos em território português designadamente:
 
 a) Produtos minerais extraídos do solo em territórios nacionais;
 
@@ -223,13 +240,13 @@ i) Mercadorias produzidas em territórios nacionais exclusivamente a partir de u
 
 2) Matérias que não contenham qualquer elemento importado do estrangeiro ou de origem indeterminada.
 
-###### Art. 13.º Para os fins do disposto na alínea b) do artigo 6.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), a lista de processos de produção a que se refere essa alínea é a que consta do anexo I ao presente decreto.
+Art. 13.º Para os fins do disposto na alínea b) do artigo 6.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), a lista de processos de produção a que se refere essa alínea é a que consta do anexo I ao presente decreto.
 
 § 1.º Além das mercadorias abrangidas pela lista referida no corpo deste artigo, serão também consideradas de origem nacional, de acordo com o critério da alínea b) do artigo 6.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), as mercadorias a que tenha sido atribuída a qualificação de produtos de fabricação nacional, nos termos do disposto no [Decreto n.º 37683](https://diariodarepublica.pt/dr/detalhe/decreto/37683-1949-268585), de 24 de Dezembro de 1949, mesmo na hipótese de na lista do anexo I ao presente decreto não se incluir qualquer processo de produção relativo a essas mercadorias, ou se incluir um processo de produção diferente daquele a que elas efectivamente foram submetidas.
 
 § 2.º As sugestões para alteração, nos termos do artigo 8.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), da lista de processos de produção mencionada no corpo do presente artigo devem ser enviadas ao organismo a que se refere o artigo 55.º do mesmo decreto-lei.
 
-###### Art. 14.º Para os fins da alínea c) do artigo 6.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232):
+Art. 14.º Para os fins da alínea c) do artigo 6.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232):
 
 a) Quaisquer matérias que satisfaçam às condições especificadas nas alíneas a) ou b) daquele artigo são consideradas como não contendo nenhum elemento importado do estrangeiro;
 
@@ -247,7 +264,7 @@ g) O valor estabelecido em conformidade com as disposições das alíneas c), d)
 
 ### CAPÍTULO IV — Da prova da origem
 
-###### Art. 15.º Para os efeitos indicados nós artigos 1.º e 2.º do presente decreto, a origem nacional das mercadorias será provada por certificados de origem.
+Art. 15.º Para os efeitos indicados nós artigos 1.º e 2.º do presente decreto, a origem nacional das mercadorias será provada por certificados de origem.
 
 § 1.º Será normalmente dispensada a apresentação de prova da origem nacional nos seguintes casos:
 
@@ -263,11 +280,11 @@ b) Remessas de natureza particular de valor não superior a 500$00, desde que as
 
 § 5.º Da faculdade consignada nos parágrafos anteriores podem ser excluídas pelo Governo mercadorias a designar, em relação a cada território e depois de ouvidas as entidades competentes desse território.
 
-###### Art. 16.º Os certificados de origem serão do modelo n.º 1 constante do anexo III.
+Art. 16.º Os certificados de origem serão do modelo n.º 1 constante do anexo III.
 
 § único. Sempre que o espaço do modelo do certificado de origem seja insuficiente para conter todos as indicações da expedição, podem utilizar-se folhas suplementares do modelo n.º 2 do anexo III.
 
-###### Art. 17.º A competência para a emissão de certificados de origem será atribuída, em cada um dos territórios nacionais, ao serviço público que para o efeito for designado no continente e ilhas adjacentes pelo Secretário de Estado do Comércio e nas províncias ultramarinas pelos respectivos governadores gerais ou governadores.
+Art. 17.º A competência para a emissão de certificados de origem será atribuída, em cada um dos territórios nacionais, ao serviço público que para o efeito for designado no continente e ilhas adjacentes pelo Secretário de Estado do Comércio e nas províncias ultramarinas pelos respectivos governadores gerais ou governadores.
 
 § 1.º Os serviços públicos assim designados poderão delegar a sua competência para emitir certificados de origem, mediante concordância das autoridades citadas no corpo deste artigo, em outros serviços públicos, em organismos de coordenação económica ou em outras entidades.
 
@@ -279,7 +296,7 @@ b) Remessas de natureza particular de valor não superior a 500$00, desde que as
 
 § 5.º As entidades habilitadas a emitir certificados de origem nos termos do presente artigo designarão os funcionários qualificados para assinar tais certificados e darão conhecimento das respectivas assinaturas ao organismo a que se refere o artigo 55.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232).
 
-###### Art. 18.º A emissão de certificados de origem far-se-á a pedido dos interessados, mediante apresentação de impressos próprios do modelo a que se refere o artigo 16.º, em original e número de cópias a fixar pela entidade emissora, todos devidamente preenchidos segundo as regras estabelecidas no artigo 19.º e acompanhados das pertinentes declarações de compromisso a que se refere o artigo 20.º e demais elementos probatórios.
+Art. 18.º A emissão de certificados de origem far-se-á a pedido dos interessados, mediante apresentação de impressos próprios do modelo a que se refere o artigo 16.º, em original e número de cópias a fixar pela entidade emissora, todos devidamente preenchidos segundo as regras estabelecidas no artigo 19.º e acompanhados das pertinentes declarações de compromisso a que se refere o artigo 20.º e demais elementos probatórios.
 
 § 1.º Dos exemplares referidos no corpo deste artigo:
 
@@ -293,7 +310,7 @@ c) Uma cópia, quando a entidade emissora tiver competência delegada nos termos
 
 § 3.º Os requerentes de certificados de origem indicarão às entidades emissoras os membros do seu pessoal que legalmente possam, para esse efeito, assinar em seu nome e a qualidade em que o podem fazer. Aquando dessa indicação, devem apresentar um exemplar das respectivas assinaturas, devidamente reconhecidas por notário, a fim de constar de ficheiro próprio daquelas entidades, formalidade esta que será dispensada nos subsequentes pedidos de emissão.
 
-###### Art. 19.º O preenchimento dos certificados deverá obedecer aos seguintes requisitos:
+Art. 19.º O preenchimento dos certificados deverá obedecer aos seguintes requisitos:
 
 a) Serem todos, original e cópias, assinados a tinta ou esferográfica e à mão, não sendo de admitir o uso de carimbos, chancelas ou similares;
 
@@ -315,7 +332,7 @@ i) Se à mercadoria se aplicar o critério da alínea c) do artigo 6.º do [Decr
 
 § único. No caso previsto na alínea c) do artigo 8.º o modelo do certificado de origem deve ser preenchido em relação à totalidade da mercadoria, devendo todavia conter o esclarecimento de que se trata de uma remessa ao abrigo do estabelecido nessa disposição.
 
-###### Art. 20.º As declarações de compromisso que, nos termos do artigo 19.º, deverão ser apresentadas pelo exportador às entidades emissoras, conjuntamente com os impressos de certificados de origem, aquando da formulação do pedido de emissão, consistem:
+Art. 20.º As declarações de compromisso que, nos termos do artigo 19.º, deverão ser apresentadas pelo exportador às entidades emissoras, conjuntamente com os impressos de certificados de origem, aquando da formulação do pedido de emissão, consistem:
 
 a) Quando o exportador for simultâneamente o último produtor, na declaração do tipo A, impressa no verso do modelo do certificado de origem;
 
@@ -335,13 +352,13 @@ b) Segundo os modelos n.os 2 ou 4, conforme se trate de produtor ou fornecedor, 
 
 § 3.º No caso de reexportação o certificado de origem emitido no território exportador pode, se isso for considerado suficiente pela entidade emissora do território reexportador, substituir a declaração de compromisso referida nos n.os 1) e 2) da alínea b) do corpo deste artigo.
 
-###### Art. 21.º A entidade com competência para emitir certificados de origem verificará se são satisfatórias as provas que lhe foram fornecidas, e, se for necessário, pedirá informações adicionais e procederá a qualquer verificação útil.
+Art. 21.º A entidade com competência para emitir certificados de origem verificará se são satisfatórias as provas que lhe foram fornecidas, e, se for necessário, pedirá informações adicionais e procederá a qualquer verificação útil.
 
 § 1.º Na impossibilidade de se conseguirem provas satisfatórias será recusada a emissão do respectivo certificado de origem.
 
 § 2.º Da decisão de recusa, nos termos do parágrafo anterior, poderá o interessado recorrer para o serviço público do respectivo território que tiver sido designado nos termos do disposto no corpo do artigo 17.º, ou, no caso de ser esse serviço público a entidade emissora, recorrer para a autoridade que tiver designado o serviço.
 
-###### Art. 22.º Independentemente dos normais registos de expediente, a emissão dos certificados de origem será sempre objecto de registo próprio, do qual deverão constar pelo menos os seguintes elementos:
+Art. 22.º Independentemente dos normais registos de expediente, a emissão dos certificados de origem será sempre objecto de registo próprio, do qual deverão constar pelo menos os seguintes elementos:
 
 a) Data e número de registo de entrada do pedido;
 
@@ -351,11 +368,11 @@ c) Descrição da mercadoria;
 
 d) Número do certificado e data da sua emissão.
 
-###### Art. 23.º Os exportadores, produtores e fornecedores de mercadorias deverão manter arquivada de acordo com as vulgares práticas comerciais, por um período mínimo de cinco anos, a contar da data da declaração de compromisso, toda a documentação relativa a provas de origem em que se tenha baseado a emissão de certificados de origem nacional.
+Art. 23.º Os exportadores, produtores e fornecedores de mercadorias deverão manter arquivada de acordo com as vulgares práticas comerciais, por um período mínimo de cinco anos, a contar da data da declaração de compromisso, toda a documentação relativa a provas de origem em que se tenha baseado a emissão de certificados de origem nacional.
 
 ### CAPÍTULO V — Da verificação da prova de origem
 
-###### Art. 24.º A estância aduaneira por onde correr o despacho de importação pode:
+Art. 24.º A estância aduaneira por onde correr o despacho de importação pode:
 
 a) Pedir ao importador os elementos informativos adicionais que considere necessários para confirmar que o certificado de origem apresentado corresponde efectivamente à mercadoria para a qual se pediram os benefícios da origem nacional;
 
@@ -363,13 +380,13 @@ b) Solicitar do serviço público, designado nos termos do corpo do artigo 17.º
 
 § único. Se a estância aduaneira por onde correr o despacho de importação não se der por satisfeita com as provas adicionais fornecidas nos termos do disposto na alínea b) deste artigo, apresentará o caso à autoridade que tiver designado o serviço público a que essa alínea se refere.
 
-###### Art. 25.º A estância aduaneira por onde correr o despacho de importação, salvo nos casos em que seja necessária a presença das mercadorias para ulteriores verificações, não impedirá o importador de receber as mercadorias apenas com o fundamento de ter pedido provas adicionais, mas pode exigir garantia do pagamento eventual de quaisquer direitos ou outros encargos que possam ser devidos.
+Art. 25.º A estância aduaneira por onde correr o despacho de importação, salvo nos casos em que seja necessária a presença das mercadorias para ulteriores verificações, não impedirá o importador de receber as mercadorias apenas com o fundamento de ter pedido provas adicionais, mas pode exigir garantia do pagamento eventual de quaisquer direitos ou outros encargos que possam ser devidos.
 
 ### CAPÍTULO VI — Disposição transitória
 
-###### Art. 26.º Para efeitos da determinação da origem nacional, as matérias armazenadas num território nacional até 30 de Junho de 1962 serão reputadas como inteiramente produzidas em território português, desde que seja provado que foram adquiridas num território nacional a um produtor de tais matérias.
+Art. 26.º Para efeitos da determinação da origem nacional, as matérias armazenadas num território nacional até 30 de Junho de 1962 serão reputadas como inteiramente produzidas em território português, desde que seja provado que foram adquiridas num território nacional a um produtor de tais matérias.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Março de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - António Manuel Pinto Barbosa - Adriano José Alves Moreira - José do Nascimento Ferreira Dias Júnior - João Augusto Dias Rosas.
 
@@ -479,11 +496,11 @@ i) Outras fibras vegetais.
 
 Lista de processos de produção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/03/07201/00020033.pdf))](https://files.diariodarepublica.pt/1s/1962/03/07201/00020033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/03/07201/00020033.pdf)
 
 ## Anexo II — Do Modelo n.º 1 ao Modelo n.º 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/03/07201/00020033.pdf))](https://files.diariodarepublica.pt/1s/1962/03/07201/00020033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/03/07201/00020033.pdf)
 
 ## Anexo III — Notas explicativas
 
@@ -499,7 +516,7 @@ Província de ... (nome da província) - no caso de se tratar de certificados de
 
 Modelo n.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/03/07201/00020033.pdf))](https://files.diariodarepublica.pt/1s/1962/03/07201/00020033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/03/07201/00020033.pdf)
 
 NOTAS
 
@@ -519,4 +536,4 @@ d) Se for abrangida pelo § 1.º do artigo 13.º do Decreto n.º 44260, de 31 de
 
 Modelo n.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/03/07201/00020033.pdf))](https://files.diariodarepublica.pt/1s/1962/03/07201/00020033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/03/07201/00020033.pdf)

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/asst/3/2000/02/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/assento/3-2000-402546
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-11T00:00:00Z'
+  retrieved_at: '2026-10-22T18:28:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e334a45a669756a1f45d43eb7e827e059e0fed220d2afb4856435278d583cec9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 978925767465598005f46df99e45c9b3a31d04ff50d6037056aa85454e14355c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:28:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Processo Penal
 - Código de Processo Penal
 - Interpretação do Direito
+- Processo Penal
 - Sanção Penal
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:393601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443290:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:28:24Z'
   warnings: []
   errors: []
 ---
@@ -317,7 +325,7 @@ Em harmonia com os ensinamentos dessa mesma doutrina, o Código de Processo Pena
 
 § único. Se o tribunal julgar, por decisão com trânsito em julgado, que não há prova bastante de qualquer elemento da infracção, não poderá prosseguir o processo penal com a mesma prova contra qualquer arguido.
 
-###### Artigo 149.º [caso julgado absolutório pessoal]. - Quando, por acórdão, sentença ou despacho com trânsito em julgado, se tenha decidido que um arguido não praticou certos factos, que por eles não é responsável ou que a respectiva acção penal se extinguiu, não poderá contra ele propor-se nova acção penal por infracção constituída, no todo ou em parte, por esses factos, ainda que se lhe atribua comparticipação de diversa natureza.'
+Artigo 149.º [caso julgado absolutório pessoal]. - Quando, por acórdão, sentença ou despacho com trânsito em julgado, se tenha decidido que um arguido não praticou certos factos, que por eles não é responsável ou que a respectiva acção penal se extinguiu, não poderá contra ele propor-se nova acção penal por infracção constituída, no todo ou em parte, por esses factos, ainda que se lhe atribua comparticipação de diversa natureza.'
 
 Note-se que, em relação a este artigo, veio a ser proferido, em 9 de Novembro de 1977, um assento do Supremo Tribunal de Justiça, publicado no Diário da República de 27 de Dezembro do mesmo ano, em que se fixou a doutrina de que:
 
@@ -325,13 +333,13 @@ Note-se que, em relação a este artigo, veio a ser proferido, em 9 de Novembro 
 
 'Artigo 150.º [absolvição por falta de provas]. - Se um tribunal absolver um réu por falta de provas, não poderá contra ele propor-se nova acção penal por infracção, constituída no todo ou em parte pelos mesmos factos por que respondeu, ainda que se lhe atribua comparticipação de diversa natureza.
 
-###### Artigo 151.º [abstenção de acusar e despronúncia]. - Se um arguido não tiver sido pronunciado ou for despronunciado por decisão com trânsito em julgado, por falta de provas, ou se, em relação a ele e pelo mesmo motivo, tiver sido proferida decisão com trânsito em julgado, equivalente à da não pronúncia, não poderá contra ele prosseguir o processo com a mesma prova.
+Artigo 151.º [abstenção de acusar e despronúncia]. - Se um arguido não tiver sido pronunciado ou for despronunciado por decisão com trânsito em julgado, por falta de provas, ou se, em relação a ele e pelo mesmo motivo, tiver sido proferida decisão com trânsito em julgado, equivalente à da não pronúncia, não poderá contra ele prosseguir o processo com a mesma prova.
 
-###### Artigo 152.º [caso julgado sobre questão prejudicial não penal]. - No caso previsto no artigo 3.º deste Código [existência de questão prejudicial não penal que imponha a suspensão do processo penal] a decisão proferida pelo respectivo tribunal constituirá caso julgado relativamente à questão que nele tenha sido julgada definitivamente, para a acção penal que dessa decisão ficou dependente.
+Artigo 152.º [caso julgado sobre questão prejudicial não penal]. - No caso previsto no artigo 3.º deste Código [existência de questão prejudicial não penal que imponha a suspensão do processo penal] a decisão proferida pelo respectivo tribunal constituirá caso julgado relativamente à questão que nele tenha sido julgada definitivamente, para a acção penal que dessa decisão ficou dependente.
 
-###### Artigo 153.º [efeitos do caso julgado penal condenatório]. - A condenação definitiva proferida na acção penal constituirá caso julgado, quanto à existência e qualificação do facto punível e quanto à determinação dos seus agentes, mesmo nas acções não penais em que se discutam direitos que dependam da existência da infracção.
+Artigo 153.º [efeitos do caso julgado penal condenatório]. - A condenação definitiva proferida na acção penal constituirá caso julgado, quanto à existência e qualificação do facto punível e quanto à determinação dos seus agentes, mesmo nas acções não penais em que se discutam direitos que dependam da existência da infracção.
 
-###### Artigo 154.º [efeitos da sentença penal absolutória em acção não penal]. - A sentença absolutória, proferida em matéria penal e com trânsito em julgado, constituirá nas acções não penais simples presunção legal da inexistência dos factos que constituem a infracção, ou de que os arguidos a não praticaram, conforme o que se tenha julgado, presunção que pode ser ilidida por prova em contrário.'
+Artigo 154.º [efeitos da sentença penal absolutória em acção não penal]. - A sentença absolutória, proferida em matéria penal e com trânsito em julgado, constituirá nas acções não penais simples presunção legal da inexistência dos factos que constituem a infracção, ou de que os arguidos a não praticaram, conforme o que se tenha julgado, presunção que pode ser ilidida por prova em contrário.'
 
 A simples indicação dos princípios expressos e que vieram a ser traduzidos pela sua inclusão no anterior Código mostra de forma suficientemente clara que existem diferenças fundamentais entre a aplicação das regras que tradicionalmente se consideram como respeitantes à figura do caso julgado penal e as que se aplicam ao direito civil.
 

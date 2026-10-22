@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/26/2009/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/26-2009-602068
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-13T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 881700709354d606d2d50edcf37dda9dca5c48d7c1615848d5af48aad66f51eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d90e0056bff59e40bffc6315ac8076687367a4c31d713b6c63b5fba202995ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assembleia Legislativa
 - Financiamento
 - Inconstitucionalidade
 - Interpretação do Direito
-- Assembleia Legislativa
+- Madeira.região Autónoma
 - Orgânica
 - Partido Político
-- Madeira.região Autónoma
 - Subsídio
 relationships:
 - type: cites
@@ -116,16 +116,88 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/2/2003/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2003/08/22/p/dre
+- type: cites
+  target: pt:dre:139770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651724:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692850:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:48Z'
   warnings: []
   errors: []
 ---
@@ -180,7 +252,9 @@ a) 4 x 14 I. A. S. (indexante de apoios sociais/mês/número de deputados).
 
 11 - As contas relativas à subvenção referida no n.º 1 são entregues pelos grupos parlamentares às respectivas direcções regionais dos partidos a fim de serem anexas às que a estrutura regional elabora, para integrarem as contas nacionais a apresentar, anualmente, ao Tribunal Constitucional.
 
-###### Artigo 47.º — Subvenção aos partidos
+Artigo 47.º
+
+Subvenção aos partidos
 
 1 - É atribuída uma subvenção anual aos partidos com representação parlamentar na Assembleia Legislativa da Madeira, calculada nos seguintes termos:
 
@@ -452,7 +526,9 @@ Sufrágio universal e partidos políticos
 
 2 - Os partidos políticos concorrem para a organização e para a expressão da vontade popular, no respeito pelos princípios da independência nacional, da unidade do Estado e da democracia política.
 
-###### Artigo 51.º — Associações e partidos políticos
+Artigo 51.º
+
+Associações e partidos políticos
 
 1 - ...
 

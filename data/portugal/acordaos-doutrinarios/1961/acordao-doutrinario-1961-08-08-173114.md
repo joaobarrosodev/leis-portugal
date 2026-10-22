@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-doutrinario/1961-173114
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-08-08T00:00:00Z'
+  retrieved_at: '2026-10-22T17:51:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 796b34a291063f403ec10632a59b76d0f1a5aba67be7826f788998f4b1d9cf16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 294eb16e20b484204494e4800fe6a44c06ed8a25d286e1042fdc1556d627a4e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:51:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:504761:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:51:49Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +134,7 @@ Todavia, desta conclusão discordou o tribunal da 2.ª instância, no seu Acórd
 
 Esta flagrante instabilidade de jurisprudência, a que se pretende pôr cobro, com vista à sua uniformização, suscitou-se à volta do artigo 25.º e seu § único do [Decreto n.º 20431](https://diariodarepublica.pt/dr/detalhe/decreto/20431-1931-504761), que se acham assim redigidos:
 
-###### Art. 25.º O pai, mãe, tutor ou outra pessoa encarregada da guarda de menores que tiverem dado causa ou não tiverem impedido, podendo fazê-lo, que eles se tornem delinquentes, alcoólicos, libertinos, ou por outra forma viciosos, ou que por alguma forma tenham contribuído para a desmoralização, perversão ou desamparo dos mesmos menores, incorrerão na pena de prisão correccional até um ano e multa correspondente se tiverem procedido com intenção, ou só em multa até 1000$00 se tiverem procedido com simples negligência.
+Art. 25.º O pai, mãe, tutor ou outra pessoa encarregada da guarda de menores que tiverem dado causa ou não tiverem impedido, podendo fazê-lo, que eles se tornem delinquentes, alcoólicos, libertinos, ou por outra forma viciosos, ou que por alguma forma tenham contribuído para a desmoralização, perversão ou desamparo dos mesmos menores, incorrerão na pena de prisão correccional até um ano e multa correspondente se tiverem procedido com intenção, ou só em multa até 1000$00 se tiverem procedido com simples negligência.
 
 § único. Será aplicada a pena de prisão correccional até seis meses a quaisquer outras pessoas que intencionalmente praticarem os factos a que este artigo se refere.
 

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/55/2009/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/55-2009-493054
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-23T00:00:00Z'
+  retrieved_at: '2026-10-22T19:11:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 303abe567365a0756344e868ea5932d2e6efe7a697d37d90ee989aa5da257a52
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e304c2f1a2c1c0e2497e8f0b5c28f2d94fe45cf3335545225022c8ba651df1f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:11:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Publicidade
+- Base de Dados
 - Consumidor
 - Contra-ordenação
 - Contrato
+- Crédito
 - Crédito ao Consumo
 - Fiscalização
-- Base de Dados
-- Crédito
 - Informação do Consumidor
-- Proteção do Consumidor
-- Reembolso
 - Mediador
+- Proteção do Consumidor
+- Publicidade
+- Reembolso
 - Taxa
 - TAXA Anual de Encargos Efectiva Global
 relationships:
@@ -87,6 +87,20 @@ relationships:
   target: pt:dre:107561581:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:276440:por
+  label: "Dada nova redação, a partir de 01.07.2013, aos arts. 5º, 6º, 8º, 30º e 31º, e aos anexos II e III do Dec Lei 133/2009\
+    \ de 02-jun, retificado pelo presente diploma, pelo DEC LEI.42-A/2013.28.03.2013.MEE, DR.IS [62-3º Supl] de 28.03.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-a-2013-276440
+  date: '2013-03-28'
+- type: amended_by
+  target: pt:dre:107561581:por
+  label: Alterado, a partir de 01.01.2018, o art.º 30º do Dec Lei 133/2009 de 02-jun, retificado pela presente declaração,
+    pelo(a) Decreto-Lei n.º 74-A/2017 - Diário da República n.º 120/2017, 1º Suplemento, Série I de 2017-06-23, e nos termos
+    do disposto no seu art. 47.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-a-2017-107561581
+  date: '2017-06-23'
 - type: cites
   target: celex:32005L0029
   label: null
@@ -102,13 +116,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:11:43Z'
   warnings: []
   errors: []
 ---
@@ -213,11 +227,11 @@ deve ler-se:
 
 15 - No anexo ii, na 3.ª linha do n.º 4, «Outros aspectos jurídicos importantes», onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/07/14700/0495504957.pdf))](https://files.diariodarepublica.pt/1s/2009/07/14700/0495504957.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/07/14700/0495504957.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/07/14700/0495504957.pdf))](https://files.diariodarepublica.pt/1s/2009/07/14700/0495504957.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/07/14700/0495504957.pdf)
 
 16 - Na epígrafe do anexo iii, onde se lê «Informação normalizada europeia em matéria de crédito a consumidores relativa a descobertos, crédito a consumidores concedido por certas organizações de crédito e conversão de dívidas.» deve ler-se «Informação normalizada europeia em matéria de crédito a consumidores relativa a descobertos e conversão de dívidas.».
 
@@ -231,18 +245,18 @@ deve ler-se:
 
 18 - No anexo iii, na 1.ª e 2.ª linhas do n.º 5, onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/07/14700/0495504957.pdf))](https://files.diariodarepublica.pt/1s/2009/07/14700/0495504957.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/07/14700/0495504957.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/07/14700/0495504957.pdf))](https://files.diariodarepublica.pt/1s/2009/07/14700/0495504957.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/07/14700/0495504957.pdf)
 
 19 - No anexo iii, na 4.ª linha do n.º 5, onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/07/14700/0495504957.pdf))](https://files.diariodarepublica.pt/1s/2009/07/14700/0495504957.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/07/14700/0495504957.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/07/14700/0495504957.pdf))](https://files.diariodarepublica.pt/1s/2009/07/14700/0495504957.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/07/14700/0495504957.pdf)
 
 Centro Jurídico, 30 de Julho de 2009. - O Director-Adjunto, Pedro Delgado Alves.

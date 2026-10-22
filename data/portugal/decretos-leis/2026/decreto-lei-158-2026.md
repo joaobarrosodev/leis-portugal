@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/158/2026/08/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2026-1154275215
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-04T00:00:00Z'
+  retrieved_at: '2026-10-22T18:49:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 577d331dfca91a525e00cba7a743127225a423620404902b4cd9ce3cc06d5698
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c73d5ee4038770e75ffb681edce29d2a4851fe04a6a5d5dfaeb00083ecf81cf1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:49:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Indemnização
-- LOBO
-- Instituto da Conservação da Natureza e das Florestas
 - Espécie Protegida
+- Indemnização
+- Instituto da Conservação da Natureza e das Florestas
+- LOBO
 - Prejuízo Financeiro
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:54/2016
+  label: Altera, a partir de 5 de agosto de 2026, os artigos 8.º, 9.º e 10.º e revoga o n.º 4 do artigo 10.º e a alínea a)
+    do n.º 1 do artigo 11.º do Decreto-Lei n.º 54/2016, de 25 de agosto, Diário da República n.º 163/2016, Série I
+  source: null
+  date: '2016-08-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/122/2025/11/19/p/dre
   label: null
@@ -87,16 +93,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/64/2025/04/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/64/2025/04/10/p/dre
+- type: cites
+  target: pt:dre:187413389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75195061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:914597186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:947168580:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:49:05Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +149,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto-lei procede à quarta alteração ao [Decreto-Lei n.º 54/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2016-75195061), de 25 de agosto, alterado pelos Decretos-Leis n.<sup>os</sup>[53/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2022-187413389), de 12 de agosto, [64/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), de 10 de abril, e [122/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2025-947168580), de 19 de novembro, que aprova a revisão do regime jurídico da conservação do lobo-ibérico.
+O presente decreto-lei procede à quarta alteração ao [Decreto-Lei n.º 54/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2016-75195061), de 25 de agosto, alterado pelos Decretos-Leis n.os[53/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2022-187413389), de 12 de agosto, [64/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), de 10 de abril, e [122/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2025-947168580), de 19 de novembro, que aprova a revisão do regime jurídico da conservação do lobo-ibérico.
 
 ###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 54/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2016-75195061), de 25 de agosto
 
@@ -139,7 +165,9 @@ Os artigos 8.º a 10.º do [Decreto-Lei n.º 54/2016](https://diariodarepublica.
 
 3 - Quando de um ataque de lobo-ibérico resultar o desaparecimento de animais, os danos causados, atribuíveis diretamente ao lobo-ibérico, devem ser considerados para efeitos de indemnização.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -167,7 +195,9 @@ i) Caso o animal atacado permaneça desaparecido à data da vistoria, a análise
 
 4 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -201,11 +231,11 @@ c) [...]
 
 11 - Nos casos referidos no n.º 3 do artigo 8.º, em caso de aparecimento do animal atacado ou do respetivo cadáver, este facto deve ser comunicado até sete dias seguidos após a participação a que se refere o n.º 1 do artigo 8.º
 
-12 - Nos casos referidos no número anterior, a indemnização a atribuir é a constante do n.º 2, sem prejuízo do disposto nos n.<sup>os</sup>5 e 8.
+12 - Nos casos referidos no número anterior, a indemnização a atribuir é a constante do n.º 2, sem prejuízo do disposto nos n.os5 e 8.
 
 13 - Caso o animal não apareça no prazo de sete dias seguidos após a participação a que se refere o n.º 1 do artigo 8.º, a indemnização a que se refere o número anterior é reduzida em 50 %.
 
-14 - Caso o animal objeto do dano tenha idade inferior a um mês, o valor da indemnização previsto nos termos do n.º 2, corresponde a 50 % do valor previsto para a classe de idade cujo limite mínimo seja um mês, sem prejuízo do disposto nos n.<sup>os</sup>5 e 8.»
+14 - Caso o animal objeto do dano tenha idade inferior a um mês, o valor da indemnização previsto nos termos do n.º 2, corresponde a 50 % do valor previsto para a classe de idade cujo limite mínimo seja um mês, sem prejuízo do disposto nos n.os5 e 8.»
 
 ###### Artigo 3.º — Norma revogatória
 
@@ -217,12 +247,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de junho de 2026. - Paulo Artur dos Santos de Castro de Campos Rangel - Maria da Graça Carvalho - Salvador Malheiro Ferreira da Silva.
 
-**Promulgado em 27 de julho de 2026.**
+Promulgado em 27 de julho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 28 de julho de 2026.**
+Referendado em 28 de julho de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119949240

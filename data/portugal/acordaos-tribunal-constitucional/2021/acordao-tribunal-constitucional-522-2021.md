@@ -29,7 +29,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/10/19300/0000700038.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/522/2021/10/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/522-2021-172266453
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-10-04T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d344ce65ec7702d9c3efc1d4b9701f43450d84d21fdf03ec86227fee1bfe2959
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 835c32f10eb70875adec5c2b435975cca7d6cc6ca571231153d7eaf3dfc42165
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,14 +70,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Associação
 - Casa do Douro
-- Região Demarcada
 - Inconstitucionalidade
 - Instituto dos Vinhos do Douro e do Porto
 - Interpretação do Direito
-- Tribunal Constitucional
+- Região Demarcada
 - Região Demarcada do Douro
-- Associação
+- Tribunal Constitucional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/152/2014/10/15/p/dre
@@ -119,16 +119,112 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/1
   label: null
   source: http://data.dre.pt/eli/resolconsmin/1
+- type: cites
+  target: pt:dre:117279933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124346824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140431170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148599584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58325220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65949855:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:14Z'
   warnings: []
   errors: []
 ---
@@ -261,7 +357,9 @@ Objeto
 
 A presente lei procede à reinstitucionalização da Casa do Douro enquanto associação pública e inscrição obrigatória, procede à aprovação dos estatutos da Casa do Douro e determina a entrega a esta entidade do imóvel que é a sua sede e propriedade conjunta de todos os viticultores da Região Demarcada do Douro, sito na Rua dos Camilos, Peso da Régua.
 
-###### Artigo 7.º — Estatutos
+Artigo 7.º
+
+Estatutos
 
 São aprovados os Estatutos da Casa do Douro, em anexo à presente lei e que dela fazem parte integrante».
 
@@ -277,7 +375,9 @@ Natureza, fins e sede
 
 3 - Casa do Douro tem a sua sede em Peso da Régua.
 
-###### Artigo 3.º — Atribuições específicas
+Artigo 3.º
+
+Atribuições específicas
 
 Na Região Demarcada do Douro, cabem à Casa do Douro, nomeadamente, as seguintes atribuições:
 
@@ -311,7 +411,9 @@ n) Manter um stock histórico mínimo de vinhos a determinar por portaria do mem
 
 o) Exercer quaisquer outras funções públicas que, de harmonia com a lei e a sua natureza, lhe caibam.
 
-###### Artigo 4.º — Qualidade de associado
+Artigo 4.º
+
+Qualidade de associado
 
 1 - São associados singulares da Casa do Douro todos os viticultores legalmente reconhecidos pelo Estado através do Instituto dos Vinhos do Douro e Porto, I. P.
 
@@ -738,3 +840,5 @@ Por fim, não obstante a Casa de Douro poder atuar nas relações com terceiros 
 Através destas normas, o Estado reconhece a existência de interesses públicos que não são de toda a coletividade, mas apenas dos viticultores da região demarcada do Douro, procurado que a sua realização seja entregue a um órgão representativos dos mesmos. Fá-lo em nome da vertente participativa do princípio democrático, sem esquecer a vertente representativa expressa na imperatividade de algumas daquelas normas. Não se trata de colocar os viticultores da região demarcada do Douro numa situação de «privilégio» em detrimento do interesse nacional, mas do reconhecimento estadual de que os principais interessados na produção do vinho do Porto devem participar nas tarefas públicas que lhe dizem principalmente respeito.
 
 Conclui-se, pois, que não existe qualquer desconformidade com o n.º 4 do artigo 267.º da CRP. Lino José Rodrigues
+
+114566355

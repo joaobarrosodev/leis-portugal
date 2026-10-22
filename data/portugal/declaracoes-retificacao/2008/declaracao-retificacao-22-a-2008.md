@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 81/2008, 1º Suplemento, Série I de 2008-04-24
   number: '81'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2414-(2) a 2414-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/04/08101/0000200002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/22-a/2008/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-a-2008-249529
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-09T00:00:00Z'
+  retrieved_at: '2026-10-22T19:09:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 562298668de3d019c818bd1ed5ebd91a819491caf25a8776c26c209774f4d046
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db1bc5e5d3f4aaf17ddf417db6893f02753c9cbbb4eb99815a53626e2f900a21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:09:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,74 +67,89 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acumulação de Funções
-- Função Pública
-- Regime do Contrato de Trabalho em Funções Públicas
+- Administração Local
+- Administração Pública
+- Avaliação de Conhecimentos
+- Avaliação do Pessoal
 - Carreira Geral de Assistente Operacional
 - Carreira Geral de Assistente Técnico
 - Carreira Técnica Superior
-- Formação Profissional
-- Pessoal Dirigente
+- Cedência de Interesse Público
 - Comissão de Serviço
 - Concurso
+- Contratação Pública
 - Contrato Administrativo
 - Contrato de Prestação de Serviços
+- Contrato de Trabalho
 - Contrato Individual de Trabalho
 - Curso de Estudos Avançados em Gestão Pública
+- Descrição de Funções
 - Despedimento
 - Destacamento de Pessoal
 - Direcção Geral da Administração e do Emprego Público
-- Administração Pública
-- Processo Disciplinar
-- INA
-- Recrutamento de Pessoal
-- Habilitações Literárias
-- Incompatibilidades
-- Publicitação
-- Nomeação
-- Descrição de Funções
-- Período Experimental
-- Prémio de Desempenho
-- Qualificação Profissional
 - Estágio de Formação
-- Progressão na Carreira
-- Promoção Profissional
-- Avaliação de Conhecimentos
-- Quadro de Pessoal
-- Reclassificação de Pessoal
-- Proteção Social
-- Reestruturação de Carreiras
-- Administração Local
-- Regime de Exclusividade
-- Contrato de Trabalho
-- Requisição de Pessoal
-- Cedência de Interesse Público
-- Mobilidade de Pessoal
-- Avaliação do Pessoal
+- Formação Profissional
+- Função Pública
 - Funcionário Público
 - Gestão de Recursos Humanos
+- Habilitações Literárias
+- INA
+- Incompatibilidades
+- Mobilidade de Pessoal
+- Nomeação
+- Período Experimental
+- Pessoal Dirigente
+- Prémio de Desempenho
+- Processo Disciplinar
+- Progressão na Carreira
+- Promoção Profissional
+- Proteção Social
+- Publicitação
+- Quadro de Pessoal
+- Qualificação Profissional
+- Reclassificação de Pessoal
+- Recrutamento de Pessoal
+- Reestruturação de Carreiras
+- Regime de Exclusividade
+- Regime do Contrato de Trabalho em Funções Públicas
+- Requisição de Pessoal
 - Subsídio de Refeição
 - Substituição de Cargos
 - Trabalhador com Contrato de Trabalho em Funções Públicas
-- Contratação Pública
 relationships:
 - type: amended_by
   target: pt:dre:3311652:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Alterado o art. 53º da Lei 12-A/2008, de 27-Fev, rectificado pela presente declaração, pela LEI.55-A/2010.31.12.2010.AR,\
+    \ DR.IS [253-Supl] de 31.12.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/12-a/2008/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/12-a/2008/02/27/p/dre
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:lei:12-A/2008
+  label: "Rectifica a Lei n.º 12-A/2008, de 27 de Fevereiro, DR.IS [41]Supl \0\0"
+  source: null
+  date: '2008-02-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:09:46Z'
   warnings: []
   errors: []
 ---

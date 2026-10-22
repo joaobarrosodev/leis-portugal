@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43318-1960-514232
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-07-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:20:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02fe8d461a0d5b8cb0134cd4b23ec38c914e7f5288137dfab4e8eda5f316d225
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bdb8e5af7681a962ce6f6724de4fd86ecab2b959b8e871a2f8a728c1276012ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:20:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,20 @@ relationships:
   target: pt:dre:163822:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:20:57Z'
   warnings: []
   errors: []
 ---
@@ -96,10 +100,10 @@ Tendo em Vista o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Comissão Administrativa do Plano de Obras da Cidade Universitária de Coimbra a celebrar contrato com Felismino Martins Simões para a execução da empreitada de terraplenagens e muro de suporte dos terrenos da futura Faculdade de Ciências (secções de Matemática, Física e Química), da Cidade Universitária de Coimbra, pela importância de 1161261$20.
+Artigo 1.º É autorizada a Comissão Administrativa do Plano de Obras da Cidade Universitária de Coimbra a celebrar contrato com Felismino Martins Simões para a execução da empreitada de terraplenagens e muro de suporte dos terrenos da futura Faculdade de Ciências (secções de Matemática, Física e Química), da Cidade Universitária de Coimbra, pela importância de 1161261$20.
 
-###### Art. 2.º Seja qual for o valor das obras a realizar, não poderá a Comissão Administrativa do Plano de Obras da Cidade Universitária de Coimbra despender com pagamentos relativos aos trabalhos executados, por virtude do contrato, mais de 361261$20 no corrente ano e 800000$00, ou o que se apurar como saldo, no ano de 1961.
+Art. 2.º Seja qual for o valor das obras a realizar, não poderá a Comissão Administrativa do Plano de Obras da Cidade Universitária de Coimbra despender com pagamentos relativos aos trabalhos executados, por virtude do contrato, mais de 361261$20 no corrente ano e 800000$00, ou o que se apurar como saldo, no ano de 1961.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Novembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Eduardo de Arantes e Oliveira.

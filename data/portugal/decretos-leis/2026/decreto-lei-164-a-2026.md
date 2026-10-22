@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/164-a/2026/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-12T00:00:00Z'
+  retrieved_at: '2026-10-22T18:49:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d5695fbb564e9ec3d1313e1b6da21ab4229ddaeff468273da8472558e93d1bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a328fa7d3b5bdeb323fb902069e76ff4c0daef995c7fa7a97fc66cf8f976ad2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:49:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Desenvolvimento Cultural
-- Ministério da Cultura
-- Direcção Geral das Artes
 - Cultura
+- Desenvolvimento Cultural
+- Direcção Geral das Artes
+- Financiamento
+- Ministério da Cultura
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:103/2017
+  label: Altera, a partir de 13 de agosto de 2026, nos termos do artigo 4.º do presente diploma, os artigos 1.º, 2.º, 4.º,
+    5.º, 6.º, 8.º, 9.º, 10.º, 12.º, 12.º-A, 13.º, 15.º, 16.º, 18.º, 21.º e 26.º, adita os artigos 9.º-B, 12.º-B, 12.º-C e
+    15.º-A e revoga a alínea c) do n.º 1 do artigo 8.º e as alíneas a) e b) do n.º 7 do artigo 10.º do Decreto-Lei n.º 103/2017,
+    de 24 de agosto, Diário da República n.º 163/2017, Série I e procede à sua republicação
+  source: null
+  date: '2017-08-24'
 - type: cites
   target: celex:32014R0910
   label: null
@@ -116,16 +124,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/89/2020/10/23/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/89/2020/10/23/p/dre
+- type: cites
+  target: pt:dre:108051992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1095309095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122747583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146240981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163092608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164955305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221691579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836437683:por
+  label: null
+  source: null
 article_structure:
-  article_count: 63
+  article_count: 45
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:49:54Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +232,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto-lei procede à quarta alteração ao [Decreto-Lei n.º 103/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), de 24 de agosto, alterado pelos Decretos-Leis n.<sup>os</sup>[84/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), de 28 de junho, [47/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), de 11 de junho, e [81/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2023-221691579), de 15 de setembro, que estabelece o regime de atribuição de apoios financeiros do Estado às artes visuais e performativas.
+O presente decreto-lei procede à quarta alteração ao [Decreto-Lei n.º 103/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), de 24 de agosto, alterado pelos Decretos-Leis n.os[84/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), de 28 de junho, [47/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), de 11 de junho, e [81/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2023-221691579), de 15 de setembro, que estabelece o regime de atribuição de apoios financeiros do Estado às artes visuais e performativas.
 
 ###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 103/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), de 24 de agosto
 
@@ -196,7 +260,9 @@ f) As artes digitais.
 
 3 - [...]
 
-###### Artigo 2.º — Entidades candidatas e critérios de elegibilidade
+Artigo 2.º
+
+Entidades candidatas e critérios de elegibilidade
 
 1 - [...]
 
@@ -222,7 +288,9 @@ ii) Pela demonstração do historial no exercício de funções ou atividades da
 
 7 - São ainda elegíveis os projetos aprovados no âmbito do Programa da Europa Criativa, ou outro programa de apoio à cultura que lhe suceda, nos termos da alínea a) do n.º 2 do artigo 11.º
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -246,7 +314,9 @@ f) Apoio à Ação Cultural Externa.
 
 5 - [Anterior n.º 3.]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -254,7 +324,9 @@ f) Apoio à Ação Cultural Externa.
 
 3 - Nos programas de apoio podem ser previstas majorações específicas para as regiões autónomas, destinadas a compensar os custos acrescidos decorrentes da insularidade e da descontinuidade territorial, nos termos a definir na portaria referida no n.º 1 do artigo 24.º
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 [...]
 
@@ -276,7 +348,9 @@ h) [...]
 
 i) Arquivo.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A DGARTES publica anualmente, até ao máximo de 10 dias a contar da data de entrada em vigor da Lei do Orçamento do Estado, no seu sítio na Internet, uma declaração homologada pelo membro do Governo responsável pela área da cultura que define, com base nos objetivos, nas diversas necessidades de financiamento e nos recursos financeiros disponíveis:
 
@@ -290,7 +364,9 @@ d) O limite financeiro anual de cumulação de apoios, por entidade beneficiári
 
 2 - A informação sobre a declaração anual deve ser também disponibilizada no portal gov.pt, com uma hiperligação para o sítio na Internet da DGARTES.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -322,7 +398,9 @@ k) A metodologia de aplicação dos critérios de apreciação, incluindo, desig
 
 4 - A informação sobre a abertura dos programas de apoio deve ser também disponibilizada no portal gov.pt. com uma hiperligação para o sítio na Internet da DGARTES.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -356,7 +434,9 @@ e) Percentagem mínima de receitas não provenientes do apoio solicitado.
 
 11 - O fator de atualização referido no número anterior corresponde à variação homóloga do índice de preços no consumidor, apurada pelo INE, I. P., para o mês de setembro do ano anterior, até ao limite de 2 %, sendo o montante do apoio resultante da respetiva aplicação arredondado ao euro.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -368,13 +448,17 @@ e) Percentagem mínima de receitas não provenientes do apoio solicitado.
 
 5 - [...]
 
-###### Artigo 12.º-A — [...]
+Artigo 12.º-A
+
+[...]
 
 1 - O apoio no âmbito da RPAC, nas áreas das artes visuais e de cruzamento disciplinar, visa fomentar a criação, produção, difusão e fruição pública da arte contemporânea, bem como contribuir para a divulgação dos espaços de arte existentes em todo o País.
 
 2 - [...]
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -406,7 +490,9 @@ e) Acordo de cooperação internacional, no quadro da ação cultural externa do
 
 10 - [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - No concurso, a apreciação das candidaturas é efetuada por comissões, nomeadas pelo membro do Governo responsável pela área da cultura sob proposta fundamentada da DGARTES, previamente apreciadas em reunião da Secção Especializada das Artes do Conselho Nacional de Cultura, compostas por consultores ou especialistas nas áreas artísticas e nas áreas de gestão financeira ou cultural, e por um técnico da DGARTES, que coordena.
 
@@ -418,7 +504,9 @@ e) Acordo de cooperação internacional, no quadro da ação cultural externa do
 
 5 - [Anterior n.º 4.]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -446,7 +534,9 @@ i) Termos aplicáveis à divulgação e comunicação das atividades constantes 
 
 4 - [...]
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -458,13 +548,17 @@ i) Termos aplicáveis à divulgação e comunicação das atividades constantes 
 
 5 - Às comissões de acompanhamento é aplicável o disposto no n.º 2 do artigo 15.º, com as necessárias adaptações.
 
-###### Artigo 21.º — Acompanhamento e auditoria
+Artigo 21.º
+
+Acompanhamento e auditoria
 
 1 - A DGARTES controla a execução física e financeira dos projetos e dos planos de atividades, através da validação do quadro de evidências definido contratualmente.
 
 2 - A DGARTES pode ainda solicitar a realização de auditorias à execução dos contratos, a entidades com competência legal para o efeito, bem como a intervenção da Inspeção-Geral das Atividades Culturais, sempre que justificável.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - As mesmas atividades e projetos não podem beneficiar de mais do que um apoio previsto no presente decreto-lei no mesmo domínio de atividade a que se refere o artigo 6.º
 
@@ -486,7 +580,9 @@ Princípios aplicáveis aos procedimentos de atribuição de apoios
 
 2 - Sem prejuízo da aplicação das garantias de imparcialidade previstas no Código do Procedimento Administrativo, a DGARTES deve adotar as medidas adequadas a identificar, impedir e fazer cessar os conflitos de interesses que surjam na condução dos procedimentos de apoio.
 
-###### Artigo 12.º-B — Programa de apoio a novos criadores e primeiras obras
+Artigo 12.º-B
+
+Programa de apoio a novos criadores e primeiras obras
 
 1 - O apoio a novos criadores e a primeiras obras tem como finalidade proporcionar e incentivar a entrada no setor artístico profissional ou o início de um percurso ou projeto profissional na área artística.
 
@@ -504,7 +600,9 @@ a) As pessoas singulares que integrem órgãos de direção artística de entida
 
 b) As pessoas singulares que tenham projetos artísticos já apoiados no âmbito dos programas de apoio da DGARTES.
 
-###### Artigo 12.º-C — Apoio à Ação Cultural Externa
+Artigo 12.º-C
+
+Apoio à Ação Cultural Externa
 
 1 - O apoio à Ação Cultural Externa tem como finalidade a promoção e a difusão das artes através da cooperação multilateral, da circulação internacional de bens culturais, do intercâmbio cultural através da participação em redes e plataformas internacionais, da mobilidade transnacional dos agentes culturais e dos diálogos com outras culturas.
 
@@ -518,7 +616,9 @@ b) Apoio a projetos artísticos desenvolvidos por artistas ou entidades estabele
 
 4 - As condições de elegibilidade, critérios de apreciação e formas de operacionalização dos apoios previstos no presente artigo são definidos no regulamento previsto no n.º 1 do artigo 24.º
 
-###### Artigo 15.º-A — Comissão de renovação
+Artigo 15.º-A
+
+Comissão de renovação
 
 1 - Na renovação referida no n.º 8 do artigo 10.º, a apreciação dos pedidos de renovação é efetuada por uma comissão, constituída nos termos do n.º 1 do artigo anterior com as necessárias adaptações.
 
@@ -528,7 +628,7 @@ b) Apoio a projetos artísticos desenvolvidos por artistas ou entidades estabele
 
 4 - A proposta de decisão da comissão de renovação é homologada por despacho do diretor-geral da DGARTES e publicitada no sítio na Internet da DGARTES.
 
-5 - À comissão de renovação é aplicável o disposto nos n.<sup>os</sup>2 e 3 do artigo 15.º e no artigo 19.º, com as necessárias adaptações.»
+5 - À comissão de renovação é aplicável o disposto nos n.os2 e 3 do artigo 15.º e no artigo 19.º, com as necessárias adaptações.»
 
 ###### Artigo 4.º — Norma transitória
 
@@ -554,15 +654,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de julho de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Manuel Castro Almeida - Margarida Balseiro Lopes.
 
-**Promulgado em 12 de agosto de 2026.**
+Promulgado em 12 de agosto de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 12 de agosto de 2026.**
+Referendado em 12 de agosto de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
@@ -876,7 +976,7 @@ e) Acordo de cooperação internacional, no quadro da ação cultural externa do
 
 8 - Na submissão de candidaturas devem ser utilizados mecanismos de autenticação segura, incluindo os do cartão de cidadão e chave móvel digital, bem como os meios de identificação eletrónica emitidos noutros Estados-Membros reconhecidos para o efeito nos termos do artigo 6.º do [Regulamento (UE) n.º 910/2014](https://data.europa.eu/eli/reg/2014/910/oj?locale=pt) do Parlamento Europeu e do Conselho, de 23 de julho de 2014.
 
-9 - Quando, por motivos de indisponibilidade dos sistemas de informação, não for possível o cumprimento do disposto nos n.<sup>os</sup>7 e 8, a transmissão da informação em causa pode ser realizada por outros meios de transmissão eletrónica de dados de acordo com as instruções divulgadas no sítio na Internet da DGARTES.
+9 - Quando, por motivos de indisponibilidade dos sistemas de informação, não for possível o cumprimento do disposto nos n.os7 e 8, a transmissão da informação em causa pode ser realizada por outros meios de transmissão eletrónica de dados de acordo com as instruções divulgadas no sítio na Internet da DGARTES.
 
 10 - Os documentos eletrónicos submetidos com as candidaturas devem ser assinados, preferencialmente, com recurso a assinaturas eletrónicas qualificadas, incluindo as do cartão de cidadão e chave móvel digital ou outras que constem da Lista Europeia de Serviços de Confiança, sem prejuízo do disposto no artigo 4.º da [Lei n.º 37/2014](https://diariodarepublica.pt/dr/detalhe/lei/37-2014-25345579), de 26 de junho, na sua redação atual.
 
@@ -914,7 +1014,7 @@ c) No caso de pessoas singulares, não desempenhar funções efetivas em órgão
 
 4 - A proposta de decisão da comissão de renovação é homologada por despacho do diretor-geral da DGARTES e publicitada no sítio na Internet da DGARTES.
 
-5 - À comissão de renovação é aplicável o disposto nos n.<sup>os</sup>2 e 3 do artigo 15.º e no artigo 19.º, com as necessárias adaptações.
+5 - À comissão de renovação é aplicável o disposto nos n.os2 e 3 do artigo 15.º e no artigo 19.º, com as necessárias adaptações.
 
 ### CAPÍTULO IV — FORMALIZAÇÃO, ACOMPANHAMENTO E AVALIAÇÃO
 
@@ -1071,3 +1171,5 @@ Do despacho de decisão, ou de qualquer outro ato praticado no decurso dos proce
 ###### Artigo 32.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+119949346

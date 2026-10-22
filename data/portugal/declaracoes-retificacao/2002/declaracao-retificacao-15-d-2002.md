@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 75/2002, 2º Suplemento, Série I-B de 2002-03-30
   number: '75'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2938-(5) a 2938-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/075b02/00050005.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/15-d/2002/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-d-2002-459450
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-22T00:00:00Z'
+  retrieved_at: '2026-10-22T18:59:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ccc614f9f03bf9f7ebe23f9fe84d7080c48d8dd109b09ca5b36860e768145ce2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8cfb32e83f58708182db8a7b7d1b060a69f17e0e0d5a31e0f99528e493a95a84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:59:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,34 +67,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultor
+- Agricultura
+- Agricultura Biológica
 - Associação de Agricultores
 - Direcção Geral de Desenvolvimento Rural
-- Agricultura Biológica
 - Exploração Agrícola
-- Proteção do Ambiente
-- Agricultor
 - Produção Agrícola
+- Proteção do Ambiente
 - Regulamento
-- Agricultura
 relationships:
 - type: amended_by
   target: pt:dre:541389:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:541389:por
+  label: "Alterados os arts. 3º, 5º e 11º do Regulamento aprovado pela Port 180/2002 de 28-Fev, rectificada pela presente\
+    \ Declaração pela PORT.422/2003.2003.05.22.MADRP, DR.IS-B [118]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/422-2003-541389
+  date: '2003-05-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/180/2002/02/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/180/2002/02/28/p/dre
+- type: cites
+  target: pt:dre:254791:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:59:49Z'
   warnings: []
   errors: []
 ---

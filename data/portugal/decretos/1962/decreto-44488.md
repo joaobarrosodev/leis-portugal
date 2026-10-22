@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44488-1962-163843
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-07-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:30:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8204c8f8353be893e6250f9a174b661b2c2725303d682b9bc0207d449f78cee4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ae1d13d927a9bbff85a56a702f80d30692b91e418aa002f9a8c42f7ab1cad66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:30:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:30:26Z'
   warnings: []
   errors: []
 ---
@@ -93,11 +93,11 @@ Por motivo de urgência e de harmonia com o disposto no § 1.º do artigo 150.º
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. É autorizado o Governo-Geral de Moçambique a garantir, por aval, junto de um organismo de crédito interno, os empréstimos já contraídos e a contrair pelo Grémio dos Produtores de Cereais do Distrito da Beira, até ao montante de 50000 contos.
+Artigo único. É autorizado o Governo-Geral de Moçambique a garantir, por aval, junto de um organismo de crédito interno, os empréstimos já contraídos e a contrair pelo Grémio dos Produtores de Cereais do Distrito da Beira, até ao montante de 50000 contos.
 
 § único. As cláusulas para a obtenção do empréstimo serão prèviamente aprovadas pelo Governo-Geral de Moçambique.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Julho de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

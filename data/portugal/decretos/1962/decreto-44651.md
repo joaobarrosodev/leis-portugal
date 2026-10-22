@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44651-1962-156470
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-08-12T00:00:00Z'
+  retrieved_at: '2026-10-22T19:31:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b94442fd9fb894d6af3afb7f7ed62c83fe3c9fdef9b22b799760a29ef96c83cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4d254db775dba249523d473dd2f44c1a0905849e8010339c2fac107a513ba1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:31:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,32 @@ relationships:
   target: pt:dre:579935:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:164585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516706:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:31:46Z'
   warnings: []
   errors: []
 ---
@@ -95,49 +111,49 @@ Por motivo de urgência e de harmonia com o disposto no § 1.º do artigo 150.º
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os quadros do pessoal dos serviços de administração civil das províncias da Guiné, S. Tomé e Príncipe, Macau e Timor são os constantes dos mapas anexos a este decreto e que dele fazem parte integrante.
+Artigo 1.º Os quadros do pessoal dos serviços de administração civil das províncias da Guiné, S. Tomé e Príncipe, Macau e Timor são os constantes dos mapas anexos a este decreto e que dele fazem parte integrante.
 
 § 1.º Os funcionários que excederem os efectivos dos quadros a que se refere o corpo do artigo continuarão em efectividade de funções, pagos pela verba de duplicação de vencimentos e prestando serviço onde for necessário por simples despacho dos governadores, com respeito apenas da hierarquia e melhor aproveitamento profissional, sem prejuízo de quaisquer direitos ou regalias que devam usufruir nos seus quadros de origem.
 
 § 2.º Os encarregados de posto de 2.ª e 3.ª classe do quadro auxiliar dos serviços de administração civil da província de Timor transitam, respectivamente, para os lugares de primeiro e segundo-escriturário do respectivo quadro de secretaria.
 
-###### Art. 2.º São aprovados os programas dos concursos de admissão aos lugares de terceiro-oficial e de promoção a segundos e primeiros-oficiais e a chefe de secretaria dos quadros de secretaria dos serviços de administração civil de todas as províncias, que se publicam em anexo a este decreto e dele fazem parte integrante.
+Art. 2.º São aprovados os programas dos concursos de admissão aos lugares de terceiro-oficial e de promoção a segundos e primeiros-oficiais e a chefe de secretaria dos quadros de secretaria dos serviços de administração civil de todas as províncias, que se publicam em anexo a este decreto e dele fazem parte integrante.
 
-###### Art. 3.º Os intendentes de distrito, quando colocados nos distritos, desempenharão as funções de adjuntos dos respectivos governadores, cabendo-lhes, além das funções que por este lhes forem delegadas, a chefia dos serviços distritais de administração civil, coadjuvados pelos respectivos chefes das secretarias distritais.
+Art. 3.º Os intendentes de distrito, quando colocados nos distritos, desempenharão as funções de adjuntos dos respectivos governadores, cabendo-lhes, além das funções que por este lhes forem delegadas, a chefia dos serviços distritais de administração civil, coadjuvados pelos respectivos chefes das secretarias distritais.
 
-###### Art. 4.º Sempre que na sede de uma circunscrição ou concelho prestem serviço dois ou mais funcionários do quadro administrativo, além do administrador, a substituição deste far-se-á pelo funcionário mais categorizado ou, tendo a mesma categoria, pelo mais antigo nela.
+Art. 4.º Sempre que na sede de uma circunscrição ou concelho prestem serviço dois ou mais funcionários do quadro administrativo, além do administrador, a substituição deste far-se-á pelo funcionário mais categorizado ou, tendo a mesma categoria, pelo mais antigo nela.
 
 § único. Se na sede da circunscrição ou concelho não estiver prestando serviço qualquer funcionário do quadro administrativo, substituirá o administrador, até que de outra forma seja providenciado, o funcionário de secretaria mais graduado.
 
-###### Art. 5.º As transferências a que se refere o § 3.º do artigo 14.º do [Decreto n.º 44241](https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706), de 19 de Março de 1962, são sujeitas às conveniências do serviço público.
+Art. 5.º As transferências a que se refere o § 3.º do artigo 14.º do [Decreto n.º 44241](https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706), de 19 de Março de 1962, são sujeitas às conveniências do serviço público.
 
-###### Art. 6.º Às pensões provisórias dos administradores de circunscrição desligados do serviço para efeitos de aposentação é aplicável o regime do artigo 50.º do [Decreto n.º 28263](https://diariodarepublica.pt/dr/detalhe/decreto/28263-1937-478067), de 8 de Dezembro de 1937.
+Art. 6.º Às pensões provisórias dos administradores de circunscrição desligados do serviço para efeitos de aposentação é aplicável o regime do artigo 50.º do [Decreto n.º 28263](https://diariodarepublica.pt/dr/detalhe/decreto/28263-1937-478067), de 8 de Dezembro de 1937.
 
 § único. O disposto neste artigo executar-se-á apenas quando o não preenchimento dos mesmos lugares cause grave transtorno ao serviço público e dependerá de autorização expressa do Ministro do Ultramar, dado para cada caso.
 
-###### Art. 7.º Aos concursos a que se referem os artigos 30.º e 32.º do [Decreto n.º 44241](https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706) apenas poderão ser admitidos indivíduos sujeitos às leis sobre recrutamento militar.
+Art. 7.º Aos concursos a que se referem os artigos 30.º e 32.º do [Decreto n.º 44241](https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706) apenas poderão ser admitidos indivíduos sujeitos às leis sobre recrutamento militar.
 
-###### Art. 8.º Para efeitos de promoção dentro dos novos quadros a que se refere o artigo 1.º do [Decreto n.º 44241](https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706) é contado todo o tempo de serviço prestado pelos agentes na última categoria que tinham dentro do quadro administrativo.
+Art. 8.º Para efeitos de promoção dentro dos novos quadros a que se refere o artigo 1.º do [Decreto n.º 44241](https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706) é contado todo o tempo de serviço prestado pelos agentes na última categoria que tinham dentro do quadro administrativo.
 
-###### Art. 9.º Enquanto cada categoria dos quadros de secretaria não estiver completamente preenchida nos termos do [Decreto n.º 44241](https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706), poderão ser nomeados, em comissão, administradores de circunscrição, administradores de posto com menos de cinco anos na categoria e adjuntos de administrador de posto, respectivamente, para os cargos de chefes de secretaria distrital, segundos e terceiros-oficiais.
+Art. 9.º Enquanto cada categoria dos quadros de secretaria não estiver completamente preenchida nos termos do [Decreto n.º 44241](https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706), poderão ser nomeados, em comissão, administradores de circunscrição, administradores de posto com menos de cinco anos na categoria e adjuntos de administrador de posto, respectivamente, para os cargos de chefes de secretaria distrital, segundos e terceiros-oficiais.
 
-###### Art. 10.º Enquanto não for atingida a igualdade prevista no § 1.º do artigo 14.º do [Decreto n.º 44241](https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706), o provimento das vagas que ocorrerem na categoria de administrador de circunscrição será feito na proporção de dois para um, sendo o termo mais elevado da proporção reservado para os funcionários abrangidos pela alínea do referido artigo 14.º que menor representação tiver naquela categoria.
+Art. 10.º Enquanto não for atingida a igualdade prevista no § 1.º do artigo 14.º do [Decreto n.º 44241](https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706), o provimento das vagas que ocorrerem na categoria de administrador de circunscrição será feito na proporção de dois para um, sendo o termo mais elevado da proporção reservado para os funcionários abrangidos pela alínea do referido artigo 14.º que menor representação tiver naquela categoria.
 
-###### Art. 11.º Não serão abertos concursos para administradores de circunscrição sem que tenham sido promovidos todos os secretários de circunscrição que no último concurso realizado e válido à data do [Decreto n.º 44241](https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706) obtiveram a classificação de Bom.
+Art. 11.º Não serão abertos concursos para administradores de circunscrição sem que tenham sido promovidos todos os secretários de circunscrição que no último concurso realizado e válido à data do [Decreto n.º 44241](https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706) obtiveram a classificação de Bom.
 
-###### Art. 12.º A todos os antigos chefes de posto administrativo aprovados em concurso para secretários de circunscrição, com a classificação de Bom, válido à data da publicação do [Decreto n.º 44241](https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706), que transitaram para a categoria de administradores de posto nos termos do artigo 35.º do mesmo decreto, é atribuída a categoria da letra M do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino, independentemente do tempo de serviço prestado naquela categoria.
+Art. 12.º A todos os antigos chefes de posto administrativo aprovados em concurso para secretários de circunscrição, com a classificação de Bom, válido à data da publicação do [Decreto n.º 44241](https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706), que transitaram para a categoria de administradores de posto nos termos do artigo 35.º do mesmo decreto, é atribuída a categoria da letra M do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino, independentemente do tempo de serviço prestado naquela categoria.
 
-###### Art. 13.º Os aspirantes administrativos, interinos, que foram abrangidos pelo n.º 2 da [Portaria n.º 19246](https://diariodarepublica.pt/dr/detalhe/portaria/19246-1962-164585), de 23 de Junho de 1962, com três anos de serviço na categoria e boas informações de serviço poderão ser providos, independentemente de concurso, nos lugares de terceiro-oficial dos quadros de secretaria, desde que satisfaçam a condição da alínea c) do artigo 30.º do [Decreto n.º 44241](https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706) e assim o requeiram no prazo de trinta dias, a contar da publicação do presente decreto no Boletim Oficial da província.
+Art. 13.º Os aspirantes administrativos, interinos, que foram abrangidos pelo n.º 2 da [Portaria n.º 19246](https://diariodarepublica.pt/dr/detalhe/portaria/19246-1962-164585), de 23 de Junho de 1962, com três anos de serviço na categoria e boas informações de serviço poderão ser providos, independentemente de concurso, nos lugares de terceiro-oficial dos quadros de secretaria, desde que satisfaçam a condição da alínea c) do artigo 30.º do [Decreto n.º 44241](https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706) e assim o requeiram no prazo de trinta dias, a contar da publicação do presente decreto no Boletim Oficial da província.
 
-###### Art. 14.º O primeiro provimento dos lugares de escriturário dos quadros de secretaria poderá ser efectuado pelos governadores das províncias ultramarinas, mediante proposta dos serviços de administração civil, entre os intérpretes, intérpretes auxiliares, auxiliares de recenseamento e, de um modo geral, todo o pessoal que nas secretarias dos serviços de administração civil, dos institutos do trabalho, previdência e acção social e dos corpos administrativos exerçam as suas funções há mais de dois anos com boas informações de serviço, satisfaçam a condição da alínea c) do artigo 30.º do [Decreto n.º 44241](https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706) e assim o requeiram no prazo de 30 dias, a contar da data da publicação do presente decreto no Boletim Oficial.
+Art. 14.º O primeiro provimento dos lugares de escriturário dos quadros de secretaria poderá ser efectuado pelos governadores das províncias ultramarinas, mediante proposta dos serviços de administração civil, entre os intérpretes, intérpretes auxiliares, auxiliares de recenseamento e, de um modo geral, todo o pessoal que nas secretarias dos serviços de administração civil, dos institutos do trabalho, previdência e acção social e dos corpos administrativos exerçam as suas funções há mais de dois anos com boas informações de serviço, satisfaçam a condição da alínea c) do artigo 30.º do [Decreto n.º 44241](https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706) e assim o requeiram no prazo de 30 dias, a contar da data da publicação do presente decreto no Boletim Oficial.
 
 § único. As nomeações a que se referem o corpo deste artigo e o artigo anterior serão simplesmente anotadas pelos tribunais administrativos das províncias.
 
-###### Art. 15.º É prorrogado até 31 de Dezembro do ano em curso o prazo de opção a que se refere o artigo 36.º do [Decreto n.º 44241](https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706).
+Art. 15.º É prorrogado até 31 de Dezembro do ano em curso o prazo de opção a que se refere o artigo 36.º do [Decreto n.º 44241](https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706).
 
-###### Art. 16.º O Ministro do Ultramar, sob proposta fundamentada dos governos provinciais, determinará, em despacho a publicar no Diário do Governo, as gratificações que nos termos do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, deverão ser atribuídas ao pessoal dos serviços de administração civil das províncias ultramarinas. As referidas propostas deverão dar entrada no Ministério do Ultramar até 30 de Novembro de 1962 e os abonos que forem fixados reportar-se-ão a todo o tempo em que, entretanto, os funcionários tenham efectivamente exercido os cargos a que as gratificações se referirem.
+Art. 16.º O Ministro do Ultramar, sob proposta fundamentada dos governos provinciais, determinará, em despacho a publicar no Diário do Governo, as gratificações que nos termos do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, deverão ser atribuídas ao pessoal dos serviços de administração civil das províncias ultramarinas. As referidas propostas deverão dar entrada no Ministério do Ultramar até 30 de Novembro de 1962 e os abonos que forem fixados reportar-se-ão a todo o tempo em que, entretanto, os funcionários tenham efectivamente exercido os cargos a que as gratificações se referirem.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Outubro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 
@@ -145,19 +161,19 @@ Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - A.
 
 Quadros do pessoal dos serviços de administração civil da Guiné
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/10/24800/14021404.pdf))](https://files.diariodarepublica.pt/1s/1962/10/24800/14021404.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/10/24800/14021404.pdf)
 
 Quadros do pessoal dos serviços de administração civil de S. Tomé e Príncipe
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/10/24800/14021404.pdf))](https://files.diariodarepublica.pt/1s/1962/10/24800/14021404.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/10/24800/14021404.pdf)
 
 Quadros do pessoal dos serviços de administração civil de Macau
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/10/24800/14021404.pdf))](https://files.diariodarepublica.pt/1s/1962/10/24800/14021404.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/10/24800/14021404.pdf)
 
 Quadros do pessoal dos serviços de administração civil de Timor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/10/24800/14021404.pdf))](https://files.diariodarepublica.pt/1s/1962/10/24800/14021404.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/10/24800/14021404.pdf)
 
 Ministério do Ultramar, 27 de Outubro de 1962. - O Ministro do Ultramar, Adriano José Alves Moreira.
 

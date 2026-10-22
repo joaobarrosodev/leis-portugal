@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 301/1998, 7º Suplemento, Série I-A de 1998-12-31
   number: '301'
   series: I
-  supplement: 7º Suplemento
+  supplement: null
   pages: 7384-(578) a 7384-(578)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/12/301a07/05780578.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/22-j/1998/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-j-1998-570515
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:51:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25c96faa18f67e61d1a5fdecc9ba542229733fe7b01408a9af5b2cdca9af683e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 823b01170b1e54fdea5f7777aa7b37bc7f425b1a3c3010aaa24ee5aac5de61a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:51:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,35 +68,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
+- Comunicações
 - Contra-ordenação
 - Definição de Competências
 - Equipamento Eletrónico
-- Instalações Radioelétricas
 - Fiscalização
+- Instalações Radioelétricas
 - Instituto da Comunicação Social
 - Instituto das Comunicações de Portugal
 - Licenciamento
+- Multa
 - Radiodifusão
-- Sistema de Informação
-- Comunicações
 - RDS
+- Sistema de Informação
 - TAXA de Utilização
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/272/1998/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/272/1998/09/02/p/dre
+- type: cites
+  target: pt:dre:566855:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:51:47Z'
   warnings: []
   errors: []
 ---

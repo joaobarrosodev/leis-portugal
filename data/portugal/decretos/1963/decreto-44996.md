@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44996-1963-196259
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-04-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:34:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7943eaa3406ca5ab91e292ca9865998ba538d26cf93454a2b847d5daee13c294
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6ef44a70c5414b58b8492925e03ce6cf3fb6726248e9013d84e80e0a731fcd1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:34:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467661:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:34:35Z'
   warnings: []
   errors: []
 ---
@@ -87,11 +103,11 @@ Em cumprimento do preceito estabelecido no artigo 8.º da [Lei n.º 2117](https:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento do Imposto para a Defesa e Valorização do Ultramar, criado pelo artigo 8.º da [Lei n.º 2111](https://diariodarepublica.pt/dr/detalhe/lei/2111-1961-184478), de 21 de Dezembro de 1961, e mantido no ano de 1963 pelo artigo 8.º da [Lei n.º 2117](https://diariodarepublica.pt/dr/detalhe/lei/2117-1962-155400), de 19 de Dezembro de 1962, o qual segue assinado pelo Ministro das Finanças e faz parte integrante do presente diploma.
+Artigo 1.º É aprovado o Regulamento do Imposto para a Defesa e Valorização do Ultramar, criado pelo artigo 8.º da [Lei n.º 2111](https://diariodarepublica.pt/dr/detalhe/lei/2111-1961-184478), de 21 de Dezembro de 1961, e mantido no ano de 1963 pelo artigo 8.º da [Lei n.º 2117](https://diariodarepublica.pt/dr/detalhe/lei/2117-1962-155400), de 19 de Dezembro de 1962, o qual segue assinado pelo Ministro das Finanças e faz parte integrante do presente diploma.
 
-###### Art. 2.º Este decreto entra imediatamente em vigor.
+Art. 2.º Este decreto entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Abril de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa.
 
@@ -99,7 +115,7 @@ Regulamento do Imposto para a Defesa e Valorização do Ultramar
 
 Incidência
 
-###### Artigo 1.º Estão sujeitas ao imposto extraordinário criado pelo artigo 8.º da [Lei n.º 2111](https://diariodarepublica.pt/dr/detalhe/lei/2111-1961-184478), de 21 de Dezembro de 1961, mantido no ano de 1963 pelo artigo 8.º da [Lei n.º 2117](https://diariodarepublica.pt/dr/detalhe/lei/2117-1962-155400), de 19 de Dezembro de 1962, e denominado «Imposto para a defesa e valorização do ultramar», as sociedades ou empresas, nacionais ou estrangeiras, que no continente ou ilhas adjacentes e durante o ano de 1962 exploraram ou exerceram:
+Artigo 1.º Estão sujeitas ao imposto extraordinário criado pelo artigo 8.º da [Lei n.º 2111](https://diariodarepublica.pt/dr/detalhe/lei/2111-1961-184478), de 21 de Dezembro de 1961, mantido no ano de 1963 pelo artigo 8.º da [Lei n.º 2117](https://diariodarepublica.pt/dr/detalhe/lei/2117-1962-155400), de 19 de Dezembro de 1962, e denominado «Imposto para a defesa e valorização do ultramar», as sociedades ou empresas, nacionais ou estrangeiras, que no continente ou ilhas adjacentes e durante o ano de 1962 exploraram ou exerceram:
 
 a) Concessões de serviço público;
 
@@ -107,7 +123,7 @@ b) Actividades industriais em regime de exclusivo;
 
 c) As actividades que beneficiaram de privilégio ou de situação excepcional de mercado enumeradas na lista anexa a este diploma.
 
-###### Art. 2.º O imposto incide sobre os lucros imputáveis ao exercício de actividade comercial ou industrial das sociedades ou empresas a que se refere o artigo anterior revelados pela conta de resultados do exercício ou de ganhos e perdas relativa ao ano de 1962.
+Art. 2.º O imposto incide sobre os lucros imputáveis ao exercício de actividade comercial ou industrial das sociedades ou empresas a que se refere o artigo anterior revelados pela conta de resultados do exercício ou de ganhos e perdas relativa ao ano de 1962.
 
 § 1.º Consideram-se lucros imputáveis ao exercício da actividade para os efeitos do corpo deste artigo:
 
@@ -131,7 +147,7 @@ Tratando-se de bens produzidos pela própria sociedade ou empresa, considerar-se
 
 Isenções
 
-###### Art. 3.º Ficam excluídos do imposto:
+Art. 3.º Ficam excluídos do imposto:
 
 a) Os contribuintes a que se refere o n.º 6.º do artigo 29.º do [Decreto n.º 16731](https://diariodarepublica.pt/dr/detalhe/decreto/16731-1929-275435), de 13 de Abril de 1929;
 
@@ -147,7 +163,7 @@ d) As sociedades ou empresas que se encontravam em fase de instalação no dia 3
 
 Determinação da matéria colectável
 
-###### Art. 4.º As sociedades ou empresas que exerceram qualquer das actividades a que se refere o artigo 1.º, isentas de contribuição industrial ou nela tributadas para o corrente ano em importância não inferior a 100000$00, apresentarão, até 20 de Maio de 1963, uma declaração, conforme modelo n.º 1 anexo a este diploma, donde constem os lucros líquidos do exercício social de 1962 acusados no respectivo balanço, e bem assim os demais elementos constantes do mesmo modelo.
+Art. 4.º As sociedades ou empresas que exerceram qualquer das actividades a que se refere o artigo 1.º, isentas de contribuição industrial ou nela tributadas para o corrente ano em importância não inferior a 100000$00, apresentarão, até 20 de Maio de 1963, uma declaração, conforme modelo n.º 1 anexo a este diploma, donde constem os lucros líquidos do exercício social de 1962 acusados no respectivo balanço, e bem assim os demais elementos constantes do mesmo modelo.
 
 Em relação às sociedades ou empresas cujo encerramento das contas de gerência dependa de elementos respeitantes a actividades exercidas nas províncias ultramarinas, o prazo para a entrega da declaração prorrogar-se-á até 31 de Maio do mesmo ano.
 
@@ -169,7 +185,7 @@ e) Quaisquer outros elementos conducentes ao melhor apuramento da matéria colec
 
 § 4.º O duplicado da declaração, com recibo autenticado, será devolvido ao apresentante, e o original, bem como os documentos anexos, serão directa e imediatamente remetidos pela secção de finanças à 2.ª Repartição da Direcção-Geral das Contribuições e Impostos, acompanhados de nota modelo n.º 2, salvo, quanto a esta, se a sua elaboração depender do cumprimento do artigo 11.º ou da recolha de elementos a fornecer por outras secções de finanças.
 
-###### Art. 5.º A matéria colectável será determinada na 2.ª Repartição da Direcção-Geral das Contribuições e Impostos, em presença da declaração referida no artigo anterior e demais elementos que a instruam e sem prejuízo das correcções que considerar necessárias para inteira observância do disposto no artigo 2.º e seus parágrafos.
+Art. 5.º A matéria colectável será determinada na 2.ª Repartição da Direcção-Geral das Contribuições e Impostos, em presença da declaração referida no artigo anterior e demais elementos que a instruam e sem prejuízo das correcções que considerar necessárias para inteira observância do disposto no artigo 2.º e seus parágrafos.
 
 § 1.º Para efeito das correcções previstas no corpo deste artigo o Ministro das Finanças poderá ordenar exame ou verificação da escrita comercial dos contribuintes quando haja suspeita de que existem nos elementos por estes apresentados omissões ou inexactidões de qualquer natureza.
 
@@ -177,7 +193,7 @@ e) Quaisquer outros elementos conducentes ao melhor apuramento da matéria colec
 
 § 3.º Estas diligências serão iniciadas no prazo de 48 horas após a recepção do seu pedido, quando outro prazo não haja sido designado, e dos resultados apurados elaborar-se-á relatório sucinto, a remeter imediatamente à Direcção-Geral.
 
-###### Art. 6.º Na falta de apresentação da declaração modelo n.º 1 ou de qualquer dos documentos referidos no artigo 4.º, ou no caso de, por insuficiência, falta ou recusa de apresentação da escrita ou de qualquer dos seus elementos, não ser possível apurar o lucro líquido do exercício através das diligências admitidas pelo § 1.º do artigo 5.º, será a matéria colectável determinada por uma comissão constituída pela forma seguinte:
+Art. 6.º Na falta de apresentação da declaração modelo n.º 1 ou de qualquer dos documentos referidos no artigo 4.º, ou no caso de, por insuficiência, falta ou recusa de apresentação da escrita ou de qualquer dos seus elementos, não ser possível apurar o lucro líquido do exercício através das diligências admitidas pelo § 1.º do artigo 5.º, será a matéria colectável determinada por uma comissão constituída pela forma seguinte:
 
 Presidente - Chefe da 2.ª Repartição da Direcção-Geral das Contribuições e Impostos.
 
@@ -197,7 +213,7 @@ Um delegado das Corporações da Indústria ou do Comércio, conforme a principa
 
 § 5.º O resultado das deliberações não é susceptível de impugnação contenciosa.
 
-###### Art. 7.º Sempre que se tenham efectuado quaisquer correcções ao abrigo do artigo 5.º e seu § 1.º ou quando a matéria colectável haja sido determinada pela comissão referida no artigo 6.º, poderão os contribuintes ou a Fazenda Nacional, representada pelo chefe da 2.ª Repartição da Direcção-Geral das Contribuições e Impostos, reclamar, no prazo de oito dias, contados da notificação, contra o montante da matéria colectável para uma comissão de revisão, assim constituída:
+Art. 7.º Sempre que se tenham efectuado quaisquer correcções ao abrigo do artigo 5.º e seu § 1.º ou quando a matéria colectável haja sido determinada pela comissão referida no artigo 6.º, poderão os contribuintes ou a Fazenda Nacional, representada pelo chefe da 2.ª Repartição da Direcção-Geral das Contribuições e Impostos, reclamar, no prazo de oito dias, contados da notificação, contra o montante da matéria colectável para uma comissão de revisão, assim constituída:
 
 Presidente - Director-geral das Contribuições e Impostos.
 
@@ -229,17 +245,17 @@ Os peritos nomeados deverão examinar todos os elementos de escrita indispensáv
 
 § 9.º Do resultado das deliberações a que se refere o § 5.º apenas cabe recurso com fundamento em preterição de formalidades legais, sem efeito suspensivo, nos termos do artigo 8.º do [Decreto-Lei n.º 24916](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24916-1935-467661), de 10 de Janeiro de 1935.
 
-###### Art. 8.º O disposto nos artigos 6.º e 7.º é também aplicável às sociedades ou empresas que exerçam, conjuntamente com qualquer das actividades referidas no artigo 1.º, outras nele não abrangidas e que, embora possuindo escrita devidamente organizada, da mesma não conste a discriminação dos lucros respeitantes a cada uma delas, ou que exerçam actividades que pela sua complexidade ou diversidade tornem impraticável essa discriminação.
+Art. 8.º O disposto nos artigos 6.º e 7.º é também aplicável às sociedades ou empresas que exerçam, conjuntamente com qualquer das actividades referidas no artigo 1.º, outras nele não abrangidas e que, embora possuindo escrita devidamente organizada, da mesma não conste a discriminação dos lucros respeitantes a cada uma delas, ou que exerçam actividades que pela sua complexidade ou diversidade tornem impraticável essa discriminação.
 
 Taxas
 
-###### Art. 9.º A taxa do imposto é de 10 por cento e sobre a colecta não recai qualquer adicional ou outra imposição.
+Art. 9.º A taxa do imposto é de 10 por cento e sobre a colecta não recai qualquer adicional ou outra imposição.
 
-###### Art. 10.º O imposto a liquidar não poderá ser inferior a metade da verba principal da correspondente contribuição industrial do ano de 1963, sem quaisquer deduções na colecta ou no rendimento tributável.
+Art. 10.º O imposto a liquidar não poderá ser inferior a metade da verba principal da correspondente contribuição industrial do ano de 1963, sem quaisquer deduções na colecta ou no rendimento tributável.
 
 § único. Tratando-se de contribuintes total ou parcialmente isentos por lei de contribuição industrial, o imposto não poderá ser inferior a metade da importância da verba principal que seria de liquidar na falta de tal isenção, qualquer que seja o fundamento desta.
 
-###### Art. 11.º Para efeito do disposto na alínea b) do artigo 3.º e no § único do artigo 10.º deverão as comissões a que se refere o artigo 6.º do [Decreto-Lei n.º 24916](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24916-1935-467661), de 10 de Janeiro de 1935, fixar, até ao dia 25 de Maio, os respectivos rendimentos ilíquidos presumíveis dos contribuintes isentos de contribuição industrial.
+Art. 11.º Para efeito do disposto na alínea b) do artigo 3.º e no § único do artigo 10.º deverão as comissões a que se refere o artigo 6.º do [Decreto-Lei n.º 24916](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24916-1935-467661), de 10 de Janeiro de 1935, fixar, até ao dia 25 de Maio, os respectivos rendimentos ilíquidos presumíveis dos contribuintes isentos de contribuição industrial.
 
 Tratando-se de contribuintes que exerceram a actividade em vários concelhos ou bairros, a fixação dos rendimentos será feita apenas na secção de finanças competente para a entrega da declaração modelo n.º 1, indicada no § 1.º do artigo 4.º, considerando o movimento global da sociedade ou empresa, para o que poderá solicitar das outras secções de finanças os elementos julgados necessários.
 
@@ -253,59 +269,59 @@ As reclamações serão resolvidas até 20 de Junho.
 
 Liquidação
 
-###### Art. 12.º A liquidação do imposto é da competência da 2.ª Repartição da Direcção-Geral das Contribuições e Impostos.
+Art. 12.º A liquidação do imposto é da competência da 2.ª Repartição da Direcção-Geral das Contribuições e Impostos.
 
-###### Art. 13.º Por cada contribuinte organizar-se-á um processo individual.
+Art. 13.º Por cada contribuinte organizar-se-á um processo individual.
 
 Apurada a matéria colectável, proceder-se-á à liquidação do imposto no verbete modelo n.º 3.
 
 § único. Dos elementos considerados na liquidação do imposto extrair-se-á a nota modelo n.º 4, a remeter à secção de finanças referida no § 1.º do artigo 4.º
 
-###### Art. 14.º Se o contribuinte tiver sido omitido no lançamento, o imposto poderá ser liquidado até 31 de Dezembro de 1967, observando-se as disposições do presente diploma com as necessárias adaptações.
+Art. 14.º Se o contribuinte tiver sido omitido no lançamento, o imposto poderá ser liquidado até 31 de Dezembro de 1967, observando-se as disposições do presente diploma com as necessárias adaptações.
 
-###### Art. 15.º Quando na liquidação se tiverem cometido erros de facto ou de direito ou tiver havido quaisquer omissões de que resulte prejuízo para o Estado, deve o mesmo ser reparado mediante liquidação adicional, dentro do prazo estabelecido no artigo anterior.
+Art. 15.º Quando na liquidação se tiverem cometido erros de facto ou de direito ou tiver havido quaisquer omissões de que resulte prejuízo para o Estado, deve o mesmo ser reparado mediante liquidação adicional, dentro do prazo estabelecido no artigo anterior.
 
 § único. Para os efeitos do corpo deste artigo, a Direcção-Geral das Contribuições e Impostos poderá promover, dentro do prazo nele previsto, as diligências a que se refere o § 1.º do artigo 5.º, se ainda não tiverem sido efectuadas.
 
 Cobrança
 
-###### Art. 16.º Em face da nota modelo n.º 4, a que alude o artigo 13.º, a secção de finanças extrairá os conhecimentos de cobrança no modelo n.º 5, que entregará ao tesoureiro da Fazenda Pública, devidamente relacionados, até ao dia 20 de Junho do corrente ano. Os avisos para pagamento à boca do cofre serão expedidos até ao dia 26 do mesmo mês, pela tesouraria da Fazenda Pública.
+Art. 16.º Em face da nota modelo n.º 4, a que alude o artigo 13.º, a secção de finanças extrairá os conhecimentos de cobrança no modelo n.º 5, que entregará ao tesoureiro da Fazenda Pública, devidamente relacionados, até ao dia 20 de Junho do corrente ano. Os avisos para pagamento à boca do cofre serão expedidos até ao dia 26 do mesmo mês, pela tesouraria da Fazenda Pública.
 
-###### Art. 17.º A cobrança do imposto para a defesa e valorização do ultramar efectuar-se-á nos termos e prazos estabelecidos para o imposto complementar.
+Art. 17.º A cobrança do imposto para a defesa e valorização do ultramar efectuar-se-á nos termos e prazos estabelecidos para o imposto complementar.
 
-###### Art. 18.º Sempre que por qualquer motivo for retardada a liquidação do imposto ou este for corrigido por liquidação adicional, a cobrança à boca do cofre da primeira prestação será feita no mês imediato ao do débito e a segunda prestação no terceiro mês seguinte, não podendo ir além de Dezembro de 1963.
+Art. 18.º Sempre que por qualquer motivo for retardada a liquidação do imposto ou este for corrigido por liquidação adicional, a cobrança à boca do cofre da primeira prestação será feita no mês imediato ao do débito e a segunda prestação no terceiro mês seguinte, não podendo ir além de Dezembro de 1963.
 
 Se o débito tiver lugar depois de 30 de Novembro do corrente ano, o imposto será pago por uma só vez no mês imediato.
 
 Fiscalização
 
-###### Art. 19.º O cumprimento das obrigações impostas por este diploma será fiscalizado pelos serviços da Direcção-Geral das Contribuições e Impostos.
+Art. 19.º O cumprimento das obrigações impostas por este diploma será fiscalizado pelos serviços da Direcção-Geral das Contribuições e Impostos.
 
 Reclamações e recursos
 
-###### Art. 20.º Os contribuintes e as pessoas solidária ou subsidiàriamente responsáveis pelo pagamento do imposto poderão reclamar contra a liquidação deste, com os fundamentos e nos termos estabelecidos na legislação do contencioso das contribuições e impostos.
+Art. 20.º Os contribuintes e as pessoas solidária ou subsidiàriamente responsáveis pelo pagamento do imposto poderão reclamar contra a liquidação deste, com os fundamentos e nos termos estabelecidos na legislação do contencioso das contribuições e impostos.
 
-###### Art. 21.º Quando, por motivos imputáveis aos serviços, tenha sido liquidado imposto superior ao devido, proceder-se-á à anulação oficiosa, dentro do prazo estabelecido no artigo 14.º
+Art. 21.º Quando, por motivos imputáveis aos serviços, tenha sido liquidado imposto superior ao devido, proceder-se-á à anulação oficiosa, dentro do prazo estabelecido no artigo 14.º
 
 Penalidades
 
-###### Art. 22.º As transgressões ao disposto no presente diploma serão punidas nos termos dos artigos seguintes, devendo graduar-se as respectivas sanções de harmonia com a gravidade objectiva da infracção, o grau de culpa dos infractores, a importância do imposto a pagar e as demais circunstâncias do caso.
+Art. 22.º As transgressões ao disposto no presente diploma serão punidas nos termos dos artigos seguintes, devendo graduar-se as respectivas sanções de harmonia com a gravidade objectiva da infracção, o grau de culpa dos infractores, a importância do imposto a pagar e as demais circunstâncias do caso.
 
 § único. As sanções pecuniárias constantes deste diploma, ou os efeitos delas resultantes, não invalidam a aplicação das penas ou efeitos de outra natureza estabelecidos no Código Penal para as infracções correspondentes aos tipos legais nele previstos.
 
-###### Art. 23.º A falta ou inexactidão da declaração a que alude o artigo 4.º ou de qualquer dos documentos referidos no seu § 2.º, bem como as omissões naquela ou nestes praticadas, serão punidas, no caso de simples negligência, com a multa de 1000$00 a 10000$00, ou, havendo dolo, de 5000$00 a 20000$00.
+Art. 23.º A falta ou inexactidão da declaração a que alude o artigo 4.º ou de qualquer dos documentos referidos no seu § 2.º, bem como as omissões naquela ou nestes praticadas, serão punidas, no caso de simples negligência, com a multa de 1000$00 a 10000$00, ou, havendo dolo, de 5000$00 a 20000$00.
 
-###### Art. 24.º A recusa de exibição da escrita e a de apresentação de quaisquer elementos com ela relacionados verificadas no decorrer das diligências referidas nos §§ 1.º e 2.º do artigo 5.º, assim como a sua ocultação, destruição, inutilização, falsificação ou viciação, serão punidas com a multa de 5000$00 a 20000$00, na qual incorrerão, solidàriamente entre si, os directores, administradores, gerentes membros do conselho fiscal, liquidatários ou administradores da massa falida que forem responsáveis, sem prejuízo do procedimento criminal que ao caso couber.
+Art. 24.º A recusa de exibição da escrita e a de apresentação de quaisquer elementos com ela relacionados verificadas no decorrer das diligências referidas nos §§ 1.º e 2.º do artigo 5.º, assim como a sua ocultação, destruição, inutilização, falsificação ou viciação, serão punidas com a multa de 5000$00 a 20000$00, na qual incorrerão, solidàriamente entre si, os directores, administradores, gerentes membros do conselho fiscal, liquidatários ou administradores da massa falida que forem responsáveis, sem prejuízo do procedimento criminal que ao caso couber.
 
-###### Art. 25.º Transitadas em julgado as decisões em que sejam aplicadas sanções pecuniárias por factos a que corresponda responsabilidade penal, e designadamente nos casos de falsificação ou viciação de escrita, o tribunal participá-lo-á, nos oito dias seguintes, ao agente do Ministério Público competente, nos termos e para os efeitos do artigo 164.º do Código de Processo Penal, independentemente da participação, no mesmo prazo, a outras entidades que devam tomar conhecimento da infracção, para eventual procedimento contra o respectivo guarda-livros e outros responsáveis.
+Art. 25.º Transitadas em julgado as decisões em que sejam aplicadas sanções pecuniárias por factos a que corresponda responsabilidade penal, e designadamente nos casos de falsificação ou viciação de escrita, o tribunal participá-lo-á, nos oito dias seguintes, ao agente do Ministério Público competente, nos termos e para os efeitos do artigo 164.º do Código de Processo Penal, independentemente da participação, no mesmo prazo, a outras entidades que devam tomar conhecimento da infracção, para eventual procedimento contra o respectivo guarda-livros e outros responsáveis.
 
-###### Art. 26.º A qualquer infracção não especialmente prevenida nos artigos anteriores será aplicada a multa de 1000$00 a 10000$00.
+Art. 26.º A qualquer infracção não especialmente prevenida nos artigos anteriores será aplicada a multa de 1000$00 a 10000$00.
 
-###### Art. 27.º Quando qualquer infractor se apresente voluntàriamente a pedir o pagamento da multa antes de lhe ser notificado o auto de transgressão, será aquela reduzida a metade, revertendo integralmente para o Estado.
+Art. 27.º Quando qualquer infractor se apresente voluntàriamente a pedir o pagamento da multa antes de lhe ser notificado o auto de transgressão, será aquela reduzida a metade, revertendo integralmente para o Estado.
 
 § único. Se o auto de transgressão ainda não tiver sido levantado, sê-lo-á para efeitos de graduação da pena.
 
-###### Art. 28.º Nos casos em que, por falsificação, ocultação ou declaração dolosa, resultar liquidação de imposto inferior a 50000$00 em relação ao devido, mesmo quando reparada, será dada publicidade à condenação dos transgressores, mediante inserção na imprensa periódica de um extracto da decisão, nos oito dias seguintes ao do seu trânsito em julgado.
+Art. 28.º Nos casos em que, por falsificação, ocultação ou declaração dolosa, resultar liquidação de imposto inferior a 50000$00 em relação ao devido, mesmo quando reparada, será dada publicidade à condenação dos transgressores, mediante inserção na imprensa periódica de um extracto da decisão, nos oito dias seguintes ao do seu trânsito em julgado.
 
 § único. O extracto será organizado pela entidade que aplicar a sanção, a expensas dos infractores e com a natureza de custas, e publicado num dos jornais da localidade da respectiva sede ou residência e em dois diários de grande circulação, um de Lisboa e outro do Porto. Dele deverá constar a identificação dos infractores, a natureza da infracção, o montante da diferença do imposto e as circunstâncias mais relevantes ou reprováveis do caso.
 

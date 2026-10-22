@@ -38,6 +38,87 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-03-01'
+version_history:
+  file: regulamento-ue-2008-1275.versoes.json
+  count: 7
+  source_lastmod: '2021-03-01'
+  versions:
+  - date: '2008-12-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-04-27'
+    amending: null
+    amending_title: Regulamento (CE) n. o 278/2009 da Comissão de 6 de Abril de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Lista de produtos consumidores de energia abrangidos pelo presente regulamento
+    - Adita ANEXO II
+    - Adita Requisitos de concepção ecológica
+    - Adita ANEXO III
+    - Adita Procedimento de verificação
+    - Adita ANEXO IV
+    - Adita Padrões de referência
+  - date: '2009-08-12'
+    amending: null
+    amending_title: Regulamento (CE) n. o 642/2009 da Comissão de 22 de Julho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Notas
+  - date: '2013-07-17'
+    amending: eu:celex:32009R0278:por
+    amending_title: Regulamento (CE) n. o 278/2009 da Comissão de 6 de Abril de 2009; Regulamento (CE) n. o 642/2009 da Comissão
+      de 22 de Julho de 2009; Regulamento (UE) n. o 617/2013 da Comissão de 26 de junho de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Lista de produtos consumidores de energia abrangidos pelo presente regulamento
+    - Altera Notas
+  - date: '2013-09-12'
+    amending: eu:celex:32013R0801:por
+    amending_title: Regulamento (UE) n. o 801/2013 da Comissão de 22 de agosto de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Entrada em vigor
+    - Altera Lista de produtos consumidores de energia abrangidos pelo presente regulamento
+    - Altera Requisitos de concepção ecológica
+    - Altera Procedimento de verificação
+    - Altera Padrões de referência
+    - Altera Notas
+    - Adita Artigo 1.º — Objeto e âmbito
+    - Adita Artigo 3.º — Requisitos de conceção ecológica
+    - Adita Artigo 7.º — Exame
+    - Suprime Artigo 1.º — Objecto e âmbito
+    - Suprime Artigo 3.º — Requisitos de concepção ecológica
+    - Suprime Artigo 7.º — Revisão
+  - date: '2017-01-09'
+    amending: eu:celex:32016R2282:por
+    amending_title: REGULAMENTO (UE) 2016/2282 DA COMISSÃO de 30 de novembro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Lista de produtos consumidores de energia abrangidos pelo presente regulamento
+    - Altera Notas
+    - Adita Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado
+    - Adita 1. PROCEDIMENTO DE VERIFICAÇÃO
+    - Adita 2. PROCEDIMENTO DE ENSAIO PARA EQUIPAMENTO EM REDE
+    - Suprime Procedimento de verificação
+  - date: '2021-03-01'
+    amending: eu:celex:32019R2021:por
+    amending_title: REGULAMENTO (UE) 2019/2021 DA COMISSÃO de 1 de outubro de 2019; REGULAMENTO (UE) 2019/2022 DA COMISSÃO
+      de 1 de outubro de 2019; REGULAMENTO (UE) 2019/2023 DA COMISSÃO de 1 de outubro de 2019
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Lista de produtos consumidores de energia abrangidos pelo presente regulamento
+    - Altera Requisitos de concepção ecológica
+    - Altera Notas
 identifiers:
   celex: 32008R1275
   eli: http://data.europa.eu/eli/reg/2008/1275/oj
@@ -52,7 +133,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5e83b865-7731-4fc2-ac8f-3295c9908470.0018
   content_url: http://publications.europa.eu/resource/cellar/daf7353c-8121-11eb-9ac9-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R1275-20210301
-  retrieved_at: '2026-10-22T02:48:04Z'
+  retrieved_at: '2026-10-22T17:39:01Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-31T03:35:16.357+01:00'
 integrity:
@@ -61,9 +142,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:04Z'
-  notes: Texto consolidado 02008R1275-20210301.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:39:01Z'
+  notes: 7 versão(ões); histórico completo em regulamento-ue-2008-1275.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -165,36 +246,19 @@ relationships:
   date: '2023-04-18'
 article_structure:
   article_count: 8
-  section_count: 10
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 11
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:04Z'
+  checked_at: '2026-10-22T17:39:01Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 1275/2008 da Comissão, de 17 de Dezembro de 2008
-
-> 02008R1275 — PT — 01.03.2021 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009R0278) — [REGULAMENTO (CE) N.º 278/2009 DA COMISSÃO de 6 de Abril de 2009](http://publications.europa.eu/resource/celex/32009R0278) — L 93 — 3 — 7.4.2009
-- [►M2](http://publications.europa.eu/resource/celex/32009R0642) — [REGULAMENTO (CE) N.º 642/2009 DA COMISSÃO de 22 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0642) — L 191 — 42 — 23.7.2009
-- [M3](http://publications.europa.eu/resource/celex/32013R0617) — [REGULAMENTO (UE) N.º 617/2013 DA COMISSÃO de 26 de junho de 2013](http://publications.europa.eu/resource/celex/32013R0617) — L 175 — 13 — 27.6.2013
-- [►M4](http://publications.europa.eu/resource/celex/32013R0801) — [REGULAMENTO (UE) N.º 801/2013 DA COMISSÃO de 22 de agosto de 2013](http://publications.europa.eu/resource/celex/32013R0801) — L 225 — 1 — 23.8.2013
-- [►M5](http://publications.europa.eu/resource/celex/32016R2282) — [REGULAMENTO (UE) 2016/2282 DA COMISSÃO de 30 de novembro de 2016](http://publications.europa.eu/resource/celex/32016R2282) — L 346 — 51 — 20.12.2016
-- [►M6](http://publications.europa.eu/resource/celex/32019R2021) — [REGULAMENTO (UE) 2019/2021 DA COMISSÃO de 1 de outubro de 2019](http://publications.europa.eu/resource/celex/32019R2021) — L 315 — 241 — 5.12.2019
-- [►M7](http://publications.europa.eu/resource/celex/32019R2022) — [REGULAMENTO (UE) 2019/2022 DA COMISSÃO de 1 de outubro de 2019](http://publications.europa.eu/resource/celex/32019R2022) — L 315 — 267 — 5.12.2019
-- [►M8](http://publications.europa.eu/resource/celex/32019R2023) — [REGULAMENTO (UE) 2019/2023 DA COMISSÃO de 1 de outubro de 2019](http://publications.europa.eu/resource/celex/32019R2023) — L 315 — 285 — 5.12.2019
-
-## REGULAMENTO (CE) N.º 1275/2008 DA COMISSÃO
 
 de 17 de dezembro de 2008
 

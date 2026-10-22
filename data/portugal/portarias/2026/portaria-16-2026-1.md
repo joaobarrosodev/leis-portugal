@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/16/2026/01/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/16-2026-1003479553
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-12T00:00:00Z'
+  retrieved_at: '2026-10-22T18:28:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c323fc8a626fe5acaa2db14da832b63cdf4d150fdc8dd2d2ac97b43c82652c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69ce42e093bcc678cd6c2cbf2d43f360dfc84662fe06cc1b7885f0876e2e1d16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:28:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Indústria Automóvel
-- Energia Elétrica
-- Regulamentação de Atos Legislativos
 - Direção Geral de Energia e Geologia
-- Mobilidade Elétrica
+- Energia Elétrica
+- Indústria Automóvel
 - Licenciamento
-- Veículo Elétrico
-- Taxa
+- Mobilidade Elétrica
 - Plataforma Eletrónica
+- Regulamentação de Atos Legislativos
+- Taxa
+- Veículo Elétrico
 relationships:
 - type: cites
   target: celex:32023R1804
@@ -98,16 +98,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/241/2015/08/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/241/2015/08/12/p/dre
+- type: cites
+  target: pt:dre:66528823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69992909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928937303:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:241/2015
+  label: Revoga, a partir de 13 de janeiro de 2026, a Portaria n.º 241/2015, de 12 de agosto, Diário da República n.º 156/2015,
+    Série I
+  source: null
+  date: '2015-08-12'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:28:22Z'
   warnings: []
   errors: []
 ---
@@ -164,13 +186,13 @@ f) Declaração escrita pela qual o requerente assume o compromisso de proceder 
 
 1 - A licença de operador de pontos de carregamento é emitida pelo prazo de 10 anos, sem prejuízo da sua caducidade, no prazo de 12 meses contados a partir da data da sua emissão, resultante da não instalação de qualquer ponto de carregamento, por motivo imputável ao operador de pontos de carregamento, nos termos do n.º 7 do artigo 10.º do [Decreto-Lei n.º 93/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2025-928937303), de 14 de agosto.
 
-2 - Com a formação do deferimento tácito previsto nos n.<sup>os</sup>4 e 5 do artigo 10.º do [Decreto-Lei n.º 93/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2025-928937303), de 14 de agosto, produzem provisoriamente os mesmos efeitos da licença de operador de pontos de carregamento a apresentação pelo operador de pontos de carregamento de, cumulativamente:
+2 - Com a formação do deferimento tácito previsto nos n.os4 e 5 do artigo 10.º do [Decreto-Lei n.º 93/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2025-928937303), de 14 de agosto, produzem provisoriamente os mesmos efeitos da licença de operador de pontos de carregamento a apresentação pelo operador de pontos de carregamento de, cumulativamente:
 
 a) A prova da comunicação a que se refere o n.º 5 do artigo 10.º do [Decreto-Lei n.º 93/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2025-928937303), de 14 de agosto;
 
 b) A prova da existência da apólice de seguro prevista no artigo 27.º do [Decreto-Lei n.º 93/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2025-928937303), de 14 de agosto;
 
-c) O comprovativo do pagamento das taxas devidas, nos termos da portaria prevista no artigo 39.º do [Decreto-Lei n.º 93/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2025-928937303), de 14 de agosto, que pode ser realizado por autoliquidação, nos termos dos n.<sup>os</sup>3 e 4 do artigo seguinte.
+c) O comprovativo do pagamento das taxas devidas, nos termos da portaria prevista no artigo 39.º do [Decreto-Lei n.º 93/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2025-928937303), de 14 de agosto, que pode ser realizado por autoliquidação, nos termos dos n.os3 e 4 do artigo seguinte.
 
 3 - A licença de operador de pontos de carregamento a emitir após a formação do deferimento tácito produz efeitos retroativos à data mais recente do último dos atos previstos nas alíneas a) a c) do número anterior.
 
@@ -216,4 +238,6 @@ b) Emite, a pedido de interessado, uma referência para pagamento da taxa.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 4 de janeiro de 2026.**
+A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 4 de janeiro de 2026.
+
+119947156

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/135/2026/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/135-2026-1139191708
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-26T00:00:00Z'
+  retrieved_at: '2026-10-22T18:45:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 541fc428aa4a4b9e5cdd7c681765609a0d50fcc94d3be6619d45847e51f0fcc6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65586694c1e60f152f24b879e1b598a4a375e053b5893d084ee7c2bccd89ee1d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:45:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Conselho Nacional de Planeamento Civil de Emergência
-- Segurança Interna
-- Regulamentação de Atos Legislativos
 - Cibercrime
-- Segurança da Informação
-- Segurança das Instalações
-- Secretário Geral do Sistema de Segurança Interna
+- Conselho Nacional de Planeamento Civil de Emergência
 - Entidades críticas
 - Estratégia Nacional para a Resiliência das Entidades Críticas
+- Regulamentação de Atos Legislativos
+- Secretário Geral do Sistema de Segurança Interna
+- Segurança da Informação
+- Segurança das Instalações
+- Segurança Interna
 relationships:
 - type: cites
   target: celex:32008L0114
@@ -99,6 +99,14 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: cites
+  target: pt:dre:911488699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:962603401:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32022L2557
   label: null
@@ -106,13 +114,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:45:12Z'
   warnings: []
   errors: []
 ---
@@ -395,7 +403,7 @@ O quadro de governação para alcançar os objetivos estratégicos contempla uma
 
 Secretário-Geral do Sistema de Segurança Interna
 
-**O Secretário-Geral do Sistema de Segurança Interna é a autoridade nacional competente na coordenação e supervisão das medidas de reforço da resiliência das entidades críticas, face a incidentes, riscos e ameaças que possam comprometer a prestação de serviços essenciais.**
+O Secretário-Geral do Sistema de Segurança Interna é a autoridade nacional competente na coordenação e supervisão das medidas de reforço da resiliência das entidades críticas, face a incidentes, riscos e ameaças que possam comprometer a prestação de serviços essenciais.
 
 Compete-lhe coordenar a elaboração e sucessivas atualizações da avaliação nacional de risco, que visa apoiar a identificação das entidades críticas e a adoção de medidas de resiliência; e a Estratégia Nacional para a Resiliência das Entidades Críticas, e revisões ulteriores, que estabelece as medidas políticas, os objetivos estratégicos e as respetivas linhas de ação.
 
@@ -417,7 +425,7 @@ A articulação com entidades congéneres da União Europeia constitui uma dimen
 
 Assegura ainda e mantém atualizada a plataforma eletrónica de registo das entidades e infraestruturas críticas que compreende, entre outras informações, a sua catalogação; o elenco de contactos de cooperação institucional e de coordenação operacional; a seriação dos planos de resiliência, segurança e intervenção; a gestão de acidentes e incidentes relevantes, e demais dados que permitam planear e priorizar as medidas de reforço da resiliência.
 
-**O Secretário-Geral do Sistema de Segurança Interna assegura a articulação entre o Sistema de Segurança Interna e o Sistema Nacional de Planeamento Civil de Emergência, que visa garantir a organização e preparação dos setores estratégicos do Estado para fazer face a situações de crise, tendo como fim assegurar a liberdade e a continuidade da ação governativa; o funcionamento regular dos serviços essenciais do Estado, e a segurança e o bem-estar das populações.**
+O Secretário-Geral do Sistema de Segurança Interna assegura a articulação entre o Sistema de Segurança Interna e o Sistema Nacional de Planeamento Civil de Emergência, que visa garantir a organização e preparação dos setores estratégicos do Estado para fazer face a situações de crise, tendo como fim assegurar a liberdade e a continuidade da ação governativa; o funcionamento regular dos serviços essenciais do Estado, e a segurança e o bem-estar das populações.
 
 Conselho Nacional de Planeamento Civil de Emergência
 
@@ -645,3 +653,7 @@ CNPCE - Conselho Nacional de Planeamento Civil de Emergência.
 GNS - Gabinete Nacional de Segurança.
 
 SGSSI - Secretário-Geral do Sistema de Segurança Interna.
+
+119948664
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:82px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { text-align:justify; text-align-last:justify; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl10 { min-height:95px; } .Tbl11 { min-height:57px; } .Tbl12 { min-height:66px; } .Tbl13 { min-height:106px; } .Tbl14 { min-height:87px; } .Tbl15 { min-height:58px; } .Tbl16 { min-height:68px; } .Tbl17 { min-height:110px; } .Tbl18 { min-height:91px; } .Tbl19 { min-height:72px; } .Tbl20 { min-height:62px; } .Tbl21 { min-height:120px; } .Tbl22 { min-height:129px; } .Tbl23 { min-height:105px; } .Tbl24 { min-height:47px; } .Tbl25 { min-height:85px; } .Tbl26 { min-height:113px; } .Tbl27 { min-height:94px; } .Tbl28 { min-height:75px; } .Tbl29 { min-height:132px; } .Tbl30 { min-height:124px; } .Tbl31 { min-height:76px; }

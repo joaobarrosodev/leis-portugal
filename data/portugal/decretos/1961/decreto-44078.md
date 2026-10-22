@@ -48,40 +48,102 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44078-1961-185077
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-01-23T00:00:00Z'
+  retrieved_at: '2026-10-22T19:27:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ea222fc7e64c3b0395b2a3542ca86a3cb8152359f729f6d0d4e10da1dc491f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7920fd46ab81e7a8acbf13da08238ad0fce1416ef3837bdf68599063bfd91d2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:27:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Ultramarina
+- Aposentação
+- CABO Verde.Colónia Portuguesa
+- Concurso
+- Criação de Lugares
+- Definição de Competências
+- Diretor
+- Escola de Enfermagem
+- Estabelecimento Hospitalar
+- Estado Português da Índia
+- Estatuto
+- Exploração Mineira
+- Férias
+- Formas de Provimento
+- Funcionário Público
+- Gestão Financeira
+- Gestão Orçamental
+- Governo Colonial
+- Gratificação
+- Integração de Trabalhadores
+- Junta de Exportação do Algodão
+- Junta de Exportação do Café
+- Junta de Exportação dos Cereais
+- Médico
+- Mocidade Portuguesa
+- Orçamento
+- Pessoal Assalariado
+- Pessoal Docente
+- Quadro de Pessoal
+- Remuneração
+- Subsídio
+- Tempo de Serviço
+- Tribunal Administrativo
 relationships:
 - type: amended_by
   target: pt:dre:469382:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:173969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678578:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:469382:por
+  label: "Revogados os os arts. 7º, 8º e 16º pelo DEC.45541.23.01.1964.MU, DG.IS [19] de 23.01.1964\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/45541-1964-469382
+  date: '1964-01-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:27:09Z'
   warnings: []
   errors: []
 ---
@@ -106,15 +168,15 @@ Disposições especiais
 
 A) Cabo Verde
 
-###### Artigo 1.º Destinado ao serviço do arquivo, é criado na Repartição do Gabinete do Governo da província um lugar de aspirante.
+Artigo 1.º Destinado ao serviço do arquivo, é criado na Repartição do Gabinete do Governo da província um lugar de aspirante.
 
-###### Art. 2.º É criado o lugar de secretário privativo do Tribunal Administrativo da província, que será provido de conformidade com as disposições a editar pelos órgãos legislativos locais.
+Art. 2.º É criado o lugar de secretário privativo do Tribunal Administrativo da província, que será provido de conformidade com as disposições a editar pelos órgãos legislativos locais.
 
-###### Art. 3.º É aumentado de cinco unidades o quadro dos professores contratados de posto escolar.
+Art. 3.º É aumentado de cinco unidades o quadro dos professores contratados de posto escolar.
 
-###### Art. 4.º Enquanto não for dada execução à parte final do artigo 30.º do [Decreto-Lei n.º 43913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43913-1961-180424), de 14 de Setembro de 1961, é fixada em 455000$00 a dotação destinada a pessoal eventual do ensino primário.
+Art. 4.º Enquanto não for dada execução à parte final do artigo 30.º do [Decreto-Lei n.º 43913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43913-1961-180424), de 14 de Setembro de 1961, é fixada em 455000$00 a dotação destinada a pessoal eventual do ensino primário.
 
-###### Art. 5.º São aditadas ao mapa II anexo ao Decreto n.º 40701, de 31 de Julho de 1956, as seguintes gratificações especiais mensais:
+Art. 5.º São aditadas ao mapa II anexo ao Decreto n.º 40701, de 31 de Julho de 1956, as seguintes gratificações especiais mensais:
 
 1) Liceu da Praia:
 
@@ -128,13 +190,13 @@ Director da escola de enfermagem anexa ao Hospital Central do Mindelo (durante d
 
 Professores da escola de enfermagem anexa ao Hospital Central do Mindelo (durante dez meses) ... 200$00
 
-###### Art. 6.º Para o ano de 1962 são fixados nas seguintes importâncias os subsídios a que se refere o artigo 14.º do [Decreto-Lei n.º 39837](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39837-1954-678578), de 2 de Outubro de 1954:
+Art. 6.º Para o ano de 1962 são fixados nas seguintes importâncias os subsídios a que se refere o artigo 14.º do [Decreto-Lei n.º 39837](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39837-1954-678578), de 2 de Outubro de 1954:
 
 a) Mocidade Portuguesa Masculina ... 120000$00
 
 b) Mocidade Portuguesa Feminina ... 50000$00
 
-###### Art. 7.º É criado na província um serviço social, dotado com os seguintes lugares:
+Art. 7.º É criado na província um serviço social, dotado com os seguintes lugares:
 
 a) Pessoal de nomeação:
 
@@ -152,7 +214,7 @@ b) Pessoal contratado:
 
 § 2.º Os lugares de assistente social e os de auxiliares sociais consideram-se incluídos, respectivamente, nos grupos N e Q do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
 
-###### Art. 8.º As despesas do serviço social referido no corpo do artigo antecedente constituem encargo do Cofre do Trabalho e Repatriação.
+Art. 8.º As despesas do serviço social referido no corpo do artigo antecedente constituem encargo do Cofre do Trabalho e Repatriação.
 
 § único. É criado no orçamento geral da província a seguinte rubrica de receita ordinária:
 
@@ -160,15 +222,15 @@ Reembolsos e reposições:
 
 A receber do Cofre de Trabalho e Repatriação para cobertura das despesas com o serviço social.
 
-###### Art. 9.º São fixadas nas seguintes importâncias as gratificações especiais mensais a abonar aos encarregados das estações postais de 3.ª classe da província de Cabo Verde:
+Art. 9.º São fixadas nas seguintes importâncias as gratificações especiais mensais a abonar aos encarregados das estações postais de 3.ª classe da província de Cabo Verde:
 
 a) Quando os encarregados exerçam quaisquer funções públicas remuneradas ... 100$00
 
 b) Quando os encarregados não exerçam quaisquer funções públicas remuneradas ... 150$00
 
-###### Art. 10.º O quadro do pessoal assalariado dos serviços de farolagem e semafóricos da província é aumentado com um lugar de sinaleiro.
+Art. 10.º O quadro do pessoal assalariado dos serviços de farolagem e semafóricos da província é aumentado com um lugar de sinaleiro.
 
-###### Art. 11.º É autorizado o governador da província:
+Art. 11.º É autorizado o governador da província:
 
 1.º A fixar os quadros do pessoal das oficinas da província, e bem assim as respectivas remunerações, tendo em vista os limites máximos atribuídos por lei a agentes da mesma categoria ou designação;
 
@@ -180,9 +242,9 @@ b) Quando os encarregados não exerçam quaisquer funções públicas remunerada
 
 B) Índia
 
-###### Art. 12.º O lugar de chefe da Repartição de Minas dos Serviços de Economia do Estado da Índia considera-se incluído, enquanto os referidos serviços não forem reorganizados pelo Ministro do Ultramar, no grupo F referido no artigo 90.º do Estatuto do Funcionalismo Ultramarino.
+Art. 12.º O lugar de chefe da Repartição de Minas dos Serviços de Economia do Estado da Índia considera-se incluído, enquanto os referidos serviços não forem reorganizados pelo Ministro do Ultramar, no grupo F referido no artigo 90.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 13.º É suspensa, temporàriamente, a execução do disposto no n.º 2.º do artigo 130.º do Decreto de 20 de Setembro de 1906, que regulamentou a pesquisa e lavra de minas no ultramar.
+Art. 13.º É suspensa, temporàriamente, a execução do disposto no n.º 2.º do artigo 130.º do Decreto de 20 de Setembro de 1906, que regulamentou a pesquisa e lavra de minas no ultramar.
 
 § único. A suspensão determinada no presente artigo poderá ser tornada extensiva a outras províncias ultramarinas por portaria do Ministro do Ultramar.
 
@@ -190,9 +252,9 @@ II
 
 Disposições comuns
 
-###### Art. 14.º É substituída pela seguinte redacção dos artigos 65.º, 164.º e 228.º do Estatuto do Funcionalismo Ultramarino:
+Art. 14.º É substituída pela seguinte redacção dos artigos 65.º, 164.º e 228.º do Estatuto do Funcionalismo Ultramarino:
 
-###### Art. 65.º As nomeações interinas são sempre precárias e temporárias.
+Art. 65.º As nomeações interinas são sempre precárias e temporárias.
 
 § único. As nomeações feitas pelo Ministro e as confirmadas por este produzirão efeito enquanto durarem as circunstâncias que as justifiquem. As feitas pelos governadores caducam ao fim de um ano, podendo, porém, ser renovadas por eles por igual período, quando o interesse da Administração o justifique.
 
@@ -200,11 +262,11 @@ Findos os dois anos não será permitida nova recondução, salvo autorização 
 
 ...
 
-###### Art. 164.º As gratificações destinadas a remunerar serviços especializados serão abonadas em todas as situações que decorrerem nas províncias ultramarinas e que nelas derem direito, ao respectivo funcionário, à percepção do vencimento de exercício.
+Art. 164.º As gratificações destinadas a remunerar serviços especializados serão abonadas em todas as situações que decorrerem nas províncias ultramarinas e que nelas derem direito, ao respectivo funcionário, à percepção do vencimento de exercício.
 
 ...
 
-###### Art. 228.º Na situação de licença graciosa os funcionários têm direito ùnicamente aos seguintes vencimentos:
+Art. 228.º Na situação de licença graciosa os funcionários têm direito ùnicamente aos seguintes vencimentos:
 
 a) Sendo a licença gozada na própria província, 75 por cento dos vencimentos certos;
 
@@ -216,15 +278,15 @@ c) Sendo gozada noutra província ultramarina, o vencimento de categoria e o ven
 
 § 2.º O pagamento será feito na moeda do local em que o funcionário goza licença.
 
-###### Art. 15.º Até ao quantitativo da dotação da verba a que se refere o artigo 22.º do [Decreto-Lei n.º 43913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43913-1961-180424), de 14 de Setembro de 1961, pode o Ministro do Ultramar prover no exercício eventual de funções docentes, em qualquer grau ou ramo de ensino, pessoas idóneas residentes na metrópole.
+Art. 15.º Até ao quantitativo da dotação da verba a que se refere o artigo 22.º do [Decreto-Lei n.º 43913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43913-1961-180424), de 14 de Setembro de 1961, pode o Ministro do Ultramar prover no exercício eventual de funções docentes, em qualquer grau ou ramo de ensino, pessoas idóneas residentes na metrópole.
 
 § 1.º Os indivíduos assim nomeados terão direito aos vencimentos previstos no corpo do artigo 25.º do referido [Decreto-Lei n.º 43913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43913-1961-180424) durante todo o ano, a uma passagem de ida para ocupar os seus lugares e à passagem de regresso subsequente à exoneração.
 
 § 2.º Quando os indivíduos referidos neste artigo tenham servido a respectiva província, como professores eventuais, por período superior a dois anos, terão direito a passagens à custa do Estado para as pessoas de sua família, nas mesmas condições em que são abonadas aos funcionários públicos de nomeação definitiva.
 
-###### Art. 16.º O artigo 68.º do [Decreto n.º 34417](https://diariodarepublica.pt/dr/detalhe/decreto/34417-1945-624637), de 21 de Fevereiro de 1945, passa a ter a seguinte redacção:
+Art. 16.º O artigo 68.º do [Decreto n.º 34417](https://diariodarepublica.pt/dr/detalhe/decreto/34417-1945-624637), de 21 de Fevereiro de 1945, passa a ter a seguinte redacção:
 
-###### Art. 68.º O ingresso no quadro médico comum far-se-á pela forma determinada na base XLI, n.º III, da Lei Orgânica do Ultramar, na categoria de médico de 2.ª classe, mediante concurso documental aberto periòdicamente no Ministério do Ultramar e que, em regra, será válido para as vagas que ocorrerem no mesmo quadro durante o biénio seguinte à publicação da lista dos candidatos aprovados.
+Art. 68.º O ingresso no quadro médico comum far-se-á pela forma determinada na base XLI, n.º III, da Lei Orgânica do Ultramar, na categoria de médico de 2.ª classe, mediante concurso documental aberto periòdicamente no Ministério do Ultramar e que, em regra, será válido para as vagas que ocorrerem no mesmo quadro durante o biénio seguinte à publicação da lista dos candidatos aprovados.
 
 § 1.º Além dos requisitos gerais exigidos por lei para o desempenho de funções públicas, são condições especiais para a admissão a este concurso:
 
@@ -238,23 +300,23 @@ c) Sendo gozada noutra província ultramarina, o vencimento de categoria e o ven
 
 § 3.º Poderá o Ministro do Ultramar também dispensar a habilitação dos cursos de Medicina Tropical e Sanitária, ficando, neste caso, a nomeação definitiva dependente da aprovação nos exames finais dos referidos cursos; sempre que a frequência destes cursos coincidir com o gozo de licença graciosa, pode o Ministro do Ultramar, a requerimento dos interessados fundamentado na impossibilidade de os concluir dentro do prazo da licença, prolongar a sua permanência na metrópole por mais 60 dias.
 
-###### Art. 17.º O tempo de serviço prestado pelo pessoal das sedes dos organismos de coordenação económica extintos pelo [Decreto-Lei n.º 43874](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43874-1961-173969), de 24 de Agosto de 1961, e que ingresse nos quadros dos institutos criados pelo mesmo decreto-lei, é contado, para todos os efeitos legais, incluindo o da aposentação, nos termos estabelecidos na lei para os demais funcionários públicos.
+Art. 17.º O tempo de serviço prestado pelo pessoal das sedes dos organismos de coordenação económica extintos pelo [Decreto-Lei n.º 43874](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43874-1961-173969), de 24 de Agosto de 1961, e que ingresse nos quadros dos institutos criados pelo mesmo decreto-lei, é contado, para todos os efeitos legais, incluindo o da aposentação, nos termos estabelecidos na lei para os demais funcionários públicos.
 
 § 1.º As quotas devidas para se adquirir a regalia a que se refere o corpo do artigo poderão ser descontadas nos vencimentos respectivos até ao máximo de 96 prestações mensais, sem prejuízo do que vier a ser estabelecido por força do § único do artigo 3.º dos Diplomas Legislativos Ministeriais n.os 6 e 73, de 11 e 25 de Outubro de 1961, publicados, respectivamente, em Moçambique e Angola.
 
 § 2.º Se os interessados já tiverem descontado quotas para o mesmo fim para as caixas de previdência metropolitanas ou outras entidades de igual natureza, as mesmas quotas poderão transitar para «Depósitos c/ ultramar - Compensação de aposentação», por acordo entre a Direcção-Geral de Fazenda do ultramar e as referidas caixas; nesta hipótese, os empregados dos extintos organismos só terão de descontar, em prestações, que poderão ir igualmente até 96, a diferença entre as quotas com que porventura tenham entrado nas mencionadas caixas e as que deverem descontar para compensação de aposentação, em qualquer caso sem juros de mora.
 
-###### Art. 18.º Não obsta a que transite para os quadros do pessoal dos institutos criados pelo [Decreto-Lei n.º 43874](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43874-1961-173969), de 24 de Agosto de 1961, nos termos do seu artigo 7.º, o pessoal dos organismos de coordenação económica extintos pelo mesmo diploma que em 1 de Janeiro de 1962 tenha já atingido o limite de idade de 70 anos ou tenha sido dado como definitivamente incapaz para o serviço do ultramar pela competente junta de saúde.
+Art. 18.º Não obsta a que transite para os quadros do pessoal dos institutos criados pelo [Decreto-Lei n.º 43874](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43874-1961-173969), de 24 de Agosto de 1961, nos termos do seu artigo 7.º, o pessoal dos organismos de coordenação económica extintos pelo mesmo diploma que em 1 de Janeiro de 1962 tenha já atingido o limite de idade de 70 anos ou tenha sido dado como definitivamente incapaz para o serviço do ultramar pela competente junta de saúde.
 
 § 1.º O pessoal de que trata o corpo do presente artigo considerar-se-á, depois da sua transição para os institutos, sem dependência de mais formalidades, na situação de desligado do serviço aguardando aposentação, com direito a pensão provisória de aposentação, desde que conte o tempo mínimo necessário para a mesma.
 
 § 2.º Ao mesmo pessoal será permitido descontar na pensão fixada e dentro do limite fixado no § 1.º do artigo antecedente a importância das quotas em dívida.
 
-###### Art. 19.º Às aposentações do pessoal dos institutos criados pelo [Decreto-Lei n.º 43874](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43874-1961-173969), de 24 de Agosto de 1961, será aplicável o disposto no artigo 2.º do [Decreto n.º 24182](https://diariodarepublica.pt/dr/detalhe/decreto/24182-1934-466461), de 17 de Julho de 1934, e bem assim a doutrina do seu artigo 9.º
+Art. 19.º Às aposentações do pessoal dos institutos criados pelo [Decreto-Lei n.º 43874](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43874-1961-173969), de 24 de Agosto de 1961, será aplicável o disposto no artigo 2.º do [Decreto n.º 24182](https://diariodarepublica.pt/dr/detalhe/decreto/24182-1934-466461), de 17 de Julho de 1934, e bem assim a doutrina do seu artigo 9.º
 
-###### Art. 20.º Salvo os artigos 12.º a 19.º, que se aplicam desde já, as disposições do presente decreto entrarão em vigor desde 1 de Janeiro de 1962.
+Art. 20.º Salvo os artigos 12.º a 19.º, que se aplicam desde já, as disposições do presente decreto entrarão em vigor desde 1 de Janeiro de 1962.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Dezembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

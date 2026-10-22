@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/76/2026/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/76-2026-1049254420
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-13T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d8ff9a2120c52579a769400d9c944e4e80084fd2ffe7b7ae1700adaf4ad234e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 40236f828db0e6e947f7375a7a60454748b2985005c228a38d54535930554e51
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
+- Condições de Higiene e Segurança no Trabalho
 - Contrato Coletivo de Trabalho
-- Regime Laboral
 - Prestação de Serviços
 - Radio e Televisão de Portugal
-- Condições de Higiene e Segurança no Trabalho
+- Regime Laboral
 - Regulamento de Extensão
 - Tabela Salarial
 relationships:
@@ -79,16 +79,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/82/2017/06/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/82/2017/06/09/p/dre
+- type: cites
+  target: pt:dre:107495701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:927634612:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:18Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +121,7 @@ Considerando que a convenção tem por âmbito geográfico de aplicação todo o
 
 Considerando ainda que a convenção coletiva regula diversas condições de trabalho, procede-se à ressalva genérica de cláusulas contrárias a normas legais imperativas.
 
-Nos termos da alínea c) do n.º 1 do artigo 478.º do Código do Trabalho e dos n.<sup>os</sup>2 e 4 da referida RCM, na fixação da eficácia das cláusulas de natureza pecuniária foi tido em conta a data do depósito das alterações da convenção, o termo do prazo para a emissão da portaria de extensão e a produção de efeitos requerida pelo empregador.
+Nos termos da alínea c) do n.º 1 do artigo 478.º do Código do Trabalho e dos n.os2 e 4 da referida RCM, na fixação da eficácia das cláusulas de natureza pecuniária foi tido em conta a data do depósito das alterações da convenção, o termo do prazo para a emissão da portaria de extensão e a produção de efeitos requerida pelo empregador.
 
 Foi publicado o aviso relativo ao projeto da presente extensão no Boletim do Trabalho e Emprego (BTE), separata, n.º 21, de 29 de dezembro de 2025, ao qual não foi deduzida oposição por parte dos interessados.
 
@@ -133,4 +141,6 @@ Manda o Governo, pelo Secretário de Estado Adjunto e do Trabalho, no uso da com
 
 2 - A tabela salarial e as cláusulas de natureza pecuniária previstas na convenção produzem efeitos a 1 de janeiro de 2025.
 
-**O Secretário de Estado Adjunto e do Trabalho, Adriano Rafael Sousa Moreira, em 6 de fevereiro de 2026.**
+O Secretário de Estado Adjunto e do Trabalho, Adriano Rafael Sousa Moreira, em 6 de fevereiro de 2026.
+
+119947647

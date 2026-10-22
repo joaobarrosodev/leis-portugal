@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/71-f/2026/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/71-f-2026-1093663479
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-24T00:00:00Z'
+  retrieved_at: '2026-10-22T18:39:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5c87c2946642be91995a95628f3c69f653d2d99af8bbd39866d16e257b14881
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f8dab6a0de6b6bd05df0c2a784fde2a4f7d597d136f36626808814304bee5fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:39:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,13 +72,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:39:20Z'
   warnings: []
   errors: []
 ---
@@ -87,16 +87,18 @@ validation:
 
 de 24 de abril
 
-**O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 133.º, alínea l), da Constituição, o seguinte:**
+O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 133.º, alínea l), da Constituição, o seguinte:
 
 É nomeado o juiz desembargador Paulo Duarte Barreto Ferreira para o cargo de Representante da República para a Região Autónoma da Madeira.
 
-**Assinado em 24 de abril de 2026.**
+Assinado em 24 de abril de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 24 de abril de 2026.**
+Referendado em 24 de abril de 2026.
 
 Pelo Primeiro-Ministro, Joaquim Miranda Sarmento, Ministro de Estado e das Finanças.
+
+119948371

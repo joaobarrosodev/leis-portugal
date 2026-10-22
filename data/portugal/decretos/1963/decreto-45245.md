@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45245-1963-686380
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-09-14T00:00:00Z'
+  retrieved_at: '2026-10-22T19:36:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: febbadc89a71772bdfe4065e42832cd590968562e4497f58220f6759d945620d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c54b25bc5ee73821b0d47d51c803d3f720824670244d20a4e1f5f7cf82dfd8a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:36:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:518398:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:36:38Z'
   warnings: []
   errors: []
 ---
@@ -88,11 +92,11 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida no n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, o seguinte:
 
-###### Artigo 1.º O título da secção III do capítulo III do [Decreto n.º 44239](https://diariodarepublica.pt/dr/detalhe/decreto/44239-1962-518398), de 16 de Março de 1962, passa a ter a seguinte designação: «Das nomeações e promoções».
+Artigo 1.º O título da secção III do capítulo III do [Decreto n.º 44239](https://diariodarepublica.pt/dr/detalhe/decreto/44239-1962-518398), de 16 de Março de 1962, passa a ter a seguinte designação: «Das nomeações e promoções».
 
-###### Art. 2.º A redacção do artigo 31.º do referido decreto é substituída pela seguinte:
+Art. 2.º A redacção do artigo 31.º do referido decreto é substituída pela seguinte:
 
-###### Art. 31.º O provimento dos cargos de director de serviços e inspector provincial obedecerá, respectivamente, às seguintes regras:
+Art. 31.º O provimento dos cargos de director de serviços e inspector provincial obedecerá, respectivamente, às seguintes regras:
 
 1.º As funções de director de serviços serão exercidas, em comissão, por engenheiros geógrafos-chefes ou actuais chefes de divisão técnica, com mais de quatro anos de serviços nessas categorias, ou por pessoas estranhas ao quadro que se achem habilitadas com um curso superior que se adapte à natureza dos serviços e que, pelos seus méritos profissionais, ou serviços prestados, dêem garantia de bom desempenho do cargo.
 
@@ -102,7 +106,7 @@ a) Por transferência, determinada pelo Ministro do Ultramar, do director provin
 
 b) Por nomeação de pessoas que reúnam as condições exigidas na primeira parte do n.º 1.º do presente artigo, ou, excepcionalmente, sendo estranhas ao quadro, que se encontrem nas condições referidas na sua segunda parte.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Setembro de 1963. - ANTÓNIO DE OLIVEIRA SALAZAR - António Augusto Peixoto Correia.
 

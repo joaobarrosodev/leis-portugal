@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43877-1961-173972
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-08-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:25:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29d2ea3787d9acc5df4a0c9c527bab0a744082a99e07116038343580505dde2d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7595c9b220421e22c2b9ac44ac8e46611d2cd4ef4a5f4fcea3e4a9c152d7318
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:25:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:25:14Z'
   warnings: []
   errors: []
 ---
@@ -86,9 +90,9 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É criado o Instituto do Café de Angola, organismo de coordenação económica, com personalidade jurídica e autonomia administrativa e financeira, o qual tem a sua sede em Luanda.
+Artigo 1.º É criado o Instituto do Café de Angola, organismo de coordenação económica, com personalidade jurídica e autonomia administrativa e financeira, o qual tem a sua sede em Luanda.
 
-###### Art. 2.º O Instituto do Café de Angola tem por objectivos:
+Art. 2.º O Instituto do Café de Angola tem por objectivos:
 
 1.º Orientar, disciplinar e fiscalizar as actividades relacionadas com a produção, o comércio e a exportação do café da província;
 
@@ -96,7 +100,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 3.º Defender os interesses dos produtores do café.
 
-###### Art. 3.º Para desempenho das suas atribuições compete especialmente ao Instituto do Café de Angola:
+Art. 3.º Para desempenho das suas atribuições compete especialmente ao Instituto do Café de Angola:
 
 1.º Orientar a produção do café tendo em vista a melhoria da sua qualidade e as exigências do desenvolvimento e do equilíbrio económico perante a quantidade;
 
@@ -126,11 +130,11 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 14.º Colaborar na propaganda de cafés, tendo em vista a expansão do seu consumo nos diversos mercados, em colaboração com os órgãos metropolitanos competentes.
 
-###### Art. 4.º O Instituto do Café de Angola será obrigatòriamente consultado pelos organismos oficiais quanto aos assuntos que interessem ao exercício das actividades económicas em que superintende ou que com elas estejam relacionados.
+Art. 4.º O Instituto do Café de Angola será obrigatòriamente consultado pelos organismos oficiais quanto aos assuntos que interessem ao exercício das actividades económicas em que superintende ou que com elas estejam relacionados.
 
-###### Art. 5.º O Instituto do Café de Angola corresponder-se-á directamente com todas as entidades oficiais, organismos e autoridades da província, a quem solicitará esclarecimentos, auxílio e outra colaboração de que carecer.
+Art. 5.º O Instituto do Café de Angola corresponder-se-á directamente com todas as entidades oficiais, organismos e autoridades da província, a quem solicitará esclarecimentos, auxílio e outra colaboração de que carecer.
 
-###### Art. 6.º O Instituto do Café de Angola tem um director e um director adjunto, ambos nomeados pelo Ministro do Ultramar.
+Art. 6.º O Instituto do Café de Angola tem um director e um director adjunto, ambos nomeados pelo Ministro do Ultramar.
 
 § 1.º O director e o director adjunto deverão ser escolhidos de entre indivíduos diplomados com curso superior e cujas aptidões, nos sectores a que se reportam as actividades do Instituto, tenham notória consagração.
 
@@ -138,17 +142,17 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § 3.º Para efeitos de vencimentos o director e director adjunto serão considerados como incluídos, respectivamente, nas letras D e E do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 7.º Existirá também um conselho geral, que será constituído pelo director do Instituto, que preside, pelo director adjunto e por três vogais nomeados pelo governador, por forma que no organismo tenham representação os sectores da produção e da exportação do café e os serviços económicos da província.
+Art. 7.º Existirá também um conselho geral, que será constituído pelo director do Instituto, que preside, pelo director adjunto e por três vogais nomeados pelo governador, por forma que no organismo tenham representação os sectores da produção e da exportação do café e os serviços económicos da província.
 
-###### Art. 8.º O conselho geral reunir-se-á ordinàriamente duas vezes por mês e extraordinàriamente quando for convocado por iniciativa do director do Instituto ou a pedido da maioria dos seus membros.
+Art. 8.º O conselho geral reunir-se-á ordinàriamente duas vezes por mês e extraordinàriamente quando for convocado por iniciativa do director do Instituto ou a pedido da maioria dos seus membros.
 
-###### Art. 9.º As deliberações do conselho geral serão tomadas por maioria dos votos, tendo o presidente voto de qualidade.
+Art. 9.º As deliberações do conselho geral serão tomadas por maioria dos votos, tendo o presidente voto de qualidade.
 
-###### Art. 10.º O director do Instituto preside ao organismo, coordena toda a sua actividade e despacha directamente com o governador-geral da província.
+Art. 10.º O director do Instituto preside ao organismo, coordena toda a sua actividade e despacha directamente com o governador-geral da província.
 
 § único. O director adjunto substitui o director nas suas faltas e impedimentos, competindo-lhe igualmente coadjuvá-lo no desempenho de funções que por este lhe sejam confiadas.
 
-###### Art. 11.º Compete especialmente ao director do Instituto:
+Art. 11.º Compete especialmente ao director do Instituto:
 
 1.º Representar o organismo em juízo e fora dele;
 
@@ -170,7 +174,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 10.º Desempenhar outros serviços, relacionados com a actividade do Instituto, de que for encarregado pelo Ministro do Ultramar ou pelo governador-geral da província.
 
-###### Art. 12.º Incumbe particulamente ao conselho geral:
+Art. 12.º Incumbe particulamente ao conselho geral:
 
 1.º Propor ao director do Instituto as medidas consideradas convenientes para a boa consecução dos fins do organismo;
 
@@ -186,9 +190,9 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 7.º Informar sobre outros assuntos submetidos à sua apreciação.
 
-###### Art. 13.º O Instituto do Café de Angola terá um secretário nomeado pelo governador-geral de entre indivíduos diplomados com um curso superior ou funcionários de categoria não inferior à letra L do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374).
+Art. 13.º O Instituto do Café de Angola terá um secretário nomeado pelo governador-geral de entre indivíduos diplomados com um curso superior ou funcionários de categoria não inferior à letra L do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374).
 
-###### Art. 14.º Constituem receitas próprias do Instituto do Café de Angola:
+Art. 14.º Constituem receitas próprias do Instituto do Café de Angola:
 
 1.º As taxas sobre o café exportado da província;
 
@@ -212,19 +216,19 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § único. O governador nas alterações que introduzir por portaria ao quantitativo das taxas fixadas deverá ouvir prèviamente o Instituto do Café de Angola.
 
-###### Art. 15.º As alfândegas da província procederão à cobrança das taxas de exportação e deverão entregar o seu valor, no prazo de oito dias, para crédito da conta do Instituto, no banco emissor de Angola.
+Art. 15.º As alfândegas da província procederão à cobrança das taxas de exportação e deverão entregar o seu valor, no prazo de oito dias, para crédito da conta do Instituto, no banco emissor de Angola.
 
-###### Art. 16.º Todas as importâncias pertencentes ao Instituto do Café de Angola serão depositadas no banco emissor da província, em conta corrente, à sua ordem.
+Art. 16.º Todas as importâncias pertencentes ao Instituto do Café de Angola serão depositadas no banco emissor da província, em conta corrente, à sua ordem.
 
-###### Art. 17.º O Instituto do Café de Angola poderá contrair os empréstimos indispensáveis à realização dos seus fins, mas sempre precedendo autorização do Ministro do Ultramar.
+Art. 17.º O Instituto do Café de Angola poderá contrair os empréstimos indispensáveis à realização dos seus fins, mas sempre precedendo autorização do Ministro do Ultramar.
 
-###### Art. 18.º Os financiamentos feitos pelo Instituto do Café de Angola, na ausência de outras disposições que regulamentem o processo da sua efectivação, constarão de escritos particulares, devidamente autenticados, não podendo o prazo ser superior a doze meses nem o montante exceder 70 por cento do valor da garantia prestada.
+Art. 18.º Os financiamentos feitos pelo Instituto do Café de Angola, na ausência de outras disposições que regulamentem o processo da sua efectivação, constarão de escritos particulares, devidamente autenticados, não podendo o prazo ser superior a doze meses nem o montante exceder 70 por cento do valor da garantia prestada.
 
-###### Art. 19.º É obrigatória a inscrição no Instituto do Café de Angola de todos os produtores cuja lavra ultrapassa o limite fixado em regulamento, de todos os exportadores e, bem assim, das entidades que exerçam na província o comércio de importação ou distribuição de café.
+Art. 19.º É obrigatória a inscrição no Instituto do Café de Angola de todos os produtores cuja lavra ultrapassa o limite fixado em regulamento, de todos os exportadores e, bem assim, das entidades que exerçam na província o comércio de importação ou distribuição de café.
 
 § único. Só podem ser importadores ou exportadores de café, além do próprio Instituto, as entidades nele inscritas.
 
-###### Art. 20.º São condições indispensáveis para a inscrição de comerciantes:
+Art. 20.º São condições indispensáveis para a inscrição de comerciantes:
 
 1.º O pagamento de contribuição pelo exercício da actividade;
 
@@ -232,7 +236,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 3.º A demonstração de que possuem a capacidade financeira requerida para o bom desempenho da sua função económica.
 
-###### Art. 21.º As entidades inscritas no Instituto do Café de Angola ficam sujeitas às seguintes obrigações:
+Art. 21.º As entidades inscritas no Instituto do Café de Angola ficam sujeitas às seguintes obrigações:
 
 1.º Acatar as determinações do Instituto relativamente à coordenação, disciplina e aperfeiçoamento económico das actividades do respectivo sector e os regulamentos e instruções em vigor;
 
@@ -240,7 +244,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 3.º Evitar toda a concorrência desleal que se traduza da concessão de vantagens que não sejam legalmente autorizadas.
 
-###### Art. 22.º O não cumprimento das obrigações impostas por este decreto, regulamentos e instruções do Instituto do Café de Angola poderá dar lugar à aplicação das seguintes penalidades:
+Art. 22.º O não cumprimento das obrigações impostas por este decreto, regulamentos e instruções do Instituto do Café de Angola poderá dar lugar à aplicação das seguintes penalidades:
 
 1.º Advertência;
 
@@ -254,9 +258,9 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § único. Quando se verifique que um exportador vendeu café por preço inferior ao mínimo que estiver fixado será aplicada multa não inferior a 50 por cento do valor da mercadoria transaccionada, ainda que exceda o limite declarado no n.º 3.º, cumulada com a suspensão do direito de exportar café por prazo de seis meses, pelo menos.
 
-###### Art. 23.º As penalidades serão impostas às empresas, sempre responsáveis pelos actos daqueles que, com o seu consentimento expresso ou tácito, os hajam praticado em seu nome.
+Art. 23.º As penalidades serão impostas às empresas, sempre responsáveis pelos actos daqueles que, com o seu consentimento expresso ou tácito, os hajam praticado em seu nome.
 
-###### Art. 24.º Nenhuma penalidade poderá ser imposta sem que o inculpado seja notificado para deduzir por escrito a sua defesa, no prazo que lhe for fixado, e sem que dela, quando apresentada em tempo competente, e das provas produzidas se haja tomado conhecimento.
+Art. 24.º Nenhuma penalidade poderá ser imposta sem que o inculpado seja notificado para deduzir por escrito a sua defesa, no prazo que lhe for fixado, e sem que dela, quando apresentada em tempo competente, e das provas produzidas se haja tomado conhecimento.
 
 § 1.º As notificações serão feitas por carta registada, com aviso de recepção.
 
@@ -264,9 +268,9 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § 3.º No caso de aplicação de multa superior a 5000$00 ou das penalidades previstas nos n.os 4.º e 5.º do artigo 22.º haverá sempre direito de recurso para o Tribunal Administrativo.
 
-###### Art. 25.º Os agentes de fiscalização do Instituto do Café de Angola são considerados agentes de autoridade e podem levantar autos de notícia das infracções que verificarem e das mais diligências que efectuarem, tomando e exarando neles as declarações dos infractores e terceiros e podendo colher amostras, proceder a buscas, apreensões e imposições de selos e constituir depositários, de harmonia com o que for estabelecido no respectivo regulamento.
+Art. 25.º Os agentes de fiscalização do Instituto do Café de Angola são considerados agentes de autoridade e podem levantar autos de notícia das infracções que verificarem e das mais diligências que efectuarem, tomando e exarando neles as declarações dos infractores e terceiros e podendo colher amostras, proceder a buscas, apreensões e imposições de selos e constituir depositários, de harmonia com o que for estabelecido no respectivo regulamento.
 
-###### Art. 26.º O pessoal da fiscalização goza das seguintes regalias:
+Art. 26.º O pessoal da fiscalização goza das seguintes regalias:
 
 1.º O direito de uso e porte de armas;
 
@@ -276,25 +280,25 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 4.º A faculdade de se corresponderem oficialmente, em assuntos de serviço, pelo correio ou pelo telégrafo, entre si e com as entidades cujo auxílio entenderem solicitar.
 
-###### Art. 27.º Os funcionários dos serviços de fiscalização terão cartões de identidade, que deverão exibir quando, no desempenho das suas funções, tal lhes for exigido.
+Art. 27.º Os funcionários dos serviços de fiscalização terão cartões de identidade, que deverão exibir quando, no desempenho das suas funções, tal lhes for exigido.
 
-###### Art. 28.º Todos os funcionários civis e militares prestarão o seu auxílio, bem como as entidades administrativas, dentro da esfera das suas atribuições, ao pessoal da fiscalização sempre que tal lhes seja solicitado.
+Art. 28.º Todos os funcionários civis e militares prestarão o seu auxílio, bem como as entidades administrativas, dentro da esfera das suas atribuições, ao pessoal da fiscalização sempre que tal lhes seja solicitado.
 
-###### Art. 29.º Os inscritos no Instituto do Café de Angola deverão prestar ao pessoal da fiscalização as informações e os esclarecimentos pedidos, bem como permitir a livre entrada nas suas instalações industriais ou comerciais e o exame da documentação, com excepção dos livros de escrita.
+Art. 29.º Os inscritos no Instituto do Café de Angola deverão prestar ao pessoal da fiscalização as informações e os esclarecimentos pedidos, bem como permitir a livre entrada nas suas instalações industriais ou comerciais e o exame da documentação, com excepção dos livros de escrita.
 
 § 1.º A verificação dos documentos relacionados com o movimento de transacções das empresas será rigorosamente reservada e confidencial, não devendo constar do processo senão quando dela resultarem elementos de provas de alguma infracção.
 
 § 2.º Quando o inscrito entender que há inconveniente em exibir os documentos reclamados pode recorrer para o director do Instituto, que resolverá definitivamente.
 
-###### Art. 30.º Os que impedirem ou tentarem impedir o exercício da fiscalização por parte do pessoal competente do Instituto do Café de Angola incorrem na sanção do artigo 88.º do Código Penal, sem prejuízo do procedimento disciplinar a que haja lugar.
+Art. 30.º Os que impedirem ou tentarem impedir o exercício da fiscalização por parte do pessoal competente do Instituto do Café de Angola incorrem na sanção do artigo 88.º do Código Penal, sem prejuízo do procedimento disciplinar a que haja lugar.
 
-###### Art. 31.º O Instituto do Café de Angola utilizará o selo branco, cuja aposição produzirá os mesmos efeitos que a dos selos brancos das repartições do Estado.
+Art. 31.º O Instituto do Café de Angola utilizará o selo branco, cuja aposição produzirá os mesmos efeitos que a dos selos brancos das repartições do Estado.
 
-###### Art. 32.º O Instituto do Café de Angola poderá ocupar, independentemente de quaisquer formalidades, os terrenos do Estado que na província forem necessários para o desempenho das suas funções, designadamente para serem utilizados como campos experimentais e de demonstração.
+Art. 32.º O Instituto do Café de Angola poderá ocupar, independentemente de quaisquer formalidades, os terrenos do Estado que na província forem necessários para o desempenho das suas funções, designadamente para serem utilizados como campos experimentais e de demonstração.
 
-###### Art. 33.º Ficam isentos de direitos de importação em Angola os adubos, insecticidas e maquinismos importados pelo Instituto e destinados à cultura, preparação e beneficiação do café.
+Art. 33.º Ficam isentos de direitos de importação em Angola os adubos, insecticidas e maquinismos importados pelo Instituto e destinados à cultura, preparação e beneficiação do café.
 
-###### Art. 34.º O governador aprovará por portaria o regulamento do Instituto do Café de Angola.
+Art. 34.º O governador aprovará por portaria o regulamento do Instituto do Café de Angola.
 
 § 1.º Do regulamento constarão obrigatòriamente, além do mais, normas relativas à organização dos serviços, aos quadros do pessoal e aos procedimentos a que se deve sujeitar a comercialização do café.
 
@@ -308,9 +312,9 @@ c) Serviços administrativos;
 
 d) Serviços de armazéns gerais.
 
-###### Art. 35.º Este decreto entra em vigor em 1 de Janeiro de 1962.
+Art. 35.º Este decreto entra em vigor em 1 de Janeiro de 1962.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Agosto de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

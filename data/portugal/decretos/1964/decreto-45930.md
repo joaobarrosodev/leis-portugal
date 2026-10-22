@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45930-1964-537608
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-09-17T00:00:00Z'
+  retrieved_at: '2026-10-22T19:42:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed6362b17741a2b77e77ab072cdb5c46744418d8da5ddd1a66a31834ebad9365
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dfb79fd4fdb391bd023ff386a52ad0313d0c20fa716a1b15f00d845ea5cac8cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:42:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:685796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688223:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:42:08Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +103,7 @@ Ouvidas as províncias interessadas, por motivo de urgência, nos termos do § 1
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º As Comissões Técnicas de Planeamento e Integração Económica, criadas pelo artigo 1.º do [Decreto n.º 45259](https://diariodarepublica.pt/dr/detalhe/decreto/45259-1963-686791), de 21 de Setembro de 1963, têm nas províncias de Angola e Moçambique a competência fixada pelos artigos 2.º e 3.º e a constituição constante do n.º 1.º do artigo 4.º do mesmo decreto.
+Artigo 1.º As Comissões Técnicas de Planeamento e Integração Económica, criadas pelo artigo 1.º do [Decreto n.º 45259](https://diariodarepublica.pt/dr/detalhe/decreto/45259-1963-686791), de 21 de Setembro de 1963, têm nas províncias de Angola e Moçambique a competência fixada pelos artigos 2.º e 3.º e a constituição constante do n.º 1.º do artigo 4.º do mesmo decreto.
 
 § 1.º A Comissão Técnica reunirá uma vez por mês e sempre que for convocada pelo seu presidente.
 
@@ -99,9 +111,9 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § 3.º Das sessões da Comissão será sempre lavrada acta, que, depois de aprovada, será assinada pelo presidente e pelo funcionário que servir de secretário.
 
-###### Art. 2.º Os directores de serviços membros da Comissão Técnica e o funcionário que servir de secretário têm direito às gratificações a fixar por despacho do governador-geral.
+Art. 2.º Os directores de serviços membros da Comissão Técnica e o funcionário que servir de secretário têm direito às gratificações a fixar por despacho do governador-geral.
 
-###### Art. 3.º O desempenho das atribuições e o exercício da competência da Comissão Técnica é assegurado por serviços privativos, aos quais compete, sob a orientação do presidente da Comissão Técnica, preparar e executar o expediente técnico e administrativo da Comissão e em especial:
+Art. 3.º O desempenho das atribuições e o exercício da competência da Comissão Técnica é assegurado por serviços privativos, aos quais compete, sob a orientação do presidente da Comissão Técnica, preparar e executar o expediente técnico e administrativo da Comissão e em especial:
 
 a) Executar as suas determinações e despachos, designadamente os que visem satisfazer o disposto nos artigos 2.º e 3.º do [Decreto n.º 45259](https://diariodarepublica.pt/dr/detalhe/decreto/45259-1963-686791);
 
@@ -127,15 +139,15 @@ j) Assegurar o secretariado das sessões da Comissão Técnica e dos grupos de t
 
 § 2.º A ligação da Comissão Técnica com o Secretariado Técnico da Presidência do Conselho será assegurada pelo director dos Serviços Privativos, através do governador-geral e da Comissão de Coordenação dos Serviços Provinciais de Planeamento e Integração Económica, de harmonia com o disposto na parte final do n.º 4.º do artigo 1.º do [Decreto-Lei n.º 45222](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45222-1963-685796), de 30 de Agosto de 1963.
 
-###### Art. 4.º Os grupos de trabalho instituídos de harmonia com o § 1.º do artigo 2.º do [Decreto n.º 45259](https://diariodarepublica.pt/dr/detalhe/decreto/45259-1963-686791), aditado pelo artigo 3.º do [Decreto n.º 45350](https://diariodarepublica.pt/dr/detalhe/decreto/45350-1963-688223), de 13 de Novembro de 1963, não deverão exceder três elementos.
+Art. 4.º Os grupos de trabalho instituídos de harmonia com o § 1.º do artigo 2.º do [Decreto n.º 45259](https://diariodarepublica.pt/dr/detalhe/decreto/45259-1963-686791), aditado pelo artigo 3.º do [Decreto n.º 45350](https://diariodarepublica.pt/dr/detalhe/decreto/45350-1963-688223), de 13 de Novembro de 1963, não deverão exceder três elementos.
 
 § 1.º Dos grupos de trabalho poderão fazer parte funcionários dos serviços privativos da Comissão ou de outros departamentos do Estado ou pessoas estranhas ao serviço público que possuam a necessária preparação e idoneidade.
 
 § 2.º Dos despachos que determinarem a criação de grupos de trabalho constará sempre a indicação das tarefas a realizar, dos prazos para a sua conclusão e da remuneração a que terão direito os vogais que os constituam.
 
-###### Art. 5.º Sob proposta da Comissão Técnica aprovada pela entidade competente, poderá ser confiada a entidades especializadas ou a técnicos especialistas, em regime de contrato ou tarefa, a execução dos estudos que interessem aos objectivos da Comissão.
+Art. 5.º Sob proposta da Comissão Técnica aprovada pela entidade competente, poderá ser confiada a entidades especializadas ou a técnicos especialistas, em regime de contrato ou tarefa, a execução dos estudos que interessem aos objectivos da Comissão.
 
-###### Art. 6.º Para a execução dos serviços a seu cargo a Direcção dos Serviços Privativos da Comissão Técnica compreenderá: o departamento de planeamento e integração, o departamento da execução dos planos de fomento e os serviços administrativos.
+Art. 6.º Para a execução dos serviços a seu cargo a Direcção dos Serviços Privativos da Comissão Técnica compreenderá: o departamento de planeamento e integração, o departamento da execução dos planos de fomento e os serviços administrativos.
 
 § 1.º Um dos chefes de departamento, a designar por portaria do governador-geral, substituirá o director nas suas ausências, faltas ou impedimentos.
 
@@ -145,11 +157,11 @@ j) Assegurar o secretariado das sessões da Comissão Técnica e dos grupos de t
 
 § 4.º Os serviços administrativos compreendem as secções de expediente e arquivo e de contabilidade.
 
-###### Art. 7.º A organização interna, atribuições e funcionamento dos serviços referidos no artigo 6.º serão regulados por portaria do governador-geral.
+Art. 7.º A organização interna, atribuições e funcionamento dos serviços referidos no artigo 6.º serão regulados por portaria do governador-geral.
 
-###### Art. 8.º Os serviços privativos da Comissão Técnica de Planeamento e Integração Económica terão o pessoal constante do mapa anexo ao presente diploma.
+Art. 8.º Os serviços privativos da Comissão Técnica de Planeamento e Integração Económica terão o pessoal constante do mapa anexo ao presente diploma.
 
-###### Art. 9.º O provimento dos cargos previstos no mapa referido no artigo anterior será feito por nomeação, em comissão ou por contrato, nos termos seguintes:
+Art. 9.º O provimento dos cargos previstos no mapa referido no artigo anterior será feito por nomeação, em comissão ou por contrato, nos termos seguintes:
 
 a) O director dos Serviços Privativos da Comissão Técnica será nomeado pelo Ministro do Ultramar, sob proposta do governador-geral, de preferência entre funcionários diplomados com um curso superior adaptado às funções e que tenham revelado especial aptidão para o cargo;
 
@@ -159,9 +171,9 @@ c) Para o recrutamento do restante pessoal observar-se-ão as condições de pro
 
 § único. As comissões de serviço serão desempenhadas por funcionários dos quadros por períodos de dois anos, renováveis por períodos de igual duração. Os funcionários em comissão de serviço manterão todos os direitos no quadro a que pertencem.
 
-###### Art. 10.º Para ocorrer a necessidades eventuais ou extraordinárias de serviço poderá o director dos Serviços Privativos da Comissão Técnica propor, para além do quadro, a admissão, a título eventual, de pessoal administrativo ou auxiliar com designações iguais às do quadro.
+Art. 10.º Para ocorrer a necessidades eventuais ou extraordinárias de serviço poderá o director dos Serviços Privativos da Comissão Técnica propor, para além do quadro, a admissão, a título eventual, de pessoal administrativo ou auxiliar com designações iguais às do quadro.
 
-###### Art. 11.º O pessoal ao serviço dos organismos extintos pelo artigo 6.º do [Decreto n.º 45259](https://diariodarepublica.pt/dr/detalhe/decreto/45259-1963-686791), de 21 de Setembro de 1963, transita para os lugares do quadro referido no artigo 8.º do presente diploma, sem prejuízo do disposto no artigo 134.º do Estatuto do Funcionalismo Ultramarino, observadas as seguintes regras:
+Art. 11.º O pessoal ao serviço dos organismos extintos pelo artigo 6.º do [Decreto n.º 45259](https://diariodarepublica.pt/dr/detalhe/decreto/45259-1963-686791), de 21 de Setembro de 1963, transita para os lugares do quadro referido no artigo 8.º do presente diploma, sem prejuízo do disposto no artigo 134.º do Estatuto do Funcionalismo Ultramarino, observadas as seguintes regras:
 
 1.ª Para o cargo de director dos Serviços Privativos da Comissão Técnica de Planeamento e Integração Económica de Angola transita, a título definitivo, com dispensa de quaisquer formalidades, o presidente da Comissão de Coordenação do Plano de Fomento de Angola.
 
@@ -173,13 +185,13 @@ c) Para o recrutamento do restante pessoal observar-se-ão as condições de pro
 
 § 2.º Consideram-se rescindidos todos os actuais contratos na data em que os interessados tomarem posse dos novos cargos.
 
-###### Art. 12.º Com a entrada em vigor deste diploma cessam as funções dos organismos extintos pelo artigo 6.º do [Decreto n.º 45259](https://diariodarepublica.pt/dr/detalhe/decreto/45259-1963-686791), de 21 de Setembro de 1963.
+Art. 12.º Com a entrada em vigor deste diploma cessam as funções dos organismos extintos pelo artigo 6.º do [Decreto n.º 45259](https://diariodarepublica.pt/dr/detalhe/decreto/45259-1963-686791), de 21 de Setembro de 1963.
 
-###### Art. 13.º Ficam os governadores-gerais de Angola e Moçambique autorizados a abrir os créditos necessários à execução deste decreto.
+Art. 13.º Ficam os governadores-gerais de Angola e Moçambique autorizados a abrir os créditos necessários à execução deste decreto.
 
-###### Art. 14.º Este decreto entra imediatamente em vigor e revoga as disposições do [Decreto n.º 45259](https://diariodarepublica.pt/dr/detalhe/decreto/45259-1963-686791), de 21 de Setembro de 1963, que contrariem as disposições do presente diploma.
+Art. 14.º Este decreto entra imediatamente em vigor e revoga as disposições do [Decreto n.º 45259](https://diariodarepublica.pt/dr/detalhe/decreto/45259-1963-686791), de 21 de Setembro de 1963, que contrariem as disposições do presente diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 17 de Setembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 
@@ -189,6 +201,6 @@ Mapa anexo ao Decreto n.º 45930
 
 Quadro do pessoal referido no artigo 8.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/21900/11901192.pdf))](https://files.diariodarepublica.pt/1s/1964/09/21900/11901192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/21900/11901192.pdf)
 
 Ministério do Ultramar, 17 de Setembro de 1964. - O Ministra do Ultramar, António Augusto Peixoto Correia.

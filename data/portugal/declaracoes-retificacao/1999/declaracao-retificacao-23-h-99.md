@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 303/1999, 2º Suplemento, Série I-A de 1999-12-31
   number: '303'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 9362-(9) a 9362-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/12/303a02/00090009.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/23-h/1999/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/23-h-1999-249991
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-12-16T00:00:00Z'
+  retrieved_at: '2026-10-22T18:54:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3fee0e678df5b7c6867a9568cdd9e9463eea7047abba34c2346a3206d76d64d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e40f450088d975b2ce132bbaa5cc89dba32428ddfd399f21e8241071916eb57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:54:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recursos Hídricos
 - Estatuto
+- Iga-investimentos e Gestão da ÁGUA
 - Instituto de Gestão da ÁGUA
 - Madeira.região Autónoma
-- Iga-investimentos e Gestão da ÁGUA
+- Recursos Hídricos
 - Sistema Regional de Gestão e Abastecimento de ÁGUA
 relationships:
 - type: amended_by
   target: pt:dre:65891078:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:65891078:por
+  label: Revogado, nos termos do n.º 3 do art. 28.º, o DLR 28-B/99/M, de 23-dez DR.IS-A[297] 2.º Supl, retificado pela presente
+    Declaração de retificação, pelo(a) Decreto Legislativo Regional n.º 17/2014/M - Diário da República n.º 242/2014, Série
+    I de 2014-12-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-2014-65891078
+  date: '2014-12-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:54:31Z'
   warnings: []
   errors: []
 ---

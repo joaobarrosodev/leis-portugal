@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/05/09000/0007500094.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/5/2025/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/5-2025-917593157
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-12T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3f75bec87de180e5fc9fe12a67f0d4d69744ab8f063b7fd5a26e2cf0a507e8a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7576679f4833a17ebfd1c1ca58ca95838b5043049e6e22647bc8cd27a9ebbddb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Contribuições e Impostos
 - Factura
 - Fraude Fiscal
-- Contribuições e Impostos
 - Interpretação do Direito
 - Jurisprudencia
 - Prescrição
@@ -87,16 +87,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/15/2001/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/15/2001/06/05/p/dre
+- type: cites
+  target: pt:dre:119622094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646302:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:28Z'
   warnings: []
   errors: []
 ---
@@ -187,7 +203,7 @@ Paralelamente, dispõe o artigo 438.º do Código de Processo Penal que:
 
 Nesta medida, em decorrência do disposto nos citados normativos legais, verifica-se que a admissibilidade do recurso extraordinário para fixação de jurisprudência depende da verificação dos seguintes requisitos formais:
 
-i) Os acórdãos em conflito serem de tribunais superiores, ambos do Supremo Tribunal de Justiça, ambos de Tribunal da Relação, ou um [o recorrido] da Relação, mas de que não seja admissível recurso ordinário, e o outro [o fundamento] do Supremo - artigo 437.º, n.<sup>os</sup>1 e 2;
+i) Os acórdãos em conflito serem de tribunais superiores, ambos do Supremo Tribunal de Justiça, ambos de Tribunal da Relação, ou um [o recorrido] da Relação, mas de que não seja admissível recurso ordinário, e o outro [o fundamento] do Supremo - artigo 437.º, n.os1 e 2;
 
 ii) O trânsito em julgado dos dois acórdãos - artigos 437.º, n.º 4 e 438.º, n.º 1;
 
@@ -195,13 +211,13 @@ iii) A interposição do recurso no prazo de 30 dias contados do trânsito em ju
 
 iv) A identificação do aresto com o qual o acórdão recorrido se encontra em oposição (acórdão-fundamento), com menção, caso se encontre publicado, do lugar da publicação - artigo 438.º, n.º 2;
 
-v) A indicação de apenas um acórdão-fundamento - artigos 437.º, n.<sup>os</sup>1, 2 e 3 e 438.º, n.º 2;
+v) A indicação de apenas um acórdão-fundamento - artigos 437.º, n.os1, 2 e 3 e 438.º, n.º 2;
 
 vi) A legitimidade do recorrente - artigo 437.º n.º 5;
 
 vii) A justificação/fundamentação da oposição - artigo 438.º n.º 2, última parte.
 
-No que respeita aos pressupostos de ordem substancial, tal corresponde à oposição de julgados propriamente dita entre os acórdãos em presença, nos termos previstos no artigo 437.º, n.<sup>os</sup>1 e 3 do Código de Processo Penal. Deste modo, verifica-se a oposição quando se esteja perante dois acórdãos que incidem sobre a mesma questão de direito, proferidos no domínio da mesma legislação e adotem soluções opostas.
+No que respeita aos pressupostos de ordem substancial, tal corresponde à oposição de julgados propriamente dita entre os acórdãos em presença, nos termos previstos no artigo 437.º, n.os1 e 3 do Código de Processo Penal. Deste modo, verifica-se a oposição quando se esteja perante dois acórdãos que incidem sobre a mesma questão de direito, proferidos no domínio da mesma legislação e adotem soluções opostas.
 
 Ademais, a questão em causa terá de ter sido decidida de modo expresso em ambos os acórdãos e tomada a título principal, pelo que a mera oposição de posições implícitas ou diferente fundamentação não é de molde a sustentar tal oposição.
 
@@ -235,7 +251,7 @@ No que respeita à identidade fáctica, conclui-se que, à semelhança do juízo
 
 Do mesmo modo, as respostas foram, em ambos os arestos, expressas e tomadas a título principal, não tendo a questão em análise sido objeto de anterior fixação de jurisprudência.
 
-Nesta medida, mantém-se o entendimento que se encontram integralmente preenchidos os pressupostos formais e substanciais previstos nos artigos 437.º, n.<sup>os</sup>1, 2 e 3 e 438.º, n.<sup>os</sup>1 e 2, ambos do Código de Processo Penal, considerando-se, em consequência, verificada a necessária oposição de julgados, porquanto os acórdãos assentam em soluções opostas, a partir de idêntica situação de facto, sendo expressa a oposição das respetivas decisões.
+Nesta medida, mantém-se o entendimento que se encontram integralmente preenchidos os pressupostos formais e substanciais previstos nos artigos 437.º, n.os1, 2 e 3 e 438.º, n.os1 e 2, ambos do Código de Processo Penal, considerando-se, em consequência, verificada a necessária oposição de julgados, porquanto os acórdãos assentam em soluções opostas, a partir de idêntica situação de facto, sendo expressa a oposição das respetivas decisões.
 
 III - APRECIAÇÃO
 
@@ -265,7 +281,7 @@ Trata-se de um crime de execução vinculada que só pode ser cometido através 
 
 Assim, para a punição do agente basta comprovar que este quis as respectivas acção ou omissão e que elas eram adequadas à obtenção das pretendidas vantagens patrimoniais e à consequente diminuição da receita tributária.
 
-O artigo 104.º do RGIT acolhe a forma qualificada do crime de fraude fiscal, prevendo o n.º 2 “a fraude que tiver lugar mediante a utilização de facturas ou documentos equivalentes por operações inexistentes”, sendo esta a forma de fraude fiscal imputada aos arguidos em co-autoria no caso dos presentes autos. Quanto à natureza do crime de fraude fiscal, o STJ tem entendido tratar-se de um crime de perigo na modalidade de crime de aptidão. Isto porque não se exige a obtenção da vantagem patrimonial em prejuízo do fisco, mas apenas a conduta tipificada<sup>-</sup>que vise essa vantagem ou prejuízo.
+O artigo 104.º do RGIT acolhe a forma qualificada do crime de fraude fiscal, prevendo o n.º 2 “a fraude que tiver lugar mediante a utilização de facturas ou documentos equivalentes por operações inexistentes”, sendo esta a forma de fraude fiscal imputada aos arguidos em co-autoria no caso dos presentes autos. Quanto à natureza do crime de fraude fiscal, o STJ tem entendido tratar-se de um crime de perigo na modalidade de crime de aptidão. Isto porque não se exige a obtenção da vantagem patrimonial em prejuízo do fisco, mas apenas a conduta tipificada-que vise essa vantagem ou prejuízo.
 
 Assim, o crime consuma-se ainda que nenhum dano ou vantagem patrimonial indevida venha a ocorrer efectivamente. É o que resulta da expressão «susceptíveis de causarem diminuição das receitas tributárias” (corpo do n.º 1 do artigo 103.º do RGIT).
 
@@ -393,7 +409,7 @@ a) A fraude tiver lugar mediante a utilização de facturas ou documentos equiva
 
 b) A vantagem patrimonial for de valor superior a € 50 000.”.
 
-Nesta medida, as circunstâncias previstas nos n.<sup>os</sup>1 e 2, do artigo 104.º, do RGIT, que consubstanciam um elenco taxativo e fechado, assumem-se como qualificadoras, face ao crime matricial constante do já citado artigo 103.º - cf. TEIXEIRA, Carlos e GASPAR, Sofia, op. cit., pág. 462 -, pretendendo o legislador proteger o património do Estado contra ataques que entendeu serem particularmente ofensivos.
+Nesta medida, as circunstâncias previstas nos n.os1 e 2, do artigo 104.º, do RGIT, que consubstanciam um elenco taxativo e fechado, assumem-se como qualificadoras, face ao crime matricial constante do já citado artigo 103.º - cf. TEIXEIRA, Carlos e GASPAR, Sofia, op. cit., pág. 462 -, pretendendo o legislador proteger o património do Estado contra ataques que entendeu serem particularmente ofensivos.
 
 No caso, o crime de fraude fiscal é praticado mediante a utilização, pelo agente, de facturas fraudulentas - artigo 104.º, n.º 2, alínea a) do RGIT -. Segundo SOUSA, Susana Aires de, op. cit., pág. 114, “Esta opção legislativa terá sido motivada por considerações de política criminal, tendo em conta a frequência destes casos na prática jurisprudencial e a disparidade de decisões jurisprudenciais nesta matéria, designadamente no que diz respeito à subsunção no tipo legal de Fraude Fiscal ou no tipo legal de Burla do CP”.
 
@@ -576,3 +592,5 @@ Melhor concretizando, o que releva é o momento em que as facturas falsas dão e
 No caso da fraude fiscal através de facturas falsas (art. 104.º n.º 2 alínea a) do RGIT) está em causa uma acção e não uma omissão do arguido. Por isso, é inaplicável o disposto no n.º 2 do art. 5.º do RGIT que determina que se considere o prazo de cumprimento dos deveres tributários para definir o momento da consumação.
 
 Lisboa, 19 de Fevereiro de 2025. - Jorge Manuel Ortins de Simões Raposo.
+
+119027754

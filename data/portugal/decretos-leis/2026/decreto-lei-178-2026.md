@@ -47,26 +47,40 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/178/2026/09/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2026-1167595459
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-07T00:00:00Z'
+  retrieved_at: '2026-10-22T18:52:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8630031446f9414959e63cd47ca900bc05482a87c2e004472dc1064da7469baa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc8d97b34bd08a592eb6f80a58047f1d33e5e18b2c873f096cadc005452e5be0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:52:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Nacional de Cultura
+- Definição de Competências
+- Direção Geral do Livro dos Arquivos e das Bibliotecas
+- Mecenato Cultural
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:132/2013
+  label: Altera a partir de 8 de setembro de 2026, os artigos 2.º, 4.º, 5.º, 6.º, 7.º, 8.º, 14.º, 15.º, 17.º, 18.º, 20.º,
+    21.º, 22.º, 23.º, 24.º, 25.º, 26.º, 27.º, adita os artigos 17.º-A e 25.º-A, revoga o n.º 4 do artigo 4.º, a alínea b)
+    do n.º 1 do artigo 17.º, as alíneas b) e d) do n.º 1 do artigo 18.º, o artigo 19.º, a alínea f) do n.º 1 do artigo 21.º,
+    os n.ºs 2, 3, 4 e 5 do artigo 22.º, as alíneas c) e e) do n.º 1 do artigo 23.º, as alíneas k), m) e n) do n.º 1 do artigo
+    24.º, o n.º 3 do artigo 25.º e o artigo 28.º e procede à republicação do Decreto-Lei n.º 132/2013, de 13 de setembro,
+    Diário da República n.º 177/2013, Série I
+  source: null
+  date: '2013-09-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/103/2017/08/24/p/dre
   label: null
@@ -87,16 +101,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/35/2007/03/29/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/35/2007/03/29/p/dre
+- type: cites
+  target: pt:dre:108051992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115172414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1674907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1674908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835674294:por
+  label: null
+  source: null
 article_structure:
-  article_count: 57
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 39
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:52:22Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +173,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto-lei procede à terceira alteração ao [Decreto-Lei n.º 132/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2013-500036), de 13 de setembro, alterado pelos Decretos-Leis n.<sup>os</sup>[25/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2018-115172414), de 24 de abril, e [129/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2023-835674294), de 26 de dezembro, que estabelece o regime de constituição e funcionamento do Conselho Nacional de Cultura e das suas secções especializadas.
+O presente decreto-lei procede à terceira alteração ao [Decreto-Lei n.º 132/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2013-500036), de 13 de setembro, alterado pelos Decretos-Leis n.os[25/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2018-115172414), de 24 de abril, e [129/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2023-835674294), de 26 de dezembro, que estabelece o regime de constituição e funcionamento do Conselho Nacional de Cultura e das suas secções especializadas.
 
 ###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 132/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2013-500036), de 13 de setembro
 
@@ -143,7 +185,9 @@ Os artigos 2.º, 4.º, 5.º, 6.º, 7.º, 8.º, 14.º, 15.º, 17.º, 18.º, 20.º
 
 O CNC tem por missão contribuir para a definição das políticas culturais, bem como emitir pareceres e recomendações sempre que solicitados pelo membro do Governo responsável pela área da cultura ou pelos serviços e organismos desta área.
 
-###### Artigo 4.º — Estrutura e funcionamento do Conselho Nacional da Cultura
+Artigo 4.º
+
+Estrutura e funcionamento do Conselho Nacional da Cultura
 
 1 - […]
 
@@ -169,7 +213,9 @@ O CNC tem por missão contribuir para a definição das políticas culturais, be
 
 12 - [Anterior n.º 11.]
 
-###### Artigo 5.º — […]
+Artigo 5.º
+
+[…]
 
 […]
 
@@ -185,25 +231,33 @@ e) […]
 
 f) Submeter à homologação do membro do Governo responsável pela área da cultura, a cada três anos, a lista de entidades que integram a respetiva secção especializada.
 
-###### Artigo 6.º — […]
+Artigo 6.º
+
+[…]
 
 1 - Com exceção do presidente do plenário, dos presidentes das secções especializadas e dos demais membros que exercem os respetivos cargos por inerência, o mandato dos restantes elementos que integram o plenário ou as secções especializadas é de três anos, sem prejuízo da possibilidade de renúncia em qualquer momento.
 
 2 - […]
 
-###### Artigo 7.º — […]
+Artigo 7.º
+
+[…]
 
 1 - O plenário do CNC e as secções especializadas que o integram elaboram e aprovam os respetivos regulamentos, bem como qualquer alteração aos mesmos, mediante maioria qualificada de dois terços dos membros presentes com direito a voto.
 
 2 - […]
 
-###### Artigo 8.º — […]
+Artigo 8.º
+
+[…]
 
 1 - […]
 
 2 - Sem prejuízo do disposto em regulamentos internos, as deliberações do plenário e das secções especializadas são tomadas por maioria simples dos membros votantes, tendo o presidente voto de qualidade em caso de empate.
 
-###### Artigo 14.º — […]
+Artigo 14.º
+
+[…]
 
 […]
 
@@ -227,7 +281,9 @@ i) Formular propostas de coordenação interinstitucional e de reforço da efic�
 
 j) Partilhar boas práticas de gestão e identificar constrangimentos comuns de natureza legal, financeira ou organizacional e formular propostas com soluções articuladas.
 
-###### Artigo 15.º — […]
+Artigo 15.º
+
+[…]
 
 1 - […]
 
@@ -281,7 +337,9 @@ v) Por até 10 personalidades de reconhecido mérito, representativas das vária
 
 4 - Com exceção dos membros previstos na alínea v) do n.º 1, todos os membros do plenário podem, excecionalmente, fazer-se representar por mandatário especificamente designado para a reunião em que não possam comparecer.
 
-###### Artigo 17.º — […]
+Artigo 17.º
+
+[…]
 
 1 - […]
 
@@ -311,7 +369,9 @@ i) Secção do mecenato cultural.
 
 5 - Os membros das secções especializadas podem, excecionalmente, fazer-se representar por mandatário especificamente designado para a reunião em que não possam comparecer.
 
-###### Artigo 18.º — Secção do livro, dos arquivos e das bibliotecas
+Artigo 18.º
+
+Secção do livro, dos arquivos e das bibliotecas
 
 1 - A secção especializada permanente do livro, dos arquivos e das bibliotecas é integrada:
 
@@ -387,7 +447,9 @@ l) Estimular a cooperação entre os arquivos dos diversos organismos representa
 
 m) Promover a cooperação entre arquivos e serviços de informação multimédia, com vista à cooperação internacional.
 
-###### Artigo 20.º — […]
+Artigo 20.º
+
+[…]
 
 1 - […]
 
@@ -459,7 +521,9 @@ n) Pronunciar-se sobre a credenciação de museus localizados em território nac
 
 3 - […]
 
-###### Artigo 21.º — […]
+Artigo 21.º
+
+[…]
 
 1 - […]
 
@@ -501,7 +565,9 @@ q) Por um representante do Conselho Coordenador dos Institutos Superiores Polit�
 
 3 - […]
 
-###### Artigo 22.º — […]
+Artigo 22.º
+
+[…]
 
 1 - […]
 
@@ -575,7 +641,9 @@ c) Pronunciar-se sobre o projeto de Plano Estratégico do ICA, I. P., nos termos
 
 d) Exercer outras funções consultivas que lhe sejam atribuídas por lei.
 
-###### Artigo 23.º — […]
+Artigo 23.º
+
+[…]
 
 1 - […]
 
@@ -611,7 +679,9 @@ o) Por um representante da Autoridade Nacional de Comunicações.
 
 2 - […]
 
-###### Artigo 24.º — […]
+Artigo 24.º
+
+[…]
 
 1 - […]
 
@@ -681,7 +751,9 @@ c) […]
 
 d) Participar no procedimento de constituição das comissões de apreciação das candidaturas aos apoios financeiros do Estado às artes visuais e performativas, nos termos do artigo 15.º do [Decreto-Lei n.º 103/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), de 24 de agosto.
 
-###### Artigo 25.º — […]
+Artigo 25.º
+
+[…]
 
 1 - […]
 
@@ -715,11 +787,15 @@ m) […]
 
 3 - [Revogado.]
 
-###### Artigo 26.º — […]
+Artigo 26.º
 
-**O presidente de cada secção especializada pode propor ao membro do Governo responsável pela área da cultura, nos termos da alínea a) do artigo 5.º, a designação de até seis personalidades de reconhecido mérito, tendo em conta a sua experiência profissional ou os seus estudos específicos no respetivo setor, os quais são designados por despacho a publicar no Diário da República.**
+[…]
 
-###### Artigo 27.º — […]
+O presidente de cada secção especializada pode propor ao membro do Governo responsável pela área da cultura, nos termos da alínea a) do artigo 5.º, a designação de até seis personalidades de reconhecido mérito, tendo em conta a sua experiência profissional ou os seus estudos específicos no respetivo setor, os quais são designados por despacho a publicar no Diário da República.
+
+Artigo 27.º
+
+[…]
 
 1 - As secções especializadas reúnem no primeiro trimestre de cada ano e sempre que convocadas pelo seu presidente ou substituto legal.
 
@@ -743,7 +819,9 @@ Entidades que integram as secções especializadas
 
 4 - Nos casos em que subsista dúvida quanto à entidade com maior representatividade, cabe ao membro do Governo responsável pela área da cultura determinar, mediante proposta do presidente da secção especializada, qual a entidade que integra a secção.
 
-###### Artigo 25.º-A — Secção para o mecenato cultural
+Artigo 25.º-A
+
+Secção para o mecenato cultural
 
 1 - A secção especializada permanente para o mecenato cultural é integrada:
 
@@ -787,7 +865,7 @@ d) Propor medidas que reforcem a transparência, a eficácia e o impacto social 
 
 ###### Artigo 5.º — Norma revogatória
 
-São revogados o n.º 4 do artigo 4.º, a alínea b) do n.º 1 do artigo 17.º, as alíneas b) e d) do n.º 1 do artigo 18.º, o artigo 19.º, a alínea f) do n.º 1 do artigo 21.º, os n.<sup>os</sup>2, 3, 4 e 5 do artigo 22.º, as alíneas c) e e) do n.º 1 do artigo 23.º, as alíneas k), m) e n) do n.º 1 do artigo 24.º, o n.º 3 do artigo 25.º e o artigo 28.º do [Decreto-Lei n.º 132/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2013-500036), de 13 de setembro.
+São revogados o n.º 4 do artigo 4.º, a alínea b) do n.º 1 do artigo 17.º, as alíneas b) e d) do n.º 1 do artigo 18.º, o artigo 19.º, a alínea f) do n.º 1 do artigo 21.º, os n.os2, 3, 4 e 5 do artigo 22.º, as alíneas c) e e) do n.º 1 do artigo 23.º, as alíneas k), m) e n) do n.º 1 do artigo 24.º, o n.º 3 do artigo 25.º e o artigo 28.º do [Decreto-Lei n.º 132/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2013-500036), de 13 de setembro.
 
 ###### Artigo 6.º — Republicação
 
@@ -799,15 +877,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de julho de 2026. - Luís Montenegro - João Alexandre da Silva Lopes - António Leitão Amaro - Manuel Castro Almeida - Gonçalo Nuno da Cruz Saraiva Matias - Miguel Martinez de Castro Pinto Luz - Fernando Alexandre - Ana Paula Martins - Maria da Graça Carvalho - Margarida Balseiro Lopes - José Manuel Fernandes.
 
-**Promulgado em 28 de agosto de 2026.**
+Promulgado em 28 de agosto de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 31 de agosto de 2026.**
+Referendado em 31 de agosto de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
@@ -1063,7 +1141,9 @@ i) Secção do mecenato cultural.
 
 4 - Nos casos em que subsista dúvida quanto à entidade com maior representatividade, cabe ao membro do Governo responsável pela área da cultura determinar, mediante proposta do presidente da secção especializada, qual a entidade que integra a secção.
 
-###### Artigo 18.º — Secção do livro, dos arquivos e das bibliotecas
+###### Artigo 18.º
+
+#### Secção do livro, dos arquivos e das bibliotecas
 
 1 - A secção especializada permanente do livro, dos arquivos e das bibliotecas é integrada:
 
@@ -1139,11 +1219,15 @@ l) Estimular a cooperação entre os arquivos dos diversos organismos representa
 
 m) Promover a cooperação entre arquivos e serviços de informação multimédia, com vista à cooperação internacional.
 
-###### Artigo 19.º — Secção dos arquivos
+###### Artigo 19.º
+
+#### Secção dos arquivos
 
 [Revogado.]
 
-###### Artigo 20.º — Secção dos museus, da conservação e restauro e do património cultural móvel
+###### Artigo 20.º
+
+#### Secção dos museus, da conservação e restauro e do património cultural móvel
 
 1 - A secção especializada permanente dos museus, da conservação e restauro e do património cultural móvel é integrada:
 
@@ -1215,7 +1299,9 @@ n) Pronunciar-se sobre a credenciação de museus localizados em território nac
 
 3 - Os demais membros do conselho de administração da Museus e Monumentos de Portugal, E. P. E., têm assento na secção especializada dos museus, da conservação e restauro e do património cultural móvel, sem direito de voto.
 
-###### Artigo 21.º — Secção do património arquitetónico, arqueológico e imaterial
+###### Artigo 21.º
+
+#### Secção do património arquitetónico, arqueológico e imaterial
 
 1 - A secção especializada permanente do património arquitetónico, arqueológico e imaterial é integrada:
 
@@ -1267,7 +1353,9 @@ e) Emitir parecer, por solicitação do membro do Governo responsável pela áre
 
 3 - Os demais membros do conselho diretivo do Património Cultural, I. P., têm assento na secção especializada do património arquitetónico, arqueológico e imaterial, sem direito de voto.
 
-###### Artigo 22.º — Secção do cinema e do audiovisual
+###### Artigo 22.º
+
+#### Secção do cinema e do audiovisual
 
 1 - A secção especializada permanente do cinema e do audiovisual é integrada:
 
@@ -1341,7 +1429,9 @@ c) Pronunciar-se sobre o projeto de Plano Estratégico do ICA, I. P., nos termos
 
 d) Exercer outras funções consultivas que lhe sejam atribuídas por lei.
 
-###### Artigo 23.º — Secção dos direitos de autor e direitos conexos
+###### Artigo 23.º
+
+#### Secção dos direitos de autor e direitos conexos
 
 1 - A secção especializada permanente dos direitos de autor e direitos conexos é integrada:
 
@@ -1387,7 +1477,9 @@ d) Emitir pareceres sobre quaisquer questões de direitos de autor e direitos co
 
 e) Propor e recomendar a adoção de medidas visando o aperfeiçoamento, atualização e cumprimento da legislação sobre direito de autor e direitos conexos.
 
-###### Artigo 24.º — Secção das artes
+###### Artigo 24.º
+
+#### Secção das artes
 
 1 - A secção especializada permanente das artes é integrada:
 
@@ -1457,7 +1549,9 @@ c) Apresentar ao membro do Governo responsável pela área da cultura propostas 
 
 d) Participar no procedimento de constituição das comissões de apreciação das candidaturas aos apoios financeiros do Estado às artes visuais e performativas, nos termos do artigo 15.º do [Decreto-Lei n.º 103/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), de 24 de agosto.
 
-###### Artigo 25.º — Secção de tauromaquia
+###### Artigo 25.º
+
+#### Secção de tauromaquia
 
 1 - A secção especializada permanente da tauromaquia é integrada:
 
@@ -1501,7 +1595,9 @@ e) Favorecer o diálogo entre todos os agentes ligados ao setor e propor medidas
 
 3 - [Revogado.]
 
-###### Artigo 25.º-A — Secção para o mecenato cultural
+###### Artigo 25.º-A
+
+#### Secção para o mecenato cultural
 
 1 - A secção especializada permanente para o mecenato cultural é integrada:
 
@@ -1539,7 +1635,7 @@ d) Propor medidas que reforcem a transparência, a eficácia e o impacto social 
 
 ###### Artigo 26.º — Designação de personalidades de reconhecido mérito
 
-**O presidente de cada secção especializada pode propor ao membro do Governo responsável pela área da cultura, nos termos da alínea a) do artigo 5.º, a designação de até seis personalidades de reconhecido mérito, tendo em conta a sua experiência profissional ou os seus estudos específicos no respetivo setor, os quais são designados por despacho a publicar no Diário da República.**
+O presidente de cada secção especializada pode propor ao membro do Governo responsável pela área da cultura, nos termos da alínea a) do artigo 5.º, a designação de até seis personalidades de reconhecido mérito, tendo em conta a sua experiência profissional ou os seus estudos específicos no respetivo setor, os quais são designados por despacho a publicar no Diário da República.
 
 ###### Artigo 27.º — Funcionamento das secções especializadas
 
@@ -1559,8 +1655,10 @@ São revogados:
 
 a) O [Decreto Regulamentar n.º 35/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/35-2007-520449), de 29 de março;
 
-b) Os Despachos n.<sup>os</sup>[3253/2010](https://diariodarepublica.pt/dr/detalhe/despacho/3253-2010-1674907) e [3254/2010](https://diariodarepublica.pt/dr/detalhe/despacho/3254-2010-1674908), ambos de 11 de fevereiro, publicados no Diário da República, 2.ª série, n.º 36, de 22 de fevereiro de 2010.
+b) Os Despachos n.os[3253/2010](https://diariodarepublica.pt/dr/detalhe/despacho/3253-2010-1674907) e [3254/2010](https://diariodarepublica.pt/dr/detalhe/despacho/3254-2010-1674908), ambos de 11 de fevereiro, publicados no Diário da República, 2.ª série, n.º 36, de 22 de fevereiro de 2010.
 
 ###### Artigo 30.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+119949517

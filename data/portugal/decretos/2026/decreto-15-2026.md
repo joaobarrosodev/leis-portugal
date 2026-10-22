@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/06/10500/0004800057.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/15/2026/06/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/15-2026-1128264729
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-01T00:00:00Z'
+  retrieved_at: '2026-10-22T18:42:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11d88ae53eb1e6c869647dd6f3508a368bb0a0122f713c4e047cc7601dad7505
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5969ab7e98e66cd36794512aaedb234057f06613877df850f5e76c1ef78c659
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:42:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- Profissão Diplomática
 - Mongólia
 - Nova Iorque
 - Passaporte
+- Portugal
+- Profissão Diplomática
 relationships: []
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:42:40Z'
   warnings: []
   errors: []
 ---
@@ -99,15 +99,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 9 de abril de 2026. - Luís Montenegro - Emídio Ferreira dos Santos Sousa.
 
-**Assinado em 4 de maio de 2026.**
+Assinado em 4 de maio de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 6 de maio de 2026.**
+Referendado em 6 de maio de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 Acordo entre a República Portuguesa e a Mongólia sobre Isenção de Vistos para Titulares de Passaportes Diplomáticos, Oficiais ou Especiais
 
@@ -193,17 +193,23 @@ Pela República Portuguesa: João Titterington Gomes Cravinho, Ministro dos Neg�
 
 Pela Mongólia: Battsetseg Batmunkh, Ministra dos Negócios Estrangeiros.
 
-![](https://files.diariodarepublica.pt/images/1128264729/1128462035.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1128264729/1128462035.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1128264729/1128462036.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1128264729/1128462036.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1128264729/1128462037.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1128264729/1128462037.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1128264729/1128462038.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1128264729/1128462038.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1128264729/1128462039.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1128264729/1128462039.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1128264729/1128462040.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1128264729/1128462040.png) |
+| --- |
 
 Agreement between the Portuguese Republic and Mongolia on Exemption of Visa Requirements for Holders of Diplomatic, Official or Special Passports
 
@@ -312,3 +318,5 @@ Done at New York, on the 19th of September of 2023, in two originals, in Portugu
 For the Portuguese Republic: João Titterington Gomes Cravinho, Minister of Foreign Affairs.
 
 For Mongólia: Battsetseg Batmunkh, Minister of Foreign Affairs.
+
+119948665

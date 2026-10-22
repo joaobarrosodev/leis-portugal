@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 226/1998, 3º Suplemento, Série I-A de 1998-09-30
   number: '226'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 5000-(6) a 5000-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/09/226a03/00060006.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/16-a/1998/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-a-1998-513628
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-04-26T00:00:00Z'
+  retrieved_at: '2026-10-22T18:51:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d1e54ba0e78ebee7818489087bdcaaf806c4f9aadf8db37e784d94045561211
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 453f6e27860a414668f2c1b86b1efdde8ac21ac716c803b11b86f81d7c8e1f60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:51:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,39 +67,55 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Processo Civil
+- Cobrança de Dívidas
 - Código das Custas Judiciais
 - Código do Processo Civil
-- Injunção
+- Custas Judiciais
 - Execução de Sentença
-- Prazo
-- Cobrança de Dívidas
-- Regime Jurídico
 - Execução por Dívidas
+- Injunção
+- Prazo
+- Processo Civil
 - Processo de Execução
+- Regime Jurídico
 - Secretaria Judicial
 - Taxa
-- Custas Judiciais
 - Tribunal Judicial
 relationships:
 - type: amended_by
   target: pt:dre:661170:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:189484:por
+  label: "Alterado, nos termos do n.º 2 do art. 10.º, o art. 7º do anexo do Dec Lei 269/98 de 01-Set, rectificado pela presente\
+    \ declaração, pelo DEC LEI.32/2003.17.02.2003.MJ, DR.IS-A [40] de 17.02.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2003-189484
+  date: '2003-02-17'
+- type: amended_by
+  target: pt:dre:233745:por
+  label: "Alterado o art. 1º, rectificado pela presente Declaração, pelo DEC LEI.107/2005.01.07.2005.MJ, DR.IS-A [125] de\
+    \ 01.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-2005-233745
+  date: '2005-07-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/269/1998/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/269/1998/09/01/p/dre
+- type: cites
+  target: pt:dre:566629:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:51:12Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +128,7 @@ No diploma, onde se lê:
 
 «Assim, nos termos da alínea a) do n.º 1 do artigo 198.º e do n.º 5 do artigo 112.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º
+Artigo 1.º
 
 ...»
 
@@ -122,7 +138,7 @@ deve ler-se:
 
 Diploma preambular
 
-###### Artigo 1.º
+Artigo 1.º
 
 ...»
 
@@ -132,7 +148,9 @@ No capítulo II, onde se lê:
 
 «Injunção
 
-###### Artigo 7.º — Noção
+Artigo 7.º
+
+Noção
 
 Considera-se injunção a providência que tem por fim conferir força executiva a requerimento destinado a exigir o cumprimento das obrigações a que se refere o artigo 1.º do [Decreto-Lei n.º 269/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1998-566629), de 1 de Setembro.»
 
@@ -140,7 +158,9 @@ deve ler-se:
 
 «Injunção
 
-###### Artigo 7.º — Noção
+Artigo 7.º
+
+Noção
 
 Considera-se injunção a providência que tem por fim conferir força executiva a requerimento destinado a exigir o cumprimento das obrigações a que se refere o artigo 1.º do diploma preambular.»
 

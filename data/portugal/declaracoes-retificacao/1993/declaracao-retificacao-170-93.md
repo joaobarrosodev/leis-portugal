@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 204/1993, 4º Suplemento, Série I-B de 1993-08-31
   number: '204'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 4600-(16) a 4600-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/08/204b04/00160016.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/170/1993/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/170-1993-285574
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:37:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf3a3f7c67fce3fedf92482d1b4229c6cf87572e6a2e60559064ed56b48ba216
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2f70afbca632f2096f07b77aa79ef00a93e74534625a72df718f2ce82297cec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:37:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,21 +75,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/decl/24/1993/03/09/p/dre
   label: null
   source: http://data.dre.pt/eli/decl/24/1993/03/09/p/dre
+- type: cites
+  target: pt:dre:628524:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:37:07Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 170/93
+# Declaração de rectificação n.º 170/93
 
 Segundo comunicação do Ministério da Educação, a [Declaração n.º 24/93](https://diariodarepublica.pt/dr/detalhe/declaracao/24-1993-628524), publicada no Diário da República, 1.ª série, n.º 43, de 9 de Março de 1993, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43921-1961-180617
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-09-18T00:00:00Z'
+  retrieved_at: '2026-10-22T19:25:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: beafcb3f921c4eaf4da7a21b58338a1847899532e27611603cce2e4a15947e1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 195e3c85687f48b6a62caecffeea321687c32209d74d39102824ea6dff7f0d30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:25:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:642047:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:25:42Z'
   warnings: []
   errors: []
 ---
@@ -88,31 +92,31 @@ A fim de satisfazer ao disposto na base LXXXI-VI da Lei Orgânica do Ultramar Po
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Poderá haver, nas localidades onde se realizarem provas de aptidão para a frequência de cursos superiores, exames de aptidão para a matrícula no curso de professores do Instituto Nacional de Educação Física, para os candidatos residentes nas províncias ultramarinas e que tenham concluído nas mesmas os estudos anteriores.
+Artigo 1.º Poderá haver, nas localidades onde se realizarem provas de aptidão para a frequência de cursos superiores, exames de aptidão para a matrícula no curso de professores do Instituto Nacional de Educação Física, para os candidatos residentes nas províncias ultramarinas e que tenham concluído nas mesmas os estudos anteriores.
 
-###### Art. 2.º Os exames a que se refere o artigo anterior constam de provas de aptidão física e de provas de aptidão intelectual.
+Art. 2.º Os exames a que se refere o artigo anterior constam de provas de aptidão física e de provas de aptidão intelectual.
 
 § único. Só poderão ser admitidos a este exame os candidatos que reúnam, além dos demais requisitos fixados no regulamento do referido curso, a necessária robustez física, que deverá ser apurada através de inspecção médica, realizada, em cada localidade em que haja candidatos, com intervenção dos serviços de instrução da respectiva província.
 
-###### Art. 3.º As provas de aptidão física serão realizadas, precedendo as provas de aptidão intelectual, perante júri idóneo designado pelo governador da província, para cada localidade, e deverão obedecer às instruções fornecidas, para o efeito, pelo Ministério da Educação Nacional, as quais serão transmitidas aos governos das províncias pelo Ministério do Ultramar.
+Art. 3.º As provas de aptidão física serão realizadas, precedendo as provas de aptidão intelectual, perante júri idóneo designado pelo governador da província, para cada localidade, e deverão obedecer às instruções fornecidas, para o efeito, pelo Ministério da Educação Nacional, as quais serão transmitidas aos governos das províncias pelo Ministério do Ultramar.
 
-###### Art. 4.º As provas de aptidão intelectual serão realizadas em regime de ponto único, segundo o preceituado para a sua realização na metrópole, e segundo pontos e instruções fornecidos pelo Ministério da Educação Nacional e transmitidos nos termos estabelecidos pelo artigo anterior.
+Art. 4.º As provas de aptidão intelectual serão realizadas em regime de ponto único, segundo o preceituado para a sua realização na metrópole, e segundo pontos e instruções fornecidos pelo Ministério da Educação Nacional e transmitidos nos termos estabelecidos pelo artigo anterior.
 
-###### Art. 5.º As provas de aptidão intelectual começam no ultramar no dia 20 de Setembro, ou no primeiro dia útil depois desta data, se aquele o não for, e o seu horário será marcado, segundo instruções do Ministério do Ultramar, de maneira que as provas sejam prestadas simultâneamente em todas as localidades em que se realizam.
+Art. 5.º As provas de aptidão intelectual começam no ultramar no dia 20 de Setembro, ou no primeiro dia útil depois desta data, se aquele o não for, e o seu horário será marcado, segundo instruções do Ministério do Ultramar, de maneira que as provas sejam prestadas simultâneamente em todas as localidades em que se realizam.
 
-###### Art. 6.º A data das provas de aptidão física e o respectivo horário serão marcados, com a necessária antecedência, pelo governador de cada província.
+Art. 6.º A data das provas de aptidão física e o respectivo horário serão marcados, com a necessária antecedência, pelo governador de cada província.
 
-###### Art. 7.º As entregas de requerimentos, o deferimento da admissão de candidatos, a designação de locais e execução do expediente, e bem assim a satisfação dos encargos com a elaboração, preparação e remessa dos pontos, relativamente aos exames permitidos no artigo 1.º, obedecerão em tudo aos preceitos respectivamente constantes dos artigos 5.º, 6.º, 9.º e 12.º do [Decreto n.º 39291](https://diariodarepublica.pt/dr/detalhe/decreto/39291-1953-642047), de 24 de Julho de 1953.
+Art. 7.º As entregas de requerimentos, o deferimento da admissão de candidatos, a designação de locais e execução do expediente, e bem assim a satisfação dos encargos com a elaboração, preparação e remessa dos pontos, relativamente aos exames permitidos no artigo 1.º, obedecerão em tudo aos preceitos respectivamente constantes dos artigos 5.º, 6.º, 9.º e 12.º do [Decreto n.º 39291](https://diariodarepublica.pt/dr/detalhe/decreto/39291-1953-642047), de 24 de Julho de 1953.
 
-###### Art. 8.º As provas de aptidão intelectual são prestadas perante os júris de fiscalização constituídos para os efeitos do [Decreto n.º 39291](https://diariodarepublica.pt/dr/detalhe/decreto/39291-1953-642047) e conjuntamente com as que ele permite.
+Art. 8.º As provas de aptidão intelectual são prestadas perante os júris de fiscalização constituídos para os efeitos do [Decreto n.º 39291](https://diariodarepublica.pt/dr/detalhe/decreto/39291-1953-642047) e conjuntamente com as que ele permite.
 
-###### Art. 9.º Concluídas as provas de aptidão intelectual, cumpre aos júris autenticá-las e entregá-las às entidades por onde correm os serviços de instrução pública, a fim de serem remetidas com as necessárias cautelas, conjuntamente com as actas relativas às provas de aptidão física, ao Ministério do Ultramar, que, por sua vez, as enviará ao da Educação Nacional.
+Art. 9.º Concluídas as provas de aptidão intelectual, cumpre aos júris autenticá-las e entregá-las às entidades por onde correm os serviços de instrução pública, a fim de serem remetidas com as necessárias cautelas, conjuntamente com as actas relativas às provas de aptidão física, ao Ministério do Ultramar, que, por sua vez, as enviará ao da Educação Nacional.
 
-###### Art. 10.º A apreciação das provas será realizada na metrópole pelo competente júri do Instituto Nacional de Educação Física.
+Art. 10.º A apreciação das provas será realizada na metrópole pelo competente júri do Instituto Nacional de Educação Física.
 
-###### Art. 11.º Os serviços respeitantes aos exames a que refere este decreto são executados com intervenção dos conselhos provinciais de educação física, os quais prestarão para o efeito a colaboração que lhes for requisitada pelas repartições daquela especialidade nas províncias delas dotadas.
+Art. 11.º Os serviços respeitantes aos exames a que refere este decreto são executados com intervenção dos conselhos provinciais de educação física, os quais prestarão para o efeito a colaboração que lhes for requisitada pelas repartições daquela especialidade nas províncias delas dotadas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 18 de Setembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira - Manuel Lopes de Almeida.
 

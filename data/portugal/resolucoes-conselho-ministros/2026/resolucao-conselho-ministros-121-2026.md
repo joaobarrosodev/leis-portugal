@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/06/11300/0001700018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/121/2026/06/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/121-2026-1131865545
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-15T00:00:00Z'
+  retrieved_at: '2026-10-22T18:43:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d80ee5115808b19b8604167c63319bc3f519a23d5bc9c9b48563881b2fca007e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11badec17ae8af8fda640153baea6ba12dc954ff8da9b5e28b41918524acc981
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:43:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -91,16 +91,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/83/2020/10/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/83/2020/10/09/p/dre
+- type: cites
+  target: pt:dre:1126594009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145012183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453551:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:43:51Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +135,7 @@ Não obstante, a Transtejo, S. A., tem vindo a assegurar o referido serviço pú
 
 Nos termos do disposto no n.º 1 do artigo 44.º do [Decreto-Lei n.º 105/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2026-1126594009), de 26 de maio, às empresas prestadoras de serviço público que não tenham contrato em vigor com o Estado podem ser atribuídas indemnizações compensatórias por resolução do Conselho de Ministros. Mais estabelece aquele artigo que sempre que a interrupção da prestação do serviço público seja prejudicial ao interesse público, a atribuição de indemnizações compensatórias é determinada pelo cumprimento das obrigações de serviço público efetivamente asseguradas pelas empresas prestadoras desse serviço, tendo como referência o anteriormente contratualizado.
 
-Em face de todo o exposto, a presente situação é diretamente subsumível na norma que consta dos n.<sup>os</sup>1 e 2 do artigo 44.º do [Decreto-Lei n.º 105/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2026-1126594009), de 26 de maio, a qual permite, no caso concreto, que sejam atribuídas indemnizações compensatórias à Transtejo, S. A., tendo por referência o anteriormente contratualizado, pelo período de 6 meses, entre 1 de janeiro e 30 de junho de 2026, período estritamente necessário à conclusão do processo administrativo tendente à celebração do novo contrato de serviço público.
+Em face de todo o exposto, a presente situação é diretamente subsumível na norma que consta dos n.os1 e 2 do artigo 44.º do [Decreto-Lei n.º 105/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2026-1126594009), de 26 de maio, a qual permite, no caso concreto, que sejam atribuídas indemnizações compensatórias à Transtejo, S. A., tendo por referência o anteriormente contratualizado, pelo período de 6 meses, entre 1 de janeiro e 30 de junho de 2026, período estritamente necessário à conclusão do processo administrativo tendente à celebração do novo contrato de serviço público.
 
 Assim:
 
@@ -136,3 +152,5 @@ Nos termos do artigo 44.º do [Decreto-Lei n.º 105/2026](https://diariodarepubl
 5 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 3 de junho de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119948763

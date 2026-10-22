@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/92/2026/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/92-2026-1060523848
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-25T00:00:00Z'
+  retrieved_at: '2026-10-22T18:33:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c4db9e7307bb96c5ea083882e2dbdb415d90511944f75c3b170116309856e51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f1a6b79292acbe3397d116f56b064ffa1373b019a577f776cc1fc13e4b3c6a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:33:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Internamento Hospitalar
 - Cuidados de Enfermagem
+- Cuidados Médicos
+- Estabelecimento Hospitalar
+- Internamento Hospitalar
+- Prorrogação de Prazo
 - Regulamentação de Atos Legislativos
 - Serviço Nacional de Saúde
-- Cuidados Médicos
-- Prorrogação de Prazo
-- Estabelecimento Hospitalar
 - Sistema Nacional de Cuidados Continuados Integrados
 - Unidade Local de Saúde
 relationships:
+- type: amends
+  target: pt:numero:portaria:156/2025
+  label: Prorroga, a partir de 26 de fevereiro de 2026, o prazo até 31 de dezembro de 2026, nos termos do artigo 1.º e altera
+    o artigo 4.º da Portaria n.º 156/2025/1, de 7 de abril, Diário da República n.º 68/2025, Série I de 2025-04-07
+  source: null
+  date: '2025-04-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/101/2006/06/06/p/dre
   label: null
@@ -97,16 +103,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/156/2025/04/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/156/2025/04/07/p/dre
+- type: cites
+  target: pt:dre:353934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:912653925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:913947260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:992627243:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:33:38Z'
   warnings: []
   errors: []
 ---
@@ -161,4 +187,6 @@ No âmbito do projeto-piloto, as ECCI têm a seguinte constituição:
 
 A presente portaria entra em vigor na data da sua publicação.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 20 de fevereiro de 2026. - A Ministra da Saúde, Ana Paula Martins, em 12 de fevereiro de 2026. - A Ministra do Trabalho, Solidariedade e Segurança Social, Rosário Palma Ramalho, em 13 de fevereiro de 2026.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 20 de fevereiro de 2026. - A Ministra da Saúde, Ana Paula Martins, em 12 de fevereiro de 2026. - A Ministra do Trabalho, Solidariedade e Segurança Social, Rosário Palma Ramalho, em 13 de fevereiro de 2026.
+
+119947744

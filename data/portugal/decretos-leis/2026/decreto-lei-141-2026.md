@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/141/2026/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2026-1145969708
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-10T00:00:00Z'
+  retrieved_at: '2026-10-22T18:46:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 074d55e80b5973bebf9602bbfd4fba958470780e54cc6c6f577f87f68d77f649
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 573e1bc1314af7980f23dfda22c37d5d646f4288e5651eb8dfdbf53cc31d897d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:46:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Associação Humanitária dos Bombeiros Voluntários
-- Compensação Financeira
-- Combustível
 - Ação Social
-- Auxílio de Minimis
-- Pesca
-- Gasóleo
-- Aquicultura
 - Agricultura
+- Aquicultura
+- Associação Humanitária dos Bombeiros Voluntários
+- Auxílio de Minimis
+- Combustível
+- Compensação Financeira
+- Gasóleo
+- Pesca
 - Subsídio de Gasóleo
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:80-A/2026
+  label: Altera, a partir de 11 de julho de 2026, os artigos 6.º e 10.º e revoga o n.º 4 do artigo 10.º do Decreto-Lei n.º
+    80-A/2026, de 31 de março, Diário da República n.º 63/2026, Suplemento, Série I
+  source: null
+  date: '2026-03-31'
 - type: cites
   target: celex:32014R0651
   label: null
@@ -90,16 +96,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/80-a/2026/03/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/80-a/2026/03/31/p/dre
+- type: cites
+  target: pt:dre:1080481232:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:46:22Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +156,9 @@ b) Não tenham recebido auxílios de emergência ou à reestruturação.
 
 5 - [Anterior n.º 3.]
 
-###### Artigo 10.º — Auxílios de Estado
+Artigo 10.º
+
+Auxílios de Estado
 
 1 - Os apoios financeiros previstos no presente capítulo são concedidos de acordo com o direito da União Europeia em matéria de auxílios de Estado, podendo, consoante a atividade exercida pelo beneficiário, ser enquadrados num dos seguintes regimes:
 
@@ -170,12 +182,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 18 de junho de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Manuel Castro Almeida - Miguel Martinez de Castro Pinto Luz - Paulo Jorge Simões Ribeiro - Maria da Graça Carvalho - José Manuel Fernandes.
 
-**Promulgado em 30 de junho de 2026.**
+Promulgado em 30 de junho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 3 de julho de 2026.**
+Referendado em 3 de julho de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119948997

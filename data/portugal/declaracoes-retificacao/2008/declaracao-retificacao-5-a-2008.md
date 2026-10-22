@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 28/2008, 2º Suplemento, Série I de 2008-02-08
   number: '28'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 954-(8) a 954-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/02/02802/0000800008.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/5-a/2008/02/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-a-2008-315566
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-11T00:00:00Z'
+  retrieved_at: '2026-10-22T19:10:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c2b14151b2e6ae7a8577dca1033035561a9aa0b4f0ed26468ab474ec8581695
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d0b412550f4f8564bbf6ef19eb5de7ff19f3b12cfb81e35cebbb69d5ab96fdf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:10:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- QREN
+- Açores
 - Ajuda Comunitária
-- Financiamento
-- Gestão Financeira
 - Definição de Competências
 - Feader
-- Gestão Administrativa
 - FEDER
-- Instituto de Gestão do Fundo Social Europeu
-- Publicitação
+- Financiamento
 - FSE
-- Programa Operacional Potencial Humano
-- Sistema de Informação
-- Programa Operacional
-- QCA III
+- Gestão Administrativa
+- Gestão Financeira
+- Instituto de Gestão do Fundo Social Europeu
 - Madeira.região Autónoma
+- Programa Operacional
+- Programa Operacional Potencial Humano
+- Publicitação
+- QCA III
+- QREN
 - Regime Jurídico
 - Regulamento CE
-- Açores
+- Sistema de Informação
 - Unidade de Gestão
 relationships:
 - type: amended_by
@@ -105,16 +105,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/84-a/2007/12/10/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/84-a/2007/12/10/p/dre
+- type: corrects
+  target: pt:numero:decreto-regulamentar:84-A/2007
+  label: "Rectifica o Decreto Regulamentar n.º 84-A/2007, de 10 de Dezembro, DR.IS [237]Supl \0\0"
+  source: null
+  date: '2007-12-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:10:21Z'
   warnings: []
   errors: []
 ---

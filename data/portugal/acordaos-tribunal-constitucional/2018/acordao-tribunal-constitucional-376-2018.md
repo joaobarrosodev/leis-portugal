@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/09/18000/0479404803.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/376/2018/09/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/376-2018-116407649
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-09-18T00:00:00Z'
+  retrieved_at: '2026-10-22T18:24:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4aac7021e4bfa84218631fe4a90365dbd18444fa7c7fddfbe660f210c07d2e45
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f34e0a1c67e13765a646d522538e812bf0cbd30fa4b5fc57ae69f884ea012f99
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:24:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,7 +68,6 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviços de Segurança
 - Empresa de Segurança
 - Incompatibilidades
 - Inconstitucionalidade
@@ -76,6 +75,7 @@ subjects:
 - Pessoal de Vigilância
 - Responsabilidade Criminal
 - Segurança Privada
+- Serviços de Segurança
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/ac/562/2004/03/13/p/dre
@@ -120,13 +120,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:24:53Z'
   warnings: []
   errors: []
 ---
@@ -466,3 +466,5 @@ Concordo com o sentido da decisão, sc., com a declaração de inconstitucionali
 E é assim, a meu ver, mesmo tendo em conta uma segura e precisa delimitação do âmbito de proteção da norma constitucional em consonância com a axiologia e a teleologia que lhe subjazem. A saber: evitar que a condenação pela prática de um crime doloso e a imposição da pena correspondente tenham um efeito automático de sentido e ressonância ainda sancionatórias. Isto é, um efeito em que, por um lado, se prolongue (e reforce) a resposta contrafáctica do poder punitivo à margem das exigências - e da frustração da pertinente área de tutela - de categorias e princípios como a culpa pessoal e individual. E, por outro lado, um efeito automático que adense e perpetue - ao arrepio do desígnio constitucional da ressocialização - o lastro estigmatizante da sanção, através do prolongamento do estigma e da distanciação social. Com o conhecido cortejo de consequências dessocializadoras.
 
 E pressuposto, além do mais, que aquele efeito automático - de resposta contrafáctica e de estigma dessocializador - se concretize sob a forma de intromissão na esfera jurídica da pessoa atingida e de compressão de direitos e liberdades nela ancorados. Ou seja, sob a forma de perda de "direitos civis, profissionais ou políticos". E não como um efeito recondutível à declaração ou constatação de perda definitiva das condições indispensáveis ao exercício de uma qualquer função em atividade. - Manuel da Costa Andrade.
+
+111632761

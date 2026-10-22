@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43564-1961-559426
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-03-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:22:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 157dbb1eacf8487ebf4fd43358d746a47beef6d1ee9cfa230a58997d93b249ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24402d566ad703e9738ed613153cdde34392827f69bff36ecf2b298434424b18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:22:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251184:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:22:46Z'
   warnings: []
   errors: []
 ---
@@ -97,13 +101,13 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º e seu § 1.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É criado, com sede na cidade da Praia, o Centro de Estudos de Cabo Verde, com as atribuições e composição indicadas neste decreto.
+Artigo 1.º É criado, com sede na cidade da Praia, o Centro de Estudos de Cabo Verde, com as atribuições e composição indicadas neste decreto.
 
-###### Art. 2.º O Centro é o organismo provincial da Junta de Investigações do Ultramar, que assegura a extensão da sua actividade científica e cultural na província de Cabo Verde, nos termos deste decreto.
+Art. 2.º O Centro é o organismo provincial da Junta de Investigações do Ultramar, que assegura a extensão da sua actividade científica e cultural na província de Cabo Verde, nos termos deste decreto.
 
-###### Art. 3.º O Centro de Estudos é pessoa moral, com autonomia administrativa, gozando de capacidade jurídica para adquirir, a título gratuito ou oneroso, quaisquer bens, e para os administrar, bem como para dispor de todas as receitas que auferir para a realização dos seus fins.
+Art. 3.º O Centro de Estudos é pessoa moral, com autonomia administrativa, gozando de capacidade jurídica para adquirir, a título gratuito ou oneroso, quaisquer bens, e para os administrar, bem como para dispor de todas as receitas que auferir para a realização dos seus fins.
 
-###### Art. 4.º São atribuições do Centro de Estudos:
+Art. 4.º São atribuições do Centro de Estudos:
 
 1.º Concorrer para o desenvolvimento da ciência, por meio da investigação científica continuada dos problemas específicos do arquipélago;
 
@@ -115,7 +119,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º e seu § 1.º da C
 
 5.º Informar superiormente das actividades, estudos e trabalhos realizados na província por missões estrangeiras e nacionais não dependentes da Junta.
 
-###### Art. 5.º Para a execução das suas atribuições deve o Centro:
+Art. 5.º Para a execução das suas atribuições deve o Centro:
 
 1.º Realizar inquéritos culturais e científicos que visem o melhor conhecimento dos problemas da província;
 
@@ -131,19 +135,19 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º e seu § 1.º da C
 
 § único. As actividades do Centro em cada ano devem ser conduzidas segundo um plano, elaborado pelo Centro e submetido, com os pareceres do governador e da Junta de Investigações, à apreciação do Ministro do Ultramar, até 31 de Outubro do ano anterior.
 
-###### Art. 6.º Para a realização dos seus fins o Centro de Estudos promoverá a organização de um museu de história natural, de um serviço de documentação científica e de um gabinete de fotografia e som.
+Art. 6.º Para a realização dos seus fins o Centro de Estudos promoverá a organização de um museu de história natural, de um serviço de documentação científica e de um gabinete de fotografia e som.
 
 § único. Quando for conveniente poderão ser organizadas outras actividades de interesse para a acção a desenvolver pelo Centro.
 
-###### Art. 7.º O Centro terá uma secção na cidade do Mindelo, com os serviços que o governador determinar. Os serviços da secção serão predominantemente dedicados às ciências humanas, funcionando em estreita cooperação com os organismos da mesma modalidade da Junta de Investigações, e funcionará junto deles o Arquivo Geral de Cabo Verde, instituído pelo Diploma Legislativo provincial n.º 1374, de 15 de Março de 1958, e integrado nos serviços de instrução, conforme o disposto na alínea a) do artigo 6.º do [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184), de 23 de Dezembro de 1957.
+Art. 7.º O Centro terá uma secção na cidade do Mindelo, com os serviços que o governador determinar. Os serviços da secção serão predominantemente dedicados às ciências humanas, funcionando em estreita cooperação com os organismos da mesma modalidade da Junta de Investigações, e funcionará junto deles o Arquivo Geral de Cabo Verde, instituído pelo Diploma Legislativo provincial n.º 1374, de 15 de Março de 1958, e integrado nos serviços de instrução, conforme o disposto na alínea a) do artigo 6.º do [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184), de 23 de Dezembro de 1957.
 
 § único. A direcção do Arquivo Geral de Cabo Verde será exercida pelo presidente da comissão executiva do Centro ou, no caso de necessidade, pelo director da secção do Mindelo, conforme for determinado pelo governador.
 
-###### Art. 8.º A Junta de Investigações do Ultramar prestará todo o apoio necessário ao Centro de Estudos, nomeadamente no estudo conveniente do material recolhido, a fazer nos seus centros e laboratórios especializados.
+Art. 8.º A Junta de Investigações do Ultramar prestará todo o apoio necessário ao Centro de Estudos, nomeadamente no estudo conveniente do material recolhido, a fazer nos seus centros e laboratórios especializados.
 
-###### Art. 9.º O Centro de Estudos é constituído por vogais, investigadores, estagiários e tirocinantes e por pessoal técnico e auxiliar.
+Art. 9.º O Centro de Estudos é constituído por vogais, investigadores, estagiários e tirocinantes e por pessoal técnico e auxiliar.
 
-###### Art. 10.º Os vogais serão nomeados pelo Ministro do Ultramar, sob proposta da Junta de Investigações do Ultramar, de entre pessoas de reconhecida competência em estudos que visem aspectos característicos da província e que aceitem contribuir para a realização dos fins do Centro de Estudos.
+Art. 10.º Os vogais serão nomeados pelo Ministro do Ultramar, sob proposta da Junta de Investigações do Ultramar, de entre pessoas de reconhecida competência em estudos que visem aspectos característicos da província e que aceitem contribuir para a realização dos fins do Centro de Estudos.
 
 § 1.º O número de vogais nomeados não pode exceder 30.
 
@@ -151,7 +155,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º e seu § 1.º da C
 
 § 3.º As funções de vogal do Centro são gratuitas.
 
-###### Art. 11.º Para assegurar a realização dos fins a que o Centro de Estudos se destina haverá uma comissão executiva, composta por três vogais. Um dos vogais servirá de presidente e outro de secretário.
+Art. 11.º Para assegurar a realização dos fins a que o Centro de Estudos se destina haverá uma comissão executiva, composta por três vogais. Um dos vogais servirá de presidente e outro de secretário.
 
 § 1.º Os vogais designados para constituírem a comissão executiva serão nomeados pelo Ministro do Ultramar, sendo o presidente um investigador contratado da Junta de Investigações do Ultramar, por esta indicado e que não seja chefe de missão ou brigada, e os outros sob proposta do Governo de Cabo Verde, ouvida a mesma Junta.
 
@@ -159,13 +163,13 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º e seu § 1.º da C
 
 § 3.º Aos outros membros da comissão executiva poderá o Ministro do Ultramar atribuir uma gratificação, que por ele será fixada, tendo em atenção os recursos do Centro.
 
-###### Art. 12.º O pessoal de investigação do Centro de Estudos será admitido por contrato, de harmonia com o disposto no Estatuto do Funcionalismo Ultramarino, mediante autorização do Ministro do Ultramar.
+Art. 12.º O pessoal de investigação do Centro de Estudos será admitido por contrato, de harmonia com o disposto no Estatuto do Funcionalismo Ultramarino, mediante autorização do Ministro do Ultramar.
 
 § 1.º Os vencimentos serão fixados para cada caso pelo Ministro do Ultramar, tendo em consideração os recursos financeiros do Centro e os vencimentos dos funcionários públicos da província.
 
 § 2.º A secção a que se refere o artigo 7.º será em regra dirigida por uni dos investigadores admitidos nos termos do corpo deste artigo. Sempre que a direcção possa ser confiada a funcionário público que exerça funções na província, será designado por simples despacho do Ministro do Ultramar, que poderá fixar-lhe uma gratificação pela acumulação.
 
-###### Art. 13.º Constituem receitas do Centro de Estudos:
+Art. 13.º Constituem receitas do Centro de Estudos:
 
 a) Os subsídios que lhe forem atribuídos no orçamento geral da província de Cabo Verde;
 
@@ -177,15 +181,15 @@ d) O saldo dos exercícios findos;
 
 e) Quaisquer outras verbas que lhe sejam atribuídas ou concedidas por entidades particulares ou oficiais.
 
-###### Art. 14.º O conselho administrativo do Centro de Estudos será constituído, para todos os efeitos legais, pelos elementos que formam a comissão executiva.
+Art. 14.º O conselho administrativo do Centro de Estudos será constituído, para todos os efeitos legais, pelos elementos que formam a comissão executiva.
 
-###### Art. 15.º Ao conselho administrativo compete administrar as verbas do orçamento privativo do Centro, que será aprovado anualmente pelo governador da província.
+Art. 15.º Ao conselho administrativo compete administrar as verbas do orçamento privativo do Centro, que será aprovado anualmente pelo governador da província.
 
 § único. A gestão será julgada pelo Tribunal Administrativo da província.
 
-###### Art. 16.º O Ministro do Ultramar, em portaria, disporá o mais que for necessário para o perfeito funcionamento do Centro.
+Art. 16.º O Ministro do Ultramar, em portaria, disporá o mais que for necessário para o perfeito funcionamento do Centro.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Março de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

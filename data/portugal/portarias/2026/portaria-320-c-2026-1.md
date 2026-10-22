@@ -48,26 +48,146 @@ source:
   metadata_url: https://data.dre.pt/eli/port/320-c/2026/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/320-c-2026-1153698652
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:48:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e9eb48d8e47426a815bda0ae4e89b54ff8e44395a4c329a63d5f85f544cc805
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c5304e97c5ac95a5b01e75f34a394a857dfd6d404424de8814ab1ded6b87365
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:48:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Ajuda Comunitária
+- Beneficiário
+- Desenvolvimento Rural
+- Feader
+- Feaga
+- Investimento
+- Licenciamento
+- Plano Estratégico da Política Agrícola Comum de Portugal
+- Proteção do Ambiente
+- Regulamentação de Atos Legislativos
+- Sector Florestal
 relationships:
+- type: amends
+  target: pt:numero:portaria:183/2024
+  label: Altera, a partir de 01 de agosto de 2026 e com efeitos a 10 de agosto de 2024, o artigo 5.º da Portaria n.º 183/2024/1,
+    de 9 de agosto, Diário da República n.º 154/2024, Série I
+  source: null
+  date: '2024-08-08'
+- type: amends
+  target: pt:numero:portaria:213/2024
+  label: Altera, a partir de 01 de agosto de 2026 e com efeitos a 19 de setembro de 2024, o artigo 5.º da Portaria n.º 213/2024/1,
+    de 18 de setembro, Diário da República n.º 181/2024, Série I
+  source: null
+  date: '2024-09-17'
+- type: amends
+  target: pt:numero:portaria:272/2024
+  label: Altera, a partir de 01 de agosto de 2026 e com efeitos a 22 de outubro de 2024, os artigos 5.º, 12.º e 20.º da Portaria
+    n.º 272/2024/1, de 21 de outubro, Diário da República n.º 204/2024, Série I
+  source: null
+  date: '2024-10-20'
+- type: amends
+  target: pt:numero:portaria:274/2024
+  label: Altera, a partir de 01 de agosto de 2026 e com efeitos a 22 de outubro de 2024, o artigo 5.º da Portaria n.º 274/2024/1,
+    de 21 de outubro, Diário da República n.º 204/2024, Série I
+  source: null
+  date: '2024-10-20'
+- type: amends
+  target: pt:numero:portaria:303-A/2024
+  label: Altera, a partir de 01 de agosto de 2026 e com efeitos a 27 de novembro de 2024, o artigo 5.º da Portaria n.º 303-A/2024/1,
+    de 26 de novembro, Diário da República n.º 229/2024, Suplemento, Série I
+  source: null
+  date: '2024-11-26'
+- type: amends
+  target: pt:numero:portaria:348/2024
+  label: Altera, a partir de 01 de agosto de 2026 e com efeitos a 21 de dezembro de 2024, o artigo 6.º da Portaria n.º 348/2024/1,
+    de 20 de dezembro, Diário da República n.º 247/2024, Série I
+  source: null
+  date: '2024-12-20'
+- type: amends
+  target: pt:numero:portaria:27/2025
+  label: Altera, a partir de 01 de agosto de 2026 e com efeitos a 05 de fevereiro de 2025, os artigos 6.º e 11.º da Portaria
+    n.º 27/2025/1, de 4 de fevereiro, Diário da República n.º 24/2025, Série I
+  source: null
+  date: '2025-02-04'
+- type: amends
+  target: pt:numero:portaria:124/2025
+  label: Altera, a partir de 01 de agosto de 2026 e com efeitos a 22 de março de 2025, o artigo 7.º da Portaria n.º 124/2025/1,
+    de 21 de março, Diário da República n.º 57/2025, Série I
+  source: null
+  date: '2025-03-21'
+- type: amends
+  target: pt:numero:portaria:125/2025
+  label: Altera, a partir de 01 de agosto de 2026 e com efeitos a 22 de março de 2025, o artigo 8.º da Portaria n.º 125/2025/1,
+    de 21 de março, Diário da República n.º 57/2025, Série I
+  source: null
+  date: '2025-03-21'
+- type: amends
+  target: pt:numero:portaria:232-A/2025
+  label: Altera, a partir de 01 de agosto de 2026 e com efeitos a 24 de maio de 2025, os artigos 6.º, 11.º e 16.º da Portaria
+    n.º 232-A/2025/1, de 23 de maio, Diário da República n.º 99/2025, Suplemento, Série I
+  source: null
+  date: '2025-05-22'
+- type: amends
+  target: pt:numero:portaria:240/2025
+  label: Altera, a partir de 01 de agosto de 2026 e com efeitos a 28 de maio de 2025, o artigo 5.º da Portaria n.º 240/2025/1,
+    de 27 de maio, Diário da República n.º 101/2025, Série I
+  source: null
+  date: '2025-05-26'
+- type: amends
+  target: pt:numero:portaria:247/2025
+  label: Altera, a partir de 01 de agosto de 2026 e com efeitos a 31 de maio de 2025, os artigos 9.º, 16.º, 23.º, 30.º e 38.º
+    da Portaria n.º 247/2025/1, de 30 de maio, Diário da República n.º 104/2025, Série I
+  source: null
+  date: '2025-05-29'
+- type: amends
+  target: pt:numero:portaria:267/2025
+  label: Altera, a partir de 01 de agosto de 2026 e com efeitos a 15 de julho de 2025, os artigos 6.º e 13.º da Portaria n.º
+    267/2025/1, de 14 de julho, Diário da República n.º 133/2025, Série I
+  source: null
+  date: '2025-07-14'
+- type: amends
+  target: pt:numero:portaria:48/2026
+  label: Altera, a partir de 01 de agosto de 2026 e com efeitos a 30 de janeiro de 2026, o artigo 6.º da Portaria n.º 48/2026/1,
+    de 29 de janeiro, Diário da República n.º 20/2026, Série I
+  source: null
+  date: '2026-01-29'
+- type: amends
+  target: pt:numero:portaria:120/2026
+  label: Altera, a partir de 01 de agosto de 2026 e com efeitos a 15 de março de 2026, o artigo 7.º da Portaria n.º 120/2026/1,
+    de 19 de março, Diário da República n.º 55/2026, Série I
+  source: null
+  date: '2026-03-19'
+- type: amends
+  target: pt:numero:portaria:121/2026
+  label: Altera, a partir de 01 de agosto de 2026 e com efeitos a 15 de março de 2026, o artigo 8.º da Portaria n.º 121/2026/1,
+    de 19 de março, Diário da República n.º 55/2026, Série I
+  source: null
+  date: '2026-03-19'
+- type: amends
+  target: pt:numero:portaria:214/2026
+  label: Altera, a partir de 01 de agosto de 2026 e com efeitos a 12 de maio de 2026, o artigo 5.º da Portaria n.º 214/2026/1,
+    de 11 de maio, Diário da República n.º 90/2026, Série I
+  source: null
+  date: '2026-05-10'
+- type: amends
+  target: pt:numero:portaria:265/2026
+  label: Altera, a partir de 01 de agosto de 2026 e com efeitos a 18 de junho de 2026, o artigo 9.º da Portaria n.º 265/2026/1,
+    de 17 de junho, Diário da República n.º 115/2026, Série I
+  source: null
+  date: '2026-06-16'
 - type: cites
   target: celex:32021R1060
   label: null
@@ -116,16 +236,136 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/56/2026/02/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/56/2026/02/02/p/dre
+- type: cites
+  target: pt:dre:1028060983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1031110261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1033291311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1074104066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1074104067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108028571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1082861150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1118713683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1133485783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1140260281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207760041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:876124125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:888109593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:891867282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:891867284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:897543561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:898014969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:900840743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:903803228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:906044202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:909953482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:911850388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:911850389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:915820788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:919311876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:919523560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:919989044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:924672852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:935257201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:939048260:por
+  label: null
+  source: null
 article_structure:
-  article_count: 30
+  article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:48:41Z'
   warnings: []
   errors: []
 ---
@@ -208,7 +448,9 @@ Os artigos 5.º, 12.º e 20.º da [Portaria n.º 272/2024/1](https://diariodarep
 
 5 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -220,7 +462,9 @@ Os artigos 5.º, 12.º e 20.º da [Portaria n.º 272/2024/1](https://diariodarep
 
 5 - [...]
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -504,7 +748,9 @@ Os artigos 6.º e 11.º da [Portaria n.º 27/2025/1](https://diariodarepublica.p
 
 6 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -538,7 +784,9 @@ Os artigos 6.º, 11.º e 16.º da [Portaria n.º 232-A/2025/1](https://diariodar
 
 6 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -552,7 +800,9 @@ Os artigos 6.º, 11.º e 16.º da [Portaria n.º 232-A/2025/1](https://diariodar
 
 6 - [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -584,7 +834,9 @@ Os artigos 9.º, 16.º, 23.º, 30.º e 38.º da [Portaria n.º 247/2025/1](https
 
 6 - [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -602,7 +854,9 @@ Os artigos 9.º, 16.º, 23.º, 30.º e 38.º da [Portaria n.º 247/2025/1](https
 
 8 - [...]
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]
 
@@ -622,7 +876,9 @@ Os artigos 9.º, 16.º, 23.º, 30.º e 38.º da [Portaria n.º 247/2025/1](https
 
 9 - [...]
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - [...]
 
@@ -640,7 +896,9 @@ Os artigos 9.º, 16.º, 23.º, 30.º e 38.º da [Portaria n.º 247/2025/1](https
 
 8 - [...]
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - [...]
 
@@ -692,7 +950,9 @@ Os artigos 6.º e 13.º da [Portaria n.º 267/2025/1](https://diariodarepublica.
 
 5 - [...]
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -708,4 +968,6 @@ Os artigos 6.º e 13.º da [Portaria n.º 267/2025/1](https://diariodarepublica.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e os seus efeitos retroagem à data da entrada em vigor das portarias objeto de alteração.
 
-**O Ministro da Agricultura e Mar, José Manuel Fernandes, em 30 de julho de 2026.**
+O Ministro da Agricultura e Mar, José Manuel Fernandes, em 30 de julho de 2026.
+
+119949244

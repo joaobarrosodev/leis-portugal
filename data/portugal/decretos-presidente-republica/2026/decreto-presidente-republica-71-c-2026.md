@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/71-c/2026/04/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/71-c-2026-1086396277
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-16T00:00:00Z'
+  retrieved_at: '2026-10-22T18:38:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d82c6810fc6cad2d08aee976f0887e8f00b2b730d00b2f2b7b25901f86edfdb6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f733272badae73bdd385cf9dbdf44e4f5f0afe93dec48e64ae284f2f0cec34d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:38:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,13 +72,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:38:34Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +87,7 @@ validation:
 
 de 16 de abril
 
-**O Presidente da República decreta, nos termos dos artigos 133.º, alínea n), e 142.º, alínea g), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos dos artigos 133.º, alínea n), e 142.º, alínea g), da Constituição, o seguinte:
 
 São designados membros do Conselho de Estado as seguintes individualidades:
 
@@ -101,8 +101,10 @@ Miguel Bastos Araújo.
 
 Henrique Nuno Pires Severiano Teixeira.
 
-**Assinado em 16 de abril de 2026.**
+Assinado em 16 de abril de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
+
+119948264

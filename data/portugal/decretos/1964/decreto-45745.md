@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45745-1964-576948
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-06-01T00:00:00Z'
+  retrieved_at: '2026-10-22T19:40:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5611e5585dab02c9fa8630eefdd716364bd73ef55b0ca3789e3669f03d46c943
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d754afde6d1567be5c92473356267ae5188fd384bf7b0101758c5a45675fe49c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:40:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:238047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651082:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:40:47Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +116,9 @@ Por motivo de urgência e de harmonia com o disposto no § 1.º do artigo 150.º
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É criado o serviço de aeronáutica civil da província de S. Tomé e Príncipe, que se regulará pelas disposições do [Decreto-Lei n.º 39645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39645-1954-635193), de 11 de Maio de 1954, em tudo que não for contrariado pelo presente diploma.
+Artigo 1.º É criado o serviço de aeronáutica civil da província de S. Tomé e Príncipe, que se regulará pelas disposições do [Decreto-Lei n.º 39645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39645-1954-635193), de 11 de Maio de 1954, em tudo que não for contrariado pelo presente diploma.
 
-###### Art. 2.º Como serviço de utilidade comum às províncias de S. Tomé e Príncipe, Angola e Moçambique, as despesas de exploração e manutenção normal do aeroporto de S. Tomé constituirão encargo dos orçamentos gerais das referidas províncias, na proporção que for determinada anualmente em portaria do Ministro do Ultramar.
+Art. 2.º Como serviço de utilidade comum às províncias de S. Tomé e Príncipe, Angola e Moçambique, as despesas de exploração e manutenção normal do aeroporto de S. Tomé constituirão encargo dos orçamentos gerais das referidas províncias, na proporção que for determinada anualmente em portaria do Ministro do Ultramar.
 
 § 1.º Para o corrente ano são desde já fixadas as seguintes importâncias:
 
@@ -122,9 +134,9 @@ S. Tomé e Príncipe ... 300000$00
 
 § 3.º As importâncias das quotizações de que trata o parágrafo antecedente serão inscritas como «Reembolsos e reposições - Contribuição da província de ... na despesa de manutenção do aeroporto de S. Tomé», no orçamento geral ordinário desta província.
 
-###### Art. 3.º Enquanto as condições do meio não justificarem a criação de todos os serviços centrais referidos no artigo 3.º do [Decreto-Lei n.º 39645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39645-1954-635193), de 11 de Maio de 1954, a Direcção-Geral da Aeronáutica Civil poderá, no todo ou em parte, conforme for determinado em despacho do Ministro do Ultramar, exercer a competência conferida ao serviço da aeronáutica civil nos artigos 2.º e 4.º do citado diploma.
+Art. 3.º Enquanto as condições do meio não justificarem a criação de todos os serviços centrais referidos no artigo 3.º do [Decreto-Lei n.º 39645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39645-1954-635193), de 11 de Maio de 1954, a Direcção-Geral da Aeronáutica Civil poderá, no todo ou em parte, conforme for determinado em despacho do Ministro do Ultramar, exercer a competência conferida ao serviço da aeronáutica civil nos artigos 2.º e 4.º do citado diploma.
 
-###### Art. 4.º Os quadros, vencimentos e remunerações especiais do pessoal do serviço da aeronáutica civil são os constantes do presente diploma e mapa anexo.
+Art. 4.º Os quadros, vencimentos e remunerações especiais do pessoal do serviço da aeronáutica civil são os constantes do presente diploma e mapa anexo.
 
 § 1.º Além das remunerações previstas no corpo do artigo, o pessoal terá direito aos abonos gerais indicados no Estatuto do Funcionalismo Ultramarino para os funcionários de igual ou correspondente categoria.
 
@@ -134,19 +146,19 @@ S. Tomé e Príncipe ... 300000$00
 
 § 4.º Considera-se trabalho extraordinário o que for executado além do tempo fixado no artigo 8.º, sendo remunerado no valor da hora de trabalho correspondente à categoria do funcionário a que respeitar.
 
-###### Art. 5.º Aos oficiais aviadores do activo pertencentes à Força Aérea em serviço nos serviços de aeronáutica civil de S. Tomé e Príncipe serão abonadas mensalmente as gratificações de diploma e de serviço aéreo percebidas na Secretaria de Estado da Aeronáutica, desde que satisfaçam às condições exigidas para o respectivo abono.
+Art. 5.º Aos oficiais aviadores do activo pertencentes à Força Aérea em serviço nos serviços de aeronáutica civil de S. Tomé e Príncipe serão abonadas mensalmente as gratificações de diploma e de serviço aéreo percebidas na Secretaria de Estado da Aeronáutica, desde que satisfaçam às condições exigidas para o respectivo abono.
 
-###### Art. 6.º Ao pessoal cuja permanência junto dos locais de trabalho seja necessária será atribuída residência mobilada, gratuita, em casa do Governo da província.
+Art. 6.º Ao pessoal cuja permanência junto dos locais de trabalho seja necessária será atribuída residência mobilada, gratuita, em casa do Governo da província.
 
 § único. Se não houver residências vagas nas condições do corpo do presente artigo, o pessoal nele referido terá direito não só ao subsídio de renda de casa que estiver estabelecido em termos gerais para o pessoal da mesma ou correspondente categoria, como também de um subsídio suplementar fixado por despacho do governador da província.
 
-###### Art. 7.º Por despacho do governador da província, os serviços externos, quando as necessidades da assistência à navegação aérea o exigirem, poderão funcionar em regime de trabalho permanente.
+Art. 7.º Por despacho do governador da província, os serviços externos, quando as necessidades da assistência à navegação aérea o exigirem, poderão funcionar em regime de trabalho permanente.
 
-###### Art. 8.º O trabalho normal do pessoal técnico auxiliar dos serviços externos terá a duração de 36 horas por semana, salvo o do serviço de incêndios, que terá a duração de 72 horas.
+Art. 8.º O trabalho normal do pessoal técnico auxiliar dos serviços externos terá a duração de 36 horas por semana, salvo o do serviço de incêndios, que terá a duração de 72 horas.
 
 § único. Os horários serão propostos pelo chefe dos serviços e aprovados pelo governador.
 
-###### Art. 9.º O chefe provincial dos serviços de aeronáutica civil será nomeado, ouvida a Direcção-Geral da Aeronáutica Civil, em comissão ordinária de serviço, nos termos das regras aplicáveis do n.º V da base XL da Lei Orgânica do Ultramar Português.
+Art. 9.º O chefe provincial dos serviços de aeronáutica civil será nomeado, ouvida a Direcção-Geral da Aeronáutica Civil, em comissão ordinária de serviço, nos termos das regras aplicáveis do n.º V da base XL da Lei Orgânica do Ultramar Português.
 
 § 1.º O restante pessoal técnico, técnico auxiliar e administrativo, quando de categoria igual ou superior à do grupo S do artigo 91.º do Estatuto do Funcionalismo Ultramarino, será nomeado de conformidade com as disposições aplicáveis do capítulo II do mesmo estatuto.
 
@@ -154,21 +166,21 @@ Os dactilógrafos e pessoal incluído nos grupos inferiores à letra S serão pr
 
 § 2.º O pessoal técnico auxiliar será recrutado de entre indivíduos com idade não superior a 35 anos, salvo tratando-se de pessoas que à data da sua nomeação se encontre prestando serviço na Direcção-Geral da Aeronáutica Civil ou no serviço de transportes aéreos de S. Tomé.
 
-###### Art. 10.º As condições de admissão e promoção do pessoal constarão de regulamento, a publicar depois de ouvida a Direcção-Geral da Aeronáutica Civil.
+Art. 10.º As condições de admissão e promoção do pessoal constarão de regulamento, a publicar depois de ouvida a Direcção-Geral da Aeronáutica Civil.
 
-###### Art. 11.º O pessoal dos quadros será distribuído pelos diversos serviços centrais e externos por despacho do governador, mediante proposta do chefe dos serviços provinciais.
+Art. 11.º O pessoal dos quadros será distribuído pelos diversos serviços centrais e externos por despacho do governador, mediante proposta do chefe dos serviços provinciais.
 
-###### Art. 12.º O Governo da província poderá alterar o quadro do pessoal dos serviços de transportes aéreos por virtude de eventuais transferências de pessoal destes serviços para o serviço de aeronáutica civil.
+Art. 12.º O Governo da província poderá alterar o quadro do pessoal dos serviços de transportes aéreos por virtude de eventuais transferências de pessoal destes serviços para o serviço de aeronáutica civil.
 
-###### Art. 13.º É suspensa, até o Governo determinar o contrário, por diploma legal, a Junta Provincial de Povoamento referida no Diploma Legislativo da província de S. Tomé e Príncipe n.º 611, de 15 de Novembro de 1961, sem prejuízo da conservação, embora sem qualquer dotação, da respectiva divisão orçamental.
+Art. 13.º É suspensa, até o Governo determinar o contrário, por diploma legal, a Junta Provincial de Povoamento referida no Diploma Legislativo da província de S. Tomé e Príncipe n.º 611, de 15 de Novembro de 1961, sem prejuízo da conservação, embora sem qualquer dotação, da respectiva divisão orçamental.
 
-###### Art. 14.º São extensivas ao pessoal do serviço da aeronáutica civil de S. Tomé e Príncipe as disposições aplicáveis do [Decreto n.º 41053](https://diariodarepublica.pt/dr/detalhe/decreto/41053-1957-651082), de 2 de Abril de 1957.
+Art. 14.º São extensivas ao pessoal do serviço da aeronáutica civil de S. Tomé e Príncipe as disposições aplicáveis do [Decreto n.º 41053](https://diariodarepublica.pt/dr/detalhe/decreto/41053-1957-651082), de 2 de Abril de 1957.
 
-###### Art. 15.º Os serviços da aeronáutica civil elaborarão e submeterão oportunamente à aprovação superior o regulamento dos seus serviços, por intermédio da Direcção-Geral da Aeronáutica Civil.
+Art. 15.º Os serviços da aeronáutica civil elaborarão e submeterão oportunamente à aprovação superior o regulamento dos seus serviços, por intermédio da Direcção-Geral da Aeronáutica Civil.
 
-###### Art. 16.º Ficam autorizados os Governos das províncias de S. Tomé e Príncipe, Angola e Moçambique a abrir os créditos necessários à execução do presente diploma, com contrapartida em quaisquer recursos orçamentais ordinários.
+Art. 16.º Ficam autorizados os Governos das províncias de S. Tomé e Príncipe, Angola e Moçambique a abrir os créditos necessários à execução do presente diploma, com contrapartida em quaisquer recursos orçamentais ordinários.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 1 de Junho de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 
@@ -178,6 +190,6 @@ MAPA
 
 Quadro do pessoal do serviço de aeronáutica civil de S. Tomé e Príncipe
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/06/12900/07450746.pdf))](https://files.diariodarepublica.pt/1s/1964/06/12900/07450746.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/06/12900/07450746.pdf)
 
 Ministério do Ultramar, 1 de Junho de 1964. - O Ministro do Ultramar, António Augusto Peixoto Correia.

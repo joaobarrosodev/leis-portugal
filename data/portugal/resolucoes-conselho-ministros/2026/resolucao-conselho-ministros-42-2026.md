@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/42/2026/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/42-2026-1060895766
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T18:33:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d99ead2501a5d59d5b41e5aa0dd6a668d337a5bd3b47b32f1e50436c741596d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa1e8c5aae703f98795f4968d7fa0cb3a731e24ff1d060e34bb9f4ed031077fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:33:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,10 +72,10 @@ subjects:
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
-- GNR
-- Ministro da Administração Interna
 - Fardamento
+- GNR
 - Governo XXV
+- Ministro da Administração Interna
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-le
@@ -117,16 +117,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/132/2023/10/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/132/2023/10/25/p/dre
+- type: cites
+  target: pt:dre:151323162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163994095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223267497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66689604:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:33:44Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +185,7 @@ Para o alcance deste desiderato, importa ainda assegurar a conformação dos dos
 
 A gestão do fardamento, nos moldes equacionados, permitirá reduzir custos associados aos meios humanos e materiais utilizados na execução do serviço; além disso, é expectável um impacto na melhoria do processo de distribuição, sobretudo na entrega das peças de fardamento aos militares em momento adequado, situação indispensável para o cumprimento da missão, em benefício do interesse público.
 
-Por outro lado, pretende-se que o cocontratante assuma os stocks dos artigos de fardamento existentes nos armazéns da GNR, através do pagamento de uma contrapartida monetária, evitando desperdícios e assegurando a utilização eficiente dos materiais já adquiridos, em conformidade com os princípios da economicidade e racionalização da despesa pública. Desta forma, minimiza-se o impacto ambiental associado à produção têxtil, que envolve consumo de recursos naturais, emissões de CO<sub>2</sub> e geração de resíduos.
+Por outro lado, pretende-se que o cocontratante assuma os stocks dos artigos de fardamento existentes nos armazéns da GNR, através do pagamento de uma contrapartida monetária, evitando desperdícios e assegurando a utilização eficiente dos materiais já adquiridos, em conformidade com os princípios da economicidade e racionalização da despesa pública. Desta forma, minimiza-se o impacto ambiental associado à produção têxtil, que envolve consumo de recursos naturais, emissões de CO2 e geração de resíduos.
 
 O prazo de vigência dos contratos a celebrar será para um período de cinco anos, justificado sobretudo no facto de se poder proporcionar a apresentação de mais e melhores propostas na fase da formação do contrato, garantir a estabilidade do mesmo, conveniente ao seu exato e pontual cumprimento, bem como potenciar a redução do preço contratual.
 
@@ -155,7 +195,7 @@ Atendendo ao valor da despesa e considerando que o contrato a celebrar dará lug
 
 Assim:
 
-Nos termos da alínea e) do n.º 1 do artigo 17.º e dos n.<sup>os</sup>1 e 2 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, da alínea a) do n.º 1 do artigo 20.º, do n.º 1 do artigo 36.º e dos artigos 38.º e 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, dos artigos 44.º a 46.º do Código do Procedimento Administrativo, aprovado em anexo ao [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e dos n.os1 e 2 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, da alínea a) do n.º 1 do artigo 20.º, do n.º 1 do artigo 36.º e dos artigos 38.º e 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, dos artigos 44.º a 46.º do Código do Procedimento Administrativo, aprovado em anexo ao [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Autorizar a Guarda Nacional Republicana (GNR) a realizar a despesa até ao montante global máximo de 13 205 000,00 €, ao qual acresce o imposto sobre o valor acrescentado (IVA) à taxa legal em vigor, inerente à:
 
@@ -188,3 +228,5 @@ e) 2030 - 2 680 000,00 €.
 6 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 12 de fevereiro de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119947827

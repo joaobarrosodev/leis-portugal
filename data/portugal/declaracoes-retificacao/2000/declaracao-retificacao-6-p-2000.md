@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 126/2000, 3º Suplemento, Série I-B de 2000-05-31
   number: '126'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 2534-(27) a 2534-(27)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/05/126b03/00270027.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/6-p/2000/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/6-p-2000-522262
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:56:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aae1d6a68c97bc85c5c753c93bbe734870f8112c5ea92fe878998da8f352fa60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07e6486b5ad0c30d7394f69f15578e356cf0690981cd2c73416e20b224a03a0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:56:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,24 +71,28 @@ subjects:
 - Centro de ÁREA Educativa
 - Direcção Regional de Educação de Lisboa
 - Direcção Regional de Educação do Alentejo
-- Gestão Escolar
-- Estabelecimento de Ensino
 - Ensino Básico
+- Estabelecimento de Ensino
+- Gestão Escolar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/224/2000/04/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/224/2000/04/20/p/dre
+- type: cites
+  target: pt:dre:522849:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:56:31Z'
   warnings: []
   errors: []
 ---

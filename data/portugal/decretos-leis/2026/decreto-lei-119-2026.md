@@ -95,13 +95,43 @@ relationships:
   source: null
 - type: amended_by
   target: pt:dre:1159105699:por
+  label: Alterados, com efeitos a 1 de maio de 2026, os artigos 3.º, 4.º e 5.º pelo(a) Decreto-Lei n.º 168/2026 - Diário da
+    República n.º 158/2026, Série I de 2026-08-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/168-2026-1159105699
+  date: '2026-08-16'
+- type: amended_by
+  target: pt:dre:1159105699:por
   label: Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-2026-1159105699
   date: '2026-08-17'
+- type: amends
+  target: pt:numero:despacho:10319/2014
+  label: Mantém, nos termos do artigo 9.º do presente diploma, em vigor o Despacho n.º 10319/2014, de 11 de agosto, Diário
+    da República n.º 153/2014, Série II
+  source: null
+  date: '2014-08-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/103/2023/11/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/103/2023/11/07/p/dre
+- type: cites
+  target: pt:dre:223906279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55606457:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1139897690:por
+  label: Retificada a alínea d) do n.º 3 do artigo 4.º pelo(a) Declaração de Retificação n.º 24/2026/1 - Diário da República
+    n.º 123/2026, Série I de 2026-06-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/24-2026-1139897690
+  date: '2026-06-29'
 article_structure:
   article_count: 10
   section_count: 0

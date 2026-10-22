@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 208/2010, 1º Suplemento, Série I de 2010-10-26
   number: '208'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4846-(2) a 4846-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/10/20801/0000200004.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/32-a/2010/10/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/32-a-2010-297176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T19:12:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7924e5e1cb819f3e2b763866b16f5acd4129e91609267194e3144635443072e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57df764e7bdd9a17a6765d1680ae0b9067768268fc7834ee3f6d8b9721b54f43
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:12:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,43 +67,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Agrícola
-- Proder
-- Programa de Desenvolvimento Rural
-- Regulamento de Aplicação da Medida Nº 4.1-cooperação para a Inovação
-- Ajuda Comunitária
-- Financiamento
-- Beneficiário
-- Formação Profissional
-- Energia Elétrica
-- Silvicultura
-- Desenvolvimento Rural
-- Contrato de Financiamento
-- Recursos Hídricos
-- Direcção Regional de Agricultura e Pescas
-- Feader
-- Proteção da Floresta
-- Reconversão da Produção
-- Regulamento de Aplicação da Acção N.º 4.3.1-serviços de Aconselhamento Agrícola
-- Regulamento de Aplicação da Acção Nº 1.5.2-restabelecimento do Potencial Produtivo
-- Regulamento de Aplicação da Medida N.º 3.1 Diversificação da Economia e Criação de Emprego
-- Apoio ao Investimento
-- Projeto de Investimento
-- Indústria Agro-alimentar
-- IFAP
-- Jovem Agricultor
-- Regulamento de Aplicação da Acção 1.6.4-modernização dos Regadios Colectivos Tradicionais
-- Ordenamento Florestal
-- Exploração Agrícola
-- Página na Internet
-- Proteção do Ambiente
-- Exploração Florestal
-- Proteção Fitossanitária
 - Agricultor
-- Qualificação Profissional
+- Agricultura
+- Ajuda Comunitária
+- Apoio ao Investimento
+- Atividade Agrícola
+- Beneficiário
+- Contrato de Financiamento
+- Desenvolvimento Rural
+- Direcção Regional de Agricultura e Pescas
+- Energia Elétrica
+- Exploração Agrícola
+- Exploração Florestal
+- Feader
+- Financiamento
+- Formação Profissional
+- IFAP
+- Indústria Agro-alimentar
+- Jovem Agricultor
+- Ordenamento Florestal
+- Página na Internet
+- Proder
 - Produção Agrícola
+- Programa de Desenvolvimento Rural
+- Projeto de Investimento
+- Proteção da Floresta
+- Proteção do Ambiente
+- Proteção Fitossanitária
+- Qualificação Profissional
+- Reconversão da Produção
+- Recursos Hídricos
 - Regulamento
 - Regulamento de Aplicação da Acção 1.1.1-modernização e Capacitação das Empresas
+- Regulamento de Aplicação da Acção 1.6.4-modernização dos Regadios Colectivos Tradicionais
 - Regulamento de Aplicação da Acção 4.2.2-redes Tematicas de Informação e Divulgação
 - Regulamento de Aplicação da Acção 4.3.2-serviços de Apoio às Empresas
 - Regulamento de Aplicação da Acção N.º 1.3.1-melhoria Produtiva dos Póvoamentos
@@ -113,23 +109,35 @@ subjects:
 - Regulamento de Aplicação da Acção N.º 2.3.1-mimimização de Riscos
 - Regulamento de Aplicação da Acção N.º 2.3.2.-ordenamento e Recuperação de Póvoamentos
 - Regulamento de Aplicação da Acção N.º 4.2.1-formação Especializada
+- Regulamento de Aplicação da Acção N.º 4.3.1-serviços de Aconselhamento Agrícola
 - Regulamento de Aplicação da Acção Nº 1.1.2-investimentos de Pequena Dimensão
 - Regulamento de Aplicação da Acção Nº 1.4.2- Informação e Promoção de Produtos de Qualidade
+- Regulamento de Aplicação da Acção Nº 1.5.2-restabelecimento do Potencial Produtivo
 - Regulamento de Aplicação da Acção Nº 2.3.3-valorização Ambiental dos Espaços Florestais
 - Regulamento de Aplicação da Medida 2.1-manutenção da Actividade Agrícola em Zonas Desfavorecidas
 - Regulamento de Aplicação da Medida 3.2-melhoria da Qualidade de VIDA
+- Regulamento de Aplicação da Medida N.º 3.1 Diversificação da Economia e Criação de Emprego
+- Regulamento de Aplicação da Medida Nº 4.1-cooperação para a Inovação
 - Regulamento de Aplicação da Subacção N.º 2.2.3.1-componente Vegetal
 - Regulamento de Aplicação da Subacção N.º 2.2.3.2-componente Animal
 - Regulamento de Aplicação das Acções 3.4.1-cooperação Interterritorial e 3.4.2-cooperação Transnacional
 - Regulamento de Aplicação dos Investimentos não Produtivos da Medida 2.4-intervenções Territoriais Integradas
-- Agricultura
 - Sector Florestal
+- Silvicultura
 - Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:260437:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:260437:por
+  label: "Alterado o anexo I do Regulamento de Aplicação das Ações n.os 3.1.1, «Diversificação de Atividades na Exploração\
+    \ Agrícola», 3.1.2, «Criação e Desenvolvimento de Microempresas», e 3.1.3, «Desenvolvimento de Atividades Turísticas e\
+    \ de Lazer» aprovado pela Port 520/2009, de 14-mai, retificado pelo presente diploma, pela PORT.149/2013.15.04.2013.MAMAOT,\
+    \ DR.IS [73] de 15.04.2013\0.2013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/149-2013-260437
+  date: '2013-04-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
   label: null
@@ -162,16 +170,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/814/2010/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/814/2010/08/27/p/dre
+- type: cites
+  target: pt:dre:220949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220951:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584674:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:12:49Z'
   warnings: []
   errors: []
 ---
@@ -270,7 +306,7 @@ j) ...»
 
 ## ANEXO IV — [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20801/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20801/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20801/0000200004.pdf)
 
 [...]»
 
@@ -280,7 +316,7 @@ deve ler-se:
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20801/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20801/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20801/0000200004.pdf)
 
 [...]»
 
@@ -362,7 +398,7 @@ Nível dos apoios
 
 (a que se refere o n.º 2 do artigo 12.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20801/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20801/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20801/0000200004.pdf)
 
 Notas
 
@@ -376,7 +412,7 @@ Nível dos apoios
 
 (a que se refere o n.º 2 do artigo 12.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20801/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20801/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20801/0000200004.pdf)
 
 Notas
 
@@ -388,7 +424,7 @@ Notas
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20801/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20801/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20801/0000200004.pdf)
 
 deve ler-se:
 
@@ -396,6 +432,6 @@ deve ler-se:
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20801/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20801/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20801/0000200004.pdf)
 
 Centro Jurídico, 26 de Outubro de 2010. - A Directora, Susana de Meneses Brasil de Brito.

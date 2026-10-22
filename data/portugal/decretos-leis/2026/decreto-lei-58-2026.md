@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/58/2026/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2026-1055043916
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-20T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e59633adf264f09389148650ce48a8270f9744d5e6ef8a194b0a23f1896bf469
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ffe7c6c932de71b1a78cc87c43e4946e1c38c2a999cfeae301258b3ef8061e78
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência de Geologia e Energia
 - Agência para a Energia
 - Aproximação das Legislações
-- Empresa
-- Fiscal Único
 - Conselho Científico
+- Conselho Consultivo
 - Consultor
 - Criação de Serviços
+- Direção Geral de Energia e Geologia
 - Edm-empresa de Desenvolvimento Mineiro
+- Empresa
+- Entidade Gestora de Reservas Estratégicas de Portugal
+- Entidade Nacional para o Setor Energético
 - Estatuto
 - Extinção de Serviços
-- Direção Geral de Energia e Geologia
-- Conselho Consultivo
+- Fiscal Único
 - Integração de Serviços
 - Integração de Trabalhadores
 - Laboratório Nacional de Energia e Geologia
@@ -89,9 +92,6 @@ subjects:
 - Transferência de Competências
 - Transferência de Pessoal
 - Transferência Patrimonial
-- Entidade Nacional para o Setor Energético
-- Entidade Gestora de Reservas Estratégicas de Portugal
-- Agência de Geologia e Energia
 relationships:
 - type: cites
   target: celex:32014L0024
@@ -145,16 +145,189 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/121/2025/08/12/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/121/2025/08/12/p/dre
+- type: cites
+  target: pt:dre:107094720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116165764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122317422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56384881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56384882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66953291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73807560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74811910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:911488699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:916177977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928506359:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:223/2000
+  label: Revoga, sem prejuízo do n.º 2 do artigo 17.º do presente diploma, a partir de 25 de fevereiro de 2025, nos termos
+    da alínea b) do n.º 1 do artigo 17.º, o Decreto-Lei n.º 223/2000, de 9 de setembro, Diário da República n.º 209/2000,
+    Série I-A, sendo as atribuições da Agência para a Energia (ADENE), integradas na Agência de Geologia e Energia, I. P.
+  source: null
+  date: '2000-09-09'
+- type: repeals
+  target: pt:numero:decreto-lei:314/2001
+  label: Revoga, sem prejuízo do n.º 2 do artigo 17.º do presente diploma, a partir de 25 de fevereiro de 2025, nos termos
+    da alínea b) do n.º 1 do artigo 17.º, o Decreto-Lei n.º 314/2001, de 10 de dezembro, Diário da República n.º 284/2001,
+    Série I-A de 2001-12-10, sendo as atribuições da Agência para a Energia (ADENE), integradas na Agência de Geologia e Energia,
+    I. P.
+  source: null
+  date: '2001-12-10'
+- type: repeals
+  target: pt:numero:decreto-lei:339-D/2001
+  label: Revoga, sem prejuízo do n.º 2 do artigo 17.º do presente diploma, a partir de 25 de fevereiro de 2025, nos termos
+    da alínea c) do n.º 1 do artigo 17.º, o anexo ii ao Decreto-Lei n.º 339-D/2001, de 28 de dezembro, Diário da República
+    n.º 299/2001, 5º Suplemento, Série I-A, sendo que a AGE, I. P., sucede nas missões da ENSE, E. P. E., redenominada EGREP,
+    E. P. E., salvo no que diz respeito à missão e atribuições de gestão das reservas estratégicas e à unidade de reservas.
+  source: null
+  date: '2001-12-28'
+- type: repeals
+  target: pt:numero:decreto-lei:129/2014
+  label: Revoga, sem prejuízo do n.º 2 do artigo 17.º do presente diploma, a partir de 25 de fevereiro de 2025, nos termos
+    da alínea d) do n.º 1 do artigo 17.º, o Decreto-Lei n.º 129/2014, de 29 de agosto, e procede à fusão do Laboratório Nacional
+    de Energia e Geologia, I. P. (LNEG, I. P.), cuja orgânica foi por este aprovada, sendo as suas atribuições integrada na,
+    Agência de Geologia e Energia, I. P.
+  source: null
+  date: '2014-08-29'
+- type: repeals
+  target: pt:numero:decreto-lei:130/2014
+  label: Revoga, sem prejuízo do n.º 2 do artigo 17.º do presente diploma, a partir de 25 de fevereiro de 2025, nos termos
+    da alínea e) do n.º 1 do artigo 17.º, o Decreto-Lei n.º 130/2014, de 29 de agosto, Diário da República n.º 166/2014, Série
+    I de 2014-08-29, e procede à fusão da Direção-Geral de Energia e Geologia, cuja orgânica foi por este aprovada, sendo
+    as suas atribuições integradas na, Agência de Geologia e Energia, I. P. ,
+  source: null
+  date: '2014-08-29'
+- type: repeals
+  target: pt:numero:decreto-lei:47/2015
+  label: Revoga, sem prejuízo do n.º 2 do artigo 17.º do presente diploma, a partir de 25 de fevereiro de 2025, nos termos
+    da alínea b) do n.º 1 do artigo 17.º, o Decreto-Lei n.º 47/2015, de 9 de abril, Diário da República n.º 69/2015, Série
+    I, sendo as atribuições da Agência para a Energia (ADENE), integradas na Agência de Geologia e Energia, I. P.
+  source: null
+  date: '2015-04-09'
+- type: repeals
+  target: pt:numero:decreto-lei:33/2016
+  label: Revoga, sem prejuízo do n.º 2 do artigo 17.º do presente diploma, a partir de 25 de fevereiro de 2025, nos termos
+    da alínea e) do n.º 1 do artigo 17.º, o Decreto-Lei n.º 33/2016, de 28 de junho, Diário da República n.º 122/2016, Série
+    I
+  source: null
+  date: '2016-06-28'
 article_structure:
   article_count: 69
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:48Z'
   warnings: []
   errors: []
 ---
@@ -335,27 +508,27 @@ As referências constantes de diplomas legais e regulamentares, atos, contratos 
 
 a) O [Decreto-Lei n.º 313/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1989-547665), de 21 de setembro;
 
-b) O [Decreto-Lei n.º 223/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-2000-577714), de 9 de setembro, alterado pelos Decretos-Leis n.<sup>os</sup>[314/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-2001-576275), de 10 de dezembro, e [47/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2015-66953291), de 9 de abril;
+b) O [Decreto-Lei n.º 223/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-2000-577714), de 9 de setembro, alterado pelos Decretos-Leis n.os[314/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-2001-576275), de 10 de dezembro, e [47/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2015-66953291), de 9 de abril;
 
 c) O anexo ii ao [Decreto-Lei n.º 339-D/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-d-2001-421437), de 28 de dezembro, na sua redação atual;
 
 d) O [Decreto-Lei n.º 129/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2014-56384881), de 29 de agosto, alterado pelo [Decreto-Lei n.º 69/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), de 27 de agosto;
 
-e) O [Decreto-Lei n.º 130/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2014-56384882), de 29 de agosto, alterado pelos Decretos-Leis n.<sup>os</sup>[33/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2016-74811910), de 28 de junho, e [69/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), de 27 de agosto.
+e) O [Decreto-Lei n.º 130/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2014-56384882), de 29 de agosto, alterado pelos Decretos-Leis n.os[33/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2016-74811910), de 28 de junho, e [69/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), de 27 de agosto.
 
 2 - O disposto no número anterior opera nos termos do faseamento operacional previsto no presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros de 28 de novembro de 2025. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Joaquim Miranda Sarmento - Gonçalo Nuno da Cruz Saraiva Matias - Fernando Alexandre - Maria da Graça Carvalho.
 
-**Promulgado em 30 de janeiro de 2026.**
+Promulgado em 30 de janeiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 1 de fevereiro de 2026.**
+Referendado em 1 de fevereiro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO I — (a que se refere o artigo 2.º)
 
@@ -843,7 +1016,7 @@ O capital estatutário inicial da EGREP, E. P. E., é de € 250 000, detidos in
 
 2 - No âmbito da função acionista a exercer conjuntamente sobre a EGREP, E. P. E., compete aos membros do Governo responsáveis pelas áreas das finanças e da energia:
 
-a) Aprovar as propostas de planos de atividades e orçamento e os planos de investimento para cada ano de atividade, observado o procedimento previsto nos n.<sup>os</sup>6 a 9 do artigo 39.º do RJSPE;
+a) Aprovar as propostas de planos de atividades e orçamento e os planos de investimento para cada ano de atividade, observado o procedimento previsto nos n.os6 a 9 do artigo 39.º do RJSPE;
 
 b) Aprovar os relatórios de atividades e contas anuais;
 
@@ -1331,7 +1504,7 @@ i) A elaboração de proposta de regulamento interno para os trabalhadores com c
 
 8 - A acumulação de funções em cargos dirigentes, nos termos do número anterior, não confere direito de acumulação de remunerações, conforme o disposto no n.º 5 do artigo 16.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de janeiro, na sua redação atual.
 
-9 - Durante o período de instalação, a comissão instaladora pode livremente designar e exonerar pessoas como consultores, que a coadjuvam nessa instalação, sendo aplicável o disposto nos n.<sup>os</sup>4 a 14 do artigo 11.º do anexo i ao presente decreto-lei.
+9 - Durante o período de instalação, a comissão instaladora pode livremente designar e exonerar pessoas como consultores, que a coadjuvam nessa instalação, sendo aplicável o disposto nos n.os4 a 14 do artigo 11.º do anexo i ao presente decreto-lei.
 
 10 - Com a cessação do período de instalação, os consultores designados nos termos do número anterior cessam automaticamente funções.
 
@@ -1358,3 +1531,5 @@ i) A elaboração de proposta de regulamento interno para os trabalhadores com c
 3 - O período de instalação termina com a aprovação dos estatutos definitivos da AGE, I. P., nos termos do n.º 1 do artigo 9.º do anexo i ao presente decreto-lei, a ocorrer no prazo máximo de dois anos após a constituição da comissão instaladora.
 
 4 - Até à aprovação dos estatutos definitivos, a AGE, I. P., funciona ao abrigo de estatutos provisórios, a aprovar por portaria dos membros do Governo responsáveis pelas áreas das finanças, da administração pública e da energia.
+
+119947627

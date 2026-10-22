@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/65/2007/07/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/65-2007-635795
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:08:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed4ff52279ef3f0088cf8052fc17865c472139020de1fb8720c14fab15000250
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7e0c8e7bd12d6bd935cd57f6a76a7c6cae28bd47c122d93736a837fe8fa218a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:08:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,27 @@ relationships:
   target: pt:dre:343887:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:343887:por
+  label: "Alterado o art. 4.º dos Estatutos do Instituto de Gestão do Fundo Social Europeu, I. P., aprovados pela Port 636/2007,\
+    \ de 30-Maio, rectificado pela presente declaração, pela PORT.826/2010.31.08.2010.MFAP, DR.IS [169] de 31.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/826-2010-343887
+  date: '2010-08-31'
+- type: corrects
+  target: pt:numero:portaria:636/2007
+  label: "Rectifica a Portaria n.º 636/2007, de 30 de Maio, DR.IS [104]\0\0"
+  source: null
+  date: '2007-05-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:08:51Z'
   warnings: []
   errors: []
 ---

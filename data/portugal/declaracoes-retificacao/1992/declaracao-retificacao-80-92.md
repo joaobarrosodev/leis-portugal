@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 125/1992, 2º Suplemento, Série I-B de 1992-05-30
   number: '125'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2632-(8) a 2632-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/05/125b02/00080012.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/80/1992/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/80-1992-213423
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-05-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:35:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb2a8b59e3a2d723f1f6ad210b41012b8516fdbd756f16ca999807afe809f9f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0efa3a0cf37f0e68a19bb1aaa0506ff71975859d1536c75fd8b3b65a96ed1dc1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:35:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,47 +66,55 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Defesa Nacional
 - Ministério da Administração Interna
-- Ministério do Planeamento e da Administração do Território
-- Ministério das Obras Públicas Transportes e Comunicações
-- Ministério das Finanças
-- Ministério da Justiça
 - Ministério da Agricultura Pescas e Alimentação
+- Ministério da Defesa Nacional
+- Ministério da Justiça
+- Ministério das Finanças
+- Ministério das Obras Públicas Transportes e Comunicações
 - Ministério do Ambiente e Recursos Naturais
 - Ministério do Comércio e Turismo
-- Presidência do Conselho de Ministros
+- Ministério do Planeamento e da Administração do Território
 - Ministério dos Negócios Estrangeiros
+- Presidência do Conselho de Ministros
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decl/68/1992/05/21/p/dre
   label: null
   source: http://data.dre.pt/eli/decl/68/1992/05/21/p/dre
+- type: cites
+  target: pt:dre:522989:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:275991:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 105/92, PUBLICADA NO DR.IS-B, 175, 4 SUPL, DE 920731.\0731.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/105-1992-275991
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:35:36Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 80/92
+# Declaração de rectificação n.º 80/92
 
 Segundo comunicação do Ministério das Finanças, a [Declaração n.º 68/92](https://diariodarepublica.pt/dr/detalhe/declaracao/68-1992-522989), publicada no Diário da República, n.º 117, de 21 de Maio de 1992, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 
 Onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/125b02/00080012.pdf))](https://files.diariodarepublica.pt/1s/1992/05/125b02/00080012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/125b02/00080012.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/125b02/00080012.pdf))](https://files.diariodarepublica.pt/1s/1992/05/125b02/00080012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/125b02/00080012.pdf)
 
 Em 10 - Ministério do Planeamento e da Administração do Território, no cap. 01, div. 03, subdiv. 01, C. F. 1.01.0, C. E. 01.01.08, onde se lê «267 contos» deve ler-se «367 contos».
 
@@ -114,4 +122,4 @@ Em 11 - Ministério da Agricultura, Pescas e Alimentação, no cap. 01, div. 05,
 
 Em 18 - Ministério do Ambiente e dos Recursos Naturais, por ter sido omitido, deve considerar-se publicado no seguimento do cap. 01, div. 01, subdiv. 01, o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/125b02/00080012.pdf))](https://files.diariodarepublica.pt/1s/1992/05/125b02/00080012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/125b02/00080012.pdf)

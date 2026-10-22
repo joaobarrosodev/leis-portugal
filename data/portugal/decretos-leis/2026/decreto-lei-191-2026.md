@@ -48,26 +48,40 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/191/2026/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-2026-1172319751
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-22T00:00:00Z'
+  retrieved_at: '2026-10-22T18:53:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5aa4548644f28bf642469f564d26ebde3ce50491a8e20c321165226f3278352e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4207667b1d3a4607dbf65cb5e65c9beaba85619dc2bdfe23a9a6cd45764b2ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:53:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Calamidade Pública
+- Compensação Financeira
+- Funcionário Público
+- Situação de Calamidade
+- Tempestade Kristin
+- Temporal
+- Trabalho Suplementar
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:40-A/2026
+  label: Altera, a partir de 23 de setembro de 2026, os artigos 25.º (vigência e produção de efeitos do trabalho suplementar
+    excecional) e 29.º do Decreto-Lei n.º 40-A/2026, de 13 de fevereiro, Diário da República n.º 31/2026, Suplemento, Série
+    I
+  source: null
+  date: '2026-02-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/40-a/2026/02/13/p/dre
   label: null
@@ -88,16 +102,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/24-a/2026/02/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/24-a/2026/02/05/p/dre
+- type: cites
+  target: pt:dre:1031784677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1031784680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1039064235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1050874165:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1075294793:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:53:40Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +140,7 @@ validation:
 
 de 22 de setembro
 
-Na sequência dos impactos provocados pela tempestade Kristin, o Governo declarou a situação de calamidade através da [Resolução do Conselho de Ministros n.º 15-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-b-2026-1031784677), de 30 de janeiro, com efeitos entre as 00h00 do dia 28 de janeiro de 2026 e as 23h59 do dia 1 de fevereiro de 2026, abrangendo os concelhos identificados nos n.<sup>os</sup>2 e 3 da referida resolução. Atenta a evolução da situação e a necessidade de assegurar uma resposta pública adequada, a declaração foi posteriormente prorrogada pelas Resoluções do Conselho de Ministros n.<sup>os</sup>[15-C/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-c-2026-1031784680), de 1 de fevereiro, e [24-A/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/24-a-2026-1039064235), de 5 de fevereiro.
+Na sequência dos impactos provocados pela tempestade Kristin, o Governo declarou a situação de calamidade através da [Resolução do Conselho de Ministros n.º 15-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-b-2026-1031784677), de 30 de janeiro, com efeitos entre as 00h00 do dia 28 de janeiro de 2026 e as 23h59 do dia 1 de fevereiro de 2026, abrangendo os concelhos identificados nos n.os2 e 3 da referida resolução. Atenta a evolução da situação e a necessidade de assegurar uma resposta pública adequada, a declaração foi posteriormente prorrogada pelas Resoluções do Conselho de Ministros n.os[15-C/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-c-2026-1031784680), de 1 de fevereiro, e [24-A/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/24-a-2026-1039064235), de 5 de fevereiro.
 
 A situação de calamidade vigorou, de forma contínua, entre 28 de janeiro e 15 de fevereiro de 2026, permitindo mobilizar os instrumentos excecionais necessários à proteção de pessoas e bens e à reposição da normalidade nas áreas afetadas.
 
@@ -134,7 +168,9 @@ Os artigos 25.º e 29.º do [Decreto-Lei n.º 40-A/2026](https://diariodarepubli
 
 2 - O disposto no número anterior vigora até dia 30 de junho de 2026, produzindo efeitos desde a data da declaração da situação de calamidade decorrente da tempestade Kristin.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...]
 
@@ -146,12 +182,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de agosto de 2026. - Luís Montenegro - José Maria Gonçalves Pereira Brandão de Brito - António Leitão Amaro - Manuel Castro Almeida - Gonçalo Nuno da Cruz Saraiva Matias - Cristina Maria dos Santos Pinto Dias - Gonçalo Pedro da Cunha Viegas Pires - Adriano Rafael Sousa Moreira - Maria da Graça Carvalho - José Manuel Fernandes.
 
-**Promulgado em 15 de setembro de 2026.**
+Promulgado em 15 de setembro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 16 de setembro de 2026.**
+Referendado em 16 de setembro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119949613

@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/1/2026/04/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/1-2026-1085738191
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a146a4e2bc415bff10d776849390c28790077b460a031e08803ec4861563e8ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6656642f63b555b0928c144a44a6044989390046369f5638aae666f93a3bf1da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,10 +70,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código da Estrada
-- Multa
-- Jurisprudencia
-- Tribunal
 - Contraordenação
+- Jurisprudencia
+- Multa
+- Tribunal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/102-b/2020/12/09/p/dre
@@ -115,16 +115,120 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/62/2013/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/62/2013/08/26/p/dre
+- type: cites
+  target: pt:dre:105599333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:121665678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150757538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70423756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:897548402:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:33Z'
   warnings: []
   errors: []
 ---
@@ -141,11 +245,11 @@ validation:
 
 I - Relatório
 
-1 - O Senhor Procurador-geral-adjunto no Tribunal da Relação de Évora (doravante, também TRE), veio, em 04-12-2023 (Ref.ª Citius 282379), nos termos e para os efeitos do disposto nos artigos 437.º, n.<sup>os</sup>2, 3, 4 e 5, 438.º, n.<sup>os</sup>1, 2 e 3, e 439.º, todos do Código Processo Penal, interpor recurso extraordinário para fixação de jurisprudência para o Supremo Tribunal de Justiça (pleno das secções criminais), do acórdão do TRE, de 07-11-2023 (Ref.ª Citius 8780958), alegando encontrar-se em oposição com o acórdão proferido pelo mesmo Tribunal da Relação de Évora datado de 24-10-2023, proferido no Processo n.º 109/23.2T9OLH.E1, estando em causa a mesma questão de direito, com os fundamentos seguintes:
+1 - O Senhor Procurador-geral-adjunto no Tribunal da Relação de Évora (doravante, também TRE), veio, em 04-12-2023 (Ref.ª Citius 282379), nos termos e para os efeitos do disposto nos artigos 437.º, n.os2, 3, 4 e 5, 438.º, n.os1, 2 e 3, e 439.º, todos do Código Processo Penal, interpor recurso extraordinário para fixação de jurisprudência para o Supremo Tribunal de Justiça (pleno das secções criminais), do acórdão do TRE, de 07-11-2023 (Ref.ª Citius 8780958), alegando encontrar-se em oposição com o acórdão proferido pelo mesmo Tribunal da Relação de Évora datado de 24-10-2023, proferido no Processo n.º 109/23.2T9OLH.E1, estando em causa a mesma questão de direito, com os fundamentos seguintes:
 
 «1 - O Ministério Público vem interpor recurso extraordinário para fixação de jurisprudência do Acórdão do Tribunal da Relação de Évora, de 7/11/2023, proferido nos autos de Recurso Penal acima identificados, alegando que nele se apreciou e decidiu uma questão de direito cuja pronúncia está em oposição com a de outro Acórdão, da mesma Relação, proferido no dia 24/10/2023, no âmbito do Processo n.º 109/23.2T9OLH.E1.
 
-2 - Atenta a jurisprudência do Supremo Tribunal de Justiça que entende que a admissibilidade do recurso extraordinário para fixação de jurisprudência depende da existência de determinados pressupostos, uns de natureza formal e outros de natureza substancial (artigos 437.º, n.<sup>os</sup>1, 2, 3 e 4, e 438.º, n.<sup>os</sup>1 e 2, do C.P.P.), os mesmos mostram-se no caso preenchidos:
+2 - Atenta a jurisprudência do Supremo Tribunal de Justiça que entende que a admissibilidade do recurso extraordinário para fixação de jurisprudência depende da existência de determinados pressupostos, uns de natureza formal e outros de natureza substancial (artigos 437.º, n.os1, 2, 3 e 4, e 438.º, n.os1 e 2, do C.P.P.), os mesmos mostram-se no caso preenchidos:
 
 a) Encontram-se preenchidos os requisitos formais: o Acórdão fundamento e o recorrido transitaram em julgado; mostram-se ambos identificados, certificando-se oportunamente o Acórdão recorrido (artigo 439.º do C.P.P.); e a interposição do recurso é tempestiva.
 
@@ -173,11 +277,11 @@ www.dgsi.pt, acessível em http://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf0
 
 - 1 cópia da certidão de trânsito em julgado do Acórdão fundamento.»
 
-2 - Por despacho de 06-12-2023 (Ref.ª Citius 8761458) do Senhor Desembargador relator no TRE, foi admitido o recurso extraordinário para fixação de jurisprudência, nos termos dos artigos 438.º, n.º 1 e 437.º, n.<sup>os</sup>2, 3., 4 e 5, ambos do CPP, para que subisse em separado e com efeito não suspensivo, ordenando-se a remessa a este Supremo Tribunal de Justiça (doravante, também “STJ”).
+2 - Por despacho de 06-12-2023 (Ref.ª Citius 8761458) do Senhor Desembargador relator no TRE, foi admitido o recurso extraordinário para fixação de jurisprudência, nos termos dos artigos 438.º, n.º 1 e 437.º, n.os2, 3., 4 e 5, ambos do CPP, para que subisse em separado e com efeito não suspensivo, ordenando-se a remessa a este Supremo Tribunal de Justiça (doravante, também “STJ”).
 
 3 - O Senhor magistrado do Ministério Público junto deste Supremo Tribunal de Justiça pronunciou-se em 17-01-2024 (Ref.ª Citius 13244870), nos termos do art. 440.º, n.º 1, do CPP, emitindo douto parecer, no sentido de o recurso dever ser admitido, por se verificarem os pressupostos formais e substantivos, designadamente, por existir oposição de julgados.
 
-4 - Na sequência de despacho de 20-01-2025 (Ref.ª Citius 12960684), foi o recorrido/executado AA, notificado em 03-04-2025, para, querendo, se pronunciar, ao abrigo do disposto no art. 3.º, n.<sup>os</sup>1 e 3, do CPC ex vi do art. 4.º do CPP, nada tendo, porém, requerido.
+4 - Na sequência de despacho de 20-01-2025 (Ref.ª Citius 12960684), foi o recorrido/executado AA, notificado em 03-04-2025, para, querendo, se pronunciar, ao abrigo do disposto no art. 3.º, n.os1 e 3, do CPC ex vi do art. 4.º do CPP, nada tendo, porém, requerido.
 
 5 - Por despacho de 19-05-2025 (Ref.ª Citius 13291546), tendo em vista apurar da existência, ou não, de uma situação de verdadeira oposição de julgados entre os acórdãos do Tribunal da Relação de Évora aparentemente em confronto, solicitou-se ao Juízo de Competência Genérica de Olhão/Juiz 2, cópias digitais do auto/participação de contraordenação e decisão do Município de Olhão relativos à aplicação da coima no Processo (por contraordenação) n.º 109/23.2T9OLH.E1, bem como o requerimento do Ministério Público, de execução (de coima), ali instaurada, pedido que foi satisfeito pelo expediente junto em 02-07-2025.
 
@@ -235,9 +339,9 @@ Pelo acórdão proferido a 9 de julho de 2025, pela 5.ª Secção do Supremo Tri
 
 Todavia, uma vez que a referida decisão não vincula o pleno das secções criminais, que pode decidir em sentido contrário ao da conferência da secção (artigo 692.º, n.º 4, do Código de Processo Civil, ex vi artigo 4.º do Código de Processo Penal), importa proceder ao reexame sumário dos pressupostos do presente recurso.
 
-O disposto nos artigos 437.º, n.<sup>os</sup>1, 2 e 3 e 438.º, n.<sup>os</sup>1 e 2, do CPP, estatui, tal como é entendimento pacífico da jurisprudência deste Supremo Tribunal de Justiça, que a admissibilidade do recurso extraordinário para fixação de jurisprudência depende, antes de mais, da verificação dos seguintes requisitos formais:
+O disposto nos artigos 437.º, n.os1, 2 e 3 e 438.º, n.os1 e 2, do CPP, estatui, tal como é entendimento pacífico da jurisprudência deste Supremo Tribunal de Justiça, que a admissibilidade do recurso extraordinário para fixação de jurisprudência depende, antes de mais, da verificação dos seguintes requisitos formais:
 
-i) Os acórdãos em conflito serem de tribunais superiores, ambos do Supremo Tribunal de Justiça, ambos de Tribunal da Relação, ou um [o recorrido] da Relação, mas de que não seja admissível recurso ordinário, e o outro [o fundamento] do Supremo - artigo 437.º, n.<sup>os</sup>1 e 2, do CPP;
+i) Os acórdãos em conflito serem de tribunais superiores, ambos do Supremo Tribunal de Justiça, ambos de Tribunal da Relação, ou um [o recorrido] da Relação, mas de que não seja admissível recurso ordinário, e o outro [o fundamento] do Supremo - artigo 437.º, n.os1 e 2, do CPP;
 
 ii) O trânsito em julgado dos dois acórdãos - artigos 437.º, n.º 4 e 438.º, n.º 1, do CPP;
 
@@ -245,7 +349,7 @@ iii) A interposição do recurso no prazo de 30 dias contados do trânsito em ju
 
 iv) A identificação do aresto com o qual o acórdão recorrido se encontra em oposição (acórdão-fundamento), com menção, caso se encontre publicado, do lugar da publicação - artigo 438.º, n.º 2, do CPP;
 
-v) A indicação de (apenas) um acórdão-fundamento - artigos 437.º, n.<sup>os</sup>1, 2 e 3 e 438.º, n.º 2, do CPP;
+v) A indicação de (apenas) um acórdão-fundamento - artigos 437.º, n.os1, 2 e 3 e 438.º, n.º 2, do CPP;
 
 vi) A legitimidade do recorrente - artigo 437.º, n.º 5, do CPP;
 
@@ -265,13 +369,13 @@ Estão em causa dois acórdãos transitados em julgado, ambos da Relação de É
 
 Verifica-se, assim, estarem preenchidos todos os requisitos de natureza formal.
 
-No que respeita aos requisitos de ordem substancial, tal corresponde à oposição de julgados propriamente dita entre os acórdãos em presença, nos termos previstos no artigo 437.º, n.<sup>os</sup>1 e 3, do CPP.
+No que respeita aos requisitos de ordem substancial, tal corresponde à oposição de julgados propriamente dita entre os acórdãos em presença, nos termos previstos no artigo 437.º, n.os1 e 3, do CPP.
 
 A questão em causa terá de ter sido decidida de modo expresso em ambos os acórdãos e tomada a título principal, pelo que a mera oposição de posições implícitas ou diferente fundamentação não são idóneas para se concluir pela oposição.
 
 Acresce que as situações subjacentes de facto terão de ser substancialmente idênticas, pois só assim se poderá aferir se para a mesma questão jurídica foram adotadas soluções opostas.
 
-Finalmente, impõe-se ainda que a questão sob apreciação não tenha sido objeto de anterior fixação de jurisprudência<sup>1</sup>.
+Finalmente, impõe-se ainda que a questão sob apreciação não tenha sido objeto de anterior fixação de jurisprudência1.
 
 - Estão em causa, um acórdão do Tribunal da Relação de Évora - o acórdão-recorrido -, proferido em 07-11-2023, no Proc. n.º 319/23.2T9OLH.E1.S1, proveniente do Juízo de Competência Genérica de Olhão-J1, transitado em julgado em 23-11-2023 (o qual regista um voto de vencida, no sentido da irrecorribilidade), e um acórdão do Tribunal da Relação de Évora - o acórdão-fundamento -, proferido em 24-10-2023, no Proc. n.º 109/23.2T9OLH.E1, do Juízo de Competência Genérica de Olhão-J2, transitado em julgado em 09-11-2023.
 
@@ -279,13 +383,13 @@ Finalmente, impõe-se ainda que a questão sob apreciação não tenha sido obje
 
 - Em ambos os Acórdãos estão em causa: (i) dois processos de natureza idêntica (processos de execução por coima); e (ii) que assentam em soluções opostas para uma mesma questão jurídica.
 
-Acórdão-recorrido e acórdão-fundamento foram proferidos no domínio da mesma legislação, debruçando-se sobre a mesma questão de direito, não tendo intercedido entre a sua prolação - entre 24-10-2023 e 07-11-2023 - modificação legislativa que interfira, direta ou indiretamente, na resolução da questão de direito controvertida, a qual consiste em saber qual a entidade competente para a instauração e tramitação da execução por coima rodoviária por contraordenação prevista no Código da Estrada, nomeadamente no tocante às normas abstratamente convocáveis, concretamente as dos artigos 61.º e 89.º do Decreto-Lei n.º [433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273) (RGCO)<sup>2</sup>, 491.º, n.os 1 e 2, do CPP<sup>3</sup>, 35.º do [Decreto-Lei n.º 34/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2008-247448), de 26-02 (que aprova o Regulamento das Custas Processuais, doravante, também designado por RCP)<sup>4</sup> e 185.º-A, do Código da Estrada (aprovado pelo [Decreto-Lei n.º 114/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1994-250659), de 03-05, com sucessivas alterações)<sup>5</sup>.
+Acórdão-recorrido e acórdão-fundamento foram proferidos no domínio da mesma legislação, debruçando-se sobre a mesma questão de direito, não tendo intercedido entre a sua prolação - entre 24-10-2023 e 07-11-2023 - modificação legislativa que interfira, direta ou indiretamente, na resolução da questão de direito controvertida, a qual consiste em saber qual a entidade competente para a instauração e tramitação da execução por coima rodoviária por contraordenação prevista no Código da Estrada, nomeadamente no tocante às normas abstratamente convocáveis, concretamente as dos artigos 61.º e 89.º do Decreto-Lei n.º [433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273) (RGCO)2, 491.º, n.os 1 e 2, do CPP3, 35.º do [Decreto-Lei n.º 34/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2008-247448), de 26-02 (que aprova o Regulamento das Custas Processuais, doravante, também designado por RCP)4 e 185.º-A, do Código da Estrada (aprovado pelo [Decreto-Lei n.º 114/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1994-250659), de 03-05, com sucessivas alterações)5.
 
 II.2 - Da oposição de julgados
 
 Como a decisão tomada pela 5.ª Secção criminal, através do mencionado acórdão preliminar de 09-07-2025 - no qual se deu por verificada a oposição de julgados -, não vincula o Pleno das Secções criminais, tendo em conta o disposto no art. 692.º, n.º 4, do CPC, aplicável ex vi art. 4.º do CPP, importa, pois, reexaminar a verificação dos pressupostos do recurso de fixação de jurisprudência, ainda que de forma esquemática, desde já se remetendo para as considerações do acórdão preliminar, revisitando-se, contudo, a questão da oposição de julgados quanto ao seu recorte material.
 
-Na hipótese versada no acórdão-recorrido, foi instaurada pelo Ministério Público no Juízo de Competência Genérica de Olhão-J1, a execução por coima com o n.º 319/23.2T9OLH.E1.S1, aplicada pela Autoridade Nacional de Segurança Rodoviária (doravante, também abreviadamente designada por ANSR), por infração ao disposto no art. 116.º, n.<sup>os</sup>1, alínea c) e 3, do Código da Estrada e ao [Decreto-Lei n.º 144/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2012-179784), de 11-07, no valor de € 375,00 e custas de € 52,50, num total de € 427,50, em virtude da prática, pelo ali executado, de uma contraordenação prevista no Código da Estrada.
+Na hipótese versada no acórdão-recorrido, foi instaurada pelo Ministério Público no Juízo de Competência Genérica de Olhão-J1, a execução por coima com o n.º 319/23.2T9OLH.E1.S1, aplicada pela Autoridade Nacional de Segurança Rodoviária (doravante, também abreviadamente designada por ANSR), por infração ao disposto no art. 116.º, n.os1, alínea c) e 3, do Código da Estrada e ao [Decreto-Lei n.º 144/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2012-179784), de 11-07, no valor de € 375,00 e custas de € 52,50, num total de € 427,50, em virtude da prática, pelo ali executado, de uma contraordenação prevista no Código da Estrada.
 
 A Senhora juíza de Direito entendeu, por despacho de 24-05-2023, não ser competente para o efeito, mas sim a Autoridade Tributária e Aduaneira (doravante, também abreviadamente designada por AT).
 
@@ -303,7 +407,7 @@ Importa, além disso, averiguar se, por se tratar de matéria com relevância co
 
 Por aplicação subsidiária das normas do processo penal ao processo contraordenacional, determinada pelo artigo 41.º, n.º 1, do Decreto-Lei n.º [433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27-10 (doravante também abreviadamente designado por RGCO), é admissível a fixação de jurisprudência em matéria de contraordenações pelo Supremo Tribunal de Justiça, para resolução de conflitos entre acórdãos dos tribunais da relação, os quais, atento o disposto no artigo 75.º, n.º 1, do mesmo diploma, não admitem recurso ordinário. Irrecorribilidade que, como requisito específico relativo aos acórdãos da relação, é imposta pelo artigo 437.º, n.º 2, do CPP.
 
-Com efeito, justifica-se, por apelo aos princípios, que, ao dispor que não cabe recurso das decisões da 2.ª Instância, o artigo 75.º, n.º 1, do RGCO se limite aos recursos ordinários, a isso não se opondo o artigo 73.º, n.º 2, com âmbito de previsão diverso, ao admitir o recurso para a relação «para melhoria da aplicação do direito» ou «promoção da uniformidade de jurisprudência»<sup>6</sup>.
+Com efeito, justifica-se, por apelo aos princípios, que, ao dispor que não cabe recurso das decisões da 2.ª Instância, o artigo 75.º, n.º 1, do RGCO se limite aos recursos ordinários, a isso não se opondo o artigo 73.º, n.º 2, com âmbito de previsão diverso, ao admitir o recurso para a relação «para melhoria da aplicação do direito» ou «promoção da uniformidade de jurisprudência»6.
 
 Pelo exposto, e considerando que entre as datas das decisões dos dois acórdãos em causa não intercedeu qualquer alteração legislativa das normas a convocar, se continua a julgar verificada a oposição de julgados.
 
@@ -315,7 +419,7 @@ O recorrente propugna pela fixação de jurisprudência no sentido em que:
 
 Sem embargo da clareza de tal proposta de dispositivo, afigura-se-nos, porém, que tendo a oposição de julgados surgido em dois processos por execução de coima aplicada por contraordenações ao Código da Estrada, a formulação da referida proposta do recorrente se apresenta como algo expansiva, uma vez que decorreria da mesma que qualquer coima, aplicada por qualquer autoridade administrativa que fosse competente, deveria ser executada pelo “tribunal”.
 
-Todavia, como é sabido, existem, p. ex., coimas aplicadas por decisões de órgãos administrativos em matéria de urbanismo, cuja competência executiva cabe à jurisdição administrativa (cf., Acórdão, n.º 4/2020, do Pleno da Secção do Contencioso Administrativo do Supremo Tribunal Administrativo, de 7 de maio de 2020, proferido no Processo n.º 19/19.8BESNT-A<sup>7</sup>). Estas e outras eventuais infrações contraordenacionais de natureza tributária estarão necessariamente subtraídas ao âmbito da decisão do presente recurso extraordinário de jurisprudência (art. 148.º, n.<sup>os</sup>1, alíneas b) e c) do Código de Procedimento e Processo Tributário). Por outro lado, a execução de coimas aplicadas na decorrência de contraordenações a regimes específicos poderá ter de conhecer uma solução diferenciada da que se encontrar neste âmbito.
+Todavia, como é sabido, existem, p. ex., coimas aplicadas por decisões de órgãos administrativos em matéria de urbanismo, cuja competência executiva cabe à jurisdição administrativa (cf., Acórdão, n.º 4/2020, do Pleno da Secção do Contencioso Administrativo do Supremo Tribunal Administrativo, de 7 de maio de 2020, proferido no Processo n.º 19/19.8BESNT-A7). Estas e outras eventuais infrações contraordenacionais de natureza tributária estarão necessariamente subtraídas ao âmbito da decisão do presente recurso extraordinário de jurisprudência (art. 148.º, n.os1, alíneas b) e c) do Código de Procedimento e Processo Tributário). Por outro lado, a execução de coimas aplicadas na decorrência de contraordenações a regimes específicos poderá ter de conhecer uma solução diferenciada da que se encontrar neste âmbito.
 
 Por isso, importa restringir o âmbito cognitivo da presente decisão, uma vez que se entende que o alcance do dispositivo proposto pelo recorrente, no seu douto parecer, se mostra demasiado amplo e, como tal, suscetível de potenciar uma interpretação excessivamente abrangente e vinculativa para domínios materiais adjacentes, mas aos quais não deve aplicar-se.
 
@@ -341,11 +445,11 @@ e) Entende-se, assim, poder incluir-se na expressão “sanções pecuniárias�
 
 «A execução era promovida pelo Ministério Público - artigo 89.º, n.º 2 do Regime Geral -, e seguia os termos da execução das penas de multa - artigo 491.º, n.º 2 do Código de Processo Penal.
 
-A [Lei n.º 27/2019](https://diariodarepublica.pt/dr/detalhe/lei/27-2019-121665678), de 28 de Março, pôs cobro a este paradigma remetendo a execução «das custas, multas penais<sup>8</sup> e outras sanções pecuniárias fixadas em processo judicial», para o regime das execuções fiscais, disciplinada no Código de Procedimento e Processo Tributário.
+A [Lei n.º 27/2019](https://diariodarepublica.pt/dr/detalhe/lei/27-2019-121665678), de 28 de Março, pôs cobro a este paradigma remetendo a execução «das custas, multas penais8 e outras sanções pecuniárias fixadas em processo judicial», para o regime das execuções fiscais, disciplinada no Código de Procedimento e Processo Tributário.
 
 Daqui decorre que a execução das coimas fixadas pelas autoridades administrativas, por decisões estabilizadas, são igualmente executadas no âmbito daquele regime, incumbindo à Administração Tributária a promoção daquela execução.
 
-A remessa para o regime das execuções fiscais não implica a atribuição aos tribunais tributários da competência para conhecer dos incidentes suscitados na execução, cuja resolução incumbe ao tribunal que seria competente para a execução, se ela corresse no âmbito dos tribunais judiciais.»<sup>9</sup>.
+A remessa para o regime das execuções fiscais não implica a atribuição aos tribunais tributários da competência para conhecer dos incidentes suscitados na execução, cuja resolução incumbe ao tribunal que seria competente para a execução, se ela corresse no âmbito dos tribunais judiciais.»9.
 
 II.3.2. Tese do acórdão-fundamento
 
@@ -365,23 +469,23 @@ f) A remissão para o artigo 35.º do RCP, por via do artigo 92.º, n.º 1, do R
 
 g) A norma do artigo 89.º RGCO mantém-se em vigor, não podendo considerar-se tacitamente revogada, enquanto lei especial, pela [Lei n.º 27/2019](https://diariodarepublica.pt/dr/detalhe/lei/27-2019-121665678), de 28 de março, uma vez que a lei geral não revoga a lei especial, salvo se for essa a intenção inequívoca do legislador, o que não é o caso.
 
-h) Não estabelecendo a [Lei n.º 27/2019](https://diariodarepublica.pt/dr/detalhe/lei/27-2019-121665678), de 28 de Março, qual é o tribunal competente para a execução por coima aplicada por autoridade administrativa, não se pode deixar de entender que foi intenção do legislador manter, nessa parte, o regime anteriormente em vigor (artigo 89.º, n.<sup>os</sup>1 e 2, com referência ao artigo 61.º, n.º 1, do RGCO), donde se infere que será competente o tribunal competente para conhecer da impugnação da decisão administrativa, ou seja, a secção criminal/local criminal e de competência genérica, por força do artigo 130.º, n.º 2, alínea d), da LOSJ, sendo perante esse tribunal que, de acordo com o artigo 89.º, n.º 1, do RGCO, deve ser promovida a execução.
+h) Não estabelecendo a [Lei n.º 27/2019](https://diariodarepublica.pt/dr/detalhe/lei/27-2019-121665678), de 28 de Março, qual é o tribunal competente para a execução por coima aplicada por autoridade administrativa, não se pode deixar de entender que foi intenção do legislador manter, nessa parte, o regime anteriormente em vigor (artigo 89.º, n.os1 e 2, com referência ao artigo 61.º, n.º 1, do RGCO), donde se infere que será competente o tribunal competente para conhecer da impugnação da decisão administrativa, ou seja, a secção criminal/local criminal e de competência genérica, por força do artigo 130.º, n.º 2, alínea d), da LOSJ, sendo perante esse tribunal que, de acordo com o artigo 89.º, n.º 1, do RGCO, deve ser promovida a execução.
 
 Sufragam este entendimento as seguintes decisões, todas do TRE:
 
-- acórdão de 07-11-2023; proc. n.º 107/23.6T6OLH.E1 - rel. Des. Jorge Antunes<sup>10</sup>;
+- acórdão de 07-11-2023; proc. n.º 107/23.6T6OLH.E1 - rel. Des. Jorge Antunes10;
 
-- acórdão de 11-02-2025; proc. n.º 438/23.5T9OLH.E1 - rel. Des. Manuel Soares<sup>11</sup>;
+- acórdão de 11-02-2025; proc. n.º 438/23.5T9OLH.E1 - rel. Des. Manuel Soares11;
 
-- acórdão de 25-02-2025; proc. n.º 417/23.2T9OLH.E18 - rel. Des. Moreira das Neves<sup>12</sup>;
+- acórdão de 25-02-2025; proc. n.º 417/23.2T9OLH.E18 - rel. Des. Moreira das Neves12;
 
-- acórdão de 11-03-2025; proc. n.º 54/25.7T9OLH.E1 - rel. Des. Moreira das Neves<sup>13</sup>;
+- acórdão de 11-03-2025; proc. n.º 54/25.7T9OLH.E1 - rel. Des. Moreira das Neves13;
 
-- acórdão de 25-02-2025; proc. n.º 609/23.4T9OLH.E1 - rel. Des. Manuel Soares<sup>14</sup>;
+- acórdão de 25-02-2025; proc. n.º 609/23.4T9OLH.E1 - rel. Des. Manuel Soares14;
 
-- acórdão de 20-02-2024; proc. n.º 445/22.5 T9OLH.E17 - rel. Des. Jorge Antunes<sup>15</sup>; e
+- acórdão de 20-02-2024; proc. n.º 445/22.5 T9OLH.E17 - rel. Des. Jorge Antunes15; e
 
-- as decisões sumárias de 05-02-2024; proc. n.º 436/22.6T9OLH.E15 - rel. Des. Margarida Bacelar<sup>16</sup>; de 07-02-2024; proc. n.º 462/22.5T9OLH.E1 - rel. Des. Carlos Lobo<sup>17</sup>; de 05-02-2025; proc. n.º 154/23.8T9OLH.E1 - rel. Des. Maria Clara Figueiredo<sup>18</sup>.
+- as decisões sumárias de 05-02-2024; proc. n.º 436/22.6T9OLH.E15 - rel. Des. Margarida Bacelar16; de 07-02-2024; proc. n.º 462/22.5T9OLH.E1 - rel. Des. Carlos Lobo17; de 05-02-2025; proc. n.º 154/23.8T9OLH.E1 - rel. Des. Maria Clara Figueiredo18.
 
 Esta tese tem, igualmente, encontrado algum apoio doutrinal.
 
@@ -391,31 +495,31 @@ Assim, Paulo Pinto de Albuquerque, entende que:
 
 [...]
 
-A execução da coima segue os termos do regime geral das custas judiciais (artigos 491.º e 510.º do CPP e artigo 35.º do RCP). A oposição à execução da coima segue a tramitação estatuída no CPC, pelo que o regime dos recursos relativamente à oposição à execução é o previsto nesse diploma. [...]»<sup>19</sup>.
+A execução da coima segue os termos do regime geral das custas judiciais (artigos 491.º e 510.º do CPP e artigo 35.º do RCP). A oposição à execução da coima segue a tramitação estatuída no CPC, pelo que o regime dos recursos relativamente à oposição à execução é o previsto nesse diploma. [...]»19.
 
-Também Benjamim Silva Rodrigues parece sufragar um tal entendimento, ao apontar, já após a [Lei n.º 27/2019](https://diariodarepublica.pt/dr/detalhe/lei/27-2019-121665678), de 28 de março, como última alteração ao artigo 89.º do RGCO, a que foi introduzida pelo [Decreto-Lei n.º 244/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1995-563986), afirmação que exclui a possibilidade de uma revogação tácita do mesmo<sup>20</sup>.
+Também Benjamim Silva Rodrigues parece sufragar um tal entendimento, ao apontar, já após a [Lei n.º 27/2019](https://diariodarepublica.pt/dr/detalhe/lei/27-2019-121665678), de 28 de março, como última alteração ao artigo 89.º do RGCO, a que foi introduzida pelo [Decreto-Lei n.º 244/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1995-563986), afirmação que exclui a possibilidade de uma revogação tácita do mesmo20.
 
 II.3.3 - A tese (jurisprudencial) da irrecorribilidade da decisão de incompetência absoluta
 
 A título meramente informativo, deve dizer-se que foi ainda recenseado um outro entendimento jurisprudencial - que não está em causa na economia da presente decisão, por verdadeiramente não corresponder a uma das possíveis soluções da questão em dissídio - que veicula, no fundo, uma posição formal-adjetiva, que se reconduz à consideração da irrecorribilidade do despacho do juiz (de 1.ª Instância) que se declara absolutamente incompetente em razão da matéria, e considera ser a Autoridade Tributária a competente para a instauração e tramitação da coima por contraordenação ao Código da Estrada.
 
-Tais decisões, todas do TRE - entre outros, a decisão sumária de 29-11-2023; proc. n.º 82/23.1T9OLH.E1 - rel. Des. Moreira das Neves<sup>21</sup>; e os acórdãos de 21-11-2023; proc. n.º 202/23.1T9OLH.E1 - rel. Des. João Gomes Sousa<sup>22</sup>; de 05-12-2023; proc. n.º 145/23.9T9OLH.E1 - rel. Des. Carlos de Campos Lobo<sup>23</sup>; de 09-01-2024; proc. n.º 516/23.0T9OLH.E1 - rel. Des. Fátima Bernardes<sup>24</sup>; de 06-02-2024; proc. n.º 434/22.0T9OLH.E1 - rel. Des. Ana Bacelar<sup>25</sup>; de 20-02-2024; proc. n.º 143/23.2T9OLH.E1 - rel. Des. Fátima Bernardes<sup>26</sup>; de 27-02-2024; proc. n.º 313/23.3T9OLH.E1 - rel. Des. Beatriz Borges<sup>27</sup>; de 18-11-2024; proc. n.º 140/23.8T9OLH.E1 - rel. Des. Helena Bolieiro<sup>28</sup>; de 30-11-2024; proc. n.º 84/24.6T9OLH.E1 - rel. Des. Carla Francisco<sup>29</sup>; de 30-11-2024; proc. n.º 307/23.9T9OLH.E1 - rel. Des. Carla Francisco<sup>30</sup>; de 03-12-2024; proc. 126/23.2T9OLH.E1 - rel. Des. Fátima Bernardes<sup>31</sup>; de 03-12-2024; proc. n.º 606/23.0T9OLH.E1 - rel. Des. Renata Terra<sup>32</sup>; de 03-12-2024; proc. n.º 594/23.2T9OLH.E1 - rel. Des. Renato Barroso<sup>33</sup>; de 03-12-2024; proc. n.º 54/23.1T9OLH.E1 - rel. Des. Helena Bolieiro<sup>34</sup> -, foram proferidas em recursos interpostos pelo Ministério Público, relativamente a despachos de magistrado(a) judicial que se declarara incompetente em razão da matéria, e considerou ser a Autoridade Tributária a competente para a instauração e tramitação da coima por contraordenação ao Código da Estrada.
+Tais decisões, todas do TRE - entre outros, a decisão sumária de 29-11-2023; proc. n.º 82/23.1T9OLH.E1 - rel. Des. Moreira das Neves21; e os acórdãos de 21-11-2023; proc. n.º 202/23.1T9OLH.E1 - rel. Des. João Gomes Sousa22; de 05-12-2023; proc. n.º 145/23.9T9OLH.E1 - rel. Des. Carlos de Campos Lobo23; de 09-01-2024; proc. n.º 516/23.0T9OLH.E1 - rel. Des. Fátima Bernardes24; de 06-02-2024; proc. n.º 434/22.0T9OLH.E1 - rel. Des. Ana Bacelar25; de 20-02-2024; proc. n.º 143/23.2T9OLH.E1 - rel. Des. Fátima Bernardes26; de 27-02-2024; proc. n.º 313/23.3T9OLH.E1 - rel. Des. Beatriz Borges27; de 18-11-2024; proc. n.º 140/23.8T9OLH.E1 - rel. Des. Helena Bolieiro28; de 30-11-2024; proc. n.º 84/24.6T9OLH.E1 - rel. Des. Carla Francisco29; de 30-11-2024; proc. n.º 307/23.9T9OLH.E1 - rel. Des. Carla Francisco30; de 03-12-2024; proc. 126/23.2T9OLH.E1 - rel. Des. Fátima Bernardes31; de 03-12-2024; proc. n.º 606/23.0T9OLH.E1 - rel. Des. Renata Terra32; de 03-12-2024; proc. n.º 594/23.2T9OLH.E1 - rel. Des. Renato Barroso33; de 03-12-2024; proc. n.º 54/23.1T9OLH.E1 - rel. Des. Helena Bolieiro34 -, foram proferidas em recursos interpostos pelo Ministério Público, relativamente a despachos de magistrado(a) judicial que se declarara incompetente em razão da matéria, e considerou ser a Autoridade Tributária a competente para a instauração e tramitação da coima por contraordenação ao Código da Estrada.
 
 O TRE não conheceu, em tais decisões, da questão material subjacente aos recursos, que considerou inadmissíveis. Um tal entendimento não corresponde a nenhuma outra alternativa a considerar relativamente aos dois polos em contraposição na oposição de julgados a dirimir, pelo que, neste momento, não nos cumprirá equacionar a sua pertinência.
 
 II.4 - Aproximação a uma decisão
 
-A questão a decidir nos presentes autos respeita à determinação da entidade competente - estabelecendo-se a alternativa entre o “tribunal”, i.e um órgão judicial da jurisdição comum ou a Autoridade Tributária, rectius os serviços executivos desta autoridade - para a instauração e tramitação de execuções de coimas por contraordenações previstas no Código da Estrada, aplicadas pela entidade administrativa competente<sup>35</sup>.
+A questão a decidir nos presentes autos respeita à determinação da entidade competente - estabelecendo-se a alternativa entre o “tribunal”, i.e um órgão judicial da jurisdição comum ou a Autoridade Tributária, rectius os serviços executivos desta autoridade - para a instauração e tramitação de execuções de coimas por contraordenações previstas no Código da Estrada, aplicadas pela entidade administrativa competente35.
 
 Na fase executiva, encontrando-se presumidamente ultrapassadas as questões da responsabilidade pelo pagamento da importância da coima, com a sua estabilização no âmbito do processo contraordenacional - com decisão definitiva na fase administrativa, ou após trânsito em julgado da decisão de recurso de impugnação judicial, ou de decisão de condenação quando processada por conexão em processo criminal -, ainda assim se justificará fazer algumas considerações genéricas acerca da natureza da infração contraordenacional e do seu respetivo processo, pois daí poderá advir alguma luz para o tratamento consequencial da cobrabilidade da importância pecuniária correspondente à sanção devida pela sua prática (coima).
 
-«Coima» é uma categoria cujo significado definitório recorta positivamente a sanção (pública) que cabe às contraordenações, o que, reflexamente, determina a classificação de uma infração como contraordenacional: «Constitui contra-ordenação todo o facto ilícito e censurável que preencha um tipo legal no qual se comine uma coima» (art. 1.º do RGCO)<sup>36</sup>.
+«Coima» é uma categoria cujo significado definitório recorta positivamente a sanção (pública) que cabe às contraordenações, o que, reflexamente, determina a classificação de uma infração como contraordenacional: «Constitui contra-ordenação todo o facto ilícito e censurável que preencha um tipo legal no qual se comine uma coima» (art. 1.º do RGCO)36.
 
-Figueiredo Dias pronunciou-se, desde logo, sobre o tema, salientando a autonomia material do ilícito de mera ordenação social, baseada na natureza do ilícito e na natureza da correspondente sanção<sup>37</sup>. Claus Roxin e Luís Greco, ao pronunciarem-se sobre a matéria, sublinham também a autonomização do direito das contraordenações na proteção de bens jurídicos, para além da proteção oferecida pelo direito penal e através do processo penal<sup>38</sup>.
+Figueiredo Dias pronunciou-se, desde logo, sobre o tema, salientando a autonomia material do ilícito de mera ordenação social, baseada na natureza do ilícito e na natureza da correspondente sanção37. Claus Roxin e Luís Greco, ao pronunciarem-se sobre a matéria, sublinham também a autonomização do direito das contraordenações na proteção de bens jurídicos, para além da proteção oferecida pelo direito penal e através do processo penal38.
 
-Trata-se da autonomia própria de um «direito novo», que justifica a sua criação, «em cada um dos planos em que releva: o dogmático, o sancionatório e o processual». Autonomia face ao ilícito penal «até certo ponto» «dogmática», revelada nos «16 primeiros artigos do Decreto-Lei n.º [433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273)», que estabelece o Código Penal como direito subsidiário do direito substantivo das contraordenações (artigo 32.º), «o que bem se compreende considerando que o direito das contraordenações, se não é direito penal, é em todo o caso direito sancionatório de caráter punitivo (tal como é, v.g. o direito disciplinar)», resultando da «diferença essencial entre crimes e contraordenações, bem como mesmo do processo histórico de formação destas últimas» diferenças sensíveis também ao nível processual<sup>39</sup>. Reconhecendo a importância das especificidades do processo para a afirmação desta autonomia, diz ainda Figueiredo Dias: «Os fundamentos em seu tempo apontados por Eb. Schmidt para a autonomização do direito de mera ordenação social e para a sua consideração substancial como direito administrativo, antes que como direito penal, permanecem intocados na sua essência: seja o relacionado com a natureza do ilícito, seja o relacionado com a natureza da sanção, seja o relacionado com as especificidades processuais. Decisivos no contexto das nossas preocupações se revelam, porém, unicamente os dois primeiros [...]»<sup>40</sup>, acrescentando, em nota: «Sem prejuízo de dever reconhecer-se que também as especificidades do processo contraordenacional [...] ajudam - a muitos título poderosamente - a consolidar a distinção material entre o direito penal e do direito das contraordenações».
+Trata-se da autonomia própria de um «direito novo», que justifica a sua criação, «em cada um dos planos em que releva: o dogmático, o sancionatório e o processual». Autonomia face ao ilícito penal «até certo ponto» «dogmática», revelada nos «16 primeiros artigos do Decreto-Lei n.º [433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273)», que estabelece o Código Penal como direito subsidiário do direito substantivo das contraordenações (artigo 32.º), «o que bem se compreende considerando que o direito das contraordenações, se não é direito penal, é em todo o caso direito sancionatório de caráter punitivo (tal como é, v.g. o direito disciplinar)», resultando da «diferença essencial entre crimes e contraordenações, bem como mesmo do processo histórico de formação destas últimas» diferenças sensíveis também ao nível processual39. Reconhecendo a importância das especificidades do processo para a afirmação desta autonomia, diz ainda Figueiredo Dias: «Os fundamentos em seu tempo apontados por Eb. Schmidt para a autonomização do direito de mera ordenação social e para a sua consideração substancial como direito administrativo, antes que como direito penal, permanecem intocados na sua essência: seja o relacionado com a natureza do ilícito, seja o relacionado com a natureza da sanção, seja o relacionado com as especificidades processuais. Decisivos no contexto das nossas preocupações se revelam, porém, unicamente os dois primeiros [...]»40, acrescentando, em nota: «Sem prejuízo de dever reconhecer-se que também as especificidades do processo contraordenacional [...] ajudam - a muitos título poderosamente - a consolidar a distinção material entre o direito penal e do direito das contraordenações».
 
-Como é sabido, porém, no debate sobre a natureza do direito de mera ordenação social, a doutrina nacional tem oscilado entre um entendimento de o encarar como um direito de natureza essencialmente administrativa<sup>41</sup> e a sua conceção, à semelhança do que entende a doutrina e a jurisprudência alemãs, como direito penal em sentido amplo<sup>42</sup>.
+Como é sabido, porém, no debate sobre a natureza do direito de mera ordenação social, a doutrina nacional tem oscilado entre um entendimento de o encarar como um direito de natureza essencialmente administrativa41 e a sua conceção, à semelhança do que entende a doutrina e a jurisprudência alemãs, como direito penal em sentido amplo42.
 
 Mesmo ultrapassando a questão, latente, da neutralidade ou indiferença axiológica da infração contraordenacional - a contraordenação é a infração punível com “coima” -, não é, assim, despicienda a consideração de um domínio sancionatório com as especificidades e peculiaridades da infração contraordenacional materialmente considerada, nomeadamente no cotejo e comparação com outro tipo de sanções de natureza pública - como as penais, as disciplinares, as regulatórias e as contravencionais (multas) - bem como as sanções de índole processual (v.g., custas), tributária (v.g., multas, taxa sancionatória excecional), de responsabilidade financeira e indemnizatória oficiosa.
 
@@ -423,31 +527,31 @@ Todas estas sanções, assumindo uma dimensão pecuniária - cuja fungibilidade 
 
 O processo de contraordenação, que conforma o exercício do poder sancionatório contraordenacional das entidades administrativas, incluindo as entidades reguladoras e outras entidades administrativas independentes, dispõe de regime geral próprio, estabelecido na II Parte do Decreto-Lei n.º [433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273) (RGCO), constituído pelo corpo de normas dos artigos 33.º a 95.º do RGCO e, por remissão, dos preceitos do Código de Processo Penal, subsidiariamente aplicáveis em caso de lacuna ou insuficiência daquelas disposições (art. 41.º).
 
-Não se versará aqui a controversa questão dogmática de saber qual a natureza do processo de contraordenação, o que, podendo ligar-se à natureza da infração, também dele se pode separar, como observa Nuno Brandão, ao escrever: «Não se nega que, sendo à administração confiados poderes de processamento contra-ordenacional, o exercício desses poderes configure uma atividade administrativa, podendo ainda eventualmente aceitar-se, numa conclusão que todavia está longe de ser líquida, que a decisão da administração que põe termo à fase administrativa do processo contra-ordenacional constitui um verdadeiro ato administrativo. Se por isso pode entender-se que ao processo contra-ordenacional é, em regra, imanente uma relação jurídico-administrativa entre o arguido e a administração, não tem isso porém necessariamente de significar que o direito das contra-ordenações seja, na sua substância, direito administrativo. A existência de tal relação administrativa de cariz processual está assim ele própria dependente de contingências várias que nada têm que ver com o âmago da contra-ordenação»<sup>43</sup>.
+Não se versará aqui a controversa questão dogmática de saber qual a natureza do processo de contraordenação, o que, podendo ligar-se à natureza da infração, também dele se pode separar, como observa Nuno Brandão, ao escrever: «Não se nega que, sendo à administração confiados poderes de processamento contra-ordenacional, o exercício desses poderes configure uma atividade administrativa, podendo ainda eventualmente aceitar-se, numa conclusão que todavia está longe de ser líquida, que a decisão da administração que põe termo à fase administrativa do processo contra-ordenacional constitui um verdadeiro ato administrativo. Se por isso pode entender-se que ao processo contra-ordenacional é, em regra, imanente uma relação jurídico-administrativa entre o arguido e a administração, não tem isso porém necessariamente de significar que o direito das contra-ordenações seja, na sua substância, direito administrativo. A existência de tal relação administrativa de cariz processual está assim ele própria dependente de contingências várias que nada têm que ver com o âmago da contra-ordenação»43.
 
 O direito e o processo de contraordenações tem sido objeto de algumas mutações, quando se observam as peculiaridades de alguns dos seus regimes especiais, como o do regime das contraordenações em matéria económica ([Decreto-Lei n.º 9/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), de 29-01), ambiental ([Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29-08) - v.g., quanto à derrogação da proibição da reformatio in pejus (art. 75.º) -, dos setores bancário e financeiro ([Decreto-Lei n.º 298/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1992-448953), de 31-12) e da Concorrência ([Lei n.º 19/2012](https://diariodarepublica.pt/dr/detalhe/lei/19-2012-553391), de 08-05), o que se vem convencionando designar de “Grandes contraordenações”, atendendo, nomeadamente, à relevância socioeconómica das áreas de atividade a que se aplicam, à especificidade das regras processuais e aos limites dos montantes das respetivas coimas e à natureza das sanções acessórias.
 
 Na questão dos presentes autos, não nos movemos em tais domínios, mas sim num dos domínios tradicionais e originários - ou mesmo “pioneiros” - do direito contraordenacional, o das chamadas “contraordenações rodoviárias” (infrações contraordenacionais ao Código da Estrada e seus regulamentos).
 
-As finalidades sancionatórias contraordenacionais<sup>44</sup>, embora não impondo uma reserva absoluta de jurisdição<sup>45</sup>, sem questionar a sua autonomia, aproximam o processo contraordenacional do processo penal<sup>46</sup>, exigindo, por imposição constitucional, garantias análogas às de um processo equitativo (artigos 20.º, n.<sup>os</sup>1 e 4 e 32.º, n.º 10, da Constituição)<sup>47</sup>. Conforme vem sendo sublinhado, o processo de contraordenação não pode ser considerado um procedimento administrativo tal como definido no artigo 1.º, n.º 1, do Código de Procedimento Administrativo (doravante também designado por CPA), nem um «procedimento administrativo especial» para efeitos do artigo 7.º, n.º 2, deste mesmo diploma<sup>48</sup>. O que, desde logo, afasta a aplicação subsidiária do CPA à fase administrativa do processo de contraordenação<sup>49</sup>.
+As finalidades sancionatórias contraordenacionais44, embora não impondo uma reserva absoluta de jurisdição45, sem questionar a sua autonomia, aproximam o processo contraordenacional do processo penal46, exigindo, por imposição constitucional, garantias análogas às de um processo equitativo (artigos 20.º, n.os1 e 4 e 32.º, n.º 10, da Constituição)47. Conforme vem sendo sublinhado, o processo de contraordenação não pode ser considerado um procedimento administrativo tal como definido no artigo 1.º, n.º 1, do Código de Procedimento Administrativo (doravante também designado por CPA), nem um «procedimento administrativo especial» para efeitos do artigo 7.º, n.º 2, deste mesmo diploma48. O que, desde logo, afasta a aplicação subsidiária do CPA à fase administrativa do processo de contraordenação49.
 
 Trata-se de um processo que tem como direito subsidiário, em todas as suas fases, o direito processual penal, nos termos do artigo 41.º, n.º 1, do RGCO.
 
-A concretização do princípio da subsidiariedade do processo penal pressupõe, logicamente, «a autonomia do processo de contraordenação [...]»<sup>50</sup>.
+A concretização do princípio da subsidiariedade do processo penal pressupõe, logicamente, «a autonomia do processo de contraordenação [...]»50.
 
 A coima pode ser cobrada coercivamente quanto seja exequível, i.e., quando a decisão que a imponha se tenha tornado definitiva, ou seja, quando já não seja possível reclamar ou recorrer da sua aplicação pela autoridade administrativa competente ou a decisão tenha transitado em julgado, nomeadamente quando tenha sido aplicada por órgão judicial, por efeito de concurso ou de conexão entre contraordenação e crime (artigos 38.º e 39.º do Decreto-Lei n.º [433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273)), ou em sede de recurso de impugnação judicial.
 
-O “direito de mera ordenação social” foi incorporado no ordenamento jurídico nacional através do [Decreto-Lei n.º 232/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1979-382233), de 24 de junho<sup>51</sup>, que, apesar de hesitações iniciais, optou por atribuir aos tribunais comuns a competência para conhecer do recurso de impugnação judicial e demais atos jurisdicionais.
+O “direito de mera ordenação social” foi incorporado no ordenamento jurídico nacional através do [Decreto-Lei n.º 232/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1979-382233), de 24 de junho51, que, apesar de hesitações iniciais, optou por atribuir aos tribunais comuns a competência para conhecer do recurso de impugnação judicial e demais atos jurisdicionais.
 
-O não pagamento da coima implicava a instauração de execução, promovida pelo Ministério Público «perante o Tribunal competente segundo o artigo 52.º», ou seja, perante o tribunal da comarca em cuja área tivesse a sua sede a autoridade que tivesse aplicado a coima<sup>52</sup> - artigo 76.º, n.º 1 a 3.
+O não pagamento da coima implicava a instauração de execução, promovida pelo Ministério Público «perante o Tribunal competente segundo o artigo 52.º», ou seja, perante o tribunal da comarca em cuja área tivesse a sua sede a autoridade que tivesse aplicado a coima52 - artigo 76.º, n.º 1 a 3.
 
-Estabelecia-se também que a execução por coima obedecia «aos termos da execução por custas, aplicando-se, devidamente adaptado, o disposto no artigo 640.º do Código de Processo Penal»<sup>53</sup> - artigo 76.º, n.º 2.
+Estabelecia-se também que a execução por coima obedecia «aos termos da execução por custas, aplicando-se, devidamente adaptado, o disposto no artigo 640.º do Código de Processo Penal»53 - artigo 76.º, n.º 2.
 
-Quanto à execução por custas em processo de contraordenação, regulava-se pelos artigos 171.º e seguintes do Código das Custas Judiciais<sup>54</sup> - artigo 78.º, n.º 1.
+Quanto à execução por custas em processo de contraordenação, regulava-se pelos artigos 171.º e seguintes do Código das Custas Judiciais54 - artigo 78.º, n.º 1.
 
-Poucos anos depois, o Decreto-Lei n.º [433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273) (RGCO)<sup>55</sup>, sob a epígrafe «Princípios gerais», veio confirmar essas opções iniciais.
+Poucos anos depois, o Decreto-Lei n.º [433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273) (RGCO)55, sob a epígrafe «Princípios gerais», veio confirmar essas opções iniciais.
 
-Este diploma, na sua versão originária<sup>56</sup>, veio estabelecer que, caso a coima não fosse voluntariamente paga, o Ministério Público promoveria a execução de coimas emergentes da fase administrativa junto do tribunal competente, segundo o artigo 61.º, ou seja, perante o tribunal da comarca em cuja área tivesse a sua sede a autoridade que tivesse aplicado a coima - artigo 89.º, n.º 1 a 3<sup>57</sup>.
+Este diploma, na sua versão originária56, veio estabelecer que, caso a coima não fosse voluntariamente paga, o Ministério Público promoveria a execução de coimas emergentes da fase administrativa junto do tribunal competente, segundo o artigo 61.º, ou seja, perante o tribunal da comarca em cuja área tivesse a sua sede a autoridade que tivesse aplicado a coima - artigo 89.º, n.º 1 a 357.
 
 A execução seria instaurada pelo Ministério Público e seguiria «os termos das execuções por custas reguladas na parte cível, perante o tribunal da condenação». Relativamente a custas, o artigo 92.º do RGCO, instituía, à data, que, se o contrário não resultasse dessa lei, aquelas regular-se-iam pelo disposto nos artigos 171.º e seguintes do Código das Custas Judiciais.
 
@@ -459,13 +563,13 @@ Além disso, estabeleceu, na execução da coima, a aplicação, com as necessá
 
 Quanto a custas, foi alterado o artigo 92.º do RGCO, estabelecendo que «Se o contrário não resultar desta lei, as custas em processo de contra-ordenação regular-se-ão pelos preceitos reguladores das custas em processo criminal.»
 
-Posteriormente, tanto o Código das Custas Judiciais, aprovado pelo [Decreto-Lei n.º 224-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-a-1996-553668), de 26 de novembro<sup>58</sup>, como o Regulamento das Custas Processuais, aprovado pelo [Decreto-Lei n.º 34/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2008-247448), de 26 de fevereiro<sup>59</sup>, mantiveram soluções compatíveis com tais regimes.
+Posteriormente, tanto o Código das Custas Judiciais, aprovado pelo [Decreto-Lei n.º 224-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-a-1996-553668), de 26 de novembro58, como o Regulamento das Custas Processuais, aprovado pelo [Decreto-Lei n.º 34/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2008-247448), de 26 de fevereiro59, mantiveram soluções compatíveis com tais regimes.
 
 Todo este itinerário legislativo evidencia que, desde a entrada em efetividade do regime do ilícito de mera ordenação social, era incontroverso caber ao Ministério Público a legitimidade para promover a execução de coima e que a competência para conhecer do procedimento executivo para a sua cobrança pertencia ao “Tribunal”, quer a coima fosse aplicada por decisão administrativa em processo contraordenacional, quer a coima fosse aplicada por sentença na sequência de recurso de impugnação judicial, ou, eventualmente, por decisão condenatória em função da competência por conexão do tribunal criminal.
 
 A entrada em vigor da [Lei n.º 27/2019](https://diariodarepublica.pt/dr/detalhe/lei/27-2019-121665678), de 28 de março, concretamente com as alterações introduzidas ao artigo 35.º do RCP e ao artigo 148.º, este do Código de Procedimento e Processo Tributário (doravante também designado por CPPT), implicou algumas ambiguidades interpretativas sobre se as mesmas teriam modificado aquele estado de coisas. Tais hesitações levaram a que, p. ex. no acórdão-recorrido, conforme se antecipou, se tenha considerado que a situação até aí existente se modificou e, consequentemente, rejeitou-se a competência do Tribunal (Juízo de Competência Genérica de Olhão - Juiz 1) para conhecer do procedimento executivo para cobrança de coima aplicada por decisão administrativa, entendendo-se que tal competência teria passado a ser da Autoridade Tributária.
 
-É certo que em face das alterações introduzidas pela [Lei n.º 27/2019](https://diariodarepublica.pt/dr/detalhe/lei/27-2019-121665678), de 28 de março, veio a ser também questionada qual a entidade competente para a instauração e tramitação da execução por custas fixadas na fase administrativa do processo de contraordenação, tendo, nessa sequência, a Procuradoria-Geral da República (PGR), acolhendo a doutrina do Parecer do Conselho Consultivo n.º 27/2020, de 20 de outubro, emitido a Diretiva n.º 3/2021, de 15 de setembro<sup>60</sup>, dirigida aos Magistrados do Ministério Público, da qual decorre o entendimento de que qualquer expediente enviado ao Ministério Público destinado à cobrança de custas fixadas em processo de contraordenação, deveria ser reencaminhado diretamente à Autoridade Tributária.
+É certo que em face das alterações introduzidas pela [Lei n.º 27/2019](https://diariodarepublica.pt/dr/detalhe/lei/27-2019-121665678), de 28 de março, veio a ser também questionada qual a entidade competente para a instauração e tramitação da execução por custas fixadas na fase administrativa do processo de contraordenação, tendo, nessa sequência, a Procuradoria-Geral da República (PGR), acolhendo a doutrina do Parecer do Conselho Consultivo n.º 27/2020, de 20 de outubro, emitido a Diretiva n.º 3/2021, de 15 de setembro60, dirigida aos Magistrados do Ministério Público, da qual decorre o entendimento de que qualquer expediente enviado ao Ministério Público destinado à cobrança de custas fixadas em processo de contraordenação, deveria ser reencaminhado diretamente à Autoridade Tributária.
 
 Porém, a questão que nos convoca respeita estritamente à competência para a execução da própria coima, e não das custas, eventualmente fixadas em processo contraordenacional.
 
@@ -501,7 +605,7 @@ Por último, para o artigo 35.º, n.º 1, do RCP, o artigo 3.º da Proposta, apr
 
 «1 - Compete à Autoridade Tributária e Aduaneira, nos termos do Código de Procedimento e de Processo Tributário, promover a cobrança coerciva das custas, multas, coimas ou de outras quantias cobradas de acordo com os artigos anteriores, e dos juros de mora devidos.»
 
-Era, assim, inequívoco que a Proposta de Lei n.º 149/XIII/4.ª (GOV), na sua versão original<sup>61</sup>, pretendia que, quer a coima fosse aplicada por decisão administrativa, quer fosse aplicada por sentença, em recurso de impugnação judicial, à sua cobrança coerciva seria sempre aplicável o processo de execução fiscal, através da Autoridade Tributária.
+Era, assim, inequívoco que a Proposta de Lei n.º 149/XIII/4.ª (GOV), na sua versão original61, pretendia que, quer a coima fosse aplicada por decisão administrativa, quer fosse aplicada por sentença, em recurso de impugnação judicial, à sua cobrança coerciva seria sempre aplicável o processo de execução fiscal, através da Autoridade Tributária.
 
 Todavia, esse processo legislativo conheceu algumas objeções, que viriam a ter influência na opção da formulação da versão final da [Lei n.º 27/2019](https://diariodarepublica.pt/dr/detalhe/lei/27-2019-121665678), de 18-03. No processo legislativo que precedeu a publicação do dito diploma, foram solicitados pareceres aos Conselhos Superiores da Magistratura (doravante, também CSM) e do Ministério Público (doravante, também CSMP) e à Ordem dos Advogados (doravante, também OA). Tais instituições enviaram os respetivos pareceres à Assembleia da República, contendo algumas reservas, recomendando a reponderação das soluções inicialmente previstas na versão inicial da Proposta de Lei, precisamente no tocante à abrangência das coimas.
 
@@ -513,15 +617,15 @@ No parecer do CSM, de 15-11-2018, foi expendido, entre outras considerações, o
 
 Importa referir que o Código de Procedimento e de Processo Tributário assenta no pressuposto essencial de que a quantia exequenda corresponde a uma dívida tributária, assim se justificando, por exemplo, a execução de sucessores conforme decorre do artigo 153.º e 154.º do referido diploma.
 
-Sucede que, faltando às coimas e multas esse carácter tributário e sinalagmático e tratando-se de sanções decorrentes de uma responsabilidade pessoas, em caso de falecimento do executado/arguido, extingue-se a responsabilidade criminal e contra-ordenacional, o que frontalmente incompatível com o disposto nos referidos preceitos. Este será apenas um exemplo de incompatibilidade e inadequação entre o regime previsto na execução fiscal e natureza penal das coimas e penas de multa aplicadas pelos tribunais comuns.”<sup>62</sup>.
+Sucede que, faltando às coimas e multas esse carácter tributário e sinalagmático e tratando-se de sanções decorrentes de uma responsabilidade pessoas, em caso de falecimento do executado/arguido, extingue-se a responsabilidade criminal e contra-ordenacional, o que frontalmente incompatível com o disposto nos referidos preceitos. Este será apenas um exemplo de incompatibilidade e inadequação entre o regime previsto na execução fiscal e natureza penal das coimas e penas de multa aplicadas pelos tribunais comuns.”62.
 
-Por sua vez, no parecer do CSMP, remetido em 13-11-2018, são formuladas propostas de alteração ao artigo 89.º do RGCO, no sentido de prever a expressa atribuição de competência à Autoridade Tributária, nos termos do Código de Procedimento e Processo Tributário, bem como a sugestão «tendo em linha de conta todo o conjunto normativo especial em matéria de contraordenações, suscetível de bulir com as alterações de base, que seja criada uma norma de caráter geral na Proposta de Lei que determine que são revogadas todas as normas que, em sede de execução de coimas e custas, contrariem o disposto quanto à competência para execução por parte da Administração Tributária.»<sup>63</sup>.
+Por sua vez, no parecer do CSMP, remetido em 13-11-2018, são formuladas propostas de alteração ao artigo 89.º do RGCO, no sentido de prever a expressa atribuição de competência à Autoridade Tributária, nos termos do Código de Procedimento e Processo Tributário, bem como a sugestão «tendo em linha de conta todo o conjunto normativo especial em matéria de contraordenações, suscetível de bulir com as alterações de base, que seja criada uma norma de caráter geral na Proposta de Lei que determine que são revogadas todas as normas que, em sede de execução de coimas e custas, contrariem o disposto quanto à competência para execução por parte da Administração Tributária.»63.
 
 Esta proposta, conquanto fosse motivada por uma preocupação de coerência legislativa, não teria, como se sabe, qualquer tradução na lei positiva.
 
-Por fim, o Senhor Bastonário da OA, no seu parecer de 14-01-2019, pronuncia-se no sentido de se louvar no “bem fundado parecer da PGR”, advertindo para os riscos de um semelhante caudal de execuções a desaguar (futuramente) na AT pudessem onerar ainda mais os já sobrecarregados tribunais administrativos e fiscais<sup>64</sup>.
+Por fim, o Senhor Bastonário da OA, no seu parecer de 14-01-2019, pronuncia-se no sentido de se louvar no “bem fundado parecer da PGR”, advertindo para os riscos de um semelhante caudal de execuções a desaguar (futuramente) na AT pudessem onerar ainda mais os já sobrecarregados tribunais administrativos e fiscais64.
 
-Na sessão plenária de 4 de janeiro de 2019, de discussão da referida Proposta de Lei, na Assembleia da República<sup>65</sup> foram, igualmente, reiteradas algumas críticas, suscitadas nos referidos pareceres, relativamente à inclusão de coimas nas alterações previstas para essa Lei, no tocante à respetiva cobrança coerciva.
+Na sessão plenária de 4 de janeiro de 2019, de discussão da referida Proposta de Lei, na Assembleia da República65 foram, igualmente, reiteradas algumas críticas, suscitadas nos referidos pareceres, relativamente à inclusão de coimas nas alterações previstas para essa Lei, no tocante à respetiva cobrança coerciva.
 
 O texto final da [Lei n.º 27/2019](https://diariodarepublica.pt/dr/detalhe/lei/27-2019-121665678), de 18-03, apresenta, inquestionavelmente, uma redação distinta da versão da Proposta de Lei do Governo, no tocante à abrangência das coimas no campo das sanções de natureza pecuniária a cobrar coercivamente, nos termos de execução fiscal, através dos serviços da AT.
 
@@ -541,7 +645,7 @@ O conteúdo destes preceitos respeita à natureza sancionatória da coima, conte
 
 Como tal, a manutenção, pela [Lei n.º 27/2019](https://diariodarepublica.pt/dr/detalhe/lei/27-2019-121665678), do teor dos artigos 89.º-A e 90.º, do RGCO, atribuindo ao tribunal competente para a execução a competência relativa a essas matérias - substituição da coima por dias de trabalho, suspensão da execução da decisão da autoridade administrativa e declaração de caducidade da coima ou de sanção acessória -, implica a conclusão de que o legislador, no processo contraordenacional, por se tratar de condutas cuja ressonância ética e jurídica merece a aplicação de uma sanção de natureza sancionatória, quis manter a solução de que a execução de coimas é matéria cuja competência pertence aos tribunais, distinguindo-o do regime que veio a ser consagrado na [Lei n.º 27/2019](https://diariodarepublica.pt/dr/detalhe/lei/27-2019-121665678), de 28 de março, para a cobrança coerciva das custas, multas não penais e outras sanções pecuniárias fixadas em processo judicial.
 
-Acresce, ainda, que, no caso dos dois processos que baseiam os acórdãos em oposição, encontram-se subjacentes à execução por coima instauradas pelo Ministério Público no Juízo de Competência Genérica de Olhão, duas condenações em coima por infração ao Código da Estrada, uma prevista no artigo 50.º, n.º 1, alínea f), e n.º 2, desse diploma (no acórdão-fundamento) e outra prevista no artigo 116.º, n.<sup>os</sup>1, alínea c) e 3, do Código da Estrada e no [Decreto-Lei n.º 144/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2012-179784), de 11-07 (no acórdão-recorrido).
+Acresce, ainda, que, no caso dos dois processos que baseiam os acórdãos em oposição, encontram-se subjacentes à execução por coima instauradas pelo Ministério Público no Juízo de Competência Genérica de Olhão, duas condenações em coima por infração ao Código da Estrada, uma prevista no artigo 50.º, n.º 1, alínea f), e n.º 2, desse diploma (no acórdão-fundamento) e outra prevista no artigo 116.º, n.os1, alínea c) e 3, do Código da Estrada e no [Decreto-Lei n.º 144/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2012-179784), de 11-07 (no acórdão-recorrido).
 
 Nesse contexto, importa também referir que, no Título VIII (Do Processo), Capítulo III (Da Decisão), o artigo 183.º do Código da Estrada, estabelece o seguinte:
 
@@ -555,35 +659,35 @@ Este preceito tem a redação introduzida pelo artigo 2.º do [Decreto-Lei n.º 
 
 Assim, tendo a alteração ao artigo 183.º do CE sido posterior à entrada em vigor da [Lei n.º 27/2019](https://diariodarepublica.pt/dr/detalhe/lei/27-2019-121665678), de 28 de março, se o legislador manteve que “O pagamento da coima em prestações pode ser requerido até ao envio do processo a tribunal para execução”, só se poderá concluir, de acordo com os bons cânones hermenêuticos, que os dados dos preceitos legais aplicáveis, não admitem outra conclusão que não seja a de que a execução por coima é instaurada e tramitada no “tribunal”. Caso contrário, o legislador teria procedido à correspondente alteração no artigo 183.º do Código da Estrada, o que não ocorreu.
 
-É igualmente o que sucede com o regime do [Decreto-Lei n.º 9/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), de 29 de janeiro (que aprova o Regime Jurídico das Contraordenações Económicas - RGCE), onde se estabelece, no artigo 64.º, que o processo de execução fiscal aplica-se à cobrança coerciva de coimas aplicadas por autoridade administrativa<sup>66</sup>. No que a tal regime concerne, o preâmbulo do diploma explicita a opção do atual quadro legal das contraordenações económicas por se reconhecer, em particular, uma especificidade e autonomia das coimas e sanções decorrentes do exercício da atividade económica face aos demais ilícitos contraordenacionais<sup>67</sup>, havendo até Autores que classificam tais ilícitos como Grandes Contraordenações<sup>68</sup>.
+É igualmente o que sucede com o regime do [Decreto-Lei n.º 9/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), de 29 de janeiro (que aprova o Regime Jurídico das Contraordenações Económicas - RGCE), onde se estabelece, no artigo 64.º, que o processo de execução fiscal aplica-se à cobrança coerciva de coimas aplicadas por autoridade administrativa66. No que a tal regime concerne, o preâmbulo do diploma explicita a opção do atual quadro legal das contraordenações económicas por se reconhecer, em particular, uma especificidade e autonomia das coimas e sanções decorrentes do exercício da atividade económica face aos demais ilícitos contraordenacionais67, havendo até Autores que classificam tais ilícitos como Grandes Contraordenações68.
 
 A opção do legislador foi, neste particular âmbito, diversa, mas foi expressamente justificada.
 
-Decorre do exposto que o legislador não pretendeu, neste aspeto, alterar o RGCO e que, em situações que considera que o RGCO não dá resposta satisfatória em determinadas áreas de incriminação contraordenacional, a técnica legislativa adotada vem sendo a de estabelecer regimes especiais aplicáveis a cada uma dessas áreas<sup>69</sup>.
+Decorre do exposto que o legislador não pretendeu, neste aspeto, alterar o RGCO e que, em situações que considera que o RGCO não dá resposta satisfatória em determinadas áreas de incriminação contraordenacional, a técnica legislativa adotada vem sendo a de estabelecer regimes especiais aplicáveis a cada uma dessas áreas69.
 
 Cabe fazer uma consideração sobre um trecho da fundamentação expressa no acórdão-recorrido, onde se conclui que a entidade competente para a instauração e tramitação da execução por coimas é a Autoridade Tributária, ao sustentar-se, entre outros argumentos, que «[...] continuando o artigo 92.º, n.º 1, do RGCO, a remeter para os preceitos reguladores das custas em processo criminal, será aqui aplicável o disposto no artigo 35.º do Regulamento das Custas;»; e ainda que «[...] o legislador, em vez de atribuir competência ao juízo ou tribunal para executar as decisões proferidas e relativas a multas, custas e indemnizações previstas na lei processual aplicável, passou a atribuir-lhe, apenas, a competência para a execução das decisões relativas a multas penais e indemnizações previstas na lei processual aplicável - artigo 131.º da Lei da Organização do Sistema Judiciário.»
 
 A este respeito, cumpre observar, por um lado, que a invocação do artigo 92.º, n.º 1, do RGCO, não se revela pertinente, porque este preceito regula matéria de custas aplicadas em processo de contraordenação, mas não o regime da execução da coima, que é a questão que se apresenta controvertida e que se impõe decidir.
 
-Por outro lado, quanto ao facto de a redação do artigo 131.º da [Lei n.º 62/2013](https://diariodarepublica.pt/dr/detalhe/lei/62-2013-499514), de 26 de agosto (LOSJ)<sup>70</sup> não fazer expressa alusão a coimas - fazendo expressa referência à competência do tribunal em matéria de execução de decisões relativas a multas penais e indemnizações -, importa ter em conta que tal disposição não exclui que seja o “tribunal” a entidade competente onde deva ser instaurada e tramitada a execução por coima aplicada por decisão administrativa45. Por fim, nem na sua redação originária, nem na que foi lhe conferida pela [Lei n.º 40-A/2016](https://diariodarepublica.pt/dr/detalhe/lei/40-a-2016-105599333), de 22 de dezembro (versão anterior à atual, conferida pela [Lei n.º 27/2019](https://diariodarepublica.pt/dr/detalhe/lei/27-2019-121665678)) a disposição do art. 131.º da LOSJ contemplava a referência a coimas, nem por isso sendo questionada a competência dos tribunais comuns para a sua execução.
+Por outro lado, quanto ao facto de a redação do artigo 131.º da [Lei n.º 62/2013](https://diariodarepublica.pt/dr/detalhe/lei/62-2013-499514), de 26 de agosto (LOSJ)70 não fazer expressa alusão a coimas - fazendo expressa referência à competência do tribunal em matéria de execução de decisões relativas a multas penais e indemnizações -, importa ter em conta que tal disposição não exclui que seja o “tribunal” a entidade competente onde deva ser instaurada e tramitada a execução por coima aplicada por decisão administrativa45. Por fim, nem na sua redação originária, nem na que foi lhe conferida pela [Lei n.º 40-A/2016](https://diariodarepublica.pt/dr/detalhe/lei/40-a-2016-105599333), de 22 de dezembro (versão anterior à atual, conferida pela [Lei n.º 27/2019](https://diariodarepublica.pt/dr/detalhe/lei/27-2019-121665678)) a disposição do art. 131.º da LOSJ contemplava a referência a coimas, nem por isso sendo questionada a competência dos tribunais comuns para a sua execução.
 
 Uma tal argumentação não tem, por isso, sustentação válida.
 
 A inflexão dos propósitos legislativos da versão inicial da Proposta de Lei n.º 149/XIII, no sentido de se excluir a referência a “coimas”, não parece deixar dúvidas sobre a opção legislativa no sentido de o regime da sua execução - em concreto das coimas aplicadas por contraordenações ao Código da Estrada - se continuar a fazer nos moldes efetuados anteriormente à entrada em vigor das alterações da [Lei n.º 27/2019](https://diariodarepublica.pt/dr/detalhe/lei/27-2019-121665678) aos artigos 35.º do RCP, 148.º do CPPT e 131.º da LOSJ. Essa consideração, aliada à circunstância de nenhuma disposição legal prever, expressa e inequivocamente, que a execução das coimas passaria a ser da competência da Autoridade Tributária, em execução fiscal, nos termos do CPPT, implica a conclusão de que nem a letra nem o espírito da lei autorizam interpretação do regime normativo vigente diferente daquela.
 
-Nem se pode, por isso, entender que a expressão «[...] outras sanções pecuniárias fixadas em processo judicial», prevista na alínea c)<sup>71</sup> do n.º 2 do artigo 148.º do CPPT possa ter a virtualidade de englobar as coimas não tributárias<sup>72</sup>, dado que tal expressão constava já da versão original da Proposta de Lei n.º 149/XIII/4.ª (GOV), ao lado da proposta de “coimas” [e “outras sanções pecuniárias”], o que só pode significar que o legislador lhes atribui diferente significado.
+Nem se pode, por isso, entender que a expressão «[...] outras sanções pecuniárias fixadas em processo judicial», prevista na alínea c)71 do n.º 2 do artigo 148.º do CPPT possa ter a virtualidade de englobar as coimas não tributárias72, dado que tal expressão constava já da versão original da Proposta de Lei n.º 149/XIII/4.ª (GOV), ao lado da proposta de “coimas” [e “outras sanções pecuniárias”], o que só pode significar que o legislador lhes atribui diferente significado.
 
-Nenhuma hipótese de interpretação histórica e sistémica justifica, assim, que as disposições dos artigos 61.º, n.º 1, 89.º, n.<sup>os</sup>1 e 2 do RGCO, 491.º, n.<sup>os</sup>1 e 2, do CPP e 185.º-A, do Código da Estrada, tenham deixado de ter aplicação à cobrança coerciva de coimas por contraordenações ao Código da Estrada.
+Nenhuma hipótese de interpretação histórica e sistémica justifica, assim, que as disposições dos artigos 61.º, n.º 1, 89.º, n.os1 e 2 do RGCO, 491.º, n.os1 e 2, do CPP e 185.º-A, do Código da Estrada, tenham deixado de ter aplicação à cobrança coerciva de coimas por contraordenações ao Código da Estrada.
 
 Uma última observação, de ordem terminológica, se impõe fazer neste passo, quanto ao alcance atual da expressão “tribunal”.
 
-Como é sabido, a reformulação das unidades judiciais de 1.ª Instância operada com a Reforma do Mapa Judiciário de 2014, concretamente através da [Lei n.º 62/2013](https://diariodarepublica.pt/dr/detalhe/lei/62-2013-499514), de 26-08 (Lei de Organização do Sistema Judiciário) e do seu Regulamento (aprovado pelo [Decreto-Lei n.º 49/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2014-571615), de 17-03), implicou que o termo “Tribunal Judicial [da Comarca]” assumisse, em sede de jurisdição comum (tribunais judiciais), um sentido funcional distinto do paradigma terminológico anteriormente existente. A expressão “Tribunal Judicial [da Comarca]”<sup>73</sup> passou a designar o conjunto de unidades judiciárias de menor dimensão geográfica (correspondente aos municípios, correspondentes às antigas comarcas), assumindo um significado distinto. Os (atuais) tribunais (judiciais) de comarca desdobram-se em juízos, de competência especializada, genérica ou de proximidade (art. 81.º, da [Lei n.º 62/2013](https://diariodarepublica.pt/dr/detalhe/lei/62-2013-499514)).
+Como é sabido, a reformulação das unidades judiciais de 1.ª Instância operada com a Reforma do Mapa Judiciário de 2014, concretamente através da [Lei n.º 62/2013](https://diariodarepublica.pt/dr/detalhe/lei/62-2013-499514), de 26-08 (Lei de Organização do Sistema Judiciário) e do seu Regulamento (aprovado pelo [Decreto-Lei n.º 49/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2014-571615), de 17-03), implicou que o termo “Tribunal Judicial [da Comarca]” assumisse, em sede de jurisdição comum (tribunais judiciais), um sentido funcional distinto do paradigma terminológico anteriormente existente. A expressão “Tribunal Judicial [da Comarca]”73 passou a designar o conjunto de unidades judiciárias de menor dimensão geográfica (correspondente aos municípios, correspondentes às antigas comarcas), assumindo um significado distinto. Os (atuais) tribunais (judiciais) de comarca desdobram-se em juízos, de competência especializada, genérica ou de proximidade (art. 81.º, da [Lei n.º 62/2013](https://diariodarepublica.pt/dr/detalhe/lei/62-2013-499514)).
 
 Assim, a referência, anteriormente prevista nos artigos 61.º e 89.º do RGCO, 183.º e 185.º-A, do Código da Estrada, ao “tribunal” terá de ser, necessariamente, interpretada como sendo reportada ao atual “Juízo” - criminal ou de competência genérica (art. 130.º da LOSJ) - que concretamente for o competente para a instauração e tramitação da execução por coima.
 
 II.6 - Conclusão
 
-Dentro da precedentemente exposta linha de entendimento, considera-se que a melhor interpretação dos preceitos legais convocados é a de que o processo de execução fiscal não se aplica à execução de coimas por contraordenações ao Código da Estrada, aplicadas por autoridade administrativa, e que a entidade competente onde deve ser instaurada e tramitada a execução por tais coimas são os juízos criminais ou de competência genérica - que concretizam atualmente uma aceção anterior de “tribunal” -, nos termos das disposições conjugadas dos artigos 89.º, n.<sup>os</sup>1 e 2, e 61.º, n.º 1, do Regime Geral das Contraordenações, e 491.º do Código de Processo Penal.
+Dentro da precedentemente exposta linha de entendimento, considera-se que a melhor interpretação dos preceitos legais convocados é a de que o processo de execução fiscal não se aplica à execução de coimas por contraordenações ao Código da Estrada, aplicadas por autoridade administrativa, e que a entidade competente onde deve ser instaurada e tramitada a execução por tais coimas são os juízos criminais ou de competência genérica - que concretizam atualmente uma aceção anterior de “tribunal” -, nos termos das disposições conjugadas dos artigos 89.º, n.os1 e 2, e 61.º, n.º 1, do Regime Geral das Contraordenações, e 491.º do Código de Processo Penal.
 
 Na decorrência deste entendimento, a decisão do acórdão-recorrido não pode ser confirmada, competindo ao TRE extrair as devidas consequências processuais da jurisprudência agora estabelecida, face ao estado atual da execução presuntivamente instaurada na AT.
 
@@ -591,7 +695,7 @@ III - Decisão
 
 Em face do exposto, o Pleno das secções criminais do Supremo Tribunal de Justiça, fixa a seguinte jurisprudência:
 
-I. «É competente para a instauração e tramitação da execução por coimas aplicadas por autoridades administrativas relativamente a contraordenações previstas no Código da Estrada “o tribunal” - na atual aceção de “Juízo” funcional e territorialmente competente -, nos termos das disposições conjugadas dos artigos 89.º, n.<sup>os</sup>1 e 2 e 61.º, n.º 1, do Regime Geral das Contraordenações, aprovado pelo Decreto-Lei n.º [433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro, 183.º e 185.º-A, do Código da Estrada e 491.º, n.<sup>os</sup>1 e 2, do Código de Processo Penal.»
+I. «É competente para a instauração e tramitação da execução por coimas aplicadas por autoridades administrativas relativamente a contraordenações previstas no Código da Estrada “o tribunal” - na atual aceção de “Juízo” funcional e territorialmente competente -, nos termos das disposições conjugadas dos artigos 89.º, n.os1 e 2 e 61.º, n.º 1, do Regime Geral das Contraordenações, aprovado pelo Decreto-Lei n.º [433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro, 183.º e 185.º-A, do Código da Estrada e 491.º, n.os1 e 2, do Código de Processo Penal.»
 
 II. Em consequência, ordena-se que o processo seja oportunamente enviado ao Tribunal da Relação de Évora, que deverá extrair as devidas consequências processuais sobre o acórdão-recorrido, tendo em conta a jurisprudência ora fixada - art. 445.º, do Código de Processo Penal.
 
@@ -601,13 +705,13 @@ Sem tributação.
 
 *
 
-<sup>1</sup> No que respeita aos pressupostos necessários para se julgar verificada a oposição de julgados, entre muitos outros, os Acórdãos do Supremo Tribunal de Justiça, de 13 de janeiro de 2022, processo n.º 225/18.2PASXL-A.S1, relatado pelo Conselheiro Orlando Gonçalves, e de 28 de abril de 2022, processo n.º 123/16.4SWLSB-F.L1-A.S1, relatado pelo Conselheiro Eduardo Loureiro, respetivamente disponíveis para consulta, respetivamente, em:
+1 No que respeita aos pressupostos necessários para se julgar verificada a oposição de julgados, entre muitos outros, os Acórdãos do Supremo Tribunal de Justiça, de 13 de janeiro de 2022, processo n.º 225/18.2PASXL-A.S1, relatado pelo Conselheiro Orlando Gonçalves, e de 28 de abril de 2022, processo n.º 123/16.4SWLSB-F.L1-A.S1, relatado pelo Conselheiro Eduardo Loureiro, respetivamente disponíveis para consulta, respetivamente, em:
 
 http://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/c3231f6420205ed9802587e3003a5f4c?OpenDocument
 
 http://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/4991d44200ecb231802588330030522b?OpenDocument
 
-<sup>2</sup> Cuja redação é a seguinte:
+2 Cuja redação é a seguinte:
 
 ###### Artigo 61.º — (Tribunal competente)
 
@@ -625,7 +729,7 @@ http://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/4991d44200ecb231802
 
 4 - O disposto neste artigo aplica-se, com as necessárias adaptações, às sanções acessórias, salvo quanto aos termos da execução, aos quais é aplicável o disposto sobre a execução de penas acessórias em processo criminal.
 
-<sup>3</sup> Cuja redação é a seguinte:
+3 Cuja redação é a seguinte:
 
 ###### Artigo 491.º — (Não pagamento da multa)
 
@@ -635,7 +739,7 @@ http://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/4991d44200ecb231802
 
 3 - [...].
 
-<sup>4</sup> Cuja redação é a seguinte, após alteração do art. 5.º da [Lei n.º 27/2019](https://diariodarepublica.pt/dr/detalhe/lei/27-2019-121665678), de 28-03:
+4 Cuja redação é a seguinte, após alteração do art. 5.º da [Lei n.º 27/2019](https://diariodarepublica.pt/dr/detalhe/lei/27-2019-121665678), de 28-03:
 
 ###### Artigo 35.º — (Execução)
 
@@ -655,7 +759,7 @@ http://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/4991d44200ecb231802
 
 8 - (Revogado.)»
 
-<sup>5</sup> Cuja redação é a seguinte:
+5 Cuja redação é a seguinte:
 
 ###### Artigo 185.º-A — (Certidão da dívida)
 
@@ -679,109 +783,109 @@ f) Quaisquer outras indicações úteis para o eficaz seguimento da execução.
 
 4 - A certidão de dívida serve de base à instauração do processo de execução a promover pelos tribunais competentes, nos termos do regime geral das contraordenações.
 
-<sup>6</sup>Neste sentido, entre outros, o acórdão de 08.03.2018, Proc. 102/15.9YUSTR.L1-A.S1, António Leones Dantas, Direito Processual das Contraordenações, Coimbra, Almedina, 2022, p. 283-284, e J. Damião da Cunha, “Fixação de Jurisprudência e Ilícito de Mera Ordenação Social”, Revista do Ministério Público, n.º 146, pp. 179 e ss., notando-se que são vários os acórdãos em que o Supremo Tribunal de Justiça assumiu esta competência, tanto em matéria substantiva como adjetiva, entre os quais o Assento 1/2001 (DR I-A, de 20-04-2001) e os acórdãos de fixação de jurisprudência n.<sup>os</sup>11/2005 (DR I-A, de 19-12-2005), 1/2009 (DR I, de 16-01-2009), 4/2011 (DR I, de 11-02-2011), 5/2013 (DR I, de 15-02-2013), 2/2014 (DR I, de 14-04-2014) e 3/2025 (DR I, de 27-02-2025).
+6Neste sentido, entre outros, o acórdão de 08.03.2018, Proc. 102/15.9YUSTR.L1-A.S1, António Leones Dantas, Direito Processual das Contraordenações, Coimbra, Almedina, 2022, p. 283-284, e J. Damião da Cunha, “Fixação de Jurisprudência e Ilícito de Mera Ordenação Social”, Revista do Ministério Público, n.º 146, pp. 179 e ss., notando-se que são vários os acórdãos em que o Supremo Tribunal de Justiça assumiu esta competência, tanto em matéria substantiva como adjetiva, entre os quais o Assento 1/2001 (DR I-A, de 20-04-2001) e os acórdãos de fixação de jurisprudência n.os11/2005 (DR I-A, de 19-12-2005), 1/2009 (DR I, de 16-01-2009), 4/2011 (DR I, de 11-02-2011), 5/2013 (DR I, de 15-02-2013), 2/2014 (DR I, de 14-04-2014) e 3/2025 (DR I, de 27-02-2025).
 
-<sup>7</sup> Pub. DR n.º 195/2020, Série I de 2020-10-07, pp. 168-174, cujo teor é o seguinte: «A partir de 1 de setembro de 2016 e para as ações executivas que vierem a ser instauradas em juízo desde aquela data, «ex vi» dos arts. 4.º, n.º 1, als. l) e n), do ETAF, 157.º, n.º 5, do CPTA, 61.º e 89.º do DL n.º [433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27/10, 15.º, n.º 5, do DL n.º [214-G/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-g-2015-70423756), de 2/10, cabe à jurisdição administrativa a competência para a execução jurisdicional das decisões administrativas que, por violação de normas de direito administrativo em matéria de urbanismo, hajam aplicado coimas e tenham estas sido alvo ou não de impugnação».
+7 Pub. DR n.º 195/2020, Série I de 2020-10-07, pp. 168-174, cujo teor é o seguinte: «A partir de 1 de setembro de 2016 e para as ações executivas que vierem a ser instauradas em juízo desde aquela data, «ex vi» dos arts. 4.º, n.º 1, als. l) e n), do ETAF, 157.º, n.º 5, do CPTA, 61.º e 89.º do DL n.º [433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27/10, 15.º, n.º 5, do DL n.º [214-G/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-g-2015-70423756), de 2/10, cabe à jurisdição administrativa a competência para a execução jurisdicional das decisões administrativas que, por violação de normas de direito administrativo em matéria de urbanismo, hajam aplicado coimas e tenham estas sido alvo ou não de impugnação».
 
-<sup>8</sup> No texto, é feita referência à execução de “multas penais”, mas na redação da referida lei são referidas “multas não penais”.
+8 No texto, é feita referência à execução de “multas penais”, mas na redação da referida lei são referidas “multas não penais”.
 
-<sup>9</sup> Direito Processual das Contraordenações, Coimbra, Almedina, 2023, em especial, pp. 128-129.
+9 Direito Processual das Contraordenações, Coimbra, Almedina, 2023, em especial, pp. 128-129.
 
-<sup>10</sup> Cfr. https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/e923aab4bb689b7f80258a6a003727eb?OpenDocument
+10 Cfr. https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/e923aab4bb689b7f80258a6a003727eb?OpenDocument
 
-<sup>11</sup> Contendo voto de vencida da Senhora Desembargadora Mafalda S. Santos, no sentido da irrecorribilidade. Cfr., https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/b7240f747184891f80258c3b005cdca4?OpenDocument
+11 Contendo voto de vencida da Senhora Desembargadora Mafalda S. Santos, no sentido da irrecorribilidade. Cfr., https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/b7240f747184891f80258c3b005cdca4?OpenDocument
 
-<sup>12</sup> Contendo voto de vencida da Senhora Desembargadora Anabela Cardoso, no sentido da irrecorribilidade. Cfr., https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/fc10e4b47a311d3a80258c4900399fb1?OpenDocument
+12 Contendo voto de vencida da Senhora Desembargadora Anabela Cardoso, no sentido da irrecorribilidade. Cfr., https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/fc10e4b47a311d3a80258c4900399fb1?OpenDocument
 
-<sup>13</sup>Contendo voto de vencida da Senhora Desembargadora Mafalda S. Santos, no sentido da irrecorribilidade. Cfr., https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/4e456f67c61dc35f80258c5e0035114d?OpenDocument
+13Contendo voto de vencida da Senhora Desembargadora Mafalda S. Santos, no sentido da irrecorribilidade. Cfr., https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/4e456f67c61dc35f80258c5e0035114d?OpenDocument
 
-<sup>14</sup> Contendo voto de vencida da Senhora Desembargadora Carla Oliveira, no sentido da irrecorribilidade. Cfr., https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/cd41588dfa8512a380258c4900399fb2?OpenDocument
+14 Contendo voto de vencida da Senhora Desembargadora Carla Oliveira, no sentido da irrecorribilidade. Cfr., https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/cd41588dfa8512a380258c4900399fb2?OpenDocument
 
-<sup>15</sup>Cfr., https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/0adf4a3120e9a75b80258ad3003b201d?OpenDocument
+15Cfr., https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/0adf4a3120e9a75b80258ad3003b201d?OpenDocument
 
-<sup>16</sup>Cfr., https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/a6e9f870ce72f27280258ac8004d1f04?OpenDocument
+16Cfr., https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/a6e9f870ce72f27280258ac8004d1f04?OpenDocument
 
-<sup>17</sup>Não publicada.
+17Não publicada.
 
-<sup>18</sup> Cfr., https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/9c6a16728f76412a80258ac8004d1f09?OpenDocument
+18 Cfr., https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/9c6a16728f76412a80258ac8004d1f09?OpenDocument
 
-<sup>19</sup> Comentário ao Regime Geral das contraordenações: à luz da Constituição da República e da Convenção dos Direitos do Homem, Lisboa, Universidade Católica Editora, 2022, em especial as anotações 2, 10 e 11 ao artigo 89.º, pp. 398-403. Em sentido que pode ser interpretado em defesa de tal entendimento, cf. Tiago Lopes de Azevedo, Lições de Direito das Contraordenações, Coimbra, Almedina, 2020, em especial, pp. 45 e 46.
+19 Comentário ao Regime Geral das contraordenações: à luz da Constituição da República e da Convenção dos Direitos do Homem, Lisboa, Universidade Católica Editora, 2022, em especial as anotações 2, 10 e 11 ao artigo 89.º, pp. 398-403. Em sentido que pode ser interpretado em defesa de tal entendimento, cf. Tiago Lopes de Azevedo, Lições de Direito das Contraordenações, Coimbra, Almedina, 2020, em especial, pp. 45 e 46.
 
-<sup>20</sup>Direito das Contra-Ordenações, Legislação e Jurisprudência Fundamental, t. I, Do Regime Geral das Contra-Ordenações aos Vários Regimes “Especiais”, 7.ª Ed., Lisboa, Rei dos Livros, 2024, p. 45.
+20Direito das Contra-Ordenações, Legislação e Jurisprudência Fundamental, t. I, Do Regime Geral das Contra-Ordenações aos Vários Regimes “Especiais”, 7.ª Ed., Lisboa, Rei dos Livros, 2024, p. 45.
 
-<sup>21</sup> Cfr., https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/26ff8fb0455f38e080258a85004b2840?OpenDocument
+21 Cfr., https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/26ff8fb0455f38e080258a85004b2840?OpenDocument
 
-<sup>22</sup> Cfr., https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/c1407bd3215f31c780258a76004d1f25?OpenDocument
+22 Cfr., https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/c1407bd3215f31c780258a76004d1f25?OpenDocument
 
-<sup>23</sup> Cfr.: https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/f76bdaee441134fb80258a85004b2842?OpenDocument
+23 Cfr.: https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/f76bdaee441134fb80258a85004b2842?OpenDocument
 
-<sup>24</sup> Cfr.: https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/75802babb423823480258ab70040e5bb?OpenDocument
+24 Cfr.: https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/75802babb423823480258ab70040e5bb?OpenDocument
 
-<sup>25</sup> Cfr.: https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/36a4627f1d13ce3080258ad2004efdf9?OpenDocument
+25 Cfr.: https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/36a4627f1d13ce3080258ad2004efdf9?OpenDocument
 
-<sup>26</sup>Contendo um voto de vencido do Desembargador João Gomes de Sousa, sustentando a inadmissibilidade do recurso com fundamento diverso do que fez vencimento; cf.: https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/3b1bbd1a3762f7c480258ad2004efdf8?OpenDocument
+26Contendo um voto de vencido do Desembargador João Gomes de Sousa, sustentando a inadmissibilidade do recurso com fundamento diverso do que fez vencimento; cf.: https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/3b1bbd1a3762f7c480258ad2004efdf8?OpenDocument
 
-<sup>27</sup> Cfr.: https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/82b4a2c4ce5420ff80258ad2004efdff?OpenDocument
+27 Cfr.: https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/82b4a2c4ce5420ff80258ad2004efdff?OpenDocument
 
-<sup>28</sup>Cfr.: https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/88e77730ca2e04c380258be20035bfb3?OpenDocument
+28Cfr.: https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/88e77730ca2e04c380258be20035bfb3?OpenDocument
 
-<sup>29</sup>Cfr., https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/314f6f2f410acbb180258bf9004f9214?OpenDocument
+29Cfr., https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/314f6f2f410acbb180258bf9004f9214?OpenDocument
 
-<sup>30</sup> Cfr., https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/eaf4254e3578c2f180258bf9004f9215?OpenDocument
+30 Cfr., https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/eaf4254e3578c2f180258bf9004f9215?OpenDocument
 
-<sup>31</sup> Contendo um voto de vencida da Senhora Desembargadora Maria Perquilhas, no sentido da recorribilidade da decisão e da competência do tribunal recorrido para a execução da coima; Cfr., https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/9eefe4714e55745d80258bef0038db17?OpenDocument
+31 Contendo um voto de vencida da Senhora Desembargadora Maria Perquilhas, no sentido da recorribilidade da decisão e da competência do tribunal recorrido para a execução da coima; Cfr., https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/9eefe4714e55745d80258bef0038db17?OpenDocument
 
-<sup>32</sup> Contendo um voto de vencida da Senhora Desembargadora Maria Perquilhas, no sentido da recorribilidade da decisão e da competência do tribunal recorrido para a execução da coima; cf., https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/aa878ca93208249b80258bef0038db18?OpenDocument
+32 Contendo um voto de vencida da Senhora Desembargadora Maria Perquilhas, no sentido da recorribilidade da decisão e da competência do tribunal recorrido para a execução da coima; cf., https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/aa878ca93208249b80258bef0038db18?OpenDocument
 
-<sup>33</sup> Cfr., https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/a6c0da917fbd0a1d80258bef0038db16?OpenDocument
+33 Cfr., https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/a6c0da917fbd0a1d80258bef0038db16?OpenDocument
 
-<sup>34</sup> Contendo um voto de vencida da Senhora Desembargadora Maria Perquilhas, no sentido da recorribilidade da decisão e da competência do tribunal recorrido para a execução da coima; Cfr., https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/a9f1af9f9731ea6180258bef0038db13?OpenDocument
+34 Contendo um voto de vencida da Senhora Desembargadora Maria Perquilhas, no sentido da recorribilidade da decisão e da competência do tribunal recorrido para a execução da coima; Cfr., https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/a9f1af9f9731ea6180258bef0038db13?OpenDocument
 
-<sup>35</sup> A ANSR não é a única autoridade/entidade administrativa com competência para o processamento e decisão de contraordenações ao Código da Estrada, pois, como é patente no processo ora em causa, a coima a executar no processo do acórdão-fundamento foi aplicada pelo órgão competente de um Município, enquanto a coima a executar no processo do acórdão-recorrido foi aplicada pela ANSR.
+35 A ANSR não é a única autoridade/entidade administrativa com competência para o processamento e decisão de contraordenações ao Código da Estrada, pois, como é patente no processo ora em causa, a coima a executar no processo do acórdão-fundamento foi aplicada pelo órgão competente de um Município, enquanto a coima a executar no processo do acórdão-recorrido foi aplicada pela ANSR.
 
-<sup>36</sup>Que retoma a definição do n.º 1 do artigo 1.º do [Decreto-Lei n.º 232/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1979-382233): «1 - Constitui contra-ordenação todo o facto ilícito e subjectivamente censurável que preencha um tipo legal no qual se comine uma coima.»
+36Que retoma a definição do n.º 1 do artigo 1.º do [Decreto-Lei n.º 232/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1979-382233): «1 - Constitui contra-ordenação todo o facto ilícito e subjectivamente censurável que preencha um tipo legal no qual se comine uma coima.»
 
-<sup>37</sup> Cfr., Direito Penal, Parte Geral, Tomo I, Coimbra, GestLegal, 2019, pp. 178 e ss., e em especial, pp. 185-186.
+37 Cfr., Direito Penal, Parte Geral, Tomo I, Coimbra, GestLegal, 2019, pp. 178 e ss., e em especial, pp. 185-186.
 
-<sup>38</sup> Cfr., em Direito Penal, Parte Geral, t. 1. Fundamentos - A Estrutura da Teoria do Crime, São Paulo, Marcial Pons, 2024, pp. 133-134, 158 e 186-189
+38 Cfr., em Direito Penal, Parte Geral, t. 1. Fundamentos - A Estrutura da Teoria do Crime, São Paulo, Marcial Pons, 2024, pp. 133-134, 158 e 186-189
 
-<sup>39</sup> Figueiredo Dias, Direito Penal Económico e Europeu: Textos Doutrinários, Volume I, Problemas Gerais, Coimbra, IDPEE-Coimbra Ed., 1998, pp. 18-33.
+39 Figueiredo Dias, Direito Penal Económico e Europeu: Textos Doutrinários, Volume I, Problemas Gerais, Coimbra, IDPEE-Coimbra Ed., 1998, pp. 18-33.
 
-<sup>40</sup> Direito Penal, Parte Geral, t. I, Coimbra, GestLegal, 2019, pp. 185-186.
+40 Direito Penal, Parte Geral, t. I, Coimbra, GestLegal, 2019, pp. 185-186.
 
-<sup>41</sup> Neste sentido, cf. Tiago Lopes de Azevedo, Lições de direito das contraordenações, Coimbra, Almedina, 2020, p. 34 e Augusto Silva Dias, Direito das Contraordenações, Coimbra, Almedina, 2020, p. 41.
+41 Neste sentido, cf. Tiago Lopes de Azevedo, Lições de direito das contraordenações, Coimbra, Almedina, 2020, p. 34 e Augusto Silva Dias, Direito das Contraordenações, Coimbra, Almedina, 2020, p. 41.
 
-<sup>42</sup> Assim, José de Faria Costa, Noções Fundamentais de Direito Penal (fragmenta iuris poenalis): Introdução, Coimbra, Coimbra Ed., 2007, pp. 29 e 46; Alexandra Vilela, O Direito de Mera Ordenação Social: Entre a Ideia de “Recorrência” e a de “Erosão” do Direito Penal Clássico, Coimbra, Coimbra Ed., 2013, pp. 157 e ss., 251 e 349 e ss., Nuno Brandão, Crimes e Contraordenações: da Cisão à Convergência Material, Coimbra, Coimbra Ed., 2016, pp. 863 e ss., e Cristina Líbano Monteiro, «Natureza e equívocos da sanção contra-ordenacional», RMP, N.º 155, jul.-set. 2018, pp. 102-105.
+42 Assim, José de Faria Costa, Noções Fundamentais de Direito Penal (fragmenta iuris poenalis): Introdução, Coimbra, Coimbra Ed., 2007, pp. 29 e 46; Alexandra Vilela, O Direito de Mera Ordenação Social: Entre a Ideia de “Recorrência” e a de “Erosão” do Direito Penal Clássico, Coimbra, Coimbra Ed., 2013, pp. 157 e ss., 251 e 349 e ss., Nuno Brandão, Crimes e Contraordenações: da Cisão à Convergência Material, Coimbra, Coimbra Ed., 2016, pp. 863 e ss., e Cristina Líbano Monteiro, «Natureza e equívocos da sanção contra-ordenacional», RMP, N.º 155, jul.-set. 2018, pp. 102-105.
 
-<sup>43</sup>Crimes e Contra-ordenações: da Cisão à Convergência Material, Coimbra, Coimbra Ed., 2016, p. 865.
+43Crimes e Contra-ordenações: da Cisão à Convergência Material, Coimbra, Coimbra Ed., 2016, p. 865.
 
-<sup>44</sup> Numa perspetiva de continuidade teleológica entre coima e pena, variando de acordo com a menor ou maior gravidade da conduta típica, cf. Cristina Líbano Monteiro, «Natureza e equívocos da sanção contra-ordenacional», loc. cit., pp. 102-105.
+44 Numa perspetiva de continuidade teleológica entre coima e pena, variando de acordo com a menor ou maior gravidade da conduta típica, cf. Cristina Líbano Monteiro, «Natureza e equívocos da sanção contra-ordenacional», loc. cit., pp. 102-105.
 
-<sup>45</sup>Mas assegurando “o direito ao recurso a um tribunal, o direito a uma tutela jurisdicional efetiva [...]” (assim, Nuno Brandão, Crimes e Contra-ordenações: da Cisão à Convergência Material, Coimbra, Coimbra Ed., 2016, pp. 875-877).
+45Mas assegurando “o direito ao recurso a um tribunal, o direito a uma tutela jurisdicional efetiva [...]” (assim, Nuno Brandão, Crimes e Contra-ordenações: da Cisão à Convergência Material, Coimbra, Coimbra Ed., 2016, pp. 875-877).
 
-<sup>46</sup> Neste sentido, a generalidade da doutrina de maior autoridade, de autores como Eduardo Correia, in «Direito Penal e de Mera ordenação Social», Boletim da Faculdade de Direito, XLIX, FDUC, Coimbra, 1973; José de Faria Costa, in «A importância da recorrência no pensamento jurídico. Um exemplo: a distinção entre o ilícito penal e o ilícito de mera ordenação social», in AA. VV., Direito Penal Económico: textos Doutrinários, Vol. I, Problemas Gerais, IDPEE-Coimbra Ed., Coimbra, 1998; Figueiredo Dias, in «O movimento de descriminalização e o ilícito de mera ordenação social», in AA. VV., Direito Penal Económico e Europeu: Textos Doutrinários - Volume I: Problemas Gerais, Coimbra, IDPEE-Coimbra Ed., 1998; Mário Ferreira Monte, in Lineamentos de Direito das Contraordenações, AEDUM, Braga, 2014; Manuel da Costa Andrade, in «Contributo para o conceito de contraordenação (a experiência alemã)», in AA. VV., Direito Penal Económico e Europeu: Textos Doutrinários - Volume I: Problemas Gerais, Coimbra, IDPEE-Coimbra Ed., 1998; Germano Marques da Silva, in Direito Penal Português, Parte Geral I, Introdução e Teoria da Lei Penal, Lisboa, Verbo, 2001; Miguel Pedrosa Machado, in «Elementos para o estudo da legislação portuguesa sobre contra-ordenações», in AA. VV., Direito Penal Económico e Europeu: Textos Doutrinários - Volume I: Problemas Gerais, Coimbra, IDPEE-Coimbra Ed., 1998; Alexandra Vilela, in O Direito de mera ordenação Social, entre a ideia de recorrência e a de erosão de um Direito Penal clássico, Coimbra, Coimbra Ed., 2013.
+46 Neste sentido, a generalidade da doutrina de maior autoridade, de autores como Eduardo Correia, in «Direito Penal e de Mera ordenação Social», Boletim da Faculdade de Direito, XLIX, FDUC, Coimbra, 1973; José de Faria Costa, in «A importância da recorrência no pensamento jurídico. Um exemplo: a distinção entre o ilícito penal e o ilícito de mera ordenação social», in AA. VV., Direito Penal Económico: textos Doutrinários, Vol. I, Problemas Gerais, IDPEE-Coimbra Ed., Coimbra, 1998; Figueiredo Dias, in «O movimento de descriminalização e o ilícito de mera ordenação social», in AA. VV., Direito Penal Económico e Europeu: Textos Doutrinários - Volume I: Problemas Gerais, Coimbra, IDPEE-Coimbra Ed., 1998; Mário Ferreira Monte, in Lineamentos de Direito das Contraordenações, AEDUM, Braga, 2014; Manuel da Costa Andrade, in «Contributo para o conceito de contraordenação (a experiência alemã)», in AA. VV., Direito Penal Económico e Europeu: Textos Doutrinários - Volume I: Problemas Gerais, Coimbra, IDPEE-Coimbra Ed., 1998; Germano Marques da Silva, in Direito Penal Português, Parte Geral I, Introdução e Teoria da Lei Penal, Lisboa, Verbo, 2001; Miguel Pedrosa Machado, in «Elementos para o estudo da legislação portuguesa sobre contra-ordenações», in AA. VV., Direito Penal Económico e Europeu: Textos Doutrinários - Volume I: Problemas Gerais, Coimbra, IDPEE-Coimbra Ed., 1998; Alexandra Vilela, in O Direito de mera ordenação Social, entre a ideia de recorrência e a de erosão de um Direito Penal clássico, Coimbra, Coimbra Ed., 2013.
 
-<sup>47</sup> Decorrente do artigo 6.º da Convenção Europeia dos Direitos Humanos, aplicável ao processo contraordenacional (Acórdão Ӧztürk c. Alemanha, TEDH, de 21-02-1984, em aplicação dos «critérios Engel» - Engel and Others v. The Netherlands, de 8.6.1976 - de definição de «acusação» como conceito de direito autónomo para efeitos da Convenção). Artigo 32.º («Garantias de processo criminal») da Constituição: «1. O processo criminal assegura todas as garantias de defesa, incluindo o recurso. [...] 10. Nos processos de contra-ordenação [...] são assegurados ao arguido os direitos de audiência e defesa.». Cfr., neste sentido, Ac. do TC n.º 145/2025, pontos 45 e ss.
+47 Decorrente do artigo 6.º da Convenção Europeia dos Direitos Humanos, aplicável ao processo contraordenacional (Acórdão Ӧztürk c. Alemanha, TEDH, de 21-02-1984, em aplicação dos «critérios Engel» - Engel and Others v. The Netherlands, de 8.6.1976 - de definição de «acusação» como conceito de direito autónomo para efeitos da Convenção). Artigo 32.º («Garantias de processo criminal») da Constituição: «1. O processo criminal assegura todas as garantias de defesa, incluindo o recurso. [...] 10. Nos processos de contra-ordenação [...] são assegurados ao arguido os direitos de audiência e defesa.». Cfr., neste sentido, Ac. do TC n.º 145/2025, pontos 45 e ss.
 
-<sup>48</sup> O qual dispõe: «5 - As disposições do presente Código, designadamente as garantias nele reconhecidas aos particulares, aplicam-se subsidiariamente aos procedimentos administrativos especiais.»
+48 O qual dispõe: «5 - As disposições do presente Código, designadamente as garantias nele reconhecidas aos particulares, aplicam-se subsidiariamente aos procedimentos administrativos especiais.»
 
-<sup>49</sup> Assim o Parecer do Conselho Consultivo da Procuradoria-Geral da República n.º 84/2007, em https://www.ministeriopublico.pt/pareceres-pgr/1677 e António Leones Dantas, Direito Processual das Contraordenações, Coimbra, Almedina, 2023, p. 20. Incluem-se nos procedimentos especiais os procedimentos dispersos em legislação administrativa, nomeadamente licenciamentos, loteamentos urbanos ou procedimentos concursais.
+49 Assim o Parecer do Conselho Consultivo da Procuradoria-Geral da República n.º 84/2007, em https://www.ministeriopublico.pt/pareceres-pgr/1677 e António Leones Dantas, Direito Processual das Contraordenações, Coimbra, Almedina, 2023, p. 20. Incluem-se nos procedimentos especiais os procedimentos dispersos em legislação administrativa, nomeadamente licenciamentos, loteamentos urbanos ou procedimentos concursais.
 
-<sup>50</sup> Sublinhando este ponto, Frederico Lacerda da Costa Pinto, «O ilícito de mera ordenação social e a erosão do princípio da subsidariedade da intervenção penal», in AA. VV., Direito Penal Económico e Europeu: Textos Doutrinários - Volume I: Problemas Gerais, Coimbra, IDPEE-Coimbra Ed., 1998, p. 213.
+50 Sublinhando este ponto, Frederico Lacerda da Costa Pinto, «O ilícito de mera ordenação social e a erosão do princípio da subsidariedade da intervenção penal», in AA. VV., Direito Penal Económico e Europeu: Textos Doutrinários - Volume I: Problemas Gerais, Coimbra, IDPEE-Coimbra Ed., 1998, p. 213.
 
-<sup>51</sup> Cfr. preâmbulo do diploma, disponível em: https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1979-382233.
+51 Cfr. preâmbulo do diploma, disponível em: https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1979-382233.
 
-<sup>52</sup> Salvo se a decisão exequenda tivesse sido proferida pelo Tribunal da Relação, caso em que poderia ser promovida perante o tribunal de comarca do domicílio do executado.
+52 Salvo se a decisão exequenda tivesse sido proferida pelo Tribunal da Relação, caso em que poderia ser promovida perante o tribunal de comarca do domicílio do executado.
 
-<sup>53</sup> Cuja redação redação, então vigente, na sequência das alterações introduzidas pelo [Decreto-Lei n.º 377/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-1977-286362), de 6 de setembro, era a seguinte: «Findo o prazo de pagamento da multa ou de alguma das prestações sem que o réu efetue o pagamento, procede-se à execução patrimonial nos termos seguintes: 1.º Tendo o réu bens suficientes e desembaraçados de que o tribunal tenha conhecimento ou que o réu indique no prazo de pagamento, comprovando a sua titularidade, o Ministério Público promoverá logo a execução, que seguirá nos termos das execuções por custas, com observância do disposto no artigo 1696.º do Código Civil; 2.º Responderão sempre pelo pagamento da multa todos os instrumentos utilizados na prática da infração e os seus produtos, salvo os que pela prática da infração ficarem perdidos para o Estado e os que, pertencendo a terceiro, tiverem sido utilizados sem o seu conhecimento ou contra a sua vontade. Para os efeitos do disposto neste número, poderão ser apreendidos os instrumentos e produtos, sempre que os infratores não garantam de modo adequado o pagamento da multa provável. São nulos os atos de disposição dos referidos instrumentos e produtos, levados a efeito após a prática da infração, que prejudiquem o pagamento da multa, ressalvando-se os direitos dos adquirentes de boa-fé, conforme o estipulado na lei civil», disponível em: https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-1977-286362
+53 Cuja redação redação, então vigente, na sequência das alterações introduzidas pelo [Decreto-Lei n.º 377/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-1977-286362), de 6 de setembro, era a seguinte: «Findo o prazo de pagamento da multa ou de alguma das prestações sem que o réu efetue o pagamento, procede-se à execução patrimonial nos termos seguintes: 1.º Tendo o réu bens suficientes e desembaraçados de que o tribunal tenha conhecimento ou que o réu indique no prazo de pagamento, comprovando a sua titularidade, o Ministério Público promoverá logo a execução, que seguirá nos termos das execuções por custas, com observância do disposto no artigo 1696.º do Código Civil; 2.º Responderão sempre pelo pagamento da multa todos os instrumentos utilizados na prática da infração e os seus produtos, salvo os que pela prática da infração ficarem perdidos para o Estado e os que, pertencendo a terceiro, tiverem sido utilizados sem o seu conhecimento ou contra a sua vontade. Para os efeitos do disposto neste número, poderão ser apreendidos os instrumentos e produtos, sempre que os infratores não garantam de modo adequado o pagamento da multa provável. São nulos os atos de disposição dos referidos instrumentos e produtos, levados a efeito após a prática da infração, que prejudiquem o pagamento da multa, ressalvando-se os direitos dos adquirentes de boa-fé, conforme o estipulado na lei civil», disponível em: https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-1977-286362
 
-<sup>54</sup> Nessa data, a versão aprovada pelo [Decreto-Lei n.º 44329](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44329-1962-545666), de 8 de maio de 1962, encontrando-se o preceito inserido sistematicamente em II Parte Criminal.
+54 Nessa data, a versão aprovada pelo [Decreto-Lei n.º 44329](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44329-1962-545666), de 8 de maio de 1962, encontrando-se o preceito inserido sistematicamente em II Parte Criminal.
 
-<sup>55</sup> Entretanto alterado pela Declaração de 6 de janeiro de 1983; pelo [Decreto-Lei n.º 356/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1989-549005), de 17 de outubro; pela Declaração de 31 de outubro de 1989; pelo [Decreto-Lei n.º 244/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1995-563986), de 14 de setembro; pelo [Decreto-Lei n.º 323/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216), de 17 de dezembro; pela [Lei n.º 109/2001](https://diariodarepublica.pt/dr/detalhe/lei/109-2001-536642), de 24 de dezembro; e pelo [Decreto-Lei n.º 91/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2024-897548402), de 22 de novembro.
+55 Entretanto alterado pela Declaração de 6 de janeiro de 1983; pelo [Decreto-Lei n.º 356/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1989-549005), de 17 de outubro; pela Declaração de 31 de outubro de 1989; pelo [Decreto-Lei n.º 244/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1995-563986), de 14 de setembro; pelo [Decreto-Lei n.º 323/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216), de 17 de dezembro; pela [Lei n.º 109/2001](https://diariodarepublica.pt/dr/detalhe/lei/109-2001-536642), de 24 de dezembro; e pelo [Decreto-Lei n.º 91/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2024-897548402), de 22 de novembro.
 
-<sup>56</sup> Disponível em https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273.
+56 Disponível em https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273.
 
-<sup>57</sup> Cuja redação era a seguinte:
+57 Cuja redação era a seguinte:
 
 ###### Artigo 89.º — (Execução)
 
@@ -793,40 +897,42 @@ f) Quaisquer outras indicações úteis para o eficaz seguimento da execução.
 
 4 - [...].
 
-<sup>58</sup> Artigo 116.º, n.º 1: «O Ministério Público instaurará execução se ao devedor de custas ou multas forem conhecidos bens penhoráveis.» e artigo 117.º, n.º 1: «As execuções por custas, multas e outros valores contados são instaurados por apenso ao processo em que teve lugar a notificação para pagamento, autuando-se o requerimento inicial e observando-se os demais termos do processo sumário.»
+58 Artigo 116.º, n.º 1: «O Ministério Público instaurará execução se ao devedor de custas ou multas forem conhecidos bens penhoráveis.» e artigo 117.º, n.º 1: «As execuções por custas, multas e outros valores contados são instaurados por apenso ao processo em que teve lugar a notificação para pagamento, autuando-se o requerimento inicial e observando-se os demais termos do processo sumário.»
 
-<sup>59</sup> Artigo 35.º, n.º 1: «Não tendo sido possível obter-se o pagamento das custas, multas e outras quantias cobradas de acordo com os artigos anteriores, é entregue certidão da liquidação da conta de custas ao Ministério público, para efeitos executivos, quando se conclua pela existência de bens penhoráveis.»
+59 Artigo 35.º, n.º 1: «Não tendo sido possível obter-se o pagamento das custas, multas e outras quantias cobradas de acordo com os artigos anteriores, é entregue certidão da liquidação da conta de custas ao Ministério público, para efeitos executivos, quando se conclua pela existência de bens penhoráveis.»
 
-<sup>60</sup> Cfr. Diário da República, 2.ª série, Parte D, N.º 192, de 01-10-2021.
+60 Cfr. Diário da República, 2.ª série, Parte D, N.º 192, de 01-10-2021.
 
-<sup>61</sup> Cfr. o texto inicial em: https://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6d4a684e446b335a4451744e54677a4e6930304d5759784c546b344e474d745a6a526b4d4467774f4456694e3251354c6d527659773d3d&fich=fba497d4-5836-41f1-984c-f4d08085b7d9.doc&Inline=true
+61 Cfr. o texto inicial em: https://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6d4a684e446b335a4451744e54677a4e6930304d5759784c546b344e474d745a6a526b4d4467774f4456694e3251354c6d527659773d3d&fich=fba497d4-5836-41f1-984c-f4d08085b7d9.doc&Inline=true
 
-<sup>62</sup> Cfr., https://app.parlamento.pt/webutils/docs/doc.pdf?path=Ur291g%252bZIOF9V7afXUEpOVSZcAOmtERoWXotBkdESdAqT35bfmMy45XNjjHnoH02RHOMUe6XjpW2nF%252f8pQAwIEgdVXLXhAdyb%252fz64lSJyWeTASB%252fPGJIzMcpQRfCjE8h53Itmj8S5TXoTSzPfsCOR%252fkYjT0kzyVEE5nk6tlcLDSXpYpjNrx5u1vg1Fyi5Xfel1%252bRLA9MOSR4VyFDUHLxplojpfKis6qcGmYM9yU%252fvd3OBRzeQy61Q%252bTzheyJvMw6yvRDI%252ffFMtBYsLloXLNSmK4a1R%252bboeAVxO9kfAgDFIw8N0LVgQXB1AUSszuPc6%252baAUGlHTVSJul%252bBVa5oY4fmHYZiKSR5gcf7zKR%252bdnsKP7Yin7Oj8NRrpzkrLMlCW6B8zE0phARJFstgYVcOt89qw%253d%253d&fich=ec7c9c44-b5a0-442a-b9cb-604fe822dbfe.pdf&Inline=true (pp. 3 e 4).
+62 Cfr., https://app.parlamento.pt/webutils/docs/doc.pdf?path=Ur291g%252bZIOF9V7afXUEpOVSZcAOmtERoWXotBkdESdAqT35bfmMy45XNjjHnoH02RHOMUe6XjpW2nF%252f8pQAwIEgdVXLXhAdyb%252fz64lSJyWeTASB%252fPGJIzMcpQRfCjE8h53Itmj8S5TXoTSzPfsCOR%252fkYjT0kzyVEE5nk6tlcLDSXpYpjNrx5u1vg1Fyi5Xfel1%252bRLA9MOSR4VyFDUHLxplojpfKis6qcGmYM9yU%252fvd3OBRzeQy61Q%252bTzheyJvMw6yvRDI%252ffFMtBYsLloXLNSmK4a1R%252bboeAVxO9kfAgDFIw8N0LVgQXB1AUSszuPc6%252baAUGlHTVSJul%252bBVa5oY4fmHYZiKSR5gcf7zKR%252bdnsKP7Yin7Oj8NRrpzkrLMlCW6B8zE0phARJFstgYVcOt89qw%253d%253d&fich=ec7c9c44-b5a0-442a-b9cb-604fe822dbfe.pdf&Inline=true (pp. 3 e 4).
 
-<sup>63</sup> Cfr., https://app.parlamento.pt/webutils/docs/doc.pdf?path=3Ccjq3v9FhSvA7zZMdp9%252bgWHFTTfFCwK34GUGj%252fx75ozn3uo6tctDCvT5aIk8Oz2ENf2vfN8tiPg8F3e77%252bsD5aZltPIoIgktaqv5qVwaUMmn%252fLF22KPmQz6NzdxF1jF4vVMsM5eOOWB3ZjbWO5jqvNaiJou56oHkWjYnr8gp6H0XX7CMpsUGHnvRdcoIm%252bx6l02DB3GhC2pHVMbNZvuGoz5rJttJewuDdG2gogoDeJ894oZqiABcBJ8zbRMOpztbp3sS%252f354vucIWTXwgYTocexgMERAodYsByWmx3xNdztWUXbaZ1dEOKVtePr9TEgMOag5KcrhI5douWZov1Wo%252bBerOvwUXNRZRkL5jCacNEFeQC2V4LLQZaebUn%252fkESlZB09ANmjziX42EddTjxjIWx83qRdWPFmarc8ljAJei4%253d&fich=d67ffb80-1d7d-410c-8eaf-b68996f1d17d.pdf&Inline=true (pp. 22 a 24).
+63 Cfr., https://app.parlamento.pt/webutils/docs/doc.pdf?path=3Ccjq3v9FhSvA7zZMdp9%252bgWHFTTfFCwK34GUGj%252fx75ozn3uo6tctDCvT5aIk8Oz2ENf2vfN8tiPg8F3e77%252bsD5aZltPIoIgktaqv5qVwaUMmn%252fLF22KPmQz6NzdxF1jF4vVMsM5eOOWB3ZjbWO5jqvNaiJou56oHkWjYnr8gp6H0XX7CMpsUGHnvRdcoIm%252bx6l02DB3GhC2pHVMbNZvuGoz5rJttJewuDdG2gogoDeJ894oZqiABcBJ8zbRMOpztbp3sS%252f354vucIWTXwgYTocexgMERAodYsByWmx3xNdztWUXbaZ1dEOKVtePr9TEgMOag5KcrhI5douWZov1Wo%252bBerOvwUXNRZRkL5jCacNEFeQC2V4LLQZaebUn%252fkESlZB09ANmjziX42EddTjxjIWx83qRdWPFmarc8ljAJei4%253d&fich=d67ffb80-1d7d-410c-8eaf-b68996f1d17d.pdf&Inline=true (pp. 22 a 24).
 
-<sup>64</sup> Cfr., https://app.parlamento.pt/webutils/docs/doc.pdf?path=1JMBgZu2elmSEXLYVM5eXUwDwEMvck%252fT2ueCfm8rxoz%252be60mv%252frFAHRVtNo0mBBfCz%252braKeWtz8GvPniiJ4so5y959NHu0xU354y5vh%252fFxqSq5DdlmlbjopNHJLxSXKvRBCIm0N6GyqTw%252bRHBUwiJm6cqNVhxOZUBhMWVrULuDJtJcuIwz%252b8tjr5eCqifKSzys4gBhPPMGLRwJUl6UenuuCjujtk0NmwwNJmznfOm5GlyUSTZfU4aDaTQpbfO8FJfwwBakdOMyCCuEDwGqCEbR%252fCiYbTtDTVjqZrPiitogyqOGcTeiAQKu%252btFmkPsA8MLfISsZf0k3N9PgHyDFH3i8aaXU0Dm1nlbFDk3ANYQGom7dcMFNoUemwYdJyHaH0JbJL4rPDSlLNDqvD41NNi7Ji4RaIoa1zf0CjFNMCeRZQ%253d&fich=bda1c126-4262-4dc9-b095-693ebeddf559.pdf&Inline=true
+64 Cfr., https://app.parlamento.pt/webutils/docs/doc.pdf?path=1JMBgZu2elmSEXLYVM5eXUwDwEMvck%252fT2ueCfm8rxoz%252be60mv%252frFAHRVtNo0mBBfCz%252braKeWtz8GvPniiJ4so5y959NHu0xU354y5vh%252fFxqSq5DdlmlbjopNHJLxSXKvRBCIm0N6GyqTw%252bRHBUwiJm6cqNVhxOZUBhMWVrULuDJtJcuIwz%252b8tjr5eCqifKSzys4gBhPPMGLRwJUl6UenuuCjujtk0NmwwNJmznfOm5GlyUSTZfU4aDaTQpbfO8FJfwwBakdOMyCCuEDwGqCEbR%252fCiYbTtDTVjqZrPiitogyqOGcTeiAQKu%252btFmkPsA8MLfISsZf0k3N9PgHyDFH3i8aaXU0Dm1nlbFDk3ANYQGom7dcMFNoUemwYdJyHaH0JbJL4rPDSlLNDqvD41NNi7Ji4RaIoa1zf0CjFNMCeRZQ%253d&fich=bda1c126-4262-4dc9-b095-693ebeddf559.pdf&Inline=true
 
-<sup>65</sup>Cfr., DAR, 1.ª série, de 05-01-2029, N.º 35, pp. 16 a 23. Disponível em: https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/035/2019-01-04/1?pgs=17-18&org=PLC&plcdf=true.
+65Cfr., DAR, 1.ª série, de 05-01-2029, N.º 35, pp. 16 a 23. Disponível em: https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/035/2019-01-04/1?pgs=17-18&org=PLC&plcdf=true.
 
-<sup>66</sup> A especificidade e autonomia das coimas e sanções decorrentes da atividade económica, face aos demais ilícitos contraordenacionais foi o que justificou o estabelecimento de um regime próprio, não só em matéria de execução de coimas, como em outras matérias.
+66 A especificidade e autonomia das coimas e sanções decorrentes da atividade económica, face aos demais ilícitos contraordenacionais foi o que justificou o estabelecimento de um regime próprio, não só em matéria de execução de coimas, como em outras matérias.
 
-<sup>67</sup> Para melhor compreensão do RGCE, registe-se que em tal Preâmbulo se alude à circunstância de, à data do diploma, existirem diversos regimes sancionatórios que regulavam a atividade económica, com grande disparidade entre si, e para a necessidade de aprovação de um regime jurídico para as contraordenações económicas «que estabeleça um procedimento comum e que garanta a proporcionalidade das coimas e sanções acessórias aplicáveis, que reconheça a sua especificidade e autonomia face aos demais ilícitos contraordenacionais, com o objetivo de garantir maior segurança jurídica e uniformizar e consolidar o regime contraordenacional aplicável em matéria de acesso e exercício de atividades económicas.»
+67 Para melhor compreensão do RGCE, registe-se que em tal Preâmbulo se alude à circunstância de, à data do diploma, existirem diversos regimes sancionatórios que regulavam a atividade económica, com grande disparidade entre si, e para a necessidade de aprovação de um regime jurídico para as contraordenações económicas «que estabeleça um procedimento comum e que garanta a proporcionalidade das coimas e sanções acessórias aplicáveis, que reconheça a sua especificidade e autonomia face aos demais ilícitos contraordenacionais, com o objetivo de garantir maior segurança jurídica e uniformizar e consolidar o regime contraordenacional aplicável em matéria de acesso e exercício de atividades económicas.»
 
-<sup>68</sup> Assim, Raúl Soares da Veiga, «As Grandes Contraordenações - Em Vésperas da Continuação de Uma Reforma iniciada Auspiciosamente pelo Novo Regime das Contraordenações Económicas», em Professor Doutor Augusto Silva Dias, In Memoriam, Volume II, CIDPCC, IDPCC, Lisboa, AAFDL Editora, pp. 627 e ss.
+68 Assim, Raúl Soares da Veiga, «As Grandes Contraordenações - Em Vésperas da Continuação de Uma Reforma iniciada Auspiciosamente pelo Novo Regime das Contraordenações Económicas», em Professor Doutor Augusto Silva Dias, In Memoriam, Volume II, CIDPCC, IDPCC, Lisboa, AAFDL Editora, pp. 627 e ss.
 
-<sup>69</sup> Assim, cf. Tiago Lopes de Azevedo, Lições de Direito das Contraordenações, Coimbra, Almedina, 2023, pp. 45 e 46.
+69 Assim, cf. Tiago Lopes de Azevedo, Lições de Direito das Contraordenações, Coimbra, Almedina, 2023, pp. 45 e 46.
 
-<sup>70</sup> Tendo a sua última e atual redação conferida pelo artigo 2.º da [Lei n.º 27/2019](https://diariodarepublica.pt/dr/detalhe/lei/27-2019-121665678), de 28 de março.
+70 Tendo a sua última e atual redação conferida pelo artigo 2.º da [Lei n.º 27/2019](https://diariodarepublica.pt/dr/detalhe/lei/27-2019-121665678), de 28 de março.
 
-<sup>71</sup> Aditada ao preceito pelo art. 3.º da [Lei n.º 27/2019](https://diariodarepublica.pt/dr/detalhe/lei/27-2019-121665678).
+71 Aditada ao preceito pelo art. 3.º da [Lei n.º 27/2019](https://diariodarepublica.pt/dr/detalhe/lei/27-2019-121665678).
 
-<sup>72</sup> Sendo certo que as “coimas tributárias” estavam já contempladas nas alíneas b) e c) do n.º 1 do art. 148.º do CPPT, antes da alteração da [Lei n.º 27/2019](https://diariodarepublica.pt/dr/detalhe/lei/27-2019-121665678).
+72 Sendo certo que as “coimas tributárias” estavam já contempladas nas alíneas b) e c) do n.º 1 do art. 148.º do CPPT, antes da alteração da [Lei n.º 27/2019](https://diariodarepublica.pt/dr/detalhe/lei/27-2019-121665678).
 
-<sup>73</sup> Além dos tribunais de competência territorial alargada, existem 23 comarcas (art. 3.º do [Decreto-Lei n.º 49/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2014-571615)), cujo tribunal se desdobra em juízos de competência especializada e genérica previstos nos artigos 64.º e 66.º a 102.º da [Decreto-Lei n.º 49/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2014-571615).
+73 Além dos tribunais de competência territorial alargada, existem 23 comarcas (art. 3.º do [Decreto-Lei n.º 49/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2014-571615)), cujo tribunal se desdobra em juízos de competência especializada e genérica previstos nos artigos 64.º e 66.º a 102.º da [Decreto-Lei n.º 49/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2014-571615).
 
 Lisboa, Supremo Tribunal de Justiça, 12 de março de 2026. - (Texto elaborado e informaticamente editado, integralmente revisto pelo relator, sendo eletronicamente assinado pelo próprio e pelos Senhores Juízes Conselheiros e Juízas Conselheiras da secções criminais do STJ - art. 94.º, n.os 2 e 3, do CPP) Os Juízes Conselheiros: Jorge dos Reis Bravo (relator) - Celso José das Neves Manata - Antero Luís - Horácio Correia Pinto - António Augusto Manso - José Alberto Vaz Carreto - Carlos Alberto Gameiro de Campos Lobo (com declaração que se anexa) - Jorge Manuel Ortins de Simões Raposo - Maria Margarida Costa Pereira Ramos de Almeida - Jorge Manuel de Miranda Natividade Jacob - José Joaquim Aniceto Piedade - Ernesto de Jesus Deus Nascimento - Maria da Graça Martins Pontes dos Santos Silva - Adelina da Conceição Cardoso Barradas de Oliveira - Pedro Álvaro de Sousa Donas Botto Fernando - Helena Isabel Gonçalves Moniz Falcão de Oliveira - José Luís Lopes da Mota - Nuno António Gonçalves - Fernando Vaz Ventura - Jorge Manuel Baptista Gonçalves - Heitor Bernardo Cardoso Vasques Osório.
 
 Declaração do Senhor juiz Conselheiro Carlos Alberto Gameiro de Campos Lobo
 
 «Pese embora posicionamento anterior em sentido diferente do aqui vertido, por mim perfilhado, ante a argumentação e fundamentação esgrimidas, que me convencem, adiro à solução decorrente do presente AFJ.»
+
+119948210

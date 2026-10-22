@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44159-1962-520198
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-01-18T00:00:00Z'
+  retrieved_at: '2026-10-22T19:27:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e1f2f7bd3717ef397100d8dbe1b0d5f5d12850695ece5f6bbfa5ba288ad6261
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50b9f91d808560c6a91221c0f3359757b8f006d855589f5ab9a3c8a94628b0f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:27:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:172892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624637:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:27:53Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +171,7 @@ Ouvido o Conselho Ultramarino:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os governadores das províncias ultramarinas poderão autorizar a criação, dentro dos quadros do ensino oficial ou particular, de institutos de educação e serviço social, nos termos do presente diploma.
+Artigo 1.º Os governadores das províncias ultramarinas poderão autorizar a criação, dentro dos quadros do ensino oficial ou particular, de institutos de educação e serviço social, nos termos do presente diploma.
 
 § 1.º Destinam-se estes institutos à formação de:
 
@@ -171,7 +191,7 @@ e) Monitoras de infância.
 
 § 4.º A fundação, inauguração e funcionamento dos estabelecimentos particulares depende da autorização do Governo da província, sob proposta fundamentada, em que se mencionem, pelo menos, os elementos seguintes: instalações adequadas para o funcionamento da escola, cursos professados, frequência máxima prevista, com indicação do sexo dos alunos, do nome do director e constituição do corpo docente, cobertura das despesas necessárias ao regular exercício das actividades escolares e indicação dos estabelecimentos, oficiais ou particulares, em que os alunos prestarão o estágio.
 
-###### Art. 2.º Os institutos gozarão de autonomia técnica e administrativa, sem prejuízo da orientação e fiscalização que incumbem aos serviços oficiais de ensino, saúde e assistência social.
+Art. 2.º Os institutos gozarão de autonomia técnica e administrativa, sem prejuízo da orientação e fiscalização que incumbem aos serviços oficiais de ensino, saúde e assistência social.
 
 § 1.º A autonomia técnica traduz-se na livre orientação e organização do ensino, na indicação do pessoal docente e na possibilidade de serem tomadas iniciativas próprias para o desenvolvimento e aperfeiçoamento dos alunos.
 
@@ -185,7 +205,7 @@ e) Monitoras de infância.
 
 § 6.º A orientação e fiscalização dos serviços de assistência social incidirão especialmente na verificação da idoneidade dos dirigentes, do corpo docente e do pessoal administrativo, na regulamentação interna do funcionamento da escola, na fiscalização da regularidade de admissão, frequência e cadastro dos alunos, na determinação da área de acção de cada instituto e na informação no prazo de 30 dias, a contar da entrada do requerimento, em que se solicite a criação de estabelecimentos particulares.
 
-###### Art. 3.º Nos institutos de educação e serviço social poderão funcionar, singular ou cumulativamente, os seguintes cursos:
+Art. 3.º Nos institutos de educação e serviço social poderão funcionar, singular ou cumulativamente, os seguintes cursos:
 
 a) Curso normal de serviço social;
 
@@ -201,15 +221,15 @@ c) Curso normal de educação infantil.
 
 § 4.º As habilitações mínimas exigidas para a frequência dos cursos normais serão as seguintes ou equivalentes: assistentes sociais, 3.º ciclo dos liceus; educadores sociais e educadores de infância, 2.º ciclo dos liceus; monitoras de família e monitoras de infância, 1.º ciclo dos liceus.
 
-###### Art. 4.º Nos institutos poderão funcionar cursos extraordinários de aperfeiçoamento, destinados aos regentes de acção social que, em virtude das funções que exerçam, tenham necessidade de renovar ou actualizar os seus conhecimentos; e cursos extraordinários de formação, destinados à preparação de agentes de trabalho social, de educação familiar e de educação infantil, para actividades educativas e culturais a desenvolver em bairros populares, nos movimentos de organização das comunidades e em brigadas móveis de acção social.
+Art. 4.º Nos institutos poderão funcionar cursos extraordinários de aperfeiçoamento, destinados aos regentes de acção social que, em virtude das funções que exerçam, tenham necessidade de renovar ou actualizar os seus conhecimentos; e cursos extraordinários de formação, destinados à preparação de agentes de trabalho social, de educação familiar e de educação infantil, para actividades educativas e culturais a desenvolver em bairros populares, nos movimentos de organização das comunidades e em brigadas móveis de acção social.
 
 § único. Os cursos de aperfeiçoamento terão a duração de um a dois meses de ensino contínuo ou fraccionado, nos períodos de férias ou em cursos diurnos e nocturnos, conforme as circunstâncias aconselharem; e os cursos de formação compreendem um ano lectivo, exigindo a habilitação mínima do 1.º ciclo dos liceus ou equivalente.
 
-###### Art. 5.º Os cursos constarão de estudos teóricos e práticos, de visitas de estudo e de relatórios dos alunos. Os estudos teóricos visarão a vida física e suas perturbações, a vida social, mental e moral e a técnica da profissão. Os estudos práticos revestirão a forma de aulas práticas e de estágios em serviços e estabelecimentos adequados à natureza dos respectivos cursos.
+Art. 5.º Os cursos constarão de estudos teóricos e práticos, de visitas de estudo e de relatórios dos alunos. Os estudos teóricos visarão a vida física e suas perturbações, a vida social, mental e moral e a técnica da profissão. Os estudos práticos revestirão a forma de aulas práticas e de estágios em serviços e estabelecimentos adequados à natureza dos respectivos cursos.
 
 § único. O plano de estudos, em conformidade com este diploma, assim como os programas, serão fixados em portaria conjunta dos Ministros do Ultramar e da Educação Nacional.
 
-###### Art. 6.º São condições para admissão nos cursos normais e extraordinários de formação dos institutos, tanto oficiais como particulares: idade não inferior a 18 anos; robustez física e mais condições necessárias ao exercício da profissão, reconhecidas pelos serviços de saúde; habilitações literárias comprovadas documentalmente; comportamento moral e civil irrepreensíveis.
+Art. 6.º São condições para admissão nos cursos normais e extraordinários de formação dos institutos, tanto oficiais como particulares: idade não inferior a 18 anos; robustez física e mais condições necessárias ao exercício da profissão, reconhecidas pelos serviços de saúde; habilitações literárias comprovadas documentalmente; comportamento moral e civil irrepreensíveis.
 
 § 1.º Podem ser admitidos, quando requerida a frequência dos cursos normais e extraordinários, os candidatos com idade não inferior a 15 anos, mediante autorização do director do instituto, ponderadas as circunstâncias de cada caso e nas condições que forem fixadas, não podendo ser concedidos os diplomas respectivos antes de atingida a idade mínima estabelecida no corpo deste artigo.
 
@@ -221,21 +241,21 @@ b) Aproximação da idade mínima exigida;
 
 c) O facto de o candidato pertencer a família mais numerosa.
 
-###### Art. 7.º Os monitores familiares e monitores de infância poderão ser admitidos à frequência dos cursos de educadores sociais e de educadores de infância desde que tenham três anos de efectivo exercício profissional, boas informações de serviço e sejam sujeitos a provas de aptidão, observados os mais requisitos indispensáveis à admissão.
+Art. 7.º Os monitores familiares e monitores de infância poderão ser admitidos à frequência dos cursos de educadores sociais e de educadores de infância desde que tenham três anos de efectivo exercício profissional, boas informações de serviço e sejam sujeitos a provas de aptidão, observados os mais requisitos indispensáveis à admissão.
 
-###### Art. 8.º Os educadores sociais e educadores de infância, com dois anos de efectivo exercício profissional, boas informações de serviço e mediante provas de aptidão, poderão ser admitidos à frequência do curso de assistentes sociais, observados os mais requisitos indispensáveis à admissão.
+Art. 8.º Os educadores sociais e educadores de infância, com dois anos de efectivo exercício profissional, boas informações de serviço e mediante provas de aptidão, poderão ser admitidos à frequência do curso de assistentes sociais, observados os mais requisitos indispensáveis à admissão.
 
-###### Art. 9.º Os cursos extraordinários de formação conferem diploma assegurando aos seus titulares, respeitadas as habilitações mínimas exigidas, preferência na admissão aos cursos normais e na admissão em serviços oficiais de saúde e assistência, em instituições de previdência social e em instituições particulares de assistência subsidiadas pelo Estado, por corpos e corporações administrativas e por organismos corporativos e de coordenação económica.
+Art. 9.º Os cursos extraordinários de formação conferem diploma assegurando aos seus titulares, respeitadas as habilitações mínimas exigidas, preferência na admissão aos cursos normais e na admissão em serviços oficiais de saúde e assistência, em instituições de previdência social e em instituições particulares de assistência subsidiadas pelo Estado, por corpos e corporações administrativas e por organismos corporativos e de coordenação económica.
 
-###### Art. 10.º O aproveitamento dos alunos será, em cada instituto, verificado anualmente por meio de provas prestadas perante os respectivos júris de exame, não podendo ser concedido o certificado final sem a aprovação em todas as matérias do curso frequentado.
+Art. 10.º O aproveitamento dos alunos será, em cada instituto, verificado anualmente por meio de provas prestadas perante os respectivos júris de exame, não podendo ser concedido o certificado final sem a aprovação em todas as matérias do curso frequentado.
 
-###### Art. 11.º O acto final do curso de assistência social só poderá realizar-se após dois anos, pelo menos, de trabalho profissional efectivo, e consistirá na defesa de uma dissertação sobre qualquer matéria versada nas disciplinas do instituto.
+Art. 11.º O acto final do curso de assistência social só poderá realizar-se após dois anos, pelo menos, de trabalho profissional efectivo, e consistirá na defesa de uma dissertação sobre qualquer matéria versada nas disciplinas do instituto.
 
 Na elaboração desta dissertação o candidato será orientado por um professor do instituto, sem cujo consentimento não deverá apresentar-se a acto.
 
 § único. Os profissionais habilitados com o acto final do curso de assistente social terão preferência no provimento de lugares que impliquem funções de direcção e de exercício do professorado nos institutos.
 
-###### Art. 12.º A administração dos institutos compete ao respectivo director, assistido por subdirectores e pelo conselho escolar.
+Art. 12.º A administração dos institutos compete ao respectivo director, assistido por subdirectores e pelo conselho escolar.
 
 § 1.º O director será indivíduo idóneo, de nacionalidade portuguesa, habilitado de preferência com o curso de assistente social, ou outro curso superior ou equiparado, e possuindo formação e experiência adequadas às responsabilidades pedagógicas.
 
@@ -267,11 +287,11 @@ Na elaboração desta dissertação o candidato será orientado por um professor
 
 § 5.º O assistente eclesiástico será designado pela autoridade eclesiástica competente.
 
-###### Art. 13.º Havendo na província instituto de educação e serviço social, oficial ou particular, reunir-se-á, pelo menos em períodos bienais, o conselho de educação e serviço social para estudar e propor a revisão dos planos de estudo e programas dos cursos, em conformidade com a evolução económica e social da província, as necessidades de recrutamento dos agentes de acção social e a coordenação da técnica social no plano internacional, de harmonia com a tradição cristã do povo português.
+Art. 13.º Havendo na província instituto de educação e serviço social, oficial ou particular, reunir-se-á, pelo menos em períodos bienais, o conselho de educação e serviço social para estudar e propor a revisão dos planos de estudo e programas dos cursos, em conformidade com a evolução económica e social da província, as necessidades de recrutamento dos agentes de acção social e a coordenação da técnica social no plano internacional, de harmonia com a tradição cristã do povo português.
 
 § único. Este conselho é constituído pelos membros dos conselhos escolares dos institutos e por agentes de acção social em exercício na província que, para o efeito, se inscrevam.
 
-###### Art. 14.º O quadro do pessoal necessário a cada instituto será fixado pela direcção e constará do respectivo orçamento.
+Art. 14.º O quadro do pessoal necessário a cada instituto será fixado pela direcção e constará do respectivo orçamento.
 
 § 1.º O pessoal com direito a vencimento será admitido nos termos da lei.
 
@@ -279,21 +299,21 @@ Na elaboração desta dissertação o candidato será orientado por um professor
 
 § 3.º O conselho escolar poderá convidar especialistas, nacionais ou estrangeiros, a fazerem parte do corpo docente.
 
-###### Art. 15.º Os agentes de acção social são obrigados à observância do segredo profissional relativamente aos factos de que tiverem conhecimento exclusivamente em virtude do exercício da profissão, ressalvados os factos que sejam conhecidos no desempenho de funções determinadas por lei, ou por superiores hierárquicos, sempre que a sua comunicação seja necessária à realização dos fins de protecção e auxílio social.
+Art. 15.º Os agentes de acção social são obrigados à observância do segredo profissional relativamente aos factos de que tiverem conhecimento exclusivamente em virtude do exercício da profissão, ressalvados os factos que sejam conhecidos no desempenho de funções determinadas por lei, ou por superiores hierárquicos, sempre que a sua comunicação seja necessária à realização dos fins de protecção e auxílio social.
 
-###### Art. 16.º Aos alunos pobres, com bom aproveitamento e enquanto o tiverem, poderão ser concedidas bolsas de estudo, ficando obrigados os bolseiros, em contrato devidamente aprovado, a prestar, consoante a duração da bolsa, dois ou mais anos de bom e efectivo serviço na província respectiva, sob pena de reembolso da totalidade das importâncias a esse título recebidas.
+Art. 16.º Aos alunos pobres, com bom aproveitamento e enquanto o tiverem, poderão ser concedidas bolsas de estudo, ficando obrigados os bolseiros, em contrato devidamente aprovado, a prestar, consoante a duração da bolsa, dois ou mais anos de bom e efectivo serviço na província respectiva, sob pena de reembolso da totalidade das importâncias a esse título recebidas.
 
 § 1.º Cessa o direito à bolsa de estudo quando o candidato não tenha efectuado a matrícula, não tenha aproveitamento escolar ou tenha deixado de possuir bom comportamento moral e civil.
 
 § 2.º O direito à concessão de bolsa de estudo será mantido se a falta de aproveitamento escolar for motivada por doença grave temporária, devidamente comprovada pela junta de saúde, ou em virtude de cumprimento do serviço militar obrigatório.
 
-###### Art. 17.º Constituem receitas dos institutos os subsídios ou comparticipações concedidos pelo orçamento geral da província, pelos orçamentos privativos dos corpos e corporações administrativas e dos organismos corporativos e de coordenação económica, os donativos recebidos de quaisquer entidades, os rendimentos estabelecidos nos respectivos regulamentos, as indemnizações de expediente pela inobservância de prazos, faltas a exames e outros actos semelhantes e, bem assim, as receitas diversas provenientes de actividades circum-escolares ou outras.
+Art. 17.º Constituem receitas dos institutos os subsídios ou comparticipações concedidos pelo orçamento geral da província, pelos orçamentos privativos dos corpos e corporações administrativas e dos organismos corporativos e de coordenação económica, os donativos recebidos de quaisquer entidades, os rendimentos estabelecidos nos respectivos regulamentos, as indemnizações de expediente pela inobservância de prazos, faltas a exames e outros actos semelhantes e, bem assim, as receitas diversas provenientes de actividades circum-escolares ou outras.
 
-###### Art. 18.º Serão publicados nas províncias ultramarinas os regulamentos dos institutos, ouvida a Direcção-Geral de Saúde e Assistência, nos termos e condições previstos no [Decreto-Lei n.º 43353](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43353-1960-512989), de 24 de Novembro de 1960, em que se estabeleçam, pelo menos, normas respeitantes à organização dos processos de admissão, à matrícula, sua confirmação, cancelamento e transferência entre os estabelecimentos da mesma ou de outras províncias, ao ano escolar e ao regime de frequência dos cursos, à graduação das faltas e penalidades e respectiva competência disciplinar, às condições do acto final, a que se refere o artigo 11.º deste diploma, e dos exames de aptidão, de passagem e finais, e finalmente ao regime disciplinar do pessoal dos institutos.
+Art. 18.º Serão publicados nas províncias ultramarinas os regulamentos dos institutos, ouvida a Direcção-Geral de Saúde e Assistência, nos termos e condições previstos no [Decreto-Lei n.º 43353](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43353-1960-512989), de 24 de Novembro de 1960, em que se estabeleçam, pelo menos, normas respeitantes à organização dos processos de admissão, à matrícula, sua confirmação, cancelamento e transferência entre os estabelecimentos da mesma ou de outras províncias, ao ano escolar e ao regime de frequência dos cursos, à graduação das faltas e penalidades e respectiva competência disciplinar, às condições do acto final, a que se refere o artigo 11.º deste diploma, e dos exames de aptidão, de passagem e finais, e finalmente ao regime disciplinar do pessoal dos institutos.
 
-###### Art. 19.º Os casos omissos serão integrados por despacho ministerial.
+Art. 19.º Os casos omissos serão integrados por despacho ministerial.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 18 de Janeiro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

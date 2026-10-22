@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44870-1963-193237
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-02-02T00:00:00Z'
+  retrieved_at: '2026-10-22T19:33:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b82d768a150fa60bc207a88db6bcb03f2cc0487dc2db04e61ac952c9e5ce665
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d2dbdbb0ee91aa0425f7c7fbacfb4faf297abe600d6b479e1792067f64b9955
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:33:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:33:32Z'
   warnings: []
   errors: []
 ---
@@ -93,10 +97,10 @@ Nestas circunstâncias, tendo em vista o disposto no artigo 22.º e seu § 1.º 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção-Geral dos Serviços Florestais e Aquícolas a celebrar contrato com Manuel Teixeira Pereira Júnior para o arrendamento da sua propriedade, sita no Cerrado da Urze, freguesia das Furnas, concelho da Povoação, por um prazo de seis anos, renovável por iguais e sucessivos períodos, se isso convier às partes contratantes.
+Artigo 1.º É autorizada a Direcção-Geral dos Serviços Florestais e Aquícolas a celebrar contrato com Manuel Teixeira Pereira Júnior para o arrendamento da sua propriedade, sita no Cerrado da Urze, freguesia das Furnas, concelho da Povoação, por um prazo de seis anos, renovável por iguais e sucessivos períodos, se isso convier às partes contratantes.
 
-###### Art. 2.º A despesa com o citado arrendamento não poderá exceder 2750$00 anualmente e constituirá encargo da dotação inscrita na despesa extraordinária do orçamento do Ministério da Economia na verba consignada ao povoamento florestal das ilhas adjacentes e inscrita no corrente ano sob o capítulo 22.º, artigo 313.º, n.º 2), alínea b).
+Art. 2.º A despesa com o citado arrendamento não poderá exceder 2750$00 anualmente e constituirá encargo da dotação inscrita na despesa extraordinária do orçamento do Ministério da Economia na verba consignada ao povoamento florestal das ilhas adjacentes e inscrita no corrente ano sob o capítulo 22.º, artigo 313.º, n.º 2), alínea b).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Fevereiro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Luís Le Cocq de Albuquerque de Azevedo Coutinho.

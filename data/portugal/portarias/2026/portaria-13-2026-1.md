@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/13/2026/01/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/13-2026-998488161
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-07T00:00:00Z'
+  retrieved_at: '2026-10-22T18:28:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c79d84d8173323bab50e2b46ef7b56c91bbb6d39e1f87ca1786dd03ec5d20b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 435504af534f08a86c6d0480786a4d34a4c9f2bdba3785ca9a9f9b1aa0ec6080
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:28:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - AEE
+- Agência Espacial Portuguesa
 - Atribuição de Verba
-- Instituto do Cinema e do Audiovisual
+- Autoridade Nacional de Comunicações
 - ERC
+- Instituto do Cinema e do Audiovisual
 - Orçamento
 - Transferência de Verbas
-- Autoridade Nacional de Comunicações
-- Agência Espacial Portuguesa
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/103/2006/06/07/p/dre
@@ -114,16 +114,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/80/2023/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/80/2023/07/14/p/dre
+- type: cites
+  target: pt:dre:115312061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148963298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215647925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66761449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835864042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:859517105:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:28:12Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +184,7 @@ Considerando que, em conformidade com os instrumentos jurídicos aplicáveis à 
 
 Considerando os montantes a transferir para a Agência Espacial Portuguesa, nos termos do disposto no n.º 2 e no anexo da [Resolução do Conselho de Ministros n.º 80/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/80-2023-215647925), de 14 de julho;
 
-Atento o disposto nos n.<sup>os</sup>1 e 3 do artigo 12.º-A da [Lei n.º 55/2012](https://diariodarepublica.pt/dr/detalhe/lei/55-2012-174871), de 6 de setembro, alterada pelas Leis n.<sup>os</sup> [28/2014](https://diariodarepublica.pt/dr/detalhe/lei/28-2014-25343708), de 19 de maio, [82-B/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), de 31 de dezembro, [74/2020](https://diariodarepublica.pt/dr/detalhe/lei/74-2020-148963298), de 19 de novembro, e [82/2023](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), de 29 de dezembro, que determina a transferência anual para o Instituto do Cinema e do Audiovisual, I. P. (ICA), do valor equivalente a 75 % do montante total devido pelos operadores de serviços de televisão por subscrição, por conta do resultado líquido da ANACOM a reverter para o Estado, devendo o montante exato ser fixado por portaria;
+Atento o disposto nos n.os1 e 3 do artigo 12.º-A da [Lei n.º 55/2012](https://diariodarepublica.pt/dr/detalhe/lei/55-2012-174871), de 6 de setembro, alterada pelas Leis n.os [28/2014](https://diariodarepublica.pt/dr/detalhe/lei/28-2014-25343708), de 19 de maio, [82-B/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), de 31 de dezembro, [74/2020](https://diariodarepublica.pt/dr/detalhe/lei/74-2020-148963298), de 19 de novembro, e [82/2023](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), de 29 de dezembro, que determina a transferência anual para o Instituto do Cinema e do Audiovisual, I. P. (ICA), do valor equivalente a 75 % do montante total devido pelos operadores de serviços de televisão por subscrição, por conta do resultado líquido da ANACOM a reverter para o Estado, devendo o montante exato ser fixado por portaria;
 
 Considerando que, relativamente ao ano de 2023, nos termos do n.º 2 do mencionado artigo 12.º-A da [Lei n.º 55/2012](https://diariodarepublica.pt/dr/detalhe/lei/55-2012-174871), de 6 de setembro, na sua redação atual, o montante a transferir para o Instituto do Cinema e do Audiovisual, I. P. (ICA) nos termos do n.º 1 da citada disposição é multiplicado por um fator de atualização equivalente à variação acumulada do índice de preços no consumidor relativamente a 2020, apurado pelo Instituto Nacional de Estatística, I. P.;
 
@@ -178,4 +222,6 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 29 de dezembro de 2025.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento. - O Ministro das Infraestruturas e Habitação, Miguel Martinez de Castro Pinto Luz.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento. - O Ministro das Infraestruturas e Habitação, Miguel Martinez de Castro Pinto Luz.
+
+119943832

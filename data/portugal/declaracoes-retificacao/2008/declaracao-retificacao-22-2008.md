@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/22/2008/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-2008-249558
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-09-02T00:00:00Z'
+  retrieved_at: '2026-10-22T19:09:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec7061d5713f6b09e734b0d09c590ae94202fa2559b4744594fd004e7983deb2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00e04f0d1d777f42bb7e58511a808a99caf8704fe6eb6a84e5857ba8db281698
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:09:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,10 +70,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Processo Civil
-- Processo Penal
 - Associação de Imigrantes
-- Pessoal Dirigente
+- Caixa de Previdência
 - Código das Custas Judiciais
 - Código de Procedimento e de Processo Tributário
 - Código de Processo Penal
@@ -81,36 +79,69 @@ subjects:
 - Código do Processo Civil
 - Código do Registo Comercial
 - Código do Registo Predial
-- Multa
-- Ministério da Educação
 - Contra-ordenação
+- Custas Judiciais
 - Diretor Geral
 - Eleito Local
-- Serviço Nacional de Saúde
 - Fundo de Garantia Automóvel
-- Pagamento
 - Inspetor Geral
 - Isenção de Taxas e Emolumentos
-- Tribunal Constitucional
 - Magistrado do Ministério Público
 - Magistrado Judicial
 - Membros do Governo
-- Caixa de Previdência
+- Ministério da Educação
+- Ministério Público
+- Multa
 - Ordem dos Farmacêuticos
+- Pagamento
 - Partido Político
 - Pessoa Coletiva de Utilidade Pública
-- Regulamento
-- Ministério Público
+- Pessoal Dirigente
+- Processo Civil
 - Processo de Execução
+- Processo Penal
+- Regulamento
 - Secretário Geral
-- Custas Judiciais
+- Serviço Nacional de Saúde
 - Tribunal Administrativo e Fiscal
+- Tribunal Constitucional
 - Tribunal Judicial
 relationships:
 - type: amended_by
   target: pt:dre:56388820:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Alterados os arts. 4.º e 13.º do Regulamento das Custas Processuais, aprovado pelo Dec Lei 34/2008 de 26-Fev, rectificados\
+    \ pela presente declaração, pela LEI.3-B/2010.28.04.2010.AR, DR.IS [82-Supl] de 28.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:276805:por
+  label: "Alterado e renumerado, em 13.05.2011, o art. 13º do Regulamento das Custas Processuais, constante do anexo iii ao\
+    \ Dec Lei n.º 34/2008, de 26-Fev, rectificado pela presente Decl, pelo DEC LEI.52/2011.13.04.2011.MJ, DR.IS [73] de 13.04.2011\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-2011-276805
+  date: '2011-04-13'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Dada nova redação ao art. 4º do Regulamento das Custas Processuais, aprovado pelo Dec Lei 34/2008 de 26-dez, retificado\
+    \ pelo presente diploma, pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:499545:por
+  label: "Dada nova redação ao art. 4º do Regulamento das Custas Processuais, aprovado pelo Dec Lei 34/2008 de 26-fev, retificado\
+    \ pelo presente diploma, pelo DEC LEI.126/2013.30.08.2013.MJ, DR.IS [167] de 30.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-2013-499545
+  date: '2013-08-30'
+- type: amended_by
+  target: pt:dre:56388820:por
+  label: Alterado a partir de 02.10.2014, o art. 4º do Regulamento das Custas Processuais, aprovado pelo Dec Lei 34/2008 de
+    26-fev, retificado pelo presente diploma, pelo(a) Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/72-2014-56388820
+  date: '2014-09-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/108/2006/06/08/p/dre
   label: null
@@ -143,16 +174,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2004/07/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2004/07/29/p/dre
+- type: cites
+  target: pt:dre:247448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:34/2008
+  label: "Rectifica o art. 2.º [na parte em que procede à alteração do art. 474.º do Código de Processo Civil, aprovado pelo\
+    \ Dec Lei 44129 de 28-Dez 1961], nºs 3 e 6 do art. 27.º, do Decreto-Lei n.º 34/2008, de 26 de Fevereiro, DR.IS [40], rectifica\
+    \ ainda o art. 2.º, as als. j) e o) do nº 1 do art. 4.º, nºs 2, 5 e 6 do art. 4.º, nº 1 do art. 13.º, art. 15.º, do Regulamento\
+    \ das Custas Processuais, aprovado pelo supracitado diploma\0\0"
+  source: null
+  date: '2008-02-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:09:43Z'
   warnings: []
   errors: []
 ---

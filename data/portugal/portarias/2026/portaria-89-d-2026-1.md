@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/89-d/2026/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/89-d-2026-1058799981
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-23T00:00:00Z'
+  retrieved_at: '2026-10-22T18:33:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fbe2904fea90d1b9e1354001b321d5602394fa3dfad782d8105aedd08488b595
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 593aeebfc60f7470d9d8e76972e5169b391da5d50d4a5ddb781c405f05bc9437
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:33:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vida Selvagem
 - Carregal do SAL
-- Ordenamento do Território
-- Proteção dos Animais
-- Regulamentação de Atos Legislativos
-- Proteção do Ambiente
 - Diversidade Biológica
 - Espécie Protegida
+- Ordenamento do Território
+- Proteção do Ambiente
+- Proteção dos Animais
 - Recursos Naturais
+- Regulamentação de Atos Legislativos
+- Vida Selvagem
 - Zona Especial de Conservação
 relationships:
 - type: cites
@@ -100,16 +100,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
+- type: cites
+  target: pt:dre:1045423488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130273578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:33:08Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +142,7 @@ validation:
 
 de 23 de fevereiro
 
-O [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, procedeu à designação como Zona Especial de Conservação (ZEC) do Sítio de Importância Comunitária (SIC) Carregal do Sal (PTCON0027), identificando a respetiva área e coordenadas geográficas, assim como a sua localização e limites geográficos. O referido diploma determinou, ainda, que as medidas e ações complementares de conservação de habitats e espécies são definidas em planos de gestão, a aprovar por portaria nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.<sup>os</sup>[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro.
+O [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, procedeu à designação como Zona Especial de Conservação (ZEC) do Sítio de Importância Comunitária (SIC) Carregal do Sal (PTCON0027), identificando a respetiva área e coordenadas geográficas, assim como a sua localização e limites geográficos. O referido diploma determinou, ainda, que as medidas e ações complementares de conservação de habitats e espécies são definidas em planos de gestão, a aprovar por portaria nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.os[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro.
 
 Posteriormente, o [Decreto-Lei n.º 37/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2026-1045423488), de 11 de fevereiro, completou o processo de classificação da ZEC Carregal do Sal, ao contemplar no respetivo plano de gestão a identificação dos tipos de habitat naturais e seminaturais e das espécies da flora e fauna selvagens protegidos, constantes dos anexos I e II da Diretiva Habitats com presença significativa na sua área, e fixar, em função das características específicas do seu território e das exigências ecológicas desses tipos de habitat e espécies, objetivos de conservação direcionados à manutenção ou ao restabelecimento do seu estado de conservação favorável. Com vista à prossecução dos objetivos fixados, o referido decreto-lei definiu, ainda, medidas de conservação de natureza preventiva e regulamentar, necessárias para evitar a deterioração dos tipos de habitat naturais e seminaturais e dos habitats das espécies protegidas e com presença significativa na ZEC, assim como a perturbação significativa dessas espécies, as quais se tipificam em medidas de ordenamento do território e medidas de gestão.
 
@@ -142,15 +166,17 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 20 de fevereiro de 2026.
 
-**O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho. - O Ministro da Agricultura e Mar, José Manuel Fernandes.**
+O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho. - O Ministro da Agricultura e Mar, José Manuel Fernandes.
 
 QUADRO 1
 
 Unidades territoriais abrangidas pela ZEC Carregal do Sal
 
-![](https://files.diariodarepublica.pt/images/1058799981/1058800130.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799981/1058800130.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799981/1058800131.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799981/1058800131.png) |
+| --- |
 
 CARACTERIZAÇÃO
 
@@ -186,13 +212,15 @@ QUADRO 2
 
 Tipos de habitat do anexo I da Diretiva Habitats com presença significativa na ZEC
 
-![](https://files.diariodarepublica.pt/images/1058799981/1058800132.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799981/1058800132.png) |
+| --- |
 
 QUADRO 3
 
 Espécies do anexo II da Diretiva Habitats com presença significativa na ZEC
 
-![](https://files.diariodarepublica.pt/images/1058799981/1058800133.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799981/1058800133.png) |
+| --- |
 
 OBJETIVOS DE CONSERVAÇÃO
 
@@ -204,7 +232,8 @@ QUADRO 4
 
 Objetivos de conservação para a gestão da ZEC
 
-![](https://files.diariodarepublica.pt/images/1058799981/1058800134.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799981/1058800134.png) |
+| --- |
 
 MEDIDAS DE CONSERVAÇÃO COMPLEMENTARES
 
@@ -218,9 +247,11 @@ QUADRO 5
 
 Quadro operacional das medidas de conservação complementares
 
-![](https://files.diariodarepublica.pt/images/1058799981/1058800135.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799981/1058800135.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799981/1058800136.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799981/1058800136.png) |
+| --- |
 
 MEDIDAS DE CONSERVAÇÃO REGULAMENTARES
 
@@ -248,7 +279,8 @@ QUADRO 6
 
 Modelo de matriz de avaliação final da implementação do plano de gestão
 
-![](https://files.diariodarepublica.pt/images/1058799981/1058800137.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799981/1058800137.png) |
+| --- |
 
 FICHAS DE MEDIDAS DE CONSERVAÇÃO COMPLEMENTARES
 
@@ -268,24 +300,37 @@ OE - Orçamento de Estado;
 
 PNA-PNGIFR - Programa Nacional de Ação do Plano Nacional de Gestão Integrada de Fogos Rurais.
 
-![](https://files.diariodarepublica.pt/images/1058799981/1058800138.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799981/1058800138.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799981/1058800139.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799981/1058800139.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799981/1058800140.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799981/1058800140.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799981/1058800141.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799981/1058800141.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799981/1058800142.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799981/1058800142.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799981/1058800143.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799981/1058800143.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799981/1058800144.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799981/1058800144.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799981/1058800145.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799981/1058800145.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799981/1058800146.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799981/1058800146.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799981/1058800147.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799981/1058800147.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799981/1058800148.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799981/1058800148.png) |
+| --- |
+
+119947761

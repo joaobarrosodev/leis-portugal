@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/10/19700/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/25/2022/10/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/25-2022-202127496
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-12T00:00:00Z'
+  retrieved_at: '2026-10-22T19:13:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b2d4b477b5e0bae3cfde064987955844314f8004ffc83af1f6b42761d488abe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 872ec5db17967156c9c855555d1a66cca88c0197c02eb25b6d0af7c871cd8e5e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:13:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,9 +72,9 @@ subjects:
 - Comunicações Eletrónicas
 - Contrato de Prestação de Serviços
 - Direcção Geral do Consumidor
-- Proteção do Consumidor
 - Direitos do Utente
 - Plataforma Eletrónica
+- Proteção do Consumidor
 relationships:
 - type: cites
   target: celex:31998L0084
@@ -120,16 +120,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/791/1998/09/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/791/1998/09/22/p/dre
+- type: cites
+  target: pt:dre:187481298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581061:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:13:54Z'
   warnings: []
   errors: []
 ---
@@ -157,3 +189,5 @@ deve ler-se:
 «5 - O consumidor pode exercer os direitos de cessação do contrato previstos no artigo 136.º, no artigo anterior e no presente artigo através de plataforma eletrónica criada para o efeito, gerida pela Direção-Geral do Consumidor (DGC).»
 
 Assembleia da República, 10 de outubro de 2022. - O Secretário-Geral, Albino de Azevedo Soares.
+
+115765844

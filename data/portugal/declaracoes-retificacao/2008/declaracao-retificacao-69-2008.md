@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/69/2008/11/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/69-2008-439811
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-09T00:00:00Z'
+  retrieved_at: '2026-10-22T19:10:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08bd9e64d54a0e3d55f3e155c84e6e00a4f1edab557e2b7e7aa285fc2c689b5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bfc65757c41030e2b41b9fd85699c5bbc3057d61d147307de15066d489476e71
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:10:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,33 +70,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
 - Aproximação das Legislações
-- Publicidade
-- INEM
 - Código da Publicidade
-- Infarmed
+- Comércio
+- Confidencialidade
 - Contra-ordenação
-- Saúde Pública
+- Embalagem
 - Estabelecimento Industrial
 - Etiquetagem
 - Experimentação nos Animais
 - Fiscalização
 - Higiene Corporal
 - Importação
-- Embalagem
+- INEM
+- Infarmed
 - Informação do Consumidor
+- Produto Químico
 - Produtor
-- Qualificação Profissional
-- Confidencialidade
 - Proteção do Consumidor
+- Publicidade
+- Qualificação Profissional
 - Regime Jurídico
-- Comércio
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:191992:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:308098:por
+  label: "Dada nova redacção ao art. 26º e alterados os anexos II, III e VI do Dec Lei 189/2008 de 24-Set, rectificado pelo\
+    \ presente diploma, pelo DEC LEI.113/2010.21.10.2010.MS, DR.IS [205] de 21.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/113-2010-308098
+  date: '2010-10-21'
+- type: amended_by
+  target: pt:dre:191992:por
+  label: "Alterado o anexo iii, retificado pela presente Declaração, na redação dos Decs Leis 115/2009, de 18-maio, 113/2010,\
+    \ de 21-out, e 63/2012, de 15-mar, pelo DEC LEI.245/2012.09.11.2012.MS, DR.IS [217] de 09.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/245-2012-191992
+  date: '2012-11-09'
 - type: cites
   target: celex:31976L0768
   label: null
@@ -129,16 +141,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/189/2008/09/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/189/2008/09/24/p/dre
+- type: cites
+  target: pt:dre:452215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:189/2008
+  label: "Rectifica o Decreto-Lei n.º 189/2008, de 24 de Setembro, DR.IS [185]\0\0"
+  source: null
+  date: '2008-09-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:10:42Z'
   warnings: []
   errors: []
 ---

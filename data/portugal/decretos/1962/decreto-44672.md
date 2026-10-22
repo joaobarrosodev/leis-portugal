@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44672-1962-156203
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-11-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:31:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c7a5a0830f37033828f45e9eb5b916d45c76b3c5d154a4877868426d0720a38d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 654be4cfa4fd5fa61459ec8acf28c9e4761e8d195eaccc69fe4f2ff67ce6500c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:31:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:31:59Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +100,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 ### CAPÍTULO I — Classificação das vias de comunicações públicas rodoviárias
 
-###### Artigo 1.º As comunicações públicas rodoviárias no arquipélago de Cabo Verde são classificadas em três categorias:
+Artigo 1.º As comunicações públicas rodoviárias no arquipélago de Cabo Verde são classificadas em três categorias:
 
 1) Estradas de 1.ª classe.
 
@@ -108,7 +108,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 3) Estradas de 3.ª classe.
 
-###### Art. 2.º Para as estradas que constituirão a rede do arquipélago adoptar-se-á uma designação de código constituída por uma abreviatura do nome da ilha, seguida de um número, do qual o primeiro algarismo indica a classe, representado os dois seguintes o número de ordem dentro dela.
+Art. 2.º Para as estradas que constituirão a rede do arquipélago adoptar-se-á uma designação de código constituída por uma abreviatura do nome da ilha, seguida de um número, do qual o primeiro algarismo indica a classe, representado os dois seguintes o número de ordem dentro dela.
 
 As abreviaturas correspondentes a cada ilha são as seguintes:
 
@@ -136,29 +136,29 @@ Por exemplo: SA 101 significa a estrada n.º 01, de 1.ª classe da ilha de Santo
 
 § único. Os números de 0 e 100 ficam reservados para vias de comunicação especiais.
 
-###### Art. 3.º Estradas de 1.ª classe. - Pertencerão a esta classe todas as vias de comunicação de ligação aos aeródromos, aos portos principais e aos locais de grande interesse
+Art. 3.º Estradas de 1.ª classe. - Pertencerão a esta classe todas as vias de comunicação de ligação aos aeródromos, aos portos principais e aos locais de grande interesse
 
 Estas estradas comportarão duas faixas de circulação.
 
-###### Art. 4.º Estradas de 2.ª classe. - Serão desta classe todos os demais itinerários importantes nas várias ilhas do arquipélago, não classificados como de 1.ª classe. Apresentarão uma só faixa de circulação, com gares de cruzamento e ultrapassagem, e deverão poder - fàcilmente - transformar-se em estradas de 1.ª classe.
+Art. 4.º Estradas de 2.ª classe. - Serão desta classe todos os demais itinerários importantes nas várias ilhas do arquipélago, não classificados como de 1.ª classe. Apresentarão uma só faixa de circulação, com gares de cruzamento e ultrapassagem, e deverão poder - fàcilmente - transformar-se em estradas de 1.ª classe.
 
-###### Art. 5.º Estradas de 3.ª classe. - Pertencerão a esta classe todos os restantes traçados, com uma só via de circulação, sem apreciável interesse económico, mas necessária existência político-social, e ainda aqueles que por extraordinárias dificuldades construtivas não possam desde logo executar-se dentro das classes superiores que lhes devessem corresponder.
+Art. 5.º Estradas de 3.ª classe. - Pertencerão a esta classe todos os restantes traçados, com uma só via de circulação, sem apreciável interesse económico, mas necessária existência político-social, e ainda aqueles que por extraordinárias dificuldades construtivas não possam desde logo executar-se dentro das classes superiores que lhes devessem corresponder.
 
-###### Art. 6.º As vias de comunicação a que se referem os artigos anteriores ficam a cargo da Repartição Técnica dos Serviços de Obras Públicas, Agrimensura e Cadastro.
+Art. 6.º As vias de comunicação a que se referem os artigos anteriores ficam a cargo da Repartição Técnica dos Serviços de Obras Públicas, Agrimensura e Cadastro.
 
 § único. O Governo da província fixará em diploma legislativo os termos em que deverá organizar-se a construção e conservação das estradas consideradas neste plano.
 
-###### Art. 7.º São classificadas desde já estradas de 1.ª, 2.ª e 3.ª classes as que constam dos mapas anexos a este decreto.
+Art. 7.º São classificadas desde já estradas de 1.ª, 2.ª e 3.ª classes as que constam dos mapas anexos a este decreto.
 
-###### Art. 8.º Quando as circunstâncias o imponham, poderá o plano ser revisto, competindo ao governador da província propor as alterações que julgar conveniente introduzir na classificação a que se refere o artigo 7.º, bem como as classes a atribuir a novas estradas que entender necessário estabelecer.
+Art. 8.º Quando as circunstâncias o imponham, poderá o plano ser revisto, competindo ao governador da província propor as alterações que julgar conveniente introduzir na classificação a que se refere o artigo 7.º, bem como as classes a atribuir a novas estradas que entender necessário estabelecer.
 
-###### Art. 9.º Os troços das estradas a cargo do Estado que não sejam incluídos no plano de classificação, ou os que tiverem sido ou vierem a ser substituídos em consequência de se haver dado novas directrizes a essas estradas, passarão para o domínio privado do Estado.
+Art. 9.º Os troços das estradas a cargo do Estado que não sejam incluídos no plano de classificação, ou os que tiverem sido ou vierem a ser substituídos em consequência de se haver dado novas directrizes a essas estradas, passarão para o domínio privado do Estado.
 
 ### CAPÍTULO II — Características técnicas das estradas
 
-###### Art. 10.º As características técnicas a adoptar nas estradas de Cabo Verde serão as estabelecidas nos artigos seguintes.
+Art. 10.º As características técnicas a adoptar nas estradas de Cabo Verde serão as estabelecidas nos artigos seguintes.
 
-###### Art. 11.º Em perfil longitudinal as inclinações não deverão, em regra, exceder:
+Art. 11.º Em perfil longitudinal as inclinações não deverão, em regra, exceder:
 
 Nas estradas de 1.ª classe:
 
@@ -188,7 +188,7 @@ Em terreno difícil - 18 por cento.
 
 Quando seja indispensável empregá-los, devem reduzir-se ao mínimo as suas extensões.
 
-###### Art. 12.º Em planta, as curvas de concordância dos alinhamentos rectos poderão ser de raio variável, ou circulares, devendo adoptar-se neste caso curvas de transição entre a curva circular e os alinhamentos rectos.
+Art. 12.º Em planta, as curvas de concordância dos alinhamentos rectos poderão ser de raio variável, ou circulares, devendo adoptar-se neste caso curvas de transição entre a curva circular e os alinhamentos rectos.
 
 Os raios de curvatura mínimos admitidos serão:
 
@@ -214,13 +214,13 @@ Em terreno difícil - 12 m.
 
 Em casos extremos, nas estradas de 3.ª classe poder-se-á substituir as curvas dos lacetes por plataformas de manobra.
 
-###### Art. 13.º Na concordância dos alinhamentos rectos não é permitido o emprego de curvas circulares sucessivas com raios diferentes, salvo se esses raios forem sensìvelmente iguais e com excepção dos casos em que se empregam curvas de concordância para estabelecer a curva de transição da curva circular interior com os alinhamentos rectos.
+Art. 13.º Na concordância dos alinhamentos rectos não é permitido o emprego de curvas circulares sucessivas com raios diferentes, salvo se esses raios forem sensìvelmente iguais e com excepção dos casos em que se empregam curvas de concordância para estabelecer a curva de transição da curva circular interior com os alinhamentos rectos.
 
-###### Art. 14.º Deve evitar-se o emprego de curvas do mesmo sentido separadas por pequenos alinhamentos rectos, preferindo, sempre que seja possível, substituí-los por uma curva única.
+Art. 14.º Deve evitar-se o emprego de curvas do mesmo sentido separadas por pequenos alinhamentos rectos, preferindo, sempre que seja possível, substituí-los por uma curva única.
 
-###### Art. 15.º A seguir a alinhamentos rectos extensos, bem como a trainéis de forte inclinação, deverá evitar-se o emprego de curvas de pequeno raio.
+Art. 15.º A seguir a alinhamentos rectos extensos, bem como a trainéis de forte inclinação, deverá evitar-se o emprego de curvas de pequeno raio.
 
-###### Art. 16.º As estradas classificadas da província de Cabo Verde deverão apresentar um dos tipos de perfil transversal constantes dos desenhos anexos, com as seguintes larguras mínimas de plataforma:
+Art. 16.º As estradas classificadas da província de Cabo Verde deverão apresentar um dos tipos de perfil transversal constantes dos desenhos anexos, com as seguintes larguras mínimas de plataforma:
 
 7 m para as estradas de 1.ª classe.
 
@@ -236,23 +236,23 @@ Em casos extremos, nas estradas de 3.ª classe poder-se-á substituir as curvas 
 
 Nas zonas em aterro, porém, a pavimentação não deverá aproximar-se das arestas dos taludes mais do que 50 cm.
 
-###### Art. 17.º Gares de cruzamento e ultrapassagem. - Nas estradas de 2.ª e 3.ª classes devem ser previstas gares de cruzamento e ultrapassagem. As gares para as estradas de 2.ª classe deverão prever-se para alojarem um mínimo de duas a três viaturas, consoante as facilidades do terreno, e ser espaçadas de modo a que de cada uma delas se veja a anterior e a seguinte, mas não mais do que 400 m.
+Art. 17.º Gares de cruzamento e ultrapassagem. - Nas estradas de 2.ª e 3.ª classes devem ser previstas gares de cruzamento e ultrapassagem. As gares para as estradas de 2.ª classe deverão prever-se para alojarem um mínimo de duas a três viaturas, consoante as facilidades do terreno, e ser espaçadas de modo a que de cada uma delas se veja a anterior e a seguinte, mas não mais do que 400 m.
 
 As gares para as estradas de 3.ª classe deverão poder alojar uma ou duas viaturas e, nas condições já referidas, apresentar espaçamentos até 800 m.
 
-###### Art. 18.º A drenagem da plataforma e o contrôle do nível freático sob esta serão sempre objecto de cuidadoso estudo, devendo-se prever, nos locais onde se revelem necessárias, valas de crista, drenos e outras disposições apropriadas às circunstâncias prevalecentes.
+Art. 18.º A drenagem da plataforma e o contrôle do nível freático sob esta serão sempre objecto de cuidadoso estudo, devendo-se prever, nos locais onde se revelem necessárias, valas de crista, drenos e outras disposições apropriadas às circunstâncias prevalecentes.
 
-###### Art. 19.º Antes da construção do pavimento, a plataforma, em alinhamentos rectos ou curvas de raio superior a 500 m, apresentará um perfil transversal simétrico, formado por dois planos unidos sem concordância e com inclinações de 4 por cento. Nas curvas com raio inferior a 500 m o perfil da plataforma será definido por um único plano, cuja inclinação será variável conforme o valor do raio da curva.
+Art. 19.º Antes da construção do pavimento, a plataforma, em alinhamentos rectos ou curvas de raio superior a 500 m, apresentará um perfil transversal simétrico, formado por dois planos unidos sem concordância e com inclinações de 4 por cento. Nas curvas com raio inferior a 500 m o perfil da plataforma será definido por um único plano, cuja inclinação será variável conforme o valor do raio da curva.
 
-###### Art. 20.º O perfil transversal do pavimento, em alinhamentos rectos ou curvas de raio superior a 500 m, será igualmente simétrico e formado por dois planos uniformemente inclinados, em regra a 3 por cento, e unidos por meio de concordância, abrangendo 0,50 m para um e outro lado do eixo. Nas curvas com raio inferior a 500 m o perfil do pavimento será definido, como no caso da plataforma, por um único plano, cuja inclinação dependerá do valor do raio da curva.
+Art. 20.º O perfil transversal do pavimento, em alinhamentos rectos ou curvas de raio superior a 500 m, será igualmente simétrico e formado por dois planos uniformemente inclinados, em regra a 3 por cento, e unidos por meio de concordância, abrangendo 0,50 m para um e outro lado do eixo. Nas curvas com raio inferior a 500 m o perfil do pavimento será definido, como no caso da plataforma, por um único plano, cuja inclinação dependerá do valor do raio da curva.
 
-###### Art. 21.º Velocidades de circulação. - As velocidades máximas de circulação serão fixadas em função das condições ocorrentes, e em particular das características geométricas da estrada. Quando a segurança do trânsito o aconselhe, serão devidamente sinalizadas.
+Art. 21.º Velocidades de circulação. - As velocidades máximas de circulação serão fixadas em função das condições ocorrentes, e em particular das características geométricas da estrada. Quando a segurança do trânsito o aconselhe, serão devidamente sinalizadas.
 
-###### Art. 22.º Sobrelarguras. - Nas curvas de raio inferior a 300 m deverão adoptar-se sobrelarguras sempre que isso se torne necessário para efeito da boa inscrição dos veículos.
+Art. 22.º Sobrelarguras. - Nas curvas de raio inferior a 300 m deverão adoptar-se sobrelarguras sempre que isso se torne necessário para efeito da boa inscrição dos veículos.
 
 Estas sobrelarguras deverão ser calculadas, caso por caso, tendo em vista as características dos veículos que devem circular em cada uma das estradas, os raios das respectivas curvas e as velocidades de circulação a que se refere o artigo anterior.
 
-###### Art. 23.º Sobreelevações. - Nas curvas de concordância em planta serão adoptadas sobreelevações, não devendo a sobreelevação máxima exceder normalmente a inclinação transversal de 8 por cento.
+Art. 23.º Sobreelevações. - Nas curvas de concordância em planta serão adoptadas sobreelevações, não devendo a sobreelevação máxima exceder normalmente a inclinação transversal de 8 por cento.
 
 § 1.º As sobreelevações serão calculadas em função das condições existentes em cada curva e das velocidades fixadas segundo o artigo 21.º
 
@@ -274,21 +274,21 @@ As distâncias mínimas de visibilidade, para dois pontos colocados à altura de
 
 Os raios mínimos deverão ser calculados de tal modo que a aceleração vertical introduzida pela curva não exceda nunca 0,5 m por segundo, isto é, 1/20 X g.
 
-###### Art. 25.º Visibilidade em planta. - Em planta, as curvas deverão assegurar uma distância de visibilidade correspondente às velocidades nelas consideradas.
+Art. 25.º Visibilidade em planta. - Em planta, as curvas deverão assegurar uma distância de visibilidade correspondente às velocidades nelas consideradas.
 
-###### Art. 26.º Devem procurar-se fixar as características das estradas de modo a obter-se homogeneidade das condições de circulação ao longo das extensões dos itinerários sujeitas às mesmas exigências do tráfego.
+Art. 26.º Devem procurar-se fixar as características das estradas de modo a obter-se homogeneidade das condições de circulação ao longo das extensões dos itinerários sujeitas às mesmas exigências do tráfego.
 
-###### Art. 27.º A concordância dos taludes de escavação e de aterro, quer com o terreno natural, quer com a plataforma de estrada, deve fazer-se por meio de curvas que lhes dêem suficiente estabilidade.
+Art. 27.º A concordância dos taludes de escavação e de aterro, quer com o terreno natural, quer com a plataforma de estrada, deve fazer-se por meio de curvas que lhes dêem suficiente estabilidade.
 
-###### Art. 28.º O traçado das estradas de acesso ou que atravessem centros urbanos deverá ser estudado de harmonia com o respectivo plano de expansão ou de urbanização.
+Art. 28.º O traçado das estradas de acesso ou que atravessem centros urbanos deverá ser estudado de harmonia com o respectivo plano de expansão ou de urbanização.
 
-###### Art. 29.º Os pavimentos deverão ser constituídos por forma a corresponderem, em condições económicas, às exigências do trânsito e das condições locais, adoptando-se os tipos que, caso por caso, se afigurem mais convenientes.
+Art. 29.º Os pavimentos deverão ser constituídos por forma a corresponderem, em condições económicas, às exigências do trânsito e das condições locais, adoptando-se os tipos que, caso por caso, se afigurem mais convenientes.
 
-###### Art. 30.º Os estudos das estradas e dos seus revestimentos, bem como as diferentes operações de construção, deverão ser, quando conveniente e possível, acompanhados de estudos laboratoriais adequados à obtenção das melhores soluções técnicas e económicas.
+Art. 30.º Os estudos das estradas e dos seus revestimentos, bem como as diferentes operações de construção, deverão ser, quando conveniente e possível, acompanhados de estudos laboratoriais adequados à obtenção das melhores soluções técnicas e económicas.
 
-###### Art. 31.º Obras de arte correntes. - Deverão ser construídas de acordo com o perfil-tipo adoptado para a estrada, de forma que esta não sofra qualquer diminuição de largura.
+Art. 31.º Obras de arte correntes. - Deverão ser construídas de acordo com o perfil-tipo adoptado para a estrada, de forma que esta não sofra qualquer diminuição de largura.
 
-###### Art. 32.º Obras de arte especiais. - Deverão ser construídas com larguras que correspondam aos perfis-tipos estabelecidos, isto é:
+Art. 32.º Obras de arte especiais. - Deverão ser construídas com larguras que correspondam aos perfis-tipos estabelecidos, isto é:
 
 Estradas de 1.ª classe: 7 m;
 
@@ -298,7 +298,7 @@ Estradas de 3.ª classe: 4 m.
 
 Poderá, além disso, haver dois passeios com a largura mínima de 0,50 m.
 
-###### Art. 33.º Nas ligações ou cruzamentos de estradas serão adoptadas curvas de concordância cujos raios mínimos serão os seguintes:
+Art. 33.º Nas ligações ou cruzamentos de estradas serão adoptadas curvas de concordância cujos raios mínimos serão os seguintes:
 
 Estradas de 1.ª classe: 20 m;
 
@@ -312,29 +312,29 @@ entendendo-se que, no caso de cruzamento ou ligação de duas estradas de difere
 
 § 2.º É de aconselhar o emprego de placas de separação de trânsito.
 
-###### Art. 34.º A faixa de domínio público a expropriar terá a largura necessária para o estabelecimento da estrada e para quaisquer outras obras acessórias (parques, miradouros, gares, etc.), assim como o necessário para manter uma boa visibilidade.
+Art. 34.º A faixa de domínio público a expropriar terá a largura necessária para o estabelecimento da estrada e para quaisquer outras obras acessórias (parques, miradouros, gares, etc.), assim como o necessário para manter uma boa visibilidade.
 
-###### Art. 35.º As zonas de servidão non aedificandi nos terrenos confinantes com as estradas dentro das quais não é permitida qualquer construção (salvo vedações) serão limitadas de cada lado da estrada por uma linha que diste 5 m da aresta exterior da berma ou da valeta, para qualquer classe de estrada.
+Art. 35.º As zonas de servidão non aedificandi nos terrenos confinantes com as estradas dentro das quais não é permitida qualquer construção (salvo vedações) serão limitadas de cada lado da estrada por uma linha que diste 5 m da aresta exterior da berma ou da valeta, para qualquer classe de estrada.
 
-###### Art. 36.º Na construção de vedações à margem das estradas os alinhamentos a adoptar serão normalmente limitados por uma linha que diste 1 m da aresta exterior da berma ou da valeta.
+Art. 36.º Na construção de vedações à margem das estradas os alinhamentos a adoptar serão normalmente limitados por uma linha que diste 1 m da aresta exterior da berma ou da valeta.
 
 A altura máxima permitida para estas vedações será de 1,20 m, excepto quando sirvam de muro de suporte ou de revestimento.
 
-###### Art. 37.º Quando as dificuldades do terreno sejam tão consideráveis que um estudo especial justifique a adopção de características mais reduzidas do que as gerais, constantes do presente plano, o Governo da província poderá autorizar, em cada caso especial, a modificação de quaisquer dessa características.
+Art. 37.º Quando as dificuldades do terreno sejam tão consideráveis que um estudo especial justifique a adopção de características mais reduzidas do que as gerais, constantes do presente plano, o Governo da província poderá autorizar, em cada caso especial, a modificação de quaisquer dessa características.
 
 De igual modo, quando, em qualquer troço de estrada, circunstâncias especiais justifiquem a adopção de características superiores às previstas para a respectiva classe, o Governo da província poderá também autorizá-las.
 
 ### CAPÍTULO III — Rede fundamental de estradas e sua construção
 
-###### Art. 38.º A rede fundamental de estradas da província de Cabo Verde é constituída pelas estradas ou troços de estrada que constam dos mapas anexos a este plano.
+Art. 38.º A rede fundamental de estradas da província de Cabo Verde é constituída pelas estradas ou troços de estrada que constam dos mapas anexos a este plano.
 
-###### Art. 39.º O Governo fixará periòdicamente em decreto as fases de execução do Plano rodoviário de Cabo Verde, os encargos correspondentes e as fontes de financiamento previstas.
+Art. 39.º O Governo fixará periòdicamente em decreto as fases de execução do Plano rodoviário de Cabo Verde, os encargos correspondentes e as fontes de financiamento previstas.
 
-###### Art. 40.º Os estudos e trabalhos necessários à execução do plano serão feitos por administração directa ou empreitada, conforme - em cada caso - se afigure mais conveniente.
+Art. 40.º Os estudos e trabalhos necessários à execução do plano serão feitos por administração directa ou empreitada, conforme - em cada caso - se afigure mais conveniente.
 
-###### Art. 41.º As despesas a fazer com a fiscalização das obras deverão ser previstas nos respectivos orçamentos, sob a forma de percentagem sobre o valor dos trabalhos a executar.
+Art. 41.º As despesas a fazer com a fiscalização das obras deverão ser previstas nos respectivos orçamentos, sob a forma de percentagem sobre o valor dos trabalhos a executar.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Novembro de 1962. - AMÉRICO DEUS RDRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 
@@ -344,11 +344,11 @@ Plano rodoviário de Cabo Verde
 
 Extensão das estradas classificadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/11/25600/14521460.pdf))](https://files.diariodarepublica.pt/1s/1962/11/25600/14521460.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/11/25600/14521460.pdf)
 
 Densidades das estradas classificadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/11/25600/14521460.pdf))](https://files.diariodarepublica.pt/1s/1962/11/25600/14521460.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/11/25600/14521460.pdf)
 
 Ministério do Ultramar, 7 de Novembro de 1962. - O Ministro do Ultramar, Adriano José Alves Moreira
 
@@ -358,7 +358,7 @@ PERFIL TRANSVERSAL
 
 Escala 1/50
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/11/25600/14521460.pdf))](https://files.diariodarepublica.pt/1s/1962/11/25600/14521460.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/11/25600/14521460.pdf)
 
 ESTRADA DE 2.ª CLASSE
 
@@ -366,7 +366,7 @@ PERFIL TRANSVERSAL
 
 Escala 1/40
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/11/25600/14521460.pdf))](https://files.diariodarepublica.pt/1s/1962/11/25600/14521460.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/11/25600/14521460.pdf)
 
 ESTRADA DE 3.ª CLASSE
 
@@ -374,7 +374,7 @@ PERFIL TRANSVERSAL
 
 Escala 1/40
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/11/25600/14521460.pdf))](https://files.diariodarepublica.pt/1s/1962/11/25600/14521460.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/11/25600/14521460.pdf)
 
 ESTRADA DE 2.ª CLASSE
 
@@ -384,13 +384,13 @@ PLANTA
 
 Escala 1/400
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/11/25600/14521460.pdf))](https://files.diariodarepublica.pt/1s/1962/11/25600/14521460.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/11/25600/14521460.pdf)
 
 Corte A : B
 
 Escala 1/100
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/11/25600/14521460.pdf))](https://files.diariodarepublica.pt/1s/1962/11/25600/14521460.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/11/25600/14521460.pdf)
 
 PLATAFORMA DE MANOBRA
 
@@ -398,12 +398,12 @@ Planta
 
 Escala 1/100
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/11/25600/14521460.pdf))](https://files.diariodarepublica.pt/1s/1962/11/25600/14521460.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/11/25600/14521460.pdf)
 
 Perfil
 
 Escala 1/250
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/11/25600/14521460.pdf))](https://files.diariodarepublica.pt/1s/1962/11/25600/14521460.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/11/25600/14521460.pdf)
 
 Ministério do Ultramar, 7 de Novembro de 1962. - O Ministro do Ultramar, Adriano José Alves Moreira.

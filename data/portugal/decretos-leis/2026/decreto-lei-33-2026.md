@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/33/2026/02/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2026-1045423484
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-11T00:00:00Z'
+  retrieved_at: '2026-10-22T18:31:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ea716dbb31f59d90aeb49fb820643d47b0d099633c05f2acfcc373af9e8c2a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10d8b92beda305fb1518a3521de864f378b4c138348ada20302999f93eb9c03d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:31:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Software
-- Contrato de Prestação de Serviços
 - Administração Pública
-- Setor Empresarial do Estado
-- TIC
-- Parecer
 - Agência para a Modernização Administrativa
-- Código de Vocabulário Comum
-- Plataforma Eletrónica
-- Conteúdo Digital
 - Agência para a Reforma Tecnológica do Estado
+- Código de Vocabulário Comum
+- Conteúdo Digital
+- Contrato de Prestação de Serviços
+- Parecer
+- Plataforma Eletrónica
+- Setor Empresarial do Estado
+- Software
+- TIC
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:107/2012
+  label: Altera, a partir de 1 de maio de 2026, os artigos 1.º, 2.º, 3.º, 4.º, 4.º-A, 4.º-B, 6.º, 9.º, revoga os n.ºs 5 e
+    6 do artigo 1.º e o n.º 5 do artigo 3.º do Decreto-Lei n.º 107/2012, de 18 de maio, Diário da República n.º 97/2012, Série
+    I
+  source: null
+  date: '2012-05-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/2023/02/08/p/dre
   label: null
@@ -114,16 +121,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/48/2012/05/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/48/2012/05/21/p/dre
+- type: cites
+  target: pt:dre:164404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207177836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74126124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:875899341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:932837040:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:31:52Z'
   warnings: []
   errors: []
 ---
@@ -174,7 +217,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 4.º-A, 4.º-B, 6.º e 9.º do [Decreto-Lei n
 
 7 - Os serviços digitais prestados pela Administração Pública referidos no n.º 1 do presente artigo correspondem à aquisição de bens ou serviços no âmbito do sistema de atendimento omnicanal conforme previsto no n.º 1 do artigo 3.º do [Decreto-Lei n.º 49/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2024-875899341), de 8 de agosto, que estabelece as regras de atendimento ao público através da disponibilização de serviços digitais, independentemente do Código de Vocabulário Comum atribuído.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...]
 
@@ -188,7 +233,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 4.º-A, 4.º-B, 6.º e 9.º do [Decreto-Lei n
 
 6 - [...]
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -202,7 +249,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 4.º-A, 4.º-B, 6.º e 9.º do [Decreto-Lei n
 
 6 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -218,9 +267,11 @@ d) [Anterior alínea c).]
 
 e) [Anterior alínea d).]
 
-3 - O disposto no presente artigo não é aplicável às situações previstas nos n.<sup>os</sup>3 e 4 do artigo 1.º
+3 - O disposto no presente artigo não é aplicável às situações previstas nos n.os3 e 4 do artigo 1.º
 
-###### Artigo 4.º-A — [...]
+Artigo 4.º-A
+
+[...]
 
 1 - Para efeitos do disposto na alínea e) do n.º 2 do artigo anterior, considera-se ‘software livre ou de código aberto’ o programa informático que permita, sem o pagamento de licenças de utilização, exercer as seguintes práticas:
 
@@ -242,7 +293,9 @@ d) [...]
 
 6 - O disposto no presente artigo não é aplicável às aquisições cujos contratos sejam declarados secretos ou cuja execução deva ser acompanhada de medidas especiais de segurança, bem como quando os interesses essenciais de defesa e segurança do Estado o exigir.
 
-###### Artigo 4.º-B — [...]
+Artigo 4.º-B
+
+[...]
 
 1 - A avaliação prevista na alínea e) do n.º 2 do artigo 4.º pode ser dispensada se, em alternativa, se submeter à concorrência a aquisição de software informático com base no custo total de utilização das soluções a apresentar pelos concorrentes.
 
@@ -250,7 +303,9 @@ d) [...]
 
 3 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O parecer prévio, quando legalmente devido, é obrigatório e vinculativo, e pode ser condicionado, se necessário, ao cumprimento de requisitos técnicos críticos pelo órgão competente para a decisão de contratar, devendo o respetivo cumprimento ser assegurado antes do início do procedimento de contratação.
 
@@ -266,7 +321,9 @@ d) [...]
 
 7 - A violação das condicionantes determinadas no parecer é comunicada pela ARTE, I. P., às entidades competentes para fiscalização para efeitos do disposto no artigo 8.º
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - As informações e os pareceres emitidos são publicitados em plataforma eletrónica disponibilizada pela ARTE, I. P., salvo quando haja informação que possa ser qualificada como reservada.
 
@@ -278,7 +335,7 @@ Todas as referências feitas à AMA, I. P., constantes do [Decreto-Lei n.º 107/
 
 ###### Artigo 4.º — Norma revogatória
 
-São revogados os n.<sup>os</sup>5 e 6 do artigo 1.º e o n.º 5 do artigo 3.º do [Decreto-Lei n.º 107/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2012-551977), de 18 de maio, na sua redação atual.
+São revogados os n.os5 e 6 do artigo 1.º e o n.º 5 do artigo 3.º do [Decreto-Lei n.º 107/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2012-551977), de 18 de maio, na sua redação atual.
 
 ###### Artigo 5.º — Entrada em vigor
 
@@ -286,12 +343,14 @@ O presente decreto-lei entra em vigor no primeiro dia do terceiro mês seguinte 
 
 Visto e aprovado em Conselho de Ministros de 4 de dezembro de 2025. - Luís Montenegro - Marisa da Luz Bento Garrido Marques Oliveira - Gonçalo Nuno da Cruz Saraiva Matias.
 
-**Promulgado em 17 de janeiro de 2026.**
+Promulgado em 17 de janeiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 19 de janeiro de 2026.**
+Referendado em 19 de janeiro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119947349

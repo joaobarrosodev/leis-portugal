@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/51-a/2026/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/51-a-2026-1031484982
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:30:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5050aa0c44e75d452cdce00231f0e046f9de41c80f0fed56a9f692914f23e056
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef69125de2a9abfbdb13354fd003cc8222a8f0fefea82cedc2ac86ebc6be3917
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:30:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regulamentação de Atos Legislativos
-- Pesca
-- Recursos do Mar
 - Parque Natural do Sudoeste Alentejano e Costa Vicentina
-- Proteção do Ambiente
+- Pesca
 - Prazo
+- Proteção do Ambiente
+- Recursos do Mar
+- Regulamentação de Atos Legislativos
 relationships:
+- type: amends
+  target: pt:numero:portaria:372/2024
+  label: Altera, a partir de 31 de janeiro de 2026, o artigo 6.º da Portaria n.º 372/2024/1, de 31 de dezembro, Diário da
+    República n.º 253/2024, Série I
+  source: null
+  date: '2024-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/73/2020/09/23/p/dre
   label: null
@@ -81,16 +87,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/372/2024/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/372/2024/12/31/p/dre
+- type: cites
+  target: pt:dre:143527213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901661935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928659567:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:30:48Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +127,7 @@ Neste contexto, a redefinição do período de defeso do sargo legítimo e do sa
 
 Justificando-se a redefinição do período de defeso, importa assegurar que o mesmo não seja esvaziado por exceções que permitam capturas acessórias de sargo legítimo durante esse período, promovendo uma tutela mais efetiva dos recursos e uma gestão equilibrada do esforço de pesca, em conformidade com os princípios da sustentabilidade e da proporcionalidade.
 
-Assim, ao abrigo dos n.<sup>os</sup>1 e 2 do artigo 10.º do [Decreto-Lei n.º 73/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), de 23 de setembro, manda o Governo, pelo Secretário de Estado das Pescas e do Mar, no uso das competências delegadas pelo [Despacho n.º 9586/2025](https://diariodarepublica.pt/dr/detalhe/despacho/9586-2025-928659567), publicado no Diário da República, 2.ª série, n.º 154, de 12 de agosto de 2025, o seguinte:
+Assim, ao abrigo dos n.os1 e 2 do artigo 10.º do [Decreto-Lei n.º 73/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), de 23 de setembro, manda o Governo, pelo Secretário de Estado das Pescas e do Mar, no uso das competências delegadas pelo [Despacho n.º 9586/2025](https://diariodarepublica.pt/dr/detalhe/despacho/9586-2025-928659567), publicado no Diário da República, 2.ª série, n.º 154, de 12 de agosto de 2025, o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -133,4 +151,6 @@ O artigo 6.º da [Portaria n.º 372/2024/1](https://diariodarepublica.pt/dr/deta
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado das Pescas e do Mar, Salvador Malheiro Ferreira da Silva, em 29 de janeiro de 2026.**
+O Secretário de Estado das Pescas e do Mar, Salvador Malheiro Ferreira da Silva, em 29 de janeiro de 2026.
+
+119947530

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45586-1964-470013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-02-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:39:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 215ddb0ad545f28d657d63b39546294588f708feafdf4675c8d034520c86be44
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47209f90b29e2222eee15788d179415079f1386accff2646ba3d3fdece83794e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:39:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:39:34Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +95,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Fica a Administração dos Portos do Douro e Leixões autorizada, nos termos e para os efeitos do disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957, a celebrar contrato com a Sociedade de Empreitadas Moniz da Maia & Vaz Guedes, Lda., para a construção, pelo montante de 40615813$97, das pontes-cais n.os 1 a 3, destinadas à descarga da sardinha, no porto de Leixões.
+Artigo 1.º Fica a Administração dos Portos do Douro e Leixões autorizada, nos termos e para os efeitos do disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957, a celebrar contrato com a Sociedade de Empreitadas Moniz da Maia & Vaz Guedes, Lda., para a construção, pelo montante de 40615813$97, das pontes-cais n.os 1 a 3, destinadas à descarga da sardinha, no porto de Leixões.
 
-###### Art. 2.º O encargo referido no artigo 1.º terá a seguinte distribuição nos anos de 1964 a 1967:
+Art. 2.º O encargo referido no artigo 1.º terá a seguinte distribuição nos anos de 1964 a 1967:
 
 1964 - 8000000$00.
 
@@ -105,6 +109,6 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 § único. Se em relação ao final de cada um dos anos de 1964 a 1966 não for despendida a totalidade dos encargos prevista no corpo deste artigo, passará o saldo apurado para o ano imediato.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Fevereiro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Carlos Gomes da Silva Ribeiro.

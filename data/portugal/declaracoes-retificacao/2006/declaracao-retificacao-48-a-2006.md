@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 151/2006, 1º Suplemento, Série I de 2006-08-07
   number: '151'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5634-(2) a 5634-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2006/08/15101/00020011.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/48-a/2006/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/48-a-2006-242893
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:06:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aabd64c6211d7717a45914fcd048fe4d65652dbb419f7b32fb66e57b3302777c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2675bb85cf3fb9dfca4faaf6b08cd1d71e13aea49a546694ce4971ade3978f86
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:06:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vida Selvagem
-- Proteção dos Animais
-- Proteção do Ambiente
+- Açores
 - Diversidade Biológica
 - Espécie Protegida
-- Zona de Proteção
+- Proteção do Ambiente
+- Proteção dos Animais
 - Proteção Fitossanitária
 - Recursos Naturais
-- Açores
 - Rede Natura 2000
+- Vida Selvagem
+- Zona de Proteção
 - Zona Especial de Conservação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/20/2006/06/06/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/20/2006/06/06/a/dre
+- type: cites
+  target: pt:dre:353938:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:06:32Z'
   warnings: []
   errors: []
 ---
@@ -102,25 +106,25 @@ Para os devidos efeitos se declara que o [Decreto Legislativo Regional n.º 20/2
 
 1 - Na tabela referente à ilha do Faial, a p.3884, onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/15101/00020011.pdf))](https://files.diariodarepublica.pt/1s/2006/08/15101/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/15101/00020011.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/15101/00020011.pdf))](https://files.diariodarepublica.pt/1s/2006/08/15101/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/15101/00020011.pdf)
 
 2 - Na tabela referente à ilha de São Jorge, a p.3896, onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/15101/00020011.pdf))](https://files.diariodarepublica.pt/1s/2006/08/15101/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/15101/00020011.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/15101/00020011.pdf))](https://files.diariodarepublica.pt/1s/2006/08/15101/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/15101/00020011.pdf)
 
 3 - A partir da p. 3904 e até à p. 3910 passa a constar:
 
 Ilha: São Miguel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/15101/00020011.pdf))](https://files.diariodarepublica.pt/1s/2006/08/15101/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/15101/00020011.pdf)
 
 SIC: Lagoa do Fogo
 
@@ -140,11 +144,11 @@ SIC: Caloura-Ponta da Galera e Lagoa do Fogo.
 
 ZPE: Pico da Vara/Ribeira do Guilherme.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/15101/00020011.pdf))](https://files.diariodarepublica.pt/1s/2006/08/15101/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/15101/00020011.pdf)
 
 Ilha: Santa Maria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/15101/00020011.pdf))](https://files.diariodarepublica.pt/1s/2006/08/15101/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/15101/00020011.pdf)
 
 SIC: Ponta do Castelo
 
@@ -160,19 +164,19 @@ SIC: Ponta do Castelo.
 
 ZPE: Ilhéu da Vila e costa adjacente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/15101/00020011.pdf))](https://files.diariodarepublica.pt/1s/2006/08/15101/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/15101/00020011.pdf)
 
 SIC: Ilhéu das Formigas e Recife Dollabarat
 
 O Sítio de Importância Comunitária do Ilhéu das Formigas e Recife Dollabarat é delimitado a Norte, por uma tangente à linha perpendicular da linha de costa de 0,5 nm, seguindo pela linha batimétrica dos 200 m, até ao ponto inicial.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/15101/00020011.pdf))](https://files.diariodarepublica.pt/1s/2006/08/15101/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/15101/00020011.pdf)
 
 SIC: Banco D. João de Castro
 
 O Sítio de Importância Comunitária do Banco de D. João de Castro é delimitado por um rectângulo com os vértices em 38º14,068'N, 26º37,187'W (a Noroeste), 38º14,068'N, 26º34,070'W, (a Nordeste), 38º12,125'N, 26º37,187'W (a Sudoeste), 38º12,125'N, 26º34,070'W (a Sudeste).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/15101/00020011.pdf))](https://files.diariodarepublica.pt/1s/2006/08/15101/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/15101/00020011.pdf)
 
 3 - Integração das Medidas Reguladoras
 

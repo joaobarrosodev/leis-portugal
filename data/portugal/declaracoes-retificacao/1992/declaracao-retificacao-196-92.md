@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 277/1992, 3º Suplemento, Série I-B de 1992-11-30
   number: '277'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 5522-(8) a 5522-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/11/277b03/00080008.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/196/1992/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/196-1992-668129
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:34:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 170376d98ac456b684e4d92fa91bcd231b2bd733753d72b77e73e460f10d6962
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd911e15977b91b6427e01595947949ed20c21600880a135bf675c1e8317a1ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:34:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Defesa Nacional
-- Ministério da Administração Interna
-- Ministério da Educação
 - Crédito Especial
+- Ministério da Administração Interna
 - Ministério da Agricultura
-- Ministério do Planeamento e da Administração do Território
-- Ministério do MAR
-- Ministério das Obras Públicas Transportes e Comunicações
-- Ministério das Finanças
-- Ministério da Justiça
+- Ministério da Defesa Nacional
+- Ministério da Educação
 - Ministério da Indústria e Energia
+- Ministério da Justiça
+- Ministério da Saúde
+- Ministério das Finanças
+- Ministério das Obras Públicas Transportes e Comunicações
 - Ministério do Ambiente e Recursos Naturais
 - Ministério do Comércio e Turismo
+- Ministério do MAR
+- Ministério do Planeamento e da Administração do Território
 - Orçamento
-- Ministério da Saúde
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:34:20Z'
   warnings: []
   errors: []
 ---

@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 113/2008, 2º Suplemento, Série I de 2008-06-13
   number: '113'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3464-(28) a 3464-(28)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/06/11302/0002800028.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/32-b/2008/06/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/32-b-2008-551642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-13T00:00:00Z'
+  retrieved_at: '2026-10-22T19:10:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8eadb9862e83e23196b661a9ee90bd34308acfb1f1fadd47ce330377fd5e9366
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c0490ca305220a870eed3161b1e24fb680a1f5c325bf5428720820ada42d36f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:10:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,18 +69,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Sanção Disciplinar
 - Carteira Profissional
-- Jornalista
+- Comissão da Carteira Profissional do Jornalista
 - Comunicação Social
-- ERC
 - Correspondente Estrangeiro
 - Definição de Competências
+- ERC
+- Estágio de Formação
 - Incompatibilidades
 - Jornalismo
-- Comissão da Carteira Profissional do Jornalista
-- Estágio de Formação
+- Jornalista
 - Receita
+- Sanção Disciplinar
 - Segredo Profissional
 relationships:
 - type: cites
@@ -91,16 +91,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/70/2008/04/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/70/2008/04/15/p/dre
+- type: cites
+  target: pt:dre:249819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:70/2008
+  label: "Rectifica o Decreto-Lei n.º 70/2008, de 15 de Abril, DR.IS [74]\0\0"
+  source: null
+  date: '2008-04-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:10:02Z'
   warnings: []
   errors: []
 ---

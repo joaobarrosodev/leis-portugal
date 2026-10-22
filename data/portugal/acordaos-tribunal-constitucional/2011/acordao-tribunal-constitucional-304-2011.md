@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/304/2011/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/304-2011-669538
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-28T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d66a457e302bae1ce7bb7d9ce9af69987b95581999f3fb022707f4c2c15e450d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90cb2fc1d7d46b9ffa1638c7a14f00944d2400927a0f66078eb1d3b2cff74e05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Doença do Machado
-- Política de Saúde
 - Ação Social
-- Medicamento
-- Inconstitucionalidade
-- Pensão de Invalidez
-- Incapacidade Física
-- Proteção Social
-- Doença
-- Segurança Social
 - Açores
+- Doença
+- Doença do Machado
+- Incapacidade Física
+- Inconstitucionalidade
+- Medicamento
+- Pensão de Invalidez
+- Política de Saúde
+- Proteção Social
+- Segurança Social
 - Subsídio de Acompanhante
 relationships:
 - type: cites
@@ -122,16 +122,88 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiconst/1/2004/07/24/p/dre
   label: null
   source: http://data.dre.pt/eli/leiconst/1/2004/07/24/p/dre
+- type: cites
+  target: pt:dre:221355:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485473:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683012:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:58Z'
   warnings: []
   errors: []
 ---

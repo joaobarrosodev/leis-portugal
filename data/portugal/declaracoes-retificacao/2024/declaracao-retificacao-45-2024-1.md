@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/25200/0010300103.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/45/2024/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/45-2024-901536086
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-20T00:00:00Z'
+  retrieved_at: '2026-10-22T19:15:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9db312549b7dce5e8e56e5c24d624b41e8ed34804dad98cd3d1dc3680f1ca1c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d32f7aa8798caafa08f9f5d7f2d8a2ab505f999fc8ebff897417f00b29448f6f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:15:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Unidade de Saúde Familiar
-- Serviço Nacional de Saúde
-- Recrutamento de Pessoal
 - Administração Central do Sistema de Saúde
 - Cuidados Médicos
 - Direção Executiva do Serviço Nacional de Saúde
+- Recrutamento de Pessoal
+- Serviço Nacional de Saúde
+- Unidade de Saúde Familiar
 relationships:
 - type: amended_by
   target: pt:dre:1016097566:por
@@ -97,16 +97,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/302/2024/11/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/302/2024/11/25/p/dre
+- type: cites
+  target: pt:dre:159432383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:897543553:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:portaria:302/2024
+  label: Retifica o n.º 4 do artigo 5.º da Portaria n.º 302/2024/1, de 25 de novembro, Diário da República n.º 228/2024, Série
+    I
+  source: null
+  date: '2024-11-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:15:30Z'
   warnings: []
   errors: []
 ---
@@ -124,3 +154,5 @@ deve ler-se:
 «4 - O procedimento de constituição e contratualização de USF modelo C e de contratação da prestação de cuidados de saúde primários no âmbito deste modelo de USF são iniciados pela ACSS, I. P., no prazo máximo de 30 dias contados da aprovação do despacho a que se refere o n.º 3 do artigo 7.º do regime jurídico da organização e do funcionamento das USF, com observância do disposto na presente portaria e demais legislação aplicável.»
 
 Secretaria-Geral, 20 de dezembro de 2024. - A Secretária-Geral Adjunta, Fátima Costa Ferreira.
+
+118499821

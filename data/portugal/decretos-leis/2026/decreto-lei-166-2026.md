@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/166/2026/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-13T00:00:00Z'
+  retrieved_at: '2026-10-22T18:49:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 296e0ba74dec23c05dd5bcebb7448832a84c30808a7540aa2ef349eb5b031b9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5df6a819f22540618fedb144768c96e2b4a37900be3c5b49f299eb740322fd2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:49:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,84 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cálculo de Pensões
-- Regulamentação de Atos Legislativos
+- Desemprego
 - Fiscalização
-- IRS
+- Inserção Social
 - Insuficiência Económica
+- IRS
 - Pensionista
+- Prestação Social Única
 - Prestações da Segurança Social
 - Prestações Pecuniárias
-- Desemprego
-- Inserção Social
 - Proteção Social
+- Regulamentação de Atos Legislativos
 - Rendimento
 - Sanção
 - Segurança Social
-- Prestação Social Única
 relationships:
+- type: amends
+  target: pt:numero:lei:9/2002
+  label: Altera, a partir de 14 de agosto de 2026, com efeitos a 31 de dezembro de 2026, o artigo 6.º da Lei n.º 9/2002, de
+    11 de fevereiro, Diário da República n.º 35/2002, Série I-A
+  source: null
+  date: '2002-02-11'
+- type: amends
+  target: pt:numero:decreto-lei:232/2005
+  label: Altera, a partir de 14 de agosto de 2026, com efeitos a 31 de dezembro de 2026, os artigos 2.º, 4.º e 11.º e revoga
+    a alínea c) do n.º 1 do artigo 11.º do Decreto-Lei n.º 232/2005, de 29 de dezembro, Diário da República n.º 249/2005,
+    Série I-A
+  source: null
+  date: '2005-12-29'
+- type: amends
+  target: pt:numero:decreto-lei:220/2006
+  label: Altera, a partir de 14 de agosto de 2026, com efeitos a 31 de dezembro de 2026, os artigos 3.º, 7.º, 8.º, 22.º, 26.º,
+    28.º-A, 32.º, 34.º, 34.º-A, 36.º, 37.º, 57.º, 64.º, 65.º, 76.º, 78.º e 80.º e revoga o n.º 2 do artigo 7.º, o n.º 2 do
+    artigo 18.º, os n.ºs 2, 3 e 4 do artigo 22.º, os artigos 24.º, 30.º e 31.º, o n.º 3 do artigo 36.º, o artigo 38.º, a alínea
+    b) do n.º 2 do artigo 42.º, a alínea d) do n.º 1 do artigo 55.º, o artigo 59.º, o artigo 59.º-A, os n.ºs 5, 6 e 8 do artigo
+    76.º, o n.º 4 do artigo 78.º e o n.º 2 do artigo 80.º do Decreto-Lei n.º 220/2006, de 3 de novembro, Diário da República
+    n.º 212/2006, Série I de 2006-11-03
+  source: null
+  date: '2006-11-03'
+- type: amends
+  target: pt:numero:lei:3/2009
+  label: Altera, a partir de 14 de agosto de 2026, com efeitos a 31 de dezembro de 2026, o artigo 5.º da Lei n.º 3/2009, de
+    13 de janeiro, Diário da República n.º 8/2009, Série I de 2009-01-13
+  source: null
+  date: '2009-01-13'
+- type: amends
+  target: pt:numero:decreto-lei:91/2009
+  label: Altera, a partir de 14 de agosto de 2026, com efeitos a 31 de dezembro de 2026, os artigos 1.º, 63.º e 64.º e revoga
+    o artigo 3.º, o n.º 9 do artigo 66.º, o n.º 2 do artigo 67.º, os artigos 78.º e 83.º e o capítulo iii do Decreto-Lei n.º
+    91/2009, de 9 de abril, Diário da República n.º 70/2009, Série I
+  source: null
+  date: '2009-04-08'
+- type: amends
+  target: pt:numero:lei:90/2009
+  label: Altera, a partir de 14 de agosto de 2026, com efeitos a 31 de dezembro de 2026, o artigo 1.º e revoga a alínea c)
+    do n.º 1 do artigo 3.º, o n.º 4 do artigo 5.º e o artigo 10.º-A da Lei n.º 90/2009, de 31 de agosto, Diário da República
+    n.º 168/2009, Série I
+  source: null
+  date: '2009-08-30'
+- type: amends
+  target: pt:numero:decreto-lei:70/2010
+  label: Altera, a partir de 14 de agosto de 2026, com efeitos a 31 de dezembro de 2026, os artigos 12.º e 22.º e revoga as
+    alíneas c), d) e e) do artigo 1.º do Decreto-Lei n.º 70/2010, de 16 de junho, Diário da República n.º 115/2010, Série
+    I
+  source: null
+  date: '2010-06-15'
+- type: amends
+  target: pt:numero:decreto-lei:126-A/2017
+  label: Altera, a partir de 14 de agosto de 2026, com efeitos a 31 de dezembro de 2026, o artigo 49.º e revoga os n.ºs 4
+    e 10 do artigo 49.º do Decreto-Lei n.º 126-A/2017, de 6 de outubro, Diário da República n.º 193/2017, 1º Suplemento, Série
+    I
+  source: null
+  date: '2017-10-05'
+- type: amends
+  target: pt:numero:decreto-lei:55/2020
+  label: Altera, a partir de 14 de agosto de 2026, com efeitos a 31 de dezembro de 2026, o artigo 3.º e revoga o artigo 11.º
+    do Decreto-Lei n.º 55/2020, de 12 de agosto, Diário da República n.º 156/2020, Série I
+  source: null
+  date: '2020-08-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/126-a/2017/10/06
   label: null
@@ -122,16 +185,132 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/90/2009/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/90/2009/08/31/p/dre
+- type: cites
+  target: pt:dre:108269605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1152409209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140087205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603961:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:208/2001
+  label: Revoga, a partir de 14 de agosto de 2026, com efeitos a 31 de dezembro de 2026, nos termos da alínea f) do artigo
+    62.º do presente diploma, o Decreto-Lei n.º 208/2001, de 27 de julho, Diário da República n.º 173/2001, Série I-A
+  source: null
+  date: '2001-07-26'
+- type: repeals
+  target: pt:numero:decreto-lei:18/2002
+  label: Revoga, a partir de 14 de agosto de 2026, com efeitos a 31 de dezembro de 2026, nos termos da alínea g) do artigo
+    62.º do presente diploma, o Decreto-Lei n.º 18/2002, de 29 de janeiro, Diário da República n.º 24/2002, Série I-A
+  source: null
+  date: '2002-01-29'
+- type: repeals
+  target: pt:numero:lei:13/2003
+  label: Revoga, a partir de 14 de agosto de 2026, com efeitos a 31 de dezembro de 2026, nos termos da alínea h) do artigo
+    62.º do presente diploma, a Lei n.º 13/2003, de 21 de maio, Diário da República n.º 117/2003, Série I-A
+  source: null
+  date: '2003-05-20'
+- type: repeals
+  target: pt:numero:decreto-lei:221/2012
+  label: Revoga, a partir de 14 de agosto de 2026, com efeitos a 31 de dezembro de 2026, nos termos da alínea n) do artigo
+    62.º do presente diploma, o Decreto-Lei n.º 221/2012, de 12 de outubro, Diário da República n.º 198/2012, Série I
+  source: null
+  date: '2012-10-11'
 article_structure:
-  article_count: 85
+  article_count: 63
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:49:56Z'
   warnings: []
   errors: []
 ---
@@ -410,7 +589,7 @@ d) Pensões de alimentos.
 
 2 - Para efeitos da verificação da condição de recursos e da determinação do montante da PSU, o valor dos apoios imputados à habitação social, incluindo os que decorrem de programas de arrendamento subsidiado corresponde a 50 % da diferença entre a renda de referência e a renda paga pelo beneficiário.
 
-3 - A renda de referência corresponde a um terço do valor mediano das rendas por metro quadrado de novos contratos de arrendamento para habitação, nos últimos 12 meses, com referência ao terceiro trimestre do ano anterior, publicado pelo Instituto Nacional de Estatística, I. P., e aplicado à área de referência de 112,50 m<sup>2</sup>, definida de acordo com os censos mais recentes, como área útil média da residência habitual em Portugal.
+3 - A renda de referência corresponde a um terço do valor mediano das rendas por metro quadrado de novos contratos de arrendamento para habitação, nos últimos 12 meses, com referência ao terceiro trimestre do ano anterior, publicado pelo Instituto Nacional de Estatística, I. P., e aplicado à área de referência de 112,50 m2, definida de acordo com os censos mais recentes, como área útil média da residência habitual em Portugal.
 
 4 - Não estando disponível o valor mediano referido no número anterior, é considerado, para efeitos do disposto no presente artigo, o valor mediano mais recente publicado pelo Instituto Nacional de Estatística, I. P.
 
@@ -536,7 +715,7 @@ c) Comunicar à instituição gestora competente qualquer facto imputável ao ti
 
 ###### Artigo 23.º — Confidencialidade
 
-Todas as entidades e pessoas envolvidas na gestão e acompanhamento da PSU devem assegurar a confidencialidade dos dados pessoais dos requerentes, titulares e beneficiários da prestação e limitar a sua utilização aos fins a que se destina, obedecendo aos princípios e regras aplicáveis ao tratamento de dados pessoais, nos termos do disposto no Regulamento Geral sobre a Proteção de Dados, nas Leis n.<sup>os</sup>[58/2019](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982) e [59/2019](https://diariodarepublica.pt/dr/detalhe/lei/59-2019-123815983), ambas de 8 de agosto, e demais legislação complementar.
+Todas as entidades e pessoas envolvidas na gestão e acompanhamento da PSU devem assegurar a confidencialidade dos dados pessoais dos requerentes, titulares e beneficiários da prestação e limitar a sua utilização aos fins a que se destina, obedecendo aos princípios e regras aplicáveis ao tratamento de dados pessoais, nos termos do disposto no Regulamento Geral sobre a Proteção de Dados, nas Leis n.os[58/2019](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982) e [59/2019](https://diariodarepublica.pt/dr/detalhe/lei/59-2019-123815983), ambas de 8 de agosto, e demais legislação complementar.
 
 ### CAPÍTULO II — MONTANTE DA PRESTAÇÃO SOCIAL ÚNICA E REGIME FISCAL
 
@@ -588,7 +767,7 @@ PSUglobal = (PSUbase + CIT) - R
 
 4 - A majoração referida no n.º 1 é concedida exclusivamente durante os primeiros seis meses de atribuição da PSU.
 
-5 - Para efeitos de verificação dos dias de registos de remuneração referidos nos n.<sup>os</sup>2 e 3 aplica-se o artigo 23.º do [Decreto-Lei n.º 220/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2006-546202), de 3 de novembro.
+5 - Para efeitos de verificação dos dias de registos de remuneração referidos nos n.os2 e 3 aplica-se o artigo 23.º do [Decreto-Lei n.º 220/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2006-546202), de 3 de novembro.
 
 6 - Cessada a concessão da majoração referida no n.º 1, a PSU mantém-se pelo período de atribuição previsto no artigo 30.º, desde que se mantenham as respetivas condições de atribuição.
 
@@ -802,7 +981,9 @@ e) [Anterior alínea d).]
 
 2 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O montante do complemento por dependência é indexado ao valor do indexante dos apoios sociais (IAS), nos seguintes termos:
 
@@ -846,7 +1027,9 @@ Os artigos 2.º, 4.º e 11.º do [Decreto-Lei n.º 232/2005](https://diariodarep
 
 3 - Têm ainda direito ao complemento solidário para idosos os titulares da prestação social única que se encontrem em situação de incapacidade permanente para o trabalho nos termos previstos no regime especial de proteção na invalidez do regime geral de segurança social, certificada pelo sistema de verificação de incapacidades, e que residam legalmente em território nacional e satisfaçam as condições previstas no presente decreto-lei.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O reconhecimento do direito ao complemento solidário para idosos depende de o requerente se encontrar numa das situações previstas nas alíneas a), b) ou c) e, cumulativamente, satisfazer as condições previstas nas alíneas d) e e).
 
@@ -874,7 +1057,9 @@ c) [...]
 
 5 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -904,7 +1089,9 @@ Medida passiva
 
 Constitui medida passiva a atribuição do subsídio de desemprego.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Constituem prestações de desemprego o subsídio de desemprego e o subsídio de desemprego parcial.
 
@@ -912,7 +1099,9 @@ Constitui medida passiva a atribuição do subsídio de desemprego.
 
 3 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A titularidade do direito ao subsídio de desemprego é reconhecida aos beneficiários cujo contrato de trabalho tenha cessado nos termos do artigo 9.º, reúnam as respetivas condições de atribuição à data do desemprego e residam em território nacional.
 
@@ -920,7 +1109,9 @@ Constitui medida passiva a atribuição do subsídio de desemprego.
 
 3 - A titularidade do direito ao subsídio de desemprego é ainda reconhecida aos beneficiários que, sendo pensionistas de invalidez, cuja qualidade adquiriram no âmbito do regime geral de segurança social, e não exercendo simultaneamente atividade profissional, sejam declarados aptos para o trabalho em exame de revisão de incapacidade.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...]
 
@@ -932,11 +1123,15 @@ Constitui medida passiva a atribuição do subsídio de desemprego.
 
 5 - Para efeitos do disposto no n.º 1, quando necessário, podem ser considerados os períodos de registo de remunerações por exercício de atividade profissional independente, sem prejuízo do disposto no artigo seguinte.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 O reconhecimento do direito às prestações de desemprego aos ex-pensionistas de invalidez depende apenas da caracterização da situação de desemprego.
 
-###### Artigo 28.º-A — [...]
+Artigo 28.º-A
+
+[...]
 
 1 - [...]
 
@@ -954,7 +1149,9 @@ O reconhecimento do direito às prestações de desemprego aos ex-pensionistas d
 
 8 - [...]
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - O montante diário do subsídio de desemprego atribuído aos beneficiários ex-pensionistas de invalidez é indexado ao valor do indexante dos apoios sociais (IAS) e calculado na base de 30 dias por mês, nos termos seguintes:
 
@@ -964,7 +1161,9 @@ b) 80 % para os beneficiários isolados.
 
 2 - O montante do subsídio de desemprego a que se refere o número anterior não pode ser superior ao último valor da pensão de invalidez a que os beneficiários tinham direito enquanto pensionistas.
 
-###### Artigo 34.º — Montante único do subsídio de desemprego
+Artigo 34.º
+
+Montante único do subsídio de desemprego
 
 1 - O subsídio de desemprego a que os beneficiários tenham direito pode ser pago globalmente, por uma só vez, nos casos em que os interessados apresentem projeto de criação do próprio emprego.
 
@@ -978,13 +1177,17 @@ b) 80 % para os beneficiários isolados.
 
 6 - A regulamentação do pagamento do montante global do subsídio de desemprego consta de diploma próprio.
 
-###### Artigo 34.º-A — Pagamento parcial do montante único do subsídio de desemprego
+Artigo 34.º-A
+
+Pagamento parcial do montante único do subsídio de desemprego
 
 1 - O subsídio de desemprego a que os beneficiários tenham direito pode ser pago parcialmente de uma só vez, nos casos em que os interessados apresentem projeto de criação do próprio emprego e as despesas elegíveis não ultrapassem o valor do montante único.
 
 2 - Na situação prevista no número anterior, continua a ser pago aos beneficiários o subsídio de desemprego correspondente ao remanescente do período de concessão que não foi pago de uma só vez, salvo se se verificar o enquadramento no regime dos trabalhadores por conta de outrem em que há lugar à suspensão do seu pagamento.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - [...]
 
@@ -996,7 +1199,9 @@ b) 80 % para os beneficiários isolados.
 
 5 - [...]
 
-###### Artigo 37.º — Período de concessão do subsídio de desemprego
+Artigo 37.º
+
+Período de concessão do subsídio de desemprego
 
 1 - O período de concessão do subsídio de desemprego é estabelecido em função da idade do beneficiário e do número de meses com registo de remunerações no período imediatamente anterior à data do desemprego, nos seguintes termos:
 
@@ -1022,7 +1227,9 @@ c) [...]
 
 5 - [...]
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - Nas situações de desemprego de longa duração devidamente comprovadas e após esgotado o período de concessão do subsídio de desemprego, os beneficiários podem aceder à pensão de velhice, por antecipação da idade, nos termos estabelecidos nos números seguintes.
 
@@ -1032,7 +1239,9 @@ c) [...]
 
 4 - [...]
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 1 - Constitui contraordenação punível com coima de 100 € a 700 € o incumprimento dos deveres para com os serviços ou instituições de segurança social previstas nas alíneas a) e c) do n.º 2 do artigo 42.º
 
@@ -1042,11 +1251,15 @@ c) [...]
 
 4 - [...]
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 No caso de violação do dever de comunicação de início de atividade profissional determinante da suspensão do pagamento das prestações previstas nas alíneas a) e c) do n.º 2 do artigo 42.º, e tendo em conta a gravidade da infração, pode ser aplicada ao beneficiário, simultaneamente com a coima a que houver lugar, a sanção acessória de privação de acesso às prestações de desemprego pelo período máximo de dois anos, contado a partir da decisão condenatória definitiva.
 
-###### Artigo 76.º — Meios de prova específicos do subsídio de desemprego parcial
+Artigo 76.º
+
+Meios de prova específicos do subsídio de desemprego parcial
 
 1 - [...]
 
@@ -1066,7 +1279,9 @@ No caso de violação do dever de comunicação de início de atividade profissi
 
 9 - [...]
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - A atribuição do subsídio de desemprego parcial no decurso do período de atribuição do subsídio de desemprego não depende de requerimento, mas obriga os interessados à apresentação dos meios de prova específicos das condições que justificam a sua atribuição.
 
@@ -1078,7 +1293,9 @@ No caso de violação do dever de comunicação de início de atividade profissi
 
 5 - [...]
 
-###### Artigo 80.º — [...]
+Artigo 80.º
+
+[...]
 
 1 - Os períodos de pagamento de subsídio de desemprego dão lugar ao registo de remunerações por equivalência à entrada de contribuições pelo valor da remuneração de referência que serviu de base ao cálculo da prestação, que não pode em qualquer caso ser superior a oito vezes o valor do IAS.
 
@@ -1114,13 +1331,17 @@ Os artigos 1.º, 63.º e 64.º do [Decreto-Lei n.º 91/2009](https://diariodarep
 
 O presente decreto-lei define e regulamenta a proteção na parentalidade no âmbito da eventualidade maternidade, paternidade e adoção do sistema previdencial.
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - Constitui dever dos beneficiários a comunicação, às instituições gestoras, dos factos determinantes da cessação do direito aos subsídios, relativamente às situações previstas na alínea a) do n.º 1 do artigo 24.º, no prazo de cinco dias úteis subsequentes à data da verificação das mesmas.
 
 2 - [...]
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 1 - Constitui contraordenação punível com coima de 100 € a 700 € o incumprimento, por ação ou omissão, do dever de comunicação às instituições gestoras dos factos determinantes da cessação do direito aos subsídios, relativamente às situações previstas na alínea a) do n.º 1 do artigo 24.º, no prazo de cinco dias úteis subsequentes à data da verificação dos mesmos, bem como a utilização de qualquer meio fraudulento de que resulte a concessão indevida dos subsídios.
 
@@ -1158,7 +1379,9 @@ c) [...]
 
 4 - [...]
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - A prova dos rendimentos declarados pelos requerentes das prestações previstas na alínea a) do n.º 1 do artigo 1.º, faz-se através da interconexão de dados entre as bases de dados da segurança social e da administração fiscal, nos termos previstos no [Decreto-Lei n.º 92/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2004-223429), de 20 de abril.
 
@@ -1184,7 +1407,7 @@ O artigo 49.º do [Decreto-Lei n.º 126-A/2017](https://diariodarepublica.pt/dr/
 
 4 - [Revogado.]
 
-5 - Aos titulares da prestação, em resultado da conversão prevista no n.º 5 do artigo anterior, aplica-se a salvaguarda de direitos, prevista nos n.<sup>os</sup>1, 2 e 3.
+5 - Aos titulares da prestação, em resultado da conversão prevista no n.º 5 do artigo anterior, aplica-se a salvaguarda de direitos, prevista nos n.os1, 2 e 3.
 
 6 - [...]
 
@@ -1250,7 +1473,7 @@ A concessão das prestações fixadas no presente decreto-lei compete ao Institu
 
 5 - Aos titulares da PSU em resultado da conversão prevista nos números anteriores que sejam titulares do complemento por dependência e do complemento solidário para idosos, é assegurada a continuidade da atribuição destes complementos.
 
-6 - Nas situações previstas nos n.<sup>os</sup>2 e 4, o montante da prestação é pago em 14 mensalidades anuais e é atualizado, anualmente, nos mesmos termos das pensões de invalidez e velhice do regime geral de segurança social.
+6 - Nas situações previstas nos n.os2 e 4, o montante da prestação é pago em 14 mensalidades anuais e é atualizado, anualmente, nos mesmos termos das pensões de invalidez e velhice do regime geral de segurança social.
 
 ###### Artigo 58.º — Remissão
 
@@ -1294,7 +1517,7 @@ h) A [Lei n.º 13/2003](https://diariodarepublica.pt/dr/detalhe/lei/13-2003-5418
 
 i) A alínea c) do n.º 1 do artigo 11.º do [Decreto-Lei n.º 232/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-2005-469064), de 29 de dezembro;
 
-j) O n.º 2 do artigo 7.º, o n.º 2 do artigo 18.º, os n.<sup>os</sup>2, 3 e 4 do artigo 22.º, os artigos 24.º, 30.º e 31.º, o n.º 3 do artigo 36.º, o artigo 38.º, a alínea b) do n.º 2 do artigo 42.º, a alínea d) do n.º 1 do artigo 55.º, o artigo 59.º, o artigo 59.º-A, os n.<sup>os</sup>5, 6 e 8 do artigo 76.º, o n.º 4 do artigo 78.º e o n.º 2 do artigo 80.º do [Decreto-Lei n.º 220/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2006-546202), de 3 de novembro;
+j) O n.º 2 do artigo 7.º, o n.º 2 do artigo 18.º, os n.os2, 3 e 4 do artigo 22.º, os artigos 24.º, 30.º e 31.º, o n.º 3 do artigo 36.º, o artigo 38.º, a alínea b) do n.º 2 do artigo 42.º, a alínea d) do n.º 1 do artigo 55.º, o artigo 59.º, o artigo 59.º-A, os n.os5, 6 e 8 do artigo 76.º, o n.º 4 do artigo 78.º e o n.º 2 do artigo 80.º do [Decreto-Lei n.º 220/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2006-546202), de 3 de novembro;
 
 k) O artigo 3.º, o n.º 9 do artigo 66.º, o n.º 2 do artigo 67.º, os artigos 78.º e 83.º e o capítulo iii do [Decreto-Lei n.º 91/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2009-603961), de 9 de abril;
 
@@ -1304,7 +1527,7 @@ m) As alíneas c), d) e e) do artigo 1.º do [Decreto-Lei n.º 70/2010](https://
 
 n) O [Decreto-Lei n.º 221/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2012-176362), de 12 de outubro;
 
-o) Os n.<sup>os</sup>4 e 10 do artigo 49.ºdo [Decreto-Lei n.º 126-A/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), de 6 de outubro;
+o) Os n.os4 e 10 do artigo 49.ºdo [Decreto-Lei n.º 126-A/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), de 6 de outubro;
 
 p) O artigo 11.º do [Decreto-Lei n.º 55/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2020-140087205), de 12 de agosto.
 
@@ -1314,12 +1537,14 @@ O presente decreto-lei entra em vigor no primeiro dia útil seguinte ao da sua p
 
 Visto e aprovado em Conselho de Ministros de 30 de julho de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Rosário Palma Ramalho.
 
-**Promulgado em 7 de agosto de 2026.**
+Promulgado em 7 de agosto de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 10 de agosto de 2026.**
+Referendado em 10 de agosto de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119949325

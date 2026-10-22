@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/5/2026/02/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/5-2026-1039332359
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-09T00:00:00Z'
+  retrieved_at: '2026-10-22T18:31:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df7296a2782c12c14cab4becb7e173c2615adf9e2ca38eb4d9233786be28b3f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 359015484110e26eb7d3cafa2330e695b46d9ac4321ac1278b6a06a08d9e75a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:31:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Portugal
 - Documentação Classificada
 - França
+- Portugal
 relationships: []
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:31:43Z'
   warnings: []
   errors: []
 ---
@@ -99,15 +99,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 29 de dezembro de 2025. - Paulo Artur dos Santos de Castro de Campos Rangel - Paulo Artur dos Santos de Castro de Campos Rangel - António Leitão Amaro.
 
-**Assinado em 9 de janeiro de 2026.**
+Assinado em 9 de janeiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 14 de janeiro de 2026.**
+Referendado em 14 de janeiro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 Acordo Que Altera o Acordo sobre Proteção de Informações e Matérias Classificadas entre a República Portuguesa e a República Francesa
 
@@ -210,15 +210,15 @@ La République portugaise et la République française ci-après dénommées les
 
 Considérant l’Accord entre la République portugaise et la République française relatif à la protection des informations et matériels classifiés, signé à Paris le 10 janvier 2005, ci-après dénommé «l’Accord» ;
 
-Constatant que la France a procédé à une réforme de sa règlementation relative à la protection du secret de la défense nationale, qui est entrée en vigueur le 1<sup>er</sup> juillet 2021;
+Constatant que la France a procédé à une réforme de sa règlementation relative à la protection du secret de la défense nationale, qui est entrée en vigueur le 1er juillet 2021;
 
 Soulignant que cette réforme visait à optimiser les niveaux de classification de sécurité, avec le passage de trois niveaux - Confidentiel Défense, Secret Défense et Très Secret Défense - à deux niveaux : Secret et Très Secret, et à renforcer les règles de protection par niveau, tout en garantissant, pour chacun d’eux, des mesures de protection équivalentes aux normes internationales;
 
-Conscientes que les informations et matériels classifiés émis avant le 1<sup>er</sup> juillet 2021, qui restent marqués des anciens timbres de classification, continuent à être échangés selon les équivalences en vigueur avant cette date et que les accords de sécurité entre la France et ses partenaires doivent être complétés pour organiser l’équivalence de protection à accorder aux informations et matériels classifiés français ou générés en commun émis après le 1<sup>er</sup> juillet 2021;
+Conscientes que les informations et matériels classifiés émis avant le 1er juillet 2021, qui restent marqués des anciens timbres de classification, continuent à être échangés selon les équivalences en vigueur avant cette date et que les accords de sécurité entre la France et ses partenaires doivent être complétés pour organiser l’équivalence de protection à accorder aux informations et matériels classifiés français ou générés en commun émis après le 1er juillet 2021;
 
 Sont convenues de ce qui suit:
 
-Article 1<sup>er</sup>
+Article 1er
 
 Objet
 
@@ -269,7 +269,7 @@ La Partie française et les organismes publics ou privés placés sous sa juridi
 
 b) Un nouveau paragraphe 2 est ajouté, rédigé comme suit:
 
-«2. La Partie portugaise et les organismes publics ou privés placés sous sa juridiction traitent et protègent les informations et matériels classifiés portant les mentions “Très Secret Défense”, “Secret Défense” et “Confidentiel Défense”, produites avant le 1<sup>er</sup> juillet 2021 et transmises par la Partie française, conformément aux exigences de sécurité prévues respectivement pour les informations classifiées de niveau “Muito Secreto”, “Secreto” et “Confidencial”.»;
+«2. La Partie portugaise et les organismes publics ou privés placés sous sa juridiction traitent et protègent les informations et matériels classifiés portant les mentions “Très Secret Défense”, “Secret Défense” et “Confidentiel Défense”, produites avant le 1er juillet 2021 et transmises par la Partie française, conformément aux exigences de sécurité prévues respectivement pour les informations classifiées de niveau “Muito Secreto”, “Secreto” et “Confidencial”.»;
 
 c) Le paragraphe 2 est remplacé par un nouveau paragraphe 3, rédigé comme suit:
 
@@ -285,7 +285,7 @@ e) Il est ajouté un paragraphe 5, rédigé comme suit:
 
 4. À l’article 12 de l’Accord, il est ajouté un paragraphe 5, rédigé comme suit:
 
-«5. Les échanges d’informations et matériels classifiés dans le cadre d’instruments contractuels et des annexes de sécurité conclus à compter du 1<sup>er</sup> juillet 2021, de même que la poursuite des échanges d’informations et matériels classifiés dans le cadre d’instruments contractuels et des annexes de sécurité conclus avant le 1<sup>er</sup> juillet 2021, s’effectuent conformément à l’article 6.».
+«5. Les échanges d’informations et matériels classifiés dans le cadre d’instruments contractuels et des annexes de sécurité conclus à compter du 1er juillet 2021, de même que la poursuite des échanges d’informations et matériels classifiés dans le cadre d’instruments contractuels et des annexes de sécurité conclus avant le 1er juillet 2021, s’effectuent conformément à l’article 6.».
 
 Article 2
 
@@ -302,3 +302,7 @@ Paulo Artur dos Santos de Castro de Campos Rangel, Ministre d’État et des Aff
 Pour la République française:
 
 Benjamin Haddad, Ministre délégué chargé de l’Europe.
+
+119947588
+
+.Tbl1 { margin-left:auto; margin-right:auto; } .Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:none; border-bottom-width:0px; border-bottom-style:none; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:middle; } .Tbl6 { text-align:center; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl8 { min-height:18px; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:none; border-bottom-width:0px; border-bottom-style:none; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:none; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:middle; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; }

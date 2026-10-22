@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43224-1960-514067
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-10-14T00:00:00Z'
+  retrieved_at: '2026-10-22T19:20:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d7f4522a66d59b99991bf699eb41d15671e573536aed6964e21b359d4ffd3de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: baf91d8a7f83dd3d883bf79dbc58f90c13e952963d9bf4e03ded75ec31857581
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:20:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:431826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435245:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:20:02Z'
   warnings: []
   errors: []
 ---
@@ -87,12 +95,12 @@ Considerando a necessidade de regular, de maneira análoga à adoptada pela For�
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. No artigo 47.º do [Decreto n.º 28211](https://diariodarepublica.pt/dr/detalhe/decreto/28211-1937-435245), de 23 de Novembro de 1937, alterado pelo disposto no artigo 1.º do [Decreto n.º 42392](https://diariodarepublica.pt/dr/detalhe/decreto/42392-1959-431826), de 17 de Julho de 1959, são incluídas as duas seguintes novas alíneas:
+Artigo único. No artigo 47.º do [Decreto n.º 28211](https://diariodarepublica.pt/dr/detalhe/decreto/28211-1937-435245), de 23 de Novembro de 1937, alterado pelo disposto no artigo 1.º do [Decreto n.º 42392](https://diariodarepublica.pt/dr/detalhe/decreto/42392-1959-431826), de 17 de Julho de 1959, são incluídas as duas seguintes novas alíneas:
 
 h) Sendo oficiais generais, estejam investidos em funções de comando conjunto ou unificado de forças navais e terrestres ou aéreas;
 
 i) Façam parte de quartéis-generais de comandos conjuntos ou unificados de forças navais e terrestres ou aéreas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Outubro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Júlio Carlos Alves Dias Botelho Moniz - Fernando Quintanilha Mendonça Dias.

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46040-1964-535270
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-11-18T00:00:00Z'
+  retrieved_at: '2026-10-22T19:43:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 337daf27b2d93b8bd07fc6a615b130c819282b062a9dcf16a4e42cc8b0fce904
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc6ffdaf1d5a9f93b1775b189e1822eeb6e372c139deb9b4ce28b9ee5af992f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:43:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:43:03Z'
   warnings: []
   errors: []
 ---
@@ -92,23 +92,23 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 ### CAPÍTULO I — Criação e fins da caixa
 
-###### Artigo 1.º É criada uma instituição de crédito com autonomia administrativa e financeira e personalidade jurídica denominada «Caixa de Crédito Agro-Pecuário de Timor», a qual passará a designar-se neste diploma simplesmente por Caixa.
+Artigo 1.º É criada uma instituição de crédito com autonomia administrativa e financeira e personalidade jurídica denominada «Caixa de Crédito Agro-Pecuário de Timor», a qual passará a designar-se neste diploma simplesmente por Caixa.
 
 § 1.º A Caixa tem a sua sede na cidade de Díli, podendo criar delegações nas sedes dos concelhos, desde que o número e a importância das operações o justifiquem.
 
 § 2.º Enquanto não forem criadas as delegações previstas no parágrafo anterior, a Caixa será representada nos concelhos pelas respectivas comissões municipais.
 
-###### Art. 2.º A Caixa tem por objecto principal a concessão do crédito a médio e a longo prazo, com vista ao fomento agro-pecuário da província, podendo excepcionalmente conceder também crédito a curto prazo para auxiliar a formação de fundos de maneio.
+Art. 2.º A Caixa tem por objecto principal a concessão do crédito a médio e a longo prazo, com vista ao fomento agro-pecuário da província, podendo excepcionalmente conceder também crédito a curto prazo para auxiliar a formação de fundos de maneio.
 
 As aplicações a que se destinam os créditos a médio e a longo prazo, e bem assim os tipos de garantia a exigir para a sua concessão, serão fixados no regulamento a que se refere o artigo 26.º
 
 § único. A título excepcional, e quando o interesse dos empreendimentos o justifique e as entidades requerentes mereçam a confiança da Caixa, o conselho de administração, por unanimidade de votos dos membros presentes, poderá conceder empréstimos a médio ou a longo prazo, até ao montante de 100000$00, com dispensa das garantias que vierem a ser estabelecidas para os casos gerais.
 
-###### Art. 3.º A Caixa poderá ainda facultar assistência técnica e prestar outros serviços aos agricultores, nomeadamente a cedência de maquinaria em regime de aluguer e de reprodutores destinados a intensificar ou melhorar a criação de gados.
+Art. 3.º A Caixa poderá ainda facultar assistência técnica e prestar outros serviços aos agricultores, nomeadamente a cedência de maquinaria em regime de aluguer e de reprodutores destinados a intensificar ou melhorar a criação de gados.
 
 ### CAPÍTULO II — Dos fundos próprios e outros recursos financeiros
 
-###### Art. 4.º A Caixa terá os seguintes fundos próprios:
+Art. 4.º A Caixa terá os seguintes fundos próprios:
 
 1.º Fundo inicial de 10000 contos, constituído pelas importâncias a transferir dos fundos destinados a fomento agro-pecuário e por um subsídio do Governo da província.
 
@@ -118,7 +118,7 @@ As aplicações a que se destinam os créditos a médio e a longo prazo, e bem a
 
 § único. O governador determinará, por simples despacho, os fundos que constituirão o fundo inicial referido no n.º 1.º
 
-###### Art. 5.º Para o financiamento das operações compreendidas no objecto da Caixa poderá esta, além da utilização dos fundos próprios indicados no artigo anterior:
+Art. 5.º Para o financiamento das operações compreendidas no objecto da Caixa poderá esta, além da utilização dos fundos próprios indicados no artigo anterior:
 
 1.º Emitir obrigações;
 
@@ -136,7 +136,7 @@ As aplicações a que se destinam os créditos a médio e a longo prazo, e bem a
 
 ### CAPÍTULO III — Da administração da Caixa
 
-###### Art. 6.º A Caixa será superiormente administrada por um conselho de administração, constituído por um presidente, de livre escolha do governador, e por seis vogais, a saber:
+Art. 6.º A Caixa será superiormente administrada por um conselho de administração, constituído por um presidente, de livre escolha do governador, e por seis vogais, a saber:
 
 1.º O delegado do procurador da República;
 
@@ -154,65 +154,65 @@ As aplicações a que se destinam os créditos a médio e a longo prazo, e bem a
 
 § 2.º O gerente será substituído nas suas faltas ou impedimentos por pessoa a designar pelo governador, mediante proposta do presidente da Caixa.
 
-###### Art. 7.º As decisões do conselho de administração serão tomadas em sessão por maioria de votos, tendo o presidente voto de qualidade.
+Art. 7.º As decisões do conselho de administração serão tomadas em sessão por maioria de votos, tendo o presidente voto de qualidade.
 
 § único. Às sessões do conselho de administração poderão assistir, quando a natureza dos assuntos tratados o justifique, quaisquer entidades oficiais ou particulares que o presidente tenha para o efeito convocado.
 
-###### Art. 8.º O presidente da Caixa poderá opor o seu veto a quaisquer decisões que repute contrárias ao interesse público ou ao da Caixa.
+Art. 8.º O presidente da Caixa poderá opor o seu veto a quaisquer decisões que repute contrárias ao interesse público ou ao da Caixa.
 
 § único. A declaração de veto implica a suspensão da deliberação, que será imediatamente sujeita à decisão do governador. Considerar-se-á levantada a suspensão se o governador, ou quem legalmente o substituir, não a confirmar dentro do prazo de quinze dias por meio de comunicação expressa dirigida à Caixa.
 
-###### Art. 9.º O conselho de administração reunirá obrigatòriamente uma vez por mês e, ainda, sempre que o presidente o tenha por necessário ou algum dos vogais o requeira, e só poderá considerar-se constituído de forma a poder deliberar se estiverem presentes, pelo menos, quatro dos vogais, além do presidente.
+Art. 9.º O conselho de administração reunirá obrigatòriamente uma vez por mês e, ainda, sempre que o presidente o tenha por necessário ou algum dos vogais o requeira, e só poderá considerar-se constituído de forma a poder deliberar se estiverem presentes, pelo menos, quatro dos vogais, além do presidente.
 
-###### Art. 10.º O presidente e cada um dos vogais do conselho de administração perceberão as remunerações a fixar em regulamento.
+Art. 10.º O presidente e cada um dos vogais do conselho de administração perceberão as remunerações a fixar em regulamento.
 
 ### CAPÍTULO IV — Da emissão de obrigações
 
-###### Art. 11.º A Caixa podará emitir obrigações amortizáveis por sorteio ou por compra no mercado no prazo máximo de vinte anos, a contar da data da emissão.
+Art. 11.º A Caixa podará emitir obrigações amortizáveis por sorteio ou por compra no mercado no prazo máximo de vinte anos, a contar da data da emissão.
 
-###### Art. 12.º A emissão de obrigações será feita por séries globais, devidamente autorizada pelo governador, sobre proposta do conselho de administração da Caixa.
+Art. 12.º A emissão de obrigações será feita por séries globais, devidamente autorizada pelo governador, sobre proposta do conselho de administração da Caixa.
 
 § único. Da proposta deverá sempre constar o número de obrigações a emitir, respectiva taxa de juro e forma de amortização, bem como quaisquer outras condições da emissão.
 
-###### Art. 13.º As obrigações serão sempre ao portador, expressas em moeda da província e no valor nominal de 100$00 cada uma, podendo haver títulos de 1, 5, 10, 20, 50 e 100 obrigações.
+Art. 13.º As obrigações serão sempre ao portador, expressas em moeda da província e no valor nominal de 100$00 cada uma, podendo haver títulos de 1, 5, 10, 20, 50 e 100 obrigações.
 
 § único. Os títulos em circulação poderão ser trocados, à custa do portador, por títulos de maior número de obrigações.
 
-###### Art. 14.º Dos próprios títulos constarão a taxa de juro das obrigações, as datas e a forma de pagamento dos juros e as das amortizações, bem como o prémio de sorteio, se o houver.
+Art. 14.º Dos próprios títulos constarão a taxa de juro das obrigações, as datas e a forma de pagamento dos juros e as das amortizações, bem como o prémio de sorteio, se o houver.
 
-###### Art. 15.º Os títulos das obrigações serão assinados pelo presidente do conselho de administração, pelo vogal representante dos serviços de Fazenda e contabilidade e pelo gerente da Caixa.
+Art. 15.º Os títulos das obrigações serão assinados pelo presidente do conselho de administração, pelo vogal representante dos serviços de Fazenda e contabilidade e pelo gerente da Caixa.
 
-###### Art. 16.º O sorteio para o reembolso das obrigações será feito pelo conselho de administração, com a presença da maioria dos seus membros.
+Art. 16.º O sorteio para o reembolso das obrigações será feito pelo conselho de administração, com a presença da maioria dos seus membros.
 
-###### Art. 17.º Os números das obrigações sorteadas serão anunciados por um edital afixado na sede da Caixa e nas delegações e por aviso publicado nos Boletim Oficial e imprensa.
+Art. 17.º Os números das obrigações sorteadas serão anunciados por um edital afixado na sede da Caixa e nas delegações e por aviso publicado nos Boletim Oficial e imprensa.
 
 § único. No edital e nos avisos referidos no corpo do artigo declarar-se-á o dia em que cessa de pleno direito o vencimento do juro para os respectivos títulos, ficando o seu capital à disposição de quem tenha direito a ele.
 
-###### Art. 18.º As obrigações amortizadas serão anuladas. O carimbo de anulação será aposto nos títulos das obrigações no próprio acto de pagamento ou por efeito de compra. Os referidos títulos serão destruídos no prazo de 30 dias, perante o conselho de administração.
+Art. 18.º As obrigações amortizadas serão anuladas. O carimbo de anulação será aposto nos títulos das obrigações no próprio acto de pagamento ou por efeito de compra. Os referidos títulos serão destruídos no prazo de 30 dias, perante o conselho de administração.
 
-###### Art. 19.º As obrigações emitidas pela Caixa serão garantidas por aval a prestar pelo Governo da província.
+Art. 19.º As obrigações emitidas pela Caixa serão garantidas por aval a prestar pelo Governo da província.
 
 ### CAPÍTULO V — Disposições gerais
 
-###### Art. 20.º A Caixa poderá conceder créditos, quando garantidos por aval do Governo da província, às cooperativas agrícolas, pecuárias ou agro-pecuárias, com dispensa de quaisquer outras garantias.
+Art. 20.º A Caixa poderá conceder créditos, quando garantidos por aval do Governo da província, às cooperativas agrícolas, pecuárias ou agro-pecuárias, com dispensa de quaisquer outras garantias.
 
-###### Art. 21.º A Caixa constituirá um fundo de garantia destinado a responder por eventuais prejuízos que venham a verificar-se nas operações previstas no artigo 2.º
+Art. 21.º A Caixa constituirá um fundo de garantia destinado a responder por eventuais prejuízos que venham a verificar-se nas operações previstas no artigo 2.º
 
 § único. Este fundo é constituído por uma percentagem, a fixar pelo conselho de administração, dos lucros líquidos apurados no fecho do balanço e por quaisquer importâncias que o Governo da província resolva atribuir-lhe.
 
-###### Art. 22.º Todos os actos e contratos relativos ao crédito agro-pecuário em que a Caixa intervenha, como requerente ou outorgante, são isentos de impostos.
+Art. 22.º Todos os actos e contratos relativos ao crédito agro-pecuário em que a Caixa intervenha, como requerente ou outorgante, são isentos de impostos.
 
-###### Art. 23.º À cobrança coerciva das quantias mutuadas pela Caixa, e respectivos juros e demais encargos, serão aplicáveis as disposições do Código das Execuções Fiscais.
+Art. 23.º À cobrança coerciva das quantias mutuadas pela Caixa, e respectivos juros e demais encargos, serão aplicáveis as disposições do Código das Execuções Fiscais.
 
 § único. As certidões das dívidas extraídas dos livros de escrita da Caixa servirão de base à execução e serão remetidas ao juízo fiscal competente acompanhadas de certidão do contrato a que respeitam.
 
-###### Art. 24.º O quadro do pessoal da Caixa comportará dois serviços distintos - o técnico e o administrativo -, que, embora independentes entre si, trabalharão em íntima cooperação.
+Art. 24.º O quadro do pessoal da Caixa comportará dois serviços distintos - o técnico e o administrativo -, que, embora independentes entre si, trabalharão em íntima cooperação.
 
-###### Art. 25.º A Caixa, para acautelar a eficácia da sua assistência financeira, poderá condicionar a concessão dos empréstimos a uma fiscalização apropriada da actividade dos mutuários, fazendo constar dos respectivos contratos a forma por que a exercerá.
+Art. 25.º A Caixa, para acautelar a eficácia da sua assistência financeira, poderá condicionar a concessão dos empréstimos a uma fiscalização apropriada da actividade dos mutuários, fazendo constar dos respectivos contratos a forma por que a exercerá.
 
-###### Art. 26.º No prazo de 30 dias a contar da data do presente diploma, o governador regulará, em portaria, a competência e atribuições dos órgãos da Caixa, as operações de crédito e tudo quanto for conveniente ao seu funcionamento, incluindo a constituição dos quadros do pessoal.
+Art. 26.º No prazo de 30 dias a contar da data do presente diploma, o governador regulará, em portaria, a competência e atribuições dos órgãos da Caixa, as operações de crédito e tudo quanto for conveniente ao seu funcionamento, incluindo a constituição dos quadros do pessoal.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 18 de Novembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

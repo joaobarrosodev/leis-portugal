@@ -34,6 +34,67 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-07-14'
+version_history:
+  file: diretiva-ue-1992-43.versoes.json
+  count: 2
+  source_lastmod: '2025-07-14'
+  versions:
+  - date: '2007-01-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-07-14'
+    amending: eu:celex:31997L0062:por
+    amending_title: M1; REGULAMENTO (CE) N. o 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003; DIRECTIVA
+      2006/105/CE DO CONSELHO de 20 de Novembro de 2006; DIRETIVA 2013/17/UE DO CONSELHO de 13 de maio de 2013; DIRETIVA (UE)
+      2025/1237 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de junho de 2025; ACTO (94/C 241/08); ACTO relativo às condições
+      de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República
+      da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da
+      República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 21.º
+    - Altera Interpretação
+    - Altera 1. HABITATS COSTEIROS E VEGETAÇÃO HALÓFILA
+    - Altera 2. DUNAS MARÍTIMAS E INTERIORES
+    - Altera 3. HABITATS DE ÁGUA DOCE
+    - Altera 5. MATOS ESCLERÓFILOS
+    - Altera 6. FORMAÇÕES HERBÁCEAS NATURAIS E SEMINATURAIS
+    - Altera 7. TURFEIRAS ALTAS, TURFEIRAS BAIXAS E PÂNTANOS
+    - Altera 8. HABITATS ROCHOSOS E GRUTAS
+    - Altera 9. FLORESTAS
+    - Altera a) ANIMAIS
+    - Altera b) PLANTAS
+    - Altera VERTEBRADOS
+    - Altera INVERTEBRADOS
+    - Altera Notas
+    - Adita TIPOS DE HABITATS NATURAIS DE INTERESSE DA COMUNIDADE CUJA CONSERVAÇÃO EXIGE A DESIGNAÇÃO DE ZONAS ESPECIAIS DE
+      CONSERVAÇÃO
+    - Adita ESPÉCIES ANIMAIS E VEGETAIS DE INTERESSE DA COMUNIDADE QUE EXIGEM UMA PROTEÇÃO RIGOROSA
+    - Suprime TIPOS DE HABITATS NATURAIS DE INTERESSE COMUNITÁRIO CUJA CONSERVAÇÃO EXIGE A DESIGNAÇÃO DE ZONAS ESPECIAIS DE
+      CONSERVAÇÃO
+    - Suprime 11. Águas marinhas e meios sob influência das marés
+    - Suprime 12. Falésias marítimas e praias de calhaus rolados
+    - Suprime 13. Sapais e prados salgados atlânticos e continentais
+    - Suprime 14. Sapais e prados salgados mediterrânicos e termoatlânticos
+    - Suprime 15. Estepes interiores halófilas e gipsófilas
+    - Suprime 16. Arquipélagos, costas e superfícies emergentes do mar Báltico boreal
+    - Suprime 21. Dunas marítimas das costas atlânticas, do mar do Norte e do Báltico
+    - Suprime 22. Dunas marítimas das costas mediterrânicas
+    - Suprime 23. Dunas interiores, antigas e descalcificadas
+    - Suprime 31. Águas paradas
+    - Suprime 32. Águas correntes — troços de cursos de água com dinâmica natural e seminatural (leitos pequenos, médios e
+      grandes), em que a qualidade da água não sofre mudanças significativas
+    - Suprime 51. Matos submediterrânicos e temperados
+    - Suprime 52. Matagais arborescentes mediterrânicos
+    - Suprime 53. Matos termomediterrânicos pré-estépicos
+    - Suprime 54. Friganas
+    - Suprime 61. Prados naturais
+    - Suprime 62. Formações herbáceas secas seminaturais e fácies arbustivas
+    - Suprime 63. Florestas esclerófilas sujeitas a pastoreio (montados)
+    - Suprime 64. Pradarias húmidas seminaturais de ervas altas
 identifiers:
   celex: 31992L0043
   eli: http://data.europa.eu/eli/dir/1992/43/oj
@@ -48,7 +109,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/226d5e34-b115-4d2f-a54c-d66aa5385fda.0011
   content_url: http://publications.europa.eu/resource/cellar/ed1da5be-6c97-11f0-bf4e-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0043-20250714
-  retrieved_at: '2026-10-22T02:22:30Z'
+  retrieved_at: '2026-10-22T17:37:50Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-17T12:15:20.228+02:00'
 integrity:
@@ -57,9 +118,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:22:30Z'
-  notes: Texto consolidado 01992L0043-20250714.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:37:50Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1992-43.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -1192,44 +1253,25 @@ relationships:
   source: null
 article_structure:
   article_count: 24
-  section_count: 48
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 49
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:22:30Z'
-  warnings: []
+  checked_at: '2026-10-22T17:37:50Z'
+  warnings:
+  - '01992L0043-19920610: versão indisponível (Sem expressão na língua por para CELEX 01992L0043-19920610.)'
+  - '01992L0043-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0043-19971128: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0043-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0043-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0043-20130701: versão indisponível (HTTP 404 para http://publications.europa.eu/resource/cellar/a3584529-a43b-4ef4-8579-1f69b3e8e68a.0018.03/DOC_3)'
   errors: []
 ---
 
 # Directiva 92/43/CEE do Conselho, de 21 de Maio de 1992
-
-> 01992L0043 — PT — 14.07.2025 — 007.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/31997L0062) — [DIRECTIVA 97/62/CE DO CONSELHO de 27 de Outubro de 1997](http://publications.europa.eu/resource/celex/31997L0062) — L 305 — 42 — 8.11.1997
-- [►M2](http://publications.europa.eu/resource/celex/32003R1882) — [REGULAMENTO (CE) N.º 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003](http://publications.europa.eu/resource/celex/32003R1882) — L 284 — 1 — 31.10.2003
-- [►M3](http://publications.europa.eu/resource/celex/32006L0105) — [DIRECTIVA 2006/105/CE DO CONSELHO de 20 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006L0105) — L 363 — 368 — 20.12.2006
-- [►M4](http://publications.europa.eu/resource/celex/32013L0017) — [DIRETIVA 2013/17/UE DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013L0017) — L 158 — 193 — 10.6.2013
-- [►M5](http://publications.europa.eu/resource/celex/32025L1237) — [DIRETIVA (UE) 2025/1237 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de junho de 2025](http://publications.europa.eu/resource/celex/32025L1237) — L 1237 — 1 — 24.6.2025
-
-**Alterada por:**
-
-- [A1](http://publications.europa.eu/resource/celex/1201994N) — [ACTO (94/C 241/08)](http://publications.europa.eu/resource/celex/1201994N) — C 241 — 21 — 29.8.1994
-- L 001 — 1 — ..
-- [A2](http://publications.europa.eu/resource/celex/1202003T) — [ACTO relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia](http://publications.europa.eu/resource/celex/1202003T) — L 236 — 33 — 23.9.2003
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32006L0105R%2802%29) — [Rectificação, JO L 095, 29.3.2014, p. 70 (2006/105/CE)](http://publications.europa.eu/resource/celex/32006L0105R%2802%29)
-- [►C2](http://publications.europa.eu/resource/celex/31992L0043R%2805%29) — [Rectificação, JO L 081, 26.3.2015, p. 5 (1992/43)](http://publications.europa.eu/resource/celex/31992L0043R%2805%29)
-
-## DIRECTIVA 92/43/CEE DO CONSELHO
 
 de 21 de Maio de 1992
 

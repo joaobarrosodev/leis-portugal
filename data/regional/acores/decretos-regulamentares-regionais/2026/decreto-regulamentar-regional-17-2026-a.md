@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/17/2026/08/05/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2026-1154555183
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T18:49:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f000a20616b9f4011a5191bfed606859237bd9de6eca22c8a95ee5768057203
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a753f2736b92a81daa5f2e2dc89ae0a81ed8bb19d0d2b8d17e4244533616984
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:49:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Parque Natural da Ilha de Santa Maria
-- Vida Selvagem
-- Ordenamento do Território
-- Contra-ordenação
-- Parque Natural
-- ILHA de Santa Maria
-- Proteção do Ambiente
-- Espécie Protegida
-- Património Natural
-- Parque Natural de Ilha
-- Regulamento
 - Açores
+- Contra-ordenação
+- Espécie Protegida
+- ILHA de Santa Maria
+- Ordenamento do Território
+- Parque Natural
+- Parque Natural da Ilha de Santa Maria
+- Parque Natural de Ilha
+- Património Natural
+- Proteção do Ambiente
+- Regulamento
+- Vida Selvagem
 relationships:
 - type: cites
   target: celex:31991L0676
@@ -130,6 +130,130 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/54/2005/11/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/54/2005/11/15/p/dre
+- type: cites
+  target: pt:dre:116171621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122373686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2048514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207881792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208326768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:64797341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70014797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74711478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75170439:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31991L0676
   label: null
@@ -145,13 +269,13 @@ relationships:
 article_structure:
   article_count: 28
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:49:18Z'
   warnings: []
   errors: []
 ---
@@ -228,11 +352,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 13 de maio de 2026.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo, em 8 de julho de 2026.**
+Assinado em Angra do Heroísmo, em 8 de julho de 2026.
 
-**Publique-se.**
+Publique-se.
 
 A Representante da República para a Região Autónoma dos Açores, Susana Goulart Costa.
 
@@ -628,7 +752,8 @@ Planta de zonamento
 
 Cartograma 1
 
-![](https://files.diariodarepublica.pt/images/1154555183/1154555154.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555183/1154555154.png) |
+| --- |
 
 ## ANEXO III — [a que se refere a alínea c) do n.º 1 do artigo 1.º]
 
@@ -636,7 +761,8 @@ Planta de condicionantes
 
 Cartograma 2
 
-![](https://files.diariodarepublica.pt/images/1154555183/1154555155.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555183/1154555155.png) |
+| --- |
 
 ## ANEXO IV — [a que se refere a alínea d) do n.º 1 do artigo 1.º]
 
@@ -754,19 +880,22 @@ ANEXOS
 
 O Arquipélago dos Açores localiza-se no oceano Atlântico norte ocupando uma faixa definida pelas seguintes coordenadas geográficas: 39° 43’ 23” (Ponta Norte - Ilha do Corvo) e 36° 55’ 43” (Ponta do Castelo - Ilha de Santa Maria) de latitude norte; 24° 46’ 15” (Ilhéus das Formigas - Ilha de Santa Maria) e 31° 16’ 24” (Ilhéu de Monchique - Ilha das Flores) de longitude oeste.
 
-![](https://files.diariodarepublica.pt/images/1154555183/1154555156.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555183/1154555156.png) |
+| --- |
 
 Figura 1 - Arquipélago dos Açores no mundo
 
 As ilhas encontram-se agrupadas atendendo à proximidade geográfica: Grupo Ocidental (Corvo e Flores); Grupo Central (Terceira, Graciosa, São Jorge, Pico e Faial); Grupo Oriental (São Miguel e Santa Maria). O Grupo Central distancia-se cerca de 150 km e de 240 km dos Grupos Oriental e Ocidental, respetivamente.
 
-![](https://files.diariodarepublica.pt/images/1154555183/1154555157.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555183/1154555157.png) |
+| --- |
 
 Figura 2 - Arquipélago dos Açores e ilha de Santa Maria
 
 A partir da Carta de Ocupação do Solo da Região Autónoma dos Açores de 2018 (COS.A/2018) pode concluir-se que os prados/pastagens representam quase metade da ocupação total do solo (44,94 %) e encontram-se distribuídos por toda a ilha, com exceção das zonas mais elevadas e da zona centro leste, onde predominam as áreas agrícolas heterogéneas (9.91 %). As florestas de folhosas (16.52 %) concentram-se nas áreas de cota mais elevada, na área do Pico Alto e distribuídas pelas freguesias de Santo Espírito e Santa Bárbara, e as áreas de mato (6,73 %) distribuem-se por áreas próximas da orla costeira e vales de linhas de água.
 
-![](https://files.diariodarepublica.pt/images/1154555183/1154555158.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555183/1154555158.png) |
+| --- |
 
 Figura 3 - Usos do solo a partir da COS.A (DRA, 2018)
 
@@ -774,13 +903,15 @@ Para a adequada gestão dos Parques Naturais de Ilha (PNI) é também fundamenta
 
 Nos Açores, uma parte substancial dos terrenos públicos estão integrados nos perímetros florestais, sendo que, na ilha de Santa Maria, (figura 4), o perímetro florestal representa cerca de 5 % do respetivo Parque Natural, abrangendo um conjunto de terrenos baldios que foram submetidos ao regime florestal parcial e que se encontram sob gestão da entidade com competência em matéria de recursos florestais. Refira-se, no entanto, que as áreas de perímetro florestal que, entretanto, foram classificadas no âmbito da Rede de Áreas Protegidas dos Açores estão sujeitas ao respetivo regime de classificação e ao regime jurídico da conservação da natureza e da biodiversidade, estabelecido pelo [Decreto Legislativo Regional n.º 15/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2012-553893), de 2 de abril.
 
-![](https://files.diariodarepublica.pt/images/1154555183/1154555159.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555183/1154555159.png) |
+| --- |
 
 Figura 4 - Perímetro florestal e áreas protegidas (perímetro florestal - DRRF, 2014)
 
 O regime jurídico da conservação da natureza e da biodiversidade, aprovado pelo [Decreto Legislativo Regional n.º 15/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2012-553893), de 2 de abril, define a Rede Fundamental de Conservação da Natureza como o conjunto dos territórios orientados para a conservação das componentes mais representativas do património natural e da biodiversidade. O conjunto das áreas integradas no Parque Natural de Ilha, Rede Natura 2000 e as áreas de Reserva Ecológica e de Reserva Agrícola conformam a Rede Fundamental da Conservação da Natureza (figura 5).
 
-![](https://files.diariodarepublica.pt/images/1154555183/1154555160.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555183/1154555160.png) |
+| --- |
 
 Figura 5 - Rede Fundamental da Conservação da Natureza - Integra as áreas protegidas, as áreas da Rede Natura 2000, a Reserva Ecológica e a Reserva Agrícola (IROA 2013)
 
@@ -800,25 +931,26 @@ Este Plano de Gestão contribui para a concretização desses objetivos.
 
 Para a ilha de Santa Maria são consideradas nove unidades de paisagem, a seguir identificadas com a respetiva denominação e código:
 
-a) Plataforma Ocidental (SMA1) - abrange uma área de, aproximadamente, 27 km<sup>2</sup> do concelho de Vila do Porto e integra os aglomerados urbanos de Vila do Porto, Aeroporto, Santana e Pedras de São Pedro;
+a) Plataforma Ocidental (SMA1) - abrange uma área de, aproximadamente, 27 km2 do concelho de Vila do Porto e integra os aglomerados urbanos de Vila do Porto, Aeroporto, Santana e Pedras de São Pedro;
 
-b) Encosta Norte (SMA2) - abrange uma área de, aproximadamente, 10 km<sup>2</sup> do concelho de Vila do Porto e integra os aglomerados urbanos de Anjos, Feteiras de Cima, Feteiras de Baixo, Lagoínhas e Norte;
+b) Encosta Norte (SMA2) - abrange uma área de, aproximadamente, 10 km2 do concelho de Vila do Porto e integra os aglomerados urbanos de Anjos, Feteiras de Cima, Feteiras de Baixo, Lagoínhas e Norte;
 
-c) Terras de Alagoa/Almagreira (SMA3) - abrange uma área de, aproximadamente, 13 km<sup>2</sup> do concelho de Vila do Porto e integra os aglomerados urbanos de Almagreira, Valverde, São Pedro e Ribeira do Engenho;
+c) Terras de Alagoa/Almagreira (SMA3) - abrange uma área de, aproximadamente, 13 km2 do concelho de Vila do Porto e integra os aglomerados urbanos de Almagreira, Valverde, São Pedro e Ribeira do Engenho;
 
-d) Serra do Pico Alto (SMA4) - abrange uma área de, aproximadamente, 12 km<sup>2</sup> do concelho de Vila do Porto e não integra aglomerados urbanos;
+d) Serra do Pico Alto (SMA4) - abrange uma área de, aproximadamente, 12 km2 do concelho de Vila do Porto e não integra aglomerados urbanos;
 
-e) Praia Formosa (SMA5) - abrange uma área de, aproximadamente, 0,5 km<sup>2</sup> do concelho de Vila do Porto e integra o aglomerado urbano da Praia;
+e) Praia Formosa (SMA5) - abrange uma área de, aproximadamente, 0,5 km2 do concelho de Vila do Porto e integra o aglomerado urbano da Praia;
 
-f) Zona Agrícola Oriental (SMA6) - abrange uma área de, aproximadamente, 18 km<sup>2</sup> do concelho de Vila do Porto e integra os aglomerados urbanos de Feteiras, Norte, Santa Bárbara, Arrebentão, Azenha de Cima, Azenha de Baixo, Santo Espírito, Glória e Calheta;
+f) Zona Agrícola Oriental (SMA6) - abrange uma área de, aproximadamente, 18 km2 do concelho de Vila do Porto e integra os aglomerados urbanos de Feteiras, Norte, Santa Bárbara, Arrebentão, Azenha de Cima, Azenha de Baixo, Santo Espírito, Glória e Calheta;
 
-g) Baía de São Lourenço (SMA7) - abrange uma área de, aproximadamente, 0,7 km<sup>2</sup> do concelho de Vila do Porto e integra o aglomerado urbano de São Lourenço;
+g) Baía de São Lourenço (SMA7) - abrange uma área de, aproximadamente, 0,7 km2 do concelho de Vila do Porto e integra o aglomerado urbano de São Lourenço;
 
-h) Encosta Sudeste (SMA8) - abrange uma área de, aproximadamente, 14 km<sup>2</sup> do concelho de Vila do Porto e integra os aglomerados urbanos de Panasco e Malbusca;
+h) Encosta Sudeste (SMA8) - abrange uma área de, aproximadamente, 14 km2 do concelho de Vila do Porto e integra os aglomerados urbanos de Panasco e Malbusca;
 
-i) Maia (SMA9) - abrange uma área de, aproximadamente, 0,9 km<sup>2</sup> do concelho de Vila do Porto e integra o aglomerado urbano da Maia;
+i) Maia (SMA9) - abrange uma área de, aproximadamente, 0,9 km2 do concelho de Vila do Porto e integra o aglomerado urbano da Maia;
 
-![](https://files.diariodarepublica.pt/images/1154555183/1154555161.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555183/1154555161.png) |
+| --- |
 
 Figura 6 - Unidades de paisagem da ilha de Santa Maria
 
@@ -840,29 +972,33 @@ Ao abrigo do disposto no [Decreto Legislativo Regional 10/2019/A](https://diario
 
 Atualmente, nos Açores são conhecidas mais de três centenas de cavidades vulcânicas, das quais quatro na ilha de Santa Maria (figura 7). Neste contexto, o Plano de Gestão prevê a implementação de medidas de gestão para as cavidades vulcânicas, dando execução ao disposto no [Decreto Legislativo Regional n.º 10/2019/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2019-122373686), de 22 de maio.
 
-![](https://files.diariodarepublica.pt/images/1154555183/1154555162.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555183/1154555162.png) |
+| --- |
 
 Figura 7 - Cavidades vulcânicas da ilha de Santa Maria
 
 O Parque Natural de Ilha de Santa Maria foi criado em 2008, pelo [Decreto Legislativo Regional n.º 47/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/47-2008-439171), de 7 de novembro. Em 2012 o diploma foi revisto e republicado através do [Decreto Legislativo Regional n.º 39/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2012-176069), de 19 de setembro, sendo nesta alteração aumentada a área marinha da Reserva Natural do Ilhéu da Vila, e incluídas todas as jazidas fósseis da ilha. Integram o PNI de Santa Maria todas as áreas protegidas da Rede Natura 2000, nomeadamente as Zonas Especiais de Conservação (ZEC), as Zonas de Proteção Especial (ZPE), e as restantes áreas protegidas classificadas e reclassificadas segundo o referido decreto.
 
-O PNI de Santa Maria integra 13 áreas protegidas, das quais 8 exclusivamente terrestres, 1 com área terrestre e marinha, com uma área total de 16,8 km<sup>2</sup>, o que corresponde a cerca de 17 % da superfície da ilha de Santa Maria, e 4 áreas exclusivamente marinhas, com 572,11 km<sup>2</sup>.
+O PNI de Santa Maria integra 13 áreas protegidas, das quais 8 exclusivamente terrestres, 1 com área terrestre e marinha, com uma área total de 16,8 km2, o que corresponde a cerca de 17 % da superfície da ilha de Santa Maria, e 4 áreas exclusivamente marinhas, com 572,11 km2.
 
 Este Plano de Gestão ocupa-se da componente terrestre do Parque Natural. Na figura 8 apresentam-se as áreas protegidas do PNI com o respetivo código, atribuído pelo diploma de classificação.
 
-![](https://files.diariodarepublica.pt/images/1154555183/1154555163.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555183/1154555163.png) |
+| --- |
 
 Figura 8 - Áreas protegidas do Parque Natural da Ilha de Santa Maria e respetivos códigos adotados
 
 Na figura 9 apresentam-se as áreas protegidas pertencentes ao PNI de Santa Maria, descriminadas segundo as categorias definidas pela União Internacional para a Conservação da Natureza (IUCN): à categoria i corresponde a designação de Reserva Natural; à categoria iii corresponde a designação de Monumento Natural; à categoria iv corresponde a designação de Área Protegida para a Gestão de Habitats ou Espécies (APGHE); à categoria v corresponde a designação de Área de Paisagem Protegida e à categoria vi a designação de Área Protegida para a Gestão de Recursos.
 
-![](https://files.diariodarepublica.pt/images/1154555183/1154555164.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555183/1154555164.png) |
+| --- |
 
 Figura 9 - Áreas protegidas de acordo com as categorias IUCN
 
 Na figura 10 mostra-se a relação das áreas terrestres do PNI de Santa Maria com as áreas da Rede Natura 2000, concretamente as Zonas Especiais de Conservação (ZEC) e as Zonas de Proteção Especial (ZPE).
 
-![](https://files.diariodarepublica.pt/images/1154555183/1154555165.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555183/1154555165.png) |
+| --- |
 
 Figura 10 - Relação das áreas da Rede Natura 2000 com as áreas terrestres do PNI de Santa Maria
 
@@ -872,21 +1008,21 @@ Tabela 1 - Designação toponímica das áreas protegidas e respetivas classific
 
 A cor amarelo-claro, indicam-se as áreas protegidas com componente terrestre, que são objeto deste documento
 
-| Categorias IUCN | Código | Designação | Classificações internacionais |
+| **Categorias IUCN** | **Código** | **Designação** | **Classificações internacionais** |
 | --- | --- | --- | --- |
 | Reserva Natural (I) | SMA01 | Ilhéus das Formigas | Sítio RAMSAR n.º 3PT024 - Ilhéus das Formigas e Recife DollabaratPTSMA0023 - ZEC do Ilhéu das Formigas e Recife DollabaratGeossítio do Açores Geoparque Mundial da UNESCO - Ilhéus das Formigas e Recife Dollabarat |
-| Reserva Natural (I) | SMA02 | Ilhéu da Vila | PTZPE0034 - ZPE do Ilhéu da Vila e Costa AdjacenteIBA PT068 - Ilhéu da Vila |
+| SMA02 | Ilhéu da Vila | PTZPE0034 - ZPE do Ilhéu da Vila e Costa AdjacenteIBA PT068 - Ilhéu da Vila |  |
 | Monumento Natural (III) | SMA03 | Pedreira do Campo, Figueiral e Praínha | Geossítios do Açores Geoparque Mundial da UNESCO - Pedreira do Campo; Figueiral; Praia Formosa e Praínha |
 | Área Protegida para a Gestão de Habitats ou Espécies (IV) | SMA04 | Costa Sudoeste | PTZPE0034 - ZPE do Ilhéu da Vila e Costa Adjacente |
-| Área Protegida para a Gestão de Habitats ou Espécies (IV) | SMA05 | Ponta do Castelo | PTSMA0022 - ZEC da Ponta do CasteloIBA PT070 - Ponta da Malbusca e Ponta do CasteleteGeossítios do Açores Geoparque Mundial da UNESCO - Ponta do Castelo; Ribeira do Maloás |
-| Área Protegida para a Gestão de Habitats ou Espécies (IV) | SMA06 | Baía do Cura | Geossítio do Açores Geoparque Mundial da UNESCO - Cascata do Aveiro |
-| Área Protegida para a Gestão de Habitats ou Espécies (IV) | SMA07 | Pico Alto |  |
+| SMA05 | Ponta do Castelo | PTSMA0022 - ZEC da Ponta do CasteloIBA PT070 - Ponta da Malbusca e Ponta do CasteleteGeossítios do Açores Geoparque Mundial da UNESCO - Ponta do Castelo; Ribeira do Maloás |  |
+| SMA06 | Baía do Cura | Geossítio do Açores Geoparque Mundial da UNESCO - Cascata do Aveiro |  |
+| SMA07 | Pico Alto |  |  |
 | Área de Paisagem Protegida (V) | SMA08 | Barreiro da Faneca | IBA PT069 - Ilhéu das Lagoínhas e Costa AdjacenteGeossítios do Açores Geoparque Mundial da UNESCO - Barreiro da Faneca; Baía do Raposo; Baía do Tagarete e Ponta do Norte; Baía da Cré |
-| Área de Paisagem Protegida (V) | SMA09 | Baía de São Lourenço | Geossítio do Açores Geoparque Mundial da UNESCO - Baía de São Lourenço |
-| Área de Paisagem Protegida (V) | SMA10 | Baía da Maia | Geossítio do Açores Geoparque Mundial da UNESCO - Baía da Maia |
+| SMA09 | Baía de São Lourenço | Geossítio do Açores Geoparque Mundial da UNESCO - Baía de São Lourenço |  |
+| SMA10 | Baía da Maia | Geossítio do Açores Geoparque Mundial da UNESCO - Baía da Maia |  |
 | Área Protegida para a Gestão de Recursos (VI) | SMA11 | Baía de São Lourenço |  |
-| Área Protegida para a Gestão de Recursos (VI) | SMA12 | Costa Norte | IBA - PT069 Ilhéu das Lagoínhas e Costa Adjacente |
-| Área Protegida para a Gestão de Recursos (VI) | SMA13 | Costa Sul | IBA PT070 - Ponta da Malbusca e Ponta do Castelete |
+| SMA12 | Costa Norte | IBA - PT069 Ilhéu das Lagoínhas e Costa Adjacente |  |
+| SMA13 | Costa Sul | IBA PT070 - Ponta da Malbusca e Ponta do Castelete |  |
 
 A ilha de Santa Maria caracteriza-se, entre outros aspetos, por ser a única da região onde se podem observar jazidas fósseis. Possui fósseis marinhos únicos, no contexto regional e nacional, e as suas jazidas fossilíferas constituem um verdadeiro laboratório ao ar livre, com relevância internacional, conforme atestam estudos científicos recentes. Com o intuito de zelar pela conservação desse rico património paleontológico, foi publicado o [Decreto Legislativo Regional n.º 11/2018/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-116171621), a 28 de agosto, onde se identificam 20 jazidas fósseis com interesse regional, ou internacional, das quais 19 integram áreas protegidas do Parque Natural.
 
@@ -896,30 +1032,31 @@ Tabela 2 - Jazidas fósseis de Santa Maria, sua relevância e inserção nas ár
 
 A cor amarelo-claro, indicam-se as que se localizam em áreas protegidas com componente terrestre, que são objeto deste documento
 
-| Numeração (figura 11) | Designação da jazida | Classe | Área protegida |
+| **Numeração (figura 11)** | **Designação da jazida** | **Classe** | **Área protegida** |
 | --- | --- | --- | --- |
-| 1 | Ponta dos Frades | 3 - Regional | APP Barreiro da Faneca |
-| 2 | Cré | 2 - Nacional | APP Barreiro da Faneca |
-| 3 | Lagoínhas | 2 - Nacional | APP Barreiro da Faneca |
-| 4 | Ponta do Norte | 3 - Regional | APP Barreiro da Faneca |
-| 5 | Ponta Negra | 3 - Regional | APP Baía de São Lourenço |
-| 6 | Ponta do Cedro | 2 - Nacional | APGHE Baía do Cura |
-| 7 | Ponta do Castelo | 1 - Internacional | APGHE Ponta do Castelo |
-| 8 | Pedra-que-pica | 1 - Internacional | APGHE Ponta do Castelo |
-| 9 | Vinha Velha | 3 - Regional | APGHE Ponta do Castelo |
-| 10 | Pedrinha da Cré | 3 - Regional | APGHE Ponta do Castelo |
-| 11 | Baía de Nossa Senhora | 3 - Regional | APGHE Ponta do Castelo |
-| 12 | Malbusca | 1 - Internacional | APGHE Ponta do Castelo |
-| 13 | Falha Oeste da Malbusca | 3 - Regional | APGHE Ponta do Castelo |
-| 14 | Gruta dos Icnofósseis | 3 - Regional | APGHE Ponta do Castelo |
-| 15 | Praia do Calhau | 2 - Nacional | MN Pedreira do Campo, Figueiral e Praínha |
-| 16 | Macela | 3 - Regional | MN Pedreira do Campo, Figueiral e Praínha |
-| 17 | Prainha | 2 - Nacional | MN Pedreira do Campo, Figueiral e Praínha |
-| 18 | Figueiral | 2 - Nacional | MN Pedreira do Campo, Figueiral e Praínha |
-| 19 | Pedreira do Campo | 2 - Nacional | MN Pedreira do Campo, Figueiral e Praínha |
-| 20 | Aeroporto | 1 - Internacional | Não integra áreas protegidas |
+| **1** | Ponta dos Frades | 3 - Regional | APP Barreiro da Faneca |
+| **2** | Cré | 2 - Nacional | APP Barreiro da Faneca |
+| **3** | Lagoínhas | 2 - Nacional | APP Barreiro da Faneca |
+| **4** | Ponta do Norte | 3 - Regional | APP Barreiro da Faneca |
+| **5** | Ponta Negra | 3 - Regional | APP Baía de São Lourenço |
+| **6** | Ponta do Cedro | 2 - Nacional | APGHE Baía do Cura |
+| **7** | Ponta do Castelo | 1 - Internacional | APGHE Ponta do Castelo |
+| **8** | Pedra-que-pica | 1 - Internacional | APGHE Ponta do Castelo |
+| **9** | Vinha Velha | 3 - Regional | APGHE Ponta do Castelo |
+| **10** | Pedrinha da Cré | 3 - Regional | APGHE Ponta do Castelo |
+| **11** | Baía de Nossa Senhora | 3 - Regional | APGHE Ponta do Castelo |
+| **12** | Malbusca | 1 - Internacional | APGHE Ponta do Castelo |
+| **13** | Falha Oeste da Malbusca | 3 - Regional | APGHE Ponta do Castelo |
+| **14** | Gruta dos Icnofósseis | 3 - Regional | APGHE Ponta do Castelo |
+| **15** | Praia do Calhau | 2 - Nacional | MN Pedreira do Campo, Figueiral e Praínha |
+| **16** | Macela | 3 - Regional | MN Pedreira do Campo, Figueiral e Praínha |
+| **17** | Prainha | 2 - Nacional | MN Pedreira do Campo, Figueiral e Praínha |
+| **18** | Figueiral | 2 - Nacional | MN Pedreira do Campo, Figueiral e Praínha |
+| **19** | Pedreira do Campo | 2 - Nacional | MN Pedreira do Campo, Figueiral e Praínha |
+| **20** | Aeroporto | 1 - Internacional | Não integra áreas protegidas |
 
-![](https://files.diariodarepublica.pt/images/1154555183/1154555166.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555183/1154555166.png) |
+| --- |
 
 Figura 11 - Jazidas fósseis da ilha de Santa Maria (o nome das jazidas encontra-se na tabela 2)
 
@@ -937,11 +1074,12 @@ Os objetivos gerais do Plano de Gestão são balizados pelos objetivos de desenv
 
 A metodologia seguida na elaboração deste Plano de Gestão encontra-se esquematizada na figura 12.
 
-![](https://files.diariodarepublica.pt/images/1154555183/1154555167.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555183/1154555167.png) |
+| --- |
 
 Figura 12 - Metodologia usada na elaboração do Plano de Gestão
 
-Para cada área protegida, houve lugar à elaboração de uma ficha de caracterização que inclui uma caracterização geral, de habitats, flora e fauna protegidos.<sup>1</sup> Os usos do solo e a componente cultural e social da paisagem são também abordados.
+Para cada área protegida, houve lugar à elaboração de uma ficha de caracterização que inclui uma caracterização geral, de habitats, flora e fauna protegidos.1 Os usos do solo e a componente cultural e social da paisagem são também abordados.
 
 Procedeu-se à elaboração de um diagnóstico que incluiu uma análise SWOT, aspetos relativos à vulnerabilidade das áreas protegidas, habitats e espécies e medidas de gestão que se encontram já a ser implementadas ou cuja implementação se verifica necessária.
 
@@ -949,7 +1087,7 @@ Cada área protegida foi objeto de um zonamento em que se procedeu a uma subdivi
 
 Para cada área protegida, estabeleceram-se objetivos e medidas de gestão. Os objetivos abrangem toda a área protegida e decorrem dos decretos legislativos regionais que deram origem ao estabelecimento das mesmas, no entanto são direcionados já aos valores presentes na área protegida em questão. As medidas de gestão são próprias de cada unidade operativa de gestão e estão já direcionadas para a conservação, recuperação e gestão de determinados habitats, espécies, elementos geológicos ou paisagens. Podem ser efetivamente implementadas no terreno e são passíveis de ser avaliadas e monitorizadas. Estes elementos são incluídos em tabelas e constituem o programa de execução para cada área protegida.
 
-<sup>1</sup> Os critérios que presidiram à inclusão dos habitats e espécies nas fichas de caracterização das áreas protegidas são os seguintes: Em primeiro lugar teve-se em conta os habitats e espécies integrados nas FDN - Standart Data Form da Rede Natura 2000 - Fichas de caracterização das áreas de Rede Natura 2000 (ZEC e ZPE) regularmente submetidas à Comissão Europeia. Estas fichas são atualizadas com a informação científica mais recente, as que estão a ser utilizadas são na generalidade de 2015; em segundo lugar teve-se em conta os levantamentos bibliográficos e formulários preenchidos pelo pessoal técnico do PNI respeitantes às áreas protegidas; em terceiro lugar a informação recolhida aquando dos levantamentos de campo.
+1 Os critérios que presidiram à inclusão dos habitats e espécies nas fichas de caracterização das áreas protegidas são os seguintes: Em primeiro lugar teve-se em conta os habitats e espécies integrados nas FDN - Standart Data Form da Rede Natura 2000 - Fichas de caracterização das áreas de Rede Natura 2000 (ZEC e ZPE) regularmente submetidas à Comissão Europeia. Estas fichas são atualizadas com a informação científica mais recente, as que estão a ser utilizadas são na generalidade de 2015; em segundo lugar teve-se em conta os levantamentos bibliográficos e formulários preenchidos pelo pessoal técnico do PNI respeitantes às áreas protegidas; em terceiro lugar a informação recolhida aquando dos levantamentos de campo.
 
 3 - Objetivos estratégicos e matriz SWOT
 
@@ -971,11 +1109,11 @@ Os resultados da análise SWOT realizada ao PNI de Santa Maria estão resumidos 
 
 Tabela 3 - Resultados da análise SWOT realizada ao Parque Natural de Ilha
 
-| S - Pontos fortes | W - Pontos fracos |
+| **S****- Pontos fortes** | **W****- Pontos fracos** |
 | --- | --- |
 | - Habitats e espécies de flora e fauna protegidos, com estatuto de conservação prioritário e em bom estado de conservação;- Manchas de vegetação natural endémica e nativa com interesse para a conservação;- Elevada qualidade ambiental;- Elevados valores paisagísticos;- Preservação da biodiversidade;- Existência de espécies da flora e fauna endémica;- Nidificação de aves marinhas;- Passagem de aves migratórias;- Valor geológico e paleontológico elevado;- Áreas classificadas pela Rede Natura 2000 e Geoparque Açores;- Existência de instrumentos de gestão territorial, como o Plano de Ordenamento de Orla Costeira;- Existência de instrumento de planeamento, como o Paleoparque;- Existência de programas de financiamento;- Contacto com a natureza;- Existência de trilhos pedestres;- Existência de miradouros. | - Avanço de espécies de flora invasora;- Pressão humana para transformação de zonas com vegetação natural em zonas de pastagem;- Falta de implementação dos instrumentos de gestão territorial existentes;- Insuficiente literacia ambiental da população;- Subvalorização por parte das populações das potencialidades dos recursos naturais;- Vigilância insuficiente;- Abandono de resíduos;- Conhecimento científico de algumas áreas protegidas insuficiente ou desatualizado;- Falta de sinalética (estradas, locais de interesse);- Zonas de extração de massas minerais consolidadas sem Plano de Integração Paisagística implementado. |
 
-| O - Oportunidades | T - Ameaças |
+| **O****- Oportunidades** | **T****- Ameaças** |
 | --- | --- |
 | - Controlo da vegetação invasora (continuação);- Implementação dos instrumentos de gestão territorial existentes;- Incentivo dos proprietários dos terrenos a optar por medidas silvo e agroambientais para os seus terrenos;- Incentivo da plantação de sebes e bosquetes com espécies de vegetação endémica e nativa;- Ações de erradicação de espécies invasoras e plantação de espécies endémicas;- Criação de corredores ecológicos pertencentes;- Aquisição de terrenos nas zonas com interesse para a conservação da natureza;- Vedação de áreas com habitats e espécies sensíveis;- Mapeamento em Sistema de Informação Geográfica das populações das espécies da fauna e flora endémica;- Incentivo das entidades a implementar os Planos de Integração Paisagística de áreas de massas minerais consolidadas;- Criação de miradouros e zonas de estadia com tipologias e materiais adequados a cada situação;- Recuperação de elementos de interesse patrimonial;- Colocação de sinalética interpretativa em áreas de interesse natural e cultural; | - Aumento da área com espécies da flora invasora;- Perda de espécies e habitats;- Aumento das zonas de pastagem e diminuição das zonas de vegetação natural existentes;- Perda de diversidade biológica em termos de flora, fauna, artrópodes e aves;- Perda da oportunidade de criação de corredores ecológicos;- Perda da oportunidade da implementação dos instrumentos de gestão territorial existentes;- Destruição de habitat de nidificação e de repouso para as aves endémicas, nativas e migradoras;- Aumento da pressão turística;- Pisoteio por parte de turistas de jazidas fósseis;- Perda de espécies raras de estratégia primária que se encontram em bermas de estrada e taludes;- Perda de oportunidade de recuperação de elementos arquitetónicos de valor cultural;- Manutenção das áreas de extração de inertes ao abandono;- Subvalorização por parte das populações das potencialidades dos recursos naturais e paisagísticos;- Recolhas não licenciadas de amostras geológicas e paleontológicas. |
 | - Estudo do impacte da utilização dos trilhos nos habitats e espécies protegidos;- Implementação de um programa de fiscalização articulado entre Vigilantes da Natureza, Polícia Marítima e Guarda Nacional Republicana;- Definição de uma estratégia de comunicação e promoção da área;- Definição e Implementação de um programa de monitorização;- Estabelecimento de protocolos com entidades de investigação;- Potenciação da visitação turística sustentável de AP e jazidas.- Associação da conservação da natureza a atividades económicas, como a agricultura, silvicultura e turismo. |  |
@@ -986,7 +1124,7 @@ Para que não se perca a visão integradora do Plano de Gestão, optou-se por cl
 
 Tabela 4 - Grandes temas de medidas de gestão
 
-| Tema | Descrição |
+| **Tema** | **Descrição** |
 | --- | --- |
 | A. | Medidas relacionadas com a gestão de habitats e espécies |
 | B. | Medidas baseadas na propriedade e uso do solo |
@@ -998,7 +1136,7 @@ Esta metodologia permitiu identificar tipos de medidas que se podem propor no â
 
 Tabela 5 - Tipos de medidas de gestão e entidades responsáveis pela sua implementação
 
-| Tipo de medida | Descrição | Entidades responsáveis |
+| **Tipo de medida** | **Descrição** | **Entidades responsáveis** |
 | --- | --- | --- |
 | M1. | Medidas gerais | - Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática |
 | M2. | Medidas relacionadas com a agricultura e habitats abertos | - Secretaria Regional da Agricultura e Alimentação/Direção Regional da Agricultura, Veterinária e Alimentação/Direção Regional dos Recursos Florestais e Ordenamento Territorial- Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática |
@@ -1030,12 +1168,12 @@ Na tabela 6 apresentam-se os tipos de medidas de gestão e respetivos códigos.
 
 Tabela 6 - Tipos de medidas de gestão e códigos correspondentes
 
-| Tema | Código | Medidas de gestão |
+| **Tema** | **Código** | **Medidas de gestão** |
 | --- | --- | --- |
-|  | M1. | Medidas gerais |
+|  | M1. | **Medidas gerais** |
 | C | M1.1. | Fiscalização de áreas protegidas |
 | A/B/C/D/E | M1.2. | Gestão e monitorização das cavidades vulcânicas protegidas |
-|  | M2. | Medidas relacionadas com a agricultura e habitats abertos |
+|  | M2. | **Medidas relacionadas com****a****agricultura****e****habitats****abertos** |
 | B | M2.1. | Manutenção de pastagens e outros habitats abertos |
 | B | M2.2. | Modificação de práticas culturais |
 | B | M2.3. | Corte/colheita |
@@ -1061,7 +1199,7 @@ Tabela 6 - Tipos de medidas de gestão e códigos correspondentes
 | A/B/C | M2.23. | Manutenção de faixas e manchas de vegetação endémica em vinha |
 | A/B/C | M2.24. | Maneio de gado caprino |
 |  | M2.25. | Outras medidas relacionadas com a agricultura |
-|  | M3. | Medidas relacionadas com florestas e habitats lenhosos |
+|  | M3. | **Medidas relacionadas com florestas****e****habitats****lenhosos** |
 | B/C | M3.1. | Plantação florestal com espécies de produção e nativas |
 | A/C/D/E | M3.2. | Naturalização dos povoamentos florestais |
 | B/C | M3.3. | Desbaste de povoamentos florestais |
@@ -1081,7 +1219,7 @@ Tabela 6 - Tipos de medidas de gestão e códigos correspondentes
 | A/B/C/D/E | M3.17. | Gestão florestal adaptada à conservação da natureza |
 | A/B/C/E | M3.18. | Valorização de caminhos florestais e aceiros para o turismo |
 |  | M3.19. | Outras medidas relacionadas com florestação |
-|  | M4. | Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros |
+|  | M4. | **Medidas relacionadas com zonas húmidas, águas correntes****e****habitats****costeiros** |
 | A/B/C/D/E | M4.1. | Restauro/melhoria do estado das águas |
 | A/B/C | M4.2. | Restauro/melhoria do regime hidrológico |
 | A/C/E | M4.3. | Criação de bacias de retenção de água |
@@ -1105,10 +1243,10 @@ Tabela 6 - Tipos de medidas de gestão e códigos correspondentes
 | A/C | M4.21 | Estabilização da linha de costa |
 | A/C | M4.22 | Obras de proteção costeira |
 |  | M4.23 | Outras medidas relacionadas com zonas húmidas |
-|  | M5. | Medidas relacionadas com habitats marinhos |
+|  | M5. | **Medidas relacionadas com****habitats****marinhos** |
 |  | M5.1. | Restauro de habitats marinhos |
 |  | M5.2. | Outras medidas relacionadas com habitats marinhos |
-|  | M6. | Medidas relacionadas com planeamento espacial |
+|  | M6. | **Medidas relacionadas com planeamento espacial** |
 | A/C | M6.1. | Criação, reclassificação ou alteração de áreas protegidas |
 | A/B/C/E | M6.2. | Estabelecimento de corredores ecológicos |
 | A/B/C/E | M6.3. | Estabelecimento de áreas de continuum naturale |
@@ -1127,7 +1265,7 @@ Tabela 6 - Tipos de medidas de gestão e códigos correspondentes
 | A/B/C | M6.16. | Aquisição de terrenos |
 | A/B/C | M6.17. | Aquisição/adaptação/construção de edifícios de apoio à gestão |
 |  | M6.18. | Outras medidas de planeamento espacial |
-|  | M7. | Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |
+|  | M7. | **Medidas relacionadas com gestão de****habitats****e****espécies, caça, recoleção****e****pesca** |
 | A/B/C | M7.1. | Gestão da caça |
 | A/D | M7.2. | Caracterização de fauna |
 | A/D | M7.3. | Monitorização de fauna |
@@ -1161,7 +1299,7 @@ Tabela 6 - Tipos de medidas de gestão e códigos correspondentes
 | A/E | M7.31. | Campanhas de sensibilização ambiental do público, de entidades e parceiros |
 | A/E | M7.32. | Recolha de sementes em banco de sementes (conservação ex situ) |
 |  | M7.33. | Outras medidas relacionadas com gestão de espécies |
-|  | M8. | Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
+|  | M8. | **Medidas relacionadas com áreas urbanas, indústria, energia, turismo****e****transportes** |
 | B/C | M8.1. | Gestão de urbanização |
 | B/C | M8.2. | Gestão de urbanização de povoamentos lineares |
 | B/C | M8.3. | Gestão de urbanização de povoamentos concentrados |
@@ -1230,7 +1368,7 @@ Tabela 6 - Tipos de medidas de gestão e códigos correspondentes
 | A/B/C/E | M8.66. | Recuperação de elemento arquitetónico de valor cultural |
 |  | M8.67. | Outros impactes de atividades humanas |
 |  | M8.68. | Gestão de tráfego marinho |
-|  | M9. | Medidas relacionadas com uso especial dos recursos |
+|  | M9. | **Medidas relacionadas com uso especial dos recursos** |
 | A/B/C | M9.1. | Regulação/gestão de exploração de extração de inertes |
 | A/B/C | M9.2. | Regulação/gestão de exploração de pedreiras |
 | A/C | M9.3. | Regulação/gestão de exploração de extração de inertes em praias |
@@ -1243,15 +1381,15 @@ Tabela 6 - Tipos de medidas de gestão e códigos correspondentes
 
 5.1 - Proposta de Intervenção para a Reserva Natural do Ilhéu da Vila (SMA02)
 
-| Condicionantes | Condicionantes |
+| **Condicionantes** |  |
 | --- | --- |
 | Plano e Ordenamento da Orla Costeira | Áreas de Proteção e Conservação da Natureza Terrestre |
 | Plano Diretor Municipal | Espaços naturais e culturais (planta de ordenamento) |
-| Plano Diretor Municipal | Ilhéus e rochedos emersos no mar (planta de condicionantes) |
+| Ilhéus e rochedos emersos no mar (planta de condicionantes) |  |
 | Conservação da Natureza | ZPE PTZPE0034 Ilhéu da Vila e Costa Adjacente |
-| Conservação da Natureza | IBA PT068 - Ilhéu da Vila |
+| IBA PT068 - Ilhéu da Vila |  |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| **Unidades Operativas de Gestão** |  |
 | --- | --- |
 | SMA02.01 - Ilhéu da Vila | Área de proteção parcial (8.06 ha) |
 
@@ -1271,14 +1409,14 @@ OB6. Definição de limites e condicionamentos ao livre acesso público.
 
 5.1.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| **Medidas de gestão** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |
-| SMA02.01 | M1.1. | M6.15. |  | M7.2. | M7.3. | M7.4. | M7.7. | M7.8. | M7.10, | M7.11. | M7.14. | M7.17. | M7.18. | M7.24. | M7.31. | M7.32. |
+| **Unidade Operativa de Gestão** | M1 - Medidas gerais | M6 - Medidas relacionadas com planeamento espacial | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| **SMA02.01** | M1.1. | M6.15. |  | M7.2. | M7.3. | M7.4. | M7.7. | M7.8. | M7.10, | M7.11. | M7.14. | M7.17. | M7.18. | M7.24. | M7.31. | M7.32. |
 
 5.1.3 - Medidas de gestão
 
-| Unidade Operativa de Gestão | Regime de proteção | Medidas de gestão | Descrição |
+| **Unidade Operativa de Gestão** | **Regime de proteção** | **Medidas de gestão** | **Descrição** |
 | --- | --- | --- | --- |
 | SMA02.01 | Área de proteção parcial | M1.1. | Fiscalização pelos Vigilantes da Natureza por terra, com recurso a binóculos, e por mar, com recurso ao semirrígido. |
 |  |  | M6.15. | Mapeamento por GPS de ninhos. |
@@ -1286,7 +1424,7 @@ OB6. Definição de limites e condicionamentos ao livre acesso público.
 |  |  | M7.3. | Monitorização da nidificação. |
 |  |  | M7.4. | Colocação de armadilhas pitfall para apoiar o estudo à distribuição e densidade de coleópteros e moluscos em curso pela Universidade dos Açores. |
 |  |  | M7.7. | Colocação de ninhos artificiais para as espécies de Sterna sp. de modo a reduzir os riscos à nidificação, nomeadamente de predação por espécies de avifauna competidora. |
-|  |  | M7.8. | Realização de diagnóstico para aferição de necessidade de controlo da densidade populacional de espécies de avifauna que competem com Sterna sp., nomeadamente, Sturnus vulgaris, Larus michahellis atlantis e Buteo buteo rotschildi. |
+|  |  | M7.8. | Realização de diagnóstico para aferição de necessidade de controlo da densidade populacional de espécies de avifauna que competem com Sterna sp., nomeadamente, Sturnus vulgaris, Larus michahellis atlantise Buteo buteo rotschildi. |
 |  |  | M7.10. | Caracterização de flora. |
 |  |  | M7.11. | Monitorização de flora a fim de identificar ameaças e proceder para a sua mitigação. |
 |  |  | M7.14. | Recolha e dispersão de sementes in situ em locais em que as populações tenham sido reduzidas por pressão de flora invasora. |
@@ -1298,23 +1436,23 @@ OB6. Definição de limites e condicionamentos ao livre acesso público.
 
 5.2 - Proposta de intervenção para o Monumento Natural da Pedreira do Campo, Figueiral e Praínha (SMA03)
 
-| Condicionantes | Condicionantes |
+| **Condicionantes** |  |
 | --- | --- |
 | Plano de Ordenamento de Orla Costeira | Áreas Florestais |
-| Plano de Ordenamento de Orla Costeira | Área Agrícola |
-| Plano de Ordenamento de Orla Costeira | Áreas de Interesse Cultural e Paisagístico |
-| Plano de Ordenamento de Orla Costeira | Áreas de Proteção e Conservação da Natureza Terrestre |
-| Plano de Ordenamento de Orla Costeira | Áreas Vulneráveis |
+| Área Agrícola |  |
+| Áreas de Interesse Cultural e Paisagístico |  |
+| Áreas de Proteção e Conservação da Natureza Terrestre |  |
+| Áreas Vulneráveis |  |
 | Plano Diretor Municipal | Espaços naturais e culturais (planta de ordenamento) |
-| Plano Diretor Municipal | Arribas e respetivas faixas de proteção; Área estratégicas para recarga de aquíferos |
-| Plano Diretor Municipal | Margens das águas do mar (planta de condicionantes) |
+| Arribas e respetivas faixas de proteção; Área estratégicas para recarga de aquíferos |  |
+| Margens das águas do mar (planta de condicionantes) |  |
 | Conservação da Natureza | Jazida da Pedreira do Campo |
-| Conservação da Natureza | Jazida do Figueiral |
-| Conservação da Natureza | Jazida da Praínha |
-| Conservação da Natureza | Jazida da Praia do Calhau |
-| Conservação da Natureza | Jazida da Macela |
+| Jazida do Figueiral |  |
+| Jazida da Praínha |  |
+| Jazida da Praia do Calhau |  |
+| Jazida da Macela |  |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| **Unidades Operativas de Gestão** |  |
 | --- | --- |
 | SMA03.01 - Jazida Fóssil da Pedreira do Campo | Área de proteção parcial (3.21ha) |
 | SMA03.01B - Jazida Fóssil do Figueiral | Área de proteção parcial (0.90 ha) |
@@ -1326,13 +1464,13 @@ OB6. Definição de limites e condicionamentos ao livre acesso público.
 | SMA03.03 B - Áreas Agrícolas do Touril | Área de uso sustentável dos recursos (21.90 ha) |
 | SMA03.03 C - Áreas Agrícolas da Macela | Área de uso sustentável dos recursos (5.92 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| **Elementos de fruição da paisagem** |  |
 | --- | --- |
-| Trilhos | Trilhos |
+| Trilhos |  |
 | PR5SMA - Costa Sul | Manutenção |
 | GR1SMA - Grande Rota de Santa Maria | Manutenção |
 | Circuito Interpretativo da Pedreira do Campo | Manutenção |
-| Miradouros | Miradouros |
+| Miradouros |  |
 | Miradouro da Macela | Existente |
 
 5.2.1 - Objetivos de gestão
@@ -1351,38 +1489,38 @@ OB6. A salvaguarda do caráter natural, paisagístico e cultural único, possibi
 
 5.2.2 - Quadro resumo das medidas de gestão
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| **Medidas de gestão** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M6 - Medidas relacionadas com planeamento es- pacial | M6 - Medidas relacionadas com planeamento es- pacial | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
-| SMA03.01 A | M1.1. |  | M2.10. | M2.12. | M2.18. |  | M6.9. |  | M7.16. | M7.18. | M7.31. | M7.32. |  | M8.25. | M8.44. | M8.46. |  |
-| SMA03.01 B | M1.1. |  |  |  |  |  | M6.9. |  | M7.16. | M7.18. | M7.31. | M7.32. |  | M8.25. | M8.27. | M8.32. | M8.44. |
-| SMA03.01 C | M1.1. |  |  |  |  |  |  |  | M7.16. | M7.18. | M7.31. |  |  | M8.25. | M8.44. |  |  |
-| SMA03.01 D | M1.1. |  |  |  |  |  |  |  | M7.16. | M7.18. | M7.31. |  |  |  |  |  |  |
-| SMA03.01 E | M1.1. |  |  |  |  |  |  |  |  |  | M7.31. |  |  | M8.25. | M8.44. |  |  |
-| SMA03.02 | M1.1. |  |  |  |  |  |  |  | M7.3. | M7.16. | M7.18. | M7.31. |  | M8.27. | M8.36. |  |  |
-| SMA03.03 A | M1.1. |  | M2.10. | M2.12. | M2.18. |  | M6.5. |  | M7.4. | M7.16. | M7.18. | M7.31. | M7.32. |  |  |  |  |
-| SMA03.03 B | M1.1 |  |  |  |  |  |  |  | M7.4. | M7.16. | M7.18. | M7.31. | M7.32. |  |  |  |  |
-| SMA03.03 C | M1.1 |  |  |  |  |  |  |  | M7.4. | M7.16. | M7.18. | M7.31. | M7.32. |  |  |  |  |
+| **Unidade Operativa de Gestão** | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M6 - Medidas relacionadas com planeamento es- pacial | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |  |  |  |  |  |  |  |
+| **SMA03.01 A** | M1.1. |  | M2.10. | M2.12. | M2.18. |  | M6.9. |  | M7.16. | M7.18. | M7.31. | M7.32. |  | M8.25. | M8.44. | M8.46. |  |
+| **SMA03.01 B** | M1.1. |  |  |  |  |  | M6.9. |  | M7.16. | M7.18. | M7.31. | M7.32. |  | M8.25. | M8.27. | M8.32. | M8.44. |
+| **SMA03.01 C** | M1.1. |  |  |  |  |  |  |  | M7.16. | M7.18. | M7.31. |  |  | M8.25. | M8.44. |  |  |
+| **SMA03.01 D** | M1.1. |  |  |  |  |  |  |  | M7.16. | M7.18. | M7.31. |  |  |  |  |  |  |
+| **SMA03.01 E** | M1.1. |  |  |  |  |  |  |  |  |  | M7.31. |  |  | M8.25. | M8.44. |  |  |
+| **SMA03.02** | M1.1. |  |  |  |  |  |  |  | M7.3. | M7.16. | M7.18. | M7.31. |  | M8.27. | M8.36. |  |  |
+| **SMA03.03 A** | M1.1. |  | M2.10. | M2.12. | M2.18. |  | M6.5. |  | M7.4. | M7.16. | M7.18. | M7.31. | M7.32. |  |  |  |  |
+| **SMA03.03 B** | M1.1 |  |  |  |  |  |  |  | M7.4. | M7.16. | M7.18. | M7.31. | M7.32. |  |  |  |  |
+| **SMA03.03 C** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 5.2.3 - Medidas de gestão
 
-| Unidade Operativa de Gestão | Regime de proteção | Medidas de gestão | Descrição |
+| **Unidade Operativa de Gestão** | **Regime de proteção** | **Medidas de gestão** | **Descrição** |
 | --- | --- | --- | --- |
 | SMA03.01 A | Área de proteção parcial | M1.1. | Fiscalização pelos Vigilantes da Natureza. |
-|  | Área de proteção parcial | M2.10. | Requalificação e melhoria dos limites do terreno que confrontam com explorações agrícolas. |
-|  | Área de proteção parcial | M2.12. | Plantação de flora endémica e nativa nos limites do terreno que confronta com explorações agrícolas e no talude sul. |
-|  | Área de proteção parcial | M2.18. | Reconstrução de muros de pedra seca ao longo do PR5SMA. |
-|  | Área de proteção parcial | M6.9. | Conceção e aplicação de proteção aos calcários fossilíferos na Pedreira do Campo. |
-|  | Área de proteção parcial | M7.16. | Erradicação de Rubus ulmifolius, Agave americana, Lantana camara e Opuntia ficus-indica. |
-|  | Área de proteção parcial | M7.18. | Monitorização e gestão de espécies invasoras. Complementar a M7.16. |
-|  | Área de proteção parcial | M7.31. | Conceção e dinamização de ações de educação ambiental para sensibilizar para a necessidade de conservação. |
-|  | Área de proteção parcial | M7.32. | Recolha de sementes para entrega no Banco de Sementes dos Açores (conservação ex situ). |
-|  | Área de proteção parcial | M8.25. | Manutenção do PR5SMA e GR1SMA. |
-|  | Área de proteção parcial | M8.44. | Colocação de painéis interpretativos no passadiço da Pedreira do Campo; aviso relativo à interdição de recolher amostras geológicas e paleontológicas; sinalética de PNI (PHI). |
-|  | Área de proteção parcial | M8.46. | Criação de acessibilidade a pessoas de mobilidade reduzida no estacionamento e acesso ao passadiço da Pedreira do Campo. |
+|  | M2.10. | Requalificação e melhoria dos limites do terreno que confrontam com explorações agrícolas. |  |
+|  | M2.12. | Plantação de flora endémica e nativa nos limites do terreno que confronta com explorações agrícolas e no talude sul. |  |
+|  | M2.18. | Reconstrução de muros de pedra seca ao longo do PR5SMA. |  |
+|  | M6.9. | Conceção e aplicação de proteção aos calcários fossilíferos na Pedreira do Campo. |  |
+|  | M7.16. | Erradicação de Rubus ulmifolius, Agave americana, Lantana camara e Opuntia ficus-indica. |  |
+|  | M7.18. | Monitorização e gestão de espécies invasoras. Complementar a M7.16. |  |
+|  | M7.31. | Conceção e dinamização de ações de educação ambiental para sensibilizar para a necessidade de conservação. |  |
+|  | M7.32. | Recolha de sementes para entrega no Banco de Sementes dos Açores (conservação ex situ). |  |
+|  | M8.25. | Manutenção do PR5SMA e GR1SMA. |  |
+|  | M8.44. | Colocação de painéis interpretativos no passadiço da Pedreira do Campo; aviso relativo à interdição de recolher amostras geológicas e paleontológicas; sinalética de PNI (PHI). |  |
+|  | M8.46. | Criação de acessibilidade a pessoas de mobilidade reduzida no estacionamento e acesso ao passadiço da Pedreira do Campo. |  |
 | SMA03.01 B | Área de proteção parcial | M1.1. | Fiscalização pelos Vigilantes da Natureza. |
-|  | Área de proteção parcial | M6.9. | Criar percurso definido no interior da gruta do Figueiral condicionando o livre acesso. |
-|  | Área de proteção parcial | M7.16. | Erradicação de Rubus ulmifolius, Agave americana e Lantana camara. |
+|  | M6.9. | Criar percurso definido no interior da gruta do Figueiral condicionando o livre acesso. |  |
+|  | M7.16. | Erradicação de Rubus ulmifolius, Agave americana e Lantana camara. |  |
 |  |  | M7.18. | Monitorização e gestão de espécies invasoras. Complementar a M7.16. |
 |  |  | M7.31. | Conceção e dinamização de ações de educação ambiental para sensibilizar para a necessidade de conservação. |
 |  |  | M7.32. | Recolha de sementes para entrega no Banco de Sementes dos Açores (conservação ex situ). |
@@ -1391,7 +1529,7 @@ OB6. A salvaguarda do caráter natural, paisagístico e cultural único, possibi
 |  |  | M 8.32. | Conceção e criação de zona de descanso nas proximidades da gruta do Figueiral. |
 |  |  | M8.44. | Aviso relativo à interdição de recolher amostras geológicas e paleontológicas; sinalética de PNI. |
 | SMA03.01 C | Área de proteção parcial | M1.1. | Fiscalização pelos Vigilantes da Natureza. |
-|  | Área de proteção parcial | M7.16. | Erradicação de Agave americana. |
+|  | M7.16. | Erradicação de Agave americana. |  |
 |  |  | M7.18. | Monitorização e gestão de espécies invasoras. Complementar a M7.16. |
 |  |  | M7.31. | Conceção e dinamização de ações de educação ambiental para sensibilizar para a necessidade de conservação. |
 |  |  | M8.25. | Manutenção do PR5SMA e GR1SMA. |
@@ -1423,33 +1561,33 @@ OB6. A salvaguarda do caráter natural, paisagístico e cultural único, possibi
 |  |  | M7.31. | Conceção e dinamização de atividades de educação e ambiental para sensibilizar para a necessidade de conservação. |
 |  |  | M7.32. | Recolha de sementes para entrega no Banco de sementes dos Açores (conservação ex situ). |
 | SMA03.03 BSMA03.03 C | Área de uso sustentável dos recursos | M1.1. | Fiscalização pelos Vigilantes da Natureza. |
-| SMA03.03 BSMA03.03 C | Área de uso sustentável dos recursos | M7.4. | Colocação de armadilhas pitfall para captura de coleópteros e moluscos para apoiar o estudo à sua distribuição e densidade em curso pela Universidade dos Açores. |
-| SMA03.03 BSMA03.03 C | Área de uso sustentável dos recursos | M7.16. | Erradicação de Lantana camara, Rubus ulmifolius e Agave americana. |
+| M7.4. | Colocação de armadilhas pitfall para captura de coleópteros e moluscos para apoiar o estudo à sua distribuição e densidade em curso pela Universidade dos Açores. |  |  |
+| M7.16. | Erradicação de Lantana camara, Rubus ulmifolius e Agave americana. |  |  |
 |  |  | M7.18. | Monitorização e gestão de espécies invasoras. Complementar a M7.16. |
 |  |  | M7.31. | Conceção e dinamização de atividades de educação e ambiental para sensibilizar para a necessidade de conservação. |
 |  |  | M7.32. | Recolha de sementes para entrega no Banco de Sementes dos Açores (conservação ex situ). |
 
 5.3 - Proposta de intervenção para a Área Protegida para Gestão de Habitats e Espécies da Costa Sudoeste (SMA04)
 
-| Condicionantes | Condicionantes |
+| **Condicionantes** |  |
 | --- | --- |
 | Plano de Ordenamento de Orla Costeira | Áreas de Proteção e Conservação da Natureza Terrestre |
-| Plano de Ordenamento de Orla Costeira | Áreas Vulneráveis |
+| Áreas Vulneráveis |  |
 | Plano Diretor Municipal | Espaços naturais e culturais (planta de ordenamento) |
-| Plano Diretor Municipal | Arribas e respetivas faixas de erosão (planta de condicionantes) |
-| Plano Diretor Municipal | Margens das águas do mar (planta de condicionantes) |
+| Arribas e respetivas faixas de erosão (planta de condicionantes) |  |
+| Margens das águas do mar (planta de condicionantes) |  |
 | Conservação da Natureza | ZPE PTZPE0034 - Ilhéu da Vila e Costa Adjacente |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| **Unidades Operativas de Gestão** |  |
 | --- | --- |
 | SMA04.01 Costa Sudoeste | Área prioritária para a conservação (36.30 ha) |
 | SMA04.02 Ponta do Poção | Área de uso sustentável dos recursos (11.16 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| **Elementos de fruição da paisagem** |  |
 | --- | --- |
 | Trilhos |  |
 | GR1SMA - Grande Rota de Santa Maria | Manutenção |
-| Miradouro | Miradouro |
+| Miradouro |  |
 | Miradouro para o Ilhéu da Vila | Criação |
 
 5.3.1 - Objetivos de gestão
@@ -1466,67 +1604,67 @@ OB5. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.3.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| **Medidas de gestão** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
-| SMA04.01 | M1.1. |  |  |  | M7.2. | M7.3. | M7.4. | M7.6. | M7.8. | M7.10. | M7.11. | M7.16. | M7.18. | M7.31. | M7.32. |  |  |  |  |
-| SMA04.02 | M1.1. |  | M6.5. |  | M7.2. | M7.3. | M7.4. | M7.6. | M7.8. | M7.10. | M7.11. | M7.16. | M7.18. | M7.3.1 | M7.32. | M8.25. | M8.43. | M8.44. |  |
+| **Unidade Operativa de Gestão** | M1 - Medidas gerais | M6 - Medidas relacionadas com planeamento espacial | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| **SMA04.01** | M1.1. |  |  | M7.2. | M7.3. | M7.4. | M7.6. | M7.8. | M7.10. | M7.11. | M7.16. | M7.18. | M7.31. | M7.32. |  |  |  |  |  |
+| **SMA04.02** | M1.1. |  | M6.5. |  | M7.2. | M7.3. | M7.4. | M7.6. | M7.8. | M7.10. | M7.11. | M7.16. | M7.18. | M7.3.1 | M7.32. | M8.25. | M8.43. | M8.44. |  |
 
 5.3.3 - Medidas de Gestão
 
-| Unidade Operativa de Gestão | Regime de proteção | Medidas de gestão | Descrição |
+| **Unidade Operativa de Gestão** | **Regime de proteção** | **Medidas de gestão** | **Descrição** |
 | --- | --- | --- | --- |
 | SMA04.01 | Área prioritária para a conservação | M1.1. | Fiscalização por parte dos Vigilantes da Natureza. |
-| SMA04.01 | Área prioritária para a conservação | M7.2. | Caracterização da avifauna nidificante. |
-| SMA04.01 | Área prioritária para a conservação | M7.3. | Monitorização da nidificação e de ameaças. |
-| SMA04.01 | Área prioritária para a conservação | M7.4. | Colocação de armadilhas pitfall para captura de coleópteros e moluscos para apoiar o estudo à sua distribuição e densidade em curso pela Universidade dos Açores. |
-| SMA04.01 | Área prioritária para a conservação | M7.6. | Local de libertação de avifauna marinha quando recolhidas por incidentes e/ou após anilhagem, nomeadamente a espécie Calonectris borealis. |
-| SMA04.01 | Área prioritária para a conservação | M7.8. | Diagnosticar a presença de espécies de avifauna prejudiciais à nidificação e determinação de necessidade de se efetuar controlo da densidade populacional. |
-| SMA04.01 | Área prioritária para a conservação | M7.10. | Caracterização das populações de flora protegida. |
-| SMA04.01 | Área prioritária para a conservação | M7.11. | Monitorização das populações de flora protegida a fim de identificar eventuais ameaças. |
-| SMA04.01 | Área prioritária para a conservação | M7.16. | Erradicação de Agave americana e Rubus ulmifolius. |
-| SMA04.01 | Área prioritária para a conservação | M7.18. | Monitorização do ressurgimento de espécies de flora e fauna invasora. Complementar a M7.16 e M7.8. |
-| SMA04.01 | Área prioritária para a conservação | M7.31. | Conceção e dinamização de atividades de educação ambiental, sensibilizando para a necessidade de conservação da AP. |
-| SMA04.01 | Área prioritária para a conservação | M7.32. | Recolha de sementes de flora endémica para envio para o Banco de Sementes dos Açores (conservação ex situ). |
+| M7.2. | Caracterização da avifauna nidificante. |  |  |
+| M7.3. | Monitorização da nidificação e de ameaças. |  |  |
+| M7.4. | Colocação de armadilhas pitfall para captura de coleópteros e moluscos para apoiar o estudo à sua distribuição e densidade em curso pela Universidade dos Açores. |  |  |
+| M7.6. | Local de libertação de avifauna marinha quando recolhidas por incidentes e/ou após anilhagem, nomeadamente a espécie Calonectris borealis. |  |  |
+| M7.8. | Diagnosticar a presença de espécies de avifauna prejudiciais à nidificação e determinação de necessidade de se efetuar controlo da densidade populacional. |  |  |
+| M7.10. | Caracterização das populações de flora protegida. |  |  |
+| M7.11. | Monitorização das populações de flora protegida a fim de identificar eventuais ameaças. |  |  |
+| M7.16. | Erradicação de Agave americana e Rubus ulmifolius. |  |  |
+| M7.18. | Monitorização do ressurgimento de espécies de flora e fauna invasora. Complementar a M7.16 e M7.8. |  |  |
+| M7.31. | Conceção e dinamização de atividades de educação ambiental, sensibilizando para a necessidade de conservação da AP. |  |  |
+| M7.32. | Recolha de sementes de flora endémica para envio para o Banco de Sementes dos Açores (conservação ex situ). |  |  |
 | SMA04.02 | Área de uso sustentável dos recursos | M1.1. | Fiscalização por parte dos Vigilantes da Natureza. |
-| SMA04.02 | Área de uso sustentável dos recursos | M6.5. | Acordo com proprietário de terrenos com vista à possível criação de um miradouro para observação da Reserva Natural do Ilhéu da Vila. |
-| SMA04.02 | Área de uso sustentável dos recursos | M7.2. | Caracterização da avifauna nidificante. |
-| SMA04.02 | Área de uso sustentável dos recursos | M7.3. | Monitorização da nidificação e de ameaças. |
-| SMA04.02 | Área de uso sustentável dos recursos | M7.4. | Colocação de armadilhas pitfall para captura de coleópteros e moluscos para apoiar o estudo à sua distribuição e densidade em curso pela Universidade dos Açores. |
-| SMA04.02 | Área de uso sustentável dos recursos | M7.6. | Local de libertação de avifauna marinha quando recolhidas por incidentes e/ou após anilhagem, nomeadamente a espécie Calonectris borealis. |
-| SMA04.02 | Área de uso sustentável dos recursos | M7.8. | Diagnosticar a presença de espécies de avifauna prejudiciais à nidificação e determinação da necessidade de se efetuar controlo da densidade populacional. |
-| SMA04.02 | Área de uso sustentável dos recursos | M7.10. | Caracterização das populações de flora protegida. |
-| SMA04.02 | Área de uso sustentável dos recursos | M7.11. | Monitorização das populações de flora protegida a fim de identificar eventuais ameaças. |
-| SMA04.02 | Área de uso sustentável dos recursos | M7.16. | Erradicação de Agave americana e Rubus ulmifolius. |
-| SMA04.02 | Área de uso sustentável dos recursos | M7.18. | Monitorização do ressurgimento de espécies de flora e fauna invasora. Complementar a M7.8 e M7.16. |
-| SMA04.02 | Área de uso sustentável dos recursos | M7.31. | Conceção e dinamização de atividades de educação ambiental, sensibilizando para a necessidade de conservação da AP. |
-| SMA04.02 | Área de uso sustentável dos recursos | M7.32. | Recolha de sementes de flora endémica para o Banco de Sementes dos Açores (conservação ex situ). |
+| M6.5. | Acordo com proprietário de terrenos com vista à possível criação de um miradouro para observação da Reserva Natural do Ilhéu da Vila. |  |  |
+| M7.2. | Caracterização da avifauna nidificante. |  |  |
+| M7.3. | Monitorização da nidificação e de ameaças. |  |  |
+| M7.4. | Colocação de armadilhas pitfall para captura de coleópteros e moluscos para apoiar o estudo à sua distribuição e densidade em curso pela Universidade dos Açores. |  |  |
+| M7.6. | Local de libertação de avifauna marinha quando recolhidas por incidentes e/ou após anilhagem, nomeadamente a espécie Calonectris borealis. |  |  |
+| M7.8. | Diagnosticar a presença de espécies de avifauna prejudiciais à nidificação e determinação da necessidade de se efetuar controlo da densidade populacional. |  |  |
+| M7.10. | Caracterização das populações de flora protegida. |  |  |
+| M7.11. | Monitorização das populações de flora protegida a fim de identificar eventuais ameaças. |  |  |
+| M7.16. | Erradicação de Agave americana e Rubus ulmifolius. |  |  |
+| M7.18. | Monitorização do ressurgimento de espécies de flora e fauna invasora. Complementar a M7.8 e M7.16. |  |  |
+| M7.31. | Conceção e dinamização de atividades de educação ambiental, sensibilizando para a necessidade de conservação da AP. |  |  |
+| M7.32. | Recolha de sementes de flora endémica para o Banco de Sementes dos Açores (conservação ex situ). |  |  |
 |  |  | M8.25. | Manutenção do traçado e estruturas da GR1SMA. |
 |  |  | M8.43. | Criação de miradouro para o Ilhéu da Vila. |
 |  |  | M8.44. | Colocação de sinalética do Parque Natural de Santa Maria com informação relativa aos valores ecológicos presentes da APGHE da Costa Sudoeste e na RN do Ilhéu da Vila. |
 
 5.4 - Proposta de intervenção para a Área Protegida para Gestão de Habitats e Espécies da Ponta do Castelo (SMA05)
 
-| Condicionantes | Condicionantes |
+| **Condicionantes** |  |
 | --- | --- |
 | Plano de Ordenamento de Orla Costeira | Áreas de Proteção e Conservação da Natureza Marítima |
-| Plano de Ordenamento de Orla Costeira | Áreas de Interesse Cultural e Paisagístico |
+| Áreas de Interesse Cultural e Paisagístico |  |
 | Plano Diretor Municipal | Espaços naturais e culturais (carta de ordenamento) |
-| Plano Diretor Municipal | Arribas e respetivas faixas de proteção (carta de condicionantes) |
-| Plano Diretor Municipal | Áreas de elevado risco de erosão hídrica do solo (planta de condicionantes) |
-| Plano Diretor Municipal | Áreas de instabilidade de vertentes (planta de condicionantes) |
-| Plano Diretor Municipal | Margens das águas do mar (planta de condicionantes) |
+| Arribas e respetivas faixas de proteção (carta de condicionantes) |  |
+| Áreas de elevado risco de erosão hídrica do solo (planta de condicionantes) |  |
+| Áreas de instabilidade de vertentes (planta de condicionantes) |  |
+| Margens das águas do mar (planta de condicionantes) |  |
 | Conservação da Natureza | ZEC PTSMA0022 - Ponta do Castelo |
-| Conservação da Natureza | Jazida da Ponta do Castelo |
-| Conservação da Natureza | Jazida da Pedra que Pica |
-| Conservação da Natureza | Jazida da Vinha Velha |
-| Conservação da Natureza | Jazida da Pedrinha da Cré |
-| Conservação da Natureza | Jazida da Baia de Nossa Senhora |
-| Conservação da Natureza | Jazida da Malbusca |
-| Conservação da Natureza | Jazida da Falha Oeste da Malbusca |
-| Conservação da Natureza | Jazida da Gruta dos Icnofósseis |
+| Jazida da Ponta do Castelo |  |
+| Jazida da Pedra que Pica |  |
+| Jazida da Vinha Velha |  |
+| Jazida da Pedrinha da Cré |  |
+| Jazida da Baia de Nossa Senhora |  |
+| Jazida da Malbusca |  |
+| Jazida da Falha Oeste da Malbusca |  |
+| Jazida da Gruta dos Icnofósseis |  |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| **Unidades Operativas de Gestão** |  |
 | --- | --- |
 | SMA05.01 - Jazidas Fósseis de Malbusca | Área de proteção parcial (12.300 ha) |
 | SMA05.01B - Jazida Fóssil da Vinha Velha | Área de proteção parcial (3.040 ha) |
@@ -1538,9 +1676,9 @@ OB5. Permitir que a população local usufrua de benefícios que resultem da pr�
 | SMA05.03 C - Vinhas do Sul | Área de uso sustentável dos recursos (7.169 ha) |
 | SMA05.03 D - Áreas agropastoris do Panasco | Área de uso sustentável dos recursos (8.496 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| **Elementos de fruição da paisagem** |  |
 | --- | --- |
-| Trilhos | Trilhos |
+| Trilhos |  |
 | GR1SMA - Grande Rota de Santa Maria | Manutenção |
 | PR4SMA - Santo Espírito - Maia | Manutenção |
 
@@ -1560,112 +1698,112 @@ OB6: Zelar pela conservação das espécies, habitats e ecossistemas protegidos 
 
 5.4.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial |
-| SMA05.01A | M1.1. |  |  |  |  |  | M6,9. | M6,9. |  |  |  |  |
-| SMA05.01B | M1.1. |  |  |  |  |  |  |  |  |  |  |  |
-| SMA05.01C | M1.1. |  |  |  |  |  | M6.1. | M6.1. | M6.5 | M6.9. | M6.15. |  |
-| SMA05.02A | M1.1. |  |  |  |  |  | M6.1. | M6.1. | M6.15. |  |  |  |
-| SMA05.02B | M1.1. |  |  |  |  |  | M6.15. |  |  |  |  |  |
-| SMA05.03A | M1.1. |  | M2.17. | M2.21. | M2.22. |  |  |  |  |  |  |  |
-| SMA05.03BSMA05.03C | M1.1. |  | M2.17. | M2.21. | M2.22. |  |  |  |  |  |  |  |
-| SMA05.03D | M1.1. |  | M2.12. |  |  |  |  |  |  |  |  |  |
+| **Medidas de gestão** |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Unidade Operativa de Gestão** | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M6 - Medidas relacionadas com planeamento espacial |  |  |  |  |  |
+| **SMA05.01A** | M1.1. |  |  | M6,9. |  |  |  |  |
+| **SMA05.01B** | M1.1. |  |  |  |  |  |  |  |
+| **SMA05.01C** | M1.1. |  |  | M6.1. | M6.5 | M6.9. | M6.15. |  |
+| **SMA05.02A** | M1.1. |  |  | M6.1. | M6.15. |  |  |  |
+| **SMA05.02B** | M1.1. |  |  | M6.15. |  |  |  |  |
+| **SMA05.03A** | M1.1. |  | M2.17. | M2.21. | M2.22. |  |  |  |
+| **SMA05.03B****SMA05.03C** | M1.1. |  | M2.17. | M2.21. | M2.22. |  |  |  |
+| **SMA05.03D** | M1.1. |  | M2.12. |  |  |  |  |  |
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
-| SMA05.01A | M7.2. | M7.3. | M7.31. |  |  |  |  |  |  |  |  |  | M8.25. | M8,31. | M8.33. | M8.45. |  |
-| SMA05.01B | M7.2. | M7.3. | M7.31 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| SMA05.01C | M7.2. | M7.3. | M7.4. | M7.10. | M7.11. | M7.14. | M7.16. | M7.18. | M7.24. | M7.31. | M7.32. |  | M8.25. | M8.32. |  |  |  |
-| SMA05.02A | M7.2. | M7.3. | M7.4. | M7.10. | M7.11. | M7.31. |  |  |  |  |  |  | M8.25. |  |  |  |  |
-| SMA05.02B | M7.2. | M7.3. | M7.4. | M7.10. | M7.11. |  |  |  |  |  |  |  |  |  |  |  |  |
-| SMA05.03A | M7.16. | M7.18. |  |  |  |  |  |  |  |  |  |  | M8.25. | M8.33. |  |  |  |
-| SMA05.03BSMA05.03C | M7.16. | M7.18. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| SMA05.03 D | M7.4. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Medidas de gestão** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Unidade Operativa de Gestão** | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| **SMA05.01A** | M7.2. | M7.3. | M7.31. |  | M8.25. | M8,31. | M8.33. | M8.45. |  |  |  |  |  |  |  |
+| **SMA05.01B** | M7.2. | M7.3. | M7.31 |  |  |  |  |  |  |  |  |  |  |  |  |
+| **SMA05.01C** | M7.2. | M7.3. | M7.4. | M7.10. | M7.11. | M7.14. | M7.16. | M7.18. | M7.24. | M7.31. | M7.32. |  | M8.25. | M8.32. |  |
+| **SMA05.02A** | M7.2. | M7.3. | M7.4. | M7.10. | M7.11. | M7.31. |  | M8.25. |  |  |  |  |  |  |  |
+| **SMA05.02B** | M7.2. | M7.3. | M7.4. | M7.10. | M7.11. |  |  |  |  |  |  |  |  |  |  |
+| **SMA05.03A** | M7.16. | M7.18. |  | M8.25. | M8.33. |  |  |  |  |  |  |  |  |  |  |
+| **SMA05.03B****SMA05.03C** | M7.16. | M7.18. |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| **SMA05.03 D** | M7.4. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 5.4.3 - Medidas de gestão
 
-| Unidade Operativa de Gestão | Regime de proteção | Medidas de gestão | Descrição |
+| **Unidade Operativa de Gestão** | **Regime de proteção** | **Medidas de gestão** | **Descrição** |
 | --- | --- | --- | --- |
 | SMA05.01A | Área de proteção parcial | M1.1. | Fiscalização pelos Vigilantes da Natureza. |
-| SMA05.01A | Área de proteção parcial | M6.9. | Definição de medidas de gestão específicas para conservação e usufruto do geossítio da Ribeira do Maloás. |
-| SMA05.01A | Área de proteção parcial | M7.2. | Caracterização de avifauna marinha através de censos visuais. |
-| SMA05.01A | Área de proteção parcial | M7.3. | Monitorização do sucesso de nidificação de avifauna marinha. |
-| SMA05.01A | Área de proteção parcial | M7.31. | Conceção e dinamização de ações de educação para sensibilização para a necessidade de conservação da AP. |
-| SMA05.01A | Área de proteção parcial | M8.25. | Manutenção da GR1SMA. |
-| SMA05.01A | Área de proteção parcial | M8.31. | Beneficiação da transposição da Ribeira do Maloás. |
-| SMA05.01A | Área de proteção parcial | M8.33. | Beneficiar/melhorar vedações em locais pontuais da GR1SMA. |
-| SMA05.01A | Área de proteção parcial | M8.45. | Criação de estacionamento no acesso ao geossítio da Ribeira de Maloás. |
+| M6.9. | Definição de medidas de gestão específicas para conservação e usufruto do geossítio da Ribeira do Maloás. |  |  |
+| M7.2. | Caracterização de avifauna marinha através de censos visuais. |  |  |
+| M7.3. | Monitorização do sucesso de nidificação de avifauna marinha. |  |  |
+| M7.31. | Conceção e dinamização de ações de educação para sensibilização para a necessidade de conservação da AP. |  |  |
+| M8.25. | Manutenção da GR1SMA. |  |  |
+| M8.31. | Beneficiação da transposição da Ribeira do Maloás. |  |  |
+| M8.33. | Beneficiar/melhorar vedações em locais pontuais da GR1SMA. |  |  |
+| M8.45. | Criação de estacionamento no acesso ao geossítio da Ribeira de Maloás. |  |  |
 | SMA05.01B | Área de proteção parcial | M1.1. | Fiscalização pelos Vigilantes da Natureza. |
-| SMA05.01B | Área de proteção parcial | M7.2. | Caracterização de avifauna através de censos visuais. |
-| SMA05.01B | Área de proteção parcial | M7.3. | Monitorização do sucesso de nidificação. |
-| SMA05.01B | Área de proteção parcial | M7.31. | Conceção e dinamização de ações de educação para sensibilização para a necessidade de conservação da AP. |
+| M7.2. | Caracterização de avifauna através de censos visuais. |  |  |
+| M7.3. | Monitorização do sucesso de nidificação. |  |  |
+| M7.31. | Conceção e dinamização de ações de educação para sensibilização para a necessidade de conservação da AP. |  |  |
 | SMA05.01C | Área de proteção parcial | M1.1. | Fiscalização pelos Vigilantes da Natureza. |
-| SMA05.01C | Área de proteção parcial | M6.1. | Alteração dos limites da AP, de modo a excluir área de vinhas do lado norte do Farol para incluir na Área de Paisagem Protegida da Baía da Maia. |
-| SMA05.01C | Área de proteção parcial | M6.5. | Acordo com a Câmara Municipal de Vila do Porto, proprietária do terreno da antiga fábrica da baleia para intervenções na Ponta do Castelo. |
-| SMA05.01C | Área de proteção parcial | M6.9. | Definição de medidas de gestão específicas para conservação e usufruto do geossítio da Ponta do Castelo. |
-| SMA05.01C | Área de proteção parcial | M6.15. | Mapeamento em GPS das populações de flora endémica e ninhos por espécies. |
-| SMA05.01C | Área de proteção parcial | M7.2. | Caracterização de avifauna. |
-| SMA05.01C | Área de proteção parcial | M7.3. | Monitorização do sucesso de nidificação. |
-| SMA05.01C | Área de proteção parcial | M7.4. | Captura de coleópteros e moluscos através de colocação de armadilhas pitfall para apoio a estudo da distribuição e densidade em curso pela Universidade dos Açores. |
-| SMA05.01C | Área de proteção parcial | M7.10. | Caracterização das populações de flora endémica. |
-| SMA05.01C | Área de proteção parcial | M7.11. | Monitorização da flora endémica para identificação de ameaças e definição de estratégias de beneficiação. |
-| SMA05.01C | Área de proteção parcial | M7.14. | Plantação e/ou dispersão de sementes de flora endémica, colhidas in situ. |
-| SMA05.01C | Área de proteção parcial | M7.16. | Erradicação de flora invasora, nomeadamente, Agave americana, Carpobrotus edulis e Tetragonia tetragonoides. |
-| SMA05.01C | Área de proteção parcial | M7.18. | Monitorização do ressurgimento de flora invasora para seu controlo. Complementar a M7.16. |
-| SMA05.01C | Área de proteção parcial | M7.24. | Recuperação do habitat. Complementar a M7.10, M7.11, M7.14, M7.16 e M7.18. |
-| SMA05.01C | Área de proteção parcial | M7.31. | Conceção e dinamização de ações de educação para sensibilização para a necessidade de conservação da AP. |
+| M6.1. | Alteração dos limites da AP, de modo a excluir área de vinhas do lado norte do Farol para incluir na Área de Paisagem Protegida da Baía da Maia. |  |  |
+| M6.5. | Acordo com a Câmara Municipal de Vila do Porto, proprietária do terreno da antiga fábrica da baleia para intervenções na Ponta do Castelo. |  |  |
+| M6.9. | Definição de medidas de gestão específicas para conservação e usufruto do geossítio da Ponta do Castelo. |  |  |
+| M6.15. | Mapeamento em GPS das populações de flora endémica e ninhos por espécies. |  |  |
+| M7.2. | Caracterização de avifauna. |  |  |
+| M7.3. | Monitorização do sucesso de nidificação. |  |  |
+| M7.4. | Captura de coleópteros e moluscos através de colocação de armadilhas pitfall para apoio a estudo da distribuição e densidade em curso pela Universidade dos Açores. |  |  |
+| M7.10. | Caracterização das populações de flora endémica. |  |  |
+| M7.11. | Monitorização da flora endémica para identificação de ameaças e definição de estratégias de beneficiação. |  |  |
+| M7.14. | Plantação e/ou dispersão de sementes de flora endémica, colhidas in situ. |  |  |
+| M7.16. | Erradicação de flora invasora, nomeadamente, Agave americana, Carpobrotus edulis e Tetragonia tetragonoides. |  |  |
+| M7.18. | Monitorização do ressurgimento de flora invasora para seu controlo. Complementar a M7.16. |  |  |
+| M7.24. | Recuperação do habitat. Complementar a M7.10, M7.11, M7.14, M7.16 e M7.18. |  |  |
+| M7.31. | Conceção e dinamização de ações de educação para sensibilização para a necessidade de conservação da AP. |  |  |
 |  |  | M7.32. | Recolha de sementes de flora endémica para entrega no Banco de Sementes dos Açores (conservação ex situ). |
-|  |  | M8.25. | Manutenção do PR4SMA. |
-|  |  | M8.32. | Criação de área de repouso na Ponta do Castelo. |
+| M8.25. | Manutenção do PR4SMA. |  |  |
+| M8.32. | Criação de área de repouso na Ponta do Castelo. |  |  |
 | SMA05.02A | Área prioritária para a conservação | M1.1. | Fiscalização pelos Vigilantes da Natureza. |
-| SMA05.02A | Área prioritária para a conservação | M6.1. | Alteração dos limites da AP, de modo a incluir o geossítio Barreiro da Malbusca. |
-| SMA05.02A | Área prioritária para a conservação | M6.15. | Mapeamento em GPS das populações de flora endémica e ninhos por espécies. |
-| SMA05.02A | Área prioritária para a conservação | M7.2. | Caracterização de avifauna. |
-| SMA05.02A | Área prioritária para a conservação | M7.3. | Monitorização do sucesso de nidificação. |
-| SMA05.02A | Área prioritária para a conservação | M7.4. | Captura de coleópteros e moluscos, através de colocação de armadilhas pitfall, para apoio a estudo da distribuição e densidade em curso pela Universidade dos Açores. |
-| SMA05.02A | Área prioritária para a conservação | M7.10. | Caracterização das populações de flora endémica. |
-| SMA05.02A | Área prioritária para a conservação | M7.11. | Monitorização da flora endémica para identificação de ameaças e definição de estratégias de beneficiação. |
-| SMA05.02A | Área prioritária para a conservação | M7.31. | Conceção e dinamização de ações de educação para sensibilização para a necessidade de conservação da AP. |
-| SMA05.02A | Área prioritária para a conservação | M8.25. | Manutenção da GR1SMA. |
+| M6.1. | Alteração dos limites da AP, de modo a incluir o geossítio Barreiro da Malbusca. |  |  |
+| M6.15. | Mapeamento em GPS das populações de flora endémica e ninhos por espécies. |  |  |
+| M7.2. | Caracterização de avifauna. |  |  |
+| M7.3. | Monitorização do sucesso de nidificação. |  |  |
+| M7.4. | Captura de coleópteros e moluscos, através de colocação de armadilhas pitfall, para apoio a estudo da distribuição e densidade em curso pela Universidade dos Açores. |  |  |
+| M7.10. | Caracterização das populações de flora endémica. |  |  |
+| M7.11. | Monitorização da flora endémica para identificação de ameaças e definição de estratégias de beneficiação. |  |  |
+| M7.31. | Conceção e dinamização de ações de educação para sensibilização para a necessidade de conservação da AP. |  |  |
+| M8.25. | Manutenção da GR1SMA. |  |  |
 | SMA05.02B | Área prioritária para a conservação | M1.1. | Fiscalização pelos Vigilantes da Natureza. |
-| SMA05.02B | Área prioritária para a conservação | M6.15. | Mapeamento em GPS das populações de flora endémica e ninhos por espécies. |
-| SMA05.02B | Área prioritária para a conservação | M7.2. | Caracterização de avifauna através de censos visuais. |
-| SMA05.02B | Área prioritária para a conservação | M7.3. | Monitorização do sucesso de nidificação. |
-| SMA05.02B | Área prioritária para a conservação | M7.4. | Captura de coleópteros e moluscos, através de colocação de armadilhas pitfall, para apoio a estudo da distribuição e densidade em curso pela Universidade dos Açores. |
-| SMA05.02B | Área prioritária para a conservação | M7.10. | Caracterização das populações de flora endémica. |
-| SMA05.02B | Área prioritária para a conservação | M7.11. | Monitorização da flora endémica para identificação de ameaças e definição de estratégias de beneficiação. |
+| M6.15. | Mapeamento em GPS das populações de flora endémica e ninhos por espécies. |  |  |
+| M7.2. | Caracterização de avifauna através de censos visuais. |  |  |
+| M7.3. | Monitorização do sucesso de nidificação. |  |  |
+| M7.4. | Captura de coleópteros e moluscos, através de colocação de armadilhas pitfall, para apoio a estudo da distribuição e densidade em curso pela Universidade dos Açores. |  |  |
+| M7.10. | Caracterização das populações de flora endémica. |  |  |
+| M7.11. | Monitorização da flora endémica para identificação de ameaças e definição de estratégias de beneficiação. |  |  |
 | SMA05.03A | Área de uso sustentável dos recursos | M1.1. | Fiscalização por parte dos Vigilantes da Natureza. |
-| SMA05.03A | Área de uso sustentável dos recursos | M2.17. | Incentivo à recuperação dos muros de pedra seca dos socalcos de vinha. |
-| SMA05.03A | Área de uso sustentável dos recursos | M2.21. | Apoios financeiros à manutenção de paisagens tradicionais da cultura da vinha, em currais e em socalcos, e de pomares de espécies tradicionais, situadas em áreas de paisagem protegida e em fajãs costeiras, integradas nos Parques Naturais de Ilha e em Reservas da Biosfera. |
-| SMA05.03A | Área de uso sustentável dos recursos | M2.22. | Incentivo à reconversão de vinhas ocupadas por mato. |
-| SMA05.03A | Área de uso sustentável dos recursos | M7.16. | Incentivo à erradicação de flora invasora em vinhas. |
-| SMA05.03A | Área de uso sustentável dos recursos | M7.18. | Incentivo à monitorização e controlo da flora invasora em vinhas. |
-| SMA05.03A | Área de uso sustentável dos recursos | M8.25. | Manutenção da GR1SMA e PR4SMA. |
-| SMA05.03A | Área de uso sustentável dos recursos | M8.33. | Beneficiar/melhorar vedações em locais pontuais da GR1SMA. |
+| M2.17. | Incentivo à recuperação dos muros de pedra seca dos socalcos de vinha. |  |  |
+| M2.21. | Apoios financeiros à manutenção de paisagens tradicionais da cultura da vinha, em currais e em socalcos, e de pomares de espécies tradicionais, situadas em áreas de paisagem protegida e em fajãs costeiras, integradas nos Parques Naturais de Ilha e em Reservas da Biosfera. |  |  |
+| M2.22. | Incentivo à reconversão de vinhas ocupadas por mato. |  |  |
+| M7.16. | Incentivo à erradicação de flora invasora em vinhas. |  |  |
+| M7.18. | Incentivo à monitorização e controlo da flora invasora em vinhas. |  |  |
+| M8.25. | Manutenção da GR1SMA e PR4SMA. |  |  |
+| M8.33. | Beneficiar/melhorar vedações em locais pontuais da GR1SMA. |  |  |
 | SMA05.03B e SMA05.03C | Área de uso sustentável dos recursos | M1.1. | Fiscalização por parte dos Vigilantes da Natureza. |
-| SMA05.03B e SMA05.03C | Área de uso sustentável dos recursos | M2.17. | Incentivo à recuperação dos muros de pedra seca dos socalcos de vinha. |
-| SMA05.03B e SMA05.03C | Área de uso sustentável dos recursos | M2.21. | Apoios financeiros à manutenção de paisagens tradicionais da cultura da vinha, em currais e em socalcos, e de pomares de espécies tradicionais, situadas em áreas de paisagem protegida e em fajãs costeiras, integradas nos Parques Naturais de Ilha e em Reservas da Biosfera. |
-| SMA05.03B e SMA05.03C | Área de uso sustentável dos recursos | M2.22. | Incentivo à reconversão de vinhas ocupadas por mato. |
-| SMA05.03B e SMA05.03C | Área de uso sustentável dos recursos | M7.16. | Incentivo à erradicação de flora invasora em vinhas. |
-| SMA05.03B e SMA05.03C | Área de uso sustentável dos recursos | M7.18. | Incentivo à monitorização e controlo da flora invasora em vinhas. |
+| M2.17. | Incentivo à recuperação dos muros de pedra seca dos socalcos de vinha. |  |  |
+| M2.21. | Apoios financeiros à manutenção de paisagens tradicionais da cultura da vinha, em currais e em socalcos, e de pomares de espécies tradicionais, situadas em áreas de paisagem protegida e em fajãs costeiras, integradas nos Parques Naturais de Ilha e em Reservas da Biosfera. |  |  |
+| M2.22. | Incentivo à reconversão de vinhas ocupadas por mato. |  |  |
+| M7.16. | Incentivo à erradicação de flora invasora em vinhas. |  |  |
+| M7.18. | Incentivo à monitorização e controlo da flora invasora em vinhas. |  |  |
 | SMA05.03D | Área de uso sustentável dos recursos | M1.1. | Fiscalização pelos Vigilantes da Natureza. |
-| SMA05.03D | Área de uso sustentável dos recursos | M2.12. | Incentivo à plantação ou manutenção de sebes naturais com flora endémica. |
-| SMA05.03D | Área de uso sustentável dos recursos | M7.4. | Captura de coleópteros e moluscos, através de colocação de armadilhas pitfall, para apoio a estudo de distribuição e densidade em curso pela Universidade dos Açores. |
+| M2.12. | Incentivo à plantação ou manutenção de sebes naturais com flora endémica. |  |  |
+| M7.4. | Captura de coleópteros e moluscos, através de colocação de armadilhas pitfall, para apoio a estudo de distribuição e densidade em curso pela Universidade dos Açores. |  |  |
 
 5.5 - Proposta de intervenção para Área Protegida para Gestão de Habitats e Espécies da Baía do Cura (SMA06)
 
-| Condicionantes | Condicionantes |
+| **Condicionantes** |  |
 | --- | --- |
 | Plano de Ordenamento de Orla Costeira | Áreas de proteção e Conservação da Natureza Terrestre |
-| Plano de Ordenamento de Orla Costeira | Áreas Agrícolas |
-| Plano de Ordenamento de Orla Costeira | Áreas Vulneráveis |
+| Áreas Agrícolas |  |
+| Áreas Vulneráveis |  |
 | Plano Diretor Municipal | Espaços naturais e culturais (planta de ordenamento) |
-| Plano Diretor Municipal | Arribas e respetivas faixas de proteção/áreas de instabilidade de vertentes/margens das águas do mar (planta de condicionantes) |
+| Arribas e respetivas faixas de proteção/áreas de instabilidade de vertentes/margens das águas do mar (planta de condicionantes) |  |
 | Conservação da Natureza | Jazida da Ponta do Cedro |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| **Unidades Operativas de Gestão** |  |
 | --- | --- |
 | SMA06.01A - Matas mistas da Baía do Cura | Área de proteção parcial (18.668 ha) |
 | SMA06.01B - Cascata do Aveiro | Área de proteção parcial (3.348 ha) |
@@ -1690,99 +1828,99 @@ OB6: Zelar pela conservação das espécies, habitats e ecossistemas protegidos 
 
 5.5.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial |
-| SMA06.01A | M1.1. |  |  |  | M3.1. |  |  | M6.15. |  |  |
-| SMA06.01B | M1.1. |  |  |  |  |  |  | M6.1. | M6.9. |  |
-| SMA06.02 | M1.1. |  |  |  |  |  |  | M6.1. |  |  |
-| SMA06.03A SMA06.03B | M1.1. |  | M2.12. |  | M3.1. | M3.15. | M3.16. |  |  |  |
-| SMA06.03A SMA06.03B | M1.1. |  | M2.12. |  | M3.1. | M3.15. | M3.16. |  |  |  |
-| SMA06.03C | M1.1. |  | M2.12. |  | M3.1. | M3.15. | M3.16. | M6.1. |  |  |
+| **Medidas de gestão** |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Unidade Operativa de Gestão** | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M6 - Medidas relacionadas com planeamento espacial |  |  |  |  |  |
+| **SMA06.01A** | M1.1. |  |  | M3.1. |  | M6.15. |  |  |  |
+| **SMA06.01B** | M1.1. |  |  |  | M6.1. | M6.9. |  |  |  |
+| **SMA06.02** | M1.1. |  |  |  | M6.1. |  |  |  |  |
+| **SMA06.03A****SMA06.03B** | M1.1. |  | M2.12. |  | M3.1. | M3.15. | M3.16. |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+| **SMA06.03C** | M1.1. |  | M2.12. |  | M3.1. | M3.15. | M3.16. | M6.1. |  |
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| **Medidas de gestão** |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |
-| SMA06.01A | M7.2. | M7.3. | M7.4. | M7.10. | M7.11. | M7.14. | M7.16 | M7.18. | M7.32. |  |  |
-| SMA06.01B | M7.4. | M7.31. | M7.32. |  |  |  |  |  |  |  |  |
-| SMA06.02 | M7.2. | M7.3. | M7.4. | M7.8. | M7.10. | M7.11. | M7.16. | M7. 18. | M7.31. | M7.32. |  |
-| SMA06.03A SMA06.03B | M7.2. | M7.3. | M7.4. | M7.32. |  |  |  |  |  |  |  |
-| SMA06.03A SMA06.03B | M7.2. | M7.3. | M7.4. | M7.32. |  |  |  |  |  |  |  |
-| SMA06.03C | M7.2. | M7.3. | M7.4. | M7.32. |  |  |  |  |  |  |  |
+| **Unidade Operativa de Gestão** | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |  |  |  |  |  |  |  |  |  |  |
+| **SMA06.01A** | M7.2. | M7.3. | M7.4. | M7.10. | M7.11. | M7.14. | M7.16 | M7.18. | M7.32. |  |  |
+| **SMA06.01B** | M7.4. | M7.31. | M7.32. |  |  |  |  |  |  |  |  |
+| **SMA06.02** | M7.2. | M7.3. | M7.4. | M7.8. | M7.10. | M7.11. | M7.16. | M7. 18. | M7.31. | M7.32. |  |
+| **SMA06.03A****SMA06.03B** | M7.2. | M7.3. | M7.4. | M7.32. |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+| **SMA06.03C** | M7.2. | M7.3. | M7.4. | M7.32. |  |  |  |  |  |  |  |
 
 5.5.3 - Medidas de gestão
 
-| Unidade Operativa de Gestão | Regime de proteção | Medidas de gestão | Descrição |
+| **Unidade Operativa de Gestão** | **Regime de proteção** | **Medidas de gestão** | **Descrição** |
 | --- | --- | --- | --- |
 | SMA06.01A | Área de proteção parcial | M1.1. | Fiscalização pelos Vigilantes da Natureza. |
-| SMA06.01A | Área de proteção parcial | M3.1. | Potenciar a silvicultura com recurso a flora endémica e nativa. |
-| SMA06.01A | Área de proteção parcial | M6.15. | Mapeamento GPS das populações de flora endémica. |
-| SMA06.01A | Área de proteção parcial | M7.2. | Caracterização de passeriformes e invertebrados. |
-| SMA06.01A | Área de proteção parcial | M7.3. | Monitorização de passeriformes com recurso a pontos de escuta e invertebrados a fim de identificar ameaças. |
-| SMA06.01A | Área de proteção parcial | M7.4. | Captura de coleópteros e moluscos, através de armadilhas pitfall, para apoiar estudo de distribuição e densidade em curso pela Universidade dos Açores. |
-| SMA06.01A | Área de proteção parcial | M7.10. | Caracterização das populações de flora endémica. |
-| SMA06.01A | Área de proteção parcial | M7.11. | Monitorização das populações de flora endémica a fim de identificar ameaças. |
-| SMA06.01A | Área de proteção parcial | M7.14. | Plantação e sementeira de flora endémica. |
-| SMA06.01A | Área de proteção parcial | M7.16. | Erradicação de flora invasora, nomeadamente Pittosporum undulatum, Acacia melanoxylon e Rubus ulmifolius. |
-| SMA06.01A | Área de proteção parcial | M7.18. | Monitorização de espécies de fauna e flora invasora. |
-| SMA06.01A | Área de proteção parcial | M7.32. | Recolha de sementes para entrega ao Banco de Sementes dos Açores (conservação ex situ). |
+| M3.1. | Potenciar a silvicultura com recurso a flora endémica e nativa. |  |  |
+| M6.15. | Mapeamento GPS das populações de flora endémica. |  |  |
+| M7.2. | Caracterização de passeriformes e invertebrados. |  |  |
+| M7.3. | Monitorização de passeriformes com recurso a pontos de escuta e invertebrados a fim de identificar ameaças. |  |  |
+| M7.4. | Captura de coleópteros e moluscos, através de armadilhas pitfall, para apoiar estudo de distribuição e densidade em curso pela Universidade dos Açores. |  |  |
+| M7.10. | Caracterização das populações de flora endémica. |  |  |
+| M7.11. | Monitorização das populações de flora endémica a fim de identificar ameaças. |  |  |
+| M7.14. | Plantação e sementeira de flora endémica. |  |  |
+| M7.16. | Erradicação de flora invasora, nomeadamente Pittosporum undulatum, Acacia melanoxylon e Rubus ulmifolius. |  |  |
+| M7.18. | Monitorização de espécies de fauna e flora invasora. |  |  |
+| M7.32. | Recolha de sementes para entrega ao Banco de Sementes dos Açores (conservação ex situ). |  |  |
 | SMA06.01B | Área de proteção parcial | M1.1. | Fiscalização pelos Vigilantes da Natureza. |
-| SMA06.01B | Área de proteção parcial | M6.1. | Alteração dos limites sul da AP, de modo a excluir as vinhas da Cascata do Aveiro e incluir na Área de Paisagem Protegida da Baía da Maia. |
-| SMA06.01B | Área de proteção parcial | M6.9. | Gestão de geossítios/elementos de interesse geológico. |
-| SMA06.01B | Área de proteção parcial | M7.4. | Captura de coleópteros e moluscos, através de armadilhas pitfall, para apoiar estudo de distribuição e densidade em curso pela Universidade dos Açores. |
-| SMA06.01B | Área de proteção parcial | M7.31. | Conceção e dinamização de atividades de educação ambiental para sensibilizar para necessidade de conservação da AP. |
-| SMA06.01B | Área de proteção parcial | M7.32. | Recolha de sementes para entrega ao Banco de Sementes dos Açores (conservação ex situ). |
+| M6.1. | Alteração dos limites sul da AP, de modo a excluir as vinhas da Cascata do Aveiro e incluir na Área de Paisagem Protegida da Baía da Maia. |  |  |
+| M6.9. | Gestão de geossítios/elementos de interesse geológico. |  |  |
+| M7.4. | Captura de coleópteros e moluscos, através de armadilhas pitfall, para apoiar estudo de distribuição e densidade em curso pela Universidade dos Açores. |  |  |
+| M7.31. | Conceção e dinamização de atividades de educação ambiental para sensibilizar para necessidade de conservação da AP. |  |  |
+| M7.32. | Recolha de sementes para entrega ao Banco de Sementes dos Açores (conservação ex situ). |  |  |
 | SMA06.02 | Área prioritária para a conservação | M1.1. | Fiscalização pelos Vigilantes da Natureza. |
-| SMA06.02 | Área prioritária para a conservação | M6.1. | Alteração dos limites sul da AP, de modo a excluir as vinhas da Cascata do Aveiro para incluir na Área de Paisagem Protegida da Baía da Maia. |
-| SMA06.02 | Área prioritária para a conservação | M7.2. | Caracterização das espécies de avifauna marinha e censos visuais. |
-| SMA06.02 | Área prioritária para a conservação | M7.3. | Monitorização da nidificação das espécies de avifauna marinha e identificação de ameaças. |
-| SMA06.02 | Área prioritária para a conservação | M7.4. | Captura de coleópteros e moluscos, através de armadilhas pitfall, para apoiar estudo de distribuição e densidade em curso pela Universidade dos Açores. |
-| SMA06.02 | Área prioritária para a conservação | M7.8. | Diagnosticar e determinar a necessidade de se efetuar controlo de densidade populacional de espécie de fauna invasora. |
-| SMA06.02 | Área prioritária para a conservação | M7.10. | Caracterização de flora. |
-| SMA06.02 | Área prioritária para a conservação | M7.11. | Monitorização das populações de flora para identificação de ameaças. |
-| SMA06.02 | Área prioritária para a conservação | M7.16. | Erradicação de flora invasora (Agave americana; Pennisetum clandestinum; Rubus ulmifolius). |
+| M6.1. | Alteração dos limites sul da AP, de modo a excluir as vinhas da Cascata do Aveiro para incluir na Área de Paisagem Protegida da Baía da Maia. |  |  |
+| M7.2. | Caracterização das espécies de avifauna marinha e censos visuais. |  |  |
+| M7.3. | Monitorização da nidificação das espécies de avifauna marinha e identificação de ameaças. |  |  |
+| M7.4. | Captura de coleópteros e moluscos, através de armadilhas pitfall, para apoiar estudo de distribuição e densidade em curso pela Universidade dos Açores. |  |  |
+| M7.8. | Diagnosticar e determinar a necessidade de se efetuar controlo de densidade populacional de espécie de fauna invasora. |  |  |
+| M7.10. | Caracterização de flora. |  |  |
+| M7.11. | Monitorização das populações de flora para identificação de ameaças. |  |  |
+| M7.16. | Erradicação de flora invasora (Agave americana; Pennisetum clandestinum; Rubus ulmifolius). |  |  |
 |  |  | M7.18. | Monitorização do ressurgimento de flora invasora para controlo. |
-|  |  | M7.31. | Conceção e dinamização de atividades de educação ambiental para sensibilizar para necessidade de conservação da AP. |
-|  |  | M7.32. | Recolha de sementes para entrega ao Banco de Sementes dos Açores (conservação ex situ). |
+| M7.31. | Conceção e dinamização de atividades de educação ambiental para sensibilizar para necessidade de conservação da AP. |  |  |
+| M7.32. | Recolha de sementes para entrega ao Banco de Sementes dos Açores (conservação ex situ). |  |  |
 | SMA06.03A e SMA06.03B | Áreas de uso sustentável dos recursos | M1.1. | Fiscalização pelo Vigilantes da Natureza. |
-| SMA06.03A e SMA06.03B | Áreas de uso sustentável dos recursos | M2.12. | Incentivo à manutenção ou criação de sebes naturais, com plantas endémicas. |
-| SMA06.03A e SMA06.03B | Áreas de uso sustentável dos recursos | M3.1. | Potenciar a silvicultura com recurso a flora endémica e nativa. |
-| SMA06.03A e SMA06.03B | Áreas de uso sustentável dos recursos | M3.15. | Valorizar as manchas de floresta endémica e de floresta mista, e das sebes de flora endémica como stepping stones entre áreas de habitat preferencial de espécies de passeriformes protegidas. |
-| SMA06.03A e SMA06.03B | Áreas de uso sustentável dos recursos | M3.16. | Incentivar à manutenção ou plantação de flora endémica em bermas de estradas rurais. |
-| SMA06.03A e SMA06.03B | Áreas de uso sustentável dos recursos | M7.2. | Caracterização de passeriformes e invertebrados. |
-| SMA06.03A e SMA06.03B | Áreas de uso sustentável dos recursos | M7.3. | Monitorização de passeriformes com recurso a pontos de escuta e invertebrados a fim de identificar ameaças. |
-| SMA06.03A e SMA06.03B | Áreas de uso sustentável dos recursos | M7.4. | Captura de coleópteros e moluscos, através de armadilhas pitfall, para apoiar estudo de distribuição e densidade em curso pela Universidade dos Açores. |
-| SMA06.03A e SMA06.03B | Áreas de uso sustentável dos recursos | M7.32. | Recolha de sementes para entrega ao Banco de Sementes (conservação ex situ). |
+| M2.12. | Incentivo à manutenção ou criação de sebes naturais, com plantas endémicas. |  |  |
+| M3.1. | Potenciar a silvicultura com recurso a flora endémica e nativa. |  |  |
+| M3.15. | Valorizar as manchas de floresta endémica e de floresta mista, e das sebes de flora endémica como stepping stones entre áreas de habitat preferencial de espécies de passeriformes protegidas. |  |  |
+| M3.16. | Incentivar à manutenção ou plantação de flora endémica em bermas de estradas rurais. |  |  |
+| M7.2. | Caracterização de passeriformes e invertebrados. |  |  |
+| M7.3. | Monitorização de passeriformes com recurso a pontos de escuta e invertebrados a fim de identificar ameaças. |  |  |
+| M7.4. | Captura de coleópteros e moluscos, através de armadilhas pitfall, para apoiar estudo de distribuição e densidade em curso pela Universidade dos Açores. |  |  |
+| M7.32. | Recolha de sementes para entrega ao Banco de Sementes (conservação ex situ). |  |  |
 | SMA06.03C | Área de uso sustentável dos recursos | M1.1. | Fiscalização pelo Vigilantes da Natureza. |
-| SMA06.03C | Área de uso sustentável dos recursos | M2.12. | Incentivo à manutenção ou criação de sebes naturais, com plantas endémicas. |
-| SMA06.03C | Área de uso sustentável dos recursos | M3.1. | Potenciar a silvicultura com recurso a flora endémica e nativa. |
-| SMA06.03C | Área de uso sustentável dos recursos | M3.15. | Valorizar as manchas de floresta endémica e de floresta mista, e das sebes de flora endémica como stepping stones entre áreas de habitat preferencial de espécies de passeriformes protegidas. |
-| SMA06.03C | Área de uso sustentável dos recursos | M3.16. | Incentivar à manutenção ou plantação de flora endémica em bermas de estradas rurais. |
-| SMA06.03C | Área de uso sustentável dos recursos | M6.1. | Alteração dos limites sul da AP, de modo a excluir as vinhas da Cascata do Aveiro e incluir na Área de Paisagem Protegida da Baía da Maia. |
-| SMA06.03C | Área de uso sustentável dos recursos | M7.2. | Caracterização de passeriformes e invertebrados. |
-| SMA06.03C | Área de uso sustentável dos recursos | M7.3. | Monitorização de passeriformes com recurso a pontos de escuta e invertebrados a fim de identificar ameaças. |
-| SMA06.03C | Área de uso sustentável dos recursos | M7.4. | Captura de coleópteros e moluscos, através de armadilhas pitfall, para apoiar estudo de distribuição e densidade em curso pela Universidade dos Açores. |
-| SMA06.03C | Área de uso sustentável dos recursos | M7.32. | Recolha de sementes para entrega ao Banco de Sementes dos Açores (conservação ex situ). |
+| M2.12. | Incentivo à manutenção ou criação de sebes naturais, com plantas endémicas. |  |  |
+| M3.1. | Potenciar a silvicultura com recurso a flora endémica e nativa. |  |  |
+| M3.15. | Valorizar as manchas de floresta endémica e de floresta mista, e das sebes de flora endémica como stepping stones entre áreas de habitat preferencial de espécies de passeriformes protegidas. |  |  |
+| M3.16. | Incentivar à manutenção ou plantação de flora endémica em bermas de estradas rurais. |  |  |
+| M6.1. | Alteração dos limites sul da AP, de modo a excluir as vinhas da Cascata do Aveiro e incluir na Área de Paisagem Protegida da Baía da Maia. |  |  |
+| M7.2. | Caracterização de passeriformes e invertebrados. |  |  |
+| M7.3. | Monitorização de passeriformes com recurso a pontos de escuta e invertebrados a fim de identificar ameaças. |  |  |
+| M7.4. | Captura de coleópteros e moluscos, através de armadilhas pitfall, para apoiar estudo de distribuição e densidade em curso pela Universidade dos Açores. |  |  |
+| M7.32. | Recolha de sementes para entrega ao Banco de Sementes dos Açores (conservação ex situ). |  |  |
 
 5.6 - Proposta de intervenção para Área Protegida para Gestão de Habitats e Espécies do Pico Alto (SMA07)
 
-| Condicionantes | Condicionantes |
+| **Condicionantes** |  |
 | --- | --- |
 | Plano Diretor Municipal | Espaços naturais e culturais (planta de ordenamento) |
-| Plano Diretor Municipal | Áreas estratégicas de proteção e recarga de aquíferos (planta de condicionantes) |
+| Áreas estratégicas de proteção e recarga de aquíferos (planta de condicionantes) |  |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| **Unidades Operativas de Gestão** |  |
 | --- | --- |
 | SMA07.01 - Área Central do Pico Alto | Área de proteção integral (9,035909 ha) |
 | SMA07.02 - Matas mistas do Pico Alto | Área de proteção parcial (112,1961ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| **Elementos de fruição da paisagem** |  |
 | --- | --- |
-| Trilhos | Trilhos |
+| Trilhos |  |
 | GR1SMA - Grande Rota de Santa Maria | Manutenção |
 | PRC2SMA - Pico Alto | Manutenção |
 | PR6SMA - Areia Branca | Manutenção |
-| Miradouros | Miradouros |
+| Miradouros |  |
 | Miradouro do Pico Alto | Existente |
 
 5.6.1 - Objetivos de gestão
@@ -1801,108 +1939,108 @@ OB6. Zelar pela conservação das espécies, habitats e ecossistemas protegidos,
 
 5.6.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| **Medidas de gestão** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial |
-| SMA07.01 | M1.1. |  |  |  |  | M3.17. |  |  | M4.6. |  | M6.1. | M6.15. |  |  |  |  |
-| SMA07.02 | M1.1. |  | M2.10. | M2.12. | M2.16. | M3.1. | M3.7. |  | M4.6. |  | M6.2. | M6.3. | M6.5. | M6.13. | M6.14. | M6.17. |
+| **Unidade Operativa de Gestão** | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial |  |  |  |  |  |  |  |  |  |  |  |
+| **SMA07.01** | M1.1. |  |  | M3.17. |  | M4.6. |  | M6.1. | M6.15. |  |  |  |  |  |  |  |
+| **SMA07.02** | M1.1. |  | M2.10. | M2.12. | M2.16. | M3.1. | M3.7. |  | M4.6. |  | M6.2. | M6.3. | M6.5. | M6.13. | M6.14. | M6.17. |
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| **Medidas de gestão** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |
-| SMA07.01 | M7.2. | M7.3. | M7.4. | M7.10. | M7.11. | M7.14. | M7.16. | M7.18. | M7.20. | M7.24. | M7.26. | M7.31. | M7.32. |  |  |
-| SMA07.02 | M7.2. | M7.3. | M7.4. | M7.10. | M7.11. | M7.12. | M7.14. | M7.15. | M7.16. | M7.18. | M7.20. | M7.24. | M7.26. | M7.31. | M7.32. |
+| **Unidade Operativa de Gestão** | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| **SMA07.01** | M7.2. | M7.3. | M7.4. | M7.10. | M7.11. | M7.14. | M7.16. | M7.18. | M7.20. | M7.24. | M7.26. | M7.31. | M7.32. |  |  |
+| **SMA07.02** | M7.2. | M7.3. | M7.4. | M7.10. | M7.11. | M7.12. | M7.14. | M7.15. | M7.16. | M7.18. | M7.20. | M7.24. | M7.26. | M7.31. | M7.32. |
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| **Medidas de gestão** |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
-| SMA07.01 | M8.33. | M8.38. | M8.44. |  |  |  |  |
-| SMA07.02 | M8.25. | M8.30. | M8.32. | M8.38. | M8.44. | M8.46. | M8.58. |
+| **Unidade Operativa de Gestão** | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |  |
+| **SMA07.01** | M8.33. | M8.38. | M8.44. |  |  |  |  |
+| **SMA07.02** | M8.25. | M8.30. | M8.32. | M8.38. | M8.44. | M8.46. | M8.58. |
 
 5.6.3 - Medidas de gestão
 
-| Unidade Operativa de Gestão | Regime de proteção | Medidas de gestão | Descrição |
+| **Unidade Operativa de Gestão** | **Regime de proteção** | **Medidas de gestão** | **Descrição** |
 | --- | --- | --- | --- |
 | SMA07.01 | Área de proteção integral | M1.1. | Fiscalização por parte dos Vigilantes da Natureza. |
-| SMA07.01 | Área de proteção integral | M3.17. | Promover a gestão da floresta com o propósito único de conservação da natureza. |
-| SMA07.01 | Área de proteção integral | M4.6. | Conservação da galeria ripícola, através da manutenção das linhas de água, tendo como propósito o favorecimento do habitat da fauna endémica. |
-| SMA07.01 | Área de proteção integral | M6.1. | Estudar a viabilidade e propor a classificação no âmbito da Rede Natura 2000, considerando tratar-se de um habitat de espécies prioritárias. |
-| SMA07.01 | Área de proteção integral | M6.15. | Mapeamento em GPS da flora. |
-| SMA07.01 | Área de proteção integral | M7.2. | Caracterização de fauna, através de censos por ponto de escuta para os passeriformes e através de recolha de invertebrados por armadilhas pitfall e slam. |
-| SMA07.01 | Área de proteção integral | M7.3. | Monitorização da fauna, a fim de identificar ameaças. Complementar a M7.2. |
-| SMA07.01 | Área de proteção integral | M7.4. | Captura de invertebrados para apoio ao estudo à dispersão e densidade em curso pela Universidade dos Açores. |
-| SMA07.01 | Área de proteção integral | M7.10. | Caracterização da flora. |
-| SMA07.01 | Área de proteção integral | M7.11. | Monitorização da flora a fim de identificar ameaças. Complementar a M7.10. |
-| SMA07.01 | Área de proteção integral | M7.14. | Plantação ou sementeira de flora endémica de altitude. |
-| SMA07.01 | Área de proteção integral | M7.16. | Erradicação de flora invasora, especificamente Hedychium gardnerarum, Pittosporum undulatum, Lantana camara, Acacia melanoxylon e Rubus ulmifolius. |
-| SMA07.01 | Área de proteção integral | M7.18. | Monitorização do ressurgimento de flora invasora. Complementar a M7.16. |
-| SMA07.01 | Área de proteção integral | M7.20. | Conservação da biodiversidade que habita os troncos, nomeadamente briófitos e invertebrados. Complementar a M7.16. |
-| SMA07.01 | Área de proteção integral | M7.24. | Recuperação do habitat. Complementar a M7.14, M7.16, M7.18 e M7.20. |
-| SMA07.01 | Área de proteção integral | M7.26. | Fomento da sucessão natural. Complementar a M7.16 e M7.20. |
-| SMA07.01 | Área de proteção integral | M7.31. | Atividades de educação e sensibilização ambiental a fim de informar e sensibilizar para a necessidade de conservação do habitat e espécies. |
-| SMA07.01 | Área de proteção integral | M7.32. | Recolha de sementes para envio para o Banco de Sementes dos Açores (conservação ex situ). |
-| SMA07.01 | Área de proteção integral | M8.33. | Colocação de vedações em locais pontuais para restringir acesso. |
-| SMA07.01 | Área de proteção integral | M8.38. | Conservação de espécies protegidas na berma do caminho florestal de acesso ao Pico Alto, tais como Aichryson santamariensis, Vaccinium cylindraceum, Viburnum treleasei, Erica azorica, Picconia azorica, Laurus azoricus e Platanthera pollostantha. |
-| SMA07.01 | Área de proteção integral | M8.44. | Colocação de sinalética de PNI. |
+| M3.17. | Promover a gestão da floresta com o propósito único de conservação da natureza. |  |  |
+| M4.6. | Conservação da galeria ripícola, através da manutenção das linhas de água, tendo como propósito o favorecimento do habitat da fauna endémica. |  |  |
+| M6.1. | Estudar a viabilidade e propor a classificação no âmbito da Rede Natura 2000, considerando tratar-se de um habitat de espécies prioritárias. |  |  |
+| M6.15. | Mapeamento em GPS da flora. |  |  |
+| M7.2. | Caracterização de fauna, através de censos por ponto de escuta para os passeriformes e através de recolha de invertebrados por armadilhas pitfall e slam. |  |  |
+| M7.3. | Monitorização da fauna, a fim de identificar ameaças. Complementar a M7.2. |  |  |
+| M7.4. | Captura de invertebrados para apoio ao estudo à dispersão e densidade em curso pela Universidade dos Açores. |  |  |
+| M7.10. | Caracterização da flora. |  |  |
+| M7.11. | Monitorização da flora a fim de identificar ameaças. Complementar a M7.10. |  |  |
+| M7.14. | Plantação ou sementeira de flora endémica de altitude. |  |  |
+| M7.16. | Erradicação de flora invasora, especificamente Hedychium gardnerarum, Pittosporum undulatum, Lantana camara, Acacia melanoxylon e Rubus ulmifolius. |  |  |
+| M7.18. | Monitorização do ressurgimento de flora invasora. Complementar a M7.16. |  |  |
+| M7.20. | Conservação da biodiversidade que habita os troncos, nomeadamente briófitos e invertebrados. Complementar a M7.16. |  |  |
+| M7.24. | Recuperação do habitat. Complementar a M7.14, M7.16, M7.18 e M7.20. |  |  |
+| M7.26. | Fomento da sucessão natural. Complementar a M7.16 e M7.20. |  |  |
+| M7.31. | Atividades de educação e sensibilização ambiental a fim de informar e sensibilizar para a necessidade de conservação do habitat e espécies. |  |  |
+| M7.32. | Recolha de sementes para envio para o Banco de Sementes dos Açores (conservação ex situ). |  |  |
+| M8.33. | Colocação de vedações em locais pontuais para restringir acesso. |  |  |
+| M8.38. | Conservação de espécies protegidas na berma do caminho florestal de acesso ao Pico Alto, tais como Aichryson santamariensis, Vaccinium cylindraceum, Viburnum treleasei, Erica azorica, Picconia azorica, Laurus azoricus e Platanthera pollostantha. |  |  |
+| M8.44. | Colocação de sinalética de PNI. |  |  |
 | SMA07.02 | Área de proteção parcial | M1.1. | Fiscalização pelos Vigilantes da Natureza. |
-| SMA07.02 | Área de proteção parcial | M2.10. | Construção de cancelas ou vedações para limitação de acesso de gado, em locais pontuais. |
-| SMA07.02 | Área de proteção parcial | M2.12. | Promoção de sebes e bosquetes de endémicas nas explorações agrícolas. |
-| SMA07.02 | Área de proteção parcial | M2.16. | Interditar o abate de floresta e arroteamento para reconversão como pastagem. |
-| SMA07.02 | Área de proteção parcial | M3.1. | Potenciar a plantação florestal com espécies endémicas e nativas com potencial para silvicultura. |
+| M2.10. | Construção de cancelas ou vedações para limitação de acesso de gado, em locais pontuais. |  |  |
+| M2.12. | Promoção de sebes e bosquetes de endémicas nas explorações agrícolas. |  |  |
+| M2.16. | Interditar o abate de floresta e arroteamento para reconversão como pastagem. |  |  |
+| M3.1. | Potenciar a plantação florestal com espécies endémicas e nativas com potencial para silvicultura. |  |  |
 |  |  | M3.7. | Prevenção da erosão, especificamente de taludes com inclinação acentuada, aquando de trabalhos de erradicação de invasoras, através da colocação de barreiras naturais entre a remoção de invasoras e a plantação de endémicas. |
-|  |  | M4.6. | Conservação da galeria ripícola, através da manutenção das linhas de água, tendo como propósito o favorecimento do habitat da fauna endémica. |
-|  |  | M6.2. | Estabelecimento de corredores ecológicos ligando a APGHE do Pico Alto, à APGHE da Ponta do Castelo através do local das Casas Velhas, à Área de Paisagem Protegida Barreiro da Faneca através do vale da Ribeira do Engenho, e à Área de Paisagem Protegida de São Lourenço, através do vale da Ribeira do Salto, acompanhando a classificação pela Reserva Ecológica. Sempre que haja necessidade de proceder a plantação ou ao abate de árvores, os mesmos devem ser precedidos por avaliação e aprovação prévia da Direção Regional dos Recursos Florestais e Ordenamento Territorial (DRRFOT) como entidade gestora do Perímetro Florestal. |
-|  |  | M6.3. | Estabelecer áreas de continuum naturale favorecendo o habitat da Regulus regulus sanctamariae e outros passeriformes e dos invertebrados endémicos da ilha. Complementar a M6.2. |
-|  |  | M6.5. | Acordos com proprietários de terrenos onde se pretendam intervenções específicas. |
-|  |  | M6.13. | Abolição do uso militar das Casamatas do Pico Alto - transferência de titularidade para a Região. |
-|  |  | M6.14. | Garantir a compatibilização do Plano de Gestão com os restantes instrumentos de ordenamento do território especificamente com a reserva ecológica e perímetro florestal. |
-|  |  | M6.17. | Adaptação das Casamatas para uso múltiplo de apoio ao PNI, devendo ser precedida de autorização das respetivas entidades militares e da DRRFOT, entidade gestora do Perímetro Florestal. |
-|  |  | M7.2. | Caraterização de fauna, através de censos por ponto de escuta para os passeriformes e através de recolha de invertebrados por armadilhas pitfall e slam. |
-|  |  | M7.3. | Monitorização da fauna. Complementar a M7.2. |
-|  |  | M7.4. | Captura de invertebrados para apoio ao estudo da sua densidade e dispersão em curso pela Universidade dos Açores. |
-|  |  | M7.10. | Caracterização da flora através de trabalho de campo e análise de imagens aéreas (drone). |
-|  |  | M7.11. | Monitorização da flora a fim de identificar ameaças. Complementar a M7.10. |
-|  |  | M7.12. | Criação de estação de aclimatização para plantio de espécies de flora endémica. |
-|  |  | M7.14. | Plantação de vegetação endémica. |
-|  |  | M7.15. | Plantação ou sementeira de vegetação endémica e nativa. |
-|  |  | M7.16. | Erradicação de flora invasora, especificamente Hedychium gardnerarum, Pittosporum undulatum, Lantana camara, Acacia melanoxylon e Rubus ulmifolius. |
-|  |  | M7.18. | Monitorização do ressurgimento de flora invasora. Complementar a M7.16. |
-|  |  | M7.20. | Conservação da biodiversidade que habita os troncos, nomeadamente briófitos e invertebrados. Complementar a M7.1. |
-|  |  | M7.24. | Recuperação do habitat. Complementar a M7.14, M7.16, M7.18 e M7.20. |
-|  |  | M7.26. | Fomento da sucessão natural. Complementar a M7.16 e M7.20. |
+| M4.6. | Conservação da galeria ripícola, através da manutenção das linhas de água, tendo como propósito o favorecimento do habitat da fauna endémica. |  |  |
+| M6.2. | Estabelecimento de corredores ecológicos ligando a APGHE do Pico Alto, à APGHE da Ponta do Castelo através do local das Casas Velhas, à Área de Paisagem Protegida Barreiro da Faneca através do vale da Ribeira do Engenho, e à Área de Paisagem Protegida de São Lourenço, através do vale da Ribeira do Salto, acompanhando a classificação pela Reserva Ecológica. Sempre que haja necessidade de proceder a plantação ou ao abate de árvores, os mesmos devem ser precedidos por avaliação e aprovação prévia da Direção Regional dos Recursos Florestais e Ordenamento Territorial (DRRFOT) como entidade gestora do Perímetro Florestal. |  |  |
+| M6.3. | Estabelecer áreas de continuum naturale favorecendo o habitat da Regulus regulus sanctamariae e outros passeriformes e dos invertebrados endémicos da ilha. Complementar a M6.2. |  |  |
+| M6.5. | Acordos com proprietários de terrenos onde se pretendam intervenções específicas. |  |  |
+| M6.13. | Abolição do uso militar das Casamatas do Pico Alto - transferência de titularidade para a Região. |  |  |
+| M6.14. | Garantir a compatibilização do Plano de Gestão com os restantes instrumentos de ordenamento do território especificamente com a reserva ecológica e perímetro florestal. |  |  |
+| M6.17. | Adaptação das Casamatas para uso múltiplo de apoio ao PNI, devendo ser precedida de autorização das respetivas entidades militares e da DRRFOT, entidade gestora do Perímetro Florestal. |  |  |
+| M7.2. | Caraterização de fauna, através de censos por ponto de escuta para os passeriformes e através de recolha de invertebrados por armadilhas pitfall e slam. |  |  |
+| M7.3. | Monitorização da fauna. Complementar a M7.2. |  |  |
+| M7.4. | Captura de invertebrados para apoio ao estudo da sua densidade e dispersão em curso pela Universidade dos Açores. |  |  |
+| M7.10. | Caracterização da flora através de trabalho de campo e análise de imagens aéreas (drone). |  |  |
+| M7.11. | Monitorização da flora a fim de identificar ameaças. Complementar a M7.10. |  |  |
+| M7.12. | Criação de estação de aclimatização para plantio de espécies de flora endémica. |  |  |
+| M7.14. | Plantação de vegetação endémica. |  |  |
+| M7.15. | Plantação ou sementeira de vegetação endémica e nativa. |  |  |
+| M7.16. | Erradicação de flora invasora, especificamente Hedychium gardnerarum, Pittosporum undulatum, Lantana camara, Acacia melanoxylon e Rubus ulmifolius. |  |  |
+| M7.18. | Monitorização do ressurgimento de flora invasora. Complementar a M7.16. |  |  |
+| M7.20. | Conservação da biodiversidade que habita os troncos, nomeadamente briófitos e invertebrados. Complementar a M7.1. |  |  |
+| M7.24. | Recuperação do habitat. Complementar a M7.14, M7.16, M7.18 e M7.20. |  |  |
+| M7.26. | Fomento da sucessão natural. Complementar a M7.16 e M7.20. |  |  |
 |  |  | M7.31. | Atividades de educação e sensibilização ambiental a fim de informar e sensibilizar para a necessidade de conservação do habitat e espécies |
-|  |  | M7.32. | Recolha de sementes para envio para o Banco de Sementes dos Açores (conservação ex situ). |
-|  |  | M8.25. | Manutenção da GR1SMA e PRC2SMA. |
-|  |  | M8.30. | Estabelecimento de zona tampão entre os troços da GR1SMA e PRC2SMA que roçam a área de proteção integral. |
-|  |  | M8.32. | Criação de áreas de descanso ao longo do PRC2SMA, com recurso aos materiais existentes no local, de modo a serem integrados no ambiente. |
-|  |  | M8.38. | Conservação de espécies protegidos na berma do caminho florestal, especificamente a Platanthera pollostantha. |
-|  |  | M8.44. | Colocação de sinalética de PNI. |
-|  |  | M8.46. | Criar condições para pessoas com mobilidade reduzida. Complementar a M8.43. |
-|  |  | M8.58. | Definição de áreas para desportos de natureza. |
+| M7.32. | Recolha de sementes para envio para o Banco de Sementes dos Açores (conservação ex situ). |  |  |
+| M8.25. | Manutenção da GR1SMA e PRC2SMA. |  |  |
+| M8.30. | Estabelecimento de zona tampão entre os troços da GR1SMA e PRC2SMA que roçam a área de proteção integral. |  |  |
+| M8.32. | Criação de áreas de descanso ao longo do PRC2SMA, com recurso aos materiais existentes no local, de modo a serem integrados no ambiente. |  |  |
+| M8.38. | Conservação de espécies protegidos na berma do caminho florestal, especificamente a Platanthera pollostantha. |  |  |
+| M8.44. | Colocação de sinalética de PNI. |  |  |
+| M8.46. | Criar condições para pessoas com mobilidade reduzida. Complementar a M8.43. |  |  |
+| M8.58. | Definição de áreas para desportos de natureza. |  |  |
 
 5.7 - Proposta de intervenção para a Área de Paisagem Protegida do Barreiro da Faneca (SMA08)
 
-| Condicionantes | Condicionantes |
+| **Condicionantes** |  |
 | --- | --- |
 | Plano de Ordenamento de Orla Costeira | Áreas de Interesse Cultural e Paisagístico |
-| Plano de Ordenamento de Orla Costeira | Áreas Agrícolas |
-| Plano de Ordenamento de Orla Costeira | Áreas Florestais |
-| Plano de Ordenamento de Orla Costeira | Áreas de Proteção e Conservação da Natureza Terrestre |
-| Plano de Ordenamento de Orla Costeira | Áreas Vulneráveis |
+| Áreas Agrícolas |  |
+| Áreas Florestais |  |
+| Áreas de Proteção e Conservação da Natureza Terrestre |  |
+| Áreas Vulneráveis |  |
 | Plano Diretor Municipal | Áreas de Povoamento Tradicional (planta de ordenamento) |
-| Plano Diretor Municipal | Espaços naturais e culturais (planta de ordenamento) |
-| Plano Diretor Municipal | Áreas de uso especial (planta de ordenamento) |
-| Plano Diretor Municipal | Arribas e respetivas faixas de proteção (planta de condicionantes) |
-| Plano Diretor Municipal | Áreas de elevado risco de erosão hídrica do solo (planta de condicionantes) |
-| Plano Diretor Municipal | Áreas de instabilidade de vertentes (planta de condicionantes) |
-| Plano Diretor Municipal | Margens das águas do mar (planta de condicionantes) |
-| Plano Diretor Municipal | Reserva agrícola regional (planta de condicionantes) |
+| Espaços naturais e culturais (planta de ordenamento) |  |
+| Áreas de uso especial (planta de ordenamento) |  |
+| Arribas e respetivas faixas de proteção (planta de condicionantes) |  |
+| Áreas de elevado risco de erosão hídrica do solo (planta de condicionantes) |  |
+| Áreas de instabilidade de vertentes (planta de condicionantes) |  |
+| Margens das águas do mar (planta de condicionantes) |  |
+| Reserva agrícola regional (planta de condicionantes) |  |
 | Conservação da Natureza | Jazida Fóssil da Ponta dos Frades |
-| Conservação da Natureza | Jazida Fóssil da Cré |
-| Conservação da Natureza | Jazida Fóssil das Lagoínhas |
-| Conservação da Natureza | Jazida Fóssil da Ponta do Norte |
+| Jazida Fóssil da Cré |  |
+| Jazida Fóssil das Lagoínhas |  |
+| Jazida Fóssil da Ponta do Norte |  |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| **Unidades Operativas de Gestão** |  |
 | --- | --- |
 | SMA08.01 - Área Deserta do Barreiro da Faneca | Área de proteção parcial (16.913 ha) |
 | SMA08.02A - Matas mistas de São Pedro | Área de proteção complementar (106.744 ha) |
@@ -1916,12 +2054,12 @@ OB6. Zelar pela conservação das espécies, habitats e ecossistemas protegidos,
 | SMA08.04E - Área agropastoril do Tagarete | Área de uso sustentável dos recursos (2.152 ha) |
 | SMA08.04F - Área agropastoril do Norte | Área de uso sustentável dos recursos (99.293 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| **Elementos de fruição da paisagem** |  |
 | --- | --- |
-| Trilhos | Trilhos |
+| Trilhos |  |
 | PR1SMA - Costa Norte | Manutenção |
 | GR1SMA - Grande Rota de Santa Maria | Manutenção |
-| Miradouros | Miradouros |
+| Miradouros |  |
 | SMA.M4 - Miradouro das Lagoínhas | Manutenção |
 
 5.7.1 - Objetivos de gestão
@@ -1944,112 +2082,112 @@ OB8. Zelar pela conservação dos valores tradicionais e estéticos em presença
 
 5.7.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial |
-| SMA08.01 | M1.1. |  |  |  |  |  |  |  |  | M6.5. | M6.9. | M6.11. |  |
-| SMA08.02ASMA08.02BSMA08.02C | M1.1. |  |  |  |  |  | M4.7. |  |  | M6.3. | M6.5. | M6.17. |  |
-| SMA08.03 | M1.1. |  |  |  |  |  |  |  |  |  |  |  |  |
-| SMA08.04ASMA08.04BSMA08.04CSMA08.04DSMA08.04ESMA08.04F | M1.1. |  | M2.12. | M2.17. | M2.21. |  | M4.2. | M4.6. |  | M6.14. |  |  |  |
+| **Medidas de gestão** |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Unidade Operativa de Gestão** | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial |  |  |  |  |  |  |  |
+| **SMA08.01** | M1.1. |  |  |  | M6.5. | M6.9. | M6.11. |  |  |  |  |
+| **SMA08.02A****SMA08.02B****SMA08.02C** | M1.1. |  |  | M4.7. |  | M6.3. | M6.5. | M6.17. |  |  |  |
+| **SMA08.03** | M1.1. |  |  |  |  |  |  |  |  |  |  |
+| **SMA08.04A****SMA08.04B****SMA08.04C****SMA08.04D****SMA08.04E****SMA08.04F** | M1.1. |  | M2.12. | M2.17. | M2.21. |  | M4.2. | M4.6. |  | M6.14. |  |
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
-| SMA08.01 | M7.2. | M7.3. | M7.4. | M7.10. | M7.16. | M7.18. | M7.31. |  |  |  |  |  | M8.25. | M8.32. | M8.44. | M8.47. | M8.64. |  |
-| SMA08.02ASMA08.02BSMA08.02C | M7.2. | M7.3. | M7.4. | M7.10. | M7.11. | M7.13. | M7.14. | M7.16. | M7.18. | M7.20. | M7.31. | M7.32. | M8.25. | M8.36. | M8.60. | M8.64. |  |  |
-| SMA08.03 | M7.2. | M7.4. | M7.31. |  |  |  |  |  |  |  |  |  | M8.25. | M8.31. |  |  |  |  |
-| SMA08.04ASMA08.04BSMA08.04CSMA08.04DSMA08.04ESMA08.04F | M7.4. | M7.10. | M7.11. | M7.14. | M7.18. |  |  |  |  |  |  |  | M8.25. | M8.31. | M8.44. |  |  |  |
+| **Medidas de gestão** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Unidade Operativa de Gestão** | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| **SMA08.01** | M7.2. | M7.3. | M7.4. | M7.10. | M7.16. | M7.18. | M7.31. |  | M8.25. | M8.32. | M8.44. | M8.47. | M8.64. |  |  |  |  |
+| **SMA08.02A****SMA08.02B****SMA08.02C** | M7.2. | M7.3. | M7.4. | M7.10. | M7.11. | M7.13. | M7.14. | M7.16. | M7.18. | M7.20. | M7.31. | M7.32. | M8.25. | M8.36. | M8.60. | M8.64. |  |
+| **SMA08.03** | M7.2. | M7.4. | M7.31. |  | M8.25. | M8.31. |  |  |  |  |  |  |  |  |  |  |  |
+| **SMA08.04A****SMA08.04B****SMA08.04C****SMA08.04D****SMA08.04E****SMA08.04F** | M7.4. | M7.10. | M7.11. | M7.14. | M7.18. |  | M8.25. | M8.31. | M8.44. |  |  |  |  |  |  |  |  |
 
 5.7.3 - Medidas de gestão
 
-| Unidade Operativa de Gestão | Regime de proteção | Medidas de gestão | Descrição |
+| **Unidade Operativa de Gestão** | **Regime de proteção** | **Medidas de gestão** | **Descrição** |
 | --- | --- | --- | --- |
 | SMA08.01 | Área de proteção parcial | M1.1. | Fiscalização pelos Vigilantes da Natureza. |
-| SMA08.01 | Área de proteção parcial | M6.5. | Acordo com proprietários a fim de autorizar as intervenções. |
-| SMA08.01 | Área de proteção parcial | M6.9. | Gestão de geossítio prioritário Barreiro da Faneca. |
-| SMA08.01 | Área de proteção parcial | M6.11. | Gestão de elementos singulares da paisagem. |
-| SMA08.01 | Área de proteção parcial | M7.2. | Caracterização de fauna, especificamente invertebrados e passeriformes. Complementar a M7.4. |
-| SMA08.01 | Área de proteção parcial | M7.3. | Monitorização de fauna, para identificação de ameaças. Complementar a M7.2. |
-| SMA08.01 | Área de proteção parcial | M7.4. | Captura de invertebrados, através de armadilhas pitfall, para apoio ao estudo à abundância e distribuição em curso pela Universidade dos Açores. |
-| SMA08.01 | Área de proteção parcial | M7.10. | Caracterização da flora invasora para determinação dos métodos de combate mais eficazes. |
-| SMA08.01 | Área de proteção parcial | M7.16. | Erradicação de espécies de vegetação invasora, nomeadamente Ulex europaeus, e diversas espécies de herbáceas. Complementar a M7.10. |
-| SMA08.01 | Área de proteção parcial | M7.18. | Monitorização do ressurgimento de flora invasora. |
-| SMA08.01 | Área de proteção parcial | M7.31. | Conceção e dinamização de atividades de educação ambiental para sensibilizar a necessidade de conservação da AP. |
-| SMA08.01 | Área de proteção parcial | M8.25. | Manutenção da GR1SMA e PR1SMA. |
-| SMA08.01 | Área de proteção parcial | M8.32. | Criação de ponto de repouso nas áreas limítrofes do Barreiro da Faneca. |
-| SMA08.01 | Área de proteção parcial | M8.44. | Colocação de sinalética de PNI. |
-| SMA08.01 | Área de proteção parcial | M8.47. | Melhoria das condições do estacionamento de modo a que se torne adequado a pessoas com mobilidade reduzida. |
-| SMA08.01 | Área de proteção parcial | M8.64. | Gestão dos resíduos verdes produzidos pelas ações de controlo de flora invasora - deposição in situ. |
+| M6.5. | Acordo com proprietários a fim de autorizar as intervenções. |  |  |
+| M6.9. | Gestão de geossítio prioritário Barreiro da Faneca. |  |  |
+| M6.11. | Gestão de elementos singulares da paisagem. |  |  |
+| M7.2. | Caracterização de fauna, especificamente invertebrados e passeriformes. Complementar a M7.4. |  |  |
+| M7.3. | Monitorização de fauna, para identificação de ameaças. Complementar a M7.2. |  |  |
+| M7.4. | Captura de invertebrados, através de armadilhas pitfall, para apoio ao estudo à abundância e distribuição em curso pela Universidade dos Açores. |  |  |
+| M7.10. | Caracterização da flora invasora para determinação dos métodos de combate mais eficazes. |  |  |
+| M7.16. | Erradicação de espécies de vegetação invasora, nomeadamente Ulex europaeus, e diversas espécies de herbáceas. Complementar a M7.10. |  |  |
+| M7.18. | Monitorização do ressurgimento de flora invasora. |  |  |
+| M7.31. | Conceção e dinamização de atividades de educação ambiental para sensibilizar a necessidade de conservação da AP. |  |  |
+| M8.25. | Manutenção da GR1SMA e PR1SMA. |  |  |
+| M8.32. | Criação de ponto de repouso nas áreas limítrofes do Barreiro da Faneca. |  |  |
+| M8.44. | Colocação de sinalética de PNI. |  |  |
+| M8.47. | Melhoria das condições do estacionamento de modo a que se torne adequado a pessoas com mobilidade reduzida. |  |  |
+| M8.64. | Gestão dos resíduos verdes produzidos pelas ações de controlo de flora invasora - deposição in situ. |  |  |
 | SMA08.02ASMA08.02BSMA08.02C | Área de proteção complementar | M1.1. | Fiscalização pelos Vigilantes da Natureza. |
-| SMA08.02ASMA08.02BSMA08.02C | Área de proteção complementar | M4.7. | Melhoria da galeria ripícola, onde se encontram espécies de vegetação endémicas, tais como Hypericum foliosum e Pericallis malvifolia. |
-| SMA08.02ASMA08.02BSMA08.02C | Área de proteção complementar | M6.3. | Promoção do continuum naturale, através da beneficiação das matas de endémicas. |
-| SMA08.02ASMA08.02BSMA08.02C | Área de proteção complementar | M6.5. | Acordo com proprietários dos terrenos onde se pretende intervir. |
-| SMA08.02ASMA08.02BSMA08.02C | Área de proteção complementar | M6.17. | Construção de abrigo para armazenamento dos materiais da Estação de Esforço Constante e abrigo dos Vigilantes da Natureza. |
-| SMA08.02ASMA08.02BSMA08.02C | Área de proteção complementar | M7.2. | Caracterização de fauna, especificamente invertebrados e passeriformes, Estação de Esforço Constante. Complementar a M7.4 |
-| SMA08.02ASMA08.02BSMA08.02C | Área de proteção complementar | M7.3. | Monitorização de fauna, para identificação de ameaças. Complementar a M7.2, |
-| SMA08.02ASMA08.02BSMA08.02C | Área de proteção complementar | M7.4. | Captura de invertebrados, através de armadilhas pitfall, para apoio ao estudo à densidade e distribuição em curso pela Universidade dos Açores. |
-| SMA08.02ASMA08.02BSMA08.02C | Área de proteção complementar | M7.10. | Caracterização da flora através de trabalho de campo e imagem aérea (drone). |
-| SMA08.02ASMA08.02BSMA08.02C | Área de proteção complementar | M7.11. | Monitorização da flora a fim de identificar ameaças. |
-| SMA08.02ASMA08.02BSMA08.02C | Área de proteção complementar | M7.13. | Estudo sobre distribuição e densidade de passeriformes. |
+| M4.7. | Melhoria da galeria ripícola, onde se encontram espécies de vegetação endémicas, tais como Hypericum foliosum e Pericallis malvifolia. |  |  |
+| M6.3. | Promoção do continuum naturale, através da beneficiação das matas de endémicas. |  |  |
+| M6.5. | Acordo com proprietários dos terrenos onde se pretende intervir. |  |  |
+| M6.17. | Construção de abrigo para armazenamento dos materiais da Estação de Esforço Constante e abrigo dos Vigilantes da Natureza. |  |  |
+| M7.2. | Caracterização de fauna, especificamente invertebrados e passeriformes, Estação de Esforço Constante. Complementar a M7.4 |  |  |
+| M7.3. | Monitorização de fauna, para identificação de ameaças. Complementar a M7.2, |  |  |
+| M7.4. | Captura de invertebrados, através de armadilhas pitfall, para apoio ao estudo à densidade e distribuição em curso pela Universidade dos Açores. |  |  |
+| M7.10. | Caracterização da flora através de trabalho de campo e imagem aérea (drone). |  |  |
+| M7.11. | Monitorização da flora a fim de identificar ameaças. |  |  |
+| M7.13. | Estudo sobre distribuição e densidade de passeriformes. |  |  |
 |  |  | M7.14. | Plantação e sementeira de espécies endémicas. |
-|  |  | M7.16. | Erradicação de Pittosporum undulatum, Ulex europaeus, Rubus ulmifolius e Lantana camara. |
-|  |  | M7.18. | Monitorização de flora invasora. Complementar a M7.16. |
-|  |  | M7.20. | Promoção da relação entre fauna e flora, favorecendo os invertebrados e os passeriformes. Complementar a M7.14 e M7.16. |
-|  |  | M7.31. | Conceção e dinamização de atividades de educação ambiental para sensibilizar a necessidade de conservação da AP. |
-|  |  | M7.32. | Recolha de sementes para entrega ao Banco de Sementes dos Açores (conservação ex situ). |
-|  |  | M8.25. | Manutenção da GR1SMA e PR1SMA. |
-|  |  | M8.36. | Avaliar a pertinência de construção de ponte sobre a Ribeira do Engenho, no lugar das Bananeiras. |
-|  |  | M8.60. | Potenciar a prática de canyoning na linha de água e queda de água da Ribeira do Engenho sobre a Baía do Raposo. |
-|  |  | M8.64. | Gestão de resíduos provenientes de atividades de remoção de espécies invasoras, por trituração e deposição in situ ou remoção e entrega para compostagem. |
+| M7.16. | Erradicação de Pittosporum undulatum, Ulex europaeus, Rubus ulmifolius e Lantana camara. |  |  |
+| M7.18. | Monitorização de flora invasora. Complementar a M7.16. |  |  |
+| M7.20. | Promoção da relação entre fauna e flora, favorecendo os invertebrados e os passeriformes. Complementar a M7.14 e M7.16. |  |  |
+| M7.31. | Conceção e dinamização de atividades de educação ambiental para sensibilizar a necessidade de conservação da AP. |  |  |
+| M7.32. | Recolha de sementes para entrega ao Banco de Sementes dos Açores (conservação ex situ). |  |  |
+| M8.25. | Manutenção da GR1SMA e PR1SMA. |  |  |
+| M8.36. | Avaliar a pertinência de construção de ponte sobre a Ribeira do Engenho, no lugar das Bananeiras. |  |  |
+| M8.60. | Potenciar a prática de canyoning na linha de água e queda de água da Ribeira do Engenho sobre a Baía do Raposo. |  |  |
+| M8.64. | Gestão de resíduos provenientes de atividades de remoção de espécies invasoras, por trituração e deposição in situ ou remoção e entrega para compostagem. |  |  |
 | SMA08.03 | Área prioritária para a conservação | M1.1. | Fiscalização pelos Vigilantes da Natureza. |
-| SMA08.03 | Área prioritária para a conservação | M7.2. | Caracterização de avifauna marinha. |
-| SMA08.03 | Área prioritária para a conservação | M7.4. | Captura de invertebrados, através de armadilhas pitfall, para apoio ao estudo à abundância e distribuição em curso pela Universidade dos Açores. |
-| SMA08.03 | Área prioritária para a conservação | M7.31. | Conceção e dinamização de atividades de educação ambiental para sensibilizar a necessidade de conservação da AP. |
-| SMA08.03 | Área prioritária para a conservação | M8.25. | Manutenção da GR1SMA e PR1SMA. |
-| SMA08.03 | Área prioritária para a conservação | M8.31. | Melhoria da drenagem da descida para a Baía do Raposo, na GR1SMA. |
+| M7.2. | Caracterização de avifauna marinha. |  |  |
+| M7.4. | Captura de invertebrados, através de armadilhas pitfall, para apoio ao estudo à abundância e distribuição em curso pela Universidade dos Açores. |  |  |
+| M7.31. | Conceção e dinamização de atividades de educação ambiental para sensibilizar a necessidade de conservação da AP. |  |  |
+| M8.25. | Manutenção da GR1SMA e PR1SMA. |  |  |
+| M8.31. | Melhoria da drenagem da descida para a Baía do Raposo, na GR1SMA. |  |  |
 | SMA08.04ASMA08.04BSMA08.04CSMA08.04DSMA08.04ESMA08.04F | Áreas de uso sustentável dos recursos | M1.1. | Fiscalização pelos Vigilantes da Natureza. |
-| SMA08.04ASMA08.04BSMA08.04CSMA08.04DSMA08.04ESMA08.04F | Áreas de uso sustentável dos recursos | M2.12. | Incentivo à manutenção ou plantação de sebes naturais com plantas endémicas. |
-| SMA08.04ASMA08.04BSMA08.04CSMA08.04DSMA08.04ESMA08.04F | Áreas de uso sustentável dos recursos | M2.17. | Incentivo à manutenção e recuperação de muros em pedra seca. |
-| SMA08.04ASMA08.04BSMA08.04CSMA08.04DSMA08.04ESMA08.04F | Áreas de uso sustentável dos recursos | M2.21. | Apoios financeiros à manutenção de paisagens tradicionais da cultura da vinha, em currais e em socalcos, e de pomares de espécies tradicionais, situadas em áreas de paisagem protegida e em fajãs costeiras, integradas nos Parques Naturais de Ilha e em Reservas da Biosfera. |
-| SMA08.04ASMA08.04BSMA08.04CSMA08.04DSMA08.04ESMA08.04F | Áreas de uso sustentável dos recursos | M4.2. | Manutenção de linhas de água. |
-| SMA08.04ASMA08.04BSMA08.04CSMA08.04DSMA08.04ESMA08.04F | Áreas de uso sustentável dos recursos | M4.6. | Conservação da galeria ripícola. Complementar a M4.2. |
-| SMA08.04ASMA08.04BSMA08.04CSMA08.04DSMA08.04ESMA08.04F | Áreas de uso sustentável dos recursos | M6.14. | Garantir a compatibilização com o PDM de Vila do Porto, especificamente as áreas classificadas com Área de Povoamento Tradicional. |
-| SMA08.04ASMA08.04BSMA08.04CSMA08.04DSMA08.04ESMA08.04F | Áreas de uso sustentável dos recursos | M7.4. | Captura de invertebrados, através de armadilhas pitfall, para apoio ao estudo à densidade e distribuição em curso pela Universidade dos Açores. |
-| SMA08.04ASMA08.04BSMA08.04CSMA08.04DSMA08.04ESMA08.04F | Áreas de uso sustentável dos recursos | M7.10. | Caracterização da flora através de trabalho de campo e imagem aérea (drone). |
-| SMA08.04ASMA08.04BSMA08.04CSMA08.04DSMA08.04ESMA08.04F | Áreas de uso sustentável dos recursos | M7.11. | Monitorização da flora a fim de identificar ameaças. |
+| M2.12. | Incentivo à manutenção ou plantação de sebes naturais com plantas endémicas. |  |  |
+| M2.17. | Incentivo à manutenção e recuperação de muros em pedra seca. |  |  |
+| M2.21. | Apoios financeiros à manutenção de paisagens tradicionais da cultura da vinha, em currais e em socalcos, e de pomares de espécies tradicionais, situadas em áreas de paisagem protegida e em fajãs costeiras, integradas nos Parques Naturais de Ilha e em Reservas da Biosfera. |  |  |
+| M4.2. | Manutenção de linhas de água. |  |  |
+| M4.6. | Conservação da galeria ripícola. Complementar a M4.2. |  |  |
+| M6.14. | Garantir a compatibilização com o PDM de Vila do Porto, especificamente as áreas classificadas com Área de Povoamento Tradicional. |  |  |
+| M7.4. | Captura de invertebrados, através de armadilhas pitfall, para apoio ao estudo à densidade e distribuição em curso pela Universidade dos Açores. |  |  |
+| M7.10. | Caracterização da flora através de trabalho de campo e imagem aérea (drone). |  |  |
+| M7.11. | Monitorização da flora a fim de identificar ameaças. |  |  |
 |  |  | M7.14. | Plantação de espécies de flora endémica ou nativa. Complementar a M2.12. |
 |  |  | M7.18. | Monitorização de espécies invasoras a fim de identificar ameaças. |
-|  |  | M8.25. | Manutenção da GR1SMA e PR1SMA. |
-|  |  | M8.31. | Melhoria de drenagem da GR1SMA, no lugar do Norte. |
-|  |  | M8.44. | Colocação de sinalética de PNI. |
+| M8.25. | Manutenção da GR1SMA e PR1SMA. |  |  |
+| M8.31. | Melhoria de drenagem da GR1SMA, no lugar do Norte. |  |  |
+| M8.44. | Colocação de sinalética de PNI. |  |  |
 
 5.8 - Proposta de intervenção para a Área de Paisagem Protegida da Baía de São Lourenço (SMA09)
 
-| Condicionantes | Condicionantes |
+| **Condicionantes** |  |
 | --- | --- |
 | Plano de Ordenamento de Orla Costeira | Áreas de Interesse Cultural e Paisagístico |
-| Plano de Ordenamento de Orla Costeira | Áreas Vulneráveis |
-| Plano de Ordenamento de Orla Costeira | Áreas Edificadas |
-| Plano de Ordenamento de Orla Costeira | Área de Projeto |
-| Plano de Ordenamento de Orla Costeira | Zona Balnear tipo 1 - São Lourenço |
+| Áreas Vulneráveis |  |
+| Áreas Edificadas |  |
+| Área de Projeto |  |
+| Zona Balnear tipo 1 - São Lourenço |  |
 | Plano Diretor Municipal | Áreas de Povoamento Tradicional (planta de ordenamento) |
-| Plano Diretor Municipal | Espaços naturais e culturais (planta de ordenamento) |
-| Plano Diretor Municipal | Arribas e respetivas faixas de proteção (planta de condicionantes) |
-| Plano Diretor Municipal | Áreas de instabilidade de vertentes (planta de condicionantes) |
-| Plano Diretor Municipal | Áreas de elevado risco de erosão hídrica do solo (planta de condicionantes) |
-| Plano Diretor Municipal | Margens das águas do mar (planta de condicionantes) |
+| Espaços naturais e culturais (planta de ordenamento) |  |
+| Arribas e respetivas faixas de proteção (planta de condicionantes) |  |
+| Áreas de instabilidade de vertentes (planta de condicionantes) |  |
+| Áreas de elevado risco de erosão hídrica do solo (planta de condicionantes) |  |
+| Margens das águas do mar (planta de condicionantes) |  |
 | Conservação da Natureza | Jazida Fóssil da Ponta Negra |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| **Unidades Operativas de Gestão** |  |
 | --- | --- |
 | SMA09.01 Ponta Negra | Área de proteção parcial (0.986 ha) |
 | SMA09.02 - Arribas de São Lourenço | Área prioritária para a conservação (16.003ha) |
 | SMA09.02B - Ilhéu do Romeiro | Área prioritária para a conservação (2.525 ha) |
 | SMA09.03 - Área urbana e vinhas de São Lourenço | Área de uso sustentável dos recursos (42.759 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| **Elementos de fruição da paisagem** |  |
 | --- | --- |
-| Trilhos | Trilhos |
+| Trilhos |  |
 | PR6SMA - Areia Branca | Manutenção |
 | GR1SMA - Grande Rota de Santa Maria | Manutenção |
 
@@ -2073,101 +2211,101 @@ OB8. Zelar pela conservação dos valores tradicionais e estéticos em presença
 
 5.8.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |  |  |  |
+| **Medidas de gestão** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial |
-| SMA09.01 | M1.1. |  |  |  |  |  |  |  |  |  |  |  | M6.9. | M6.15. |  |
-| SMA09.02A | M1.1. |  |  |  |  |  |  |  |  |  |  |  | M6.15. |  |  |
-| SMA09.02B | M1.1. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| SMA09.03 | M1.1. |  | M2.8. | M2.17. | M2.18. | M2.21. | M2.22. |  | M4.2. | M4.4. | M4.6. |  | M6.9. | M6.15. |  |
+| **Unidade Operativa de Gestão** | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial |  |  |  |  |  |  |  |  |  |  |  |
+| **SMA09.01** | M1.1. |  |  |  | M6.9. | M6.15. |  |  |  |  |  |  |  |  |  |
+| **SMA09.02A** | M1.1. |  |  |  | M6.15. |  |  |  |  |  |  |  |  |  |  |
+| **SMA09.02B** | M1.1. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| **SMA09.03** | M1.1. |  | M2.8. | M2.17. | M2.18. | M2.21. | M2.22. |  | M4.2. | M4.4. | M4.6. |  | M6.9. | M6.15. |  |
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
-| SMA09.01 | M7.2. | M7.3. | M7.31. |  |  |  |  |  |  |  |  |  |  | M8.44. | M8.59. | M8.59. |  |  |
-| SMA09.02A | M7.2. | M7.3. | M7.4. | M7.6. | M7.10. | M7.11. | M7.14. | M7.14. | M7.18. | M7.18. | M7.31. | M7.32. |  | M8.25. |  |  |  |  |
-| SMA09.02B | M7.2. | M7.3. | M7.18. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| SMA09.03 | M7.4. | M7.2. | M7.3. | M7.16. | M7.18. | M7.31. | M7.31. | M7.32. | M7.32. |  |  |  |  | M8.25. | M8.44. | M8.64. | M8.64. |  |
+| **Medidas de gestão** |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Unidade Operativa de Gestão** | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |  |  |  |  |  |  |
+| **SMA09.01** | M7.2. | M7.3. | M7.31. |  | M8.44. | M8.59. |  |  |  |  |  |  |  |
+| **SMA09.02A** | M7.2. | M7.3. | M7.4. | M7.6. | M7.10. | M7.11. | M7.14. | M7.18. | M7.31. | M7.32. |  | M8.25. |  |
+| **SMA09.02B** | M7.2. | M7.3. | M7.18. |  |  |  |  |  |  |  |  |  |  |
+| **SMA09.03** | M7.4. | M7.2. | M7.3. | M7.16. | M7.18. | M7.31. | M7.32. |  | M8.25. | M8.44. | M8.64. |  |  |
 
 5.8.3 - Medidas de gestão
 
-| Unidade Operativa de Gestão | Regime de proteção | Medidas de gestão | Descrição |
+| **Unidade Operativa de Gestão** | **Regime de proteção** | **Medidas de gestão** | **Descrição** |
 | --- | --- | --- | --- |
 | SMA09.01 | Área de proteção parcial | M1.1. | Fiscalização pelos Vigilantes da Natureza. |
-| SMA09.01 | Área de proteção parcial | M6.9. | Gestão de jazida fóssil da Ponta Negra. |
-| SMA09.01 | Área de proteção parcial | M6.15. | Mapeamento em GPS das populações de espécies de avifauna marinha e de flora endémica costeira. |
-| SMA09.01 | Área de proteção parcial | M7.2. | Caracterização da avifauna marinha. |
-| SMA09.01 | Área de proteção parcial | M7.3. | Monitorização da avifauna marinha a fim de identificar ameaças. |
-| SMA09.01 | Área de proteção parcial | M7.31. | Conceção e dinamização de atividades de educação ambiental a fim de sensibilizar para a necessidade de conservação da AP. |
-| SMA09.01 | Área de proteção parcial | M8.44. | Colocação de informação interpretativa. |
-| SMA09.01 | Área de proteção parcial | M8.59. | Criar condições para a prática de coasteering. |
+| M6.9. | Gestão de jazida fóssil da Ponta Negra. |  |  |
+| M6.15. | Mapeamento em GPS das populações de espécies de avifauna marinha e de flora endémica costeira. |  |  |
+| M7.2. | Caracterização da avifauna marinha. |  |  |
+| M7.3. | Monitorização da avifauna marinha a fim de identificar ameaças. |  |  |
+| M7.31. | Conceção e dinamização de atividades de educação ambiental a fim de sensibilizar para a necessidade de conservação da AP. |  |  |
+| M8.44. | Colocação de informação interpretativa. |  |  |
+| M8.59. | Criar condições para a prática de coasteering. |  |  |
 | SMA09.02A | Área prioritária para a conservação | M1.1. | Fiscalização pelos Vigilantes da Natureza. |
-| SMA09.02A | Área prioritária para a conservação | M6.15. | Mapeamento em GPS das populações de espécies de avifauna marinha e de flora endémica costeira. |
-| SMA09.02A | Área prioritária para a conservação | M7.2. | Caracterização da avifauna marinha. |
-| SMA09.02A | Área prioritária para a conservação | M7.3. | Monitorização da avifauna marinha a fim de identificar ameaças. |
-| SMA09.02A | Área prioritária para a conservação | M7.4. | Captura de invertebrados, através de armadilhas pitfall, para apoio ao estudo à abundância e distribuição em curso pela Universidade dos Açores. |
-| SMA09.02A | Área prioritária para a conservação | M7.6. | Libertação de avifauna marinha, após recolha para recuperação. |
-| SMA09.02A | Área prioritária para a conservação | M7.10. | Caracterização das populações de flora endémica costeira. |
-| SMA09.02A | Área prioritária para a conservação | M7.11. | Monitorização de flora endémica costeira a fim de identificar ameaças. |
-| SMA09.02A | Área prioritária para a conservação | M7.14. | Plantação ou sementeira de flora endémica costeira. |
-| SMA09.02A | Área prioritária para a conservação | M7.18. | Monitorização de espécies invasoras a fim de identificar ameaças. |
-| SMA09.02A | Área prioritária para a conservação | M7.31. | Conceção e dinamização de atividades de educação ambiental a fim de sensibilizar para a necessidade de conservação da AP. |
-| SMA09.02A | Área prioritária para a conservação | M7.32. | Recolha de sementes para entrega no Banco de Sementes dos Açores (conservação ex situ). |
-| SMA09.02A | Área prioritária para a conservação | M8.25. | Manutenção da GR1SMA. |
+| M6.15. | Mapeamento em GPS das populações de espécies de avifauna marinha e de flora endémica costeira. |  |  |
+| M7.2. | Caracterização da avifauna marinha. |  |  |
+| M7.3. | Monitorização da avifauna marinha a fim de identificar ameaças. |  |  |
+| M7.4. | Captura de invertebrados, através de armadilhas pitfall, para apoio ao estudo à abundância e distribuição em curso pela Universidade dos Açores. |  |  |
+| M7.6. | Libertação de avifauna marinha, após recolha para recuperação. |  |  |
+| M7.10. | Caracterização das populações de flora endémica costeira. |  |  |
+| M7.11. | Monitorização de flora endémica costeira a fim de identificar ameaças. |  |  |
+| M7.14. | Plantação ou sementeira de flora endémica costeira. |  |  |
+| M7.18. | Monitorização de espécies invasoras a fim de identificar ameaças. |  |  |
+| M7.31. | Conceção e dinamização de atividades de educação ambiental a fim de sensibilizar para a necessidade de conservação da AP. |  |  |
+| M7.32. | Recolha de sementes para entrega no Banco de Sementes dos Açores (conservação ex situ). |  |  |
+| M8.25. | Manutenção da GR1SMA. |  |  |
 | SMA09.02B | Área prioritária para a conservação | M1.1. | Fiscalização pelos Vigilantes da Natureza. |
-| SMA09.02B | Área prioritária para a conservação | M7.2. | Caracterização da avifauna marinha. |
-| SMA09.02B | Área prioritária para a conservação | M7.3. | Monitorização da avifauna marinha a fim de identificar ameaças. |
-| SMA09.02B | Área prioritária para a conservação | M7.18. | Monitorização de espécies invasoras a fim de identificar ameaças. |
+| M7.2. | Caracterização da avifauna marinha. |  |  |
+| M7.3. | Monitorização da avifauna marinha a fim de identificar ameaças. |  |  |
+| M7.18. | Monitorização de espécies invasoras a fim de identificar ameaças. |  |  |
 | SMA09.03 | Área de uso sustentável dos recursos | M1.1. | Fiscalização pelos Vigilantes da Natureza. |
-| SMA09.03 | Área de uso sustentável dos recursos | M2.8. | Queimadas controladas para destruição de resíduos verdes provenientes de limpezas das vinhas. |
-| SMA09.03 | Área de uso sustentável dos recursos | M2.17. | Recuperação/melhoria de muros de pedra seca em vinhas. |
-| SMA09.03 | Área de uso sustentável dos recursos | M2.18. | Construção de muros de pedra seca em vinhas. |
-| SMA09.03 | Área de uso sustentável dos recursos | M2.21. | Apoios financeiros à manutenção de paisagens tradicionais da cultura da vinha, em currais e em socalcos, e de pomares de espécies tradicionais, situadas em áreas de paisagem protegida e em fajãs costeiras, integradas nos Parques Naturais de Ilha e em Reservas da Biosfera. |
+| M2.8. | Queimadas controladas para destruição de resíduos verdes provenientes de limpezas das vinhas. |  |  |
+| M2.17. | Recuperação/melhoria de muros de pedra seca em vinhas. |  |  |
+| M2.18. | Construção de muros de pedra seca em vinhas. |  |  |
+| M2.21. | Apoios financeiros à manutenção de paisagens tradicionais da cultura da vinha, em currais e em socalcos, e de pomares de espécies tradicionais, situadas em áreas de paisagem protegida e em fajãs costeiras, integradas nos Parques Naturais de Ilha e em Reservas da Biosfera. |  |  |
 |  |  | M2.22. | Reconversão de matos em vinha, nas situações em que a vegetação ocupou antigos quartéis de vinha. |
-|  |  | M4.2. | Melhoria do regime hidrológico, através da desobstrução de linhas de água e canais de condução de águas pluviais. |
-|  |  | M4.4. | Estabilização de margens da Ribeira da Ponta Negra, no lugar do Desterro. |
-|  |  | M4.6. | Conservação da galeria ripícola nas Ribeiras dos Folgados e do Portinho. |
-|  |  | M6.9. | Gestão de geossítio da Baía de São Lourenço. |
-|  |  | M6.15. | Mapeamento em GPS das vinhas em colaboração com o Serviço de Desenvolvimento Agrário. |
-|  |  | M7.2. | Caracterização de avifauna marinha. |
-|  |  | M7.3. | Monitorização de avifauna marinha. |
-|  |  | M7.4. | Captura de invertebrados, através de armadilhas pitfall, para apoio ao estudo à abundância e distribuição em curso pela Universidade dos Açores. |
-|  |  | M7.16. | Erradicação de flora invasora das vinhas e linhas de água, especificamente Pittosporum undulatum, Rubus ulmifolium, Arundo donax e Pteridium aquilinum. |
-|  |  | M7.18. | Monitorização de ressurgimento de flora invasora. Complementar com M7.16. |
-|  |  | M7.31. | Conceção e dinamização de atividades de educação ambiental a fim de sensibilizar para a necessidade de conservação da AP. |
-|  |  | M7.32. | Recolha de sementes para entrega no Banco de Sementes dos Açores (conservação ex situ). |
-|  |  | M8.25. | Manutenção da GR1SMA (PNI) e PR6SMA (CMVP). |
-|  |  | M8.44. | Colocação de sinalética de PNI. |
-|  |  | M8.64. | Gestão de resíduos verdes provenientes da remoção de infestantes das linhas de água e vinhas - queimadas e remoção para compostagem ex situ. |
+| M4.2. | Melhoria do regime hidrológico, através da desobstrução de linhas de água e canais de condução de águas pluviais. |  |  |
+| M4.4. | Estabilização de margens da Ribeira da Ponta Negra, no lugar do Desterro. |  |  |
+| M4.6. | Conservação da galeria ripícola nas Ribeiras dos Folgados e do Portinho. |  |  |
+| M6.9. | Gestão de geossítio da Baía de São Lourenço. |  |  |
+| M6.15. | Mapeamento em GPS das vinhas em colaboração com o Serviço de Desenvolvimento Agrário. |  |  |
+| M7.2. | Caracterização de avifauna marinha. |  |  |
+| M7.3. | Monitorização de avifauna marinha. |  |  |
+| M7.4. | Captura de invertebrados, através de armadilhas pitfall, para apoio ao estudo à abundância e distribuição em curso pela Universidade dos Açores. |  |  |
+| M7.16. | Erradicação de flora invasora das vinhas e linhas de água, especificamente Pittosporum undulatum, Rubus ulmifolium, Arundo donax e Pteridium aquilinum. |  |  |
+| M7.18. | Monitorização de ressurgimento de flora invasora. Complementar com M7.16. |  |  |
+| M7.31. | Conceção e dinamização de atividades de educação ambiental a fim de sensibilizar para a necessidade de conservação da AP. |  |  |
+| M7.32. | Recolha de sementes para entrega no Banco de Sementes dos Açores (conservação ex situ). |  |  |
+| M8.25. | Manutenção da GR1SMA (PNI) e PR6SMA (CMVP). |  |  |
+| M8.44. | Colocação de sinalética de PNI. |  |  |
+| M8.64. | Gestão de resíduos verdes provenientes da remoção de infestantes das linhas de água e vinhas - queimadas e remoção para compostagem ex situ. |  |  |
 
 5.9 - Proposta de intervenção para a Área de Paisagem Protegida da Baía da Maia (SMA10)
 
-| Condicionantes | Condicionantes |
+| **Condicionantes** |  |
 | --- | --- |
 | Plano de Ordenamento de Orla Costeira | Áreas de Proteção e Conservação da Natureza Terrestre |
-| Plano de Ordenamento de Orla Costeira | Áreas de Interesse Cultural e Paisagístico |
-| Plano de Ordenamento de Orla Costeira | Área de Projeto |
-| Plano de Ordenamento de Orla Costeira | Áreas Vulneráveis |
-| Plano de Ordenamento de Orla Costeira | Zona Balnear tipo 1 - Maia |
+| Áreas de Interesse Cultural e Paisagístico |  |
+| Área de Projeto |  |
+| Áreas Vulneráveis |  |
+| Zona Balnear tipo 1 - Maia |  |
 | Plano Diretor Municipal | Espaços naturais e culturais (planta de ordenamento) |
-| Plano Diretor Municipal | Áreas de povoamento tradicional (planta de ordenamento) |
-| Plano Diretor Municipal | Arribas e respetivas faixas de proteção (planta de condicionantes) |
-| Plano Diretor Municipal | Áreas de instabilidade de vertentes (planta de condicionantes) |
-| Plano Diretor Municipal | Áreas de elevado risco de erosão hídrica do solo (planta de condicionantes) |
-| Plano Diretor Municipal | Margens das águas do mar (planta de condicionantes) |
+| Áreas de povoamento tradicional (planta de ordenamento) |  |
+| Arribas e respetivas faixas de proteção (planta de condicionantes) |  |
+| Áreas de instabilidade de vertentes (planta de condicionantes) |  |
+| Áreas de elevado risco de erosão hídrica do solo (planta de condicionantes) |  |
+| Margens das águas do mar (planta de condicionantes) |  |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| **Unidades Operativas de Gestão** |  |
 | --- | --- |
 | SMA10.01 - Encostas da Baía da Maia | Área prioritária para a conservação (23.239 ha) |
 | SMA10.02A - Área urbana e vinhas da Maia | Área de uso sustentável dos recursos (27.294 ha) |
 | SMA10.02B - Área agropastoris da Maia | Área de uso sustentável dos recursos (4.961 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| **Elementos de fruição da paisagem** |  |
 | --- | --- |
-| Trilhos | Trilhos |
+| Trilhos |  |
 | GR1SMA - Grande Rota de Santa Maria | Manutenção |
 | PR4SMA - Santo Espírito - Maia | Manutenção |
-| Merendários | Merendários |
+| Merendários |  |
 | DPM - Maia | Manutenção |
 
 5.9.1 - Objetivos de gestão
@@ -2190,72 +2328,72 @@ OB8. Zelar pela conservação dos valores tradicionais e estéticos em presença
 
 5.9.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| **Medidas de gestão** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial |
-| SMA10.01 | M1.1. |  |  |  |  |  |  |  |  |  |  | M6.1. | M6.15. |  |  |  |
+| **Unidade Operativa de Gestão** | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial |  |  |  |  |  |  |  |  |  |  |  |  |
+| SMA10.01 | M1.1. |  |  |  | M6.1. | M6.15. |  |  |  |  |  |  |  |  |  |  |
 | SMA10.02ASMA10.02B | M1.1. |  | M2.8. | M2.17. | M2.18. | M2.19. | M2.21. | M2.22. | M4.2. | M4.6. |  | M6.1. | M6.9. | M6.15. | M6.17. |  |
-| SMA10.02ASMA10.02B | M1.1. |  | M2.8. | M2.17. | M2.18. | M2.19. | M2.21. | M2.22. | M4.2. | M4.6. |  | M6.1. | M6.9. | M6.15. | M6.17. |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| **Medidas de gestão** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
+| **Unidade Operativa de Gestão** | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |  |  |  |  |  |  |  |
 | SMA10.01 | M7.2. | M7.3. | M7.4. | M7.6. | M7.10. | M7.11. | M7.14. | M7.18. | M7.31. | M7.32. |  | M8.25. | M8.44. |  |
 | SMA10.02ASMA10.02B | M7.2. | M7.3. | M7.4. | M7.6. | M7.10. | M7.11. | M7.14. | M7.18. | M7.31. | M7.32. |  | M8.25. | M8.44. |  |
-| SMA10.02ASMA10.02B | M7.2. | M7.3. | M7.4. | M7.6. | M7.10. | M7.11. | M7.14. | M7.18. | M7.31. | M7.32. |  | M8.25. | M8.44. |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 5.9.3 - Medidas de gestão
 
-| Unidade Operativa de Gestão | Regime de proteção | Medidas de gestão | Descrição |
+| **Unidade Operativa de Gestão** | **Regime de proteção** | **Medidas de gestão** | **Descrição** |
 | --- | --- | --- | --- |
 | SMA10.01 | Área prioritária para a conservação | M1.1. | Fiscalização pelos Vigilantes da Natureza. |
-| SMA10.01 | Área prioritária para a conservação | M6.1. | Alteração dos limites da AP: aumento para norte a fim de integrar o geossítio da Cascata do Aveiro e as vinhas até à Ponta do Castelete, reduzindo a APGHE da Baía do Cura, e para sul a fim de incluir as vinhas da Ponta do Castelo, reduzindo a APGHE da Ponta do Castelo. |
-| SMA10.01 | Área prioritária para a conservação | M6.15. | Mapeamento GPS das populações de flora endémica costeira. |
-| SMA10.01 | Área prioritária para a conservação | M7.2. | Caracterização das populações de avifauna marinha. |
-| SMA10.01 | Área prioritária para a conservação | M7.3. | Monitorização das populações de avifauna marinha a fim de identificar ameaças. |
-| SMA10.01 | Área prioritária para a conservação | M7.4. | Captura de invertebrados, através de armadilhas pitfall, para apoio ao estudo à densidade e distribuição em curso pela Universidade dos Açores. |
-| SMA10.01 | Área prioritária para a conservação | M7.6. | Libertação de avifauna marinha, após recolha para recuperação. |
-| SMA10.01 | Área prioritária para a conservação | M7.10. | Caracterização das populações de flora endémica costeira. |
-| SMA10.01 | Área prioritária para a conservação | M7.11. | Monitorização de flora endémica costeira a fim de identificar ameaças. |
-| SMA10.01 | Área prioritária para a conservação | M7.14. | Plantação ou sementeira de flora endémica costeira. |
-| SMA10.01 | Área prioritária para a conservação | M7.18. | Monitorização de espécies invasoras a fim de identificar ameaças. |
-| SMA10.01 | Área prioritária para a conservação | M7.31. | Conceção e dinamização de atividades de educação ambiental a fim de sensibilizar para a necessidade de conservação da AP. |
-| SMA10.01 | Área prioritária para a conservação | M7.32. | Recolha de sementes para entrega ao Banco de Sementes dos Açores (conservação ex situ). |
-| SMA10.01 | Área prioritária para a conservação | M8.25. | Manutenção da GR1SMA. |
-| SMA10.01 | Área prioritária para a conservação | M8.44. | Colocação de sinalética de PNI. |
+| M6.1. | Alteração dos limites da AP: aumento para norte a fim de integrar o geossítio da Cascata do Aveiro e as vinhas até à Ponta do Castelete, reduzindo a APGHE da Baía do Cura, e para sul a fim de incluir as vinhas da Ponta do Castelo, reduzindo a APGHE da Ponta do Castelo. |  |  |
+| M6.15. | Mapeamento GPS das populações de flora endémica costeira. |  |  |
+| M7.2. | Caracterização das populações de avifauna marinha. |  |  |
+| M7.3. | Monitorização das populações de avifauna marinha a fim de identificar ameaças. |  |  |
+| M7.4. | Captura de invertebrados, através de armadilhas pitfall, para apoio ao estudo à densidade e distribuição em curso pela Universidade dos Açores. |  |  |
+| M7.6. | Libertação de avifauna marinha, após recolha para recuperação. |  |  |
+| M7.10. | Caracterização das populações de flora endémica costeira. |  |  |
+| M7.11. | Monitorização de flora endémica costeira a fim de identificar ameaças. |  |  |
+| M7.14. | Plantação ou sementeira de flora endémica costeira. |  |  |
+| M7.18. | Monitorização de espécies invasoras a fim de identificar ameaças. |  |  |
+| M7.31. | Conceção e dinamização de atividades de educação ambiental a fim de sensibilizar para a necessidade de conservação da AP. |  |  |
+| M7.32. | Recolha de sementes para entrega ao Banco de Sementes dos Açores (conservação ex situ). |  |  |
+| M8.25. | Manutenção da GR1SMA. |  |  |
+| M8.44. | Colocação de sinalética de PNI. |  |  |
 | SMA10.02.A e SMA.10.02B | Área de uso sustentável dos recursos | M1.1. | Fiscalização pelos Vigilantes da Natureza. |
-| SMA10.02.A e SMA.10.02B | Área de uso sustentável dos recursos | M2.8. | Queimadas controladas para destruição de resíduos verdes provenientes de limpezas das vinhas. |
-| SMA10.02.A e SMA.10.02B | Área de uso sustentável dos recursos | M2.17. | Recuperação/melhoria de muros de pedra seca em vinhas. |
-| SMA10.02.A e SMA.10.02B | Área de uso sustentável dos recursos | M2.18. | Construção de muros de pedra seca em vinhas. |
-| SMA10.02.A e SMA.10.02B | Área de uso sustentável dos recursos | M2.19. | Recuperação/melhoria de elementos da arquitetura de produção tradicional - adegas. |
-| SMA10.02.A e SMA.10.02B | Área de uso sustentável dos recursos | M2.21. | Apoios financeiros à manutenção de paisagens tradicionais da cultura da vinha, em currais e em socalcos, e de pomares de espécies tradicionais, situadas em áreas de paisagem protegida e em fajãs costeiras, integradas nos Parques Naturais de Ilha e em Reservas da Biosfera. |
-| SMA10.02.A e SMA.10.02B | Área de uso sustentável dos recursos | M2.22. | Reconversão de matos em vinha, nas situações em que a vegetação ocupou antigos quartéis de vinha. |
-| SMA10.02.A e SMA.10.02B | Área de uso sustentável dos recursos | M4.2. | Melhoria do regime hidrológico, através da desobstrução de linhas de água. |
-| SMA10.02.A e SMA.10.02B | Área de uso sustentável dos recursos | M4.6. | Conservação da galeria ripícola nas Ribeiras da Maia, da Terça e Grande. |
-| SMA10.02.A e SMA.10.02B | Área de uso sustentável dos recursos | M6.1. | Alteração dos limites da AP: aumento para norte a fim de integrar o geossítio da Cascata do Aveiro e as vinhas até à Ponta do Castelete, reduzindo a APGHE da Baía do Cura, e para sul a fim de incluir as vinhas da Ponta do Castelo, reduzindo a APGHE da Ponta do Castelo. |
-| SMA10.02.A e SMA.10.02B | Área de uso sustentável dos recursos | M6.9. | Gestão de geossítios: Cascata do Aveiro. |
+| M2.8. | Queimadas controladas para destruição de resíduos verdes provenientes de limpezas das vinhas. |  |  |
+| M2.17. | Recuperação/melhoria de muros de pedra seca em vinhas. |  |  |
+| M2.18. | Construção de muros de pedra seca em vinhas. |  |  |
+| M2.19. | Recuperação/melhoria de elementos da arquitetura de produção tradicional - adegas. |  |  |
+| M2.21. | Apoios financeiros à manutenção de paisagens tradicionais da cultura da vinha, em currais e em socalcos, e de pomares de espécies tradicionais, situadas em áreas de paisagem protegida e em fajãs costeiras, integradas nos Parques Naturais de Ilha e em Reservas da Biosfera. |  |  |
+| M2.22. | Reconversão de matos em vinha, nas situações em que a vegetação ocupou antigos quartéis de vinha. |  |  |
+| M4.2. | Melhoria do regime hidrológico, através da desobstrução de linhas de água. |  |  |
+| M4.6. | Conservação da galeria ripícola nas Ribeiras da Maia, da Terça e Grande. |  |  |
+| M6.1. | Alteração dos limites da AP: aumento para norte a fim de integrar o geossítio da Cascata do Aveiro e as vinhas até à Ponta do Castelete, reduzindo a APGHE da Baía do Cura, e para sul a fim de incluir as vinhas da Ponta do Castelo, reduzindo a APGHE da Ponta do Castelo. |  |  |
+| M6.9. | Gestão de geossítios: Cascata do Aveiro. |  |  |
 |  |  | M6.15. | Mapeamento em GPS das vinhas em colaboração com o Serviço de Desenvolvimento Agrário e das populações de flora endémica costeira. |
-|  |  | M6.17. | Avaliar a instalação de espaço de apoio à visitação e interpretação da AP. |
-|  |  | M7.2. | Caracterização das populações de avifauna marinha. |
-|  |  | M7.3. | Monitorização das populações de avifauna marinha a fim de identificar ameaças. |
-|  |  | M7.4. | Captura de invertebrados, através de armadilhas pitfall, para apoio ao estudo à densidade e distribuição em curso pela Universidade dos Açores. |
-|  |  | M7.6. | Libertação de avifauna marinha, após recolha para recuperação. |
-|  |  | M7.10. | Caracterização das populações de flora endémica costeira. |
-|  |  | M7.11. | Monitorização de flora endémica costeira a fim de identificar ameaças. |
-|  |  | M7.14. | Plantação ou sementeira de flora endémica costeira. |
-|  |  | M7.16. | Erradicação de flora invasora das vinhas e linhas de água, especificamente Pittosporum undulatum, Rubus ulmifolium, Arundo donax e Pteridium aquilinum. |
-|  |  | M7.18. | Monitorização de ressurgimento de flora invasora após a M7.16. |
-|  |  | M7.31. | Conceção e dinamização de atividades de educação ambiental a fim de sensibilizar para a necessidade de conservação da AP. |
-|  |  | M7.32. | Recolha de sementes para entrega ao Banco de Sementes dos Açores (conservação ex situ). |
-|  |  | M8.25. | Manutenção da GR1SMA e PR4SMA. |
-|  |  | M8.44. | Colocação de sinalética de PNI. |
-|  |  | M8.64. | Gestão de resíduos verdes provenientes da remoção de infestantes das linhas de água e vinhas - queimadas e remoção para compostagem ex situ. |
+| M6.17. | Avaliar a instalação de espaço de apoio à visitação e interpretação da AP. |  |  |
+| M7.2. | Caracterização das populações de avifauna marinha. |  |  |
+| M7.3. | Monitorização das populações de avifauna marinha a fim de identificar ameaças. |  |  |
+| M7.4. | Captura de invertebrados, através de armadilhas pitfall, para apoio ao estudo à densidade e distribuição em curso pela Universidade dos Açores. |  |  |
+| M7.6. | Libertação de avifauna marinha, após recolha para recuperação. |  |  |
+| M7.10. | Caracterização das populações de flora endémica costeira. |  |  |
+| M7.11. | Monitorização de flora endémica costeira a fim de identificar ameaças. |  |  |
+| M7.14. | Plantação ou sementeira de flora endémica costeira. |  |  |
+| M7.16. | Erradicação de flora invasora das vinhas e linhas de água, especificamente Pittosporum undulatum, Rubus ulmifolium, Arundo donax e Pteridium aquilinum. |  |  |
+| M7.18. | Monitorização de ressurgimento de flora invasora após a M7.16. |  |  |
+| M7.31. | Conceção e dinamização de atividades de educação ambiental a fim de sensibilizar para a necessidade de conservação da AP. |  |  |
+| M7.32. | Recolha de sementes para entrega ao Banco de Sementes dos Açores (conservação ex situ). |  |  |
+| M8.25. | Manutenção da GR1SMA e PR4SMA. |  |  |
+| M8.44. | Colocação de sinalética de PNI. |  |  |
+| M8.64. | Gestão de resíduos verdes provenientes da remoção de infestantes das linhas de água e vinhas - queimadas e remoção para compostagem ex situ. |  |  |
 
 5.10 - Gestão e monitorização de cavidades vulcânicas protegidas
 
-| [Decreto Legislativo Regional n.º 10/2019/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2019-122373686), de 22 de maio | [Decreto Legislativo Regional n.º 10/2019/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2019-122373686), de 22 de maio |
+| **Condicionantes legais** |  |
 | --- | --- |
-| Condicionantes legais | Condicionantes legais |
+| [Decreto Legislativo Regional n.º 10/2019/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2019-122373686), de 22 de maio |  |
 |  |  |
 
 5.10.1 - Objetivos de gestão
@@ -2312,11 +2450,12 @@ O resultado das ações de monitorização do grau de concretização do Plano d
 
 Tendo em conta os macro objetivos, domínios e subdomínios definidos para a Região Autónoma dos Açores, o modelo de gestão territorial definido para os Planos de Gestão dos Parques Naturais de Ilha é o seguinte.
 
-![](https://files.diariodarepublica.pt/images/1154555183/1154555168.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555183/1154555168.png) |
+| --- |
 
 6.2 - Indicadores
 
-| Indicadores | Unidade de medida |
+| **Indicadores** | **Unidade de medida** |
 | --- | --- |
 | Área da Rede de Áreas Protegidas ocupada por habitats naturais protegidos- Extensão de território da Rede de Áreas Protegidas ocupada por habitats naturais protegidos pela Diretiva Habitats. | ha |
 | Área da Rede de Áreas Protegidas abrangida por intervenções de gestão ativa- Extensão de território da Rede de Áreas Protegidas abrangido por ações de conservação da natureza que visam a manutenção ou recuperação de espécies e habitats protegidos e o controlo de espécies exóticas invasoras de flora e fauna. | ha |
@@ -2584,17 +2723,17 @@ ANEXOS
 
 Tabela 7 - Listagem de habitats naturais com estatuto de proteção por área protegida do PNI de Santa Maria
 
-|  | RNIV | MNPCFP | APGHECS | APGHEPC | APGHEBC | APGHEPA | APPBF | APPBSL | APPBM |
+|  | **RNIV** | **MNPCFP** | **APGHECS** | **APGHEPC** | **APGHEBC** | **APGHEPA** | **APPBF** | **APPBSL** | **APPBM** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1160 - Enseadas e baías pouco profundas |  |  |  |  |  |  |  |  |  |
-| 1210 - Vegetação anual das zonas de acumulação de detritos pela maré |  |  |  | X |  |  |  |  |  |
-| 1220 - Vegetação perene das praias de calhaus rolados |  |  |  | X |  |  |  |  |  |
-| 1250 - Falésias com flora endémica das costas macaronésicas | X | X | X | X | X |  | X | X | X |
-| 4050 - Charnecas macaronésicas endémicas * |  | X |  | X | X | X | X | X | X |
-| 8220 - Vegetação casmofítica das falésias rochosas siliciosas |  |  |  |  |  |  |  |  |  |
-| 8310 - Grutas não exploradas pelo turismo |  |  |  |  |  |  |  |  |  |
-| 8330 - Grutas marinhas submersas ou semissubmersas |  | X |  |  |  |  |  |  |  |
-| 9360 - Laurissilvas macaronésicas * |  |  |  |  |  | X |  |  |  |
+| **1160 - Enseadas****e****baías pouco profundas** |  |  |  |  |  |  |  |  |  |
+| **1210 - Vegetação anual das zonas de acumulação de detritos pela maré** |  |  |  | X |  |  |  |  |  |
+| **1220 -****Vegetação perene das praias de calhaus rolados** |  |  |  | X |  |  |  |  |  |
+| **1250 - Falésias com flora endémica das costas macaronésicas** | X | X | X | X | X |  | X | X | X |
+| **4050 -****Charnecas macaronésicas endémicas *** |  | X |  | X | X | X | X | X | X |
+| **8220 - Vegetação casmofítica das falésias rochosas siliciosas** |  |  |  |  |  |  |  |  |  |
+| **8310 - Grutas não exploradas pelo turismo** |  |  |  |  |  |  |  |  |  |
+| **8330****- Grutas marinhas submersas ou semissubmersas** |  | X |  |  |  |  |  |  |  |
+| **9360 - Laurissilvas macaronésicas *** |  |  |  |  |  | X |  |  |  |
 
 * Habitat prioritário (Diretiva Habitats).
 
@@ -2622,7 +2761,7 @@ APPBM - Área de Paisagem Protegida da Baía da Maia.
 
 Tabela 8 - Listagem de espécies de flora por área protegida do PNI de Santa Maria
 
-|  | RNIV | MNPCFP | APGHECS | APGHEPC | APGHEBC | APGHEPA | APPBF | APPBSL | APPBM |
+|  | **RNIV** | **MNPCFP** | **APGHECS** | **APGHEPC** | **APGHEBC** | **APGHEPA** | **APPBF** | **APPBSL** | **APPBM** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Adiantum capillus-veneris |  | X |  | X | X |  | X | X | X |
 | Agrostis castellana |  | X | X | X | X | X | X | X | X |
@@ -2776,7 +2915,7 @@ APPBM - Área de Paisagem Protegida da Baía da Maia.
 
 Tabela 9 - Listagem de espécies de aves por área protegida do PNI de Santa Maria
 
-|  | RNIV | MNPCFP | APGHECS | APGHEPC | APGHEBC | APGHEPA | APPBF | APPBSL | APPBM |
+|  | **RNIV** | **MNPCFP** | **APGHECS** | **APGHEPC** | **APGHEBC** | **APGHEPA** | **APPBF** | **APPBSL** | **APPBM** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Arenaria interpres 1 | X | X | X | X | X |  | X | X | X |
 | Asio otus otus 1 | X | X | X | X | X | X | X | X | X |
@@ -2836,7 +2975,7 @@ APPBM - Área de Paisagem Protegida da Baía da Maia.
 
 Tabela 10 - Listagem de espécies de mamíferos por área protegida do PNI de Santa Maria
 
-|  | RNIV | MNPCFP | APGHECS | APGHEPC | APGHEBC | APGHEPA | APPBF | APPBSL | APPBM |
+|  | **RNIV** | **MNPCFP** | **APGHECS** | **APGHEPC** | **APGHEBC** | **APGHEPA** | **APPBF** | **APPBSL** | **APPBM** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Nyctalus azoreum 1 P |  | X |  | X | X | X | X | X | X |
 | Pipistrellus maderensis 1 P |  | X |  | X | X | X | X | X | X |
@@ -2862,3 +3001,7 @@ APPBF - Área de Paisagem Protegida do Barreiro da Faneca.
 APPBSL - Área de Paisagem Protegida da Baía de São Lourenço.
 
 APPBM - Área de Paisagem Protegida da Baía da Maia.
+
+119949005
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:74px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl9 { min-height:41px; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(251,243,208); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(251,243,208); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl12 { min-height:36px; } .Tbl13 { min-height:27px; } .Tbl14 { min-height:65px; } .Tbl15 { min-height:18px; } .Tbl16 { min-height:59px; } .Tbl17 { border-collapse:collapse; } .Tbl18 { min-height:16px; } .Tbl19 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(251,243,208); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(251,243,209); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl21 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(251,243,209); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl22 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(251,243,209); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl23 { border-collapse:collapse; border-width:1px; border-color:rgb(126,126,126); border-style:dotted; } .Tbl24 { min-height:314px; } .Tbl25 { text-align:justify; text-align-last:justify; } .Tbl26 { min-height:279px; } .Tbl27 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl28 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl29 { min-height:158px; } .Tbl30 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl31 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl32 { border-collapse:collapse; border-width:1px; border-color:rgb(166,166,166); border-style:dotted; } .Tbl33 { min-height:28px; } .Tbl34 { min-height:62px; } .Tbl35 { min-height:53px; } .Tbl36 { min-height:77px; } .Tbl37 { min-height:43px; } .Tbl38 { min-height:108px; } .Tbl39 { min-height:87px; } .Tbl40 { min-height:102px; } .Tbl41 { min-height:68px; } .Tbl42 { min-height:26px; } .Tbl43 { min-height:37px; } .Tbl44 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(244,225,138); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl45 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl46 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(217,149,148); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl47 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(250,191,143); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl48 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(194,214,155); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl49 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(250,191,143); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl50 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(215,227,187); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl51 { min-height:45px; } .Tbl52 { min-height:32px; } .Tbl53 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl54 { min-height:47px; } .Tbl55 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl56 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl57 { border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl58 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl59 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(250,190,143); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl60 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl61 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl62 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl63 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(244,225,138); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl64 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl65 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl66 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl67 { min-height:38px; } .Tbl68 { min-height:48px; } .Tbl69 { min-height:33px; } .Tbl70 { min-height:30px; } .Tbl71 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(215,227,187); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl72 { min-height:34px; } .Tbl73 { min-height:19px; } .Tbl74 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl75 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl76 { min-height:97px; } .Tbl77 { min-height:20px; } .Tbl78 { min-height:103px; } .Tbl79 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(244,225,138); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl80 { min-height:29px; } .Tbl81 { min-height:49px; } .Tbl82 { min-height:10px; } .Tbl83 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl84 { border-collapse:collapse; border-width:1px; border-style:dotted; } .Tbl85 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl86 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(244,225,138); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; }

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43513-1961-555034
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-05-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:22:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6e15703a26a00bbaccb2a64dad1ebcd9ca7047cdd800b0e25e77a4474b98e8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 587d7b7d0dd5acbfb3478d2b1e4baff3b65018496227dd9cfb82ff4d18e07c38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:22:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,44 @@ relationships:
   target: pt:dre:627660:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:352685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654121:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668565:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:22:26Z'
   warnings: []
   errors: []
 ---
@@ -110,19 +138,19 @@ Ouvido o Conselho Ultramarino; e
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º e seu § 1.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São isentas de direitos e de outras imposições a cobrar no despacho aduaneiro, com excepção do imposto do selo, a importação e a exportação dos diversos artigos do material incluídos nos três grupos prescritos no artigo 1.º do [Decreto n.º 38887](https://diariodarepublica.pt/dr/detalhe/decreto/38887-1952-668565), de 29 de Agosto de 1952, enviados da metrópole pelos Ministérios do Exército e da Marinha e Subsecretário de Estado da Aeronáutica com destino às forças armadas deles dependentes que pertençam às guarnições militares das províncias ultramarinas ou que nelas estejam destacadas.
+Artigo 1.º São isentas de direitos e de outras imposições a cobrar no despacho aduaneiro, com excepção do imposto do selo, a importação e a exportação dos diversos artigos do material incluídos nos três grupos prescritos no artigo 1.º do [Decreto n.º 38887](https://diariodarepublica.pt/dr/detalhe/decreto/38887-1952-668565), de 29 de Agosto de 1952, enviados da metrópole pelos Ministérios do Exército e da Marinha e Subsecretário de Estado da Aeronáutica com destino às forças armadas deles dependentes que pertençam às guarnições militares das províncias ultramarinas ou que nelas estejam destacadas.
 
 § 1.º As isenções prescritas no corpo do artigo abrangem também os artigos de fardamento, o material de aquartelamento e os géneros alimentícios que sejam enviados aos comandos das forças armadas pelos referidos Ministérios ou Subsecretariado de Estado, assim como o tabaco manufacturado para as províncias onde não existem fábricas de tabacos, o qual será selado com as estampilhas empregadas na selagem do tabaco importado por passageiros.
 
 § 2.º A disposição do corpo do artigo é ainda extensiva aos diversos artigos de material nele referido que hajam sido adquiridos em países estrangeiros e que deles sejam expedidos directamente para os comandos das forças armadas das províncias ultramarinas.
 
-###### Art. 2.º As isenções prescritas no artigo anterior são também extensivas aos artigos de material nele referido que hajam sido adquiridos pelo Ministério do Ultramar ou por outros Ministérios com destino às forças de Polícia de Segurança Pública ou da Guarda Fiscal destacadas em qualquer província ultramarina ou que dela sejam dependentes.
+Art. 2.º As isenções prescritas no artigo anterior são também extensivas aos artigos de material nele referido que hajam sido adquiridos pelo Ministério do Ultramar ou por outros Ministérios com destino às forças de Polícia de Segurança Pública ou da Guarda Fiscal destacadas em qualquer província ultramarina ou que dela sejam dependentes.
 
-###### Art. 3.º As isenções dos artigos de material de que trata o artigo 1.º, quando os respectivos artigos se destinem às forças armadas de terra, do ar ou do mar, serão autorizadas pelo director da alfândega ou pelo chefe da estância aduaneira por onde se efectuam os despachos, mediante requisição do respectivo comando na província, endereçada ao director ou chefe provincial dos serviços das alfândegas, da qual constarão discriminadamente a quantidade de volumes, seus pesos, valores e natureza dos artigos que acondicionam, tanto na importação como na exportação. As isenções referidas no artigo 2.º serão autorizadas pelo governador da província.
+Art. 3.º As isenções dos artigos de material de que trata o artigo 1.º, quando os respectivos artigos se destinem às forças armadas de terra, do ar ou do mar, serão autorizadas pelo director da alfândega ou pelo chefe da estância aduaneira por onde se efectuam os despachos, mediante requisição do respectivo comando na província, endereçada ao director ou chefe provincial dos serviços das alfândegas, da qual constarão discriminadamente a quantidade de volumes, seus pesos, valores e natureza dos artigos que acondicionam, tanto na importação como na exportação. As isenções referidas no artigo 2.º serão autorizadas pelo governador da província.
 
-###### Art. 4.º Os artigos de material das forças armadas referidos nos artigos 1.º e 2.º não podem ser cedidos a particulares, sob qualquer título, senão com autorização do respectivo Ministro ou Subsecretário de Estado e acordo do Ministro do Ultramar, ouvido o governo da província.
+Art. 4.º Os artigos de material das forças armadas referidos nos artigos 1.º e 2.º não podem ser cedidos a particulares, sob qualquer título, senão com autorização do respectivo Ministro ou Subsecretário de Estado e acordo do Ministro do Ultramar, ouvido o governo da província.
 
-###### Art. 5.º São inseridos os artigos 69 e), 74-A, 127-A, 99-A, 99-A, 83 m) e 26-A nos textos das pautas de importação em vigor nas províncias ultramarinas, respectivamente, de Cabo Verde, Guiné, S. Tomé e Príncipe, Angola, Moçambique, Estado da Índia e Timor, com as seguintes redacção e taxa única:
+Art. 5.º São inseridos os artigos 69 e), 74-A, 127-A, 99-A, 99-A, 83 m) e 26-A nos textos das pautas de importação em vigor nas províncias ultramarinas, respectivamente, de Cabo Verde, Guiné, S. Tomé e Príncipe, Angola, Moçambique, Estado da Índia e Timor, com as seguintes redacção e taxa única:
 
 Combustíveis próprios para consumo de motores de aviões de propulsão por jacto;
 
@@ -130,55 +158,55 @@ Pauta mínima 70$00 por tonelada.
 
 Só se classificam por este artigo quando importados pelo comando da Força Aérea da província.
 
-###### Art. 6.º É criada uma nota aos artigos 69 c), 73, 125, 103, 103, 83 j) e 23 das pautas de importação vigentes nas províncias ultramarinas, respectivamente, de Cabo Verde, Guiné, S. Tomé e Príncipe, Angola, Moçambique, Estado da Índia e Timor, com a seguinte redacção:
+Art. 6.º É criada uma nota aos artigos 69 c), 73, 125, 103, 103, 83 j) e 23 das pautas de importação vigentes nas províncias ultramarinas, respectivamente, de Cabo Verde, Guiné, S. Tomé e Príncipe, Angola, Moçambique, Estado da Índia e Timor, com a seguinte redacção:
 
 A gasolina com índice de octana não inferior a 75, quando importada pelo comando da Força Aérea da província, fica apenas sujeita à taxa de $77 por quilograma na pauta mínima.
 
-###### Art. 7.º A disposição do artigo 1.º do [Decreto n.º 41733](https://diariodarepublica.pt/dr/detalhe/decreto/41733-1958-352685), de 14 de Julho de 1958, é aplicável não só aos veículos automóveis pertencentes a indivíduos domiciliados na metrópole que transfiram o seu domicílio para qualquer província ultramarina, como também aos que sejam adquiridos por indivíduos domiciliados no ultramar que se desloquem à metrópole em gozo de licença graciosa ou por qualquer outro motivo, mas com permanência não inferior a três meses, desde que se façam acompanhar do veículo de que sejam detentores.
+Art. 7.º A disposição do artigo 1.º do [Decreto n.º 41733](https://diariodarepublica.pt/dr/detalhe/decreto/41733-1958-352685), de 14 de Julho de 1958, é aplicável não só aos veículos automóveis pertencentes a indivíduos domiciliados na metrópole que transfiram o seu domicílio para qualquer província ultramarina, como também aos que sejam adquiridos por indivíduos domiciliados no ultramar que se desloquem à metrópole em gozo de licença graciosa ou por qualquer outro motivo, mas com permanência não inferior a três meses, desde que se façam acompanhar do veículo de que sejam detentores.
 
 § 1.º O regime prescrito no decreto referido no corpo do artigo é também aplicável aos veículos automóveis cujos detentores sigam para a respectiva província por via aérea, desde que o período de tempo decorrido entre a sua chegada à província e a descarga do veículo no porto do destino não exceda 30 dias, podendo este período ser prorrogado por mais 30 dias pelo director ou chefe provincial dos serviços das alfândegas por motivos justificados. As prorrogações para além destes períodos só poderão ser concedidas pelo governador.
 
 § 2.º Os detentores dos veículos automóveis que tiverem usufruído os benefícios prescritos neste artigo só poderão alienar aqueles veículos depois de passado um ano sobre a sua importação definitiva.
 
-###### Art. 8.º São isentos de direitos e de outras imposições cobrados no despacho aduaneiro, com excepção do imposto do selo, os cartuchos de caça classificados pelo artigo 33-A da pauta de importação vigente na província de Cabo Verde, quando sejam importados pelos serviços ou organismos oficiais com destino à exterminação de animais nocivos à agricultura da província.
+Art. 8.º São isentos de direitos e de outras imposições cobrados no despacho aduaneiro, com excepção do imposto do selo, os cartuchos de caça classificados pelo artigo 33-A da pauta de importação vigente na província de Cabo Verde, quando sejam importados pelos serviços ou organismos oficiais com destino à exterminação de animais nocivos à agricultura da província.
 
-###### Art. 9.º Fica isenta de direitos e de outras imposições de carácter aduaneiro, com excepção do imposto do selo, a importação nas diversas províncias ultramarinas de aparelhos detonadores de fabrico nacional, destinados exclusivamente a afugentar animais e aves nocivos à agricultura.
+Art. 9.º Fica isenta de direitos e de outras imposições de carácter aduaneiro, com excepção do imposto do selo, a importação nas diversas províncias ultramarinas de aparelhos detonadores de fabrico nacional, destinados exclusivamente a afugentar animais e aves nocivos à agricultura.
 
-###### Art. 10.º É autorizado o Governo-Geral da província de Angola a permitir a entrada sob regime de importação temporária, pelo prazo de dois anos, dos rótulos a utilizar nas embalagens de frutas exportadas da província, a qual só poderá ser efectuada pelos respectivos agricultores ou exportadores, sendo-lhes extensivas, na parte aplicável, as disposições dos artigos 15.º a. 20.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921), de 28 de Fevereiro de 1957.
+Art. 10.º É autorizado o Governo-Geral da província de Angola a permitir a entrada sob regime de importação temporária, pelo prazo de dois anos, dos rótulos a utilizar nas embalagens de frutas exportadas da província, a qual só poderá ser efectuada pelos respectivos agricultores ou exportadores, sendo-lhes extensivas, na parte aplicável, as disposições dos artigos 15.º a. 20.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921), de 28 de Fevereiro de 1957.
 
 § único. O regime prescrito no corpo do artigo pode ser extensivo por despacho do Ministro do Ultramar, ouvido o governador da província, aos rótulos de origem estrangeira, quando não possam ser obtidos na indústria nacional em boas condições de qualidade e preço.
 
-###### Art. 11.º A disposição constante da nota (a) ao artigo 103 da pauta de importação vigente na província de Moçambique é extensiva à gasolina consumida pelas embarcações de pesca desportiva dos sócios dos respectivos clubes desportivos da província, ficando, entretanto, as suas direcções obrigadas a prestar anualmente na alfândega local termo de responsabilidade pelo qual se comprometem a não dar àquele carburante destino ou aplicação diferente daquele para que foi importado, sob pena de procedimento fiscal, independentemente das cautelas fiscais que a Direcção Provincial dos Serviços das Alfândegas entenda dever tomar.
+Art. 11.º A disposição constante da nota (a) ao artigo 103 da pauta de importação vigente na província de Moçambique é extensiva à gasolina consumida pelas embarcações de pesca desportiva dos sócios dos respectivos clubes desportivos da província, ficando, entretanto, as suas direcções obrigadas a prestar anualmente na alfândega local termo de responsabilidade pelo qual se comprometem a não dar àquele carburante destino ou aplicação diferente daquele para que foi importado, sob pena de procedimento fiscal, independentemente das cautelas fiscais que a Direcção Provincial dos Serviços das Alfândegas entenda dever tomar.
 
 § único. O Ministro do Ultramar poderá tornar extensivo a outras províncias, por meio de portaria, o regime aduaneiro especial criado por este artigo.
 
-###### Art. 12.º Pode o Ministro do Ultramar, ouvido o governador da província interessada, isentar de direitos e de outras imposições a cobrar no despacho aduaneiro, com excepção do imposto do selo, a exportação dos produtos petrolíferos tratados nas refinarias instaladas em qualquer província ultramarina, quando excedam as necessidades de consumo da respectiva província, se tal benefício não constar já de outros diplomas.
+Art. 12.º Pode o Ministro do Ultramar, ouvido o governador da província interessada, isentar de direitos e de outras imposições a cobrar no despacho aduaneiro, com excepção do imposto do selo, a exportação dos produtos petrolíferos tratados nas refinarias instaladas em qualquer província ultramarina, quando excedam as necessidades de consumo da respectiva província, se tal benefício não constar já de outros diplomas.
 
-###### Art. 13.º É criado no Estado da Índia um imposto de 20 por cento ad valorem sobre a importação de explosivos e matérias-primas destinadas à sua confecção, detonadores e cordões lentos ou detonantes empregados na pesquisa e lavra de minas.
+Art. 13.º É criado no Estado da Índia um imposto de 20 por cento ad valorem sobre a importação de explosivos e matérias-primas destinadas à sua confecção, detonadores e cordões lentos ou detonantes empregados na pesquisa e lavra de minas.
 
 § 1.º A cobrança resultante do imposto referido no corpo do artigo destina-se à amortização da construção de paióis para armazenamento de explosivos e a suportar as despesas resultantes da sua conservação, guarda e administração.
 
 § 2.º O Ministro do Ultramar poderá reduzir, por meio de portaria, ouvido o governador-geral, o montante do imposto referido no corpo do artigo quando se haja efectuado a amortização das despesas com a construção de paióis, ou suspender a sua cobrança.
 
-###### Art. 14.º São isentos de direitos e de outras imposições a cobrar no despacho aduaneiro, com excepção do imposto do selo, todos os materiais de qualquer natureza que forem importados pela Junta Autónoma dos Portos e Caminhos de Ferro do Estado da Índia para utilização nos seus serviços.
+Art. 14.º São isentos de direitos e de outras imposições a cobrar no despacho aduaneiro, com excepção do imposto do selo, todos os materiais de qualquer natureza que forem importados pela Junta Autónoma dos Portos e Caminhos de Ferro do Estado da Índia para utilização nos seus serviços.
 
 § único. A isenção concedida pelo corpo do artigo é extensiva à importação de quaisquer materiais destinados ao porto e caminho de ferro de Mormugão, efectuada por organismos oficiais de Estado da Índia antes do funcionamento da Junta Autónoma dos Portos e Caminhos de Ferro do Estado da Índia.
 
-###### Art. 15.º Será cobrado o emolumento geral de 1 por cento sobre o valor dos direitos, não podendo ser cobrada importância inferior a 100$00, por cada prorrogação de prazo pelo período de um ano, dos despachos de artefactos especificados nos n.os 5 e 16 do quadro IV anexo às instruções preliminares das pautas, aprovadas pelo [Decreto n.º 41026](https://diariodarepublica.pt/dr/detalhe/decreto/41026-1957-654121), de 9 de Março de 1957, assim como dos de material de transporte e de apetrechamento de portos.
+Art. 15.º Será cobrado o emolumento geral de 1 por cento sobre o valor dos direitos, não podendo ser cobrada importância inferior a 100$00, por cada prorrogação de prazo pelo período de um ano, dos despachos de artefactos especificados nos n.os 5 e 16 do quadro IV anexo às instruções preliminares das pautas, aprovadas pelo [Decreto n.º 41026](https://diariodarepublica.pt/dr/detalhe/decreto/41026-1957-654121), de 9 de Março de 1957, assim como dos de material de transporte e de apetrechamento de portos.
 
-###### Art. 16.º Pode o Ministro do Ultramar determinar, por meio de despacho, que a autorização para importação temporária de todos ou de alguns dos artefactos referidos no corpo do artigo fique sujeita às prescrições do artigo 9.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921), de 28 de Fevereiro de 1957.
+Art. 16.º Pode o Ministro do Ultramar determinar, por meio de despacho, que a autorização para importação temporária de todos ou de alguns dos artefactos referidos no corpo do artigo fique sujeita às prescrições do artigo 9.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921), de 28 de Fevereiro de 1957.
 
-###### Art. 17.º O quadro XIII anexo ao Estatuto Orgânico das Alfândegas do Ultramar, aprovado pelo [Decreto n.º 43199](https://diariodarepublica.pt/dr/detalhe/decreto/43199-1960-514803), de 29 de Setembro de 1960, é alterado em relação ao número do pessoal da fiscalização marítima e fluvial da província de Angola, pela forma seguinte:
+Art. 17.º O quadro XIII anexo ao Estatuto Orgânico das Alfândegas do Ultramar, aprovado pelo [Decreto n.º 43199](https://diariodarepublica.pt/dr/detalhe/decreto/43199-1960-514803), de 29 de Setembro de 1960, é alterado em relação ao número do pessoal da fiscalização marítima e fluvial da província de Angola, pela forma seguinte:
 
 Patrões ... 21
 
 Motoristas ... 6
 
-###### Art. 18.º As disposições dos artigos 1.º a 3.º deste decreto substituem as que constam dos Decretos n.os 24893 e 25714, de 9 de Janeiro e 2 de Agosto de 1935, respectivamente, e 34186, de 9 de Dezembro de 1944, e do artigo 1.º do [Decreto n.º 38038](https://diariodarepublica.pt/dr/detalhe/decreto/38038-1950-486520), de 7 de Novembro de 1950.
+Art. 18.º As disposições dos artigos 1.º a 3.º deste decreto substituem as que constam dos Decretos n.os 24893 e 25714, de 9 de Janeiro e 2 de Agosto de 1935, respectivamente, e 34186, de 9 de Dezembro de 1944, e do artigo 1.º do [Decreto n.º 38038](https://diariodarepublica.pt/dr/detalhe/decreto/38038-1950-486520), de 7 de Novembro de 1950.
 
-###### Art. 19.º São extensivas aos combustíveis sólidos ou líquidos fornecidos à navegação de cabotagem e às embarcações de pesca na província de Cabo Verde as disposições do artigo 22.º do [Decreto n.º 43081](https://diariodarepublica.pt/dr/detalhe/decreto/43081-1960-501992), de 19 de Julho de 1960.
+Art. 19.º São extensivas aos combustíveis sólidos ou líquidos fornecidos à navegação de cabotagem e às embarcações de pesca na província de Cabo Verde as disposições do artigo 22.º do [Decreto n.º 43081](https://diariodarepublica.pt/dr/detalhe/decreto/43081-1960-501992), de 19 de Julho de 1960.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Fevereiro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

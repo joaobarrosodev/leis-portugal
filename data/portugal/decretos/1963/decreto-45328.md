@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45328-1963-687863
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-10-26T00:00:00Z'
+  retrieved_at: '2026-10-22T19:37:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 932e793ba17fb5996f79757f0d3a97924133d3b003cd418fa5a2764ec5adb6e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a6e6d7200e641aad74582b46fed123076b98f12d7b70935b4dc850b43f1ad04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:37:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258475:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:37:16Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +99,7 @@ Tendo em atenção o disposto na [Lei n.º 2078](https://diariodarepublica.pt/dr
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A zona confinante com o posto de observação do comando do grupo Tejo e com a bateria da Laje sujeita a servidão militar, nos termos do artigo 1.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, é formada pelos terrenos compreendidos:
+Artigo 1.º A zona confinante com o posto de observação do comando do grupo Tejo e com a bateria da Laje sujeita a servidão militar, nos termos do artigo 1.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, é formada pelos terrenos compreendidos:
 
 A) No sector limitado pelos alinhamentos do ponto trigonométrico do reduto de Oeiras tirados para a Torre de S. Vicente de Belém e para a ponta de Rana, até à distância de 300 m daquele ponto, dentro do qual se observam as servidões impostas pelo artigo 9.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070);
 
@@ -113,7 +121,7 @@ f) Depósitos permanentes ou temporários de materiais explosivos ou perigosos q
 
 g) Outros trabalhos ou actividades que possam inequìvocamente prejudicar a segurança e normal funcionamento dos órgãos e das transmissões fixas do grupo e da bateria ou a execução das suas missões.
 
-###### Art. 2.º Dentro da área anteriormente definida na alínea C) do artigo 1.º ficam dispensadas de licença da autoridade militar competente as construções que venham a limitar-se, nas áreas a seguir definidas, por dois azimutes cartográficos e dois arcos de círculo com centro no ponto trigonométrico do reduto de Oeiras, desde que as suas alturas, acima do terreno natural, não excedam os valores que, para cada uma das referidas áreas, se indicam:
+Art. 2.º Dentro da área anteriormente definida na alínea C) do artigo 1.º ficam dispensadas de licença da autoridade militar competente as construções que venham a limitar-se, nas áreas a seguir definidas, por dois azimutes cartográficos e dois arcos de círculo com centro no ponto trigonométrico do reduto de Oeiras, desde que as suas alturas, acima do terreno natural, não excedam os valores que, para cada uma das referidas áreas, se indicam:
 
 a) Desde o alinhamento para a Torre de S. Vicente de Belém ao azimute de 120º 00', entre os arcos de raios de 600 m e de 1700 m e nos terrenos cujas cotas sejam iguais ou inferiores a 25 m, altura máxima consentida 15 m;
 
@@ -131,9 +139,9 @@ g) 210º 00' e 220º 00', entre os raios de 500 m e de 1900 m e nos terrenos cuj
 
 h) 220º 00' até ao alinhamento para a ponta de Rana, entre os raios de 400 m e 2200 m, e nos terrenos cujas cotas sejam iguais ou inferiores a 25 m, altura máxima consentida 10 m.
 
-###### Art. 3.º Todas as construções que se pretendam efectuar nas áreas anteriormente definidas e que excedam as respectivas alturas máximas acima do terreno natural só poderão executar-se nas condições indicadas na alínea C) do artigo 1.º do presente decreto.
+Art. 3.º Todas as construções que se pretendam efectuar nas áreas anteriormente definidas e que excedam as respectivas alturas máximas acima do terreno natural só poderão executar-se nas condições indicadas na alínea C) do artigo 1.º do presente decreto.
 
-###### Art. 4.º As zonas indicadas no artigo 1.º, bem como as áreas definidas no artigo 2.º, serão demarcadas na carta militar de Portugal, na escala de 1/25000, organizando-se seis colecções com a classificação de «Confidencial», que terão os seguintes destinos:
+Art. 4.º As zonas indicadas no artigo 1.º, bem como as áreas definidas no artigo 2.º, serão demarcadas na carta militar de Portugal, na escala de 1/25000, organizando-se seis colecções com a classificação de «Confidencial», que terão os seguintes destinos:
 
 a) Uma colecção destinada ao Secretariado-Geral da Defesa Nacional;
 
@@ -145,14 +153,14 @@ d) Uma colecção destinada à Direcção do Serviço de Fortificações e Obras
 
 e) Uma colecção destinada ao Ministério das Obras Públicas.
 
-###### Art. 5.º A autorização da autoridade militar competente, nos casos em que é exigida por este decreto, deverá ser requerida ao governador militar de Lisboa, devendo o pedido ser acompanhado dos documentos a que se refere a [Portaria n.º 826](https://diariodarepublica.pt/dr/detalhe/portaria/826-1916-258475), de 23 de Novembro de 1916.
+Art. 5.º A autorização da autoridade militar competente, nos casos em que é exigida por este decreto, deverá ser requerida ao governador militar de Lisboa, devendo o pedido ser acompanhado dos documentos a que se refere a [Portaria n.º 826](https://diariodarepublica.pt/dr/detalhe/portaria/826-1916-258475), de 23 de Novembro de 1916.
 
 § único. Os projectos ou trabalhos a executar serão aprovados exclusivamente para os efeitos expressos no presente decreto.
 
-###### Art. 6.º É da atribuição do delegado do Serviço de Fortificações e Obras Militares velar pelo exacto cumprimento das disposições do presente decreto, bem como fazer aplicar as sanções legais aos infractores daquelas disposições.
+Art. 6.º É da atribuição do delegado do Serviço de Fortificações e Obras Militares velar pelo exacto cumprimento das disposições do presente decreto, bem como fazer aplicar as sanções legais aos infractores daquelas disposições.
 
-###### Art. 7.º Das decisões tomadas pelas autoridades militares, nos termos dos artigos 5.º e 6.º do presente decreto, poderão os interessados recorrer para o Ministro do Exército no respeitante à concessão das licenças e para o governador militar de Lisboa quanto aos embargos e multas aplicadas.
+Art. 7.º Das decisões tomadas pelas autoridades militares, nos termos dos artigos 5.º e 6.º do presente decreto, poderão os interessados recorrer para o Ministro do Exército no respeitante à concessão das licenças e para o governador militar de Lisboa quanto aos embargos e multas aplicadas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 26 de Outubro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Eduardo de Arantes e Oliveira.

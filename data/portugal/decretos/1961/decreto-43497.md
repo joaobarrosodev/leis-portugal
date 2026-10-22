@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43497-1961-555854
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-02-06T00:00:00Z'
+  retrieved_at: '2026-10-22T19:22:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0118b48b1b54b84ac6dd862fda1ef1b76c5c3e453d7273374ccf1082ec4a9623
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15d2ee7ed9a8c62db91ccbc25895376ee20f087aa1abc985871e0669d41f5cd0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:22:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:467839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512779:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:22:18Z'
   warnings: []
   errors: []
 ---
@@ -84,15 +92,15 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Nos termos do artigo 20.º do [Decreto-Lei n.º 43384](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43384-1960-512779), de 7 de Dezembro de 1960, são assim fixadas as áreas das varas do Tribunal Privativo de 1.ª Instância do Contencioso das Contribuições e Impostos de Lisboa:
+Artigo 1.º Nos termos do artigo 20.º do [Decreto-Lei n.º 43384](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43384-1960-512779), de 7 de Dezembro de 1960, são assim fixadas as áreas das varas do Tribunal Privativo de 1.ª Instância do Contencioso das Contribuições e Impostos de Lisboa:
 
 A 1.ª vara abrange os 1.º, 2.º, 3.º e 7.º bairros fiscais de Lisboa e, no que respeita aos processos de reclamação e transgressão das leis e regulamentos tributários, os concelhos do Cadaval, Loures, Mafra, Oeiras, Sintra e Torres Vedras.
 
 A 2.ª vara abrange os 4.º, 5.º e 6.º bairros fiscais de Lisboa e, no que respeita aos processos de reclamação e de transgressão, os restantes concelhos do distrito de Lisboa não abrangidos na 1.ª vara, nos termos deste artigo.
 
-###### Art. 2.º Os processos de execução fiscal em que for feita a penhora em bens imóveis situados nas áreas da comarca de Lisboa, mas fora desta cidade, que tenham de ser remetidos ao Tribunal Privativo de 1.ª Instância do Contencioso das Contribuições e Impostos de Lisboa, nos termos do artigo 20.º do [Decreto-Lei n.º 24882](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24882-1935-467839), de 9 de Janeiro de 1935, serão enviados ao agente do Ministério Público da vara a que pertence o concelho para efeitos de julgamento dos processos de reclamação e de transgressão, segundo a área fixada no artigo anterior.
+Art. 2.º Os processos de execução fiscal em que for feita a penhora em bens imóveis situados nas áreas da comarca de Lisboa, mas fora desta cidade, que tenham de ser remetidos ao Tribunal Privativo de 1.ª Instância do Contencioso das Contribuições e Impostos de Lisboa, nos termos do artigo 20.º do [Decreto-Lei n.º 24882](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24882-1935-467839), de 9 de Janeiro de 1935, serão enviados ao agente do Ministério Público da vara a que pertence o concelho para efeitos de julgamento dos processos de reclamação e de transgressão, segundo a área fixada no artigo anterior.
 
-###### Art. 3.º As execuções que não tenham por base certidão de relaxe passada pelos tesoureiros da Fazenda Pública dos bairros fiscais de Lisboa ou certidão passada pelos chefes das secções de finanças dos mesmos bairros são da competência das duas varas, a quem serão distribuídas com a possível igualdade.
+Art. 3.º As execuções que não tenham por base certidão de relaxe passada pelos tesoureiros da Fazenda Pública dos bairros fiscais de Lisboa ou certidão passada pelos chefes das secções de finanças dos mesmos bairros são da competência das duas varas, a quem serão distribuídas com a possível igualdade.
 
 § 1.º Para efeitos do disposto no corpo deste artigo deverão os necessários elementos ser remetidos, devidamente relacionados, ao agente do Ministério Público da 2.ª vara, que efectuará a distribuição.
 
@@ -124,6 +132,6 @@ Data do pagamento ou declaração do estado em que encontra o processo.
 
 3.º O duplicado da relação será devolvido ao serviço remetente, depois de anotada a distribuição com indicação dos números dos processos e de averbado com o recibo do original e das certidões relacionadas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Fevereiro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Arnaldo Schulz - António Manuel Pinto Barbosa.

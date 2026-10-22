@@ -29,7 +29,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/09/18300/0002500048.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/12/2024/09/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/12-2024-888344732
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-09-20T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d2f2f3b15b860b8817d998b17e5d6d94cbaa4dc9c6cbd88932a720f9ea5d374
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6f452ec1974b6b21a4c471bcf6560e13bdf7045994f9895528a69f3118243de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Cibercrime
+- Concorrência
 - Contra-ordenação
 - Correio Electrónico
-- Concorrência
-- Cibercrime
 - Instrução Processual
 - Interpretação do Direito
 - Juiz
 - Jurisprudencia
-- Supremo Tribunal de Justiça
 - Prova
+- Supremo Tribunal de Justiça
 relationships:
 - type: cites
   target: celex:32019L0001
@@ -121,16 +121,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/68/2019/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/68/2019/08/27/p/dre
+- type: cites
+  target: pt:dre:124220738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125515884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187538042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224081976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56152680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683219:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:08Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +185,7 @@ Acordam, em conferência, no Pleno das secções criminais:
 
 I. Relatório
 
-1 - VODAFONE PORTUGAL - COMUNICAÇÕES PESSOAIS, S. A., veio, nos termos dos arts. 437.º, n.<sup>os</sup>2 a 5, e 438.º do Código de Processo Penal, ex vi artigo 41.º, n.º 1, do Regime Geral das Contraordenações, aprovado pelo [Decreto-Lei n. 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro (“RGCO”), por remissão do artigo 83.º da [Lei n.º 19/2012](https://diariodarepublica.pt/dr/detalhe/lei/19-2012-553391), de 8 de maio, que aprovou o Regime Jurídico da Concorrência (“RJC”), interpor recurso extraordinário para fixação de jurisprudência do acórdão proferido pelo Tribunal da Relação de Lisboa, em 26.09.2022, transitado em julgado em 27.02.2023, que julgou procedente o recurso, interposto pela Autoridade da Concorrência, de despacho proferido por juiz de instrução criminal.
+1 - VODAFONE PORTUGAL - COMUNICAÇÕES PESSOAIS, S. A., veio, nos termos dos arts. 437.º, n.os2 a 5, e 438.º do Código de Processo Penal, ex vi artigo 41.º, n.º 1, do Regime Geral das Contraordenações, aprovado pelo [Decreto-Lei n. 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro (“RGCO”), por remissão do artigo 83.º da [Lei n.º 19/2012](https://diariodarepublica.pt/dr/detalhe/lei/19-2012-553391), de 8 de maio, que aprovou o Regime Jurídico da Concorrência (“RJC”), interpor recurso extraordinário para fixação de jurisprudência do acórdão proferido pelo Tribunal da Relação de Lisboa, em 26.09.2022, transitado em julgado em 27.02.2023, que julgou procedente o recurso, interposto pela Autoridade da Concorrência, de despacho proferido por juiz de instrução criminal.
 
 Identifica, como acórdão fundamento, o Acórdão do Tribunal da Relação de Lisboa, de 13.07.2022, transitado a 10.11.2022, proferido no âmbito do processo n.º 10626/18.0T9LSBB.LI-PICRS.
 
@@ -383,7 +423,7 @@ Para o objeto deste recurso, importa indagar em primeiro lugar qual a autoridade
 
 Correio eletrónico que, na definição do art. 2.º, n.º 1, al. b), da [Lei n.º 41/2004](https://diariodarepublica.pt/dr/detalhe/lei/41-2004-480710), de 18 de Agosto:
 
-###### Art. 2.º [Definições]
+Art. 2.º [Definições]
 
 1 - Para efeitos da presente lei, entende-se por: [...]
 
@@ -391,7 +431,7 @@ b) "Correio eletrónico" qualquer mensagem textual, vocal, sonora ou gráfica en
 
 Pois bem, o art. 17.º da Lei do Cibercrime estabelece o seguinte:
 
-###### Art. 17.º [Apreensão de correio eletrónico e registos de comunicações de natureza semelhante]
+Art. 17.º [Apreensão de correio eletrónico e registos de comunicações de natureza semelhante]
 
 Quando, no decurso de uma pesquisa informática ou outro acesso legítimo a um sistema informático, forem encontrados, armazenados nesse sistema informático ou noutro a que seja permitido o acesso legítimo a partir do primeiro, mensagens de correio eletrónico ou registos de comunicações de natureza semelhante, o juiz pode autorizar ou ordenar, por despacho, a apreensão daqueles que se afigurem ser de grande interesse para a descoberta da verdade ou para a prova, aplicando-se correspondentemente o regime da apreensão de correspondência previsto no Código de Processo Penal.
 
@@ -399,31 +439,31 @@ Esse "regime de apreensão da correspondência previsto no Código de Processo P
 
 Assim o impõe o art. 34.º, n.º 4, da Constituição
 
-###### Art. 34.º [Inviolabilidade do domicílio e da correspondência] [...]
+Art. 34.º [Inviolabilidade do domicílio e da correspondência] [...]
 
 4 - É proibida toda a ingerência das autoridades públicas na correspondência, nas telecomunicações e nos demais meios de comunicação, salvos os casos previstos na lei em matéria de processo criminal.
 
 … bem como os arts. 13.º, n.os 1 e 2, e 59.º, n.º 2, do Regime Jurídico da Concorrência:
 
-###### Art. 13.º [Normas aplicáveis]
+Art. 13.º [Normas aplicáveis]
 
 1 - Os processos por infração ao disposto nos artigos 9.º, 11.º e 12.º regem-se pelo previsto na presente lei e, subsidiariamente, com as devidas adaptações, pelo regime geral do ilícito de mera ordenação social, aprovado pelo [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro.
 
 2 - O disposto no número anterior é igualmente aplicável, com as necessárias adaptações, aos processos por infração aos artigos 101.º e 102.º do TFUE instaurados pela AdC, ou em que esta seja chamada a intervir ao abrigo das competências que lhe são conferidas pela alínea h) do artigo 5.º dos estatutos da AdC, aprovados pelo [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), de 18 de agosto. [...]
 
-###### Art. 59.º [Regime aplicável] [...]
+Art. 59.º [Regime aplicável] [...]
 
 2 - Os processos da presente secção regem-se, subsidiariamente, com as devidas adaptações, pelo regime geral do ilícito de mera ordenação social, aprovado pelo [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro.
 
 … e, por via destes, o art. 41.º, n.º 1, do Regime Geral das Contraordenações ([Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro)]:
 
-###### Art. 41.º [Direito subsidiário]
+Art. 41.º [Direito subsidiário]
 
 1 - Sempre que o contrário não resulte deste diploma, são aplicáveis, devidamente adaptados, os preceitos reguladores do processo criminal. [...]
 
 Neste encadeamento, recordemos, então, o que estabelecem os arts. 268.º, n.os 1, al. d), e 2, e 269.º, n.os 1, al. d), e 2, do Código de Processo Penal:
 
-###### Art. 268.º [Atos a praticar pelo juiz de instrução]
+Art. 268.º [Atos a praticar pelo juiz de instrução]
 
 1 - Durante o inquérito compete exclusivamente ao juiz de instrução:[...]
 
@@ -431,7 +471,7 @@ d) Tomar conhecimento, em primeiro lugar, do conteúdo da correspondência apree
 
 2 - O juiz pratica os atos referidos no número anterior a requerimento do Ministério Público, da autoridade de polícia criminal em caso de urgência ou de perigo na demora, do arguido ou do assistente. [...]
 
-###### Art. 269.º [Atos a ordenar ou autorizar pelo juiz de instrução]
+Art. 269.º [Atos a ordenar ou autorizar pelo juiz de instrução]
 
 1 - Durante o inquérito compete exclusivamente ao juiz de instrução ordenar ou autorizar: [...]
 
@@ -461,7 +501,7 @@ O acórdão fundamento, igualmente do Tribunal da Relação de Lisboa, de 13.07.
 
 O recurso foi interposto pela Vodafone, S. A., no dia 29.03.2023, dentro do prazo de 30 dias a contar do trânsito em julgado do acórdão recorrido, previsto no n.º 1 do artigo 438.º do CPP. A recorrente tem legitimidade, os acórdãos em conflito são ambos de Tribunal da Relação e transitaram em julgado, não sendo admissível recurso ordinário do acórdão recorrido.
 
-Estão assim verificados os pressupostos formais do recurso, a que se referem os artigos 437.º, n.<sup>os</sup>1, 2, 4 e 5, e 438.º, n.º 1, ambos do CPP.
+Estão assim verificados os pressupostos formais do recurso, a que se referem os artigos 437.º, n.os1, 2, 4 e 5, e 438.º, n.º 1, ambos do CPP.
 
 Cumpre, pois, verificar a mesmidade da situação de facto e da questão de direito e a oposição relevante.
 
@@ -511,7 +551,7 @@ A este respeito, importa começar por referir que a questão não tem o menor su
 
 [...] Resulta directamente daquele art. 17.º que é do juiz o poder de autorizar ou ordenar a apreensão de correspondência electrónica.
 
-[...] não se duvida de que os interesses prosseguidos pela investigação criminal constituem razões legítimas para uma afetação restritiva dos direitos fundamentais à inviolabilidade da correspondência e sigilo das comunicações (artigo 34.º, n.<sup>os</sup>1 e 4, da CRP), e à proteção dos dados pessoais, no domínio da utilização da informática (artigo 35.º, n.<sup>os</sup>1 e 4 da Lei Fundamental), enquanto manifestações particular e intensamente tuteladas da reserva de intimidade da vida privada (n.º 1 do artigo 26.º da CRP). Contudo, a restrição de tais direitos especiais, que correspondem a refrações particularmente intensas e valiosas de um direito, mais geral, à privacidade, não pode deixar de respeitar não apenas as condições genericamente impostas pelo texto constitucional para qualquer lei restritiva de direitos fundamentais, nos termos do artigo 18.º, n.º 2, da CRP, como a exigência específica, em sede de processo criminal, de intervenção de um juiz, consagrada no artigo 32.º, n.º 4, da Constituição.
+[...] não se duvida de que os interesses prosseguidos pela investigação criminal constituem razões legítimas para uma afetação restritiva dos direitos fundamentais à inviolabilidade da correspondência e sigilo das comunicações (artigo 34.º, n.os1 e 4, da CRP), e à proteção dos dados pessoais, no domínio da utilização da informática (artigo 35.º, n.os1 e 4 da Lei Fundamental), enquanto manifestações particular e intensamente tuteladas da reserva de intimidade da vida privada (n.º 1 do artigo 26.º da CRP). Contudo, a restrição de tais direitos especiais, que correspondem a refrações particularmente intensas e valiosas de um direito, mais geral, à privacidade, não pode deixar de respeitar não apenas as condições genericamente impostas pelo texto constitucional para qualquer lei restritiva de direitos fundamentais, nos termos do artigo 18.º, n.º 2, da CRP, como a exigência específica, em sede de processo criminal, de intervenção de um juiz, consagrada no artigo 32.º, n.º 4, da Constituição.
 
 [...] A intervenção do juiz visada pelo legislador na redação vigente do art. 17.º é inicial e não meramente posterior e confirmativa, face à ausência de verbalização normativa conducente a essa conclusão.
 
@@ -551,7 +591,7 @@ Além de se não descortinar base legal para a requerida suspensão, aliás, nã
 
 B. Do regime jurídico aplicável
 
-Em apontamento prévio, dando nota breve de jurisprudência, sobre a questão objeto do presente recurso, recorda-se que o Tribunal Constitucional se pronunciou, nos Acórdãos n.<sup>os</sup>91/23, de 16.03, e 314/2023, de 26/05, e, com objeto diverso, mas igualmente relevante, no Acórdão n.º 687/2021, de 30.08.2021.
+Em apontamento prévio, dando nota breve de jurisprudência, sobre a questão objeto do presente recurso, recorda-se que o Tribunal Constitucional se pronunciou, nos Acórdãos n.os91/23, de 16.03, e 314/2023, de 26/05, e, com objeto diverso, mas igualmente relevante, no Acórdão n.º 687/2021, de 30.08.2021.
 
 No Supremo Tribunal de Justiça, não foi formada jurisprudência sobre a matéria.
 
@@ -563,7 +603,7 @@ Assim:
 
 - Seguindo a interpretação do acórdão fundamento, identificam-se os Acórdão do Tribunal da Relação de Lisboa, de 10.04.2024, no Proc. n.º 59/19.3YUSTR-A.L2-PICR e de 25.10.2023, no Proc. n.º 18/19.0YUSTR-C.L4-3.
 
-1 - O art. 18.º da [Lei n.º 19/2012](https://diariodarepublica.pt/dr/detalhe/lei/19-2012-553391), de 8.05, que aprovou o novo regime jurídico da concorrência, sob a epígrafe “Poderes de busca, exame, recolha e apreensão”, dispõe, na alínea c) do n.º 1, na redação atual <sup>1</sup>, que:
+1 - O art. 18.º da [Lei n.º 19/2012](https://diariodarepublica.pt/dr/detalhe/lei/19-2012-553391), de 8.05, que aprovou o novo regime jurídico da concorrência, sob a epígrafe “Poderes de busca, exame, recolha e apreensão”, dispõe, na alínea c) do n.º 1, na redação atual 1, que:
 
 “1 - No exercício de poderes sancionatórios, a AdC, através dos seus órgãos ou trabalhadores pode, designadamente:
 
@@ -575,11 +615,11 @@ E o n.º 1 do art. 20.º do mesmo regime que:
 
 À data dos factos, era a seguinte a redação das referidas disposições legais (na versão de 2012, a norma relevante é a do art. 21.º):
 
-###### Artigo 18.º “1- No exercício de poderes sancionatórios, a Autoridade da Concorrência, através dos seus órgãos ou funcionários, pode, designadamente:
+Artigo 18.º “1- No exercício de poderes sancionatórios, a Autoridade da Concorrência, através dos seus órgãos ou funcionários, pode, designadamente:
 
 c) Proceder, nas instalações, terrenos ou meios de transporte de empresas ou de associações de empresas, à busca, exame, recolha e apreensão de extratos da escrita e demais documentação, independentemente do seu suporte, sempre que tais diligências se mostrem necessárias à obtenção de prova”.
 
-###### Artigo 21.º “É competente para autorizar as diligências previstas nas alíneas c) e d) do n.º 1 do artigo 18.º e nos artigos 19.º e 20.º o Ministério Público ou, quando expressamente previsto, o juiz de instrução, ambos da área da sede da Autoridade da Concorrência.”
+Artigo 21.º “É competente para autorizar as diligências previstas nas alíneas c) e d) do n.º 1 do artigo 18.º e nos artigos 19.º e 20.º o Ministério Público ou, quando expressamente previsto, o juiz de instrução, ambos da área da sede da Autoridade da Concorrência.”
 
 Como resulta da leitura das disposições em causa, o Novo Regime Jurídico da Concorrência não contém na versão de 2022, nem continha na redação inicial, quaisquer disposições que contemplem a apreensão de correio eletrónico, referindo-se, apenas e no essencial, à apreensão de documentos (ou “documentação”), independentemente do suporte.
 
@@ -587,11 +627,11 @@ Como resulta da leitura das disposições em causa, o Novo Regime Jurídico da C
 
 - Na perspetiva da AdC e da jurisprudência que sufraga o entendimento do acórdão recorrido, na equivalência entre mensagens abertas/lidas e documentos, à semelhança da correspondência em papel, mostrando-se, assim, o regime respetivo “apartado da protecção do sigilo que é conferida à correspondência pela Lei Fundamental” (acórdão recorrido);
 
-- Na perspetiva do Tribunal Constitucional (Acórdão n.º 91/23), na inscrição da defesa da concorrência no TFUE e na CRP, na evolução do direito respetivo da UE e na consideração de que as práticas restritivas da concorrência se incluem, face à sua “máxima relevância jurídica”, no campo de discricionariedade de opção de politica sancionatória substantiva do legislador ordinário, concluindo que a natureza contraordenacional “não exclui em absoluto a possibilidade de previsão da ingerência nas comunicações a coberto da autorização concedida pelo inciso final do n.º 4 do artigo 34.º da Constituição” (“É proibida toda a ingerência das autoridades públicas na correspondência, nas telecomunicações e nos demais meios de comunicação, salvos os casos previstos na lei em matéria de processo criminal”) <sup>2</sup>.
+- Na perspetiva do Tribunal Constitucional (Acórdão n.º 91/23), na inscrição da defesa da concorrência no TFUE e na CRP, na evolução do direito respetivo da UE e na consideração de que as práticas restritivas da concorrência se incluem, face à sua “máxima relevância jurídica”, no campo de discricionariedade de opção de politica sancionatória substantiva do legislador ordinário, concluindo que a natureza contraordenacional “não exclui em absoluto a possibilidade de previsão da ingerência nas comunicações a coberto da autorização concedida pelo inciso final do n.º 4 do artigo 34.º da Constituição” (“É proibida toda a ingerência das autoridades públicas na correspondência, nas telecomunicações e nos demais meios de comunicação, salvos os casos previstos na lei em matéria de processo criminal”) 2.
 
-Note-se que este entendimento, expresso no Acórdão n.º 91/23 do Tribunal Constitucional, quanto ao âmbito da reserva de processo criminal em matéria de ingerência nas comunicações, retomado, por remissão, no Acórdão n.º 314/23, não havia merecido acolhimento no [Acórdão n.º 464/2019](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/464-2019-125515884), este relativo a acesso de dados pelo SIRP. <sup>3</sup>
+Note-se que este entendimento, expresso no Acórdão n.º 91/23 do Tribunal Constitucional, quanto ao âmbito da reserva de processo criminal em matéria de ingerência nas comunicações, retomado, por remissão, no Acórdão n.º 314/23, não havia merecido acolhimento no [Acórdão n.º 464/2019](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/464-2019-125515884), este relativo a acesso de dados pelo SIRP. 3
 
-De todo o modo, a consideração das regras de concorrência necessárias ao funcionamento do mercado interno como domínio da competência exclusiva da UE (art.3.º, alínea b) do TFUE), a inscrição da garantia de equilibrada concorrência entre as empresas e a repressão dos abusos de posição dominante e outras práticas lesivas do interesse geral como incumbência prioritária do Estado (al. f) do art. 81.º da CRP), a evolução recente do normativo europeu e nacional e a previsão de sanções pecuniárias avultadas (o caso das chamadas “grandes contraordenações”, em que se incluem as práticas restritivas da concorrência) <sup>4</sup>, opção em que se desvela a danosidade social das práticas ilícitas em causa, parecem constituir elementos bastantes de suporte da interpretação do n.º 4 do art. 34.º da CRP, sustentada no acórdão do Tribunal Constitucional citado.
+De todo o modo, a consideração das regras de concorrência necessárias ao funcionamento do mercado interno como domínio da competência exclusiva da UE (art.3.º, alínea b) do TFUE), a inscrição da garantia de equilibrada concorrência entre as empresas e a repressão dos abusos de posição dominante e outras práticas lesivas do interesse geral como incumbência prioritária do Estado (al. f) do art. 81.º da CRP), a evolução recente do normativo europeu e nacional e a previsão de sanções pecuniárias avultadas (o caso das chamadas “grandes contraordenações”, em que se incluem as práticas restritivas da concorrência) 4, opção em que se desvela a danosidade social das práticas ilícitas em causa, parecem constituir elementos bastantes de suporte da interpretação do n.º 4 do art. 34.º da CRP, sustentada no acórdão do Tribunal Constitucional citado.
 
 3 - A apreensão de correio eletrónico, em processo contraordenacional por práticas restritivas da concorrência, é um meio de obtenção de prova não previsto no RJC.
 
@@ -601,15 +641,15 @@ E o n.º 1, do art. 41.º do RGCO estatui que “Sempre que o contrário não re
 
 Diversamente da fórmula utilizada quanto ao direito subsidiário substantivo (art. 32.º do mesmo Regime) - as normas do Código Penal, em matéria de direito adjetivo estatui-se a aplicação supletiva dos preceitos reguladores do processo criminal.
 
-As disposições do processo criminal, quando não contrariarem normas ou princípios do Regime Geral das Contraordenações, são aplicáveis “incluindo o CPP e outras leis processuais [...], quer na fase administrativa, quer na fase judicial do processo contraordenacional” <sup>5</sup>.
+As disposições do processo criminal, quando não contrariarem normas ou princípios do Regime Geral das Contraordenações, são aplicáveis “incluindo o CPP e outras leis processuais [...], quer na fase administrativa, quer na fase judicial do processo contraordenacional” 5.
 
-Também Manuel Simas Santos e Jorge Lopes de Sousa entendem existir uma “remissão global” para todas as disposições processuais criminais. <sup>6</sup>.
+Também Manuel Simas Santos e Jorge Lopes de Sousa entendem existir uma “remissão global” para todas as disposições processuais criminais. 6.
 
-Leones Dantas caracteriza a relação entre um e outro processo, nos seguintes termos: “Embora o procedimento dos contraordenações integre, na sua fase administrativa, uma atuação materialmente administrativa, esta forma de atuar sempre obedeceu a um procedimento próprio de natureza sancionatória moldado a partir do processo penal, que é expressamente assumido como direito subsidiário.” <sup>7</sup>
+Leones Dantas caracteriza a relação entre um e outro processo, nos seguintes termos: “Embora o procedimento dos contraordenações integre, na sua fase administrativa, uma atuação materialmente administrativa, esta forma de atuar sempre obedeceu a um procedimento próprio de natureza sancionatória moldado a partir do processo penal, que é expressamente assumido como direito subsidiário.” 7
 
-Por sua vez, este Tribunal pronunciou-se, no Acórdão de Fixação de Jurisprudência n.º 3/2019, sobre a relação de subsidiariedade em causa “Se, por um lado, após a fase administrativa, o processo contraordenacional se apresenta com um âmbito distinto do processo administrativo, por outro lado, pese embora a sua especificidade, apresenta-se próximo das regras de processo penal, como aliás o RGCO o evidencia: os princípios de processo penal são subsidiários do regime (cf. art. 41.º, n.º 1, do RGCO). Esta proximidade ocorre logo na fase administrativa, pois, “[n]o processo de aplicação da coima e das sanções acessórias, as autoridades administrativas gozam dos mesmos direitos e estão submetidas aos mesmos deveres das entidades competentes para o processo criminal, sempre que o contrário não resulte do presente diploma” (art. 41.º, n.º 2, do RGCO).” <sup>8</sup>.
+Por sua vez, este Tribunal pronunciou-se, no Acórdão de Fixação de Jurisprudência n.º 3/2019, sobre a relação de subsidiariedade em causa “Se, por um lado, após a fase administrativa, o processo contraordenacional se apresenta com um âmbito distinto do processo administrativo, por outro lado, pese embora a sua especificidade, apresenta-se próximo das regras de processo penal, como aliás o RGCO o evidencia: os princípios de processo penal são subsidiários do regime (cf. art. 41.º, n.º 1, do RGCO). Esta proximidade ocorre logo na fase administrativa, pois, “[n]o processo de aplicação da coima e das sanções acessórias, as autoridades administrativas gozam dos mesmos direitos e estão submetidas aos mesmos deveres das entidades competentes para o processo criminal, sempre que o contrário não resulte do presente diploma” (art. 41.º, n.º 2, do RGCO).” 8.
 
-Não existe, com efeito, fundamento para se excluir da definição do direito subsidiariamente aplicável, fixada no n.º 1, do art. 41.º do RGCO, regimes ou normas processuais penais complementares do Código de Processo Penal. <sup>9</sup>
+Não existe, com efeito, fundamento para se excluir da definição do direito subsidiariamente aplicável, fixada no n.º 1, do art. 41.º do RGCO, regimes ou normas processuais penais complementares do Código de Processo Penal. 9
 
 Em especial, quando se trate da disciplina de um meio de obtenção de prova, próprio do processo criminal e a ele constitucionalmente reservado, cuja validade se almeja no âmbito de um regime de contraordenações sectorial.
 
@@ -649,7 +689,7 @@ Mostrando-se, em consequência, respondida a questão objeto do presente recurso
 
 A admissibilidade de apreensão de mensagens de correio eletrónico (marcadas como abertas ou como fechadas), em processo contraordenacional por práticas restritivas da concorrência, por compreensão deste processo sancionatório não privativo da liberdade no âmbito da reserva de processo criminal determinada por aquela norma constitucional, impõe a competência exclusiva do juiz, prevista no n.º 4 do art. 32.º da Constituição.
 
-Foi este o entendimento do Tribunal Constitucional, nos recentes Acórdãos n.<sup>os</sup>91/23, de 16.03, e 314/2023, de 26/05, sendo, em ambos, suscitada a inconstitucionalidade da seguinte norma, extraída da alínea c) do n.º 1 e do n.º 2 do artigo 18.º e do n.º 1 do artigo 20.º do RJC, “em processo por prática restritiva da concorrência, é permitida a busca e apreensão de mensagens de correio eletrónico abertas mediante autorização do Ministério Público”.
+Foi este o entendimento do Tribunal Constitucional, nos recentes Acórdãos n.os91/23, de 16.03, e 314/2023, de 26/05, sendo, em ambos, suscitada a inconstitucionalidade da seguinte norma, extraída da alínea c) do n.º 1 e do n.º 2 do artigo 18.º e do n.º 1 do artigo 20.º do RJC, “em processo por prática restritiva da concorrência, é permitida a busca e apreensão de mensagens de correio eletrónico abertas mediante autorização do Ministério Público”.
 
 No Acórdão n.º 91/23, afirma-se, a propósito da indistinguibilidade entre mensagens abertas (lidas) e fechadas (não lidas):
 
@@ -693,9 +733,9 @@ Sucede, porém, que, tratando-se, como se demonstrou, de normas restritivas de d
 
 Efetivamente, nos momentos processuais em que esteja em causa uma atuação restritiva das autoridades públicas no âmbito dos direitos fundamentais, a intervenção de um juiz - com as virtudes de independência e imparcialidade que tipicamente a caraterizam - é essencial para uma tutela efetiva desses direitos, mesmo nos casos em que estes devam parcialmente ceder, em nome da salvaguarda de outros bens jusconstitucionalmente consagrados. O juiz tem, nos termos da CRP, uma competência exclusiva e não delegável de garantia de direitos fundamentais no âmbito do processo criminal (à luz do artigo 32.º, n.º 4, do CPP), pelo que a lei apenas pode dispensar a sua intervenção em casos excecionais devidamente delimitados e justificados. [...]
 
-Existe, pois, uma ligação muito estreita entre a autorização constitucional de restrição, prevista no n.º 4 do artigo 34.º da CRP, e a previsão de competência primária do Juiz de Instrução Criminal para a prática de atos que diretamente contendam com direitos fundamentais, estatuída no n.º 4 do artigo 32.º da Constituição. Por isso, e como se disse, uma solução legal que dispense a prévia autorização daquele para a prática de atos de investigação penal que importam a invasão da esfera privada dos cidadãos só será constitucionalmente legítima se existir uma justificação cabal, robusta e bem determinada, não podendo, em caso algum, exceder os limites apertados de uma solução excecional.” <sup>10</sup>
+Existe, pois, uma ligação muito estreita entre a autorização constitucional de restrição, prevista no n.º 4 do artigo 34.º da CRP, e a previsão de competência primária do Juiz de Instrução Criminal para a prática de atos que diretamente contendam com direitos fundamentais, estatuída no n.º 4 do artigo 32.º da Constituição. Por isso, e como se disse, uma solução legal que dispense a prévia autorização daquele para a prática de atos de investigação penal que importam a invasão da esfera privada dos cidadãos só será constitucionalmente legítima se existir uma justificação cabal, robusta e bem determinada, não podendo, em caso algum, exceder os limites apertados de uma solução excecional.” 10
 
-Concluindo pela inconstitucionalidade, por violação do disposto nos artigos 32.º, n.º 4, e 34.º, n.<sup>os</sup>1 e 4, este conjugado com o artigo 18.º, n.º 2, todos da Constituição, da norma extraída das disposições conjugadas do n.º 2 do artigo 18.º e do n.º 1 do artigo 20.º do Regime Jurídico da Concorrência, na versão aprovada pela [Lei n.º 19/2012](https://diariodarepublica.pt/dr/detalhe/lei/19-2012-553391), de 8 de maio, segundo a qual, em processo contraordenacional por prática restritiva da concorrência, é permitida à Autoridade da Concorrência a busca e apreensão de mensagens de correio eletrónico abertas mediante autorização do Ministério Público.
+Concluindo pela inconstitucionalidade, por violação do disposto nos artigos 32.º, n.º 4, e 34.º, n.os1 e 4, este conjugado com o artigo 18.º, n.º 2, todos da Constituição, da norma extraída das disposições conjugadas do n.º 2 do artigo 18.º e do n.º 1 do artigo 20.º do Regime Jurídico da Concorrência, na versão aprovada pela [Lei n.º 19/2012](https://diariodarepublica.pt/dr/detalhe/lei/19-2012-553391), de 8 de maio, segundo a qual, em processo contraordenacional por prática restritiva da concorrência, é permitida à Autoridade da Concorrência a busca e apreensão de mensagens de correio eletrónico abertas mediante autorização do Ministério Público.
 
 No mesmo sentido, se pronunciou o Acórdão n.º 314/2023:
 
@@ -711,7 +751,7 @@ Consequentemente, a norma segundo a qual se admite o exame, recolha e apreensão
 
 A fundamentação sobre a reserva de juiz, em matéria de restrição à inviolabilidade da correspondência, a que se adere, retira propósito ao argumento referido.
 
-De todo o modo, sempre se dirá que. no processo contraordenacional, à fase administrativa poderá suceder-se a fase judicial, iniciada com a remessa, pelo Ministério Público, dos autos ao tribunal <sup>11</sup>.
+De todo o modo, sempre se dirá que. no processo contraordenacional, à fase administrativa poderá suceder-se a fase judicial, iniciada com a remessa, pelo Ministério Público, dos autos ao tribunal 11.
 
 Sobre a natureza da intervenção do Ministério Público, esclarece o Parecer n.º 5/2020, do Conselho Consultivo da Procuradoria Geral da República, de 21 de maio, cuja doutrina foi tornada obrigatória para os magistrados do Ministério Público através da Diretiva PGR n.º 4/21, de 23.09, destacando-se, pelo enquadramento, a conclusão 7.ª “Conforme resulta da tramitação da fase judicial do processo contraordenacional regulada no RGCO, esta tem uma estrutura acusatória, sendo atribuída a magistratura do Ministério Público, a semelhança do que sucede no processo penal, a representação dos interesses do Estado no sancionamento das práticas contraordenacionais.”
 
@@ -753,28 +793,30 @@ Oportunamente, cumpra-se o disposto no artigo 444.º, n.º 1, do Código de Proc
 
 Sem custas.
 
-<sup>1</sup> Com as alterações introduzidas pela [Lei n.º 17/2022](https://diariodarepublica.pt/dr/detalhe/lei/17-2022-187538042), de 17.08.
+1 Com as alterações introduzidas pela [Lei n.º 17/2022](https://diariodarepublica.pt/dr/detalhe/lei/17-2022-187538042), de 17.08.
 
-<sup>2</sup> Cf. Acórdão do Tribunal Constitucional n.º 91/2023.
+2 Cf. Acórdão do Tribunal Constitucional n.º 91/2023.
 
-<sup>3</sup> Igualmente em sentido divergente ao do Ac. do TC n.º 91/23, Miguel Gorjão-Henriques e Alberto Saavedra, “Diretiva ECN+ e a nova era do direito da concorrência - Desafios e limites”, Revista da Ordem dos Advogados, Ano 80, 2020, pág. 238, afirmando que “em ponto algum da parte dispositiva da [Diretiva (UE) n.º 2019/1](http://data.europa.eu/eli/dir/2019/1/oj?locale=pt) se prevê a possibilidade de acesso (com ou sem aviso prévio) a “dispositivos e equipamentos” nem a correio eletrónico”.
+3 Igualmente em sentido divergente ao do Ac. do TC n.º 91/23, Miguel Gorjão-Henriques e Alberto Saavedra, “Diretiva ECN+ e a nova era do direito da concorrência - Desafios e limites”, Revista da Ordem dos Advogados, Ano 80, 2020, pág. 238, afirmando que “em ponto algum da parte dispositiva da [Diretiva (UE) n.º 2019/1](http://data.europa.eu/eli/dir/2019/1/oj?locale=pt) se prevê a possibilidade de acesso (com ou sem aviso prévio) a “dispositivos e equipamentos” nem a correio eletrónico”.
 
 A jurisprudência do TJUE sobre a ausência de valor jurídico obrigatório, ou mesmo interpretativo, dos “considerandos” das diretivas e o texto do invocado Considerando 73 da Diretiva ECN+ (que prevê que “as ANC deverão poder considerar as mensagens eletrónicas como prova relevante, independentemente de essas mensagens parecerem não ter sido lidas ou de terem sido apagadas” - referindo-se a utilização como prova, mas não à sua apreensão), podem, de algum modo, fragilizar a sustentação da admissibilidade de apreensão de mensagens de correio eletrónico pela AdC.
 
-<sup>4</sup> Ver, entre outros, Nuno Brandão, As grandes contra‐ordenações e os seus desafios actuais, II Jornadas do Tribunal da Concorrência, Regulação e Supervisão, Direito das Contraordenações nos tempos actuais, 10.º aniversário do Tribunal da Concorrência, Regulação e Supervisão, outubro 2022.
+4 Ver, entre outros, Nuno Brandão, As grandes contra‐ordenações e os seus desafios actuais, II Jornadas do Tribunal da Concorrência, Regulação e Supervisão, Direito das Contraordenações nos tempos actuais, 10.º aniversário do Tribunal da Concorrência, Regulação e Supervisão, outubro 2022.
 
-<sup>5</sup> Paulo Pinto de Albuquerque, “Comentário do RGCO à luz da Constituição da República e da Convenção Europeia dos Direitos do Homem”, 2011, Universidade Católica Portuguesa, pág. 192.
+5 Paulo Pinto de Albuquerque, “Comentário do RGCO à luz da Constituição da República e da Convenção Europeia dos Direitos do Homem”, 2011, Universidade Católica Portuguesa, pág. 192.
 
-<sup>6</sup> Contra- ordenações - Anotações ao Regime Geral, Vislis Editores, 2.ª Edição, dezembro 2002, pág. 267.
+6 Contra- ordenações - Anotações ao Regime Geral, Vislis Editores, 2.ª Edição, dezembro 2002, pág. 267.
 
-<sup>7</sup> Direito Processual das Contraordenações, Almedina,2023 - Reimpressão, pág. 20.
+7 Direito Processual das Contraordenações, Almedina,2023 - Reimpressão, pág. 20.
 
-<sup>8</sup> Publicado no Diário da República n.º 124/2019, Série I de 02.07.2019.
+8 Publicado no Diário da República n.º 124/2019, Série I de 02.07.2019.
 
-<sup>9</sup> Ver recensão de jurisprudência do TEDH por Paulo Pinto de Albuquerque (ob. cit., págs. 9-26) que corrobora a sua afirmação inicial: “Segundo a jurisprudência do TEDH, os direitos estabelecidos pelo artigo 6.º da CEDH valem para o arguido de um processo contraordenacional, desde que a infracção contra-ordenacional possa ser considerada como “matéria criminal” de acordo com os critérios da jurisprudência Engel. Em regra, as infracções contra-ordenacionais constituem “matéria criminal”, em virtude da natureza geral da regra imposta e do carácter preventivo e punitivo da sanção prevista”.
+9 Ver recensão de jurisprudência do TEDH por Paulo Pinto de Albuquerque (ob. cit., págs. 9-26) que corrobora a sua afirmação inicial: “Segundo a jurisprudência do TEDH, os direitos estabelecidos pelo artigo 6.º da CEDH valem para o arguido de um processo contraordenacional, desde que a infracção contra-ordenacional possa ser considerada como “matéria criminal” de acordo com os critérios da jurisprudência Engel. Em regra, as infracções contra-ordenacionais constituem “matéria criminal”, em virtude da natureza geral da regra imposta e do carácter preventivo e punitivo da sanção prevista”.
 
-<sup>10</sup> Ver, com idêntica fundamentação e afirmando a reserva de juiz, o Acórdão n.º 687/21, de 30.08., “o Tribunal decide, com referência ao Decreto 167/XIV da Assembleia da República, publicado no Diário da Assembleia da República, Série II-A, n.º 177, de 29 de julho de 2021, e enviado ao Presidente da República para promulgação como lei, pronunciar-se pela inconstitucionalidade das normas constantes do seu artigo 5.º, na parte em que altera o artigo 17.º da [Lei n.º 109/2009](https://diariodarepublica.pt/dr/detalhe/lei/109-2009-489693), de 15 de setembro, por violação das normas constantes dos artigos 26.º, n.º 1, 34.º, n.º 1, 35.º, n.<sup>os</sup>1 e 4, 32.º, n.º 4, e 18.º, n.º 2, da Constituição da República Portuguesa.”
+10 Ver, com idêntica fundamentação e afirmando a reserva de juiz, o Acórdão n.º 687/21, de 30.08., “o Tribunal decide, com referência ao Decreto 167/XIV da Assembleia da República, publicado no Diário da Assembleia da República, Série II-A, n.º 177, de 29 de julho de 2021, e enviado ao Presidente da República para promulgação como lei, pronunciar-se pela inconstitucionalidade das normas constantes do seu artigo 5.º, na parte em que altera o artigo 17.º da [Lei n.º 109/2009](https://diariodarepublica.pt/dr/detalhe/lei/109-2009-489693), de 15 de setembro, por violação das normas constantes dos artigos 26.º, n.º 1, 34.º, n.º 1, 35.º, n.os1 e 4, 32.º, n.º 4, e 18.º, n.º 2, da Constituição da República Portuguesa.”
 
-<sup>11</sup> Valendo tal ato como acusação (art. 62.º, n.º 1, do RGCO).
+11 Valendo tal ato como acusação (art. 62.º, n.º 1, do RGCO).
 
 Supremo Tribunal de Justiça, 26 de junho de 2024. - Teresa de Jesus Oliveira de Almeida (relatora) - Helena Isabel Gonçalves Moniz Falcão de Oliveira - José Luís Lopes da Mota - Nuno António Gonçalves - Maria Teresa Féria Gonçalves de Almeida - Ana Maria Barata de Brito - Maria do Carmo da Silva Dias - Pedro B. Ferreira Dias - Leonor Furtado - Agostinho Soares Torres - António Latas - Jorge Gonçalves - João António Gonçalves Fernandes Rato - Heitor Vasques Osório - Jorge Manuel Almeida dos Reis Bravo - Albertina das Dores Nunes Aveiro Pereira - Celso José das Neves Manata - Antero Luís - Eucária Maria Martins Vieira - Horácio Correia Pinto.
+
+118125981

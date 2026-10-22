@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 177/2009, 1º Suplemento, Série I de 2009-09-11
   number: '177'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6238-(8) a 6238-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/09/17701/0000800008.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/67-b/2009/09/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/67-b-2009-239469
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-11T00:00:00Z'
+  retrieved_at: '2026-10-22T19:11:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1cab7301d3cec128acf6c189f72084339ec0ee0e42a16d25432d4364f391ee4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 380b83e5d2e6bbe4e367f12618eb176b39afa86de7c8a12b57cc817c2cd2f765
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:11:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,26 +69,26 @@ reuse:
 subjects:
 - Agrupamento Complementar de Empresas
 - Agrupamento Europeu de Interesse Económico
-- Empresa
-- Sociedade Comercial
-- Contabilidade
-- Multa
-- Comissão de Normalização Contabilística
-- Definição de Competências
-- Empresa Pública
-- Cooperativa
 - Banco de Portugal
+- CMVM
+- Comissão de Normalização Contabilística
+- Contabilidade
+- Cooperativa
+- Definição de Competências
+- Empresa
+- Empresa Pública
 - Ilícito de MERA Ordenação Social
 - Instituto de Seguros de Portugal
-- Sistema de Normalização Contabilística
-- Normas Internacionais de Contabilidade
-- Plano Oficial de Contabilidade
-- Prestação de Contas
-- Pequenas e Médias Empresas
-- Regulamento CE
-- PME
-- CMVM
+- Multa
 - Normalização
+- Normas Internacionais de Contabilidade
+- Pequenas e Médias Empresas
+- Plano Oficial de Contabilidade
+- PME
+- Prestação de Contas
+- Regulamento CE
+- Sistema de Normalização Contabilística
+- Sociedade Comercial
 relationships:
 - type: cites
   target: celex:32002R1606
@@ -101,13 +101,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:11:57Z'
   warnings: []
   errors: []
 ---

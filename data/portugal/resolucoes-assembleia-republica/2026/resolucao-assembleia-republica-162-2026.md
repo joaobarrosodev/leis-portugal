@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/162/2026/06/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/162-2026-1138160252
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-24T00:00:00Z'
+  retrieved_at: '2026-10-22T18:44:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 379b18d8f6e31bfe413e529b58a23623b7e18eb73fb8e915519439d9a792d176
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4880a1816d1853b8865c525f4bf7dbbeacdb128e417599dd52ee30cb6644ed23
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:44:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conselho CE
-- União Europeia
+- Governo
 - Política Comunitária
 - Política Governamental
 - Recomendação
-- Governo
 - Registo de Transparência da Representação de Interesses
+- União Europeia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/43/2006/08/25/p/dre
@@ -82,16 +82,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5-a/2026/01/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5-a/2026/01/28/p/dre
+- type: cites
+  target: pt:dre:1028061007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540659:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:44:49Z'
   warnings: []
   errors: []
 ---
@@ -112,4 +120,6 @@ A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Con
 
 Aprovada em 29 de maio de 2026.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar-Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar-Branco.
+
+119948858

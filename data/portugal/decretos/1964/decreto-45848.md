@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45848-1964-580087
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-08-03T00:00:00Z'
+  retrieved_at: '2026-10-22T19:41:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebdc454765c52488ed486b751137c3031b51fa1ea5d56a976321b479a9be3257
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f41a6b0ae7171b563021a5a16e750288ed2c73f02f43a6b3e86c7b5c5cbffebe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:41:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:331053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580086:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:41:24Z'
   warnings: []
   errors: []
 ---
@@ -101,19 +121,19 @@ Tendo em atenção o disposto no § 1.º do artigo 1.º do [Decreto-Lei n.º 380
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, o seguinte:
 
-###### Artigo 1.º Com o fim de facultar a técnicos já ocupados na indústria a frequência dos institutos industriais, pode o respectivo ensino ser ministrado segundo plano especial de distribuição anual dos trabalhos escolares, o qual será fixado por despacho do Ministro da Educação Nacional, mediante execução a partir do ano lectivo de 1964-1965.
+Artigo 1.º Com o fim de facultar a técnicos já ocupados na indústria a frequência dos institutos industriais, pode o respectivo ensino ser ministrado segundo plano especial de distribuição anual dos trabalhos escolares, o qual será fixado por despacho do Ministro da Educação Nacional, mediante execução a partir do ano lectivo de 1964-1965.
 
-###### Art. 2.º O plano especial de estudos a que se refere o artigo anterior não incluirá exercícios de treino oficinal, mas os alunos ficam obrigados a obter aprovação, até ao termo do segundo ano de frequência, no correspondente exame, o qual será constituído por provas de cada uma das oficinas incluídas no plano normal do curso, de acordo com o respectivo programa.
+Art. 2.º O plano especial de estudos a que se refere o artigo anterior não incluirá exercícios de treino oficinal, mas os alunos ficam obrigados a obter aprovação, até ao termo do segundo ano de frequência, no correspondente exame, o qual será constituído por provas de cada uma das oficinas incluídas no plano normal do curso, de acordo com o respectivo programa.
 
-###### Art. 3.º Só podem ingressar no regime de estudos previsto no presente diploma os candidatos que, além de possuírem a habilitação legalmente exigida para a matrícula nos institutos, tenham, pelo menos, 18 anos de idade no início do ano escolar a que respeitar a matrícula e provem estar exercendo, há mais de um ano, actividade profissional que o conselho do curso que pretendam seguir reconheça como preparação útil para a frequência.
+Art. 3.º Só podem ingressar no regime de estudos previsto no presente diploma os candidatos que, além de possuírem a habilitação legalmente exigida para a matrícula nos institutos, tenham, pelo menos, 18 anos de idade no início do ano escolar a que respeitar a matrícula e provem estar exercendo, há mais de um ano, actividade profissional que o conselho do curso que pretendam seguir reconheça como preparação útil para a frequência.
 
-###### Art. 4.º - 1. Em princípio haverá, em cada ano do plano especial de cada curso, uma só turma, e as actividades lectivas decorrerão das 18 às 23 horas.
+Art. 4.º - 1. Em princípio haverá, em cada ano do plano especial de cada curso, uma só turma, e as actividades lectivas decorrerão das 18 às 23 horas.
 
 2. Todavia, se as circunstâncias o justificarem, e nomeadamente as instalações dos institutos o permitirem, poderá haver mais de uma turma, mediante prévia autorização do Ministro da Educação Nacional e, bem assim, poderão as actividades realizar-se em período diferente que não colida com os horários de trabalho profissional dos alunos.
 
-###### Art. 5.º Quando o número de candidatos exceda o das matrículas que podem ser autorizadas gozarão de preferência os que obtenham mais elevada classificação no exame de admissão, ou na habilitação que o substitua, e, nos casos de igualdade de classificação, os que exerçam há mais tempo a actividade profissional a que se refere o artigo 3.º
+Art. 5.º Quando o número de candidatos exceda o das matrículas que podem ser autorizadas gozarão de preferência os que obtenham mais elevada classificação no exame de admissão, ou na habilitação que o substitua, e, nos casos de igualdade de classificação, os que exerçam há mais tempo a actividade profissional a que se refere o artigo 3.º
 
-###### Art. 6.º - 1. Os requerimentos para a matrícula dos candidatos que pretendam frequentar os institutos industriais ao abrigo das disposições do presente diploma serão enviados ao director pelas empresas onde trabalham, acompanhados dos seguintes documentos:
+Art. 6.º - 1. Os requerimentos para a matrícula dos candidatos que pretendam frequentar os institutos industriais ao abrigo das disposições do presente diploma serão enviados ao director pelas empresas onde trabalham, acompanhados dos seguintes documentos:
 
 a) Informação, prestada sob compromisso de honra, do dirigente técnico da empresa, na qual indique, com a conveniente precisão, a natureza do serviço a cargo do candidato e a data a partir da qual o exerce, mencionando ainda a aptidão que o mesmo haja, porventura, demonstrado para o desempenho de mais elevadas funções técnicas;
 
@@ -121,17 +141,17 @@ b) Informação do sindicato nacional a que o candidato pertença sobre a data d
 
 2. A inexactidão das declarações, em qualquer dos seus elementos, envolve, além da correspondente responsabilidade criminal, a anulação da matrícula e a impossibilidade de a renovar.
 
-###### Art. 7.º Os alunos aprovados na frequência que devam ser submetidos a exames finais prestam provas perante os júris constituídos para os cursos normais e, na prova escrita de cada cadeira, em face de ponto único.
+Art. 7.º Os alunos aprovados na frequência que devam ser submetidos a exames finais prestam provas perante os júris constituídos para os cursos normais e, na prova escrita de cada cadeira, em face de ponto único.
 
-###### Art. 8.º Para efeitos de apuramento de classificação final do curso, os trabalhos escolares do plano especial serão ordenados pela forma fixada no artigo 188.º do [Decreto n.º 38032](https://diariodarepublica.pt/dr/detalhe/decreto/38032-1950-486537), de 4 de Novembro de 1950.
+Art. 8.º Para efeitos de apuramento de classificação final do curso, os trabalhos escolares do plano especial serão ordenados pela forma fixada no artigo 188.º do [Decreto n.º 38032](https://diariodarepublica.pt/dr/detalhe/decreto/38032-1950-486537), de 4 de Novembro de 1950.
 
-###### Art. 9.º É aplicável às actividades escolares do plano especial de estudos a legislação vigente respeitante aos institutos industriais, em tudo quanto não seja contrariado pelas disposições do presente diploma.
+Art. 9.º É aplicável às actividades escolares do plano especial de estudos a legislação vigente respeitante aos institutos industriais, em tudo quanto não seja contrariado pelas disposições do presente diploma.
 
-###### Art. 10.º - 1. Nos institutos industriais e nos institutos comerciais em que funcionem actividades lectivas no período nocturno o Ministro nomeará um subdirector de entre os professores do respectivo quadro, sob proposta do director.
+Art. 10.º - 1. Nos institutos industriais e nos institutos comerciais em que funcionem actividades lectivas no período nocturno o Ministro nomeará um subdirector de entre os professores do respectivo quadro, sob proposta do director.
 
 2. O cargo de subdirector é de aceitação obrigatória e o seu exercício envolve a redução, a seis horas por semana, do serviço docente a que se refere o n.º 1 do artigo 75.º, tanto do [Decreto n.º 38032](https://diariodarepublica.pt/dr/detalhe/decreto/38032-1950-486537), de 4 de Novembro de 1950, como do [Decreto n.º 38231](https://diariodarepublica.pt/dr/detalhe/decreto/38231-1951-331053), de 23 de Abril de 1951.
 
-###### Art. 11.º - 1. O subdirector coadjuvará permanentemente o director no desempenho das respectivas funções, competindo-lhe especialmente:
+Art. 11.º - 1. O subdirector coadjuvará permanentemente o director no desempenho das respectivas funções, competindo-lhe especialmente:
 
 a) Substituir o director nas suas faltas e impedimentos;
 
@@ -145,8 +165,8 @@ c) Representar o director, sempre que ele o determine, na superintendência peda
 
 4. Do mesmo modo, quando durar mais de 30 dias seguidos o impedimento do subdirector, a correspondente gratificação passará a pertencer ao professor que o substituir.
 
-###### Art. 12.º O disposto no n.º 3 do artigo 45.º dos Decretos n.os 38032 e 38231, de 4 de Novembro de 1950 e 23 de Abril de 1951, respectivamente, com a redacção que lhe foi fixada pelo [Decreto n.º 43140](https://diariodarepublica.pt/dr/detalhe/decreto/43140-1960-514613), de 31 de Agosto de 1960, é aplicável aos actuais professores auxiliares que ingressaram no quadro na categoria de assistentes, qualquer que haja sido a forma do seu recrutamento.
+Art. 12.º O disposto no n.º 3 do artigo 45.º dos Decretos n.os 38032 e 38231, de 4 de Novembro de 1950 e 23 de Abril de 1951, respectivamente, com a redacção que lhe foi fixada pelo [Decreto n.º 43140](https://diariodarepublica.pt/dr/detalhe/decreto/43140-1960-514613), de 31 de Agosto de 1960, é aplicável aos actuais professores auxiliares que ingressaram no quadro na categoria de assistentes, qualquer que haja sido a forma do seu recrutamento.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 3 de Agosto de 1964. - ANTÓNIO DE OLIVEIRA SALAZAR - António Manuel Pinto Barbosa - Inocêncio Galvão Teles.

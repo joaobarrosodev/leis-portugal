@@ -46,40 +46,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43041-1960-502425
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-06-15T00:00:00Z'
+  retrieved_at: '2026-10-22T19:18:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 183b0958c601f04cce7ac3d7fb3ed644dd77c4f84859d9781485cae292342fce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b03f1b39b2215115b227a2901fe11961d7cc9f47d619a8bb2e83a91a8026e4ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:18:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Ultramarina
+- Criação de Lugares
+- Função Pública
+- Funcionário Público
+- Quadro de Pessoal
+- Remuneração
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:142690:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:559427:por
+  label: "Alterado o § único do artigo 6.º pelo DEC.43565.27.03.1961.MU, DG.IS [71] de 27.03.1961\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/43565-1961-559427
+  date: '1961-03-27'
+- type: amended_by
+  target: pt:dre:469853:por
+  label: "Mantido em vigor o disposto no artigo 35.º pelo DEC.45575.26.02.1964.MU, DG.IS [48] de 26.02.1964\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/45575-1964-469853
+  date: '1964-02-26'
+- type: amended_by
+  target: pt:dre:517412:por
+  label: "Prorrogada para a vigência do próximo Plano de Fomento Intercalar o disposto no art. 15º e seu § único pelo DEC.46068.07.12.1964.MU,\
+    \ DG.IS [286-Supl] de 07.12.1964\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/46068-1964-517412
+  date: '1964-12-07'
+- type: cites
+  target: pt:dre:232373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:142690:por
+  label: "Revogado o art. 27º pelo DEC.268/70.15.06.1970.MU, DG.IS [137] de 15.06.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/268-1970-142690
+  date: '1970-06-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:18:36Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +160,7 @@ Disposições especiais
 
 A) Guiné
 
-###### Artigo 1.º Nos serviços de administração civil são introduzidas as seguintes alterações:
+Artigo 1.º Nos serviços de administração civil são introduzidas as seguintes alterações:
 
 1) Criação de lugares:
 
@@ -120,15 +180,15 @@ b) Eliminação de lugares:
 
 B) S. Tomé e Príncipe
 
-###### Art. 2.º Nos serviços de fomento da província é autorizada a criação fora dos quadros de três lugares de capatazes de estradas, a preencher por contrato, nos termos da alínea b) do § 1.º do artigo 45.º e das disposições aplicáveis da subsecção IV da secção III do capítulo II do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956.
+Art. 2.º Nos serviços de fomento da província é autorizada a criação fora dos quadros de três lugares de capatazes de estradas, a preencher por contrato, nos termos da alínea b) do § 1.º do artigo 45.º e das disposições aplicáveis da subsecção IV da secção III do capítulo II do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956.
 
 § único. Os vencimentos a abonar aos capatazes de que trata o corpo deste artigo serão fixados pelos órgãos legislativos locais, ao abrigo da autorização concedida pelo artigo 17.º do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
 
-###### Art. 3.º Fica autorizado o Governo de S. Tomé e Príncipe a conceder, pelo orçamento geral da província, um subsídio à Associação de Socorros Mútuos da Trindade.
+Art. 3.º Fica autorizado o Governo de S. Tomé e Príncipe a conceder, pelo orçamento geral da província, um subsídio à Associação de Socorros Mútuos da Trindade.
 
 C) Angola
 
-###### Art. 4.º Nos serviços de geologia e minas são introduzidas as seguintes alterações:
+Art. 4.º Nos serviços de geologia e minas são introduzidas as seguintes alterações:
 
 1) Criação de lugares:
 
@@ -152,13 +212,13 @@ Pessoal contratado:
 
 § 2.º Os lugares de engenheiro mecânico e de químico-analista criados por este artigo considerar-se-ão incluídos no grupo F do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
 
-###### Art. 5.º O lugar de guarda-livros dos serviços autónomos de luz e água de Luanda passa a ser incluído no grupo K do mapa I anexo ao [Decreto n.º 42672](https://diariodarepublica.pt/dr/detalhe/decreto/42672-1959-438389), de 23 de Novembro de 1959.
+Art. 5.º O lugar de guarda-livros dos serviços autónomos de luz e água de Luanda passa a ser incluído no grupo K do mapa I anexo ao [Decreto n.º 42672](https://diariodarepublica.pt/dr/detalhe/decreto/42672-1959-438389), de 23 de Novembro de 1959.
 
 D) Moçambique
 
-###### Art. 6.º O artigo 47.º e seu § único e o artigo 48.º do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, passam a ter a seguinte redacção:
+Art. 6.º O artigo 47.º e seu § único e o artigo 48.º do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, passam a ter a seguinte redacção:
 
-###### Art. 47.º Os funcionários colocados nas curadorias dos indígenas portugueses na União da África do Sul e na Rodésia do Sul têm direito, enquanto estiverem em serviço nas mesmas, aos vencimentos base e complementar que competirem às suas categorias na província de Moçambique, acrescidos de um complemento mensal abonado a título de residência e fixado da forma seguinte:
+Art. 47.º Os funcionários colocados nas curadorias dos indígenas portugueses na União da África do Sul e na Rodésia do Sul têm direito, enquanto estiverem em serviço nas mesmas, aos vencimentos base e complementar que competirem às suas categorias na província de Moçambique, acrescidos de um complemento mensal abonado a título de residência e fixado da forma seguinte:
 
 Categorias do grupo E ou superior ... 3000$00
 
@@ -168,37 +228,37 @@ Do grupo O e inferiores, excluindo serventes ... 2500$00
 
 § único. A cada um dos dois serventes mais antigos da curadoria na África do Sul será abonada, além dos salários que lhes competirem, uma gratificação mensal de 120$00.
 
-###### Art. 48.º Os vencimentos e salários do pessoal das curadorias serão abonados, como tal, pelas verbas orçamentais dos serviços a que pertençam e o complemento mensal fixado a título de residência e as gratificações, aos serventes serão abonados por verba própria a inscrever no orçamento como «Complemento de residência ao pessoal em serviço nas curadorias».
+Art. 48.º Os vencimentos e salários do pessoal das curadorias serão abonados, como tal, pelas verbas orçamentais dos serviços a que pertençam e o complemento mensal fixado a título de residência e as gratificações, aos serventes serão abonados por verba própria a inscrever no orçamento como «Complemento de residência ao pessoal em serviço nas curadorias».
 
 Todas as remunerações devidas ao pessoal serão pagas em moeda local, ao câmbio fixado para o pagamento das despesas da respectiva curadoria no último dia do mês anterior ao da liquidação.
 
-###### Art. 7.º É revogado o § único do artigo 40.º do [Decreto n.º 41612](https://diariodarepublica.pt/dr/detalhe/decreto/41612-1958-302905), de 9 de Maio de 1958.
+Art. 7.º É revogado o § único do artigo 40.º do [Decreto n.º 41612](https://diariodarepublica.pt/dr/detalhe/decreto/41612-1958-302905), de 9 de Maio de 1958.
 
-###### Art. 8.º O § único do artigo 28.º do [Decreto n.º 41612](https://diariodarepublica.pt/dr/detalhe/decreto/41612-1958-302905), de 9 de Maio de 1958, passa a ter a seguinte redacção:
+Art. 8.º O § único do artigo 28.º do [Decreto n.º 41612](https://diariodarepublica.pt/dr/detalhe/decreto/41612-1958-302905), de 9 de Maio de 1958, passa a ter a seguinte redacção:
 
 § único. O lugar de inspector bancário será provido por nomeação, feita por escolha do Ministro do Ultramar, ouvido o governador-geral da província, entre pessoas diplomadas com um curso superior, de preferência o curso de Ciências Económicas e Financeiras ou Economia, que, pelos cargos exercidos ou trabalhos efectuados, tenham comprovado especial competência.
 
-###### Art. 9.º No quadro de pessoal de nomeação do Conselho de Câmbios é criado um lugar de secretário, com a categoria do grupo G do mapa III anexo ao [Decreto n.º 41612](https://diariodarepublica.pt/dr/detalhe/decreto/41612-1958-302905), de 9 de Maio de 1958.
+Art. 9.º No quadro de pessoal de nomeação do Conselho de Câmbios é criado um lugar de secretário, com a categoria do grupo G do mapa III anexo ao [Decreto n.º 41612](https://diariodarepublica.pt/dr/detalhe/decreto/41612-1958-302905), de 9 de Maio de 1958.
 
 § único. O lugar de secretário do Conselho de Câmbios será provido por nomeação, feita por escolha do Ministro do Ultramar, ouvido o governador-geral da província, entre pessoas cujo curriculum o justifique, de preferência diplomadas com o curso de Ciências Económicas e Financeiras ou Economia.
 
-###### Art. 10.º É substituída pela que segue a redacção do § único do artigo 22.º do Diploma Legislativo Ministerial n.º 3, de 13 de Julho de 1959:
+Art. 10.º É substituída pela que segue a redacção do § único do artigo 22.º do Diploma Legislativo Ministerial n.º 3, de 13 de Julho de 1959:
 
 § único. O lugar de adjunto actuário será provido por concurso documental entre os indivíduos habilitados com as quatro secções do Instituto Superior de Ciências Económicas e Financeiras (regime antigo) ou com o curso de Finanças do mesmo Instituto (regime actual).
 
-###### Art. 11.º O lugar de fiel do edifício do Conselho de Câmbios de Moçambique, de que trata a alínea f) do artigo 31.º do [Decreto n.º 41612](https://diariodarepublica.pt/dr/detalhe/decreto/41612-1958-302905), de 9 de Maio de 1958, considera-se incluído na letra T do mapa III anexo ao mesmo decreto.
+Art. 11.º O lugar de fiel do edifício do Conselho de Câmbios de Moçambique, de que trata a alínea f) do artigo 31.º do [Decreto n.º 41612](https://diariodarepublica.pt/dr/detalhe/decreto/41612-1958-302905), de 9 de Maio de 1958, considera-se incluído na letra T do mapa III anexo ao mesmo decreto.
 
-###### Art. 12.º No mapa VI anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, é incluída a seguinte gratificação especial mensal:
+Art. 12.º No mapa VI anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, é incluída a seguinte gratificação especial mensal:
 
 Penitenciária de Moçambique:
 
 Assistente religioso ... 1000$00
 
-###### Art. 13.º Ao secretário do Conselho de Protecção da Natureza da província de Moçambique é fixada a gratificação mensal de 750$00, que se considera aditada à tabela VI anexa ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
+Art. 13.º Ao secretário do Conselho de Protecção da Natureza da província de Moçambique é fixada a gratificação mensal de 750$00, que se considera aditada à tabela VI anexa ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
 
-###### Art. 14.º Ao secretário do Conselho de Coordenação Económica de Moçambique é fixada a gratificação mensal de 750$00, que se considera aditada à tabela VI anexa ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
+Art. 14.º Ao secretário do Conselho de Coordenação Económica de Moçambique é fixada a gratificação mensal de 750$00, que se considera aditada à tabela VI anexa ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
 
-###### Art. 15.º Nos serviços de obras públicas e transportes e a eles subordinados são criados, com carácter temporário, os seguintes quadros complementares para as construções escolares e para as construções hospitalares do II Plano de Fomento, ambos com a duração do Plano e encargos suportados pelas respectivas dotações consignadas àqueles objectivos e com as seguintes composições:
+Art. 15.º Nos serviços de obras públicas e transportes e a eles subordinados são criados, com carácter temporário, os seguintes quadros complementares para as construções escolares e para as construções hospitalares do II Plano de Fomento, ambos com a duração do Plano e encargos suportados pelas respectivas dotações consignadas àqueles objectivos e com as seguintes composições:
 
 1) Quadro complementar das construções hospitalares:
 
@@ -240,9 +300,9 @@ Assistente religioso ... 1000$00
 
 § único. O provimento do pessoal criado por este artigo far-se-á em regime de contrato, nos termos da alínea a) do § 1.º do artigo 45.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956.
 
-###### Art. 16.º No quadro do pessoal contratado dos serviços de geologia e minas é criado um lugar de conservador do Museu de Mineralogia, que se considera incluído na letra N do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
+Art. 16.º No quadro do pessoal contratado dos serviços de geologia e minas é criado um lugar de conservador do Museu de Mineralogia, que se considera incluído na letra N do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
 
-###### Art. 17.º Nos serviços de marinha de Moçambique são introduzidas as seguintes alterações:
+Art. 17.º Nos serviços de marinha de Moçambique são introduzidas as seguintes alterações:
 
 A) Criação de lugares:
 
@@ -260,7 +320,7 @@ B) Extinção de lugares:
 
 3 de capitão da marinha mercante.
 
-###### Art. 18.º O Governo-Geral da província de Moçambique fica autorizado:
+Art. 18.º O Governo-Geral da província de Moçambique fica autorizado:
 
 a) A abrir no corrente ano económico, com contrapartida nos lucros de amoedação, um crédito especial de 5450000$00, que será aditado à tabela de despesa extraordinária para 1960, com a seguinte rubrica:
 
@@ -270,19 +330,19 @@ b) A inscrever na mesma tabela para o ano de 1961, e para o mesmo fim, importân
 
 § único. A prospecção a que se refere o presente artigo obedecerá a planos e programas aprovados por despacho do Ministro do Ultramar, ao qual serão submetidos relatórios circunstanciados da respectiva execução.
 
-###### Art. 19.º Fica a Repartição de Contabilidade da Direcção-Geral de Fazenda do Ministério do Ultramar autorizada a satisfazer à Junta de Energia Nuclear, em regime de duodécimos ou por uma só vez, conforme for decidido por despacho do Ministro do Ultramar, as importâncias mencionadas no artigo antecedente.
+Art. 19.º Fica a Repartição de Contabilidade da Direcção-Geral de Fazenda do Ministério do Ultramar autorizada a satisfazer à Junta de Energia Nuclear, em regime de duodécimos ou por uma só vez, conforme for decidido por despacho do Ministro do Ultramar, as importâncias mencionadas no artigo antecedente.
 
 § único. Às importâncias entregues dar-se-á o destino previsto na alínea a) do artigo 11.º do [Decreto-Lei n.º 41995](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41995-1958-341001), de 5 de Dezembro de 1958, e ficarão exclusivamente consignadas ao pagamento das despesas de que trata o artigo 18.º
 
 E) Índia
 
-###### Art. 20.º Ao professor do ensino liceal de Marata e Sânscrito é atribuída, a contar de 1 de Janeiro de 1960, a mesma categoria dos professores efectivos do 1.º ao 9.º grupo do ensino liceal.
+Art. 20.º Ao professor do ensino liceal de Marata e Sânscrito é atribuída, a contar de 1 de Janeiro de 1960, a mesma categoria dos professores efectivos do 1.º ao 9.º grupo do ensino liceal.
 
 F) Timor
 
-###### Art. 21.º É aumentado de um terceiro-oficial o quadro do pessoal de nomeação da Repartição do Gabinete do Governo.
+Art. 21.º É aumentado de um terceiro-oficial o quadro do pessoal de nomeação da Repartição do Gabinete do Governo.
 
-###### Art. 22.º Na Repartição Provincial dos Serviços de Obras Públicas, Portos e Transportes são criados os seguintes lugares:
+Art. 22.º Na Repartição Provincial dos Serviços de Obras Públicas, Portos e Transportes são criados os seguintes lugares:
 
 1) Pessoal contratado:
 
@@ -292,7 +352,7 @@ F) Timor
 
 § único. Ficam os órgãos legislativos locais autorizados a regulamentar as condições de provimento do lugar de escriturário criado pelo corpo deste artigo.
 
-###### Art. 23.º No serviço de transportes aéreos é introduzida a seguinte alteração:
+Art. 23.º No serviço de transportes aéreos é introduzida a seguinte alteração:
 
 1) Criação de lugares:
 
@@ -310,21 +370,21 @@ II
 
 Disposições comuns
 
-###### Art. 24.º Aos vogais dos Conselhos do Governo das províncias de governo-geral que residam fora da área das sedes das respectivas províncias é extensivo o abono do subsídio diário de deslocação e de passagens em condições idênticas aos vogais dos conselhos legislativos.
+Art. 24.º Aos vogais dos Conselhos do Governo das províncias de governo-geral que residam fora da área das sedes das respectivas províncias é extensivo o abono do subsídio diário de deslocação e de passagens em condições idênticas aos vogais dos conselhos legislativos.
 
 § único. O direito criado pelo presente artigo é extensivo, nas condições nele referidas, aos vogais das secções permanentes dos Conselhos do Governo nas províncias de governo simples.
 
-###### Art. 25.º O § único do artigo 2.º do [Decreto n.º 40711](https://diariodarepublica.pt/dr/detalhe/decreto/40711-1956-232509), de 1 de Agosto de 1956, passa a ter a seguinte redacção:
+Art. 25.º O § único do artigo 2.º do [Decreto n.º 40711](https://diariodarepublica.pt/dr/detalhe/decreto/40711-1956-232509), de 1 de Agosto de 1956, passa a ter a seguinte redacção:
 
 § único. As secções terão subdirectores, que nas províncias de governo-geral serão nomeados, em comissão, de entre administradores do quadro administrativo ou primeiros-oficiais dos serviços de administração civil, ou nomeados de entre licenciados em Direito, mediante concurso documental, e nas províncias de governo simples serão secretários de circunscrição, designados pelos governadores.
 
-###### Art. 26.º Além das remunerações que lhes competem, nos termos da legislação em vigor, são fixadas para os inspectores administrativos de Angola e Moçambique as seguintes gratificações mensais:
+Art. 26.º Além das remunerações que lhes competem, nos termos da legislação em vigor, são fixadas para os inspectores administrativos de Angola e Moçambique as seguintes gratificações mensais:
 
 Inspector administrativo-chefe ... 1800$00
 
 Inspector administrativo ... 1600$00
 
-###### Art. 27.º O abono destas gratificações só poderá ser efectuado nos seguintes quantitativos e condições:
+Art. 27.º O abono destas gratificações só poderá ser efectuado nos seguintes quantitativos e condições:
 
 a) Pela totalidade mensal, quando o serviço se realize fora das áreas das cidades de Luanda ou Lourenço Marques por período não inferior a quinze dias;
 
@@ -332,19 +392,19 @@ b) Por importância correspondente ao número de dias de serviço efectivamente 
 
 c) Por importância correspondente a um terço da respectiva gratificação mensal quando o serviço, seja qual for o período da sua duração, for prestado, na área da cidade de Luanda ou Lourenço Marques, fora da Inspecção.
 
-###### Art. 28.º Para o abono das gratificações deverão nos respectivos títulos mencionar-se as localidades em que foi feito o serviço e os dias de permanência em cada uma delas ou gastos em viagem.
+Art. 28.º Para o abono das gratificações deverão nos respectivos títulos mencionar-se as localidades em que foi feito o serviço e os dias de permanência em cada uma delas ou gastos em viagem.
 
-###### Art. 29.º Aos professores de serviço eventual e a outros agentes de qualquer grau de ensino cuja nomeação, colocação ou recondução não sejam válidas para além do ano lectivo a que respeitam poderão os respectivos vencimentos ou outras remunerações correspondentes ao exercício das suas funções ser abonados antes de visados pelos tribunais administrativos os respectivos diplomas.
+Art. 29.º Aos professores de serviço eventual e a outros agentes de qualquer grau de ensino cuja nomeação, colocação ou recondução não sejam válidas para além do ano lectivo a que respeitam poderão os respectivos vencimentos ou outras remunerações correspondentes ao exercício das suas funções ser abonados antes de visados pelos tribunais administrativos os respectivos diplomas.
 
-###### Art. 30.º Quando a um diploma vier a ser recusado o visto, cessarão os abonos a que se alude no artigo anterior, do que deverá ser logo notificado o indivíduo a quem o diploma se refere.
+Art. 30.º Quando a um diploma vier a ser recusado o visto, cessarão os abonos a que se alude no artigo anterior, do que deverá ser logo notificado o indivíduo a quem o diploma se refere.
 
-###### Art. 31.º Ao pessoal referido no artigo 29.º será marcado prazo conveniente para apresentação de todos os documentos necessários à regularização do processo de provimento. Será anulado o provimento e cessarão os abonos se aquela apresentação não for feita no referido prazo, salvo justificação aceite pelo Governo.
+Art. 31.º Ao pessoal referido no artigo 29.º será marcado prazo conveniente para apresentação de todos os documentos necessários à regularização do processo de provimento. Será anulado o provimento e cessarão os abonos se aquela apresentação não for feita no referido prazo, salvo justificação aceite pelo Governo.
 
-###### Art. 32.º Ao núcleo de documentação técnica, criado pelo [Decreto n.º 41787](https://diariodarepublica.pt/dr/detalhe/decreto/41787-1958-351913), de 7 de Agosto de 1958, é aplicável o disposto no [Decreto-Lei n.º 28326](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28326-1937-443530), de 27 de Dezembro de 1937, relativamente às normas a que devem obedecer a elaboração e execução do orçamento, o processo e autorização das respectivas despesas e o encerramento e prestação de contas.
+Art. 32.º Ao núcleo de documentação técnica, criado pelo [Decreto n.º 41787](https://diariodarepublica.pt/dr/detalhe/decreto/41787-1958-351913), de 7 de Agosto de 1958, é aplicável o disposto no [Decreto-Lei n.º 28326](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28326-1937-443530), de 27 de Dezembro de 1937, relativamente às normas a que devem obedecer a elaboração e execução do orçamento, o processo e autorização das respectivas despesas e o encerramento e prestação de contas.
 
-###### Art. 33.º Os chefes de brigada de investigação criminal e internacional do Corpo de Polícia de Segurança Pública da província de Moçambique e da Polícia do Estado da Índia transitam do grupo N para o grupo L do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
+Art. 33.º Os chefes de brigada de investigação criminal e internacional do Corpo de Polícia de Segurança Pública da província de Moçambique e da Polícia do Estado da Índia transitam do grupo N para o grupo L do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
 
-###### Art. 34.º Os arquivistas de todos os serviços públicos ultramarinos para os quais não esteja previsto acesso nos respectivos diplomas orgânicos passam à ocupar a seguinte posição no mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956:
+Art. 34.º Os arquivistas de todos os serviços públicos ultramarinos para os quais não esteja previsto acesso nos respectivos diplomas orgânicos passam à ocupar a seguinte posição no mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956:
 
 Arquivistas com menos de 10 anos de serviço ... Q
 
@@ -352,7 +412,7 @@ Arquivistas com 10 anos de serviço ... N
 
 Arquivistas com 20 anos de serviço ... L
 
-###### Art. 35.º Nas províncias de governo simples, em caso de imperativa exigência do serviço, reconhecida por despacho ministerial, poder-se-ão preencher, por meio de contrato, quaisquer vagas dos quadros do pessoal técnico superior que normalmente a lei mande prover por outra forma.
+Art. 35.º Nas províncias de governo simples, em caso de imperativa exigência do serviço, reconhecida por despacho ministerial, poder-se-ão preencher, por meio de contrato, quaisquer vagas dos quadros do pessoal técnico superior que normalmente a lei mande prover por outra forma.
 
 § 1.º Quando o lugar preenchido por meio de contrato for de acesso, poderá o respectivo serventuário ser nele provido definitivamente, por meio de nomeação, desde que se verifiquem os seguintes requisitos:
 
@@ -366,9 +426,9 @@ III
 
 Disposição final
 
-###### Art. 36.º Ficam os governos das províncias ultramarinas autorizados a abrir no corrente ano económico, até ao limite dos recursos orçamentais disponíveis, os créditos especiais necessários à execução deste diploma.
+Art. 36.º Ficam os governos das províncias ultramarinas autorizados a abrir no corrente ano económico, até ao limite dos recursos orçamentais disponíveis, os créditos especiais necessários à execução deste diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 1 de Julho de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

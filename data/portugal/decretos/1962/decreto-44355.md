@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44355-1962-164434
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-10-17T00:00:00Z'
+  retrieved_at: '2026-10-22T19:29:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 518b2bf45b753f2fbb0fa1aa272d6c934447e38c2fab22f5e4703bdfcee523e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bbf2323e610f846efd2c5750f4e77f746f9063f34a711f2b8bf475f492e41110
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:29:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,20 @@ relationships:
   target: pt:dre:478390:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:321313:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:29:20Z'
   warnings: []
   errors: []
 ---
@@ -92,14 +96,14 @@ Visto o n.º 8.º do artigo 4.º e o § único do artigo 3.º da Reforma Aduanei
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a importação, sob regime de draubaque, de semente (grainha) de alfarroba, destinada à extracção de germes e ao fabrico de farinhas de vários tipos.
+Artigo 1.º É autorizada a importação, sob regime de draubaque, de semente (grainha) de alfarroba, destinada à extracção de germes e ao fabrico de farinhas de vários tipos.
 
 § único. Este regime é válido pelo prazo de dois anos, podendo ser renovado a requerimento dos interessados.
 
-###### Art. 2.º Por cada 100 kg de farinha ou de germe granulado ou farinado exportados restituir-se-ão os direitos correspondentes a 141 kg de semente importada.
+Art. 2.º Por cada 100 kg de farinha ou de germe granulado ou farinado exportados restituir-se-ão os direitos correspondentes a 141 kg de semente importada.
 
-###### Art. 3.º É permitido aos importadores, sem dependência de prévio despacho ministerial, usar da faculdade de garantir os direitos nos termos do artigo 443.º-A do Regulamento das Alfândegas.
+Art. 3.º É permitido aos importadores, sem dependência de prévio despacho ministerial, usar da faculdade de garantir os direitos nos termos do artigo 443.º-A do Regulamento das Alfândegas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 17 de Maio de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa.

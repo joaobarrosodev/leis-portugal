@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/137/2026/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2026-1145969704
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-10T00:00:00Z'
+  retrieved_at: '2026-10-22T18:46:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 176f05aa2122d99e4b9ac8d3fb356dfc0ee5bf85eb6fd83545e7e78f5f5620f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6aefb90f29612ac119789bdd0d2b693837d053f3d7c0f6d1073f01b349075441
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:46:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
+- Apicultura
 - Contra-ordenação
-- Direção Geral de Alimentação e Veterinária
 - Controlo Sanitário
+- Direção Geral de Alimentação e Veterinária
 - Fiscalização
 - Licenciamento
 - MEL
-- Apicultura
+- Região Autónoma
 - Registo Obrigatório
 - Regulamento CE
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:1/2007
+  label: Altera, a partir de 11 de julho de 2026, os artigos 1.º, 2.º, 3.º, 4.º, 6.º, 7.º, 8.º, 10.º e 14.º, adita o artigo
+    1.º-A e revoga o n.º 2 do artigo 8.º do Decreto-Lei n.º 1/2007, de 2 de janeiro, Diário da República n.º 1/2007, Série
+    I de 2007-01-02, que é republicado
+  source: null
+  date: '2007-01-02'
 - type: cites
   target: celex:32004R0852
   label: null
@@ -109,16 +116,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/9/2021/01/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/9/2021/01/29/p/dre
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66229856:por
+  label: null
+  source: null
 article_structure:
-  article_count: 29
+  article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:46:18Z'
   warnings: []
   errors: []
 ---
@@ -149,7 +180,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto-lei procede à segunda alteração ao [Decreto-Lei n.º 1/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2007-262280), de 2 de janeiro, alterado pelo [Decreto-Lei n.º 9/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), de 29 de janeiro, que estabelece as condições de funcionamento dos locais de extração e processamento de mel e outros produtos da apicultura destinados ao consumo humano, complementares aos Regulamentos (CE) n.<sup>os</sup>[852/2004](https://data.europa.eu/eli/reg/2004/852/oj?locale=pt) e [853/2004](https://data.europa.eu/eli/reg/2004/853/oj?locale=pt), ambos do Parlamento Europeu e do Conselho, de 29 de abril, instituindo o respetivo regime e condições de registo e aprovação.
+O presente decreto-lei procede à segunda alteração ao [Decreto-Lei n.º 1/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2007-262280), de 2 de janeiro, alterado pelo [Decreto-Lei n.º 9/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), de 29 de janeiro, que estabelece as condições de funcionamento dos locais de extração e processamento de mel e outros produtos da apicultura destinados ao consumo humano, complementares aos Regulamentos (CE) n.os[852/2004](https://data.europa.eu/eli/reg/2004/852/oj?locale=pt) e [853/2004](https://data.europa.eu/eli/reg/2004/853/oj?locale=pt), ambos do Parlamento Europeu e do Conselho, de 29 de abril, instituindo o respetivo regime e condições de registo e aprovação.
 
 ###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 1/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2007-262280), de 2 de janeiro
 
@@ -159,9 +190,11 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 6.º, 7.º, 8.º, 10.º e 14.º do [Decreto-L
 
 [...]
 
-O presente decreto-lei estabelece as condições de funcionamento dos locais de extração, manuseamento ou processamento de mel e outros produtos da apicultura destinados ao consumo humano, complementares aos Regulamentos (CE) n.<sup>os</sup> [852/2004](https://data.europa.eu/eli/reg/2004/852/oj?locale=pt) e [853/2004](https://data.europa.eu/eli/reg/2004/853/oj?locale=pt), ambos do Parlamento Europeu e do Conselho, de 29 de abril, instituindo o respetivo regime e condições de registo e aprovação.
+O presente decreto-lei estabelece as condições de funcionamento dos locais de extração, manuseamento ou processamento de mel e outros produtos da apicultura destinados ao consumo humano, complementares aos Regulamentos (CE) n.os [852/2004](https://data.europa.eu/eli/reg/2004/852/oj?locale=pt) e [853/2004](https://data.europa.eu/eli/reg/2004/853/oj?locale=pt), ambos do Parlamento Europeu e do Conselho, de 29 de abril, instituindo o respetivo regime e condições de registo e aprovação.
 
-###### Artigo 2.º — Classificação dos locais de extração, manuseamento ou processamento de mel e outros produtos apícolas e respetivo destino
+Artigo 2.º
+
+Classificação dos locais de extração, manuseamento ou processamento de mel e outros produtos apícolas e respetivo destino
 
 1 - Os locais de extração, manuseamento ou processamento de mel e outros produtos apícolas são classificados em:
 
@@ -181,13 +214,17 @@ b) Qualquer outra instalação de uma empresa do setor alimentar devidamente apr
 
 c) A venda ou cedência, a qualquer título, ao consumidor final ou ao comércio a retalho, dentro da área geográfica da unidade de nível ii da Nomenclatura das Unidades Territoriais para Fins Estatísticos (NUTS II) em que se insere a unidade de produção primária, ou em representações temporárias de produtos regionais, dentro do território nacional, de acordo com as quantidades a definir por portaria do membro do Governo responsável pela área da agricultura.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - As unidades de produção primária carecem de registo na Direção-Geral de Alimentação e Veterinária (DGAV).
 
 2 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O processo de registo de unidade de produção primária inicia-se com a apresentação de requerimento nos serviços da DGAV, dirigido ao diretor-geral de Alimentação e Veterinária, cujo modelo se encontra disponível no portal da DGAV, do qual conste:
 
@@ -211,7 +248,9 @@ a) Cópia do documento de identificação civil e identificação fiscal, no cas
 
 b) No caso de pessoa coletiva, certidão permanente atualizada e cópia do cartão de identificação de pessoa coletiva, sempre que não seja possível a consulta por meios eletrónicos.
 
-###### Artigo 6.º — Aprovação e licenciamento dos estabelecimentos
+Artigo 6.º
+
+Aprovação e licenciamento dos estabelecimentos
 
 1 - A aprovação dos estabelecimentos previstos na alínea b) do n.º 1 do artigo 2.º é concedida pela DGAV, desde que verificados os requisitos gerais exigidos no Regulamento (CE) n.º [852/2004](https://data.europa.eu/eli/reg/2004/852/oj?locale=pt) e os requisitos específicos previstos nos artigos 4.º e 5.º do Regulamento (CE) n.º [853/2004](https://data.europa.eu/eli/reg/2004/853/oj?locale=pt).
 
@@ -221,7 +260,9 @@ b) No caso de pessoa coletiva, certidão permanente atualizada e cópia do cart�
 
 4 - A DGAV assegura a aprovação e publicação de orientação técnica relativa aos procedimentos de licenciamento e aprovação dos estabelecimentos abrangidos pelo presente regime.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 O mel e outros produtos apícolas destinados ao consumo humano só podem ser comercializados quando tiverem uma das seguintes proveniências:
 
@@ -231,7 +272,9 @@ b) Estabelecimentos aprovados nos termos do presente decreto-lei e nas condiçõ
 
 c) Estabelecimentos aprovados ao abrigo do Regulamento (CE) n.º [853/2004](https://data.europa.eu/eli/reg/2004/853/oj?locale=pt).
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Sem prejuízo do cumprimento da legislação relativa à rotulagem geral e específica, os produtos finais devem ostentar:
 
@@ -241,7 +284,9 @@ b) A marca de identificação prevista no artigo 5.º do Regulamento (CE) n.º [
 
 2 - [Revogado.]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -257,7 +302,9 @@ e) [...]
 
 2 - [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -297,15 +344,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de abril de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Manuel Castro Almeida - José Manuel Fernandes.
 
-**Promulgado em 30 de junho de 2026.**
+Promulgado em 30 de junho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 3 de julho de 2026.**
+Referendado em 3 de julho de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -313,7 +360,7 @@ Republicação do [Decreto-Lei n.º 1/2007](https://diariodarepublica.pt/dr/deta
 
 ###### Artigo 1.º — Âmbito
 
-O presente decreto-lei estabelece as condições de funcionamento dos locais de extração, manuseamento ou processamento de mel e outros produtos da apicultura destinados ao consumo humano, complementares aos Regulamentos (CE) n.<sup>os</sup>[852/2004](https://data.europa.eu/eli/reg/2004/852/oj?locale=pt) e [853/2004](https://data.europa.eu/eli/reg/2004/853/oj?locale=pt), ambos do Parlamento Europeu e do Conselho, de 29 de abril, instituindo o respetivo regime e condições de registo e aprovação.
+O presente decreto-lei estabelece as condições de funcionamento dos locais de extração, manuseamento ou processamento de mel e outros produtos da apicultura destinados ao consumo humano, complementares aos Regulamentos (CE) n.os[852/2004](https://data.europa.eu/eli/reg/2004/852/oj?locale=pt) e [853/2004](https://data.europa.eu/eli/reg/2004/853/oj?locale=pt), ambos do Parlamento Europeu e do Conselho, de 29 de abril, instituindo o respetivo regime e condições de registo e aprovação.
 
 ###### Artigo 1.º-A — Definições
 
@@ -466,3 +513,5 @@ O produto das coimas aplicadas pela prática das contraordenações económicas 
 2 - A execução administrativa do presente decreto-lei nas Regiões Autónomas dos Açores e da Madeira cabe aos serviços competentes das respetivas administrações regionais, sem prejuízo das competências atribuídas à DGAV, na qualidade de autoridade sanitária veterinária nacional.
 
 3 - O produto das coimas cobradas nas Regiões Autónomas dos Açores e da Madeira constitui receita própria destas.
+
+119948999

@@ -46,26 +46,50 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/148/2026/07/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2026-1149265697
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-20T00:00:00Z'
+  retrieved_at: '2026-10-22T18:47:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04033baa1f257bf8ae7bc869140c223248d212316a0f0a968ff9c2b612f48324
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38c491051f0159ce87d1ab7a6f70cb91b6c8a7213e67671c21bb70e6ebd083f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:47:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ação Social Escolar
+- Alojamento
+- Apoio Psicológico
+- Bolsa de Estudos
+- Cantina Escolar
+- Conselho de Acção Social Escolar
+- Contraordenação
+- Cuidados Médicos
+- Dados Pessoais
+- Definição de Competências
+- Ensino Superior
+- Estudante
+- Financiamento
+- Fiscalização
+- Fixação de Preços
+- Refeição
+- Regulamentação de Atos Legislativos
+- Residência de Estudantes
 relationships:
+- type: amends
+  target: pt:numero:lei:71/2017
+  label: Altera, a partir de 25 de julho de 2026, com efeitos a 22 de setembro de 2026, o artigo 3.º da Lei n.º 71/2017, de
+    16 de agosto, Diário da República n.º 157/2017, Série I
+  source: null
+  date: '2017-08-15'
 - type: cites
   target: celex:32016R0679
   label: null
@@ -114,16 +138,116 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2025/02/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2025/02/05/p/dre
+- type: cites
+  target: pt:dre:108001407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115764791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216008556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:886919624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:906173693:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:74/2006
+  label: Revoga, a partir de 25 de julho de 2026, a alínea b) do n.º 4 do artigo 46.º-B do Decreto-Lei n.º 74/2006, de 24
+    de março, Diário da República n.º 60/2006, Série I-A
+  source: null
+  date: '2006-03-24'
+- type: repeals
+  target: pt:numero:lei:36/2018
+  label: Revoga, a partir de 25 de julho de 2026, o n.º 4 do artigo 6.º da Lei n.º 36/2018, de 24 de julho, Diário da República
+    n.º 141/2018, Série I
+  source: null
+  date: '2018-07-23'
+- type: repeals
+  target: pt:numero:despacho:7646/2023
+  label: Revoga, a partir de 25 de julho de 2026, nos termos da alínea e) do artigo 36.º do presente diploma, o Despacho n.º
+    7646/2023, de 24 de julho, Diário da República n.º 142/2023, Série II
+  source: null
+  date: '2023-07-23'
+- type: repeals
+  target: pt:numero:lei:8/2025
+  label: Revoga, a partir de 25 de julho de 2026, nos termos da alínea d) do artigo 36.º do presente diploma, a Lei n.º 8/2025,
+    de 5 de fevereiro, Diário da República n.º 25/2025, Série I
+  source: null
+  date: '2025-02-05'
 article_structure:
   article_count: 37
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:47:03Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +256,7 @@ validation:
 
 de 20 de julho
 
-Decorridas mais de duas décadas de aplicação do [Decreto-Lei n.º 129/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1993-692654), de 22 de abril, entretanto alterado pelas Leis n.<sup>os</sup>[113/97](https://diariodarepublica.pt/dr/detalhe/lei/113-1997-649162), de 16 de setembro, e [62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, e pelo [Decreto-Lei n.º 204/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2009-488483), de 31 de agosto, o Governo, através do presente decreto-lei, procede à definição dos princípios e de um novo modelo para a política de ação social escolar no âmbito do ensino superior.
+Decorridas mais de duas décadas de aplicação do [Decreto-Lei n.º 129/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1993-692654), de 22 de abril, entretanto alterado pelas Leis n.os[113/97](https://diariodarepublica.pt/dr/detalhe/lei/113-1997-649162), de 16 de setembro, e [62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, e pelo [Decreto-Lei n.º 204/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2009-488483), de 31 de agosto, o Governo, através do presente decreto-lei, procede à definição dos princípios e de um novo modelo para a política de ação social escolar no âmbito do ensino superior.
 
 Ao longo das últimas décadas, registou-se um aumento significativo da proporção de adultos com formação superior em todos os grupos de rendimento, tendo esse progresso ocorrido de forma desigual, o que se traduziu num agravamento do fosso entre grupos sociais, com ganhos mais acentuados entre os grupos socioeconómicos mais favorecidos. A evidência disponível demonstra que a origem social continua a exercer uma influência determinante nos percursos educativos, com probabilidades substancialmente distintas de atingir o ensino superior em função do nível de escolaridade dos pais. Atendendo a esta realidade, a promoção da igualdade de oportunidades no acesso e na frequência do ensino superior impõe uma intervenção pública ativa e consistente, orientada para contrariar a reprodução das desigualdades sociais e para reduzir os obstáculos económicos que condicionam as escolhas educativas dos estudantes e das suas famílias.
 
@@ -266,7 +390,7 @@ c) Emitir parecer sobre o relatório de atividades, bem como sobre os projetos d
 
 d) Propor mecanismos que garantam a qualidade dos serviços prestados e definir os critérios e os meios para a sua avaliação;
 
-e) Exercer as competências previstas no artigo 10.º, nos n.<sup>os</sup>3 e 4 do artigo 16.º, no n.º 2 do artigo 18.º e no n.º 2 do artigo 23.º, bem como as que lhe são atribuídas na restante legislação e regulamentação aplicável.
+e) Exercer as competências previstas no artigo 10.º, nos n.os3 e 4 do artigo 16.º, no n.º 2 do artigo 18.º e no n.º 2 do artigo 23.º, bem como as que lhe são atribuídas na restante legislação e regulamentação aplicável.
 
 2 - Sem prejuízo do disposto no número anterior, o Conselho de Ação Social Escolar pode promover outros mecanismos de apoio ao estudante considerados adequados para a respetiva instituição de ensino superior.
 
@@ -494,7 +618,7 @@ a) Da contraordenação prevista no n.º 1 é punível com coima de 5000 € a 1
 
 b) Da contraordenação prevista no número anterior é punível com coima de 200 € a 400 €.
 
-4 - Nas contraordenações previstas nos n.<sup>os</sup>1 e 2, a tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada.
+4 - Nas contraordenações previstas nos n.os1 e 2, a tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada.
 
 5 - Pela prática da contraordenação prevista no n.º 2, e em função da respetiva gravidade e da culpa do agente, pode ser aplicada, para além da coima, a sanção acessória prevista na alínea c) do n.º 1 do artigo 21.º do regime geral do ilícito de mera ordenação social, constante do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro, a qual pode abranger:
 
@@ -608,7 +732,7 @@ O presente decreto-lei não prejudica o regime especial das instituições do en
 
 São revogados:
 
-a) O [Decreto-Lei n.º 129/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1993-692654), de 22 de abril, alterado pelas Leis n.<sup>os</sup>[113/97](https://diariodarepublica.pt/dr/detalhe/lei/113-1997-649162), de 16 de setembro, e [62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, e pelo [Decreto-Lei n.º 204/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2009-488483) de 31 de agosto;
+a) O [Decreto-Lei n.º 129/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1993-692654), de 22 de abril, alterado pelas Leis n.os[113/97](https://diariodarepublica.pt/dr/detalhe/lei/113-1997-649162), de 16 de setembro, e [62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, e pelo [Decreto-Lei n.º 204/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2009-488483) de 31 de agosto;
 
 b) A alínea b) do n.º 4 do artigo 46.º-B do [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de março;
 
@@ -624,12 +748,14 @@ O disposto no artigo 3.º da [Lei n.º 71/2017](https://diariodarepublica.pt/dr/
 
 Visto e aprovado em Conselho de Ministros de 21 de maio de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Fernando Alexandre - Rosário Palma Ramalho.
 
-**Promulgado em 10 de julho de 2026.**
+Promulgado em 10 de julho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 13 de julho de 2026.**
+Referendado em 13 de julho de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119949063

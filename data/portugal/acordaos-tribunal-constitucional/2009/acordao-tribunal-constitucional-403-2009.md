@@ -8,9 +8,10 @@ summary: 'A - Declara a inconstitucionalidade, com força obrigatória geral, da
   do artigo 4.º, n.º 4, primeira parte; 2) das normas constantes do artigo 7.º, n.º 1, alíneas i) e j); 3) das normas constantes
   dos artigos 7.º, n.º 1, alínea o), 47.º, n.º 4, alínea c), 67.º, alínea d), 101.º, n.º 1, alínea n), e 130.º; 4) da norma
   constante do artigo 114.º, na parte relativa à dissolução da Assembleia Legislativa; 5) da norma constante do artigo 119.º,
-  n.os 1 a 5; 6) da norma constante do artigo 140.º, n.º 2. B - Não declara a inconstitucionalidade das normas constantes
-  dos artigos 34.º, alínea m), e 124.º, n.º 2, do Estatuto Político-Administrativo da Região Autónoma dos Açores, na redacção
-  que lhe foi conferida pela Lei n.º 2/2009, de 12 de Janeiro'
+  n.os 1 a 5; 6) da norma constante do artigo 140.º, n.º 2.
+
+  B - Não declara a inconstitucionalidade das normas constantes dos artigos 34.º, alínea m), e 124.º, n.º 2, do Estatuto Político-Administrativo
+  da Região Autónoma dos Açores, na redacção que lhe foi conferida pela Lei n.º 2/2009, de 12 de Janeiro'
 jurisdiction: portugal
 territory: null
 document_type: acordao-tribunal-constitucional
@@ -53,18 +54,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/403/2009/09/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/403-2009-490240
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-16T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af982485b2422ab5c84e86581c19b4d7905d775335d20f36c9d26d43423da9a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 684bf67b7883e794cc985303a58432da8de40ba51ebfb16921e477ba80b74214
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,9 +73,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Estatuto Político-administrativo da Região Autónoma dos Açores
 - Inconstitucionalidade
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/2/2009/01/12/p/dre
@@ -84,16 +85,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/9/1991/04/09/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/9/1991/04/09/p/dre
+- type: cites
+  target: pt:dre:397322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666521:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:48Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +143,9 @@ Símbolos da Região
 
 4 - A bandeira da Região é hasteada nas instalações dependentes dos órgãos de soberania na Região e dos órgãos de governo próprio ou de entidades por eles tuteladas, bem como nas autarquias locais dos Açores.
 
-###### Artigo 7.º — Direitos da Região
+Artigo 7.º
+
+Direitos da Região
 
 1 - São direitos da Região, para além dos enumerados no n.º 1 do artigo 227.º da Constituição:
 
@@ -140,7 +163,9 @@ o) O direito a criar provedores sectoriais regionais;
 
 ...
 
-###### Artigo 34.º — Competência política da Assembleia Legislativa
+Artigo 34.º
+
+Competência política da Assembleia Legislativa
 
 Compete à Assembleia Legislativa:
 
@@ -150,7 +175,9 @@ m) Aprovar acordos de cooperação com entidades regionais ou locais estrangeira
 
 ...
 
-###### Artigo 47.º — Discussão e votação
+Artigo 47.º
+
+Discussão e votação
 
 ...
 
@@ -160,7 +187,9 @@ m) Aprovar acordos de cooperação com entidades regionais ou locais estrangeira
 
 c) A eleição de provedores sectoriais regionais.
 
-###### Artigo 67.º — Outras matérias
+Artigo 67.º
+
+Outras matérias
 
 Compete ainda à Assembleia Legislativa legislar nas seguintes matérias:
 
@@ -170,7 +199,9 @@ d) A criação e estatuto dos provedores sectoriais regionais;
 
 ...
 
-###### Artigo 101.º — Incompatibilidades
+Artigo 101.º
+
+Incompatibilidades
 
 1 - São incompatíveis com o exercício do mandato de deputado à Assembleia Legislativa os seguintes cargos ou funções:
 
@@ -180,11 +211,15 @@ n) Provedores sectoriais regionais;
 
 ...
 
-###### Artigo 114.º — Audição pelo Presidente da República sobre o exercício de competências políticas
+Artigo 114.º
+
+Audição pelo Presidente da República sobre o exercício de competências políticas
 
 Os órgãos de governo regional devem ser ouvidos pelo Presidente da República antes da dissolução da Assembleia Legislativa e da marcação da data para a realização de eleições regionais ou de referendo regional, nos termos do n.º 2 do artigo 229.º da Constituição.
 
-###### Artigo 119.º — Audição qualificada
+Artigo 119.º
+
+Audição qualificada
 
 1 - A Assembleia da República e o Governo da República adoptam o procedimento de audição qualificada, nos seguintes casos:
 
@@ -202,13 +237,17 @@ c) Iniciativas legislativas destinadas à transferência de atribuições ou com
 
 5 - Decorrendo o prazo previsto no número anterior, o órgão de soberania decide livremente.
 
-###### Artigo 124.º — Relações externas com outras entidades
+Artigo 124.º
+
+Relações externas com outras entidades
 
 ...
 
 2 - No âmbito do número anterior, a Região pode, através do Governo Regional, estabelecer ou aceder a acordos de cooperação com entidades de outros Estados.
 
-###### Artigo 130.º — Provedores sectoriais regionais
+Artigo 130.º
+
+Provedores sectoriais regionais
 
 1 - A Região pode criar provedores sectoriais regionais que, respeitando as atribuições do Provedor de Justiça e em coordenação com este, recebam queixas dos cidadãos por acções ou omissões de órgãos ou serviços da administração regional autónoma, de organismos públicos ou privados que dela dependam, de empresas privadas encarregadas da gestão de serviços públicos regionais ou que realizem actividades de interesse geral ou universal no âmbito regional.
 
@@ -218,7 +257,9 @@ c) Iniciativas legislativas destinadas à transferência de atribuições ou com
 
 4 - A criação de um provedor sectorial regional não envolve qualquer restrição ao direito de queixa ao Provedor de Justiça ou às suas competências.
 
-###### Artigo 140.º — Alteração do projecto pela Assembleia da República
+Artigo 140.º
+
+Alteração do projecto pela Assembleia da República
 
 ...
 

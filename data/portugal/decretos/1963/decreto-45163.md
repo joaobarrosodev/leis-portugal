@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45163-1963-693627
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-07-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:35:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 966b5845a9de8eb26cd7d76b676b44ed4b5b3cc85a269117d66bda0035932c41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99a9529b10ce236c627e874364783c3b267ac4813435545c511ccc6093f818cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:35:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:182785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218084:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:35:58Z'
   warnings: []
   errors: []
 ---
@@ -89,13 +97,13 @@ Ouvidas as estações competentes;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São submetidos ao regime florestal parcial obrigatório os 252 prédios constantes da lista em anexo, com a área total de 8634,96 ha, e situados no concelho de Serpa, freguesia de Santa Maria.
+Artigo 1.º São submetidos ao regime florestal parcial obrigatório os 252 prédios constantes da lista em anexo, com a área total de 8634,96 ha, e situados no concelho de Serpa, freguesia de Santa Maria.
 
-###### Art. 2.º A arborização será efectuada de acordo com o estabelecido no artigo 13.º e seus parágrafos da [Lei n.º 2069](https://diariodarepublica.pt/dr/detalhe/lei/2069-1954-218084), de 24 de Abril de 1954.
+Art. 2.º A arborização será efectuada de acordo com o estabelecido no artigo 13.º e seus parágrafos da [Lei n.º 2069](https://diariodarepublica.pt/dr/detalhe/lei/2069-1954-218084), de 24 de Abril de 1954.
 
-###### Art. 3.º A execução do presente decreto só terá lugar decorrido o prazo de 30 dias, a contar da data de afixação dos editais regulamentares nos lugares públicos do costume do concelho e freguesia da situação das propriedades.
+Art. 3.º A execução do presente decreto só terá lugar decorrido o prazo de 30 dias, a contar da data de afixação dos editais regulamentares nos lugares públicos do costume do concelho e freguesia da situação das propriedades.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Julho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Luís Le Cocq de Albuquerque de Azevedo Coutinho.
 
@@ -105,6 +113,6 @@ Concelho de Serpa
 
 Freguesia de Santa Maria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/07/17600/10201022.pdf))](https://files.diariodarepublica.pt/1s/1963/07/17600/10201022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/07/17600/10201022.pdf)
 
 Ministério da Economia, 27 de Julho de 1963. - O Secretário de Estado da Agricultura, Luís Le Coq de Albuquerque de Azevedo Coutinho.

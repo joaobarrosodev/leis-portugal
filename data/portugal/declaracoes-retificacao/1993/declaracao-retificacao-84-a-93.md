@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 101/1993, 4º Suplemento, Série I-B de 1993-04-30
   number: '101'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 2218-(14) a 2218-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/04/101b04/00140016.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/84-a/1993/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/84-a-1993-425567
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:39:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4db08d77d546ea37c984563684eda70963326ab065b76e39a7700be5e858bd91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ea815812aecb80b42e8b595aedb3b6a98f005565e4ad9b1d27d80351697ca40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:39:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - FAFE
-- Política de Solos
+- Ordenamento do Território
 - Plano de Pormenor
+- Política de Solos
 - Zona Industrial
 relationships:
+- type: amended_by
+  target: pt:dre:1528045:por
+  label: "Tornada pública a aprovação pela Assembleia Municipal de Fafe da alteração ao Plano de Pormenor da Zonda Industrial\
+    \ do Socorro, ratificado pela Port 265/93 de 09-mar, retificada pelo presente diploma, pelo EDITAL.1184/2008.24.11.2008.CMFAFE,\
+    \ DR.IIS [228] de 24.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/edital/1184-2008-1528045
+  date: '2008-11-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/265/1993/03/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/265/1993/03/09/p/dre
+- type: cites
+  target: pt:dre:628525:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:39:36Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 84-A/93
+# Declaração de rectificação n.º 84-A/93
 
 Segundo comunicação do Ministério do Planeamento e da Administração do Território, o Regulamento anexo à [Portaria n.º 265/93](https://diariodarepublica.pt/dr/detalhe/portaria/265-1993-628525), publicada no Diário da República, 1.ª série, n.º 57, de 9 de Março de 1993, cujo original se encontra arquivado nesta Secretaria-Geral, não foi, por lapso, publicado, pelo que se procede à sua publicação:
 
@@ -99,13 +110,13 @@ Regulamento do Plano de Pormenor da Zona Industrial do Socorro
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º A Zona Industrial criada pelo presente Plano de Pormenor destina-se à instalação de unidades industriais, oficinas, armazéns e outras actividades que pelas suas características se revelem desinseridas do contexto urbano, agrícola ou de protecção ambiental.
+Artigo 1.º A Zona Industrial criada pelo presente Plano de Pormenor destina-se à instalação de unidades industriais, oficinas, armazéns e outras actividades que pelas suas características se revelem desinseridas do contexto urbano, agrícola ou de protecção ambiental.
 
 Em termos de acessos apoia-se na circular este do concelho de Fafe, que liga o IC5 à via circular de Fafe na extensão de cerca de 700 m. Presentemente esta área é servida pelo CM 1670 que entronca a EN 206 em Docim.
 
-###### Art. 2.º O presente Regulamento aplica-se a todas as construções a edificar na área abrangida pelo presente Plano de Pormenor da Zona Industrial.
+Art. 2.º O presente Regulamento aplica-se a todas as construções a edificar na área abrangida pelo presente Plano de Pormenor da Zona Industrial.
 
-###### Art. 3.º A área de intervenção do Plano de Pormenor é constituída pelas seguintes zonas delimitadas na planta de síntese:
+Art. 3.º A área de intervenção do Plano de Pormenor é constituída pelas seguintes zonas delimitadas na planta de síntese:
 
 Zona de lotes industriais;
 
@@ -117,11 +128,11 @@ Zona verde de protecção.
 
 ### CAPÍTULO II — Zona de lotes industriais
 
-###### Art. 4.º A zona de lotes industriais é constituída pelas áreas destinadas à instalação de unidades industriais.
+Art. 4.º A zona de lotes industriais é constituída pelas áreas destinadas à instalação de unidades industriais.
 
-###### Art. 5.º A construção das instalações depende de projecto aprovado pela Câmara Municipal e pelas entidades competentes, devendo ser elaborado nos termos da legislação em vigor, e pelo presente Regulamento.
+Art. 5.º A construção das instalações depende de projecto aprovado pela Câmara Municipal e pelas entidades competentes, devendo ser elaborado nos termos da legislação em vigor, e pelo presente Regulamento.
 
-###### Art. 6.º A ocupação, construção e implantação dos lotes far-se-á de acordo com as seguintes regras:
+Art. 6.º A ocupação, construção e implantação dos lotes far-se-á de acordo com as seguintes regras:
 
 1) A percentagem máxima de ocupação líquida será = 0,65;
 
@@ -165,7 +176,7 @@ b) Na cobertura - preferencialmente deverá ir-se para materiais de revestimento
 
 15) Todos os painéis publicitários ou indicadores utilizados deverão ser à base de materiais inalteráveis aos agentes atmosféricos.
 
-###### Art. 7.º As vedações dos lotes deverão cumprir os seguintes condicionalismos:
+Art. 7.º As vedações dos lotes deverão cumprir os seguintes condicionalismos:
 
 1) As frentes da fachada deverão ajustar-se ao plano da Zona Industrial, atendendo às normas já descritas;
 
@@ -181,7 +192,7 @@ Quando existirem diferenças de níveis de terreno superiores a 1 m entre pontos
 
 ### CAPÍTULO III — Zona de serviços
 
-###### Art. 8.º - 1 - Na zona de serviços constituída por duas parcelas de terrenos destinada a apoiar a zona industrial prevê-se a instalação de serviços públicos, administrativos, instalações técnicas, sociais, transportadoras e transitórios, indústrias hoteleiras e similares e outros que a Câmara Municipal de Fafe entenda de interesse para um melhor funcionamento da Zona Industrial.
+Art. 8.º - 1 - Na zona de serviços constituída por duas parcelas de terrenos destinada a apoiar a zona industrial prevê-se a instalação de serviços públicos, administrativos, instalações técnicas, sociais, transportadoras e transitórios, indústrias hoteleiras e similares e outros que a Câmara Municipal de Fafe entenda de interesse para um melhor funcionamento da Zona Industrial.
 
 2 - As construções instaladas nesta zona obedecerão à seguinte disciplina urbanística:
 
@@ -195,23 +206,23 @@ c) Os afastamentos dos edifícios à rede viária serão iguais ao estabelecido 
 
 ### CAPÍTULO IV — Zona de arruamentos e passeios
 
-###### Art. 9.º A rede viária interna é constituída por um arruamento transversal principal pelo qual se irá processar o acesso à Zona Industrial a partir da futura circular este projectada que no presente liga ao CM 1670, um arruamento envolvente a norte, paralelo à futura circular este, e outros arruamentos transversais e secundários.
+Art. 9.º A rede viária interna é constituída por um arruamento transversal principal pelo qual se irá processar o acesso à Zona Industrial a partir da futura circular este projectada que no presente liga ao CM 1670, um arruamento envolvente a norte, paralelo à futura circular este, e outros arruamentos transversais e secundários.
 
 ### CAPÍTULO V — Zonas e espaços verdes
 
-###### Art. 10.º As faixas envolventes à Zona Industrial a norte e poente paralelas à futura circular este e IC5, as faixas na parte posterior dos lotes do limite sul e os espaços ajardinados em frente aos lotes constituirão as zonas verdes desta zona industrial.
+Art. 10.º As faixas envolventes à Zona Industrial a norte e poente paralelas à futura circular este e IC5, as faixas na parte posterior dos lotes do limite sul e os espaços ajardinados em frente aos lotes constituirão as zonas verdes desta zona industrial.
 
-###### Art. 11.º A plantação de árvores nas faixas envolventes a norte e poente da Zona Industrial e compreendidas entre o arruamento envolvente e a futura circular este e o IC5 será promovida pela Câmara. A faixa na parte posterior compreendida entre os lotes n.os 77 e 105 será plantada pelos seus proprietários com espécies a indicar e a fornecer pela Câmara. Esta faixa deverá constituir uma cortina verde com 4 m de largura, no mínimo. Esta cortina verde de protecção terá também de se verificar na faixa da zona administrativa confinante com os lotes n.os 1, 14, 28 e 43.
+Art. 11.º A plantação de árvores nas faixas envolventes a norte e poente da Zona Industrial e compreendidas entre o arruamento envolvente e a futura circular este e o IC5 será promovida pela Câmara. A faixa na parte posterior compreendida entre os lotes n.os 77 e 105 será plantada pelos seus proprietários com espécies a indicar e a fornecer pela Câmara. Esta faixa deverá constituir uma cortina verde com 4 m de largura, no mínimo. Esta cortina verde de protecção terá também de se verificar na faixa da zona administrativa confinante com os lotes n.os 1, 14, 28 e 43.
 
-###### Art. 12.º Os espaços ajardinados na frente dos lotes são considerados semipúblicos. A sua manutenção será obrigatória e competirá ao respectivo ocupante.
+Art. 12.º Os espaços ajardinados na frente dos lotes são considerados semipúblicos. A sua manutenção será obrigatória e competirá ao respectivo ocupante.
 
 Todas as vedações devem ser acompanhadas de uma faixa mínima de 0,50 m para implantação de sebes arbustivas e árvores de porte.
 
-###### Art. 13.º Todas as unidades fabris devem encerrar no interior do lote que ocupam, entre os corpos da construção que as formam, espaços livres na proporção de 25% da área de que disponham, para criar uma envolvência verde que possibilite uma melhor integração na paisagem.
+Art. 13.º Todas as unidades fabris devem encerrar no interior do lote que ocupam, entre os corpos da construção que as formam, espaços livres na proporção de 25% da área de que disponham, para criar uma envolvência verde que possibilite uma melhor integração na paisagem.
 
 ### CAPÍTULO VI — Infra-estruturas
 
-###### Art. 14.º - 1 - A realização dos arruamentos, as redes gerais de abastecimento de água, a drenagem de esgotos de águas pluviais e domésticas, o tratamento final dos esgotos, o abastecimento de energia eléctrica em baixa e média tensão e a iluminação pública serão da responsabilidade da Câmara, assim como a sua manutenção.
+Art. 14.º - 1 - A realização dos arruamentos, as redes gerais de abastecimento de água, a drenagem de esgotos de águas pluviais e domésticas, o tratamento final dos esgotos, o abastecimento de energia eléctrica em baixa e média tensão e a iluminação pública serão da responsabilidade da Câmara, assim como a sua manutenção.
 
 2 - Os esgotos industriais só poderão ser lançados nos colectores gerais sem serem submetidos a um tratamento primário e específico se as suas características biológicas e bacteriológicas não ultrapassarem os limites de tolerância que forem fixados pela Câmara Municipal de Fafe. Caso se verifique a necessidade de tratamento primário, todos os encargos decorrentes da sua construção, instalação, funcionamento, etc., são suportados pelo ocupante do lote, sem prejuízo do cumprimento da legislação aplicável. Este tratamento primário carece de aprovação da Câmara Municipal de Fafe.
 
@@ -223,7 +234,7 @@ Todas as vedações devem ser acompanhadas de uma faixa mínima de 0,50 m para i
 
 ### CAPÍTULO VII — Controlo ambiental
 
-###### Art. 15.º - 1 - Não é permitida a utilização para fins industriais, incluindo armazenagem ou depósito de materiais, lixos, desperdícios, sucata e outros das áreas não edificáveis descobertas dos lotes. Os ocupantes dos lotes são obrigados a manterem estes espaços limpos e à manutenção dos espaços ajardinados.
+Art. 15.º - 1 - Não é permitida a utilização para fins industriais, incluindo armazenagem ou depósito de materiais, lixos, desperdícios, sucata e outros das áreas não edificáveis descobertas dos lotes. Os ocupantes dos lotes são obrigados a manterem estes espaços limpos e à manutenção dos espaços ajardinados.
 
 2 - O depósito ou armazenagem a descoberto só é possível com autorização específica da Câmara Municipal de Fafe.
 
@@ -237,7 +248,7 @@ Todas as vedações devem ser acompanhadas de uma faixa mínima de 0,50 m para i
 
 ### CAPÍTULO VIII — Uso e utilização
 
-###### Art. 16.º - 1 - As indústrias que contribuam para a diversificação do tecido industrial do concelho, as que se apoiem em novas tecnologias ou que tenham uma componente significativa de inovação tecnológica terão um estatuto privilegiado e estarão isentas de taxas de licenciamento da construção.
+Art. 16.º - 1 - As indústrias que contribuam para a diversificação do tecido industrial do concelho, as que se apoiem em novas tecnologias ou que tenham uma componente significativa de inovação tecnológica terão um estatuto privilegiado e estarão isentas de taxas de licenciamento da construção.
 
 2 - Os processos de licenciamento das instalações industriais terão de observar as disposições legais em vigor aplicáveis, as normas relativas à rejeição de efluentes e de resíduos, à protecção contra o ruído, à segurança contra riscos de incêndio e ao conforto térmico e demais legislação aplicável.
 
@@ -245,7 +256,7 @@ Todas as vedações devem ser acompanhadas de uma faixa mínima de 0,50 m para i
 
 ### CAPÍTULO IX — Legislação aplicável
 
-###### Art. 17.º - 1 - As disposições do presente Regulamento em caso algum dispensam o cumprimento de toda a legislação aplicável a cada caso concreto de unidade a instalar na Zona Industrial, às respectivas actividades e normas de controlo ambiental.
+Art. 17.º - 1 - As disposições do presente Regulamento em caso algum dispensam o cumprimento de toda a legislação aplicável a cada caso concreto de unidade a instalar na Zona Industrial, às respectivas actividades e normas de controlo ambiental.
 
 2 - Em todos os casos omissos neste Regulamento deverá ser observado o disposto nos regulamentos e normas em vigor.
 

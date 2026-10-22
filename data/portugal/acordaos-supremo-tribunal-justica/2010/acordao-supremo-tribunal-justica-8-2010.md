@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/8/2010/09/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/8-2010-342118
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-23T00:00:00Z'
+  retrieved_at: '2026-10-22T17:52:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 048f7c7f928e3f151f68c8bb027d2420e4d15f74e6f0307969c37da74a8ae0b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d726a06e30f864a913a3242116056412cd7a181310a4fc31c69a69d8ecf1b981
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:52:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -114,16 +114,208 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:52:54Z'
   warnings: []
   errors: []
 ---
@@ -474,11 +666,11 @@ Trata-se de um 'código tributário', 'específico', contendo um direito penal e
 
 A parte ii do RJIFNA, sob a epígrafe 'Das Infracções fiscais em especial' continha um capítulo i, 'Dos crimes fiscais', abrangendo os ilícitos criminais de:
 
-###### Artigo 23.º - Fraude fiscal;
+Artigo 23.º - Fraude fiscal;
 
-###### Artigo 24.º - Abuso de confiança fiscal;
+Artigo 24.º - Abuso de confiança fiscal;
 
-###### Artigo 25.º - Frustração de créditos fiscais.
+Artigo 25.º - Frustração de créditos fiscais.
 
 E o capítulo ii dedicado às contra-ordenações fiscais.
 
@@ -610,13 +802,13 @@ Segundo a sistemática do Regime Geral, na parte que ora nos interessa, há que 
 
 Aí incluem-se no título i, «Crimes tributários', as seguintes categorias:
 
-### Capítulo I - Crimes tributários comuns (artigos 87.º a 91.º);
+Capítulo I - Crimes tributários comuns (artigos 87.º a 91.º);
 
-### Capítulo II - Crimes aduaneiros (artigos 92.º a 102.º);
+Capítulo II - Crimes aduaneiros (artigos 92.º a 102.º);
 
-### Capítulo III - Crimes fiscais (artigos 103.º a 105.º);
+Capítulo III - Crimes fiscais (artigos 103.º a 105.º);
 
-### Capítulo IV - Crimes contra a segurança social (artigos 106.º e 107.º).
+Capítulo IV - Crimes contra a segurança social (artigos 106.º e 107.º).
 
 No título ii dedicado às 'Contra-ordenações tributárias', incluem-se o capítulo i, 'Contra-ordenações aduaneiras' (artigos 108.º a 112.º) e capítulo ii, 'Contra-ordenações fiscais' (artigos 113.º a 127.º).
 

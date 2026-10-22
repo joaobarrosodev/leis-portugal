@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43896-1961-180995
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-09-06T00:00:00Z'
+  retrieved_at: '2026-10-22T19:25:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 003e7555f3ae80b5d3d401be65073ee7235cadab4cd650842b7f937c5fda5825
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75345a4ac2b8f9f82a06aa97f17b9d97d0ef1b736627c61554ab7058bfe45f68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:25:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:25:27Z'
   warnings: []
   errors: []
 ---
@@ -96,29 +96,29 @@ Ouvido o Conselho Ultramarino;
 
 Usando da competência prevista no n.º 5.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º As áreas dos concelhos que não constituírem freguesias e as áreas das circunscrições dividem-se em regedorias, que podem identificar-se pela designação estabelecida pelo uso regional e se agrupam por postos administrativos.
+Artigo 1.º As áreas dos concelhos que não constituírem freguesias e as áreas das circunscrições dividem-se em regedorias, que podem identificar-se pela designação estabelecida pelo uso regional e se agrupam por postos administrativos.
 
 § único. Quando a sua extensão o justifique, as regedorias podem ser divididas em grupos de povoações e em povoações.
 
-###### Art. 2.º A cada regedoria pertencem todos os indivíduos que, tendo domicílio na respectiva área, devem considerar-se vizinhos segundo o direito tradicional.
+Art. 2.º A cada regedoria pertencem todos os indivíduos que, tendo domicílio na respectiva área, devem considerar-se vizinhos segundo o direito tradicional.
 
-###### Art. 3.º Em cada regedoria, grupo de povoações ou povoação haverá respectivamente um regedor, um chefe de grupo de povoações ou chefe de povoação, competindo a cada um deles exercer as funções que lhe forem atribuídas pela lei, pelo uso local que não contrariar a lei e ainda as que lhe forem delegadas pelas autoridades administrativas de quem hieràrquicamente dependam.
+Art. 3.º Em cada regedoria, grupo de povoações ou povoação haverá respectivamente um regedor, um chefe de grupo de povoações ou chefe de povoação, competindo a cada um deles exercer as funções que lhe forem atribuídas pela lei, pelo uso local que não contrariar a lei e ainda as que lhe forem delegadas pelas autoridades administrativas de quem hieràrquicamente dependam.
 
 § 1.º Os regedores são investidos pelo governador do distrito ou de província, ouvidos os vizinhos na forma do costume. Os chefes de grupo de povoações ou de povoação serão investidos, nos mesmos termos, pelo administrador. Os governadores fixarão a remuneração das autoridades acima referidas. Compete às autoridades que conferem as investiduras exonerar os titulares dos referidos cargos.
 
 § 2.º Na qualidade de chefes das milícias tradicionais das regedorias, os regedores e chefes de grupo de povoações ou povoação devem observar e fazer respeitar disposto nos regulamentos de disciplina militar.
 
-###### Art. 4.º Junto de cada regedor poderá haver um conselho, de sua escolha, formado pelos homens bons de maior respeitabilidade da regedoria ou povoação, tendo par dever auxiliar o regedor no exercício das suas funções. A designação e substituição dos conselheiros deve ser homologada pela autoridade administrativa de que imediatamente dependa o regedor.
+Art. 4.º Junto de cada regedor poderá haver um conselho, de sua escolha, formado pelos homens bons de maior respeitabilidade da regedoria ou povoação, tendo par dever auxiliar o regedor no exercício das suas funções. A designação e substituição dos conselheiros deve ser homologada pela autoridade administrativa de que imediatamente dependa o regedor.
 
 § único. Os homens bons que fizerem parte do conselho terão a designação que, por uso antigo, lhes pertencer, e os regedores poderão confiar-lhes a direcção de determinados negócios da regedoria.
 
-###### Art. 5.º Os chefes de grupo de povoações ou povoação estão directamente subordinados aos regedores; estes ficam na dependência da autoridade administrativa.
+Art. 5.º Os chefes de grupo de povoações ou povoação estão directamente subordinados aos regedores; estes ficam na dependência da autoridade administrativa.
 
 § único. As ordens e instruções serão transmitidas às autoridades acima mencionadas, quer directamente pelo administrador, quer pelos chefes dos postos administrativos em cuja área residirem.
 
-###### Art. 6.º As regedorias terão representantes, escolhidos pela forma legal, nos conselhos legislativos ou do governo de cada província.
+Art. 6.º As regedorias terão representantes, escolhidos pela forma legal, nos conselhos legislativos ou do governo de cada província.
 
-###### Art. 7.º Sempre que se formem aglomerados populacionais que não constituam regedorias tradicionais e não possam constituir uma freguesia, poderão as autoridades administrativas nomear, de entre os habitantes, regedores administrativos e cabos de ordens, com funções policiais e de auxiliares da Administração. Publique-se e cumpra-se como nele se contém.
+Art. 7.º Sempre que se formem aglomerados populacionais que não constituam regedorias tradicionais e não possam constituir uma freguesia, poderão as autoridades administrativas nomear, de entre os habitantes, regedores administrativos e cabos de ordens, com funções policiais e de auxiliares da Administração. Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Setembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

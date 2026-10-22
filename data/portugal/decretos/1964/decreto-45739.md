@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45739-1964-576570
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:40:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bad955618260b63e7829f3d70481cc74dbac02a97ec4fe3074455677c6876e49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13892855f0ffaec8b9ccf0ef9e748dae3150086301c591c2da9bf63f40fd0330
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:40:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:40:42Z'
   warnings: []
   errors: []
 ---
@@ -117,23 +117,23 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Nas sedes dos distritos judiciais de Luanda e Lourenço Marques é criado um Cofre Geral dos Registos e do Notariado, com jurisdição em todo o distrito, abrangendo todos os serviços dos registos e do notariado e de identificação civil.
+Artigo 1.º Nas sedes dos distritos judiciais de Luanda e Lourenço Marques é criado um Cofre Geral dos Registos e do Notariado, com jurisdição em todo o distrito, abrangendo todos os serviços dos registos e do notariado e de identificação civil.
 
 § único. O cofre do distrito judicial de Luanda compreenderá a comarca de S. Tomé. Quando as circunstâncias o aconselharem, os serviços respectivos das comarcas da Guiné, Sotavento e Barlavento podem ser mandados integrar nesse cofre por portaria do Ministro do Ultramar.
 
-###### Art. 2.º A gerência do Cofre é cometida a um conselho administrativo constituído pelo procurador da República, que servirá de presidente, pelo seu ajudante mais antigo, por um notário e por um conservador, designado de dois em dois anos pela Direcção-Geral de Justiça.
+Art. 2.º A gerência do Cofre é cometida a um conselho administrativo constituído pelo procurador da República, que servirá de presidente, pelo seu ajudante mais antigo, por um notário e por um conservador, designado de dois em dois anos pela Direcção-Geral de Justiça.
 
 Servirá de secretário sem voto o funcionário da procuradoria da República, com categoria não inferior a primeiro-oficial, que o procurador da República designar.
 
 § único. O conselho administrativo reunirá obrigatòriamente duas vezes em cada mês, em sessões ordinárias, podendo o presidente, por iniciativa própria ou proposta de qualquer dos vogais, convocar sessões extraordinárias, sempre que a conveniência do serviço o exija.
 
-###### Art. 3.º Os membros do conselho administrativo terão direito a uma senha de presença de harmonia com o quadro anexo.
+Art. 3.º Os membros do conselho administrativo terão direito a uma senha de presença de harmonia com o quadro anexo.
 
-###### Art. 4.º Os serviços do Cofre serão assegurados pelo secretário, podendo o conselho administrativo contratar o pessoal auxiliar que for reconhecido necessário.
+Art. 4.º Os serviços do Cofre serão assegurados pelo secretário, podendo o conselho administrativo contratar o pessoal auxiliar que for reconhecido necessário.
 
 § único. O pessoal contratado não poderá ter categoria superior a aspirante e será pago pelas receitas do Cofre.
 
-###### Art. 5.º Constituem receita do Cofre Geral dos Registos e do Notariado:
+Art. 5.º Constituem receita do Cofre Geral dos Registos e do Notariado:
 
 a) As taxas de reembolso cobradas nos termos das tabelas de emolumentos notariais e dos serviços dos registos;
 
@@ -147,7 +147,7 @@ e) Uma taxa de 1$00 a incidir sobre todos os títulos passados pelos serviços d
 
 f) Quaisquer outras receitas que lhe forem atribuídas por portaria do Ministro do Ultramar.
 
-###### Art. 6.º Serão satisfeitas pelo Cofre Geral dos Registos e do Notariado:
+Art. 6.º Serão satisfeitas pelo Cofre Geral dos Registos e do Notariado:
 
 1.º A aquisição de livros, impressos e mais expediente e encadernação de livros de registo e de actos dos serviços de registo e do notariado;
 
@@ -157,17 +157,17 @@ f) Quaisquer outras receitas que lhe forem atribuídas por portaria do Ministro 
 
 4.º Os vencimentos, ajudas de custo e deslocação dos inspectores-contadores e os vencimentos do pessoal contratado nos termos do artigo 4.º
 
-###### Art. 7.º O conselho administrativo deverá elaborar, até o dia 15 de Dezembro de cada ano, o projecto do orçamento do Cofre Geral, em face dos projectos dos orçamentos dos organismos integrados no Cofre e tendo em consideração o necessário equilíbrio das receitas e despesas.
+Art. 7.º O conselho administrativo deverá elaborar, até o dia 15 de Dezembro de cada ano, o projecto do orçamento do Cofre Geral, em face dos projectos dos orçamentos dos organismos integrados no Cofre e tendo em consideração o necessário equilíbrio das receitas e despesas.
 
 § 1.º Para os efeitos do disposto no corpo deste artigo, todos os serviços integrados no Cofre Geral deverão elaborar, até o dia 2 de Novembro de cada ano e em duplicado, o projecto do seu orçamento anual, com começo de vigência em 1 de Janeiro, das despesas a efectuar por conta do Cofre Geral.
 
 § 2.º Os serviços dos registos e do notariado remeterão os seus projectos à procuradoria da República junto da Relação sede do Cofre Geral, que, nos quinze dias imediatos, os remeterá ao conselho administrativo do Cofre Geral depois de verificados e corrigidos e organizados em processo único.
 
-###### Art. 8.º Aprovados os orçamentos, o conselho administrativo devolverá aos respectivos serviços o duplicado do seu orçamento parcelar, até o dia 11 de Dezembro.
+Art. 8.º Aprovados os orçamentos, o conselho administrativo devolverá aos respectivos serviços o duplicado do seu orçamento parcelar, até o dia 11 de Dezembro.
 
-###### Art. 9.º Na elaboração dos orçamentos observar-se-ão as regras estabelecidas para a elaboração dos orçamentos da Fazenda Nacional.
+Art. 9.º Na elaboração dos orçamentos observar-se-ão as regras estabelecidas para a elaboração dos orçamentos da Fazenda Nacional.
 
-###### Art. 10.º As dotações orçamentais para cada espécie de despesa serão utilizáveis por duodécimos, não podendo realizar-se qualquer despesa que não tenha cabimento nos duodécimos vencidos da verba correspondente.
+Art. 10.º As dotações orçamentais para cada espécie de despesa serão utilizáveis por duodécimos, não podendo realizar-se qualquer despesa que não tenha cabimento nos duodécimos vencidos da verba correspondente.
 
 § 1.º O procurador da República poderá autorizar a antecipação dos duodécimos para despesas inadiáveis, comunicando a autorização ao conselho administrativo do Cofre.
 
@@ -175,27 +175,27 @@ f) Quaisquer outras receitas que lhe forem atribuídas por portaria do Ministro 
 
 § 3.º Salvo os casos referidos nos parágrafos anteriores, qualquer alteração dos orçamentos aprovados sòmente poderá ter lugar com autorização do conselho administrativo, mediante proposta fundamentada da entidade referida no § 1.º
 
-###### Art. 11.º Para efeitos de cobrança das receitas cada serviço funcionará como «delegação» do Cofre Geral dos Registos e do Notariado.
+Art. 11.º Para efeitos de cobrança das receitas cada serviço funcionará como «delegação» do Cofre Geral dos Registos e do Notariado.
 
-###### Art. 12.º Cada serviço arrecadará para a respectiva delegação a totalidade das receitas cobradas sob a rubrica «Cofre Geral dos Registos e do Notariado», até atingir o montante da despesa anual autorizada pelo respectivo orçamento.
+Art. 12.º Cada serviço arrecadará para a respectiva delegação a totalidade das receitas cobradas sob a rubrica «Cofre Geral dos Registos e do Notariado», até atingir o montante da despesa anual autorizada pelo respectivo orçamento.
 
 § único. As receitas excedentes serão depositadas em conta do Cofre Geral dos Registos e do Notariado.
 
-###### Art. 13.º Os serviços cujas receitas não chegaram para fazer face aos encargos que pelo seu orçamento estão autorizados a contrair devem, relativamente a cada trimestre, nos primeiros cinco dias do trimestre imediato, requisitar, por intermédio da entidade que superintende nos respectivos serviços, as importâncias de que necessitarem para saldar as suas dívidas.
+Art. 13.º Os serviços cujas receitas não chegaram para fazer face aos encargos que pelo seu orçamento estão autorizados a contrair devem, relativamente a cada trimestre, nos primeiros cinco dias do trimestre imediato, requisitar, por intermédio da entidade que superintende nos respectivos serviços, as importâncias de que necessitarem para saldar as suas dívidas.
 
 § único. As requisições serão feitas em triplicado, ficando um exemplar arquivado na secretaria da entidade por intermédio da qual foi feita a requisição; os outros serão remetidos ao conselho administrativo do Cofre, que, quando da expedição do competente cheque, devolverá um ao serviço requisitante.
 
-###### Art. 14.º Todos os serviços enviarão, trimestralmente, ao conselho administrativo um balancete, em triplicado, mostrando a situação do Cofre e o excesso das receitas sobre as despesas que no fim de cada trimestre se verificar.
+Art. 14.º Todos os serviços enviarão, trimestralmente, ao conselho administrativo um balancete, em triplicado, mostrando a situação do Cofre e o excesso das receitas sobre as despesas que no fim de cada trimestre se verificar.
 
-###### Art. 15.º Junto de cada um dos conselhos administrativos exercerá as funções de inspector-contador, em regime de acumulação, o funcionário que exercer idênticas funções junto do conselho administrativo do Cofre Geral dos Tribunais.
+Art. 15.º Junto de cada um dos conselhos administrativos exercerá as funções de inspector-contador, em regime de acumulação, o funcionário que exercer idênticas funções junto do conselho administrativo do Cofre Geral dos Tribunais.
 
 § único. O inspector-contador, quando em funções nos serviços afectos ao Cofre Geral dos Registos e do Notariado, estará directamente subordinado ao respectivo presidente do conselho administrativo.
 
-###### Art. 16.º O Cofre Geral dos Registos e do Notariado suportará, permanentemente, na proporção de 50 por cento, os encargos com os vencimentos e ajudas de custo pertinentes ao inspector-contador.
+Art. 16.º O Cofre Geral dos Registos e do Notariado suportará, permanentemente, na proporção de 50 por cento, os encargos com os vencimentos e ajudas de custo pertinentes ao inspector-contador.
 
-###### Art. 17.º Os serviços dos inspectores-contadores funcionarão sob a superintendência do presidente do concelho administrativo do Cofre.
+Art. 17.º Os serviços dos inspectores-contadores funcionarão sob a superintendência do presidente do concelho administrativo do Cofre.
 
-###### Art. 18.º Compete aos inspectores-contadores:
+Art. 18.º Compete aos inspectores-contadores:
 
 1) Fiscalizar os serviços de contabilidade e tesouraria nos cartórios notariais, conservatórias, delegações e postos de registos, e quaisquer outros serviços sob a jurisdição do conselho.
 
@@ -203,7 +203,7 @@ f) Quaisquer outras receitas que lhe forem atribuídas por portaria do Ministro 
 
 3) Quaisquer outros serviços para que forem especialmente designados pelo Conselho Superior Judiciário e pela Direcção-Geral de Justiça.
 
-###### Art. 19.º As inspecções serão propostas pelo presidente do conselho administrativo dos Cofres e terão por base um plano por ele elaborado, que, depois de aprovado pela Direcção-Geral de Justiça, será submetido a decisão do Conselho Superior Judiciário.
+Art. 19.º As inspecções serão propostas pelo presidente do conselho administrativo dos Cofres e terão por base um plano por ele elaborado, que, depois de aprovado pela Direcção-Geral de Justiça, será submetido a decisão do Conselho Superior Judiciário.
 
 § 1.º Na elaboração do plano das inspecções deve-se procurar assegurar que os serviços sejam inspeccionados, quanto possível, pelo menos de dois em dois anos, dando-se prioridade àqueles de que haja conhecimento ou suspeita de não funcionarem regularmente.
 
@@ -213,29 +213,29 @@ f) Quaisquer outras receitas que lhe forem atribuídas por portaria do Ministro 
 
 § 4.º As inspecções extraordinárias referidas no § 2.º deste artigo serão efectuadas dentro do prazo que for fixado, podendo a entidade que houver ordenado tais inspecções ampliá-lo mediante proposta do inspector-contador.
 
-###### Art. 20.º Se no decorrer da inspecção forem notadas faltas de natureza grave, o inspector-contador comunicará o facto ao presidente do conselho administrativo, a fim de este determinar as providências que julgar necessárias, de tudo dando conhecimento imediato à Direcção-Geral de Justiça.
+Art. 20.º Se no decorrer da inspecção forem notadas faltas de natureza grave, o inspector-contador comunicará o facto ao presidente do conselho administrativo, a fim de este determinar as providências que julgar necessárias, de tudo dando conhecimento imediato à Direcção-Geral de Justiça.
 
 § único. Nenhuma interferência podem os inspectores-contadores ter na execução ou ordenamento dos serviços, limitando-se a sua actividade a mera inspecção. Nos seus relatórios, além do relato dos factos, apresentarão as propostas que acharem convenientes.
 
-###### Art. 21.º De cada inspecção será organizado um processo, que terminará por um relatório, elaborado em duplicado, em que se constatará o estado e funcionamento dos serviços.
+Art. 21.º De cada inspecção será organizado um processo, que terminará por um relatório, elaborado em duplicado, em que se constatará o estado e funcionamento dos serviços.
 
 § único. O original do relatório será junto ao processo, que ficará arquivado no conselho administrativo do Cofre e o duplicado enviado imediatamente à Direcção-Geral de Justiça para seu conhecimento.
 
-###### Art. 22.º O conselho administrativo remeterá os processos ali arquivados aos inspectores superiores de justiça, quando estes efectuarem inspecções aos serviços abrangidos na sua competência fiscalizadora, para serem apensados aos processos de inspecção judicial.
+Art. 22.º O conselho administrativo remeterá os processos ali arquivados aos inspectores superiores de justiça, quando estes efectuarem inspecções aos serviços abrangidos na sua competência fiscalizadora, para serem apensados aos processos de inspecção judicial.
 
-###### Art. 23.º Os inspectores superiores de justiça, quando inspeccionarem os serviços referidos no artigo anterior, poderão fazer-se acompanhar do inspector-contador, para o que requisitarão a sua presença ao presidente do conselho administrativo.
+Art. 23.º Os inspectores superiores de justiça, quando inspeccionarem os serviços referidos no artigo anterior, poderão fazer-se acompanhar do inspector-contador, para o que requisitarão a sua presença ao presidente do conselho administrativo.
 
-###### Art. 24.º O Cofre Geral dos Registos e do Notariado e suas delegações gozam de isenção de selo e de quaisquer impostos, prémios, descontos ou percentagens pelos depósitos, guarda, transferências e levantamentos de dinheiro efectuados na Caixa Económica Postal ou nos bancos.
+Art. 24.º O Cofre Geral dos Registos e do Notariado e suas delegações gozam de isenção de selo e de quaisquer impostos, prémios, descontos ou percentagens pelos depósitos, guarda, transferências e levantamentos de dinheiro efectuados na Caixa Económica Postal ou nos bancos.
 
-###### Art. 25.º O conselho administrativo dos Cofres pode solicitar dos organismos técnicos do Estado os estudos e directrizes de que necessitar para a efectivação das construções e obras referidas nos n.os 2.º e 3.º do artigo 6.º deste diploma.
+Art. 25.º O conselho administrativo dos Cofres pode solicitar dos organismos técnicos do Estado os estudos e directrizes de que necessitar para a efectivação das construções e obras referidas nos n.os 2.º e 3.º do artigo 6.º deste diploma.
 
-###### Art. 26.º Para as suas instalações iniciais, o Cofre Geral dos Registos e do Notariado será subsidiado pelo Cofre Geral dos Tribunais, mediante proposta do seu conselho administrativo aprovada pela Direcção-Geral de Justiça.
+Art. 26.º Para as suas instalações iniciais, o Cofre Geral dos Registos e do Notariado será subsidiado pelo Cofre Geral dos Tribunais, mediante proposta do seu conselho administrativo aprovada pela Direcção-Geral de Justiça.
 
-###### Art. 27.º A importância atribuída nos termos do artigo anterior será restituída pelo Cofre dos Registos e do Notariado ao Cofre Geral dos Tribunais no termo do primeiro ano do seu funcionamento.
+Art. 27.º A importância atribuída nos termos do artigo anterior será restituída pelo Cofre dos Registos e do Notariado ao Cofre Geral dos Tribunais no termo do primeiro ano do seu funcionamento.
 
-###### Art. 28.º O Ministro do Ultramar, mediante proposta da Direcção-Geral de Justiça, poderá, por portaria, autorizar que sejam satisfeitos pelo Cofre Geral dos Registos e do Notariado os encargos certos com a construção de edifícios afectos a sectores de serviços de justiça do respectivo distrito judicial e não integrados no Cofre.
+Art. 28.º O Ministro do Ultramar, mediante proposta da Direcção-Geral de Justiça, poderá, por portaria, autorizar que sejam satisfeitos pelo Cofre Geral dos Registos e do Notariado os encargos certos com a construção de edifícios afectos a sectores de serviços de justiça do respectivo distrito judicial e não integrados no Cofre.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Maio de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 
@@ -245,6 +245,6 @@ Tabela de remunerações do conselho administrativo do Cofre Geral dos Registos 
 
 (Artigo 3.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/05/12700/07350738.pdf))](https://files.diariodarepublica.pt/1s/1964/05/12700/07350738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/05/12700/07350738.pdf)
 
 Ministério do Ultramar, 29 de Maio de 1964. - O Ministro do Ultramar, António Augusto Peixoto Correia.

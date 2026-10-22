@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 80/2003, 1º Suplemento, Série I-B de 2003-04-04
   number: '80'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2232-(2) a 2232-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2003/04/080b01/00020003.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/3-a/2003/04/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-a-2003-147852
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-04-04T00:00:00Z'
+  retrieved_at: '2026-10-22T19:02:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5770a0f720f4ba259da8f8fc358490ee34f71cab2f2e6b0882d5a3bafb9a31e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf3cb003bfc13b58626ba9ccfcd18bfc5e7c443e1c2bb540c7f0102a8aaaa381
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:02:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviço Militar
-- Impresso
 - Forças Armadas
+- Impresso
 - Recrutamento Militar
+- Serviço Militar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/289/2000/11/14/p/dre
@@ -84,16 +84,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/136/2003/02/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/136/2003/02/06/p/dre
+- type: cites
+  target: pt:dre:200037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615041:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:02:36Z'
   warnings: []
   errors: []
 ---

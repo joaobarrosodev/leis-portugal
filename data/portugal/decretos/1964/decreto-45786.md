@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45786-1964-578133
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-06-30T00:00:00Z'
+  retrieved_at: '2026-10-22T19:41:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e980223866001905eb20846a3dc420faec8088cbcd3fb8ceda31197360d3b079
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39764ad2ae7821ac8ca203cdf5a396ef42c5a53d7fed1afc27048b22ee5378ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:41:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,15 +70,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:41:02Z'
   warnings: []
   errors: []
 ---
@@ -91,11 +91,11 @@ Por motivo de urgência, nos termos do § 1.º do artigo 150.º da Constituiçã
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. Poderão ser admitidos a concursos oficiais, excepcionalmente, quando as necessidades o aconselharem, médicos veterinários, agrónomos, silvicultores e regentes agrícolas sem a apresentação de certificados comprovativos de aproveitamento, respectivamente, nos cursos de Medicina Veterinária Tropical, Agronomia Tropical e Silvicultura Tropical e da especialização referida na alínea f) do artigo 11.º do Regulamento do Ensino Médio Agrícola.
+Artigo único. Poderão ser admitidos a concursos oficiais, excepcionalmente, quando as necessidades o aconselharem, médicos veterinários, agrónomos, silvicultores e regentes agrícolas sem a apresentação de certificados comprovativos de aproveitamento, respectivamente, nos cursos de Medicina Veterinária Tropical, Agronomia Tropical e Silvicultura Tropical e da especialização referida na alínea f) do artigo 11.º do Regulamento do Ensino Médio Agrícola.
 
 § único. Os candidatos a concursos oficiais que sejam possuidores dos certificados referidos no corpo deste artigo gozarão, porém, de preferência sobre os restantes.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Junho de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

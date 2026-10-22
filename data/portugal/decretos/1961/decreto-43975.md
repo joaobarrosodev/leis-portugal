@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43975-1961-183056
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-07-04T00:00:00Z'
+  retrieved_at: '2026-10-22T19:26:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb9baaf4ff7acf24a30b06311ffbe4b2aa456dd7153e2ab8e2c1416eb0ff5641
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 549e39b89615fb16a83a3b639ad89527f9c94fd01f480c8aa853e0dd5cbe1010
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:26:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,20 @@ relationships:
   target: pt:dre:272874:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:342472:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:26:09Z'
   warnings: []
   errors: []
 ---
@@ -95,18 +99,18 @@ Não sendo ainda possível fixar definitivamente aqueles quadros;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os quadros do pessoal das tropas pára-quedistas, referidos no artigo 4.º do [Decreto-Lei n.º 42073](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42073-1958-342472), de 31 de Dezembro de 1958, e fixados provisòriamente nos Decretos n.os 43042 e 43663, respectivamente de 2 de Julho de 1960 e de 5 de Maio de 1961, passam a ser os constantes dos mapas I, II, III e IV anexos.
+Artigo 1.º Os quadros do pessoal das tropas pára-quedistas, referidos no artigo 4.º do [Decreto-Lei n.º 42073](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42073-1958-342472), de 31 de Dezembro de 1958, e fixados provisòriamente nos Decretos n.os 43042 e 43663, respectivamente de 2 de Julho de 1960 e de 5 de Maio de 1961, passam a ser os constantes dos mapas I, II, III e IV anexos.
 
-###### Art. 2.º São revogados os Decretos n.os 43042 e 43663, respectivamente de 2 de Julho de 1960 e 5 de Maio de 1961.
+Art. 2.º São revogados os Decretos n.os 43042 e 43663, respectivamente de 2 de Julho de 1960 e 5 de Maio de 1961.
 
-###### Art. 3.º O presente diploma entra em vigor em 1 de Janeiro de 1962.
+Art. 3.º O presente diploma entra em vigor em 1 de Janeiro de 1962.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Outubro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Kaulza Oliveira de Arriaga.
 
 Do MAPA I ao MAPA IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/10/24500/13281329.pdf))](https://files.diariodarepublica.pt/1s/1961/10/24500/13281329.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/10/24500/13281329.pdf)
 
 Presidência do Conselho, 21 de Outubro de 1961. - O Secretário de Estado da Aeronáutica, Kaulza Oliveira de Arriaga.

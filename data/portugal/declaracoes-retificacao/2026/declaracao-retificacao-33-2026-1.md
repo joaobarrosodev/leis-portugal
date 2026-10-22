@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/09/17800/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,25 +47,37 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/33/2026/09/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/33-2026-1170726640
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-14T00:00:00Z'
+  retrieved_at: '2026-10-22T18:53:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a63e01d0ba554f490183edfa227e76e80c5d262fb36c7ade43a4d6fdbabc18af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 071d7bb32276743488d0ebfce0ada07bb1f06dae66912347fe061271fd08548b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:53:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autarquia Local
+- Auto-estrada Douro Litoral
+- Autoridade Tributária e Aduaneira
+- Circulação Rodoviária
+- Instituto da Mobilidade e dos Transportes
+- Isenção de Emolumentos
+- Isenção de Portagem
+- Plataforma Eletrónica
+- Porto
+- Taxa
+- Transporte Terrestre
+- VILA NOVA de GAIA
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/155-a/2026/07/31/p/dre
@@ -87,16 +99,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/387/1999/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/387/1999/05/26/p/dre
+- type: cites
+  target: pt:dre:1128419934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1153967375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1751988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316941:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:155-A/2026
+  label: Retifica a alínea b) do n.º 4 do artigo 2.º do Decreto-Lei n.º 155-A/2026, de 31 de julho, Diário da República n.º
+    147/2026, Suplemento, Série I
+  source: null
+  date: '2026-07-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:53:07Z'
   warnings: []
   errors: []
 ---
@@ -114,3 +164,5 @@ deve ler-se:
 «Os veículos pesados de mercadorias que sejam objeto de autorização especial de trânsito, emitida pelo Instituto da Mobilidade e dos Transportes, I. P., ao abrigo do Regulamento de Autorizações Especiais de Trânsito, aprovado pela [Portaria n.º 472/2007](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), de 22 de junho publicada no Diário da República, n.º 119/2007, 2.ª série.»
 
 Secretaria-Geral do Governo, 13 de setembro de 2026. - O Secretário-Geral Adjunto, Joaquim Cruz.
+
+119949575

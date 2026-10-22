@@ -52,18 +52,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/346/2008/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/346-2008-454329
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-22T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ddb724973cb256f7f1e7b7ecb34a8d27a23f81f928698124ccea097030bdca96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d82f55a129967d604d5aed1a97eb85a441e2a5794fb64f2d8c9a7685f6069954
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,15 +71,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Lei do Enquadramento
 - Direito de Audição
 - Dívida
+- Financiamento
 - Inconstitucionalidade
 - Legalidade
 - Legitimidade
-- Orçamento Geral do Estado
+- Lei do Enquadramento
 - Madeira.região Autónoma
+- Orçamento Geral do Estado
 - Transferência de Verbas
 relationships:
 - type: cites
@@ -110,16 +110,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/1/2007/02/19/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/1/2007/02/19/p/dre
+- type: cites
+  target: pt:dre:1789580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2066499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529450:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:42Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +182,9 @@ Necessidades de financiamento das Regiões Autónomas
 
 3 - O montante de endividamento líquido regional, compatível com o conceito de necessidade de financiamento do Sistema Europeu de Contas Nacionais e Regionais (SEC95), é equivalente à diferença entre a soma dos passivos financeiros, qualquer que seja a sua forma, incluindo nomeadamente os empréstimos contraídos, os contratos de locação financeira e as dívidas a fornecedores, e a soma dos activos financeiros, nomeadamente o saldo de caixa, os depósitos em instituições financeiras e as aplicações de tesouraria.
 
-###### Artigo 118.º — Transferências orçamentais para as Regiões Autónomas
+Artigo 118.º
+
+Transferências orçamentais para as Regiões Autónomas
 
 1 - Nos termos do artigo 37.º da [Lei Orgânica n.º 1/2007](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2007-517981), de 19 de Fevereiro, são transferidas as seguintes verbas:
 
@@ -210,7 +248,7 @@ Nos termos do disposto na alínea g) do n.º 2 do artigo 281.º da Constituiçã
 
 Este pressuposto está realizado, no que respeita ao pedido de declaração de inconstitucionalidade e de ilegalidade, agora formulado, com fundamento em violação do dever de audição das Regiões Autónomas, previsto na Constituição e no Estatuto Político-Administrativo.
 
-**O Presidente da Assembleia Legislativa da Região Autónoma da Madeira é, também, parte legítima para pedir a declaração da ilegalidade do artigo 118.º da Lei do Orçamento para 2008, alegando violação do Estatuto Político-Administrativo da Madeira.**
+O Presidente da Assembleia Legislativa da Região Autónoma da Madeira é, também, parte legítima para pedir a declaração da ilegalidade do artigo 118.º da Lei do Orçamento para 2008, alegando violação do Estatuto Político-Administrativo da Madeira.
 
 Todavia, não tem ele legitimidade processual para suscitar questões de ilegalidade com base em outras leis que não sejam o Estatuto Político-Administrativo da Região Autónoma da Madeira e, deste modo, não pode suscitar a questão de ilegalidade à luz do artigo 88.º, n.º 2, da Lei de Enquadramento Orçamental.
 
@@ -266,7 +304,9 @@ Era o seguinte o teor de tal parecer, na parte que agora importa:
 
 Propõe-se a seguinte alteração ao artigo 114.º para permitir o aumento do endividamento líquido da Região Autónoma da Madeira em 50 milhões:
 
-###### Artigo 114.º — Necessidades de financiamento das Regiões Autónomas
+Artigo 114.º
+
+Necessidades de financiamento das Regiões Autónomas
 
 1 - As Regiões Autónomas dos Açores e da Madeira podem acordar contratualmente novos empréstimos, incluindo todas as formas de dívida, que impliquem um aumento do seu endividamento líquido superior a 50 milhões de euros para cada Região Autónoma.
 
@@ -278,7 +318,9 @@ Propõe-se a seguinte alteração ao artigo 114.º para permitir o aumento do en
 
 Propõe-se o aditamento de um artigo referente ao IVA, de modo a garantir que as Regiões Autónomas receberão em 2008 o mesmo valor de receita de IVA que receberiam pela aplicação do método da capitação, em cumprimento do disposto no artigo 21.º, n.º 3, da [Lei n.º 13/98](https://diariodarepublica.pt/dr/detalhe/lei/13-1998-210978), de 24 de Fevereiro, conjugado com a alínea a) do n.º 1 do artigo 59.º da [Lei Orgânica n.º 1/2007](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2007-517981), de 19 de Fevereiro:
 
-###### Artigo 115.º-A — Transferência a título de compensação do IVA
+Artigo 115.º-A
+
+Transferência a título de compensação do IVA
 
 Fica o Governo autorizado, através do Ministro responsável pela área das finanças, a transferir para as Regiões Autónomas dos Açores e da Madeira, as verbas necessárias para cumprir o disposto no artigo 21.º, n.º 3, da [Lei n.º 13/98](https://diariodarepublica.pt/dr/detalhe/lei/13-1998-210978), de 24 de Fevereiro, tendo como referência o valor que resultaria para cada Região da aplicação em 2007 e em 2008 do método da capitação.»
 

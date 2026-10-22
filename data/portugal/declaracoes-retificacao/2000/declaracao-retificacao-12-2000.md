@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/12/2000/10/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/12-2000-544804
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-10-04T00:00:00Z'
+  retrieved_at: '2026-10-22T18:55:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c38a7246d90eab5dcfca3945ddc1942547ca94b244526ddde6c17cac0487eef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3cf492937aebf33a20daf23872fd728b36629fc261da0a02e9ee119bd9f5c66b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:55:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Publicidade
 - Campanha Eleitoral
 - Contabilidade
-- Multa
 - Doação
+- Financiamento
 - Fiscalização
+- Multa
 - Partido Político
 - Propaganda Política
+- Publicidade
 - Receita Própria
 - Setor Privado
 relationships:
@@ -103,16 +103,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/88/1995/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/88/1995/09/01/p/dre
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546980:por
+  label: null
+  source: null
 article_structure:
-  article_count: 37
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:55:13Z'
   warnings: []
   errors: []
 ---
@@ -185,41 +213,53 @@ deve ler-se:
 
 A presente lei produz os seus efeitos no tocante ao financiamento dos partidos políticos a partir de 1 de Janeiro de 2001, sem prejuízo da sua imediata aplicação aos processos eleitorais cujo dia de sufrágio seja posterior a essa data.
 
-###### Artigo 5.º
+Artigo 5.º
 
 Nos termos do n.º 2 do artigo 6.º da [Lei n.º 74/98](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), de 11 de Novembro, procede-se, em anexo, à republicação da [Lei n.º 56/98](https://diariodarepublica.pt/dr/detalhe/lei/56-1998-437232), de 18 de Agosto.
 
 Aprovada em 6 de Julho de 2000.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
-**Promulgada em 3 de Agosto de 2000.**
+Promulgada em 3 de Agosto de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendada em 4 de Agosto de 2000.**
+Referendada em 4 de Agosto de 2000.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.
 
-## ANEXO — [Lei n.º 56/98](https://diariodarepublica.pt/dr/detalhe/lei/56-1998-437232), de 18 de Agosto
+ANEXO
+
+[Lei n.º 56/98](https://diariodarepublica.pt/dr/detalhe/lei/56-1998-437232), de 18 de Agosto
 
 (Financiamento dos partidos e das campanhas eleitorais)
 
-### CAPÍTULO I — Disposição geral
+CAPÍTULO I
 
-###### Artigo 1.º — Objecto e âmbito
+Disposição geral
+
+Artigo 1.º
+
+Objecto e âmbito
 
 A presente lei regula o regime aplicável aos recursos financeiros dos partidos políticos e das campanhas eleitorais.
 
-### CAPÍTULO II — Financiamento dos partidos políticos
+CAPÍTULO II
 
-###### Artigo 2.º — Fontes de financiamento
+Financiamento dos partidos políticos
+
+Artigo 2.º
+
+Fontes de financiamento
 
 As fontes de financiamento da actividade dos partidos políticos compreendem as suas receitas próprias e outras provenientes de financiamento privado e de subvenções públicas.
 
-###### Artigo 3.º — Receitas próprias e financiamento privado
+Artigo 3.º
+
+Receitas próprias e financiamento privado
 
 1 - Constituem receitas próprias dos partidos políticos:
 
@@ -241,7 +281,9 @@ a) Os donativos de pessoas singulares, nos termos do artigo seguinte;
 
 b) O produto de heranças ou legados.
 
-###### Artigo 4.º — Regime dos donativos admissíveis
+Artigo 4.º
+
+Regime dos donativos admissíveis
 
 1 - Os donativos de natureza pecuniária feitos por pessoas singulares identificadas estão sujeitos ao limite anual de 30 salários mínimos mensais nacionais por doador e são obrigatoriamente titulados por cheque ou transferência bancária quando o seu quantitativo exceder um salário mínimo mensal nacional.
 
@@ -255,13 +297,17 @@ b) O produto de heranças ou legados.
 
 6 - Consideram-se donativos e obedecem ao regime estabelecido no n.º 1 as aquisições de bens a partidos políticos por montante manifestamente superior ao respectivo valor de mercado.
 
-###### Artigo 4.º-A — Angariação de fundos
+Artigo 4.º-A
+
+Angariação de fundos
 
 1 - As receitas de acções de angariação de fundos não podem exceder anualmente, por partido, 1500 salários mínimos mensais nacionais e são obrigatoriamente registadas nos termos do n.º 7 do artigo 10.º
 
 2 - O limite previsto no número anterior não prejudica a realização de iniciativas especiais de angariação de fundos que envolvam a oferta de bens e serviços, as quais devem ser objecto de contas próprias, com registo das receitas e despesas, para efeitos de fiscalização.
 
-###### Artigo 5.º — Donativos proibidos
+Artigo 5.º
+
+Donativos proibidos
 
 1 - Os partidos políticos não podem receber donativos ou empréstimos de natureza pecuniária ou em espécie de pessoas colectivas nacionais ou estrangeiras, com excepção do disposto no número seguinte.
 
@@ -271,7 +317,9 @@ b) O produto de heranças ou legados.
 
 4 - Aos partidos políticos está igualmente vedado receber ou aceitar quaisquer contribuições ou donativos indirectos que se traduzam no pagamento por terceiros de despesas que àqueles aproveitem fora dos limites previstos no artigo 4.º
 
-###### Artigo 6.º — Financiamento público
+Artigo 6.º
+
+Financiamento público
 
 Os recursos de financiamento público para a realização dos fins próprios dos partidos são:
 
@@ -279,7 +327,9 @@ a) As subvenções para financiamento dos partidos e das campanhas eleitorais pr
 
 b) Outros legalmente previstos.
 
-###### Artigo 7.º — Subvenção estatal ao financiamento dos partidos
+Artigo 7.º
+
+Subvenção estatal ao financiamento dos partidos
 
 1 - A cada partido que haja concorrido a acto eleitoral, ainda que em coligação, e que obtenha representação na Assembleia da República é concedida, nos termos dos números seguintes, uma subvenção anual, desde que a requeira ao Presidente da Assembleia da República.
 
@@ -291,11 +341,15 @@ b) Outros legalmente previstos.
 
 5 - A subvenção prevista nos números anteriores é também concedida aos partidos que, tendo concorrido à eleição para a Assembleia da República e não tendo conseguido representação parlamentar, obtenham um número de votos superior a 50000, desde que a requeiram ao Presidente da Assembleia da República.
 
-###### Artigo 7.º-A — Despesas dos partidos políticos
+Artigo 7.º-A
+
+Despesas dos partidos políticos
 
 O pagamento de qualquer despesa dos partidos políticos de valor superior a dois salários mínimos mensais nacionais é obrigatoriamente efectuado por meio de cheque ou por outro meio bancário que permita a identificação do montante e a entidade destinatária do pagamento, devendo os partidos proceder às necessárias reconciliações bancárias.
 
-###### Artigo 8.º — Benefícios
+Artigo 8.º
+
+Benefícios
 
 1 - Os partidos não estão sujeitos a IRC e beneficiam ainda, para além do previsto em lei especial, de isenção dos seguintes impostos:
 
@@ -319,7 +373,9 @@ h) Imposto sobre o valor acrescentado nas transmissões de bens e serviços em i
 
 3 - Os partidos beneficiam de isenção de taxas de justiça e de custas judiciais.
 
-###### Artigo 9.º — Suspensão de benefícios
+Artigo 9.º
+
+Suspensão de benefícios
 
 1 - Os benefícios previstos no artigo anterior são suspensos nas seguintes situações:
 
@@ -329,7 +385,9 @@ b) Se as listas de candidatos apresentadas pelo partido nessas eleições obtive
 
 2 - A suspensão do número anterior cessa quando se alterarem as situações nele previstas.
 
-###### Artigo 10.º — Regime contabilístico
+Artigo 10.º
+
+Regime contabilístico
 
 1 - Os partidos políticos devem possuir contabilidade organizada, de modo que seja possível conhecer a sua situação financeira e patrimonial e verificar o cumprimento das obrigações previstas na presente lei.
 
@@ -379,7 +437,9 @@ b) As receitas decorrentes do produto da actividade de angariação de fundos, c
 
 c) O património imobiliário dos partidos, sem prejuízo do disposto na alínea a) do n.º 3.
 
-###### Artigo 11.º — Fiscalização interna
+Artigo 11.º
+
+Fiscalização interna
 
 1 - Os estatutos dos partidos políticos devem prever órgãos de fiscalização e controlo interno das contas da sua actividade, bem como das contas relativas às campanhas eleitorais em que participem, por forma a assegurarem o cumprimento do disposto na presente lei e das leis eleitorais a que respeitem.
 
@@ -387,11 +447,15 @@ c) O património imobiliário dos partidos, sem prejuízo do disposto na alínea
 
 3 - Os partidos políticos poderão incluir em anexo às suas contas um relatório e parecer de um revisor oficial de contas.
 
-###### Artigo 12.º — Contas
+Artigo 12.º
+
+Contas
 
 As receitas e despesas dos partidos políticos são discriminadas em contas anuais, que obedecem aos critérios definidos no artigo 10.º
 
-###### Artigo 13.º — Apreciação pelo Tribunal Constitucional
+Artigo 13.º
+
+Apreciação pelo Tribunal Constitucional
 
 1 - Até ao fim do mês de Maio, os partidos enviam ao Tribunal Constitucional, para apreciação, as suas contas relativas ao ano anterior.
 
@@ -405,7 +469,9 @@ As receitas e despesas dos partidos políticos são discriminadas em contas anua
 
 6 - Sem prejuízo do disposto no n.º 4, o Tribunal Constitucional poderá, ainda, vir a ser dotado dos meios técnicos e recursos humanos próprios necessários para exercer as funções que lhe são cometidas.
 
-###### Artigo 14.º — Sanções
+Artigo 14.º
+
+Sanções
 
 1 - Sem prejuízo da responsabilidade civil ou penal a que nos termos gerais de direito haja lugar, quem violar as regras contidas no presente capítulo fica sujeito às sanções previstas nos números seguintes.
 
@@ -421,7 +487,9 @@ As receitas e despesas dos partidos políticos são discriminadas em contas anua
 
 7 - A não apresentação das contas no prazo previsto no n.º 1 do artigo 13.º determina a suspensão do pagamento da subvenção estatal a que o partido tem direito até à data da referida apresentação.
 
-###### Artigo 14.º-A — Competência para aplicação das coimas
+Artigo 14.º-A
+
+Competência para aplicação das coimas
 
 1 - A competência para a aplicação das coimas é do Tribunal Constitucional, sendo a decisão tomada nos termos do artigo 103.º-A, n.º 3, da Lei n.º 28/82, de 15 de Novembro, aditado pela [Lei n.º 88/95](https://diariodarepublica.pt/dr/detalhe/lei/88-1995-546980), de 1 de Setembro.
 
@@ -429,9 +497,13 @@ As receitas e despesas dos partidos políticos são discriminadas em contas anua
 
 3 - O Tribunal pode determinar a publicitação de extracto da decisão, a expensas do infractor.
 
-### CAPÍTULO III — Financiamento das campanhas eleitorais
+CAPÍTULO III
 
-###### Artigo 15.º — Orçamento de campanha, regime e tratamento das receitas
+Financiamento das campanhas eleitorais
+
+Artigo 15.º
+
+Orçamento de campanha, regime e tratamento das receitas
 
 1 - Até ao dia anterior ao início da campanha eleitoral, os candidatos, partidos, coligações e grupos de cidadãos eleitores apresentam à Comissão Nacional de Eleições o seu orçamento de campanha, nas eleições de âmbito nacional e regional, em conformidade com as disposições da presente lei.
 
@@ -441,7 +513,9 @@ As receitas e despesas dos partidos políticos são discriminadas em contas anua
 
 4 - Às contas previstas nos números anteriores correspondem contas bancárias especificamente constituídas para o efeito, onde são depositadas as respectivas receitas de campanha.
 
-###### Artigo 16.º — Receitas de campanha
+Artigo 16.º
+
+Receitas de campanha
 
 1 - As actividades da campanha eleitoral só podem ser financiadas por:
 
@@ -457,7 +531,9 @@ d) Produto de actividades de angariação de fundos para campanha eleitoral.
 
 3 - As receitas produzidas por actos de campanha eleitoral são discriminadas com referência à respectiva actividade.
 
-###### Artigo 17.º — Limite das receitas
+Artigo 17.º
+
+Limite das receitas
 
 1 - Os donativos das pessoas singulares não podem exceder 80 salários mínimos mensais nacionais por pessoa, sendo obrigatoriamente titulados por cheque quando o seu quantitativo exceder um salário mínimo mensal nacional, podendo provir de acto anónimo de doação até este limite.
 
@@ -465,7 +541,9 @@ d) Produto de actividades de angariação de fundos para campanha eleitoral.
 
 3 - Os donativos estão sujeitos ao disposto no artigo 4.º e às restrições constantes do artigo 5.º
 
-###### Artigo 18.º — Despesas de campanha eleitoral
+Artigo 18.º
+
+Despesas de campanha eleitoral
 
 1 - Consideram-se despesas de campanha eleitoral as que, tendo essa finalidade, se efectuem a partir da publicação do decreto que marca a data das eleições e até à realização do acto eleitoral respectivo.
 
@@ -473,7 +551,9 @@ d) Produto de actividades de angariação de fundos para campanha eleitoral.
 
 3 - Às despesas de campanha eleitoral é aplicável o disposto no artigo 7.º-A
 
-###### Artigo 19.º — Limite das despesas
+Artigo 19.º
+
+Limite das despesas
 
 1 - O limite máximo admissível de despesas realizadas em cada campanha eleitoral é fixado nos seguintes valores:
 
@@ -491,11 +571,15 @@ e) 144 salários mínimos mensais nacionais por cada candidato apresentado na ca
 
 3 - Para determinação dos valores referenciados no n.º 1, devem os partidos políticos, coligações ou grupos de cidadãos eleitores declarar à Comissão Nacional de Eleições o número de candidatos apresentados relativamente a cada acto eleitoral.
 
-###### Artigo 19.º-A — Despesas em campanhas eleitorais
+Artigo 19.º-A
+
+Despesas em campanhas eleitorais
 
 O regime de pagamento de despesas, obrigatoriamente por instrumento bancário, estabelecido no artigo 7.º-A é correspondentemente aplicável a quaisquer despesas de campanha eleitoral de montante superior a dois salários mínimos mensais nacionais.
 
-###### Artigo 20.º — Mandatários financeiros
+Artigo 20.º
+
+Mandatários financeiros
 
 1 - Por cada conta de campanha é constituído um mandatário financeiro, a quem cabe, no respectivo âmbito, a aceitação de donativos, o depósito de todas as receitas e a autorização e controlo das despesas da campanha.
 
@@ -503,13 +587,17 @@ O regime de pagamento de despesas, obrigatoriamente por instrumento bancário, e
 
 3 - No prazo de 30 dias após o termo do prazo para entrega de listas ou candidatura a qualquer acto eleitoral, o partido, coligação, grupo de cidadãos eleitores ou o candidato a Presidente da República promovem a publicação, em dois jornais de circulação nacional, da lista completa dos mandatários financeiros.
 
-###### Artigo 21.º — Responsabilidade pelas contas
+Artigo 21.º
+
+Responsabilidade pelas contas
 
 1 - Os mandatários financeiros são responsáveis pela elaboração e apresentação das respectivas contas de campanha.
 
 2 - Os candidatos a Presidente da República, os partidos políticos ou coligações ou o primeiro proponente de cada grupo de cidadãos eleitores candidatos a qualquer acto eleitoral, consoante os casos, são subsidiariamente responsáveis com os mandatários financeiros.
 
-###### Artigo 22.º — Prestação das contas
+Artigo 22.º
+
+Prestação das contas
 
 1 - No prazo máximo de 90 dias a partir da data da proclamação oficial dos resultados, cada candidatura presta à Comissão Nacional de Eleições contas discriminadas da sua campanha eleitoral, nos termos da presente lei.
 
@@ -517,7 +605,9 @@ O regime de pagamento de despesas, obrigatoriamente por instrumento bancário, e
 
 3 - As despesas efectuadas com as candidaturas e campanhas eleitorais de coligações de partidos que concorram aos órgãos autárquicos de um ou mais municípios podem ser imputadas nas contas globais a prestar pelos partidos que as constituam ou pelas coligações de âmbito nacional em que estes se integram, de acordo com a proporção dos respectivos candidatos.
 
-###### Artigo 23.º — Apreciação das contas
+Artigo 23.º
+
+Apreciação das contas
 
 1 - A Comissão Nacional de Eleições aprecia, no prazo de 90 dias, a legalidade das receitas e despesas e a regularidade das contas, devendo fazer publicar gratuitamente a sua apreciação na 2.ª série do Diário da República.
 
@@ -525,11 +615,15 @@ O regime de pagamento de despesas, obrigatoriamente por instrumento bancário, e
 
 3 - Para os efeitos previstos neste artigo, a Comissão Nacional de Eleições poderá requisitar ou destacar técnicos qualificados de quaisquer serviços públicos ou recorrer, mediante contrato, aos serviços de empresas especializadas.
 
-###### Artigo 24.º — Sanções
+Artigo 24.º
+
+Sanções
 
 Sem prejuízo da responsabilidade civil ou penal a que nos termos gerais de direito haja lugar, os infractores das regras contidas no presente capítulo ficam sujeitos às sanções previstas nos artigos seguintes.
 
-###### Artigo 25.º — Percepção de receitas ou realização de despesas ilícitas
+Artigo 25.º
+
+Percepção de receitas ou realização de despesas ilícitas
 
 1 - Os mandatários financeiros, os candidatos às eleições presidenciais ou os primeiros proponentes de grupos de cidadãos eleitores que obtenham receitas para a campanha eleitoral por formas não consentidas pela presente lei, que não cumpram o disposto no n.º 1 do artigo 15.º ou que não observem os limites previstos no artigo 19.º, são punidos com coima mínima no valor de 20 salários mínimos mensais nacionais e máxima no valor de 100 salários mínimos mensais nacionais.
 
@@ -545,13 +639,17 @@ Sem prejuízo da responsabilidade civil ou penal a que nos termos gerais de dire
 
 7 - A aplicação de coima nos termos dos números anteriores é publicitada, a expensas do infractor, num dos jornais diários de maior circulação nacional, regional ou local, consoante os casos.
 
-###### Artigo 26.º — Não discriminação de receitas e de despesas
+Artigo 26.º
+
+Não discriminação de receitas e de despesas
 
 1 - Os mandatários financeiros, os candidatos às eleições presidenciais e os primeiros proponentes de grupos de cidadãos eleitores que não discriminem ou não comprovem devidamente as receitas e despesas da campanha eleitoral são punidos com coima mínima no valor de 1 salário mínimo mensal nacional e máxima no valor de 80 salários mínimos mensais nacionais.
 
 2 - Os partidos políticos que cometam a infracção prevista no n.º 1 são punidos com coima mínima no valor de 10 salários mínimos mensais nacionais e máxima no valor de 200 salários mínimos mensais nacionais.
 
-###### Artigo 27.º — Não prestação de contas
+Artigo 27.º
+
+Não prestação de contas
 
 1 - Os mandatários financeiros, os candidatos às eleições presidenciais e os primeiros proponentes de grupos de cidadãos eleitores que não prestem contas eleitorais nos termos do artigo 22.º e do n.º 2 do artigo 23.º são punidos com coima mínima no valor de 5 salários mínimos mensais nacionais e máxima no valor de 80 salários mínimos mensais nacionais.
 
@@ -559,7 +657,9 @@ Sem prejuízo da responsabilidade civil ou penal a que nos termos gerais de dire
 
 3 - Sem prejuízo do disposto no número anterior, a não prestação de contas pelos partidos políticos determina a suspensão do pagamento da subvenção estatal a que o partido tenha direito, até à data da sua efectiva apresentação.
 
-###### Artigo 28.º — Coimas
+Artigo 28.º
+
+Coimas
 
 1 - A Comissão Nacional de Eleições é a entidade competente para aplicação das coimas previstas no presente capítulo.
 
@@ -569,7 +669,9 @@ Sem prejuízo da responsabilidade civil ou penal a que nos termos gerais de dire
 
 4 - A Comissão Nacional de Eleições actua, nos prazos legais, por iniciativa própria, a requerimento do Ministério Público ou mediante queixa apresentada por cidadãos eleitores.
 
-###### Artigo 29.º — Subvenção estatal para as campanhas eleitorais
+Artigo 29.º
+
+Subvenção estatal para as campanhas eleitorais
 
 1 - Os partidos políticos que submetam candidaturas às eleições para a Assembleia da República, para as Assembleias Legislativas Regionais e para as autarquias locais e os candidatos às eleições para a Presidência da República têm direito a uma subvenção estatal para a realização das campanhas eleitorais, nos termos previstos nos números seguintes.
 
@@ -585,19 +687,27 @@ Sem prejuízo da responsabilidade civil ou penal a que nos termos gerais de dire
 
 7 - A subvenção estatal prevista neste artigo é solicitada ao Presidente da Assembleia da República nos 15 dias posteriores à declaração oficial dos resultados eleitorais.
 
-### CAPÍTULO IV — Disposições finais e transitórias
+CAPÍTULO IV
 
-###### Artigo 30.º — Contas anuais do ano de 1998
+Disposições finais e transitórias
+
+Artigo 30.º
+
+Contas anuais do ano de 1998
 
 1 - Aplicam-se à apresentação e apreciação das contas anuais do exercício de 1998 os prazos fixados na presente lei.
 
 2 - Às contas do exercício de 1998 aplicam-se as regras da [Lei n.º 72/93](https://diariodarepublica.pt/dr/detalhe/lei/72-1993-428825), de 30 de Novembro.
 
-###### Artigo 31.º — Revogação
+Artigo 31.º
+
+Revogação
 
 São revogadas as Leis n.os [72/93](https://diariodarepublica.pt/dr/detalhe/lei/72-1993-428825), de 30 de Novembro, e [27/95](https://diariodarepublica.pt/dr/detalhe/lei/27-1995-434624), de 18 de Agosto.
 
-###### Artigo 32.º — Vigência
+Artigo 32.º
+
+Vigência
 
 A presente lei entra em vigor na data da sua publicação.
 

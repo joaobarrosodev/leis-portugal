@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1/2026/01/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1-2026-993605128
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-02T00:00:00Z'
+  retrieved_at: '2026-10-22T18:27:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4fcc0c6a4df334018ee6ac8289c5d3cb2d96283537f8ba2d2ba6bc748e49db9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36a09bb542eedb55d5d43b6802e51777c8930f7121780e4ca4053f8685c5968c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:27:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Efeito de Estufa
-- Energia Elétrica
-- Consumo de Energia
-- Poluição Atmosférica
-- Emissão de Títulos
 - Combustível
+- Consumo de Energia
+- Efeito de Estufa
+- Emissão de Títulos
+- Energia Elétrica
 - Gás
-- Proteção do Ambiente
-- Produção de Energia Elétrica
-- Taxa
 - Hidrogénio
+- Poluição Atmosférica
+- Produção de Energia Elétrica
+- Proteção do Ambiente
+- Taxa
 relationships:
 - type: cites
   target: celex:32018L2001
@@ -102,6 +102,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/8/2012/01/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/8/2012/01/04/p/dre
+- type: cites
+  target: pt:dre:204502328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211443515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477089:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928479766:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32018L2001
   label: null
@@ -113,13 +133,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:27:52Z'
   warnings: []
   errors: []
 ---
@@ -154,4 +174,6 @@ b) Da entidade coordenadora do cumprimento dos critérios de sustentabilidade, e
 
 6 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado Adjunto e da Energia, Jean Paulo Gil Barroca, em 22 de dezembro de 2025.**
+O Secretário de Estado Adjunto e da Energia, Jean Paulo Gil Barroca, em 22 de dezembro de 2025.
+
+119936948

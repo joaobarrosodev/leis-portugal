@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45254-1963-686786
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-09-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:36:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a390881fdb7e50d11912b26e237d3976f4e590ce564f36416f3fe5e9c731cf99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8b7458f4cfa0e9f526acd195f9ddb9b2804755b451d991474d5742d0b9fd5ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:36:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:693418:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:36:43Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +91,7 @@ Com fundamento no disposto no artigo 3.º do [Decreto-Lei n.º 45174](https://di
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, o seguinte:
 
-###### Artigo 1.º É transferida a quantia adiante indicada dentro do orçamento do Ministério da Educação Nacional:
+Artigo 1.º É transferida a quantia adiante indicada dentro do orçamento do Ministério da Educação Nacional:
 
 No capítulo 3.º:
 
@@ -101,9 +105,9 @@ N.º 1) «Correios ...» ... +500$00
 
 N.º 2) «Telefones» ... +1500$00
 
-###### Art. 2.º É aberto no Ministério das Finanças, a favor do Ministério da Educação Nacional, um crédito especial da quantia de 515000$00, destinado quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no vigente orçamento do segundo dos mencionados Ministérios, pela forma seguinte:
+Art. 2.º É aberto no Ministério das Finanças, a favor do Ministério da Educação Nacional, um crédito especial da quantia de 515000$00, destinado quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no vigente orçamento do segundo dos mencionados Ministérios, pela forma seguinte:
 
-### Capítulo 3.º «Direcção-Geral do Ensino Superior e das Belas-Artes»:
+Capítulo 3.º «Direcção-Geral do Ensino Superior e das Belas-Artes»:
 
 Instrução universitária
 
@@ -111,25 +115,25 @@ Universidade de Coimbra
 
 Reitoria, Secretaria e Tesouraria
 
-###### Artigo 62.º «Remunerações certas ao pessoal em exercício»:
+Artigo 62.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 3) «Pessoal contratado ou assalariado não pertencente aos quadros» ... 300000$00
 
-###### Artigo 62.º-A «Remunerações acidentais»:
+Artigo 62.º-A «Remunerações acidentais»:
 
 N.º 1) «Horas extraordinárias por serviço prestado no Teatro de Gil Vicente» ... 10000$00
 
-###### Artigo 63.º, n.º 3) «Fardamentos, ...» ... 20000$00
+Artigo 63.º, n.º 3) «Fardamentos, ...» ... 20000$00
 
-###### Artigo 64.º, n.º 1) «Móveis» ... 10000$00
+Artigo 64.º, n.º 1) «Móveis» ... 10000$00
 
-###### Artigo 65.º «Despesas de conservação ...»:
+Artigo 65.º «Despesas de conservação ...»:
 
 N.º 1) «De imóveis», alínea a) «Prédios urbanos» ... 7500$00
 
 N.º 2) «De móveis» ... 4500$00
 
-###### Artigo 66.º «Material de consumo corrente»:
+Artigo 66.º «Material de consumo corrente»:
 
 N.º 1) «Impressos» ... 4500$00
 
@@ -137,22 +141,22 @@ N.º 2) «Artigos de expediente ...» ... 6500$00
 
 ... 363000$00
 
-###### Art. 3.º Para compensação do crédito referido no artigo anterior efectuam-se as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de redução em verbas de despesa:
+Art. 3.º Para compensação do crédito referido no artigo anterior efectuam-se as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de redução em verbas de despesa:
 
 Ministério das Finanças
 
-### Capítulo 1.º, artigo 12.º ... 155000$00
+Capítulo 1.º, artigo 12.º ... 155000$00
 
 Ministério da Educação Nacional
 
-### Capítulo 3.º, artigo 71.º, n.º 1), alínea a) ... 135000$00
+Capítulo 3.º, artigo 71.º, n.º 1), alínea a) ... 135000$00
 
-### Capítulo 3.º, artigo 71.º, n.º 1), alínea b) ... 73000$00
+Capítulo 3.º, artigo 71.º, n.º 1), alínea b) ... 73000$00
 
 ... 208000$00
 
 ... 363000$00
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Setembro de 1963. - ANTÓNIO DE OLIVEIRA SALAZAR - António Manuel Pinto Barbosa - Inocêncio Galvão Teles.

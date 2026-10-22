@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 251/1991, 5º Suplemento, Série I-B de 1991-10-31
   number: '251'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 5618-(9) a 5618-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/251b05/00090009.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/242/1991/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/242-1991-406733
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-10-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:30:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32f1525b102114420991d07a6ea26392c1ccc9651b18b67e339d1f71cb31461a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0c9e997c7577fecc41bf785c5e6a5b9765d5a4a60704d50b2fa05e57b6b5e60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:30:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,21 +74,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/decl/93/1991/06/25/p/dre
   label: null
   source: http://data.dre.pt/eli/decl/93/1991/06/25/p/dre
+- type: cites
+  target: pt:dre:647899:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:30:51Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 242/91
+# Declaração de rectificação n.º 242/91
 
 Segundo comunicação da 8.ª Delegação da Direcção-Geral da Contabilidade Pública junto do Ministério da Agricultura, Pescas e Alimentação, a [Declaração n.º 93/91](https://diariodarepublica.pt/dr/detalhe/declaracao/93-1991-647899), publicada no Diário da República, n.º 148, de 25 de Junho de 1991, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 

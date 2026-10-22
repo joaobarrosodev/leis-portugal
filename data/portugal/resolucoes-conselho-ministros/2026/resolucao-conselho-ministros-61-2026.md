@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/61/2026/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/61-2026-1076925538
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-25T00:00:00Z'
+  retrieved_at: '2026-10-22T18:36:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8835d42df6c8a8de51bd17cd52b81c1ab89d6a39abfb0282d36aaf41d6a74b49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab5b940a5b66435a810671074009284a3a6f5c9d0251f5993d1fd56e74167412
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:36:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assembleia Municipal
+- Autarquia Local
 - Carreira de Polícia Municipal
 - Conselho de Ministros
-- Regulamentação de Atos Legislativos
 - Leiria
-- Regulamento
-- Autarquia Local
 - Ratificação
+- Regulamentação de Atos Legislativos
+- Regulamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/197/2008/10/07/p/dre
@@ -103,23 +103,51 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/304-a/2015/09/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/304-a/2015/09/22/p/dre
+- type: cites
+  target: pt:dre:270386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70361627:por
+  label: null
+  source: null
 article_structure:
   article_count: 65
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 16
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:36:38Z'
   warnings: []
   errors: []
 ---
 
 # Resolução do Conselho de Ministros n.º 61/2026
 
-O Município de Leiria, segundo dados dos Censos 2021, conta com 128 603 habitantes, distribuídos por um território com 565,09 km<sup>2</sup>, no qual se encontram integradas as Freguesias e Uniões das Freguesia de Amor, Arrabal, Bajouca, Bidoeira de Cima, Caranguejeira, Carreira, Coimbrão, Maceira, Milagres, Monte Redondo, Ortigosa, Regueira de Pontes, Souto de Carpalhosa, Colmeias e Memória, Leiria, Pousos e Barreira e Cortes, Marrazes e Barosa, Monte Real e Carvide, Parceiros e Azoia, Santa Catarina da Serra e Chainça, Santa Eufémia e Boa Vista.
+O Município de Leiria, segundo dados dos Censos 2021, conta com 128 603 habitantes, distribuídos por um território com 565,09 km2, no qual se encontram integradas as Freguesias e Uniões das Freguesia de Amor, Arrabal, Bajouca, Bidoeira de Cima, Caranguejeira, Carreira, Coimbrão, Maceira, Milagres, Monte Redondo, Ortigosa, Regueira de Pontes, Souto de Carpalhosa, Colmeias e Memória, Leiria, Pousos e Barreira e Cortes, Marrazes e Barosa, Monte Real e Carvide, Parceiros e Azoia, Santa Catarina da Serra e Chainça, Santa Eufémia e Boa Vista.
 
 A [Lei Constitucional n.º 1/97](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-1997-653562), de 20 de setembro, que procedeu à quarta revisão constitucional, veio permitir que os municípios possam criar polícias municipais que, além das competências de polícia administrativa já anteriormente reconhecidas, disponham, ainda, de poderes de atuação nos domínios da manutenção da tranquilidade pública e da proteção das comunidades locais, nos termos do n.º 3 do artigo 237.º da Constituição da República Portuguesa, em cooperação com as forças de segurança.
 
@@ -133,7 +161,7 @@ Nestes termos, entende o Governo que se encontram reunidas as condições necess
 
 Assim:
 
-Nos termos do n.º 3 do artigo 11.º da [Lei n.º 19/2004](https://diariodarepublica.pt/dr/detalhe/lei/19-2004-270386), de 20 de maio, dos n.<sup>os</sup>1 e 2 do artigo 5.º do [Decreto-Lei n.º 197/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), de 7 de outubro, e da alínea g) do artigo 199.º e da alínea g) do n.º 1 do artigo 200.º da Constituição, o Conselho de Ministros resolve:
+Nos termos do n.º 3 do artigo 11.º da [Lei n.º 19/2004](https://diariodarepublica.pt/dr/detalhe/lei/19-2004-270386), de 20 de maio, dos n.os1 e 2 do artigo 5.º do [Decreto-Lei n.º 197/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), de 7 de outubro, e da alínea g) do artigo 199.º e da alínea g) do n.º 1 do artigo 200.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Ratificar a deliberação da Assembleia Municipal de Leiria, de 21 de junho de 2024, que aprovou a criação da Polícia Municipal de Leiria e o respetivo Regulamento de Organização e Funcionamento da Polícia Municipal de Leiria, que consta do anexo à presente resolução e da qual faz parte integrante.
 
@@ -157,7 +185,7 @@ O presente Regulamento estabelece as normas de organização e funcionamento da 
 
 ###### Artigo 3.º — Competência territorial
 
-1 - A competência territorial da Polícia Municipal de Leiria coincide com a área geográfica do Município, repartida pelas suas Freguesias, com a área total de 565,09 km<sup>2</sup>.
+1 - A competência territorial da Polícia Municipal de Leiria coincide com a área geográfica do Município, repartida pelas suas Freguesias, com a área total de 565,09 km2.
 
 2 - Os agentes da Polícia Municipal de Leiria não podem atuar fora do território do respetivo Município, exceto em situações de flagrante delito ou em emergência de socorro, mediante solicitação da autoridade municipal competente.
 
@@ -195,7 +223,7 @@ e) Regulação e fiscalização do trânsito rodoviário e pedonal na área de j
 
 3 - Para os efeitos referidos no n.º 1, os órgãos da Polícia Municipal de Leiria têm competência para o levantamento de auto ou desenvolvimento de inquérito por ilícito de mera ordenação social, de transgressão ou criminal por factos estritamente conexos com violação de lei ou recusa da prática de ato legalmente devido no âmbito das relações administrativas.
 
-4 - Quando, por efeito do exercício dos poderes de autoridade previstos nos n.<sup>os</sup>1 e 2, os órgãos da Polícia Municipal diretamente verifiquem o cometimento de qualquer crime podem proceder à identificação e revista dos suspeitos no local do cometimento do ilícito, bem como à sua imediata condução à autoridade judiciária ou ao órgão de polícia criminal competente.
+4 - Quando, por efeito do exercício dos poderes de autoridade previstos nos n.os1 e 2, os órgãos da Polícia Municipal diretamente verifiquem o cometimento de qualquer crime podem proceder à identificação e revista dos suspeitos no local do cometimento do ilícito, bem como à sua imediata condução à autoridade judiciária ou ao órgão de polícia criminal competente.
 
 5 - Sem prejuízo do disposto nos números anteriores, é vedado à Polícia Municipal de Leiria o exercício de competências próprias dos órgãos de polícia criminal.
 
@@ -571,7 +599,9 @@ Em caso de anomalias ou defeitos no funcionamento da arma, o titular da mesma de
 
 O Município coloca à disposição da Polícia Municipal de Leiria os veículos necessários ao eficaz e eficiente desempenho das suas funções.
 
-###### Artigo 48.º — Livro de registos
+###### Artigo 48.º
+
+## Livro de registos
 
 1 - Cada veículo tem um livro de registos no qual deve constar:
 
@@ -704,13 +734,13 @@ Mapa de pessoal
 | Serviço | Carreira | Categoria | Postos de trabalho |
 | --- | --- | --- | --- |
 | Polícia Municipal | Polícia municipal | Graduado-coordenador | 50 |
-| Polícia Municipal | Polícia municipal | Agente graduado principal | 50 |
-| Polícia Municipal | Polícia municipal | Agente graduado | 50 |
-| Polícia Municipal | Polícia municipal | Agente municipal de 1.ª classe | 50 |
-| Polícia Municipal | Polícia municipal | Agente municipal de 2.ª classe | 50 |
-| Polícia Municipal | Polícia municipal | Estagiário | 50 |
-| Polícia Municipal | Assistente técnico | Assistente técnico | 2 |
-| Polícia Municipal | Assistente operacional | Assistente operacional | 2 |
+| Agente graduado principal |  |  |  |
+| Agente graduado |  |  |  |
+| Agente municipal de 1.ª classe |  |  |  |
+| Agente municipal de 2.ª classe |  |  |  |
+| Estagiário |  |  |  |
+| Assistente técnico | Assistente técnico | 2 |  |
+| Assistente operacional | Assistente operacional | 2 |  |
 
 ## ANEXO II — (a que se refere o artigo 33.º)
 
@@ -722,6 +752,11 @@ Emblema: o emblema baseia-se na heráldica do Município de Leiria, sendo consti
 
 A representação figurativa é a seguinte:
 
-![](https://files.diariodarepublica.pt/images/1076925538/1077224080.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1076925538/1077224080.png) |
+| --- |
 
 2 - Viaturas: o modelo de caracterização das viaturas encontra-se definido na [Portaria n.º 304-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/304-a-2015-70361627), de 22 de setembro.
+
+119947814
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:18px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; }

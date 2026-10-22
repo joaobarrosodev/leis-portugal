@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/28/2004/03/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-2004-209648
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-23T00:00:00Z'
+  retrieved_at: '2026-10-22T19:03:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8de470fff36dde8b532f0fd40b60b48f9515e353c486138a51946f495e83f43
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec33bf1c53c92187d4bbc0b2ff6c5c24149a9ff38a9944102ecbe274a4bfa123
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:03:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,8 +71,8 @@ subjects:
 - ADSE
 - Assistência Medicamentosa
 - Comparticipação do Estado
-- Medicamento
 - Informação do Consumidor
+- Medicamento
 - Prorrogação de Prazo
 relationships:
 - type: cites
@@ -83,16 +83,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/31/2004/02/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/31/2004/02/06/p/dre
+- type: cites
+  target: pt:dre:582014:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:03:24Z'
   warnings: []
   errors: []
 ---

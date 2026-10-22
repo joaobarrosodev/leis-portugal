@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/asst/6/1993/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/assento/6-1993-682997
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-07T00:00:00Z'
+  retrieved_at: '2026-10-22T18:27:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5be3465fe9165cf45f20af88dbc793973105a9fae13b50d2f0f00a64a5686754
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f7904ccea11aff468915a0773dd552b45cff98a8bd632a4b8519185c2edd957
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:27:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,19 +69,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Crime
-- Instituição de Crédito
+- Banca
 - Cheque
 - Contra-ordenação
-- Pagamento
-- Indemnização
-- Banca
-- Interpretação do Direito
-- Títulos de Crédito
-- Sanção Penal
+- Crime
 - Direito Penal
+- Indemnização
+- Instituição de Crédito
+- Interpretação do Direito
+- Pagamento
 - Responsabilidade Civil
 - Responsabilidade Criminal
+- Sanção Penal
+- Títulos de Crédito
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/454/1991/12/28/p/dre
@@ -91,16 +91,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/30/1991/07/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/30/1991/07/20/p/dre
+- type: cites
+  target: pt:dre:252410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662559:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:27:44Z'
   warnings: []
   errors: []
 ---
@@ -141,9 +177,9 @@ Solução que, no silêncio do Código de Processo Penal sobre este ponto concre
 
 O [Decreto n.º 13004](https://diariodarepublica.pt/dr/detalhe/decreto/13004-1927-252410), de 12 de Janeiro de 1927, além do mais, estabelece:
 
-###### Art. 23.º É considerada criminosa a emissão de um cheque que, apresentado a pagamento no competente prazo do artigo 12.º [hoje artigo 29.º da Lei Uniforme] do presente decreto com força de lei, não for integralmente pago por falta de provisão.
+Art. 23.º É considerada criminosa a emissão de um cheque que, apresentado a pagamento no competente prazo do artigo 12.º [hoje artigo 29.º da Lei Uniforme] do presente decreto com força de lei, não for integralmente pago por falta de provisão.
 
-###### Art. 24.º Ao sacador de um cheque cujo não pagamento, por falta de provisão, tiver sido verificado nos termos e no prazo prescritos nos artigos 21.º e 22.º do presente decreto com força de lei será aplicada, a pedido do portador do cheque, a pena de seis meses a dois anos de prisão correccional.
+Art. 24.º Ao sacador de um cheque cujo não pagamento, por falta de provisão, tiver sido verificado nos termos e no prazo prescritos nos artigos 21.º e 22.º do presente decreto com força de lei será aplicada, a pedido do portador do cheque, a pena de seis meses a dois anos de prisão correccional.
 
 § único. A aplicação desta pena não isenta o sacador do cheque da responsabilidade civil, ou de qualquer outra, em que, por disposição especial, possa incorrer.
 

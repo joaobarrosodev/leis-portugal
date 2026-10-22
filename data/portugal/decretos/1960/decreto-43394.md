@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43394-1960-512809
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-12-13T00:00:00Z'
+  retrieved_at: '2026-10-22T19:21:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22515692fd930a7d5c2bf43df7c95202a2fbd5d5ec781123f41e0d449b2b69ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d464819920a686668c7328678f69402de7278d4aefa0a7339837be817296085
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:21:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:21:32Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +95,9 @@ Tendo em vista o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3 º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Repartição dos Serviços Administrativos da Direcção-Geral dos Edifícios e Monumentos Nacionais do Ministério das Obras Públicas a celebrar contrato com a firma Martins & Guedes, Lda., para a execução da empreitada designada por «Construção do edifício do picadeiro do Colégio Militar», pela importância de 1368367$00, acrescidos de 54735$00 para despesas de expediente e administração.
+Artigo 1.º É autorizada a Repartição dos Serviços Administrativos da Direcção-Geral dos Edifícios e Monumentos Nacionais do Ministério das Obras Públicas a celebrar contrato com a firma Martins & Guedes, Lda., para a execução da empreitada designada por «Construção do edifício do picadeiro do Colégio Militar», pela importância de 1368367$00, acrescidos de 54735$00 para despesas de expediente e administração.
 
-###### Art. 2.º Seja qual for o valor dos trabalhos a realizar, não poderá o conselho administrativo da Direcção dos Serviços de Fortificações e Obras Militares despender com pagamentos relativos aos trabalhos executados, por virtude deste contrato, e a despesa de expediente e administração mais do que as importâncias abaixo indicadas:
+Art. 2.º Seja qual for o valor dos trabalhos a realizar, não poderá o conselho administrativo da Direcção dos Serviços de Fortificações e Obras Militares despender com pagamentos relativos aos trabalhos executados, por virtude deste contrato, e a despesa de expediente e administração mais do que as importâncias abaixo indicadas:
 
 Em 1960 ... 104000$00
 
@@ -103,6 +107,6 @@ Em 1962 ... 279102$00
 
 ou o que se apurar como saldo nos anos de 1960 e 1961.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 13 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Júlio Carlos Alves Dias Botelho Moniz - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Eduardo de Arantes e Oliveira.

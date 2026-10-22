@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44998-1963-196261
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-04-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:34:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c423fb9266145bc8b25185062d1c420573ca4d21c189cbbb3fe1753de0738b85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c316d500c9f1fe435df5d91fc396c2e90678da6767f21da5a70db842d96e7ad9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:34:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:352928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577167:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:34:35Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +101,7 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A cidade de João Belo terá direito a usar:
+Artigo 1.º A cidade de João Belo terá direito a usar:
 
 Armas. - De verde, uma faixa ondada de prata. Em chefe uma espada de ouro e uma flecha do mesmo, sobrepostas e contrapostas em faixa. Em contrachefe uma âncora de ouro. Coroa mural de prata cinco torres. Listel branco levando, em caracteres negros, a inscrição «João Belo».
 
@@ -101,9 +109,9 @@ Bandeira. - Esquartelada de amarelo e branco. Cordões e borlas de prata e ouro;
 
 Selo. - Dentro de listel circular com as palavras «Câmara Municipal de Gaza», os elementos do brasão sem os esmaltes.
 
-###### Art. 2.º Fica revogado o Diploma Legislativo Ministerial n.º 1, de 6 de Agosto de 1956.
+Art. 2.º Fica revogado o Diploma Legislativo Ministerial n.º 1, de 6 de Agosto de 1956.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Abril de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

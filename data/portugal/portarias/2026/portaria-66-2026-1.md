@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/66/2026/02/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/66-2026-1047287414
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-12T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ae9f0b6d5d81b757de6e06271201cd572cdc3953b1f6bd5b80f83dd360ab359
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0744da55fc1fb968d6bf5481569a013b6e308627f840dfbd33460fcec7176127
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
 subjects:
 - Administração de Portos
 - Carreira Profissional
-- Setor Empresarial do Estado
 - Instituto Portuário
 - Quadro de Pessoal
 - Remuneração
+- Setor Empresarial do Estado
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133/2013/10/03/p/dre
@@ -93,16 +93,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/218/2002/03/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/218/2002/03/12/p/dre
+- type: cites
+  target: pt:dre:265506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667362:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:01Z'
   warnings: []
   errors: []
 ---
@@ -123,15 +143,15 @@ Assim, nos termos do disposto no EPAP e da [Portaria n.º 1098/99](https://diari
 
 3 - O disposto na presente portaria produz efeitos a 1 de janeiro de 2026.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 5 de fevereiro de 2026. - O Ministro das Infraestruturas e Habitação, Miguel Martinez de Castro Pinto Luz, em 6 de fevereiro de 2026.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 5 de fevereiro de 2026. - O Ministro das Infraestruturas e Habitação, Miguel Martinez de Castro Pinto Luz, em 6 de fevereiro de 2026.
 
 ## ANEXO — (a que se refere o n.º 1)
 
 Mapa de pessoal
 
-| Grupo profissional | Carreira | Horário(H) | 6 | 5 | 4 | 3 | 2 | 1 |
+| Grupo profissional | Carreira | Horário(H) | Graus de desenvolvimento e bases de remuneração |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Grupo profissional | Carreira | Horário(H) | Graus de desenvolvimento e bases de remuneração | Graus de desenvolvimento e bases de remuneração | Graus de desenvolvimento e bases de remuneração | Graus de desenvolvimento e bases de remuneração | Graus de desenvolvimento e bases de remuneração | Graus de desenvolvimento e bases de remuneração |
+| 6 | 5 | 4 | 3 | 2 | 1 |  |  |  |
 | 1 | Assessor/a | H(1) | - | - | - | 28 | 29 | 30 |
 |  | Técnico/a superior | 35 | 20 | 22 | 23 | 24 | 25 | 26 |
 |  | Oficial da marinha mercante I | 40 | - | - | - | - | - | - |
@@ -192,9 +212,9 @@ H(2) - trinta e cinco horas, com exceção dos/as técnicos/as que trabalham na 
 
 Carreiras residuais
 
-| Grupo profissional | Carreira | Horário(H) | 6 | 5 | 4 | 3 | 2 | 1 |
+| Grupo profissional | Carreira | Horário(H) | Graus de desenvolvimento e bases de remuneração |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Grupo profissional | Carreira | Horário(H) | Graus de desenvolvimento e bases de remuneração | Graus de desenvolvimento e bases de remuneração | Graus de desenvolvimento e bases de remuneração | Graus de desenvolvimento e bases de remuneração | Graus de desenvolvimento e bases de remuneração | Graus de desenvolvimento e bases de remuneração |
+| 6 | 5 | 4 | 3 | 2 | 1 |  |  |  |
 | 3 | Adjunto/a de exploração | 40 | - | - | - | 18 | 19 | 20 |
 |  | Adjunto/a técnico/a | 40 | - | - | - | - | - | - |
 |  | Assistente administrativo/a | 35 | - | - | - | - | - | - |
@@ -210,3 +230,7 @@ Carreiras residuais
 |  | Jardineiro/a | 40 | - | - | - | - | - | - |
 
 H - duração normal do trabalho semanal.
+
+119947632
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:17px; } .Tbl4 { text-align:center; } .Tbl5 { height:26px; } .Tbl6 { min-height:18px; } .Tbl7 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl10 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; }

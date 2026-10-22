@@ -95,6 +95,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/28/2019/02/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/28/2019/02/13/p/dre
+- type: cites
+  target: pt:dre:119487065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490009:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1102472589:por
+  label: Retificados os indicadores de resultado e a meta da medida 2.1.5 pelo(a) Declaração de Retificação n.º 14-A/2026/1
+    - Diário da República n.º 83/2026, Suplemento, Série I de 2026-04-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/14-a-2026-1102472589
+  date: '2026-04-29'
 article_structure:
   article_count: 0
   section_count: 8

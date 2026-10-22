@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 211/2023, 2º Suplemento, Série I de 2023-10-31
   number: '211'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 40-(2) a 40-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/21102/0000200006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/22-a/2023/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/22-a-2023-223683278
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:14:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45cecf081c92d74fb0e0ea3dba034c86784167c7c2f4a47853252ce7277007c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d58b2a55695d172cdfdcf1aeb8cab7db80f80e45c4bdf7e19238059ddb9a9b93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:14:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
 subjects:
 - Ordenamento do Território
 - Parque Natural das Serras de Aire e Candeeiros
-- Proteção do Ambiente
-- Zona de Proteção
 - Política de Solos
+- Proteção do Ambiente
 - Regulamento
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/140/1999/04/24/p/dre
@@ -101,16 +101,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/115-a/2008/07/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/115-a/2008/07/21/p/dre
+- type: cites
+  target: pt:dre:130273578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159432383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221148610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649774:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:14:24Z'
   warnings: []
   errors: []
 ---
@@ -125,10 +157,10 @@ Nos termos das disposições da alínea f) do n.º 1 do artigo 5.º do [Decreto-
 
 Concelhos e freguesias abrangidos pela área do PNSAC
 
-|  |  |  |  |
+| Municípios | Freguesias | Área inserida<br>no PNSAC |  |
 | --- | --- | --- | --- |
-| Municípios | Freguesias | Área inserida no PNSAC | Área inserida no PNSAC |
-| NUT II - CENTRO NUT III - Médio Tejo | NUT II - CENTRO NUT III - Médio Tejo | NUT II - CENTRO NUT III - Médio Tejo |  |
+|  |  |  |  |
+| NUT II - CENTRO<br>NUT III - Médio Tejo |  |  |  |
 | Alcanena... | União das freguesias de Alcanena e Vila Moreira... | Parcial. |  |
 |  | Serra de Santo António... | Total. |  |
 |  | Minde... | Parcial. |  |
@@ -139,7 +171,7 @@ Concelhos e freguesias abrangidos pela área do PNSAC
 |  | N. Sr.ª das Misericórdias... | Parcial. |  |
 | Torres Novas... | Chancelaria... | Parcial. |  |
 |  | Pedrógão... | Parcial. |  |
-| NUT III - Região de Leiria | NUT III - Região de Leiria | NUT III - Região de Leiria |  |
+| NUT III - Região de Leiria |  |  |  |
 | Porto de Mós... | Alqueidão da Serra... | Parcial. |  |
 |  | União das freguesias de Alvados e Alcaria... | Parcial. |  |
 |  | União das freguesias de Arrimal e Mendiga... | Total. |  |
@@ -148,12 +180,12 @@ Concelhos e freguesias abrangidos pela área do PNSAC
 |  | União das freguesias de S. João Baptista e S. Pedro... | Parcial. |  |
 |  | Serro Ventoso... | Total. |  |
 |  | S. Bento... | Total. |  |
-| NUT III - Oeste | NUT III - Oeste | NUT III - Oeste |  |
+| NUT III - Oeste |  |  |  |
 | Alcobaça... | Aljubarrota... | Parcial. |  |
 |  | Benedita... | Parcial. |  |
 |  | Évora de Alcobaça... | Parcial. |  |
 |  | Turquel... | Total. |  |
-| NUT II - ALENTEJO NUT III - Lezíria do Tejo | NUT II - ALENTEJO NUT III - Lezíria do Tejo | NUT II - ALENTEJO NUT III - Lezíria do Tejo |  |
+| NUT II - ALENTEJO<br>NUT III - Lezíria do Tejo |  |  |  |
 | Rio Maior... | Alcobertas... | Parcial. |  |
 |  | Rio Maior... | Parcial. |  |
 | Santarém... | Abrã... | Parcial. |  |
@@ -166,10 +198,10 @@ deve ler-se:
 
 Concelhos e freguesias abrangidos pela área do PNSAC
 
-|  |  |  |  |
+| Municípios | Freguesias | Área inserida<br>no PNSAC |  |
 | --- | --- | --- | --- |
-| Municípios | Freguesias | Área inserida no PNSAC | Área inserida no PNSAC |
-| NUT II - CENTRO NUT III - Médio Tejo | NUT II - CENTRO NUT III - Médio Tejo | NUT II - CENTRO NUT III - Médio Tejo |  |
+|  |  |  |  |
+| NUT II - CENTRO<br>NUT III - Médio Tejo |  |  |  |
 | Alcanena... | União das freguesias de Alcanena e Vila Moreira... | Parcial. |  |
 |  | Serra de Santo António... | Total. |  |
 |  | Minde... | Parcial. |  |
@@ -180,7 +212,7 @@ Concelhos e freguesias abrangidos pela área do PNSAC
 |  | N. Sr.ª das Misericórdias... | Parcial. |  |
 | Torres Novas... | Chancelaria... | Parcial. |  |
 |  | Pedrógão... | Parcial. |  |
-| NUT III - Região de Leiria | NUT III - Região de Leiria | NUT III - Região de Leiria |  |
+| NUT III - Região de Leiria |  |  |  |
 | Porto de Mós... | Alqueidão da Serra... | Parcial. |  |
 |  | União das freguesias de Alvados e Alcaria... | Parcial. |  |
 |  | União das freguesias de Arrimal e Mendiga... | Total. |  |
@@ -189,12 +221,12 @@ Concelhos e freguesias abrangidos pela área do PNSAC
 |  | União das freguesias de S. João Baptista e S. Pedro... | Parcial. |  |
 |  | Serro Ventoso... | Total. |  |
 |  | S. Bento... | Total. |  |
-| NUT III - Oeste | NUT III - Oeste | NUT III - Oeste |  |
+| NUT III - Oeste |  |  |  |
 | Alcobaça... | Aljubarrota... | Parcial. |  |
 |  | Benedita... | Parcial. |  |
 |  | Évora de Alcobaça... | Parcial. |  |
 |  | Turquel... | Parcial. |  |
-| NUT II - ALENTEJO NUT III - Lezíria do Tejo | NUT II - ALENTEJO NUT III - Lezíria do Tejo | NUT II - ALENTEJO NUT III - Lezíria do Tejo |  |
+| NUT II - ALENTEJO<br>NUT III - Lezíria do Tejo |  |  |  |
 | Rio Maior... | Alcobertas... | Parcial. |  |
 |  | Rio Maior... | Parcial. |  |
 | Santarém... | Abrã... | Parcial. |  |
@@ -278,3 +310,7 @@ deve ler-se:
 «NGe.18. Encontram-se sujeitas a comunicação prévia ao ICNF, I. P., a realização de exercícios militares bem como as ações de fiscalização e vigilância que recorram à utilização de drones.»
 
 Secretaria-Geral, 31 de outubro de 2023. - A Secretária-Geral Adjunta, Fátima Costa Ferreira.
+
+117018079
+
+.Tbl1 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl2 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl3 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl4 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:9.5; vertical-align:top; } .Tbl5 { text-align:center; border-bottom-color:transparent; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:9.5; vertical-align:top; } .Tbl6 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Bold; font-size:9.5; vertical-align:top; } .Tbl7 { text-align:center; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:9.5; vertical-align:top; } .Tbl8 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl9 { text-align:justify; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl10 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl11 { text-align:justify; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl12 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:9.5; vertical-align:top; } .Tbl13 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl14 { text-align:justify; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl15 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; }

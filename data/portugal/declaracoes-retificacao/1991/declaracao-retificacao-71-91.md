@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 99/1991, 1º Suplemento, Série I-A de 1991-04-30
   number: '99'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2380-(4) a 2380-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/099a01/00040004.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/71/1991/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/71-1991-185152
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ebeb6af34aeeaf7594cc91907de0b410019a86eeb93adb4233b3888c2c8e2c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3fc1ad3b2e575be5025db56995ea8182cad5f4a43872af3ddb5ed568833f339
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,45 +67,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Banco de Portugal
 - Banco Europeu de Reconstrução e Desenvolvimento
 - Convenção
-- Portugal
-- Banco de Portugal
 - Iniciativa Privada
 - Integração Económica
+- Portugal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/137/1991/04/05/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/137/1991/04/05/p/dre
+- type: cites
+  target: pt:dre:140559:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:25Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 71/91
+# Declaração de rectificação n.º 71/91
 
 Para os devidos efeitos se declara que o [Decreto-Lei n.º 137/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1991-140559), publicado no Diário da República, n.º 79 (suplemento), de 5 de Abril, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 
 No final do decreto-lei, onde se lê:
 
-**Promulgado em 4 de Abril de 1991.**
+Promulgado em 4 de Abril de 1991.
 
-**Referendado em 4 de Abril de 1991.**
+Referendado em 4 de Abril de 1991.
 
 deve ler-se:
 
-**Promulgado em 5 de Abril de 1991.**
+Promulgado em 5 de Abril de 1991.
 
-**Referendado em 5 de Abril de 1991.**
+Referendado em 5 de Abril de 1991.
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 10 de Abril de 1991. - O Secretário-Geral, França Martins.

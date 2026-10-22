@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/51/2009/07/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/51-2009-492247
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-26T00:00:00Z'
+  retrieved_at: '2026-10-22T19:11:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9fc7fa2ae17aedbc4632ce9fd2386a13329a6f63badd70d9f9b91b41d0d9c4b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7129ee16df2b5dc062f58b450ca272a3c5d9a0d491848bfd9425b3888af5c5c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:11:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,15 +71,52 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Produto Biocida
-- Medicamento
-- Produto Farmacêutico
 - Comércio
+- Medicamento
+- Produto Biocida
+- Produto Farmacêutico
 relationships:
 - type: amended_by
   target: pt:dre:497401:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:609369:por
+  label: "Alterado o anexo I do Dec Lei 121/2002, de 03-Maio, (na redacção do Dec Lei 116/2009, de 18-Maio, rectificado pelo\
+    \ presente diploma) pelo DEC LEI.13/2010.24.02.2010.MS, DR.IS [38] de 24.02.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-2010-609369
+  date: '2010-02-24'
+- type: amended_by
+  target: pt:dre:307850:por
+  label: "Alterado o anexo I do Dec Lei 121/2002 de 03-Mai, alterado pelo Dec Lei 116/2009, de 18-Mai, rectificado pelo presente\
+    \ diploma, pelo DEC LEI.112/2010.20.10.2010.MS, DR.IS [204] de 20.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/112-2010-307850
+  date: '2010-10-20'
+- type: amended_by
+  target: pt:dre:277589:por
+  label: "Alterado o anexo I do Dec Lei 121/2002 de 03-Maio, rectificado pelo presente diploma, pelo DEC LEI.47/2011.31.03.2011.MS,\
+    \ DR.IS [64] de 31.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-2011-277589
+  date: '2011-03-31'
+- type: amended_by
+  target: pt:dre:179514:por
+  label: "Alterado e republicado o anexo I do Dec Lei 121/2002, de 03-maio, retificado pela presente declaração, pelo DEC\
+    \ LEI.154/2012.16.07.2012.MS, DR.IS [136] de 16.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2012-179514
+  date: '2012-07-16'
+- type: amended_by
+  target: pt:dre:259897:por
+  label: "Alterado o anexo I do Dec Lei 121/2002 de 03-mai, com as alterações constantes do Dec Lei 116/2009 de 18-mai - retificado\
+    \ pelo presente diploma, pelo DEC LEI.40/2013.18.03.2013.MS, DR.IS [54] de 18.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-2013-259897
+  date: '2013-03-18'
+- type: amended_by
+  target: pt:dre:497401:por
+  label: "Altera, com efeitos a partir de 01.02.2015, o anexo I do Dec Lei 121/2002 de 03-mai, com as alterações introduzidas\
+    \ pelo Dec Lei 116/2009 de 18-mai, retificado pelo presente diploma, pelo DEC LEI.85/2013.26.06.2013.MS, DR.IS [121] de\
+    \ 26.06.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/85-2013-497401
+  date: '2013-06-26'
 - type: cites
   target: celex:31998L0008
   label: null
@@ -124,16 +161,31 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608683:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:116/2009
+  label: "Rectifica os n.ºs 4, 9, 10, 13 e 14 do Anexo I ao Decreto-Lei n.º 116/2009, de 18 de Maio, DR.IS [95], que altera\
+    \ o Anexo I do Decreto-Lei n.º 121/2002 de 3 de Maio, na redacção dos Decretos-Leis n.ºs 332/2007, de 9 de Outubro e 138/2008,\
+    \ de 21 de Julho \0 \0"
+  source: null
+  date: '2009-05-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:11:42Z'
   warnings: []
   errors: []
 ---

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/16/2026/08/04/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2026-1154275226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-04T00:00:00Z'
+  retrieved_at: '2026-10-22T18:49:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25599acadf032e8bc19f4deb27b2cdcbf51e37dc22d6d1396701104f61659ae0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0ecb58dd88e4ff2909a2ea2da2cb4e0b4ee18558eb6fef201afba040bee3059
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:49:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Águas Públicas
-- Instituto da ÁGUA
 - Calheta(madeira)
-- Contrato de Concessão
-- Recursos Hídricos
-- Domínio Público Marítimo
-- Propriedade do Estado
-- Empresa de Electricidade da Madeira
-- Empreendimento de Fins Múltiplos
 - Comissão de Coordenação e Desenvolvimento Regional
-- Produção de Energia Elétrica
-- Madeira.região Autónoma
+- Contrato de Concessão
 - Domínio Público Hídrico
+- Domínio Público Marítimo
+- Empreendimento de Fins Múltiplos
+- Empresa de Electricidade da Madeira
+- Instituto da ÁGUA
+- Madeira.região Autónoma
+- Produção de Energia Elétrica
+- Propriedade do Estado
+- Recursos Hídricos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/226-a/2007/05/31/p/dre
@@ -120,16 +120,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:206297249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641445:por
+  label: null
+  source: null
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:49:13Z'
   warnings: []
   errors: []
 ---
@@ -198,11 +238,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 15 de julho de 2026.
 
-**A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.**
+A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.
 
-**Assinado em 28 de julho de 2026.**
+Assinado em 28 de julho de 2026.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Paulo Duarte Barreto Ferreira.
 
@@ -212,34 +252,34 @@ Aproveitamento Hidroelétrico da Calheta
 
 Rede de levadas e túneis
 
-| Designação | Designação | Designação | Céu aberto | Túneis | Total |
+| Designação | Extensão (m) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Designação | Designação | Designação | Extensão (m) | Extensão (m) | Extensão (m) |
-| Central da Calheta I | Escalão do Rabaçal | Levada velha do Rabaçal (Risco) | 1 386 | - | 1 386 |
-| Central da Calheta I | Escalão do Rabaçal | Levada nova do Rabaçal | 4 361 | 789 | 5 150 |
-| Central da Calheta I | Extensão escalão do Rabaçal | Extensão escalão do Rabaçal | 5 747 | 789 | 6 536 |
-| Central da Calheta I | Escalão da Rocha Vermelha | Levada da Fajã Grande | 4 770 | 130 | 4 900 |
-| Central da Calheta I | Escalão da Rocha Vermelha | Levada da Rocha Vermelha | 7 322 | 1 678 | 9 000 |
-| Central da Calheta I | Escalão da Rocha Vermelha | Levada das Feitas | 1 715 | 2 285 | 4 000 |
-| Central da Calheta I | Extensão escalão da Rocha Vermelha | Extensão escalão da Rocha Vermelha | 13 807 | 4 093 | 17 900 |
-| Central da Calheta I | Extensão global Calheta | Extensão global Calheta | 19 554 | 4 882 | 24 436 |
-| Central da Calheta II |  | Levada da Ponta do Pargo (Levada do Salão) | 1 800 | - | 1 800 |
-| Central da Calheta III(Dr. Rui Rebelo) | Escalão do Paul | Levada do Paul I - Levada do Alecrim | 3 783 | - | 3 783 |
-| Central da Calheta III(Dr. Rui Rebelo) | Escalão do Paul | Levada do Paul II | 10 800 | - | 10 800 |
-| Central da Calheta III(Dr. Rui Rebelo) | Escalão do Paul | Levada Velha do Paul | 1 500 | - | 1 500 |
-| Central da Calheta III(Dr. Rui Rebelo) | Escalão do Paul | Levada de João Cabral | 5 800 | - | 5 800 |
-| Central da Calheta III(Dr. Rui Rebelo) | Extensão escalão do Paul | Extensão escalão do Paul | 21 883 | 0 | 21 883 |
-| Extensão global | Extensão global | Extensão global | 43 237 | 4 882 | 48 119 |
+| Céu aberto | Túneis | Total |  |  |  |
+| **Central da Calheta I** | Escalão do Rabaçal | Levada velha do Rabaçal (Risco) | 1 386 | - | 1 386 |
+| Levada nova do Rabaçal | 4 361 | 789 | 5 150 |  |  |
+| **Extensão escalão do Rabaçal** | **5 747** | **789** | **6 536** |  |  |
+| Escalão da Rocha Vermelha | Levada da Fajã Grande | 4 770 | 130 | 4 900 |  |
+| Levada da Rocha Vermelha | 7 322 | 1 678 | 9 000 |  |  |
+| Levada das Feitas | 1 715 | 2 285 | 4 000 |  |  |
+| **Extensão escalão da Rocha Vermelha** | **13 807** | **4 093** | **17 900** |  |  |
+| **Extensão global Calheta** | **19 554** | **4 882** | **24 436** |  |  |
+| **Central da Calheta II** |  | Levada da Ponta do Pargo (Levada do Salão) | **1 800** | **-** | **1 800** |
+| **Central da Calheta III****(Dr. Rui Rebelo)** | Escalão do Paul | Levada do Paul I - Levada do Alecrim | 3 783 | - | 3 783 |
+| Levada do Paul II | 10 800 | - | 10 800 |  |  |
+| Levada Velha do Paul | 1 500 | - | 1 500 |  |  |
+| Levada de João Cabral | 5 800 | - | 5 800 |  |  |
+| **Extensão escalão do Paul** | **21 883** | **0** | **21 883** |  |  |
+| **Extensão global** | **43 237** | **4 882** | **48 119** |  |  |
 
 Câmaras de carga
 
-| Designação | Designação | Útil (m<sup>3</sup>) | Total (m<sup>3</sup>) |
+| Designação | Capacidade da albufeira/Câmara de carga (m3) |  |  |
 | --- | --- | --- | --- |
-| Designação | Designação | Capacidade da albufeira/Câmara de carga (m<sup>3</sup>) | Capacidade da albufeira/Câmara de carga (m<sup>3</sup>) |
+| Útil (m3) | Total (m3) |  |  |
 | Central Calheta I | Calheta | - | - |
-| Central Calheta I | Escalão do Rabaçal | 120 | 132 |
-| Central Calheta I | Escalão da Rocha Vermelha | 195 | 215 |
-| Central Calheta I | Câmara de Restituição CTAI | 2 800 | - |
+| Escalão do Rabaçal | 120 | 132 |  |
+| Escalão da Rocha Vermelha | 195 | 215 |  |
+| Câmara de Restituição CTAI | 2 800 | - |  |
 | Central Calheta II | Câmara de Carga do Lombo do Salão | 19 090 | 20 000 |
 | Central da Calheta III (Dr. Rui Rebelo) | Barragem do Pico da Urze | 862 806 | 1 014 148 |
 |  | Câmara de acumulação do Paul da Serra | 7 430 | 13 700 |
@@ -309,7 +349,7 @@ h) Comunicar à Autoridade Regional da Água e à Secretaria Regional de Equipam
 
 i) Garantir o regime de caudais ecológicos na Barragem do Pico da Urze, de acordo com o estabelecido pela Autoridade Regional da Água;
 
-j) Garantir, para além dos caudais ecológicos referidos na alínea anterior, e sem prejuízo do disposto no n.º 3 do artigo 6.º do presente anexo, a reserva de um volume mínimo de 100 000 m<sup>3</sup> de água acima do volume morto da barragem, para assegurar a operação diária do sistema hidroelétrico reversível;
+j) Garantir, para além dos caudais ecológicos referidos na alínea anterior, e sem prejuízo do disposto no n.º 3 do artigo 6.º do presente anexo, a reserva de um volume mínimo de 100 000 m3 de água acima do volume morto da barragem, para assegurar a operação diária do sistema hidroelétrico reversível;
 
 k) Realizar a monitorização das afluências e do nível da albufeira, dos caudais ecológicos lançados, da qualidade da água da albufeira, bem como do troço a jusante onde será lançado o caudal ecológico;
 
@@ -396,3 +436,7 @@ Enquanto se mantiver a natureza de sociedade anónima de capitais exclusivamente
 1 - O reconhecimento da EEM como entidade gestora do Aproveitamento Hidroelétrico da Calheta vigora pelo prazo de 50 anos, contados da data da entrada em vigor do presente diploma, prorrogáveis por períodos sucessivos de 5 anos até o limite máximo de 25 anos.
 
 2 - No termo da vigência da gestão do Aproveitamento Hidroelétrico da Calheta prevista no número anterior, a EEM elabora um inventário atualizado das infraestruturas hidráulicas e dos demais bens afetos ao empreendimento.
+
+119949217
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:17px; } .Tbl4 { text-align:center; } .Tbl5 { height:26px; } .Tbl6 { min-height:18px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { min-height:28px; } .Tbl12 { height:23px; } .Tbl13 { min-height:38px; } .Tbl14 { min-height:35px; } .Tbl15 { min-height:32px; } .Tbl16 { min-height:29px; } .Tbl17 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl18 { border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:none; border-bottom-width:1px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl19 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:none; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; }

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/117/2026/06/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/117-2026-1131112574
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-12T00:00:00Z'
+  retrieved_at: '2026-10-22T18:43:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d34bb2f8633793a0ffd6a84242022018ab5fcb57d5647915d4a3533255fec2d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d1fa1acdae0f9e8703c51897b976149cedbc8bd0870daa2cef15e3d51cf34054
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:43:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- CMVM
 - Conselho de Administração
 - Nomeação
-- CMVM
 - Vogal
 relationships:
 - type: cites
@@ -98,16 +98,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/99-a/2021/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/99-a/2021/12/31/p/dre
+- type: cites
+  target: pt:dre:106955049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117537583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176907512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66108236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70237676:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:43:31Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +144,7 @@ validation:
 
 Os estatutos da Comissão do Mercado de Valores Mobiliários (CMVM), aprovados em anexo ao [Decreto-Lei n.º 5/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2015-66108236), de 8 de janeiro, alterados pelas Leis n.º [148/2015](https://diariodarepublica.pt/dr/detalhe/lei/148-2015-70237676), de 9 de setembro, e n.º [99-A/2021](https://diariodarepublica.pt/dr/detalhe/lei/99-a-2021-176907512), de 31 de dezembro, estabelecem, no seu artigo 10.º, que o conselho de administração é composto por um presidente, por um vice-presidente e por três vogais, escolhidos de entre indivíduos com reconhecida idoneidade, competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respetivas funções, competindo a sua indicação ao membro do Governo responsável pela área das finanças.
 
-A designação efetua-se por resolução do Conselho de Ministros, após audição e parecer da comissão competente da Assembleia da República, precedida de parecer da Comissão de Recrutamento e Seleção para a Administração Pública (CReSAP), relativo à adequação do perfil às funções a desempenhar, nos termos dos n.<sup>os</sup>3 a 8 do artigo 17.º da lei-quadro das entidades reguladoras, aprovada em anexo à [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, alterada pelas Leis n.<sup>os</sup>[12/2017](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), de 2 de maio, [71/2018](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), de 31 de dezembro, e [75-B/2020](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), de 31 de dezembro, doravante designada por LQER.
+A designação efetua-se por resolução do Conselho de Ministros, após audição e parecer da comissão competente da Assembleia da República, precedida de parecer da Comissão de Recrutamento e Seleção para a Administração Pública (CReSAP), relativo à adequação do perfil às funções a desempenhar, nos termos dos n.os3 a 8 do artigo 17.º da lei-quadro das entidades reguladoras, aprovada em anexo à [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, alterada pelas Leis n.os[12/2017](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), de 2 de maio, [71/2018](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), de 31 de dezembro, e [75-B/2020](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), de 31 de dezembro, doravante designada por LQER.
 
 De acordo com o disposto no artigo 11.º dos respetivos estatutos, o mandato dos membros do conselho de administração da CMVM tem a duração de seis anos, não sendo renovável.
 
@@ -124,11 +152,11 @@ Por seu turno, o n.º 8 do artigo 17.º da LQER estabelece que o provimento dos 
 
 Dada a vacatura de um cargo de vogal do conselho de administração, por virtude do termo do mandato do anterior titular, pelo decurso do respetivo prazo, torna-se necessário proceder à designação de novo titular daquele cargo.
 
-Nos termos e para os efeitos do disposto nos n.<sup>os</sup>3 e 4 do artigo 17.º da LQER, a personalidade indigitada para o referido cargo foi objeto de avaliação e parecer favorável da CReSAP, através da Deliberação n.º 60/2026, bem como da subsequente audição na Comissão de Orçamento, Finanças e Administração Pública da Assembleia da República, a qual aprovou, em 27 de maio de 2026, o respetivo parecer fundamentado.
+Nos termos e para os efeitos do disposto nos n.os3 e 4 do artigo 17.º da LQER, a personalidade indigitada para o referido cargo foi objeto de avaliação e parecer favorável da CReSAP, através da Deliberação n.º 60/2026, bem como da subsequente audição na Comissão de Orçamento, Finanças e Administração Pública da Assembleia da República, a qual aprovou, em 27 de maio de 2026, o respetivo parecer fundamentado.
 
 Assim:
 
-Nos termos dos artigos 10.º e 11.º dos estatutos da CMVM, aprovados em anexo ao [Decreto-Lei n.º 5/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2015-66108236), de 8 de janeiro, alterados pelas Leis n.º [148/2015](https://diariodarepublica.pt/dr/detalhe/lei/148-2015-70237676), de 9 de setembro, e n.º [99-A/2021](https://diariodarepublica.pt/dr/detalhe/lei/99-a-2021-176907512), de 31 de dezembro, dos n.<sup>os</sup>3 a 8 do artigo 17.º da lei-quadro das entidades reguladoras, aprovada em anexo à [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, alterada pelas Leis n.<sup>os</sup>[12/2017](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), de 2 de maio, [71/2018](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), de 31 de dezembro, e [75-B/2020](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), de 31 de dezembro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos dos artigos 10.º e 11.º dos estatutos da CMVM, aprovados em anexo ao [Decreto-Lei n.º 5/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2015-66108236), de 8 de janeiro, alterados pelas Leis n.º [148/2015](https://diariodarepublica.pt/dr/detalhe/lei/148-2015-70237676), de 9 de setembro, e n.º [99-A/2021](https://diariodarepublica.pt/dr/detalhe/lei/99-a-2021-176907512), de 31 de dezembro, dos n.os3 a 8 do artigo 17.º da lei-quadro das entidades reguladoras, aprovada em anexo à [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, alterada pelas Leis n.os[12/2017](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), de 2 de maio, [71/2018](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), de 31 de dezembro, e [75-B/2020](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), de 31 de dezembro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Designar, sob proposta do Ministro de Estado e das Finanças, para o cargo de vogal do conselho de administração da Comissão do Mercado de Valores Mobiliários (CMVM), em comissão de serviço, o Doutor José Carlos Fernandes de Azevedo Pereira, cuja idoneidade, competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respetivas funções são evidenciadas na respetiva nota curricular e nas conclusões do parecer fundamentado da Comissão de Orçamento, Finanças e Administração Pública, da Assembleia da República, que constam, respetivamente, dos anexos i e ii à presente resolução e da qual fazem parte integrante.
 
@@ -172,10 +200,12 @@ Conclusões do parecer fundamentado da Comissão de Orçamento, Finanças e Admi
 
 «Parte IV - Conclusões
 
-A Assembleia da República, através da Comissão de Orçamento, Finanças e Administração Pública, procedeu à audição do Doutor José Carlos Fernandes de Azevedo Pereira, indigitado para o cargo de Vogal do Conselho de Administração da Comissão do Mercado de Valores Mobiliários (CMVM), nos termos e para os efeitos dos n.<sup>os</sup>3 a 5 do artigo 17.º da lei-quadro das entidades reguladoras, aprovada em anexo a [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto.
+A Assembleia da República, através da Comissão de Orçamento, Finanças e Administração Pública, procedeu à audição do Doutor José Carlos Fernandes de Azevedo Pereira, indigitado para o cargo de Vogal do Conselho de Administração da Comissão do Mercado de Valores Mobiliários (CMVM), nos termos e para os efeitos dos n.os3 a 5 do artigo 17.º da lei-quadro das entidades reguladoras, aprovada em anexo a [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto.
 
 O perfil da personalidade indigitada deve adequar-se às funções a desempenhar, devendo ser-lhe reconhecidas idoneidade, competência técnica, experiência profissional e formação adequadas ao respetivo exercício.
 
 Das respostas dadas às questões formuladas, bem como da análise e escrutínio da respetiva nota curricular, a Comissão de Orçamento, Finanças e Administração Pública considera que o Doutor José Carlos Fernandes de Azevedo Pereira reúne os requisitos necessários para o desempenho da função.
 
 Do presente relatório será dado conhecimento ao Governo, através do Ministro dos Assuntos Parlamentares, nos termos da [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto.»
+
+119948767

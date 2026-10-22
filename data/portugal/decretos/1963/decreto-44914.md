@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44914-1963-194065
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-03-13T00:00:00Z'
+  retrieved_at: '2026-10-22T19:33:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 876f69e529a8f385918a78e38eb2e3f649ca4b0f69aba47ff1d289d0ed3466d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7085766b063273a6940a0425255e74622687a6b52802b89ec2cb595a6a812a04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:33:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:281607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525385:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:33:52Z'
   warnings: []
   errors: []
 ---
@@ -91,13 +99,13 @@ Tendo em vista modificar este estado de coisas por forma a facilitar a fixação
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aditado ao artigo 24.º do [Decreto n.º 42937](https://diariodarepublica.pt/dr/detalhe/decreto/42937-1960-281607), de 22 de Abril de 1960, um § único, com a seguinte redacção:
+Artigo 1.º É aditado ao artigo 24.º do [Decreto n.º 42937](https://diariodarepublica.pt/dr/detalhe/decreto/42937-1960-281607), de 22 de Abril de 1960, um § único, com a seguinte redacção:
 
 § único. Será fornecido transporte por conta do Estado para as localidades onde estabeleçam domicílio aos oficiais que, desligados da efectividade de serviço, a seu pedido, fiquem exercendo no ultramar quaisquer actividades ou profissões civis.
 
-###### Art. 2.º São abrangidos pelo preceituado no parágrafo do artigo anterior os oficiais do quadro de complemento, sargentos dos quadros permanente e de complemento e as praças do Exército, bem como todas as categorias de militares da Marinha e da Força Aérea.
+Art. 2.º São abrangidos pelo preceituado no parágrafo do artigo anterior os oficiais do quadro de complemento, sargentos dos quadros permanente e de complemento e as praças do Exército, bem como todas as categorias de militares da Marinha e da Força Aérea.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 13 de Março de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - António Augusto Peixoto Correia - Francisco António das Chagas.
 

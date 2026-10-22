@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/362/2011/09/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/362-2011-671007
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-08T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f36fcfcc34018a6ed8fa7d44d30b0a3fa362da0b930e743299024fe3b1296381
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53d50166b3eccf3e1a8c7b22dad4657edeac0fc6894617dedc924a9d3197b8e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,10 +73,10 @@ subjects:
 - Inconstitucionalidade
 - Interpretação do Direito
 - Mediação de Imóveis
+- Mediador
 - Mercado Imobiliário
 - Profissão Comercial
 - Regime Jurídico
-- Mediador
 relationships:
 - type: amended_by
   target: pt:dre:257806:por
@@ -102,16 +102,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2004/03/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2004/03/10/p/dre
+- type: cites
+  target: pt:dre:144988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553882:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:257806:por
+  label: "Revogado, a partir de 01.03.2013, o Dec Lei 211/2004, de 20-ago, com a alteração decorrente da inconstitucionalidade\
+    \ de algumas normas declarada pelo presente acórdão, pela LEI.15/2013.08.02.2013.AR, DR.IS [28] de 08.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-2013-257806
+  date: '2013-02-08'
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:58Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +166,9 @@ Angariação imobiliária
 
 4 - ...
 
-###### Artigo 6.º — Requisitos de ingresso e manutenção na actividade
+Artigo 6.º
+
+Requisitos de ingresso e manutenção na actividade
 
 1 - ...
 
@@ -158,7 +186,9 @@ c) Terem sido punidas, pelo menos duas vezes, com coima pela prática dolosa dos
 
 ...
 
-###### Artigo 25.º — Requisitos de ingresso e manutenção na actividade
+Artigo 25.º
+
+Requisitos de ingresso e manutenção na actividade
 
 1 - ...
 
@@ -170,7 +200,9 @@ b) Ter sido punido, pelo menos duas vezes, com coima pela prática dolosa dos il
 
 ...
 
-###### Artigo 44.º — Contra-ordenações
+Artigo 44.º
+
+Contra-ordenações
 
 1 - Sem prejuízo de outras sanções que se mostrem aplicáveis, constituem contra-ordenações, puníveis com aplicação das seguintes coimas:
 

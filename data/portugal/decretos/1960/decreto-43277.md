@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43277-1960-514468
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-10-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:20:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57fe903f4de0659b34c7558bf860692fdd2e68c83d67cefd0ca692585ebb0895
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5e061446ad63334b42f79e47acdeaa3f322825e7fc84ec93aa123129e863d09
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:20:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:500441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514644:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:20:37Z'
   warnings: []
   errors: []
 ---
@@ -91,13 +99,13 @@ Tendo presente a urgência da referida providência e ao abrigo do que preceitua
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. O artigo 1.º do [Decreto n.º 43152](https://diariodarepublica.pt/dr/detalhe/decreto/43152-1960-514644), de 6 de Setembro de 1960, passa a ter a seguinte redacção:
+Artigo único. O artigo 1.º do [Decreto n.º 43152](https://diariodarepublica.pt/dr/detalhe/decreto/43152-1960-514644), de 6 de Setembro de 1960, passa a ter a seguinte redacção:
 
-###### Artigo 1.º É autorizado o Governo-Geral de Angola a dar o aval da província até ao montante de 30000 contos para uma operação de empréstimo a contrair no Banco de Angola pelo Fundo de Apoio às Indústrias de Pesca, regulado pelo [Decreto n.º 43123](https://diariodarepublica.pt/dr/detalhe/decreto/43123-1960-500441), de 18 de Agosto de 1960.
+Artigo 1.º É autorizado o Governo-Geral de Angola a dar o aval da província até ao montante de 30000 contos para uma operação de empréstimo a contrair no Banco de Angola pelo Fundo de Apoio às Indústrias de Pesca, regulado pelo [Decreto n.º 43123](https://diariodarepublica.pt/dr/detalhe/decreto/43123-1960-500441), de 18 de Agosto de 1960.
 
 § único. Este empréstimo destina-se a contribuir para a regularização da situação económica e financeira dos grémios das pescas da província e a prestar auxílio aos industriais na comercialização dos produtos fabricados, consoante as condições que forem estabelecidas por despacho do Ministro do Ultramar.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Outubro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

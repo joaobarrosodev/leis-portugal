@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/72/2026/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/72-2026-1087907681
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-22T00:00:00Z'
+  retrieved_at: '2026-10-22T18:39:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3ac28f030e4abcfe1213f2f92168955fa2982dd0334800f3fac4dd71c3f6e1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e943e94d8e9b608b80993006454457d390175f80546abd9ce635582f13f36a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:39:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
 subjects:
 - Conselho de Administração
 - Conselho de Ministros
-- Regulamentação de Atos Legislativos
 - Estatuto
-- Serviço Nacional de Saúde
 - Gestor Público
+- Governo XXV
 - Nomeação
 - Presidente
+- Regulamentação de Atos Legislativos
+- Serviço Nacional de Saúde
 - Unidade Local de Saúde de Entre Douro e Vouga
-- Governo XXV
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/52/2022/08/04/p/dre
@@ -92,16 +92,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:840715785:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:39:04Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +140,7 @@ Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](h
 
 Assim:
 
-Nos termos dos n.<sup>os</sup>2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, do artigo 12.º, dos n.<sup>os</sup>1 a 3 do artigo 13.º, do artigo 15.º e da alínea c) do n.º 3 do artigo 20.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos dos n.os2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, do artigo 12.º, dos n.os1 a 3 do artigo 13.º, do artigo 15.º e da alínea c) do n.º 3 do artigo 20.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Designar, para exercer funções de presidente do conselho de administração da Unidade Local de Saúde de Entre Douro e Vouga, E. P. E., Carlos Alberto Couto da Silva, cuja idoneidade, experiência e competências profissionais para o desempenho do cargo são evidenciadas na respetiva nota curricular, que consta do anexo à presente resolução e da qual faz parte integrante.
 
@@ -153,3 +173,5 @@ Auditor da empresa Ernst & Whinney; Responsável pela auditoria interna da Compa
 Outros:
 
 Presidência e direção de diversas coletividades de desporto e música; membro da Direção das Ligas de Amigos dos Hospitais de Santo Tirso e Santo António; etc.
+
+119948303

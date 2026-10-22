@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/47/2004/06/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/47-2004-278972
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-08T00:00:00Z'
+  retrieved_at: '2026-10-22T19:03:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6078d992f7d2a5f19e17011c3f256b7366f61d7660ba90d550e9616a10360fad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08cac9f19b3551828afd66c059456fd983d8bf945f911f11831ab332cc959771
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:03:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,16 +69,16 @@ reuse:
 subjects:
 - Compensação Remuneratória
 - Conselho de Patronos
-- Língua Portuguesa
-- Moçambique
+- Conselho Diretivo
 - Definição de Competências
 - Ensino Português no Estrangeiro
 - Escola Portuguesa de Moçambique-Centro de Ensino e Língua Portuguesa
-- Conselho Diretivo
-- Orgânica
-- Pessoal não Docente
 - Estabelecimento de Ensino
+- Língua Portuguesa
+- Moçambique
+- Orgânica
 - Pessoal Docente
+- Pessoal não Docente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/120/2004/05/21/p/dre
@@ -88,16 +88,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/241/1999/06/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/241/1999/06/25/p/dre
+- type: cites
+  target: pt:dre:270809:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:03:41Z'
   warnings: []
   errors: []
 ---

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/11/22700/0004200059.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/10/2022/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/10-2022-203840768
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-24T00:00:00Z'
+  retrieved_at: '2026-10-22T17:54:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60d26beb85eca13581c5b4c988a14ca26e75ba21407950fdf5fbf12f1a2c117b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d2d1e6cfbc80441413df5c0e236e9d729cf0f4ca21abe85b414d2f6ac752f6c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:54:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Código do Processo Civil
-- Portugal
-- Interpretação do Direito
 - Brasil
+- Código do Processo Civil
+- Interpretação do Direito
+- Portugal
 - Sentença Estrangeira
 - Tribunal
 - União de Facto
@@ -79,16 +79,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/41/2013/06/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/41/2013/06/26/p/dre
+- type: cites
+  target: pt:dre:497406:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:54:25Z'
   warnings: []
   errors: []
 ---
@@ -197,19 +201,19 @@ Em consonância com o 226.º da Constituição (16), a união estável começou 
 
 Os arts. 1723.º a 1727.º do Código Civil brasileiro de 2002 são do seguinte teor:
 
-###### Artigo 1723. É reconhecida como entidade familiar a união estável entre o homem e a mulher, configurada na convivência pública, contínua e duradoura e estabelecida com o objetivo de constituição de família.
+Artigo 1723. É reconhecida como entidade familiar a união estável entre o homem e a mulher, configurada na convivência pública, contínua e duradoura e estabelecida com o objetivo de constituição de família.
 
 § 1.º A união estável não se constituirá se ocorrerem os impedimentos do art. 1.521; não se aplicando a incidência do inciso VI no caso de a pessoa casada se achar separada de fato ou judicialmente.
 
 § 2.º As causas suspensivas do art. 1.523 não impedirão a caracterização da união estável.
 
-###### Artigo 1724. As relações pessoais entre os companheiros obedecerão aos deveres de lealdade, respeito e assistência, e de guarda, sustento e educação dos filhos.
+Artigo 1724. As relações pessoais entre os companheiros obedecerão aos deveres de lealdade, respeito e assistência, e de guarda, sustento e educação dos filhos.
 
-###### Artigo 1725. Na união estável, salvo contrato escrito entre os companheiros, aplica-se às relações patrimoniais, no que couber, o regime da comunhão parcial de bens.
+Artigo 1725. Na união estável, salvo contrato escrito entre os companheiros, aplica-se às relações patrimoniais, no que couber, o regime da comunhão parcial de bens.
 
-###### Artigo 1726. A união estável poderá converter-se em casamento, mediante pedido dos companheiros ao juiz e assento no Registro Civil.
+Artigo 1726. A união estável poderá converter-se em casamento, mediante pedido dos companheiros ao juiz e assento no Registro Civil.
 
-###### Artigo 1727. As relações não eventuais entre o homem e a mulher, impedidos de casar, constituem concubinato (18) (19).
+Artigo 1727. As relações não eventuais entre o homem e a mulher, impedidos de casar, constituem concubinato (18) (19).
 
 Face ao art. 1723.º do Código Civil brasileiro, a união estável decorre de um simples acto jurídico, ou de um conjunto de simples actos jurídicos (20).
 
@@ -614,3 +618,5 @@ Entendo, portanto, que se verifica, em ambos os casos, uma decisão homologatór
 "Uma escritura pública de declaração de união estável celebrada no Brasil é suscetível de ser revista e confirmada pelos tribunais portugueses, nos termos do artigo 978.º e seguintes do Código de Processo Civil, pois contém uma decisão sobre direitos privados emanada de uma entidade administrativa, à qual a lei do país de origem atribui relevância jurídica constitutiva de uma entidade familiar.".
 
 Maria Clara Sottomayor.
+
+115897494

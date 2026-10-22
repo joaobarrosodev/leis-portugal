@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/4/2004/01/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-2004-241187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:03:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4086287aa2ec3a45041e1fc18ed61f902c83ca7edaae9225f89f82227dc1fbdb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d501996541387ed40bbb34a46d4558b5b77037787388af40291e974424dd763
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:03:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,65 +71,85 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Fiscal
-- Património
-- BEM Móvel
-- Cheque
+- Arrendamento Urbano para Habitação
 - Avaliação de Prédios
+- Avaliação do Património
+- BEM Móvel
+- Benefícios Fiscais
+- Cheque
 - Cobrança de Impostos
 - Código da Contribuição Autárquica
 - Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola
 - Código do Imposto do SELO
 - Código do Imposto Municipal de SISA e do Imposto sobre as Sucessões e Doações
 - Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis
+- Código do Imposto Municipal sobre Imóveis
 - Código do IRC
 - Código do IRS
 - Código do Notariado
-- Imposto Municipal sobre Imóveis
-- Estabelecimento Comercial
-- Reforma Fiscal
 - Contribuição Autárquica
 - Contribuição Predial
 - Definição de Competências
-- Renovação Urbana
-- Direcção Geral dos Impostos
 - Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
+- Direcção Geral dos Impostos
 - Direito Fiscal
+- Estabelecimento Comercial
 - Estabelecimento Industrial
 - Estatuto dos Benefícios Fiscais
 - Fiscalização
 - Garantia do Contribuinte
-- Pagamento
 - Imposto do SELO
-- Sisa
 - Imposto Municipal sobre as Transmissões Onerosas de Imóveis
-- Código do Imposto Municipal sobre Imóveis
+- Imposto Municipal sobre Imóveis
 - Imposto sobre a Indústria Agrícola
-- IRS
 - Imposto sobre Sucessões e Doações
-- Transmissão da Propriedade
+- IRC
+- IRS
 - Isenção Fiscal
 - Juros
 - Letras e Livranças
-- Títulos de Crédito
-- Avaliação do Património
+- Pagamento
+- Património
 - Prazo
 - Preço
-- IRC
+- Prédio Urbano
 - Prescrição
 - Prova
+- Reforma Fiscal
 - Regime Fiscal
 - Renda Condicionada
-- Benefícios Fiscais
+- Renovação Urbana
 - Responsabilidade Tributária
-- Prédio Urbano
-- Arrendamento Urbano para Habitação
+- Sisa
 - Taxa
+- Títulos de Crédito
+- Transmissão da Propriedade
 - Tributação
 relationships:
 - type: amended_by
   target: pt:dre:114425586:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:73958532:por
+  label: Alterados os arts. 2.º (na redação do Dec. Lei 125-A/2006 de 29-jun, da Lei 64-A/2008 de 31-dez, do Dec. Lei 175/2009
+    de 04-ago, das Leis 3-B/2010 de 28-abr, 55-A/2012 de 29-out, 66-B/2012 de 31-dez, 82-B/2014 de 31-dez, e do Dec. Lei 7/2015
+    de 13-jan), 4.º (na redação das Leis 39-A/2005 de 29-jul, e 55-A/2012 de 29-out, e do Dec. Lei 7/2015 de 13-jan) e 7.º(na
+    redação das Leis 107-B/2003 de 31-dez, e 60-A/2005 de 30-dez, do Dec. Lei 175/2009 de 04-ago, e das Leis 3-B/2010 de 28-abr,
+    55-A/2010 de 31-dez, 55-A/2012 de 29-out, 66-B/2012 de 31-dez, e 83-C/2013 de 31-dez), bem como a verba 17.3.4 (na redação
+    da Lei 12-A/2010 de 03-jun) da Tabela Geral do Imposto do Selo anexa, e aditado o art. 70.º-A, todos do Código do Imposto
+    do Selo, aprovado pela Lei 150/99 de 11-set na versão republicada do Código e da Tabela pelo Dec Lei 287/2003 de 12-nov
+    retificado pela presente Declaração de Retificação, pelo(a) Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento,
+    Série I de 2016-03-30 nos termos do seu art. 154.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-a-2016-73958532
+  date: '2016-03-30'
+- type: amended_by
+  target: pt:dre:114425586:por
+  label: Alterados os arts. 1.º do Código do Imposto Municipal sobre Imóveis (CIMI) e o art. 2.º do Código do Imposto Municipal
+    sobre as Transmissões Onerosas de Imóveis (CIMT), aprovados pelo Dec Lei 287/2003 de 12-nov, retificado pela presente
+    Decl Ret pelo(a) Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-2017-114425586
+  date: '2017-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/287/2003/11/12/p/dre
   label: null
@@ -138,16 +158,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/26/2003/07/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/26/2003/07/30/p/dre
+- type: cites
+  target: pt:dre:447325:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:03:35Z'
   warnings: []
   errors: []
 ---

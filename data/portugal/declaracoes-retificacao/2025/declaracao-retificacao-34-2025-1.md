@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/34/2025/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/34-2025-925769494
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-22T00:00:00Z'
+  retrieved_at: '2026-10-22T19:16:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dae3b4e17090b7f7884ad4c8fe31f4857e5197d426e386a176c785397f7dac93
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4975653734fdebad76fdbb641ff332d4fdea5cf285a49f3498abc52b012d9c66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:16:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão Interministerial
-- Fundos CE
-- Política do Ambiente
-- Política Social
 - Estratégia Portugal 2030
 - Fundo para Uma Transição Justa
 - Fundo Social Europeu Mais
+- Fundos CE
+- Política do Ambiente
+- Política Social
 - Programa Temático Demografia Qualificações e Inclusão (PDQI)
-- Regulamento Específico da Área Temática Demografia
-- Qualificações e Inclusão
+- Regulamento Específico da Área Temática Demografia, Qualificações e Inclusão
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/43-b/2024/07/02/p/dre
@@ -93,16 +92,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/268/2025/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/268/2025/07/15/p/dre
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:924866617:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:portaria:268/2025
+  label: Retifica a secção xxviii do capítulo iv do título iii do anexo ii da Portaria n.º 268/2025/1, de 15 de julho, Diário
+    da República n.º 134/2025, Série I
+  source: null
+  date: '2025-07-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:16:06Z'
   warnings: []
   errors: []
 ---
@@ -114,3 +139,5 @@ Ao abrigo do disposto na alínea f) do n.º 3 do artigo 5.º do anexo i do [Decr
 Na secção xxviii do capítulo iv do título iii do anexo ii, onde se lê «239.º-BB» deve ler-se «230.º-BB».
 
 Secretaria-Geral do Governo, 17 de julho de 2025. - A Secretária-Geral Adjunta, Mafalda Lopes dos Santos.
+
+119322667

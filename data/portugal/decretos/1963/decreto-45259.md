@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45259-1963-686791
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-09-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:36:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba27d86ce86781aae6d744a7e7c4b6acaaa1c0d1ff4d9671c656e1d1f8773920
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72196e169327f10eb95b2be76112aa4564e141939e61bb7b7e8e5671c715d931
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:36:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:279580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673217:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:36:46Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +104,9 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, decreto e promulgo, nos termos do artigo 107.º e do § 2.º do artigo 80.º, o seguinte:
 
-###### Artigo 1.º São instituídas em cada província ultramarina comissões técnicas de planeamento e integração económica, sob a dependência directa do respectivo governador-geral ou de província e para funcionar junto do seu Gabinete.
+Artigo 1.º São instituídas em cada província ultramarina comissões técnicas de planeamento e integração económica, sob a dependência directa do respectivo governador-geral ou de província e para funcionar junto do seu Gabinete.
 
-###### Art. 2.º Às comissões referidas no artigo anterior incumbirá, em colaboração com os serviços provinciais competentes:
+Art. 2.º Às comissões referidas no artigo anterior incumbirá, em colaboração com os serviços provinciais competentes:
 
 a) Preparar os projectos dos planos de fomento da província de acordo com a orientação que for estabelecida pelo Conselho de Ministros para os Assuntos Económicos;
 
@@ -108,7 +120,7 @@ e) Assegurar a ligação de cada província ultramarina com o Secretariado Técn
 
 f) Estudar, examinar e dar parecer sobre todos os assuntos relacionados com o planeamento de quaisquer actividades provinciais que, não se enquadrando directamente nos Planos de Fomento Nacional, interessem ao desenvolvimento económico e social da província.
 
-###### Art. 3.º No que se refere à coordenação e fiscalização da execução dos Planos de Fomento, a que se refere a alínea b) do artigo anterior, compete em especial às comissões referidas no artigo 1.º:
+Art. 3.º No que se refere à coordenação e fiscalização da execução dos Planos de Fomento, a que se refere a alínea b) do artigo anterior, compete em especial às comissões referidas no artigo 1.º:
 
 a) Centralizar as informações e demais elementos fornecidos pelos serviços, missões ou brigadas que estudem, fiscalizem ou executem empreendimentos previstos nos referidos planos;
 
@@ -120,7 +132,7 @@ d) Estudar e informar as alterações propostas pelos serviços, missões ou bri
 
 e) Organizar os mapas de despesas e da posição financeira, a fornecer de harmonia e nos moldes prescritos nas instruções vigentes ou a estabelecer.
 
-###### Art. 4.º - 1. Nas províncias de governo-geral a comissão técnica de planeamento e integração económica será constituída pelos secretários provinciais, pelo director provincial de Fazenda e Contabilidade, pelo de Economia e Estatística Geral, pelo inspector de Créditos e Seguros e pelo director dos serviços privativos da comissão.
+Art. 4.º - 1. Nas províncias de governo-geral a comissão técnica de planeamento e integração económica será constituída pelos secretários provinciais, pelo director provincial de Fazenda e Contabilidade, pelo de Economia e Estatística Geral, pelo inspector de Créditos e Seguros e pelo director dos serviços privativos da comissão.
 
 2. Nas restantes províncias a comissão será constituída pelo secretário-geral, quando o haja, pelos chefes de serviços designados pelo governador e pelo chefe dos serviços privativos da comissão, o qual poderá ser funcionário qualificado da Repartição de Economia e Estatística Geral ou do organismo que desempenhar funções equivalentes.
 
@@ -130,17 +142,17 @@ e) Organizar os mapas de despesas e da posição financeira, a fornecer de harmo
 
 5. A organização dos serviços da comissão será feita em diploma provincial.
 
-###### Art. 5.º - 1. O pessoal permanente das comissões será fixado pelos respectivos governadores nos diplomas a que se refere o n.º 5 do artigo anterior, tendo os directores ou chefes dos serviços privativos das comissões a categoria correspondente às letras D e E do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 5.º - 1. O pessoal permanente das comissões será fixado pelos respectivos governadores nos diplomas a que se refere o n.º 5 do artigo anterior, tendo os directores ou chefes dos serviços privativos das comissões a categoria correspondente às letras D e E do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
 2. Os lugares de pessoal permanente poderão ser preenchidos, em regime de comissão de serviço ou de contrato, por funcionários e agentes de quaisquer serviços públicos da metrópole ou do ultramar, nos termos do Decreto-Lei n.º 36677, de 24 de Maio de 1954, e dos artigos 35.º a 44.º do Estatuto do Funcionalismo Ultramarino.
 
 3. O pessoal das comissões poderá ser convocado, em comissão de serviço, para realizar estágios em departamentos especializados na metrópole designados em despacho ministerial.
 
-###### Art. 6.º - 1. São extintas a Comissão de Estudo do Plano de Fomento da província de Moçambique, a Comissão Coordenadora do Plano de Fomento da província de Angola e os conselhos de coordenação económica criados pelo artigo 10.º do [Decreto n.º 41203](https://diariodarepublica.pt/dr/detalhe/decreto/41203-1957-279580), de 20 de Julho de 1957, transitando o respectivo pessoal, de acordo com as aptidões o informações de serviço, para os lugares a criar pelos diplomas que devem ser publicados nos termos do n.º 5 do artigo 4.º deste decreto.
+Art. 6.º - 1. São extintas a Comissão de Estudo do Plano de Fomento da província de Moçambique, a Comissão Coordenadora do Plano de Fomento da província de Angola e os conselhos de coordenação económica criados pelo artigo 10.º do [Decreto n.º 41203](https://diariodarepublica.pt/dr/detalhe/decreto/41203-1957-279580), de 20 de Julho de 1957, transitando o respectivo pessoal, de acordo com as aptidões o informações de serviço, para os lugares a criar pelos diplomas que devem ser publicados nos termos do n.º 5 do artigo 4.º deste decreto.
 
 2. Os arquivos e mais património dos organismos extintos transitarão, sem dependência de quaisquer formalidades, para as comissões técnicas de planeamento e integração económica.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Setembro de 1963. - ANTÓNIO DE OLIVEIRA SALAZAR.
 

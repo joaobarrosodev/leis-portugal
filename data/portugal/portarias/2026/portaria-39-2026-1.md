@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/01/01800/0004800055.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/39/2026/01/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/39-2026-1025550893
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T18:30:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f02b6f1b8a9919553aaa59e6109ee8d41a3941511366df78501536a2820597ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9089270434dea327447ec749f8e5000eb5e656969f18f1e24418b9444e3b9332
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:30:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Água
-- Recursos Hídricos
-- Proteção do Ambiente
-- Zona de Proteção
-- Portel
-- Águas Subterrâneas
 - Abastecimento de Água
+- Água
+- Águas Subterrâneas
+- Portel
+- Proteção do Ambiente
+- Recursos Hídricos
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:1060895771:por
@@ -102,16 +102,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/702/2009/07/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/702/2009/07/06/p/dre
+- type: cites
+  target: pt:dre:178264070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220113533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:911488699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928479767:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1060895771:por
+  label: Declarada nula e sem efeito pelo(a) Declaração de Retificação n.º 8/2026/1 - Diário da República n.º 40/2026, Série
+    I de 2026-02-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/8-2026-1060895771
+  date: '2026-02-26'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:30:12Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +174,7 @@ Nos termos e para os efeitos do disposto no n.º 1 do artigo 4.º do [Decreto-Le
 
 2 - A massa de água Maciço Antigo Indiferenciado da Bacia do Sado (PTA0X1RH6_C2) foi classificada no âmbito do Plano de Gestão da Região Hidrográfica do Sado e Mira com estado global Medíocre.
 
-3 - As captações mencionadas no n.º 1 abastecem 463 habitantes com um volume médio de 57,80 m<sup>3</sup>/dia.
+3 - As captações mencionadas no n.º 1 abastecem 463 habitantes com um volume médio de 57,80 m3/dia.
 
 ###### Artigo 2.º — Zona de proteção imediata
 
@@ -154,7 +188,7 @@ Nos termos e para os efeitos do disposto no n.º 1 do artigo 4.º do [Decreto-Le
 
 1 - As zonas de proteção intermédia e alargada respeitantes aos perímetros de proteção das captações de águas subterrâneas mencionadas no artigo 1.º são coincidentes e correspondem às áreas da superfície do terreno delimitadas através de polígonos que resultam da união dos vértices cujas coordenadas são indicadas no quadro constante do anexo ii à presente portaria, que dela faz parte integrante.
 
-2 - Nas zonas de proteção intermédia e alargada mencionadas no número anterior são interditas, nos termos dos n.<sup>os</sup>2 a 5 do artigo 6.º do [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de setembro, na sua redação atual, as seguintes atividades e instalações:
+2 - Nas zonas de proteção intermédia e alargada mencionadas no número anterior são interditas, nos termos dos n.os2 a 5 do artigo 6.º do [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de setembro, na sua redação atual, as seguintes atividades e instalações:
 
 a) Infraestruturas aeronáuticas;
 
@@ -188,7 +222,7 @@ o) Lagos e quaisquer obras ou escavações destinadas à recolha e armazenamento
 
 p) Refinarias e indústrias químicas.
 
-3 - Nas zonas de proteção intermédia e alargada a que se refere o n.º 1 são condicionadas, nos termos do n.<sup>os</sup>2 e 4 do artigo 6.º do [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de setembro, na sua redação atual, as seguintes atividades e instalações:
+3 - Nas zonas de proteção intermédia e alargada a que se refere o n.º 1 são condicionadas, nos termos do n.os2 e 4 do artigo 6.º do [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de setembro, na sua redação atual, as seguintes atividades e instalações:
 
 a) Pastorícia, que pode ser desenvolvida desde que não cause impacte significativo nos recursos hídricos;
 
@@ -212,7 +246,7 @@ As plantas de localização respeitantes aos perímetros de proteção das capta
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Ambiente, João Manuel do Amaral Esteves, em 21 de janeiro de 2026.**
+O Secretário de Estado do Ambiente, João Manuel do Amaral Esteves, em 21 de janeiro de 2026.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 2.º)
 
@@ -298,6 +332,12 @@ Plantas de localização das zonas de proteção
 
 Captação Santana (CP6) (490/55) e Captação Santana (CP8) (490/56)
 
-![](https://files.diariodarepublica.pt/images/1025550893/1025363473.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1025550893/1025363473.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1025550893/1025363474.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1025550893/1025363474.png) |
+| --- |
+
+119947389
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:18px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { min-height:17px; }

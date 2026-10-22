@@ -31,7 +31,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/07/14000/0003000067.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -53,25 +53,36 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/5/2026/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/5-2026-1150651419
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-22T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97cfd31165bace1c9dea9233bd2edff5559bf4977fe9b8b18a2228d8561190cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a982a571c09b636fad9315f725195fc55aac03ac3f47c65b1483236cef4f02f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acordo
+- Contrato de Trabalho
+- Faltas
+- Interpretação do Direito
+- Liquidação de Pagamentos
+- Portugália-Companhia Portuguesa de Transportes Aéreos
+- Remuneração
+- Retenção do Imposto
+- Sindicato Nacional do Pessoal de VOO da Aviação Civil
+- TAXA Social Unica
+- Trabalhador por Conta de Outrem
 relationships:
 - type: cites
   target: celex:32012R0965
@@ -117,16 +128,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/3/2021/01/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/3/2021/01/14/p/dre
+- type: cites
+  target: pt:dre:121260108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124539902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130779506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152637760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153917309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154483161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175506672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205198396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224427489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277850:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:33Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +210,7 @@ I - RELATÓRIO
 
 *
 
-2 - Citada regularmente, a Ré apresentou alegações por escrito pugnando pela interpretação judicial da Cláusula 7.ª, n.<sup>os</sup>1 e 3 do Acordo Temporário de Emergência (ATE) celebrado entre o primeiro Autor e a Ré a 27 de Fevereiro de 2021 e publicitado no BTE, n.º 9, de 8 de Março de 2021, nos seguintes termos:
+2 - Citada regularmente, a Ré apresentou alegações por escrito pugnando pela interpretação judicial da Cláusula 7.ª, n.os1 e 3 do Acordo Temporário de Emergência (ATE) celebrado entre o primeiro Autor e a Ré a 27 de Fevereiro de 2021 e publicitado no BTE, n.º 9, de 8 de Março de 2021, nos seguintes termos:
 
 «O procedimento de liquidação da retribuição do trabalhador, e de acordo com o estabelecido, conjuntamente, quer na Cláusula 7.ª, n.os 1 e 3, do Acordo Temporário de Emergência (ATE) celebrado entre o primeiro A. e a R. a 27 de Fevereiro de 2021 e publicado no BTE, n.º 9, de 8 de Março de 2021, quer nos artigos 276.º, n.º 3 e 279.º, n.º 2 do CT, implicará observar, de forma sucessiva, a seguinte ordem de operações aritméticas e contabilísticas:
 
@@ -405,7 +460,7 @@ Temos assim que o Tribunal da Relação entendeu que deveria usar os aludidos po
 
 8.ª - Assim, manifesto se torna que o acórdão a quo não está ferido do vício de nulidade por excesso de pronúncia, conforme invocado pela Recorrente nas alegações apresentadas. Com efeito, especificamente em sede de recurso, o tribunal deve conhecer de todas e apenas as questões suscitadas nas conclusões das alegações apresentadas pelos Recorrentes - arts. 663.º, n.º 2, e 679.º do CPC. E a verdade é que o acórdão reclamado se circunscreveu, estritamente, ao objeto do processo, não tendo conhecido de qualquer matéria não alegada pelas partes.
 
-9.ª - A nulidade por excesso de pronúncia [artigo 615.º, n.º l, d)], sancionando a violação do estatuído na 2.ª parte do n.º 2 do artigo 608.º, apenas se verifica quando o tribunal conheça de matéria situada para além das “questões temáticas centrais” [<sup>1</sup>], integrantes do thema decidendum, que é constituído pelo pedido ou pedidos, causa ou causas de pedir e exceções.
+9.ª - A nulidade por excesso de pronúncia [artigo 615.º, n.º l, d)], sancionando a violação do estatuído na 2.ª parte do n.º 2 do artigo 608.º, apenas se verifica quando o tribunal conheça de matéria situada para além das “questões temáticas centrais” [1], integrantes do thema decidendum, que é constituído pelo pedido ou pedidos, causa ou causas de pedir e exceções.
 
 10.ª - Mas, o que a Recorrente vem manifestar, em concreto, é a sua discordância quanto ao decidido no Acórdão reclamado; contudo, esse inconformismo não conduz à sua nulidade.
 
@@ -429,7 +484,7 @@ Ora, como resulta delineado o uso dos poderes da Relação, em termos da modific
 
 19.ª - Ao invés do que é alegado pela Recorrente a interpretação que se pretende ver revogada, respeitou os princípios essenciais da atividade interpretativa de normas (elemento literal, elementos de ordem histórica, teleológica e racional):
 
-- valorou a prova carreada para os autos (maxime nos n.<sup>os</sup>7, 8, 9, 10,11, 12 dos Factos Provados e aos dois outros factos doutamente aditados pela Relação de Coimbra que fixam o contexto histórico que levou à formação da norma em apreço, suas finalidades e objetivos;
+- valorou a prova carreada para os autos (maxime nos n.os7, 8, 9, 10,11, 12 dos Factos Provados e aos dois outros factos doutamente aditados pela Relação de Coimbra que fixam o contexto histórico que levou à formação da norma em apreço, suas finalidades e objetivos;
 
 - atendeu às circunstâncias excecionais vividas à data em que a norma em apreço foi criada (“Como é do conhecimento geral e está provado, a pandemia associada à COVID-19 teve um impacto gravíssimo na indústria da aviação comercial, designadamente na R., na “TAP” e nas empresas que integram o respetivo grupo económico levando a que a fosse declarada em situação económica difícil. Através das notícias veiculadas pela comunicação social, esta situação demandou uma indispensável cooperação de todos os trabalhadores no sentido da redução ou adaptação das suas condições de trabalho.”);
 
@@ -593,7 +648,7 @@ c) Lançamento a débito dos descontos que resultem de ausências ao trabalho co
 
 d) Lançamento a débito dos demais descontos legais, ou seja, designadamente, a retenção de imposto de rendimento e TSU.»
 
-Custas da ação a cargo dos Autores - artigo 527.º, n.<sup>os</sup>1 e 2 do Código do Processo Civil ex vi artigo 1.º, n.º 2, alínea a) do Código de Processo do Trabalho.
+Custas da ação a cargo dos Autores - artigo 527.º, n.os1 e 2 do Código do Processo Civil ex vi artigo 1.º, n.º 2, alínea a) do Código de Processo do Trabalho.
 
 *
 
@@ -827,7 +882,7 @@ b) As remunerações e demais prestações retributivas ou de outra natureza com
 
 7 - Caso a empresa recorra a qualquer regime de apoio à manutenção dos contratos de trabalho, a retribuição a ter em consideração beneficia do limite sem redução previsto no n.º 3 da presente cláusula, de 1330,00 €.
 
-Vivia-se, na altura, o impacto prolongado e imenso, a todos os níveis da sociedade portuguesa, da pandemia do COVID 19, que gerou desde março de 2020, múltipla legislação da natureza excecional, sucessivas declarações de estado de emergência e perturbações económicas e laborais profundas, que estão na origem do instrumento de regulamentação coletiva identificado nos autos [<sup>2</sup>].
+Vivia-se, na altura, o impacto prolongado e imenso, a todos os níveis da sociedade portuguesa, da pandemia do COVID 19, que gerou desde março de 2020, múltipla legislação da natureza excecional, sucessivas declarações de estado de emergência e perturbações económicas e laborais profundas, que estão na origem do instrumento de regulamentação coletiva identificado nos autos [2].
 
 A Cláusula 1.ª deste Acordo Temporário de Emergência define logo ao que vem quando determina o seguinte:
 
@@ -1073,7 +1128,7 @@ b) As remunerações e demais prestações retributivas ou de outra natureza com
 
 Se atentarmos devidamente nas alegações das partes, assim como nas decisões judiciais e respetivas fundamentação jurídicas, constatamos que o que se visa, essencialmente, em termos interpretativos, é saber como se quantifica ou determina o valor ilíquido limite de 1.330,00 €, que é fixado pelo mencionado n.º 3 nos moldes seguintes: «3 - O total ilíquido das prestações retributivas auferidas, incluindo as referidas no número precedente, só têm a redução nele prevista na parte que exceda o valor de 1.330,00 €.»
 
-Tal montante bruto mínimo de 1.330,00 € - que, como sabemos, corresponde a duas Remunerações Mínimas Mensais Garantidas [RMMG[<sup>3</sup>]] legalmente previstas para o ano de 2021, que era no valor ilíquido de € 665,00 € [<sup>4</sup>] - , que se deve manter intocado pelas reduções antes previstas, deve ser encontrado em função da remuneração global ilíquida normal, conforme enunciada nos números 1 e 2 na parte aplicável e apenas em função das reduções de 25 % [anos de 2021, 2022 e 2023] e de 20 % [ano de 2024] ou deve atender ainda à contabilização dos dias úteis de trabalho em que os trabalhadores não foram remunerados por terem faltado ao serviço justificada ou injustificadamente, com perda de retribuição?
+Tal montante bruto mínimo de 1.330,00 € - que, como sabemos, corresponde a duas Remunerações Mínimas Mensais Garantidas [RMMG[3]] legalmente previstas para o ano de 2021, que era no valor ilíquido de € 665,00 € [4] - , que se deve manter intocado pelas reduções antes previstas, deve ser encontrado em função da remuneração global ilíquida normal, conforme enunciada nos números 1 e 2 na parte aplicável e apenas em função das reduções de 25 % [anos de 2021, 2022 e 2023] e de 20 % [ano de 2024] ou deve atender ainda à contabilização dos dias úteis de trabalho em que os trabalhadores não foram remunerados por terem faltado ao serviço justificada ou injustificadamente, com perda de retribuição?
 
 29 - Tentando reproduzir, através de um exemplo prático, a diferença de posições quanto à leitura jurídica dos referidos três primeiros números da presente Cláusula, suponhamos que um tripulante de cabine aufere, em termos globais ilíquidos, a remuneração mensal de 3.000,00 € e que, num dado mês, faltou injustificadamente 10 dias, que corresponde, para efeitos deste nosso caso, a uma perda de vencimento mensal de 1.000,00 €, o que implica que tal trabalhador só tenha recebido efetivamente uma retribuição global [chamemos-lhe assim] de 2.000,00 €.
 
@@ -1128,7 +1183,7 @@ Tudo isto para dizer que a grave crise gerada em território português pela COV
 
 33 - Dir-se-á, desde logo, que a designação do ATE fala por si mesmo, pois informa-nos que a sua elaboração e teor extraordinário, que possui uma vigência temporária, tem na sua origem um cenário de emergência e radica-se num compromisso consensual entre empregadora e sindicatos.
 
-Considere-se, por outro lado, que, conforme afirmam as diversas Deliberações do Conselho de Administrações da aqui Ré, «A [Resolução do Conselho de Ministros n.º 3/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/3-2021-153917309), aprovada em 22 de dezembro de 2020 e publicada no Diário da República, 1.ª série, de 14 de janeiro de 2021, declarou a PGA, SA, em situação económica difícil, ao abrigo e para os efeitos do [Decreto-Lei n.º 353-H/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-h-1977-240853), de 29 de agosto», o que nos remete, desde logo, para o regime jurídico constante não apenas do diploma aí mencionado a final [que permite que sejam declaradas em situação económica difícil empresas públicas ou privadas cuja exploração se apresente fortemente deficitária], como ainda para o disposto no n.º 3 do artigo 298.º do Código do Trabalho de 2009 [que possui a epígrafe “Redução ou suspensão em situação de crise empresarial”] e que se achando integrado no quadro amplo da redução da atividade e da suspensão do contrato de trabalho regulada no CT/2009, estatui o seguinte: «3 - O regime de redução ou suspensão aplica-se aos casos em que essa medida seja determinada no âmbito de declaração de empresa em situação económica difícil ou, com as necessárias adaptações, em processo de recuperação de empresa.» [cf. ainda o disposto no artigo 336.º do mesmo diploma legal [<sup>5</sup>]].
+Considere-se, por outro lado, que, conforme afirmam as diversas Deliberações do Conselho de Administrações da aqui Ré, «A [Resolução do Conselho de Ministros n.º 3/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/3-2021-153917309), aprovada em 22 de dezembro de 2020 e publicada no Diário da República, 1.ª série, de 14 de janeiro de 2021, declarou a PGA, SA, em situação económica difícil, ao abrigo e para os efeitos do [Decreto-Lei n.º 353-H/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-h-1977-240853), de 29 de agosto», o que nos remete, desde logo, para o regime jurídico constante não apenas do diploma aí mencionado a final [que permite que sejam declaradas em situação económica difícil empresas públicas ou privadas cuja exploração se apresente fortemente deficitária], como ainda para o disposto no n.º 3 do artigo 298.º do Código do Trabalho de 2009 [que possui a epígrafe “Redução ou suspensão em situação de crise empresarial”] e que se achando integrado no quadro amplo da redução da atividade e da suspensão do contrato de trabalho regulada no CT/2009, estatui o seguinte: «3 - O regime de redução ou suspensão aplica-se aos casos em que essa medida seja determinada no âmbito de declaração de empresa em situação económica difícil ou, com as necessárias adaptações, em processo de recuperação de empresa.» [cf. ainda o disposto no artigo 336.º do mesmo diploma legal [5]].
 
 Importa, aliás, neste labor interpretativo conjugado dos números 1, 2 e 3 da Cláusula 7.ª, realçar o confronto entre tais regras convencionais e aquelas outras, similares ou muito próximas, que constam de outros instrumentos de regulamentação coletiva da mesma natureza [Acordos Temporários de Emergência] e que saíram no mesmo Boletim do Trabalho e Emprego do ACE dos autos.
 
@@ -1136,7 +1191,7 @@ Não é despiciendo assinalar, nesta matéria, que são empresas de transporte a
 
 34 - São, nessa medida, muito oportunas, judiciosas e perfeitamente legítimas, a comparação, o confronto e a análise que são feitos pelo ilustre Procurador-Geral Adjunto colocado neste Supremo Tribunal de Justiça entre esses diversos regimes convencionais e decisões empresariais, no Parecer que se deixou antes transcrito, em sede de fundamentação deste Aresto e para onde se remete, por ser inútil voltar a transcrevê-lo aqui.
 
-Não será igualmente despiciendo aludir ao teor das diversas Deliberações dos Conselhos de Administração dessas duas empresas, através das quais se procura estender o regime dos diversos Acordos Temporários de Emergência ao universo de todos os seus trabalhadores [v.g., daqueles que não se acham filiados em qualquer associação sindical ou que por outra qualquer razão não se mostram abrangidos pelos Acordos de Empresa de base e, nessa medida, por estes ACE’s] [<sup>6</sup>].
+Não será igualmente despiciendo aludir ao teor das diversas Deliberações dos Conselhos de Administração dessas duas empresas, através das quais se procura estender o regime dos diversos Acordos Temporários de Emergência ao universo de todos os seus trabalhadores [v.g., daqueles que não se acham filiados em qualquer associação sindical ou que por outra qualquer razão não se mostram abrangidos pelos Acordos de Empresa de base e, nessa medida, por estes ACE’s] [6].
 
 35 - Ainda aqui se dirá que, não se encontrando uma base mínima na letra e no espírito do Acordo Temporário de Emergência [ATE] para partir de uma remuneração global mensal que não seja a habitual, normal ou regular, para um período e horário normal de trabalho mensais cumpridos, em regra, na íntegra, não se compreende igualmente de onde, no regime normativo comum, se pode retirar essa regra ou princípio da desconsideração ou neutralização das ausências de serviço que sejam imputáveis aos trabalhadores e que determinem a perda da correspondente retribuição, no que respeita à aplicação dos números 1 a 3 da Cláusula 7.ª do ATE em apreciação neste Aresto [cf., a este título, o disposto nos artigos 255.º a 257.º do CT/2009].
 
@@ -1208,7 +1263,9 @@ A RMMG para os anos de 2021 a 2023 mostram-se previstas, respetivamente, nos seg
 
 5 - Que estatui o seguinte:
 
-###### Artigo 336.º — Fundo de Garantia Salarial
+Artigo 336.º
+
+Fundo de Garantia Salarial
 
 O pagamento de créditos de trabalhador emergentes de contrato de trabalho, ou da sua violação ou cessação, que não possam ser pagos pelo empregador por motivo de insolvência ou de situação económica difícil, é assegurado pelo Fundo de Garantia Salarial, nos termos previstos em legislação específica.
 
@@ -1221,3 +1278,7 @@ O pagamento de créditos de trabalhador emergentes de contrato de trabalho, ou d
 - Deliberação do Conselho de Administração da TRANSPORTES AÉREOS PORTUGUESES, SA (TAP, SA), e 22 de fevereiro de 2021, que aprova o regime sucedâneo de fixação das condições de trabalho para os tripulantes de cabine sem filiação sindical ou não abrangidos por acordo de empresa da TAP, SA, nos termos do D[Despacho n.º 818-A/2021](https://diariodarepublica.pt/dr/detalhe/despacho/818-a-2021-154483161) de 14 de janeiro.
 
 Lisboa, 24 de junho de 2026. - José Eduardo Sapateiro, juiz-conselheiro relator - Antero Dinis Ramos Veiga, juiz-conselheiro adjunto - Leopoldo Mansinho Soares, juiz-conselheiro adjunto - Júlio Manuel Vieira Gomes, juiz-conselheiro adjunto.
+
+119949073
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:15px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-bottom-width:1px; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-right-style:solid; border-left-style:solid; } .Tbl9 { min-height:18px; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; }

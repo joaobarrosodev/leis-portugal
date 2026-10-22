@@ -82,6 +82,12 @@ subjects:
 - Despesas Públicas
 - Agência para a Integração Migrações e Asilo I. P.
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:129/2025
+  label: Altera, com efeitos a partir de 23 de abril de 2026, os n.ºs 1, 2 e 3 da Resolução do Conselho de Ministros n.º 129/2025,
+    de 3 de setembro, Diário da República n.º 169/2025, Série I
+  source: null
+  date: '2025-09-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -102,6 +108,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/87/2024/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/87/2024/07/10/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:871466268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:934054877:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1122042099:por
+  label: Retificados os segundo e terceiro parágrafos do preâmbulo pelo(a) Declaração de Retificação n.º 16/2026/1 - Diário
+    da República n.º 93/2026, Série I de 2026-05-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/16-2026-1122042099
+  date: '2026-05-14'
 article_structure:
   article_count: 0
   section_count: 0

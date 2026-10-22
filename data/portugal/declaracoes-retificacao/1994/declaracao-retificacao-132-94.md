@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 201/1994, 2º Suplemento, Série I-B de 1994-08-31
   number: '201'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 5058-(9) a 5058-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/08/201b02/00090009.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/132/1994/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/132-1994-305612
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-08-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:40:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7940370aff5618355090126a98f196bf35a0a958240737375e7866289efe48c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2cc23354cf7fbd93f568b48d85ffc9ece0e88421f40535a2726e2ac7f26b1c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:40:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,38 +68,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Armamento
 - Defesa Estratégica
 - Direcção Geral do Armamento
 - Direcção Geral do Comércio
 - Equipamento
-- Armamento
-- Política de Defesa
-- Importação
-- Licenciamento
-- Licença de Importação
-- Nova Tecnologia
-- Tecnologia
 - Exportação
+- Importação
+- Licença de Importação
+- Licenciamento
+- Nova Tecnologia
+- Política de Defesa
+- Tecnologia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/439/1994/06/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/439/1994/06/29/p/dre
+- type: cites
+  target: pt:dre:183848:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:40:26Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 132/94
+# Declaração de rectificação n.º 132/94
 
 Segundo comunicação do Ministério do Comércio e Turismo, a [Portaria n.º 439/94](https://diariodarepublica.pt/dr/detalhe/portaria/439-1994-183848), publicada no Diário da República, 1.ª série, n.º 148 (suplemento), de 29 de Junho de 1994, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
 

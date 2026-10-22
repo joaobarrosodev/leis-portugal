@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/168/2026/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/168-2026-1138714123
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-25T00:00:00Z'
+  retrieved_at: '2026-10-22T18:45:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd4033dbf3aae2046c6b5268628072234149bc6676a18c9e641a24806ec14af4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea59239881f9d0d2a90411fed2d63b9a615d64c5e5dbe76643df6a0ba9d2e8ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:45:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
+- Bruxelas
 - CE Países
+- Chile
 - Cooperação
 - União Europeia
-- Chile
-- Bruxelas
 relationships:
+- type: amended_by
+  target: pt:dre:1138714122:por
+  label: Ratificado o Acordo-Quadro Avançado entre a União Europeia e os seus Estados-Membros, por um lado, e a República
+    do Chile, por outro, feito em Bruxelas, aprovado pelo presente diploma, pelo(a) Decreto do Presidente da República n.º
+    85/2026 - Diário da República n.º 121/2026, Série I de 2026-06-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/85-2026-1138714122
+  date: '2026-06-25'
 - type: cites
   target: celex:31983L0349
   label: null
@@ -282,15 +289,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 643
-  section_count: 163
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 632
+  section_count: 132
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:45:08Z'
   warnings: []
   errors: []
 ---
@@ -303,7 +310,7 @@ A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Con
 
 Aprovada em 6 de março de 2026.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar-Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar-Branco.
 
 Acordo-Quadro Avançado entre a União Europeia e os Seus Estados-Membros, por um lado, e a República do Chile, por outro
 
@@ -353,7 +360,7 @@ Salientando que, caso as Partes decidam, no âmbito do presente Acordo, aderir a
 
 acordaram no seguinte:
 
-# PARTE I — PRINCÍPIOS GERAIS E OBJETIVOS
+## PARTE I — PRINCÍPIOS GERAIS E OBJETIVOS
 
 ### CAPÍTULO 1 — OBJETIVOS, PRINCÍPIOS GERAIS E DEFINIÇÕES
 
@@ -395,7 +402,7 @@ c) «País terceiro», um país ou território não abrangido pelo âmbito de ap
 
 d) «Convenção de Viena sobre o Direito dos Tratados», a Convenção de Viena sobre o Direito dos Tratados celebrada em Viena, em 23 de maio de 1969.
 
-# PARTE II — DIÁLOGO POLÍTICO E COOPERAÇÃO
+## PARTE II — DIÁLOGO POLÍTICO E COOPERAÇÃO
 
 ### CAPÍTULO 2 — DIÁLOGO POLÍTICO, POLÍTICA EXTERNA, PAZ E SEGURANÇA INTERNACIONAL, GOVERNAÇÃO E DIREITOS HUMANOS
 
@@ -799,13 +806,13 @@ p) Partilhar as melhores práticas sobre o desenvolvimento sustentável de ativi
 
 3 - Sempre que possível, as Partes criam oportunidades concretas para uma cooperação intercidades em matéria de soluções sustentáveis para os desafios urbanos, com vista a melhorar o reforço das capacidades, através do intercâmbio de experiências e práticas e da aprendizagem mútua.
 
-###### Artigo 4.9 — Cooperação no domínio da agricultura e do desenvolvimento rural<sup>1</sup>
+###### Artigo 4.9 — Cooperação no domínio da agricultura e do desenvolvimento rural1
 
 1 - As Partes cooperam em matéria de agricultura e desenvolvimento rural, com o objetivo comum de aumentar a resiliência e a sustentabilidade da produção alimentar, agricultura sustentável e gestão dos recursos naturais, como a água, bem como ação climática, sistemas alimentares circulares, incluindo a prevenção e redução da perda e desperdício alimentar, promoção das organizações de produtores, indicações geográficas, investigação e inovação, políticas de desenvolvimento rural e perspetivas do mercado agrícola.
 
 2 - As Partes reconhecem os esforços envidados nas instâncias internacionais no sentido de reforçar a segurança alimentar e nutrição e a agricultura sustentável a nível mundial e comprometem-se a participar de forma ativa na cooperação no âmbito dessas instâncias com vista a contribuir, até 2030, para eliminar a fome e todas as formas de malnutrição.
 
-3 - As Partes colaboram tendo em vista contribuir para a concretização da Agenda 2030 no setor agroalimentar, em especial os ODS n.<sup>os</sup>1, 2, 12, 15, 17 e outros ODS pertinentes.
+3 - As Partes colaboram tendo em vista contribuir para a concretização da Agenda 2030 no setor agroalimentar, em especial os ODS n.os1, 2, 12, 15, 17 e outros ODS pertinentes.
 
 4 - As Partes encorajam e promovem parcerias eficazes de natureza pública ou público-privada e da sociedade civil, baseando-se na experiência e estratégias de recursos das parcerias a que se refere o ODS n.º 17. Para esse efeito, as Partes esforçam-se por reforçar a cooperação e coordenação bilaterais relacionadas com a agricultura e o desenvolvimento rural com base no princípio dos respetivos objetivos de sustentabilidade de longo prazo, referido no Pacto Ecológico da União Europeia, na Estratégia do Prado ao Prato da União Europeia e na Estratégia de Biodiversidade da União Europeia, bem como nas iniciativas chilenas de sustentabilidade do setor agroalimentar.
 
@@ -1107,7 +1114,7 @@ i) O contributo para a geração de capacidades, competências e aptidões no do
 
 2 - As Partes podem aditar, de mútuo acordo, outros domínios de ação aos referidos no n.º 1.
 
-# PARTE III — COMÉRCIO E OUTRAS MATÉRIAS CONEXAS
+## PARTE III — COMÉRCIO E OUTRAS MATÉRIAS CONEXAS
 
 ### CAPÍTULO 8 — DISPOSIÇÕES GERAIS E INSTITUCIONAIS
 
@@ -1179,17 +1186,17 @@ l) «Pessoa coletiva», qualquer entidade jurídica devidamente constituída ou 
 
 m) «Medida», qualquer medida sob a forma de lei, regulamento, regra, procedimento, decisão, ação administrativa, requisito, prática ou qualquer outra forma;
 
-n) «Medida adotada por uma Parte», qualquer medida adotada ou mantida por<sup>2</sup>:
+n) «Medida adotada por uma Parte», qualquer medida adotada ou mantida por2:
 
 i) Governos e autoridades a todos os níveis;
 
-ii) Organismos não governamentais no exercício de poderes delegados por governos ou autoridades a todos os níveis<sup>3</sup>; ou
+ii) Organismos não governamentais no exercício de poderes delegados por governos ou autoridades a todos os níveis3; ou
 
-iii) Qualquer entidade que, de facto, atue sob as instruções ou sob a direção ou controlo de uma Parte no que diz respeito à medida em causa<sup>4</sup>;
+iii) Qualquer entidade que, de facto, atue sob as instruções ou sob a direção ou controlo de uma Parte no que diz respeito à medida em causa4;
 
 o) «Pessoa singular»:
 
-i) No caso da UE, um nacional de um Estado-Membro, de acordo com a respetiva legislação<sup>5</sup>; e
+i) No caso da UE, um nacional de um Estado-Membro, de acordo com a respetiva legislação5; e
 
 ii) No caso do Chile, um nacional do Chile segundo a respetiva legislação nacional;
 
@@ -1225,7 +1232,7 @@ y) «Acordo OMC», o Acordo que institui a Organização Mundial do Comércio, c
 
 ###### Artigo 8.5 — Atribuições específicas do Conselho Conjunto na sua configuração Comércio
 
-1 - Quando o Conselho Conjunto instituído nos termos do artigo 40.1 abordar questões relacionadas com a presente parte do presente Acordo<sup>6</sup>, pode:
+1 - Quando o Conselho Conjunto instituído nos termos do artigo 40.1 abordar questões relacionadas com a presente parte do presente Acordo6, pode:
 
 a) Adotar decisões a fim de alterar:
 
@@ -1263,7 +1270,7 @@ d) Se o considerar adequado, estabelecer o regulamento interno dos subcomités e
 
 ###### Artigo 8.6 — Atribuições específicas do Comité Conjunto na sua configuração Comércio
 
-1 - Quando o Comité Conjunto instituído nos termos do artigo 40.2 abordar questões relacionadas com a presente parte do presente Acordo<sup>7</sup>, pode:
+1 - Quando o Comité Conjunto instituído nos termos do artigo 40.2 abordar questões relacionadas com a presente parte do presente Acordo7, pode:
 
 a) Apoiar o Conselho Conjunto no exercício das suas funções relativamente a questões comerciais e de investimento;
 
@@ -1415,7 +1422,7 @@ d) Medidas excecionais de controlo, caso a natureza das mercadorias ou os riscos
 
 2 - O n.º 1 não se aplica às mercadorias importadas no âmbito do regime de transformação aduaneira, em zonas de comércio livre ou em condições semelhantes, que sejam subsequentemente exportadas para fins de reparação e não sejam reimportadas no âmbito de um regime de transformação aduaneira, em zonas de comércio livre, nem em condições semelhantes.
 
-3 - As Partes não podem aplicar direitos aduaneiros a uma mercadoria, independentemente da sua origem, importada temporariamente do território aduaneiro da outra Parte para fins de reparação<sup>8</sup>.
+3 - As Partes não podem aplicar direitos aduaneiros a uma mercadoria, independentemente da sua origem, importada temporariamente do território aduaneiro da outra Parte para fins de reparação8.
 
 ###### Artigo 9.10 — Mercadorias remanufaturadas
 
@@ -1575,7 +1582,7 @@ c) Produtos produzidos nessa Parte que utilizam matérias não originárias, des
 
 2 - As matérias classificadas no capítulo 3 do Sistema Harmonizado originárias dos países referidos no n.º 4, alínea b), e utilizadas na produção de conservas de atum classificadas na subposição 1604.14 do Sistema Harmonizado podem ser consideradas originárias de uma Parte, desde que estejam preenchidas as condições previstas no n.º 3, alíneas a) a e), e que essa Parte envie uma notificação para exame pelo subcomité referido no artigo 10.31.
 
-3 - O Comité Conjunto pode decidir, na sequência de uma recomendação do Subcomité referido no artigo 10.31, que certas matérias originárias dos países terceiros<sup>9</sup> referidos no n.º 4 do presente artigo podem ser consideradas originárias de uma Parte se forem utilizadas na produção de um produto nessa Parte, desde que:
+3 - O Comité Conjunto pode decidir, na sequência de uma recomendação do Subcomité referido no artigo 10.31, que certas matérias originárias dos países terceiros9 referidos no n.º 4 do presente artigo podem ser consideradas originárias de uma Parte se forem utilizadas na produção de um produto nessa Parte, desde que:
 
 a) Cada Parte tenha em vigor um acordo de comércio que constitua uma zona de comércio livre com esse país terceiro, na aceção do artigo xxiv do GATT de 1994;
 
@@ -1645,13 +1652,13 @@ B) É propriedade, em mais de 50 %, de pessoas de uma dessas Partes.
 
 1 - Se uma matéria não originária utilizada na produção de um produto não satisfaz os requisitos estabelecidos no anexo 10-B, o produto é considerado originário de uma Parte, desde que:
 
-a) Para todos os produtos<sup>10</sup>, exceto os classificados nos capítulos 50 a 63 do Sistema Harmonizado, o valor total das matérias não originárias não exceda 10 % do preço à saída da fábrica do produto;
+a) Para todos os produtos10, exceto os classificados nos capítulos 50 a 63 do Sistema Harmonizado, o valor total das matérias não originárias não exceda 10 % do preço à saída da fábrica do produto;
 
 b) Para os produtos classificados nos capítulos 50 a 63 do Sistema Harmonizado, se apliquem as tolerâncias tal como estipulado nas notas 6 a 8 do anexo 10-A.
 
 2 - O disposto no n.º 1 não se aplica se o valor ou peso das matérias não originárias utilizadas na produção de um produto exceder qualquer das percentagens para o valor ou peso máximo de matérias não originárias, tal como especificado nos requisitos estabelecidos no anexo 10-B.
 
-3 - O disposto no n.º 1 não se aplica a produtos inteiramente obtidos numa Parte na aceção do artigo 10.4. Se for exigido nos termos do anexo 10-B que as matérias utilizadas na produção de um produto sejam inteiramente obtidas, aplica-se o disposto nos n.<sup>os</sup>1 e 2 do presente artigo.
+3 - O disposto no n.º 1 não se aplica a produtos inteiramente obtidos numa Parte na aceção do artigo 10.4. Se for exigido nos termos do anexo 10-B que as matérias utilizadas na produção de um produto sejam inteiramente obtidas, aplica-se o disposto nos n.os1 e 2 do presente artigo.
 
 ###### Artigo 10.6 — Operações de complemento de fabrico ou de transformação insuficientes
 
@@ -1755,7 +1762,7 @@ b) Não foi objeto de outras operações além das necessárias para o conservar
 
 3 - Sem prejuízo do disposto na secção B, o fracionamento das remessas pode ocorrer no território de um país terceiro se for realizado pelo exportador ou sob a sua responsabilidade e desde que essas remessas permaneçam sob controlo aduaneiro no país terceiro.
 
-4 - Em caso de dúvida quanto ao cumprimento das condições previstas nos n.<sup>os</sup>1 a 3, a autoridade aduaneira da Parte de importação pode solicitar ao importador que apresente provas desse cumprimento. Essas provas podem ser facultadas por quaisquer meios, incluindo documentos contratuais de transporte como, por exemplo, conhecimentos de embarque ou provas factuais ou concretas baseadas na marcação ou numeração de embalagens, ou ainda qualquer prova relativa ao próprio produto.
+4 - Em caso de dúvida quanto ao cumprimento das condições previstas nos n.os1 a 3, a autoridade aduaneira da Parte de importação pode solicitar ao importador que apresente provas desse cumprimento. Essas provas podem ser facultadas por quaisquer meios, incluindo documentos contratuais de transporte como, por exemplo, conhecimentos de embarque ou provas factuais ou concretas baseadas na marcação ou numeração de embalagens, ou ainda qualquer prova relativa ao próprio produto.
 
 ###### Artigo 10.15 — Exposições
 
@@ -1913,7 +1920,7 @@ Em caso de suspeita de violação do presente capítulo, as Partes prestam-se as
 
 ###### Artigo 10.25 — Recusa de pedidos de tratamento pautal preferencial
 
-1 - Sem prejuízo dos requisitos definidos nos n.<sup>os</sup>3 a 5, a autoridade aduaneira da Parte de importação pode recusar o pedido de tratamento pautal preferencial se:
+1 - Sem prejuízo dos requisitos definidos nos n.os3 a 5, a autoridade aduaneira da Parte de importação pode recusar o pedido de tratamento pautal preferencial se:
 
 a) No prazo de três meses a contar do pedido de informações nos termos do artigo 10.22, n.º 1:
 
@@ -2253,7 +2260,7 @@ k) Pontos de contacto para pedidos de informação; e
 
 l) Outros avisos relevantes de natureza administrativa relacionados com as alíneas a) a k).
 
-5 - Cada Parte assegura um prazo razoável entre a publicação<sup>11</sup> e a entrada em vigor de disposições legislativas e regulamentares, bem como de procedimentos, taxas ou encargos novos ou alterados.
+5 - Cada Parte assegura um prazo razoável entre a publicação11 e a entrada em vigor de disposições legislativas e regulamentares, bem como de procedimentos, taxas ou encargos novos ou alterados.
 
 6 - Cada Parte estabelece ou mantém um ou vários pontos de informação para responder a pedidos de informação razoáveis de administrações, operadores e outras partes interessadas relativos a questões aduaneiras ou comerciais e matérias conexas. Os pontos de informação devem fornecer uma resposta aos pedidos de informação dentro de um prazo razoável fixado por cada Parte, que pode variar consoante a natureza e a complexidade do pedido. As Partes não podem cobrar taxas pela resposta a pedidos de informação ou pelo fornecimento dos formulários e documentos exigidos.
 
@@ -2355,7 +2362,7 @@ d) Reforçar a cooperação em matéria de elaboração, aplicação e cumprimen
 
 1 - Para efeitos do presente artigo, entende-se por «importação temporária» o procedimento aduaneiro sob o qual determinadas mercadorias, incluindo os meios de transporte, podem ser introduzidas num território aduaneiro condicionalmente isentas de pagamento de direitos e encargos de importação e sem a aplicação de proibições nem restrições de importação de caráter económico. Tais mercadorias devem ser importadas com um fim definido e ser destinadas a serem reexportadas, num prazo determinado, sem terem sido submetidas a modificações, com exceção da depreciação normal decorrente da sua utilização.
 
-2 - As Partes concedem a importação temporária, com isenção condicional total de direitos e encargos de importação e sem a aplicação de restrições nem proibições de importação de caráter económico<sup>12</sup>, conforme estabelecido nas respetivas disposições legislativas e regulamentares, às seguintes mercadorias:
+2 - As Partes concedem a importação temporária, com isenção condicional total de direitos e encargos de importação e sem a aplicação de restrições nem proibições de importação de caráter económico12, conforme estabelecido nas respetivas disposições legislativas e regulamentares, às seguintes mercadorias:
 
 a) Mercadorias destinadas a serem apresentadas ou utilizadas numa exposição, feira, congresso ou manifestação similar, ou seja, mercadorias destinadas a serem apresentadas ou demonstradas num evento; mercadorias destinadas a utilização associada à apresentação de produtos estrangeiros num evento; equipamento, incluindo equipamento de interpretação, aparelhos de gravação de som e imagem e filmes de caráter educativo, científico ou cultural destinados a utilização em reuniões, conferências ou congressos internacionais; bem como as mercadorias obtidas em tais eventos a partir de mercadorias sujeitas ao regime de importação temporária; cada Parte pode exigir a emissão de uma autorização governamental ou de uma garantia ou depósito antes da data do evento;
 
@@ -2373,7 +2380,7 @@ g) Mercadorias importadas para fins humanitários, ou seja, equipamento médico,
 
 h) Animais importados para efeitos específicos, tais como cães ou cavalos de polícia, cães de deteção, cães para invisuais, cães de resgate, animais para efeitos de participação em manifestações públicas, exposições, concursos, competições ou demonstrações, animais para efeitos de espetáculos, como animais de circo, deslocações turísticas (incluindo animais de companhia de viajantes), realização de trabalho ou transporte, ou para utilização médica, como produção de veneno.
 
-3 - Cada Parte aceita, em conformidade com as respetivas disposições legislativas e regulamentares<sup>13</sup>, a importação temporária das mercadorias referidas no n.º 2, bem como, independentemente da respetiva origem, livretes ATA emitidos na outra Parte de acordo com a Convenção relativa à importação temporária, celebrada em Istambul em 26 de junho de 1990, aí aprovados e garantidos por uma associação que pertença à cadeia de garantia internacional, certificados pelas autoridades competentes e válidos no território aduaneiro da Parte de importação.
+3 - Cada Parte aceita, em conformidade com as respetivas disposições legislativas e regulamentares13, a importação temporária das mercadorias referidas no n.º 2, bem como, independentemente da respetiva origem, livretes ATA emitidos na outra Parte de acordo com a Convenção relativa à importação temporária, celebrada em Istambul em 26 de junho de 1990, aí aprovados e garantidos por uma associação que pertença à cadeia de garantia internacional, certificados pelas autoridades competentes e válidos no território aduaneiro da Parte de importação.
 
 ###### Artigo 11.22 — Mercadorias reparadas
 
@@ -2537,7 +2544,7 @@ a) Uma medida bilateral de salvaguarda ou uma medida bilateral de salvaguarda pr
 
 b) Uma medida de salvaguarda global nos termos do artigo xix do GATT de 1994 e do Acordo sobre as Medidas de Salvaguarda.
 
-###### Artigo 12.15 — Regiões ultraperiféricas<sup>14</sup> da União Europeia
+###### Artigo 12.15 — Regiões ultraperiféricas14 da União Europeia
 
 1 - Sempre que uma mercadoria originária do Chile esteja a ser importada no território de uma ou várias regiões ultraperiféricas da União Europeia em quantidades de tal forma elevadas e em condições tais que causem ou ameacem causar uma deterioração grave da situação económica da região ultraperiférica em causa, a Parte UE, após ter examinado as soluções alternativas, pode, a título excecional, aplicar medidas bilaterais de salvaguarda limitadas ao território da região em causa.
 
@@ -2557,7 +2564,7 @@ Na aplicação de medidas bilaterais de salvaguarda, a autoridade competente res
 
 ###### Artigo 12.17 — Início de um procedimento de salvaguarda
 
-1 - Qualquer autoridade competente responsável pelo inquérito de uma Parte pode dar início a um procedimento relativo a medidas bilaterais de salvaguarda («procedimento de salvaguarda») mediante pedido por escrito<sup>15</sup> apresentado pela indústria interna ou em seu nome, ou, em circunstâncias excecionais, por sua própria iniciativa.
+1 - Qualquer autoridade competente responsável pelo inquérito de uma Parte pode dar início a um procedimento relativo a medidas bilaterais de salvaguarda («procedimento de salvaguarda») mediante pedido por escrito15 apresentado pela indústria interna ou em seu nome, ou, em circunstâncias excecionais, por sua própria iniciativa.
 
 2 - Considera-se que o pedido foi apresentado pela indústria interna ou em seu nome se for apoiado por produtores internos cuja produção conjunta represente mais de 50 % da produção interna total das mercadorias similares ou em concorrência direta produzidas pela parte da indústria interna que manifestou o seu apoio ou a sua oposição ao pedido. No entanto, a autoridade competente responsável pelo inquérito não pode iniciar um inquérito se os produtores internos que apoiem expressamente o pedido representarem menos de 25 % da produção interna total das mercadorias similares ou em concorrência direta produzidas pela indústria interna.
 
@@ -2579,7 +2586,7 @@ f) O local onde o pedido por escrito e quaisquer outros documentos não confiden
 
 g) O nome, endereço e número de telefone do serviço a contactar para obter mais informações.
 
-5 - Relativamente a um procedimento de salvaguarda iniciado nos termos do n.º 1 com base num pedido por escrito, a autoridade competente responsável pelo inquérito em causa não pode publicar o aviso exigido nos termos do n.º 4 sem antes avaliar cuidadosamente se o mesmo cumpre os requisitos da respetiva legislação interna e os requisitos dos n.<sup>os</sup> 1 e 2, e se inclui elementos de prova razoáveis de que o aumento das importações de uma mercadoria originária da outra Parte decorre da redução ou da eliminação de um direito aduaneiro ao abrigo da presente parte do presente Acordo, e de que essas importações causam ou ameaçam causar o alegado prejuízo grave.
+5 - Relativamente a um procedimento de salvaguarda iniciado nos termos do n.º 1 com base num pedido por escrito, a autoridade competente responsável pelo inquérito em causa não pode publicar o aviso exigido nos termos do n.º 4 sem antes avaliar cuidadosamente se o mesmo cumpre os requisitos da respetiva legislação interna e os requisitos dos n.os 1 e 2, e se inclui elementos de prova razoáveis de que o aumento das importações de uma mercadoria originária da outra Parte decorre da redução ou da eliminação de um direito aduaneiro ao abrigo da presente parte do presente Acordo, e de que essas importações causam ou ameaçam causar o alegado prejuízo grave.
 
 ###### Artigo 12.18 — Inquérito
 
@@ -2711,7 +2718,7 @@ b) Sem prejuízo do disposto nos artigos 13.9 e 13.15, e salvo se a Parte de imp
 
 7 - As consultas referidas no n.º 4 do presente artigo realizam-se em conformidade com o artigo 13.14, n.º 2. A Parte de importação avalia as informações complementares no prazo de três meses a contar da data de receção das mesmas. Cada Parte realiza a verificação referida no n.º 4 do presente artigo em conformidade com o artigo 13.11 e no prazo de 12 meses a contar da receção do pedido de verificação, tendo em conta as características biológicas da praga e da cultura em causa.
 
-8 - Após a finalização dos procedimentos estabelecidos nos n.<sup>os</sup>2 a 7 do presente artigo, e sem prejuízo do disposto no artigo 13.15, as Partes tomam, sem demora injustificada, as medidas legislativas e administrativas necessárias para permitir o comércio nessa base.
+8 - Após a finalização dos procedimentos estabelecidos nos n.os2 a 7 do presente artigo, e sem prejuízo do disposto no artigo 13.15, as Partes tomam, sem demora injustificada, as medidas legislativas e administrativas necessárias para permitir o comércio nessa base.
 
 ###### Artigo 13.8 — Reconhecimento da equivalência
 
@@ -2763,7 +2770,7 @@ b) Em conformidade com o artigo 13.13, a Parte de importação informa a Parte d
 
 1 - Para efeitos dos procedimentos de certificação, as Partes cumprem os princípios e critérios estabelecidos no anexo 13-H.
 
-2 - Uma Parte emite os certificados ou documentos oficiais referidos no artigo 13.9, n.<sup>os</sup>1, 5 e 6, conforme estabelecido no anexo 13-H.
+2 - Uma Parte emite os certificados ou documentos oficiais referidos no artigo 13.9, n.os1, 5 e 6, conforme estabelecido no anexo 13-H.
 
 3 - O Subcomité a que se refere o artigo 13.16 pode recomendar ao Comité Conjunto ou ao Conselho Conjunto que adote uma decisão que estabeleça as regras a seguir em caso de certificação eletrónica ou de retirada ou substituição de certificados.
 
@@ -2889,7 +2896,7 @@ b) Recolha de dados.
 
 ###### Artigo 13.19 — Aplicação territorial no que se refere à Parte UE
 
-1 - Em derrogação do artigo 41.2, no que se refere à Parte UE, o presente capítulo aplica-se aos territórios dos Estados-Membros, tal como estabelecido no anexo i do Regulamento (UE) 2017/625 do Parlamento Europeu e do Conselho<sup>16</sup>, e no que diz respeito aos vegetais, aos produtos vegetais e outros produtos, tal como estabelecido no artigo 1.º, n.º 3, do Regulamento (UE) 2016/2031 do Parlamento Europeu e do Conselho<sup>17</sup>.
+1 - Em derrogação do artigo 41.2, no que se refere à Parte UE, o presente capítulo aplica-se aos territórios dos Estados-Membros, tal como estabelecido no anexo i do Regulamento (UE) 2017/625 do Parlamento Europeu e do Conselho16, e no que diz respeito aos vegetais, aos produtos vegetais e outros produtos, tal como estabelecido no artigo 1.º, n.º 3, do Regulamento (UE) 2016/2031 do Parlamento Europeu e do Conselho17.
 
 2 - As Partes entendem que, no que diz respeito ao território da União Europeia, a sua especificidade deve ser tida em conta e a União Europeia deve ser reconhecida como uma entidade única.
 
@@ -3079,9 +3086,9 @@ j) «Regulamentos técnicos», regulamentos técnicos na aceção do capítulo 1
 
 ###### Artigo 15.4 — Monopólios de importação e exportação
 
-Uma Parte não pode designar nem manter um monopólio de importação ou exportação. Para efeitos do presente artigo, o termo «monopólio de importação ou exportação» significa o direito exclusivo ou a concessão de autoridade por uma Parte a uma entidade para que esta importe produtos energéticos ou matérias-primas da outra Parte ou exporte produtos energéticos ou matérias-primas para a outra Parte<sup>18</sup>.
+Uma Parte não pode designar nem manter um monopólio de importação ou exportação. Para efeitos do presente artigo, o termo «monopólio de importação ou exportação» significa o direito exclusivo ou a concessão de autoridade por uma Parte a uma entidade para que esta importe produtos energéticos ou matérias-primas da outra Parte ou exporte produtos energéticos ou matérias-primas para a outra Parte18.
 
-###### Artigo 15.5 — Preço de exportação<sup>19</sup>
+###### Artigo 15.5 — Preço de exportação19
 
 1 - Uma Parte não pode, através de medidas como licenças ou requisitos em matéria de preços mínimos, impor um preço pelas exportações de produtos energéticos ou matérias-primas para a outra Parte que seja superior ao preço cobrado por esses produtos ou matérias-primas no mercado interno.
 
@@ -3099,7 +3106,7 @@ Uma Parte não pode designar nem manter um monopólio de importação ou exporta
 
 ###### Artigo 15.7 — Autorização de exploração e produção de produtos energéticos e matérias-primas
 
-1 - Sem prejuízo do disposto no capítulo 20, se uma Parte exigir uma autorização para explorar ou produzir produtos energéticos e matérias-primas, assegura que essa autorização é concedida na sequência de um procedimento público e não discriminatório<sup>20</sup>.
+1 - Sem prejuízo do disposto no capítulo 20, se uma Parte exigir uma autorização para explorar ou produzir produtos energéticos e matérias-primas, assegura que essa autorização é concedida na sequência de um procedimento público e não discriminatório20.
 
 2 - A Parte em causa publica, nomeadamente, o tipo de autorização, a área ou parte da área em causa, e a data ou o prazo propostos de concessão da autorização, de forma a que os requerentes potencialmente interessados possam apresentar os seus pedidos.
 
@@ -3117,7 +3124,7 @@ c) Uma autorização concedida foi revogada antes da data de caducidade.
 
 ###### Artigo 15.8 — Avaliação do impacto ambiental
 
-1 - Cada Parte assegura que é realizada uma avaliação do impacto ambiental<sup>21</sup> antes de conceder a autorização para um projeto ou atividade relacionada com energia ou matérias-primas que possa ter um impacto significativo na população, na saúde humana, na biodiversidade, na terra, no solo, na água, no ar ou no clima, ou no património cultural ou paisagístico. Essa avaliação deve identificar e avaliar tais impactos significativos.
+1 - Cada Parte assegura que é realizada uma avaliação do impacto ambiental21 antes de conceder a autorização para um projeto ou atividade relacionada com energia ou matérias-primas que possa ter um impacto significativo na população, na saúde humana, na biodiversidade, na terra, no solo, na água, no ar ou no clima, ou no património cultural ou paisagístico. Essa avaliação deve identificar e avaliar tais impactos significativos.
 
 2 - Cada Parte assegura que as informações pertinentes são disponibilizadas ao público no âmbito do processo de avaliação do impacto ambiental, dando tempo e oportunidade ao público para participar nesse processo e apresentar observações.
 
@@ -3131,7 +3138,7 @@ c) Uma autorização concedida foi revogada antes da data de caducidade.
 
 3 - Sem prejuízo do disposto no n.º 1, uma Parte pode introduzir ou manter nas respetivas disposições legislativas e regulamentares derrogações específicas ao direito de acesso de terceiros com base em critérios objetivos, desde que essas derrogações sejam necessárias para cumprir um objetivo político legítimo. Tais derrogações são publicadas antes de começarem a ser aplicadas.
 
-4 - As Partes reconhecem a relevância das regras estabelecidas nos n.<sup>os</sup>1, 2 e 3 também para as infraestruturas de gás. Uma Parte que não aplique essas regras no que diz respeito às infraestruturas de gás envida esforços para o fazer, em especial no que diz respeito ao transporte de combustíveis renováveis, reconhecendo simultaneamente as diferenças na maturidade e organização do mercado.
+4 - As Partes reconhecem a relevância das regras estabelecidas nos n.os1, 2 e 3 também para as infraestruturas de gás. Uma Parte que não aplique essas regras no que diz respeito às infraestruturas de gás envida esforços para o fazer, em especial no que diz respeito ao transporte de combustíveis renováveis, reconhecendo simultaneamente as diferenças na maturidade e organização do mercado.
 
 ###### Artigo 15.10 — Acesso dos fornecedores de eletricidade produzida a partir de fontes de energia renováveis à infraestrutura
 
@@ -3277,7 +3284,7 @@ Os artigos 2.º a 9.º e os anexos 1 e 3 do Acordo OTC são incorporados, com as
 
 ###### Artigo 16.4 — Normas internacionais
 
-1 - As normas internacionais elaboradas pelas organizações enumeradas no anexo 16-A são consideradas as normas internacionais pertinentes na aceção dos artigos 2.º e 5.º e do anexo 3 do Acordo OTC, desde que, na elaboração dessas normas, essas organizações tenham cumprido os princípios e procedimentos estabelecidos na Decisão do Comité dos Obstáculos Técnicos ao Comércio da OMC sobre os princípios para a elaboração de normas, orientações e recomendações internacionais em relação com os artigos 2.º e 5.º e com o anexo 3 do Acordo OTC<sup>22</sup>.
+1 - As normas internacionais elaboradas pelas organizações enumeradas no anexo 16-A são consideradas as normas internacionais pertinentes na aceção dos artigos 2.º e 5.º e do anexo 3 do Acordo OTC, desde que, na elaboração dessas normas, essas organizações tenham cumprido os princípios e procedimentos estabelecidos na Decisão do Comité dos Obstáculos Técnicos ao Comércio da OMC sobre os princípios para a elaboração de normas, orientações e recomendações internacionais em relação com os artigos 2.º e 5.º e com o anexo 3 do Acordo OTC22.
 
 2 - A pedido de uma Parte, o Conselho Conjunto pode adotar uma decisão de alteração do anexo 16-A, nos termos do artigo 8.5, n.º 1, alínea a).
 
@@ -3353,7 +3360,7 @@ f) Atividades relacionadas com a normalização; e
 
 g) Intercâmbio de funcionários.
 
-5 - A Parte UE pode facultar ao Chile informações selecionadas do seu sistema de alerta rápido referentes a produtos de consumo, tal como referido na Diretiva 2001/95/CE do Parlamento Europeu e do Conselho<sup>23</sup>, ou do sistema que lhe tenha sucedido, e o Chile pode facultar à Parte UE informações selecionadas sobre a segurança dos produtos de consumo e sobre as medidas preventivas, restritivas e corretivas tomadas relativamente aos produtos de consumo. O intercâmbio de informações pode assumir a forma de:
+5 - A Parte UE pode facultar ao Chile informações selecionadas do seu sistema de alerta rápido referentes a produtos de consumo, tal como referido na Diretiva 2001/95/CE do Parlamento Europeu e do Conselho23, ou do sistema que lhe tenha sucedido, e o Chile pode facultar à Parte UE informações selecionadas sobre a segurança dos produtos de consumo e sobre as medidas preventivas, restritivas e corretivas tomadas relativamente aos produtos de consumo. O intercâmbio de informações pode assumir a forma de:
 
 a) Intercâmbio não sistemático, em casos específicos devidamente justificados, excluindo dados pessoais; e
 
@@ -3361,9 +3368,9 @@ b) Intercâmbio sistemático com base num acordo estabelecido por decisão do Co
 
 6 - O Conselho Conjunto pode adotar uma decisão para estabelecer um acordo sobre o intercâmbio regular de informações, inclusive por via eletrónica, sobre as medidas tomadas relativamente a produtos não alimentares não conformes, com exceção dos abrangidos pelo n.º 5 do presente artigo, a incluir no anexo 16-E.
 
-7 - Cada Parte utiliza as informações obtidas ao abrigo dos n.<sup>os</sup>4, 5 e 6 exclusivamente para proteger os consumidores, a saúde, a segurança ou o meio ambiente.
+7 - Cada Parte utiliza as informações obtidas ao abrigo dos n.os4, 5 e 6 exclusivamente para proteger os consumidores, a saúde, a segurança ou o meio ambiente.
 
-8 - Cada Parte dá um tratamento confidencial às informações obtidas ao abrigo dos n.<sup>os</sup>4, 5 e 6.
+8 - Cada Parte dá um tratamento confidencial às informações obtidas ao abrigo dos n.os4, 5 e 6.
 
 9 - Os convénios referidos no n.º 5, alínea b), e no n.º 6 especificam a definição do produto, o tipo de informações objeto de intercâmbio, as modalidades do intercâmbio e a aplicação de regras em matéria de confidencialidade e proteção de dados pessoais.
 
@@ -3427,7 +3434,7 @@ a) Limita as taxas cobradas pela avaliação da conformidade ao custo aproximado
 
 b) Torna públicas as taxas cobradas pela avaliação da conformidade ou disponibiliza-as mediante pedido.
 
-5 - Não obstante o disposto nos n.<sup>os</sup>2, 3 e 4 do presente artigo, nos casos em que a Parte UE aceite a declaração de conformidade do fornecedor nos domínios enumerados no anexo 16-B, o Chile deve prever, em conformidade com as suas disposições legislativas e regulamentares, um procedimento eficiente e transparente para a aceitação dos certificados e relatórios de ensaio emitidos por organismos de avaliação da conformidade estabelecidos no território da Parte UE e acreditados por um organismo de acreditação que seja membro de acordos internacionais de reconhecimento mútuo da ILAC e do IAF, como garantia de que o produto está em conformidade com os requisitos da regulamentação técnica do Chile.
+5 - Não obstante o disposto nos n.os2, 3 e 4 do presente artigo, nos casos em que a Parte UE aceite a declaração de conformidade do fornecedor nos domínios enumerados no anexo 16-B, o Chile deve prever, em conformidade com as suas disposições legislativas e regulamentares, um procedimento eficiente e transparente para a aceitação dos certificados e relatórios de ensaio emitidos por organismos de avaliação da conformidade estabelecidos no território da Parte UE e acreditados por um organismo de acreditação que seja membro de acordos internacionais de reconhecimento mútuo da ILAC e do IAF, como garantia de que o produto está em conformidade com os requisitos da regulamentação técnica do Chile.
 
 6 - Para efeitos do presente artigo, entende-se por «declaração de conformidade do fornecedor» uma autodeclaração emitida pelo fabricante sob a exclusiva responsabilidade desse fabricante, com base nos resultados de um tipo adequado de atividade de avaliação da conformidade e excluindo a avaliação obrigatória por terceiros, como uma garantia de que um produto está em conformidade com um regulamento técnico que estabelece esses procedimentos de avaliação da conformidade.
 
@@ -3565,7 +3572,7 @@ f) «Atividades económicas», quaisquer atividades de caráter industrial, come
 
 g) «Empresa», uma pessoa coletiva ou uma sucursal ou uma representação constituída através de estabelecimento;
 
-h) «Estabelecimento», a constituição, incluindo a aquisição<sup>24</sup>, de uma empresa por um investidor de uma das Partes no território da outra Parte;
+h) «Estabelecimento», a constituição, incluindo a aquisição24, de uma empresa por um investidor de uma das Partes no território da outra Parte;
 
 i) «Moeda livremente convertível», uma moeda que pode ser livremente trocada por divisas que são largamente negociadas em mercados internacionais de divisas e amplamente utilizadas em transações internacionais;
 
@@ -3581,7 +3588,7 @@ iii) Obrigações, títulos de dívida e outros instrumentos de dívida de uma e
 
 iv) Futuros, opções e outros derivados;
 
-v) Concessões, licenças, autorizações e direitos semelhantes conferidos ao abrigo do direito interno<sup>25</sup>;
+v) Concessões, licenças, autorizações e direitos semelhantes conferidos ao abrigo do direito interno25;
 
 vi) Contratos «chave na mão», contratos de construção, gestão, produção, concessão ou partilha de receitas e outros contratos semelhantes, incluindo os que impliquem a presença de bens de um investidor no território de uma Parte;
 
@@ -3597,11 +3604,11 @@ ii) A definição de «investimento» não abrange despachos ou sentenças profe
 
 l) «Investidor de uma Parte», qualquer pessoa singular ou coletiva de uma Parte que pretenda estabelecer, esteja a estabelecer ou tenha estabelecido uma empresa em conformidade com a alínea h);
 
-m) «Pessoa coletiva de uma Parte»<sup>26</sup>:
+m) «Pessoa coletiva de uma Parte»26:
 
 i) No que respeita à Parte UE:
 
-A) Uma pessoa coletiva constituída ou organizada ao abrigo do direito da União Europeia ou de pelo menos um dos seus Estados-Membros e que realiza um volume significativo de operações comerciais<sup>27</sup> no território da União Europeia; e
+A) Uma pessoa coletiva constituída ou organizada ao abrigo do direito da União Europeia ou de pelo menos um dos seus Estados-Membros e que realiza um volume significativo de operações comerciais27 no território da União Europeia; e
 
 B) Companhias de transporte marítimo estabelecidas num país terceiro à União Europeia e controladas por pessoas singulares de um Estado-Membro, cujos navios estejam registados num Estado-Membro e arvorem o respetivo pavilhão;
 
@@ -3653,9 +3660,9 @@ b) Seriam infringidas ou evadidas se os benefícios decorrentes do presente cap�
 
 a) Os serviços audiovisuais;
 
-b) A cabotagem marítima nacional<sup>28</sup>; ou
+b) A cabotagem marítima nacional28; ou
 
-c) Os serviços de transporte aéreo nacional e internacional, ou serviços conexos de apoio a serviços aéreos<sup>29</sup>, regulares ou não, e serviços diretamente ligados ao exercício dos direitos de tráfego, à exceção de:
+c) Os serviços de transporte aéreo nacional e internacional, ou serviços conexos de apoio a serviços aéreos29, regulares ou não, e serviços diretamente ligados ao exercício dos direitos de tráfego, à exceção de:
 
 i) Serviços de reparação e manutenção de aeronaves, durante os quais a aeronave é retirada de serviço;
 
@@ -3677,7 +3684,7 @@ a) Limite o número de empresas que podem exercer uma atividade económica espec
 
 b) Limite o valor total das transações ou ativos, sob a forma de quotas numéricas ou por meio da exigência de um exame das necessidades económicas;
 
-c) Limite o número total de operações ou a quantidade total da produção, expressa em termos de unidades numéricas específicas, sob a forma de quotas ou por meio da exigência de um exame das necessidades económicas<sup>30</sup>;
+c) Limite o número total de operações ou a quantidade total da produção, expressa em termos de unidades numéricas específicas, sob a forma de quotas ou por meio da exigência de um exame das necessidades económicas30;
 
 d) Restrinja ou exija tipos específicos de entidades jurídicas ou de empresas comuns através das quais um investidor da outra Parte possa exercer uma atividade económica; ou
 
@@ -3685,15 +3692,15 @@ e) Limite o número total de pessoas singulares que podem ser empregadas em dete
 
 ###### Artigo 17.9 — Tratamento nacional
 
-1 - Cada Parte concede aos investidores da outra Parte e às empresas que constituam um investimento abrangido, no que diz respeito ao estabelecimento, um tratamento não menos favorável do que o concedido, em situações similares<sup>31</sup>, aos seus próprios investidores e às suas empresas.
+1 - Cada Parte concede aos investidores da outra Parte e às empresas que constituam um investimento abrangido, no que diz respeito ao estabelecimento, um tratamento não menos favorável do que o concedido, em situações similares31, aos seus próprios investidores e às suas empresas.
 
-2 - Cada Parte concede aos investidores da outra Parte e aos investimentos abrangidos, no que diz respeito à sua exploração, um tratamento não menos favorável do que o concedido, em situações similares<sup>32</sup>, aos seus próprios investidores e respetivos investimentos.
+2 - Cada Parte concede aos investidores da outra Parte e aos investimentos abrangidos, no que diz respeito à sua exploração, um tratamento não menos favorável do que o concedido, em situações similares32, aos seus próprios investidores e respetivos investimentos.
 
-3 - O tratamento concedido por uma Parte nos termos dos n.<sup>os</sup> 1 e 2 significa:
+3 - O tratamento concedido por uma Parte nos termos dos n.os 1 e 2 significa:
 
 a) No que diz respeito às entidades da administração regional ou local do Chile, um tratamento não menos favorável do que o tratamento mais favorável concedido, em situações similares, por essas entidades a investidores chilenos e aos seus investimentos no respetivo território;
 
-b) No que diz respeito às entidades governamentais de, ou num, Estado-Membro, um tratamento não menos favorável do que o tratamento mais favorável concedido, em situações similares, por essas entidades a investidores desse Estado-Membro e aos seus investimentos no respetivo território<sup>33</sup>.
+b) No que diz respeito às entidades governamentais de, ou num, Estado-Membro, um tratamento não menos favorável do que o tratamento mais favorável concedido, em situações similares, por essas entidades a investidores desse Estado-Membro e aos seus investimentos no respetivo território33.
 
 ###### Artigo 17.10 — Contratos públicos
 
@@ -3703,13 +3710,13 @@ b) No que diz respeito às entidades governamentais de, ou num, Estado-Membro, u
 
 ###### Artigo 17.11 — Tratamento de nação mais favorecida
 
-1 - Cada Parte concede aos investidores da outra Parte e às empresas que constituam um investimento abrangido, no que diz respeito ao estabelecimento, um tratamento não menos favorável do que o concedido, em situações similares<sup>34</sup>, aos investidores de um país terceiro e às suas empresas.
+1 - Cada Parte concede aos investidores da outra Parte e às empresas que constituam um investimento abrangido, no que diz respeito ao estabelecimento, um tratamento não menos favorável do que o concedido, em situações similares34, aos investidores de um país terceiro e às suas empresas.
 
-2 - Cada Parte concede aos investidores da outra Parte e aos investimentos abrangidos, no que se refere à sua exploração, um tratamento não menos favorável do que o concedido, em situações similares<sup>35</sup>, aos investidores de um país terceiro e aos seus investimentos.
+2 - Cada Parte concede aos investidores da outra Parte e aos investimentos abrangidos, no que se refere à sua exploração, um tratamento não menos favorável do que o concedido, em situações similares35, aos investidores de um país terceiro e aos seus investimentos.
 
-3 - O disposto nos n.<sup>os</sup>1 e 2 não pode ser interpretado como obrigando uma Parte a conceder aos investidores da outra Parte ou aos investimentos abrangidos o benefício de qualquer tratamento decorrente de medidas sobre o reconhecimento de normas, incluindo de normas ou critérios para a autorização, licenciamento ou certificação de uma pessoa singular ou de uma empresa para exercer uma atividade económica, ou de medidas de caráter prudencial.
+3 - O disposto nos n.os1 e 2 não pode ser interpretado como obrigando uma Parte a conceder aos investidores da outra Parte ou aos investimentos abrangidos o benefício de qualquer tratamento decorrente de medidas sobre o reconhecimento de normas, incluindo de normas ou critérios para a autorização, licenciamento ou certificação de uma pessoa singular ou de uma empresa para exercer uma atividade económica, ou de medidas de caráter prudencial.
 
-4 - Para maior clareza, o «tratamento» a que se faz referência nos n.<sup>os</sup>1 e 2 não inclui os procedimentos ou mecanismos de resolução de litígios em matéria de investimento previstos noutros tratados internacionais em matéria de investimento ou noutros acordos comerciais. As disposições materiais constantes de outros tratados internacionais em matéria de investimento ou de acordos comerciais não constituem, por si só, tratamento na aceção dos n.<sup>os</sup>1 e 2 e, por conseguinte, não podem dar origem a uma violação do presente artigo, na ausência de medidas adotadas ou mantidas por uma Parte. As medidas aplicadas por uma Parte nos termos de tais disposições materiais poderão constituir «tratamento» ao abrigo do presente artigo e, por conseguinte, dar origem a uma violação do presente artigo.
+4 - Para maior clareza, o «tratamento» a que se faz referência nos n.os1 e 2 não inclui os procedimentos ou mecanismos de resolução de litígios em matéria de investimento previstos noutros tratados internacionais em matéria de investimento ou noutros acordos comerciais. As disposições materiais constantes de outros tratados internacionais em matéria de investimento ou de acordos comerciais não constituem, por si só, tratamento na aceção dos n.os1 e 2 e, por conseguinte, não podem dar origem a uma violação do presente artigo, na ausência de medidas adotadas ou mantidas por uma Parte. As medidas aplicadas por uma Parte nos termos de tais disposições materiais poderão constituir «tratamento» ao abrigo do presente artigo e, por conseguinte, dar origem a uma violação do presente artigo.
 
 ###### Artigo 17.12 — Requisitos de desempenho
 
@@ -3735,7 +3742,7 @@ i) Contratar um determinado número ou percentagem dos seus próprios nacionais;
 
 j) Restringir a exportação ou venda para exportação; ou
 
-k) No que diz respeito a qualquer contrato de licença em vigor no momento em que o requisito seja imposto, ou que o compromisso seja feito cumprir, ou em relação a qualquer futuro contrato de licença<sup>36</sup> livremente assumido entre um investidor e uma pessoa singular ou coletiva ou qualquer outra entidade no seu território, desde que o requisito seja imposto ou seja feito cumprir, ou o compromisso seja feito cumprir de um modo que constitui interferência direta com esse contrato de licença como consequência do exercício de um poder público não judicial de uma Parte, a fim de adotar:
+k) No que diz respeito a qualquer contrato de licença em vigor no momento em que o requisito seja imposto, ou que o compromisso seja feito cumprir, ou em relação a qualquer futuro contrato de licença36 livremente assumido entre um investidor e uma pessoa singular ou coletiva ou qualquer outra entidade no seu território, desde que o requisito seja imposto ou seja feito cumprir, ou o compromisso seja feito cumprir de um modo que constitui interferência direta com esse contrato de licença como consequência do exercício de um poder público não judicial de uma Parte, a fim de adotar:
 
 i) Uma determinada taxa ou montante de royalties inferior a um determinado nível no âmbito de um contrato de licença; ou
 
@@ -3835,13 +3842,13 @@ a) Na falta de um compromisso específico quanto à concessão, prorrogação ou
 
 b) Em conformidade com as condições que regem a concessão, prorrogação, manutenção, modificação ou redução em vigor dessa subvenção ou subsídio.
 
-4 - Para maior clareza, nenhuma disposição da presente secção pode ser interpretada no sentido de impedir uma Parte de suspender a concessão de uma subvenção<sup>37</sup> ou solicitar o seu reembolso se essa medida tiver sido decretada por uma das suas autoridades competentes<sup>38</sup>, nem no sentido de exigir que essa Parte indemnize o investidor pela aplicação de tal medida.
+4 - Para maior clareza, nenhuma disposição da presente secção pode ser interpretada no sentido de impedir uma Parte de suspender a concessão de uma subvenção37 ou solicitar o seu reembolso se essa medida tiver sido decretada por uma das suas autoridades competentes38, nem no sentido de exigir que essa Parte indemnize o investidor pela aplicação de tal medida.
 
 ###### Artigo 17.17 — Tratamento dos investidores e dos investimentos abrangidos
 
-1 - Cada Parte concede, no seu território, aos investimentos abrangidos e aos investidores da outra Parte quanto aos seus investimentos abrangidos, um tratamento justo e equitativo bem como plena proteção e segurança, em conformidade com os n.<sup>os</sup>2 a 6.
+1 - Cada Parte concede, no seu território, aos investimentos abrangidos e aos investidores da outra Parte quanto aos seus investimentos abrangidos, um tratamento justo e equitativo bem como plena proteção e segurança, em conformidade com os n.os2 a 6.
 
-2 - Uma Parte infringe a obrigação de tratamento justo e equitativo referida no n.º 1 se uma medida ou uma série de medidas constituir<sup>39</sup>:
+2 - Uma Parte infringe a obrigação de tratamento justo e equitativo referida no n.º 1 se uma medida ou uma série de medidas constituir39:
 
 a) Uma denegação de justiça em processos penais, civis ou administrativos;
 
@@ -3855,15 +3862,15 @@ e) Um tratamento abusivo dos investidores, nomeadamente coerção, intimidação
 
 3 - Para apurar se a obrigação a que se refere o n.º 2 foi infringida, o Tribunal pode ter em conta o facto de uma Parte ter feito declarações específicas ou inequívocas a um investidor, que as considerou razoavelmente fiáveis quando decidiu realizar ou manter o investimento abrangido, mas que a Parte frustrou posteriormente.
 
-4 - «Plena proteção e segurança» nos termos do n.º 1, refere-se à obrigação de uma Parte no que respeita à segurança física dos investidores e dos investimentos abrangidos<sup>40</sup>.
+4 - «Plena proteção e segurança» nos termos do n.º 1, refere-se à obrigação de uma Parte no que respeita à segurança física dos investidores e dos investimentos abrangidos40.
 
 5 - Para maior clareza, a violação de outra disposição do presente Acordo ou a violação de qualquer outro acordo internacional não constitui uma violação do presente artigo.
 
-6 - O facto de uma medida violar a legislação de uma Parte não constitui, por si só, uma violação do presente artigo. A fim de determinar se a medida viola o disposto no presente artigo, o Tribunal deve apurar se a Parte não agiu em conformidade com o disposto nos n.<sup>os</sup>1 a 4.
+6 - O facto de uma medida violar a legislação de uma Parte não constitui, por si só, uma violação do presente artigo. A fim de determinar se a medida viola o disposto no presente artigo, o Tribunal deve apurar se a Parte não agiu em conformidade com o disposto nos n.os1 a 4.
 
 ###### Artigo 17.18 — Tratamento em caso de conflito armado ou de perturbação da ordem pública
 
-1 - Os investidores de uma Parte cujos investimentos abrangidos sofram perdas devido a uma guerra, conflito armado, revolução ou outra perturbação da ordem pública, ou devido à declaração do estado de emergência nacional<sup>41</sup> no território da outra Parte, devem receber dessa Parte um tratamento não menos favorável do que o por ela concedido aos seus próprios investidores ou aos investidores de qualquer país terceiro, no que diz respeito à restituição, indemnização, compensação ou outra forma de ressarcimento.
+1 - Os investidores de uma Parte cujos investimentos abrangidos sofram perdas devido a uma guerra, conflito armado, revolução ou outra perturbação da ordem pública, ou devido à declaração do estado de emergência nacional41 no território da outra Parte, devem receber dessa Parte um tratamento não menos favorável do que o por ela concedido aos seus próprios investidores ou aos investidores de qualquer país terceiro, no que diz respeito à restituição, indemnização, compensação ou outra forma de ressarcimento.
 
 2 - Sem prejuízo do disposto no n.º 1, aos investidores de uma Parte que, em qualquer das situações referidas nesse número, sofram perdas no território da outra Parte deve ser concedida por esta uma restituição ou compensação rápida, adequada e efetiva, se essas perdas resultarem:
 
@@ -3873,7 +3880,7 @@ b) Da destruição do seu investimento abrangido, ou de parte do mesmo, pelas fo
 
 3 - O montante da compensação a que se refere o n.º 2 é determinado em conformidade com o artigo 17.19, n.º 2, desde a data da requisição ou destruição do investimento em causa até à data do pagamento efetivo da compensação.
 
-###### Artigo 17.19 — Expropriação<sup>42</sup>
+###### Artigo 17.19 — Expropriação42
 
 1 - Uma Parte não pode nacionalizar nem expropriar um investimento abrangido, quer diretamente, quer indiretamente através de medidas com efeito equivalente à nacionalização ou à expropriação («expropriação»), exceto:
 
@@ -3897,9 +3904,9 @@ d) Deve incluir juros à taxa comercial normal desde a data da expropriação at
 
 3 - O investidor afetado tem direito, ao abrigo da legislação da Parte que realiza a expropriação, a um exame imediato do seu pedido e à avaliação do seu investimento, por uma autoridade judicial ou outra autoridade independente dessa Parte, em conformidade com os princípios enunciados no presente artigo.
 
-4 - O presente artigo não se aplica à emissão de licenças obrigatórias concedidas em relação a direitos de propriedade intelectual, nem à revogação, limitação ou criação desses direitos, na medida em que essa emissão, revogação, limitação ou criação seja compatível com o Acordo TRIPS<sup>43</sup>.
+4 - O presente artigo não se aplica à emissão de licenças obrigatórias concedidas em relação a direitos de propriedade intelectual, nem à revogação, limitação ou criação desses direitos, na medida em que essa emissão, revogação, limitação ou criação seja compatível com o Acordo TRIPS43.
 
-###### Artigo 17.20 — Transferências<sup>44</sup>
+###### Artigo 17.20 — Transferências44
 
 1 - Cada Parte permite que quaisquer transferências relacionadas com um investimento abrangido sejam efetuadas numa moeda livremente convertível, sem restrições nem atrasos, e à taxa de câmbio do mercado em vigor na data da transferência. Essas transferências incluem:
 
@@ -3937,13 +3944,13 @@ Se uma Parte ou um organismo por si designado efetuar um pagamento a um investid
 
 2 - Se as secções C e D do presente capítulo forem aplicadas a título provisório, em conformidade com o disposto no artigo 41.5, n.º 2, a aplicação dos acordos enumerados no anexo 17-F, incluindo os direitos e as obrigações deles decorrentes, será suspensa a partir da data em que as Partes começarem a aplicar a título provisório as secções C e D do presente capítulo nos termos do artigo 41.5. Se a aplicação provisória dessas secções cessar sem que o presente Acordo tenha entrado em vigor, essa suspensão deixa de ser aplicável e os acordos enumerados no anexo 17-F voltam a produzir efeitos.
 
-3 - Sem prejuízo do disposto nos n.<sup>os</sup>1 e 2, pode ser apresentado um pedido ao abrigo de um acordo enumerado no anexo 17-F, em conformidade com as regras e os procedimentos previstos nesse acordo, se:
+3 - Sem prejuízo do disposto nos n.os1 e 2, pode ser apresentado um pedido ao abrigo de um acordo enumerado no anexo 17-F, em conformidade com as regras e os procedimentos previstos nesse acordo, se:
 
 a) O pedido decorrer de uma alegada violação desse acordo, ocorrida antes da data da sua suspensão nos termos do n.º 2 ou, caso o acordo não tenha sido suspenso nos termos do n.º 2, antes da data de entrada em vigor do presente Acordo; e
 
 b) À data de apresentação do pedido, não tenham decorrido mais de três anos desde a data de suspensão do acordo nos termos do n.º 2 ou, caso esse acordo não tenha sido suspenso nos termos do n.º 2, entre a data de entrada em vigor do presente Acordo e a data da apresentação do pedido.
 
-4 - Sem prejuízo do disposto nos n.<sup>os</sup>1 e 2, se a aplicação provisória das secções C e D do presente capítulo cessar sem que o presente Acordo tenha entrado em vigor, pode ser apresentado um pedido ao abrigo do presente Acordo, em conformidade com as regras e os procedimentos nele previstos, desde que:
+4 - Sem prejuízo do disposto nos n.os1 e 2, se a aplicação provisória das secções C e D do presente capítulo cessar sem que o presente Acordo tenha entrado em vigor, pode ser apresentado um pedido ao abrigo do presente Acordo, em conformidade com as regras e os procedimentos nele previstos, desde que:
 
 a) O pedido decorra de uma alegada violação do presente Acordo, ocorrida durante o período da aplicação provisória das secções C e D do presente capítulo; e
 
@@ -3983,7 +3990,7 @@ c) «Regras do Instrumento Adicional do CIRDI», as regras que regem o Instrumen
 
 d) «Convenção do CIRDI», a Convenção para a Resolução de Diferendos relativos a Investimentos entre Estados e Nacionais de outros Estados, celebrada em Washington, em 18 de março de 1965;
 
-e) «Empresa estabelecida localmente», uma pessoa coletiva, estabelecida no território de uma das Partes e detida ou controlada por um investidor da outra Parte<sup>45</sup>;
+e) «Empresa estabelecida localmente», uma pessoa coletiva, estabelecida no território de uma das Partes e detida ou controlada por um investidor da outra Parte45;
 
 f) «Convenção de Nova Iorque», a Convenção das Nações Unidas sobre o reconhecimento e execução das sentenças arbitrais estrangeiras, celebrada em Nova Iorque em 10 de junho de 1958;
 
@@ -3993,7 +4000,7 @@ h) «Processo», salvo disposição em contrário, um processo instaurado junto 
 
 i) «Parte demandada», o Chile, se a parte demandante é um investidor da Parte UE, ou a União Europeia ou o Estado-Membro em causa, conforme determinado ao abrigo do artigo 17.28, se a parte demandante é um investidor do Chile;
 
-j) «Financiamento por terceiros», qualquer tipo de financiamento concedido a uma das partes no litígio, por qualquer pessoa que não seja parte no mesmo, a fim de financiar parte ou a totalidade dos custos do processo, tendo como contrapartida uma remuneração dependente do resultado do litígio, ou mediante uma doação ou subvenção<sup>46</sup>;
+j) «Financiamento por terceiros», qualquer tipo de financiamento concedido a uma das partes no litígio, por qualquer pessoa que não seja parte no mesmo, a fim de financiar parte ou a totalidade dos custos do processo, tendo como contrapartida uma remuneração dependente do resultado do litígio, ou mediante uma doação ou subvenção46;
 
 k) «Regras de arbitragem da CNUDCI», as regras de arbitragem da Comissão das Nações Unidas para o Direito Comercial Internacional; e
 
@@ -4007,7 +4014,7 @@ l) «Regras de transparência da CNUDCI», as regras de transparência da arbitr
 
 2 - O recurso à mediação é voluntário e não prejudica a posição jurídica de qualquer das partes no litígio.
 
-3 - Os procedimentos de mediação são regidos pelas regras enunciadas no anexo 17-H e, se disponíveis, pelas regras de mediação adotadas pelo Subcomité<sup>47</sup>. O Subcomité envida todos os esforços para assegurar que as regras de mediação são adotadas o mais tardar no primeiro dia da aplicação provisória ou da entrada em vigor do presente Acordo, consoante o caso, e, em qualquer dos casos, o mais tardar dois anos após essa data.
+3 - Os procedimentos de mediação são regidos pelas regras enunciadas no anexo 17-H e, se disponíveis, pelas regras de mediação adotadas pelo Subcomité47. O Subcomité envida todos os esforços para assegurar que as regras de mediação são adotadas o mais tardar no primeiro dia da aplicação provisória ou da entrada em vigor do presente Acordo, consoante o caso, e, em qualquer dos casos, o mais tardar dois anos após essa data.
 
 4 - A partir da data de entrada em vigor do presente Acordo, o Subcomité estabelece uma lista com seis personalidades de elevado caráter moral e reconhecida competência nos domínios do direito, do comércio, da indústria e dos serviços financeiros, que estejam em condições de ajuizar livremente, e que estejam dispostas e sejam aptas a desempenhar a função de mediador.
 
@@ -4069,7 +4076,7 @@ b) No prazo de dois anos a contar da data em que a parte demandante ou, se a mes
 
 2 - O pedido de determinação deve identificar as medidas em relação às quais a parte demandante tenciona dar início a um processo. Se for identificada uma medida de um Estado-Membro, o pedido deve ser igualmente dirigido ao Estado-Membro em causa.
 
-3 - Após efetuar a determinação, a Parte UE informa a parte demandante, o mais rapidamente possível e, em qualquer caso, no prazo de 60 dias a contar da receção do pedido a que se refere o n.º 1, da identificação da parte demandada, nomeadamente a União Europeia ou um Estado-Membro<sup>48</sup>.
+3 - Após efetuar a determinação, a Parte UE informa a parte demandante, o mais rapidamente possível e, em qualquer caso, no prazo de 60 dias a contar da receção do pedido a que se refere o n.º 1, da identificação da parte demandada, nomeadamente a União Europeia ou um Estado-Membro48.
 
 4 - Se a parte demandante não tiver sido informada da determinação no prazo de 60 dias a contar da apresentação do pedido a que se refere o n.º 3, a parte demandada é:
 
@@ -4099,9 +4106,9 @@ c) Declarar que não executará qualquer sentença proferida ao abrigo da presen
 
 3 - Para efeitos do presente artigo, a noção de parte demandante inclui o investidor e, se este agir em nome de uma empresa estabelecida localmente, a própria empresa estabelecida localmente. Além disso, para efeitos do n.º 1, alínea a), e do n.º 2, inclui igualmente:
 
-a) Se o pedido for apresentado por um investidor agindo em seu próprio nome, todas as pessoas que, direta ou indiretamente, tenham uma participação no capital do investidor ou sejam por ele controladas e declarem ter sofrido as mesmas perdas ou danos<sup>49</sup> que este; ou
+a) Se o pedido for apresentado por um investidor agindo em seu próprio nome, todas as pessoas que, direta ou indiretamente, tenham uma participação no capital do investidor ou sejam por ele controladas e declarem ter sofrido as mesmas perdas ou danos49 que este; ou
 
-b) Se o pedido for apresentado por um investidor agindo em nome de uma empresa estabelecida localmente, todas as pessoas que, direta ou indiretamente, tenham uma participação no capital da empresa estabelecida localmente ou sejam por ela controladas e declarem ter sofrido as mesmas perdas ou danos<sup>50</sup> que a empresa estabelecida localmente.
+b) Se o pedido for apresentado por um investidor agindo em nome de uma empresa estabelecida localmente, todas as pessoas que, direta ou indiretamente, tenham uma participação no capital da empresa estabelecida localmente ou sejam por ela controladas e declarem ter sofrido as mesmas perdas ou danos50 que a empresa estabelecida localmente.
 
 ###### Artigo 17.30 — Apresentação de um pedido
 
@@ -4127,7 +4134,7 @@ d) A pedido da parte demandante, outras regras acordadas pelas partes no litígi
 
 ###### Artigo 17.31 — Pedidos reconvencionais
 
-1 - A parte demandada pode apresentar um pedido reconvencional com base no incumprimento pela parte demandante de qualquer obrigação internacional aplicável nos territórios de ambas as Partes<sup>51</sup> relacionada com a base factual do pedido<sup>52</sup>.
+1 - A parte demandada pode apresentar um pedido reconvencional com base no incumprimento pela parte demandante de qualquer obrigação internacional aplicável nos territórios de ambas as Partes51 relacionada com a base factual do pedido52.
 
 2 - O pedido reconvencional deve ser apresentado o mais tardar até à apresentação, pela parte demandada, da sua contestação ou alegações de defesa, ou numa fase posterior do processo, se o Tribunal considerar que as circunstâncias justificam o atraso na sua apresentação.
 
@@ -4183,11 +4190,11 @@ b) No artigo ii da Convenção sobre o reconhecimento e execução das sentença
 
 13 - Os honorários são pagos pelas Partes tendo em conta os respetivos níveis de desenvolvimento e são depositados numa conta gerida pelo secretariado do Centro Internacional para a Resolução de Diferendos relativos a Investimentos (CIRDI). Se uma das Partes não proceder ao pagamento dos honorários, a outra Parte pode optar por pagar esses honorários. Os eventuais pagamentos em atraso continuam a ser exigíveis, acrescidos dos respetivos juros. O Comité Conjunto reexamina regularmente o montante e a repartição dos honorários, podendo recomendar os ajustamentos que se mostrem pertinentes.
 
-14 - A menos que o Comité Conjunto adote uma decisão nos termos do n.º 15, os montantes dos demais honorários e despesas dos juízes de uma secção do Tribunal são fixados nos termos do ponto 14, n.º 1, do Regulamento Administrativo e Financeiro da Convenção do CIRDI em vigor na data de apresentação do pedido e repartidos pelo Tribunal entre as partes no litígio, em conformidade com o artigo 17.54, n.<sup>os</sup>5, 6 e 7.
+14 - A menos que o Comité Conjunto adote uma decisão nos termos do n.º 15, os montantes dos demais honorários e despesas dos juízes de uma secção do Tribunal são fixados nos termos do ponto 14, n.º 1, do Regulamento Administrativo e Financeiro da Convenção do CIRDI em vigor na data de apresentação do pedido e repartidos pelo Tribunal entre as partes no litígio, em conformidade com o artigo 17.54, n.os5, 6 e 7.
 
 15 - Por decisão do Comité Conjunto, os honorários e demais pagamentos e despesas podem ser transformados, a título permanente, num salário normal. Nesse caso, os juízes devem exercer as suas funções a tempo inteiro e o Comité Conjunto determina o respetivo salário e os aspetos organizacionais conexos. Os juízes que aufiram um salário normal não podem exercer qualquer outra atividade profissional, remunerada ou não, salvo derrogação concedida a título excecional pelo presidente do Tribunal.
 
-16 - O secretariado do Tribunal é assegurado pelo secretariado do CIRDI, que deve prestar o apoio adequado. As despesas relativas a esse apoio são repartidas pelo Tribunal entre as partes no litígio, em conformidade com o artigo 17.54, n.<sup>os</sup>5, 6 e 7.
+16 - O secretariado do Tribunal é assegurado pelo secretariado do CIRDI, que deve prestar o apoio adequado. As despesas relativas a esse apoio são repartidas pelo Tribunal entre as partes no litígio, em conformidade com o artigo 17.54, n.os5, 6 e 7.
 
 ###### Artigo 17.35 — Tribunal de Recurso
 
@@ -4217,11 +4224,11 @@ b) No artigo ii da Convenção sobre o reconhecimento e execução das sentença
 
 13 - Por decisão do Comité Conjunto, os honorários mensais e demais pagamentos por dias trabalhados podem ser transformados, a título permanente, num salário normal. Nesse caso, os membros do Tribunal de Recurso devem exercer as suas funções a tempo inteiro e o Comité Conjunto determina o respetivo salário e os aspetos organizacionais conexos. Os membros do Tribunal de Recurso que aufiram um salário normal não podem exercer qualquer outra atividade profissional, remunerada ou não, salvo derrogação concedida a título excecional pelo presidente do Tribunal de Recurso.
 
-14 - O secretariado do Tribunal de Recurso é assegurado pelo secretariado do CIRDI, que deve prestar o apoio adequado. As despesas relativas a esse apoio são repartidas pelo Tribunal de Recurso entre as partes no litígio, em conformidade com o artigo 17.54, n.<sup>os</sup>5, 6 e 7.
+14 - O secretariado do Tribunal de Recurso é assegurado pelo secretariado do CIRDI, que deve prestar o apoio adequado. As despesas relativas a esse apoio são repartidas pelo Tribunal de Recurso entre as partes no litígio, em conformidade com o artigo 17.54, n.os5, 6 e 7.
 
 ###### Artigo 17.36 — Deontologia
 
-1 - Os juízes do Tribunal e os membros do Tribunal de Recurso são escolhidos de entre pessoas que ofereçam todas as garantias de independência. Essas pessoas não podem estar dependentes de qualquer governo<sup>53</sup>, nem podem aceitar instruções de nenhuma organização ou governo quanto a questões relativas ao litígio em apreço. Não podem participar na apreciação de qualquer litígio que possa criar um conflito de interesses direto ou indireto. Devem cumprir o disposto no anexo 17-I. Uma vez nomeados, devem abster-se de exercer funções na qualidade de advogados ou de peritos ou testemunhas designados por uma parte em qualquer litígio pendente ou novo litígio em matéria de investimento ao abrigo do presente Acordo ou de qualquer outro acordo internacional ou legislação interna.
+1 - Os juízes do Tribunal e os membros do Tribunal de Recurso são escolhidos de entre pessoas que ofereçam todas as garantias de independência. Essas pessoas não podem estar dependentes de qualquer governo53, nem podem aceitar instruções de nenhuma organização ou governo quanto a questões relativas ao litígio em apreço. Não podem participar na apreciação de qualquer litígio que possa criar um conflito de interesses direto ou indireto. Devem cumprir o disposto no anexo 17-I. Uma vez nomeados, devem abster-se de exercer funções na qualidade de advogados ou de peritos ou testemunhas designados por uma parte em qualquer litígio pendente ou novo litígio em matéria de investimento ao abrigo do presente Acordo ou de qualquer outro acordo internacional ou legislação interna.
 
 2 - Se uma parte no litígio considerar que um juiz do Tribunal ou um membro do Tribunal de Recurso não cumpre os requisitos enunciados no n.º 1, deve enviar uma contestação dessa nomeação ao presidente do Tribunal ou ao presidente do Tribunal de Recurso, consoante o caso. A contestação de qualquer nomeação deve ser enviada no prazo de 15 dias a contar da data em que a constituição da secção do Tribunal ou do Tribunal de Recurso tiver sido comunicada à parte no litígio, ou no prazo de 15 dias a contar da data em que esta tenha tomado conhecimento dos factos pertinentes, caso não pudesse razoavelmente ter conhecimento dos factos à data da constituição da secção. A contestação da nomeação deve ser fundamentada.
 
@@ -4229,7 +4236,7 @@ b) No artigo ii da Convenção sobre o reconhecimento e execução das sentença
 
 4 - A contestação de uma nomeação para uma secção do presidente do Tribunal é apreciada pelo presidente do Tribunal de Recurso, e vice-versa.
 
-5 - Mediante recomendação fundamentada do presidente do Tribunal de Recurso<sup>54</sup>, as Partes, por decisão do Comité Conjunto, podem decidir afastar um juiz do Tribunal ou um membro do Tribunal de Recurso, se o seu comportamento for incompatível com as obrigações previstas no n.º 1 e incompatível com a sua permanência no Tribunal ou no Tribunal de Recurso. Se o comportamento em questão for o do presidente do Tribunal de Recurso, cabe ao presidente do Tribunal apresentar a recomendação fundamentada. Os artigos 17.34, n.º 2, e 17.35, n.º 2, aplicam-se, com as devidas adaptações, ao preenchimento das vagas que possam surgir nos termos do presente número.
+5 - Mediante recomendação fundamentada do presidente do Tribunal de Recurso54, as Partes, por decisão do Comité Conjunto, podem decidir afastar um juiz do Tribunal ou um membro do Tribunal de Recurso, se o seu comportamento for incompatível com as obrigações previstas no n.º 1 e incompatível com a sua permanência no Tribunal ou no Tribunal de Recurso. Se o comportamento em questão for o do presidente do Tribunal de Recurso, cabe ao presidente do Tribunal apresentar a recomendação fundamentada. Os artigos 17.34, n.º 2, e 17.35, n.º 2, aplicam-se, com as devidas adaptações, ao preenchimento das vagas que possam surgir nos termos do presente número.
 
 ###### Artigo 17.37 — Mecanismos multilaterais de resolução de litígios
 
@@ -4249,7 +4256,7 @@ As Partes cooperam tendo em vista a criação de um tribunal multilateral de inv
 
 5 - Para maior clareza, se um investidor de uma das Partes apresentar um pedido ao abrigo da presente secção em que alegue, nomeadamente, que a Parte em causa violou o disposto no artigo 17.17, o ónus da prova recai sobre o investidor, em consonância com os princípios gerais do direito internacional aplicáveis ao litígio.
 
-6 - Caso surjam graves preocupações quanto a questões de interpretação relativas às secções C<sup>55</sup> e D, o Conselho Conjunto pode adotar decisões de interpretação do presente Acordo. Essas interpretações são vinculativas para o Tribunal e para o Tribunal de Recurso. O Conselho Conjunto pode decidir que uma interpretação produz efeitos vinculativos a partir de uma data determinada.
+6 - Caso surjam graves preocupações quanto a questões de interpretação relativas às secções C55 e D, o Conselho Conjunto pode adotar decisões de interpretação do presente Acordo. Essas interpretações são vinculativas para o Tribunal e para o Tribunal de Recurso. O Conselho Conjunto pode decidir que uma interpretação produz efeitos vinculativos a partir de uma data determinada.
 
 ###### Artigo 17.39 — Interpretação dos anexos
 
@@ -4295,7 +4302,7 @@ Para maior clareza, o Tribunal deve declarar-se incompetente sempre que o litíg
 
 3 - Para maior clareza, podem ser disponibilizados ao público elementos de prova, em conformidade com o artigo 3.º, n.º 3, das regras de transparência da CNUDCI.
 
-4 - Sem prejuízo do disposto no artigo 2.º das regras de transparência da CNUDCI, a Parte UE ou o Chile, consoante o caso, disponibilizam ao público, em tempo útil e antes da constituição de uma secção do Tribunal, o pedido de realização de consultas a que se refere o artigo 17.27 do presente Acordo, o pedido de determinação da parte demandada e a determinação da mesma a que se refere o artigo 17.28 do presente Acordo, numa versão expurgada das informações confidenciais ou protegidas<sup>56</sup>. Estes documentos podem ser disponibilizados ao público através do repositório previsto nas regras de transparência da CNUDCI.
+4 - Sem prejuízo do disposto no artigo 2.º das regras de transparência da CNUDCI, a Parte UE ou o Chile, consoante o caso, disponibilizam ao público, em tempo útil e antes da constituição de uma secção do Tribunal, o pedido de realização de consultas a que se refere o artigo 17.27 do presente Acordo, o pedido de determinação da parte demandada e a determinação da mesma a que se refere o artigo 17.28 do presente Acordo, numa versão expurgada das informações confidenciais ou protegidas56. Estes documentos podem ser disponibilizados ao público através do repositório previsto nas regras de transparência da CNUDCI.
 
 5 - Qualquer parte no litígio que tencione utilizar numa audiência informações consideradas confidenciais ou protegidas deve informar desse facto o Tribunal.
 
@@ -4319,7 +4326,9 @@ Se, na sequência da apresentação de um pedido ao abrigo da presente secção,
 
 3 - O Tribunal tem em conta todos os elementos de prova fornecidos em relação às circunstâncias referidas no n.º 1, incluindo a existência de financiamento por terceiros.
 
-###### Artigo 17.48 — Parte não litigante
+###### Artigo 17.48
+
+## Parte não litigante
 
 1 - O mais tardar 30 dias após a receção ou imediatamente após a resolução de um litígio relativo a informações confidenciais ou protegidas, a parte demandada deve transmitir à parte não litigante:
 
@@ -4391,7 +4400,7 @@ c) Os fundamentos do despacho.
 
 7 - Uma parte demandante cujo pedido seja objeto de apensação pode retirá-lo, ou a qualquer parte do mesmo sujeita a apensação, do processo de resolução de litígios ao abrigo do presente artigo, e, nesse caso, tal pedido, ou parte dele, não pode voltar a ser apresentado ao abrigo do artigo 17.30.
 
-8 - A pedido da parte demandada, a secção de apensação do Tribunal, nas mesmas condições e para os mesmos efeitos que os definidos nos n.<sup>os</sup>3 a 6, pode decidir declarar-se competente pela totalidade ou parte de um pedido abrangido pelo âmbito de aplicação do n.º 1 que seja apresentado após o início do processo de apensação.
+8 - A pedido da parte demandada, a secção de apensação do Tribunal, nas mesmas condições e para os mesmos efeitos que os definidos nos n.os3 a 6, pode decidir declarar-se competente pela totalidade ou parte de um pedido abrangido pelo âmbito de aplicação do n.º 1 que seja apresentado após o início do processo de apensação.
 
 9 - A pedido de uma das partes demandantes, a secção de apensação do Tribunal pode tomar medidas para garantir a confidencialidade das informações protegidas ou confidenciais dessa parte demandante em relação a outras partes demandantes. Essas medidas podem contemplar a comunicação às outras partes demandantes de versões expurgadas dos documentos que contêm informações protegidas ou confidenciais, ou a possibilidade de realizar partes da audiência à porta fechada.
 
@@ -4465,7 +4474,7 @@ c) Os fundamentos enunciados no artigo 52.º da Convenção do CIRDI, na medida 
 
 ###### Artigo 17.57 — Execução das sentenças
 
-1 - As sentenças proferidas nos termos da presente secção não são executórias até transitarem em julgado nos termos do artigo 17.56. As sentenças transitadas em julgado proferidas nos termos da presente secção são vinculativas para as partes no litígio e não podem ser objeto de reexame, anulação, revisão ou de qualquer outro tipo de ação corretiva<sup>57</sup>.
+1 - As sentenças proferidas nos termos da presente secção não são executórias até transitarem em julgado nos termos do artigo 17.56. As sentenças transitadas em julgado proferidas nos termos da presente secção são vinculativas para as partes no litígio e não podem ser objeto de reexame, anulação, revisão ou de qualquer outro tipo de ação corretiva57.
 
 2 - Cada Parte reconhece que uma sentença proferida ao abrigo da presente secção é vinculativa e assegura a execução da obrigação pecuniária no seu território como se fosse uma sentença transitada em julgado de um tribunal ou órgão jurisdicional interno dessa Parte.
 
@@ -4497,9 +4506,9 @@ a) Aos serviços financeiros na aceção do artigo 25.2;
 
 b) Aos serviços audiovisuais;
 
-c) À cabotagem marítima nacional<sup>58</sup>;
+c) À cabotagem marítima nacional58;
 
-d) Aos serviços de transporte aéreo nacional e internacional, ou serviços conexos de apoio a serviços aéreos<sup>59</sup>, regulares ou não, e serviços diretamente ligados ao exercício dos direitos de tráfego, à exceção de:
+d) Aos serviços de transporte aéreo nacional e internacional, ou serviços conexos de apoio a serviços aéreos59, regulares ou não, e serviços diretamente ligados ao exercício dos direitos de tráfego, à exceção de:
 
 i) Serviços de reparação e manutenção de aeronaves, durante os quais a aeronave é retirada de serviço;
 
@@ -4531,11 +4540,11 @@ d) «Empresa», uma pessoa coletiva ou uma sucursal ou uma representação const
 
 e) «Serviços de assistência em escala», a prestação, à comissão ou por contrato, dos seguintes serviços: representação, administração e supervisão de uma transportadora aérea; assistência a passageiros; assistência a bagagem; assistência a operações em pista; fornecimento de refeições (catering), exceto a preparação dos alimentos; operações de carga e correio; abastecimento de uma aeronave; manutenção e limpeza de aeronaves; assistência de transporte em terra; e operações de voo, gestão das tripulações e planeamento de voo. Os serviços de assistência em escala não incluem: autoassistência; segurança; manutenção em linha; serviços de reparação e manutenção de aeronaves; ou gestão ou operação de infraestruturas aeroportuárias centralizadas, como instalações/equipamento de remoção do gelo, sistemas de distribuição de combustível, sistemas de assistência a bagagem e sistemas fixos de transporte internos dos aeroportos;
 
-f) «Pessoa coletiva de uma Parte»<sup>60</sup>:
+f) «Pessoa coletiva de uma Parte»60:
 
 i) No que respeita à Parte UE:
 
-A) Uma pessoa coletiva constituída ou organizada ao abrigo do direito da União Europeia ou de pelo menos um dos seus Estados-Membros e que realiza um volume significativo de operações comerciais<sup>61</sup> no território da União Europeia; e
+A) Uma pessoa coletiva constituída ou organizada ao abrigo do direito da União Europeia ou de pelo menos um dos seus Estados-Membros e que realiza um volume significativo de operações comerciais61 no território da União Europeia; e
 
 B) Companhias de transporte marítimo estabelecidas num país terceiro à União Europeia e controladas por pessoas singulares de um Estado-Membro, cujos navios estejam registados num Estado-Membro e arvorem o respetivo pavilhão;
 
@@ -4595,7 +4604,7 @@ i) Do número de prestadores de serviços, quer sob a forma de quotas numéricas
 
 ii) Do valor total das transações de serviços ou dos ativos, sob a forma de quotas numéricas ou por meio da exigência de um exame das necessidades económicas;
 
-iii) Do número total de operações de serviços ou da quantidade total de serviços prestados, expressas em termos de unidades numéricas específicas, sob a forma de quotas ou por meio da exigência de um exame das necessidades económicas<sup>62</sup>; ou
+iii) Do número total de operações de serviços ou da quantidade total de serviços prestados, expressas em termos de unidades numéricas específicas, sob a forma de quotas ou por meio da exigência de um exame das necessidades económicas62; ou
 
 iv) Do número total de pessoas singulares que podem ser empregadas num determinado setor de serviços ou que um prestador de serviços pode empregar e que sejam necessárias para prestar um serviço específico e que com ele estejam diretamente relacionadas, sob a forma de quotas numéricas ou por meio da exigência de um exame das necessidades económicas; ou
 
@@ -4681,9 +4690,9 @@ iii) Não sejam comissionistas;
 
 b) «Visitantes de negócios para efeitos de estabelecimento», pessoas singulares que desempenham funções de quadro superior de uma pessoa coletiva de uma Parte e são responsáveis pelo estabelecimento de uma empresa dessa pessoa coletiva no território da outra Parte, que não oferecem nem prestam serviços nem exercem outra atividade económica além das exigidas para fins de estabelecimento e que não recebem remuneração de uma fonte situada na outra Parte;
 
-c) «Prestadores de serviços por contrato», pessoas singulares contratadas por uma pessoa coletiva de uma Parte que, não está, ela própria, estabelecida no território da outra Parte, não é uma agência de serviços de colocação e de fornecimento de pessoal, nem atua por intermédio de uma agência desse tipo, e que celebrou de boa-fé um contrato com um consumidor final da outra Parte para prestar serviços na outra Parte exigindo a presença, numa base temporária, dos seus assalariados nessa outra Parte a fim de executar o contrato de prestação de serviços<sup>63</sup>;
+c) «Prestadores de serviços por contrato», pessoas singulares contratadas por uma pessoa coletiva de uma Parte que, não está, ela própria, estabelecida no território da outra Parte, não é uma agência de serviços de colocação e de fornecimento de pessoal, nem atua por intermédio de uma agência desse tipo, e que celebrou de boa-fé um contrato com um consumidor final da outra Parte para prestar serviços na outra Parte exigindo a presença, numa base temporária, dos seus assalariados nessa outra Parte a fim de executar o contrato de prestação de serviços63;
 
-d) «Profissionais independentes», pessoas singulares cuja atividade consiste na prestação de um serviço e que estejam estabelecidas como trabalhadores por conta própria no território de uma Parte mas não no território da outra Parte, e que tenham celebrado de boa-fé, exceto através de uma agência de serviços de colocação e de fornecimento de pessoal, um contrato com um consumidor final para prestar serviços na outra Parte, exigindo a sua presença, numa base temporária, nessa outra Parte<sup>64</sup>;
+d) «Profissionais independentes», pessoas singulares cuja atividade consiste na prestação de um serviço e que estejam estabelecidas como trabalhadores por conta própria no território de uma Parte mas não no território da outra Parte, e que tenham celebrado de boa-fé, exceto através de uma agência de serviços de colocação e de fornecimento de pessoal, um contrato com um consumidor final para prestar serviços na outra Parte, exigindo a sua presença, numa base temporária, nessa outra Parte64;
 
 e) «Instaladores e responsáveis pela manutenção», os visitantes em breve deslocação por motivos profissionais que possuam conhecimentos especializados essenciais para o cumprimento das obrigações contratuais de um vendedor ou locador, que prestam serviços ou formam pessoal para a prestação de serviços, no âmbito de uma garantia ou de outro contrato de prestação de serviços inerentes à venda ou locação de equipamento ou maquinaria industrial ou comercial, incluindo serviços informáticos e serviços conexos, adquiridos ou locados a uma empresa situada fora do território da Parte em cujo território se pretende entrar temporariamente, durante o período de vigência da garantia ou do contrato de prestação de serviços;
 
@@ -4697,7 +4706,7 @@ iii) Empregados estagiários;
 
 g) «Investidores», as pessoas singulares que estabelecem no território da outra Parte uma empresa para a qual essas pessoas singulares ou as pessoas coletivas que as empregam transferiram, ou estão em via de transferir, um montante significativo de capital, e que desenvolvem ou gerem a exploração dessa empresa, no exercício de funções de supervisão ou direção;
 
-h) «Gestores», as pessoas singulares que desempenham funções de quadro superior de uma pessoa coletiva de uma Parte cuja função principal consiste em assegurar a gestão da empresa no território da outra Parte<sup>65</sup>, sob a supervisão ou direção geral principalmente de quadros de nível superior, do conselho de administração ou de acionistas da empresa ou seus homólogos, e cujas responsabilidades incluem:
+h) «Gestores», as pessoas singulares que desempenham funções de quadro superior de uma pessoa coletiva de uma Parte cuja função principal consiste em assegurar a gestão da empresa no território da outra Parte65, sob a supervisão ou direção geral principalmente de quadros de nível superior, do conselho de administração ou de acionistas da empresa ou seus homólogos, e cujas responsabilidades incluem:
 
 i) Dirigir a empresa ou um dos seus departamentos ou subdivisões;
 
@@ -4713,7 +4722,7 @@ ii) Instaladores e responsáveis pela manutenção;
 
 j) «Especialistas», pessoas singulares que trabalham para uma pessoa coletiva de uma das Partes e que possuem conhecimentos especializados essenciais para os domínios de atividade, técnicas ou gestão da empresa; ao avaliar esses conhecimentos, são tidos em conta não só os conhecimentos específicos à empresa, mas também se essa pessoa é altamente qualificada e tem experiência profissional adequada para um tipo de trabalho ou atividade que exija conhecimentos técnicos específicos, incluindo a eventual inscrição numa profissão certificada; e
 
-k) «Empregados estagiários», as pessoas singulares que sejam titulares de diploma universitário e sejam temporariamente transferidas para fins de desenvolvimento de carreira ou de formação em técnicas ou métodos empresariais<sup>66</sup>.
+k) «Empregados estagiários», as pessoas singulares que sejam titulares de diploma universitário e sejam temporariamente transferidas para fins de desenvolvimento de carreira ou de formação em técnicas ou métodos empresariais66.
 
 ###### Artigo 19.3 — Pessoal transferido dentro de uma empresa, visitantes de negócios para efeitos de estabelecimento e investidores
 
@@ -4751,7 +4760,7 @@ b) As pessoas singulares que entram na outra Parte tenham sido empregadas pela p
 
 c) As pessoas singulares que entram no território da outra Parte devem possuir:
 
-i) Um diploma universitário ou habilitações de nível equivalente<sup>67</sup>; e
+i) Um diploma universitário ou habilitações de nível equivalente67; e
 
 ii) As qualificações profissionais exigidas para exercer uma atividade em conformidade com as disposições legislativas ou regulamentares da Parte onde o serviço é prestado;
 
@@ -4767,7 +4776,7 @@ b) As pessoas singulares tenham, à data da apresentação do pedido de entrada 
 
 c) As pessoas singulares que entram no território da outra Parte devem possuir:
 
-i) Um diploma universitário ou habilitações de nível equivalente<sup>68</sup>; e
+i) Um diploma universitário ou habilitações de nível equivalente68; e
 
 ii) As qualificações profissionais exigidas para exercer uma atividade em conformidade com as disposições legislativas ou regulamentares da Parte onde o serviço é prestado;
 
@@ -4785,7 +4794,7 @@ b) No que se refere ao Chile, um período até um ano, prorrogável, desde que s
 
 ###### Artigo 19.6 — Medidas não conformes
 
-Quando uma medida afete a entrada ou estada temporária de pessoas singulares por motivos profissionais, o artigo 19.3, n.º 1, alíneas c) e d), e o artigo 19.5, n.<sup>os</sup> 3 e 4, não se aplicam:
+Quando uma medida afete a entrada ou estada temporária de pessoas singulares por motivos profissionais, o artigo 19.3, n.º 1, alíneas c) e d), e o artigo 19.5, n.os 3 e 4, não se aplicam:
 
 a) A quaisquer medidas não conformes de uma Parte em vigor ao nível:
 
@@ -4809,7 +4818,7 @@ C) De uma administração local;
 
 b) À continuação ou recondução automática de uma medida não conforme referida na alínea a) do presente número;
 
-c) A uma alteração de qualquer medida não conforme a que se referem as alíneas a) e b) do presente artigo, na medida em que não reduza a conformidade da medida, tal como vigorava imediatamente antes da alteração, com o artigo 19.3, n.º 1, alíneas c) e d), e com o artigo 19.5, n.<sup>os</sup>3 e 4; ou
+c) A uma alteração de qualquer medida não conforme a que se referem as alíneas a) e b) do presente artigo, na medida em que não reduza a conformidade da medida, tal como vigorava imediatamente antes da alteração, com o artigo 19.3, n.º 1, alíneas c) e d), e com o artigo 19.5, n.os3 e 4; ou
 
 d) A quaisquer medidas de uma Parte que sejam coerentes com uma condição ou com a qualificação prevista no anexo 17-B.
 
@@ -4837,7 +4846,7 @@ h) Procedimentos de reexame e recurso disponíveis; e
 
 i) Disposições legislativas de aplicação geral relativas à entrada e à estada temporária de pessoas singulares.
 
-3 - No que diz respeito às informações a que se referem os n.<sup>os</sup>1 e 2, cada Parte compromete-se a informar de imediato a outra Parte da introdução de novos requisitos e procedimentos ou da alteração de requisitos e procedimentos que afetem a aplicação efetiva da concessão de entrada, de estada temporária e, se for caso disso, de autorização para trabalhar nessa Parte.
+3 - No que diz respeito às informações a que se referem os n.os1 e 2, cada Parte compromete-se a informar de imediato a outra Parte da introdução de novos requisitos e procedimentos ou da alteração de requisitos e procedimentos que afetem a aplicação efetiva da concessão de entrada, de estada temporária e, se for caso disso, de autorização para trabalhar nessa Parte.
 
 ###### Artigo 19.8 — Não aplicação do procedimento de resolução de litígios
 
@@ -4847,7 +4856,7 @@ O capítulo 38 não é aplicável a uma recusa de autorização de entrada e est
 
 ###### Artigo 20.1 — Âmbito de aplicação e definições
 
-1 - O presente capítulo é aplicável às medidas adotadas pelas Partes em relação aos requisitos e procedimentos de licenciamento, aos requisitos e procedimentos de qualificação, e às normas técnicas<sup>69</sup> que afetam:
+1 - O presente capítulo é aplicável às medidas adotadas pelas Partes em relação aos requisitos e procedimentos de licenciamento, aos requisitos e procedimentos de qualificação, e às normas técnicas69 que afetam:
 
 a) A prestação transnacional de serviços;
 
@@ -4871,7 +4880,7 @@ e) O fabrico de acumuladores e de pilhas elétricas; e
 
 f) A reciclagem de desperdícios e de sucata, metálica e não metálica.
 
-4 - Sem prejuízo do n.º 1, o presente capítulo não se aplica às medidas de uma Parte na medida em que constituam uma limitação das listas nos termos dos artigos 17.5, 17.6, do artigo 17.11, n.<sup>os</sup>1 e 2, dos artigos 18.4, 18.6, 18.7, 18.8, n.<sup>os</sup>1 e 2, 19.3, n.º 1, 19.4, n.º 2, 19.5, n.º 1, e do artigo 19.6.
+4 - Sem prejuízo do n.º 1, o presente capítulo não se aplica às medidas de uma Parte na medida em que constituam uma limitação das listas nos termos dos artigos 17.5, 17.6, do artigo 17.11, n.os1 e 2, dos artigos 18.4, 18.6, 18.7, 18.8, n.os1 e 2, 19.3, n.º 1, 19.4, n.º 2, 19.5, n.º 1, e do artigo 19.6.
 
 5 - Para efeitos do presente capítulo, entende-se por:
 
@@ -4891,7 +4900,7 @@ f) «Requisitos de qualificação», os requisitos fundamentais relativos à com
 
 ###### Artigo 20.2 — Condições de licenciamento e qualificação
 
-1 - As Partes garantem que as medidas relativas aos requisitos e procedimentos em matéria de licenciamento e aos requisitos e procedimentos de qualificação assentam em critérios que impedem as autoridades competentes de exercer o seu poder de apreciação de uma forma arbitrária<sup>70</sup>.
+1 - As Partes garantem que as medidas relativas aos requisitos e procedimentos em matéria de licenciamento e aos requisitos e procedimentos de qualificação assentam em critérios que impedem as autoridades competentes de exercer o seu poder de apreciação de uma forma arbitrária70.
 
 2 - Os critérios referidos no n.º 1 devem ser:
 
@@ -4901,7 +4910,7 @@ b) Objetivos e transparentes; e
 
 c) Acessíveis antecipadamente ao público e às partes interessadas.
 
-3 - Aquando da adoção de normas técnicas, cada Parte incentiva as respetivas autoridades competentes a adotarem as normas técnicas elaboradas através de processos abertos e transparentes, e incentivam quaisquer organismos, incluindo as organizações internacionais competentes<sup>71</sup>, designados para elaborar normas técnicas a fazê-lo com recurso a processos abertos e transparentes.
+3 - Aquando da adoção de normas técnicas, cada Parte incentiva as respetivas autoridades competentes a adotarem as normas técnicas elaboradas através de processos abertos e transparentes, e incentivam quaisquer organismos, incluindo as organizações internacionais competentes71, designados para elaborar normas técnicas a fazê-lo com recurso a processos abertos e transparentes.
 
 4 - Sob reserva de disponibilidade, a licença é concedida logo que, após o exame das condições para obter a licença, se tiver apurado que as mesmas foram cumpridas.
 
@@ -4931,7 +4940,7 @@ g) Oportunidades de participação pública, nomeadamente através de audiência
 
 h) Prazos indicativos para a tramitação do pedido.
 
-3 - Quaisquer taxas de licenciamento<sup>72</sup> eventualmente cobradas aos requerentes devem ser razoáveis e transparentes e não representar, por si, uma restrição à prestação do serviço em causa ou ao exercício de qualquer outra atividade económica.
+3 - Quaisquer taxas de licenciamento72 eventualmente cobradas aos requerentes devem ser razoáveis e transparentes e não representar, por si, uma restrição à prestação do serviço em causa ou ao exercício de qualquer outra atividade económica.
 
 4 - As Partes garantem que os procedimentos utilizados pela autoridade competente e as decisões desta no processo de licenciamento são imparciais relativamente a todos os candidatos. A autoridade competente toma as suas decisões de forma independente e não tem de responder perante qualquer pessoa que preste um serviço ou exerça outra atividade económica objeto da licença requerida.
 
@@ -4973,7 +4982,7 @@ a) O valor económico de uma proposta de instrumento para o reconhecimento mútu
 
 b) A compatibilidade dos respetivos regimes, ou seja, a medida em que são compatíveis os requisitos aplicados por cada Parte para efeitos de autorização, licenciamento, funcionamento e certificação.
 
-3 - Após receber uma recomendação comum, o Subcomité dos Serviços e do Investimento deve analisá-la, dentro de um prazo razoável, a fim de determinar se é consentânea com a presente parte do presente Acordo. Esse Subcomité pode, na sequência dessa análise, formular e recomendar ao Conselho Conjunto que adote, nos termos do artigo 8.5, n.º 1, alínea a), uma decisão quanto ao instrumento de reconhecimento mútuo, a fim de determinar ou alterar os instrumentos de reconhecimento mútuo enunciados no anexo 21-B<sup>73</sup>.
+3 - Após receber uma recomendação comum, o Subcomité dos Serviços e do Investimento deve analisá-la, dentro de um prazo razoável, a fim de determinar se é consentânea com a presente parte do presente Acordo. Esse Subcomité pode, na sequência dessa análise, formular e recomendar ao Conselho Conjunto que adote, nos termos do artigo 8.5, n.º 1, alínea a), uma decisão quanto ao instrumento de reconhecimento mútuo, a fim de determinar ou alterar os instrumentos de reconhecimento mútuo enunciados no anexo 21-B73.
 
 4 - O instrumento a que se refere o n.º 3 deve prever as condições de reconhecimento das qualificações profissionais adquiridas na parte UE e das qualificações profissionais adquiridas no Chile relativamente a qualquer atividade abrangida pelos capítulos 17, 18, 19 ou 26.
 
@@ -5079,7 +5088,7 @@ l) «Telecomunicações», a transmissão e receção de sinais por qualquer mei
 
 m) «Rede de telecomunicações», os sistemas de transmissão e, se for o caso, os equipamentos de comutação ou encaminhamento e os demais recursos, nomeadamente elementos da rede que não se encontrem ativos, que permitem a transmissão e a receção de sinais por cabo, feixes hertzianos, meios óticos ou outros meios eletromagnéticos;
 
-n) «Autoridade reguladora das telecomunicações», a entidade, ou entidades, encarregada por uma Parte da regulamentação das redes de telecomunicações e dos serviços abrangidos pelo presente capítulo<sup>74</sup>;
+n) «Autoridade reguladora das telecomunicações», a entidade, ou entidades, encarregada por uma Parte da regulamentação das redes de telecomunicações e dos serviços abrangidos pelo presente capítulo74;
 
 o) «Serviço de telecomunicações», um serviço que consiste, na totalidade ou principalmente, na transmissão e receção de sinais, incluindo sinais de radiodifusão, através de redes de telecomunicações, incluindo as redes utilizadas para radiodifusão;
 
@@ -5105,13 +5114,13 @@ q) «Utilizador», qualquer pessoa singular ou coletiva que utilize uma rede ou 
 
 ###### Artigo 23.4 — Autorização para prestar serviços ou redes de telecomunicações
 
-1 - Se uma Parte exigir uma autorização para a prestação de serviços ou de redes de telecomunicações, fixa o prazo razoável normalmente necessário para a autoridade reguladora das telecomunicações tomar uma decisão sobre o pedido de autorização, comunica-o ao requerente de forma transparente e procura assegurar que a decisão é tomada dentro do prazo comunicado<sup>75</sup>.
+1 - Se uma Parte exigir uma autorização para a prestação de serviços ou de redes de telecomunicações, fixa o prazo razoável normalmente necessário para a autoridade reguladora das telecomunicações tomar uma decisão sobre o pedido de autorização, comunica-o ao requerente de forma transparente e procura assegurar que a decisão é tomada dentro do prazo comunicado75.
 
 2 - Os critérios de autorização e procedimentos aplicáveis devem ser tão simples, objetivos, transparentes, não discriminatórios e proporcionados quanto possível. As obrigações e condições impostas a uma autorização ou com ela conexas devem ser não discriminatórias, transparentes, proporcionadas e relacionadas com os serviços ou redes fornecidos.
 
 3 - As Partes asseguram que os requerentes recebem por escrito os motivos do indeferimento ou revogação de uma autorização ou da imposição de condições específicas ao prestador. Em caso de indeferimento, revogação ou imposição de condições, o requerente pode recorrer a um órgão de recurso.
 
-4 - As eventuais taxas administrativas cobradas a prestadores devem ser objetivas, transparentes, não discriminatórias e proporcionais relativamente aos custos administrativos razoavelmente incorridos na gestão, controlo e execução das obrigações estabelecidas no presente capítulo<sup>76</sup>.
+4 - As eventuais taxas administrativas cobradas a prestadores devem ser objetivas, transparentes, não discriminatórias e proporcionais relativamente aos custos administrativos razoavelmente incorridos na gestão, controlo e execução das obrigações estabelecidas no presente capítulo76.
 
 ###### Artigo 23.5 — Interligação
 
@@ -5119,7 +5128,7 @@ Sem prejuízo do disposto no artigo 23.9, cada Parte assegura que um prestador d
 
 ###### Artigo 23.6 — Acesso e utilização
 
-1 - Cada Parte assegura que os prestadores de serviços da outra Parte têm acesso e utilizam redes ou serviços públicos de telecomunicações em termos e condições razoáveis e não discriminatórios<sup>77</sup> em conformidade com, nomeadamente, o disposto nos n.<sup>os</sup>2 a 5.
+1 - Cada Parte assegura que os prestadores de serviços da outra Parte têm acesso e utilizam redes ou serviços públicos de telecomunicações em termos e condições razoáveis e não discriminatórios77 em conformidade com, nomeadamente, o disposto nos n.os2 a 5.
 
 2 - Cada Parte vela por que os prestadores de serviços da outra Parte possam ter acesso e utilizar quaisquer serviços públicos de telecomunicações oferecidos no interior do território ou para além das fronteiras dessa Parte, incluindo os circuitos alugados privados, e, para o efeito, assegura, sem prejuízo do disposto no n.º 5, que esses prestadores de serviços possam:
 
@@ -5145,7 +5154,7 @@ b) Proteger a integridade técnica das redes ou serviços públicos de telecomun
 
 2 - Cada Parte vela por que a decisão emitida pela autoridade reguladora das telecomunicações seja tornada pública, sob reserva dos requisitos de sigilo comercial previstos nas suas disposições legislativas e regulamentares. A autoridade reguladora das telecomunicações deve facultar às partes no litígio uma fundamentação circunstanciada da sua decisão. As partes no litígio podem interpor recurso dessa decisão, nos termos do artigo 23.3, n.º 7.
 
-3 - Cada Parte assegura que o procedimento referido nos n.<sup>os</sup>1 e 2 não impede qualquer das partes no litígio de intentar uma ação perante uma autoridade judicial, em conformidade com as disposições legislativas e regulamentares da Parte em causa.
+3 - Cada Parte assegura que o procedimento referido nos n.os1 e 2 não impede qualquer das partes no litígio de intentar uma ação perante uma autoridade judicial, em conformidade com as disposições legislativas e regulamentares da Parte em causa.
 
 ###### Artigo 23.8 — Salvaguardas em matéria de concorrência em relação aos prestadores principais
 
@@ -5213,7 +5222,7 @@ No que diz respeito à disponibilização de redes ou serviços de telecomunica�
 
 2 - O n.º 1 não prejudica as disposições legislativas e regulamentares das Partes quanto à legalidade da informação, dos conteúdos e dos serviços nele referidos.
 
-3 - Sem prejuízo do disposto no n.º 1, os prestadores de serviços de acesso à Internet podem aplicar medidas de gestão da rede não discriminatórias, razoáveis, transparentes e proporcionadas<sup>78</sup>, que sejam compatíveis com as disposições legislativas e regulamentares da Parte em causa.
+3 - Sem prejuízo do disposto no n.º 1, os prestadores de serviços de acesso à Internet podem aplicar medidas de gestão da rede não discriminatórias, razoáveis, transparentes e proporcionadas78, que sejam compatíveis com as disposições legislativas e regulamentares da Parte em causa.
 
 4 - Cada Parte adota ou mantém em vigor medidas que garantam que os prestadores de serviços de acesso à Internet permitem aos utilizadores desses serviços utilizar o dispositivo da sua escolha, desde que tais dispositivos não prejudiquem a segurança de outros dispositivos, da rede ou dos serviços prestados através da rede.
 
@@ -5403,7 +5412,7 @@ g) «Investidor de uma Parte», uma pessoa singular ou coletiva de uma Parte que
 
 h) «Pessoa coletiva de uma Parte»:
 
-i) No que respeita à Parte UE: uma pessoa coletiva constituída ou organizada ao abrigo do direito da União Europeia ou de pelo menos um dos seus Estados-Membros e que realiza um volume significativo de operações comerciais<sup>79</sup> no território da União Europeia; e
+i) No que respeita à Parte UE: uma pessoa coletiva constituída ou organizada ao abrigo do direito da União Europeia ou de pelo menos um dos seus Estados-Membros e que realiza um volume significativo de operações comerciais79 no território da União Europeia; e
 
 ii) No que respeita ao Chile: uma pessoa coletiva constituída ou organizada ao abrigo do direito do Chile e que realiza um volume significativo de operações comerciais no território deste país;
 
@@ -5419,15 +5428,15 @@ k) «Organismo de autorregulação», um organismo não governamental, incluindo
 
 ###### Artigo 25.3 — Tratamento nacional
 
-1 - Cada Parte concede às instituições financeiras da outra Parte e às suas empresas que constituam investimentos em instituições financeiras, no que diz respeito ao estabelecimento, um tratamento não menos favorável do que o concedido, em situações similares<sup>80</sup>, aos seus próprios investidores em instituições financeiras e às suas empresas que sejam instituições financeiras.
+1 - Cada Parte concede às instituições financeiras da outra Parte e às suas empresas que constituam investimentos em instituições financeiras, no que diz respeito ao estabelecimento, um tratamento não menos favorável do que o concedido, em situações similares80, aos seus próprios investidores em instituições financeiras e às suas empresas que sejam instituições financeiras.
 
-2 - Cada Parte concede aos investidores em instituições financeiras da outra Parte e aos seus investimentos em instituições financeiras, no que se refere à sua exploração, um tratamento não menos favorável do que o concedido, em situações similares<sup>81</sup>, aos seus próprios investidores em instituições financeiras e aos seus investimentos em instituições financeiras.
+2 - Cada Parte concede aos investidores em instituições financeiras da outra Parte e aos seus investimentos em instituições financeiras, no que se refere à sua exploração, um tratamento não menos favorável do que o concedido, em situações similares81, aos seus próprios investidores em instituições financeiras e aos seus investimentos em instituições financeiras.
 
-3 - O tratamento concedido por uma Parte nos termos dos n<sup>os</sup> 1 e 2 significa:
+3 - O tratamento concedido por uma Parte nos termos dos nos 1 e 2 significa:
 
 a) No que diz respeito às entidades da administração regional ou local do Chile, um tratamento não menos favorável do que o tratamento mais favorável concedido, em situações similares, por essas entidades a instituições financeiras do Chile e aos seus investimentos em instituições financeiras no respetivo território;
 
-b) No que diz respeito às entidades governamentais de, ou num, Estado-Membro, um tratamento não menos favorável do que o tratamento mais favorável concedido, em situações similares, por essas entidades a investidores em instituições financeiras desse Estado-Membro e aos seus investimentos em instituições financeiras no respetivo território<sup>82</sup>.
+b) No que diz respeito às entidades governamentais de, ou num, Estado-Membro, um tratamento não menos favorável do que o tratamento mais favorável concedido, em situações similares, por essas entidades a investidores em instituições financeiras desse Estado-Membro e aos seus investimentos em instituições financeiras no respetivo território82.
 
 ###### Artigo 25.4 — Contratos públicos
 
@@ -5437,13 +5446,13 @@ b) No que diz respeito às entidades governamentais de, ou num, Estado-Membro, u
 
 ###### Artigo 25.5 — Tratamento de nação mais favorecida
 
-1 - Cada Parte concede às instituições financeiras da outra Parte e às suas empresas que constituam investimentos em instituições financeiras, no que diz respeito ao estabelecimento, um tratamento não menos favorável do que o concedido, em situações similares<sup>83</sup>, aos investidores em instituições financeiras de um país terceiro e às suas empresas que sejam instituições financeiras.
+1 - Cada Parte concede às instituições financeiras da outra Parte e às suas empresas que constituam investimentos em instituições financeiras, no que diz respeito ao estabelecimento, um tratamento não menos favorável do que o concedido, em situações similares83, aos investidores em instituições financeiras de um país terceiro e às suas empresas que sejam instituições financeiras.
 
-2 - Cada Parte concede aos investidores em instituições financeiras da outra Parte e aos seus investimentos em instituições financeiras, no que se refere à sua exploração, um tratamento não menos favorável do que o concedido, em situações similares<sup>84</sup>, aos investidores em instituições financeiras de um país terceiro e aos seus investimentos em instituições financeiras.
+2 - Cada Parte concede aos investidores em instituições financeiras da outra Parte e aos seus investimentos em instituições financeiras, no que se refere à sua exploração, um tratamento não menos favorável do que o concedido, em situações similares84, aos investidores em instituições financeiras de um país terceiro e aos seus investimentos em instituições financeiras.
 
-3 - O disposto nos n.<sup>os</sup>1 e 2 não pode ser interpretado como obrigando uma Parte a conceder aos investidores em instituições financeiras da outra Parte ou aos seus investimentos em instituições financeiras o benefício de qualquer tratamento decorrente de medidas sobre o reconhecimento de normas, incluindo de normas ou critérios para a autorização, licenciamento ou certificação de uma pessoa singular ou de uma empresa para exercer uma atividade económica, ou de medidas de caráter prudencial.
+3 - O disposto nos n.os1 e 2 não pode ser interpretado como obrigando uma Parte a conceder aos investidores em instituições financeiras da outra Parte ou aos seus investimentos em instituições financeiras o benefício de qualquer tratamento decorrente de medidas sobre o reconhecimento de normas, incluindo de normas ou critérios para a autorização, licenciamento ou certificação de uma pessoa singular ou de uma empresa para exercer uma atividade económica, ou de medidas de caráter prudencial.
 
-4 - Para maior clareza, o «tratamento» a que se faz referência nos n.<sup>os</sup>1 e 2 não inclui os procedimentos ou mecanismos de resolução de litígios em matéria de investimento previstos noutros tratados internacionais em matéria de investimento ou noutros acordos comerciais. As disposições materiais constantes de outros tratados internacionais em matéria de investimento ou de acordos comerciais não constituem, por si só, tratamento na aceção dos n.<sup>os</sup>1 e 2 e, por conseguinte, não podem dar origem a uma violação do presente artigo, na ausência de medidas adotadas ou mantidas por uma Parte. As medidas aplicadas por uma Parte nos termos de tais disposições materiais poderão constituir «tratamento» ao abrigo do presente artigo e, por conseguinte, dar origem a uma violação do presente artigo.
+4 - Para maior clareza, o «tratamento» a que se faz referência nos n.os1 e 2 não inclui os procedimentos ou mecanismos de resolução de litígios em matéria de investimento previstos noutros tratados internacionais em matéria de investimento ou noutros acordos comerciais. As disposições materiais constantes de outros tratados internacionais em matéria de investimento ou de acordos comerciais não constituem, por si só, tratamento na aceção dos n.os1 e 2 e, por conseguinte, não podem dar origem a uma violação do presente artigo, na ausência de medidas adotadas ou mantidas por uma Parte. As medidas aplicadas por uma Parte nos termos de tais disposições materiais poderão constituir «tratamento» ao abrigo do presente artigo e, por conseguinte, dar origem a uma violação do presente artigo.
 
 ###### Artigo 25.6 — Acesso ao mercado
 
@@ -5597,13 +5606,13 @@ d) Prevê um prazo razoável entre a publicação de quaisquer disposições leg
 
 4 - Se uma Parte adotar ou mantiver em vigor medidas relacionadas com a autorização de prestação de um serviço financeiro, assegura que:
 
-a) Essas medidas assentam em critérios objetivos e transparentes<sup>85</sup>;
+a) Essas medidas assentam em critérios objetivos e transparentes85;
 
 b) Os procedimentos de licenciamento devem ser imparciais e apropriados para que os requerentes possam demonstrar se cumprem ou não os eventuais requisitos; e
 
 c) Os procedimentos de licenciamento não podem, por si só, impedir injustificadamente o cumprimento dos requisitos.
 
-5 - Se uma Parte exigir uma licença<sup>86</sup> para a prestação de um serviço financeiro deve publicar ou colocar à disposição do público prontamente as informações necessárias para os interessados poderem satisfazer os requisitos e cumprir os procedimentos aplicáveis à obtenção, manutenção, alteração e renovação da licença. Essas informações devem incluir, nomeadamente e na medida em que existam:
+5 - Se uma Parte exigir uma licença86 para a prestação de um serviço financeiro deve publicar ou colocar à disposição do público prontamente as informações necessárias para os interessados poderem satisfazer os requisitos e cumprir os procedimentos aplicáveis à obtenção, manutenção, alteração e renovação da licença. Essas informações devem incluir, nomeadamente e na medida em que existam:
 
 a) Os requisitos e procedimentos aplicáveis à obtenção, manutenção, alteração e renovação da licença;
 
@@ -5617,7 +5626,7 @@ e) As oportunidades de participação do público, nomeadamente através de audi
 
 6 - Se uma Parte exigir uma licença para a prestação de um serviço financeiro, as autoridades competentes dessa Parte:
 
-a) Permitem, na medida do possível, que os requerentes apresentem o pedido em qualquer momento ao longo do ano<sup>87</sup>;
+a) Permitem, na medida do possível, que os requerentes apresentem o pedido em qualquer momento ao longo do ano87;
 
 b) Concedem um prazo razoável para a apresentação de um pedido, se existirem prazos específicos para os pedidos;
 
@@ -5637,11 +5646,11 @@ a) Informar o requerente de que o pedido está incompleto;
 
 b) Identificar, a pedido do requerente, as informações adicionais necessárias para completar o pedido ou providenciar de outra forma orientações sobre os motivos pelos quais foi considerado incompleto; e
 
-c) Proporcionar ao requerente a oportunidade<sup>88</sup> de fornecer as informações adicionais necessárias para completar o pedido;
+c) Proporcionar ao requerente a oportunidade88 de fornecer as informações adicionais necessárias para completar o pedido;
 
 10 - Se nenhuma das medidas enumeradas no n.º 9, alíneas a), b) ou c), for exequível, a autoridade competente deve, não obstante, caso o pedido tenha sido indeferido por estar incompleto, assegurar que o requerente é informado num prazo razoável.
 
-11 - As Partes asseguram que as respetivas autoridades competentes, a respeito das taxas de licenciamento<sup>89</sup> cobradas, providenciam ao requerente uma tabela de taxas ou informações sobre o método de determinação dos montantes das taxas e que não aplicam essas taxas como forma de contornar os compromissos ou obrigações das Partes.
+11 - As Partes asseguram que as respetivas autoridades competentes, a respeito das taxas de licenciamento89 cobradas, providenciam ao requerente uma tabela de taxas ou informações sobre o método de determinação dos montantes das taxas e que não aplicam essas taxas como forma de contornar os compromissos ou obrigações das Partes.
 
 12 - A autoridade competente deve tomar a sua decisão de forma independente, não devendo prestar contas a qualquer pessoa que preste os serviços para o qual a licença ou autorização seja requerida.
 
@@ -5815,7 +5824,7 @@ Uma Parte não pode impor direitos aduaneiros sobre as transmissões eletrónica
 
 ###### Artigo 26.8 — Dispensa de autorização prévia
 
-1 - Uma Parte não pode exigir autorização prévia pelo simples facto de o serviço ser prestado pela Internet<sup>90</sup>, ou adotar ou manter em vigor qualquer outro requisito de efeito equivalente.
+1 - Uma Parte não pode exigir autorização prévia pelo simples facto de o serviço ser prestado pela Internet90, ou adotar ou manter em vigor qualquer outro requisito de efeito equivalente.
 
 2 - O disposto n.º 1 não se aplica a serviços de telecomunicações, a serviços de radiodifusão, a serviços de jogo, a serviços de representação jurídica ou aos serviços de notários ou profissões equivalentes na medida em que se encontrem direta e especificamente ligadas ao exercício de poderes públicos.
 
@@ -5855,7 +5864,7 @@ a) Proíbam práticas comerciais fraudulentas e enganosas;
 
 b) Exijam aos fornecedores de mercadorias e prestadores de serviços que atuem de boa-fé e cumpram práticas comerciais justas, inclusive através da proibição de cobrança aos consumidores por mercadorias e serviços não solicitados;
 
-c) Exijam aos fornecedores de mercadorias e prestadores de serviços que facultem aos consumidores informações claras e exaustivas a respeito da sua identidade e dados de contacto<sup>91</sup>, assim como a respeito das mercadorias ou serviços, da transação e dos direitos dos consumidores aplicáveis; e
+c) Exijam aos fornecedores de mercadorias e prestadores de serviços que facultem aos consumidores informações claras e exaustivas a respeito da sua identidade e dados de contacto91, assim como a respeito das mercadorias ou serviços, da transação e dos direitos dos consumidores aplicáveis; e
 
 d) Concedam aos consumidores a possibilidade de exigir a reparação pela violação dos seus direitos, inclusive o direito a compensação se as mercadorias ou serviços forem pagos e não forem entregues ou prestados conforme acordado.
 
@@ -5911,7 +5920,7 @@ A pedido de qualquer das Partes, o Subcomité dos Serviços e do Investimento a 
 
 ###### Artigo 27.1 — Objetivo e âmbito
 
-O objetivo do presente capítulo é permitir a livre circulação de capitais e pagamentos associados a transações liberalizadas em conformidade com a presente parte do presente Acordo<sup>92</sup>.
+O objetivo do presente capítulo é permitir a livre circulação de capitais e pagamentos associados a transações liberalizadas em conformidade com a presente parte do presente Acordo92.
 
 ###### Artigo 27.2 — Balança de transações correntes
 
@@ -5945,7 +5954,7 @@ Em circunstâncias excecionais que causem ou ameacem causar graves dificuldades 
 
 ###### Artigo 27.6 — Restrições em caso de dificuldades a nível da balança de pagamentos ou do financiamento externo
 
-1 - Se uma Parte se deparar com dificuldades graves a nível da balança de pagamentos ou das finanças externas, ou sob tal ameaça, pode adotar ou manter medidas restritivas, quanto aos movimentos de capitais, pagamentos ou transferências<sup>93</sup>.
+1 - Se uma Parte se deparar com dificuldades graves a nível da balança de pagamentos ou das finanças externas, ou sob tal ameaça, pode adotar ou manter medidas restritivas, quanto aos movimentos de capitais, pagamentos ou transferências93.
 
 2 - As medidas restritivas referidas no n.º 1:
 
@@ -5963,7 +5972,7 @@ e) Não são discriminatórias em relação a países terceiros em situações s
 
 4 - No caso das trocas comerciais de serviços, cada Parte pode adotar ou manter medidas restritivas a fim de salvaguardar a situação da sua balança de pagamentos ou a sua situação financeira externa. Tais medidas devem ser compatíveis com o artigo xii do GATS.
 
-5 - A Parte que adotar ou mantiver em vigor medidas a que se referem os n.<sup>os</sup>1 e 2 informa imediatamente desse facto a outra Parte.
+5 - A Parte que adotar ou mantiver em vigor medidas a que se referem os n.os1 e 2 informa imediatamente desse facto a outra Parte.
 
 6 - Se forem adotadas ou mantidas em vigor medidas restritivas nos termos do presente artigo, as Partes procedem de imediato a consultas no quadro do Subcomité dos Serviços e do Investimento, salvo se tais consultas forem realizadas a nível de outras instâncias internacionais de que ambas sejam membros. As consultas servem para avaliar as dificuldades a nível da balança de pagamentos ou da situação financeira externa que conduziram à adoção das medidas em apreço, tendo em conta, nomeadamente, os seguintes fatores:
 
@@ -5973,7 +5982,7 @@ b) A conjuntura económica e comercial externa; e
 
 c) Eventuais medidas corretivas alternativas a que seja possível recorrer.
 
-7 - No âmbito das consultas a que se refere o n.º 6, é analisada a conformidade das medidas restritivas com o disposto nos n.<sup>os</sup>1 e 2. Essas consultas têm por base todos os resultados pertinentes de natureza estatística ou factual apresentados pelo Fundo Monetário Internacional (FMI), sempre que disponíveis, e têm em conta, nas suas conclusões, a avaliação efetuada pelo FMI da situação da balança de pagamentos e da situação financeira externa da Parte em causa.
+7 - No âmbito das consultas a que se refere o n.º 6, é analisada a conformidade das medidas restritivas com o disposto nos n.os1 e 2. Essas consultas têm por base todos os resultados pertinentes de natureza estatística ou factual apresentados pelo Fundo Monetário Internacional (FMI), sempre que disponíveis, e têm em conta, nas suas conclusões, a avaliação efetuada pelo FMI da situação da balança de pagamentos e da situação financeira externa da Parte em causa.
 
 ### CAPÍTULO 28 — CONTRATOS PÚBLICOS
 
@@ -6037,7 +6046,7 @@ ii) Que não se destinem a venda ou revenda comercial, nem a ser utilizados na p
 
 b) Por quaisquer meios contratuais, incluindo a compra, a locação financeira, o arrendamento ou a locação-venda, com ou sem opção de compra;
 
-c) Cujo valor, tal como estimado em conformidade com os n.<sup>os</sup>6 a 8 do presente artigo, seja igual ou superior ao limiar relevante especificado nos anexos 28-A a 28-B, no momento da publicação de um anúncio em conformidade com o artigo 28.6;
+c) Cujo valor, tal como estimado em conformidade com os n.os6 a 8 do presente artigo, seja igual ou superior ao limiar relevante especificado nos anexos 28-A a 28-B, no momento da publicação de um anúncio em conformidade com o artigo 28.6;
 
 d) Por uma entidade adjudicante; e
 
@@ -6171,7 +6180,7 @@ Compensações
 
 Medidas não especificamente ligadas à adjudicação dos contratos
 
-7 - O disposto nos n.<sup>os</sup>1 e 2 não é aplicável aos direitos aduaneiros e aos encargos de qualquer tipo instituído sobre a importação ou relacionados com a mesma; ao método de cobrança desses direitos aduaneiros e encargos; a outras formalidades ou regulamentação de importação e medidas que afetem o comércio de serviços, distintas das medidas que regem os contratos abrangidos.
+7 - O disposto nos n.os1 e 2 não é aplicável aos direitos aduaneiros e aos encargos de qualquer tipo instituído sobre a importação ou relacionados com a mesma; ao método de cobrança desses direitos aduaneiros e encargos; a outras formalidades ou regulamentação de importação e medidas que afetem o comércio de serviços, distintas das medidas que regem os contratos abrangidos.
 
 Medidas contra a corrupção
 
@@ -6233,7 +6242,7 @@ l) A indicação de que o contrato é abrangido pelo presente capítulo.
 
 Resumos dos anúncios de concurso
 
-3 - Para cada concurso previsto, as entidades adjudicantes publicam, em simultâneo com a publicação do anúncio de concurso previsto, um resumo do anúncio facilmente acessível e numa das línguas oficiais da OMC<sup>94</sup>. O resumo do anúncio deve incluir, no mínimo, as seguintes informações:
+3 - Para cada concurso previsto, as entidades adjudicantes publicam, em simultâneo com a publicação do anúncio de concurso previsto, um resumo do anúncio facilmente acessível e numa das línguas oficiais da OMC94. O resumo do anúncio deve incluir, no mínimo, as seguintes informações:
 
 a) O objeto do contrato;
 
@@ -6447,7 +6456,7 @@ Esses prazos, incluindo eventuais prorrogações, devem ser os mesmos para todos
 
 2 - Caso recorra a concursos seletivos, a entidade adjudicante deve estabelecer um termo do prazo para a apresentação dos pedidos de participação que não deve, em princípio, ser inferior a 25 dias a contar da data de publicação do anúncio de concurso previsto. Se uma situação de urgência, devidamente fundamentada pela entidade adjudicante, tornar materialmente impossível cumprir este prazo, o mesmo pode ser reduzido para, no mínimo, 10 dias.
 
-3 - Salvo nos casos previstos nos n.<sup>os</sup>4, 5, 7 e 8, a entidade adjudicante deve fixar um termo do prazo para a apresentação de propostas não inferior a 40 dias a contar da data na qual:
+3 - Salvo nos casos previstos nos n.os4, 5, 7 e 8, a entidade adjudicante deve fixar um termo do prazo para a apresentação de propostas não inferior a 40 dias a contar da data na qual:
 
 a) No caso de um concurso público, o anúncio de concurso previsto tenha sido publicado; ou
 
@@ -6583,7 +6592,7 @@ b) O preço mais baixo, se for este o único critério.
 
 Informação prestada aos fornecedores
 
-1 - A entidade adjudicante informa imediatamente os fornecedores participantes das decisões tomadas quanto à adjudicação dos contratos e, se tal for solicitado por um fornecedor, fá-lo por escrito. Sem prejuízo do disposto no artigo 28.18, n.<sup>os</sup>2 e 3, a entidade adjudicante comunica, mediante pedido, a qualquer fornecedor não selecionado as razões pelas quais a sua proposta não foi selecionada e as vantagens relativas da proposta do fornecedor selecionado.
+1 - A entidade adjudicante informa imediatamente os fornecedores participantes das decisões tomadas quanto à adjudicação dos contratos e, se tal for solicitado por um fornecedor, fá-lo por escrito. Sem prejuízo do disposto no artigo 28.18, n.os2 e 3, a entidade adjudicante comunica, mediante pedido, a qualquer fornecedor não selecionado as razões pelas quais a sua proposta não foi selecionada e as vantagens relativas da proposta do fornecedor selecionado.
 
 Publicação de informações sobre a adjudicação
 
@@ -6771,9 +6780,9 @@ O Subcomité dos Contratos Públicos previsto no artigo 28.21 acompanha a aplica
 
 ###### Artigo 29.1 — Âmbito de aplicação
 
-1 - As Partes reiteram os direitos que lhes assistem e as obrigações que lhes incumbem ao abrigo do artigo xvii, n.<sup>os</sup>1 a 3, do GATT de 1994 e do Memorando de Entendimento sobre a interpretação do artigo xvii do GATT de 1994, bem como do artigo viii, n.<sup>os</sup>1, 2 e 5, do GATS.
+1 - As Partes reiteram os direitos que lhes assistem e as obrigações que lhes incumbem ao abrigo do artigo xvii, n.os1 a 3, do GATT de 1994 e do Memorando de Entendimento sobre a interpretação do artigo xvii do GATT de 1994, bem como do artigo viii, n.os1, 2 e 5, do GATS.
 
-2 - O presente capítulo é aplicável às empresas públicas, às empresas às quais foram concedidos direitos especiais ou privilégios e aos monopólios designados («entidades») que exerçam atividades comerciais. Se uma entidade exercer tanto atividades comerciais como atividades não comerciais<sup>95</sup>, as disposições do presente capítulo aplicam-se apenas às atividades comerciais.
+2 - O presente capítulo é aplicável às empresas públicas, às empresas às quais foram concedidos direitos especiais ou privilégios e aos monopólios designados («entidades») que exerçam atividades comerciais. Se uma entidade exercer tanto atividades comerciais como atividades não comerciais95, as disposições do presente capítulo aplicam-se apenas às atividades comerciais.
 
 3 - O presente capítulo é aplicável às empresas públicas, às empresas às quais foram concedidos direitos especiais ou privilégios e aos monopólios designados a todos os níveis da administração.
 
@@ -6781,7 +6790,7 @@ O Subcomité dos Contratos Públicos previsto no artigo 28.21 acompanha a aplica
 
 5 - O presente capítulo não se aplica aos serviços prestados no exercício de poderes públicos.
 
-6 - O presente capítulo não se aplica às empresas públicas, às empresas às quais foram concedidos direitos especiais ou privilégios e aos monopólios designados se, em qualquer dos três anteriores exercícios financeiros consecutivos, o rendimento anual proveniente das atividades comerciais dessa entidade tiver sido inferior a 100 milhões de direitos de saque especiais (DSE)<sup>96</sup>.
+6 - O presente capítulo não se aplica às empresas públicas, às empresas às quais foram concedidos direitos especiais ou privilégios e aos monopólios designados se, em qualquer dos três anteriores exercícios financeiros consecutivos, o rendimento anual proveniente das atividades comerciais dessa entidade tiver sido inferior a 100 milhões de direitos de saque especiais (DSE)96.
 
 7 - O artigo 29.4 não se aplica aos setores de serviços não abrangidos pelo âmbito de aplicação do presente Acordo.
 
@@ -6795,7 +6804,7 @@ b) Qualquer medida não conforme que a Parte adote ou mantenha em vigor relativa
 
 Para efeitos do presente capítulo e do anexo 29, entende-se por:
 
-a) «Atividade comercial», as atividades realizadas por uma empresa cujo resultado final é a produção de uma mercadoria ou a prestação de um serviço a comercializar no mercado relevante em quantidades e a preços determinados pela empresa, exercidas com uma orientação para a obtenção de lucros<sup>97</sup>;
+a) «Atividade comercial», as atividades realizadas por uma empresa cujo resultado final é a produção de uma mercadoria ou a prestação de um serviço a comercializar no mercado relevante em quantidades e a preços determinados pela empresa, exercidas com uma orientação para a obtenção de lucros97;
 
 b) «Considerações comerciais», considerações relativas a preços, qualidade, disponibilidade, viabilidade comercial, transporte e outras condições de aquisição ou de venda ou outros fatores que, normalmente, seriam tidos em conta nas decisões comerciais de uma empresa privada que exerça a sua atividade de acordo com os princípios da economia de mercado no setor ou na indústria pertinente;
 
@@ -6803,11 +6812,11 @@ c) «Designar», estabelecer ou autorizar um monopólio ou alargar o âmbito de 
 
 d) «Monopólio designado», uma entidade, incluindo um grupo de entidades ou um organismo público, que, num mercado relevante no território de uma Parte, é designado como fornecedor ou comprador único de uma mercadoria ou um serviço, exceto as entidades às quais tenha sido reconhecido um direito de propriedade intelectual exclusivo unicamente em virtude da concessão desse direito;
 
-e) «Empresa à qual foram concedidos direitos especiais ou privilégios»<sup>98</sup>, uma empresa, pública ou privada à qual uma Parte tenha concedido direitos especiais ou privilégios, de direito ou de facto; as Partes concedem direitos especiais ou privilégios quando designam ou limitam a duas ou mais o número de empresas autorizadas a fornecer uma mercadoria ou a prestar um serviço, tendo em conta a regulamentação setorial específica ao abrigo da qual a concessão desse direito ou privilégio teve lugar, e não critérios objetivos, proporcionais e não discriminatórios, assim afetando substancialmente a capacidade de qualquer outra empresa de fornecer a mesma mercadoria ou o mesmo serviço na mesma área geográfica em condições essencialmente equivalentes;
+e) «Empresa à qual foram concedidos direitos especiais ou privilégios»98, uma empresa, pública ou privada à qual uma Parte tenha concedido direitos especiais ou privilégios, de direito ou de facto; as Partes concedem direitos especiais ou privilégios quando designam ou limitam a duas ou mais o número de empresas autorizadas a fornecer uma mercadoria ou a prestar um serviço, tendo em conta a regulamentação setorial específica ao abrigo da qual a concessão desse direito ou privilégio teve lugar, e não critérios objetivos, proporcionais e não discriminatórios, assim afetando substancialmente a capacidade de qualquer outra empresa de fornecer a mesma mercadoria ou o mesmo serviço na mesma área geográfica em condições essencialmente equivalentes;
 
 f) «Serviço prestado no exercício dos poderes públicos», um serviço prestado no exercício dos poderes públicos, tal como definido no artigo i, n.º 3, alínea c), do GATS, incluindo, se for caso disso, no anexo relativo aos serviços financeiros do GATS; e
 
-g) «Empresa pública», uma empresa que é propriedade ou está sob o controlo de uma Parte<sup>99</sup>.
+g) «Empresa pública», uma empresa que é propriedade ou está sob o controlo de uma Parte99.
 
 ###### Artigo 29.3 — Disposições gerais
 
@@ -6845,7 +6854,7 @@ b) Recusarem a aquisição ou o fornecimento de bens ou serviços, desde que tal
 
 a) São independentes e não respondem perante qualquer das empresas que regulam, a fim de assegurar a eficácia da função de regulação; e
 
-b) Atuam, em circunstâncias similares, com imparcialidade<sup>100</sup> em relação a todas as empresas que regulam, incluindo as empresas públicas, as empresas às quais foram concedidos direitos especiais ou privilégios e os monopólios designados<sup>101</sup>.
+b) Atuam, em circunstâncias similares, com imparcialidade100 em relação a todas as empresas que regulam, incluindo as empresas públicas, as empresas às quais foram concedidos direitos especiais ou privilégios e os monopólios designados101.
 
 3 - Cada Parte aplica as suas disposições legislativas e regulamentares às empresas públicas, às empresas às quais foram concedidos direitos especiais ou privilégios e aos monopólios designados de forma coerente e não discriminatória.
 
@@ -6855,7 +6864,7 @@ b) Atuam, em circunstâncias similares, com imparcialidade<sup>100</sup> em rela
 
 2 - A Parte requerente deve incluir no pedido a que se refere o n.º 1 uma explicação das razões pelas quais crê que as atividades da entidade em causa podem estar a afetar os interesses dessa Parte ao abrigo do presente capítulo, especificando qual das informações enumeradas no n.º 3 solicita.
 
-3 - A Parte requerida deve facultar as seguintes informações em conformidade com o disposto nos n.<sup>os</sup>1 e 2:
+3 - A Parte requerida deve facultar as seguintes informações em conformidade com o disposto nos n.os1 e 2:
 
 a) A propriedade e a estrutura dos direitos de voto dessa entidade, indicando a percentagem de ações e a percentagem de direitos de voto que a Parte requerida, as suas empresas públicas e empresas às quais foram concedidos direitos especiais ou privilégios e os seus monopólios designados detêm cumulativamente na entidade;
 
@@ -6871,7 +6880,7 @@ f) Quaisquer isenções, imunidades e medidas conexas de que a entidade benefici
 
 g) Quaisquer informações adicionais relativas à entidade que tenham sido publicadas, incluindo relatórios financeiros anuais e auditorias por terceiros.
 
-4 - O disposto nos n.<sup>os</sup>1, 2 e 3 não obriga as Partes a divulgarem informações confidenciais cuja divulgação seja incompatível com as suas disposições legislativas e regulamentares, obste à aplicação coerciva da lei ou, de outra forma, contrarie o interesse público ou prejudique os interesses comerciais legítimos de empresas concretas.
+4 - O disposto nos n.os1, 2 e 3 não obriga as Partes a divulgarem informações confidenciais cuja divulgação seja incompatível com as suas disposições legislativas e regulamentares, obste à aplicação coerciva da lei ou, de outra forma, contrarie o interesse público ou prejudique os interesses comerciais legítimos de empresas concretas.
 
 5 - Caso a Parte requerida não disponha das informações solicitadas, deve justificá-lo por escrito à Parte requerente.
 
@@ -6889,7 +6898,7 @@ As Partes reconhecem a importância de uma concorrência livre e não falseada n
 
 ###### Artigo 30.2 — Quadro regulamentar
 
-1 - Cada Parte mantém em vigor ou adota legislação em matéria de concorrência, que seja aplicável a todos os setores da economia<sup>102</sup> e dê resposta, de forma eficaz, às seguintes práticas comerciais:
+1 - Cada Parte mantém em vigor ou adota legislação em matéria de concorrência, que seja aplicável a todos os setores da economia102 e dê resposta, de forma eficaz, às seguintes práticas comerciais:
 
 a) Os acordos entre empresas, as decisões de associações de empresas e as práticas concertadas que tenham por objetivo ou efeito impedir, restringir ou falsear a concorrência;
 
@@ -6917,7 +6926,7 @@ c) As concentrações entre empresas que entravem significativamente uma concorr
 
 ###### Artigo 30.5 — Consultas
 
-1 - A fim de promover a compreensão mútua entre as Partes<sup>103</sup> ou abordar questões específicas quanto à interpretação ou aplicação do presente capítulo, uma Parte deve, a pedido da outra, iniciar prontamente consultas sobre qualquer questão relativa à interpretação ou aplicação do presente capítulo. Se adequado, a Parte que solicita a realização de consultas indica de que modo a questão afeta o comércio ou o investimento entre as Partes.
+1 - A fim de promover a compreensão mútua entre as Partes103 ou abordar questões específicas quanto à interpretação ou aplicação do presente capítulo, uma Parte deve, a pedido da outra, iniciar prontamente consultas sobre qualquer questão relativa à interpretação ou aplicação do presente capítulo. Se adequado, a Parte que solicita a realização de consultas indica de que modo a questão afeta o comércio ou o investimento entre as Partes.
 
 2 - A fim de facilitar as consultas a que se refere o n.º 1, cada Parte envida esforços no sentido de fornecer à outra Parte informações não confidenciais relevantes.
 
@@ -6933,7 +6942,7 @@ As Partes reconhecem que podem ser concedidas subvenções quando as mesmas seja
 
 ###### Artigo 31.2 — Definição e âmbito de aplicação
 
-1 - Para efeitos do presente capítulo, entende-se por «subvenção» qualquer medida que satisfaça as condições previstas no artigo 1.º, n.º 1, do Acordo SMC independentemente de ter sido concedida a uma empresa que forneça produtos ou preste serviços<sup>104</sup>.
+1 - Para efeitos do presente capítulo, entende-se por «subvenção» qualquer medida que satisfaça as condições previstas no artigo 1.º, n.º 1, do Acordo SMC independentemente de ter sido concedida a uma empresa que forneça produtos ou preste serviços104.
 
 2 - O presente capítulo aplica-se apenas às subvenções específicas nos termos do artigo 2.º do Acordo SMC.
 
@@ -6945,11 +6954,11 @@ As Partes reconhecem que podem ser concedidas subvenções quando as mesmas seja
 
 6 - Os artigos 31.5 e 31.6 não são aplicáveis ao setor audiovisual.
 
-7 - Os artigos 31.5 e 31.6 não são aplicáveis às subvenções concedidas para apoiar o desenvolvimento económico dos povos e comunidades indígenas<sup>105</sup>. Essas subvenções devem ser direcionadas, proporcionadas e transparentes.
+7 - Os artigos 31.5 e 31.6 não são aplicáveis às subvenções concedidas para apoiar o desenvolvimento económico dos povos e comunidades indígenas105. Essas subvenções devem ser direcionadas, proporcionadas e transparentes.
 
 8 - Os artigos 31.5 e 31.6 não são aplicáveis às subvenções concedidas para reparar danos causados por catástrofes naturais ou eventos de caráter excecional.
 
-9 - O artigo 31.5 não é aplicável às subvenções concedidas a título temporário para dar resposta a uma situação de emergência económica<sup>106</sup>. As referidas subvenções devem ser proporcionadas e específicas para fazer face a essa situação de emergência económica.
+9 - O artigo 31.5 não é aplicável às subvenções concedidas a título temporário para dar resposta a uma situação de emergência económica106. As referidas subvenções devem ser proporcionadas e específicas para fazer face a essa situação de emergência económica.
 
 10 - O Conselho Conjunto pode adotar uma decisão que altere a definição de «subvenção» constante do n.º 1, desde que diga respeito a empresas que prestam serviços, a fim de incorporar o resultado de futuras discussões sobre a questão no âmbito da OMC ou de outras instâncias multilaterais, nos termos do artigo 8.5, n.º 1, alínea a).
 
@@ -6999,7 +7008,7 @@ g) Quaisquer outras informações que permitam avaliar os efeitos negativos da s
 
 3 - A Parte requerida faculta, por escrito, as informações solicitadas nos termos do n.º 2, o mais tardar 60 dias a contar da data da receção do pedido.
 
-4 - Se não facultar, total ou parcialmente, as informações solicitadas pela Parte requerente nos termos dos n.<sup>os</sup>2 e 3, a Parte requerida deve explicar por escrito os motivos para tal.
+4 - Se não facultar, total ou parcialmente, as informações solicitadas pela Parte requerente nos termos dos n.os2 e 3, a Parte requerida deve explicar por escrito os motivos para tal.
 
 5 - Se, após ter recebido as informações solicitadas e ter procedido à realização de consultas, a Parte requerente considerar que a subvenção em causa tem ou pode ter um efeito negativo significativo nos seus interesses comerciais ou na concorrência, a Parte requerida deve envidar todos os esforços para eliminar ou minimizar esses efeitos.
 
@@ -7023,7 +7032,7 @@ b) Cujos montantes ou orçamentos cumulativos sejam inferiores a 170 000 DSE por
 
 ###### Artigo 31.7 — Utilização de subvenções
 
-Cada Parte vela por que as empresas utilizem as subvenções apenas para o objetivo estratégico explicitamente definido para que foram concedidas<sup>107</sup>.
+Cada Parte vela por que as empresas utilizem as subvenções apenas para o objetivo estratégico explicitamente definido para que foram concedidas107.
 
 ###### Artigo 31.8 — Não aplicação do procedimento de resolução de litígios
 
@@ -7085,7 +7094,7 @@ e) «OMPI», a Organização Mundial da Propriedade Intelectual.
 
 ###### Artigo 32.5 — Tratamento nacional
 
-1 - No que diz respeito às categorias de direitos de propriedade intelectual abrangidas pelo presente capítulo, cada Parte concede aos nacionais da outra Parte um tratamento não menos favorável do que o concedido aos seus próprios nacionais em matéria de proteção<sup>108</sup> dos direitos de propriedade intelectual, sem prejuízo das exceções já previstas respetivamente na Convenção de Paris, na Convenção de Berna, na Convenção de Roma ou no Tratado sobre a Proteção da Propriedade Intelectual relativa aos Circuitos Integrados, adotado em Washington em 26 de maio de 1989 e no Tratado da OMPI sobre Prestações e Fonogramas (TPF), celebrado em Genebra, em 20 de dezembro de 1996. No que diz respeito aos artistas intérpretes e executantes, aos produtores de fonogramas e aos organismos de radiodifusão, essa obrigação só é aplicável relativamente aos direitos previstos no presente capítulo.
+1 - No que diz respeito às categorias de direitos de propriedade intelectual abrangidas pelo presente capítulo, cada Parte concede aos nacionais da outra Parte um tratamento não menos favorável do que o concedido aos seus próprios nacionais em matéria de proteção108 dos direitos de propriedade intelectual, sem prejuízo das exceções já previstas respetivamente na Convenção de Paris, na Convenção de Berna, na Convenção de Roma ou no Tratado sobre a Proteção da Propriedade Intelectual relativa aos Circuitos Integrados, adotado em Washington em 26 de maio de 1989 e no Tratado da OMPI sobre Prestações e Fonogramas (TPF), celebrado em Genebra, em 20 de dezembro de 1996. No que diz respeito aos artistas intérpretes e executantes, aos produtores de fonogramas e aos organismos de radiodifusão, essa obrigação só é aplicável relativamente aos direitos previstos no presente capítulo.
 
 2 - As Partes podem recorrer às derrogações autorizadas nos termos do n.º 1 em relação aos seus procedimentos judiciais e administrativos, incluindo exigir que um nacional da outra Parte designe um endereço para citação ou notificação no seu território ou nomeie um mandatário no mesmo, se tais derrogações:
 
@@ -7141,7 +7150,7 @@ d) A locação comercial ao público dos originais ou cópias dos seus programas
 
 As Partes conferem aos artistas intérpretes ou executantes o direito exclusivo de autorizar ou proibir:
 
-a) A fixação<sup>109</sup> das suas prestações;
+a) A fixação109 das suas prestações;
 
 b) A reprodução direta ou indireta, provisória ou permanente, total ou parcial, por quaisquer meios e sob qualquer forma, da fixação das suas prestações;
 
@@ -7171,17 +7180,17 @@ a) A fixação das suas emissões transmitidas por meios de transmissão sem fio
 
 b) A reprodução direta ou indireta, provisória ou permanente, total ou parcial, por quaisquer meios e sob qualquer forma, de fixações das suas emissões transmitidas por meios de transmissão sem fios; e
 
-c) A retransmissão das suas emissões, por meios de transmissão sem fios, bem como a comunicação ao público<sup>110</sup> das suas transmissões, se essa comunicação for efetuada em lugares acessíveis ao público contra pagamento de uma tarifa de entrada.
+c) A retransmissão das suas emissões, por meios de transmissão sem fios, bem como a comunicação ao público110 das suas transmissões, se essa comunicação for efetuada em lugares acessíveis ao público contra pagamento de uma tarifa de entrada.
 
-###### Artigo 32.13 — Radiodifusão e comunicação ao público de fonogramas publicados para efeitos comerciais<sup>111</sup>
+###### Artigo 32.13 — Radiodifusão e comunicação ao público de fonogramas publicados para efeitos comerciais111
 
-1 - As Partes concedem aos artistas intérpretes ou executantes e aos produtores de fonogramas o direito ao pagamento, pelo utilizador, de uma remuneração equitativa e única pelos fonogramas publicados com fins comerciais ou pela reprodução desses fonogramas para radiodifusão ou para qualquer comunicação ao público<sup>112</sup>.
+1 - As Partes concedem aos artistas intérpretes ou executantes e aos produtores de fonogramas o direito ao pagamento, pelo utilizador, de uma remuneração equitativa e única pelos fonogramas publicados com fins comerciais ou pela reprodução desses fonogramas para radiodifusão ou para qualquer comunicação ao público112.
 
 2 - As Partes asseguram que a remuneração equitativa e única referida no n.º 1 é partilhada entre os artistas intérpretes ou executantes e os produtores dos fonogramas. As Partes podem adotar legislação que, na falta de acordo entre o artista intérprete ou executante e o produtor de um fonograma, determine as condições de repartição da remuneração equitativa e única entre os artistas intérpretes ou executantes e os produtores de fonogramas.
 
 ###### Artigo 32.14 — Duração da proteção
 
-1 - Os direitos de um autor de uma obra beneficiam de proteção durante toda a vida do autor e por um período não inferior a 70 anos após a morte do autor, independentemente da data em que a obra tenha sido licitamente tornada acessível ao público<sup>113</sup>.
+1 - Os direitos de um autor de uma obra beneficiam de proteção durante toda a vida do autor e por um período não inferior a 70 anos após a morte do autor, independentemente da data em que a obra tenha sido licitamente tornada acessível ao público113.
 
 2 - No caso de coautoria de uma obra, o prazo de proteção previsto no n.º 1 é calculado a partir da morte do último coautor sobrevivo.
 
@@ -7201,7 +7210,7 @@ b) Se a fixação dessa prestação num fonograma tiver sido licitamente publica
 
 ###### Artigo 32.15 — Direito de sequência
 
-1 - As Partes criam, em benefício do autor de uma obra de arte gráfica ou plástica original, um «direito de sequência», definido como um direito inalienável e irrenunciável, mesmo por antecipação, de receber uma participação sobre o preço obtido pela venda dessa obra após a sua alienação inicial pelo autor<sup>114</sup>.
+1 - As Partes criam, em benefício do autor de uma obra de arte gráfica ou plástica original, um «direito de sequência», definido como um direito inalienável e irrenunciável, mesmo por antecipação, de receber uma participação sobre o preço obtido pela venda dessa obra após a sua alienação inicial pelo autor114.
 
 2 - O direito previsto no n.º 1 aplica-se a todos os atos de alienação de obras que envolvam profissionais do mercado da arte, nomeadamente, leiloeiros, galerias de arte e, de um modo geral, quaisquer negociantes de obras de arte, como vendedores, compradores ou intermediários,.
 
@@ -7231,7 +7240,7 @@ b) Tenham apenas uma finalidade comercial ou uma utilização limitadas que não
 
 c) Sejam essencialmente concebidos, produzidos, adaptados ou executados com o objetivo de permitir ou facilitar a evasão de uma medida de caráter tecnológico eficaz.
 
-3 - Para efeitos da presente subsecção, entende-se por «medidas de caráter tecnológico» as tecnologias, dispositivos ou componentes que, durante o seu funcionamento normal, se destinem a impedir ou restringir atos, no que se refere a obras ou a outro material<sup>115</sup>, que não sejam autorizados pelo titular de um direito de autor ou de direitos conexos previstos na legislação da Parte em causa. As medidas de caráter tecnológico são consideradas «eficazes» quando a utilização da obra ou de outro material protegido é controlada pelos titulares dos direitos mediante a aplicação de um controlo de acesso ou de um processo de proteção, como por exemplo a codificação, cifragem ou qualquer outra transformação da obra ou de outro material protegido, ou um mecanismo de controlo da cópia, que garanta a realização do objetivo de proteção.
+3 - Para efeitos da presente subsecção, entende-se por «medidas de caráter tecnológico» as tecnologias, dispositivos ou componentes que, durante o seu funcionamento normal, se destinem a impedir ou restringir atos, no que se refere a obras ou a outro material115, que não sejam autorizados pelo titular de um direito de autor ou de direitos conexos previstos na legislação da Parte em causa. As medidas de caráter tecnológico são consideradas «eficazes» quando a utilização da obra ou de outro material protegido é controlada pelos titulares dos direitos mediante a aplicação de um controlo de acesso ou de um processo de proteção, como por exemplo a codificação, cifragem ou qualquer outra transformação da obra ou de outro material protegido, ou um mecanismo de controlo da cópia, que garanta a realização do objetivo de proteção.
 
 4 - Não obstante a proteção legal prevista no n.º 1, na falta de medidas voluntárias adotadas pelos titulares dos direitos, as Partes podem tomar as medidas adequadas, conforme necessário, para assegurar que a proteção legal adequada contra a violação das medidas tecnológicas eficazes previstas no presente artigo não impede os beneficiários de derrogações ou limitações a que se refere o artigo 32.17 de beneficiarem das mesmas.
 
@@ -7273,7 +7282,7 @@ Cada Parte garante que o titular de uma marca registada dispõe do direito exclu
 
 ###### Artigo 32.23 — Marcas notoriamente conhecidas
 
-Para efeitos de aplicação da proteção concedida a marcas notoriamente conhecidas, a que se referem o artigo 6.º-A da Convenção de Paris e o artigo 16, n.<sup>os</sup>2 e 3, do Acordo TRIPS, as Partes reiteram a importância da Recomendação Conjunta sobre Disposições relativas à Proteção de Marcas Notoriamente Conhecidas, adotada pela Assembleia da União de Paris para a Proteção da Propriedade Industrial e pela Assembleia-Geral da OMPI na 34.ª série de reuniões das Assembleias dos Estados-Membros da OMPI, que decorreu entre 20 e 29 de setembro de 1999.
+Para efeitos de aplicação da proteção concedida a marcas notoriamente conhecidas, a que se referem o artigo 6.º-A da Convenção de Paris e o artigo 16, n.os2 e 3, do Acordo TRIPS, as Partes reiteram a importância da Recomendação Conjunta sobre Disposições relativas à Proteção de Marcas Notoriamente Conhecidas, adotada pela Assembleia da União de Paris para a Proteção da Propriedade Industrial e pela Assembleia-Geral da OMPI na 34.ª série de reuniões das Assembleias dos Estados-Membros da OMPI, que decorreu entre 20 e 29 de setembro de 1999.
 
 ###### Artigo 32.24 — Exceções aos direitos conferidos por uma marca
 
@@ -7293,7 +7302,7 @@ b) De indicações relativas à espécie, à qualidade, à quantidade, ao destin
 
 c) Da marca, sempre que tal seja necessário para indicar o fim a que se destina um produto ou serviço, nomeadamente como acessórios ou peças sobresselentes.
 
-4 - O n.º 3 só é aplicável se o terceiro agir segundo práticas honestas em matéria industrial ou comercial<sup>116</sup>.
+4 - O n.º 3 só é aplicável se o terceiro agir segundo práticas honestas em matéria industrial ou comercial116.
 
 5 - Uma Parte pode estabelecer que o direito conferido por uma marca não confira ao seu titular o direito de proibir um terceiro de exercer, na sua prática comercial, um direito anterior de âmbito local, se o mesmo for reconhecido pela legislação dessa Parte, e for utilizado dentro dos limites do território em que é reconhecido.
 
@@ -7301,21 +7310,21 @@ c) Da marca, sempre que tal seja necessário para indicar o fim a que se destina
 
 1 - Cada Parte prevê a possibilidade de uma marca ser extinta se, durante um período ininterrupto de cinco anos, não for objeto de utilização séria no território em causa para os produtos ou serviços para os quais foi registada e não houver motivos justificados para a sua não utilização. Uma Parte pode, contudo, estabelecer que ninguém pode requerer a extinção do registo de uma marca se, durante o intervalo entre o fim do prazo de cinco anos e a apresentação do pedido de extinção, tiver sido iniciada ou reatada uma utilização séria da marca. O início ou o reatamento da utilização nos três meses imediatamente anteriores à apresentação do pedido de extinção, contados a partir do fim do período ininterrupto de cinco anos de falta de utilização, não são tomados em consideração, contudo, se as diligências para o início ou reatamento da utilização só tiverem ocorrido depois de o titular tomar conhecimento de que poderia ser apresentado um pedido de extinção.
 
-2 - Uma marca pode igualmente ser extinta se, após a data do seu registo, por motivo de atividade ou inatividade do titular, se tiver transformado na designação comercial usual do produto ou serviço para que foi registada<sup>117</sup>.
+2 - Uma marca pode igualmente ser extinta se, após a data do seu registo, por motivo de atividade ou inatividade do titular, se tiver transformado na designação comercial usual do produto ou serviço para que foi registada117.
 
 ###### Artigo 32.26 — Pedidos apresentados de má-fé
 
 Se o pedido de registo de uma marca tiver sido formulado de má-fé pelo requerente, a marca é declarada nula. As Partes podem também prever que, em tais circunstâncias, a marca não possa ser registada.
 
-##### SUBSECÇÃO 3 — Desenhos e modelos<sup>118</sup>
+##### SUBSECÇÃO 3 — Desenhos e modelos118
 
 ###### Artigo 32.27 — Acordos internacionais
 
 Cada Parte envida todos os esforços razoáveis para aderir ao Ato de Genebra do Acordo da Haia relativo ao Registo Internacional de Desenhos e Modelos Industriais, adotado em Genebra em 2 de julho de 1999.
 
-###### Artigo 32.28 — Proteção de desenhos e modelos registados<sup>119</sup>
+###### Artigo 32.28 — Proteção de desenhos e modelos registados119
 
-1 - Cada Parte assegura a proteção dos desenhos e modelos criados de forma independente que sejam novos ou originais<sup>120</sup>. Essa proteção concretiza-se mediante registo, conferindo aos seus titulares direitos exclusivos nos termos do presente artigo.
+1 - Cada Parte assegura a proteção dos desenhos e modelos criados de forma independente que sejam novos ou originais120. Essa proteção concretiza-se mediante registo, conferindo aos seus titulares direitos exclusivos nos termos do presente artigo.
 
 2 - O titular de um desenho ou modelo protegido pode impedir terceiros agindo sem o seu consentimento de fabricarem, venderem, importarem ou exportarem produtos que ostentem ou incorporem o desenho ou modelo protegido, ou de utilizarem tais produtos, quando tais atos tenham fins comerciais, prejudicando indevidamente a exploração normal do desenho ou modelo, ou não sejam compatíveis com práticas de comércio leais.
 
@@ -7367,7 +7376,7 @@ Após ter examinado a legislação da outra Parte referida no anexo 32-A, assim 
 
 2 - Se uma alteração da lista de indicações geográficas que consta do anexo 32-C disser respeito a uma alteração menor quanto à ortografia de uma indicação geográfica ou a uma referência à denominação da área geográfica, aplica-se o procedimento a que se refere o artigo 32.40, n.º 4.
 
-3 - Qualquer adição ou alteração de uma indicação geográfica nos termos dos n.<sup>os</sup>1 ou 2 é realizada por acordo mútuo entre as Partes.
+3 - Qualquer adição ou alteração de uma indicação geográfica nos termos dos n.os1 ou 2 é realizada por acordo mútuo entre as Partes.
 
 ###### Artigo 32.35 — Âmbito de proteção das indicações geográficas
 
@@ -7397,11 +7406,11 @@ c) Qualquer utilização que constitua um ato de concorrência desleal na aceç�
 
 8 - Se a tradução de uma indicação geográfica for idêntica ou contiver termos, genéricos ou descritivos, incluindo substantivos ou adjetivos, à designação comum de um produto no território de uma Parte ou contiver um termo correntemente utilizado como designação comum de um produto nesse território, ou se uma indicação geográfica não for idêntica à designação comum mas contiver um termo correntemente utilizado como designação comum, o disposto na presente subsecção não prejudica o direito que assiste a qualquer pessoa de utilizar o termo em associação com esse produto.
 
-9 - A proteção prevista na presente subsecção não se aplica a uma componente individual de uma indicação geográfica composta enumerada no apêndice 32-C-1, se essa componente individual<sup>121</sup> for um termo na língua comum enquanto designação comum do produto a ela associado.
+9 - A proteção prevista na presente subsecção não se aplica a uma componente individual de uma indicação geográfica composta enumerada no apêndice 32-C-1, se essa componente individual121 for um termo na língua comum enquanto designação comum do produto a ela associado.
 
-10 - Nenhuma disposição da presente subsecção impede a utilização no território de uma Parte, no que respeita a qualquer produto, da designação corrente de uma variedade vegetal ou raça animal<sup>122</sup>.
+10 - Nenhuma disposição da presente subsecção impede a utilização no território de uma Parte, no que respeita a qualquer produto, da designação corrente de uma variedade vegetal ou raça animal122.
 
-11 - No que se refere ao aditamento por uma Parte de novas indicações geográficas nos termos do artigo 32.34, nada exige que uma Parte proteja uma indicação geográfica que seja idêntica ao termo habitualmente utilizado em linguagem corrente como designação comum do produto associado no território dessa Parte<sup>123</sup>.
+11 - No que se refere ao aditamento por uma Parte de novas indicações geográficas nos termos do artigo 32.34, nada exige que uma Parte proteja uma indicação geográfica que seja idêntica ao termo habitualmente utilizado em linguagem corrente como designação comum do produto associado no território dessa Parte123.
 
 ###### Artigo 32.36 — Direito de utilização de indicações geográficas
 
@@ -7415,7 +7424,7 @@ c) Qualquer utilização que constitua um ato de concorrência desleal na aceç�
 
 2 - As marcas registadas em violação do disposto no n.º 1 são anuladas, ex officio ou a pedido de qualquer parte interessada, em conformidade com a legislação e a prática das Partes.
 
-3 - No que respeita às indicações geográficas a que se refere o artigo 32.33, a data de apresentação do pedido de proteção a que se referem os n.<sup>os</sup>1 e 2 é 1 de novembro de 2022.
+3 - No que respeita às indicações geográficas a que se refere o artigo 32.33, a data de apresentação do pedido de proteção a que se referem os n.os1 e 2 é 1 de novembro de 2022.
 
 4 - No que respeita às indicações geográficas aditadas ao anexo 32-C nos termos do artigo 32.34, a data de apresentação do pedido de proteção é a data de transmissão do pedido à outra Parte para proteger uma indicação geográfica, sob reserva da conclusão com êxito do processo de alteração da lista de indicações geográficas protegidas a que se refere o artigo 32.34.
 
@@ -7479,15 +7488,15 @@ c) Outras questões de interesse mútuo em matéria de indicações geográficas
 
 ###### Artigo 32.42 — Acordos internacionais
 
-Cada Parte<sup>124</sup> cumpre o disposto no Tratado de Cooperação em matéria de Patentes, celebrado em Washington, em 19 de junho de 1970, alterado em 28 de setembro de 1979, com a última redação que lhe foi dada em 3 de outubro de 2001.
+Cada Parte124 cumpre o disposto no Tratado de Cooperação em matéria de Patentes, celebrado em Washington, em 19 de junho de 1970, alterado em 28 de setembro de 1979, com a última redação que lhe foi dada em 3 de outubro de 2001.
 
 ###### Artigo 32.43 — Proteção suplementar em caso de atraso na autorização de introdução no mercado de produtos farmacêuticos
 
 1 - As Partes reconhecem que os produtos farmacêuticos protegidos por uma patente nos respetivos territórios podem ser sujeitos a um processo de autorização de introdução no mercado ou aprovação sanitária antes de poderem ser comercializados.
 
-2 - Cada Parte cria um mecanismo adequado e eficaz que conceda um prazo de proteção suplementar para compensar o titular da patente pela redução do período de proteção efetiva da patente que possa resultar de atrasos injustificados<sup>125</sup> na concessão da primeira autorização de introdução no mercado no respetivo território. A duração do prazo de proteção suplementar não pode exceder cinco anos.
+2 - Cada Parte cria um mecanismo adequado e eficaz que conceda um prazo de proteção suplementar para compensar o titular da patente pela redução do período de proteção efetiva da patente que possa resultar de atrasos injustificados125 na concessão da primeira autorização de introdução no mercado no respetivo território. A duração do prazo de proteção suplementar não pode exceder cinco anos.
 
-3 - Sem prejuízo do disposto no n.º 2, as Partes preveem proteção suplementar, de acordo com as respetivas disposições legislativas e regulamentares, para os produtos protegidos por patentes que tenham sido sujeitos a um procedimento de autorização de introdução no mercado ou aprovação sanitária, de modo a compensar o titular da patente pela redução do prazo de proteção efetiva dessa patente. A duração do prazo de proteção suplementar não pode ser superior a cinco anos<sup>126</sup>.
+3 - Sem prejuízo do disposto no n.º 2, as Partes preveem proteção suplementar, de acordo com as respetivas disposições legislativas e regulamentares, para os produtos protegidos por patentes que tenham sido sujeitos a um procedimento de autorização de introdução no mercado ou aprovação sanitária, de modo a compensar o titular da patente pela redução do prazo de proteção efetiva dessa patente. A duração do prazo de proteção suplementar não pode ser superior a cinco anos126.
 
 4 - Para maior clareza no cumprimento das obrigações previstas no presente artigo, as Partes podem determinar condições e limitações, desde que continuem a observar o disposto no presente artigo.
 
@@ -7497,7 +7506,7 @@ Cada Parte<sup>124</sup> cumpre o disposto no Tratado de Cooperação em matéri
 
 ###### Artigo 32.44 — Âmbito da proteção em matéria de segredo comercial
 
-1 - Ao cumprir a obrigação de respeitar o Acordo TRIPS, nomeadamente o disposto no artigo 39.º, n.<sup>os</sup>1 e 2, as Partes devem prever procedimentos e vias de recurso judicial de natureza cível adequados para os titulares de segredo comercial impedirem a aquisição, utilização ou divulgação ilegais de um segredo comercial ou obterem reparação por tais aquisição, utilização ou divulgação ilegais, sempre que estas sejam contrárias às práticas comerciais honestas.
+1 - Ao cumprir a obrigação de respeitar o Acordo TRIPS, nomeadamente o disposto no artigo 39.º, n.os1 e 2, as Partes devem prever procedimentos e vias de recurso judicial de natureza cível adequados para os titulares de segredo comercial impedirem a aquisição, utilização ou divulgação ilegais de um segredo comercial ou obterem reparação por tais aquisição, utilização ou divulgação ilegais, sempre que estas sejam contrárias às práticas comerciais honestas.
 
 2 - Para efeitos da presente subsecção, entende-se por:
 
@@ -7621,7 +7630,7 @@ b) Todas as outras pessoas autorizadas a exercer esses direitos, nomeadamente os
 
 c) Organismos de gestão dos direitos coletivos de propriedade intelectual regularmente reconhecidos como tendo o direito de representar os titulares de direitos de propriedade intelectual, na medida do permitido pela legislação de cada Parte;
 
-d) Entidades<sup>127</sup> a que seja regularmente reconhecido o direito de representar os titulares de direitos de propriedade intelectual, na medida do permitido pela legislação aplicável de cada Parte e nos termos da mesma.
+d) Entidades127 a que seja regularmente reconhecido o direito de representar os titulares de direitos de propriedade intelectual, na medida do permitido pela legislação aplicável de cada Parte e nos termos da mesma.
 
 ###### Artigo 32.51 — Meios de prova
 
@@ -7665,9 +7674,9 @@ e) Regulem a proteção da confidencialidade das fontes de informação ou o tra
 
 ###### Artigo 32.53 — Medidas provisórias e cautelares
 
-1 - As Partes garantem que as respetivas autoridades judiciais podem, a pedido do requerente, decretar contra o alegado infrator uma medida inibitória destinada a prevenir a violação iminente de um direito de propriedade intelectual ou a proibir, a título provisório e eventualmente sujeita às sanções pecuniárias compulsórias eventualmente previstas na respetiva legislação, a continuação da alegada violação desse direito ou fazer depender essa continuação da constituição de garantias destinadas a assegurar a indemnização do titular do direito em causa. Pode igualmente ser decretada uma medida inibitória, nas mesmas condições se for caso disso, contra qualquer terceiro<sup>128</sup> em relação ao qual a autoridade judicial seja competente e cujos serviços sejam utilizados para infringir um direito de propriedade intelectual.
+1 - As Partes garantem que as respetivas autoridades judiciais podem, a pedido do requerente, decretar contra o alegado infrator uma medida inibitória destinada a prevenir a violação iminente de um direito de propriedade intelectual ou a proibir, a título provisório e eventualmente sujeita às sanções pecuniárias compulsórias eventualmente previstas na respetiva legislação, a continuação da alegada violação desse direito ou fazer depender essa continuação da constituição de garantias destinadas a assegurar a indemnização do titular do direito em causa. Pode igualmente ser decretada uma medida inibitória, nas mesmas condições se for caso disso, contra qualquer terceiro128 em relação ao qual a autoridade judicial seja competente e cujos serviços sejam utilizados para infringir um direito de propriedade intelectual.
 
-2 - As Partes garantem que as respetivas autoridades judiciais podem, a pedido do requerente, ordenar a apreensão ou entrega<sup>129</sup> de mercadorias que se suspeite violarem direitos de propriedade intelectual, a fim de impedir a sua entrada ou circulação nos circuitos comerciais.
+2 - As Partes garantem que as respetivas autoridades judiciais podem, a pedido do requerente, ordenar a apreensão ou entrega129 de mercadorias que se suspeite violarem direitos de propriedade intelectual, a fim de impedir a sua entrada ou circulação nos circuitos comerciais.
 
 3 - Em caso de alegadas infrações à escala comercial, as Partes asseguram que as autoridades judiciais competentes podem ordenar, se o requerente provar a existência de circunstâncias suscetíveis de comprometer a cobrança de indemnizações por perdas e danos, a apreensão preventiva de bens móveis ou imóveis do alegado infrator, incluindo o arresto das suas contas bancárias e de outros bens. Para esse efeito, as autoridades competentes podem ordenar a transmissão de documentos bancários, financeiros ou comerciais, ou o acesso às informações pertinentes.
 
@@ -7681,7 +7690,7 @@ e) Regulem a proteção da confidencialidade das fontes de informação ou o tra
 
 ###### Artigo 32.55 — Medidas inibitórias
 
-As Partes garantem que, quando seja tomada uma decisão judicial que constate uma violação de um direito de propriedade intelectual, as autoridades judiciais competentes possam impor ao infrator e a um eventual terceiro<sup>130</sup> em relação ao qual a autoridade judicial seja competente e cujos serviços sejam utilizados para violar um direito de propriedade intelectual, uma medida inibitória que impeça a continuação dessa violação.
+As Partes garantem que, quando seja tomada uma decisão judicial que constate uma violação de um direito de propriedade intelectual, as autoridades judiciais competentes possam impor ao infrator e a um eventual terceiro130 em relação ao qual a autoridade judicial seja competente e cujos serviços sejam utilizados para violar um direito de propriedade intelectual, uma medida inibitória que impeça a continuação dessa violação.
 
 ###### Artigo 32.56 — Medidas alternativas
 
@@ -7691,7 +7700,7 @@ As Partes podem prever que, em determinados casos, e a pedido da pessoa sujeita 
 
 1 - As Partes garantem que, a pedido da parte lesada, as autoridades judiciais competentes ordenem ao infrator que, tendo conhecimento de causa ou presumindo-se que o tenha, desenvolveu uma atividade ilícita, pague ao titular do direito uma indemnização por perdas e danos que permita compensar o prejuízo sofrido por este último em resultado da infração.
 
-2 - Para determinar o montante das indemnizações a conceder nos termos do n.º 1, as autoridades judiciais devem ter poderes para apreciar, entre outras medidas, qualquer medida legítima de valor requerida pelo titular do direito, que pode incluir os lucros cessantes, o valor das mercadorias ou serviços objeto da infração, medido em função do preço de mercado, ou o preço de venda a retalho recomendado<sup>131</sup>. Pelo menos nos casos de infração dos direitos de autor ou direitos conexos e de contrafação de marcas, cada Parte deve assegurar que, nos processos cíveis, as respetivas autoridades judiciais têm poderes para ordenar que o infrator pague ao titular do direito a parte dos lucros que o dito infrator tenha recebido em virtude da infração, quer em alternativa à indemnização por perdas e danos, quer em complemento ou como parte da mesma.
+2 - Para determinar o montante das indemnizações a conceder nos termos do n.º 1, as autoridades judiciais devem ter poderes para apreciar, entre outras medidas, qualquer medida legítima de valor requerida pelo titular do direito, que pode incluir os lucros cessantes, o valor das mercadorias ou serviços objeto da infração, medido em função do preço de mercado, ou o preço de venda a retalho recomendado131. Pelo menos nos casos de infração dos direitos de autor ou direitos conexos e de contrafação de marcas, cada Parte deve assegurar que, nos processos cíveis, as respetivas autoridades judiciais têm poderes para ordenar que o infrator pague ao titular do direito a parte dos lucros que o dito infrator tenha recebido em virtude da infração, quer em alternativa à indemnização por perdas e danos, quer em complemento ou como parte da mesma.
 
 3 - Em alternativa ao disposto no n.º 2, cada Parte pode, se for caso disso, prever que as suas autoridades judiciais tenham poderes para, em determinados casos, estabelecer a indemnização por perdas e danos como uma quantia fixa, com base em elementos como, no mínimo, o montante das remunerações ou direitos que teriam sido auferidos se o infrator tivesse solicitado autorização para utilizar o direito de propriedade intelectual em causa.
 
@@ -7809,7 +7818,7 @@ O Subcomité da Propriedade Intelectual («Subcomité»), criado nos termos do a
 
 2 - As Partes reconhecem que o desenvolvimento sustentável engloba o desenvolvimento económico, o desenvolvimento social e a proteção do ambiente, que são interdependentes e se reforçam mutuamente, em prol do bem-estar das gerações presentes e futuras.
 
-3 - Atendendo ao acima exposto, o objetivo do presente capítulo é promover o desenvolvimento do comércio e do investimento entre as Partes, de modo a contribuir para o desenvolvimento sustentável, nomeadamente quanto aos aspetos laborais<sup>132</sup> e ambientais pertinentes para as trocas comerciais e o investimento.
+3 - Atendendo ao acima exposto, o objetivo do presente capítulo é promover o desenvolvimento do comércio e do investimento entre as Partes, de modo a contribuir para o desenvolvimento sustentável, nomeadamente quanto aos aspetos laborais132 e ambientais pertinentes para as trocas comerciais e o investimento.
 
 4 - O presente capítulo incorpora uma abordagem de cooperação assente nos valores e interesses comuns.
 
@@ -7997,15 +8006,15 @@ c) O acesso aos recursos genéticos e a partilha justa e equitativa dos benefíc
 
 2 - Ao conceberem e aplicarem medidas de conservação e de gestão, as Partes têm em conta preocupações sociais, comerciais, ambientais e de desenvolvimento, bem como a importância da pesca artesanal ou de pequena escala para os meios de subsistência das comunidades piscatórias locais.
 
-3 - As Partes reconhecem que a pesca ilegal, não declarada e não regulamentada (pesca INN)<sup>133</sup> pode ter impactos negativos significativos nas unidades populacionais de peixe, na sustentabilidade do comércio de produtos da pesca, e no desenvolvimento e no ambiente, e confirmam a necessidade de medidas para resolver os problemas da sobrepesca e da exploração insustentável dos recursos haliêuticos.
+3 - As Partes reconhecem que a pesca ilegal, não declarada e não regulamentada (pesca INN)133 pode ter impactos negativos significativos nas unidades populacionais de peixe, na sustentabilidade do comércio de produtos da pesca, e no desenvolvimento e no ambiente, e confirmam a necessidade de medidas para resolver os problemas da sobrepesca e da exploração insustentável dos recursos haliêuticos.
 
-4 - Atendendo ao disposto nos n.<sup>os</sup>1, 2 e 3 do presente artigo, cada Parte deve:
+4 - Atendendo ao disposto nos n.os1, 2 e 3 do presente artigo, cada Parte deve:
 
 a) Aplicar e agir em conformidade com os princípios da Convenção das Nações Unidas sobre o Direito do Mar, celebrada em Montego Bay, em 10 de dezembro de 1982, do Acordo das Nações Unidas relativo à aplicação das disposições da Convenção das Nações Unidas sobre o Direito do Mar, de 10 de dezembro de 1982, respeitantes à Conservação e à Gestão das Populações de Peixes Transzonais e das Populações de Peixes Altamente Migradores, adotado em Nova Iorque, em 4 de agosto de 1995, da Organização das Nações Unidas para a Alimentação e a Agricultura (FAO), o Acordo para a Promoção do Cumprimento das Medidas Internacionais de Conservação e de Gestão pelos Navios de Pesca no Alto Mar, adotado em Roma, em 24 de novembro de 1993, o Código de Conduta para uma Pesca Responsável da FAO, adotado na Resolução 4/95, de 31 de outubro de 1995, e o Acordo da FAO sobre medidas dos Estados do porto destinadas a prevenir, impedir e eliminar a pesca ilegal, não declarada e não regulamentada, aprovado em Roma, em 22 de novembro de 2009;
 
 b) Participar na iniciativa da FAO relativa ao registo mundial dos navios de pesca, dos navios de transporte refrigerado e dos navios de abastecimento;
 
-c) Procurar aplicar um sistema de gestão das pescas assente nos melhores dados científicos disponíveis e nas melhores práticas internacionalmente reconhecidas em matéria de gestão e conservação das pescas, tal como refletido nas disposições pertinentes dos instrumentos internacionais destinados a assegurar a utilização sustentável e a conservação das espécies marinhas<sup>134</sup>, e concebido nomeadamente para:
+c) Procurar aplicar um sistema de gestão das pescas assente nos melhores dados científicos disponíveis e nas melhores práticas internacionalmente reconhecidas em matéria de gestão e conservação das pescas, tal como refletido nas disposições pertinentes dos instrumentos internacionais destinados a assegurar a utilização sustentável e a conservação das espécies marinhas134, e concebido nomeadamente para:
 
 i) Impedir a sobrepesca e a sobrecapacidade;
 
@@ -8125,7 +8134,7 @@ k) A elaboração de estatísticas laborais.
 
 1 - O Subcomité de Comércio e Desenvolvimento Sustentável («Subcomité»), criado nos termos do artigo 8.8, n.º 1, é constituído, no que respeita ao Chile, por funcionários das instituições responsáveis pelo comércio, trabalho, ambiente e questões de género.
 
-2 - O Subcomité organiza sessões específicas sobre questões ambientais e laborais<sup>135</sup>, respetivamente, bem como sobre questões transversais relacionadas com o comércio e o desenvolvimento sustentável.
+2 - O Subcomité organiza sessões específicas sobre questões ambientais e laborais135, respetivamente, bem como sobre questões transversais relacionadas com o comércio e o desenvolvimento sustentável.
 
 3 - Incumbe ao Subcomité:
 
@@ -8207,7 +8216,7 @@ c) Uma sublista de pessoas que não sejam nacionais de qualquer das Partes e que
 
 5 - As pessoas a que se refere o n.º 3 devem possuir conhecimentos especializados ou experiência em direito do trabalho ou do ambiente, nas questões abordadas no presente capítulo, ou na resolução de litígios decorrentes de acordos internacionais. Devem ser independentes, agir a título pessoal, não aceitar instruções de qualquer organização ou governo quanto a aspetos relacionados com o diferendo, nem estar ligados ao governo de qualquer das Partes, e respeitar o Código de Conduta que consta do anexo 38-B.
 
-6 - Quando o painel de peritos for constituído de acordo com os procedimentos estabelecidos no artigo 38.6, n.<sup>os</sup>3, 4 e 6, os peritos são selecionados a partir das sublistas pertinentes a que se refere o n.º 3 do presente artigo.
+6 - Quando o painel de peritos for constituído de acordo com os procedimentos estabelecidos no artigo 38.6, n.os3, 4 e 6, os peritos são selecionados a partir das sublistas pertinentes a que se refere o n.º 3 do presente artigo.
 
 7 - Salvo acordo das Partes em contrário, no prazo de cinco dias a contar da data da constituição do painel de peritos, o mandato do painel de peritos é o seguinte: «examinar, à luz das disposições pertinentes do capítulo 33 do Acordo-Quadro Avançado entre a União Europeia e os seus Estados-Membros, por um lado, e a República do Chile, por outro, a questão referida no pedido de constituição do painel de peritos, e elaborar um relatório, em conformidade com o artigo 33.23, do referido Acordo, com as suas conclusões e recomendações para a resolução da questão».
 
@@ -8347,13 +8356,13 @@ n) Outras questões acordadas pelas Partes.
 
 ###### Artigo 34.5 — Disposições institucionais
 
-1 - Incumbe ao Subcomité do Comércio e Desenvolvimento Sustentável criado nos termos do artigo 8.8, n.º 1, velar pela aplicação do presente capítulo. O artigo 33.19 é aplicável, com as devidas adaptações, ao presente capítulo<sup>136</sup>.
+1 - Incumbe ao Subcomité do Comércio e Desenvolvimento Sustentável criado nos termos do artigo 8.8, n.º 1, velar pela aplicação do presente capítulo. O artigo 33.19 é aplicável, com as devidas adaptações, ao presente capítulo136.
 
 2 - Ao interagirem com a sociedade civil no âmbito dos grupos consultivos internos criados ou designados nos termos do artigo 40.6 ou do Fórum da Sociedade Civil organizado nos termos do artigo 40.7, as Partes incentivam a participação das organizações que promovem a igualdade entre homens e mulheres.
 
 ###### Artigo 34.6 — Resolução de litígios
 
-Os artigos 33.20, 33.21 e 33.22 são aplicáveis, com as devidas adaptações, ao presente capítulo<sup>137</sup>.
+Os artigos 33.20, 33.21 e 33.22 são aplicáveis, com as devidas adaptações, ao presente capítulo137.
 
 ###### Artigo 34.7 — Reexame
 
@@ -8467,7 +8476,7 @@ A) Regulamentos e diretivas, tal como previsto no artigo 288.º do Tratado sobre
 
 B) Atos delegados e atos de execução, como previsto nos artigos 290.º e 291.º do Tratado sobre o Funcionamento da União Europeia, respetivamente; e
 
-ii) No que respeita ao Chile: leis e decretos de aplicação geral adotados pelas entidades reguladoras cujo cumprimento seja obrigatório<sup>138</sup>.
+ii) No que respeita ao Chile: leis e decretos de aplicação geral adotados pelas entidades reguladoras cujo cumprimento seja obrigatório138.
 
 ###### Artigo 36.4 — Coordenação interna da elaboração de regulamentação
 
@@ -8487,7 +8496,7 @@ Cada Parte divulga ao público, em conformidade com as respetivas regras e proce
 
 ###### Artigo 36.6 — Informação antecipada sobre as medidas regulamentares previstas
 
-1 - Cada Parte envida esforços para publicar anualmente, em conformidade com as respetivas regras e procedimentos, informações sobre as principais medidas<sup>139</sup> regulamentares previstas.
+1 - Cada Parte envida esforços para publicar anualmente, em conformidade com as respetivas regras e procedimentos, informações sobre as principais medidas139 regulamentares previstas.
 
 2 - No que diz respeito a cada uma das principais medidas regulamentares a que se refere o n.º 1, cada Parte procura disponibilizar ao público em tempo útil:
 
@@ -8499,7 +8508,7 @@ b) Se possível, o calendário previsto para a sua adoção, incluindo eventuais
 
 1 - Quando elaborar uma medida regulamentar principal, em conformidade com as respetivas regras e procedimentos, cada Parte:
 
-a) Publica o projeto de medida regulamentar ou documentos de consulta que forneçam informações suficientemente detalhadas sobre cada medida regulamentar em elaboração, para que qualquer pessoa<sup>140</sup> possa avaliar se e de que forma os seus interesses podem ser consideravelmente afetados;
+a) Publica o projeto de medida regulamentar ou documentos de consulta que forneçam informações suficientemente detalhadas sobre cada medida regulamentar em elaboração, para que qualquer pessoa140 possa avaliar se e de que forma os seus interesses podem ser consideravelmente afetados;
 
 b) Proporciona a todas as pessoas, sem discriminação, oportunidades razoáveis para formular observações; e
 
@@ -8609,11 +8618,11 @@ i) Informações necessárias para os procedimentos de importação; e
 
 j) Informações relacionadas com disposições regulamentares ou medidas não pautais.
 
-5 - Cada Parte atualiza, periodicamente ou quando solicitado pela outra Parte, as informações e as hiperligações a que se referem os n.<sup>os</sup>1 a 4 mantidas no seu sítio web, a fim de assegurar que estão atualizadas e são rigorosas.
+5 - Cada Parte atualiza, periodicamente ou quando solicitado pela outra Parte, as informações e as hiperligações a que se referem os n.os1 a 4 mantidas no seu sítio web, a fim de assegurar que estão atualizadas e são rigorosas.
 
 6 - As Partes asseguram que as informações referidas no presente artigo são apresentadas de uma forma que permita a sua fácil utilização pelas PME. As Partes envidam esforços para disponibilizar essas informações em inglês.
 
-7 - As Partes não podem aplicar taxas pelo acesso às informações prestadas nos termos dos n.<sup>os</sup>1 a 4 a qualquer pessoa de uma das Partes.
+7 - As Partes não podem aplicar taxas pelo acesso às informações prestadas nos termos dos n.os1 a 4 a qualquer pessoa de uma das Partes.
 
 ###### Artigo 37.3 — Pontos de contacto para as PME
 
@@ -8685,7 +8694,7 @@ e) «Parte requerida», a Parte que alegadamente viola uma disposição abrangid
 
 6 - As consultas, e, em especial, todas as informações classificadas como confidenciais e as posições tomadas por uma Parte no decurso das mesmas, são confidenciais e não prejudicam os direitos de cada Parte em procedimentos ulteriores.
 
-7 - Se a Parte à qual o pedido de consultas é apresentado não responder no prazo de dez dias a contar da data da sua receção, se as consultas não se realizarem dentro dos prazos previstos nos n.<sup>os</sup>3 ou 4, se as Partes decidirem não realizar consultas, ou se estas forem concluídas sem que tenha sido alcançada uma solução por mútuo acordo, a Parte que solicitou as consultas pode recorrer ao procedimento previsto no artigo 38.5.
+7 - Se a Parte à qual o pedido de consultas é apresentado não responder no prazo de dez dias a contar da data da sua receção, se as consultas não se realizarem dentro dos prazos previstos nos n.os3 ou 4, se as Partes decidirem não realizar consultas, ou se estas forem concluídas sem que tenha sido alcançada uma solução por mútuo acordo, a Parte que solicitou as consultas pode recorrer ao procedimento previsto no artigo 38.5.
 
 #### SECÇÃO C — PROCEDIMENTO DE PAINEL
 
@@ -8707,7 +8716,7 @@ e) «Parte requerida», a Parte que alegadamente viola uma disposição abrangid
 
 5 - O painel considera-se constituído 15 dias após a data em que os três membros do painel selecionados tiverem notificado as Partes da sua aceitação da nomeação em conformidade com o anexo 38-A, salvo acordo das Partes em contrário. Cada Parte publica prontamente a data de constituição do painel.
 
-6 - Caso não tenha sido elaborada nenhuma das listas previstas no artigo 38.8 ou a mesma não contenha um número de nomes suficiente no momento em que é apresentado um pedido nos termos dos n.<sup>os</sup>3 ou 4, os membros do painel são selecionados por sorteio de entre as pessoas formalmente propostas por ambas as Partes ou por uma das Partes em conformidade com o anexo 38-A.
+6 - Caso não tenha sido elaborada nenhuma das listas previstas no artigo 38.8 ou a mesma não contenha um número de nomes suficiente no momento em que é apresentado um pedido nos termos dos n.os3 ou 4, os membros do painel são selecionados por sorteio de entre as pessoas formalmente propostas por ambas as Partes ou por uma das Partes em conformidade com o anexo 38-A.
 
 ###### Artigo 38.7 — Escolha da instância competente
 
@@ -9035,11 +9044,11 @@ O Conselho Conjunto pode adotar uma decisão de alteração dos anexos 38-A e 38
 
 ###### Artigo 39.1 — Exceções gerais
 
-1 - Para efeitos dos capítulos 9, 11, 15, 26 e 29 e da secção B do capítulo 17<sup>141</sup> do presente Acordo, o artigo xx do GATT de 1994, incluindo as suas notas e disposições suplementares, é incorporado, com as devidas adaptações, no presente Acordo, fazendo dele parte integrante.
+1 - Para efeitos dos capítulos 9, 11, 15, 26 e 29 e da secção B do capítulo 17141 do presente Acordo, o artigo xx do GATT de 1994, incluindo as suas notas e disposições suplementares, é incorporado, com as devidas adaptações, no presente Acordo, fazendo dele parte integrante.
 
-2 - Desde que essas medidas não sejam aplicadas de um modo que constitua um meio de discriminação arbitrária ou injustificável entre países em que prevaleçam condições semelhantes, ou uma restrição dissimulada à liberalização do investimento ou ao comércio de serviços, nenhuma disposição do capítulo 15, dos capítulos 18 a 27<sup>142</sup>, do capítulo 29 ou da secção B do capítulo 17<sup>143</sup> do Acordo pode ser interpretada no sentido de impedir uma Parte de adotar ou aplicar medidas:
+2 - Desde que essas medidas não sejam aplicadas de um modo que constitua um meio de discriminação arbitrária ou injustificável entre países em que prevaleçam condições semelhantes, ou uma restrição dissimulada à liberalização do investimento ou ao comércio de serviços, nenhuma disposição do capítulo 15, dos capítulos 18 a 27142, do capítulo 29 ou da secção B do capítulo 17143 do Acordo pode ser interpretada no sentido de impedir uma Parte de adotar ou aplicar medidas:
 
-a) Necessárias para garantir a proteção da segurança pública ou da moralidade pública, ou para manter a ordem pública;<sup>144</sup>
+a) Necessárias para garantir a proteção da segurança pública ou da moralidade pública, ou para manter a ordem pública;144
 
 b) Necessárias para proteger a saúde ou a vida humana, animal ou vegetal;
 
@@ -9051,7 +9060,7 @@ ii) À proteção da privacidade em relação ao tratamento e à divulgação de
 
 iii) À segurança.
 
-3 - Para maior clareza, as Partes entendem que, na medida em que tais medidas sejam incompatíveis com as disposições dos capítulos da presente parte do presente Acordo referidas nos n.<sup>os</sup>1 e 2 do presente artigo:
+3 - Para maior clareza, as Partes entendem que, na medida em que tais medidas sejam incompatíveis com as disposições dos capítulos da presente parte do presente Acordo referidas nos n.os1 e 2 do presente artigo:
 
 a) As medidas a que se refere o artigo xx, alínea b), do GATT de 1994 e o n.º 2, alínea b), do presente artigo incluem medidas ambientais necessárias para proteger a saúde e a vida dos seres humanos, dos animais e das plantas;
 
@@ -9097,7 +9106,7 @@ b) Se destine a prevenir a fraude ou a evasão fiscais ao abrigo de uma convenç
 
 Se uma das obrigações impostas pela presente parte do presente Acordo for substancialmente equivalente a uma obrigação que conste do Acordo OMC, considera-se que qualquer medida adotada em conformidade com uma derrogação adotada nos termos do artigo ix do Acordo OMC é conforme com a obrigação substantivamente equivalente da presente parte do presente Acordo.
 
-# PARTE IV — ENQUADRAMENTO INSTITUCIONAL GERAL
+## PARTE IV — ENQUADRAMENTO INSTITUCIONAL GERAL
 
 ### CAPÍTULO 40 — ENQUADRAMENTO INSTITUCIONAL
 
@@ -9213,11 +9222,11 @@ b) «Partes», a Parte UE e o Chile.
 
 a) No que diz respeito à Parte UE, aos territórios em que são aplicáveis o Tratado da União Europeia e o Tratado sobre o Funcionamento da União Europeia, nas condições neles previstas; e
 
-b) No que diz respeito ao Chile, ao espaço terrestre, marítimo e aéreo sob a sua soberania, à zona económica exclusiva e à plataforma continental em que exerce direitos soberanos e jurisdição em conformidade com o direito internacional<sup>145</sup> e o direito do Chile<sup>146</sup>.
+b) No que diz respeito ao Chile, ao espaço terrestre, marítimo e aéreo sob a sua soberania, à zona económica exclusiva e à plataforma continental em que exerce direitos soberanos e jurisdição em conformidade com o direito internacional145 e o direito do Chile146.
 
 As referências no presente Acordo a «território» devem ser entendidas em conformidade com o presente número, salvo disposição expressa em contrário no presente Acordo.
 
-2 - No que diz respeito às disposições relativas ao tratamento pautal das mercadorias, incluindo as regras de origem e a suspensão temporária desse tratamento, o presente Acordo aplica-se igualmente às zonas do território aduaneiro da União Europeia, na aceção do artigo 4.º do Regulamento (UE) n.º 952/2013 do Parlamento Europeu e do Conselho<sup>147</sup> que não são abrangidas pelo n.º 1, alínea a), do presente artigo.
+2 - No que diz respeito às disposições relativas ao tratamento pautal das mercadorias, incluindo as regras de origem e a suspensão temporária desse tratamento, o presente Acordo aplica-se igualmente às zonas do território aduaneiro da União Europeia, na aceção do artigo 4.º do Regulamento (UE) n.º 952/2013 do Parlamento Europeu e do Conselho147 que não são abrangidas pelo n.º 1, alínea a), do presente artigo.
 
 ###### Artigo 41.3 — Cumprimento das obrigações
 
@@ -9227,9 +9236,9 @@ As referências no presente Acordo a «território» devem ser entendidas em con
 
 3 - Se uma das Partes considerar que a outra Parte não cumpriu qualquer das obrigações descritas como elementos essenciais nos artigos 1.2, n.º 2, ou 2.2, n.º 1, pode tomar as medidas adequadas. Para efeitos do presente número, as «medidas adequadas» podem incluir a suspensão, total ou parcial, do presente Acordo.
 
-4 - Se uma das Partes considerar que a outra Parte não cumpriu qualquer das obrigações que lhe incumbem por força do presente Acordo, com exceção das abrangidas pelo âmbito de aplicação dos n.<sup>os</sup>2 e 3 do presente artigo, notifica desse facto a outra Parte. As Partes procedem a consultas no âmbito do Conselho Conjunto, a fim de encontrar uma solução mutuamente aceitável. O Conselho Conjunto procura alcançar uma solução mutuamente aceitável o mais rapidamente possível. Se o Conselho Conjunto não alcançar uma solução mutuamente aceitável no prazo de 60 dias a contar da data da notificação, a Parte notificante pode tomar as medidas adequadas. Para efeitos do presente número, as medidas adequadas podem incluir a suspensão unicamente das partes i, ii e iv do presente Acordo.
+4 - Se uma das Partes considerar que a outra Parte não cumpriu qualquer das obrigações que lhe incumbem por força do presente Acordo, com exceção das abrangidas pelo âmbito de aplicação dos n.os2 e 3 do presente artigo, notifica desse facto a outra Parte. As Partes procedem a consultas no âmbito do Conselho Conjunto, a fim de encontrar uma solução mutuamente aceitável. O Conselho Conjunto procura alcançar uma solução mutuamente aceitável o mais rapidamente possível. Se o Conselho Conjunto não alcançar uma solução mutuamente aceitável no prazo de 60 dias a contar da data da notificação, a Parte notificante pode tomar as medidas adequadas. Para efeitos do presente número, as medidas adequadas podem incluir a suspensão unicamente das partes i, ii e iv do presente Acordo.
 
-5 - As medidas adequadas a que se referem os n.<sup>os</sup>3 e 4 do presente artigo devem ser adotadas no pleno respeito pelo direito internacional e ser proporcionadas ao incumprimento das obrigações previstas no presente Acordo. Deve ser dada prioridade às medidas que menos perturbem o funcionamento do presente Acordo.
+5 - As medidas adequadas a que se referem os n.os3 e 4 do presente artigo devem ser adotadas no pleno respeito pelo direito internacional e ser proporcionadas ao incumprimento das obrigações previstas no presente Acordo. Deve ser dada prioridade às medidas que menos perturbem o funcionamento do presente Acordo.
 
 ###### Artigo 41.4 — Exceções por razões de segurança
 
@@ -9261,7 +9270,7 @@ c) Impedir que uma Parte tome medidas para dar cumprimento às obrigações que 
 
 5 - Durante a aplicação provisória do presente Acordo, o Conselho Conjunto e os outros órgãos criados ao seu abrigo podem exercer as suas funções em relação às disposições objeto de aplicação provisória. As decisões adotadas no exercício dessas funções deixam de produzir efeitos a partir da data em que cesse a aplicação provisória do presente Acordo nos termos do n.º 4. Os efeitos produzidos por decisões devidamente executadas antes dessa data não são afetados.
 
-6 - Se, nos termos dos n.<sup>os</sup>2 e 3, uma disposição do presente Acordo for aplicada a título provisório na pendência da entrada em vigor do presente Acordo, considera-se que qualquer referência nessa disposição à data de entrada em vigor do presente Acordo se refere à data a partir da qual as Partes aplicam essa disposição no termos do n.º 3.
+6 - Se, nos termos dos n.os2 e 3, uma disposição do presente Acordo for aplicada a título provisório na pendência da entrada em vigor do presente Acordo, considera-se que qualquer referência nessa disposição à data de entrada em vigor do presente Acordo se refere à data a partir da qual as Partes aplicam essa disposição no termos do n.º 3.
 
 7 - As notificações efetuadas nos termos do presente artigo são enviadas, no caso da Parte UE, ao Secretariado-Geral do Conselho da União Europeia e, no caso do Chile, ao Ministério dos Negócios Estrangeiros.
 
@@ -9303,7 +9312,7 @@ d) O resultado vinculativo de qualquer procedimento de resolução de litígios 
 
 11 - Os prazos processuais total ou parcialmente decorridos ao abrigo do Acordo de Comércio Provisório são tidos em conta no cálculo dos prazos processuais previstos nas disposições equivalentes do presente Acordo.
 
-12 - O Acordo sobre o Comércio de Vinhos que consta do anexo v do Acordo de Associação («Acordo sobre os Vinhos») e o Acordo sobre o Comércio de Bebidas Espirituosas e Bebidas Aromatizadas que consta do anexo vi do Acordo de Associação («Acordo sobre as Bebidas Espirituosas»)<sup>148</sup>, incluindo todos os respetivos apêndices, são incorporados no presente Acordo, com as devidas adaptações, e dele fazem integrante, do seguinte modo:
+12 - O Acordo sobre o Comércio de Vinhos que consta do anexo v do Acordo de Associação («Acordo sobre os Vinhos») e o Acordo sobre o Comércio de Bebidas Espirituosas e Bebidas Aromatizadas que consta do anexo vi do Acordo de Associação («Acordo sobre as Bebidas Espirituosas»)148, incluindo todos os respetivos apêndices, são incorporados no presente Acordo, com as devidas adaptações, e dele fazem integrante, do seguinte modo:
 
 a) As referências constantes do Acordo sobre os Vinhos e do Acordo sobre as Bebidas Espirituosas ao mecanismo de resolução de litígios referido na parte iv do Acordo de Associação e ao código de conduta referido no anexo xvi do Acordo de Associação são entendidas como sendo feitas ao mecanismo de resolução de litígios previsto no capítulo 38 e ao código de conduta previsto no anexo 38-B, respetivamente, do presente Acordo;
 
@@ -9321,7 +9330,7 @@ g) O Acordo sobre os Vinhos e o Acordo sobre as Bebidas Espirituosas, tal como i
 
 13 - Qualquer decisão adotada no âmbito do quadro institucional do Acordo de Associação relativamente ao Acordo sobre os Vinhos ou ao Acordo sobre as Bebidas Espirituosas que se encontre em vigor à data da entrada em vigor do presente Acordo é entendida como tendo sido adotada pelo Comité Conjunto instituído nos termos do artigo 40.2 do presente Acordo, deliberando na sua configuração Comércio.
 
-14 - As Partes podem alterar os apêndices do Acordo sobre os Vinhos e do Acordo sobre as Bebidas Espirituosas, tal como incorporados, mediante troca de cartas<sup>149</sup>.
+14 - As Partes podem alterar os apêndices do Acordo sobre os Vinhos e do Acordo sobre as Bebidas Espirituosas, tal como incorporados, mediante troca de cartas149.
 
 ###### Artigo 41.8 — Anexos, apêndices, protocolos, notas e notas de rodapé
 
@@ -9365,83 +9374,83 @@ Não obstante o disposto no artigo 41.12, qualquer das Partes pode notificar a o
 
 O presente Acordo é redigido em duplo exemplar nas línguas alemã, búlgara, checa, croata, dinamarquesa, eslovaca, eslovena, espanhola, estónia, finlandesa, francesa, grega, húngara, inglesa, irlandesa, italiana, letã, lituana, maltesa, neerlandesa, polaca, portuguesa, romena e sueca, fazendo igualmente fé todas as versões.
 
-<sup>1</sup>Na medida em que as matérias abrangidas pelo presente artigo sejam igualmente abrangidas pelo disposto no capítulo 14, a cooperação referida no presente artigo será regida de acordo com esse capítulo.
+1Na medida em que as matérias abrangidas pelo presente artigo sejam igualmente abrangidas pelo disposto no capítulo 14, a cooperação referida no presente artigo será regida de acordo com esse capítulo.
 
-<sup>2</sup>Para maior clareza, o termo «medida» inclui as omissões de uma Parte em tomar as medidas necessárias para cumprir as obrigações que lhe incumbem por força do presente Acordo.
+2Para maior clareza, o termo «medida» inclui as omissões de uma Parte em tomar as medidas necessárias para cumprir as obrigações que lhe incumbem por força do presente Acordo.
 
-<sup>3</sup>Para maior clareza, as obrigações de uma Parte ao abrigo do presente Acordo aplicam-se a uma empresa estatal ou a outra pessoa quando esta exerça poderes regulamentares ou administrativos ou outros poderes públicos que lhe tenham sido delegados por essa Parte, como o poder de expropriar, emitir licenças, aprovar transações comerciais ou impor quotas, taxas ou outros encargos.
+3Para maior clareza, as obrigações de uma Parte ao abrigo do presente Acordo aplicam-se a uma empresa estatal ou a outra pessoa quando esta exerça poderes regulamentares ou administrativos ou outros poderes públicos que lhe tenham sido delegados por essa Parte, como o poder de expropriar, emitir licenças, aprovar transações comerciais ou impor quotas, taxas ou outros encargos.
 
-<sup>4</sup>Para maior clareza, se uma Parte alegar que uma entidade atua como referido na subalínea iii), incumbe a essa Parte o ónus da prova e deve, pelo menos, fornecer indícios sólidos.
+4Para maior clareza, se uma Parte alegar que uma entidade atua como referido na subalínea iii), incumbe a essa Parte o ónus da prova e deve, pelo menos, fornecer indícios sólidos.
 
-<sup>5</sup>Para efeitos dos capítulos 17 a 27, a definição de «pessoa singular» inclui também as pessoas singulares com residência permanente na República da Letónia que não sejam cidadãos da República da Letónia nem de qualquer outro Estado mas que tenham direito, ao abrigo da legislação da República da Letónia, a um passaporte de «não-cidadão».
+5Para efeitos dos capítulos 17 a 27, a definição de «pessoa singular» inclui também as pessoas singulares com residência permanente na República da Letónia que não sejam cidadãos da República da Letónia nem de qualquer outro Estado mas que tenham direito, ao abrigo da legislação da República da Letónia, a um passaporte de «não-cidadão».
 
-<sup>6</sup>Para maior clareza, o Chile aplicará todas as decisões adotadas pelo Conselho Conjunto, deliberando na sua configuração Comércio, através de acuerdos de ejecución (acordos de execução), em conformidade com a legislação chilena.
+6Para maior clareza, o Chile aplicará todas as decisões adotadas pelo Conselho Conjunto, deliberando na sua configuração Comércio, através de acuerdos de ejecución (acordos de execução), em conformidade com a legislação chilena.
 
-<sup>7</sup>Para maior clareza, o Chile aplicará todas as decisões adotadas pelo Comité Conjunto, deliberando na sua configuração Comércio, através de acuerdos de ejecución (acordos de execução), em conformidade com a legislação chilena.
+7Para maior clareza, o Chile aplicará todas as decisões adotadas pelo Comité Conjunto, deliberando na sua configuração Comércio, através de acuerdos de ejecución (acordos de execução), em conformidade com a legislação chilena.
 
-<sup>8</sup>Na Parte UE, o regime de aperfeiçoamento ativo previsto no Regulamento (UE) n.º 952/2013 do Parlamento Europeu e do Conselho, de 9 de outubro de 2013, que estabelece o Código Aduaneiro da União (JO L 269 de 10.10.2013, p. 1). é utilizado para efeitos do presente número.
+8Na Parte UE, o regime de aperfeiçoamento ativo previsto no Regulamento (UE) n.º 952/2013 do Parlamento Europeu e do Conselho, de 9 de outubro de 2013, que estabelece o Código Aduaneiro da União (JO L 269 de 10.10.2013, p. 1). é utilizado para efeitos do presente número.
 
-<sup>9</sup>Para referência, o termo «país terceiro» é definido no artigo 1.3, alínea c).
+9Para referência, o termo «país terceiro» é definido no artigo 1.3, alínea c).
 
-<sup>10</sup>Capítulos 1 a 24 do Sistema Harmonizado, em conformidade com a nota 9 do anexo 10-A.
+10Capítulos 1 a 24 do Sistema Harmonizado, em conformidade com a nota 9 do anexo 10-A.
 
-<sup>11</sup>Para maior clareza, entende-se por publicação a disponibilização pública de disposições legislativas e regulamentares.
+11Para maior clareza, entende-se por publicação a disponibilização pública de disposições legislativas e regulamentares.
 
-<sup>12</sup>Para maior clareza, a importação temporária das mercadorias referidas nos n.<sup>os</sup>1 e 2 do presente artigo, introduzidas no Chile a partir da União Europeia, não está sujeita ao pagamento da taxa estabelecida no artigo 107.º da Ordenanza de Aduanas (Portaria Aduaneira) constante do «Decreto con Fuerza de Ley 30 del Ministerio de Hacienda, Diario Oficial, 4 de junio de 2005».
+12Para maior clareza, a importação temporária das mercadorias referidas nos n.os1 e 2 do presente artigo, introduzidas no Chile a partir da União Europeia, não está sujeita ao pagamento da taxa estabelecida no artigo 107.º da Ordenanza de Aduanas (Portaria Aduaneira) constante do «Decreto con Fuerza de Ley 30 del Ministerio de Hacienda, Diario Oficial, 4 de junio de 2005».
 
-<sup>13</sup>Para maior clareza, no caso do Chile, os livretes ATA são aceites em conformidade com o Decreto n.º 103 de 2004 del Ministerio de Relaciones Exteriores (Decreto n.º 103/2004 do Ministério dos Negócios Estrangeiros), que promulga a «Convenção relativa à importação temporária» e os seus anexos A, B1, B2 e B3, com as reservas devidamente indicadas, e respetivas alterações.
+13Para maior clareza, no caso do Chile, os livretes ATA são aceites em conformidade com o Decreto n.º 103 de 2004 del Ministerio de Relaciones Exteriores (Decreto n.º 103/2004 do Ministério dos Negócios Estrangeiros), que promulga a «Convenção relativa à importação temporária» e os seus anexos A, B1, B2 e B3, com as reservas devidamente indicadas, e respetivas alterações.
 
-<sup>14</sup>À data de entrada em vigor do presente Acordo, as regiões ultraperiféricas da União Europeia são: Guadalupe, Guiana Francesa, Martinica, Reunião, Maiote, São Martinho, Açores, Madeira e Ilhas Canárias. O presente artigo também se aplica a um país ou território ultramarino que altere o seu estatuto para região ultraperiférica por decisão do Conselho Europeu, em conformidade com o procedimento previsto no artigo 355.º, n.º 6, do Tratado sobre o Funcionamento da União Europeia, a partir da data de adoção dessa decisão. Caso, na sequência desse procedimento, uma região ultraperiférica da União Europeia deixe de ser uma região ultraperiférica, o presente artigo deixa de ser aplicável a esse país ou território ultramarino a partir da data da decisão do Conselho Europeu a esse respeito. A Parte UE notifica o Chile de qualquer alteração dos territórios considerados regiões ultraperiféricas da União Europeia.
+14À data de entrada em vigor do presente Acordo, as regiões ultraperiféricas da União Europeia são: Guadalupe, Guiana Francesa, Martinica, Reunião, Maiote, São Martinho, Açores, Madeira e Ilhas Canárias. O presente artigo também se aplica a um país ou território ultramarino que altere o seu estatuto para região ultraperiférica por decisão do Conselho Europeu, em conformidade com o procedimento previsto no artigo 355.º, n.º 6, do Tratado sobre o Funcionamento da União Europeia, a partir da data de adoção dessa decisão. Caso, na sequência desse procedimento, uma região ultraperiférica da União Europeia deixe de ser uma região ultraperiférica, o presente artigo deixa de ser aplicável a esse país ou território ultramarino a partir da data da decisão do Conselho Europeu a esse respeito. A Parte UE notifica o Chile de qualquer alteração dos territórios considerados regiões ultraperiféricas da União Europeia.
 
-<sup>15</sup>No caso da Parte UE, esse pedido pode ser apresentado por um ou mais Estados-Membros em nome da indústria interna.
+15No caso da Parte UE, esse pedido pode ser apresentado por um ou mais Estados-Membros em nome da indústria interna.
 
-<sup>16</sup>Regulamento (UE) 2017/625 do Parlamento Europeu e do Conselho, de 15 de março de 2017, relativo aos controlos oficiais e outras atividades oficiais que visam assegurar a aplicação da legislação em matéria de géneros alimentícios e alimentos para animais e das regras sobre saúde e bem-estar animal, fitossanidade e produtos fitofarmacêuticos, que altera os Regulamentos (CE) n.º 999/2001, (CE) n.º 396/2005, (CE) n.º 1069/2009, (CE) n.º 1107/2009, (UE) n.º 1151/2012, (UE) n.º 652/2014, (UE) 2016/429 e (UE) 2016/2031 do Parlamento Europeu e do Conselho, os Regulamentos (CE) n.º 1/2005 e (CE) n.º 1099/2009 do Conselho, e as Diretivas 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE e 2008/120/CE do Conselho, e que revoga os Regulamentos (CE) n.º 854/2004 e (CE) n.º 882/2004 do Parlamento Europeu e do Conselho, as Diretivas 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE e 97/78/CE do Conselho e a Decisão 92/438/CEE do Conselho (Regulamento sobre os controlos oficiais) (JO UE L 95 de 7.4.2017, p. 1).
+16Regulamento (UE) 2017/625 do Parlamento Europeu e do Conselho, de 15 de março de 2017, relativo aos controlos oficiais e outras atividades oficiais que visam assegurar a aplicação da legislação em matéria de géneros alimentícios e alimentos para animais e das regras sobre saúde e bem-estar animal, fitossanidade e produtos fitofarmacêuticos, que altera os Regulamentos (CE) n.º 999/2001, (CE) n.º 396/2005, (CE) n.º 1069/2009, (CE) n.º 1107/2009, (UE) n.º 1151/2012, (UE) n.º 652/2014, (UE) 2016/429 e (UE) 2016/2031 do Parlamento Europeu e do Conselho, os Regulamentos (CE) n.º 1/2005 e (CE) n.º 1099/2009 do Conselho, e as Diretivas 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE e 2008/120/CE do Conselho, e que revoga os Regulamentos (CE) n.º 854/2004 e (CE) n.º 882/2004 do Parlamento Europeu e do Conselho, as Diretivas 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE e 97/78/CE do Conselho e a Decisão 92/438/CEE do Conselho (Regulamento sobre os controlos oficiais) (JO UE L 95 de 7.4.2017, p. 1).
 
-<sup>17</sup>Regulamento (UE) 2016/2031 do Parlamento Europeu e do Conselho, de 26 de outubro de 2016, relativo a medidas de proteção contra as pragas dos vegetais, e que altera os Regulamentos (UE) n.º 228/2013, (UE) n.º 652/2014 e (UE) n.º 1143/2014 do Parlamento Europeu e do Conselho e revoga as Diretivas 69/464/CEE, 74/647/CEE, 93/85/CEE, 98/57/CE, 2000/29/CE, 2006/91/CE e 2007/33/CE do Conselho (JO UE L 317 de 23.11.2016, p. 4).
+17Regulamento (UE) 2016/2031 do Parlamento Europeu e do Conselho, de 26 de outubro de 2016, relativo a medidas de proteção contra as pragas dos vegetais, e que altera os Regulamentos (UE) n.º 228/2013, (UE) n.º 652/2014 e (UE) n.º 1143/2014 do Parlamento Europeu e do Conselho e revoga as Diretivas 69/464/CEE, 74/647/CEE, 93/85/CEE, 98/57/CE, 2000/29/CE, 2006/91/CE e 2007/33/CE do Conselho (JO UE L 317 de 23.11.2016, p. 4).
 
-<sup>18</sup>Para maior clareza, o presente artigo não prejudica o disposto nos capítulos 17, 18 e 29 e as listas constantes dos anexos 17-A a 17-C e 29, e não se aplica a direitos resultantes da concessão de um direito de propriedade intelectual.
+18Para maior clareza, o presente artigo não prejudica o disposto nos capítulos 17, 18 e 29 e as listas constantes dos anexos 17-A a 17-C e 29, e não se aplica a direitos resultantes da concessão de um direito de propriedade intelectual.
 
-<sup>19</sup>Para maior clareza, o presente artigo não prejudica o disposto no anexo 29.
+19Para maior clareza, o presente artigo não prejudica o disposto no anexo 29.
 
-<sup>20</sup>Para maior clareza, em caso de incompatibilidade entre o presente artigo e os capítulos 17 e 18 e os anexos 17-A, 17-B e 17-C, esses capítulos e anexos prevalecem relativamente às disposições incompatíveis.
+20Para maior clareza, em caso de incompatibilidade entre o presente artigo e os capítulos 17 e 18 e os anexos 17-A, 17-B e 17-C, esses capítulos e anexos prevalecem relativamente às disposições incompatíveis.
 
-<sup>21</sup>No que respeita ao Chile, entende-se por «avaliação do impacto ambiental» o estudo do impacto ambiental, tal como definido na Lei n.º 19.300, título 1, artigo 2.º, letra i), ou em diploma que lhe suceda, e regulado pelo artigo 11.º da mesma lei.
+21No que respeita ao Chile, entende-se por «avaliação do impacto ambiental» o estudo do impacto ambiental, tal como definido na Lei n.º 19.300, título 1, artigo 2.º, letra i), ou em diploma que lhe suceda, e regulado pelo artigo 11.º da mesma lei.
 
-<sup>22</sup>G/TBT/9 de 13 de novembro de 2000, anexo 4.
+22G/TBT/9 de 13 de novembro de 2000, anexo 4.
 
-<sup>23</sup>Diretiva 2001/95/CE do Parlamento Europeu e do Conselho, de 3 de dezembro de 2001, relativa à segurança geral dos produtos (JO UE L 11 de 15.1.2002, p. 4).
+23Diretiva 2001/95/CE do Parlamento Europeu e do Conselho, de 3 de dezembro de 2001, relativa à segurança geral dos produtos (JO UE L 11 de 15.1.2002, p. 4).
 
-<sup>24</sup>O termo «aquisição» é entendido como incluindo a participação no capital de uma pessoa coletiva, com vista a criar ou manter laços económicos duradouros.
+24O termo «aquisição» é entendido como incluindo a participação no capital de uma pessoa coletiva, com vista a criar ou manter laços económicos duradouros.
 
-<sup>25</sup>Para maior clareza, o facto de as concessões, licenças, autorizações e instrumentos semelhantes possuírem as características de um investimento depende, entre outros fatores, do caráter e teor dos direitos que assistem aos seus titulares ao abrigo da legislação dessa Parte.
+25Para maior clareza, o facto de as concessões, licenças, autorizações e instrumentos semelhantes possuírem as características de um investimento depende, entre outros fatores, do caráter e teor dos direitos que assistem aos seus titulares ao abrigo da legislação dessa Parte.
 
-<sup>26</sup>Para maior clareza, as companhias de transporte marítimo referidas na presente definição só são consideradas pessoas coletivas de uma Parte no que diz respeito às respetivas atividades relacionadas com a prestação de serviços de transporte marítimo.
+26Para maior clareza, as companhias de transporte marítimo referidas na presente definição só são consideradas pessoas coletivas de uma Parte no que diz respeito às respetivas atividades relacionadas com a prestação de serviços de transporte marítimo.
 
-<sup>27</sup>Em consonância com a sua notificação do Tratado que institui a Comunidade Europeia à OMC (doc. WT/REG39/1), a Parte UE entende que o conceito de «ligação efetiva e contínua» com a economia de um Estado-Membro da União Europeia consagrado no artigo 54.º do TFUE é equivalente ao conceito de «volume significativo de operações comerciais».
+27Em consonância com a sua notificação do Tratado que institui a Comunidade Europeia à OMC (doc. WT/REG39/1), a Parte UE entende que o conceito de «ligação efetiva e contínua» com a economia de um Estado-Membro da União Europeia consagrado no artigo 54.º do TFUE é equivalente ao conceito de «volume significativo de operações comerciais».
 
-<sup>28</sup>Sem prejuízo do âmbito de atividades que podem ser consideradas cabotagem ao abrigo da legislação nacional aplicável, a cabotagem nacional marítima prevista no presente capítulo abrange o transporte de passageiros ou mercadorias entre um porto ou ponto situado no Chile ou num Estado-Membro e outro porto ou ponto situado no Chile ou nesse mesmo Estado-Membro, inclusive na sua plataforma continental, tal como previsto na Convenção das Nações Unidas sobre o Direito do Mar, e o tráfego com origem e destino no mesmo porto ou ponto situado no Chile ou num Estado-Membro.
+28Sem prejuízo do âmbito de atividades que podem ser consideradas cabotagem ao abrigo da legislação nacional aplicável, a cabotagem nacional marítima prevista no presente capítulo abrange o transporte de passageiros ou mercadorias entre um porto ou ponto situado no Chile ou num Estado-Membro e outro porto ou ponto situado no Chile ou nesse mesmo Estado-Membro, inclusive na sua plataforma continental, tal como previsto na Convenção das Nações Unidas sobre o Direito do Mar, e o tráfego com origem e destino no mesmo porto ou ponto situado no Chile ou num Estado-Membro.
 
-<sup>29</sup>Para maior clareza, os serviços aéreos ou serviços conexos de apoio a serviços aéreos incluem os seguintes serviços: transporte aéreo; serviços prestados através da utilização de uma aeronave cuja principal finalidade não é o transporte de mercadorias ou de passageiros, tais como voos de combate a incêndios, formação, turismo, pulverização, levantamento topográfico, cartografia, fotografia, saltos de paraquedas, reboque de planadores, transporte por helicóptero na exploração florestal e na construção, bem como outros serviços aéreos para fins agrícolas, industriais e de inspeção; aluguer de aeronaves com tripulação; e serviços de exploração de aeroportos.
+29Para maior clareza, os serviços aéreos ou serviços conexos de apoio a serviços aéreos incluem os seguintes serviços: transporte aéreo; serviços prestados através da utilização de uma aeronave cuja principal finalidade não é o transporte de mercadorias ou de passageiros, tais como voos de combate a incêndios, formação, turismo, pulverização, levantamento topográfico, cartografia, fotografia, saltos de paraquedas, reboque de planadores, transporte por helicóptero na exploração florestal e na construção, bem como outros serviços aéreos para fins agrícolas, industriais e de inspeção; aluguer de aeronaves com tripulação; e serviços de exploração de aeroportos.
 
-<sup>30</sup>As alíneas a), b) e c) não abrangem as medidas adotadas com vista a limitar a produção de um produto agrícola ou da pesca.
+30As alíneas a), b) e c) não abrangem as medidas adotadas com vista a limitar a produção de um produto agrícola ou da pesca.
 
-<sup>31</sup>Para maior clareza, para se determinar se o tratamento é concedido em «situações similares» é necessária uma análise casuística e assente em factos, dependente da totalidade das situações.
+31Para maior clareza, para se determinar se o tratamento é concedido em «situações similares» é necessária uma análise casuística e assente em factos, dependente da totalidade das situações.
 
-<sup>32</sup>Para maior clareza, para se determinar se o tratamento é concedido em «situações similares» é necessária uma análise casuística e assente em factos, dependente da totalidade das situações.
+32Para maior clareza, para se determinar se o tratamento é concedido em «situações similares» é necessária uma análise casuística e assente em factos, dependente da totalidade das situações.
 
-<sup>33</sup>Para maior clareza, o tratamento concedido por uma entidade governamental de, ou num, Estado-Membro, inclui as eventuais entidades da administração regional ou local.
+33Para maior clareza, o tratamento concedido por uma entidade governamental de, ou num, Estado-Membro, inclui as eventuais entidades da administração regional ou local.
 
-<sup>34</sup>Para maior clareza, para se determinar se o tratamento é concedido em «situações similares» é necessária uma análise casuística e assente em factos, dependente da totalidade das situações.
+34Para maior clareza, para se determinar se o tratamento é concedido em «situações similares» é necessária uma análise casuística e assente em factos, dependente da totalidade das situações.
 
-<sup>35</sup>Para maior clareza, para se determinar se o tratamento é concedido em «situações similares» é necessária uma análise casuística e assente em factos, dependente da totalidade das situações.
+35Para maior clareza, para se determinar se o tratamento é concedido em «situações similares» é necessária uma análise casuística e assente em factos, dependente da totalidade das situações.
 
-<sup>36</sup>Por «contrato de licença» a que se refere a presente alínea entende-se qualquer contrato relativo à concessão de licenças no domínio da tecnologia, de um processo de produção ou outro conhecimento exclusivo.
+36Por «contrato de licença» a que se refere a presente alínea entende-se qualquer contrato relativo à concessão de licenças no domínio da tecnologia, de um processo de produção ou outro conhecimento exclusivo.
 
-<sup>37</sup>No caso da Parte UE, por «subvenção» entende-se igualmente um «auxílio estatal» na aceção do direito da União Europeia.
+37No caso da Parte UE, por «subvenção» entende-se igualmente um «auxílio estatal» na aceção do direito da União Europeia.
 
-<sup>38</sup>No caso da Parte UE, aquando da aplicação do direito da UE em matéria de auxílios estatais, as autoridades competentes habilitadas a ordenar as medidas referidas no presente número são a Comissão Europeia ou os tribunais ou órgãos jurisdicionais dos Estados-Membros.
+38No caso da Parte UE, aquando da aplicação do direito da UE em matéria de auxílios estatais, as autoridades competentes habilitadas a ordenar as medidas referidas no presente número são a Comissão Europeia ou os tribunais ou órgãos jurisdicionais dos Estados-Membros.
 
-<sup>39</sup>Para maior clareza, ao determinar se uma medida ou série de medidas constitui uma violação do requisito de tratamento justo e equitativo, o Tribunal deve ter em conta, nomeadamente:
+39Para maior clareza, ao determinar se uma medida ou série de medidas constitui uma violação do requisito de tratamento justo e equitativo, o Tribunal deve ter em conta, nomeadamente:
 
 i) No que respeita às alíneas a) e b), se a medida ou série de medidas em causa constitui uma falta grave que constitui denegação de justiça. O simples facto de um recurso interposto por um investidor contra a impugnação de uma medida no âmbito de um processo interno ter sido indeferido ou julgado improcedente não constitui, por si só, uma denegação de justiça nos termos da alínea a);
 
@@ -9449,225 +9458,225 @@ ii) No que respeita às alíneas c) e d), se a medida ou série de medidas não 
 
 iii) No que respeita à alínea e), se uma Parte agiu ultra vires e se os episódios de alegada coação ou assédio foram repetidos e contínuos.
 
-<sup>40</sup>Para maior clareza, a «plena proteção e segurança» refere-se à obrigação de uma Parte de agir na medida do que seja razoavelmente necessário para proteger a segurança física dos investidores e dos investimentos abrangidos.
+40Para maior clareza, a «plena proteção e segurança» refere-se à obrigação de uma Parte de agir na medida do que seja razoavelmente necessário para proteger a segurança física dos investidores e dos investimentos abrangidos.
 
-<sup>41</sup>Para maior clareza, a declaração do estado de emergência nacional não constitui, por si só, uma violação do presente artigo.
+41Para maior clareza, a declaração do estado de emergência nacional não constitui, por si só, uma violação do presente artigo.
 
-<sup>42</sup>Para maior clareza, o presente artigo deve ser interpretado em conformidade com o anexo 17-D.
+42Para maior clareza, o presente artigo deve ser interpretado em conformidade com o anexo 17-D.
 
-<sup>43</sup>Para maior clareza, a «revogação de direitos de propriedade intelectual» a que se refere o presente número inclui a anulação ou extinção desses direitos e a «limitação de direitos de propriedade intelectual» inclui exceções a esses direitos.
+43Para maior clareza, a «revogação de direitos de propriedade intelectual» a que se refere o presente número inclui a anulação ou extinção desses direitos e a «limitação de direitos de propriedade intelectual» inclui exceções a esses direitos.
 
-<sup>44</sup>Para maior clareza, o presente artigo está sujeito ao disposto no anexo 17-E.
+44Para maior clareza, o presente artigo está sujeito ao disposto no anexo 17-E.
 
-<sup>45</sup>Uma pessoa coletiva: a) é propriedade de uma pessoa da outra Parte quando mais de 50 % do seu capital social for efetivamente detido por uma pessoa dessa Parte; b) é controlada por uma pessoa da outra Parte se essa pessoa estiver habilitada a nomear a maioria dos membros dos órgãos de administração ou tiver poderes legais para de outra forma dirigir as suas operações.
+45Uma pessoa coletiva: a) é propriedade de uma pessoa da outra Parte quando mais de 50 % do seu capital social for efetivamente detido por uma pessoa dessa Parte; b) é controlada por uma pessoa da outra Parte se essa pessoa estiver habilitada a nomear a maioria dos membros dos órgãos de administração ou tiver poderes legais para de outra forma dirigir as suas operações.
 
-<sup>46</sup>Para maior clareza, tal financiamento pode ser concedido, direta ou indiretamente, a uma das partes no litígio ou a uma sua filial ou representante.
+46Para maior clareza, tal financiamento pode ser concedido, direta ou indiretamente, a uma das partes no litígio ou a uma sua filial ou representante.
 
-<sup>47</sup>Qualquer dos prazos previstos no anexo 17-H pode ser alterado mediante acordo entre as partes no litígio.
+47Qualquer dos prazos previstos no anexo 17-H pode ser alterado mediante acordo entre as partes no litígio.
 
-<sup>48</sup>Para maior clareza, a Parte UE deve efetuar essa determinação exclusivamente com base na aplicação do Regulamento (UE) n.º 912/2014 do Parlamento Europeu e do Conselho, de 23 de julho de 2014, que estabelece um regime de gestão da responsabilidade financeira relacionada com os órgãos jurisdicionais de resolução de litígios entre os investidores e o Estado, estabelecidos por acordos internacionais em que a União é parte (JO L 257 de 28.8.2014, p. 121).
+48Para maior clareza, a Parte UE deve efetuar essa determinação exclusivamente com base na aplicação do Regulamento (UE) n.º 912/2014 do Parlamento Europeu e do Conselho, de 23 de julho de 2014, que estabelece um regime de gestão da responsabilidade financeira relacionada com os órgãos jurisdicionais de resolução de litígios entre os investidores e o Estado, estabelecidos por acordos internacionais em que a União é parte (JO L 257 de 28.8.2014, p. 121).
 
-<sup>49</sup>Para maior clareza, as «mesmas perdas ou danos» significam as perdas ou danos resultantes da mesma medida pelos quais a pessoa procura ser indemnizada na mesma qualidade que a parte demandante (por exemplo, se esta última intentasse uma ação na qualidade de acionista, a presente disposição abrangeria igualmente uma pessoa conexa que também procedesse à recuperação na qualidade de acionista).
+49Para maior clareza, as «mesmas perdas ou danos» significam as perdas ou danos resultantes da mesma medida pelos quais a pessoa procura ser indemnizada na mesma qualidade que a parte demandante (por exemplo, se esta última intentasse uma ação na qualidade de acionista, a presente disposição abrangeria igualmente uma pessoa conexa que também procedesse à recuperação na qualidade de acionista).
 
-<sup>50</sup>Para maior clareza, as «mesmas perdas ou danos» significam as perdas ou danos resultantes da mesma medida pelos quais a pessoa procura ser indemnizada na mesma qualidade que a parte demandante (por exemplo, se esta última intentasse uma ação na qualidade de acionista, a presente disposição abrangeria igualmente uma pessoa conexa que também procedesse à recuperação na qualidade de acionista).
+50Para maior clareza, as «mesmas perdas ou danos» significam as perdas ou danos resultantes da mesma medida pelos quais a pessoa procura ser indemnizada na mesma qualidade que a parte demandante (por exemplo, se esta última intentasse uma ação na qualidade de acionista, a presente disposição abrangeria igualmente uma pessoa conexa que também procedesse à recuperação na qualidade de acionista).
 
-<sup>51</sup>Para maior clareza, as obrigações a que se refere o presente número devem ter por base os compromissos jurídicos assumidos pelas Partes.
+51Para maior clareza, as obrigações a que se refere o presente número devem ter por base os compromissos jurídicos assumidos pelas Partes.
 
-<sup>52</sup>A pedido de qualquer das Partes, o Conselho pode adotar interpretações vinculativas nos termos do artigo 17.38, n.º 6, a fim de clarificar o âmbito das obrigações internacionais a que se refere o presente número.
+52A pedido de qualquer das Partes, o Conselho pode adotar interpretações vinculativas nos termos do artigo 17.38, n.º 6, a fim de clarificar o âmbito das obrigações internacionais a que se refere o presente número.
 
-<sup>53</sup>Para maior clareza, o facto de uma pessoa receber rendimentos provenientes de uma administração pública, ter sido anteriormente contratada por uma administração pública ou ter relações de parentesco com um funcionário da mesma, não a torna, por si só, inelegível.
+53Para maior clareza, o facto de uma pessoa receber rendimentos provenientes de uma administração pública, ter sido anteriormente contratada por uma administração pública ou ter relações de parentesco com um funcionário da mesma, não a torna, por si só, inelegível.
 
-<sup>54</sup>A presente recomendação não prejudica a competência do Comité Conjunto para chamar a atenção do presidente do Tribunal de Recurso para o comportamento de um juiz do Tribunal ou de um membro do Tribunal de Recurso que possa ser incompatível com as obrigações previstas no n.º 1 e incompatível com a sua permanência no Tribunal ou no Tribunal de Recurso.
+54A presente recomendação não prejudica a competência do Comité Conjunto para chamar a atenção do presidente do Tribunal de Recurso para o comportamento de um juiz do Tribunal ou de um membro do Tribunal de Recurso que possa ser incompatível com as obrigações previstas no n.º 1 e incompatível com a sua permanência no Tribunal ou no Tribunal de Recurso.
 
-<sup>55</sup>Tal como referido no artigo 17.25.
+55Tal como referido no artigo 17.25.
 
-<sup>56</sup>Para maior clareza, o termo «informações confidenciais ou protegidas» deve ser entendido tal como definido e estabelecido no artigo 7.º das regras de transparência da CNUDCI.
+56Para maior clareza, o termo «informações confidenciais ou protegidas» deve ser entendido tal como definido e estabelecido no artigo 7.º das regras de transparência da CNUDCI.
 
-<sup>57</sup>Para maior clareza, tal não obsta a que uma parte no litígio solicite ao tribunal a revisão ou interpretação de uma sentença em conformidade com as regras de resolução de litígios aplicáveis, caso essas regras prevejam essa possibilidade.
+57Para maior clareza, tal não obsta a que uma parte no litígio solicite ao tribunal a revisão ou interpretação de uma sentença em conformidade com as regras de resolução de litígios aplicáveis, caso essas regras prevejam essa possibilidade.
 
-<sup>58</sup>Sem prejuízo do âmbito de atividades que podem ser consideradas cabotagem ao abrigo da legislação nacional aplicável, a cabotagem nacional marítima prevista no presente capítulo abrange o transporte de passageiros ou mercadorias entre um porto ou ponto situado no Chile ou num Estado-Membro e outro porto ou ponto situado no Chile ou nesse mesmo Estado-Membro, inclusive na sua plataforma continental, tal como previsto na Convenção das Nações Unidas sobre o Direito do Mar, e o tráfego com origem e destino no mesmo porto ou ponto situado no Chile ou num Estado-Membro.
+58Sem prejuízo do âmbito de atividades que podem ser consideradas cabotagem ao abrigo da legislação nacional aplicável, a cabotagem nacional marítima prevista no presente capítulo abrange o transporte de passageiros ou mercadorias entre um porto ou ponto situado no Chile ou num Estado-Membro e outro porto ou ponto situado no Chile ou nesse mesmo Estado-Membro, inclusive na sua plataforma continental, tal como previsto na Convenção das Nações Unidas sobre o Direito do Mar, e o tráfego com origem e destino no mesmo porto ou ponto situado no Chile ou num Estado-Membro.
 
-<sup>59</sup>Para maior clareza, os serviços aéreos ou serviços conexos de apoio a serviços aéreos incluem os seguintes serviços: transporte aéreo; serviços prestados através da utilização de uma aeronave cuja principal finalidade não é o transporte de mercadorias ou de passageiros, tais como voos de combate a incêndios, formação, turismo, pulverização, levantamento topográfico, cartografia, fotografia, saltos de paraquedas, reboque de planadores, transporte por helicóptero na exploração florestal e na construção, bem como outros serviços aéreos para fins agrícolas, industriais e de inspeção; aluguer de aeronaves com tripulação; e serviços de exploração de aeroportos.
+59Para maior clareza, os serviços aéreos ou serviços conexos de apoio a serviços aéreos incluem os seguintes serviços: transporte aéreo; serviços prestados através da utilização de uma aeronave cuja principal finalidade não é o transporte de mercadorias ou de passageiros, tais como voos de combate a incêndios, formação, turismo, pulverização, levantamento topográfico, cartografia, fotografia, saltos de paraquedas, reboque de planadores, transporte por helicóptero na exploração florestal e na construção, bem como outros serviços aéreos para fins agrícolas, industriais e de inspeção; aluguer de aeronaves com tripulação; e serviços de exploração de aeroportos.
 
-<sup>60</sup>Para maior clareza, as companhias de transporte marítimo referidas na presente definição só são consideradas pessoas coletivas de uma Parte no que diz respeito às respetivas atividades relacionadas com a prestação de serviços de transporte marítimo.
+60Para maior clareza, as companhias de transporte marítimo referidas na presente definição só são consideradas pessoas coletivas de uma Parte no que diz respeito às respetivas atividades relacionadas com a prestação de serviços de transporte marítimo.
 
-<sup>61</sup>Em consonância com a sua notificação do Tratado que institui a Comunidade Europeia à OMC (doc. WT/REG39/1), a União entende que o conceito de «ligação efetiva e contínua» com a economia de um Estado-Membro consagrado no artigo 54.º do Tratado sobre o Funcionamento da União Europeia é equivalente ao conceito de «volume significativo de operações comerciais».
+61Em consonância com a sua notificação do Tratado que institui a Comunidade Europeia à OMC (doc. WT/REG39/1), a União entende que o conceito de «ligação efetiva e contínua» com a economia de um Estado-Membro consagrado no artigo 54.º do Tratado sobre o Funcionamento da União Europeia é equivalente ao conceito de «volume significativo de operações comerciais».
 
-<sup>62</sup>A presente alínea não abrange as medidas adotadas por uma Parte que limitem os fatores utilizados na prestação de serviços.
+62A presente alínea não abrange as medidas adotadas por uma Parte que limitem os fatores utilizados na prestação de serviços.
 
-<sup>63</sup>Os contratos de prestação de serviços a que se refere a presente alínea devem cumprir os requisitos das disposições legislativas da Parte em que o contrato é executado.
+63Os contratos de prestação de serviços a que se refere a presente alínea devem cumprir os requisitos das disposições legislativas da Parte em que o contrato é executado.
 
-<sup>64</sup>Os contratos de prestação de serviços a que se refere a presente alínea devem cumprir os requisitos da legislação da Parte em que o contrato é executado.
+64Os contratos de prestação de serviços a que se refere a presente alínea devem cumprir os requisitos da legislação da Parte em que o contrato é executado.
 
-<sup>65</sup>Para maior clareza, esta definição não exclui os gestores que, embora não desempenhando diretamente tarefas relacionadas com a prestação efetiva dos serviços, desempenhem tarefas, no exercício das suas funções descritas na presente definição, necessárias à prestação dos serviços em causa.
+65Para maior clareza, esta definição não exclui os gestores que, embora não desempenhando diretamente tarefas relacionadas com a prestação efetiva dos serviços, desempenhem tarefas, no exercício das suas funções descritas na presente definição, necessárias à prestação dos serviços em causa.
 
-<sup>66</sup>A empresa destinatária pode ter de apresentar, para aprovação prévia, um programa de formação que abranja a duração da estada e que demonstre que esta se destina a formação. Para AT, CZ, DE, FR, ES, HU e LT a formação deve estar ligada ao diploma universitário obtido.
+66A empresa destinatária pode ter de apresentar, para aprovação prévia, um programa de formação que abranja a duração da estada e que demonstre que esta se destina a formação. Para AT, CZ, DE, FR, ES, HU e LT a formação deve estar ligada ao diploma universitário obtido.
 
-<sup>67</sup>Nos casos em que o diploma ou a qualificação não tenham sido obtidos na Parte onde se presta o serviço, essa Parte pode avaliar se são equivalentes ao diploma universitário exigido no seu território.
+67Nos casos em que o diploma ou a qualificação não tenham sido obtidos na Parte onde se presta o serviço, essa Parte pode avaliar se são equivalentes ao diploma universitário exigido no seu território.
 
-<sup>68</sup>Nos casos em que o diploma ou a qualificação não tenham sido obtidos na Parte onde se presta o serviço, essa Parte pode avaliar se são equivalentes ao diploma universitário exigido no seu território.
+68Nos casos em que o diploma ou a qualificação não tenham sido obtidos na Parte onde se presta o serviço, essa Parte pode avaliar se são equivalentes ao diploma universitário exigido no seu território.
 
-<sup>69</sup>Para maior clareza, no que se refere às medidas relativas às normas técnicas, o presente capítulo aplica-se unicamente às medidas que afetam o comércio de serviços.
+69Para maior clareza, no que se refere às medidas relativas às normas técnicas, o presente capítulo aplica-se unicamente às medidas que afetam o comércio de serviços.
 
-<sup>70</sup>Para maior clareza, esses critérios podem incluir, entre outros, a competência e a capacidade para prestar um serviço ou exercer qualquer outra atividade económica, nomeadamente de um modo consentâneo com os requisitos regulamentares de uma Parte, incluindo os requisitos sanitários e ambientais. As autoridades competentes podem avaliar a ponderação a atribuir a cada critério.
+70Para maior clareza, esses critérios podem incluir, entre outros, a competência e a capacidade para prestar um serviço ou exercer qualquer outra atividade económica, nomeadamente de um modo consentâneo com os requisitos regulamentares de uma Parte, incluindo os requisitos sanitários e ambientais. As autoridades competentes podem avaliar a ponderação a atribuir a cada critério.
 
-<sup>71</sup>A expressão «organizações internacionais competentes» diz respeito aos organismos internacionais a que possam aderir os organismos competentes de ambas as Partes.
+71A expressão «organizações internacionais competentes» diz respeito aos organismos internacionais a que possam aderir os organismos competentes de ambas as Partes.
 
-<sup>72</sup>As taxas de licenciamento não incluem o pagamento pela utilização de recursos naturais, pagamentos para leilões, concursos ou outros meios não discriminatórios de atribuição de concessões, nem as contribuições obrigatórias para a prestação do serviço universal.
+72As taxas de licenciamento não incluem o pagamento pela utilização de recursos naturais, pagamentos para leilões, concursos ou outros meios não discriminatórios de atribuição de concessões, nem as contribuições obrigatórias para a prestação do serviço universal.
 
-<sup>73</sup>Para maior clareza, os instrumentos de reconhecimento mútuo das qualificações não conduzem ao reconhecimento automático das qualificações profissionais, mas definem, no interesse mútuo das Partes, as condições para que esse reconhecimento possa ser efetuado pelas autoridades competentes.
+73Para maior clareza, os instrumentos de reconhecimento mútuo das qualificações não conduzem ao reconhecimento automático das qualificações profissionais, mas definem, no interesse mútuo das Partes, as condições para que esse reconhecimento possa ser efetuado pelas autoridades competentes.
 
-<sup>74</sup>Para maior clareza, o termo «autoridade reguladora das telecomunicações» inclui qualquer autoridade encarregada por uma Parte de assegurar o cumprimento das obrigações previstas no presente capítulo.
+74Para maior clareza, o termo «autoridade reguladora das telecomunicações» inclui qualquer autoridade encarregada por uma Parte de assegurar o cumprimento das obrigações previstas no presente capítulo.
 
-<sup>75</sup>Para maior clareza, o presente artigo não impede as Partes de autorizarem a prestação de serviços de redes de telecomunicações mediante simples notificação, sem que seja exigida uma decisão prévia da respetiva autoridade reguladora das telecomunicações.
+75Para maior clareza, o presente artigo não impede as Partes de autorizarem a prestação de serviços de redes de telecomunicações mediante simples notificação, sem que seja exigida uma decisão prévia da respetiva autoridade reguladora das telecomunicações.
 
-<sup>76</sup>As taxas administrativas não incluem o pagamento pelos direitos de utilização de recursos limitados nem as contribuições obrigatórias para a prestação do serviço universal.
+76As taxas administrativas não incluem o pagamento pelos direitos de utilização de recursos limitados nem as contribuições obrigatórias para a prestação do serviço universal.
 
-<sup>77</sup>Para efeitos do presente artigo, entende-se por «não discriminatórios» o tratamento nacional e o tratamento da nação mais favorecida tal como definidos nos artigos 17.9, 17.11, 18.4 e 18.5, bem como o tratamento em termos e condições não menos favoráveis do que os concedidos a outro utilizador de serviços ou redes públicas de telecomunicações similares em situações similares.
+77Para efeitos do presente artigo, entende-se por «não discriminatórios» o tratamento nacional e o tratamento da nação mais favorecida tal como definidos nos artigos 17.9, 17.11, 18.4 e 18.5, bem como o tratamento em termos e condições não menos favoráveis do que os concedidos a outro utilizador de serviços ou redes públicas de telecomunicações similares em situações similares.
 
-<sup>78</sup>Sob reserva das exceções previstas nas disposições legislativas e regulamentares dessa Parte.
+78Sob reserva das exceções previstas nas disposições legislativas e regulamentares dessa Parte.
 
-<sup>79</sup>Em consonância com a sua notificação do Tratado que institui a Comunidade Europeia à OMC (doc. WT/REG39/1), a Parte UE entende que o conceito de «ligação efetiva e contínua» com a economia de um Estado-Membro da União Europeia consagrado no artigo 54.º do TFUE é equivalente ao conceito de «volume significativo de operações comerciais».
+79Em consonância com a sua notificação do Tratado que institui a Comunidade Europeia à OMC (doc. WT/REG39/1), a Parte UE entende que o conceito de «ligação efetiva e contínua» com a economia de um Estado-Membro da União Europeia consagrado no artigo 54.º do TFUE é equivalente ao conceito de «volume significativo de operações comerciais».
 
-<sup>80</sup>Para maior clareza, para se determinar se o tratamento é concedido em «situações similares» é necessária uma análise casuística e assente em factos, dependente da totalidade das situações.
+80Para maior clareza, para se determinar se o tratamento é concedido em «situações similares» é necessária uma análise casuística e assente em factos, dependente da totalidade das situações.
 
-<sup>81</sup>Para maior clareza, para se determinar se o tratamento é concedido em «situações similares» é necessária uma análise casuística e assente em factos, dependente da totalidade das situações.
+81Para maior clareza, para se determinar se o tratamento é concedido em «situações similares» é necessária uma análise casuística e assente em factos, dependente da totalidade das situações.
 
-<sup>82</sup>Para maior clareza, o tratamento concedido por uma entidade governamental de, ou num, Estado-Membro, inclui as eventuais entidades da administração regional ou local.
+82Para maior clareza, o tratamento concedido por uma entidade governamental de, ou num, Estado-Membro, inclui as eventuais entidades da administração regional ou local.
 
-<sup>83</sup>Para maior clareza, para se determinar se o tratamento é concedido em «situações similares» é necessária uma análise casuística e assente em factos, dependente da totalidade das situações.
+83Para maior clareza, para se determinar se o tratamento é concedido em «situações similares» é necessária uma análise casuística e assente em factos, dependente da totalidade das situações.
 
-<sup>84</sup>Para maior clareza, para se determinar se o tratamento é concedido em «situações similares» é necessária uma análise casuística e assente em factos, dependente da totalidade das situações.
+84Para maior clareza, para se determinar se o tratamento é concedido em «situações similares» é necessária uma análise casuística e assente em factos, dependente da totalidade das situações.
 
-<sup>85</sup>Esses critérios podem incluir, nomeadamente, a competência e a capacidade para prestar um serviço, inclusive a capacidade de o fazer de forma compatível com os requisitos regulamentares da Parte em causa. As autoridades competentes podem avaliar a ponderação a atribuir a cada critério.
+85Esses critérios podem incluir, nomeadamente, a competência e a capacidade para prestar um serviço, inclusive a capacidade de o fazer de forma compatível com os requisitos regulamentares da Parte em causa. As autoridades competentes podem avaliar a ponderação a atribuir a cada critério.
 
-<sup>86</sup>Para efeitos do presente capítulo, entende-se por «licença» a autorização para prestar um serviço, resultante de um procedimento que o requerente deve cumprir para demonstrar a conformidade com os requisitos de licenciamento ou com os requisitos de qualificação.
+86Para efeitos do presente capítulo, entende-se por «licença» a autorização para prestar um serviço, resultante de um procedimento que o requerente deve cumprir para demonstrar a conformidade com os requisitos de licenciamento ou com os requisitos de qualificação.
 
-<sup>87</sup>Para maior clareza, as autoridades competentes não são obrigadas a começar a analisar os pedidos fora do horário de trabalho e dos dias de trabalho oficiais.
+87Para maior clareza, as autoridades competentes não são obrigadas a começar a analisar os pedidos fora do horário de trabalho e dos dias de trabalho oficiais.
 
-<sup>88</sup>Tal oportunidade não exige que a autoridade competente prorrogue o prazo.
+88Tal oportunidade não exige que a autoridade competente prorrogue o prazo.
 
-<sup>89</sup>As taxas de licenciamento não incluem o pagamento pela utilização de recursos naturais, pagamentos para leilões, concursos ou outros meios não discriminatórios de atribuição de concessões, nem as contribuições obrigatórias para a prestação do serviço universal.
+89As taxas de licenciamento não incluem o pagamento pela utilização de recursos naturais, pagamentos para leilões, concursos ou outros meios não discriminatórios de atribuição de concessões, nem as contribuições obrigatórias para a prestação do serviço universal.
 
-<sup>90</sup>Um serviço é prestado pela Internet quando a prestação é realizada por via eletrónica e sem que as pessoas estejam simultaneamente presentes.
+90Um serviço é prestado pela Internet quando a prestação é realizada por via eletrónica e sem que as pessoas estejam simultaneamente presentes.
 
-<sup>91</sup>No caso dos prestadores intermediários de serviços, a identidade e dados de contacto inclui igualmente a identidade e os dados de contacto do fornecedor efetivo da mercadoria ou serviço em causa.
+91No caso dos prestadores intermediários de serviços, a identidade e dados de contacto inclui igualmente a identidade e os dados de contacto do fornecedor efetivo da mercadoria ou serviço em causa.
 
-<sup>92</sup>Para maior clareza, o presente capítulo está sujeito ao disposto no anexo 17-E.
+92Para maior clareza, o presente capítulo está sujeito ao disposto no anexo 17-E.
 
-<sup>93</sup>Para maior clareza, as dificuldades graves, ou tal ameaça, a nível da balança de pagamentos ou das finanças externas podem ser causadas, entre outros fatores, por graves dificuldades ou ameaças de graves dificuldades relacionadas com as políticas monetária e cambial.
+93Para maior clareza, as dificuldades graves, ou tal ameaça, a nível da balança de pagamentos ou das finanças externas podem ser causadas, entre outros fatores, por graves dificuldades ou ameaças de graves dificuldades relacionadas com as políticas monetária e cambial.
 
-<sup>94</sup>Para maior clareza, as línguas oficiais da OMC são o inglês, o espanhol e o francês.
+94Para maior clareza, as línguas oficiais da OMC são o inglês, o espanhol e o francês.
 
-<sup>95</sup>As atividades não comerciais podem incluir a execução de um mandato legítimo de serviço público ou qualquer atividade diretamente relacionada com a defesa nacional ou a segurança pública.
+95As atividades não comerciais podem incluir a execução de um mandato legítimo de serviço público ou qualquer atividade diretamente relacionada com a defesa nacional ou a segurança pública.
 
-<sup>96</sup>Nos primeiros cinco anos após a entrada em vigor do presente Acordo, esse limiar será inferior a 200 milhões de DSE.
+96Nos primeiros cinco anos após a entrada em vigor do presente Acordo, esse limiar será inferior a 200 milhões de DSE.
 
-<sup>97</sup>Para maior clareza, a expressão «atividade comercial» exclui as atividades levadas a cabo por empresas sem fins lucrativos ou que operam numa base de recuperação de custos.
+97Para maior clareza, a expressão «atividade comercial» exclui as atividades levadas a cabo por empresas sem fins lucrativos ou que operam numa base de recuperação de custos.
 
-<sup>98</sup>Para maior clareza, a concessão de uma licença a um número limitado de empresas na afetação de recursos escassos, com base em critérios objetivos, proporcionais e não discriminatórios não constitui, por si só, um direito especial ou privilégio.
+98Para maior clareza, a concessão de uma licença a um número limitado de empresas na afetação de recursos escassos, com base em critérios objetivos, proporcionais e não discriminatórios não constitui, por si só, um direito especial ou privilégio.
 
-<sup>99</sup>Para o estabelecimento da propriedade ou do controlo, todos os elementos jurídicos e factuais pertinentes devem ser analisados numa base casuística.
+99Para o estabelecimento da propriedade ou do controlo, todos os elementos jurídicos e factuais pertinentes devem ser analisados numa base casuística.
 
-<sup>100</sup>Para maior clareza, a imparcialidade com que a entidade reguladora exerce as funções de regulação deve ser avaliada tendo como referência um padrão ou prática geral dessa entidade reguladora.
+100Para maior clareza, a imparcialidade com que a entidade reguladora exerce as funções de regulação deve ser avaliada tendo como referência um padrão ou prática geral dessa entidade reguladora.
 
-<sup>101</sup>Para maior clareza, no que respeita aos setores em relação aos quais as Partes acordaram obrigações específicas relacionadas, noutros capítulos do presente Acordo, com a entidade reguladora, prevalecem as disposições relevantes desses outros capítulos.
+101Para maior clareza, no que respeita aos setores em relação aos quais as Partes acordaram obrigações específicas relacionadas, noutros capítulos do presente Acordo, com a entidade reguladora, prevalecem as disposições relevantes desses outros capítulos.
 
-<sup>102</sup>Para maior clareza, o direito da concorrência na União Europeia é aplicável ao setor da agricultura em conformidade com o Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece uma organização comum dos mercados dos produtos agrícolas e que revoga os Regulamentos (CEE) n.º 922/72, (CEE) n.º 234/79, (CE) n.º 1037/2001 e (CE) n.º 1234/2007 do Conselho (JO L 347 de 20.12.2013, p. 671).
+102Para maior clareza, o direito da concorrência na União Europeia é aplicável ao setor da agricultura em conformidade com o Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece uma organização comum dos mercados dos produtos agrícolas e que revoga os Regulamentos (CEE) n.º 922/72, (CEE) n.º 234/79, (CE) n.º 1037/2001 e (CE) n.º 1234/2007 do Conselho (JO L 347 de 20.12.2013, p. 671).
 
-<sup>103</sup>No que respeita à Parte UE, o interlocutor é a Direção-Geral da Concorrência da Comissão Europeia.
+103No que respeita à Parte UE, o interlocutor é a Direção-Geral da Concorrência da Comissão Europeia.
 
-<sup>104</sup>Para maior clareza, o presente artigo não prejudica o resultado de futuras discussões no âmbito da OMC sobre a definição de subvenções no domínio dos serviços.
+104Para maior clareza, o presente artigo não prejudica o resultado de futuras discussões no âmbito da OMC sobre a definição de subvenções no domínio dos serviços.
 
-<sup>105</sup>Para efeitos do presente artigo, a expressão «povos e comunidades indígenas» deve ser entendido tal como definido na legislação respetiva de cada Parte. No que respeita à Parte UE, a sua legislação abrange tanto a legislação da União Europeia como a legislação de cada um dos seus Estados-Membros.
+105Para efeitos do presente artigo, a expressão «povos e comunidades indígenas» deve ser entendido tal como definido na legislação respetiva de cada Parte. No que respeita à Parte UE, a sua legislação abrange tanto a legislação da União Europeia como a legislação de cada um dos seus Estados-Membros.
 
-<sup>106</sup>Entende-se por «emergência económica» um acontecimento económico que cause uma perturbação grave da economia de uma Parte. No que respeita à Parte UE, entende-se por «economia de uma Parte» a economia da União Europeia ou a economia de um ou mais dos seus Estados-Membros.
+106Entende-se por «emergência económica» um acontecimento económico que cause uma perturbação grave da economia de uma Parte. No que respeita à Parte UE, entende-se por «economia de uma Parte» a economia da União Europeia ou a economia de um ou mais dos seus Estados-Membros.
 
-<sup>107</sup>Para maior clareza, quando uma Parte tiver instituído o enquadramento legislativo adequado e os procedimentos administrativos necessários para o efeito, esta obrigação é considerada cumprida.
+107Para maior clareza, quando uma Parte tiver instituído o enquadramento legislativo adequado e os procedimentos administrativos necessários para o efeito, esta obrigação é considerada cumprida.
 
-<sup>108</sup>Para efeitos do presente número, o termo «proteção» abrange as questões relativas à existência, aquisição, âmbito, manutenção e fiscalização do respeito dos direitos de propriedade intelectual, bem como as relativas ao exercício dos direitos de propriedade intelectual expressamente contempladas no presente capítulo. Além disso, para efeitos do presente número, inclui ainda as medidas de prevenção da violação de medidas de caráter tecnológico eficazes e as medidas relativas a informações para a gestão dos direitos.
+108Para efeitos do presente número, o termo «proteção» abrange as questões relativas à existência, aquisição, âmbito, manutenção e fiscalização do respeito dos direitos de propriedade intelectual, bem como as relativas ao exercício dos direitos de propriedade intelectual expressamente contempladas no presente capítulo. Além disso, para efeitos do presente número, inclui ainda as medidas de prevenção da violação de medidas de caráter tecnológico eficazes e as medidas relativas a informações para a gestão dos direitos.
 
-<sup>109</sup>Entende-se por «fixação», a corporização de sons, ou de representações de sons, a partir da qual estes possam ser apreendidos, reproduzidos ou comunicados por meio de um dispositivo.
+109Entende-se por «fixação», a corporização de sons, ou de representações de sons, a partir da qual estes possam ser apreendidos, reproduzidos ou comunicados por meio de um dispositivo.
 
-<sup>110</sup>Para maior clareza, nenhuma disposição do presente número impede as Partes de estabelecerem as condições para o exercício deste direito, em conformidade com o disposto no artigo 13.º, alínea d), da Convenção de Roma.
+110Para maior clareza, nenhuma disposição do presente número impede as Partes de estabelecerem as condições para o exercício deste direito, em conformidade com o disposto no artigo 13.º, alínea d), da Convenção de Roma.
 
-<sup>111</sup>As Partes podem conceder aos artistas intérpretes ou executantes e aos produtores de fonogramas direitos mais amplos, no que respeita à radiodifusão e comunicação ao público de fonogramas publicados para efeitos comerciais.
+111As Partes podem conceder aos artistas intérpretes ou executantes e aos produtores de fonogramas direitos mais amplos, no que respeita à radiodifusão e comunicação ao público de fonogramas publicados para efeitos comerciais.
 
-<sup>112</sup>Para efeitos do presente artigo, a «comunicação ao público» não inclui a disponibilização ao público de um fonograma, em transmissão por meios de transmissão com ou sem fios, de forma a torná-lo acessível a qualquer pessoa a partir do local e no momento por ela escolhidos.
+112Para efeitos do presente artigo, a «comunicação ao público» não inclui a disponibilização ao público de um fonograma, em transmissão por meios de transmissão com ou sem fios, de forma a torná-lo acessível a qualquer pessoa a partir do local e no momento por ela escolhidos.
 
-<sup>113</sup>Se uma Parte estabelecer um prazo especial de proteção quando tenha sido designada uma pessoa coletiva como titular do direito de autor, o prazo de proteção não pode ser inferior a 70 anos após o momento em que a obra tiver sido licitamente tornada acessível ao público.
+113Se uma Parte estabelecer um prazo especial de proteção quando tenha sido designada uma pessoa coletiva como titular do direito de autor, o prazo de proteção não pode ser inferior a 70 anos após o momento em que a obra tiver sido licitamente tornada acessível ao público.
 
-<sup>114</sup>Sem prejuízo do disposto no presente artigo, no que se refere ao Chile, o artigo 36.º da Lei n.º 17.366, de 28 de agosto de 1970, tal como alterada pela Lei n.º 21.045, de 13 de outubro de 2017, pode continuar a ser aplicado para o cálculo dos royalties.
+114Sem prejuízo do disposto no presente artigo, no que se refere ao Chile, o artigo 36.º da Lei n.º 17.366, de 28 de agosto de 1970, tal como alterada pela Lei n.º 21.045, de 13 de outubro de 2017, pode continuar a ser aplicado para o cálculo dos royalties.
 
-<sup>115</sup>Para maior clareza, a expressão «obras ou outro material» não se aplica às obras ou outro material em relação aos quais o prazo de proteção tenha expirado.
+115Para maior clareza, a expressão «obras ou outro material» não se aplica às obras ou outro material em relação aos quais o prazo de proteção tenha expirado.
 
-<sup>116</sup>Em alternativa, uma Parte pode sujeitar essa utilização ao facto de não ser suscetível de induzir em erro ou gerar confusão junto da parte interessada do público.
+116Em alternativa, uma Parte pode sujeitar essa utilização ao facto de não ser suscetível de induzir em erro ou gerar confusão junto da parte interessada do público.
 
-<sup>117</sup>Uma marca pode igualmente ser extinta se, após a data em que foi registada, em consequência da utilização feita pelo titular da marca ou com o seu consentimento quanto aos produtos ou serviços para que foi registada, for propícia a induzir o público em erro, nomeadamente acerca da natureza, da qualidade e da origem geográfica desses produtos ou serviços.
+117Uma marca pode igualmente ser extinta se, após a data em que foi registada, em consequência da utilização feita pelo titular da marca ou com o seu consentimento quanto aos produtos ou serviços para que foi registada, for propícia a induzir o público em erro, nomeadamente acerca da natureza, da qualidade e da origem geográfica desses produtos ou serviços.
 
-<sup>118</sup>As referências efetuadas no presente capítulo a desenhos ou modelos devem entender-se como referências a desenhos ou modelos não registados.
+118As referências efetuadas no presente capítulo a desenhos ou modelos devem entender-se como referências a desenhos ou modelos não registados.
 
-<sup>119</sup>A União confere igualmente proteção a um desenho ou modelo não registado quando o mesmo satisfaça os requisitos estabelecidos pelo Regulamento (CE) n.º 6/2002 do Conselho, de 12 de dezembro de 2001, relativo aos desenhos ou modelos comunitários (JO UE L 3 de 5.1.2002, p. 1).
+119A União confere igualmente proteção a um desenho ou modelo não registado quando o mesmo satisfaça os requisitos estabelecidos pelo Regulamento (CE) n.º 6/2002 do Conselho, de 12 de dezembro de 2001, relativo aos desenhos ou modelos comunitários (JO UE L 3 de 5.1.2002, p. 1).
 
-<sup>120</sup>Uma Parte pode prever na respetiva legislação que os desenhos ou modelos tenham um caráter singular. A Parte UE considera que um desenho ou modelo têm um caráter singular quando a impressão global que suscita no utilizador informado diferir da impressão global suscitada nesse utilizador por qualquer desenho ou modelo divulgado ao público.
+120Uma Parte pode prever na respetiva legislação que os desenhos ou modelos tenham um caráter singular. A Parte UE considera que um desenho ou modelo têm um caráter singular quando a impressão global que suscita no utilizador informado diferir da impressão global suscitada nesse utilizador por qualquer desenho ou modelo divulgado ao público.
 
-<sup>121</sup>Nos termos do apêndice 32-C-1, que contém os termos em relação aos quais não é requerida proteção.
+121Nos termos do apêndice 32-C-1, que contém os termos em relação aos quais não é requerida proteção.
 
-<sup>122</sup>As notas explicativas do anexo 32-C definem as variedades vegetais e as raças animais cuja utilização não pode ser impedida.
+122As notas explicativas do anexo 32-C definem as variedades vegetais e as raças animais cuja utilização não pode ser impedida.
 
-<sup>123</sup>Quando uma Parte, ao determinar se deve aditar uma nova indicação geográfica, determinar se um termo é habitualmente utilizado na linguagem comum como denominação comum do produto relevante no seu território, as autoridades de uma Parte têm poderes para ter em conta a forma como os consumidores entendem o termo no território dessa Parte. Os fatores relevantes para essa compreensão por parte dos consumidores podem incluir: a) se o termo é utilizado para referir o tipo de produto em causa, conforme indicado por fontes competentes, nomeadamente dicionários, jornais e sítios web pertinentes; ou b) a forma como o produto a que o termo se refere é comercializado e utilizado no comércio no território dessa Parte.
+123Quando uma Parte, ao determinar se deve aditar uma nova indicação geográfica, determinar se um termo é habitualmente utilizado na linguagem comum como denominação comum do produto relevante no seu território, as autoridades de uma Parte têm poderes para ter em conta a forma como os consumidores entendem o termo no território dessa Parte. Os fatores relevantes para essa compreensão por parte dos consumidores podem incluir: a) se o termo é utilizado para referir o tipo de produto em causa, conforme indicado por fontes competentes, nomeadamente dicionários, jornais e sítios web pertinentes; ou b) a forma como o produto a que o termo se refere é comercializado e utilizado no comércio no território dessa Parte.
 
-<sup>124</sup>No que respeita à Parte UE, o cumprimento da obrigação prevista no presente artigo incumbe aos Estados-Membros.
+124No que respeita à Parte UE, o cumprimento da obrigação prevista no presente artigo incumbe aos Estados-Membros.
 
-<sup>125</sup>Para efeitos do presente artigo, um atraso injustificado inclui um atraso de mais de dois anos na primeira resposta concreta dada ao requerente após a data de apresentação do pedido de autorização de introdução no mercado ou de aprovação sanitária. Os eventuais atrasos na concessão de uma autorização de introdução no mercado ou aprovação sanitária por períodos imputáveis ao requerente ou outros períodos de tempo fora do controlo da autoridade responsável por tramitar a autorização de introdução no mercado ou a aprovação sanitária não contam para o cálculo do atraso.
+125Para efeitos do presente artigo, um atraso injustificado inclui um atraso de mais de dois anos na primeira resposta concreta dada ao requerente após a data de apresentação do pedido de autorização de introdução no mercado ou de aprovação sanitária. Os eventuais atrasos na concessão de uma autorização de introdução no mercado ou aprovação sanitária por períodos imputáveis ao requerente ou outros períodos de tempo fora do controlo da autoridade responsável por tramitar a autorização de introdução no mercado ou a aprovação sanitária não contam para o cálculo do atraso.
 
-<sup>126</sup>Essa duração máxima não prejudica a eventual prorrogação do prazo de proteção no caso dos medicamentos para os quais tenham sido realizados estudos pediátricos e cujos resultados sejam refletidos na informação sobre o produto.
+126Essa duração máxima não prejudica a eventual prorrogação do prazo de proteção no caso dos medicamentos para os quais tenham sido realizados estudos pediátricos e cujos resultados sejam refletidos na informação sobre o produto.
 
-<sup>127</sup>No que se refere ao Chile, entende-se por «entidades» as «federações e associações». No que respeita à Parte UE, entende-se por «entidades» os «organismos de defesa profissional».
+127No que se refere ao Chile, entende-se por «entidades» as «federações e associações». No que respeita à Parte UE, entende-se por «entidades» os «organismos de defesa profissional».
 
-<sup>128</sup>Para efeitos do presente artigo, uma Parte pode determinar que por «terceiro» se entenda um intermediário.
+128Para efeitos do presente artigo, uma Parte pode determinar que por «terceiro» se entenda um intermediário.
 
-<sup>129</sup>Para aplicar o disposto no presente número, as Partes podem optar entre a apreensão e a entrega.
+129Para aplicar o disposto no presente número, as Partes podem optar entre a apreensão e a entrega.
 
-<sup>130</sup>Para efeitos do presente artigo, uma Parte pode determinar que por «terceiro» se entenda um intermediário.
+130Para efeitos do presente artigo, uma Parte pode determinar que por «terceiro» se entenda um intermediário.
 
-<sup>131</sup>No caso da Parte UE, são igualmente tidos em conta, se for caso disso, outros elementos para além dos fatores económicos, como os danos morais causados ao titular do direito.
+131No caso da Parte UE, são igualmente tidos em conta, se for caso disso, outros elementos para além dos fatores económicos, como os danos morais causados ao titular do direito.
 
-<sup>132</sup>Para efeitos do presente capítulo, o termo «laboral» ou «trabalho» refere-se aos objetivos estratégicos da OIT no âmbito da Agenda do Trabalho Digno, expressos na Declaração da OIT sobre Justiça Social para uma Globalização Justa.
+132Para efeitos do presente capítulo, o termo «laboral» ou «trabalho» refere-se aos objetivos estratégicos da OIT no âmbito da Agenda do Trabalho Digno, expressos na Declaração da OIT sobre Justiça Social para uma Globalização Justa.
 
-<sup>133</sup>Entende-se por «pesca ilegal, não declarada e não regulamentada» o mesmo que no ponto 3 do Plano de Ação Internacional para Prevenir, Impedir e Eliminar a Pesca Ilegal, Não Declarada e Não Regulamentada da Organização das Nações Unidas para a Alimentação e a Agricultura, adotado em Roma, em 2001 («Plano de Ação INN de 2001»).
+133Entende-se por «pesca ilegal, não declarada e não regulamentada» o mesmo que no ponto 3 do Plano de Ação Internacional para Prevenir, Impedir e Eliminar a Pesca Ilegal, Não Declarada e Não Regulamentada da Organização das Nações Unidas para a Alimentação e a Agricultura, adotado em Roma, em 2001 («Plano de Ação INN de 2001»).
 
-<sup>134</sup>Esses instrumentos incluem, entre outros, a Convenção das Nações Unidas sobre o Direito do Mar, o Acordo das Nações Unidas relativo à aplicação das disposições da Convenção das Nações Unidas sobre o Direito do Mar, de dezembro de 1982, respeitantes à conservação e à gestão das populações de peixes transzonais e das populações de peixes altamente migradores, o Código de Conduta da FAO para a Pesca Responsável, o Acordo da FAO para a Promoção do Cumprimento das Medidas Internacionais de Conservação e de Gestão pelos Navios de Pesca no Alto Mar, o Plano de Ação INN de 2001 e o Acordo da FAO relativo a medidas dos Estados do porto destinadas a prevenir, impedir e eliminar a pesca ilegal, não declarada e não regulamentada.
+134Esses instrumentos incluem, entre outros, a Convenção das Nações Unidas sobre o Direito do Mar, o Acordo das Nações Unidas relativo à aplicação das disposições da Convenção das Nações Unidas sobre o Direito do Mar, de dezembro de 1982, respeitantes à conservação e à gestão das populações de peixes transzonais e das populações de peixes altamente migradores, o Código de Conduta da FAO para a Pesca Responsável, o Acordo da FAO para a Promoção do Cumprimento das Medidas Internacionais de Conservação e de Gestão pelos Navios de Pesca no Alto Mar, o Plano de Ação INN de 2001 e o Acordo da FAO relativo a medidas dos Estados do porto destinadas a prevenir, impedir e eliminar a pesca ilegal, não declarada e não regulamentada.
 
-<sup>135</sup>As questões ambientais e laborais podem ser debatidas em sessões isoladas ou em sessões consecutivas.
+135As questões ambientais e laborais podem ser debatidas em sessões isoladas ou em sessões consecutivas.
 
-<sup>136</sup>Para maior clareza, qualquer referência ao capítulo 33 ou a quaisquer questões ambientais e laborais nos seus artigos deve ser entendida como uma referência ao presente capítulo ou a questões de género, consoante o caso.
+136Para maior clareza, qualquer referência ao capítulo 33 ou a quaisquer questões ambientais e laborais nos seus artigos deve ser entendida como uma referência ao presente capítulo ou a questões de género, consoante o caso.
 
-<sup>137</sup>Para maior clareza, qualquer referência ao capítulo 33 ou a quaisquer questões ou disposições legislativas de caráter ambiental e laboral nos seus artigos deve ser entendida como uma referência ao presente capítulo ou a questões ou disposições legislativas relativas ao género, consoante o caso.
+137Para maior clareza, qualquer referência ao capítulo 33 ou a quaisquer questões ou disposições legislativas de caráter ambiental e laboral nos seus artigos deve ser entendida como uma referência ao presente capítulo ou a questões ou disposições legislativas relativas ao género, consoante o caso.
 
-<sup>138</sup>Em conformidade com o ponto ii.1 da instrução presidencial n.º 3 de 2019 e respetivas alterações.
+138Em conformidade com o ponto ii.1 da instrução presidencial n.º 3 de 2019 e respetivas alterações.
 
-<sup>139</sup>A autoridade reguladora de cada Parte pode determinar o que se entende por «medida regulamentar principal» para efeitos das suas obrigações por força do presente capítulo.
+139A autoridade reguladora de cada Parte pode determinar o que se entende por «medida regulamentar principal» para efeitos das suas obrigações por força do presente capítulo.
 
-<sup>140</sup>Para maior clareza, o presente número não impede uma Parte de realizar consultas específicas com as pessoas interessadas, nas condições definidas pelas suas regras e procedimentos.
+140Para maior clareza, o presente número não impede uma Parte de realizar consultas específicas com as pessoas interessadas, nas condições definidas pelas suas regras e procedimentos.
 
-<sup>141</sup>Esta disposição não se aplica ao artigo 17.10.
+141Esta disposição não se aplica ao artigo 17.10.
 
-<sup>142</sup>Para maior clareza, nenhuma disposição do presente artigo pode ser interpretada como limitando os direitos estabelecidos no anexo 17-E.
+142Para maior clareza, nenhuma disposição do presente artigo pode ser interpretada como limitando os direitos estabelecidos no anexo 17-E.
 
-<sup>143</sup>Esta disposição não se aplica ao artigo 17.10.
+143Esta disposição não se aplica ao artigo 17.10.
 
-<sup>144</sup>As exceções previstas na presente alínea só podem ser invocadas se existir uma ameaça real e suficientemente grave a um dos interesses fundamentais da sociedade.
+144As exceções previstas na presente alínea só podem ser invocadas se existir uma ameaça real e suficientemente grave a um dos interesses fundamentais da sociedade.
 
-<sup>145</sup>Para maior clareza, o direito internacional inclui, nomeadamente, a Convenção das Nações Unidas sobre o Direito do Mar, celebrada em Montego Bay, em 10 de dezembro de 1982.
+145Para maior clareza, o direito internacional inclui, nomeadamente, a Convenção das Nações Unidas sobre o Direito do Mar, celebrada em Montego Bay, em 10 de dezembro de 1982.
 
-<sup>146</sup>Para maior clareza, em caso de incompatibilidade entre o direito do Chile e o direito internacional, prevalece este último.
+146Para maior clareza, em caso de incompatibilidade entre o direito do Chile e o direito internacional, prevalece este último.
 
-<sup>147</sup>Regulamento (UE) n.º 952/2013 do Parlamento Europeu e do Conselho, de 9 de outubro de 2013, que estabelece o Código Aduaneiro da União (JO L 269 de 10.10.2013, p. 1).
+147Regulamento (UE) n.º 952/2013 do Parlamento Europeu e do Conselho, de 9 de outubro de 2013, que estabelece o Código Aduaneiro da União (JO L 269 de 10.10.2013, p. 1).
 
-<sup>148</sup>Para maior clareza, a data de assinatura e a data de entrada em vigor do Acordo sobre os Vinhos e do Acordo sobre as Bebidas Espirituosas são as mesmas datas que a data de assinatura e a data de entrada em vigor do Acordo de Associação.
+148Para maior clareza, a data de assinatura e a data de entrada em vigor do Acordo sobre os Vinhos e do Acordo sobre as Bebidas Espirituosas são as mesmas datas que a data de assinatura e a data de entrada em vigor do Acordo de Associação.
 
-<sup>149</sup>Para maior clareza, o Chile aplicará quaisquer alterações ao Acordo sobre os Vinhos e ao Acordo sobre as Bebidas Espirituosas, tal como incorporadas no presente Acordo, através de acuerdos de ejecución (acordos executivos), em conformidade com a legislação chilena.
+149Para maior clareza, o Chile aplicará quaisquer alterações ao Acordo sobre os Vinhos e ao Acordo sobre as Bebidas Espirituosas, tal como incorporadas no presente Acordo, através de acuerdos de ejecución (acordos executivos), em conformidade com a legislação chilena.
 
 Em fé do que, os plenipotenciários abaixo assinados, devidamente autorizados para o efeito, assinaram o presente Acordo.
 
@@ -9707,7 +9716,7 @@ g) Os direitos aduaneiros sobre as mercadorias originárias relacionadas com os 
 
 #### SECÇÃO B — Contingentes pautais
 
-Para a gestão, no ano 0, do contingente pautal (TRQ) estabelecido no presente anexo, as Partes calculam o volume desse contingente pautal descontando o volume pro rata correspondente ao período compreendido entre 1 de janeiro e a data de entrada em vigor do presente Acordo<sup>1</sup>.
+Para a gestão, no ano 0, do contingente pautal (TRQ) estabelecido no presente anexo, as Partes calculam o volume desse contingente pautal descontando o volume pro rata correspondente ao período compreendido entre 1 de janeiro e a data de entrada em vigor do presente Acordo1.
 
 Uma Parte que abra contingentes pautais à outra Parte conforme referido no presente anexo gere esses contingentes pautais de forma transparente, objetiva e não discriminatória, em conformidade com o seu direito. A Parte que abre os contingentes pautais disponibiliza ao público, de forma atempada e contínua, todas as informações pertinentes relativas à administração dos contingentes, incluindo o volume disponível e os critérios de elegibilidade.
 
@@ -9719,7 +9728,7 @@ A Parte UE gere os contingentes pautais estabelecidos no presente anexo segundo 
 
 1 - Contingente pautal para queijo
 
-a) As mercadorias originárias nas seguintes quantidades anuais agregadas e classificadas em itens pautais assinalados com a indicação «TRQ-Queijo» no calendário de eliminação pautal do Chile constante do apêndice 9-2 e enumerados na alínea c) do presente ponto estão isentas de direitos aduaneiros a partir da data de entrada em vigor do presente Acordo<sup>2</sup>.
+a) As mercadorias originárias nas seguintes quantidades anuais agregadas e classificadas em itens pautais assinalados com a indicação «TRQ-Queijo» no calendário de eliminação pautal do Chile constante do apêndice 9-2 e enumerados na alínea c) do presente ponto estão isentas de direitos aduaneiros a partir da data de entrada em vigor do presente Acordo2.
 
 | Ano | Quantidade anual agregada (toneladas métricas) |
 | --- | --- |
@@ -9731,7 +9740,7 @@ a) As mercadorias originárias nas seguintes quantidades anuais agregadas e clas
 | 5 | 3 225 |
 | 6 | 3 300 |
 
-b) Se o presente Acordo entrar em vigor em 2024 ou num ano posterior, as quantidades anuais agregadas fixadas na alínea a) são acrescidas de 75 toneladas métricas por cada ano civil completo que decorra entre 1 de janeiro de 2021 e 1 de janeiro do ano em que o presente Acordo entrar em vigor<sup>3</sup>.
+b) Se o presente Acordo entrar em vigor em 2024 ou num ano posterior, as quantidades anuais agregadas fixadas na alínea a) são acrescidas de 75 toneladas métricas por cada ano civil completo que decorra entre 1 de janeiro de 2021 e 1 de janeiro do ano em que o presente Acordo entrar em vigor3.
 
 c) O presente ponto é aplicável às mercadorias originárias classificadas nos seguintes itens pautais: 0406 10 10, 0406 10 20, 0406 10 30, 0406 10 90, 0406 20 00, 0406 30 00, 0406 40 00, 0406 90 10, 0406 90 20, 0406 90 30, 0406 90 40 e 0406 90 90.
 
@@ -9739,7 +9748,7 @@ d) Este contingente pautal é suprimido progressivamente após a eliminação do
 
 2 - Contingente pautal para produtos da pesca
 
-a) As mercadorias originárias classificadas em itens pautais assinalados com a indicação «TRQ-Peixe» no calendário de eliminação pautal do Chile constante do apêndice 9-2 e enumerados na alínea b) do presente ponto estão isentas de direitos aduaneiros, na quantidade anual agregada de 5000 toneladas métricas (peso do produto), a partir da data de entrada em vigor do presente Acordo nos anos 0 a 2<sup>4</sup>.
+a) As mercadorias originárias classificadas em itens pautais assinalados com a indicação «TRQ-Peixe» no calendário de eliminação pautal do Chile constante do apêndice 9-2 e enumerados na alínea b) do presente ponto estão isentas de direitos aduaneiros, na quantidade anual agregada de 5000 toneladas métricas (peso do produto), a partir da data de entrada em vigor do presente Acordo nos anos 0 a 24.
 
 b) O presente ponto é aplicável às mercadorias originárias classificadas nos seguintes itens pautais: 0302 54 11, 0302 54 12, 0302 54 13, 0302 54 14, 0302 54 15, 0302 54 16, 0302 54 19 e 0302 59 19.
 
@@ -9749,44 +9758,44 @@ c) Este contingente pautal é suprimido progressivamente após a eliminação do
 
 1 - Contingente pautal para carne de bovino
 
-a) As mercadorias originárias classificadas em itens pautais assinalados com a indicação «TRQ-BF» no calendário de eliminação pautal da Parte UE constante do apêndice 9-1 e enumerados na alínea c) do presente ponto estão isentas de direitos aduaneiros, na quantidade anual agregada de 4800 toneladas métricas (peso do produto), a partir da data de entrada em vigor do presente Acordo<sup>5</sup>.
+a) As mercadorias originárias classificadas em itens pautais assinalados com a indicação «TRQ-BF» no calendário de eliminação pautal da Parte UE constante do apêndice 9-1 e enumerados na alínea c) do presente ponto estão isentas de direitos aduaneiros, na quantidade anual agregada de 4800 toneladas métricas (peso do produto), a partir da data de entrada em vigor do presente Acordo5.
 
-b) Se o presente Acordo entrar em vigor em 2022 ou num ano posterior, a quantidade anual agregada fixada na alínea a) é acrescida de 100 toneladas métricas por cada ano civil completo que decorra entre 1 de janeiro de 2021 e 1 de janeiro do ano em que o presente Acordo entrar em vigor<sup>6</sup>.
+b) Se o presente Acordo entrar em vigor em 2022 ou num ano posterior, a quantidade anual agregada fixada na alínea a) é acrescida de 100 toneladas métricas por cada ano civil completo que decorra entre 1 de janeiro de 2021 e 1 de janeiro do ano em que o presente Acordo entrar em vigor6.
 
 c) O presente ponto é aplicável às mercadorias originárias classificadas nos seguintes itens pautais: 0201 10 00, 0201 20 20, 0201 20 30, 0201 20 50, 0201 20 90, 0201 30 00, 0202 10 00, 0202 20 10, 0202 20 30, 0202 20 50, 0202 20 90, 0202 30 10, 0202 30 50, 0202 30 90, 0206 10 95, 0206 29 91, 0210 20 10, 0210 20 90, 0210 99 51, 1602 50 10 e 1602 90 61.
 
 2 - Contingente pautal para carne de suíno
 
-a) As mercadorias originárias classificadas em itens pautais assinalados com a indicação «TRQ-PK» no calendário de eliminação pautal da Parte UE constante do apêndice 9-1 e enumerados na alínea c) do presente ponto estão isentas de direitos aduaneiros, na quantidade anual agregada de 19 800 toneladas métricas (peso do produto), a partir da data de entrada em vigor do presente Acordo<sup>7</sup>.
+a) As mercadorias originárias classificadas em itens pautais assinalados com a indicação «TRQ-PK» no calendário de eliminação pautal da Parte UE constante do apêndice 9-1 e enumerados na alínea c) do presente ponto estão isentas de direitos aduaneiros, na quantidade anual agregada de 19 800 toneladas métricas (peso do produto), a partir da data de entrada em vigor do presente Acordo7.
 
-b) Se o presente Acordo entrar em vigor em 2022 ou num ano posterior, a quantidade anual agregada fixada na alínea a) é acrescida de 350 toneladas métricas por cada ano civil completo que decorra entre 1 de janeiro de 2021 e 1 de janeiro do ano em que o presente Acordo entrar em vigor<sup>8</sup>.
+b) Se o presente Acordo entrar em vigor em 2022 ou num ano posterior, a quantidade anual agregada fixada na alínea a) é acrescida de 350 toneladas métricas por cada ano civil completo que decorra entre 1 de janeiro de 2021 e 1 de janeiro do ano em que o presente Acordo entrar em vigor8.
 
 c) O presente ponto é aplicável às mercadorias originárias classificadas nos seguintes itens pautais: 0203 11 10, 0203 12 11, 0203 12 19, 0203 19 11, 0203 19 13, 0203 19 15, 0203 19 55, 0203 19 59, 0203 21 10, 0203 22 11, 0203 22 19, 0203 29 11, 0203 29 13, 0203 29 15, 0203 29 55, 0203 29 59, 1601 00 91, 1601 00 99, 1602 41 10, 1602 42 10, 1602 49 11, 1602 49 13, 1602 49 15, 1602 49 19, 1602 49 30, 1602 49 50 e 1602 90 51.
 
 3 - Contingente pautal para carne de ovino
 
-a) As mercadorias originárias classificadas em itens pautais assinalados com a indicação «TRQ-SP» no calendário de eliminação pautal da Parte UE constante do apêndice 9-1 e enumerados na alínea c) do presente ponto estão isentas de direitos aduaneiros, na quantidade anual agregada de 9600 toneladas métricas (peso do produto), a partir da data de entrada em vigor do presente Acordo<sup>9</sup>.
+a) As mercadorias originárias classificadas em itens pautais assinalados com a indicação «TRQ-SP» no calendário de eliminação pautal da Parte UE constante do apêndice 9-1 e enumerados na alínea c) do presente ponto estão isentas de direitos aduaneiros, na quantidade anual agregada de 9600 toneladas métricas (peso do produto), a partir da data de entrada em vigor do presente Acordo9.
 
-b) Se o presente Acordo entrar em vigor em 2022 ou num ano posterior, a quantidade anual agregada fixada na alínea a) é acrescida de 200 toneladas métricas por cada ano civil completo que decorra entre 1 de janeiro de 2021 e 1 de janeiro do ano em que o presente Acordo entrar em vigor<sup>10</sup>.
+b) Se o presente Acordo entrar em vigor em 2022 ou num ano posterior, a quantidade anual agregada fixada na alínea a) é acrescida de 200 toneladas métricas por cada ano civil completo que decorra entre 1 de janeiro de 2021 e 1 de janeiro do ano em que o presente Acordo entrar em vigor10.
 
 c) O presente ponto é aplicável às mercadorias originárias classificadas na posição pautal 0204.
 
 4 - Contingente pautal para carne de aves de capoeira
 
-a) As mercadorias originárias nas seguintes quantidades anuais agregadas e classificadas em itens pautais assinalados com a indicação «TRQ-PY» no calendário de eliminação pautal da Parte UE constante do apêndice 9-1 e enumerados na alínea c) do presente ponto estão isentas de direitos aduaneiros a partir da data de entrada em vigor do presente Acordo<sup>11</sup>.
+a) As mercadorias originárias nas seguintes quantidades anuais agregadas e classificadas em itens pautais assinalados com a indicação «TRQ-PY» no calendário de eliminação pautal da Parte UE constante do apêndice 9-1 e enumerados na alínea c) do presente ponto estão isentas de direitos aduaneiros a partir da data de entrada em vigor do presente Acordo11.
 
 | Ano | Quantidade anual agregada(toneladas métricas, peso do produto) |
 | --- | --- |
 | 0 a 2 | 29 300 |
 | 3 e cada ano subsequente | 38 300 |
 
-b) Se o presente Acordo entrar em vigor em 2022 ou num ano posterior, as quantidades anuais agregadas fixadas na alínea a) são acrescidas de 725 toneladas métricas por cada ano civil completo que decorra entre 1 de janeiro de 2021 e 1 de janeiro do ano em que o presente Acordo entrar em vigor<sup>12</sup>.
+b) Se o presente Acordo entrar em vigor em 2022 ou num ano posterior, as quantidades anuais agregadas fixadas na alínea a) são acrescidas de 725 toneladas métricas por cada ano civil completo que decorra entre 1 de janeiro de 2021 e 1 de janeiro do ano em que o presente Acordo entrar em vigor12.
 
 c) O presente ponto é aplicável às mercadorias originárias classificadas nos seguintes itens pautais: 0207 11 10, 0207 11 30, 0207 11 90, 0207 12 10, 0207 12 90, 0207 13 10, 0207 13 20, 0207 13 30, 0207 13 40, 0207 13 50, 0207 13 60, 0207 13 70, 0207 13 99, 0207 14 10, 0207 14 20, 0207 14 30, 0207 14 40, 0207 14 50, 0207 14 60, 0207 14 70, 0207 14 99, 0207 24 10, 0207 24 90, 0207 25 10, 0207 25 90, 0207 26 10, 0207 26 20, 0207 26 30, 0207 26 40, 0207 26 50, 0207 26 60, 0207 26 70, 0207 26 80, 0207 26 99, 0207 27 10, 0207 27 20, 0207 27 30, 0207 27 40, 0207 27 50, 0207 27 60, 0207 27 70, 0207 27 80, 0207 27 99, 0207 41 20, 0207 41 30, 0207 41 80, 0207 42 30, 0207 42 80, 0207 44 10, 0207 44 21, 0207 44 31, 0207 44 41, 0207 44 51, 0207 44 61, 0207 44 71, 0207 44 81, 0207 44 99, 0207 45 10, 0207 45 21, 0207 45 31, 0207 45 41, 0207 45 51, 0207 45 61, 0207 45 71, 0207 45 81, 0207 45 99, 0207 51 10, 0207 51 90, 0207 52 10, 0207 52 90, 0207 54 10, 0207 54 21, 0207 54 31, 0207 54 41, 0207 54 51, 0207 54 61, 0207 54 71, 0207 54 81, 0207 54 99, 0207 55 10, 0207 55 21, 0207 55 31, 0207 55 41, 0207 55 51, 0207 55 61, 0207 55 71, 0207 55 81, 0207 55 99, 0207 60 05, 0207 60 10, 0207 60 21, 0207 60 31, 0207 60 41, 0207 60 51, 0207 60 61, 0207 60 81, 0207 60 99, 1602 32 11 e 1602 39 21.
 
 5 - Contingente pautal para peixe
 
-a) As mercadorias originárias classificadas em itens pautais assinalados com a indicação «TRQ-Peixe» no calendário de eliminação pautal da Parte UE constante do apêndice 9-1 e enumerados na alínea b) do presente ponto estão isentas de direitos aduaneiros, na quantidade anual agregada de 250 toneladas métricas, a partir da data de entrada em vigor do presente Acordo<sup>13</sup>.
+a) As mercadorias originárias classificadas em itens pautais assinalados com a indicação «TRQ-Peixe» no calendário de eliminação pautal da Parte UE constante do apêndice 9-1 e enumerados na alínea b) do presente ponto estão isentas de direitos aduaneiros, na quantidade anual agregada de 250 toneladas métricas, a partir da data de entrada em vigor do presente Acordo13.
 
 b) O presente ponto é aplicável às mercadorias originárias classificadas nos seguintes itens pautais: 1604 14 21, 1604 14 26, 1604 14 28, 1604 14 31, 1604 14 36, 1604 14 38, 1604 14 41, 1604 14 46, 1604 14 48, 1604 19 31, 1604 19 39 e 1604 20 70.
 
@@ -9798,7 +9807,7 @@ b) O presente ponto é aplicável às mercadorias originárias classificadas nos
 
 7 - Contingente pautal para alho
 
-a) As mercadorias originárias classificadas em itens pautais assinalados com a indicação «TRQ-GC» no calendário de eliminação pautal da Parte UE constante do apêndice 9-1 e enumerados na alínea b) do presente ponto estão isentas de direitos aduaneiros, na quantidade anual agregada de 2 000 toneladas métricas, a partir da data de entrada em vigor do presente Acordo<sup>14</sup>.
+a) As mercadorias originárias classificadas em itens pautais assinalados com a indicação «TRQ-GC» no calendário de eliminação pautal da Parte UE constante do apêndice 9-1 e enumerados na alínea b) do presente ponto estão isentas de direitos aduaneiros, na quantidade anual agregada de 2 000 toneladas métricas, a partir da data de entrada em vigor do presente Acordo14.
 
 b) O presente ponto é aplicável às mercadorias originárias classificadas no item pautal 0703 20 00.
 
@@ -9824,7 +9833,7 @@ Nos anos 0 a 6, o presente ponto é igualmente aplicável às mercadorias origin
 
 11 - Contingente pautal para cereais transformados
 
-a) As mercadorias originárias nas seguintes quantidades anuais agregadas e classificadas em itens pautais assinalados com a indicação «TRQ-PC» no calendário de eliminação pautal da Parte UE constante do apêndice 9-1 e enumerados na alínea c) do presente ponto estão isentas de direitos aduaneiros a partir da data de entrada em vigor do presente Acordo<sup>15</sup>.
+a) As mercadorias originárias nas seguintes quantidades anuais agregadas e classificadas em itens pautais assinalados com a indicação «TRQ-PC» no calendário de eliminação pautal da Parte UE constante do apêndice 9-1 e enumerados na alínea c) do presente ponto estão isentas de direitos aduaneiros a partir da data de entrada em vigor do presente Acordo15.
 
 | Ano | Quantidade anual agregada (toneladas métricas) |
 | --- | --- |
@@ -9832,7 +9841,7 @@ a) As mercadorias originárias nas seguintes quantidades anuais agregadas e clas
 | 1 | 1 950 |
 | 2 | 2 000 |
 
-b) Se o presente Acordo entrar em vigor em 2022 ou num ano posterior, a quantidade anual agregada fixada na alínea a) é acrescida de 50 toneladas métricas por cada ano civil completo que decorra entre 1 de janeiro de 2021 e 1 de janeiro do ano em que o presente Acordo entrar em vigor<sup>16</sup>.
+b) Se o presente Acordo entrar em vigor em 2022 ou num ano posterior, a quantidade anual agregada fixada na alínea a) é acrescida de 50 toneladas métricas por cada ano civil completo que decorra entre 1 de janeiro de 2021 e 1 de janeiro do ano em que o presente Acordo entrar em vigor16.
 
 c) O presente ponto é aplicável às mercadorias originárias classificadas na posição pautal 1104.
 
@@ -9840,7 +9849,7 @@ d) Este contingente pautal é suprimido progressivamente após a eliminação do
 
 12 - Contingente pautal para produtos de confeitaria
 
-a) As mercadorias originárias nas seguintes quantidades anuais agregadas e classificadas em itens pautais assinalados com a indicação «TRQ-SRa» no calendário de eliminação pautal da Parte UE constante do apêndice 9-1 e enumerados na alínea b) do presente ponto estão isentas de direitos aduaneiros a partir da data de entrada em vigor do presente Acordo<sup>17</sup>.
+a) As mercadorias originárias nas seguintes quantidades anuais agregadas e classificadas em itens pautais assinalados com a indicação «TRQ-SRa» no calendário de eliminação pautal da Parte UE constante do apêndice 9-1 e enumerados na alínea b) do presente ponto estão isentas de direitos aduaneiros a partir da data de entrada em vigor do presente Acordo17.
 
 | Ano | Quantidade anual agregada (toneladas métricas) |
 | --- | --- |
@@ -9852,7 +9861,7 @@ c) Este contingente pautal é suprimido progressivamente após a eliminação do
 
 13 - Contingente pautal para chocolate
 
-a) As mercadorias originárias nas seguintes quantidades anuais agregadas e classificadas em itens pautais assinalados com a indicação «TRQ-SRb» no calendário de eliminação pautal da Parte UE constante do apêndice 9-1 e enumerados na alínea b) do presente ponto estão isentas de direitos aduaneiros a partir da data de entrada em vigor do presente Acordo<sup>18</sup>.
+a) As mercadorias originárias nas seguintes quantidades anuais agregadas e classificadas em itens pautais assinalados com a indicação «TRQ-SRb» no calendário de eliminação pautal da Parte UE constante do apêndice 9-1 e enumerados na alínea b) do presente ponto estão isentas de direitos aduaneiros a partir da data de entrada em vigor do presente Acordo18.
 
 | Ano | Quantidade anual agregada (toneladas métricas) |
 | --- | --- |
@@ -9864,7 +9873,7 @@ c) Este contingente pautal é suprimido progressivamente após a eliminação do
 
 14 - Contingente pautal para bolachas e biscoitos, adicionados de edulcorantes, e waffles
 
-a) As mercadorias originárias nas seguintes quantidades anuais agregadas e classificadas em itens pautais assinalados com a indicação «TRQ-BS» no calendário de eliminação pautal da Parte UE e enumerados na alínea b) estão isentas de direitos aduaneiros a partir da entrada em vigor do presente Acordo<sup>19</sup>.
+a) As mercadorias originárias nas seguintes quantidades anuais agregadas e classificadas em itens pautais assinalados com a indicação «TRQ-BS» no calendário de eliminação pautal da Parte UE e enumerados na alínea b) estão isentas de direitos aduaneiros a partir da entrada em vigor do presente Acordo19.
 
 | Ano | Quantidade anual agregada (toneladas métricas) |
 | --- | --- |
@@ -9876,7 +9885,7 @@ c) Este contingente pautal é suprimido progressivamente após a eliminação do
 
 15 - Contingente pautal para cogumelos preparados
 
-a) As mercadorias originárias nas seguintes quantidades anuais agregadas e classificadas em itens pautais assinalados com a indicação «TRQ-MS» no calendário de eliminação pautal da Parte UE constante do apêndice 9-1 e enumerados na alínea c) do presente ponto estão isentas de direitos aduaneiros a partir da entrada em vigor do presente Acordo<sup>20</sup>.
+a) As mercadorias originárias nas seguintes quantidades anuais agregadas e classificadas em itens pautais assinalados com a indicação «TRQ-MS» no calendário de eliminação pautal da Parte UE constante do apêndice 9-1 e enumerados na alínea c) do presente ponto estão isentas de direitos aduaneiros a partir da entrada em vigor do presente Acordo20.
 
 | Ano | Quantidade anual agregada (toneladas métricas) |
 | --- | --- |
@@ -9888,7 +9897,7 @@ a) As mercadorias originárias nas seguintes quantidades anuais agregadas e clas
 | 5 | 1 075 |
 | 6 | 1 100 |
 
-b) Se o presente Acordo entrar em vigor em 2022 ou num ano posterior, a quantidade anual agregada fixada na alínea a) é acrescida de 25 toneladas métricas por cada ano civil completo que decorra entre 1 de janeiro de 2021 e 1 de janeiro do ano em que o presente Acordo entrar em vigor<sup>21</sup>.
+b) Se o presente Acordo entrar em vigor em 2022 ou num ano posterior, a quantidade anual agregada fixada na alínea a) é acrescida de 25 toneladas métricas por cada ano civil completo que decorra entre 1 de janeiro de 2021 e 1 de janeiro do ano em que o presente Acordo entrar em vigor21.
 
 c) O presente ponto é aplicável às mercadorias originárias classificadas nos itens pautais 2003 10 20 e 2003 10 30.
 
@@ -9942,59 +9951,59 @@ b) O presente ponto é aplicável às mercadorias originárias classificadas nos
 | 3502 11 90 | Ovalbumina própria para alimentação humana, seca (em folhas, escamas, cristais, pós, etc.) | 856 % |
 | 3502 19 90 | Ovalbumina própria para alimentação humana [exceto seca (em folhas, escamas, cristais, pós, etc.)] | 116 % |
 
-<sup>1</sup> Para maior clareza: o volume disponível para o ano 0 calcula-se multiplicando o volume admitido correspondente ao ano 0 (conforme estabelecido no presente anexo) por uma fração, cujo numerador é o número de dias restantes do ano 0 e o denominador é o número total de dias do ano civil em que se situa o ano 0 (365 ou 366, consoante o caso).
+1 Para maior clareza: o volume disponível para o ano 0 calcula-se multiplicando o volume admitido correspondente ao ano 0 (conforme estabelecido no presente anexo) por uma fração, cujo numerador é o número de dias restantes do ano 0 e o denominador é o número total de dias do ano civil em que se situa o ano 0 (365 ou 366, consoante o caso).
 
-<sup>2</sup> Este contingente pautal substitui o contingente pautal de 1500 toneladas métricas (volume inicial) estabelecido no anexo ii, secção 1, ponto 1, do Acordo de Associação de 2002.
+2 Este contingente pautal substitui o contingente pautal de 1500 toneladas métricas (volume inicial) estabelecido no anexo ii, secção 1, ponto 1, do Acordo de Associação de 2002.
 
-<sup>3</sup> Para maior clareza: esta disposição visa refletir o aumento de volume anual previsto no Acordo de Associação de 2002 até à data de entrada em vigor do presente Acordo.
+3 Para maior clareza: esta disposição visa refletir o aumento de volume anual previsto no Acordo de Associação de 2002 até à data de entrada em vigor do presente Acordo.
 
-<sup>4</sup> Este contingente pautal substitui o contingente pautal de 5000 toneladas métricas (volume inicial) estabelecido no anexo ii, secção 1, ponto 3, alínea a), do Acordo de Associação de 2002.
+4 Este contingente pautal substitui o contingente pautal de 5000 toneladas métricas (volume inicial) estabelecido no anexo ii, secção 1, ponto 3, alínea a), do Acordo de Associação de 2002.
 
-<sup>5</sup> Este contingente pautal substitui o contingente pautal de 1000 toneladas métricas (volume inicial) estabelecido no anexo i, secção 1, n.º 1, alínea a), do Acordo de Associação de 2002. O aumento anual de 10 % da quantidade inicial prevista no anexo i, secção 1, ponto 1, do Acordo de Associação de 2002 é eliminado na data de entrada em vigor do presente Acordo.
+5 Este contingente pautal substitui o contingente pautal de 1000 toneladas métricas (volume inicial) estabelecido no anexo i, secção 1, n.º 1, alínea a), do Acordo de Associação de 2002. O aumento anual de 10 % da quantidade inicial prevista no anexo i, secção 1, ponto 1, do Acordo de Associação de 2002 é eliminado na data de entrada em vigor do presente Acordo.
 
-<sup>6</sup> Para maior clareza: esta disposição visa refletir o aumento de volume anual previsto no Acordo de Associação de 2002 até à data de entrada em vigor do presente Acordo.
+6 Para maior clareza: esta disposição visa refletir o aumento de volume anual previsto no Acordo de Associação de 2002 até à data de entrada em vigor do presente Acordo.
 
-<sup>7</sup> Este contingente pautal substitui o contingente pautal de 3500 toneladas métricas (volume inicial) e o contingente pautal de 1000 toneladas métricas (adicionado após a adesão da Croácia à União Europeia) estabelecidos no anexo i, secção 1, n.º 1, alíneas b) e e), respetivamente, do Acordo de Associação de 2002. O aumento anual de 10 % da quantidade inicial prevista no anexo i, secção 1, ponto 1, do Acordo de Associação de 2002 é eliminado na data de entrada em vigor do presente Acordo.
+7 Este contingente pautal substitui o contingente pautal de 3500 toneladas métricas (volume inicial) e o contingente pautal de 1000 toneladas métricas (adicionado após a adesão da Croácia à União Europeia) estabelecidos no anexo i, secção 1, n.º 1, alíneas b) e e), respetivamente, do Acordo de Associação de 2002. O aumento anual de 10 % da quantidade inicial prevista no anexo i, secção 1, ponto 1, do Acordo de Associação de 2002 é eliminado na data de entrada em vigor do presente Acordo.
 
-<sup>8</sup> Para maior clareza: esta disposição visa refletir o aumento de volume anual previsto no Acordo de Associação de 2002 até à data de entrada em vigor do presente Acordo.
+8 Para maior clareza: esta disposição visa refletir o aumento de volume anual previsto no Acordo de Associação de 2002 até à data de entrada em vigor do presente Acordo.
 
-<sup>9</sup> Este contingente pautal substitui o contingente pautal de 2000 toneladas métricas (volume inicial) estabelecido no anexo i, secção 1, n.º 1, alínea c), do Acordo de Associação de 2002. O aumento anual de 10 % da quantidade inicial prevista no anexo i, secção 1, ponto 1, do Acordo de Associação de 2002 é eliminado na data de entrada em vigor do presente Acordo.
+9 Este contingente pautal substitui o contingente pautal de 2000 toneladas métricas (volume inicial) estabelecido no anexo i, secção 1, n.º 1, alínea c), do Acordo de Associação de 2002. O aumento anual de 10 % da quantidade inicial prevista no anexo i, secção 1, ponto 1, do Acordo de Associação de 2002 é eliminado na data de entrada em vigor do presente Acordo.
 
-<sup>10</sup> Para maior clareza: esta disposição visa refletir o aumento de volume anual previsto no Acordo de Associação de 2002 até à data de entrada em vigor do presente Acordo.
+10 Para maior clareza: esta disposição visa refletir o aumento de volume anual previsto no Acordo de Associação de 2002 até à data de entrada em vigor do presente Acordo.
 
-<sup>11</sup> Este contingente pautal substitui o contingente pautal de 7250 toneladas métricas (volume inicial) estabelecido no anexo i, secção 1, n.º 1, alínea d), do Acordo de Associação de 2002. O aumento anual de 10 % da quantidade inicial prevista no anexo i, secção 1, ponto 1, do Acordo de Associação de 2002 é eliminado na data de entrada em vigor do presente Acordo.
+11 Este contingente pautal substitui o contingente pautal de 7250 toneladas métricas (volume inicial) estabelecido no anexo i, secção 1, n.º 1, alínea d), do Acordo de Associação de 2002. O aumento anual de 10 % da quantidade inicial prevista no anexo i, secção 1, ponto 1, do Acordo de Associação de 2002 é eliminado na data de entrada em vigor do presente Acordo.
 
-<sup>12</sup> Para maior clareza: esta disposição visa refletir o aumento de volume anual previsto no Acordo de Associação de 2002 até à data de entrada em vigor do presente Acordo.
+12 Para maior clareza: esta disposição visa refletir o aumento de volume anual previsto no Acordo de Associação de 2002 até à data de entrada em vigor do presente Acordo.
 
-<sup>13</sup> Este contingente pautal substitui o contingente pautal de 150 toneladas métricas estabelecido no anexo i, secção 1, ponto 5, do Acordo de Associação de 2002.
+13 Este contingente pautal substitui o contingente pautal de 150 toneladas métricas estabelecido no anexo i, secção 1, ponto 5, do Acordo de Associação de 2002.
 
-<sup>14</sup> Este contingente pautal substitui o contingente pautal de 500 toneladas métricas (volume inicial) e de 30 toneladas métricas (volume inicial, adicionado após a adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca à União Europeia), estabelecido no anexo i, secção 1, n.º 2, alínea b), do Acordo de Associação de 2002. O aumento anual de 5 % da quantidade inicial prevista no anexo i, secção 1, ponto 2, do Acordo de Associação de 2002 é eliminado na data de entrada em vigor do presente Acordo.
+14 Este contingente pautal substitui o contingente pautal de 500 toneladas métricas (volume inicial) e de 30 toneladas métricas (volume inicial, adicionado após a adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca à União Europeia), estabelecido no anexo i, secção 1, n.º 2, alínea b), do Acordo de Associação de 2002. O aumento anual de 5 % da quantidade inicial prevista no anexo i, secção 1, ponto 2, do Acordo de Associação de 2002 é eliminado na data de entrada em vigor do presente Acordo.
 
-<sup>15</sup> Este contingente pautal substitui o contingente pautal de 1 000 toneladas métricas (volume inicial) estabelecido no anexo i, secção 1, n.º 2, alínea c), do Acordo de Associação de 2002.
+15 Este contingente pautal substitui o contingente pautal de 1 000 toneladas métricas (volume inicial) estabelecido no anexo i, secção 1, n.º 2, alínea c), do Acordo de Associação de 2002.
 
-<sup>16</sup> Para maior clareza: esta disposição visa refletir o aumento de volume anual previsto no Acordo de Associação de 2002 até à data de entrada em vigor do presente Acordo.
+16 Para maior clareza: esta disposição visa refletir o aumento de volume anual previsto no Acordo de Associação de 2002 até à data de entrada em vigor do presente Acordo.
 
-<sup>17</sup> Este contingente pautal substitui o contingente pautal de 400 toneladas métricas estabelecido no anexo i, secção 1, n.º 3, alínea a), do Acordo de Associação de 2002.
+17 Este contingente pautal substitui o contingente pautal de 400 toneladas métricas estabelecido no anexo i, secção 1, n.º 3, alínea a), do Acordo de Associação de 2002.
 
-<sup>18</sup> Este contingente pautal substitui o contingente pautal de 400 toneladas métricas estabelecido no anexo i, secção 1, n.º 3, alínea b), do Acordo de Associação de 2002.
+18 Este contingente pautal substitui o contingente pautal de 400 toneladas métricas estabelecido no anexo i, secção 1, n.º 3, alínea b), do Acordo de Associação de 2002.
 
-<sup>19</sup> Este contingente pautal substitui o contingente pautal de 500 toneladas métricas estabelecido no anexo i, secção 1, n.º 3, alínea c), do Acordo de Associação de 2002.
+19 Este contingente pautal substitui o contingente pautal de 500 toneladas métricas estabelecido no anexo i, secção 1, n.º 3, alínea c), do Acordo de Associação de 2002.
 
-<sup>20</sup> Este contingente pautal substitui o contingente pautal de 500 toneladas métricas (volume inicial) estabelecido no anexo i, secção 1, n.º 2, alínea d), do Acordo de Associação de 2002.
+20 Este contingente pautal substitui o contingente pautal de 500 toneladas métricas (volume inicial) estabelecido no anexo i, secção 1, n.º 2, alínea d), do Acordo de Associação de 2002.
 
-<sup>21</sup> Para maior clareza: esta disposição visa refletir o aumento de volume anual previsto no Acordo de Associação de 2002 até à data de entrada em vigor do presente Acordo.
+21 Para maior clareza: esta disposição visa refletir o aumento de volume anual previsto no Acordo de Associação de 2002 até à data de entrada em vigor do presente Acordo.
 
-## Apêndice 9-1
+Apêndice 9-1
 
 Calendário Pautal da Parte UE
 
-Nota 1: O âmbito dos produtos inscritos na presente lista é determinado pelos códigos da Nomenclatura Combinada (NC), conforme estabelecido no Regulamento de Execução (UE) 2020/1577 da Comissão<sup>1</sup>.
+Nota 1: O âmbito dos produtos inscritos na presente lista é determinado pelos códigos da Nomenclatura Combinada (NC), conforme estabelecido no Regulamento de Execução (UE) 2020/1577 da Comissão1.
 
 Nota 2: As mercadorias originárias do Chile importadas na Parte UE e classificadas num item pautal assinalado com uma indicação que remeta para a presente nota continuarão a estar isentas de direitos aduaneiros conforme estabelecido no Acordo de Associação de 2002.
 
 Nota 3: O regime de preços de entrada é estabelecido no anexo 2 da nomenclatura combinada constante do anexo i do Regulamento de Execução (UE) 2020/1577.
 
-<sup>1</sup> Regulamento de Execução (UE) 2020/1577 da Comissão de 21 de setembro de 2020 que altera o anexo i do Regulamento (CEE) n.º 2658/87 do Conselho relativo à nomenclatura pautal e estatística e à pauta aduaneira comum (JO, n.º L 361, de 30 de outubro de 2020, p. 1).
+1 Regulamento de Execução (UE) 2020/1577 da Comissão de 21 de setembro de 2020 que altera o anexo i do Regulamento (CEE) n.º 2658/87 do Conselho relativo à nomenclatura pautal e estatística e à pauta aduaneira comum (JO, n.º L 361, de 30 de outubro de 2020, p. 1).
 
 | Item pautal (NC 2021) | Designação das mercadorias (ver nota 1) | Taxa de base | Categoria de escalonamento | Notas |
 | --- | --- | --- | --- | --- |
@@ -12570,7 +12579,7 @@ Nota 3: O regime de preços de entrada é estabelecido no anexo 2 da nomenclatur
 | 3824 99 93 | ------ Outros | 0 | 0 | Ver nota 2 |
 | 3824 99 96 | ----- Outros | 0 | 0 | Ver nota 2 |
 
-## Apêndice 9-2
+Apêndice 9-2
 
 Calendário de eliminação pautal do Chile
 
@@ -12578,9 +12587,9 @@ Nota 1: O âmbito dos produtos inscritos na presente lista é determinado pelos 
 
 Nota 2: As mercadorias originárias da Parte UE importadas no Chile e classificadas num item pautal assinalado com uma indicação que remeta para a presente nota continuarão a estar isentas de direitos aduaneiros conforme estabelecido no Acordo de Associação de 2002.
 
-Nota 3: O sistema de faixas de preços («PBS») é estabelecido pelo artigo 12.º da Lei n.º 18 525<sup>1</sup>. O Chile pode manter o sistema de faixas de preços estabelecido pelo artigo 12.º da Lei n.º 18 525, ou o sistema que lhe suceda, no respeitante às mercadorias classificadas em determinados itens pautais, a saber: 1701.1200, 1701.1300, 1701.1400, 1701.9100, 1701.9910, 1701.9920, 1701.9990, desde que o aplique de forma coerente com os seus direitos e as suas obrigações decorrentes do Acordo da OMC e de maneira que não conceda um tratamento mais favorável às importações de qualquer país terceiro, incluindo países com os quais o Chile tenha concluído, ou venha a concluir, um acordo notificado em conformidade com o artigo xxiv do GATT de 1994.
+Nota 3: O sistema de faixas de preços («PBS») é estabelecido pelo artigo 12.º da Lei n.º 18 5251. O Chile pode manter o sistema de faixas de preços estabelecido pelo artigo 12.º da Lei n.º 18 525, ou o sistema que lhe suceda, no respeitante às mercadorias classificadas em determinados itens pautais, a saber: 1701.1200, 1701.1300, 1701.1400, 1701.9100, 1701.9910, 1701.9920, 1701.9990, desde que o aplique de forma coerente com os seus direitos e as suas obrigações decorrentes do Acordo da OMC e de maneira que não conceda um tratamento mais favorável às importações de qualquer país terceiro, incluindo países com os quais o Chile tenha concluído, ou venha a concluir, um acordo notificado em conformidade com o artigo xxiv do GATT de 1994.
 
-<sup>1</sup> Ley n.º 18.525, de 1986, del Ministerio de Hacienda, que establece Normas sobre Importación de Mercancías al país (Lei n.º 18525, de 1986, do Ministério das Finanças, que estabelece regras aplicáveis à importação de mercadorias no país).
+1 Ley n.º 18.525, de 1986, del Ministerio de Hacienda, que establece Normas sobre Importación de Mercancías al país (Lei n.º 18525, de 1986, do Ministério das Finanças, que estabelece regras aplicáveis à importação de mercadorias no país).
 
 | Código do SH 2021 | Designação das mercadorias (ver nota 1) | Taxa de base | Categoria de escalonamento | Notas |
 | --- | --- | --- | --- | --- |
@@ -12594,16 +12603,16 @@ Nota 3: O sistema de faixas de preços («PBS») é estabelecido pelo artigo 12.
 | 0301.9900 | -- Outros | 0 % |  | Ver nota 2 |
 | 0302.1110 | ---Inteiros | 0 % |  | Ver nota 2 |
 | 0302.1120 | ---Sem cabeça e sem tripas («HG») | 0 % |  | Ver nota 2 |
-| 0302.1130 | ---Medalhões (postas, steak)<sup>*</sup> | 0 % |  | Ver nota 2 |
+| 0302.1130 | ---Medalhões (postas, steak)* | 0 % |  | Ver nota 2 |
 | 0302.1190 | ---Outros | 0 % |  | Ver nota 2 |
 | 0302.1310 | --- Inteiros | 0 % |  | Ver nota 2 |
 | 0302.1320 | --- Sem cabeça e sem tripas («HG») | 0 % |  | Ver nota 2 |
-| 0302.1330 | ---- Medalhões (postas, steak)<sup>*</sup> | 0 % |  | Ver nota 2 |
+| 0302.1330 | ---- Medalhões (postas, steak)* | 0 % |  | Ver nota 2 |
 | 0302.1340 | --- Sem cabeça, sem tripas e sem cauda («HGT») | 0 % |  | Ver nota 2 |
 | 0302.1390 | --- Outros | 0 % |  | Ver nota 2 |
 | 0302.1410 | --- Inteiros | 0 % |  | Ver nota 2 |
 | 0302.1420 | --- Sem cabeça e sem tripas («HG») | 0 % |  | Ver nota 2 |
-| 0302.1430 | ----Medalhões (postas, steak)<sup>*</sup> | 0 % |  | Ver nota 2 |
+| 0302.1430 | ----Medalhões (postas, steak)* | 0 % |  | Ver nota 2 |
 | 0302.1440 | --- Sem cabeça, sem tripas e sem cauda («HGT») | 0 % |  | Ver nota 2 |
 | 0302.1490 | --- Outros | 0 % |  | Ver nota 2 |
 | 0302.1900 | -- Outros | 0 % |  | Ver nota 2 |
@@ -12745,26 +12754,26 @@ Nota 3: O sistema de faixas de preços («PBS») é estabelecido pelo artigo 12.
 | 0302.9990 | --- Outros | 0 % |  | Ver nota 2 |
 | 0303.1110 | ---Inteiros | 0 % |  | Ver nota 2 |
 | 0303.1120 | ---Sem cabeça e sem tripas («HG») | 0 % |  | Ver nota 2 |
-| 0303.1130 | ---Medalhões (postas, steak)<sup>*</sup> | 0 % |  | Ver nota 2 |
-| 0303.1140 | --- Barriga (harami, harasu)* | 0 % |  | Ver nota 2 |
+| 0303.1130 | ---Medalhões (postas, steak)* | 0 % |  | Ver nota 2 |
+| 0303.1140 | --- Barriga (harami, harasu)***** | 0 % |  | Ver nota 2 |
 | 0303.1150 | --- Sem cabeça, sem tripas e sem cauda («HGT») | 0 % |  | Ver nota 2 |
 | 0303.1190 | ---Outros | 0 % |  | Ver nota 2 |
 | 0303.1210 | --- Inteiros | 0 % |  | Ver nota 2 |
 | 0303.1220 | --- Sem cabeça e sem tripas («HG») | 0 % |  | Ver nota 2 |
-| 0303.1230 | --- Medalhões (postas, steak)<sup>*</sup> | 0 % |  | Ver nota 2 |
-| 0303.1240 | --- Barriga (harami, harasu)* | 0 % |  | Ver nota 2 |
+| 0303.1230 | --- Medalhões (postas, steak)* | 0 % |  | Ver nota 2 |
+| 0303.1240 | --- Barriga (harami, harasu)***** | 0 % |  | Ver nota 2 |
 | 0303.1250 | --- Sem cabeça, sem tripas e sem cauda («HGT») | 0 % |  | Ver nota 2 |
 | 0303.1290 | --- Outros | 0 % |  | Ver nota 2 |
 | 0303.1310 | --- Inteiros | 0 % |  | Ver nota 2 |
 | 0303.1320 | --- Sem cabeça e sem tripas («HG») | 0 % |  | Ver nota 2 |
-| 0303.1330 | --- Medalhões (postas, steak)<sup>*</sup> | 0 % |  | Ver nota 2 |
-| 0303.1340 | --- Barriga (harami, harasu)* | 0 % |  | Ver nota 2 |
+| 0303.1330 | --- Medalhões (postas, steak)* | 0 % |  | Ver nota 2 |
+| 0303.1340 | --- Barriga (harami, harasu)***** | 0 % |  | Ver nota 2 |
 | 0303.1350 | --- Sem cabeça, sem tripas e sem cauda («HGT») | 0 % |  | Ver nota 2 |
 | 0303.1390 | --- Outros | 0 % |  | Ver nota 2 |
 | 0303.1410 | --- Inteiras | 0 % |  | Ver nota 2 |
 | 0303.1420 | --- Sem cabeça e sem tripas («HG») | 0 % |  | Ver nota 2 |
-| 0303.1430 | --- Medalhões (postas, steak)<sup>*</sup> | 0 % |  | Ver nota 2 |
-| 0303.1440 | --- Barriga (harami, harasu)* | 0 % |  | Ver nota 2 |
+| 0303.1430 | --- Medalhões (postas, steak)* | 0 % |  | Ver nota 2 |
+| 0303.1440 | --- Barriga (harami, harasu)***** | 0 % |  | Ver nota 2 |
 | 0303.1490 | --- Outras | 0 % |  | Ver nota 2 |
 | 0303.1900 | -- Outros | 0 % |  | Ver nota 2 |
 | 0303.2300 | -- Tilápias (Oreochromis spp.) | 0 % |  | Ver nota 2 |
@@ -12810,11 +12819,11 @@ Nota 3: O sistema de faixas de preços («PBS») é estabelecido pelo artigo 12.
 | 0303.6300 | -- Bacalhau-do-atlântico (Gadus morhua), bacalhau-da-gronelândia (Gadus ogac) e bacalhau-do-pacífico (Gadus macrocephalus) | 0 % |  | Ver nota 2 |
 | 0303.6400 | -- Arinca (hadoque) (Melanogrammus aeglefinus) | 0 % |  | Ver nota 2 |
 | 0303.6500 | -- Escamudo (saithe) (Pollachius virens) | 0 % |  | Ver nota 2 |
-| 0303.6611 | ---- Pescada-do-chile* (Merluccius gayi gayi), inteira | 0 % |  | Ver nota 2 |
-| 0303.6612 | ---- Pescada-do-chile* (Merluccius gayi gayi), sem cabeça e sem tripas («HG») | 0 % |  | Ver nota 2 |
+| 0303.6611 | ---- Pescada-do-chile***** (Merluccius gayi gayi), inteira | 0 % |  | Ver nota 2 |
+| 0303.6612 | ---- Pescada-do-chile***** (Merluccius gayi gayi), sem cabeça e sem tripas («HG») | 0 % |  | Ver nota 2 |
 | 0303.6613 | ---- Pescada-austral (Merluccius australis), inteira | 0 % |  | Ver nota 2 |
 | 0303.6614 | ---- Pescada-austral (Merluccius australis), sem cabeça e sem tripas («HG») | 0 % |  | Ver nota 2 |
-| 0303.6615 | ---- Pescada-do-chile* (Merluccius gayi gayi), sem cabeça, sem tripas e sem cauda («HGT») | 0 % |  | Ver nota 2 |
+| 0303.6615 | ---- Pescada-do-chile***** (Merluccius gayi gayi), sem cabeça, sem tripas e sem cauda («HGT») | 0 % |  | Ver nota 2 |
 | 0303.6616 | ---- Pescada-austral (Merluccius australis), sem cabeça, sem tripas e sem cauda («HGT») | 0 % |  | Ver nota 2 |
 | 0303.6619 | ---- Outras | 0 % |  | Ver nota 2 |
 | 0303.6690 | --- Outras | 0 % |  | Ver nota 2 |
@@ -12923,7 +12932,7 @@ Nota 3: O sistema de faixas de preços («PBS») é estabelecido pelo artigo 12.
 | 0304.4120 | --- Salmão-do-atlântico e salmão-do-danúbio | 0 % |  | Ver nota 2 |
 | 0304.4200 | -- Trutas (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache e Oncorhynchus chrysogaster) | 0 % |  | Ver nota 2 |
 | 0304.4300 | -- Peixes chatos (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae e Citharidae) | 0 % |  | Ver nota 2 |
-| 0304.4410 | --- Pescada-do-chile* (Merluccius gayi gayi) | 0 % |  | Ver nota 2 |
+| 0304.4410 | --- Pescada-do-chile***** (Merluccius gayi gayi) | 0 % |  | Ver nota 2 |
 | 0304.4420 | --- Pescada-austral (Merluccius australis) | 0 % |  | Ver nota 2 |
 | 0304.4430 | --- Granadeiro-da-patagónia (Macrunus magellanicus) | 0 % |  | Ver nota 2 |
 | 0304.4440 | --- Verdinho-austral (Micromesistius australis) | 0 % |  | Ver nota 2 |
@@ -12999,7 +13008,7 @@ Nota 3: O sistema de faixas de preços («PBS») é estabelecido pelo artigo 12.
 | 0304.7100 | -- Bacalhau-do-atlântico (Gadus morhua), bacalhau-da-gronelândia (Gadus ogac) e bacalhau-do-pacífico (Gadus macrocephalus) | 0 % |  | Ver nota 2 |
 | 0304.7200 | -- Arinca (hadoque) (Melanogrammus aeglefinus) | 0 % |  | Ver nota 2 |
 | 0304.7300 | -- Escamudo (saithe) (Pollachius virens) | 0 % |  | Ver nota 2 |
-| 0304.7411 | --- Pescada-do-chile* (Merluccius gayi gayi) | 0 % |  | Ver nota 2 |
+| 0304.7411 | --- Pescada-do-chile***** (Merluccius gayi gayi) | 0 % |  | Ver nota 2 |
 | 0304.7412 | --- Pescada-austral (Merluccius australis) | 0 % |  | Ver nota 2 |
 | 0304.7419 | ---- Outras | 0 % |  | Ver nota 2 |
 | 0304.7490 | --- Outras | 0 % |  | Ver nota 2 |
@@ -13368,18 +13377,18 @@ Nota 3: O sistema de faixas de preços («PBS») é estabelecido pelo artigo 12.
 | 0405.1000 | - Manteiga | 6 % | 7 |  |
 | 0405.2000 | - Pasta de barrar (espalhar) de produtos provenientes do leite | 6 % | 7 |  |
 | 0405.9000 | - Outras | 6 % | 7 |  |
-| 0406.1010 | --Queijos frescos (não curados) | 6 % | 7* | TRQ-Queijo |
-| 0406.1020 | --Queijo creme | 6 % | 7* | TRQ-Queijo |
-| 0406.1030 | --Queijo mozarela | 6 % | 7* | TRQ-Queijo |
-| 0406.1090 | --Outros | 6 % | 7* | TRQ-Queijo |
-| 0406.2000 | - Queijos ralados ou em pó, de qualquer tipo | 6 % | 7* | TRQ-Queijo |
-| 0406.3000 | - Queijos fundidos, exceto ralados ou em pó | 6 % | 7* | TRQ-Queijo |
-| 0406.4000 | - Queijos de pasta azul (mofada) e outros queijos que apresentem veios obtidos utilizando Penicillium roqueforti | 6 % | 7* | TRQ-Queijo |
-| 0406.9010 | --Gouda e queijos de tipo Gouda | 6 % | 7* | TRQ-Queijo |
-| 0406.9020 | --Cheddar e queijos de tipo Cheddar | 6 % | 7* | TRQ-Queijo |
-| 0406.9030 | --Edam e queijos de tipo Edam | 6 % | 7* | TRQ-Queijo |
-| 0406.9040 | --Parmesão e queijos de tipo parmesão | 6 % | 7* | TRQ-Queijo |
-| 0406.9090 | --Outros | 6 % | 7* | TRQ-Queijo |
+| 0406.1010 | --Queijos frescos (não curados) | 6 % | 7***** | TRQ-Queijo |
+| 0406.1020 | --Queijo creme | 6 % | 7***** | TRQ-Queijo |
+| 0406.1030 | --Queijo mozarela | 6 % | 7***** | TRQ-Queijo |
+| 0406.1090 | --Outros | 6 % | 7***** | TRQ-Queijo |
+| 0406.2000 | - Queijos ralados ou em pó, de qualquer tipo | 6 % | 7***** | TRQ-Queijo |
+| 0406.3000 | - Queijos fundidos, exceto ralados ou em pó | 6 % | 7***** | TRQ-Queijo |
+| 0406.4000 | - Queijos de pasta azul (mofada) e outros queijos que apresentem veios obtidos utilizando Penicillium roqueforti | 6 % | 7***** | TRQ-Queijo |
+| 0406.9010 | --Gouda e queijos de tipo Gouda | 6 % | 7***** | TRQ-Queijo |
+| 0406.9020 | --Cheddar e queijos de tipo Cheddar | 6 % | 7***** | TRQ-Queijo |
+| 0406.9030 | --Edam e queijos de tipo Edam | 6 % | 7***** | TRQ-Queijo |
+| 0406.9040 | --Parmesão e queijos de tipo parmesão | 6 % | 7***** | TRQ-Queijo |
+| 0406.9090 | --Outros | 6 % | 7***** | TRQ-Queijo |
 | 0407.1100 | -- De aves da espécie Gallus domesticus | 0 % |  | Ver nota 2 |
 | 0407.1900 | -- Outros | 0 % |  | Ver nota 2 |
 | 0407.2100 | -- De aves da espécie Gallus domesticus | 0 % |  | Ver nota 2 |
@@ -14030,7 +14039,7 @@ c) «Posição» refere-se aos quatro primeiros algarismos do número de classif
 
 d) «Subposição» refere-se aos seis primeiros algarismos do número de classificação pautal constante do Sistema Harmonizado.
 
-5 - Para efeitos das regras de origem específicas por produto, aplicam-se as seguintes abreviaturas<sup>1</sup>:
+5 - Para efeitos das regras de origem específicas por produto, aplicam-se as seguintes abreviaturas1:
 
 a) «CC» refere-se à produção a partir de matérias não originárias de qualquer capítulo, exceto o do produto, ou a uma alteração do capítulo, da posição ou da subposição de qualquer outro capítulo; significa isto que todas as matérias não originárias utilizadas na produção do produto têm de ser submetidas a uma alteração na classificação pautal ao nível dos dois algarismos (ou seja, uma mudança de capítulo) do Sistema Harmonizado;
 
@@ -14238,7 +14247,7 @@ Produtos agrícolas
 
 2 - Sem prejuízo do disposto no artigo 10.5, para os produtos classificados nas subposições 1602.31, 1602.32, 1602.41 e 1602.50 do Sistema Harmonizado, o valor estabelecido no artigo 10.5, n.º 1, alínea a), não deve exceder 15 % do preço à saída da fábrica do produto.
 
-<sup>1</sup> Para maior clareza, se um pedido de alteração da classificação pautal previr uma exceção para a alteração de certos capítulos, posições ou subposições, as matérias não originárias desses capítulos, posições ou subposições não podem ser utilizadas, nem individualmente nem em conjunto.
+1 Para maior clareza, se um pedido de alteração da classificação pautal previr uma exceção para a alteração de certos capítulos, posições ou subposições, as matérias não originárias desses capítulos, posições ou subposições não podem ser utilizadas, nem individualmente nem em conjunto.
 
 ## ANEXO 10-B — Regras de origem específicas por produto
 
@@ -15140,19 +15149,19 @@ c) Emissão de certificados de exportação sanitários e fitossanitários para 
 
 ## ANEXO 13-B — Lista das doenças e das pragas que devem ser notificadas, em relação às quais a indemnidade regional pode ser reconhecida
 
-## Apêndice 13-B-1
+Apêndice 13-B-1
 
 Doenças dos animais terrestres e aquáticos que devem ser notificadas, relativamente às quais é reconhecido o estatuto de uma parte e podem ser tomadas decisões de regionalização
 
 Todas as doenças animais enumeradas na versão mais recente da lista da Organização Mundial da Saúde Animal (OMSA), incluída no Código Zoossanitário Internacional para os animais terrestres e aquáticos.
 
-## Apêndice 13-B-2
+Apêndice 13-B-2
 
 Pragas sujeitas a notificação, relativamente às quais é reconhecido o estatuto de uma parte e podem ser tomadas decisões de regionalização
 
 1 - Para a Parte UE:
 
-a) Pragas cuja ocorrência não é conhecida em qualquer parte da União Europeia e que são relevantes para toda a Parte UE, ou para parte dela, enumeradas no anexo ii, parte A, do Regulamento de Execução (UE) 2019/2072;<sup>1</sup>
+a) Pragas cuja ocorrência não é conhecida em qualquer parte da União Europeia e que são relevantes para toda a Parte UE, ou para parte dela, enumeradas no anexo ii, parte A, do Regulamento de Execução (UE) 2019/2072;1
 
 b) Pragas cuja ocorrência é conhecida na União Europeia e que são relevantes para toda a Parte UE, enumeradas no anexo ii, parte B, do Regulamento de Execução (UE) 2019/2072; e
 
@@ -15160,7 +15169,7 @@ c) Pragas cuja ocorrência é conhecida na União Europeia e para as quais estã
 
 2 - No que respeita ao Chile:
 
-a) Pragas cuja ocorrência não é conhecida em nenhuma parte do Chile, enumeradas no artigo 20.º da Resolução n.º 3080/2003 do Servicio Agrícola y Ganadero<sup>2</sup>;
+a) Pragas cuja ocorrência não é conhecida em nenhuma parte do Chile, enumeradas no artigo 20.º da Resolução n.º 3080/2003 do Servicio Agrícola y Ganadero2;
 
 b) Pragas cuja ocorrência é conhecida no Chile e sob controlo oficial, enumeradas no artigo 21.º da Resolução n.º 3080/2003 do Servicio Agrícola y Ganadero; e
 
@@ -15186,7 +15195,7 @@ b) Doenças dos animais aquáticos: A base para as decisões de reconhecimento d
 
 a) A norma n.º 4 (Requisitos para o estabelecimento de zonas indemnes de organismos prejudiciais) e as definições correspondentes da norma n.º 5 (Glossário de termos fitossanitários) das normas internacionais da FAO para as medidas fitossanitárias; ou
 
-b) Artigo 32.º do Regulamento (UE) 2016/2031 do Parlamento Europeu e do Conselho<sup>1</sup>.
+b) Artigo 32.º do Regulamento (UE) 2016/2031 do Parlamento Europeu e do Conselho1.
 
 3 - Critérios para o reconhecimento do estatuto especial de um território ou de uma região de uma Parte no que diz respeito a uma doença animal específica:
 
@@ -15206,7 +15215,7 @@ b) Se a Parte de importação exigir garantias adicionais de natureza geral ou e
 
 c) Cada Parte notifica a outra Parte de qualquer mudança dos critérios indicados na alínea a) do presente número no que respeita à doença. Quaisquer garantias adicionais estabelecidas pela Parte de importação em conformidade com a alínea b) do presente número podem, na sequência dessa notificação, ser alteradas ou anuladas.
 
-<sup>1</sup> Regulamento (UE) 2016/2031 do Parlamento Europeu e do Conselho, de 26 de outubro de 2016, relativo a medidas de proteção contra as pragas dos vegetais, e que altera os Regulamentos (UE) n.º 228/2013, (UE) n.º 652/2014 e (UE) n.º 1143/2014 do Parlamento Europeu e do Conselho e revoga as Diretivas 69/464/CEE, 74/647/CEE, 93/85/CEE, 98/57/CE, 2000/29/CE, 2006/91/CE e 2007/33/CE do Conselho (JO UE, n.º L 317, de 23 de novembro de 2016, p. 4).
+1 Regulamento (UE) 2016/2031 do Parlamento Europeu e do Conselho, de 26 de outubro de 2016, relativo a medidas de proteção contra as pragas dos vegetais, e que altera os Regulamentos (UE) n.º 228/2013, (UE) n.º 652/2014 e (UE) n.º 1143/2014 do Parlamento Europeu e do Conselho e revoga as Diretivas 69/464/CEE, 74/647/CEE, 93/85/CEE, 98/57/CE, 2000/29/CE, 2006/91/CE e 2007/33/CE do Conselho (JO UE, n.º L 317, de 23 de novembro de 2016, p. 4).
 
 ## ANEXO 13-D — Condições e procedimento de aprovação de estabelecimentos para a importação de animais, produtos animais, produtos de origem animal e subprodutos animais
 
@@ -15308,7 +15317,7 @@ F) Experiências anteriores.
 
 5 - Se, na sequência da avaliação da demonstração da equivalência, determinar que a equivalência não é alcançada, a Parte de importação deve fornecer uma explicação à Parte de exportação.
 
-## Apêndice 13-E-1
+Apêndice 13-E-1
 
 Setores ou subsetores prioritários cuja equivalência pode ser reconhecida
 
@@ -15434,14 +15443,14 @@ i) Para as importações na Parte UE:
 | 2 - Controlos de identidade | 100 % |
 | 3 - Controlos físicos |  |
 | Animais vivos | 100 % |
-| Produtos da categoria I- Carne fresca, incluindo miudezas, e produtos das espécies bovina, ovina, caprina, suína e equina definidos no Regulamento (CE) n.º 853/2004 do Parlamento Europeu e do Conselho<sup>1</sup>- Produtos de peixe em recipientes hermeticamente fechados destinados a torná-los estáveis à temperatura ambiente, peixe fresco e congelado e produtos da pesca secos e/ou salgados- Ovos inteiros- Banha de porco e gorduras fundidas- Tripas de animais- Ovos para incubação | 20 % |
+| Produtos da categoria I- Carne fresca, incluindo miudezas, e produtos das espécies bovina, ovina, caprina, suína e equina definidos no Regulamento (CE) n.º 853/2004 do Parlamento Europeu e do Conselho1- Produtos de peixe em recipientes hermeticamente fechados destinados a torná-los estáveis à temperatura ambiente, peixe fresco e congelado e produtos da pesca secos e/ou salgados- Ovos inteiros- Banha de porco e gorduras fundidas- Tripas de animais- Ovos para incubação | 20 % |
 | Produtos da categoria II- Carne de aves de capoeira e produtos à base de carne de aves de capoeira- Carne de coelho, carne de caça (selvagem/de criação) e seus produtos- Leite e produtos lácteos destinados ao consumo humano- Ovoprodutos- Proteínas animais transformadas para consumo humano- Outros produtos da pesca diferentes dos abrangidos pelos 20 %- Moluscos bivalves- Mel | 50 % |
 | Produtos da categoria III- Sémen- Embriões- Estrume- Leite e produtos lácteos (não destinados ao consumo humano)- Gelatina- Coxas de rã e caracóis- Ossos e produtos à base de ossos- Couros e peles- Cerdas, lã, pelos e penas- Chifres, produtos à base de chifres, cascos e produtos à base de cascos- Produtos da apicultura- Troféus de caça- Alimentos transformados para animais de companhia- Matérias-primas para o fabrico de alimentos para animais de companhia- Matérias-primas, sangue, produtos derivados de sangue, glândulas e órgãos para uso farmacêutico ou técnico- Feno e palha- Agentes patogénicos- Proteínas animais transformadas (embaladas) | No mínimo 1 %, no máximo, 10 % |
-| Proteínas animais transformadas não destinadas ao consumo humano (a granel) | 100 % para as primeiras seis remessas (Regulamento (UE) n.º 142/2011 da Comissão) e,<sup>2</sup> em seguida, 20 % |
+| Proteínas animais transformadas não destinadas ao consumo humano (a granel) | 100 % para as primeiras seis remessas (Regulamento (UE) n.º 142/2011 da Comissão) e,2 em seguida, 20 % |
 
-<sup>1</sup> Regulamento (CE) n.º 853/2004 do Parlamento Europeu e do Conselho, de 29 de abril de 2004, que estabelece regras específicas de higiene aplicáveis aos géneros alimentícios de origem animal (JO UE, n.º L 139, de 30 de abril de 2004, p. 55).
+1 Regulamento (CE) n.º 853/2004 do Parlamento Europeu e do Conselho, de 29 de abril de 2004, que estabelece regras específicas de higiene aplicáveis aos géneros alimentícios de origem animal (JO UE, n.º L 139, de 30 de abril de 2004, p. 55).
 
-<sup>2</sup> Regulamento (UE) n.º 142/2011 da Comissão, de 25 de fevereiro de 2011, que aplica o Regulamento (CE) n.º 1069/2009 do Parlamento Europeu e do Conselho que define regras sanitárias relativas a subprodutos animais e produtos derivados não destinados ao consumo humano e que aplica a Diretiva 97/78/CE do Conselho no que se refere a certas amostras e certos artigos isentos de controlos veterinários nas fronteiras ao abrigo da referida diretiva (JO UE, n.º L 54, de 26 de fevereiro de 2011, p. 1).
+2 Regulamento (UE) n.º 142/2011 da Comissão, de 25 de fevereiro de 2011, que aplica o Regulamento (CE) n.º 1069/2009 do Parlamento Europeu e do Conselho que define regras sanitárias relativas a subprodutos animais e produtos derivados não destinados ao consumo humano e que aplica a Diretiva 97/78/CE do Conselho no que se refere a certas amostras e certos artigos isentos de controlos veterinários nas fronteiras ao abrigo da referida diretiva (JO UE, n.º L 54, de 26 de fevereiro de 2011, p. 1).
 
 ii) Para as importações para o Chile:
 
@@ -15453,12 +15462,12 @@ ii) Para as importações para o Chile:
 | 4 - Animais vivos | 100 % |
 | Produtos da categoria 1- Carne fresca de bovino | 50 % |
 | (Controlo físico após constatação = 10 remessas seguintes). | 100 % |
-| Produtos da categoria 2- Carnes frescas de aves de capoeira, ovinos, caprinos, suínos, equídeos e selvagens- Carne de répteis e anfíbios- Carne transformada (bovina, suíno, aves de capoeira)- Leite e produtos lácteos- Mel- Ovos inteiros - Tripas- Miudezas- Tendões, cartilagens, centro tendíneo do diafragma bovino- Sémen e embriões- Farinhas de penas, farinhas de concha, farinhas de carne e de ossos- Óleos e iscos- Produtos à base de sangue- Extrato de carne, extrato de glândulas(Controlo físico após constatação = 10 remessas seguintes). | 20 %50 % |
-| Produtos da categoria 3- Carne de canguru- Carne de répteis- Carne enlatada e produtos enlatados à base de carne- Guano de aves marinhas- Penas, pelos, cerdas e crinas- Colagénio, gelatina- Sangue, soro, plasma in vitro- Refeições prontas- Bílis e meios de cultura- Cera de abelhas- Couros de várias espécies- Geleia real e própolis- Extrato de carne- Lã, exceto lã industrializada - Toucinho, gorduras, pele de porco comestível- Sangue, soro e plasma animais para utilização in vitro- Tendões e cartilagens- Gordura animal (toucinho, couro comestível)- Jerky- Troféus e animais embalsamados- Couros curtidos, semicurtidos, curtidos a cromo-húmido e piquelados- Lã industrial, tingida e penteada- Alimentos equilibrados para animais de companhia(Controlo físico após constatação = 10 remessas seguintes). | Mínimo 1 %Máximo 10 %20 % |
+| Produtos da categoria 2- Carnes frescas de aves de capoeira, ovinos, caprinos, suínos, equídeos e selvagens- Carne de répteis e anfíbios- Carne transformada (bovina, suíno, aves de capoeira)- Leite e produtos lácteos- Mel- Ovos inteiros- Tripas- Miudezas- Tendões, cartilagens, centro tendíneo do diafragma bovino- Sémen e embriões- Farinhas de penas, farinhas de concha, farinhas de carne e de ossos- Óleos e iscos- Produtos à base de sangue- Extrato de carne, extrato de glândulas(Controlo físico após constatação = 10 remessas seguintes). | 20 %50 % |
+| Produtos da categoria 3- Carne de canguru- Carne de répteis- Carne enlatada e produtos enlatados à base de carne- Guano de aves marinhas- Penas, pelos, cerdas e crinas- Colagénio, gelatina- Sangue, soro, plasma in vitro- Refeições prontas- Bílis e meios de cultura- Cera de abelhas- Couros de várias espécies- Geleia real e própolis- Extrato de carne- Lã, exceto lã industrializada- Toucinho, gorduras, pele de porco comestível- Sangue, soro e plasma animais para utilização in vitro- Tendões e cartilagens- Gordura animal (toucinho, couro comestível)- Jerky- Troféus e animais embalsamados- Couros curtidos, semicurtidos, curtidos a cromo-húmido e piquelados- Lã industrial, tingida e penteada- Alimentos equilibrados para animais de companhia(Controlo físico após constatação = 10 remessas seguintes). | Mínimo 1 %Máximo 10 %20 % |
 
 b) Para as plantas e produtos vegetais:
 
-i) Para as importações na Parte UE, para as plantas, produtos vegetais e outros produtos enumerados no anexo xi do Regulamento de Execução (UE) 2019/2072 da Comissão<sup>1</sup>:
+i) Para as importações na Parte UE, para as plantas, produtos vegetais e outros produtos enumerados no anexo xi do Regulamento de Execução (UE) 2019/2072 da Comissão1:
 
 | Tipo de controlo fronteiriço | Taxa de frequência |
 | --- | --- |
@@ -15498,13 +15507,13 @@ C) A receção diz respeito aos transportes internacionais para a determinação
 | Contentores | Inspeção fitossanitária |
 | Máquinas e veículos usados que tenham sido utilizados para fins agrícolas ou florestais | Controlos documentaisControlos de identidadeInspeção fitossanitária |
 
-<sup>1</sup> Regulamento de Execução (UE) 2019/2072 da Comissão, de 28 de novembro de 2019, que estabelece condições uniformes para a execução do Regulamento (UE) 2016/2031 do Parlamento Europeu e do Conselho no que se refere a medidas de proteção contra as pragas dos vegetais, e que revoga o Regulamento (CE) n.º 690/2008 da Comissão e altera o Regulamento de Execução (UE) 2018/2019 da Comissão (JO UE, n.º L 319, de 10 de dezembro de 2019, p. 1).
+1 Regulamento de Execução (UE) 2019/2072 da Comissão, de 28 de novembro de 2019, que estabelece condições uniformes para a execução do Regulamento (UE) 2016/2031 do Parlamento Europeu e do Conselho no que se refere a medidas de proteção contra as pragas dos vegetais, e que revoga o Regulamento (CE) n.º 690/2008 da Comissão e altera o Regulamento de Execução (UE) 2018/2019 da Comissão (JO UE, n.º L 319, de 10 de dezembro de 2019, p. 1).
 
 ## ANEXO 13-H — Certificação
 
 1 - Aplicam-se os seguintes princípios de certificação:
 
-a) No que respeita à certificação de plantas, produtos vegetais e outras mercadorias, as autoridades competentes aplicam os artigos 100.º e 101.º do Regulamento (UE) 2016/2031 do Parlamento Europeu e do Conselho<sup>1</sup> e os princípios estabelecidos nas Normas Internacionais n.º 7 da FAO relativas às Medidas Fitossanitárias «Regime de certificação de exportação» e nas Normas Internacionais n.º 12 da FAO relativas às Medidas Fitossanitárias «Diretrizes para os certificados fitossanitários»; e
+a) No que respeita à certificação de plantas, produtos vegetais e outras mercadorias, as autoridades competentes aplicam os artigos 100.º e 101.º do Regulamento (UE) 2016/2031 do Parlamento Europeu e do Conselho1 e os princípios estabelecidos nas Normas Internacionais n.º 7 da FAO relativas às Medidas Fitossanitárias «Regime de certificação de exportação» e nas Normas Internacionais n.º 12 da FAO relativas às Medidas Fitossanitárias «Diretrizes para os certificados fitossanitários»; e
 
 b) No que respeita à certificação de animais e produtos animais:
 
@@ -15641,7 +15650,7 @@ d) Não devem resultar num preço preferencial inferior ao preço mais baixo par
 
 ## ANEXO 16-B — Avaliação da conformidade - Domínios e especificidades
 
-1 - Lista de campos<sup>1</sup>:
+1 - Lista de campos1:
 
 a) Aspetos de segurança dos equipamentos elétricos e eletrónicos, tal como definidos no n.º 2;
 
@@ -15717,7 +15726,7 @@ d) A necessidade de introduzir tais requisitos não pudesse ter sido razoavelmen
 
 Antes de introduzir tais requisitos, a Parte notifica a outra Parte e, na sequência da realização de consultas, toma tanto quanto possível em consideração as observações da outra Parte para elaborar esses requisitos.
 
-<sup>1</sup> Para maior clareza, o presente anexo não abrange aeronaves inteiras, navios, caminhos-de-ferro, veículos a motor, nem equipamento especializado marítimo, ferroviário, aéreo ou automóvel.
+1 Para maior clareza, o presente anexo não abrange aeronaves inteiras, navios, caminhos-de-ferro, veículos a motor, nem equipamento especializado marítimo, ferroviário, aéreo ou automóvel.
 
 ## ANEXO 16-C — Veículos a motor e equipamentos e peças dos mesmos
 
@@ -15733,7 +15742,7 @@ d) «Regulamentos da ONU», os regulamentos técnicos adotados em conformidade c
 
 2 - Os termos utilizados no presente anexo têm o mesmo significado que os definidos no Acordo de 1958 ou no anexo 1 do Acordo OTC.
 
-3 - O presente anexo é aplicável ao comércio entre as Partes de todas as categorias de veículos a motor, equipamentos e peças dos mesmos, tal como definidos no ponto 1.2 da Resolução Consolidada da UNECE sobre a construção de veículos (R.E.3)<sup>1</sup>, nomeadamente aqueles abrangidos pelos capítulos 40, 84, 85, 87 e 94 do SH 2017 (a seguir designados por «produtos abrangidos»).
+3 - O presente anexo é aplicável ao comércio entre as Partes de todas as categorias de veículos a motor, equipamentos e peças dos mesmos, tal como definidos no ponto 1.2 da Resolução Consolidada da UNECE sobre a construção de veículos (R.E.3)1, nomeadamente aqueles abrangidos pelos capítulos 40, 84, 85, 87 e 94 do SH 2017 (a seguir designados por «produtos abrangidos»).
 
 4 - No que respeita aos produtos abrangidos, os objetivos do presente anexo são os seguintes:
 
@@ -15747,7 +15756,7 @@ d) Garantir a proteção da saúde humana, da segurança e do ambiente, reconhec
 
 5 - As Partes reconhecem que os regulamentos da ONU são normas internacionais pertinentes para os produtos abrangidos.
 
-6 - A Parte de importação aceita no seu mercado os veículos a motor novos e os equipamentos para veículos a motor novos e suas peças, desde que o fabricante tenha certificado, em conformidade com as disposições legislativas e regulamentares aplicáveis da Parte de importação, que o veículo ou equipamento ou as suas peças cumprem as normas de segurança e os regulamentos técnicos correspondentes aplicáveis na Parte de importação<sup>2</sup>.
+6 - A Parte de importação aceita no seu mercado os veículos a motor novos e os equipamentos para veículos a motor novos e suas peças, desde que o fabricante tenha certificado, em conformidade com as disposições legislativas e regulamentares aplicáveis da Parte de importação, que o veículo ou equipamento ou as suas peças cumprem as normas de segurança e os regulamentos técnicos correspondentes aplicáveis na Parte de importação2.
 
 7 - As Partes reconhecem que o Chile incorporou nos seus regulamentos técnicos determinados regulamentos técnicos da União Europeia e da UNECE e a aceitação dos relatórios de ensaio e dos certificados de homologação correspondentes.
 
@@ -15903,7 +15912,7 @@ SK - Eslováquia;
 
 EEE - Espaço Económico Europeu.
 
-## Apêndice 17-A-1
+Apêndice 17-A-1
 
 Lista da Parte UE
 
@@ -15953,7 +15962,7 @@ Requisitos de desempenho;
 
 Quadros superiores e conselhos de administração.
 
-### Capítulo/secção: Liberalização do investimento e comércio transnacional de serviços.
+Capítulo/secção: Liberalização do investimento e comércio transnacional de serviços.
 
 Nível de governo: UE/Estado-Membro (salvo disposição em contrário)
 
@@ -16205,13 +16214,13 @@ Quadros superiores e conselhos de administração;
 
 Presença local.
 
-### Capítulo/secção: Liberalização do investimento; Comércio transnacional de serviços.
+Capítulo/secção: Liberalização do investimento; Comércio transnacional de serviços.
 
 Nível de governo: UE/Estado-Membro (salvo disposição em contrário).
 
 Descrição:
 
-a) Serviços jurídicos (parte do CPC 861)<sup>1</sup><sup>:</sup>
+a) Serviços jurídicos (parte do CPC 861)1:
 
 Para maior clareza, em conformidade com as Notas introdutórias, em particular o n.º 9, os requisitos para inscrição na Ordem dos Advogados podem incluir a exigência de ter obtido um diploma de Direito no país de acolhimento ou equivalente ou de ter completado formação sob a supervisão de um advogado habilitado ou ainda a exigência de um escritório ou endereço postal na jurisdição de uma Ordem dos Advogados para poder ser membro dessa Ordem dos Advogados. Alguns Estados-Membros podem impor o requisito de ter o direito de exercer advocacia na jurisdição de acolhimento a pessoas singulares que detenham determinados cargos numa sociedade de advogados, sociedade, empresa ou aos acionistas.
 
@@ -16289,9 +16298,9 @@ SK (no que respeita igualmente ao tratamento de nação mais favorecida) À pres
 
 Medidas:
 
-UE: Artigo 120.º do Regulamento (UE) 2017/1001 do Parlamento Europeu e do Conselho<sup>2</sup>;
+UE: Artigo 120.º do Regulamento (UE) 2017/1001 do Parlamento Europeu e do Conselho2;
 
-###### Artigo 78.º do Regulamento (CE) n.º 6/2002 do Conselho, de 12 de dezembro de 2001<sup>3</sup>.
+Artigo 78.º do Regulamento (CE) n.º 6/2002 do Conselho, de 12 de dezembro de 20013.
 
 AT: Rechtsanwaltsordnung (Lei dos advogados) - RAO, RGBl. n.º 96/1868, artigos 1 e 21c.; Rechtsanwaltsgesetz - EIRAG, BGBl. Nr. 27/2000, na versão alterada; § 41 EIRAG.
 
@@ -16481,7 +16490,7 @@ UE: A prestação de serviços de revisão legal de contas requer a aprovação 
 
 Medidas:
 
-UE: Diretiva 2013/34/UE do Parlamento Europeu e do Conselho<sup>4</sup>; e Diretiva 2006/43/CE do Parlamento Europeu e do Conselho<sup>5</sup>.
+UE: Diretiva 2013/34/UE do Parlamento Europeu e do Conselho4; e Diretiva 2006/43/CE do Parlamento Europeu e do Conselho5.
 
 Medidas:
 
@@ -16715,7 +16724,7 @@ Quadros superiores e conselhos de administração;
 
 Presença local.
 
-### Capítulo/secção: Liberalização do investimento e comércio transnacional de serviços.
+Capítulo/secção: Liberalização do investimento e comércio transnacional de serviços.
 
 Descrição:
 
@@ -16985,7 +16994,7 @@ Classificação setorial: CPC 851, 853.
 
 Tipo de reserva: Tratamento nacional.
 
-### Capítulo: Liberalização do investimento e Comércio transnacional de serviços.
+Capítulo: Liberalização do investimento e Comércio transnacional de serviços.
 
 Nível de governo: UE/Estado-Membro (salvo disposição em contrário).
 
@@ -17015,7 +17024,7 @@ Tratamento de nação mais favorecida;
 
 Presença local.
 
-### Capítulo: Liberalização do investimento e Comércio transnacional de serviços.
+Capítulo: Liberalização do investimento e Comércio transnacional de serviços.
 
 Nível de governo: UE/Estado-Membro (salvo disposição em contrário).
 
@@ -17079,7 +17088,7 @@ Quadros superiores e conselhos de administração;
 
 Presença local.
 
-### Capítulo: Liberalização do investimento e comércio transnacional de serviços.
+Capítulo: Liberalização do investimento e comércio transnacional de serviços.
 
 Nível de governo: UE/Estado-Membro (salvo disposição em contrário).
 
@@ -17113,7 +17122,7 @@ No que respeita aos sistemas informatizados de reserva (SIR), se os prestadores 
 
 Medidas:
 
-UE: Regulamento (CE) n.º 1008/2008 do Parlamento Europeu e do Conselho<sup>6</sup>; e Regulamento (CE) n.º 80/2009 do Parlamento Europeu e do Conselho<sup>7</sup>.
+UE: Regulamento (CE) n.º 1008/2008 do Parlamento Europeu e do Conselho6; e Regulamento (CE) n.º 80/2009 do Parlamento Europeu e do Conselho7.
 
 No que respeita à liberalização do investimento - tratamento nacional e comércio transnacional de serviços - tratamento nacional:
 
@@ -17381,7 +17390,7 @@ Classificação setorial: CPC 51.
 
 Tipo de reserva: Tratamento nacional.
 
-### Capítulo: Liberalização do investimento; Comércio transnacional de serviços.
+Capítulo: Liberalização do investimento; Comércio transnacional de serviços.
 
 Nível de governo: UE/Estado-Membro (salvo disposição em contrário).
 
@@ -17405,7 +17414,7 @@ Tratamento nacional;
 
 Presença local.
 
-### Capítulo: Liberalização do investimento; Comércio transnacional de serviços.
+Capítulo: Liberalização do investimento; Comércio transnacional de serviços.
 
 Nível de governo: UE/Estado-Membro (salvo disposição em contrário).
 
@@ -17483,7 +17492,7 @@ Quadros superiores e conselhos de administração;
 
 Presença local.
 
-### Capítulo: Liberalização do investimento; comércio transnacional de serviços.
+Capítulo: Liberalização do investimento; comércio transnacional de serviços.
 
 Nível de governo: UE/Estado-Membro (salvo disposição em contrário).
 
@@ -17559,7 +17568,7 @@ Classificação setorial: Parte de CPC 9402, 9404.
 
 Tipo de reserva: Presença local.
 
-### Capítulo: Comércio transnacional de serviços.
+Capítulo: Comércio transnacional de serviços.
 
 Nível de governo: UE/Estado-Membro (salvo disposição em contrário).
 
@@ -17583,7 +17592,7 @@ Classificação setorial: CPC 931, 933.
 
 Tipo de reserva: Tratamento nacional.
 
-### Capítulo: Liberalização do investimento e Comércio transnacional de serviços.
+Capítulo: Liberalização do investimento e Comércio transnacional de serviços.
 
 Nível de governo: UE/Estado-Membro (salvo disposição em contrário).
 
@@ -17611,7 +17620,7 @@ Quadros superiores e conselhos de administração;
 
 Presença local.
 
-### Capítulo: Liberalização do investimento; Comércio transnacional de serviços.
+Capítulo: Liberalização do investimento; Comércio transnacional de serviços.
 
 Nível de governo: UE/Estado-Membro (salvo disposição em contrário).
 
@@ -17705,7 +17714,7 @@ Tratamento nacional;
 
 Quadros superiores e conselhos de administração.
 
-### Capítulo: Liberalização do investimento; Comércio transnacional de serviços.
+Capítulo: Liberalização do investimento; Comércio transnacional de serviços.
 
 Nível de governo: UE/Estado-Membro (salvo disposição em contrário).
 
@@ -17781,7 +17790,7 @@ Quadros superiores e conselhos de administração;
 
 Presença local.
 
-### Capítulo: Liberalização do investimento; comércio transnacional de serviços.
+Capítulo: Liberalização do investimento; comércio transnacional de serviços.
 
 Nível de governo: UE/Estado-Membro (salvo disposição em contrário).
 
@@ -17919,7 +17928,7 @@ UE: Para os serviços de assistência em escala, pode ser requerido o estabeleci
 
 Medidas:
 
-UE: Diretiva 96/67/CE do Conselho, de 15 de outubro de 1996<sup>8</sup>.
+UE: Diretiva 96/67/CE do Conselho, de 15 de outubro de 19968.
 
 BE (aplica-se igualmente ao nível de administração regional): Para os serviços de assistência em escala, é exigida a reciprocidade.
 
@@ -17939,7 +17948,7 @@ Na UE (aplica-se igualmente ao nível de administração regional): Os serviços
 
 Medidas:
 
-UE: Regulamento (UE) n.º 952/2013 do Parlamento Europeu e do Conselho<sup>9</sup>.
+UE: Regulamento (UE) n.º 952/2013 do Parlamento Europeu e do Conselho9.
 
 f) Prestação de serviços de transporte combinado:
 
@@ -17949,7 +17958,7 @@ Na UE (aplica-se igualmente ao nível de administração regional): Com exceçã
 
 Podem ser tomadas medidas necessárias para assegurar a redução ou o reembolso dos impostos sobre os veículos automóveis aplicáveis aos veículos rodoviários, quando encaminhados em transporte combinado.
 
-Medidas: UE: Diretiva 1992/106/CEE do Conselho<sup>10</sup>.
+Medidas: UE: Diretiva 1992/106/CEE do Conselho10.
 
 Reserva n.º 15 - Extração mineira e atividades relacionadas com a energia
 
@@ -17965,7 +17974,7 @@ Quadros superiores e conselhos de administração;
 
 Presença local.
 
-### Capítulo: Liberalização do investimento; Comércio transnacional de serviços.
+Capítulo: Liberalização do investimento; Comércio transnacional de serviços.
 
 Nível de governo: UE/Estado-Membro (salvo disposição em contrário).
 
@@ -18143,7 +18152,7 @@ Quadros superiores e conselhos de administração;
 
 Presença local.
 
-### Capítulo: Liberalização do investimento; Comércio transnacional de serviços.
+Capítulo: Liberalização do investimento; Comércio transnacional de serviços.
 
 Nível de governo: UE/Estado-Membro (salvo disposição em contrário).
 
@@ -18265,7 +18274,7 @@ Lei fundamental sobre a liberdade de expressão (1991: 1469); e
 
 Lei sobre as portarias relativas à Lei sobre a liberdade de imprensa e à Lei fundamental sobre a liberdade de expressão (1991: 1559).
 
-<sup>1</sup> Para efeitos da presente reserva:
+1 Para efeitos da presente reserva:
 
 a) «Direito nacional» significa o direito do Estado-Membro específico e o direito da União Europeia;
 
@@ -18277,25 +18286,25 @@ d) «Representação jurídica» inclui a elaboração de documentos destinados 
 
 e) «Arbitragem, conciliação e mediação jurídicas» significa a elaboração de documentos a apresentar, a preparação e a comparência perante um árbitro, conciliador ou mediador em qualquer litígio que implique a aplicação e interpretação da lei; não inclui os serviços de arbitragem, conciliação e mediação em litígios que não implicam a aplicação e interpretação da lei, que são da competência de serviços relacionados com a consultoria de gestão; não inclui igualmente a atuação como árbitro, conciliador ou mediador; como subcategoria, os serviços jurídicos de arbitragem, conciliação ou mediação internacional referem-se aos mesmos serviços quando o litígio envolve partes de dois ou mais países.
 
-<sup>2</sup> Regulamento (UE) 2017/1001 do Parlamento Europeu e do Conselho, de 14 de junho de 2017, sobre a marca da União Europeia (JO UE, n.º L 154, de 16 de junho de 2017, p. 1).
+2 Regulamento (UE) 2017/1001 do Parlamento Europeu e do Conselho, de 14 de junho de 2017, sobre a marca da União Europeia (JO UE, n.º L 154, de 16 de junho de 2017, p. 1).
 
-<sup>3</sup> Regulamento (CE) n.º 6/2002 do Conselho, de 12 de dezembro de 2001, relativo aos desenhos ou modelos comunitários (JO UE , n.º L 3, de 5 de janeiro de 2002, p. 1).
+3 Regulamento (CE) n.º 6/2002 do Conselho, de 12 de dezembro de 2001, relativo aos desenhos ou modelos comunitários (JO UE , n.º L 3, de 5 de janeiro de 2002, p. 1).
 
-<sup>4</sup> Diretiva 2013/34/UE do Parlamento Europeu e do Conselho, de 26 de junho de 2013, relativa às demonstrações financeiras anuais, às demonstrações financeiras consolidadas e aos relatórios conexos de certas formas de empresas, que altera a Diretiva 2006/43/CE do Parlamento Europeu e do Conselho e revoga as Diretivas 78/660/CEE e 83/349/CEE do Conselho (JO UE, n.º L 182, de 29 de junho de 2013, p. 19).
+4 Diretiva 2013/34/UE do Parlamento Europeu e do Conselho, de 26 de junho de 2013, relativa às demonstrações financeiras anuais, às demonstrações financeiras consolidadas e aos relatórios conexos de certas formas de empresas, que altera a Diretiva 2006/43/CE do Parlamento Europeu e do Conselho e revoga as Diretivas 78/660/CEE e 83/349/CEE do Conselho (JO UE, n.º L 182, de 29 de junho de 2013, p. 19).
 
-<sup>5</sup> Diretiva 2006/43/CE do Parlamento Europeu e do Conselho, de 17 de maio de 2006, relativa à revisão legal das contas anuais e consolidadas, que altera as Diretivas 78/660/CEE e 83/349/CEE do Conselho e que revoga a Diretiva 84/253/CEE do Conselho (JO UE, n.º L 157, de 9 de junho de 2006, p. 87).
+5 Diretiva 2006/43/CE do Parlamento Europeu e do Conselho, de 17 de maio de 2006, relativa à revisão legal das contas anuais e consolidadas, que altera as Diretivas 78/660/CEE e 83/349/CEE do Conselho e que revoga a Diretiva 84/253/CEE do Conselho (JO UE, n.º L 157, de 9 de junho de 2006, p. 87).
 
-<sup>6</sup> Regulamento (CE) n.º 1008/2008 do Parlamento Europeu e do Conselho, de 24 de setembro de 2008, relativo a regras comuns de exploração dos serviços aéreos na Comunidade (JO UE, n.º L 293, de 31 de outubro de 2008, p. 3).
+6 Regulamento (CE) n.º 1008/2008 do Parlamento Europeu e do Conselho, de 24 de setembro de 2008, relativo a regras comuns de exploração dos serviços aéreos na Comunidade (JO UE, n.º L 293, de 31 de outubro de 2008, p. 3).
 
-<sup>7</sup> Regulamento (CE) n.º 80/2009 do Parlamento Europeu e do Conselho, de 14 de janeiro de 2009, relativo a um código de conduta para os sistemas informatizados de reserva e que revoga o Regulamento (CEE) n.º 2299/89 do Conselho (JO UE, n.º L 35, de 4 de fevereiro de 2009, p. 47).
+7 Regulamento (CE) n.º 80/2009 do Parlamento Europeu e do Conselho, de 14 de janeiro de 2009, relativo a um código de conduta para os sistemas informatizados de reserva e que revoga o Regulamento (CEE) n.º 2299/89 do Conselho (JO UE, n.º L 35, de 4 de fevereiro de 2009, p. 47).
 
-<sup>8</sup> Diretiva 96/67/CE do Conselho, de 15 de outubro de 1996, relativa ao acesso ao mercado da assistência em escala nos aeroportos da Comunidade (JO UE, n.º L 272, de 25 de outubro de 1996, p. 36).
+8 Diretiva 96/67/CE do Conselho, de 15 de outubro de 1996, relativa ao acesso ao mercado da assistência em escala nos aeroportos da Comunidade (JO UE, n.º L 272, de 25 de outubro de 1996, p. 36).
 
-<sup>9</sup> Regulamento (UE) n.º 952/2013 do Parlamento Europeu e do Conselho, de 9 de outubro de 2013, que estabelece o Código Aduaneiro da União (JO UE, n.º L 269, de 10 de outubro de 2013, p. 1).
+9 Regulamento (UE) n.º 952/2013 do Parlamento Europeu e do Conselho, de 9 de outubro de 2013, que estabelece o Código Aduaneiro da União (JO UE, n.º L 269, de 10 de outubro de 2013, p. 1).
 
-<sup>10</sup> Diretiva 92/106/CEE do Conselho, de 7 de dezembro de 1992, relativa ao estabelecimento de regras comuns para certos transportes combinados de mercadorias entre Estados-Membros (JO UE, n.º L 368, de 17 de dezembro de 1992, p. 38).
+10 Diretiva 92/106/CEE do Conselho, de 7 de dezembro de 1992, relativa ao estabelecimento de regras comuns para certos transportes combinados de mercadorias entre Estados-Membros (JO UE, n.º L 368, de 17 de dezembro de 1992, p. 38).
 
-## Apêndice 17-A-2
+Apêndice 17-A-2
 
 Lista do Chile
 
@@ -18337,7 +18346,7 @@ Decreto com a Força de Lei (DFL) 1 do Ministério do Trabalho e da Segurança S
 
 Descrição: Investimento.
 
-Pelo menos 85 % dos empregados que trabalham para o mesmo empregador devem ser pessoas singulares chilenas ou estrangeiros com mais de cinco anos de residência no Chile. Esta regra aplica-se aos empregadores com mais de 25 trabalhadores ao abrigo de um contrato de trabalho<sup>1</sup>. O pessoal técnico especializado não está submetido a esta disposição, tal como determinado pela Direção do Trabalho (Dirección del Trabajo).
+Pelo menos 85 % dos empregados que trabalham para o mesmo empregador devem ser pessoas singulares chilenas ou estrangeiros com mais de cinco anos de residência no Chile. Esta regra aplica-se aos empregadores com mais de 25 trabalhadores ao abrigo de um contrato de trabalho1. O pessoal técnico especializado não está submetido a esta disposição, tal como determinado pela Direção do Trabalho (Dirección del Trabajo).
 
 Por empregado entende-se qualquer pessoa singular que preste serviços intelectuais ou materiais, sob dependência ou subordinação, nos termos de um contrato de trabalho.
 
@@ -19015,7 +19024,7 @@ SK - Eslováquia;
 
 EEA - Espaço Económico Europeu.
 
-## Apêndice 17-B-1
+Apêndice 17-B-1
 
 LISTA DA PARTE UE
 
@@ -19079,7 +19088,7 @@ Quadros superiores e conselhos de administração (Investimento);
 
 Presença local (CBTS).
 
-### Capítulo/secção: Liberalização do investimento e comércio transnacional de serviços.
+Capítulo/secção: Liberalização do investimento e comércio transnacional de serviços.
 
 Descrição:
 
@@ -19125,7 +19134,7 @@ iii) Rejeitar a aquisição de ações, sempre que o comprador procure manter um
 
 Qualquer decisão, lei ou operação (como transferências, fusões, cisões, mudanças de atividade ou rescisões) relativa aos ativos estratégicos nos domínios da energia, dos transportes e das comunicações deve ser notificada pela empresa em causa ao gabinete do Primeiro-Ministro. Em especial, devem ser notificadas as aquisições por qualquer pessoa singular ou coletiva de fora da União Europeia que confiram a essa pessoa o controlo sobre a empresa.
 
-**O Primeiro-Ministro pode exercer os seguintes poderes especiais para:**
+O Primeiro-Ministro pode exercer os seguintes poderes especiais para:
 
 i) Vetar qualquer decisão, lei e operação que constitua uma ameaça excecional de prejuízo grave para o interesse público no domínio da segurança e exploração das redes e fornecimentos;
 
@@ -19275,7 +19284,7 @@ Tratamento de nação mais favorecida;
 
 Quadros superiores e conselhos de administração.
 
-### Capítulo: Liberalização do investimento e comércio transnacional de serviços.
+Capítulo: Liberalização do investimento e comércio transnacional de serviços.
 
 Descrição:
 
@@ -19339,7 +19348,7 @@ Requisitos de desempenho;
 
 Presença local.
 
-### Capítulo: Liberalização do investimento e comércio transnacional de serviços.
+Capítulo: Liberalização do investimento e comércio transnacional de serviços.
 
 Descrição:
 
@@ -19439,7 +19448,7 @@ Classificação setorial: CPC 851, 852, 853.
 
 Tipo de reserva: Tratamento nacional.
 
-### Capítulo: Comércio transnacional de serviços.
+Capítulo: Comércio transnacional de serviços.
 
 Descrição:
 
@@ -19459,7 +19468,7 @@ Classificação setorial: CPC 821, 822.
 
 Tipo de reserva: Tratamento nacional.
 
-### Capítulo: Comércio transnacional de serviços.
+Capítulo: Comércio transnacional de serviços.
 
 Descrição:
 
@@ -19475,7 +19484,7 @@ Classificação setorial: CPC 832.
 
 Tipo de reserva: Tratamento nacional.
 
-### Capítulo: Comércio transnacional de serviços.
+Capítulo: Comércio transnacional de serviços.
 
 Descrição:
 
@@ -19495,7 +19504,7 @@ Tratamento nacional;
 
 Presença local.
 
-### Capítulo: Comércio transnacional de serviços.
+Capítulo: Comércio transnacional de serviços.
 
 Descrição:
 
@@ -19517,7 +19526,7 @@ Quadros superiores e conselhos de administração;
 
 Presença local.
 
-### Capítulo: Liberalização do investimento e comércio transnacional de serviços.
+Capítulo: Liberalização do investimento e comércio transnacional de serviços.
 
 Descrição:
 
@@ -19601,7 +19610,7 @@ Requisitos de desempenho;
 
 Presença local.
 
-### Capítulo: Liberalização do investimento e comércio transnacional de serviços.
+Capítulo: Liberalização do investimento e comércio transnacional de serviços.
 
 Descrição:
 
@@ -19673,7 +19682,7 @@ Requisitos de desempenho;
 
 Presença local.
 
-### Capítulo: Liberalização do investimento e comércio transnacional de serviços.
+Capítulo: Liberalização do investimento e comércio transnacional de serviços.
 
 Descrição:
 
@@ -19735,7 +19744,7 @@ Setor: Serviços de radiodifusão por satélite.
 
 Tipo de reserva: Tratamento nacional.
 
-### Capítulo: Liberalização do investimento e comércio transnacional de serviços.
+Capítulo: Liberalização do investimento e comércio transnacional de serviços.
 
 Descrição:
 
@@ -19751,7 +19760,7 @@ Classificação setorial: CPC 51.
 
 Tipo de reserva: Tratamento nacional.
 
-### Capítulo: Liberalização do investimento e comércio transnacional de serviços.
+Capítulo: Liberalização do investimento e comércio transnacional de serviços.
 
 Descrição:
 
@@ -19773,7 +19782,7 @@ Quadros superiores e conselhos de administração;
 
 Requisitos de desempenho.
 
-### Capítulo: Liberalização do investimento e comércio transnacional de serviços.
+Capítulo: Liberalização do investimento e comércio transnacional de serviços.
 
 Descrição:
 
@@ -19831,7 +19840,7 @@ Requisitos de desempenho;
 
 Presença local.
 
-### Capítulo: Liberalização do investimento e comércio transnacional de serviços.
+Capítulo: Liberalização do investimento e comércio transnacional de serviços.
 
 Descrição:
 
@@ -19881,7 +19890,7 @@ Classificação setorial: CPC 9401, 9402, 9403, 94060.
 
 Tipo de reserva: Presença local.
 
-### Capítulo: Comércio transnacional de serviços.
+Capítulo: Comércio transnacional de serviços.
 
 Descrição:
 
@@ -19907,7 +19916,7 @@ Requisitos de desempenho;
 
 Presença local.
 
-### Capítulo: Liberalização do investimento e comércio transnacional de serviços.
+Capítulo: Liberalização do investimento e comércio transnacional de serviços.
 
 Descrição:
 
@@ -19997,7 +20006,7 @@ Tratamento nacional;
 
 Tratamento de nação mais favorecida.
 
-### Capítulo: Liberalização do investimento e comércio transnacional de serviços.
+Capítulo: Liberalização do investimento e comércio transnacional de serviços.
 
 Descrição:
 
@@ -20027,7 +20036,7 @@ Requisitos de desempenho;
 
 Presença local.
 
-### Capítulo: Liberalização do investimento e comércio transnacional de serviços.
+Capítulo: Liberalização do investimento e comércio transnacional de serviços.
 
 Descrição:
 
@@ -20091,7 +20100,7 @@ Requisitos de desempenho;
 
 Presença local.
 
-### Capítulo: Liberalização do investimento e comércio transnacional de serviços.
+Capítulo: Liberalização do investimento e comércio transnacional de serviços.
 
 Descrição:
 
@@ -20269,7 +20278,7 @@ Requisitos de desempenho;
 
 Presença local.
 
-### Capítulo: Liberalização do investimento e comércio transnacional de serviços.
+Capítulo: Liberalização do investimento e comércio transnacional de serviços.
 
 Descrição:
 
@@ -20351,7 +20360,7 @@ Requisitos de desempenho;
 
 Presença local.
 
-### Capítulo: Liberalização do investimento e comércio transnacional de serviços.
+Capítulo: Liberalização do investimento e comércio transnacional de serviços.
 
 Descrição:
 
@@ -20549,7 +20558,7 @@ Requisitos de desempenho;
 
 Presença local.
 
-### Capítulo: Liberalização do investimento e comércio transnacional de serviços.
+Capítulo: Liberalização do investimento e comércio transnacional de serviços.
 
 Descrição:
 
@@ -20605,7 +20614,7 @@ Na UE: Para a prestação de novos serviços que não os classificados na CPC.
 
 10 Diretiva 2009/73/CE do Parlamento Europeu e do Conselho, de 13 de julho de 2009, que estabelece regras comuns para o mercado interno do gás natural e que revoga a Diretiva 2003/55/CE (JO UE L 211 de 14.8.2009, p. 94).
 
-## Apêndice 17-B-2
+Apêndice 17-B-2
 
 Lista do Chile
 
@@ -21095,7 +21104,7 @@ SK - Eslováquia;
 
 EEA - Espaço Económico Europeu.
 
-## Apêndice 17-C-1
+Apêndice 17-C-1
 
 Lista da Parte UE
 
@@ -21234,7 +21243,7 @@ Lista da Parte UE
 
 1 A UE subscreveu o Memorando de Entendimento sobre o âmbito de cobertura dos serviços informáticos (CPC 84).
 
-## Apêndice 17-C-2
+Apêndice 17-C-2
 
 Lista do Chile
 
@@ -22380,9 +22389,9 @@ EEA - Espaço Económico Europeu;
 
 CMF - Comisión para el Mercado Financiero (Comissão do Mercado Financeiro).
 
-## Apêndice 25-1
+Apêndice 25-1
 
-# Parte UE reservas e compromissos em matéria de acesso ao mercado
+Parte UE reservas e compromissos em matéria de acesso ao mercado
 
 #### SECÇÃO A — COMPROMISSOS EM MATÉRIA DE COMÉRCIO TRANSNACIONAL DE SERVIÇOS FINANCEIROS
 
@@ -22624,7 +22633,7 @@ Na AT: A direção de uma sucursal deve ser assegurada por, pelo menos, duas pes
 
 Na BG: Requisito de residência para os membros dos órgãos de direção e supervisão das companhias de (res)seguros e para qualquer pessoa autorizada a administrar ou representar a companhia de (res)seguros.
 
-**O presidente do conselho de direção, o presidente do conselho de administração, o diretor executivo e o agente com funções de gestão das companhias de seguro de pensão têm de ter um endereço permanente ou ser titulares de uma autorização de residência de longa duração na Bulgária.**
+O presidente do conselho de direção, o presidente do conselho de administração, o diretor executivo e o agente com funções de gestão das companhias de seguro de pensão têm de ter um endereço permanente ou ser titulares de uma autorização de residência de longa duração na Bulgária.
 
 Medidas:
 
@@ -22924,7 +22933,7 @@ LT: Lei sobre os bancos da República da Lituânia de 30 de março de 2004, n.º
 
 4 Diretiva 2011/61/UE do Parlamento Europeu e do Conselho, de 8 de junho de 2011, relativa aos gestores de fundos de investimento alternativos e que altera as Diretivas 2003/41/CE e 2009/65/CE e os Regulamentos (CE) n.º 1060/2009 e (UE) n.º 1095/2010 (JO UE L 174 de 1.7.2011, p. 1).
 
-## Apêndice 25-2
+Apêndice 25-2
 
 Chile reservas e compromissos em matéria de acesso ao mercado
 
@@ -22937,10 +22946,10 @@ Entende-se que os compromissos de uma Parte no domínio dos serviços de consult
 | Setor | Subsetor |
 | --- | --- |
 | Serviços de seguros e serviços conexos | Venda de seguros para o transporte marítimo internacional, a aviação comercial internacional e o lançamento e transporte espacial (incluindo satélites) e mercadorias em trânsito internacional (incluindo as mercadorias transportadas). Não está incluído o transporte nacional (cabotagem). |
-| Serviços de seguros e serviços conexos | Corretores de seguros de transporte marítimo internacional, aviação comercial internacional e lançamento e transporte espacial (incluindo satélites) e mercadorias em trânsito internacional (incluindo as mercadorias transportadas, o veículo que transporta as mercadorias e a responsabilidade civil daí decorrente). Não está incluído o transporte nacional (cabotagem). |
-| Serviços de seguros e serviços conexos | Resseguro e retrocessão; corretagem de resseguros; e serviços de consultoria, atuariais e de avaliação de riscos. |
+| Corretores de seguros de transporte marítimo internacional, aviação comercial internacional e lançamento e transporte espacial (incluindo satélites) e mercadorias em trânsito internacional (incluindo as mercadorias transportadas, o veículo que transporta as mercadorias e a responsabilidade civil daí decorrente). Não está incluído o transporte nacional (cabotagem). |  |
+| Resseguro e retrocessão; corretagem de resseguros; e serviços de consultoria, atuariais e de avaliação de riscos. |  |
 | Serviços bancários e outros serviços financeiros (excluindo os seguros) | Prestação e transferência de informações financeiras, tratamento de dados financeiros e fornecimento de programas informáticos conexos, realizados por prestadores de outros serviços financeiros; |
-| Serviços bancários e outros serviços financeiros (excluindo os seguros) | Serviços de consultoria e outros serviços financeiros auxiliares, exceto a intermediação e referência e análise de crédito, relacionados com serviços bancários e outros serviços financeiros. |
+| Serviços de consultoria e outros serviços financeiros auxiliares, exceto a intermediação e referência e análise de crédito, relacionados com serviços bancários e outros serviços financeiros. |  |
 
 #### SECÇÃO B — COMPROMISSOS EM MATÉRIA DE ACESSO AO MERCADO NO RESPEITANTE À LIBERALIZAÇÃO DO INVESTIMENTO
 
@@ -22950,56 +22959,56 @@ O Chile reserva-se o direito de adotar ou manter qualquer medida no que diz resp
 
 2 - O Chile reserva-se o direito de adotar medidas para regulamentar os conglomerados financeiros, incluindo as entidades que fazem parte desses conglomerados.
 
-| Setor ou subsetor | Limitações ao acesso ao mercado | Limitações ao acesso ao mercado | Limitações ao acesso ao mercado |
-| --- | --- | --- | --- |
-| Todos os serviços financeiros | O Chile pode, numa base não discriminatória, restringir ou exigir um tipo específico de entidade jurídica, incluindo sociedades, sucursais estrangeiras, escritórios de representação ou qualquer outra forma de presença comercial, através da qual as entidades que operam em todos os subsetores de serviços financeiros podem prestar serviços financeiros.O Chile pode, numa base não discriminatória, restringir ou exigir um tipo específico de sociedade. | O Chile pode, numa base não discriminatória, restringir ou exigir um tipo específico de entidade jurídica, incluindo sociedades, sucursais estrangeiras, escritórios de representação ou qualquer outra forma de presença comercial, através da qual as entidades que operam em todos os subsetores de serviços financeiros podem prestar serviços financeiros.O Chile pode, numa base não discriminatória, restringir ou exigir um tipo específico de sociedade. | O Chile pode, numa base não discriminatória, restringir ou exigir um tipo específico de entidade jurídica, incluindo sociedades, sucursais estrangeiras, escritórios de representação ou qualquer outra forma de presença comercial, através da qual as entidades que operam em todos os subsetores de serviços financeiros podem prestar serviços financeiros.O Chile pode, numa base não discriminatória, restringir ou exigir um tipo específico de sociedade. |
-| Todos os serviços de seguros e serviços conexos | No Chile, o setor de seguros está dividido em dois grupos de empresas: o primeiro inclui as companhias que seguram contra os riscos de perda e deterioração de objetos ou de património, enquanto o segundo compreende as empresas que cobrem os riscos das pessoas ou que lhes garantem durante ou no termo de um período determinado, um montante em capital, uma apólice saldada ou um rendimento para o segurado ou os seus beneficiários. A mesma companhia de seguros não pode organizar-se para cobrir os dois grupos de riscos. | No Chile, o setor de seguros está dividido em dois grupos de empresas: o primeiro inclui as companhias que seguram contra os riscos de perda e deterioração de objetos ou de património, enquanto o segundo compreende as empresas que cobrem os riscos das pessoas ou que lhes garantem durante ou no termo de um período determinado, um montante em capital, uma apólice saldada ou um rendimento para o segurado ou os seus beneficiários. A mesma companhia de seguros não pode organizar-se para cobrir os dois grupos de riscos. | No Chile, o setor de seguros está dividido em dois grupos de empresas: o primeiro inclui as companhias que seguram contra os riscos de perda e deterioração de objetos ou de património, enquanto o segundo compreende as empresas que cobrem os riscos das pessoas ou que lhes garantem durante ou no termo de um período determinado, um montante em capital, uma apólice saldada ou um rendimento para o segurado ou os seus beneficiários. A mesma companhia de seguros não pode organizar-se para cobrir os dois grupos de riscos. |
-|  | As companhias de seguro-crédito devem constituir-se em pessoas coletivas tendo como objeto exclusivo a cobertura deste género de riscos, por exemplo, a perda ou a deterioração do património do segurado resultante da falta de pagamento de uma dívida ou de um empréstimo em numerário, podendo igualmente cobrir os riscos de garantia e fidelidade.As sociedades anónimas de seguros devem ser constituídas em conformidade com as disposições da lei sobre as sociedades anónimas. As sucursais de empresas estrangeiras que podem operar no setor dos seguros chileno devem estar estabelecidas no Chile a título de «agencia de sociedad anónima extranjera» autorizada para o efeito.Os seguros podem ser subscritos diretamente ou através de corretores de seguros registados que, para exercer essa atividade, devem estar inscritos no registo. | As companhias de seguro-crédito devem constituir-se em pessoas coletivas tendo como objeto exclusivo a cobertura deste género de riscos, por exemplo, a perda ou a deterioração do património do segurado resultante da falta de pagamento de uma dívida ou de um empréstimo em numerário, podendo igualmente cobrir os riscos de garantia e fidelidade.As sociedades anónimas de seguros devem ser constituídas em conformidade com as disposições da lei sobre as sociedades anónimas. As sucursais de empresas estrangeiras que podem operar no setor dos seguros chileno devem estar estabelecidas no Chile a título de «agencia de sociedad anónima extranjera» autorizada para o efeito.Os seguros podem ser subscritos diretamente ou através de corretores de seguros registados que, para exercer essa atividade, devem estar inscritos no registo. | As companhias de seguro-crédito devem constituir-se em pessoas coletivas tendo como objeto exclusivo a cobertura deste género de riscos, por exemplo, a perda ou a deterioração do património do segurado resultante da falta de pagamento de uma dívida ou de um empréstimo em numerário, podendo igualmente cobrir os riscos de garantia e fidelidade.As sociedades anónimas de seguros devem ser constituídas em conformidade com as disposições da lei sobre as sociedades anónimas. As sucursais de empresas estrangeiras que podem operar no setor dos seguros chileno devem estar estabelecidas no Chile a título de «agencia de sociedad anónima extranjera» autorizada para o efeito.Os seguros podem ser subscritos diretamente ou através de corretores de seguros registados que, para exercer essa atividade, devem estar inscritos no registo. |
-| Seguro direto | Venda de seguros diretos do ramo vida (não inclui seguros relacionados com o sistema de segurança social) (CPC 81211) | Venda de seguros diretos do ramo vida (não inclui seguros relacionados com o sistema de segurança social) (CPC 81211) | Os serviços de seguros só podem ser prestados por companhias de seguros constituídas no Chile a título de sociedades anónimas ou a título de sucursais de sociedades estrangeiras com o único objetivo de desenvolver este ramo de atividade. |
-| Seguro direto | Venda de seguros diretos gerais (CPC 8129, exceto CPC 81299), excluindo instituições de saúde da segurança social (Instituciones de Salud Previsional, ISAPRES), por exemplo, pessoas coletivas constituídas com o objetivo de prestar serviços de saúde a pessoas singulares que optem por aderir e são financiadas por meio de contribuições obrigatórias deduzidas do rendimento tributável ou por meio de um montante mais elevado, consoante o caso. Exclui igualmente o Fondo Nacional de Salud (FONASA), organismo público financiado pelo Governo e por meio de contribuições obrigatórias de rendimento tributável, responsável pelo pagamento de prestações de saúde a pessoas que não sejam membros de uma ISAPRE. Não inclui a venda de seguros para o transporte marítimo internacional, a aviação comercial internacional e as mercadorias em trânsito internacional. | Venda de seguros diretos gerais (CPC 8129, exceto CPC 81299), excluindo instituições de saúde da segurança social (Instituciones de Salud Previsional, ISAPRES), por exemplo, pessoas coletivas constituídas com o objetivo de prestar serviços de saúde a pessoas singulares que optem por aderir e são financiadas por meio de contribuições obrigatórias deduzidas do rendimento tributável ou por meio de um montante mais elevado, consoante o caso. Exclui igualmente o Fondo Nacional de Salud (FONASA), organismo público financiado pelo Governo e por meio de contribuições obrigatórias de rendimento tributável, responsável pelo pagamento de prestações de saúde a pessoas que não sejam membros de uma ISAPRE. Não inclui a venda de seguros para o transporte marítimo internacional, a aviação comercial internacional e as mercadorias em trânsito internacional. | A prestação de serviços de seguro está reservada a companhias de seguros constituídas no Chile a título de «sociedades anónimas» ou a título de sucursais de sociedades estrangeiras com o único objetivo de desenvolver este ramo de atividade, quer se trate de seguros diretos do ramo vida ou de seguros diretos gerais.No âmbito dos seguros gerais de crédito (CPC 81296), a empresa deve estar constituída em sociedade anónima de seguros estabelecida no Chile, tendo por único objetivo a cobertura deste tipo de riscos. |
-|  | Venda de seguros para o transporte marítimo internacional, a aviação comercial internacional e o lançamento e transporte espacial (incluindo satélites) e mercadorias em trânsito internacional (incluindo as mercadorias transportadas). Não está incluído o transporte nacional (cabotagem) | Venda de seguros para o transporte marítimo internacional, a aviação comercial internacional e o lançamento e transporte espacial (incluindo satélites) e mercadorias em trânsito internacional (incluindo as mercadorias transportadas). Não está incluído o transporte nacional (cabotagem) | As sociedades anónimas de seguros constituídas no Chile que tenham por único objetivo a venda de seguros diretos gerais podem propor a venda de seguros para o transporte marítimo internacional, a aviação comercial internacional e lançamento e transporte espacial (incluindo satélites) e mercadorias em trânsito internacional (incluindo as mercadorias transportadas). |
-| Resseguro e retrocessão | Resseguro e retrocessão (incluindo corretores de resseguros) | Resseguro e retrocessão (incluindo corretores de resseguros) | O resseguro é prestado por sociedades anónimas de resseguros estabelecidas no Chile e autorizadas pela CMF. As sociedades anónimas de seguros também podem prestar serviços de resseguro como complemento das suas atividades de seguro se os seus estatutos o previrem.Os serviços de resseguro e retrocessão podem igualmente ser prestados por companhias de resseguro estrangeiras e corretores de resseguro estrangeiros inscritos no registo da CMF (Registo). |
-| Intermediação de seguros | Corretores de seguros (exceto seguros para o transporte marítimo internacional, a aviação comercial internacional e o lançamento e transporte espacial, incluindo satélites, e mercadorias em trânsito internacional). | Corretores de seguros (exceto seguros para o transporte marítimo internacional, a aviação comercial internacional e o lançamento e transporte espacial, incluindo satélites, e mercadorias em trânsito internacional). | Acesso reservado às pessoas coletivas legalmente constituídas no Chile com este objeto específico. |
-| Intermediação de seguros | Corretores de seguros de transporte marítimo internacional, aviação comercial internacional e lançamento e transporte espacial (incluindo satélites) e mercadorias em trânsito internacional (incluindo as mercadorias transportadas, o veículo que transporta as mercadorias e a responsabilidade civil daí decorrente). Não está incluído o transporte nacional (cabotagem). | Corretores de seguros de transporte marítimo internacional, aviação comercial internacional e lançamento e transporte espacial (incluindo satélites) e mercadorias em trânsito internacional (incluindo as mercadorias transportadas, o veículo que transporta as mercadorias e a responsabilidade civil daí decorrente). Não está incluído o transporte nacional (cabotagem). | Corretores de seguros de transporte marítimo internacional, aviação comercial internacional e lançamento e transporte espacial (incluindo satélites) e mercadorias em trânsito internacional (incluindo as mercadorias transportadas, o veículo que transporta as mercadorias e a responsabilidade civil daí decorrente). Acesso reservado às pessoas coletivas legalmente constituídas no Chile com este objeto específico. |
-| Serviços auxiliares de seguros, como consultoria, cálculo atuarial, avaliação de risco e regularização de sinistros; | Regularização de sinistros. | Regularização de sinistros. | Os serviços de regularização de sinistros podem ser diretamente prestados por companhias de seguro estabelecidas no Chile ou por pessoas coletivas constituídas no Chile. |
-| Serviços auxiliares de seguros, como consultoria, cálculo atuarial, avaliação de risco e regularização de sinistros; | Serviços auxiliares no setor dos seguros (apenas serviços de consultoria, cálculo atuarial e avaliação de riscos) | Serviços auxiliares no setor dos seguros (apenas serviços de consultoria, cálculo atuarial e avaliação de riscos) | Os serviços auxiliares no setor dos seguros só podem ser prestados por pessoas coletivas constituídas no Chile. |
-|  | Gestão de planos de poupança reforma complementares (ahorro previsional voluntario) através de seguros de vida | Gestão de planos de poupança reforma complementares (ahorro previsional voluntario) através de seguros de vida | Não consolidado no que diz respeito ao artigo 25.6, n.º 1, alínea e). Os planos de poupança reforma complementares apenas podem ser propostos por companhias de seguros do ramo vida estabelecidas no Chile em conformidade com as disposições acima referidas. Estes planos e as apólices associadas devem ser previamente autorizadas pela CMF. |
-| Serviços bancários | As instituições bancárias estrangeiras devem ser sociedades bancárias legalmente constituídas no respetivo país de origem e contribuir com o capital exigido pela legislação chilena.As instituições bancárias estrangeiras só podem operar:a) As instituições bancárias estrangeiras constituídas em sociedades anónimas só podem operar no Chile:b) Se se constituírem como sociedade anónima no Chile; ouc) A título de sucursais de sociedades estrangeiras constituídas no Chile como agência de sociedades estrangeiras (agencia de sociedad anónima extranjera), caso em que é reconhecida a personalidade jurídica no país de origem, constituindo-se em sociedades anónimas no Chile; Os aumentos de capital ou reservas que não resultem da capitalização de outras reservas terão o mesmo tratamento que os capitais próprios iniciais. Nas transações entre uma sucursal e a sede principal no estrangeiro, ambas serão consideradas entidades independentes. | As instituições bancárias estrangeiras devem ser sociedades bancárias legalmente constituídas no respetivo país de origem e contribuir com o capital exigido pela legislação chilena.As instituições bancárias estrangeiras só podem operar:a) As instituições bancárias estrangeiras constituídas em sociedades anónimas só podem operar no Chile:b) Se se constituírem como sociedade anónima no Chile; ouc) A título de sucursais de sociedades estrangeiras constituídas no Chile como agência de sociedades estrangeiras (agencia de sociedad anónima extranjera), caso em que é reconhecida a personalidade jurídica no país de origem, constituindo-se em sociedades anónimas no Chile; Os aumentos de capital ou reservas que não resultem da capitalização de outras reservas terão o mesmo tratamento que os capitais próprios iniciais. Nas transações entre uma sucursal e a sede principal no estrangeiro, ambas serão consideradas entidades independentes. | As instituições bancárias estrangeiras devem ser sociedades bancárias legalmente constituídas no respetivo país de origem e contribuir com o capital exigido pela legislação chilena.As instituições bancárias estrangeiras só podem operar:a) As instituições bancárias estrangeiras constituídas em sociedades anónimas só podem operar no Chile:b) Se se constituírem como sociedade anónima no Chile; ouc) A título de sucursais de sociedades estrangeiras constituídas no Chile como agência de sociedades estrangeiras (agencia de sociedad anónima extranjera), caso em que é reconhecida a personalidade jurídica no país de origem, constituindo-se em sociedades anónimas no Chile; Os aumentos de capital ou reservas que não resultem da capitalização de outras reservas terão o mesmo tratamento que os capitais próprios iniciais. Nas transações entre uma sucursal e a sede principal no estrangeiro, ambas serão consideradas entidades independentes. |
-|  | Nenhuma pessoa singular ou coletiva nacional ou estrangeira pode adquirir diretamente ou através de terceiros ações de um banco que, por si só ou adicionadas às ações que essa pessoa já possui, representem mais de 10 % do capital do banco sem ter obtido previamente a autorização da CMF.Além disso, os sócios ou acionistas de uma instituição financeira não podem transferir uma percentagem de direitos ou ações da sua sociedade superior a 10 % sem terem obtido autorização da CMF.As instituições bancárias devem estar constituídas sob a forma de sociedades (sociedades anónimas) ou sucursais, ao abrigo da legislação e regulamentação chilenas, em conformidade com a Lei geral bancária (DFL n.º 3) e com a Lei das Sociedades Anónimas (Ley n.º 18.046), relativas ao estabelecimento de uma agência empresarial estrangeira. O capital e as reservas que os bancos estrangeiros atribuem às sucursais devem ser efetivamente transferidos e convertidos em moeda nacional em conformidade com qualquer um dos sistemas autorizados por lei ou pelo Banco Central do Chile. Os aumentos de capital ou reservas que não resultem da capitalização de outras reservas terão o mesmo tratamento que os capitais próprios iniciais. Nas transações entre uma sucursal e a sede principal no estrangeiro, ambas serão consideradas entidades independentes. Nenhum banco estrangeiro poderá invocar direitos derivados da sua nacionalidade no que diz respeito às transações que a sua sucursal pode realizar no Chile.A prestação de serviços financeiros a título de complemento das atividades bancárias pode ser efetuada diretamente por essas instituições, mediante autorização prévia, ou através de sociedades filiais a determinar pela CMF. | Nenhuma pessoa singular ou coletiva nacional ou estrangeira pode adquirir diretamente ou através de terceiros ações de um banco que, por si só ou adicionadas às ações que essa pessoa já possui, representem mais de 10 % do capital do banco sem ter obtido previamente a autorização da CMF.Além disso, os sócios ou acionistas de uma instituição financeira não podem transferir uma percentagem de direitos ou ações da sua sociedade superior a 10 % sem terem obtido autorização da CMF.As instituições bancárias devem estar constituídas sob a forma de sociedades (sociedades anónimas) ou sucursais, ao abrigo da legislação e regulamentação chilenas, em conformidade com a Lei geral bancária (DFL n.º 3) e com a Lei das Sociedades Anónimas (Ley n.º 18.046), relativas ao estabelecimento de uma agência empresarial estrangeira. O capital e as reservas que os bancos estrangeiros atribuem às sucursais devem ser efetivamente transferidos e convertidos em moeda nacional em conformidade com qualquer um dos sistemas autorizados por lei ou pelo Banco Central do Chile. Os aumentos de capital ou reservas que não resultem da capitalização de outras reservas terão o mesmo tratamento que os capitais próprios iniciais. Nas transações entre uma sucursal e a sede principal no estrangeiro, ambas serão consideradas entidades independentes. Nenhum banco estrangeiro poderá invocar direitos derivados da sua nacionalidade no que diz respeito às transações que a sua sucursal pode realizar no Chile.A prestação de serviços financeiros a título de complemento das atividades bancárias pode ser efetuada diretamente por essas instituições, mediante autorização prévia, ou através de sociedades filiais a determinar pela CMF. | Nenhuma pessoa singular ou coletiva nacional ou estrangeira pode adquirir diretamente ou através de terceiros ações de um banco que, por si só ou adicionadas às ações que essa pessoa já possui, representem mais de 10 % do capital do banco sem ter obtido previamente a autorização da CMF.Além disso, os sócios ou acionistas de uma instituição financeira não podem transferir uma percentagem de direitos ou ações da sua sociedade superior a 10 % sem terem obtido autorização da CMF.As instituições bancárias devem estar constituídas sob a forma de sociedades (sociedades anónimas) ou sucursais, ao abrigo da legislação e regulamentação chilenas, em conformidade com a Lei geral bancária (DFL n.º 3) e com a Lei das Sociedades Anónimas (Ley n.º 18.046), relativas ao estabelecimento de uma agência empresarial estrangeira. O capital e as reservas que os bancos estrangeiros atribuem às sucursais devem ser efetivamente transferidos e convertidos em moeda nacional em conformidade com qualquer um dos sistemas autorizados por lei ou pelo Banco Central do Chile. Os aumentos de capital ou reservas que não resultem da capitalização de outras reservas terão o mesmo tratamento que os capitais próprios iniciais. Nas transações entre uma sucursal e a sede principal no estrangeiro, ambas serão consideradas entidades independentes. Nenhum banco estrangeiro poderá invocar direitos derivados da sua nacionalidade no que diz respeito às transações que a sua sucursal pode realizar no Chile.A prestação de serviços financeiros a título de complemento das atividades bancárias pode ser efetuada diretamente por essas instituições, mediante autorização prévia, ou através de sociedades filiais a determinar pela CMF. |
-| Aceitação de depósitos e outros fundos reembolsáveis da parte do público; | Aceitação de depósitos (exclusivamente contas correntes bancárias, depósitos à ordem, depósitos a prazo, contas de poupança, contratos de recompra de instrumentos financeiros, depósitos para emissão de títulos de garantia bancária).Compra de valores mobiliários objeto de oferta pública [aquisição de obrigações e aquisição de cartas de crédito; subscrição e colocação, como agentes, de ações, obrigações e cartas de crédito (underwriting)].Custódia de valores mobiliários. | Apenas os bancos estabelecidos no Chile em conformidade com as disposições acima referidas. | Apenas os bancos estabelecidos no Chile em conformidade com as disposições acima referidas. |
-| Concessão de todos os tipos de crédito, nomeadamente crédito ao consumo, crédito hipotecário, cessão financeira e financiamento de transações comerciais; | Concessão de crédito [exclusivamente empréstimos correntes, crédito ao consumo, empréstimos em letras de crédito, crédito hipotecário, crédito hipotecário endossável, aquisição de instrumentos financeiros com contrato de revenda, créditos para emissão de títulos de garantia bancária ou outros tipos de financiamento, emissão e negociação de cartas de crédito para a importação ou exportação, emissão e confirmação de cartas de crédito (stand-by)]. | Apenas os bancos estabelecidos no Chile em conformidade com as disposições acima referidas. | Apenas os bancos estabelecidos no Chile em conformidade com as disposições acima referidas. |
-| Concessão de todos os tipos de crédito, nomeadamente crédito ao consumo, crédito hipotecário, cessão financeira e financiamento de transações comerciais; | Cessão financeira. | Não consolidado no que diz respeito ao artigo 25.6, n.º 1, alínea e).Os serviços de cessão financeira são considerados serviços bancários complementares, pelo que estão sujeitos a autorização da CMF. A CMF pode impor requisitos não discriminatórios mais rigorosos. | Não consolidado no que diz respeito ao artigo 25.6, n.º 1, alínea e).Os serviços de cessão financeira são considerados serviços bancários complementares, pelo que estão sujeitos a autorização da CMF. A CMF pode impor requisitos não discriminatórios mais rigorosos. |
-| Concessão de todos os tipos de crédito, nomeadamente crédito ao consumo, crédito hipotecário, cessão financeira e financiamento de transações comerciais; | Titularização. | Os serviços de titularização são considerados serviços bancários complementares. | Os serviços de titularização são considerados serviços bancários complementares. |
-| Locação financeira; | Locação financeira (CPC 81120) (estas sociedades podem oferecer contratos de locação financeira para bens adquiridos a pedido do cliente, isto é, não podem adquirir bens com vista a mantê-los em depósito e oferecê-los para locação.) | Os serviços de locação financeira são considerados serviços bancários complementares e podem ser prestados por bancos ou por filiais constituídas em sociedade expressamente autorizadas para esse efeito. A CMF pode impor requisitos não discriminatórios mais rigorosos. | Os serviços de locação financeira são considerados serviços bancários complementares e podem ser prestados por bancos ou por filiais constituídas em sociedade expressamente autorizadas para esse efeito. A CMF pode impor requisitos não discriminatórios mais rigorosos. |
-| Todos os serviços de pagamento e de transferências monetárias, incluindo os cartões de crédito, os cartões privativos e os cartões de débito, os cheques de viagem e os cheques bancários; | Emissão e gestão de cartões de crédito e cartões de débito (CPC 81133) (exclusivamente cartões de crédito emitidos no Chile)Cheques de viagem.Transferência de fundos (transferências bancárias).Desconto ou aquisição de letras de câmbio e notas promissórias. | Apenas os bancos estabelecidos no Chile em conformidade com as disposições acima referidas. | Apenas os bancos estabelecidos no Chile em conformidade com as disposições acima referidas. |
-| Garantias e compromissos | Aval e garantia de obrigações de terceiros em moeda chilena e em moeda estrangeira | Apenas os bancos estabelecidos no Chile em conformidade com as disposições acima referidas. | Apenas os bancos estabelecidos no Chile em conformidade com as disposições acima referidas. |
-| Transações por conta própria ou por conta de clientes em bolsa ou mercado de balcão; | Intermediação de valores mobiliários objeto de oferta pública (CPC 81321) | A intermediação de valores mobiliários objeto de oferta pública é considerada um serviço bancário complementar e pode ser prestada por bancos através de filiais constituídas no Chile, agentes de valores ou corretores, expressamente autorizados para o efeito. | A intermediação de valores mobiliários objeto de oferta pública é considerada um serviço bancário complementar e pode ser prestada por bancos através de filiais constituídas no Chile, agentes de valores ou corretores, expressamente autorizados para o efeito. |
-| Outros serviços financeiros | Serviços de consultoria e outros serviços financeiros auxiliares (CPC 8133) (exclusivamente os serviços indicados na presente subsecção relativa ao subsetor bancário) | Nenhumas. | Nenhumas. |
-| Outros serviços financeiros | Planos de poupança reforma voluntários (Planes de Ahorro Previsional Voluntario). | Não consolidado no que diz respeito ao artigo 25.6, n.º 1, alínea e).Os planos de poupança reforma complementares só podem ser oferecidos por bancos estabelecidos no Chile ao abrigo de uma das modalidades anteriormente referidas. | Não consolidado no que diz respeito ao artigo 25.6, n.º 1, alínea e).Os planos de poupança reforma complementares só podem ser oferecidos por bancos estabelecidos no Chile ao abrigo de uma das modalidades anteriormente referidas. |
-|  | Serviços de gestão fiduciária (administración de fideicomisos). | Apenas os bancos estabelecidos no Chile em conformidade com as disposições acima referidas. | Apenas os bancos estabelecidos no Chile em conformidade com as disposições acima referidas. |
-|  | Comunicação e transferência de informações financeiras e tratamento de dados financeiros e software com eles relacionado, por prestadores de outros serviços financeiros | Nenhumas. | Nenhumas. |
-|  | Operações no mercado cambial realizadas em conformidade com o regulamento emitido ou a emitir pelo Banco Central do Chile. | Apenas os bancos, as pessoas coletivas, os corretores e os agentes de valores, que devem estar estabelecidos no Chile como entidades jurídicas, podem operar no mercado cambial formal. As pessoas coletivas, os corretores e os agentes de valores necessitam de autorização prévia do Banco Central do Chile para operar no mercado cambial formal. | Apenas os bancos, as pessoas coletivas, os corretores e os agentes de valores, que devem estar estabelecidos no Chile como entidades jurídicas, podem operar no mercado cambial formal. As pessoas coletivas, os corretores e os agentes de valores necessitam de autorização prévia do Banco Central do Chile para operar no mercado cambial formal. |
-| Outros serviços financeiros/serviços de valores mobiliários | 1 - A negociação de valores objeto de oferta pública de subscrição pode ser efetuada por pessoas coletivas que tenham por objeto exclusivo a corretagem de valores, que podem intervir na qualidade de membros de uma bolsa de valores (corretores oficiais) ou fora da bolsa (agentes de valores), devendo estar registados junto da CMF. No entanto, só os corretores oficiais podem negociar em acções ou seus derivados (opções de subscrição) na bolsa de valores. Os valores mobiliários que não ações podem ser transacionados por corretores oficiais ou por agentes de valores registados.2 - Os serviços de notação de risco associados aos valores mobiliários objeto de oferta pública são prestados por sociedades de notação de risco constituídas com este objeto exclusivo, que devem estar inscritas no Registro de Entidades Clasificadoras de Riesgo (Registo das Agências de Notação de Risco) da CMF. São inspecionados e controlados pela CMF. A supervisão das sociedades de notação no que se refere à notação dos valores mobiliários emitidos pelos bancos ou pelas instituições financeiras incumbe à CMF.3 - Apenas os bancos, as pessoas coletivas, os corretores e os agentes de valores, que devem estar estabelecidos no Chile como entidades jurídicas, podem operar no mercado cambial formal. As pessoas coletivas, os corretores e os agentes de valores necessitam de autorização prévia do Banco Central do Chile para operar no mercado cambial formal.4 - Para poderem negociar na bolsa, os intermediários (corretores) devem estar constituídos no Chile como pessoas coletivas, adquirir uma ação na respetiva bolsa e ser aprovados como membros dessa bolsa. O exercício das atividades de corretagem está sujeito à inscrição prévia no registo de corretores oficiais e de agentes de valores da SVS. | 1 - A negociação de valores objeto de oferta pública de subscrição pode ser efetuada por pessoas coletivas que tenham por objeto exclusivo a corretagem de valores, que podem intervir na qualidade de membros de uma bolsa de valores (corretores oficiais) ou fora da bolsa (agentes de valores), devendo estar registados junto da CMF. No entanto, só os corretores oficiais podem negociar em acções ou seus derivados (opções de subscrição) na bolsa de valores. Os valores mobiliários que não ações podem ser transacionados por corretores oficiais ou por agentes de valores registados.2 - Os serviços de notação de risco associados aos valores mobiliários objeto de oferta pública são prestados por sociedades de notação de risco constituídas com este objeto exclusivo, que devem estar inscritas no Registro de Entidades Clasificadoras de Riesgo (Registo das Agências de Notação de Risco) da CMF. São inspecionados e controlados pela CMF. A supervisão das sociedades de notação no que se refere à notação dos valores mobiliários emitidos pelos bancos ou pelas instituições financeiras incumbe à CMF.3 - Apenas os bancos, as pessoas coletivas, os corretores e os agentes de valores, que devem estar estabelecidos no Chile como entidades jurídicas, podem operar no mercado cambial formal. As pessoas coletivas, os corretores e os agentes de valores necessitam de autorização prévia do Banco Central do Chile para operar no mercado cambial formal.4 - Para poderem negociar na bolsa, os intermediários (corretores) devem estar constituídos no Chile como pessoas coletivas, adquirir uma ação na respetiva bolsa e ser aprovados como membros dessa bolsa. O exercício das atividades de corretagem está sujeito à inscrição prévia no registo de corretores oficiais e de agentes de valores da SVS. | 1 - A negociação de valores objeto de oferta pública de subscrição pode ser efetuada por pessoas coletivas que tenham por objeto exclusivo a corretagem de valores, que podem intervir na qualidade de membros de uma bolsa de valores (corretores oficiais) ou fora da bolsa (agentes de valores), devendo estar registados junto da CMF. No entanto, só os corretores oficiais podem negociar em acções ou seus derivados (opções de subscrição) na bolsa de valores. Os valores mobiliários que não ações podem ser transacionados por corretores oficiais ou por agentes de valores registados.2 - Os serviços de notação de risco associados aos valores mobiliários objeto de oferta pública são prestados por sociedades de notação de risco constituídas com este objeto exclusivo, que devem estar inscritas no Registro de Entidades Clasificadoras de Riesgo (Registo das Agências de Notação de Risco) da CMF. São inspecionados e controlados pela CMF. A supervisão das sociedades de notação no que se refere à notação dos valores mobiliários emitidos pelos bancos ou pelas instituições financeiras incumbe à CMF.3 - Apenas os bancos, as pessoas coletivas, os corretores e os agentes de valores, que devem estar estabelecidos no Chile como entidades jurídicas, podem operar no mercado cambial formal. As pessoas coletivas, os corretores e os agentes de valores necessitam de autorização prévia do Banco Central do Chile para operar no mercado cambial formal.4 - Para poderem negociar na bolsa, os intermediários (corretores) devem estar constituídos no Chile como pessoas coletivas, adquirir uma ação na respetiva bolsa e ser aprovados como membros dessa bolsa. O exercício das atividades de corretagem está sujeito à inscrição prévia no registo de corretores oficiais e de agentes de valores da SVS. |
-| Outros serviços financeiros/serviços de valores mobiliários | Subsetor | Limitações ao acesso ao mercado | Limitações ao acesso ao mercado |
-| Outros serviços financeiros/serviços de valores mobiliários | Intermediação de valores mobiliários objeto de oferta pública, exceto ações (CPC 81321).Subscrição e colocação como agentes (tomada firme). | As atividades de corretagem devem ser asseguradas através de uma pessoa coletiva constituída no Chile. A CMF pode exigir requisitos não-discriminatórios mais rigorosos. | As atividades de corretagem devem ser asseguradas através de uma pessoa coletiva constituída no Chile. A CMF pode exigir requisitos não-discriminatórios mais rigorosos. |
-|  | Intermediação de ações de sociedades anónimas objeto de oferta pública de subscrição (CPC 81321) (inclui a subscrição e a colocação como agentes (underwriting) | Para poderem negociar na bolsa, os intermediários (corretores) devem estar constituídos no Chile como pessoas coletivas, adquirir uma ação na respetiva bolsa e ser aprovados como membros dessa bolsa. O exercício das atividades de corretagem está sujeito à inscrição prévia no registo de corretores oficiais e de agentes de valores da SVS. A CMF pode impor requisitos não discriminatórios mais rigorosos. | Para poderem negociar na bolsa, os intermediários (corretores) devem estar constituídos no Chile como pessoas coletivas, adquirir uma ação na respetiva bolsa e ser aprovados como membros dessa bolsa. O exercício das atividades de corretagem está sujeito à inscrição prévia no registo de corretores oficiais e de agentes de valores da SVS. A CMF pode impor requisitos não discriminatórios mais rigorosos. |
-|  | Operações em bolsa de produtos derivados autorizados pela CMF (exclusivamente futuros sobre dólares e sobre taxas de juro e opções sobre ações. As ações devem satisfazer os critérios estabelecidos pela respetiva câmara de compensação). | Para poderem negociar na bolsa, os intermediários (corretores) devem estar constituídos no Chile como pessoas coletivas, adquirir uma ação na respetiva bolsa e ser aprovados como membros dessa bolsa. O exercício das atividades de corretagem está sujeito à inscrição prévia no registo de corretores oficiais e de agentes de valores da SVS. A CMF pode impor requisitos não discriminatórios mais rigorosos. | Para poderem negociar na bolsa, os intermediários (corretores) devem estar constituídos no Chile como pessoas coletivas, adquirir uma ação na respetiva bolsa e ser aprovados como membros dessa bolsa. O exercício das atividades de corretagem está sujeito à inscrição prévia no registo de corretores oficiais e de agentes de valores da SVS. A CMF pode impor requisitos não discriminatórios mais rigorosos. |
-|  | Negociação de metais na bolsa (exclusivamente ouro e prata) | A negociação de ouro e prata pode ser realizada por corretores, quer por conta própria quer por conta de terceiros, em conformidade com a regulamentação bolsista. Para poderem negociar na bolsa, os intermediários (corretores) devem estar constituídos no Chile como pessoas coletivas, adquirir uma ação na respetiva bolsa e ser aprovados como membros dessa bolsa. O exercício das atividades de corretagem está sujeito à inscrição prévia no registo de corretores oficiais e de agentes de valores da SVS. A CMF pode impor requisitos não discriminatórios mais rigorosos. | A negociação de ouro e prata pode ser realizada por corretores, quer por conta própria quer por conta de terceiros, em conformidade com a regulamentação bolsista. Para poderem negociar na bolsa, os intermediários (corretores) devem estar constituídos no Chile como pessoas coletivas, adquirir uma ação na respetiva bolsa e ser aprovados como membros dessa bolsa. O exercício das atividades de corretagem está sujeito à inscrição prévia no registo de corretores oficiais e de agentes de valores da SVS. A CMF pode impor requisitos não discriminatórios mais rigorosos. |
-|  | Notação de risco associada aos valores mobiliários (trata-se exclusivamente de classificar ou avaliar os riscos relativamente a valores mobiliários objeto de oferta pública) | Devem estar constituídas como sociedades de pessoas no Chile. Uma das condições específicas que devem preencher prevê que pelo menos 60 % do capital da sociedade deva pertencer aos sócios principais (pessoas singulares ou coletivas ativas neste setor e possuindo no mínimo 5 % dos direitos sociais da sociedade de notação). | Devem estar constituídas como sociedades de pessoas no Chile. Uma das condições específicas que devem preencher prevê que pelo menos 60 % do capital da sociedade deva pertencer aos sócios principais (pessoas singulares ou coletivas ativas neste setor e possuindo no mínimo 5 % dos direitos sociais da sociedade de notação). |
-|  | Custódia de valores assegurada por intermediários de valores mobiliários (81319) (Não inclui os serviços prestados por organismos que asseguram simultaneamente a custódia, a compensação e a liquidação de valores mobiliários (depósitos de valores) | Para assegurar a custódia de valores, os intermediários (corretores e agentes) deverão estar constituídos como pessoas coletivas no Chile.A custódia de valores mobiliários pode ser efetuada por intermediários de valores mobiliários (corretores e agentes de valores) a título de atividade complementar à sua finalidade exclusiva, que é a corretagem de valores mobiliários. Pode igualmente ser assegurada por entidades de depósito e custódia de valores, que devem constituir-se em sociedades anónimas especiais tendo como objeto exclusivo receber em depósito das entidades autorizadas por lei valores objeto de oferta pública e facilitar as operações de transferência dos referidos valores (depósitos centralizados de valores). | Para assegurar a custódia de valores, os intermediários (corretores e agentes) deverão estar constituídos como pessoas coletivas no Chile.A custódia de valores mobiliários pode ser efetuada por intermediários de valores mobiliários (corretores e agentes de valores) a título de atividade complementar à sua finalidade exclusiva, que é a corretagem de valores mobiliários. Pode igualmente ser assegurada por entidades de depósito e custódia de valores, que devem constituir-se em sociedades anónimas especiais tendo como objeto exclusivo receber em depósito das entidades autorizadas por lei valores objeto de oferta pública e facilitar as operações de transferência dos referidos valores (depósitos centralizados de valores). |
-|  | Custódia assegurada por entidades de depósito e custódia de valores | As entidades de depósito e de custódia de valores mobiliários devem constituir-se no Chile em sociedades anónimas tendo como objeto exclusivo a prestação deste serviço. | As entidades de depósito e de custódia de valores mobiliários devem constituir-se no Chile em sociedades anónimas tendo como objeto exclusivo a prestação deste serviço. |
-|  | Serviços de gestão de carteiras financeiras prestados por intermediários de valores mobiliários (isto não inclui, em caso algum, um Fundo Geral de Gestão (Administradora Geral de Fondos), gestão de fundos mutualistas, fundos de investimento de capital estrangeiro, fundos de investimento e fundos de pensões. | Serviços de gestão de carteiras financeiras prestados por intermediários de valores mobiliários estabelecidos como pessoas coletivas no Chile. A CMF pode impor requisitos não discriminatórios mais rigorosos. | Serviços de gestão de carteiras financeiras prestados por intermediários de valores mobiliários estabelecidos como pessoas coletivas no Chile. A CMF pode impor requisitos não discriminatórios mais rigorosos. |
-|  | Serviços de consultoria financeira prestados por intermediários de valores mobiliários (CPC 81332) (A consultoria financeira refere-se unicamente a serviços associados relativamente aos quais sejam assumidos compromissos de acesso ao mercado.) | Serviços de consultoria financeira prestados por intermediários de valores mobiliários constituídos como pessoas coletivas no Chile. A CMF pode impor requisitos não discriminatórios mais rigorosos.Os serviços de consultoria financeira, que consistem em proporcionar aconselhamento financeiro em matéria de alternativas de financiamento, avaliação de projetos, apresentação de alternativas de investimento e proposta de estratégias de reescalonamento da dívida, podem ser prestados por intermediários em valores (corretores oficiais e agentes de valores) como complemento das suas atividades exclusivas. | Serviços de consultoria financeira prestados por intermediários de valores mobiliários constituídos como pessoas coletivas no Chile. A CMF pode impor requisitos não discriminatórios mais rigorosos.Os serviços de consultoria financeira, que consistem em proporcionar aconselhamento financeiro em matéria de alternativas de financiamento, avaliação de projetos, apresentação de alternativas de investimento e proposta de estratégias de reescalonamento da dívida, podem ser prestados por intermediários em valores (corretores oficiais e agentes de valores) como complemento das suas atividades exclusivas. |
-|  | Gestão de fundos de terceiros efectuada por:(Não inclui em nenhuma circunstância a gestão de fundos de pensões e de planos de poupança reforma complementares.)Sociedades gestoras de fundos de investimento mobiliário (fondos mutuos);Sociedades gestoras de fundos de investimento;Sociedades gestoras de fundos de investimento em ativos estrangeiros. | Os serviços de gestão de fundos podem ser prestados por sociedades anónimas constituídas no Chile tendo por objeto exclusivo o exercício desta atividade, com autorização da CMF. Os fundos de investimento em ativos estrangeiros podem ser igualmente geridos por sociedades gestoras de fundos de investimento. | Os serviços de gestão de fundos podem ser prestados por sociedades anónimas constituídas no Chile tendo por objeto exclusivo o exercício desta atividade, com autorização da CMF. Os fundos de investimento em ativos estrangeiros podem ser igualmente geridos por sociedades gestoras de fundos de investimento. |
-|  | Gestão de planos de poupança reforma voluntários (planes de ahorro previsional voluntario). | Não consolidado no que diz respeito ao artigo 25.6, n.º 1, alínea e). Os planos de poupança reforma complementares só podem ser propostos por sociedades gestoras de fundos de investimento mobiliário e de fundos de investimento estabelecidas no Chile nas condições anteriormente referidas. Estes planos deverão contar com a autorização prévia da CMF. | Não consolidado no que diz respeito ao artigo 25.6, n.º 1, alínea e). Os planos de poupança reforma complementares só podem ser propostos por sociedades gestoras de fundos de investimento mobiliário e de fundos de investimento estabelecidas no Chile nas condições anteriormente referidas. Estes planos deverão contar com a autorização prévia da CMF. |
-|  | Serviços de câmaras de compensação para produtos derivados (contratos relativos a futuros e opções sobre valores mobiliários). | As câmaras de compensação de contratos sobre futuros e opções sobre valores devem estar constituídas no Chile como sociedades anónimas tendo por objeto exclusivo o exercício desta atividade, devendo contar com a autorização da CMF. Estas câmaras só podem ser constituídas por bolsas e pelos respetivos corretores. | As câmaras de compensação de contratos sobre futuros e opções sobre valores devem estar constituídas no Chile como sociedades anónimas tendo por objeto exclusivo o exercício desta atividade, devendo contar com a autorização da CMF. Estas câmaras só podem ser constituídas por bolsas e pelos respetivos corretores. |
-|  | Armazéns gerais de depósito (Almacenes Generales de Depósitos) (warrants) [corresponde aos serviços de armazenamento de mercadorias acompanhados da emissão de um conhecimento de depósito e de um recibo (vale prenda)]. | Unicamente pessoas coletivas legalmente constituídas no Chile que tenham como objeto exclusivo a prestação deste serviço. | Unicamente pessoas coletivas legalmente constituídas no Chile que tenham como objeto exclusivo a prestação deste serviço. |
-|  | Serviços de emissão e registo de valores mobiliários (CPC 81332) (não inclui os serviços de depósito e custódia de valores). | Nenhumas. | Nenhumas. |
-|  | Bolsas de bovinos e produtos agrícolas de base. Serviço de câmaras de compensação de futuros e opções sobre bovinos e produtos agrícolas. | As entidades devem estar estabelecidas como sociedades anónimas especiais ao abrigo do direito chileno. | As entidades devem estar estabelecidas como sociedades anónimas especiais ao abrigo do direito chileno. |
-|  | Corretagem de bovinos e produtos agrícolas. | A atividade de corretor de bovinos e produtos agrícolas deve ser exercida por entidades jurídicas estabelecidas ao abrigo do direito chileno. | A atividade de corretor de bovinos e produtos agrícolas deve ser exercida por entidades jurídicas estabelecidas ao abrigo do direito chileno. |
-|  | Bolsas de valores. | As bolsas de valores devem ser constituídas sob a forma de sociedades anónimas especiais ao abrigo do direito chileno. | As bolsas de valores devem ser constituídas sob a forma de sociedades anónimas especiais ao abrigo do direito chileno. |
-| Outros serviços financeiros | Gestão de empréstimos hipotecários nos termos do Decreto con Fuerza de Ley N.º 251, Ley de Seguros, Título V. | As agências de gestão de empréstimos hipotecários devem ser constituídas sob a forma de sociedades anónimas. | As agências de gestão de empréstimos hipotecários devem ser constituídas sob a forma de sociedades anónimas. |
-| Outros serviços relacionados com serviços financeiros | Escritórios de representação de bancos estrangeiros a título de agentes de negócios (estas representações não podem, em caso algum, executar atos próprios à atividade bancária). | A CMF pode autorizar os bancos estrangeiros a manter escritórios de representação a título de agentes de negócios para as suas sedes principais e exerce em relação a estes a mesma autoridade de controlo que lhe é conferida pela Lei Geral dos Bancos (Ley General de Bancos) no respeitante aos bancos.A autorização concedida pela CMF aos escritórios de representação pode ser revogada caso a sua manutenção for considerada inconveniente, tal como indicado na Lei Geral dos Bancos (Ley General de Bancos). | A CMF pode autorizar os bancos estrangeiros a manter escritórios de representação a título de agentes de negócios para as suas sedes principais e exerce em relação a estes a mesma autoridade de controlo que lhe é conferida pela Lei Geral dos Bancos (Ley General de Bancos) no respeitante aos bancos.A autorização concedida pela CMF aos escritórios de representação pode ser revogada caso a sua manutenção for considerada inconveniente, tal como indicado na Lei Geral dos Bancos (Ley General de Bancos). |
+| Setor ou subsetor | Limitações ao acesso ao mercado |  |
+| --- | --- | --- |
+| Todos os serviços financeiros | O Chile pode, numa base não discriminatória, restringir ou exigir um tipo específico de entidade jurídica, incluindo sociedades, sucursais estrangeiras, escritórios de representação ou qualquer outra forma de presença comercial, através da qual as entidades que operam em todos os subsetores de serviços financeiros podem prestar serviços financeiros.O Chile pode, numa base não discriminatória, restringir ou exigir um tipo específico de sociedade. |  |
+| Todos os serviços de seguros e serviços conexos | No Chile, o setor de seguros está dividido em dois grupos de empresas: o primeiro inclui as companhias que seguram contra os riscos de perda e deterioração de objetos ou de património, enquanto o segundo compreende as empresas que cobrem os riscos das pessoas ou que lhes garantem durante ou no termo de um período determinado, um montante em capital, uma apólice saldada ou um rendimento para o segurado ou os seus beneficiários. A mesma companhia de seguros não pode organizar-se para cobrir os dois grupos de riscos. |  |
+|  | As companhias de seguro-crédito devem constituir-se em pessoas coletivas tendo como objeto exclusivo a cobertura deste género de riscos, por exemplo, a perda ou a deterioração do património do segurado resultante da falta de pagamento de uma dívida ou de um empréstimo em numerário, podendo igualmente cobrir os riscos de garantia e fidelidade.As sociedades anónimas de seguros devem ser constituídas em conformidade com as disposições da lei sobre as sociedades anónimas. As sucursais de empresas estrangeiras que podem operar no setor dos seguros chileno devem estar estabelecidas no Chile a título de «agencia de sociedad anónima extranjera» autorizada para o efeito.Os seguros podem ser subscritos diretamente ou através de corretores de seguros registados que, para exercer essa atividade, devem estar inscritos no registo. |  |
+| Seguro direto | Venda de seguros diretos do ramo vida (não inclui seguros relacionados com o sistema de segurança social) (CPC 81211) | Os serviços de seguros só podem ser prestados por companhias de seguros constituídas no Chile a título de sociedades anónimas ou a título de sucursais de sociedades estrangeiras com o único objetivo de desenvolver este ramo de atividade. |
+| Venda de seguros diretos gerais (CPC 8129, exceto CPC 81299), excluindo instituições de saúde da segurança social (Instituciones de Salud Previsional, ISAPRES), por exemplo, pessoas coletivas constituídas com o objetivo de prestar serviços de saúde a pessoas singulares que optem por aderir e são financiadas por meio de contribuições obrigatórias deduzidas do rendimento tributável ou por meio de um montante mais elevado, consoante o caso. Exclui igualmente o Fondo Nacional de Salud (FONASA), organismo público financiado pelo Governo e por meio de contribuições obrigatórias de rendimento tributável, responsável pelo pagamento de prestações de saúde a pessoas que não sejam membros de uma ISAPRE. Não inclui a venda de seguros para o transporte marítimo internacional, a aviação comercial internacional e as mercadorias em trânsito internacional. | A prestação de serviços de seguro está reservada a companhias de seguros constituídas no Chile a título de «sociedades anónimas» ou a título de sucursais de sociedades estrangeiras com o único objetivo de desenvolver este ramo de atividade, quer se trate de seguros diretos do ramo vida ou de seguros diretos gerais.No âmbito dos seguros gerais de crédito (CPC 81296), a empresa deve estar constituída em sociedade anónima de seguros estabelecida no Chile, tendo por único objetivo a cobertura deste tipo de riscos. |  |
+|  | Venda de seguros para o transporte marítimo internacional, a aviação comercial internacional e o lançamento e transporte espacial (incluindo satélites) e mercadorias em trânsito internacional (incluindo as mercadorias transportadas). Não está incluído o transporte nacional (cabotagem) | As sociedades anónimas de seguros constituídas no Chile que tenham por único objetivo a venda de seguros diretos gerais podem propor a venda de seguros para o transporte marítimo internacional, a aviação comercial internacional e lançamento e transporte espacial (incluindo satélites) e mercadorias em trânsito internacional (incluindo as mercadorias transportadas). |
+| Resseguro e retrocessão | Resseguro e retrocessão (incluindo corretores de resseguros) | O resseguro é prestado por sociedades anónimas de resseguros estabelecidas no Chile e autorizadas pela CMF. As sociedades anónimas de seguros também podem prestar serviços de resseguro como complemento das suas atividades de seguro se os seus estatutos o previrem.Os serviços de resseguro e retrocessão podem igualmente ser prestados por companhias de resseguro estrangeiras e corretores de resseguro estrangeiros inscritos no registo da CMF (Registo). |
+| Intermediação de seguros | Corretores de seguros (exceto seguros para o transporte marítimo internacional, a aviação comercial internacional e o lançamento e transporte espacial, incluindo satélites, e mercadorias em trânsito internacional). | Acesso reservado às pessoas coletivas legalmente constituídas no Chile com este objeto específico. |
+| Corretores de seguros de transporte marítimo internacional, aviação comercial internacional e lançamento e transporte espacial (incluindo satélites) e mercadorias em trânsito internacional (incluindo as mercadorias transportadas, o veículo que transporta as mercadorias e a responsabilidade civil daí decorrente). Não está incluído o transporte nacional (cabotagem). | Corretores de seguros de transporte marítimo internacional, aviação comercial internacional e lançamento e transporte espacial (incluindo satélites) e mercadorias em trânsito internacional (incluindo as mercadorias transportadas, o veículo que transporta as mercadorias e a responsabilidade civil daí decorrente). Acesso reservado às pessoas coletivas legalmente constituídas no Chile com este objeto específico. |  |
+| Serviços auxiliares de seguros, como consultoria, cálculo atuarial, avaliação de risco e regularização de sinistros; | Regularização de sinistros. | Os serviços de regularização de sinistros podem ser diretamente prestados por companhias de seguro estabelecidas no Chile ou por pessoas coletivas constituídas no Chile. |
+| Serviços auxiliares no setor dos seguros (apenas serviços de consultoria, cálculo atuarial e avaliação de riscos) | Os serviços auxiliares no setor dos seguros só podem ser prestados por pessoas coletivas constituídas no Chile. |  |
+|  | Gestão de planos de poupança reforma complementares (ahorro previsional voluntario) através de seguros de vida | Não consolidado no que diz respeito ao artigo 25.6, n.º 1, alínea e). Os planos de poupança reforma complementares apenas podem ser propostos por companhias de seguros do ramo vida estabelecidas no Chile em conformidade com as disposições acima referidas. Estes planos e as apólices associadas devem ser previamente autorizadas pela CMF. |
+| Serviços bancários | As instituições bancárias estrangeiras devem ser sociedades bancárias legalmente constituídas no respetivo país de origem e contribuir com o capital exigido pela legislação chilena.As instituições bancárias estrangeiras só podem operar:a) As instituições bancárias estrangeiras constituídas em sociedades anónimas só podem operar no Chile:b) Se se constituírem como sociedade anónima no Chile; ouc) A título de sucursais de sociedades estrangeiras constituídas no Chile como agência de sociedades estrangeiras (agencia de sociedad anónima extranjera), caso em que é reconhecida a personalidade jurídica no país de origem, constituindo-se em sociedades anónimas no Chile; Os aumentos de capital ou reservas que não resultem da capitalização de outras reservas terão o mesmo tratamento que os capitais próprios iniciais. Nas transações entre uma sucursal e a sede principal no estrangeiro, ambas serão consideradas entidades independentes. |  |
+|  | Nenhuma pessoa singular ou coletiva nacional ou estrangeira pode adquirir diretamente ou através de terceiros ações de um banco que, por si só ou adicionadas às ações que essa pessoa já possui, representem mais de 10 % do capital do banco sem ter obtido previamente a autorização da CMF.Além disso, os sócios ou acionistas de uma instituição financeira não podem transferir uma percentagem de direitos ou ações da sua sociedade superior a 10 % sem terem obtido autorização da CMF.As instituições bancárias devem estar constituídas sob a forma de sociedades (sociedades anónimas) ou sucursais, ao abrigo da legislação e regulamentação chilenas, em conformidade com a Lei geral bancária (DFL n.º 3) e com a Lei das Sociedades Anónimas (Ley n.º 18.046), relativas ao estabelecimento de uma agência empresarial estrangeira. O capital e as reservas que os bancos estrangeiros atribuem às sucursais devem ser efetivamente transferidos e convertidos em moeda nacional em conformidade com qualquer um dos sistemas autorizados por lei ou pelo Banco Central do Chile. Os aumentos de capital ou reservas que não resultem da capitalização de outras reservas terão o mesmo tratamento que os capitais próprios iniciais. Nas transações entre uma sucursal e a sede principal no estrangeiro, ambas serão consideradas entidades independentes. Nenhum banco estrangeiro poderá invocar direitos derivados da sua nacionalidade no que diz respeito às transações que a sua sucursal pode realizar no Chile.A prestação de serviços financeiros a título de complemento das atividades bancárias pode ser efetuada diretamente por essas instituições, mediante autorização prévia, ou através de sociedades filiais a determinar pela CMF. |  |
+| Aceitação de depósitos e outros fundos reembolsáveis da parte do público; | Aceitação de depósitos (exclusivamente contas correntes bancárias, depósitos à ordem, depósitos a prazo, contas de poupança, contratos de recompra de instrumentos financeiros, depósitos para emissão de títulos de garantia bancária).Compra de valores mobiliários objeto de oferta pública [aquisição de obrigações e aquisição de cartas de crédito; subscrição e colocação, como agentes, de ações, obrigações e cartas de crédito (underwriting)].Custódia de valores mobiliários. | Apenas os bancos estabelecidos no Chile em conformidade com as disposições acima referidas. |
+| Concessão de todos os tipos de crédito, nomeadamente crédito ao consumo, crédito hipotecário, cessão financeira e financiamento de transações comerciais; | Concessão de crédito [exclusivamente empréstimos correntes, crédito ao consumo, empréstimos em letras de crédito, crédito hipotecário, crédito hipotecário endossável, aquisição de instrumentos financeiros com contrato de revenda, créditos para emissão de títulos de garantia bancária ou outros tipos de financiamento, emissão e negociação de cartas de crédito para a importação ou exportação, emissão e confirmação de cartas de crédito (stand-by)]. | Apenas os bancos estabelecidos no Chile em conformidade com as disposições acima referidas. |
+| Cessão financeira. | Não consolidado no que diz respeito ao artigo 25.6, n.º 1, alínea e).Os serviços de cessão financeira são considerados serviços bancários complementares, pelo que estão sujeitos a autorização da CMF. A CMF pode impor requisitos não discriminatórios mais rigorosos. |  |
+| Titularização. | Os serviços de titularização são considerados serviços bancários complementares. |  |
+| Locação financeira; | Locação financeira (CPC 81120) (estas sociedades podem oferecer contratos de locação financeira para bens adquiridos a pedido do cliente, isto é, não podem adquirir bens com vista a mantê-los em depósito e oferecê-los para locação.) | Os serviços de locação financeira são considerados serviços bancários complementares e podem ser prestados por bancos ou por filiais constituídas em sociedade expressamente autorizadas para esse efeito. A CMF pode impor requisitos não discriminatórios mais rigorosos. |
+| Todos os serviços de pagamento e de transferências monetárias, incluindo os cartões de crédito, os cartões privativos e os cartões de débito, os cheques de viagem e os cheques bancários; | Emissão e gestão de cartões de crédito e cartões de débito (CPC 81133) (exclusivamente cartões de crédito emitidos no Chile)Cheques de viagem.Transferência de fundos (transferências bancárias).Desconto ou aquisição de letras de câmbio e notas promissórias. | Apenas os bancos estabelecidos no Chile em conformidade com as disposições acima referidas. |
+| Garantias e compromissos | Aval e garantia de obrigações de terceiros em moeda chilena e em moeda estrangeira | Apenas os bancos estabelecidos no Chile em conformidade com as disposições acima referidas. |
+| Transações por conta própria ou por conta de clientes em bolsa ou mercado de balcão; | Intermediação de valores mobiliários objeto de oferta pública (CPC 81321) | A intermediação de valores mobiliários objeto de oferta pública é considerada um serviço bancário complementar e pode ser prestada por bancos através de filiais constituídas no Chile, agentes de valores ou corretores, expressamente autorizados para o efeito. |
+| Outros serviços financeiros | Serviços de consultoria e outros serviços financeiros auxiliares (CPC 8133) (exclusivamente os serviços indicados na presente subsecção relativa ao subsetor bancário) | Nenhumas. |
+| Outros serviços financeiros | Planos de poupança reforma voluntários (Planes de Ahorro Previsional Voluntario). | Não consolidado no que diz respeito ao artigo 25.6, n.º 1, alínea e).Os planos de poupança reforma complementares só podem ser oferecidos por bancos estabelecidos no Chile ao abrigo de uma das modalidades anteriormente referidas. |
+|  | Serviços de gestão fiduciária (administración de fideicomisos). | Apenas os bancos estabelecidos no Chile em conformidade com as disposições acima referidas. |
+|  | Comunicação e transferência de informações financeiras e tratamento de dados financeiros e software com eles relacionado, por prestadores de outros serviços financeiros | Nenhumas. |
+|  | Operações no mercado cambial realizadas em conformidade com o regulamento emitido ou a emitir pelo Banco Central do Chile. | Apenas os bancos, as pessoas coletivas, os corretores e os agentes de valores, que devem estar estabelecidos no Chile como entidades jurídicas, podem operar no mercado cambial formal. As pessoas coletivas, os corretores e os agentes de valores necessitam de autorização prévia do Banco Central do Chile para operar no mercado cambial formal. |
+| Outros serviços financeiros/serviços de valores mobiliários | 1 - A negociação de valores objeto de oferta pública de subscrição pode ser efetuada por pessoas coletivas que tenham por objeto exclusivo a corretagem de valores, que podem intervir na qualidade de membros de uma bolsa de valores (corretores oficiais) ou fora da bolsa (agentes de valores), devendo estar registados junto da CMF. No entanto, só os corretores oficiais podem negociar em acções ou seus derivados (opções de subscrição) na bolsa de valores. Os valores mobiliários que não ações podem ser transacionados por corretores oficiais ou por agentes de valores registados.2 - Os serviços de notação de risco associados aos valores mobiliários objeto de oferta pública são prestados por sociedades de notação de risco constituídas com este objeto exclusivo, que devem estar inscritas no Registro de Entidades Clasificadoras de Riesgo (Registo das Agências de Notação de Risco) da CMF. São inspecionados e controlados pela CMF. A supervisão das sociedades de notação no que se refere à notação dos valores mobiliários emitidos pelos bancos ou pelas instituições financeiras incumbe à CMF.3 - Apenas os bancos, as pessoas coletivas, os corretores e os agentes de valores, que devem estar estabelecidos no Chile como entidades jurídicas, podem operar no mercado cambial formal. As pessoas coletivas, os corretores e os agentes de valores necessitam de autorização prévia do Banco Central do Chile para operar no mercado cambial formal.4 - Para poderem negociar na bolsa, os intermediários (corretores) devem estar constituídos no Chile como pessoas coletivas, adquirir uma ação na respetiva bolsa e ser aprovados como membros dessa bolsa. O exercício das atividades de corretagem está sujeito à inscrição prévia no registo de corretores oficiais e de agentes de valores da SVS. |  |
+| Subsetor | Limitações ao acesso ao mercado |  |
+| Intermediação de valores mobiliários objeto de oferta pública, exceto ações (CPC 81321).Subscrição e colocação como agentes (tomada firme). | As atividades de corretagem devem ser asseguradas através de uma pessoa coletiva constituída no Chile. A CMF pode exigir requisitos não-discriminatórios mais rigorosos. |  |
+|  | Intermediação de ações de sociedades anónimas objeto de oferta pública de subscrição (CPC 81321) (inclui a subscrição e a colocação como agentes (underwriting) | Para poderem negociar na bolsa, os intermediários (corretores) devem estar constituídos no Chile como pessoas coletivas, adquirir uma ação na respetiva bolsa e ser aprovados como membros dessa bolsa. O exercício das atividades de corretagem está sujeito à inscrição prévia no registo de corretores oficiais e de agentes de valores da SVS. A CMF pode impor requisitos não discriminatórios mais rigorosos. |
+| Operações em bolsa de produtos derivados autorizados pela CMF (exclusivamente futuros sobre dólares e sobre taxas de juro e opções sobre ações. As ações devem satisfazer os critérios estabelecidos pela respetiva câmara de compensação). | Para poderem negociar na bolsa, os intermediários (corretores) devem estar constituídos no Chile como pessoas coletivas, adquirir uma ação na respetiva bolsa e ser aprovados como membros dessa bolsa. O exercício das atividades de corretagem está sujeito à inscrição prévia no registo de corretores oficiais e de agentes de valores da SVS. A CMF pode impor requisitos não discriminatórios mais rigorosos. |  |
+| Negociação de metais na bolsa (exclusivamente ouro e prata) | A negociação de ouro e prata pode ser realizada por corretores, quer por conta própria quer por conta de terceiros, em conformidade com a regulamentação bolsista. Para poderem negociar na bolsa, os intermediários (corretores) devem estar constituídos no Chile como pessoas coletivas, adquirir uma ação na respetiva bolsa e ser aprovados como membros dessa bolsa. O exercício das atividades de corretagem está sujeito à inscrição prévia no registo de corretores oficiais e de agentes de valores da SVS. A CMF pode impor requisitos não discriminatórios mais rigorosos. |  |
+|  | Notação de risco associada aos valores mobiliários (trata-se exclusivamente de classificar ou avaliar os riscos relativamente a valores mobiliários objeto de oferta pública) | Devem estar constituídas como sociedades de pessoas no Chile. Uma das condições específicas que devem preencher prevê que pelo menos 60 % do capital da sociedade deva pertencer aos sócios principais (pessoas singulares ou coletivas ativas neste setor e possuindo no mínimo 5 % dos direitos sociais da sociedade de notação). |
+| Custódia de valores assegurada por intermediários de valores mobiliários (81319) (Não inclui os serviços prestados por organismos que asseguram simultaneamente a custódia, a compensação e a liquidação de valores mobiliários (depósitos de valores) | Para assegurar a custódia de valores, os intermediários (corretores e agentes) deverão estar constituídos como pessoas coletivas no Chile.A custódia de valores mobiliários pode ser efetuada por intermediários de valores mobiliários (corretores e agentes de valores) a título de atividade complementar à sua finalidade exclusiva, que é a corretagem de valores mobiliários. Pode igualmente ser assegurada por entidades de depósito e custódia de valores, que devem constituir-se em sociedades anónimas especiais tendo como objeto exclusivo receber em depósito das entidades autorizadas por lei valores objeto de oferta pública e facilitar as operações de transferência dos referidos valores (depósitos centralizados de valores). |  |
+|  | Custódia assegurada por entidades de depósito e custódia de valores | As entidades de depósito e de custódia de valores mobiliários devem constituir-se no Chile em sociedades anónimas tendo como objeto exclusivo a prestação deste serviço. |
+| Serviços de gestão de carteiras financeiras prestados por intermediários de valores mobiliários (isto não inclui, em caso algum, um Fundo Geral de Gestão (Administradora Geral de Fondos), gestão de fundos mutualistas, fundos de investimento de capital estrangeiro, fundos de investimento e fundos de pensões. | Serviços de gestão de carteiras financeiras prestados por intermediários de valores mobiliários estabelecidos como pessoas coletivas no Chile. A CMF pode impor requisitos não discriminatórios mais rigorosos. |  |
+| Serviços de consultoria financeira prestados por intermediários de valores mobiliários (CPC 81332) (A consultoria financeira refere-se unicamente a serviços associados relativamente aos quais sejam assumidos compromissos de acesso ao mercado.) | Serviços de consultoria financeira prestados por intermediários de valores mobiliários constituídos como pessoas coletivas no Chile. A CMF pode impor requisitos não discriminatórios mais rigorosos.Os serviços de consultoria financeira, que consistem em proporcionar aconselhamento financeiro em matéria de alternativas de financiamento, avaliação de projetos, apresentação de alternativas de investimento e proposta de estratégias de reescalonamento da dívida, podem ser prestados por intermediários em valores (corretores oficiais e agentes de valores) como complemento das suas atividades exclusivas. |  |
+|  | Gestão de fundos de terceiros efectuada por:(Não inclui em nenhuma circunstância a gestão de fundos de pensões e de planos de poupança reforma complementares.)Sociedades gestoras de fundos de investimento mobiliário (fondos mutuos);Sociedades gestoras de fundos de investimento;Sociedades gestoras de fundos de investimento em ativos estrangeiros. | Os serviços de gestão de fundos podem ser prestados por sociedades anónimas constituídas no Chile tendo por objeto exclusivo o exercício desta atividade, com autorização da CMF. Os fundos de investimento em ativos estrangeiros podem ser igualmente geridos por sociedades gestoras de fundos de investimento. |
+| Gestão de planos de poupança reforma voluntários (planes de ahorro previsional voluntario). | Não consolidado no que diz respeito ao artigo 25.6, n.º 1, alínea e). Os planos de poupança reforma complementares só podem ser propostos por sociedades gestoras de fundos de investimento mobiliário e de fundos de investimento estabelecidas no Chile nas condições anteriormente referidas. Estes planos deverão contar com a autorização prévia da CMF. |  |
+| Serviços de câmaras de compensação para produtos derivados (contratos relativos a futuros e opções sobre valores mobiliários). | As câmaras de compensação de contratos sobre futuros e opções sobre valores devem estar constituídas no Chile como sociedades anónimas tendo por objeto exclusivo o exercício desta atividade, devendo contar com a autorização da CMF. Estas câmaras só podem ser constituídas por bolsas e pelos respetivos corretores. |  |
+|  | Armazéns gerais de depósito (Almacenes Generales de Depósitos) (warrants) [corresponde aos serviços de armazenamento de mercadorias acompanhados da emissão de um conhecimento de depósito e de um recibo (vale prenda)]. | Unicamente pessoas coletivas legalmente constituídas no Chile que tenham como objeto exclusivo a prestação deste serviço. |
+| Serviços de emissão e registo de valores mobiliários (CPC 81332) (não inclui os serviços de depósito e custódia de valores). | Nenhumas. |  |
+| Bolsas de bovinos e produtos agrícolas de base. Serviço de câmaras de compensação de futuros e opções sobre bovinos e produtos agrícolas. | As entidades devem estar estabelecidas como sociedades anónimas especiais ao abrigo do direito chileno. |  |
+| Corretagem de bovinos e produtos agrícolas. | A atividade de corretor de bovinos e produtos agrícolas deve ser exercida por entidades jurídicas estabelecidas ao abrigo do direito chileno. |  |
+| Bolsas de valores. | As bolsas de valores devem ser constituídas sob a forma de sociedades anónimas especiais ao abrigo do direito chileno. |  |
+| Outros serviços financeiros | Gestão de empréstimos hipotecários nos termos do Decreto con Fuerza de Ley N.º 251, Ley de Seguros, Título V. | As agências de gestão de empréstimos hipotecários devem ser constituídas sob a forma de sociedades anónimas. |
+| Outros serviços relacionados com serviços financeiros | Escritórios de representação de bancos estrangeiros a título de agentes de negócios (estas representações não podem, em caso algum, executar atos próprios à atividade bancária). | A CMF pode autorizar os bancos estrangeiros a manter escritórios de representação a título de agentes de negócios para as suas sedes principais e exerce em relação a estes a mesma autoridade de controlo que lhe é conferida pela Lei Geral dos Bancos (Ley General de Bancos) no respeitante aos bancos.A autorização concedida pela CMF aos escritórios de representação pode ser revogada caso a sua manutenção for considerada inconveniente, tal como indicado na Lei Geral dos Bancos (Ley General de Bancos). |
 
 Notas introdutórias para as secções C e D
 
@@ -26326,8 +26335,8 @@ Lista da divisão 51, CPC
 
 | Grupo | Categoria | Subclasse | Título | Categoria correspondente da CITA |
 | --- | --- | --- | --- | --- |
-| Secção 5 | Secção 5 |  | Construções e trabalhos de construção: terrenos |  |
-| Divisão 51 | Divisão 51 |  | Trabalhos de construção |  |
+| Secção 5 |  | Construções e trabalhos de construção: terrenos |  |  |
+| Divisão 51 |  | Trabalhos de construção |  |  |
 | 511 |  |  | Trabalhos preparatórios em estaleiros de construção |  |
 |  | 5111 | 51110 | Trabalhos de prospeção de terrenos | 4510 |
 |  | 5112 | 51120 | Trabalhos de demolição | 4510 |
@@ -27462,9 +27471,9 @@ https://www.contraloria.cl/web/cgr/dictamenes-y-pronunciamientos-juridicos.
 
 ###### Artigo 29.4, n.º 1, alínea a);
 
-###### Artigo 29.4, n.º 1, alínea b);
+Artigo 29.4, n.º 1, alínea b);
 
-###### Artigo 29.4, n.º 1, alínea c), subalínea i).
+Artigo 29.4, n.º 1, alínea c), subalínea i).
 
 Entidade: Empresa Nacional de Petróleo (ENAP) ou a sua sucessora, sucursais e filiais.
 
@@ -27478,7 +27487,7 @@ No que diz respeito ao artigo 29.4, n.º 1, alíneas a) e c), subalínea i), nas
 
 ###### Artigo 29.4, n.º 1, alínea a);
 
-###### Artigo 29.4, n.º 1, alínea b).
+Artigo 29.4, n.º 1, alínea b).
 
 Entidade: Corporación Nacional del Cobre (CODELCO) ou a sua sucessora, sucursais e filiais.
 
@@ -27488,9 +27497,9 @@ Entidade: Corporación Nacional del Cobre (CODELCO) ou a sua sucessora, sucursai
 
 ###### Artigo 29.4, n.º 1, alínea a);
 
-###### Artigo 29.4, n.º 1, alínea b);
+Artigo 29.4, n.º 1, alínea b);
 
-###### Artigo 29.4, n.º 1, alínea c), subalínea i).
+Artigo 29.4, n.º 1, alínea c), subalínea i).
 
 Entidade: Empresa Nacional de Minería (ENAMI) ou a sua sucessora, sucursais e filiais.
 
@@ -27504,7 +27513,7 @@ No que diz respeito ao artigo 29.4, n.º 1, alíneas a) e c), subalínea i), a e
 
 ###### Artigo 29.4, n.º 1, alínea a);
 
-###### Artigo 29.4, n.º 1, alínea b).
+Artigo 29.4, n.º 1, alínea b).
 
 Entidade: Empresa de Transporte de Pasajeros Metro S. A. (METRO) ou a sua sucessora, sucursais e filiais.
 
@@ -27514,7 +27523,7 @@ Entidade: Empresa de Transporte de Pasajeros Metro S. A. (METRO) ou a sua sucess
 
 ###### Artigo 29.4, n.º 1, alínea a);
 
-###### Artigo 29.4, n.º 1, alínea b).
+Artigo 29.4, n.º 1, alínea b).
 
 Entidade: Televisión Nacional de Chile (TVN) ou a sua sucessora, sucursais e filiais.
 
@@ -27522,9 +27531,9 @@ Entidade: Televisión Nacional de Chile (TVN) ou a sua sucessora, sucursais e fi
 
 6 - Obrigações em causa:
 
-###### Artigo 29.4, n.º 1, alínea a), no que respeita aos serviços financeiros;
+Artigo 29.4, n.º 1, alínea a), no que respeita aos serviços financeiros;
 
-###### Artigo 29.4,, n.º 1, alínea c), subalínea i), no que respeita aos serviços financeiros.
+Artigo 29.4,, n.º 1, alínea c), subalínea i), no que respeita aos serviços financeiros.
 
 Entidade: Banco del Estado de Chile (BANCO ESTADO) ou o seu sucessor, sucursais e filiais.
 
@@ -27534,7 +27543,7 @@ Entidade: Banco del Estado de Chile (BANCO ESTADO) ou o seu sucessor, sucursais 
 
 ###### Artigo 29.4, n.º 1, alínea a);
 
-###### Artigo 29.4, n.º 1, alínea b).
+Artigo 29.4, n.º 1, alínea b).
 
 Entidade: Todas as empresas públicas existentes e futuras.
 
@@ -27586,7 +27595,9 @@ b) Apresentarem elementos que indicam que a denominação cuja proteção e regi
 
 6 - Os critérios enunciados no presente anexo devem ser avaliados relativamente ao território da Parte UE (tratando-se de direitos de propriedade intelectual, deve entender-se apenas o território ou territórios em que os referidos direitos estão protegidos) ou ao território do Chile.
 
-## ANEXO 32-C — PARTE A
+## ANEXO 32-C
+
+## PARTE A
 
 INDICAÇÕES GEOGRÁFICAS DA PARTE UE A QUE SE REFERE O ARTIGO 32.33
 
@@ -27855,7 +27866,7 @@ xxi A denominação varietal «Pera-Rocha» pode continuar a ser utilizada para 
 
 xxii A proteção do termo «Queijo S. Jorge» não restringe a utilização do termo «San Jorge» no Chile como marca registada existente, desde que essa utilização não induza o consumidor em erro quanto à origem do produto. O termo «Queijo S. Jorge» só deve ser utilizado como termo composto e em combinação com a indicação da sua origem e a marca comercial.
 
-# PARTE B — INDICAÇÕES GEOGRÁFICAS DO CHILE A QUE SE REFERE O ARTIGO 32.33
+## PARTE B — INDICAÇÕES GEOGRÁFICAS DO CHILE A QUE SE REFERE O ARTIGO 32.33
 
 | País | Denominação/Nome | Tipo de produto |
 | --- | --- | --- |
@@ -27878,7 +27889,7 @@ xxii A proteção do termo «Queijo S. Jorge» não restringe a utilização do 
 | Chile | Sidra de Punucapa | Sidra |
 | Chile | Chicha de Curacaví | Bebida fermentada |
 
-## Apêndice 32-C-1
+Apêndice 32-C-1
 
 Lista de componentes individuais a que se refere o artigo 32.35, n.º 9
 
@@ -27894,7 +27905,7 @@ No que diz respeito à lista de indicações geográficas do Chile que consta do
 
 «aceite», «aceitunas», «atún», «cangrejo», «chicha», «cordero», «dulces», «isla», «langosta», «limón», «maíz», «oregano», «prosciutto», «puerro», «sal», «sandía», «sidra», «tomate».
 
-## Apêndice 32-C-2
+Apêndice 32-C-2
 
 Lista de utilizadores anteriores
 
@@ -28724,7 +28735,8 @@ Pour le Royaume de Belgique:
 
 Für das Königreich Belgien:
 
-![](https://files.diariodarepublica.pt/images/1138714123/1138714021.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138714123/1138714021.png) |
+| --- |
 
 Deze handtekening verbindt eveneens de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest.
 
@@ -28734,111 +28746,137 @@ Diese Unterschrift bindet zugleich die Deutschsprachige Gemeinschaft, die Flämi
 
 За Република България:
 
-![](https://files.diariodarepublica.pt/images/1138714123/1138714022.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138714123/1138714022.png) |
+| --- |
 
 Ζa Českou republiku:
 
-![](https://files.diariodarepublica.pt/images/1138714123/1138714023.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138714123/1138714023.png) |
+| --- |
 
 For Kongeriget Danmark:
 
-![](https://files.diariodarepublica.pt/images/1138714123/1138714024.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138714123/1138714024.png) |
+| --- |
 
 Für die Bundesrepublik Deutschland:
 
-![](https://files.diariodarepublica.pt/images/1138714123/1138714025.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138714123/1138714025.png) |
+| --- |
 
 Eesti Vabariigi nimel:
 
-![](https://files.diariodarepublica.pt/images/1138714123/1138714026.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138714123/1138714026.png) |
+| --- |
 
 Thar ceann na hÉireann:
 
 For Ireland:
 
-![](https://files.diariodarepublica.pt/images/1138714123/1138714027.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138714123/1138714027.png) |
+| --- |
 
 Για την Eλληνική Δημοκρατία:
 
-![](https://files.diariodarepublica.pt/images/1138714123/1138714028.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138714123/1138714028.png) |
+| --- |
 
 Por el Reino de España:
 
-![](https://files.diariodarepublica.pt/images/1138714123/1138714029.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138714123/1138714029.png) |
+| --- |
 
 Pour la République française:
 
-![](https://files.diariodarepublica.pt/images/1138714123/1138714030.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138714123/1138714030.png) |
+| --- |
 
 Za Republiku Hrvatsku:
 
-![](https://files.diariodarepublica.pt/images/1138714123/1138714031.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138714123/1138714031.png) |
+| --- |
 
 Per la Repubblica italiana:
 
-![](https://files.diariodarepublica.pt/images/1138714123/1138714032.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138714123/1138714032.png) |
+| --- |
 
 Για την Κυπριακή Δημοκρατία:
 
-![](https://files.diariodarepublica.pt/images/1138714123/1138714033.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138714123/1138714033.png) |
+| --- |
 
 Latvijas Republikas vārdā-:
 
-![](https://files.diariodarepublica.pt/images/1138714123/1138714034.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138714123/1138714034.png) |
+| --- |
 
 Lietuvos Respublikos vardu:
 
-![](https://files.diariodarepublica.pt/images/1138714123/1138714035.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138714123/1138714035.png) |
+| --- |
 
 Pour le Grand-Duché de Luxembourg:
 
-![](https://files.diariodarepublica.pt/images/1138714123/1138714036.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138714123/1138714036.png) |
+| --- |
 
 Magyarország részéről:
 
-![](https://files.diariodarepublica.pt/images/1138714123/1138714037.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138714123/1138714037.png) |
+| --- |
 
 Għar-Repubblika ta’ Malta:
 
-![](https://files.diariodarepublica.pt/images/1138714123/1138714038.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138714123/1138714038.png) |
+| --- |
 
 Voor het Koninkrijk der Nederlanden:
 
-![](https://files.diariodarepublica.pt/images/1138714123/1138714039.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138714123/1138714039.png) |
+| --- |
 
 Für die Republik Österreich:
 
-![](https://files.diariodarepublica.pt/images/1138714123/1138714040.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138714123/1138714040.png) |
+| --- |
 
 W imieniu Rzeczypospolitej Polskiej:
 
-![](https://files.diariodarepublica.pt/images/1138714123/1138714041.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138714123/1138714041.png) |
+| --- |
 
 Pela República Portuguesa:
 
-![](https://files.diariodarepublica.pt/images/1138714123/1138714042.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138714123/1138714042.png) |
+| --- |
 
 Pentru România:
 
-![](https://files.diariodarepublica.pt/images/1138714123/1138714043.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138714123/1138714043.png) |
+| --- |
 
 Za Republiko Slovenijo:
 
-![](https://files.diariodarepublica.pt/images/1138714123/1138714044.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138714123/1138714044.png) |
+| --- |
 
 Ζa Slovenskú republiku:
 
-![](https://files.diariodarepublica.pt/images/1138714123/1138714045.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138714123/1138714045.png) |
+| --- |
 
 Suomen tasavallan puolesta:
 
 För Republiken Finland:
 
-![](https://files.diariodarepublica.pt/images/1138714123/1138714046.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138714123/1138714046.png) |
+| --- |
 
 För Konungariket Sverige:
 
-![](https://files.diariodarepublica.pt/images/1138714123/1138714047.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138714123/1138714047.png) |
+| --- |
 
 Зa Eвpoпeйeκия eьюз:
 
@@ -28888,10 +28926,17 @@ Euroopan unionin puolesta:
 
 För Europeiska unionen:
 
-![](https://files.diariodarepublica.pt/images/1138714123/1138714048.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138714123/1138714048.png) |
+| --- |
 
 Por la República de Chile:
 
-![](https://files.diariodarepublica.pt/images/1138714123/1138714049.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138714123/1138714049.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1138714123/1138714050.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138714123/1138714050.png) |
+| --- |
+
+119948327
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:18px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl8 { height:28px; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl13 { min-height:28px; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl15 { min-height:37px; } .Tbl16 { text-align:justify; text-align-last:center; } .Tbl17 { min-height:19px; } .Tbl18 { min-height:49px; } .Tbl19 { min-height:27px; } .Tbl20 { min-height:65px; } .Tbl21 { min-height:29px; } .Tbl22 { min-height:39px; } .Tbl23 { min-height:50px; } .Tbl24 { min-height:79px; } .Tbl25 { min-height:48px; } .Tbl26 { min-height:77px; } .Tbl27 { min-height:58px; } .Tbl28 { min-height:81px; } .Tbl29 { min-height:76px; } .Tbl30 { min-height:47px; } .Tbl31 { min-height:69px; } .Tbl32 { text-align:justify; text-align-last:justify; } .Tbl33 { min-height:57px; } .Tbl34 { min-height:56px; } .Tbl35 { min-height:20px; } .Tbl36 { min-height:31px; } .Tbl37 { min-height:64px; } .Tbl38 { min-height:40px; } .Tbl39 { min-height:38px; } .Tbl40 { min-height:66px; } .Tbl41 { min-height:63px; } .Tbl42 { min-height:46px; } .Tbl43 { min-height:104px; } .Tbl44 { height:44px; } .Tbl45 { min-height:73px; } .Tbl46 { min-height:42px; } .Tbl47 { min-height:36px; } .Tbl48 { min-height:108px; } .Tbl49 { min-height:68px; } .Tbl50 { min-height:94px; } .Tbl51 { min-height:100px; } .Tbl52 { min-height:44px; } .Tbl53 { min-height:53px; } .Tbl54 { min-height:75px; } .Tbl55 { min-height:71px; } .Tbl56 { min-height:74px; } .Tbl57 { min-height:43px; } .Tbl58 { min-height:33px; } .Tbl59 { min-height:34px; } .Tbl60 { min-height:127px; } .Tbl61 { min-height:51px; } .Tbl62 { min-height:110px; } .Tbl63 { min-height:119px; } .Tbl64 { min-height:129px; } .Tbl65 { min-height:72px; } .Tbl66 { min-height:54px; } .Tbl67 { min-height:139px; } .Tbl68 { min-height:144px; } .Tbl69 { min-height:45px; } .Tbl70 { min-height:61px; } .Tbl71 { min-height:103px; } .Tbl72 { min-height:85px; } .Tbl73 { min-height:109px; } .Tbl74 { min-height:32px; } .Tbl75 { min-height:101px; } .Tbl76 { min-height:135px; } .Tbl77 { min-height:291px; } .Tbl78 { min-height:17px; } .Tbl79 { min-height:230px; } .Tbl80 { min-height:357px; } .Tbl81 { min-height:246px; } .Tbl82 { min-height:213px; } .Tbl83 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl84 { min-height:102px; } .Tbl85 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl86 { min-height:59px; } .Tbl87 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl88 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl89 { min-height:86px; } .Tbl90 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl91 { min-height:90px; } .Tbl92 { min-height:131px; } .Tbl93 { min-height:141px; } .Tbl94 { min-height:173px; } .Tbl95 { min-height:220px; } .Tbl96 { min-height:130px; } .Tbl97 { min-height:289px; } .Tbl98 { border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl99 { min-height:365px; } .Tbl100 { min-height:95px; } .Tbl101 { min-height:89px; } .Tbl102 { min-height:154px; } .Tbl103 { min-height:180px; } .Tbl104 { min-height:30px; } .Tbl105 { min-height:83px; } .Tbl106 { min-height:92px; } .Tbl107 { min-height:67px; } .Tbl108 { min-height:52px; } .Tbl109 { min-height:91px; } .Tbl110 { min-height:111px; } .Tbl111 { min-height:126px; } .Tbl112 { min-height:137px; } .Tbl113 { min-height:204px; } .Tbl114 { min-height:143px; } .Tbl115 { min-height:122px; } .Tbl116 { min-height:201px; } .Tbl117 { min-height:105px; } .Tbl118 { min-height:136px; } .Tbl119 { min-height:260px; } .Tbl120 { min-height:187px; } .Tbl121 { margin-top:5px; } .Tbl122 { min-height:157px; } .Tbl123 { min-height:283px; } .Tbl124 { min-height:182px; } .Tbl125 { min-height:183px; } .Tbl126 { min-height:171px; } .Tbl127 { min-height:124px; } .Tbl128 { min-height:114px; } .Tbl129 { min-height:125px; } .Tbl130 { min-height:195px; } .Tbl131 { min-height:275px; } .Tbl132 { margin-top:4px; } .Tbl133 { min-height:332px; } .Tbl134 { margin-top:3px; } .Tbl135 { margin-top:3px; text-align:justify; text-align-last:justify; } .Tbl136 { min-height:132px; } .Tbl137 { min-height:84px; } .Tbl138 { min-height:145px; } .Tbl139 { min-height:118px; } .Tbl140 { min-height:80px; } .Tbl141 { min-height:210px; } .Tbl142 { min-height:88px; } .Tbl143 { min-height:97px; } .Tbl144 { min-height:55px; } .Tbl145 { min-height:138px; } .Tbl146 { min-height:165px; } .Tbl147 { min-height:99px; } .Tbl148 { min-height:121px; } .Tbl149 { min-height:193px; } .Tbl150 { min-height:216px; } .Tbl151 { min-height:185px; } .Tbl152 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl153 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl154 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl155 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl156 { min-height:146px; } .Tbl157 { min-height:96px; } .Tbl158 { min-height:207px; } .Tbl159 { min-height:164px; } .Tbl160 { min-height:113px; } .Tbl161 { min-height:133px; } .Tbl162 { min-height:98px; } .Tbl163 { min-height:134px; } .Tbl164 { min-height:82px; } .Tbl165 { min-height:163px; } .Tbl166 { min-height:62px; } .Tbl167 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl168 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl169 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl170 { min-height:208px; } .Tbl171 { min-height:70px; } .Tbl172 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl173 { min-height:218px; } .Tbl174 { min-height:16px; } .Tbl175 { min-height:112px; } .Tbl176 { min-height:107px; } .Tbl177 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl178 { min-height:211px; } .Tbl179 { min-height:150px; } .Tbl180 { min-height:106px; } .Tbl181 { min-height:181px; }

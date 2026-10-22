@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 226/1998, 4º Suplemento, Série I-B de 1998-09-30
   number: '226'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 5000-(10) a 5000-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/09/226b04/00100010.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/16-h/1998/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-h-1998-211847
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-09-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:51:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9d25087ef665b900b1a6c62edb5b92382f76bbfdae0a0c6b52c2b846218f824
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b864a4ea8460f918a4f324f3b5a43ff78dbcff87a6397c2d690128391a449f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:51:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - ÁREA Escolar
 - Educação Especial
+- Educação Pré-escolar
+- Ensino Básico
+- Estabelecimento de Ensino
 - Gestão Escolar
 - Pessoal não Docente
-- Estabelecimento de Ensino
-- Ensino Básico
 - Quadro de Pessoal
-- Açores
-- Educação Pré-escolar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/10/1998/05/02/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/10/1998/05/02/a/dre
+- type: cites
+  target: pt:dre:515866:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:51:20Z'
   warnings: []
   errors: []
 ---
@@ -100,18 +104,18 @@ Para os devidos efeitos se declara que o [Decreto Regulamentar Regional n.º 10/
 
 No anexo XV, «Escola Básica Integrada do Nordeste», onde se lê:
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/09/226b04/00100010.pdf)
+[[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/09/226b04/00100010.pdf)](https://files.diariodarepublica.pt/1s/1998/09/226b04/00100010.pdf)](https://files.diariodarepublica.pt/1s/1998/09/226b04/00100010.pdf)](https://files.diariodarepublica.pt/1s/1998/09/226b04/00100010.pdf)
 
 deve ler-se:
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/09/226b04/00100010.pdf)
+[[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/09/226b04/00100010.pdf)](https://files.diariodarepublica.pt/1s/1998/09/226b04/00100010.pdf)](https://files.diariodarepublica.pt/1s/1998/09/226b04/00100010.pdf)](https://files.diariodarepublica.pt/1s/1998/09/226b04/00100010.pdf)
 
 No anexo XXIII, «Escola Básica Integrada da Madalena», onde se lê:
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/09/226b04/00100010.pdf)
+[[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/09/226b04/00100010.pdf)](https://files.diariodarepublica.pt/1s/1998/09/226b04/00100010.pdf)](https://files.diariodarepublica.pt/1s/1998/09/226b04/00100010.pdf)](https://files.diariodarepublica.pt/1s/1998/09/226b04/00100010.pdf)
 
 deve ler-se:
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/09/226b04/00100010.pdf)
+[[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/09/226b04/00100010.pdf)](https://files.diariodarepublica.pt/1s/1998/09/226b04/00100010.pdf)](https://files.diariodarepublica.pt/1s/1998/09/226b04/00100010.pdf)](https://files.diariodarepublica.pt/1s/1998/09/226b04/00100010.pdf)
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 23 de Setembro de 1998. - O Secretário-Geral, Alexandre Figueiredo.

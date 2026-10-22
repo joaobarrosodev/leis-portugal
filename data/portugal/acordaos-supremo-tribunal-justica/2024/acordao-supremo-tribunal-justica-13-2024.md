@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/20000/0003000045.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/13/2024/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/13-2024-890961429
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-15T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18b9bd000c24a7e04e567689e1d6547f9b54b9545f65e3cde48d604e823ffa72
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38459f4a2fd6477bfe68be4caba3241c8b110720873b5b582b6d72528ebc1f04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -86,16 +86,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/30/2008/02/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/30/2008/02/25/p/dre
+- type: cites
+  target: pt:dre:247722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25699637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3575632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518652:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:08Z'
   warnings: []
   errors: []
 ---
@@ -188,7 +212,7 @@ As Instâncias deram como provados os seguintes factos:
 
 1.1 - O Banco exequente exerce a atividade bancária.
 
-1.2 - No exercício da sua atividade e a pedido da sociedade G..., L.<sup>da</sup>, no dia 08.01.2004, o exequente celebrou com ela uma escritura de hipoteca, cujo teor se dá aqui por integralmente reproduzida
+1.2 - No exercício da sua atividade e a pedido da sociedade G..., L.da, no dia 08.01.2004, o exequente celebrou com ela uma escritura de hipoteca, cujo teor se dá aqui por integralmente reproduzida
 
 Através de tal escritura, a sociedade referida:
 
@@ -198,7 +222,7 @@ Através de tal escritura, a sociedade referida:
 
 1.3 - O contrato de leasing mobiliário foi celebrado entre as partes e a referida hipoteca foi constituída a favor do exequente e registada na respetiva informação predial, pela Ap.... de 2004/09/02 e garantido por essa hipoteca.
 
-1.4 - O contrato de locação financeira mobiliária n.º ...36 em causa nos autos tem por objeto diverso equipamento, o qual foi adquirido pelo Banco à sociedade M..., L.<sup>da</sup> com o intuito de o dar de locação à sociedade Locatária, sendo certo que o referido equipamento foi entregue à locatária.
+1.4 - O contrato de locação financeira mobiliária n.º ...36 em causa nos autos tem por objeto diverso equipamento, o qual foi adquirido pelo Banco à sociedade M..., L.da com o intuito de o dar de locação à sociedade Locatária, sendo certo que o referido equipamento foi entregue à locatária.
 
 Nos termos do aludido contrato:
 
@@ -256,7 +280,7 @@ Pretendendo o Banco recorrente que seja repristinado o decidido pela 1.ª Instâ
 
 Vejamos:
 
-Como está abundantemente mencionado nos autos<sup>1</sup>, a jurisprudência deste Supremo vem decidindo ser aplicável à prescrição das rendas da locação financeira o prazo ordinário de 20 anos: vem-se entendendo que as alíneas b) e e) do art. 310.º do C. Civil não são aplicáveis à locação financeira, com o que se afasta a aplicação do prazo quinquenal e se considera aplicável o prazo ordinário de 20 anos do art. 309.º do C. Civil.
+Como está abundantemente mencionado nos autos1, a jurisprudência deste Supremo vem decidindo ser aplicável à prescrição das rendas da locação financeira o prazo ordinário de 20 anos: vem-se entendendo que as alíneas b) e e) do art. 310.º do C. Civil não são aplicáveis à locação financeira, com o que se afasta a aplicação do prazo quinquenal e se considera aplicável o prazo ordinário de 20 anos do art. 309.º do C. Civil.
 
 E porque é que se vem afastando a aplicação da alínea b) do art. 310.º do C. Civil?
 
@@ -280,7 +304,7 @@ E porque é que se vem afastando a aplicação da alínea e) do art. 310.º do C
 
 Por - dizendo-se em tal alínea e) que “prescrevem no prazo de cinco anos as quotas de amortização do capital pagáveis com os juros” - não estarmos, na locação financeira, perante um contrato de mútuo.
 
-De facto, como refere Leite Campos<sup>2</sup>, “a caracterização do contrato de locação financeira, como de qualquer outro contrato, tem de assentar na sua estrutura jurídica, na sua regulamentação legal e em não quaisquer outros aspetos, sejam financeiros, económicos ou contabilísticos”, ou seja, não deve misturar-se a função financeira - o surgimento da locação financeira como instrumento financeiro e o papel meramente financeiro que o locador normalmente desempenha - com as suas características jurídicas (estruturais), pretendendo classificá-lo financeiramente e não juridicamente.
+De facto, como refere Leite Campos2, “a caracterização do contrato de locação financeira, como de qualquer outro contrato, tem de assentar na sua estrutura jurídica, na sua regulamentação legal e em não quaisquer outros aspetos, sejam financeiros, económicos ou contabilísticos”, ou seja, não deve misturar-se a função financeira - o surgimento da locação financeira como instrumento financeiro e o papel meramente financeiro que o locador normalmente desempenha - com as suas características jurídicas (estruturais), pretendendo classificá-lo financeiramente e não juridicamente.
 
 A locação financeira - acrescenta-se - é um dos instrumentos de que os empresários ou as famílias dispõem para financiar a “aquisição” de bens, mas não pode confundir-se o fim, financeiro, com o instrumento jurídico utilizado para o prosseguir: a aquisição do bem por parte do locador é instrumental à sua concessão em locação financeira, à realização do financiamento - a locação financeira financia o uso e a possível aquisição do bem - porém, o locador não empresta qualquer soma ao locatário (nem é o próprio locatário a adquirir e pagar o bem diretamente ao locador)
 
@@ -296,7 +320,7 @@ A “solução” sobre a aplicação (ou não) do art. 310.º do C. Civil não 
 
 Já houve quem visse as rendas da locação como parcelas do preço e a locação financeira como uma venda a prestações com reserva de propriedade (e entrega antecipada da coisa), mas, contra tal configuração, pode ser dito que a aquisição da propriedade pelo locatário é meramente eventual e que a mesma, a concretizar-se, impõe uma ulterior manifestação de vontade e a conclusão de um novo negócio (enquanto na compra e venda a prestações a transmissão da propriedade opera automaticamente com o pagamento da última prestação).
 
-Daí, o “ecletismo” de teorias que veem a locação financeira como uma união de contratos - como um contrato nominado misto<sup>3</sup>, que contém elementos da compra e venda e da locação - ou como um contrato de crédito sui generis - na medida em que financia o uso e a possível aquisição do bem - ou ainda como um contrato de crédito com caraterísticas específicas<sup>4</sup> - a função creditícia opera-se através da disponibilidade do bem e o locador financeiro permanece proprietário do bem apenas e só na medida dos seus objetivos: tendo em vista a restituição da coisa em caso de incumprimento da obrigação de reembolso do locatário financeiro.
+Daí, o “ecletismo” de teorias que veem a locação financeira como uma união de contratos - como um contrato nominado misto3, que contém elementos da compra e venda e da locação - ou como um contrato de crédito sui generis - na medida em que financia o uso e a possível aquisição do bem - ou ainda como um contrato de crédito com caraterísticas específicas4 - a função creditícia opera-se através da disponibilidade do bem e o locador financeiro permanece proprietário do bem apenas e só na medida dos seus objetivos: tendo em vista a restituição da coisa em caso de incumprimento da obrigação de reembolso do locatário financeiro.
 
 Há que ter presente que a locação financeira (leasing) surgiu nos Estados Unidos nos anos 50 e foi introduzida na Europa uma década depois, sendo por isso natural que o legislador de 1966 não se lhe tenha referido explicitamente, pelo que, mais do que confrontar a natureza jurídica da locação financeira com as situações previstas nas alíneas b) e e) do art. 310.º do C. Civil, importa perscrutar o pensamento legislativo (e/ou o inerente critério valorativo) respeitante ao prazo quinquenal do C. Civil, a partir do que foi objetivamente vertido em tal art. 310.º do C. Civil.
 
@@ -308,7 +332,7 @@ Centremo-nos pois sobre a interpretação do art. 310.º do C. Civil (maxime das
 
 Como resulta dos trabalhos preparatórios do atual C. Civil - e do que aí se refere sobre o que constava no art. 543.º do C. de Seabra e no Anteprojeto do Prof. Vaz Serra - estão em causa na alínea b) do art. 310.º do C. Civil, assim como nas alíneas a) e c), os créditos, periodicamente renováveis, que resultem de alguma das relações unitárias duradouras ali nomeadas, ou seja, os créditos resultantes da renda perpétua, da locação e da enfiteuse; existindo para outros créditos periodicamente renováveis, resultantes de outras relações unitárias duradouras, diferentes das indicadas nas alíneas a), b) e c), a alínea g) do art. 310.º do C. Civil, em que se dispõe que “prescrevem no prazo de 5 anos quaisquer outras prestações periodicamente renováveis”.
 
-Curto prazo de prescrição de cinco anos que, para tais situações (de prestações periódicas renováveis), sempre foi, desde o C. de Seabra<sup>5</sup>, justificado como destinando-se a evitar a ruína do devedor, pela acumulação de pensões, rendas, alugueres, juros ou outras prestações periódicas: como referia o Prof. Manuel de Andrade<sup>6</sup>, com referência aos curtos prazos de prescrição de 5 anos do parágrafo 1.º do art. 543.º do C. de Seabra, “[...] a lei funda-se no intuito de evitar que o credor deixe acumular os seus créditos a ponto de ser mais tarde ao devedor excessivamente oneroso pagar”.
+Curto prazo de prescrição de cinco anos que, para tais situações (de prestações periódicas renováveis), sempre foi, desde o C. de Seabra5, justificado como destinando-se a evitar a ruína do devedor, pela acumulação de pensões, rendas, alugueres, juros ou outras prestações periódicas: como referia o Prof. Manuel de Andrade6, com referência aos curtos prazos de prescrição de 5 anos do parágrafo 1.º do art. 543.º do C. de Seabra, “[...] a lei funda-se no intuito de evitar que o credor deixe acumular os seus créditos a ponto de ser mais tarde ao devedor excessivamente oneroso pagar”.
 
 Sucedendo - trata-se de uma inovação do C. Civil de 1966 - que este alargou tal curto prazo de prescrição de cinco anos às “quotas de amortização de capital pagáveis com os juros”, por, segundo Vaz Serra, “[...] com os juros parece deverem prescrever as quotas de amortização, se deverem ser pagas com a adjunção de juros (Código alemão, parágrafo 197.º), pois, se assim não fosse, poderia dar-se uma acumulação de quotas ruinosa para o devedor, apesar de, com a estipulação de quotas de amortização, se ter pretendido suavizar o reembolso do capital e tratá-lo como juros”; por, ainda segundo Vaz Serra (in Revista Decana, 89.º/328), se justificar o prazo curto com o facto de “proteger o devedor contra a acumulação da sua dívida que, de dívida de anuidades, pagas com os seus rendimentos, se transformaria em dívida de capital suscetível de o arruinar, se o pagamento pudesse ser-lhe exigido de um golpe, ao cabo de um número demasiado de anos”.
 
@@ -320,7 +344,7 @@ Temos pois que a previsão do art. 310.º/e) do C. Civil abrange as hipóteses d
 
 Em síntese, subjacente à consagração desta prescrição de curto prazo está a estipulação, entre as partes, de um plano de reembolso gradual e ao longo do tempo do capital, que visa facilitar e agilizar o pagamento através do fracionamento da dívida em parcelas de capital, o que faz com que se passe a estar perante prestações que se vencem em certo e determinado tempo, levando consigo o perigo sério de acumulação de dívida.
 
-Como refere Ana Filipa Morais Antunes<sup>7</sup>:
+Como refere Ana Filipa Morais Antunes7:
 
 “[...] na situação prevista no art. 310.º/e) não estará em causa uma única obrigação pecuniária emergente de um contrato de financiamento, ainda que com pagamento diferido no tempo, a que caberia aplicar o prazo ordinário de prescrição, de 20 anos, mas sim, diversamente, uma hipótese distinta resultante do acordo entre credor e devedor e cristalizada num plano de amortização do capital e dos juros correspondentes, que, sendo composto por diversas prestações periódicas, impõe a aplicação de um prazo especial de prescrição de curta duração. O referido plano, reitera-se, obedece a um propósito de agilização do reembolso do crédito, facilitando a respetiva liquidação em prestações autónomas, de montante mais reduzido. Por outro lado, visa estimular a cobrança pontual dos montantes fracionados pelo credor, evitando o diferimento do exercício do direito de crédito para o termo do contrato, tendo por objeto a totalidade do montante da dívida.
 
@@ -342,9 +366,9 @@ E sendo estes os contributos “históricos” e literais, quer-nos parecer que 
 
 Como já se referiu e o próprio nomen iuris indica, a locação financeira cumpre uma função de financiamento: é essencialmente - embora não só, na medida em que propicia o gozo do bem e a possibilidade de aquisição pelo locatário se este assim o entender - um negócio de crédito e garantia, na medida em que, como forma de tutela do crédito concedido, o locador financeiro mantém no seu património a propriedade do bem locado (propriedade essa que só lhe interessa como instrumento de garantia do seu crédito, o que explica, em termos de regime, o já referido sobre o disposto nos artigos 12.º, 14.º e 15.º do [DL 149/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-1995-475373)).
 
-“Sendo certo que a locação é o facto ou o hábito que esta modalidade de crédito veste para se apresentar ao mercado, não menos certo é que a figura é, substancialmente, uma modalidade de crédito (latu sensu), pelo que o facto só é utilizado enquanto compatível com esta natureza” <sup>8</sup>
+“Sendo certo que a locação é o facto ou o hábito que esta modalidade de crédito veste para se apresentar ao mercado, não menos certo é que a figura é, substancialmente, uma modalidade de crédito (latu sensu), pelo que o facto só é utilizado enquanto compatível com esta natureza” 8
 
-Em consequência, as rendas da locação financeira compreendem, numa parte, a amortização do “capital” despendido pelo locador financeiro na obtenção da coisa escolhida pelo locatário financeiro e, noutra parte, a remuneração da cedência de tal “capital” por um determinado período de tempo (para além de outras despesas que o locador financeiro tenha tido que efetuar, assim como eventuais comissões administrativas); correspondendo assim o “capital” ao preço pago pelo locador financeiro na compra do bem e a remuneração aos juros, que são pré-calculados e incluídos nas rendas (consistindo o lucro do locador financeiro na inclusão, nos juros cobrados, de um adicional a uma taxa base); e sucedendo típica e generalizadamente que a soma total das rendas, adicionada à verba pouco significativa reservada para o chamado valor residual<sup>9</sup>, corresponde e realiza a amortização integral do “capital”.
+Em consequência, as rendas da locação financeira compreendem, numa parte, a amortização do “capital” despendido pelo locador financeiro na obtenção da coisa escolhida pelo locatário financeiro e, noutra parte, a remuneração da cedência de tal “capital” por um determinado período de tempo (para além de outras despesas que o locador financeiro tenha tido que efetuar, assim como eventuais comissões administrativas); correspondendo assim o “capital” ao preço pago pelo locador financeiro na compra do bem e a remuneração aos juros, que são pré-calculados e incluídos nas rendas (consistindo o lucro do locador financeiro na inclusão, nos juros cobrados, de um adicional a uma taxa base); e sucedendo típica e generalizadamente que a soma total das rendas, adicionada à verba pouco significativa reservada para o chamado valor residual9, corresponde e realiza a amortização integral do “capital”.
 
 Temos pois que o termo “rendas” - referido na alínea a) do art. 10.º/1 e no art. 19.º do [DL 140/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1995-518652) - tem um conteúdo, uma função e uma finalidade diversos dos que lhe estão associados nos art. 1038.º/al. a) e 1039.º do C. Civil: a “renda” não representa, na locação financeira, a simples contrapartida da concessão do gozo da coisa, antes representando (o pagamento do valor global das “rendas”) o reembolso da soma mutuada pelo locador, que assume a veste de um financiador, ainda que o negócio assuma caraterísticas especiais.
 
@@ -380,23 +404,23 @@ Mas também se refere que a lei pode ter um valor diferente do que foi pensado p
 
 Aliás, a interpretação extensiva - em que se alarga o texto da lei, fazendo corresponder a letra da lei ao espírito da lei - assume normalmente a forma de extensão teleológica, na medida em que se diz que a lei impõe a sua aplicação a casos que não são diretamente abrangidos pela letra da lei, mas que são abrangidos pela finalidade da mesma: utilizam-se, para fundamentar a interpretação extensiva, argumentos de identidade de razão e de maioria de razão (se a lei estabelece um certo regime para certas situações, tem forçosamente de abranger aquelas outras situações que, com idênticos ou mais fortes motivos, justificam o mesmo regime).
 
-Sucedendo que, em termos próximos, também é dito que “[...] a mais importante das categorias das “lacunas na lei” são as “lacunas teleológicas” [...], a determinar em face do escopo visado pelo legislador, ou seja, em face de uma ratio legis de uma norma ou da teleologia imanente e a um complexo normativo.” <sup>10</sup>
+Sucedendo que, em termos próximos, também é dito que “[...] a mais importante das categorias das “lacunas na lei” são as “lacunas teleológicas” [...], a determinar em face do escopo visado pelo legislador, ou seja, em face de uma ratio legis de uma norma ou da teleologia imanente e a um complexo normativo.” 10
 
 Enfim, apreendida a razão de ser da lei (ratio legis), o fim visado pelo legislador ao elaborar a norma, a “valoração” ou ponderação dos interesses que a norma regula, fica o intérprete habilitado a definir o seu exato alcance e a estender a sua estatuição, ou por interpretação extensiva ou por analogia, a outras situações.
 
-Num caso, diz-se que apenas se estende o texto da lei ao espírito da lei e que por isso não se trata de analogia; no outro, diz-se que se procede à “aplicação dum princípio jurídico que a lei põe para certo facto a outro facto não regulado, mas semelhante, sob o aspeto jurídico, ao primeiro.” <sup>11</sup>
+Num caso, diz-se que apenas se estende o texto da lei ao espírito da lei e que por isso não se trata de analogia; no outro, diz-se que se procede à “aplicação dum princípio jurídico que a lei põe para certo facto a outro facto não regulado, mas semelhante, sob o aspeto jurídico, ao primeiro.” 11
 
 “A analogia aplica-se quando um caso não é contemplado por uma disposição da lei, enquanto a interpretação extensiva pressupõe que o caso já está compreendido na regulamentação jurídica, entrando no sentido de uma disposição, se bem que fuja à sua letra.
 
 A interpretação extensiva não faz mais do que reconstruir a vontade legislativa já existente, para uma relação que só por inexata formulação dessa vontade parece excluída. [...]
 
-A interpretação extensiva revela o sentido daquilo que o legislador realmente queria e pensava; a analogia tem a ver com casos em que o legislador não pensou e vai descobrir uma norma nova inspirando-se na regulamentação de casos análogos: a primeira completa a letra a outra o pensamento da lei [...]”<sup>12</sup>
+A interpretação extensiva revela o sentido daquilo que o legislador realmente queria e pensava; a analogia tem a ver com casos em que o legislador não pensou e vai descobrir uma norma nova inspirando-se na regulamentação de casos análogos: a primeira completa a letra a outra o pensamento da lei [...]”12
 
 Ora, ao considerar-se que as rendas da locação financeira devem ser incluídas na estatuição da alínea e) do art. 310.º do C. Civil, é mais a isto - completar o pensamento da lei - que é feito.
 
 Referiu-se acima que não é por o diploma da Locação Financeira não ter qualquer preceito sobre o prazo de prescrição das rendas do locatário financeiro que estamos, automaticamente, perante uma lacuna, porém, convocado o direito subsidiário aplicável, constatamos a ausência de uma previsão que explicitamente contemple a estrutura jurídica da locação financeira e, ao mesmo tempo, constatamos que é extraível dum caso paralelo/semelhante regulado (a alínea e) do art. 309.º do C. Civil) um princípio e uma disciplina jurídica aplicável às rendas da locação financeira: e isto é a analogia, que serve tanto para determinar a existência de uma lacuna como para o preenchimento da mesma.
 
-“Analogia é harmónica igualdade, proporção e paralelismo entre relações semelhantes [...] é uma aplicação correspondente dum princípio ou dum complexo de princípios a casos juridicamente semelhantes” <sup>13</sup>.
+“Analogia é harmónica igualdade, proporção e paralelismo entre relações semelhantes [...] é uma aplicação correspondente dum princípio ou dum complexo de princípios a casos juridicamente semelhantes” 13.
 
 A alínea e) do art. 310.º do C. Civil, como acima se expôs, estabelece, como disciplina/princípio, um prazo quinquenal de prescrição para obrigações pecuniárias em que o credor e o devedor acordam num plano de amortização, da obrigação global e dos juros correspondentes, em diversas prestações/obrigações distintas, que se vencem, ao longo do tempo acordado, uma após outra.
 
@@ -414,9 +438,9 @@ A obrigação exequenda, garantida por hipoteca, decorre do incumprimento do con
 
 Temos pois que, prescrevendo o crédito em dívida (integrado por rendas) no prazo de 5 anos, estava o mesmo prescrito, quando, em 15/12/2018, foi instaurada a presente execução.
 
-Efetivamente, a partir da data em que a resolução se tornou eficaz (art. 224.º do C. Civil) - ou seja, 10/11/2005 - começou a correr o prazo da prescrição (cf. art. 306.º/1 do C. Civil) e “completada a prescrição, tem o beneficiário a faculdade de recusar o cumprimento da prestação” (cf. art. 304.º/1 do C. Civil), que foi exatamente o que a executada, ao invocar a prescrição nos presentes embargos<sup>14</sup>, fez.
+Efetivamente, a partir da data em que a resolução se tornou eficaz (art. 224.º do C. Civil) - ou seja, 10/11/2005 - começou a correr o prazo da prescrição (cf. art. 306.º/1 do C. Civil) e “completada a prescrição, tem o beneficiário a faculdade de recusar o cumprimento da prestação” (cf. art. 304.º/1 do C. Civil), que foi exatamente o que a executada, ao invocar a prescrição nos presentes embargos14, fez.
 
-Podendo ainda acrescentar-se que - como se uniformizou no AUJ 6/2022, de 30/06/2022, já referido - ocorrendo o vencimento antecipado das prestações (nos termos do art. 781.º do C. Civil), o prazo de prescrição de 5 anos se mantém, incidindo o seu termo a quo na data desse vencimento antecipado (em relação a todas as prestações assim vencidas); o mesmo sucedendo, mutatis mutandis, no caso do crédito resultar, como é o caso dos autos, da resolução do contrato (cf. Ac. STJ de 23.01.2020, de 11/03/2020 e de 07/06/2021, acima referidos), ou seja, quer o uso da faculdade prevista no art. 781.º do C. Civil, quer a resolução contratual, não alteram a natureza das obrigações (prestações fracionadas) inicialmente assumidas e o respetivo prazo prescricional de 5 anos, apenas alterando o momento da sua exigibilidade (cujo termo a quo passa a ser definido, como já se referiu, pelo art. 306.º/1 do C. Civil) <sup>15</sup>.
+Podendo ainda acrescentar-se que - como se uniformizou no AUJ 6/2022, de 30/06/2022, já referido - ocorrendo o vencimento antecipado das prestações (nos termos do art. 781.º do C. Civil), o prazo de prescrição de 5 anos se mantém, incidindo o seu termo a quo na data desse vencimento antecipado (em relação a todas as prestações assim vencidas); o mesmo sucedendo, mutatis mutandis, no caso do crédito resultar, como é o caso dos autos, da resolução do contrato (cf. Ac. STJ de 23.01.2020, de 11/03/2020 e de 07/06/2021, acima referidos), ou seja, quer o uso da faculdade prevista no art. 781.º do C. Civil, quer a resolução contratual, não alteram a natureza das obrigações (prestações fracionadas) inicialmente assumidas e o respetivo prazo prescricional de 5 anos, apenas alterando o momento da sua exigibilidade (cujo termo a quo passa a ser definido, como já se referiu, pelo art. 306.º/1 do C. Civil) 15.
 
 É quanto basta para negar a presente revista.
 
@@ -434,15 +458,15 @@ Custas, nas Instâncias e na presente Revista, pelo Banco exequente.
 
 Notifique e oportunamente remeta certidão do acórdão para publicação na 1.ª série do Diário da República.
 
-<sup>1</sup> Cfr. Ac. STJ de 11.12.2003, proferido no processo n.º 1572/03; Ac. STJ de 17.03.2005, proferido no processo n.º 4059/04; Ac. STJ de 12.01.2010, proferido no processo n.º 2843/06.2TVLSB.S1; Ac. STJ de 23.02.2010, proferido no processo n.º 589/06.OTVPRT.P1; e Ac. STJ de 13.10.2022, proferido no processo n.º 2518/19.2T80ER-A.L1.S1, todos disponíveis in ITIJ.
+1 Cfr. Ac. STJ de 11.12.2003, proferido no processo n.º 1572/03; Ac. STJ de 17.03.2005, proferido no processo n.º 4059/04; Ac. STJ de 12.01.2010, proferido no processo n.º 2843/06.2TVLSB.S1; Ac. STJ de 23.02.2010, proferido no processo n.º 589/06.OTVPRT.P1; e Ac. STJ de 13.10.2022, proferido no processo n.º 2518/19.2T80ER-A.L1.S1, todos disponíveis in ITIJ.
 
-<sup>2</sup> Locação Financeira e Locação, in Revista da Ordem dos Advogados, ano 62 (2002), págs. 759-775.
+2 Locação Financeira e Locação, in Revista da Ordem dos Advogados, ano 62 (2002), págs. 759-775.
 
-<sup>3</sup> Leite Campos, A locação financeira, p. 141.
+3 Leite Campos, A locação financeira, p. 141.
 
-<sup>4</sup> Gravato de Morais, Manual da Locação Financeira, pág. 328 e ss
+4 Gravato de Morais, Manual da Locação Financeira, pág. 328 e ss
 
-<sup>5</sup> Em cujo art. 543.º se dispunha que prescreviam no prazo especial de 5 anos:
+5 Em cujo art. 543.º se dispunha que prescreviam no prazo especial de 5 anos:
 
 "1.º [...] pensões enphyteuticas, sub-enphyteuticas [...], rendas, alugueres, juros e quaisquer prestações vencidas que se costumam pagar em certos e determinados tempos;
 
@@ -450,25 +474,25 @@ Notifique e oportunamente remeta certidão do acórdão para publicação na 1.�
 
 3.º A obrigação de reparar prejuízos resultantes de delictos correcionais.".
 
-<sup>6</sup> Teoria Geral da Relação Jurídica, II, 1983, pág. 452.
+6 Teoria Geral da Relação Jurídica, II, 1983, pág. 452.
 
-<sup>7</sup> In “Algumas Questões sobre a Prescrição e Caducidade”, em Estudos de Homenagem ao Prof. Sérvulo Correia, pág. 47 e ss.
+7 In “Algumas Questões sobre a Prescrição e Caducidade”, em Estudos de Homenagem ao Prof. Sérvulo Correia, pág. 47 e ss.
 
-<sup>8</sup> Januário Gomes, Contratos Comerciais, pág. 352.
+8 Januário Gomes, Contratos Comerciais, pág. 352.
 
-<sup>9</sup> No caso, como se vê do ponto 14.1 dos factos, o valor residual equivale ao valor de uma renda mensal.
+9 No caso, como se vê do ponto 14.1 dos factos, o valor residual equivale ao valor de uma renda mensal.
 
-<sup>10</sup> Batista Machado, Introdução ao Direito e ao Discurso Legitimador, pág. 196.
+10 Batista Machado, Introdução ao Direito e ao Discurso Legitimador, pág. 196.
 
-<sup>11</sup> Manuel de Andrade, Ensaio Sobre a Teoria da Interpretação das Leis, pág. 158.
+11 Manuel de Andrade, Ensaio Sobre a Teoria da Interpretação das Leis, pág. 158.
 
-<sup>12</sup> Manuel de Andrade, Ensaio Sobre a Teoria da Interpretação das Leis, pág. 162/4.
+12 Manuel de Andrade, Ensaio Sobre a Teoria da Interpretação das Leis, pág. 162/4.
 
-<sup>13</sup> Manuel de Andrade, Ensaio Sobre a Teoria da Interpretação das Leis, pág. 158/9.
+13 Manuel de Andrade, Ensaio Sobre a Teoria da Interpretação das Leis, pág. 158/9.
 
-<sup>14</sup> O que - extinção da obrigação (ou, como alguns entendem, modificação da obrigação civil em obrigação natural) - se repercute, nos termos do art. 730.º/a) do C. Civil, na hipoteca.
+14 O que - extinção da obrigação (ou, como alguns entendem, modificação da obrigação civil em obrigação natural) - se repercute, nos termos do art. 730.º/a) do C. Civil, na hipoteca.
 
-<sup>15</sup> Alteração que, naturalmente, também não ocorre por causa do que se refere na conclusão 4.ª (ou seja, por a executada ter adquirido o bem dado em hipoteca na insolvência da locatária financeira).
+15 Alteração que, naturalmente, também não ocorre por causa do que se refere na conclusão 4.ª (ou seja, por a executada ter adquirido o bem dado em hipoteca na insolvência da locatária financeira).
 
 Lisboa, 12 de setembro de 2024. - António Barateiro Martins - Fernando Baptista de Oliveira - Luís Filipe Castelo Branco do Espírito Santo - Jorge Manuel Arcanjo - Nuno Ataíde das Neves - Ana Paula Lobo, com declaração de voto - Manuel José Aguiar Pereira - Isabel Manso Salgado - Jorge Leal - Emidio Francisco Santos - Nelson Borges Carneiro - Luís Fernando dos Santos Correia de Mendonça - Maria do Rosário Gonçalves - Paula Leal de Carvalho - Henrique Antunes - Maria de Deus Simão da Cruz Silva Damasceno Correia - Maria dos Prazeres Couceiro Pizarro Beleza (com declaração) - Maria Clara Sottomayor - Maria da Graça Trigo - Fátima Gomes - António Oliveira Abreu - Maria João Vaz Tomé (com declaração de voto, aderindo às declarações dos Senhores Conselheiros Maria dos Prazeres Beleza e Nuno Pinto de Oliveira) - Nuno Manuel Pinto Oliveira (com declaração de voto) - António de Moura Magalhães - José Maria Ferreira Lopes - Graça Amaral (vencida parcialmente quanto à fundamentação nos termos da declaração da Conselheira Maria Olinda Garcia) - Maria Olinda Garcia (votei parcialmente vencida nos termos da declaração anexa) - Ricardo Alberto Santos Costa (Votei vencido, parcialmente, nos termos da Declaração que junto).
 
@@ -490,19 +514,19 @@ DECLARAÇÃO DE VOTO
 
 Embora tenha votado o projecto, revendo posição anterior, entendi que deveria ter-se ponderado a possibilidade de excluir a aplicação da doutrina do presente acórdão ao caso sub judice e, em termos mais gerais, a todos os casos em que a quebra ou a ruptura com a jurisprudência constante do Supremo Tribunal de Justiça afectasse gravemente a confiança dos destinatários das normas legais.
 
-A presente revista ampliada foi admitida por se verificar a possibilidade de ruptura com a anterior jurisprudência do Supremo Tribunal de Justiça (cf. artigo 686.º do Código de Processo Civil). Entre 2003 e 2022, o Supremo Tribunal de Justiça pronunciou-se sempre, sem excepção, no sentido da aplicação às rendas devidas no contrato de locação financeira do prazo ordinário de prescrição de 20 anos. Ora, a possibilidade de uma ruptura com uma jurisprudência constante através de um acórdão proferido pelo Pleno das Secções Cíveis deve ter como correlato necessário a possibilidade de uma compressão dos seus efeitos - incluindo do seu efeito uniformizador <sup>1</sup>.
+A presente revista ampliada foi admitida por se verificar a possibilidade de ruptura com a anterior jurisprudência do Supremo Tribunal de Justiça (cf. artigo 686.º do Código de Processo Civil). Entre 2003 e 2022, o Supremo Tribunal de Justiça pronunciou-se sempre, sem excepção, no sentido da aplicação às rendas devidas no contrato de locação financeira do prazo ordinário de prescrição de 20 anos. Ora, a possibilidade de uma ruptura com uma jurisprudência constante através de um acórdão proferido pelo Pleno das Secções Cíveis deve ter como correlato necessário a possibilidade de uma compressão dos seus efeitos - incluindo do seu efeito uniformizador 1.
 
-O princípio da confiança enquanto decorrência do princípio do Estado de direito consagrado no artigo 2.º da Constituição da República Portuguesa exige uma certa constância da actuação do Estado, incluindo da actuação dos tribunais, a fim de se alcançar alguma estabilidade da ordem jurídica <sup>2</sup>. O ponto é particularmente relevante na sucessão de prazos, designadamente de prescrição - se o artigo 297.º do Código Civil tem a especial preocupação de proteger a confiança em caso de sucessão de prazos fixados por quaisquer autoridades, incluindo pelos tribunais, deverá o Pleno das Secções Cíveis aplicar retroactivamente um prazo quatro vezes mais curto que aquele que correspondia à jurisprudência constante do Supremo Tribunal de Justiça?
+O princípio da confiança enquanto decorrência do princípio do Estado de direito consagrado no artigo 2.º da Constituição da República Portuguesa exige uma certa constância da actuação do Estado, incluindo da actuação dos tribunais, a fim de se alcançar alguma estabilidade da ordem jurídica 2. O ponto é particularmente relevante na sucessão de prazos, designadamente de prescrição - se o artigo 297.º do Código Civil tem a especial preocupação de proteger a confiança em caso de sucessão de prazos fixados por quaisquer autoridades, incluindo pelos tribunais, deverá o Pleno das Secções Cíveis aplicar retroactivamente um prazo quatro vezes mais curto que aquele que correspondia à jurisprudência constante do Supremo Tribunal de Justiça?
 
-Os factores desenvolvidos na jurisprudência do Tribunal Constitucional sobre a retroactividade das leis <sup>3</sup> poderiam e, na minha opinião, deveriam ter sido ponderados para limitar temporalmente os efeitos da decisão - a alínea e) do art. 310.º do Código Civil não deveria aplicar-se sem que decorresse um período razoável para que os particulares adaptassem o seu comportamento a uma nova jurisprudência, em ruptura com a anterior.
+Os factores desenvolvidos na jurisprudência do Tribunal Constitucional sobre a retroactividade das leis 3 poderiam e, na minha opinião, deveriam ter sido ponderados para limitar temporalmente os efeitos da decisão - a alínea e) do art. 310.º do Código Civil não deveria aplicar-se sem que decorresse um período razoável para que os particulares adaptassem o seu comportamento a uma nova jurisprudência, em ruptura com a anterior.
 
 Lisboa, 12 de Setembro de 2024. - Nuno Manuel Pinto Oliveira.
 
-<sup>1</sup>Vide, por exemplo, Karl Larenz, Metodologia da ciência do direito (título original: Methodenlehre der Rechtswissenschaft), 3.ª ed., Fundação Calouste Gulbenkian, Lisboa, 1995, pág. 671 - dando conta de que o Supremo Tribunal Federal alemão declarou possível aplicar, por analogia, a uma mudança de jurisprudência, os princípios que hão-de ter-se em conta no caso de leis retroactivas, “uma vez que tal analogia é obrigatória, dado o estado de coisas”.
+1Vide, por exemplo, Karl Larenz, Metodologia da ciência do direito (título original: Methodenlehre der Rechtswissenschaft), 3.ª ed., Fundação Calouste Gulbenkian, Lisboa, 1995, pág. 671 - dando conta de que o Supremo Tribunal Federal alemão declarou possível aplicar, por analogia, a uma mudança de jurisprudência, os princípios que hão-de ter-se em conta no caso de leis retroactivas, “uma vez que tal analogia é obrigatória, dado o estado de coisas”.
 
-<sup>2</sup>Expressão do [Acórdão do Tribunal Constitucional n.º 202/2014](https://diariodarepublica.pt/dr/detalhe/acordao/202-2014-25699637), de 3 de Março de 2014.
+2Expressão do [Acórdão do Tribunal Constitucional n.º 202/2014](https://diariodarepublica.pt/dr/detalhe/acordao/202-2014-25699637), de 3 de Março de 2014.
 
-<sup>3</sup>Vide, por todos, o [Acórdão do Tribunal Constitucional n.º 287/90](https://diariodarepublica.pt/dr/detalhe/acordao/287-1991-3575632), de 30 de Outubro.
+3Vide, por todos, o [Acórdão do Tribunal Constitucional n.º 287/90](https://diariodarepublica.pt/dr/detalhe/acordao/287-1991-3575632), de 30 de Outubro.
 
 (Revista ampliada)
 
@@ -533,3 +557,5 @@ DECLARAÇÃO DE VOTO
 Votei vencido, parcialmente: (i) quanto à fundamentação, na parcela relevante do cap. III; (ii) quanto à alínea b) do dispositivo decisório, na parcela correspondente do segmento de uniformização jurisprudencial que se sustenta na aplicação analógica da alínea e) do art. 310.º do CCiv.; subscrevendo a declaração de voto da Senhora Conselheira Maria Olinda Garcia: aplicação do prazo de prescrição de 5 anos fundado na alínea b) do art. 310.º do CCiv.
 
 STJ/Lisboa, 12/9/2024. - Ricardo Costa.
+
+118214595

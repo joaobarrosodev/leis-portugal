@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/2/2026/01/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/2-2026-993773573
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-10T00:00:00Z'
+  retrieved_at: '2026-10-22T18:27:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0866294b1c747bd310aded30727bad38ab3e120ba994c556a54dda71a7396554
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e269fc3aff1ed59b52893027286ed1f093e58b069f7a114f0acddbc7d2e8e5e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:27:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regulamentação de Atos Legislativos
 - Administração Pública
-- Forças Armadas
-- Orgânica
-- Gestão de Recursos Humanos
 - Direção-Geral de Armamento e Património da Defesa Nacional
+- Forças Armadas
+- Gestão de Recursos Humanos
+- Orgânica
+- Regulamentação de Atos Legislativos
 relationships:
 - type: amended_by
   target: pt:dre:1082907052:por
@@ -84,16 +84,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926311143:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:27:57Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +116,7 @@ Importa agora, no desenvolvimento daquele decreto regulamentar, determinar a com
 
 Assim:
 
-Ao abrigo do disposto nos n.<sup>os</sup>4 e 5 do artigo 21.º e nos n.<sup>os</sup>1 e 3 do artigo 22.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de janeiro, na sua redação atual, manda o Governo, pelo Ministro de Estado e das Finanças, pelo Ministro da Presidência, pelo Ministro Adjunto e da Reforma do Estado e pelo Ministro da Defesa Nacional, o seguinte:
+Ao abrigo do disposto nos n.os4 e 5 do artigo 21.º e nos n.os1 e 3 do artigo 22.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de janeiro, na sua redação atual, manda o Governo, pelo Ministro de Estado e das Finanças, pelo Ministro da Presidência, pelo Ministro Adjunto e da Reforma do Estado e pelo Ministro da Defesa Nacional, o seguinte:
 
 ###### Artigo 1.º — Estrutura nuclear da Direção-Geral de Armamento e Património da Defesa Nacional
 
@@ -234,4 +242,6 @@ A dotação máxima de chefes de equipas multidisciplinares é fixada em uma.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 18 de dezembro de 2025. - O Ministro da Presidência, António Leitão Amaro, em 18 de dezembro de 2025. - O Ministro Adjunto e da Reforma do Estado, Gonçalo Nuno da Cruz Saraiva Matias, em 18 de dezembro de 2025. - O Ministro da Defesa Nacional, Nuno Melo, em 17 de dezembro de 2025.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 18 de dezembro de 2025. - O Ministro da Presidência, António Leitão Amaro, em 18 de dezembro de 2025. - O Ministro Adjunto e da Reforma do Estado, Gonçalo Nuno da Cruz Saraiva Matias, em 18 de dezembro de 2025. - O Ministro da Defesa Nacional, Nuno Melo, em 17 de dezembro de 2025.
+
+119914478

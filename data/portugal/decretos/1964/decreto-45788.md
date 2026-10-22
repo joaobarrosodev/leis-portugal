@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45788-1964-578122
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-07-01T00:00:00Z'
+  retrieved_at: '2026-10-22T19:41:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49924b6e82e3edf3550eee8dc43d844df9be8b71f948f683edaf0f40c1ccb3a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb03b098a88d9deb6ef2c646c991da5abf440182fc63ce51ee77e702c82acca9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:41:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,65 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:156385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:338048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683455:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:41:02Z'
   warnings: []
   errors: []
 ---
@@ -89,59 +137,59 @@ Nestes termos, ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É revogado o artigo 22.º da [Portaria n.º 19305](https://diariodarepublica.pt/dr/detalhe/portaria/19305-1962-163839), de 30 de Julho de 1962. O presidente do tribunal da relação nunca é relator.
+Artigo 1.º É revogado o artigo 22.º da [Portaria n.º 19305](https://diariodarepublica.pt/dr/detalhe/portaria/19305-1962-163839), de 30 de Julho de 1962. O presidente do tribunal da relação nunca é relator.
 
-###### Art. 2.º - I. Os presidentes das relações fixarão o quadro dos administradores de falência para cada comarca do respectivo distrito judicial.
+Art. 2.º - I. Os presidentes das relações fixarão o quadro dos administradores de falência para cada comarca do respectivo distrito judicial.
 
 II. O sorteio a que se refere o n.º 25 da [Portaria n.º 19305](https://diariodarepublica.pt/dr/detalhe/portaria/19305-1962-163839), de 30 do Julho de 1962, será efectuado no momento da apresentação do pedido de falência em juízo.
 
 III. Nas comarcas de mais de uma vara esse sorteio far-se-á cumulativamente com a distribuição do papel.
 
-###### Art. 3.º Sem prejuízo do disposto nos Decretos-Leis n.º 39997, de 20 de Outubro de 1954, e 26634, de 28 de Maio de 1936, os governadores das províncias ultramarinas, mediante parecer do procurador da República ou do seu delegado nas províncias de governo simples, poderão determinar que as cadeias comarcãs tenham secções separadas do estabelecimento principal.
+Art. 3.º Sem prejuízo do disposto nos Decretos-Leis n.º 39997, de 20 de Outubro de 1954, e 26634, de 28 de Maio de 1936, os governadores das províncias ultramarinas, mediante parecer do procurador da República ou do seu delegado nas províncias de governo simples, poderão determinar que as cadeias comarcãs tenham secções separadas do estabelecimento principal.
 
-###### Art. 4.º Na Polícia Judiciária, em igualdade de condições, tem, sempre, preferência nos provimentos dos lugares imediatamente superiores na escala hierárquica dos quadros privativos de cada província o pessoal dos respectivos quadros.
+Art. 4.º Na Polícia Judiciária, em igualdade de condições, tem, sempre, preferência nos provimentos dos lugares imediatamente superiores na escala hierárquica dos quadros privativos de cada província o pessoal dos respectivos quadros.
 
-###### Art. 5.º É aplicável aos ajudantes de distribuidores gerais o disposto no artigo 11.º do [Decreto n.º 35500](https://diariodarepublica.pt/dr/detalhe/decreto/35500-1946-338048), de 20 de Janeiro de 1944, e o artigo 66.º do [Decreto n.º 35777](https://diariodarepublica.pt/dr/detalhe/decreto/35777-1946-156385), de 1 de Agosto de 1946.
+Art. 5.º É aplicável aos ajudantes de distribuidores gerais o disposto no artigo 11.º do [Decreto n.º 35500](https://diariodarepublica.pt/dr/detalhe/decreto/35500-1946-338048), de 20 de Janeiro de 1944, e o artigo 66.º do [Decreto n.º 35777](https://diariodarepublica.pt/dr/detalhe/decreto/35777-1946-156385), de 1 de Agosto de 1946.
 
-###### Art. 6.º É aplicável aos ajudantes de contador o disposto no artigo 11.º do [Decreto n.º 35500](https://diariodarepublica.pt/dr/detalhe/decreto/35500-1946-338048), de 20 de Janeiro de 1944, para o preenchimento dos lugares de contador, ficando revogado nessa matéria o Decreto de 2 de Maio de 1894.
+Art. 6.º É aplicável aos ajudantes de contador o disposto no artigo 11.º do [Decreto n.º 35500](https://diariodarepublica.pt/dr/detalhe/decreto/35500-1946-338048), de 20 de Janeiro de 1944, para o preenchimento dos lugares de contador, ficando revogado nessa matéria o Decreto de 2 de Maio de 1894.
 
-###### Art. 7.º Os concursos para contadores serão efectuados pela forma prescrita no [Decreto n.º 36414](https://diariodarepublica.pt/dr/detalhe/decreto/36414-1947-184742), de 14 de Julho de 1947. Ouvidos os presidentes das relações, os governadores regulamentarão as normas a observar na constituição do júri e elaboração e prestação das provas.
+Art. 7.º Os concursos para contadores serão efectuados pela forma prescrita no [Decreto n.º 36414](https://diariodarepublica.pt/dr/detalhe/decreto/36414-1947-184742), de 14 de Julho de 1947. Ouvidos os presidentes das relações, os governadores regulamentarão as normas a observar na constituição do júri e elaboração e prestação das provas.
 
-###### Art. 8.º - I. Em cada uma das províncias ultramarinas, os ajudantes de escrivão de direito serão nomeados pelo respectivo governador de entre os indivíduos habilitados com o concurso referido neste diploma.
+Art. 8.º - I. Em cada uma das províncias ultramarinas, os ajudantes de escrivão de direito serão nomeados pelo respectivo governador de entre os indivíduos habilitados com o concurso referido neste diploma.
 
 II. Independentemente de concurso podem ser nomeados ajudantes de escrivão os oficiais de diligências que, tendo mais de dez anos de serviço e muito boas informações, tenham exercido, interinamente, as funções de ajudante de escrivão ou de escrivão, seguida ou interpoladamente, por mais de dois anos com boas informações atribuídas pela inspecção judicial.
 
 A nomeação será feita pelo governador da província sobre proposta do presidente da relação e não poderá, em caso algum, ser requerida.
 
-###### Art. 9.º - I. Nas províncias da sede dos distritos judiciais, o concurso terá lugar no tribunal da relação e será aberto sob proposta do respectivo presidente.
+Art. 9.º - I. Nas províncias da sede dos distritos judiciais, o concurso terá lugar no tribunal da relação e será aberto sob proposta do respectivo presidente.
 
 II. O concurso constará de provas escritas e orais perante um júri constituído pelo presidente da relação, que a ele presidirá, por um juiz de direito em serviço na sede da relação, designado em despacho do respectivo presidente, e pelo distribuidor geral dos tribunais. Servirá de secretário o secretário da relação.
 
 III. As condições de admissão, com a exigência do respeito pelas habilitações mínimas do 2.º ciclo dos liceus ou equivalente, regras de preferência, natureza dos pontos, duração das provas e sua classificação, serão estabelecidas, em regulamento, pelo governo provincial.
 
-###### Art. 10.º Por todo o serviço dos concursos é atribuída a cada membro do júri a gratificação de 1500$00, e ao funcionário que servir de secretário, 1000$00.
+Art. 10.º Por todo o serviço dos concursos é atribuída a cada membro do júri a gratificação de 1500$00, e ao funcionário que servir de secretário, 1000$00.
 
-###### Art. 11.º - I. Nas províncias onde não há tribunal da relação ao juiz de direito cabem as atribuições conferidas pelo artigo 11.º ao presidente da relação.
+Art. 11.º - I. Nas províncias onde não há tribunal da relação ao juiz de direito cabem as atribuições conferidas pelo artigo 11.º ao presidente da relação.
 
 II. O júri dos concursos, sob a presidência do juiz da comarca sede do governo da província, terá como vogais o delegado do procurador da República e o conservador dos registos, servindo de secretário o escrivão de direito que o presidente designar.
 
 III. Por todo o serviço dos concursos é atribuída a cada membro do júri a gratificação de 1000$00 e ao funcionário que servir de secretário 500$00.
 
-###### Art. 12.º - I. O serviço afecto ao registo criminal a que se refere o artigo 32.º do [Decreto-Lei n.º 43089](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43089-1960-501462), de 26 de Julho de 1960, nas comarcas que não sejam da sede de repartições privativas do registo criminal ou de suas delegações privativas, fica adstrito às delegações da procuradoria da República, sob a superintendência do respectivo delegado.
+Art. 12.º - I. O serviço afecto ao registo criminal a que se refere o artigo 32.º do [Decreto-Lei n.º 43089](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43089-1960-501462), de 26 de Julho de 1960, nas comarcas que não sejam da sede de repartições privativas do registo criminal ou de suas delegações privativas, fica adstrito às delegações da procuradoria da República, sob a superintendência do respectivo delegado.
 
 II. Os presidentes das relações e os procuradores da República tomarão, conjuntamente, as providências necessárias para a transferência dos serviços dos cartórios judiciais para as delegações da procuradoria da República.
 
-###### Art. 13.º Nas províncias de Angola e Moçambique os oficiais privativos dos registos e do registo civil serão nomeados pelos governadores provinciais, mediante proposta dos procuradores da República, de entre os indivíduos habilitados com o 2.º ciclo dos liceus, ou equivalente, e que hajam feito o estágio de seis meses, com bom aproveitamento, em cartório, secretaria notarial, conservatória dos registos, conservatória do registo civil, ou delegação das mesmas, e funcionários dos serviços dos registos, do registo civil do notariado ou da administração civil, com a categoria não inferior a terceiro-oficial e mais de dois anos de bons serviços.
+Art. 13.º Nas províncias de Angola e Moçambique os oficiais privativos dos registos e do registo civil serão nomeados pelos governadores provinciais, mediante proposta dos procuradores da República, de entre os indivíduos habilitados com o 2.º ciclo dos liceus, ou equivalente, e que hajam feito o estágio de seis meses, com bom aproveitamento, em cartório, secretaria notarial, conservatória dos registos, conservatória do registo civil, ou delegação das mesmas, e funcionários dos serviços dos registos, do registo civil do notariado ou da administração civil, com a categoria não inferior a terceiro-oficial e mais de dois anos de bons serviços.
 
-###### Art. 14.º Nas províncias de Angola e Moçambique, nos serviços subordinados à procuradoria da República observar-se-á, quanto ao provimento dos lugares do pessoal auxiliar, administrativo e burocrático dos respectivos quadros, o regime previsto para os lugares do pessoal do quadro de secretaria dessas procuradorias.
+Art. 14.º Nas províncias de Angola e Moçambique, nos serviços subordinados à procuradoria da República observar-se-á, quanto ao provimento dos lugares do pessoal auxiliar, administrativo e burocrático dos respectivos quadros, o regime previsto para os lugares do pessoal do quadro de secretaria dessas procuradorias.
 
-###### Art. 15.º O primeiro provimento do lugar de adjunto da Repartição do Registo e do Notariado da província de Moçambique, criado pelo Diploma Legislativo Ministerial n.º 14, de 13 de Outubro de 1961, será da competência do governador-geral da província, mediante proposta do procurador da República.
+Art. 15.º O primeiro provimento do lugar de adjunto da Repartição do Registo e do Notariado da província de Moçambique, criado pelo Diploma Legislativo Ministerial n.º 14, de 13 de Outubro de 1961, será da competência do governador-geral da província, mediante proposta do procurador da República.
 
-###### Art. 16.º A referência feita pelo artigo 7.º, alínea a), do [Decreto n.º 44241](https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706), de 19 de Março de 1962, à competência atribuída pelo n.º 3.º do artigo 63.º da Reforma Administrativa Ultramarina aos actuais adjuntos de administradores de circunscrição não prejudica a competência atribuída pelo artigo 8.º do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961, aos encarregados privativos dos serviços de registo, pelo que a competência dos adjuntos dos administradores de circunscrição é entendida como referindo-se às localidades onde não haja serviços privativos de registo.
+Art. 16.º A referência feita pelo artigo 7.º, alínea a), do [Decreto n.º 44241](https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706), de 19 de Março de 1962, à competência atribuída pelo n.º 3.º do artigo 63.º da Reforma Administrativa Ultramarina aos actuais adjuntos de administradores de circunscrição não prejudica a competência atribuída pelo artigo 8.º do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961, aos encarregados privativos dos serviços de registo, pelo que a competência dos adjuntos dos administradores de circunscrição é entendida como referindo-se às localidades onde não haja serviços privativos de registo.
 
-###### Art. 17.º O corpo do artigo 121.º do Código das Custas Judiciais do Ultramar, aprovado pelo [Decreto n.º 43809](https://diariodarepublica.pt/dr/detalhe/decreto/43809-1961-172682), de 20 de Julho de 1961, passa a ter a seguinte redacção:
+Art. 17.º O corpo do artigo 121.º do Código das Custas Judiciais do Ultramar, aprovado pelo [Decreto n.º 43809](https://diariodarepublica.pt/dr/detalhe/decreto/43809-1961-172682), de 20 de Julho de 1961, passa a ter a seguinte redacção:
 
-###### Art. 121.º Preparos iniciais são os que têm lugar no início de qualquer processo ou parte do processo sujeita a tributação especial.
+Art. 121.º Preparos iniciais são os que têm lugar no início de qualquer processo ou parte do processo sujeita a tributação especial.
 
 Preparos subsequentes são os que têm lugar no decurso do processo todas as vezes que o juiz determinar.
 
@@ -149,7 +197,7 @@ Preparos para despesas são os que têm lugar para fazer face ao pagamento dos e
 
 Preparos para julgamento são os que têm lugar antes da decisão das acções, dos recursos e dos incidentes e processos referidos no artigo 37.º
 
-###### Art. 18.º O § único do artigo 77.º do Código das Custas Judiciais passa a ter a seguinte redacção:
+Art. 18.º O § único do artigo 77.º do Código das Custas Judiciais passa a ter a seguinte redacção:
 
 § único. O contador que, sem justa causa, exceder, em mais de cinco dias, o prazo de dez dias fixado no corpo deste artigo, no que se refere à contagem dos processos, pagará 20$00 de multa por cada dia que exceder esse prazo. A importância da multa será paga pelo responsável no prazo de cinco dias, a contar da notificação, constituindo receitado Cofre dos Tribunais. Se entre a data da conta e a do termo do recebimento pelo cartório se verificar que mediaram mais de 48 horas, será a referida multa paga pelo respectivo escrivão.
 
@@ -161,61 +209,61 @@ Preparos para julgamento são os que têm lugar antes da decisão das acções, 
 
 4) Nas comarcas de mais de uma vara os presidentes das relações, por conveniência de serviço, podem determinar a distribuição do serviço pelos funcionários das contadorias, pela forma como entenderem mais equitativa.
 
-###### Art. 19.º A percentagem referida no artigo 175.º do Código das Custas Judiciais deixará de ser liquidada e paga logo que sejam atingidos os limites estabelecidos no artigo 205.º do mesmo código.
+Art. 19.º A percentagem referida no artigo 175.º do Código das Custas Judiciais deixará de ser liquidada e paga logo que sejam atingidos os limites estabelecidos no artigo 205.º do mesmo código.
 
-###### Art. 20.º Em todas as secretarias judiciais, contadorias e cartórios judiciais haverá um livro no qual serão escriturados os emolumentos recebidos por cada funcionário, com referência ao dia e mês em que lhe foram pagos.
+Art. 20.º Em todas as secretarias judiciais, contadorias e cartórios judiciais haverá um livro no qual serão escriturados os emolumentos recebidos por cada funcionário, com referência ao dia e mês em que lhe foram pagos.
 
-###### Art. 21.º As importâncias recebidas por cada funcionário, nos termos do artigo anterior, serão transportadas para os meses imediatos, por forma a poder verificar-se, em qualquer momento, o montante dos emolumentos cobrados e recebidos desde o princípio do ano.
+Art. 21.º As importâncias recebidas por cada funcionário, nos termos do artigo anterior, serão transportadas para os meses imediatos, por forma a poder verificar-se, em qualquer momento, o montante dos emolumentos cobrados e recebidos desde o princípio do ano.
 
-###### Art. 22.º - I. Na província de Cabo Verde são de 1.ª classe os julgados do Fogo e de Santa Antão, com sedes, respectivamente, na cidade de S. Filipe e na povoação que o Governo da província designar em diploma legislativo, cujas áreas de jurisdição compreendem as respectivas ilhas.
+Art. 22.º - I. Na província de Cabo Verde são de 1.ª classe os julgados do Fogo e de Santa Antão, com sedes, respectivamente, na cidade de S. Filipe e na povoação que o Governo da província designar em diploma legislativo, cujas áreas de jurisdição compreendem as respectivas ilhas.
 
 II. Os quadros de pessoal de cada um desses julgados serão fixados pelo respectivo governador.
 
-###### Art. 23.º Os processos de justificação para efeitos de registo civil são da competência das respectivas conservatórias e suas delegações.
+Art. 23.º Os processos de justificação para efeitos de registo civil são da competência das respectivas conservatórias e suas delegações.
 
-###### Art. 24.º Antes da remessa dos processos a juízo, e sempre que não indispensáveis à sua instrução, o director ou os inspectores da Polícia Judiciária poderão confiar aos queixosos ou ofendidos, como fiéis depositários, os objectos apreendidos em consequência de actos criminosos, quando sejam pessoas idóneas.
+Art. 24.º Antes da remessa dos processos a juízo, e sempre que não indispensáveis à sua instrução, o director ou os inspectores da Polícia Judiciária poderão confiar aos queixosos ou ofendidos, como fiéis depositários, os objectos apreendidos em consequência de actos criminosos, quando sejam pessoas idóneas.
 
-###### Art. 25.º O provimento, interino, de lugares de conservador dos registos, do registo civil, do registo comercial e da propriedade automóvel pode ser feito, por conveniência de serviço, nos termos estabelecidos no Estatuto do Funcionalismo Ultramarino para os demais provimentos interinos.
+Art. 25.º O provimento, interino, de lugares de conservador dos registos, do registo civil, do registo comercial e da propriedade automóvel pode ser feito, por conveniência de serviço, nos termos estabelecidos no Estatuto do Funcionalismo Ultramarino para os demais provimentos interinos.
 
-###### Art. 26.º A graduação obtida nos concursos para juízes de direito será, sempre, respeitada na publicação dos respectivos diplomas.
+Art. 26.º A graduação obtida nos concursos para juízes de direito será, sempre, respeitada na publicação dos respectivos diplomas.
 
-###### Art. 27.º Os funcionários que, nos termos do n.º 2.º do artigo 4.º e do artigo 8.º do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961, desempenharem as funções de oficial de registo civil e de notário têm direito aos emolumentos cobrados no desempenho dessas funções até o limite mensal de 1000$00.
+Art. 27.º Os funcionários que, nos termos do n.º 2.º do artigo 4.º e do artigo 8.º do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961, desempenharem as funções de oficial de registo civil e de notário têm direito aos emolumentos cobrados no desempenho dessas funções até o limite mensal de 1000$00.
 
-###### Art. 28.º O pessoal dos estabelecimentos prisionais tem direito a casa de habitação ou, na sua falta, a um subsídio de renda de casa a fixar pelo governo da província quando o julgar conveniente.
+Art. 28.º O pessoal dos estabelecimentos prisionais tem direito a casa de habitação ou, na sua falta, a um subsídio de renda de casa a fixar pelo governo da província quando o julgar conveniente.
 
-###### Art. 29.º O pessoal referido no artigo anterior tem direito a fardamento conforme for regulamentado.
+Art. 29.º O pessoal referido no artigo anterior tem direito a fardamento conforme for regulamentado.
 
-###### Art. 30.º Semestralmente, os procuradores da República remeterão à Direcção-Geral da Justiça um mapa estatístico do movimento prisional relativo a cada um dos estabelecimentos da área da sua jurisdição.
+Art. 30.º Semestralmente, os procuradores da República remeterão à Direcção-Geral da Justiça um mapa estatístico do movimento prisional relativo a cada um dos estabelecimentos da área da sua jurisdição.
 
-###### Art. 31.º Na execução do disposto no Diploma Legislativo Ministerial n.º 13, de 17 de Outubro de 1963, e do [Decreto n.º 45454](https://diariodarepublica.pt/dr/detalhe/decreto/45454-1963-683455), de 18 de Outubro do mesmo ano, os procuradores da República darão conta à Direcção-Geral da Justiça das construções projectadas e executadas pelo Fundo dos Serviços Prisionais, para os efeitos do disposto no n.º 7.º do artigo 2.º do [Decreto-Lei n.º 43203](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43203-1960-513984), de 7 de Outubro de 1960.
+Art. 31.º Na execução do disposto no Diploma Legislativo Ministerial n.º 13, de 17 de Outubro de 1963, e do [Decreto n.º 45454](https://diariodarepublica.pt/dr/detalhe/decreto/45454-1963-683455), de 18 de Outubro do mesmo ano, os procuradores da República darão conta à Direcção-Geral da Justiça das construções projectadas e executadas pelo Fundo dos Serviços Prisionais, para os efeitos do disposto no n.º 7.º do artigo 2.º do [Decreto-Lei n.º 43203](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43203-1960-513984), de 7 de Outubro de 1960.
 
-###### Art. 32.º Os governadores-gerais de Angola e Moçambique podem delegar nos procuradores da República, na medida em que o julgarem necessário e útil, os poderes legais que lhes são atribuídos pelo [Decreto-Lei n.º 26643](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26643-1936-361367), de 28 de Maio de 1936, por força do disposto no artigo 20.º do [Decreto-Lei n.º 39997](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39997-1954-674999), de 20 de Outubro de 1954.
+Art. 32.º Os governadores-gerais de Angola e Moçambique podem delegar nos procuradores da República, na medida em que o julgarem necessário e útil, os poderes legais que lhes são atribuídos pelo [Decreto-Lei n.º 26643](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26643-1936-361367), de 28 de Maio de 1936, por força do disposto no artigo 20.º do [Decreto-Lei n.º 39997](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39997-1954-674999), de 20 de Outubro de 1954.
 
-###### Art. 33.º - I. O quadro da Polícia Judiciária da província de S. Tomé e Príncipe é aumentado de um chefe de brigada, um dactiloscopista com a categoria de segundo-oficial e um agente de 2.ª classe.
+Art. 33.º - I. O quadro da Polícia Judiciária da província de S. Tomé e Príncipe é aumentado de um chefe de brigada, um dactiloscopista com a categoria de segundo-oficial e um agente de 2.ª classe.
 
 II. Tem preferência no preenchimento dos lugares ora criados o pessoal do quadro da província.
 
-###### Art. 34.º Na província de S. Tomé e Príncipe, quando se mostrar conveniente, o governador poderá atribuir aos agentes da Polícia Judiciária uma gratificação por serviços extraordinários.
+Art. 34.º Na província de S. Tomé e Príncipe, quando se mostrar conveniente, o governador poderá atribuir aos agentes da Polícia Judiciária uma gratificação por serviços extraordinários.
 
-###### Art. 35.º Os serventes dos tribunais da Relação de Lourenço Marques, do Tribunal Administrativo de Moçambique, dos tribunais da comarca da mesma província e respectivas delegações da Procuradoria da República terão a categoria correspondente a 1.ª classe.
+Art. 35.º Os serventes dos tribunais da Relação de Lourenço Marques, do Tribunal Administrativo de Moçambique, dos tribunais da comarca da mesma província e respectivas delegações da Procuradoria da República terão a categoria correspondente a 1.ª classe.
 
-###### Art. 36.º - I. É criado na secretaria da Relação de Lourenço Marques um lugar de terceiro-oficial, que será o encarregado da biblioteca.
+Art. 36.º - I. É criado na secretaria da Relação de Lourenço Marques um lugar de terceiro-oficial, que será o encarregado da biblioteca.
 
 II. O lugar será provido livremente pelo governador-geral, sobre proposta do presidente da Relação.
 
-###### Art. 37.º - I. Para o efeito de atribuição do benefício de assistência judiciária, o juiz, em seu prudente arbítrio, pode considerar qualquer indivíduo como manifestamente pobre.
+Art. 37.º - I. Para o efeito de atribuição do benefício de assistência judiciária, o juiz, em seu prudente arbítrio, pode considerar qualquer indivíduo como manifestamente pobre.
 
 II. Quando assim considerar, a atribuição desse benefício não depende de quaisquer formalidades, sem prejuízo da faculdade de recolha de elementos reputados necessários a uma decisão de equidade.
 
-###### Art. 38.º O disposto no artigo anterior não prejudica o recurso aos meios normais para a concessão da assistência judiciária, quando o juiz entender inviável o meio prevenido na mesma disposição.
+Art. 38.º O disposto no artigo anterior não prejudica o recurso aos meios normais para a concessão da assistência judiciária, quando o juiz entender inviável o meio prevenido na mesma disposição.
 
-###### Art. 39.º São isentas de custas e selos as certidões necessárias à execução do decidido no processo para o qual for concedido o benefício de assistência judiciária.
+Art. 39.º São isentas de custas e selos as certidões necessárias à execução do decidido no processo para o qual for concedido o benefício de assistência judiciária.
 
-###### Art. 40.º No Tribunal Administrativo da província de Cabo Verde não haverá férias no corrente ano.
+Art. 40.º No Tribunal Administrativo da província de Cabo Verde não haverá férias no corrente ano.
 
-###### Art. 41.º Os lugares referidos no presente diploma serão orçamentados quando os governos das respectivas províncias entenderem conveniente.
+Art. 41.º Os lugares referidos no presente diploma serão orçamentados quando os governos das respectivas províncias entenderem conveniente.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 1 de Julho de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44337-1962-140566
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-05-10T00:00:00Z'
+  retrieved_at: '2026-10-22T19:29:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21a64c59e50a22fd72e8357114b738aacf384f7961daadc94f923547a70d5046
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7c4a633f8ecac446c495e59bdbf169dabcce56a99a27ab2913d9ed94e26cc97
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:29:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:517864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:29:13Z'
   warnings: []
   errors: []
 ---
@@ -86,7 +94,7 @@ Tendo em vista o disposto nos artigos 1.º e 2.º do [Decreto-Lei n.º 44206](ht
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Na Faculdade de Medicina da Universidade de Coimbra corresponde um professor catedrático a cada uma das seguintes disciplinas:
+Artigo 1.º Na Faculdade de Medicina da Universidade de Coimbra corresponde um professor catedrático a cada uma das seguintes disciplinas:
 
 Anatomia Descritiva.
 
@@ -130,7 +138,7 @@ Psiquiatria.
 
 § único. Os dois restantes professores catedráticos considerar-se-ão adstritos às disciplinas que o Ministro da Educação Nacional designar em atenção às necessidades do serviço e sobre proposta do Conselho Escolar.
 
-###### Art. 2.º Os lugares de professor extraordinário distribuir-se-ão da forma seguintes pelos diversos grupos e subgrupos de disciplinas:
+Art. 2.º Os lugares de professor extraordinário distribuir-se-ão da forma seguintes pelos diversos grupos e subgrupos de disciplinas:
 
 Grupos e subgrupos:
 
@@ -164,7 +172,7 @@ Subgrupo B ... 1
 
 § único. Os três restantes professores extraordinários considerar-se-ão adstritos aos grupos e subgrupos que o Ministro da Educação Nacional designar em atenção às necessidades do serviço e sobre proposta do Conselho Escolar.
 
-###### Art. 3.º Os lugares de assistentes distribuir-se-ão da forma seguinte pelas diversas disciplinas:
+Art. 3.º Os lugares de assistentes distribuir-se-ão da forma seguinte pelas diversas disciplinas:
 
 Disciplinas:
 
@@ -238,7 +246,7 @@ Medicina Legal e Toxicologia Forense ... 3
 
 Psiquiatria ... 2
 
-###### Art. 4.º É o seguinte o quadro, por serviços, do pessoal técnico e auxiliar:
+Art. 4.º É o seguinte o quadro, por serviços, do pessoal técnico e auxiliar:
 
 Serviço e categoria dos funcionários:
 
@@ -434,6 +442,6 @@ Tratador de animais ... 2
 
 (nota a) Lugar exercido por um aspirante da Secretaria da Universidade (artigo 1.º do [Decreto-Lei n.º 38841](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38841-1952-669130), de 29 de Julho de 1952).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 10 de Maio de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Lopes de Almeida.

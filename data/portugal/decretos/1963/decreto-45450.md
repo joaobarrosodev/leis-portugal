@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45450-1963-683451
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-12-18T00:00:00Z'
+  retrieved_at: '2026-10-22T19:38:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24f601ad9d40b3753eb0f000040bb7230ed39ca17cad642363a8920b218e789e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f243a668d124513f35b16f3c5e88b62e45c79fed54da30eff6618f4a0f3ab86
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:38:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 91
-  section_count: 43
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:38:24Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +105,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São transferidas as quantias adiante indicadas dentro do orçamento do Ministério do Exército:
+Artigo 1.º São transferidas as quantias adiante indicadas dentro do orçamento do Ministério do Exército:
 
 No capítulo 3.º:
 
@@ -137,19 +153,19 @@ N.º 1) «Ajudas de custo» ... +50000$00
 
 N.º 2) «Alimentação ...» ... +150000$00
 
-###### Art. 2.º São abertos no Ministério das Finanças, a favor do Ministério do Exército, créditos especiais no montante de 58319695$00, destinados a reforçar verbas insuficientemente dotadas no orçamento respeitante ao corrente ano do segundo dos mencionados Ministérios:
+Art. 2.º São abertos no Ministério das Finanças, a favor do Ministério do Exército, créditos especiais no montante de 58319695$00, destinados a reforçar verbas insuficientemente dotadas no orçamento respeitante ao corrente ano do segundo dos mencionados Ministérios:
 
-### Capítulo 2.º «Estado-Maior do Exército»:
+Capítulo 2.º «Estado-Maior do Exército»:
 
 Missões e comissões de serviço e de estudo no estrangeiro
 
-###### Artigo 39.º, n.º 2) «Manutenção dos serviços ...» ... 200000$00
+Artigo 39.º, n.º 2) «Manutenção dos serviços ...» ... 200000$00
 
-### Capítulo 3.º «Serviços de instrução»:
+Capítulo 3.º «Serviços de instrução»:
 
 Direcções das armas
 
-###### Artigo 44.º «Material de consumo corrente»:
+Artigo 44.º «Material de consumo corrente»:
 
 N.º 1) «Impressos», alínea a) «Depósito Geral de Material de Engenharia» ... 10000$00
 
@@ -157,39 +173,39 @@ N.º 2) «Artigos de expediente ...», alínea a) «Depósito Geral de Material 
 
 N.º 3) «Artigos de embalagem», alínea a) «Depósito Geral de Material de Engenharia» ... 10000$00
 
-###### Artigo 45.º, n.º 1) «Luz, ...», alínea a) «Depósito Geral de Material de Engenharia» ... 15000$00
+Artigo 45.º, n.º 1) «Luz, ...», alínea a) «Depósito Geral de Material de Engenharia» ... 15000$00
 
 Instituto de Altos Estudos Militares (Pedrouços)
 
-###### Artigo 54.º «Despesas de conservação ...»:
+Artigo 54.º «Despesas de conservação ...»:
 
 N.º 1), alínea a) «Outros imóveis» ... 45000$00
 
 N.º 2), alínea a) «Veículos com motor» ... 20000$00
 
-###### Artigo 55.º, n.º 2) «Artigos de expediente ...» ... 20000$00
+Artigo 55.º, n.º 2) «Artigos de expediente ...» ... 20000$00
 
-###### Artigo 56.º, n.º 2) «Luz, ...» ... 100000$00
+Artigo 56.º, n.º 2) «Luz, ...» ... 100000$00
 
-###### Artigo 57.º «Encargos administrativos»:
+Artigo 57.º «Encargos administrativos»:
 
 N.º 1), alínea a) «Auxílio para alimentação ...» ... 78000$00
 
 N.º 3) «Missões e viagens de outros cursos» ... 200000$00
 
-###### Artigo 58.º, n.º 1) «Força motriz» ... 1000$00
+Artigo 58.º, n.º 1) «Força motriz» ... 1000$00
 
 Academia Militar (Lisboa)
 
-###### Artigo 62.º, n.º 1) «Móveis» ... 600000$00
+Artigo 62.º, n.º 1) «Móveis» ... 600000$00
 
-###### Artigo 63.º, n.º 2) «De semoventes», alínea a) «Veículos com motor» ... 60000$00
+Artigo 63.º, n.º 2) «De semoventes», alínea a) «Veículos com motor» ... 60000$00
 
-###### Artigo 64.º, n.º 2) «Artigos de expediente ...» ... 33000$00
+Artigo 64.º, n.º 2) «Artigos de expediente ...» ... 33000$00
 
-###### Artigo 65.º, n.º 2) «Luz, ...» ... 150000$00
+Artigo 65.º, n.º 2) «Luz, ...» ... 150000$00
 
-###### Artigo 66.º «Encargos administrativos»:
+Artigo 66.º «Encargos administrativos»:
 
 N.º 3) «Vencimentos aos alferes alunos ...» ... 816200$00
 
@@ -197,69 +213,69 @@ N.º 4), alínea a) «Alimentação ...» ... 500000$00
 
 Centro Militar de Educação Física, Equitação e Desportos (Mafra)
 
-###### Artigo 79.º «Material de consumo corrente»:
+Artigo 79.º «Material de consumo corrente»:
 
 N.º 1) «Impressos» ... 20000$00
 
 N.º 2) «Artigos de expediente ...» ... 20000$00
 
-###### Artigo 80.º, n.º 1) «Luz, ...» ... 75000$00
+Artigo 80.º, n.º 1) «Luz, ...» ... 75000$00
 
 Escola Militar de Electromecânica (Paços de Arcos)
 
-###### Artigo 89.º «Material de consumo corrente»:
+Artigo 89.º «Material de consumo corrente»:
 
 N.º 2) «Impressos» ... 15000$00
 
 N.º 3) «Artigos de expediente ...» ... 30000$00
 
-###### Artigo 90.º, n.º 1) «Luz, ...» ... 40000$00
+Artigo 90.º, n.º 1) «Luz, ...» ... 40000$00
 
 Escola Prática de Infantaria (Mafra)
 
-###### Artigo 93.º, n.º 1) «Gratificações ...» ... 60000$00
+Artigo 93.º, n.º 1) «Gratificações ...» ... 60000$00
 
-###### Artigo 98.º, n.º 1), alínea a) «Alimentação ...» ... 40000$00
+Artigo 98.º, n.º 1), alínea a) «Alimentação ...» ... 40000$00
 
 Escola Prática de Cavalaria (Santarém)
 
-###### Artigo 107.º «Material de consumo corrente»:
+Artigo 107.º «Material de consumo corrente»:
 
 N.º 1) «Impressos» ... 15000$00
 
 N.º 2) «Artigos de expediente ...» ... 40000$00
 
-###### Artigo 108.º, n.º 1) «Luz, ...» ... 200000$00
+Artigo 108.º, n.º 1) «Luz, ...» ... 200000$00
 
-###### Artigo 110.º, n.º 1) «Força motriz» ... 20000$00
+Artigo 110.º, n.º 1) «Força motriz» ... 20000$00
 
 Escola Prática de Engenharia (Tancos)
 
-###### Artigo 112.º, n.º 1) «Gratificações ...» ... 20000$00
+Artigo 112.º, n.º 1) «Gratificações ...» ... 20000$00
 
-###### Artigo 115.º «Material de consumo corrente»:
+Artigo 115.º «Material de consumo corrente»:
 
 N.º 3) «Impressos» ... 35000$00
 
 N.º 4) «Artigos de expediente ...» ... 12500$00
 
-###### Artigo 116.º, n.º 1) «Luz, ...» ... 100000$00
+Artigo 116.º, n.º 1) «Luz, ...» ... 100000$00
 
-###### Artigo 117.º, n.º 1), alínea a) «Alimentação ...» ... 205416$20
+Artigo 117.º, n.º 1), alínea a) «Alimentação ...» ... 205416$20
 
-###### Artigo 118.º, n.º 1) «Força motriz» ... 30000$00
+Artigo 118.º, n.º 1) «Força motriz» ... 30000$00
 
 Escola Prática do Serviço Veterinário Militar
 
-###### Artigo 123.º, n.º 1) «Gratificações ...» ... 1875$00
+Artigo 123.º, n.º 1) «Gratificações ...» ... 1875$00
 
 Escola Prática de Administração Militar (Lisboa)
 
-###### Artigo 129.º, n.º 2) «Impressos» ... 6000$00
+Artigo 129.º, n.º 2) «Impressos» ... 6000$00
 
 Escola Prática do Serviço de Material
 
-###### Artigo 135.º «Material de consumo corrente»:
+Artigo 135.º «Material de consumo corrente»:
 
 N.º 1) «Matérias-primas ...» ... 42700$00
 
@@ -267,23 +283,23 @@ N.º 2) «Impressos» ... 24000$00
 
 Campo de instrução militar de Santa Margarida
 
-###### Artigo 144.º, n.º 1) «Luz, ...» ... 90000$00
+Artigo 144.º, n.º 1) «Luz, ...» ... 90000$00
 
 Colégio Militar (Lisboa)
 
-###### Artigo 147.º, n.º 1) «Pessoal dos quadros ...»:
+Artigo 147.º, n.º 1) «Pessoal dos quadros ...»:
 
 1 médico estomatologista ... 2400$00
 
-###### Artigo 150.º, n.º 1) «Móveis» ... 40000$00
+Artigo 150.º, n.º 1) «Móveis» ... 40000$00
 
-###### Artigo 151.º «Despesas de conservação ...»:
+Artigo 151.º «Despesas de conservação ...»:
 
 N.º 1), alínea a) «Veículos com motor» ... 60000$00
 
 N.º 2) «De móveis» ... 30000$00
 
-###### Artigo 152.º «Material de consumo corrente»:
+Artigo 152.º «Material de consumo corrente»:
 
 N.º 1) «Matérias-primas ...» ... 5000$00
 
@@ -291,15 +307,15 @@ N.º 2) «Impressos» ... 15000$00
 
 N.º 3) «Artigos de expediente ...» ... 30000$00
 
-###### Artigo 153.º «Despesas de higiene, ...»:
+Artigo 153.º «Despesas de higiene, ...»:
 
 N.º 1) «Serviços clínicos ...» ... 10000$00
 
 N.º 2) «Luz, ...» ... 30000$00
 
-###### Artigo 154.º, n.º 3) «Exercícios finais» ... 15000$00
+Artigo 154.º, n.º 3) «Exercícios finais» ... 15000$00
 
-###### Artigo 155.º «Outros encargos»:
+Artigo 155.º «Outros encargos»:
 
 N.º 1) «Força motriz» ... 10000$00
 
@@ -307,29 +323,29 @@ N.º 2), alínea a) «Diplomas ...» ... 10000$00
 
 Instituto Técnico Militar dos Pupilos do Exército (Lisboa)
 
-###### Artigo 156.º, n.º 1) «Pessoal dos quadros ...»: 1 médico estomatologista ... 2400$00
+Artigo 156.º, n.º 1) «Pessoal dos quadros ...»: 1 médico estomatologista ... 2400$00
 
-###### Artigo 159.º, n.º 1) «Móveis» ... 30000$00
+Artigo 159.º, n.º 1) «Móveis» ... 30000$00
 
-###### Artigo 160.º «Despesas de conservação ...»:
+Artigo 160.º «Despesas de conservação ...»:
 
 N.º 1), alínea a) «Veículos com motor» ... 34500$00
 
 N.º 2) «De móveis» ... 20000$00
 
-###### Artigo 161.º, n.º 3) «Artigos de expediente ...» ... 15000$00
+Artigo 161.º, n.º 3) «Artigos de expediente ...» ... 15000$00
 
-###### Artigo 162.º «Despesas de higiene, ...»:
+Artigo 162.º «Despesas de higiene, ...»:
 
 N.º 1) «Serviços clínicos ...» ... 5000$00
 
 N.º 2) «Luz, ...» ... 60000$00
 
-###### Artigo 163.º, n.º 1) «Subsídio do Estado ...» ... 437120$00
+Artigo 163.º, n.º 1) «Subsídio do Estado ...» ... 437120$00
 
 Cursos de oficiais milicianos
 
-###### Artigo 174.º «Encargos administrativos»:
+Artigo 174.º «Encargos administrativos»:
 
 N.º 1) «Vencimentos dos alunos» ... 1293360$00
 
@@ -337,7 +353,7 @@ N.º 2), alínea a) «Subsídio de alimentação» ... 2975336$00
 
 Cursos de sargentos milicianos
 
-###### Artigo 176.º «Encargos administrativos»:
+Artigo 176.º «Encargos administrativos»:
 
 N.º 1) «Prés a soldados - instruendos do 1.º ciclo, ...» ... 50634$00
 
@@ -347,29 +363,29 @@ Alínea a) «Alimentação a soldados instruendos ...» ... 4072981$80
 
 Alínea b) «Alimentação a primeiros-cabos» ... 4218166$50
 
-### Capítulo 4.º «Serviços do ajudante-general»:
+Capítulo 4.º «Serviços do ajudante-general»:
 
 Pessoal dactilográfico e menor do Ministério
 
-###### Artigo 181.º, n.º 1) «Remunerações ao pessoal menor ...» ... 30000$00
+Artigo 181.º, n.º 1) «Remunerações ao pessoal menor ...» ... 30000$00
 
 Presídio Militar de Santarém
 
-###### Artigo 198.º, n.º 1) «Alimentação, ...» ... 90833$90
+Artigo 198.º, n.º 1) «Alimentação, ...» ... 90833$90
 
 Casa de Reclusão do Governo Militar de Lisboa (Trafaria)
 
-###### Artigo 204.º, n.º 1) «Luz, ...» ... 14500$00
+Artigo 204.º, n.º 1) «Luz, ...» ... 14500$00
 
 Assistência religiosa
 
-###### Artigo 216.º, n.º 1) «Pagamento de serviços ...» ... 2000$00
+Artigo 216.º, n.º 1) «Pagamento de serviços ...» ... 2000$00
 
-### Capítulo 5.º «Serviços do quartel-mestre»:
+Capítulo 5.º «Serviços do quartel-mestre»:
 
 Direcção do Serviço de Saúde
 
-###### Artigo 225.º, n.º 1) «Serviços clínicos ...»:
+Artigo 225.º, n.º 1) «Serviços clínicos ...»:
 
 Alínea a) «Vacinas ...» ... 20000$00
 
@@ -377,91 +393,91 @@ Alínea b) «Despesas com desinsectização» ... 10000$00
 
 Alínea c) «Despesas com epidemias» ... 30000$00
 
-###### Artigo 226.º, n.º 1) «Aquisição de aparelhos ...» ... 20000$00
+Artigo 226.º, n.º 1) «Aquisição de aparelhos ...» ... 20000$00
 
 Direcção do Serviço de Intendência
 
-###### Artigo 239.º, n.º 1) «De móveis» ... 100000$00
+Artigo 239.º, n.º 1) «De móveis» ... 100000$00
 
 Direcção do Serviço de Transportes
 
-###### Artigo 242.º «Material de consumo corrente»:
+Artigo 242.º «Material de consumo corrente»:
 
 N.º 1) «Impressos» ... 16000$00
 
 N.º 2) «Artigos de expediente ...» ... 20000$00
 
-###### Artigo 243.º, n.º 1) «Luz, ...» ... 8000$00
+Artigo 243.º, n.º 1) «Luz, ...» ... 8000$00
 
-###### Artigo 244.º, n.º 1) «Despesas de transportes ...» ... 8000000$00
+Artigo 244.º, n.º 1) «Despesas de transportes ...» ... 8000000$00
 
-### Capítulo 6.º «Regiões militares e comandos territoriais independentes»:
+Capítulo 6.º «Regiões militares e comandos territoriais independentes»:
 
 Governo Militar de Lisboa
 
-###### Artigo 252.º, n.º 1) «De semoventes», alínea a) «Veículos com motor» ... 10000$00
+Artigo 252.º, n.º 1) «De semoventes», alínea a) «Veículos com motor» ... 10000$00
 
-###### Artigo 253.º «Material de consumo corrente»:
+Artigo 253.º «Material de consumo corrente»:
 
 N.º 1) «Impressos» ... 8000$00
 
 N.º 2) «Artigos de expediente ...» ... 25000$00
 
-###### Artigo 254.º, n.º 1) «Luz, ...» ... 10000$00
+Artigo 254.º, n.º 1) «Luz, ...» ... 10000$00
 
 1.ª região militar (Porto)
 
-###### Artigo 256.º, n.º 1) «De semoventes», alínea a) «Veículos com motor» ... 20000$00
+Artigo 256.º, n.º 1) «De semoventes», alínea a) «Veículos com motor» ... 20000$00
 
-###### Artigo 257.º «Material de consumo corrente»:
+Artigo 257.º «Material de consumo corrente»:
 
 N.º 1) «Impressos» ... 16000$00
 
 N.º 2) «Artigos de expediente ...» ... 35000$00
 
-###### Artigo 258.º, n.º 1) «Luz, ...» ... 20000$00
+Artigo 258.º, n.º 1) «Luz, ...» ... 20000$00
 
 2.ª região militar (Tomar)
 
-###### Artigo 260.º, n.º 1) «De semoventes», alínea a) «Veículos com motor» ... 12000$00
+Artigo 260.º, n.º 1) «De semoventes», alínea a) «Veículos com motor» ... 12000$00
 
-###### Artigo 261.º «Material de consumo corrente»:
+Artigo 261.º «Material de consumo corrente»:
 
 N.º 1) «Impressos» ... 6000$00
 
 N.º 2) «Artigos de expediente ...» ... 48000$00
 
-###### Artigo 262.º, n.º 1) «Luz, ...» ... 8000$00
+Artigo 262.º, n.º 1) «Luz, ...» ... 8000$00
 
 Comando Territorial Independente da Madeira (Funchal)
 
-###### Artigo 269.º, n.º 1) «De semoventes», alínea a) «Veículos com motor» ... 3000$00
+Artigo 269.º, n.º 1) «De semoventes», alínea a) «Veículos com motor» ... 3000$00
 
-###### Artigo 270.º «Material de consumo corrente»:
+Artigo 270.º «Material de consumo corrente»:
 
 N.º 1) «Impressos» ... 4000$00
 
 N.º 2) «Artigos de expediente ...» ... 12500$00
 
-###### Artigo 271.º, n.º 1) «Luz, ...» ... 11240$00
+Artigo 271.º, n.º 1) «Luz, ...» ... 11240$00
 
 Comando Territorial Independente dos Açores (Ponta Delgada)
 
-###### Artigo 273.º, n.º 1) «De semoventes», alínea a) «Veículos com motor» ... 3000$00
+Artigo 273.º, n.º 1) «De semoventes», alínea a) «Veículos com motor» ... 3000$00
 
-###### Artigo 274.º «Material de consumo corrente»:
+Artigo 274.º «Material de consumo corrente»:
 
 N.º 1) «Impressos» ... 10000$00
 
 N.º 2) «Artigos de expediente ...» ... 12000$00
 
-###### Artigo 275.º, n.º 1) «Luz, ...» ... 15000$00
+Artigo 275.º, n.º 1) «Luz, ...» ... 15000$00
 
-### Capítulo 7.º «Órgãos hospitalares»:
+Capítulo 7.º «Órgãos hospitalares»:
 
 Hospital Militar Regional n.º 1 (Porto)
 
-###### Artigo 288.º «Material de consumo corrente»:
+Artigo 288.º «Material de consumo corrente»:
 
 N.º 1) «Impressos» ... 12000$00
 
@@ -469,37 +485,37 @@ N.º 2) «Artigos de expediente ...» ... 36000$00
 
 Hospital Militar Regional n.º 2 (Coimbra)
 
-###### Artigo 294, n.º 2) «Artigos de expediente ...» ... 35000$00
+Artigo 294, n.º 2) «Artigos de expediente ...» ... 35000$00
 
 Hospital Militar Regional n.º 3 (Tomar)
 
-###### Artigo 299.º «Material de consumo corrente»:
+Artigo 299.º «Material de consumo corrente»:
 
 N.º 1) «Impressos» ... 6000$00
 
 N.º 2) «Artigos de expediente ...» ... 10000$00
 
-###### Artigo 300.º, n.º 2) «Luz, ...» ... 10000$00
+Artigo 300.º, n.º 2) «Luz, ...» ... 10000$00
 
 Hospital Militar da Praça de Elvas
 
-###### Artigo 309.º «Material de consumo corrente»:
+Artigo 309.º «Material de consumo corrente»:
 
 N.º 1) «Impressos» ... 2400$00
 
 N.º 2) «Artigos de expediente ...» ... 24000$00
 
-###### Artigo 310.º, n.º 2) «Luz, ...» ... 16000$00
+Artigo 310.º, n.º 2) «Luz, ...» ... 16000$00
 
 Hospital Militar de Doenças Infecto-Contagiosas
 
-###### Artigo 315.º, n.º 2) «Luz, ...» ... 30000$00
+Artigo 315.º, n.º 2) «Luz, ...» ... 30000$00
 
-### Capítulo 8.º «Encargos gerais do Ministério»:
+Capítulo 8.º «Encargos gerais do Ministério»:
 
 Sargentos e praças de pré
 
-###### Artigo 327.º «Outras despesas com o pessoal»:
+Artigo 327.º «Outras despesas com o pessoal»:
 
 N.º 1) «Ajudas de custo» ... 1500000$00
 
@@ -507,134 +523,134 @@ N.º 2) «Alimentação ...» ... 9000000$00
 
 Despesas gerais
 
-###### Artigo 335.º «Outras despesas com o pessoal»:
+Artigo 335.º «Outras despesas com o pessoal»:
 
 N.º 1) «Alimentação ...» ... 1500000$00
 
 N.º 4) «Alimentação e alojamento ...» ... 1000000$00
 
-###### Artigo 336.º, n.º 1) «Instalação de linhas telefónicas ...» ... 20000$00
+Artigo 336.º, n.º 1) «Instalação de linhas telefónicas ...» ... 20000$00
 
-###### Artigo 338.º «Despesas de conservação ...»:
+Artigo 338.º «Despesas de conservação ...»:
 
 N.º 1), alínea a) «Prédios urbanos» ... 5000$00
 
 N.º 4) «De material de defesa ...» ... 50000$00
 
-###### Artigo 339.º «Material de consumo corrente»:
+Artigo 339.º «Material de consumo corrente»:
 
 N.º 1) «Impressos» ... 300000$00
 
 N.º 2) «Artigos de expediente ...» ... 400000$00
 
-###### Artigo 340.º «Despesas de higiene, ...»:
+Artigo 340.º «Despesas de higiene, ...»:
 
 N.º 1), alínea b) «Pagamento a médicos civis» ... 50000$00
 
 N.º 2) «Luz, ...» ... 500000$00
 
-###### Artigo 341.º, n.º 2) «Telefones» ... 200000$00
+Artigo 341.º, n.º 2) «Telefones» ... 200000$00
 
-###### Artigo 342.º, n.º 8) «Subvenção de família» ... 200000$00
+Artigo 342.º, n.º 8) «Subvenção de família» ... 200000$00
 
-###### Artigo 343.º, n.º 1) «Força motriz» ... 55570$00
+Artigo 343.º, n.º 1) «Força motriz» ... 55570$00
 
-### Capítulo 9.º «Forças eventualmente constituídas»:
+Capítulo 9.º «Forças eventualmente constituídas»:
 
 Regimento de artilharia antiaérea fixa (Queluz)
 
-###### Artigo 347.º, n.º 1) «De semoventes», alínea a) «Veículos com motor» ... 50000$00
+Artigo 347.º, n.º 1) «De semoventes», alínea a) «Veículos com motor» ... 50000$00
 
-### Capítulo 12.º «Despesas de anos económicos findos»:
+Capítulo 12.º «Despesas de anos económicos findos»:
 
-###### Artigo 368.º «Despesas de anos económicos findos» ... 17170061$60
+Artigo 368.º «Despesas de anos económicos findos» ... 17170061$60
 
 ... 58319695$00
 
-###### Art. 3.º Como compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+Art. 3.º Como compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 2.º, artigo 21.º «Taxa de salvação nacional» ... 22000000$00
+Capítulo 2.º, artigo 21.º «Taxa de salvação nacional» ... 22000000$00
 
-### Capítulo 4.º, artigo 68.º «Diversas receitas não classificadas» ... 6681159$40
+Capítulo 4.º, artigo 68.º «Diversas receitas não classificadas» ... 6681159$40
 
-### Capítulo 7.º, artigo 203.º «Reposições não abatidas nos pagamentos» ... 8733995$10
+Capítulo 7.º, artigo 203.º «Reposições não abatidas nos pagamentos» ... 8733995$10
 
 ... 37415154$50
 
 Ministério das Finanças
 
-### Capítulo 7.º, artigo 67.º, n.º 1) ... 162229$50
+Capítulo 7.º, artigo 67.º, n.º 1) ... 162229$50
 
 Ministério do Exército
 
-### Capítulo 1.º, artigo 2.º, n.º 1) ... 12000$00
+Capítulo 1.º, artigo 2.º, n.º 1) ... 12000$00
 
-### Capítulo 1.º, artigo 5.º, n.º 1) ... 440000$00
+Capítulo 1.º, artigo 5.º, n.º 1) ... 440000$00
 
-### Capítulo 1.º, artigo 6.º, n.º 1), alínea a) ... 100000$00
+Capítulo 1.º, artigo 6.º, n.º 1), alínea a) ... 100000$00
 
-### Capítulo 2.º, artigo 37.º, n.º 1), alínea c) ... 50000$00
+Capítulo 2.º, artigo 37.º, n.º 1), alínea c) ... 50000$00
 
-### Capítulo 2.º, artigo 37.º, n.º 1), alínea e) ... 50000$00
+Capítulo 2.º, artigo 37.º, n.º 1), alínea e) ... 50000$00
 
-### Capítulo 2.º, artigo 37.º, n.º 1), alínea j) ... 100000$00
+Capítulo 2.º, artigo 37.º, n.º 1), alínea j) ... 100000$00
 
-### Capítulo 3.º, artigo 50.º, n.º 1) ... 1110000$00
+Capítulo 3.º, artigo 50.º, n.º 1) ... 1110000$00
 
-### Capítulo 3.º, artigo 50.º, n.º 2), alínea a) ... 120000$00
+Capítulo 3.º, artigo 50.º, n.º 2), alínea a) ... 120000$00
 
-### Capítulo 3.º, artigo 51.º, n.º 2) ... 7000$00
+Capítulo 3.º, artigo 51.º, n.º 2) ... 7000$00
 
-### Capítulo 3.º, artigo 51.º, n.º 3) ... 4000$00
+Capítulo 3.º, artigo 51.º, n.º 3) ... 4000$00
 
-### Capítulo 3.º, artigo 52.º, n.º 1) ... 15000$00
+Capítulo 3.º, artigo 52.º, n.º 1) ... 15000$00
 
-### Capítulo 3.º, artigo 52.º, n.º 2), alínea a) ... 4000$00
+Capítulo 3.º, artigo 52.º, n.º 2), alínea a) ... 4000$00
 
-### Capítulo 3.º, artigo 59.º, n.º 1) ... 2851616$00
+Capítulo 3.º, artigo 59.º, n.º 1) ... 2851616$00
 
-### Capítulo 3.º, artigo 60.º, n.º 3) ... 67200$00
+Capítulo 3.º, artigo 60.º, n.º 3) ... 67200$00
 
-### Capítulo 3.º, artigo 76.º, n.º 1) ... 25000$00
+Capítulo 3.º, artigo 76.º, n.º 1) ... 25000$00
 
-### Capítulo 3.º, artigo 77.º, n.º 1) ... 10000$00
+Capítulo 3.º, artigo 77.º, n.º 1) ... 10000$00
 
-### Capítulo 3.º, artigo 84.º, n.º 2), alínea a) ... 125000$00
+Capítulo 3.º, artigo 84.º, n.º 2), alínea a) ... 125000$00
 
-### Capítulo 3.º, artigo 103.º, n.º 1), alínea a) ... 60000$00
+Capítulo 3.º, artigo 103.º, n.º 1), alínea a) ... 60000$00
 
-### Capítulo 3.º, artigo 126.º, n.º 1), alínea a) ... 1875$00
+Capítulo 3.º, artigo 126.º, n.º 1), alínea a) ... 1875$00
 
-### Capítulo 3.º, artigo 147.º, n.º 1) ... 485000$00
+Capítulo 3.º, artigo 147.º, n.º 1) ... 485000$00
 
-### Capítulo 3.º, artigo 156.º, n.º 1) ... 701620$00
+Capítulo 3.º, artigo 156.º, n.º 1) ... 701620$00
 
-### Capítulo 7.º, artigo 285.º, n.º 1) ... 16800$00
+Capítulo 7.º, artigo 285.º, n.º 1) ... 16800$00
 
-### Capítulo 7.º, artigo 285.º n.º 2), alínea a) ... 19200$00
+Capítulo 7.º, artigo 285.º n.º 2), alínea a) ... 19200$00
 
-### Capítulo 7.º, artigo 290.º, n.º 1) ... 12000$00
+Capítulo 7.º, artigo 290.º, n.º 1) ... 12000$00
 
-### Capítulo 8.º, artigo 320.º, n.º 2), alínea a) ... 2500000$00
+Capítulo 8.º, artigo 320.º, n.º 2), alínea a) ... 2500000$00
 
-### Capítulo 8.º, artigo 321.º, n.º 3) ... 50000$00
+Capítulo 8.º, artigo 321.º, n.º 3) ... 50000$00
 
-### Capítulo 8.º, artigo 323.º, n.º 1) ... 10000000$00
+Capítulo 8.º, artigo 323.º, n.º 1) ... 10000000$00
 
-### Capítulo 8.º, artigo 324.º, n.º 1) ... 1000000$00
+Capítulo 8.º, artigo 324.º, n.º 1) ... 1000000$00
 
-### Capítulo 8.º, artigo 328.º, n.º 1) ... 500000$00
+Capítulo 8.º, artigo 328.º, n.º 1) ... 500000$00
 
-### Capítulo 9.º, artigo 344.º, n.º 1) ... 305000$00
+Capítulo 9.º, artigo 344.º, n.º 1) ... 305000$00
 
 ... 20742311$00
 
-###### Art. 4.º A fim de satisfazer encargos respeitantes aos anos económicos de 1962, fica a 5.ª Repartição da Direcção-Geral da Contabilidade Pública autorizada a ordenar pagamentos, até ao total de 6150290$30, de conta do reforço incluído no artigo 2.º do presente diploma, da verba inscrita no capítulo 12.º, artigo 368.º, do actual orçamento do Ministério do Exército.
+Art. 4.º A fim de satisfazer encargos respeitantes aos anos económicos de 1962, fica a 5.ª Repartição da Direcção-Geral da Contabilidade Pública autorizada a ordenar pagamentos, até ao total de 6150290$30, de conta do reforço incluído no artigo 2.º do presente diploma, da verba inscrita no capítulo 12.º, artigo 368.º, do actual orçamento do Ministério do Exército.
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 18 de Dezembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottamayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

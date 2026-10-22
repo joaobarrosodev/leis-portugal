@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43387-1960-512782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-12-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:21:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08d7cb5af1ac092374ad20dddacacc63b2c82a2b14205f73750b9a02dba9a3a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: acecea444df432cefa97c0e2d5c35ca223db1d2da7430a6185261e143fd26cd1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:21:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,30 @@ relationships:
   target: pt:dre:517411:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517411:por
+  label: "Designada por \"Epidemiologia e Bioestática\" a cadeira do Instituto de Medicina Tropical referida no art. 1º do\
+    \ presente diploma, pelo DEC LEI.46067.07.12.1964.MU, DG.IS [286-Supl] de 07.12.1964\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46067-1964-517411
+  date: '1964-12-07'
+- type: cites
+  target: pt:dre:515197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539782:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:21:27Z'
   warnings: []
   errors: []
 ---
@@ -91,25 +105,25 @@ Considerando a importância das matérias de bioestatística indispensáveis par
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É criada no Instituto de Medicina Tropical a cadeira de Bioestatística, que acresce, com o n.º 8.ª, às cadeiras enumeradas no artigo 11.º do regulamento aprovado pelo [Decreto n.º 40055](https://diariodarepublica.pt/dr/detalhe/decreto/40055-1955-539782), de 5 de Fevereiro de 1955.
+Artigo 1.º É criada no Instituto de Medicina Tropical a cadeira de Bioestatística, que acresce, com o n.º 8.ª, às cadeiras enumeradas no artigo 11.º do regulamento aprovado pelo [Decreto n.º 40055](https://diariodarepublica.pt/dr/detalhe/decreto/40055-1955-539782), de 5 de Fevereiro de 1955.
 
 § 1.º A cadeira de Bioestatística terá por objectivo o estudo das estatísticas vitais e demográficas do ultramar português, o tratamento estatístico dos dados referentes a inquéritos epidemiológicos ou relacionados com os problemas de povoamento e a apreciação estatística dos problemas de investigação e das tarefas didácticas do Instituto.
 
 § 2.º A cadeira de Bioestatística funcionará em íntima colaboração com a cadeira de Higiene e Climatologia.
 
-###### Art. 2.º Ao quadro definido no corpo do artigo 45.º do referido regulamento de 5 de Fevereiro de 1955 é acrescentada a seguinte rubrica:
+Art. 2.º Ao quadro definido no corpo do artigo 45.º do referido regulamento de 5 de Fevereiro de 1955 é acrescentada a seguinte rubrica:
 
 Cadeira de Bioestatística - um professor auxiliar e um assistente.
 
-###### Art. 3.º O provimento no lugar de professor auxiliar criado por este decreto será feito segundo as normas do regulamento do Instituto, aprovado pelo referido [Decreto n.º 40055](https://diariodarepublica.pt/dr/detalhe/decreto/40055-1955-539782), de 5 de Fevereiro de 1955, podendo concorrer ao lugar os assistentes do Instituto e os licenciados em Medicina com o curso de Medicina Tropical, como está previsto no artigo 51.º do referido regulamento do Instituto.
+Art. 3.º O provimento no lugar de professor auxiliar criado por este decreto será feito segundo as normas do regulamento do Instituto, aprovado pelo referido [Decreto n.º 40055](https://diariodarepublica.pt/dr/detalhe/decreto/40055-1955-539782), de 5 de Fevereiro de 1955, podendo concorrer ao lugar os assistentes do Instituto e os licenciados em Medicina com o curso de Medicina Tropical, como está previsto no artigo 51.º do referido regulamento do Instituto.
 
 § único. No caso de os concorrentes serem primeiros-assistentes do Instituto ou doutores por qualquer das Faculdades de Medicina, não serão obrigados à apresentação da dissertação prevista nas normas da Faculdade de Medicina da Universidade de Lisboa que regem as provas de concurso para professores do Instituto.
 
-###### Art. 4.º Ao lugar de professor ordinário da cadeira de Antropologia Tropical, criada pelo [Decreto n.º 43161](https://diariodarepublica.pt/dr/detalhe/decreto/43161-1960-515197), de 12 de Setembro de 1960, e regulamentado pelo seu artigo 3.º, poderão também concorrer os professores auxiliares do Instituto de Medicina Tropical e os médicos que tenham sido aprovados em mérito absoluto em concurso para professor auxiliar do referido Instituto, desde que uns e outros tenham publicado trabalhos sobre a matéria da cadeira que o júri, em exame preliminar, considere de mérito.
+Art. 4.º Ao lugar de professor ordinário da cadeira de Antropologia Tropical, criada pelo [Decreto n.º 43161](https://diariodarepublica.pt/dr/detalhe/decreto/43161-1960-515197), de 12 de Setembro de 1960, e regulamentado pelo seu artigo 3.º, poderão também concorrer os professores auxiliares do Instituto de Medicina Tropical e os médicos que tenham sido aprovados em mérito absoluto em concurso para professor auxiliar do referido Instituto, desde que uns e outros tenham publicado trabalhos sobre a matéria da cadeira que o júri, em exame preliminar, considere de mérito.
 
 § único. No caso de os concorrentes ao lugar de professor ordinário da cadeira de Antropologia Tropical serem doutores em Antropologia ou doutores em Medicina pelas Universidades portuguesas, sem aprovação em mérito absoluto em concurso anterior para professor auxiliar do Instituto, as normas do concurso a que terão de se submeter são as previstas no Regulamento do Instituto de Medicina Tropical para professor auxiliar.
 
-###### Art. 5.º O artigo 56.º do Regulamento do Instituto de Medicina Tropical, aprovado pelo [Decreto n.º 40055](https://diariodarepublica.pt/dr/detalhe/decreto/40055-1955-539782), de 5 de Fevereiro de 1955, passa a ter a seguinte redacção:
+Art. 5.º O artigo 56.º do Regulamento do Instituto de Medicina Tropical, aprovado pelo [Decreto n.º 40055](https://diariodarepublica.pt/dr/detalhe/decreto/40055-1955-539782), de 5 de Fevereiro de 1955, passa a ter a seguinte redacção:
 
 Os segundos-assistentes poderão ter recondução anual e sucessiva sòmente até perfazerem o máximo de seis anos nesta categoria.
 
@@ -117,9 +131,9 @@ Os segundos-assistentes poderão ter recondução anual e sucessiva sòmente at�
 
 § 2.º Para o mesmo efeito, não é contado o tempo decorrido até 5 de Fevereiro de 1955 em relação aos assistentes que então estavam contratados.
 
-###### Art. 6.º Os encargos derivados deste decreto serão suportados pelo orçamento privativo do Instituto de Medicina Tropical, com contrapartida em recursos orçamentais.
+Art. 6.º Os encargos derivados deste decreto serão suportados pelo orçamento privativo do Instituto de Medicina Tropical, com contrapartida em recursos orçamentais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

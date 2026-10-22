@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/04/06901/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/18-c/2025/04/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-c-2025-914162009
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-08T00:00:00Z'
+  retrieved_at: '2026-10-22T19:15:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a986f2d84ad9b96f67d01d576347446f5824eda611d30c9db57f29543470234
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ad7985b111cb2b6df9679947fbed8a903f534e8a585879f3611ab8c8b4d1ecc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:15:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Centro Eletroprodutor
 - Energia Renovável
+- Plano de Afetação para as Energias Renováveis Offshore
+- Plano de Situação de Ordenamento do Espaço Marítimo Nacional
+- Plano Nacional Energia e Clima 2030
 - Política Energética
 - Proteção do Ambiente
-- Centro Eletroprodutor
-- Plano Nacional Energia e Clima 2030
-- Plano de Situação de Ordenamento do Espaço Marítimo Nacional
-- Plano de Afetação para as Energias Renováveis Offshore
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/43-b/2024/07/02/p/dre
@@ -90,16 +90,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/19/2025/02/07/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/19/2025/02/07/p/dre
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:906519104:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:resolucao-conselho-ministros:19/2025
+  label: Retifica o anexo iii da Resolução do Conselho de Ministros n.º 19/2025, de 7 de fevereiro, Diário da República n.º
+    27/2025, Série I
+  source: null
+  date: '2025-02-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:15:50Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +148,7 @@ Lat. 40° 47’06,13”N e Long. 9° 08’ 46,31”W
 | 4 | 40° 47’ 06,13’’ N | 9° 08’ 46,31’’ W |
 | 5 | 40° 47’ 06,18’’ N | 9° 16’ 43,24’’ W |
 | 6 | 41° 01’ 31,95’’ N | 9° 22’ 18,51’’ W |
-| Sistema de coordenadas: GCS WGS84 | Sistema de coordenadas: GCS WGS84 | Sistema de coordenadas: GCS WGS84 |
+| Sistema de coordenadas: GCS WGS84 |  |  |
 
 deve ler-se:
 
@@ -136,6 +162,10 @@ Lat. 40° 47’06,13’’N e Long. 9° 09’ 46,31”W
 | 4 | 40° 47’ 06,13’’ N | 9° 09’ 46,31’’ W |
 | 5 | 40° 47’ 06,18’’ N | 9° 16’ 43,24’’ W |
 | 6 | 41° 01’ 31,95’’ N | 9° 22’ 18,51’’ W |
-| Sistema de coordenadas: GCS WGS84 | Sistema de coordenadas: GCS WGS84 | Sistema de coordenadas: GCS WGS84 |
+| Sistema de coordenadas: GCS WGS84 |  |  |
 
 Secretaria-Geral do Governo, 7 de abril de 2025. - A Secretária-Geral Adjunta, Fátima Costa Ferreira.
+
+118919903
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(146,205,220); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(146,205,220); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(146,205,220); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:18px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; }

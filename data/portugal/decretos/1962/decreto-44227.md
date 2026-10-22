@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44227-1962-518188
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-02-05T00:00:00Z'
+  retrieved_at: '2026-10-22T19:28:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1db6ea971f29f5de986d928002fd8a85278a3107b56c0ab6dbc00de80943c01b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c2f7c93e4d145b99bb2650663fc326e2312b5fffb805056a7ee3bf1932c0bff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:28:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,37 @@ relationships:
   target: pt:dre:227783:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:227783:por
+  label: "Alterado o nº 2º do art. 10º pelo DEC.45/70.05.02.1970.MU, DG.IS [30] de 05.02.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/45-1970-227783
+  date: '1970-02-05'
+- type: cites
+  target: pt:dre:363480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514233:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:28:23Z'
   warnings: []
   errors: []
 ---
@@ -102,11 +123,11 @@ I
 
 Do quadro comum dos engenheiros e serviços
 
-###### Artigo 1.º É aprovado o quadro comum dos engenheiros dos serviços dos portos, caminhos de ferro e transportes do ultramar, constante do mapa anexo a este decreto, que, na parte respeitante a Angola e Moçambique, substitui o referido no artigo 14.º do [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959.
+Artigo 1.º É aprovado o quadro comum dos engenheiros dos serviços dos portos, caminhos de ferro e transportes do ultramar, constante do mapa anexo a este decreto, que, na parte respeitante a Angola e Moçambique, substitui o referido no artigo 14.º do [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959.
 
-###### Art. 2.º As nomeações para os lugares do quadro comum a que se refere o artigo antecedente e a colocação dos engenheiros directores são da competência do Ministro do Ultramar. Os engenheiros das restantes categorias serão colocados por portaria do governador-geral, sob proposta do director dos serviços.
+Art. 2.º As nomeações para os lugares do quadro comum a que se refere o artigo antecedente e a colocação dos engenheiros directores são da competência do Ministro do Ultramar. Os engenheiros das restantes categorias serão colocados por portaria do governador-geral, sob proposta do director dos serviços.
 
-###### Art. 3.º Os cargos constantes do mapa referido no artigo 1.º serão desempenhados por engenheiros das categorias seguintes:
+Art. 3.º Os cargos constantes do mapa referido no artigo 1.º serão desempenhados por engenheiros das categorias seguintes:
 
 a) Engenheiro director: inspector provincial, director e subdirector dos serviços;
 
@@ -118,9 +139,9 @@ d) Engenheiro de 2.ª classe: adjunto do chefe de serviço e adjunto do chefe de
 
 § único. Na falta de engenheiros de 1.ª classe podem os cargos referidos na alínea c) ser desempenhados, interinamente, por engenheiros de 2.ª classe.
 
-###### Art. 4.º Com a concordância do conselho de administração dos portos, caminhos de ferro e transportes, pode o director dos serviços delegar nos directores de exploração os assuntos correntes. As delegações serão sempre dadas em ordem de serviço ou por despacho publicado no Boletim Oficial, conforme a publicidade seja ou não de interesse público.
+Art. 4.º Com a concordância do conselho de administração dos portos, caminhos de ferro e transportes, pode o director dos serviços delegar nos directores de exploração os assuntos correntes. As delegações serão sempre dadas em ordem de serviço ou por despacho publicado no Boletim Oficial, conforme a publicidade seja ou não de interesse público.
 
-###### Art. 5.º O provimento dos cargos do mapa referido no artigo 1.º será feito:
+Art. 5.º O provimento dos cargos do mapa referido no artigo 1.º será feito:
 
 a) Por engenheiros civis:
 
@@ -142,13 +163,13 @@ Chefes e adjuntos dos serviços de electricidade, de material e tracção, de si
 
 § 3.º Os cargos de chefe e subchefe da Divisão de Serviços Técnicos devem ser exercidos por engenheiros de especialidades diferentes: quando um for electrotécnico o outro será mecânico.
 
-###### Art. 6.º Compete aos adjuntos da Direcção dos Serviços coadjuvar o director, executar as funções que este lhes delegue e substituir o subdirector nas suas faltas ou impedimentos.
+Art. 6.º Compete aos adjuntos da Direcção dos Serviços coadjuvar o director, executar as funções que este lhes delegue e substituir o subdirector nas suas faltas ou impedimentos.
 
-###### Art. 7.º Um dos subdirectores de exploração previstos para Angola servirá na Direcção de Exploração dos Transportes Aéreos.
+Art. 7.º Um dos subdirectores de exploração previstos para Angola servirá na Direcção de Exploração dos Transportes Aéreos.
 
-###### Art. 8.º O cargo de chefe de oficinas passa a designar-se por «chefe de serviço de oficinas».
+Art. 8.º O cargo de chefe de oficinas passa a designar-se por «chefe de serviço de oficinas».
 
-###### Art. 9.º Nas Direcções dos Serviços dos Portos, Caminhos de Ferro e Transportes de Angola e Moçambique são criadas divisões de serviços técnicos, às quais compete:
+Art. 9.º Nas Direcções dos Serviços dos Portos, Caminhos de Ferro e Transportes de Angola e Moçambique são criadas divisões de serviços técnicos, às quais compete:
 
 1.º Estabelecer as especificações técnicas e organizar os cadernos de encargos para aquisição de todo o material de tracção, circulante, automóvel, portuário, eléctrico e de oficinas e sobresselentes, por forma a normalizar e unificar, quanto possível, os respectivos tipos, de acordo com as necessidades dos serviços e tendo em vista a economia do trabalho e do capital;
 
@@ -160,7 +181,7 @@ Chefes e adjuntos dos serviços de electricidade, de material e tracção, de si
 
 5.º Elaborar instruções para a concessão de prémios ao pessoal que mais contribua para aumentar a eficiência e o rendimento da exploração.
 
-###### Art. 10.º Aos mapas II e III anexos ao [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959, são introduzidas as seguintes alterações:
+Art. 10.º Aos mapas II e III anexos ao [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959, são introduzidas as seguintes alterações:
 
 1.º Acrescentar nos dois mapas:
 
@@ -176,13 +197,13 @@ d) Na rubrica engenheiros de 2.ª classe: ou de chefes de brigada.
 
 Engenheiros de 2.ª classe, quando exercendo funções de adjuntos dos chefes de serviços de oficinas ou de brigada ... 500$00
 
-###### Art. 11.º Nas direcções de serviços e de exploração haverá apenas um subdirector, considerando-se extinto o lugar criado pelo artigo 58.º do [Decreto n.º 43340](https://diariodarepublica.pt/dr/detalhe/decreto/43340-1960-514185), de 21 de Novembro de 1960.
+Art. 11.º Nas direcções de serviços e de exploração haverá apenas um subdirector, considerando-se extinto o lugar criado pelo artigo 58.º do [Decreto n.º 43340](https://diariodarepublica.pt/dr/detalhe/decreto/43340-1960-514185), de 21 de Novembro de 1960.
 
 II
 
 Da Inspecção Provincial dos Serviços dos Portos, Caminhos de Ferro e Transportes
 
-###### Art. 12.º A Inspecção Provincial dos Serviços dos Portos, Caminhos de Ferro e Transportes, com sede na capital da província, compete inspeccionar periòdicamente, e pelo menos duas vezes por ano, todos os organismos da administração dos mesmos serviços.
+Art. 12.º A Inspecção Provincial dos Serviços dos Portos, Caminhos de Ferro e Transportes, com sede na capital da província, compete inspeccionar periòdicamente, e pelo menos duas vezes por ano, todos os organismos da administração dos mesmos serviços.
 
 § 1.º As inspecções destinam-se especialmente a conhecer do estado em que se encontram os serviços e a forma como são executados e observados os regulamentos, instruções e preceitos legais aplicáveis.
 
@@ -192,15 +213,15 @@ Da Inspecção Provincial dos Serviços dos Portos, Caminhos de Ferro e Transpor
 
 § 4.º O conselho de administração deverá também no mais curto espaço de tempo pronunciar-se sobre as propostas ou sugestões da inspecção e tomar as providências que as circunstâncias requererem.
 
-###### Art. 13.º O expediente da Inspecção Provincial será assegurado pela Repartição dos Serviços Centrais da Direcção dos Serviços pela forma acordada entre o inspector provincial e o director.
+Art. 13.º O expediente da Inspecção Provincial será assegurado pela Repartição dos Serviços Centrais da Direcção dos Serviços pela forma acordada entre o inspector provincial e o director.
 
-###### Art. 14.º O provimento dos cargos de inspector provincial é feito em comissão por escolha do Ministro do Ultramar de entre engenheiros directores do quadro comum.
+Art. 14.º O provimento dos cargos de inspector provincial é feito em comissão por escolha do Ministro do Ultramar de entre engenheiros directores do quadro comum.
 
 § único. Os inspectores provinciais têm direito aos vencimentos e gratificações constantes dos mapas II e III anexos ao [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959, e a prémios de economia iguais aos abonados aos directores dos serviços.
 
-###### Art. 15.º A actividade dos inspectores provinciais é independente da exercida pelo conselho fiscal dos portos, caminhos de ferro e transportes e não prejudica ou modifica a competência que a lei a este confere.
+Art. 15.º A actividade dos inspectores provinciais é independente da exercida pelo conselho fiscal dos portos, caminhos de ferro e transportes e não prejudica ou modifica a competência que a lei a este confere.
 
-###### Art. 16.º Em matéria das suas atribuições e competência os inspectores provinciais correspondem-se directamente com o governador-geral e com todas as entidades da província e podem consultar os arquivos e processos dos departamentos sujeitos à inspecção ou aqueles que com elas se relacionem e pertençam a outros da Direcção dos Serviços.
+Art. 16.º Em matéria das suas atribuições e competência os inspectores provinciais correspondem-se directamente com o governador-geral e com todas as entidades da província e podem consultar os arquivos e processos dos departamentos sujeitos à inspecção ou aqueles que com elas se relacionem e pertençam a outros da Direcção dos Serviços.
 
 § único. Quando em serviço de inspecção, inquérito ou sindicância, podem os inspectores provinciais requisitar um funcionário para os coadjuvar, como secretário, de categoria não superior a primeiro-oficial.
 
@@ -208,7 +229,7 @@ III
 
 Disposições transitórias
 
-###### Art. 17.º São extintas as actuais brigadas de estudos, construção ou fiscalização de portos e caminhos de ferro das províncias de Angola e Moçambique. As funções destas brigadas passam a ser exercidas pelas divisões de estudos e construção das respectivas direcções dos serviços.
+Art. 17.º São extintas as actuais brigadas de estudos, construção ou fiscalização de portos e caminhos de ferro das províncias de Angola e Moçambique. As funções destas brigadas passam a ser exercidas pelas divisões de estudos e construção das respectivas direcções dos serviços.
 
 § 1.º Nestas divisões serão constituídas brigadas para, sem interrupção, continuar os trabalhos cometidos às extintas.
 
@@ -220,11 +241,11 @@ Disposições transitórias
 
 § 5.º A contabilização, pagamentos e fornecimentos das brigadas ficam a cargo da Direcção dos Serviços dos Portos, Caminhos de Ferro e Transportes, nos termos e regras dos seus regulamentos privativos.
 
-###### Art. 18.º Consideram-se denunciados e rescindidos no termo dos respectivos prazos todos os contratos do pessoal das brigadas extintas; se pertencer a outros quadros e nelas tiver servido em comissão ou por contrato, regressa imediatamente aos quadros de origem.
+Art. 18.º Consideram-se denunciados e rescindidos no termo dos respectivos prazos todos os contratos do pessoal das brigadas extintas; se pertencer a outros quadros e nelas tiver servido em comissão ou por contrato, regressa imediatamente aos quadros de origem.
 
 § único. Quando interessar ao Estado conservar ao serviço os engenheiros que não requeiram o seu ingresso no quadro comum, nos termos do artigo seguinte, para a conclusão de trabalhos em curso importantes, podem ser mantidos na situação actual pelo tempo estritamente necessário, mas nunca excedendo o prazo de um ano.
 
-###### Art. 19.º Sem prejuízo do disposto no artigo 134.º do Estatuto do Funcionalismo Ultramarino, os engenheiros contratados para as brigadas agora extintas podem ingressar no quadro referido no artigo 1.º nas seguintes condições e independentemente da idade:
+Art. 19.º Sem prejuízo do disposto no artigo 134.º do Estatuto do Funcionalismo Ultramarino, os engenheiros contratados para as brigadas agora extintas podem ingressar no quadro referido no artigo 1.º nas seguintes condições e independentemente da idade:
 
 a) Como engenheiro de 2.ª classe os engenheiros contratados que tenham menos de 5 anos de serviço nas brigadas e boas informações;
 
@@ -236,17 +257,17 @@ c) Como engenheiro-chefe os engenheiros que, sendo chefes de brigada, tenham mai
 
 § 2.º Os interessados devem requerer o ingresso no quadro dentro de 30 dias, a contar da entrada em vigor deste diploma, sob pena de rescisão dos respectivos contratos, no seu termo, salvo o disposto no § único do artigo 8.º
 
-###### Art. 20.º O restante pessoal das extintas brigadas, sem prejuízo do disposto no artigo 134.º do Estatuto do Funcionalismo Ultramarino, e independentemente da idade, pode ser admitido, com dispensa das habilitações literárias exigidas pela lei e, se assim o requerer, no prazo de 30 dias, aos primeiros concursos para os lugares dos quadros privativos, de categoria e natureza idênticas aos das funções que exerciam nas brigadas, desde que tenham boas informações e, pelo menos, um ano de serviço.
+Art. 20.º O restante pessoal das extintas brigadas, sem prejuízo do disposto no artigo 134.º do Estatuto do Funcionalismo Ultramarino, e independentemente da idade, pode ser admitido, com dispensa das habilitações literárias exigidas pela lei e, se assim o requerer, no prazo de 30 dias, aos primeiros concursos para os lugares dos quadros privativos, de categoria e natureza idênticas aos das funções que exerciam nas brigadas, desde que tenham boas informações e, pelo menos, um ano de serviço.
 
-###### Art. 21.º O pessoal das extintas brigadas tem preferência absoluta no provimento dos cargos das brigadas que se constituírem nas divisões de estudos e construção.
+Art. 21.º O pessoal das extintas brigadas tem preferência absoluta no provimento dos cargos das brigadas que se constituírem nas divisões de estudos e construção.
 
-###### Art. 22.º Os agentes especializados, técnicos e operários, contratados ou assalariados da Direcção dos Serviços com boas informações e mais de um ano de serviço à data da entrada em vigor deste diploma, são admitidos, independentemente da idade, ao primeiro concurso a realizar para cada cargo e providos de harmonia com as classificações obtidas.
+Art. 22.º Os agentes especializados, técnicos e operários, contratados ou assalariados da Direcção dos Serviços com boas informações e mais de um ano de serviço à data da entrada em vigor deste diploma, são admitidos, independentemente da idade, ao primeiro concurso a realizar para cada cargo e providos de harmonia com as classificações obtidas.
 
-###### Art. 23.º Sem prejuízo do disposto no artigo 134.º do Estatuto do Funcionalismo Ultramarino, os engenheiros contratados para os serviços dos portos, caminhos de ferro e transportes de Angola e Moçambique ao abrigo do § 2.º do artigo 45.º e do artigo 46.º daquele diploma podem ingressar, independentemente da idade, na 1.ª ou 2.ª classes do quadro comum, conforme a categoria dos cargos que estejam exercendo, desde que possuam boas informações.
+Art. 23.º Sem prejuízo do disposto no artigo 134.º do Estatuto do Funcionalismo Ultramarino, os engenheiros contratados para os serviços dos portos, caminhos de ferro e transportes de Angola e Moçambique ao abrigo do § 2.º do artigo 45.º e do artigo 46.º daquele diploma podem ingressar, independentemente da idade, na 1.ª ou 2.ª classes do quadro comum, conforme a categoria dos cargos que estejam exercendo, desde que possuam boas informações.
 
 § único. O ingresso deve ser requerido no prazo de 30 dias, sendo rescindidos no seu termo os contratos dos interessados que o não requeiram.
 
-###### Art. 24.º Por portaria simplesmente anotada pelo Tribunal de Contas e sem mais formalidades transitam para os respectivos lugares de chefe da Divisão dos Serviços Técnicos, criados por este decreto, o actual adjunto da Direcção dos Serviços de Angola e o mais antigo dos engenheiros adjuntos da Direcção dos Serviços de Moçambique, contando-se, para este efeito, o tempo anterior à mudança de categoria estabelecido pelo [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959.
+Art. 24.º Por portaria simplesmente anotada pelo Tribunal de Contas e sem mais formalidades transitam para os respectivos lugares de chefe da Divisão dos Serviços Técnicos, criados por este decreto, o actual adjunto da Direcção dos Serviços de Angola e o mais antigo dos engenheiros adjuntos da Direcção dos Serviços de Moçambique, contando-se, para este efeito, o tempo anterior à mudança de categoria estabelecido pelo [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959.
 
 § único. O outro adjunto da Direcção dos Serviços de Moçambique transita, nas mesmas condições do corpo do artigo, para o lugar de subchefe da Divisão dos Serviços Técnicos.
 
@@ -254,19 +275,19 @@ IV
 
 Disposições finais
 
-###### Art. 25.º A concessão de licenças disciplinares aos funcionários e assalariados dos serviços dos portos, caminhos de ferro e transportes de Angola e Moçambique passa a regular-se pelas disposições aplicáveis do Estatuto do Funcionalismo Ultramarino.
+Art. 25.º A concessão de licenças disciplinares aos funcionários e assalariados dos serviços dos portos, caminhos de ferro e transportes de Angola e Moçambique passa a regular-se pelas disposições aplicáveis do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 26.º No prazo de um ano, a contar da publicação deste diploma, deverão os directores dos Serviços dos Portos, Caminhos de Ferro e Transportes de Angola e Moçambique elaborar projectos de reorganização dos serviços para aprovação ministerial. Nesse trabalho ter-se-á em conta o disposto no § único do artigo 10.º do [Decreto n.º 43319](https://diariodarepublica.pt/dr/detalhe/decreto/43319-1960-514233), de 16 de Novembro de 1960.
+Art. 26.º No prazo de um ano, a contar da publicação deste diploma, deverão os directores dos Serviços dos Portos, Caminhos de Ferro e Transportes de Angola e Moçambique elaborar projectos de reorganização dos serviços para aprovação ministerial. Nesse trabalho ter-se-á em conta o disposto no § único do artigo 10.º do [Decreto n.º 43319](https://diariodarepublica.pt/dr/detalhe/decreto/43319-1960-514233), de 16 de Novembro de 1960.
 
-###### Art. 27.º O provimento dos lugares criados por este decreto será feito de harmonia com as disponibilidades orçamentais.
+Art. 27.º O provimento dos lugares criados por este decreto será feito de harmonia com as disponibilidades orçamentais.
 
-###### Art. 28.º Ficam os governadores-gerais de Angola e Moçambique autorizados a abrir os créditos necessários para a execução deste diploma.
+Art. 28.º Ficam os governadores-gerais de Angola e Moçambique autorizados a abrir os créditos necessários para a execução deste diploma.
 
-###### Art. 29.º O lugar de adjunto administrativo, criado pelo artigo 1.º do Diploma Legislativo Ministerial, n.º 66, de 25 de Outubro de 1961, considera-se extinto com a verificação da sua vacatura.
+Art. 29.º O lugar de adjunto administrativo, criado pelo artigo 1.º do Diploma Legislativo Ministerial, n.º 66, de 25 de Outubro de 1961, considera-se extinto com a verificação da sua vacatura.
 
-###### Art. 30.º São revogados os artigos 39.º da Portaria Ministerial n.º 29, de 12 de Dezembro de 1942, e 8.º e 9.º da [Portaria n.º 1822](https://diariodarepublica.pt/dr/detalhe/portaria/1822-1919-363480), de 3 de Dezembro de 1932, de Moçambique.
+Art. 30.º São revogados os artigos 39.º da Portaria Ministerial n.º 29, de 12 de Dezembro de 1942, e 8.º e 9.º da [Portaria n.º 1822](https://diariodarepublica.pt/dr/detalhe/portaria/1822-1919-363480), de 3 de Dezembro de 1932, de Moçambique.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Março de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 
@@ -276,6 +297,6 @@ MAPA
 
 Quadro comum dos engenheiros dos serviços dos portos, caminhos de ferro e transportes do ultramar, a que se refere o artigo 1.º do Decreto n.º 44227, de 9 de Março de 1962
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/03/05300/02140216.pdf))](https://files.diariodarepublica.pt/1s/1962/03/05300/02140216.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/03/05300/02140216.pdf)
 
 Ministério do Ultramar, 9 de Março de 1962. - O Ministro do Ultramar, Adriano José Alves Moreira.

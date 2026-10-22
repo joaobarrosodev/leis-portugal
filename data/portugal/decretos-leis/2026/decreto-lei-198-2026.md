@@ -48,26 +48,46 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/198/2026/10/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2026-1176760741
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-10-02T00:00:00Z'
+  retrieved_at: '2026-10-22T18:54:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d77c45cb9ac982086c6722ada698342755e6e2b69f5d7958d017dd6263c0d62
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a29317fd15ccb81b69754ede6fea3eba682dd9aefe1dc9e766697c0f67eff763
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:54:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agência de Geologia e Energia
+- Armazenagem
+- Câmara Municipal
+- Coima
+- Combustível
+- Direção Geral de Energia e Geologia
+- Fiscalização
+- Licenciamento
+- Produto Petrolífero
+- Sucessão
+- Transferência de Competências
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:267/2002
+  label: Altera, a partir de 3 de outubro de 2026, os artigos 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 11.º, 12.º, 13.º, 14.º, 15.º,
+    16.º, 19.º, 22.º, 25.º, 26.º, 27.º, 28.º, 30.º, 31.º, 32.º, os anexos i e ii, revoga os n.ºs 2 e 3 do artigo 6.º, os n.ºs
+    5 e 6 do artigo 22.º, a alínea b) do n.º 2 do artigo 28.º, o artigo 34.º, o anexo iii, e republica no anexo ii, nos termos
+    do artigo 7.º do presente diploma, o Decreto-Lei n.º 267/2002, de 26 de novembro, Diário da República n.º 273/2002, Série
+    I-A
+  source: null
+  date: '2002-11-26'
 - type: cites
   target: celex:32006L0123
   label: null
@@ -112,16 +132,120 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/15/2015/02/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/15/2015/02/16/p/dre
+- type: cites
+  target: pt:dre:1055043916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141377978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66528824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69951097:por
+  label: null
+  source: null
 article_structure:
-  article_count: 68
+  article_count: 47
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:54:19Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +256,7 @@ de 2 de outubro
 
 O [Decreto-Lei n.º 267/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-2002-447916), de 26 de novembro, estabeleceu os procedimentos e definiu as competências para licenciamento e fiscalização de instalações de armazenamento de produtos de petróleo e de postos de abastecimento de combustíveis.
 
-Por força do Programa de Simplificação Administrativa e Legislativa SIMPLEX, procedeu-se à alteração daquele decreto-lei, através dos Decretos-Leis n.<sup>os</sup>[389/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), de 30 de novembro, e [31/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2008-247714), de 25 de fevereiro, criando-se regimes simplificados de licenciamento de algumas categorias de instalações de armazenamento de produtos de petróleo e de postos de abastecimento para consumo próprio e cooperativo.
+Por força do Programa de Simplificação Administrativa e Legislativa SIMPLEX, procedeu-se à alteração daquele decreto-lei, através dos Decretos-Leis n.os[389/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), de 30 de novembro, e [31/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2008-247714), de 25 de fevereiro, criando-se regimes simplificados de licenciamento de algumas categorias de instalações de armazenamento de produtos de petróleo e de postos de abastecimento para consumo próprio e cooperativo.
 
 Prosseguindo-se o mesmo fito de simplificação, foi introduzida nova alteração, por via do [Decreto-Lei n.º 195/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2008-452935), de 6 de outubro, essencialmente com vista à promoção da concorrência ao nível do retalho, nomeadamente por via do incentivo a uma maior oferta de pontos de venda de combustíveis.
 
@@ -178,7 +302,9 @@ b) […]
 
 c) Armazenagem de gases de origem renovável e de baixo teor de carbono, conforme definidos no [Decreto-Lei n.º 62/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), de 28 de agosto.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 Para efeitos do presente decreto-lei, entende-se por:
 
@@ -224,7 +350,9 @@ t) «Requerente»: o proprietário da instalação, ou quem legitimamente o repr
 
 u) «Titular da licença de exploração»: a entidade a quem é concedida a licença de exploração, a qual não coincide necessariamente com o titular da licença de comercialização prevista no [Decreto-Lei n.º 31/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2006-683852), de 15 de fevereiro.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A construção, exploração, aumento de capacidade, renovação de licença e outras alterações que, de qualquer forma, afetem as condições de segurança da instalação ficam sujeitas a licenciamento nos termos do presente decreto-lei.
 
@@ -234,7 +362,9 @@ u) «Titular da licença de exploração»: a entidade a quem é concedida a lic
 
 4 - As instalações objeto de um procedimento de licenciamento simplificado ou não sujeitas a licenciamento são as constantes do anexo ii do presente decreto-lei e do qual faz parte integrante.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - […]
 
@@ -244,7 +374,9 @@ u) «Titular da licença de exploração»: a entidade a quem é concedida a lic
 
 4 - Constitui título bastante de exploração das instalações a que se refere o n.º 1 o título de utilização aplicável nos termos do regime jurídico da urbanização e da edificação, aprovado pelo [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Excetua-se do disposto na alínea a) do n.º 1 do artigo anterior o licenciamento das instalações de armazenamento de combustíveis identificadas no anexo i ao presente decreto-lei e do qual faz parte integrante, sendo competente a Direção-Geral de Energia e Geologia (DGEG) para o respetivo licenciamento.
 
@@ -254,7 +386,9 @@ u) «Titular da licença de exploração»: a entidade a quem é concedida a lic
 
 4 - O procedimento administrativo previsto no n.º 1 segue a tramitação prevista nos artigos 7.º a 14.º
 
-###### Artigo 7.º — Procedimento de licenciamento
+Artigo 7.º
+
+Procedimento de licenciamento
 
 1 - O requerente apresenta o pedido de licenciamento à entidade competente, a quem incumbe a instrução do respetivo procedimento.
 
@@ -264,7 +398,9 @@ u) «Titular da licença de exploração»: a entidade a quem é concedida a lic
 
 4 - As entidades inspetoras de combustíveis (EIC) e as entidades inspetoras de gás (EIG), cujos requisitos de acesso e exercício da atividade foram estabelecidos pela [Lei n.º 15/2015](https://diariodarepublica.pt/dr/detalhe/lei/15-2015-66528824), de 16 de fevereiro, podem colaborar com a entidade licenciadora competente nos termos do presente decreto-lei no que diz respeito à apreciação de projetos e às inspeções nele previstas, nos termos de legislação complementar ou, na sua falta, mediante protocolo ou contrato com as entidades licenciadoras competentes, que defina a sua atuação e procedimento.
 
-###### Artigo 8.º — […]
+Artigo 8.º
+
+[…]
 
 1 - […]
 
@@ -276,7 +412,9 @@ u) «Titular da licença de exploração»: a entidade a quem é concedida a lic
 
 5 - Com o pedido de licenciamento é devida a taxa correspondente à apreciação do projeto e da vistoria inicial referidas nas alíneas a) e d) do n.º 1 do artigo 22.º
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O licenciamento de instalações sujeitas a avaliação de impacte ambiental, nos termos do [Decreto-Lei n.º 151-B/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-b-2013-513863), de 31 de outubro, só pode ter seguimento após conclusão do procedimento aí previsto.
 
@@ -284,7 +422,9 @@ u) «Titular da licença de exploração»: a entidade a quem é concedida a lic
 
 3 - Nas instalações de armazenamento abrangidas pelo regime de prevenção de acidentes graves que envolvam substâncias perigosas, o requerente deve apresentar, juntamente com o pedido de licenciamento, prova do cumprimento das disposições previstas no [Decreto-Lei n.º 150/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2015-69951097), de 5 de agosto.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - As vistorias têm em vista o cumprimento dos regulamentos aplicáveis e, em geral, a garantia da segurança de pessoas e bens, e são efetuadas pela entidade licenciadora ou por uma comissão por ela constituída para o efeito, nos termos estabelecidos na [Portaria n.º 1188/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1188-2003-481937), de 10 de outubro, sendo lavrado auto das respetivas conclusões.
 
@@ -310,7 +450,9 @@ u) «Titular da licença de exploração»: a entidade a quem é concedida a lic
 
 12 - O documento para pagamento da taxa devida pela vistoria prevista no n.º 5 é emitido no prazo de 10 dias a contar da data em que é requerida a vistoria, sendo esta convocada no prazo de 20 dias a contar do pagamento.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - […]
 
@@ -332,7 +474,9 @@ u) «Titular da licença de exploração»: a entidade a quem é concedida a lic
 
 10 - A declaração de caducidade prevista no n.º 8 é precedida de audiência do interessado, nos termos dos artigos 121.º e seguintes do CPA.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - […]
 
@@ -346,15 +490,17 @@ u) «Titular da licença de exploração»: a entidade a quem é concedida a lic
 
 6 - No caso de o técnico responsável pela exploração cessar a responsabilidade que assumiu nos termos do número anterior, ou no seu impedimento ou morte, o titular da licença de exploração comunica à entidade licenciadora, no prazo máximo de 15 dias, o novo responsável pela exploração e entrega o respetivo termo de responsabilidade.
 
-7 - O disposto nos n.<sup>os</sup>5 e 6 não se aplica às instalações identificadas no anexo ii do presente decreto-lei.
+7 - O disposto nos n.os5 e 6 não se aplica às instalações identificadas no anexo ii do presente decreto-lei.
 
 8 - O silêncio da entidade licenciadora vale como deferimento tácito após o decurso do prazo previsto no n.º 1 do presente artigo ou, caso a vistoria final não seja convocada ou caso o documento para pagamento da respetiva taxa não seja emitido nos prazos referidos no n.º 12 do artigo 12.º, após 10 dias a contar do termo do prazo aplicável.
 
-9 - O deferimento tácito referido no número anterior apenas produz efeitos com o cumprimento, pelo requerente, das obrigações constantes dos n.<sup>os</sup>4 e 5.
+9 - O deferimento tácito referido no número anterior apenas produz efeitos com o cumprimento, pelo requerente, das obrigações constantes dos n.os4 e 5.
 
 10 - A formação de deferimento tácito nos termos previstos no n.º 8 não impede a realização da vistoria final pela entidade licenciadora, nas situações em que essa vistoria não tenha sido previamente realizada, com vista à verificação da conformidade da instalação com o projeto aprovado.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Sem prejuízo do disposto nos números seguintes, as licenças de exploração das instalações a que o presente decreto-lei respeita não caducam com o decurso do tempo.
 
@@ -368,7 +514,9 @@ u) «Titular da licença de exploração»: a entidade a quem é concedida a lic
 
 6 - […]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - O titular da licença de exploração da instalação de armazenamento ou de um posto de abastecimento de combustíveis solicita, no prazo de 30 dias, à entidade licenciadora, em pedido devidamente documentado, o respetivo averbamento na licença da ocorrência de:
 
@@ -386,7 +534,9 @@ d) Redução da capacidade de armazenagem, na sequência da desativação de um 
 
 4 - Em caso de cessação de exploração da instalação, a comunicação é acompanhada do pedido de cancelamento da licença, bem como de documentação que evidencie o cumprimento do disposto no artigo 21.º
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - […]
 
@@ -412,7 +562,9 @@ d) Redução da capacidade de armazenagem, na sequência da desativação de um 
 
 12 - O disposto no presente artigo não é aplicável às instalações das Classes B1 e B2, previstas no anexo ii ao presente decreto-lei, por não se encontrarem sujeitas a licenciamento.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - […]
 
@@ -446,13 +598,17 @@ j) Segundas vias de documentos.
 
 6 - [Revogado.]
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - As instalações abrangidas pelo presente decreto-lei são sujeitas a fiscalização pelas câmaras municipais ou pela DGEG, segundo, respetivamente, as competências previstas nos artigos 5.º e 6.º
 
 2 - […]
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]
 
@@ -462,7 +618,7 @@ b) [...]
 
 c) [...]
 
-d) A realização de inspeções por entidades que não se encontram nas condições previstas nos n.<sup>os</sup>5, 8 e 9 do artigo 19.º;
+d) A realização de inspeções por entidades que não se encontram nas condições previstas nos n.os5, 8 e 9 do artigo 19.º;
 
 e) [...]
 
@@ -470,11 +626,15 @@ e) [...]
 
 3 - [...]
 
-###### Artigo 27.º — […]
+Artigo 27.º
+
+[…]
 
 As entidades licenciadoras e fiscalizadoras procedem à instrução dos correspondentes processos de contraordenação, cabendo ao presidente da câmara municipal, ou ao diretor-geral da DGEG, a competência para a aplicação das coimas e das sanções acessórias.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - […]
 
@@ -486,7 +646,7 @@ b) [Revogada.]
 
 c) Em 40 % da DGEG.
 
-###### Artigo 30.º
+Artigo 30.º
 
 […].
 
@@ -496,11 +656,15 @@ c) Em 40 % da DGEG.
 
 3 - […]
 
-###### Artigo 31.º — […]
+Artigo 31.º
+
+[…]
 
 As entidades licenciadoras dos postos de abastecimento prestam informação, com periodicidade semestral, à DGEG sobre os postos de abastecimento licenciados, ou cujas licenças caducaram, com indicação da respetiva localização, proprietário, capacidade e produtos armazenados.
 
-###### Artigo 32.º — […]
+Artigo 32.º
+
+[…]
 
 O recurso hierárquico necessário das decisões proferidas pela DGEG, ao abrigo do presente decreto-lei, quando seja a entidade licenciadora competente, tem efeito suspensivo, podendo, no entanto, a entidade para quem se recorre atribuir-lhe efeito meramente devolutivo, quando considere que a não execução imediata dessas decisões pode causar grave prejuízo ao interesse público.»
 
@@ -514,7 +678,7 @@ As referências à Direção-Geral de Energia e Geologia (DGEG) constantes do [D
 
 ###### Artigo 5.º — Norma revogatória
 
-São revogados os n.<sup>os</sup>2 e 3 do artigo 6.º, os n.<sup>os</sup>5 e 6 do artigo 22.º, a alínea b) do n.º 2 do artigo 28.º, o artigo 34.º e o anexo iii do [Decreto-Lei n.º 267/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-2002-447916), de 26 de novembro.
+São revogados os n.os2 e 3 do artigo 6.º, os n.os5 e 6 do artigo 22.º, a alínea b) do n.º 2 do artigo 28.º, o artigo 34.º e o anexo iii do [Decreto-Lei n.º 267/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-2002-447916), de 26 de novembro.
 
 ###### Artigo 6.º — Norma transitória
 
@@ -536,15 +700,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de agosto de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Manuel Castro Almeida - Maria da Graça Carvalho.
 
-**Promulgado em 29 de setembro de 2026.**
+Promulgado em 29 de setembro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 29 de setembro de 2026.**
+Referendado em 29 de setembro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -574,7 +738,7 @@ h) Redes e ramais de distribuição de gás, objeto do [Decreto-Lei n.º 125/97]
 
 Instalações com licenciamento simplificado ou não sujeitas a licenciamento
 
-(a que se referem o n.º 4 do artigo 4.º, o n.º 7 do artigo 14.º e os n.<sup>os</sup>9 e 12 do artigo 19.º)
+(a que se referem o n.º 4 do artigo 4.º, o n.º 7 do artigo 14.º e os n.os9 e 12 do artigo 19.º)
 
 A - Instalações sujeitas a licenciamento simplificado
 
@@ -726,9 +890,9 @@ a) O licenciamento de instalações de armazenamento de produtos de petróleo;
 
 b) O licenciamento de postos de abastecimento de combustíveis não localizados nas redes viárias regional e nacional;
 
-c) A autorização para a execução e entrada em funcionamento das redes de distribuição, objeto do [Decreto-Lei n.º 125/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1997-400399), de 23 de maio, quando associadas a reservatórios de GPL com capacidade global inferior a 50 m<sup>3</sup>.
+c) A autorização para a execução e entrada em funcionamento das redes de distribuição, objeto do [Decreto-Lei n.º 125/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1997-400399), de 23 de maio, quando associadas a reservatórios de GPL com capacidade global inferior a 50 m3.
 
-2 - Os procedimentos administrativos de controlo prévio de instalação, construção, reconstrução, ampliação, alteração, conservação e exploração das instalações de armazenamento e dos postos de abastecimento de combustíveis seguem o procedimento aplicável à respetiva operação urbanística nos termos dos n.<sup>os</sup>1 a 4 do artigo 4.º do regime jurídico da urbanização e da edificação.
+2 - Os procedimentos administrativos de controlo prévio de instalação, construção, reconstrução, ampliação, alteração, conservação e exploração das instalações de armazenamento e dos postos de abastecimento de combustíveis seguem o procedimento aplicável à respetiva operação urbanística nos termos dos n.os1 a 4 do artigo 4.º do regime jurídico da urbanização e da edificação.
 
 3 - Além da conformidade da operação urbanística com instrumentos de gestão territorial e outras normas legais e regulamentares vigentes, no âmbito do procedimento de controlo prévio é verificada a conformidade das instalações a que se refere o n.º 1 com os requisitos definidos na portaria referida no n.º 2 do artigo anterior e a existência dos seguros de responsabilidade civil referidos nos artigos 13.º e 14.º, sem prejuízo da aplicação das normas não procedimentais previstas no presente decreto-lei e da possibilidade de colaboração das entidades referidas no n.º 4 do artigo 7.º
 
@@ -816,7 +980,7 @@ c) A autorização para a execução e entrada em funcionamento das redes de dis
 
 10 - [Revogado.]
 
-11 - Os prazos previstos nos n.<sup>os</sup>2 e 4 podem ser reduzidos mediante concordância de todas as entidades convocadas.
+11 - Os prazos previstos nos n.os2 e 4 podem ser reduzidos mediante concordância de todas as entidades convocadas.
 
 12 - O documento para pagamento da taxa devida pela vistoria prevista no n.º 5 é emitido no prazo de 10 dias a contar da data em que é requerida a vistoria, sendo esta convocada no prazo de 20 dias a contar do pagamento.
 
@@ -856,11 +1020,11 @@ c) A autorização para a execução e entrada em funcionamento das redes de dis
 
 6 - No caso de o técnico responsável pela exploração cessar a responsabilidade que assumiu nos termos do número anterior, ou no seu impedimento ou morte, o titular da licença de exploração comunica à entidade licenciadora, no prazo máximo de 15 dias, o novo responsável pela exploração e entrega o respetivo termo de responsabilidade.
 
-7 - O disposto nos n.<sup>os</sup>5 e 6 não se aplica às instalações identificadas no anexo ii do presente decreto-lei.
+7 - O disposto nos n.os5 e 6 não se aplica às instalações identificadas no anexo ii do presente decreto-lei.
 
 8 - O silêncio da entidade licenciadora vale como deferimento tácito após o decurso do prazo previsto no n.º 1 do presente artigo ou, caso a vistoria final não seja convocada ou caso o documento para pagamento da respetiva taxa não seja emitido nos prazos referidos no n.º 12 do artigo 12.º, após 10 dias a contar do termo do prazo aplicável.
 
-9 - O deferimento tácito referido no número anterior apenas produz efeitos com o cumprimento, pelo requerente, das obrigações constantes dos n.<sup>os</sup>4 e 5.
+9 - O deferimento tácito referido no número anterior apenas produz efeitos com o cumprimento, pelo requerente, das obrigações constantes dos n.os4 e 5.
 
 10 - A formação de deferimento tácito nos termos previstos no n.º 8 não impede a realização da vistoria final pela entidade licenciadora, nas situações em que essa vistoria não tenha sido previamente realizada, com vista à verificação da conformidade da instalação com o projeto aprovado.
 
@@ -1044,7 +1208,7 @@ b) O impedimento ou obstrução, pelo titular da licença ou por quem atue sob a
 
 c) O não cumprimento da obrigação de informação prevista no n.º 1 do artigo 30.º;
 
-d) A realização de inspeções por entidades que não se encontram nas condições previstas nos n.<sup>os</sup>5, 8 e 9 do artigo 19.º;
+d) A realização de inspeções por entidades que não se encontram nas condições previstas nos n.os5, 8 e 9 do artigo 19.º;
 
 e) O não cumprimento das obrigações previstas no n.º 7 do artigo 19.º
 
@@ -1148,7 +1312,7 @@ h) Redes e ramais de distribuição de gás, objeto do [Decreto-Lei n.º 125/97]
 
 ## ANEXO II — Instalações com licenciamento simplificado ou não sujeitas a licenciamento
 
-(a que se referem o n.º 4 do artigo 4.º, o n.º 7 do artigo 14.º e os n.<sup>os</sup>9 e 12 do artigo 19.º)
+(a que se referem o n.º 4 do artigo 4.º, o n.º 7 do artigo 14.º e os n.os9 e 12 do artigo 19.º)
 
 A - Instalações sujeitas a licenciamento simplificado
 
@@ -1197,3 +1361,5 @@ c) Instalações de outros produtos de petróleo com capacidade igual ou superio
 d) Postos de abastecimento de combustíveis para consumo próprio e cooperativo com capacidade inferior a 10 m³.
 
 ## ANEXO III — [Revogado.]
+
+119949671

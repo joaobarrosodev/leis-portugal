@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/65/2026/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/65-2026-1043405191
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-10T00:00:00Z'
+  retrieved_at: '2026-10-22T18:31:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 803bd736e278762291d0cfeab82084a6cfa1de669a3ab91e65b29414670be334
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d853ffa7d1d81484fd54c9bc2e1a2d046e4a970395557485072e0791bf919201
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:31:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Comissão Consultiva
-- IFAP
-- Gabinete de Planeamento Políticas e Administração Geral
-- Proteção do Ambiente
-- Política Agrícola Comum
-- Madeira.região Autónoma
-- Agricultura
 - Açores
+- Agricultura
+- Comissão Consultiva
+- Gabinete de Planeamento Políticas e Administração Geral
+- IFAP
+- Madeira.região Autónoma
+- Política Agrícola Comum
+- Proteção do Ambiente
 relationships:
+- type: amends
+  target: pt:numero:portaria:304/2024
+  label: Altera, a partir de 11 de fevereiro de 2026, nos termos do artigo 3.º do presente diploma, o anexo da Portaria n.º
+    304/2024/1, de 27 de novembro, Diário da República n.º 230/2024, Série I
+  source: null
+  date: '2024-11-27'
 - type: cites
   target: celex:32021R2116
   label: null
@@ -105,16 +111,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/54-q/2023/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/54-q/2023/02/27/p/dre
+- type: cites
+  target: pt:dre:207760041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213558633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:897994596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:31:48Z'
   warnings: []
   errors: []
 ---
@@ -171,4 +197,8 @@ O anexo da [Portaria n.º 304/2024/1](https://diariodarepublica.pt/dr/detalhe/po
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos à data da produção de efeitos da [Portaria n.º 304/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/304-2024-897994596), de 27 de novembro.
 
-**O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida, em 18 de dezembro de 2025. - A Ministra do Trabalho, Solidariedade e Segurança Social, Rosário Palma Ramalho, em 2 de fevereiro de 2026. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 4 de fevereiro de 2026. - O Ministro da Agricultura e Mar, José Manuel Fernandes, em 9 de dezembro de 2025.**
+O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida, em 18 de dezembro de 2025. - A Ministra do Trabalho, Solidariedade e Segurança Social, Rosário Palma Ramalho, em 2 de fevereiro de 2026. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 4 de fevereiro de 2026. - O Ministro da Agricultura e Mar, José Manuel Fernandes, em 9 de dezembro de 2025.
+
+119947591
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:26px; } .Tbl4 { text-align:center; } .Tbl5 { border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl6 { min-height:18px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl10 { border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl11 { min-height:33px; } .Tbl12 { border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:bottom; }

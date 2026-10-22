@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/31-a/2026/01/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-23T00:00:00Z'
+  retrieved_at: '2026-10-22T18:29:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bbca6500912107af841d94e7d645b37ac2443870da455b0202d56b0ef8564081
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b8d3ebfe4588139a0ade9f964bec7771cd3286487d6852ac4cc5deb2fc33f03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:29:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Estatuto
-- Instituto Público
 - Instituto de Educação Qualidade e Avaliação
+- Instituto Público
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/105/2025/09/12/p/dre
@@ -106,16 +106,70 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/99/2015/04/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/99/2015/04/01/p/dre
+- type: cites
+  target: pt:dre:1006464122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122446606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258167:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66895091:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:859517106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:935098429:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:258/2012
+  label: Revoga, a partir de 24 de janeiro de 2026, com efeitos nos termos do artigo 3.º do presente diploma, a Portaria n.º
+    258/2012, de 28 de agosto, Diário da República n.º 166/2012, Série I
+  source: null
+  date: '2012-08-28'
+- type: repeals
+  target: pt:numero:portaria:99/2015
+  label: Revoga, a partir de 24 de janeiro de 2026, com efeitos nos termos do artigo 3.º do presente diploma, a Portaria n.º
+    99/2015, de 1 de abril, Diário da República n.º 64/2015, Série I
+  source: null
+  date: '2015-04-01'
+- type: repeals
+  target: pt:numero:portaria:168/2019
+  label: Revoga, a partir de 24 de janeiro de 2026, com efeitos nos termos do artigo 3.º do presente diploma, a Portaria n.º
+    168/2019, de 30 de maio, Diário da República n.º 104/2019, Série I
+  source: null
+  date: '2019-05-30'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:29:52Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +206,7 @@ c) A [Portaria n.º 168/2019](https://diariodarepublica.pt/dr/detalhe/portaria/1
 
 A revogação prevista no artigo anterior produz efeitos à data da extinção das respetivas entidades. A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 22 de janeiro de 2026. - O Ministro da Presidência, António Leitão Amaro, em 20 de janeiro de 2026. - O Ministro Adjunto e da Reforma do Estado, Gonçalo Nuno da Cruz Saraiva Matias, em 20 de janeiro de 2026. - O Ministro da Educação, Ciência e Inovação, Fernando Alexandre, em 20 de janeiro de 2026.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 22 de janeiro de 2026. - O Ministro da Presidência, António Leitão Amaro, em 20 de janeiro de 2026. - O Ministro Adjunto e da Reforma do Estado, Gonçalo Nuno da Cruz Saraiva Matias, em 20 de janeiro de 2026. - O Ministro da Educação, Ciência e Inovação, Fernando Alexandre, em 20 de janeiro de 2026.
 
 ## ANEXO — Estatutos do Instituto de Educação, Qualidade e Avaliação, I. P.
 
@@ -437,3 +491,5 @@ q) Gerir as infraestruturas para a manutenção do software e das plataformas di
 r) Gerir e atualizar o registo das operações e tratamento de dados em conformidade com o RGPD e as normas da segurança da informação;
 
 s) Praticar os demais atos de gestão decorrentes da aplicação dos Estatutos e necessários ao bom funcionamento dos serviços.
+
+119947418

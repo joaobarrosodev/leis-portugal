@@ -46,40 +46,162 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:31:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 787f902e04344739d1c77c1688fa83315e167da7ee42eba15a928545ab215677
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7af530490f10a69cf10f1e9e651247a0671074b5a422b0b5abf0a3b83311dc00
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:31:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Águas Públicas
+- Albufeiras
+- Alvará
+- Comissão de Pesca
+- Comissão Regional de Pesca
+- Comissão Regional de Pesca do Centro
+- Comissão Regional de Pesca do Distrito de Ponta Delgada
+- Comissão Regional de Pesca do Norte
+- Comissão Regional de Pesca do SUL
+- Crime
+- Definição de Competências
+- Direcção Geral da Educação Física Desportos e Saúde Escolar
+- Direcção Geral dos Serviços Hidráulicos
+- Espécie Protegida
+- Indemnização
+- Licenciamento
+- Madeira.ilha Adjacente
+- Multa
+- Peixe
+- Período de Defeso
+- Pesca
+- Pesca Desportiva
+- Pesca Fluvial
+- Pesca Profissional
+- Pescador
+- Proteção do Ambiente
+- Proteção dos Animais
+- Regulamento
+- Sanção Penal
+- Taxa
+- ZONA de Pesca
 relationships:
 - type: amended_by
   target: pt:dre:611309:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:140162:por
+  label: "Alterada a alínea a) do § 2.º do artigo 6.º, os parágrafos do artigo 11.º, o artigo 17.º, o § 1.º do artigo 24.º,\
+    \ o § 5.º do artigo 25.º, o artigo 29.º e seus parágrafos, o corpo do artigo 30.º, o § 3.º do artigo 32.º, as alíneas\
+    \ d) e e) do § 2.º do artigo 34.º, o § 3.º do artigo 40.º, o § 6.º do artigo 58.º, os artigos 60.º e 70.º, a alínea b)\
+    \ do corpo do artigo 72.º e o § 3.º do artigo 83.º, pelo DEC.312/70.06.07.1970.SEAG-MECO, DG.IS [155] de 06.07.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/312-1970-140162
+  date: '1970-07-06'
+- type: amended_by
+  target: pt:dre:447684:por
+  label: "Alterado o período de defesa das espécies de salmonídeas constantes da alínea d) do artigo 29.º do presente diploma,\
+    \ alterada pelo Decreto 312/70, de 06 de Julho, pelo DEC.35/71.29.01.1971.SECEAGR-MECO, DG.IS [37] de 13.02.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/35-1971-447684
+  date: '1971-01-29'
+- type: amended_by
+  target: pt:dre:676421:por
+  label: "Alterada a constituição das Comissões Regionais de Pesca estabelecida no § 1º do art. 22º pelo DEC LEI.307/72.16.08.1972.MECO,\
+    \ DG.IS [190] de 16.08.1972\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/307-1972-676421
+  date: '1972-08-16'
+- type: amended_by
+  target: pt:dre:388439:por
+  label: "Alterado o período de defesa das espécies de salmonídeas constantes da alínea d) do artigo 29.º do presente diploma,\
+    \ alterada pelo Decreto 312/70, de 06 de Julho e pelo Decreto 35/71, de 13 de Fevereiro, pela PORT.247/81.07.03.1981.MAP,\
+    \ DR.IS [55] de 07.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/247-1981-388439
+  date: '1981-03-07'
+- type: amended_by
+  target: pt:dre:227072:por
+  label: "Alterada a al. g) do art. 29º e o seu § 3, com a redacção dada pelo art. 1º do Dec 312/70 de 06-Jul; o corpo do\
+    \ art. 33º e al. a) do art. 73º; os arts. 29º, 30º, 31º, o anexo a que se refere o art. 29º alterado pelo mesmo diploma,\
+    \ pelo DR.18/86.1986.05.20.MAPA, DR.IS [115]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/18-1986-227072
+  date: '1986-05-20'
+- type: amended_by
+  target: pt:dre:625667:por
+  label: "Alterado o art. 29º (com a redacção dada pelo Dec 312/70 de 06-Jul, e pelo DR 18/86 de 20-Mai) pelo DR.11/89.1989.04.27.MAPA,\
+    \ DR.IS [97]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/11-1989-625667
+  date: '1989-04-27'
+- type: amended_by
+  target: pt:dre:217519:por
+  label: "Declarada, com força obrigatória geral, a inconstitucionalidade da norma constante da parte final do § único do\
+    \ art. 67º deste diploma, enquanto manda aplicar o máximo da pena prevista no art. 64º do mesmo diploma para o crime de\
+    \ pesca em época de defeso, quando concorra a agravante de a pesca ter lugar em zona de pesca reservada, por violação\
+    \ dos princípios constitucionais da culpa, da igualdade e da proporcionalidade, pelo AC.124/2004.02.03.2004.TCS, DR.IS-A\
+    \ [77] de 31.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/124-2004-217519
+  date: '2004-03-02'
+- type: amended_by
+  target: pt:dre:667738:por
+  label: "Alterado o período de defesa das espécies agrícolas constantes da al. f) do art. 29.º do presente diploma, com a\
+    \ s alterações introduzidas pelo Dec 312/70 de 06-Jul, e pelos DR 18/86 de 20-Mai e 11/89 de 27-Abr, pela PORT.275/2006.22.03.2006.MADRP,\
+    \ DR.IS-B [58] de 22.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/275-2006-667738
+  date: '2006-03-22'
+- type: amended_by
+  target: pt:dre:537249:por
+  label: "Dada nova redacção aos artigos 59.º, 60.º (na redacção do Decreto 312/70, de 06 de Julho), 62.º, 66.º, 68.º, 69.º,\
+    \ 70.º (na redacção do Decreto 312/70, de 06 de Julho) 71.º, 78.º e 79.º, aditados os artigos 79.º-A e 79.º-B e revogados\
+    \ os artigos 72.º e 73.º do Regulamento aprovado pelo presente diploma, pela LEI.30/2006.11.07.2006.AR, DR.IS [132] de\
+    \ 11.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-2006-537249
+  date: '2006-07-11'
+- type: amended_by
+  target: pt:dre:519627:por
+  label: "Alterada a al. a) do nº 2º da Port 275/2006 de 22-Mar, na alteração que introduziu ao presente diploma, pela PORT.408/2007.13.04.2007.MADRP,\
+    \ DR.IS [73] de 13.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/408-2007-519627
+  date: '2007-04-13'
+- type: amended_by
+  target: pt:dre:611309:por
+  label: "Suprimido no troço do rio Arunca, concelho de Soure, o período de defeso a que se refere a al f) do art 29.º do\
+    \ presente Decreto, pela PORT.177/2010.24.03.2010.MADRP, DR.IS [58] de 24.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/177-2010-611309
+  date: '2010-03-24'
+- type: cites
+  target: pt:dre:274808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432642:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:247981:por
+  label: "Revogado pela LEI.7/2008.15.02.2008.AR, DR.IS [33] de 15.02.2008, a partir da entrada em vigor e nos termos do art.\
+    \ 42º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-2008-247981
+  date: '2008-02-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:31:29Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +224,7 @@ Regulamento da [Lei n.º 2097](https://diariodarepublica.pt/dr/detalhe/lei/2097-
 
 ### CAPÍTULO I — Exercício de pesca
 
-###### Artigo 1.º Ficam sujeitas ao regime estabelecido por este decreto, para o exercício da pesca, nos termos da [Lei n.º 2097](https://diariodarepublica.pt/dr/detalhe/lei/2097-1959-432642), de 6 de Junho de 1959, as formações aquáticas, quer as de água doce e as de água salobra não submetidas à jurisdição marítima, quer as seguintes águas públicas e particulares:
+Artigo 1.º Ficam sujeitas ao regime estabelecido por este decreto, para o exercício da pesca, nos termos da [Lei n.º 2097](https://diariodarepublica.pt/dr/detalhe/lei/2097-1959-432642), de 6 de Junho de 1959, as formações aquáticas, quer as de água doce e as de água salobra não submetidas à jurisdição marítima, quer as seguintes águas públicas e particulares:
 
 a) Dos lagos, lagoas, canais, valas e correntes de água navegáveis ou flutuáveis;
 
@@ -120,11 +242,11 @@ g) Dos lagos ou lagoas existentes dentro de algum prédio particular que não se
 
 h) Dos canais, levadas e aquedutos de derivação, albufeiras e reservatórios de armazenamento, construídos por pessoas singulares ou colectivas, a que se refere o [Decreto n.º 5787-IIII](https://diariodarepublica.pt/dr/detalhe/decreto/5787-iiii-1919-274808), de 10 de Maio de 1919.
 
-###### Art. 2.º Para os efeitos deste decreto, considera-se pesca não só a captura de peixes e outras espécies aquícolas, mas também a prática de quaisquer actos conducentes ao mesmo fim, quando realizados nas águas referidas no artigo antecedente ou nas margens delas.
+Art. 2.º Para os efeitos deste decreto, considera-se pesca não só a captura de peixes e outras espécies aquícolas, mas também a prática de quaisquer actos conducentes ao mesmo fim, quando realizados nas águas referidas no artigo antecedente ou nas margens delas.
 
-###### Art. 3.º A pesca é desportiva quando praticada como distracção ou exercício e profissional quando praticada com fim lucrativo.
+Art. 3.º A pesca é desportiva quando praticada como distracção ou exercício e profissional quando praticada com fim lucrativo.
 
-###### Art. 4.º Para efeitos de pesca, as águas do domínio público classificam-se em:
+Art. 4.º Para efeitos de pesca, as águas do domínio público classificam-se em:
 
 a) Águas livres;
 
@@ -142,11 +264,11 @@ a) De águas correntes;
 
 b) De águas paradas (lagos, lagoas, albufeiras, etc.).
 
-###### Art. 5.º As zonas de pesca reservada serão criadas por portaria do Secretário de Estado da Agricultura, ouvida a Direcção-Geral dos Serviços Hidráulicos, mediante proposta da Direcção-Geral dos Serviços Florestais e Aquícolas e por este organismo demarcadas e sinalizadas.
+Art. 5.º As zonas de pesca reservada serão criadas por portaria do Secretário de Estado da Agricultura, ouvida a Direcção-Geral dos Serviços Hidráulicos, mediante proposta da Direcção-Geral dos Serviços Florestais e Aquícolas e por este organismo demarcadas e sinalizadas.
 
 § único. O exercício da pesca nas zonas de pesca reservada só será permitido depois de aprovados os respectivos regulamentos pelo Secretário de Estado da Agricultura, mediante proposta da Direcção-Geral dos Serviços Florestais e Aquícolas, entidade a quem incumbe a sua administração, fiscalização e conservação.
 
-###### Art. 6.º As concessões de pesca serão requeridas ao Secretário de Estado da Agricultura que as poderá autorizar por prazo não superior a dez anos, prorrogável a requerimento do concessionário, mediante o pagamento de uma taxa anual, a fixar para cada caso entre 50$00 e 200$00 por hectare.
+Art. 6.º As concessões de pesca serão requeridas ao Secretário de Estado da Agricultura que as poderá autorizar por prazo não superior a dez anos, prorrogável a requerimento do concessionário, mediante o pagamento de uma taxa anual, a fixar para cada caso entre 50$00 e 200$00 por hectare.
 
 § 1.º A taxa a que se refere o corpo deste artigo será revista de cinco em cinco anos e actualizada, se tal for considerado necessário, por portaria do Secretário de Estado da Agricultura.
 
@@ -184,7 +306,7 @@ h) As disposições aconselhadas quanto ao revestimento vegetal do leito e marge
 
 § 7.º No que respeita à concessão de pesca em albufeiras, a taxa referida na alínea d) do § 4.º deste artigo será fixada em relação à área correspondente ao nível médio compreendido entre o nível máximo e o nível médio previsto durante a estiagem.
 
-###### Art. 7.º As concessões de pesca só podem ser autorizadas às entidades seguintes:
+Art. 7.º As concessões de pesca só podem ser autorizadas às entidades seguintes:
 
 a) Clubes ou associações de pescadores, legalmente constituídos:
 
@@ -198,19 +320,19 @@ e) Juntas de turismo;
 
 f) Comissões regionais de turismo.
 
-###### Art. 8.º As concessões de pesca desportiva não terão extensão superior a 10 km, medida ao longo do eixo do curso de água; a concessão poderá ainda abranger cada um dos seus afluentes numa extensão de 2 km. Para as lagoas e albufeiras poderão ser autorizadas concessões de pesca com uma área que, medida ao nível máximo normal, não exceda 80 ha, não devendo, contudo, ocupar mais de metade da albufeira para as massas de água com mais de 60 ha de superfície, nem ter extensão superior a 5 km.
+Art. 8.º As concessões de pesca desportiva não terão extensão superior a 10 km, medida ao longo do eixo do curso de água; a concessão poderá ainda abranger cada um dos seus afluentes numa extensão de 2 km. Para as lagoas e albufeiras poderão ser autorizadas concessões de pesca com uma área que, medida ao nível máximo normal, não exceda 80 ha, não devendo, contudo, ocupar mais de metade da albufeira para as massas de água com mais de 60 ha de superfície, nem ter extensão superior a 5 km.
 
 § 1.º Entre duas zonas concedidas ficará sempre um troço de extensão ou área, não inferior à da maior concessão, onde o exercício da pesca será regido pelas disposições gerais em vigor.
 
 § 2.º Em casos excepcionais e mediante parecer dos serviços competentes da Direcção-Geral dos Serviços Florestais e Aquícolas, poderão ser concedidas áreas e extensões diferentes das indicadas no corpo deste artigo e seu § 1.º
 
-###### Art. 9.º O Secretário de Estado da Agricultura poderá, por proposta da Direcção-Geral dos Serviços Florestais e Aquícolas, determinar o cancelamento do alvará de qualquer concessão de pesca, sempre que for julgado conveniente ao interesse público ou não houver cumprimento do estabelecido no respectivo alvará.
+Art. 9.º O Secretário de Estado da Agricultura poderá, por proposta da Direcção-Geral dos Serviços Florestais e Aquícolas, determinar o cancelamento do alvará de qualquer concessão de pesca, sempre que for julgado conveniente ao interesse público ou não houver cumprimento do estabelecido no respectivo alvará.
 
 § único. As entidades titulares de concessões de pesca já existentes à data da publicação deste diploma deverão requerer a aprovação do respectivo regulamento no prazo de seis meses e actualizar os seus alvarás no prazo máximo de um ano.
 
-###### Art. 10.º Os novos concessionários só poderão começar a usufruir dos exclusivos de pesca nas concessões autorizadas depois de ter sido depositada na sede da circunscrição florestal da área respectiva a quantia correspondente à taxa anual que lhes for fixada e de decorridos 30 dias sobre a colocação das tabuletas a que se refere o § 5.º do artigo 6.º
+Art. 10.º Os novos concessionários só poderão começar a usufruir dos exclusivos de pesca nas concessões autorizadas depois de ter sido depositada na sede da circunscrição florestal da área respectiva a quantia correspondente à taxa anual que lhes for fixada e de decorridos 30 dias sobre a colocação das tabuletas a que se refere o § 5.º do artigo 6.º
 
-###### Art. 11.º Mediante proposta da Direcção-Geral dos Serviços Florestais e Aquícolas, o Secretário de Estado da Agricultura poderá autorizar, para efeitos de realização de concursos de pesca desportiva, concessões de pesca por prazo não superior a dez dias.
+Art. 11.º Mediante proposta da Direcção-Geral dos Serviços Florestais e Aquícolas, o Secretário de Estado da Agricultura poderá autorizar, para efeitos de realização de concursos de pesca desportiva, concessões de pesca por prazo não superior a dez dias.
 
 § 1.º Esta autorização tornar-se-á pública por meio de editais, com a antecedência mínima de dez dias em relação à data do início do período previsto para a concessão.
 
@@ -218,25 +340,25 @@ f) Comissões regionais de turismo.
 
 § 3.º Em cada época não poderão realizar-se mais de dois concursos de pesca em cada linha de água, lago, lagoa ou albufeira, devendo ficar sempre entre eles um domingo livre.
 
-###### Art. 12.º Todas as obras a efectuar ou trabalhos de valorização hidrobiológica a realizar nas concessões de pesca deverão ser prèviamente aprovados pela Direcção-Geral dos Serviços Florestais e Aquícolas, ouvida a Direcção-Geral dos Serviços Hidráulicos, e custeados pelas entidades concessionárias.
+Art. 12.º Todas as obras a efectuar ou trabalhos de valorização hidrobiológica a realizar nas concessões de pesca deverão ser prèviamente aprovados pela Direcção-Geral dos Serviços Florestais e Aquícolas, ouvida a Direcção-Geral dos Serviços Hidráulicos, e custeados pelas entidades concessionárias.
 
-###### Art. 13.º A Direcção-Geral dos Serviços Florestais e Aquícolas, ouvida a Direcção-Geral dos Serviços Hidráulicos, poderá exigir, sem prejuízo de quaisquer condições estipuladas pelas leis em vigor, a construção de obras destinadas à melhoria das condições biológicas da concessão, ficando o respectivo encargo por conta da entidade concessionária. Neste caso pode a mesma Direcção-Geral prescindir da taxa anual a que se refere o artigo 6.º pelo prazo que for considerado razoável.
+Art. 13.º A Direcção-Geral dos Serviços Florestais e Aquícolas, ouvida a Direcção-Geral dos Serviços Hidráulicos, poderá exigir, sem prejuízo de quaisquer condições estipuladas pelas leis em vigor, a construção de obras destinadas à melhoria das condições biológicas da concessão, ficando o respectivo encargo por conta da entidade concessionária. Neste caso pode a mesma Direcção-Geral prescindir da taxa anual a que se refere o artigo 6.º pelo prazo que for considerado razoável.
 
-###### Art. 14.º Só é permitida a transferência de direitos e obrigações das concessões de pesca com autorização prévia da Direcção-Geral dos Serviços Florestais e Aquícolas.
+Art. 14.º Só é permitida a transferência de direitos e obrigações das concessões de pesca com autorização prévia da Direcção-Geral dos Serviços Florestais e Aquícolas.
 
-###### Art. 15.º As zonas de pesca reservada criadas por portaria nos termos do artigo 5.º e as concessões de pesca autorizadas segundo o artigo 6.º serão para todos os efeitos consideradas como submetidas ao regime florestal parcial.
+Art. 15.º As zonas de pesca reservada criadas por portaria nos termos do artigo 5.º e as concessões de pesca autorizadas segundo o artigo 6.º serão para todos os efeitos consideradas como submetidas ao regime florestal parcial.
 
 § único. Nas zonas submetidas ao regime florestal são mantidas as atribuições da Direcção-Geral dos Serviços Hidráulicos que lhe são conferidas pela legislação em vigor.
 
-###### Art. 16.º O exercício da pesca nas águas particulares é direito exclusivo dos seus proprietários, ficando, todavia, sujeito às disposições constantes do presente regulamento.
+Art. 16.º O exercício da pesca nas águas particulares é direito exclusivo dos seus proprietários, ficando, todavia, sujeito às disposições constantes do presente regulamento.
 
 § único. Aos proprietários é permitida a colocação de tabuletas indicativas da proibição de pescar, de modelo a aprovar pela Direcção-Geral dos Serviços Florestais e Aquícolas.
 
-###### Art. 17.º A todos os pescadores é lícito passar e estacionar, para o exercício efectivo da pesca, nas zonas dos prédios que marginem as águas públicas sujeitas à servidão legal estabelecida no artigo 4.º do Decreto-Lei n.º 12445, de 29 de Setembro de 1926, sem prejuízo da inviolabilidade dos prédios urbanos ou rústicos vedados.
+Art. 17.º A todos os pescadores é lícito passar e estacionar, para o exercício efectivo da pesca, nas zonas dos prédios que marginem as águas públicas sujeitas à servidão legal estabelecida no artigo 4.º do Decreto-Lei n.º 12445, de 29 de Setembro de 1926, sem prejuízo da inviolabilidade dos prédios urbanos ou rústicos vedados.
 
 § único. Consideram-se vedados, para os efeitos do disposto no corpo deste artigo, os prédios rústicos murados em todo o seu perímetro com altura mínima de 1 m ou muro contínuo de 0,50 m de altura com rede metálica de 1 m, ou ainda circundados por rede metálica com 2 m de alto.
 
-###### Art. 18.º Os pescadores que causem prejuízos nos prédios marginais dos cursos de água ou nos aproveitamentos desta são obrigados a indemnizar os seus proprietários, possuidores ou utentes, nos termos da lei geral.
+Art. 18.º Os pescadores que causem prejuízos nos prédios marginais dos cursos de água ou nos aproveitamentos desta são obrigados a indemnizar os seus proprietários, possuidores ou utentes, nos termos da lei geral.
 
 § 1.º Para efeitos do disposto no corpo deste artigo, os proprietários, possuidores dos prédios e os utentes da água, têm o direito de exigir aos pescadores a respectiva identificação e o número da licença de pesca.
 
@@ -248,9 +370,9 @@ f) Comissões regionais de turismo.
 
 ### CAPÍTULO II — Organização e competência dos serviços
 
-###### Art. 19.º É da competência da Secretaria de Estado da Agricultura, pela Direcção-Geral dos Serviços Florestais e Aquícolas, o fomento piscícola das águas dos domínios público e particular referidas neste decreto e a fiscalização do exercício da pesca desportiva e profissional.
+Art. 19.º É da competência da Secretaria de Estado da Agricultura, pela Direcção-Geral dos Serviços Florestais e Aquícolas, o fomento piscícola das águas dos domínios público e particular referidas neste decreto e a fiscalização do exercício da pesca desportiva e profissional.
 
-###### Art. 20.º Ao inspector-chefe da pesca nas águas interiores compete:
+Art. 20.º Ao inspector-chefe da pesca nas águas interiores compete:
 
 a) Informar o director-geral dos Serviços Florestais e Aquícolas de todas as deficiências ou irregularidades verificadas nos serviços de exploração fiscalização das águas interiores sujeitas ao regime de pesca, que pela sua importância devem ser conhecidas superiormente;
 
@@ -262,7 +384,7 @@ d) Apresentar ao director-geral dos Serviços Florestais e Aquícolas, anualment
 
 e) Propor à Direcção-Geral dos Serviços Florestais e Aquícolas a adopção de quaisquer providências administrativas ou medidas legislativas que em seu entender possam contribuir para o incremento do fomento piscícola;
 
-###### Art. 21.º À secção aquícola do Conselho Técnico dos Serviços Florestais, a que se refere o § 2.º do artigo 17.º do Decreto n.º 40721, de 2 de Agosto de 1956, compete emitir parecer, em matéria de fomento aquícola e aperfeiçoamento dos processos de pesca, especialmente sobre:
+Art. 21.º À secção aquícola do Conselho Técnico dos Serviços Florestais, a que se refere o § 2.º do artigo 17.º do Decreto n.º 40721, de 2 de Agosto de 1956, compete emitir parecer, em matéria de fomento aquícola e aperfeiçoamento dos processos de pesca, especialmente sobre:
 
 a) A aprovação, alteração ou revogação dos regulamentos gerais de pesca nas águas interiores do País;
 
@@ -284,7 +406,7 @@ h) A transferência de espécies aquícolas para povoamento das águas interiore
 
 § 2.º A emissão do parecer a que se refere a alínea c) deste artigo será dispensada logo que esteja a funcionar o organismo competente para tratar das questões de poluição, no qual a Direcção-Geral dos Serviços Florestais Aquícolas esteja representada.
 
-###### Art. 22.º Serão criados os organismos seguintes:
+Art. 22.º Serão criados os organismos seguintes:
 
 a) Comissão Regional de Pesca do Norte, com sede no Porto e acção em todas as águas interiores a norte do rio Douro;
 
@@ -308,7 +430,7 @@ d) Um representante dos pescadores profissionais, designado pelo Ministro das Co
 
 § 3.º O Secretário de Estado da Agricultura poderá, mediante proposta da Direcção-Geral dos Serviços Florestais e Aquícolas, criar por portaria comissões regionais de pesca em outras regiões, ou alterar as suas áreas, sede ou composição.
 
-###### Art. 23.º Compete às comissões regionais de pesca colaborar com a Direcção-Geral dos Serviços Florestais e Aquícolas, sob orientação desta, em tudo o que respeite à piscicultura e em especial:
+Art. 23.º Compete às comissões regionais de pesca colaborar com a Direcção-Geral dos Serviços Florestais e Aquícolas, sob orientação desta, em tudo o que respeite à piscicultura e em especial:
 
 a) Coadjuvar a Direcção-Geral no licenciamento e fiscalização da pesca, podendo para este fim, e mediante prévia autorização desta, encarregar pescadores desportivos, reconhecidamente idóneos, de vigiar as águas de determinada região e cooperar na demarcação de desovadeiras, bem como de participar, nos termos regulamentares, qualquer crime ou contravenção das leis ou regulamentos da pesca, depois de ajuramentados perante o juiz de direito da sua residência;
 
@@ -326,13 +448,13 @@ d) Exercer acção de propaganda no sentido de mostrar que a conservação da ri
 
 § 4.º As comissões regionais de pesca reger-se-ão por regulamentos a elaborar pela Direcção-Geral dos Serviços Florestais e Aquícolas.
 
-###### Art. 24.º Além dos guardas florestais, têm também competência para o exercício da polícia e fiscalização da pesca os guarda-rios da Direcção-Geral dos Serviços Hidráulicos, as autoridades administrativas e policiais, os membros das comissões regionais de pesca e os agentes da Direcção-Geral dos Serviços Florestais e Aquícolas, das comissões venatórias, da Guarda Nacional Republicana, da Guarda Fiscal, das Polícias de Segurança Pública e de Viação e Trânsito e, da vigilância, os pescadores designados nos termos da alínea a) do artigo 23.º
+Art. 24.º Além dos guardas florestais, têm também competência para o exercício da polícia e fiscalização da pesca os guarda-rios da Direcção-Geral dos Serviços Hidráulicos, as autoridades administrativas e policiais, os membros das comissões regionais de pesca e os agentes da Direcção-Geral dos Serviços Florestais e Aquícolas, das comissões venatórias, da Guarda Nacional Republicana, da Guarda Fiscal, das Polícias de Segurança Pública e de Viação e Trânsito e, da vigilância, os pescadores designados nos termos da alínea a) do artigo 23.º
 
 § 1.º Os membros das comissões regionais de pesca terão direito ao uso de um cartão de identidade de modelo a aprovar superiormente.
 
 § 2.º A fiscalização das águas livres ficará a cargo dos guarda-rios da Direcção-Geral dos Serviços Hidráulicos enquanto a Direcção-Geral dos Serviços Florestais e Aquícolas não possuir o número de guardas florestais suficientes para assumir esse encargo.
 
-###### Art. 25.º Os agentes da autoridade e as demais pessoas com competência para a fiscalização do cumprimento das leis e regulamentos da pesca informarão a Direcção-Geral dos Serviços Florestais e Aquícolas das infracções que presenciarem e daquelas que, por qualquer via, chegarem ao seu conhecimento.
+Art. 25.º Os agentes da autoridade e as demais pessoas com competência para a fiscalização do cumprimento das leis e regulamentos da pesca informarão a Direcção-Geral dos Serviços Florestais e Aquícolas das infracções que presenciarem e daquelas que, por qualquer via, chegarem ao seu conhecimento.
 
 § 1.º Logo nesse acto procederão às apreensões permitidas, nomeando, por auto, fiel depositário, e notificarão, ao mesmo tempo, os presumíveis infractores de que podem apresentar, no prazo de dez dias, perante aquela Direcção-Geral a justificação da sua conduta e o pedido de quaisquer diligências.
 
@@ -342,7 +464,7 @@ d) Exercer acção de propaganda no sentido de mostrar que a conservação da ri
 
 § 4.º Quando a pena cominada seja sòmente a de multa, o auto aguardará durante dez dias, na administração florestal, que o arguido a liquide voluntàriamente, para o que será notificado por postal registado, em duplicado, para o seu domicílio, sendo, no caso de não pagamento, remetido a juízo nos cinco dias imediatos.
 
-###### Art. 26.º Nos autos de notícia levantados pelos agentes da autoridade com competência para a fiscalização das leis e regulamentos da pesca é dispensada a indicação de testemunhas, quando a infracção tenha sido presenciada por eles ou sempre que as circunstâncias o tornem impossível, sem embargo de fazerem fé e prova plena em juízo.
+Art. 26.º Nos autos de notícia levantados pelos agentes da autoridade com competência para a fiscalização das leis e regulamentos da pesca é dispensada a indicação de testemunhas, quando a infracção tenha sido presenciada por eles ou sempre que as circunstâncias o tornem impossível, sem embargo de fazerem fé e prova plena em juízo.
 
 § único. Estes autos devem obedecer ao estatuído no artigo 166.º do Código de Processo Penal, indicando ainda:
 
@@ -358,13 +480,13 @@ e) O valor provável do dano causado;
 
 f) A menção dos danos que porventura tenham resultado da infracção ou de qualquer acto conexo e a identificação dos proprietários ou possuidores dos prédios sujeitos a servidão ou dos utentes das águas que tenham sido lesados.
 
-###### Art. 27.º As entidades a que se refere o artigo 24.º poderão, para o exercício da polícia e fiscalização da pesca, verificar as licenças e o conteúdo do equipamento dos indivíduos suspeitos da prática de qualquer infracção das leis e regulamentos, podendo igualmente ordenar a acostagem de embarcações para efeito de exame do seu interior.
+Art. 27.º As entidades a que se refere o artigo 24.º poderão, para o exercício da polícia e fiscalização da pesca, verificar as licenças e o conteúdo do equipamento dos indivíduos suspeitos da prática de qualquer infracção das leis e regulamentos, podendo igualmente ordenar a acostagem de embarcações para efeito de exame do seu interior.
 
-###### Art. 28.º As secretarias judiciais enviarão à Direcção-Geral dos Serviços Florestais e Aquícolas certidão de todas as sentenças, condenatórias ou absolutórias, proferidas em processos por infracções das leis ou regulamentos da pesca.
+Art. 28.º As secretarias judiciais enviarão à Direcção-Geral dos Serviços Florestais e Aquícolas certidão de todas as sentenças, condenatórias ou absolutórias, proferidas em processos por infracções das leis ou regulamentos da pesca.
 
 ### CAPÍTULO III — Fomento piscícola
 
-###### Art. 29.º Nas épocas a seguir mencionadas fica expressamente proibida a pesca por todos os processos, das espécies abaixo indicadas cujos nomes científicos constam de lista anexa a este regulamento:
+Art. 29.º Nas épocas a seguir mencionadas fica expressamente proibida a pesca por todos os processos, das espécies abaixo indicadas cujos nomes científicos constam de lista anexa a este regulamento:
 
 a) Salmão e truta - de 1 de Agosto ao último dia de Fevereiro, inclusive;
 
@@ -384,7 +506,7 @@ e) Lagostim de água doce - de 1 de Setembro a 30 de Maio, inclusive.
 
 § 4.º Só é permitido pescar desde o nascer ao pôr do Sol, excepto nas zonas a demarcar para pesca profissional com rede.
 
-###### Art. 30.º É proibida a pesca, comércio, transporte, retenção e consumo de peixes e outras espécies aquícolas de dimensões inferiores às fixadas nas alíneas seguintes:
+Art. 30.º É proibida a pesca, comércio, transporte, retenção e consumo de peixes e outras espécies aquícolas de dimensões inferiores às fixadas nas alíneas seguintes:
 
 a) Esturjão - 65 cm;
 
@@ -404,7 +526,7 @@ g) Boga e escalo - 10 cm.
 
 § 2.º Os exemplares pescados de dimensões inferiores às determinadas neste artigo serão imediatamente restituídos à água.
 
-###### Art. 31.º O Secretário de Estado da Agricultura poderá, por portaria e mediante proposta da Direcção-Geral dos Serviços Florestais e Aquícolas:
+Art. 31.º O Secretário de Estado da Agricultura poderá, por portaria e mediante proposta da Direcção-Geral dos Serviços Florestais e Aquícolas:
 
 a) Alterar, em todo o País ou em determinadas bacias hidrográficas, sempre que tal se justifique, as épocas de defeso mencionadas no artigo 29.º e as dimensões das espécies aquícolas e das malhas das redes mencionadas nos artigos 30.º e 34.º;
 
@@ -414,17 +536,17 @@ c) Definir as datas de defeso para as espécies que venham a ser introduzidas;
 
 d) Demarcar zonas de pesca profissional com redes e regulamentar o exercício de pesca nessas zonas.
 
-###### Art. 32.º Não podem ser postas à venda, compradas, transportadas, retidas ou servidas em hotéis, restaurantes e outros estabelecimentos congéneres quaisquer espécies cuja pesca estiver proibida ou em período de defeso.
+Art. 32.º Não podem ser postas à venda, compradas, transportadas, retidas ou servidas em hotéis, restaurantes e outros estabelecimentos congéneres quaisquer espécies cuja pesca estiver proibida ou em período de defeso.
 
 § 1.º O disposto no corpo deste artigo, bem como nos artigos 29.º e 30.º, considera-se aplicado mesmo às espécies das águas dos rios que servem de fronteira, desde que, para o efeito, não haja regulamento especial.
 
 § 2.º Nos salmonídeos importados durante o período de defeso no País será aposta na alfândega uma marca ou selo de modelo a aprovar pela Direcção-Geral dos Serviços Florestais e Aquícolas e que garanta a proveniência dessas espécies. Exceptuam-se os exemplares transportados pelo próprio pescador, desde que acompanhados por documento oficial comprovativo da origem.
 
-###### Art. 33.º No exercício da pesca desportiva só podem ser utilizadas a cana e linha de mão, à excepção da pesca nas zonas de pesca reservada e nas concessões de pesca onde só é permitido o uso da cana.
+Art. 33.º No exercício da pesca desportiva só podem ser utilizadas a cana e linha de mão, à excepção da pesca nas zonas de pesca reservada e nas concessões de pesca onde só é permitido o uso da cana.
 
 § único. Como elementos auxiliares da pesca desportiva o pescador só poderá utilizar o gancho sem farpa (bicheiro), a rede-fole (camaroeiro) e o laço no caso especial da pesca ao salmão.
 
-###### Art. 34.º No exercício da pesca profissional podem ser utilizadas redes, além da cana e linha de mão ou de quaisquer outros meios que venham a ser considerados legais, nas zonas demarcadas nos termos da alínea d) do artigo 31.º
+Art. 34.º No exercício da pesca profissional podem ser utilizadas redes, além da cana e linha de mão ou de quaisquer outros meios que venham a ser considerados legais, nas zonas demarcadas nos termos da alínea d) do artigo 31.º
 
 § 1.º Na pesca aos salmonídeos só é permitido o uso da cana.
 
@@ -440,21 +562,21 @@ d) Para as restantes espécies - 30 mm.
 
 § 3.º A permanência dentro de água das redes e aparelhos de pesca com as dimensões regulamentares é permitida tanto de dia como de noite em períodos não superiores a 24 horas, contanto que sejam lançados ou levantados desde o nascer até ao pôr do Sol. No mesmo local, e durante o período de 24 horas, não é permitido fazer mais lançamentos de rede e outros aparelhos de pesca.
 
-###### Art. 35.º Fica expressamente proibido o uso de redes em todas as zonas dos cursos de água onde existam salmonídeos, excepto quando a existência de outras espécies o justifique, o que será determinado por portaria do Secretário de Estado da Agricultura, mediante proposta da Direcção-Geral dos Serviços Florestais e Aquícolas.
+Art. 35.º Fica expressamente proibido o uso de redes em todas as zonas dos cursos de água onde existam salmonídeos, excepto quando a existência de outras espécies o justifique, o que será determinado por portaria do Secretário de Estado da Agricultura, mediante proposta da Direcção-Geral dos Serviços Florestais e Aquícolas.
 
-###### Art. 36.º As redes fixas, flutuantes e derivantes não poderão exceder, em comprimento, metade da largura dos cursos de água.
+Art. 36.º As redes fixas, flutuantes e derivantes não poderão exceder, em comprimento, metade da largura dos cursos de água.
 
 § 1.º Quando forem lançadas simultâneamente mais do que uma rede, quer na mesma margem, quer em margens opostas, deverão intervalar-se a uma distância nunca inferior ao triplo do comprimento da rede mais comprida.
 
 § 2.º Quando se empreguem redes fixas deverão ser suspensas pelo meio, em cada semana, durante 38 horas, desde sábado às 5 horas da tarde até segunda-feira às 7 horas da manhã, numa extensão equivalente à décima parte do seu comprimento, deixando entre o fundo e a tralha inferior um espaço livre com 0,50 m, pelo menos, de altura.
 
-###### Art. 37.º É proibido o emprego de todas as redes de arrastar pelo fundo, bem como o dos grandes aparelhos de fundo, conhecidos pelo nome genérico de botirões, armadilhas de tapa-esteiros, nassas ou quaisquer outras congéneres, excepto nas zonas demarcadas nos termos da alínea d) do artigo 31.º, para as quais serão definidas as redes e aparelhos autorizados.
+Art. 37.º É proibido o emprego de todas as redes de arrastar pelo fundo, bem como o dos grandes aparelhos de fundo, conhecidos pelo nome genérico de botirões, armadilhas de tapa-esteiros, nassas ou quaisquer outras congéneres, excepto nas zonas demarcadas nos termos da alínea d) do artigo 31.º, para as quais serão definidas as redes e aparelhos autorizados.
 
-###### Art. 38.º É proibido amarrar redes, cestos ou outros aparelhos de pesca aos diques, barragens, descarregadores, aquedutos ou portas de água.
+Art. 38.º É proibido amarrar redes, cestos ou outros aparelhos de pesca aos diques, barragens, descarregadores, aquedutos ou portas de água.
 
-###### Art. 39.º É proibido estabelecer dentro de água redes, aparelhos ou quaisquer dispositivos destinados a encaminhar os peixes para espaços donde não possam mais sair, ou que os forcem a passar por um canal, esteiro ou vala, ou ainda que os impeçam de circular livremente, tais como: ramagens, estacadas ou outros obstáculos móveis ou fixos.
+Art. 39.º É proibido estabelecer dentro de água redes, aparelhos ou quaisquer dispositivos destinados a encaminhar os peixes para espaços donde não possam mais sair, ou que os forcem a passar por um canal, esteiro ou vala, ou ainda que os impeçam de circular livremente, tais como: ramagens, estacadas ou outros obstáculos móveis ou fixos.
 
-###### Art. 40.º Cada cana ou linha de mão não poderá ter mais de três anzóis ou o máximo de uma fateixa de três farpas, ressalvando o caso dos iscos artificiais de tipo corrente, que poderão ter número maior de anzóis por isca, sendo permitido pescar de terra, vadeando ou embarcado.
+Art. 40.º Cada cana ou linha de mão não poderá ter mais de três anzóis ou o máximo de uma fateixa de três farpas, ressalvando o caso dos iscos artificiais de tipo corrente, que poderão ter número maior de anzóis por isca, sendo permitido pescar de terra, vadeando ou embarcado.
 
 § 1.º Não é permitido ao pescador utilizar simultâneamente mais do que dois aparelhos (cana ou linha de mão), devendo estes estar sempre ao alcance da sua mão.
 
@@ -464,13 +586,13 @@ d) Para as restantes espécies - 30 mm.
 
 § 4.º Não é permitido o uso de linhas dormentes ou espinhéis.
 
-###### Art. 41.º Mediante proposta da Direcção-Geral dos Serviços Florestais e Aquícolas, o Secretário de Estado da Agricultura poderá tomar medidas especiais sobre os processos de pesca a adoptar nos cursos de água cujas características se não coadunem com os processos legalmente autorizados.
+Art. 41.º Mediante proposta da Direcção-Geral dos Serviços Florestais e Aquícolas, o Secretário de Estado da Agricultura poderá tomar medidas especiais sobre os processos de pesca a adoptar nos cursos de água cujas características se não coadunem com os processos legalmente autorizados.
 
-###### Art. 42.º É proibido pescar e apanhar peixe nas zonas aquáticas cujo nível de água tenha descido até um limite que afecte a segurança da sua fauna aquícola, salvo em casos excepcionais superiormente autorizados.
+Art. 42.º É proibido pescar e apanhar peixe nas zonas aquáticas cujo nível de água tenha descido até um limite que afecte a segurança da sua fauna aquícola, salvo em casos excepcionais superiormente autorizados.
 
-###### Art. 43.º É proibido pescar, em qualquer época do ano, nas zonas aquáticas designadas e assinaladas pela Direcção-Geral dos Serviços Florestais e Aquícolas para abrigos, desovadeiras e viveiros de reprodução, bem como, e independentemente de qualquer delimitação especial, dentro das eclusas, aquedutos ou passagens para peixes, e profissionalmente a menos de 200 m de barragens e 50 m de açudes, comportas, descarregadores ou quaisquer obras que alterem o regime normal de circulação das águas.
+Art. 43.º É proibido pescar, em qualquer época do ano, nas zonas aquáticas designadas e assinaladas pela Direcção-Geral dos Serviços Florestais e Aquícolas para abrigos, desovadeiras e viveiros de reprodução, bem como, e independentemente de qualquer delimitação especial, dentro das eclusas, aquedutos ou passagens para peixes, e profissionalmente a menos de 200 m de barragens e 50 m de açudes, comportas, descarregadores ou quaisquer obras que alterem o regime normal de circulação das águas.
 
-###### Art. 44.º É proibido pescar:
+Art. 44.º É proibido pescar:
 
 a) Com fisga, tridente ou arpão;
 
@@ -490,7 +612,7 @@ h) Por percussão nas rochas de refúgio;
 
 i) Por quaisquer outros processos em que o peixe não seja apanhado pela boca, ressalvando o uso das redes permitidas.
 
-###### Art. 45.º Para aprovação de quaisquer projectos de obras a realizar nos cursos de água, que possam alterar profundamente o seu regime hídrico ou influir nas características biológicas do meio, será sempre ouvida a secção aquícola do Conselho Técnico dos Serviços Florestais.
+Art. 45.º Para aprovação de quaisquer projectos de obras a realizar nos cursos de água, que possam alterar profundamente o seu regime hídrico ou influir nas características biológicas do meio, será sempre ouvida a secção aquícola do Conselho Técnico dos Serviços Florestais.
 
 § 1.º Todas as obras já existentes e que impeçam o normal movimento migratório dos peixes deverão ser convenientemente remodeladas, no prazo máximo de cinco anos, de forma a assegurar-se a indispensável circulação das diferentes espécies ictiológicas.
 
@@ -500,13 +622,13 @@ Os estudos, projectos e execução destas obras serão feitos pelos respectivos 
 
 § 3.º A fiscalização técnica de todas as obras de hidráulica com interesse para o fomento piscícola ficará a cargo das Direcções-Gerais dos Serviços Hidráulicos e Serviços Florestais e Aquícolas.
 
-###### Art. 46.º É proibida a construção de pesqueiras fixas.
+Art. 46.º É proibida a construção de pesqueiras fixas.
 
 § 1.º O Secretário de Estado da Agricultura poderá determinar, mediante proposta da Direcção-Geral dos Serviços Florestais e Aquícolas, ouvida a Direcção-Geral dos Serviços Hidráulicos, a modificação, ou a destruição quando aquela não baste, das pesqueiras existentes à data da publicação deste decreto nas margens ou leitos das águas em que este sistema seja prejudicial às espécies ictiológicas que as povoam.
 
 § 2.º A modificação ou a destruição das pesqueiras fixas, nos termos do parágrafo anterior far-se-á sem direito a indemnização, sempre que não estejam tituladas por documento autêntico.
 
-###### Art. 47.º Com o fim de proteger as comunidades aquícolas é, expressamente proibido:
+Art. 47.º Com o fim de proteger as comunidades aquícolas é, expressamente proibido:
 
 a) Arremessar às águas corpos em decomposição, substâncias putrescíveis ou nocivas à vida dos peixes;
 
@@ -518,7 +640,7 @@ d) Proceder à apanha ou corte de plantas aquáticas e de todas as que marginem 
 
 § único. É proibida a vagueação de aves aquáticas domésticas nas zonas das águas públicas designadas pelas Direcções-Gerais dos Serviços Hidráulicos e Serviços Florestais e Aquícolas.
 
-###### Art. 48.º É proibido o esgoto ou esvaziamento total das linhas de água, albufeiras, valas, canais e outras obras de hidráulica, sem ser ouvida a Direcção-Geral dos Serviços Florestais e Aquícolas, e o esvaziamento parcial que não seja operação normal decorrente da própria exploração da obra.
+Art. 48.º É proibido o esgoto ou esvaziamento total das linhas de água, albufeiras, valas, canais e outras obras de hidráulica, sem ser ouvida a Direcção-Geral dos Serviços Florestais e Aquícolas, e o esvaziamento parcial que não seja operação normal decorrente da própria exploração da obra.
 
 § 1.º Para os efeitos do determinado neste artigo, deverão os concessionários ou proprietários comunicar por escrito a sua intenção à Direcção-Geral dos Serviços Florestais e Aquícolas nos prazos mínimos seguintes:
 
@@ -534,21 +656,21 @@ Exceptuam-se os casos de emergência em que não seja possível a prévia comuni
 
 § 4.º Os proprietários ou concessionários deverão tomar todas as providências para que sejam asseguradas as condições indispensáveis à sobrevivência dos peixes nelas existentes, cumprindo, designadamente, as prescrições para esse fim estabelecidas pela Direcção-Geral dos Serviços Florestais e Aquícolas.
 
-###### Art. 49.º O Secretário de Estado da Agricultura poderá, mediante proposta da Direcção-Geral dos Serviços Florestais e Aquícolas, autorizar, a requerimento de estabelecimentos científicos oficiais, para estudos e trabalhos de investigação, a captura de peixes com dimensões inferiores ao estabelecido no artigo 30.º, ainda que em épocas de defeso, bem como o emprego de redes não usuais e correntes eléctricas.
+Art. 49.º O Secretário de Estado da Agricultura poderá, mediante proposta da Direcção-Geral dos Serviços Florestais e Aquícolas, autorizar, a requerimento de estabelecimentos científicos oficiais, para estudos e trabalhos de investigação, a captura de peixes com dimensões inferiores ao estabelecido no artigo 30.º, ainda que em épocas de defeso, bem como o emprego de redes não usuais e correntes eléctricas.
 
-###### Art. 50.º O Secretário de Estado da Agricultura poderá, mediante parecer favorável das Direcções-Gerais dos Serviços Florestais e Aquícolas e Serviços Hidráulicos, autorizar a instalação de estabelecimentos de piscicultura industrial destinados a abastecimento público, segundo condicionamento a fixar para cada caso.
+Art. 50.º O Secretário de Estado da Agricultura poderá, mediante parecer favorável das Direcções-Gerais dos Serviços Florestais e Aquícolas e Serviços Hidráulicos, autorizar a instalação de estabelecimentos de piscicultura industrial destinados a abastecimento público, segundo condicionamento a fixar para cada caso.
 
 § único. A instalação de estabelecimentos de piscicultura deverá obedecer a projecto devidamente elaborado por um engenheiro silvicultor.
 
-###### Art. 51.º É proibida a transferência de espécies aquícolas para povoamento das águas interiores do País, públicas ou particulares, sem parecer favorável da Direcção-Geral dos Serviços Florestais e Aquícolas, bem como a sua importação para o mesmo fim, quaisquer que sejam as entidades que as promovam, sem autorização do Secretário de Estado da Agricultura, mediante proposta daquela Direcção-Geral.
+Art. 51.º É proibida a transferência de espécies aquícolas para povoamento das águas interiores do País, públicas ou particulares, sem parecer favorável da Direcção-Geral dos Serviços Florestais e Aquícolas, bem como a sua importação para o mesmo fim, quaisquer que sejam as entidades que as promovam, sem autorização do Secretário de Estado da Agricultura, mediante proposta daquela Direcção-Geral.
 
 ### CAPÍTULO IV — Licenciamento
 
-###### Art. 52.º O exercício da pesca nas águas interiores do País é permitido mediante licença, durante o tempo e nas demais condições previstas no presente regulamento.
+Art. 52.º O exercício da pesca nas águas interiores do País é permitido mediante licença, durante o tempo e nas demais condições previstas no presente regulamento.
 
 § único. As licenças de pesca podem ser concedidas para a pesca desportiva ou para a pesca profissional.
 
-###### Art. 53.º As licenças de pesca desportiva conferem o direito de pescar em quaisquer águas públicas não reservadas ou concedidas e serão:
+Art. 53.º As licenças de pesca desportiva conferem o direito de pescar em quaisquer águas públicas não reservadas ou concedidas e serão:
 
 a) Licença nacional - a qual dá o direito de pescar em todo o continente e ilhas adjacentes;
 
@@ -570,7 +692,7 @@ d) Licença dominical - 20$00.
 
 § 2.º São isentos de licença de pesca desportiva todos os indivíduos menores de 14 anos, quando acompanhados dos pais ou tutores possuidores de licença de pesca; os indivíduos com comprovada incapacidade permanente de trabalho e sem meios de subsistência poderão requerer uma licença concelhia, que será gratuita.
 
-###### Art. 54.º As licenças de pesca profissional conferem o direito de pescar em quaisquer águas públicas, nas quais não esteja vedado o exercício da pesca profissional, na área de cada uma das comissões regionais de pesca.
+Art. 54.º As licenças de pesca profissional conferem o direito de pescar em quaisquer águas públicas, nas quais não esteja vedado o exercício da pesca profissional, na área de cada uma das comissões regionais de pesca.
 
 § 1.º A taxa a cobrar anualmente pela passagem das licenças profissionais de pesca será de 50$00; no caso das licenças colectivas a taxa será de 100$00, acrescida de 10$00 por cada pescador ou auxiliar, além do arrais.
 
@@ -580,7 +702,7 @@ d) Licença dominical - 20$00.
 
 § 4.º Nos casos em que o exercício da pesca profissional seja colectado em contribuição industrial ou qualquer outra espécie de imposto, as licenças a que este artigo se refere não poderão ser passadas sem que o interessado mostre encontrar-se em dia no seu pagamento.
 
-###### Art. 55.º Nas concessões de pesca, e mediante autorização da Direcção-Geral dos Serviços Florestais e Aquícolas, poderão os concessionários cobrar pelas autorizações dadas a terceiros, para pescar nas zonas concedidas, uma licença especial diária, que não poderá ser superior a 50$00.
+Art. 55.º Nas concessões de pesca, e mediante autorização da Direcção-Geral dos Serviços Florestais e Aquícolas, poderão os concessionários cobrar pelas autorizações dadas a terceiros, para pescar nas zonas concedidas, uma licença especial diária, que não poderá ser superior a 50$00.
 
 § 1.º Esta taxa não poderá ser superior a 25$00 para as autorizações dadas aos pescadores residentes no concelho.
 
@@ -596,15 +718,15 @@ d) Licença dominical - 20$00.
 
 § 7.º As licenças a que se refere este artigo são isentas de selo.
 
-###### Art. 56.º Nas zonas de pesca reservada o custo das licenças especiais e demais condições de obtenção e uso dessas licenças reger-se-ão de harmonia com o que a tal respeito constar dos regulamentos próprios de cada zona, aos quais deverá ser dada a devida publicidade.
+Art. 56.º Nas zonas de pesca reservada o custo das licenças especiais e demais condições de obtenção e uso dessas licenças reger-se-ão de harmonia com o que a tal respeito constar dos regulamentos próprios de cada zona, aos quais deverá ser dada a devida publicidade.
 
-###### Art. 57.º Os pescadores desportivos estrangeiros, não residentes no País, poderão pescar nas concessões e reservas de pesca apenas com as licenças especiais a que se referem os artigos 55.º e 56.º
+Art. 57.º Os pescadores desportivos estrangeiros, não residentes no País, poderão pescar nas concessões e reservas de pesca apenas com as licenças especiais a que se referem os artigos 55.º e 56.º
 
 Não será, no entanto, exigida qualquer licença quando participem em concursos de pesca desportiva devidamente autorizados, nos termos do artigo 11.º
 
 § único. As licenças a que se refere o corpo deste artigo podem ser requisitadas pelo Secretariado Nacional da Informação, Cultura Popular e Turismo ou por agências de turismo legalmente constituídas ou ainda obtidas directamente dos guardas florestais das concessões e zonas de pesca reservada, bastando para o efeito apresentar o respectivo passaporte ou outro documento de identificação.
 
-###### Art. 58.º As licenças de pesca para pescadores nacionais só podem ser passadas nos departamentos dos Serviços Florestais e nas comissões regionais de pesca.
+Art. 58.º As licenças de pesca para pescadores nacionais só podem ser passadas nos departamentos dos Serviços Florestais e nas comissões regionais de pesca.
 
 § 1.º O custo de cada cartão para licença é de 2$50 e a sua emissão é exclusiva da Imprensa Nacional de Lisboa, só os podendo adquirir a Direcção-Geral dos Serviços Florestais e Aquícolas.
 
@@ -632,7 +754,7 @@ b) A categoria de licença requerida e, tratando-se de licenças colectivas para
 
 ### CAPÍTULO V — Responsabilidade penal e civil
 
-###### Art. 59.º A infracção do disposto no artigo 48.º constitui transgressão punível nos termos seguintes:
+Art. 59.º A infracção do disposto no artigo 48.º constitui transgressão punível nos termos seguintes:
 
 1.º A falta de participação à Direcção-Geral dos Serviços Florestais e Aquícolas nos prazos referidos no § 1.º do artigo 48.º é punível com a pena de multa de 500$00 a 5000$00.
 
@@ -642,13 +764,13 @@ b) A categoria de licença requerida e, tratando-se de licenças colectivas para
 
 4.º Se, em qualquer dos casos, tiver havido a morte ou destruição da fauna ictiológica, a multa será de 500$00 a 50000$00.
 
-###### Art. 60.º Durante o exercício da pesca deve o pescador fazer-se acompanhar da respectiva licença, sob pena de incorrer na multa de 50$00. A sua apresentação é sempre obrigatória no prazo máximo de 48 horas.
+Art. 60.º Durante o exercício da pesca deve o pescador fazer-se acompanhar da respectiva licença, sob pena de incorrer na multa de 50$00. A sua apresentação é sempre obrigatória no prazo máximo de 48 horas.
 
-###### Art. 61.º A utilização na pesca de materiais explosivos, químicos ou vegetais, correntes eléctricas, substâncias venenosas ou tóxicas e, de uma maneira geral, susceptíveis de causar a morte ou o atordoamento dos peixes constitui crime punível com a pena de prisão nunca inferior a quatro meses e multa de 100$00 a 10000$00.
+Art. 61.º A utilização na pesca de materiais explosivos, químicos ou vegetais, correntes eléctricas, substâncias venenosas ou tóxicas e, de uma maneira geral, susceptíveis de causar a morte ou o atordoamento dos peixes constitui crime punível com a pena de prisão nunca inferior a quatro meses e multa de 100$00 a 10000$00.
 
 § único. São considerados autores morais dos crimes previstos e punidos por este artigo todos os que acompanharem os seus autores materiais ou que tirarem proveito da sua prática, conhecendo a intenção dos seus agentes ou as circunstâncias do acto.
 
-###### Art. 62.º A violação do disposto no artigo 51.º constitui contravenção punível nos termos seguintes:
+Art. 62.º A violação do disposto no artigo 51.º constitui contravenção punível nos termos seguintes:
 
 1.º A transferência de espécies ictiológicas será punida com as penas de cinco a quinze dias de prisão e multa até 5000$00.
 
@@ -656,27 +778,27 @@ b) A categoria de licença requerida e, tratando-se de licenças colectivas para
 
 § único. Em qualquer caso o infractor responderá pelas perdas e danos apurados.
 
-###### Art. 63.º A destruição voluntária de desovadeiras e viveiros de peixes constitui crime punível com a pena de prisão de um a dois meses e multa de 1000$00 a 5000$00.
+Art. 63.º A destruição voluntária de desovadeiras e viveiros de peixes constitui crime punível com a pena de prisão de um a dois meses e multa de 1000$00 a 5000$00.
 
-###### Art. 64.º A pesca de espécies proibidas ou nas épocas de defeso, designadamente com inobservância do disposto no artigo 29.º e seus parágrafos, constitui crime punível com a pena de prisão de 10 a 40 dias e multa de 100$00 a 5000$00.
+Art. 64.º A pesca de espécies proibidas ou nas épocas de defeso, designadamente com inobservância do disposto no artigo 29.º e seus parágrafos, constitui crime punível com a pena de prisão de 10 a 40 dias e multa de 100$00 a 5000$00.
 
-###### Art. 65.º A pesca com inobservância do disposto no artigo 33.º e seu § único, artigo 34.º e seus §§ 1.º e 2.º, artigo 35.º, artigo 36.º e seu § 1.º, artigo 37.º, artigo 38.º, artigo 39.º, artigo 40.º e seus parágrafos, artigo 41.º, artigo 42.º, artigo 43.º e alíneas a), b), e), f), g), h), i) e j) do artigo 44.º, ou por outros meios proibidos ou susceptíveis de produzir a destruição dos peixes ou de quaisquer seres das comunidades aquícolas, quando não seja aplicável o artigo 61.º, constitui crime punível com a pena de 10 a 30 dias de prisão e multa de 100$00 a 2500$00.
+Art. 65.º A pesca com inobservância do disposto no artigo 33.º e seu § único, artigo 34.º e seus §§ 1.º e 2.º, artigo 35.º, artigo 36.º e seu § 1.º, artigo 37.º, artigo 38.º, artigo 39.º, artigo 40.º e seus parágrafos, artigo 41.º, artigo 42.º, artigo 43.º e alíneas a), b), e), f), g), h), i) e j) do artigo 44.º, ou por outros meios proibidos ou susceptíveis de produzir a destruição dos peixes ou de quaisquer seres das comunidades aquícolas, quando não seja aplicável o artigo 61.º, constitui crime punível com a pena de 10 a 30 dias de prisão e multa de 100$00 a 2500$00.
 
-###### Art. 66.º A infracção do disposto no § 3.º do artigo 34.º, no § 2.º do artigo 36.º e na alínea a) do artigo 47.º constitui transgressão punível com a pena de um a dez dias de prisão e multa de 100$00 a 2000$00.
+Art. 66.º A infracção do disposto no § 3.º do artigo 34.º, no § 2.º do artigo 36.º e na alínea a) do artigo 47.º constitui transgressão punível com a pena de um a dez dias de prisão e multa de 100$00 a 2000$00.
 
-###### Art. 67.º Constitui circunstância agravante das infracções previstas e punidas pelos artigos 61.º, 63.º, 64.º e 65.º o facto de terem sido praticadas de noite ou em águas onde a pesca for proibida, reservada ou objecto de concessão.
+Art. 67.º Constitui circunstância agravante das infracções previstas e punidas pelos artigos 61.º, 63.º, 64.º e 65.º o facto de terem sido praticadas de noite ou em águas onde a pesca for proibida, reservada ou objecto de concessão.
 
 § único. Quando concorra qualquer destas agravantes, as penas previstas no artigo 61.º nunca poderão ser inferiores a seis meses de prisão e a 5000$00 de multa. Nos casos dos artigos 63.º, 64.º e 65.º serão aplicados os máximos das penas.
 
-###### Art. 68.º A venda, aquisição e simples exposição ao público, o transporte, a retenção e o fornecimento em estabelecimentos hoteleiros ou congéneres de peixe fresco durante a época do respectivo defeso, seja qual for a sua proveniência, constituem contravenções puníveis com a pena de prisão de seis a vinte dias e multa de 100$00 a 2500$00.
+Art. 68.º A venda, aquisição e simples exposição ao público, o transporte, a retenção e o fornecimento em estabelecimentos hoteleiros ou congéneres de peixe fresco durante a época do respectivo defeso, seja qual for a sua proveniência, constituem contravenções puníveis com a pena de prisão de seis a vinte dias e multa de 100$00 a 2500$00.
 
-###### Art. 69.º Os factos enumerados no artigo anterior, se tiverem como objecto peixe de dimensões inferiores às legais ou de pesca proibida, constituirão contravenções puníveis com a pena de prisão de 1 a 30 dias e multa de 100$00 a 2500$00.
+Art. 69.º Os factos enumerados no artigo anterior, se tiverem como objecto peixe de dimensões inferiores às legais ou de pesca proibida, constituirão contravenções puníveis com a pena de prisão de 1 a 30 dias e multa de 100$00 a 2500$00.
 
-###### Art. 70.º A infracção do disposto nas alíneas b), c) e d) e § único do artigo 47.º constitui contravenção punível com a pena de prisão de um a dez dias e multa de 100$00 a 500$00.
+Art. 70.º A infracção do disposto nas alíneas b), c) e d) e § único do artigo 47.º constitui contravenção punível com a pena de prisão de um a dez dias e multa de 100$00 a 500$00.
 
-###### Art. 71.º O transporte, a exposição e a venda de salmonídeos com a infracção do disposto no § 2.º do artigo 32.º constituem contravenção punível com a prisão de 1 a 30 dias e multa de 100$00 por cada salmão e 50$00 por cada truta, até ao limite de 2500$00.
+Art. 71.º O transporte, a exposição e a venda de salmonídeos com a infracção do disposto no § 2.º do artigo 32.º constituem contravenção punível com a prisão de 1 a 30 dias e multa de 100$00 por cada salmão e 50$00 por cada truta, até ao limite de 2500$00.
 
-###### Art. 72.º A pesca sem a necessária licença constitui contravenção punível:
+Art. 72.º A pesca sem a necessária licença constitui contravenção punível:
 
 a) Nas águas livres, com a multa de 100$00;
 
@@ -686,37 +808,37 @@ b) Nas águas proibidas, reservadas ou sujeitas a concessão, com a multa de 100
 
 § 2.º São punidas com as penas constantes da alínea b) deste artigo as contravenções ao § único do artigo 5.º e ao § 6.º do artigo 6.º
 
-###### Art. 73.º Serão punidas, como contravenções, com a multa de 50$00 por unidade, até ao limite de 2500$00:
+Art. 73.º Serão punidas, como contravenções, com a multa de 50$00 por unidade, até ao limite de 2500$00:
 
 a) A não devolução às águas dos peixes capturados com dimensões inferiores às determinadas pelo artigo 30.º deste regulamento;
 
 b) A destruição, deslocação ou inutilização de tabuletas de sinalização colocadas ao abrigo ou em cumprimento de disposições legais sobre pesca.
 
-###### Art. 74.º Os clubes ou associações de pescadores e as entidades concessionárias de pesca desportiva lesados com a prática de infracções às disposições legais sobre pesca poderão constituir-se assistentes nos respectivos processos.
+Art. 74.º Os clubes ou associações de pescadores e as entidades concessionárias de pesca desportiva lesados com a prática de infracções às disposições legais sobre pesca poderão constituir-se assistentes nos respectivos processos.
 
-###### Art. 75.º Independentemente das penalidades previstas nos artigos anteriores, os agentes das infracções serão civilmente responsáveis pelos danos que causarem.
+Art. 75.º Independentemente das penalidades previstas nos artigos anteriores, os agentes das infracções serão civilmente responsáveis pelos danos que causarem.
 
-###### Art. 76.º O montante das indemnizações devidas será determinado pela Direcção-Geral dos Serviços Florestais e Aquícolas ou, quando os danos tenham resultado de aproveitamento sujeito a licença ou a autorização, conjuntamente por essa Direcção-Geral e pela entidade que tiver concedido a licença, segundo o critério do § 2.º do artigo 18.º
+Art. 76.º O montante das indemnizações devidas será determinado pela Direcção-Geral dos Serviços Florestais e Aquícolas ou, quando os danos tenham resultado de aproveitamento sujeito a licença ou a autorização, conjuntamente por essa Direcção-Geral e pela entidade que tiver concedido a licença, segundo o critério do § 2.º do artigo 18.º
 
 § único. Da decisão tomada será passada certidão, que terá força de título exequível contra os responsáveis.
 
-###### Art. 77.º Os pais, patrões e tutores serão respectivamente responsáveis pelos danos causados pelos filhos e criados, quando menores, e pelos tutelados.
+Art. 77.º Os pais, patrões e tutores serão respectivamente responsáveis pelos danos causados pelos filhos e criados, quando menores, e pelos tutelados.
 
-###### Art. 78.º Nos crimes por violação de disposições legais sobre pesca e fomento piscícola são sempre puníveis a tentativa e o delito frustrado.
+Art. 78.º Nos crimes por violação de disposições legais sobre pesca e fomento piscícola são sempre puníveis a tentativa e o delito frustrado.
 
 § único. Quando, segundo a lei geral, não constituam tentativa nem delito frustrado, a existência de produtos explosivos, químicos, vegetais, substâncias venenosas, tóxicas ou quaisquer outras susceptíveis de destruir, atordoar ou afugentar o peixe, de redes ou qualquer outra arte de pesca fora do tempo e local permitidos, a bordo das embarcações de pesca, no equipamento ou nas viaturas, na posse ou ao alcance do pescador no acto da pesca, serão punidos como contravenções com a pena de prisão de 1 a 10 dias e a multa de 100$00 a 2000$00, se verificados no percurso da pesca, e com pena de 15 a 30 dias de prisão e de multa de 2000$00 a 5000$00, se o infractor tiver esses materiais sobre si ou ao seu alcance no acto da pesca.
 
-###### Art. 79.º Nas concessões de pesca de águas paradas é proibida a prática de desportos motonáuticos sem autorização da Direcção-Geral dos Serviços Hidráulicos, ouvidas a Direcção-Geral dos Serviços Florestais e Aquícolas e a entidade concessionária, sob pena de prisão de 1 a 15 dias e multa de 500$00 a 2000$00.
+Art. 79.º Nas concessões de pesca de águas paradas é proibida a prática de desportos motonáuticos sem autorização da Direcção-Geral dos Serviços Hidráulicos, ouvidas a Direcção-Geral dos Serviços Florestais e Aquícolas e a entidade concessionária, sob pena de prisão de 1 a 15 dias e multa de 500$00 a 2000$00.
 
 ### CAPÍTULO VI — Disposições gerais
 
-###### Art. 80.º As disposições deste decreto aplicam-se a todas as águas interiores do continente, ressalvadas, quanto aos rios limítrofes, as obrigações internacionais assumidas pelo Estado Português.
+Art. 80.º As disposições deste decreto aplicam-se a todas as águas interiores do continente, ressalvadas, quanto aos rios limítrofes, as obrigações internacionais assumidas pelo Estado Português.
 
-###### Art. 81.º O Governo, mediante proposta dos Secretários de Estado da Agricultura e da Indústria, poderá libertar da sujeição ao regime deste diploma, no todo ou em parte, as bacias hidrográficas dos cursos de água onde o fomento piscícola não seja praticável ou não ofereça interesse.
+Art. 81.º O Governo, mediante proposta dos Secretários de Estado da Agricultura e da Indústria, poderá libertar da sujeição ao regime deste diploma, no todo ou em parte, as bacias hidrográficas dos cursos de água onde o fomento piscícola não seja praticável ou não ofereça interesse.
 
-###### Art. 82.º A pesca nas águas interiores das ilhas adjacentes será regida pelas disposições constantes do presente decreto, devendo no entanto a Direcção-Geral dos Serviços Florestais e Aquícolas elaborar os necessários regulamentos especiais, que entrarão em vigor depois de publicadas as respectivas portarias pela Secretaria de Estado da Agricultura.
+Art. 82.º A pesca nas águas interiores das ilhas adjacentes será regida pelas disposições constantes do presente decreto, devendo no entanto a Direcção-Geral dos Serviços Florestais e Aquícolas elaborar os necessários regulamentos especiais, que entrarão em vigor depois de publicadas as respectivas portarias pela Secretaria de Estado da Agricultura.
 
-###### Art. 83.º O produto das taxas, licenças e multas e quaisquer outros rendimentos resultantes da aplicação deste diploma constituem receita do Fundo de Fomento Florestal e Aquícola, ressalvado o disposto no artigo 55.º e seu § 3.º deste regulamento.
+Art. 83.º O produto das taxas, licenças e multas e quaisquer outros rendimentos resultantes da aplicação deste diploma constituem receita do Fundo de Fomento Florestal e Aquícola, ressalvado o disposto no artigo 55.º e seu § 3.º deste regulamento.
 
 § 1.º Aos autuantes que sejam agentes de fiscalização da pesca e que se tenham revelado especialmente diligentes no desempenho das suas funções poderá ser atribuído prémio até ao valor correspondente a um terço das multas pagas pelos infractores.
 
@@ -724,15 +846,15 @@ b) A destruição, deslocação ou inutilização de tabuletas de sinalização 
 
 § 3.º Nas infracções às disposições deste diploma são perdidos, respectivamente a favor do Estado e dos estabelecimentos de beneficência local, os instrumentos de pesca e o peixe objecto da infracção.
 
-###### Art. 84.º O Secretário de Estado da Agricultura aprovará, por portaria, mediante proposta da Direcção-Geral dos Serviços Florestais e Aquícolas, as instruções necessárias à execução deste decreto e resolverá por despacho as dúvidas que se levantarem na sua execução.
+Art. 84.º O Secretário de Estado da Agricultura aprovará, por portaria, mediante proposta da Direcção-Geral dos Serviços Florestais e Aquícolas, as instruções necessárias à execução deste decreto e resolverá por despacho as dúvidas que se levantarem na sua execução.
 
-###### Art. 85.º O presente decreto entrará em vigor em 1 de Janeiro de 1963.
+Art. 85.º O presente decreto entrará em vigor em 1 de Janeiro de 1963.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 10 de Outubro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - João Mota Pereira de Campos.
 
-## Anexo a que se refere o artigo 29.º do Decreto n.º 44623
+Anexo a que se refere o artigo 29.º do Decreto n.º 44623
 
 Peixes das águas doces de Portugal
 

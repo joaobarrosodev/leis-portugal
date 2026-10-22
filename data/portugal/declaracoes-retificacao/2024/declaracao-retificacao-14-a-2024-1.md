@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/04401/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/14-a/2024/03/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-a-2024-854054383
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-01T00:00:00Z'
+  retrieved_at: '2026-10-22T19:14:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 046e7d225623a1132f7ad8fb3aa92d9bf0a42654f67004b6288ac52379728eff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5ba6eeddb389606cfd3ed2e5a00935101d76090105373221a8dbb5b04e804f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:14:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exame de Condução
-- Formação Profissional
 - Certificação Profissional
 - Curso de Formação
 - Ensino de Condução
 - Escola de Condução
+- Exame de Condução
 - Examinador
+- Formação Profissional
 - Instituto da Mobilidade e dos Transportes
 - Instrutor de Condução
-- Segurança Rodoviária
 - Plataforma Eletrónica
+- Segurança Rodoviária
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/20/2021/03/15/p/dre
@@ -94,16 +94,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1/2024/01/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1/2024/01/02/p/dre
+- type: cites
+  target: pt:dre:159432383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:portaria:1/2024
+  label: Retifica a alínea g) do n.º 2 do artigo 11.º e o n.º 1 do artigo 15.º da Portaria n.º 1/2024, de 2 de janeiro, Diário
+    da República n.º 1/2024, Série I
+  source: null
+  date: '2024-01-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:14:56Z'
   warnings: []
   errors: []
 ---
@@ -129,3 +151,5 @@ deve ler-se:
 "1 - A formação específica de examinadores de condução para as categorias A, C, CE, D e DE pode ser presencial e com recurso a formação à distância em modo síncrono, nos termos do n.º 3 do artigo 10.º"
 
 Secretaria-Geral, 1 de março de 2024. - A Secretária-Geral Adjunta, Fátima Costa Ferreira.
+
+117423176

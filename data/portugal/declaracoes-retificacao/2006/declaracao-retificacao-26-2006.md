@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/26/2006/04/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-2006-661931
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-04-10T00:00:00Z'
+  retrieved_at: '2026-10-22T19:06:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2aac4e7aed4ed4da115c8b09d5cd9497cec4b03fb84c48de27f36a5ab4d634f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5215e63d0b5b604f3d3a7ca6bd6b76bb9f8637185ce989c45d55cf6b45fe78c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:06:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,46 +67,73 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Totobola
-- Totoloto
-- Atribuição de Verba
-- Jogos de Fortuna e Azar
-- Ministério da Educação
-- Euromilhões
-- Lisboa
-- Fundo Regional do Desporto
-- Instituto Português da Juventude
-- Ministério da Cultura
-- Ministério do Trabalho e da Solidariedade Social
-- Instituto do Desporto de Portugal
-- Instituto do Desporto da Região Autónoma da Madeira
-- Santa Casa da Misericórdia
-- LOTO
-- Receita Pública
-- Ministério da Saúde
-- Lotaria Nacional
-- Joker
 - Açores
+- Atribuição de Verba
+- Euromilhões
+- Fundo Regional do Desporto
+- Instituto do Desporto da Região Autónoma da Madeira
+- Instituto do Desporto de Portugal
+- Instituto Português da Juventude
+- Jogos de Fortuna e Azar
+- Joker
+- Lisboa
+- Lotaria Nacional
+- LOTO
+- Ministério da Cultura
+- Ministério da Educação
+- Ministério da Saúde
+- Ministério do Trabalho e da Solidariedade Social
+- Receita Pública
+- Santa Casa da Misericórdia
+- Totobola
 - Totogolo
+- Totoloto
 relationships:
 - type: amended_by
   target: pt:dre:115017488:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:278879:por
+  label: "Alterado, a partir de 29.03.2011, o art. 3º do Dec Lei 56/2006, de 15-Mar, na redacção do presente diploma, pelo\
+    \ DEC LEI.44/2011.24.03.2011.MTSSO, DR.IS [59] de 24.03.2011, nos termos do nº2 do seu art. 7º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-2011-278879
+  date: '2011-03-24'
+- type: amended_by
+  target: pt:dre:146936:por
+  label: "Alterado o art. 3º do Dec Lei 56/2006, de 15-Mar, na redacção da presente declaração, pelo DEC LEI.106/2011.21.10.2011.MS,\
+    \ DR.IS [203] de 21.10.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/106-2011-146936
+  date: '2011-10-21'
+- type: amended_by
+  target: pt:dre:115017488:por
+  label: Alterado o art. 3.º do Dec Lei 56/2006 de 15-mar, retificado pela presente declaração, pelo(a) Decreto-Lei n.º 23/2018
+    - Diário da República n.º 70/2018, Série I de 2018-04-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2018-115017488
+  date: '2018-04-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/56/2006/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/56/2006/03/15/p/dre
+- type: cites
+  target: pt:dre:667323:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:56/2006
+  label: "Rectifica o Decreto-Lei n.º 56/2006, de 15 de Março, DR.IS-A [53]\0\0"
+  source: null
+  date: '2006-03-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:06:11Z'
   warnings: []
   errors: []
 ---

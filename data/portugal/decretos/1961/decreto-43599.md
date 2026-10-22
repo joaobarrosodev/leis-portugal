@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43599-1961-558261
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-04-14T00:00:00Z'
+  retrieved_at: '2026-10-22T19:23:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6ad1c1f6bec6ed2c3bcb88c698ecd1dbff50219b2988dd4863ca98abf617839
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66b4ad5f5fcea89b0ba0915b0ad354a0cad7ab3f1904ecaff5d70a2645f90530
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:23:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:419990:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:23:08Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +91,15 @@ Não tendo ainda sido dado cumprimento ao disposto no artigo 63.º do [Decreto-L
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º e n.º 3.º do artigo 150.º e seu § 1.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Só poderão matricular-se no curso a que se refere o artigo 40.º do [Decreto-Lei n.º 35885](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35885-1946-419990), de 30 de Setembro de 1946, os diplomados com um curso superior com média final não inferior a 12 valores ou que tenham, pelo menos, dois anos de efectivo serviço nos quadros do funcionalismo público ultramarino ou superior e o curso de altos estudos ultramarinos.
+Artigo 1.º Só poderão matricular-se no curso a que se refere o artigo 40.º do [Decreto-Lei n.º 35885](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35885-1946-419990), de 30 de Setembro de 1946, os diplomados com um curso superior com média final não inferior a 12 valores ou que tenham, pelo menos, dois anos de efectivo serviço nos quadros do funcionalismo público ultramarino ou superior e o curso de altos estudos ultramarinos.
 
-###### Art. 2.º A aprovação nos exames finais do curso a que se refere o artigo anterior será certificada por diploma de licenciatura. Poderão requerer o diploma de licenciatura os indivíduos habilitados com um curso superior e o curso de altos estudos ultramarinos.
+Art. 2.º A aprovação nos exames finais do curso a que se refere o artigo anterior será certificada por diploma de licenciatura. Poderão requerer o diploma de licenciatura os indivíduos habilitados com um curso superior e o curso de altos estudos ultramarinos.
 
-###### Art. 3.º Os indivíduos portadores do diploma de licenciatura podem ser admitidos a doutoramento desde que tenham classificação final não inferior a 16 valores. Às provas de doutoramento aplicar-se-á o regulamento da Faculdade de Direito. Poderão requerer o diploma de doutoramento os indivíduos aprovados nos concursos de provas públicas regulados pelo Decreto n.º 30143, de 5 de Fevereiro de 1947.
+Art. 3.º Os indivíduos portadores do diploma de licenciatura podem ser admitidos a doutoramento desde que tenham classificação final não inferior a 16 valores. Às provas de doutoramento aplicar-se-á o regulamento da Faculdade de Direito. Poderão requerer o diploma de doutoramento os indivíduos aprovados nos concursos de provas públicas regulados pelo Decreto n.º 30143, de 5 de Fevereiro de 1947.
 
-###### Art. 4.º Os indivíduos habilitados com o doutoramento ou licenciatura a que se refere o presente diploma têm sempre, e respectivamente, preferência absoluta nos concursos para os quadros ultramarinos e, no caso de não terem invocado a preferência para tal fim, poderão invocá-la uma vez para promoção nos quadros a que pertencerem.
+Art. 4.º Os indivíduos habilitados com o doutoramento ou licenciatura a que se refere o presente diploma têm sempre, e respectivamente, preferência absoluta nos concursos para os quadros ultramarinos e, no caso de não terem invocado a preferência para tal fim, poderão invocá-la uma vez para promoção nos quadros a que pertencerem.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da Republica, 14 de Abril de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

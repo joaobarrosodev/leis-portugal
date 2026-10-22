@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/35/2026/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/35-2026-1060895759
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T18:33:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9381e68ce03e4b69c849b6d57ff1967ff35588af85390985d1734087642c800e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f7f6a037ccc1a898d26a34295b5da69b791373d8276bf97597bde037ff5ec33
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:33:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,14 +70,14 @@ subjects:
 - Alienação de Imóveis
 - Conselho de Administração
 - Conselho de Ministros
-- Estamo-participações Imobiliárias
-- Imprensa Nacional-Casa da Moeda
-- Ministro das Finanças
-- Imprensa Nacional de Lisboa
-- Permuta de Imóveis
 - Ensino Superior
-- Universidade Aberta
+- Estamo-participações Imobiliárias
+- Imprensa Nacional de Lisboa
+- Imprensa Nacional-Casa da Moeda
 - Ministro da Educação Ciência e Inovação
+- Ministro das Finanças
+- Permuta de Imóveis
+- Universidade Aberta
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/13-a/2025/03/10/p/dre
@@ -103,16 +103,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/57-i/2024/03/28/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/57-i/2024/03/28/p/dre
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:858093999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:910323298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:33:39Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +145,7 @@ validation:
 
 Na sequência da dissolução do Subfundo ImoResidências, o Estado Português, através da então Direção-Geral do Tesouro e Finanças, ora designada Entidade do Tesouro e Finanças, procedeu à aquisição das unidades de participação ao Fundo de Estabilização Financeira da Segurança Social.
 
-Através da [Resolução do Conselho de Ministros n.º 57-I/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/57-i-2024-858093999), de 28 de março, o Governo determinou que o prédio urbano sito na Avenida 5 de Outubro, n.<sup>os</sup>107 a 109, em Lisboa, passasse a integrar o domínio privado do Estado, destinando-se à criação de alojamentos para estudantes do ensino superior, a realizar pela Construção Pública, E. P. E. Mais aí se previa que a posição no Contrato-Programa de Financiamento n.º 97_01/CO2-I06/2022, celebrado com a Agência Nacional ERASMUS+ Educação e Formação, ao abrigo do investimento RE-C02-i06 - «Alojamento estudantil a custos acessíveis», no âmbito do Plano de Recuperação e Resiliência, para a construção da residência, seria cedida pela ESTAMO - Participações Imobiliárias, S. A., à Construção Pública, E. P. E.
+Através da [Resolução do Conselho de Ministros n.º 57-I/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/57-i-2024-858093999), de 28 de março, o Governo determinou que o prédio urbano sito na Avenida 5 de Outubro, n.os107 a 109, em Lisboa, passasse a integrar o domínio privado do Estado, destinando-se à criação de alojamentos para estudantes do ensino superior, a realizar pela Construção Pública, E. P. E. Mais aí se previa que a posição no Contrato-Programa de Financiamento n.º 97_01/CO2-I06/2022, celebrado com a Agência Nacional ERASMUS+ Educação e Formação, ao abrigo do investimento RE-C02-i06 - «Alojamento estudantil a custos acessíveis», no âmbito do Plano de Recuperação e Resiliência, para a construção da residência, seria cedida pela ESTAMO - Participações Imobiliárias, S. A., à Construção Pública, E. P. E.
 
 Contudo, em face da impossibilidade de cumprimento dos prazos fixados no referido contrato para a conclusão da obra, bem como pela complexidade verificada no processo de conversão do imóvel, procedeu-se, em dezembro de 2024, à sua revogação, estando o imóvel devoluto e sem qualquer utilização desde então.
 
@@ -135,9 +159,9 @@ Por outro lado, sendo intenção da Imprensa Nacional-Casa da Moeda, S. A., proc
 
 Assim:
 
-Nos termos da alínea e) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, do n.º 4 do artigo 32.º e do artigo 107.º do [Decreto-Lei n.º 280/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2007-637402), de 7 de agosto, dos n.<sup>os</sup>1 e 3 do artigo 119.º do [Decreto-Lei n.º 13-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), de 10 de março, do artigo 33.º do [Decreto-Lei n.º 87-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2025-926483751), de 25 de julho, dos artigos 44.º a 46.º do Código do Procedimento Administrativo, aprovado em anexo ao [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos da alínea e) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, do n.º 4 do artigo 32.º e do artigo 107.º do [Decreto-Lei n.º 280/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2007-637402), de 7 de agosto, dos n.os1 e 3 do artigo 119.º do [Decreto-Lei n.º 13-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), de 10 de março, do artigo 33.º do [Decreto-Lei n.º 87-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2025-926483751), de 25 de julho, dos artigos 44.º a 46.º do Código do Procedimento Administrativo, aprovado em anexo ao [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Autorizar a ESTAMO - Participações Imobiliárias, S. A. (ESTAMO, S. A.), em nome do Estado Português, a promover as operações imobiliárias necessárias para a alienação do prédio urbano sito na Avenida 5 de Outubro, n.<sup>os</sup>107 a 109, em Lisboa, tornejando para a Avenida Elias Garcia, inscrito na matriz predial urbana sob o artigo 1655, da freguesia das Avenidas Novas, e descrito na Conservatória do Registo Predial de Lisboa sob o n.º 4994, da freguesia de São Sebastião da Pedreira, à Universidade Aberta (UAb), para instalação da sua sede.
+1 - Autorizar a ESTAMO - Participações Imobiliárias, S. A. (ESTAMO, S. A.), em nome do Estado Português, a promover as operações imobiliárias necessárias para a alienação do prédio urbano sito na Avenida 5 de Outubro, n.os107 a 109, em Lisboa, tornejando para a Avenida Elias Garcia, inscrito na matriz predial urbana sob o artigo 1655, da freguesia das Avenidas Novas, e descrito na Conservatória do Registo Predial de Lisboa sob o n.º 4994, da freguesia de São Sebastião da Pedreira, à Universidade Aberta (UAb), para instalação da sua sede.
 
 2 - Autorizar a UAb a adquirir o imóvel referido no número anterior.
 
@@ -147,9 +171,9 @@ Nos termos da alínea e) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 197/99](
 
 5 - Autorizar a UAb a transmitir em permuta ao Estado Português os seguintes imóveis, livres de ónus ou encargos, com o valor global de € 18 383 746,43:
 
-a) Palácio Ceia, sito na Rua da Escola Politécnica, n.<sup>os</sup>139 a 155, em Lisboa, inscrito na matriz predial urbana sob o artigo U 272, da freguesia de Santo António, e descrito na Conservatória do Registo Predial de Lisboa sob o n.º 171, da freguesia de São Mamede, pelo valor de € 13 108 571,43, com entrega livre de pessoas e bens no prazo máximo de dois anos a contar da data de celebração da escritura pública;
+a) Palácio Ceia, sito na Rua da Escola Politécnica, n.os139 a 155, em Lisboa, inscrito na matriz predial urbana sob o artigo U 272, da freguesia de Santo António, e descrito na Conservatória do Registo Predial de Lisboa sob o n.º 171, da freguesia de São Mamede, pelo valor de € 13 108 571,43, com entrega livre de pessoas e bens no prazo máximo de dois anos a contar da data de celebração da escritura pública;
 
-b) Prédio urbano sito na Rua da Imprensa Nacional, n.<sup>os</sup>98 a 102, em Lisboa, inscrito na matriz predial urbana sob o artigo U 1376, da freguesia das Mercês, e descrito na Conservatória do Registo Predial de Lisboa sob o n.º 103, da freguesia de Santo António, pelo valor de € 5 275 175,00, com entrega livre de pessoas e bens na data de celebração da escritura pública.
+b) Prédio urbano sito na Rua da Imprensa Nacional, n.os98 a 102, em Lisboa, inscrito na matriz predial urbana sob o artigo U 1376, da freguesia das Mercês, e descrito na Conservatória do Registo Predial de Lisboa sob o n.º 103, da freguesia de Santo António, pelo valor de € 5 275 175,00, com entrega livre de pessoas e bens na data de celebração da escritura pública.
 
 6 - Estabelecer que os encargos decorrentes das operações referidas nos números anteriores são suportados através da permuta de imóveis e, no remanescente, no valor de € 5 318 053,57, por verba inscrita ou a inscrever no orçamento da UAb.
 
@@ -166,3 +190,5 @@ b) Prédio urbano sito na Rua da Imprensa Nacional, n.<sup>os</sup>98 a 102, em 
 12 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 22 de janeiro de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119947818

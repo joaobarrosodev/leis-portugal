@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45928-1964-537653
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-04-26T00:00:00Z'
+  retrieved_at: '2026-10-22T19:42:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72c971f98126f49e2a7576d4179ff8a9ceac9f7a37f659786a2c02ee80c46cb9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 993039c5de777a98b290fa783b48c296441aa176ff57c794ba6d655a78f3b692
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:42:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,20 @@ relationships:
   target: pt:dre:487314:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:503784:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:42:05Z'
   warnings: []
   errors: []
 ---
@@ -100,21 +104,21 @@ Ouvidos o Conselho Ultramarino e os Governos das províncias ultramarinas;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São autorizados os Governos das províncias a criar um fundo designado Fundo de Acção Social no Trabalho.
+Artigo 1.º São autorizados os Governos das províncias a criar um fundo designado Fundo de Acção Social no Trabalho.
 
 § único. Os Fundos de Acção Social no Trabalho já criados em Angola e Moçambique deverão ser harmonizados em conformidade com o que se estabelece no presente decreto.
 
-###### Art. 2.º O Fundo funcionará adstrito à presidência dos Institutos do Trabalho, Previdência e Acção Social e será gerido por uma comissão administrativa com a seguinte constituição:
+Art. 2.º O Fundo funcionará adstrito à presidência dos Institutos do Trabalho, Previdência e Acção Social e será gerido por uma comissão administrativa com a seguinte constituição:
 
 Nas províncias de governo-geral:
 
-**O presidente do Instituto, que será o presidente;**
+O presidente do Instituto, que será o presidente;
 
 O inspector-chefe da Inspecção do Trabalho e Previdência;
 
 Um director provincial dos serviços de Fazenda e contabilidade de 3.ª classe a designar por despacho do governador-geral;
 
-**O chefe dos Serviços de Acção Social do Instituto do Trabalho;**
+O chefe dos Serviços de Acção Social do Instituto do Trabalho;
 
 Um representante da Direcção dos Serviços de Saúde e Higiene;
 
@@ -126,11 +130,11 @@ O assistente de 1.ª classe do Instituto do Trabalho, que servirá de secretári
 
 Nas províncias de governo simples:
 
-**O presidente do Instituto, que servirá de presidente;**
+O presidente do Instituto, que servirá de presidente;
 
 O inspector-chefe da Inspecção do Trabalho e Previdência;
 
-**O chefe dos Serviços de Acção Social do Instituto do Trabalho;**
+O chefe dos Serviços de Acção Social do Instituto do Trabalho;
 
 O delegado de saúde ou, na sua falta, um médico dos serviços de saúde;
 
@@ -144,9 +148,9 @@ O assistente de 1.ª classe ou, na sua falta, um funcionário do Instituto do Tr
 
 § único. Enquanto as entidades empregadoras e os trabalhadores não estiverem profissionalmente organizados, as primeiras serão representadas na comissão administrativa do Fundo de Acção Social por um membro das associações industriais, comerciais e agrícolas, escolhido de uma lista tríplice proposta conjuntamente pelas mesmas associações ao Governo da província; o representante dos trabalhadores será nomeado pelo Governo da província na pessoa de missionário católico proposto pelo respectivo prelado da diocese ou pelo vigário ou prefeito apostólico da circunscrição missionária, conforme os casos.
 
-###### Art. 3.º O Fundo é constituído por receitas próprias destinadas a custear os encargos com a acção social a desenvolver juntos dos trabalhadores rurais e por valores consignados aos fins previstos no Código do Trabalho Rural, incluindo as importâncias depositadas para despesas de repatriação.
+Art. 3.º O Fundo é constituído por receitas próprias destinadas a custear os encargos com a acção social a desenvolver juntos dos trabalhadores rurais e por valores consignados aos fins previstos no Código do Trabalho Rural, incluindo as importâncias depositadas para despesas de repatriação.
 
-###### Art. 4.º São receitas próprias do Fundo:
+Art. 4.º São receitas próprias do Fundo:
 
 a) O produto das percentagens, taxas, multas e outros rendimentos que vierem a ser fixados com tal destino, incluindo a importância das cauções perdidas nos termos do Código do Trabalho Rural;
 
@@ -164,7 +168,7 @@ f) O remanescente das receitas depositadas à ordem do Fundo, nos termos do arti
 
 § 2.º A Delegação Comercial do Ultramar promoverá a remessa urgente a cada uma das províncias ultramarinas do respectivo inventário dos bens adquiridos e das importâncias aplicadas e, bem assim, acertará com cada uma sobre o modo de contabilização e liquidação dos correspondentes rendimentos.
 
-###### Art. 5.º Quando os respectivos governos o julguem conveniente, podem determinar que passem a constituir valores consignados, a depositar à ordem do Fundo e sujeitos à fiscalização da comissão administrativa:
+Art. 5.º Quando os respectivos governos o julguem conveniente, podem determinar que passem a constituir valores consignados, a depositar à ordem do Fundo e sujeitos à fiscalização da comissão administrativa:
 
 a) Os espólios dos trabalhadores falecidos;
 
@@ -174,21 +178,21 @@ c) As importâncias das percentagens sobre os salários dos trabalhadores destin
 
 d) Os saldos de salários.
 
-###### Art. 6.º Para garantia das despesas de repatriação dentro da mesma província ou para província diferente, desde o local do trabalho até à residência do trabalhador, os governos-gerais e de província fixarão uma percentagem única sobre a quantia certa em dinheiro paga ao trabalhador conforme a alínea a) do artigo 77.º do Código do Trabalho Rural, a qual será depositada nos termos da alínea c) do artigo 5.º, conjuntamente com a parte cativa do salário, de harmonia com a alínea b) do artigo 80.º do mesmo código.
+Art. 6.º Para garantia das despesas de repatriação dentro da mesma província ou para província diferente, desde o local do trabalho até à residência do trabalhador, os governos-gerais e de província fixarão uma percentagem única sobre a quantia certa em dinheiro paga ao trabalhador conforme a alínea a) do artigo 77.º do Código do Trabalho Rural, a qual será depositada nos termos da alínea c) do artigo 5.º, conjuntamente com a parte cativa do salário, de harmonia com a alínea b) do artigo 80.º do mesmo código.
 
 § 1.º No caso de a importância do depósito, apurada no termo do contrato do trabalhador, ser inferior às despesas da repatriação, o patrão é obrigado ao pagamento da diferença até à liquidação integral dos respectivos encargos, sendo-lhe porém restituído o excedente da importância em depósito se o seu montante for superior às despesas efectuadas.
 
 § 2.º A percentagem a depositar poderá ser substituída por garantia bancária numa importância correspondente aos encargos da repatriação.
 
-###### Art. 7.º O Fundo disporá de autonomia administrativa e financeira e processará a gerência das suas receitas através de um orçamento anual aprovado por portaria do governador-geral ou de província, sendo a comissão administrativa responsável pela sua gestão perante o tribunal administrativo, ao qual submeterá as respectivas contas de gerência anual, para efeitos de julgamento até 30 de Março de cada ano.
+Art. 7.º O Fundo disporá de autonomia administrativa e financeira e processará a gerência das suas receitas através de um orçamento anual aprovado por portaria do governador-geral ou de província, sendo a comissão administrativa responsável pela sua gestão perante o tribunal administrativo, ao qual submeterá as respectivas contas de gerência anual, para efeitos de julgamento até 30 de Março de cada ano.
 
 § único. Sempre que se verifique o disposto no artigo 5.º, serão inscritas na tabela de despesa do Fundo as verbas correspondentes às importâncias dos valores consignados a fim de serem restituídos aos interessados quando reclamados em forma legal.
 
-###### Art. 8.º Junto das delegações e subdelegações do Instituto do Trabalho, Previdência e Acção Social poderão ser criadas delegações do Fundo de Acção Social no Trabalho com a composição e a competência que os governos-gerais e de província entendam dever atribuir-lhes.
+Art. 8.º Junto das delegações e subdelegações do Instituto do Trabalho, Previdência e Acção Social poderão ser criadas delegações do Fundo de Acção Social no Trabalho com a composição e a competência que os governos-gerais e de província entendam dever atribuir-lhes.
 
-###### Art. 9.º Os governadores-gerais e de província regulamentarão, na medida das atribuições estabelecidas no presente decreto, a organização e o funcionamento do Fundo de Acção Social no Trabalho.
+Art. 9.º Os governadores-gerais e de província regulamentarão, na medida das atribuições estabelecidas no presente decreto, a organização e o funcionamento do Fundo de Acção Social no Trabalho.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Setembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

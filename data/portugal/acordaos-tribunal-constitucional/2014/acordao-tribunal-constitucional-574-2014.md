@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/09/16900/0467104691.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/574/2014/09/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/574-2014-56396778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-09-03T00:00:00Z'
+  retrieved_at: '2026-10-22T18:24:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28d42133a9bd0fb88a33f9aaf12b738b94fc1a68d36aef7e04f49ee64a66eb7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6100a1e2c711ba18a95da31ac3369190b75da93c353fd6779a3c74e3ad4f94e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:24:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,55 +68,55 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Parlamentar
+- Açores
+- Administração Pública
+- Assembleia da República
+- Assembleia Legislativa
+- Assessor Militar
 - Cargos Políticos
-- Pessoal Dirigente
-- Procurador Geral da República
-- Fundação
-- Governo Regional
 - Conselho Superior da Magistratura
 - Conselho Superior dos Tribunais Administrativos e Fiscais
 - Eleito Local
 - Empresa Pública
-- Administração Pública
-- Sistema Retributivo
-- Presidência da República
-- Presidente da República
-- Representante da República para a Região Autónoma dos Açores
+- Força Paramilitar
+- Forças Armadas
+- Funcionário Público
+- Fundação
 - Gestor Público
-- Primeiro-ministro
-- Remuneração Acessória
+- GNR
+- Governo
+- Governo Regional
 - Inconstitucionalidade
 - Instituto Público
 - Interpretação do Direito
 - Juiz de Paz
-- Tribunal de Contas
-- Assembleia Legislativa
+- Juiz Militar
+- Madeira.região Autónoma
 - Magistrado do Ministério Público
 - Magistrado Judicial
 - Membros do Governo
-- GNR
-- Juiz Militar
-- Forças Armadas
-- Assembleia da República
+- Militar
+- Parlamentar
+- Pessoal Dirigente
 - Pessoal Disponivel
 - Política Salarial
 - Pré-aposentação
+- Presidência da República
 - Presidente
 - Presidente da Assembleia da República
-- Supremo Tribunal de Justiça
-- Assessor Militar
-- Madeira.região Autónoma
+- Presidente da República
+- Primeiro-ministro
+- Procurador Geral da República
 - Remuneração
+- Remuneração Acessória
 - Representante da República para a Região Autónoma da Madeira
+- Representante da República para a Região Autónoma dos Açores
 - Reserva
-- Militar
-- Força Paramilitar
-- Funcionário Público
-- Governo
-- Açores
+- Sistema Retributivo
 - Supremo Tribunal Administrativo
+- Supremo Tribunal de Justiça
 - Tribunal Administrativo e Fiscal
+- Tribunal de Contas
 - Vice-presidente
 relationships:
 - type: cites
@@ -162,13 +162,13 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:24:33Z'
   warnings: []
   errors: []
 ---
@@ -209,7 +209,7 @@ As normas em causa são suscetíveis de violar princípios e normas constitucion
 
 O presente pedido não visa pôr em causa a necessidade e urgência da adoção de medidas que garantam o cumprimento das obrigações internacionais assumidas pelo Estado Português mas, tão-só, assegurar que, em face da existência das dúvidas de constitucionalidade mencionadas no número anterior, tais medidas passam o crivo da conformidade com a Lei Fundamental, de modo a instilar a necessária confiança nos agentes económicos e sociais destinatários destas normas e preservar a credibilidade externa do País.»
 
-**O Presidente da República requer o pedido de fiscalização de constitucionalidade nos seguintes termos:**
+O Presidente da República requer o pedido de fiscalização de constitucionalidade nos seguintes termos:
 
 «Ante o exposto, e não deixando de ponderar a solicitação do Governo nesta matéria, requeiro, nos termos do nº 1 do artigo 278º da Constituição, bem como do nº 1 do artigo 51º e nº 1 do artigo 57º da Lei nº 28/82, de 15 de novembro, a fiscalização preventiva da constitucionalidade das referidas normas do artigo 2º e do artigo 4º do Decreto nº 264/XII da Assembleia da República, por violação dos artigos 2º e 13º da Constituição.»
 

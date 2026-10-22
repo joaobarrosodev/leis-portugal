@@ -30,7 +30,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/02/02500/0001400026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -52,18 +52,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/4/2020/02/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/4-2020-128865464
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-02-05T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9eb81c36ec23394279c0db02c7503b038ce484db95b9f1f7d3f96d1b26a69f74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 208986737964c932f28bd6a9dbc208bc960a3b727069d71306ff0277362098d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,12 +71,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção Civil
+- Câmara Municipal
 - Inconstitucionalidade
 - Interpretação do Direito
 - Odemira
 - Prestação de Serviços
-- Câmara Municipal
+- Proteção Civil
 - Regulamento
 - Taxa
 relationships:
@@ -116,16 +116,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/73/2013/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/73/2013/09/03/p/dre
+- type: cites
+  target: pt:dre:114555190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116698945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629393:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:04Z'
   warnings: []
   errors: []
 ---
@@ -409,3 +449,5 @@ III - Decisão
 Pelo exposto, o Tribunal Constitucional declara, com força obrigatória geral, a inconstitucionalidade da norma que determina o «pagamento da taxa municipal de proteção civil devida pela prestação de serviços no domínio da prevenção de riscos e da proteção civil» pelas «entidades gestoras de infraestruturas instaladas, total ou parcialmente, no Município de Odemira, designadamente as rodoviárias, ferroviárias e de eletricidade» que «pode ser agravada até 50 % face ao valor base, por deliberação fundamentada da Assembleia Municipal de Odemira, sob proposta da Câmara Municipal de Odemira, designadamente quando se trate de pessoas singulares ou coletivas que exerçam uma ação ou atividade de acrescido risco», que resulta dos artigos 2.º, n.º 1, 3.º, n.º 2, e 4.º, n.º 2, do RTMPC de Odemira.
 
 Lisboa, 8 de janeiro de 2020. - Maria de Fátima Mata-Mouros - Gonçalo Almeida Ribeiro - Lino Rodrigues Ribeiro - Joana Fernandes Costa - Mariana Canotilho - Claudio Monteiro (com a mesma declaração que fiz no Acórdão 332/2018) - Maria José Rangel de Mesquita - Pedro Machete - João Pedro Caupers - Fernando Vaz Ventura - José Teles Pereira - Manuel da Costa Andrade.
+
+112969157

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43818-1961-172489
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-07-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:24:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f58a9592608a9d771a3d6f658f8a7e61f722d3c851d51729946731c8bcdecee2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3043dbed9c22b97cfd724dd223aac5759fb786b06959541d9ffccef83fb77c42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:24:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:24:49Z'
   warnings: []
   errors: []
 ---
@@ -95,11 +95,11 @@ Atendendo ao que foi exposto e à urgência solicitada pelo Governo-Geral de Ang
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. Ao artigo 8.º do Diploma Legislativo Ministerial n.º 24, de 9 de Maio de 1961, é acrescentado o seguinte:
+Artigo único. Ao artigo 8.º do Diploma Legislativo Ministerial n.º 24, de 9 de Maio de 1961, é acrescentado o seguinte:
 
 § único. Sempre que o produtor em cuja propriedade actuar o Corpo de Trabalho e Recuperação Económica colabore com os seus próprios meios na colheita, ser-lhe-á atribuída uma percentagem desta em função da ajuda prestada. A percentagem aqui referida será fixada para cada caso pelo governador-geral de Angola, ouvidos o governador do respectivo distrito, o Corpo de Trabalho e Recuperação Económica e a Junta de Exportação do Café.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Julho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

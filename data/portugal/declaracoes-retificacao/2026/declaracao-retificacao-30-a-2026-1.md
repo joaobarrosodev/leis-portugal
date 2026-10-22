@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/08/15401/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/30-a/2026/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/30-a-2026-1155738224
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-11T00:00:00Z'
+  retrieved_at: '2026-10-22T18:49:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0348b7246b9c7d86e66bcc41880803f8b55b5999ee06246ff40b414f3c4f29c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a52834869d9435de1beff23311f1c57bbd9b0547f7925b095c8d8b4a45e37acd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:49:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Condições de Higiene e Segurança no Trabalho
 - Contrato Coletivo de Trabalho
-- Regime Laboral
+- Contrato de Trabalho
 - Convenção Coletiva de Trabalho
 - Indústria Hoteleira
-- Contrato de Trabalho
-- Condições de Higiene e Segurança no Trabalho
+- Regime Laboral
 - Regulamento de Extensão
 - Remuneração
 - Sitese
@@ -93,16 +93,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/263/2026/06/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/263/2026/06/12/p/dre
+- type: cites
+  target: pt:dre:1128419934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1131612583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:portaria:263/2026
+  label: Retifica o artigo 1.º da Portaria n.º 263/2026/1, de 12 de junho, Diário da República n.º 112/2026, Série I de 2026-06-12
+  source: null
+  date: '2026-06-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:49:47Z'
   warnings: []
   errors: []
 ---
@@ -134,3 +163,5 @@ b) [...]
 3 - A presente portaria não é aplicável a trabalhadores filiados em sindicatos representados pela FESAHT - Federação dos Sindicatos da Agricultura, Alimentação, Bebidas, Hotelaria e Turismo de Portugal nem a empregadores filiados na Associação dos Industriais Hoteleiros e Similares do Algarve - AIHSA, na APHORT - Associação Portuguesa de Hotelaria, Restauração e Turismo e na Associação dos Industriais Hoteleiros, da Associação da Hotelaria, Restauração e Similares de Portugal (AHRESP).»
 
 10 de agosto de 2026. - O Secretário-Geral Adjunto, Joaquim Cruz.
+
+119949314

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 26/1998, 1º Suplemento, Série I-A de 1998-01-31
   number: '26'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 418-(2) a 418-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/01/026a01/00020002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/1-a/1998/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-a-1998-540375
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-01-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:50:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff61377c498e691b18f9acd9ea89a797a650e9474ef4716c35b6264e97ab1655
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 043be291966e76310c9bd3e093ce2e88665cba2a0d9067971c07ef2c7df66ead
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:50:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,43 +66,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Alcoolismo
-- Contrato de Seguro
-- Processo Penal
+- Brigada de Trânsito
+- Câmara Municipal
 - Carta de Condução
-- Exame de Condução
 - Código da Estrada
-- Multa
+- Companhia de Seguros
 - Contra-ordenação
+- Contrato de Seguro
 - Definição de Competências
 - Direcção Geral de Viação
+- Direito Penal
+- Documentos do Veículo
+- Droga
+- Exame de Condução
 - Fiscalização
 - Fiscalização Rodoviária
-- Brigada de Trânsito
+- GNR
 - Ilícito de MERA Ordenação Social
 - Inspecção de Veículos
 - Junta Autónoma das Estradas
-- Veículo
 - Limite de Velocidade
-- Documentos do Veículo
-- GNR
-- Segurança Rodoviária
-- Droga
-- Sanção Penal
+- Multa
 - Polícia Municipal
-- Processo de Ilícito de MERA Ordenação Social
-- Direito Penal
-- Câmara Municipal
 - Poluição
 - Poluição Sonora
+- Processo de Ilícito de MERA Ordenação Social
+- Processo Penal
+- PSP
 - Responsabilidade Civil
 - Responsabilidade Civil Automóvel
-- Companhia de Seguros
+- Sanção Penal
+- Segurança Rodoviária
 - Seguro Automóvel
 - Sinalização
 - Taxa
 - Trânsito
+- Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
@@ -112,16 +112,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/2/1998/01/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/2/1998/01/03/p/dre
+- type: cites
+  target: pt:dre:223835:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:50:20Z'
   warnings: []
   errors: []
 ---

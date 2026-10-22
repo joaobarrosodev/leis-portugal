@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/42815-1960-276869
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-01-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:17:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 141b73ef9f1c1ef1159cb0ebe1041c71347c4ef29064a7c84aa44c2e84f5a8b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 799c5c7d80b1ca89fc9d6ba6878c90a34965461edf8cfdacb5be3e21ce99593b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:17:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:340058:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:17:09Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +101,7 @@ Nestes termos, ouvidos o Conselho Ultramarino e os governos das províncias;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O recenseamento geral da população de 1960 nas províncias ultramarinas deverá abranger todos os indivíduos nacionais ou estrangeiros presentes nos territórios das províncias respectivas no momento censuário e os que deles se encontrem temporàriamente ausentes, ficando expressamente incluídos:
+Artigo 1.º O recenseamento geral da população de 1960 nas províncias ultramarinas deverá abranger todos os indivíduos nacionais ou estrangeiros presentes nos territórios das províncias respectivas no momento censuário e os que deles se encontrem temporàriamente ausentes, ficando expressamente incluídos:
 
 a) Os tripulantes e passageiros das embarcações que no momento censuário estejam dentro das águas territoriais das províncias respectivas;
 
@@ -105,55 +109,55 @@ b) Os tripulantes dos navios cujos portos de armamento pertençam à província 
 
 c) Os membros das forças armadas que façam parte das guarnições normais das respectivas províncias.
 
-###### Art. 2.º O recenseamento será levado a efeito durante o 2.º semestre do ano de 1960, em data escolhida em função das condições locais e de preferência no último mês do ano.
+Art. 2.º O recenseamento será levado a efeito durante o 2.º semestre do ano de 1960, em data escolhida em função das condições locais e de preferência no último mês do ano.
 
-###### Art. 3.º O recenseamento será simultâneo.
+Art. 3.º O recenseamento será simultâneo.
 
 § único. Sempre que para parte das populações a recensear não seja possível assegurar a simultaneidade da notação, deverá conduzir-se o censo de forma a fazer coincidir a notação de menor duração com o período médio da ou das mais demoradas.
 
-###### Art. 4.º Os trabalhos do recenseamento serão em cada província assegurados, nos termos do artigo 6.º do Decreto-Lei n.º 41203, de 20 de Julho de 1957, pelos respectivos serviços de estatística, nos quais poderá ser criado, a título temporário, um serviço individualizado especialmente incumbido da preparação, direcção e realização das várias fases da operação censuária.
+Art. 4.º Os trabalhos do recenseamento serão em cada província assegurados, nos termos do artigo 6.º do Decreto-Lei n.º 41203, de 20 de Julho de 1957, pelos respectivos serviços de estatística, nos quais poderá ser criado, a título temporário, um serviço individualizado especialmente incumbido da preparação, direcção e realização das várias fases da operação censuária.
 
-###### Art. 5.º Para facilitar e completar a acção do serviço de recenseamento deverá ser assegurada a cooperação de todos os serviços públicos, autoridades locais ou entidades particulares a que seja necessário ou conveniente recorrer.
+Art. 5.º Para facilitar e completar a acção do serviço de recenseamento deverá ser assegurada a cooperação de todos os serviços públicos, autoridades locais ou entidades particulares a que seja necessário ou conveniente recorrer.
 
 § único. Para efeitos de consulta e estudo dos problemas suscitados pela preparação e realização do recenseamento poderá ser estabelecido junto do serviço de recenseamento um órgão colectivo no qual tenham representação as entidades públicas ou particulares que intervenham nos trabalhos do censo ou nele tenham especial interesse e competência.
 
-###### Art. 6.º Em cada concelho ou circunscrição será estabelecida uma comissão de revisão presidida pelo presidente da câmara ou comissão municipal ou pelo administrador do concelho e do qual farão parte, além do delegado do serviço de recenseamento, tantos membros quantos sejam necessários. O expediente destas comissões será assegurado pelo respectivo delegado de serviço de recenseameneto, ao qual competirá em especial, com a assistência do pessoal que lhe for atribuído, efectuar a distribuição dos instrumentos de notação e mais material aos agentes ou brigadas recenseadoras e promover a sua recolha dentro dos prazos estabelecidos.
+Art. 6.º Em cada concelho ou circunscrição será estabelecida uma comissão de revisão presidida pelo presidente da câmara ou comissão municipal ou pelo administrador do concelho e do qual farão parte, além do delegado do serviço de recenseamento, tantos membros quantos sejam necessários. O expediente destas comissões será assegurado pelo respectivo delegado de serviço de recenseameneto, ao qual competirá em especial, com a assistência do pessoal que lhe for atribuído, efectuar a distribuição dos instrumentos de notação e mais material aos agentes ou brigadas recenseadoras e promover a sua recolha dentro dos prazos estabelecidos.
 
 § único. No concelho sede de cada província, a comissão de revisão será presidida pelo chefe da repartição ou secção de estatística respectiva, onde ficará instalada.
 
-###### Art. 7.º A unidade territorial primária de recenseamento será, conforme a divisão administrativa local, o posto administrativo ou a freguesia.
+Art. 7.º A unidade territorial primária de recenseamento será, conforme a divisão administrativa local, o posto administrativo ou a freguesia.
 
 § 1.º A área de cada posto administrativo ou de cada freguesia será dividida em tantos sectores quantos sejam necessários para que cada um possa ser recenseado dentro do momento estatístico pelo agente recenseador respectivo.
 
 § 2.º Sempre que isso se mostre vantajoso, poderá ser confiada a notação a brigadas de recenseamento.
 
-###### Art. 8.º Todas as actividades relacionadas com a realização do recenseamento serão remuneradas. Compete aos governos provinciais fixar as gratificações, os salários e qualquer outra espécie de remuneração ou compensação de despesa, de harmonia com as disposições legais aplicáveis, circunstâncias e condições locais.
+Art. 8.º Todas as actividades relacionadas com a realização do recenseamento serão remuneradas. Compete aos governos provinciais fixar as gratificações, os salários e qualquer outra espécie de remuneração ou compensação de despesa, de harmonia com as disposições legais aplicáveis, circunstâncias e condições locais.
 
-###### Art. 9.º O recenseamento será nominal e feito, em princípio, por meio de boletins de família ou convivência.
+Art. 9.º O recenseamento será nominal e feito, em princípio, por meio de boletins de família ou convivência.
 
-###### Art. 10.º Os atributos a inquirir serão, em princípio, os constantes do plano de notação adoptado para a metrópole, podendo, no caso das populações autóctones, ser adoptado um plano de notação mais limitado.
+Art. 10.º Os atributos a inquirir serão, em princípio, os constantes do plano de notação adoptado para a metrópole, podendo, no caso das populações autóctones, ser adoptado um plano de notação mais limitado.
 
-###### Art. 11.º A fim de criar ambiente favorável à realização do recenseamento, deverá, por todos os meios - rádio, imprensa, editais, prospectos, conferências, palestras, etc. -, levar-se a efeito intensa propaganda no sentido de procurar dissipar eventual desconfiança dos inquiridos a respeito de possíveis desvios do propósito puramente estatístico dos censos, pôr bem em evidência a utilidade das informações que se pretende colher e facultar os esclarecimentos convenientes para facilitar o preenchimento dos instrumentos de notação e o cumprimento das outras obrigações censuárias.
+Art. 11.º A fim de criar ambiente favorável à realização do recenseamento, deverá, por todos os meios - rádio, imprensa, editais, prospectos, conferências, palestras, etc. -, levar-se a efeito intensa propaganda no sentido de procurar dissipar eventual desconfiança dos inquiridos a respeito de possíveis desvios do propósito puramente estatístico dos censos, pôr bem em evidência a utilidade das informações que se pretende colher e facultar os esclarecimentos convenientes para facilitar o preenchimento dos instrumentos de notação e o cumprimento das outras obrigações censuárias.
 
-###### Art. 12.º O recenseamento será precedido de reconhecimento prévio, que tomará a forma de inventário de prédios, fogos e estabelecimentos, com a antecedência máxima de oito meses em relação ao momento estatístico fixado nos termos do artigo 2.º, o qual será efectuado por agentes escolhidos e nomeados pelos presidentes das câmaras ou comissões municipais ou pelos administradores de concelho ou circunscrição, conforme os casos, e orientado de modo a colher as informações, relativas aos prédios, fogos e estabelecimentos existentes e ao número aproximado de seus habitantes, de que se carecerá para efectuar a divisão do território de cada concelho ou circunscrição em sectores planear as várias operações censuárias.
+Art. 12.º O recenseamento será precedido de reconhecimento prévio, que tomará a forma de inventário de prédios, fogos e estabelecimentos, com a antecedência máxima de oito meses em relação ao momento estatístico fixado nos termos do artigo 2.º, o qual será efectuado por agentes escolhidos e nomeados pelos presidentes das câmaras ou comissões municipais ou pelos administradores de concelho ou circunscrição, conforme os casos, e orientado de modo a colher as informações, relativas aos prédios, fogos e estabelecimentos existentes e ao número aproximado de seus habitantes, de que se carecerá para efectuar a divisão do território de cada concelho ou circunscrição em sectores planear as várias operações censuárias.
 
 § único. Nas zonas rurais, o reconhecimento prévio será completado pela indicação, efectuada pelas autoridades locais para a área da sua jurisdição, dos aglomerados populacionais nelas existentes, da sua localização, das vias de acesso e do número aproximado dos seus habitantes.
 
-###### Art. 13.º Simultâneamente com o recenseamento da população será levado a efeito um inquérito às condições habitacionais.
+Art. 13.º Simultâneamente com o recenseamento da população será levado a efeito um inquérito às condições habitacionais.
 
-###### Art. 14.º Com a necessária antecedência proceder-se-á a ensaios de notação, escolhendo-se para tal fim zonas que reproduzam com a maior fidelidade possível as condições em que os censos irão ter lugar. Nestes ensaios seguir-se-ão fielmente os processos adoptados, de modo a ser possível localizar as suas eventuais deficiências, determinar as dificuldades levantadas na sua aplicação prática e definir, de um modo geral, os sentidos em que possam melhorar-se os métodos previstos de início.
+Art. 14.º Com a necessária antecedência proceder-se-á a ensaios de notação, escolhendo-se para tal fim zonas que reproduzam com a maior fidelidade possível as condições em que os censos irão ter lugar. Nestes ensaios seguir-se-ão fielmente os processos adoptados, de modo a ser possível localizar as suas eventuais deficiências, determinar as dificuldades levantadas na sua aplicação prática e definir, de um modo geral, os sentidos em que possam melhorar-se os métodos previstos de início.
 
-###### Art. 15.º Efectuados os ensaios de notação e o reconhecimento, proceder-se-á à preparação do material destinado à recolha dos elementos, devendo o serviço de recenseamento organizar e remeter para cada sector o conjunto de impressos e outro material que seja necessário. A remessa será feita por intermédio dos respectivos delegados locais, aos quais serão também facultados os meios necessários ao funcionamento das respectivas comissões de revisão.
+Art. 15.º Efectuados os ensaios de notação e o reconhecimento, proceder-se-á à preparação do material destinado à recolha dos elementos, devendo o serviço de recenseamento organizar e remeter para cada sector o conjunto de impressos e outro material que seja necessário. A remessa será feita por intermédio dos respectivos delegados locais, aos quais serão também facultados os meios necessários ao funcionamento das respectivas comissões de revisão.
 
 § 1.º Esta distribuição deverá ser feita com a antecedência necessária para os agentes recenseadores ou as brigadas de recenseamento disporem a tempo dos elementos precisos para a sua acção.
 
 § 2.º Para as zonas rurais deverá ser estabelecido prèviamente o itinerário a seguir pelos agentes ou brigadas recenseadoras.
 
-###### Art. 16.º Os apuramentos serão feitos segundo um plano geral a estabelecer, podendo, sempre que conveniente à economia, celeridade ou segurança, ser efectuados em Lisboa, nos termos do § único do artigo 19.º, os apuramentos referentes a qualquer das províncias.
+Art. 16.º Os apuramentos serão feitos segundo um plano geral a estabelecer, podendo, sempre que conveniente à economia, celeridade ou segurança, ser efectuados em Lisboa, nos termos do § único do artigo 19.º, os apuramentos referentes a qualquer das províncias.
 
-###### Art. 17.º A publicação dos resultados apurados obedecerá a um plano uniforme na sua estrutura, sendo precedida de um estudo comparativo sobre os censos, arrolamentos ou estimativas anteriores, em confronto com os dados apurados no censo de 1960, de um breve resumo dos resultados deste recenseamento, de um relatório sobre o modo como decorreram os seus trabalhos e de uma série de mapas retrospectivos e comparativos.
+Art. 17.º A publicação dos resultados apurados obedecerá a um plano uniforme na sua estrutura, sendo precedida de um estudo comparativo sobre os censos, arrolamentos ou estimativas anteriores, em confronto com os dados apurados no censo de 1960, de um breve resumo dos resultados deste recenseamento, de um relatório sobre o modo como decorreram os seus trabalhos e de uma série de mapas retrospectivos e comparativos.
 
-###### Art. 18.º Cumpre aos governos das províncias regulamentar no que for necessário as disposições deste decreto, podendo adaptá-las ao condicionalismo próprio das diversas regiões, sem prejuízo dos objectivos marcados.
+Art. 18.º Cumpre aos governos das províncias regulamentar no que for necessário as disposições deste decreto, podendo adaptá-las ao condicionalismo próprio das diversas regiões, sem prejuízo dos objectivos marcados.
 
 § 1.º As definições de conceitos e as classificações a seguir para efeitos de notação e apuramento do recenseamento serão as adoptadas pelo Instituto Nacional de Estatística.
 
@@ -161,11 +165,11 @@ c) Os membros das forças armadas que façam parte das guarnições normais das 
 
 § 3.º Sob proposta do Instituto Nacional de Estatística, poderá ser determinada pelo Ministro do Ultramar a deslocação à metrópole de funcionários qualificados de todas ou de algumas províncias ultramarinas, a designar pelos respectivos governos, a fim de colaborarem com aquele organismo na elaboração de instruções destinadas a regular as operações do recenseamento no ultramar.
 
-###### Art. 19.º Nas tabelas de despesa extraordinária das províncias ultramarinas para os anos de 1960 e seguintes serão inscritas as verbas necessárias para satisfazer os encargos resultantes deste diploma, incluindo os destinados à elaboração e publicação do recenseamento da respectiva população.
+Art. 19.º Nas tabelas de despesa extraordinária das províncias ultramarinas para os anos de 1960 e seguintes serão inscritas as verbas necessárias para satisfazer os encargos resultantes deste diploma, incluindo os destinados à elaboração e publicação do recenseamento da respectiva população.
 
 § único. Por conta das verbas inscritas poderá ser autorizado, por despacho do Ministro do Ultramar, o pagamento em Lisboa de despesas relacionadas com a elaboração e a publicação dos resultados do recenseamento, quando, por conveniência de serviço, quaisquer trabalhos tenham de ser levados a efeitos em Lisboa.
 
-###### Art. 20.º Constituem transgressões estatísticas para o efeito do recenseamento da população de 1960:
+Art. 20.º Constituem transgressões estatísticas para o efeito do recenseamento da população de 1960:
 
 1.º O preenchimento inexacto ou incompleto dos boletins e a prestação de informações falsas ou incompletas para esse preenchimento aos agentes recenseadores;
 
@@ -177,7 +181,7 @@ c) Os membros das forças armadas que façam parte das guarnições normais das 
 
 § 2.º As transgressões estatísticas para efeitos de recenseamento são punidas com multa, cujos limites extremos serão para cada província fixados nos termos do artigo 18.º do presente decreto.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Janeiro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

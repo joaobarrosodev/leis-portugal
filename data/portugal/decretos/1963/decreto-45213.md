@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45213-1963-694023
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-08-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:36:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 585e6b19f67648ea0423d527fc081743ada1095a8116b68aff4cc05ccde00188
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4aa6d85cc8ddb91ecc7fa9403ef1d2745ec61571c8001d5cf25d9450508ded4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:36:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:36:23Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +104,7 @@ Tendo em conta o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Infra-Estruturas da Força Aérea a celebrar os seguintes contratos:
+Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Infra-Estruturas da Força Aérea a celebrar os seguintes contratos:
 
 Com a firma António do Amaral & Filho para a execução da obra de trabalhos complementares do edifício de alojamento das instalações técnicas da esquadra 13 do grupo de detecção, alerta e conduta da intercepção n.º 1, no Alto da Torre (serra da Estrela), pela importância de 450315$70.
 
@@ -110,8 +114,8 @@ Com a firma António do Amaral & Filho para a execução da obra de trabalhos co
 
 Com o empreiteiro Abel da Silva César para a execução da obra da 1.ª fase da rede de distribuição de águas do aquartelamento da esquadra 12 do grupo de detecção, alerta e conduta da intercepção n.º 1 (Paços de Ferreira), pela importância de 56130$00.
 
-###### Art. 2.º O encargo com estas obras, no montante 1885839$30, a custear por conta da verba apropriada do orçamento suplementar de defesa, será na sua totalidade liquidado pelo referido conselho administrativo no ano económico de 1964.
+Art. 2.º O encargo com estas obras, no montante 1885839$30, a custear por conta da verba apropriada do orçamento suplementar de defesa, será na sua totalidade liquidado pelo referido conselho administrativo no ano económico de 1964.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Agosto de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - António Manuel Pinto Barbosa - Francisco António das Chagas.

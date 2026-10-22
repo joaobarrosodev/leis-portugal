@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1960/12/28200/27112712.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43381-1960-512663
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-01-23T00:00:00Z'
+  retrieved_at: '2026-10-22T19:21:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80eb7a86376c9b05be0b4edd44ab4dd32fd939a8d625dadde3b3d1dd6c97712e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb442490e6c7d73a69dcc16c4a1ecefc7bc9908009e1d7aad735909ca7b5f707
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:21:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Ultramarina
+- Formas de Provimento
+- Gestão de Recursos Humanos
+- Médico
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:469382:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:624637:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:469382:por
+  label: "Revogado, a partir de 28.01.1964, pelo DEC.45541.23.01.1964.MU, DG.IS [19] de 23.01.1964\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/45541-1964-469382
+  date: '1964-01-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:21:27Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +112,9 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. O artigo 83.º do [Decreto n.º 34417](https://diariodarepublica.pt/dr/detalhe/decreto/34417-1945-624637), de 21 de Fevereiro de 1945, passa a ter a seguinte redacção:
+Artigo único. O artigo 83.º do [Decreto n.º 34417](https://diariodarepublica.pt/dr/detalhe/decreto/34417-1945-624637), de 21 de Fevereiro de 1945, passa a ter a seguinte redacção:
 
-###### Art. 83.º O provimento no quadro complementar de cirurgiões e especialistas pode ser feita por qualquer dos modos a seguir indicados, entre médicos diplomados pelas Faculdades de Medicina nacionais:
+Art. 83.º O provimento no quadro complementar de cirurgiões e especialistas pode ser feita por qualquer dos modos a seguir indicados, entre médicos diplomados pelas Faculdades de Medicina nacionais:
 
 1.º Por nomeação, contrato ou comissão, entre professores catedráticos, extraordinários ou agregados, de clínica médica e médicos do quadro dos hospitais civis quando se destinem a chefiar serviços de clínica médica de hospitais centrais do ultramar;
 
@@ -114,7 +128,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § 2.º Os médicos do quadro comum que transitarem ou vierem a ingressar no quadro complementar de cirurgiões e especialistas abrem vaga nos lugares do quadro comum que ocupavam.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

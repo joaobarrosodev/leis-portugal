@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43220-1960-514023
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-10-12T00:00:00Z'
+  retrieved_at: '2026-10-22T19:19:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 468a0c63d900df79645e57da0a27ac25213653462a69decabfdf4193fec3bb31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51c04f7a12be8c997ea4f18b946e5961ae6762fb0cdfcaf38b2355d239641b3b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:19:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:19:57Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +90,15 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O Ministro do Ultramar, a requerimento dos interessados, com informação favorável do Governo da província, e ouvido o Conselho Superior de Disciplina do Ultramar, poderá nomear, nos termos do n.º III da base XLI da Lei Orgânica do Ultramar Português, para lugares de ingresso nos quadros privativos das províncias ultramarinas os indivíduos que à data da publicação deste decreto no Diário do Governo tenham prestado serviço ao Estado durante mais de seis anos, com boas informações, sendo três anos, pelo menos, como interinos nos lugares a prover ou de categoria equivalente ou superior do respectivo quadro.
+Artigo 1.º O Ministro do Ultramar, a requerimento dos interessados, com informação favorável do Governo da província, e ouvido o Conselho Superior de Disciplina do Ultramar, poderá nomear, nos termos do n.º III da base XLI da Lei Orgânica do Ultramar Português, para lugares de ingresso nos quadros privativos das províncias ultramarinas os indivíduos que à data da publicação deste decreto no Diário do Governo tenham prestado serviço ao Estado durante mais de seis anos, com boas informações, sendo três anos, pelo menos, como interinos nos lugares a prover ou de categoria equivalente ou superior do respectivo quadro.
 
 § único. Se o provimento normal do lugar for feito por contrato, poderá o Ministro do Ultramar autorizar a sua celebração, desde que o interessado reúna as condições a que se refere o corpo do artigo.
 
-###### Art. 2.º Os indivíduos abrangidos pelo artigo anterior não poderão ascender a lugares superiores aos do grupo G do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino se não vierem a adquirir curso superior adequado ao cargo que exercerem.
+Art. 2.º Os indivíduos abrangidos pelo artigo anterior não poderão ascender a lugares superiores aos do grupo G do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino se não vierem a adquirir curso superior adequado ao cargo que exercerem.
 
-###### Art. 3.º O disposto no presente decreto não é aplicável aos indivíduos que tenham deixado de prestar serviço ao Estado há mais de três anos, a contar desta data.
+Art. 3.º O disposto no presente decreto não é aplicável aos indivíduos que tenham deixado de prestar serviço ao Estado há mais de três anos, a contar desta data.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Outubro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

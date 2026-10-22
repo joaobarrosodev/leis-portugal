@@ -35,6 +35,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-01-31'
+version_history:
+  file: regulamento-ue-1994-2100.versoes.json
+  count: 1
+  source_lastmod: '2008-01-31'
+  versions:
+  - date: '2008-01-31'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 31994R2100
   eli: http://data.europa.eu/eli/reg/1994/2100/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/2050ef67-0d0a-4f6d-8e82-e97681fae2c0.0011
   content_url: http://publications.europa.eu/resource/cellar/7299633d-44bd-4419-963c-f405634c4772.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994R2100-20080131
-  retrieved_at: '2026-10-22T02:44:28Z'
+  retrieved_at: '2026-10-22T17:37:57Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-02-18T21:21:21.848+01:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:44:28Z'
-  notes: Texto consolidado 01994R2100-20080131.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:37:57Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-1994-2100.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -233,33 +242,24 @@ relationships:
   date: '2021-10-14'
 article_structure:
   article_count: 119
-  section_count: 50
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 52
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:44:28Z'
-  warnings: []
+  checked_at: '2026-10-22T17:37:57Z'
+  warnings:
+  - '01994R2100-19940901: versão indisponível (Sem expressão na língua por para CELEX 01994R2100-19940901.)'
+  - '01994R2100-19950427: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01994R2100-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01994R2100-20031001: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01994R2100-20040520: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CE) nº 2100/94 do Conselho, de 27 de Julho de 1994
-
-> 1994R2100 — PT — 31.01.2008 — 005.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/395R2506) — [Regulamento (CE) n.º 2506/95 do Conselho de 25 de Outubro de 1995](http://publications.europa.eu/resource/celex/395R2506) — L 258 — 3 — 28.10.1995
-- [►M2](http://publications.europa.eu/resource/celex/303R0807) — [Regulamento (CE) n.º 807/2003 do Conselho de 14 de Abril de 2003](http://publications.europa.eu/resource/celex/303R0807) — L 122 — 36 — 16.5.2003
-- [►M3](http://publications.europa.eu/resource/celex/303R1650) — [Regulamento (CE) n.º 1650/2003 do Conselho de 18 de Junho de 2003](http://publications.europa.eu/resource/celex/303R1650) — L 245 — 28 — 29.9.2003
-- [►M4](http://publications.europa.eu/resource/celex/304R0873) — [Regulamento (CE) n.º 873/2004 do Conselho de 29 de Abril de 2004](http://publications.europa.eu/resource/celex/304R0873) — L 162 — 38 — 30.4.2004
-- [►M5](http://publications.europa.eu/resource/celex/308R0015) — [Regulamento (CE) n.º 15/2008 do Conselho de 20 de Dezembro de 2007](http://publications.europa.eu/resource/celex/308R0015) — L 8 — 2 — 11.1.2008
-
-## REGULAMENTO (CE) N.º 2100/94 DO CONSELHO
 
 de 27 de Julho de 1994
 

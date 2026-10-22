@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1961/04/09800/04860495.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43625-1961-569561
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-14T00:00:00Z'
+  retrieved_at: '2026-10-22T19:23:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c27d79bbe1c4debb6ef47f9d2f1bdfa3536dd857ff3bf77d442ecb135fd58b26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7cc4ac5e2d565e99ba0c09c8067af5db2c1e5a7195d0db2afa36510e10978e1d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:23:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Contabilidade Pública
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:365889:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:245716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594715:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:365889:por
+  label: "Revogado pelo DEC LEI.499/79.1979.12.14.PCM DR.IS [294]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/499-1979-365889
+  date: '1979-12-14'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 30
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:23:18Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +125,9 @@ Em execução do disposto no artigo 20.º do [Decreto-Lei n.º 43624](https://di
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovado o Regulamento da Direcção-Geral da Contabilidade Pública, que vai assinado pelo Ministro das Finanças e faz parte integrante deste decreto.
+Artigo único. É aprovado o Regulamento da Direcção-Geral da Contabilidade Pública, que vai assinado pelo Ministro das Finanças e faz parte integrante deste decreto.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Abril de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa.
 
@@ -102,9 +137,9 @@ Regulamento da Direcção-Geral da Contabilidade Pública
 
 ### CAPÍTULO I — Das atribuições e estrutura
 
-###### Artigo 1.º A Direcção-Geral da Contabilidade Pública é o organismo do Ministério das Finanças incumbido de contabilizar, fiscalizar e promover o aperfeiçoamento da administração financeira do Estado no território do continente e ilhas adjacentes.
+Artigo 1.º A Direcção-Geral da Contabilidade Pública é o organismo do Ministério das Finanças incumbido de contabilizar, fiscalizar e promover o aperfeiçoamento da administração financeira do Estado no território do continente e ilhas adjacentes.
 
-###### Art. 2.º Em todos os serviços da Direcção-Geral superintende o director-geral da Contabilidade Pública, directamente subordinado ao Ministro das Finanças.
+Art. 2.º Em todos os serviços da Direcção-Geral superintende o director-geral da Contabilidade Pública, directamente subordinado ao Ministro das Finanças.
 
 § 1.º O director-geral da Contabilidade Pública é coadjuvado por dois adjuntos, escolhidos de entre os chefes de repartição com curso superior adequado.
 
@@ -112,7 +147,7 @@ Regulamento da Direcção-Geral da Contabilidade Pública
 
 § 3.º As funções de secretário do director-geral poderão ser desempenhadas por qualquer funcionário de categoria não superior a chefe de secção.
 
-###### Art. 3.º Os serviços da Direcção-Geral da Contabilidade Pública distribuem-se por dezoito repartições, nos termos seguintes:
+Art. 3.º Os serviços da Direcção-Geral da Contabilidade Pública distribuem-se por dezoito repartições, nos termos seguintes:
 
 Repartição do Expediente;
 
@@ -126,11 +161,11 @@ Catorze repartições de despesa.
 
 § único. Cada repartição disporá de secções em número reputado necessário.
 
-###### Art. 4.º Junto da Direcção-Geral funciona o Gabinete de Estudos António José Malheiro, criado pelo [Decreto-Lei n.º 34625](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34625-1945-529461), de 24 de Maio de 1945.
+Art. 4.º Junto da Direcção-Geral funciona o Gabinete de Estudos António José Malheiro, criado pelo [Decreto-Lei n.º 34625](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34625-1945-529461), de 24 de Maio de 1945.
 
 ### CAPÍTULO II — Da competência
 
-###### Art. 5.º Na sua função de contabilizar a administração financeira do Estado, compete à Direcção-Geral:
+Art. 5.º Na sua função de contabilizar a administração financeira do Estado, compete à Direcção-Geral:
 
 1.º Liquidar e escriturar as despesas orçamentais;
 
@@ -142,7 +177,7 @@ Catorze repartições de despesa.
 
 § único. A Direcção-Geral deverá coligir e centralizar todos os elementos indispensáveis ao exercício da sua atribuição de contabilizar a administração financeira do Estado.
 
-###### Art. 6.º Na sua função de fiscalizar a administração financeira do Estado, compete à Direcção-Geral:
+Art. 6.º Na sua função de fiscalizar a administração financeira do Estado, compete à Direcção-Geral:
 
 1.º Superintender na realização das despesas orçamentais, fiscalizando-as e autorizando-as;
 
@@ -154,7 +189,7 @@ Catorze repartições de despesa.
 
 § 2.º Depois de examinados, os processas a que se refere o n.º 3.º serão sempre devolvidos aos respectivos serviços.
 
-###### Art. 7.º Na sua função de promover o aperfeiçoamento da administração financeira do Estado, compete à Direcção-Geral:
+Art. 7.º Na sua função de promover o aperfeiçoamento da administração financeira do Estado, compete à Direcção-Geral:
 
 1.º Uniformizar e simplificar os serviços de contabilidade de todos os departamentos do Estado, prescrevendo fórmulas e modelos e expedindo as necessárias instruções;
 
@@ -172,13 +207,13 @@ Catorze repartições de despesa.
 
 ### CAPÍTULO I — Do Gabinete de Estudos António José Malheiro
 
-###### Art. 8.º O Gabinete de Estudos António José Malheiro prossegue os objectivos assinalados no [Decreto-Lei n.º 34625](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34625-1945-529461), de 24 de Maio de 1945.
+Art. 8.º O Gabinete de Estudos António José Malheiro prossegue os objectivos assinalados no [Decreto-Lei n.º 34625](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34625-1945-529461), de 24 de Maio de 1945.
 
-###### Art. 9.º Ao Gabinete de Estudos António José Malheiro fica adstrita uma biblioteca, cujos serviços estão a cargo de um funcionário da Direcção-Geral de categoria não inferior a primeiro-oficial.
+Art. 9.º Ao Gabinete de Estudos António José Malheiro fica adstrita uma biblioteca, cujos serviços estão a cargo de um funcionário da Direcção-Geral de categoria não inferior a primeiro-oficial.
 
 § único. A biblioteca do Gabinete de Estudos António José Malheiro é constituída pelas publicações recebidas nos termos do artigo 5.º do [Decreto-Lei n.º 34625](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34625-1945-529461), de 24 de Maio de 1945, bem como pelas editadas ou compradas pelo próprio Gabinete, pelas que lhe forem oferecidas e ainda pelas adquiridas mediante a competente verba do orçamento da Direcção-Geral.
 
-###### Art. 10.º A biblioteca do Gabinete de Estudos António José Malheiro destina-se a estimular entre os funcionários da Direcção-Geral o gosto pela leitura, no sentido do seu aperfeiçoamento técnico e enriquecimento cultural.
+Art. 10.º A biblioteca do Gabinete de Estudos António José Malheiro destina-se a estimular entre os funcionários da Direcção-Geral o gosto pela leitura, no sentido do seu aperfeiçoamento técnico e enriquecimento cultural.
 
 § único. O funcionamento da biblioteca reger-se-á por um regulamento interno, elaborado de acordo com o disposto no corpo deste artigo.
 
@@ -186,7 +221,7 @@ Catorze repartições de despesa.
 
 #### SECÇÃO I — Da Repartição do Expediente
 
-###### Art. 11.º São atribuições da Repartição do Expediente:
+Art. 11.º São atribuições da Repartição do Expediente:
 
 1.º Contabilizar, fiscalizar e promover o aperfeiçoamento da administração financeira dos serviços da Direcção-Geral da Contabilidade Pública;
 
@@ -194,7 +229,7 @@ Catorze repartições de despesa.
 
 3.º Realizar estudos, emitir pareceres e prestar informações.
 
-###### Art. 12.º Nas suas funções de contabilizar, fiscalizar e promover o aperfeiçoamento da administração financeira dos serviços da Direcção-Geral da Contabilidade Pública, compete à Repartição do Expediente:
+Art. 12.º Nas suas funções de contabilizar, fiscalizar e promover o aperfeiçoamento da administração financeira dos serviços da Direcção-Geral da Contabilidade Pública, compete à Repartição do Expediente:
 
 1.º Elaborar o projecto de orçamento de despesa da Direcção-Geral;
 
@@ -216,7 +251,7 @@ Catorze repartições de despesa.
 
 10.º Determinar regras uniformes, a seguir pelos serviços da Direcção-Geral, concernentes à requisição e distribuição dos artigos indispensáveis ao funcionamento dos mesmos serviços.
 
-###### Art. 13.º Na sua função de assegurar o expediente da Direcção-Geral que não esteja a cargo de qualquer outro serviço, compete à Repartição do Expediente:
+Art. 13.º Na sua função de assegurar o expediente da Direcção-Geral que não esteja a cargo de qualquer outro serviço, compete à Repartição do Expediente:
 
 1.º Superintender em todo o expediente relativo ao pessoal da Direcção-Geral, nomeadamente no que diz respeito a recrutamento, provimento, licenças e aposentação;
 
@@ -232,7 +267,7 @@ Catorze repartições de despesa.
 
 7.º Expedir as circulares e notas de serviço.
 
-###### Art. 14.º Nas suas funções de realizar estudos, emitir pareceres e prestar informações, compete à Repartição do Expediente:
+Art. 14.º Nas suas funções de realizar estudos, emitir pareceres e prestar informações, compete à Repartição do Expediente:
 
 1.º Estudar quaisquer assuntos que lhe sejam submetidos pelo director-geral;
 
@@ -240,13 +275,13 @@ Catorze repartições de despesa.
 
 #### SECÇÃO II — Da Repartição do Orçamento
 
-###### Art. 15.º São atribuições da Repartição do Orçamento:
+Art. 15.º São atribuições da Repartição do Orçamento:
 
 1.º Organizar o Orçamento Geral do Estado e dirigir a sua preparação na parte das despesas;
 
 2.º Promover o aperfeiçoamento da discriminação orçamental das despesas.
 
-###### Art. 16.º Na sua função de organizar o Orçamento Geral do Estado e dirigir a sua preparação na parte das despesas, compete à Repartição do Orçamento:
+Art. 16.º Na sua função de organizar o Orçamento Geral do Estado e dirigir a sua preparação na parte das despesas, compete à Repartição do Orçamento:
 
 1.º Coligir, depois de superiormente revistos, os projectos parciais do orçamento das despesas enviados pelas repartições de contabilidade pública que funcionam nos vários Ministérios;
 
@@ -264,11 +299,11 @@ Catorze repartições de despesa.
 
 8.º Propor ao director-geral da Contabilidade Pública a expedição das instruções que julgue necessárias para a eficiente elaboração dos projectos de orçamento por parte dos serviços do Estado.
 
-###### Art. 17.º Na sua função de promover o aperfeiçoamento da discriminação orçamental das despesas, compete à Repartição do Orçamento estudar e propor as medidas necessárias para que as verbas orçamentais indiquem claramente a verdadeira e justa aplicação das despesas.
+Art. 17.º Na sua função de promover o aperfeiçoamento da discriminação orçamental das despesas, compete à Repartição do Orçamento estudar e propor as medidas necessárias para que as verbas orçamentais indiquem claramente a verdadeira e justa aplicação das despesas.
 
 #### SECÇÃO III — Da Repartição da Conta
 
-###### Art. 18.º São atribuições da Repartição da Conta:
+Art. 18.º São atribuições da Repartição da Conta:
 
 1.º Preparar e organizar as contas mensais e a Conta Geral do Estado;
 
@@ -276,7 +311,7 @@ Catorze repartições de despesa.
 
 3.º Colaborar na preparação do Orçamento Geral do Estado.
 
-###### Art. 19.º Na sua função de preparar e organizar as contas mensais e a Conta Geral do Estado, compete à Repartição da Conta:
+Art. 19.º Na sua função de preparar e organizar as contas mensais e a Conta Geral do Estado, compete à Repartição da Conta:
 
 1.º Escriturar as operações relativas à receita orçamental e aos fundos saídos para pagamento das despesas públicas orçamentais;
 
@@ -290,19 +325,19 @@ Catorze repartições de despesa.
 
 6.º Proceder à organização das contas mensais e da Conta Geral do Estado, em face dos dados coligidos.
 
-###### Art. 20.º Na sua função de organizar o balanço do Estado, compete à Repartição da Conta:
+Art. 20.º Na sua função de organizar o balanço do Estado, compete à Repartição da Conta:
 
 1.º Coligir os elementos fornecidos pela Direcção-Geral da Fazenda Pública, conforme esquema aprovado pelo Ministro das Finanças;
 
 2.º Proceder à organização do balanço, em face desses elementos.
 
-###### Art. 21.º Na sua função de colaborar na preparação do Orçamento Geral do Estado, compete à Repartição da Conta coligir e coordenar os elementos respeitantes ao orçamento das receitas.
+Art. 21.º Na sua função de colaborar na preparação do Orçamento Geral do Estado, compete à Repartição da Conta coligir e coordenar os elementos respeitantes ao orçamento das receitas.
 
 #### SECÇÃO IV — Da Repartição do Abono de Família e das Pensões
 
-###### Art. 22.º A Repartição do Abono de Família e das Pensões tem como função promover a aplicação da lei no que diz respeito a pensões que devem ser pagas pelo Ministério das Finanças e a abono de família concedido a servidores do Estado.
+Art. 22.º A Repartição do Abono de Família e das Pensões tem como função promover a aplicação da lei no que diz respeito a pensões que devem ser pagas pelo Ministério das Finanças e a abono de família concedido a servidores do Estado.
 
-###### Art. 23.º Compete à Repartição do Abono de Família e das Pensões:
+Art. 23.º Compete à Repartição do Abono de Família e das Pensões:
 
 1.º Informar os processos em que estejam em causa direitos a pensões que devam ser pagas pelo Ministério das Finanças;
 
@@ -320,7 +355,7 @@ Catorze repartições de despesa.
 
 #### SECÇÃO V — Das repartições de despesa
 
-###### Art. 24.º Cada repartição de despesa da Direcção-Geral da Contabilidade Pública desempenha funções de contabilidade e fiscalização perante o sector da administração financeira do Estado que lhe está confiado e obtém, junto dos serviços incluídos nesse sector, os elementos que interessam ao exercício das atribuições da Direcção-Geral da Contabilidade Pública.
+Art. 24.º Cada repartição de despesa da Direcção-Geral da Contabilidade Pública desempenha funções de contabilidade e fiscalização perante o sector da administração financeira do Estado que lhe está confiado e obtém, junto dos serviços incluídos nesse sector, os elementos que interessam ao exercício das atribuições da Direcção-Geral da Contabilidade Pública.
 
 § único. Os sectores da administração financeira do Estado atribuídos às várias repartições de despesa são os seguintes:
 
@@ -352,7 +387,7 @@ Catorze repartições de despesa.
 
 14.ª Repartição - despesas do Ministério da Saúde e Assistência.
 
-###### Art. 25.º No exercício das suas atribuições de contabilidade e fiscalização, compete a cada repartição de despesa:
+Art. 25.º No exercício das suas atribuições de contabilidade e fiscalização, compete a cada repartição de despesa:
 
 1.º Verificar, liquidar e autorizar o pagamento das despesas a seu cargo;
 
@@ -364,7 +399,7 @@ Catorze repartições de despesa.
 
 § único. As despesas sob fiscalização de cada uma das repartições constituem orçamento próprio.
 
-###### Art. 26.º Na sua função de obter elementos necessários para o desempenho das atribuições da Direcção-Geral da Contabilidade Pública, compete a cada repartição de despesa:
+Art. 26.º Na sua função de obter elementos necessários para o desempenho das atribuições da Direcção-Geral da Contabilidade Pública, compete a cada repartição de despesa:
 
 1.º Organizar o cadastro do pessoal respeitante ao sector da administração financeira que lhe está confiado;
 
@@ -372,21 +407,21 @@ Catorze repartições de despesa.
 
 ### CAPÍTULO III — Das secções
 
-###### Art. 27.º As atribuições e competência de cada secção serão fixadas pelo chefe da repartição respectiva, dentro das atribuições e competência da mesma repartição.
+Art. 27.º As atribuições e competência de cada secção serão fixadas pelo chefe da repartição respectiva, dentro das atribuições e competência da mesma repartição.
 
 ## TÍTULO III — Do pessoal
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Art. 28.º O quadro do pessoal da Direcção-Geral da Contabilidade Pública, bem como os respectivos vencimentos e gratificações, são os fixados pelo [Decreto-Lei n.º 43624](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43624-1961-569560).
+Art. 28.º O quadro do pessoal da Direcção-Geral da Contabilidade Pública, bem como os respectivos vencimentos e gratificações, são os fixados pelo [Decreto-Lei n.º 43624](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43624-1961-569560).
 
-###### Art. 29.º As gratificações fixadas aos adjuntos e ao secretário do director-geral continuam a ser abonadas no caso de, cumulativamente com o exercício do seu cargo, desempenharem também as funções de chefes de repartição ou de secção, respectivamente.
+Art. 29.º As gratificações fixadas aos adjuntos e ao secretário do director-geral continuam a ser abonadas no caso de, cumulativamente com o exercício do seu cargo, desempenharem também as funções de chefes de repartição ou de secção, respectivamente.
 
 ### CAPÍTULO II — Das atribuições e competência
 
 #### SECÇÃO I — Do director-geral
 
-###### Art. 30.º O director-geral da Contabilidade Pública tem atribuições:
+Art. 30.º O director-geral da Contabilidade Pública tem atribuições:
 
 1.º De coordenação dos serviços;
 
@@ -400,7 +435,7 @@ Catorze repartições de despesa.
 
 6.º De representação.
 
-###### Art. 31.º No exercício das suas atribuições de coordenação dos serviços, compete ao director-geral:
+Art. 31.º No exercício das suas atribuições de coordenação dos serviços, compete ao director-geral:
 
 1.º Determinar às repartições a execução de quaisquer tarefas que lhe não estejam especialmente atribuídas, desde que se trate de matérias da competência da Direcção-Geral;
 
@@ -422,7 +457,7 @@ Catorze repartições de despesa.
 
 10.º Assinar os títulos de pensões subscritos pelo chefe da competente repartição.
 
-###### Art. 32.º No exercício das suas atribuições de superintendência no pessoal, compete ao director-geral da Contabilidade Pública:
+Art. 32.º No exercício das suas atribuições de superintendência no pessoal, compete ao director-geral da Contabilidade Pública:
 
 1.º Conferir a posse e tomar o compromisso de honra dos funcionários do quadro da Direcção-Geral, bem como fazer lavrar os respectivos termos;
 
@@ -438,7 +473,7 @@ Catorze repartições de despesa.
 
 7.º Colocar e transferir o pessoal das repartições da Direcção-Geral, de acordo com as necessidades do serviço.
 
-###### Art. 33.º No exercício das suas atribuições de informação e esclarecimento do Ministro das Finanças, compete ao director-geral:
+Art. 33.º No exercício das suas atribuições de informação e esclarecimento do Ministro das Finanças, compete ao director-geral:
 
 1.º Submeter a despacho do Ministro, devidamente informados, os assuntos pendentes de resolução superior;
 
@@ -450,7 +485,7 @@ Catorze repartições de despesa.
 
 § único. Nos casos previstos no n.º 4.º, o director-geral terá presentes as informações das respectivas repartições da contabilidade pública.
 
-###### Art. 34.º No exercício das suas atribuições de decisão e fiscalização, compete ao director-geral:
+Art. 34.º No exercício das suas atribuições de decisão e fiscalização, compete ao director-geral:
 
 1.º Decidir os assuntos cuja resolução não dependa de despacho ministerial;
 
@@ -460,13 +495,13 @@ Catorze repartições de despesa.
 
 4.º Requisitar quaisquer processos que tenham dado origem a despesas do Estado, nos termos do artigo 6.º, n.º 3.º, §§ 1.º e 2.º
 
-###### Art. 35.º No exercício das suas atribuições executivas, compete ao director-geral:
+Art. 35.º No exercício das suas atribuições executivas, compete ao director-geral:
 
 1.º Executar e fazer executar as ordens e instruções do Ministério das Finanças sobre matérias da competência da Direcção-Geral;
 
 2.º Efectuar os inquéritos e sindicâncias ordenados pelo Ministro.
 
-###### Art. 36.º No exercício das suas atribuições de representação, compete ao director-geral:
+Art. 36.º No exercício das suas atribuições de representação, compete ao director-geral:
 
 1.º Representar a Direcção-Geral em todas as ocorrências;
 
@@ -474,9 +509,9 @@ Catorze repartições de despesa.
 
 #### SECÇÃO II — Dos adjuntos do director-geral
 
-###### Art. 37.º Os adjuntos do director-geral da Contabilidade Pública têm por atribuição auxiliar directamente o director-geral no desempenho das suas funções.
+Art. 37.º Os adjuntos do director-geral da Contabilidade Pública têm por atribuição auxiliar directamente o director-geral no desempenho das suas funções.
 
-###### Art. 38.º Compete aos adjuntos:
+Art. 38.º Compete aos adjuntos:
 
 1.º Coadjuvar o director-geral, conforme as indicações que dele receberem;
 
@@ -486,7 +521,7 @@ Catorze repartições de despesa.
 
 #### SECÇÃO III — Dos chefes de repartição
 
-###### Art. 39.º São atribuições dos chefes de repartição:
+Art. 39.º São atribuições dos chefes de repartição:
 
 1.º Coordenar os serviços das repartições respectivas;
 
@@ -494,7 +529,7 @@ Catorze repartições de despesa.
 
 3.º Estabelecer a ligação entre os serviços e o pessoal a seu cargo e o director-geral da Contabilidade Pública.
 
-###### Art. 40.º No uso da sua função de coordenar os serviços compete aos chefes de repartição:
+Art. 40.º No uso da sua função de coordenar os serviços compete aos chefes de repartição:
 
 1.º Distribuir pelas secções a actividade a cargo da repartição respectiva;
 
@@ -512,7 +547,7 @@ Catorze repartições de despesa.
 
 8.º Escolher para seu adjunto um dos chefes de secção que prestem serviço na repartição.
 
-###### Art. 41.º No uso da sua função de dirigir o pessoal das repartições respectivas compete aos chefes de repartição:
+Art. 41.º No uso da sua função de dirigir o pessoal das repartições respectivas compete aos chefes de repartição:
 
 1.º Vigiar pelo cumprimento dos deveres dos funcionários e empregados;
 
@@ -522,7 +557,7 @@ Catorze repartições de despesa.
 
 4.º Manter a ordem e disciplina entre o pessoal da repartição.
 
-###### Art. 42.º No uso da sua função de estabelecer a ligação entre o pessoal e serviços a seu cargo e o director-geral da Contabilidade Pública compete aos chefes de repartição:
+Art. 42.º No uso da sua função de estabelecer a ligação entre o pessoal e serviços a seu cargo e o director-geral da Contabilidade Pública compete aos chefes de repartição:
 
 1.º Submeter ao director-geral todos os assuntos da competência da sua repartição que dependam de despacho;
 
@@ -540,19 +575,19 @@ Catorze repartições de despesa.
 
 #### SECÇÃO IV — Dos adjuntos dos chefes de repartição
 
-###### Art. 43.º Cumulativamente com as atribuições de chefes de secção, incumbe aos adjuntos dos chefes de repartição auxiliar estes no desempenho das suas funções e substituí-los nas suas faltas e impedimentos legais.
+Art. 43.º Cumulativamente com as atribuições de chefes de secção, incumbe aos adjuntos dos chefes de repartição auxiliar estes no desempenho das suas funções e substituí-los nas suas faltas e impedimentos legais.
 
-###### Art. 44.º Na sua função de auxiliar os chefes de repartição no desempenho das suas atribuições os adjuntos poderão praticar quaisquer actos da competência dos chefes das repartições respectivas, desde que por estes autorizados com conhecimento do director-geral.
+Art. 44.º Na sua função de auxiliar os chefes de repartição no desempenho das suas atribuições os adjuntos poderão praticar quaisquer actos da competência dos chefes das repartições respectivas, desde que por estes autorizados com conhecimento do director-geral.
 
 § único. Verificando-se a hipótese prevista neste artigo, os chefes de repartição ficarão sempre solidàriamente responsáveis com os adjuntos pelo actos por eles praticados dentro dos limites da autorização concedida.
 
-###### Art. 45.º Na sua função de substituir os chefes das repartições respectivas poderão os adjuntos praticar quaisquer actos da competência destes, desempenhando interinamente as funções dos chefes das repartições respectivas que faltarem ou estiverem legalmente impedidos.
+Art. 45.º Na sua função de substituir os chefes das repartições respectivas poderão os adjuntos praticar quaisquer actos da competência destes, desempenhando interinamente as funções dos chefes das repartições respectivas que faltarem ou estiverem legalmente impedidos.
 
 § único. Se, porém, o director-geral o entender conveniente poderá determinar que qualquer chefe de repartição seja substituído nas suas faltas e impedimentos legais por um adjunto do mesmo director-geral.
 
 #### SECÇÃO V — Dos chefes de secção
 
-###### Art. 46.º Incumbe aos chefes de secção:
+Art. 46.º Incumbe aos chefes de secção:
 
 1.º Coordenar a actividade das suas secções;
 
@@ -560,33 +595,33 @@ Catorze repartições de despesa.
 
 3.º Esclarecer o chefe da repartição.
 
-###### Art. 47.º No desempenho das suas funções de coordenar a actividade das secções respectivas compete aos chefes de secção:
+Art. 47.º No desempenho das suas funções de coordenar a actividade das secções respectivas compete aos chefes de secção:
 
 1.º Manter a ordem nas suas secções;
 
 2.º Dirigir os trabalhos de que as mesmas secções sejam encarregadas.
 
-###### Art. 48.º No exercício das suas atribuições de assegurar, dentro das secções a seu cargo, a execução das ordens do chefe da repartição compete aos chefes de secção:
+Art. 48.º No exercício das suas atribuições de assegurar, dentro das secções a seu cargo, a execução das ordens do chefe da repartição compete aos chefes de secção:
 
 1.º Promover e fiscalizar a execução das ordens do chefe de repartição em matéria da sua competência;
 
 2.º Expor ao chefe de repartição as dúvidas que lhes surjam quanto a trabalhos por estes ordenados.
 
-###### Art. 49.º No uso da sua função de esclarecimento do chefe de repartição compete aos chefes de secção fornecer-lhe os esclarecimentos, notas e informações necessários para a conveniente instrução dos processos.
+Art. 49.º No uso da sua função de esclarecimento do chefe de repartição compete aos chefes de secção fornecer-lhe os esclarecimentos, notas e informações necessários para a conveniente instrução dos processos.
 
 #### SECÇÃO VI — Dos funcionários em geral
 
-###### Art. 50.º As atribuições e competência dos restantes funcionários do quadro do pessoal superior da Direcção-Geral da Contabilidade Pública serão definidas pelos seus superiores dentro das atribuições e competência dos serviços em que aqueles funcionários estão integrados.
+Art. 50.º As atribuições e competência dos restantes funcionários do quadro do pessoal superior da Direcção-Geral da Contabilidade Pública serão definidas pelos seus superiores dentro das atribuições e competência dos serviços em que aqueles funcionários estão integrados.
 
 #### SECÇÃO VII — Do pessoal menor
 
-###### Art. 51.º Cumpre ao pessoal menor desempenhar-se das tarefas de que foi incumbido pelos funcionários da respectiva repartição, em ordem ao funcionamento dos serviços.
+Art. 51.º Cumpre ao pessoal menor desempenhar-se das tarefas de que foi incumbido pelos funcionários da respectiva repartição, em ordem ao funcionamento dos serviços.
 
 ### CAPÍTULO III — Do recrutamento e provimento
 
 #### SECÇÃO I — Do ingresso
 
-###### Art. 52.º Salvas as excepções consignadas nos §§ 1.º, 2.º e 3.º, o ingresso no quadro do pessoal maior, de nomeação vitalícia, da Direcção-Geral da Contabilidade Pública é feito na categoria de terceiro-oficial, mediante concurso de habilitação entre indivíduos, de idade não inferior a 20 nem superior a 35 anos, que possuam o curso geral de comércio (incluindo a secção preparatória para os institutos comerciais), o 2.º ciclo liceal ou habilitações equivalentes.
+Art. 52.º Salvas as excepções consignadas nos §§ 1.º, 2.º e 3.º, o ingresso no quadro do pessoal maior, de nomeação vitalícia, da Direcção-Geral da Contabilidade Pública é feito na categoria de terceiro-oficial, mediante concurso de habilitação entre indivíduos, de idade não inferior a 20 nem superior a 35 anos, que possuam o curso geral de comércio (incluindo a secção preparatória para os institutos comerciais), o 2.º ciclo liceal ou habilitações equivalentes.
 
 § 1.º Verificando-se a hipótese prevista no artigo 58.º poderá o Ministro das Finanças autorizar que sejam admitidos a concurso para lugares de primeiro-oficial indivíduos estranhos ao quadro, com idade não inferior a 21 anos e não superior a 30, que tenham tido aprovação nas cadeiras de Finanças (II) ou de Economia (III) dos cursos superiores de Finanças ou de Economia.
 
@@ -594,25 +629,25 @@ Catorze repartições de despesa.
 
 § 3.º Na falta de candidatos aprovados para o preenchimento das vagas de chefes de secção que ocorrerem no período da validade do concurso poderão no concurso seguinte, mediante autorização do Ministro, ser concorrentes a esses lugares indivíduos não funcionários do quadro, de idade não inferior a 25 nem superior a 35 anos, habilitados com a licenciatura em Ciências Económicas e Financeiras ou com os cursos superiores de Finanças ou de Economia.
 
-###### Art. 53.º Os dactilógrafos serão recrutados entre indivíduos dos dois sexos, de idade não inferior a 20 nem superior a 30 anos, possuindo o 1.º ciclo do ensino liceal ou habilitações equivalentes e que em concurso de provas práticas demonstrem ter conhecimentos perfeitos de dactilografia.
+Art. 53.º Os dactilógrafos serão recrutados entre indivíduos dos dois sexos, de idade não inferior a 20 nem superior a 30 anos, possuindo o 1.º ciclo do ensino liceal ou habilitações equivalentes e que em concurso de provas práticas demonstrem ter conhecimentos perfeitos de dactilografia.
 
-###### Art. 54.º O pessoal menor será contratado entre os indivíduos, com a idade de 20 a 35 anos, habilitados com exame de instrução primária.
+Art. 54.º O pessoal menor será contratado entre os indivíduos, com a idade de 20 a 35 anos, habilitados com exame de instrução primária.
 
 #### SECÇÃO II — Da promoção
 
-###### Art. 55.º A promoção, dentro do quadro da Direcção-Geral da Contabilidade Pública, depende de concurso de habilitação, salvo o disposto no artigo 59.º
+Art. 55.º A promoção, dentro do quadro da Direcção-Geral da Contabilidade Pública, depende de concurso de habilitação, salvo o disposto no artigo 59.º
 
-###### Art. 56.º São candidatos aos concursos para os diversos lugares da Direcção-Geral da Contabilidade Pública:
+Art. 56.º São candidatos aos concursos para os diversos lugares da Direcção-Geral da Contabilidade Pública:
 
 a) Para chefes de secção, os primeiros-oficiais do quadro da Direcção-Geral, bem como os estagiários que tenham completado dois anos de estágio com bom aproveitamento e boas informações sobre a sua aptidão e serviços prestados;
 
 b) Para primeiros-oficiais, os segundos-oficiais, e para esta última categoria, os terceiros-oficiais do mesmo quadro.
 
-###### Art. 57.º Sòmente são admitidos ao concurso da classe imediatamente superior os candidatos com três anos de serviço efectivo no cargo, salvo os casos especialmente previstos neste regulamento e se ao concurso forem indivíduos estranhos com habilitações especiais que aqueles candidatos também possuam.
+Art. 57.º Sòmente são admitidos ao concurso da classe imediatamente superior os candidatos com três anos de serviço efectivo no cargo, salvo os casos especialmente previstos neste regulamento e se ao concurso forem indivíduos estranhos com habilitações especiais que aqueles candidatos também possuam.
 
-###### Art. 58.º Quando o número de candidatos aprovados em concurso para lugares de primeiro-oficial não seja suficiente para o preenchimento das vagas que ocorrerem durante o prazo da sua validade, no concurso imediato o Ministro poderá autorizar a admissão dos concorrentes normais com dispensa de três anos de serviço na categoria de segundo-oficial, e bem assim os terceiros-oficiais que nesta categoria tenham, pelo menos, três anos de bom e efectivo serviço.
+Art. 58.º Quando o número de candidatos aprovados em concurso para lugares de primeiro-oficial não seja suficiente para o preenchimento das vagas que ocorrerem durante o prazo da sua validade, no concurso imediato o Ministro poderá autorizar a admissão dos concorrentes normais com dispensa de três anos de serviço na categoria de segundo-oficial, e bem assim os terceiros-oficiais que nesta categoria tenham, pelo menos, três anos de bom e efectivo serviço.
 
-###### Art. 59.º Os lugares de chefes de repartição são providos, sob proposta fundamentada do director-geral da Contabilidade Pública, por escolha entre os chefes de secção com três anos de serviço no cargo que tiverem revelado na sua carreira melhores aptidões de direcção, zelo e assiduidade.
+Art. 59.º Os lugares de chefes de repartição são providos, sob proposta fundamentada do director-geral da Contabilidade Pública, por escolha entre os chefes de secção com três anos de serviço no cargo que tiverem revelado na sua carreira melhores aptidões de direcção, zelo e assiduidade.
 
 § único. Havendo chefe de secção com os requisitos exigidos, mas sem três anos de serviço, poderá o Ministro das Finanças autorizar a nomeação provisória, que se converterá em definitiva se o director-geral renovar a proposta depois de decorrido o tempo que faltar para que o nomeado complete três anos de serviço.
 
@@ -620,65 +655,65 @@ b) Para primeiros-oficiais, os segundos-oficiais, e para esta última categoria,
 
 ##### SUBSECÇÃO I — Disposições comuns
 
-###### Art. 60.º Os concursos para lugares do quadro da Direcção-Geral da Contabilidade Pública são abertos, sob proposta do director-geral, em data determinada pelo Ministro das Finanças.
+Art. 60.º Os concursos para lugares do quadro da Direcção-Geral da Contabilidade Pública são abertos, sob proposta do director-geral, em data determinada pelo Ministro das Finanças.
 
-###### Art. 61.º O anúncio para admissão ao concurso é expedido pela Direcção-Geral, fixando-se para a apresentação dos requerimentos e documentos o prazo máximo de 30 dias, a contar da data da sua publicação no Diário do Governo.
+Art. 61.º O anúncio para admissão ao concurso é expedido pela Direcção-Geral, fixando-se para a apresentação dos requerimentos e documentos o prazo máximo de 30 dias, a contar da data da sua publicação no Diário do Governo.
 
-###### Art. 62.º Os requerimentos são entregues na Direcção-Geral, podendo deles passar recibo, datado, o funcionário que os recebeu, se assim for solicitado pelos interessados.
+Art. 62.º Os requerimentos são entregues na Direcção-Geral, podendo deles passar recibo, datado, o funcionário que os recebeu, se assim for solicitado pelos interessados.
 
-###### Art. 63.º O director-geral da Contabilidade Pública decidirá sobre a admissão ou exclusão dos candidatos, fundamentando, no segundo caso, a sua decisão.
+Art. 63.º O director-geral da Contabilidade Pública decidirá sobre a admissão ou exclusão dos candidatos, fundamentando, no segundo caso, a sua decisão.
 
 § único. Se do exame feito aos documentos se notarem deficiências ou omissões serão convidados os interessados, por anúncio publicado no Diário do Governo, a suprir as faltas no prazo de dez dias, sob pena de ficarem excluídos do concurso.
 
-###### Art. 64.º Expirado o prazo previsto no artigo anterior, serão publicados no Diário do Governo, por ordem alfabética, os nomes dos candidatos que estejam em condições legais de serem admitidos ao concurso, e bem assim os dos excluídos. No mesmo anúncio indicar-se-á, se for possível, o local, dia e hora em que as provas devem ser prestadas.
+Art. 64.º Expirado o prazo previsto no artigo anterior, serão publicados no Diário do Governo, por ordem alfabética, os nomes dos candidatos que estejam em condições legais de serem admitidos ao concurso, e bem assim os dos excluídos. No mesmo anúncio indicar-se-á, se for possível, o local, dia e hora em que as provas devem ser prestadas.
 
 § 1.º Contra a exclusão de qualquer candidato há recurso para o Ministro das Finanças no prazo de dez dias, contados da data da publicação do anúncio no Diário do Governo.
 
 § 2.º Os recursos a que se refere este artigo não suspendem o expediente dos concursos. Os candidatos que obtiverem provimento são avisados, por anúncio publicado no Diário do Governo, do dia, hora e local em que devem prestar provas.
 
-###### Art. 65.º Os júris dos concursos para os diversos lugares da Direcção-Geral da Contabilidade Pública são constituídos pela forma seguinte:
+Art. 65.º Os júris dos concursos para os diversos lugares da Direcção-Geral da Contabilidade Pública são constituídos pela forma seguinte:
 
 a) Para chefes de secção, primeiros e segundos-oficiais, pelo director-geral, que será o presidente, um inspector-chefe da Inspecção-Geral de Finanças e um chefe de repartição da própria Direcção-Geral da Contabilidade Pública;
 
 b) Para terceiros-oficiais e dactilógrafos, pelo chefe da Repartição de Expediente, que será o presidente, por um inspector contabilista da Inspecção-Geral de Finanças e por outro chefe de repartição da Direcção-Geral da Contabilidade Pública.
 
-###### Art. 66.º São vogais natos dos júris os que deles fazem parte pela função que desempenharem. Os restantes são de nomeação do Ministro e exercem as suas funções durante dois anos, findos os quais podem ser reconduzidos.
+Art. 66.º São vogais natos dos júris os que deles fazem parte pela função que desempenharem. Os restantes são de nomeação do Ministro e exercem as suas funções durante dois anos, findos os quais podem ser reconduzidos.
 
-###### Art. 67.º O júri só pode funcionar quando estiver reunida a maioria absoluta dos seus vogais.
+Art. 67.º O júri só pode funcionar quando estiver reunida a maioria absoluta dos seus vogais.
 
 § 1.º Para ocorrer ao impedimento legal dos vogais do júri de escolha do Ministro serão por este nomeados vogais suplentes;
 
 § 2.º Se o impedimento for do presidente, será este substituído pelo funcionário mais categorizado que fizer parte do júri, e, entre os de igual categoria, pelo mais antigo.
 
-###### Art. 68.º O vogal do júri que deixar de assistir a toda a prova oral de algum candidato não pode votar na classificação dos candidatos que prestarem provas nesse dia.
+Art. 68.º O vogal do júri que deixar de assistir a toda a prova oral de algum candidato não pode votar na classificação dos candidatos que prestarem provas nesse dia.
 
-###### Art. 69.º O presidente do júri dirige o concurso e dispõe de voto qualificado em caso de empate.
+Art. 69.º O presidente do júri dirige o concurso e dispõe de voto qualificado em caso de empate.
 
-###### Art. 70.º Das sessões do júri lavrar-se-ão actas em livro especial, devendo delas constar sucintamente, mas com clareza, todas as resoluções tomadas e o resultado das provas.
+Art. 70.º Das sessões do júri lavrar-se-ão actas em livro especial, devendo delas constar sucintamente, mas com clareza, todas as resoluções tomadas e o resultado das provas.
 
-###### Art. 71.º Os programas dos concursos são organizados pela Direcção-Geral e, depois de aprovados pelo Ministro, serão publicados em portaria no Diário do Governo até 60 dias antes do início das provas.
+Art. 71.º Os programas dos concursos são organizados pela Direcção-Geral e, depois de aprovados pelo Ministro, serão publicados em portaria no Diário do Governo até 60 dias antes do início das provas.
 
-###### Art. 72.º Salvas as excepções previstas nos §§ 1.º e 2.º, as provas são escritas e orais.
+Art. 72.º Salvas as excepções previstas nos §§ 1.º e 2.º, as provas são escritas e orais.
 
 § 1.º Nos concursos para terceiro-oficial haverá apenas provas escritas.
 
 § 2.º As provas dos concursos para dactilógrafos podem ser escritas e práticas.
 
-###### Art. 73.º As provas escritas e práticas são anunciadas no Diário do Governo pelo menos com 30 dias de antecedência.
+Art. 73.º As provas escritas e práticas são anunciadas no Diário do Governo pelo menos com 30 dias de antecedência.
 
 § 1.º As provas escritas consistem na resolução de dois pontos - teórico e prático - e determinam a exclusão da prova oral se o candidato não alcançar a média mínima de 10 valores.
 
 § 2.º As provas práticas são destinadas a avaliar do grau de conhecimentos dos candidatos em dactilografia e igualmente os excluem do concurso se não obtiverem o mínimo de 10 valores.
 
-###### Art. 74.º Os pontos para as provas escritas são organizados pelo júri dentro da matéria do programa, graduando-se a sua dificuldade consoante a classe ou cargo a que os candidatos sejam concorrentes.
+Art. 74.º Os pontos para as provas escritas são organizados pelo júri dentro da matéria do programa, graduando-se a sua dificuldade consoante a classe ou cargo a que os candidatos sejam concorrentes.
 
 Nenhum ponto pode repetir-se na mesma época do concurso nem na seguinte.
 
-###### Art. 75.º Serão elaborados cinco pontos práticos e cinco teóricos, numerados de 1 a 5, que o júri rubricará, encerrando-se dois, um de cada espécie, em igual número de sobrescritos, que por sua vez serão lacrados com sinete da Direcção-Geral. No sobrescrito indicar-se-á o número do ponto e do cargo a que respeitar a prova.
+Art. 75.º Serão elaborados cinco pontos práticos e cinco teóricos, numerados de 1 a 5, que o júri rubricará, encerrando-se dois, um de cada espécie, em igual número de sobrescritos, que por sua vez serão lacrados com sinete da Direcção-Geral. No sobrescrito indicar-se-á o número do ponto e do cargo a que respeitar a prova.
 
-###### Art. 76.º Os pontos são tirados à sorte pelo primeiro concorrente na ordem alfabética do nome e lidos pelo presidente do júri aos candidatos para os escreverem e resolverem.
+Art. 76.º Os pontos são tirados à sorte pelo primeiro concorrente na ordem alfabética do nome e lidos pelo presidente do júri aos candidatos para os escreverem e resolverem.
 
-###### Art. 77.º Os candidatos não poderão comunicar entre si nem com pessoa estranha ao júri, nem tão-pouco consultar livros ou apontamentos, mas ser-lhes-á facultada a legislação que pedirem.
+Art. 77.º Os candidatos não poderão comunicar entre si nem com pessoa estranha ao júri, nem tão-pouco consultar livros ou apontamentos, mas ser-lhes-á facultada a legislação que pedirem.
 
 § 1.º Os candidatos que infringirem a disposição deste artigo serão excluídos do concurso por deliberação do júri e punidos disciplinarmente se forem funcionários públicos. Não o sendo, ficam inibidos de voltar ao primeiro concurso que posteriormente se efectuar.
 
@@ -686,27 +721,27 @@ Nenhum ponto pode repetir-se na mesma época do concurso nem na seguinte.
 
 § 3.º Poderão ainda ser consultadas compilações de legislação e outras publicações de carácter técnico, desde que a consulta destas tenha sido prèviamente autorizada pelo presidente do júri.
 
-###### Art. 78.º A prova escrita terá a duração máxima de quatro horas, contadas a partir do momento em que terminar a leitura do enunciado.
+Art. 78.º A prova escrita terá a duração máxima de quatro horas, contadas a partir do momento em que terminar a leitura do enunciado.
 
 § 1.º Decorrido o tempo indicado no corpo deste artigo os pontos deverão ser entregues ao júri, assinados e rubricados em todas as folhas pelos candidatos.
 
 § 2.º O júri rubricará todos os pontos logo que lhe forem entregues.
 
-###### Art. 79.º Quando, para melhor apreciação da preparação dos candidatos a concurso, se reconheça haver vantagem na execução dos pontos - teórico e prático - em dias diferentes poderá assim ser autorizado pelo Ministro das Finanças, sob proposta do director-geral da Contabilidade Pública, estabelecendo-se a duração máxima de três horas para cada ponto.
+Art. 79.º Quando, para melhor apreciação da preparação dos candidatos a concurso, se reconheça haver vantagem na execução dos pontos - teórico e prático - em dias diferentes poderá assim ser autorizado pelo Ministro das Finanças, sob proposta do director-geral da Contabilidade Pública, estabelecendo-se a duração máxima de três horas para cada ponto.
 
-###### Art. 80.º O candidato que faltar ao sorteio do ponto ou a qualquer das provas será eliminado do concurso.
+Art. 80.º O candidato que faltar ao sorteio do ponto ou a qualquer das provas será eliminado do concurso.
 
 § único. Se a falta for devida a motivo de força maior devidamente comprovado, o candidato poderá tirar ponto e prestar provas, desde que se apresente até ao último dia do concurso.
 
-###### Art. 81.º Reunidas todas as provas, procederá o júri à sua apreciação no mesmo dia ou em tantos dias seguidos quantos forem necessários para concluir este serviço, findo o qual será afixada a lista dos candidatos admitidos à prova oral.
+Art. 81.º Reunidas todas as provas, procederá o júri à sua apreciação no mesmo dia ou em tantos dias seguidos quantos forem necessários para concluir este serviço, findo o qual será afixada a lista dos candidatos admitidos à prova oral.
 
-###### Art. 82.º As provas orais constam de interrogatórios sobre a matéria do programa e têm a duração de 40 minutos.
+Art. 82.º As provas orais constam de interrogatórios sobre a matéria do programa e têm a duração de 40 minutos.
 
 § único. A duração das provas orais nos concursos para chefes de secção é de uma hora.
 
-###### Art. 83.º O tempo das provas orais é distribuído igualmente pelos arguentes.
+Art. 83.º O tempo das provas orais é distribuído igualmente pelos arguentes.
 
-###### Art. 84.º As provas são classificadas por notas expressas de 0 a 20, sem qualquer arredondamento.
+Art. 84.º As provas são classificadas por notas expressas de 0 a 20, sem qualquer arredondamento.
 
 § 1.º Na determinação da nota atender-se-á à exactidão das respostas, aos conhecimentos e inteligência manifestados pelo candidato no seu desenvolvimento e à clareza da exposição.
 
@@ -716,17 +751,17 @@ Nenhum ponto pode repetir-se na mesma época do concurso nem na seguinte.
 
 § 4.º O modelo da ficha e a tabela a que se referem os parágrafos anteriores serão aprovados por despacho do Ministro das Finanças.
 
-###### Art. 85.º A classificação final corresponde à média dos valores votados em sessão secreta para as duas provas.
+Art. 85.º A classificação final corresponde à média dos valores votados em sessão secreta para as duas provas.
 
 § 1.º Nos concursos para promoção a classificação final dos candidatos louvados por despacho ministerial corresponde à média dos valores das duas provas aumentada de um valor.
 
 § 2.º Consideram-se reprovados os candidatos cuja classificação final for inferior a 10 valores.
 
-###### Art. 86.º Ao respectivo processo de concurso juntar-se-á, devidamente preenchido, um boletim de classificação de cada candidato, conforme o modelo anexo a este regulamento.
+Art. 86.º Ao respectivo processo de concurso juntar-se-á, devidamente preenchido, um boletim de classificação de cada candidato, conforme o modelo anexo a este regulamento.
 
 § único. O boletim será assinado pelo presidente do júri.
 
-###### Art. 87.º São condições de preferência entre os candidatos com igual classificação:
+Art. 87.º São condições de preferência entre os candidatos com igual classificação:
 
 1.º Categoria mais elevada;
 
@@ -760,13 +795,13 @@ i) Os candidatos com o curso das escolas secundárias comerciais;
 
 j) Os candidatos com o 2.º ciclo do curso dos liceus que possuam as cadeiras indicadas na alínea g).
 
-###### Art. 88.º Os funcionários reprovados em concurso só podem ser admitidos a novo concurso para a mesma classe ou para a imediata decorrido um ano sobre a reprovação.
+Art. 88.º Os funcionários reprovados em concurso só podem ser admitidos a novo concurso para a mesma classe ou para a imediata decorrido um ano sobre a reprovação.
 
-###### Art. 89.º Os funcionários que tenham sofrido pena disciplinar superior a 60 dias de suspensão só serão admitidos a concurso para promoção decorridos dois anos sobre a data do despacho que os puniu.
+Art. 89.º Os funcionários que tenham sofrido pena disciplinar superior a 60 dias de suspensão só serão admitidos a concurso para promoção decorridos dois anos sobre a data do despacho que os puniu.
 
 § único. Se a pena aplicada for mais grave do que a do n.º 7.º do artigo 11.º do Estatuto Disciplinar dos Funcionários Civis do Estado, aprovado pelo [Decreto-Lei n.º 32659](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32659-1943-594715), de 9 de Fevereiro de 1943, o funcionário não será admitido em concursos para promoção a lugar de categoria superior à de primeiro-oficial.
 
-###### Art. 90.º Quando um funcionário aprovado em concurso para promoção e reunindo os demais requisitos indispensáveis desistir da promoção a que tem direito observar-se-á o seguinte:
+Art. 90.º Quando um funcionário aprovado em concurso para promoção e reunindo os demais requisitos indispensáveis desistir da promoção a que tem direito observar-se-á o seguinte:
 
 1.º A primeira desistência fá-lo-á descer dez números na escala das promoções;
 
@@ -774,21 +809,21 @@ j) Os candidatos com o 2.º ciclo do curso dos liceus que possuam as cadeiras in
 
 § único. Havendo vários funcionários nas circunstâncias indicadas no n.º 2.º, guardarão entre si, na escala, a ordem de precedência que ocupavam antes de haverem desistido da promoção.
 
-###### Art. 91.º Quando, pelo elevado número de candidatos a concurso dos lugares de entrada nos quadros, se verifique a impossibilidade de obter antes da realização das provas as informações que se julguem necessárias a seu respeito, o Ministro poderá dispensa-las condicionalmente, usando, neste caso, o Conselho de Ministros da faculdade que lhe é atribuída pelo artigo 4.º do [Decreto-Lei n.º 25317](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25317-1935-577315), de 13 de Maio de 1935, sobre listas parciais organizadas para os efeitos de nomeação.
+Art. 91.º Quando, pelo elevado número de candidatos a concurso dos lugares de entrada nos quadros, se verifique a impossibilidade de obter antes da realização das provas as informações que se julguem necessárias a seu respeito, o Ministro poderá dispensa-las condicionalmente, usando, neste caso, o Conselho de Ministros da faculdade que lhe é atribuída pelo artigo 4.º do [Decreto-Lei n.º 25317](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25317-1935-577315), de 13 de Maio de 1935, sobre listas parciais organizadas para os efeitos de nomeação.
 
-###### Art. 92.º O director-geral da Contabilidade Pública promoverá a organização da lista geral dos aprovados em cada concurso, respeitando-se as preferências prescritas no artigo 89.º
+Art. 92.º O director-geral da Contabilidade Pública promoverá a organização da lista geral dos aprovados em cada concurso, respeitando-se as preferências prescritas no artigo 89.º
 
 § 1.º A lista será organizada por ordem decrescente, com indicação rigorosa dos valores de cada candidato, e publicada no Diário do Governo.
 
 § 2.º Os candidatos que se julguem lesados poderão recorrer para o Ministro das Finanças no prazo de dez dias, contados da data da publicação da lista no Diário do Governo.
 
-###### Art. 93.º As classificações dos concursos são válidas pelo prazo de três anos, a partir da publicação da lista no Diário do Governo.
+Art. 93.º As classificações dos concursos são válidas pelo prazo de três anos, a partir da publicação da lista no Diário do Governo.
 
 § único. As classificações dos concursos para terceiros-oficiais e dactilógrafos são apenas válidas por dois anos.
 
 ##### SUBSECÇÃO II — Dos concursos para ingresso
 
-###### Art. 94.º Os candidatos ao ingresso no quadro da Direcção-Geral da Contabilidade Pública deverão apresentar os documentos seguintes:
+Art. 94.º Os candidatos ao ingresso no quadro da Direcção-Geral da Contabilidade Pública deverão apresentar os documentos seguintes:
 
 1) Requerimento;
 
@@ -816,26 +851,26 @@ j) Os candidatos com o 2.º ciclo do curso dos liceus que possuam as cadeiras in
 
 § 2.º Os documentos aludidos no parágrafo precedente poderão ser restituídos, mediante recibo, aos candidatos não aprovados e aos que desistam da nomeação ou que não tenham sido nomeados durante o prazo de validade do concurso.
 
-###### Art. 95.º As provas do concurso para chefes de repartição, a que se refere o § 2.º do artigo 52.º, serão prestadas perante um júri constituído pelo director-geral da Contabilidade Pública, que presidirá, por um inspector-chefe da Inspecção-Geral de Finanças e por um chefe de repartição da Direcção-Geral da Contabilidade Pública.
+Art. 95.º As provas do concurso para chefes de repartição, a que se refere o § 2.º do artigo 52.º, serão prestadas perante um júri constituído pelo director-geral da Contabilidade Pública, que presidirá, por um inspector-chefe da Inspecção-Geral de Finanças e por um chefe de repartição da Direcção-Geral da Contabilidade Pública.
 
 § único. O inspector-chefe da Inspecção-Geral de Finanças e o chefe de repartição da Direcção-Geral da Contabilidade Pública serão nomeados pelo Ministro das Finanças e intervirão obrigatòriamente como arguentes.
 
-###### Art. 96.º O programa do concurso a que alude o artigo anterior será organizado pelo director-geral da Contabilidade Pública e publicado no Diário do Governo, depois de aprovado pelo Ministro das Finanças.
+Art. 96.º O programa do concurso a que alude o artigo anterior será organizado pelo director-geral da Contabilidade Pública e publicado no Diário do Governo, depois de aprovado pelo Ministro das Finanças.
 
 ##### SUBSECÇÃO III — Dos concursos para promoção
 
-###### Art. 97.º Os candidatos a concurso para promoção que já depois de funcionários tenham adquirido quaisquer habilitações literárias superiores às que possuíam deverão juntar os respectivos documentos para efeitos das preferências referidas no artigo 89.º
+Art. 97.º Os candidatos a concurso para promoção que já depois de funcionários tenham adquirido quaisquer habilitações literárias superiores às que possuíam deverão juntar os respectivos documentos para efeitos das preferências referidas no artigo 89.º
 
 #### SECÇÃO IV — Do provimento
 
-###### Art. 98.º AS promoções e primeiras nomeações, logo que haja vagas no quadro da Direcção-Geral da Contabilidade Pública, serão feitas pela Ordem da lista geral dos aprovados nos concursos para promoção e para ingresso, respectivamente.
+Art. 98.º AS promoções e primeiras nomeações, logo que haja vagas no quadro da Direcção-Geral da Contabilidade Pública, serão feitas pela Ordem da lista geral dos aprovados nos concursos para promoção e para ingresso, respectivamente.
 
 § único. Exceptua-se do disposto no corpo deste artigo, ùnicamente, o que fica estabelecido no artigo 59.º e seu parágrafo.
 
-###### Art. 99.º Os candidatos aprovados em concurso para ingresso poderão ser providos, mesmo para além do limite máximo de idade, sempre que o atraso no provimento seja devido a caso de força maior provocado pela falta de observância pontual das formalidades prescritas no [Decreto-Lei n.º 25317](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25317-1935-577315).
+Art. 99.º Os candidatos aprovados em concurso para ingresso poderão ser providos, mesmo para além do limite máximo de idade, sempre que o atraso no provimento seja devido a caso de força maior provocado pela falta de observância pontual das formalidades prescritas no [Decreto-Lei n.º 25317](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25317-1935-577315).
 
 Ministério das Finanças, 27 de Abril de 1961. - O Ministro das Finanças, António Manuel Pinto Barbosa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/04/09800/04860495.pdf))](https://files.diariodarepublica.pt/1s/1961/04/09800/04860495.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/04/09800/04860495.pdf)
 
 Ministério das Finanças, 27 de Abril de 1961. - O Ministro das Finanças, António Manuel Pinto Barbosa.

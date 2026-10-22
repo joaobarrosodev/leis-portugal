@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43301-1960-514250
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-03-09T00:00:00Z'
+  retrieved_at: '2026-10-22T19:20:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b7c405c0b3a8425aaad6b1333c8350899cca95f54fde91eac9d0a8058b824c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16083ab5015d9c659f209deaad4e8e8a0720830e2cff75490a71b556be1c5f2f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:20:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,24 @@ relationships:
   target: pt:dre:194412:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:251422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423604:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:20:47Z'
   warnings: []
   errors: []
 ---
@@ -97,16 +105,16 @@ Considerando o disposto no artigo 49.º do [Decreto-Lei n.º 41492](https://diar
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º As vacaturas verificadas no quadro de pilotos navegadores podem ser preenchidas pelo ingresso de oficiais milicianos pilotos aviadores e de oficiais milicianos navegadores em serviço nas fileiras ou na situação de disponibilidade.
+Artigo 1.º As vacaturas verificadas no quadro de pilotos navegadores podem ser preenchidas pelo ingresso de oficiais milicianos pilotos aviadores e de oficiais milicianos navegadores em serviço nas fileiras ou na situação de disponibilidade.
 
-###### Art. 2.º Transitòriamente, podem as mesmas vacaturas ser também preenchidas pelo ingresso de sargentos especialistas habilitados, nesta data, com o curso de navegação e comprovadamente aptos nesta especialidade.
+Art. 2.º Transitòriamente, podem as mesmas vacaturas ser também preenchidas pelo ingresso de sargentos especialistas habilitados, nesta data, com o curso de navegação e comprovadamente aptos nesta especialidade.
 
-###### Art. 3.º As condições do ingresso referido nos artigos 1.º e 2.º são fixadas pelo Subsecretário de Estado da Aeronáutica.
+Art. 3.º As condições do ingresso referido nos artigos 1.º e 2.º são fixadas pelo Subsecretário de Estado da Aeronáutica.
 
-###### Art. 4.º O número do oficiais que ingressem, nos termos dos artigos 1.º e 2.º, no quadro de pilotos navegadores, não pode ser superior ao número de pilotos navegadores autorizado para a 2.ª e 3.ª regiões aéreas.
+Art. 4.º O número do oficiais que ingressem, nos termos dos artigos 1.º e 2.º, no quadro de pilotos navegadores, não pode ser superior ao número de pilotos navegadores autorizado para a 2.ª e 3.ª regiões aéreas.
 
-###### Art. 5.º É revogado o [Decreto n.º 42279](https://diariodarepublica.pt/dr/detalhe/decreto/42279-1959-423604), de 25 de Maio de 1959.
+Art. 5.º É revogado o [Decreto n.º 42279](https://diariodarepublica.pt/dr/detalhe/decreto/42279-1959-423604), de 25 de Maio de 1959.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Novembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Júlio Carlos Alves Dias Botelho Moniz.

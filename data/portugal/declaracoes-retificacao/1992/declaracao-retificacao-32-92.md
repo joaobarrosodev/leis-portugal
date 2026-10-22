@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 76/1992, 2º Suplemento, Série I-B de 1992-03-31
   number: '76'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1512-(4) a 1512-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/03/076b02/00040004.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/32/1992/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/32-1992-647959
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:34:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af1e932e0816477307aaadb714079676c9cb595cb0395d9ab034ad3bc684720a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a51923e42a2d71738c5731e7bca20e322efec2ae051669cd0feeb352fa128a1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:34:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Arganil
 - Arouca
 - Cartório Notarial
+- Cascais
 - Castelo de Paiva
 - Condeixa-a-nova
+- Conservatória do Registo Civil
 - Conservatória do Registo Comercial
 - Conservatória do Registo Predial
+- Évora
 - Mondim de Basto
 - Oficial dos Registos e do Notariado
 - Pessoal Administrativo
-- Setúbal
-- Arganil
 - Ponte de Sor
 - Quadro de Pessoal
 - Sabrosa
 - Salvaterra de Magos
-- Évora
-- Conservatória do Registo Civil
-- Cascais
+- Setúbal
 - Torres Vedras
 - VILA do Porto
 relationships:
@@ -93,21 +93,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/71/1992/02/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/71/1992/02/01/p/dre
+- type: cites
+  target: pt:dre:149831:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:34:51Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 32/92
+# Declaração de rectificação n.º 32/92
 
 Segundo comunicação do Ministério da Justiça, a [Portaria n.º 71/92](https://diariodarepublica.pt/dr/detalhe/portaria/71-1992-149831), publicada no Diário da República, 1.ª série, n.º 27, de 1 de Fevereiro de 1992, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
 

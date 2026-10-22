@@ -26,9 +26,7 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -49,25 +47,32 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/3/2026/09/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2026-1168979169
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-10T00:00:00Z'
+  retrieved_at: '2026-10-22T18:52:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 418a3ea1849610f59c61bfe640f26235c41a8dc3ef3aa3f27c3fe4aecfbf21bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05870a8bcf2e937ce1729e5452a22a3968a420c6be74a26707788d3e3dc12284
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:52:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Assembleia Legislativa
+- Deficiente Visual
+- Direito de Voto
+- Igualdade de Género
+- Lei Eleitoral
+- Sistema Eleitoral
 relationships:
 - type: cites
   target: eli:ht
@@ -113,16 +118,95 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/5/2006/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/5/2006/08/31/p/dre
+- type: cites
+  target: pt:dre:140950556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66487455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66761447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692850:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1182082412:por
+  label: Retificado o n.º 2 do artigo 63.º da Lei Eleitoral para a Assembleia Legislativa da Região Autónoma dos Açores, constante
+    da republicação em anexo da presente Lei Orgânica, pelo(a) Declaração de Retificação n.º 38/2026/1 - Diário da República
+    n.º 201/2026, Série I de 2026-10-16
+  source: null
+  date: '2026-10-16'
 article_structure:
-  article_count: 185
+  article_count: 178
   section_count: 33
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:52:55Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +221,7 @@ A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da
 
 ###### Artigo 1.º — Objeto
 
-A presente lei procede à décima alteração à Lei Eleitoral para a Assembleia Legislativa da Região Autónoma dos Açores, aprovada pelo [Decreto-Lei n.º 267/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1980-470458), de 8 de agosto, e alterada pelas Leis n.<sup>os</sup>[28/82](https://diariodarepublica.pt/dr/detalhe/lei/28-1982-377508), de 15 de novembro, e [72/93](https://diariodarepublica.pt/dr/detalhe/lei/72-1993-428825), de 30 de novembro, e pelas Leis Orgânicas n.<sup>os</sup>[2/2000](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), de 14 de julho, [2/2001](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2001-515638), de 25 de agosto, [5/2006](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), de 31 de agosto, [2/2012](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2012-178786), de 14 de junho, [3/2015](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2015-66487455), de 12 de fevereiro, [4/2015](https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2015-66761447), de 16 de março, e [1-B/2020](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-b-2020-140950556), de 21 de agosto, no sentido de reforçar a paridade entre homens e mulheres nas listas de candidatos e de facilitar o exercício do voto às pessoas com deficiência visual, estabelecendo regras claras de distribuição, verificação e devolução das matrizes em braille, bem como formação dos membros de mesa e informação aos eleitores sobre a disponibilidade desse recurso.
+A presente lei procede à décima alteração à Lei Eleitoral para a Assembleia Legislativa da Região Autónoma dos Açores, aprovada pelo [Decreto-Lei n.º 267/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1980-470458), de 8 de agosto, e alterada pelas Leis n.os[28/82](https://diariodarepublica.pt/dr/detalhe/lei/28-1982-377508), de 15 de novembro, e [72/93](https://diariodarepublica.pt/dr/detalhe/lei/72-1993-428825), de 30 de novembro, e pelas Leis Orgânicas n.os[2/2000](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), de 14 de julho, [2/2001](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2001-515638), de 25 de agosto, [5/2006](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), de 31 de agosto, [2/2012](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2012-178786), de 14 de junho, [3/2015](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2015-66487455), de 12 de fevereiro, [4/2015](https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2015-66761447), de 16 de março, e [1-B/2020](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-b-2020-140950556), de 21 de agosto, no sentido de reforçar a paridade entre homens e mulheres nas listas de candidatos e de facilitar o exercício do voto às pessoas com deficiência visual, estabelecendo regras claras de distribuição, verificação e devolução das matrizes em braille, bem como formação dos membros de mesa e informação aos eleitores sobre a disponibilidade desse recurso.
 
 ###### Artigo 2.º — Alteração à Lei Eleitoral para a Assembleia Legislativa da Região Autónoma dos Açores
 
@@ -155,7 +239,9 @@ b) Os que notoriamente apresentem limitação ou alteração grave das funções
 
 c) [...]
 
-###### Artigo 15.º-A — [...]
+Artigo 15.º-A
+
+[...]
 
 1 - [...]
 
@@ -165,7 +251,9 @@ c) [...]
 
 4 - [Revogado.]
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - [...]
 
@@ -173,7 +261,9 @@ c) [...]
 
 3 - Os presidentes de assembleia ou secção de voto verificam, no ato da receção, a integridade e quantidade dos materiais, assinando um auto de verificação e conservação.
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 1 - [...]
 
@@ -195,7 +285,9 @@ c) [...]
 
 10 - O presidente da câmara municipal e os presidentes das assembleias ou secções de voto prestam contas ao membro do Governo Regional com competência em matéria eleitoral dos boletins de voto e das matrizes em braille que tiverem recebido, devendo os presidentes das assembleias ou secções de voto devolver-lhe, no dia seguinte ao da eleição, os boletins não utilizados e os boletins deteriorados ou inutilizados pelos eleitores, bem como as matrizes em braille.
 
-###### Artigo 98.º — [...]
+Artigo 98.º
+
+[...]
 
 1 - [...]
 
@@ -219,7 +311,9 @@ c) [...]
 
 11 - O presidente escreve no boletim devolvido a nota de inutilizado, rubrica-o e conserva-o para os efeitos do n.º 10 do artigo anterior.
 
-###### Artigo 99.º — Voto dos eleitores com deficiência
+Artigo 99.º
+
+Voto dos eleitores com deficiência
 
 1 - [...]
 
@@ -235,13 +329,17 @@ c) [...]
 
 7 - Os membros das mesas de voto devem receber formação prévia sobre o manuseamento e disponibilização das matrizes do boletim de voto em braille, bem como sobre a comunicação acessível a pessoas com deficiência visual.
 
-###### Artigo 102.º — [...]
+Artigo 102.º
+
+[...]
 
 1 - Encerrada a votação, o presidente da assembleia ou secção de voto procede à contagem dos boletins que não foram utilizados e dos que foram inutilizados pelos eleitores e encerra-os em sobrescrito próprio, que fecha e lacra para o efeito do n.º 10 do artigo 97.º
 
 2 - De igual modo, as matrizes em braille, utilizadas ou não, devem ser contabilizadas, higienizadas e acondicionadas em sobrescrito próprio.
 
-###### Artigo 159.º-A — [...]
+Artigo 159.º-A
+
+[...]
 
 A não correção das listas de candidatura não paritárias no prazo previsto no artigo 28.º determina a rejeição de toda a lista.»
 
@@ -259,17 +357,17 @@ A presente lei entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovada em 17 de julho de 2026.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar-Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar-Branco.
 
-**Promulgada em 12 de agosto de 2026.**
+Promulgada em 12 de agosto de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendada em 12 de agosto de 2026.**
+Referendada em 12 de agosto de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -563,7 +661,7 @@ Verificando-se irregularidade processual, o juiz manda notificar imediatamente o
 
 3 - No caso de a lista não conter o número total de candidatos, o mandatário deve completá-la no prazo de dois dias, sob pena de rejeição de toda a lista.
 
-4 - Findos os prazos dos n.<sup>os</sup>2 e 3, o juiz, em 48 horas, faz operar nas listas as retificações ou aditamentos requeridos pelos respetivos mandatários.
+4 - Findos os prazos dos n.os2 e 3, o juiz, em 48 horas, faz operar nas listas as retificações ou aditamentos requeridos pelos respetivos mandatários.
 
 ###### Artigo 30.º — Publicação das decisões
 
@@ -1121,7 +1219,7 @@ b) Ao presidente da câmara do município onde se encontrem eleitores nas condi�
 
 4 - A nomeação de delegados das listas deve ser transmitida ao presidente da câmara até ao décimo quarto dia anterior ao da eleição.
 
-5 - Entre o décimo terceiro e o décimo dias anteriores ao da eleição, o presidente da câmara municipal em cuja área se encontre situado o estabelecimento hospitalar ou prisional com eleitores nas condições do n.º 1, em dia e hora previamente anunciados ao respetivo diretor e aos delegados das listas, desloca-se ao mesmo estabelecimento a fim de ser dado cumprimento, com as necessárias adaptações ditadas pelos constrangimentos dos regimes hospitalares ou prisionais, ao disposto nos n.<sup>os</sup>10 a 18 do artigo 77.º-A.
+5 - Entre o décimo terceiro e o décimo dias anteriores ao da eleição, o presidente da câmara municipal em cuja área se encontre situado o estabelecimento hospitalar ou prisional com eleitores nas condições do n.º 1, em dia e hora previamente anunciados ao respetivo diretor e aos delegados das listas, desloca-se ao mesmo estabelecimento a fim de ser dado cumprimento, com as necessárias adaptações ditadas pelos constrangimentos dos regimes hospitalares ou prisionais, ao disposto nos n.os10 a 18 do artigo 77.º-A.
 
 6 - O presidente da câmara pode excecionalmente fazer-se substituir, para o efeito da diligência prevista no número anterior, por qualquer vereador do município, devidamente credenciado.
 
@@ -1253,7 +1351,7 @@ d) De um modo geral, não perturbar o ato eleitoral.
 
 4 - Quando o entenda necessário, o comandante da força armada, ou um seu delegado credenciado, pode visitar, desarmado e por um período máximo de dez minutos, a assembleia ou secção de voto, a fim de estabelecer contacto com o presidente da mesa ou com quem o substitua.
 
-5 - Nos casos previstos nos n.<sup>os</sup>2 e 3, as operações eleitorais na assembleia ou secção de voto são suspensas, sob pena de nulidade da eleição, até que o presidente da mesa considere verificadas as condições para que possam prosseguir.
+5 - Nos casos previstos nos n.os2 e 3, as operações eleitorais na assembleia ou secção de voto são suspensas, sob pena de nulidade da eleição, até que o presidente da mesa considere verificadas as condições para que possam prosseguir.
 
 ###### Artigo 97.º — Boletins de voto
 
@@ -1723,7 +1821,7 @@ Quem desencaminhar, retiver ou não entregar à junta de freguesia voto antecipa
 
 ###### Artigo 154.º — Recusa de receber reclamações, protestos ou contraprotestos
 
-**O presidente da mesa da assembleia eleitoral que ilegitimamente se recusar a receber reclamação, protesto ou contraprotesto é punido com prisão até 1 ano e multa de 100 € a 500 €.**
+O presidente da mesa da assembleia eleitoral que ilegitimamente se recusar a receber reclamação, protesto ou contraprotesto é punido com prisão até 1 ano e multa de 100 € a 500 €.
 
 ###### Artigo 155.º — Não comparência da força armada
 
@@ -1763,13 +1861,13 @@ As listas que, não respeitando a paridade tal como definida no artigo 15.º-A, 
 
 ###### Artigo 159.º-D — Redução da subvenção para as campanhas eleitorais
 
-1 - Os partidos ou coligações, conforme o caso, que violem o disposto no n.º 2 do artigo 15.º-A, sofrem uma redução na participação nos 80 % da subvenção pública para as campanhas eleitorais previstas no n.º 2 do artigo 18.º da [Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/lei/19-2003-692850), de 20 de junho, alterada pelo [Decreto-Lei n.º 287/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-2003-447325), de 12 de novembro, e pelas Leis n.<sup>os</sup>[64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, [55/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-2010-306575), de 24 de dezembro, e [1/2013](https://diariodarepublica.pt/dr/detalhe/lei/1-2013-588821), de 3 de janeiro, nos seguintes termos:
+1 - Os partidos ou coligações, conforme o caso, que violem o disposto no n.º 2 do artigo 15.º-A, sofrem uma redução na participação nos 80 % da subvenção pública para as campanhas eleitorais previstas no n.º 2 do artigo 18.º da [Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/lei/19-2003-692850), de 20 de junho, alterada pelo [Decreto-Lei n.º 287/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-2003-447325), de 12 de novembro, e pelas Leis n.os[64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, [55/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-2010-306575), de 24 de dezembro, e [1/2013](https://diariodarepublica.pt/dr/detalhe/lei/1-2013-588821), de 3 de janeiro, nos seguintes termos:
 
 a) Se um dos sexos estiver representado na lista de candidatura em percentagem inferior a 20 %, é reduzida a participação naquela subvenção pública em 50 %;
 
 b) Se um dos sexos estiver representado na lista de candidatura em percentagem igual ou superior a 20 % e inferior a 40 %, é reduzida a participação naquela subvenção pública em 25 %.
 
-2 - Os partidos ou coligações, conforme o caso, que violem o disposto no n.º 3 do artigo 15.º-A, sofrem uma redução de 50 % na participação nos 80 % da subvenção pública para as campanhas eleitorais a que teriam direito nos termos do disposto no n.º 2 do artigo 18.º da [Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/lei/19-2003-692850), de 20 de junho, alterada pelo [Decreto-Lei n.º 287/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-2003-447325), de 12 de novembro, e pelas Leis n.<sup>os</sup>[64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, [55/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-2010-306575), de 24 de dezembro, e [1/2013](https://diariodarepublica.pt/dr/detalhe/lei/1-2013-588821), de 3 de janeiro.
+2 - Os partidos ou coligações, conforme o caso, que violem o disposto no n.º 3 do artigo 15.º-A, sofrem uma redução de 50 % na participação nos 80 % da subvenção pública para as campanhas eleitorais a que teriam direito nos termos do disposto no n.º 2 do artigo 18.º da [Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/lei/19-2003-692850), de 20 de junho, alterada pelo [Decreto-Lei n.º 287/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-2003-447325), de 12 de novembro, e pelas Leis n.os[64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, [55/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-2010-306575), de 24 de dezembro, e [1/2013](https://diariodarepublica.pt/dr/detalhe/lei/1-2013-588821), de 3 de janeiro.
 
 ## TÍTULO VIII — DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
@@ -1807,7 +1905,7 @@ Das 13 horas e 30 minutos às 16 horas.
 
 ###### Artigo 163.º — Direito subsidiário
 
-Em tudo o que não estiver regulado no presente diploma aplica-se aos atos que impliquem intervenção de qualquer tribunal o disposto no Código de Processo Civil quanto ao processo declarativo, com exceção dos n.<sup>os</sup> 4 e 5 do artigo 145.º
+Em tudo o que não estiver regulado no presente diploma aplica-se aos atos que impliquem intervenção de qualquer tribunal o disposto no Código de Processo Civil quanto ao processo declarativo, com exceção dos n.os 4 e 5 do artigo 145.º
 
 ###### Artigo 164.º — Entrada em vigor
 
@@ -1821,4 +1919,7 @@ Este diploma entra em vigor na data imediata à da sua publicação.
 
 (a que se refere o n.º 3 do artigo 97.º)
 
-![](https://files.diariodarepublica.pt/images/1168979169/1169201883.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1168979169/1169201883.png) |
+| --- |
+
+119949420

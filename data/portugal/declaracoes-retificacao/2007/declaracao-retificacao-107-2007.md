@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/107/2007/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/107-2007-628488
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-11-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:07:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 392377ec16cd6c7035207e883e49d21f04116ccebf0adb872b1350ff47904901
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 285f088d513234e0c9dfaab3168f31a6657c53c32747aa41ccf37541366cb5ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:07:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,40 +67,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Património
-- Cidadão Estrangeiro
+- Base de Dados
+- Casamento
 - Certidão
+- Cidadão Estrangeiro
 - Código Civil
 - Código do Imposto do SELO
 - Código do Notariado
 - Código do Registo Civil
-- Liberdade Religiosa
+- Comissão da Liberdade Religiosa
 - Conservador
-- Serviços de Registo e Notariado
 - Conservatória do Registo Comercial
-- Instituto dos Registos e do Notariado
 - Conservatória dos Registos Centrais
 - Correio Electrónico
 - Definição de Competências
-- Separação Judicial
+- Direito à Informação
 - Divórcio
 - Doação
-- Pagamento
-- Base de Dados
-- Segurança da Informação
-- Direito à Informação
-- Veículo
-- Comissão da Liberdade Religiosa
-- Instituto das Tecnologias de Informação na Justiça
 - Funcionário Diplomático
+- Instituto das Tecnologias de Informação na Justiça
+- Instituto dos Registos e do Notariado
+- Inventário
+- Liberdade Religiosa
 - Notário
+- Óbito
+- Pagamento
+- Património
+- Recurso
 - Registo Civil
 - Regulamento Emolumentar dos Registos e Notariado
-- Inventário
-- Casamento
-- Óbito
+- Segurança da Informação
+- Separação Judicial
+- Serviços de Registo e Notariado
 - Testamento
+- Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
@@ -118,16 +118,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/324/2007/09/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/324/2007/09/28/p/dre
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642527:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:324/2007
+  label: "Rectifica o Decreto-Lei n.º 324/2007, de 28 de Setembro, DR.IS [188], bem como o respectivo anexo\0\0"
+  source: null
+  date: '2007-09-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:07:25Z'
   warnings: []
   errors: []
 ---

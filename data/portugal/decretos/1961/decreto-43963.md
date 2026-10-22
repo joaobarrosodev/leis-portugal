@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43963-1961-182789
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-10-16T00:00:00Z'
+  retrieved_at: '2026-10-22T19:26:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 544b5eabbbe9aa39978e3fbadac2d9a2506f596d781a065948ffde8d7d606ed0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30214b0684cef95da53e6e2c9af401f3c885a822a7f66ff4fa821c79dad332c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:26:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:152568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413837:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:26:04Z'
   warnings: []
   errors: []
 ---
@@ -91,27 +107,27 @@ Tendo em vista o disposto no artigo 3.º do [Decreto n.º 12131](https://diariod
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. São aprovadas as seguintes alterações aos estatutos do Banco de Angola, votadas nas assembleias gerais extraordinárias realizadas em 30 de Maio de 1959, 28 de Dezembro de 1960 e 4 de Outubro de 1961:
+Artigo único. São aprovadas as seguintes alterações aos estatutos do Banco de Angola, votadas nas assembleias gerais extraordinárias realizadas em 30 de Maio de 1959, 28 de Dezembro de 1960 e 4 de Outubro de 1961:
 
 a) Os artigos 3.º, 5.º, 10.º e seus §§ 1.º e 2.º, 11.º, 12.º e seus §§ 1.º a 4.º, 17.º e seus números e alíneas, 18.º e seu § único, 19.º e seus parágrafos e alíneas, 20.º e seus parágrafos, 21.º, 22.º e seus números e alíneas, 23.º e 24.º e seus números, § único do artigo 81.º e artigo 84.º passam a ter a redacção que segue:
 
-###### Art. 3.º A sociedade destina-se em geral ao comércio bancário, através do qual promoverá o desenvolvimento económico da província de Angola, e, em especial, a exercer as funções de banco emissor da referida província.
+Art. 3.º A sociedade destina-se em geral ao comércio bancário, através do qual promoverá o desenvolvimento económico da província de Angola, e, em especial, a exercer as funções de banco emissor da referida província.
 
 ...
 
-###### Art. 5.º A actividade do Banco de Angola deve ter por objecto principal as operações bancárias respeitantes à província de Angola e aos territórios limítrofes onde porventura criar filiais ou agências.
+Art. 5.º A actividade do Banco de Angola deve ter por objecto principal as operações bancárias respeitantes à província de Angola e aos territórios limítrofes onde porventura criar filiais ou agências.
 
 ...
 
-###### Art. 10.º O capital do Banco é de 300000000$00, dos quais 100000000$00 serão realizados logo que se verifiquem as condições previstas nas assembleias gerais extraordinárias de 30 de Maio de 1959 e 28 de Dezembro de 1960.
+Art. 10.º O capital do Banco é de 300000000$00, dos quais 100000000$00 serão realizados logo que se verifiquem as condições previstas nas assembleias gerais extraordinárias de 30 de Maio de 1959 e 28 de Dezembro de 1960.
 
 § 1.º Por deliberação do governo do Banco, sancionada pelos Ministros das Finanças e do Ultramar, poderá ser elevado até 500000000$00.
 
 § 2.º Em cada um dos aumentos de capital por subscrição pública o Estado terá preferência na subscrição das novas acções, tendo os outros accionistas o direito de subscrever, na proporção das acções que mostrarem possuir, aquelas a respeito das quais o Estado não quiser gozar da mencionada prerrogativa.
 
-###### Art. 11.º As acções a emitir para o aumento de capital por subscrição pública serão oferecidas tanto na metrópole como na província de Angola.
+Art. 11.º As acções a emitir para o aumento de capital por subscrição pública serão oferecidas tanto na metrópole como na província de Angola.
 
-###### Art. 12.º O capital do Banco de Angola será representado por acções de 1000$00 metropolitanos, inteiramente liberadas, nominativas e ao portador, separadas de um caderno de talões com assinaturas de dois membros do governo do Banco, podendo uma delas ser de chancela, e devidamente autenticadas com o selo branco.
+Art. 12.º O capital do Banco de Angola será representado por acções de 1000$00 metropolitanos, inteiramente liberadas, nominativas e ao portador, separadas de um caderno de talões com assinaturas de dois membros do governo do Banco, podendo uma delas ser de chancela, e devidamente autenticadas com o selo branco.
 
 § 1.º O Banco de Angola é obrigado a ter, pelo menos, dois terços do seu capital em acções nominativas averbadas e registadas em nome de portugueses.
 
@@ -123,19 +139,19 @@ a) Os artigos 3.º, 5.º, 10.º e seus §§ 1.º e 2.º, 11.º, 12.º e seus §�
 
 ...
 
-###### Art. 17.º O Banco terá, até 17 de Setembro de 1976, o privilégio e exclusivo de emissão de notas bancárias na província de Angola.
+Art. 17.º O Banco terá, até 17 de Setembro de 1976, o privilégio e exclusivo de emissão de notas bancárias na província de Angola.
 
 § 1.º As condições de concessão do privilégio poderão ser revistas, nos termos do § 2.º do artigo 4.º do [Decreto-Lei n.º 35670](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35670-1946-304980), de 28 de Maio de 1946.
 
 § 2.º Findo o privilégio, poderá o Governo, mostrando-se possuidor de 25000000$00 do capital do Banco, promover a liquidação deste nos termos legais.
 
-###### Art. 18.º As notas do Banco terão curso legal em toda a província e serão equiparadas a moeda corrente para os efeitos dos artigos 206.º e 214.º do Código Penal.
+Art. 18.º As notas do Banco terão curso legal em toda a província e serão equiparadas a moeda corrente para os efeitos dos artigos 206.º e 214.º do Código Penal.
 
 § único. O tipo, valores, desenhos e legendas das notas serão os aprovados pelo Ministro do Ultramar, sob proposta do governo do Banco.
 
-###### Art. 19.º Salvo autorização especial do Ministro do Ultramar, sob proposta do Governo da província, o valor nominal totalizado das notas em circulação não poderá exceder o triplo da reserva monetária.
+Art. 19.º Salvo autorização especial do Ministro do Ultramar, sob proposta do Governo da província, o valor nominal totalizado das notas em circulação não poderá exceder o triplo da reserva monetária.
 
-###### Art. 20.º A reserva monetária poderá ser constituída pelos seguintes elementos:
+Art. 20.º A reserva monetária poderá ser constituída pelos seguintes elementos:
 
 1.º Notas do Banco de Portugal;
 
@@ -147,27 +163,27 @@ a) Os artigos 3.º, 5.º, 10.º e seus §§ 1.º e 2.º, 11.º, 12.º e seus §�
 
 5.º Moeda corrente na província, exceptuada a moeda divisionária.
 
-###### Art. 21.º A soma da reserva monetária, dos créditos realizáveis, em regra, dentro de três meses e do valor da carteira comercial será sempre, pelo menos, igual à soma das notas em circulação, depósitos à ordem e mais créditos exigíveis à vista.
+Art. 21.º A soma da reserva monetária, dos créditos realizáveis, em regra, dentro de três meses e do valor da carteira comercial será sempre, pelo menos, igual à soma das notas em circulação, depósitos à ordem e mais créditos exigíveis à vista.
 
-###### Art. 22.º Em caso de liquidação do Banco, o Governo da metrópole fixará as condições de circulação, recolha e pagamento das notas do Banco.
+Art. 22.º Em caso de liquidação do Banco, o Governo da metrópole fixará as condições de circulação, recolha e pagamento das notas do Banco.
 
-###### Art. 23.º O Banco entregará ao Governo da província, no prazo de um ano, depois de terminado o privilégio, valores que o Governo aceite e que respondam pelo pagamento das notas que não tiverem sido trocadas durante esse prazo, ficando o Governo com o encargo de pagar as que depois daquela data forem apresentadas para esse fim.
+Art. 23.º O Banco entregará ao Governo da província, no prazo de um ano, depois de terminado o privilégio, valores que o Governo aceite e que respondam pelo pagamento das notas que não tiverem sido trocadas durante esse prazo, ficando o Governo com o encargo de pagar as que depois daquela data forem apresentadas para esse fim.
 
-###### Art. 24.º Sempre que um tipo de notas for retirado da circulação, o Banco entregará ao Governo da província, ao terminar o prazo da recolha, o valor das notas daquele tipo não recolhidas; estas notas serão abatidas do valor da circulação e o pagamento das que ulteriormente forem apresentadas para esse fim será feito por conta do Governo da província.
+Art. 24.º Sempre que um tipo de notas for retirado da circulação, o Banco entregará ao Governo da província, ao terminar o prazo da recolha, o valor das notas daquele tipo não recolhidas; estas notas serão abatidas do valor da circulação e o pagamento das que ulteriormente forem apresentadas para esse fim será feito por conta do Governo da província.
 
 ...
 
-###### Art. 81.º ...
+Art. 81.º ...
 
 § único. O governador será substituído, nas suas faltas ou impedimentos, de harmonia com as disposições do Decreto n.º 40833, e enquanto tal substituição assim se não houver feito, pelo vice-governador.
 
 ...
 
-###### Art. 84.º O governo do Banco tem a direcção e responsabilidade da administração social e as suas deliberações só podem ser tomadas por maioria de votos, tendo o governador voto de desempate ou de qualidade.
+Art. 84.º O governo do Banco tem a direcção e responsabilidade da administração social e as suas deliberações só podem ser tomadas por maioria de votos, tendo o governador voto de desempate ou de qualidade.
 
 b) O artigo 79.º e os seus §§ 1.º a 3.º, que passam a constituir os §§ 3.º a 5.º, respectivamente, por terem sido aditados dois parágrafos, sob os n.os 1.º e 2.º, com a redacção a seguir mencionada, e, bem assim, os artigos 80.º e 82.º, aqueles e estes com as modificações votadas na assembleia geral extraordinária realizada em 30 de Maio de 1959, passam igualmente a ter a seguinte redacção:
 
-###### Art. 79.º O Banco é administrado por um governador, um vice-governador e três administradores, todos cidadãos portugueses.
+Art. 79.º O Banco é administrado por um governador, um vice-governador e três administradores, todos cidadãos portugueses.
 
 § 1.º O governador e o vice-governador serão nomeados pelo Governo.
 
@@ -179,11 +195,11 @@ b) O artigo 79.º e os seus §§ 1.º a 3.º, que passam a constituir os §§ 3.
 
 § 5.º O governo do Banco nomeará um secretário-geral, sem voto.
 
-###### Art. 80.º O mandato de todos os membros do governo do Banco terá a duração de cinco anos, sem prejuízo de renovação.
+Art. 80.º O mandato de todos os membros do governo do Banco terá a duração de cinco anos, sem prejuízo de renovação.
 
 ...
 
-###### Art. 82.º Os membros eleitos do conselho de administração não poderão tomar conta dos seus cargos sem terem depositado na caixa social, em caução das responsabilidades da sua gerência, 50 acções do Banco, inteiramente liberadas, ou 50000$00 em valores do Estado de sua propriedade, devendo este depósito ficar inalienável enquanto durar a sua gerência e não forem pela assembleia geral aprovados o balanço e as contas do seu último exercício anual.
+Art. 82.º Os membros eleitos do conselho de administração não poderão tomar conta dos seus cargos sem terem depositado na caixa social, em caução das responsabilidades da sua gerência, 50 acções do Banco, inteiramente liberadas, ou 50000$00 em valores do Estado de sua propriedade, devendo este depósito ficar inalienável enquanto durar a sua gerência e não forem pela assembleia geral aprovados o balanço e as contas do seu último exercício anual.
 
 c) São eliminados o primitivo § 4.º do artigo 79.º e o § único do artigo 80.º
 
@@ -199,7 +215,7 @@ g) Os artigos 20.º a 67.º, inclusive, são substituídos pelos actuais 17.º a
 
 h) Os artigos 68.º a 101.º passam a ter a numeração de 28.º a 61.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Outubro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar.
 

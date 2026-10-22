@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 77/2001, 2º Suplemento, Série I-A de 2001-03-31
   number: '77'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1876-(11) a 1876-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/03/077a02/00110011.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/9-g/2001/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-g-2001-337861
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:59:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7390dc9dbc03509e24cb2560ecf2e373f0abaf650d903ca257ca5890c6b15a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c638445bd478f8fc1df031efa42479fac512467d58c613815692378b751abe82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:59:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,16 +69,16 @@ subjects:
 - Acesso ao Direito
 - Ajuda Judicial
 - Autonomia Administrativa
-- Pessoal Dirigente
-- Gestão Financeira
-- Julgado de Paz
 - Definição de Competências
 - Direcção Geral da Administração Extrajudicial
-- Gestão do Património
 - Direito à Justiça
-- Justiça
 - Execução de Sentença
+- Gestão do Património
+- Gestão Financeira
+- Julgado de Paz
+- Justiça
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Tribunal
 relationships:
@@ -86,16 +86,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/90/2001/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/90/2001/03/23/p/dre
+- type: cites
+  target: pt:dre:347957:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:59:30Z'
   warnings: []
   errors: []
 ---

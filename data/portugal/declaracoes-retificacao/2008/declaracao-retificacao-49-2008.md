@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/49/2008/08/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/49-2008-453254
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:10:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 642337e3b648dfdcd511958c14db55d4426913671c3a1449e3d94ae084dc9d18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56bc0be04837cbcaa7649d2a84b9319345be2ac4a7ebb58a80af6751060c2d6a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:10:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Local
+- Administração Pública
+- Administração Regional
+- Carreira Geral de Assistente Operacional
+- Carreira Geral de Assistente Técnico
+- Carreira Profissional
+- Carreira Técnica Superior
 - Extinção de Carreiras
 - Função Pública
 - Fusão de Carreiras
-- Reforma da Administração Pública
-- Carreira Geral de Assistente Operacional
-- Carreira Geral de Assistente Técnico
-- Carreira Técnica Superior
-- Administração Pública
-- Carreira Profissional
-- Pessoal de Justiça
-- Presidência da República
 - Integração de Trabalhadores
+- Pessoal de Justiça
 - Prace
-- Administração Local
-- Administração Regional
+- Presidência da República
+- Reforma da Administração Pública
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/121/2008/07/11/p/dre
@@ -123,16 +123,548 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/358/2002/04/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/358/2002/04/03/p/dre
+- type: cites
+  target: pt:dre:141214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302549:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:349758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663357:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693807:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:10:19Z'
   warnings: []
   errors: []
 ---
@@ -173,7 +705,7 @@ Artigos 50.º a 65.º do [Decreto Regulamentar n.º 19/80](https://diariodarepub
 
 [Decreto-Lei n.º 183/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1980-474753), de 4 de Junho.
 
-###### Artigo 11.º, n.º 3 do artigo 12.º e artigos 15.º a 17.º do [Decreto Regulamentar n.º 44/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1980-463975), de 30 de Agosto.
+Artigo 11.º, n.º 3 do artigo 12.º e artigos 15.º a 17.º do [Decreto Regulamentar n.º 44/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1980-463975), de 30 de Agosto.
 
 Artigos 14.º a 18.º do [Decreto-Lei n.º 404/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1980-461796), de 26 de Setembro.
 
@@ -209,7 +741,7 @@ Artigos 41.º a 47.º do [Decreto-Lei n.º 20/88](https://diariodarepublica.pt/d
 
 Artigos 28.º a 33.º e anexo ii do [Decreto-Lei n.º 34/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1989-610247), de 30 de Janeiro.
 
-###### Artigo 1.º do [Decreto-Lei n.º 223/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1989-619732), de 5 de Julho.
+Artigo 1.º do [Decreto-Lei n.º 223/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1989-619732), de 5 de Julho.
 
 [Decreto Regulamentar n.º 23/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1989-619145), de 11 de Agosto, com excepção das disposições relativas à carreira de inspector vitivinícola.
 
@@ -429,12 +961,12 @@ Regulamento de carreiras e retributivo aprovado por despacho conjunto, publicita
 
 N.os 1.4 a 1.9, 2.2 e 2.4 a 2.9 do anexo i e n.os iii e v a xiii do anexo ii do regulamento interno aprovado pelo [Despacho Normativo n.º 46/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/46-2005-592878), de 19 de Outubro.
 
-###### Artigo 3.º do [Decreto-Lei n.º 15/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2006-542045), de 25 de Janeiro.
+Artigo 3.º do [Decreto-Lei n.º 15/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2006-542045), de 25 de Janeiro.
 
 Regulamento de pessoal do Instituto da Segurança Social, I. P., publicado no aviso n.º 13 132-A/2006, no Diário da República, 2.ª série, n.º 235 (suplemento), de 7 de Dezembro de 2006, com excepção das disposições relativas às carreiras de apoio especializado - informática, de diagnóstico e terapêutica, de educador de infância e de enfermagem.
 
 Regulamento interno homologado pelo despacho n.º 17 460/2006, publicado no Diário da República, 2.ª série, n.º 166, de 29 de Agosto de 2006, com excepção das disposições relativas à categoria de chefe de serviços de administração escolar.
 
-###### Artigo 12.º do [Decreto Regulamentar n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/62-2007-638540), de 29 de Maio.
+Artigo 12.º do [Decreto Regulamentar n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/62-2007-638540), de 29 de Maio.
 
 [Decreto Regulamentar n.º 8/2008](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2008-247273), de 5 de Março, com excepção das disposições relativas às categorias de maquinista marítimo de 1.ª classe, de marinheiro de 1.ª e de 2.ª classes e de mestre de tráfego local de 1.ª e de 2.ª classes.

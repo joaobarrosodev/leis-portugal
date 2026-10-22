@@ -47,25 +47,33 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/178/2026/09/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/178-2026-1171008705
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-15T00:00:00Z'
+  retrieved_at: '2026-10-22T18:53:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a924d01bd6d69aa0b8d795b0153baef9e83bab2b8fbf5ca3260a3d11baa47ae7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df7c8fba5668e6fa8fefa851c9bc409ab2948718f99c07db6f8ed7abbf54ef61
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:53:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agência para a Investigação e Inovação
+- Agência para a Reforma Tecnológica do Estado
+- Assistente Multimodal Automático de Linguagem com Inteligência Artificial (AMALIA)
+- Comité de Acompanhamento
+- Inteligência artificial
+- Língua Portuguesa
+- Modelo de Linguagem em Grande Escala da Língua Portuguesa de Portugal
+- Prorrogação de Prazo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/2025/12/24/p/dre
@@ -79,16 +87,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/201/2024/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/201/2024/12/30/p/dre
+- type: cites
+  target: pt:dre:1000882016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901536075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:992627244:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:resolucao-conselho-ministros:201/2024
+  label: Revoga, a partir de 16 de setembro de 2026, com efeitos desde 1 de julho de 2026, o n.º 4 da Resolução do Conselho
+    de Ministros n.º 201/2024, de 30 de dezembro, Diário da República n.º 252/2024, Série I
+  source: null
+  date: '2024-12-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:53:09Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +149,7 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Minis
 
 Presidência do Conselho de Ministros, 4 de setembro de 2026. - O Primeiro-Ministro, Luís Montenegro.
 
-## ANEXO — (a que se referem os n.<sup>os</sup>1 e 3)
+## ANEXO — (a que se referem os n.os1 e 3)
 
 1 - Objetivos estratégicos
 
@@ -182,3 +208,5 @@ ii) Pela infraestrutura computacional de apoio ao desenvolvimento do modelo, nom
 d) Os centros de investigação são responsáveis pelo desenvolvimento, pelo treino e pelo teste do modelo, bem como pelo desenvolvimento das integrações necessárias para a sua posterior aplicação para outras finalidades;
 
 e) O Comité de Acompanhamento Especializado é responsável por formular recomendações sobre as melhores práticas de desenvolvimento de Modelos de Linguagem de Grande Escala e o cumprimento dos princípios éticos e de segurança, bem como por aconselhar potenciais aplicações do modelo AMALIA nos diversos setores de atividade.
+
+119949576

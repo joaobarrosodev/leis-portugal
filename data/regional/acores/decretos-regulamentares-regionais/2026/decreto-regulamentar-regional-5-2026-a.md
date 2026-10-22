@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/5/2026/03/31/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2026-1080123528
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:36:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 923a6e8735daff91cd81dbd1414bdba6d45a77a6dffaf078891c87414b71bcbe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 061526e4309d081d9d6f34baf9c28d6ef60906fd646e2036de0726417483c702
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:36:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Ordenamento do Território
-- Política de Solos
 - Plano de Pormenor
+- Política de Solos
 - Regulamento
 - Ribeira Grande
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/555/1999/12/16/p/dre
@@ -84,16 +84,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/5/2019/09/27/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/5/2019/09/27/p/dre
+- type: cites
+  target: pt:dre:125009062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1666981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:aviso:23325/2010
+  label: Revoga, a partir de 2 de abril de 2026, o Plano aprovado pelo Aviso n.º 23325/2010, de 12 de novembro, Diário da
+    República n.º 220/2010, Série II
+  source: null
+  date: '2010-11-12'
 article_structure:
   article_count: 53
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:36:59Z'
   warnings: []
   errors: []
 ---
@@ -120,11 +142,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 19 de fevereiro de 2026.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 18 de março de 2026.**
+Assinado em Angra do Heroísmo em 18 de março de 2026.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -416,7 +438,7 @@ b) 50 % nos prédios não enquadrados pela alínea anterior.
 
 4 - Excetuam-se do cumprimento do disposto na alínea a) do número anterior os edifícios com 1 e com 2 pisos que podem ter utilização de um dos usos admitidos pelo n.º 1 e os empreendimentos turísticos.
 
-5 - Não é admitida a instalação de superfícies comerciais, de qualquer natureza, com mais de 200 m<sup>2</sup>.
+5 - Não é admitida a instalação de superfícies comerciais, de qualquer natureza, com mais de 200 m2.
 
 ###### Artigo 15.º — Espaços verdes de proteção e enquadramento
 
@@ -578,7 +600,7 @@ b) A manutenção das espécies arbóreas existentes que se encontrem em boas co
 
 c) A manutenção de elementos construtivos tradicionais.
 
-4 - Qualquer intervenção nos logradouros com área igual ou superior a 200 m<sup>2</sup> deve ser objeto de projeto de arranjos exteriores.
+4 - Qualquer intervenção nos logradouros com área igual ou superior a 200 m2 deve ser objeto de projeto de arranjos exteriores.
 
 ###### Artigo 24.º — Vãos
 
@@ -684,19 +706,19 @@ Com exceção da aplicação nos níveis 1, 2 e 3 são admitidos nas operações
 
 a) Habitação unifamiliar:
 
-i) 1 lugar de estacionamento automóvel por fogo, em fogos até 120 m<sup>2</sup> de ∑Ac;
+i) 1 lugar de estacionamento automóvel por fogo, em fogos até 120 m2 de ∑Ac;
 
-ii) 2 lugares de estacionamento automóvel por fogo, em fogos de área superior a 120 m<sup>2</sup> de ∑Ac;
+ii) 2 lugares de estacionamento automóvel por fogo, em fogos de área superior a 120 m2 de ∑Ac;
 
 b) Habitação coletiva:
 
-i) 1 lugar de estacionamento automóvel por fogo, em fogos até 90 m<sup>2</sup> de ∑Ac;
+i) 1 lugar de estacionamento automóvel por fogo, em fogos até 90 m2 de ∑Ac;
 
-ii) 1,5 lugares de estacionamento automóvel por fogo, em fogos entre 90 m<sup>2</sup> e 120 m<sup>2</sup> de ∑Ac;
+ii) 1,5 lugares de estacionamento automóvel por fogo, em fogos entre 90 m2 e 120 m2 de ∑Ac;
 
-iii) 2 lugares de estacionamento automóvel por fogo, em fogos de área superior a 120 m<sup>2</sup> de ∑Ac;
+iii) 2 lugares de estacionamento automóvel por fogo, em fogos de área superior a 120 m2 de ∑Ac;
 
-c) 1 lugar de estacionamento automóvel por cada 50 m<sup>2</sup> de ∑Ac de comércio ou serviços incluindo turismo e equipamentos.
+c) 1 lugar de estacionamento automóvel por cada 50 m2 de ∑Ac de comércio ou serviços incluindo turismo e equipamentos.
 
 2 - A CMRG pode excecionalmente admitir a dispensa do cumprimento dos parâmetros de dotação de estacionamento dentro do lote ou prédio, em número máximo de 4 lugares, quando comprovadamente se verifique alguma das seguintes situações:
 
@@ -1644,10 +1666,16 @@ vvvvvv) Edifício na Rua do Infante D. Henrique, n.º 29 (Dm03).
 
 Planta de implantação do Plano de Pormenor de Salvaguarda da Zona Histórica da Ribeira Grande
 
-![](https://files.diariodarepublica.pt/images/1080123528/1079638931.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1080123528/1079638931.png) |
+| --- |
 
 ## ANEXO IV — (a que se refere o artigo 1.º)
 
 Planta de condicionantes do Plano de Pormenor de Salvaguarda da Zona Histórica da Ribeira Grande
 
-![](https://files.diariodarepublica.pt/images/1080123528/1079638932.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1080123528/1079638932.png) |
+| --- |
+
+119948037
+
+.Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { margin-top:0px; text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:43px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { min-height:37px; }

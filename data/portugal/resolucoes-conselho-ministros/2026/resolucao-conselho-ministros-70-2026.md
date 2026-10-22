@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/70/2026/04/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/70-2026-1084345989
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-13T00:00:00Z'
+  retrieved_at: '2026-10-22T18:37:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2bd894c98097bcff46492cf67b1dcf10cf885cfb61c84aa7110be8409927aa2e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 755f71cbae88133d16023c300f3900613aa8333439b3760a2dfe225c9435b763
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:37:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Aicep
-- Mudança Tecnológica
 - Administração Pública
-- Investimento
+- Agência para a Reforma Tecnológica do Estado
+- Aicep
 - Governo
 - IAPMEI
-- Agência para a Reforma Tecnológica do Estado
-- Plano Nacional de Centros de Dados
+- Investimento
+- Mudança Tecnológica
 - Plano de Ação do Plano Nacional de Centros de Dados
+- Plano Nacional de Centros de Dados
 - Rede de Simplificação e Tecnologias do Estado
 relationships:
 - type: cites
@@ -104,16 +104,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/214/2025/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/214/2025/12/29/p/dre
+- type: cites
+  target: pt:dre:1000882016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1084345988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221327585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:923487049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:992879810:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:37:54Z'
   warnings: []
   errors: []
 ---
@@ -265,4 +293,8 @@ Objetivo: Integrar os projetos no território e nas comunidades, maximizando o s
 | --- | --- | --- | --- |
 | IV.1 Vincular projetos à integração de benefícios tangíveis para as comunidades locais | Desenvolver um modelo de partilha de benefícios com as comunidades locais associado aos projetos de centros de dados, definindo os mecanismos a integrar no enquadramento legal aplicável, designadamente em sede de licenciamento ou em outros regimes relevantes. Estes mecanismos devem ser orientados para a criação de valor local e benefícios socioeconómicos tangíveis para as comunidades (por exemplo, parcerias com entidades educativas, apoio a ações sociais). | S2 2026 | Governo, BPF, APA, I. P., CCDR, I. P., e Municípios |
 | IV.2 Potenciar o ecossistema académico e tecnológico associado a centros de dados | Promover o desenvolvimento de hub(s) académicos e polos tecnológicos como plataformas de ligação efetiva ao tecido empresarial, impulsionando a transferência de tecnologia, a valorização do conhecimento e a articulação entre academia, centros de I&D e empresas, com impacto direto na competitividade, inovação e crescimento sustentável da economia local e nacional. | S2 2026 | Ministério da Educação, Ciência e Inovação, Universidades, Agência para a Investigação e Inovação, I. P. |
-| IV.3 Garantir mecanismos de salvaguardas territoriais ex ante nos projetos | Exigir, no quadro legal aplicável, a definição prévia de mecanismos de reversibilidade e salvaguarda territorial nos projetos de centros de dados, prevendo usos alternativos das infraestruturas e do solo após o termo da vida útil ou em caso de desativação. A medida visa reduzir riscos de passivos territoriais, assegurar flexibilidade de longo prazo e proteger o interesse público. | S1 2026 | Governo de Portugal |
+| IV.3 Garantir mecanismos de salvaguardas territoriais **ex ante** nos projetos | Exigir, no quadro legal aplicável, a definição prévia de mecanismos de reversibilidade e salvaguarda territorial nos projetos de centros de dados, prevendo usos alternativos das infraestruturas e do solo após o termo da vida útil ou em caso de desativação. A medida visa reduzir riscos de passivos territoriais, assegurar flexibilidade de longo prazo e proteger o interesse público. | S1 2026 | Governo de Portugal |
+
+119948194
+
+.Tbl2 { height:26px; } .Tbl3 { text-align:center; } .Tbl4 { min-height:110px; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(217,217,217); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(217,217,217); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(217,217,217); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl8 { min-height:101px; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl12 { min-height:72px; } .Tbl13 { min-height:91px; } .Tbl14 { min-height:135px; } .Tbl15 { min-height:207px; } .Tbl16 { min-height:134px; } .Tbl17 { min-height:104px; } .Tbl18 { min-height:64px; } .Tbl19 { min-height:74px; } .Tbl20 { min-height:144px; }

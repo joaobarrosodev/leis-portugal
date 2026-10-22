@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 76/1999, 5º Suplemento, Série I-B de 1999-03-31
   number: '76'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 1802-(13) a 1802-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/03/076b05/00130013.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/10-i/1999/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-i-1999-452008
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:53:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df1e905a67b6024b15e53e9aa3f17dd2ad9e5be58709644809e17fbf9f36d210
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce5526362c4cdf90cad2b4e85814792dba8cc0a2026928a6c1a4ecddb2834b8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:53:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,16 +79,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/986/1998/11/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/986/1998/11/24/p/dre
+- type: cites
+  target: pt:dre:216320:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:408910:por
+  label: "Rectificada pela DECL-RECT.10-AC/99.1999.04.30.PCM DR.IS-B [101]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-ac-1999-408910
+  date: '1999-04-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:53:15Z'
   warnings: []
   errors: []
 ---
@@ -99,10 +108,10 @@ Segundo comunicação do Ministério da Cultura, a [Portaria n.º 986/98](https:
 
 No mapa anexo, onde se lê:
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/03/076b05/00130013.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/03/076b05/00130013.pdf)](https://files.diariodarepublica.pt/1s/1999/03/076b05/00130013.pdf)
 
 deve ler-se:
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/03/076b05/00130013.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/03/076b05/00130013.pdf)](https://files.diariodarepublica.pt/1s/1999/03/076b05/00130013.pdf)
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 31 de Março de 1999. - O Secretário-Geral, Alexandre Figueiredo.

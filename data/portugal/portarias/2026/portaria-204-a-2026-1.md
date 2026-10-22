@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/204-a/2026/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/204-a-2026-1102518728
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:40:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13662cea9e62a52941941636690debef3a75acaeb2782e05b2d02d625a3ce2cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a488e790e4473ab201ae0e014d2b9f89f5d21fbd66cdadad0ec986d3f3a206fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:40:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa do Ambiente
+- Autarquia Local
+- Autoridade Marítima Nacional
 - Contrato de Concessão
 - Controlo de Qualidade
 - Definição de Competências
-- Regulamentação de Atos Legislativos
-- Autoridade Marítima Nacional
 - Pessoal de Assistência aos Banhistas nas Praias
 - Praia Fluvial
-- Autarquia Local
-- Vigilância nas Praias
 - Praia Marítima
+- Regulamentação de Atos Legislativos
+- Vigilância nas Praias
 - ZONA Balnear
-- Agência Portuguesa do Ambiente
 relationships:
 - type: cites
   target: celex:32006L0007
@@ -107,6 +107,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/68/2014/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/68/2014/08/29/p/dre
+- type: cites
+  target: pt:dre:116068877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56384877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928479767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:935441964:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32006L0007
   label: null
@@ -114,13 +146,13 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:40:05Z'
   warnings: []
   errors: []
 ---
@@ -191,15 +223,15 @@ c) Proposta de plano de evacuação de sinistrados, com estabelecimento de acess
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado Adjunto e da Defesa Nacional, Álvaro António Magalhães Ferrão de Castelo Branco, em 29 de abril de 2026. - O Secretário de Estado do Ambiente, João Manuel do Amaral Esteves, em 22 de abril de 2026.**
+O Secretário de Estado Adjunto e da Defesa Nacional, Álvaro António Magalhães Ferrão de Castelo Branco, em 29 de abril de 2026. - O Secretário de Estado do Ambiente, João Manuel do Amaral Esteves, em 22 de abril de 2026.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 2.º)
 
 Identificação de águas balneares costeiras e de transição, qualificação das praias de banhos marítimas e identificação das praias de uso limitado para o ano de 2026, no território continental
 
-| APA, I. P./ ARH | Concelho | Código | Nome | Praia de banhos (*) | Duração da Época Balnear | Praia de uso limitado |
+| APA, I. P./ ARH | Concelho | Água balnear | Praia de banhos (*) | Duração da Época Balnear | Praia de uso limitado |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| APA, I. P./ ARH | Concelho | Água balnear | Água balnear | Praia de banhos (*) | Duração da Época Balnear | Praia de uso limitado |
+| Código | Nome |  |  |  |  |  |
 | Norte | Caminha | PTCT3X | Caminha | Foz do Minho | 13 de junho a 13 de setembro |  |
 | Norte | Caminha | PTCX7T | Forte do Cão | Forte do Cão - Gelfa | 13 de junho a 13 de setembro |  |
 | Norte | Caminha | PTCF2N | Moledo | Moledo | 13 de junho a 13 de setembro |  |
@@ -212,15 +244,15 @@ Identificação de águas balneares costeiras e de transição, qualificação d
 | Norte | Espinho | PTCJ9N | Seca | Frente Azul | 1 de junho a 20 de setembro |  |
 | Norte | Espinho | PTCF9C | Silvalde | Silvalde | 1 de junho a 20 de setembro |  |
 | Norte | Esposende | PTCN8H | Apúlia | Apúlia Norte | 13 de junho a 13 de setembro |  |
-| Norte | Esposende | PTCN8H | Apúlia | Apúlia | 13 de junho a 13 de setembro |  |
+| Norte | Esposende | Apúlia | 13 de junho a 13 de setembro |  |  |  |
 | Norte | Esposende | PTCL2X | Fão-Ofir | Ofir | 13 de junho a 13 de setembro |  |
 | Norte | Esposende | PTCX7E | Marinhas-Cepães | Cepães | 13 de junho a 13 de setembro |  |
 | Norte | Esposende | PTCD9K | Ramalha | Ramalha | 13 de junho a 13 de setembro |  |
 | Norte | Esposende | PTCF3L | Rio de Moinhos | - | 13 de junho a 13 de setembro |  |
 | Norte | Esposende | PTCX7J | Suave Mar | Suave Mar | 13 de junho a 13 de setembro |  |
 | Norte | Matosinhos | PTCH2U | Agudela | Pedras da Agudela | 13 de junho a 13 de setembro |  |
-| Norte | Matosinhos | PTCH2U | Agudela | Agudela | 13 de junho a 13 de setembro |  |
-| Norte | Matosinhos | PTCH2U | Agudela | Agudela Sul | 13 de junho a 13 de setembro |  |
+| Norte | Matosinhos | Agudela | 13 de junho a 13 de setembro |  |  |  |
+| Norte | Matosinhos | Agudela Sul | 13 de junho a 13 de setembro |  |  |  |
 | Norte | Matosinhos | PTCU9H | Angeiras Norte | Angeiras Norte | 13 de junho a 13 de setembro |  |
 | Norte | Matosinhos | PTCL3H | Angeiras Sul | Central | 13 de junho a 13 de setembro |  |
 | Norte | Matosinhos | PTCF9N | Aterro | Aterro | 13 de junho a 13 de setembro |  |
@@ -229,9 +261,9 @@ Identificação de águas balneares costeiras e de transição, qualificação d
 | Norte | Matosinhos | PTCD8P | Cabo do Mundo | Cabo do Mundo | 13 de junho a 13 de setembro |  |
 | Norte | Matosinhos | PTCT9F | Funtão | Funtão | 13 de junho a 13 de setembro |  |
 | Norte | Matosinhos | PTCH7Q | Fuzelhas | Beijinhos | 13 de junho a 13 de setembro |  |
-| Norte | Matosinhos | PTCH7Q | Fuzelhas | Fuzelhas | 13 de junho a 13 de setembro |  |
+| Norte | Matosinhos | Fuzelhas | 13 de junho a 13 de setembro |  |  |  |
 | Norte | Matosinhos | PTCK3P | Leça da Palmeira | Leça da Palmeira | 13 de junho a 13 de setembro |  |
-| Norte | Matosinhos | PTCK3P | Leça da Palmeira | Leça da Palmeira - Meia Laranja | 13 de junho a 13 de setembro |  |
+| Norte | Matosinhos | Leça da Palmeira - Meia Laranja | 13 de junho a 13 de setembro |  |  |  |
 | Norte | Matosinhos | PTCF2X | Marreco | Marreco | 13 de junho a 13 de setembro |  |
 | Norte | Matosinhos | PTCU2C | Matosinhos | Matosinhos | 13 de junho a 13 de setembro |  |
 | Norte | Matosinhos | PTCN2X | Memória | Memória | 13 de junho a 13 de setembro |  |
@@ -245,18 +277,18 @@ Identificação de águas balneares costeiras e de transição, qualificação d
 | Norte | Porto |  |  | Carneiro | 13 de junho a 13 de setembro |  |
 | Norte | Porto |  |  | Pastoras | 13 de junho a 13 de setembro |  |
 | Norte | Porto | PTCQ9P | Gondarém | Molhe | 13 de junho a 13 de setembro |  |
-| Norte | Porto | PTCQ9P | Gondarém | Gondarém | 13 de junho a 13 de setembro |  |
+| Norte | Porto | Gondarém | 13 de junho a 13 de setembro |  |  |  |
 | Norte | Porto | PTCQ8H | Homem do Leme | Aquário | 13 de junho a 13 de setembro |  |
-| Norte | Porto | PTCQ8H | Homem do Leme | Homem do Leme | 13 de junho a 13 de setembro |  |
+| Norte | Porto | Homem do Leme | 13 de junho a 13 de setembro |  |  |  |
 | Norte | Póvoa de Varzim | PTCD9T | Codixeira | - | 13 de junho a 13 de setembro |  |
 | Norte | Póvoa de Varzim | PTCL7P | Estela-Barranha | Estela | 13 de junho a 13 de setembro |  |
 | Norte | Póvoa de Varzim | PTCT9M | Fragosa | Fragosa | 13 de junho a 13 de setembro |  |
 | Norte | Póvoa de Varzim | PTCW3Q | Lagoa | Fragosinho | 13 de junho a 13 de setembro |  |
-| Norte | Póvoa de Varzim | PTCW3Q | Lagoa | Pontes | 13 de junho a 13 de setembro |  |
-| Norte | Póvoa de Varzim | PTCW3Q | Lagoa | Lagoa | 13 de junho a 13 de setembro |  |
+| Norte | Póvoa de Varzim | Pontes | 13 de junho a 13 de setembro |  |  |  |
+| Norte | Póvoa de Varzim | Lagoa | 13 de junho a 13 de setembro |  |  |  |
 | Norte | Póvoa de Varzim | PTCD8J | Paimó | Paimó/Aguçadoura | 13 de junho a 13 de setembro |  |
 | Norte | Póvoa de Varzim | PTCD7L | Quião | Quião | 13 de junho a 13 de setembro |  |
-| Norte | Póvoa de Varzim | PTCD7L | Quião | Esteiro | 13 de junho a 13 de setembro |  |
+| Norte | Póvoa de Varzim | Esteiro | 13 de junho a 13 de setembro |  |  |  |
 | Norte | Póvoa de Varzim | PTCE8H | Santo André | Santo André | 13 de junho a 13 de setembro |  |
 | Norte | Póvoa de Varzim | PTCF2W | Zona Urbana Norte | Hotel | 13 de junho a 13 de setembro |  |
 | Norte | Póvoa de Varzim |  |  | Lagoa II | 13 de junho a 13 de setembro |  |
@@ -265,17 +297,17 @@ Identificação de águas balneares costeiras e de transição, qualificação d
 | Norte | Póvoa de Varzim |  |  | Beijinhos | 13 de junho a 13 de setembro |  |
 | Norte | Póvoa de Varzim |  |  | Verde | 13 de junho a 13 de setembro |  |
 | Norte | Póvoa de Varzim | PTCF3X | Zona Urbana Sul I | Azul | 13 de junho a 13 de setembro |  |
-| Norte | Póvoa de Varzim | PTCF3X | Zona Urbana Sul I | Salgueira | 13 de junho a 13 de setembro |  |
-| Norte | Póvoa de Varzim | PTCF3X | Zona Urbana Sul I | Carvalhido | 13 de junho a 13 de setembro |  |
+| Norte | Póvoa de Varzim | Salgueira | 13 de junho a 13 de setembro |  |  |  |
+| Norte | Póvoa de Varzim | Carvalhido | 13 de junho a 13 de setembro |  |  |  |
 | Norte | Póvoa de Varzim | PTCW9M | Zona Urbana Sul II | Redonda | 13 de junho a 13 de setembro |  |
-| Norte | Póvoa de Varzim | PTCW9M | Zona Urbana Sul II | Loulé | 13 de junho a 13 de setembro |  |
-| Norte | Póvoa de Varzim | PTCW9M | Zona Urbana Sul II | Redonda/Leixão | 13 de junho a 13 de setembro |  |
+| Norte | Póvoa de Varzim | Loulé | 13 de junho a 13 de setembro |  |  |  |
+| Norte | Póvoa de Varzim | Redonda/Leixão | 13 de junho a 13 de setembro |  |  |  |
 | Norte | Viana do Castelo | PTCN2U | Afife | Afife | 13 de junho a 13 de setembro |  |
 | Norte | Viana do Castelo | PTCV9M | Amorosa | Amorosa-Chafé | 13 de junho a 13 de setembro |  |
-| Norte | Viana do Castelo | PTCV9M | Amorosa | Amorosa-Chafé Sul | 13 de junho a 13 de setembro |  |
+| Norte | Viana do Castelo | Amorosa-Chafé Sul | 13 de junho a 13 de setembro |  |  |  |
 | Norte | Viana do Castelo | PTCU7E | Arda | Arda/Bico | 13 de junho a 13 de setembro |  |
 | Norte | Viana do Castelo | PTCQ7C | Cabedelo | Cabedelo | 13 de junho a 13 de setembro |  |
-| Norte | Viana do Castelo | PTCQ7C | Cabedelo | Cabedelo/Luziamar | 13 de junho a 13 de setembro |  |
+| Norte | Viana do Castelo | Cabedelo/Luziamar | 13 de junho a 13 de setembro |  |  |  |
 | Norte | Viana do Castelo | PTCD8U | Carreço | Carreço | 13 de junho a 13 de setembro |  |
 | Norte | Viana do Castelo | PTCF9P | Castelo de Neiva | Pedra Alta (Castelo de Neiva) | 13 de junho a 13 de setembro |  |
 | Norte | Viana do Castelo | PTCD7W | Foz do Lima | Foz do Lima | 13 de junho a 13 de setembro |  |
@@ -290,44 +322,44 @@ Identificação de águas balneares costeiras e de transição, qualificação d
 | Norte | Vila do Conde |  |  | Pôr do Sol | 13 de junho a 13 de setembro |  |
 | Norte | Vila do Conde |  |  | Praia Atlântica | 13 de junho a 13 de setembro |  |
 | Norte | Vila do Conde | PTCU2X | Frente Urbana Sul | Olinda | 13 de junho a 13 de setembro |  |
-| Norte | Vila do Conde | PTCU2X | Frente Urbana Sul | Turismo | 13 de junho a 13 de setembro |  |
-| Norte | Vila do Conde | PTCU2X | Frente Urbana Sul | Praia Azul | 13 de junho a 13 de setembro |  |
-| Norte | Vila do Conde | PTCU2X | Frente Urbana Sul | Ladeira | 13 de junho a 13 de setembro |  |
-| Norte | Vila do Conde | PTCU2X | Frente Urbana Sul | Forno | 13 de junho a 13 de setembro |  |
-| Norte | Vila do Conde | PTCU2X | Frente Urbana Sul | N.ª S.ª da Guia | 13 de junho a 13 de setembro |  |
+| Norte | Vila do Conde | Turismo | 13 de junho a 13 de setembro |  |  |  |
+| Norte | Vila do Conde | Praia Azul | 13 de junho a 13 de setembro |  |  |  |
+| Norte | Vila do Conde | Ladeira | 13 de junho a 13 de setembro |  |  |  |
+| Norte | Vila do Conde | Forno | 13 de junho a 13 de setembro |  |  |  |
+| Norte | Vila do Conde | N.ª S.ª da Guia | 13 de junho a 13 de setembro |  |  |  |
 | Norte | Vila do Conde | PTCF2P | Labruge | Labruge | 13 de junho a 13 de setembro |  |
 | Norte | Vila do Conde | PTCV2N | Mindelo | Mindelo | 13 de junho a 13 de setembro |  |
-| Norte | Vila do Conde | PTCV2N | Mindelo | Pinhal dos Elétricos | 13 de junho a 13 de setembro |  |
-| Norte | Vila do Conde | PTCV2N | Mindelo | Laderça | 13 de junho a 13 de setembro |  |
-| Norte | Vila do Conde | PTCV2N | Mindelo | Terra Nova | 13 de junho a 13 de setembro |  |
+| Norte | Vila do Conde | Pinhal dos Elétricos | 13 de junho a 13 de setembro |  |  |  |
+| Norte | Vila do Conde | Laderça | 13 de junho a 13 de setembro |  |  |  |
+| Norte | Vila do Conde | Terra Nova | 13 de junho a 13 de setembro |  |  |  |
 | Norte | Vila do Conde | PTCU9V | Vila Chã | Congreira | 13 de junho a 13 de setembro |  |
-| Norte | Vila do Conde | PTCU9V | Vila Chã | Vila Chã | 13 de junho a 13 de setembro |  |
-| Norte | Vila do Conde | PTCU9V | Vila Chã | Pucinho | 13 de junho a 13 de setembro |  |
-| Norte | Vila do Conde | PTCU9V | Vila Chã | Moreiró | 13 de junho a 13 de setembro |  |
+| Norte | Vila do Conde | Vila Chã | 13 de junho a 13 de setembro |  |  |  |
+| Norte | Vila do Conde | Pucinho | 13 de junho a 13 de setembro |  |  |  |
+| Norte | Vila do Conde | Moreiró | 13 de junho a 13 de setembro |  |  |  |
 | Norte | Vila Nova de Gaia | PTCF2D | Aguda | Aguda | 13 de junho a 13 de setembro |  |
 | Norte | Vila Nova de Gaia | PTCE8K | Canide Norte | Sereia da Costa Verde | 13 de junho a 13 de setembro |  |
-| Norte | Vila Nova de Gaia | PTCE8K | Canide Norte | Canide Norte | 13 de junho a 13 de setembro |  |
+| Norte | Vila Nova de Gaia | Canide Norte | 13 de junho a 13 de setembro |  |  |  |
 | Norte | Vila Nova de Gaia | PTCX9P | Canide Sul | Canide Sul | 13 de junho a 13 de setembro |  |
 | Norte | Vila Nova de Gaia | PTCL7M | Dunas Mar | Dunas Mar | 13 de junho a 13 de setembro |  |
 | Norte | Vila Nova de Gaia | PTCU8L | Francelos | Francelos | 13 de junho a 13 de setembro |  |
 | Norte | Vila Nova de Gaia | PTCE3D | Francemar | Francemar | 13 de junho a 13 de setembro |  |
 | Norte | Vila Nova de Gaia | PTCV3D | Granja | Granja | 13 de junho a 13 de setembro |  |
 | Norte | Vila Nova de Gaia | PTCQ9M | Lavadores | Lavadores | 13 de junho a 13 de setembro |  |
-| Norte | Vila Nova de Gaia | PTCQ9M | Lavadores | Pedras Amarelas | 13 de junho a 13 de setembro |  |
+| Norte | Vila Nova de Gaia | Pedras Amarelas | 13 de junho a 13 de setembro |  |  |  |
 | Norte | Vila Nova de Gaia | PTCX7F | Madalena Norte | Madalena Norte | 13 de junho a 13 de setembro |  |
 | Norte | Vila Nova de Gaia | PTCN2T | Madalena Sul | Madalena Sul | 13 de junho a 13 de setembro |  |
 | Norte | Vila Nova de Gaia | PTCF7D | Mar e Sol | Mar e Sol | 13 de junho a 13 de setembro |  |
 | Norte | Vila Nova de Gaia | PTCQ3U | Marbelo | Marbelo | 13 de junho a 13 de setembro |  |
 | Norte | Vila Nova de Gaia | PTCD9V | Miramar | Miramar Norte | 13 de junho a 13 de setembro |  |
-| Norte | Vila Nova de Gaia | PTCD9V | Miramar | Miramar Sul | 13 de junho a 13 de setembro |  |
+| Norte | Vila Nova de Gaia | Miramar Sul | 13 de junho a 13 de setembro |  |  |  |
 | Norte | Vila Nova de Gaia | PTCW7D | S. Félix da Marinha | Boca Mar | 13 de junho a 13 de setembro |  |
 | Norte | Vila Nova de Gaia | PTCN9X | Salgueiros | Estrela-do-Mar | 13 de junho a 13 de setembro |  |
-| Norte | Vila Nova de Gaia | PTCN9X | Salgueiros | Salgueiros | 13 de junho a 13 de setembro |  |
+| Norte | Vila Nova de Gaia | Salgueiros | 13 de junho a 13 de setembro |  |  |  |
 | Norte | Vila Nova de Gaia | PTCW8P | Sãozinha | Sãozinha | 13 de junho a 13 de setembro |  |
 | Norte | Vila Nova de Gaia | PTCJ9F | Senhor da Pedra | Senhor da Pedra | 13 de junho a 13 de setembro |  |
 | Norte | Vila Nova de Gaia | PTCT3P | Valadares Norte | Valadares Norte | 13 de junho a 13 de setembro |  |
 | Norte | Vila Nova de Gaia | PTCH8U | Valadares Sul | Sindicato | 13 de junho a 13 de setembro |  |
-| Norte | Vila Nova de Gaia | PTCH8U | Valadares Sul | Atlântico | 13 de junho a 13 de setembro |  |
+| Norte | Vila Nova de Gaia | Atlântico | 13 de junho a 13 de setembro |  |  |  |
 | Centro | Aveiro | PTCX2L | São Jacinto | São Jacinto | 4 de junho a 13 de setembro |  |
 | Centro | Cantanhede | PTCD7M | Palheirão | - | 13 de junho a 13 de setembro |  |
 | Centro | Cantanhede | PTCK8T | Tocha | Tocha | 13 de junho a 13 de setembro |  |
@@ -338,8 +370,8 @@ Identificação de águas balneares costeiras e de transição, qualificação d
 | Centro | Figueira da Foz | PTCL3J | Costa de Lavos | Costa de Lavos | 13 de junho a 13 de setembro |  |
 | Centro | Figueira da Foz | PTCJ7T | Cova-Gala | Cova-Gala | 13 de junho a 13 de setembro |  |
 | Centro | Figueira da Foz | PTCW7J | Figueira da Foz | Alto do Viso | 13 de junho a 13 de setembro |  |
-| Centro | Figueira da Foz | PTCW7J | Figueira da Foz | Molhe Norte | 13 de junho a 13 de setembro |  |
-| Centro | Figueira da Foz | PTCW7J | Figueira da Foz | Relógio | 13 de junho a 13 de setembro |  |
+| Centro | Figueira da Foz | Molhe Norte | 13 de junho a 13 de setembro |  |  |  |
+| Centro | Figueira da Foz | Relógio | 13 de junho a 13 de setembro |  |  |  |
 | Centro | Figueira da Foz | PTCQ9U | Leirosa | Leirosa | 13 de junho a 13 de setembro |  |
 | Centro | Figueira da Foz | PTCW8K | Murtinheira | Murtinheira | 13 de junho a 13 de setembro |  |
 | Centro | Figueira da Foz | PTCW8C | Praia do Forte | Praia do Forte (Farol) | 13 de junho a 13 de setembro |  |
@@ -348,7 +380,7 @@ Identificação de águas balneares costeiras e de transição, qualificação d
 | Centro | Ílhavo | PTCV8J | Barra | Meia Laranja | 13 de junho a 13 de setembro |  |
 | Centro | Ílhavo | PTCJ3H | Barra Sul | Barra | 13 de junho a 13 de setembro |  |
 | Centro | Ílhavo | PTCT8F | Costa Nova | Costa Nova | 13 de junho a 13 de setembro |  |
-| Centro | Ílhavo | PTCT8F | Costa Nova | Costa Nova Sul | 13 de junho a 13 de setembro |  |
+| Centro | Ílhavo | Costa Nova Sul | 13 de junho a 13 de setembro |  |  |  |
 | Centro | Ílhavo | PTCP9J | Jardim de Oudinot | Jardim de Oudinot | 13 de junho a 13 de setembro |  |
 | Centro | Leiria | PTCF7U | Pedrógão Centro | Pedrógão Centro | 4 de junho a 13 de setembro |  |
 | Centro | Leiria | PTCH3P | Pedrógão Sul | Pedrógão Sul | 4 de junho a 13 de setembro |  |
@@ -356,7 +388,7 @@ Identificação de águas balneares costeiras e de transição, qualificação d
 | Centro | Marinha Grande | PTCQ9K | S. Pedro de Moel | S. Pedro de Moel | 13 de junho a 13 de setembro |  |
 | Centro | Marinha Grande | PTCW7N | Vieira | Vieira | 13 de junho a 13 de setembro |  |
 | Centro | Mira | PTCX7H | Mira | Mira | 13 de junho a 13 de setembro |  |
-| Centro | Mira | PTCX7H | Mira | Mira Sul | 13 de junho a 13 de setembro |  |
+| Centro | Mira | Mira Sul | 13 de junho a 13 de setembro |  |  |  |
 | Centro | Mira | PTCV3T | Poço da Cruz | Poço da Cruz | 13 de junho a 13 de setembro |  |
 | Centro | Murtosa | PTCN9P | Bico | Bico | 13 de junho a 15 de setembro |  |
 | Centro | Murtosa | PTCE9N | Monte Branco | Monte Branco | 13 de junho a 15 de setembro |  |
@@ -374,8 +406,8 @@ Identificação de águas balneares costeiras e de transição, qualificação d
 | Centro | Vagos | PTCK7E | Areão | Areão | 13 de junho a 13 de setembro |  |
 | Centro | Vagos | PTCT8U | Labrego | Labrego | 13 de junho a 13 de setembro |  |
 | Centro | Vagos | PTCU8T | Vagueira | Vagueira Norte | 13 de junho a 13 de setembro |  |
-| Centro | Vagos | PTCU8T | Vagueira | Vagueira | 13 de junho a 13 de setembro |  |
-| Centro | Vagos | PTCU8T | Vagueira | Vagueira Sul | 13 de junho a 13 de setembro |  |
+| Centro | Vagos | Vagueira | 13 de junho a 13 de setembro |  |  |  |
+| Centro | Vagos | Vagueira Sul | 13 de junho a 13 de setembro |  |  |  |
 | Tejo e Oeste | Alcobaça | PTCV9J | Água de Madeiros | Água de Madeiros | 27 de junho a 30 de agosto | Água de Madeiros |
 | Tejo e Oeste | Alcobaça | PTCF2U | Légua | Légua | 27 de junho a 30 de agosto |  |
 | Tejo e Oeste | Alcobaça | PTCK9N | Paredes de Vitória | Paredes de Vitória | 13 de junho a 13 de setembro |  |
@@ -383,27 +415,27 @@ Identificação de águas balneares costeiras e de transição, qualificação d
 | Tejo e Oeste | Alcobaça | PTCP8Q | Polvoeira | Polvoeira | 27 de junho a 30 de agosto |  |
 | Tejo e Oeste | Alcobaça | PTCT7M | S. Martinho do Porto | S. Martinho do Porto | 13 de junho a 13 de setembro |  |
 | Tejo e Oeste | Almada | PTCN2K | Bela Vista/Nova Vaga | Bela Vista | 1 de junho a 30 de setembro |  |
-| Tejo e Oeste | Almada | PTCN2K | Bela Vista/Nova Vaga | Nova Vaga | 1 de junho a 30 de setembro |  |
+| Tejo e Oeste | Almada | Nova Vaga | 1 de junho a 30 de setembro |  |  |  |
 | Tejo e Oeste | Almada | PTCF3U | Cabana do Pescador | Cabana do Pescador | 1 de junho a 30 de setembro |  |
 | Tejo e Oeste | Almada | PTCV2T | Castelo | Castelo | 1 de junho a 30 de setembro |  |
 | Tejo e Oeste | Almada | PTCK2H | CDS/ St. António | CDS | 1 de junho a 30 de setembro |  |
-| Tejo e Oeste | Almada | PTCK2H | CDS/ St. António | St. António | 1 de junho a 30 de setembro |  |
+| Tejo e Oeste | Almada | St. António | 1 de junho a 30 de setembro |  |  |  |
 | Tejo e Oeste | Almada | PTCJ2F | Cova do Vapor | Cova do Vapor | 1 de junho a 30 de setembro |  |
 | Tejo e Oeste | Almada | PTCX7L | Fonte da Telha | Fonte da Telha | 1 de junho a 30 de setembro |  |
 | Tejo e Oeste | Almada | PTCV7J | Infante | Infante | 1 de junho a 30 de setembro |  |
 | Tejo e Oeste | Almada | PTCN9J | Mata | Mata | 1 de junho a 30 de setembro |  |
 | Tejo e Oeste | Almada | PTCT9D | Morena | Morena | 1 de junho a 30 de setembro |  |
 | Tejo e Oeste | Almada | PTCX3N | Praia Nova/Nova Praia | Praia Nova | 1 de junho a 30 de setembro |  |
-| Tejo e Oeste | Almada | PTCX3N | Praia Nova/Nova Praia | Nova Praia | 1 de junho a 30 de setembro |  |
+| Tejo e Oeste | Almada | Nova Praia | 1 de junho a 30 de setembro |  |  |  |
 | Tejo e Oeste | Almada | PTCX3J | Rainha (Almada) | Rainha (Almada) | 1 de junho a 30 de setembro |  |
 | Tejo e Oeste | Almada | PTCH8T | Rei | Rei | 1 de junho a 30 de setembro |  |
 | Tejo e Oeste | Almada | PTCH3V | Riviera | Riviera | 1 de junho a 30 de setembro |  |
 | Tejo e Oeste | Almada | PTCJ2Q | S. João da Caparica/Praia do Norte | S. João da Caparica | 1 de junho a 30 de setembro |  |
-| Tejo e Oeste | Almada | PTCJ2Q | S. João da Caparica/Praia do Norte | Praia do Norte | 1 de junho a 30 de setembro |  |
+| Tejo e Oeste | Almada | Praia do Norte | 1 de junho a 30 de setembro |  |  |  |
 | Tejo e Oeste | Almada | PTCF7X | Saúde | Saúde | 1 de junho a 30 de setembro |  |
 | Tejo e Oeste | Almada | PTCT3K | Sereia | Sereia | 1 de junho a 30 de setembro |  |
 | Tejo e Oeste | Almada | PTCJ8N | Tarquínio-Paraíso/Dragão Vermelho | Tarquínio-Paraíso | 1 de junho a 30 de setembro |  |
-| Tejo e Oeste | Almada | PTCJ8N | Tarquínio-Paraíso/Dragão Vermelho | Dragão Vermelho | 1 de junho a 30 de setembro |  |
+| Tejo e Oeste | Almada | Dragão Vermelho | 1 de junho a 30 de setembro |  |  |  |
 | Tejo e Oeste | Caldas da Rainha | PTCE7K | Foz do Arelho-Lagoa | Foz do Arelho-Lagoa | 13 de junho a 13 de setembro |  |
 | Tejo e Oeste | Caldas da Rainha | PTCH3J | Praia do Mar | Praia do Mar | 13 de junho a 13 de setembro |  |
 | Tejo e Oeste | Cascais | PTCV9K | Avencas | Avencas | 1 de maio a 30 de setembro |  |
@@ -413,7 +445,7 @@ Identificação de águas balneares costeiras e de transição, qualificação d
 | Tejo e Oeste | Cascais | PTCL8D | Crismina | Crismina | 1 de maio a 30 de setembro |  |
 | Tejo e Oeste | Cascais | PTCU7D | Duquesa | Duquesa | 1 de maio a 30 de setembro |  |
 | Tejo e Oeste | Cascais | PTCV7 | Guincho | Guincho Norte | 1 de maio a 30 de setembro |  |
-| Tejo e Oeste | Cascais | PTCV7 | Guincho | Guincho Sul | 1 de maio a 30 de setembro |  |
+| Tejo e Oeste | Cascais | Guincho Sul | 1 de maio a 30 de setembro |  |  |  |
 | Tejo e Oeste | Cascais | PTCE9F | Moitas | Moitas | 1 de maio a 30 de setembro |  |
 | Tejo e Oeste | Cascais | PTCP2T | Parede | Parede | 1 de maio a 30 de setembro |  |
 | Tejo e Oeste | Cascais | PTCQ8D | Poça | Poça | 1 de maio a 30 de setembro |  |
@@ -490,7 +522,7 @@ Identificação de águas balneares costeiras e de transição, qualificação d
 | Alentejo | Grândola | PTCP3E | Tróia-Galé | Tróia-Galé | 30 de maio a 30 de setembro |  |
 | Alentejo | Grândola | PTCU9C | Tróia-Mar | Tróia-Mar | 30 de maio a 30 de setembro |  |
 | Alentejo | Odemira | PTCE8D | Almograve | Almograve Norte | 30 de maio a 30 de setembro | Almograve |
-| Alentejo | Odemira | PTCE8D | Almograve | Almograve Sul | 30 de maio a 30 de setembro | Almograve |
+| Alentejo | Odemira | Almograve Sul | 30 de maio a 30 de setembro | Almograve |  |  |
 | Alentejo | Odemira | PTCU7Q | Alteirinhos | Alteirinhos | 30 de maio a 30 de setembro | Alteirinhos |
 | Alentejo | Odemira | PTCF8X | Carvalhal (Odemira) | Carvalhal (Odemira) | 30 de maio a 30 de setembro |  |
 | Alentejo | Odemira | PTCU7J | Farol | Farol | 30 de maio a 30 de setembro |  |
@@ -498,7 +530,7 @@ Identificação de águas balneares costeiras e de transição, qualificação d
 | Alentejo | Odemira | PTCQ7K | Furnas Mar | Furnas Mar | 30 de maio a 30 de setembro |  |
 | Alentejo | Odemira | PTCW9Q | Furnas Rio | Furnas Rio | 30 de maio a 30 de setembro |  |
 | Alentejo | Odemira | PTCE7Q | Malhão | Malhão Norte | 30 de maio a 30 de setembro |  |
-| Alentejo | Odemira | PTCE7Q | Malhão | Malhão Sul | 30 de maio a 30 de setembro |  |
+| Alentejo | Odemira | Malhão Sul | 30 de maio a 30 de setembro |  |  |  |
 | Alentejo | Odemira | PTCK7T | Zambujeira do Mar | Zambujeira do Mar | 30 de maio a 30 de setembro |  |
 | Alentejo | Santiago do Cacém | PTCU7M | Costa de Santo André | Costa de Santo André | 13 de junho a 15 de setembro |  |
 | Alentejo | Santiago do Cacém | PTCL3D | Fonte do Cortiço | Fonte do Cortiço | 13 de junho a 15 de setembro |  |
@@ -538,7 +570,7 @@ Identificação de águas balneares costeiras e de transição, qualificação d
 | Algarve | Albufeira | PTCK3F | Rocha Baixinha | Rocha Baixinha | 15 de maio a 15 de outubro |  |
 | Algarve | Albufeira | PTCP8X | Rocha Baixinha-Nascente | Rocha Baixinha-Nascente | 15 de maio a 15 de outubro |  |
 | Algarve | Albufeira | PTCE7V | Rocha Baixinha-Poente | Rocha Baixinha-Poente | 15 de maio a 15 de outubro |  |
-| Algarve | Albufeira | PTCE7V | Rocha Baixinha-Poente | Poço Velho | 15 de maio a 15 de outubro |  |
+| Algarve | Albufeira | Poço Velho | 15 de maio a 15 de outubro |  |  |  |
 | Algarve | Albufeira | PTCF2J | Salgados | Salgados | 15 de maio a 15 de outubro |  |
 | Algarve | Albufeira | PTCT8C | Santa Eulália | Santa Eulália | 15 de maio a 15 de outubro |  |
 | Algarve | Albufeira | PTCU7F | São Rafael | São Rafael | 15 de maio a 15 de outubro |  |
@@ -554,7 +586,7 @@ Identificação de águas balneares costeiras e de transição, qualificação d
 | Algarve | Castro Marim | PTCF9W | Alagoa-Altura | Alagoa-Altura | 1 de junho a 30 de setembro |  |
 | Algarve | Castro Marim | PTCJ3N | Cabeço | Cabeço | 1 de junho a 30 de setembro |  |
 | Algarve | Castro Marim | PTCU8X | Praia Verde | Praia Verde | 1 de junho a 30 de setembro |  |
-| Algarve | Castro Marim | PTCU8X | Praia Verde | Praia do Verde Lago | 1 de junho a 30 de setembro |  |
+| Algarve | Castro Marim | Praia do Verde Lago | 1 de junho a 30 de setembro |  |  |  |
 | Algarve | Faro | PTCK9T | Barreta | Barreta | 1 de junho a 30 de setembro |  |
 | Algarve | Faro | PTCD2V | Culatra-Mar | Culatra-Mar | 1 de junho a 30 de setembro |  |
 | Algarve | Faro | PTCP9U | Faro-Mar | Faro-Mar | 1 de junho a 30 de setembro |  |
@@ -563,13 +595,13 @@ Identificação de águas balneares costeiras e de transição, qualificação d
 | Algarve | Lagoa | PTCL7Q | Caneiros | Caneiros | 1 de junho a 30 de setembro | Caneiros |
 | Algarve | Lagoa | PTCF9K | Carvoeiro | Carvoeiro | 1 de junho a 30 de setembro |  |
 | Algarve | Lagoa | PTCE7M | Cova Redonda | Cova Redonda | 1 de junho a 30 de setembro | Cova Redonda |
-| Algarve | Lagoa | PTCE7M | Cova Redonda | Tremoços | 1 de junho a 30 de setembro | Tremoços |
+| Algarve | Lagoa | Tremoços | 1 de junho a 30 de setembro | Tremoços |  |  |
 | Algarve | Lagoa | PTCK9X | Ferragudo | Ferragudo | 1 de junho a 30 de setembro |  |
 | Algarve | Lagoa | PTCV2P | Marinha | Marinha | 1 de junho a 30 de setembro | Marinha |
-| Algarve | Lagoa | PTCV2P | Marinha | Albandeira | 1 de junho a 30 de setembro |  |
+| Algarve | Lagoa | Albandeira | 1 de junho a 30 de setembro |  |  |  |
 | Algarve | Lagoa | PTCJ8X | Pintadinho | Pintadinho | 1 de junho a 30 de setembro |  |
 | Algarve | Lagoa | PTCE2H | Senhora da Rocha | Senhora da Rocha | 1 de junho a 30 de setembro |  |
-| Algarve | Lagoa | PTCE2H | Senhora da Rocha | Praia Nova da Senhora da Rocha | 1 de junho a 30 de setembro | Praia Nova da Senhora da Rocha |
+| Algarve | Lagoa | Praia Nova da Senhora da Rocha | 1 de junho a 30 de setembro | Praia Nova da Senhora da Rocha |  |  |
 | Algarve | Lagoa | PTCT8D | Vale Centeanes | Vale Centeanes | 1 de junho a 30 de setembro | Vale Centeanes |
 | Algarve | Lagoa | PTCJ8F | Vale do Olival | Vale do Olival | 1 de junho a 30 de setembro |  |
 | Algarve | Lagos | PTCK8X | Batata | Batata | 1 de junho a 30 de setembro |  |
@@ -607,7 +639,7 @@ Identificação de águas balneares costeiras e de transição, qualificação d
 | Algarve | Silves | PTCH8J | Praia Grande-Poente | Praia Grande-Poente | 1 de junho a 30 de setembro |  |
 | Algarve | Tavira | PTCN3D | Barril | Barril | 1 de junho a 30 de setembro |  |
 | Algarve | Tavira | PTCL9H | Cabanas-Mar | Cabanas-Mar | 1 de junho a 30 de setembro |  |
-| Algarve | Tavira | PTCL9H | Cabanas-Mar | Cabanas-Poente | 1 de junho a 30 de setembro |  |
+| Algarve | Tavira | Cabanas-Poente | 1 de junho a 30 de setembro |  |  |  |
 | Algarve | Tavira | PTCF3M | Ilha de Tavira-Mar | Ilha de Tavira-Mar | 1 de junho a 30 de setembro |  |
 | Algarve | Tavira | PTCQ9T | Terra Estreita | Terra Estreita | 1 de junho a 30 de setembro |  |
 | Algarve | Vila do Bispo | PTCQ2E | Almádena/Cabanas Velhas | Almádena/Cabanas Velhas | 1 de junho a 30 de setembro |  |
@@ -636,9 +668,9 @@ Identificação de águas balneares costeiras e de transição, qualificação d
 
 Identificação de águas balneares interiores e qualificação de praias de banhos de águas fluviais e lacustres para o ano de 2026, no território continental
 
-| APA, I. P./ARH | Concelho | Código | Nome | Praia de banhos (*) | Duração da Época Balnear |
+| APA, I. P./ARH | Concelho | Água balnear (**) | Praia de banhos (*) | Duração da Época Balnear |  |
 | --- | --- | --- | --- | --- | --- |
-| APA, I. P./ARH | Concelho | Água balnear (**) | Água balnear (**) | Praia de banhos (*) | Duração da Época Balnear |
+| Código | Nome |  |  |  |  |
 | Norte | Arcos de Valdevez | PTCT7E | Pontilhão da Valeta | Pontilhão da Valeta | 27 de junho a 30 de agosto |
 | Norte | Braga | PTCP3J | Adaúfe | Adaúfe | 13 de junho a 13 de setembro |
 | Norte | Braga | PTCK8W | Cavadinho | Cavadinho | 13 de junho a 13 de setembro |
@@ -807,9 +839,9 @@ Identificação de águas balneares interiores e qualificação de praias de ban
 
 Identificação de águas balneares costeiras e qualificação das praias de banhos marítimas, para o ano de 2026, na Região Autónoma dos Açores
 
-| RAA SRMP/DRPM | Ilha | Concelho | Código | Nome | Praia de banhos (*) | Duração da Época Balnear |
+| RAA SRMP/DRPM | Ilha | Concelho | Água balnear (**) | Praia de banhos (*) | Duração da Época Balnear |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| RAA SRMP/DRPM | Ilha | Concelho | Água balnear (**) | Água balnear (**) | Praia de banhos (*) | Duração da Época Balnear |
+| Código | Nome |  |  |  |  |  |
 | Açores | Corvo | Corvo | PTAE8N | Corvo/Areia | - | 20 de junho a 30 de setembro |
 | Açores | Faial | Horta | PTAN3X | Almoxarife | Almoxarife | 1 de junho a 30 de setembro |
 | Açores | Faial | Horta | PTAV9T | Conceição | - | 1 de junho a 30 de setembro |
@@ -907,9 +939,9 @@ Identificação de águas balneares costeiras e qualificação das praias de ban
 
 Identificação de águas balneares costeiras, qualificação das praias de banhos marítimas e identificação das praias de uso limitado, para o ano de 2026, na Região Autónoma da Madeira
 
-| RAM SRTAC/DRAM | Concelho | Código | Nome | Praia de banhos (*) | Duração da Época Balnear | Praia de uso limitado |
+| RAM SRTAC/DRAM | Concelho | Água balnear | Praia de banhos (*) | Duração da Época Balnear | Praia de uso limitado |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| RAM SRTAC/DRAM | Concelho | Água balnear | Água balnear | Praia de banhos (*) | Duração da Época Balnear | Praia de uso limitado |
+| Código | Nome |  |  |  |  |  |
 | Madeira | Calheta | PTMW8M | Calheta | Calheta | 29 de junho a 30 de setembro |  |
 | Madeira | Calheta | PTMH8F | Portinho | - | 15 de junho a 15 de setembro |  |
 | Madeira | Calheta | PTMK9W | Porto | - | 15 de junho a 15 de setembro |  |
@@ -972,3 +1004,7 @@ Identificação de águas balneares costeiras, qualificação das praias de banh
 | Madeira | Santana | PTMK7D | Ribeira do Faial | Ribeira do Faial | 26 de junho a 27 de setembro |  |
 
 (*) As águas balneares para as quais não é apresentada qualquer praia qualificada como praia de banhos são aquelas em que à data da publicação desta portaria não está assegurada a assistência a banhistas.
+
+119948408
+
+.Tbl2 { min-height:17px; } .Tbl3 { text-align:center; } .Tbl4 { min-height:26px; } .Tbl5 { min-height:18px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl9 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { min-height:19px; } .Tbl13 { min-height:28px; } .Tbl14 { height:17px; } .Tbl15 { height:26px; } .Tbl16 { min-height:29px; } .Tbl17 { min-height:27px; } .Tbl18 { min-height:20px; }

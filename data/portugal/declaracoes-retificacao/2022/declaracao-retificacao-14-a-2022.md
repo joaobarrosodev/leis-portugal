@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 80/2022, 1º Suplemento, Série I de 2022-04-26
   number: '80'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3-(2) a 3-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/04/08001/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/14-a/2022/04/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-a-2022-182605798
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-04-26T00:00:00Z'
+  retrieved_at: '2026-10-22T19:13:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6672fa72cb2b88d310d2a18fcb17f1e58c20d6cc3f72202b195ce7218a85bf7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0e33c74197312b8d5746554f8a152351f99c10cfd6f942bbeb849cfdde1e377
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:13:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Energia não Poluente
-- Energia Elétrica
-- Consumo de Energia
-- Energia Renovável
-- Direção Geral de Energia e Geologia
-- Normas de Segurança
-- Produção de Energia Elétrica
 - Centro Eletroprodutor
+- Consumo de Energia
+- Direção Geral de Energia e Geologia
+- Energia Elétrica
+- Energia não Poluente
+- Energia Renovável
+- Normas de Segurança
 - Operador de Energia Elétrica
+- Produção de Energia Elétrica
 - Produção de Hidrogénio
 relationships:
 - type: cites
@@ -93,16 +93,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
+- type: cites
+  target: pt:dre:105579672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159432383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182213906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:13:43Z'
   warnings: []
   errors: []
 ---
@@ -120,3 +140,5 @@ deve ler-se:
 «d) Preferencialmente, manter um distanciamento mínimo de 0,1 km em redor dos aglomerados rurais e do solo urbano exceto nos casos em que o solo urbano seja destinado à instalação de atividade económica;»
 
 Secretaria-Geral, 26 de abril de 2022. - A Secretária-Geral Adjunta, Catarina Romão Gonçalves.
+
+115263116

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/06/10700/0000700017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/380/2024/06/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/380-2024-867844485
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-06-04T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 707ac87624c81ee8324211ac57a24d1a60180801a8ff26c7f87089085aee20db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42647a77ca7e50ab668013be0e5b75cb08fb0134bbb61e42bd88e9b96afb93a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,13 @@ subjects:
 - Retribuição Mínima Garantida
 - Subsídio por Assistência de Terceira Pessoa
 relationships:
+- type: amends
+  target: pt:numero:lei:98/2009
+  label: Declara a inconstitucionalidade, com força obrigatória geral, da norma do n.º 1 do artigo 54.º da Lei n.º 98/2009,
+    de 4 de setembro, Diário da República n.º 172/2009, Série I, na medida em que permite que o limite máximo da prestação
+    suplementar para assistência de terceira pessoa seja inferior ao valor da retribuição mínima mensal garantida
+  source: null
+  date: '2009-09-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/143/1999/04/30/p/dre
   label: null
@@ -114,16 +121,148 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1514/2008/12/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1514/2008/12/24/p/dre
+- type: cites
+  target: pt:dre:1009515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:105658705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114420280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115138846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117503933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:126365738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152637760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175595604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205198396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224427489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2897640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3612034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57695125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72991302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72997146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72997147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75450103:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:33Z'
   warnings: []
   errors: []
 ---
@@ -138,7 +277,7 @@ I - Relatório
 
 1 - O representante do Ministério Público junto do Tribunal Constitucional requereu, em conformidade com o disposto no artigo 82.º da Lei de Organização, Funcionamento e Processo do Tribunal Constitucional (Lei n.º 28/82, de 15 de novembro, na redação que lhe foi conferida pela [Lei Orgânica n.º 1/2018](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), de 19 de abril, doravante LTC), a organização de um processo, a tramitar nos termos do processo de fiscalização abstrata e sucessiva da constitucionalidade, com vista à apreciação, pelo Plenário, da constitucionalidade da norma constante do n.º 1 do artigo 54.º da [Lei n.º 98/2009](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), de 4 de setembro, "na medida em que permite que o limite máximo da prestação suplementar para assistência de terceira pessoa seja inferior ao valor da retribuição mínima mensal garantida".
 
-Para fundamentar tal pedido, o recorrente alega que a norma em causa foi julgada inconstitucional nos Acórdãos n.<sup>os</sup>151/2022, 194/2022 e 699/2022, bem como na Decisão Sumária n.º 644/2022, o que permite ter por verificado o pressuposto previsto no n.º 3 do artigo 281.º da Constituição, já que todas as referidas decisões transitaram em julgado.
+Para fundamentar tal pedido, o recorrente alega que a norma em causa foi julgada inconstitucional nos Acórdãos n.os151/2022, 194/2022 e 699/2022, bem como na Decisão Sumária n.º 644/2022, o que permite ter por verificado o pressuposto previsto no n.º 3 do artigo 281.º da Constituição, já que todas as referidas decisões transitaram em julgado.
 
 2 - Notificado, nos termos dos artigos 54.º e 55.º, n.º 3, da LTC, para se pronunciar sobre o pedido na qualidade de representante do órgão emissor da norma, o Senhor Presidente da Assembleia da República ofereceu o merecimento dos autos, tendo remetido uma nota elaborada pela Comissão Parlamentar de Trabalho, Segurança e Inclusão acerca do enquadramento legal, antecedentes e trabalhos preparatórios da [Lei n.º 98/2009](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), de 4 de setembro.
 
@@ -150,7 +289,7 @@ Pressupostos de cognição
 
 4 - O artigo 281.º, n.º 3, da Constituição, estabelece que o Tribunal Constitucional aprecia e declara, com força obrigatória geral, a inconstitucionalidade ou a ilegalidade de normas por ele julgadas inconstitucionais ou ilegais em três casos concretos. O artigo 82.º da LTC, por seu turno, atribui ao Ministério Público legitimidade para requerer a apreciação abstrata da constitucionalidade ou legalidade de normas julgadas inconstitucionais ou ilegais pelo Tribunal em três casos concretos.
 
-Não se levantam, aqui, dúvidas sobre a legitimidade ativa do representante do Ministério Público. De igual modo, verifica-se que o pedido de fiscalização abstrata sucessiva da constitucionalidade formulado nos presentes autos tem por base quatro decisões proferidas em sede de fiscalização concreta da constitucionalidade, correspondendo a primeira ao Acórdão n.º 151/2022, que julgou inconstitucional, por violação do artigo 59.º, n.º 1, alínea f), da Constituição, "a norma constante do artigo 54.º, n.º 1, da [Lei n.º 98/2009](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), de 4 de setembro, na medida em que permite que o limite máximo da prestação suplementar para assistência a terceira pessoa se situe aquém do montante correspondente à remuneração mínima mensal garantida". Para além de reiterado nos Acórdãos n.<sup>os</sup>194/2022 e 699/2022, e na Decisão Sumária n.º 644/2022, indicados pelo Ministério Público, este juízo positivo de inconstitucionalidade viria a ser reafirmado ainda nos Acórdãos n.<sup>os</sup>793/2022, 128/2023 e 610/2023, assim como nas Decisões Sumárias n.<sup>os</sup>38/2023, 181/2023, 294/2023, 406/2023, 570/2023 e 659/2023, tornando-se, deste modo, inequívoca a verificação das condições necessárias para a apreciação da citada norma em sede de fiscalização abstrata sucessiva da constitucionalidade.
+Não se levantam, aqui, dúvidas sobre a legitimidade ativa do representante do Ministério Público. De igual modo, verifica-se que o pedido de fiscalização abstrata sucessiva da constitucionalidade formulado nos presentes autos tem por base quatro decisões proferidas em sede de fiscalização concreta da constitucionalidade, correspondendo a primeira ao Acórdão n.º 151/2022, que julgou inconstitucional, por violação do artigo 59.º, n.º 1, alínea f), da Constituição, "a norma constante do artigo 54.º, n.º 1, da [Lei n.º 98/2009](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), de 4 de setembro, na medida em que permite que o limite máximo da prestação suplementar para assistência a terceira pessoa se situe aquém do montante correspondente à remuneração mínima mensal garantida". Para além de reiterado nos Acórdãos n.os194/2022 e 699/2022, e na Decisão Sumária n.º 644/2022, indicados pelo Ministério Público, este juízo positivo de inconstitucionalidade viria a ser reafirmado ainda nos Acórdãos n.os793/2022, 128/2023 e 610/2023, assim como nas Decisões Sumárias n.os38/2023, 181/2023, 294/2023, 406/2023, 570/2023 e 659/2023, tornando-se, deste modo, inequívoca a verificação das condições necessárias para a apreciação da citada norma em sede de fiscalização abstrata sucessiva da constitucionalidade.
 
 B. Do mérito
 
@@ -196,7 +335,7 @@ No que aqui especialmente releva, essa ampliação chegou logo com a [Lei n.º 2
 
 7 - Em matéria de atribuição da prestação suplementar para assistência a terceira pessoa, as modificações operadas pela [Lei n.º 98/2009](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), essencialmente concentradas nos respetivos artigos 53.º a 55.º, resultaram, desde logo, na previsão de uma disciplina mais completa e detalhada.
 
-O artigo 53.º do RAT (ao qual se referirão todos os artigos seguidamente mencionados, sem indicação de outro diploma) esclarece a finalidade da PSATP: trata-se de uma prestação suplementar da pensão que se destina "a compensar os encargos com assistência de terceira pessoa em face da situação de dependência em que se encontre ou venha a encontrar o sinistrado por incapacidade permanente para o trabalho, em consequência de lesão resultante de acidente" (n.º 1). A atribuição da prestação suplementar depende por isso - e aqui reside o seu pressuposto - "de o sinistrado não poder, por si só, prover à satisfação das suas necessidades básicas diárias", nomeadamente as relacionadas com os "cuidados de higiene pessoal, alimentação e locomoção", "carecendo de assistência permanente de terceira pessoa" (n.<sup>os</sup>2 e 5), que pode ser um seu familiar (n.º 5). A assistência "pode ser assegurada através da participação sucessiva e conjugada de várias pessoas, incluindo a prestação no âmbito do apoio domiciliário, durante o período mínimo de seis horas diárias" (n.º 6).
+O artigo 53.º do RAT (ao qual se referirão todos os artigos seguidamente mencionados, sem indicação de outro diploma) esclarece a finalidade da PSATP: trata-se de uma prestação suplementar da pensão que se destina "a compensar os encargos com assistência de terceira pessoa em face da situação de dependência em que se encontre ou venha a encontrar o sinistrado por incapacidade permanente para o trabalho, em consequência de lesão resultante de acidente" (n.º 1). A atribuição da prestação suplementar depende por isso - e aqui reside o seu pressuposto - "de o sinistrado não poder, por si só, prover à satisfação das suas necessidades básicas diárias", nomeadamente as relacionadas com os "cuidados de higiene pessoal, alimentação e locomoção", "carecendo de assistência permanente de terceira pessoa" (n.os2 e 5), que pode ser um seu familiar (n.º 5). A assistência "pode ser assegurada através da participação sucessiva e conjugada de várias pessoas, incluindo a prestação no âmbito do apoio domiciliário, durante o período mínimo de seis horas diárias" (n.º 6).
 
 O artigo 54.º estabelece, por seu turno, as regras para a determinação do valor da prestação suplementar, levando em conta que se trata de uma prestação pecuniária [artigo 47.º, n.º 1, alínea h)] de realização periódica (artigo 47.º, n.º 3), que "acompanha o pagamento mensal da pensão anual e dos subsídios de férias e de Natal" (artigo 78.º, n.º 4). Tal prestação é "fixada em montante mensal e tem como limite máximo o valor de 1,1 IAS" (n.º 1), sendo anualmente atualizável na mesma percentagem em que o for o IAS" (n.º 4). À semelhança do que antes constava do artigo 48.º do [Decreto-Lei n.º 143/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1999-332440), fixa-se ainda o direito do sinistrado à atribuição de uma prestação suplementar provisória "a partir do dia seguinte ao da alta e até ao momento da fixação da pensão definitiva", de "montante equivalente" a 1,1 Indexante dos Apoios Sociais ("IAS"), sempre que "o médico assistente entender" que o mesmo "não pode dispensar a assistência de uma terceira pessoa" (n.º 2), sendo os montantes pagos considerados aquando da fixação final dos direitos do sinistrado (n.º 3).
 
@@ -212,7 +351,7 @@ No âmbito da [Lei n.º 100/97](https://diariodarepublica.pt/dr/detalhe/lei/100-
 
 Com a entrada em vigor da [Lei n.º 98/2009](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), o elemento de referência para o cálculo das referidas prestações deixou de ser a retribuição mínima garantida para passar a ser o IAS - mais concretamente 1,1 IAS: 12 vezes 1,1 IAS em vigor à data do acidente no caso do subsídio por situação de elevada incapacidade permanente (artigo 67.º) e do limite máximo subsídio para readaptação de habitação (artigo 68.º); e 1,1 IAS no caso do limite máximo da prestação mensal suplementar para assistência a terceira pessoa (artigo 54.º, n.º 1), cujo valor é anualmente atualizável na percentagem em que aquele o for (artigo 54.º, n.º 2).
 
-10 - Como igualmente se observou no Acórdão n.º 151/2022, o RAT continua a não estabelecer, à semelhança do que sucedida com o regime precedente, quais os elementos a atender na fixação do valor da prestação suplementar para assistência a terceira pessoa. De acordo com a orientação prevalecente na jurisprudência dos tribunais comuns - de resto, firmada já no âmbito de vigência da [Lei n.º 100/97](https://diariodarepublica.pt/dr/detalhe/lei/100-1997-648882) -, a prestação suplementar, para além de ser devida 14 vezes ao ano (v., entre outros, Acórdão do Supremo Tribunal de Justiça de 19.05.2010, Processo n.º 786/06.9TTGMR.P1.S1, e os Acórdãos do Tribunal da Relação do Porto de 12.12.2005, Processo n.<sup>os</sup>0515361, e de 21.02.2018, Processo n.º 1419/13.2TTPNF.P1, todos disponíveis, tal como os demais seguidamente mencionados, em www.dgsi.pt), deve ser graduada em função do tempo requerido pela satisfação das necessidades do sinistrado que demandam a assistência de terceira pessoa, tomando em consideração a maior ou menor autonomia daquele e a sua capacidade restante para prover à satisfação de as respetivas necessidades básicas diárias; ou, dito de outra forma, de acordo com o número de horas em que o sinistrado carece da assistência de terceira pessoa, o que dependerá, por sua vez, da gravidade das limitações que o mesmo apresente e da maior ou menor extensão do quociente de autonomia e de capacidade de satisfação das respetivas necessidades básicas diárias. De tal modo que o limite máximo legalmente estabelecido - antes o valor da retribuição mínima mensal garantida, agora o valor correspondente a 1,1 IAS - apenas deverá ser atingido nos casos mais graves, sendo de graduar em sentido inverso nos casos em que a dependência é menor, tendo em conta a capacidade restante da vítima do acidente de trabalho (v., entre outros, os Acórdãos do Supremo Tribunal de Justiça de 24.11.2007, Processo n.º 07S2716, e de 08.05.2013, Processo n.º 771/11.9TTVIS.C1.S1, do Tribunal da Relação de Lisboa de 13.12.2007, Processo n.º 8145/2007-4, e de 13.09.2019, Processo n.º 1210/16.4T8LMG.C1, do Tribunal da Relação do Porto de 23.01.2012, Processo n.º 340/08.0TTVJG.P1, e do Tribunal da Relação de Évora de 14.07.2021, Processo n.º 2053/19.9T8VFX.E1).
+10 - Como igualmente se observou no Acórdão n.º 151/2022, o RAT continua a não estabelecer, à semelhança do que sucedida com o regime precedente, quais os elementos a atender na fixação do valor da prestação suplementar para assistência a terceira pessoa. De acordo com a orientação prevalecente na jurisprudência dos tribunais comuns - de resto, firmada já no âmbito de vigência da [Lei n.º 100/97](https://diariodarepublica.pt/dr/detalhe/lei/100-1997-648882) -, a prestação suplementar, para além de ser devida 14 vezes ao ano (v., entre outros, Acórdão do Supremo Tribunal de Justiça de 19.05.2010, Processo n.º 786/06.9TTGMR.P1.S1, e os Acórdãos do Tribunal da Relação do Porto de 12.12.2005, Processo n.os0515361, e de 21.02.2018, Processo n.º 1419/13.2TTPNF.P1, todos disponíveis, tal como os demais seguidamente mencionados, em www.dgsi.pt), deve ser graduada em função do tempo requerido pela satisfação das necessidades do sinistrado que demandam a assistência de terceira pessoa, tomando em consideração a maior ou menor autonomia daquele e a sua capacidade restante para prover à satisfação de as respetivas necessidades básicas diárias; ou, dito de outra forma, de acordo com o número de horas em que o sinistrado carece da assistência de terceira pessoa, o que dependerá, por sua vez, da gravidade das limitações que o mesmo apresente e da maior ou menor extensão do quociente de autonomia e de capacidade de satisfação das respetivas necessidades básicas diárias. De tal modo que o limite máximo legalmente estabelecido - antes o valor da retribuição mínima mensal garantida, agora o valor correspondente a 1,1 IAS - apenas deverá ser atingido nos casos mais graves, sendo de graduar em sentido inverso nos casos em que a dependência é menor, tendo em conta a capacidade restante da vítima do acidente de trabalho (v., entre outros, os Acórdãos do Supremo Tribunal de Justiça de 24.11.2007, Processo n.º 07S2716, e de 08.05.2013, Processo n.º 771/11.9TTVIS.C1.S1, do Tribunal da Relação de Lisboa de 13.12.2007, Processo n.º 8145/2007-4, e de 13.09.2019, Processo n.º 1210/16.4T8LMG.C1, do Tribunal da Relação do Porto de 23.01.2012, Processo n.º 340/08.0TTVJG.P1, e do Tribunal da Relação de Évora de 14.07.2021, Processo n.º 2053/19.9T8VFX.E1).
 
 11 - Tendo presentes os aspetos essenciais do regime legal de reparação pecuniária dos danos emergentes de acidente de trabalho de que resultou para o sinistrado uma incapacidade permanente que o impede de prover à satisfação das suas necessidades básicas diárias sem a assistência permanente de uma terceira pessoa, a primeira questão a resolver consiste em saber, como apontou o Acórdão n.º 151/2022, se e em que medida o direito dos trabalhadores à justa reparação em caso de infortúnio laboral, consagrado na alínea f) do n.º 1 do artigo 59.º da Constituição, impõe ao legislador a previsão de uma prestação adicional e autónoma, que permita ao sinistrado fazer face a essa situação de dependência em que se viu colocado em consequência do tipo e ou nível de incapacitação originado pela lesão resultante do acidente.
 
@@ -262,7 +401,7 @@ Ora, cumprindo as suas obrigações legais e contratuais, o sinistrado deverá n
 
 Tenha-se presente que, no ano de 2010 - o primeiro em que vigorou a [Lei n.º 98/2009](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505) -, o IAS fixava-se em € 419,22 ([Portaria n.º 1514/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1514-2008-443953), de 24 de dezembro), valor que se manteve até ao ano de 2017 (cf. [Decreto-Lei n.º 323/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2009-481915), de 24 de dezembro; [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro; [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro; [Lei n.º 66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), de 31 de dezembro; [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), de 31 de dezembro; [Lei n.º 82-B/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), de 31 de dezembro e [Decreto-Lei n.º 253/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-2015-72991302), de 30 de dezembro); no ano de 2017, o IAS voltou a ser atualizado, tendo sido fixado em € 421,32 (Portaria n.º 4/2017, de 3 de janeiro); no ano de 2018, foi atualizado para € 428,90 (Portaria n.º 21/2018, de 18 de janeiro) e, no ano de 2019, para € 435,76 (Portaria n.º 24/2019, de 17 de janeiro); no ano de 2020, subiu para € 438,81 (Portaria n.º 27/2020, de 31 de janeiro), valor que se manteve em 2021; no ano de 2022 foi atualizado para €443,20 (Portaria n.º 294/2021, de 13 de dezembro), tendo subido para € 480,43 em 2023 (Portaria n.º 298/2022, de 16 de dezembro) e para € 509,26 em 2024 (Portaria n.º 421/2023, de 11 de dezembro).
 
-O estabelecimento de uma retribuição mínima mensal garantida (RMMG) resulta, por sua vez, da concretização pelo Estado da incumbência enunciada na alínea a) do n.º 2 do artigo 59.º da Constituição. Assim, a lei garante aos trabalhadores uma retribuição mínima mensal, seja qual for a modalidade praticada, cujo valor é determinado anualmente por legislação específica, ouvida a Comissão Permanente de Concertação Social, tendo em conta, entre outros fatores, as necessidades dos trabalhadores, o aumento de custo de vida e a evolução da produtividade, tendo em vista a sua adequação aos critérios da política de rendimentos e preços (artigo 273.º, n.<sup>os</sup>1 e 3, do Código do Trabalho). De acordo com essa ponderação, a RMMG foi fixada: para o ano de 2010 em € 475,00 ([Decreto-Lei n.º 5/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2010-616811), de 15 de janeiro); para o ano de 2011 em € 485,00 ([Decreto-Lei n.º 143/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2010-306626), de 31 de dezembro), valor que só voltou a ser atualizado em 2014, subindo para € 505,00, valor que se manteve em 2015 ([Decreto-Lei n.º 144/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2014-57695125), de 30 de setembro); no ano de 2016 foi fixada em € 530,00 ([Decreto-Lei n.º 254-A/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-a-2015-72997146), de 31 de dezembro); no ano de 2017 em € 557,00 ([Decreto-Lei n.º 86-B/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-b-2016-105658705), de 29 de dezembro); no ano de 2018 em € 580,00 ([Decreto-Lei n.º 156/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2017-114420280), de 28 dezembro); no ano de 2019 em € 600,00 ([Decreto-Lei n.º 117/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2018-117503933), de 27 dezembro); no ano de 2020 em € 635,00 ([Decreto-Lei n.º 167/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2019-126365738), de 21 novembro); no ano de 2021 em € 665,00 ([Decreto-Lei n.º 109-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-a-2020-152637760), de 31 de dezembro); no ano de 2022, em € 705,00 ([Decreto-Lei n.º 109-B/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-b-2021-175595604), de 7 de dezembro); no ano de 2023, em € 760,00 ([Decreto-Lei n.º 85-A/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2022-205198396) de 22 de dezembro); e, finalmente, € 820,00 ([Decreto-Lei n.º 107/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2023-224427489) de 17 de novembro).
+O estabelecimento de uma retribuição mínima mensal garantida (RMMG) resulta, por sua vez, da concretização pelo Estado da incumbência enunciada na alínea a) do n.º 2 do artigo 59.º da Constituição. Assim, a lei garante aos trabalhadores uma retribuição mínima mensal, seja qual for a modalidade praticada, cujo valor é determinado anualmente por legislação específica, ouvida a Comissão Permanente de Concertação Social, tendo em conta, entre outros fatores, as necessidades dos trabalhadores, o aumento de custo de vida e a evolução da produtividade, tendo em vista a sua adequação aos critérios da política de rendimentos e preços (artigo 273.º, n.os1 e 3, do Código do Trabalho). De acordo com essa ponderação, a RMMG foi fixada: para o ano de 2010 em € 475,00 ([Decreto-Lei n.º 5/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2010-616811), de 15 de janeiro); para o ano de 2011 em € 485,00 ([Decreto-Lei n.º 143/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2010-306626), de 31 de dezembro), valor que só voltou a ser atualizado em 2014, subindo para € 505,00, valor que se manteve em 2015 ([Decreto-Lei n.º 144/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2014-57695125), de 30 de setembro); no ano de 2016 foi fixada em € 530,00 ([Decreto-Lei n.º 254-A/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-a-2015-72997146), de 31 de dezembro); no ano de 2017 em € 557,00 ([Decreto-Lei n.º 86-B/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-b-2016-105658705), de 29 de dezembro); no ano de 2018 em € 580,00 ([Decreto-Lei n.º 156/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2017-114420280), de 28 dezembro); no ano de 2019 em € 600,00 ([Decreto-Lei n.º 117/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2018-117503933), de 27 dezembro); no ano de 2020 em € 635,00 ([Decreto-Lei n.º 167/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2019-126365738), de 21 novembro); no ano de 2021 em € 665,00 ([Decreto-Lei n.º 109-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-a-2020-152637760), de 31 de dezembro); no ano de 2022, em € 705,00 ([Decreto-Lei n.º 109-B/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-b-2021-175595604), de 7 de dezembro); no ano de 2023, em € 760,00 ([Decreto-Lei n.º 85-A/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2022-205198396) de 22 de dezembro); e, finalmente, € 820,00 ([Decreto-Lei n.º 107/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2023-224427489) de 17 de novembro).
 
 Confrontando os valores que, desde a entrada em vigor da [Lei n.º 98/2009](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), foram correspondendo a 1,1 IAS com aqueles que resultaram da atualização da RMMG, verifica-se que os primeiros se situam consideravelmente aquém dos segundos. A tendência é mesmo para a acentuação dessa diferença, como comprovam os anos de 2021 a 2024: em 2021, o diferencial era de € 182,31 (€ 665,00 – € 438,81 × 1,1), ascendendo a € 217,48 em 2022 (€ 705 – €443,20 × 1,1), subindo para € 231,53 em 2023 (€ 760 – €480,43 × 1,1) e aumentando para € 259,82 em 2024 (€ 820 – €509,26 × 1,1).
 
@@ -287,3 +426,5 @@ Em face do exposto, decide-se declarar a inconstitucionalidade, com força obrig
 Atesto o voto de conformidade do Senhor Conselheiro Vice-Presidente Gonçalo de Almeida Ribeiro, que não assina por não estar presente. Joana Fernandes Costa
 
 Lisboa, 14 de maio de 2024. - Joana Fernandes Costa - Afonso Patrão - António José da Ascensão Ramos - João Carlos Loureiro - José Eduardo Figueiredo Dias - Rui Guerra da Fonseca - Maria Benedita Urbano - José Teles Pereira - Carlos Medeiros de Carvalho - Dora Lucas Neto - Mariana Canotilho - José João Abrantes.
+
+117755739

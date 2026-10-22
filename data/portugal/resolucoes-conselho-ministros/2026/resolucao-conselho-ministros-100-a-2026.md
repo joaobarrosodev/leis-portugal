@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/05/10001/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/100-a/2026/05/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/100-a-2026-1126581593
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-25T00:00:00Z'
+  retrieved_at: '2026-10-22T18:42:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e059cb0349b2a2d8ac494d8611328a738f7add0558470bf5a97b366ea233402
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1f62d38e9204842c12430da0aba3f85bd5de5d78efd8b9bbc780cbfc19ccbf1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:42:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Regional de Saúde do Alentejo
+- Alentejo
 - Autorização de Despesas
-- Ministro da Saúde
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
-- Hospital Central
-- Alentejo
 - Estabelecimento Hospitalar
 - Governo XXV
+- Hospital Central
+- Ministro da Saúde
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:134/2019
+  label: Altera, com efeitos a partir de 30 de abril de 2026, os n.ºs 1, 2 e 4 da Resolução do Conselho de Ministros n.º 134/2019,
+    de 25 de julho, Diário da República n.º 152/2019, Série I
+  source: null
+  date: '2019-08-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -105,16 +111,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/69/2023/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/69/2023/07/14/p/dre
+- type: cites
+  target: pt:dre:123855892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215647914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:911089438:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:42:00Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +167,7 @@ Assim:
 
 Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Alterar os n.<sup>os</sup>1, 2 e 4 da [Resolução do Conselho de Ministros n.º 134/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/134-2019-123855892), de 25 de julho, alterada pelas Resoluções do Conselho de Ministros n.<sup>os</sup>[69/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/69-2023-215647914), de 14 de julho, e [48/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/48-2025-911089438), de 17 de março, que passam a ter a seguinte redação:
+1 - Alterar os n.os1, 2 e 4 da [Resolução do Conselho de Ministros n.º 134/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/134-2019-123855892), de 25 de julho, alterada pelas Resoluções do Conselho de Ministros n.os[69/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/69-2023-215647914), de 14 de julho, e [48/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/48-2025-911089438), de 17 de março, que passam a ter a seguinte redação:
 
 «1 - Autorizar a Administração Central do Sistema de Saúde, I. P. (ACSS, I. P.), a realizar a despesa relativa à empreitada de obra pública para a construção do novo hospital central do Alentejo, até ao montante máximo de 236 890 001,65 €, a que acresce o imposto sobre o valor acrescentado (IVA), à taxa legal em vigor.
 
@@ -160,3 +194,5 @@ g) 2027: 11 844 500,00 €.
 2 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 30 de abril de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119948554

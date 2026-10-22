@@ -110,6 +110,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/73-a/2025/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/73-a/2025/12/30/p/dre
+- type: cites
+  target: pt:dre:174556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70262477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:993270096:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1017369024:por
+  label: Retificado o n.º 4 pelo(a) Declaração de Retificação n.º 4/2026/1 - Diário da República n.º 14/2026, Série I de 2026-01-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/4-2026-1017369024
+  date: '2026-01-21'
 article_structure:
   article_count: 0
   section_count: 0

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45521-1963-681176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:39:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83ae9f7c6c15fd30fd8e64c0127531058ebc8f9e85bb96651c3f6896306b2d7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76f77a60faa7b4e7d17662b39e9875df9ad4ef3398c461ba7b3f0568e27c1c68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:39:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:683806:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:39:04Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +94,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 Das juntas distritais
 
-###### Artigo 1.º - I. As juntas distritais criadas pela Lei Orgânica do Ultramar na base XLVII, II, compõem-se de um presidente, que será, nas províncias de governo-geral, o governador de distrito, e dos seguintes vogais:
+Artigo 1.º - I. As juntas distritais criadas pela Lei Orgânica do Ultramar na base XLVII, II, compõem-se de um presidente, que será, nas províncias de governo-geral, o governador de distrito, e dos seguintes vogais:
 
 1.ª Dois vogais eleitos por sufrágio directo dos cidadãos domiciliados no distrito e inscritos nos cadernos gerais de recenseamento eleitoral;
 
@@ -114,17 +118,17 @@ IV. A duração do mandato dos vogais eleito é por quatro anos.
 
 V. Em Cabo Verde a junta será constituída pelos vogais indicados nas alíneas 1.ª, 2.ª, 3.ª, 4.ª e 6.ª do n.º I e a sua presidência pertencerá ao funcionário que, nos termos do artigo 47.º do estatuto da província, chefiar o distrito, ao qual caberá exercer, em relação às juntas, todas as funções que por este decreto são atribuídas aos governadores de distrito.
 
-###### Art. 2.º - I. As juntas distritais terão sessões plenárias ou parciais. Serão plenárias quando funcionem como corpo deliberativo e parciais quando, funcionando como corpo consultivo, dêem parecer sobre assuntos que interessem sòmente a determinados concelhos.
+Art. 2.º - I. As juntas distritais terão sessões plenárias ou parciais. Serão plenárias quando funcionem como corpo deliberativo e parciais quando, funcionando como corpo consultivo, dêem parecer sobre assuntos que interessem sòmente a determinados concelhos.
 
 II. - O presidente pode convocar, para assistir às sessões, sem direito a voto, os presidentes dos municípios que não façam parte das juntas distritais quando nelas se trate de assuntos que interessem aos respectivos corpos administrativos, e bem assim quaisquer pessoas que, pela sua especial competência, possam prestar esclarecimentos úteis sobre as matérias em discussão.
 
-###### Art. 3.º As funções de vogal das juntas distritais são obrigatórias e gratuitas.
+Art. 3.º As funções de vogal das juntas distritais são obrigatórias e gratuitas.
 
 Atribuições e competência
 
-###### Art. 4.º As juntas distritais exercem funções consultivas e deliberativas nos assuntos que interessem à administração do distrito, dentro dos limites da sua competência.
+Art. 4.º As juntas distritais exercem funções consultivas e deliberativas nos assuntos que interessem à administração do distrito, dentro dos limites da sua competência.
 
-###### Art. 5.º Como corpo consultivo, compete à junta distrital dar parecer:
+Art. 5.º Como corpo consultivo, compete à junta distrital dar parecer:
 
 1.º Sobre os assuntos da administração geral do distrito que lhe forem submetidos pelo governador;
 
@@ -134,7 +138,7 @@ Atribuições e competência
 
 4.º Sobre os assuntos de interesse geral, quando for expressamente mandada ouvir pelo governador da província.
 
-###### Art. 6.º Como corpo deliberativo, pertence à junta distrital:
+Art. 6.º Como corpo deliberativo, pertence à junta distrital:
 
 1.º Votar o orçamento do distrito, na forma por que deve ser apresentado ao governador da província;
 
@@ -176,9 +180,9 @@ Atribuições e competência
 
 20.º Exercer quaisquer outras atribuições que lhe sejam cometidas por lei ou regulamento.
 
-###### Art. 7.º Nas multas que estatuir não pode a junta distrital exceder o máximo de 5000$00.
+Art. 7.º Nas multas que estatuir não pode a junta distrital exceder o máximo de 5000$00.
 
-###### Art. 8.º - I. As deliberações das juntas distritais são executórias na área em que estas exercem a sua jurisdição.
+Art. 8.º - I. As deliberações das juntas distritais são executórias na área em que estas exercem a sua jurisdição.
 
 II. Quando o governador do distrito discordar das deliberações tomadas, pode suspender a sua execução, submetendo o assunto ao governador da província, que resolverá definitivamente.
 
@@ -186,23 +190,23 @@ III. A suspensão de que trata o número anterior tem de ser declarada por despa
 
 Constituição e funcionamento
 
-###### Art. 9.º - I. A junta distrital reúne-se no edifício destinado às suas sessões no dia 2 de Janeiro que se seguir à eleição e, verificados os poderes dos seus membros, entra imediatamente em exercício.
+Art. 9.º - I. A junta distrital reúne-se no edifício destinado às suas sessões no dia 2 de Janeiro que se seguir à eleição e, verificados os poderes dos seus membros, entra imediatamente em exercício.
 
 II. A convocação da reunião será feita pelo governador do distrito com, pelo menos, oito dias de antecedência.
 
 III. Os poderes dos membros da junta distrital serão verificados pelo governador de distrito, dizendo-se aquela constituída e podendo deliberar desde que esteja verificada a legitimidade dos poderes da maioria.
 
-###### Art. 10.º As juntas distritais têm uma reunião ordinária mensal e as extraordinárias que forem convocadas pelo presidente.
+Art. 10.º As juntas distritais têm uma reunião ordinária mensal e as extraordinárias que forem convocadas pelo presidente.
 
-###### Art. 11.º Aos vogais que não residam na sede do distrito serão abonadas passagens e um subsídio a fixar em portaria pelo governador da província.
+Art. 11.º Aos vogais que não residam na sede do distrito serão abonadas passagens e um subsídio a fixar em portaria pelo governador da província.
 
-###### Art. 12.º Em tudo o mais que não fique expressamente previsto, e enquanto não for publicado o Código Administrativo das Províncias Ultramarinas, observar-se-á a legislação em vigor, especialmente a Reforma Administrativa Ultramarina, na parte aplicável às juntas provinciais, conforme o que vier a ser determinado em portaria dos governos das respectivas províncias.
+Art. 12.º Em tudo o mais que não fique expressamente previsto, e enquanto não for publicado o Código Administrativo das Províncias Ultramarinas, observar-se-á a legislação em vigor, especialmente a Reforma Administrativa Ultramarina, na parte aplicável às juntas provinciais, conforme o que vier a ser determinado em portaria dos governos das respectivas províncias.
 
 Das juntas de freguesia
 
-###### Art. 13.º Cada freguesia forma uma pessoa colectiva de direito público.
+Art. 13.º Cada freguesia forma uma pessoa colectiva de direito público.
 
-###### Art. 14.º - I. A junta de freguesia é o corpo administrativo da freguesia e compõe-se de três vogais eleitos quadrienalmente pelos chefes de família e pelos regedores.
+Art. 14.º - I. A junta de freguesia é o corpo administrativo da freguesia e compõe-se de três vogais eleitos quadrienalmente pelos chefes de família e pelos regedores.
 
 II. Consideram-se chefes de família os cidadãos do sexo masculino ou feminino a que se refere o artigo 6.º, II, do [Decreto n.º 45408](https://diariodarepublica.pt/dr/detalhe/decreto/45408-1963-683806), de 6 de Dezembro de 1963.
 
@@ -212,23 +216,23 @@ IV. Na província de Macau as juntas de freguesia compor-se-ão de quatro vogais
 
 V. As funções de vogal das juntas de freguesia são obrigatórias e gratuitas.
 
-###### Art. 15.º - I. Os vogais das juntas de freguesia elegerão entre si o presidente, o secretário e o tesoureiro na primeira reunião posterior à eleição.
+Art. 15.º - I. Os vogais das juntas de freguesia elegerão entre si o presidente, o secretário e o tesoureiro na primeira reunião posterior à eleição.
 
 II. O presidente é substituído pelo secretário nos seus impedimentos. Além de voto igual aos dos mais membros, tem voto de qualidade.
 
-###### Art. 16.º As atribuições, competência e funcionamento das juntas de freguesia, e tudo o mais que não ficar expressamente previsto, regular-se-ão pela Reforma Administrativa Ultramarina, especialmente na parte aplicável às juntas locais, conforme o que vier a ser determinado em portaria dos governos das respectivas províncias.
+Art. 16.º As atribuições, competência e funcionamento das juntas de freguesia, e tudo o mais que não ficar expressamente previsto, regular-se-ão pela Reforma Administrativa Ultramarina, especialmente na parte aplicável às juntas locais, conforme o que vier a ser determinado em portaria dos governos das respectivas províncias.
 
 Disposições gerais
 
-###### Art. 17.º A eleição dos vogais das juntas distritais e inelegibilidade, renúncia, escusa e perda do mandato reger-se-ão, na parte aplicável, pelos diplomas que regularem a eleição dos vogais dos conselhos legislativos.
+Art. 17.º A eleição dos vogais das juntas distritais e inelegibilidade, renúncia, escusa e perda do mandato reger-se-ão, na parte aplicável, pelos diplomas que regularem a eleição dos vogais dos conselhos legislativos.
 
-###### Art. 18.º As áreas abrangidas pelas juntas distritais e pelas juntas de freguesia constituem, para o efeito das respectivas eleições, um círculo eleitoral.
+Art. 18.º As áreas abrangidas pelas juntas distritais e pelas juntas de freguesia constituem, para o efeito das respectivas eleições, um círculo eleitoral.
 
-###### Art. 19.º As câmaras municipais, comissões municipais e juntas locais continuam a reger-se pela legislação em vigor, enquanto não for publicado o Código Administrativo das Províncias Ultramarinas.
+Art. 19.º As câmaras municipais, comissões municipais e juntas locais continuam a reger-se pela legislação em vigor, enquanto não for publicado o Código Administrativo das Províncias Ultramarinas.
 
-###### Art. 20.º As primeiras eleições para as juntas distritais e de freguesia terão lugar, em cada província, durante o ano de 1964, nos períodos fixados por portaria do Ministro do Ultramar, ouvidos os governadores das respectivas províncias.
+Art. 20.º As primeiras eleições para as juntas distritais e de freguesia terão lugar, em cada província, durante o ano de 1964, nos períodos fixados por portaria do Ministro do Ultramar, ouvidos os governadores das respectivas províncias.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Dezembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

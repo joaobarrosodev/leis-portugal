@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44005-1961-182190
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-11-02T00:00:00Z'
+  retrieved_at: '2026-10-22T19:26:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 971af5c98d487da974bc9efa0f0ec9ff49db484e2aee072e15dc680b7ecfa27c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12f5194a1b5c8893244bbbbe934e4432935edd2c2d39dfac9ba4d39288410a80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:26:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:349327:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:26:27Z'
   warnings: []
   errors: []
 ---
@@ -85,10 +89,10 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A eleição dos Procuradores à Câmara Corporativa em representação das Misericórdias, dos municípios e das federações desportivas realizar-se-á no dia 15 do mês corrente e nos termos estabelecidos no [Decreto n.º 29112](https://diariodarepublica.pt/dr/detalhe/decreto/29112-1938-349327), de 12 de Novembro de 1938, devendo as formalidades indicadas no § único do artigo 1.º, no artigo 3.º e no § único do artigo 4.º do citado diploma cumprir-se até ao dia 13.
+Artigo 1.º A eleição dos Procuradores à Câmara Corporativa em representação das Misericórdias, dos municípios e das federações desportivas realizar-se-á no dia 15 do mês corrente e nos termos estabelecidos no [Decreto n.º 29112](https://diariodarepublica.pt/dr/detalhe/decreto/29112-1938-349327), de 12 de Novembro de 1938, devendo as formalidades indicadas no § único do artigo 1.º, no artigo 3.º e no § único do artigo 4.º do citado diploma cumprir-se até ao dia 13.
 
-###### Art. 2.º Este diploma entra imediatamente em vigor
+Art. 2.º Este diploma entra imediatamente em vigor
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Novembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - Manuel Lopes de Almeida - Henrique de Miranda Vasconcelos Martins de Carvalho.

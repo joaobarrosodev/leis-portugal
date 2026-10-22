@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/09/16900/0469104713.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/575/2014/09/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/575-2014-56396779
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-09-03T00:00:00Z'
+  retrieved_at: '2026-10-22T18:24:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f372c1ee8d5b2119af741063b4e0e935c4e130559b98ec1e0dbf1e748513c84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 21fe1d498d69ace7baefaf5918e9aad8067dcc8711cb726b5c94a6a066c15294
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:24:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,10 +69,10 @@ reuse:
 subjects:
 - Actualização de Pensões
 - Aposentação
-- Cálculo de Pensões
-- Igualdade de Tratamento
 - Caixa Geral de Aposentações
+- Cálculo de Pensões
 - Fiscalização
+- Igualdade de Tratamento
 - Inconstitucionalidade
 - Pensão de Aposentação
 - Pensão de Reforma
@@ -93,13 +93,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:24:33Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +142,7 @@ Sem prejuízo do que antecede, as normas em causa são suscetíveis de violar pr
 
 O presente pedido não visa pôr em causa a necessidade e urgência da adoção de medidas que garantam o cumprimento das obrigações internacionais assumidas pelo Estado Português mas, tão-só, assegurar que, em face da existência das dúvidas de constitucionalidade mencionadas no número anterior, tais medidas passam o crivo da conformidade com a Lei Fundamental, de modo a instilar a necessária confiança nos agentes económicos e sociais destinatários destas normas e preservar a credibilidade externa do País.
 
-**O Presidente da República requer o pedido de fiscalização de constitucionalidade nos seguintes termos:**
+O Presidente da República requer o pedido de fiscalização de constitucionalidade nos seguintes termos:
 
 Ante o exposto, e não deixando de ponderar a solicitação do Governo nesta matéria, requeiro, nos termos do n.º 1 do artigo 278.º da Constituição, bem como do n.º 1 do artigo 51.º e n.º 1 do artigo 57.º da Lei n.º 28/82, de 15 de novembro, a fiscalização preventiva da constitucionalidade das referidas normas do artigo 2.º, do artigo 4.º e do artigo 6.º do Decreto n.º 262/XII da Assembleia da República, por violação dos artigos 2.º e 13.º da Constituição.
 

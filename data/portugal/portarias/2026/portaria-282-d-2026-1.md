@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/282-d/2026/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/282-d-2026-1142816979
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:45:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c26d1a5944942717bbd75faf8fdab66c91687e06b171d9a4ed828c23979690b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9261574ab2dc4d593d07101da8163aaa783fc6e820eaa1ce08b5e846f4e30ca8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:45:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Carreira de Investigação Científica
-- SIADAP
-- Regulamento
 - Avaliação do Pessoal
+- Carreira de Investigação Científica
+- Regulamento
+- SIADAP
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/4/2015/01/07/p/dre
@@ -92,16 +92,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/236/2024/09/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/236/2024/09/27/p/dre
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:889128430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:916177977:por
+  label: null
+  source: null
 article_structure:
   article_count: 29
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:45:45Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +180,7 @@ Em tudo o que não estiver regulado no regulamento constante do anexo à present
 
 5 - O processo excecional de avaliação por ponderação curricular, incluindo as fases de homologação das avaliações e decisão sobre eventuais reclamações, deve decorrer com observância da contagem dos prazos legalmente definidos, de modo a ficar concluído até 31 de dezembro de 2026.
 
-6 - As alterações de posicionamento remuneratório resultantes da avaliação por ponderação curricular, nos termos previstos nos n.<sup>os</sup> 1 e 2 produzem efeitos a 1 de janeiro de 2027.
+6 - As alterações de posicionamento remuneratório resultantes da avaliação por ponderação curricular, nos termos previstos nos n.os 1 e 2 produzem efeitos a 1 de janeiro de 2027.
 
 ###### Artigo 5.º — Entrada em vigor
 
@@ -168,7 +188,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 30 de junho de 2026.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento. - O Ministro da Educação, Ciência e Inovação, Fernando Alexandre.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento. - O Ministro da Educação, Ciência e Inovação, Fernando Alexandre.
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 1.º)
 
@@ -190,7 +210,7 @@ Regulamento da avaliação do desempenho dos trabalhadores integrados na carreir
 
 3 - Nos casos em que não seja possível realizar a avaliação de desempenho nos termos previstos nos números anteriores concomitantemente, o investigador pode requerer a avaliação por ponderação curricular, com fundamento em circunstâncias que o órgão científico ou técnico-científico considere atendíveis, nomeadamente por motivo de doença, de licença de parentalidade, ou outras situações de indisponibilidade para o trabalho legalmente tuteladas.
 
-4 - Aos investigadores que não detenham pelo menos seis meses de exercício efetivo de funções em cada período de monitorização intercalar anual, por terem prestado funções nas situações previstas no n.º 1 do artigo 21.º do ECIC, aplica-se o disposto no número anterior, bem como o vertido nos n.<sup>os</sup>2 e 3 do artigo 21.º do ECIC.
+4 - Aos investigadores que não detenham pelo menos seis meses de exercício efetivo de funções em cada período de monitorização intercalar anual, por terem prestado funções nas situações previstas no n.º 1 do artigo 21.º do ECIC, aplica-se o disposto no número anterior, bem como o vertido nos n.os2 e 3 do artigo 21.º do ECIC.
 
 5 - A avaliação final trienal é realizada de acordo com os parâmetros, escalas de pontuação e regras de cálculo previstos nos artigos 4.º a 9.º do presente regulamento.
 
@@ -628,6 +648,10 @@ f) O resultado global da aplicação do presente regulamento de avaliação do d
 
 Monitorização intercalar do desempenho
 
-![](https://files.diariodarepublica.pt/images/1142816979/1142731023.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1142816979/1142731023.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1142816979/1142731024.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1142816979/1142731024.png) |
+| --- |
+
+119948949

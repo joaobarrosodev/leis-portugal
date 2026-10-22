@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/41/2026/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/41-2026-1060895765
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T18:33:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48224d73e94625f92856b92ae84fb67d96654d4d4f220f2187886e22b28f1da3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d105c74adabc400aa557a0d44985a32089ad910af5e28e609ea74cd6e158c8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:33:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,24 @@ reuse:
 subjects:
 - Acesso à Educação
 - Aprendizagem
-- Financiamento
 - Comissão de Acompanhamento
-- Estudante
-- Fundos CE
-- Insucesso Escolar
-- Ensino Secundário
-- Ensino Básico
-- Plano A+A
-- Instituto de Educação Qualidade e Avaliação
 - Direção Geral de Estudos Planeamento e Avaliação
+- Ensino Básico
+- Ensino Secundário
+- Estudante
+- Financiamento
+- Fundos CE
+- Instituto de Educação Qualidade e Avaliação
+- Insucesso Escolar
+- Plano A+A
 relationships:
+- type: amends
+  target: pt:numero:despacho-normativo:10-B/2018
+  label: Mantém em vigor as regras de organização do ano letivo nos estabelecimentos públicos de educação pré-escolar e dos
+    ensinos básico e secundário, previstas no Despacho Normativo n.º 10-B/2018, de 6 de julho, Diário da República n.º 129/2018,
+    1º Suplemento, Série II, com as especificidades constantes da presente resolução
+  source: null
+  date: '2018-07-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/152/2013/11/04/p/dre
   label: null
@@ -86,16 +93,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/140/2024/10/17/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/140/2024/10/17/p/dre
+- type: cites
+  target: pt:dre:115652972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:891337590:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:resolucao-conselho-ministros:140/2024
+  label: Revoga, a partir de 27 de fevereiro de 2026, a Resolução do Conselho de Ministros n.º 140/2024, de 17 de outubro,
+    Diário da República n.º 202/2024, Série I
+  source: null
+  date: '2024-10-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:33:44Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +175,7 @@ e) Um representante da Inspeção-Geral da Educação e Ciência;
 
 f) Um representante do Conselho das Escolas.
 
-10 - Estabelecer que o exercício das funções previstas nos n.<sup>os</sup>7, 8 e 9 não confere o direito a qualquer remuneração ou abono adicional.
+10 - Estabelecer que o exercício das funções previstas nos n.os7, 8 e 9 não confere o direito a qualquer remuneração ou abono adicional.
 
 11 - Definir que o apoio administrativo e logístico é assegurado pelo EduQA, I. P., e pela AGSE, I. P., no âmbito das respetivas atribuições e competências.
 
@@ -160,7 +185,7 @@ f) Um representante do Conselho das Escolas.
 
 Presidência do Conselho de Ministros, 12 de fevereiro de 2026. - O Primeiro-Ministro, Luís Montenegro.
 
-## ANEXO — (a que se referem os n.<sup>os</sup>1 e 2)
+## ANEXO — (a que se referem os n.os1 e 2)
 
 O plano «Aprender Mais Agora» inclui medidas estruturadas em dois eixos - «Melhorar a aprendizagem» e «Inclusão e Sucesso de alunos estrangeiros».
 
@@ -193,3 +218,5 @@ Capacitar os mediadores contratados, desenvolvendo as suas competências linguí
 2.3 - Ensinar Português aos pais dos alunos estrangeiros
 
 Alargar a rede de cursos de língua portuguesa para estrangeiros (Português Língua de Acolhimento), em particular nos agrupamentos de escolas onde há mais alunos estrangeiros matriculados, para apoiar as suas famílias.
+
+119947826

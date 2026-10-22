@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/3/2026/06/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/3-2026-1133485784
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-17T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bbab2bf35eefddb0522e54f3c998b0abdbfba531220c6e399051bf6cfe74e093
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0748543adbab7dcad0dfb9af973e5b6d8c78e8bf27072782a0967f661a3afa8d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Jurisprudencia
-- Veículo
 - Código Penal
+- Jurisprudencia
+- Recurso
 - Sentença Condenatoria
+- Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/acstj/3/2023/02/13/p/dre
@@ -94,16 +94,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:107522252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207332029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319744:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:33Z'
   warnings: []
   errors: []
 ---
@@ -200,7 +224,7 @@ Através deste recurso extraordinário visa-se a enunciação, pelo Supremo Trib
 
 Tal construção normativa, de índole para-legislativa, encontra-se densamente parametrizada: pelo respeito devido ao pensamento legislativo imanente aos textos legais aplicáveis; pela exigência de integração na unidade interna do ordenamento jurídico, enquanto sistema normativo coerente; pela ponderação das circunstâncias históricas e teleológicas em que a lei foi elaborada; e, bem assim, pela consideração das condições específicas, axiológicas, sociais e económicas vigentes no momento da sua aplicação jurisdicional, em ordem à realização dos princípios da segurança jurídica, da certeza do direito e da igualdade na aplicação da lei.
 
-Conforme se pode ler no Acórdão deste Supremo Tribunal de Justiça, de 30.10.2019, tirado no processo 2701/11.9T3SNT.L1-A. S1<sup>1</sup> «O recurso extraordinário para fixação de jurisprudência constitui uma espécie de recurso classificado como «recurso normativo», por contraposição com o denominado «recurso hierárquico»; no recurso normativo, o objecto é constituído pela determinação do sentido de uma «norma», com força quase obrigatória e, de qualquer modo, geral e abstracta, a benefício directo dos valores da certeza e da segurança jurídica, unificando a interpretação e o sentido de uma norma ou dimensão normativa que os tribunais de recurso consideravam de modo divergente”. (Referindo igualmente o presente recurso como recurso categorialmente designado como “normativo”, que não tem por objecto a decisão de uma questão ou de uma causa, mas apenas a definição do sentido de uma norma - no rigor, a construção jurisprudencial de uma norma ou quase-norma perante divergências de interpretação - veja-se o acórdão de 21-03-2013, proferido no processo n.º 456/07.0TALSD.S1, desta 3.ª Secção).
+Conforme se pode ler no Acórdão deste Supremo Tribunal de Justiça, de 30.10.2019, tirado no processo 2701/11.9T3SNT.L1-A. S11 «O recurso extraordinário para fixação de jurisprudência constitui uma espécie de recurso classificado como «recurso normativo», por contraposição com o denominado «recurso hierárquico»; no recurso normativo, o objecto é constituído pela determinação do sentido de uma «norma», com força quase obrigatória e, de qualquer modo, geral e abstracta, a benefício directo dos valores da certeza e da segurança jurídica, unificando a interpretação e o sentido de uma norma ou dimensão normativa que os tribunais de recurso consideravam de modo divergente”. (Referindo igualmente o presente recurso como recurso categorialmente designado como “normativo”, que não tem por objecto a decisão de uma questão ou de uma causa, mas apenas a definição do sentido de uma norma - no rigor, a construção jurisprudencial de uma norma ou quase-norma perante divergências de interpretação - veja-se o acórdão de 21-03-2013, proferido no processo n.º 456/07.0TALSD.S1, desta 3.ª Secção).
 
 Nesta perspectiva tinha-se já pronunciado o acórdão de 14-09-2011, proferido no processo n.º 1421/10.6PBSTB.S1 - 3.ª Secção, nestes termos: “Ao atribuir uma determinada interpretação à norma, e essa interpretação reveste uma natureza geral e abstracta, o acórdão de uniformização de jurisprudência assume uma leitura normativa como adequada. Essa interpretação tem por objecto uma norma, sendo certo que, como de modo constante e uniforme tem entendido o TC, para tal efeito há-de operar-se com um conceito funcional de norma, um conceito funcionalmente adequado àquele sistema fiscalizador e consonante com a sua justificação e sentido. O que ali se tem em vista «é o controle dos actos do poder normativo do Estado (lato sensu) -, e em especial do poder legislativo - ou seja, daqueles actos que contêm uma “regra de conduta” ou um “critério de decisão” para os particulares, para a Administração e para os tribunais.
 
@@ -346,13 +370,13 @@ Argumentou com jurisprudência vária, relativa a cada um dos dois entendimentos
 
 9) Nos artigos 397.º e 500.º, do Código de Processo Penal, não se prevê nenhuma excepção que antecipe a contagem do tempo de cumprimento da sanção acessória para a data da entrega do título de condução na secretaria do Tribunal quando ocorra antes de a condenação se tornar imodificável.».
 
-Sublinhe-se a expressa menção à distinção entre dois momentos: «A propósito, escreveu-se no Ac. da R.P. de 08/09/2020(<sup>2</sup>) que, “não podemos confundir a eficácia das penas e a sua execução: a condenação produz efeitos a partir do trânsito. A execução só se inicia quando a carta estiver junta ao processo. Com o trânsito em julgado todas as penas se tornam eficazes, assim abrindo caminho à sua execução.»
+Sublinhe-se a expressa menção à distinção entre dois momentos: «A propósito, escreveu-se no Ac. da R.P. de 08/09/2020(2) que, “não podemos confundir a eficácia das penas e a sua execução: a condenação produz efeitos a partir do trânsito. A execução só se inicia quando a carta estiver junta ao processo. Com o trânsito em julgado todas as penas se tornam eficazes, assim abrindo caminho à sua execução.»
 
 A esta distinção aditou o significado dos dois segmentos da norma contida no artigo 69.º, n.º 2 do CP:
 
-- o «primeiro segmento normativo ínsito no n.º 2 do dispositivo 69.º do Código Penal quer tão-só significar que o condenado não pode ser impedido de conduzir antes de transitar em julgado a sentença impositiva da sanção acessória de referente proibição, aliás de acordo com o princípio geral prevenido no artigo 467.º/1, do CPP, de que a exequibilidade de qualquer sentença penal condenatória depende do respectivo trânsito em julgado» <sup>3</sup>;
+- o «primeiro segmento normativo ínsito no n.º 2 do dispositivo 69.º do Código Penal quer tão-só significar que o condenado não pode ser impedido de conduzir antes de transitar em julgado a sentença impositiva da sanção acessória de referente proibição, aliás de acordo com o princípio geral prevenido no artigo 467.º/1, do CPP, de que a exequibilidade de qualquer sentença penal condenatória depende do respectivo trânsito em julgado» 3;
 
-- o segundo «não significa que a execução se inicie sempre e necessariamente no dia seguinte ao trânsito em julgado “ (como sucede nas situações em que a carta de condução não foi entregue antes do trânsito em julgado da decisão condenatória), pois o condenado tem 10 dias, a contar desse momento, para proceder à sua entrega voluntária e se não o fizer o tribunal ordenará a sua apreensão<sup>4</sup>.», o que foi resumido no acórdão do Tribunal da Relação de Évora, de 11/03/2010, no processo n.º 2762/07.5BEVR-A.E1, <sup>5</sup>: «1- O cumprimento da pena acessória de proibição de conduzir, não estando o título que habilita a condução apreendido, inicia-se com a efectiva entrega desse título ou com a sua apreensão forçada, quando aquele não é voluntariamente entregue. 2-A entrega ou apreensão da licença de condução ou do documento que legalmente a substitua é condição sine qua non do efectivo cumprimento da pena acessória».
+- o segundo «não significa que a execução se inicie sempre e necessariamente no dia seguinte ao trânsito em julgado “ (como sucede nas situações em que a carta de condução não foi entregue antes do trânsito em julgado da decisão condenatória), pois o condenado tem 10 dias, a contar desse momento, para proceder à sua entrega voluntária e se não o fizer o tribunal ordenará a sua apreensão4.», o que foi resumido no acórdão do Tribunal da Relação de Évora, de 11/03/2010, no processo n.º 2762/07.5BEVR-A.E1, 5: «1- O cumprimento da pena acessória de proibição de conduzir, não estando o título que habilita a condução apreendido, inicia-se com a efectiva entrega desse título ou com a sua apreensão forçada, quando aquele não é voluntariamente entregue. 2-A entrega ou apreensão da licença de condução ou do documento que legalmente a substitua é condição sine qua non do efectivo cumprimento da pena acessória».
 
 Mais considerou, com pertinência, que «pensando no prazo previsto no n.º 1 do art. 107.º do CPP para a eventual arguição de nulidades, “a entrega voluntária pelo arguido da carta de condução com vista à execução da pena acessória não opera renúncia ao decurso do prazo de recurso, nos termos previstos no artigo 107.º, n.º 1, do Código Processo Penal, pelo que desse acto não decorre o trânsito em julgado da respetiva sentença condenatória ».
 
@@ -360,15 +384,15 @@ Mais considerou, com pertinência, que «pensando no prazo previsto no n.º 1 do
 
 Os Tribunais da Relação decidiram no sentido do acórdão recorrido, nos seguintes acórdãos:
 
-- Acórdão do Tribunal da Relação de Évora, de 29.03.2005, no processo n.º 2757/04 -11<sup>6</sup>;
+- Acórdão do Tribunal da Relação de Évora, de 29.03.2005, no processo n.º 2757/04 -116;
 
-- Acórdão do Tribunal da Relação de Évora, de 04.02.2010, no processo n.º 778/07.0PAOLH-A. E1<sup>7</sup>;
+- Acórdão do Tribunal da Relação de Évora, de 04.02.2010, no processo n.º 778/07.0PAOLH-A. E17;
 
-- Acórdão do Tribunal da Relação de Évora, de 21.12.2017, no processo n.º 64/15.2 PTFAR-A. E1<sup>8</sup>;
+- Acórdão do Tribunal da Relação de Évora, de 21.12.2017, no processo n.º 64/15.2 PTFAR-A. E18;
 
-- Acórdão do Tribunal da Relação de Coimbra, de 19.06.2013, no processo n.º 64/13.7GAILH. C1<sup>9</sup>;
+- Acórdão do Tribunal da Relação de Coimbra, de 19.06.2013, no processo n.º 64/13.7GAILH. C19;
 
-- Acórdão do Tribunal da Relação do Porto, de 28.01.2026, no processo n.º 2063/24.4SPPRT. P1<sup>10</sup> <sup>11</sup>.
+- Acórdão do Tribunal da Relação do Porto, de 28.01.2026, no processo n.º 2063/24.4SPPRT. P110 11.
 
 5 - Da posição sufragada no acórdão fundamento:
 
@@ -420,21 +444,21 @@ Sabendo a Secretaria do Tribunal que o Ministério Público tinha interposto rec
 
 No sentido do acórdão fundamento, decidiram os Tribunais da Relação nos seguintes acórdãos:
 
-- Acórdão do Tribunal da Relação de Coimbra, de 22.01.2015, no processo n.º 42/13.6GCFND. C1<sup>12</sup>;
+- Acórdão do Tribunal da Relação de Coimbra, de 22.01.2015, no processo n.º 42/13.6GCFND. C112;
 
-- Acórdão do Tribunal da Relação de Coimbra, de 24.06.2015, no processo n.º 137/14.9GAAVZ. C1<sup>13</sup>;
+- Acórdão do Tribunal da Relação de Coimbra, de 24.06.2015, no processo n.º 137/14.9GAAVZ. C113;
 
-- Acórdão do Tribunal da Relação de Coimbra, de 01.07.2015, no processo n.º 33/14.0 GBMGL-A. C1<sup>14</sup>;
+- Acórdão do Tribunal da Relação de Coimbra, de 01.07.2015, no processo n.º 33/14.0 GBMGL-A. C114;
 
-- Acórdão do Tribunal da Relação de Lisboa, de 10.11.2016, no processo n.º 27/14.5GALNH.L1-9<sup>15</sup>;
+- Acórdão do Tribunal da Relação de Lisboa, de 10.11.2016, no processo n.º 27/14.5GALNH.L1-915;
 
-- Acórdão do Tribunal da Relação de Coimbra, de 04.12.2019, no processo n.º 37/17.0PTLRA-A. C1<sup>16</sup>;
+- Acórdão do Tribunal da Relação de Coimbra, de 04.12.2019, no processo n.º 37/17.0PTLRA-A. C116;
 
-- Acórdão do Tribunal da Relação de Guimarães, de 23.11.2020, no processo n.º 119/19.4PFBRG-A. G1<sup>17</sup>;
+- Acórdão do Tribunal da Relação de Guimarães, de 23.11.2020, no processo n.º 119/19.4PFBRG-A. G117;
 
-- Acórdão do Tribunal da Relação de Coimbra, de 29.06.2022, no processo n.º 183/21.6GDCBR-A. C1<sup>18</sup>;
+- Acórdão do Tribunal da Relação de Coimbra, de 29.06.2022, no processo n.º 183/21.6GDCBR-A. C118;
 
-- Acórdão do Tribunal da Relação do Porto, de 03.05.2023, no processo n.º 215/18.5 GBMCN-A. P1<sup>19</sup>.
+- Acórdão do Tribunal da Relação do Porto, de 03.05.2023, no processo n.º 215/18.5 GBMCN-A. P119.
 
 7 - Da apreciação da questão em análise:
 
@@ -458,7 +482,7 @@ iii) A existência de analogia com outros institutos de “desconto” de penas:
 
 Esta tese convoca analogias com regimes em que o legislador determinou a imputação de períodos anteriores de privação de direitos à pena definitiva - v.g. o artigo 80.º do CP, relativo ao desconto da prisão preventiva e o entendimento de que os artigos 281.º n.º 4 e 282.º n.º 4 a) do CP admitem desconto na situação de suspensão provisória do processo, cumprida que seja a injução de proibição de conduzir.
 
-Esta última argumentação mostra-se, na verdade, contrária à fixação de jurisprudência contida no Acórdão do Supremo Tribunal de Justiça, de 16 de Junho de 2017, com o n.º 4/2017<sup>20</sup>, nos termos que se transcrevem: «Tendo sido acordada a suspensão provisória do processo, nos termos do art. 281.º do Código de Processo Penal, com a injunção da proibição da condução de veículo automóvel, prevista no n.º 3 do preceito, caso aquela suspensão termine, prosseguindo o processo, ao abrigo do n.º 4, do art. 282.º, do mesmo Código, o tempo em que o arguido esteve privado da carta de condução não deve ser descontado, no tempo da pena acessória de inibição da faculdade de conduzir, aplicada na sentença condenatória que venha a ter lugar»<sup>21</sup>.
+Esta última argumentação mostra-se, na verdade, contrária à fixação de jurisprudência contida no Acórdão do Supremo Tribunal de Justiça, de 16 de Junho de 2017, com o n.º 4/201720, nos termos que se transcrevem: «Tendo sido acordada a suspensão provisória do processo, nos termos do art. 281.º do Código de Processo Penal, com a injunção da proibição da condução de veículo automóvel, prevista no n.º 3 do preceito, caso aquela suspensão termine, prosseguindo o processo, ao abrigo do n.º 4, do art. 282.º, do mesmo Código, o tempo em que o arguido esteve privado da carta de condução não deve ser descontado, no tempo da pena acessória de inibição da faculdade de conduzir, aplicada na sentença condenatória que venha a ter lugar»21.
 
 iv) A função preventiva da pena acessória:
 
@@ -492,7 +516,7 @@ Por outro lado, seria juridicamente inadmissível que, estabelecendo o artigo 16
 
 Tal construção interpretativa, por óbvio, contrariaria o princípio da coerência e da unidade do ordenamento jurídico-penal, impondo-se, antes, uma solução jurídica harmonizada e hierarquizada, que respeite o grau de reprovação do facto, o sentido próprio do plano de criminalidade e a natureza específica dos regimes sancionatórios aplicáveis.
 
-Por seu turno, a doutrina<sup>22</sup> assinala que a criação de novos regimes de desconto integra matéria reservada, em termos relativos, a lei parlamentar, não podendo decorrer de analogias extensivas nem de meros critérios de equidade judicial.
+Por seu turno, a doutrina22 assinala que a criação de novos regimes de desconto integra matéria reservada, em termos relativos, a lei parlamentar, não podendo decorrer de analogias extensivas nem de meros critérios de equidade judicial.
 
 Edificar, por via jurisprudencial, um regime de “desconto” de períodos anteriores não previstos na lei, ainda que possa parecer equitativo em casos concretos, importa violação da reserva de lei parlamentar em matéria penal, consagrada no artigo 165.º, n.º 1, alínea c), da Constituição da República Portuguesa.
 
@@ -512,7 +536,7 @@ Mostra-se particularmente elucidativa, neste domínio, a orientação firmada no
 
 Este aresto foi acompanhado por dois votos de vencido, favoráveis à tese contida no acórdão fundamento, subscrito pelo Exmº Conselheiros Pires da Graça, ao qual aderiu o Exmº Conselheiro Raúl Borges.
 
-- Por seu turno, a fixação de jurisprudência deste Supremo Tribunal de Justiça, contida no [Acórdão n.º 3/2023](https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/3-2023-207332029)<sup>23</sup>, de 15 de dezembro de 2023, publicado no Diário da República de 28.02.2023, partindo da qualificação da pena acessória como verdadeira pena, reafirma que o respectivo momento inicial se encontra legalmente fixado, decorrendo necessariamente do trânsito em julgado da decisão condenatória, nos termos do artigo 69.º, n.º 2, CP, tendo sido igualmente afirmado que à contagem da pena acessória de proibição de conduzir são aplicáveis, por analogia, as regras relativas à execução e contagem da pena de prisão previstas no artigo 479.º do CPP.
+- Por seu turno, a fixação de jurisprudência deste Supremo Tribunal de Justiça, contida no [Acórdão n.º 3/2023](https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/3-2023-207332029)23, de 15 de dezembro de 2023, publicado no Diário da República de 28.02.2023, partindo da qualificação da pena acessória como verdadeira pena, reafirma que o respectivo momento inicial se encontra legalmente fixado, decorrendo necessariamente do trânsito em julgado da decisão condenatória, nos termos do artigo 69.º, n.º 2, CP, tendo sido igualmente afirmado que à contagem da pena acessória de proibição de conduzir são aplicáveis, por analogia, as regras relativas à execução e contagem da pena de prisão previstas no artigo 479.º do CPP.
 
 Do seu teor consta que «Neste caso concreto, a pena acessória de proibição de conduzir veículos com motor (artigo 69.º do CP) não perde a sua natureza e características, pelo facto de ter um determinado período de duração, como sucede, com as demais penas, sejam principais ou acessórias.
 
@@ -522,9 +546,9 @@ Acrescenta-se que, não há razão para que haja um tratamento diferenciado, a n
 
 De resto, considerando até o sentido pedagógico e ressocializador subjacente à pena acessória de proibição de conduzir veículos com motor, enquanto verdadeira pena estabelecida no artigo 69.º do Código Penal, compreende-se que a sua execução acompanhe as regras de contagem do cumprimento da pena de prisão, sob pena de se esvaziar o seu (da pena acessória) conteúdo útil, atendendo ao seu escopo, às exigências de socialização que lhe são inerentes, bem como considerando os objetivos de defesa da sociedade.»
 
-- A fixação de Jurisprudência, tirada no [Acórdão n.º 9/2011](https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/9-2011-146205), de 20 de Outubro de 2011, publicado no Diário da República - 1.ª série - n.º 225, a 23 de Novembro de 2011<sup>24</sup>, na qual, com reporte para a contagem das penas de prisão nela incluindo o tempo de prisão preventiva, estabelece como fundamento essencial à figura do desconto, o trânsito em julgado da decisão condenatória. Aí se refere que o instituto do desconto «assenta na ideia básica segundo a qual as privações de liberdade de qualquer tipo que o agente tenha já sofrido lhe devem aproveitar, sendo imputadas ou descontadas na pena em que o agente, em virtude de uma condenação já transitada em julgado, deva cumprir. Todas as medidas de privação de liberdade impostas antes de uma condenação transitada em julgado, fundadas, embora, num princípio de necessidade cautelar, intervêm num momento em que o agente se encontra ainda a coberto da presunção de inocência, justificando-se, por isso, quanto a elas, o desconto no cumprimento da pena».
+- A fixação de Jurisprudência, tirada no [Acórdão n.º 9/2011](https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/9-2011-146205), de 20 de Outubro de 2011, publicado no Diário da República - 1.ª série - n.º 225, a 23 de Novembro de 201124, na qual, com reporte para a contagem das penas de prisão nela incluindo o tempo de prisão preventiva, estabelece como fundamento essencial à figura do desconto, o trânsito em julgado da decisão condenatória. Aí se refere que o instituto do desconto «assenta na ideia básica segundo a qual as privações de liberdade de qualquer tipo que o agente tenha já sofrido lhe devem aproveitar, sendo imputadas ou descontadas na pena em que o agente, em virtude de uma condenação já transitada em julgado, deva cumprir. Todas as medidas de privação de liberdade impostas antes de uma condenação transitada em julgado, fundadas, embora, num princípio de necessidade cautelar, intervêm num momento em que o agente se encontra ainda a coberto da presunção de inocência, justificando-se, por isso, quanto a elas, o desconto no cumprimento da pena».
 
-- A fixação de Jurisprudência, contida no [Acórdão n.º 3/2023](https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/3-2023-207332029), de 15 de Dezembro de 2022, tirado no processo 38/18.1GEACB-A.C1-A. S1<sup>25</sup>, que estabeleceu que «À contagem da pena acessória de proibição de conduzir veículos com motor prevista no artigo 69.º do Código Penal aplicam-se, por analogia, nos termos do artigo 4.º do Código de Processo Penal, as regras de contagem da pena de prisão constantes do artigo 479.º do Código de Processo Penal».
+- A fixação de Jurisprudência, contida no [Acórdão n.º 3/2023](https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/3-2023-207332029), de 15 de Dezembro de 2022, tirado no processo 38/18.1GEACB-A.C1-A. S125, que estabeleceu que «À contagem da pena acessória de proibição de conduzir veículos com motor prevista no artigo 69.º do Código Penal aplicam-se, por analogia, nos termos do artigo 4.º do Código de Processo Penal, as regras de contagem da pena de prisão constantes do artigo 479.º do Código de Processo Penal».
 
 «De resto, como já foi assinalado, a aplicação desta pena acessória depende da aplicação de uma pena principal ao condenado (art. 69.º, n.º 1, do CP), pelo que está em causa a execução de penas, [...] que devem seguir um regime que seja encontrado no âmbito do mesmo sistema processual-penal em que se inserem.»
 
@@ -544,7 +568,7 @@ iv) A incompatibilidade com o princípio constitucional de presunção de inocê
 
 A presunção de inocência, constitucionalmente consagrada no artigo 32.º, n.º 2, da CRP, mantém plena eficácia até ao trânsito em julgado da decisão condenatória, não podendo considerar-se esgotada em momento anterior.
 
-A jurisprudência deste Supremo Tribunal de Justiça tem vindo a afastar a admissibilidade de quaisquer formas de cumprimento provisório de penas não expressamente previstas na lei, entendendo que a exceção relevante para efeitos penais<sup>26</sup>- atinente à prisão preventiva - encontra o seu fundamento em imperativos de justiça material, não sendo suscetível de extensão analógica a outras situações<sup>27</sup>.
+A jurisprudência deste Supremo Tribunal de Justiça tem vindo a afastar a admissibilidade de quaisquer formas de cumprimento provisório de penas não expressamente previstas na lei, entendendo que a exceção relevante para efeitos penais26- atinente à prisão preventiva - encontra o seu fundamento em imperativos de justiça material, não sendo suscetível de extensão analógica a outras situações27.
 
 v) A coerência sistemática e a simetria com a tutela penal garantida pelo artigo 353.º do CP:
 
@@ -552,7 +576,7 @@ Na fixação de Jurisprudência, contida no [Acórdão n.º 3/2023](https://diar
 
 Em síntese, entende-se que a pena acessória «se inicia com o trânsito em julgado da decisão condenatória e a sua contagem sujeita-se, por analogia, às regras dos artigos 479.º e segs. do CPP», precisamente para que exista um quadro normativo certo e determinável quanto ao período durante o qual a violação da proibição integra o tipo do artigo 353.º do CP.
 
-O Acórdão de Fixação de Jurisprudência n.º 8/2023, de 21.09.2023, publicado no DR, 1.ª série, de 31.07. 2023<sup>28</sup>, no contexto da definição do conteúdo da pena acessória de proibição de conduzir, sublinha que essa pena constitui verdadeira pena e que apenas a violação do seu conteúdo material - isto é, conduzir durante o período em que vigora a proibição - pode integrar o crime do artigo 353.º do CP, o que exige uma delimitação coerente e segura da própria pena acessória.
+O Acórdão de Fixação de Jurisprudência n.º 8/2023, de 21.09.2023, publicado no DR, 1.ª série, de 31.07. 202328, no contexto da definição do conteúdo da pena acessória de proibição de conduzir, sublinha que essa pena constitui verdadeira pena e que apenas a violação do seu conteúdo material - isto é, conduzir durante o período em que vigora a proibição - pode integrar o crime do artigo 353.º do CP, o que exige uma delimitação coerente e segura da própria pena acessória.
 
 O Tribunal afirma que a proibição de conduzir veículos com motor «constitui o conteúdo material da pena acessória» e que «é a violação desse conteúdo que está na base do crime de violação de imposições, proibições ou interdições previsto no artigo 353.º do Código Penal», pelo que a interpretação do artigo 69.º n.º 2 do CP, tem de ser feita de forma a garantir que o agente sabe, com segurança, em que período concreto a condução é proibida, gerando o seu incumprimento consequências penais.
 
@@ -572,7 +596,7 @@ vii) Regime fixado pelo artigo 500.º do CPP:
 
 O artigo 500.º do CPP concretiza o iter de execução: trânsito em julgado da decisão condenatória, decurso do prazo legal de entrega do título e, em caso de incumprimento, apreensão coercitiva do documento.
 
-No acórdão que, no âmbito deste processo, reconheceu a contradição de julgados<sup>29</sup>, assinala-se expressamente que a lei não prevê o desconto do intervalo de tempo decorrido entre os dados da entrega voluntária da carta e os dados do trânsito em julgado no cômputo da pena acessória, observando que o legislador, ao regular a execução no artigo 500.º do CPP, apenas disciplinou a entrega e a apreensão após o trânsito, não tendo consagrado qualquer regime de antecipação ou desconto, a interpretação que cria tal regime por via jurisprudencial contrariaria a sistemática do artigo 500.º do CPP e o silêncio significativo do legislador.
+No acórdão que, no âmbito deste processo, reconheceu a contradição de julgados29, assinala-se expressamente que a lei não prevê o desconto do intervalo de tempo decorrido entre os dados da entrega voluntária da carta e os dados do trânsito em julgado no cômputo da pena acessória, observando que o legislador, ao regular a execução no artigo 500.º do CPP, apenas disciplinou a entrega e a apreensão após o trânsito, não tendo consagrado qualquer regime de antecipação ou desconto, a interpretação que cria tal regime por via jurisprudencial contrariaria a sistemática do artigo 500.º do CPP e o silêncio significativo do legislador.
 
 A questão de que nos ocupamos está ainda conexa com a de saber se o cumprimento da pena acessória de proibição de conduzir se inicia após o trânsito em julgado da decisão condenatória ou apenas da conjugação desse trânsito com a efectiva entrega/apreensão da licença de condução, questão essa visada, igualmente, no acórdão recorrido.
 
@@ -586,11 +610,11 @@ Nestas condições, nada obsta, em termos estrito-jurídicos, a que, entre o mom
 
 Admitir que o condenado possa antecipar o momento do cumprimento da pena, entregando a carta de condução mais cedo, significaria sempre deixar na sua disponibilidade o momento em que se inicia a execução da pena (e o seu termo), dando oportuniodade a que o faça segundo juízos de conveniência pessoal.
 
-Pode, naturalmente, haver boas razões para o condenado antecipar a entrega do título de condução - o que ocorre, por exemplo, na hipótese de o arguido saber que no prazo indicado não terá disponibilidade para o fazer<sup>30</sup>. Contudo, ainda que tais razões se verifiquem, o condenado poderá sempre reaver a sua licença até ao trânsito em julgado, entregando-a, depois, no prazo dos dez dias subsequentes. Até ao trânsito ele é presumido inocente, não havendo fundamento admissível, à luz da Constituição ou da lei ordinária, para manter o título apreendido como se tratasse de uma verdadeira execução de pena.
+Pode, naturalmente, haver boas razões para o condenado antecipar a entrega do título de condução - o que ocorre, por exemplo, na hipótese de o arguido saber que no prazo indicado não terá disponibilidade para o fazer30. Contudo, ainda que tais razões se verifiquem, o condenado poderá sempre reaver a sua licença até ao trânsito em julgado, entregando-a, depois, no prazo dos dez dias subsequentes. Até ao trânsito ele é presumido inocente, não havendo fundamento admissível, à luz da Constituição ou da lei ordinária, para manter o título apreendido como se tratasse de uma verdadeira execução de pena.
 
 A aceitação do desconto desse período - desprovido de título executivo, de imposição formal e de controlo normativamente regulado - redundaria, em última análise, numa forma de execução “provisória” de pena acessória não prevista na lei, em tensão com os princípios da legalidade, da certeza e segurança jurídicas e da própria estrutura garantística do processo penal.
 
-11 - Não se vê como este entendimento envolva injustiça ou deslealdade em virtude de, com a aceitação da licença de condução pela entidade competente, o arguido poder ter ficado convencido de estar já a cumprir a pena de proibição de conduzir. Com efeito, a decisão condenatória inclui a advertência de que o arguido deve entregar a carta de condução no prazo de dez dias a contar do trânsito em julgado da condenação<sup>31</sup>.
+11 - Não se vê como este entendimento envolva injustiça ou deslealdade em virtude de, com a aceitação da licença de condução pela entidade competente, o arguido poder ter ficado convencido de estar já a cumprir a pena de proibição de conduzir. Com efeito, a decisão condenatória inclui a advertência de que o arguido deve entregar a carta de condução no prazo de dez dias a contar do trânsito em julgado da condenação31.
 
 Isto mesmo sucedeu no caso em apreço neste processo, como se confirma pela leitura do acórdão recorrido:
 
@@ -634,67 +658,67 @@ Pelo exposto, acordam no Pleno das Secções Criminais do Supremo Tribunal de Ju
 
 Cumpra-se o disposto no artigo 444.º, n.º 1, do CPP.
 
-<sup>1</sup> Acessível em https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/19b4ee3a008439ad802584a300594b74?OpenDocument
+1 Acessível em https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/19b4ee3a008439ad802584a300594b74?OpenDocument
 
-<sup>2</sup> Acórdão do Tribunal da Relação do Porto, n.º 165/17.2GCAVR.P3, 4.ª Secção, não publicado.
+2 Acórdão do Tribunal da Relação do Porto, n.º 165/17.2GCAVR.P3, 4.ª Secção, não publicado.
 
-<sup>3</sup> Acórdão de 01/02/2007, proferido pelo Tribunal da Relação de Coimbra, no processo n.º 239/04.0GTAVR-A.C1, acessível em https://www.dgsi.pt/jtrc.nsf/8fe0e606d8f56b22802576c0005637dc/8d01556c02a277718025729c005359b9?OpenDocument.
+3 Acórdão de 01/02/2007, proferido pelo Tribunal da Relação de Coimbra, no processo n.º 239/04.0GTAVR-A.C1, acessível em https://www.dgsi.pt/jtrc.nsf/8fe0e606d8f56b22802576c0005637dc/8d01556c02a277718025729c005359b9?OpenDocument.
 
-<sup>4</sup> Cfr. Acórdão do Tribunal da Relação do Porto, de 08/09/2020, no processo n.º 165/17.2GCAVR.P3, acima mencionado.
+4 Cfr. Acórdão do Tribunal da Relação do Porto, de 08/09/2020, no processo n.º 165/17.2GCAVR.P3, acima mencionado.
 
-<sup>5</sup> Relatado por Gilberto Cunha, cuja publicação não se encontra, mas a que se faz referência no acórdão do Tribunal da Relação do Porto, de 28-01-2026, tirado no processo 2063/24.4SPPRT.P1, acessível em https://www.dgsi.pt/jtrp.nsf/56a6e7121657f91e80257cda00381fdf/a7a053ecc91db73880258d93003d50e3?OpenDocument.
+5 Relatado por Gilberto Cunha, cuja publicação não se encontra, mas a que se faz referência no acórdão do Tribunal da Relação do Porto, de 28-01-2026, tirado no processo 2063/24.4SPPRT.P1, acessível em https://www.dgsi.pt/jtrp.nsf/56a6e7121657f91e80257cda00381fdf/a7a053ecc91db73880258d93003d50e3?OpenDocument.
 
-<sup>6</sup> Acessível em https://www.dgsi.pt/jtrp.nsf/56a6e7121657f91e80257cda00381fdf/1c07e7e8beb044c2802572490055a3a2?OpenDocument.
+6 Acessível em https://www.dgsi.pt/jtrp.nsf/56a6e7121657f91e80257cda00381fdf/1c07e7e8beb044c2802572490055a3a2?OpenDocument.
 
-<sup>7</sup> Acessível em https://jurisprudencia.pt/acordao/54998/.
+7 Acessível em https://jurisprudencia.pt/acordao/54998/.
 
-<sup>8</sup> Acessível em https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/8751b7eece6ad2cf802582100052bfc7?OpenDocument.
+8 Acessível em https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/8751b7eece6ad2cf802582100052bfc7?OpenDocument.
 
-<sup>9</sup> Acessível em https://trc.pt/recpen64137gailhc1/.
+9 Acessível em https://trc.pt/recpen64137gailhc1/.
 
-<sup>10</sup> Acessível em https://www.dgsi.pt/jtrp.nsf/56a6e7121657f91e80257cda00381fdf/a7a053ecc91db73880258d93003d50e3?OpenDocument.
+10 Acessível em https://www.dgsi.pt/jtrp.nsf/56a6e7121657f91e80257cda00381fdf/a7a053ecc91db73880258d93003d50e3?OpenDocument.
 
-<sup>11</sup> O mesmo sentido encontra-se na fundamentação dos acórdãos do Tribunal da Relação do Porto, de 14.06.2006, no processo n.º 0543630, e do Tribunal da Relação de Lisboa, de 10.09.2009, no processo n.º 334/07.3PCPDL-A.L1-9, embora as situações controvertidas fossem outras.
+11 O mesmo sentido encontra-se na fundamentação dos acórdãos do Tribunal da Relação do Porto, de 14.06.2006, no processo n.º 0543630, e do Tribunal da Relação de Lisboa, de 10.09.2009, no processo n.º 334/07.3PCPDL-A.L1-9, embora as situações controvertidas fossem outras.
 
-<sup>12</sup> Acessível em https://www.dgsi.pt/jtrc.nsf/c3fb530030ea1c61802568d9005cd5bb/3461641eab9bb98b80257ddc003b9640?OpenDocument
+12 Acessível em https://www.dgsi.pt/jtrc.nsf/c3fb530030ea1c61802568d9005cd5bb/3461641eab9bb98b80257ddc003b9640?OpenDocument
 
-<sup>13</sup> Acessível em https://www.dgsi.pt/jtrc.nsf/-/592FA62F0180FA5B80257E7300531328
+13 Acessível em https://www.dgsi.pt/jtrc.nsf/-/592FA62F0180FA5B80257E7300531328
 
-<sup>14</sup> Acessível em https://vlex.pt/vid/acordao-n-33-14-1044260574
+14 Acessível em https://vlex.pt/vid/acordao-n-33-14-1044260574
 
-<sup>15</sup> Acessível em https://www.dgsi.pt/jtrc.nsf/c3fb530030ea1c61802568d9005cd5bb/c8342dc75bd5e83780257e7d00369edc?OpenDocument
+15 Acessível em https://www.dgsi.pt/jtrc.nsf/c3fb530030ea1c61802568d9005cd5bb/c8342dc75bd5e83780257e7d00369edc?OpenDocument
 
-<sup>16</sup> Acessível em https://www.dgsi.pt/jtrc.nsf/c3fb530030ea1c61802568d9005cd5bb/d6ce60aa1aafd804802584ef0040ac41?OpenDocument
+16 Acessível em https://www.dgsi.pt/jtrc.nsf/c3fb530030ea1c61802568d9005cd5bb/d6ce60aa1aafd804802584ef0040ac41?OpenDocument
 
-<sup>17</sup> Tome-se nota de que, provavelmente por lapso, o acórdão aparece referido em https://www.dgsi.pt/jtrg.nsf/86c25a698e4e7cb7802579ec004d3832/122f9e71ae39fbe78025863b00545057?OpenDocument com o n.º de processo 119719.4PFBRG-A.G1.
+17 Tome-se nota de que, provavelmente por lapso, o acórdão aparece referido em https://www.dgsi.pt/jtrg.nsf/86c25a698e4e7cb7802579ec004d3832/122f9e71ae39fbe78025863b00545057?OpenDocument com o n.º de processo 119719.4PFBRG-A.G1.
 
-<sup>18</sup> Acessível em https://trc.pt/pena-acessoria-de-inibicao-de-conduzir-cumprimento/
+18 Acessível em https://trc.pt/pena-acessoria-de-inibicao-de-conduzir-cumprimento/
 
-<sup>19</sup> Acessível em https://www.dgsi.pt/jtrp.nsf/56a6e7121657f91e80257cda00381fdf/bc1c58beca12634e802589b10031c49b?OpenDocument
+19 Acessível em https://www.dgsi.pt/jtrp.nsf/56a6e7121657f91e80257cda00381fdf/bc1c58beca12634e802589b10031c49b?OpenDocument
 
-<sup>20</sup> Acessível em https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/4-2017-107522252
+20 Acessível em https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/4-2017-107522252
 
-<sup>21</sup> Acessível em https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/4-2017-107522252
+21 Acessível em https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/4-2017-107522252
 
-<sup>22</sup> Vg artigo de Joaquim Boavida, sobre “Alguns nós górdios da jurisdição de execução das penas Publicado na Revista Julgar, n.º 33, pág. 235 e ss.
+22 Vg artigo de Joaquim Boavida, sobre “Alguns nós górdios da jurisdição de execução das penas Publicado na Revista Julgar, n.º 33, pág. 235 e ss.
 
-<sup>23</sup> Acessível em https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/3-2023-207332029.
+23 Acessível em https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/3-2023-207332029.
 
-<sup>24</sup> Acessível em https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/9-2011-146205
+24 Acessível em https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/9-2011-146205
 
-<sup>25</sup> Acessível em https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/7f3a2225cf320c888025891f004d1f19?OpenDocument
+25 Acessível em https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/7f3a2225cf320c888025891f004d1f19?OpenDocument
 
-<sup>26</sup> Excluindo, portanto, a previsão contida no artigo 83.º do CPP.
+26 Excluindo, portanto, a previsão contida no artigo 83.º do CPP.
 
-<sup>27</sup> Cf. [Acórdão do Supremo Tribunal de Justiça n.º 4/2017](https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/4-2017-107522252), supra identificado.
+27 Cf. [Acórdão do Supremo Tribunal de Justiça n.º 4/2017](https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/4-2017-107522252), supra identificado.
 
-<sup>28</sup> https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/8-2023-221904888
+28 https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/8-2023-221904888
 
-<sup>29</sup> Acessível em https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/d80f779e7288ebed80258d41004f7a02?OpenDocument
+29 Acessível em https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/d80f779e7288ebed80258d41004f7a02?OpenDocument
 
-<sup>30</sup> Situação em análise no processo n.º 183/21.6GDCBR-A.C1, decidido pela Relação de Coimbra no acórdão de 29.06.2022, Processo n.º 183/21.6GDCBR-A.C1.
+30 Situação em análise no processo n.º 183/21.6GDCBR-A.C1, decidido pela Relação de Coimbra no acórdão de 29.06.2022, Processo n.º 183/21.6GDCBR-A.C1.
 
-<sup>31</sup> Recorde-se que o Acórdão de fixação de jurisprudência do Supremo Tribunal de Justiça n.º 2/2013, de 8 de Janeiro (rel. Souto de Moura) fixou jurisprudência nos seguintes termos: «Em caso de condenação, pelo crime de condução em estado de embriaguez ou sob a influência de estupefacientes ou substâncias psicotrópicas, do art. 292.º do CP, e aplicação da sanção acessória de proibição de conduzir prevista no art. 69.º, n.º 1, al. a), do CP, a obrigação de entrega do título de condução derivada da lei (art. 69.º, n.º 3 do CP e art. 500.º, n.º 2 do CPP), deverá ser reforçada, na sentença, com a ordem do juiz para entrega do título, no prazo legal previsto, sob a cominação de, não o fazendo, o condenado cometer o crime de desobediência do art. 348.º, n.º 1, al. b), do CP». A pena acessória em questão tornou-se entretanto passível de aplicação em caso de condenação por outros crimes (expressamente referidos no artigo 69.º, n.º 1), sendo de concluir que a imposição de reforço e advertência vale outrossim em tais situações.
+31 Recorde-se que o Acórdão de fixação de jurisprudência do Supremo Tribunal de Justiça n.º 2/2013, de 8 de Janeiro (rel. Souto de Moura) fixou jurisprudência nos seguintes termos: «Em caso de condenação, pelo crime de condução em estado de embriaguez ou sob a influência de estupefacientes ou substâncias psicotrópicas, do art. 292.º do CP, e aplicação da sanção acessória de proibição de conduzir prevista no art. 69.º, n.º 1, al. a), do CP, a obrigação de entrega do título de condução derivada da lei (art. 69.º, n.º 3 do CP e art. 500.º, n.º 2 do CPP), deverá ser reforçada, na sentença, com a ordem do juiz para entrega do título, no prazo legal previsto, sob a cominação de, não o fazendo, o condenado cometer o crime de desobediência do art. 348.º, n.º 1, al. b), do CP». A pena acessória em questão tornou-se entretanto passível de aplicação em caso de condenação por outros crimes (expressamente referidos no artigo 69.º, n.º 1), sendo de concluir que a imposição de reforço e advertência vale outrossim em tais situações.
 
 Supremo Tribunal de Justiça, 13 de Maio de 2026. - Maria da Graça Martins Pontes dos Santos Silva - Pedro Álvaro de Sousa Donas Botto Fernando (com adesão à declaração de voto do Sr. Conselheiro Jorge Gonçalves) - Helena Isabel Gonçalves Moniz Falcão de Oliveira (com adesão à declaração de voto do Senhor Juiz Conselheiro Jorge Gonçalves) - José Luís Lopes da Mota - Nuno António Gonçalves - Fernando Vaz Ventura (com adesão à declaração de voto do Senhor Conselheiro Jorge Gonçalves) - Jorge Manuel Baptista Gonçalves (com declaração) - Heitor Bernardo Cardoso Vasques Osório (com adesão à declaração de voto do Exmo. Juiz Conselheiro Jorge Gonçalves) - Antero Luís - José Alberto Vaz Carreto (vencido, conforme declaração anexa) - Carlos Alberto Gameiro de Campos Lobo - Maria Margarida Ramos de Almeida (vencida, conforme declaração anexa) - José Joaquim Aniceto Piedade - Ernesto de Jesus Deus Nascimento.
 
@@ -746,7 +770,7 @@ Voto de vencido
 
 Vencido com a seguinte declaração:
 
-O trânsito em julgado de uma decisão não ocorre apenas após o decurso do prazo para recorrer, mas o acto de entrega do titulo de condução (carta de condução) nos Serviços (Tribunal ou Policia) para cumprimento da pena de proibição de conduzir, constitui para o arguido um acto de renúncia ao recurso, nos temos do artº632.º n.<sup>os</sup>2 e 3 CPC aplicável ex vi artigo 4.º CPP, ao mesmo tempo que carece, por esse facto, de interesse em agir, impeditivo do exercício do direito ao recurso (artº401.º n.º 2 CPP), o que determina o imediato trânsito em julgado para o arguido da condenação que aceitou. Em face desse trânsito em julgado, inexiste qualquer impedimento para o inicio do cumprimento da pena, pelo que é também a partir desse momento que deve ser contabilizado o tempo de cumprimento da pena de proibição de conduzir. - José Carreto.
+O trânsito em julgado de uma decisão não ocorre apenas após o decurso do prazo para recorrer, mas o acto de entrega do titulo de condução (carta de condução) nos Serviços (Tribunal ou Policia) para cumprimento da pena de proibição de conduzir, constitui para o arguido um acto de renúncia ao recurso, nos temos do artº632.º n.os2 e 3 CPC aplicável ex vi artigo 4.º CPP, ao mesmo tempo que carece, por esse facto, de interesse em agir, impeditivo do exercício do direito ao recurso (artº401.º n.º 2 CPP), o que determina o imediato trânsito em julgado para o arguido da condenação que aceitou. Em face desse trânsito em julgado, inexiste qualquer impedimento para o inicio do cumprimento da pena, pelo que é também a partir desse momento que deve ser contabilizado o tempo de cumprimento da pena de proibição de conduzir. - José Carreto.
 
 Voto de vencida
 
@@ -772,6 +796,8 @@ A pena acessória de proibição de conduzir, no entendimento constante no prese
 
 Creio que este entendimento se não concilia com o princípio da legalidade, nem com os princípios de confiança e de lealdade, já que, o recebimento de um título de condução, voluntariamente entregue por alguém que está convicto de estar a cumprir uma decisão emanada por um tribunal, gera no arguido a convicção do acerto do que fez. Entender-se, como se afirma na proposta, que esse acto, aceite por autoridade competente, não tem qualquer relevância jurídica, defrauda os princípios acima referidos, por esvaziar de conteúdo a legítima expectativa do arguido no sentido de que a partir desse momento se iniciou o cumprimento da proibição de conduzir, expectativa esta alcançada em boa-fé, reforçada pela aceitação das autoridades que supervisionam o cumprimento da pena que lhe foi imposta.
 
-Acresce que imputar-se ao arguido a contagem, com precisão, de um prazo de natureza técnica específica - o prazo de trânsito, condicionado que está pela natureza do crime em que o arguido foi condenado, bem como por outras especificidades e acréscimos legais, como os previstos nos artºs 104 n.<sup>os</sup>1 e 2, 107 n.º 2, n.º 5 e n.º 6, 107-A e ainda pela decisão de um interveniente processual, em relação ao qual o arguido desconhece se tenciona ou não apresentar recurso - não lhe permitindo iniciar o cumprimento da sua condenação, evitando a possibilidade de incorrer quer na prática de um crime de desobediência, quer na apreensão coerciva do seu título, afigura-se-me, para além de contraproducente, no que concerne a uma rápida e célere aplicação da justiça, igualmente violadora dos princípios que devem reger as relações entre o Estado e os seus cidadãos, em sede penal. - Margarida Ramos de Almeida.
+Acresce que imputar-se ao arguido a contagem, com precisão, de um prazo de natureza técnica específica - o prazo de trânsito, condicionado que está pela natureza do crime em que o arguido foi condenado, bem como por outras especificidades e acréscimos legais, como os previstos nos artºs 104 n.os1 e 2, 107 n.º 2, n.º 5 e n.º 6, 107-A e ainda pela decisão de um interveniente processual, em relação ao qual o arguido desconhece se tenciona ou não apresentar recurso - não lhe permitindo iniciar o cumprimento da sua condenação, evitando a possibilidade de incorrer quer na prática de um crime de desobediência, quer na apreensão coerciva do seu título, afigura-se-me, para além de contraproducente, no que concerne a uma rápida e célere aplicação da justiça, igualmente violadora dos princípios que devem reger as relações entre o Estado e os seus cidadãos, em sede penal. - Margarida Ramos de Almeida.
 
 ***
+
+119948810

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/75/2007/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/75-2007-640640
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:09:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3fe24d303ed7db789a1c565586bc5fc5153b8b354eda28ca145c5ea42e9bfd6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85f57046197a038a140211a0421f7f17f60cc73bbfa1ce2e87c8397f84efb507
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:09:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,24 +70,28 @@ reuse:
 subjects:
 - Concurso Nacional de Acesso
 - Ensino Oficial
-- Numerus Clausus
-- Estabelecimento de Ensino
 - Ensino Superior
+- Estabelecimento de Ensino
+- Numerus Clausus
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/766-c/2007/07/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/766-c/2007/07/06/p/dre
+- type: cites
+  target: pt:dre:151328:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:09:01Z'
   warnings: []
   errors: []
 ---

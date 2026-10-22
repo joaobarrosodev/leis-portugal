@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/12/2007/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/12-2007-517666
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-13T00:00:00Z'
+  retrieved_at: '2026-10-22T19:07:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6600a7d957acaeac6f702d9d865ae89b053f9e0719a65ff915976bd3e574cd0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 818e3b1585dd4aa0412e2904807b1a237f58fa55e91e80e7e051642d0da1bc1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:07:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,30 +69,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Armazenagem
 - Concurso Público Internacional
 - Contrato de Concessão
+- Empresa de Silos Portuários
 - Porto de Leixões
+- Produto Alimentar
 - Serviço Público
 - SILO
-- Empresa de Silos Portuários
 - Transporte
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/165/2006/12/15/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/165/2006/12/15/p/dre
+- type: cites
+  target: pt:dre:552367:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:07:40Z'
   warnings: []
   errors: []
 ---

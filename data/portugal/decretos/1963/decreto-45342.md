@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45342-1963-688202
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-11-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:37:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9a0cbe12a42e1ac59c7b24bd1ceaa524f5d10a19b57b44f00b1dfbb40c35243
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7ba05b564c0ec205d1e485660359ef900f92db38ec837899953ed32cc74bb28
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:37:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:37:23Z'
   warnings: []
   errors: []
 ---
@@ -90,8 +90,8 @@ Tendo em vista o parecer favorável do Ministério das Obras Públicas;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os limites da cidade de Aveiro são definidos por uma linha que, partindo do canal de S. Roque, no extremo norte da Ponte de S. João, segue em linha recta para nordeste até próximo do ponto de encontro do sopé do talude que circunda as Agras do Norte com o caminho de ferro do vale do Vouga, ponto esse que atinge depois de inflectir para leste; daqui segue, contornando o sopé do referido talude e acompanhando depois a via férrea do Norte, até ao quilómetro 275; sofre em seguida desvio para sudeste até ao ponto de intersecção do eixo da estrada nacional n.º 16 com o da sua nova variante e o do caminho municipal no sítio denominado «Quinta do Simão»; continua acompanhando para sudoeste a referida variante até ao ponto de cruzamento da mesma com a vala hidráulica denominada «Ribeira de Esgueira»; prossegue pela mencionada vala e para sueste até encontrar a estrada nacional n.º 230, junto aos lavadouros, seguindo pelo respectivo eixo, no sentido do nascente, até ao cruzamento com o caminho municipal dos Barreiros; inflecte depois para sul até ao ponto de encontro da estrada municipal n.º 584 com o caminho das Forninhas, continuando pelo eixo deste até atingir a Rua da Castela; progride por esta rua até alcançar a do Marco, cujo eixo segue sensìvelmente no sentido do poente; cruza a estrada nacional n.º 235 no local denominado «Cruz Alta» e continua até ao ponto de convergência com a Rua da Cabreira; daqui desvia-se para sudoeste, atravessa a via férrea do Norte, desvia-se para noroeste e prossegue até ao sítio conhecido por Alminhas do Pericão; de novo se desvia para sudoeste, passando pelo ponto de intersecção do eixo da estrada nacional n.º 335 com o do caminho da Azenha da Maurícia, até atingir, seguindo este caminho, a vala hidráulica; inflecte ligeiramente para poente, encontrando o ponto de intersecção da referida vala hidráulica com a Rua do Buragal; retomando a orientação noroeste, cruza a estrada nacional n.º 109 ao quilómetro 59,410, alcança o extremo do caminho da Malhada de S. Pedro e segue por este caminho até ao ponto onde o mesmo se encontra com os limites do terreno da Estação de Tratamento de Esgotos; contorna pelo sul e poente os referidos limites até à convergência da Rua da Pega com o caminho de Santiago e a estrada de acesso à mencionada Estação de Tratamento de Esgotos; daqui segue para norte, pela Rua da Pega, continuando pelo cais da Malhada até ao canal de S. Roque e seguindo por este até atingir finalmente o extremo norte da Ponte de S. João, onde se iniciou a presente descrição.
+Artigo único. Os limites da cidade de Aveiro são definidos por uma linha que, partindo do canal de S. Roque, no extremo norte da Ponte de S. João, segue em linha recta para nordeste até próximo do ponto de encontro do sopé do talude que circunda as Agras do Norte com o caminho de ferro do vale do Vouga, ponto esse que atinge depois de inflectir para leste; daqui segue, contornando o sopé do referido talude e acompanhando depois a via férrea do Norte, até ao quilómetro 275; sofre em seguida desvio para sudeste até ao ponto de intersecção do eixo da estrada nacional n.º 16 com o da sua nova variante e o do caminho municipal no sítio denominado «Quinta do Simão»; continua acompanhando para sudoeste a referida variante até ao ponto de cruzamento da mesma com a vala hidráulica denominada «Ribeira de Esgueira»; prossegue pela mencionada vala e para sueste até encontrar a estrada nacional n.º 230, junto aos lavadouros, seguindo pelo respectivo eixo, no sentido do nascente, até ao cruzamento com o caminho municipal dos Barreiros; inflecte depois para sul até ao ponto de encontro da estrada municipal n.º 584 com o caminho das Forninhas, continuando pelo eixo deste até atingir a Rua da Castela; progride por esta rua até alcançar a do Marco, cujo eixo segue sensìvelmente no sentido do poente; cruza a estrada nacional n.º 235 no local denominado «Cruz Alta» e continua até ao ponto de convergência com a Rua da Cabreira; daqui desvia-se para sudoeste, atravessa a via férrea do Norte, desvia-se para noroeste e prossegue até ao sítio conhecido por Alminhas do Pericão; de novo se desvia para sudoeste, passando pelo ponto de intersecção do eixo da estrada nacional n.º 335 com o do caminho da Azenha da Maurícia, até atingir, seguindo este caminho, a vala hidráulica; inflecte ligeiramente para poente, encontrando o ponto de intersecção da referida vala hidráulica com a Rua do Buragal; retomando a orientação noroeste, cruza a estrada nacional n.º 109 ao quilómetro 59,410, alcança o extremo do caminho da Malhada de S. Pedro e segue por este caminho até ao ponto onde o mesmo se encontra com os limites do terreno da Estação de Tratamento de Esgotos; contorna pelo sul e poente os referidos limites até à convergência da Rua da Pega com o caminho de Santiago e a estrada de acesso à mencionada Estação de Tratamento de Esgotos; daqui segue para norte, pela Rua da Pega, continuando pelo cais da Malhada até ao canal de S. Roque e seguindo por este até atingir finalmente o extremo norte da Ponte de S. João, onde se iniciou a presente descrição.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Novembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior.

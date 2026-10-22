@@ -27,7 +27,8 @@ entry_into_force_dates:
 - '1992-07-02'
 end_of_validity_date: '2009-04-28'
 legal_status: repealed
-notes: []
+notes:
+- 'Fonte sem texto: o EUR-Lex tem versões consolidadas deste ato, mas nenhuma em português (verificado em 2026-10-22).'
 language: por
 version:
   kind: original

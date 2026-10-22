@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/315/2014/05/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/315-2014-25343679
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-05-15T00:00:00Z'
+  retrieved_at: '2026-10-22T18:24:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1b0e3cfb80f0c9ef4f9c2d4524b58a578caca9eada44e1a206b8ed74302e8d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f3894a81d48412134aaab5004de50fa9603a58bd0b10a0d3ba723201e884cde
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:24:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Exploração Mineira
-- Recursos Geológicos
 - Indústria Mineira
 - Interpretação do Direito
 - Legalidade
 - Recursos do Mar
+- Recursos Geológicos
 - Regime Jurídico
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/ac/258/2007/05/15/p/dre
@@ -117,16 +117,136 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/60-b/1997/10/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/60-b/1997/10/14/p/dre
+- type: cites
+  target: pt:dre:146488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674576:por
+  label: null
+  source: null
 article_structure:
-  article_count: 22
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:24:28Z'
   warnings: []
   errors: []
 ---
@@ -213,11 +333,15 @@ A disposição em causa tem o seguinte teor:
 
 Disposições gerais
 
-###### Artigo 1.º — Objeto
+Artigo 1.º
+
+Objeto
 
 O presente diploma estabelece o regime jurídico de revelação e aproveitamento de bens naturais existentes na crosta terrestre, genericamente designados por recursos geológicos, integrados ou não no domínio público, do território terrestre e marinho da Região Autónoma dos Açores.
 
-###### Artigo 2.º — Âmbito
+Artigo 2.º
+
+Âmbito
 
 1 - O presente diploma não se aplica às ocorrências de hidrocarbonetos, incluindo o gás natural e os hidratos de metano.
 
@@ -235,7 +359,9 @@ e) O regime jurídico de licenciamento da realização de investigação cientí
 
 3 - A revelação e aproveitamento de massas minerais e de águas de nascente, recursos geológicos que, nos termos do n.º 3 do artigo 1.º do [Decreto-Lei n.º 90/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1990-333160), de 16 de março, não se integram no domínio público, podendo ser objeto de propriedade privada ou outros direitos reais, regem-se por diploma próprio, a aprovar por decreto legislativo regional.
 
-###### Artigo 3.º — Definições
+Artigo 3.º
+
+Definições
 
 Para efeitos do presente diploma, entende-se por:
 
@@ -273,7 +399,9 @@ p) «Recurso hidromineral» as ocorrências de águas minerais naturais ou de á
 
 q) «Recursos minerais marinhos» todos os recursos minerais sólidos, líquidos ou gasosos in situ, no leito do mar ou no seu subsolo, incluindo os nódulos polimetálicos e os depósitos de hidratos de metano.
 
-###### Artigo 4.º — Adaptação orgânica
+Artigo 4.º
+
+Adaptação orgânica
 
 Para efeitos da execução do presente diploma, as referências feitas no [Decreto-Lei n.º 90/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1990-333160), de 16 de março, a diversos órgãos e serviços e a atos da administração central entendem-se da seguinte forma:
 
@@ -291,9 +419,13 @@ f) «Ministro do Planeamento e da Administração do Território» o membro do G
 
 g) «Resolução do Conselho de Ministros» resolução do Conselho do Governo Regional.
 
-### CAPÍTULO II — Revelação e aproveitamento dos recursos
+CAPÍTULO II
 
-###### Artigo 5.º — Proteção dos recursos e condicionamentos às atividades
+Revelação e aproveitamento dos recursos
+
+Artigo 5.º
+
+Proteção dos recursos e condicionamentos às atividades
 
 1 - Sem prejuízo do cumprimento das normas de avaliação do impacte e do licenciamento ambiental, a que se refere o [Decreto Legislativo Regional n.º 30/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2010-308736), de 15 de novembro, para assegurar a conveniente proteção dos recursos geológicos com vista ao seu aproveitamento, nos termos do disposto no artigo 12.º do [Decreto-Lei n.º 90/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1990-333160), de 16 de março, as propostas dos interessados nas operações de prospeção, pesquisa e exploração de recursos geológicos, a que se referem os artigos 7.º e 9.º, contêm obrigatoriamente os seguintes elementos:
 
@@ -325,9 +457,13 @@ i) Decorridos cinco anos após o termo ou caducidade da autorização, licença 
 
 ii) Decorridos 15 anos após a data da sua submissão.
 
-### CAPÍTULO III — Prospeção e pesquisa
+CAPÍTULO III
 
-###### Artigo 6.º — Prospeção e pesquisa conduzidos por entidades oficiais
+Prospeção e pesquisa
+
+Artigo 6.º
+
+Prospeção e pesquisa conduzidos por entidades oficiais
 
 1 - Para os efeitos do disposto no n.º 3 do artigo 9.º do [Decreto-Lei n.º 90/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1990-333160), de 16 de março, a Região Autónoma dos Açores, através dos serviços competentes, pode executar trabalhos de prospeção e pesquisa, visando a descoberta de quaisquer recursos geológicos.
 
@@ -337,13 +473,17 @@ ii) Decorridos 15 anos após a data da sua submissão.
 
 4 - Sem prejuízo dos direitos intelectuais legalmente protegidos, a informação obtida direta ou indiretamente em resultado dos trabalhos de prospeção e pesquisa conduzidos por entidades públicas, ou maioritariamente financiados por fundos públicos, integra o domínio público, não podendo ser objeto de apropriação privada.
 
-###### Artigo 7.º — Atribuição de direitos
+Artigo 7.º
+
+Atribuição de direitos
 
 1 - Sem prejuízo do disposto no n.º 1 do artigo 13.º do [Decreto-Lei n.º 90/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1990-333160), de 16 de março, o convite para apresentação de propostas destinadas à atribuição de direitos de prospeção e pesquisa é feito mediante a publicação de resolução do Conselho do Governo Regional, da qual constará obrigatoriamente o tipo e o programa do concurso, incluindo as normas a seguir na avaliação das propostas, e as áreas e os recursos a atribuir.
 
 2 - Na atribuição de direitos de prospeção e pesquisa de recursos geológicos aplica-se, em todas as matérias que não estejam especificamente reguladas, o disposto no Código dos Contratos Públicos e no [Decreto Legislativo Regional n.º 34/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2008-454780), de 28 de julho, alterado pelo [Decreto Legislativo Regional n.º 15/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2009-494020), de 6 de agosto, que estabelece as regras especiais a observar na contratação pública definida no Código dos Contratos Públicos.
 
-###### Artigo 8.º — Contrato de prospeção e pesquisa
+Artigo 8.º
+
+Contrato de prospeção e pesquisa
 
 1 - O contrato administrativo para o exercício da atividade de prospeção e pesquisa a celebrar entre a Região Autónoma dos Açores e o interessado bem como todas as suas alterações e modificações são autorizados por resolução do Conselho do Governo Regional, a qual deve indicar os direitos e obrigações recíprocos, a área de exercício da atividade e a respetiva delimitação, o prazo inicial, as condições de prorrogação, o programa de trabalhos, o plano de investimento, a entidade competente para representar a Região Autónoma dos Açores no ato e as cláusulas que permitam salvaguardar o interesse público subjacente ao contrato.
 
@@ -359,15 +499,21 @@ ii) Decorridos 15 anos após a data da sua submissão.
 
 7 - A prévia e expressa autorização para a transmissão de posições contratuais nas fases de prospeção e pesquisa, nas condições referidas no artigo 49.º do [Decreto-Lei n.º 90/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1990-333160), de 16 de março, apenas pode ser concedida mediante resolução do Conselho do Governo Regional, sendo aplicável, com as necessárias adaptações, o disposto nos n.os 1 a 3.
 
-### CAPÍTULO IV — Exploração
+CAPÍTULO IV
 
-###### Artigo 9.º — Atribuição de concessão
+Exploração
+
+Artigo 9.º
+
+Atribuição de concessão
 
 1 - O convite para apresentação de propostas destinadas à atribuição de direitos de exploração, a que se refere o n.º 3 do artigo 21.º do [Decreto-Lei n.º 90/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1990-333160), de 16 de março, é feito mediante a publicação de resolução do Conselho do Governo Regional, da qual constará obrigatoriamente o tipo e programa do concurso, incluindo as normas a seguir na avaliação das propostas, e as áreas e os recursos a conceder.
 
 2 - Na concessão de direitos de exploração de recursos geológicos aplica-se, em todas as matérias que não estejam especificamente reguladas, o disposto no Código dos Contratos Públicos e no [Decreto Legislativo Regional n.º 34/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2008-454780), de 28 de julho, alterado pelo [Decreto Legislativo Regional n.º 15/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2009-494020), de 6 de agosto, que estabelece as regras especiais a observar na contratação pública definida no Código dos Contratos Públicos.
 
-###### Artigo 10.º — Concessão de exploração
+Artigo 10.º
+
+Concessão de exploração
 
 1 - O contrato de concessão de exploração a celebrar entre a Região Autónoma dos Açores e o concessionário bem como todas as suas alterações e modificações são autorizados por resolução do Conselho do Governo Regional, a qual, para além dos direitos e obrigações recíprocos, a área abrangida, o prazo e as condições exigidas de cada caso, deve indicar a entidade competente para representar a Região Autónoma dos Açores no ato e incluir as cláusulas que permitam salvaguardar o interesse público subjacente ao contrato.
 
@@ -383,13 +529,17 @@ ii) Decorridos 15 anos após a data da sua submissão.
 
 7 - A prévia e expressa autorização para a transmissão de posições contratuais na fase de exploração, nas condições referidas no artigo 49.º do [Decreto-Lei n.º 90/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1990-333160), de 16 de março, apenas pode ser concedida mediante resolução do Conselho do Governo Regional, sendo aplicável, com as necessárias adaptações, o disposto nos n.os 1 a 3.
 
-###### Artigo 11.º — Extinção do contrato
+Artigo 11.º
+
+Extinção do contrato
 
 1 - A rescisão do contrato a que se refere a alínea c) do artigo 29.º do [Decreto-Lei n.º 90/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1990-333160), de 16 de março, é declarada por resolução do Conselho do Governo Regional, ouvido o interessado.
 
 2 - A decisão de proceder ao resgate da concessão, nos termos da alínea e) do artigo 29.º do [Decreto-Lei n.º 90/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1990-333160), de 16 de março, é publicada por resolução do Conselho do Governo Regional, ouvido o interessado.
 
-###### Artigo 12.º — Demarcação da concessão
+Artigo 12.º
+
+Demarcação da concessão
 
 1 - A demarcação da concessão é diretamente acompanhada por uma entidade acreditada pelo departamento da administração regional autónoma competente em matéria de gestão dos bens naturais, decorrendo as despesas resultantes desse acompanhamento por conta do concessionário.
 
@@ -397,21 +547,29 @@ ii) Decorridos 15 anos após a data da sua submissão.
 
 3 - A integração de concessões, prevista no artigo 26.º do [Decreto-Lei n.º 90/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1990-333160), de 16 de março, é determinada por resolução do Conselho do Governo Regional, ouvidos os concessionários envolvidos.
 
-###### Artigo 13.º — Acompanhamento e fiscalização
+Artigo 13.º
+
+Acompanhamento e fiscalização
 
 1 - Sem prejuízo das competências de fiscalização das entidades fiscais e de polícia, e da autoridade marítima nacional nas situações em que a exploração se faça no domínio público marítimo, cabe ao departamento da administração regional autónoma competente em matéria de gestão dos bens naturais acompanhar e fiscalizar as operações de extração.
 
 2 - As guias de trânsito de acompanhamento dos minérios são emitidos eletronicamente através de uma plataforma eletrónica sedeada no portal do Governo Regional na Internet, sendo o respetivo modelo, formulários associados e normas de funcionamento fixados por portaria do membro do Governo Regional competente em matéria de recursos naturais.
 
-### CAPÍTULO V — Da ocupação, expropriação e servidão
+CAPÍTULO V
 
-###### Artigo 14.º — Expropriação de terrenos e servidão administrativa
+Da ocupação, expropriação e servidão
+
+Artigo 14.º
+
+Expropriação de terrenos e servidão administrativa
 
 1 - A expropriação a que se refere o n.º 2 do artigo 34.º do [Decreto-Lei n.º 90/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1990-333160), de 16 de março, poderá ser operada a favor da Região Autónoma dos Açores ou de qualquer outra pessoa jurídica, singular ou coletiva, interessada na exploração.
 
 2 - A servidão administrativa a que se refere o artigo 35.º do [Decreto-Lei n.º 90/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1990-333160), de 16 de março, é constituída por resolução do Conselho do Governo Regional, a qual deve explicitar os seus limites e normas de proteção aplicáveis, sendo objeto de registo e publicitação nos termos legalmente aplicáveis.
 
-###### Artigo 15.º — Áreas de reserva e áreas cativas
+Artigo 15.º
+
+Áreas de reserva e áreas cativas
 
 1 - As áreas de reserva e as áreas cativas, a que se referem os artigos 36.º e 37.º do [Decreto-Lei n.º 90/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1990-333160), de 16 de março, são fixadas por decreto regulamentar regional.
 
@@ -419,7 +577,9 @@ ii) Decorridos 15 anos após a data da sua submissão.
 
 3 - Quando se trate de áreas marinhas, as áreas de reserva e as áreas cativas são integradas no plano de ordenamento do espaço marinho, a que se refere o artigo 29.º do [Decreto Legislativo Regional n.º 28/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2011-146488), de 11 de novembro.
 
-###### Artigo 16.º — Proteção dos recursos e condicionamentos às atividades
+Artigo 16.º
+
+Proteção dos recursos e condicionamentos às atividades
 
 1 - O perímetro de proteção, como o referido na alínea c) do n.º 4 do artigo 12.º do [Decreto-Lei n.º 90/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1990-333160), de 16 de março, nomeadamente das zonas imediata, intermédia e alargada de proteção, a que se referem os artigos 42.º a 44.º do referido diploma, é estabelecido por resolução do Conselho do Governo Regional.
 
@@ -427,7 +587,9 @@ ii) Decorridos 15 anos após a data da sua submissão.
 
 3 - A integração a que se refere o artigo anterior deve ocorrer na primeira revisão dos instrumentos de gestão territorial referidos que ocorra após a entrada em vigor da resolução referida no n.º 1.
 
-###### Artigo 17.º — Proteção dos recursos geológicos dos fundos marinhos
+Artigo 17.º
+
+Proteção dos recursos geológicos dos fundos marinhos
 
 1 - A exploração dos recursos geológicos no mar fica subordinada às disposições aplicáveis da Convenção das Nações Unidas sobre o Direito do Mar, nomeadamente às normas sobre exploração mineral que venham a ser adotadas pela Autoridade Internacional dos Fundos Marinhos.
 
@@ -439,13 +601,19 @@ ii) Decorridos 15 anos após a data da sua submissão.
 
 5 - O lançamento ao mar de quaisquer resíduos de mineração e a devolução ao mar de água utilizada na elevação de materiais minerais ou no seu processamento carecem de autorização específica, a conceder após avaliado o impacte ambiental da operação pretendida.
 
-### CAPÍTULO VI — Normas transitórias e finais
+CAPÍTULO VI
 
-###### Artigo 18.º — Licenciamento da investigação científica marinha
+Normas transitórias e finais
+
+Artigo 18.º
+
+Licenciamento da investigação científica marinha
 
 Até à entrada em vigor do regime jurídico de licenciamento da realização de investigação científica no mar e nos seus fundos na Região Autónoma dos Açores, a que se refere a alínea e) do n.º 2 do artigo 2.º, a autorização para a realização de atividades de exploração no mar dos Açores rege-se, com as necessárias adaptações, pelo disposto nos artigos 18.º e seguintes do [Decreto-Lei n.º 52/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-1985-326130), de 1 de março, mantidos em vigor pelo disposto no n.º 2 do artigo 35.º do [Decreto-Lei n.º 278/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1987-420193), de 7 de julho.
 
-###### Artigo 19.º — Aplicação de legislação
+Artigo 19.º
+
+Aplicação de legislação
 
 1 - Em tudo o que não contrarie o disposto no presente diploma, a prospeção, pesquisa e exploração de depósitos minerais rege-se pelo disposto no [Decreto-Lei n.º 88/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1990-333161), de 16 de março, com as seguintes adaptações:
 
@@ -495,7 +663,9 @@ d) A qualificação de um fluido ou de uma formação geológica como recurso ge
 
 e) O produto das coimas aplicadas e as taxas cobradas constituem receita da Região Autónoma dos Açores.
 
-###### Artigo 20.º — Entrada em vigor
+Artigo 20.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia imediato ao da sua publicação e aplica-se aos pedidos que se encontrem em tramitação.»
 
@@ -629,7 +799,9 @@ Ora, a medida de afetação do domínio público marítimo à Região Autónoma 
 
 O artigo prescreve o seguinte:
 
-###### Artigo 8.º — Direitos da Região sobre as zonas marítimas portuguesas
+Artigo 8.º
+
+Direitos da Região sobre as zonas marítimas portuguesas
 
 1 - A Região tem o direito de exercer conjuntamente com o Estado poderes de gestão sobre as águas interiores e o mar territorial que pertençam ao território regional e que sejam compatíveis com a integração dos bens em causa no domínio público marítimo do Estado.
 

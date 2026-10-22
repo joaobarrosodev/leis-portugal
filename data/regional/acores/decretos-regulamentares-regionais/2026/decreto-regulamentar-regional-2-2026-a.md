@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/2/2026/03/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2026-1068062490
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-06T00:00:00Z'
+  retrieved_at: '2026-10-22T18:35:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46b520d6fe836e77d7edf9061bef112b9881cc8fbe50ae5766a3ec7432886ab6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c04bca0475314c74512a1e2cee5b2c41c6dc23d7af11019bd2114c19912c0ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:35:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Património Cultural Imaterial
+- Açores
 - Árvore
 - BENS Classificados
-- Unesco
-- Regulamentação de Atos Legislativos
 - Formulário Eletrónico
 - Página na Internet
-- Proteção do Ambiente
+- Património Cultural Imaterial
 - Património Mundial
-- Zona de Proteção
-- Protecção do Património
 - Património Natural
-- Açores
+- Proteção do Ambiente
+- Protecção do Património
 - Registo Regional do Arvoredo de Interesse Público
+- Regulamentação de Atos Legislativos
+- Unesco
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/15/2012/04/02/a/dre
@@ -92,16 +92,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/3/2015/02/04/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/3/2015/02/04/a/dre
+- type: cites
+  target: pt:dre:203974448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66426484:por
+  label: null
+  source: null
 article_structure:
   article_count: 24
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:35:08Z'
   warnings: []
   errors: []
 ---
@@ -334,9 +346,9 @@ h) O prazo para a audiência dos interessados.
 
 5 - Às decisões de indeferimento não são aplicáveis as alíneas b), d) e e) do n.º 3.
 
-6 - Às notificações para audiência prévia da decisão de classificação ou de indeferimento do requerimento é aplicável o disposto nos n.<sup>os</sup>1 e 2 do artigo 19.º, com as devidas adaptações.
+6 - Às notificações para audiência prévia da decisão de classificação ou de indeferimento do requerimento é aplicável o disposto nos n.os1 e 2 do artigo 19.º, com as devidas adaptações.
 
-7 - A decisão de classificação de arvoredo de interesse público ou de indeferimento do requerimento é proferida no prazo de 90 dias consecutivos a contar da data da última notificação ou da publicação do edital a que se referem os n.<sup>os</sup>2 e 3 do artigo 19.º, consoante aquela que ocorra em último lugar.
+7 - A decisão de classificação de arvoredo de interesse público ou de indeferimento do requerimento é proferida no prazo de 90 dias consecutivos a contar da data da última notificação ou da publicação do edital a que se referem os n.os2 e 3 do artigo 19.º, consoante aquela que ocorra em último lugar.
 
 8 - O sentido da decisão a que se refere a alínea a) do n.º 3 é acompanhado da fundamentação da classificação do arvoredo proposto, por referência à categoria e critério ou critérios de apreciação relevantes.
 
@@ -374,11 +386,11 @@ O presente diploma entra em vigor no primeiro dia do segundo mês seguinte ao da
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 4 de fevereiro de 2026.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 3 de março de 2026.**
+Assinado em Angra do Heroísmo em 3 de março de 2026.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -386,4 +398,7 @@ O Representante da República para a Região Autónoma dos Açores, Pedro Manuel
 
 Valores de referência para os subparâmetros dendrométricos relativos ao critério
 
-![](https://files.diariodarepublica.pt/images/1068062490/1067944790.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068062490/1067944790.png) |
+| --- |
+
+119947901

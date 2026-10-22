@@ -25,9 +25,7 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -48,26 +46,98 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/171/2026/08/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2026-1161839915
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-14T00:00:00Z'
+  retrieved_at: '2026-10-22T18:51:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed207eaf821917bbb3554e169ed6606e71879fbc8fc8ec5b60b7b930b3f92eb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac324275e95031d7ec5e5726a7bb7468dea6572a72865c2e1f5826ca926116d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:51:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproximação das Legislações
+- Atividade Seguradora
+- Código das Sociedades Comerciais
+- Código dos Valores Mobiliários
+- Empresa de Investimento
+- Fundo de Pensões
+- Obrigações Cobertas
+- Regime da gestão de ativos
+- Regulamento CE
+- Resseguro
+- Seguro
+- SUPERVISÃO DE AUDITORIA
+- Supervisão Financeira
+- Valores Mobiliários
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:145/2006
+  label: Adita, a partir de 1 de setembro de 2026, o artigo 16.º-A, com efeitos a partir do dia 10 de janeiro de 2030 (sendo
+    a primeira informação disponibilizada pelas entidades regulamentadas à autoridade de recolha competente até 31 de março
+    de 2030, por referência a 31 de dezembro do ano anterior), ao Decreto-Lei n.º 145/2006, de 31 de julho, Diário da República
+    n.º 146/2006, Série I
+  source: null
+  date: '2006-07-30'
+- type: amends
+  target: pt:numero:lei:147/2015
+  label: Adita, a partir de 1 de setembro de 2026, sem prejuízo do disposto no n.º 2 do artigo17.º do presente diploma, o
+    artigo 85.º-A ao regime jurídico de acesso e exercício da atividade seguradora e resseguradora, aprovado no anexo i da
+    Lei n.º 147/2015, de 9 de setembro, Diário da República n.º 176/2015, Série I
+  source: null
+  date: '2015-09-08'
+- type: amends
+  target: pt:numero:lei:148/2015
+  label: Adita, a partir de 1 de setembro de 2026, com efeitos a partir do dia 10 de janeiro de 2030, o artigo 50.º-A ao Regime
+    Jurídico da Supervisão de Auditoria, aprovado em anexo à Lei n.º 148/2015, de 9 de setembro, Diário da República n.º 176/2015,
+    Série I
+  source: null
+  date: '2015-09-08'
+- type: amends
+  target: pt:numero:lei:7/2019
+  label: Adita, a partir de 1 de setembro de 2026, com efeitos a partir do dia 10 de janeiro de 2030, o artigo 119.º ao regime
+    jurídico da distribuição de seguros e de resseguros, aprovado em anexo à Lei n.º 7/2019, de 16 de janeiro, Diário da República
+    n.º 11/2019, Série I
+  source: null
+  date: '2019-01-16'
+- type: amends
+  target: pt:numero:lei:27/2020
+  label: Adita, a partir de 1 de setembro de 2026, com efeitos a partir do dia 10 de janeiro de 2030, o artigo 231.º ao regime
+    jurídico da constituição e do funcionamento dos fundos de pensões e das entidades gestoras de fundos de pensões, aprovado
+    em anexo à Lei n.º 27/2020, de 23 de julho, Diário da República n.º 142/2020, Série I
+  source: null
+  date: '2020-07-22'
+- type: amends
+  target: pt:numero:decreto-lei:109-H/2021
+  label: Adita, a partir de 1 de setembro de 2026, com efeitos a partir do dia 10 de janeiro de 2030, o artigo 133.º-A ao
+    Regime das Empresas de Investimento, aprovado no anexo i do Decreto-Lei n.º 109-H/2021, de 10 de dezembro, Diário da República
+    n.º 238/2021, 2º Suplemento, Série I
+  source: null
+  date: '2021-12-10'
+- type: amends
+  target: pt:numero:decreto-lei:31/2022
+  label: Adita, a partir de 1 de setembro de 2026, com efeitos a partir do dia 10 de janeiro de 2030, o artigo 30.º-A ao Regime
+    Jurídico das Obrigações Cobertas, aprovado em anexo ao Decreto-Lei n.º 31/2022, de 6 de maio, Diário da República n.º
+    88/2022, Série I
+  source: null
+  date: '2022-05-05'
+- type: amends
+  target: pt:numero:decreto-lei:27/2023
+  label: Altera, a partir de 1 de setembro de 2026, os artigos 129.º e 262.º (ambos os artigos com efeitos a partir do dia
+    10 de janeiro de 2030) e adita o artigo 103.º-A (este artigo com efeitos a partir do dia 10 de janeiro de 2028) ao regime
+    da gestão de ativos, aprovado em anexo ao Decreto-Lei n.º 27/2023, de 28 de abril, Diário da República n.º 83/2023, Série
+    I
+  source: null
+  date: '2023-04-27'
 - type: cites
   target: celex:32001L0034
   label: null
@@ -168,6 +238,61 @@ relationships:
   target: eli:http://data.europa.eu/el
   label: null
   source: http://data.europa.eu/el
+- type: cites
+  target: pt:dre:117821873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138638754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175744218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183079162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212379454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70237675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70237676:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70300349:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1171008707:por
+  label: Retificado o artigo 2.º (na parte em que altera o n.º 14 do artigo 313.º-C do Código dos Valores Mobiliários) e a
+    alínea c) do n.º 2 do artigo 17.º (na parte relativa ao regime jurídico de acesso e exercício da atividade seguradora
+    e resseguradora) pelo(a) Declaração de Retificação n.º 35/2026/1 - Diário da República n.º 179/2026, Série I de 2026-09-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/35-2026-1171008707
+  date: '2026-09-14'
 - type: transposes
   target: celex:32004L0109
   label: null
@@ -189,15 +314,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 69
+  article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:51:50Z'
   warnings: []
   errors: []
 ---
@@ -296,7 +421,9 @@ Os artigos 12.º-A, 13.º-B, 16.º, 21.º-D, 26.º-J, 29.º-F, 29.º-H, 29.º-M,
 
 3 - As recomendações de investimento são claramente identificadas como tal ou em termos análogos.
 
-###### Artigo 13.º-B — [...]
+Artigo 13.º-B
+
+[...]
 
 1 - As seguintes entidades enviam à CMVM os documentos e as informações a que se referem os artigos 13.º-A, 17.º, 29.º-G a 29.º-K, 29.º-Q e 29.º-R, até ao momento da sua divulgação, se outro prazo não estiver especialmente previsto:
 
@@ -334,7 +461,9 @@ e) [...]
 
 9 - No caso de certificados de depósito admitidos à negociação em mercado regulamentado, as referências a emitente para efeitos dos artigos 13.º-A, 17.º, 29.º-G a 29.º-K, 29.º-Q e 29.º-R correspondem ao emitente dos valores mobiliários representados, independentemente de os mesmos estarem admitidos à negociação em mercado regulamentado.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Quem atinja ou ultrapasse participação de 5 %, 10 %, 15 %, 20 %, 25 %, um terço, metade, dois terços e 90 % dos direitos de voto correspondentes ao capital social de uma sociedade emitente de ações admitidas à negociação em mercado regulamentado referida na alínea a) do n.º 1 do artigo 13.º-B e quem reduza a sua participação para valor inferior a qualquer daqueles limiares, comunica esse facto à sociedade participada e à CMVM, o mais rapidamente possível e no prazo máximo de quatro dias de negociação após o dia da ocorrência do facto ou do seu conhecimento.
 
@@ -358,7 +487,9 @@ e) [...]
 
 11 - [...]
 
-###### Artigo 21.º-D — [...]
+Artigo 21.º-D
+
+[...]
 
 1 - [...]
 
@@ -398,7 +529,9 @@ a) Não obstaculizam a sua admissão à negociação;
 
 b) Identificam-nas claramente.
 
-###### Artigo 26.º-J — [...]
+Artigo 26.º-J
+
+[...]
 
 1 - [...]
 
@@ -410,7 +543,9 @@ b) Identificam-nas claramente.
 
 5 - Para efeitos do presente artigo e do artigo 26.º-M, o conceito de investidores institucionais abrange os organismos de investimento coletivo.
 
-###### Artigo 29.º-F — [...]
+Artigo 29.º-F
+
+[...]
 
 1 - Para efeitos do presente artigo, são informações reguladas, divulgadas pelos emitentes de valores mobiliários nos idiomas aqui previstos, as referidas nos artigos 13.º-A, 17.º, 29.º-G a 29.º-K, 29.º-Q e 29.º-R e outras informações previstas em legislação da União Europeia que não estejam sujeitas a regime linguístico obrigatório específico.
 
@@ -428,7 +563,9 @@ b) Identificam-nas claramente.
 
 8 - [...]
 
-###### Artigo 29.º-H — [...]
+Artigo 29.º-H
+
+[...]
 
 1 - [...]
 
@@ -442,7 +579,9 @@ b) Identificam-nas claramente.
 
 6 - [...]
 
-###### Artigo 29.º-M — [...]
+Artigo 29.º-M
+
+[...]
 
 1 - [...]
 
@@ -450,7 +589,9 @@ b) Identificam-nas claramente.
 
 3 - [...]
 
-###### Artigo 64.º-A — [...]
+Artigo 64.º-A
+
+[...]
 
 1 - [...]
 
@@ -470,7 +611,9 @@ b) O envio de extrato for solicitado pelo titular dos valores mobiliários regis
 
 7 - [Anterior n.º 6.]
 
-###### Artigo 108.º — [...]
+Artigo 108.º
+
+[...]
 
 1 - [...]
 
@@ -480,7 +623,9 @@ a) [...]
 
 b) [...]
 
-###### Artigo 109.º — [...]
+Artigo 109.º
+
+[...]
 
 1 - [...]
 
@@ -490,7 +635,9 @@ b) [...]
 
 4 - Sem prejuízo das demais isenções previstas na legislação europeia, o presente título não se aplica a ofertas de valores mobiliários ao público cujo valor agregado total dos valores mobiliários oferecidos na União Europeia seja inferior a 12 000 000 €, por emitente ou oferente, calculado ao longo de um período de 12 meses.
 
-###### Artigo 127.º — [...]
+Artigo 127.º
+
+[...]
 
 1 - [...]
 
@@ -498,7 +645,9 @@ b) [...]
 
 3 - O dever de publicação do resultado da oferta previsto no n.º 1 é dispensado no caso das ofertas dirigidas exclusivamente a trabalhadores.
 
-###### Artigo 194.º — [...]
+Artigo 194.º
+
+[...]
 
 1 - Quem, na sequência do lançamento de oferta pública de aquisição geral em que seja visada sociedade emitente de ações admitidas à negociação em mercado regulamentado em Portugal, referida no n.º 1 do artigo 13.º-B, atinja ou ultrapasse, diretamente ou nos termos do n.º 1 do artigo 20.º, 90 % dos direitos de voto correspondentes ao capital social e 90 % do capital social até ao apuramento dos resultados da oferta pode, nos três meses subsequentes, adquirir as ações remanescentes mediante contrapartida em dinheiro.
 
@@ -510,7 +659,9 @@ b) [...]
 
 5 - [...]
 
-###### Artigo 198.º — [...]
+Artigo 198.º
+
+[...]
 
 1 - [...]
 
@@ -526,7 +677,9 @@ b) [...]
 
 7 - [...]
 
-###### Artigo 201.º — [...]
+Artigo 201.º
+
+[...]
 
 1 - É internalização sistemática:
 
@@ -546,7 +699,9 @@ b) Quando seja exercida a opção prevista no n.º 6.
 
 7 - [...]
 
-###### Artigo 201.º-A — Sistemas de negociação multilateral de PME em crescimento e segmento de PME em crescimento
+Artigo 201.º-A
+
+Sistemas de negociação multilateral de PME em crescimento e segmento de PME em crescimento
 
 1 - A entidade gestora de sistema de negociação multilateral estabelecido em Portugal pode solicitar à CMVM o registo de:
 
@@ -596,7 +751,9 @@ b) O emitente é informado das obrigações adicionais a que fica sujeito, em re
 
 9 - A CMVM comunica à Autoridade Europeia dos Valores Mobiliários e dos Mercados os registos efetuados nos termos do n.º 1 e os respetivos cancelamentos o mais rapidamente possível.
 
-###### Artigo 206.º — [...]
+Artigo 206.º
+
+[...]
 
 1 - [...]
 
@@ -608,7 +765,9 @@ b) O emitente é informado das obrigações adicionais a que fica sujeito, em re
 
 5 - A entidade gestora de mercado regulamentado assegura que o mercado regulamentado por si gerido tem, pelo menos, três membros ou utilizadores materialmente ativos, cada um com a possibilidade de interagir com todos os outros no que diz respeito à formação de preços.
 
-###### Artigo 207.º — [...]
+Artigo 207.º
+
+[...]
 
 1 - [...]
 
@@ -630,7 +789,9 @@ b) O emitente é informado das obrigações adicionais a que fica sujeito, em re
 
 10 - [Anterior n.º 9.]
 
-###### Artigo 209.º — [...]
+Artigo 209.º
+
+[...]
 
 1 - [...]
 
@@ -650,7 +811,9 @@ b) O emitente é informado das obrigações adicionais a que fica sujeito, em re
 
 9 - O número anterior é igualmente aplicável às entidades de publicação designadas, na aceção da legislação da União Europeia, aos internalizadores sistemáticos, aos sistemas de publicação autorizados (‘APA’) e aos prestadores de informação consolidada (‘CTP’).
 
-###### Artigo 211.º — [...]
+Artigo 211.º
+
+[...]
 
 1 - [...]
 
@@ -662,7 +825,9 @@ b) O emitente é informado das obrigações adicionais a que fica sujeito, em re
 
 5 - [Anterior n.º 4.]
 
-###### Artigo 213.º-A — [...]
+Artigo 213.º-A
+
+[...]
 
 1 - Em situações de emergência ou quando houver uma variação significativa dos preços de um instrumento financeiro nesse mercado ou num mercado conexo durante um curto período de tempo, a entidade gestora deve interromper ou restringir temporariamente a negociação, e, em casos excecionais, pode suprimir, alterar ou corrigir uma transação.
 
@@ -676,7 +841,9 @@ b) O emitente é informado das obrigações adicionais a que fica sujeito, em re
 
 6 - Caso a entidade gestora não interrompa ou restrinja a negociação, apesar de uma variação significativa de preços num instrumento financeiro ou instrumentos financeiros conexos ter conduzido a perturbações do processo de negociação num ou em vários mercados, a CMVM pode tomar as medidas adequadas para restabelecer o funcionamento normal dos mercados, incluindo com recurso aos respetivos poderes de supervisão.
 
-###### Artigo 215.º — [...]
+Artigo 215.º
+
+[...]
 
 1 - [...]
 
@@ -688,7 +855,9 @@ b) O emitente é informado das obrigações adicionais a que fica sujeito, em re
 
 5 - [...]
 
-###### Artigo 222.º-A — [...]
+Artigo 222.º-A
+
+[...]
 
 1 - [...]
 
@@ -698,7 +867,9 @@ b) O emitente é informado das obrigações adicionais a que fica sujeito, em re
 
 4 - [Anterior n.º 3.]
 
-###### Artigo 229.º — Admissão de ações à negociação em mercado regulamentado
+Artigo 229.º
+
+Admissão de ações à negociação em mercado regulamentado
 
 1 - [...]
 
@@ -730,7 +901,9 @@ iii) O valor de mercado das ações detidas pelo público representa um nível s
 
 8 - [...]
 
-###### Artigo 238.º — [...]
+Artigo 238.º
+
+[...]
 
 1 - Ao prospeto de admissão de valores mobiliários em mercado regulamentado são aplicáveis, com as necessárias adaptações, os artigos 121.º, 122.º, 149.º a 154.º e 163.º-A.
 
@@ -738,7 +911,9 @@ iii) O valor de mercado das ações detidas pelo público representa um nível s
 
 3 - [...]
 
-###### Artigo 257.º-F — Controlos de gestão de posições em instrumentos financeiros derivados de mercadorias e derivados de licenças de emissão
+Artigo 257.º-F
+
+Controlos de gestão de posições em instrumentos financeiros derivados de mercadorias e derivados de licenças de emissão
 
 1 - As entidades gestoras de uma plataforma de negociação que negoceie instrumentos financeiros derivados de mercadorias ou derivados de licenças de emissão adotam e aplicam controlos de gestão de posições nesses instrumentos que permitam, designadamente:
 
@@ -762,7 +937,9 @@ d) [...]
 
 7 - [...]
 
-###### Artigo 257.º-G — Reporte de posições de instrumentos financeiros derivados de mercadorias e derivados de licenças de emissão
+Artigo 257.º-G
+
+Reporte de posições de instrumentos financeiros derivados de mercadorias e derivados de licenças de emissão
 
 1 - As entidades gestoras de uma plataforma de negociação que negoceie instrumentos financeiros derivados de mercadorias ou derivados de licenças de emissão:
 
@@ -812,7 +989,9 @@ d) [...]
 
 e) No caso de derivados de licenças de emissão, os operadores sujeitos a obrigações de conformidade ao abrigo da legislação da União Europeia.
 
-###### Artigo 272.º — [...]
+Artigo 272.º
+
+[...]
 
 1 - [...]
 
@@ -820,7 +999,9 @@ e) No caso de derivados de licenças de emissão, os operadores sujeitos a obrig
 
 3 - Sem prejuízo do disposto em norma especial, a entidade gestora comunica imediatamente à CMVM qualquer alteração relevante às condições iniciais do registo.
 
-###### Artigo 289.º — [...]
+Artigo 289.º
+
+[...]
 
 1 - [...]
 
@@ -874,7 +1055,9 @@ l) [...]
 
 10 - [...]
 
-###### Artigo 294.º-B — [...]
+Artigo 294.º-B
+
+[...]
 
 1 - [...]
 
@@ -894,7 +1077,9 @@ b) Por sociedades comerciais.
 
 7 - [...]
 
-###### Artigo 299.º — Prazo do registo
+Artigo 299.º
+
+Prazo do registo
 
 A CMVM regista o intermediário financeiro no prazo de 30 dias a contar da data do facto que ocorra em último lugar:
 
@@ -902,7 +1087,9 @@ a) Comunicação da autorização pela autoridade competente;
 
 b) Receção do pedido de registo junto da CMVM.
 
-###### Artigo 301.º — [...]
+Artigo 301.º
+
+[...]
 
 1 - [...]
 
@@ -920,7 +1107,9 @@ b) Receção do pedido de registo junto da CMVM.
 
 8 - Sem prejuízo do disposto no n.º 8 do artigo 294.º, apenas as pessoas autorizadas ou comunicadas junto da CMVM como consultores para investimento independentes podem utilizar as designações consultor para investimento independente ou consultoria para investimento independente, não podendo prestar outros serviços de consultoria para investimento.
 
-###### Artigo 303.º — [...]
+Artigo 303.º
+
+[...]
 
 1 - [...]
 
@@ -936,7 +1125,9 @@ c) [...]
 
 4 - [...]
 
-###### Artigo 313.º-C — [...]
+Artigo 313.º-C
+
+[...]
 
 1 - A realização de recomendações de investimento, na aceção do artigo 12.º-A, por terceiros para intermediários financeiros que prestem serviços de gestão de carteiras ou outros serviços de investimento principais ou auxiliares a clientes, não é considerada um benefício desde que o intermediário financeiro:
 
@@ -1018,7 +1209,9 @@ d) Que explícita ou implicitamente recomendem ou sugiram uma estratégia de inv
 
 19 - O intermediário financeiro que recebe a recomendação de investimento prevista no número anterior cumpre o disposto na alínea d) do n.º 1.
 
-###### Artigo 330.º — [...]
+Artigo 330.º
+
+[...]
 
 1 - [...]
 
@@ -1054,7 +1247,9 @@ d) Que explícita ou implicitamente recomendem ou sugiram uma estratégia de inv
 
 17 - [Revogado.]
 
-###### Artigo 361.º — [...]
+Artigo 361.º
+
+[...]
 
 1 - [...]
 
@@ -1084,7 +1279,9 @@ i) Proibir, suspender ou limitar a comercialização, distribuição ou venda de
 
 5 - [...]
 
-###### Artigo 363.º — [...]
+Artigo 363.º
+
+[...]
 
 1 - [...]
 
@@ -1110,7 +1307,9 @@ f) Os prestadores de serviços de financiamento colaborativo que não estejam su
 
 6 - [...]
 
-###### Artigo 365.º — [...]
+Artigo 365.º
+
+[...]
 
 1 - Os atos permissivos praticados pela CMVM:
 
@@ -1140,7 +1339,9 @@ b) A denominação social e sede, nome e morada profissionais, correio eletróni
 
 8 - [...]
 
-###### Artigo 367.º — [...]
+Artigo 367.º
+
+[...]
 
 1 - [...]
 
@@ -1148,13 +1349,17 @@ b) A denominação social e sede, nome e morada profissionais, correio eletróni
 
 3 - A CMVM disponibiliza, através do sistema previsto no n.º 1, o ponto de acesso único europeu (ESAP), criado ao abrigo do [Regulamento (UE) 2023/2859](https://data.europa.eu/eli/reg/2023/2859/oj?locale=pt) do Parlamento Europeu e do Conselho, e destinado a permitir um acesso centralizado a informações publicamente disponíveis com relevância para os serviços financeiros, os mercados de capitais e a sustentabilidade.
 
-###### Artigo 370.º — [...]
+Artigo 370.º
+
+[...]
 
 1 - [...]
 
 2 - A CMVM pode formular e publicar pareceres genéricos sobre questões relevantes que tenha por convenientes ou que lhe sejam colocadas por escrito por qualquer das entidades sujeitas à sua supervisão ou pelas respetivas associações.
 
-###### Artigo 376.º — Cooperação com instituições congéneres estrangeiras e com organizações internacionais
+Artigo 376.º
+
+Cooperação com instituições congéneres estrangeiras e com organizações internacionais
 
 1 - [...]
 
@@ -1170,7 +1375,9 @@ b) A denominação social e sede, nome e morada profissionais, correio eletróni
 
 7 - A CMVM pode transmitir ou partilhar informação com o Fundo Monetário Internacional, para efeitos do programa de avaliação do setor financeiro.
 
-###### Artigo 377.º-B — [...]
+Artigo 377.º-B
+
+[...]
 
 1 - A CMVM coopera com a Autoridade Europeia dos Valores Mobiliários e dos Mercados, prestando-lhe, com a maior brevidade possível, a informação necessária ao exercício das suas funções, nos termos da legislação europeia aplicável.
 
@@ -1192,7 +1399,7 @@ b) A denominação social e sede, nome e morada profissionais, correio eletróni
 
 10 - [...]
 
-###### Artigo 377.º-C
+Artigo 377.º-C
 
 Cooperação no âmbito da supervisão e fiscalização do regime do abuso de mercado, no processamento de infrações e no âmbito do combate ao branqueamento de capitais e prevenção do terrorismo
 
@@ -1204,7 +1411,9 @@ Cooperação no âmbito da supervisão e fiscalização do regime do abuso de me
 
 4 - A CMVM coopera com a Autoridade para o Combate ao Branqueamento de Capitais e ao Financiamento do Terrorismo, no quadro da legislação nacional e da União Europeia relativa ao combate ao branqueamento de capitais e prevenção do terrorismo.
 
-###### Artigo 388.º — [...]
+Artigo 388.º
+
+[...]
 
 1 - [...]
 
@@ -1230,7 +1439,9 @@ e) [Anterior alínea c).]
 
 7 - [...]
 
-###### Artigo 394.º — [...]
+Artigo 394.º
+
+[...]
 
 1 - [...]
 
@@ -1286,7 +1497,9 @@ l) [...]
 
 3 - [...]
 
-###### Artigo 396.º-A — [...]
+Artigo 396.º-A
+
+[...]
 
 1 - [...]
 
@@ -1302,7 +1515,9 @@ d) A violação dos deveres relativos à sincronização de relógios profission
 
 3 - [...].
 
-###### Artigo 397.º — [...]
+Artigo 397.º
+
+[...]
 
 1 - [...]
 
@@ -1348,7 +1563,9 @@ q) [...]
 
 5 - [...]
 
-###### Artigo 400.º — [...]
+Artigo 400.º
+
+[...]
 
 [...]
 
@@ -1390,7 +1607,9 @@ Os artigos 129.º e 262.º do regime da gestão de ativos, aprovado em anexo ao 
 
 4 - À publicação das informações previstas nos artigos 26.º-I e 26.º-K do Código dos Valores Mobiliários aplica-se o disposto no artigo 26.º-M do Código dos Valores Mobiliários.
 
-###### Artigo 262.º — [...]
+Artigo 262.º
+
+[...]
 
 1 - [...]
 
@@ -1432,7 +1651,9 @@ Estudos patrocinados por emitentes
 
 7 - Aos estudos patrocinados por emitentes não é aplicável o regime jurídico previsto no presente Código para as recomendações de investimento.
 
-###### Artigo 13.º-C — Acessibilidade da informação no ponto de acesso único europeu
+Artigo 13.º-C
+
+Acessibilidade da informação no ponto de acesso único europeu
 
 1 - Os emitentes a que se refere o n.º 1 do artigo 13.º-A, quando publicam o relatório de gestão e o relatório consolidado de gestão, transmitem-nos simultaneamente à CMVM, para efeitos de os tornar acessíveis no ponto de acesso único europeu (ESAP).
 
@@ -1478,9 +1699,11 @@ iv) A indicação sobre se as informações contêm dados pessoais.
 
 8 - Para efeitos do disposto neste artigo, a CMVM é o organismo de recolha, na aceção do ponto 2 do artigo 2.º do [Regulamento (UE) 2023/2859](https://data.europa.eu/eli/reg/2023/2859/oj?locale=pt).
 
-###### Artigo 26.º-M — Acessibilidade da informação no ponto de acesso único europeu
+Artigo 26.º-M
 
-1 - Os investidores institucionais, os gestores de ativos, os consultores em matéria de votação e os emitentes, quando publicam as informações previstas no n.º 2 do artigo 23.º-D, no artigo 26.º-E, no n.º 5 do artigo 26.º-G, nos artigos 26.º-I a 26.º-L e nos n.<sup>os</sup>1 e 3 do artigo 29.º-T, transmitem-nas simultaneamente à CMVM, para efeitos de as tornar acessíveis no ESAP.
+Acessibilidade da informação no ponto de acesso único europeu
+
+1 - Os investidores institucionais, os gestores de ativos, os consultores em matéria de votação e os emitentes, quando publicam as informações previstas no n.º 2 do artigo 23.º-D, no artigo 26.º-E, no n.º 5 do artigo 26.º-G, nos artigos 26.º-I a 26.º-L e nos n.os1 e 3 do artigo 29.º-T, transmitem-nas simultaneamente à CMVM, para efeitos de as tornar acessíveis no ESAP.
 
 2 - As informações previstas no número anterior são:
 
@@ -1504,9 +1727,11 @@ vi) A indicação sobre se as informações contêm dados pessoais.
 
 4 - Para efeitos do disposto neste artigo, a CMVM é o organismo de recolha de informação, na aceção do ponto 2 do artigo 2.º do [Regulamento (UE) 2023/2859](https://data.europa.eu/eli/reg/2023/2859/oj?locale=pt), do Parlamento Europeu e do Conselho, de 13 de dezembro de 2023.
 
-###### Artigo 109.º-A — Acessibilidade da informação no ponto de acesso único europeu
+Artigo 109.º-A
 
-1 - As informações transmitidas à CMVM nos termos do disposto no n.º 12 do artigo 118.º, no n.º 1 do artigo 175.º, no n.º 2 do artigo 176.º-B, no n.º 3 do artigo 176.º-C e nos n.<sup>os</sup>1 e 4 do artigo 181.º são tornadas acessíveis no ESAP.
+Acessibilidade da informação no ponto de acesso único europeu
+
+1 - As informações transmitidas à CMVM nos termos do disposto no n.º 12 do artigo 118.º, no n.º 1 do artigo 175.º, no n.º 2 do artigo 176.º-B, no n.º 3 do artigo 176.º-C e nos n.os1 e 4 do artigo 181.º são tornadas acessíveis no ESAP.
 
 2 - A CMVM, quando publica informações ao abrigo do n.º 5 do artigo 188.º, assegura que as mesmas são tornadas acessíveis no ESAP.
 
@@ -1546,13 +1771,15 @@ iv) A indicação sobre se as informações contêm dados pessoais.
 
 6 - Para efeitos do disposto neste artigo, a CMVM é o organismo de recolha, na aceção do ponto 2 do artigo 2.º do [Regulamento (UE) 2023/2859](https://data.europa.eu/eli/reg/2023/2859/oj?locale=pt), do Parlamento Europeu e do Conselho, de 13 de dezembro de 2023.
 
-###### Artigo 377.º-D — Acessibilidade da informação no ponto de acesso único europeu
+Artigo 377.º-D
+
+Acessibilidade da informação no ponto de acesso único europeu
 
 1 - Os intermediários financeiros, as entidades gestoras de plataformas de negociação e os emitentes, quando publicam as informações previstas, consoante aplicável, no n.º 15 do artigo 330.º e nas alíneas c), d) e f) do n.º 2 do artigo 201.º-A do presente Código e nos artigos 12.º e 15.º e na alínea f) do n.º 1 do artigo 20.º do [Decreto-Lei n.º 357-C/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-c-2007-241224), de 31 de outubro, transmitem-nas simultaneamente à CMVM, para efeitos de as tornar acessíveis no ESAP.
 
-2 - As informações previstas nos n.<sup>os</sup>4 a 8 do artigo 213.º, no n.º 2 do artigo 214.º e no n.º 5 do artigo 215.º, no que se refere a mercados regulamentados, nos n.<sup>os</sup>5 e 6 do artigo 213.º por remissão do n.º 2 dos artigos 200.º e 200.º-A, no que se refere a sistemas de negociação multilateral ou organizado, e nos n.<sup>os</sup>1 a 4 do artigo 422.º são tornadas acessíveis no ESAP.
+2 - As informações previstas nos n.os4 a 8 do artigo 213.º, no n.º 2 do artigo 214.º e no n.º 5 do artigo 215.º, no que se refere a mercados regulamentados, nos n.os5 e 6 do artigo 213.º por remissão do n.º 2 dos artigos 200.º e 200.º-A, no que se refere a sistemas de negociação multilateral ou organizado, e nos n.os1 a 4 do artigo 422.º são tornadas acessíveis no ESAP.
 
-3 - As informações previstas nos n.<sup>os</sup>3 a 7 do artigo 294.º-B são tornadas acessíveis no ESAP.
+3 - As informações previstas nos n.os3 a 7 do artigo 294.º-B são tornadas acessíveis no ESAP.
 
 4 - As informações previstas no n.º 1 são:
 
@@ -1570,7 +1797,7 @@ iv) O tipo de informação, classificado nos termos da alínea c) do n.º 4 do m
 
 v) A indicação sobre se as informações contêm dados pessoais.
 
-5 - As informações previstas nos n.<sup>os</sup>2 e 3 são:
+5 - As informações previstas nos n.os2 e 3 são:
 
 a) Transmitidas num formato que permita a extração de dados, na aceção do ponto 3 do artigo 2.º do [Regulamento (UE) 2023/2859](https://data.europa.eu/eli/reg/2023/2859/oj?locale=pt), do Parlamento Europeu e do Conselho, de 13 de dezembro de 2023;
 
@@ -1600,7 +1827,7 @@ iv) A indicação sobre se as informações contêm dados pessoais.
 
 7 - Para efeitos do disposto na subalínea ii) da alínea b) do n.º 4, os intermediários financeiros, as plataformas de negociação e os emitentes, consoante aplicável, obtêm o identificador designado por Legal Entity Identifier, conforme definido no [Decreto-Lei n.º 202/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2015-70300349), de 17 de setembro.
 
-8 - Para efeitos do disposto nos n.<sup>os</sup>1 a 5 e 7, a CMVM é o organismo de recolha, na aceção do ponto 2 do artigo 2.º do [Regulamento (UE) 2023/2859](https://data.europa.eu/eli/reg/2023/2859/oj?locale=pt), do Parlamento Europeu e do Conselho, de 13 de dezembro de 2023.»
+8 - Para efeitos do disposto nos n.os1 a 5 e 7, a CMVM é o organismo de recolha, na aceção do ponto 2 do artigo 2.º do [Regulamento (UE) 2023/2859](https://data.europa.eu/eli/reg/2023/2859/oj?locale=pt), do Parlamento Europeu e do Conselho, de 13 de dezembro de 2023.»
 
 ###### Artigo 5.º — Aditamento ao Código das Sociedades Comerciais
 
@@ -1842,7 +2069,7 @@ iv) A indicação sobre se as informações contêm dados pessoais.
 
 Acessibilidade da informação no ponto de acesso único europeu
 
-1 - As empresas de investimento e as empresas-mãe, consoante aplicável, quando publicam as informações previstas nos n.<sup>os</sup>5 e 6 do artigo 118.º, transmitem-nas simultaneamente ao organismo de recolha competente, para efeitos de as tornar acessíveis no ponto de acesso único europeu (ESAP).
+1 - As empresas de investimento e as empresas-mãe, consoante aplicável, quando publicam as informações previstas nos n.os5 e 6 do artigo 118.º, transmitem-nas simultaneamente ao organismo de recolha competente, para efeitos de as tornar acessíveis no ponto de acesso único europeu (ESAP).
 
 2 - A CMVM, quando publica as informações previstas no artigo 138.º, assegura que as mesmas são tornadas acessíveis no ESAP.
 
@@ -1894,7 +2121,7 @@ Acessibilidade da informação no ponto de acesso único europeu
 
 1 - As instituições de crédito emitentes, quando divulgam as informações previstas no artigo 30.º no seu sítio na Internet, transmitem-nas simultaneamente à CMVM, para efeitos de as tornar acessíveis no ponto de acesso único europeu (ESAP).
 
-2 - O Banco de Portugal, quando publica as informações previstas no n.º 2 do artigo 46.º, e a CMVM, quando publica as informações previstas no n.º 1 do artigo 46.º e nos n.<sup>os</sup>11 e 12 do artigo 47.º, asseguram que as mesmas são tornadas acessíveis no ESAP.
+2 - O Banco de Portugal, quando publica as informações previstas no n.º 2 do artigo 46.º, e a CMVM, quando publica as informações previstas no n.º 1 do artigo 46.º e nos n.os11 e 12 do artigo 47.º, asseguram que as mesmas são tornadas acessíveis no ESAP.
 
 3 - As informações previstas no n.º 1 são:
 
@@ -1982,7 +2209,7 @@ A epígrafe do capítulo v do título iv do Código dos Valores Mobiliários pas
 
 ###### Artigo 15.º — Norma revogatória
 
-São revogados os n.<sup>os</sup>3 a 5 do artigo 198.º, o artigo 228.º, o n.º 5 do artigo 229.º, o artigo 230.º, o n.º 6 do artigo 257.º-G, o artigo 313.º-D, os n.<sup>os</sup>14, 16 e 17 do artigo 330.º e o artigo 342.º do Código dos Valores Mobiliários.
+São revogados os n.os3 a 5 do artigo 198.º, o artigo 228.º, o n.º 5 do artigo 229.º, o artigo 230.º, o n.º 6 do artigo 257.º-G, o artigo 313.º-D, os n.os14, 16 e 17 do artigo 330.º e o artigo 342.º do Código dos Valores Mobiliários.
 
 ###### Artigo 16.º — Disposições finais
 
@@ -2002,7 +2229,7 @@ c) As garantias de proteção conferidas aos investidores pelas sociedades refer
 
 2 - O disposto:
 
-a) Nos n.<sup>os</sup>1 e 2 do artigo 13.º-C do Código dos Valores Mobiliários produz efeitos no dia 10 de julho de 2026;
+a) Nos n.os1 e 2 do artigo 13.º-C do Código dos Valores Mobiliários produz efeitos no dia 10 de julho de 2026;
 
 b) No artigo 70.º-B do Código das Sociedades Comerciais, no artigo 13.º-C do Código dos Valores Mobiliários e no artigo 103.º-A do regime da gestão de ativos produz efeitos a partir do dia 10 de janeiro de 2028;
 
@@ -2012,12 +2239,14 @@ d) No artigo 16.º-A do [Decreto-Lei n.º 145/2006](https://diariodarepublica.pt
 
 Visto e aprovado em Conselho de Ministros de 11 de junho de 2026. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Cláudia Maria dos Reis Duarte Melo de Carvalho.
 
-**Promulgado em 3 de agosto de 2026.**
+Promulgado em 3 de agosto de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 4 de agosto de 2026.**
+Referendado em 4 de agosto de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119949458

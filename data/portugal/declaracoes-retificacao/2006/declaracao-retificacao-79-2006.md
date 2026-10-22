@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/79/2006/11/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/79-2006-544870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-11-17T00:00:00Z'
+  retrieved_at: '2026-10-22T19:07:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b8018c705d677115c0510423dbd59734a938ded5b38efca12141af7648c850e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1728e112036165984e7b1a1d0149956fa4a35a9e84d9f257daab37aef7a7babb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:07:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,16 +79,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/115/2006/09/18/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/115/2006/09/18/p/dre
+- type: cites
+  target: pt:dre:481158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540065:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:resolucao-conselho-ministros:115/2006
+  label: "Rectifica e republica anexo II à Resolução do Conselho de Ministros n.º 115/2006, de 18 de Setembro, DR.IS [180]\0\
+    \0"
+  source: null
+  date: '2006-09-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:07:02Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +177,7 @@ Resultado a atingir:
 
 Assegurar a efectiva implementação das estruturas de coordenação do combate à droga e à toxicodependência.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf))](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
 
 Cooperação internacional
 
@@ -171,19 +185,19 @@ Resultado a atingir:
 
 Aumentar a capacidade de influenciar as decisões tomadas nas várias instâncias internacionais e regionais de cooperação, melhorando assim a eficácia da intervenção nacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf))](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
 
 Resultado a atingir:
 
 Fortalecer a participação de Portugal nos fora internacionais que abordam o fenómeno das drogas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf))](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
 
 Resultado a atingir:
 
 Desenvolver as relações de cooperação em matéria de luta contra a droga, no âmbito dos mecanismos multilaterais e bilaterais existentes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf))](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
 
 Informação, investigação, formação e avaliação
 
@@ -191,7 +205,7 @@ Resultado a atingir:
 
 Contribuir para um maior e melhor conhecimento do fenómeno das drogas e das toxicodependências e para a melhoria contínua da qualidade da informação, por forma a apoiar a intervenção e a decisão e a contribuir para a melhoria dos resultados obtidos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf))](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
 
 Reordenamento jurídico
 
@@ -199,7 +213,7 @@ Resultado a atingir:
 
 Clarificação do quadro e relacionamento institucional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf))](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
 
 Áreas de Missão
 
@@ -213,13 +227,13 @@ Resultado a atingir:
 
 Aumentar a qualidade da intervenção preventiva através do reforço da componente técnico-científica e metodológica.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf))](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
 
 Resultado a atingir:
 
 Aumentar a abrangência, a acessibilidade, a eficácia e a eficiência dos programas de prevenção.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf))](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
 
 Vector dissuasão da toxicodependência
 
@@ -227,13 +241,13 @@ Resultado a atingir:
 
 Garantir a eficiência na aplicação da lei, assegurando o acompanhamento adequado, justo, com qualidade técnica e que vá ao encontro das necessidades efectivas dos indiciados consumidores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf))](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
 
 Resultado a atingir:
 
 Promover e garantir a articulação entre serviços com responsabilidades e ou implicações na aplicação da lei.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf))](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
 
 Vector redução de riscos e minimização de danos
 
@@ -241,13 +255,13 @@ Resultado a atingir:
 
 Construir uma rede global de respostas integradas e complementares, no âmbito da redução de riscos e minimização de danos com parceiros públicos e privados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf))](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
 
 Resultado a atingir:
 
 Disponibilizar programas de redução de riscos e minimização de danos a grupos específicos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf))](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
 
 Vector tratamento
 
@@ -255,19 +269,19 @@ Resultado a atingir:
 
 Garantir a toda a população que o deseje o acesso em tempo útil a respostas terapêuticas integradas (articuladas e complementares).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf))](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
 
 Resultado a atingir:
 
 Disponibilizar uma oferta de programas de tratamento e de cuidados diversificada, abrangendo um amplo leque de abordagens psicossociais e farmacológicas, orientadas por princípios éticos e pela evidência científica.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf))](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
 
 Resultado a atingir:
 
 Implementar um processo de melhoria contínua da qualidade a nível de todos os programas e intervenções terapêuticas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf))](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
 
 Vector reinserção
 
@@ -275,13 +289,13 @@ Resultado a atingir:
 
 Garantir a abrangência e a transversalidade dos recursos institucionais/não-institucionais da Reinserção nas várias áreas de vida do cidadão, de forma a facilitar o desenvolvimento de projectos de vida responsáveis e responsabilizantes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf))](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
 
 Resultado a atingir:
 
 Potenciar a Reinserção enquanto processo global, implicando todos os actores na óptica da abordagem e das respostas integradas, através de uma gestão participada e efectiva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf))](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
 
 Redução da oferta
 
@@ -289,7 +303,7 @@ Resultado a atingir:
 
 Reduzir de forma significativa a prevalência do consumo de drogas entre a população, bem como os prejuízos a nível social e para a saúde causados pelo consumo e pelo comércio de drogas ilegais e assegurar, tendo em consideração as conquistas e valores em termos de direitos e liberdades fundamentais, um elevado nível de segurança para o público em geral, tomando medidas contra a produção e o tráfico de drogas e o desvio de precursores (incluindo o transfronteiriço) e intensificando as medidas de prevenção contra a criminalidade relacionada com a droga através da cooperação eficaz, firmada numa abordagem conjunta, com as forças de outros Estados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf))](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/22200/79337958.pdf)
 
 Siglas
 

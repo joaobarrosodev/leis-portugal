@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/6/2026/04/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2026-1080481236
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-01T00:00:00Z'
+  retrieved_at: '2026-10-22T18:37:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2854c0545cc28b208f4f5d376d10a7efbc821c35f9da19f06dafeceafd247483
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e40b9e3e4d5e1dfc237f89873e843af8943762be5b85bd9073d281b38f5a157
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:37:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Acesso à Educação
 - Academia da Força Aérea
+- Acesso à Educação
 - Aluno Militar
 - Autonomia Pedagógica
 - Comissão Científica
-- Ensino Superior Militar
-- Força Aérea
 - Conselho Disciplinar
 - Cooperação
 - Definição de Competências
 - Definição de Funções
-- Orgânica
+- Ensino Superior Militar
 - Estabelecimento de Ensino
+- Força Aérea
+- Instituto Universitário Militar
+- Orgânica
 - Pessoal Docente
 - Regulamento
-- Instituto Universitário Militar
 relationships:
+- type: amends
+  target: pt:numero:portaria:23/2014
+  label: Mantêm em vigor, até à aprovação dos regulamentos internos previstos no presente decreto regulamentar, os regulamentos
+    aprovados ao abrigo da Portaria n.º 23/2014, de 31 de janeiro, Diário da República n.º 22/2014, Série I
+  source: null
+  date: '2014-01-31'
+- type: amends
+  target: pt:numero:despacho:4336/2015
+  label: Mantém em vigor, até à aprovação do regimento da Comissão de Admissão da AFA, nos termos do regulamento interno da
+    AFA, o Despacho n.º 4336/2015, de 29 de abril, Diário da República n.º 83/2015, Série II
+  source: null
+  date: '2015-04-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/187/2014/12/29/p/dre
   label: null
@@ -102,16 +114,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/23/2014/01/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/23/2014/01/31/p/dre
+- type: cites
+  target: pt:dre:162244837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65983264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67084340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70832992:por
+  label: null
+  source: null
 article_structure:
   article_count: 93
   section_count: 46
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:37:09Z'
   warnings: []
   errors: []
 ---
@@ -190,7 +226,7 @@ Constituem receitas da AFA, para além das dotações que lhe sejam atribuídas:
 
 a) As verbas obtidas através dos cursos que ministra;
 
-b) O produto da venda de publicações e de trabalhos de ID&I;
+b) O produto da venda de publicações e de trabalhos de ID&I
 
 c) As comparticipações, subsídios e liberalidades resultantes de atividades de ID&I e de cooperação e protocolos com outras instituições;
 
@@ -454,7 +490,7 @@ h) Assegurar o tratamento administrativo da documentação necessária ao funcio
 
 ###### Artigo 17.º — Chefia
 
-**O chefe do GC é um oficial superior, na dependência hierárquica do comandante da AFA, sendo por este nomeado e exonerado.**
+O chefe do GC é um oficial superior, na dependência hierárquica do comandante da AFA, sendo por este nomeado e exonerado.
 
 ##### SUBSECÇÃO III — GABINETE DE INTERNACIONALIZAÇÃO E COOPERAÇÃO
 
@@ -464,7 +500,7 @@ O GIC garante a dinamização, coordenação, acompanhamento e operacionalizaç�
 
 ###### Artigo 19.º — Chefia
 
-**O chefe do GIC é um oficial superior, preferencialmente das especialidades cujo ingresso nos quadros permanentes exige o grau de mestre, na dependência hierárquica do comandante da AFA, sendo por este nomeado e exonerado.**
+O chefe do GIC é um oficial superior, preferencialmente das especialidades cujo ingresso nos quadros permanentes exige o grau de mestre, na dependência hierárquica do comandante da AFA, sendo por este nomeado e exonerado.
 
 ##### SUBSECÇÃO II — GABINETE DE ESTUDOS E PLANEAMENTO
 
@@ -494,7 +530,7 @@ i) Garantir a recolha e o tratamento da informação estatística, relativa às 
 
 ###### Artigo 21.º — Chefia
 
-**O chefe do GEP é um coronel, preferencialmente, das especialidades cujo ingresso nos quadros permanentes exige o grau de mestre, na dependência hierárquica do comandante da AFA, sendo por este nomeado e exonerado.**
+O chefe do GEP é um coronel, preferencialmente, das especialidades cujo ingresso nos quadros permanentes exige o grau de mestre, na dependência hierárquica do comandante da AFA, sendo por este nomeado e exonerado.
 
 ##### SUBSECÇÃO III — COMISSÃO DE PLANEAMENTO ESCOLAR
 
@@ -592,7 +628,7 @@ h) Desenvolver, em coordenação com o IUM e a DE, as ações e atividades neces
 
 ###### Artigo 26.º — Chefia
 
-**O chefe do GAQ é um coronel das especialidades cujo ingresso nos quadros permanentes exige o grau de mestre, preferencialmente habilitado com o grau de doutor, na dependência hierárquica do comandante da AFA, sendo por este nomeado e exonerado.**
+O chefe do GAQ é um coronel das especialidades cujo ingresso nos quadros permanentes exige o grau de mestre, preferencialmente habilitado com o grau de doutor, na dependência hierárquica do comandante da AFA, sendo por este nomeado e exonerado.
 
 ##### SUBSECÇÃO V — GABINETE DE PREVENÇÃO DE ACIDENTES
 
@@ -632,7 +668,7 @@ g) Elaborar estudos e propostas quanto aos aspetos da administração da justiç
 
 ###### Artigo 30.º — Chefia
 
-**O chefe do GJD é um capitão ou tenente da especialidade de juristas, na dependência hierárquica do comandante da AFA, sendo por este nomeado e exonerado.**
+O chefe do GJD é um capitão ou tenente da especialidade de juristas, na dependência hierárquica do comandante da AFA, sendo por este nomeado e exonerado.
 
 ##### SUBSECÇÃO VII — GABINETE DE AÇÃO SOCIAL
 
@@ -678,7 +714,7 @@ g) Possibilitar o cumprimento do direito de culto aos militares crentes de confi
 
 ###### Artigo 35.º — Chefia
 
-**O chefe da Capelania é um oficial capelão nomeado e exonerado pelo comandante da AFA, mediante parecer prévio do Ordinário Castrense.**
+O chefe da Capelania é um oficial capelão nomeado e exonerado pelo comandante da AFA, mediante parecer prévio do Ordinário Castrense.
 
 ##### SUBSECÇÃO X — NÚCLEO CULTURAL
 
@@ -1192,7 +1228,7 @@ o) Coordenar a gestão da reprografia, nomeadamente proceder à reprodução de 
 
 ###### Artigo 58.º — Chefia
 
-**O chefe do GGA é um oficial superior, nomeado e exonerado pelo comandante da AFA, sob proposta do diretor de Ensino.**
+O chefe do GGA é um oficial superior, nomeado e exonerado pelo comandante da AFA, sob proposta do diretor de Ensino.
 
 ##### SUBSECÇÃO V — BIBLIOTECA DE CIÊNCIAS MILITARES AERONÁUTICAS
 
@@ -1224,7 +1260,7 @@ j) Garantir e manter as ligações às redes existentes de informação científ
 
 ###### Artigo 60.º — Chefia
 
-**O chefe da BCMA é um oficial superior das especialidades cujo ingresso nos quadros permanentes exige o grau de mestre, nomeado pelo comandante da AFA, sob proposta do diretor de Ensino.**
+O chefe da BCMA é um oficial superior das especialidades cujo ingresso nos quadros permanentes exige o grau de mestre, nomeado pelo comandante da AFA, sob proposta do diretor de Ensino.
 
 #### SECÇÃO VI — CORPO DE ALUNOS
 
@@ -1348,7 +1384,7 @@ e) Aprontar o material e equipamento para cerimónias militares e exercícios ef
 
 ###### Artigo 68.º — Chefia
 
-**O chefe do DFM é um oficial superior, nomeado e exonerado pelo comandante da AFA, sob proposta do comandante do Corpo de Alunos.**
+O chefe do DFM é um oficial superior, nomeado e exonerado pelo comandante da AFA, sob proposta do comandante do Corpo de Alunos.
 
 ##### SUBSECÇÃO IV — DEPARTAMENTO DE EDUCAÇÃO FÍSICA E DESPORTOS
 
@@ -1366,7 +1402,7 @@ c) Promover, coordenar e apoiar a prática de exercício físico e desportos dos
 
 ###### Artigo 70.º — Chefia
 
-**O chefe do DEFD é um oficial superior, nomeado e exonerado pelo comandante da AFA, sob proposta do comandante do Corpo de Alunos.**
+O chefe do DEFD é um oficial superior, nomeado e exonerado pelo comandante da AFA, sob proposta do comandante do Corpo de Alunos.
 
 ##### SUBSECÇÃO V — ESQUADRA 802
 
@@ -1524,7 +1560,7 @@ c) Os departamentos de ensino.
 
 ###### Artigo 83.º — Nomeação
 
-**O chefe do CEA é um coronel das especialidades cujo ingresso nos quadros permanentes exige o grau de mestre, preferencialmente habilitado com o grau de doutor, nomeado e exonerado pelo comandante da AFA.**
+O chefe do CEA é um coronel das especialidades cujo ingresso nos quadros permanentes exige o grau de mestre, preferencialmente habilitado com o grau de doutor, nomeado e exonerado pelo comandante da AFA.
 
 ###### Artigo 84.º — Competências
 
@@ -1636,12 +1672,14 @@ Sem prejuízo do disposto no artigo anterior, é revogada a [Portaria n.º 23/20
 
 Visto e aprovado em Conselho de Ministros de 12 de fevereiro de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro - Paulo António Magro da Luz - Nuno Maria Herculano de Carvalho Pinheiro Torres.
 
-**Promulgado em 4 de março de 2026.**
+Promulgado em 4 de março de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 11 de março de 2026.**
+Referendado em 11 de março de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119947995

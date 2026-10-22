@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 301/2001, 6º Suplemento, Série I-A de 2001-12-31
   number: '301'
   series: I
-  supplement: 6º Suplemento
+  supplement: null
   pages: 8540-(20) a 8540-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/12/301a06/00200020.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/21-a/2001/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/21-a-2001-185558
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-19T00:00:00Z'
+  retrieved_at: '2026-10-22T18:58:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 753318de3ad5134fa32b8d7f13d221df6649b77f1f3b01c2f1b3e0901643b2de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 112490cae3b4b56aa74ad537fd48a49dbc313662a8a3cc6e6c5c1ff2f660c8f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:58:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,25 +72,31 @@ subjects:
 - Acidente de Transporte
 - Acreditação
 - Aproximação das Legislações
-- Embarcação
-- Sistema de Autoridade Marítima
-- Transporte Marítimo
-- Multa
 - Construção Naval
 - Contra-ordenação
+- Embarcação
 - Embarcação de ALTA Velocidade
-- Segurança das Embarcações
 - Equipamento
 - Fiscalização
 - Instituto Marítimo-portuário
 - Ministro do Equipamento Social
+- Multa
+- Segurança das Embarcações
 - Segurança Marítima
+- Sistema de Autoridade Marítima
 - Transporte de Passageiros
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:552809:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:552809:por
+  label: "Alterado, a partir de 24.04.2012, o art. 22º do Dec Lei 293/2001, de 20-nov, retificado pelo presente diploma, pelo\
+    \ DEC LEI.93/2012.19.04.2012.MAMAOT, DR.IS [78] de 19.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-2012-552809
+  date: '2012-04-19'
 - type: cites
   target: celex:31998L0018
   label: null
@@ -99,16 +105,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/293/2001/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/293/2001/11/20/p/dre
+- type: cites
+  target: pt:dre:564377:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:58:58Z'
   warnings: []
   errors: []
 ---

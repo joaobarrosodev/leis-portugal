@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/84/2026/05/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/84-2026-1124493230
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-20T00:00:00Z'
+  retrieved_at: '2026-10-22T18:41:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c751b659137e6c1e9107e18a851033c0e0038856f4f66661a3c9bcd9ce71480c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b38d048aa85be77874ad40b1a0bfb29ed15010be65c7aa13bbb01cf951d7996
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:41:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autorização de Despesas
-- Financiamento
-- Vinho
 - Despesas Públicas
+- Financiamento
 - Instituto dos Vinhos do Douro e do Porto
+- Plano de Ação para a Gestão Sustentável e Valorização do Setor Vitivinícola
+- Produto Vitivinícola
 - Produtor
 - Região Demarcada do Douro
-- Produto Vitivinícola
+- Vinho
 - Vitivinicultor
-- Plano de Ação para a Gestão Sustentável e Valorização do Setor Vitivinícola
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:133/2025
+  label: Altera, com efeitos a a partir de 30 de abril de 2026, a Resolução do Conselho de Ministros n.º 133/2025, de 9 de
+    setembro, Diário da República n.º 173/2025, Série I
+  source: null
+  date: '2025-09-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -101,16 +107,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/133/2025/09/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/133/2025/09/09/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:934502551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:935446400:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:41:21Z'
   warnings: []
   errors: []
 ---
@@ -162,3 +192,5 @@ Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º d
 2 - Estabelecer que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 30 de abril de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119948540

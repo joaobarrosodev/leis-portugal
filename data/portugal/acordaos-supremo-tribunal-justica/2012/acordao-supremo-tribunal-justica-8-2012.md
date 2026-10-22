@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/8/2012/10/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/8-2012-192576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-24T00:00:00Z'
+  retrieved_at: '2026-10-22T17:53:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7469e8ed4deab0e2f5be07bb8521e391449457e8e08eac993e17659a0c8e8495
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54ac3a1081b0b5f8d2c7cc82f281f79d68f68ad9ddee13c6b48817b33bce6c83
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:53:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,14 +70,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Código Penal
 - Crime
 - Dívidas ao Estado
 - Execução Fiscal
 - Infracção Fiscal
 - Jurisprudencia
-- Sanção Penal
 - Processo Tributário
-- Código Penal
+- Sanção Penal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/140/1995/06/14/p/dre
@@ -119,16 +119,228 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/61/1993/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/61/1993/08/20/p/dre
+- type: cites
+  target: pt:dre:142369:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1801335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3650122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591105:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694244:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:53:09Z'
   warnings: []
   errors: []
 ---
@@ -377,11 +589,11 @@ Como claramente enunciava o preâmbulo do [Decreto-Lei n.º 20-A/90](https://dia
 
 A parte ii do RJIFNA, sob a epígrafe «Das infracções fiscais em especial», continha um capítulo i, «Dos crimes fiscais», abrangendo os ilícitos criminais de:
 
-###### Artigo 23.º - Fraude fiscal;
+Artigo 23.º - Fraude fiscal;
 
-###### Artigo 24.º - Abuso de confiança fiscal;
+Artigo 24.º - Abuso de confiança fiscal;
 
-###### Artigo 25.º - Frustração de créditos fiscais;
+Artigo 25.º - Frustração de créditos fiscais;
 
 e um capítulo ii dedicado às contra-ordenações fiscais (artigos 28.º a 40.º)
 
@@ -469,13 +681,13 @@ Segundo a sistemática do Regime Geral, na parte que ora nos interessa, há que 
 
 Aí incluem-se no título i - Crimes tributários - as seguintes categorias:
 
-### Capítulo I - Crimes tributários comuns (artigos 87.º a 91.º);
+Capítulo I - Crimes tributários comuns (artigos 87.º a 91.º);
 
-### Capítulo II - Crimes aduaneiros (artigos 92.º a 102.º);
+Capítulo II - Crimes aduaneiros (artigos 92.º a 102.º);
 
-### Capítulo III - Crimes fiscais (artigos 103.º a 105.º);
+Capítulo III - Crimes fiscais (artigos 103.º a 105.º);
 
-### Capítulo IV - Crimes contra a segurança social (artigos 106.º e 107.º).
+Capítulo IV - Crimes contra a segurança social (artigos 106.º e 107.º).
 
 No título ii, dedicado às «Contra-ordenações tributárias», incluem-se o capítulo i - Contra-ordenações aduaneiras (artigos 108.º a 112.º) - e o capítulo ii - Contra-ordenações fiscais (artigos 113.º a 127.º).
 
@@ -1143,7 +1355,7 @@ d) Possibilidade de suspensão da pena de prisão nos termos do Código Penal, m
 
 Na sequência passou a estabelecer o artigo 11.º do RJIFNA, na redacção de 1993, para além das previsões de penas de prisão e multa:
 
-###### Artigo 11.º
+Artigo 11.º
 
 6 - É admissível nos termos do Código Penal a suspensão da pena, com as particularidades constantes do n.º 7.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/58/2026/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/58-2026-1075988790
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-24T00:00:00Z'
+  retrieved_at: '2026-10-22T18:36:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8084df8cbf8e4f8bea86bf0d3c5d95f69cdade46623294eec4a5839fd82493d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73176e6805fce1154e1b154a526f5909fe53648ac65d4f8fb4ff636861187f97
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:36:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
-- Energia Elétrica
+- Agência Portuguesa do Ambiente
 - Comissão de Acompanhamento
 - Consumo de Energia
 - Definição de Competências
+- Direção Geral da Economia
+- Energia Elétrica
 - Energia Renovável
 - Gabinete de Planeamento Políticas e Administração Geral
-- Proteção do Ambiente
+- Gestão de Resíduos
 - Gestão do Ambiente
 - Plano de Ação para a Economia Circular
-- Agência Portuguesa do Ambiente
-- Direção Geral da Economia
+- Proteção do Ambiente
 relationships:
 - type: cites
   target: celex:32004L0109
@@ -170,16 +170,30 @@ relationships:
   target: eli:http://data.europa.eu/
   label: null
   source: http://data.europa.eu/
+- type: cites
+  target: pt:dre:105658706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114337039:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:resolucao-conselho-ministros:190-A/2017
+  label: Revoga, a partir de 25 de março de 2026, nos termos do n.º 10 do presente diploma, a Resolução do Conselho de Ministros
+    n.º 190-A/2017, de 11 de dezembro, Diário da República n.º 236/2017, 2º Suplemento, Série I
+  source: null
+  date: '2017-12-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:36:29Z'
   warnings: []
   errors: []
 ---
@@ -386,7 +400,8 @@ Em 2015, a Ellen MacArthur Foundation (EMF) definiu «a economia circular como u
 
 A economia circular será, assim, uma «economia reconstitutiva e regenerativa de forma intencional desde a conceção», com o fluxo de materiais a processar-se de forma circular, envolvendo atividades como a recuperação, reutilização, reparação, remanufatura e reciclagem dos produtos, e procurando, através da conceção destes, com processos mais eficientes e novos modelos de negócio, eliminar a produção de resíduos e reduzir impactes ambientais (figura 1) [13].
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045375.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045375.png) |
+| --- |
 
 Figura 1 - Representação do Modelo de Economia Circular (adaptado de [13]).
 
@@ -396,7 +411,8 @@ O âmbito e foco da economia circular ultrapassam as operações de gestão de r
 
 A aplicação dos princípios subjacentes à economia circular é fundamental, designadamente, para assegurar o cumprimento das metas ambientais e socioeconómicas preconizadas na Agenda 2030 para o Desenvolvimento Sustentável, adotada por todos os Estados-Membros das Nações Unidas em 2015, e que contempla 17 Objetivos de Desenvolvimento Sustentável (ODS), em particular os referentes à educação de qualidade; água potável e saneamento; energias renováveis e acessíveis; trabalho digno e crescimento económico; indústria, inovação e infraestruturas; cidades e comunidades sustentáveis; produção e consumo sustentáveis; ação climática; proteção da vida marinha e proteção da vida terrestre (figura 2).
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045376.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045376.png) |
+| --- |
 
 Figura 2 - Objetivos de Desenvolvimento Sustentável para os quais a economia circular contribui diretamente.
 
@@ -404,15 +420,16 @@ Importa salientar que a economia circular tem especial relevância para o cumpri
 
 1.4 - Enquadramento a nível da União Europeia:
 
-Também em 2015, a Comissão Europeia propôs um conjunto abrangente de ações legislativas através da Comunicação (<sup>1</sup>) «Fechar o Ciclo - Plano de Ação da UE para a Economia Circular», que visava promover a transição da economia europeia de um modelo linear para um modelo circular. O Plano incluía 54 ações a serem desenvolvidas em 5 áreas prioritárias, devido à especificidade dos produtos em causa: plásticos, desperdício alimentar, construção e demolição, matérias-primas críticas, biomassa e produtos de base biológica, procurando abranger toda a cadeia de valor dos produtos em causa, do fabrico ao consumo, passando por atividades como a reparação, a remanufatura, a gestão de resíduos (fomentando a sua prevenção) e a reintrodução das matérias-primas secundárias na economia.
+Também em 2015, a Comissão Europeia propôs um conjunto abrangente de ações legislativas através da Comunicação (1) «Fechar o Ciclo - Plano de Ação da UE para a Economia Circular», que visava promover a transição da economia europeia de um modelo linear para um modelo circular. O Plano incluía 54 ações a serem desenvolvidas em 5 áreas prioritárias, devido à especificidade dos produtos em causa: plásticos, desperdício alimentar, construção e demolição, matérias-primas críticas, biomassa e produtos de base biológica, procurando abranger toda a cadeia de valor dos produtos em causa, do fabrico ao consumo, passando por atividades como a reparação, a remanufatura, a gestão de resíduos (fomentando a sua prevenção) e a reintrodução das matérias-primas secundárias na economia.
 
-Em 2019, a Comissão Europeia publicou o Pacto Ecológico Europeu (<sup>2</sup>), que constitui um roteiro ambicioso para uma economia circular com impacte neutro no clima, e que preconiza um crescimento económico dissociado da utilização dos recursos, com o objetivo de reduzir as emissões de GEE em 55 % até 2030 (em comparação com os níveis de 1990). O Pacto Ecológico Europeu assenta em vários pilares, estando um deles associado à mobilização da indústria para uma economia circular e limpa.
+Em 2019, a Comissão Europeia publicou o Pacto Ecológico Europeu (2), que constitui um roteiro ambicioso para uma economia circular com impacte neutro no clima, e que preconiza um crescimento económico dissociado da utilização dos recursos, com o objetivo de reduzir as emissões de GEE em 55 % até 2030 (em comparação com os níveis de 1990). O Pacto Ecológico Europeu assenta em vários pilares, estando um deles associado à mobilização da indústria para uma economia circular e limpa.
 
 O referido Pacto previa a adoção de um 2.º Plano de Ação para a Economia Circular, que incluísse uma iniciativa em matéria de produtos sustentáveis com um enfoque especial nos setores com utilização intensiva de recursos, como os têxteis, a construção e os plásticos.
 
-Neste sentido, a União Europeia (UE) adotou, a 11 de março de 2020 (<sup>3</sup>), um novo Plano de Ação para a Economia Circular (PAEC UE), mais ambicioso e mais focado em todo o ciclo de vida dos produtos. Este Plano tem como objetivo prevenir a produção de resíduos e manter os recursos utilizados o máximo tempo possível na economia (por exemplo, combatendo a obsolescência precoce, melhorando a durabilidade e a reparabilidade dos produtos). Este 2.º Plano de Ação identifica igualmente cadeias de valor prioritárias, como as da eletrónica e tecnologias de informação e comunicação (TIC), baterias e veículos, embalagens, plásticos, têxteis, construção e edifícios, alimentos, água e nutrientes, devido ao seu elevado potencial de circularidade. As medidas-chave no âmbito deste Plano visam tornar os produtos sustentáveis como a norma na UE, prevenindo o desperdício, criando recursos secundários de elevada qualidade e tornando a circularidade uma mais-valia para os cidadãos, cidades e regiões (figura 3).
+Neste sentido, a União Europeia (UE) adotou, a 11 de março de 2020 (3), um novo Plano de Ação para a Economia Circular (PAEC UE), mais ambicioso e mais focado em todo o ciclo de vida dos produtos. Este Plano tem como objetivo prevenir a produção de resíduos e manter os recursos utilizados o máximo tempo possível na economia (por exemplo, combatendo a obsolescência precoce, melhorando a durabilidade e a reparabilidade dos produtos). Este 2.º Plano de Ação identifica igualmente cadeias de valor prioritárias, como as da eletrónica e tecnologias de informação e comunicação (TIC), baterias e veículos, embalagens, plásticos, têxteis, construção e edifícios, alimentos, água e nutrientes, devido ao seu elevado potencial de circularidade. As medidas-chave no âmbito deste Plano visam tornar os produtos sustentáveis como a norma na UE, prevenindo o desperdício, criando recursos secundários de elevada qualidade e tornando a circularidade uma mais-valia para os cidadãos, cidades e regiões (figura 3).
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045377.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045377.png) |
+| --- |
 
 Figura 3 - Resumo do enquadramento da UE para a economia circular.
 
@@ -422,15 +439,15 @@ No contexto do 2.º Plano de Ação da UE para a Economia Circular e tendo em vi
 
 - [Diretiva (UE) 2024/825](https://data.europa.eu/eli/dir/2024/825/oj?locale=pt) do Parlamento Europeu e do Conselho, de 28 de fevereiro de 2024, que altera as Diretivas [2005/29/CE](https://data.europa.eu/eli/dir/2005/29/oj?locale=pt) e [2011/83/UE](https://data.europa.eu/eli/dir/2011/83/oj?locale=pt) no que diz respeito à capacitação dos consumidores para a transição ecológica através de uma melhor proteção contra práticas desleais e através de melhor informação: visa assegurar que os consumidores obtenham informações adequadas sobre a durabilidade e a reparabilidade dos produtos antes de os adquirirem. Além disso, pretende-se que seja reforçada a proteção dos consumidores de alegações não fidedignas ou falsas alegações ambientais e práticas de obsolescência precoce;
 
-- Estratégia da UE em prol da Sustentabilidade e Circularidade dos Têxteis (<sup>4</sup>): que estabelece os requisitos de conceção para os produtos têxteis, tendo em vista prolongar a sua vida útil e a reparação, reutilização e reciclagem, como por exemplo sobre o teor mínimo de materiais reciclados, sendo para o efeito, proposta a aplicação da Responsabilidade Alargada do Produtor para a gestão deste fluxo. Essa informação será transmitida ao consumidor através da introdução de rótulos mais claros nos têxteis e de um passaporte digital;
+- Estratégia da UE em prol da Sustentabilidade e Circularidade dos Têxteis (4): que estabelece os requisitos de conceção para os produtos têxteis, tendo em vista prolongar a sua vida útil e a reparação, reutilização e reciclagem, como por exemplo sobre o teor mínimo de materiais reciclados, sendo para o efeito, proposta a aplicação da Responsabilidade Alargada do Produtor para a gestão deste fluxo. Essa informação será transmitida ao consumidor através da introdução de rótulos mais claros nos têxteis e de um passaporte digital;
 
-- Revisão do Regulamento dos Produtos de Construção (<sup>5</sup>), cujos principais objetivos consistem em melhorar o funcionamento do mercado interno dos produtos de construção, satisfazer as necessidades regulamentares dos Estados-Membros, introduzir requisitos para produtos de construção mais ecológicos e seguros, facilitar a disponibilização de normas harmonizadas e melhorar a informação digital sobre os produtos.
+- Revisão do Regulamento dos Produtos de Construção (5), cujos principais objetivos consistem em melhorar o funcionamento do mercado interno dos produtos de construção, satisfazer as necessidades regulamentares dos Estados-Membros, introduzir requisitos para produtos de construção mais ecológicos e seguros, facilitar a disponibilização de normas harmonizadas e melhorar a informação digital sobre os produtos.
 
 Para além destas propostas, ao longo dos anos de 2022, 2023 e 2024 foram, ainda, adotadas a nível comunitário outras iniciativas que relevam para o tema da economia circular, tais como:
 
 - [Diretiva (UE) 2024/1760](https://data.europa.eu/eli/dir/2024/1760/oj?locale=pt) do Parlamento Europeu e do Conselho, de 13 de junho de 2024, relativa ao dever de diligência das empresas em matéria de sustentabilidade e que altera a [Diretiva (UE) 2019/1937](https://data.europa.eu/eli/dir/2019/1937/oj?locale=pt) e o [Regulamento (UE) 2023/2859](https://data.europa.eu/eli/reg/2023/2859/oj?locale=pt), que fomenta a adoção de práticas empresariais de sustentabilidade na governação empresarial e nos sistemas de gestão;
 
-- «Pacote Economia Circular II», composto pela Proposta de Regulamento relativo a embalagens e resíduos de embalagens (<sup>6</sup>) e pelo Quadro Estratégico da UE sobre os plásticos de origem biológica, biodegradáveis e compostáveis (<sup>7</sup>);
+- «Pacote Economia Circular II», composto pela Proposta de Regulamento relativo a embalagens e resíduos de embalagens (6) e pelo Quadro Estratégico da UE sobre os plásticos de origem biológica, biodegradáveis e compostáveis (7);
 
 - [Regulamento (UE) 2024/1252](https://data.europa.eu/eli/reg/2024/1252/oj?locale=pt) do Parlamento Europeu e do Conselho, de 11 de abril de 2024, que estabelece um regime para garantir um aprovisionamento seguro e sustentável de matérias-primas críticas e que altera os [Regulamentos (UE) 168/2013](https://data.europa.eu/eli/reg/2013/168/oj?locale=pt), (UE) 2018/858, (UE) 2018/1724 e (UE) 2019/1020;
 
@@ -457,29 +474,39 @@ Balanço das Atividades do PAEC e dos Resultados Alcançados entre 2018 e 2020
 
 Em Portugal têm sido igualmente desenvolvidos nos últimos anos diversas estratégias, planos e programas em diferentes áreas (figura 4), que incluem medidas relacionadas com a economia circular e que, desta forma, têm potencial para contribuir para o desenvolvimento de uma estratégia nacional neste âmbito.
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045378.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045378.png) |
+| --- |
 
 Figura 4 - Sistematização das áreas de intervenção de estratégias, planos e programas nacionais, relacionados com a economia circular.
 
 Assim, o presente Plano consubstanciou-se nos instrumentos de política pública apresentados em seguida, como quadro de referência, procurando acautelar alinhamento, articulação e complementaridade entre todos:
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045379.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045379.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045380.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045380.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045381.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045381.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045382.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045382.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045383.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045383.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045384.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045384.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045385.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045385.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045386.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045386.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045387.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045387.png) |
+| --- |
 
 2 - Economia circular em Portugal:
 
@@ -487,7 +514,7 @@ Assim, o presente Plano consubstanciou-se nos instrumentos de política pública
 
 A implementação de estratégias de economia circular reflete-se em vários componentes do sistema económico, incluindo nas atividades económicas dos diferentes setores e nos resíduos produzidos. Os fluxos de bens, de serviços e financeiros através da economia definem o metabolismo socioeconómico, conceito que se baseia no paralelismo entre o sistema socioeconómico e o metabolismo de um organismo vivo.
 
-O metabolismo socioeconómico pode ser observado pela análise dos fluxos monetários e de massa, i. e., as vendas e aquisições em massa, entre os setores económicos. A figura 5 (<sup>8</sup>) ilustra os fluxos de massa entre os setores económicos portugueses na forma de diagrama de cordas, onde cada setor é representado por uma cor e as cordas entre os setores são coloridas de acordo com o setor de origem. Os anéis exteriores quantificam os pesos relativos das relações totais com os setores aos quais os materiais são adquiridos e com os setores aos quais os materiais são vendidos, do exterior para o interior, respetivamente. Os materiais que entram na economia podem ter uma de duas origens, sendo elas importações ou extração doméstica (<sup>9</sup>), representadas em diferentes tons de verde.
+O metabolismo socioeconómico pode ser observado pela análise dos fluxos monetários e de massa, i. e., as vendas e aquisições em massa, entre os setores económicos. A figura 5 (8) ilustra os fluxos de massa entre os setores económicos portugueses na forma de diagrama de cordas, onde cada setor é representado por uma cor e as cordas entre os setores são coloridas de acordo com o setor de origem. Os anéis exteriores quantificam os pesos relativos das relações totais com os setores aos quais os materiais são adquiridos e com os setores aos quais os materiais são vendidos, do exterior para o interior, respetivamente. Os materiais que entram na economia podem ter uma de duas origens, sendo elas importações ou extração doméstica (9), representadas em diferentes tons de verde.
 
 A maioria da massa que entra na economia portuguesa ocorre através de extração doméstica (74 %), em particular pelo setor da mineração (59 %). Os fluxos com origem no setor da mineração vão maioritariamente para o próprio setor, mas alimentam também os setores de outros produtos não metálicos e da construção. Relativamente aos outros produtos não metálicos, a maioria dos fluxos destina-se também ao setor da construção, ao qual são aplicados e transformados, na sua maioria, em capital fixo, i. e., edifícios e infraestruturas que não são vendidos ou terminados na sua totalidade no próprio ano e que ficarão no próprio setor como capital fixo até serem vendidos ao seu destino final.
 
@@ -497,7 +524,8 @@ Podem ser observadas outras cadeias secundárias, como a que envolve os materiai
 
 Do setor da agricultura, parte do fluxo vai diretamente para o consumo final, enquanto outra parte segue para o da alimentação, e desta para inventários do próprio setor, consumo final ou exportações.
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045388.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045388.png) |
+| --- |
 
 Figura 5 - Fluxos de massa representados de acordo com os princípios seguidos pelas tabelas input-outputeconómicas da Organização para a Cooperação e Desenvolvimento Económico (OCDE) [14].
 
@@ -507,33 +535,38 @@ Uma economia é parcialmente caracterizada pelo tipo de materiais que a sustenta
 
 Em 2023, 61,7 % dos materiais que entraram na economia portuguesa foram minerais não metálicos (95 % dos quais minerados no País), 22,4 % de biomassa (56 % desta, com proveniência nacional), 7,4 % combustíveis fósseis (totalmente importados) e 6,9 % de minerais metálicos (53 % dos quais minerados no País). Da figura 6 observa-se que a economia portuguesa extrai domesticamente mais matérias-primas associadas a qualquer material comparativamente ao que importa, à exceção dos combustíveis fósseis que são importados na sua totalidade. A extração de minerais metálicos obtida no território nacional tem, tendencialmente, vindo a diminuir. Este decréscimo está possivelmente relacionado com o decréscimo da mineração de cobre e estanho.
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045389.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045389.png) |
+| --- |
 
 Figura 6 - Importações e extração doméstica por material [15].
 
 Segundo o EUROSTAT, em Portugal, a taxa de circularidade, que mede a parcela de material recuperado e reintroduzido na economia no uso geral de materiais, é de 2,8 %, enquanto a média da UE27 é de 11,8 % (valores para 2023).
 
-O tecido empresarial português tem demonstrado interesse pela economia circular, percecionando-a como um conceito relevante que pode criar valor para as empresas e tornar-se uma oportunidade para o desenvolvimento e criação de novos modelos de negócio [16] que ultrapassem o clássico «reduzir, reutilizar e reciclar». A utilização de sistemas de certificação, como a norma ISO 14001 ou os rótulos ecológicos, e o desenvolvimento de estratégias que melhoram o desempenho ambiental das empresas contribuem, de forma decisiva, para uma economia mais circular. Complementarmente, instrumentos fiscais ou regulamentares poderão ter impacte positivo no estímulo à economia circular. A observação da evolução, desde 1995, do produto interno bruto (PIB) e da utilização direta de materiais (DMI - direct material input) (<sup>10</sup>), evidencia que o metabolismo socioeconómico português passou por várias fases. A relação entre estes dois indicadores não foi sempre a mesma, levando a que a produtividade dos recursos (<sup>11</sup>) fosse também variando, tal como ilustrado pela figura 7.
+O tecido empresarial português tem demonstrado interesse pela economia circular, percecionando-a como um conceito relevante que pode criar valor para as empresas e tornar-se uma oportunidade para o desenvolvimento e criação de novos modelos de negócio [16] que ultrapassem o clássico «reduzir, reutilizar e reciclar». A utilização de sistemas de certificação, como a norma ISO 14001 ou os rótulos ecológicos, e o desenvolvimento de estratégias que melhoram o desempenho ambiental das empresas contribuem, de forma decisiva, para uma economia mais circular. Complementarmente, instrumentos fiscais ou regulamentares poderão ter impacte positivo no estímulo à economia circular. A observação da evolução, desde 1995, do produto interno bruto (PIB) e da utilização direta de materiais (DMI - direct material input) (10), evidencia que o metabolismo socioeconómico português passou por várias fases. A relação entre estes dois indicadores não foi sempre a mesma, levando a que a produtividade dos recursos (11) fosse também variando, tal como ilustrado pela figura 7.
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045390.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045390.png) |
+| --- |
 
 Figura 7 - Evolução da utilização direta de materiais e do PIB [15, 17].
 
 Entre 1995 e 2001, a economia portuguesa encontrava-se numa trajetória de crescimento económico rápido suportada por um elevado consumo de recursos naturais. No início do século xxi registaram-se os primeiros sinais de mudança, tendo inclusive havido melhorias na produtividade dos recursos (figura 8). Contudo, após 2003, a produtividade dos recursos voltou a diminuir, atingindo um mínimo em 2008. Após aquele ano, a economia entrou em recessão e a produtividade dos recursos aumentou. A economia voltou a crescer após 2013, e apesar do consumo de recursos naturais aumentar novamente, a produtividade dos recursos estabilizou. Dados os desafios que se apresentam, é fundamental entender a relação entre o desenvolvimento económico português e os recursos que o suportam, para que se possam alcançar níveis de produtividade mais elevados, sem que se registem decréscimos económicos.
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045391.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045391.png) |
+| --- |
 
 Figura 8 - Produtividade de recursos.
 
 A figura 9 ilustra a composição relativa dos materiais que entram em cada setor económico. Os principais materiais que contribuem para a economia portuguesa são os minerais não metálicos, que integram os fluxos da cadeia de valor associada à sua mineração e da construção e ao setor dos serviços. O consumo de biomassa está essencialmente associado aos produtos da agricultura, alimentação, madeira e papel. Os minerais metálicos são essenciais para setores como a produção de metais básicos, máquinas e outros setores associados a equipamentos elétricos e eletrónicos. Os combustíveis fósseis são essencialmente utilizados pelo setor dos produtos do petróleo e do fornecimento de água, eletricidade, entre outros. O setor têxtil, a indústria química, a produção de plásticos e outra manufatura são os setores que apresentam maior diversidade nos materiais utilizados.
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045392.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045392.png) |
+| --- |
 
 Figura 9 - Tipo de materiais por setor económico, em 2017 [14].
 
 A produtividade de recursos de cada setor económico, calculada como a razão entre o valor acrescentado bruto e o consumo total de materiais apresentada na figura 10, indica o valor acrescentado criado (em €) por unidade de massa consumida e demonstra que o setor dos serviços detém a mais elevada produtividade registada (2,98 €/kg), seguido pelo setor dos têxteis (2,37 €/kg). À exceção do setor dos serviços, os setores associados à cadeia de valor com as unidades de maior valor (mineração, produção de outros produtos não metálicos e construção) têm todos produtividades significativamente baixas, entre 0,004 €/kg e 0,06 €/kg, para a mineração e construção, respetivamente. Os fluxos de massa associados ao setor dos têxteis são relativamente baixos, como se pode observar na figura 5. Contudo, os valores que suportam a figura mostram que os principais inputs do setor têm origem em importações (41 %), organizações do próprio setor (21 %) e construção (14 %). Já os outputs do setor são sobretudo exportados (28 %), vendidos a organizações do próprio setor (21 %) ou ao consumidor final nacional (18 %).
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045393.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045393.png) |
+| --- |
 
 Figura 10 - Produtividade dos recursos nos diferentes setores económicos, em 2017 [14].
 
@@ -541,7 +574,8 @@ Os setores económicos associados ao consumo de biomassa (agricultura, alimenta�
 
 A contribuição relativa de cada setor para o PIB é apresentada na figura 11. O setor dos serviços é o setor que mais contribui para o PIB português (76 %) e faz parte da cadeia de valor do setor da construção, que é o segundo setor que mais contribui para o PIB (4 %). Por outro lado, estes setores estão associados a uma cadeia de valor com um consumo significativo de minerais não metálicos, que são processados por setores de baixa produtividade de recursos, antes de serem vendidos ao setor dos serviços. Os outros setores que mais contribuem para o PIB são os setores da alimentação (3 %) e o dos têxteis (2 %), além do setor do fornecimento de água e eletricidade e da recolha de resíduos, que contribuem conjuntamente para 3 % do PIB. Em Portugal, as cadeias de valor associadas ao maior consumo de materiais são as relativas aos setores da mineração, outros produtos não metálicos e construção. Por um lado, os setores primários e secundários desta cadeia de valor têm dos valores mais baixos de produtividade de recursos, por outro lado, suportam a atividade do setor dos serviços que tem a maior produtividade de recursos e contribuição para o PIB. A segunda maior cadeia de valor, em termos de consumo de materiais, está associada ao setor da agricultura e ao consumo de biomassa. Estes setores têm baixa produtividade de recursos, ainda que superior à construção ou mineração, e baixas contribuições para o PIB. Os têxteis têm uma produtividade relativamente alta e uma cadeia de valor que depende mais de importações do que de extração doméstica. A extração doméstica de minerais metálicos tem vindo a diminuir e os setores associados ao consumo de metais têm produtividades de recursos variáveis.
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045394.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045394.png) |
+| --- |
 
 Figura 11 - Contribuição dos diferentes setores económicos para o PIB, em 2017 [18].
 
@@ -588,7 +622,8 @@ AI4: Sociedade: contributo da economia circular para a sociedade, através de di
 
 São vários os desafios atuais que poderão beneficiar da concretização de uma economia circular, nomeadamente, o combate às alterações climáticas, a travagem do declínio da biodiversidade e a melhoria da saúde e da qualidade de vida das populações.
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045395.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045395.png) |
+| --- |
 
 Figura 12 - Dimensões de ação e áreas de impacte principais do PAEC 2030.
 
@@ -598,7 +633,7 @@ Este enquadramento serviu de base à formulação das ações propostas no prese
 
 A aceleração para um novo modelo económico circular exige uma abordagem sistémica e transversal a vários componentes da sociedade, necessariamente prolongada no tempo. O presente Plano de Ação resulta da aplicação de uma metodologia de trabalho em várias fases, desenvolvida inicialmente pelo Instituto Superior Técnico.
 
-Em primeiro lugar foi analisado o balanço da execução das ações propostas no PAEC 2017-2020, acompanhado de um levantamento do desempenho de Portugal relativamente aos indicadores de economia circular do Eurostat (<sup>12</sup>). Posteriormente, foi realizada uma revisão da literatura científica e técnica sobre economia circular, de modo a identificar forças motrizes e barreiras à circularidade, indicadores de avaliação de circularidade numa perspetiva dos três pilares da sustentabilidade e ações que devem ser consideradas na aceleração da transição.
+Em primeiro lugar foi analisado o balanço da execução das ações propostas no PAEC 2017-2020, acompanhado de um levantamento do desempenho de Portugal relativamente aos indicadores de economia circular do Eurostat (12). Posteriormente, foi realizada uma revisão da literatura científica e técnica sobre economia circular, de modo a identificar forças motrizes e barreiras à circularidade, indicadores de avaliação de circularidade numa perspetiva dos três pilares da sustentabilidade e ações que devem ser consideradas na aceleração da transição.
 
 Foi também realizado um benchmarking de outros planos de economia circular, dos quais foram retirados exemplos de boas práticas que inspiraram a definição de algumas das ações e orientações contidas no presente Plano de Ação.
 
@@ -608,13 +643,15 @@ Todos os conteúdos e propostas deste Plano surgiram da contribuição de vário
 
 Por fim, foi realizada uma análise multicritério com um grupo de decisores, de modo a priorizar as cadeias de valor, onde a aceleração para a economia circular é mais premente em Portugal. A figura 13 resume a metodologia utilizada, assim como a arquitetura proposta para o presente Plano de Ação.
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045396.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045396.png) |
+| --- |
 
 Figura 13 - Metodologia de elaboração e arquitetura do PAEC 2030.
 
 Partindo dos princípios gerais da economia circular, foram identificados os princípios de base, que serviram de pilares para a elaboração do presente Plano. Estes foram traduzidos na visão do PAEC 2030, que se materializa num conjunto de cinco objetivos estratégicos que se pretendem alcançar no final da implementação do ciclo de ações do presente Plano (subcapítulo 4.1). Estes objetivos foram refletidos em ações macro (subcapítulo 4.2) para as várias dimensões de ação, ações meso (subcapítulo 4.3.) com recomendações específicas para as cadeias de valor identificadas como prioritárias e ações micro com recomendações a nível regional/local (subcapítulo 4.4). As diferentes ações relacionam-se entre si, desde as recomendações mais gerais até às mais específicas, seguindo o esquema apresentado na figura 14:
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045397.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045397.png) |
+| --- |
 
 Figura 14 - Relação entre as ações do PAEC 2030.
 
@@ -628,9 +665,11 @@ Figura 14 - Relação entre as ações do PAEC 2030.
 
 As ações preconizadas são apresentadas no formato ilustrado que se segue.
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045398.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045398.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045399.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045399.png) |
+| --- |
 
 O Modelo de Governança é apresentado de modo a garantir a concretização do Plano (capítulo 5), sendo também apresentadas possíveis fontes de financiamento para a economia circular (capítulo 6) e um plano de monitorização do impacte das ações do Plano (capítulo 7).
 
@@ -674,11 +713,12 @@ Estes princípios só serão passíveis de ser materializados se forem assumidos
 
 - Rastreabilidade de recursos (responsabilidade e transparência): para alcançar os princípios-chave é necessário rastrear os fluxos de recursos, o que deve ser feito de forma transparente, normalizada e responsável;
 
-- Colaboração e inclusão: as organizações devem colaborar ao longo da cadeia de valor e entre cadeias de valor, sendo crucial o envolvimento de todas as partes interessadas, considerando diferentes perspetivas e interesses, de forma inclusiva, para garantir que ninguém seja deixado fora do processo de transição, e salvaguardando o cumprimento das regras de concorrência, em especial tendo em conta as Orientações da Comissão Europeia de 2023 (<sup>13</sup>).
+- Colaboração e inclusão: as organizações devem colaborar ao longo da cadeia de valor e entre cadeias de valor, sendo crucial o envolvimento de todas as partes interessadas, considerando diferentes perspetivas e interesses, de forma inclusiva, para garantir que ninguém seja deixado fora do processo de transição, e salvaguardando o cumprimento das regras de concorrência, em especial tendo em conta as Orientações da Comissão Europeia de 2023 (13).
 
 É importante operacionalizar os princípios por meio de estratégias concretas que as organizações e a sociedade possam aplicar. A figura seguinte apresenta um conjunto de estratégias passíveis de serem adotadas, distribuídas por momentos de intervenção, designadamente antes, durante e após o uso do produto/serviço [28]. As ações direcionadas para o momento «anterior ao uso» visam satisfazer as necessidades humanas com menos recursos naturais e menos impactes no ambiente. As ações a aplicar «durante o uso» têm por objetivo prolongar a vida útil dos produtos, mantendo a sua funcionalidade durante o maior tempo possível. Quando os produtos atingem o fim da sua vida útil, as ações «após o uso» visam evitar a perda ou destruição dos materiais e fomentar a sua reintrodução no ciclo de produção.
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045400.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045400.png) |
+| --- |
 
 Figura 15 - Estratégias circulares e princípios subjacentes (adaptado de [28 e 29]).
 
@@ -690,117 +730,169 @@ Visão PAEC 2030:
 
 A visão do PAEC 2030 só será alcançada se forem cumpridos os cinco objetivos estratégicos que abrangem as quatro áreas de impacte do mapa conceptual (figura 12).
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045401.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045401.png) |
+| --- |
 
 4.2 - Ações macro:
 
 As ações macro abrangem as sete dimensões do mapa conceptual, e contemplam 41 ações, conforme ilustrado na figura 16.
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045402.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045402.png) |
+| --- |
 
 Figura 16 - Sistematização das dimensões de ação e sua relação com as ações macro do Plano.
 
 As ações concretas relativas a cada dimensão são apresentadas e descritas a seguir.
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045403.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045403.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045404.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045404.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045405.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045405.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045406.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045406.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045407.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045407.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045408.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045408.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045409.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045409.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045410.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045410.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045411.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045411.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045412.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045412.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045413.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045413.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045414.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045414.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045415.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045415.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045416.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045416.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045417.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045417.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045418.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045418.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045419.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045419.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045420.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045420.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045421.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045421.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045422.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045422.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045423.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045423.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045424.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045424.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045425.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045425.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045426.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045426.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045427.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045427.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045428.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045428.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045429.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045429.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045430.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045430.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045431.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045431.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045432.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045432.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045433.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045433.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045434.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045434.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045435.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045435.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045436.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045436.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045437.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045437.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045438.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045438.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045439.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045439.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045440.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045440.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045441.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045441.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045442.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045442.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045443.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045443.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045444.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045444.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045445.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045445.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045446.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045446.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045447.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045447.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045448.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045448.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045449.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045449.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045450.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045450.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045451.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045451.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045452.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045452.png) |
+| --- |
 
 4.3 - Ações meso:
 
@@ -810,7 +902,8 @@ No contexto do PAEC 2030, as cadeias de valor/setores considerados foram pondera
 
 Assim, as seguintes cadeias de valor/setores revestem carácter prioritário, para efeitos do PAEC 2030:
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045453.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045453.png) |
+| --- |
 
 Figura 17 - Cadeias de valor/setores prioritários.
 
@@ -824,83 +917,120 @@ iii) Foram ainda incluídos os setores da distribuição e retalho e do turismo,
 
 As ações meso do presente Plano incidem sobre os setores/cadeias de valor identificados.
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045454.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045454.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045455.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045455.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045456.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045456.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045457.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045457.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045458.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045458.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045459.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045459.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045460.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045460.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045461.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045461.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045462.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045462.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045463.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045463.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045464.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045464.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045465.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045465.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045466.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045466.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045467.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045467.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045468.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045468.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045469.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045469.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045470.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045470.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045471.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045471.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045472.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045472.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045473.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045473.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045474.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045474.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045475.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045475.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045476.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045476.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045477.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045477.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045478.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045478.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045479.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045479.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045480.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045480.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045481.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045481.png) |
+| --- |
 
 4.4 - Ações micro:
 
 O PAEC 2030 visa também estimular estratégias circulares ao nível regional e local, com o objetivo de criar territórios circulares, autossuficientes e sustentáveis, com foco nas cidades. Ao nível «micro» - ou seja, regional e local - já existem diversas iniciativas para fomentar e implementar estratégias circulares. Além das autarquias, há muitas entidades envolvidas, entre elas as Comissões de Coordenação e Desenvolvimento Regional e as entidades intermunicipais que colaboram no desenvolvimento e implementação das Agendas Regionais para a Economia Circular. O objetivo, a este nível, é impulsionar iniciativas e capacitar entidades para ir mais longe e alcançar impactes estruturais. Ao nível de instrumentos de política pública, os Programas Regionais apresentam, para cada região, de acordo com o objetivo específico de «Promover a transição para uma economia circular e eficiente na utilização dos recursos», um conjunto de respostas estratégicas. Para além destes programas, o Programa Nacional da Política de Ordenamento do Território definiu «Organizar o território para a economia circular» como uma das 12 medidas definidas para o domínio económico.
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045482.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045482.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045483.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045483.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045484.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045484.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045485.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045485.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045486.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045486.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045487.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045487.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045488.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045488.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045489.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045489.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045490.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045490.png) |
+| --- |
 
 5 - Modelo de Governança:
 
@@ -910,7 +1040,8 @@ O Modelo de Governança apresentado assegura, através das estruturas constituin
 
 O Modelo de Governança do PAEC 2030 assenta em duas estruturas funcionais (figura 18): uma de natureza estratégica, o Comité Coordenador (CC), e uma de natureza operacional, Comissão Técnica de Acompanhamento e Análise para o Financiamento (CTAAF).
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045491.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045491.png) |
+| --- |
 
 Figura 18 - Modelo de Governação do PAEC 2030.
 
@@ -924,7 +1055,7 @@ Tabela 2 - Entidades coordenadoras das ações do PAEC 2030
 | --- | --- |
 | Agência para a Competitividade e Inovação, I. P. | IAPMEI |
 | Agência para a Energia | ADENE |
-| Agência para a Investigação e Inovação, E. P. E. | AI<sup>2</sup> |
+| Agência para a Investigação e Inovação, E. P. E. | AI2 |
 | Agência para o Clima | ApC |
 | Agência Portuguesa do Ambiente, I. P. | APA |
 | Autoridade Tributária e Aduaneira | AT |
@@ -936,7 +1067,7 @@ Tabela 2 - Entidades coordenadoras das ações do PAEC 2030
 | Direção-Geral de Energia e Geologia | DGEG |
 | Direção-Geral do Território | DGT |
 | Entidade de Serviços Partilhados da Administração Pública, I. P. | eSPap |
-| Entidades gestoras do Sistema Integrado de Gestão de Resíduos de Equipamentos Elétricos e Eletrónicos \\| SIGREEE |  |
+| Entidades gestoras do Sistema Integrado de Gestão de Resíduos de Equipamentos Elétricos e Eletrónicos \| SIGREEE |  |
 | Entidade Reguladora dos Serviços de Águas e Resíduos | ERSAR |
 | Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais | GPEARI |
 | Gabinete de Planeamento, Políticas e Administração Geral | GPP |
@@ -1011,7 +1142,7 @@ O Plano de Recuperação e Resiliência (PRR) visa a implementação de um conju
 
 Neste âmbito relevam especificamente as intervenções previstas no Programa Temático para a Ação Climática e Sustentabilidade - Sustentável 2030 e nos Programas Regionais, enquadradas no objetivo «Promover a transição para uma economia circular e eficiente na utilização dos recursos».
 
-A nível nacional é de referenciar o papel do FA, que presta apoio a políticas ambientais e de ação climática para a prossecução dos objetivos do desenvolvimento sustentável, contribuindo para o cumprimento dos objetivos e compromissos nacionais e internacionais. O FA concentra os recursos de vários fundos que outrora se encontravam dispersos (<sup>15</sup>) e pode estabelecer mecanismos de articulação com outras entidades públicas e privadas, designadamente com outros fundos públicos ou privados nacionais, europeus ou internacionais.
+A nível nacional é de referenciar o papel do FA, que presta apoio a políticas ambientais e de ação climática para a prossecução dos objetivos do desenvolvimento sustentável, contribuindo para o cumprimento dos objetivos e compromissos nacionais e internacionais. O FA concentra os recursos de vários fundos que outrora se encontravam dispersos (15) e pode estabelecer mecanismos de articulação com outras entidades públicas e privadas, designadamente com outros fundos públicos ou privados nacionais, europeus ou internacionais.
 
 Criado através do [Decreto-Lei n.º 86-C/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-c-2016-105658706), de 29 de dezembro, o FITEC tem por missão apoiar políticas de valorização do conhecimento científico e tecnológico e a sua transformação em inovação, permitindo estimular a cooperação entre instituições de ensino superior, Centros de Tecnologia e Inovação (CTI) e o tecido empresarial, bem como a capacitação destas instituições para um uso mais eficiente dos recursos, nomeadamente através da eficiência material e energética.
 
@@ -1021,7 +1152,8 @@ Existem ainda outras fontes de financiamento complementares, como a Plataforma P
 
 A figura 19 apresenta, de forma não exaustiva, as fontes de financiamento acima referidas.
 
-![](https://files.diariodarepublica.pt/images/1075988790/1076045492.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075988790/1076045492.png) |
+| --- |
 
 Nota. - Os valores indicados respeitam à totalidade da verba dos Programas e Fundos referenciados e não às verbas afetas especificamente à economia circular.
 
@@ -1029,38 +1161,38 @@ Figura 19 - Principais oportunidades de financiamento.
 
 7 - Monitorização:
 
-A monitorização adequada do Plano e do resultado da sua implementação é fundamental para o sucesso da aceleração da economia circular em Portugal. Os indicadores propostos estão alinhados com os constantes no quadro de acompanhamento revisto para a economia circular, da UE (<sup>16</sup>), que visa proporcionar uma visão global, medindo os benefícios diretos e indiretos do aumento da circularidade. Na tabela 4 são apresentados os indicadores gerais que recorrem a fontes estatísticas oficiais disponíveis (INE, INPI e Eurostat) para monitorização do Plano. A informação que suporta a monitorização do Plano deverá, tanto quanto possível, ser desagregada geograficamente.
+A monitorização adequada do Plano e do resultado da sua implementação é fundamental para o sucesso da aceleração da economia circular em Portugal. Os indicadores propostos estão alinhados com os constantes no quadro de acompanhamento revisto para a economia circular, da UE (16), que visa proporcionar uma visão global, medindo os benefícios diretos e indiretos do aumento da circularidade. Na tabela 4 são apresentados os indicadores gerais que recorrem a fontes estatísticas oficiais disponíveis (INE, INPI e Eurostat) para monitorização do Plano. A informação que suporta a monitorização do Plano deverá, tanto quanto possível, ser desagregada geograficamente.
 
 Tabela 4 - Indicadores gerais para monitorização do PAEC 2030
 
-| Áreas de impacte | Objetivos estratégicos | Indicadores | Valor de referência (ano) (<sup>17</sup>) | Fonte |
+| Áreas de impacte | Objetivos estratégicos | Indicadores | Valor de referência (ano) (17) | Fonte |
 | --- | --- | --- | --- | --- |
 | Recursos | Evitar a sobre-exploração de recursos, preservando o capital natural | IG.1. Produtividade de recursos (milhões €/t) | 1,30 (2022) | INE |
-| Recursos | Evitar a sobre-exploração de recursos, preservando o capital natural | IG.2. Consumo interno de materiais (t) | 162 707 703 (2022) | INE |
-| Recursos | Evitar a sobre-exploração de recursos, preservando o capital natural | IG.3. Entrada direta de materiais (t) | 204 358 501 (2022) | INE |
-| Recursos | Evitar a sobre-exploração de recursos, preservando o capital natural | IG.4. Pegada material (t per capita) | 16,94 (2022) | Eurostat |
-| Recursos | Evitar a sobre-exploração de recursos, preservando o capital natural | IG.5. Taxa de utilização circular de materiais (% da utilização total de materiais) | 2,6 (2022) | Eurostat |
-| Ambiente | Prevenir e reduzir a produção de resíduos e acautelar a sua correta gestão | IG.6. Geração de resíduos por habitante (kg per capita) (<sup>18</sup>) | 1 612 (2020) | Eurostat |
-|  | Prevenir e reduzir a produção de resíduos e acautelar a sua correta gestão | IG.7. Geração de resíduos urbanos por habitante (kg per capita) (<sup>19</sup>) | 509 (2022) | INE |
-|  | Prevenir e reduzir a produção de resíduos e acautelar a sua correta gestão | IG.8. Resíduos alimentares (kg per capita e t) (<sup>20</sup>) | 180 (2021) | INE |
-|  | Prevenir e reduzir a produção de resíduos e acautelar a sua correta gestão | IG.9. Geração de resíduos de embalagens por habitante (kg per capita) | 176,54 (2021) | Eurostat |
-|  | Prevenir e reduzir a produção de resíduos e acautelar a sua correta gestão | IG.10. Geração de resíduos de embalagens de plástico por habitante (kg per capita) | 41,32 (2021) | Eurostat |
-|  | Prevenir e reduzir a produção de resíduos e acautelar a sua correta gestão | IG.11. Geração total de resíduos excluindo grandes resíduos minerais por unidade do PIB (kg/€) | 78 (2020) | Eurostat |
-|  | Prevenir e reduzir a produção de resíduos e acautelar a sua correta gestão | IG.12. Taxa de reciclagem da globalidade dos resíduos, exceto os principais resíduos minerais (%) | 39 (2020) | Eurostat |
-|  | Prevenir e reduzir a produção de resíduos e acautelar a sua correta gestão | IG.13. Taxa de reciclagem de resíduos urbanos (%) | 30,4 (2021) | Eurostat |
-|  | Prevenir e reduzir a produção de resíduos e acautelar a sua correta gestão | IG.14. Taxa de reciclagem da globalidade dos resíduos de embalagens (%) | 63,1 (2021) | Eurostat |
-|  | Prevenir e reduzir a produção de resíduos e acautelar a sua correta gestão | IG.15. Taxa de reciclagem de resíduos de embalagens de plástico (%) | 38,1 (2021) | Eurostat |
-|  | Prevenir e reduzir a produção de resíduos e acautelar a sua correta gestão | IG.16. Taxa de reciclagem de resíduos de equipamentos elétricos e eletrónicos recolhidos seletivamente (%) | 51,7 (2021) | Eurostat |
-|  | Prevenir e reduzir a produção de resíduos e acautelar a sua correta gestão | IG.17. Taxa de valorização de resíduos da construção e demolição (%) | 97,40 (2022) | INE |
+| IG.2. Consumo interno de materiais (t) | 162 707 703 (2022) | INE |  |  |
+| IG.3. Entrada direta de materiais (t) | 204 358 501 (2022) | INE |  |  |
+| IG.4. Pegada material (t per capita) | 16,94 (2022) | Eurostat |  |  |
+| IG.5. Taxa de utilização circular de materiais (% da utilização total de materiais) | 2,6 (2022) | Eurostat |  |  |
+| Ambiente | Prevenir e reduzir a produção de resíduos e acautelar a sua correta gestão | IG.6. Geração de resíduos por habitante (kg per capita) (18) | 1 612 (2020) | Eurostat |
+|  | IG.7. Geração de resíduos urbanos por habitante (kg per capita) (19) | 509 (2022) | INE |  |
+|  | IG.8. Resíduos alimentares (kg per capita e t) (20) | 180 (2021) | INE |  |
+|  | IG.9. Geração de resíduos de embalagens por habitante (kg per capita) | 176,54 (2021) | Eurostat |  |
+|  | IG.10. Geração de resíduos de embalagens de plástico por habitante (kg per capita) | 41,32 (2021) | Eurostat |  |
+|  | IG.11. Geração total de resíduos excluindo grandes resíduos minerais por unidade do PIB (kg/€) | 78 (2020) | Eurostat |  |
+|  | IG.12. Taxa de reciclagem da globalidade dos resíduos, exceto os principais resíduos minerais (%) | 39 (2020) | Eurostat |  |
+|  | IG.13. Taxa de reciclagem de resíduos urbanos (%) | 30,4 (2021) | Eurostat |  |
+|  | IG.14. Taxa de reciclagem da globalidade dos resíduos de embalagens (%) | 63,1 (2021) | Eurostat |  |
+|  | IG.15. Taxa de reciclagem de resíduos de embalagens de plástico (%) | 38,1 (2021) | Eurostat |  |
+|  | IG.16. Taxa de reciclagem de resíduos de equipamentos elétricos e eletrónicos recolhidos seletivamente (%) | 51,7 (2021) | Eurostat |  |
+|  | IG.17. Taxa de valorização de resíduos da construção e demolição (%) | 97,40 (2022) | INE |  |
 |  | Prevenir a poluição e regenerar ecossistemas | IG.18. Pegada de consumo (índice 2010 = 100) | 118 (2022) | Eurostat |
-|  | Prevenir a poluição e regenerar ecossistemas | IG.19. Emissões de gases com efeito de estufa provenientes de atividades de produção (kg per capita) | 4 882,4 (2022) | Eurostat |
-|  | Prevenir a poluição e regenerar ecossistemas | IG.20. Emissão de CO<sub>2</sub> por unidade de valor acrescentado (kg CO<sub>2</sub>/€) | 0,265 (2020) | INE |
+|  | IG.19. Emissões de gases com efeito de estufa provenientes de atividades de produção (kg per capita) | 4 882,4 (2022) | Eurostat |  |
+|  | IG.20. Emissão de CO2 por unidade de valor acrescentado (kg CO2/€) | 0,265 (2020) | INE |  |
 | Economia | Criar oportunidades e benefícios socioeconómicos | IG.21. Formação bruta de capital fixo a preços correntes dos setores relacionados com a economia circular (% do PIB) | 19,4 (2023) | Eurostat |
-| Economia | Criar oportunidades e benefícios socioeconómicos | IG.22. Investimentos privados dos setores relacionados com a economia circular (% do PIB) | 0,8 (2021) | Eurostat |
-| Economia | Criar oportunidades e benefícios socioeconómicos | IG.23. Valor acrescentado bruto dos setores relacionados com a economia circular (% do PIB) | 1,5 (2021) | Eurostat |
-| Economia | Criar oportunidades e benefícios socioeconómicos | IG.24. Patentes relacionadas com o ambiente (green patents) (total e n.º/milhão de habitantes) | 5 (2023) | INPI |
-| Economia | Criar oportunidades e benefícios socioeconómicos | IG.25. Patentes relacionadas com a gestão de resíduos e a reciclagem (n.º e n.º/milhão de habitantes) | 5,4 (2020) | Eurostat |
-| Sociedade | Criar oportunidades e benefícios socioeconómicos | IG.26. Pessoas contratadas dos setores relacionados com a economia circular (% do emprego total) | 1,8 (2021) | Eurostat |
+| IG.22. Investimentos privados dos setores relacionados com a economia circular (% do PIB) | 0,8 (2021) | Eurostat |  |  |
+| IG.23. Valor acrescentado bruto dos setores relacionados com a economia circular (% do PIB) | 1,5 (2021) | Eurostat |  |  |
+| IG.24. Patentes relacionadas com o ambiente (green patents) (total e n.º/milhão de habitantes) | 5 (2023) | INPI |  |  |
+| IG.25. Patentes relacionadas com a gestão de resíduos e a reciclagem (n.º e n.º/milhão de habitantes) | 5,4 (2020) | Eurostat |  |  |
+| Sociedade | IG.26. Pessoas contratadas dos setores relacionados com a economia circular (% do emprego total) | 1,8 (2021) | Eurostat |  |
 
 Notar que os indicadores da tabela 4 poderão ser atualizados à luz de desenvolvimentos nas fontes referenciadas.
 
@@ -1077,9 +1209,9 @@ D1. Instrumentos de Política para a Circularidade
 | D1.1 | Avaliar mecanismos de incentivo para produtos circulares | Propostas apresentadas (n.º) | AT |
 | D1.2 | Estudar a criação de mecanismos de incentivo à reutilização de bens e à utilização de serviços de reparação | Propostas apresentadas (n.º) | AT |
 | D1.3 | Incentivar a redução do consumo e a reutilização de produtos, bem como a utilização de materiais reciclados em alternativa à extração de matérias-primas | Grau de desenvolvimento do estudo (Não iniciado/Em desenvolvimento/Finalizado) | APA |
-| D1.4 | Promover e/ou reforçar incentivos às empresas que invistam em I&D no âmbito da economia circular | Grau de desenvolvimento do estudo (Não iniciado/Em desenvolvimento/Finalizado) | AI<sup>2</sup> |
+| D1.4 | Promover e/ou reforçar incentivos às empresas que invistam em I&D no âmbito da economia circular | Grau de desenvolvimento do estudo (Não iniciado/Em desenvolvimento/Finalizado) | AI2 |
 | D1.5 | Identificar e tendencialmente eliminar ou adaptar incentivos financeiros ou fiscais potencialmente desfavoráveis aos princípios da economia circular | Incentivos desfavoráveis detetados (n.º) | DGE |
-| D1.5 | Identificar e tendencialmente eliminar ou adaptar incentivos financeiros ou fiscais potencialmente desfavoráveis aos princípios da economia circular | Áreas governativas consultadas (n.º) | DGE |
+| Áreas governativas consultadas (n.º) |  |  |  |
 | D1.6 | Promover critérios de circularidade no contexto das Compras Públicas Ecológicas | Guias técnicos publicados e/ou alterados (n.º) | eSPap, APA |
 
 D2. Financiamento para uma Transição para a Economia Circular
@@ -1087,22 +1219,22 @@ D2. Financiamento para uma Transição para a Economia Circular
 | Ação | Descrição | Indicadores | Entidades responsáveis pela monitorização |
 | --- | --- | --- | --- |
 | D2.1 | Avaliar a criação de mecanismos de apoio financeiro público para PME | Linha de financiamento criada (Sim/Não) | ApC, BPF |
-| D2.1 | Avaliar a criação de mecanismos de apoio financeiro público para PME | Financiamento disponibilizado (€) | ApC, BPF |
-| D2.1 | Avaliar a criação de mecanismos de apoio financeiro público para PME | Empresas que recorrem ao financiamento (n.º) | ApC, BPF |
+| Financiamento disponibilizado (€) |  |  |  |
+| Empresas que recorrem ao financiamento (n.º) |  |  |  |
 | D2.2 | Estimular parcerias com instituições financeiras privadas para o financiamento de PME | Parcerias constituídas (n.º) | BPF |
-| D2.2 | Estimular parcerias com instituições financeiras privadas para o financiamento de PME | Linhas de financiamento criadas (n.º) | BPF |
-| D2.2 | Estimular parcerias com instituições financeiras privadas para o financiamento de PME | Financiamento disponibilizado (€) | BPF |
-| D2.2 | Estimular parcerias com instituições financeiras privadas para o financiamento de PME | Empresas que recorrem ao financiamento (n.º) | BPF |
+| Linhas de financiamento criadas (n.º) |  |  |  |
+| Financiamento disponibilizado (€) |  |  |  |
+| Empresas que recorrem ao financiamento (n.º) |  |  |  |
 | D2.3 | Avaliar a criação de mecanismos de apoio financeiro específicos para conversão de linhas de produção e qualificação de mão-de-obra, visando a eficiência de recursos | Linhas de financiamento criadas (n.º) | BPF |
-| D2.3 | Avaliar a criação de mecanismos de apoio financeiro específicos para conversão de linhas de produção e qualificação de mão-de-obra, visando a eficiência de recursos | Financiamento disponibilizado (€) | BPF |
-| D2.3 | Avaliar a criação de mecanismos de apoio financeiro específicos para conversão de linhas de produção e qualificação de mão-de-obra, visando a eficiência de recursos | Empresas que recorrem ao financiamento (n.º) | BPF |
-| D2.4 | Equacionar um novo ciclo do Fundo de Inovação, Tecnologia e Economia Circular (FITEC) na componente de intervenções para a economia circular | Grau de desenvolvimento da análise (Não iniciada/Em desenvolvimento/Finalizada) | AI<sup>2</sup> |
+| Financiamento disponibilizado (€) |  |  |  |
+| Empresas que recorrem ao financiamento (n.º) |  |  |  |
+| D2.4 | Equacionar um novo ciclo do Fundo de Inovação, Tecnologia e Economia Circular (FITEC) na componente de intervenções para a economia circular | Grau de desenvolvimento da análise (Não iniciada/Em desenvolvimento/Finalizada) | AI2 |
 | D2.5 | Avaliar a continuidade do Vale Economia Circular | Grau de desenvolvimento (Balanço realizado/Estratégia definida/Estratégia implementada) | IAPMEI |
 | D2.6 | Avaliar a possibilidade de apoiar financeiramente a aplicação do Regulamento para a Conceção Ecológica dos Produtos Sustentáveis (Regulamento Ecodesign) | Apoios concedidos (n.º) | IAPMEI |
-| D2.6 | Avaliar a possibilidade de apoiar financeiramente a aplicação do Regulamento para a Conceção Ecológica dos Produtos Sustentáveis (Regulamento Ecodesign) | Financiamento disponibilizado (€) | IAPMEI |
-| D2.6 | Avaliar a possibilidade de apoiar financeiramente a aplicação do Regulamento para a Conceção Ecológica dos Produtos Sustentáveis (Regulamento Ecodesign) | Empresas que recorrem ao financiamento (n.º) | IAPMEI |
+| Financiamento disponibilizado (€) |  |  |  |
+| Empresas que recorrem ao financiamento (n.º) |  |  |  |
 | D2.7 | Rever o Programa Nacional de Investimentos 2030, de modo a considerar as ações do PAEC 2030 | Revisão do PNI 2030 (Sim/Não) | SGGOV |
-| D2.7 | Rever o Programa Nacional de Investimentos 2030, de modo a considerar as ações do PAEC 2030 | Ações do PAEC 2030 consideradas na revisão do PNI 2030 (n.º) | SGGOV |
+| Ações do PAEC 2030 consideradas na revisão do PNI 2030 (n.º) |  |  |  |
 | D2.8 | Divulgar linhas de financiamento disponíveis para a economia circular | Ações de divulgação realizadas (n.º) | APA |
 
 D3. Educação, Formação e Sensibilização para uma Economia Circular
@@ -1112,43 +1244,43 @@ D3. Educação, Formação e Sensibilização para uma Economia Circular
 | D3.1 | Reforçar os curricula escolares dos ensinos básico e secundário na componente da economia circular | Propostas de reestruturação dos planos curriculares (n.º) | EduQA |
 | D3.2 | Reforçar a oferta formativa em economia circular no ensino superior | Propostas de reestruturação dos planos curriculares (n.º) | IES |
 | D3.3 | Formar e qualificar recursos humanos em economia circular | Ações de formação que integram unidades de competência e ou unidades de formação relativas ao tema da economia circular (n.º) | EduQA, INA |
-| D3.3 | Formar e qualificar recursos humanos em economia circular | Integração de unidades de competência e ou unidades de formação do Catálogo Nacional de Qualificações relativas ao tema da economia circular (n.º) | EduQA, INA |
+| Integração de unidades de competência e ou unidades de formação do Catálogo Nacional de Qualificações relativas ao tema da economia circular (n.º) |  |  |  |
 | D3.4 | Desenvolver e divulgar manuais de boas práticas em economia circular | Manuais divulgados (n.º) | APA, DGE |
 | D3.5 | Criar campanhas de educação, sensibilização e comunicação para uma economia circular | Campanhas de educação e sensibilização realizadas (n.º) | APA |
 | D3.6 | Fomentar uma cultura empreendedora de negócios circulares | Concursos nacionais de ideias de negócio lançados (n.º) | IAPMEI |
-| D3.6 | Fomentar uma cultura empreendedora de negócios circulares | Programas de incubação e aceleração realizados (n.º) | IAPMEI |
+| Programas de incubação e aceleração realizados (n.º) |  |  |  |
 
 D4. Tecnologia, Investigação e Inovação ao Serviço da Circularidade
 
 | Ação | Descrição | Indicadores | Entidades responsáveis pela monitorização |
 | --- | --- | --- | --- |
 | D4.1 | Desenvolver uma plataforma de monitorização e reporte do PAEC 2030 | Grau de desenvolvimento da plataforma (Não iniciado/Em desenvolvimento/Finalizado) | APA, DGE |
-| D4.2 | Reforçar as áreas de I&D&I tecnológica para a aceleração da economia circular | Projetos apoiados de I&D&I tecnológica na área da economia circular (n.º) | AI<sup>2</sup> |
+| D4.2 | Reforçar as áreas de I&D&I tecnológica para a aceleração da economia circular | Projetos apoiados de I&D&I tecnológica na área da economia circular (n.º) | AI2 |
 | D4.3 | Promover a disponibilização de conteúdos que fomentem a aceleração da circularidade para apoio a empresas | Grau de desenvolvimento da plataforma (Não iniciado/Em desenvolvimento/Finalizado) | IAPMEI |
 | D4.4 | Potenciar o Portal ECO.NOMIA | Conteúdos adicionados ou alterados (n.º) | APA, DGE |
-| D4.4 | Potenciar o Portal ECO.NOMIA | Grau de desenvolvimento da aplicação (Não iniciado/Em desenvolvimento/Finalizado) | APA, DGE |
+| Grau de desenvolvimento da aplicação (Não iniciado/Em desenvolvimento/Finalizado) |  |  |  |
 
 D5. Circularidade nas Organizações
 
 | Ação | Descrição | Indicadores | Entidades responsáveis pela monitorização |
 | --- | --- | --- | --- |
-| D5.1 | Fomentar a integração da circularidade nas estratégias empresariais e divulgar entidades que apoiam a transição circular nas empresas | Ações de divulgação de entidades que podem apoiar empresas na implementação de projetos circulares (n.º) | IAPMEI, AI<sup>2</sup> |
-| D5.1 | Fomentar a integração da circularidade nas estratégias empresariais e divulgar entidades que apoiam a transição circular nas empresas | Colaborações estabelecidas entre empresas e entidades (n.º) | IAPMEI, AI<sup>2</sup> |
-| D5.1 | Fomentar a integração da circularidade nas estratégias empresariais e divulgar entidades que apoiam a transição circular nas empresas | Ações de divulgação de diretrizes (n.º) | IAPMEI, AI<sup>2</sup> |
+| D5.1 | Fomentar a integração da circularidade nas estratégias empresariais e divulgar entidades que apoiam a transição circular nas empresas | Ações de divulgação de entidades que podem apoiar empresas na implementação de projetos circulares (n.º) | IAPMEI, AI2 |
+| Colaborações estabelecidas entre empresas e entidades (n.º) |  |  |  |
+| Ações de divulgação de diretrizes (n.º) |  |  |  |
 | D5.2 | Promover o sistema de classificação de boas práticas de gestão em economia circular | Grau de implementação do sistema (Não iniciado/Em desenvolvimento/Finalizado) | ADENE |
-| D5.2 | Promover o sistema de classificação de boas práticas de gestão em economia circular | Empresas abrangidas pelo sistema (n.º) | ADENE |
+| Empresas abrangidas pelo sistema (n.º) |  |  |  |
 
 D6. Parceria para uma Economia Circular
 
 | Ação | Descrição | Indicadores | Entidades responsáveis pela monitorização |
 | --- | --- | --- | --- |
 | D6.1 | Fomentar a colaboração e partilha em economia circular | Ações para apoiar parcerias colaborativas (n.º) | CCDR |
-| D6.1 | Fomentar a colaboração e partilha em economia circular | Parcerias colaborativas constituídas (n.º) | CCDR |
+| Parcerias colaborativas constituídas (n.º) |  |  |  |
 | D6.2 | Fomentar relatos de sustentabilidade por parte das PME | Diretrizes desenvolvidas (n.º) | GPEARI |
 | D6.3 | Estudo estratégico com vista à criação de «Hubs Empresariais Circulares» | Grau de desenvolvimento do estudo (Não iniciado/Em desenvolvimento/Finalizado) | CCDR |
 | D6.4 | Mapeamento das competências dos CI, CTI e CoLAB enquanto facilitadores de design e de produção circular e sustentável | Grau de desenvolvimento do estudo (Não iniciado/Em desenvolvimento/Finalizado) | LNEG |
 | D6.5 | Divulgar plataformas online de mercados digitais de resíduos, subprodutos e de fim de estatuto de resíduos | N.º de ações de divulgação e comunicação realizadas (n.º) | APA |
-| D6.5 | Divulgar plataformas online de mercados digitais de resíduos, subprodutos e de fim de estatuto de resíduos | Utilização das plataformas online (n.º de empresas registadas e n.º de transações realizadas) | APA |
+| Utilização das plataformas online (n.º de empresas registadas e n.º de transações realizadas) |  |  |  |
 
 D7. Ciclo de Vida
 
@@ -1156,19 +1288,19 @@ D7. Ciclo de Vida
 | --- | --- | --- | --- |
 | D7.1 | Fomentar projetos que promovam eficiência hídrica e energética | Projetos desenvolvidos (n.º) | DGEG, APA, DGE, DGADR |
 | D7.2 | Fomentar projetos para reutilização de água | Projetos promovidos (n.º) | APA |
-| D7.3 | Apoiar projetos de I&D&I que explorem o uso de alternativas às matérias-primas críticas e substituição de substâncias perigosas | Projetos apoiados (n.º) | AI<sup>2</sup> |
+| D7.3 | Apoiar projetos de I&D&I que explorem o uso de alternativas às matérias-primas críticas e substituição de substâncias perigosas | Projetos apoiados (n.º) | AI2 |
 | D7.4 | Estimular a adoção do Rótulo Ecológico da União Europeia | Ações de comunicação e sensibilização realizadas (n.º) | DGE |
-| D7.4 | Estimular a adoção do Rótulo Ecológico da União Europeia | Produtos/serviços detentores de licença de utilização de Rótulo Ecológico da UE (n.º) | DGE |
+| Produtos/serviços detentores de licença de utilização de Rótulo Ecológico da UE (n.º) |  |  |  |
 | D7.5 | Dar continuidade ao Programa CIRCO Hub Portugal | Grau de concretização da 2.ª edição do Programa (Não iniciado/Em desenvolvimento/Finalizado) | LNEG |
 | D7.6 | Promover a adoção de metodologias de avaliação de impactes ambientais e desempenho de circularidade de produtos | Ações de promoção realizadas (n.º) | IAPMEI, APA, DGE |
-| D7.6 | Promover a adoção de metodologias de avaliação de impactes ambientais e desempenho de circularidade de produtos | Análises de Ciclo de Vida realizadas através do método da Pegada Ambiental do Produto (n.º) | IAPMEI, APA, DGE |
+| Análises de Ciclo de Vida realizadas através do método da Pegada Ambiental do Produto (n.º) |  |  |  |
 | D7.7 | Potenciar a adoção de critérios de eficiência de recursos e de circularidade nos estabelecimentos que não estão abrangidos pelo Regime PCIP | Grau de adoção de critérios (Não iniciado/Em desenvolvimento/Finalizado) | APA |
 | D7.8 | Medir o desempenho dos estabelecimentos ao nível da eficiência de recursos e circularidade | Grau de desenvolvimento da ferramenta (Não iniciado/Em desenvolvimento/Finalizado) | APA |
 | D7.9 | Promover a certificação EMAS no tecido empresarial | Documentos de referência divulgados (n.º) | APA |
-| D7.9 | Promover a certificação EMAS no tecido empresarial | Empresas registadas no EMAS (n.º) | APA |
-| D7.9 | Promover a certificação EMAS no tecido empresarial | Ações de promoção do sistema de certificação EMAS (n.º) | APA |
+| Empresas registadas no EMAS (n.º) |  |  |  |
+| Ações de promoção do sistema de certificação EMAS (n.º) |  |  |  |
 | D7.10 | Estabelecer medidas que fomentem a reutilização de produtos específicos | Medidas de reutilização de produtos desenvolvidas (n.º) | APA |
-| D7.10 | Estabelecer medidas que fomentem a reutilização de produtos específicos | Grau de desenvolvimento do sistema de monitorização (Não iniciado/Em desenvolvimento/Finalizado) | APA |
+| Grau de desenvolvimento do sistema de monitorização (Não iniciado/Em desenvolvimento/Finalizado) |  |  |  |
 
 CV1. Agroalimentar
 
@@ -1177,12 +1309,12 @@ CV1. Agroalimentar
 | CV1.1 | Promover a adoção de práticas de economia circular e agroecologia na agricultura | Grau de desenvolvimento do acordo voluntário (Não iniciado/Em desenvolvimento/Finalizado) | GPP |
 | CV1.2 | Promover soluções inovadoras para a extração e utilização de nutrientes, assim como para o reaproveitamento dos resíduos agroalimentares e aproveitamento de produtos alimentares não normalizados | Projetos de I&D&I apoiados (n.º) | GPP |
 | CV1.3 | Promover a adoção de práticas agrícolas regenerativas | Grau de desenvolvimento do guia sobre práticas agrícolas regenerativas (Não iniciado/Em desenvolvimento/Finalizado) | INIAV |
-| CV1.3 | Promover a adoção de práticas agrícolas regenerativas | Ações de divulgação realizadas (n.º) | INIAV |
+| Ações de divulgação realizadas (n.º) |  |  |  |
 | CV1.4 | Promover o uso de matéria orgânica no solo como fertilizante | Ações de sensibilização realizadas (n.º) | GPP |
 | CV1.5 | Promover a agricultura periurbana e urbana | Ações de capacitação realizadas (n.º) | GPP |
-| CV1.5 | Promover a agricultura periurbana e urbana | Área disponibilizada para o desenvolvimento de hortas verticais urbanas hidropónicas (ha) | GPP |
+| Área disponibilizada para o desenvolvimento de hortas verticais urbanas hidropónicas (ha) |  |  |  |
 | CV1.6 | Agilizar o processo de doação de bens alimentares | Legislação revista? (Sim/Não) | GPP |
-| CV1.6 | Agilizar o processo de doação de bens alimentares | Agilização do processo de doação de bens alimentares? (Sim/Não) | GPP |
+| Agilização do processo de doação de bens alimentares? (Sim/Não) |  |  |  |
 
 CV2. Construção
 
@@ -1193,7 +1325,7 @@ CV2. Construção
 | CV2.3 | Estudo sobre a incorporação de materiais reciclados em obras | Grau de desenvolvimento do estudo (Não iniciado/Em desenvolvimento/Finalizado) | APA |
 | CV2.4 | Avaliação prévia da sustentabilidade de projetos | Projetos de obras com avaliações de sustentabilidade realizadas (n.º) | LNEC |
 | CV2.5 | Desenvolver diretrizes para ecodesign em construção | Especificações e guias desenvolvidos (n.º) | LNEC |
-| CV2.5 | Desenvolver diretrizes para ecodesign em construção | Grau de desenvolvimento do passaporte digital de materiais e edifícios (Não iniciado/Em desenvolvimento/Finalizado) | LNEC |
+| Grau de desenvolvimento do passaporte digital de materiais e edifícios (Não iniciado/Em desenvolvimento/Finalizado) |  |  |  |
 
 CV3. Distribuição e Retalho
 
@@ -1202,14 +1334,14 @@ CV3. Distribuição e Retalho
 | CV3.1 | Promover a adoção de práticas de economia circular | Grau de desenvolvimento do acordo voluntário (Não iniciado/Em desenvolvimento/Finalizado) | DGE |
 | CV3.2 | Promover incentivos «zero desperdício» | Prémios de boas práticas atribuídos (n.º) | GPP |
 | CV3.3 | Estudos para otimização de cadeias de abastecimento | Grau de desenvolvimento do estudo (Não iniciado/Em desenvolvimento/Finalizado) | CCDR |
-| CV3.3 | Estudos para otimização de cadeias de abastecimento | Propostas de alteração de rotas avançadas (n.º) | CCDR |
+| Propostas de alteração de rotas avançadas (n.º) |  |  |  |
 
 CV4. Equipamentos Elétricos e Eletrónicos
 
 | Ação | Descrição | Indicadores | Entidades responsáveis pela monitorização |
 | --- | --- | --- | --- |
 | CV4.1 | Reforçar a recolha de REEE | Modelos de recolha inovadores implementados (n.º) | Entidades gestoras do SIGREEE |
-| CV4.1 | Reforçar a recolha de REEE | Campanhas de sensibilização realizadas (n.º) | Entidades gestoras do SIGREEE |
+| Campanhas de sensibilização realizadas (n.º) |  |  |  |
 | CV4.2 | Fomentar a melhoria da gestão de REEE | Ações de melhoria de gestão de REEE realizadas (n.º) | APA |
 
 CV5. Plásticos
@@ -1218,7 +1350,7 @@ CV5. Plásticos
 | --- | --- | --- | --- |
 | CV5.1 | Avaliar a substituição de plásticos na agricultura | Grau de desenvolvimento do estudo (Não iniciado/Em desenvolvimento/Finalizado) | DGADR |
 | CV5.2 | Fomentar a incorporação de materiais plásticos reciclados em novos produtos | Grau de desenvolvimento do estudo (Não iniciado/Em desenvolvimento/Finalizado) | APA |
-| CV5.3 | I&D&I para o desenvolvimento de matérias-primas plásticas mais circulares e alternativas de fim de vida para produtos plásticos | Projetos de I&D&I apoiados (n.º) | IAPMEI, AI<sup>2</sup> |
+| CV5.3 | I&D&I para o desenvolvimento de matérias-primas plásticas mais circulares e alternativas de fim de vida para produtos plásticos | Projetos de I&D&I apoiados (n.º) | IAPMEI, AI2 |
 
 CV6. Turismo
 
@@ -1231,11 +1363,11 @@ CV7. Têxtil e Vestuário
 
 | Ação | Descrição | Indicadores | Entidades responsáveis pela monitorização |
 | --- | --- | --- | --- |
-| CV7.1 | I&D&I em operações têxteis mais sustentáveis e em materiais circulares para a produção têxtil | Projetos de I&D&I apoiados (n.º) | AI<sup>2</sup> |
+| CV7.1 | I&D&I em operações têxteis mais sustentáveis e em materiais circulares para a produção têxtil | Projetos de I&D&I apoiados (n.º) | AI2 |
 | CV7.2 | Apoio e promoção de simbioses industriais para a produção têxtil | Parcerias estabelecidas (n.º) | IAPMEI |
-| CV7.3 | I&D&I em estratégias inovadoras de fim de vida e circularidade para produtos têxteis | Projetos de I&D&I apoiados (n.º) | AI<sup>2</sup> |
+| CV7.3 | I&D&I em estratégias inovadoras de fim de vida e circularidade para produtos têxteis | Projetos de I&D&I apoiados (n.º) | AI2 |
 | CV7.4 | Promover a adoção de um acordo voluntário para o setor têxtil e vestuário | Grau de desenvolvimento do acordo voluntário (Não iniciado/Em desenvolvimento/Finalizado) | APA, DGE, IAPMEI |
-| CV7.5 | I&D&I em processos expeditos para a implementação e digitalização dos processos conducentes à geração do passaporte digital do produto | Projetos de I&D&I apoiados (n.º) | AI<sup>2</sup> |
+| CV7.5 | I&D&I em processos expeditos para a implementação e digitalização dos processos conducentes à geração do passaporte digital do produto | Projetos de I&D&I apoiados (n.º) | AI2 |
 
 M1. Cidades Circulares
 
@@ -1244,8 +1376,8 @@ M1. Cidades Circulares
 | M1.1 | Prosseguir e consolidar a Iniciativa Nacional Cidades Circulares (InC2) | Ações de promoção realizadas (n.º) | DGT |
 | M1.2 | Avaliação dos resultados das quatro redes de cidades circulares | Grau de desenvolvimento do estudo (Não iniciado/Em desenvolvimento/Finalizado) | DGT |
 | M1.3 | Desenvolvimento e melhorias de planos locais de ação para a economia circular | Diretrizes divulgadas (n.º) | DGT |
-| M1.3 | Desenvolvimento e melhorias de planos locais de ação para a economia circular | Ações de apoio técnico realizadas (n.º) | DGT |
-| M1.3 | Desenvolvimento e melhorias de planos locais de ação para a economia circular | Ações de promoção à participação em rede das cidades circulares (n.º) | DGT |
+| Ações de apoio técnico realizadas (n.º) |  |  |  |
+| Ações de promoção à participação em rede das cidades circulares (n.º) |  |  |  |
 | M1.4 | Iniciativas locais de reparação e reutilização | Iniciativas locais de reparação e reutilização apoiadas (n.º) | DGT |
 | M1.5 | Desenvolver recomendações para a implementação de sistemas de incentivo para recolha seletiva de resíduos pelos municípios | Recomendações desenvolvidas (n.º) | ERSAR |
 
@@ -1262,9 +1394,9 @@ Nas tabelas 6 a 8 são apresentadas as calendarizações das ações macro, meso
 
 Tabela 6 - Calendarização das ações macro
 
-|  | 2026 | 2027 | 2028 | 2029 | 2030 |
+| Ação | Horizonte de implementação |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Ação | Horizonte de implementação | Horizonte de implementação | Horizonte de implementação | Horizonte de implementação | Horizonte de implementação |
+|  | 2026 | 2027 | 2028 | 2029 | 2030 |
 | D1.1 |  |  |  |  |  |
 | D1.2 |  |  |  |  |  |
 | D1.3 |  |  |  |  |  |
@@ -1309,9 +1441,9 @@ Tabela 6 - Calendarização das ações macro
 
 Tabela 7 - Calendarização das ações meso
 
-|  | 2026 | 2027 | 2028 | 2029 | 2030 |
+| Ação | Horizonte de implementação |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Ação | Horizonte de implementação | Horizonte de implementação | Horizonte de implementação | Horizonte de implementação | Horizonte de implementação |
+|  | 2026 | 2027 | 2028 | 2029 | 2030 |
 | CV1.1 |  |  |  |  |  |
 | CV1.2 |  |  |  |  |  |
 | CV1.3 |  |  |  |  |  |
@@ -1341,7 +1473,7 @@ Tabela 7 - Calendarização das ações meso
 
 Tabela 8 - Calendarização das ações micro
 
-| Ação | Horizonte de implementação | Horizonte de implementação | Horizonte de implementação | Horizonte de implementação | Horizonte de implementação |
+| Ação | Horizonte de implementação |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | 2026 | 2027 | 2028 | 2029 | 2030 |
 | M1.1 |  |  |  |  |  |
@@ -1430,51 +1562,51 @@ Referências
 
 [38] Eurostat, Monitoring Framework.
 
-(<sup>1</sup>) COM (2015) 614 final, de 2 de dezembro de 2015.
+(1) COM (2015) 614 final, de 2 de dezembro de 2015.
 
-(<sup>2</sup>) COM (2019) 640 final, de 11 de dezembro de 2019.
+(2) COM (2019) 640 final, de 11 de dezembro de 2019.
 
-(<sup>3</sup>) COM (2020) 98 final, de 11 de março de 2020.
+(3) COM (2020) 98 final, de 11 de março de 2020.
 
-(<sup>4</sup>) COM(2022) 141 final, de 30 de março de 2022.
+(4) COM(2022) 141 final, de 30 de março de 2022.
 
-(<sup>5</sup>) COM(2022) 144 final, de 30 de março de 2022.
+(5) COM(2022) 144 final, de 30 de março de 2022.
 
-(<sup>6</sup>) COM(2022) 677 final, de 30 de novembro de 2022.
+(6) COM(2022) 677 final, de 30 de novembro de 2022.
 
-(<sup>7</sup>) COM(2022) 682 final, de 30 de novembro de 2022.
+(7) COM(2022) 682 final, de 30 de novembro de 2022.
 
-(<sup>8</sup>) A descrição dos setores correspondente à nomenclatura simplificada usada pode ser encontrada na tabela em apêndice.
+(8) A descrição dos setores correspondente à nomenclatura simplificada usada pode ser encontrada na tabela em apêndice.
 
-(<sup>9</sup>) Extração doméstica - entrada de materiais do ambiente para a economia [Fonte: INE].
+(9) Extração doméstica - entrada de materiais do ambiente para a economia [Fonte: INE].
 
-(<sup>10</sup>) DMI - soma da extração doméstica e das importações.
+(10) DMI - soma da extração doméstica e das importações.
 
-(<sup>11</sup>) Produtividade dos recursos - relação entre PIB e a DMI, por vezes também considerado o consumo de recursos que é obtido subtraindo a exportação à DMI.
+(11) Produtividade dos recursos - relação entre PIB e a DMI, por vezes também considerado o consumo de recursos que é obtido subtraindo a exportação à DMI.
 
-(<sup>12</sup>) Indicadores de economia circular do Eurostat: produtividade dos recursos (€/kg); produtividade das áreas artificiais (milhões PPC/km<sup>2</sup>); consumo interno de materiais (t/habitante); produtividade da energia (€/kg equivalente de petróleo); quota-parte de energia renovável (%); intensidade em GEE do consumo de energia (índice 2000 = 100); emissão de GEE per capita (t de emissões de CO<sub>2</sub> eq/habitante); produção de resíduos com exclusão de resíduos minerais (kg/habitante); taxa de deposição de resíduos em aterro, excluindo resíduos minerais de construção e demolição, outros resíduos minerais, solos e resíduos de dragagens (%); produção de resíduos urbanos (kg/habitante); taxa de reciclagem dos resíduos urbanos (%); taxa de reciclagem dos resíduos de embalagem (%); taxa de reciclagem dos resíduos de equipamentos elétricos e eletrónicos (%).
+(12) Indicadores de economia circular do Eurostat: produtividade dos recursos (€/kg); produtividade das áreas artificiais (milhões PPC/km2); consumo interno de materiais (t/habitante); produtividade da energia (€/kg equivalente de petróleo); quota-parte de energia renovável (%); intensidade em GEE do consumo de energia (índice 2000 = 100); emissão de GEE per capita (t de emissões de CO2 eq/habitante); produção de resíduos com exclusão de resíduos minerais (kg/habitante); taxa de deposição de resíduos em aterro, excluindo resíduos minerais de construção e demolição, outros resíduos minerais, solos e resíduos de dragagens (%); produção de resíduos urbanos (kg/habitante); taxa de reciclagem dos resíduos urbanos (%); taxa de reciclagem dos resíduos de embalagem (%); taxa de reciclagem dos resíduos de equipamentos elétricos e eletrónicos (%).
 
-(<sup>13</sup>) Vide, designadamente, Comunicação da Comissão «Orientações sobre a aplicação do artigo 101.º do Tratado sobre o Funcionamento da União Europeia aos acordos de cooperação horizontal» (2023/C 259/01).
+(13) Vide, designadamente, Comunicação da Comissão «Orientações sobre a aplicação do artigo 101.º do Tratado sobre o Funcionamento da União Europeia aos acordos de cooperação horizontal» (2023/C 259/01).
 
-(<sup>14</sup>) As ações desta dimensão não contemplam a fase de fim de vida, dado as ações prioritárias neste âmbito já estarem contempladas, quer ao nível dos instrumentos de política nacional, como sejam o PERSU 2030 e o PNGR 2030, quer ao nível das competências das entidades gestoras nacionais de fluxos específicos de resíduos, abrangidas pela responsabilidade alargada do produtor e, ainda, ao nível comunitário, designadamente, através de estratégias e propostas legislativas atualmente em processo de negociação (proposta de regulamento que estabelece um quadro para definir os requisitos de conceção ecológica dos produtos sustentáveis e proposta de regulamento sobre embalagens e resíduos de embalagens).
+(14) As ações desta dimensão não contemplam a fase de fim de vida, dado as ações prioritárias neste âmbito já estarem contempladas, quer ao nível dos instrumentos de política nacional, como sejam o PERSU 2030 e o PNGR 2030, quer ao nível das competências das entidades gestoras nacionais de fluxos específicos de resíduos, abrangidas pela responsabilidade alargada do produtor e, ainda, ao nível comunitário, designadamente, através de estratégias e propostas legislativas atualmente em processo de negociação (proposta de regulamento que estabelece um quadro para definir os requisitos de conceção ecológica dos produtos sustentáveis e proposta de regulamento sobre embalagens e resíduos de embalagens).
 
-(<sup>15</sup>) Designadamente do Fundo Florestal Permanente, do Fundo de Apoio à Inovação, do Fundo de Eficiência Energética, do Fundo para a Sustentabilidade Sistémica do Setor Energético, do Fundo Português de Carbono, do Fundo de Intervenção Ambiental, do Fundo de Proteção dos Recursos Hídricos e do Fundo para a Conservação da Natureza e da Biodiversidade.
+(15) Designadamente do Fundo Florestal Permanente, do Fundo de Apoio à Inovação, do Fundo de Eficiência Energética, do Fundo para a Sustentabilidade Sistémica do Setor Energético, do Fundo Português de Carbono, do Fundo de Intervenção Ambiental, do Fundo de Proteção dos Recursos Hídricos e do Fundo para a Conservação da Natureza e da Biodiversidade.
 
-(<sup>16</sup>) COM(2023) 306 final.
+(16) COM(2023) 306 final.
 
-(<sup>17</sup>) Último ano com dados disponíveis.
+(17) Último ano com dados disponíveis.
 
-(<sup>18</sup>) «Geração de resíduos» corresponde a «produção de resíduos», nos termos da legislação nacional em vigor.
+(18) «Geração de resíduos» corresponde a «produção de resíduos», nos termos da legislação nacional em vigor.
 
-(<sup>19</sup>) Corresponde ao indicador do INE: resíduos urbanos recolhidos por habitante (kg/hab.) por localização geográfica (NUTS - 2013).
+(19) Corresponde ao indicador do INE: resíduos urbanos recolhidos por habitante (kg/hab.) por localização geográfica (NUTS - 2013).
 
-(<sup>20</sup>) Corresponde aos indicadores do INE: desperdício alimentar por habitante (kg/hab.) por localização geográfica (NUTS - 2013) e desperdício alimentar (t) por elos da cadeia de abastecimento alimentar.
+(20) Corresponde aos indicadores do INE: desperdício alimentar por habitante (kg/hab.) por localização geográfica (NUTS - 2013) e desperdício alimentar (t) por elos da cadeia de abastecimento alimentar.
 
-## Apêndice
+Apêndice
 
 Tabela - Nomenclatura dos setores económicos e correspondência com a Nomenclatura NPCN06 usada pelo INE.
 
-| Nomenclatura NPCN06 (INE) | Nomenclatura NPCN06 (INE) | Nomenclatura simplificada |
+| Nomenclatura NPCN06 (INE) | Nomenclatura simplificada |  |
 | --- | --- | --- |
 | 01 | Produtos da agricultura, da produção animal, da caça e dos serviços relacionados | AGRICULTURA |
 | 02 | Produtos da silvicultura, da exploração florestal e serviços relacionados | AGRICULTURA |
@@ -1573,7 +1705,7 @@ AGSE - Agência para a Gestão do Sistema Educativo, I. P.
 
 AHRESP - Associação da Hotelaria, Restauração e Similares de Portugal.
 
-AI<sup>2</sup> - Agência para a Investigação e Inovação, E. P. E.
+AI2 - Agência para a Investigação e Inovação, E. P. E.
 
 AMA - Agência para a Modernização Administrativa, I. P.
 
@@ -1848,3 +1980,7 @@ TIC - Tecnologias da Informação e Comunicação.
 UE - União Europeia.
 
 ZER - Zonas Empresariais Responsáveis.
+
+119947988
+
+.Tbl1 { margin-left:auto; margin-right:auto; } .Tbl2 { min-height:497px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl4 { text-indent:0px; text-align:center; } .Tbl6 { min-height:26px; } .Tbl7 { text-align:center; page-break-after:auto; } .Tbl8 { min-height:97px; } .Tbl9 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { min-height:511px; } .Tbl12 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl14 { min-height:142px; } .Tbl15 { min-height:109px; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl18 { border-collapse:collapse; border-width:1px; border-color:rgb(0,0,0); } .Tbl19 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(78,167,46); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl20 { text-align:center; } .Tbl21 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(78,167,46); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl22 { min-height:18px; } .Tbl23 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl24 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl25 { border-collapse:collapse; border-width:1px; } .Tbl26 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(112,173,71); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl27 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(112,173,71); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl28 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(112,173,71); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl29 { min-height:47px; } .Tbl30 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl31 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl32 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl33 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(231,230,230); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl34 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(231,230,230); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl35 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(231,230,230); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl36 { border-collapse:collapse; border-width:2px; border-color:rgb(0,0,0); } .Tbl37 { background-color:rgb(22,125,127); } .Tbl38 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl39 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl40 { min-height:28px; } .Tbl41 { min-height:27px; } .Tbl42 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl43 { min-height:29px; } .Tbl44 { min-height:19px; } .Tbl45 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(22,125,127); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl46 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(22,125,127); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl47 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(22,125,127); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl48 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(214,158,0); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl49 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(214,158,0); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl50 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(214,158,0); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl51 { min-height:37px; } .Tbl52 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(0,176,80); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl53 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(0,176,80); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl54 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(0,176,80); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl55 { min-height:20px; } .Tbl56 { min-height:21px; } .Tbl57 { min-height:25px; } .Tbl58 { min-height:33px; } .Tbl59 { border-collapse:collapse; border-color:rgb(22,125,127); } .Tbl60 { min-height:17px; } .Tbl61 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(92,164,166); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl62 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(92,164,166); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl63 { background-color:rgb(191,143,0); } .Tbl64 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(191,143,0); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl65 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,203,55); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl66 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,203,55); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl67 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(24,165,88); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl68 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(24,165,88); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl69 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(24,165,88); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl70 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(24,165,88); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl71 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(110,198,150); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl72 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(110,198,150); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl73 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(226,239,217); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl74 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(226,239,217); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl75 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(226,239,217); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; }

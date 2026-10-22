@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalraa/21/2026/05/14/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/21-2026-1122042100
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-14T00:00:00Z'
+  retrieved_at: '2026-10-22T18:41:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f92bbe9307e4e1daba5111083ad689b3e42b4b30ab0d0263bd0a1150af26d935
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de25e07a5a64c6786c7592dffe65f4c238e649474859e4afb02959e2277fa3fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:41:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Assembleia Legislativa
 - Orçamento
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/15/2022/06/02/a/dre
@@ -81,16 +81,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/36/2021/11/30/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/36/2021/11/30/a/dre
+- type: cites
+  target: pt:dre:175129349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184306939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:917107827:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:41:01Z'
   warnings: []
   errors: []
 ---
@@ -99,18 +111,19 @@ validation:
 
 1.º Orçamento Suplementar da Assembleia Legislativa da Região Autónoma dos Açores para o ano de 2026
 
-A Assembleia Legislativa da Região Autónoma dos Açores, nos termos dos artigos 37.º e n.º 2 do 38.º do [Decreto Legislativo Regional n.º 36/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/36-2021-175129349), de 30 de novembro, alterado e republicado pelos Decretos Legislativos Regionais n.<sup>os</sup>[15/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-184306939), de 2 de junho, e [16/2025/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2025-917107827), de 7 de maio, aprova o 1.º Orçamento Suplementar da Assembleia Legislativa da Região Autónoma dos Açores para o ano de 2026, constante dos mapas em anexo.
+A Assembleia Legislativa da Região Autónoma dos Açores, nos termos dos artigos 37.º e n.º 2 do 38.º do [Decreto Legislativo Regional n.º 36/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/36-2021-175129349), de 30 de novembro, alterado e republicado pelos Decretos Legislativos Regionais n.os[15/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-184306939), de 2 de junho, e [16/2025/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2025-917107827), de 7 de maio, aprova o 1.º Orçamento Suplementar da Assembleia Legislativa da Região Autónoma dos Açores para o ano de 2026, constante dos mapas em anexo.
 
 Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 15 de abril de 2026.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-![](https://files.diariodarepublica.pt/images/1122042100/1122041969.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1122042100/1122041969.png) |
+| --- |
 
-| Código | Designação da receita | Orçamento Ordinário1 | Para mais2 | Para menos3 | 1.º Orçamento Suplementar4 | Total Retificado5 |
+| Código | Designação da receita | Importância (em euros) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Código | Designação da receita | Importância (em euros) | Importância (em euros) | Importância (em euros) | Importância (em euros) | Importância (em euros) |
-| Código | Designação da receita | Orçamento Ordinário1 | Transferências de verbas | Transferências de verbas | 1.º Orçamento Suplementar4 | Total Retificado5 |
+| Orçamento Ordinário1 | Transferências de verbas | 1.º Orçamento Suplementar4 | Total Retificado5 |  |  |  |
+| Para mais2 | Para menos3 |  |  |  |  |  |
 |  | Receitas correntes |  |  |  |  |  |
 | 06.00.00 | Transferências correntes: |  |  |  |  |  |
 | 06.04.00 | Administração regional: |  |  |  |  |  |
@@ -125,10 +138,10 @@ Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta,
 | 08.01.99 | Outras | 100,00 |  |  |  | 100,00 |
 |  | Total da receita corrente | 17 210 142,00 | 0,00 | 0,00 | 0,00 | 17 210 142,00 |
 
-| Código | Designação da receita | Orçamento Ordinário1 | Para mais2 | Para menos3 | 1.º Orçamento Suplementar4 | Total Retificado5 |
+| Código | Designação da receita | Importância (em euros) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Código | Designação da receita | Importância (em euros) | Importância (em euros) | Importância (em euros) | Importância (em euros) | Importância (em euros) |
-| Código | Designação da receita | Orçamento Ordinário1 | Transferências de verbas | Transferências de verbas | 1.º Orçamento Suplementar4 | Total Retificado5 |
+| Orçamento Ordinário1 | Transferências de verbas | 1.º Orçamento Suplementar4 | Total Retificado5 |  |  |  |
+| Para mais2 | Para menos3 |  |  |  |  |  |
 |  | Receitas de Capital |  |  |  |  |  |
 | 09.00.00 | Venda de bens de investimento: |  |  |  |  |  |
 | 09.04.00 | Outros bens de investimento: |  |  |  |  |  |
@@ -146,10 +159,10 @@ Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta,
 | 16.01.01 | Na posse do serviço |  |  |  | 661 745,91 | 661 745,91 |
 |  | Total das receitas correntes e de capital | 17 772 142,00 | 0,00 | 0,00 | 661 745,91 | 18 433 887,91 |
 
-| Código | Alínea | Designação da despesa | OrçamentoOrdinário1 | Para mais2 | Para menos3 | 1.º Orçamento Suplementar4 | Total Retificado5 |
+| Código | Alínea | Designação da despesa | Importância (em euros) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Código | Alínea | Designação da despesa | Importância (em euros) | Importância (em euros) | Importância (em euros) | Importância (em euros) | Importância (em euros) |
-| Código | Alínea | Designação da despesa | OrçamentoOrdinário1 | Transferência de verbas | Transferência de verbas | 1.º Orçamento Suplementar4 | Total Retificado5 |
+| OrçamentoOrdinário1 | Transferência de verbas | 1.º Orçamento Suplementar4 | Total Retificado5 |  |  |  |  |
+| Para mais2 | Para menos3 |  |  |  |  |  |  |
 |  |  | Despesas correntes |  |  |  |  |  |
 | 01.00.00 |  | Despesas com pessoal: |  |  |  |  |  |
 | 01.01.00 |  | Remunerações certas e permanentes: |  |  |  |  |  |
@@ -185,10 +198,10 @@ Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta,
 |  |  | Subtotal 2 | 2 540 200,00 | 0,00 | 10 700,00 | 151 933,59 | 2 681 433,59 |
 |  |  | Total 1 | 11 310 700,00 | 6 500,00 | 10 700,00 | 309 083,95 | 11 615 583,95 |
 
-| Código | Alínea | Designação da despesa | Importância (em euros) | Importância (em euros) | Importância (em euros) | Importância (em euros) | Importância (em euros) |
+| Código | Alínea | Designação da despesa | Importância (em euros) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Código | Alínea | Designação da despesa | Orçamento Ordinário1 | Transferência de verbas | Transferência de verbas | 1.º Orçamento Suplementar4 | Total Retificado5 |
-| Código | Alínea | Designação da despesa | Orçamento Ordinário1 | Para mais2 | Para menos3 | 1.º Orçamento Suplementar4 | Total Retificado5 |
+| Orçamento Ordinário1 | Transferência de verbas | 1.º Orçamento Suplementar4 | Total Retificado5 |  |  |  |  |
+| Para mais2 | Para menos3 |  |  |  |  |  |  |
 | 02.00.00 |  | Aquisição de bens e serviços: |  |  |  |  |  |
 | 02.01.00 |  | Aquisição de bens: |  |  |  |  |  |
 | 02.01.02 |  | Combustíveis e lubrificantes | 1 500,00 |  |  |  | 1 500,00 |
@@ -222,10 +235,10 @@ Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta,
 | 02.02.25 |  | Outros serviços | 30 000,00 |  |  | 10 000,00 | 40 000,00 |
 |  |  | Total 2 | 2 365 000,00 | 27 200,00 | 23 000,00 | 327 626,56 | 2 696 826,56 |
 
-| Código | Alínea | Designação da despesa | Importância (em euros) | Importância (em euros) | Importância (em euros) | Importância (em euros) | Importância (em euros) |
+| Código | Alínea | Designação da despesa | Importância (em euros) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Código | Alínea | Designação da despesa | Orçamento Ordinário1 | Transferência de verbas | Transferência de verbas | 1.º Orçamento Suplementar4 | Total Retificado5 |
-| Código | Alínea | Designação da despesa | Orçamento Ordinário1 | Para mais2 | Para menos3 | 1.º Orçamento Suplementar4 | Total Retificado5 |
+| Orçamento Ordinário1 | Transferência de verbas | 1.º Orçamento Suplementar4 | Total Retificado5 |  |  |  |  |
+| Para mais2 | Para menos3 |  |  |  |  |  |  |
 | 03.00.00 |  | Juros e encargos financeiros: |  |  |  |  |  |
 | 03.06.00 |  | Outros encargos financeiros: |  |  |  |  |  |
 | 03.06.01 |  | Outros encargos financeiros | 500,00 |  |  |  | 500,00 |
@@ -255,3 +268,7 @@ Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta,
 | 07.01.15 |  | Outros investimentos | 500,00 |  |  |  | 500,00 |
 |  |  | Total das despesas de capital | 561 000,00 | 0,00 | 0,00 | 25 035,40 | 586 035,40 |
 |  |  | Total das despesas correntes e de capital | 17 772 142,00 | 33 700,00 | 33 700,00 | 661 745,91 | 18 433 887,91 |
+
+119948472
+
+.Tbl2 { height:17px; } .Tbl3 { text-align:center; } .Tbl4 { height:26px; } .Tbl5 { height:34px; } .Tbl6 { min-height:16px; } .Tbl7 { border-bottom-width:0px; border-left-width:0px; border-top-width:1px; border-right-width:1px; } .Tbl8 { border-bottom-width:0px; border-left-width:1px; border-top-width:1px; border-right-width:1px; } .Tbl9 { margin-top:0px; } .Tbl10 { border-bottom-width:0px; border-left-width:1px; border-top-width:1px; border-right-width:0px; } .Tbl11 { min-height:18px; } .Tbl12 { border-bottom-width:0px; border-left-width:0px; border-top-width:0px; border-right-width:1px; } .Tbl13 { border-bottom-width:0px; border-left-width:1px; border-top-width:0px; border-right-width:1px; } .Tbl14 { border-bottom-width:0px; border-left-width:1px; border-top-width:0px; border-right-width:0px; } .Tbl15 { text-indent:9px; } .Tbl16 { text-indent:17px; } .Tbl17 { text-align:right; } .Tbl18 { text-indent:9px; margin-top:3px; } .Tbl19 { text-indent:9px; margin-top:0px; } .Tbl20 { border-bottom-width:1px; border-left-width:1px; border-top-width:0px; border-right-width:1px; } .Tbl21 { border-bottom-width:1px; border-left-width:1px; border-top-width:0px; border-right-width:0px; } .Tbl22 { border-bottom-width:1px; border-left-width:0px; border-top-width:0px; border-right-width:1px; } .Tbl23 { border-bottom-width:1px; border-left-width:1px; border-top-width:1px; border-right-width:1px; } .Tbl24 { border-bottom-width:1px; border-left-width:1px; border-top-width:1px; border-right-width:0px; } .Tbl25 { margin-left:17px; } .Tbl26 { margin-left:9px; } .Tbl27 { border-bottom-width:1px; border-left-width:0px; border-top-width:1px; border-right-width:1px; } .Tbl28 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-left-width:1px; border-top-width:1px; border-right-width:1px; } .Tbl29 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-left-width:1px; border-top-width:1px; border-right-width:0px; } .Tbl30 { border-bottom-width:1px; border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; } .Tbl31 { border-bottom-width:1px; border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; } .Tbl32 { min-height:17px; } .Tbl33 { min-height:26px; } .Tbl34 { border-bottom-width:1px; border-left-width:0px; border-top-width:1px; border-right-width:1px; vertical-align:middle; } .Tbl35 { border-bottom-width:1px; border-left-width:1px; border-top-width:1px; border-right-width:1px; vertical-align:middle; } .Tbl36 { border-bottom-width:1px; border-right-style:solid; border-left-width:1px; border-top-width:1px; border-right-width:0px; vertical-align:middle; } .Tbl37 { border-bottom-width:1px; border-left-width:1px; border-top-width:1px; border-right-width:0px; vertical-align:middle; } .Tbl38 { min-height:19px; } .Tbl39 { border-bottom-width:0px; border-left-width:0px; border-top-width:1px; border-right-width:1px; vertical-align:top; } .Tbl40 { border-bottom-width:0px; border-left-width:1px; border-top-width:1px; border-right-width:1px; vertical-align:top; } .Tbl41 { border-bottom-width:0px; border-left-width:1px; border-top-width:1px; border-right-width:0px; vertical-align:top; } .Tbl42 { border-bottom-width:0px; border-left-width:0px; border-top-width:0px; border-right-width:1px; vertical-align:top; } .Tbl43 { border-bottom-width:0px; border-left-width:1px; border-top-width:0px; border-right-width:1px; vertical-align:top; } .Tbl44 { border-bottom-width:0px; border-left-width:1px; border-top-width:0px; border-right-width:0px; vertical-align:top; } .Tbl45 { min-height:29px; } .Tbl46 { border-bottom-width:1px; border-left-width:1px; border-top-width:0px; border-right-width:1px; vertical-align:top; } .Tbl47 { border-bottom-width:1px; border-left-width:1px; border-top-width:0px; border-right-width:0px; vertical-align:top; } .Tbl48 { border-bottom-width:1px; border-left-width:0px; border-top-width:0px; border-right-width:1px; vertical-align:top; } .Tbl49 { border-bottom-width:1px; border-left-width:1px; border-top-width:1px; border-right-width:1px; vertical-align:top; } .Tbl50 { border-bottom-width:1px; border-left-width:1px; border-top-width:1px; border-right-width:0px; vertical-align:top; } .Tbl51 { border-bottom-width:0px; border-left-width:0px; border-top-width:1px; border-right-width:1px; border-left-color:rgb(0,0,0); vertical-align:top; } .Tbl52 { border-bottom-width:0px; border-right-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; vertical-align:top; } .Tbl53 { border-bottom-width:0px; border-left-width:0px; border-top-width:0px; border-right-width:1px; border-left-color:rgb(0,0,0); vertical-align:top; } .Tbl54 { border-bottom-width:0px; border-right-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; vertical-align:top; } .Tbl55 { min-height:37px; } .Tbl56 { border-bottom-width:1px; border-left-width:0px; border-top-width:0px; border-right-width:1px; border-left-color:rgb(0,0,0); vertical-align:top; }

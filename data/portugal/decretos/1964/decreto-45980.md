@@ -50,18 +50,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45980-1964-537064
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-10-20T00:00:00Z'
+  retrieved_at: '2026-10-22T19:42:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a2d20e80b0ef6af0c88921de91b9c2e4bcee39c45b81ec474ffa6b165449bf8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5268cb662fe054564b2b6c7d9bdc60e6ee5b51fa4cd6feff1fb898f214c835ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:42:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:184274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512837:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:42:33Z'
   warnings: []
   errors: []
 ---
@@ -112,9 +136,9 @@ Tomando em atenção o disposto na parte final da base II da [Lei n.º 2025](htt
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É criado no concelho de Amarante um estabelecimento de ensino técnico profissional, com a denominação de Escola Industrial de Amarante, no qual será ministrado o ensino do ciclo preparatório e o dos cursos de electromecânica e de formação feminina.
+Artigo 1.º É criado no concelho de Amarante um estabelecimento de ensino técnico profissional, com a denominação de Escola Industrial de Amarante, no qual será ministrado o ensino do ciclo preparatório e o dos cursos de electromecânica e de formação feminina.
 
-###### Art. 2.º - 1. É criado no concelho de Mirandela um estabelecimento de ensino técnico profissional, com a denominação de Escola Técnica de Mirandela, no qual ficam desde já constituídas duas secções: uma agrícola, outra industrial e comercial.
+Art. 2.º - 1. É criado no concelho de Mirandela um estabelecimento de ensino técnico profissional, com a denominação de Escola Técnica de Mirandela, no qual ficam desde já constituídas duas secções: uma agrícola, outra industrial e comercial.
 
 2. A Escola Prática de Agricultura de Mirandela passa a constituir a secção agrícola prevista no número anterior, sem prejuízo da autonomia pedagógica inerente à função de serviço agrícola regional que continua desempenhando, nos termos do artigo 2.º do [Decreto n.º 42739](https://diariodarepublica.pt/dr/detalhe/decreto/42739-1959-441875), de 18 de Dezembro de 1959.
 
@@ -124,50 +148,50 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 5. O funcionamento do curso geral de comércio fica dependente de comparticipação da Câmara Municipal, nos termos que vierem a ser legalmente estabelecidos.
 
-###### Art. 3.º - 1. Nas Escolas Industriais e Comerciais de Emídio Navarro, em Almada, de Silves e de Tomar são constituídas secções a instalar, respectivamente, no Seixal, em Portimão e no Entroncamento.
+Art. 3.º - 1. Nas Escolas Industriais e Comerciais de Emídio Navarro, em Almada, de Silves e de Tomar são constituídas secções a instalar, respectivamente, no Seixal, em Portimão e no Entroncamento.
 
 2. Nas secções a que se refere o número anterior será ministrado o ensino do ciclo preparatório e o dos cursos de formação profissional que lhes forem atribuídos por despacho do Ministro da Educação Nacional de entre os que são professados nas respectivas escolas.
 
-###### Art. 4.º - 1. As novas escolas regem-se em tudo o que respeita ao ensino industrial e comercial pelo [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948, e mais legislação aplicável, e em tudo o que respeita ao ensino agrícola pela legislação especial a este referente.
+Art. 4.º - 1. As novas escolas regem-se em tudo o que respeita ao ensino industrial e comercial pelo [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948, e mais legislação aplicável, e em tudo o que respeita ao ensino agrícola pela legislação especial a este referente.
 
 2. Nos casos de dúvida, o Ministro determinará, por despacho, a legislação a que deve recorrer-se.
 
-###### Art. 5.º - 1. A superintendência pedagógica e disciplinar de cada secção compete, na dependência do director da escola, a um subdirector, nomeado nos termos do artigo 1.º do [Decreto-Lei n.º 42003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42003-1958-341014), de 5 de Dezembro de 1958, e poderá nela funcionar o serviço de secretaria, sob a orientação e responsabilidade do respectivo chefe.
+Art. 5.º - 1. A superintendência pedagógica e disciplinar de cada secção compete, na dependência do director da escola, a um subdirector, nomeado nos termos do artigo 1.º do [Decreto-Lei n.º 42003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42003-1958-341014), de 5 de Dezembro de 1958, e poderá nela funcionar o serviço de secretaria, sob a orientação e responsabilidade do respectivo chefe.
 
 2. É aplicável aos lugares de subdirector de secção o disposto no artigo 100.º do Estatuto do Ensino Profissional ([Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414)), mas sòmente no caso de haver vaga no quadro da própria escola e de o nomeado possuir a habilitação do Exame de Estado.
 
-###### Art. 6.º - 1. Até à construção dos seus edifícios definitivos, a escola criada em Ponte de Lima pelo [Decreto n.º 43401](https://diariodarepublica.pt/dr/detalhe/decreto/43401-1960-512837), de 15 de Dezembro de 1960, e as escolas e secções criadas pelo presente diploma poderão funcionar em instalações provisórias facultadas pelas câmaras municipais, ou outras entidades locais interessadas no ensino, desde que tais instalações mereçam a aprovação dos serviços competentes do Ministério da Educação Nacional.
+Art. 6.º - 1. Até à construção dos seus edifícios definitivos, a escola criada em Ponte de Lima pelo [Decreto n.º 43401](https://diariodarepublica.pt/dr/detalhe/decreto/43401-1960-512837), de 15 de Dezembro de 1960, e as escolas e secções criadas pelo presente diploma poderão funcionar em instalações provisórias facultadas pelas câmaras municipais, ou outras entidades locais interessadas no ensino, desde que tais instalações mereçam a aprovação dos serviços competentes do Ministério da Educação Nacional.
 
 2. A secção referida no n.º 2 do artigo 2.º funcionará nas instalações da actual Escola Prática de Agricultura de Mirandela.
 
 3. Enquanto se mantiver a situação prevista no n.º 1, será aberta matrícula sòmente para os cursos cuja conveniente instalação se encontre assegurada.
 
-###### Art. 7.º - 1. Os quadros das escolas técnicas de Mirandela e de Ponte de Lima e da Escola Industrial de Amarante são os que vão fixados no mapa n.º 1 anexo ao presente diploma.
+Art. 7.º - 1. Os quadros das escolas técnicas de Mirandela e de Ponte de Lima e da Escola Industrial de Amarante são os que vão fixados no mapa n.º 1 anexo ao presente diploma.
 
 2. Consideram-se válidos, para todos os efeitos legais, para a Escola Técnica de Mirandela os provimentos feitos nos lugares da Escola Prática de Agricultura de Mirandela.
 
 3. Os lugares dos quadros a que se refere o n.º 1 serão providos gradualmente, de acordo com as necessidades do serviço.
 
-###### Art. 8.º - 1. Aos actuais quadros de pessoal das Escolas Industriais e Comerciais de Emídio Navarro, em Almada, de Silves e de Tomar são adicionados os lugares constantes do mapa n.º 2 anexo ao presente diploma.
+Art. 8.º - 1. Aos actuais quadros de pessoal das Escolas Industriais e Comerciais de Emídio Navarro, em Almada, de Silves e de Tomar são adicionados os lugares constantes do mapa n.º 2 anexo ao presente diploma.
 
 2. Por despacho ministerial serão designados os professores, mestres e demais funcionários dos quadros que ficarão especialmente afectos ao serviço das secções.
 
-###### Art. 9.º As matrículas para o ano escolar de 1964-1965 nas escolas e secções criadas pelo presente diploma efectuar-se-ão no período que vier a ser fixado por despacho ministerial, podendo prèviamente realizar-se exames de admissão, nas datas a fixar igualmente por despacho ministerial, nas escolas de Amarante e Ponte de Lima e na secção industrial e comercial de Mirandela.
+Art. 9.º As matrículas para o ano escolar de 1964-1965 nas escolas e secções criadas pelo presente diploma efectuar-se-ão no período que vier a ser fixado por despacho ministerial, podendo prèviamente realizar-se exames de admissão, nas datas a fixar igualmente por despacho ministerial, nas escolas de Amarante e Ponte de Lima e na secção industrial e comercial de Mirandela.
 
-###### Art. 10.º Os encargos ocasionados pelo provimento dos lugares criados por este decreto serão satisfeitos, no presente ano económico, pelas disponibilidades da dotação inscrita no artigo 821.º, n.º 1), do correspondente orçamento do Ministério da Educação Nacional.
+Art. 10.º Os encargos ocasionados pelo provimento dos lugares criados por este decreto serão satisfeitos, no presente ano económico, pelas disponibilidades da dotação inscrita no artigo 821.º, n.º 1), do correspondente orçamento do Ministério da Educação Nacional.
 
-###### Art. 11.º Até à constituição dos conselhos administrativos da Escola Industrial de Amarante e da Escola Técnica de Ponte de Lima, as correspondentes atribuições competem aos directores.
+Art. 11.º Até à constituição dos conselhos administrativos da Escola Industrial de Amarante e da Escola Técnica de Ponte de Lima, as correspondentes atribuições competem aos directores.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Outubro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - António Manuel Pinto Barbosa - Inocêncio Galvão Teles.
 
 Mapa n.º 1, a que se refere o artigo 7.º do Decreto n.º 45980, desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/10/24600/15041506.pdf))](https://files.diariodarepublica.pt/1s/1964/10/24600/15041506.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/10/24600/15041506.pdf)
 
 Mapa n.º 2, a que se refere o artigo 8.º do Decreto n.º 45980, desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/10/24600/15041506.pdf))](https://files.diariodarepublica.pt/1s/1964/10/24600/15041506.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/10/24600/15041506.pdf)
 
 Ministério da Educação Nacional, 20 de Outubro de 1964. - O Ministro da Educação Nacional, Inocêncio Galvão Teles.

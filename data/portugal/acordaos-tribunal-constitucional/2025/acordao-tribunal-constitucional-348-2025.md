@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/05/10200/0003900046.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/348/2025/05/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/348-2025-919680148
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-28T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2cd215e96db10ba8f09ba818a0649747686aa3d493072f6ee06e7e68f6ec5d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20f473fcd7b6e00a339191dd03f5a37d8cabdb70571f87d1bad229e7ac01f4d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,10 +70,10 @@ reuse:
 subjects:
 - Alienação de BENS
 - BENS Imóveis
-- IRS
 - Inconstitucionalidade
-- Presunção
+- IRS
 - Mais-Valias
+- Presunção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/60-a/2011/11/30/p/dre
@@ -83,16 +83,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/82-e/2014/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/82-e/2014/12/31/p/dre
+- type: cites
+  target: pt:dre:106677550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173035580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2425033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66022085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72933535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:856356993:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:43Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +143,7 @@ I - RELATÓRIO
 
 1 - O REPRESENTANTE DO MINISTÉRIO PÚBLICO junto do Tribunal Constitucional requereu, em conformidade com o artigo 82.º da Lei de Organização, Funcionamento e Processo do Tribunal Constitucional ([Lei n.º 28/82](https://diariodarepublica.pt/dr/detalhe/lei/28-1982-377508), de 15 de novembro, doravante “LTC”), a organização de um processo, a tramitar nos termos do processo de fiscalização abstrata sucessiva da constitucionalidade, com vista à apreciação pelo Plenário da constitucionalidade da norma constante do artigo 44.º, n.º 2, do Código do Imposto sobre o Rendimento das Pessoas Singulares, quando interpretada no sentido de que «para efeitos da determinação dos ganhos sujeitos a IRS relativos a mais-valias decorrentes da alienação onerosa de bens imóveis, ali se estabelece uma “presunção inilidível”».
 
-2 - De forma a legitimar o seu pedido, alega o requerente que tais normas foram julgadas inconstitucionais, em mais de três casos concretos, nomeadamente nos Acórdãos n.<sup>os</sup>[211/2017](https://diariodarepublica.pt/dr/detalhe/acordao/211-2017-106677550), [488/2021](https://diariodarepublica.pt/dr/detalhe/acordao-extrato/488-2021-173035580) e [110/2024](https://diariodarepublica.pt/dr/detalhe/acordao-extrato/110-2024-856356993), o que permite ter por verificado o pressuposto previsto no n.º 3 do artigo 281.º da Constituição, já que todas as referidas decisões transitaram em julgado.
+2 - De forma a legitimar o seu pedido, alega o requerente que tais normas foram julgadas inconstitucionais, em mais de três casos concretos, nomeadamente nos Acórdãos n.os[211/2017](https://diariodarepublica.pt/dr/detalhe/acordao/211-2017-106677550), [488/2021](https://diariodarepublica.pt/dr/detalhe/acordao-extrato/488-2021-173035580) e [110/2024](https://diariodarepublica.pt/dr/detalhe/acordao-extrato/110-2024-856356993), o que permite ter por verificado o pressuposto previsto no n.º 3 do artigo 281.º da Constituição, já que todas as referidas decisões transitaram em julgado.
 
 Para o que ora releva, são os seguintes os termos do requerimento:
 
@@ -119,7 +155,7 @@ O [Acórdão n.º 211/2017](https://diariodarepublica.pt/dr/detalhe/acordao/211-
 
 2.º
 
-Este juízo de inconstitucionalidade foi, posteriormente, reafirmado pelos Acórdãos n.<sup>os</sup>[488/2021](https://diariodarepublica.pt/dr/detalhe/acordao-extrato/488-2021-173035580) e [110/2024](https://diariodarepublica.pt/dr/detalhe/acordao-extrato/110-2024-856356993), da 2.ª Secção deste Tribunal Constitucional.
+Este juízo de inconstitucionalidade foi, posteriormente, reafirmado pelos Acórdãos n.os[488/2021](https://diariodarepublica.pt/dr/detalhe/acordao-extrato/488-2021-173035580) e [110/2024](https://diariodarepublica.pt/dr/detalhe/acordao-extrato/110-2024-856356993), da 2.ª Secção deste Tribunal Constitucional.
 
 3.º
 
@@ -139,7 +175,7 @@ A) Pressupostos de cognição
 
 5 - O artigo 281.º, n.º 3, da Constituição estatui que o Tribunal Constitucional aprecia e declara, com força obrigatória geral, a inconstitucionalidade ou a ilegalidade de normas por ele julgadas inconstitucionais ou ilegais, em três casos concretos. O artigo 82.º da LTC, por seu turno, atribui ao Ministério Público legitimidade para requerer a apreciação abstrata da constitucionalidade ou legalidade de normas julgadas inconstitucionais ou ilegais pelo Tribunal em três casos concretos.
 
-Não se levantam, nesta sede, quaisquer dúvidas sobre a legitimidade ativa do representante do Ministério Público. De igual modo, verifica-se que o pedido de fiscalização abstrata sucessiva da constitucionalidade formulado nos presentes autos tem por base os três casos concretos legalmente exigidos. O requerente invoca três decisões proferidas em sede de fiscalização concreta da constitucionalidade, correspondendo a primeira ao [Acórdão n.º 211/2017](https://diariodarepublica.pt/dr/detalhe/acordao/211-2017-106677550), que julgou “inconstitucional a norma contida no artigo 44.º, n.º 2, do Código do Imposto sobre o Rendimento das Pessoas Singulares, na interpretação segundo a qual, para efeitos da determinação dos ganhos sujeitos a IRS relativos a mais-valias decorrentes da alienação onerosa de bens imóveis, ali se estabelece uma «presunção inilidível», por violação do princípio da capacidade contributiva ínsito nos artigos 103.º, n.º 1 e 13.º da Constituição da República Portuguesa”; o sentido decisório deste aresto foi reiterado nos Acórdãos n.<sup>os</sup>[488/2021](https://diariodarepublica.pt/dr/detalhe/acordao-extrato/488-2021-173035580) e [110/2024](https://diariodarepublica.pt/dr/detalhe/acordao-extrato/110-2024-856356993), de igual forma invocados no pedido.
+Não se levantam, nesta sede, quaisquer dúvidas sobre a legitimidade ativa do representante do Ministério Público. De igual modo, verifica-se que o pedido de fiscalização abstrata sucessiva da constitucionalidade formulado nos presentes autos tem por base os três casos concretos legalmente exigidos. O requerente invoca três decisões proferidas em sede de fiscalização concreta da constitucionalidade, correspondendo a primeira ao [Acórdão n.º 211/2017](https://diariodarepublica.pt/dr/detalhe/acordao/211-2017-106677550), que julgou “inconstitucional a norma contida no artigo 44.º, n.º 2, do Código do Imposto sobre o Rendimento das Pessoas Singulares, na interpretação segundo a qual, para efeitos da determinação dos ganhos sujeitos a IRS relativos a mais-valias decorrentes da alienação onerosa de bens imóveis, ali se estabelece uma «presunção inilidível», por violação do princípio da capacidade contributiva ínsito nos artigos 103.º, n.º 1 e 13.º da Constituição da República Portuguesa”; o sentido decisório deste aresto foi reiterado nos Acórdãos n.os[488/2021](https://diariodarepublica.pt/dr/detalhe/acordao-extrato/488-2021-173035580) e [110/2024](https://diariodarepublica.pt/dr/detalhe/acordao-extrato/110-2024-856356993), de igual forma invocados no pedido.
 
 Nestes termos, é inequívoca a verificação das condições necessárias para a apreciação da citada norma em sede de fiscalização abstrata sucessiva da constitucionalidade.
 
@@ -161,7 +197,7 @@ f) Nos demais casos, o valor da respetiva contraprestação.
 
 2 - Nos casos das alíneas a), b) e f) do número anterior, tratando-se de direitos reais sobre bens imóveis, prevalecerão, quando superiores, os valores por que os bens houverem sido considerados para efeitos de liquidação de imposto municipal sobre as transmissões onerosas de imóveis ou, não havendo lugar a esta liquidação, os que devessem ser, caso fosse devida.
 
-7 - A [Lei n.º 82-E/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-e-2014-66022085), acima mencionada, aditou a este preceito legal os n.<sup>os</sup>5 a 7, com relevância para a apreciação dos autos, cujo teor é o seguinte:
+7 - A [Lei n.º 82-E/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-e-2014-66022085), acima mencionada, aditou a este preceito legal os n.os5 a 7, com relevância para a apreciação dos autos, cujo teor é o seguinte:
 
 “5 - O disposto no n.º 2 não é aplicável se for feita prova de que o valor de realização foi inferior ao ali previsto.
 
@@ -223,7 +259,7 @@ Contudo, não cabendo nesta sede ajuizar da bondade do critério (ou pressuposto
 
 O princípio da capacidade contributiva, enquanto «princípio geral da imposição segundo a capacidade contributiva de cada um» ([Acórdão n.º 211/2003](https://diariodarepublica.pt/dr/detalhe/acordao/211-2003-2425033)), exige que o legislador fiscal configure as obrigações dos contribuintes a partir de factos tributários que fundem a capacidade de suportar o encargo correspondente. Afirmou o Acórdão n.º 348/97 que «a tributação conforme com o princípio da capacidade contributiva implicará a existência e a manutenção de uma efetiva conexão entre a prestação tributária e o pressuposto económico selecionado para objeto do imposto».
 
-O primeiro fundamento deste princípio é encontrado no princípio da igualdade (artigo 13.º, CRP), de modo a que a distribuição dos encargos tributários seja feita de acordo com a capacidade de cada um, isto é, exigindo-se um critério idêntico para todos os cidadãos na repartição de impostos e sendo esse critério o da capacidade contributiva (assim, no citado Acórdão n.º 348/97 e, mais recentemente, nos Acórdãos n.<sup>os</sup>695/2014 e [590/2015](https://diariodarepublica.pt/dr/detalhe/acordao/590-2015-72933535)). A capacidade contributiva é, assim, a medida da diferença.
+O primeiro fundamento deste princípio é encontrado no princípio da igualdade (artigo 13.º, CRP), de modo a que a distribuição dos encargos tributários seja feita de acordo com a capacidade de cada um, isto é, exigindo-se um critério idêntico para todos os cidadãos na repartição de impostos e sendo esse critério o da capacidade contributiva (assim, no citado Acórdão n.º 348/97 e, mais recentemente, nos Acórdãos n.os695/2014 e [590/2015](https://diariodarepublica.pt/dr/detalhe/acordao/590-2015-72933535)). A capacidade contributiva é, assim, a medida da diferença.
 
 E, a partir da sua articulação com os demais princípios materiais da Constituição fiscal - em particular o artigo 103.º da CRP - podemos retirar do princípio da capacidade contributiva, ao pressupor uma repartição justa dos encargos de acordo com a capacidade de cada um, a resposta à demanda constitucional de «uma repartição justa dos rendimentos e da riqueza» (artigo 103.º, n.º 1), a que não deixa de se referir o [Acórdão n.º 211/2003](https://diariodarepublica.pt/dr/detalhe/acordao/211-2003-2425033) - e, bem assim, vê-lo concretizado no princípio de a tributação dever incidir sobre o «rendimento real» dos contribuintes (artigo 104.º, n.º 2), caso se admitisse que a disposição constitucional em causa tem um leque de destinatários mais vasto que o da sua letra e tomando-se por seguro, como faz JOSÉ CASALTA NABAIS, que este preceito constitucional «mais não é do que uma concretização, uma explicitação dos princípios da capacidade contributiva e da igualdade fiscal» (Direito Fiscal, cit., p. 171).
 
@@ -243,7 +279,7 @@ Com efeito, as mais-valias decorrentes da transmissão onerosa de direitos reais
 
 24 - Pelo que fica exposto, conclui-se pela inconstitucionalidade da norma contida no artigo 44.º, n.º 2, do CIRS, na interpretação segundo a qual, para efeitos da determinação dos ganhos sujeitos a IRS relativos a mais-valias decorrentes da alienação onerosa de bens imóveis, ali se estabelece uma ‘presunção inilidível’.”
 
-11 - A jurisprudência subsequente, de que acima se deu nota, não se afastou nem deste juízo de inconstitucionalidade, nem da respetiva fundamentação. Com efeito, nota-se, nos três Acórdãos mencionados (Acórdãos n.<sup>os</sup>[211/2017](https://diariodarepublica.pt/dr/detalhe/acordao/211-2017-106677550), [488/2021](https://diariodarepublica.pt/dr/detalhe/acordao-extrato/488-2021-173035580) e [110/2024](https://diariodarepublica.pt/dr/detalhe/acordao-extrato/110-2024-856356993)), um entendimento claramente uniforme no que respeita ao juízo de (des)conformidade constitucional das normas ora questionadas. Deste modo, reiterando o sentido daquela jurisprudência, resta proceder à declaração de inconstitucionalidade, com força obrigatória geral, da norma constante do artigo 44.º, n.º 2, do Código do Imposto sobre o Rendimento das Pessoas Singulares, na interpretação segundo a qual, para efeitos da determinação dos ganhos sujeitos a IRS relativos a mais-valias decorrentes da alienação onerosa de bens imóveis, ali se estabelece uma «presunção inilidível».
+11 - A jurisprudência subsequente, de que acima se deu nota, não se afastou nem deste juízo de inconstitucionalidade, nem da respetiva fundamentação. Com efeito, nota-se, nos três Acórdãos mencionados (Acórdãos n.os[211/2017](https://diariodarepublica.pt/dr/detalhe/acordao/211-2017-106677550), [488/2021](https://diariodarepublica.pt/dr/detalhe/acordao-extrato/488-2021-173035580) e [110/2024](https://diariodarepublica.pt/dr/detalhe/acordao-extrato/110-2024-856356993)), um entendimento claramente uniforme no que respeita ao juízo de (des)conformidade constitucional das normas ora questionadas. Deste modo, reiterando o sentido daquela jurisprudência, resta proceder à declaração de inconstitucionalidade, com força obrigatória geral, da norma constante do artigo 44.º, n.º 2, do Código do Imposto sobre o Rendimento das Pessoas Singulares, na interpretação segundo a qual, para efeitos da determinação dos ganhos sujeitos a IRS relativos a mais-valias decorrentes da alienação onerosa de bens imóveis, ali se estabelece uma «presunção inilidível».
 
 III - DECISÃO
 
@@ -254,3 +290,5 @@ Sem custas.
 A relatora certifica os votos de conformidade do Senhor Conselheiro Carlos Medeiros de Carvalho, que participou na sessão por videoconferência, e do Senhor Conselheiro Gonçalo de Almeida Ribeiro, que não assina por não estar presente. Mariana Canotilho
 
 Lisboa, 6 de maio de 2025. - Mariana Canotilho - Joana Fernandes Costa - Afonso Patrão - António José da Ascensão Ramos - João Carlos Loureiro - José Eduardo Figueiredo Dias - Rui Guerra da Fonseca - Maria Benedita Urbano - José Teles Pereira - Dora Lucas Neto - José João Abrantes.
+
+119101674

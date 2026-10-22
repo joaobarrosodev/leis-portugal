@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/45/2009/07/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/45-2009-491922
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-01T00:00:00Z'
+  retrieved_at: '2026-10-22T19:11:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb7a8ac6b728d35a48b6ced268d4916560e37e8e28606c611f05006430beac1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e223488c974ff9f3d89fd18c0e652259f8f6bed1427f4ce1e8d78b230f858a26
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:11:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,12 +71,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Infarmed
-- Segurança Pública
+- Comércio
 - Higiene Corporal
 - Importação
-- Comércio
+- Infarmed
+- Segurança Pública
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Alterado o anexo III do Dec Lei 189/2008 de 24-set, na redação da presente Declaração, e Dec Leis 113/2010, de 21-out,\
+    \ e 63/2012, de 15-mar, pelo DEC LEI.245/2012.09.11.2012.MS, DR.IS [217] de 09.11.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2012-11-09'
 - type: cites
   target: celex:31976L0768
   label: null
@@ -105,16 +111,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/189/2008/09/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/189/2008/09/24/p/dre
+- type: cites
+  target: pt:dre:452215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608693:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:115/2009
+  label: "Rectifica os n.ºs 1 e 2 do artigo 6.º (entrada em vigor) do Decreto-Lei n.º 115/2009, de 18 de Maio, DR.IS [95],\
+    \ que alterou o Dec Lei 189/2008 de 24-Set\0\0"
+  source: null
+  date: '2009-05-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:11:34Z'
   warnings: []
   errors: []
 ---

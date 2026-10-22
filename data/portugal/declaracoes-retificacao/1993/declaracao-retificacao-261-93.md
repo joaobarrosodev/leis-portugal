@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 304/1993, 7º Suplemento, Série I-B de 1993-12-31
   number: '304'
   series: I
-  supplement: 7º Suplemento
+  supplement: null
   pages: 7256-(26) a 7256-(26)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/12/304b07/00260026.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/261/1993/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/261-1993-151477
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:38:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e562a540bc7dcfcf1744f15133b04332e4b149bffa191de7a102b18f65291a96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f33a3c6a669ce5f33cce61f22f691fe06bc8b3ff90e2aa88607d7a271d194edb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:38:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,21 +74,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/380/1993/11/30/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/380/1993/11/30/p/dre
+- type: cites
+  target: pt:dre:552326:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:38:33Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 261/93
+# Declaração de rectificação n.º 261/93
 
 Segundo comunicação do Ministério do Planeamento e da Administração do Território, o [Despacho Normativo n.º 380/93](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/380-1993-552326), publicado no Diário da República, n.º 280, de 30 de Novembro de 1993, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
 

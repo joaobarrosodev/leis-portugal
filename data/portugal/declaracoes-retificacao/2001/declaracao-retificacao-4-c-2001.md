@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 50/2001, 2º Suplemento, Série I-A de 2001-02-28
   number: '50'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1122-(7) a 1122-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/02/050a02/00070007.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/4-c/2001/02/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-c-2001-303128
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-28T00:00:00Z'
+  retrieved_at: '2026-10-22T18:59:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 761d23853ac5180d3b8054f7131e66eaf145c9e4a8178349a2547ae3f506d894
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a92833d63117c73232491afe15a21e7373ae481b1d8716f21c4440f26a8ce7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:59:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,12 +69,12 @@ reuse:
 subjects:
 - Criação de Serviços
 - Definição de Competências
-- Secretaria Geral
 - Gabinete dos Assuntos Europeus
 - Integração de Trabalhadores
+- Ministério da Saúde
 - Orgânica
 - Quadro de Pessoal
-- Ministério da Saúde
+- Secretaria Geral
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/2001/01/27/p/dre
@@ -84,16 +84,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/96/2000/05/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/96/2000/05/23/p/dre
+- type: cites
+  target: pt:dre:313618:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:59:17Z'
   warnings: []
   errors: []
 ---

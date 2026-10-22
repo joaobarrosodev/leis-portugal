@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43319-1960-514233
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-11-16T00:00:00Z'
+  retrieved_at: '2026-10-22T19:21:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfbeaea4e8ebd4e7f1556fa879389c54c37ebd3167c35a00121f0ed4592f3566
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a982b470f910b255328b6a33e4724a24028863921aadf39108ad78c681209806
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:21:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634714:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:21:00Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +111,9 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição;
 
 Usando da faculdade conferida pelo n.º 3.º do mesmo artigo, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São introduzidos no mapa I anexo ao [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959, as alterações e aditamentos constantes do mapa V anexo ao presente diploma, que baixa assinado pelo Ministro do Ultramar.
+Artigo 1.º São introduzidos no mapa I anexo ao [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959, as alterações e aditamentos constantes do mapa V anexo ao presente diploma, que baixa assinado pelo Ministro do Ultramar.
 
-###### Art. 2.º São aditadas aos mapas I e IV anexos ao [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584) as seguintes designações funcionais, com as categorias que se indicam:
+Art. 2.º São aditadas aos mapas I e IV anexos ao [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584) as seguintes designações funcionais, com as categorias que se indicam:
 
 Engenheiro metalurgista químico (M) ... H
 
@@ -127,7 +143,7 @@ Encarregado do vagão de socorro ... R
 
 § 4.º São em número de três os lugares de radiotelegrafista criados para os caminhos de ferro da província de Moçambique a prover pelos agentes que já desempenhavam aquelas funções.
 
-###### Art. 3.º São introduzidas nos mapas II e III (gratificações especiais, mensais, a abonar em Angola e Moçambique) anexos ao [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584) as seguintes alterações:
+Art. 3.º São introduzidas nos mapas II e III (gratificações especiais, mensais, a abonar em Angola e Moçambique) anexos ao [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584) as seguintes alterações:
 
 a) Aumentada, nos dois mapas, a rubrica:
 
@@ -137,9 +153,9 @@ b) Substituída a letra L por K em rubrica constante dos dois mapas, que passa a
 
 Funcionários de categoria não superior à do grupo K - quando exerçam funções de chefe de secção ... 250$00
 
-###### Art. 4.º O artigo 11.º do [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959, ao qual é aditado um § único, passa a ter a seguinte redacção:
+Art. 4.º O artigo 11.º do [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959, ao qual é aditado um § único, passa a ter a seguinte redacção:
 
-###### Art. 11.º Os funcionários dos serviços de Moçambique colocados nas agências comerciais de Joanesburgo, Pretória, Salisbúria e Bulavaio têm direito, enquanto estiverem ao serviço das mesmas, aos vencimentos-base e complementar que competirem às suas categorias na província de Moçambique, acrescidos de um complemento mensal abonado a título de residência e fixado da forma seguinte:
+Art. 11.º Os funcionários dos serviços de Moçambique colocados nas agências comerciais de Joanesburgo, Pretória, Salisbúria e Bulavaio têm direito, enquanto estiverem ao serviço das mesmas, aos vencimentos-base e complementar que competirem às suas categorias na província de Moçambique, acrescidos de um complemento mensal abonado a título de residência e fixado da forma seguinte:
 
 Agentes comerciais ... 3000$00
 
@@ -151,7 +167,7 @@ Dactilógrafo ... 2500$00
 
 § único. Todas as remunerações devidas nos termos deste artigo serão pagas em moeda local, ao câmbio fixado para o pagamento das despesas da respectiva agência comercial, no último dia do mês anterior ao da liquidação.
 
-###### Art. 5.º É extinto o quadro complementar de engenheiros praticantes a que se refere o § único do artigo 1.º do [Decreto n.º 36690](https://diariodarepublica.pt/dr/detalhe/decreto/36690-1947-634714), de 23 de Dezembro de 1947, e constante do artigo 14.º do [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), considerando-se aumentado o quadro comum dos engenheiros dos serviços dos portos, caminhos de ferro e transportes do ultramar de mais doze unidades - correspondentes às extintas - na categoria de engenheiros de 2.ª classe, sendo seis para cada uma das províncias de Angola e Moçambique.
+Art. 5.º É extinto o quadro complementar de engenheiros praticantes a que se refere o § único do artigo 1.º do [Decreto n.º 36690](https://diariodarepublica.pt/dr/detalhe/decreto/36690-1947-634714), de 23 de Dezembro de 1947, e constante do artigo 14.º do [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), considerando-se aumentado o quadro comum dos engenheiros dos serviços dos portos, caminhos de ferro e transportes do ultramar de mais doze unidades - correspondentes às extintas - na categoria de engenheiros de 2.ª classe, sendo seis para cada uma das províncias de Angola e Moçambique.
 
 § 1.º Os actuais engenheiros praticantes ingressam no quadro comum na categoria de engenheiro de 2.ª classe, por portaria anotada com dispensa das formalidades de visto.
 
@@ -159,19 +175,19 @@ Dactilógrafo ... 2500$00
 
 § 3.º Os cargos de engenheiro chefe de serviço de obras passam a pertencer às divisões de estudo e construção.
 
-###### Art. 6.º É revogado o [Decreto n.º 38233](https://diariodarepublica.pt/dr/detalhe/decreto/38233-1951-331454), de 2 de Maio de 1951. O corpo do artigo 4.º do [Decreto n.º 36690](https://diariodarepublica.pt/dr/detalhe/decreto/36690-1947-634714), de 23 de Dezembro de 1947, passa a ter a seguinte redacção:
+Art. 6.º É revogado o [Decreto n.º 38233](https://diariodarepublica.pt/dr/detalhe/decreto/38233-1951-331454), de 2 de Maio de 1951. O corpo do artigo 4.º do [Decreto n.º 36690](https://diariodarepublica.pt/dr/detalhe/decreto/36690-1947-634714), de 23 de Dezembro de 1947, passa a ter a seguinte redacção:
 
-###### Art. 4.º A entrada dos engenheiros no quadro comum faz-se na categoria de engenheiro de 2.ª classe, por concurso documental entre os diplomados com um curso superior de Engenharia.
+Art. 4.º A entrada dos engenheiros no quadro comum faz-se na categoria de engenheiro de 2.ª classe, por concurso documental entre os diplomados com um curso superior de Engenharia.
 
 § único. Mantêm-se sem qualquer alteração todos os parágrafos deste artigo 4.º do [Decreto n.º 36690](https://diariodarepublica.pt/dr/detalhe/decreto/36690-1947-634714).
 
-###### Art. 7.º O ingresso no quadro comum dos engenheiros a que se refere o artigo 16.º do [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584) considera-se de provimento definitivo ou provisório, conforme os requerentes tivessem à data daquele decreto mais ou menos de cinco anos de serviço como contratados, ou em comissão, nos serviços dos portos, caminhos de ferro e transportes do ultramar.
+Art. 7.º O ingresso no quadro comum dos engenheiros a que se refere o artigo 16.º do [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584) considera-se de provimento definitivo ou provisório, conforme os requerentes tivessem à data daquele decreto mais ou menos de cinco anos de serviço como contratados, ou em comissão, nos serviços dos portos, caminhos de ferro e transportes do ultramar.
 
-###### Art. 8.º Ao artigo 20.º do [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584) é acrescentado o § único seguinte:
+Art. 8.º Ao artigo 20.º do [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584) é acrescentado o § único seguinte:
 
 § único. Nas futuras nomeações o cargo de subdirector da exploração dos transportes aéreos poderá ser provido por um engenheiro chefe ou por piloto aviador militar ou comercial, devendo, em qualquer dos casos, ter reconhecida capacidade técnica e administrativa.
 
-###### Art. 9.º São aumentadas ao quadro privativo do pessoal dos serviços dos portos, caminhos de ferro e transportes da província de Angola as seguintes unidades:
+Art. 9.º São aumentadas ao quadro privativo do pessoal dos serviços dos portos, caminhos de ferro e transportes da província de Angola as seguintes unidades:
 
 1 chefe de secção de via;
 
@@ -183,7 +199,7 @@ Dactilógrafo ... 2500$00
 
 e eliminados no mesmo quadro quatro lugares de praticante de piloto aviador.
 
-###### Art. 10.º No prazo de 180 dias deverão ser revistos e publicados, após aprovação ministerial:
+Art. 10.º No prazo de 180 dias deverão ser revistos e publicados, após aprovação ministerial:
 
 a) O Regulamento de Admissão e Promoção do Pessoal dos Quadros Privativos e Assalariados;
 
@@ -193,11 +209,11 @@ c) O regulamento dos abonos previstos nas alíneas f), g), h) e j) do artigo 5.�
 
 § único. O estudo de revisão destes regulamentos deve ser efectuado conjuntamente pelos serviços dos portos, caminhos de ferro e transportes das duas províncias e ter em conta as condições próprias da exploração em cada uma delas e a hierarquia fixada no [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), com as alterações constantes do presente diploma.
 
-###### Art. 11.º Os encargos a que a execução do presente diploma der lugar no ano de 1960 serão satisfeitos pela forma estabelecida no artigo 69.º do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
+Art. 11.º Os encargos a que a execução do presente diploma der lugar no ano de 1960 serão satisfeitos pela forma estabelecida no artigo 69.º do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
 
-###### Art. 12.º Ficam autorizados os governadores-gerais de Angola e Moçambique a publicar os orçamentos suplementares necessários ao cumprimento do disposto neste decreto.
+Art. 12.º Ficam autorizados os governadores-gerais de Angola e Moçambique a publicar os orçamentos suplementares necessários ao cumprimento do disposto neste decreto.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Novembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 
@@ -207,7 +223,7 @@ Mapa V a que se refere o artigo 1.º do Decreto n.º 43319, de 16 de Novembro de
 
 Alterações introduzidas no mapa I anexo ao [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/26600/24542456.pdf))](https://files.diariodarepublica.pt/1s/1960/11/26600/24542456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/26600/24542456.pdf)
 
 Observações
 

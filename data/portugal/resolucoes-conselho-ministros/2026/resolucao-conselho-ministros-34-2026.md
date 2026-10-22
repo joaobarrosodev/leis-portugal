@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/34/2026/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/34-2026-1060523846
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-25T00:00:00Z'
+  retrieved_at: '2026-10-22T18:33:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3a13d75301c5e12bab56eb28ea27d06072aea1b7adb31bf0d21dc9cc7383e9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d70a28fe62803529456e89574de6190cdaceb65b1e48dd7fc67176e585e74887
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:33:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Comissão de Coordenação e Desenvolvimento Regional do Norte
-- Comissão de Coordenação e Desenvolvimento Regional de Lisboa e VALE do TEJO
-- Comissão de Coordenação e Desenvolvimento Regional do Algarve
 - Comissão de Coordenação e Desenvolvimento Regional
+- Comissão de Coordenação e Desenvolvimento Regional de Lisboa e VALE do TEJO
 - Comissão de Coordenação e Desenvolvimento Regional do Alentejo
+- Comissão de Coordenação e Desenvolvimento Regional do Algarve
 - Comissão de Coordenação e Desenvolvimento Regional do Centro
+- Comissão de Coordenação e Desenvolvimento Regional do Norte
 - Nomeação
 - Presidente
 relationships:
@@ -78,16 +78,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/36/2023/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/36/2023/05/26/p/dre
+- type: cites
+  target: pt:dre:1038073214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213558633:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:33:34Z'
   warnings: []
   errors: []
 ---
@@ -287,3 +295,5 @@ Deputado à Assembleia da República - XIV Legislatura na lista do Partido Socia
 1986-1993 - Deputado à Assembleia da República;
 
 1983 e 1984 - frequência do curso de Direito na Faculdade de Direito de Lisboa, tendo sido presidente e dirigente associativo na Associação Académica da Faculdade de Direito de Lisboa.
+
+119947798

@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 149/1994, 4º Suplemento, Série I-B de 1994-06-30
   number: '149'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 3466-(4) a 3466-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/06/149b04/00040004.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/91/1994/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/91-1994-576684
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-06-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:43:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89c5c2154950f1073e522940ae788a29618a986bd8156060c5c76a88313930bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4da094f26c9774f8e6baa3b1ff3090216a2dab61dcd6458359b4a2ee0bb5635
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:43:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,28 +69,32 @@ reuse:
 subjects:
 - Crédito à Habitação
 - Crédito Bonificado
-- JURO Bonificado
 - Habitação
+- JURO Bonificado
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/302/1994/05/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/302/1994/05/18/p/dre
+- type: cites
+  target: pt:dre:262582:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:43:37Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 91/94
+# Declaração de rectificação n.º 91/94
 
 Segundo comunicação do Ministério das Obras Públicas, Transportes e Comunicações, a [Portaria n.º 302/94](https://diariodarepublica.pt/dr/detalhe/portaria/302-1994-262582), publicada no Diário da República, 1.ª série, n.º 115, de 18 de Maio de 1994, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
 

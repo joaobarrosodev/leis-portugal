@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43935-1961-179986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-09-26T00:00:00Z'
+  retrieved_at: '2026-10-22T19:25:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2180abdd78b4bc2434204eaf85e9ed9982faa69d3c7de453e0bc5b55b6271cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 204d144f961a5db0335d3bec296ad4a6d91e8327d832784162072bb81290bafa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:25:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:502457:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:25:49Z'
   warnings: []
   errors: []
 ---
@@ -87,10 +91,10 @@ Tendo em vista o que foi proposto pela Junta Nacional da Educação;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Poderá o Ministro da Educação Nacional autorizar por despacho a constituição ou extinção de subgrupos dentro dos grupos de disciplinas a que se refere o artigo 1.º do [Decreto n.º 43052](https://diariodarepublica.pt/dr/detalhe/decreto/43052-1960-502457), de 6 de Julho de 1960.
+Artigo único. Poderá o Ministro da Educação Nacional autorizar por despacho a constituição ou extinção de subgrupos dentro dos grupos de disciplinas a que se refere o artigo 1.º do [Decreto n.º 43052](https://diariodarepublica.pt/dr/detalhe/decreto/43052-1960-502457), de 6 de Julho de 1960.
 
 § único. O despacho deverá recair sobre parecer emitido pela Junta Nacional da Educação, depois de ouvidas as três Faculdades de Medicina.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 26 de Setembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Lopes de Almeida.

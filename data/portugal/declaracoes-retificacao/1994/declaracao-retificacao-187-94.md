@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 252/1994, 2º Suplemento, Série I-B de 1994-10-31
   number: '252'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 6554-(5) a 6554-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/10/252b02/00050005.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/187/1994/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/187-1994-533191
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-10-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:41:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6d8480b16703490f7fab932e85e564fbb76393e31cef20994dad469f4740755
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4af8edb57a6e5a34adbb45d2a369383b4a6fcd9ed036f3fcd765780d5625b34f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:41:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,43 +67,47 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alcobaça
-- Lisboa
-- Tribunal do Trabalho
+- Coimbra
+- Funchal
 - Gondomar
 - Instalação de Serviços
-- Tribunal Cível
-- Tribunal de Comarca
+- Lisboa
 - Matosinhos
-- Setúbal
-- Funchal
-- Coimbra
-- Santa Maria da Feira
 - Oeiras
+- Porto
+- Santa Maria da Feira
+- Setúbal
 - Sintra
+- Tribunal Cível
 - Tribunal de Círculo
+- Tribunal de Comarca
 - Tribunal de Família
 - Tribunal de Menores
-- Porto
+- Tribunal do Trabalho
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/780/1994/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/780/1994/08/30/p/dre
+- type: cites
+  target: pt:dre:655333:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:41:17Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 187/94
+# Declaração de rectificação n.º 187/94
 
 Segundo comunicação do Ministério da Justiça, a [Portaria n.º 780/94](https://diariodarepublica.pt/dr/detalhe/portaria/780-1994-655333), publicada no Diário da República, 1.ª série, n.º 200, de 30 de Agosto de 1994, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
 

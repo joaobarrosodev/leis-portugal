@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 95/1962, 1º Suplemento, Série I de 1962-04-27
   number: '95'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 613 - 617
   pdf_url: https://files.diariodarepublica.pt/1s/1962/04/09501/06130617.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44310-1962-575769
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-04-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:29:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 443270ff6afa186126b5a73463ef95f828346bd51fb2862f27bdf523ad40ba61
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a97131789fb5d0d89c9a2974872bbc36c94e146b735b2f3aa746b183f3d36904
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:29:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:180997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603012:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:29:00Z'
   warnings: []
   errors: []
 ---
@@ -148,29 +164,29 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 ### CAPÍTULO I — Dos tribunais do trabalho
 
-###### Artigo 1.º As questões suscitadas na interpretação ou na execução das convenções colectivas e dos contratos individuais de trabalho e, bem assim, as que possam surgir entre empresas e trabalhadores no cumprimento das disposições do Código do Trabalho Rural, aprovado pelo [Decreto n.º 44309](https://diariodarepublica.pt/dr/detalhe/decreto/44309-1962-575768), de 27 de Abril de 1962, e respectiva legislação complementar e das leis de protecção do trabalho em geral serão julgadas pelos tribunais do trabalho.
+Artigo 1.º As questões suscitadas na interpretação ou na execução das convenções colectivas e dos contratos individuais de trabalho e, bem assim, as que possam surgir entre empresas e trabalhadores no cumprimento das disposições do Código do Trabalho Rural, aprovado pelo [Decreto n.º 44309](https://diariodarepublica.pt/dr/detalhe/decreto/44309-1962-575768), de 27 de Abril de 1962, e respectiva legislação complementar e das leis de protecção do trabalho em geral serão julgadas pelos tribunais do trabalho.
 
-###### Art. 2.º Os tribunais do trabalho estão subordinados às normas estatutárias dos tribunais ordinários do ultramar em tudo o que não estiver especialmente preceituado.
+Art. 2.º Os tribunais do trabalho estão subordinados às normas estatutárias dos tribunais ordinários do ultramar em tudo o que não estiver especialmente preceituado.
 
-###### Art. 3.º Os juízes do trabalho exercem também funções conciliatórias e arbitrais nos conflitos entre empresas e trabalhadores, em especial quando existam meros contratos singulares de trabalho ou não tenha de se fazer aplicação de direito estrito, podendo ser assistidos de representantes dos organismos de representação profissional a que pertençam as partes em litígio.
+Art. 3.º Os juízes do trabalho exercem também funções conciliatórias e arbitrais nos conflitos entre empresas e trabalhadores, em especial quando existam meros contratos singulares de trabalho ou não tenha de se fazer aplicação de direito estrito, podendo ser assistidos de representantes dos organismos de representação profissional a que pertençam as partes em litígio.
 
-###### Art. 4.º Os tribunais municipais funcionam como tribunais do trabalho de 1.ª instância, quanto às questões relativas aos trabalhadores rurais referidas no artigo 1.º
+Art. 4.º Os tribunais municipais funcionam como tribunais do trabalho de 1.ª instância, quanto às questões relativas aos trabalhadores rurais referidas no artigo 1.º
 
 § único. Aos tribunais a que se refere o presente artigo compete ainda julgar as transgressões das disposições do Código do Trabalho Rural e da sua regulamentação complementar.
 
-###### Art. 5.º Os representantes do Ministério Público junto dos tribunais do trabalho são os protectores oficiosos dos trabalhadores.
+Art. 5.º Os representantes do Ministério Público junto dos tribunais do trabalho são os protectores oficiosos dos trabalhadores.
 
 § único. Os agentes do Ministério Público junto dos tribunais municipais terão as mesmas atribuições que a lei estabelece para os que funcionam junto dos tribunais do trabalho.
 
 ### CAPÍTULO II — Do processo
 
-###### Art. 6.º As acções a que se refere o artigo 1.º seguirão os termos prescritos na lei processual dos tribunais do trabalho e respectivo direito subsidiário, com as modificações constantes das disposições do presente diploma.
+Art. 6.º As acções a que se refere o artigo 1.º seguirão os termos prescritos na lei processual dos tribunais do trabalho e respectivo direito subsidiário, com as modificações constantes das disposições do presente diploma.
 
-###### Art. 7.º Os juízes municipais, enquanto juízes do trabalho, não têm alçada. Das suas decisões haverá sempre recurso, nos termos da lei geral, para o tribunal do trabalho da respectiva comarca, que julgará de facto e de direito.
+Art. 7.º Os juízes municipais, enquanto juízes do trabalho, não têm alçada. Das suas decisões haverá sempre recurso, nos termos da lei geral, para o tribunal do trabalho da respectiva comarca, que julgará de facto e de direito.
 
 § único. Das decisões dos juízes do trabalho proferidas em acções que excedam a respectiva alçada, quando conheçam dos recursos dos tribunais inferiores, cabe recurso para o tribunal da Relação do respectivo distrito judicial, que funcionará como tribunal de revista.
 
-###### Art. 8.º É obrigatório o recurso das decisões finais dos juízes municipais do trabalho:
+Art. 8.º É obrigatório o recurso das decisões finais dos juízes municipais do trabalho:
 
 a) Que conheçam de acções de valor superior a 10000$00;
 
@@ -184,19 +200,19 @@ e) Que conheçam da aplicação da pena de despedimento.
 
 § único. Na falta de impulso ou iniciativa das partes dentro dos prazos legais, os recursos obrigatórios a que se refere o parágrafo anterior subirão oficiosamente nos cinco dias seguintes àqueles prazos.
 
-###### Art. 9.º Os recursos, cíveis ou penais, das decisões dos tribunais municipais têm sempre efeito suspensivo e sobem nos próprios autos.
+Art. 9.º Os recursos, cíveis ou penais, das decisões dos tribunais municipais têm sempre efeito suspensivo e sobem nos próprios autos.
 
-###### Art. 10.º Os autos de transgressão levantados pelas entidades com competência para fiscalizarem o cumprimento da legislação do trabalho fazem fé em juízo, independentemente da intervenção de testemunhas.
+Art. 10.º Os autos de transgressão levantados pelas entidades com competência para fiscalizarem o cumprimento da legislação do trabalho fazem fé em juízo, independentemente da intervenção de testemunhas.
 
 § 1.º Recebido no tribunal o auto de transgressão, o juiz designará logo dia para julgamento, que deverá realizar-se nos quinze dias seguintes.
 
 § 2.º O juiz pode, porém, antes de marcar dia para julgamento, proceder às diligências instrutórias que reputar necessárias ou convenientes, se não preferir devolver o auto à entidade autuante, para que esta as realize.
 
-###### Art. 11.º Os tribunais do trabalho devem procurar, sempre que possível, a resolução dos conflitos de trabalho por via de acordo ou conciliação das partes, e só quando isso não seja possível resolverão os litígios por via de julgamento ou de decisão.
+Art. 11.º Os tribunais do trabalho devem procurar, sempre que possível, a resolução dos conflitos de trabalho por via de acordo ou conciliação das partes, e só quando isso não seja possível resolverão os litígios por via de julgamento ou de decisão.
 
 § único. Os juízes do trabalho poderão, em qualquer fase do processo, tentar a conciliação das partes, durante os actos processuais a que eles tenham comparecido ou em audiências para esse efeito designadas.
 
-###### Art. 12.º Todo o trabalhador, independentemente da idade, do sexo ou do estado civil, pode estar, por si, em juízo, na qualidade de autor, sem necessidade de autorização do representante legal, para o menor, ou do marido, para a mulher casada, sempre que pretenda fazer valer algum direito emergente de relações de trabalho.
+Art. 12.º Todo o trabalhador, independentemente da idade, do sexo ou do estado civil, pode estar, por si, em juízo, na qualidade de autor, sem necessidade de autorização do representante legal, para o menor, ou do marido, para a mulher casada, sempre que pretenda fazer valer algum direito emergente de relações de trabalho.
 
 § 1.º Em matéria de capacidade judiciária passiva dos trabalhadores observar-se-ão as disposições da lei geral.
 
@@ -204,15 +220,15 @@ e) Que conheçam da aplicação da pena de despedimento.
 
 § 3.º Os trabalhadores poderão estar em juízo por intermédio dos respectivos organismos de representação profissional legalmente constituídos ou ser substituídos por estes, como parte principal, mediante procuração ou simples declaração escrita, com assinatura reconhecida por notário.
 
-###### Art. 13.º Os juízes do trabalho poderão oficiosamente, seja qual for a natureza da causa, realizar as diligências que reputem necessárias e requisitar documentos e outros meios de prova, com vista ao inteiro esclarecimento dos factos e à descoberta da verdade material.
+Art. 13.º Os juízes do trabalho poderão oficiosamente, seja qual for a natureza da causa, realizar as diligências que reputem necessárias e requisitar documentos e outros meios de prova, com vista ao inteiro esclarecimento dos factos e à descoberta da verdade material.
 
 § 1.º As decisões dos tribunais do trabalho devem inspirar-se no espírito de conciliação e de solidariedade, fazendo uma apreciação lógica, equitativa e justa de todas as circunstâncias de facto e de direito.
 
 § 2.º As sentenças devem ser formuladas em linguagem clara e simples, indicando os fundamentos, e serão notificadas às partes por escrito.
 
-###### Art. 14.º Com base nas participações de acidentes de trabalho, organizar-se-á oficiosamente o respectivo processo, para efeitos da verificação das condições em que ocorreu o acidente e das mais circunstâncias que ofereçam interesse para a acção de indemnização, a que aquele processo será apensado na oportunidade devida, e para determinação das consequências sofridas pelo sinistrado, sempre que o acidente ocasione a morte do trabalhador ou incapacidade temporária ou permanente. Nos demais casos, o processo só será organizado a requerimento de qualquer dos interessados.
+Art. 14.º Com base nas participações de acidentes de trabalho, organizar-se-á oficiosamente o respectivo processo, para efeitos da verificação das condições em que ocorreu o acidente e das mais circunstâncias que ofereçam interesse para a acção de indemnização, a que aquele processo será apensado na oportunidade devida, e para determinação das consequências sofridas pelo sinistrado, sempre que o acidente ocasione a morte do trabalhador ou incapacidade temporária ou permanente. Nos demais casos, o processo só será organizado a requerimento de qualquer dos interessados.
 
-###### Art. 15.º Falecendo algum trabalhador, durante o período da duração do respectivo contrato de trabalho, durante a viagem para o local do trabalho ou na viagem de regresso ao local de origem, os tribunais do trabalho procederão sempre ao arrolamento dos bens deixados pelo trabalhador falecido, incluindo os salários que tiver a haver da empresa à data da morte, importâncias que lhe forem devidas a título de indemnização e, em geral, todas as coisas e direitos de valor pecuniário.
+Art. 15.º Falecendo algum trabalhador, durante o período da duração do respectivo contrato de trabalho, durante a viagem para o local do trabalho ou na viagem de regresso ao local de origem, os tribunais do trabalho procederão sempre ao arrolamento dos bens deixados pelo trabalhador falecido, incluindo os salários que tiver a haver da empresa à data da morte, importâncias que lhe forem devidas a título de indemnização e, em geral, todas as coisas e direitos de valor pecuniário.
 
 § 1.º Sendo o trabalhador acompanhado da sua família, a esta serão logo entregues os bens arrolados com cópia da respectiva relação, devendo o auto de arrolamento ser oficiosamente junto ao processo de inventário orfanológico, se a este houver lugar, bem assim o termo de entrega.
 
@@ -224,9 +240,9 @@ e) Que conheçam da aplicação da pena de despedimento.
 
 ### CAPÍTULO III — Das custas nos tribunais municipais do trabalho
 
-###### Art. 16.º Em matéria de custas nos tribunais do trabalho, observar-se-á o que se achar estabelecido em cada província, sem prejuízo da aplicação das disposições constantes do presente capítulo, no que respeita aos tribunais municipais do trabalho.
+Art. 16.º Em matéria de custas nos tribunais do trabalho, observar-se-á o que se achar estabelecido em cada província, sem prejuízo da aplicação das disposições constantes do presente capítulo, no que respeita aos tribunais municipais do trabalho.
 
-###### Art. 17.º Nos processos seguidamente mencionados, quando corram pelos tribunais municipais do trabalho, observar-se-á o seguinte, quanto a custas:
+Art. 17.º Nos processos seguidamente mencionados, quando corram pelos tribunais municipais do trabalho, observar-se-á o seguinte, quanto a custas:
 
 a) Nas questões emergentes de contratos individuais de trabalho, decaindo a entidade patronal, cobrar-se-á uma quantia única, igual a 10 por cento do valor das indemnizações fixadas na sentença;
 
@@ -242,7 +258,7 @@ f) Nos processos de homologação de acordos sobre remição de pensões, cobrar
 
 g) Nos processos de transgressão, cobrar-se-á uma quantia fixa, a determinar na sentença, em caso de condenação, de harmonia com o disposto na alínea b).§ único. As disposições do presente artigo serão também aplicáveis nos casos previstos no artigo 25.º
 
-###### Art. 18.º As custas serão aplicadas pela forma seguinte:
+Art. 18.º As custas serão aplicadas pela forma seguinte:
 
 a) 40 por cento constituem remuneração do pessoal do cartório ou da secretaria do tribunal, sendo assim distribuída:
 
@@ -254,31 +270,31 @@ b) 10 por cento constituem receita do cofre do tribunal;
 
 c) os restantes 50 por cento constituem receita do Estado.
 
-###### Art. 19.º As importâncias das multas cobradas constituem receita do Estado e do cofre do tribunal, em partes iguais.
+Art. 19.º As importâncias das multas cobradas constituem receita do Estado e do cofre do tribunal, em partes iguais.
 
-###### Art. 20.º As quantias mencionadas no artigo 17.º abrangem a totalidade do que é devido pelas entidades responsáveis, incluído o imposto do selo.
+Art. 20.º As quantias mencionadas no artigo 17.º abrangem a totalidade do que é devido pelas entidades responsáveis, incluído o imposto do selo.
 
-###### Art. 21.º Nos tribunais do trabalho, a justiça será inteiramente gratuita para os trabalhadores. Nos casos em que se prove que estes litigam de má fé, não haverá condenação em custas, mas os litigantes de má fé serão condenados em multa, cujo montante será de 200$00 a 2000$00.
+Art. 21.º Nos tribunais do trabalho, a justiça será inteiramente gratuita para os trabalhadores. Nos casos em que se prove que estes litigam de má fé, não haverá condenação em custas, mas os litigantes de má fé serão condenados em multa, cujo montante será de 200$00 a 2000$00.
 
 § único. As empresas ou companhias de seguros que litiguem de má fé serão condenadas em multa de 500$00 a 30000$00, e em indemnização ao trabalhador, a fixar pelo juiz, segundo o seu prudente arbítrio e as circunstâncias da causa.
 
 ### CAPÍTULO IV — Disposições diversas
 
-###### Art. 22.º Aos tribunais municipais do trabalho são aplicáveis as disposições do [Decreto n.º 43898](https://diariodarepublica.pt/dr/detalhe/decreto/43898-1961-180997), de 6 de Setembro de 1961, na medida em que não prejudiquem as disposições do presente decreto.
+Art. 22.º Aos tribunais municipais do trabalho são aplicáveis as disposições do [Decreto n.º 43898](https://diariodarepublica.pt/dr/detalhe/decreto/43898-1961-180997), de 6 de Setembro de 1961, na medida em que não prejudiquem as disposições do presente decreto.
 
-###### Art. 23.º Aos subdelegados do procurador da República junto dos tribunais municipais do trabalho são aplicáveis as disposições dos artigos 5.º, 6.º e 7.º do [Decreto n.º 42383](https://diariodarepublica.pt/dr/detalhe/decreto/42383-1959-432829), de 13 de Julho de 1959.
+Art. 23.º Aos subdelegados do procurador da República junto dos tribunais municipais do trabalho são aplicáveis as disposições dos artigos 5.º, 6.º e 7.º do [Decreto n.º 42383](https://diariodarepublica.pt/dr/detalhe/decreto/42383-1959-432829), de 13 de Julho de 1959.
 
-###### Art. 24.º Ficam os órgãos legislativos das províncias autorizados a instituir julgados municipais do trabalho nas sedes das comarcas, independentemente de os respectivos concelhos se acharem subdivididos em bairros administrativos.
+Art. 24.º Ficam os órgãos legislativos das províncias autorizados a instituir julgados municipais do trabalho nas sedes das comarcas, independentemente de os respectivos concelhos se acharem subdivididos em bairros administrativos.
 
 § único. Os tribunais a que o presente artigo se refere terão a constituição e o funcionamento estabelecidos no [Decreto n.º 43898](https://diariodarepublica.pt/dr/detalhe/decreto/43898-1961-180997), de 6 de Setembro de 1961.
 
-###### Art. 25.º Nos casos em que, nas sedes das comarcas, não existam os tribunais municipais do trabalho a que se refere o artigo anterior, observar-se-á a disposição do n.º 4 do artigo 2.º do [Decreto n.º 43898](https://diariodarepublica.pt/dr/detalhe/decreto/43898-1961-180997).
+Art. 25.º Nos casos em que, nas sedes das comarcas, não existam os tribunais municipais do trabalho a que se refere o artigo anterior, observar-se-á a disposição do n.º 4 do artigo 2.º do [Decreto n.º 43898](https://diariodarepublica.pt/dr/detalhe/decreto/43898-1961-180997).
 
 § único. Quanto aos recursos interpostos das decisões dos juízes do trabalho, nas hipóteses a que se refere o presente artigo, o tribunal da Relação conhece de facto e de direito, mas dos respectivos acórdãos não haverá recurso.
 
-###### Art. 26.º Os processos pendentes noutros tribunais ou em quaisquer departamentos dos serviços públicos a que por lei anterior fosse cometida competência para conhecer das acções a que se referem os artigos 1.º e 4.º do presente diploma, na data em que este começar a vigorar, transitarão para os tribunais municipais do trabalho que sejam territorialmente competentes para deles conhecer.
+Art. 26.º Os processos pendentes noutros tribunais ou em quaisquer departamentos dos serviços públicos a que por lei anterior fosse cometida competência para conhecer das acções a que se referem os artigos 1.º e 4.º do presente diploma, na data em que este começar a vigorar, transitarão para os tribunais municipais do trabalho que sejam territorialmente competentes para deles conhecer.
 
-###### Art. 27.º O presente decreto entrará em vigor no dia 1 de Outubro de 1962, nas províncias de Cabo Verde, Guiné, S. Tomé e Príncipe, Angola e Moçambique. Publique-se e cumpra-se como nele se contém.
+Art. 27.º O presente decreto entrará em vigor no dia 1 de Outubro de 1962, nas províncias de Cabo Verde, Guiné, S. Tomé e Príncipe, Angola e Moçambique. Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Abril de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

@@ -46,40 +46,271 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-16T00:00:00Z'
+  retrieved_at: '2026-10-22T19:36:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e60032f24897e4d0bc472eac1f8e915248abdb8043073956f2da8ecb40ff0ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5df41cb7f8426d3703b79cb5030ffe1d63ceca6e1768429726dee196b9715cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:36:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caixa Sindical de Previdência
+- Contribuições e Impostos
+- Previdência Social
+- Regulamento
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:490249:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:142562:por
+  label: "Alterado o art. 52º do Regulamento pelo DEC.263/70.11.06.1970.MCPS, DG.IS [135] de 11.06.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/263-1970-142562
+  date: '1970-06-11'
+- type: amended_by
+  target: pt:dre:673820:por
+  label: "Alterados os arts. 73º, 96º e 100º do Regulamento aprovado pelo presente diploma, pelo DEC.178/73.1973.04.17.MCPS,\
+    \ DG.IS [91]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/178-1973-673820
+  date: '1973-04-17'
+- type: amended_by
+  target: pt:dre:421459:por
+  label: "Dada nova redação aos arts. 24º, 48º, 50º e 78º do Regulamento Geral das Caixas Sindicais de Previdência pelo DEC.358/73.16.07.1973.MCPS,\
+    \ DG.IS [165] de 16.07.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/358-1973-421459
+  date: '1973-07-16'
+- type: amended_by
+  target: pt:dre:599971:por
+  label: "Dada nova redacção aos arts. 77º, 80º, 88º e 89º do Regulamento Geral das Caixas Sindicais de Previdência pelo DEC.486/73.27.09.1973.MCPS,\
+    \ DG.IS [227-Supl] de 27.09.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/486-1973-599971
+  date: '1973-09-27'
+- type: amended_by
+  target: pt:dre:355346:por
+  label: "Dada nova redacção ao nº 2 do art. 116º pelo DEC.785/75.31.12.1975.MAS, DG.IS [300-7ºSupl] de 31.12.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/785-1975-355346
+  date: '1975-12-31'
+- type: amended_by
+  target: pt:dre:506645:por
+  label: "Alterados os artigos 53.º a 56.º pelo DEC LEI.112/76.07.02.1976.MAS, DG.IS [32] de 07.02.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/112-1976-506645
+  date: '1976-02-07'
+- type: amended_by
+  target: pt:dre:502188:por
+  label: Alterado o art. 82.º pelo(a) Decreto n.º 306/76 - Diário da República n.º 98/1976, Série I de 1976-04-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/306-1976-502188
+  date: '1976-04-26'
+- type: amended_by
+  target: pt:dre:251778:por
+  label: "Dada nova redação aos arts. 50º (alterado pelo Dec 358/73 de 16-jul), 77º e 88º (ambos alterados pelo Dec 486/73\
+    \ de 27-set) do Regulamento Geral das Caixas Sindicais de Previdência, aprovado pelo presente diploma, pelo DR.26/77.04.05.1977.MAS,\
+    \ DR.IS [103] de 04.05.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/25-1977-251778
+  date: '1977-05-04'
+- type: amended_by
+  target: pt:dre:468829:por
+  label: Mantido em vigor o prazo de entrega das folhas de férias ou ordenados estabelecido no Regulamento Geral das Caixas
+    Sindicais de Previdência, promulgado pelo presente diploma pelo(a) Despacho Normativo n.º 5/78 - Diário da República n.º
+    9/1978, Série I de 1978-01-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/5-1978-468829
+  date: '1978-01-11'
+- type: amended_by
+  target: pt:dre:434602:por
+  label: Alterado o n.º 4 do art. 80.º pelo(a) Decreto Regulamentar n.º 24/78 - Diário da República n.º 161/1978, 2º Suplemento,
+    Série I de 1978-07-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/24-1978-434602
+  date: '1978-07-15'
+- type: amended_by
+  target: pt:dre:382447:por
+  label: "Dada nova redacção ao artigo 98.º pelo DR.22/79.15.05.1979.MAS, DR.IS [111] de 15.05.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/22-1979-382447
+  date: '1979-05-15'
+- type: amended_by
+  target: pt:dre:377528:por
+  label: "Aditado o nº 4 ao art. 18º, pelo DR.40/79.1979.08.16.MAS, DR.IS [188]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/40-1979-377528
+  date: '1979-08-16'
+- type: amended_by
+  target: pt:dre:677801:por
+  label: "Alterado o nº 2 do art. 24º e o nº 2 do art. 126º, pelo DR.7/80.1980.04.03.MAS, DR.IS [79]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/7-1980-677801
+  date: '1980-04-03'
+- type: amended_by
+  target: pt:dre:376794:por
+  label: "Aditado um art. 48º-A, pelo DR.68/82.1982.10.14.MAS, DR.IS [238]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/68-1982-376794
+  date: '1982-10-14'
+- type: amended_by
+  target: pt:dre:387296:por
+  label: "Alterados os nºs 3 e 4 do art. 18º, pelo DR.45/84.1984.06.25.MNE, DR.IS [145]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/45-1984-387296
+  date: '1984-06-25'
+- type: amended_by
+  target: pt:dre:400031:por
+  label: "Alterado o art. 163º, pelo DR.77/84.1984.10.09.MFP, DR.IS [234]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/77-1984-400031
+  date: '1984-10-09'
+- type: amended_by
+  target: pt:dre:227461:por
+  label: "Definido o arredondamento a que fica sujeito o subsídio diário a que se refere o art. 48º do presente diploma, pelo\
+    \ DN.33/86.16.04.1986.MTSS, DR.IS [105] de 08.05.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/33-1986-227461
+  date: '1986-04-16'
+- type: amended_by
+  target: pt:dre:419009:por
+  label: "Alterados os arts. 33º e 48º, pelo DR.36/87.1987.06.17.MTSS, DR.IS [137]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/36-1987-419009
+  date: '1987-06-17'
+- type: amended_by
+  target: pt:dre:286716:por
+  label: "Aditado um nº 6 ao art. 77º, pelo DR.7/88.1988.02.29.MESS, DR.IS [49]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/7-1988-286716
+  date: '1988-02-29'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDAS NOS SEUS PRECISOS TERMOS AS SECÇÕES V E VI PELO DEC LEI 329/93 DE 25-SET DR.IS-A [226] \0]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-09-25'
+- type: amended_by
+  target: pt:dre:653127:por
+  label: Substituídas as secções V e VI do presente diploma pelo(a) Decreto-Lei n.º 329/93 - Diário da República n.º 226/1993,
+    Série I-A de 1993-09-25, nos seus precios termos.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-1993-653127
+  date: '1993-09-25'
+- type: cites
+  target: pt:dre:163242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236369:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594099:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659484:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:140827:por
+  label: "Revogado o nº2 do art. 95º pelo DEC LEI.277/70.18.06.1970.MCPS, DG.IS [140] de 18.06.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/277-1970-140827
+  date: '1970-06-18'
+- type: repealed_by
+  target: pt:dre:310855:por
+  label: "Revogado o art. 113º, pelo DR.12/83.1983.02.12.MAS, DR.IS [36]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/12-1983-310855
+  date: '1983-02-12'
+- type: repealed_by
+  target: pt:dre:285146:por
+  label: Revogada a secção II do capítulo V e o artigo 194.º, pelo DEC LEI.132/88.20.04.1988.MESS, DR.IS [92] de 20.04.1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-1988-285146
+  date: '1988-04-20'
+- type: repealed_by
+  target: pt:dre:610416:por
+  label: "Revogados os arts, 124º a 126º pelo DEC LEI.40/89.01.02.1989.MESS, DR.IS [27] de 01.02.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-1989-610416
+  date: '1989-02-01'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: REVOGADO O ART 179 PELO DEC LEI 64/89 DE 25-FEV DR.IS [47]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-02-25'
+- type: repealed_by
+  target: pt:dre:565458:por
+  label: Revogada a sec VII do cap V, pelo DEC LEI.322/90.18.10.1990.MESS, DR.IS [241] de 18.10.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/322-1990-565458
+  date: '1990-10-18'
+- type: repealed_by
+  target: pt:dre:626418:por
+  label: "Revogados os arts 2, 3 e 4 do art. 18º, na redacção do DR 45/84, de 25-Jun pelo DEC LEI.64/93.1993.03.05.MESS DR.IS\
+    \ [54]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-1993-626418
+  date: '1993-03-05'
+- type: repealed_by
+  target: pt:dre:490249:por
+  label: "Revogados, a partir de 01.01.2011 (alteração da data de entrada em vigor efectuada pela Lei n.º 119/2009, de 30\
+    \ de Dezembro), os arts. 17.º, 20.º, 24.º, 127.º, 128.º e 129.º, pela LEI.110/2009.16.09.2009.AR, DR.IS [180] de 16.09.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/110-2009-490249
+  date: '2009-09-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 40
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:36:51Z'
   warnings: []
   errors: []
 ---
@@ -530,7 +761,7 @@ REGULAMENTO GERAL DAS CAIXAS SINDICAIS DE PREVIDÊNCIA
 
 ### CAPÍTULO I — Das espécies e fins
 
-###### Artigo 1.º As instituições de previdência previstas na alínea a) do n.º 2 da base III da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, podem ser das seguintes espécies:
+Artigo 1.º As instituições de previdência previstas na alínea a) do n.º 2 da base III da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, podem ser das seguintes espécies:
 
 a) Caixas de previdência e abono de família, destinadas à protecção dos beneficiários e seus familiares na doença e na maternidade e à concessão de abono de família e prestações complementares;
 
@@ -538,27 +769,27 @@ b) Caixas de pensões, destinadas à protecção dos beneficiários, ou seus fam
 
 c) Caixas de seguros, destinadas à cobertura de riscos especiais sempre que não seja aconselhável a inclusão de tais eventualidades nos esquemas de outras caixas sindicais.
 
-###### Art. 2.º As caixas sindicais de previdência podem, além dos referidos no artigo anterior, prosseguir outros fins de previdência, quando autorizadas pelo Ministro das Corporações e Previdência Social, ouvido o Conselho Superior da Previdência e da Habitação Económica, e estabelecidas as condições gerais de atribuição das prestações em diploma regulamentar, mediante audiência do conselho social.
+Art. 2.º As caixas sindicais de previdência podem, além dos referidos no artigo anterior, prosseguir outros fins de previdência, quando autorizadas pelo Ministro das Corporações e Previdência Social, ouvido o Conselho Superior da Previdência e da Habitação Económica, e estabelecidas as condições gerais de atribuição das prestações em diploma regulamentar, mediante audiência do conselho social.
 
-###### Art. 3.º - 1. As caixas de previdência e abono de família constituirão uma federação nacional, destinada a coordenar a acção das instituições federadas e a efectuar a compensação financeira dos seguros que façam ou venham a fazer parte do seu esquema regulamentar.
+Art. 3.º - 1. As caixas de previdência e abono de família constituirão uma federação nacional, destinada a coordenar a acção das instituições federadas e a efectuar a compensação financeira dos seguros que façam ou venham a fazer parte do seu esquema regulamentar.
 
 2. A concessão de pensões aos beneficiários das caixas de previdência e abono de família incumbirá a uma instituição do âmbito nacional, que se denominará «Caixa Nacional de Pensões».
 
 ### CAPÍTULO II — Da constituição e âmbito
 
-###### Art. 4.º A iniciativa da constituição das caixas sindicais de previdência compete:
+Art. 4.º A iniciativa da constituição das caixas sindicais de previdência compete:
 
 a) Às corporações, bem como aos grémios e sindicatos nacionais e suas federações ou uniões, por meio de convenções colectivas de trabalho;
 
 b) Ao Ministério das Corporações e Previdência Social, directamente ou a requerimento dos interessados ou dos organismos corporativos que os representem.
 
-###### Art. 5.º - 1. O pedido de constituição de uma caixa será formulado em requerimento dirigido ao Ministro das Corporações e Previdência Social, assinado pelas direcções dos organismos corporativos ou por uma comissão representativa dos interessados, conforme os casos, e acompanhado de dois exemplares do projecto do estatuto.
+Art. 5.º - 1. O pedido de constituição de uma caixa será formulado em requerimento dirigido ao Ministro das Corporações e Previdência Social, assinado pelas direcções dos organismos corporativos ou por uma comissão representativa dos interessados, conforme os casos, e acompanhado de dois exemplares do projecto do estatuto.
 
 2. A constituição de uma caixa por iniciativa do Ministério das Corporações e Previdência Social será proposta pelos serviços competentes e ordenada em portaria publicada no Diário do Governo. Nesta poderá determinar-se que os futuros inscritos comecem a contribuir em data anterior à publicação do estatuto e forneçam os elementos indispensáveis à sua elaboração e estudo técnico nas condições que a mesma portaria fixar.
 
-###### Art. 6.º As caixas sindicais de previdência, depois de legalmente constituídas, têm personalidade jurídica.
+Art. 6.º As caixas sindicais de previdência, depois de legalmente constituídas, têm personalidade jurídica.
 
-###### Art. 7.º - 1. As caixas consideram-se legalmente constituídas depois de aprovados por alvará os seus estatutos e de publicada a respectiva declaração no Diário do Governo ou no Boletim do Instituto Nacional do Trabalho e Previdência.
+Art. 7.º - 1. As caixas consideram-se legalmente constituídas depois de aprovados por alvará os seus estatutos e de publicada a respectiva declaração no Diário do Governo ou no Boletim do Instituto Nacional do Trabalho e Previdência.
 
 2. Do despacho que negar a aprovação do estatuto não há recurso contencioso.
 
@@ -572,7 +803,7 @@ c) Esquema de benefícios e prazos de garantia;
 
 d) Contribuição das entidades patronais e dos beneficiários.
 
-###### Art. 8.º - 1. Os estatutos das caixas sindicais de previdência podem ser alterados por despacho do Ministro das Corporações e Previdência Social, proferido:
+Art. 8.º - 1. Os estatutos das caixas sindicais de previdência podem ser alterados por despacho do Ministro das Corporações e Previdência Social, proferido:
 
 a) Sobre requerimento assinado pela direcção, acompanhado de parecer do conselho geral e de dois exemplares do projecto de alteração;
 
@@ -580,7 +811,7 @@ b) Oficiosamente, sob proposta dos serviços competentes.
 
 2. A alteração produzirá efeitos a partir da publicação da declaração respectiva nos termos do artigo anterior, observando-se o disposto nos números 2 e 3 do mesmo artigo.
 
-###### Art. 9.º Dos estatutos das caixas constarão as normas necessárias para a boa realização dos seus objectivos, e nomeadamente:
+Art. 9.º Dos estatutos das caixas constarão as normas necessárias para a boa realização dos seus objectivos, e nomeadamente:
 
 a) Nome, sede e âmbito da caixa, com indicação dos organismos corporativos que tenham intervindo na sua constituição;
 
@@ -598,7 +829,7 @@ g) Especificação das receitas, despesas e fundos;
 
 h) Quantia máxima que aos tesoureiros é permitido ter em caixa.
 
-###### Art. 10.º - 1. As caixas de previdência e abono de família serão organizadas em base regional, sem prejuízo da manutenção de caixas privativas de uma empresa ou grupo de empresas, ou de certo ramo de actividade económica, quando, mediante parecer do Conselho Superior da Previdência e da Habitação Económica, se reconheça haver vantagens sociais em tal enquadramento.
+Art. 10.º - 1. As caixas de previdência e abono de família serão organizadas em base regional, sem prejuízo da manutenção de caixas privativas de uma empresa ou grupo de empresas, ou de certo ramo de actividade económica, quando, mediante parecer do Conselho Superior da Previdência e da Habitação Económica, se reconheça haver vantagens sociais em tal enquadramento.
 
 2. O âmbito das caixas regionais de previdência e abono de família compreenderá os trabalhadores que na sua área exerçam as profissões referidas nos estatutos; o das caixas de empresas ou de actividades abrangerá o pessoal normalmente ao serviço das empresas interessadas.
 
@@ -606,13 +837,13 @@ h) Quantia máxima que aos tesoureiros é permitido ter em caixa.
 
 4. Poderá ser autorizado ou determinado, pelo Ministro das Corporações e Previdência Social, que os trabalhadores inscritos como sócios das Casas do Povo e das Casas dos Pescadores e as pessoas a estes equiparadas, bem como os que, sem dependência de entidades patronais, exerçam certas profissões, serviços ou actividades, sejam incluídos nas caixas regionais de previdência e abono de família, e ainda, cumulativamente, na Caixa Nacional de Pensões, para o efeito de beneficiarem de uma ou mais modalidades de seguro do esquema destas instituições, mediante o pagamento das contribuições correspondentes.
 
-###### Art. 11.º - 1. As caixas de pensões compreenderão no seu âmbito os trabalhadores das profissões ou actividades definidas nos seus estatutos.
+Art. 11.º - 1. As caixas de pensões compreenderão no seu âmbito os trabalhadores das profissões ou actividades definidas nos seus estatutos.
 
 2. A Caixa Nacional de Pensões abrangerá os beneficiários das caixas de previdência e abono de família protegidos nas eventualidades de invalidez, velhice e morte.
 
-###### Art. 12.º As caixas de seguros compreenderão as actividades ou profissões sujeitas aos riscos especiais que constituem o objecto da sua protecção, de harmonia com o disposto nos seus estatutos.
+Art. 12.º As caixas de seguros compreenderão as actividades ou profissões sujeitas aos riscos especiais que constituem o objecto da sua protecção, de harmonia com o disposto nos seus estatutos.
 
-###### Art. 13.º - 1. O Ministro das Corporações e Previdência Social, ouvido o Conselho Superior da Previdência e da Habitação Económica, poderá determinar, mediante despacho, o alargamento de âmbito das caixas, quando motivos de ordem social ou económica o justifiquem.
+Art. 13.º - 1. O Ministro das Corporações e Previdência Social, ouvido o Conselho Superior da Previdência e da Habitação Económica, poderá determinar, mediante despacho, o alargamento de âmbito das caixas, quando motivos de ordem social ou económica o justifiquem.
 
 2. O despacho referido no número anterior, que produzirá efeitos a partir da publicação no Diário do Governo ou no Boletim do Instituto Nacional do Trabalho e Previdência, pode ser proferido:
 
@@ -620,11 +851,11 @@ a) Visando exclusivamente o alargamento;
 
 b) Tendo em vista a regulamentação de ordenados ou salários ou o alargamento de âmbito de convenções colectivas de trabalho, de harmonia com o disposto nos artigos 6.º e 7.º do [Decreto-Lei n.º 32749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32749-1943-596513), de 15 de Abril de 1943.
 
-###### Art. 14.º Não são prejudicadas as disposições relativas ao âmbito das caixas sindicais de previdência pelo facto de o beneficiário ser cumulativamente abrangido por instituição de previdência de outra categoria.
+Art. 14.º Não são prejudicadas as disposições relativas ao âmbito das caixas sindicais de previdência pelo facto de o beneficiário ser cumulativamente abrangido por instituição de previdência de outra categoria.
 
 ### CAPÍTULO III — Da fusão e mudança de categoria
 
-###### Art. 15.º - 1. Quando se verifiquem vantagens de ordem social ou económica, o Ministro das Corporações e Previdência Social, ouvido o Conselho Superior da Previdência e da Habitação Económica, poderá:
+Art. 15.º - 1. Quando se verifiquem vantagens de ordem social ou económica, o Ministro das Corporações e Previdência Social, ouvido o Conselho Superior da Previdência e da Habitação Económica, poderá:
 
 a) Permitir ou ordenar a fusão de caixas sindicais de previdência entre si ou de outras instituições com caixas sindicais de previdência;
 
@@ -634,13 +865,13 @@ b) Permitir ou ordenar a mudança de categoria de qualquer outra instituição e
 
 3. Na fusão ou mudança de categoria observar-se-á, com as adaptações indispensáveis, o disposto no artigo 8.º
 
-###### Art. 16.º - 1. A fusão é o único meio de extinção das caixas sindicais de previdência.
+Art. 16.º - 1. A fusão é o único meio de extinção das caixas sindicais de previdência.
 
 2. A caixa resultante da fusão fica, perante terceiros, com todos os direitos e obrigações das instituições extintas.
 
 ### CAPÍTULO IV — Da inscrição
 
-###### Art. 17.º - 1. Serão inscritos obrigatòriamente nas caixas sindicais de previdência, como beneficiários, os trabalhadores e, como contribuintes, as entidades patronais por aquelas abrangidos nos termos das convenções colectivas ou dos diplomas da sua criação, dos seus estatutos e dos despachos de alargamento de âmbito.
+Art. 17.º - 1. Serão inscritos obrigatòriamente nas caixas sindicais de previdência, como beneficiários, os trabalhadores e, como contribuintes, as entidades patronais por aquelas abrangidos nos termos das convenções colectivas ou dos diplomas da sua criação, dos seus estatutos e dos despachos de alargamento de âmbito.
 
 2. A obrigatoriedade de inscrição abrange as entidades patronais sem fins lucrativos.
 
@@ -648,17 +879,17 @@ b) Permitir ou ordenar a mudança de categoria de qualquer outra instituição e
 
 4. Os beneficiários ou contribuintes poderão ter, simultâneamente, a categoria de membros honorários.
 
-###### Art. 18.º - 1. A obrigatoriedade de inscrição como beneficiários é extensiva aos sócios das empresas que, ao serviço destas, mediante remuneração e subordinados à sua administração exerçam profissões abrangidas pelas caixas.
+Art. 18.º - 1. A obrigatoriedade de inscrição como beneficiários é extensiva aos sócios das empresas que, ao serviço destas, mediante remuneração e subordinados à sua administração exerçam profissões abrangidas pelas caixas.
 
 2. Continuam sujeitos às caixas sindicais de previdência os beneficiários que passem a exercer a sua profissão no estrangeiro, enquanto se mantiverem ao serviço das empresas contribuintes.
 
 3. Não são abrangidos pelas caixas sindicais de previdência os trabalhadores estrangeiros que se encontrem temporàriamente a prestar serviço em Portugal desde que se prove estarem abrangidos pelo seguro social obrigatório do país de origem.
 
-###### Art. 19.º - 1. As entidades patronais que tiverem ao serviço trabalhadores abrangidos pelas caixas comunicarão a estas, para efeito da sua própria inscrição, no prazo de vinte dias, a contar da data em que tal situação ocorrer, a denominação social, ramo de actividade, sede e local ou locais de trabalho, bem como a identificação dos responsáveis pela firma.
+Art. 19.º - 1. As entidades patronais que tiverem ao serviço trabalhadores abrangidos pelas caixas comunicarão a estas, para efeito da sua própria inscrição, no prazo de vinte dias, a contar da data em que tal situação ocorrer, a denominação social, ramo de actividade, sede e local ou locais de trabalho, bem como a identificação dos responsáveis pela firma.
 
 2. Deverão igualmente aquelas entidades comunicar as alterações de quaisquer elementos referidos no número anterior, bem como o facto de que resulte deixarem de ser abrangidas pela caixa, no prazo de vinte dias, a contar da data em que se verificarem aquelas alterações ou aquele facto.
 
-###### Art. 20.º - 1. A inscrição do beneficiário reportar-se-á ao início do mês a que se refere a primeira contribuição devida em seu nome.
+Art. 20.º - 1. A inscrição do beneficiário reportar-se-á ao início do mês a que se refere a primeira contribuição devida em seu nome.
 
 2. A inscrição será efectuada com base em boletim de identificação de modelo adoptado pela caixa, o qual será a esta enviado pela entidade patronal dentro do mês em que deva ser entregue a primeira folha de ordenados ou salários que inclua o beneficiário.
 
@@ -676,25 +907,25 @@ b) Permitir ou ordenar a mudança de categoria de qualquer outra instituição e
 
 9. Se o beneficiário for trabalhador não dependente de entidade patronal, a inscrição será feita mediante boletim a entregar pelo próprio beneficiário, sem prejuízo de inscrição oficiosa nos termos previstas no n.º 7.
 
-###### Art. 21.º - 1. A cada beneficiário da Caixa Nacional de Pensões e das caixas de previdência e abono de família corresponderá uma só inscrição nas referidas caixas.
+Art. 21.º - 1. A cada beneficiário da Caixa Nacional de Pensões e das caixas de previdência e abono de família corresponderá uma só inscrição nas referidas caixas.
 
 2. A inscrição dos contribuintes e beneficiários na Caixa Nacional de Pensões resultará do simples facto da inscrição em caixa de previdência e abono de família.
 
 3. Será organizado na Caixa Nacional de Pensões um ficheiro central de todos os contribuintes e beneficiários inscritos nas caixas sindicais de previdência.
 
-###### Art. 22.º Poderá ser dispensada a formalidade da inscrição nas caixas de seguros.
+Art. 22.º Poderá ser dispensada a formalidade da inscrição nas caixas de seguros.
 
 ### CAPÍTULO V — Das eventualidades e benefícios
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 23.º - 1. A concessão dos benefícios depende da inscrição e, nas modalidades em que for exigido, do decurso de um prazo de garantia.
+Art. 23.º - 1. A concessão dos benefícios depende da inscrição e, nas modalidades em que for exigido, do decurso de um prazo de garantia.
 
 2. Se por omissão do beneficiário não puderem ser reunidos todos os elementos necessários à sua identificação, não lhe serão reconhecidos direitos relativos às contribuições entradas em seu nome além dos cinco anos anteriores à data em que se torne possível completar o boletim a que se refere o artigo 20.º
 
 3. O montante dos benefícios e a duração dos prazos de garantia serão fixados nos estatutos das caixas, dentro dos limites indicados nas correspondentes secções deste capítulo.
 
-###### Art. 24.º - 1. Consideram-se, para todos os efeitos deste regulamento, como equivalentes à entrada de contribuições:
+Art. 24.º - 1. Consideram-se, para todos os efeitos deste regulamento, como equivalentes à entrada de contribuições:
 
 a) A prestação de trabalho de que resulte serem devidas contribuições, desde que desse acto a instituição possua elementos comprovativos;
 
@@ -714,43 +945,43 @@ c) Tomados como base de cálculo da indemnização, no caso da alínea c);
 
 d) Equivalentes à remuneração normal auferida pelo beneficiário imediatamente antes da chamada às fileiras, no caso da alínea d).
 
-###### Art. 25.º - 1. Quando o mesmo beneficiário depender simultâneamente de mais de uma caixa de previdência e abono de família, a sua situação quanto às várias caixas a que se encontre sujeito será considerada unitàriamente para definição dos direitos relativos às modalidades do esquema daquelas instituições.
+Art. 25.º - 1. Quando o mesmo beneficiário depender simultâneamente de mais de uma caixa de previdência e abono de família, a sua situação quanto às várias caixas a que se encontre sujeito será considerada unitàriamente para definição dos direitos relativos às modalidades do esquema daquelas instituições.
 
 2. A unificação das situações será levada a efeito na caixa que for designada pela Federação das Caixas de Previdência e Abono de Família, ouvidos os beneficiários, os contribuintes e as instituições interessadas.
 
-###### Art. 26.º - 1. Quando o beneficiário depender sucessivamente de diversas caixas de previdência e abono de família, ser-lhe-á reconhecida na última caixa a que estiver sujeito a continuação dos direitos resultantes da sua situação perante as caixas anteriores, desde o início da inscrição.
+Art. 26.º - 1. Quando o beneficiário depender sucessivamente de diversas caixas de previdência e abono de família, ser-lhe-á reconhecida na última caixa a que estiver sujeito a continuação dos direitos resultantes da sua situação perante as caixas anteriores, desde o início da inscrição.
 
 2. A execução do disposto no número anterior será regulada por normas aprovadas pelo Ministro das Corporações e Previdência Social, sob proposta da Federação das Caixas de Previdência e Abono de Família.
 
-###### Art. 27.º - 1. Os direitos a reconhecer aos beneficiários inscritos em mais de uma caixa de pensões serão determinados em separado por cada instituição, nos termos do respectivo estatuto.
+Art. 27.º - 1. Os direitos a reconhecer aos beneficiários inscritos em mais de uma caixa de pensões serão determinados em separado por cada instituição, nos termos do respectivo estatuto.
 
 2. Quando o beneficiário requerer em mais de uma caixa de pensões a concessão de benefícios relativos à mesma eventualidade, cada uma das caixas tomará em conta o tempo de contribuição do beneficiário na outra ou nas demais caixas interessadas, na parte em que se não sobreponha com o referente à respectiva inscrição, para o efeito de se dar como vencido o prazo de garantia previsto no seu estatuto.
 
 3. As prestações a conceder por cada caixa ao abrigo do disposto no número anterior serão limitadas à fracção correspondente à relação entre o tempo contado ao beneficiário na inscrição respectiva e a duração total do prazo de garantia.
 
-###### Art. 28.º As condições de concessão das prestações previstas no presente regulamento por parte da Caixa Nacional de Pensões poderão ser melhoradas em relação aos beneficiários de algumas caixas de previdência e abono de família ou pertencentes a certas categorias profissionais, mediante contabilidade própria e a correspondente contribuição complementar, desde que tal seja autorizado pelo Ministro das Corporações e Previdência Social, depois de ouvido o Conselho Superior da Previdência e da Habitação Económica.
+Art. 28.º As condições de concessão das prestações previstas no presente regulamento por parte da Caixa Nacional de Pensões poderão ser melhoradas em relação aos beneficiários de algumas caixas de previdência e abono de família ou pertencentes a certas categorias profissionais, mediante contabilidade própria e a correspondente contribuição complementar, desde que tal seja autorizado pelo Ministro das Corporações e Previdência Social, depois de ouvido o Conselho Superior da Previdência e da Habitação Económica.
 
-###### Art. 29.º - 1. A falta de pagamento de contribuições, quando imputável às entidades patronais, não prejudica o direito às prestações por parte dos beneficiários, desde que estes tenham o tempo de inscrição regulamentar e a instituição possua elementos comprovativos da prestação de trabalho durante o período a que respeita aquela falta.
+Art. 29.º - 1. A falta de pagamento de contribuições, quando imputável às entidades patronais, não prejudica o direito às prestações por parte dos beneficiários, desde que estes tenham o tempo de inscrição regulamentar e a instituição possua elementos comprovativos da prestação de trabalho durante o período a que respeita aquela falta.
 
 2. Na hipótese prevista no número anterior, se não forem conhecidas as remunerações respeitantes ao período em falta, considerar-se-ão como tais, para efeito de cálculo das prestações pecuniárias, aquelas sobre que tenham recaído as últimas contribuições pagas, ficando a entidade patronal responsável perante a caixa pelo eventual excesso das prestações.
 
-###### Art. 30.º As prestações devidas aos beneficiários e seus familiares não podem ser cedidas a terceiros nem penhoradas e são isentas de quaisquer taxas, contribuições ou impostos.
+Art. 30.º As prestações devidas aos beneficiários e seus familiares não podem ser cedidas a terceiros nem penhoradas e são isentas de quaisquer taxas, contribuições ou impostos.
 
-###### Art. 31.º O direito às prestações devidas pelas caixas sindicais de previdência prescreve a favor destas pelo lapso de um ano a contar do vencimento ou do último dia do prazo do pagamento, se o houver.
+Art. 31.º O direito às prestações devidas pelas caixas sindicais de previdência prescreve a favor destas pelo lapso de um ano a contar do vencimento ou do último dia do prazo do pagamento, se o houver.
 
 #### SECÇÃO II — Doença
 
 ##### SUBSECÇÃO I — Disposições comuns
 
-###### Art. 32.º A protecção na doença é realizada mediante a concessão de assistência médica e medicamentosa e de subsídio pecuniário, nas condições reguladas na presente secção.
+Art. 32.º A protecção na doença é realizada mediante a concessão de assistência médica e medicamentosa e de subsídio pecuniário, nas condições reguladas na presente secção.
 
-###### Art. 33.º - 1. A concessão das prestações referidas no artigo anterior depende de os beneficiários haverem completado um ano de inscrição e de, no caso de beneficiários activos e seus familiares, em nome daqueles haverem entrado contribuições correspondentes pelo menos a oito dias no decurso dos três meses anteriores ao da verificação da doença.
+Art. 33.º - 1. A concessão das prestações referidas no artigo anterior depende de os beneficiários haverem completado um ano de inscrição e de, no caso de beneficiários activos e seus familiares, em nome daqueles haverem entrado contribuições correspondentes pelo menos a oito dias no decurso dos três meses anteriores ao da verificação da doença.
 
 2. Na falta de entrada de contribuições durante doze meses consecutivos, as prestações só voltarão a ser concedidas aos beneficiários activos e seus familiares passado um ano sobre a data a que se reporta a primeira nova contribuição.
 
 3. Poderá o Ministro das Corporações e Previdência Social, em relação a determinadas profissões sujeitas a interrupções de trabalho motivadas pelas particulares condições da respectiva actividade, autorizar o prolongamento do período previsto na parte final do n.º 1.
 
-###### Art. 34.º - 1. Não haverá lugar à concessão das prestações reguladas na presente secção:
+Art. 34.º - 1. Não haverá lugar à concessão das prestações reguladas na presente secção:
 
 a) Nas doenças profissionais ou resultantes de acidentes de trabalho, ressalvado o disposto no artigo 194.º;
 
@@ -758,21 +989,21 @@ b) Se a doença for provocada intencionalmente pelo beneficiário ou resultar de
 
 2. Nas hipóteses previstas na alínea b) do número anterior, a caixa terá direito a ser reembolsada pelo beneficiário ou pelo terceiro, conforme os casos, do valor das prestações que eventualmente haja concedido.
 
-###### Art. 35.º As caixas indemnizarão os beneficiários pelas despesas comprovadas do tratamento que resultem da falta da devida intervenção dos serviços respectivos, devendo ser reembolsadas pelos responsáveis por aqueles serviços, sem prejuízo das sanções disciplinares a que haja lugar.
+Art. 35.º As caixas indemnizarão os beneficiários pelas despesas comprovadas do tratamento que resultem da falta da devida intervenção dos serviços respectivos, devendo ser reembolsadas pelos responsáveis por aqueles serviços, sem prejuízo das sanções disciplinares a que haja lugar.
 
-###### Art. 36.º Se o beneficiário receber da entidade patronal remuneração no decurso da doença que confira direito a subsídio, este só será atribuído se aquela remuneração for inferior ao ordenado ou salário normal e até à concorrência deste.
+Art. 36.º Se o beneficiário receber da entidade patronal remuneração no decurso da doença que confira direito a subsídio, este só será atribuído se aquela remuneração for inferior ao ordenado ou salário normal e até à concorrência deste.
 
-###### Art. 37.º Compete às caixas, pelos serviços médicos e dentro das suas possibilidades, promover, difundir e aplicar as medidas de prevenção das doenças e de higiene individual e colectiva, colaborando activamente com os serviços do Estado ou outros especialmente encarregados destas funções.
+Art. 37.º Compete às caixas, pelos serviços médicos e dentro das suas possibilidades, promover, difundir e aplicar as medidas de prevenção das doenças e de higiene individual e colectiva, colaborando activamente com os serviços do Estado ou outros especialmente encarregados destas funções.
 
 ##### SUBSECÇÃO II — Regime geral de protecção na doença
 
-###### Art. 38.º - 1. A assistência médica e medicamentosa será concedida, enquanto durar a doença, aos beneficiários, quer activos, quer pensionistas de invalidez ou velhice, e aos respectivos familiares.
+Art. 38.º - 1. A assistência médica e medicamentosa será concedida, enquanto durar a doença, aos beneficiários, quer activos, quer pensionistas de invalidez ou velhice, e aos respectivos familiares.
 
 2. Consideram-se familiares para os efeitos deste artigo o cônjuge que não exerça profissão remunerada e as restantes pessoas pelas quais o beneficiário tenha direito a abono de família, incluindo os órgãos referidos na alínea g) do artigo 59.º
 
 3. Aos familiares do beneficiário que passem a exercer profissão remunerada é mantido, naquela qualidade e durante um ano, o benefício das prestações previstas neste artigo, enquanto não tiverem vencido o correspondente prazo de garantia.
 
-###### Art. 39.º A assistência médica será prestada:
+Art. 39.º A assistência médica será prestada:
 
 a) Em postos clínicos das caixas, das Casas do Povo ou das Casas dos Pescadores, sempre que o número de pessoas a assistir em determinada área o justifique e não seja caso de recorrer aos serviços a que se refere a alínea b);
 
@@ -782,15 +1013,15 @@ c) Nos consultórios dos médicos contratados pelas caixas, em áreas onde não 
 
 d) No domicílio, quando a enfermidade impossibilite os doentes de sair.
 
-###### Art. 40.º - 1. Nos acordos a efectuar com as instituições e serviços de saúde e assistência para a utilização recíproca de serviços ou instalações competirá à Federação das Caixas de Previdência e Abono de Família a representação destas instituições.
+Art. 40.º - 1. Nos acordos a efectuar com as instituições e serviços de saúde e assistência para a utilização recíproca de serviços ou instalações competirá à Federação das Caixas de Previdência e Abono de Família a representação destas instituições.
 
 2. Os acordos celebrados nos termos do número anterior estão sujeitos a aprovação do Ministro das Corporações e Previdência Social e ainda, quando se tratar de instituições ou serviços oficiais, do Ministro da Saúde e Assistência.
 
 3. Dos acordos previstos neste artigo constarão, entre outras regras, as relativas ao horário das consultas e tratamentos a observar pelos doentes, de modo a atender às conveniências dos trabalhadores e das empresas.
 
-###### Art. 41.º Quando se mostre conveniente que alguma caixa, quer regional, quer de actividade ou de empresa, se incumba de conceder prestações de assistência médica aos beneficiários de outra caixa, serão celebrados entre as instituições interessadas os necessários acordos, sujeitos a homologação ministerial sob proposta da Federação das Caixas de Previdência e Abono de Família.
+Art. 41.º Quando se mostre conveniente que alguma caixa, quer regional, quer de actividade ou de empresa, se incumba de conceder prestações de assistência médica aos beneficiários de outra caixa, serão celebrados entre as instituições interessadas os necessários acordos, sujeitos a homologação ministerial sob proposta da Federação das Caixas de Previdência e Abono de Família.
 
-###### Art. 42.º - 1. A assistência médica abrange:
+Art. 42.º - 1. A assistência médica abrange:
 
 a) Serviços de clínica geral, incluindo consultas, visitas domiciliárias, cirurgia ambulatória e tratamento;
 
@@ -802,7 +1033,7 @@ c) Internamento hospitalar, quando necessário.
 
 3. A assistência médica será coadjuvada por serviços de enfermagem.
 
-###### Art. 43.º - 1. Os serviços clínicos especializados e os de enfermagem serão organizados à medida que as circunstâncias o permitirem, de harmonia com a orientação proposta pela Federação das Caixas de Previdência e Abono de Família e aprovada pelo Ministro das Corporações e Previdência Social.
+Art. 43.º - 1. Os serviços clínicos especializados e os de enfermagem serão organizados à medida que as circunstâncias o permitirem, de harmonia com a orientação proposta pela Federação das Caixas de Previdência e Abono de Família e aprovada pelo Ministro das Corporações e Previdência Social.
 
 2. O internamento em estabelecimentos hospitalares ou análogos será assegurado através de serviços ou instituições de saúde e assistência oficiais ou particulares nas condições constantes dos acordos previstos no artigo 40.º
 
@@ -812,11 +1043,11 @@ a) Por serviços próprios das instituições, quando não seja caso de utilizar
 
 b) Por meio de contratos com médicos das respectivas especialidades quando não seja possível ou conveniente recorrer aos servidos previstos na alínea anterior.
 
-###### Art. 44.º - 1. A assistência medicamentosa será concedida tendo em vista o máximo de eficiência terapêutica e de economia.
+Art. 44.º - 1. A assistência medicamentosa será concedida tendo em vista o máximo de eficiência terapêutica e de economia.
 
 2. As condições da concessão de medicamentos serão definidas em regulamento elaborado pela Federação das Caixas de Previdência e Abono de Família e aprovado pelo Ministro das Corporações e Previdência Social.
 
-###### Art. 45.º - 1. O fornecimento de medicamentos será assegurado por uma ou mais das seguintes formas:
+Art. 45.º - 1. O fornecimento de medicamentos será assegurado por uma ou mais das seguintes formas:
 
 a) Através de farmácias abertas ao público, mediante apresentação de receita médica exarada em impresso da caixa;
 
@@ -826,7 +1057,7 @@ b) Por serviços próprios das caixas ou sua federação encarregados da prepara
 
 3. A organização dos serviços previstos na alínea b) do n.º 1 depende de aprovação do Ministro das Corporações e Previdência Social.
 
-###### Art. 46.º - 1. A utilização dos serviços de consulta e visita domiciliária será feita mediante o pagamento de senhas de consulta.
+Art. 46.º - 1. A utilização dos serviços de consulta e visita domiciliária será feita mediante o pagamento de senhas de consulta.
 
 2. O custo dos elementos auxiliares de diagnóstico, dos medicamentos e dos restantes meios de tratamento será em parte suportado pelo doente, ressalvado o disposto no n.º 5.
 
@@ -836,21 +1067,21 @@ b) Por serviços próprios das caixas ou sua federação encarregados da prepara
 
 5. Em casos excepcionais devidamente fundamentados, poderá ser autorizado, de harmonia com normas a aprovar por despacho ministerial, que a comparticipação do doente seja satisfeita pelo fundo de assistência da caixa.
 
-###### Art. 47.º O subsídio pecuniário será concedido aos beneficiários activos que a doença impossibilite temporàriamente para o trabalho, com exclusão dos casos a que sejam aplicáveis subsídios de tuberculose ou de maternidade.
+Art. 47.º O subsídio pecuniário será concedido aos beneficiários activos que a doença impossibilite temporàriamente para o trabalho, com exclusão dos casos a que sejam aplicáveis subsídios de tuberculose ou de maternidade.
 
-###### Art. 48.º O subsídio diário é igual a 60 por cento do salário médio definido por
+Art. 48.º O subsídio diário é igual a 60 por cento do salário médio definido por
 
 (S/30 n)
 
 em que S representa a remuneração dos 12 meses que precedem o segundo mês anterior ao da baixa e n o número de meses compreendidos no mesmo período em relação aos quais haja entrada de contribuições.
 
-###### Art. 49.º - 1. O subsídio não será pago nos três primeiros dias em cada impedimento.
+Art. 49.º - 1. O subsídio não será pago nos três primeiros dias em cada impedimento.
 
 2. Não se atenderá ao dia da baixa se neste o beneficiário tiver recebido remuneração.
 
 3. O dia de baixa será o da verificação do impedimento pelo médico designado pela caixa.
 
-###### Art. 50.º - 1. O subsídio será pago no montante previsto no artigo 48.º, no máximo de 360 dias seguidos ou interpolados em cada período de doença, considerando-se, porém, incluídos em novo período os impedimentos que se verificarem mais de 3 meses após aquele em que tenha sido dada a alta anterior.
+Art. 50.º - 1. O subsídio será pago no montante previsto no artigo 48.º, no máximo de 360 dias seguidos ou interpolados em cada período de doença, considerando-se, porém, incluídos em novo período os impedimentos que se verificarem mais de 3 meses após aquele em que tenha sido dada a alta anterior.
 
 2. Se, atingido o limite de tempo fixado no número anterior, se mantiver o impedimento por doença, o subsídio será reduzido a metade, prolongando-se a sua concessão até à alta, pelo prazo máximo de três anos, findo o qual o beneficiário passará ao regime de protecção na invalidez nos termos da secção V deste capítulo, no caso de ainda subsistir o impedimento.
 
@@ -858,11 +1089,11 @@ em que S representa a remuneração dos 12 meses que precedem o segundo mês ant
 
 ##### SUBSECÇÃO III — Regime especial da tuberculose
 
-###### Art. 51.º - 1. A protecção na tuberculose visará o progressivo desenvolvimento de combate a esta doença, competindo de início às caixas a concessão de subsídios pecuniários nos termos da presente subsecção.
+Art. 51.º - 1. A protecção na tuberculose visará o progressivo desenvolvimento de combate a esta doença, competindo de início às caixas a concessão de subsídios pecuniários nos termos da presente subsecção.
 
 2. Sem prejuízo do disposto no número anterior, a prestação de assistência médica e medicamentosa na tuberculose será regulada por normas especiais nos termos do artigo 201.º, devendo ser celebrados acordos entre a Federação das Caixas de Previdência e Abono de Família e o Instituto de Assistência Nacional aos Tuberculosos ou outros serviços ou instituições de saúde e assistência, sujeitos à aprovação referida no artigo 40.º
 
-###### Art. 52.º - 1. O subsídio pecuniário na tuberculose será concedido aos beneficiários activos enquanto durar o impedimento para o trabalho, nas seguintes percentagens de salários calculados nos termos do artigo 48.º:
+Art. 52.º - 1. O subsídio pecuniário na tuberculose será concedido aos beneficiários activos enquanto durar o impedimento para o trabalho, nas seguintes percentagens de salários calculados nos termos do artigo 48.º:
 
 a) Em tratamento domiciliário ou ambulatório, 80 por cento;
 
@@ -872,19 +1103,19 @@ b) Em internamento, 60 ou 30 por cento, conforme o beneficiário tiver ou não a
 
 #### SECÇÃO III — Maternidade
 
-###### Art. 53.º - 1. A protecção na maternidade é realizada mediante a concessão de assistência médica e medicamentosa e de subsídio pecuniário, nas condições reguladas na presente secção.
+Art. 53.º - 1. A protecção na maternidade é realizada mediante a concessão de assistência médica e medicamentosa e de subsídio pecuniário, nas condições reguladas na presente secção.
 
 2. O aborto não provocado é considerado como parto para os efeitos previstos nesta secção.
 
-###### Art. 54.º - 1. A assistência médica e medicamentosa será garantida às beneficiárias e às esposas dos beneficiários e compreenderá tratamento na gravidez, no parto e no puerpério, por médico ou parteira diplomada, e, se necessário, internamento em estabelecimento hospitalar, nos termos previstos no n.º 2 do artigo 43.º
+Art. 54.º - 1. A assistência médica e medicamentosa será garantida às beneficiárias e às esposas dos beneficiários e compreenderá tratamento na gravidez, no parto e no puerpério, por médico ou parteira diplomada, e, se necessário, internamento em estabelecimento hospitalar, nos termos previstos no n.º 2 do artigo 43.º
 
 2. Na prestação da assistência referida neste artigo observar-se-ão as normas estabelecidas para a protecção da doença, nos termos da secção anterior, não havendo, porém, lugar ao pagamento de senhas de consulta e à comparticipação no custo do internamento hospitalar.
 
-###### Art. 55.º - 1. A concessão do subsídio depende de a beneficiária se encontrar inscrita um ano antes da data real ou presumida do parto e de em seu nome haverem entrado contribuições correspondentes pelo menos a oito dias no decurso dos três meses anteriores àquele em que seja solicitada.
+Art. 55.º - 1. A concessão do subsídio depende de a beneficiária se encontrar inscrita um ano antes da data real ou presumida do parto e de em seu nome haverem entrado contribuições correspondentes pelo menos a oito dias no decurso dos três meses anteriores àquele em que seja solicitada.
 
 2. É aplicável a este subsídio o preceituado nos n.os 2 e 3 do artigo 33.º
 
-###### Art. 56.º - 1.º O subsídio pecuniário será concedido às beneficiárias durante 60 dias por ocasião do parto.
+Art. 56.º - 1.º O subsídio pecuniário será concedido às beneficiárias durante 60 dias por ocasião do parto.
 
 2. O quantitativo do subsídio será igual ao salário definido no artigo 48.º
 
@@ -894,11 +1125,11 @@ b) Em internamento, 60 ou 30 por cento, conforme o beneficiário tiver ou não a
 
 #### SECÇÃO IV — Encargos familiares
 
-###### Art. 57.º A compensação dos encargos familiares é realizada mediante a concessão de abono de família e prestações complementares.
+Art. 57.º A compensação dos encargos familiares é realizada mediante a concessão de abono de família e prestações complementares.
 
 ##### SUBSECÇÃO I — Abono de família
 
-###### Art. 58.º - 1. Têm direito ao abono de família os beneficiários residentes em território nacional, em relação aos descendentes e ascendentes, próprios ou do cônjuge, que tenham a seu cargo e com quem vivam em comunhão de mesa e habitação.
+Art. 58.º - 1. Têm direito ao abono de família os beneficiários residentes em território nacional, em relação aos descendentes e ascendentes, próprios ou do cônjuge, que tenham a seu cargo e com quem vivam em comunhão de mesa e habitação.
 
 2. Não são abrangidos os descendentes e os ascendentes quando houver perfilhação secreta.
 
@@ -908,7 +1139,7 @@ b) Em internamento, 60 ou 30 por cento, conforme o beneficiário tiver ou não a
 
 5. Não são considerados para os efeitos de abono os familiares ou equiparados indicados neste artigo que exerçam profissão remunerada ou residam fora do território nacional, ressalvado, em relação aos estrangeiros, o disposto em convenção ou acordo especial de reciprocidade.
 
-###### Art. 59.º O direito ao abono de família subsiste:
+Art. 59.º O direito ao abono de família subsiste:
 
 a) Enquanto o beneficiário exercer actividade profissional abrangida pela caixa;
 
@@ -926,7 +1157,7 @@ g) Em favor dos descendentes do beneficiário falecido, quer activo quer pension
 
 h) Em relação aos estudantes durante os meses de férias subsequentes a cada ano lectivo.
 
-###### Art. 60.º - 1. Os descendentes além do 1.º grau só conferem direito ao abono de família quando se verifique alguma das seguintes condições:
+Art. 60.º - 1. Os descendentes além do 1.º grau só conferem direito ao abono de família quando se verifique alguma das seguintes condições:
 
 a) Serem órfãos de pai e mãe;
 
@@ -938,27 +1169,27 @@ d) Estarem os pais ausentes em parte incerta.
 
 2. Os descendentes que tiverem completado 14 anos só conferem direito ao abono, até aos 16, 18, 21 ou 24 anos, respectivamente, se estiverem matriculados em escolas de reeducação para anormais, em curso secundário, médio ou superior, com a correspondente frequência escolar e, sem limite de idade, se sofrerem de incapacidade total para o trabalho.
 
-###### Art. 61.º - 1. Os ascendentes consideram-se a cargo do beneficiário quando não tenham rendimentos próprios suficientes para prover à sua subsistência e, sendo do sexo masculino, sofram de incapacidade total para o trabalho.
+Art. 61.º - 1. Os ascendentes consideram-se a cargo do beneficiário quando não tenham rendimentos próprios suficientes para prover à sua subsistência e, sendo do sexo masculino, sofram de incapacidade total para o trabalho.
 
 2. São considerados rendimentos próprios os proventos (rendas, pensões ou equivalentes) que concorram na economia individual do ascendente ou, se este for casado, na economia do casal.
 
-###### Art. 62.º - 1. A comunhão de mesa e habitação é dispensada em relação aos descendentes que estejam sob a autoridade do beneficiário, bem como em relação aos ascendentes que se encontrem internados em estabelecimentos de assistência ou análogos.
+Art. 62.º - 1. A comunhão de mesa e habitação é dispensada em relação aos descendentes que estejam sob a autoridade do beneficiário, bem como em relação aos ascendentes que se encontrem internados em estabelecimentos de assistência ou análogos.
 
 2. Os beneficiários cuja profissão ou actividade se não compadeça com a permanência efectiva no respectivo domicílio terão direito ao abono de família pelos ascendentes a seu cargo ali residentes.
 
-###### Art. 63.º - 1. O abono de família é concedido em prestações mensais, de harmonia com tabela prevista nos estatutos das caixas.
+Art. 63.º - 1. O abono de família é concedido em prestações mensais, de harmonia com tabela prevista nos estatutos das caixas.
 
 2. Se o beneficiário prestar vinte ou mais dias de trabalho por mês, ser-lhe-á pago o abono por inteiro; em caso contrário, o quantitativo do abono será calculado multiplicando o número de dias de trabalho por um vigésimo do abono mensal.
 
 3. Se o beneficiário exercer diversas actividades profissionais, o abono será um só e calculado com base na retribuição mais elevada.
 
-###### Art. 64.º - 1. Não é permitida a acumulação do abono de família em relação ao mesmo familiar.
+Art. 64.º - 1. Não é permitida a acumulação do abono de família em relação ao mesmo familiar.
 
 2. Quando ambos os cônjuges exerçam profissão remunerada, o direito ao abono de família respeita exclusivamente ao chefe de família.
 
 3. Se a acumulação resultar do facto de um dos cônjuges se encontrar na situação de pensionista sem actividade profissional e o outro exercer profissão remunerada, o direito ao abono respeita exclusivamente a este último.
 
-###### Art. 65.º - 1. O abono de família é concedido a requerimento dos beneficiários, que, para tanto, deverão preencher um boletim do modelo adoptado pela caixa e apresentar a prova dos factos condicionantes do seu direito.
+Art. 65.º - 1. O abono de família é concedido a requerimento dos beneficiários, que, para tanto, deverão preencher um boletim do modelo adoptado pela caixa e apresentar a prova dos factos condicionantes do seu direito.
 
 2. Se o beneficiário se recusar a requerer o abono, poderão requerê-lo:
 
@@ -968,7 +1199,7 @@ b) As próprias pessoas que conferem direito ao abono, se forem maiores de 14 an
 
 3. Se os requerimentos não se mostrarem instruídos com os documentos de prova indispensáveis, será dado aos requerentes o prazo de vinte dias para a respectiva junção, sob cominação do n.º 2 do artigo seguinte.
 
-###### Art. 66.º - 1. O estado civil do beneficiário e o parentesco deste com as pessoas de família a seu cargo provam-se por meio de certidões de registo civil, as quais devem conter referência aos averbamentos respeitantes aos óbitos; as demais provas deverão constar de certidões ou atestados das entidades competentes.
+Art. 66.º - 1. O estado civil do beneficiário e o parentesco deste com as pessoas de família a seu cargo provam-se por meio de certidões de registo civil, as quais devem conter referência aos averbamentos respeitantes aos óbitos; as demais provas deverão constar de certidões ou atestados das entidades competentes.
 
 2. A prova da escolaridade obrigatória ou da sua dispensa para os indivíduos que em 31 de Dezembro de cada ano tenham 7 ou mais anos de idade e menos de 13 deve ser feita anualmente até 31 de Outubro, por meio do respectivo certificado, envolvendo a falta de entrega ou entrega fora do prazo o não pagamento do abono de família até ao mês, inclusive, em que esse documento der entrada na caixa.
 
@@ -980,9 +1211,9 @@ b) As próprias pessoas que conferem direito ao abono, se forem maiores de 14 an
 
 6. As caixas devem facilitar, na medida do possível, a produção das provas e, sempre que o julguem conveniente, podem requisitar, a título oficial, às autoridades e repartições públicas ou às entidades patronais as informações de que carecerem.
 
-###### Art. 67.º O abono de família é concedido a partir do mês em que der entrada na caixa o respectivo requerimento, mas não antes do mês seguinte àquele em que ocorreu o facto determinante da sua concessão.
+Art. 67.º O abono de família é concedido a partir do mês em que der entrada na caixa o respectivo requerimento, mas não antes do mês seguinte àquele em que ocorreu o facto determinante da sua concessão.
 
-###### Art. 68.º - 1. O abono de família é pago ao beneficiário inscrito na caixa, salvo o disposto nos números seguintes.
+Art. 68.º - 1. O abono de família é pago ao beneficiário inscrito na caixa, salvo o disposto nos números seguintes.
 
 2. Em caso de separação ou divórcio, o abono será pago ao cônjuge ou ex-cônjuge que viva em economia familiar com as pessoas em relação às quais foi atribuído o direito, ainda que por elas receba pensão de alimentos.
 
@@ -994,27 +1225,27 @@ b) As próprias pessoas que conferem direito ao abono, se forem maiores de 14 an
 
 6. Em casos justificados, para garantir a aplicação do abono ao sustento, vestuário e educação das pessoas a cargo, poderá aquele ser entregue directamente a outra pessoa idónea da família.
 
-###### Art. 69.º - 1. O direito ao abono de família cessa a partir do mês seguinte àquele em que deixe de se verificar o condicionalismo do seu reconhecimento.
+Art. 69.º - 1. O direito ao abono de família cessa a partir do mês seguinte àquele em que deixe de se verificar o condicionalismo do seu reconhecimento.
 
 2. Os beneficiários participarão à caixa o facto determinante da cessação do abono no prazo de dez dias, a contar da sua ocorrência, sob pena da sanção prevista na alínea c) do n.º 1 do artigo 179.º, salvo o caso de justo impedimento.
 
 ##### SUBSECÇÃO II — Prestações complementares
 
-###### Art. 70.º - 1. Serão concedidos subsídios de casamento, nascimento, aleitação e funeral nos quantitativos estatutàriamente fixados, desde que o beneficiário tenha o tempo de inscrição estabelecido nos artigos seguintes e em seu nome hajam entrado contribuições correspondentes a pelo menos oito dias nos três meses anteriores ao da verificação do facto determinante do direito.
+Art. 70.º - 1. Serão concedidos subsídios de casamento, nascimento, aleitação e funeral nos quantitativos estatutàriamente fixados, desde que o beneficiário tenha o tempo de inscrição estabelecido nos artigos seguintes e em seu nome hajam entrado contribuições correspondentes a pelo menos oito dias nos três meses anteriores ao da verificação do facto determinante do direito.
 
 2. Na falta de entrada de contribuições durante doze meses consecutivos só haverá direito aos subsídios se o facto determinante do direito ocorrer passado o correspondente prazo de garantia após a data a que respeitar a primeira nova contribuição.
 
 3. Poderá o Ministro das Corporações e Previdência Social, em relação a determinadas profissões sujeitas a interrupções de trabalho motivadas pelas particulares condições da respectiva actividade, autorizar o prolongamento do período previsto na parte final do n.º 1.
 
-###### Art. 71.º O subsídio de casamento será concedido por uma vez só a cada um dos cônjuges beneficiários que à data do matrimónio tenham seis meses de inscrição.
+Art. 71.º O subsídio de casamento será concedido por uma vez só a cada um dos cônjuges beneficiários que à data do matrimónio tenham seis meses de inscrição.
 
-###### Art. 72.º - 1. Os subsídios de nascimento e aleitação serão concedidos aos beneficiários com um ano de inscrição à data do nascimento, com vida, de cada filho que confira direito a abono de família.
+Art. 72.º - 1. Os subsídios de nascimento e aleitação serão concedidos aos beneficiários com um ano de inscrição à data do nascimento, com vida, de cada filho que confira direito a abono de família.
 
 2. Estes subsídios serão pagos à pessoa a quem for pago o abono de família, o de nascimento por uma só vez e o de aleitação em prestações mensais nos oito primeiros meses de vida do filho que seja amamentado pela mãe. Mas se esta não poder amamentar, o subsídio de aleitação será substituído pelo fornecimento dos necessários produtos alimentares prescritos por médico designado pela caixa.
 
 3. O subsídio de aleitação cessará nos casos em que deixe de verificar-se o direito ao abono de família.
 
-###### Art. 73.º - 1. O subsídio de funeral será concedido, por uma só vez, aos beneficiários com seis meses de inscrição em caso de falecimento:
+Art. 73.º - 1. O subsídio de funeral será concedido, por uma só vez, aos beneficiários com seis meses de inscrição em caso de falecimento:
 
 a) De familiar ou equiparado pelo qual esteja a receber abono de família;
 
@@ -1022,7 +1253,7 @@ b) De cônjuge, se por este não for devido o subsídio regulado na secção VII
 
 2. Por morte do beneficiário activo com o tempo de inscrição referido no número anterior ou do beneficiário pensionista será concedido um subsídio à pessoa que prove ter feito o funeral.
 
-###### Art. 74.º - 1. Devem ser requeridos no prazo de 60 dias:
+Art. 74.º - 1. Devem ser requeridos no prazo de 60 dias:
 
 a) O subsídio de casamento, a contar da realização deste;
 
@@ -1036,15 +1267,15 @@ c) O subsídio de funeral, a contar do falecimento.
 
 4. A falta de requerimento ou da sua instrução nos prazos devidos determina a perda do direito às prestações, salvo o caso de justo impedimento.
 
-###### Art. 75.º - 1. O disposto nos n.os 1 e 2 do artigo 64.º é aplicável aos subsídios de nascimento, aleitação e funeral.
+Art. 75.º - 1. O disposto nos n.os 1 e 2 do artigo 64.º é aplicável aos subsídios de nascimento, aleitação e funeral.
 
 2. É aplicável ao subsídio de aleitação o disposto no n.º 2 do artigo 69.º
 
 #### SECÇÃO V — Invalidez
 
-###### Art. 76.º A protecção na invalidez é realizada mediante a concessão de pensões e serviços de recuperação e readaptação profissional, devendo estes ser organizados nos termos que forem estabelecidos por normas aprovadas pelo Ministro das Corporações e Previdência Social.
+Art. 76.º A protecção na invalidez é realizada mediante a concessão de pensões e serviços de recuperação e readaptação profissional, devendo estes ser organizados nos termos que forem estabelecidos por normas aprovadas pelo Ministro das Corporações e Previdência Social.
 
-###### Art. 77.º - 1. Têm direito à pensão de invalidez os beneficiários que, havendo completado o prazo de garantia estatutário e antes de atingirem a idade de reforma por velhice, se encontrem, por motivo de doença ou acidente que não esteja a coberto de legislação especial sobre acidentes de trabalho e doenças profissionais, definitivamente incapacitados de trabalhar na sua profissão, de modo a não poderem auferir no desempenho desta mais de um terço da remuneração correspondente ao seu exercício normal, com prejuízo do disposto no n.º 2 do artigo 50.º
+Art. 77.º - 1. Têm direito à pensão de invalidez os beneficiários que, havendo completado o prazo de garantia estatutário e antes de atingirem a idade de reforma por velhice, se encontrem, por motivo de doença ou acidente que não esteja a coberto de legislação especial sobre acidentes de trabalho e doenças profissionais, definitivamente incapacitados de trabalhar na sua profissão, de modo a não poderem auferir no desempenho desta mais de um terço da remuneração correspondente ao seu exercício normal, com prejuízo do disposto no n.º 2 do artigo 50.º
 
 2. Na Caixa Nacional de Pensões o tempo a considerar como prazo de garantia será de 5 anos de inscrição, exigindo-se ainda que o beneficiário conte ou 30 meses de contribuições ou 5 anos civis com entrada de contribuições.
 
@@ -1054,15 +1285,15 @@ c) O subsídio de funeral, a contar do falecimento.
 
 5. Se à data em que for requerida a pensão houver cessado o pagamento de contribuições por período superior a doze meses consecutivos, ou se houver interrupção de contribuições por igual período nos cinco anos que precedam o requerimento, a pensão apenas será concedida no caso de a redução da capacidade de trabalho respeitar não só às profissões desempenhadas pelo beneficiário nos últimos três anos de contribuição, mas também a qualquer outra profissão de categoria equivalente e que seja compatível com igual formação e habilitações profissionais.
 
-###### Art. 78.º - 1. Ressalvado o disposto no n.º 2 do artigo 50.º, para ser concedida a pensão de invalidez deverão os beneficiários ou seus representantes requerer à direcção da caixa no sentido de serem submetidos a exame médico.
+Art. 78.º - 1. Ressalvado o disposto no n.º 2 do artigo 50.º, para ser concedida a pensão de invalidez deverão os beneficiários ou seus representantes requerer à direcção da caixa no sentido de serem submetidos a exame médico.
 
 2. A pensão poderá também ser solicitada pela direcção da caixa de previdência e abono de família em que estiver inscrito o beneficiário, quando este se encontre a receber tratamento nos respectivos serviços médicos e haja esgotado o período de concessão do subsídio de doença previsto no n.º 1 do artigo 50.º
 
-###### Art. 79.º - 1. A incapacidade para o trabalho será apreciada com base em parecer escrito de uma comissão de verificação de invalidez, constituída por dois médicos e um assessor técnico, designados pela direcção da caixa.
+Art. 79.º - 1. A incapacidade para o trabalho será apreciada com base em parecer escrito de uma comissão de verificação de invalidez, constituída por dois médicos e um assessor técnico, designados pela direcção da caixa.
 
 2. Haverá recurso dentro de oito dias, a contar daquele em que o interessado tomar conhecimento do parecer a que se refere o número anterior, para uma comissão composta de três médicos - um designado pela Federação das Caixas de Previdência e Abono de Família, outro pela caixa e o terceiro pelo beneficiário - e de dois assessores técnicos, um escolhido pelo beneficiário e outro pela caixa, sendo o beneficiário responsável pelas despesas, se a decisão desta comissão lhe for desfavorável.
 
-###### Art. 80.º - 1. O montante da pensão será calculado nos termos previstos no estatuto da instituição, não podendo ultrapassar 80 por cento, nem ser inferior a 20 por cento do salário-base.
+Art. 80.º - 1. O montante da pensão será calculado nos termos previstos no estatuto da instituição, não podendo ultrapassar 80 por cento, nem ser inferior a 20 por cento do salário-base.
 
 2. Na Caixa Nacional de Pensões o montante anual da pensão de invalidez será de 80 por cento do salário médio dos últimos 40 anos civis com entrada de contribuições, acrescido de 10 por cento do salário médio dos 10 anos civis a que corresponderem remunerações mais elevadas, até à concorrência de 60 por cento deste salário.
 
@@ -1072,13 +1303,13 @@ Se o beneficiário tiver menos de 40 anos civis com entrada de contribuições, 
 
 4. Se o beneficiário tiver menos de 10 anos de inscrição, o montante mensal da pensão de invalidez será igual a 30 por cento do salário médio obtido dividindo o total de salários pelo número de meses compreendidos entre a data de inscrição e o fim do mês anterior àquele em que se vença o direito à pensão.
 
-###### Art. 81.º - 1. Sem prejuízo do disposto no n.º 2 do artigo 50.º, a pensão de invalidez é devida desde a entrada na caixa do requerimento referido no artigo 78.º. se for feita prova de que naquela data já não podia trabalhar, ou desde a decisão da comissão de verificação de invalidez, se não tiver sido feita aquela prova.
+Art. 81.º - 1. Sem prejuízo do disposto no n.º 2 do artigo 50.º, a pensão de invalidez é devida desde a entrada na caixa do requerimento referido no artigo 78.º. se for feita prova de que naquela data já não podia trabalhar, ou desde a decisão da comissão de verificação de invalidez, se não tiver sido feita aquela prova.
 
 2. A pensão será paga mensalmente no fim do mês a que disser respeito, arredondando-se o quantitativo da prestação mensal para a dezena de escudos superior.
 
-###### Art. 82.º Os inválidos pensionistas, enquanto não completarem a idade estatutária de reforma por velhice, serão sujeitos, sem quaisquer encargos, a exame por uma comissão de revisão constituída nos termos do n.º 1 do artigo 79.º sempre que a direcção o entender e, obrigatòriamente, uma vez por ano durante os três primeiros anos, para se verificar se as condições que motivaram a concessão da pensão se mantêm.
+Art. 82.º Os inválidos pensionistas, enquanto não completarem a idade estatutária de reforma por velhice, serão sujeitos, sem quaisquer encargos, a exame por uma comissão de revisão constituída nos termos do n.º 1 do artigo 79.º sempre que a direcção o entender e, obrigatòriamente, uma vez por ano durante os três primeiros anos, para se verificar se as condições que motivaram a concessão da pensão se mantêm.
 
-###### Art. 83.º - 1. A pensão será suspensa:
+Art. 83.º - 1. A pensão será suspensa:
 
 a) Se o pensionista não fizer prova anual de vida dentro do prazo designado pela caixa e enquanto a não fizer;
 
@@ -1086,35 +1317,35 @@ b) Se o pensionista auferir proventos regulares por exercício de actividade pro
 
 2. Na hipótese prevista na alínea b) do número anterior, a suspensão dar-se-á na parte em que a soma dos proventos e da pensão exceder 80 por cento da remuneração correspondente ao exercício normal da profissão a que respeita a invalidez; mas se o beneficiário estiver em regime de readaptação profissional, a pensão será mantida na parte que, somada à remuneração da nova actividade, não exceda o ordenado ou salário correspondente àquele exercício normal.
 
-###### Art. 84.º A pensão será suprimida desde que se verifique não subsistirem razões que justifiquem o reconhecimento da invalidez.
+Art. 84.º A pensão será suprimida desde que se verifique não subsistirem razões que justifiquem o reconhecimento da invalidez.
 
-###### Art. 85.º - 1. As caixas que não tiverem serviços adequados à recuperação e readaptação profissional podem estabelecer para esse efeito acordos com instituições ou serviços particulares ou oficiais que deles disponham.
+Art. 85.º - 1. As caixas que não tiverem serviços adequados à recuperação e readaptação profissional podem estabelecer para esse efeito acordos com instituições ou serviços particulares ou oficiais que deles disponham.
 
 2. Estes acordos estão sujeitos à aprovação dos Ministros de que dependam as entidades que intervenham no acordo.
 
-###### Art. 86.º Atingida a idade estatutária de reforma, as pensões de invalidez tomam, de direito, a natureza de pensões de velhice.
+Art. 86.º Atingida a idade estatutária de reforma, as pensões de invalidez tomam, de direito, a natureza de pensões de velhice.
 
 #### SECÇÃO VI — Velhice
 
-###### Art. 87.º A protecção na velhice é realizada mediante a concessão de pensões vitalícias de reforma.
+Art. 87.º A protecção na velhice é realizada mediante a concessão de pensões vitalícias de reforma.
 
-###### Art. 88.º - 1. O direito à pensão é reconhecido aos beneficiários que tenham completado a idade e o tempo de inscrição estatutàriamente previstos, não podendo este ser inferior a cinco anos.
+Art. 88.º - 1. O direito à pensão é reconhecido aos beneficiários que tenham completado a idade e o tempo de inscrição estatutàriamente previstos, não podendo este ser inferior a cinco anos.
 
 2. Na Caixa Nacional de Pensões a idade normal da reforma será de 65 anos e o tempo a considerar como prazo de garantia será de 10 anos de inscrição, exigindo-se ainda que o beneficiário conte ou 60 meses de contribuições ou 10 anos civis com entrada de contribuições.
 
-###### Art. 89.º - 1. O montante da pensão será calculado nos termos previstos no estatuto da caixa, não podendo ultrapassar 80 por cento nem ser inferior a 20 por cento do salário-base.
+Art. 89.º - 1. O montante da pensão será calculado nos termos previstos no estatuto da caixa, não podendo ultrapassar 80 por cento nem ser inferior a 20 por cento do salário-base.
 
 2. Na Caixa Nacional de Pensões o montante anual da pensão de reforma será calculado nos termos previstos nos n.os 2 e 3 do artigo 80.º
 
-###### Art. 90.º - 1. A pensão de reforma é devida a partir da data da apresentação na caixa do respectivo requerimento, instruído nos termos previstos no estatuto.
+Art. 90.º - 1. A pensão de reforma é devida a partir da data da apresentação na caixa do respectivo requerimento, instruído nos termos previstos no estatuto.
 
 2. É aplicável à pensão de reforma o disposto no n.º 2 do artigo 81.º
 
-###### Art. 91.º - 1. As pensões de reforma de montante inferior ao limite que seja fixado nos estatutos serão remíveis a requerimento dos interessados, que por tal facto não ficarão prejudicados nos demais direitos reconhecidos aos pensionistas.
+Art. 91.º - 1. As pensões de reforma de montante inferior ao limite que seja fixado nos estatutos serão remíveis a requerimento dos interessados, que por tal facto não ficarão prejudicados nos demais direitos reconhecidos aos pensionistas.
 
 2. O capital resultante da remição será determinado de acordo com a correspondente tabela anexa ao estatuto da caixa.
 
-###### Art. 92.º - 1. A pensão de reforma será suspensa:
+Art. 92.º - 1. A pensão de reforma será suspensa:
 
 a) Se o pensionista não fizer prova anual de vida, nos termos previstos na alínea a) do artigo 83.º
 
@@ -1122,25 +1353,25 @@ b) Quando o interessado, sendo a idade prevista para a reforma inferior a 70 ano
 
 2. Na Caixa Nacional de Pensões, para efeito do disposto na alínea b) do número anterior, será tido em consideração o salário médio dos dez anos civis a que correspondam mais elevadas remunerações.
 
-###### Art. 93.º As pensões dos beneficiários em cujo nome entrem contribuições após o início da pensão serão melhoradas tendo em atenção aquelas contribuições, nos termos previstos nos estatutos.
+Art. 93.º As pensões dos beneficiários em cujo nome entrem contribuições após o início da pensão serão melhoradas tendo em atenção aquelas contribuições, nos termos previstos nos estatutos.
 
 #### SECÇÃO VII — Morte
 
-###### Art. 94.º A protecção na morte é realizada mediante a concessão de pensões de sobrevivência e de um subsídio pago por uma só vez.
+Art. 94.º A protecção na morte é realizada mediante a concessão de pensões de sobrevivência e de um subsídio pago por uma só vez.
 
 ##### SUBSECÇÃO I — Pensões de sobrevivência
 
-###### Art. 95.º - 1. As caixas que hajam estabelecido pensões de sobrevivência poderão continuar a concedê-las.
+Art. 95.º - 1. As caixas que hajam estabelecido pensões de sobrevivência poderão continuar a concedê-las.
 
 2. Na Caixa Nacional de Pensões poderão ser estabelecidas pensões de sobrevivência mediante cláusula expressa de convocação colectiva de trabalho, observado o disposto no artigo 28.º
 
 ##### SUBSECÇÃO II — Subsídio por morte
 
-###### Art. 96.º - 1. O direito ao subsídio é reconhecido aos familiares, referidos nos artigos subsequentes, dos beneficiários que, à data da morte, tenham completado o tempo de inscrição previsto no estatuto da instituição, o qual não poderá ser inferior a um ano.
+Art. 96.º - 1. O direito ao subsídio é reconhecido aos familiares, referidos nos artigos subsequentes, dos beneficiários que, à data da morte, tenham completado o tempo de inscrição previsto no estatuto da instituição, o qual não poderá ser inferior a um ano.
 
 2. Na Caixa Nacional de Pensões o tempo a considerar como prazo de garantia será de três anos de inscrição, exigindo-se ainda que o beneficiário conte ou dezoito meses de contribuições ou três anos civis com entrada de contribuições.
 
-###### Art. 97.º - 1. O direito ao subsídio defere-se nos termos seguintes:
+Art. 97.º - 1. O direito ao subsídio defere-se nos termos seguintes:
 
 a) Metade ao cônjuge e metade aos descendentes ou equiparados que confiram direito ao abono de família, se houver simultâneamente um e outros;
 
@@ -1152,15 +1383,15 @@ c) Por inteiro aos ascendentes ou equiparados que confiram direito a abono de fa
 
 3. No caso de divórcio, o ex-cônjuge inocente com direito a alimentos e que não haja contraído novo casamento tem direito ao subsídio ou à parte que lhe couber na hipótese de mais alguém, que houver sido casado com o beneficiário, eficazmente se habilitar. Se, porém, o divórcio tiver resultado de mútuo consentimento, o direito ao subsídio depende de assim haver sido consignado nos termos da parte final do número anterior.
 
-###### Art. 98.º - 1. Na falta de pessoas referidas no artigo anterior, o subsídio será pago a parentes ou afins do beneficiário, até ao 3.º grau da linha colateral, que estivessem a seu cargo e com ele vivessem em comunhão de mesa e habitação, desde que os designe, de modo inequívoco, em declaração datada e assinada pelo próprio, ou a seu rogo, com reconhecimento notarial da assinatura.
+Art. 98.º - 1. Na falta de pessoas referidas no artigo anterior, o subsídio será pago a parentes ou afins do beneficiário, até ao 3.º grau da linha colateral, que estivessem a seu cargo e com ele vivessem em comunhão de mesa e habitação, desde que os designe, de modo inequívoco, em declaração datada e assinada pelo próprio, ou a seu rogo, com reconhecimento notarial da assinatura.
 
 2. A declaração, encerrada em sobrescrito lacrado, será entregue na caixa, mediante recibo, ou enviada pelo correio, com aviso de recepção, e poderá ser retirada ou substituída a todo o tempo pelo seu autor.
 
 3. Considerar-se-ão não escritas as declarações que contrariem o disposto neste artigo.
 
-###### Art. 99.º O subsídio, ou a parte do subsídio, que couber a mais de uma pessoa será dividido por igual, salvo se, no caso do artigo anterior, o beneficiário tiver estabelecido proporção diferente.
+Art. 99.º O subsídio, ou a parte do subsídio, que couber a mais de uma pessoa será dividido por igual, salvo se, no caso do artigo anterior, o beneficiário tiver estabelecido proporção diferente.
 
-###### Art. 100.º - 1. O montante do subsídio por morte será o indicado no estatuto da instituição, não podendo ultrapassar o equivalente a um ano do salário-base.
+Art. 100.º - 1. O montante do subsídio por morte será o indicado no estatuto da instituição, não podendo ultrapassar o equivalente a um ano do salário-base.
 
 2. Na Caixa Nacional de Pensões o subsídio será de seis meses do salário médio calculado nos termos dos números seguintes.
 
@@ -1174,21 +1405,21 @@ c) Por inteiro aos ascendentes ou equiparados que confiram direito a abono de fa
 
 em que S representa o salário global a que se referem as contribuições entradas em nome do beneficiário e n o número de anos civis a que as mesmas contribuições se reportam.
 
-###### Art. 101.º - 1. Qualquer dos interessados pode requerer o subsídio que lhe couber, juntando ao requerimento os documentos comprovativos do óbito e dos demais factos condicionantes do seu direito.
+Art. 101.º - 1. Qualquer dos interessados pode requerer o subsídio que lhe couber, juntando ao requerimento os documentos comprovativos do óbito e dos demais factos condicionantes do seu direito.
 
 2. A caixa pode exigir, quando o julgue necessário, que sejam apresentados atestados, passados pela junta de freguesia da última residência e do nascimento do beneficiário, declarativos do não conhecimento da existência de outras pessoas com igual ou melhor direito ou de pessoas indicadas no artigo 97.º, conforme se trate da aplicação deste preceito ou do artigo 98.º
 
-###### Art. 102.º - 1. Havendo declaração nos termos do artigo 98.º, a caixa procederá à sua abertura logo que tenha conhecimento da morte do beneficiário e avisará directamente o designado ou designados para fazerem prova dos factos condicionantes do seu direito.
+Art. 102.º - 1. Havendo declaração nos termos do artigo 98.º, a caixa procederá à sua abertura logo que tenha conhecimento da morte do beneficiário e avisará directamente o designado ou designados para fazerem prova dos factos condicionantes do seu direito.
 
 2. O aviso será feito directamente aos interessados ou, se não forem conhecidas as suas moradas actuais, por intermédio de dois jornais diários, um de Lisboa e outro do Porto.
 
 3. As despesas provocadas pelo aviso nos jornais serão deduzidas no montante do subsídio.
 
-###### Art. 103.º As importâncias do subsídio serão entregues pela caixa mediante recibo datado e assinado pelo respectivo titular ou por quem as suas vezes fizer, no qual o destinatário se obrigue a, na hipótese de posteriormente e em tempo vir a reconhecer-se serem outras as pessoas com direito ao subsídio, devolver à instituição a parte a que não tiver direito.
+Art. 103.º As importâncias do subsídio serão entregues pela caixa mediante recibo datado e assinado pelo respectivo titular ou por quem as suas vezes fizer, no qual o destinatário se obrigue a, na hipótese de posteriormente e em tempo vir a reconhecer-se serem outras as pessoas com direito ao subsídio, devolver à instituição a parte a que não tiver direito.
 
-###### Art. 104.º As importâncias de subsídios que caibam a menores ou outros incapazes, quando não haja representante legal a quem devam ser entregues, podem ser depositadas, até à cessação ou suprimento da incapacidade, na Caixa Geral de Depósitos, Crédito e Previdência, à ordem do titular do respectivo direito ou de quem vier a ser nomeado seu representante.
+Art. 104.º As importâncias de subsídios que caibam a menores ou outros incapazes, quando não haja representante legal a quem devam ser entregues, podem ser depositadas, até à cessação ou suprimento da incapacidade, na Caixa Geral de Depósitos, Crédito e Previdência, à ordem do titular do respectivo direito ou de quem vier a ser nomeado seu representante.
 
-###### Art. 105.º - 1. Não tem direito ao subsídio quem for judicialmente condenado como autor, cúmplice ou encobridor da morte do beneficiário, e, se já o tiver recebido, será obrigado a repô-lo.
+Art. 105.º - 1. Não tem direito ao subsídio quem for judicialmente condenado como autor, cúmplice ou encobridor da morte do beneficiário, e, se já o tiver recebido, será obrigado a repô-lo.
 
 2. A pronúncia pelos crimes a que se refere este artigo implica suspensão da concessão do subsídio.
 
@@ -1196,23 +1427,23 @@ em que S representa o salário global a que se referem as contribuições entrad
 
 ##### SUBSECÇÃO I — Desemprego involuntário
 
-###### Art. 106.º A protecção no desemprego involuntário será efectuada nos termos previstos no [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242), de 10 de Agosto de 1962, e nos que forem determinados em outro diploma especial.
+Art. 106.º A protecção no desemprego involuntário será efectuada nos termos previstos no [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242), de 10 de Agosto de 1962, e nos que forem determinados em outro diploma especial.
 
 ##### SUBSECÇÃO II — Doenças profissionais
 
-###### Art. 107.º A protecção nas doenças profissionais será realizada pela Caixa Nacional de Seguros de Doenças Profissionais, criada pelo [Decreto-Lei n.º 44307](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44307-1962-516070), de 27 de Abril de 1962, nos termos nele indicados e no respectivo regulamento.
+Art. 107.º A protecção nas doenças profissionais será realizada pela Caixa Nacional de Seguros de Doenças Profissionais, criada pelo [Decreto-Lei n.º 44307](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44307-1962-516070), de 27 de Abril de 1962, nos termos nele indicados e no respectivo regulamento.
 
 ### CAPÍTULO VI — Da acção social
 
-###### Art. 108.º - 1. Em complemento dos seus esquemas normais de prestações, as caixas sindicais de previdência, mediante autorização nos termos do n.º 5 da base V da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), poderão prosseguir outras realizações de acção social, essencialmente dirigidas à defesa da família.
+Art. 108.º - 1. Em complemento dos seus esquemas normais de prestações, as caixas sindicais de previdência, mediante autorização nos termos do n.º 5 da base V da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), poderão prosseguir outras realizações de acção social, essencialmente dirigidas à defesa da família.
 
 2. As modalidades de acção social comuns à Caixa Nacional de Pensões e às caixas de previdência e abono de família e outras que pelo Ministro das Corporações e Previdência Social lhes venham a ser atribuídas incumbirão ao Instituto de Obras Sociais previsto no n.º 3 da base XVI da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986).
 
-###### Art. 109.º As caixas que possuam fundos de assistência prestarão aos beneficiários e familiares socorros extraordinários, à margem dos compromissos regulamentares, desde que se verifiquem situações de comprovada necessidade que as direcções julguem atendíveis.
+Art. 109.º As caixas que possuam fundos de assistência prestarão aos beneficiários e familiares socorros extraordinários, à margem dos compromissos regulamentares, desde que se verifiquem situações de comprovada necessidade que as direcções julguem atendíveis.
 
-###### Art. 110.º Na acção social das caixas de pensões compreende-se a cooperação no fomento da habitação nos termos da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997), de 9 de Abril de 1958, e demais legislação em vigor sobre casas económicas, casas de renda económica e empréstimos destinados àquele fim.
+Art. 110.º Na acção social das caixas de pensões compreende-se a cooperação no fomento da habitação nos termos da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997), de 9 de Abril de 1958, e demais legislação em vigor sobre casas económicas, casas de renda económica e empréstimos destinados àquele fim.
 
-###### Art. 111.º Para efeito das realizações de acção social e de protecção na doença e na invalidez, as caixas sindicais de previdência poderão dispor de um serviço social especializado.
+Art. 111.º Para efeito das realizações de acção social e de protecção na doença e na invalidez, as caixas sindicais de previdência poderão dispor de um serviço social especializado.
 
 ### CAPÍTULO VII — Das contribuições
 
@@ -1220,7 +1451,7 @@ em que S representa o salário global a que se referem as contribuições entrad
 
 ##### SUBSECÇÃO I — Regime geral
 
-###### Art. 112.º - 1. As entidades patronais e respectivos trabalhadores abrangidos pelas caixas concorrerão para estas com as percentagens, fixadas nos estatutos, sobre as remunerações pagas e recebidas, na parte em que não excedam o quantitativo mensal indicado nos mesmos estatutos.
+Art. 112.º - 1. As entidades patronais e respectivos trabalhadores abrangidos pelas caixas concorrerão para estas com as percentagens, fixadas nos estatutos, sobre as remunerações pagas e recebidas, na parte em que não excedam o quantitativo mensal indicado nos mesmos estatutos.
 
 2. Em casos especiais poderá o Ministro das Corporações e Previdência Social autorizar que as contribuições sejam determinadas sob a forma de quotizações, taxas, ou importâncias fixas.
 
@@ -1230,7 +1461,7 @@ em que S representa o salário global a que se referem as contribuições entrad
 
 5. As contribuições estão sujeitas a revisão periódica, com base nos balanços actuariais, mediante parecer do Conselho Superior da Previdência e da Habitação Económica e ouvido o conselho social.
 
-###### Art. 113.º Para os efeitos do artigo anterior, consideram-se como remunerações, ressalvado o que seja estabelecido por despacho do Ministro das Corporações e Previdência Social em relação a certas actividades:
+Art. 113.º Para os efeitos do artigo anterior, consideram-se como remunerações, ressalvado o que seja estabelecido por despacho do Ministro das Corporações e Previdência Social em relação a certas actividades:
 
 a) A remuneração-base, que compreende a prestação pecuniária e prestações em géneros, alimentação ou habitação;
 
@@ -1248,7 +1479,7 @@ g) Os salários relativos aos dias de trabalho garantidos aos trabalhadores por 
 
 h) A indemnização por despedimento sem aviso prévio ou justa causa.
 
-###### Art. 114.º - 1. As entidades patronais são responsáveis perante as caixas pelas contribuições devidas pelos trabalhadores em relação ao tempo que estiverem ao seu serviço.
+Art. 114.º - 1. As entidades patronais são responsáveis perante as caixas pelas contribuições devidas pelos trabalhadores em relação ao tempo que estiverem ao seu serviço.
 
 2. A contribuição dos beneficiários deve ser descontada nos respectivos salários e paga pela entidade patronal, ou por quem suas vezes fizer, juntamente com a própria contribuição, mediante guias fornecidas pela caixa.
 
@@ -1256,47 +1487,47 @@ h) A indemnização por despedimento sem aviso prévio ou justa causa.
 
 4. A importância total a pagar em cada mês será arredondada, por excesso, em escudos.
 
-###### Art. 115.º - 1. Desde que comecem a pagar contribuições para as caixas sindicais de previdência, as entidades patronais contribuintes descontarão para a Fundo de Desemprego, ao pessoal inscrito nas caixas, apenas 1,5 por cento das remunerações previstas no artigo 2.º do Decreto n.º 45080, de 20 de Junho de 1963.
+Art. 115.º - 1. Desde que comecem a pagar contribuições para as caixas sindicais de previdência, as entidades patronais contribuintes descontarão para a Fundo de Desemprego, ao pessoal inscrito nas caixas, apenas 1,5 por cento das remunerações previstas no artigo 2.º do Decreto n.º 45080, de 20 de Junho de 1963.
 
 2. Às contribuições dos beneficiários acresce a importância de 0,5 por cento das remunerações sobre que incidirem, a qual será igualmente descontada e depositada nos termos do n.º 2 do artigo 114.º
 
-###### Art. 116.º - 1. A partir da data em que tenham expirada os prazos estabelecidos para o pagamento das contribuições serão estas acrescidas de juro de mora, a cargo das entidades patronais responsáveis, revertendo a importância do juro para as caixas a que as contribuições forem devidas.
+Art. 116.º - 1. A partir da data em que tenham expirada os prazos estabelecidos para o pagamento das contribuições serão estas acrescidas de juro de mora, a cargo das entidades patronais responsáveis, revertendo a importância do juro para as caixas a que as contribuições forem devidas.
 
 2. O juro de mora é de 0,5 por cento em relação a cada um dos meses seguintes àquele em que devia ser feito o pagamento das contribuições até ao mês, inclusive, em que este pagamento seja efectuado.
 
 3. Sendo as contribuições devidas conjuntamente à Caixa Nacional de Pensões e a uma caixa de previdência e abono de família, o juro reverterá para aquela instituição.
 
-###### Art. 117.º No pagamento de contribuições e juros de mora aplicar-se-ão as disposições do [Decreto-Lei n.º 35410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35410-1945-462601), de 29 de Dezembro de 1945.
+Art. 117.º No pagamento de contribuições e juros de mora aplicar-se-ão as disposições do [Decreto-Lei n.º 35410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35410-1945-462601), de 29 de Dezembro de 1945.
 
-###### Art. 118.º As entidades patronais são obrigadas a enviar mensalmente à caixa interessada, dentro do prazo indicado no estatuto, uma folha de férias ou ordenados respeitante ao mês anterior, em impresso fornecido pela instituição.
+Art. 118.º As entidades patronais são obrigadas a enviar mensalmente à caixa interessada, dentro do prazo indicado no estatuto, uma folha de férias ou ordenados respeitante ao mês anterior, em impresso fornecido pela instituição.
 
-###### Art. 119.º - 1. Serão depositadas à ordem da Caixa Nacional de Pensões as contribuições relativas a beneficiários inscritos simultâneamente nesta e em caixa de previdência e abono de família, devendo, porém, a esta última ser remetidas as folhas de ordenados ou salários e um exemplar da guia de depósito.
+Art. 119.º - 1. Serão depositadas à ordem da Caixa Nacional de Pensões as contribuições relativas a beneficiários inscritos simultâneamente nesta e em caixa de previdência e abono de família, devendo, porém, a esta última ser remetidas as folhas de ordenados ou salários e um exemplar da guia de depósito.
 
 2. A Caixa Nacional de Pensões transferirá para a instituição interessada as contribuições a esta devidas, segundo normas estabelecidas pelo Ministro das Corporações e Previdência Social.
 
-###### Art. 120.º - 1. As contribuições para as caixas de seguros poderão ser cobradas em conjunto com as devidas às caixas de previdência e abono de família ou caixas de pensões, que para o efeito as representarão.
+Art. 120.º - 1. As contribuições para as caixas de seguros poderão ser cobradas em conjunto com as devidas às caixas de previdência e abono de família ou caixas de pensões, que para o efeito as representarão.
 
 2. A execução desta faculdade depende do que a tal respeito se dispuser no estatuto ou regulamento da caixa de seguros, efectuando-se a transferência das contribuições para esta em conformidade com o disposto no n.º 2 do artigo antecedente.
 
-###### Art. 121.º É proibido às caixas sindicais de previdência cobrar dos beneficiários e contribuintes quaisquer quantias além das contribuições ou outras receitas previstas neste regulamento e nos estatutos.
+Art. 121.º É proibido às caixas sindicais de previdência cobrar dos beneficiários e contribuintes quaisquer quantias além das contribuições ou outras receitas previstas neste regulamento e nos estatutos.
 
-###### Art. 122.º A dívida de contribuições às caixas sindicais de previdência prescreve pelo lapso de cinco anos, a contar do último dia do prazo estabelecido para o pagamento.
+Art. 122.º A dívida de contribuições às caixas sindicais de previdência prescreve pelo lapso de cinco anos, a contar do último dia do prazo estabelecido para o pagamento.
 
 ##### SUBSECÇÃO II — Regimes especiais
 
-###### Art. 123.º Os trabalhadores não dependentes de entidades patronais, inscritos em caixas sindicais de previdência, contribuirão para estas com as taxas previstas nos estatutos.
+Art. 123.º Os trabalhadores não dependentes de entidades patronais, inscritos em caixas sindicais de previdência, contribuirão para estas com as taxas previstas nos estatutos.
 
-###### Art. 124.º - 1. Aos beneficiários que contem pelo menos um ano de inscrição e seis meses de contribuições e que deixem de estar abrangidos pelas caixas poderá ser autorizada a continuação voluntária do pagamento de contribuições, enquanto não voltarem a estar sujeitos à obrigatoriedade de inscrição, desde que requeiram nesse sentido à direcção da caixa antes de haverem decorrido seis meses após a última contribuição obrigatória e sejam declarados aptos em exame médico.
+Art. 124.º - 1. Aos beneficiários que contem pelo menos um ano de inscrição e seis meses de contribuições e que deixem de estar abrangidos pelas caixas poderá ser autorizada a continuação voluntária do pagamento de contribuições, enquanto não voltarem a estar sujeitos à obrigatoriedade de inscrição, desde que requeiram nesse sentido à direcção da caixa antes de haverem decorrido seis meses após a última contribuição obrigatória e sejam declarados aptos em exame médico.
 
 2. A continuação de contribuições respeitará ao conjunto das modalidades de invalidez, velhice e morte e poderá, no caso de o beneficiário o haver solicitada expressamente no requerimento referido no número anterior, tornar-se extensiva às modalidades de doença e maternidade.
 
-###### Art. 125.º A continuação facultativa de contribuições respeita:
+Art. 125.º A continuação facultativa de contribuições respeita:
 
 a) Nas caixas de pensões, às prestações de invalidez relativas à incapacidade de trabalho definida no n.º 5 do artigo 77.º e às prestações de velhice e morte;
 
 b) Nas caixas de previdência e abono de família, às prestações em espécie em favor dos beneficiários e dos seus familiares.
 
-###### Art. 126.º - 1. As contribuições voluntárias nos termos do artigo 124.º serão estabelecidas em tabela anexa ao estatuto da caixa, facultando-se ao beneficiário, no que respeita às eventualidades de invalidez, velhice e morte, escolha do respectivo salário-base, entre determinado quantitativo mínimo e o salário médio sobre que incidirem as contribuições em regime obrigatório nos últimos seis meses.
+Art. 126.º - 1. As contribuições voluntárias nos termos do artigo 124.º serão estabelecidas em tabela anexa ao estatuto da caixa, facultando-se ao beneficiário, no que respeita às eventualidades de invalidez, velhice e morte, escolha do respectivo salário-base, entre determinado quantitativo mínimo e o salário médio sobre que incidirem as contribuições em regime obrigatório nos últimos seis meses.
 
 2. As contribuições serão devidas a partir do primeiro dia do mês seguinte àquele em que a direcção defira o requerimento do beneficiário, facultando-se a este o pagamento das contribuições a partir da data da apresentação do requerimento.
 
@@ -1304,29 +1535,29 @@ b) Nas caixas de previdência e abono de família, às prestações em espécie 
 
 #### SECÇÃO II — Restituições de contribuições
 
-###### Art. 127.º - 1. Os beneficiários que, antes de preenchido o correspondente prazo de garantia, se invalidarem nos termos previstos no n.º 5 do artigo 77.º, ou cessarem o exercício de profissão abrangida pela caixa havendo completado 70 anos, poderão requerer o reembolso das contribuições creditadas na parte respeitante às modalidades de invalidez e velhice. Se, porém, o capital do reembolso for superior ao correspondente ao limite das pensões remíveis nos termos estatutários, o reembolso será substituído pela constituição de uma renda vitalícia com base em tabela anexa ao estatuto da caixa, sem prejuízo do disposto no n.º 3.
+Art. 127.º - 1. Os beneficiários que, antes de preenchido o correspondente prazo de garantia, se invalidarem nos termos previstos no n.º 5 do artigo 77.º, ou cessarem o exercício de profissão abrangida pela caixa havendo completado 70 anos, poderão requerer o reembolso das contribuições creditadas na parte respeitante às modalidades de invalidez e velhice. Se, porém, o capital do reembolso for superior ao correspondente ao limite das pensões remíveis nos termos estatutários, o reembolso será substituído pela constituição de uma renda vitalícia com base em tabela anexa ao estatuto da caixa, sem prejuízo do disposto no n.º 3.
 
 2. Quando os beneficiários falecerem antes de preenchido o prazo de garantia relativo ao subsídio por morte, será concedido aos familiares que a este teriam direito o reembolso das contribuições creditadas àqueles, na parte respeitante a essa modalidade.
 
 3. Poderá ser autorizada a aplicação do capital de reembolso a que se refere o n.º 1 na constituição facultativa de rendas, mediante integralização, pelas entidades patronais ou pelos beneficiários, da respectiva reserva matemática, com base na tabela referida naquele n.º 1, não podendo as rendas a constituir exceder nem ser inferiores aos limites fixados no estatuto. Esta autorização poderá ser tornada extensiva à formação de subsídios por morte superiores aos constituídos, com base nas contribuições creditadas para esta modalidade, nos termos determinados no estatuto.
 
-###### Art. 128.º - 1. As contribuições indevidamente pagas a uma caixa sindical de previdência serão restituídas a pedido dos interessados na medida em que não sejam devidas a outra caixa sindical.
+Art. 128.º - 1. As contribuições indevidamente pagas a uma caixa sindical de previdência serão restituídas a pedido dos interessados na medida em que não sejam devidas a outra caixa sindical.
 
 2. A restituição será feita às entidades patronais e aos beneficiários pela parte proporcional das respectivas contribuições, depois de deduzido o valor de todos os benefícios que na sua base tenham sido concedidos.
 
 3. Para os fins deste artigo, só se consideram indevidas as contribuições cujo pagamento não tenha resultado de aplicação directa de lei ou despacho não anulado contenciosamente.
 
-###### Art. 129.º O direito de reclamar o reembolso ou a restituição das contribuições extingue-se pelo prazo de um ano, a contar da data da morte, no caso do n.º 2 do artigo 127.º, e da data do pagamento das contribuições, no caso do artigo 128.º
+Art. 129.º O direito de reclamar o reembolso ou a restituição das contribuições extingue-se pelo prazo de um ano, a contar da data da morte, no caso do n.º 2 do artigo 127.º, e da data do pagamento das contribuições, no caso do artigo 128.º
 
 ### CAPÍTULO VIII — Da administração
 
 #### SECÇÃO I — Direcções e conselhos gerais
 
-###### Art. 130.º A gerência das caixas sindicais de previdência compete, normalmente, a direcções assistidas de conselhos gerais.
+Art. 130.º A gerência das caixas sindicais de previdência compete, normalmente, a direcções assistidas de conselhos gerais.
 
 ##### SUBSECÇÃO I — Direcções
 
-###### Art. 131.º - 1. A direcção é constituída por um presidente e dois, quatro ou seis vogais efectivos e outros tantos vogais substitutos.
+Art. 131.º - 1. A direcção é constituída por um presidente e dois, quatro ou seis vogais efectivos e outros tantos vogais substitutos.
 
 2. Quando tal se justifique, haverá ainda um ou mais vice-presidentes.
 
@@ -1336,25 +1567,25 @@ b) Nas caixas de previdência e abono de família, às prestações em espécie 
 
 5. Os vogais substitutos entrarão em exercício na falta ou impedimento dos vogais efectivos.
 
-###### Art. 132.º - 1. Os vogais representarão, em número igual, os beneficiários e as entidades patronais contribuintes.
+Art. 132.º - 1. Os vogais representarão, em número igual, os beneficiários e as entidades patronais contribuintes.
 
 2. A designação dos vogais incumbirá ao conselho geral, de entre os beneficiários e contribuintes inscritos na caixa.
 
-###### Art. 133.º - 1. Dos vogais, um desempenhará as funções de secretário e outro as de tesoureiro.
+Art. 133.º - 1. Dos vogais, um desempenhará as funções de secretário e outro as de tesoureiro.
 
 2. Quando os vogais forem quatro ou mais, serão designados dois em reunião da direcção, um por cada categoria de inscritos, para o desempenho das funções referidas no número anterior.
 
-###### Art. 134.º Os indivíduos designados para a direcção não podem escusar-se do cargo, salvo dispensa do Ministro das Corporações e Previdência Social, em face de motivos justificados.
+Art. 134.º Os indivíduos designados para a direcção não podem escusar-se do cargo, salvo dispensa do Ministro das Corporações e Previdência Social, em face de motivos justificados.
 
-###### Art. 135.º - 1. A designação dos vogais é feita até ao dia 15 de Dezembro do ano anterior àquele em que houverem de começar a exercer as suas funções, cumprindo ao presidente do conselho geral convocar as reuniões necessárias para o efeito.
+Art. 135.º - 1. A designação dos vogais é feita até ao dia 15 de Dezembro do ano anterior àquele em que houverem de começar a exercer as suas funções, cumprindo ao presidente do conselho geral convocar as reuniões necessárias para o efeito.
 
 2. Na falta de designação no prazo referido no n.º 1 poderá o conselho geral ser convocado por determinação da Inspecção da Previdência Social.
 
 3. Quando se tratar da primeira direcção, os vogais poderão ser nomeados pelo Ministro das Corporações e Previdência Social.
 
-###### Art. 136.º Os membros da nova direcção são investidos no exercício das suas funções depois de o conselho geral se haver pronunciado sobre as contas da direcção anterior, permanecendo esta, entretanto, no uso do seu mandato.
+Art. 136.º Os membros da nova direcção são investidos no exercício das suas funções depois de o conselho geral se haver pronunciado sobre as contas da direcção anterior, permanecendo esta, entretanto, no uso do seu mandato.
 
-###### Art. 137.º - 1. Não podem ser nomeados ou designados para a direcção os indivíduos que não sejam portugueses maiores ou emancipados no gozo dos seus direitos civis e políticos e os que não exerçam profissão ou actividade abrangida pela caixa, tratando-se de vogais.
+Art. 137.º - 1. Não podem ser nomeados ou designados para a direcção os indivíduos que não sejam portugueses maiores ou emancipados no gozo dos seus direitos civis e políticos e os que não exerçam profissão ou actividade abrangida pela caixa, tratando-se de vogais.
 
 2. Não podem exercer simultâneamente cargos da direcção de uma caixa os indivíduos que tenham entre si parentesco até ao 3.º grau.
 
@@ -1362,13 +1593,13 @@ b) Nas caixas de previdência e abono de família, às prestações em espécie 
 
 4. Cessa o mandato dos vogais que venham a encontrar-se na situação prevista na parte final do n.º 1 deste artigo.
 
-###### Art. 138.º - 1. Os cargos da direcção podem ser remunerados mediante autorização dada por despacho do Ministro das Corporações e Previdência Social.
+Art. 138.º - 1. Os cargos da direcção podem ser remunerados mediante autorização dada por despacho do Ministro das Corporações e Previdência Social.
 
 2. Os vogais serão indemnizados pela caixa das despesas de transporte e da perda de remuneração resultantes do exercício das suas funções.
 
-###### Art. 139.º É expressamente proibido aos membros da direcção negociar directa ou indirectamente com a caixa.
+Art. 139.º É expressamente proibido aos membros da direcção negociar directa ou indirectamente com a caixa.
 
-###### Art. 140.º Compete à direcção:
+Art. 140.º Compete à direcção:
 
 a) Administrar os valores da caixa com o maior zelo e economia, arrecadando as receitas e satisfazendo as despesas, bem como cumprir e fazer cumprir as disposições legais e estatutárias;
 
@@ -1402,7 +1633,7 @@ p) Elaborar regulamentos internos e submetê-los à aprovação do Ministério d
 
 q) Cumprir as determinações emanadas do Ministério das Corporações e Previdência Social, de harmonia com as normas legais ou estatutárias em vigor.
 
-###### Art. 141.º - 1. Compete especialmente:
+Art. 141.º - 1. Compete especialmente:
 
 a) Ao presidente da direcção, convocar as sessões, dirigir os trabalhos e dar cumprimento às resoluções tomadas;
 
@@ -1414,13 +1645,13 @@ c) Ao tesoureiro, prover ao expediente da tesouraria, nunca podendo ter em caixa
 
 3. Compete em geral aos vogais auxiliar os restantes membros da direcção no desempenho das suas funções.
 
-###### Art. 142.º - 1. A direcção reunirá sempre que se torne necessário e obrigatòriamente uma vez por semana.
+Art. 142.º - 1. A direcção reunirá sempre que se torne necessário e obrigatòriamente uma vez por semana.
 
 2. Na primeira reunião de cada mês, a direcção procederá à revisão de contas, começando pela conferência do movimento de tesouraria.
 
 3. À reunião referida no número anterior assistirá o presidente do conselho geral.
 
-###### Art. 143.º - 1. As reuniões da direcção não poderão efectuar-se sem a presença da maioria dos seus componentes.
+Art. 143.º - 1. As reuniões da direcção não poderão efectuar-se sem a presença da maioria dos seus componentes.
 
 2. As deliberações só serão válidas quando votadas pela maioria dos membros presentes.
 
@@ -1430,17 +1661,17 @@ c) Ao tesoureiro, prover ao expediente da tesouraria, nunca podendo ter em caixa
 
 5. São proibidas as discussões sobre assuntos estranhos à natureza e fins da instituição.
 
-###### Art. 144.º - 1. As deliberações da direcção provam-se pelas respectivas actas, que deverão ser aprovadas e assinadas na sessão seguinte, em caso de impossibilidade de o serem na própria sessão.
+Art. 144.º - 1. As deliberações da direcção provam-se pelas respectivas actas, que deverão ser aprovadas e assinadas na sessão seguinte, em caso de impossibilidade de o serem na própria sessão.
 
 2. As certidões solicitadas pelos inscritos ao abrigo do n.º 1 do artigo 182.º devem ser passadas em papel comum dentro do prazo de oito dias, a contar da entrega do requerimento.
 
 ##### SUBSECÇÃO II — Conselhos gerais
 
-###### Art. 145.º - 1. O conselho geral é constituído por um presidente e pelo menos quatro vogais efectivos e outros tantos vogais substitutos, que representarão em número igual os beneficiários e as entidades patronais contribuintes.
+Art. 145.º - 1. O conselho geral é constituído por um presidente e pelo menos quatro vogais efectivos e outros tantos vogais substitutos, que representarão em número igual os beneficiários e as entidades patronais contribuintes.
 
 2. O presidente será substituído nas suas faltas ou impedimentos pelo vogal efectivo mais idoso.
 
-###### Art. 146.º Compete ao conselho geral:
+Art. 146.º Compete ao conselho geral:
 
 a) Apreciar e votar, na 1.ª quinzena de Maio, as contas e o relatório da gerência e, na 2.ª quinzena de Dezembro, o orçamento das despesas gerais de administração;
 
@@ -1448,7 +1679,7 @@ b) Proceder à designação dos vogais da direcção, nos termos do n.º 1 do ar
 
 c) Dar parecer sobre pedidos de alteração do estatuto e de fusão ou mudança de categoria, admissão de membros honorários, regulamentos internos elaborados pela direcção e quaisquer consultas que lhe sejam feitas pela direcção no respeitante à vida da caixa.
 
-###### Art. 147.º - 1. À nomeação e exoneração do presidente do conselho geral é aplicável o disposto no n.º 3 do artigo 131.º
+Art. 147.º - 1. À nomeação e exoneração do presidente do conselho geral é aplicável o disposto no n.º 3 do artigo 131.º
 
 2. Os vogais efectivos e substitutos serão, respectivamente, os presidentes e seus substitutos dos conselhos gerais ou das assembleias gerais dos organismos corporativos que representem os beneficiários e os contribuintes inscritos na caixa, com ressalva das caixas de empresa no que respeita aos vogais representantes das entidades contribuintes, os quais são designados directamente por estas entidades.
 
@@ -1456,25 +1687,25 @@ c) Dar parecer sobre pedidos de alteração do estatuto e de fusão ou mudança 
 
 4. Se houver apenas um organismo patronal ou um sindicato, os correspondentes vogais efectivos do conselho geral serão o presidente do conselho geral ou da assembleia geral daquele organismo e o seu substituto estatutário, cabendo os lugares de vogais substitutos do conselho geral da caixa aos membros que devam substituir aqueles dirigentes.
 
-###### Art. 148.º - 1. Compete ao presidente do conselho geral ordenar as diligências necessárias para a constituição do conselho, nos termos do n.º 3 do artigo anterior, convocar as sessões, dirigir os trabalhos e promover o cumprimento das resoluções tomadas.
+Art. 148.º - 1. Compete ao presidente do conselho geral ordenar as diligências necessárias para a constituição do conselho, nos termos do n.º 3 do artigo anterior, convocar as sessões, dirigir os trabalhos e promover o cumprimento das resoluções tomadas.
 
 2. As deliberações do conselho geral provam-se pelas respectivas actas, que deverão encerrar-se antes do termo das sessões em que aquelas tenham sido tomadas.
 
-###### Art. 149.º - 1. São aplicáveis ao conselho geral as disposições do artigo 143.º e do n.º 2 do artigo 144.º
+Art. 149.º - 1. São aplicáveis ao conselho geral as disposições do artigo 143.º e do n.º 2 do artigo 144.º
 
 2. São aplicáveis ao presidente e vogais do conselho geral as disposições dos n.os 2 e 3 do artigo 137.º, n.º 2 do artigo 138.º e artigo 139.º
 
 #### SECÇÃO II — Comissões organizadoras
 
-###### Art. 150.º - 1. A gerência das caixas sindicais de previdência em fase de organização é exercida por comissões organizadoras, na medida do necessário para a constituição das caixas.
+Art. 150.º - 1. A gerência das caixas sindicais de previdência em fase de organização é exercida por comissões organizadoras, na medida do necessário para a constituição das caixas.
 
 2. As comissões organizadoras são nomeadas por despacho do Ministro das Corporações e Previdência Social e serão constituídas por três ou cinco membros, dos quais um desempenhará as funções de presidente e dois outros as de secretário e de tesoureiro.
 
 3. Se a comissão organizadora for constituída por cinco membros, poderá haver um ou dois vice-presidentes.
 
-###### Art. 151.º As entidades patronais e os trabalhadores que devam ser abrangidos por caixas sindicais de previdência em organização e, bem assim, os organismos corporativos interessados são obrigados a fornecer às comissões organizadoras os elementos necessários ao estudo técnico e à elaboração do estatuto da instituição nas condições que forem determinadas pelo Ministério das Corporações e Previdência Social.
+Art. 151.º As entidades patronais e os trabalhadores que devam ser abrangidos por caixas sindicais de previdência em organização e, bem assim, os organismos corporativos interessados são obrigados a fornecer às comissões organizadoras os elementos necessários ao estudo técnico e à elaboração do estatuto da instituição nas condições que forem determinadas pelo Ministério das Corporações e Previdência Social.
 
-###### Art. 152.º Compete às comissões organizadoras:
+Art. 152.º Compete às comissões organizadoras:
 
 a) Administrar com o maior zelo e economia os valores das caixas em organização, arrecadando as receitas e satisfazendo as despesas que forem autorizadas a efectuar com a montagem e funcionamento dos serviços;
 
@@ -1500,13 +1731,13 @@ l) Ter devidamente escriturados os livros e documentos respeitantes à administr
 
 m) Velar por que não deixem de cumprir as suas obrigações para com a caixa aqueles que lhe devam ficar sujeitos.
 
-###### Art. 153.º São aplicáveis às comissões organizadoras o artigo 137.º, com excepção do disposto na parte final do n.º 1 e no n.º 4, as alíneas m), o) e q) do artigo 140.º, os n.os 1 e 2 do artigo 142.º e os artigos 138.º, 139.º, 141.º, 143.º, 144.º e 168.º
+Art. 153.º São aplicáveis às comissões organizadoras o artigo 137.º, com excepção do disposto na parte final do n.º 1 e no n.º 4, as alíneas m), o) e q) do artigo 140.º, os n.os 1 e 2 do artigo 142.º e os artigos 138.º, 139.º, 141.º, 143.º, 144.º e 168.º
 
 ### CAPÍTULO IX — Da gestão financeira
 
 #### SECÇÃO I — Receitas e despesas
 
-###### Art. 154.º As receitas das caixas de pensões e das caixas de previdência e abono de família classificam-se nas seguintes rubricas:
+Art. 154.º As receitas das caixas de pensões e das caixas de previdência e abono de família classificam-se nas seguintes rubricas:
 
 a) Contribuições patronais;
 
@@ -1526,7 +1757,7 @@ h) Benefícios prescritos;
 
 i) Outras receitas.
 
-###### Art. 155.º As despesas das caixas de previdência e abono de família classificam-se nas seguintes rubricas:
+Art. 155.º As despesas das caixas de previdência e abono de família classificam-se nas seguintes rubricas:
 
 a) Assistência médica e medicamentosa;
 
@@ -1546,7 +1777,7 @@ h) Administração;
 
 i) Outras despesas.
 
-###### Art. 156.º As despesas das caixas de pensões classificam-se nas seguintes rubricas:
+Art. 156.º As despesas das caixas de pensões classificam-se nas seguintes rubricas:
 
 a) Pensões de invalidez;
 
@@ -1566,19 +1797,19 @@ h) Administração;
 
 i) Outras despesas.
 
-###### Art. 157.º As receitas e as despesas das caixas de seguros classificam-se nos termos dos seus estatutos.
+Art. 157.º As receitas e as despesas das caixas de seguros classificam-se nos termos dos seus estatutos.
 
 #### SECÇÃO II — Fundos
 
-###### Art. 158.º As caixas sindicais de previdência terão os fundos disponíveis correspondentes aos objectivos estatutários e um fundo de administração que especificará as receitas e as despesas de gestão dos serviços.
+Art. 158.º As caixas sindicais de previdência terão os fundos disponíveis correspondentes aos objectivos estatutários e um fundo de administração que especificará as receitas e as despesas de gestão dos serviços.
 
-###### Art. 159.º - 1. As caixas sindicais de previdência terão um fundo de reserva destinado, nas caixas de previdência e abono de família, a garantir a instituição contra qualquer emergência imprevista e, nas caixas de pensões, a assegurar a cobertura actuarial dos seus compromissos.
+Art. 159.º - 1. As caixas sindicais de previdência terão um fundo de reserva destinado, nas caixas de previdência e abono de família, a garantir a instituição contra qualquer emergência imprevista e, nas caixas de pensões, a assegurar a cobertura actuarial dos seus compromissos.
 
 2. Nas caixas de seguros poderá haver um fundo de reservas matemáticas destinado a assegurar a cobertura actuarial dos seus compromissos, além do fundo de reserva destinado a garantir a instituição contra qualquer emergência imprevista.
 
 3. As caixas de pensões e as caixas de seguros, no caso previsto no número anterior, elaborarão balanços actuariais pelo menos de cinco em cinco anos.
 
-###### Art. 160.º - 1. As caixas sindicais de previdência poderão ter um fundo de assistência destinado a permitir a prestação de socorros extraordinários aos beneficiários e familiares e a promover outras realizações de acção social.
+Art. 160.º - 1. As caixas sindicais de previdência poderão ter um fundo de assistência destinado a permitir a prestação de socorros extraordinários aos beneficiários e familiares e a promover outras realizações de acção social.
 
 2. A existência deste fundo é obrigatória nas caixas de previdência e abono de família.
 
@@ -1586,7 +1817,7 @@ i) Outras despesas.
 
 #### SECÇÃO III — Aplicação de valores
 
-###### Art. 161.º - 1. Os valores das caixas sindicais de previdência só poderão ser representados em dinheiro ou aplicados em:
+Art. 161.º - 1. Os valores das caixas sindicais de previdência só poderão ser representados em dinheiro ou aplicados em:
 
 a) Títulos do Estado ou por ele garantidos;
 
@@ -1602,19 +1833,19 @@ d) Investimentos de carácter social, pela construção de habitações económi
 
 4. As aplicações previstas neste artigo dependem de autorização do Ministro das Corporações e Previdência Social.
 
-###### Art. 162.º - 1. Os títulos mencionados nas alíneas a) e b) do n.º 1 do artigo anterior e os imóveis em que tenham sido aplicados os valores não podem ser alienados, trocados ou onerados sem prévia autorização do Ministro das Corporações e Previdência Social.
+Art. 162.º - 1. Os títulos mencionados nas alíneas a) e b) do n.º 1 do artigo anterior e os imóveis em que tenham sido aplicados os valores não podem ser alienados, trocados ou onerados sem prévia autorização do Ministro das Corporações e Previdência Social.
 
 2. As operações de alienação ou troca de títulos referidos na alínea a) do n.º 1 do artigo anterior serão efectuadas por intermédio da Direcção-Geral da Fazenda Pública sempre que o outro contraente não seja instituição de previdência social.
 
-###### Art. 163.º - 1. Com excepção da quantia máxima que os estatutos permitam aos tesoureiros ter em caixa, os valores em dinheiro serão depositados na Caixa Geral de Depósitos, Crédito e Previdência, à ordem da direcção da instituição, só podendo ser movimentados por meio de cheques assinados pelo presidente e pelo tesoureiro. Na falta ou impedimento do presidente, a sua assinatura poderá ser substituída pela do vice-presidente ou pela do vogal por ele designado.
+Art. 163.º - 1. Com excepção da quantia máxima que os estatutos permitam aos tesoureiros ter em caixa, os valores em dinheiro serão depositados na Caixa Geral de Depósitos, Crédito e Previdência, à ordem da direcção da instituição, só podendo ser movimentados por meio de cheques assinados pelo presidente e pelo tesoureiro. Na falta ou impedimento do presidente, a sua assinatura poderá ser substituída pela do vice-presidente ou pela do vogal por ele designado.
 
 2. Para o efeito da realização de despesa que em cada mês não possa ficar directamente a cargo das tesourarias das instituições, caberá a estas proceder à designação de agentes por meio de acordos com entidades públicas e administrativas, com a Caixa Geral de Depósitos, Crédito e Previdência ou outros estabelecimentos bancários ou com firmas comerciais idóneas.
 
-###### Art. 164.º À designação de representantes das caixas sindicais de previdência nos corpos gerentes das empresas ou entidades de que aquelas sejam accionistas são aplicáveis as normas reguladoras da representação do Estado em empresas privadas.
+Art. 164.º À designação de representantes das caixas sindicais de previdência nos corpos gerentes das empresas ou entidades de que aquelas sejam accionistas são aplicáveis as normas reguladoras da representação do Estado em empresas privadas.
 
 ### CAPÍTULO X — Das isenções e regalias
 
-###### Art. 165.º - 1. As caixas sindicais de previdência gozam das isenções seguintes:
+Art. 165.º - 1. As caixas sindicais de previdência gozam das isenções seguintes:
 
 a) Da contribuição industrial;
 
@@ -1630,7 +1861,7 @@ f) Da contribuição predial devida pelos prédios mencionados na alínea anteri
 
 2. É aplicável aos títulos referidos na alínea a) do artigo 161.º o disposto no § 3.º do artigo 84.º do [Decreto n.º 31090](https://diariodarepublica.pt/dr/detalhe/decreto/31090-1940-400463), de 30 de Dezembro de 1940, salvo se com a sua alienação se tiver em vista proporcionar a habitação a trabalhadores.
 
-###### Art. 166.º - 1. As caixas sindicais de previdência gozam das regalias e faculdades seguintes:
+Art. 166.º - 1. As caixas sindicais de previdência gozam das regalias e faculdades seguintes:
 
 a) Despedir no fim do arrendamento, quando instalados em edifício próprio, qualquer dos seus inquilinos, se necessitarem da parte por eles ocupada para as suas instalações ou serviços;
 
@@ -1646,11 +1877,11 @@ e) Requisitar às conservatórias do registo civil as certidões de que necessit
 
 3. Às certidões referidas na alínea c) do n.º 1 deste artigo é aplicável o disposto na alínea c) do artigo 29.º da tabela anexa ao Código do Registo Civil, promulgado pelo [Decreto-Lei n.º 41967](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41967-1958-339382), de 22 de Novembro de 1958.
 
-###### Art. 167.º Os créditos por contribuições devidas às caixas sindicais de previdência gozam do privilégio mobiliário geral graduado a par do estabelecido no artigo 34 º da [Lei n.º 1942](https://diariodarepublica.pt/dr/detalhe/lei/1942-1936-360129), de 27 de Julho de 1936.
+Art. 167.º Os créditos por contribuições devidas às caixas sindicais de previdência gozam do privilégio mobiliário geral graduado a par do estabelecido no artigo 34 º da [Lei n.º 1942](https://diariodarepublica.pt/dr/detalhe/lei/1942-1936-360129), de 27 de Julho de 1936.
 
 ### CAPÍTULO XI — Das penalidades
 
-###### Art. 168.º - 1. Sem prejuízo da aplicação da multa prevista no n.º 2 do artigo 169.º, os membros dos corpos directivos das caixas sindicais de previdência são responsáveis, civil e criminalmente, pelas faltas ou irregularidades cometidas no exercício das suas funções, excedam ou não os limites da sua competência.
+Art. 168.º - 1. Sem prejuízo da aplicação da multa prevista no n.º 2 do artigo 169.º, os membros dos corpos directivos das caixas sindicais de previdência são responsáveis, civil e criminalmente, pelas faltas ou irregularidades cometidas no exercício das suas funções, excedam ou não os limites da sua competência.
 
 2. Consideram-se isentos de responsabilidade os que não tiverem intervindo na resolução ou a desaprovarem com declaração no livro de actas.
 
@@ -1660,7 +1891,7 @@ e) Requisitar às conservatórias do registo civil as certidões de que necessit
 
 5. Os vogais dos corpos directivos que não cumpram as suas obrigações legais ou estatutárias podem a todo o tempo ser suspensas ou afastados definitivamente das suas funções por despacho do Ministro das Corporações e Previdência Social exarada em processo de inquérito em que aos interessados tenha sido proporcionada audiência por escrito.
 
-###### Art. 169.º - 1. A falta de cumprimento das obrigações impostas às entidades patronais contribuintes por este regulamento e pelos estatutos das caixas sindicais de previdência, no relativo à entrega de folhas de ordenados ou salários e dos boletins de identificação dos beneficiários, bem como ao pagamento de contribuições, constitui transgressão punível com multa de 100$00 a 3000$00.
+Art. 169.º - 1. A falta de cumprimento das obrigações impostas às entidades patronais contribuintes por este regulamento e pelos estatutos das caixas sindicais de previdência, no relativo à entrega de folhas de ordenados ou salários e dos boletins de identificação dos beneficiários, bem como ao pagamento de contribuições, constitui transgressão punível com multa de 100$00 a 3000$00.
 
 2. Fora dos casos previstos no número anterior, a infracção do preceituado na [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), no presente regulamento e nos estatutos das caixas sindicais de previdência, será punida com multa de 100$00 a 1000$00.
 
@@ -1670,29 +1901,29 @@ e) Requisitar às conservatórias do registo civil as certidões de que necessit
 
 5. Ressalvam-se do disposto nos n.os 1 e 2 deste artigo os casos em que estiver prevista na lei sanção mais grave.
 
-###### Art. 170.º - 1. O julgamento das transgressões referidas nos artigos 168.º e 169.º é da competência dos tribunais do trabalho.
+Art. 170.º - 1. O julgamento das transgressões referidas nos artigos 168.º e 169.º é da competência dos tribunais do trabalho.
 
 2. O tribunal graduará as multas tendo em atenção as circunstâncias da infracção, especialmente o grau de culpabilidade do infractor e a sua situação económica, bem como o número de trabalhadores eventualmente prejudicados.
 
-###### Art. 171.º As multas revertem para o fundo de assistência da caixa interessada, como tal se considerando a caixa de previdência e abono de família, quando a obrigação infringida respeite cumulativamente à Caixa Nacional de Pensões.
+Art. 171.º As multas revertem para o fundo de assistência da caixa interessada, como tal se considerando a caixa de previdência e abono de família, quando a obrigação infringida respeite cumulativamente à Caixa Nacional de Pensões.
 
-###### Art. 172.º - 1. A reincidência será punida nos termos da legislação penal de carácter geral, mas em caso algum a multa imposta ao reincidente poderá ser inferior ao dobro da multa paga pela primeira infracção.
+Art. 172.º - 1. A reincidência será punida nos termos da legislação penal de carácter geral, mas em caso algum a multa imposta ao reincidente poderá ser inferior ao dobro da multa paga pela primeira infracção.
 
 2. Para o efeito de reincidência atender-se-á ao pagamento voluntário das multas em juízo.
 
 3. Se o autuante ou a direcção da caixa tiverem conhecimento de que o infractor é reincidente, deverão atender a essa circunstância na fixação do montante da multa.
 
-###### Art. 173.º - 1. Salvo o disposto nos artigos 174.º e 175.º, a direcção da caixa, dentro de dez dias, contados do conhecimento da infracção, notificará o infractor por meio de carta registada com aviso de recepção ou entrega contra recibo para, no prazo de dez dias, dar cumprimento às obrigações infringidas e efectuar o pagamento da multa em que incorreu.
+Art. 173.º - 1. Salvo o disposto nos artigos 174.º e 175.º, a direcção da caixa, dentro de dez dias, contados do conhecimento da infracção, notificará o infractor por meio de carta registada com aviso de recepção ou entrega contra recibo para, no prazo de dez dias, dar cumprimento às obrigações infringidas e efectuar o pagamento da multa em que incorreu.
 
 2. Nos dez dias seguintes ao termo do prazo da notificação ou à data da devolução do aviso de recepção, quando posterior, a direcção da caixa participará a infracção ao tribunal competente, se o infractor não tiver dado cumprimento à notificação.
 
-###### Art. 174.º - 1. Dentro de vinte dias, após o termo do prazo de entrega das folhas de ordenados ou salários, a direcção da caixa fará verificar a sua falta de entrada e notificará o infractor, nos termos previstos no n.º 1 do artigo 173.º, para, no prazo de dez dias, entregar as folhas e pagar a multa em que incorreu.
+Art. 174.º - 1. Dentro de vinte dias, após o termo do prazo de entrega das folhas de ordenados ou salários, a direcção da caixa fará verificar a sua falta de entrada e notificará o infractor, nos termos previstos no n.º 1 do artigo 173.º, para, no prazo de dez dias, entregar as folhas e pagar a multa em que incorreu.
 
 2. Nos vinte dias seguintes ao termo do prazo da notificação ou à data da devolução do aviso de recepção, quando posterior, a direcção da caixa fará verificar a entrada das folhas e das guias de pagamento das multas e participará a infracção ao tribunal competente, no caso de se manter a falta de entrega das folhas, ainda que se mostre efectuado o pagamento da multa.
 
 3. Verificando-se nas folhas de ordenados ou salários omissões de factos que delas deviam constar, sem intuito fraudulento dos responsáveis, a direcção da caixa, dentro dos dez dias seguintes àquela verificação, notificará os responsáveis, nos termos previstos no n.º 1 do artigo 173.º, para entregarem, no prazo de dez dias, folhas adicionais, sob cominação da multa referida no n.º 1 do artigo 169.º
 
-###### Art. 175.º - 1. A cobrança coerciva das contribuições não pagas no devido prazo, e respectivos juros de mora, terá por base as folhas de ordenados ou salários, sem prejuízo do disposto no artigo seguinte.
+Art. 175.º - 1. A cobrança coerciva das contribuições não pagas no devido prazo, e respectivos juros de mora, terá por base as folhas de ordenados ou salários, sem prejuízo do disposto no artigo seguinte.
 
 2. No caso de as folhas terem sido entregues dentro do prazo estatutário, a direcção da caixa, nos 30 dias seguintes ao último dia do prazo do pagamento de contribuições, fará verificar a falta de pagamento e notificará o infractor, nos termos previstos no n.º 1 do artigo 173.º, para, no prazo de dez dias, pagar as contribuições em dívida e a multa em que incorreu. Com as contribuições serão liquidados os juros eventualmente em dívida, os quais não sofrerão agravamento desde que o pagamento se verifique dentro do prazo da notificação.
 
@@ -1704,13 +1935,13 @@ e) Requisitar às conservatórias do registo civil as certidões de que necessit
 
 6. Se, por mero erro de cálculo ou de escrita, houver deficiência ou excesso de contribuições pagas, a caixa avisará o contribuinte nos dez dias seguintes ao da verificação do erro, para acrescer ou deduzir a diferença notada às contribuições do mês imediato.
 
-###### Art. 176.º Esgotados os meios de actuação judicial para compelir o infractor a proceder à entrega das folhas de ordenados ou salários sem que esta se mostre efectuada, a direcção da caixa procederá à notificação e participação previstas no artigo anterior para cobrança das contribuições que por qualquer modo tenha apurado como devidas.
+Art. 176.º Esgotados os meios de actuação judicial para compelir o infractor a proceder à entrega das folhas de ordenados ou salários sem que esta se mostre efectuada, a direcção da caixa procederá à notificação e participação previstas no artigo anterior para cobrança das contribuições que por qualquer modo tenha apurado como devidas.
 
-###### Art. 177.º As participações referidas nos artigos 173.º a 175.º são equiparadas, para todos os efeitos, aos autos de notícia levantados pela Inspecção do Trabalho.
+Art. 177.º As participações referidas nos artigos 173.º a 175.º são equiparadas, para todos os efeitos, aos autos de notícia levantados pela Inspecção do Trabalho.
 
-###### Art. 178.º Quando sejam devidas contribuições pela mesma entidade à Caixa Nacional de Pensões e às caixas de previdência e abono de família, a acção contenciosa competirá a estas últimas.
+Art. 178.º Quando sejam devidas contribuições pela mesma entidade à Caixa Nacional de Pensões e às caixas de previdência e abono de família, a acção contenciosa competirá a estas últimas.
 
-###### Art. 179.º - 1. Os beneficiários das caixas sindicais de previdência serão suspensos de benefícios:
+Art. 179.º - 1. Os beneficiários das caixas sindicais de previdência serão suspensos de benefícios:
 
 a) Por 3 a 10 dias, os que, por palavras ou por escrito, ofenderem directamente, durante o exercício das suas funções, algum membro dos corpos directivos ou do pessoal ao serviço da caixa;
 
@@ -1730,21 +1961,21 @@ d) Por 2 meses a 1 ano, os que intencionalmente defraudarem os interesses da cai
 
 ### CAPÍTULO XII — Disposições finais e transitórias
 
-###### Art. 180.º As caixas sindicais de previdência estão subordinadas ao Ministério das Corporações e Previdência Social e sujeitas à sua fiscalização, dele recebendo as instruções e directivas convenientes ao seu aperfeiçoamento e consolidação.
+Art. 180.º As caixas sindicais de previdência estão subordinadas ao Ministério das Corporações e Previdência Social e sujeitas à sua fiscalização, dele recebendo as instruções e directivas convenientes ao seu aperfeiçoamento e consolidação.
 
-###### Art. 181.º - 1. Sempre que as direcções e os conselhos gerais não cumpram o disposto na lei ou nos estatutos e ainda quando motivos ponderosos o justifiquem, pode o Ministro das Corporações e Previdência Social dissolver aquelas e estes e nomear em sua substituição comissões administrativas.
+Art. 181.º - 1. Sempre que as direcções e os conselhos gerais não cumpram o disposto na lei ou nos estatutos e ainda quando motivos ponderosos o justifiquem, pode o Ministro das Corporações e Previdência Social dissolver aquelas e estes e nomear em sua substituição comissões administrativas.
 
 2. As comissões administrativas, que têm as atribuições, poderes e responsabilidades previstos neste diploma e nos estatutos para as direcções e também os relativos ao conselho geral, quando a dissolução abranger este órgão, devem apresentar mensalmente relatório dos seus actos ao Ministro das Corporações e Previdência Social.
 
-###### Art. 182.º - 1. As entidades patronais contribuintes e os beneficiários devem ser verdadeiros nas suas declarações, requerimentos ou participações e prestar às direcções das caixas as informações por estas solicitadas nos limites da sua competência e podem obter gratuitamente as certidões do que directamente lhes interesse.
+Art. 182.º - 1. As entidades patronais contribuintes e os beneficiários devem ser verdadeiros nas suas declarações, requerimentos ou participações e prestar às direcções das caixas as informações por estas solicitadas nos limites da sua competência e podem obter gratuitamente as certidões do que directamente lhes interesse.
 
 2. As entidades patronais devem facultar à Inspecção do Trabalho ou aos serviços das caixas o exame das folhas de férias e dos demais documentos donde constem os ordenados ou salários pagos.
 
 3. Os beneficiários residentes nas províncias ultramarinas farão prova dos factos condicionantes da concessão ou manutenção das prestações a conceder pelas caixas sindicais de previdência por atestado médico ou administrativo passado pelas autoridades daquelas províncias.
 
-###### Art. 183.º As folhas de férias ou ordenados serão facultadas, para exame, aos beneficiários, aos contribuintes e a outras pessoas legìtimamente interessadas, dentro dos cinco anos posteriores à sua entrada na caixa.
+Art. 183.º As folhas de férias ou ordenados serão facultadas, para exame, aos beneficiários, aos contribuintes e a outras pessoas legìtimamente interessadas, dentro dos cinco anos posteriores à sua entrada na caixa.
 
-###### Art. 184.º - 1. A situação de cada beneficiário deverá constar com a maior pormenorização possível da escrita da caixa, em que se mencionarão para cada um as remunerações sobre que incidiram contribuições.
+Art. 184.º - 1. A situação de cada beneficiário deverá constar com a maior pormenorização possível da escrita da caixa, em que se mencionarão para cada um as remunerações sobre que incidiram contribuições.
 
 2. Em fichas individuais se mencionarão todas as circunstâncias necessárias para identificar o beneficiário e reconhecer em qualquer momento a sua posição regulamentar passada e presente.
 
@@ -1756,68 +1987,68 @@ d) Por 2 meses a 1 ano, os que intencionalmente defraudarem os interesses da cai
 
 6. Poderão ser dispensadas da aplicação do disposto neste artigo as caixas de seguros.
 
-###### Art. 185.º O disposto no presente regulamento, relativamente a salários, é extensivo aos ordenados dos empregados que vençam por mês ou por ano.
+Art. 185.º O disposto no presente regulamento, relativamente a salários, é extensivo aos ordenados dos empregados que vençam por mês ou por ano.
 
-###### Art. 186.º - 1. Quando a variação do custo de vida o justifique e desde que o equilíbrio financeiro das instituições o permita, o Ministro das Corporações e Previdência Social pode autorizar, por despacho publicado no Diário do Governo, a actualização, total ou parcial, das pensões.
+Art. 186.º - 1. Quando a variação do custo de vida o justifique e desde que o equilíbrio financeiro das instituições o permita, o Ministro das Corporações e Previdência Social pode autorizar, por despacho publicado no Diário do Governo, a actualização, total ou parcial, das pensões.
 
 2. O despacho referido no número anterior poderá restringir a actualização às pensões de nível mais modesto e estabelecer aumentos degressivos em relação ao montante das pensões.
 
 3. No estatuto da Caixa Nacional de Pensões poderão ser previstas normas de actualização das pensões, com base em índices em que se exprima a variação do custo de vida.
 
-###### Art. 187.º - 1. O direito às prestações pecuniárias das caixas sindicais de previdência é mantido aos beneficiários que se ausentem do território nacional, observando-se a este respeito o que estiver estabelecido em convenção internacional ou em acordo de reciprocidade.
+Art. 187.º - 1. O direito às prestações pecuniárias das caixas sindicais de previdência é mantido aos beneficiários que se ausentem do território nacional, observando-se a este respeito o que estiver estabelecido em convenção internacional ou em acordo de reciprocidade.
 
 2. A prova dos factos condicionantes da concessão ou manutenção das prestações poderá ser feita por intermédio das autoridades sanitárias ou administrativas do país da residência, mediante atestado autenticado pelas entidades consulares portuguesas.
 
-###### Art. 188.º A articulação dos vários ramos de seguro regulados neste diploma será assegurada pela coordenação entre a Federação das Caixas de Previdência e Abono de Família e a Caixa Nacional de Pensões, nos termos que forem determinados pelo Ministro das Corporações e Previdência Social.
+Art. 188.º A articulação dos vários ramos de seguro regulados neste diploma será assegurada pela coordenação entre a Federação das Caixas de Previdência e Abono de Família e a Caixa Nacional de Pensões, nos termos que forem determinados pelo Ministro das Corporações e Previdência Social.
 
-###### Art. 189.º É aplicável o disposto no artigo 27.º aos beneficiários das caixas de pensões que se achem inscritos em caixas de reforma ou de previdência ou em instituições de inscrição obrigatória pertencentes à 4.ª categoria prevista na base III da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986).
+Art. 189.º É aplicável o disposto no artigo 27.º aos beneficiários das caixas de pensões que se achem inscritos em caixas de reforma ou de previdência ou em instituições de inscrição obrigatória pertencentes à 4.ª categoria prevista na base III da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986).
 
-###### Art. 190.º A Caixa Nacional de Pensões utilizará os serviços das caixas de previdência e abono de família, quer para a verificação do direito dos beneficiários às prestações e para o pagamento destas, quer em todos os mais casos necessários ao bom funcionamento do sistema e à comodidade dos contribuintes e beneficiários.
+Art. 190.º A Caixa Nacional de Pensões utilizará os serviços das caixas de previdência e abono de família, quer para a verificação do direito dos beneficiários às prestações e para o pagamento destas, quer em todos os mais casos necessários ao bom funcionamento do sistema e à comodidade dos contribuintes e beneficiários.
 
-###### Art. 191.º As caixas sindicais de previdência e as instituições da 2.ª categoria previstas na base III da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), cooperarão entre si na organização da assistência médico-social aos trabalhadores e na protecção às suas famílias, sem prejuízo do disposto no n.º 4 do artigo 10.º
+Art. 191.º As caixas sindicais de previdência e as instituições da 2.ª categoria previstas na base III da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), cooperarão entre si na organização da assistência médico-social aos trabalhadores e na protecção às suas famílias, sem prejuízo do disposto no n.º 4 do artigo 10.º
 
-###### Art. 192.º - 1. Para a realização dos seus fins as caixas sindicais de previdência podem utilizar a cooperação dos serviços do Estado, dos organismos corporativos e das entidades patronais.
+Art. 192.º - 1. Para a realização dos seus fins as caixas sindicais de previdência podem utilizar a cooperação dos serviços do Estado, dos organismos corporativos e das entidades patronais.
 
 2. As caixas sindicais de previdência celebrarão entre si e com as demais instituições de previdência e as instituições e serviços de saúde e assistência os convenientes acordos para utilização recíproca dos seus meios de acção em tudo o que interesse às suas finalidades.
 
 3. As actividades das caixas sindicais de previdência são coordenadas com as instituições e serviços referidos no número anterior, em conformidade com o disposto no n.º 3 da base IV da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), no sentido de desenvolver e generalizar a protecção social aos trabalhadores rurais e suas famílias, designadamente na realização dos objectivos de acção médico-social, assistência materno-infantil e protecção na invalidez.
 
-###### Art. 193.º O Ministro das Corporações e Previdência Social poderá, por iniciativa própria ou sob proposta dos serviços competentes, ou dos corpos directivos das instituições, conferir louvor ou outra recompensa honorífica às entidades que, por forma notável, hajam contribuído para o prestígio e desenvolvimento da organização das caixas de previdência.
+Art. 193.º O Ministro das Corporações e Previdência Social poderá, por iniciativa própria ou sob proposta dos serviços competentes, ou dos corpos directivos das instituições, conferir louvor ou outra recompensa honorífica às entidades que, por forma notável, hajam contribuído para o prestígio e desenvolvimento da organização das caixas de previdência.
 
-###### Art. 194.º - 1. Sem prejuízo do disposto no artigo 196.º, as prestações do regime geral de protecção na doença serão concedidas aos beneficiários considerados vítimas de acidente de trabalho ou doença profissional, quando os presumíveis responsáveis recusem aceitar o encargo proveniente desses riscos.
+Art. 194.º - 1. Sem prejuízo do disposto no artigo 196.º, as prestações do regime geral de protecção na doença serão concedidas aos beneficiários considerados vítimas de acidente de trabalho ou doença profissional, quando os presumíveis responsáveis recusem aceitar o encargo proveniente desses riscos.
 
 2. A caixa terá o direito a ser reembolsada pela entidade patronal ou seguradora, até ao limite por que estas forem responsáveis, do custo das prestações concedidas, desde a data em que tiver início a responsabilidade emergente do acidente ou doença profissional.
 
 3. Ao valor de cada prestação a reembolsar acrescerá juro à taxa prevista no n.º 2 do artigo 116.º
 
-###### Art. 195.º - 1. Nos casos a que se aplica o artigo anterior, a caixa participará a juízo os acidentes de trabalho ou as doenças profissionais, sendo-lhe facultado intervir nos respectivos processos na qualidade de assistente.
+Art. 195.º - 1. Nos casos a que se aplica o artigo anterior, a caixa participará a juízo os acidentes de trabalho ou as doenças profissionais, sendo-lhe facultado intervir nos respectivos processos na qualidade de assistente.
 
 2. Poderá ser requerido no processo pela caixa, até à audiência de discussão e julgamento, o quantitativo do reembolso e juro a que tenha direito.
 
-###### Art. 196.º Os sinistrados ou vítimas de doenças profissionais que sejam reconhecidos como inválidos nos termos dos n.os 3 e 4 do artigo 77.º, havendo vencido o período de garantia da pensão de invalidez, mas não tendo a esta direito por a sua incapacidade resultar de doença ou acidente que estejam a coberto da legislação especial sobre acidentes de trabalho ou doenças profissionais, serão equiparados aos pensionistas de invalidez para efeito do disposto nos artigos 38.º e 59.º e no n.º 1 do artigo 73.º
+Art. 196.º Os sinistrados ou vítimas de doenças profissionais que sejam reconhecidos como inválidos nos termos dos n.os 3 e 4 do artigo 77.º, havendo vencido o período de garantia da pensão de invalidez, mas não tendo a esta direito por a sua incapacidade resultar de doença ou acidente que estejam a coberto da legislação especial sobre acidentes de trabalho ou doenças profissionais, serão equiparados aos pensionistas de invalidez para efeito do disposto nos artigos 38.º e 59.º e no n.º 1 do artigo 73.º
 
-###### Art. 197.º - 1. As caixas sindicais de previdência e as caixas de reforma ou de previdência e suas federações actualmente constituídas continuam a reger-se pelos regulamentos e legislação complementar da [Lei n.º 1884](https://diariodarepublica.pt/dr/detalhe/lei/1884-1935-380290) em tudo o que não contrarie as disposições da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), observando-se, para a sua integração no sistema das caixas sindicais de previdência regidas pelo presente diploma, o disposto nos números seguintes.
+Art. 197.º - 1. As caixas sindicais de previdência e as caixas de reforma ou de previdência e suas federações actualmente constituídas continuam a reger-se pelos regulamentos e legislação complementar da [Lei n.º 1884](https://diariodarepublica.pt/dr/detalhe/lei/1884-1935-380290) em tudo o que não contrarie as disposições da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), observando-se, para a sua integração no sistema das caixas sindicais de previdência regidas pelo presente diploma, o disposto nos números seguintes.
 
 2. As caixas de previdência do pessoal dos caminhos de ferro regulam-se pelo [Decreto-Lei n.º 40262](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40262-1955-236369), de 29 de Julho de 1955, e pela demais legislação especial que lhes for aplicável.
 
 3. As demais caixas e federações actualmente existentes serão objecto de fusão, nos termos do artigo 15.º, com as caixas que vierem a ser constituídas ao abrigo do presente diploma, ou serão transformadas por simples alteração dos seus regulamentos ou estatutos, nas instituições de estrutura correspondente expressamente previstas na Lei n. 2115.
 
-###### Art. 198.º - 1. Não serão prejudicadas por efeito deste diploma ou de disposições estatutárias estabelecidas em sua aplicação as pensões em curso e os prazos de garantia decorridos, bem como os tempos de inscrição ou contribuição contados ao abrigo dos actuais regulamentos das instituições existentes.
+Art. 198.º - 1. Não serão prejudicadas por efeito deste diploma ou de disposições estatutárias estabelecidas em sua aplicação as pensões em curso e os prazos de garantia decorridos, bem como os tempos de inscrição ou contribuição contados ao abrigo dos actuais regulamentos das instituições existentes.
 
 2. As pensões a conceder, de harmonia com o disposto no presente diploma, não poderão ser de quantitativo inferior ao resultante da aplicação dos regulamentos referidos no número anterior quanto às contribuições relativas ao período da sua vigência.
 
-###### Art. 199.º Nas caixas sindicais de previdência do pessoal das empresas concessionárias de serviços públicos a integração das pensões constitui encargo inerente à exploração desses serviços.
+Art. 199.º Nas caixas sindicais de previdência do pessoal das empresas concessionárias de serviços públicos a integração das pensões constitui encargo inerente à exploração desses serviços.
 
-###### Art. 200 - 1. Às instituições regidas por este decreto são aplicáveis, em tudo o que não contrarie o que nele se encontre estabelecido expressamente, as disposições legais e regulamentares em vigor sobre as caixas sindicais de previdência actualmente constituídas.
+Art. 200 - 1. Às instituições regidas por este decreto são aplicáveis, em tudo o que não contrarie o que nele se encontre estabelecido expressamente, as disposições legais e regulamentares em vigor sobre as caixas sindicais de previdência actualmente constituídas.
 
 2. Não são, porém, aplicáveis às caixas regidas pelo presente diploma o [Decreto n.º 25935](https://diariodarepublica.pt/dr/detalhe/decreto/25935-1935-536415), de 12 de Outubro de 1935, os Decretos-Leis n.os 33533, de 21 de Fevereiro de 1944, e 37426, de 23 de Maio de 1949, os Decretos n.os 37749 e 37762, de 2 e 24 de Fevereiro de 1950, 38775, de 5 de Junho de 1952, 39365, de 21 de Setembro de 1953, e 40775, de 8 de Setembro de 1956, os artigos 1.º a 9.º e 30.º e seguintes do [Decreto-Lei n.º 32674](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32674-1943-594099), de 20 de Fevereiro de 1943, e os artigos 11.º e seguintes do [Decreto-Lei n.º 35611](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35611-1946-340652), de 23 de Abril de 1946.
 
-###### Art. 201.º - 1. Para execução do disposto no presente diploma serão aprovadas por despacho do Ministro das Corporações e Previdência Social normas regulamentares de aplicação comum às caixas sindicais de previdência das espécies referidas no artigo 1.º, as quais serão consideradas parte integrante do estatuto das mesmas caixas.
+Art. 201.º - 1. Para execução do disposto no presente diploma serão aprovadas por despacho do Ministro das Corporações e Previdência Social normas regulamentares de aplicação comum às caixas sindicais de previdência das espécies referidas no artigo 1.º, as quais serão consideradas parte integrante do estatuto das mesmas caixas.
 
 2. É aplicável o disposto no número anterior às caixas e federações referidas no artigo 197.º
 
-###### Art. 202.º Os casos omissos e as dúvidas suscitadas na execução deste diploma ou dos estatutos das caixas sindicais de previdência serão resolvidos por despacho do Ministro das Corporações e Previdência Social publicado no Diário do Governo.
+Art. 202.º Os casos omissos e as dúvidas suscitadas na execução deste diploma ou dos estatutos das caixas sindicais de previdência serão resolvidos por despacho do Ministro das Corporações e Previdência Social publicado no Diário do Governo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Setembro de 1963. - ANTÓNIO DE OLIVEIRA SALAZAR - José João Gonçalves de Proença.

@@ -47,25 +47,37 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/12/2026/07/23/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2026-1151256049
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-23T00:00:00Z'
+  retrieved_at: '2026-10-22T18:47:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9231677691ac676b71b652488c75b905f37b08d4e25e624675f31dd2ff3fc1e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7169363a8d88872f67d9bbe77b4a3a6b7cd24c6bd9564724ac50788407ad644
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:47:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Catástrofe
+- Centro de Coordenação Operacional
+- Comunicações
+- Comunicações Eletrónicas
+- Definição de Competências
+- Incêndio
+- Informação
+- Madeira.região Autónoma
+- Proteção Civil
+- Serviço Regional de Protecção Civil da Madeira
+- Sistema Integrado de Operações de Protecção e Socorro
+- Sistema Regional de Monitorização e Comunicação de Risco de Alerta Especial e de Aviso à População
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/2/2019/01/11/p/dre
@@ -91,16 +103,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/16/2022/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16/2022/08/16/p/dre
+- type: cites
+  target: pt:dre:117726476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187481298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:47:35Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +155,7 @@ Neste contexto, torna-se essencial assegurar uma resposta articulada, célere e 
 
 O [Decreto-Lei n.º 2/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2019-117726476), de 11 de janeiro, instituiu o Sistema Nacional de Monitorização e Comunicação de Risco, de Alerta Especial e de Aviso à População, prevendo, no seu artigo 11.º, a aplicação do respetivo regime às Regiões Autónomas através de diploma próprio das respetivas assembleias legislativas regionais.
 
-Assim, a Assembleia Legislativa da Região Autónoma da Madeira, nos termos do disposto na alínea a) do n.º 1 do artigo 227.º, no n.º 1 do artigo 228.º e no n.º 1 do artigo 232.º da Constituição da República Portuguesa, na alínea c) do n.º 1 do artigo 37.º, na alínea hh) do artigo 40.º e no n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, decreta o seguinte:
+Assim, a Assembleia Legislativa da Região Autónoma da Madeira, nos termos do disposto na alínea a) do n.º 1 do artigo 227.º, no n.º 1 do artigo 228.º e no n.º 1 do artigo 232.º da Constituição da República Portuguesa, na alínea c) do n.º 1 do artigo 37.º, na alínea hh) do artigo 40.º e no n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, decreta o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -229,10 +265,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 9 de julho de 2026.
 
-**A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.**
+A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.
 
-**Assinado em 20 de julho de 2026.**
+Assinado em 20 de julho de 2026.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Paulo Duarte Barreto Ferreira.
+
+119949114

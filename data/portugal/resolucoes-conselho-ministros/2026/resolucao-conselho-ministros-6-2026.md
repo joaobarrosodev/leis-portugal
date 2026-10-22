@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/6/2026/01/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/6-2026-1011550851
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-16T00:00:00Z'
+  retrieved_at: '2026-10-22T18:29:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5ee64e67a7817052a0bb7c39f018bc8767be785b7932a9ddfb3f75264b7d446
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2546c1f1168a01a0f805a40a574950f5bcf9df0bb8caa9e9ff0ed2afd0c84523
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:29:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conselho Diretivo
+- Instituto de Educação Qualidade e Avaliação
 - Nomeação
 - Vogal
-- Instituto de Educação Qualidade e Avaliação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/105/2025/09/12/p/dre
@@ -91,16 +91,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/168/2025/10/29/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/168/2025/10/29/p/dre
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:935098429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:942971720:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:29:12Z'
   warnings: []
   errors: []
 ---
@@ -138,3 +158,5 @@ Habilitações académicas: Pós-graduação em Gestão do Desporto Profissional
 Experiência profissional: Vogal do conselho diretivo da Escola Técnica Profissional (ETP) da Moita (desde setembro de 2022); Diretor pedagógico do Colégio Corte Real (desde setembro de 2022); Diretor pedagógico da ETP da Moita (2011-2022); Coordenação partilhada do Centro de Investigação e Inovação para o Ensino Profissional (desde 2020); Coordenação técnico-científica do projeto-piloto «Educação Inclusiva nas Modalidades de Dupla Certificação» (2020-2023); Direção pedagógica de projetos-piloto de desenvolvimento de turmas em parceria com o Pestana Hotel Group, Grupo José de Mello Saúde e El Corte Inglés (2017-2022); Coordenação partilhada do projeto «Orienta-te» (2020-2021); Formador de Oficinas de Reflexão-Ação no Centro de Formação da Associação Nacional do Ensino Profissional - CEFANESPO (2019-2020); Coordenador pedagógico e formador do Curso de Formação Pedagógica Inicial de Formadores (2012-2018); Responsável pela coordenação pedagógica do Programa de Atividades de Enriquecimento Curricular no 1.º Ciclo na Moita (2010-2011); Docente nos ensinos básico e secundário, nas disciplinas de Educação Física e de Atividade Física e Desportiva (2007-2023).
 
 Outras atividades relevantes: Representante das delegações portuguesas nos grupos de trabalho da «Education 2030» da Organização para a Cooperação e Desenvolvimento - OCDE (2017-2022); Conselheiro do conselho científico-estratégico da Associação Nacional de Escolas Profissionais - ANESPO (desde 2021); Representante da ANESPO na Comissão Setorial para a Educação e Formação (CS 11) do IPQ, I. P. (2018-2022); Representante no Conselho Municipal de Educação da Moita (desde 2021); Orador e conferencista em seminários nacionais e internacionais (OCDE, ANQEP, ANESPO, ESCXEL) nas áreas da inovação pedagógica, flexibilidade curricular e qualificações baseadas em resultados de aprendizagem no ensino profissional.
+
+119947290

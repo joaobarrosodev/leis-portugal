@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43161-1960-515197
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-09-12T00:00:00Z'
+  retrieved_at: '2026-10-22T19:19:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b657818095fc799c9138c6f0ca8092fb587363a2d561e41ef22ed88f2fd5858
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5149a679eb546296b72f71e2c8899badf7c79fb07b82e3c3d98b1d25b740b0ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:19:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:539782:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:19:40Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +91,15 @@ Considerando o nível alcançado pelo Instituto de Medicina Tropical e a necessi
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É criada no Instituto de Medicina Tropical a cadeira de Antropologia Tropical, que acresce, com o número 7.ª, às cadeiras enumeradas no artigo 11.º do regulamento aprovado pelo [Decreto n.º 40055](https://diariodarepublica.pt/dr/detalhe/decreto/40055-1955-539782), de 5 de Fevereiro de 1955.
+Artigo 1.º É criada no Instituto de Medicina Tropical a cadeira de Antropologia Tropical, que acresce, com o número 7.ª, às cadeiras enumeradas no artigo 11.º do regulamento aprovado pelo [Decreto n.º 40055](https://diariodarepublica.pt/dr/detalhe/decreto/40055-1955-539782), de 5 de Fevereiro de 1955.
 
 § único. Na cadeira de Antropologia Tropical será especialmente versado o estudo do homem normal oriundo ou radicado nas regiões tropicais e o estudo das condições genéticas ou ecológicas que possam influenciar a sua evolução biológica e adaptação.
 
-###### Art. 2.º Ao quadro definido no corpo do artigo 45.º do referido regulamento de 5 de Fevereiro de 1955 é acrescentada a seguinte rubrica:
+Art. 2.º Ao quadro definido no corpo do artigo 45.º do referido regulamento de 5 de Fevereiro de 1955 é acrescentada a seguinte rubrica:
 
 Cadeira de Antropologia Tropical - um professor ordinário e um assistente.
 
-###### Art. 3.º O primeiro provimento no lugar de professor ordinário criado por este decreto será feito mediante concurso de provas públicas, a que poderão concorrer doutores por qualquer das Faculdades de Medicina nacionais ou ainda doutores em Antropologia por Universidade estrangeira cujo mérito seja reconhecido por voto unânime do conselho escolar do Instituto.
+Art. 3.º O primeiro provimento no lugar de professor ordinário criado por este decreto será feito mediante concurso de provas públicas, a que poderão concorrer doutores por qualquer das Faculdades de Medicina nacionais ou ainda doutores em Antropologia por Universidade estrangeira cujo mérito seja reconhecido por voto unânime do conselho escolar do Instituto.
 
 § 1.º Para o concurso à cadeira de Antropologia Tropical, o júri definido no artigo 53.º do regulamento de 5 de Fevereiro de 1955 será constituído por todos os professores ordinários, sob a presidência do director, e por três professores de Antropologia de qualquer estabelecimento de ensino superior, sendo, pelo menos, um deles professor de Antropologia Cultural.
 
@@ -103,7 +107,7 @@ Cadeira de Antropologia Tropical - um professor ordinário e um assistente.
 
 § 3.º O primeiro concurso para o preenchimento do lugar de professor ordinário de Antropologia Tropical deverá ser aberto no prazo de seis meses.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Setembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves - Francisco de Paula Leite Pinto.
 

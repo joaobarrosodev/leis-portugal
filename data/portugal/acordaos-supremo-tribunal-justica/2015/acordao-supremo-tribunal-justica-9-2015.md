@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/12100/0442004427.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/9/2015/06/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/9-2015-67579533
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-24T00:00:00Z'
+  retrieved_at: '2026-10-22T17:53:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69723cfae68bf722f7086f2644e71c9d1a4b9e2de8ef497a92e83bff67b5f1cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cda75878f55c4bb3f1cb179cde3eb2f6e75a624b24e475f86f3e1f464aed69da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:53:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,33 +68,37 @@ reuse:
 subjects:
 - Acidente de Trabalho
 - Cobrança de Juros
-- Pagamento
+- Companhia de Seguros
+- Incapacidade Física
+- Incapacidade Permanente
 - Incapacidade Psíquica
 - Indemnização
 - Indemnização Compensatória
-- Petição
 - Interpretação do Direito
 - Jurisprudencia
 - JURO de MORA
 - Juros
-- Incapacidade Física
+- Pagamento
+- Petição
 - Prótese
 - Responsabilidade Civil
-- Companhia de Seguros
 - Seguro contra Danos
 - Seguro de Acidentes de Trabalho
-- Incapacidade Permanente
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:452042:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:53:49Z'
   warnings: []
   errors: []
 ---

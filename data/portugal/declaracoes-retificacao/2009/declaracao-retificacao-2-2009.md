@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/2/2009/01/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2-2009-602683
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-19T00:00:00Z'
+  retrieved_at: '2026-10-22T19:11:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1e62e2ebce8d3bb854bf8be8f84a245235f299a1c233911a683d6a0efd41bd5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8f2274500afeadb8b13abcdb95d08d6095e5fa1dc8ffd85a012eb612ffc24d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:11:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Processo Civil
-- Ordem dos Advogados
-- Código do Processo Civil
 - Câmara dos Solicitadores
+- Código do Processo Civil
+- Direito Civil
 - Direito Privado
 - Estatuto
 - Estatuto dos Solicitadores
+- Ordem dos Advogados
+- Processo Civil
 - Processo de Execução
-- Direito Civil
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
@@ -90,16 +90,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/18/2008/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/18/2008/04/21/p/dre
+- type: cites
+  target: pt:dre:439815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:226/2008
+  label: "Rectifica o art. 1.º [na parte que altera o nº 1 do art. 898.º do CPC aprovado pelo Dec Lei 44129 de 28-Dez 1961],\
+    \ e a al. a) do art. 23.º que deve ler-se \"O disposto no artigo 1.º, na parte em que altera o artigo 376.º do Código\
+    \ de Processo Civil, no artigo 10.º e no artigo 22.º do presente decreto-lei entra em vigor no dia seguinte ao da sua\
+    \ publicação\" ambos do Decreto-Lei n.º 226/2008, de 20 de Novembro, DR.IS [226]\0\0"
+  source: null
+  date: '2008-11-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:11:09Z'
   warnings: []
   errors: []
 ---

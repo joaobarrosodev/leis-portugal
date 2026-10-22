@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/43/2026/02/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-16T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 067f4b5c983c050eadb2b438fa0c9f65920e695559339644cd54a1eec22c240e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eaaabdcfe6a8c54ca1cc9a898bb004262cede3d52fcb4ea96174255cbcffc666
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autoridade Marítima Nacional
-- Embarcação de ALTA Velocidade
-- Embarcação de Recreio
 - Capitania
 - Contraordenação
+- Embarcação de ALTA Velocidade
+- Embarcação de Recreio
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/2016/03/09/p/dre
@@ -91,16 +91,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/63/2025/10/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/63/2025/10/31/p/dre
+- type: cites
+  target: pt:dre:116950304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73807563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74672467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:943647413:por
+  label: null
+  source: null
 article_structure:
   article_count: 28
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:23Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +203,7 @@ b) 275 kW (368,78 hp) ou mais, no caso de embarcações com comprimento fora a f
 
 c) O valor resultante da aplicação da fórmula (65 × L - 300) × 0,7355 (kW), sendo L o comprimento fora a fora em metros, no caso de embarcações com mais de 10 m de comprimento fora a fora;
 
-b) Sejam capazes de atingir uma velocidade máxima, em metros por segundo (m/s), igual ou superior a 3,7 × ∇<sup>0,1667</sup>, em que ∇ é o volume do deslocamento correspondente à linha de água de projeto (m<sup>3</sup>), excluindo embarcações cujo casco é integralmente sustentado acima da superfície da água em modo de flutuabilidade dinâmica por forças aerodinâmicas geradas pelo efeito solo, nos termos da regra 1 do capítulo x da Convenção SOLAS, de 1974, na sua redação atual, e designada comummente por high speed craft (HSC);
+b) Sejam capazes de atingir uma velocidade máxima, em metros por segundo (m/s), igual ou superior a 3,7 × ∇0,1667, em que ∇ é o volume do deslocamento correspondente à linha de água de projeto (m3), excluindo embarcações cujo casco é integralmente sustentado acima da superfície da água em modo de flutuabilidade dinâmica por forças aerodinâmicas geradas pelo efeito solo, nos termos da regra 1 do capítulo x da Convenção SOLAS, de 1974, na sua redação atual, e designada comummente por high speed craft (HSC);
 
 c) Possuam a totalidade ou uma parte significativa do seu deslocamento suportado, em repouso ou em movimento, por uma almofada de ar gerada continuamente e cuja eficácia depende da proximidade da superfície sobre a qual a embarcação opera, também designadas por hovercraft (ACV - air cushion vehicle); ou
 
@@ -449,12 +481,14 @@ O presente decreto-lei entra em vigor 90 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de dezembro de 2025. - Luís Montenegro - Marisa da Luz Bento Garrido Marques Oliveira - Álvaro António Magalhães Ferrão de Castelo Branco - Rita Alarcão Júdice - Maria Lúcia da Conceição Abrantes Amaral.
 
-**Promulgado em 24 de janeiro de 2026.**
+Promulgado em 24 de janeiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de janeiro de 2026.**
+Referendado em 27 de janeiro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119947589

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/04/07200/0002300023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/19/2025/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/19-2025-914713265
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-11T00:00:00Z'
+  retrieved_at: '2026-10-22T19:15:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f44c3dd1014fd7f7398dd592855bbc64cce958ac30723c6f6f687fa89f8e9502
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41186a30a24aa1a0e720f91da5ebfc25e3ba1b029a045f82806723ffda2c3815
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:15:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviço Nacional de Saúde
-- Sistema Integrado de Gestão de Inscritos para Cirurgia
 - Preço
 - Prestação de Serviços
-- Tabela de Cuidados de Saúde
+- Serviço Nacional de Saúde
+- Sistema Integrado de Gestão de Inscritos para Cirurgia
 - Sistema Integrado de Gestão do Acesso
+- Tabela de Cuidados de Saúde
 - Tempo Máximo de Resposta Garantido
 relationships:
 - type: cites
@@ -94,16 +94,47 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/44/2025/02/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/44/2025/02/18/p/dre
+- type: cites
+  target: pt:dre:107669157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:907763813:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:portaria:207/2017
+  label: Retifica o artigo 2.º (na parte em que altera a alínea e) do n.º 10 e os n.ºs 19 e seguintes do artigo 4.º do anexo
+    ii da Portaria n.º 207/2017, de 11 de julho) da Portaria n.º 44/2025/1, de 18 de fevereiro, Diário da República n.º 34/2025,
+    Série I
+  source: null
+  date: '2025-02-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:15:50Z'
   warnings: []
   errors: []
 ---
@@ -120,11 +151,11 @@ deve ler-se:
 
 «e) Podem ainda os conselhos de administração autorizar quaisquer outras percentagens que venham a ser propostas pelos diretores de serviço para procedimentos que, pela sua natureza ou número a realizar, sejam consideradas adequadas, desde que não ultrapassem o limite máximo referido na alínea anterior.»
 
-2 - Nos n.<sup>os</sup>19 e seguintes do artigo 4.º do anexo ii - Regulamento das Tabelas de Preços das Instituições e Serviços no âmbito de prestações realizadas em produção adicional para o SNS - da [Portaria n.º 207/2017](https://diariodarepublica.pt/dr/detalhe/portaria/207-2017-107669157), de 11 de julho, na sua redação atual, onde se lê:
+2 - Nos n.os19 e seguintes do artigo 4.º do anexo ii - Regulamento das Tabelas de Preços das Instituições e Serviços no âmbito de prestações realizadas em produção adicional para o SNS - da [Portaria n.º 207/2017](https://diariodarepublica.pt/dr/detalhe/portaria/207-2017-107669157), de 11 de julho, na sua redação atual, onde se lê:
 
 «19 - [...]
 
-20 - Para efeitos de cirurgia oncológica realizada nos institutos portugueses de oncologia (IPO), as percentagens máximas referidas nos n.<sup>os</sup>6, 7, 8, 10, 11 e 13 do presente artigo podem ser majoradas, pelo órgão máximo de gestão da instituição, até 10 %.»
+20 - Para efeitos de cirurgia oncológica realizada nos institutos portugueses de oncologia (IPO), as percentagens máximas referidas nos n.os6, 7, 8, 10, 11 e 13 do presente artigo podem ser majoradas, pelo órgão máximo de gestão da instituição, até 10 %.»
 
 deve ler-se:
 
@@ -132,6 +163,8 @@ deve ler-se:
 
 20 - [...]
 
-21 - Para efeitos de cirurgia oncológica realizada nos institutos portugueses de oncologia (IPO), as percentagens máximas referidas nos n.<sup>os</sup>6, 7, 8, 10, 11 e 13 do presente artigo podem ser majoradas, pelo órgão máximo de gestão da instituição, até 10 %.»
+21 - Para efeitos de cirurgia oncológica realizada nos institutos portugueses de oncologia (IPO), as percentagens máximas referidas nos n.os6, 7, 8, 10, 11 e 13 do presente artigo podem ser majoradas, pelo órgão máximo de gestão da instituição, até 10 %.»
 
 Secretaria-Geral do Governo, 8 de abril de 2025. - A Secretária-Geral Adjunta, Fátima Costa Ferreira.
+
+118926318

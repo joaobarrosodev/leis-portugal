@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/5-a/2026/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-a-2026-1080481233
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:37:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3fa0880b9bf840172140cf3ece3cbb0a97f50dd2ad663d2a73b1f22cf61e139d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2112e3576091c8d5e64b81b24bfc5a06ab92906a0552b79552fcfd495df7fcac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:37:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cobrança de Impostos
-- Juventude
 - Estatuto dos Benefícios Fiscais
 - IRS
 - Isenção Fiscal
+- Juventude
 - Mecenato
 relationships:
+- type: amends
+  target: pt:numero:decreto-regulamentar:3/2024
+  label: Altera, a partir de 1 de abril de 2026, e é aplicável às declarações automáticas de rendimentos relativas aos anos
+    de 2025 e seguintes, o artigo 2.º do Decreto Regulamentar n.º 3/2024, de 21 de fevereiro, Diário da República n.º 37/2024,
+    Série I
+  source: null
+  date: '2024-02-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/2/2025/03/06/p/dre
   label: null
@@ -85,16 +92,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/45-a/2024/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/45-a/2024/12/31/p/dre
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:853269378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901667918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:909816062:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:37:05Z'
   warnings: []
   errors: []
 ---
@@ -155,12 +182,14 @@ O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 27 de março de 2026. - Luís Montenegro - Joaquim Miranda Sarmento.
 
-**Promulgado em 30 de março de 2026.**
+Promulgado em 30 de março de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 31 de março de 2026.**
+Referendado em 31 de março de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119948153

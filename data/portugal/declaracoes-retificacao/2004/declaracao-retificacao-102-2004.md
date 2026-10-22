@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/102/2004/12/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/102-2004-209639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-03T00:00:00Z'
+  retrieved_at: '2026-10-22T19:03:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d2d8edd2680ce86480276beaac6f931e30ba41a0b1876da815b614c04cc1354
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b80d8548af5daf48d4c3981f3373de00fe6b23d2e087d6a8454085ce85a5f25
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:03:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acidente de Trabalho
+- Angola
 - Contribuições da Segurança Social
 - Convenção
-- Portugal
-- Angola
+- Doença Profissional
 - Pensão de Invalidez
 - Pensão de Velhice
-- Doença Profissional
+- Portugal
 - Prestações da Segurança Social
 - Proteção Social
 - Regime Contributivo da Segurança Social
@@ -88,16 +88,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec/32/2004/10/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec/32/2004/10/29/p/dre
+- type: cites
+  target: pt:dre:565252:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:03:05Z'
   warnings: []
   errors: []
 ---

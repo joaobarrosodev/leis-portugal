@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/18/2003/11/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/18-2003-438043
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:02:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2775cb359f0bee6e42804bfd97865ce25316764e137c76cf02d5a9a4f50ff285
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a4f9657aec21bb0adc8e98b0c4caa50514672ba87c03e51c0e5dc7de1d5bbd15
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:02:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Aditivo Alimentar
+- Alimentação Humana
 - Aproximação das Legislações
-- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
 - Bebida não Alcoólica
-- Multa
 - Contra-ordenação
 - Controlo de Qualidade
+- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
 - Etiquetagem
 - Fruto
-- Alimentação Humana
 - Informação do Consumidor
-- Aditivo Alimentar
+- Multa
 relationships:
 - type: amended_by
   target: pt:dre:342077:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:342077:por
+  label: "Alterado, a partir de 01.01.2011, o anexo I do Dec Lei 225/2003, de 24-Set, rectificado pela presente declaração,\
+    \ pelo DEC LEI.101/2010.21.09.2010.MADRP, DR.IS [184] de 21.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/101-2010-342077
+  date: '2010-09-21'
 - type: cites
   target: celex:32001L0112
   label: null
@@ -92,16 +98,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/225/2003/09/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/225/2003/09/24/p/dre
+- type: cites
+  target: pt:dre:494050:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:02:20Z'
   warnings: []
   errors: []
 ---
@@ -148,10 +158,10 @@ deve ler-se:
 
 5 - No anexo III, alínea b), onde se lê:
 
-«b) '[([ver documento original](https://files.diariodarepublica.pt/1s/2003/11/270a00/79247924.pdf))](https://files.diariodarepublica.pt/1s/2003/11/270a00/79247924.pdf)' a denominação '[([ver documento original](https://files.diariodarepublica.pt/1s/2003/11/270a00/79247924.pdf))](https://files.diariodarepublica.pt/1s/2003/11/270a00/79247924.pdf)' só pode ser utilizada juntamente com as denominações 'Fruchtsaft' ou 'Fruchtnektar'.»
+«b) '[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/11/270a00/79247924.pdf)' a denominação '[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/11/270a00/79247924.pdf)' só pode ser utilizada juntamente com as denominações 'Fruchtsaft' ou 'Fruchtnektar'.»
 
 deve ler-se:
 
-«b) '[([ver documento original](https://files.diariodarepublica.pt/1s/2003/11/270a00/79247924.pdf))](https://files.diariodarepublica.pt/1s/2003/11/270a00/79247924.pdf)' - a denominação '[([ver documento original](https://files.diariodarepublica.pt/1s/2003/11/270a00/79247924.pdf))](https://files.diariodarepublica.pt/1s/2003/11/270a00/79247924.pdf)' só pode ser utilizada juntamente com as denominações 'Fruchtsaft' ou 'Fruchtnektar'.»
+«b) '[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/11/270a00/79247924.pdf)' - a denominação '[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/11/270a00/79247924.pdf)' só pode ser utilizada juntamente com as denominações 'Fruchtsaft' ou 'Fruchtnektar'.»
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 14 de Novembro de 2003. - O Secretário-Geral, José M. Sousa Rego.

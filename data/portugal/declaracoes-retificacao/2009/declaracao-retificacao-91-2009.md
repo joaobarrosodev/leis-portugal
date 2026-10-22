@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/91/2009/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/91-2009-482609
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:12:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62d7ba49d5308073c4b665d3fa4187086da184410cd38aba840216b479edb949
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 669e5057bd809f6c64326d67cf584778bbd59d92f6ce2a93210e87a12bd1a77d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:12:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,58 +67,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Subsídio de Alimentação
-- PSP
 - Ajuda Judicial
 - Ajudas de Custo
-- Tempo de Serviço
 - Aposentação
-- Direito de Acesso
-- Formação Profissional
+- Avaliação do Pessoal
+- Carreira Profissional
 - Certificação Profissional
-- Pessoal Dirigente
+- Código Deontológico do Serviço Policial
 - Comissão Liquidatária
 - Comparticipação do Estado
 - Concurso
+- Condições de Higiene e Segurança no Trabalho
 - Criação de Serviços
 - Definição de Competências
+- Descrição de Funções
 - Despesas de Representação
+- Direito de Acesso
 - Diretor Nacional
 - Estatuto
-- Sistema Retributivo
-- Carreira Profissional
 - Extinção de Serviços
+- Faltas
+- Fardamento
 - Férias
+- Formação Profissional
 - Formas de Provimento
 - Fundo de Fardamento
-- Recrutamento de Pessoal
-- Código Deontológico do Serviço Policial
-- Remuneração Acessória
 - Habitação por Conta do Estado
+- Horário de Trabalho
+- Identificação Civil
+- Incapacidade Física
 - Incompatibilidades
 - Junta Médica
-- Faltas
 - Licença sem Vencimento
 - Livre Trânsito
-- Descrição de Funções
+- Pessoal Dirigente
 - Pré-aposentação
 - Prémio de Desempenho
 - Prestação de Serviços
-- Incapacidade Física
 - Progressão na Carreira
-- Quadro de Pessoal
 - Proteção Social
+- PSP
+- Quadro de Pessoal
+- Recrutamento de Pessoal
 - Regime de Pessoal
-- Condições de Higiene e Segurança no Trabalho
-- Horário de Trabalho
 - Remuneração
+- Remuneração Acessória
 - Segredo de Justiça
 - Segredo Profissional
-- Avaliação do Pessoal
-- Identificação Civil
+- Sistema Retributivo
+- Subsídio de Alimentação
 - Subsídio de Deslocação
+- Tempo de Serviço
 - Transporte
-- Fardamento
 - Uso e porte de arma
 relationships:
 - type: cites
@@ -129,16 +129,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/299/2009/10/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/299/2009/10/14/p/dre
+- type: cites
+  target: pt:dre:491437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:12:19Z'
   warnings: []
   errors: []
 ---

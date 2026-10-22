@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/42967-1960-505423
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-05-11T00:00:00Z'
+  retrieved_at: '2026-10-22T19:18:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c31b66fe5b4a8116f4b79ef033beaec6a173e09d9551506d86710d3172a015a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b32394f3d234b9415c4548d0895da7acf6216d5ddb9a6f866f44a772f4735d57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:18:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,30 @@ relationships:
   target: pt:dre:472938:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:281604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680793:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:472938:por
+  label: "Revogadas, no âmbito das atribuições da Circunscrição Florestal do Funchal, as disposições contidas nos arts. 7º\
+    \ a 19º do presente diploma, pelo DEC LEI.47004.11.05.1966.MECO, DG.IS [111] de 11.05.1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47004-1966-472938
+  date: '1966-05-11'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:18:01Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +104,15 @@ Com fundamento no disposto no artigo 17.º do [Decreto-Lei n.º 42935](https://d
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Nas ilhas adjacentes, o corte de arvoredo, a transformação de incultos ou de culturas florestais em culturas agrícolas, o pastoreio, o fabrico de carvão e outros casos afins, bem como as respectivas transgressões, regular-se-ão pelas disposições anexas ao presente decreto, que baixam assinadas pelo Secretário de Estado da Agricultura.
+Artigo único. Nas ilhas adjacentes, o corte de arvoredo, a transformação de incultos ou de culturas florestais em culturas agrícolas, o pastoreio, o fabrico de carvão e outros casos afins, bem como as respectivas transgressões, regular-se-ão pelas disposições anexas ao presente decreto, que baixam assinadas pelo Secretário de Estado da Agricultura.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Maio de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Luís Quartin Graça.
 
 Disposições reguladoras da actuação dos serviços florestais nas ilhas adjacentes
 
-###### Artigo 1.º Dependem de licença da respectiva circunscrição florestal:
+Artigo 1.º Dependem de licença da respectiva circunscrição florestal:
 
 1) Os cortes, arranques ou transplantações de árvores florestais ou de plantas vivazes de qualquer natureza que apresentem notável interesse botânico ou paisagístico.
 
@@ -110,7 +124,7 @@ Disposições reguladoras da actuação dos serviços florestais nas ilhas adjac
 
 5) A extracção de leivas dos incultos, com destino à preparação das camas quentes para a cultura de ananases em estufas.
 
-###### Art. 2.º Os cortes, arranques ou transplantações a que se refere a alínea 1) do artigo 1.º só serão permitidos nos casos a seguir indicados e desde que não digam respeito a exemplares de especial valor estético ou de importância manifesta na composição da paisagem, quer pertençam a particulares, quer aos corpos administrativos:
+Art. 2.º Os cortes, arranques ou transplantações a que se refere a alínea 1) do artigo 1.º só serão permitidos nos casos a seguir indicados e desde que não digam respeito a exemplares de especial valor estético ou de importância manifesta na composição da paisagem, quer pertençam a particulares, quer aos corpos administrativos:
 
 a) Em desbastes, para tratamento ou melhoramento dos povoamentos existentes, de forma a eliminar os espécimes doentes ou que estejam prejudicando as boas condições de vegetação;
 
@@ -126,51 +140,51 @@ e) Em cortes de qualquer natureza para substituição da espécie florestal, ou 
 
 § 2.º São dispensadas de marcação prévia as árvores ou arbustos a abater em desbastes culturais ou em cortes jardinatórios quando possuam diâmetro inferior a 10 cm à altura de 1,30 m acima do solo.
 
-###### Art. 3.º Nos casos em que sejam de permitir cortes rasos e nos cortes salteados ou em talhadio, o proprietário fica obrigado a realizar as transformações de cultura ou a assegurar a reconstituição dos povoamentos, nos termas da licença concedida pela circunscrição florestal, devendo para isso efectuar, no prazo que seja indicado, os trabalhos que lhe forem impostos.
+Art. 3.º Nos casos em que sejam de permitir cortes rasos e nos cortes salteados ou em talhadio, o proprietário fica obrigado a realizar as transformações de cultura ou a assegurar a reconstituição dos povoamentos, nos termas da licença concedida pela circunscrição florestal, devendo para isso efectuar, no prazo que seja indicado, os trabalhos que lhe forem impostos.
 
-###### Art. 4.º A transformação dos terrenos incultos ou dos de cultura florestal em terrenos de cultura agrícola ou de pastagem e só será permitida desde que se reconheça, por vistoria prévia, que daí não resulta qualquer inconveniente para a conservação do solo.
+Art. 4.º A transformação dos terrenos incultos ou dos de cultura florestal em terrenos de cultura agrícola ou de pastagem e só será permitida desde que se reconheça, por vistoria prévia, que daí não resulta qualquer inconveniente para a conservação do solo.
 
-###### Art. 5.º A licença para extracção de leivas dos incultos, a que se refere a alínea 5) do artigo 1.º, será requerida, pelo proprietário desses incultos.
+Art. 5.º A licença para extracção de leivas dos incultos, a que se refere a alínea 5) do artigo 1.º, será requerida, pelo proprietário desses incultos.
 
 § único. A obrigatoriedade da licença manter-se-á enquanto não for devidamente regulamentada aquela extracção.
 
-###### Art. 6.º É proibido inutilizar ou danificar, de qualquer modo, as árvores ou arbustos florestais, por forma a causar o seu perecimento, a sua evidente depreciação ou a sua exploração extemporânea.
+Art. 6.º É proibido inutilizar ou danificar, de qualquer modo, as árvores ou arbustos florestais, por forma a causar o seu perecimento, a sua evidente depreciação ou a sua exploração extemporânea.
 
-###### Art. 7.º Nos distritos autónomos das ilhas adjacentes é proibida a livre apascentação de gado caprino ou suíno em terrenos baldios ou em propriedades particulares que não se encontrem eficientemente vedados.
+Art. 7.º Nos distritos autónomos das ilhas adjacentes é proibida a livre apascentação de gado caprino ou suíno em terrenos baldios ou em propriedades particulares que não se encontrem eficientemente vedados.
 
-###### Art. 8.º Nas propriedades florestais onde se declarem incêndios a respectiva circunscrição florestal deverá indicar qual o método a adoptar para tratamento e regeneração do arvoredo, podendo proibir a realização de qualquer corte num período até cinco anos.
+Art. 8.º Nas propriedades florestais onde se declarem incêndios a respectiva circunscrição florestal deverá indicar qual o método a adoptar para tratamento e regeneração do arvoredo, podendo proibir a realização de qualquer corte num período até cinco anos.
 
-###### Art. 9.º Serão punidos com multa de 5$00 a 50$00 por cada rebento de toiça, ramificação de arbusto ou árvore com menos de 10 cm de diâmetro a 1,30 m do solo os proprietários dos terrenos onde, em desobediência às presentes prescrições, forem realizados cortes ou quaisquer práticas que conduzam à morte ou depreciação do arvoredo.
+Art. 9.º Serão punidos com multa de 5$00 a 50$00 por cada rebento de toiça, ramificação de arbusto ou árvore com menos de 10 cm de diâmetro a 1,30 m do solo os proprietários dos terrenos onde, em desobediência às presentes prescrições, forem realizados cortes ou quaisquer práticas que conduzam à morte ou depreciação do arvoredo.
 
 § único. Quando tal se não possa constatar por observação directa, presumem-se como tendo menos de 10 cm de diâmetro a 1,30 m do solo as árvores, arbustos e rebentos de toiça cujo diâmetro na base seja inferior a 15 cm.
 
-###### Art. 10.º No caso de árvores de maiores dimensões, a multa será fixada entre 50$00 e 5000$00 por cada árvore cortada, arrancada, destruída ou danificada, sendo as multas aplicadas em função do tamanho, espécie e valor da árvore afectada.
+Art. 10.º No caso de árvores de maiores dimensões, a multa será fixada entre 50$00 e 5000$00 por cada árvore cortada, arrancada, destruída ou danificada, sendo as multas aplicadas em função do tamanho, espécie e valor da árvore afectada.
 
 § 1.º Tratando-se de exemplares raros, seja qual for o seu diâmetro, será sempre aplicável o máximo da multa.
 
 § 2.º Para efeitos da aplicação deste artigo e do seguinte consideram-se como raros não só os exemplares que o sejam pela espécie botânica a que pertençam, mas também todos aqueles que se notabilizem pelo porte, pela beleza, pela forma ou, enfim, por qualquer atributo que os distinga da vulgaridade.
 
-###### Art. 11.º Quando se trate de matas de recreio, parques ou jardins, embora de domínio privado, as multas serão de 500$00 a 10000$00 por cada árvore, arbusto ou planta que, independentemente do seu diâmetro, for arrancada ou abatida sem licença ou danificada pela forma referida no artigo 6.º, correspondendo sempre o máximo da multa no caso de exemplares raros.
+Art. 11.º Quando se trate de matas de recreio, parques ou jardins, embora de domínio privado, as multas serão de 500$00 a 10000$00 por cada árvore, arbusto ou planta que, independentemente do seu diâmetro, for arrancada ou abatida sem licença ou danificada pela forma referida no artigo 6.º, correspondendo sempre o máximo da multa no caso de exemplares raros.
 
-###### Art. 12.º No caso de transgressão ao disposto nos artigos 3.º e 4.º, os proprietários dos prédios serão punidos com a multa de 5$00 a 20$00 por are ou fracção em que a transgressão se tenha verificado, ficando ainda obrigados a suspender imediatamente o trabalho e a cumprir as condições impostas pela circunscrição florestal para assegurar o revestimento florestal ou a conservação do solo.
+Art. 12.º No caso de transgressão ao disposto nos artigos 3.º e 4.º, os proprietários dos prédios serão punidos com a multa de 5$00 a 20$00 por are ou fracção em que a transgressão se tenha verificado, ficando ainda obrigados a suspender imediatamente o trabalho e a cumprir as condições impostas pela circunscrição florestal para assegurar o revestimento florestal ou a conservação do solo.
 
 § 1.º Quando, passados dois anos, a contar da notificação das condições estabelecidas nos termos deste artigo, ou das licenças previstas nos artigos 3.º 4.º do presente diploma, não estiverem cumpridas as condições impostas pela circunscrição, os proprietários respectivos serão punidos com a multa de 10$00 por are ou fracção, a qual se renovará anualmente até que sejam cumpridas as ditas condições.
 
 § 2.º As mesmas sanções serão aplicadas no caso de infracção ao disposto na alínea 3) do artigo 1.º
 
-###### Art. 13.º A inobservância do determinado pela circunscrição florestal no caso do artigo 8.º e, de um modo geral, o não cumprimento das regras constantes de quaisquer licenças concedidas serão punidos com as multas previstas nos artigos 9.º, 10.º e 11.º ou no artigo 12.º e seus parágrafos, conforme for caso disso.
+Art. 13.º A inobservância do determinado pela circunscrição florestal no caso do artigo 8.º e, de um modo geral, o não cumprimento das regras constantes de quaisquer licenças concedidas serão punidos com as multas previstas nos artigos 9.º, 10.º e 11.º ou no artigo 12.º e seus parágrafos, conforme for caso disso.
 
-###### Art. 14.º Se o proprietário, por estar ausente ou por ter o prédio arrendado, em regime de colónia ou sistema equivalente, for alheio à respectiva exploração, será a multa imposta a quem efectivamente explorar ou administrar a propriedade.
+Art. 14.º Se o proprietário, por estar ausente ou por ter o prédio arrendado, em regime de colónia ou sistema equivalente, for alheio à respectiva exploração, será a multa imposta a quem efectivamente explorar ou administrar a propriedade.
 
-###### Art. 15.º A contravenção do disposto na alínea 4) do artigo 1.º será punida com a apreensão do carvão e multa de 50$00 a 100$00.
+Art. 15.º A contravenção do disposto na alínea 4) do artigo 1.º será punida com a apreensão do carvão e multa de 50$00 a 100$00.
 
 § único. O carvão apreendido será vendido em hasta pública, e o produto da venda, deduzidas todas as despesas, dará entrada nos Cofres do Estado.
 
-###### Art. 16.º Para garantia do pagamento das multas e mais importâncias que forem devidas podem ser apreendidos, onde quer que sejam encontrados, a madeira, lenha, carvão ou outros produtos provenientes de cortes ou práticas em transgressão da legislação vigente nos distritos autónomos das ilhas adjacentes.
+Art. 16.º Para garantia do pagamento das multas e mais importâncias que forem devidas podem ser apreendidos, onde quer que sejam encontrados, a madeira, lenha, carvão ou outros produtos provenientes de cortes ou práticas em transgressão da legislação vigente nos distritos autónomos das ilhas adjacentes.
 
 § único. Presumem-se provenientes de cortes ou práticas em transgressão os produtos que não sejam acompanhados de documento comprovativo de terem sido obtidos em conformidade com a lei, passado pela circunscrição florestal respectiva.
 
-###### Art. 17.º Quando não for possível verificar no próprio local da transgressão quais as árvores ou arbustos de que provieram os produtos apreendidos nos termos deste diploma, serão impostas aos detentores desses produtos as multas seguintes:
+Art. 17.º Quando não for possível verificar no próprio local da transgressão quais as árvores ou arbustos de que provieram os produtos apreendidos nos termos deste diploma, serão impostas aos detentores desses produtos as multas seguintes:
 
 a) 1000$00 por cada metro cúbico de madeira;
 
@@ -178,19 +192,19 @@ b) 200$00 por cada tonelada de lenha ou fracção;
 
 c) 2$00 por cada quilograma de carvão ou fracção.
 
-###### Art. 18.º Quando as transgressões previstas neste diploma e, bem assim, a remoção de quaisquer produtos delas provenientes ocorrerem de noite as multas serão aplicadas em dobro.
+Art. 18.º Quando as transgressões previstas neste diploma e, bem assim, a remoção de quaisquer produtos delas provenientes ocorrerem de noite as multas serão aplicadas em dobro.
 
 § único. Os produtos apreendidos serão restituídos no caso de pagamento voluntário das multas e mais importâncias devidas ou no de absolvição. Havendo condenação, os serviços florestais promoverão a venda com a possível publicidade, e a importância obtida, deduzidas as respectivas despesas, dará entrada em receita do Estado.
 
-###### Art. 19.º À infracção do preceituado no artigo 7.º corresponde, pela primeira vez, a multa de 10$00 por cabeça de gado encontrada em transgressão, e nas vezes seguintes o dobro dessa multa.
+Art. 19.º À infracção do preceituado no artigo 7.º corresponde, pela primeira vez, a multa de 10$00 por cabeça de gado encontrada em transgressão, e nas vezes seguintes o dobro dessa multa.
 
 § único. Aplica-se ao caso deste artigo o disposto nos artigos 16.º e 19.º do Regulamento do Serviço de Polícia Florestal, aprovado pelo [Decreto-Lei n.º 39931](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39931-1954-680793), de 24 de Novembro de 1954.
 
-###### Art. 20.º Aos transgressores do disposto na alínea 5) do artigo 1.º, quando sejam proprietários do terreno, será aplicada a multa prevista no artigo 12.º deste diploma, e quando o não sejam e procedam sem ordem ou conhecimento daqueles ser-lhes-ão impostas as penas de furto com apreensão da leiva.
+Art. 20.º Aos transgressores do disposto na alínea 5) do artigo 1.º, quando sejam proprietários do terreno, será aplicada a multa prevista no artigo 12.º deste diploma, e quando o não sejam e procedam sem ordem ou conhecimento daqueles ser-lhes-ão impostas as penas de furto com apreensão da leiva.
 
-###### Art. 21.º Constituem receita do Estado todas as multas previstas no presente diploma, as quais darão entrada no cofres do Estado como receita a classificar na rubrica «Serviços florestais e aquícolas» do capítulo «Domínio privado, empresas e indústrias do Estado».
+Art. 21.º Constituem receita do Estado todas as multas previstas no presente diploma, as quais darão entrada no cofres do Estado como receita a classificar na rubrica «Serviços florestais e aquícolas» do capítulo «Domínio privado, empresas e indústrias do Estado».
 
-###### Art. 22.º Quando os cortes em transgressão ao disposto neste diploma tenham sido feitos sem conhecimento ou ordem do proprietário ou de quem assuma a responsabilidade da exploração da propriedade, serão os seus autores punidos segundo a lei geral.
+Art. 22.º Quando os cortes em transgressão ao disposto neste diploma tenham sido feitos sem conhecimento ou ordem do proprietário ou de quem assuma a responsabilidade da exploração da propriedade, serão os seus autores punidos segundo a lei geral.
 
 § único. O produto do corte será apreendido e vendido em hasta pública, depositando-se a receita à ordem do tribunal competente, que lhe dará o devido destino.
 

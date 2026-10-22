@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/86/2026/04/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2026-1085738182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T18:38:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94acb1947ba8ceee3ec140409d0a7b466289200596bc2b64dc5a1d8a2f692476
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a507779c268b0de1f97d9666b586273658189560b5d88a6fa9e435ec9777652a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:38:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
 - Incêndio
-- Prevenção de Incêndios
 - Plano Municipal de Defesa da Floresta contra Incêndios
 - Política do Ambiente
-- Prazo
 - Política Florestal
-- Autarquia Local
+- Prazo
+- Prevenção de Incêndios
 - Sistema de Gestão Integrada de Fogos Rurais
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:82/2021
+  label: Altera, com efeitos a 1 de janeiro de 2026, o artigo 79.º do Decreto-Lei n.º 82/2021, de 13 de outubro, Diário da
+    República n.º 199/2021, Série I
+  source: null
+  date: '2021-10-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/119-a/2021/12/22/p/dre
   label: null
@@ -95,16 +101,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/82/2021/10/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/82/2021/10/13/p/dre
+- type: cites
+  target: pt:dre:172745163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176412619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186307878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215647907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:906913017:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:38:04Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +159,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto-lei procede à quinta alteração ao [Decreto-Lei n.º 82/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), de 13 de outubro, alterado pelos Decretos-Leis n.<sup>os</sup>[119-A/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-a-2021-176412619), de 22 de dezembro, [49/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2022-186307878), de 19 de julho, [56/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2023-215647907), de 14 de julho, e [6/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2025-906913017), de 11 de fevereiro, que estabelece o Sistema de Gestão Integrada de Fogos Rurais no território continental e define as suas regras de funcionamento.
+O presente decreto-lei procede à quinta alteração ao [Decreto-Lei n.º 82/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), de 13 de outubro, alterado pelos Decretos-Leis n.os[119-A/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-a-2021-176412619), de 22 de dezembro, [49/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2022-186307878), de 19 de julho, [56/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2023-215647907), de 14 de julho, e [6/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2025-906913017), de 11 de fevereiro, que estabelece o Sistema de Gestão Integrada de Fogos Rurais no território continental e define as suas regras de funcionamento.
 
 ###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 82/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), de 13 de outubro
 
@@ -171,12 +197,14 @@ O presente decreto-lei produz efeitos a 1 de janeiro de 2026.
 
 Visto e aprovado em Conselho de Ministros de 26 de fevereiro de 2026. - Luís Montenegro - Manuel Castro Almeida - José Manuel Fernandes.
 
-**Promulgado em 2 de abril de 2026.**
+Promulgado em 2 de abril de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 3 de abril de 2026.**
+Referendado em 3 de abril de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119948205

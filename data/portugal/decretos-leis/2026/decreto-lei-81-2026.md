@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/81/2026/04/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2026-1081202643
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-06T00:00:00Z'
+  retrieved_at: '2026-10-22T18:37:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9c6badf167465dce52392506e80705be676e65047fd1531815115e126303017
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ba15962edecdcc655ee0c6b33da6f48ef995d12b602947ecf72ed6800ae75b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:37:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
-- Reestruturação de Serviços
-- Direcção Geral da Segurança Social
 - Consultor
 - Criação de Serviços
+- Direção Geral de Coordenação e Planeamento
+- Direção-Geral da Solidariedade e Segurança Social
+- Direcção Geral da Segurança Social
+- Instituto da Segurança Social
+- Plano de Recuperação e Resiliência
+- Reestruturação de Serviços
 - Segurança Social
 - Transferência de Competências
 - Transferência de Pessoal
-- Plano de Recuperação e Resiliência
-- Direção Geral de Coordenação e Planeamento
-- Direção-Geral da Solidariedade e Segurança Social
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/200/2006/10/25/p/dre
@@ -97,16 +97,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/25/2017/05/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/25/2017/05/30/p/dre
+- type: cites
+  target: pt:dre:107094720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-regulamentar:36/2012
+  label: Revoga, a partir de 1 de maio de 2026, o Decreto Regulamentar n.º 36/2012, de 27 de março, Diário da República n.º
+    62/2012, Série I, e determina que a Direção-Geral da Solidariedade e Segurança Social (DGSSS) sucede à Direção-Geral da
+    Segurança Social (DGSS) e que todas as referências feitas à DGSS consideram-se feitas à DGSSS
+  source: null
+  date: '2012-03-27'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:37:24Z'
   warnings: []
   errors: []
 ---
@@ -329,15 +356,15 @@ O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua
 
 Visto e aprovado em Conselho de Ministros de 12 de fevereiro de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro - Rosário Palma Ramalho.
 
-**Promulgado em 26 de março de 2026.**
+Promulgado em 26 de março de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 27 de março de 2026.**
+Referendado em 27 de março de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 9.º)
 
@@ -346,3 +373,7 @@ Visto e aprovado em Conselho de Ministros de 12 de fevereiro de 2026. - Luís Mo
 | Diretor-geral | Direção superior | 1.º | 1 |
 | Subdiretor-geral | Direção superior | 2.º | 2 |
 | Diretor de serviços | Direção intermédia | 1.º | 6 |
+
+119948154
+
+.Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:17px; }

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 75/2002, 1º Suplemento, Série I-A de 2002-03-30
   number: '75'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2938-(2) a 2938-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/075a01/00020002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/15-a/2002/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-a-2002-586864
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:59:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0e7538344c28721dcb7a336738ae7ab4c65622260ea187e0136ef2169e0ab12
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57ffd6ad733fa2e2b5df515a885fa98b9163a248a041be349a4abfdaac5e57ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:59:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Financiamento
 - Governo Regional
-- Realojamento
 - Habitação Social
-- Açores
+- Realojamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/14/1995/08/22/a/dre
@@ -80,16 +80,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/5/2002/03/08/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/5/2002/03/08/a/dre
+- type: cites
+  target: pt:dre:249997:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:59:48Z'
   warnings: []
   errors: []
 ---

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/25/2011/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/25-2011-671474
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-12T00:00:00Z'
+  retrieved_at: '2026-10-22T19:13:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f365881a4120d51463119b216fcb1a5f2e0d8ce7ab0a6c2b0c44646a88ecffd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45e98863ff09ab5657cc6e7d2f08173dfcb168645c1918bb62f6be6f15c3322e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:13:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,132 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/70/2011/06/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/70/2011/06/16/p/dre
+- type: cites
+  target: pt:dre:158609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:465449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476344:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670001:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:13:18Z'
   warnings: []
   errors: []
 ---

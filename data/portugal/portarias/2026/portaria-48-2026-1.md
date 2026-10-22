@@ -97,6 +97,12 @@ relationships:
   source: null
 - type: amended_by
   target: pt:dre:1153698652:por
+  label: Alterado, a partir de 01 de agosto de 2026 e com efeitos a 30 de janeiro de 2026, o artigo 6.º da presente portaria,
+    pelo(a) Portaria n.º 320-C/2026/1 - Diário da República n.º 147/2026, Suplemento, Série I de 2026-07-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/320-c-2026-1153698652
+  date: '2026-07-30'
+- type: amended_by
+  target: pt:dre:1153698652:por
   label: Altera Artigo 6.º
   source: https://diariodarepublica.pt/dr/detalhe/portaria/320-c-2026-1153698652
   date: '2026-07-31'
@@ -140,6 +146,22 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: cites
+  target: pt:dre:206478423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207760041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70423678:por
+  label: null
+  source: null
 article_structure:
   article_count: 24
   section_count: 6

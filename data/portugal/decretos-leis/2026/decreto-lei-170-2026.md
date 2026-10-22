@@ -47,26 +47,45 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/170/2026/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2026-1160679204
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-21T00:00:00Z'
+  retrieved_at: '2026-10-22T18:51:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1188ac4f3d7b8ecaa1bdec2cec67233f8a961af6c6b9b823c15434276769111f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 58d26023ed44fef92a511c2176a9ca2cd6c141eb8ae9b7469daa93ee0c2c07e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:51:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agência para a Investigação e Inovação
+- Apoio ao Investimento
+- Código Fiscal do Investimento
+- Empresa
+- Fundo de Investimento
+- Investigação
+- Investigação Científica e Tecnológica
+- Investimento
+- Política Fiscal
+- Projeto de Investimento
+- Regulamentação de Atos Legislativos
+- Tributação
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:162/2014
+  label: Altera, a partir de 22 de agosto de 2026, os artigos 35.º, 37.º, 37.º-A, 38.º e 40.º e revoga os n.ºs 3, 9 e 11 do
+    artigo 37.º, os n.ºs 7 e 8 do artigo 38.º e os n.ºs 12 e 13 do artigo 40.º do Código Fiscal do Investimento, aprovado
+    em anexo ao Decreto-Lei n.º 162/2014, de 31 de outubro, Diário da República n.º 211/2014, Série I
+  source: null
+  date: '2014-10-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/2025/12/24/p/dre
   label: null
@@ -103,16 +122,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/103-a/2023/04/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/103-a/2023/04/12/p/dre
+- type: cites
+  target: pt:dre:1086140529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122317422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211717115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213498830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58683382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:840060195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:992627244:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:51:28Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +214,9 @@ Os artigos 35.º, 37.º, 37.º-A, 38.º e 40.º do CFI passam a ter a seguinte r
 
 O SIFIDE II, a vigorar nos períodos de tributação de 2014 a 2026, processa-se nos termos dos artigos seguintes.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - [...]
 
@@ -203,7 +260,9 @@ j) [...]
 
 11 - [Revogado.]
 
-###### Artigo 37.º-A — [...]
+Artigo 37.º-A
+
+[...]
 
 1 - Cabe à Agência para a Investigação e Inovação, E. P. E., o reconhecimento da idoneidade da entidade em matéria de investigação e desenvolvimento a que se refere a alínea e) do n.º 1 do artigo 37.º
 
@@ -227,7 +286,9 @@ j) [...]
 
 11 - O reconhecimento da idoneidade da entidade em matéria de investigação e desenvolvimento previsto no presente artigo é regulado por portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - Os sujeitos passivos de IRC residentes em território português que exerçam, a título principal, uma atividade de natureza agrícola, industrial, comercial e de serviços e os não residentes com estabelecimento estável nesse território podem deduzir ao montante da coleta do IRC apurado nos termos da alínea a) do n.º 1 do artigo 90.º do Código do IRC, e até à sua concorrência, o valor correspondente às despesas com investigação e desenvolvimento, na parte que não tenha sido objeto de comparticipação financeira do Estado a fundo perdido, realizadas nos períodos de tributação com início entre 1 de janeiro de 2014 e 31 de dezembro de 2026, numa dupla percentagem:
 
@@ -261,7 +322,9 @@ b) Quando seja aplicável o regime especial de tributação dos grupos de socied
 
 12 - A ausência da comunicação referida no número anterior determina a impossibilidade de dedução dos montantes aplicados nos termos da alínea f) do n.º 1 do artigo 37.º
 
-###### Artigo 40.º — Obrigações acessórias
+Artigo 40.º
+
+Obrigações acessórias
 
 1 - A dedução a que se refere o artigo 38.º deve ser justificada por declaração comprovativa, a requerer pelas entidades interessadas, ou prova da apresentação do pedido de emissão dessa declaração, de que as atividades exercidas ou a exercer correspondem efetivamente a ações de investigação ou desenvolvimento, dos respetivos montantes envolvidos, do cálculo do acréscimo das despesas em relação à média dos dois exercícios anteriores e de outros elementos considerados pertinentes, emitida pela Agência para a Investigação e Inovação, E. P. E., no âmbito do sistema de incentivos fiscais em investigação e desenvolvimento empresarial, a integrar no processo de documentação fiscal do sujeito passivo a que se refere o artigo 130.º do Código do IRC.
 
@@ -363,13 +426,13 @@ c) Para cada Empresa Investida, o valor global dos investimentos em capital pró
 
 ###### Artigo 5.º — Disposições transitórias
 
-1 - Sem prejuízo do previsto nos artigos 3.º e 4.º e no número seguinte, a todas as situações relativas a contribuições realizadas nos períodos de tributação com início até 31 de dezembro 2025 para fundos, públicos ou privados, que realizem investimentos de capital próprio e de quase-capital, tal como definidos na Comunicação da Comissão 2014/C19/04, de 22 de janeiro de 2014, incluindo o financiamento da valorização dos seus resultados, continua a aplicar-se, designadamente, o disposto nos n.<sup>os</sup>7 e 8, na alínea b) do n.º 11 e no n.º 12 do artigo 38.º e nos n.<sup>os</sup>1, 12 e 13 do artigo 40.º do CFI, na redação anterior à conferida pelo presente decreto-lei.
+1 - Sem prejuízo do previsto nos artigos 3.º e 4.º e no número seguinte, a todas as situações relativas a contribuições realizadas nos períodos de tributação com início até 31 de dezembro 2025 para fundos, públicos ou privados, que realizem investimentos de capital próprio e de quase-capital, tal como definidos na Comunicação da Comissão 2014/C19/04, de 22 de janeiro de 2014, incluindo o financiamento da valorização dos seus resultados, continua a aplicar-se, designadamente, o disposto nos n.os7 e 8, na alínea b) do n.º 11 e no n.º 12 do artigo 38.º e nos n.os1, 12 e 13 do artigo 40.º do CFI, na redação anterior à conferida pelo presente decreto-lei.
 
 2 - Para efeitos do número anterior, relativamente às contribuições realizadas entre 1 de janeiro de 2021 e 31 de dezembro de 2023 para fundos, públicos ou privados, que realizem investimentos de capital próprio e de quase-capital, tal como definidos na Comunicação da Comissão 2014/C19/04, de 22 de janeiro de 2014, incluindo o financiamento da valorização dos respetivos resultados, continua a aplicar-se a percentagem mínima de investimento em empresas dedicadas sobretudo a investigação e desenvolvimento prevista na alínea b) do n.º 7 do artigo 38.º, na redação anterior à conferida pela [Lei n.º 21/2023](https://diariodarepublica.pt/dr/detalhe/lei/21-2023-213498830), de 25 de maio, nos prazos legalmente previstos para esse período.
 
 ###### Artigo 6.º — Norma revogatória
 
-São revogados os n.<sup>os</sup>3, 9 e 11 do artigo 37.º, os n.<sup>os</sup>7 e 8 do artigo 38.º e os n.<sup>os</sup>12 e 13 do artigo 40.º do CFI.
+São revogados os n.os3, 9 e 11 do artigo 37.º, os n.os7 e 8 do artigo 38.º e os n.os12 e 13 do artigo 40.º do CFI.
 
 ###### Artigo 7.º — Entrada em vigor e produção de efeitos
 
@@ -381,12 +444,14 @@ São revogados os n.<sup>os</sup>3, 9 e 11 do artigo 37.º, os n.<sup>os</sup>7 
 
 Visto e aprovado em Conselho de Ministros de 17 de julho de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Manuel Castro Almeida.
 
-**Promulgado em 18 de agosto de 2026.**
+Promulgado em 18 de agosto de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 19 de agosto de 2026.**
+Referendado em 19 de agosto de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119949456

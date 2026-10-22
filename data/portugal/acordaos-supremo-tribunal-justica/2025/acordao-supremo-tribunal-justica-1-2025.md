@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/00500/0000400030.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/1/2025/01/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/1-2025-902264455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-08T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9aaada7542bde54b9d95f68faec702009562dc72f6ca76b7a61d698cdf28ead7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1b6da7ed8aee65f4182cfe45eb28eae358afb03c5c6a1748d4b401c072875b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,29 +68,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
 - Caixa Geral de Depósitos
+- Cobrança de Dívidas
+- Crédito Bancário
+- Empresa
 - Interpretação do Direito
 - Jurisprudencia
 - Letras e Livranças
-- Crédito Bancário
-- Cobrança de Dívidas
 - Processo de Execução
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/acstj/4/2013/01/21/p/dre
   label: null
   source: http://data.dre.pt/eli/acstj/4/2013/01/21/p/dre
+- type: cites
+  target: pt:dre:228268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257057:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:17Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +117,7 @@ I - Relatório
 
 A Caixa Geral de Depósitos, S.A. instaurou execução para pagamento de quantia certa, com processo ordinário, contra AA, BB e CC, fundando-se para tanto numa livrança avalizada pelos executados, no valor de € 56.758,77, com data de vencimento de 28/05/2021.
 
-Alegou que aquela livrança, que lhe foi entregue “subscrita em branco”, foi por si preenchida, quanto a tal valor e data, em «cumprimento» da «convenção de preenchimento» anteriormente celebrada e respeitante à utilização de um cartão de crédito, emitido a favor da Euronetworks, Soluções de Informática Gerais e Personalizadas, L.<sup>da</sup>, sendo que nos termos daquela «convenção», em caso de incumprimento, a CGD estava autorizada a preencher a livrança «pelo valor correspondente ao total das responsabilidades decorrentes da utilização do cartão, nomeadamente capital, juros remuneratórios e moratórios, comissões, despesas e quaisquer encargos», conforme procedeu no caso.
+Alegou que aquela livrança, que lhe foi entregue “subscrita em branco”, foi por si preenchida, quanto a tal valor e data, em «cumprimento» da «convenção de preenchimento» anteriormente celebrada e respeitante à utilização de um cartão de crédito, emitido a favor da Euronetworks, Soluções de Informática Gerais e Personalizadas, L.da, sendo que nos termos daquela «convenção», em caso de incumprimento, a CGD estava autorizada a preencher a livrança «pelo valor correspondente ao total das responsabilidades decorrentes da utilização do cartão, nomeadamente capital, juros remuneratórios e moratórios, comissões, despesas e quaisquer encargos», conforme procedeu no caso.
 
 O executado AA, citado, deduziu os presentes embargos.
 
@@ -291,7 +299,7 @@ As Instâncias deram como provados os seguintes factos:
 
 1 - No dia 21 de outubro de 2021, foi apresentada à execução ordinária n.º 4839/21.5..., de que os presentes embargos são apenso, uma livrança, que aqui se dá por integralmente reproduzida (dela constando como data de emissão o dia 07/09/2007, como data de vencimento o dia 28/05/2021 e a importância de € 56.758,77).
 
-2 - Na livrança consta como subscritora a sociedade E..., L.<sup>da</sup>, e a assinatura dos seus legais representantes à data da sua emissão;
+2 - Na livrança consta como subscritora a sociedade E..., L.da, e a assinatura dos seus legais representantes à data da sua emissão;
 
 3 - No verso consta, precedida da expressão “Bom para aval ao subscritor”, a assinatura do Executado/Embargante aposta pelo seu próprio punho;
 
@@ -303,7 +311,7 @@ As Instâncias deram como provados os seguintes factos:
 
 7 - Esse documento encontra-se dirigido à Exequente e tem como “Assunto: Cartão Caixa Works; Entrega de Livrança em Branco”;
 
-8 - No seu texto consta: “Ex.<sup>mos</sup> Senhores,
+8 - No seu texto consta: “Ex.mos Senhores,
 
 Tal como solicitado, em complemento do contrato de atribuição e utilização do cartão em título, vimos pela presente carta proposta entregar à Caixa Geral de Depósitos, S. A. (CGD), uma livrança com montante e vencimento em branco, devidamente datada, por nós subscrita e avalizada pelo(a)(s) avalista(s) abaixo assinado(a)(s)”, destinada a titular e assegurar o pagamento de todas as responsabilidades decorrentes da utilização do referido cartão e de acordo com as respectivas Condições Gerais de Utilização.
 
@@ -319,13 +327,13 @@ A livrança não constitui novação do crédito, pelo que se mantêm as respect
 
 EM ANEXO: LIVRANÇA EM BRANCO»;
 
-9 - O documento encontra-se datado de 18 de setembro de 2007 e a assinatura dos subscritores está reconhecida presencialmente por advogado como sendo as dos legais representantes da sociedade E..., L.<sup>da</sup>;
+9 - O documento encontra-se datado de 18 de setembro de 2007 e a assinatura dos subscritores está reconhecida presencialmente por advogado como sendo as dos legais representantes da sociedade E..., L.da;
 
 10 - O Executado/Embargante assinou, pois, o documento na parte dos subscritores, em nome da sociedade, e na parte dos avalistas em nome próprio;
 
 11 - A livrança em anexo a este documento tem aposto o número...00;
 
-12 - O produto bancário “Cartão Caixa Works” consistia na atribuição, neste caso, à sociedade E..., L.<sup>da</sup>, de um valor máximo para usar a seu bel-prazer, com pagamentos acrescidos de juros remuneratórios nos moldes contratualizados;
+12 - O produto bancário “Cartão Caixa Works” consistia na atribuição, neste caso, à sociedade E..., L.da, de um valor máximo para usar a seu bel-prazer, com pagamentos acrescidos de juros remuneratórios nos moldes contratualizados;
 
 13 - No fundo, funcionava em moldes similares a uma conta corrente caucionada;
 
@@ -355,11 +363,11 @@ Neste sentido e visto que neste momento o documento solicitado (registo comercia
 
 III - Fundamentação de Direito
 
-A exequente/CGD deu à execução uma livrança (com vencimento em 28/05/2021), não se discutindo que a CGD é a pessoa a quem, segundo a livrança, a quantia inserta na mesma deve ser paga e que o executado AA, aqui embargante, deu o seu aval à subscritora (a sociedade E..., L.<sup>da</sup>) de tal livrança, mais exatamente, não se discute que haja colocado a sua assinatura na face posterior de tal livrança após a expressão “bom para aval ao subscritor”.
+A exequente/CGD deu à execução uma livrança (com vencimento em 28/05/2021), não se discutindo que a CGD é a pessoa a quem, segundo a livrança, a quantia inserta na mesma deve ser paga e que o executado AA, aqui embargante, deu o seu aval à subscritora (a sociedade E..., L.da) de tal livrança, mais exatamente, não se discute que haja colocado a sua assinatura na face posterior de tal livrança após a expressão “bom para aval ao subscritor”.
 
 “O dador de aval é responsável da mesma maneira que a pessoa por ele afiançada”, assim o dispõe o art. 32.º/§ 1.º da LU (ao caso aplicável, ex vi art. 77.º da LU), sendo que a pessoa afiançada é, no caso, “responsável da mesma forma que o aceitante de uma letra” (cf. art. 78.º da LU), pelo que, face à literalidade caraterística das obrigações cartulares, o executado/embargante garante o pagamento da livrança, ou seja, garante o crédito cambiário que emerge da livrança a favor da exequente/CGD.
 
-Sendo isto indiscutível - e não discutido pelo executado/embargante - vem este invocar, para se eximir ao pagamento da livrança, que, no dia 30/03/2009, transmitiu a quota que detinha na E..., L.<sup>da</sup> e que, em 16/04/2009, “solicito[u] a substituição dos avais e responsabilidades assinadas [...], pois deixei de exercer qualquer função e controlo de gestão na Euronetworks”.
+Sendo isto indiscutível - e não discutido pelo executado/embargante - vem este invocar, para se eximir ao pagamento da livrança, que, no dia 30/03/2009, transmitiu a quota que detinha na E..., L.da e que, em 16/04/2009, “solicito[u] a substituição dos avais e responsabilidades assinadas [...], pois deixei de exercer qualquer função e controlo de gestão na Euronetworks”.
 
 Perante tal invocação, estará em causa - estando-se, como resulta dos factos, perante um “aval” aposto em título cambiário em branco - saber/dizer se o subscritor de um título em branco, sendo tal subscrição destinada a valer como aval cambiário uma vez preenchida a livrança, se pode, e em que termos, desvincular unilateralmente da garantia dada ao subscrever em branco a livrança (ou a letra).
 
@@ -383,13 +391,13 @@ Nos presentes autos, temos que, destinada a assegurar o pagamento de todas as re
 
 Sendo pois para tal quadro factual (idêntico nos três processos/acórdãos) que o AUJ [4/2013](https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/4-2013-257057), de 11/12/2012, estabeleceu, em função das específicas características cambiárias do aval, que não é admissível a sua denúncia, ainda que, sendo o avalista sócio da sociedade avalizada, venha, entretanto, a ceder a sua participação social na sociedade avalizada.
 
-Entendeu o AUJ [4/2013](https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/4-2013-257057), no percurso para a solução da questão fundamental de direito, não distinguir entre o aval cambiário prestado em título completo e o “aval em branco” (entendendo-se por “aval em branco”, repete-se, a assinatura aposta no título em branco e que se destina a valer como aval cambiário uma vez preenchido o título<sup>1</sup>), tratando o tal “quadro factual idêntico” como aval cambiário prestado em título completo.
+Entendeu o AUJ [4/2013](https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/4-2013-257057), no percurso para a solução da questão fundamental de direito, não distinguir entre o aval cambiário prestado em título completo e o “aval em branco” (entendendo-se por “aval em branco”, repete-se, a assinatura aposta no título em branco e que se destina a valer como aval cambiário uma vez preenchido o título1), tratando o tal “quadro factual idêntico” como aval cambiário prestado em título completo.
 
 Em consequência, entendeu o AUJ [4/2013](https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/4-2013-257057) resolver a fundamental questão de direito, da desvinculação unilateral do vínculo assumido, a partir da especificidade do aval cambiário, acabando assim a considerar - porque era em relação a tal precisa factualidade subjacente que raciocinava de direito - que o título em branco já incorpora vinculações cambiárias e que o chamado “avalista em branco” é já - antes do preenchimento do título - um obrigado cambiário e o dito aval uma vinculação cambiária.
 
 Sendo assim - caso se entenda, em sentido diverso, que o título em branco não incorpora ainda vinculações cambiárias e que, sendo assim, o chamado “avalista em branco” não é, antes do preenchimento do título, um obrigado cambiário e o dito “aval” uma vinculação cambiária - não parece que se possa dizer que é apenas por “mera interpretação” que o AUJ [4/2013](https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/4-2013-257057) não é aplicável a um caso como o vertente, em que, repete-se, o quadro factual é idêntico ao dos acórdãos em confronto no AUJ [4/2013](https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/4-2013-257057): efetivamente, seguindo-se tal diverso entendimento, efetuar-se-á um percurso jurídico que é diferente - se não mesmo oposto - do seguido no AUJ [4/2013](https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/4-2013-257057), pelo que se mostra necessário e conveniente, a fim de evitar equívocos e a fim de assegurar harmonia e uniformidade na aplicação da jurisprudência, que o Pleno das Secções Cíveis se pronuncie de novo sobre a questão fundamental de direito, comum aos três processos/acórdãos.
 
-Pronúncia que começa por saber/dizer se o aval em livrança em branco - mais exatamente, como vimos referindo, a assinatura aposta em livrança em branco e que se destina a valer como aval cambiário uma vez preenchida a livrança<sup>2</sup> - constitui/incorpora já uma vinculação cambiária.
+Pronúncia que começa por saber/dizer se o aval em livrança em branco - mais exatamente, como vimos referindo, a assinatura aposta em livrança em branco e que se destina a valer como aval cambiário uma vez preenchida a livrança2 - constitui/incorpora já uma vinculação cambiária.
 
 Vejamos, então:
 
@@ -399,7 +407,7 @@ Implica assim, sendo formais os negócios jurídicos cambiários, a existência 
 
 E tendo de constar (ou ser extraível) da letra ou livrança uma época de vencimento, também significa, estando associado ao vencimento um prazo de prescrição (cf. arts. 70.º e 77.º da LU), que a duração do aval (como de qualquer outra obrigação cartular) está delimitada no tempo - que o aval é, por natureza, uma vinculação circunscrita no tempo.
 
-É nesta linha de raciocínio que tem de ser entendido o disposto no art. 76.º da LU, segundo qual “o escrito em que faltar algum dos requisitos indicados no artigo anterior não produzirá efeito como livrança, salvo nos casos determinados nas alíneas seguintes”; e que vem sendo entendido pela doutrina dominante <sup>3</sup> que a livrança em branco não vale como livrança<sup>4</sup>, sujeita ao regime da LU, antes do preenchimento regular do título.
+É nesta linha de raciocínio que tem de ser entendido o disposto no art. 76.º da LU, segundo qual “o escrito em que faltar algum dos requisitos indicados no artigo anterior não produzirá efeito como livrança, salvo nos casos determinados nas alíneas seguintes”; e que vem sendo entendido pela doutrina dominante 3 que a livrança em branco não vale como livrança4, sujeita ao regime da LU, antes do preenchimento regular do título.
 
 Efetivamente:
 
@@ -417,13 +425,13 @@ Segundo Evaristo Mendes, Aval prestado por sócios de sociedades por quotas e an
 
 Mas, como é evidente, subscrever uma letra ou livrança em branco e entregá-la assim subscrita a alguém, não constituirá um ato desprovido de efeitos e vínculos jurídicos: o subscritor em branco fica sujeito/exposto à produção de uma consequência - a constituição da obrigação cambiária - na sua esfera jurídica por mero efeito do preenchimento do título assinado em branco, ou seja, com a entrega duma livrança em branco ao credor, os que a subscreveram ficam sujeitos a que o credor preencha o documento, passando a produzir efeitos como título de crédito, ganhando, então, as vinculações - do emitente e do avalista - a natureza de vinculações cambiárias, mas, é o que importa acentuar, antes de tal preenchimento, as situações jurídicas decorrentes da subscrição em branco não são ainda cambiárias (e pode mesmo acontecer que nunca o venham a ser, como sucede no caso do título vir a ser devolvido em razão do cumprimento do contrato subjacente à obrigação do emitente).
 
-Daí que seja referido por J. G. Pinto Coelho (das Letras I, pág. 121) que “a emissão ou a assinatura dum título em branco determinam, pois, para o signatário um vínculo jurídico, mas não propriamente a constituição desde logo da obrigação cambiária” <sup>5</sup>; referindo, em idêntico sentido, Paulo Sendim (Letra de Câmbio, I, pág. 234) que “a letra em branco, porque é incompleta, está em formação para vir, sendo preenchida, a tornar-se letra”; e, ainda no mesmo sentido, refere Carolina Cunha (Letras e Livranças, Paradigmas atuais e recompreensão de um regime, pág. 637; e Aval e Insolvência, pág. 21) que a subscrição e entrega do título em branco “representam, metaforicamente, o embrião da vinculação cambiária, isto é, constituem a primeira etapa de uma fattispecie completa que, uma vez reunidos todos os elementos, desembocará na constituição da obrigação cambiária.”
+Daí que seja referido por J. G. Pinto Coelho (das Letras I, pág. 121) que “a emissão ou a assinatura dum título em branco determinam, pois, para o signatário um vínculo jurídico, mas não propriamente a constituição desde logo da obrigação cambiária” 5; referindo, em idêntico sentido, Paulo Sendim (Letra de Câmbio, I, pág. 234) que “a letra em branco, porque é incompleta, está em formação para vir, sendo preenchida, a tornar-se letra”; e, ainda no mesmo sentido, refere Carolina Cunha (Letras e Livranças, Paradigmas atuais e recompreensão de um regime, pág. 637; e Aval e Insolvência, pág. 21) que a subscrição e entrega do título em branco “representam, metaforicamente, o embrião da vinculação cambiária, isto é, constituem a primeira etapa de uma fattispecie completa que, uma vez reunidos todos os elementos, desembocará na constituição da obrigação cambiária.”
 
 Temos pois que o “aval” prestado numa livrança em branco - mais exatamente, não é demais repeti-lo, a “vinculação para aval”, a assinatura aposta em título em branco e que se destina a valer como aval cambiário uma vez preenchido o título - não é ainda um verdadeiro aval (e uma obrigação cambiária) e por isso não pode estar sujeito à mesma disciplina dum aval aposto num título completo, o que significa que a questão da desvinculação unilateral dum “aval” prestado numa livrança em branco não pode ser resolvida a partir e com base nas específicas características das obrigações cambiárias, designadamente, a partir das obrigações que decorrem de todos os negócio cambiários terem como característica serem incondicionáveis (art. 1.º/2 da LU: “mandato puro e simples de pagar”; art. 75.º/2 da LU: “promessa pura e simples de pagar”) e se reportarem a uma quantia certa inscrita no próprio documento (art. 1.º/2 e 75.º/2 da LU).
 
 Mas, aqui chegados, impõe-se observar que o que se acaba de referir - sobre os títulos de crédito (a letra e a livrança) estarem sujeitas a um estrito formalismo (justificado pelo interesse na circulação e pelo regime, particularmente grave, a que ficam sujeitas as vinculações cambiárias) e sobre o disposto nos referidos arts. 1.º, 2.º, 75.º e 76.º da LU a propósito da não produção de efeitos do título incompleto - não representa obstáculo à válida emissão de uma letra ou livrança em branco.
 
-A aceitação da emissão de letra ou livrança em branco conheceu reservas e resistências da doutrina - não se pode olvidar a gravidade e os perigos da subscrição em branco<sup>6</sup> - porém, na Conferência final (a de Genebra) foi acordado aquele que viria a ser o texto do art. 10.º da LU<sup>7</sup>, que estabelece, pelo menos implicitamente, a admissibilidade do mecanismo da letra/livrança em branco.
+A aceitação da emissão de letra ou livrança em branco conheceu reservas e resistências da doutrina - não se pode olvidar a gravidade e os perigos da subscrição em branco6 - porém, na Conferência final (a de Genebra) foi acordado aquele que viria a ser o texto do art. 10.º da LU7, que estabelece, pelo menos implicitamente, a admissibilidade do mecanismo da letra/livrança em branco.
 
 Aliás, na prática, a emissão e entrega de letras e livranças em branco, como garantia, é abundantemente utilizada e reconhece-se que tal utilização corresponde a interesses legítimos, designadamente, nos casos em que, por força do negócio subjacente, todos os elementos que devem constar do título não estão ainda determinados na data em que se dá a subscrição e entrega.
 
@@ -435,27 +443,27 @@ Assim, a partir da interpretação do art. 10.º da LU, “[...] parte da doutri
 
 Há, qualquer que seja a perspetiva que se adote sobre a fonte do poder de preenchimento, um inegável pressuposto do preenchimento: a existência, na esfera de algum sujeito, de um poder de preenchimento (independentemente da fonte dele).
 
-Esse poder deve ser atribuído por aqueles que se vinculam “em branco” mediante um pacto. [...]” <sup>8</sup>
+Esse poder deve ser atribuído por aqueles que se vinculam “em branco” mediante um pacto. [...]” 8
 
 Ou seja, a letra/livrança, em que se assume uma vinculação destinada a vir a ser uma vinculação cartular, tem de ser acompanhada de um acordo que exprima a vontade desse obrigado quanto aos termos em que o outro sujeito pode completar a letra ou livrança, que defina de antemão os termos possíveis desse preenchimento; para o que se argumenta que a tutela do subscritor em branco só se realiza eficazmente se se exigir que se fixem paralelamente à emissão do título incompleto os termos em que hão de ser preenchidos os elementos em falta (o montante e a data de vencimento), impedindo-se assim o preenchimento arbitrário.
 
-Como acrescenta Cassiano dos Santos<sup>9</sup>, a propósito do regime traçado pelo art. 10.º da LU para a letra e livrança em branco, “[...] se um preceito estabelece que o documento tem que ter determinados elementos, cuja falta está associada à não produção de efeitos (nulidade ou até inexistência) como letra ou livrança e se, mais adiante, no mesmo diploma, outro preceito admite implicitamente que haja documentos que os não contenham, e se este preceito faz alusão a «acordos realizados», forçoso é concluir que a interpretação mais próxima da letra da lei e que melhor harmoniza os preceitos é aquela pela qual se conclui que a letra ou a livrança podem excecionalmente (atento o que se exige nos arts. 1.º, 2.º, 75.º e 76.º) não conter algum ou algum destes elementos, desde que paralela e complementarmente exista o acordo referido no segundo artigo (10.º da LU) - isto é, um outro documento que estabeleça por acordo o modo porque deve ser preenchido o título e que permita integrá-lo com os elementos essenciais à produção de efeitos. Sem ser assim - sendo outro o entendimento - o art. 10.º comportaria uma forte exceção ao regime legal do rigoroso formalismo em matéria de letras e livranças [...]”.
+Como acrescenta Cassiano dos Santos9, a propósito do regime traçado pelo art. 10.º da LU para a letra e livrança em branco, “[...] se um preceito estabelece que o documento tem que ter determinados elementos, cuja falta está associada à não produção de efeitos (nulidade ou até inexistência) como letra ou livrança e se, mais adiante, no mesmo diploma, outro preceito admite implicitamente que haja documentos que os não contenham, e se este preceito faz alusão a «acordos realizados», forçoso é concluir que a interpretação mais próxima da letra da lei e que melhor harmoniza os preceitos é aquela pela qual se conclui que a letra ou a livrança podem excecionalmente (atento o que se exige nos arts. 1.º, 2.º, 75.º e 76.º) não conter algum ou algum destes elementos, desde que paralela e complementarmente exista o acordo referido no segundo artigo (10.º da LU) - isto é, um outro documento que estabeleça por acordo o modo porque deve ser preenchido o título e que permita integrá-lo com os elementos essenciais à produção de efeitos. Sem ser assim - sendo outro o entendimento - o art. 10.º comportaria uma forte exceção ao regime legal do rigoroso formalismo em matéria de letras e livranças [...]”.
 
-Sendo diferentes a posição ocupada pelo avalista de um título completo e a posição ocupada pelo “avalista” de um título em branco, justifica-se que a LU os submeta a regimes diferentes e que o regime do avalista em branco “remeta inapelavelmente para a vontade que o avalista em branco manifestou aquando da subscrição da letra e que o acordo de preenchimento tipicamente recolhe [...], sob pena de se deixar o avalista que subscreveu o título em branco ao inteiro arbítrio de um credor-portador indigno de tutela, que, rompendo (de má fé ou em falta grave) com os critérios fixados no acordo de preenchimento (acordo que ele próprio normalmente celebrou [...] e corresponde à hipótese hoje em dia sociologicamente típica), completa e aciona o título fora da situação por tal acordo coberta” <sup>10</sup>.
+Sendo diferentes a posição ocupada pelo avalista de um título completo e a posição ocupada pelo “avalista” de um título em branco, justifica-se que a LU os submeta a regimes diferentes e que o regime do avalista em branco “remeta inapelavelmente para a vontade que o avalista em branco manifestou aquando da subscrição da letra e que o acordo de preenchimento tipicamente recolhe [...], sob pena de se deixar o avalista que subscreveu o título em branco ao inteiro arbítrio de um credor-portador indigno de tutela, que, rompendo (de má fé ou em falta grave) com os critérios fixados no acordo de preenchimento (acordo que ele próprio normalmente celebrou [...] e corresponde à hipótese hoje em dia sociologicamente típica), completa e aciona o título fora da situação por tal acordo coberta” 10.
 
-O que também significa que à “vinculação em branco” não se aplicará o regime da incondicionalidade das vinculações cambiárias (decorrente dos arts. 1.º/2 e 75.º/2 da LU), uma vez que, “na estrita medida em que consiga fazer a prova admitida pelo art. 10.º da LU, podemos dizer que o subscritor em branco se vincula “cambiariamente” em termos condicionais: apenas “se”, “quando” e por “quanto” estiver previsto no acordo de preenchimento. Esta prova tende a estar altamente facilitada nos casos [...] que correspondem ao paradigma típico da utilização de títulos em branco: a livrança não circulou, manteve-se nas mãos do credor e portador originário, com quem foi justamente celebrado o acordo de preenchimento e que veio, mais tarde, a efetuar o próprio preenchimento” <sup>11</sup>.
+O que também significa que à “vinculação em branco” não se aplicará o regime da incondicionalidade das vinculações cambiárias (decorrente dos arts. 1.º/2 e 75.º/2 da LU), uma vez que, “na estrita medida em que consiga fazer a prova admitida pelo art. 10.º da LU, podemos dizer que o subscritor em branco se vincula “cambiariamente” em termos condicionais: apenas “se”, “quando” e por “quanto” estiver previsto no acordo de preenchimento. Esta prova tende a estar altamente facilitada nos casos [...] que correspondem ao paradigma típico da utilização de títulos em branco: a livrança não circulou, manteve-se nas mãos do credor e portador originário, com quem foi justamente celebrado o acordo de preenchimento e que veio, mais tarde, a efetuar o próprio preenchimento” 11.
 
-Em síntese, antes de preenchida a letra/livrança, o “aval” (o “saque”, o “aceite”, o “endosso”, a “emissão da livrança”) não existe enquanto negócio jurídico cambiário, existindo “apenas” a vinculação cambiária em estado embrionário (através da assinatura aposta na letra/livrança) e a vinculação jurídica constante do essencial acordo/pacto de preenchimento a que alude o art. 10.º da LU<sup>12</sup> e o inerente poder fáctico de o portador da letra/livrança a poder vir a preencher<sup>13</sup>.
+Em síntese, antes de preenchida a letra/livrança, o “aval” (o “saque”, o “aceite”, o “endosso”, a “emissão da livrança”) não existe enquanto negócio jurídico cambiário, existindo “apenas” a vinculação cambiária em estado embrionário (através da assinatura aposta na letra/livrança) e a vinculação jurídica constante do essencial acordo/pacto de preenchimento a que alude o art. 10.º da LU12 e o inerente poder fáctico de o portador da letra/livrança a poder vir a preencher13.
 
 Daí que, sendo a vinculação do avalista em branco pré-cambiária - o título só se forma com o preenchimento do documento com os seus elementos essenciais, só aí surgindo as obrigações cambiárias - a questão de saber se um sócio (da sociedade que emitiu o documento) que subscreveu o documento em branco (subscrição destinada a valer como aval cambiário) se pode desvincular unilateralmente, até ao preenchimento do título, não possa/deva encontrar a sua solução no regime das obrigações cartulares/cambiárias.
 
-Quer consideremos, com a doutrina tradicional, que as obrigações cambiárias resultantes das letras/livranças se caracterizam pela incorporação do direito no título, pela literalidade, pela independência reciproca, pela autonomia e pela abstração (com tudo o que tais “fórmulas condensadas” significam), quer consideremos, com a doutrina mais recente<sup>14</sup>, que o que caracteriza os negócios jurídicos cambiários é tão só a sua natureza constitutiva, incondicionabilidade e não-indicação da causa, temos sempre que os negócios cambiários se esgotam em puros efeitos de direito (ou seja, que não contêm a indicação da causa, que os seus efeitos jurídicos se produzem com abstração da sua causa<sup>15</sup>) e que tais efeitos não podem ser submetidos a uma qualquer condição (como resulta do art. 1.º/2 da LU para o saque, que tem uma função matricial no direito cambiário; do art. 12.º/1 para o endosso, que, na sua função de transmissão do direito, deve ser puro e simples; e do art. 26.º/1 para o aceite, que também é puro e simples), o que significa que circunstâncias exteriores ao título não podem ser invocadas para, como causas resolutivas, extinguir o aval (como qualquer outra obrigação cartular), pelo menos no plano das relações mediatas, que é onde as caraterísticas da literalidade e da abstração funcionam em pleno (cf. art. 17.º da LU).
+Quer consideremos, com a doutrina tradicional, que as obrigações cambiárias resultantes das letras/livranças se caracterizam pela incorporação do direito no título, pela literalidade, pela independência reciproca, pela autonomia e pela abstração (com tudo o que tais “fórmulas condensadas” significam), quer consideremos, com a doutrina mais recente14, que o que caracteriza os negócios jurídicos cambiários é tão só a sua natureza constitutiva, incondicionabilidade e não-indicação da causa, temos sempre que os negócios cambiários se esgotam em puros efeitos de direito (ou seja, que não contêm a indicação da causa, que os seus efeitos jurídicos se produzem com abstração da sua causa15) e que tais efeitos não podem ser submetidos a uma qualquer condição (como resulta do art. 1.º/2 da LU para o saque, que tem uma função matricial no direito cambiário; do art. 12.º/1 para o endosso, que, na sua função de transmissão do direito, deve ser puro e simples; e do art. 26.º/1 para o aceite, que também é puro e simples), o que significa que circunstâncias exteriores ao título não podem ser invocadas para, como causas resolutivas, extinguir o aval (como qualquer outra obrigação cartular), pelo menos no plano das relações mediatas, que é onde as caraterísticas da literalidade e da abstração funcionam em pleno (cf. art. 17.º da LU).
 
 E do mesmo modo, sendo, como já se referiu, as obrigações cambiárias vinculações circunscritas e delimitadas no tempo, também ficam as mesmas fora do campo de aplicação da denúncia, que é o modo típico de desvinculação nas relações contratuais duradouras celebradas por tempo indeterminado.
 
 Ora, é tudo isto - não constituindo, repete-se, as vinculações em branco obrigações cambiárias - que não é transponível e aplicável às “subscrições em branco”.
 
-Existindo uma subscrição com vista a aval, o vínculo da subscrição se vir a tornar em aval aquando do complemento do título é assumido no acordo/pacto de preenchimento (em que o subscritor aceita o preenchimento em determinados termos), pelo que será em relação a tal vínculo<sup>16</sup> - acordo/pacto de preenchimento - que deve ser colocada a questão da possível desvinculação unilateral até ao preenchimento do título, seja por denúncia seja por resolução.
+Existindo uma subscrição com vista a aval, o vínculo da subscrição se vir a tornar em aval aquando do complemento do título é assumido no acordo/pacto de preenchimento (em que o subscritor aceita o preenchimento em determinados termos), pelo que será em relação a tal vínculo16 - acordo/pacto de preenchimento - que deve ser colocada a questão da possível desvinculação unilateral até ao preenchimento do título, seja por denúncia seja por resolução.
 
 Acordo/pacto de preenchimento, de uma letra ou livrança, que é um negócio jurídico bilateral e mesmo, com frequência, quando consta das condições gerais do contrato de financiamento e é assinado por todos os subscritores do título emitido em branco, plurilateral.
 
@@ -469,9 +477,9 @@ Mais detalhadamente:
 
 “O fundamento material desta denunciabilidade “ad nutum” é a tutela da liberdade dos sujeitos que seria comprometida por um vínculo demasiadamente duradouro. Por isso, tal poder de denúncia existe mesmo na falta de norma jurídica ou cláusula contratual explícita.
 
-Cremos ser esta uma solução decorrente da impossibilidade de se admitirem vínculos contratuais ou obrigacionais de caráter perpétuo, eterno ou excessivamente duradouro. Uma tal vinculação ou “servidão” eterna ou excessivamente duradoura violaria a ordem pública, pelo que os negócios de duração indeterminada ou ilimitada só não serão nulos, por força do art. 280.º se estiverem sujeitos ao regime de livre denunciabilidade ou denunciabilidade ad nutum.” <sup>17</sup>
+Cremos ser esta uma solução decorrente da impossibilidade de se admitirem vínculos contratuais ou obrigacionais de caráter perpétuo, eterno ou excessivamente duradouro. Uma tal vinculação ou “servidão” eterna ou excessivamente duradoura violaria a ordem pública, pelo que os negócios de duração indeterminada ou ilimitada só não serão nulos, por força do art. 280.º se estiverem sujeitos ao regime de livre denunciabilidade ou denunciabilidade ad nutum.” 17
 
-Ou seja, o princípio da vinculatividade contratual, consagrado no art. 406.º do C. Civil, não prejudica o direito de livre denúncia dos contratos de duração indeterminada, devendo considerar-se contrário à ordem pública, pela intolerável restrição à liberdade dos sujeitos que isso acarretaria, um contrato que estabelecesse vínculos perpétuos<sup>18</sup>: a faculdade de livre denúncia dos contratos por tempo indeterminado<sup>19</sup> é a forma de obviar a uma inadmissível limitação à liberdade das pessoas, o que, doutra forma (a constituição de vínculos perpétuos), seria contrário à ordem pública.
+Ou seja, o princípio da vinculatividade contratual, consagrado no art. 406.º do C. Civil, não prejudica o direito de livre denúncia dos contratos de duração indeterminada, devendo considerar-se contrário à ordem pública, pela intolerável restrição à liberdade dos sujeitos que isso acarretaria, um contrato que estabelecesse vínculos perpétuos18: a faculdade de livre denúncia dos contratos por tempo indeterminado19 é a forma de obviar a uma inadmissível limitação à liberdade das pessoas, o que, doutra forma (a constituição de vínculos perpétuos), seria contrário à ordem pública.
 
 Denúncia que corresponde ao exercício dum direito potestativo que se exerce livre, imotivada e discricionariamente - ad libitum ou ad nutum - através de uma declaração unilateral dirigida à outra parte e que, sendo assim, só se torna eficaz quando é levada ao conhecimento da contraparte ou chega ao seu poder em condições de ser conhecida (declaração recipienda ou receptícia - art. 224.º do C. Civil); denúncia que tem eficácia ex nunc, que deve ser exteriorizada de modo claro e inequívoco, para que não restem dúvidas no espírito do destinatário acerca da sua precisa intenção, mas que, como qualquer outra declaração negocial (trata-se de um negócio jurídico unilateral), pode ser expressa ou tácita (art. 217.º do C. Civil) e que é incondicionável, irrevogável e indivisível.
 
@@ -491,11 +499,11 @@ Dito de outro modo, quando o avalista deixa de ter interesses na sociedade enqua
 
 Mas é esta indissociável ligação entre a qualidade de sócio e a prestação da garantia que legitima a interrogação sobre o modo como a perda dessa qualidade poderá influenciar a (manutenção da) responsabilidade do garante. [...]
 
-Em matéria de crédito, o ex-sócio continua a garantir a restituição das quantias correspondentes aos financiamentos recebidos pela sociedade até ao momento da saída (rectius, da produção dos efeitos da sua declaração de desvinculação). Mas fará sentido, do ponto do negócio jurídico em que acordou os termos do preenchimento do título que subscreveu em branco, mantê-lo vinculado a partir daí, e porventura durante (muitos) anos volvidos sobre o momento em que abandonou a sociedade? Será exigível, no horizonte negocial do pacto que firmou com o credor, que garanta a devolução de financiamentos societários cuja concessão não lhe foi dado apreciar, controlar ou sequer conhecer, e dos quais não beneficiou minimamente, perdida que foi a sua qualidade de sócio?” <sup>20</sup>
+Em matéria de crédito, o ex-sócio continua a garantir a restituição das quantias correspondentes aos financiamentos recebidos pela sociedade até ao momento da saída (rectius, da produção dos efeitos da sua declaração de desvinculação). Mas fará sentido, do ponto do negócio jurídico em que acordou os termos do preenchimento do título que subscreveu em branco, mantê-lo vinculado a partir daí, e porventura durante (muitos) anos volvidos sobre o momento em que abandonou a sociedade? Será exigível, no horizonte negocial do pacto que firmou com o credor, que garanta a devolução de financiamentos societários cuja concessão não lhe foi dado apreciar, controlar ou sequer conhecer, e dos quais não beneficiou minimamente, perdida que foi a sua qualidade de sócio?” 20
 
 Questão a que Carolina Cunha responde negativamente, ou seja, não é exigível que, em tal hipótese, o sócio cedente se mantenha vinculado, “inexigibilidade que remete para o instituto da resolução por justa causa: [...] não se trata, portanto, de uma resolução por incumprimento, cujo fundamento se busque no art. 801.º do C. Civil, mas de uma faculdade reconhecida ao sócio-gerente por integração do acordo de preenchimento segundo a vontade hipotética das partes e os ditames da boa fé impostos pelo art. 239.º do C. Civil”.
 
-Em sentido próximo, sustenta Evaristo Mendes<sup>21</sup> que “[...] os avales em apreciação são tipicamente prestados pelos sócios - em regra, sócios gerentes ou administradores - enquanto tais, na qualidade de membros da sociedade e, através dela, de beneficiários indiretos do financiamento que à mesma é concedido.
+Em sentido próximo, sustenta Evaristo Mendes21 que “[...] os avales em apreciação são tipicamente prestados pelos sócios - em regra, sócios gerentes ou administradores - enquanto tais, na qualidade de membros da sociedade e, através dela, de beneficiários indiretos do financiamento que à mesma é concedido.
 
 [...] A exigência dos avales explica-se, antes de mais, porque a IC financiadora quer comprometer os sócios com uma gestão e um comportamento da sua sociedade favoráveis ao cumprimento do contrato de financiamento. E é também em atenção à respetiva qualidade de sócios - a quem pertence o valor da sociedade e nessa medida beneficiam dos financiamentos a ela concedidos - que os mesmos aceitam presumivelmente envolver-se, cobrindo com a aposição da sua assinatura de avalistas no documento de livrança em branco, convertível em aval em caso de incumprimento [...].
 
@@ -503,11 +511,11 @@ Vindo tal qualidade de sócio a faltar, a cobertura das responsabilidades consti
 
 [...] Infere-se do que antecede que o princípio a reter deverá ser este: se um sócio sai da sociedade e a saída é comunicada a um financiador da sociedade, numa altura em que ainda não há uma livrança em sentido técnico, o financiador deve poder contar com a sua garantia para a dívida da sociedade existente, mas não com a cobertura de dívidas assumidas pela sociedade a partir dessa data. Se o financiador entende que, desse modo, a garantia se tornou insuficiente, colocando em perigo o recebimento do valor em dívida, pode, designadamente, pedir o reforço da mesma sob pena de cessar o financiamento e, em último recurso, de preencher a livrança e fazer valer os correspondentes direitos cambiários [...]”.
 
-Porém, tendo em consideração a lei, a circunstância do “avalista em branco” ter deixado de ser sócio não preenche os pressupostos legais da resolução por incumprimento (do art. 801.º/2 do C. Civil) e/ou os pressupostos legais da resolução por alteração das circunstâncias (do art. 437.º do C. Civil): as circunstâncias, é certo, alteraram-se - o avalista perdeu a possibilidade de influenciar o comportamento da sociedade no cumprimento do contrato ou, pelo menos, de o controlar (a cessação da qualidade de sócio acarreta para o garante “riscos acrescidos e não domináveis”) - mas é certo também que a sua saída de sócio não era imprevisível e que o banco deu crédito à sociedade tendo em conta a garantia resultante do compromisso do sócio e que tal compromisso é, normalmente, um pressuposto do negócio<sup>22</sup>.
+Porém, tendo em consideração a lei, a circunstância do “avalista em branco” ter deixado de ser sócio não preenche os pressupostos legais da resolução por incumprimento (do art. 801.º/2 do C. Civil) e/ou os pressupostos legais da resolução por alteração das circunstâncias (do art. 437.º do C. Civil): as circunstâncias, é certo, alteraram-se - o avalista perdeu a possibilidade de influenciar o comportamento da sociedade no cumprimento do contrato ou, pelo menos, de o controlar (a cessação da qualidade de sócio acarreta para o garante “riscos acrescidos e não domináveis”) - mas é certo também que a sua saída de sócio não era imprevisível e que o banco deu crédito à sociedade tendo em conta a garantia resultante do compromisso do sócio e que tal compromisso é, normalmente, um pressuposto do negócio22.
 
 Restará assim a hipótese da circunstância (saída do sócio) se apresentar, por integração do acordo de preenchimento segundo a vontade hipotética das partes e os ditames da boa-fé, como justa causa (contratual) de resolução, o que, porém, a nosso ver, não se verificará na generalidade dos casos.
 
-Como refere Cassiano Santos<sup>23</sup>, “ [...] deve entender-se que é imposta pela boa fé - e que se impõe mesmo a uma vontade hipotética noutro sentido - uma cláusula em que se permite a extinção por resolução do aval no caso de o avalista ter deixado de ser sócio da sociedade financiada e de esta, por si ou por outrem, oferecer uma garantia alternativa que dê “garantias bastantes à execução do contrato”. Por outras palavras, a terem previsto a hipótese e à luz da boa-fé mercantil [...], as partes não poderiam ter deixado de colocar como causa de extinção do aval a saída do avalista da sociedade subscritora e financiada, embora condicionada a que seja oferecida garantia substitutiva de idêntico valor [...]”.
+Como refere Cassiano Santos23, “ [...] deve entender-se que é imposta pela boa fé - e que se impõe mesmo a uma vontade hipotética noutro sentido - uma cláusula em que se permite a extinção por resolução do aval no caso de o avalista ter deixado de ser sócio da sociedade financiada e de esta, por si ou por outrem, oferecer uma garantia alternativa que dê “garantias bastantes à execução do contrato”. Por outras palavras, a terem previsto a hipótese e à luz da boa-fé mercantil [...], as partes não poderiam ter deixado de colocar como causa de extinção do aval a saída do avalista da sociedade subscritora e financiada, embora condicionada a que seja oferecida garantia substitutiva de idêntico valor [...]”.
 
 Enfim, a possibilidade de resolução da “vinculação para aval”, à luz da boa fé na interpretação e integração do acordo de preenchimento será uma hipótese bastante excecional, uma vez que, na generalidade dos casos, o “avalista em branco” se limita a invocar a saída da sociedade e a pretender a pura e simples extinção da garantia, sem oferecer garantia substitutiva de idêntico valor (e, como acima se referiu, a saída do sócio da sociedade não constitui, face ao regime legal do incumprimento ou da alteração das circunstâncias, causa de resolução).
 
@@ -527,9 +535,9 @@ E é justamente aqui - nesta relação entre a estabilidade contratual resultant
 
 Mas - é este o ponto - um contrato celebrado por determinado período de tempo, em que as partes estipulam que o contrato se prorrogará por sucessivos períodos, de igual ou de diferente duração, salvo se alguma delas comunicar à outra, com certa antecedência, que não deseja a prorrogação, pode/deve, para os presentes efeitos - para efeitos de denúncia - continuar a ser considerado como um contrato com um prazo de vigência limitado?
 
-Decorrido o período inicial, que funciona como período mínimo de vigência do contrato, o mesmo passa, para os presentes efeitos, a ter que ser considerado como por tempo indeterminado, “até porque não será o decurso de qualquer prazo a fazê-lo cessar, antes a declaração de uma das partes, que não se sabe se e quando virá” <sup>24</sup>, ou seja, a denúncia própria (imotivada ou ad nutum) vale tanto para as relações duradouras sem limite temporal estabelecido, como para aquelas em que exista (e se verifique) renovação automática, hipótese em que o contrato, por se renovar automaticamente, não tem um termo final definido.
+Decorrido o período inicial, que funciona como período mínimo de vigência do contrato, o mesmo passa, para os presentes efeitos, a ter que ser considerado como por tempo indeterminado, “até porque não será o decurso de qualquer prazo a fazê-lo cessar, antes a declaração de uma das partes, que não se sabe se e quando virá” 24, ou seja, a denúncia própria (imotivada ou ad nutum) vale tanto para as relações duradouras sem limite temporal estabelecido, como para aquelas em que exista (e se verifique) renovação automática, hipótese em que o contrato, por se renovar automaticamente, não tem um termo final definido.
 
-Como refere Cassiano Santos <sup>25</sup>, “[...] a cláusula de renovação ou prorrogação automática não pode ter como efeito tornar indefinida, na prática, a vinculação a que se submeteu - o efeito jurídico das estipulações contratuais não pode redundar numa vinculação indefinida ou perpétua do sócio.
+Como refere Cassiano Santos 25, “[...] a cláusula de renovação ou prorrogação automática não pode ter como efeito tornar indefinida, na prática, a vinculação a que se submeteu - o efeito jurídico das estipulações contratuais não pode redundar numa vinculação indefinida ou perpétua do sócio.
 
 A esta luz, e sempre atentas as circunstâncias do caso, o sentido a dar às estipulações (por interpretação ou, porventura, por integração) será por regra o de que o sujeito que se vinculou a ser avalista o fez para todo o prazo inicial do contrato e para todas as renovações ou prorrogações, mas que ele tem a faculdade de obstar a cada renovação ou prorrogação em relação a si. Por outras palavras, a produção de efeitos da renovação ou prorrogação em relação a si - e o consequente prolongamento da sua vinculação - não se pode dar contra a sua vontade, expressa ou tácita. [...]”
 
@@ -537,7 +545,7 @@ Não sendo despiciendo, a propósito da desvinculação unilateral (denúncia) e
 
 Acabámos de sustentar que, no caso de a relação de negócios coberta pelo “aval em branco” ser uma relação duradoura, sem fixação de prazo ou com fixação de prazo renovável automaticamente, o avalista em branco pode, sem causa justificativa («ad nutum»), denunciar o “vínculo” assumido (circunscrevendo a sua responsabilidade à dívida existente nesse momento), o que, assim ditas as coisas, parece permitir ao prometido avalista que conserve a sua qualidade de sócio-gerente, de sócio ou mesmo só de gerente exercer, sem mais, em tal relação de negócios, a faculdade de denúncia.
 
-As situações concretas são muito variadas e não é de afastar que tal possa legitimamente acontecer (que um sócio que mantém tais qualidades possa denunciar o “vínculo”), mas, naturalmente, o exercício da denúncia tem que ser conforme à boa-fé, levando em conta os motivos subjetivos do prometido avalista que assim procede e a legítima expectativa do credor/financiador, importando ter presente que o normal é o “aval” dever manter-se enquanto o “dador de aval” conservar a qualidade que detinha quando “deu” o aval, isto é, a qualidade de sócio, de sócio-gerente ou de gerente é um pressuposto negocial que, em princípio, de acordo com a boa fé (art. 762.º/2 do C. Civil), vincula o “avalista” a não denunciar o “vínculo” enquanto mantiver a qualidade de sócio, de sócio-gerente ou de gerente<sup>26</sup>.
+As situações concretas são muito variadas e não é de afastar que tal possa legitimamente acontecer (que um sócio que mantém tais qualidades possa denunciar o “vínculo”), mas, naturalmente, o exercício da denúncia tem que ser conforme à boa-fé, levando em conta os motivos subjetivos do prometido avalista que assim procede e a legítima expectativa do credor/financiador, importando ter presente que o normal é o “aval” dever manter-se enquanto o “dador de aval” conservar a qualidade que detinha quando “deu” o aval, isto é, a qualidade de sócio, de sócio-gerente ou de gerente é um pressuposto negocial que, em princípio, de acordo com a boa fé (art. 762.º/2 do C. Civil), vincula o “avalista” a não denunciar o “vínculo” enquanto mantiver a qualidade de sócio, de sócio-gerente ou de gerente26.
 
 Assim, quando a desvinculação ocorre no seguimento da saída de sócio do “avalista” (ou da saída de sócio e de gerente, caso fosse essa a sua dupla qualidade quando “deu” o aval), não haverá, via de regra, um exercício da denúncia contrário à boa-fé, importando neste ponto sublinhar, para que não haja equívocos interpretativos, que não se está a dizer que é a saída de sócio (ou de sócio-gerente) que fundamenta o exercido da denúncia pelo “avalista”, mas sim e apenas que a saída de sócio (ou de sócio-gerente) permite dizer que o exercício de denúncia foi conforme à boa-fé (que não houve abuso do direito de denúncia).
 
@@ -547,13 +555,13 @@ Entendimento este que não conduz a um resultado intolerável para os interesses
 
 Para o banco credor a melhor solução é naturalmente aquela que mantém os “prometidos avalistas” vinculados, porém, a questão está em saber se tal solução merece acolhimento no confronto com os legítimos interesses dos “prometidos avalistas”, designadamente quando estes se vincularam para aval na sua veste de sócios da sociedade emissora da livrança e deixaram de ser sócios e quando o banco credor tem ao seu alcance mecanismos suficientes à defesa dos seus interesses.
 
-Tendo a denúncia/desvinculação eficácia ex nunc e não ex tunc, mantém o banco as garantias relativamente ao crédito já concedido à sociedade; pelo que, projetando-se a perda de garantia sofrida com a desvinculação do “prometido avalista” apenas para o futuro, pode o banco credor invocar a reconfiguração da relação fundamental por forma a refletir a perda de garantia decorrente da desvinculação do “prometido avalista” (poderá invocar, para evitar a libertação de novas tranches pecuniárias, a exceção de não cumprimento, a resolução ou até a modificação do contrato de financiamento por alteração de circunstâncias) <sup>27</sup>.
+Tendo a denúncia/desvinculação eficácia ex nunc e não ex tunc, mantém o banco as garantias relativamente ao crédito já concedido à sociedade; pelo que, projetando-se a perda de garantia sofrida com a desvinculação do “prometido avalista” apenas para o futuro, pode o banco credor invocar a reconfiguração da relação fundamental por forma a refletir a perda de garantia decorrente da desvinculação do “prometido avalista” (poderá invocar, para evitar a libertação de novas tranches pecuniárias, a exceção de não cumprimento, a resolução ou até a modificação do contrato de financiamento por alteração de circunstâncias) 27.
 
 Se o não fizer, se desprezar as desvinculações manifestadas e conceder novos créditos à sociedade, sem ter o cuidado de exigir novas garantias, só poderá queixar-se de si próprio.
 
 E não se diga que a defendida denúncia/desvinculação pode dar cobertura aos mais diversos comportamentos fraudulentos dos subscritores em branco: repete-se mais uma vez, a denúncia/desvinculação só produz efeitos para o futuro, isto é, o que conta, no que toca à garantia prestada através de aval em branco, é o momento em que se verifica o facto legitimador do preenchimento, pelo que, sendo este anterior à denúncia/desvinculação, não releva o momento em que o título venha a ser preenchido, o que significa, no âmbito de um contrato de abertura de crédito, que o subscritor em branco que se desvinculou continua responsável por todas as quantias solicitadas antes da denúncia produzir os seus efeitos.
 
-O que não parece ser razoável é, no caso de avalistas sócios da sociedade emissora do título, permitir-se “que sujeitos que perderam a sua qualidade de sócios e se desligaram do funcionamento da sociedade possam vir a garantir com o seu património, muitos anos depois, financiamentos que não puderam conhecer nem controlar e de cujos efeitos em nada beneficiaram - quando esse conhecimento, controlo e benefício estiveram, justamente, na raiz da prestação da garantia” <sup>28</sup>: não é razoável o banco pretender manter vinculados ex-sócios já alheados da sociedade, assim como também não é razoável a sociedade continuar a beneficiar da garantia de sócios que, entretanto, deixaram a sociedade.
+O que não parece ser razoável é, no caso de avalistas sócios da sociedade emissora do título, permitir-se “que sujeitos que perderam a sua qualidade de sócios e se desligaram do funcionamento da sociedade possam vir a garantir com o seu património, muitos anos depois, financiamentos que não puderam conhecer nem controlar e de cujos efeitos em nada beneficiaram - quando esse conhecimento, controlo e benefício estiveram, justamente, na raiz da prestação da garantia” 28: não é razoável o banco pretender manter vinculados ex-sócios já alheados da sociedade, assim como também não é razoável a sociedade continuar a beneficiar da garantia de sócios que, entretanto, deixaram a sociedade.
 
 E, aqui chegados, aplicando o que vimos de afirmar ao caso dos autos, temos - concorda-se com o acórdão recorrido - que estamos perante um caso em que a faculdade de denúncia do vínculo (extra-cambiário - acordo de preenchimento) não pode deixar de ser reconhecida ao aqui embargante.
 
@@ -563,13 +571,13 @@ Sendo a relação fundamental e garantida um contrato que “funcionava em molde
 
 Sucedendo que, neste passo do raciocínio, o documento que formalizou a abertura de crédito celebrada apenas releva para perceber se o acordo/pacto de preenchimento tinha ou não prazo, em linha com o supra referido sobre o prazo do acordo/pacto de preenchimento “tanto poder resultar do próprio acordo/pacto de preenchimento como da própria relação fundamental (contrato de financiamento), sendo certo que, por regra, o acordo/pacto de preenchimento terá uma vigência em linha com o contrato de financiamento que justifica a relação de garantia, vinculando o “prometido avalista” por todo o prazo da relação fundamental.”
 
-Contrato de abertura de crédito que é, quanto aos limites temporais, “tipicamente celebrado por um determinado prazo, prorrogável ou não. Mas nada impedirá que o seja por tempo indeterminado, podendo qualquer das partes denunciar o contrato a todo o tempo, com uma antecedência razoável, nos termos gerais dos direitos dos contratos” <sup>29</sup>, ou seja, a partir das características da relação fundamental (contrato de financiamento), não conseguimos afirmar se o acordo/pacto de preenchimento tinha ou não prazo; mais exatamente, a partir da interligação entre o que, quanto aos limites temporais, caracteriza o contrato de financiamento e o acordo/pacto de preenchimento não conseguimos afirmar se este era sem prazo ou tinha prazo.
+Contrato de abertura de crédito que é, quanto aos limites temporais, “tipicamente celebrado por um determinado prazo, prorrogável ou não. Mas nada impedirá que o seja por tempo indeterminado, podendo qualquer das partes denunciar o contrato a todo o tempo, com uma antecedência razoável, nos termos gerais dos direitos dos contratos” 29, ou seja, a partir das características da relação fundamental (contrato de financiamento), não conseguimos afirmar se o acordo/pacto de preenchimento tinha ou não prazo; mais exatamente, a partir da interligação entre o que, quanto aos limites temporais, caracteriza o contrato de financiamento e o acordo/pacto de preenchimento não conseguimos afirmar se este era sem prazo ou tinha prazo.
 
 Com relevo para a existência ou não de prazo no acordo/pacto de preenchimento, observou-se no acórdão recorrido que, “em função da factualidade apurada, importa entender que o recorrente, enquanto avalista, denunciou válida e eficazmente o contrato de garantia e respetivo aval que conferiu à livrança exequenda, entendida tal denúncia como o modo típico de desvinculação nas relações contratuais duradouras celebradas por tempo indeterminado”, interpretação esta, por parte do Acórdão recorrido, de o recorrente se ter desvinculado de relações contratuais celebradas por tempo indeterminado, a que a exequente/recorrente nada contrapõe quanto ao que, no acórdão recorrido, se designa como “contrato de garantia”, dizendo inclusivamente que “o pacto de preenchimento dos autos não estabelece qualquer prazo pelo qual deve ser preenchida a livrança entregue em branco”.
 
 Vem tudo isto a propósito de, como supra se expôs, a desvinculação por denúncia ser possível no caso de o vínculo (acordo/pacto de preenchimento) não ter prazo ou ser com prazo e com cláusula de renovação automática, decorrido o período inicial de vigência, o que significa que tais características do vínculo são elementos constitutivos do direito potestativo de denúncia exercido pelo executado/embargante, pelo que, muito evidentemente, é o executado/embargante que tem o ónus de provar (art. 342.º/1 do C. Civil) tais características do vínculo.
 
-Características estas que, é certo, não foram devidamente trazidas aos autos, porém - dizendo o exequente/embargado que não juntou o contrato subjacente à livrança por não o ter localizado<sup>30</sup>, dizendo/interpretando o Acórdão recorrido que o executado/embargante se desvinculou de relações contratuais celebradas por tempo indeterminado e referindo a exequente/recorrente que o pacto de preenchimento dos autos não estabelece qualquer prazo - não repugnará respeitar a interpretação do Acórdão recorrido (“em função da factualidade apurada”, como lá se diz) e considerar que, no caso, o vínculo (acordo/pacto de preenchimento) não tinha prazo (o documento em que o embargante autoriza o preenchimento da livrança não contém, como resulta do ponto 8 dos factos, qualquer prazo e o contrato de abertura de crédito pode ser, como se mencionou, por tempo indeterminado).
+Características estas que, é certo, não foram devidamente trazidas aos autos, porém - dizendo o exequente/embargado que não juntou o contrato subjacente à livrança por não o ter localizado30, dizendo/interpretando o Acórdão recorrido que o executado/embargante se desvinculou de relações contratuais celebradas por tempo indeterminado e referindo a exequente/recorrente que o pacto de preenchimento dos autos não estabelece qualquer prazo - não repugnará respeitar a interpretação do Acórdão recorrido (“em função da factualidade apurada”, como lá se diz) e considerar que, no caso, o vínculo (acordo/pacto de preenchimento) não tinha prazo (o documento em que o embargante autoriza o preenchimento da livrança não contém, como resulta do ponto 8 dos factos, qualquer prazo e o contrato de abertura de crédito pode ser, como se mencionou, por tempo indeterminado).
 
 Pelo que foi a faculdade de se desvincular de um acordo/pacto de preenchimento sem prazo que o embargante exerceu, quando, em 30/03/2009, no seguimento da sua saída de sócio, “solicitou a substituição dos avais e responsabilidades assinados por mim [...], pois deixei de exercer qualquer função e controlo de gestão na Euronetworks”.
 
@@ -623,11 +631,11 @@ Com efeito, segundo o que se percepciona do entendimento explanado no acórdão,
 
 Considero, pois, que a viabilidade da solução jurídica seguida pela tese que fez vencimento imporia que a matéria factual fixada pelas instâncias permitisse, sustentadamente, classificar o acordo/pacto de preenchimento como não tendo prazo ou com prazo e com cláusula de renovação automática, decorrido o período inicial de vigência, por tais características do vínculo consubstanciarem elementos constitutivos do direito potestativo de denúncia exercido pelo executado/embargante.
 
-Com o devido respeito, para tal caracterização do vínculo mostra-se inútil o juízo conclusivo vertido no ponto n.º 13, sendo também inócuos os dados constantes dos pontos n.<sup>os</sup>1, 8, 9 e 22, mesmo que conjugados com a falta de alegação da recorrente sobre o tema (o que, em si mesmo, é desprovido de relevância).
+Com o devido respeito, para tal caracterização do vínculo mostra-se inútil o juízo conclusivo vertido no ponto n.º 13, sendo também inócuos os dados constantes dos pontos n.os1, 8, 9 e 22, mesmo que conjugados com a falta de alegação da recorrente sobre o tema (o que, em si mesmo, é desprovido de relevância).
 
 Entendo, pois, que a deficiência da factualidade essencial desautoriza que este tribunal, ao arrepio do comando contido no n.º 1 do artigo 682.º do Código de Processo Civil, labore sobre suposições que não encontram apoio na realidade fáctica fixada, ainda para mais quando se está perante matéria em revisitação de uma orientação jurisprudencial que tem sido seguida neste STJ.
 
-Assim, face à factualidade fixada (cf. pontos n.<sup>os</sup>18 e 19) e aos termos em que o executado sustenta a sua posição - desvinculação da sociedade garantida (a perda da qualidade de sócio e perda de poder influenciar a vida da sociedade) com inexistência de dívidas à data da desvinculação - a solução jurídica com maior cabimento será a que se compagina, no dizer de Carolina Cunha, com “a categoria jurídico-negocial da inexigibilidade” (desvinculação unilateral no âmbito do exercício de um direito de resolução traduzido na “faculdade reconhecida ao sócio-cedente por integração do acordo de preenchimento, segundo a vontade hipotética das partes e os ditames da boa fé impostos pelo art. 239.º CCiv”).
+Assim, face à factualidade fixada (cf. pontos n.os18 e 19) e aos termos em que o executado sustenta a sua posição - desvinculação da sociedade garantida (a perda da qualidade de sócio e perda de poder influenciar a vida da sociedade) com inexistência de dívidas à data da desvinculação - a solução jurídica com maior cabimento será a que se compagina, no dizer de Carolina Cunha, com “a categoria jurídico-negocial da inexigibilidade” (desvinculação unilateral no âmbito do exercício de um direito de resolução traduzido na “faculdade reconhecida ao sócio-cedente por integração do acordo de preenchimento, segundo a vontade hipotética das partes e os ditames da boa fé impostos pelo art. 239.º CCiv”).
 
 Este direito de desvinculação unilateral do pacto de preenchimento da livrança em branco pode ser enformado na figura da resolução com justa causa (com expressão normativa no artigo 30.º, alínea b), do DL [178/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1986-228268), de 03-07, reportada ao regime jurídico do contrato de agência), ou na figura da desvinculação com justa causa (revogabilidade do mandato), com expressão normativa no artigo 1170.º, do Código Civil, nos termos da solução preconizada pela Senhora Conselheira Maria Olinda Garcia na sua declaração de voto.
 
@@ -764,3 +772,5 @@ E pode, inclusivamente, o banco credor prever, no acordo de preenchimento, as co
 29 Januário Gomes, Contratos Comerciais, pág. 326.
 
 30 E o aqui embargante, que também o podia ter junto, deixou de ser sócio-gerente da contraparte da abertura de crédito (a sociedade financiada) em 30/03/2009, ou seja, quase 13 anos antes de ter sido citado para a execução.
+
+118527303

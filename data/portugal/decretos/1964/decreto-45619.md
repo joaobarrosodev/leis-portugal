@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45619-1964-470412
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-03-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:39:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: baf873ed6b8b7e3da42e1810583945b6b11d8b28644cc19f27735572edc4ba2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec1ca8e033060431491b74596dc2e7610a25ad3b5bb2359c2e6ba4fd6fe6114e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:39:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:563179:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:39:52Z'
   warnings: []
   errors: []
 ---
@@ -88,13 +92,13 @@ Atendendo às circunstâncias especiais verificadas em Timor, que não permitira
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º As vagas actualmente existentes nos lugares dos quadros dos correios, telégrafos e telefones da província de Timor podem ser preenchidas, nos termos do artigo 426.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, pelos agentes contratados, interinos ou assalariados à data da promulgação do mesmo decreto.
+Artigo 1.º As vagas actualmente existentes nos lugares dos quadros dos correios, telégrafos e telefones da província de Timor podem ser preenchidas, nos termos do artigo 426.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, pelos agentes contratados, interinos ou assalariados à data da promulgação do mesmo decreto.
 
-###### Art. 2.º Podem ser admitidos aos primeiros concursos a realizar para os lugares de operador, de radiotelegrafista de 3.ª classe e de aspirante administrativo, os actuais funcionários e outros agentes, permanentes ou eventuais, que tenham mais de dois anos de serviço, com boas informações e a 4.ª classe de instrução primária, os quais poderão ser nomeados para os lugares que lhes vierem a competir com dispensa dos limites de idade legalmente estabelecidos.
+Art. 2.º Podem ser admitidos aos primeiros concursos a realizar para os lugares de operador, de radiotelegrafista de 3.ª classe e de aspirante administrativo, os actuais funcionários e outros agentes, permanentes ou eventuais, que tenham mais de dois anos de serviço, com boas informações e a 4.ª classe de instrução primária, os quais poderão ser nomeados para os lugares que lhes vierem a competir com dispensa dos limites de idade legalmente estabelecidos.
 
-###### Art. 3.º Os indivíduos abrangidos pelo disposto nos artigos 1.º e 2.º não poderão ascender aos lugares do quadro comum dos serviços sem que obtenham entretanto as habilitações literárias mínimas exigidas para o ingresso nos quadros privativos.
+Art. 3.º Os indivíduos abrangidos pelo disposto nos artigos 1.º e 2.º não poderão ascender aos lugares do quadro comum dos serviços sem que obtenham entretanto as habilitações literárias mínimas exigidas para o ingresso nos quadros privativos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Março de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

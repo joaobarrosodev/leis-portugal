@@ -137,6 +137,38 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: cites
+  target: pt:dre:1031784677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1031784680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107561581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115879178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122393198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0

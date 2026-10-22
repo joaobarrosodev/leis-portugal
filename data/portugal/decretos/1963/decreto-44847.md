@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44847-1963-217739
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-01-08T00:00:00Z'
+  retrieved_at: '2026-10-22T19:33:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c2b5518a2b0254bb3448f5bc0b1cb525996d02bb2680689a68864b1b20a428f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f14a6d549361710e339d874d44ba18157999155a927a6985cd51ed97b127c67
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:33:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:179858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675784:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:33:22Z'
   warnings: []
   errors: []
 ---
@@ -87,8 +103,8 @@ Verificando-se a necessidade de manter nos anos de 1963 e 1964 o disposto nos ar
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. O disposto no artigo único do [Decreto n.º 40430](https://diariodarepublica.pt/dr/detalhe/decreto/40430-1955-246568), de 10 de Dezembro de 1955, prorrogado para o ano de 1962 pelo [Decreto n.º 43932](https://diariodarepublica.pt/dr/detalhe/decreto/43932-1961-179858), de 25 de Setembro de 1961, é ainda extensivo aos anos de 1963 e 1964.
+Artigo único. O disposto no artigo único do [Decreto n.º 40430](https://diariodarepublica.pt/dr/detalhe/decreto/40430-1955-246568), de 10 de Dezembro de 1955, prorrogado para o ano de 1962 pelo [Decreto n.º 43932](https://diariodarepublica.pt/dr/detalhe/decreto/43932-1961-179858), de 25 de Setembro de 1961, é ainda extensivo aos anos de 1963 e 1964.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 8 de Janeiro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Fernando Quintanilha Mendonça Dias.

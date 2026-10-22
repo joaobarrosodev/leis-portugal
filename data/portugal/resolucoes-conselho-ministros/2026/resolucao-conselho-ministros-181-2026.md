@@ -46,25 +46,31 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/181/2026/09/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/181-2026-1171535220
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-17T00:00:00Z'
+  retrieved_at: '2026-10-22T18:53:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7061a46fd2a1360af35c95b749bc46c6d39972a2b1b0c5a11e9e2e1ae5b07f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 098e6678e986245dad69e430e121d2e74aad6e8a17c64e4eb14a7c259440e740
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:53:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autoridade da Concorrência
+- Autoridade Nacional de Resíduos
+- Comissão de Acompanhamento
+- Estratégia TERRA+
+- Inspeção Geral da Agricultura do Mar do Ambiente e do Ordenamento do Território
+- Plano Estratégico para os Resíduos Urbanos
 relationships:
 - type: cites
   target: celex:31999L0031
@@ -90,16 +96,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:150908012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:897796612:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:53:20Z'
   warnings: []
   errors: []
 ---
@@ -400,12 +418,16 @@ Outros resíduos perigosos e não perigosos: prevenção da produção; estabele
 
 III - Tabela dos investimentos por Eixo de Ação
 
-| Eixo | Apoio ao investimento | Recursos próprios/ financiamento complementar | Investimento total |
+| Programa de Financiamento |  |  |  |
 | --- | --- | --- | --- |
-| Programa de Financiamento | Programa de Financiamento | Programa de Financiamento | Programa de Financiamento |
+| Eixo | Apoio ao investimento | Recursos próprios/ financiamento complementar | Investimento total |
 | 1. Prevenção e economia circular: | 82 000 000 € | 14 000 000 € | 96 000 000 € |
 | 2. Separação e recolha seletiva | 385 000 000 € | 197 000 000 € | 582 000 000 € |
 | 3. Separação e recolha de biorresíduos | 527 000 000 € | 95 000 000 € | 622 000 000 € |
 | 4. Preparação para a reutilização, reciclagem multimaterial e valorização orgânica | 425 000 000 € | 245 000 000 € | 670 000 000 € |
 | 5. Modernização tecnológica | 225 000 000 € | 105 000 000 € | 330 000 000 € |
 | Total | 1 644 000 000 € | 656 000 000 € | 2 300 000 000 € |
+
+119949577
+
+.Tbl2 { min-height:17px; } .Tbl3 { background-color:rgb(218,242,208); } .Tbl4 { text-align:center; } .Tbl5 { min-height:26px; } .Tbl6 { min-height:18px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(218,242,208); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl10 { min-height:28px; } .Tbl11 { margin-left:99px; }

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/7/2003/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-2003-545841
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:02:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99068502382d24cadf4b427f16b76602f7b3232e1504d20f468bdef1c375069c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b7c298e30ba95730b0dad4150860ac5af9354390c86c94134bf413f699aa045
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:02:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Comissão Nacional do Rendimento Social de Inserção
 - Definição de Competências
+- Financiamento
 - Prestações da Segurança Social
-- Rendimento Social de Inserção
 - Proteção Social
+- Rendimento Social de Inserção
 - Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:178491:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:245296:por
+  label: "Alterados os artigos 1.º, 3.º, 4.º, 5.º, 6.º, 15.º, 17.º, 18.º, 21.º, 22.º, 25.º, 28.º e 34.º, revogados os arts.\
+    \ 7º e 13º, todos da Lei n.º 13/2003, de 21 de Maio, rectificada e republicada pela presente Declaração, pela LEI.45/2005.29.08.2005.AR,\
+    \ DR.IS-A [165] de 29.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/45-2005-245296
+  date: '2005-08-29'
+- type: amended_by
+  target: pt:dre:335683:por
+  label: "Alterados, a partir de 01.08.2010, os arts. 6º, 10º, 15º, 22º, 29º e 30º, aditado o art. 18º-A e revogados os arts.\
+    \ 5º, 11º, 12º, o nº3 do art. 15º e o art. 19º, todos da Lei n.º 13/2003, de 21-Maio, rectificada e republicada pela presente\
+    \ Declaração, pelo DEC LEI.70/2010.16.06.2010.MTSSO, DR.IS [115] de 16.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2010-335683
+  date: '2010-06-16'
+- type: amended_by
+  target: pt:dre:178491:por
+  label: "Alterados, a partir de 01.07.2012, e nos termos do nº 6 do art. 16º, os arts. 2º a 6º, 9º, 10º, 15º a 18º-A, 20º,\
+    \ 21º, 22º, 25º, 26º, 28º, 29º, 30º, 34º a 37º, 39º, 40º, 42º e 43º, aditados os arts. 6º-A, 15º-A, 15º-B, 15º-C, 15º-D,\
+    \ 15º-E, 15º-F, 15º-G, 15º-H, 15º-I, 15º-J, 21º-A, 21º-B, 21º-C, 22º-A, 31º-A e 32º-A, e revogados os nºs. 2, 4 e 5 do\
+    \ art. 15º, os nºs. 2, 3, 6 e 7 do art. 17., os nºs. 2 e 3 do art. 18º, o nº 2 do art. 24º, os arts. 26º e 28º, o nº1\
+    \ do art. 29º, o nº 1 do art. 30º, os arts. 34. a 36º, 39º, 40º e 42º da Lei 13/2003, de 21-maio DR. IS-A [117], republicada\
+    \ pelo presente diploma, pelo DEC LEI.133/2012.27.06.2012.MSSSOC, DR.IS [123] de 27.06.2012, que procede à sua republicação\0\
+    cação\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-2012-178491
+  date: '2012-06-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/119/1999/04/14/p/dre
   label: null
@@ -98,16 +123,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/19-a/1996/06/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/19-a/1996/06/29/p/dre
+- type: cites
+  target: pt:dre:142111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544611:por
+  label: null
+  source: null
 article_structure:
   article_count: 44
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:02:46Z'
   warnings: []
   errors: []
 ---
@@ -524,16 +569,16 @@ A presente lei entra em vigor 30 dias após a sua publicação.
 
 Aprovada em 10 de Abril de 2003.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
-**Promulgada em 9 de Maio de 2003.**
+Promulgada em 9 de Maio de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendada em 12 de Maio de 2003.**
+Referendada em 12 de Maio de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 Assembleia da República, 21 de Maio de 2003. - A Secretária-Geral, Isabel Corte-Real.

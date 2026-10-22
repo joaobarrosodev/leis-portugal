@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/15/2026/08/05/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2026-1154555181
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T18:49:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 214d61184a6eae014e1c3ec6118923bbe4f18d62800b1ffdb49d10360da1d0eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d8f5dd7b9d66d1fff06d9386c0018659624403aea8fe60a3df0a6951e5eaf6fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:49:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Governo Regional
-- Regulamentação de Atos Legislativos
+- Açores
 - Arborização
-- Fiscalização
-- Ilha do Corvo
-- Plano de Gestão Florestal
-- Parque Natural
+- Contraordenação
 - Diversidade Biológica
 - Espécie Protegida
+- Fiscalização
 - Gestão do Ambiente
+- Governo Regional
+- Ilha do Corvo
+- Ordenamento do Território
+- Parque Natural
+- Plano de Gestão Florestal
+- Regulamentação de Atos Legislativos
 - Regulamento
 - Relatório
-- Açores
-- Contraordenação
 relationships:
 - type: cites
   target: celex:31991L0676
@@ -133,6 +133,118 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:122373686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207881792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208326768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:64797341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70014797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74711478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75170439:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31991L0676
   label: null
@@ -148,13 +260,13 @@ relationships:
 article_structure:
   article_count: 27
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:49:17Z'
   warnings: []
   errors: []
 ---
@@ -231,11 +343,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 13 de maio de 2026.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 8 de julho de 2026.**
+Assinado em Angra do Heroísmo em 8 de julho de 2026.
 
-**Publique-se.**
+Publique-se.
 
 A Representante da República para a Região Autónoma dos Açores, Susana Goulart Costa.
 
@@ -561,13 +673,15 @@ O presente regulamento não prejudica os pedidos de autorização ou licenciamen
 
 Planta de Zonamento
 
-![](https://files.diariodarepublica.pt/images/1154555181/1154555123.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555181/1154555123.png) |
+| --- |
 
 ## ANEXO III — [a que se refere a alínea c) do n.º 1 do artigo 1.º]
 
 Planta de Condicionantes
 
-![](https://files.diariodarepublica.pt/images/1154555181/1154555124.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555181/1154555124.png) |
+| --- |
 
 ## ANEXO IV — [a que se refere a alínea d) do n.º 1 do artigo 1.º]
 
@@ -617,13 +731,15 @@ ANEXOS
 
 O Arquipélago dos Açores localiza-se no oceano Atlântico norte ocupando uma faixa definida pelas seguintes coordenadas geográficas: 39° 43’ 23’’ (Ponta Norte - Ilha do Corvo) e 36° 55’ 43’’ (Ponta do Castelo - Ilha de Santa Maria) de latitude norte; 24° 46’ 15’’ (Ilhéus das Formigas - Ilha de Santa Maria) e 31° 16’ 24’’ (Ilhéu de Monchique - Ilha das Flores) de longitude oeste.
 
-![](https://files.diariodarepublica.pt/images/1154555181/1154555125.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555181/1154555125.png) |
+| --- |
 
 Figura 1 - Arquipélago dos Açores no mundo.
 
 As ilhas encontram-se agrupadas atendendo à proximidade geográfica: Grupo Ocidental (Corvo e Flores); Grupo Central (Terceira, Graciosa, São Jorge, Pico e Faial); Grupo Oriental (São Miguel e Santa Maria). O Grupo Central distancia-se cerca de 150 km e de 240 km dos Grupos Oriental e Ocidental, respetivamente.
 
-![](https://files.diariodarepublica.pt/images/1154555181/1154555126.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555181/1154555126.png) |
+| --- |
 
 Figura 2 - Arquipélago dos Açores e Ilha do Corvo.
 
@@ -631,19 +747,22 @@ Analisando a ocupação do solo com o nível máximo de desagregação da COS.A/
 
 Importa referir que a ilha do Corvo tem a particularidade de ter a maior percentagem de ocupação de áreas de gestão de resíduos [0,18 %], lagoas [1,89 %] e rocha nua [3,44 %] da Região Autónoma dos Açores, tendo em conta a sua dimensão. As subclasses com menor expressão correspondem a áreas portuárias e a praias que assumem 0,03 % e 0,04 % do território, respetivamente, representando valores abaixo da média regional.
 
-![](https://files.diariodarepublica.pt/images/1154555181/1154555127.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555181/1154555127.png) |
+| --- |
 
 Figura 3 - Usos do solo a partir da COSA (DRA 2018).
 
 Para a adequada gestão dos Parques Naturais de Ilha (PNI) é também fundamental ter conhecimento do regime de propriedade dos terrenos neles integrados. Nos Açores, uma parte substancial dos terrenos públicos estão integrados nos perímetros florestais, pelo que se apresenta o perímetro florestal mais recente. O Perímetro Florestal representa cerca de 46 % do Parque Natural de Ilha do Corvo, e é constituído por um conjunto de terrenos baldios que foram submetidos ao Regime Florestal Parcial. A gestão destas áreas públicas nos Açores é da responsabilidade da Direção Regional dos Recursos Florestais e Ordenamento Territorial (DRRFOT), sendo este departamento governamental que, integrado na Secretaria Regional da Agricultura e Alimentação, tem como missão contribuir para a definição da política regional nos domínios da gestão e proteção dos recursos florestais, cinegéticos e piscícolas das águas interiores, bem como orientar, coordenar e controlar a sua execução. Refira-se, no entanto, que as áreas de perímetro florestal que, entretanto, foram classificadas no âmbito da Rede de Áreas Protegidas dos Açores estão sujeitas ao respetivo regime de classificação e ao regime jurídico da conservação da natureza e da biodiversidade, estabelecido pelo Decreto Legislativo Regional n.º [15/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2012-553893), de 2 de abril.
 
-![](https://files.diariodarepublica.pt/images/1154555181/1154555128.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555181/1154555128.png) |
+| --- |
 
 Figura 4 - Perímetro florestal e áreas protegidas (perímetro florestal - DRRF, 2014).
 
 O regime jurídico da conservação da natureza e da biodiversidade, aprovado pelo Decreto Legislativo Regional n.º [15/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2012-553893), de 2 de abril, define a Rede Fundamental de Conservação da Natureza como o conjunto dos territórios orientados para a conservação das componentes mais representativas do património natural e da biodiversidade. O conjunto das áreas integradas no Parque Natural de Ilha, Rede Natura 2000 e as áreas de Reserva Ecológica e de Reserva Agrícola conformam a Rede Fundamental da Conservação da Natureza (figura 5).
 
-![](https://files.diariodarepublica.pt/images/1154555181/1154555129.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555181/1154555129.png) |
+| --- |
 
 Figura 5 – Rede Fundamental da Conservação da Natureza – Integra as áreas protegidas, as áreas da Rede Natura 2000, a Reserva Ecológica e a Reserva Agrícola (IROA 2013).
 
@@ -663,15 +782,16 @@ Este Plano de Gestão contribui para a concretização desses objetivos.
 
 Para a ilha do Corvo são consideradas quatro unidades de paisagem, a seguir identificadas com a respetiva denominação e código:
 
-a) Arribas (C1) - abrange uma área de, aproximadamente, 5 km<sup>2</sup> e não integra aglomerados urbanos;
+a) Arribas (C1) - abrange uma área de, aproximadamente, 5 km2 e não integra aglomerados urbanos;
 
-b) Caldeirão (C2) - abrange uma área de, aproximadamente, 3 km<sup>2</sup> e não integra aglomerados urbanos;
+b) Caldeirão (C2) - abrange uma área de, aproximadamente, 3 km2 e não integra aglomerados urbanos;
 
-c) Encosta Oriental (C3) - abrange uma área de, aproximadamente, 8 km<sup>2</sup> e não integra aglomerados urbanos;
+c) Encosta Oriental (C3) - abrange uma área de, aproximadamente, 8 km2 e não integra aglomerados urbanos;
 
-d) Vila do Corvo (C4) - abrange uma área de, aproximadamente, 1 km<sup>2</sup> e integra o centro urbano da Vila do Corvo.
+d) Vila do Corvo (C4) - abrange uma área de, aproximadamente, 1 km2 e integra o centro urbano da Vila do Corvo.
 
-![](https://files.diariodarepublica.pt/images/1154555181/1154555130.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555181/1154555130.png) |
+| --- |
 
 Figura 6 – Unidades de Paisagem da ilha do Corvo.
 
@@ -679,21 +799,24 @@ PNI do Corvo foi criado em 2008, pelo [Decreto Legislativo Regional n.º 44/2008
 
 Integram o PNI do Corvo as áreas classificadas da Rede Natura 2000, nomeadamente a Zona Especial de Conservação (ZEC) Costa e Caldeirão e a Zona de Proteção Especial (ZPE) Costa e Caldeirão, e as restantes áreas protegidas classificadas pelo referido decreto.
 
-O PNI do Corvo integra 2 áreas protegidas, das quais uma é terrestre com uma área total de 7,7 km<sup>2</sup>, o que corresponde a 45,4 % da superfície do Corvo, e uma área marinha com uma área total de 257,3 km<sup>2</sup>. Na figura 7 apresentam-se as áreas protegidas do PNI com o respetivo código, atribuído pelo diploma de classificação.
+O PNI do Corvo integra 2 áreas protegidas, das quais uma é terrestre com uma área total de 7,7 km2, o que corresponde a 45,4 % da superfície do Corvo, e uma área marinha com uma área total de 257,3 km2. Na figura 7 apresentam-se as áreas protegidas do PNI com o respetivo código, atribuído pelo diploma de classificação.
 
-![](https://files.diariodarepublica.pt/images/1154555181/1154555131.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555181/1154555131.png) |
+| --- |
 
 Figura 7 - Áreas protegidas do PNI Corvo.
 
 Na figura 8 apresentam-se as áreas protegidas pertencentes ao PNI do Corvo discriminadas segundo as categorias definidas pela União Internacional para a Conservação da Natureza (IUCN): à categoria iv corresponde a designação de Área Protegida para a Gestão de Habitats e Espécies e à categoria vi a designação de Área Protegida de Gestão de Recursos.
 
-![](https://files.diariodarepublica.pt/images/1154555181/1154555132.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555181/1154555132.png) |
+| --- |
 
 Figura 8 - Áreas protegidas de acordo com as categorias IUCN.
 
 Na figura 9 mostra-se a relação da área terrestre do PNI do Corvo com as áreas da Rede Natura 2000, concretamente a Zona Especial de Conservação (ZEC) e a Zona de Proteção Especial (ZPE).
 
-![](https://files.diariodarepublica.pt/images/1154555181/1154555133.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555181/1154555133.png) |
+| --- |
 
 Figura 9 - Relação da Zona Especial de Conservação (ZEC) e da Zona de Proteção Especial (ZPE) com a área protegida terrestre do PNI.
 
@@ -723,7 +846,8 @@ E tem ainda que apresentar um modelo de governação e um plano de ação/gestã
 
 Esta classificação não colide com as Áreas Protegidas ou com a Rede Natura 2000, pois é complementar e beneficia do trabalho que aí se desenvolve, nomeadamente ao nível da conservação da biodiversidade.
 
-![](https://files.diariodarepublica.pt/images/1154555181/1154555134.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555181/1154555134.png) |
+| --- |
 
 Figura 10 - Relação das zonas da Reserva da Biosfera com as áreas protegidas do PNI.
 
@@ -752,11 +876,12 @@ Os objetivos gerais do Plano de Gestão são balizados pelos objetivos de desenv
 
 A metodologia seguida na elaboração deste Plano de Gestão encontra-se esquematizada na figura 11.
 
-![](https://files.diariodarepublica.pt/images/1154555181/1154555135.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555181/1154555135.png) |
+| --- |
 
 Figura 11 - Metodologia usada na elaboração do Plano de Gestão.
 
-Para a área protegida, houve lugar à elaboração de uma ficha de caracterização que inclui uma descrição geral, de habitats, flora e fauna protegidos <sup>1</sup>. Os usos do solo e a componente cultural e social da paisagem são também abordados.
+Para a área protegida, houve lugar à elaboração de uma ficha de caracterização que inclui uma descrição geral, de habitats, flora e fauna protegidos 1. Os usos do solo e a componente cultural e social da paisagem são também abordados.
 
 Procedeu-se à elaboração de um diagnóstico que incluiu uma análise SWOT, aspetos relativos à vulnerabilidade da área protegida, habitats e espécies e medidas de gestão que se encontram já a ser implementadas ou cuja implementação se verifica necessária.
 
@@ -764,7 +889,7 @@ Cada área protegida foi objeto de um zonamento em que se procedeu a uma subdivi
 
 Para cada área protegida, estabeleceram-se objetivos e medidas de gestão. Os objetivos abrangem toda a área protegida e decorrem dos decretos legislativos regionais que deram origem ao estabelecimento das mesmas, no entanto são direcionados já aos valores presentes na área protegida em questão. As medidas de gestão são próprias de cada unidade operativa de gestão e estão já direcionadas para a conservação, recuperação e gestão de determinados habitats, espécies, elementos geológicos ou paisagens. Podem ser efetivamente implementadas no terreno e são passíveis de ser avaliadas e monitorizadas. Estes elementos são incluídos em tabelas e constituem o programa de execução para cada área protegida.
 
-<sup>1</sup> Os critérios que presidiram à inclusão dos habitats e espécies nas fichas de caracterização das áreas protegidas são os seguintes: em primeiro lugar teve-se em conta os habitats e espécies integrados nas FDN - Standart Data Form da Rede Natura 2000 - Fichas de caracterização das áreas de Rede Natura 2000 (ZEC e ZPE) regularmente submetidas à Comissão Europeia. Estas fichas são atualizadas com a informação científica mais recente, as que estão a ser utilizadas são na generalidade de 2015; em segundo lugar teve-se em conta os levantamentos bibliográficos e formulários preenchidos pelo pessoal técnico do PNI respeitantes às áreas protegidas; em terceiro lugar a informação recolhida aquando dos levantamentos de campo.
+1 Os critérios que presidiram à inclusão dos habitats e espécies nas fichas de caracterização das áreas protegidas são os seguintes: em primeiro lugar teve-se em conta os habitats e espécies integrados nas FDN - Standart Data Form da Rede Natura 2000 - Fichas de caracterização das áreas de Rede Natura 2000 (ZEC e ZPE) regularmente submetidas à Comissão Europeia. Estas fichas são atualizadas com a informação científica mais recente, as que estão a ser utilizadas são na generalidade de 2015; em segundo lugar teve-se em conta os levantamentos bibliográficos e formulários preenchidos pelo pessoal técnico do PNI respeitantes às áreas protegidas; em terceiro lugar a informação recolhida aquando dos levantamentos de campo.
 
 3 - Objetivos Estratégicos e Matriz SWOT
 
@@ -1056,7 +1181,7 @@ Tabela 5 - Tipos de medidas de gestão e códigos correspondentes
 
 5.1 - Proposta de intervenção para a Área Protegida para a Gestão de Habitats ou Espécies da Costa e Caldeirão do Corvo (COR01)
 
-| Condicionantes | Condicionantes |
+| Condicionantes |  |
 | --- | --- |
 | Plano de Ordenamento da Orla Costeira | Área Proteção e Reservas do Património, Solos e Espécies |
 | Plano Diretor Municipal | Leitos e Margens das Lagoas |
@@ -1065,12 +1190,12 @@ Tabela 5 - Tipos de medidas de gestão e códigos correspondentes
 | Conservação da Natureza | ZEC PTCOR0001 - Costa e Caldeirão |
 |  | ZPE PTZPE0020 - Costa e Caldeirão |
 |  | Sítio Ramsar n.º 1800 - Caldeirão do Corvo |
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| Unidades Operativas de Gestão |  |
 | COR01.01 - Ilhéus Ponta do Marco | Área de proteção integral (1,98 ha) |
 | COR01.02 - Caldeirão | Área de proteção parcial (380 ha) |
 | COR01.03 - Falésia | Área prioritária para a conservação (380 ha) |
 | COR01.04 - Coroa do Pico | Área de uso sustentável dos recursos (15,98 ha) |
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| Elementos de fruição da paisagem |  |
 | Trilhos |  |
 | PR01COR Trilho «Cara do Índio» | Manutenção |
 | PRC02COR- Trilho «Caldeirão» | Manutenção |
@@ -1100,21 +1225,21 @@ OB8. Monitorizar e remover, sempre que necessário, as espécies de flora invaso
 
 5.1.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial |
-| COR01.01 | M1.1. |  |  |  |  | M3.7. |  |  |  |  | M4.21. |  |  |  | M6.8. | M6.9. |  |
-| COR01.02 | M1.1. |  | M.2.10. | M.2.15. |  | M.3.7 | M.3.7 | M.3.11. | M.3.14. | M.3.17. | M4.6. | M4.9. | M4.10. |  | M6.8. | M6.9. |  |
-| COR01.03 | M1.1. |  | M2.12. |  |  |  |  |  |  |  |  |  |  |  | M6.3. | M6.9. |  |
-| COR01.04 | M1.1. |  | M2.10. |  |  | M3.1. | M3.1. | M3.2. | M3.8. |  |  |  |  |  | M6.18. |  |  |
+| Medidas de Gestão |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Unidade Operativa de Gestão | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial |  |  |  |  |  |  |  |  |  |  |  |
+| COR01.01 | M1.1. |  |  | M3.7. |  | M4.21. |  | M6.8. | M6.9. |  |  |  |  |  |  |  |
+| COR01.02 | M1.1. |  | M.2.10. | M.2.15. |  | M.3.7 | M.3.11. | M.3.14. | M.3.17. | M4.6. | M4.9. | M4.10. |  | M6.8. | M6.9. |  |
+| COR01.03 | M1.1. |  | M2.12. |  |  |  | M6.3. | M6.9. |  |  |  |  |  |  |  |  |
+| COR01.04 | M1.1. |  | M2.10. |  | M3.1. | M3.2. | M3.8. |  |  | M6.18. |  |  |  |  |  |  |
 
-| Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão |
+| Medidas de Gestão |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, captura e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, captura e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, captura e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, captura e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, captura e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, captura e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, captura e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, captura e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, captura e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, captura e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M9 - Medidas relacionadas com uso espacial dos recursos | M9 - Medidas relacionadas com uso espacial dos recursos |
+| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, captura e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M9 - Medidas relacionadas com uso espacial dos recursos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | COR01.01 | M7.2. | M7.3. | M7.7. | M7.10. | M7.11. | M7.18. | M7.22. |  |  |  |  |  |  |  |  |  |  |
 | COR01.02 | M7.3. | M7.4. | M7.10. | M7.11. | M7.13. | M7.16. | M7.17. | M7.18. | M7.24. | M7.33. | M8.10. | M8.12. | M8.25. | M8.28. |  | M9.5. |  |
-| COR01.03 | M7.2. | M7.3. | M7.8. | M7.17. | M7.18. | M7.33. |  |  |  |  | M8.44. |  |  |  |  |  |  |
-| COR01.04 | M7.2. | M7.3. | M7.8. | M7.15. | M7.26. |  |  |  |  |  | M8.20. | M8.39. | M8.41. | M8.44. | M8.50. | M9.5. |  |
+| COR01.03 | M7.2. | M7.3. | M7.8. | M7.17. | M7.18. | M7.33. |  | M8.44. |  |  |  |  |  |  |  |  |  |
+| COR01.04 | M7.2. | M7.3. | M7.8. | M7.15. | M7.26. |  | M8.20. | M8.39. | M8.41. | M8.44. | M8.50. | M9.5. |  |  |  |  |  |
 
 5.1.3 - Medidas de gestão
 
@@ -1210,7 +1335,8 @@ O resultado das ações de monitorização do grau de concretização do Plano d
 
 Tendo em conta os macro objetivos, domínios e subdomínios definidos para a Região Autónoma dos Açores, o modelo de gestão territorial definido para os Planos de Gestão dos Parques Naturais de Ilha é o seguinte:
 
-![](https://files.diariodarepublica.pt/images/1154555181/1154555136.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555181/1154555136.png) |
+| --- |
 
 6.2 - Indicadores
 
@@ -1670,3 +1796,7 @@ Tabela 10 - Listagem de espécies de artrópodes na área protegida do PNI Corvo
 | Xanthorhoe inaequata | X |
 
 APGHECCC - Área Protegida para a Gestão de Habitats ou Espécies da Costa e Caldeirão do Corvo
+
+119949003
+
+.Tbl1 { border-collapse:collapse; border-width:1px; border-color:rgb(166,166,166); border-style:dotted; } .Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(255,255,255); border-top-color:rgb(255,255,255); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(255,255,255); border-bottom-width:1px; background-color:rgb(0,0,0); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(255,255,255); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(255,255,255); border-top-color:rgb(255,255,255); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(255,255,255); border-bottom-width:1px; background-color:rgb(0,0,0); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(255,255,255); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(255,255,255); border-top-color:rgb(255,255,255); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(255,255,255); border-bottom-width:1px; background-color:rgb(0,0,0); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(255,255,255); border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:114px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(255,255,255); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(255,255,255); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(255,255,255); border-top-color:rgb(255,255,255); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(255,255,255); border-bottom-width:1px; background-color:rgb(84,84,84); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(255,255,255); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(255,255,255); border-top-color:rgb(255,255,255); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(255,255,255); border-bottom-width:1px; background-color:rgb(84,84,84); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(255,255,255); border-left-style:solid; vertical-align:top; } .Tbl12 { min-height:49px; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(255,255,255); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(255,255,255); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl16 { border-collapse:collapse; border-width:1px; border-color:rgb(126,126,126); border-style:dotted; } .Tbl17 { min-height:175px; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl19 { text-align:justify; text-align-last:justify; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl21 { min-height:75px; } .Tbl22 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(0,0,0); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(255,255,255); border-left-style:solid; vertical-align:middle; } .Tbl23 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(255,255,255); border-bottom-width:1px; background-color:rgb(0,0,0); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl24 { min-height:451px; } .Tbl25 { height:26px; } .Tbl26 { min-height:18px; } .Tbl27 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl28 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl29 { min-height:29px; } .Tbl30 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl31 { min-height:66px; } .Tbl32 { min-height:56px; } .Tbl33 { min-height:82px; } .Tbl34 { min-height:45px; } .Tbl35 { min-height:98px; } .Tbl36 { min-height:92px; } .Tbl37 { min-height:108px; } .Tbl38 { min-height:68px; } .Tbl39 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(84,84,84); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl40 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl41 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(76,76,76); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl42 { min-height:28px; } .Tbl43 { min-height:19px; } .Tbl44 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(89,89,89); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl45 { min-height:27px; } .Tbl46 { min-height:17px; } .Tbl47 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(0,0,0); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl48 { min-height:25px; } .Tbl49 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl50 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl51 { min-height:20px; } .Tbl52 { min-height:21px; } .Tbl53 { min-height:24px; } .Tbl54 { min-height:22px; } .Tbl55 { min-height:13px; } .Tbl56 { height:17px; } .Tbl57 { border-bottom-color:rgb(255,255,255); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(0,0,0); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl58 { height:34px; } .Tbl59 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(255,255,255); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(0,0,0); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl60 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(255,255,255); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl61 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(255,255,255); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl62 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(218,150,148); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl63 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl64 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(250,191,143); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl65 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(194,214,155); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl66 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl67 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(217,149,148); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl68 { min-height:48px; } .Tbl69 { min-height:38px; } .Tbl70 { min-height:64px; } .Tbl71 { min-height:54px; } .Tbl72 { min-height:83px; } .Tbl73 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(0,0,0); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(255,255,255); border-left-style:solid; vertical-align:middle; } .Tbl74 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(255,255,255); border-bottom-width:1px; background-color:rgb(0,0,0); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl75 { min-height:43px; } .Tbl76 { min-height:53px; } .Tbl77 { min-height:33px; }

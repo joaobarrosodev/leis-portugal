@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44069-1961-185086
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-12-04T00:00:00Z'
+  retrieved_at: '2026-10-22T19:27:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91af878cdd2f3d230f9c7bcb5678f79fc9a6f3e5ddb7ab843de6d61722b49fb5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4842cd1c1d696b03dc7efa4f750e6567ee1587cfc6bd130d8b73e1938955c6f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:27:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:281607:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:27:00Z'
   warnings: []
   errors: []
 ---
@@ -90,23 +94,23 @@ Considerando, por outro lado, que não é ainda o momento oportuno de o mesmo de
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os corpos dos artigos 16.º, 32.º e 38.º do [Decreto n.º 42937](https://diariodarepublica.pt/dr/detalhe/decreto/42937-1960-281607), de 22 de Abril de 1960, passam a ter a seguinte redacção:
+Artigo 1.º Os corpos dos artigos 16.º, 32.º e 38.º do [Decreto n.º 42937](https://diariodarepublica.pt/dr/detalhe/decreto/42937-1960-281607), de 22 de Abril de 1960, passam a ter a seguinte redacção:
 
-###### Art. 16.º Na aplicação da escala geral para nomeações por imposição de serviço devem estas recair nos oficiais de menor antiguidade.
+Art. 16.º Na aplicação da escala geral para nomeações por imposição de serviço devem estas recair nos oficiais de menor antiguidade.
 
-###### Art. 32.º Na aplicação da respectiva escala geral para nomeações por imposição de serviço devem estas recair nos oficiais e aspirantes a oficial de menor antiguidade.
+Art. 32.º Na aplicação da respectiva escala geral para nomeações por imposição de serviço devem estas recair nos oficiais e aspirantes a oficial de menor antiguidade.
 
-###### Art. 38.º Na aplicação da escala geral para nomeações por imposição de serviço devem estas recair nos sargentos de menor antiguidade.
+Art. 38.º Na aplicação da escala geral para nomeações por imposição de serviço devem estas recair nos sargentos de menor antiguidade.
 
-###### Art. 2.º O n.º 3.º dos artigos 22.º e 35.º do decreto referido no artigo anterior passa a ter a seguinte redacção:
+Art. 2.º O n.º 3.º dos artigos 22.º e 35.º do decreto referido no artigo anterior passa a ter a seguinte redacção:
 
 3.º Pagamento, pelo Ministério do Exército, da pensão que queiram deixar na metrópole, desde que a mesma não exceda dois terços dos seus vencimentos.
 
 A pensão é autorizada mediante declaração do interessado e destina-se quer às pessoas de família, quer à satisfação de compromissos que tenha contraído.
 
-###### Art. 3.º Fica sem efeito o disposto no § 3.º dos artigos 16.º e 38.º e bem assim o disposto no n.º 1.º do § 1.º do artigo 32.º, todos do [Decreto n.º 42937](https://diariodarepublica.pt/dr/detalhe/decreto/42937-1960-281607), de 22 de Abril de 1960.
+Art. 3.º Fica sem efeito o disposto no § 3.º dos artigos 16.º e 38.º e bem assim o disposto no n.º 1.º do § 1.º do artigo 32.º, todos do [Decreto n.º 42937](https://diariodarepublica.pt/dr/detalhe/decreto/42937-1960-281607), de 22 de Abril de 1960.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Dezembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Adriano José Alves Moreira.
 

@@ -48,25 +48,33 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/15/2026/08/17/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2026-1159105704
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-17T00:00:00Z'
+  retrieved_at: '2026-10-22T18:50:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d21b81d040c8b6310e4718aa4bc50150fcf661990736ce454a72088403b9a343
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 761a7fde15a8a52fb323fc3f5bdbb61d1205d9282367cebfb9916a13e9009589
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:50:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Associação de PAIS
+- Encarregado de Educação
+- Faltas
+- Interesse Público
+- Órgãos Sociais
+- Regime Jurídico
+- VIDA Associativa
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/80/1999/03/16/p/dre
@@ -84,16 +92,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/40/2007/08/24/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/40/2007/08/24/p/dre
+- type: cites
+  target: pt:dre:144996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213761240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640908:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:50:48Z'
   warnings: []
   errors: []
 ---
@@ -190,7 +218,7 @@ c) Mais de 1000 associados: dois dias por mês.
 
 4 - A utilização do crédito faz-se mediante a apresentação de documento comprovativo de presença ou participação na atividade que deu origem à falta.
 
-5 - Às faltas para representação e execução do plano de atividades das associações e federações aplica-se o disposto nos n.<sup>os</sup>3, 6 e 7 do artigo anterior.
+5 - Às faltas para representação e execução do plano de atividades das associações e federações aplica-se o disposto nos n.os3, 6 e 7 do artigo anterior.
 
 ###### Artigo 6.º — Garantia de direitos no contexto da participação parental
 
@@ -262,10 +290,12 @@ O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua pub
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 7 de julho de 2026.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 10 de agosto de 2026.**
+Assinado em Angra do Heroísmo em 10 de agosto de 2026.
 
-**Publique-se.**
+Publique-se.
 
 A Representante da República para a Região Autónoma dos Açores, Susana Goulart Costa.
+
+119949319

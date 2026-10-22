@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/48/2005/06/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/48-2005-226829
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-06-15T00:00:00Z'
+  retrieved_at: '2026-10-22T19:05:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a78ffb17b345498411aa31a77c135cd6db9089945d38e0b34a54468199b5679
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 013f3bd27a1bde3fd006458f3383382eaa5dda6cd6ebfde4f7c7c7be025acebf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:05:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Ajuda Comunitária
-- Doença Animal
+- Apicultura
+- Comércio
 - Comissão de Acompanhamento
-- Direção Geral de Veterinária
 - Definição de Competências
+- Direção Geral de Veterinária
 - Direcção Regional de Agricultura
 - Direcção Regional de Desenvolvimento Agrário
+- Doença Animal
 - Instituto Nacional de Intervenção e Garantia Agrícola
-- Produção
-- Apicultura
 - Madeira.região Autónoma
-- Açores
-- Comércio
+- Produção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/30/2005/05/06/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/30/2005/05/06/p/dre
+- type: cites
+  target: pt:dre:534992:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:despacho-normativo:30/2005
+  label: "Rectifica o Despacho Normativo n.º 30/2005, de 6 de Maio, DR.IS-B [88]\0\0"
+  source: null
+  date: '2005-05-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:05:09Z'
   warnings: []
   errors: []
 ---

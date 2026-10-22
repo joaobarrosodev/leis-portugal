@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44671-1962-156202
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-11-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:31:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f25547a17544f8d181df9b4169911c4b087be8621252d14e6e8b0062cbaf433e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26932450e6c854e3ca0b133f27cfc31eaf6c60e0d0b64f044d876e94e6b51c57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:31:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:516706:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:31:56Z'
   warnings: []
   errors: []
 ---
@@ -89,11 +93,11 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A nomeação do pessoal docente dos estudos gerais universitários das províncias de Angola e Moçambique, incluindo os respectivos reitores, poderá ser feita em regime de comissão, sempre que os indivíduos a nomear desempenhem já funções docentes em qualquer estabelecimento de ensino.
+Artigo 1.º A nomeação do pessoal docente dos estudos gerais universitários das províncias de Angola e Moçambique, incluindo os respectivos reitores, poderá ser feita em regime de comissão, sempre que os indivíduos a nomear desempenhem já funções docentes em qualquer estabelecimento de ensino.
 
-###### Art. 2.º As nomeações para os cargos de governadores de distrito nas províncias de governo-geral, incluindo as que são previstas no artigo 18.º do [Decreto n.º 44241](https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706), de 19 de Março de 1962, serão sempre efectuadas em regime de comissão.
+Art. 2.º As nomeações para os cargos de governadores de distrito nas províncias de governo-geral, incluindo as que são previstas no artigo 18.º do [Decreto n.º 44241](https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706), de 19 de Março de 1962, serão sempre efectuadas em regime de comissão.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Novembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

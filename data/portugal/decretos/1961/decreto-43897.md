@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43897-1961-180996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-09-06T00:00:00Z'
+  retrieved_at: '2026-10-22T19:25:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37f59c5e64129ee8074d0c0b99baa7acb4d3c0f56a8d3bec4f4e018362c37215
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8188fcf5717388b4715669f5a42109ed070a9b4af9d17b01cce3aaa6c66c660
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:25:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:161958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635399:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:25:29Z'
   warnings: []
   errors: []
 ---
@@ -93,17 +105,17 @@ Ouvido o Conselho Ultramarino:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São reconhecidos os usos e costumes locais, reguladores de relações jurídicas privadas, quer os já compilados, quer os não compilados e vigentes nas regedorias.
+Artigo 1.º São reconhecidos os usos e costumes locais, reguladores de relações jurídicas privadas, quer os já compilados, quer os não compilados e vigentes nas regedorias.
 
 § único. Compete aos governos das províncias ultramarinas, pelos órgãos competentes, recolher, compilar e aprovar as compilações dos usos e costumes referidos no corpo do artigo.
 
-###### Art. 2.º Os usos e costumes de direito privado constituem um estatuto pessoal, que deve ser respeitado em qualquer parte do território nacional e cuja aplicação será limitada apenas pelos princípios morais e pelas regras fundamentais e básicas do sistema jurídico português.
+Art. 2.º Os usos e costumes de direito privado constituem um estatuto pessoal, que deve ser respeitado em qualquer parte do território nacional e cuja aplicação será limitada apenas pelos princípios morais e pelas regras fundamentais e básicas do sistema jurídico português.
 
-###### Art. 3.º A qualquer indivíduo é lícito submeter-se totalmente à lei escrita de direito privado, mediante simples declaração irrevogável, a fazer perante os serviços do registo civil e identificação, e sem prejuízo dos direitos e obrigações anteriormente assumidos. Os seus descendentes, incluindo os menores existentes à data da opção, ficam sujeitos à mesma lei.
+Art. 3.º A qualquer indivíduo é lícito submeter-se totalmente à lei escrita de direito privado, mediante simples declaração irrevogável, a fazer perante os serviços do registo civil e identificação, e sem prejuízo dos direitos e obrigações anteriormente assumidos. Os seus descendentes, incluindo os menores existentes à data da opção, ficam sujeitos à mesma lei.
 
 § único. A declaração referida no corpo do artigo e o correlativo registo serão inteiramente gratuitos.
 
-###### Art. 4.º As relações de direito privado entre pessoas que não tenham o mesmo estatuto pessoal serão reguladas:
+Art. 4.º As relações de direito privado entre pessoas que não tenham o mesmo estatuto pessoal serão reguladas:
 
 a) Pela lei que especialmente tiver prevenido a hipótese;
 
@@ -111,23 +123,23 @@ b) Na falta de lei especial, pela lei que, por expressa declaração ou pelas ci
 
 c) Em todos os outros casos, pela lei escrita comum.
 
-###### Art. 5.º As pessoas domiciliadas em aglomerados populacionais que não constituam regedorias tradicionais regem-se pela lei escrita de direito privado, devendo as autoridades proceder oficiosamente à identificação e registo.
+Art. 5.º As pessoas domiciliadas em aglomerados populacionais que não constituam regedorias tradicionais regem-se pela lei escrita de direito privado, devendo as autoridades proceder oficiosamente à identificação e registo.
 
-###### Art. 6.º O casamento celebrado nos termos das leis canónicas perante os ministros da igreja católica, e desde que os interessados reunissem de facto as condições exigidas pela lei escrita do direito privado, produz na ordem civil os mesmos efeitos da declaração de opção pela referida lei, pelo mero facto de na delegacia do registo civil ser lavrado o respectivo assento, que substituirá a transcrição. Tais efeitos verificam-se em relação a ambos os nubentes, mesmo que o casamento tenha sido celebrado com dispensa do impedimento de religião mista ou de disparidade de culto.
+Art. 6.º O casamento celebrado nos termos das leis canónicas perante os ministros da igreja católica, e desde que os interessados reunissem de facto as condições exigidas pela lei escrita do direito privado, produz na ordem civil os mesmos efeitos da declaração de opção pela referida lei, pelo mero facto de na delegacia do registo civil ser lavrado o respectivo assento, que substituirá a transcrição. Tais efeitos verificam-se em relação a ambos os nubentes, mesmo que o casamento tenha sido celebrado com dispensa do impedimento de religião mista ou de disparidade de culto.
 
-###### Art. 7.º O direito de propriedade sobre coisas mobiliárias rege-se sempre pela lei escrita do direito privado.
+Art. 7.º O direito de propriedade sobre coisas mobiliárias rege-se sempre pela lei escrita do direito privado.
 
-###### Art. 8.º Aos vizinhos das regedorias são garantidos, em conjunto, o uso e a fruição, na forma consuetudinária das terras necessárias ao estabelecimento das suas povoações e das suas culturas e ao pascigo do seu gado. A ocupação realizada nos termos deste artigo não confere direito de propriedade individual e será regulada entre os vizinhos pelos respectivos usos e costumes, Nos casos omissos aplicar-se-á o disposto na lei escrita de direito privado para as coisas comuns.
+Art. 8.º Aos vizinhos das regedorias são garantidos, em conjunto, o uso e a fruição, na forma consuetudinária das terras necessárias ao estabelecimento das suas povoações e das suas culturas e ao pascigo do seu gado. A ocupação realizada nos termos deste artigo não confere direito de propriedade individual e será regulada entre os vizinhos pelos respectivos usos e costumes, Nos casos omissos aplicar-se-á o disposto na lei escrita de direito privado para as coisas comuns.
 
 § único. A requerimento dos regedores, com o voto concordante dos seus conselheiros, pode o governador de distrito ou de província autorizar que sejam tornados individualmente apropriáveis terrenos anteriormente sujeitos ao regime do corpo deste artigo e onde estejam instaladas, com carácter estável, povoações e culturas. Só os vizinhos da respectiva regedoria são legítimos para adquirir bens imóveis nos terrenos anteriormente destinados a fruição conjunta.
 
-###### Art. 9.º A propriedade individual de imobiliários rege-se sempre pela lei escrita de direito privado.
+Art. 9.º A propriedade individual de imobiliários rege-se sempre pela lei escrita de direito privado.
 
-###### Art. 10.º As leis penais são iguais para todos, mas o juiz apreciará sempre as condutas e cominará as sanções considerando a influência que sobre o delinquente e os actos deste exerceram a sua condição social e estatuto de direito privado. O regime de execução das sanções penais obedecerá ao princípio da personalização.
+Art. 10.º As leis penais são iguais para todos, mas o juiz apreciará sempre as condutas e cominará as sanções considerando a influência que sobre o delinquente e os actos deste exerceram a sua condição social e estatuto de direito privado. O regime de execução das sanções penais obedecerá ao princípio da personalização.
 
-###### Art. 11.º Deve o Ministro do Ultramar mandar rever por uma comissão a legislação geral ou local em vigor no ultramar, com o fim de a harmonizar com o disposto neste diploma. Entretanto, compete ao Ministro do Ultramar resolver os casos omissos ou duvidosos por meio de portaria, ou por meio de despacho quando interessar exclusivamente aos serviços.
+Art. 11.º Deve o Ministro do Ultramar mandar rever por uma comissão a legislação geral ou local em vigor no ultramar, com o fim de a harmonizar com o disposto neste diploma. Entretanto, compete ao Ministro do Ultramar resolver os casos omissos ou duvidosos por meio de portaria, ou por meio de despacho quando interessar exclusivamente aos serviços.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Setembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/185/2009/05/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/185-2009-608726
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-13T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b7d209513eed087308ab1d97d22939813f09decbfcedc7e21b1b72a989e9498
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35a48edf52f572dda1d829e4b5a9382d9a81eb77ee536a4a89c609a49c7d1fcb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Crime
+- Açores
+- Assembleia da República
+- Assembleia Legislativa
 - CAÇA
 - Competência Própria
-- Governo Regional
 - Contra-ordenação
+- Crime
+- Governo Regional
 - Inconstitucionalidade
-- Assembleia Legislativa
-- Assembleia da República
 - Regime Jurídico
 - Responsabilidade Criminal
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/ac/123/2004/03/30/p/dre
@@ -114,16 +114,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/61/1998/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/61/1998/08/27/p/dre
+- type: cites
+  target: pt:dre:1099515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217165:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636185:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:48Z'
   warnings: []
   errors: []
 ---
@@ -160,27 +208,37 @@ Exercício perigoso da caça
 
 3 - Se a conduta referida no n.º 1 for praticada por negligência, o agente é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias.
 
-###### Artigo 29.º — Exercício da caça sob influência de álcool
+Artigo 29.º
+
+Exercício da caça sob influência de álcool
 
 Quem, no exercício da caça, apresentar uma taxa de álcool no sangue igual ou superior a 1,2 g/l é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias, se pena mais grave não for aplicável.
 
-###### Artigo 30.º — Crimes contra a preservação da fauna e das espécies cinegéticas
+Artigo 30.º
+
+Crimes contra a preservação da fauna e das espécies cinegéticas
 
 1 - A infracção ao disposto no n.º 1 do artigo 6.º do presente diploma é punida com pena de prisão até 6 meses ou com pena de multa até 100 dias.
 
 2 - Na mesma pena incorre quem exercer a caça em terrenos não cinegéticos, nos terrenos de caça condicionada sem consentimento de quem de direito, nas áreas de não caça e nas zonas de caça às quais não se tenha legalmente acesso.
 
-###### Artigo 31.º — Violação de meios e processos permitidos
+Artigo 31.º
+
+Violação de meios e processos permitidos
 
 1 - A utilização dos auxiliares referidos no n.º 2 do artigo 24.º do presente diploma, fora das condições nele previstas, é punida com a pena de prisão até 6 meses ou com pena de multa até 100 dias.
 
 2 - Na mesma pena incorre quem detiver, transportar e usar furão fora dos casos previstos no n.º 2 do artigo 26.º deste diploma.
 
-###### Artigo 32.º — Falta de habilitação para o exercício da caça
+Artigo 32.º
+
+Falta de habilitação para o exercício da caça
 
 Quem exercer a caça sem estar habilitado com a carta de caçador, quando exigida, é punido com pena de prisão até 3 meses ou com pena de multa até 90 dias.
 
-###### Artigo 33.º — Desobediência
+Artigo 33.º
+
+Desobediência
 
 1 - A recusa do caçador em descarregar a arma, colocá-la no chão e afastar-se 10 m do local onde a mesma fica colocada, quando tal lhe seja ordenado pelos agentes fiscalizadores, nos termos a regular e quando do acto da fiscalização, é punida com a pena correspondente ao crime de desobediência simples.
 

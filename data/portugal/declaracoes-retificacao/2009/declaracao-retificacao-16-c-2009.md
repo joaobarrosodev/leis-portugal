@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 41/2009, 1º Suplemento, Série I de 2009-02-27
   number: '41'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1388-(7) a 1388-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/02/04101/0000700011.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/16-c/2009/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-c-2009-260666
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:11:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6a8806cccf3211faf27ac5fb08e7c119f2134db424f199c2552d3e83b60f106
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88ee259cc1642d3c4a70e2d4bc3d8ebab40e13a6c05218c75e9ca91254c271df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:11:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Brisa
-- Contrato de Concessão
-- Conservação de Estradas
-- Ministério das Obras Públicas Transportes e Comunicações
 - Auto-estrada
+- Brisa
+- Conservação de Estradas
+- Contrato de Concessão
+- Ministério das Obras Públicas Transportes e Comunicações
 - Ministro de Estado e das Finanças
 relationships:
 - type: cites
@@ -87,16 +87,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/198-b/2008/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/198-b/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:243741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:resolucao-conselho-ministros:198-B/2008
+  label: "Rectifica a Resolução do Conselho de Ministros n.º 198-B/2008, de 31 de Dezembro, DR.IS [252]2ºSupl \0\0"
+  source: null
+  date: '2008-12-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:11:07Z'
   warnings: []
   errors: []
 ---
@@ -175,12 +188,12 @@ Ligação à plataforma logística do Poceirão, com a extensão de 1,7 km.»
 
 «1 - Os lanços e sublanços referidos na cláusula 1 abriram ou serão abertos ao tráfego o mais tardar nos semestres constantes do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04101/0000700011.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04101/0000700011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04101/0000700011.pdf)
 
 deve ler-se:
 
 «1 - Os lanços e sublanços referidos na cláusula 1 abriram ou serão abertos ao tráfego o mais tardar nos semestres constantes do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04101/0000700011.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04101/0000700011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04101/0000700011.pdf)
 
 Centro Jurídico, 27 de Fevereiro de 2009. - A Directora, Susana de Meneses Brasil de Brito.

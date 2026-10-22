@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/82/2026/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-07T00:00:00Z'
+  retrieved_at: '2026-10-22T18:37:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33c5e4fb15fefdfe6f51d9b1f54811b656d990d597eb73cb22b6e353147a2832
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ccaf29cd2790463d7025ebc978215060c8fee700ab24636882b2d773948f974
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:37:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autoridade da Mobilidade e dos Transportes
 - Autoridade Tributária e Aduaneira
-- Financiamento
 - Direção Geral das Autarquias Locais
+- Financiamento
+- Fundo para a Mobilidade e Transportes
 - Instituto da Mobilidade e dos Transportes
 - Página na Internet
-- Serviço Público
+- Plataforma Eletrónica
 - Regulamento
+- Serviço Público
 - Transporte
 - Transporte de Passageiros
-- Autoridade da Mobilidade e dos Transportes
-- Plataforma Eletrónica
-- Fundo para a Mobilidade e Transportes
 relationships:
+- type: amends
+  target: pt:numero:lei:52/2015
+  label: Altera, a partir de 8 de abril de 2026, o artigo 12.º do anexo à Lei n.º 52/2015, de 9 de junho, Diário da República
+    n.º 111/2015, Série I
+  source: null
+  date: '2015-06-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/151/2019/10/11/p/dre
   label: null
@@ -118,16 +124,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/41/2019/01/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/41/2019/01/30/p/dre
+- type: cites
+  target: pt:dre:105673279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114223842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115093548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115991688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118748851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122195231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125234992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:126787030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67442930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73958532:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:359-A/2017
+  label: Revoga, a partir de 8 de abril de 2026, nos termos do artigo 5.º do presente diploma, a Portaria n.º 359-A/2017,
+    de 20 de novembro, Diário da República n.º 223/2017, 1º Suplemento, Série I
+  source: null
+  date: '2017-11-20'
+- type: repeals
+  target: pt:numero:despacho:3741/2018
+  label: Revoga, a partir de 8 de abril de 2026, nos termos do artigo 5.º do presente diploma, o Despacho n.º 3741/2018, de
+    13 de abril, Diário da República n.º 73/2018, Série II
+  source: null
+  date: '2018-04-13'
 article_structure:
   article_count: 26
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:37:29Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +206,7 @@ validation:
 
 de 7 de abril
 
-O artigo 12.º do Regime Jurídico do Serviço Público de Transporte de Passageiros, aprovado em anexo à [Lei n.º 52/2015](https://diariodarepublica.pt/dr/detalhe/lei/52-2015-67442930), de 9 de junho, alterada pela [Lei n.º 7-A/2016](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), de 30 de março, e pelos Decretos-Leis n.<sup>os</sup>[86-D/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-d-2016-105673279), de 30 de dezembro, [58/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2019-122195231), de 30 de abril, [151/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), de 11 de outubro, e [169-A/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-a-2019-126787030), de 29 de novembro, prevê a criação de um fundo para o serviço público de transportes, por forma a auxiliar o financiamento das autoridades de transportes.
+O artigo 12.º do Regime Jurídico do Serviço Público de Transporte de Passageiros, aprovado em anexo à [Lei n.º 52/2015](https://diariodarepublica.pt/dr/detalhe/lei/52-2015-67442930), de 9 de junho, alterada pela [Lei n.º 7-A/2016](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), de 30 de março, e pelos Decretos-Leis n.os[86-D/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-d-2016-105673279), de 30 de dezembro, [58/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2019-122195231), de 30 de abril, [151/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), de 11 de outubro, e [169-A/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-a-2019-126787030), de 29 de novembro, prevê a criação de um fundo para o serviço público de transportes, por forma a auxiliar o financiamento das autoridades de transportes.
 
 A [Portaria n.º 359-A/2017](https://diariodarepublica.pt/dr/detalhe/portaria/359-a-2017-114223842), de 20 de novembro, alterada pela [Portaria n.º 41/2019](https://diariodarepublica.pt/dr/detalhe/portaria/41-2019-118748851), de 30 de janeiro, criou o Fundo para o Serviço Público de Transportes (FSPT), com o intuito de, primordialmente, contribuir para o financiamento e o funcionamento das autoridades de transporte, e, em complemento, financiar ações destinadas à promoção e desenvolvimento do sistema de transporte público de passageiros.
 
@@ -156,7 +226,7 @@ O presente decreto-lei procede:
 
 a) À redenominação do Fundo para o Serviço Público de Transportes, que passa a designar-se por Fundo para a Mobilidade e Transportes;
 
-b) À sexta alteração à [Lei n.º 52/2015](https://diariodarepublica.pt/dr/detalhe/lei/52-2015-67442930), de 9 de junho, alterada pela [Lei n.º 7-A/2016](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), de 30 de março, e pelos Decretos-Leis n.<sup>os</sup>[86-D/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-d-2016-105673279), de 30 de dezembro, [58/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2019-122195231), de 30 de abril, [151/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), de 11 de outubro, e [169-A/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-a-2019-126787030), de 29 de novembro, que aprova o Regime Jurídico do Serviço Público de Transporte de Passageiros;
+b) À sexta alteração à [Lei n.º 52/2015](https://diariodarepublica.pt/dr/detalhe/lei/52-2015-67442930), de 9 de junho, alterada pela [Lei n.º 7-A/2016](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), de 30 de março, e pelos Decretos-Leis n.os[86-D/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-d-2016-105673279), de 30 de dezembro, [58/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2019-122195231), de 30 de abril, [151/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), de 11 de outubro, e [169-A/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-a-2019-126787030), de 29 de novembro, que aprova o Regime Jurídico do Serviço Público de Transporte de Passageiros;
 
 c) À Regulamentação do Fundo para a Mobilidade e Transportes.
 
@@ -198,15 +268,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de janeiro de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Manuel Castro Almeida - Miguel Martinez de Castro Pinto Luz.
 
-**Promulgado em 18 de março de 2026.**
+Promulgado em 18 de março de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 23 de março de 2026.**
+Referendado em 23 de março de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -432,7 +502,7 @@ c) Outras pessoas coletivas, qualquer que seja a sua natureza, na medida em que 
 
 a) Após a aprovação dos valores, a DGAL procede ao envio em formato editável dos dados relativos ao valor previsto para as transferências para os municípios por via do Fundo de Equilíbrio Financeiro necessários para o cálculo previsto no artigo 16.º;
 
-b) O Fundo procede aos cálculos dos montantes do financiamento regular nos termos dos n.<sup>os</sup>1 a 4 e 7 do artigo 16.º, remetendo-os à DGAL para efeitos de confirmação;
+b) O Fundo procede aos cálculos dos montantes do financiamento regular nos termos dos n.os1 a 4 e 7 do artigo 16.º, remetendo-os à DGAL para efeitos de confirmação;
 
 c) O Fundo disponibiliza à DGAL semestralmente, em suporte digital, os montantes relativos ao financiamento regular e por ações das autoridades de transportes metropolitanas, intermunicipais e municipais, desagregados por entidade beneficiária, bem como os relatórios de atividades e contas.
 
@@ -517,3 +587,5 @@ c) Pronunciar-se sobre qualquer outra matéria no domínio da gestão económica
 ###### Artigo 19.º — Regime supletivo
 
 Aos casos omissos, aplicam-se as normas do Código do Procedimento Administrativo.
+
+119948110

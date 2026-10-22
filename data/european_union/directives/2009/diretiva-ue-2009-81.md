@@ -37,6 +37,248 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-01'
+version_history:
+  file: diretiva-ue-2009-81.versoes.json
+  count: 12
+  source_lastmod: '2026-01-01'
+  versions:
+  - date: '2009-08-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-01-01'
+    amending: null
+    amending_title: Regulamento (CE) n. o 1177/2009 da Comissão de 30 de Novembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 70.º — Alteração da Directiva 2004/17/CE
+    - Altera Artigo 71.º — Alteração da Directiva 2004/18/CE
+    - Altera Notas
+    - Adita Artigo 1.º — Definições
+    - Adita Artigo 2.º — Âmbito de aplicação
+    - Adita Artigo 3.º — Contratos mistos
+    - Adita Artigo 4.º — Princípios de adjudicação
+    - Adita Artigo 5.º — Operadores económicos
+    - Adita Artigo 6.º — Obrigação de confidencialidade das autoridades/entidades adjudicantes
+    - Adita Artigo 7.º — Protecção das informações classificadas
+    - Adita Artigo 8.º — Montantes dos limiares para contratos
+    - Adita Artigo 9.º — Métodos de cálculo do valor estimado dos contratos e dos acordos-quadro
+    - Adita Artigo 10.º — Contratos e acordos-quadro celebrados por centrais de compras
+    - Adita Artigo 11.º — Utilização de exclusões
+    - Adita Artigo 12.º — Contratos adjudicados ao abrigo de disposições internacionais
+    - Adita Artigo 13.º — Exclusões específicas
+    - Adita Artigo 14.º — Contratos reservados
+    - Adita Artigo 15.º — Contratos de prestação de serviços mencionados no anexo I
+    - Adita Artigo 16.º — Contratos de prestação de serviços enumerados no anexo II
+    - Adita Artigo 17.º — Contratos mistos incluindo a prestação de serviços mencionados nos anexos I e II
+    - Adita Artigo 18.º — Especificações técnicas
+    - Adita Artigo 19.º — Variantes
+    - Adita Artigo 20.º — Condições de execução do contrato
+    - Adita Artigo 21.º — Subcontratação
+    - Adita Artigo 22.º — Segurança da informação
+    - Adita Artigo 23.º — Segurança do abastecimento
+    - Adita Artigo 24.º — Obrigações relativas à fiscalidade, à protecção do ambiente e às disposições em matéria de protecção
+      e condições de trabalho
+    - Adita Artigo 25.º — Procedimentos aplicáveis
+    - Adita Artigo 26.º — Procedimento por negociação com publicação de anúncio de concurso
+    - Adita Artigo 27.º — Diálogo concorrencial
+    - Adita Artigo 28.º — Casos que justificam o recurso ao procedimento por negociação sem publicação de anúncio de concurso
+    - Adita Artigo 29.º — Acordos-quadro
+    - Adita Artigo 30.º — Anúncios
+    - Adita Artigo 31.º — Publicação não obrigatória
+    - Adita Artigo 32.º — Redacção e modalidades de publicação dos anúncios
+    - Adita Artigo 33.º — Prazos de recepção dos pedidos de participação e das propostas
+    - Adita Artigo 34.º — Convites para apresentação de propostas, negociação ou participação em diálogo
+    - Adita Artigo 35.º — Informação dos candidatos e dos proponentes
+    - Adita Artigo 36.º — Regras aplicáveis às comunicações
+  - date: '2012-01-01'
+    amending: eu:celex:32009R1177:por
+    amending_title: M1; Regulamento (UE) n. o 1251/2011 da Comissão de 30 de Novembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Montantes dos limiares para contratos
+    - Altera Artigo 39.º — Situação pessoal do candidato ou proponente
+    - Altera Artigo 67.º — Procedimento de Comité
+    - Altera Artigo 70.º — Alteração da Directiva 2004/17/CE
+    - Altera Artigo 71.º — Alteração da Directiva 2004/18/CE
+    - Altera Serviços referidos nos artigos 2.º e 15.º
+    - Altera Serviços referidos nos artigos 2.º e 16.º
+    - Altera Notas
+    - Adita REGISTOS ([^29^](http://publications.europa.eu/resource/cellar/1d11485a-1243-45ee-ae09-6cc12bc71c2c.0018.03/DOC_1#E0032))
+    - Suprime REGISTOS ([^29^](http://publications.europa.eu/resource/cellar/735d792d-6768-4265-9aac-75923b30338a.0018.03/DOC_1#E0032))
+  - date: '2013-07-01'
+    amending: eu:celex:32013L0016:por
+    amending_title: Diretiva 2013/16/UE do Conselho de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 39.º — Situação pessoal do candidato ou proponente
+    - Altera Artigo 67.º — Procedimento de Comité
+    - Altera Artigo 70.º — Alteração da Directiva 2004/17/CE
+    - Altera Artigo 71.º — Alteração da Directiva 2004/18/CE
+    - Altera Serviços referidos nos artigos 2.º e 15.º
+    - Altera Serviços referidos nos artigos 2.º e 16.º
+    - Altera Contratos de empreitada
+    - Altera Contratos de fornecimento
+    - Altera Contratos de serviços
+    - Altera Notas
+    - Adita REGISTOS ([^29^](http://publications.europa.eu/resource/cellar/8585de72-6b75-4909-a65e-c7a35f617b9a.0018.04/DOC_1#E0032))
+    - Suprime REGISTOS ([^29^](http://publications.europa.eu/resource/cellar/1d11485a-1243-45ee-ae09-6cc12bc71c2c.0018.03/DOC_1#E0032))
+  - date: '2014-01-01'
+    amending: eu:celex:32013R1336:por
+    amending_title: Regulamento (UE) n. o 1336/2013 da Comissão de 13 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Montantes dos limiares para contratos
+    - Altera Artigo 39.º — Situação pessoal do candidato ou proponente
+    - Altera Artigo 67.º — Procedimento de Comité
+    - Altera Artigo 70.º — Alteração da Directiva 2004/17/CE
+    - Altera Artigo 71.º — Alteração da Directiva 2004/18/CE
+    - Altera Serviços referidos nos artigos 2.º e 15.º
+    - Altera Serviços referidos nos artigos 2.º e 16.º
+    - Altera Notas
+    - Adita REGISTOS ([^29^](http://publications.europa.eu/resource/cellar/3f07e0e2-1a51-4c78-86ce-55149f624c26.0018.02/DOC_1#E0032))
+    - Suprime REGISTOS ([^29^](http://publications.europa.eu/resource/cellar/8585de72-6b75-4909-a65e-c7a35f617b9a.0018.04/DOC_1#E0032))
+  - date: '2016-01-01'
+    amending: eu:celex:32015R2340:por
+    amending_title: REGULAMENTO (UE) 2015/2340 DA COMISSÃO de 15 de dezembro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Operadores económicos
+    - Altera Artigo 8.º — Montantes dos limiares para contratos
+    - Altera Artigo 9.º — Métodos de cálculo do valor estimado dos contratos e dos acordos-quadro
+    - Altera Artigo 18.º — Especificações técnicas
+    - Altera Artigo 19.º — Variantes
+    - Altera Artigo 21.º — Subcontratação
+    - Altera Artigo 24.º — Obrigações relativas à fiscalidade, à protecção do ambiente e às disposições em matéria de protecção
+      e condições de trabalho
+    - Altera Artigo 27.º — Diálogo concorrencial
+    - Altera Artigo 29.º — Acordos-quadro
+    - Altera Artigo 30.º — Anúncios
+    - Altera Artigo 32.º — Redacção e modalidades de publicação dos anúncios
+    - Altera Artigo 33.º — Prazos de recepção dos pedidos de participação e das propostas
+    - Altera Artigo 38.º — Verificação da aptidão dos candidatos, selecção dos participantes e adjudicação dos contratos
+    - Altera Artigo 39.º — Situação pessoal do candidato ou proponente
+    - Altera Artigo 46.º — Listas oficiais de operadores económicos aprovados e certificação por organismo de direito público
+      ou privado
+    - Altera Artigo 47.º — Critérios de adjudicação
+    - Altera Artigo 48.º — Utilização de leilões electrónicos
+    - Altera Artigo 49.º — Propostas anormalmente baixas
+    - Altera Artigo 50.º — Âmbito de aplicação
+    - Altera Artigo 52.º — Limiares e regras de publicidade
+    - Altera Artigo 55.º — Âmbito de aplicação e acesso aos procedimentos de recurso
+    - Altera Artigo 56.º — Requisitos do recurso
+    - Altera Artigo 57.º — Prazo suspensivo
+    - Altera Artigo 60.º — Privação de efeitos
+    - Altera Artigo 61.º — Violação do presente Título e sanções alternativas
+    - Altera Artigo 67.º — Procedimento de Comité
+    - Altera Artigo 68.º — Revisão dos limiares
+    - Altera Artigo 69.º — Alterações
+    - Altera Artigo 70.º — Alteração da Directiva 2004/17/CE
+    - Altera Artigo 71.º — Alteração da Directiva 2004/18/CE
+    - Altera Artigo 72.º — Transposição
+    - Altera Serviços referidos nos artigos 2.º e 15.º
+    - Altera Serviços referidos nos artigos 2.º e 16.º
+    - Altera Notas
+    - Adita REGISTOS ([^29^](http://publications.europa.eu/resource/cellar/e2406701-b500-4126-9ed6-19ae9873bc96.0015.02/DOC_1#E0032))
+    - Suprime REGISTOS ([^29^](http://publications.europa.eu/resource/cellar/3f07e0e2-1a51-4c78-86ce-55149f624c26.0018.02/DOC_1#E0032))
+  - date: '2018-01-01'
+    amending: eu:celex:32017R2367:por
+    amending_title: REGULAMENTO (UE) 2017/2367 DA COMISSÃO de 18 de dezembro de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Montantes dos limiares para contratos
+    - Altera Artigo 39.º — Situação pessoal do candidato ou proponente
+    - Altera Artigo 67.º — Procedimento de Comité
+    - Altera Artigo 70.º — Alteração da Directiva 2004/17/CE
+    - Altera Artigo 71.º — Alteração da Directiva 2004/18/CE
+    - Altera Serviços referidos nos artigos 2.º e 15.º
+    - Altera Serviços referidos nos artigos 2.º e 16.º
+    - Altera Notas
+    - Adita REGISTOS ([^8^](http://publications.europa.eu/resource/cellar/4ce94835-dc8e-4cdf-b68c-0dc278b126fc.0015.02/DOC_1#E0013))
+    - Suprime REGISTOS ([^29^](http://publications.europa.eu/resource/cellar/e2406701-b500-4126-9ed6-19ae9873bc96.0015.02/DOC_1#E0032))
+  - date: '2019-07-26'
+    amending: eu:celex:32019R1243:por
+    amending_title: REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 39.º — Situação pessoal do candidato ou proponente
+    - Altera Artigo 67.º — Procedimento de Comité
+    - Altera Artigo 68.º — Revisão dos limiares
+    - Altera Artigo 69.º — Alterações
+    - Altera Artigo 70.º — Alteração da Directiva 2004/17/CE
+    - Altera Artigo 71.º — Alteração da Directiva 2004/18/CE
+    - Altera Serviços referidos nos artigos 2.º e 15.º
+    - Altera Serviços referidos nos artigos 2.º e 16.º
+    - Altera Notas
+    - Adita Artigo 66.º-A — Exercício da delegação
+    - Adita Artigo 66.º-B — Procedimento de urgência
+    - Adita REGISTOS ([^9^](http://publications.europa.eu/resource/cellar/6139aab1-dbc5-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0014))
+    - Suprime REGISTOS ([^8^](http://publications.europa.eu/resource/cellar/4ce94835-dc8e-4cdf-b68c-0dc278b126fc.0015.02/DOC_1#E0013))
+  - date: '2020-01-01'
+    amending: eu:celex:32019R1830:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2019/1830 DA COMISSÃO de 30 de outubro de 2019
+    changes:
+    - Altera Artigo 8.º — Montantes dos limiares para contratos
+    - Altera Artigo 39.º — Situação pessoal do candidato ou proponente
+    - Altera Artigo 42.º — Capacidade técnica e/ou profissional
+    - Altera Artigo 66.º-A — Exercício da delegação
+    - Altera Artigo 67.º — Procedimento de Comité
+    - Altera Artigo 70.º — Alteração da Directiva 2004/17/CE
+    - Altera Artigo 71.º — Alteração da Directiva 2004/18/CE
+    - Altera Serviços referidos nos artigos 2.º e 15.º
+    - Altera Serviços referidos nos artigos 2.º e 16.º
+    - Altera Definição de determinadas especificações técnicas referidas no Artigo 18.º
+    - Altera ANÚNCIO DE CONCURSO
+    - Altera Informações que devem constar dos anúncios de subcontratação referidos no Artigo 52.º
+    - Altera Notas
+    - Adita REGISTOS ([^9^](http://publications.europa.eu/resource/cellar/a16fabf4-441a-11ea-b81b-01aa75ed71a1.0019.03/DOC_2#E0014))
+    - Suprime REGISTOS ([^9^](http://publications.europa.eu/resource/cellar/6139aab1-dbc5-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0014))
+  - date: '2022-01-01'
+    amending: eu:celex:32021R1950:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/1950 DA COMISSÃO de 10 de novembro de 2021
+    changes:
+    - Altera Artigo 8.º — Montantes dos limiares para contratos
+    - Altera Artigo 9.º — Métodos de cálculo do valor estimado dos contratos e dos acordos-quadro
+    - Altera Artigo 39.º — Situação pessoal do candidato ou proponente
+    - Altera Artigo 66.º-A — Exercício da delegação
+    - Altera Artigo 67.º — Procedimento de Comité
+    - Altera Artigo 70.º — Alteração da Directiva 2004/17/CE
+    - Altera Artigo 71.º — Alteração da Directiva 2004/18/CE
+    - Altera Serviços referidos nos artigos 2.º e 15.º
+    - Altera Serviços referidos nos artigos 2.º e 16.º
+    - Altera Notas
+    - Adita REGISTOS ([^9^](http://publications.europa.eu/resource/cellar/50b186b0-5277-11ec-91ac-01aa75ed71a1.0019.03/DOC_1#E0014))
+    - Suprime REGISTOS ([^9^](http://publications.europa.eu/resource/cellar/a16fabf4-441a-11ea-b81b-01aa75ed71a1.0019.03/DOC_2#E0014))
+  - date: '2024-01-01'
+    amending: eu:celex:32023R2510:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/2510 DA COMISSÃO de 15 de novembro de 2023
+    changes:
+    - Altera Artigo 8.º — Montantes dos limiares para contratos
+    - Altera Artigo 39.º — Situação pessoal do candidato ou proponente
+    - Altera Artigo 66.º-A — Exercício da delegação
+    - Altera Artigo 67.º — Procedimento de Comité
+    - Altera Artigo 70.º — Alteração da Directiva 2004/17/CE
+    - Altera Artigo 71.º — Alteração da Directiva 2004/18/CE
+    - Altera Serviços referidos nos artigos 2.º e 15.º
+    - Altera Serviços referidos nos artigos 2.º e 16.º
+    - Altera Notas
+    - Adita REGISTOS ([^9^](http://publications.europa.eu/resource/cellar/ca044d14-9910-11ee-b164-01aa75ed71a1.0019.02/DOC_1#E0014))
+    - Suprime REGISTOS ([^9^](http://publications.europa.eu/resource/cellar/50b186b0-5277-11ec-91ac-01aa75ed71a1.0019.03/DOC_1#E0014))
+  - date: '2026-01-01'
+    amending: eu:celex:32025R2487:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/2487 DA COMISSÃO de 2 de dezembro de 2025
+    changes:
+    - Altera Artigo 8.º — Montantes dos limiares para contratos
+    - Altera Artigo 39.º — Situação pessoal do candidato ou proponente
+    - Altera Artigo 66.º-A — Exercício da delegação
+    - Altera Artigo 67.º — Procedimento de Comité
+    - Altera Artigo 70.º — Alteração da Directiva 2004/17/CE
+    - Altera Artigo 71.º — Alteração da Directiva 2004/18/CE
+    - Altera Serviços referidos nos artigos 2.º e 15.º
+    - Altera Serviços referidos nos artigos 2.º e 16.º
+    - Altera Notas
+    - Adita REGISTOS ([^9^](http://publications.europa.eu/resource/cellar/c4a29c03-f07b-11f0-8d3c-01aa75ed71a1.0019.02/DOC_1#E0014))
+    - Suprime REGISTOS ([^9^](http://publications.europa.eu/resource/cellar/ca044d14-9910-11ee-b164-01aa75ed71a1.0019.02/DOC_1#E0014))
 identifiers:
   celex: 32009L0081
   eli: http://data.europa.eu/eli/dir/2009/81/oj
@@ -51,7 +293,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3fb664c4-0b51-44fc-b738-2c28b4637657.0018
   content_url: http://publications.europa.eu/resource/cellar/c4a29c03-f07b-11f0-8d3c-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0081-20260101
-  retrieved_at: '2026-10-22T02:45:29Z'
+  retrieved_at: '2026-10-22T17:39:10Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T16:30:53.415+02:00'
 integrity:
@@ -60,9 +302,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:29Z'
-  notes: Texto consolidado 02009L0081-20260101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:39:10Z'
+  notes: 12 versão(ões); histórico completo em diretiva-ue-2009-81.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -276,43 +518,19 @@ relationships:
   source: null
 article_structure:
   article_count: 77
-  section_count: 78
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 79
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:29Z'
+  checked_at: '2026-10-22T17:39:10Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2009/81/CE do Parlamento Europeu e do Conselho, de 13 de Julho de 2009
-
-> 02009L0081 — PT — 01.01.2026 — 011.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32009R1177) — [REGULAMENTO (CE) N.º 1177/2009 DA COMISSÃO de 30 de Novembro de 2009](http://publications.europa.eu/resource/celex/32009R1177) — L 314 — 64 — 1.12.2009
-- [M2](http://publications.europa.eu/resource/celex/32011R1251) — [REGULAMENTO (UE) N.º 1251/2011 DA COMISSÃO de 30 de Novembro de 2011](http://publications.europa.eu/resource/celex/32011R1251) — L 319 — 43 — 2.12.2011
-- [►M3](http://publications.europa.eu/resource/celex/32013L0016) — [DIRETIVA 2013/16/UE DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013L0016) — L 158 — 184 — 10.6.2013
-- [M4](http://publications.europa.eu/resource/celex/32013R1336) — [REGULAMENTO (UE) N.º 1336/2013 DA COMISSÃO de 13 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1336) — L 335 — 17 — 14.12.2013
-- [M5](http://publications.europa.eu/resource/celex/32015R2340) — [REGULAMENTO (UE) 2015/2340 DA COMISSÃO de 15 de dezembro de 2015](http://publications.europa.eu/resource/celex/32015R2340) — L 330 — 14 — 16.12.2015
-- [M6](http://publications.europa.eu/resource/celex/32017R2367) — [REGULAMENTO (UE) 2017/2367 DA COMISSÃO de 18 de dezembro de 2017](http://publications.europa.eu/resource/celex/32017R2367) — L 337 — 22 — 19.12.2017
-- [►M7](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-- [M8](http://publications.europa.eu/resource/celex/32019R1830) — [REGULAMENTO DELEGADO (UE) 2019/1830 DA COMISSÃO de 30 de outubro de 2019](http://publications.europa.eu/resource/celex/32019R1830) — L 279 — 29 — 31.10.2019
-- [M9](http://publications.europa.eu/resource/celex/32021R1950) — [REGULAMENTO DELEGADO (UE) 2021/1950 DA COMISSÃO de 10 de novembro de 2021](http://publications.europa.eu/resource/celex/32021R1950) — L 398 — 19 — 11.11.2021
-- [M10](http://publications.europa.eu/resource/celex/32023R2510) — [REGULAMENTO DELEGADO (UE) 2023/2510 DA COMISSÃO de 15 de novembro de 2023](http://publications.europa.eu/resource/celex/32023R2510) — L 2510 — 1 — 16.11.2023
-- [►M11](http://publications.europa.eu/resource/celex/32025R2487) — [REGULAMENTO DELEGADO (UE) 2025/2487 DA COMISSÃO de 2 de dezembro de 2025](http://publications.europa.eu/resource/celex/32025R2487) — L 2487 — 1 — 4.12.2025
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32019R1243R%2801%29) — [Rectificação, JO L 191, 16.6.2020, p. 5 (2019/1243)](http://publications.europa.eu/resource/celex/32019R1243R%2801%29)
-
-## DIRECTIVA 2009/81/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 13 de Julho de 2009
 

@@ -47,36 +47,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45060-1963-627595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-06-04T00:00:00Z'
+  retrieved_at: '2026-10-22T19:35:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b746c3ee2921d47d0cb60e1d79f2e89fbfb154a1bb73c3ffd2428ee62083022
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8aa370c178f0d89ea32bbb738f6c282432e43485201a8ba0354d3be7e92ed8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:35:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Bagagem
+- Imposto de Camionagem
+- Imposto de Compensação
+- Indemnização
+- Licença de Transporte
+- Licenciamento
+- Multa
+- Preço
+- Regulamentação dos Transportes
+- Regulamento
+- Regulamento de Transportes em Automóveis
+- Transporte de Mercadorias
+- Transporte de Passageiros
+- Transporte Público
+- Transporte Urbano
+- Veículo de Aluguer
+relationships:
+- type: cites
+  target: pt:dre:170931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569517:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:35:02Z'
   warnings: []
   errors: []
 ---
@@ -109,9 +149,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º, 3.º, 6.º, 8.º, 15.º, 16.º, 17.º, 30.º, 53.º, 84.º, 127.º, 136.º, 138.º, 140.º, 146.º, 182.º, 227.º, 228.º e 232.º do Regulamento de Transportes em Automóveis, aprovado pelo [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º, 3.º, 6.º, 8.º, 15.º, 16.º, 17.º, 30.º, 53.º, 84.º, 127.º, 136.º, 138.º, 140.º, 146.º, 182.º, 227.º, 228.º e 232.º do Regulamento de Transportes em Automóveis, aprovado pelo [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948, passam a ter a seguinte redacção:
 
-###### Artigo 1.º Os transportes em veículos automóveis classificam-se em duas categorias: particulares e públicos.
+Artigo 1.º Os transportes em veículos automóveis classificam-se em duas categorias: particulares e públicos.
 
 São transportes particulares:
 
@@ -147,9 +187,9 @@ b) Em veículos de propriedade de agricultores ou de organismos agrícolas de in
 
 2.º O serviço de transportes realizados nas condições referidas no parágrafo anterior será regulado por portaria do Ministro das Comunicações.
 
-###### Art. 2.º Para efeitos deste regulamento, e salvo os casos nele expressamente declarados, a designação mercadoria será tornada no seu sentido mais amplo, abrangendo qualquer espécie de bens, como equipamento, veículos e animais.
+Art. 2.º Para efeitos deste regulamento, e salvo os casos nele expressamente declarados, a designação mercadoria será tornada no seu sentido mais amplo, abrangendo qualquer espécie de bens, como equipamento, veículos e animais.
 
-###### Art. 3.º Os transportes públicos só podem ser explorados em regime de transporte de aluguer ou de transporte colectivo.
+Art. 3.º Os transportes públicos só podem ser explorados em regime de transporte de aluguer ou de transporte colectivo.
 
 São de aluguer os transportes em que os veículos são alugados no conjunto da sua lotação ou da sua carga e postos ao exclusivo serviço de uma só entidade, segundo itinerários da sua escolha.
 
@@ -175,7 +215,7 @@ Sempre que em determinada região existir manifesta deficiência de transportes 
 
 ...
 
-###### Art. 6.º Aos transportes particulares será aplicado o seguinte regime:
+Art. 6.º Aos transportes particulares será aplicado o seguinte regime:
 
 a) Transportes de passageiros, excepção feita dos transportes referidos no n.º 1) do § 1.º do artigo 1.º: isenção de qualquer autorização ou licença e de quaisquer encargos, além dos de natureza fiscal de aplicação geral;
 
@@ -183,11 +223,11 @@ b) Transporte de mercadorias: o regime de licenciamento e os encargos fiscais de
 
 ...
 
-###### Art. 8.º Quando os veículos automóveis de carga ou mistos afectos a transportes particulares de mercadorias pertencerem a mais de uma entidade, só poderão transportar-se neles mercadorias que sejam propriedade comum dessas entidades.
+Art. 8.º Quando os veículos automóveis de carga ou mistos afectos a transportes particulares de mercadorias pertencerem a mais de uma entidade, só poderão transportar-se neles mercadorias que sejam propriedade comum dessas entidades.
 
 ...
 
-###### Art. 15.º Os requisitos dos automóveis empregados em transportes públicos serão os determinados pela Direcção-Geral de Transportes Terrestres, tendo em atenção as necessidades de segurança, conforto e outras que o exercício da indústria exija.
+Art. 15.º Os requisitos dos automóveis empregados em transportes públicos serão os determinados pela Direcção-Geral de Transportes Terrestres, tendo em atenção as necessidades de segurança, conforto e outras que o exercício da indústria exija.
 
 § 1.º É obrigatória a indicação no interior do veículo, em sítio bem visível, do número de matrícula e da lotação que lhe for atribuída, conforme o respectivo livrete.
 
@@ -195,7 +235,7 @@ b) Transporte de mercadorias: o regime de licenciamento e os encargos fiscais de
 
 § 3.º Os automóveis a que se refere o § 2.º poderão ser dispensados do cumprimento das normas nele referidas, dentro dos limites a fixar pela Direcção-Geral de Transportes Terrestres, desde que se verifique em inspecção serem os veículos de categoria a merecer tal isenção.
 
-###### Art. 16.º As licenças para o exercício da indústria de transportes de aluguer de passageiros e de mercadorias em automóveis ligeiros e de mercadorias em automóveis pesados serão concedidas dentro dos contingentes fixados pelo Ministro das Comunicações, sob proposta da Direcção-Geral de Transportes Terrestres, ouvido o Conselho Superior dos Transportes Terrestres.
+Art. 16.º As licenças para o exercício da indústria de transportes de aluguer de passageiros e de mercadorias em automóveis ligeiros e de mercadorias em automóveis pesados serão concedidas dentro dos contingentes fixados pelo Ministro das Comunicações, sob proposta da Direcção-Geral de Transportes Terrestres, ouvido o Conselho Superior dos Transportes Terrestres.
 
 § único. Ficam exceptuadas deste contingentamento:
 
@@ -203,7 +243,7 @@ b) Transporte de mercadorias: o regime de licenciamento e os encargos fiscais de
 
 2.º As licenças de aluguer para a realização de transportes que exijam o emprego de veículos especialmente adaptados.
 
-###### Art. 17.º Compete ao director-geral de Transportes Terrestres decidir sobre os pedidos de licença para a exploração da indústria de transportes de aluguer.
+Art. 17.º Compete ao director-geral de Transportes Terrestres decidir sobre os pedidos de licença para a exploração da indústria de transportes de aluguer.
 
 § 1.º Os despachos do director-geral de Transportes Terrestres concedendo as licenças a que se refere este artigo serão comunicados às direcções de viação da área para que foram requeridas, às quais compete a passagem dos respectivos títulos. Estes serão passados logo que se proceda à inspecção do veículo a que disserem respeito, para o que os requerentes têm o prazo de 90 dias a contar da data do competente aviso.
 
@@ -229,11 +269,11 @@ b) As licenças de veículos de aluguer que sejam transferidos para indivíduos 
 
 ...
 
-###### Art. 30.º Os automóveis ligeiros de aluguer para transporte de passageiros deverão ter bem patente no seu interior, e devidamente resguardada, uma cópia da tabela de preços, aprovada nos termos deste regulamento, e dos deveres dos condutores, fornecida pelo Grémio dos Industriais de Transportes em Automóveis. Os automóveis ligeiros de aluguer para o transporte de mercadorias, incluídos os empregados nos transportes a que se referem os artigos 217.º e 218.º do presente diploma, deverão ostentar distintivos e letreiros exteriores, conforme normas a fixar pela Direcção-Geral de Transportes Terrestres.
+Art. 30.º Os automóveis ligeiros de aluguer para transporte de passageiros deverão ter bem patente no seu interior, e devidamente resguardada, uma cópia da tabela de preços, aprovada nos termos deste regulamento, e dos deveres dos condutores, fornecida pelo Grémio dos Industriais de Transportes em Automóveis. Os automóveis ligeiros de aluguer para o transporte de mercadorias, incluídos os empregados nos transportes a que se referem os artigos 217.º e 218.º do presente diploma, deverão ostentar distintivos e letreiros exteriores, conforme normas a fixar pela Direcção-Geral de Transportes Terrestres.
 
 ...
 
-###### Art. 53.º Os requerimentos pedindo a concessão de licenças para a exploração da indústria de transportes em automóveis pesados de mercadorias em regime de aluguer serão entregues na Direcção-Geral de Transportes Terrestres e deles constará:
+Art. 53.º Os requerimentos pedindo a concessão de licenças para a exploração da indústria de transportes em automóveis pesados de mercadorias em regime de aluguer serão entregues na Direcção-Geral de Transportes Terrestres e deles constará:
 
 a) O nome e morada do requerente, com a indicação do concelho e distrito;
 
@@ -249,7 +289,7 @@ d) A indicação do local onde os veículos se encontram normalmente à disposi�
 
 ...
 
-###### Art. 84.º Entre as empresas ferroviárias e as empresas exploradoras de transportes rodoviários celebrar-se-ão contratos de serviço combinado que assegurem devidamente a ligação entre os dois meios de transporte, os quais deverão obedecer aos seguintes princípios:
+Art. 84.º Entre as empresas ferroviárias e as empresas exploradoras de transportes rodoviários celebrar-se-ão contratos de serviço combinado que assegurem devidamente a ligação entre os dois meios de transporte, os quais deverão obedecer aos seguintes princípios:
 
 1) Os contratos de serviço combinado de passageiros e de mercadorias deverão celebrar-se entre a empresa ferroviária e os concessionários de carreiras que sirvam a mesma localidade onde se situa a estação de caminho de ferro.
 
@@ -269,7 +309,7 @@ d) A indicação do local onde os veículos se encontram normalmente à disposi�
 
 ...
 
-###### Art. 127.º Os concessionários de carreiras regulares são obrigados a assegurar o tráfego normal que se verificar no percurso onde efectuem o serviço público, realizando, quando necessário, os indispensáveis desdobramentos, com início, quer na origem das carreiras, quer em pontos de escala intermédios.
+Art. 127.º Os concessionários de carreiras regulares são obrigados a assegurar o tráfego normal que se verificar no percurso onde efectuem o serviço público, realizando, quando necessário, os indispensáveis desdobramentos, com início, quer na origem das carreiras, quer em pontos de escala intermédios.
 
 § 1.º Para este efeito, poderá a Direcção-Geral de Transportes Terrestres tomar as medidas que julgar convenientes, designadamente impor a aquisição do necessário material.
 
@@ -279,7 +319,7 @@ d) A indicação do local onde os veículos se encontram normalmente à disposi�
 
 ...
 
-###### Art. 136.º As carreiras regulares e provisórias serão exploradas segundo as seguintes normas:
+Art. 136.º As carreiras regulares e provisórias serão exploradas segundo as seguintes normas:
 
 I - Carreiras interurbanas:
 
@@ -329,7 +369,7 @@ d) Tarifas aprovadas pelo Ministro das Comunicações mediante informação pres
 
 ...
 
-###### Art. 138.º Os locais de paragem e de estacionamento das carreiras de serviço público serão fixados pela Direcção-Geral de Transportes Terrestres, e não poderão ser alterados pelos respectivos concessionários senão por motivos de força maior.
+Art. 138.º Os locais de paragem e de estacionamento das carreiras de serviço público serão fixados pela Direcção-Geral de Transportes Terrestres, e não poderão ser alterados pelos respectivos concessionários senão por motivos de força maior.
 
 § 1.º Para a fixação, dentro das localidades, dos itinerários, locais de paragem e de estacionamento de veículos adstritos a transportes colectivos serão ouvidas as câmaras municipais interessadas quando as concessões não sejam por elas exploradas.
 
@@ -337,7 +377,7 @@ d) Tarifas aprovadas pelo Ministro das Comunicações mediante informação pres
 
 ...
 
-###### Art. 140.º. Os horários das carreiras regulares e provisórias serão fixados pela Direcção-Geral de Transportes Terrestres tendo em atenção o interesse público e o disposto no artigo 81.º
+Art. 140.º. Os horários das carreiras regulares e provisórias serão fixados pela Direcção-Geral de Transportes Terrestres tendo em atenção o interesse público e o disposto no artigo 81.º
 
 § 1.º Para efeitos deste artigo, a Direcção-Geral de Transportes Terrestres poderá impor a conjugação dos horários das carreiras interurbanas que digam respeito a uma mesma região, entre si e com o caminho de ferro.
 
@@ -349,11 +389,11 @@ d) Tarifas aprovadas pelo Ministro das Comunicações mediante informação pres
 
 ...
 
-###### Art. 146.º As tarifas de carreiras interurbanas estão sujeitas a prévia aprovação da Direcção-Geral de Transportes Terrestres.
+Art. 146.º As tarifas de carreiras interurbanas estão sujeitas a prévia aprovação da Direcção-Geral de Transportes Terrestres.
 
 ...
 
-###### Art. 182.º Nos automóveis pesados empregados em carreiras de serviço público de passageiros, além do respectivo condutor, prestará serviço um cobrador.
+Art. 182.º Nos automóveis pesados empregados em carreiras de serviço público de passageiros, além do respectivo condutor, prestará serviço um cobrador.
 
 § 1.º Só podem exercer a profissão de cobrador os indivíduos de idade superior a 21 anos.
 
@@ -361,11 +401,11 @@ d) Tarifas aprovadas pelo Ministro das Comunicações mediante informação pres
 
 ...
 
-###### Art. 227.º São punidas com o cancelamento imediato da concessão as transgressões dos artigos 87.º, 97.º, 102.º e 124.º, § 1.º do artigo 127.º e § 1.º do artigo 135.º, e bem assim o não cumprimento das cláusulas da concessão, independentemente das sanções penais aplicáveis.
+Art. 227.º São punidas com o cancelamento imediato da concessão as transgressões dos artigos 87.º, 97.º, 102.º e 124.º, § 1.º do artigo 127.º e § 1.º do artigo 135.º, e bem assim o não cumprimento das cláusulas da concessão, independentemente das sanções penais aplicáveis.
 
 ...
 
-###### Art. 228.º São punidas com a multa de 5000$00:
+Art. 228.º São punidas com a multa de 5000$00:
 
 a) A transgressão dos artigos 8.º, 13.º, 20.º, 26.º, 27.º e seus parágrafos, 41.º e 144.º;
 
@@ -389,7 +429,7 @@ g) Os transportes a que se refere o § 1.º do artigo 1.º, quando realizados se
 
 ...
 
-###### Art. 232.º O excesso de carga útil transportada em automóveis de mercadorias será punido com a multa, expressa em escudos, que resulte da aplicação da fórmula M = (2 x E)/N, em que E representa o excesso de carga em quilogramas e N a carga útil em toneladas.
+Art. 232.º O excesso de carga útil transportada em automóveis de mercadorias será punido com a multa, expressa em escudos, que resulte da aplicação da fórmula M = (2 x E)/N, em que E representa o excesso de carga em quilogramas e N a carga útil em toneladas.
 
 § 1.º A mesma multa será aplicada pelo não cumprimento das limitações de carga estabelecidas para a passagem sobre pontes e obras de arte, sendo neste caso E o excesso de carga verificado em quilogramas e N a carga máxima em toneladas admissível na travessia de pontes ou obras de arte.
 
@@ -397,12 +437,12 @@ g) Os transportes a que se refere o § 1.º do artigo 1.º, quando realizados se
 
 A inobservância do disposto neste parágrafo será punida com a multa de 5000$00, observando-se, igualmente, o estatuído no § 1.º do artigo 228.º
 
-###### Art. 2.º Os contratos de serviço combinado existentes à data da publicação deste decreto e que não obedeçam aos princípios estabelecidos pelo artigo 84.º deverão ser anulados ou substituídos no prazo de um ano a contar daquela data.
+Art. 2.º Os contratos de serviço combinado existentes à data da publicação deste decreto e que não obedeçam aos princípios estabelecidos pelo artigo 84.º deverão ser anulados ou substituídos no prazo de um ano a contar daquela data.
 
-###### Art. 3.º As multas aplicadas nos termos do [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948, e do presente diploma não ficam sujeitas a qualquer adicional.
+Art. 3.º As multas aplicadas nos termos do [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948, e do presente diploma não ficam sujeitas a qualquer adicional.
 
-###### Art. 4.º Fica revogado o [Decreto n.º 43614](https://diariodarepublica.pt/dr/detalhe/decreto/43614-1961-569517), de 21 de Abril de 1961.
+Art. 4.º Fica revogado o [Decreto n.º 43614](https://diariodarepublica.pt/dr/detalhe/decreto/43614-1961-569517), de 21 de Abril de 1961.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Junho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Carlos Gomes da Silva Ribeiro.

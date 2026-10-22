@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/21/2026/06/09/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/21-2026-1130346897
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-09T00:00:00Z'
+  retrieved_at: '2026-10-22T18:43:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1e9c72796e483fdf3b019fdd2a924ff3f3fd8b753bb9751cf03d2a9a72e944a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 116af21bba504e281055338d2dd193c88c5b0074aa265f356a3e9d8d1f553aef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:43:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conselho Económico e Social
-- Nomeação
 - Madeira.região Autónoma
+- Nomeação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/108/1991/08/17/p/dre
@@ -85,16 +85,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674430:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:43:21Z'
   warnings: []
   errors: []
 ---
@@ -103,8 +119,10 @@ validation:
 
 Designa os representantes da Região Autónoma da Madeira no Conselho Económico e Social
 
-A Assembleia Legislativa da Região Autónoma da Madeira resolve, nos termos da alínea n) do n.º 1 do artigo 36.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, e em conformidade com o disposto na alínea j) do n.º 1 e no n.º 5 do artigo 3.º da [Lei n.º 108/91](https://diariodarepublica.pt/dr/detalhe/lei/108-1991-674430), de 17 de agosto, na sua redação atual, designar Brício André Martins de Araújo e Maria Isabel Rodrigues dos Santos como representantes da Região Autónoma da Madeira no Conselho Económico e Social e Joana Carolina Oliveira da Silva e João Guilherme Gonçalves Ribeiro como seus suplentes.
+A Assembleia Legislativa da Região Autónoma da Madeira resolve, nos termos da alínea n) do n.º 1 do artigo 36.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, e em conformidade com o disposto na alínea j) do n.º 1 e no n.º 5 do artigo 3.º da [Lei n.º 108/91](https://diariodarepublica.pt/dr/detalhe/lei/108-1991-674430), de 17 de agosto, na sua redação atual, designar Brício André Martins de Araújo e Maria Isabel Rodrigues dos Santos como representantes da Região Autónoma da Madeira no Conselho Económico e Social e Joana Carolina Oliveira da Silva e João Guilherme Gonçalves Ribeiro como seus suplentes.
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 3 de junho de 2026.
 
-**A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.**
+A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.
+
+119948745

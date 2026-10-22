@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/42/2026/02/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2026-1051282280
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-16T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: efdc0ba00aa97bd33571d5d1d0c125017061f07838d53ae2e8a7eecccde9c291
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3eceb912d3553c84f059fd12c7974677d48d4f44a4ed4bd67f980d1a2bfa0ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto do Emprego e Formação Profissional
 - Conselho Consultivo Regional
 - Conselho de Administração
 - Definição de Competências
 - Instituto de Informática
+- Instituto do Emprego e Formação Profissional
 - Orgânica
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:143/2012
+  label: Altera, a partir de 21 de fevereiro de 2026, os artigos 1.º, 2.º, 3.º, 5.º, 6.º, 8.º, 10.º, 14.º e 15.º, adita o
+    artigo 3.º-A e revoga o n.º 2 do artigo 3.º, as alíneas h), i), j) e k) do n.º 3 do artigo 14.º e o artigo 16.º do Decreto-Lei
+    n.º 143/2012, de 11 de julho, Diário da República n.º 133/2012, Série I
+  source: null
+  date: '2012-07-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/143/2012/07/11/p/dre
   label: null
@@ -108,16 +115,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:107094720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184108564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
 article_structure:
-  article_count: 19
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:23Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +193,7 @@ Considerando, finalmente, que a reforma da organização da Administração Púb
 
 Assim:
 
-Ao abrigo do disposto nos n.<sup>os</sup> 3 e 6 do artigo 3.º e no artigo 6.º do [Decreto-Lei n.º 200/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2006-545779), de 25 de outubro, no artigo 16.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de janeiro, na sua atual redação, e na alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Ao abrigo do disposto nos n.os 3 e 6 do artigo 3.º e no artigo 6.º do [Decreto-Lei n.º 200/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2006-545779), de 25 de outubro, no artigo 16.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de janeiro, na sua atual redação, e na alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -170,7 +213,9 @@ Os artigos 1.º, 2.º, 3.º, 5.º, 6.º, 8.º, 10.º, 14.º e 15.º do [Decreto-
 
 3 - A definição das orientações estratégicas e a fixação de objetivos para o IEFP, I. P., bem como o acompanhamento da sua execução são articulados entre os membros do Governo responsáveis pelas áreas do trabalho, solidariedade e segurança social e da economia.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...]
 
@@ -188,7 +233,9 @@ d) [...]
 
 e) [...]
 
-###### Artigo 3.º — Missão
+Artigo 3.º
+
+Missão
 
 1 - O IEFP, I. P., é o serviço público de emprego nacional e tem por missão promover a criação e a qualidade do emprego e combater o desemprego, através da execução de políticas ativas nas suas áreas de atribuição.
 
@@ -196,7 +243,9 @@ e) [...]
 
 3 - [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -234,7 +283,9 @@ d) Pronunciar-se sobre a definição da estrutura dos serviços, os projetos da 
 
 e) [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -244,7 +295,9 @@ e) [...]
 
 4 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Os conselhos consultivos regionais são órgãos de consulta em matéria de trabalho e formação, que funcionam junto de cada uma das áreas territoriais definidas no n.º 3 do artigo 2.º
 
@@ -272,11 +325,15 @@ b) [...]
 
 c) [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 Os membros do conselho diretivo são equiparados, para efeitos remuneratórios, a gestores públicos de empresa de grupo B.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -308,7 +365,9 @@ k) [Revogada.]
 
 4 - [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Aos delegados regionais e aos subdelegados regionais aplica-se o procedimento concursal previsto para os cargos de direção superior, nos termos do Estatuto do Pessoal Dirigente.
 
@@ -412,12 +471,14 @@ São revogados o n.º 2 do artigo 3.º, as alíneas h), i), j) e k) do n.º 3 do
 
 Visto e aprovado em Conselho de Ministros de 28 de novembro de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro - Rosário Palma Ramalho.
 
-**Promulgado em 6 de fevereiro de 2026.**
+Promulgado em 6 de fevereiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 9 de fevereiro de 2026.**
+Referendado em 9 de fevereiro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119947656

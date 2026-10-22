@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 301/2001, 7º Suplemento, Série I-B de 2001-12-31
   number: '301'
   series: I
-  supplement: 7º Suplemento
+  supplement: null
   pages: 8540-(27) a 8540-(27)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/12/301b07/00270027.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/21-l/2001/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/21-l-2001-319130
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-18T00:00:00Z'
+  retrieved_at: '2026-10-22T18:59:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0132b6f8f8a686b6cf44f3b59818032a0f87c0b9b3c5cb4d02b9516c6ea9890b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6937c08646b6d5c8dc82f164c724b8ed8be610caa03ed73a63f2f9b98844c5f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:59:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,20 +76,30 @@ relationships:
   target: pt:dre:248492:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:248492:por
+  label: "Renovada, por um periodo de seis anos, a zona de caça concessionada pela Port 1388/2001 de 07-Dez, rectificada pela\
+    \ presente declaração, pela PORT.61/2008.18.01.2008.MADRP, DR.IS [13] de 18.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/61-2008-248492
+  date: '2008-01-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1388/2001/12/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1388/2001/12/07/p/dre
+- type: cites
+  target: pt:dre:576917:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:59:07Z'
   warnings: []
   errors: []
 ---

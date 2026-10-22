@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 252/1995, 3º Suplemento, Série I-B de 1995-10-31
   number: '252'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 6774-(11) a 6774-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1995/10/252b03/00110011.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/136/1995/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/136-1995-545607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-10-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:44:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd29e39452bf49c2a8dde9832bd4691f4919712aaba48d93ff718333ee9db54d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3869f2909e8414e6fab848891e3bf5aec03777468f5c06eb902be7f5ed297206
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:44:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,24 +78,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/640-r2/1994/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/640-r2/1994/07/15/p/dre
+- type: cites
+  target: pt:dre:431799:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:44:33Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 136/95
+# Declaração de rectificação n.º 136/95
 
 Segundo comunicação do Ministério da Agricultura, a planta anexa à [Portaria n.º 1030/95](https://diariodarepublica.pt/dr/detalhe/portaria/1030-1995-431799), de 22 de Agosto, publicada no Diário da República, 1.ª série, n.º 193, de 22 de Agosto de 1995, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com inexactidões, pelo que se procede de novo à sua publicação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/252b03/00110011.pdf))](https://files.diariodarepublica.pt/1s/1995/10/252b03/00110011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/252b03/00110011.pdf)
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 23 de Outubro de 1995. - O Secretário-Geral, França Martins.

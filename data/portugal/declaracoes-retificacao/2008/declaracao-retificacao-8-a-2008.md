@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 40/2008, 1º Suplemento, Série I de 2008-02-26
   number: '40'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1300-(2) a 1300-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/02/04001/0000200011.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/8-a/2008/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-a-2008-583664
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T19:10:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4db34f6b95b8d00afbc371168538d7345fc6ffb4aab509d4232ab37a73f46804
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3a904bf90fdfbe8fab17aa3ec0f46549c5399e42a8f0194f40f39a2a8306740
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:10:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Publicidade
+- Açores
 - Caderno de Encargos
 - Comunicação Social
 - Concurso Público
-- ERC
 - Definição de Competências
 - Documentação
-- Instituto das Comunicações de Portugal
-- Televisão Digital Terrestre
+- ERC
 - Informação
-- Licenciamento
-- Operador de Televisão
+- Instituto das Comunicações de Portugal
 - Internet
+- Licenciamento
 - Madeira.região Autónoma
+- Operador de Televisão
+- Publicidade
 - Regulamento
-- Açores
 - Televisão
+- Televisão Digital Terrestre
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
@@ -101,16 +101,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/207-a/2008/02/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/207-a/2008/02/25/p/dre
+- type: cites
+  target: pt:dre:161119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636409:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:portaria:207-A/2008
+  label: "Rectifica a Portaria n.º 207-A/2008, de 25 de Fevereiro, DR.IS [39]Supl, e procede à sua republicação\0\0"
+  source: null
+  date: '2008-02-25'
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:10:54Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +190,7 @@ b) O licenciamento do operador de distribuição responsável pela selecção e 
 
 Em 22 de Fevereiro de 2008.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia. - O Ministro dos Assuntos Parlamentares, Augusto Ernesto Santos Silva.**
+O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia. - O Ministro dos Assuntos Parlamentares, Augusto Ernesto Santos Silva.
 
 Regulamento do concurso público para a atribuição de direitos de utilização de frequências de âmbito nacional e parcial para o serviço de radiodifusão televisiva digital terrestre e de licenciamento de operador de distribuição.
 
@@ -585,12 +606,12 @@ MUX C - Canal 69 - 854 MHz -862 MHz.
 
 Zona de cobertura de âmbito parcial relativa aos Multiplexers D, E e F
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/04001/0000200011.pdf))](https://files.diariodarepublica.pt/1s/2008/02/04001/0000200011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/04001/0000200011.pdf)
 
 Pontos teste na delimitação efectuada no mapa anterior:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/04001/0000200011.pdf))](https://files.diariodarepublica.pt/1s/2008/02/04001/0000200011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/04001/0000200011.pdf)
 
 ## ANEXO II — Critérios de avaliação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/04001/0000200011.pdf))](https://files.diariodarepublica.pt/1s/2008/02/04001/0000200011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/04001/0000200011.pdf)

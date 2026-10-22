@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/14/2025/11/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/14-2025-944646835
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-06T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34ee383ddd6e357e060559601ef82389ce2032041780c8111715e7f54ce34a92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1bf7ac956f9dcaa7002e8d87fad8fb875647a2c8795e026c41b5dd9a1e173e33
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Processo Civil
+- Autarquia Local
 - Castro Marim
 - Indemnização
 - Interpretação do Direito
 - Jurisprudencia
-- Autarquia Local
+- Processo Civil
 - Venda de Imóveis
 relationships:
 - type: cites
@@ -92,16 +92,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/61/2008/10/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/61/2008/10/31/p/dre
+- type: cites
+  target: pt:dre:115456103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618741:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:21Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +184,7 @@ Conclusões do Recurso:
 
 19 - E, sem qualquer dúvida, as obrigações futuras só prescrevem no prazo de três anos contados do momento em que cada um seja exequível (ou conhecido) pelo lesado.
 
-20 - O acórdão recorrido ofende o disposto no art.º 498.º n.<sup>os</sup> 1 e 2 do C.C.
+20 - O acórdão recorrido ofende o disposto no art.º 498.º n.os 1 e 2 do C.C.
 
 O Réu/Recorrido não contra-alegou.
 
@@ -204,13 +220,13 @@ O processo foi com vista ao Digno Magistrado do Ministério Público, que emitiu
 
 Factos Apurados decorrentes do Acórdão Recorrido:
 
-1 - Os AA. foram os proprietários do prédio rústico identificado nos autos (fls 35v), com a área de 1118 m<sup>2</sup>, desde 1980 até 2018.
+1 - Os AA. foram os proprietários do prédio rústico identificado nos autos (fls 35v), com a área de 1118 m2, desde 1980 até 2018.
 
 2 - O Réu Município de Castro Marim em 18 de Junho de 2002, mandou que entrassem na propriedade dos AA. máquinas e ocupou o terreno dos AA.
 
 3 - Por tais factos correram termos nos serviços do Ministério Público do Tribunal Judicial, processo-crime, que foi arquivado em 02.12.2004, não tendo sido exercida acção penal.
 
-4 - Foi instaurada pelos AA. acção de Processo Ordinário, tendo o Réu sido condenado por sentença proferida nos autos em 10.05.2012, confirmada pelo Tribunal da Relação de Évora em 05.06.2014, transitada em julgado, a reconhecer o prédio como legitima propriedade dos AA. e que o Réu Câmara Municipal o ocupou ilicitamente, numa área de 1180 m<sup>2</sup>, construindo uma praça pública em pedra branca e cinzenta e arrancando duas figueiras de grande porte.
+4 - Foi instaurada pelos AA. acção de Processo Ordinário, tendo o Réu sido condenado por sentença proferida nos autos em 10.05.2012, confirmada pelo Tribunal da Relação de Évora em 05.06.2014, transitada em julgado, a reconhecer o prédio como legitima propriedade dos AA. e que o Réu Câmara Municipal o ocupou ilicitamente, numa área de 1180 m2, construindo uma praça pública em pedra branca e cinzenta e arrancando duas figueiras de grande porte.
 
 5 - Condenou-se a Câmara a restituir aos AA. o referido imóvel livre e desocupado, no seu estado primitivo, desfazendo para o efeito a obra realizada nesse terreno.
 
@@ -310,7 +326,7 @@ Para a verificação do prazo prescricional, na sua exegese, o acórdão recorri
 
 “Vale isto por dizer, na expressão do Acórdão do STJ, de 21.06.2018 (processo n.º 1006/15.0T8AGH.L1.S1), que «mesmo que persistam os efeitos do facto ilícito, designadamente os danos, o começo do prazo da prescrição conta-se a partir do momento em que o lesado sabe que dispõe do direito à indemnização», «sendo certo também não ser indispensável conhecer a extensão integral do dano».”
 
-“Sendo assim e porque no caso dos autos a causa de pedir invocada pelos autores radica na conduta ilícita do réu consubstanciada na ocupação do terreno dos autores, temos por certo que os pressupostos da responsabilidade civil em que os autores/lesados assentam o seu pedido de indemnização tornaram-se do seu conhecimento em 18 de Junho de 2002 (data em que uma máquina do réu Município..., entrou no prédio dos autores, ocupou todo o terreno de norte para sul e destruiu duas figueiras de grande porte, no valor de € 500,00 cada uma) e nos meses de julho e agosto do mesmo ano (altura em que o réu ocupou totalmente o dito terreno de norte para sul e de nascente para poente numa área de 1180 m<sup>2</sup>, calcetando-o, com pedra miúda branca e cinzenta, transformando esse terreno em praça e local público) [cfr. artigos 6.º, 7.º, 8.º e 10.º da petição inicial].”
+“Sendo assim e porque no caso dos autos a causa de pedir invocada pelos autores radica na conduta ilícita do réu consubstanciada na ocupação do terreno dos autores, temos por certo que os pressupostos da responsabilidade civil em que os autores/lesados assentam o seu pedido de indemnização tornaram-se do seu conhecimento em 18 de Junho de 2002 (data em que uma máquina do réu Município..., entrou no prédio dos autores, ocupou todo o terreno de norte para sul e destruiu duas figueiras de grande porte, no valor de € 500,00 cada uma) e nos meses de julho e agosto do mesmo ano (altura em que o réu ocupou totalmente o dito terreno de norte para sul e de nascente para poente numa área de 1180 m2, calcetando-o, com pedra miúda branca e cinzenta, transformando esse terreno em praça e local público) [cfr. artigos 6.º, 7.º, 8.º e 10.º da petição inicial].”
 
 “Donde ter-se por assente que, pelo menos desde agosto de 2002, os autores, invocantes da lesão do seu direito de propriedade, adquiram, formalmente, o direito que se propõem exercer, não existindo qualquer impedimento legal à formulação de pedido de indemnização com esse fundamento.”
 
@@ -404,7 +420,7 @@ Assim, se o lesado não tiver conhecimento do dano, aplica-se a prescrição ord
 
 Esta afirmação tem, todavia, duas consequências, afirmadas por Vaz Serra:
 
-- tal como já atrás citado, para o começo do prazo de prescrição trienal, não é necessário que o lesado tenha conhecimento da extensão integral do dano, pois pode pedir a sua fixação para momento posterior (RLJ, 95.º, 1963, pg. 308, em comentário a acórdão que decidiu que o prazo de proposição da acção de indemnização por acidente de viação prevista no art.º 56.º n.º 9 do Código da Estrada se deveria iniciar quando o lesado tem conhecimento do dano e não da respectiva totalidade).<sup>1</sup>
+- tal como já atrás citado, para o começo do prazo de prescrição trienal, não é necessário que o lesado tenha conhecimento da extensão integral do dano, pois pode pedir a sua fixação para momento posterior (RLJ, 95.º, 1963, pg. 308, em comentário a acórdão que decidiu que o prazo de proposição da acção de indemnização por acidente de viação prevista no art.º 56.º n.º 9 do Código da Estrada se deveria iniciar quando o lesado tem conhecimento do dano e não da respectiva totalidade).1
 
 - no caso de acrescer ao dano primitivo um novo dano, a priori desconhecido, a prescrição só começará a correr, relativamente a esse outro dano, da data em que o lesado teve conhecimento dele (RLJ, 95.º, pg. 310).
 
@@ -442,7 +458,7 @@ A orientação para que se propende foi feita no acórdão recorrido, bem como e
 
 Consta igualmente de diversas decisões do S.T.A., a saber: de 24/5/2018, p.º 1165/12.4BESNT, de 8/1/2009, p.º 0604/08 ou de 1/6/2006, p.º 0257/06, também da base de dados www.dgsi.pt.
 
-Ao contrário, decidiu conforme a doutrina do acórdão fundamento, numa situação de infiltração de águas pluviais provenientes de partes comuns de um prédio, com a especificidade de o facto ilícito continuado subsistir à data da propositura da acção, o Ac. do S.T.J. 14/3/2019, p.º 2446/15.0T8BRG.G2.S1, rel. Maria da Graça Trigo.<sup>2</sup>
+Ao contrário, decidiu conforme a doutrina do acórdão fundamento, numa situação de infiltração de águas pluviais provenientes de partes comuns de um prédio, com a especificidade de o facto ilícito continuado subsistir à data da propositura da acção, o Ac. do S.T.J. 14/3/2019, p.º 2446/15.0T8BRG.G2.S1, rel. Maria da Graça Trigo.2
 
 À semelhança do que se escreveu no Ac.S.T.J. de 5/2/2009, p.º n.º 3870-08 (inédito), rel. Pires da Rosa, o facto danoso completou-se no decurso do ano de 2002 - apenas as suas consequências se mantêm no tempo, como ocorre em todos os factos danosos, sem que isso altere por qualquer forma a sua natureza.
 
@@ -492,7 +508,7 @@ Oportunamente, remeta certidão do acórdão para publicação na 1.ª série do
 
 Lisboa e S.T.J., 15/6/2023. - José Manuel Cabrita Vieira e Cunha (relator) - Jorge Arcanjo - Nuno Ataíde das Neves - Ana Resende - Afonso Henrique - Isabel Maria Manso Salgado - Maria Clara Sottomayor - Graça Amaral - Maria Olinda Garcia - Oliveira Abreu - Maria João Vaz Tomé (com declaração) - António Magalhães - Ricardo Alberto Santos Costa - José Maria Ferreira Lopes - Manuel Capelo - António Barateiro Martins - Fernando Baptista - Luís Espírito Santo (voto vencido conforme declaração que junto) - Ana Paula Lobo, vencida segundo voto que anexo - Manuel José Aguiar Pereira - vencido nos termos da declaração de voto do Sr. Juiz Conselheiro Espírito Santo - Maria José Mouro Marques da Silva (vencida pela razão escrita no voto vencido do Conselheiro Espírito Santo, que acompanho) - José Maria Sousa Pinto, vencido conforme declaração de voto apresentada pelo Exmº Senhor Conselheiro Cura Mariano, que acompanho - Jorge Leal (vencido, conforme declaração de voto que junto em anexo) - Maria dos Prazeres Beleza (vencida, conforme declaração que junto) - Maria da Graça Trigo (vencida, conforme declaração de voto junta) - Pedro de Lima Gonçalves (vencido, conforme declaração de voto que anexo) - Fátima Gomes, vencida, conforme declaração de voto junta - Catarina Serra (vencida, conforme declaração de voto junta) - Fernando Jorge Dias (vencido subscrevendo o voto da Exmª Conselheira Fátima Gomes) - João Cura Mariano (vencido, conforme declaração de voto junta).
 
-<sup>1</sup> Escreve o Autor: “A melhor solução parece ser, de facto, que o prazo corre logo que o lesado conhece a existência do dano, ainda que ignore a sua extensão, mas que, se mais tarde se produzir outro dano imprevisível, causado pelo acidente, o prazo relativo ao direito de indemnização deste outro dano corre da data em que ele for conhecido pelo lesado.” (…)
+1 Escreve o Autor: “A melhor solução parece ser, de facto, que o prazo corre logo que o lesado conhece a existência do dano, ainda que ignore a sua extensão, mas que, se mais tarde se produzir outro dano imprevisível, causado pelo acidente, o prazo relativo ao direito de indemnização deste outro dano corre da data em que ele for conhecido pelo lesado.” (…)
 
 “Se o dano já se produziu ou é previsível e o lesado o conhece ou pode conhecer, podendo também o tribunal apreciar a obrigação de indemnização, o prazo deve começar a correr, pois nada mais é preciso para que o direito de indemnização possa ser exercido. Se depois se produz outro dano imprevisível, o prazo, quanto a este outro dano, começa na data em que o lesado tem conhecimento dele.” (…)
 
@@ -504,7 +520,7 @@ Lisboa e S.T.J., 15/6/2023. - José Manuel Cabrita Vieira e Cunha (relator) - Jo
 
 “Proposta a acção, fica o responsável a saber que o lesado exerce o seu direito de indemnização; e, como o objectivo da lei é não deixar aquele sujeito por largo tempo a incerteza quanto ao exercício do direito de indemnização, o prazo deve começar a correr logo que é possível ao lesado exercer o seu direito.”
 
-<sup>2</sup> Salienta-se que alguma jurisprudência das Relações tem seguido a doutrina do acórdão fundamento, no sentido de que o prazo de prescrição de três anos só começa a contar a partir do momento em que o lesado tomou conhecimento da produção efectiva de novos danos, o que afectará, para efeitos de prescrição, as consequências danosas imputáveis ao facto anteriores ao triénio que antecede a instauração da acção: Ac.R.L. 1/7/2021, p.º 935/15.6T8VFX.L1-2, rel. Arlindo Crua, Ac.R.P. 9/12/2020, p.º 11285/15.8T8PRT.P1, rel. Miguel Baldaia de Morais, Ac.R.L. 17/12/2020, p.º 7637/17.7T8LSB.L1-2, rel. Jorge Leal, e Ac.R.L. 2/7/2009, p.º 387/08-6, rel. Gilberto Jorge.
+2 Salienta-se que alguma jurisprudência das Relações tem seguido a doutrina do acórdão fundamento, no sentido de que o prazo de prescrição de três anos só começa a contar a partir do momento em que o lesado tomou conhecimento da produção efectiva de novos danos, o que afectará, para efeitos de prescrição, as consequências danosas imputáveis ao facto anteriores ao triénio que antecede a instauração da acção: Ac.R.L. 1/7/2021, p.º 935/15.6T8VFX.L1-2, rel. Arlindo Crua, Ac.R.P. 9/12/2020, p.º 11285/15.8T8PRT.P1, rel. Miguel Baldaia de Morais, Ac.R.L. 17/12/2020, p.º 7637/17.7T8LSB.L1-2, rel. Jorge Leal, e Ac.R.L. 2/7/2009, p.º 387/08-6, rel. Gilberto Jorge.
 
 ***
 
@@ -514,7 +530,7 @@ Declaração
 
 Apesar de a definição e da ratio legis do instituto da prescrição se afigurarem suficientemente claras, surgem especiais dificuldades hermenêuticas no âmbito da identificação do dies a quo, sobretudo nas hipóteses de prescrição breve respeitantes ao direito ao ressarcimento do dano extracontratual ou aquiliano.
 
-Votei o acórdão, porquanto a solução uniformizadora nele proposta é a que parece melhor resultar dos elementos gramatical (se não se negar a sua falta de ressonância nas palavras da lei, outros sentidos que se pretendam atribuir ao art. 498.º, n.º 1, do CC, encontram nelas menor apoio do que aquela adotada), teleológico (segurança jurídica - que o lesante não corra o risco de ficar exposto à ação indemnizatória sine die) e sistemático (contexto da lei: arts. 306.º, n.º 1, 1.ª parte, 483.º, n.º 1, 564.º, n.º 3, 565.º, 567.º, e 569.º do CC, arts. 225.º, n.<sup>os</sup> 1 e 2, 358.º - 361.º, 556.º, n.º 1, al. b), e 609.º, n.º 2 do CPC; lugares paralelos: arts. 6.º, n.º 2, da [Lei n.º 23/2018](https://diariodarepublica.pt/dr/detalhe/lei/23-2018-115456103), de 5 de junho; art. 3.º do [DL n.º 218/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1999-309009), de 15 de junho, arts. 287.º, n.º 1, 1085.º, n.º 3, e 1786.º, n.º 2 - preceito anteriormente em vigor - do CC. O legislador, se o pretendesse, teria consagrado no art. 498.º, n.º 1, do CC, solução semelhante àquela adotada nas referidas disposições que regulam problemas normativos paralelos) da interpretação da lei.
+Votei o acórdão, porquanto a solução uniformizadora nele proposta é a que parece melhor resultar dos elementos gramatical (se não se negar a sua falta de ressonância nas palavras da lei, outros sentidos que se pretendam atribuir ao art. 498.º, n.º 1, do CC, encontram nelas menor apoio do que aquela adotada), teleológico (segurança jurídica - que o lesante não corra o risco de ficar exposto à ação indemnizatória sine die) e sistemático (contexto da lei: arts. 306.º, n.º 1, 1.ª parte, 483.º, n.º 1, 564.º, n.º 3, 565.º, 567.º, e 569.º do CC, arts. 225.º, n.os 1 e 2, 358.º - 361.º, 556.º, n.º 1, al. b), e 609.º, n.º 2 do CPC; lugares paralelos: arts. 6.º, n.º 2, da [Lei n.º 23/2018](https://diariodarepublica.pt/dr/detalhe/lei/23-2018-115456103), de 5 de junho; art. 3.º do [DL n.º 218/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1999-309009), de 15 de junho, arts. 287.º, n.º 1, 1085.º, n.º 3, e 1786.º, n.º 2 - preceito anteriormente em vigor - do CC. O legislador, se o pretendesse, teria consagrado no art. 498.º, n.º 1, do CC, solução semelhante àquela adotada nas referidas disposições que regulam problemas normativos paralelos) da interpretação da lei.
 
 De acordo com o art. 306.º, n.º 1, 1.ª parte, do CC, a prescrição começa a correr no dia e que o direito pode ser feito valer e, conforme o art. 498.º, n.º 1, do mesmo corpo de normas, o direito pode ser feito valer a contar da data em que o lesado teve conhecimento do direito que lhe compete - i.e., do conhecimento de uma espécie de lesividade ressarcível ou possibilidade indemnizatória. O lesado encontra-se então em condições concretas de livremente demandar ou não o lesante, respeitando-se o seu direito de defesa, constitucionalmente consagrado.
 
@@ -693,3 +709,5 @@ Ora, relativamente à ocupação que ocorreu no triénio que antecedeu o exercí
 Aliás, só uma leitura adequada do artigo 498.º, n.º 1, do Código Civil, atenta às caraterísticas de um ato ilícito e lesivo continuado, garante o cumprimento da exigência constitucional, inerente ao modelo do Estado de direito democrático, do legislador ordinário assegurar a reparação dos danos injustificados que alguém sofra em consequência de uma conduta de outrem que se manteve atual.
 
 Daí que teria preferido que se uniformizasse jurisprudência no sentido de apenas se considerar prescrito o direito de indemnização pelos prejuízos que resultaram da ocupação de um imóvel ocorrida anteriormente ao triénio que antecedeu o exercício do direito de indemnização, revogando-se, consequentemente, o acórdão recorrido. ― João Cura Mariano.
+
+119727773

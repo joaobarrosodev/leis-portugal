@@ -46,25 +46,33 @@ source:
   metadata_url: https://data.dre.pt/eli/port/448-a/2026/10/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/448-a-2026-1177060617
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-10-02T00:00:00Z'
+  retrieved_at: '2026-10-22T18:54:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4bbc398eac1b33e29ebb399181ecdfcd4ae289b2005ee4a27f7f982f0788c324
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ace8c02d4e67171d16c3774c21319d2030ec8cf560a561dad8a2b4ae5d6313a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:54:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código dos Impostos Especiais de Consumo
+- Combustível
+- Gasóleo
+- Gasolina
+- Imposto sobre Produtos Petrolíferos
+- Produto Petrolífero
+- Regulamentação de Atos Legislativos
+- Taxa
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/73/2010/06/21/p/dre
@@ -78,16 +86,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/437-b/2026/09/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/437-b/2026/09/25/p/dre
+- type: cites
+  target: pt:dre:1174266088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:54:20Z'
   warnings: []
   errors: []
 ---
@@ -128,4 +148,6 @@ A presente portaria entra em vigor no dia 5 de outubro de 2026.
 
 Em 2 de outubro de 2026.
 
-**A Ministra do Ambiente e Energia, Maria da Graça Carvalho. - A Secretária de Estado dos Assuntos Fiscais, Cláudia Maria dos Reis Duarte Melo de Carvalho.**
+A Ministra do Ambiente e Energia, Maria da Graça Carvalho. - A Secretária de Estado dos Assuntos Fiscais, Cláudia Maria dos Reis Duarte Melo de Carvalho.
+
+119949686

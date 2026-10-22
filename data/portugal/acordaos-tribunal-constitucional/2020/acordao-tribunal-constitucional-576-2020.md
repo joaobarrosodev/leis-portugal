@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/11/22600/0007900084.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/576/2020/11/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/576-2020-148963302
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-11-19T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a3cb34eddff60ffe8fcde0f1020ed85e5a6cf5ef60cdc3c2235e76721041a5e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: affb05c682deec6b630da4fc98486985a8c1c6a211058842958716d2b4a9a31d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -117,13 +117,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:08Z'
   warnings: []
   errors: []
 ---
@@ -303,3 +303,5 @@ III. Decisão
 Pelo exposto, o Tribunal Constitucional decide ter por verificada a constitucionalidade e a legalidade do referendo local que a Assembleia Municipal de Vizela deliberou realizar, na sua reunião ordinária de 30 de setembro de 2020.
 
 Lisboa, 27 de outubro de 2020. - José João Abrantes - Maria José Rangel de Mesquita - Assunção Raimundo - Pedro Machete - João Pedro Caupers - Fernando Vaz Ventura - Gonçalo Almeida Ribeiro - Joana Fernandes Costa - Mariana Canotilho - Manuel da Costa Andrade - O relator atesta o voto de conformidade dos Senhores Conselheiros José António Teles Pereira, Maria de Fátima Mata-Mouros e Lino Ribeiro, que participaram no Plenário por videoconferência. José João Abrantes.
+
+113721062

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/11/2026/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/11-2026-1017369019
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-21T00:00:00Z'
+  retrieved_at: '2026-10-22T18:29:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9bfa77685677010ba791fc12039995d95878f5e18ad1c19dd8c9a7060fd51322
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 885f7b290946370dd3f348f1b37e2bacc0f6a4654f605224dab6da4e82698c91
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:29:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,15 +71,21 @@ subjects:
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
 - Despesas Públicas
-- Santa Casa da Misericórdia
 - Lousada
 - Marco de Canaveses
-- VILA do Conde
 - Póvoa do Lanhoso
+- Santa Casa da Misericórdia
 - Valpaços
+- VILA do Conde
 - VILA NOVA de Famalicão
 - VILA Verde
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:207/2021
+  label: Altera, com efeitos a 9 de janeiro de 2026, os n.ºs 1, 4 e 5 e o anexo da Resolução do Conselho de Ministros n.º
+    207/2021, de 31 de dezembro, Diário da República n.º 253/2021, Série I
+  source: null
+  date: '2021-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -108,16 +114,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/207/2021/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/207/2021/12/31/p/dre
+- type: cites
+  target: pt:dre:176907494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:887091776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:933044064:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:29:32Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +196,7 @@ Assim:
 
 Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Alterar os n.<sup>os</sup>1, 4 e 5 da [Resolução do Conselho de Ministros n.º 207/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/207-2021-176907494), de 31 de dezembro, que passam a ter a seguinte redação:
+1 - Alterar os n.os1, 4 e 5 da [Resolução do Conselho de Ministros n.º 207/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/207-2021-176907494), de 31 de dezembro, que passam a ter a seguinte redação:
 
 «1 - Autorizar a Administração Central do Sistema de Saúde, I. P. (ACSS I. P.), a realizar a despesa referente à aquisição de prestações de saúde, nos termos do [Decreto-Lei n.º 138/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2013-500051), de 9 de outubro, mediante a celebração de acordos de cooperação com as Santas Casas da Misericórdia de Esposende, Fão, Felgueiras, Lousada, Marco de Canaveses, Póvoa de Lanhoso, Riba de Ave, Valpaços, Vila do Conde e Vila Verde, no montante global máximo de € 171 511 067,15.
 
@@ -183,3 +225,7 @@ Presidência do Conselho de Ministros, 9 de janeiro de 2026. - O Primeiro-Minist
 | Vila do Conde | 1 371 515,00 € | 1 371 515,00 € | 1 371 515,00 € | 1 371 515,00 € | 2 910 468,40 € | 8 148 026,67 € |
 | Valpaços | 1 462 949,00 € | 1 462 949,00 € | 1 462 949,00 € | 1 462 949,00 € | 2 993 956,43 € | 8 611 250,66 € |
 | Total | 32 102 220,00 € | 32 102 220,00 € | 32 102 220,00 € | 32 102 220,00 € | 43 102 187,15 € | 171 511 067,15 € |
+
+119947338
+
+.Tbl2 { height:26px; } .Tbl3 { text-align:center; } .Tbl4 { min-height:18px; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { text-align:right; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; }

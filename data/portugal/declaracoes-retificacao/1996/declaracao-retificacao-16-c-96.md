@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 278/1996, 1º Suplemento, Série I-A de 1996-11-30
   number: '278'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4340-(2) a 4340-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/11/278a01/00020002.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/16-c/1996/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-c-1996-248864
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:47:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93301be2f3f52450b79b3da1d04e312c1d44cea6c8276496a3e01ba76f82e815
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4407950345dedf1806b763942ef874a81deb83496140e4eab98f32a65aec1c8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:47:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,23 +69,27 @@ reuse:
 subjects:
 - Código de Processo Tributário
 - Dação em Cumprimento
-- Execução Fiscal
 - Direcção Geral das Contribuições e Impostos
+- Execução Fiscal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/125/1996/08/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/125/1996/08/10/p/dre
+- type: cites
+  target: pt:dre:405679:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:47:29Z'
   warnings: []
   errors: []
 ---

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43367-1960-513038
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T19:21:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3a1bfd3e64bf0d16e859769bb7b5ba709a1a84303be2c014e86820b7d1b93ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d504647229f13dfadb79abc34525cb2803a3f9bee14f524251f947305f98316f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:21:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:231121:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
-  section_count: 36
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 22
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:21:20Z'
   warnings: []
   errors: []
 ---
@@ -86,11 +90,11 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovado o Regulamento Telegráfico Internacional, referido no artigo 12.º da Convenção Internacional das Telecomunicações, assinada em Buenos Aires em 22 de Dezembro de 1952, aprovada pelo [Decreto-Lei n.º 40612](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40612-1956-231121), de 26 de Maio de 1956, e ratificada conforme consta de aviso publicado no Diário do Governo n.º 121, 1.ª série, de 3 de Outubro de 1956.
+Artigo único. É aprovado o Regulamento Telegráfico Internacional, referido no artigo 12.º da Convenção Internacional das Telecomunicações, assinada em Buenos Aires em 22 de Dezembro de 1952, aprovada pelo [Decreto-Lei n.º 40612](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40612-1956-231121), de 26 de Maio de 1956, e ratificada conforme consta de aviso publicado no Diário do Governo n.º 121, 1.ª série, de 3 de Outubro de 1956.
 
 Este regulamento, que segue em anexo ao presente decreto e dele faz parte integrante, foi assinado em Genebra em 29 de Novembro de 1958 e substitui o de Paris, assinado em 5 de Agosto de 1949.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Novembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Marcello Gonçalves Nunes Duarte Mathias - Carlos Gomes da Silva Ribeiro.
 
@@ -98,7 +102,7 @@ Regulamento Telegráfico
 
 (Revisão de Genebra, 1958)
 
-## Anexo à Convenção Internacional das Telecomunicações
+Anexo à Convenção Internacional das Telecomunicações
 
 (Buenos Aires, 1952)
 
@@ -338,7 +342,7 @@ H Estação aberta apenas durante a época de Inverno;
 
 79. § 2. Com os alfabetos telegráficos internacionais n.os 1 e 2, as letras seguintes podem ser utilizadas nas relações entre os países que as admitam e que fixem as condições nas quais se efectua a sua transmissão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf))](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
 
 80. § 3. Para assegurar o encaminhamento rápido e seguro do tráfego telegráfico e favorecer o desenvolvimento da rede mundial de telecomunicações, recomenda-se o emprego do código de cinco unidades, segundo o alfabeto telegráfico internacional n.º 2. Esta disposição não se aplica, todavia, às administrações ou explorações particulares reconhecidas que, por acordo mútuo e para uma ligação ou uma rede dada, tenham tomado outras disposições. Neste caso, essas administrações ou explorações particulares reconhecidas podem tomar todas as medidas adequadas para transformar o seu sistema no código de cinco unidades do alfabeto telegráfico internacional n.º 2, cada vez que se verifique ser desejável entrar em ligação com as estações que utilizam este sistema.
 
@@ -388,7 +392,7 @@ Espaço ...
 
 Alfabeto telegráfico internacional n.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf))](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
 
 86. Salvo nos casos previstos no n.º 173, um grupo formado de algarismos e de letras deve transmitir-se ligando os algarismos e as letras por um duplo traço.
 
@@ -474,19 +478,19 @@ Parêntese da direita ... )
 
 Alfabeto telegráfico internacional n.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf))](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
 
 104. As administrações ou explorações particulares reconhecidas que desejem o registo da recepção ou da emissão de sinais «algarismos D» ou «algarismos J» utilizam para esse registo:
 
-105. A impressão do sinal [([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf))](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf) para o registo do sinal «algarismos D»;
+105. A impressão do sinal [(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf) para o registo do sinal «algarismos D»;
 
-106. A impressão do sinal [([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf))](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf) para o registo do sinal «algarismos J».
+106. A impressão do sinal [(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf) para o registo do sinal «algarismos J».
 
 107. As administrações ou explorações particulares reconhecidas que desejem o registo da recepção ou da emissão dos sinais «retrocesso do carreto» ou «mudança de linha» nos aparelhos de fita utilizam para esses registos:
 
 108. A impressão do sinal < para o registo do sinal «retrocesso do carreto»;
 
-109. A impressão do sinal [([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf))](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf) para o registo do sinal «mudança de linha».
+109. A impressão do sinal [(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf) para o registo do sinal «mudança de linha».
 
 110. As disposições respeitantes à transmissão das palavras, dos números inteiros, dos números fraccionários, das palavras ou passagens entre aspas, da letra é (acentuada) e dos sinais dos minutos e segundos, que são aplicáveis aos aparelhos que utilizam o alfabeto telegráfico internacional n.º 1 (n.os 81 a 98), aplicam-se também aos aparelhos que utilizam o alfabeto telegráfico internacional n.º 2.
 
@@ -676,13 +680,13 @@ Sinal de multiplicação ... -..-
 
 ä ou ae .-.-
 
-á ou [([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf))](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf) .--.-
+á ou [(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf) .--.-
 
 ch ----
 
 ñ --.--
 
-ö ou [([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf))](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf) ---.
+ö ou [(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf) ---.
 
 ü ..--
 
@@ -820,7 +824,7 @@ Aspas (« »).
 
 166. § 2. As letras seguintes podem ser empregadas excepcionalmente nas relações entre países que as aceitem:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf))](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
 
 167. § 3. Qualquer chamada, entrelinha, rasura, supressão ou aditamento deve ser ressalvado pelo expedidor ou seu representante.
 
@@ -830,9 +834,9 @@ Aspas (« »).
 
 170. § 5. O sinal de multiplicação é substituído na transmissão pela letra x.
 
-171. § 6. Para a transmissão da letra é (acentuada), das letras [([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf))](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf), e das aspas, veja-se o capítulo VI.
+171. § 6. Para a transmissão da letra é (acentuada), das letras [(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf), e das aspas, veja-se o capítulo VI.
 
-172. § 7. (1) As expressões tais como 30ª, 30ne, 1.º, 2.º, [([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf))](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf), não podem ser reproduzidas pelos aparelhos; os expedidores devem substituí-las por uma expressão equivalente que possa ser telegrafada, por exemplo, para as expressões acima citadas: 30 expoente a (ou 30ª), trintena, primo, secundo, B num losango.
+172. § 7. (1) As expressões tais como 30ª, 30ne, 1.º, 2.º, [(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf), não podem ser reproduzidas pelos aparelhos; os expedidores devem substituí-las por uma expressão equivalente que possa ser telegrafada, por exemplo, para as expressões acima citadas: 30 expoente a (ou 30ª), trintena, primo, secundo, B num losango.
 
 173. (2) Se, todavia, as expressões 30ª, 30(elevado a b), etc., 30 bis, 30 ter, etc., 30 I, 30 II, etc., 30(elevado a 1), 30(elevado a 2), etc., 30 A, 30 B, etc., figurarem no endereço de um telegrama como indicação do número da porta, o taxador separará o número do seu expoente, ou das letras ou algarismos que o acompanham, por um traço de fracção. As expressões referidas serão, por consequência, transmitidas na forma seguinte no endereço de um telegrama: 30/a, 30/b, etc., 30/bis, 30/ter, etc., 30/1, 30/2, etc., 30/1, 30/2, etc., 30/A, 30/B, etc.
 
@@ -1740,9 +1744,13 @@ A Berlin Paris 15 1045 (data e hora)=Télégrammes n.os ... transmis par ampliat
 
 480. § 10. Na redacção dos avisos de não entrega recomenda-se o uso das abreviaturas constantes da publicação «Códigos e abreviaturas em uso nos serviços internacionais de telecomunicações».
 
-### CAPÍTULO XIV — Anulação de um telegrama a pedido do expedidor
+CAPÍTULO XIV
 
-###### ARTIGO 50 — Anulação antes da transmissão, durante o encaminhamento ou após a entrega
+Anulação de um telegrama a pedido do expedidor
+
+ARTIGO 50
+
+Anulação antes da transmissão, durante o encaminhamento ou após a entrega
 
 481. § 1. O expedidor de um telegrama ou o seu legítimo representante pode, justificando a sua qualidade, sustar, se ainda for tempo, a transmissão e a entrega do mesmo.
 
@@ -1756,15 +1764,21 @@ A Berlin Paris 15 1045 (data e hora)=Télégrammes n.os ... transmis par ampliat
 
 486. § 6. Os telegramas anulados a pedido do expedidor são incluídos nas contas internacionais pela mesma forma que os telegramas regularmente entregues ao destinatário. Não são, porém, incluídas as taxas referentes ao percurso não efectuado quando o telegrama for anulado antes de ter alcançado a estação destinatária (n.º 485).
 
-### CAPÍTULO XV — Telegramas com serviços especiais
+CAPÍTULO XV
 
-###### ARTIGO 51 — Disposições gerais
+Telegramas com serviços especiais
+
+ARTIGO 51
+
+Disposições gerais
 
 487. § 1. As disposições constantes dos outros capítulos aplicam-se integralmente aos telegramas especiais, com reserva das modificações previstas no presente capítulo.
 
 488. § 2. Na aplicação dos artigos deste capítulo podem-se combinar as facilidades dadas ao público para os telegramas urgentes, respostas pagas, telegramas conferidos, avisos de recepção, telegramas a fazer seguir, telegramas múltiplos e telegramas a entregar por próprio, pelo correio ou pelo correio aéreo.
 
-###### ARTIGO 52 — Telegramas particulares urgentes
+ARTIGO 52
+
+Telegramas particulares urgentes
 
 489. § 1. O expedidor de um telegrama particular pode obter prioridade de transmissão e de entrega no destino escrevendo a indicação de serviço taxada =Urgent= antes do endereço e pagando o dobro da taxa de um telegrama ordinário do mesmo número de palavras e para o mesmo percurso, com o mínimo de taxação de sete palavras.
 
@@ -1774,7 +1788,9 @@ A Berlin Paris 15 1045 (data e hora)=Télégrammes n.os ... transmis par ampliat
 
 492. § 4. As administrações ou explorações particulares reconhecidas que só aceitam os telegramas urgentes em trânsito devem admiti-los, quer nas ligações em que a transmissão seja directa através dos seus territórios, quer nas suas centrais de reexpedição, entre os telegramas da mesma procedência e com o mesmo destino. A taxa de trânsito que lhes pertence é dupla, como nas outras partes do trajecto.
 
-###### ARTIGO 53 — Telegramas com resposta paga
+ARTIGO 53
+
+Telegramas com resposta paga
 
 Utilização ou reembolso dos vales
 
@@ -1794,7 +1810,9 @@ Utilização ou reembolso dos vales
 
 500. § 6. Quando o destinatário recusar o vale ou quando este se não puder entregar por impossibilidade de encontrar o destinatário, a administração ou a exploração particular reconhecida de destino promove o reembolso ao expedidor do montante da resposta paga.
 
-###### ARTIGO 54 — Telegramas conferidos
+ARTIGO 54
+
+Telegramas conferidos
 
 501. § 1. A conferência tem por fim reforçar as garantias de exactidão da transmissão do telegrama. Consiste na repetição integral do telegrama (incluindo o preâmbulo), feita a pedido expresso do expedidor, e na comparação desta repetição com o preâmbulo e com o teor do referido telegrama.
 
@@ -1806,7 +1824,9 @@ Utilização ou reembolso dos vales
 
 505. § 5. A conferência não se conta na alternação da transmissão do serviço.
 
-###### ARTIGO 55 — Telegramas com aviso de recepção
+ARTIGO 55
+
+Telegramas com aviso de recepção
 
 I. Formalidades na estação de origem
 
@@ -1834,7 +1854,9 @@ II. Formalidades na estação de destino
 
 515. (3) Expirado o prazo de conservação, se o telegrama não foi entregue, pode-se reembolsar ao expedidor, a seu pedido, a taxa do aviso de recepção.
 
-###### ARTIGO 56 — Telegramas a fazer seguir por ordem do expedidor
+ARTIGO 56
+
+Telegramas a fazer seguir por ordem do expedidor
 
 516. § 1. Qualquer expedidor pode pedir, escrevendo antes do endereço a indicação de serviço taxada «Faire suivre» ou =FS=, que a estação de destino faça seguir o seu telegrama.
 
@@ -1886,7 +1908,9 @@ redigir-se-ia a partir de Tarbet, localidade da segunda reexpedição, pela segu
 
 «ST Bruxelles Rome 154 (número do aviso de serviço taxado) 8 (número de palavras) 3 1015 (data e hora) = 212 2 Antoine (número, data, nome do destinatário do telegrama primitivo) lire =FS= 35 Bditaliens Paris ... (outros endereços eventualmente indicados pelo expedidor)».
 
-###### ARTIGO 57 — Telegramas a reexpedir por ordem do destinatário
+ARTIGO 57
+
+Telegramas a reexpedir por ordem do destinatário
 
 535. § 1. Qualquer pessoa pode pedir, apresentando as necessárias justificações, que os telegramas que chegarem com o seu endereço a determinada estação telegráfica lhe sejam reexpedidos telegràficamente para o novo endereço por ela indicado. Neste caso procede-se de conformidade com as disposições do artigo 56, mas em vez de escrever antes do endereço a indicação =FS= escreve-se a indicação de serviço taxada =Réexpédié de ... (nome da estação ou das estações reexpedidoras)=.
 
@@ -1936,7 +1960,9 @@ A conservação da indicação =PC= não dá lugar à cobrança da taxa prevista
 
 555. § 8. No caso previsto no n.º 554 e também quando se faça uso da faculdade mencionada no n.º 549, a indicação «Percevoir ...», formulada no n.º 532, substitui-se pela indicação «Taxe perçue».
 
-###### ARTIGO 58 — Telegramas múltiplos
+ARTIGO 58
+
+Telegramas múltiplos
 
 556. § 1. (1) Qualquer telegrama pode ser endereçado quer a diversos destinatários na mesma localidade, ou em localidades diferentes mas servidas pela mesma estação telegráfica, quer ao mesmo destinatário em vários domicílios na mesma localidade ou em localidades diferentes, servidas, porém, pela mesma estação telegráfica. Para este fim, o expedidor escreve antes do endereço a indicação de serviço taxada «x adresses», ou =TMx=. O nome da estação de destino só figura uma vez no fim do endereço.
 
@@ -1966,7 +1992,9 @@ A conservação da indicação =PC= não dá lugar à cobrança da taxa prevista
 
 569. § 6. As disposições deste artigo não são obrigatórias para as administrações ou explorações particulares reconhecidas que declarem não as aceitar.
 
-###### ARTIGO 59 — Telegramas a entregar por próprio, pelo correio ou por correio aéreo
+ARTIGO 59
+
+Telegramas a entregar por próprio, pelo correio ou por correio aéreo
 
 I. Generalidades
 
@@ -2098,27 +2126,27 @@ III. Telegramas a entregar pelo correio ou pelo correio aéreo
 
 624. § 7. (1) A título excepcional e sob reserva da aplicação das disposições dos artigos 36 e 46 da Convenção, as administrações tomam as medidas necessárias para que uma prioridade especial seja concedida aos telegramas relativos à aplicação das disposições dos capítulos VI, VII e VIII da Carta das Nações Unidas permutados, em caso de situação grave, entre:
 
-**O presidente do Conselho de Segurança;**
+O presidente do Conselho de Segurança;
 
-**O presidente da Assembleia Geral;**
+O presidente da Assembleia Geral;
 
-**O secretário-geral das Nações Unidas;**
+O secretário-geral das Nações Unidas;
 
-**O presidente da Comissão do Estado-Maior;**
+O presidente da Comissão do Estado-Maior;
 
-**O presidente de uma subcomissão regional da Comissão do Estado-Maior;**
+O presidente de uma subcomissão regional da Comissão do Estado-Maior;
 
 Um representante no Conselho de Segurança ou na Assembleia Geral;
 
 Um membro da Comissão do Estado-Maior;
 
-**O presidente ou o secretário principal de uma comissão criada pelo Conselho de Segurança ou pela Assembleia Geral;**
+O presidente ou o secretário principal de uma comissão criada pelo Conselho de Segurança ou pela Assembleia Geral;
 
 Uma entidade que execute uma missão da Organização das Nações Unidas;
 
 Um ministro membro de um governo;
 
-**O chefe administrativo de um território sob tutela designado como zona estratégica.**
+O chefe administrativo de um território sob tutela designado como zona estratégica.
 
 625. Estes telegramas só são aceites quando contiverem a autorização pessoal de uma das entidades acima indicadas.
 
@@ -2512,9 +2540,13 @@ Esta adjunção deve figurar na resposta. Exemplo: «A Berlin NF Paris 15 1345»
 
 773. § 13. As disposições dos n.os 738 a 740, 743, 766 e 768 relativas às taxas de emissão dos avisos de serviço taxados não são obrigatórias para as administrações e explorações particulares reconhecidas que declarem não querer aplicá-las. Se, em consequência da aplicação dessa disposição, a taxa de um aviso de serviço emitido para acrescentar palavras a um telegrama já transmitido ou em vias de transmissão (n.º 769) não for cobrada, aquele que tiver pedido a emissão desse aviso deve, porém, pagar a taxa correspondente às palavras acrescentadas e a estação de origem rectifica em conformidade o número de palavras do telegrama (n.º 769).
 
-### CAPÍTULO XXV — Serviço fototelegráfico
+CAPÍTULO XXV
 
-###### ARTIGO 76 — Disposições gerais
+Serviço fototelegráfico
+
+ARTIGO 76
+
+Disposições gerais
 
 774. § 1. As administrações têm a faculdade de organizar ou de autorizar um serviço fototelegráfico.
 
@@ -2530,7 +2562,9 @@ Esta adjunção deve figurar na resposta. Exemplo: «A Berlin NF Paris 15 1345»
 
 780. § 5. As disposições contidas nos outros capítulos do regulamento aplicam-se, sempre que sejam aplicáveis, ao serviço fototelegráfico, com reserva das modificações previstas no presente capítulo.
 
-###### ARTIGO 77 — Admissão de fototelegramas no serviço entre postos públicos
+ARTIGO 77
+
+Admissão de fototelegramas no serviço entre postos públicos
 
 781. § 1. Cada fototelegrama deve conter um endereço. A assinatura é facultativa. O endereço e a assinatura fazem parte do fototelegrama a transmitir.
 
@@ -2550,7 +2584,9 @@ Esta adjunção deve figurar na resposta. Exemplo: «A Berlin NF Paris 15 1345»
 
 789. § 7. Os serviços especiais admitidos para os fototelegramas são indicados no artigo 83.
 
-###### ARTIGO 78 — Preâmbulo dos fototelegramas no serviço entre postos públicos
+ARTIGO 78
+
+Preâmbulo dos fototelegramas no serviço entre postos públicos
 
 790. § 1. (1) Cada fototelegrama compreende um preâmbulo que se transmite por fototelegrafia com o fototelegrama, ou, excepcionalmente, quando o formato do fototelegrama o impede, sob forma de uma mensagem distinta.
 
@@ -2560,7 +2596,9 @@ Esta adjunção deve figurar na resposta. Exemplo: «A Berlin NF Paris 15 1345»
 
 793. § 3. Não se cobra qualquer taxa pela transmissão do preâmbulo.
 
-###### ARTIGO 79 — Circuitos - Regras de transmissão e de entrega no serviço entre postos públicos
+ARTIGO 79
+
+Circuitos - Regras de transmissão e de entrega no serviço entre postos públicos
 
 794. § 1. Nas relações em que se utilizem circuitos telefónicos tanto para o serviço fototelegráfico como para o serviço telefónico, as administrações ou explorações particulares reconhecidas interessadas designam, de comum acordo e sempre que possível, certos circuitos para as transmissões fototelegráficas, tendo em conta simultâneamente as necessidades habituais da fototelegrafia e as do serviço telefónico. Nas estações extremas e nas estações amplificadoras designam-se os circuitos de uma maneira especial, com vista da protecção das transmissões fototelegráficas.
 
@@ -2582,7 +2620,9 @@ Esta adjunção deve figurar na resposta. Exemplo: «A Berlin NF Paris 15 1345»
 
 803. § 9. Os fototelegramas recebidos por um posto público são por ele entregues, excepto quando são retransmitidos ao destinatário. Se o destinatário não residir na localidade em que está situado o posto fototelegráfico receptor, expede-se o fototelegrama pelo correio segundo as indicações do endereço.
 
-###### ARTIGO 80 — Taxas, reembolsos e contabilidade no serviço entre postos públicos
+ARTIGO 80
+
+Taxas, reembolsos e contabilidade no serviço entre postos públicos
 
 804. § 1. (1) No regime europeu, a taxa relativa a um fototelegrama é fixada de acordo com o seu comprimento.
 
@@ -2590,7 +2630,7 @@ Esta adjunção deve figurar na resposta. Exemplo: «A Berlin NF Paris 15 1345»
 
 806. (3) No regime europeu, as taxas dos fototelegramas - excepto as dos serviços especiais - e as quotas-partes pertencentes às administrações ou explorações particulares reconhecidas interessadas calculam-se pelo quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf))](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
 
 807. Neste quadro:
 
@@ -2632,7 +2672,9 @@ b, a quota-parte da taxa y pertencente a cada administração de trânsito.
 
 823. (2) As taxas acessórias dos serviços especiais indicados no artigo 83 excluem-se das contas, com excepção das relativas à resposta paga (=RPx=), à entrega por próprio pago (=XP=), à expedição ao destino por próprio postal (=Postxp=), aos fototelegramas múltiplos (=TMx=), à remessa ao expedidor de uma cópia da película recebida (=KP=) e às cópias, além da primeira, a remeter ao destinatário (=Kx=).
 
-###### ARTIGO 81 — Serviço entre postos fototelegráficos particulares e com estes postos no regime europeu
+ARTIGO 81
+
+Serviço entre postos fototelegráficos particulares e com estes postos no regime europeu
 
 824. § 1. Pelas administrações interessadas podem ser autorizados os postos fototelegráficos particulares a permutar fototelegramas entre si e com os postos fototelegráficos públicos.
 
@@ -2658,21 +2700,23 @@ b, a quota-parte da taxa y pertencente a cada administração de trânsito.
 
 835. § 11. Os fototelegramas transmitidos por um posto particular a um posto público entregam-se da mesma maneira que os fototelegramas permutados entre postos públicos (n.º 803).
 
-###### ARTIGO 82 — Taxas, reembolsos e contabilidade no serviço entre postos telegráficos particulares e com estes postos no regime europeu
+ARTIGO 82
+
+Taxas, reembolsos e contabilidade no serviço entre postos telegráficos particulares e com estes postos no regime europeu
 
 836. § 1. Salvo no caso previsto no n.º 837, as taxas fixam-se de acordo com a duração da utilização dos circuitos e conforme o período da taxação (períodos de pequeno tráfego ou de grande tráfego), à mesma tarifa que as conversações telefónicas. No serviço entre postos públicos e particulares, as administrações de que dependem os posto públicos podem estabelecer uma sobretaxa especial.
 
 837. § 2. (1) As taxas dos fototelegramas transmitidos por um posto público a um posto particular e as quotas-partes que cabem às administrações ou às explorações particulares reconhecidas são calculadas de acordo com o quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf))](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
 
 838. (2) A taxa de um fototelegrama transmitido por um posto particular a um posto público e as quotas-partes que cabem às administrações ou explorações particulares reconhecidas calculam-se pela forma seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf))](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
 
 839. (3) As taxas das comunicações fototelegráficas entre postos particulares e as quotas-partes que cabem às administrações ou explorações particulares reconhecidas calculam-se pela forma seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf))](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
 
 840. Observações: nos quadros acima indicados:
 
@@ -2698,7 +2742,9 @@ C) significa a duração (em minutos) contada a partir do momento em que os dois
 
 848. (3) As sobretaxas relativas aos serviços especiais, no serviço de um posto particular para um posto público, não entram nas contas internacionais. Pertencem integralmente à administração que explora o posto público.
 
-###### ARTIGO 83 — Serviços especiais admitidos para os fototelegramas
+ARTIGO 83
+
+Serviços especiais admitidos para os fototelegramas
 
 849. § 1. (1) Para os fototelegramas permutados entre postos públicos admitem-se os serviços especiais seguintes: urgente (=Urgent=), resposta paga x (=RPx=). O serviço especial urgente é, todavia, facultativo e o serviço especial de resposta paga não é admitido quando o país em que reside o destinatário não estiver ligado à rede fototelegráfica (n.º 784).
 
@@ -2752,11 +2798,13 @@ Remessa ao expedidor de uma cópia da película recebida ... =KP=
 
 860. (2) Para os fototelegramas múltiplos transmitidos por um posto particular a um posto público, a sobretaxa especial prevista no n.º 836 reparte-se entre os destinatários, proporcionalmente ao seu número.
 
-### CAPÍTULO XXVI
+CAPÍTULO XXVI
 
 Serviço dos assinantes do telégrafo por aparelhos arrítmicos. Serviço «telex»
 
-###### ARTIGO 84 — Serviço dos assinantes do telégrafo por aparelhos arrítmicos
+ARTIGO 84
+
+Serviço dos assinantes do telégrafo por aparelhos arrítmicos
 
 Serviço «telex»
 
@@ -2764,9 +2812,13 @@ Serviço «telex»
 
 862. § 2. As taxas e as disposições relativas a esse serviço são fixadas por acordo entre as administrações ou explorações particulares reconhecidas interessadas, atendendo-se aos pareceres da C. C. I. T. T.
 
-### CAPÍTULO XXVII — Serviço de radiocomunicações a horas fixas
+CAPÍTULO XXVII
 
-###### ARTIGO 85 — Radiocomunicações para um único ou múltiplos destinos
+Serviço de radiocomunicações a horas fixas
+
+ARTIGO 85
+
+Radiocomunicações para um único ou múltiplos destinos
 
 863. § 1. (1) As administrações reservam-se a faculdade de organizar ou autorizar serviços unilaterais de transmissão de radiocomunicações para um único ou para múltiplos destinos.
 
@@ -2792,19 +2844,27 @@ Serviço «telex»
 
 874. (3) As taxas dessas radiocomunicações não entram nas contas internacionais.
 
-### CAPÍTULO XXVIII — Serviço de aluguer de circuitos telegráficos
+CAPÍTULO XXVIII
 
-###### ARTIGO 86 — Serviço de aluguer de circuitos telegráficos
+Serviço de aluguer de circuitos telegráficos
+
+ARTIGO 86
+
+Serviço de aluguer de circuitos telegráficos
 
 875. § 1. As administrações têm a faculdade de organizar ou de autorizar um serviço que ponha à disposição de um usuário (ou de um grupo de usuários) circuitos telegráficos para a sua utilização exclusiva. Esse serviço denomina-se: serviço de aluguer de circuitos telegráficos.
 
 876. § 2. As taxas e disposições referentes a esse serviço fixam-se por acordo entre as administrações ou explorações particulares reconhecidas interessadas, tendo em conta as pareceres da C. C. I. T. T.
 
-### CAPÍTULO XXIX — Sustação dos telegramas
+CAPÍTULO XXIX
+
+Sustação dos telegramas
 
 Transmissão de direito dos telegramas de Estado
 
-###### ARTIGO 87 — Competência das estações
+ARTIGO 87
+
+Competência das estações
 
 Transmissão de direito dos telegramas de Estado
 
@@ -2832,9 +2892,13 @@ Sustação das telecomunicações
 
 2. Os membros e os membros associados reservam-se também o direito de cortar qualquer comunicação telegráfica ou telefónica particular que se lhes afigure perigosa para a segurança do Estado ou contrária às suas leis, à ordem pública ou aos bons costumes.
 
-### CAPÍTULO XXX — Anulações de taxas e reembolsos
+CAPÍTULO XXX
 
-###### ARTIGO 88 — Casos de reembolsos de taxas
+Anulações de taxas e reembolsos
+
+ARTIGO 88
+
+Casos de reembolsos de taxas
 
 884. § 1. As taxas reembolsam-se a quem as pagou, com base num pedido de reembolso ou numa reclamação sobre a execução do serviço, nas condições seguintes:
 
@@ -2970,7 +3034,9 @@ A taxa do aviso de recepção pode ser reembolsada (n.º 515).
 
 925. § 8. No caso de que trata o n.º 766, a sobretaxa de 2 francos nunca se reembolsa.
 
-###### ARTIGO 89 — Processo aplicado aos reembolsos
+ARTIGO 89
+
+Processo aplicado aos reembolsos
 
 926. § 1. Qualquer reclamação para reembolso de taxa deve apresentar-se antes de findo o prazo de quatro meses, contado da data da aceitação do telegrama.
 
@@ -2990,7 +3056,9 @@ A taxa do aviso de recepção pode ser reembolsada (n.º 515).
 
 934. § 8. A administração ou exploração particular reconhecida que receber um pedido de reembolso da taxa paga para uma resposta pode transmiti-lo directamente à administração ou exploração particular reconhecida que emitiu o vale. Esta última administração ou exploração particular reconhecida promove o reembolso dessa taxa, quer autorizando que aquela importância lhe seja debitada por via das diferentes administrações ou explorações particulares reconhecidas intermédias, quer enviando directamente à administração ou exploração particular reconhecida de origem a importância a reembolsar.
 
-###### ARTIGO 90 — Reembolso das taxas nos casos previstos no artigo 88
+ARTIGO 90
+
+Reembolso das taxas nos casos previstos no artigo 88
 
 935. § 1. (1) Sempre que o reembolso de taxa seja consequência de erro do serviço telegráfico, a administração ou exploração particular reconhecida de origem suporta esse reembolso desde que a importância a reembolsar não exceda 10 francos (10 fr.).
 
@@ -3020,15 +3088,21 @@ A taxa do aviso de recepção pode ser reembolsada (n.º 515).
 
 948. § 7. Os reembolsos das taxas de avisos de serviço taxados são suportados pela administração ou exploração particular reconhecida que cobrou essas taxas.
 
-###### ARTIGO 91 — Reembolso da taxa no caso de sustentação dos telegramas
+ARTIGO 91
+
+Reembolso da taxa no caso de sustentação dos telegramas
 
 949. § 1. O reembolso da taxa de qualquer telegrama sustado em virtude dos artigos 29.º e 30.º da Convenção é suportado pelo membro ou membro associado que sustou o telegrama.
 
 950. § 2. Se, porém, este membro ou membro associado notificar, de conformidade com o artigo 30.º da Convenção, a suspensão de certas categorias de correspondências, o reembolso das taxas dos telegramas desta categoria é suportado pela administração ou exploração particular reconhecida de origem, a partir do dia seguinte àquele em que recebeu a notificação.
 
-### CAPÍTULO XXXI — Contabilidade
+CAPÍTULO XXXI
 
-###### ARTIGO 92 — Disposições gerais
+Contabilidade
+
+ARTIGO 92
+
+Disposições gerais
 
 951. § 1. O franco-ouro, tal como o define o artigo 40.º da Convenção, serve de unidade monetária na elaboração das contas internacionais.
 
@@ -3042,7 +3116,9 @@ A taxa do aviso de recepção pode ser reembolsada (n.º 515).
 
 956. § 4. No caso de se aplicar o artigo 102, a administração ou exploração particular reconhecida do país membro ou membro associado em relação directa com a administração do país não membro ou não membro associado fica encarregada de liquidar as contas entre esta e as outras contratantes às quais serviu de intermediária para a transmissão.
 
-###### ARTIGO 93 — Elaboração das contas
+ARTIGO 93
+
+Elaboração das contas
 
 957. § 1. As contas elaboram-se pela quantidade de palavras transmitidas durante o mês, separando-se as diversas categorias de telegramas e tendo em conta:
 
@@ -3078,11 +3154,15 @@ A taxa do aviso de recepção pode ser reembolsada (n.º 515).
 
 973. § 7. Os telegramas anulados a pedido do expedidor figuram nas contas internacionais nas mesmas condições dos telegramas regularmente entregues ao destinatário. Todavia, não se inscrevem nas contas as taxas relativas ao percurso não efectuado quando o telegrama for anulado antes de ter atingido a estação de destino.
 
-###### ARTIGO 94 — Elaboração das contas por meio de estatísticas
+ARTIGO 94
+
+Elaboração das contas por meio de estatísticas
 
 974. As administrações ou explorações particulares reconhecidas podem elaborar as contas segundo fórmulas estatísticas estabelecidas de comum acordo.
 
-###### ARTIGO 95 — Permuta e conferência das contas
+ARTIGO 95
+
+Permuta e conferência das contas
 
 Pagamento dos saldos.
 
@@ -3094,7 +3174,7 @@ Pagamento dos saldos.
 
 978. § 3. (1) As contas mensais admitem-se sem revisão quando a diferença entre as contas elaboradas pelas duas administrações e ou explorações particulares reconhecidas interessadas se apresente por uma das formas seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf))](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
 
 979. (2) Começada uma revisão, será esta suspensa desde que, no decurso da troca de observações entre as duas administrações e ou explorações particulares reconhecidas interessadas, a diferença seja reduzida a um valor que não exceda o máximo fixado no n.º 978.
 
@@ -3138,15 +3218,21 @@ Pagamento dos saldos.
 
 (nota 1) Prazo superior a quatro dias úteis (dias de trabalho), contando esse prazo desde o dia da emissão do cheque ou da letra (esse dia não se conta) até ao dia da remessa do cheque ou da letra.
 
-### CAPÍTULO XXXII — Arquivos
+CAPÍTULO XXXII
 
-###### ARTIGO 96 — Arquivos
+Arquivos
+
+ARTIGO 96
+
+Arquivos
 
 997. § 1. Os originais dos telegramas e os documentos respectivos relativos à aceitação, à transmissão e à entrega conservados pelas administrações e explorações particulares reconhecidas permanecem arquivados até à liquidação das contas que se lhes referem e, em qualquer caso, pelo menos durante seis meses, a contar do mês seguinte ao da aceitação do telegrama, com todas as cautelas necessárias no que respeita ao sigilo.
 
 998. § 2. Todavia, se uma administração ou exploração particular reconhecida entender útil destruir os seus documentos antes dos prazos acima indicados e, por esse motivo, não estiver em condições de efectuar um inquérito que interesse aos seus serviços, essa administração ou exploração particular reconhecida suportará todas as consequências desse facto, quer no que respeita aos reembolsos de taxas, quer quanto às diferenças que possam vir a verificar-se nas contas internacionais.
 
-###### ARTIGO 97 — Comunicação dos originais dos telegramas
+ARTIGO 97
+
+Comunicação dos originais dos telegramas
 
 Entrega de cópias dos telegramas
 
@@ -3164,9 +3250,13 @@ Entrega de cópias dos telegramas
 
 1005. § 4. As administrações e explorações particulares reconhecidas sòmente ficam obrigadas a facultar ou a fornecer cópias ou fotocópias dos documentos acima referidos quando os expedidores, os destinatários ou os seus legítimos representantes prestem as indicações necessárias para se encontrarem os telegramas a que dizem respeito os seus pedidos.
 
-### CAPÍTULO XXXIII — Secretariado-Geral. Comunicações recíprocas
+CAPÍTULO XXXIII
 
-###### ARTIGO 98 — Relações das administrações entre si por intermédio do Secretariado-Geral
+Secretariado-Geral. Comunicações recíprocas
+
+ARTIGO 98
+
+Relações das administrações entre si por intermédio do Secretariado-Geral
 
 1006. § 1. As administrações da União permutarão entre si os documentos essenciais relativos à sua organização interna e comunicarão, recìprocamente, os aperfeiçoamentos importantes que nela introduzam.
 
@@ -3182,7 +3272,9 @@ Entrega de cópias dos telegramas
 
 1012. § 7. As administrações que tiverem dificuldade em respeitar rigorosamente as disposições do presente artigo aplicá-las-ão na medida do possível.
 
-###### ARTIGO 99 — Trabalhos a publicar pelo Secretariado-Geral
+ARTIGO 99
+
+Trabalhos a publicar pelo Secretariado-Geral
 
 1013. § 1. O Secretariado-Geral coordena e pública as tarifas. Comunica às administrações, em devido tempo, todas as informações que às mesmas se refiram, particularmente as que se especificam no n.º 1008. Havendo urgência, transmitem-se essas comunicações por via telegráfica, nomeadamente nos casos previstos no n.º 1009. O Secretariado-Geral dará às notificações relativas a alterações de taxas a forma conveniente para que as alterações se possam imediatamente introduzir no texto das respectivas tabelas.
 
@@ -3214,9 +3306,13 @@ Entrega de cópias dos telegramas
 
 1027. Repertório das definições dos termos essenciais utilizados no campo das telecomunicações.
 
-### CAPÍTULO XXXIV — Comissão Consultiva Internacional Telegráfica e Telefónica (C. C. I. T. T.)
+CAPÍTULO XXXIV
 
-###### ARTIGO 100 — Comissão Consultiva Internacional Telegráfica e Telefónica (C. C. I. T. T.)
+Comissão Consultiva Internacional Telegráfica e Telefónica (C. C. I. T. T.)
+
+ARTIGO 100
+
+Comissão Consultiva Internacional Telegráfica e Telefónica (C. C. I. T. T.)
 
 1028. § 1. (ver nota 1) A Comissão Consultiva Internacional Telegráfica e Telefónica (C. C. I. T. T.) fica encarregada de estudar e de dar parecer sobre assuntos técnicos, de exploração e de tarifação respeitantes à telegrafia, ao fac-símile e à telefonia.
 
@@ -3224,9 +3320,13 @@ Entrega de cópias dos telegramas
 
 (nota 1) Disposições comuns ao Regulamento Telegráfico e ao Regulamento Telefónico.
 
-### CAPÍTULO XXXV — Disposições diversas
+CAPÍTULO XXXV
 
-###### ARTIGO 101 — Disposições referentes às explorações particulares
+Disposições diversas
+
+ARTIGO 101
+
+Disposições referentes às explorações particulares
 
 1030. § 1. As explorações particulares reconhecidas que funcionem num ou mais países membros ou membros associados e participem do serviço internacional consideram-se, pelo que respeita a este serviço, como fazendo parte integrante da rede telegráfica destes países.
 
@@ -3240,15 +3340,21 @@ Entrega de cópias dos telegramas
 
 1035. § 6. As explorações particulares reconhecidas podem transmitir directamente ao Secretariado-Geral as notificações respeitantes às aberturas, interrupções de vias, etc., previstas nos números 1008 e 1009. Não são autorizadas a transmitir as referentes à aplicação das disposições do artigo 30.º da Convenção.
 
-###### ARTIGO 102 — Relações com os países não membros ou não membros associados da União
+ARTIGO 102
+
+Relações com os países não membros ou não membros associados da União
 
 1036. § 1. Quando se estabeleçam relações telegráficas com países que não são membros nem membros associados ou com explorações particulares às quais as disposições do § 2 do artigo 19.º da Convenção não são impostas por um membro ou um membro associado, as disposições do presente regulamento aplicam-se invariàvelmente às correspondências na parte do seu percurso que utiliza o território dos países membros ou membros associados ou as ligações exploradas pelas explorações particulares reconhecidas por esses membros ou membros associados.
 
 1037. § 2. As administrações interessadas fixam a taxa que se deve aplicar a esta parte do percurso. Essa taxa acrescenta-se à taxa das administrações não participantes.
 
-### CAPÍTULO XXXVI — Disposições finais
+CAPÍTULO XXXVI
 
-###### ARTIGO 103 — Entrada em vigor do Regulamento
+Disposições finais
+
+ARTIGO 103
+
+Entrada em vigor do Regulamento
 
 1038. O presente regulamento, que fica anexo à Convenção, entrará em vigor em 1 de Janeiro de 1960.
 
@@ -3388,7 +3494,7 @@ República da Venezuela.
 
 República do Vietname.
 
-## APÊNDICE N.º 1
+APÊNDICE N.º 1
 
 Exemplos de contagem das palavras
 
@@ -3396,43 +3502,43 @@ Os exemplos seguintes determinam a interpretação das regras a seguir para cont
 
 I. Indicações de serviço taxadas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf))](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
 
 II. Nomes de família, nomes de ruas, designações de comboios, etc., abreviaturas designando organizações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf))](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
 
 III. Números de habitação que figuram no endereço dos telegramas (ver nota 1).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf))](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
 
 (nota 1) Para a contagem dessas expressões no texto e na assinatura dos telegramas, ver o n.º 279.
 
 IV. Nomes das estações telegráficas, estações terrestres, estações de navio, cidades, países ou subdivisões territoriais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf))](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
 
 V. Números inteiros, fraccionários, decimais; fracções.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf))](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
 
 VI. Marcas de comércio, marcas de fábrica, designação de mercadorias, indicações ou números de referência, incluindo os sinais que eles comportam.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf))](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
 
 VII. Números ordinais, importâncias em dinheiro, indicações de hora, sinais de por cento e de por mil.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf))](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
 
 VIII. Palavras compostas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf))](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
 
 IX. Diversos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf))](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/27800/26212672.pdf)
 
-## APÊNDICE N.º 2 (ver nota 1)
+APÊNDICE N.º 2 (ver nota 1)
 
 Pagamento dos saldos das contas
 
@@ -3484,7 +3590,7 @@ PROTOCOLO FINAL DO REGULAMENTO TELEGRÁFICO
 
 (Revisão de Genebra, 1958)
 
-## Anexo à Convenção Internacional das Telecomunicações
+Anexo à Convenção Internacional das Telecomunicações
 
 (Buenos Aires, 1952)
 
@@ -3544,7 +3650,7 @@ Pelos Estados Unidos da América:
 
 5. Os Estados Unidos da América declaram formalmente que, pela assinatura do Regulamento Telegráfico (Revisão de Genebra, 1958) feita em seu nome, ou pela ratificação deste regulamento, os Estados Unidos da América não aceitam qualquer obrigação respeitante às disposições seguintes do mesmo regulamento:
 
-###### Artigo 20, § 3, na medida em que esse parágrafo proíbe a admissão de textos que contenham grupos constituídos por combinações de letras, algarismos ou sinais que tenham uma significação secreta e que sejam produzidos por operações criptográficas automáticas; artigo 7; artigo 9; artigo 10; artigo 11; artigo 12, §§ 2 e 3; artigo 16, § 5, no que respeita aos símbolos da fila de algarismos dos compostos n.os 22 e 26; artigo 48; artigo 49; artigo 50, § 2; artigo 52, § 1; artigo 53, § 4 (1); artigo 59; artigo 67, §§ 1, 2 e 6; artigo 70, § 7 (1); artigo 80, § 5; artigo 83, § 5; artigo 88, § 1 (p); artigo 89, § 3; artigo 91, § 1; artigo 94, § 6; artigo 101, § 5, e apêndice 2.
+Artigo 20, § 3, na medida em que esse parágrafo proíbe a admissão de textos que contenham grupos constituídos por combinações de letras, algarismos ou sinais que tenham uma significação secreta e que sejam produzidos por operações criptográficas automáticas; artigo 7; artigo 9; artigo 10; artigo 11; artigo 12, §§ 2 e 3; artigo 16, § 5, no que respeita aos símbolos da fila de algarismos dos compostos n.os 22 e 26; artigo 48; artigo 49; artigo 50, § 2; artigo 52, § 1; artigo 53, § 4 (1); artigo 59; artigo 67, §§ 1, 2 e 6; artigo 70, § 7 (1); artigo 80, § 5; artigo 83, § 5; artigo 88, § 1 (p); artigo 89, § 3; artigo 91, § 1; artigo 94, § 6; artigo 101, § 5, e apêndice 2.
 
 (Original: inglês).
 

@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 204/1993, 4º Suplemento, Série I-B de 1993-08-31
   number: '204'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 4600-(16) a 4600-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/08/204b04/00160017.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/174/1993/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/174-1993-285677
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:37:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a7304a73698dd045633cacd6fba7bdc4f31f7b622890a31cdcaaa7583440365
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46fc8a09a3fe6c32dabe6279899654804513146488f7f42d4c544e98c80ef55c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:37:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Departamento de Estatística
-- Ministério do Emprego e da Segurança Social
 - Descrição de Funções
+- Ministério do Emprego e da Segurança Social
 - Pessoal Técnico Profissional
 - Quadro de Pessoal
 relationships:
@@ -77,21 +77,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/620/1993/06/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/620/1993/06/30/p/dre
+- type: cites
+  target: pt:dre:374410:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:37:11Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 174/93
+# Declaração de rectificação n.º 174/93
 
 Segundo comunicação do Ministério do Emprego e da Segurança Social, a [Portaria n.º 620/93](https://diariodarepublica.pt/dr/detalhe/portaria/620-1993-374410), publicada no Diário da República, 1.ª série, n.º 151, de 30 de Junho de 1993, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 

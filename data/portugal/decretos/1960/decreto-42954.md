@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/42954-1960-281455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-04-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:17:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af74510837856ed10147b6ced5fc6993fd49470d429d52d22b1816b779cd01aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 972d8a41634aa3a77d2941af1e9113ffbf247a44190615612f3855cd26160811
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:17:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251184:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:17:56Z'
   warnings: []
   errors: []
 ---
@@ -97,25 +101,25 @@ Ouvidos o Conselho Ultramarino e o Governo-Geral;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É criada no Estado da Índia a Direcção dos Serviços de Instrução, os quais ficam desligados da Direcção dos Serviços de Instrução e Saúde, que passará a designar-se Direcção dos Serviços de Saúde.
+Artigo 1.º É criada no Estado da Índia a Direcção dos Serviços de Instrução, os quais ficam desligados da Direcção dos Serviços de Instrução e Saúde, que passará a designar-se Direcção dos Serviços de Saúde.
 
-###### Art. 2.º A Direcção dos Serviços de Instrução do Estado da Índia compreenderá duas repartições, com as designações, respectivamente, de 1.ª e 2.ª
+Art. 2.º A Direcção dos Serviços de Instrução do Estado da Índia compreenderá duas repartições, com as designações, respectivamente, de 1.ª e 2.ª
 
 § único. A 1.ª Repartição ocupa-se do ensino primário, tanto oficial como particular, e, bem assim, do ensino normal; a 2.ª dos restantes assuntos afectos à Direcção dos Serviços.
 
-###### Art. 3.º É extinta a Repartição de Instrução, a que se refere o § 3.º do artigo 8.º do [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184), de 23 de Dezembro de 1957, transitando o pessoal nela colocado para a Direcção dos Serviços de Instrução.
+Art. 3.º É extinta a Repartição de Instrução, a que se refere o § 3.º do artigo 8.º do [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184), de 23 de Dezembro de 1957, transitando o pessoal nela colocado para a Direcção dos Serviços de Instrução.
 
-###### Art. 4.º A distribuição do pessoal do quadro privativo a que se refere o artigo anterior, constante do Diploma Legislativo n.º 1809, de 3 de Julho de 1955 e mais do que vier a ser criado pelos órgãos legislativos, de harmonia com as exigências dos serviços, competirá ao governador-geral, nos termos previstos nas observações, III, anexas ao [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184).
+Art. 4.º A distribuição do pessoal do quadro privativo a que se refere o artigo anterior, constante do Diploma Legislativo n.º 1809, de 3 de Julho de 1955 e mais do que vier a ser criado pelos órgãos legislativos, de harmonia com as exigências dos serviços, competirá ao governador-geral, nos termos previstos nas observações, III, anexas ao [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184).
 
-###### Art. 5.º É aumentado um lugar de chefe de repartição ao quadro do pessoal atribuído ao Estado da Índia, segundo o mapa anexo ao [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184).
+Art. 5.º É aumentado um lugar de chefe de repartição ao quadro do pessoal atribuído ao Estado da Índia, segundo o mapa anexo ao [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184).
 
-###### Art. 6.º Os lugares de chefe de repartição serão normalmente providos mediante concurso de provas, a que serão admitidos licenciados em qualquer secção das Faculdades de Letras ou Ciências ou equiparados.
+Art. 6.º Os lugares de chefe de repartição serão normalmente providos mediante concurso de provas, a que serão admitidos licenciados em qualquer secção das Faculdades de Letras ou Ciências ou equiparados.
 
 § único. Os primeiros provimentos serão determinados por escolha do Ministro do Ultramar.
 
-###### Art. 7.º Os inspectores escolares atribuídos ao Estado da Índia no mapa anexo ao [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184) passam a ter a designação de «inspectores do ensino primário do Estado da Índia» e são providos mediante concursos de provas, a que podem ser admitidos licenciados em Letras ou Ciências e professores do ensino primário oficial com cinco anos de bom serviço.
+Art. 7.º Os inspectores escolares atribuídos ao Estado da Índia no mapa anexo ao [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184) passam a ter a designação de «inspectores do ensino primário do Estado da Índia» e são providos mediante concursos de provas, a que podem ser admitidos licenciados em Letras ou Ciências e professores do ensino primário oficial com cinco anos de bom serviço.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Abril de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

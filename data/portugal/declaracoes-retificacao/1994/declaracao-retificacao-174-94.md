@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 227/1994, 3º Suplemento, Série I-B de 1994-09-30
   number: '227'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 6034-(16) a 6034-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/09/227b03/00160016.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/174/1994/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/174-1994-354319
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:41:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a15c2797838e7e3217478f8bd657a25a4dadfd5eff1a6c2347a72f63a90c025
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09ef3cc3656715a14b679862b6c4eb2d8f424bd2d7505cae9d82c1a49c503233
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:41:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instalação de GÁS
 - Combustível
+- Instalação de GÁS
 - Normas de Construção
 - Regulamento
 - Segurança dos Edifícios
@@ -77,21 +77,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/364/1994/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/364/1994/06/11/p/dre
+- type: cites
+  target: pt:dre:303618:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:41:02Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 174/94
+# Declaração de rectificação n.º 174/94
 
 Segundo comunicação do Ministério da Indústria e Energia, a [Portaria n.º 364/94](https://diariodarepublica.pt/dr/detalhe/portaria/364-1994-303618), publicada no Diário da República, 1.ª série, n.º 134, de 11 de Junho de 1994, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 

@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 301/1998, 8º Suplemento, Série I-B de 1998-12-31
   number: '301'
   series: I
-  supplement: 8º Suplemento
+  supplement: null
   pages: 7384-(583) a 7384-(583)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/12/301b08/05830583.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/22-p/1998/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-p-1998-265567
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:51:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4af26467087a5e1ab6b645fd94e580d46726794dd833eb2e329bc103f3198991
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3324b0c62f5d2c7bab59be8c2a8987b01b8f2db95527a6c2bcd283289cd55e91
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:51:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -86,16 +86,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/72/1998/10/16/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/72/1998/10/16/p/dre
+- type: cites
+  target: pt:dre:235291:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:51:51Z'
   warnings: []
   errors: []
 ---

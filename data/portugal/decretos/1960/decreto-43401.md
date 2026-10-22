@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43401-1960-512837
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-12-15T00:00:00Z'
+  retrieved_at: '2026-10-22T19:21:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b0da6819bb634c822f0c8fbab1698a252249616dc608250ee6a6161083b7879
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7735c02ddc56c9e6b44edbe6d383ea34c1d504ac824c717781b70052e10b1a15
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:21:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:184274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:433006:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:21:35Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +117,7 @@ Tomando em atenção o disposto na parte final das bases II e XVIII da [Lei n.º
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São criados os seguintes estabelecimentos de ensino técnico profissional:
+Artigo 1.º São criados os seguintes estabelecimentos de ensino técnico profissional:
 
 a) Três escolas industriais, a instalar no concelho de Ovar, na zona oriental da cidade do Porto e no concelho de Penafiel, as quais se denominarão, respectivamente, Escola Industrial de Ovar, Escola Industrial Conde de Ferreira e Escola Industrial de Penafiel;
 
@@ -105,7 +125,7 @@ b) Três escolas agro-industriais, a instalar nos concelhos de Tavira, de Ponte 
 
 c) Uma escola técnica elementar no concelho do Barreiro, com a denominação de Escola Técnica Elementar do Barreiro.
 
-###### Art. 2.º Nas Escolas Industriais de Ovar e de Penafiel será ministrado o ensino:
+Art. 2.º Nas Escolas Industriais de Ovar e de Penafiel será ministrado o ensino:
 
 a) Do ciclo preparatório;
 
@@ -113,7 +133,7 @@ b) De formação industrial especialmente orientada para as profissões electrom
 
 c) De formação feminina.
 
-###### Art. 3.º Na Escola Industrial Conde de Ferreira será ministrado o ensino:
+Art. 3.º Na Escola Industrial Conde de Ferreira será ministrado o ensino:
 
 a) Dos cursos de formação industrial de:
 
@@ -143,7 +163,7 @@ c) Da secção preparatória para os institutos industriais.
 
 § 2.º Os titulares dos lugares extintos nos termos do parágrafo anterior serão colocados, por portaria do Ministro e sem dependência de outra formalidade, nos lugares correspondentes do quadro da Escola Industrial Conde de Ferreira.
 
-###### Art. 4.º Na Escola Técnica de Tavira será ministrado o ensino:
+Art. 4.º Na Escola Técnica de Tavira será ministrado o ensino:
 
 a) Do ciclo preparatório;
 
@@ -153,7 +173,7 @@ c) De formação industrial, especialmente orientada para as profissões electro
 
 § único. À Escola Técnica de Tavira cabe desempenhar a função de escola prática de agricultura regional, para o que será dotada de campos de ensino apropriados e de internato.
 
-###### Art. 5.º Na Escola Técnica de Ponte de Lima será ministrado o ensino:
+Art. 5.º Na Escola Técnica de Ponte de Lima será ministrado o ensino:
 
 a) Do ciclo preparatório;
 
@@ -163,7 +183,7 @@ c) De formação industrial especialmente orientada para as profissões electrom
 
 § único. A escola a que se refere o corpo deste artigo pode ser confiada à Congregação Salesiana, mediante acordo de cooperação a estabelecer entre o Estado e a Congregação, sem prejuízo da validade oficial do ensino ministrado.
 
-###### Art. 6.º Na Escola Técnica da Régua será ministrado o ensino:
+Art. 6.º Na Escola Técnica da Régua será ministrado o ensino:
 
 a) Do ciclo preparatório;
 
@@ -175,30 +195,30 @@ d) De formação feminina.
 
 § único. O ensino da vitivinicultura será organizado em estreita cooperação com os órgãos regionais dos serviços da Secretaria de Estado da Agricultura e com os organismos corporativos da lavoura interessada.
 
-###### Art. 7.º As escolas regem-se, segundo os casos, pelo estatuto promulgado pelo [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948, e pelo regulamento promulgado pelo [Decreto n.º 41382](https://diariodarepublica.pt/dr/detalhe/decreto/41382-1957-251612), de 21 de Novembro de 1957, em tudo o que não colida com as disposições especiais do presente diploma.
+Art. 7.º As escolas regem-se, segundo os casos, pelo estatuto promulgado pelo [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948, e pelo regulamento promulgado pelo [Decreto n.º 41382](https://diariodarepublica.pt/dr/detalhe/decreto/41382-1957-251612), de 21 de Novembro de 1957, em tudo o que não colida com as disposições especiais do presente diploma.
 
 § único. Para efeitos de prestação de serviço no ensino industrial, se a mesma se justificar, os professores efectivos do ensino agrícola serão considerados como pertencentes ao 4.º grupo e os adjuntos como pertencentes ao 11.º grupo.
 
-###### Art. 8.º A partir do ano lectivo em que entre em funcionamento a Escola Técnica Elementar do Barreiro deixa de ser ministrado o ensino do ciclo preparatório na Escola Industrial e Comercial Alfredo da Silva.
+Art. 8.º A partir do ano lectivo em que entre em funcionamento a Escola Técnica Elementar do Barreiro deixa de ser ministrado o ensino do ciclo preparatório na Escola Industrial e Comercial Alfredo da Silva.
 
-###### Art. 9.º Os quadros de pessoal das novas escolas são os que figuram no mapa anexo ao presente diploma, o qual dele faz parte integrante, e o da Escola Industrial e Comercial Alfredo da Silva passa a ter a constituição que no mesmo mapa vai fixada.
+Art. 9.º Os quadros de pessoal das novas escolas são os que figuram no mapa anexo ao presente diploma, o qual dele faz parte integrante, e o da Escola Industrial e Comercial Alfredo da Silva passa a ter a constituição que no mesmo mapa vai fixada.
 
 § 1.º O provimento dos lugares dos novos quadros será feito gradualmente, de acordo com as necessidades do serviço.
 
 § 2.º Os funcionários do actual quadro da Escola Industrial e Comercial Alfredo da Silva cujos lugares sejam extintos continuarão a prestar serviço na mesma Escola até serem colocados, por portaria do Ministro e sem dependência de outra formalidade, nos correspondentes lugares do quadro da Escola Técnica Elementar do Barreiro logo que esta entre em funcionamento.
 
-###### Art. 10.º As escolas criadas pelo presente decreto entrarão em funcionamento logo que disponham de edifícios próprios ou de instalações provisórias que mereçam a aprovação do Ministério da Educação Nacional e sejam postas à sua disposição pelas câmaras municipais interessadas ou outras entidades locais.
+Art. 10.º As escolas criadas pelo presente decreto entrarão em funcionamento logo que disponham de edifícios próprios ou de instalações provisórias que mereçam a aprovação do Ministério da Educação Nacional e sejam postas à sua disposição pelas câmaras municipais interessadas ou outras entidades locais.
 
 § único. A Escola Técnica da Régua entra em funcionamento desde já, cabendo ao Ministro da Educação Nacional fixar, por despacho, o prazo destinado às matrículas e as datas de abertura e de encerramento das aulas no ano lectivo de 1960-1961.
 
-###### Art. 11.º Até à constituição dos respectivos conselhos administrativos as funções que legalmente lhes competem serão, nas novas escolas, desempenhadas pelos directores.
+Art. 11.º Até à constituição dos respectivos conselhos administrativos as funções que legalmente lhes competem serão, nas novas escolas, desempenhadas pelos directores.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 15 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Arnaldo Schulz - António Manuel Pinto Barbosa - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior.
 
 Mapa a que se refere o artigo 9.º do Decreto n.º 43401, desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/12/28900/27602762.pdf))](https://files.diariodarepublica.pt/1s/1960/12/28900/27602762.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/12/28900/27602762.pdf)
 
 Ministério da Educação Nacional, 15 de Dezembro de 1960. - O Ministro da Educação Nacional, Francisco de Paula Leite Pinto.

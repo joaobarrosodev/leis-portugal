@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/5/2011/02/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2011-279871
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-18T00:00:00Z'
+  retrieved_at: '2026-10-22T19:13:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7177bf83a891575608f77605859b6aba3a3ffc21384d3cc49ca9e34648867c09
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1eadfee706f9752c35a039ad4edd483489e3d63f80081c46b08bd76a0df9058
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:13:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,14 +70,14 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Código da Estrada
-- Especificação Técnica
-- Veículo
-- Política de Transportes
 - Equipamento de Veículo
+- Especificação Técnica
+- Normalização
+- Política de Transportes
 - Regulamento
 - Regulamento que FIXA os Pesos e as Dimensões Máximos Autorizados para os Veículos em Circulação
 - Transporte de Passageiros
-- Normalização
+- Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133/2010/12/22/p/dre
@@ -91,16 +91,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/99/2005/06/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/99/2005/06/21/p/dre
+- type: cites
+  target: pt:dre:306463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:13:33Z'
   warnings: []
   errors: []
 ---

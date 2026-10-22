@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/30/2006/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/30-2006-353964
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-05T00:00:00Z'
+  retrieved_at: '2026-10-22T19:06:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02c5a4830b314a2c5e895adbe64d08fa978a89550a6553bd55e0c8930fa58290
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10d52274f352516648aab11c22328f5540602fae0c3e89764c42c5b07139ed6a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:06:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,32 +67,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Ordenamento do Território
-- Política Industrial
-- Desenvolvimento Social
-- Política Energética
-- Política de Saúde
+- Açores
 - Apoio ao Investimento
+- Cooperação Internacional
+- Desenvolvimento Económico
+- Desenvolvimento Social
+- Formação Profissional
 - Gestão Pública
 - Igualdade de Oportunidades
 - Investimento Público
+- Ordenamento do Território
 - Planeamento Económico
 - Planeamento Regional
-- Desenvolvimento Económico
 - Plano Regional
+- Política Agrícola
 - Política Cultural
-- Cooperação Internacional
+- Política de Educação
+- Política de Emprego
 - Política de Habitação
 - Política de Investigação e Desenvolvimento
-- Política do Ambiente
-- Política de Educação
-- Política Financeira
-- Política de Emprego
-- Política Agrícola
-- Recursos Humanos
 - Política de Juventude
-- Açores
+- Política de Saúde
+- Política do Ambiente
+- Política Energética
+- Política Financeira
+- Política Industrial
+- Recursos Humanos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/5/2006/02/08/a/dre
@@ -102,16 +102,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/declrectif/22/2006/04/07/p/dre
   label: null
   source: http://data.dre.pt/eli/declrectif/22/2006/04/07/p/dre
+- type: cites
+  target: pt:dre:554130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652895:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:declaracao-retificacao:22/2006
+  label: "Rectifica a Declaração de Rectificação n.º 22/2006, de 7 de Abril, DR.IS-A [70], que rectificou o Decreto Legislativo\
+    \ Regional n.º 5/2006/A, de 8 de Fevereiro\0\0"
+  source: null
+  date: '2006-04-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:06:16Z'
   warnings: []
   errors: []
 ---

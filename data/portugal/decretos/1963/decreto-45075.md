@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45075-1963-627470
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-06-14T00:00:00Z'
+  retrieved_at: '2026-10-22T19:35:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc2791ffbf280de6c72380bedebf87c671b3f61ba88f0857884a38e340eca823
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 462c9b1600429deaf3b59fa2f5d167059f7a917d4b01702bb1e11aa11af8fe4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:35:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,15 +70,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:35:08Z'
   warnings: []
   errors: []
 ---
@@ -97,21 +97,21 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 303.º a 312.º do Estatuto do Funcionalismo Ultramarino passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 303.º a 312.º do Estatuto do Funcionalismo Ultramarino passam a ter a seguinte redacção:
 
-###### Art. 303.º Os funcionários ultramarinos e os assalariados permanentes, bem como as respectivas famílias, têm direito a assistência médica prestada por médicos dos serviços públicos.
+Art. 303.º Os funcionários ultramarinos e os assalariados permanentes, bem como as respectivas famílias, têm direito a assistência médica prestada por médicos dos serviços públicos.
 
-###### Art. 304.º A assistência cirúrgica e hospitalar a funcionários, a assalariados permanentes e às respectivas famílias será prestada nos termos regulamentados para cada província, devendo prever-se para o efeito tabelas especiais de diárias e tratamentos.
+Art. 304.º A assistência cirúrgica e hospitalar a funcionários, a assalariados permanentes e às respectivas famílias será prestada nos termos regulamentados para cada província, devendo prever-se para o efeito tabelas especiais de diárias e tratamentos.
 
 § único. Na metrópole, esta assistência será prestada de harmonia com o regulamento do Hospital do Ultramar.
 
-###### Art. 305.º Têm direito à assistência, quando atacados de tuberculose evolutiva, os funcionários ultramarinos e os assalariados permanentes.
+Art. 305.º Têm direito à assistência, quando atacados de tuberculose evolutiva, os funcionários ultramarinos e os assalariados permanentes.
 
 § 1.º Para beneficiar da assistência, os assalariados permanentes deverão fazer, antes do assalariamento, a prova de robustez exigida pelo § 6.º do artigo 12.º
 
 § 2.º Os agentes referidos no corpo do artigo mantêm o direito à assistência quando aposentados.
 
-###### Art. 306.º Têm igualmente direito a assistência, quando atacados de tuberculose evolutiva, as seguintes pessoas de família dos agentes a que se refere o artigo anterior:
+Art. 306.º Têm igualmente direito a assistência, quando atacados de tuberculose evolutiva, as seguintes pessoas de família dos agentes a que se refere o artigo anterior:
 
 a) O cônjuge, se não tiver ele próprio direito a assistência ou, sendo do sexo masculino, se encontre impedido de prover ao sustento da família por invalidez ou desemprego forçado;
 
@@ -123,7 +123,7 @@ c) Os ascendentes do agente ou do seu cônjuge, quando se comprove que vivem exc
 
 § 2.º O doente será mandado apresentar com esses elementos à Junta de Saúde para efeitos de parecer, promovendo-se seguidamente inquérito assistencial se for julgado necessário.
 
-###### Art. 307.º O agente suspeito de sofrer de tuberculose evolutiva deverá requerer a respectiva apresentação à Junta de Saúde.
+Art. 307.º O agente suspeito de sofrer de tuberculose evolutiva deverá requerer a respectiva apresentação à Junta de Saúde.
 
 § 1.º Se se suspeitar que o agente sofre de tuberculose evolutiva e não requerer a sua apresentação à Junta de Saúde deverão os serviços promover oficiosamente que lhe seja aplicado o respectivo regime.
 
@@ -131,13 +131,13 @@ c) Os ascendentes do agente ou do seu cônjuge, quando se comprove que vivem exc
 
 § 3.º São ùnicamente competentes para atestarem a existência da doença as juntas de saúde provinciais e a Junta de Saúde do Ultramar. A assistência será concedida, consoante o agente ou a respectiva pessoa de família se encontrem na metrópole ou no ultramar, pelo Ministro ou pelo governador da província respectiva, mediante despacho homologatório do parecer daquelas juntas.
 
-###### Art. 308.º As juntas de saúde indicarão a forma de tratamento aconselhável, conforme o estado do doente e os recursos locais, podendo a assistência consistir em tratamento em regime ambulatório ou no domicílio, ou em tratamento sanatorial.
+Art. 308.º As juntas de saúde indicarão a forma de tratamento aconselhável, conforme o estado do doente e os recursos locais, podendo a assistência consistir em tratamento em regime ambulatório ou no domicílio, ou em tratamento sanatorial.
 
 § 1.º Nas províncias onde não haja sanatórios apropriados, poderá ser autorizado pelo governador respectivo o internamento em estabelecimento existente noutro local do território português.
 
 § 2.º O beneficiário da assistência que não se encontre internado terá de apresentar-se trimestralmente à Junta de Saúde, para o que deverá solicitar guia aos serviços competentes; se estiver internado em sanatório ou estabelecimento similar, a respectiva direcção enviará, também trimestralmente, relatório clínico a seu respeito à Junta de Saúde, através dos serviços a que o agente pertencer. As juntas de saúde ou alguns dos seus componentes podem igualmente deslocar-se, sempre que for julgado conveniente, aos sanatórios ou estabelecimentos similares em que haja doentes internados para se inteirarem do estado destes ou da forma como são tratados.
 
-###### Art. 309.º A assistência compreenderá:
+Art. 309.º A assistência compreenderá:
 
 a) A dispensa total dos serviços;
 
@@ -153,7 +153,7 @@ d) O pagamento das despesas de transporte, na classe que competir ao beneficiár
 
 § 3.º Decorrido o período máximo de tratamento previsto na alínea c), se o agente não se encontrar em estado de retomar o serviço será aposentado. A pensão de aposentação será correspondente à da aposentação voluntária, considerando-se, quando for necessário, que o agente prestou o tempo mínimo de serviço prescrito no n.º 3.º do artigo 430.º deste estatuto.
 
-###### Art. 310.º Os agentes assistidos mantêm todos os direitos inerentes à função, com as seguintes restrições:
+Art. 310.º Os agentes assistidos mantêm todos os direitos inerentes à função, com as seguintes restrições:
 
 a) O tempo em que estiverem totalmente ausentes do serviço não se contará para efeito de promoção por antiguidade, de concursos ou de remunerações que exijam o efectivo desempenho de funções;
 
@@ -171,21 +171,21 @@ c) A prestação de provas em concurso dependerá de autorização do Ministro d
 
 § 5.º Enquanto o agente se encontrar ausente do serviço, na situação de assistido, se se previr que o período da doença excederá seis meses, poderá o respectivo lugar ser provido por meio de nomeação interina, substituição, acumulação ou assalariamento eventual, consoante os casos e como for julgado mais conveniente, correndo os respectivos encargos de conta da verba de «duplicação de vencimentos».
 
-###### Art. 311.º Os agentes assistidos a quem a Junta dê alta e considere aptos para o serviço podem ocupar os respectivos cargos sem mais formalidades, devendo, quanto possível, ser-lhes atribuídas funções compatíveis com o seu estado e com a necessidade de beneficiarem de um período de transição. Também mediante parecer da Junta de Saúde poderão gozar um período de convalescença, até três meses, para consolidação da cura e gradual readaptação à vida profissional.
+Art. 311.º Os agentes assistidos a quem a Junta dê alta e considere aptos para o serviço podem ocupar os respectivos cargos sem mais formalidades, devendo, quanto possível, ser-lhes atribuídas funções compatíveis com o seu estado e com a necessidade de beneficiarem de um período de transição. Também mediante parecer da Junta de Saúde poderão gozar um período de convalescença, até três meses, para consolidação da cura e gradual readaptação à vida profissional.
 
 § 1.º Os agentes internos de estabelecimentos de educação ou de assistência a menores, de estabelecimentos hospitalares ou de quaisquer outros serviços em que a precaução se justifique, serão colocados de preferência em serviços externos.
 
 § 2.º Os serviços providenciarão no sentido de os agentes ou seus familiares considerados clìnicamente curados serem presentes semestralmente à Junta de Saúde, ou dentro de períodos mais curtos se esta assim o indicar, durante os dois primeiros anos de cura.
 
-###### Art. 312.º Todos os agentes sofrerão nos seus vencimentos um desconto, a estabelecer pelos competentes órgãos da província, até 5 por cento do seu vencimento total, como contribuição para os encargos desta assistência.
+Art. 312.º Todos os agentes sofrerão nos seus vencimentos um desconto, a estabelecer pelos competentes órgãos da província, até 5 por cento do seu vencimento total, como contribuição para os encargos desta assistência.
 
 § único. O produto da percentagens a que alude o corpo do artigo, bem como o das reduções previstas no § 4.º do artigo 310.º, serão destinados exclusivamente a fins assistenciais, sendo inscritas nos orçamentos das províncias ultramarinas e nos dos serviços com autonomia administrativa e financeira as verbas correspondentes àquelas receitas para ocorrer aos encargos previstos nesta divisão.
 
-###### Art. 2.º O disposto nos artigos 303.º a 312.º do Estatuto do Funcionalismo Ultramarino é aplicável aos agentes dos corpos administrativos e aos dos organismos de coordenação económica, que inscreverão nos seus orçamentos as verbas correspondentes às receitas referidas no artigo 312.º do mesmo estatuto para ocorreram aos encargos ali previstos.
+Art. 2.º O disposto nos artigos 303.º a 312.º do Estatuto do Funcionalismo Ultramarino é aplicável aos agentes dos corpos administrativos e aos dos organismos de coordenação económica, que inscreverão nos seus orçamentos as verbas correspondentes às receitas referidas no artigo 312.º do mesmo estatuto para ocorreram aos encargos ali previstos.
 
-###### Art. 3.º Os assalariados permanentes que não tenham feito, para a sua admissão, a prova de robustez física exigida pelo § 1.º do artigo 305.º do Estatuto do Funcionalismo Ultramarino poderão fazê-lo nos 60 dias subsequentes ao da entrada em vigor deste diploma.
+Art. 3.º Os assalariados permanentes que não tenham feito, para a sua admissão, a prova de robustez física exigida pelo § 1.º do artigo 305.º do Estatuto do Funcionalismo Ultramarino poderão fazê-lo nos 60 dias subsequentes ao da entrada em vigor deste diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Junho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

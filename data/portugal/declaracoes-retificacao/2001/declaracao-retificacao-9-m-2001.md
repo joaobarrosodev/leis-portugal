@@ -23,7 +23,7 @@ publication:
   reference: Diário da República n.º 77/2001, 3º Suplemento, Série I-B de 2001-03-31
   number: '77'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 1876-(15) a 1876-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/03/077b03/00150015.pdf
 entry_into_force_dates: []
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/9-m/2001/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-m-2001-621322
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:59:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe23aa692e3d5cc108af76ceec46fd5f01640d3a0adcbd0e7247072f01ee7aa7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a504590b39fdfa2833593607de47051d186f5d4fd9d766c6145a3f574094bed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:59:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,19 +70,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Direcção Geral das Pescas e Aquicultura
-- Fiscalização
-- Pesca
 - Apoio ao Investimento
+- Direcção Geral das Pescas e Aquicultura
+- Embarcação de Pesca
+- Financiamento
+- Fiscalização
+- Ifadap
+- Intervenção Operacional Pescas
+- Pesca
 - QCA III
 - Regime de Apoio
 - Regime de Apoio à Imobilização Definitiva de Embarcações de Pesca
-- Intervenção Operacional Pescas
 - Regulamento
 - Regulamento CE
-- Ifadap
-- Embarcação de Pesca
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1080/2000/11/08/p/dre
@@ -92,16 +92,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/56-b/2001/01/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/56-b/2001/01/29/p/dre
+- type: cites
+  target: pt:dre:163803:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:59:34Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +122,7 @@ No n.º 2 do anexo I, onde se lê:
 
 [...]
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/03/077b03/00150015.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/03/077b03/00150015.pdf)](https://files.diariodarepublica.pt/1s/2001/03/077b03/00150015.pdf)
 
 deve ler-se:
 
@@ -126,6 +130,6 @@ deve ler-se:
 
 [...]
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/03/077b03/00150015.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/03/077b03/00150015.pdf)](https://files.diariodarepublica.pt/1s/2001/03/077b03/00150015.pdf)
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 26 de Março de 2001. - O Secretário-Geral, Alexandre Figueiredo.

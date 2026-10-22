@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/92/2009/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/92-2009-482611
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:12:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 596eb805489bd7f1906c9cdb1f2ef12e19472b1978c804fa45b8e8acf963d013
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: abefb29f641500dadd16524cb8ad429179acee6a913a3570d9bb04ccccaef36d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:12:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,37 +67,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
 - Admissão de Pessoal
-- Tempo de Serviço
-- Processo Penal
-- Formação Profissional
-- Certificação Profissional
-- Estatuto
-- Processo Disciplinar
-- Estatuto dos Militares da Guarda Nacional Republicana
+- Avaliação do Pessoal
 - Carreira Profissional
-- Férias
-- Serviço Militar
-- Formas de Provimento
-- Recrutamento de Pessoal
-- Licença sem Vencimento
-- GNR
-- Pensão de Reforma
+- Certificação Profissional
 - Descrição de Funções
+- Estatuto
+- Estatuto dos Militares da Guarda Nacional Republicana
+- Férias
+- Formação Profissional
+- Formas de Provimento
+- Gestão de Recursos Humanos
+- GNR
+- Habitação
+- Horário de Trabalho
+- Licença sem Vencimento
+- Pensão de Reforma
 - Prisioneiro de Guerra
+- Processo Disciplinar
+- Processo Penal
 - Progressão na Carreira
 - Quadro de Pessoal
 - Reclamação
+- Recrutamento de Pessoal
+- Recurso
 - Reforma
-- Horário de Trabalho
-- Habitação
 - Remuneração
 - Reserva
-- Avaliação do Pessoal
-- Gestão de Recursos Humanos
+- Serviço Militar
 - Sistema de Ensino
 - Subsídio de Alojamento
+- Tempo de Serviço
 - Transferência de Pessoal
 - Transporte
 relationships:
@@ -141,16 +141,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/298/1994/11/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/298/1994/11/24/p/dre
+- type: cites
+  target: pt:dre:244949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:270807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546453:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:12:22Z'
   warnings: []
   errors: []
 ---

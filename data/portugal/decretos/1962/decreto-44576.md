@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44576-1962-159939
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-09-18T00:00:00Z'
+  retrieved_at: '2026-10-22T19:31:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a7a6cbb99c64d35a8e59521164322308556296650a04200a7ce0afc6e7f3c28
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a59a045c5f97a78c815fa7ae469c6c260479e3f281f63bf0b70f8a5c3cf22cee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:31:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:339829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378520:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:31:11Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +109,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 Fundo de fardamento
 
-###### Artigo 1.º O fundo de fardamento é constituído:
+Artigo 1.º O fundo de fardamento é constituído:
 
 a) Pelos créditos regulamentares das praças;
 
@@ -113,7 +125,7 @@ f) Pelo fundo permanente;
 
 g) Por quaisquer quantias recebidas com destino a este fundo.
 
-###### Art. 2.º O fundo de fardamento destina-se:
+Art. 2.º O fundo de fardamento destina-se:
 
 a) Ao pagamento a unidades da Guarda e outros Ministérios dos débitos das praças que vierem com passagem para a Guarda e ainda dos créditos das praças que à mesma deixarem de pertencer por terem passado a outras unidades ou à reserva ou tenham baixa de serviço;
 
@@ -127,7 +139,7 @@ e) À transferência para o fundo de reserva do fundo de laboração da percenta
 
 Fundo de laboração
 
-###### Art. 3.º O fundo de laboração é constituído:
+Art. 3.º O fundo de laboração é constituído:
 
 a) Pelas percentagens que o Serviço de Fardamento é autorizado a cobrar sobre o valor das manufacturas e sobre a importância das facturas de artigos e matérias-primas adquiridos;
 
@@ -147,7 +159,7 @@ h) Pelas receitas imprevistas provenientes de indemnizações;
 
 i) Pelas percentagens de 2 1/2 por cento sobre créditos de fardamento concedidos a oficiais que prestam serviço na Guarda Nacional Republicana.
 
-###### Art. 4.º O fundo de laboração destina-se:
+Art. 4.º O fundo de laboração destina-se:
 
 a) À aquisição de móveis e utensílios para as oficinas e restantes dependências do Serviço de Fardamento;
 
@@ -183,7 +195,7 @@ q) Ao pagamento de despesas com publicidade, propaganda e outras não especifica
 
 § único. As despesas indicadas nas alíneas a), f) e i) carecem de prévia autorização do Comando.
 
-###### Art. 5.º O saldo que porventura resulte, no fim do ano, no fundo de laboração, terá a seguinte aplicação:
+Art. 5.º O saldo que porventura resulte, no fim do ano, no fundo de laboração, terá a seguinte aplicação:
 
 60 por cento para a Acção Social da Guarda Nacional Republicana.
 
@@ -195,7 +207,7 @@ q) Ao pagamento de despesas com publicidade, propaganda e outras não especifica
 
 Fundo de reserva do fundo de laboração
 
-###### Art. 6.º O fundo de reserva do fundo de laboração é constituído:
+Art. 6.º O fundo de reserva do fundo de laboração é constituído:
 
 a) Pela percentagem de 20 cento do saldo anual do fundo de laboração do Serviço de Fardamento;
 
@@ -203,7 +215,7 @@ b) Pela percentagem de 3 1/2 por cento sobre o valor das manufacturas produzidas
 
 c) Pelo produto da venda de máquinas julgadas incapazes para as oficinas do Serviço de Fardamento.
 
-###### Art. 7.º O fundo de reserva do fundo de laboração destina-se:
+Art. 7.º O fundo de reserva do fundo de laboração destina-se:
 
 a) À aquisição de máquinas necessárias à laboração das oficinas do Serviço de Fardamento;
 
@@ -217,8 +229,8 @@ e) A cobrir metade do deficit que porventura se verifique, no fim do ano, no fun
 
 § único. As despesas indicadas neste artigo carecem de prévia autorização do Comando, com excepção das referidas na alínea c).
 
-###### Art. 8.º O presente diploma revoga o [Decreto n.º 41954](https://diariodarepublica.pt/dr/detalhe/decreto/41954-1958-339829), de 8 de Novembro de 1958, e os artigos 237.º e 238.º do [Decreto n.º 9168](https://diariodarepublica.pt/dr/detalhe/decreto/9168-1923-378520), de 4 de Outubro de 1923.
+Art. 8.º O presente diploma revoga o [Decreto n.º 41954](https://diariodarepublica.pt/dr/detalhe/decreto/41954-1958-339829), de 8 de Novembro de 1958, e os artigos 237.º e 238.º do [Decreto n.º 9168](https://diariodarepublica.pt/dr/detalhe/decreto/9168-1923-378520), de 4 de Outubro de 1923.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 18 de Setembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior.

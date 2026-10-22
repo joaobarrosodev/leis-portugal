@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/24/2026/02/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/24-2026-1038101442
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-03T00:00:00Z'
+  retrieved_at: '2026-10-22T18:31:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76f3ce35b1736e569e1663abc495413b750685ecb0c9dd136d29c2b720187a8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc896de29d21401f79cdb6c488152c303690100cb4018b141c0f14816de486b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:31:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,18 +69,24 @@ reuse:
 subjects:
 - Aquisição de Equipamento
 - Autorização de Despesas
-- Financiamento
 - CP
 - Despesas Públicas
+- Financiamento
+- Fundo Ambiental
 - Fundos CE
 - Material Ferroviário
 - Plano de Investimentos
-- Fundo Ambiental
 relationships:
 - type: amended_by
   target: pt:dre:1066034739:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:100/2021
+  label: Altera, com efeitos a 22 de janeiro de 2026, a Resolução do Conselho de Ministros n.º 100/2021, de 27 de julho, Diário
+    da República n.º 144/2021, Série I
+  source: null
+  date: '2021-07-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -105,16 +111,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/57-f/2024/03/28/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/57-f/2024/03/28/p/dre
+- type: cites
+  target: pt:dre:168398502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:858093996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:936194637:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:31:27Z'
   warnings: []
   errors: []
 ---
@@ -149,7 +179,7 @@ Assim:
 
 Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Alterar a [Resolução do Conselho de Ministros n.º 100/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/100-2021-168398502), de 27 de julho, alterada pelas Resoluções do Conselho de Ministros n.<sup>os</sup>[57-F/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/57-f-2024-858093996), de 28 de março, e [141-A/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/141-a-2025-936194637), de 22 de setembro, que passa a ter a seguinte redação:
+1 - Alterar a [Resolução do Conselho de Ministros n.º 100/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/100-2021-168398502), de 27 de julho, alterada pelas Resoluções do Conselho de Ministros n.os[57-F/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/57-f-2024-858093996), de 28 de março, e [141-A/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/141-a-2025-936194637), de 22 de setembro, que passa a ter a seguinte redação:
 
 «1 - Aprovar o Plano de Investimento em Material Circulante Ferroviário para a CP - Comboios de Portugal, E. P. E. (CP, E. P. E.), que inclui a aquisição de 117 unidades automotoras elétricas, 62 para os serviços urbanos, 55 para os serviços regionais e 36 automotoras adicionais para os serviços suburbanos, respetivas peças de parque e ferramentas especiais até ao montante global de € 1 064 022 425,05, a que acresce o IVA à taxa legal em vigor.
 
@@ -250,3 +280,5 @@ d) 2029 - € 0,00.
 2 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 22 de janeiro de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119947559

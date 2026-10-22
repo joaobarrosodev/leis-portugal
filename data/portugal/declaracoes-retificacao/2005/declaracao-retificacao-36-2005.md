@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/36/2005/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/36-2005-693441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-04-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:04:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 908c1fd6791892b2454e5b90cb2cc6c7ee21927e7340146b24d2e20b32797001
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 710e897e7fc7d6af4af5fcc2bdd288c1e8676513e5657507f80c240ce972bc43
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:04:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Definição de Competências
-- Sistema Retributivo
 - Carreira Profissional
+- Definição de Competências
 - Gabinete Governamental
+- Gestão de Recursos Humanos
 - Gestão Orçamental
-- Secretaria Regional do Equipamento Social e Transportes
+- Madeira.região Autónoma
 - Orgânica
 - Pessoal de Gabinete
-- Madeira.região Autónoma
 - Quadro de Pessoal
+- Secretaria Regional do Equipamento Social e Transportes
 - Secretário Regional do Equipamento Social e Transportes
-- Gestão de Recursos Humanos
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:249979:por
@@ -87,16 +87,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/6/2005/03/09/m/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/6/2005/03/09/m/dre
+- type: cites
+  target: pt:dre:591740:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:226447:por
+  label: "Rectificada a presente declaração, que rectificou o Decreto Regulamentar Regional n.º 6/2005/M, de 9 de Março, pela\
+    \ DECL-RECT.51/2005.03.06.2005.PCM, DR.IS-B [118] de 22.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/51-2005-226447
+  date: '2005-06-03'
+- type: corrects
+  target: pt:numero:decreto-regulamentar-regional:6/2005/M
+  label: "Rectifica o Decreto Regulamentar Regional n.º 6/2005/M, de 9 de Março, DR.IS-B [48]\0\0"
+  source: null
+  date: '2005-03-09'
+- type: repealed_by
+  target: pt:dre:249979:por
+  label: "Revogado, o DRR 6/2005/M de 09-Mar, rectificado pela presente declaração, com excepção das estruturas de organização\
+    \ vigente das unidades nucleares e flexíveis e do anexo a que se refere o n.º 2 do artigo 91.º, que deverão manter-se\
+    \ em vigor, nos termos do art. 41º, pelo DRR.7/2008/M.21.04.2008.PG-RAM, DR.IS [78] de 21.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-2008-249979
+  date: '2008-04-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:04:56Z'
   warnings: []
   errors: []
 ---
@@ -121,26 +143,26 @@ Para os devidos efeitos se declara que o [Decreto Regulamentar Regional n.º 6/2
 
 8 - No anexo, «(a que se refere o n.º 2 do artigo 91.º)», no mapa I, «Serviços dependentes do Secretário Regional», onde se lê:
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)
+[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)
 
 deve ler-se:
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)
+[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)
 
 9 - No anexo, «(a que se refere o n.º 2 do artigo 91.º)», no mapa II, «Direcção Regional de Edifícios Públicos», onde se lê:
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)
+[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)
 
 deve ler-se:
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)
+[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)
 
 10 - No anexo, «(a que se refere o n.º 2 do artigo 91.º)», no mapa III, «Direcção Regional de Estradas», onde se lê:
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)
+[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)
 
 deve ler-se:
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)
+[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)](https://files.diariodarepublica.pt/1s/2005/05/092b00/33363338.pdf)
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 29 de Abril de 2005. - O Secretário-Geral, José M. Sousa Rego.

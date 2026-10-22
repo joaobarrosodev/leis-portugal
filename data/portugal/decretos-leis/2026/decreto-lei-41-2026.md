@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/41/2026/02/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2026-1051282279
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-16T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40d48fd7b1e29e4664ed8f93a6e47e051eadae6c9f10a3a470102887360d2997
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87b9c29d4ed82d43aee881210c9ea37d897e8827ee7d11e0c75b7b35be767883
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,20 @@ subjects:
 - Processo de Execução
 - Tribunal Administrativo
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:42/2001
+  label: Altera, a partir de 1 de março de 2026, os artigos 3.º-A, 6.º-A, 7.º, 13.º e 18.º-A e revoga o n.º 2 do artigo 6.º-A,
+    os n.ºs 2, 3 e 4 do artigo 7.º e os n.ºs 2 e 3 do artigo 14.º-A do Decreto-Lei n.º 42/2001, de 9 de fevereiro, Diário
+    da República n.º 34/2001, Série I-A
+  source: null
+  date: '2001-02-09'
+- type: amends
+  target: pt:numero:decreto-lei:84/2012
+  label: Altera, a partir de 1 de março de 2026, os artigos 1.º, 2.º, 3.º, 5.º, 7.º, 10.º, 12.º, 14.º, 15.º e 15.º-A, adita
+    os artigos 3.º-A e 13.º-A e revoga os n.ºs 2, 3, 4, 5, 6 e 7 do artigo 3.º e a alínea c) do n.º 3 do artigo 14.º do Decreto-Lei
+    n.º 84/2012, de 30 de março, Diário da República n.º 65/2012, Série I
+  source: null
+  date: '2012-03-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/200/2006/10/25/p/dre
   label: null
@@ -113,16 +127,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:107094720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115312061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122168904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
 article_structure:
-  article_count: 28
+  article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:23Z'
   warnings: []
   errors: []
 ---
@@ -149,7 +207,7 @@ Ao abrigo do disposto no n.º 1 do artigo 16.º da [Lei n.º 3/2004](https://dia
 
 ###### Artigo 1.º — Objeto
 
-1 - O presente decreto-lei procede à reestruturação do Instituto de Gestão Financeira da Segurança Social, I. P. (IGFSS, I. P.), alterando o [Decreto-Lei n.º 84/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2012-553884), de 30 de março, alterado pelos Decretos-Leis n.<sup>os</sup>[33/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), de 15 de maio, e [56/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2019-122168904), 24 de abril, que aprova a orgânica do IGFSS, I. P.
+1 - O presente decreto-lei procede à reestruturação do Instituto de Gestão Financeira da Segurança Social, I. P. (IGFSS, I. P.), alterando o [Decreto-Lei n.º 84/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2012-553884), de 30 de março, alterado pelos Decretos-Leis n.os[33/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), de 15 de maio, e [56/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2019-122168904), 24 de abril, que aprova a orgânica do IGFSS, I. P.
 
 2 - O presente decreto-lei procede ainda à décima sexta alteração ao [Decreto-Lei n.º 42/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2001-319948), de 9 de fevereiro, na sua redação atual, que cria as secções de processo executivo do sistema de solidariedade e segurança social, define as regras especiais daquele processo e adequa a organização e a competência dos tribunais administrativos e tributários.
 
@@ -213,7 +271,9 @@ Os artigos 1.º, 2.º, 3.º, 5.º, 7.º, 10.º, 12.º, 14.º, 15.º e 15.º-A do
 
 4 - Podem ainda funcionar junto do IGFSS, I. P., outros fundos cuja gestão e ou administração lhe seja conferida por diploma legal.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...]
 
@@ -221,7 +281,9 @@ Os artigos 1.º, 2.º, 3.º, 5.º, 7.º, 10.º, 12.º, 14.º, 15.º e 15.º-A do
 
 3 - O IGFSS, I. P., dispõe de serviços desconcentrados a nível distrital, denominados núcleos de apoio ao contribuinte, que constituem as secções de processo executivo do sistema de solidariedade e segurança social criadas pelo [Decreto-Lei n.º 42/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2001-319948), de 9 de fevereiro, na sua redação atual.
 
-###### Artigo 3.º — Missão
+Artigo 3.º
+
+Missão
 
 1 - [...]
 
@@ -237,7 +299,9 @@ Os artigos 1.º, 2.º, 3.º, 5.º, 7.º, 10.º, 12.º, 14.º, 15.º e 15.º-A do
 
 7 - [Revogado.]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -255,7 +319,9 @@ e) [...]
 
 f) Definir a composição e limites das aplicações de capital efetuadas pelo IGFSS, I. P.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -283,7 +349,9 @@ h) [...]
 
 5 - A participação no Conselho Consultivo não confere o direito a remuneração.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -317,11 +385,15 @@ m) [Anterior alínea k).]
 
 3 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 A prestação de contas do IGFSS, I. P., é efetuada através de relatório e conta anuais a elaborar de acordo com o Sistema de Normalização Contabilística para as administrações públicas e é submetida à aprovação do membro do Governo responsável pela área da solidariedade e segurança social, acompanhada do parecer do fiscal único, até 31 de março do ano seguinte a que respeitam.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -339,13 +411,17 @@ d) Coordenador de núcleo, 55 %.
 
 4 - As despesas de representação dos cargos de direção intermédia de 1.º e 2.º graus do IGFSS, I. P., são determinadas em percentagem das despesas de representação do vogal do conselho diretivo do IGFSS, I. P., nos termos do número anterior.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Para efeitos do disposto no [Decreto-Lei n.º 42/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2001-319948), de 9 de fevereiro, na sua redação atual, compete ao IGFSS, I. P., a instauração e instrução do processo de execução de dívidas à segurança social e a outras entidades legalmente previstas, através do núcleo de apoio ao contribuinte competente.
 
 2 - As instituições do sistema de segurança social, bem como as entidades equiparadas para efeitos de cobrança executiva remetem as certidões de dívida ao núcleo de apoio ao contribuinte competente.
 
-###### Artigo 15.º-A — [...]
+Artigo 15.º-A
+
+[...]
 
 1 - Os trabalhadores do IGFSS, I. P., quando no exercício das funções de fiscalização previstas na alínea i) do n.º 3 do artigo 3.º-A do presente decreto-lei, gozam das prerrogativas previstas no artigo 16.º do [Decreto-Lei n.º 276/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), de 31 de julho, na sua redação atual.
 
@@ -365,7 +441,9 @@ Os artigos 3.º-A, 6.º-A, 7.º, 13.º e 18.º-A do [Decreto-Lei n.º 42/2001](h
 
 3 - [...]
 
-###### Artigo 6.º-A — [...]
+Artigo 6.º-A
+
+[...]
 
 1 - Os executados em processo de execução de dívidas à segurança social, bem como aqueles cujas dívidas se encontrem sujeitas a tal processo, são obrigados a aderir ao sistema de notificações eletrónicas da segurança social, quando não adiram ao serviço público de notificações eletrónicas, associado à morada única digital.
 
@@ -373,7 +451,9 @@ Os artigos 3.º-A, 6.º-A, 7.º, 13.º e 18.º-A do [Decreto-Lei n.º 42/2001](h
 
 3 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - São títulos executivos as certidões de dívida emitidas, nos termos legais, pelas instituições de segurança social, bem como pelas entidades cujas dívidas estejam sujeitas ao processo de execução de dívidas à segurança social.
 
@@ -383,7 +463,9 @@ Os artigos 3.º-A, 6.º-A, 7.º, 13.º e 18.º-A do [Decreto-Lei n.º 42/2001](h
 
 4 - [Revogado.]
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -397,7 +479,9 @@ Os artigos 3.º-A, 6.º-A, 7.º, 13.º e 18.º-A do [Decreto-Lei n.º 42/2001](h
 
 6 - Não é permitida a apensação de processos de execução de dívidas à segurança social com plano prestacional autorizado.
 
-###### Artigo 18.º-A — Execução de outras dívidas
+Artigo 18.º-A
+
+Execução de outras dívidas
 
 1 - Para efeitos de participação da dívida relativa a outras entidades, nos termos legalmente fixados, são estabelecidos canais específicos de comunicação e interoperabilidade entre as instituições envolvidas.
 
@@ -487,7 +571,9 @@ i) Assegurar, em articulação com a Direção-Geral de Coordenação e Planeame
 
 6 - A composição e limites das aplicações de capital efetuadas pelo IGFSS, I. P., são fixados por portaria dos membros do Governo responsáveis pelas áreas das finanças e da segurança social.
 
-###### Artigo 13.º-A — Património imobiliário da segurança social
+Artigo 13.º-A
+
+Património imobiliário da segurança social
 
 1 - À alienação, aquisição, oneração, arrendamento e demais transações ou operações de gestão dos imóveis do IGFSS, I. P., que constituem o património imobiliário da segurança social não se aplica o regime jurídico aplicável ao Estado e demais pessoas coletivas públicas, designadamente o disposto no [Decreto-Lei n.º 280/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2007-637402), de 7 de agosto, na sua redação atual.
 
@@ -499,9 +585,9 @@ i) Assegurar, em articulação com a Direção-Geral de Coordenação e Planeame
 
 São revogados:
 
-a) O n.º 2 do artigo 6.º-A, os n.<sup>os</sup>2, 3 e 4 do artigo 7.º e os n.<sup>os</sup>2 e 3 do artigo 14.º-A do [Decreto-Lei n.º 42/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2001-319948), de 9 de fevereiro, na sua redação atual;
+a) O n.º 2 do artigo 6.º-A, os n.os2, 3 e 4 do artigo 7.º e os n.os2 e 3 do artigo 14.º-A do [Decreto-Lei n.º 42/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2001-319948), de 9 de fevereiro, na sua redação atual;
 
-b) Os n.<sup>os</sup>2, 3, 4, 5, 6 e 7 do artigo 3.º e a alínea c) do n.º 3 do artigo 14.º do [Decreto-Lei n.º 84/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2012-553884), de 30 de março, na sua redação atual.
+b) Os n.os2, 3, 4, 5, 6 e 7 do artigo 3.º e a alínea c) do n.º 3 do artigo 14.º do [Decreto-Lei n.º 84/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2012-553884), de 30 de março, na sua redação atual.
 
 ###### Artigo 14.º — Entrada em vigor
 
@@ -509,12 +595,14 @@ O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua
 
 Visto e aprovado em Conselho de Ministros de 28 de novembro de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro - Rosário Palma Ramalho.
 
-**Promulgado em 5 de fevereiro de 2026.**
+Promulgado em 5 de fevereiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de fevereiro de 2026.**
+Referendado em 6 de fevereiro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119947655

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44390-1962-164799
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-06-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:29:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dcac75c540af4b17226596e450abfa72bcf146468e5f51c54cc7995db56985d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06b668fc0ebb8491fcace5f6a36c8e77f84c611c1fe0e19d34e91675056c47fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:29:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:181835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596684:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:29:41Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +106,7 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. Transita para os governadores das províncias ultramarinas a competência atribuída ao Ministro do Ultramar pelas seguintes disposições:
+Artigo único. Transita para os governadores das províncias ultramarinas a competência atribuída ao Ministro do Ultramar pelas seguintes disposições:
 
 [Decreto n.º 32844](https://diariodarepublica.pt/dr/detalhe/decreto/32844-1943-397104), de 12 de Junho de 1943, artigo 6.º;
 
@@ -100,7 +116,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 [Decreto n.º 38643](https://diariodarepublica.pt/dr/detalhe/decreto/38643-1952-596684), de 14 de Fevereiro de 1952, artigo 3.º, alínea a).
 
-**Publique-se e cumpra-se com nele se contém.**
+Publique-se e cumpra-se com nele se contém.
 
 Paços do Governo da República, 7 de Junho de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

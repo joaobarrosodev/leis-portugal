@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/04/07400/0128401306.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/8/2016/04/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/8-2016-74163193
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T17:54:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f1bd89d9fefed6236534b80aa4a7225964d1f6b8a30a4aea9e2b57ff16d2cb3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ae01c8c2cdc42a0b09007899ad0820d7b44ea29895da20917e6c25ac2acd392
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:54:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Insolvência
 - Alienação de Imóveis
 - BENS Imóveis
 - Código do Trabalho
+- Insolvência
 - Interpretação do Direito
 - Jurisprudencia
 - Privilégio Creditório
@@ -115,16 +115,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
+- type: cites
+  target: pt:dre:220944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67040492:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:54:00Z'
   warnings: []
   errors: []
 ---
@@ -339,7 +395,7 @@ A criação deste privilégio imobiliário geral contrariava o que, então, se d
 
 Acresce que o entendimento adoptado sobre os efeitos do privilégio imobiliário geral assim criado, em relação a terceiros, não foi uniforme.
 
-# Parte da doutrina e da jurisprudência defendia a sujeição desse privilégio ao disposto no art. 749º do Código Civil. «Isto porque, dada a sua generalidade, não são direitos reais de garantia - não incidem sobre coisas corpóreas, certas e determinadas - nem, sequer, verdadeiros direitos subjectivos, mas tão só preferências gerais anómalas» (4).
+Parte da doutrina e da jurisprudência defendia a sujeição desse privilégio ao disposto no art. 749º do Código Civil. «Isto porque, dada a sua generalidade, não são direitos reais de garantia - não incidem sobre coisas corpóreas, certas e determinadas - nem, sequer, verdadeiros direitos subjectivos, mas tão só preferências gerais anómalas» (4).
 
 Outros, porém, "por interpretação teleológica (tendo em conta a analogia) da lei especial", entendiam que era de aplicar a norma do art. 751º, pelo que o privilégio imobiliário seria oponível a terceiros, preferindo à hipoteca, ainda que esta fosse anterior (5).
 

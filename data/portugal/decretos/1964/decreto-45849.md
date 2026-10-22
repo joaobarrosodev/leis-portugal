@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1964/08/18100/09680968.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45849-1964-580088
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-03-11T00:00:00Z'
+  retrieved_at: '2026-10-22T19:41:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46978ae7ac351c297a16d32a8d7ed689ec03af132f8d81bfa94d0f0c75a8515e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0a7161b8f82a08b945e3aeb9cc3db4d5899d135fc5d74beabce603c8dc037a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:41:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Controlo de Qualidade
+- Fabrico Industrial
+- Margarina
 relationships:
 - type: amended_by
   target: pt:dre:326324:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:433044:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:326324:por
+  label: Revogado, a partir de 23.03.1985, pelo(a) Decreto-Lei n.º 59/85 - Diário da República n.º 58/1985, Série I de 1985-03-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-1985-326324
+  date: '1985-03-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:41:25Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +104,9 @@ O [Decreto n.º 42354](https://diariodarepublica.pt/dr/detalhe/decreto/42354-195
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109º. da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, o seguinte:
 
-###### Artigo único. Os artigos 3.º e 9.º do [Decreto n.º 42354](https://diariodarepublica.pt/dr/detalhe/decreto/42354-1959-433044), de 2 de Julho de 1959, passam a ter a seguinte redacção:
+Artigo único. Os artigos 3.º e 9.º do [Decreto n.º 42354](https://diariodarepublica.pt/dr/detalhe/decreto/42354-1959-433044), de 2 de Julho de 1959, passam a ter a seguinte redacção:
 
-###### Art. 3.º Na fabricação da margarina é obrigatória a junção do leite e de amido, este último como desnaturante ou revelador.
+Art. 3.º Na fabricação da margarina é obrigatória a junção do leite e de amido, este último como desnaturante ou revelador.
 
 § 1.º O teor em leite da margarina deve ser, pelo menos, igual a 5 por cento referido a leite comum.
 
@@ -103,7 +116,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109º. da Constituição,
 
 ...
 
-###### Art. 9.º A margarina só pode ser vendida ao público em embalagens fechadas, originárias das fábricas, e com os pesos líquidos de 1 kg, 500 g e 125 g.
+Art. 9.º A margarina só pode ser vendida ao público em embalagens fechadas, originárias das fábricas, e com os pesos líquidos de 1 kg, 500 g e 125 g.
 
 A margarina destinada às províncias ultramarinas para venda ao público pode também ser fornecida em embalagens de 2 kg, 5 kg e 10 kg, sendo proibida qualquer outra indicação de unidades de massa.
 
@@ -113,6 +126,6 @@ A margarina que se destinar à indústria pode ser fornecida pelas fábricas em 
 
 § 2.º A margarina destinada à exportação pode ser acondicionada de acordo com as exigências do país comprador.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 3 de Agosto de 1954. - ANTÓNIO DE OLIVEIRA SALAZAR - Luís Maria Teixeira Pinto.

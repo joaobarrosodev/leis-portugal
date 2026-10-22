@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/1/2013/01/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/1-2013-588826
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-07T00:00:00Z'
+  retrieved_at: '2026-10-22T17:53:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b4268fdc0fd65ceb0725e70f8d292c0b7936674affb2a5a36026e20139305b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf07ea2884cb2da022344047ed3072210635891584fd2db043c17595f1c2f98a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:53:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -121,16 +121,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
+- type: cites
+  target: pt:dre:191558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:53:14Z'
   warnings: []
   errors: []
 ---
@@ -1689,7 +1765,7 @@ Por sua vez o Artigo 58. refere-se aos limites contributivos.
 
 (34) Artigo 60º sobre a restituição e cobrança coerciva das contribuições ou prestações
 
-(35) ANTÒNIO MANUEL VALENTE LOPES DIAS, Considerações sobre o enquadramento dogmático dos crimes contra a Segurança Social, trabalho realizado no âmbito do curso de pós-graduação em Direito Penal Económico Europeu, do Instituto de Direito Penal Económico Europeu, da Faculdade de Direito da Universidade de Coimbra verbo jurídico [([ver documento original](https://files.diariodarepublica.pt/1s/2013/01/00400/0004400074.pdf))](https://files.diariodarepublica.pt/1s/2013/01/00400/0004400074.pdf) 2005, p. 8
+(35) ANTÒNIO MANUEL VALENTE LOPES DIAS, Considerações sobre o enquadramento dogmático dos crimes contra a Segurança Social, trabalho realizado no âmbito do curso de pós-graduação em Direito Penal Económico Europeu, do Instituto de Direito Penal Económico Europeu, da Faculdade de Direito da Universidade de Coimbra verbo jurídico [(ver documento original)](https://files.diariodarepublica.pt/1s/2013/01/00400/0004400074.pdf) 2005, p. 8
 
 (36) A.V.LOPES DIAS, ibidem, pág.. 9
 
@@ -1743,7 +1819,7 @@ Consideram-se, para efeitos do presente diploma, órgãos de execução as secç
 
 (46) Artigos.8º e 9º
 
-###### Artigo 10º
+Artigo 10º
 
 As instituições do sistema de solidariedade e segurança social podem coligar-se, em processo de execução, às instituições do sistema fiscal.
 
@@ -1763,13 +1839,13 @@ O processo de execução é instaurado e instruído pelo maior credor
 
 Na parte III, sob o epíteto "Das infracções tributárias em especial" o RGIT, consagrou nos seguintes capítulos as seguintes espécies de crimes tributários
 
-### Capítulo I - Crimes tributários comuns
+Capítulo I - Crimes tributários comuns
 
-### Capítulo II - Crimes Aduaneiros
+Capítulo II - Crimes Aduaneiros
 
-### Capítulo III - Crimes Fiscais
+Capítulo III - Crimes Fiscais
 
-### Capítulo IV - Crimes Contra a Segurança Social
+Capítulo IV - Crimes Contra a Segurança Social
 
 (51) Frederico de Lacerda da Costa Pinto, Crimes tributários - Portugal, Faculdade de Direito da Universidade Nova de Lisboa
 

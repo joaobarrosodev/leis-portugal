@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45388-1963-684045
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-11-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:37:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f4674ece125dbbecbf51f81eb9f886591fd619d5d8f71b5ac72983469f32c85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0db392a36110c010a6ac162d1645b9c87a4622312034db0f3befcc595d46177
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:37:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:558653:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:37:53Z'
   warnings: []
   errors: []
 ---
@@ -84,9 +88,9 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os artigos 7.º, 8.º, 9.º e 10.º do Regulamento das Expropriações, aprovado pelo [Decreto n.º 43587](https://diariodarepublica.pt/dr/detalhe/decreto/43587-1961-558653), de 8 de Abril de 1961, passam a ter a seguinte redacção:
+Artigo único. Os artigos 7.º, 8.º, 9.º e 10.º do Regulamento das Expropriações, aprovado pelo [Decreto n.º 43587](https://diariodarepublica.pt/dr/detalhe/decreto/43587-1961-558653), de 8 de Abril de 1961, passam a ter a seguinte redacção:
 
-###### Art. 7.º - 1. ...
+Art. 7.º - 1. ...
 
 2. ...
 
@@ -96,7 +100,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 5. Ao auto de expropriação são aplicáveis, com as necessárias adaptações, as disposições legais reguladoras dos instrumentos notariais avulsos na parte não contrariada pelo presente regulamento.
 
-###### Art. 8.º - 1. A escritura ou o auto será lavrado dentro dos dez dias subsequentes àquele em que pela entidade expropriante for comunicado ao notário ou à câmara municipal o acordo celebrado, e dela hão-de constar:
+Art. 8.º - 1. A escritura ou o auto será lavrado dentro dos dez dias subsequentes àquele em que pela entidade expropriante for comunicado ao notário ou à câmara municipal o acordo celebrado, e dela hão-de constar:
 
 a) ...
 
@@ -110,12 +114,12 @@ e) ...
 
 2. Para que a escritura ou o auto seja lavrado deve o expropriante apresentar os documentos a que se refere o artigo 2.º e, quando se trate de entidade particular, juntar ainda o conhecimento do depósito da indemnização na Caixa Geral de Depósitos, Credito e Previdência.
 
-###### Art. 9.º - 1. ...
+Art. 9.º - 1. ...
 
 2. Nos restantes casos depois de cumpridas as formalidades necessárias à eficácia do acordo, ficará a certidão ou o duplicado a aguardar no serviço perante o qual a escritura ou o auto foi lavrado, durante o prazo de dez dias, que o expropriante junte o conhecimento do depósito na Caixa Geral de Depósitos, Crédito e Previdência da importância da indemnização; logo que se mostre feita a junção, será a certidão da escritura ou o duplicado do auto, com os demais documentos, remetido ao tribunal da comarca referida no número anterior.
 
-###### Art. 10.º Recebida a certidão ou o duplicado com os documentos no tribunal, o juiz adjudicará, dentro de cinco dias, o prédio ao expropriante, a quem o mandará entregar livre de qualquer ónus ou encargo.
+Art. 10.º Recebida a certidão ou o duplicado com os documentos no tribunal, o juiz adjudicará, dentro de cinco dias, o prédio ao expropriante, a quem o mandará entregar livre de qualquer ónus ou encargo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Novembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Eduardo de Arantes e Oliveira.

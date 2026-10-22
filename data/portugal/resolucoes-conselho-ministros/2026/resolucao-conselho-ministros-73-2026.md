@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/73/2026/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/73-2026-1087907682
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-22T00:00:00Z'
+  retrieved_at: '2026-10-22T18:39:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ee8a9d0bdfb81d71f8244fe302701bfc4b3c677a160fb183f34e0ed9b2190e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05e4a209eeea166f5dbc30ea8d4efc01085feaa71d2f22de464d2528f908c1ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:39:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autorização de Despesas
-- Ministro da Saúde
 - Conselho de Ministros
 - Contrato de Cooperação
 - Delegação de Competências
 - Despesas Públicas
-- Serviço Nacional de Saúde
-- Hospital da Prelada
-- Santa Casa da Misericórdia
-- Porto
 - Governo XXV
+- Hospital da Prelada
+- Ministro da Saúde
+- Porto
+- Santa Casa da Misericórdia
+- Serviço Nacional de Saúde
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:167/2023
+  label: Altera, com efeitos a 9 de abril de 2026, a Resolução do Conselho de Ministros n.º 167/2023, de 11 de dezembro, Diário
+    da República n.º 237/2023, Série I
+  source: null
+  date: '2023-12-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -99,16 +105,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/167/2023/12/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/167/2023/12/11/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229857688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:884941427:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:39:05Z'
   warnings: []
   errors: []
 ---
@@ -156,3 +182,5 @@ d) 2026 - 41 621 467,50 €.
 3 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 9 de abril de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119948306

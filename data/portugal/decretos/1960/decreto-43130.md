@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43130-1960-500000
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-08-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:19:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09a561e7baf78301f4045d4c2a0416139c30f03a66d6cac0a81a59b07df09f74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0686220017b1c51a66fcde0a410cc2b3ade8e2748a2ee25058898e1486856a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:19:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439779:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:19:22Z'
   warnings: []
   errors: []
 ---
@@ -91,12 +99,12 @@ Tendo em atenção o disposto no citado artigo 13.º do [Decreto n.º 42631](htt
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o Instituto Nacional de Estatística a celebrar contrato com a Sociedade Lusitana de Organizações, Lda., para o fornecimento, por aluguer, de máquinas estatísticas para a elaboração mecânica dos serviços do X Recenseamento Geral da População.
+Artigo 1.º É autorizado o Instituto Nacional de Estatística a celebrar contrato com a Sociedade Lusitana de Organizações, Lda., para o fornecimento, por aluguer, de máquinas estatísticas para a elaboração mecânica dos serviços do X Recenseamento Geral da População.
 
-###### Art. 2.º Os encargos a satisfazer não poderão exceder as seguintes importâncias: em 1961, 524700$00; em 1962, 340800$00.
+Art. 2.º Os encargos a satisfazer não poderão exceder as seguintes importâncias: em 1961, 524700$00; em 1962, 340800$00.
 
-###### Art. 3.º As máquinas a fornecer, por aluguer, ao Instituto Nacional de Estatística poderão ser importadas em regime de importação provisória e ser reconstruídas ou recondicionadas.
+Art. 3.º As máquinas a fornecer, por aluguer, ao Instituto Nacional de Estatística poderão ser importadas em regime de importação provisória e ser reconstruídas ou recondicionadas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Agosto de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - António Manuel Pinto Barbosa.

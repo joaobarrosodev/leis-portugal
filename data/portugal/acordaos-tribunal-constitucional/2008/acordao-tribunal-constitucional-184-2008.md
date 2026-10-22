@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/184/2008/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/184-2008-249867
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-04-22T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed2a3cd5722d3aade051552e251d2fd0967445b8a1ac8f15ef65916358da474d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f160041f41813187ab100d75b904e1884fa35f1a8db21e212af97e4af24602cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Educação Permanente
 - Educador de Infância
+- Ensino Básico
 - Estatuto
-- Recrutamento de Pessoal
 - Inconstitucionalidade
 - Pessoal Docente
-- Educação Permanente
-- Ensino Básico
+- Recrutamento de Pessoal
 relationships:
 - type: cites
   target: eli:http://d
@@ -122,16 +122,116 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/66-b/2007/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/66-b/2007/12/28/p/dre
+- type: cites
+  target: pt:dre:1505963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1635605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1960637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3238790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684202:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:38Z'
   warnings: []
   errors: []
 ---
@@ -210,7 +310,9 @@ Transição da carreira docente
 
 14 - ...
 
-###### Artigo 15.º — Recrutamento transitório para professor titular
+Artigo 15.º
+
+Recrutamento transitório para professor titular
 
 1 - ...
 

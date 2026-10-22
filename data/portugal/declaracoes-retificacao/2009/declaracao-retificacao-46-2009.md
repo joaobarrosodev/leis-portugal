@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/46/2009/07/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/46-2009-491905
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-03T00:00:00Z'
+  retrieved_at: '2026-10-22T19:11:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9674c155a3eb01dffd59a55a3c2123fe4d401da30b3257b441ad128f0cbd3cc9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea7d300a9dae91ceb9e6f3d09ece46ccee1cd2fd24ee882c8c6e3ce8f8bc1a9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:11:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
+- Agricultor
+- Agricultura
 - Ajuda Comunitária
 - Aproximação das Legislações
-- Financiamento
 - Beneficiário
 - Direcção Regional de Agricultura e Pescas
+- Exploração Agrícola
+- Financiamento
 - Fiscalização
-- Pagamento
 - IFAP
 - Investimento
-- Exploração Agrícola
+- Pagamento
 - Política Agrícola Comum
-- Agricultor
+- Proder
 - Região Agrária
-- Regulamento de Aplicação da Acção Nº 1.1.2-investimentos de Pequena Dimensão
 - Região Desfavorecida
-- Agricultura
+- Regulamento de Aplicação da Acção Nº 1.1.2-investimentos de Pequena Dimensão
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
@@ -94,16 +94,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/482/2009/05/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/482/2009/05/06/p/dre
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:portaria:482/2009
+  label: "Rectifica a alínea b) do n.º 2 do artigo 10.º do Regulamento, aprovado pela Portaria n.º 482/2009, de 6 de Maio,\
+    \ DR.IS [87] \0\0"
+  source: null
+  date: '2009-05-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:11:34Z'
   warnings: []
   errors: []
 ---

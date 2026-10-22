@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1963/12/30600/22012213.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45498-1963-681047
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-15T00:00:00Z'
+  retrieved_at: '2026-10-22T19:38:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b041df672cbbae03da2988f2139c8354796156b991c8ada7cd82dab907ac454
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c608ec09339d315a8a4ec88d8d37846b724e6346e1d16f1e22607f49225f378
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:38:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:372798:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:508248:por
+  label: "Aditado um § ao art. 29º, pelo DEC.46786.1965.12.23.PC, DG.IS [290]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/46786-1965-508248
+  date: '1965-12-23'
+- type: amended_by
+  target: pt:dre:234736:por
+  label: "Dada nova redacção aos arts. 37º, 38º e 39º, pelo DEC.48285.1968.03.22.PC, DG.IS [70]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/48285-1968-234736
+  date: '1968-03-22'
+- type: amended_by
+  target: pt:dre:161368:por
+  label: "Consideradas prejudicadas as disposições do Regulamento das Ordens Honoríficas Portuguesas, que exijam a publicação\
+    \ de quaisquer louvores concedidos a militares, pelo DEC LEI.171/75.01.04.1975.CCEMFA, DG.IS [76] de 01.04.1975, relativamente\
+    \ ao contido no art. 1º daquele diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/171-1975-161368
+  date: '1975-04-01'
+- type: cites
+  target: pt:dre:155469:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:372798:por
+  label: "Revogado pelo DEC LEI.414-A/86.1986.12.15.PCM, DR.IS [287]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/414-a-1986-372798
+  date: '1986-12-15'
 article_structure:
-  article_count: 1
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 17
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:38:52Z'
   warnings: []
   errors: []
 ---
@@ -90,19 +117,19 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 REGULAMENTO DAS ORDENS HONORÍFICAS PORTUGUESAS
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
 ### CAPÍTULO I — Do processo de agraciamento e da investidura
 
-###### Artigo 1.º As propostas de concessão de qualquer grau das ordens honoríficas deverão ser sempre fundamentadas e assinadas, conforme os casos, pelo Presidente do Conselho, pelo Ministro competente ou pelo chanceler da ordem.
+Artigo 1.º As propostas de concessão de qualquer grau das ordens honoríficas deverão ser sempre fundamentadas e assinadas, conforme os casos, pelo Presidente do Conselho, pelo Ministro competente ou pelo chanceler da ordem.
 
 § único. Os requisitos legais exigidos para a concessão do título de membro honorário de uma ordem a localidades, colectividades e instituições deverão ser provados pela entidade proponente, em documentação anexa à proposta, quando não constituam factos notórios.
 
-###### Art. 2.º Se não houver vaga no quadro para a concessão do agraciamento proposto, a Chancelaria das Ordens comunicará à entidade proponente que, por esse motivo, a proposta não pode ter seguimento.
+Art. 2.º Se não houver vaga no quadro para a concessão do agraciamento proposto, a Chancelaria das Ordens comunicará à entidade proponente que, por esse motivo, a proposta não pode ter seguimento.
 
 § único. Quando vier a verificar-se a existência de uma vaga que permita o andamento do processo, será informada a entidade proponente, para renovação da sua iniciativa, se assim o entender.
 
-###### Art. 3.º Recebida uma proposta de agraciamento na Chancelaria das Ordens, será dado conhecimento ao chanceler, que fará convocar o respectivo conselho, a fim de ser ouvido sobre a mesma.
+Art. 3.º Recebida uma proposta de agraciamento na Chancelaria das Ordens, será dado conhecimento ao chanceler, que fará convocar o respectivo conselho, a fim de ser ouvido sobre a mesma.
 
 § 1.º Se o parecer do conselho da ordem for favorável, será o processo submetido à apreciação do Presidente da República, para decisão final.
 
@@ -114,105 +141,105 @@ a) As propostas do Presidente do Conselho formuladas com nota de urgência;
 
 b) As propostas do Ministro dos Negócios Estrangeiros, para concessão de condecoração a cidadão estrangeiro, formuladas com nota de urgência.
 
-###### Art. 4.º Quando o conselho de uma ordem resolver formular uma proposta de agraciamento, a Chancelaria dará imediato conhecimento da mesma ao Ministro a quem esteja reservada a iniciativa da concessão da ordem, ou, se a mesma não estiver reservada, ao Presidente do Conselho.
+Art. 4.º Quando o conselho de uma ordem resolver formular uma proposta de agraciamento, a Chancelaria dará imediato conhecimento da mesma ao Ministro a quem esteja reservada a iniciativa da concessão da ordem, ou, se a mesma não estiver reservada, ao Presidente do Conselho.
 
 § 1.º Se o parecer solicitado for favorável, será a proposta, assinada pelo chanceler da ordem, apresentada ao Presidente da República, para decisão.
 
 § 2.º No caso de discordância, será comunicado o facto ao chanceler, que mandará convocar o conselho, a fim de tomar conhecimento do parecer.
 
-###### Art. 5.º Quando a entidade proponente se não conformar com o parecer acerca da sua proposta, nas hipóteses previstas no artigo 3.º, § 2.º, e no artigo 4.º, § 2.º, poderá requerer ao Chefe do Estado que a proposta seja objecto de decisão, depois de apreciada em conselho de chanceleres.
+Art. 5.º Quando a entidade proponente se não conformar com o parecer acerca da sua proposta, nas hipóteses previstas no artigo 3.º, § 2.º, e no artigo 4.º, § 2.º, poderá requerer ao Chefe do Estado que a proposta seja objecto de decisão, depois de apreciada em conselho de chanceleres.
 
-###### Art. 6.º A concessão de qualquer condecoração a cidadãos estrangeiros ou a cidadãos portugueses residentes no estrangeiro, quando não seja proposta pelo Ministro dos Negócios Estrangeiros, será precedida de informação deste.
+Art. 6.º A concessão de qualquer condecoração a cidadãos estrangeiros ou a cidadãos portugueses residentes no estrangeiro, quando não seja proposta pelo Ministro dos Negócios Estrangeiros, será precedida de informação deste.
 
 § 1.º A informação deverá ser solicitada antes da audiência do conselho da ordem.
 
 § 2.º Não será publicado o alvará de agraciamento de cidadãos estrangeiros sem que haja notícia de ter sido concedida a concordância do governo do país de que é natural o agraciado.
 
-###### Art. 7.º As condições exigidas na regulamentação especial de cada ordem para a concessão de qualquer dos seus graus não se aplicam aos agraciamentos, embora sempre dentro das finalidades delas, de cidadãos estrangeiros.
+Art. 7.º As condições exigidas na regulamentação especial de cada ordem para a concessão de qualquer dos seus graus não se aplicam aos agraciamentos, embora sempre dentro das finalidades delas, de cidadãos estrangeiros.
 
 § único. O Ministro dos Negócios Estrangeiros poderá, para os efeitos da alínea b) do § 3.º do artigo 3.º, subscrever qualquer proposta de agraciamento, sem prejuízo das competências reservadas no artigo 22.º da lei orgânica das ordens. Neste caso a proposta será conjunta do Ministro especialmente competente para propor o agraciamento e do Ministro dos Negócios Estrangeiros.
 
-###### Art. 8.º A concessão dos graus de todas as ordens honoríficas é da exclusiva competência do Presidente da República e revestirá a forma de alvará, publicado no Diário do Governo, 2.ª série, e referendado pelo membro do Governo proponente ou, não havendo proposta governamental, pelo Presidente do Conselho.
+Art. 8.º A concessão dos graus de todas as ordens honoríficas é da exclusiva competência do Presidente da República e revestirá a forma de alvará, publicado no Diário do Governo, 2.ª série, e referendado pelo membro do Governo proponente ou, não havendo proposta governamental, pelo Presidente do Conselho.
 
 § 1.º Quando o regulamento das ordens não dispuser diferentemente, a publicação do alvará será feita por extracto.
 
 § 2.º Os alvarás de concessão de qualquer grau da Ordem Militar da Torre e Espada especificarão fundamentadamente os feitos, actos ou serviços pelos quais tenha sido concedida.
 
-###### Art. 9.º Nos casos em que a investidura não seja solene, a Chancelaria das Ordens, através da entidade proponente, enviará aos agraciados, para assinatura, um texto de compromisso de honra que indicará, em aditamento, os deveres dos membros das ordens consignados na respectiva lei orgânica.
+Art. 9.º Nos casos em que a investidura não seja solene, a Chancelaria das Ordens, através da entidade proponente, enviará aos agraciados, para assinatura, um texto de compromisso de honra que indicará, em aditamento, os deveres dos membros das ordens consignados na respectiva lei orgânica.
 
 § único. Só depois de recebido na Chancelaria o compromisso de honra devidamente assinado será passado o diploma de agraciamento, que valerá como título de investidura.
 
-###### Art. 10.º Logo que seja decidido o agraciamento, a Chancelaria das Ordens avisará o agraciado, através da entidade proponente, de que se encontra a pagamento o imposto de registo, quando a ele houver lugar, não podendo ser publicado o alvará de concessão sem que o imposto haja sido pago.
+Art. 10.º Logo que seja decidido o agraciamento, a Chancelaria das Ordens avisará o agraciado, através da entidade proponente, de que se encontra a pagamento o imposto de registo, quando a ele houver lugar, não podendo ser publicado o alvará de concessão sem que o imposto haja sido pago.
 
 § único. Decorridos dois anos sobre a data do aviso para liquidação do imposto de registo sem que este haja sido satisfeito, só poderá publicar-se o alvará de concessão depois de ouvida a entidade proponente acerca da oportunidade da publicação e entrega do respectivo diploma.
 
-###### Art. 11.º Da concessão da condecoração será passado diploma pela Chancelaria das Ordens, assinado pelo respectivo chanceler e autenticado com o selo branco da Chancelaria. O diploma relativo à concessão dos grandes-colares será sempre assinado pelo Presidente da República e referendado pelo Presidente do Conselho.
+Art. 11.º Da concessão da condecoração será passado diploma pela Chancelaria das Ordens, assinado pelo respectivo chanceler e autenticado com o selo branco da Chancelaria. O diploma relativo à concessão dos grandes-colares será sempre assinado pelo Presidente da República e referendado pelo Presidente do Conselho.
 
-###### Art. 12.º As vagas que ocorrerem nos quadros de cada ordem serão preenchidas pelos respectivos membros supranumerários, por ordem de antiguidade.
+Art. 12.º As vagas que ocorrerem nos quadros de cada ordem serão preenchidas pelos respectivos membros supranumerários, por ordem de antiguidade.
 
 ### CAPÍTULO II — Do registo das condecorações e da autorização para aceitar condecorações estrangeiras
 
-###### Art. 13.º A Chancelaria das Ordens registará todas as condecorações como tais oficialmente reconhecidas pelos respectivos governos e fará os correspondentes averbamentos no verso de cada diploma.
+Art. 13.º A Chancelaria das Ordens registará todas as condecorações como tais oficialmente reconhecidas pelos respectivos governos e fará os correspondentes averbamentos no verso de cada diploma.
 
 § único. Serão organizadas fichas para cada agraciado, donde constem todas as suas condecorações nacionais e estrangeiras devidamente registadas.
 
-###### Art. 14.º O pedido de autorização para aceitar condecorações estrangeiras será dirigido ao Presidente do Conselho, com a indicação do nome, profissão e residência do requerente e os necessários elementos de identificação do agraciamento, e apresentado na Chancelaria das Ordens Portuguesas, com o respectivo diploma.
+Art. 14.º O pedido de autorização para aceitar condecorações estrangeiras será dirigido ao Presidente do Conselho, com a indicação do nome, profissão e residência do requerente e os necessários elementos de identificação do agraciamento, e apresentado na Chancelaria das Ordens Portuguesas, com o respectivo diploma.
 
 § 1.º Deste requerimento será dado conhecimento, para informação, ao Ministério dos Negócios Estrangeiros e ao Ministério de que o requerente dependa, se for funcionário e se o pedido não vier já informado por este Ministério.
 
 § 2.º O pedido, instruído com as informações referidas no § 1.º, será submetido a despacho do Presidente do Conselho ou do Ministro em quem este delegue a sua competência.
 
-###### Art. 15.º Autorizada a aceitação da condecoração estrangeira, será registado o respectivo diploma. A decisão proferida será sempre comunicada ao interessado.
+Art. 15.º Autorizada a aceitação da condecoração estrangeira, será registado o respectivo diploma. A decisão proferida será sempre comunicada ao interessado.
 
 § único. A autorização para aceitar uma condecoração estrangeira será publicada no Diário do Governo, após o pagamento do imposto devido.
 
-###### Art. 16.º Estão isentos do pedido de autorização, sem prejuízo do registo dos respectivos diplomas de agraciamento, o Chefe do Estado e sua mulher, os membros do Governo, os presidentes da Assembleia Nacional, da Câmara Corporativa e do Supremo Tribunal de Justiça, os membros das casas civil e militar do Presidente da República, as entidades que eventualmente façam parte da comitiva do Chefe do Estado em actos internacionais e os membros dos gabinetes ministeriais, quando sejam agraciados nessa qualidade por motivo de praxe diplomática.
+Art. 16.º Estão isentos do pedido de autorização, sem prejuízo do registo dos respectivos diplomas de agraciamento, o Chefe do Estado e sua mulher, os membros do Governo, os presidentes da Assembleia Nacional, da Câmara Corporativa e do Supremo Tribunal de Justiça, os membros das casas civil e militar do Presidente da República, as entidades que eventualmente façam parte da comitiva do Chefe do Estado em actos internacionais e os membros dos gabinetes ministeriais, quando sejam agraciados nessa qualidade por motivo de praxe diplomática.
 
 ### CAPÍTULO III — Do funcionamento dos conselhos
 
-###### Art. 17.º As reuniões dos conselhos das ordens serão convocadas pelos respectivos chanceleres.
+Art. 17.º As reuniões dos conselhos das ordens serão convocadas pelos respectivos chanceleres.
 
-###### Art. 18.º As resoluções dos conselhos serão tomadas por maioria absoluta de votos dos vogais que os constituírem.
+Art. 18.º As resoluções dos conselhos serão tomadas por maioria absoluta de votos dos vogais que os constituírem.
 
 § único. De todas as reuniões dos conselhos será lavrada acta, a qual, depois de lida e aprovada, será subscrita pelo secretário-geral e assinada pelo chanceler ou pelo vogal que houver presidido à reunião de aprovação.
 
-###### Art. 19.º A nomeação dos vice-chanceleres dos conselhos será feita por decreto.
+Art. 19.º A nomeação dos vice-chanceleres dos conselhos será feita por decreto.
 
-###### Art. 20.º Não estando nomeado vice-chanceler, o chanceler de cada ordem, no caso de impedimento ou ausência, será substituído pelo vogal mais antigo no conselho e, em caso de igualdade, na ordem.
+Art. 20.º Não estando nomeado vice-chanceler, o chanceler de cada ordem, no caso de impedimento ou ausência, será substituído pelo vogal mais antigo no conselho e, em caso de igualdade, na ordem.
 
 ### CAPÍTULO IV — Do uso das condecorações
 
-###### Art. 21.º Os condecorados com mais de um grau de qualquer das ordens usarão só a insígnia correspondente a um dos graus, com excepção do disposto no artigo 31.º, para os condecorados com a Torre e Espada ou quando as condecorações hajam sido concedidas com palma.
+Art. 21.º Os condecorados com mais de um grau de qualquer das ordens usarão só a insígnia correspondente a um dos graus, com excepção do disposto no artigo 31.º, para os condecorados com a Torre e Espada ou quando as condecorações hajam sido concedidas com palma.
 
-###### Art. 22.º Não é permitido o uso simultâneo de duas ou mais bandas.
+Art. 22.º Não é permitido o uso simultâneo de duas ou mais bandas.
 
 § único. Também só poderá ser usada uma insígnia pendente do pescoço, qualquer que seja o grau a que corresponda.
 
-###### Art. 23.º As insígnias das ordens portuguesas são colocadas da direita para a esquerda no lado esquerdo do peito, pela ordem seguinte de precedência: Torre e Espada, Avis, Cristo, Sant'Iago da Espada, Império, Infante D. Henrique, Benemerência, Instrução Pública e Mérito Agrícola e Industrial.
+Art. 23.º As insígnias das ordens portuguesas são colocadas da direita para a esquerda no lado esquerdo do peito, pela ordem seguinte de precedência: Torre e Espada, Avis, Cristo, Sant'Iago da Espada, Império, Infante D. Henrique, Benemerência, Instrução Pública e Mérito Agrícola e Industrial.
 
 § único. Quando os distintivos das condecorações não se contenham numa só linha, a ordem de preferência começará pela linha superior.
 
-###### Art. 24.º Com traje civil que não seja de gala, poderão usar: os cavaleiros, uma fita com as cores da ordem; os oficiais, uma roseta de 8 mm de diâmetro, com as mesmas cores; os comendadores, grandes-oficiais e grã-cruzes, uma roseta igual com galão de prata para os comendadores, de ouro e prata para os grandes-oficiais e de ouro para os grã-cruzes.
+Art. 24.º Com traje civil que não seja de gala, poderão usar: os cavaleiros, uma fita com as cores da ordem; os oficiais, uma roseta de 8 mm de diâmetro, com as mesmas cores; os comendadores, grandes-oficiais e grã-cruzes, uma roseta igual com galão de prata para os comendadores, de ouro e prata para os grandes-oficiais e de ouro para os grã-cruzes.
 
-###### Art. 25.º Nos uniformes em que é permitido o uso de fitas serão elas aplicadas, sem fivelas, numa ou mais placas metálicas, colocadas horizontalmente, sem intervalo.
+Art. 25.º Nos uniformes em que é permitido o uso de fitas serão elas aplicadas, sem fivelas, numa ou mais placas metálicas, colocadas horizontalmente, sem intervalo.
 
-###### Art. 26.º Não é permitido o uso de distintivos ou insígnias, nacionais ou estrangeiras, que não sejam de condecorações como tais oficialmente reconhecidas pelos respectivos governos.
+Art. 26.º Não é permitido o uso de distintivos ou insígnias, nacionais ou estrangeiras, que não sejam de condecorações como tais oficialmente reconhecidas pelos respectivos governos.
 
-###### Art. 27.º As insígnias das ordens são as descritas no presente regulamento e conforme modelos anexos.
+Art. 27.º As insígnias das ordens são as descritas no presente regulamento e conforme modelos anexos.
 
-# PARTE II — Das ordens em especial
+## PARTE II — Das ordens em especial
 
 ### CAPÍTULO I — Banda das Três Ordens
 
-###### Art. 28.º As insígnias da Banda das Três Ordens são constituídas por uma banda com as cores das Ordens de Avis, Cristo e Sant'Iago da Espada, respectivamente verde, vermelho e violeta, tendo pendente sobre o laço e encadeado por uma coroa de louros, com 33 mm x 25 mm, um medalhão com 50 mm x 65 mm, que contém as cruzes de cada uma das ordens, em três ovais de esmalte branco, e uma placa em raios abrilhantados, tendo ao centro, num círculo donde partem raios prateados, as mesmas cruzes, também em três ovais de esmalte branco. Diâmetro da placa, 85 mm.
+Art. 28.º As insígnias da Banda das Três Ordens são constituídas por uma banda com as cores das Ordens de Avis, Cristo e Sant'Iago da Espada, respectivamente verde, vermelho e violeta, tendo pendente sobre o laço e encadeado por uma coroa de louros, com 33 mm x 25 mm, um medalhão com 50 mm x 65 mm, que contém as cruzes de cada uma das ordens, em três ovais de esmalte branco, e uma placa em raios abrilhantados, tendo ao centro, num círculo donde partem raios prateados, as mesmas cruzes, também em três ovais de esmalte branco. Diâmetro da placa, 85 mm.
 
-###### Art. 29.º Haverá na Chancelaria das Ordens as insígnias da Banda das Três Ordens, para serem usadas pelo Presidente da República.
+Art. 29.º Haverá na Chancelaria das Ordens as insígnias da Banda das Três Ordens, para serem usadas pelo Presidente da República.
 
 § único. Com a Banda das Três Ordens não deverão ser usadas quaisquer outras insígnias.
 
 ### CAPÍTULO II — Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito
 
-###### Art. 30.º O distintivo da Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito é uma estrela de cinco pontas de esmalte branco perfilada de ouro, circundada de uma coroa de carvalho de esmalte verde perfilada de ouro; ao centro da estrela, no anverso, uma espada com uma coroa de carvalho em campo de ouro, circundada da legenda de ouro sobre campo azul «Valor, Lealdade e Mérito»; no reverso o escudo nacional em campo azul, circundado da legenda de ouro «República Portuguesa», e fita azul-ferrete.
+Art. 30.º O distintivo da Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito é uma estrela de cinco pontas de esmalte branco perfilada de ouro, circundada de uma coroa de carvalho de esmalte verde perfilada de ouro; ao centro da estrela, no anverso, uma espada com uma coroa de carvalho em campo de ouro, circundada da legenda de ouro sobre campo azul «Valor, Lealdade e Mérito»; no reverso o escudo nacional em campo azul, circundado da legenda de ouro «República Portuguesa», e fita azul-ferrete.
 
 § 1.º As insígnias desta Ordem são:
 
@@ -234,13 +261,13 @@ Grã-cruz: banda de seda da cor da Ordem, posta a tiracolo da direita para a esq
 
 § 3.º Além das insígnias descritas para os diversos graus, os agraciados usarão, nas grandes solenidades, um colar, formado por espadas, de 25 mm, e castelos, com 23 mm de altura por 20 mm de base, alternadamente, tendo pendente a insígnia da Ordem, com 70 mm de diâmetro, que será, como o colar, de prata esmaltada para cavaleiro e de ouro esmaltado para os demais graus.
 
-###### Art. 31.º Os condecorados com a Torre e Espada usarão tantas insígnias quantos os graus que lhes tiverem sido concedidos.
+Art. 31.º Os condecorados com a Torre e Espada usarão tantas insígnias quantos os graus que lhes tiverem sido concedidos.
 
-###### Art. 32.º Aos oficiais e praças condecorados com a Torre e Espada é permitido o uso das insígnias respectivas em passeio, com qualquer uniforme.
+Art. 32.º Aos oficiais e praças condecorados com a Torre e Espada é permitido o uso das insígnias respectivas em passeio, com qualquer uniforme.
 
-###### Art. 33.º As unidades militares às quais houver sido conferida a Ordem Militar da Torre e Espada usarão sobre o laço da bandeira ou estandarte outro laço de fita de seda da cor da Ordem, de 0,1 m de largura, franjada de ouro, tendo bordada numa das pontas a respectiva insígnia.
+Art. 33.º As unidades militares às quais houver sido conferida a Ordem Militar da Torre e Espada usarão sobre o laço da bandeira ou estandarte outro laço de fita de seda da cor da Ordem, de 0,1 m de largura, franjada de ouro, tendo bordada numa das pontas a respectiva insígnia.
 
-###### Art. 34.º A concessão da Torre e Espada a unidades militares, por feitos ou serviços relevantes em combate, importa, para os militares que formaram parte na prática daquele feito ou serviço, integrados nos efectivos da unidade, formação ou fracção, o direito ao uso de um distintivo especial.
+Art. 34.º A concessão da Torre e Espada a unidades militares, por feitos ou serviços relevantes em combate, importa, para os militares que formaram parte na prática daquele feito ou serviço, integrados nos efectivos da unidade, formação ou fracção, o direito ao uso de um distintivo especial.
 
 Este distintivo, usado com todos os uniformes, será constituído por dois cordões encadeados, de 40 mm de diâmetro, com as cores da fita da condecoração, tendo, respectivamente, 0,40 m e 0,60 m de comprimento, suspensos da platina direita, passando o mais comprido por baixo do braço e indo ambos prender no primeiro botão da abotoadura do dólman. Os cordões serão terminados por duas agulhetas de 60 mm de comprimento.
 
@@ -248,7 +275,7 @@ Os cordões e agulhetas serão respectivamente de seda e prata dourada para os o
 
 § único. Aos militares nas condições deste artigo será feito o respectivo averbamento nos seus registos de matrícula, sem o que não poderão usar o respectivo distintivo.
 
-###### Art. 35.º Aos vários graus da Ordem pertencem as seguintes graduações, com as respectivas honras militares, se os condecorados não tiverem outras superiores:
+Art. 35.º Aos vários graus da Ordem pertencem as seguintes graduações, com as respectivas honras militares, se os condecorados não tiverem outras superiores:
 
 Cavaleiro - alferes.
 
@@ -262,9 +289,9 @@ Grã-cruz e grande-colar - general.
 
 ### CAPÍTULO III — Ordem Militar de Avis
 
-###### Art. 36.º A nenhum oficial poderá ser concedida a Ordem Militar de Avis sem ter prestado, pelo menos, cinco anos de serviço, a contar da data do diploma da sua promoção ou graduação no posto de alferes ou guarda-marinha.
+Art. 36.º A nenhum oficial poderá ser concedida a Ordem Militar de Avis sem ter prestado, pelo menos, cinco anos de serviço, a contar da data do diploma da sua promoção ou graduação no posto de alferes ou guarda-marinha.
 
-###### Art. 37.º São condições necessárias, no seu conjunto, para a atribuição de qualquer grau desta Ordem:
+Art. 37.º São condições necessárias, no seu conjunto, para a atribuição de qualquer grau desta Ordem:
 
 a) Possuir exemplar comportamento;
 
@@ -294,9 +321,9 @@ General ou almirante - grã-cruz.
 
 § 4.º O oficial que deixar de satisfazer às condições a) e b) do corpo deste artigo será eliminado dos quadros da Ordem.
 
-###### Art. 38.º A concessão da Ordem Militar de Avis deverá ser feita a começar pelo grau de cavaleiro e, seguidamente, de grau em grau, sem ultrapassar a correspondência definida no § 1.º do artigo anterior.
+Art. 38.º A concessão da Ordem Militar de Avis deverá ser feita a começar pelo grau de cavaleiro e, seguidamente, de grau em grau, sem ultrapassar a correspondência definida no § 1.º do artigo anterior.
 
-###### Art. 39.º O distintivo da Ordem Militar de Avis é uma cruz de esmalte verde, perfilada de ouro, com as pontas em flor-de-lis e fita verde.
+Art. 39.º O distintivo da Ordem Militar de Avis é uma cruz de esmalte verde, perfilada de ouro, com as pontas em flor-de-lis e fita verde.
 
 § único. As insígnias dos diversos graus desta Ordem são:
 
@@ -310,11 +337,11 @@ Para grande-oficial: insígnias iguais às de comendador, com placa dourada.
 
 Para grã-cruz: banda de seda da cor da Ordem, posta a tiracolo da direita para a esquerda, tendo pendente a cruz com as dimensões indicadas para comendador e placa igual à de grande-oficial.
 
-###### Art. 40.º Nos actos solenes os cavaleiros e oficiais da Ordem Militar de Avis poderão usar pendente do pescoço, por uma fita da cor da Ordem, a respectiva cruz com as dimensões indicadas para comendador.
+Art. 40.º Nos actos solenes os cavaleiros e oficiais da Ordem Militar de Avis poderão usar pendente do pescoço, por uma fita da cor da Ordem, a respectiva cruz com as dimensões indicadas para comendador.
 
 ### CAPÍTULO IV — Ordem Militar de Cristo
 
-###### Art. 41.º O distintivo da Ordem Militar de Cristo é uma cruz de esmalte vermelho perfilada de ouro, perfilada ao meio com outra de esmalte branco, e fita vermelha.
+Art. 41.º O distintivo da Ordem Militar de Cristo é uma cruz de esmalte vermelho perfilada de ouro, perfilada ao meio com outra de esmalte branco, e fita vermelha.
 
 § único. As insígnias dos diversos graus desta Ordem são:
 
@@ -328,11 +355,11 @@ Para grande-oficial: insígnias iguais às de comendador, com placa dourada.
 
 Para grã-cruz: banda de seda da cor da Ordem, posta a tiracolo da direita para a esquerda, tendo pendente a cruz com as dimensões indicadas para comendador e placa igual à de grande-oficial.
 
-###### Art. 42.º Nos actos solenes os cavaleiros e oficiais da Ordem Militar de Cristo poderão usar pendente do pescoço, por uma fita da cor da Ordem, a respectiva cruz com as dimensões indicadas para comendador.
+Art. 42.º Nos actos solenes os cavaleiros e oficiais da Ordem Militar de Cristo poderão usar pendente do pescoço, por uma fita da cor da Ordem, a respectiva cruz com as dimensões indicadas para comendador.
 
 ### CAPÍTULO V — Ordem Militar de Sant'Iago da Espada
 
-###### Art. 43.º O distintivo da Ordem Militar de Sant'Iago da Espada é uma cruz em forma de espada, de esmalte vermelho, perfilada de ouro, ordenada de duas palmas entrelaçadas, de esmalte verde, com a legenda de ouro sobre esmalte branco «Ciência, Letras e Artes», e fita violeta.
+Art. 43.º O distintivo da Ordem Militar de Sant'Iago da Espada é uma cruz em forma de espada, de esmalte vermelho, perfilada de ouro, ordenada de duas palmas entrelaçadas, de esmalte verde, com a legenda de ouro sobre esmalte branco «Ciência, Letras e Artes», e fita violeta.
 
 § 1.º As insígnias desta Ordem são:
 
@@ -354,7 +381,7 @@ Grã-cruz: banda de seda da cor da Ordem, posta a tiracolo da direita para a esq
 
 ### CAPÍTULO VI — Ordem do Império
 
-###### Art. 44.º O distintivo da Ordem do Império é uma cruz de Cristo, de braços iguais, perfilada a ouro, tendo sobreposta a esfera armilar e o escudo nacional, e fita vermelha, orlada de preto e com uma lista preta ao centro, em faixas iguais.
+Art. 44.º O distintivo da Ordem do Império é uma cruz de Cristo, de braços iguais, perfilada a ouro, tendo sobreposta a esfera armilar e o escudo nacional, e fita vermelha, orlada de preto e com uma lista preta ao centro, em faixas iguais.
 
 § único. As insígnias dos diversos graus desta Ordem são:
 
@@ -368,11 +395,11 @@ Para grande-oficial: as mesmas insígnias de comendador, sendo a placa dourada.
 
 Para grã-cruz: banda de seda das cores da Ordem, nas mesmas proporções, posta a tiracolo da direita para a esquerda, tendo pendente a insígnia com as dimensões indicadas para comendador, e placa igual à de grande-oficial.
 
-###### Art. 45.º Aos dignitários da Ordem será dado, no ultramar, em todas as cerimónias públicas e actos solenes oficiais, lugar de relevo junto das principais autoridades. Aos grã-cruzes, grandes-oficiais e comendadores serão, quando fazendo uso das insígnias da Ordem no ultramar, prestadas as honras militares que compitam respectivamente aos oficiais generais, oficiais superiores e capitães, se os condecorados não tiverem outras superiores.
+Art. 45.º Aos dignitários da Ordem será dado, no ultramar, em todas as cerimónias públicas e actos solenes oficiais, lugar de relevo junto das principais autoridades. Aos grã-cruzes, grandes-oficiais e comendadores serão, quando fazendo uso das insígnias da Ordem no ultramar, prestadas as honras militares que compitam respectivamente aos oficiais generais, oficiais superiores e capitães, se os condecorados não tiverem outras superiores.
 
 ### CAPÍTULO VII — Ordem do Infante D. Henrique
 
-###### Art. 46.º O distintivo da Ordem do Infante D. Henrique é a cruz pátea, de esmalte vermelho, filetada de ouro, e a fita com as cores azul, branca e negra, dispostas em pala.
+Art. 46.º O distintivo da Ordem do Infante D. Henrique é a cruz pátea, de esmalte vermelho, filetada de ouro, e a fita com as cores azul, branca e negra, dispostas em pala.
 
 § único. As insígnias desta Ordem são:
 
@@ -394,7 +421,7 @@ Grã-cruz: banda de seda das cores da Ordem posta a tiracolo da direita para a e
 
 ### CAPÍTULO VIII — Ordem da Benemerência
 
-###### Art. 47.º O distintivo da Ordem da Benemerência é uma cruz de braços iguais, de prata, esmaltada a azul, tendo ao centro um círculo branco perfilado a ouro, com a legenda «Benemerência», e no qual se contém uma estrela de cinco pontas, de ouro; no reverso o escudo nacional e legenda «República Portuguesa», e fita tripartida em faixas iguais, com a do centro em amarelo e as dos lados em preto.
+Art. 47.º O distintivo da Ordem da Benemerência é uma cruz de braços iguais, de prata, esmaltada a azul, tendo ao centro um círculo branco perfilado a ouro, com a legenda «Benemerência», e no qual se contém uma estrela de cinco pontas, de ouro; no reverso o escudo nacional e legenda «República Portuguesa», e fita tripartida em faixas iguais, com a do centro em amarelo e as dos lados em preto.
 
 § único. As insígnias desta Ordem são:
 
@@ -412,7 +439,7 @@ Grã-cruz: banda de seda das cores da Ordem, posta a tiracolo da direita para a 
 
 ### CAPÍTULO IX — Ordem da Instrução Pública
 
-###### Art. 48.º O distintivo da Ordem da Instrução Pública é constituído por duas palmas entrelaçadas e fita amarela.
+Art. 48.º O distintivo da Ordem da Instrução Pública é constituído por duas palmas entrelaçadas e fita amarela.
 
 § único. As insígnias desta Ordem são:
 
@@ -430,7 +457,7 @@ Grã-cruz: banda de seda da cor da Ordem, posta a tiracolo da direita para a esq
 
 ### CAPÍTULO X — Ordem do Mérito Agrícola e Industrial
 
-###### Art. 49.º O distintivo da Ordem do Mérito Agrícola e Industrial é constituído por uma estrela de nove pontas, arraiada de prata, esmaltadas de verde ou vermelho, segundo for do mérito agrícola ou do industrial, e no centro, em campo de prata, o escudo nacional, e em circunferência, sobre faixa esmaltada de branco, a legenda «Mérito Agrícola» ou «Mérito Industrial», segundo a classe, e fita chamalote branca no meio e com as cores da classe dos lados, de largura igual a dois terços da parte branca.
+Art. 49.º O distintivo da Ordem do Mérito Agrícola e Industrial é constituído por uma estrela de nove pontas, arraiada de prata, esmaltadas de verde ou vermelho, segundo for do mérito agrícola ou do industrial, e no centro, em campo de prata, o escudo nacional, e em circunferência, sobre faixa esmaltada de branco, a legenda «Mérito Agrícola» ou «Mérito Industrial», segundo a classe, e fita chamalote branca no meio e com as cores da classe dos lados, de largura igual a dois terços da parte branca.
 
 § único. As insígnias desta Ordem são:
 
@@ -448,14 +475,14 @@ Grã-cruz: banda de seda das cores da Ordem, posta a tiracolo da direita para a 
 
 ### CAPÍTULO XI — Disposições transitórias
 
-###### Art. 50.º As entidades já agraciadas com o grau de cavaleiro de uma ordem de mérito civil manterão a designação do seu grau na ordem.
+Art. 50.º As entidades já agraciadas com o grau de cavaleiro de uma ordem de mérito civil manterão a designação do seu grau na ordem.
 
-###### Art. 51.º O preenchimento dos quadros das ordens cujos graus até à entrada em vigor do [Decreto-Lei n.º 44721](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44721-1962-155469), de 24 de Novembro de 1962, não tinham número limitado será feito pelos agraciamentos a conceder depois de 1 de Janeiro de 1963. Os membros das referidas ordens, cuja concessão haja sido feita até esta data, conservam-se dignitários das mesmas sem ingressarem em qualquer das categorias previstas no artigo 32.º da lei orgânica das ordens.
+Art. 51.º O preenchimento dos quadros das ordens cujos graus até à entrada em vigor do [Decreto-Lei n.º 44721](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44721-1962-155469), de 24 de Novembro de 1962, não tinham número limitado será feito pelos agraciamentos a conceder depois de 1 de Janeiro de 1963. Os membros das referidas ordens, cuja concessão haja sido feita até esta data, conservam-se dignitários das mesmas sem ingressarem em qualquer das categorias previstas no artigo 32.º da lei orgânica das ordens.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Dezembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/12/30600/22012213.pdf))](https://files.diariodarepublica.pt/1s/1963/12/30600/22012213.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/12/30600/22012213.pdf)
 
 Presidência do Conselho, 31 de Dezembro de 1963. - O Presidente do Conselho, António de Oliveira Salazar.

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44769-1962-155645
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-12-05T00:00:00Z'
+  retrieved_at: '2026-10-22T19:32:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0732aeab674caaabf1b07f848ea859f2f36e446abb150e7fdd66735ec823179d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc5a0cc338c07c81b03df0c11243a025b4b7227de79281f53e4d379c723bbdc7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:32:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:438245:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:32:45Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +98,11 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o Governo-Geral de Moçambique a celebrar o contrato de concessão com a Companhia do Pipeline Moçambique-Rodésia, S. A. R. L., para construção e exploração de um oleoduto desde a costa de Moçambique, na Beira, até à fronteira com a Federação da Rodésia e Niassalândia, nas proximidades de Machipanda.
+Artigo 1.º É autorizado o Governo-Geral de Moçambique a celebrar o contrato de concessão com a Companhia do Pipeline Moçambique-Rodésia, S. A. R. L., para construção e exploração de um oleoduto desde a costa de Moçambique, na Beira, até à fronteira com a Federação da Rodésia e Niassalândia, nas proximidades de Machipanda.
 
-###### Art. 2.º O contrato será celebrado nos termos aprovados pelo presente diploma, com os respectivos anexos, e cujo texto final foi acordado nas conversações havidas entre os representantes dos Governos da República Portuguesa e da Federação da Rodésia e Niassalândia.
+Art. 2.º O contrato será celebrado nos termos aprovados pelo presente diploma, com os respectivos anexos, e cujo texto final foi acordado nas conversações havidas entre os representantes dos Governos da República Portuguesa e da Federação da Rodésia e Niassalândia.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Dezembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 
@@ -114,9 +118,7 @@ A província de Moçambique, daqui em diante designada por «Província», de um
 
 Acordam no seguinte:
 
-ARTIGO I
-
-Outorga da concessão
+###### ARTIGO I — Outorga da concessão
 
 1. Oleoduto:
 
@@ -130,15 +132,11 @@ A Companhia terá acessòriamente o direito de efectuar reconhecimentos, project
 
 O conjunto do oleoduto e instalações subsidiárias será daqui em diante designado por «o empreendimento».
 
-ARTIGO II
-
-Propriedade do empreendimento e direito de nomear agentes e contratar empreiteiros
+###### ARTIGO II — Propriedade do empreendimento e direito de nomear agentes e contratar empreiteiros
 
 O empreendimento será propriedade da Companhia, mas esta poderá, em qualquer momento, contratar e empregar agentes e ou empreiteiros para a sua construção e conservação, total ou parcial, e, mediante prévia aprovação da Província, para o fazer operar por conta da Companhia.
 
-ARTIGO III
-
-Prazo de concessão
+###### ARTIGO III — Prazo de concessão
 
 1. Este contrato começará a vigorar imediatamente e a concessão da exploração do oleoduto durará por um período de vinte e cinco (25) anos contados a partir do dia em que o oleoduto estiver apto a fazer correr o óleo, salvo o caso de experiência, cuja duração, para os efeitos deste artigo, não poderá exceder quarenta e dois dias.
 
@@ -146,9 +144,7 @@ Prazo de concessão
 
 3. Findo o segundo período da concessão, a pedido, por escrito, da Companhia, formulado no prazo indicado no número anterior, a Província poderá prorrogar a concessão por um período da mesma duração, em condições a acordar entre as partes.
 
-ARTIGO IV
-
-Transferência do empreendimento ao terminar a concessão
+###### ARTIGO IV — Transferência do empreendimento ao terminar a concessão
 
 Todo o empreendimento será transferido para a Província gratuitamente e tornar-se-á, daí em diante, sua exclusiva propriedade:
 
@@ -158,21 +154,15 @@ b) Em qualquer caso, ao expirar o terceiro período de vinte e cinco (25) anos r
 
 Pela transferência, nos termos deste artigo, do empreendimento para a Província, esta não assumirá quaisquer obrigações da Companhia, existentes à data da transferência, e que resultem, directa ou indirectamente, da construção, exploração e manutenção do oleoduto.
 
-ARTIGO V
-
-Entrada em terrenos para fins de reconhecimento
+###### ARTIGO V — Entrada em terrenos para fins de reconhecimento
 
 A Companhia e os seus servidores ou agentes terão o direito, a partir da data deste contrato, de acesso a quaisquer terrenos que estejam exclusivamente no domínio público do Estado ou da província de Moçambique, para o fim de realizar os reconhecimentos necessários ao empreendimento.
 
-ARTIGO VI
-
-Projecto e capacidade do empreendimento
+###### ARTIGO VI — Projecto e capacidade do empreendimento
 
 Antes de começar a construção do oleoduto, a Companhia terá de obter a aprovação da Província para o projecto, planos e especificações e outros pormenores do empreendimento.
 
-ARTIGO VII
-
-Arrendamento de terrenos públicos
+###### ARTIGO VII — Arrendamento de terrenos públicos
 
 1. A requerimento da Companhia, a Província arrendar-lhe-á pelo período ou períodos que ela desejar, não excedendo o prazo desta concessão ou suas prorrogações, os terrenos públicos de que razoàvelmente necessitar para a construção, exploração e manutenção do empreendimento.
 
@@ -182,33 +172,25 @@ Arrendamento de terrenos públicos
 
 4. Durante o prazo que durar o arrendamento, a Companhia, seus agentes e empreiteiros terão o direito de acesso aos terrenos arrendados, por quaisquer meios razoáveis ou caminhos, para o fim da construção, reconstrução, exploração e manutenção do empreendimento, não ficando, por isso, sujeitos a qualquer encargo.
 
-ARTIGO VIII
-
-Aquisição de terrenos particulares
+###### ARTIGO VIII — Aquisição de terrenos particulares
 
 1. A Companhia negociará com os proprietários de terrenos particulares a aquisição de direitos sobre esses terrenos, que julgue necessários ao empreendimento, incluindo servidões.
 
 2. No caso de insucesso nas negociações, e se esse insucesso puder provocar atraso na conclusão do empreendimento ou ocasionar um aumento excessivo do seu custo, a Província, a quem o assunto deverá ser submetido, desde que considere razoável o pedido da Companhia, usará os meios legais adequados para remover a dificuldade, cedendo depois à Companhia os direitos que houver adquirido sobre os terrenos que forem necessários para o empreendimento.
 
-ARTIGO IX
-
-Uso de materiais
+###### ARTIGO IX — Uso de materiais
 
 1. A Companhia, seus agentes e empreiteiros terão o direito de extrair, retirar, cortar e usar qualquer terra, pedra, barro, balastro, cal, gesso, madeira e outros materiais similares que existam em terrenos que tenham sido adquiridos ou arrendados, para seu uso e benefício exclusivos, na construção e conservação do empreendimento, sujeitando-se às restrições e regulamentos em vigor em Moçambique.
 
 2. Se desejar extrair, retirar ou cortar quaisquer dos referidos materiais de terrenos públicos, a Companhia, em cada caso, requererá às competentes repartições da Província a necessária autorização, indicando o local donde o material será extraído, retirado ou cortado, nas mesmas condições do n.º 1 deste artigo.
 
-ARTIGO X
-
-Uso de água e electricidade
+###### ARTIGO X — Uso de água e electricidade
 
 1. A Companhia, seus agentes e empreiteiros terão o direito, isento de pagamento, de extrair água, para o fim da construção, exploração e manutenção do empreendimento, de todos os rios, regatos e lagos públicos e, independentemente de qualquer autorização, produzir e distribuir electricidade para uso próprio, inclusivamente para uso do pessoal nos seus edifícios, em toda a extensão do empreendimento, excepto nos lugares onde existam actualmente concessões públicas para fornecimento de água e energia eléctrica.
 
 2. Sempre que a Companhia, seus agentes e empreiteiros tenham de obter o fornecimento de água e ou electricidade de qualquer entidade, quer pública, quer privada, terão o direito de o fazer segundo as tarifas comerciais em vigor, ou segundo o que vier a ser estabelecido por acordo com a referida entidade.
 
-ARTIGO XI
-
-Uso dos serviços de transportes
+###### ARTIGO XI — Uso dos serviços de transportes
 
 1. A Companhia, seus agentes e empreiteiros terão, durante o período da concessão e das suas prorrogações, o direito de usar livremente, e nas mesmas condições do público em geral, os transportes públicos existentes em Moçambique, incluindo neles as carreiras de navios e os transportes por estrada, caminhos de ferro e avião.
 
@@ -216,33 +198,25 @@ Uso dos serviços de transportes
 
 3. A Companhia compromete-se a utilizar o Caminho de Ferro da Beira para o transporte dos materiais importados para o ponto na linha mais próximo das obras, sempre que essa utilização seja praticável.
 
-ARTIGO XII
-
-Construção e uso das estradas
+###### ARTIGO XII — Construção e uso das estradas
 
 1. No caso de a Companhia, seus agentes e empreiteiros o julgarem necessário ou desejável para a conclusão do empreendimento, ou para a sua exploração, manutenção ou reconstrução, poderão construir estradas e pontes, instalar batelões e lanchas de transporte e completar todos os trabalhos subsidiários, mediante prévia autorização das competentes repartições da Província sobre o traçado que essas estradas deverão seguir e a natureza e situação de quaisquer trabalhos subsidiários, incluindo pontes, batelões e lanchas de transporte.
 
 2. A Província não contribuirá para o custo da construção de tais estradas e obras, mas se esses meios forem abertos ao público em geral a pedido da Província, imediatamente passará esta a responsabilizar-se pelo custo da manutenção subsequente.
 
-ARTIGO XIII
-
-Uso e estabelecimento de sistemas de comunicações
+###### ARTIGO XIII — Uso e estabelecimento de sistemas de comunicações
 
 1. A Companhia, seus agentes e empreiteiros terão o direito de instalar e fazer operar, em toda a extensão do empreendimento, e a expensas suas, sistemas particulares de telégrafo, telefone ou rádio que considerem necessários ou desejáveis para os fins exclusivos da construção do empreendimento ou da sua eficiente exploração e manutenção.
 
 2. A Província, porém, reserva-se o direito de impor para a instalação e uso de tal equipamento as condições que julgar necessárias ou aconselháveis no interesse das comunicações e da segurança internas.
 
-ARTIGO XIV
-
-Emprego de cidadãos estrangeiros
+###### ARTIGO XIV — Emprego de cidadãos estrangeiros
 
 1. A Companhia, seus agentes e empreiteiros empregarão tantos cidadãos portugueses quantos seja possível durante o período da concessão e suas prorrogações.
 
 2. A Província permitirá à Companhia, seus agentes e empreiteiros que empreguem até cinquenta (50) cidadãos estrangeiros, em qualquer momento, durante o decurso dos trabalhos de construção, mesmo que seja excedida a proporção estabelecida na legislação da Província de técnicos estrangeiros em relação aos portugueses.
 
-ARTIGO XV
-
-Começo da construção e sua conclusão
+###### ARTIGO XV — Começo da construção e sua conclusão
 
 1. A Companhia compromete-se a começar o estudo do traçado (trabalhos de campo) dentro do prazo de três (3) meses a partir da data da entrada em vigor deste contrato e a concluir as várias fases do projecto e construção, de acordo com o fixado no Primeiro Anexo a este contrato.
 
@@ -264,9 +238,7 @@ Se alguma das partes deixar de nomear o seu perito no prazo referido, a outra pa
 
 As decisões dos peritos são definitivas e obrigatórias para a Companhia e para o proposto concessionário.
 
-ARTIGO XVI
-
-Liquidação da Companhia
+###### ARTIGO XVI — Liquidação da Companhia
 
 No caso de:
 
@@ -284,9 +256,7 @@ Tal rendimento será aplicado, primeiro, ao pagamento das despesas razoáveis da
 
 A Província, os Caminhos de Ferro de Moçambique, ou o serviço público acima referido deverão (salvo se a Província houver resolvido rescindir este contrato em virtude das disposições do n.º 2, alínea b) do artigo XXXIV deste contrato) restituir a posse do empreendimento à Companhia ou ao seu liquidatário, conforme o caso, logo que qualquer destas entidades seja reconhecida pela Província como apta a continuar a exploração regular do oleoduto, para o que ouvirá a Companhia.
 
-ARTIGO XVII
-
-Inspecção do empreendimento
+###### ARTIGO XVII — Inspecção do empreendimento
 
 1. A Província e os seus agentes terão sempre o direito de entrar em qualquer propriedade ocupada pela Companhia, a fim de verificar se estão a ser devidamente cumpridas as condições deste contrato.
 
@@ -294,9 +264,7 @@ Inspecção do empreendimento
 
 3. Nenhum direito de inspecção poderá ser exercido em momento ou por meio que represente interferência injustificada nas operações da Companhia, e possa prejudicar as mesmas.
 
-ARTIGO XVIII
-
-Exploração contínua do empreendimento
+###### ARTIGO XVIII — Exploração contínua do empreendimento
 
 1. A Companhia assegurará a eficiente exploração do oleoduto. Para tanto a Companhia compromete-se:
 
@@ -308,9 +276,7 @@ b) A estabelecer e manter instalações adequadas de bombagem e de produção de
 
 3. Tais depósitos serão considerados acessórios da instalação principal e consequentemente a sua construção e manutenção ficarão sujeitas ao regime tributário estabelecido no artigo XXX deste contrato.
 
-ARTIGO XIX
-
-Transporte de produtos refinados
+###### ARTIGO XIX — Transporte de produtos refinados
 
 1. A Companhia compromete-se a transportar através do oleoduto, a pedido por escrito da Província, produtos refinados de petróleo, e, neste caso, tomará todas as precauções razoáveis para reduzir ao mínimo a contaminação de tais produtos ou de ramas de petróleo (crude oil).
 
@@ -320,25 +286,19 @@ Transporte de produtos refinados
 
 4. Logo que a Companhia começar a transportar produtos refinados pelo oleoduto, deverá negociar com a Província uma tarifa por 2000 libras, para o transporte de produtos refinados, ou algum ou alguns deles, e quando tal tarifa estiver determinada, por acordo ou por arbitragem (no caso de o acordo não ter sido possível), a soma paga ou a pagar à Companhia, nos termos da tarifa provisória, será ajustada em conformidade com o que houver sido fixado e o ajustamento terá efeito retroactivo.
 
-ARTIGO XX
-
-Condições de transporte
+###### ARTIGO XX — Condições de transporte
 
 As condições em que a Companhia transportará as ramas de petróleo (crude oil) e os produtos refinados, excepto as condições relativas às tarifas de transporte,
 
 fixadas pelos artigos XIX e XXI, serão aprovadas pela Província e as condições gerais a que deve obedecer o transporte publicadas para conhecimento do público.
 
-ARTIGO XXI
-
-Tarifa a cobrar pelo transporte de ramas de petróleo («crude oil») para a refinaria
+###### ARTIGO XXI — Tarifa a cobrar pelo transporte de ramas de petróleo («crude oil») para a refinaria
 
 1. A Companhia assegurará e procurará que seja aplicada uma tarifa directa no transporte de ramas de petróleo (crude oil) para a refinaria em Feruka através do oleoduto da Beira até à dita refinaria, de modo que a importância da referida tarifa directa em todas as ocasiões seja suficiente para habilitar a Companhia a fazer face e pagar a compensação por ela devida aos Caminhos de Ferro de Moçambique, nos termos do artigo XXII deste contrato. Essa tarifa directa será publicada pela Companhia da maneira como a Província o deseje, e durante o primeiro ano, a partir da data em que o oleoduto se encontre pronto a debitar óleo, sem ser o destinado a experiências, essa tarifa directa não excederá 785 dinheiros na moeda da Federação, por 2000 libras de ramas de petróleo (crude oil) transportado para a refinaria.
 
 2. A Província, em consulta com a Companhia, determinará a importância da tarifa directa que será aplicável no percurso do oleoduto em Moçambique.
 
-ARTIGO XXII
-
-Compensação pagável aos Caminhos de Ferro de Moçambique e suas variações
+###### ARTIGO XXII — Compensação pagável aos Caminhos de Ferro de Moçambique e suas variações
 
 1. Em virtude desta concessão, e enquanto ela durar, a Companhia pagará aos Caminhos de Ferro de Moçambique uma compensação calculada e fixada de acordo com o disposto no Segundo Anexo a este contrato.
 
@@ -346,15 +306,11 @@ Compensação pagável aos Caminhos de Ferro de Moçambique e suas variações
 
 3. Durante o período inicial de vinte e cinco (25) anos, referido no n.º 1 do Artigo III, a Companhia terá o exclusivo do transporte por oleoduto de ramas de petróleo (crude oil) através do território de Moçambique para a refinaria de Feruka.
 
-ARTIGO XXIII
-
-Instalação de contadores
+###### ARTIGO XXIII — Instalação de contadores
 
 A Companhia compromete-se a instalar um contador de movimento positivo na estação de bombagem na terminal da Beira e outro na fronteira entre Moçambique e a Federação. Este último será o contador usado para calcular os pagamentos mensais da compensação de acordo com o Segundo Anexo deste contrato. Os referidos contadores estarão de acordo com o Código Americano de Padrões para o transporte de óleos e ficarão sob o domínio da Província.
 
-ARTIGO XXIV
-
-Isenções de direitos alfandegários
+###### ARTIGO XXIV — Isenções de direitos alfandegários
 
 1. A Companhia não será obrigada ao pagamento à Província de direitos de importação sobre os materiais importados para a construção de depósitos ou estações de bombagem na área do porto da Beira, incluindo as que se construam sobre o mar, ao largo da costa, nem pagará tais direitos sobre equipamento ou materiais importados temporàriamente para a construção, desde que, sob garantia bancária ou termos de responsabilidade, esses equipamentos ou materiais sejam reexportados dentro de seis (6) meses após a data da conclusão do empreendimento. Se a reexportação não se fizer neste prazo, a Companhia pagará imediatamente os direitos que forem devidos pela importação dos referidos materiais e equipamentos.
 
@@ -362,29 +318,21 @@ Isenções de direitos alfandegários
 
 3. Os materiais e equipamentos em trânsito através de Moçambique, para a Federação destinados à construção, conclusão, exploração e manutenção da secção do oleoduto e das suas instalações subsidiárias que forem implantadas na Federação, ficarão isentos dos direitos alfandegários impostos pelas autoridades portuguesas, mas estarão sujeitos ao pagamento do imposto do selo de zero vírgula zero sete cinco por cento (0,075%) do valor C. I. F, se importados através da Beira e transportados pelo Caminho de Ferro da Beira.
 
-ARTIGO XXV
-
-Medidas de segurança
+###### ARTIGO XXV — Medidas de segurança
 
 A Companhia compromete-se a instalar e manter todos os meios normais de segurança para a protecção de estações de bombagem por meio de vedações, iluminação e medidas de vigilância, e a Província compromete-se a, nos casos de insurreição, distúrbios e guerra, greve ou outra situação de emergência pública, prestar a assistência que lhe for possível à Companhia para a habilitar a proteger adequadamente o oleoduto e instalações subsidiárias.
 
-ARTIGO XXVI
-
-Informações estatísticas
+###### ARTIGO XXVI — Informações estatísticas
 
 1. A Companhia fornecerá à Província os elementos estatísticos ou informativos de que ela possa necessitar relativamente à exploração do oleoduto, podendo qualquer informação desta natureza ser transmitida ao Governo da Federação, a seu pedido e
 
 2. Aqueles elementos serão protegidos contra revelação e usados sòmente em relação com a compilação, análise e interpretação de elementos estatísticos relativos às actividades comercial, industrial, económica ou geral do empreendimento e outras iniciativas de natureza similar.
 
-ARTIGO XXVII
-
-Trânsito pela fronteira de Moçambique com a Federação
+###### ARTIGO XXVII — Trânsito pela fronteira de Moçambique com a Federação
 
 Tendo em atenção a necessidade de garantir o funcionamento contínuo do empreendimento, a Província, ouvida a Companhia, poderá conceder facilidades para o trânsito, pela fronteira de Moçambique com a Federação, do pessoal da Companhia, seus mandatários ou empreiteiros, e dos materiais necessários para a construção, reconstrução e exploração do oleoduto.
 
-ARTIGO XXVIII
-
-Cedência de direitos e obrigações da concessionária
+###### ARTIGO XXVIII — Cedência de direitos e obrigações da concessionária
 
 1. A Companhia não cederá quaisquer dos seus direitos ou obrigações relativos a esta concessão sem o prévio consentimento da Província, que o não negará sem motivo justificado.
 
@@ -394,9 +342,7 @@ Cedência de direitos e obrigações da concessionária
 
 As obrigações assumidas pela Companhia, nos termos deste artigo, não poderão, porém, prejudicar o direito da Província às compensações e taxas que lhe sejam devidas, por força deste contrato, as quais preferirão sempre a quaisquer outras dívidas ou obrigações da Companhia.
 
-ARTIGO XXIX
-
-Movimentação de contas bancárias e capitais
+###### ARTIGO XXIX — Movimentação de contas bancárias e capitais
 
 1. A Companhia, seus agentes ou empreiteiros terão o direito de abrir e movimentar contas bancárias em Moçambique, com os bancos da sua escolha, e terão a liberdade de realizar contratos, expressos em moeda local ou estrangeira, conformando-se, porém, com as disposições cambiais em vigor.
 
@@ -406,17 +352,13 @@ Movimentação de contas bancárias e capitais
 
 4. A Companhia compromete-se a assegurar que todas as importâncias que lhe forem devidas, e que resultem da exploração da secção do dito oleoduto situada em Moçambique, lhe sejam pagas nesta província, em moeda da Federação, depois de deduzido o que for necessário para pagar todos os encargos de financiamento e os dividendos devidos a accionistas não residentes. Depois de a Companhia ter pago as competentes taxas e feito a prova de que a dedução se refere a pagamentos permitidos nos termos deste número as autoridades cambiais autorizarão a dedução.
 
-ARTIGO XXX
-
-Impostos
+###### ARTIGO XXX — Impostos
 
 A Companhia beneficiará pelo prazo de dez (10) anos de uma isenção geral de impostos e taxas, nos termos do [Decreto n.º 42688](https://diariodarepublica.pt/dr/detalhe/decreto/42688-1959-438245), de 27 de Novembro de 1959, ressalvado, porém, o disposto no n.º 2 do artigo VII deste contrato.
 
 O prazo da isenção começará a contar-se a partir da data em que o oleoduto estiver apto a fazer correr o óleo, salvo o caso de experiência, cujo prazo não excederá o máximo fixado no n.º 1 do artigo III.
 
-ARTIGO XXXI
-
-Força maior
+###### ARTIGO XXXI — Força maior
 
 1. Nenhuma falta ou omissão da Companhia no cumprimento das obrigações emergentes deste contrato poderá ser considerada como sua violação, e fazê-la incorrer em qualquer sanção, se tal falta ou omissão for devida a guerra, rebelião, greve, lock out, facto da natureza ou a outros acontecimentos semelhantes que estejam fora do domínio da Companhia.
 
@@ -438,9 +380,7 @@ c) A tomar disposições para executar ou se conformar com quaisquer medidas aco
 
 A Província poderá rescindir o contrato com pré-aviso de trinta (30) dias, por escrito, em cujo caso o disposto nos n.os 3 e 4 do artigo XV será aplicado.
 
-ARTIGO XXXII
-
-Resgate da concessão («expropriation of the undertaking»)
+###### ARTIGO XXXII — Resgate da concessão («expropriation of the undertaking»)
 
 1. Se a Província decidir resgatar a concessão (expropriate the undertaking) deverá notificar a Companhia, por escrito, com pelo menos doze (12) meses completos de antecedência. Expirado esse prazo, operar-se-á o resgate (expropriation) pagando a Província à Companhia uma compensação igual ao valor dos bens materiais do empreendimento acrescido dos lucros cessantes (a further capital payment in respect of goodwill), uns e outros determinados como a seguir se especifica:
 
@@ -472,7 +412,7 @@ c) Os prédios rústicos e todos os direitos adquiridos pela Companhia ao abrigo
 
 d) Todos os direitos adquiridos pela Companhia ao abrigo de contratos celebrados pela Companhia para o fornecimento dos bens e quaisquer materiais necessários para a Companhia poder cumprir as obrigações para ela emergentes deste contrato.
 
-Artigo XXXIII
+###### Artigo XXXIII
 
 Prazo e garantias relativas ao pagamento da compensação.
 
@@ -496,9 +436,7 @@ c) De renovar ou manter a garantia ou depósito mencionados nas alíneas a) e b)
 
 A Província poderá tomar posse do empreendimento e colocá-lo sob a gerência e administração dos Caminhos de Ferro de Moçambique. Em tal caso, as provisões do artigo XVI deste contrato relativos à posse, exploração e restituição do empreendimento serão aplicáveis mutatis mutandis.
 
-ARTIGO XXXIV
-
-Sanções
+###### ARTIGO XXXIV — Sanções
 
 1. A Companhia fica sujeita às sanções estabelecidas pela legislação em vigor em Moçambique pela prática dos actos a que tais sanções correspondam, excepto quando outro regime estiver expressamente estabelecido neste contrato.
 
@@ -528,17 +466,13 @@ c) Multa de 100000$00 por cada violação do artigo XVII, sem prejuízo das prov
 
 6. Se a Província rescindir este contrato nos termos do n.º 2 deste artigo, a Companhia reterá, não obstante, a posse do conjunto dos bens do empreendimento e ficará responsável pelo pagamento das suas dívidas e cumprimento das obrigações, aplicando-se, mutatis mutandis, o disposto nos n.os 3 e 4 do artigo XV.
 
-ARTIGO XXXV
-
-Prazo para apreciação de requerimentos da Companhia
+###### ARTIGO XXXV — Prazo para apreciação de requerimentos da Companhia
 
 1. Sempre que, nos termos deste contrato, o exercício dos direitos e o cumprimento das obrigações da Companhia dependam de decisão do Governo-Geral de Moçambique ou de quaisquer autoridades da Província, entende-se que, se não for proferida decisão dentro de sessenta (60) dias, contados a partir da data da apresentação dos pedidos, estes se considerarão deferidos, devendo, porém, a Companhia, decorridos que sejam os primeiros trinta (30) dias, enviar aos serviços competentes nova via do requerimento apresentado, acompanhado de nota em que se chame a atenção para o estipulado neste artigo.
 
 2. Se na legislação que em Moçambique regular a matéria a que o pedido respeite estiver estabelecido prazo superior a sessenta (60) dias para as entidades competentes se pronunciarem, o deferimento considera-se dado quando, expirado tal prazo, não houver decisão sobre o pedido apresentado, observado o disposto na parte final do número anterior.
 
-ARTIGO XXXVI
-
-Cláusula arbitral
+###### ARTIGO XXXVI — Cláusula arbitral
 
 1. Todas as questões emergentes da interpretação e execução deste contrato serão resolvidas por um tribunal arbitral constituído por três árbitros, designando cada uma das partes neste contrato um e sendo o terceiro escolhido por acordo entre os dois primeiros.
 
@@ -554,15 +488,13 @@ Se no prazo de trinta (30) dias, contados da designação do segundo árbitro, o
 
 4. As decisões dos árbitros serão susceptíveis de recurso em matéria de direito.
 
-ARTIGO XXXVII
-
-Administração do empreendimento pelos Caminhos de Ferro de Moçambique
+###### ARTIGO XXXVII — Administração do empreendimento pelos Caminhos de Ferro de Moçambique
 
 Se os Caminhos de Ferro de Moçambique, ou outra entidade governamental, forem encarregados de administrar o empreendimento, nos termos dos artigos XVI, XXXI ou XXXIII, fá-lo-ão funcionar e administrá-lo-ão de acordo com as disposições deste contrato, na medida em que forem aplicáveis, e sujeito à tarifa em vigor na altura em que tomar posse do empreendimento se se verificar o condicionamento previsto no n.º 1 do artigo XXI.
 
 PRIMEIRO ANEXO (ARTIGO XV DO CONTRATO DE CONCESSÃO)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/12/27900/16421651.pdf))](https://files.diariodarepublica.pt/1s/1962/12/27900/16421651.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/12/27900/16421651.pdf)
 
 SEGUNDO ANEXO
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1960/06/12800/12971314.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/42999-1960-504317
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-12-14T00:00:00Z'
+  retrieved_at: '2026-10-22T19:18:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 960a20c477b6f286d290d35262e9a0b5312f7f20a5be2a90e9cf9f166a0667e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9581ae632aaf3e5d3fe0de743664db9d63559c4230e2a9c6c2e63e821610cce3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:18:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Betão
+- Construção Civil
+- Indústria da Construção
+- Material de Construção
+- Norma
+- Normalização
+- Segurança dos Edifícios
 relationships:
 - type: amended_by
   target: pt:dre:635208:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:248853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536672:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:635208:por
+  label: "Revogado pelo DEC LEI.330/95.1995.12.14.MOPTC, DR.IS-A [287]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/330-1995-635208
+  date: '1995-12-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:18:16Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +124,11 @@ Feito o respectivo estudo das normas a aplicar pela subcomissão encarregada do 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aprovado o caderno de encargos para o fornecimento e recepção de pozolanas, bem como o seu anexo, que fazem parte integrante do presente decreto e com ele baixam assinados pelo Ministro das Obras Públicas.
+Artigo 1.º É aprovado o caderno de encargos para o fornecimento e recepção de pozolanas, bem como o seu anexo, que fazem parte integrante do presente decreto e com ele baixam assinados pelo Ministro das Obras Públicas.
 
-###### Art. 2.º As disposições relativas à utilização de pozolanas que constam do anexo ao caderno de encargos para o fornecimento e recepção de pozolanas poderão ser alteradas pelo Ministro das Obras Públicas, mediante parecer da subcomissão encarregado do estudo dos regulamentos e betões, dentro da comissão permanente de revisão e instituição de regulamentos técnicos, criada junto do Conselho Superior de Obras Públicas por portaria de 23 de Maio de 1951.
+Art. 2.º As disposições relativas à utilização de pozolanas que constam do anexo ao caderno de encargos para o fornecimento e recepção de pozolanas poderão ser alteradas pelo Ministro das Obras Públicas, mediante parecer da subcomissão encarregado do estudo dos regulamentos e betões, dentro da comissão permanente de revisão e instituição de regulamentos técnicos, criada junto do Conselho Superior de Obras Públicas por portaria de 23 de Maio de 1951.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 1 de Junho de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Eduardo de Arantes e Oliveira.
 
@@ -194,7 +222,7 @@ Quando dois ou mais lotes de pozolana a granel sejam presentes conjuntamente à 
 
 Os valores especificados para os resultados dos ensaios realizados como se determina no capítulo II do presente caderno de encargos são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/06/12800/12971314.pdf))](https://files.diariodarepublica.pt/1s/1960/06/12800/12971314.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/06/12800/12971314.pdf)
 
 Os valores especificados para a finura só são exigidos quando a pozolana se destina a ser empregada como componente individual de argamassas e betões.
 
@@ -426,7 +454,7 @@ t(índice p) o tempo, em segundos, de escoamento do ar através da camada de cim
 
 a constante do aparelho é
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/06/12800/12971314.pdf))](https://files.diariodarepublica.pt/1s/1960/06/12800/12971314.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/06/12800/12971314.pdf)
 
 12.5 - Determinação da superfície específica.
 
@@ -476,7 +504,7 @@ t o tempo de escoamento do ar em segundos,
 
 a superfície específica da pozolana, em centímetros quadrados por grama, é
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/06/12800/12971314.pdf))](https://files.diariodarepublica.pt/1s/1960/06/12800/12971314.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/06/12800/12971314.pdf)
 
 O resultado apresenta-se arredondado às dezenas.
 
@@ -502,7 +530,7 @@ Viscosidade do ar (quadro I) ... (eta) = 17,98 x 10(elevado a -5) poises
 
 Constante do aparelho:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/06/12800/12971314.pdf))](https://files.diariodarepublica.pt/1s/1960/06/12800/12971314.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/06/12800/12971314.pdf)
 
 12.6.2 - Determinação da superfície específica de uma pozolana.
 
@@ -528,7 +556,7 @@ Viscosidade do ar (quadro I) ... (eta) = 17,98 x 10(elevado a -5) poises
 
 Superfície específica da pozolana:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/06/12800/12971314.pdf))](https://files.diariodarepublica.pt/1s/1960/06/12800/12971314.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/06/12800/12971314.pdf)
 
 13 - Determinação da massa específica.
 
@@ -592,7 +620,7 @@ Os moldes devem ser tais que os provetes fiquem com as dimensões nominais de 40
 
 As suas características e tolerâncias são as indicadas no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/06/12800/12971314.pdf))](https://files.diariodarepublica.pt/1s/1960/06/12800/12971314.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/06/12800/12971314.pdf)
 
 Os moldes poderão ser agrupados de modo a permitir o fabrico simultâneo de três provetes.
 
@@ -850,15 +878,15 @@ Ministério das Obras Públicas, 1 de Junho de 1960. - O Ministro das Obras Púb
 
 Do QUADRO I ao QUADRO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/06/12800/12971314.pdf))](https://files.diariodarepublica.pt/1s/1960/06/12800/12971314.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/06/12800/12971314.pdf)
 
 Resumo dos regulamentos estrangeiros sobre pozolanas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/06/12800/12971314.pdf))](https://files.diariodarepublica.pt/1s/1960/06/12800/12971314.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/06/12800/12971314.pdf)
 
 Da Fig. 1 à Fig. 8
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/06/12800/12971314.pdf))](https://files.diariodarepublica.pt/1s/1960/06/12800/12971314.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/06/12800/12971314.pdf)
 
 ## ANEXO — Directrizes para a utilização de pozolanas
 

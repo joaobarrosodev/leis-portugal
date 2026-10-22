@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/06/12300/0000200054.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/8/2025/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/8-2025-922902687
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-06-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c3fa096bd6741bbdbc5a061e946a6634f0b1fa057e85d98fe036eedccc8a8dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53e4aecf97f9a6f4fc32c62220ea77457ab0198b9663761ad682a7e8b3700303
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Crime
 - Arguido
+- Crime
 - Execução de Penas
 - Interpretação do Direito
 - Prescrição da PENA
@@ -118,16 +118,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/94/2017/08/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/94/2017/08/23/p/dre
+- type: cites
+  target: pt:dre:108038373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119236547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640142:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:28Z'
   warnings: []
   errors: []
 ---
@@ -352,7 +400,7 @@ DISCUSSÃO DA QUESTÃO DE DIREITO EM OPOSIÇÃO DE JULGADOS
 
 48.ª - Tais indícios de coerência normativa são ainda consistentes, no contexto sistemático em análise, com o n.º 3, do artigo 122.º, quando o sujeito passivo da pena é pessoa coletiva.
 
-49.ª - Quando assim é, a remissão feita nesse n.º 3 para o artigo 118.º, n.º 3, do Código Penal, determina, segundo este artigo, que os prazos de prescrição da pena a atender são determinados, correspondentemente, tendo em conta a pena de prisão, antes de se proceder à conversão prevista nos n.<sup>os</sup>1 e 2 do artigo 90.º-B, do Código Penal.
+49.ª - Quando assim é, a remissão feita nesse n.º 3 para o artigo 118.º, n.º 3, do Código Penal, determina, segundo este artigo, que os prazos de prescrição da pena a atender são determinados, correspondentemente, tendo em conta a pena de prisão, antes de se proceder à conversão prevista nos n.os1 e 2 do artigo 90.º-B, do Código Penal.
 
 50.ª - Deste modo, é a pena de prisão que constitui o referente para a suspensão da sua execução, quando aplicada, ou para a conversão por dever tê-la como referência.
 
@@ -392,7 +440,7 @@ DISCUSSÃO DA QUESTÃO DE DIREITO EM OPOSIÇÃO DE JULGADOS
 
 68.ª - Essas normas, como é o caso do artigo 122.º do Código Penal, são também enunciados linguísticos da competência reservada do legislador competente (Assembleia da República ou Governo) pelo que o respeito por essa competência envolve o respeito pelo sentido das palavras, pelas consequências implicadas pelos conceitos usados no texto legal e pelo campo de aplicação desse texto; texto através do qual o legislador se exprimiu nas normas que definem a responsabilidade criminal e a sua extinção pela prescrição.
 
-69.ª - Consistentemente, a alínea d) do n.º 1, do artigo 122.º, do Código Penal, ao prescrever o prazo de prescrição de 4 anos “nos casos restantes” significa, no contexto normativo-semântico do artigo e da sua coerência sistemática na relação com as demais alíneas do n.º 1 e com os n.<sup>os</sup>2 e 3, que os “casos restantes” são as penas diferentes de prisão e as de prisão inferiores a 2 anos que tenham sido aplicadas por decisão transitada em julgado, mesmo que a respetiva execução tenha sido suspensa.
+69.ª - Consistentemente, a alínea d) do n.º 1, do artigo 122.º, do Código Penal, ao prescrever o prazo de prescrição de 4 anos “nos casos restantes” significa, no contexto normativo-semântico do artigo e da sua coerência sistemática na relação com as demais alíneas do n.º 1 e com os n.os2 e 3, que os “casos restantes” são as penas diferentes de prisão e as de prisão inferiores a 2 anos que tenham sido aplicadas por decisão transitada em julgado, mesmo que a respetiva execução tenha sido suspensa.
 
 70.ª - Acessórios à valoração semântica da norma que deixámos efetuada, o acórdão-fundamento avança ainda argumentos atinentes ora à necessidade de a pena substitutiva ter de ser declarada extinta, mas que não é, na verdade, exclusivo da pena de suspensão mas antes exigido a todas as penas em execução, como determina o artigo 475.º do Código de Processo Penal; ora argumentos de equidade ou iniquidade ancorados na intenção do legislador, se outro fosse o prazo de prescrição da pena de suspensão que não o de 4 anos, mas sem esclarecer que intenção do legislador é essa, se é a intenção histórica ou a intenção hipotética, além de não esclarecer porque inverte a hierarquia dos métodos de interpretação do direito penal, fazendo preponderar o espírito do legislador sobre a letra e sobre o contexto normativo interno ou sistemático das valorações que a norma possa exprimir.
 
@@ -432,7 +480,7 @@ DISCUSSÃO DA QUESTÃO DE DIREITO EM OPOSIÇÃO DE JULGADOS
 
 88.ª - Ainda quanto à equidade a que apela o acórdão-fundamento - como se fosse um joker jogado no contexto argumentativo que defende -, não sendo a equidade fonte de direito penal e estando ausente dos critérios estritamente prescritos no artigo 122.º do Código Penal, uma adequada interpretação operativa, conforme à legalidade criminal, aquilo que impõe é antes o respeito pela justiça, pelo interesse geral, pela segurança jurídica, pela generalidade do direito e pela sua autoridade, só garantidos pelo sentido e contexto dos respetivos enunciados normativos, pois são esses critérios que limitam o poder discricionário, arbitrário ou incerto na determinação da solução jurídica, em especial no direito penal, e os que, neste, respeitam a preponderância da letra sobre o espírito.
 
-89.ª - Em súmula conclusiva, a validade da interpretação permitida, seja por via do sentido possível das palavras do texto legal, seja por via da adequação sistemática do texto aos fins, seja por via dos limites impostos pelo respeito do princípio da legalidade das penas e da definição da responsabilidade criminal, na qual se inclui o instituto da prescrição das penas, justificam a consideração interpretativa de que a alínea d) do n.º 1, do artigo 122.º, do Código Penal, ao prescrever o prazo de prescrição de 4 anos “nos casos restantes” significa, no contexto normativo-semântico do artigo e da sua coerência sistemática na relação com as demais alíneas do n.º 1 e com os n.<sup>os</sup>2 e 3, que os “casos restantes“ são os casos das penas diferentes de prisão e as de prisão inferiores a 2 anos que tenham sido aplicadas por decisão transitada em julgado, tenham ou não sido suspensas na sua execução.
+89.ª - Em súmula conclusiva, a validade da interpretação permitida, seja por via do sentido possível das palavras do texto legal, seja por via da adequação sistemática do texto aos fins, seja por via dos limites impostos pelo respeito do princípio da legalidade das penas e da definição da responsabilidade criminal, na qual se inclui o instituto da prescrição das penas, justificam a consideração interpretativa de que a alínea d) do n.º 1, do artigo 122.º, do Código Penal, ao prescrever o prazo de prescrição de 4 anos “nos casos restantes” significa, no contexto normativo-semântico do artigo e da sua coerência sistemática na relação com as demais alíneas do n.º 1 e com os n.os2 e 3, que os “casos restantes“ são os casos das penas diferentes de prisão e as de prisão inferiores a 2 anos que tenham sido aplicadas por decisão transitada em julgado, tenham ou não sido suspensas na sua execução.
 
 90.ª - Essa solução interpretativa - que julgamos correta e razoável - está ajustada ao Direito sob análise, promovendo a sua integridade e coerência.
 
@@ -546,9 +594,9 @@ Pelo acórdão proferido a 14 de novembro de 2024, pela 5.ª Secção do Supremo
 
 Todavia, uma vez que a referida decisão não vincula o pleno das secções criminais, que pode decidir em sentido contrário ao da conferência da secção (artigo 692.º, n.º 4, do Código de Processo Civil, ex vi artigo 4.º do Código de Processo Penal), importa proceder ao reexame sumário dos pressupostos do presente recurso.
 
-O disposto nos artigos 437.º, n.<sup>os</sup>1, 2 e 3 e 438.º, n.<sup>os</sup>1 e 2, do CPP, estatui, tal como é entendimento pacífico da jurisprudência deste Supremo Tribunal de Justiça, que a admissibilidade do recurso extraordinário para fixação de jurisprudência depende, antes de mais, da verificação dos seguintes requisitos formais:
+O disposto nos artigos 437.º, n.os1, 2 e 3 e 438.º, n.os1 e 2, do CPP, estatui, tal como é entendimento pacífico da jurisprudência deste Supremo Tribunal de Justiça, que a admissibilidade do recurso extraordinário para fixação de jurisprudência depende, antes de mais, da verificação dos seguintes requisitos formais:
 
-i) Os acórdãos em conflito serem de tribunais superiores, ambos do Supremo Tribunal de Justiça, ambos de Tribunal da Relação, ou um [o recorrido] da Relação, mas de que não seja admissível recurso ordinário, e o outro [o fundamento] do Supremo - artigo 437.º, n.<sup>os</sup>1 e 2;
+i) Os acórdãos em conflito serem de tribunais superiores, ambos do Supremo Tribunal de Justiça, ambos de Tribunal da Relação, ou um [o recorrido] da Relação, mas de que não seja admissível recurso ordinário, e o outro [o fundamento] do Supremo - artigo 437.º, n.os1 e 2;
 
 ii) O trânsito em julgado dos dois acórdãos - artigos 437.º, n.º 4 e 438.º, n.º 1;
 
@@ -556,7 +604,7 @@ iii) A interposição do recurso no prazo de 30 dias contados do trânsito em ju
 
 iv) A identificação do aresto com o qual o acórdão recorrido se encontra em oposição (acórdão-fundamento), com menção, caso se encontre publicado, do lugar da publicação - artigo 438.º, n.º 2;
 
-v) A indicação de (apenas) um acórdão-fundamento - artigos 437.º, n.<sup>os</sup>1, 2 e 3 e 438.º, n.º 2;
+v) A indicação de (apenas) um acórdão-fundamento - artigos 437.º, n.os1, 2 e 3 e 438.º, n.º 2;
 
 vi) A legitimidade do recorrente - artigo 437.º n.º 5;
 
@@ -576,13 +624,13 @@ Estão em causa dois acórdãos, um, da Relação do Porto (o acórdão-fundamen
 
 Verifica-se, assim, estarem preenchidos todos os requisitos de natureza formal.
 
-No que respeita aos requisitos de ordem substancial, tal corresponde à oposição de julgados propriamente dita entre os acórdãos em presença, nos termos previstos no artigo 437.º, n.<sup>os</sup>1 e 3, do CPP.
+No que respeita aos requisitos de ordem substancial, tal corresponde à oposição de julgados propriamente dita entre os acórdãos em presença, nos termos previstos no artigo 437.º, n.os1 e 3, do CPP.
 
 A questão em causa terá de ter sido decidida de modo expresso em ambos os acórdãos e tomada a título principal, pelo que a mera oposição de posições implícitas ou diferente fundamentação não são idóneas para se concluir pela oposição.
 
 Acresce que as situações subjacentes de facto terão de ser substancialmente idênticas, pois só assim se poderá aferir se para a mesma questão jurídica foram adotadas soluções opostas.
 
-Finalmente, impõe-se ainda que a questão sob apreciação não tenha sido objeto de anterior fixação de jurisprudência<sup>1</sup>.
+Finalmente, impõe-se ainda que a questão sob apreciação não tenha sido objeto de anterior fixação de jurisprudência1.
 
 - Estão em causa, um acórdão do Tribunal da Relação de Évora - o acórdão recorrido -, proferido em 18-12-2023, no Proc. n.º 913/11.4PBEVR.E3, transitado em julgado em 02-02-2024, e um acórdão do Tribunal da Relação do Porto - o acórdão fundamento -, proferido em 30-03-2022, no Proc. n.º 195/11.8GAFLG.P1, transitado em julgado em 19-04-2022.
 
@@ -632,7 +680,7 @@ Concluímos, assim que o prazo de prescrição das penas de prisão suspensas, i
 
 Por isso, só a pendência de incidente por incumprimento dos deveres, regras de conduta ou do plano de reinserção, ou a pendência de processo por crime que possa determinar a sua revogação, poderão evitar a extinção da pena pelo decurso do período de suspensão (Artigo 57.º, n.º 1, do C.P.), mas apenas enquanto não decorrer o prazo prescricional de 4 anos.
 
-Quer isto dizer que a pena suspensa prescreve se o processo estiver pendente mais de 4 anos desde a data em que se completou o período de suspensão inicialmente fixado, sem que aquele prazo fosse prorrogado e sem que a suspensão tivesse sido revogada ou extinta nos termos do artigo 57.º n.<sup>os</sup>1 e 2 do Código Penal.
+Quer isto dizer que a pena suspensa prescreve se o processo estiver pendente mais de 4 anos desde a data em que se completou o período de suspensão inicialmente fixado, sem que aquele prazo fosse prorrogado e sem que a suspensão tivesse sido revogada ou extinta nos termos do artigo 57.º n.os1 e 2 do Código Penal.
 
 No caso em apreço a sentença condenatória que aplicou ao arguido a pena de 2 anos de prisão suspensa na sua execução por igual período, transitou em julgado em 03.02.2014. Nos termos do n.º 2 do artigo 122.º do C.Penal “o prazo de prescrição começa a correr no dia em que transitar em julgado a decisão que tiver aplicado a pena”, pelo que o prazo de prescrição se iniciou naquela data de 03.02.2014.
 
@@ -702,25 +750,25 @@ II.4. Aproximação a uma decisão
 
 II.4.1. A natureza da pena de suspensão de execução da (pena de) prisão
 
-No ordenamento jurídico português, as penas podem ser classificadas como penas principais, acessórias e de substituição. São, assim, penas principais as que se encontram expressamente previstas nas normas incriminadoras e são fixadas pelo juiz na decisão condenatória, podendo ser aplicadas independentemente de quaisquer outras - correspondem à pena de prisão e à pena de multa (no que respeita às pessoas singulares) e à pena de multa e à de dissolução (relativamente às pessoas coletivas e entidades equiparadas)<sup>2</sup>.
+No ordenamento jurídico português, as penas podem ser classificadas como penas principais, acessórias e de substituição. São, assim, penas principais as que se encontram expressamente previstas nas normas incriminadoras e são fixadas pelo juiz na decisão condenatória, podendo ser aplicadas independentemente de quaisquer outras - correspondem à pena de prisão e à pena de multa (no que respeita às pessoas singulares) e à pena de multa e à de dissolução (relativamente às pessoas coletivas e entidades equiparadas)2.
 
 Por sua vez, consubstanciam penas de substituição as que são aplicadas na sentença condenatória em substituição da execução de penas principais, as quais, relativamente às pessoas singulares, são as seguintes: a pena de multa (artigo 45.º do Código Penal), a proibição do exercício de profissão, função ou atividade (artigo 46.º do Código Penal), a suspensão da execução da pena de prisão (50.º a 54.º), a prestação de trabalho a favor da comunidade (artigo 58.º do Código Penal) e a admoestação (artigo 60.º).
 
-No que concerne a entes coletivos, são penas de substituição a admoestação (artigos 90.ª-A, n.º 3 e 90.º-C do Código Penal), a caução de boa conduta (artigos 90.ª-A, n.º 3 e 90.º-D do Código Penal) e a vigilância judiciária (artigos 90.ª-A, n.º 3 e 90.º-E do Código Penal)<sup>3</sup>.
+No que concerne a entes coletivos, são penas de substituição a admoestação (artigos 90.ª-A, n.º 3 e 90.º-C do Código Penal), a caução de boa conduta (artigos 90.ª-A, n.º 3 e 90.º-D do Código Penal) e a vigilância judiciária (artigos 90.ª-A, n.º 3 e 90.º-E do Código Penal)3.
 
 A (pena de) suspensão da execução da pena de prisão encontra-se prevista nos artigos 50.º a 57.º do Código Penal, integrada no Título III (‘Das consequências jurídicas do facto’), Capítulo II (‘Penas’), Secção II (‘Suspensão da execução da pena de prisão’).
 
-A pena suspensa consubstancia, assim, uma das penas substitutivas previstas, cuja aplicação tem como objetivo alcançar uma redução do número de penas privativas de liberdade, de curta e de média duração, visando, assim, uma diminuição do cumprimento de penas intramuros<sup>4</sup>.
+A pena suspensa consubstancia, assim, uma das penas substitutivas previstas, cuja aplicação tem como objetivo alcançar uma redução do número de penas privativas de liberdade, de curta e de média duração, visando, assim, uma diminuição do cumprimento de penas intramuros4.
 
 Desta forma, «[o] tema das penas de substituição reconduz-se, do ponto de vista histórico e político-criminal, ao tempo da descrença na pena de prisão como instrumento de ressocialização do condenado e ao movimento de luta contra essa pena privativa da liberdade. [...]
 
-Por outro lado, a essa descrença e a esse movimento foi-se juntando também a constitucionalização dos direitos fundamentais, na passagem de um Estado legislativo de direito para um Estado constitucional, com a consequência de a pena de prisão ter passado a ser vista como restrição do direito fundamental à liberdade e passar a estar sujeita, por isso mesmo, à exigência de ser aplicada somente quando for necessária, o que equivale a dizer que passou a estar legitimada apenas quando outras soluções menos restritivas se mostrem não adequadas e suficientes do ponto de vista das finalidades da punição.»<sup>5</sup>.
+Por outro lado, a essa descrença e a esse movimento foi-se juntando também a constitucionalização dos direitos fundamentais, na passagem de um Estado legislativo de direito para um Estado constitucional, com a consequência de a pena de prisão ter passado a ser vista como restrição do direito fundamental à liberdade e passar a estar sujeita, por isso mesmo, à exigência de ser aplicada somente quando for necessária, o que equivale a dizer que passou a estar legitimada apenas quando outras soluções menos restritivas se mostrem não adequadas e suficientes do ponto de vista das finalidades da punição.»5.
 
 Como tal, «[a] ideia político-criminal fundamental que ao instituto presidia era a de que no domínio da pequena criminalidade, a que corresponderiam penas curtas de prisão, a simples ameaça da prisão poderia em muitos casos, nomeadamente sempre que se tratasse de delinquentes primários, bastar para pleno cumprimento das finalidades da punição.
 
 [...]
 
-A evolução do instituto processou-se no sentido de alargar o mais possível o seu campo de aplicação e a efectiva frequência da sua utilização, sem perder o seu sentido político-criminal originário»<sup>6</sup>.
+A evolução do instituto processou-se no sentido de alargar o mais possível o seu campo de aplicação e a efectiva frequência da sua utilização, sem perder o seu sentido político-criminal originário»6.
 
 Com a 23.ª alteração do Código Penal, introduzida pela [Lei n.º 59/2007](https://diariodarepublica.pt/dr/detalhe/lei/59-2007-640142), de 04-09, foi modificado o pressuposto formal, alargando o campo de aplicação da pena de substituição a penas de prisão até 5 anos, em vez do limite anterior de 3 anos, e alterando o período de suspensão, fazendo-o coincidir com a duração da pena. O artigo 50.º passou, assim, a estabelecer:
 
@@ -742,11 +790,11 @@ Por seu turno, com as alterações introduzidas pelo art. 2.º da [Lei n.º 94/2
 
 O preceito do artigo 50.º do Código Penal mantém-se, assim, inalterado desde tal modificação, que incidiu apenas sobre a variabilidade do período de suspensão de execução da prisão, ao contrário da indexação ao período da pena de prisão: é possível, desde a alteração de 2017, o estabelecimento de prazos distintos de suspensão de penas de prisão com a mesma medida.
 
-Decorre, por isso, do referido normativo legal que a aplicação desta pena substitutiva dependerá, desde logo, do preenchimento de um pressuposto de ordem formal - que a pena aplicada não seja superior a 5 anos de prisão. Ademais, implica, ainda, o preenchimento de um pressuposto de ordem material, na medida em que o julgador há de efetuar um juízo de prognose, concluindo, em função da personalidade do agente e das circunstâncias do facto, por um prognóstico favorável relativamente ao comportamento do arguido. Uma prognose que, não sendo uma certeza, deve fundar-se nas garantias de que a personalidade do agente e as circunstâncias permitem concluir pela adequação da alternativa à prisão. Atender-se-á, assim, a considerações de prevenção especial e geral sob a forma de exigências mínimas e irrenunciáveis de defesa do ordenamento jurídico<sup>7</sup>.
+Decorre, por isso, do referido normativo legal que a aplicação desta pena substitutiva dependerá, desde logo, do preenchimento de um pressuposto de ordem formal - que a pena aplicada não seja superior a 5 anos de prisão. Ademais, implica, ainda, o preenchimento de um pressuposto de ordem material, na medida em que o julgador há de efetuar um juízo de prognose, concluindo, em função da personalidade do agente e das circunstâncias do facto, por um prognóstico favorável relativamente ao comportamento do arguido. Uma prognose que, não sendo uma certeza, deve fundar-se nas garantias de que a personalidade do agente e as circunstâncias permitem concluir pela adequação da alternativa à prisão. Atender-se-á, assim, a considerações de prevenção especial e geral sob a forma de exigências mínimas e irrenunciáveis de defesa do ordenamento jurídico7.
 
-Trata-se, portanto, de uma pena de substituição em sentido próprio, porquanto preenche um duplo requisito: assume um carácter não detentivo, sendo cumprida em liberdade, e, ainda, pressupõe a determinação prévia da medida concreta da pena de prisão, sendo executada em vez desta<sup>8</sup>, representando a mais importante das penas de substituição, pelo âmbito e frequência com que é imposta, podendo ser aplicada em alternativa a penas de prisão de curta e média duração, como previsto, até ao limite de 5 anos<sup>9</sup>.
+Trata-se, portanto, de uma pena de substituição em sentido próprio, porquanto preenche um duplo requisito: assume um carácter não detentivo, sendo cumprida em liberdade, e, ainda, pressupõe a determinação prévia da medida concreta da pena de prisão, sendo executada em vez desta8, representando a mais importante das penas de substituição, pelo âmbito e frequência com que é imposta, podendo ser aplicada em alternativa a penas de prisão de curta e média duração, como previsto, até ao limite de 5 anos9.
 
-O Supremo Tribunal de Justiça, em sintonia com doutrina autorizada e preponderante, tem vindo a entender, de forma pacífica, tratar-se a suspensão da execução de um poder-dever ou de um poder vinculado do julgador, tendo o tribunal de fundamentar sempre, especificadamente, quer a concessão quer a denegação da suspensão, desde que possam verificar-se os pressupostos objetivos da sua aplicação. A aplicação de uma pena de substituição não é uma faculdade discricionária do tribunal, mas, ao contrário, constitui um verdadeiro poder-dever. Assim, o «carácter aparentemente facultativo que a lei atribui à aplicação desta espécie de pena não deve induzir em erro: não se trata aqui de mera “faculdade” em sentido técnico-jurídico, antes de um poder estritamente vinculado e portanto, nesta acepção, de um poder-dever»<sup>10</sup>.
+O Supremo Tribunal de Justiça, em sintonia com doutrina autorizada e preponderante, tem vindo a entender, de forma pacífica, tratar-se a suspensão da execução de um poder-dever ou de um poder vinculado do julgador, tendo o tribunal de fundamentar sempre, especificadamente, quer a concessão quer a denegação da suspensão, desde que possam verificar-se os pressupostos objetivos da sua aplicação. A aplicação de uma pena de substituição não é uma faculdade discricionária do tribunal, mas, ao contrário, constitui um verdadeiro poder-dever. Assim, o «carácter aparentemente facultativo que a lei atribui à aplicação desta espécie de pena não deve induzir em erro: não se trata aqui de mera “faculdade” em sentido técnico-jurídico, antes de um poder estritamente vinculado e portanto, nesta acepção, de um poder-dever»10.
 
 Por outro lado, a suspensão [da execução da prisão] compreende diversas modalidades de execução: a forma simples, a condicionada a deveres e/ou regras de conduta e a sujeita a regime de prova.
 
@@ -756,13 +804,13 @@ A suspensão pode, ainda, ser condicionada ao cumprimento de deveres e/ou regras
 
 Por sua vez, a sujeição ao regime de prova, previsto no art. 53.º do Código Penal - de aplicação obrigatória quanto a condenados que, na data dos factos, não tenham completado 21 anos (n.º 3) -, persegue as finalidades de reintegração social do condenado.
 
-Neste sentido, e tomando, de novo, de empréstimo as palavras de Figueiredo Dias: “Entre as condições da suspensão de execução da prisão avulta, naturalmente, a de o condenado não cometer qualquer crime durante o período da suspensão: se a finalidade precípua desta pena de substituição é, como vimos, a de «afastar o delinquente da criminalidade» (art. 48.º-2), então, o cometimento de um crime durante o período de suspensão é a circunstância que mais claramente pode pôr em causa o prognóstico favorável que a aplicação da pena de suspensão sempre supõe. Viu-se, em todo o caso, que esta condição de suspensão (subjacente mesmo ao que chamámos a suspensão «simples») pode não ser a única, antes a suspensão pode ser decretada com deveres e regras de conduta que, para este efeito, reentram na categoria das condições em sentido amplo.”<sup>11</sup>.
+Neste sentido, e tomando, de novo, de empréstimo as palavras de Figueiredo Dias: “Entre as condições da suspensão de execução da prisão avulta, naturalmente, a de o condenado não cometer qualquer crime durante o período da suspensão: se a finalidade precípua desta pena de substituição é, como vimos, a de «afastar o delinquente da criminalidade» (art. 48.º-2), então, o cometimento de um crime durante o período de suspensão é a circunstância que mais claramente pode pôr em causa o prognóstico favorável que a aplicação da pena de suspensão sempre supõe. Viu-se, em todo o caso, que esta condição de suspensão (subjacente mesmo ao que chamámos a suspensão «simples») pode não ser a única, antes a suspensão pode ser decretada com deveres e regras de conduta que, para este efeito, reentram na categoria das condições em sentido amplo.”11.
 
 Enquanto a sujeição a deveres visa a reparação do mal do crime, no caso da sujeição a regras de conduta, o propósito consiste em afastar o condenado da prática de futuros crimes.
 
 Por isso, num certo sentido, a suspensão de execução da pena é sempre condicionada, mesmo na sua modalidade simples, pelo menos, ao não cometimento de crimes no período da sua execução.
 
-Existe ainda uma modalidade especial de suspensão da pena, prevista no domínio penal tributário (art. 14.º do Regime Geral das Infrações Tributárias, aprovado pela [Lei n.º 15/2001](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), de 05-06), que é considerada uma “modalidade única obrigatória de suspensão de imposição de deveres pré-determinados, de forma típica e taxativa, pelo legislador, além disso conformada legalmente como de imposição obrigatória - «sempre» - de um específico dever pecuniário numa quantia pré-determinada: o pagamento da prestação tributária em falta e acréscimos legais ou, como se prevê ainda, da quantia dos benefícios indevidamente atribuídos.”.<sup>12</sup>
+Existe ainda uma modalidade especial de suspensão da pena, prevista no domínio penal tributário (art. 14.º do Regime Geral das Infrações Tributárias, aprovado pela [Lei n.º 15/2001](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), de 05-06), que é considerada uma “modalidade única obrigatória de suspensão de imposição de deveres pré-determinados, de forma típica e taxativa, pelo legislador, além disso conformada legalmente como de imposição obrigatória - «sempre» - de um específico dever pecuniário numa quantia pré-determinada: o pagamento da prestação tributária em falta e acréscimos legais ou, como se prevê ainda, da quantia dos benefícios indevidamente atribuídos.”.12
 
 Por sua vez, se no decurso do período da suspensão, o condenado incumprir os deveres ou regras de conduta que lhe são impostos, ou o plano de reinserção social homologado, o Tribunal tem ao seu dispor as medidas previstas no artigo 55.º do Código Penal - fazer uma solene advertência; exigir garantias de cumprimento das obrigações que condicionam a suspensão; impor novos deveres ou regras de conduta ou introduzir exigências acrescidas no plano de reinserção social; ou prorrogar o período de suspensão.
 
@@ -774,21 +822,21 @@ Quando o período de suspensão da execução da pena termina sem que resultem c
 
 Na eventualidade de estar pendente um processo-crime, em que se investiguem factos praticados durante o período de suspensão, circunstância que poderá conduzir à sua revogação, ou, ainda, na eventualidade de se encontrar pendente incidente pelo incumprimento de deveres, regras de conduta ou do plano de reinserção social, a pena apenas poderá ser declarada extinta, nos termos do artigo 57.º, n.º 2, do Código Penal, quando o processo ou o incidente terminarem e não haja lugar à revogação ou à prorrogação do período de suspensão. É neste período, por vezes indesejavelmente longo, que se costumam colocar as questões que aqui se mobilizam, referentes à verificação, ou não, do decurso do prazo de prescrição da pena (suspensa), ainda não revogada.
 
-Deve sublinhar-se, ainda, que, dada a sua natureza, a pena de suspensão de execução da (pena de) prisão não forma um caso julgado dotado de fixidez e estabilidade, o qual é precário e mutável face à plausibilidade da sua revogação, por força do condicionalismo do art. 55.º, do CP, do circunstancialismo previsto no art. 56.º, do CP, ou por força da necessidade de se proceder a cúmulo jurídico, o que leva a que a jurisprudência, de forma praticamente unânime, a considere uma pena sujeita à cláusula rebus sic stantibus, dada a possibilidade, virtual, de ser retomada a execução da pena (de prisão) originária ou de ser integrada em cúmulo jurídico. A referida jurisprudência maioritária assenta na ideia de que não se forma caso julgado sobre a suspensão da execução da pena, mas tão somente sobre a medida dessa pena, entendendo-se que a substituição está resolutivamente condicionada ao conhecimento superveniente do concurso, e ainda nas ideias de provisoriedade da suspensão da pena e de julgamento rebus sic stantibus quanto a tal questão, orientação que o Tribunal Constitucional já decidiu não ser inconstitucional (cf. o [Acórdão n.º 3/2006](https://diariodarepublica.pt/dr/detalhe/acordao/3-2006-168186), de 03-01-2006, in www.tribunalconstitucional.pt)<sup>13</sup>.
+Deve sublinhar-se, ainda, que, dada a sua natureza, a pena de suspensão de execução da (pena de) prisão não forma um caso julgado dotado de fixidez e estabilidade, o qual é precário e mutável face à plausibilidade da sua revogação, por força do condicionalismo do art. 55.º, do CP, do circunstancialismo previsto no art. 56.º, do CP, ou por força da necessidade de se proceder a cúmulo jurídico, o que leva a que a jurisprudência, de forma praticamente unânime, a considere uma pena sujeita à cláusula rebus sic stantibus, dada a possibilidade, virtual, de ser retomada a execução da pena (de prisão) originária ou de ser integrada em cúmulo jurídico. A referida jurisprudência maioritária assenta na ideia de que não se forma caso julgado sobre a suspensão da execução da pena, mas tão somente sobre a medida dessa pena, entendendo-se que a substituição está resolutivamente condicionada ao conhecimento superveniente do concurso, e ainda nas ideias de provisoriedade da suspensão da pena e de julgamento rebus sic stantibus quanto a tal questão, orientação que o Tribunal Constitucional já decidiu não ser inconstitucional (cf. o [Acórdão n.º 3/2006](https://diariodarepublica.pt/dr/detalhe/acordao/3-2006-168186), de 03-01-2006, in www.tribunalconstitucional.pt)13.
 
 A aplicação substitutiva de uma pena de suspensão de execução da prisão projeta-se complementarmente no futuro, em que a prognose favorável do merecimento da conduta do agente venha a ser comprovada no decurso do período de suspensão.
 
 Realizado este enquadramento, refira-se não ser relevante para a presente decisão a circunstância de no acórdão-fundamento se estar perante uma pena suspensa - a que não foi aposta qualquer condição [adicional] - e de no acórdão-recorrido se ter aplicado uma pena única de 5 (cinco) anos de prisão, a qual foi suspensa na sua execução por igual período, com sujeição à condição de o arguido, no mesmo período, pagar aos lesados a indemnização fixada e ao regime de prova que resultasse do plano de reinserção social a elaborar pelos serviços de Reinserção Social.
 
-Sem pretensões de ensaiarmos aqui um tratamento exaustivo sobre a conceção dogmática e o enquadramento doutrinal da pena de suspensão de execução da pena de prisão - tarefa que foi já objeto de aturada e profunda reflexão nos acórdãos de fixação de jurisprudência deste STJ n.<sup>os</sup>6/2010, de 15-04-2010<sup>14</sup>, 8/2012, de 12-09-2012<sup>15</sup>, 13/2016, de 07-07-2016<sup>16</sup>, 1/2024, de 08-11-2023<sup>17</sup> e 11/2024, de 26-06-2024<sup>18</sup>, para onde se remete -, dos quais emerge o pressuposto metodológico convergente de que se trata de uma pena de substituição, sendo tais penas atualmente configuradas como verdadeiras penas autónomas<sup>19</sup>.
+Sem pretensões de ensaiarmos aqui um tratamento exaustivo sobre a conceção dogmática e o enquadramento doutrinal da pena de suspensão de execução da pena de prisão - tarefa que foi já objeto de aturada e profunda reflexão nos acórdãos de fixação de jurisprudência deste STJ n.os6/2010, de 15-04-201014, 8/2012, de 12-09-201215, 13/2016, de 07-07-201616, 1/2024, de 08-11-202317 e 11/2024, de 26-06-202418, para onde se remete -, dos quais emerge o pressuposto metodológico convergente de que se trata de uma pena de substituição, sendo tais penas atualmente configuradas como verdadeiras penas autónomas19.
 
 Uma tal categorização, embora não resulte diretamente da lei, por não se definir qualquer espécie de reação penal ou de modalidade sancionatória com tal nomen iuris, tem, todavia, acolhimento doutrinal e jurisprudencial.
 
 Constata-se, assim, de todo o exposto, no que respeita ao regime desta pena substitutiva, que a mesma se assume como uma verdadeira pena autónoma e distinta da pena de prisão que visa substituir. Na realidade, até à (eventual) revogação da pena suspensa, a pena de prisão é inexequível, mantendo-se em segundo plano, podendo, inclusivamente, nunca vir a ser acionada.
 
-A pena principal permanece, no decurso da execução da pena de suspensão de execução da pena de prisão, numa fase de latência ou de “quiescência”, termo proposto por André Lamas Leite. Refere este Autor que, «Nos casos de incumprimento, a pena principal não renasce propriamente, pois ela nunca deixou de existir do prisma jurídico, mas pura e simplesmente aplica-se com toda a legitimidade político-criminal e dogmática de que estava investida desde o início. [...] Aproxima-se, pois, a pena principal, da condição suspensiva e a pena de substituição da condição resolutiva (começa desde logo a produzir efeitos, os quais cessam na hipótese de superveniência de um evento futuro e incerto - o respectivo incumprimento)»<sup>20</sup>.
+A pena principal permanece, no decurso da execução da pena de suspensão de execução da pena de prisão, numa fase de latência ou de “quiescência”, termo proposto por André Lamas Leite. Refere este Autor que, «Nos casos de incumprimento, a pena principal não renasce propriamente, pois ela nunca deixou de existir do prisma jurídico, mas pura e simplesmente aplica-se com toda a legitimidade político-criminal e dogmática de que estava investida desde o início. [...] Aproxima-se, pois, a pena principal, da condição suspensiva e a pena de substituição da condição resolutiva (começa desde logo a produzir efeitos, os quais cessam na hipótese de superveniência de um evento futuro e incerto - o respectivo incumprimento)»20.
 
-A pena principal funcionará, assim, como pressuposto formal da sua escolha e constitui, em caso de revogação, a pena a cumprir, sendo manifesto que a pena suspensa se encontra intrinsecamente conectada com a pena de prisão que visa substituir, por ser sua sequência lógica e judicial, pois que não existem uma sem a outra<sup>21</sup>. Assim, ainda no dizer de André Lamas Leite, «[...] há uma relação biunívoca ou umbilical [...] entre a pena principal e aquela que se aplica em vez dela. Não se tratam de substitutos naturalísticos, atento o diferente conteúdo material de cada uma das sanções, mas de equivalentes funcionais ou normativos, no sentido em que a função ou a ligação jurídica entre as duas sanções importa que uma não viva sem a outra.»<sup>22</sup>.
+A pena principal funcionará, assim, como pressuposto formal da sua escolha e constitui, em caso de revogação, a pena a cumprir, sendo manifesto que a pena suspensa se encontra intrinsecamente conectada com a pena de prisão que visa substituir, por ser sua sequência lógica e judicial, pois que não existem uma sem a outra21. Assim, ainda no dizer de André Lamas Leite, «[...] há uma relação biunívoca ou umbilical [...] entre a pena principal e aquela que se aplica em vez dela. Não se tratam de substitutos naturalísticos, atento o diferente conteúdo material de cada uma das sanções, mas de equivalentes funcionais ou normativos, no sentido em que a função ou a ligação jurídica entre as duas sanções importa que uma não viva sem a outra.»22.
 
 Sem prejuízo de tal interdependência, as penas de substituição na qual se inclui, como se referiu, a suspensão da execução da pena de prisão, possuem um regime legal próprio em duas vertentes - tanto nas circunstâncias que fundamentam a sua aplicação como no que concerne à sua execução, i. e, quanto aos seus pressupostos e finalidades
 
@@ -808,11 +856,11 @@ Finalmente, a suspensão da execução da pena não se confunde com os incidente
 
 Deste modo, esta pena substitutiva tem um campo de aplicação legalmente definido, estando-lhe subjacente um significado político-criminal próprio.
 
-Tal entendimento resultava já da versão originária do Código Penal de 1982, decorrendo das discussões da Comissão Revisora do Código Penal, relativamente à sentença condicional ou condenação condicional, a que corresponde a figura atual da suspensão da execução da pena de prisão, e que constava, no artigo 47.º do Projeto de 1963<sup>23</sup>, como uma verdadeira pena, a par da prisão, da multa e do regime de prova. No seio da referida Comissão, o Professor Eduardo Correia afirmou perentoriamente a sua natureza de pena autónoma, contradizendo, assim, o eventual entendimento de que se trataria de um instituto especial de execução da pena de prisão, afirmando, relativamente à necessidade de diminuir a incidência da pena de prisão, que «[...] tem também interesse para radicar a convicção de que é preciso por todas as formas limitar este tipo de pena, em virtude do seu larguíssimo efeito criminógeno: e limitá-lo não só na sua duração como na sua incidência. Daí as novas formas de punição que o Projecto contém: a sentença condicional (com um regime algo diferente do actual) e o regime de prova (já largamente experimentado noutros países), que agora assumem o seu verdadeiro carácter de penas principais autónomas. [...]
+Tal entendimento resultava já da versão originária do Código Penal de 1982, decorrendo das discussões da Comissão Revisora do Código Penal, relativamente à sentença condicional ou condenação condicional, a que corresponde a figura atual da suspensão da execução da pena de prisão, e que constava, no artigo 47.º do Projeto de 196323, como uma verdadeira pena, a par da prisão, da multa e do regime de prova. No seio da referida Comissão, o Professor Eduardo Correia afirmou perentoriamente a sua natureza de pena autónoma, contradizendo, assim, o eventual entendimento de que se trataria de um instituto especial de execução da pena de prisão, afirmando, relativamente à necessidade de diminuir a incidência da pena de prisão, que «[...] tem também interesse para radicar a convicção de que é preciso por todas as formas limitar este tipo de pena, em virtude do seu larguíssimo efeito criminógeno: e limitá-lo não só na sua duração como na sua incidência. Daí as novas formas de punição que o Projecto contém: a sentença condicional (com um regime algo diferente do actual) e o regime de prova (já largamente experimentado noutros países), que agora assumem o seu verdadeiro carácter de penas principais autónomas. [...]
 
-Ora, como se diz no Relatório, é nestas inovações - e não na manutenção, infelizmente indispensável, da pena de prisão - que se depositam as melhores esperanças no campo da luta contra a criminalidade.».<sup>24</sup>
+Ora, como se diz no Relatório, é nestas inovações - e não na manutenção, infelizmente indispensável, da pena de prisão - que se depositam as melhores esperanças no campo da luta contra a criminalidade.».24
 
-Por sua vez, consta na parte introdutória do Código Penal de 1982<sup>25</sup>, no ponto 11, que «[o]utras medidas não detentivas são a suspensão da execução da pena (artigos 48.º e seguintes) e o regime de prova (artigos 53.º e seguintes).
+Por sua vez, consta na parte introdutória do Código Penal de 198225, no ponto 11, que «[o]utras medidas não detentivas são a suspensão da execução da pena (artigos 48.º e seguintes) e o regime de prova (artigos 53.º e seguintes).
 
 Substitutivos particularmente adequados das penas privativas de liberdade, importa tornar maleável a sua utilização, libertando-os, na medida do possível, de limites formais, por forma a com eles cobrir uma apreciável gama de infracções puníveis com pena de prisão. Assim se prevê a possibilidade da suspensão da execução da pena ou da submissão de delinquente ao regime de prova sempre que a pena de prisão não seja superior a 3 anos.
 
@@ -826,11 +874,11 @@ Tais elementos históricos de interpretação apresentam-se, assim, como inequí
 
 Todos os argumentos ora expendidos, conduzem-nos, assim, à conclusão de que a natureza da suspensão de execução da pena (tal como das outras penas de substituição) é a de verdadeira pena que incorpora os fins preventivos previstos no artigo 40.º do Código Penal. Ao aplicar-se esta pena substitutiva está a aplicar-se uma pena diferente da prisão que é substituída.
 
-Também a jurisprudência do STJ, em diversos arestos, vem reafirmando o carácter autónomo da suspensão, relativamente à pena de prisão, como se pode verificar no acórdão de 18 de março de 1999, relatado pelo Conselheiro Hugo Lopes<sup>26</sup>, onde se afirmou que «[a]s penas de substituição são verdadeiras penas autónomas». Do mesmo modo, no acórdão proferido pelo Conselheiro Henriques Gaspar, a 20 de abril de 2005<sup>27</sup>, considerou que «[a] pena suspensa, prevista no art. 50.º do CP, enquanto pena de substituição, é de natureza diferente da pena de prisão, pela natureza e função que lhe está político-criminalmente adstrita». Finalmente, ainda o AFJ n.º 7/2015, de 09-04-2015<sup>28</sup>, relativo à necessidade de audição presencial do condenado para efeitos do disposto no artigo 125.º, n.º 4, do Código da Execução de Penas e Medidas Privativas de Liberdade, refere que «[a] doutrina entendeu de forma dominante que as penas de substituição eram verdadeiras penas autónomas, e, com especial interesse para o tema que nos ocupa, afirmou o consenso sobre o conteúdo político-criminal próprio, e sobre o campo específico de aplicação de cada pena de substituição, com a necessidade de um regime daí resultante, em larga medida individualizado, mesmo no que respeita ao incumprimento das penas de substituição».
+Também a jurisprudência do STJ, em diversos arestos, vem reafirmando o carácter autónomo da suspensão, relativamente à pena de prisão, como se pode verificar no acórdão de 18 de março de 1999, relatado pelo Conselheiro Hugo Lopes26, onde se afirmou que «[a]s penas de substituição são verdadeiras penas autónomas». Do mesmo modo, no acórdão proferido pelo Conselheiro Henriques Gaspar, a 20 de abril de 200527, considerou que «[a] pena suspensa, prevista no art. 50.º do CP, enquanto pena de substituição, é de natureza diferente da pena de prisão, pela natureza e função que lhe está político-criminalmente adstrita». Finalmente, ainda o AFJ n.º 7/2015, de 09-04-201528, relativo à necessidade de audição presencial do condenado para efeitos do disposto no artigo 125.º, n.º 4, do Código da Execução de Penas e Medidas Privativas de Liberdade, refere que «[a] doutrina entendeu de forma dominante que as penas de substituição eram verdadeiras penas autónomas, e, com especial interesse para o tema que nos ocupa, afirmou o consenso sobre o conteúdo político-criminal próprio, e sobre o campo específico de aplicação de cada pena de substituição, com a necessidade de um regime daí resultante, em larga medida individualizado, mesmo no que respeita ao incumprimento das penas de substituição».
 
-Estamos, portanto, perante uma pena autónoma, a executar de imediato, aquando do trânsito em julgado da decisão condenatória. Substituir a execução de uma pena de prisão implica, sempre, aplicar, em vez desta, uma outra pena, constituindo-se as penas de substituição como uma categoria distinta de penas, perfeitamente autonomizáveis das penas que visaram substituir<sup>29</sup>.
+Estamos, portanto, perante uma pena autónoma, a executar de imediato, aquando do trânsito em julgado da decisão condenatória. Substituir a execução de uma pena de prisão implica, sempre, aplicar, em vez desta, uma outra pena, constituindo-se as penas de substituição como uma categoria distinta de penas, perfeitamente autonomizáveis das penas que visaram substituir29.
 
-Assim, uma vez mais tomando emprestadas as palavras de Figueiredo Dias, «a suspensão da execução da prisão não representa um simples incidente, ou mesmo só uma modificação, da execução da pena, mas uma pena autónoma e portanto, na sua acepção mais estrita e exigente, uma pena de substituição»<sup>30</sup>.
+Assim, uma vez mais tomando emprestadas as palavras de Figueiredo Dias, «a suspensão da execução da prisão não representa um simples incidente, ou mesmo só uma modificação, da execução da pena, mas uma pena autónoma e portanto, na sua acepção mais estrita e exigente, uma pena de substituição»30.
 
 II.4.2. A prescrição das penas
 
@@ -868,35 +916,35 @@ d) Quatro anos, nos casos restantes.
 
 O instituto da prescrição consubstancia uma das causas extintivas da responsabilidade criminal pela qual, em resultado do decurso do tempo, o Estado pode considerar estarem “amortecidas” as exigências de punição, nessa medida constituindo um meio de garantir a certeza e a segurança jurídica do imputado ou do condenado, encontrando-se previsto nos artigos 118.º a 126.º do Código Penal, em dois capítulos: prescrição do procedimento criminal - artigos 118.º a 121.º - e prescrição da pena - artigos 122.º a 126.º
 
-A existência de um instituto como a prescrição - do procedimento criminal e das penas e medidas de segurança - encerra um significado de inequívoca preocupação com a segurança e paz jurídica do arguido ou do condenado, nessa medida comportando uma relevância onto-antropológica. Conforme refere José de Faria Costa, «[...] só nos podemos pensar, e por isso existimos, porque “somos” irrefutavelmente a nossa própria condição temporal. Ou seja: o tempo é o limite absoluto da humana condição de ser-com-os-outros, assumindo-se, assim, como barreira, limitação, constrição, escravatura mas, porque nele e por ele - e não em qualquer outro tempo - o “eu” que é “nós” é abertura e possibilidades infinitas, então, esse mesmo tempo, que é já temporalidade [...], é também e simultaneamente a condição primeira da nossa liberdade»<sup>31</sup>.
+A existência de um instituto como a prescrição - do procedimento criminal e das penas e medidas de segurança - encerra um significado de inequívoca preocupação com a segurança e paz jurídica do arguido ou do condenado, nessa medida comportando uma relevância onto-antropológica. Conforme refere José de Faria Costa, «[...] só nos podemos pensar, e por isso existimos, porque “somos” irrefutavelmente a nossa própria condição temporal. Ou seja: o tempo é o limite absoluto da humana condição de ser-com-os-outros, assumindo-se, assim, como barreira, limitação, constrição, escravatura mas, porque nele e por ele - e não em qualquer outro tempo - o “eu” que é “nós” é abertura e possibilidades infinitas, então, esse mesmo tempo, que é já temporalidade [...], é também e simultaneamente a condição primeira da nossa liberdade»31.
 
-A prescrição é, pois, uma causa superveniente extintiva da responsabilidade criminal, que, fundando-se no decurso do tempo, pode afetar o apuramento do crime e da responsabilidade criminal de um determinado agente, extinguindo-a<sup>32</sup>. Estamos perante uma causa superveniente de extinção da responsabilidade criminal, por se verificar em momento posterior à prática do crime, embora nalgumas situações o seu conhecimento possa só ocorrer posteriormente; extinguindo a responsabilidade criminal, faz cessar a possibilidade de a mesma ser apurada ou de ser executada a pena ou a medida de segurança, entretanto, aplicada.
+A prescrição é, pois, uma causa superveniente extintiva da responsabilidade criminal, que, fundando-se no decurso do tempo, pode afetar o apuramento do crime e da responsabilidade criminal de um determinado agente, extinguindo-a32. Estamos perante uma causa superveniente de extinção da responsabilidade criminal, por se verificar em momento posterior à prática do crime, embora nalgumas situações o seu conhecimento possa só ocorrer posteriormente; extinguindo a responsabilidade criminal, faz cessar a possibilidade de a mesma ser apurada ou de ser executada a pena ou a medida de segurança, entretanto, aplicada.
 
-O decurso do tempo não faz com que o Estado abdique ou renuncie da sua pretensão de responsabilizar criminalmente o agente, inexistindo, de resto, um (suposto) direito à prescrição<sup>33</sup>. Porém, em função de considerações ordem político-criminal de atualidade, de proporcionalidade e de legitimidade da aplicação da sanção penal que ao facto ilícito típico caberia e da própria carência de punição, em obediência a comandos constitucionalmente vinculativos, o Estado entende não dever punir o agente, já por razões de falibilidade da prova, já pela evolução sócio-psicológica do indivíduo imputado e de esbatimento da própria representação comunitária da necessidade da punição.
+O decurso do tempo não faz com que o Estado abdique ou renuncie da sua pretensão de responsabilizar criminalmente o agente, inexistindo, de resto, um (suposto) direito à prescrição33. Porém, em função de considerações ordem político-criminal de atualidade, de proporcionalidade e de legitimidade da aplicação da sanção penal que ao facto ilícito típico caberia e da própria carência de punição, em obediência a comandos constitucionalmente vinculativos, o Estado entende não dever punir o agente, já por razões de falibilidade da prova, já pela evolução sócio-psicológica do indivíduo imputado e de esbatimento da própria representação comunitária da necessidade da punição.
 
-No caso da prescrição da pena concretamente aplicada, o decurso de determinados prazos (cf. artigo 122.º, n.º 1, do Código Penal) por referência à respetiva gravidade, constitui fundamento para afastar a aplicação do direito penal - especificamente, das reações penais -, o que se justifica porque, decorrido um significativo lapso temporal, «[...] a censura comunitária traduzida no juízo de culpa esbate-se, se não chega mesmo a desaparecer. Por outro lado, e com maior importância, as exigências da prevenção especial, porventura muito fortes logo a seguir ao cometimento do facto, tornam-se progressivamente sem sentido e podem mesmo falhar completamente os seus objectivos: quem fosse sentenciado por um facto há muito tempo cometido e mesmo porventura esquecido, ou quem sofresse a execução de uma reacção criminal há muito tempo já ditada, correria o sério risco de ser sujeito a uma sanção que não cumpriria já quaisquer finalidades de socialização ou de segurança. Finalmente, e sobretudo, o instituto da prescrição justifica-se do ponto de vista da prevenção geral positiva: o decurso de um largo período sobre a prática de um crime ou sobre o decretamento de uma sanção não executada faz com que não possa falar-se de uma estabilização contrafáctica das expectativas comunitárias, já apaziguadas ou definitivamente frustradas»<sup>34</sup>.
+No caso da prescrição da pena concretamente aplicada, o decurso de determinados prazos (cf. artigo 122.º, n.º 1, do Código Penal) por referência à respetiva gravidade, constitui fundamento para afastar a aplicação do direito penal - especificamente, das reações penais -, o que se justifica porque, decorrido um significativo lapso temporal, «[...] a censura comunitária traduzida no juízo de culpa esbate-se, se não chega mesmo a desaparecer. Por outro lado, e com maior importância, as exigências da prevenção especial, porventura muito fortes logo a seguir ao cometimento do facto, tornam-se progressivamente sem sentido e podem mesmo falhar completamente os seus objectivos: quem fosse sentenciado por um facto há muito tempo cometido e mesmo porventura esquecido, ou quem sofresse a execução de uma reacção criminal há muito tempo já ditada, correria o sério risco de ser sujeito a uma sanção que não cumpriria já quaisquer finalidades de socialização ou de segurança. Finalmente, e sobretudo, o instituto da prescrição justifica-se do ponto de vista da prevenção geral positiva: o decurso de um largo período sobre a prática de um crime ou sobre o decretamento de uma sanção não executada faz com que não possa falar-se de uma estabilização contrafáctica das expectativas comunitárias, já apaziguadas ou definitivamente frustradas»34.
 
 A «prescrição da pena é um pressuposto negativo da punição, que, tal como a prescrição do procedimento criminal, tem natureza substantiva e processual, predominando hoje a teoria jurídico-material da prescrição. A natureza substantiva, que muitos Autores pretendem, aqui, dominante ou mesmo exclusiva, advém-lhe de razões ligadas às finalidades da punição. Com o decurso do tempo sobre o trânsito em julgado da sentença condenatória sem que o condenado tenha iniciado o cumprimento da pena imposta, esbate-se a necessidade comunitária da sua execução e, ao mesmo tempo, a exigência de socialização do condenado, que constitui uma outra das finalidades da pena e factor determinante da sua fixação concreta dentro de determinadas circunstâncias que foram sopesadas na decisão, perde também a sua razão de ser, a ponto de poder tornar-se completamente desajustada, se o condenado a tivesse que cumprir muito tempo depois da condenação.
 
-A natureza processual, por seu turno, liga-se a razões que têm a ver com o próprio processo, também neste caso, pois a prescrição obsta a que a pena seja executada, não obstante basear-se numa decisão transitada em julgado. Neste sentido, é um pressuposto negativo de carácter processual [...]»<sup>35</sup>.
+A natureza processual, por seu turno, liga-se a razões que têm a ver com o próprio processo, também neste caso, pois a prescrição obsta a que a pena seja executada, não obstante basear-se numa decisão transitada em julgado. Neste sentido, é um pressuposto negativo de carácter processual [...]»35.
 
 Importa salientar que a solução da prescrição (do procedimento criminal e das penas e medidas de segurança) não é um dado adquirido; em muitos sistemas jurídicos vigora mesmo um princípio de imprescritibilidade, enquanto, por outro lado, alguns sistemas que consagram a prescrição como princípio, até de matriz e fundamento constitucional, admitem exceções de imprescritibilidade. É o caso do nosso ordenamento jurídico-criminal, em que as escassas previsões de imprescritibilidade parecem reconduzir-se a soluções de excecionalidade constitucional.
 
-A questão da imprescritibilidade tem sido tratada doutrinalmente, com importantes argumentos no sentido da sua admissibilidade e da sua negação<sup>36</sup>, não sendo aqui o local aprofundado para tratar adequadamente da mesma.
+A questão da imprescritibilidade tem sido tratada doutrinalmente, com importantes argumentos no sentido da sua admissibilidade e da sua negação36, não sendo aqui o local aprofundado para tratar adequadamente da mesma.
 
 São, todavia, conhecidas exceções à prescrição do procedimento criminal e das penas no nosso ordenamento jurídico, mormente no âmbito dos crimes de genocídio, contra a humanidade, de guerra e de agressão, em que, em homenagem a determinações do direito penal internacional humanitário e da guerra, se consagra a sua imprescritibilidade (cf. artigos 49.º, n.º 1, do Código de Justiça Militar e 7.º do Anexo à [Lei n.º 31/2004](https://diariodarepublica.pt/dr/detalhe/lei/31-2004-507438), de 22 de julho, na redação conferida pelo art. 2.º da [Lei n.º 11/2019](https://diariodarepublica.pt/dr/detalhe/lei/11-2019-119236547), de 07-02).
 
 Embora o problema da imprescritibilidade possa ser mais impressivo no quadro do tratamento da pena do que no âmbito do procedimento criminal, o mesmo não deve ser um tabu, nem a sua proibição um dogma.
 
-À medida que o tempo vai decorrendo, desde o trânsito em julgado da decisão sem que a pena tenha sido executada, vai-se verificando que as necessidades para a sua aplicação vão ficando cada vez mais reduzidas, consubstanciando a prescrição da pena um pressuposto negativo da punição<sup>37</sup>.
+À medida que o tempo vai decorrendo, desde o trânsito em julgado da decisão sem que a pena tenha sido executada, vai-se verificando que as necessidades para a sua aplicação vão ficando cada vez mais reduzidas, consubstanciando a prescrição da pena um pressuposto negativo da punição37.
 
 Assim, quando a pena se encontra temporalmente muito distante do delito que conduziu à sua aplicação, a execução da mesma acaba por frustrar as suas finalidades e tornar-se desnecessária ou inútil.
 
-Contudo, nem sempre o mero decurso do tempo conduz à prescrição da pena ou da medida de segurança. De facto, tal não deverá favorecer o condenado quando ocorrem situações que impeçam a perseguição criminal ou quando a pretensão punitiva do Estado e as suas exigências de punição são confirmadas através de certos atos de perseguição<sup>38</sup>. Assim, determinadas ocorrências impedem que o prazo prescricional se inicie ou continue a correr, paralisando-o. Nessas situações, a prescrição fica suspensa, apenas se reiniciando esse prazo quando o acontecimento cessa. Diferentemente, no que respeita ao instituto da interrupção da prescrição, no momento em que o ato interruptivo tem lugar, começa a correr um novo prazo prescricional.
+Contudo, nem sempre o mero decurso do tempo conduz à prescrição da pena ou da medida de segurança. De facto, tal não deverá favorecer o condenado quando ocorrem situações que impeçam a perseguição criminal ou quando a pretensão punitiva do Estado e as suas exigências de punição são confirmadas através de certos atos de perseguição38. Assim, determinadas ocorrências impedem que o prazo prescricional se inicie ou continue a correr, paralisando-o. Nessas situações, a prescrição fica suspensa, apenas se reiniciando esse prazo quando o acontecimento cessa. Diferentemente, no que respeita ao instituto da interrupção da prescrição, no momento em que o ato interruptivo tem lugar, começa a correr um novo prazo prescricional.
 
-O prazo de prescrição da pena inicia-se quando a decisão transita em julgado, sendo suspenso ou interrompido nos termos legalmente definidos, respetivamente, nos termos dos artigos 125.º e 126.º do Código Penal. Tais normas de suspensão ou interrupção estão taxativamente previstas, sendo unânime o entendimento de que não poderá haver recurso à analogia para aplicação das mesmas<sup>39</sup>.
+O prazo de prescrição da pena inicia-se quando a decisão transita em julgado, sendo suspenso ou interrompido nos termos legalmente definidos, respetivamente, nos termos dos artigos 125.º e 126.º do Código Penal. Tais normas de suspensão ou interrupção estão taxativamente previstas, sendo unânime o entendimento de que não poderá haver recurso à analogia para aplicação das mesmas39.
 
-Deste modo, «[a] execução da pena e a prática de actos pelas autoridades competentes destinados a fazê-la executar fundamentam a existência das causas de interrupção e de suspensão da prescrição da pena. A prescrição da pena suspende-se (artigo 125.º, n.º 1, do CP) durante o tempo em que, por força da lei, a execução não puder começar ou continuar a ter lugar; durante o tempo em que vigorar a declaração de contumácia; durante o tempo em que o condenado estiver a cumprir outra pena ou medida de segurança privativas da liberdade; e durante o tempo em que perdurar a dilação do pagamento da multa. A interrupção do prazo prescricional ocorre com a execução da pena (e da medida de segurança) e com a declaração de contumácia (artigo 126.º, n.º 1, do CP).»<sup>40</sup>.
+Deste modo, «[a] execução da pena e a prática de actos pelas autoridades competentes destinados a fazê-la executar fundamentam a existência das causas de interrupção e de suspensão da prescrição da pena. A prescrição da pena suspende-se (artigo 125.º, n.º 1, do CP) durante o tempo em que, por força da lei, a execução não puder começar ou continuar a ter lugar; durante o tempo em que vigorar a declaração de contumácia; durante o tempo em que o condenado estiver a cumprir outra pena ou medida de segurança privativas da liberdade; e durante o tempo em que perdurar a dilação do pagamento da multa. A interrupção do prazo prescricional ocorre com a execução da pena (e da medida de segurança) e com a declaração de contumácia (artigo 126.º, n.º 1, do CP).»40.
 
 Nas situações em que, como a dos presentes autos, é aplicada uma pena principal - a pena de prisão - e uma pena de substituição - a suspensão da execução da pena -, verifica-se que poderão, no mesmo processo, concorrer dois prazos prescricionais distintos, com regimes de prazos e de cômputo do seu início diferentes.
 
@@ -912,7 +960,7 @@ Importa, neste passo, recordar que a Lei não define qualquer prazo máximo para
 
 Tratando-se a pena de suspensão da execução da prisão de uma pena de natureza autónoma, e sujeita aos princípios gerais do nosso direito penal, terá também de lhe ser aplicado um prazo prescricional certo e determinado, que começará a correr quando a decisão condenatória transita em julgado, sem prejuízo das concretas causas de interrupção ou suspensão a que possa ser sujeito.
 
-O início do prazo de suspensão (de execução da prisão) consubstancia causa de interrupção da prescrição, nos termos do artigo 126.º, n.º 1, alínea a) do Código Penal, circunstância que perdura durante todo o tempo em que a execução da pena de prisão se mantém suspensa. Ademais, nos termos preceituados no artigo 126.º, n.º 2, do Código Penal, após cada interrupção inicia-se um novo prazo de prescrição. Deste modo, terminado o período da suspensão - que corresponde à execução da pena de substituição -, inicia-se um novo prazo prescricional<sup>41</sup>.
+O início do prazo de suspensão (de execução da prisão) consubstancia causa de interrupção da prescrição, nos termos do artigo 126.º, n.º 1, alínea a) do Código Penal, circunstância que perdura durante todo o tempo em que a execução da pena de prisão se mantém suspensa. Ademais, nos termos preceituados no artigo 126.º, n.º 2, do Código Penal, após cada interrupção inicia-se um novo prazo de prescrição. Deste modo, terminado o período da suspensão - que corresponde à execução da pena de substituição -, inicia-se um novo prazo prescricional41.
 
 Que prazo é esse?
 
@@ -920,25 +968,25 @@ Esta é a questão nuclear da presente decisão de fixação de jurisprudência.
 
 No que respeita à resposta sobre qual será esse prazo prescricional, verifica-se existirem duas correntes jurisprudenciais distintas, refletidas respetivamente no acórdão-recorrido e no acórdão-fundamento.
 
-Entende-se no acórdão-recorrido que o prazo prescricional da pena suspensa deverá aferir-se tendo em consideração a concreta medida da pena de prisão, principal, que é aplicada e está subjacente à pena suspensa, prazo que poderá, assim, oscilar entre os 4 anos de prescrição (se inferior a 2 anos), os 10 anos (igual ou superior a dois anos de prisão mas inferior a cinco) ou de 15 anos (igual a cinco anos de prisão)<sup>42</sup>.
+Entende-se no acórdão-recorrido que o prazo prescricional da pena suspensa deverá aferir-se tendo em consideração a concreta medida da pena de prisão, principal, que é aplicada e está subjacente à pena suspensa, prazo que poderá, assim, oscilar entre os 4 anos de prescrição (se inferior a 2 anos), os 10 anos (igual ou superior a dois anos de prisão mas inferior a cinco) ou de 15 anos (igual a cinco anos de prisão)42.
 
 No sentido de tal entendimento, pronunciaram-se, nomeadamente, entre outros, além do acórdão-recorrido, os seguintes acórdãos proferidos por Tribunais da Relação:
 
-i) Tribunal da Relação de Lisboa, de 21-02-2019, processo n.º 387/07.4PEAMD.L1-9<sup>43</sup>, concluindo que «[a]s penas de prisão suspensas não têm um prazo de prescrição autónomo do da pena originária, não lhes sendo aplicável o disposto no artigo 122.º/1-d) do CP»;
+i) Tribunal da Relação de Lisboa, de 21-02-2019, processo n.º 387/07.4PEAMD.L1-943, concluindo que «[a]s penas de prisão suspensas não têm um prazo de prescrição autónomo do da pena originária, não lhes sendo aplicável o disposto no artigo 122.º/1-d) do CP»;
 
-ii) Tribunal da Relação de Évora, de 08-09-2020, processo n.º 612/07.1GCFAR-A.E1<sup>44</sup>, considerando-se que «[a]s penas de prisão suspensas na sua execução não têm um prazo de prescrição autónomo do da pena originária, não lhes sendo aplicável, sem mais (ou seja, a todas elas - mesmo às iguais ou superiores a 2 anos -), o disposto no artigo 122.º, n.º 1, al. d), do Código Penal»;
+ii) Tribunal da Relação de Évora, de 08-09-2020, processo n.º 612/07.1GCFAR-A.E144, considerando-se que «[a]s penas de prisão suspensas na sua execução não têm um prazo de prescrição autónomo do da pena originária, não lhes sendo aplicável, sem mais (ou seja, a todas elas - mesmo às iguais ou superiores a 2 anos -), o disposto no artigo 122.º, n.º 1, al. d), do Código Penal»;
 
-iii) Tribunal da Relação de Coimbra, de 26-05-2021, processo n.º 334/10.6JAPRT-A.C1<sup>45</sup>, aí se considerando «[a]s penas de prisão suspensas não têm um prazo de prescrição autónomo do da pena originária, não lhes sendo aplicável o disposto no artigo 122.º/1-d) do CP»
+iii) Tribunal da Relação de Coimbra, de 26-05-2021, processo n.º 334/10.6JAPRT-A.C145, aí se considerando «[a]s penas de prisão suspensas não têm um prazo de prescrição autónomo do da pena originária, não lhes sendo aplicável o disposto no artigo 122.º/1-d) do CP»
 
-iv) Tribunal da Relação do Porto, de 07-07-2021, processo n.º 1304/00.8PUPRT.P1<sup>46</sup>, no âmbito do qual se entendeu que «[d]ecorre de jurisprudência recente que na alínea d) do n.º 1 do artigo 122.º do Código Penal, onde se referem os casos não referidos nas alíneas anteriores desse número, as quais aludem sempre a penas de prisão, não cabem todas as penas de suspensão da execução da pena de prisão, mas as penas de prisão inferiores a dois anos de prisão, sejam ou não suspensas na sua execução»;
+iv) Tribunal da Relação do Porto, de 07-07-2021, processo n.º 1304/00.8PUPRT.P146, no âmbito do qual se entendeu que «[d]ecorre de jurisprudência recente que na alínea d) do n.º 1 do artigo 122.º do Código Penal, onde se referem os casos não referidos nas alíneas anteriores desse número, as quais aludem sempre a penas de prisão, não cabem todas as penas de suspensão da execução da pena de prisão, mas as penas de prisão inferiores a dois anos de prisão, sejam ou não suspensas na sua execução»;
 
-v) Tribunal da Relação do Porto, de 04-10-2022, processo n.º 515/12.8PDPRT-A.P1<sup>47</sup>, onde se refere que «[a]s penas de prisão suspensas na sua execução não têm um prazo de prescrição autónomo do da pena originária»;
+v) Tribunal da Relação do Porto, de 04-10-2022, processo n.º 515/12.8PDPRT-A.P147, onde se refere que «[a]s penas de prisão suspensas na sua execução não têm um prazo de prescrição autónomo do da pena originária»;
 
-vi) Tribunal da Relação de Évora, de 24-10-2023, processo n.º 302/11.0 GBCCH.E1<sup>48</sup>, tendo-se entendido nessa sede que «[i]nexiste um qualquer prazo autónomo de prescrição para a pena suspensa, distinto do aplicável à pena de prisão originária, tal qual vem entendendo a jurisprudência ultimamente, em face dos resultados verdadeiramente inaceitáveis a que vinha conduzindo a tese interpretativa, segundo a qual todas as penas suspensas se regeriam pelo prazo previsto no art. 122.º, n.º 1, al. d), do Código Penal.
+vi) Tribunal da Relação de Évora, de 24-10-2023, processo n.º 302/11.0 GBCCH.E148, tendo-se entendido nessa sede que «[i]nexiste um qualquer prazo autónomo de prescrição para a pena suspensa, distinto do aplicável à pena de prisão originária, tal qual vem entendendo a jurisprudência ultimamente, em face dos resultados verdadeiramente inaceitáveis a que vinha conduzindo a tese interpretativa, segundo a qual todas as penas suspensas se regeriam pelo prazo previsto no art. 122.º, n.º 1, al. d), do Código Penal.
 
 As penas de prisão suspensas na sua execução não têm um prazo de prescrição autónomo do da pena originária»;
 
-Por sua vez, também o Supremo Tribunal de Justiça se pronunciou de acordo com este entendimento, no acórdão proferido em 28 de fevereiro de 2018, no processo n.º 125/97.8IDSTB-A.S1, relatado pelo Conselheiro Vinício Ribeiro<sup>49</sup>.
+Por sua vez, também o Supremo Tribunal de Justiça se pronunciou de acordo com este entendimento, no acórdão proferido em 28 de fevereiro de 2018, no processo n.º 125/97.8IDSTB-A.S1, relatado pelo Conselheiro Vinício Ribeiro49.
 
 Segundo esta orientação jurisprudencial, o prazo de prescrição da pena afere-se pela pena de prisão originária, a ela devendo ser indexada, pelo que apenas caberão na previsão do artigo 122.º, n.º 1, alínea d) do Código Penal as penas de prisão inferiores a 2 anos - sejam de prisão efetiva, sejam de prisão suspensa na sua execução.
 
@@ -978,7 +1026,7 @@ Basta pensar no caso de uma pena de cinco anos de prisão (o prazo de prescriç�
 
 Se se entender que aplica à pena suspensa o prazo de prescrição previsto no artigo 122.º/1-d) do CP (quatro anos), isso levará a que, na prática, o prazo de prescrição da pena principal seja de nove anos, caso a suspensão não seja revogada nos quatros anos seguintes ao decurso do prazo da suspensão.
 
-Ora, não foi certamente isso que quis o legislador e não é isso que resulta de uma interpretação sistemática da lei, tendo em conta a sua letra.»<sup>50</sup>.
+Ora, não foi certamente isso que quis o legislador e não é isso que resulta de uma interpretação sistemática da lei, tendo em conta a sua letra.»50.
 
 Considera, assim, tal corrente jurisprudencial que o legislador não distingue a situação de a pena de prisão ser efetiva ou suspensa, pelo que também não deverá ser o intérprete a fazê-lo.
 
@@ -988,41 +1036,41 @@ Por seu turno, o acórdão-fundamento consagra o entendimento que a pena suspens
 
 Tal entendimento consubstancia a corrente jurisprudencial maioritária, da qual se destacam, entre outros, além do acórdão-fundamento, os seguintes acórdãos de Tribunais da Relação:
 
-i) Tribunal da Relação de Évora, de 10-07-2007, processo n.º 912/07-1<sup>51</sup>, no âmbito do qual se refere que «[a] pena de suspensão da execução da pena de prisão, enquanto pena autónoma de substituição, está sujeita ao prazo prescricional de 4 anos - art. 122.º n.º 1 d) do C. Penal»;
+i) Tribunal da Relação de Évora, de 10-07-2007, processo n.º 912/07-151, no âmbito do qual se refere que «[a] pena de suspensão da execução da pena de prisão, enquanto pena autónoma de substituição, está sujeita ao prazo prescricional de 4 anos - art. 122.º n.º 1 d) do C. Penal»;
 
-ii) Tribunal da Relação de Coimbra, de 04-06-2008, processo n.º 63/96.1TBVLF.C1<sup>52</sup>, em que se refere que «[a]s penas de substituição, como verdadeiras penas, encontram-se sujeitas a um prazo de prescrição autónomo do prazo de prescrição da pena principal substituída, o que nos termos do artigo 122.º, n.º 1, alínea d), do C. Penal ocorre com o decurso de quatro (4) anos a partir do trânsito em julgado da sentença condenatória, sem prejuízo das causas de suspensão e interrupção estabelecidas nos artigos 125.º e 126.º Código Penal»;
+ii) Tribunal da Relação de Coimbra, de 04-06-2008, processo n.º 63/96.1TBVLF.C152, em que se refere que «[a]s penas de substituição, como verdadeiras penas, encontram-se sujeitas a um prazo de prescrição autónomo do prazo de prescrição da pena principal substituída, o que nos termos do artigo 122.º, n.º 1, alínea d), do C. Penal ocorre com o decurso de quatro (4) anos a partir do trânsito em julgado da sentença condenatória, sem prejuízo das causas de suspensão e interrupção estabelecidas nos artigos 125.º e 126.º Código Penal»;
 
-iii) Tribunal da Relação de Évora, de 25-09-2012, processo n.º 2787/04.2PBSTB.E1<sup>53</sup>, onde se decidiu que «[a] pena de prisão com execução suspensa está sujeita a prazo de prescrição autónomo do prazo de prescrição da pena principal substituída»;
+iii) Tribunal da Relação de Évora, de 25-09-2012, processo n.º 2787/04.2PBSTB.E153, onde se decidiu que «[a] pena de prisão com execução suspensa está sujeita a prazo de prescrição autónomo do prazo de prescrição da pena principal substituída»;
 
-iv) Tribunal da Relação do Porto, de 25-02-2015, processo n.º 496/96.3PSPRT-A.P1<sup>54</sup>, aí se decidindo que «o prazo prescricional da pena suspensa, conta-se da data do trânsito em julgado da sentença condenatória, mas sem prejuízo das causas de suspensão e interrupção estabelecidas no Código Penal, designadamente a execução que logo o interrompe, assim permanecendo até ao decurso do período de suspensão, após o que se inicia novo prazo que correrá até à revogação ou extinção dessa pena, caso estas se verifiquem antes de ficar completo o legalmente exigido prazo prescricional de 4 anos»;
+iv) Tribunal da Relação do Porto, de 25-02-2015, processo n.º 496/96.3PSPRT-A.P154, aí se decidindo que «o prazo prescricional da pena suspensa, conta-se da data do trânsito em julgado da sentença condenatória, mas sem prejuízo das causas de suspensão e interrupção estabelecidas no Código Penal, designadamente a execução que logo o interrompe, assim permanecendo até ao decurso do período de suspensão, após o que se inicia novo prazo que correrá até à revogação ou extinção dessa pena, caso estas se verifiquem antes de ficar completo o legalmente exigido prazo prescricional de 4 anos»;
 
-v) Tribunal da Relação de Évora, de 21-03-2017, processo n.º 49/99.4JALRA.E1<sup>55</sup>, concluindo-se que «é aplicável à pena substitutiva de Suspensão da execução da prisão o prazo prescricional de 4 anos previsto no art. 122.º n.º 1 d) do C. Penal»;
+v) Tribunal da Relação de Évora, de 21-03-2017, processo n.º 49/99.4JALRA.E155, concluindo-se que «é aplicável à pena substitutiva de Suspensão da execução da prisão o prazo prescricional de 4 anos previsto no art. 122.º n.º 1 d) do C. Penal»;
 
-vi) Tribunal da Relação de Lisboa, de 19-09-2017, processo n.º 86/12.5PGLRS-A.L1-5<sup>56</sup>, onde se refere que «Da natureza da suspensão da execução da pena de prisão como verdadeira pena autónoma, de substituição, decorre a sua necessária sujeição a prazo prescricional autónomo do prazo de prescrição da pena principal substituída, sendo aquele prazo o de 4 anos a que se refere o artigo 122.º, n.º l, alínea d), do C. Penal»;
+vi) Tribunal da Relação de Lisboa, de 19-09-2017, processo n.º 86/12.5PGLRS-A.L1-556, onde se refere que «Da natureza da suspensão da execução da pena de prisão como verdadeira pena autónoma, de substituição, decorre a sua necessária sujeição a prazo prescricional autónomo do prazo de prescrição da pena principal substituída, sendo aquele prazo o de 4 anos a que se refere o artigo 122.º, n.º l, alínea d), do C. Penal»;
 
-vii) Tribunal da Relação de Évora, de 08-05-2018, processo n.º 321/08.4TASLV.E1<sup>57</sup>, onde se estabelece que «[e]nquanto pena autónoma, de substituição, e tendo em conta que a arguida foi condenada na pena única de 2 anos de prisão, suspensa na sua execução, sendo a suspensão subordinada ao dever de entregar, no prazo de 6 meses, a uma instituição de solidariedade social a quantia de € 5.000,00, está sujeita ao prazo de prescrição de 4 anos prevista no artigo 122.º, n.º 1, alínea d), do CP»;
+vii) Tribunal da Relação de Évora, de 08-05-2018, processo n.º 321/08.4TASLV.E157, onde se estabelece que «[e]nquanto pena autónoma, de substituição, e tendo em conta que a arguida foi condenada na pena única de 2 anos de prisão, suspensa na sua execução, sendo a suspensão subordinada ao dever de entregar, no prazo de 6 meses, a uma instituição de solidariedade social a quantia de € 5.000,00, está sujeita ao prazo de prescrição de 4 anos prevista no artigo 122.º, n.º 1, alínea d), do CP»;
 
-viii) Tribunal da Relação de Guimarães, de 19-11-2018, processo n.º 273/06.5TAVLN.G3<sup>58</sup>, determinando-se que «[a] suspensão da execução da pena de prisão, enquanto pena de substituição, assume a categoria de pena autónoma, encontrando-se sujeita a um prazo de prescrição também autónomo do prazo de prescrição da pena substituída»;
+viii) Tribunal da Relação de Guimarães, de 19-11-2018, processo n.º 273/06.5TAVLN.G358, determinando-se que «[a] suspensão da execução da pena de prisão, enquanto pena de substituição, assume a categoria de pena autónoma, encontrando-se sujeita a um prazo de prescrição também autónomo do prazo de prescrição da pena substituída»;
 
-ix) Tribunal da Relação de Coimbra, de 18-03-2020, processo n.º 359/03.8PBCVL.C1<sup>59</sup>, entendendo-se que «[a] pena de substituição da execução da pena, fruto da sua autonomia face à pena de prisão, prescreve no prazo de quatro anos, fixado na alínea d) do n.º 1 do artigo 122.º do CP»;
+ix) Tribunal da Relação de Coimbra, de 18-03-2020, processo n.º 359/03.8PBCVL.C159, entendendo-se que «[a] pena de substituição da execução da pena, fruto da sua autonomia face à pena de prisão, prescreve no prazo de quatro anos, fixado na alínea d) do n.º 1 do artigo 122.º do CP»;
 
-x) Tribunal da Relação de Évora, de 08-06-2021, processo n.º 509/06.2TAABF-C.E1<sup>60</sup>, onde se decidiu que «[a] suspensão da execução da pena de prisão é uma pena autónoma, de substituição, aplicada e executada em vez da pena de prisão, que tem, por isso, um prazo de prescrição que não se confunde com o desta, sendo o mesmo de 4 anos, nos termos do Artigo 122.º n.º 1 alínea d) do C. Penal»;
+x) Tribunal da Relação de Évora, de 08-06-2021, processo n.º 509/06.2TAABF-C.E160, onde se decidiu que «[a] suspensão da execução da pena de prisão é uma pena autónoma, de substituição, aplicada e executada em vez da pena de prisão, que tem, por isso, um prazo de prescrição que não se confunde com o desta, sendo o mesmo de 4 anos, nos termos do Artigo 122.º n.º 1 alínea d) do C. Penal»;
 
-xi) Tribunal da Relação de Lisboa, de 11-01-2022, processo n.º 893/13.1IDLSB.L1-5<sup>61</sup>, onde se explica que «Da natureza da suspensão da execução da pena de prisão como verdadeira pena autónoma, de substituição, decorre a sua necessária sujeição a prazo prescricional, autónomo do prazo de prescrição da pena principal substituída, sendo aquele prazo o de 4 anos a que se refere o artigo 122.º, n.º 1, alínea d), do Código Penal - que é o aplicável a todas as penas não contempladas nas três alíneas anteriores, que dispõem apenas sobre as penas de prisão»;
+xi) Tribunal da Relação de Lisboa, de 11-01-2022, processo n.º 893/13.1IDLSB.L1-561, onde se explica que «Da natureza da suspensão da execução da pena de prisão como verdadeira pena autónoma, de substituição, decorre a sua necessária sujeição a prazo prescricional, autónomo do prazo de prescrição da pena principal substituída, sendo aquele prazo o de 4 anos a que se refere o artigo 122.º, n.º 1, alínea d), do Código Penal - que é o aplicável a todas as penas não contempladas nas três alíneas anteriores, que dispõem apenas sobre as penas de prisão»;
 
-xii) Tribunal da Relação de Évora, de 08-03-2022, processo n.º 65/12.2GAMCQ.E1<sup>62</sup>, explicando que «[s]endo a pena de prisão suspensa na sua execução uma verdadeira pena autónoma da pena de prisão, está também sujeita a um prazo de prescrição autónomo, que é o previsto no artigo 122.º, n.º 1 alínea d) do C. Penal, do prazo de prescrição da pena de prisão principal substituída»;
+xii) Tribunal da Relação de Évora, de 08-03-2022, processo n.º 65/12.2GAMCQ.E162, explicando que «[s]endo a pena de prisão suspensa na sua execução uma verdadeira pena autónoma da pena de prisão, está também sujeita a um prazo de prescrição autónomo, que é o previsto no artigo 122.º, n.º 1 alínea d) do C. Penal, do prazo de prescrição da pena de prisão principal substituída»;
 
-xiii) Tribunal da Relação do Porto, de 23-03-2022, processo n.º 1048/08.2TAVFR-G.P1<sup>63</sup>, explicitando que «[t]raduzindo-se a pena de suspensão da execução da pena de prisão numa pena autónoma, a estatuição normativa que reclama a regulação do seu prazo de prescrição é a contida na alínea d) do n.º 1 do artigo 122.º do Código Penal, integrando tal pena de substituição, portanto, os “casos restantes” aí referidos, por prévia exclusão dos mencionados nas alíneas precedentes; daí resulta que o seu prazo de prescrição é de 4 anos, contados a partir da data do trânsito em julgado da sentença condenatória, nos termos do n.º 2 do mesmo artigo»;
+xiii) Tribunal da Relação do Porto, de 23-03-2022, processo n.º 1048/08.2TAVFR-G.P163, explicitando que «[t]raduzindo-se a pena de suspensão da execução da pena de prisão numa pena autónoma, a estatuição normativa que reclama a regulação do seu prazo de prescrição é a contida na alínea d) do n.º 1 do artigo 122.º do Código Penal, integrando tal pena de substituição, portanto, os “casos restantes” aí referidos, por prévia exclusão dos mencionados nas alíneas precedentes; daí resulta que o seu prazo de prescrição é de 4 anos, contados a partir da data do trânsito em julgado da sentença condenatória, nos termos do n.º 2 do mesmo artigo»;
 
-xiv) Tribunal da Relação do Porto, de 04-10-2022, processo n.º 32/01.1IDAVR-C.P1<sup>64</sup>, no âmbito do qual se estabeleceu que «as penas de prisão principais prescrevem, consoante a sua duração, dentro dos prazos estabelecidas nas alíneas a) a c), do n.º 1, do artigo 122.º, do Código Penal, ao passo que as penas suspensas, substitutivas, integram os casos restantes referidos na alínea d), do n.º 1, do artigo 122.º do Código Penal, onde se prevê o prazo de 4 anos de prescrição»;
+xiv) Tribunal da Relação do Porto, de 04-10-2022, processo n.º 32/01.1IDAVR-C.P164, no âmbito do qual se estabeleceu que «as penas de prisão principais prescrevem, consoante a sua duração, dentro dos prazos estabelecidas nas alíneas a) a c), do n.º 1, do artigo 122.º, do Código Penal, ao passo que as penas suspensas, substitutivas, integram os casos restantes referidos na alínea d), do n.º 1, do artigo 122.º do Código Penal, onde se prevê o prazo de 4 anos de prescrição»;
 
-xv) Tribunal da Relação de Guimarães, de 09-04-2024, processo n.º 1122/08.5TABRG.G1<sup>65</sup>, estabelecendo que «pena de suspensão da execução da pena de prisão é uma verdadeira pena autónoma, substitutiva da pena privativa da liberdade.
+xv) Tribunal da Relação de Guimarães, de 09-04-2024, processo n.º 1122/08.5TABRG.G165, estabelecendo que «pena de suspensão da execução da pena de prisão é uma verdadeira pena autónoma, substitutiva da pena privativa da liberdade.
 
 II - É de 4 anos, o prazo de prescrição dessa pena de substituição, que não tenha sido entretanto revogada, por se enquadrar nos “casos restantes” previstos na alínea d) do artigo 122.º n.º 1 do Código Penal»;
 
-xvi) Tribunal da Relação do Porto, de 18-09-2024, processo n.º 633/14.8GBOAZ-B.P1<sup>66</sup>, onde se refere que «[a] pena de substituição (suspensão da execução, trabalho a favor da comunidade ou multa de substituição) é uma pena autónoma e por isso não se enquadra nas alíneas a), b) e c) do artigo 122.º, n.º 1 do Código Penal que dizem respeito às penas de prisão, mas antes na alínea d) relativa às restantes penas, sendo o respetivo prazo prescricional de quatro anos».
+xvi) Tribunal da Relação do Porto, de 18-09-2024, processo n.º 633/14.8GBOAZ-B.P166, onde se refere que «[a] pena de substituição (suspensão da execução, trabalho a favor da comunidade ou multa de substituição) é uma pena autónoma e por isso não se enquadra nas alíneas a), b) e c) do artigo 122.º, n.º 1 do Código Penal que dizem respeito às penas de prisão, mas antes na alínea d) relativa às restantes penas, sendo o respetivo prazo prescricional de quatro anos».
 
-xvii) Tribunal da Relação de Coimbra, de 20-11-2024, processo n.º 292/10.7GAMGL-I.C1<sup>67</sup>, concluindo-se que “[u]ma vez que as alíneas a) a c) do n.º 1 do artigo 122.º do Código Penal se referem, apenas, a «penas de prisão», a pena de suspensão da execução da pena de prisão inclui-se nos «casos restantes» referidos na alínea d), sendo o seu prazo prescricional de 4 anos, qualquer que seja a medida da pena principal, aplicando-se-lhe in totum o regime da suspensão e interrupção da prescrição contido nos artigos 125.º e 126.º”.
+xvii) Tribunal da Relação de Coimbra, de 20-11-2024, processo n.º 292/10.7GAMGL-I.C167, concluindo-se que “[u]ma vez que as alíneas a) a c) do n.º 1 do artigo 122.º do Código Penal se referem, apenas, a «penas de prisão», a pena de suspensão da execução da pena de prisão inclui-se nos «casos restantes» referidos na alínea d), sendo o seu prazo prescricional de 4 anos, qualquer que seja a medida da pena principal, aplicando-se-lhe in totum o regime da suspensão e interrupção da prescrição contido nos artigos 125.º e 126.º”.
 
 II.5. Proposições conclusivas
 
@@ -1032,13 +1080,13 @@ Se há penas que não oferecem qualquer dúvida acerca do prazo aplicável - com
 
 Conforme se procurou demonstrar supra, não obstante a Lei não o diga expressamente, é entendimento esmagador na doutrina e na jurisprudência que a pena suspensa é concebida como uma verdadeira pena, autónoma, distinta da pena de prisão que visa substituir. Isso mesmo foi já por diversas vezes reafirmado por todos os Tribunais da Relação e por este Supremo Tribunal, nomeadamente em numerosos acórdãos e nas pronúncias de fixação de jurisprudência atinentes a vários aspetos da pena de suspensão da execução da prisão, atrás enumerados. Apesar da discutibilidade de algumas matérias que a pena de substituição em causa tem suscitado, e mesmo que a lei o não assuma expressamente, esse aspeto constitui um dado adquirido, como tem sido sublinhado: a natureza autónoma da pena suspensa.
 
-Face a tal natureza, é de considerar legítima a conclusão de haver uma estrutura, pressupostos e finalidades - em suma, um regime - que a diferencia da pena de prisão. Por isso, também no tocante ao regime da prescrição se justifica que a pena suspensa tenha um regime específico. Como tal, um prazo prescricional autónomo, à semelhança do que sucede com todas as demais penas legalmente consagradas. Inexiste, assim, qualquer pena que não tenha um concreto e distinto prazo de prescrição<sup>68</sup>, independentemente de se tratar de pena principal, acessória ou substitutiva.
+Face a tal natureza, é de considerar legítima a conclusão de haver uma estrutura, pressupostos e finalidades - em suma, um regime - que a diferencia da pena de prisão. Por isso, também no tocante ao regime da prescrição se justifica que a pena suspensa tenha um regime específico. Como tal, um prazo prescricional autónomo, à semelhança do que sucede com todas as demais penas legalmente consagradas. Inexiste, assim, qualquer pena que não tenha um concreto e distinto prazo de prescrição68, independentemente de se tratar de pena principal, acessória ou substitutiva.
 
 Conforme se referiu, terminado o período de suspensão da execução da pena, deparamo-nos com três alternativas: ou a pena é declarada extinta; ou é revogada; ou fica a aguardar o decurso do procedimento para averiguar da sua eventual revogação, ou seja, uma fase incidental de apuramento dos motivos do incumprimento.
 
 Todavia, não é raro acontecer, nomeadamente quando esteja pendente outro processo-crime em que o condenado seja suspeito de ter praticado um crime no decurso do período da suspensão, que o processo em que foi aplicada a pena suspensa fique, durante um período considerável, a aguardar a sua resolução.
 
-Como atrás se referiu, não se encontra legalmente definido qualquer prazo máximo para que seja decidido esse incidente de incumprimento. Do mesmo modo, afigura-se manifesto que o condenado não poderá aguardar indefinidamente, de forma indesejável para si e para os interesses de realização da justiça material, combinados com as finalidades de aplicação das penas. Como tal, apenas o prazo de prescrição poderá fixar a data-limite até que esse incidente seja resolvido, seja mediante a sua revogação ou eventual extinção da pena<sup>69</sup>.
+Como atrás se referiu, não se encontra legalmente definido qualquer prazo máximo para que seja decidido esse incidente de incumprimento. Do mesmo modo, afigura-se manifesto que o condenado não poderá aguardar indefinidamente, de forma indesejável para si e para os interesses de realização da justiça material, combinados com as finalidades de aplicação das penas. Como tal, apenas o prazo de prescrição poderá fixar a data-limite até que esse incidente seja resolvido, seja mediante a sua revogação ou eventual extinção da pena69.
 
 Ultrapassado o decurso do prazo de prescrição, já não será possível revogar a pena suspensa - entretanto já prescrita - e determinar o cumprimento da pena de prisão principal.
 
@@ -1056,13 +1104,13 @@ Na verdade, caso o legislador pretendesse que a pena suspensa integrasse, també
 
 Como refere Pedro Gama da Silva, «[o] legislador tem perfeita noção que prescreveu, no Título III do Livro I do Código Penal, diversas penas criminais como consequências jurídicas dos factos. Não ignora, com certeza, a panóplia de penas tipificadas. Assim, lançando mão do elemento gramatical, ou seja, das palavras em que a lei se exprime, “a letra da lei” não pode ser mais clara: para efeitos do prazo de prescrição das penas, em regra, de um lado, temos as penas de prisão e, do outro lado, temos as restantes penas («nos casos restantes»)
 
-O contexto da lei (elemento sistemático), considerando a unidade e coerência do sistema jurídico, diz-nos que o legislador, quando quis, por exemplo, submeter a pena de multa aplicada às pessoas colectivas aos prazos da pena de prisão, deixou-o expressamente prescrito, conforme ocorre no artigo 122.º, n.º 3, do CP. E, quando quis que apenas se considerasse, para efeitos de prescrição, a pena de prisão, apesar do crime também ser punido com multa, não deixou de o dizer expressamente (cf. artigo 118.º, n.º 4, do CP). Acresce que a técnica legislativa utilizada para distinguir os crimes puníveis com pena de prisão dos “casos restantes” é em tudo semelhante à prevista no artigo 118.º, n.º 1, do CP, onde se fixa o prazo de prescrição do procedimento criminal, o que reforça a dicotomia pena de prisão/restantes penas»<sup>70</sup>.
+O contexto da lei (elemento sistemático), considerando a unidade e coerência do sistema jurídico, diz-nos que o legislador, quando quis, por exemplo, submeter a pena de multa aplicada às pessoas colectivas aos prazos da pena de prisão, deixou-o expressamente prescrito, conforme ocorre no artigo 122.º, n.º 3, do CP. E, quando quis que apenas se considerasse, para efeitos de prescrição, a pena de prisão, apesar do crime também ser punido com multa, não deixou de o dizer expressamente (cf. artigo 118.º, n.º 4, do CP). Acresce que a técnica legislativa utilizada para distinguir os crimes puníveis com pena de prisão dos “casos restantes” é em tudo semelhante à prevista no artigo 118.º, n.º 1, do CP, onde se fixa o prazo de prescrição do procedimento criminal, o que reforça a dicotomia pena de prisão/restantes penas»70.
 
 Assim, «[a] interpretação de tal norma, operada à luz do princípio da legalidade criminal, não permite outro entendimento que não seja o de que à pena de prisão suspensa na sua execução se aplica o prazo de prescrição da alínea d) do n.º 1 do artigo 122.º
 
-[...] Ao nível da interpretação jurídica, cujo «horizonte problemático» «tem de operar-se, necessariamente, a partir e dentro do princípio da legalidade», é proibida a analogia (contra reum ou in malem partem, não favore reum ou in bonam partem). A proibição de analogia, para além de fundamento constitucional, tem expressão no artigo 1.º, n.º 3, do CP. O recurso à analogia não é permitido nos casos em que tal recurso determine a atribuição ou agravação da responsabilidade criminal do agente»<sup>71</sup>.
+[...] Ao nível da interpretação jurídica, cujo «horizonte problemático» «tem de operar-se, necessariamente, a partir e dentro do princípio da legalidade», é proibida a analogia (contra reum ou in malem partem, não favore reum ou in bonam partem). A proibição de analogia, para além de fundamento constitucional, tem expressão no artigo 1.º, n.º 3, do CP. O recurso à analogia não é permitido nos casos em que tal recurso determine a atribuição ou agravação da responsabilidade criminal do agente»71.
 
-Os preceitos respeitantes à prescrição (do procedimento ou da pena) integram o conjunto de normas que, por serem restritivas de direitos fundamentais, devem preexistir à prática do ilícito-típico. Nessa medida, integram plenamente o domínio em que vigora o princípio da legalidade da perseguição penal<sup>72</sup>, com todas as consequências hermenêuticas inerentes ao princípio da proibição da analogia.
+Os preceitos respeitantes à prescrição (do procedimento ou da pena) integram o conjunto de normas que, por serem restritivas de direitos fundamentais, devem preexistir à prática do ilícito-típico. Nessa medida, integram plenamente o domínio em que vigora o princípio da legalidade da perseguição penal72, com todas as consequências hermenêuticas inerentes ao princípio da proibição da analogia.
 
 O exercício interpretativo subjacente à decisão da questão em apreço no presente recurso deverá partir da análise dos elementos literais, históricos e sistemáticos que se podem convocar.
 
@@ -1080,25 +1128,25 @@ A dita norma-guião assinala à tarefa interpretativa do aplicador duas funçõe
 
 Em direito penal, estas exigências são impostas pelo princípio da legalidade, consagrado, nos seus diversos corolários, no artigo 29.º da Constituição da República Portuguesa e no artigo 1.º do Código Penal.
 
-A letra da lei como ponto de partida da interpretação está diretamente relacionada com a exigência constitucional de que a norma incriminatória tenha de constar de uma lei, que entre nós é da exclusiva competência da Assembleia da República (salvo autorização ao Governo - artigo 165.º, n.º 1, al. c), da CRP), emanação direta da soberania do povo, para cumprir a ratio de garantia política do cidadão face ao poder punitivo estadual, que costuma traduzir-se no brocardo latino nullum crimen sine lege scripta<sup>73</sup>.
+A letra da lei como ponto de partida da interpretação está diretamente relacionada com a exigência constitucional de que a norma incriminatória tenha de constar de uma lei, que entre nós é da exclusiva competência da Assembleia da República (salvo autorização ao Governo - artigo 165.º, n.º 1, al. c), da CRP), emanação direta da soberania do povo, para cumprir a ratio de garantia política do cidadão face ao poder punitivo estadual, que costuma traduzir-se no brocardo latino nullum crimen sine lege scripta73.
 
 À exigência de que a interpretação da lei penal tenha na letra da lei um mínimo de correspondência verbal, corresponde o respeito pelo sentido literal possível, ou seja, o sentido que não está para além do sentido literal linguisticamente possível, sendo por ele claramente excluído.
 
-Por outro lado, enquanto limite da interpretação em direito penal (nullum crimen sine lege stricta), a exigência de correspondência verbal da interpretação na letra da lei fundamenta a proibição de analogia expressa no artigo 1.º, n.º 3, do Código Penal, em razão da qual «…não pode reivindicar-se de interpretação uma qualquer solução jurídica, por mais indicada axiológica e teleologicamente, que já não encontre apoio no texto da lei»<sup>74</sup>.
+Por outro lado, enquanto limite da interpretação em direito penal (nullum crimen sine lege stricta), a exigência de correspondência verbal da interpretação na letra da lei fundamenta a proibição de analogia expressa no artigo 1.º, n.º 3, do Código Penal, em razão da qual «…não pode reivindicar-se de interpretação uma qualquer solução jurídica, por mais indicada axiológica e teleologicamente, que já não encontre apoio no texto da lei»74.
 
 O disposto no n.º 3 do artigo 1.º do Código Penal revela-se extraordinariamente relevante para a dilucidação da questão, ao enunciar o princípio da proibição da analogia para «determinar a pena ou medida de segurança» que corresponde ao crime.
 
-O elemento ou critério racional ou teleológico da interpretação corresponde essencialmente às preocupações ou finalidades que a norma procurou atingir<sup>75</sup>, às necessidades de ordem social que visou satisfazer, o que em direito penal pressupõe a definição do bem jurídico protegido e da concreta forma de proteção visada pela norma incriminadora.
+O elemento ou critério racional ou teleológico da interpretação corresponde essencialmente às preocupações ou finalidades que a norma procurou atingir75, às necessidades de ordem social que visou satisfazer, o que em direito penal pressupõe a definição do bem jurídico protegido e da concreta forma de proteção visada pela norma incriminadora.
 
-Sobre este elemento da interpretação, Karl Larenz sublinha a importância do princípio de que à igualdade de previsões valorativas deve corresponder igualdade de tratamento legislativo. Refere este Autor: «De entre os critérios de interpretação teleológico-objetivos, que decorrem dos fins objetivos do direito, mais rigorosamente da ideia de justiça, cabe uma importância decisiva ao princípio da igualdade de tratamento do que é (segundo as valorações gerais do ordenamento jurídico) igual (ou de sentido idêntico). A diferente valoração de previsões valorativamente análogas aparece como uma contradição de valoração, que não é compaginável com a ideia de justiça, no sentido de igual medida”<sup>76</sup>.
+Sobre este elemento da interpretação, Karl Larenz sublinha a importância do princípio de que à igualdade de previsões valorativas deve corresponder igualdade de tratamento legislativo. Refere este Autor: «De entre os critérios de interpretação teleológico-objetivos, que decorrem dos fins objetivos do direito, mais rigorosamente da ideia de justiça, cabe uma importância decisiva ao princípio da igualdade de tratamento do que é (segundo as valorações gerais do ordenamento jurídico) igual (ou de sentido idêntico). A diferente valoração de previsões valorativamente análogas aparece como uma contradição de valoração, que não é compaginável com a ideia de justiça, no sentido de igual medida”76.
 
-O elemento sistemático da interpretação, a que Karl Larenz se refere como o “contexto significativo da lei”, parte do princípio de que «[...] cada proposição jurídica só se infere, as mais das vezes, quando se considera como parte da regulação a que pertence»<sup>77</sup>.
+O elemento sistemático da interpretação, a que Karl Larenz se refere como o “contexto significativo da lei”, parte do princípio de que «[...] cada proposição jurídica só se infere, as mais das vezes, quando se considera como parte da regulação a que pertence»77.
 
-Nas palavras de Manuel de Andrade, o intérprete deve recorrer «[...] à conexão das disposições legais e preferir a interpretação mercê da qual a lei apresente a estrutura mais consequente e organicamente correta; e em particular havemos de tomar em consideração o encadeamento das diversas leis, porque uma exigência fundamental de toda a sã legislação é que as leis se ajustem umas às outras e não redundem em congérie de disposições desconexas»<sup>78</sup>. Por outro lado, ainda de acordo com Manuel de Andrade, o chamado elemento histórico da interpretação «…abrange a história dos respetivos institutos e, em particular, o seu regime jurídico no direito imediatamente anterior à lei que se trata de interpretar»<sup>79</sup>. Trata-se de tirar as possíveis consequências do momento histórico em que surgiu a lei, para a determinação do seu atual sentido, ali incluindo os respetivos trabalhos preparatórios que, por vezes, constituem contributos muito relevantes quer do ponto de vista heurístico, quer na eliminação de dúvidas reconhecidas.
+Nas palavras de Manuel de Andrade, o intérprete deve recorrer «[...] à conexão das disposições legais e preferir a interpretação mercê da qual a lei apresente a estrutura mais consequente e organicamente correta; e em particular havemos de tomar em consideração o encadeamento das diversas leis, porque uma exigência fundamental de toda a sã legislação é que as leis se ajustem umas às outras e não redundem em congérie de disposições desconexas»78. Por outro lado, ainda de acordo com Manuel de Andrade, o chamado elemento histórico da interpretação «…abrange a história dos respetivos institutos e, em particular, o seu regime jurídico no direito imediatamente anterior à lei que se trata de interpretar»79. Trata-se de tirar as possíveis consequências do momento histórico em que surgiu a lei, para a determinação do seu atual sentido, ali incluindo os respetivos trabalhos preparatórios que, por vezes, constituem contributos muito relevantes quer do ponto de vista heurístico, quer na eliminação de dúvidas reconhecidas.
 
 Importa, neste passo, recordar que a tarefa hermenêutica que se coloca ao Supremo Tribunal, no âmbito de uma decisão de fixação de jurisprudência, não é a de criar norma em substituição do legislador, mas a de que perscrutar o sentido da mesma quando incompleta ou imperfeitamente formulada, potenciando interpretações contrastantes e incompatíveis entre si. E tal só é excecionalmente admitido quando o esclarecimento sobre as dúvidas hermenêuticas tenha inequívoca repercussão no tratamento jurídico-processual de questões sujeitas à opção por critérios divergentes quanto à interpretação sobre o seu sentido e alcance. Acresce, ainda, que uma tal decisão há de ser reclamada pelas concretas necessidades prático-aplicativas, enquanto ocorrências processualmente suscitadas e carentes de solução.
 
-Por fim, como entende Castanheira Neves, a questão de saber “[...] como se conjugam todos esses elementos numa mesma interpretação ou qual a relação que entre eles aí deve ser pensada [...] é um ponto para que a teoria tradicional não logrou uma solução. [...] Nesta perspetiva [prático-normativa e problemático-concreta] o relevo dos elementos da interpretação só pode ser aquele que o problema concreto justifique, ou melhor, normativo-argumentativamente solicite. Que o mesmo é dizer que terá maior relevo ou polarizará a interpretação aquele elemento que, perante os pontos problemáticos especificamente acentuados no caso concreto, tenha maior força argumentativa na utilização da norma como critério de solução desses pontos.»<sup>80</sup>.
+Por fim, como entende Castanheira Neves, a questão de saber “[...] como se conjugam todos esses elementos numa mesma interpretação ou qual a relação que entre eles aí deve ser pensada [...] é um ponto para que a teoria tradicional não logrou uma solução. [...] Nesta perspetiva [prático-normativa e problemático-concreta] o relevo dos elementos da interpretação só pode ser aquele que o problema concreto justifique, ou melhor, normativo-argumentativamente solicite. Que o mesmo é dizer que terá maior relevo ou polarizará a interpretação aquele elemento que, perante os pontos problemáticos especificamente acentuados no caso concreto, tenha maior força argumentativa na utilização da norma como critério de solução desses pontos.»80.
 
 No caso concreto, deverá partir-se do elemento literal enquadrado pelos demais elementos da interpretação, maxime os elementos sistemático e teleológico, a fim de se alcançar a correta solução para oposição de julgados a decidir.
 
@@ -1120,21 +1168,21 @@ O que está em causa na presente decisão de fixação de jurisprudência, de fo
 
 Este Supremo Tribunal de Justiça tem-se pronunciado, de forma predominante, nesse sentido, aliás, acolhido em pronúncias anteriores e, pelo menos numa posterior, à do acórdão de 28-02-2018.
 
-Assim, neste sentido, o acórdão do Supremo Tribunal de Justiça, de 05-08-2016, processo n.º 11/02.1PCPTS-A.S1, relatado pela Conselheira Helena Moniz<sup>81</sup>, onde se refere que «[a] pena de substituição é uma pena autónoma, foi esta a pena aplicada, pelo que é esta a pena que deve ser executada. Ora, sabendo que os prazos de prescrição estabelecidos no art. 122.º, n.º 1, do CP, nas alíneas a), b) e c) se referem a penas de prisão, o prazo de prescrição da pena que aqui deve ser executada, não sendo de privação da liberdade, será o previsto na alínea d) do mesmo dispositivo, isto é, 4 anos, pois é este o prazo de prescrição aplicável aos “restantes casos” que não os referidos nas alíneas a), b) e c), do n.º 1, do art. 122.º, do CP.
+Assim, neste sentido, o acórdão do Supremo Tribunal de Justiça, de 05-08-2016, processo n.º 11/02.1PCPTS-A.S1, relatado pela Conselheira Helena Moniz81, onde se refere que «[a] pena de substituição é uma pena autónoma, foi esta a pena aplicada, pelo que é esta a pena que deve ser executada. Ora, sabendo que os prazos de prescrição estabelecidos no art. 122.º, n.º 1, do CP, nas alíneas a), b) e c) se referem a penas de prisão, o prazo de prescrição da pena que aqui deve ser executada, não sendo de privação da liberdade, será o previsto na alínea d) do mesmo dispositivo, isto é, 4 anos, pois é este o prazo de prescrição aplicável aos “restantes casos” que não os referidos nas alíneas a), b) e c), do n.º 1, do art. 122.º, do CP.
 
 Nos termos do art. 122.º, n.º 2, do CP, este prazo começa logo a contar-se a partir do trânsito em julgado [...] e como a execução da pena de substituição logo se inicia com aquele trânsito, a 05.05.2003 iniciou-se a execução da pena de substituição. Sabendo que a pena tinha uma duração de 3 anos, entre 05.05.2003 e 05.05.2006 aquela pena esteve em execução. Assim sendo, durante este período temporal a prescrição da pena interrompeu-se, por força do disposto no art. 126.º, n.º 1, al. a), do CP.
 
 Findo este período, e por força do disposto no art. 126.º, n.º 2, do CP, começou novo prazo, de 4 anos [...]».
 
-Do mesmo modo, no acórdão do Supremo Tribunal de Justiça, de 05-09-2017, processo n.º 150/05.7IDPRT-D.S1, relatado pela Conselheira Rosa Tching<sup>82</sup> considerou-se que se impõe «realçar que, não obstante a circunstância de formalmente o legislador português nunca ter consagrado a suspensão da execução da pena como uma “pena autónoma”, é indubitável, quer a nível doutrinal, quer jurisprudencial, ter mesma suspensão emergido como uma espécie de pena de substituição» pelo que «[c]onsequentemente, e nos termos do disposto no artigo 122.º, n.º 1, al. d), e n.º 2, do Código Penal, a prescrição dessa pena de substituição ocorre com o decurso do prazo de quatro anos, contados a partir do trânsito em julgado da sentença condenatória, sem prejuízo, contudo, das causas de suspensão e de interrupção da prescrição estabelecidas nos artigos 125.º e 126.º do mesmo Código Penal, nomeadamente com a sua execução, que pode configurar-se no simples decurso do tempo até ao termo do período da suspensão». Desta forma, «a pena de prisão suspensa na sua execução prescreve se o processo estiver pendente durante 4 anos, contados desde a data em que se completou o período de suspensão inicialmente fixado, sem que aquele prazo tenha sido prorrogado e sem que a suspensão tenha sido revogada ou a pena declarada extinta (nos termos do preceituado no artigo 57.º, n.<sup>os</sup>1 e 2, do Código Penal)».
+Do mesmo modo, no acórdão do Supremo Tribunal de Justiça, de 05-09-2017, processo n.º 150/05.7IDPRT-D.S1, relatado pela Conselheira Rosa Tching82 considerou-se que se impõe «realçar que, não obstante a circunstância de formalmente o legislador português nunca ter consagrado a suspensão da execução da pena como uma “pena autónoma”, é indubitável, quer a nível doutrinal, quer jurisprudencial, ter mesma suspensão emergido como uma espécie de pena de substituição» pelo que «[c]onsequentemente, e nos termos do disposto no artigo 122.º, n.º 1, al. d), e n.º 2, do Código Penal, a prescrição dessa pena de substituição ocorre com o decurso do prazo de quatro anos, contados a partir do trânsito em julgado da sentença condenatória, sem prejuízo, contudo, das causas de suspensão e de interrupção da prescrição estabelecidas nos artigos 125.º e 126.º do mesmo Código Penal, nomeadamente com a sua execução, que pode configurar-se no simples decurso do tempo até ao termo do período da suspensão». Desta forma, «a pena de prisão suspensa na sua execução prescreve se o processo estiver pendente durante 4 anos, contados desde a data em que se completou o período de suspensão inicialmente fixado, sem que aquele prazo tenha sido prorrogado e sem que a suspensão tenha sido revogada ou a pena declarada extinta (nos termos do preceituado no artigo 57.º, n.os1 e 2, do Código Penal)».
 
-Também o acórdão do Supremo Tribunal de Justiça, de 13-11-2014, processo n.º 464/07.1PCLSB-A.S1, relatado pelo Conselheiro Rodrigues da Costa<sup>83</sup>, considerou que «[t]ratando-se de pena de prisão de execução suspensa, o prazo de prescrição é o da alínea d), do n.º 1, do art. 122.º do CP, dado que é uma pena autónoma (pena de substituição), que se não confunde com qualquer pena de prisão».
+Também o acórdão do Supremo Tribunal de Justiça, de 13-11-2014, processo n.º 464/07.1PCLSB-A.S1, relatado pelo Conselheiro Rodrigues da Costa83, considerou que «[t]ratando-se de pena de prisão de execução suspensa, o prazo de prescrição é o da alínea d), do n.º 1, do art. 122.º do CP, dado que é uma pena autónoma (pena de substituição), que se não confunde com qualquer pena de prisão».
 
-Da mesma forma, no acórdão do Supremo Tribunal de Justiça, de 13-02-2014, no processo n.º 1069/01.6PCOER-B.S1, relatado pelo Conselheiro Manuel Braz<sup>84</sup>, decidiu-se que “[o] artigo 122.º do CP estabelece, no n.º 1, os prazos de prescrição das penas. As alíneas a), b) e c) referem-se às penas de prisão de duração igual ou superior a 2 anos. Os restantes casos caem no âmbito de previsão da alínea d).
+Da mesma forma, no acórdão do Supremo Tribunal de Justiça, de 13-02-2014, no processo n.º 1069/01.6PCOER-B.S1, relatado pelo Conselheiro Manuel Braz84, decidiu-se que “[o] artigo 122.º do CP estabelece, no n.º 1, os prazos de prescrição das penas. As alíneas a), b) e c) referem-se às penas de prisão de duração igual ou superior a 2 anos. Os restantes casos caem no âmbito de previsão da alínea d).
 
 A pena de suspensão da execução da prisão não é uma pena de prisão, não se lhe aplicando por isso as disposições das alíneas a), b) e c). Inclui-se por essa razão «nos casos restantes», sendo-lhe aplicável a disposição da alínea d), que estabelece como prazo de prescrição 4 anos.”
 
-Finalmente, e neste mesmo sentido, pode ler-se no acórdão do Supremo Tribunal de Justiça, de 28-06-2018, processo n.º 665/08.5PILRS-B.S1, relatado pelo Conselheiro Nuno Gomes da Silva<sup>85</sup>, que «[o] art. 122.º do CP fixa os prazos de prescrição das penas. As alíneas a) a c) do n.º 1 estabelecem os prazos de prescrição de penas de prisão consoante a sua dimensão. A alínea d) estabelece o prazo de prescrição de 4 anos para os “casos restantes”.
+Finalmente, e neste mesmo sentido, pode ler-se no acórdão do Supremo Tribunal de Justiça, de 28-06-2018, processo n.º 665/08.5PILRS-B.S1, relatado pelo Conselheiro Nuno Gomes da Silva85, que «[o] art. 122.º do CP fixa os prazos de prescrição das penas. As alíneas a) a c) do n.º 1 estabelecem os prazos de prescrição de penas de prisão consoante a sua dimensão. A alínea d) estabelece o prazo de prescrição de 4 anos para os “casos restantes”.
 
 A pena de suspensão de execução da pena de prisão é uma pena de substituição, uma pena autónoma, e por isso, naturalmente, o seu prazo de prescrição terá que ser o dos ditos “casos restantes”, ou seja, de 4 anos.»
 
@@ -1142,7 +1190,7 @@ A conceção da diferente natureza entre a pena principal - de prisão - e a sub
 
 A distinção da natureza jurídica entre essas duas espécies de penas - não sendo, definitivamente, a pena suspensa uma modalidade de execução da prisão - é justificada, como se referiu, por tal pena de substituição revestir um significado político-criminal próprio, ligado a um propósito de prevenção especial positiva, cujo fundamento terá seguramente sido bem distinto do da pena principal de prisão; isso conduz, necessariamente, a uma destrinça entre a prescrição da pena substitutiva e a prescrição da pena principal de prisão no tocante à fundamentação da aplicação de cada uma delas. Um entendimento contrário torna-se incompatível com essa natureza, pois que tal posição teria implícita a convicção de que a suspensão da pena seria um mero modo de execução da pena de prisão, e não uma verdadeira pena, posição amplamente exautorada pela doutrina e pela jurisprudência.
 
-Diferentemente serão, assim, os casos de prisão subsidiária, cujo prazo prescricional depende do prazo previsto para a pena de multa, ou as formas de execução ou cumprimento de penas, como sucede no regime de permanência na habitação previsto no artigo 43.º, do Código Penal, cujo prazo de prescrição será o da pena de prisão, atendendo à sua diferente natureza, uma vez que se trata, aí, de modos de execução e não de verdadeiras penas autónomas<sup>86</sup>.
+Diferentemente serão, assim, os casos de prisão subsidiária, cujo prazo prescricional depende do prazo previsto para a pena de multa, ou as formas de execução ou cumprimento de penas, como sucede no regime de permanência na habitação previsto no artigo 43.º, do Código Penal, cujo prazo de prescrição será o da pena de prisão, atendendo à sua diferente natureza, uma vez que se trata, aí, de modos de execução e não de verdadeiras penas autónomas86.
 
 Por outro lado, se é certo que o prazo de prescrição da pena de prisão varia consoante o seu quantum, tal não impõe a conclusão de que a previsão de um prazo, único, de 4 anos, independentemente da medida concreta da pena suspensa, contraria o princípio da culpa e a intenção do legislador, como é sugerido na jurisprudência que enfileira na corrente inaugurada pelo Acórdão do STJ de 28-02-2018. Em boa verdade, as considerações atinentes à culpa e suas consequências, terão já ficado prejudicadas ou obnubiladas com a decisão condenatória. Surpreende-se de resto, neste acórdão, salvo o devido respeito, alguma imprecisão argumentativa a propósito da definição do regime de prescrição da pena suspensa (dependente da medida da pena principal), após a sua revogação, quando nele se refere:
 
@@ -1182,7 +1230,7 @@ Finalmente, o entendimento que subjaz ao acórdão-recorrido poderia, no limite,
 
 Definitivamente, pensamos que o legislador não pode ter pretendido uma tal solução, para mais tratando-se de um domínio - o das penas de substituição - em que pontificam eminentes interesses de ressocialização do agente. Também a uma - potencial, mas possível - situação desse tipo se oporia o princípio fundamental da proibição da aplicação de penas de duração indefinida (art. 30.º, n.º 1, da Constituição)
 
-Ora, «[a] intervenção do Estado, realizada através do direito penal (e processual penal), tem de prosseguir um fim, sob pena de ser uma actuação gratuita e não suficientemente legitimada. Num sistema penal como o nosso, cuja fundamentação da intervenção penal é a de proteger bens jurídicos, visando as penas fins exclusivamente preventivos, a prescrição deve reportar, em coerência, a sua existência a esses pilares da fundamentação do direito penal. O decurso do tempo caracterizador da prescrição faz com que a intervenção do direito penal, para além de inútil e ineficaz, careça de fundamento, pelo desaparecimento dos fundamentos e finalidades da punição. Já não existe bem jurídico digno de pena violado carente de punição, nem homem delinquente para promover a ressocialização. Nenhuma pena justa, com funções de prevenção, é capaz de, nessa fase, prevenir ataques futuros a esse bem jurídico. As penas visam finalidades muito precisas. Ora, a partir do momento em que se conclui que essas finalidades, por força do decurso do tempo, já não são atingíveis, então deixa de existir fundamento para a sua aplicação. Extinguiram-se quer os fundamentos e finalidades da punição, quer o pressuposto fundado na culpa, quer a possibilidade de ressocialização e advertência individual, quer o restabelecimento da paz jurídica comunitária ou a reafirmação da norma violada»<sup>87</sup>.
+Ora, «[a] intervenção do Estado, realizada através do direito penal (e processual penal), tem de prosseguir um fim, sob pena de ser uma actuação gratuita e não suficientemente legitimada. Num sistema penal como o nosso, cuja fundamentação da intervenção penal é a de proteger bens jurídicos, visando as penas fins exclusivamente preventivos, a prescrição deve reportar, em coerência, a sua existência a esses pilares da fundamentação do direito penal. O decurso do tempo caracterizador da prescrição faz com que a intervenção do direito penal, para além de inútil e ineficaz, careça de fundamento, pelo desaparecimento dos fundamentos e finalidades da punição. Já não existe bem jurídico digno de pena violado carente de punição, nem homem delinquente para promover a ressocialização. Nenhuma pena justa, com funções de prevenção, é capaz de, nessa fase, prevenir ataques futuros a esse bem jurídico. As penas visam finalidades muito precisas. Ora, a partir do momento em que se conclui que essas finalidades, por força do decurso do tempo, já não são atingíveis, então deixa de existir fundamento para a sua aplicação. Extinguiram-se quer os fundamentos e finalidades da punição, quer o pressuposto fundado na culpa, quer a possibilidade de ressocialização e advertência individual, quer o restabelecimento da paz jurídica comunitária ou a reafirmação da norma violada»87.
 
 Um outro argumento, este de natureza sistemática, pode ser legitimamente invocado, o qual se prende com a previsão de um distinto prazo de prescrição respeitante às medidas de segurança privativas - de 15 anos - e não privativas de liberdade - de 10 anos -, de acordo com o artigo 124.º, n.º 1, do Código Penal.
 
@@ -1190,7 +1238,7 @@ Afigura-se, assim, que, para além das razões de índole literal, histórica, t
 
 II.6. A conclusão
 
-De forma conclusiva, tratando-se de uma pena autónoma e não dispondo expressamente a Lei que a pena suspensa tem o seu prazo de prescrição determinado pelo seu quantum, a mesma integrará a situação prevista no referido artigo 122.º, n.º 1, alínea d) do Código Penal, por caber na expressão abrangente e residual «casos restantes», contraposta à realidade normativa recortada no termo «prisão» utilizado nas anteriores alíneas do preceito<sup>88</sup>.
+De forma conclusiva, tratando-se de uma pena autónoma e não dispondo expressamente a Lei que a pena suspensa tem o seu prazo de prescrição determinado pelo seu quantum, a mesma integrará a situação prevista no referido artigo 122.º, n.º 1, alínea d) do Código Penal, por caber na expressão abrangente e residual «casos restantes», contraposta à realidade normativa recortada no termo «prisão» utilizado nas anteriores alíneas do preceito88.
 
 Nesta medida, a pena de suspensão da execução da pena de prisão necessariamente prescreverá no prazo 4 anos, na eventualidade de o processo ficar pendente durante o mesmo, após o termo do período de suspensão inicialmente fixado, sem que esse prazo seja prorrogado, e sem que a suspensão tenha sido revogada ou extinta, nos termos previstos no artigo 57.º do Código Penal, sem embargo da intercessão de causas de suspensão ou de interrupção de tal prazo prescricional.
 
@@ -1212,182 +1260,184 @@ Sem tributação.
 
 Lisboa, Supremo Tribunal de Justiça, 28-05-2025. - (Texto elaborado e informaticamente editado, integralmente revisto pelo relator, sendo eletronicamente assinado pelo próprio e pelos Senhores Juízes Conselheiros e Juízas Conselheiras das secções criminais - art. 94.º, n.os 2 e 3, do CPP) - Jorge Manuel Almeida dos Reis Bravo (relator) - Celso José das Neves Manata - Antero Luís - Horácio Correia Pinto - António Augusto Manso - José Vaz Carreto - Carlos Alberto Gameiro de Campos Lobo - Jorge Raposo - Maria Margarida Ramos de Almeida - Jorge Miranda Jacob - José Piedade - Ernesto Nascimento - Ana de Lurdes G. Costa Paramés - Helena Isabel Gonçalves Moniz Falcão de Oliveira - José Luís Lopes da Mota - Nuno A. Gonçalves - Jorge Gonçalves - Heitor Vasques Osório.
 
-<sup>1</sup> No que respeita aos pressupostos necessários para se julgar verificada a oposição de julgados, entre muitos outros, os Acórdãos do Supremo Tribunal de Justiça, de 13 de janeiro de 2022, processo n.º 225/18.2PASXL-A.S1, relatado pelo Conselheiro Orlando Gonçalves, e de 28 de abril de 2022, processo n.º 123/16.4SWLSB-F.L1-A.S1, relatado pelo Conselheiro Eduardo Loureiro, disponíveis para consulta, respetivamente, em http://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/c3231f6420205ed9802587e3003a5f4c?OpenDocument e http://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/4991d44200ecb231802588330030522b?OpenDocument.
+1 No que respeita aos pressupostos necessários para se julgar verificada a oposição de julgados, entre muitos outros, os Acórdãos do Supremo Tribunal de Justiça, de 13 de janeiro de 2022, processo n.º 225/18.2PASXL-A.S1, relatado pelo Conselheiro Orlando Gonçalves, e de 28 de abril de 2022, processo n.º 123/16.4SWLSB-F.L1-A.S1, relatado pelo Conselheiro Eduardo Loureiro, disponíveis para consulta, respetivamente, em http://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/c3231f6420205ed9802587e3003a5f4c?OpenDocument e http://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/4991d44200ecb231802588330030522b?OpenDocument.
 
-<sup>2</sup> Neste sentido, Maria João Antunes, Penas e Medidas de Segurança, Coimbra, Almedina, 3.ª ed., 2024, p. 26.
+2 Neste sentido, Maria João Antunes, Penas e Medidas de Segurança, Coimbra, Almedina, 3.ª ed., 2024, p. 26.
 
-<sup>3</sup> Não se incluindo as categorias previstas em diplomas penais avulsos.
+3 Não se incluindo as categorias previstas em diplomas penais avulsos.
 
-<sup>4</sup> Neste sentido, André Lamas Leite, “A Suspensão da Pena Privativa de Liberdade sob Pretexto da Revisão de 2007 do Código Penal”, Estudos em Homenagem ao Prof. Doutor Jorge de Figueiredo Dias, Vol. II, Coimbra, Coimbra Editora, 2009, p. 585.
+4 Neste sentido, André Lamas Leite, “A Suspensão da Pena Privativa de Liberdade sob Pretexto da Revisão de 2007 do Código Penal”, Estudos em Homenagem ao Prof. Doutor Jorge de Figueiredo Dias, Vol. II, Coimbra, Coimbra Editora, 2009, p. 585.
 
-<sup>5</sup> Maria João Antunes, ob. cit., p. 38.
+5 Maria João Antunes, ob. cit., p. 38.
 
-<sup>6</sup> Figueiredo Dias, “Velhas e novas questões sobre a pena de suspensão de execução da prisão”, Revista de Legislação e de Jurisprudência, Ano 124.º - 1991-1992, n.º 3804, p. 66.
+6 Figueiredo Dias, “Velhas e novas questões sobre a pena de suspensão de execução da prisão”, Revista de Legislação e de Jurisprudência, Ano 124.º - 1991-1992, n.º 3804, p. 66.
 
-<sup>7</sup> Neste sentido, Jorge de Figueiredo Dias, Direito Penal Português - As consequências jurídicas do crime, II, Lisboa, Aequitas-Editorial Notícias, 1993, p. 344.
+7 Neste sentido, Jorge de Figueiredo Dias, Direito Penal Português - As consequências jurídicas do crime, II, Lisboa, Aequitas-Editorial Notícias, 1993, p. 344.
 
-<sup>8</sup> Maria João Antunes, ob. cit., p. 39.
+8 Maria João Antunes, ob. cit., p. 39.
 
-<sup>9</sup> Jorge de Figueiredo Dias, ob. cit., pp. 337 e 338.
+9 Jorge de Figueiredo Dias, ob. cit., pp. 337 e 338.
 
-<sup>10</sup> Jorge de Figueiredo Dias, “Velhas e novas questões sobre a pena de suspensão de execução da prisão”, cit., p. 67.
+10 Jorge de Figueiredo Dias, “Velhas e novas questões sobre a pena de suspensão de execução da prisão”, cit., p. 67.
 
-<sup>11</sup> Direito Penal Português - As Consequências Jurídicas do Crime, cit., p. 355.
+11 Direito Penal Português - As Consequências Jurídicas do Crime, cit., p. 355.
 
-<sup>12</sup> Anabela Miranda Rodrigues, “A Suspensão da Execução da Pena de Prisão no Regime Geral das Infrações Tributárias - O Dever de Imposição Obrigatória de Pagamento do Imposto Devido e Acréscimos Legais”, Católica Law Review, VOLUME VIII/n.º 3/nov 2024, p. 16 (disponível em: https://doi.org/10.34632/catolicalawreview.2024.17600).
+12 Anabela Miranda Rodrigues, “A Suspensão da Execução da Pena de Prisão no Regime Geral das Infrações Tributárias - O Dever de Imposição Obrigatória de Pagamento do Imposto Devido e Acréscimos Legais”, Católica Law Review, VOLUME VIII/n.º 3/nov 2024, p. 16 (disponível em: https://doi.org/10.34632/catolicalawreview.2024.17600).
 
-<sup>13</sup> É o entendimento acolhido, entre outros, nos acórdãos do STJ de 17-10-2012, Proc. n.º 1236/09.4PBVFX.S1, relatado pelo Conselheiro Raúl Borges e de 11-10-2017; Proc. n.º 2678/16.4T8CSC.L1.S1, relatado pelo Conselheiro Manuel Matos e de 07-12-2022; Proc. n.º 3130/22.4T8BRG.S1, relatado pela Conselheira Maria do Carmo S. Dias.
+13 É o entendimento acolhido, entre outros, nos acórdãos do STJ de 17-10-2012, Proc. n.º 1236/09.4PBVFX.S1, relatado pelo Conselheiro Raúl Borges e de 11-10-2017; Proc. n.º 2678/16.4T8CSC.L1.S1, relatado pelo Conselheiro Manuel Matos e de 07-12-2022; Proc. n.º 3130/22.4T8BRG.S1, relatado pela Conselheira Maria do Carmo S. Dias.
 
-<sup>14</sup> Fixa jurisprudência no sentido de que: «I - Nos termos do n.º 9 do artigo 113.º do Código de Processo Penal, a decisão de revogação da suspensão da execução da pena de prisão deve ser notificada tanto ao defensor como ao condenado. II - O condenado em pena de prisão suspensa continua afecto, até ao trânsito da revogação da pena substitutiva ou à sua extinção e, com ela, à cessação da eventualidade da sua reversão na pena de prisão substituída, às obrigações decorrentes da medida de coacção de prestação de termo de identidade e residência (nomeadamente, a de ‘as posteriores notificações serão feitas por via postal simples para a morada indicada’). III - A notificação ao condenado do despacho de revogação da suspensão da pena de prisão pode assumir tanto a via de ‘contacto pessoal’ como a ‘via postal registada, por meio de carta ou aviso registados’ ou, mesmo, a «via postal simples, por meio de carta ou aviso» (artigo 113.º, n.º 1, alíneas a), b) e c) e d), do CPP).»
+14 Fixa jurisprudência no sentido de que: «I - Nos termos do n.º 9 do artigo 113.º do Código de Processo Penal, a decisão de revogação da suspensão da execução da pena de prisão deve ser notificada tanto ao defensor como ao condenado. II - O condenado em pena de prisão suspensa continua afecto, até ao trânsito da revogação da pena substitutiva ou à sua extinção e, com ela, à cessação da eventualidade da sua reversão na pena de prisão substituída, às obrigações decorrentes da medida de coacção de prestação de termo de identidade e residência (nomeadamente, a de ‘as posteriores notificações serão feitas por via postal simples para a morada indicada’). III - A notificação ao condenado do despacho de revogação da suspensão da pena de prisão pode assumir tanto a via de ‘contacto pessoal’ como a ‘via postal registada, por meio de carta ou aviso registados’ ou, mesmo, a «via postal simples, por meio de carta ou aviso» (artigo 113.º, n.º 1, alíneas a), b) e c) e d), do CPP).»
 
-<sup>15</sup> Fixa jurisprudência no sentido de que: «No processo de determinação da pena por crime de abuso de confiança fiscal, p. e p. no artigo 105.º, n.º 1, do RGIT, a suspensão da execução da pena de prisão, nos termos do artigo 50.º, n.º 1, do Código Penal, obrigatoriamente condicionada, de acordo com o artigo 14.º, n.º 1, do RGIT, ao pagamento ao Estado da prestação tributária e legais acréscimos, reclama um juízo de prognose de razoabilidade acerca da satisfação dessa condição legal por parte do condenado, tendo em conta a sua concreta situação económica, presente e futura, pelo que a falta desse juízo implica nulidade da sentença por omissão de pronúncia.»
+15 Fixa jurisprudência no sentido de que: «No processo de determinação da pena por crime de abuso de confiança fiscal, p. e p. no artigo 105.º, n.º 1, do RGIT, a suspensão da execução da pena de prisão, nos termos do artigo 50.º, n.º 1, do Código Penal, obrigatoriamente condicionada, de acordo com o artigo 14.º, n.º 1, do RGIT, ao pagamento ao Estado da prestação tributária e legais acréscimos, reclama um juízo de prognose de razoabilidade acerca da satisfação dessa condição legal por parte do condenado, tendo em conta a sua concreta situação económica, presente e futura, pelo que a falta desse juízo implica nulidade da sentença por omissão de pronúncia.»
 
-<sup>16</sup> Fixa jurisprudência no sentido de que: «A condenação em pena de prisão suspensa na sua execução integra o conceito de pena não privativa da liberdade referido no n.º 1 do artigo 17.º da [Lei n.º 57/98](https://diariodarepublica.pt/dr/detalhe/lei/57-1998-437236), de 18 de Agosto, com a redacção dada pela [Lei n.º 114/2009](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), de 22 de Setembro.»
+16 Fixa jurisprudência no sentido de que: «A condenação em pena de prisão suspensa na sua execução integra o conceito de pena não privativa da liberdade referido no n.º 1 do artigo 17.º da [Lei n.º 57/98](https://diariodarepublica.pt/dr/detalhe/lei/57-1998-437236), de 18 de Agosto, com a redacção dada pela [Lei n.º 114/2009](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), de 22 de Setembro.»
 
-<sup>17</sup> Fixa jurisprudência no sentido de que: «Nos termos dos n.<sup>os</sup>1 e 2, do art. 449.º, do Código de Processo Penal, não é admissível recurso extraordinário de revisão do despacho que revoga a suspensão de execução da pena.»
+17 Fixa jurisprudência no sentido de que: «Nos termos dos n.os1 e 2, do art. 449.º, do Código de Processo Penal, não é admissível recurso extraordinário de revisão do despacho que revoga a suspensão de execução da pena.»
 
-<sup>18</sup> Fixa jurisprudência no sentido de que: «O despacho previsto no art. 495.º, n.º 2, do CPP, com fundamento no disposto no art. 56.º, n.º 1, al. b), do Código Penal, deve ser precedido, salvo em caso de ausência por facto que lhe seja imputável, de audição presencial do condenado, nos termos dos arts. 495.º, n.º 2, e 61.º, n.º 1, als. a) e b), ambos do Código de Processo Penal, constituindo a preterição injustificada de tal audição nulidade insanável cominada no art. 119.º, n.º 1, al. c), do Código de Processo Penal.»
+18 Fixa jurisprudência no sentido de que: «O despacho previsto no art. 495.º, n.º 2, do CPP, com fundamento no disposto no art. 56.º, n.º 1, al. b), do Código Penal, deve ser precedido, salvo em caso de ausência por facto que lhe seja imputável, de audição presencial do condenado, nos termos dos arts. 495.º, n.º 2, e 61.º, n.º 1, als. a) e b), ambos do Código de Processo Penal, constituindo a preterição injustificada de tal audição nulidade insanável cominada no art. 119.º, n.º 1, al. c), do Código de Processo Penal.»
 
-<sup>19</sup> Assim, também na doutrina, por todos, Figueiredo Dias, Direito Penal Português - As Consequências Jurídicas do Crime, cit., p. 329.
+19 Assim, também na doutrina, por todos, Figueiredo Dias, Direito Penal Português - As Consequências Jurídicas do Crime, cit., p. 329.
 
-<sup>20</sup> “As «penas de substituição» e figuras afins: traços distintivos”, RPCC, Ano 30, N.º 2 - maio-agosto 2020, p. 320.
+20 “As «penas de substituição» e figuras afins: traços distintivos”, RPCC, Ano 30, N.º 2 - maio-agosto 2020, p. 320.
 
-<sup>21</sup> Neste sentido, André Lamas Leite, referindo-se a uma relação umbilical entre as referidas penas, “As «penas de substituição» e figuras afins: traços distintivos”, RPCC, Ano 30.º, N.º 2 - maio-agosto 2020, pp. 319 e 320.
+21 Neste sentido, André Lamas Leite, referindo-se a uma relação umbilical entre as referidas penas, “As «penas de substituição» e figuras afins: traços distintivos”, RPCC, Ano 30.º, N.º 2 - maio-agosto 2020, pp. 319 e 320.
 
-<sup>22</sup> «Revogação da Pena Substitutiva e Recurso de Revisão - Anatomia de um Acórdão», ROA, Ano 83.º - Vol. I-II - jan.-jun. 2023, p. 405. Também neste sentido, em As penas de substituição em perspectiva político-criminal e dogmática. Contributo para uma análise sistemática, Porto: FDUP, 2015 e “As «penas de substituição» e figuras afins: traços distintivos”, RPCC, Ano 30.º, N.º 2, cit., 319-362, e “Contributo para a noção de penas substitutivas”, Livro em memória do Professor Doutor João Curado Neves - Maria Fernanda Palma (org.), Lisboa, AAFDL, 2021, pp. 41-63.
+22 «Revogação da Pena Substitutiva e Recurso de Revisão - Anatomia de um Acórdão», ROA, Ano 83.º - Vol. I-II - jan.-jun. 2023, p. 405. Também neste sentido, em As penas de substituição em perspectiva político-criminal e dogmática. Contributo para uma análise sistemática, Porto: FDUP, 2015 e “As «penas de substituição» e figuras afins: traços distintivos”, RPCC, Ano 30.º, N.º 2, cit., 319-362, e “Contributo para a noção de penas substitutivas”, Livro em memória do Professor Doutor João Curado Neves - Maria Fernanda Palma (org.), Lisboa, AAFDL, 2021, pp. 41-63.
 
-<sup>23</sup> Era o seguinte o teor da disposição: «As penas principais são: 1.º a prisão; 2.º a multa; 3.º a sentença condicional; 4.º o regime de prova».
+23 Era o seguinte o teor da disposição: «As penas principais são: 1.º a prisão; 2.º a multa; 3.º a sentença condicional; 4.º o regime de prova».
 
-<sup>24</sup> Actas das Sessões da Comissão Revisora do Código Penal, Parte Geral, Separata do B.M.J., 17.ª sessão, de 22 de fevereiro de 1964, e bem assim na 22.ª sessão, de 10 de março.
+24 Actas das Sessões da Comissão Revisora do Código Penal, Parte Geral, Separata do B.M.J., 17.ª sessão, de 22 de fevereiro de 1964, e bem assim na 22.ª sessão, de 10 de março.
 
-<sup>25</sup> Cfr., https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=101&tabela=lei_velhas&nversao=1.
+25 Cfr., https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=101&tabela=lei_velhas&nversao=1.
 
-<sup>26</sup> Processo n.º 76/99, com o sumário disponível em https://www.stj.pt/wp-content/uploads/2024/06/sumarios-criminal-1999.pdf.
+26 Processo n.º 76/99, com o sumário disponível em https://www.stj.pt/wp-content/uploads/2024/06/sumarios-criminal-1999.pdf.
 
-<sup>27</sup> Processo n.º 04P4742, disponível em: https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/f861e83248286197802571f100317ef9?OpenDocument.
+27 Processo n.º 04P4742, disponível em: https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/f861e83248286197802571f100317ef9?OpenDocument.
 
-<sup>28</sup> Relatado pelo Conselheiro Souto de Moura, disponível em: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/7-2015-67289915.
+28 Relatado pelo Conselheiro Souto de Moura, disponível em: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/7-2015-67289915.
 
-<sup>29</sup> Neste sentido, por todos, Jorge de Figueiredo Dias, Direito Penal Português - As consequências jurídicas do crime, II, cit., p. 339.
+29 Neste sentido, por todos, Jorge de Figueiredo Dias, Direito Penal Português - As consequências jurídicas do crime, II, cit., p. 339.
 
-<sup>30</sup> Jorge de Figueiredo Dias, ob. cit., p. 339.
+30 Jorge de Figueiredo Dias, ob. cit., p. 339.
 
-<sup>31</sup> “O Direito Penal e o Tempo - Algumas reflexões dentro do nosso tempo e em redor da prescrição”, Linhas de Direito Penal e de Filosofia - Alguns cruzamentos reflexivos, Coimbra: Coimbra Editora, 2005, pp. 166-167.
+31 “O Direito Penal e o Tempo - Algumas reflexões dentro do nosso tempo e em redor da prescrição”, Linhas de Direito Penal e de Filosofia - Alguns cruzamentos reflexivos, Coimbra: Coimbra Editora, 2005, pp. 166-167.
 
-<sup>32</sup> Assim, José de Faria Costa, “O Direito Penal e o Tempo (Algumas reflexões dentro do nosso tempo e em redor da prescrição)”, Volume comemorativo do 75.º tomo do Boletim da Faculdade de Direito (BFDUC), Coimbra: Faculdade de Direito da Universidade de Coimbra, 2003, pp. 1139-1165, ed. ut Linhas de Direito Penal e de Filosofia - Alguns cruzamentos reflexivos, Coimbra: Coimbra Editora, 2005, pp. 163-190, Pedro Gama da Silva, A Prescrição no Direito Penal Português, Coimbra: Almedina, 2.ª Ed., 2023, pp. 36-37.
+32 Assim, José de Faria Costa, “O Direito Penal e o Tempo (Algumas reflexões dentro do nosso tempo e em redor da prescrição)”, Volume comemorativo do 75.º tomo do Boletim da Faculdade de Direito (BFDUC), Coimbra: Faculdade de Direito da Universidade de Coimbra, 2003, pp. 1139-1165, ed. ut Linhas de Direito Penal e de Filosofia - Alguns cruzamentos reflexivos, Coimbra: Coimbra Editora, 2005, pp. 163-190, Pedro Gama da Silva, A Prescrição no Direito Penal Português, Coimbra: Almedina, 2.ª Ed., 2023, pp. 36-37.
 
-<sup>33</sup> Neste sentido, José de Faria Costa, “O Direito Penal e o Tempo - Algumas reflexões dentro do nosso tempo e em redor da prescrição”, Linhas de Direito Penal e de Filosofia - Alguns cruzamentos reflexivos, cit., p. 179.
+33 Neste sentido, José de Faria Costa, “O Direito Penal e o Tempo - Algumas reflexões dentro do nosso tempo e em redor da prescrição”, Linhas de Direito Penal e de Filosofia - Alguns cruzamentos reflexivos, cit., p. 179.
 
-<sup>34</sup> Jorge de Figueiredo Dias, ob. cit., p. 699.
+34 Jorge de Figueiredo Dias, ob. cit., p. 699.
 
-<sup>35</sup> Acórdão do STJ, de 04-02-2010, Processo n.º 29/10.0YFLSB.S1, relatado pelo Conselheiro Rodrigues da Costa, disponível em: https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/5c0684eb3868f0cb802576d30035928f?OpenDocument.
+35 Acórdão do STJ, de 04-02-2010, Processo n.º 29/10.0YFLSB.S1, relatado pelo Conselheiro Rodrigues da Costa, disponível em: https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/5c0684eb3868f0cb802576d30035928f?OpenDocument.
 
-<sup>36</sup> Cfr., a este propósito, Pedro Gama da Silva, A Prescrição no Direito Penal Português, cit., pp. 68-80.
+36 Cfr., a este propósito, Pedro Gama da Silva, A Prescrição no Direito Penal Português, cit., pp. 68-80.
 
-<sup>37</sup> Paulo Pinto de Albuquerque, Comentário do Código Penal à luz da Constituição da República e da Convenção Europeia dos Direitos do Homem, Lisboa, Universidade Católica Editora, 2015, 3.ª ed., anotação ao artigo 122.º, p. 487.
+37 Paulo Pinto de Albuquerque, Comentário do Código Penal à luz da Constituição da República e da Convenção Europeia dos Direitos do Homem, Lisboa, Universidade Católica Editora, 2015, 3.ª ed., anotação ao artigo 122.º, p. 487.
 
-<sup>38</sup> Pedro Gama da Silva, A Prescrição no Direito Penal Português, cit., p. 57.
+38 Pedro Gama da Silva, A Prescrição no Direito Penal Português, cit., p. 57.
 
-<sup>39</sup> Neste sentido, entre outros, Acórdão do Tribunal Constitucional n.º 110/2007, processo n.º 788/06, de 15 de fevereiro de 2007, relatado pelo Conselheiro Paulo Mota Pinto.
+39 Neste sentido, entre outros, Acórdão do Tribunal Constitucional n.º 110/2007, processo n.º 788/06, de 15 de fevereiro de 2007, relatado pelo Conselheiro Paulo Mota Pinto.
 
-<sup>40</sup> Pedro Gama da Silva, “Da prescrição da pena de suspensão de execução da prisão”, Revista do Ministério Público, Ano 43.º, n.º 171, Julho-Setembro de 2022, p. 124.
+40 Pedro Gama da Silva, “Da prescrição da pena de suspensão de execução da prisão”, Revista do Ministério Público, Ano 43.º, n.º 171, Julho-Setembro de 2022, p. 124.
 
-<sup>41</sup> Neste sentido, Pedro Gama da Silva, loc. cit., p. 134.
+41 Neste sentido, Pedro Gama da Silva, loc. cit., p. 134.
 
-<sup>42</sup> De salientar, aqui, a inaplicabilidade da alínea a) do n.º 1 do artigo 122.º do Código Penal e da parte da alínea b), na parte em que prevê penas superiores a cinco anos de prisão, medidas penais concretas insuscetíveis de permitir uma suspensão da sua execução.
+42 De salientar, aqui, a inaplicabilidade da alínea a) do n.º 1 do artigo 122.º do Código Penal e da parte da alínea b), na parte em que prevê penas superiores a cinco anos de prisão, medidas penais concretas insuscetíveis de permitir uma suspensão da sua execução.
 
-<sup>43</sup> Disponível em: https://www.dgsi.pt/jtrl.nsf/33182fc732316039802565fa00497eec/93db296f46c03955802583ad00325653?OpenDocument.
+43 Disponível em: https://www.dgsi.pt/jtrl.nsf/33182fc732316039802565fa00497eec/93db296f46c03955802583ad00325653?OpenDocument.
 
-<sup>44</sup> Disponível em: https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/715f689dd47493d48025860700392bef?OpenDocument.
+44 Disponível em: https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/715f689dd47493d48025860700392bef?OpenDocument.
 
-<sup>45</sup> Disponível em: https://www.dgsi.pt/jtrc.nsf/c3fb530030ea1c61802568d9005cd5bb/7bb6b186c18b8f82802586e400356882?OpenDocument.
+45 Disponível em: https://www.dgsi.pt/jtrc.nsf/c3fb530030ea1c61802568d9005cd5bb/7bb6b186c18b8f82802586e400356882?OpenDocument.
 
-<sup>46</sup> Disponível em: https://www.dgsi.pt/jtrp.nsf/56a6e7121657f91e80257cda00381fdf/88e85344632b22328025874b0048b74e?OpenDocument.
+46 Disponível em: https://www.dgsi.pt/jtrp.nsf/56a6e7121657f91e80257cda00381fdf/88e85344632b22328025874b0048b74e?OpenDocument.
 
-<sup>47</sup> Disponível em: https://www.dgsi.pt/jtrp.nsf/56a6e7121657f91e80257cda00381fdf/cf82cc08dfd8cd4a802588fd00597c50?OpenDocument.
+47 Disponível em: https://www.dgsi.pt/jtrp.nsf/56a6e7121657f91e80257cda00381fdf/cf82cc08dfd8cd4a802588fd00597c50?OpenDocument.
 
-<sup>48</sup> Disponível em: https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/c0391e497f7cc19680258a5f00318c0d?OpenDocument.
+48 Disponível em: https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/c0391e497f7cc19680258a5f00318c0d?OpenDocument.
 
-<sup>49</sup> Acórdão proferido numa providência de habeas corpus. Disponível em: https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/92e9c8cfba1502308025824300573a36?OpenDocument.
+49 Acórdão proferido numa providência de habeas corpus. Disponível em: https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/92e9c8cfba1502308025824300573a36?OpenDocument.
 
-<sup>50</sup> Ac. do Tribunal da Relação de Lisboa, de 21-02-2019, processo n.º 387/07.4PEAMD.L1-9, disponível em:
+50 Ac. do Tribunal da Relação de Lisboa, de 21-02-2019, processo n.º 387/07.4PEAMD.L1-9, disponível em:
 
 https://www.dgsi.pt/jtrl.nsf/33182fc732316039802565fa00497eec/93db296f46c03955802583ad00325653?OpenDocument.
 
-<sup>51</sup> Disponível em: https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/bc596db54b6a3b8180257de100574b4d?OpenDocument.
+51 Disponível em: https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/bc596db54b6a3b8180257de100574b4d?OpenDocument.
 
-<sup>52</sup> Disponível em: https://www.dgsi.pt/jtrc.nsf/c3fb530030ea1c61802568d9005cd5bb/a7d4d8d08383599e8025747a004de831?OpenDocument
+52 Disponível em: https://www.dgsi.pt/jtrc.nsf/c3fb530030ea1c61802568d9005cd5bb/a7d4d8d08383599e8025747a004de831?OpenDocument
 
-<sup>53</sup> Disponível em: https://www.dgsi.pt/jtre.nsf/6d54606360981c7380256879006d6592?CreateDocument.
+53 Disponível em: https://www.dgsi.pt/jtre.nsf/6d54606360981c7380256879006d6592?CreateDocument.
 
-<sup>54</sup> Disponível em: https://www.dgsi.pt/jtrp.nsf/56a6e7121657f91e80257cda00381fdf/c4469c3b2feb13c480257e0300553037?OpenDocument.
+54 Disponível em: https://www.dgsi.pt/jtrp.nsf/56a6e7121657f91e80257cda00381fdf/c4469c3b2feb13c480257e0300553037?OpenDocument.
 
-<sup>55</sup> Disponível em: https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/25f23607c1125cc6802580f8004cf78b?OpenDocument.
+55 Disponível em: https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/25f23607c1125cc6802580f8004cf78b?OpenDocument.
 
-<sup>56</sup> Disponível em: https://www.dgsi.pt/jtrl.nsf/33182fc732316039802565fa00497eec/97b56189f9b3dc2c802581a700335f37?OpenDocument.
+56 Disponível em: https://www.dgsi.pt/jtrl.nsf/33182fc732316039802565fa00497eec/97b56189f9b3dc2c802581a700335f37?OpenDocument.
 
-<sup>57</sup> Disponível em: https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/1f9d0bbae7ec96ef80258291003d6637?OpenDocument.
+57 Disponível em: https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/1f9d0bbae7ec96ef80258291003d6637?OpenDocument.
 
-<sup>58</sup> Disponível em: https://www.dgsi.pt/jtrg.nsf/86c25a698e4e7cb7802579ec004d3832/b5211b2dd7d4c0e780258361004cf06f?OpenDocument.
+58 Disponível em: https://www.dgsi.pt/jtrg.nsf/86c25a698e4e7cb7802579ec004d3832/b5211b2dd7d4c0e780258361004cf06f?OpenDocument.
 
-<sup>59</sup> Disponível em: https://www.dgsi.pt/jtrc.nsf/c3fb530030ea1c61802568d9005cd5bb/ebd938cf83611bf28025857b00329d70?OpenDocument.
+59 Disponível em: https://www.dgsi.pt/jtrc.nsf/c3fb530030ea1c61802568d9005cd5bb/ebd938cf83611bf28025857b00329d70?OpenDocument.
 
-<sup>60</sup> Disponível em: https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/33208990b7d4c6de802586f800706df7?OpenDocument.
+60 Disponível em: https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/33208990b7d4c6de802586f800706df7?OpenDocument.
 
-<sup>61</sup> Disponível em: https://www.dgsi.pt/jtrl.nsf/33182fc732316039802565fa00497eec/52ec541652fef4c5802587d800585e22?OpenDocument.
+61 Disponível em: https://www.dgsi.pt/jtrl.nsf/33182fc732316039802565fa00497eec/52ec541652fef4c5802587d800585e22?OpenDocument.
 
-<sup>62</sup> Disponível em: https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/62003f84cd18548a80258808005a27d7?OpenDocument.
+62 Disponível em: https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/62003f84cd18548a80258808005a27d7?OpenDocument.
 
-<sup>63</sup> Disponível em: https://www.dgsi.pt/jtrp.nsf/56a6e7121657f91e80257cda00381fdf/1e4b08e3cbbbb67080258836004e7f98?OpenDocument.
+63 Disponível em: https://www.dgsi.pt/jtrp.nsf/56a6e7121657f91e80257cda00381fdf/1e4b08e3cbbbb67080258836004e7f98?OpenDocument.
 
-<sup>64</sup> Disponível em: https://www.dgsi.pt/jtrp.nsf/56a6e7121657f91e80257cda00381fdf/35d5618457b1550d802589190041a837?OpenDocument.
+64 Disponível em: https://www.dgsi.pt/jtrp.nsf/56a6e7121657f91e80257cda00381fdf/35d5618457b1550d802589190041a837?OpenDocument.
 
-<sup>65</sup> Disponível em: https://www.dgsi.pt/jtrg.nsf/86c25a698e4e7cb7802579ec004d3832/99d607cc2767fded80258b1e0050f661?OpenDocument.
+65 Disponível em: https://www.dgsi.pt/jtrg.nsf/86c25a698e4e7cb7802579ec004d3832/99d607cc2767fded80258b1e0050f661?OpenDocument.
 
-<sup>66</sup> Disponível em: https://www.dgsi.pt/jtrp.nsf/56a6e7121657f91e80257cda00381fdf/8001c0b9f474440580258ba5004d536d?OpenDocument.
+66 Disponível em: https://www.dgsi.pt/jtrp.nsf/56a6e7121657f91e80257cda00381fdf/8001c0b9f474440580258ba5004d536d?OpenDocument.
 
-<sup>67</sup> Disponível em: https://www.dgsi.pt/jtrc.nsf/c3fb530030ea1c61802568d9005cd5bb/ce79b1816fee3f4e80258beb00572a48?OpenDocument.
+67 Disponível em: https://www.dgsi.pt/jtrc.nsf/c3fb530030ea1c61802568d9005cd5bb/ce79b1816fee3f4e80258beb00572a48?OpenDocument.
 
-<sup>68</sup> Sem embargo das exceções de imprescritibilidade, atrás mencionadas no texto principal.
+68 Sem embargo das exceções de imprescritibilidade, atrás mencionadas no texto principal.
 
-<sup>69</sup> Nos termos do referido acórdão proferido Tribunal da Relação de Coimbra, em 04-06-2008, processo n.º 63/96.1TBVLF.C1, relatado pelo então juiz Desembargador Jorge Gonçalves, refere-se que «o condenado não pode ficar, indefinidamente, à espera que se declare a extinção da sua pena ou que a pena de substituição seja revogada, aguardando ad aeternum que o tribunal se decida, finalmente, num ou noutro sentido.
+69 Nos termos do referido acórdão proferido Tribunal da Relação de Coimbra, em 04-06-2008, processo n.º 63/96.1TBVLF.C1, relatado pelo então juiz Desembargador Jorge Gonçalves, refere-se que «o condenado não pode ficar, indefinidamente, à espera que se declare a extinção da sua pena ou que a pena de substituição seja revogada, aguardando ad aeternum que o tribunal se decida, finalmente, num ou noutro sentido.
 
 Entendemos, pois, que da natureza da suspensão da execução da pena de prisão como verdadeira pena autónoma, de substituição, decorre a sua necessária sujeição a prazo prescricional, autónomo do prazo de prescrição da pena principal substituída, sendo aquele prazo o de 4 anos a que se refere o artigo 122.º, n.º 1, alínea d), do C. Penal.».
 
-<sup>70</sup> Pedro Gama da Silva, loc. cit., p. 129
+70 Pedro Gama da Silva, loc. cit., p. 129
 
-<sup>71</sup> Pedro Gama da Silva, loc. cit., pp. 126 a 128.
+71 Pedro Gama da Silva, loc. cit., pp. 126 a 128.
 
-<sup>72</sup> Assim, José de Faria Costa, “O Direito Penal e o Tempo - Algumas reflexões dentro do nosso tempo e em redor da prescrição”, Linhas de Direito Penal e de Filosofia - Alguns cruzamentos reflexivos, cit., pp. 178-179.
+72 Assim, José de Faria Costa, “O Direito Penal e o Tempo - Algumas reflexões dentro do nosso tempo e em redor da prescrição”, Linhas de Direito Penal e de Filosofia - Alguns cruzamentos reflexivos, cit., pp. 178-179.
 
-<sup>73</sup> Cfr., por todos, Jorge Miranda-Rui Medeiros, Constituição Portuguesa Anotada, t. I, Coimbra, Coimbra Editora, 2005, p. 327.
+73 Cfr., por todos, Jorge Miranda-Rui Medeiros, Constituição Portuguesa Anotada, t. I, Coimbra, Coimbra Editora, 2005, p. 327.
 
-<sup>74</sup> Manuel da Costa Andrade, “O Princípio Constitucional «nullum crimen sine lege» e a analogia no campo das causas de justificação”, Revista de Legislação e de Jurisprudência, Ano 134.º, N.os 3924 e 3925, 2001, p. 72.
+74 Manuel da Costa Andrade, “O Princípio Constitucional «nullum crimen sine lege» e a analogia no campo das causas de justificação”, Revista de Legislação e de Jurisprudência, Ano 134.º, N.os 3924 e 3925, 2001, p. 72.
 
-<sup>75</sup> Manuel de Andrade, Ensaio sobre a Teoria da Interpretação das Leis, Coimbra, Arménio Amado - Editor Sucessor, 1987, p. 27.
+75 Manuel de Andrade, Ensaio sobre a Teoria da Interpretação das Leis, Coimbra, Arménio Amado - Editor Sucessor, 1987, p. 27.
 
-<sup>76</sup> Metodologia da Ciência do Direito, 5.ª ed. (trad. portuguesa de José Lamego), Lisboa, Fundação Calouste Gulbenkian, 2009, p. 471.
+76 Metodologia da Ciência do Direito, 5.ª ed. (trad. portuguesa de José Lamego), Lisboa, Fundação Calouste Gulbenkian, 2009, p. 471.
 
-<sup>77</sup> Ob. cit., pp. 457-462.
+77 Ob. cit., pp. 457-462.
 
-<sup>78</sup> Ob. cit., p. 27.
+78 Ob. cit., p. 27.
 
-<sup>79</sup> Ob. cit., p. 29.
+79 Ob. cit., p. 29.
 
-<sup>80</sup> “Interpretação Jurídica”, Polis - Enciclopédia Verbo da Sociedade e do Estado, vol. 3, Lisboa, Verbo Ed., 1985, p. 691.
+80 “Interpretação Jurídica”, Polis - Enciclopédia Verbo da Sociedade e do Estado, vol. 3, Lisboa, Verbo Ed., 1985, p. 691.
 
-<sup>81</sup> Disponível em: https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/edd517905095cf8d80258021004a69ea?OpenDocument.
+81 Disponível em: https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/edd517905095cf8d80258021004a69ea?OpenDocument.
 
-<sup>82</sup> Disponível em: https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/7e445d250517923a802581750036cbcc?OpenDocument.
+82 Disponível em: https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/7e445d250517923a802581750036cbcc?OpenDocument.
 
-<sup>83</sup> Disponível em: https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/97ccb394443ac8ae80257d93006438b1?OpenDocument.
+83 Disponível em: https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/97ccb394443ac8ae80257d93006438b1?OpenDocument.
 
-<sup>84</sup> Disponível em: https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/856465712f78253380257c8b003597dc?OpenDocument.
+84 Disponível em: https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/856465712f78253380257c8b003597dc?OpenDocument.
 
-<sup>85</sup> Com o sumário disponível em: https://www.stj.pt/wp-content/uploads/2024/06/sumarios-criminal-2018.pdf.
+85 Com o sumário disponível em: https://www.stj.pt/wp-content/uploads/2024/06/sumarios-criminal-2018.pdf.
 
-<sup>86</sup> Neste sentido, Pedro Gama da Silva, loc. cit., p. 123.
+86 Neste sentido, Pedro Gama da Silva, loc. cit., p. 123.
 
-<sup>87</sup> Pedro Gama da Silva, loc. cit., p. 137.
+87 Pedro Gama da Silva, loc. cit., p. 137.
 
-<sup>88</sup> Neste sentido, Paulo Pinto de Albuquerque, referindo expressamente que «O prazo de prescrição da pena do artigo 122.º, n.º 1, al.ª d), do CP é aplicável às penas de substituição, incluindo a de suspensão da execução da pena de prisão», Ob. cit., p. 530.
+88 Neste sentido, Paulo Pinto de Albuquerque, referindo expressamente que «O prazo de prescrição da pena do artigo 122.º, n.º 1, al.ª d), do CP é aplicável às penas de substituição, incluindo a de suspensão da execução da pena de prisão», Ob. cit., p. 530.
+
+119231322

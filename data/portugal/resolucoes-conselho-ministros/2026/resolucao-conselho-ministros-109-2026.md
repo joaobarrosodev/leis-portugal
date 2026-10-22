@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/109/2026/06/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/109-2026-1129390708
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-03T00:00:00Z'
+  retrieved_at: '2026-10-22T18:43:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4b3f173111ff687091e1aa07bdefd25ee7372d802392393817148f2a6e66dec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 828099e1693cecc093a6a24f469249299983091f0160b2e434a30bf40b2c9d71
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:43:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,12 +70,18 @@ subjects:
 - Autorização de Despesas
 - Conselho de Ministros
 - Despesas Públicas
-- Estudante
 - Direção Geral do Ensino Superior
-- Mobilidade Estudantil
 - Ensino Superior
+- Estudante
+- Mobilidade Estudantil
 - Residência de Estudantes
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:112/2024
+  label: Altera, a partir de 4 de junho de 2026, os n.ºs 1, 2, 3, 4 e 5 da Resolução do Conselho de Ministros n.º 112/2024,
+    de 29 de agosto, Diário da República n.º 167/2024, Série I
+  source: null
+  date: '2024-08-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109/2025/09/25/p/dre
   label: null
@@ -100,16 +106,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/112/2024/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/112/2024/08/29/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:886163788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:936526996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:43:01Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +158,7 @@ Assim:
 
 Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, dos artigos 44.º e 46.º do Código do Procedimento Administrativo, aprovado em anexo ao [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Alterar os n.<sup>os</sup>1, 2, 3, 4 e 5 da [Resolução do Conselho de Ministros n.º 112/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/112-2024-886163788), de 29 de agosto, os quais passam a ter a seguinte redação:
+1 - Alterar os n.os1, 2, 3, 4 e 5 da [Resolução do Conselho de Ministros n.º 112/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/112-2024-886163788), de 29 de agosto, os quais passam a ter a seguinte redação:
 
 «1 - Autorizar o Instituto para o Ensino Superior, I. P. (IES, I. P.), a realizar a despesa relativa ao pagamento das camas protocoladas entre as instituições do ensino superior e os estabelecimentos de alojamento dos setores público, privado e social, para os anos de 2024, de 2025 e de 2026, até ao montante global máximo de 7 929 308,48 €, o qual já inclui o imposto sobre o valor acrescentado.
 
@@ -149,3 +179,5 @@ c) 2026 - 3 600 000,00 €.
 2 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 21 de maio de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119948687

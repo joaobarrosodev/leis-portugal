@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/52/2026/02/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2026-1051282290
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-16T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0ee1b5afcf556c4a61875e833eb8d7deb9c860cd22a3aa83258f78785ecbeda
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc57e39417661ba79ffcd1a12b87378284aefc556f04e3ca0aee72e92fa503ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Acesso à Informação
-- Gestão de Resíduos
-- Sociedade Anónima
-- Empresa
-- Saneamento Básico
-- Contrato de Concessão
-- Santiago do Cacém
-- Entidade Reguladora dos Serviços das Águas e dos Resíduos
 - Abastecimento de Água
+- Acesso à Informação
+- Agência Portuguesa do Ambiente
+- Barragem de Morgavel
+- Contrato de Concessão
+- Empresa
+- Entidade Reguladora dos Serviços das Águas e dos Resíduos
+- Gestão de Resíduos
+- Saneamento Básico
+- Santiago do Cacém
+- Sistema de abastecimento de água de saneamento de águas residuais e de gestão de resíduos de Santo André
+- Sociedade Anónima
 - Transferência de Competências
 - Transferência Patrimonial
-- Barragem de Morgavel
-- Agência Portuguesa do Ambiente
-- Sistema de abastecimento de água de saneamento de águas residuais e de gestão de resíduos de Santo André
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:171/2001
+  label: Altera, a partir de 17 de fevereiro de 2026, os artigos 1.º (em que redomina o sistema para captação, tratamento
+    e distribuição de água, para recolha, tratamento e rejeição de efluentes e para recolha, tratamento e destino final de
+    resíduos, passa a designar-se sistema de abastecimento de água, de saneamento de águas residuais e de gestão de resíduos
+    de Santo André (sistema), 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.º, 16.º, 17.º, adita
+    os artigos 6.º-A, 6.º-B, 6.º-C, 6.º-D, 6.º-E, 6.º-F, 7.º-A, 7.º-B, 7.º-C, 7.º-D, 8.º-A, 8.º-B, 13.º-A, 13.º-B, 14.º-A
+    e revoga os n.ºs 4 e 7 do artigo 12.º do Decreto-Lei n.º 171/2001, de 25 de maio, Diário da República n.º 121/2001, Série
+    I-A
+  source: null
+  date: '2001-05-25'
 - type: cites
   target: eli:http://data.dre.pt
   label: null
@@ -123,16 +134,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/87-a/2022/10/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/87-a/2022/10/04/p/dre
+- type: cites
+  target: pt:dre:124097549:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201907981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202234173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:840278736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:908253501:por
+  label: null
+  source: null
 article_structure:
-  article_count: 37
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:33Z'
   warnings: []
   errors: []
 ---
@@ -203,7 +266,9 @@ a) À redenominação do sistema para captação, tratamento e distribuição de
 
 b) À atribuição, em regime de exclusividade, da exploração e gestão do mencionado sistema à sociedade Águas de Santo André, S. A. (AdSA), nos termos previstos no presente decreto-lei e do contrato de concessão.
 
-###### Artigo 2.º — Sistema
+Artigo 2.º
+
+Sistema
 
 1 - O sistema tem a configuração constante do projeto global previsto no contrato de concessão e pode ser desenvolvido com as adaptações técnicas que a sua evolução determinar, nomeadamente por fases.
 
@@ -215,13 +280,17 @@ b) À atribuição, em regime de exclusividade, da exploração e gestão do men
 
 5 - O interesse público referido no número anterior é reconhecido por despacho do membro do Governo responsável pela área do ambiente, sob proposta da sociedade, e ouvidos, quando aplicável, os municípios abrangidos.
 
-###### Artigo 3.º — Constituição da Águas de Santo André, S. A.
+Artigo 3.º
+
+Constituição da Águas de Santo André, S. A.
 
 1 - [...]
 
 2 - [...]
 
-###### Artigo 4.º — Estatutos
+Artigo 4.º
+
+Estatutos
 
 1 - [...]
 
@@ -229,7 +298,9 @@ b) À atribuição, em regime de exclusividade, da exploração e gestão do men
 
 3 - [...]
 
-###### Artigo 5.º — Capital e participações sociais
+Artigo 5.º
+
+Capital e participações sociais
 
 1 - [...]
 
@@ -241,7 +312,9 @@ b) À atribuição, em regime de exclusividade, da exploração e gestão do men
 
 5 - [...]
 
-###### Artigo 6.º — Concessão da exploração e gestão do sistema
+Artigo 6.º
+
+Concessão da exploração e gestão do sistema
 
 1 - A exploração e a gestão do sistema são atribuídas à sociedade Águas de Santo André, S. A., abreviadamente designada por ‘sociedade’ ou ‘concessionária’, em regime de concessão de serviço público, a exercer em regime de exclusivo, com a ressalva das situações previstas no presente decreto-lei, pelo prazo de 30 anos.
 
@@ -255,7 +328,9 @@ b) À atribuição, em regime de exclusividade, da exploração e gestão do men
 
 6 - O contrato de concessão caduca no último dia do ano civil correspondente ao último ano da concessão, independentemente do dia em que tenha ocorrido o início do respetivo prazo.
 
-###### Artigo 7.º — Tarifas
+Artigo 7.º
+
+Tarifas
 
 1 - As tarifas das atividades prestadas pela sociedade em regime de exclusivo estão sujeitas à regulação da Entidade Reguladora dos Serviços de Águas e Resíduos (ERSAR), de acordo com o previsto no n.º 3 do artigo 6.º-A.
 
@@ -295,23 +370,31 @@ h) Assegurar uma adequada remuneração dos capitais próprios da sociedade.
 
 11 - Os contratos a que se refere o número anterior são sujeitos a autorização prévia do concedente, precedida de parecer da ERSAR.
 
-###### Artigo 8.º — Celebração do contrato de concessão
+Artigo 8.º
+
+Celebração do contrato de concessão
 
 1 - Os membros do Governo responsáveis pelas áreas das finanças e do ambiente ficam autorizados a outorgar o contrato de concessão e as suas alterações, em nome e representação do Estado.
 
 2 - [...]
 
-###### Artigo 9.º — Entradas de capital
+Artigo 9.º
+
+Entradas de capital
 
 [...]
 
-###### Artigo 10.º — Contrato de concessão
+Artigo 10.º
+
+Contrato de concessão
 
 1 - [...]
 
 2 - [...]
 
-###### Artigo 11.º — Utilizadores
+Artigo 11.º
+
+Utilizadores
 
 1 - São utilizadores municipais ou utilizadores finais do sistema quaisquer pessoas singulares ou coletivas, públicas ou privadas, que se encontrem ligadas ao sistema criado pelo [Decreto-Lei n.º 115/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1989-615242), de 14 de abril, com a reconfiguração decorrente do presente decreto-lei e das suas alterações, nas componentes de abastecimento de água para consumo público, fornecimento de água para uso industrial, saneamento de águas residuais urbanas e industriais e receção e tratamento de efluentes salinos.
 
@@ -319,7 +402,9 @@ h) Assegurar uma adequada remuneração dos capitais próprios da sociedade.
 
 3 - Relativamente à distribuição direta de água para consumo público, à recolha direta de águas residuais urbanas ou à receção de efluentes provenientes de limpeza de fossas séticas, podem ainda ser utilizadores finais do sistema quaisquer pessoas singulares ou coletivas, públicas ou privadas, em relação às quais seja reconhecido, por acordo entre a sociedade, a entidade gestora do sistema municipal e a entidade titular do sistema municipal, se diferentes, que a sua integração no sistema constitui a melhor solução do ponto de vista técnico e económico, nomeadamente por razões de proximidade e de acessibilidade às infraestruturas do sistema.
 
-###### Artigo 12.º — Património da sociedade
+Artigo 12.º
+
+Património da sociedade
 
 1 - [...]
 
@@ -335,7 +420,9 @@ h) Assegurar uma adequada remuneração dos capitais próprios da sociedade.
 
 7 - [Revogado.]
 
-###### Artigo 13.º — Registo de direitos e domínio público
+Artigo 13.º
+
+Registo de direitos e domínio público
 
 1 - [...]
 
@@ -353,7 +440,9 @@ h) Assegurar uma adequada remuneração dos capitais próprios da sociedade.
 
 8 - São consideradas de utilidade pública as expropriações dos imóveis e direitos inerentes necessários à implantação e à exploração das infraestruturas que constam do contrato de concessão.
 
-###### Artigo 14.º — Transferência de direitos e obrigações
+Artigo 14.º
+
+Transferência de direitos e obrigações
 
 1 - [...]
 
@@ -363,7 +452,9 @@ h) Assegurar uma adequada remuneração dos capitais próprios da sociedade.
 
 4 - [Anterior n.º 2.]
 
-###### Artigo 15.º — Reafetação dos trabalhadores da delegação de Santo André do Instituto da Água
+Artigo 15.º
+
+Reafetação dos trabalhadores da delegação de Santo André do Instituto da Água
 
 1 - [...]
 
@@ -377,7 +468,9 @@ h) Assegurar uma adequada remuneração dos capitais próprios da sociedade.
 
 6 - [...]
 
-###### Artigo 16.º — Aposentação dos trabalhadores da delegação de Santo André do Instituto da Água
+Artigo 16.º
+
+Aposentação dos trabalhadores da delegação de Santo André do Instituto da Água
 
 1 - [...]
 
@@ -393,7 +486,9 @@ h) Assegurar uma adequada remuneração dos capitais próprios da sociedade.
 
 7 - [...]
 
-###### Artigo 17.º — Entrada em vigor e produção de efeitos
+Artigo 17.º
+
+Entrada em vigor e produção de efeitos
 
 1 - [...]
 
@@ -451,7 +546,9 @@ d) O controlo dos parâmetros de qualidade da água fornecida e dos parâmetros 
 
 3 - As atividades previstas nas alíneas a) a e) do n.º 1 correspondem ao exercício de atividades concessionadas sujeitas a regulação pela ERSAR nos termos previstos no presente decreto-lei.
 
-###### Artigo 6.º-B — Regime de exercício das atividades concessionadas
+Artigo 6.º-B
+
+Regime de exercício das atividades concessionadas
 
 1 - A atividade prevista na alínea a) do n.º 1 do artigo anterior é exercida pela sociedade em regime de exclusivo, não podendo outras entidades, independentemente da sua natureza, desenvolver na área definida no contrato de concessão qualquer uma das seguintes componentes:
 
@@ -483,9 +580,11 @@ c) Captação, tratamento, adução e fornecimento de água para consumo humano 
 
 12 - A atividade prevista na alínea i) do n.º 1 do artigo anterior compreende a receção, o tratamento e a valorização de subprodutos de processos de tratamento de água e de águas residuais, designadamente de areias, lamas e gradados, produzidas no âmbito do sistema ou provenientes de entidades gestoras de sistemas de abastecimento público de água e/ou de saneamento de águas residuais urbanas, compreendendo a alienação dos subprodutos valorizados.
 
-13 - Para os utilizadores municipais e utilizadores finais das atividades concessionadas previstas nos n.<sup>os</sup>1, 2, 3, 7 e 8 é obrigatória a ligação ao sistema.
+13 - Para os utilizadores municipais e utilizadores finais das atividades concessionadas previstas nos n.os1, 2, 3, 7 e 8 é obrigatória a ligação ao sistema.
 
-###### Artigo 6.º-C — Objetivos de serviço público
+Artigo 6.º-C
+
+Objetivos de serviço público
 
 1 - A concessão tem por objetivo garantir a qualidade, a continuidade e a eficiência dos serviços públicos de abastecimento de água para consumo público, de fornecimento de água para uso industrial, de saneamento de águas residuais urbanas e industriais, da receção e tratamento de efluentes salinos e da produção de ApR, no sentido da proteção da saúde pública, do bem-estar das populações, da acessibilidade aos serviços públicos, da proteção do ambiente e da sustentabilidade económica e financeira do setor, num quadro de equidade e estabilidade tarifária, contribuindo ainda para o desenvolvimento regional e o ordenamento do território, bem como para alcançar as metas previstas nos planos e programas nacionais e as obrigações decorrentes de normativos europeus.
 
@@ -495,7 +594,9 @@ c) Captação, tratamento, adução e fornecimento de água para consumo humano 
 
 4 - Para efeitos do disposto no número anterior, a sociedade apresenta uma proposta de definição de objetivos e metas ao concedente até três meses antes da submissão de cada projeto tarifário quinquenal.
 
-###### Artigo 6.º-D — Medição e faturação
+Artigo 6.º-D
+
+Medição e faturação
 
 1 - Os caudais de água fornecida e de efluentes recolhidos são objeto de medição para efeitos de faturação, nos termos do disposto no contrato de concessão, nos regulamentos de exploração e nos contratos de fornecimento e de recolha.
 
@@ -511,7 +612,7 @@ c) Captação, tratamento, adução e fornecimento de água para consumo humano 
 
 7 - O volume de efluente determinado nos termos dos números anteriores inclui caudais pluviais e outras afluências indevidas que deve ser ajustado com base no disposto no contrato de concessão, sem prejuízo do disposto no número seguinte.
 
-8 - Para efeitos de faturação, a sociedade não pode considerar um volume de efluente superior ao valor do efluente efetivamente tratado e descarregado, respeitados os valores limites de emissão constantes do TURH da infraestrutura de tratamento, salvaguardados as condições de descarga e o mecanismo previsto nos n.<sup>os</sup>9 e 10.
+8 - Para efeitos de faturação, a sociedade não pode considerar um volume de efluente superior ao valor do efluente efetivamente tratado e descarregado, respeitados os valores limites de emissão constantes do TURH da infraestrutura de tratamento, salvaguardados as condições de descarga e o mecanismo previsto nos n.os9 e 10.
 
 9 - No caso de avaria, dano, deterioração ou desaparecimento do contador ou medidor de caudal, ou nos restantes casos em que a medição não puder ser realizada por razões técnicas, por impossibilidade de acesso aos contadores ou medidores de caudal ou nos casos em que tal se justifique, conforme previsto nos regulamentos de exploração de serviço, o volume dos caudais de água fornecidos e de efluentes recolhidos ‘em alta’ é determinado pela média dos consumos do último mês homólogo com leituras reais, acrescido da estimativa de crescimento do ano em curso ou, quando esta não exista, pela média dos registos do mês anterior à data em que presumivelmente tenha ocorrido a situação ou por estimativa acordada entre a sociedade e o utilizador.
 
@@ -527,7 +628,9 @@ c) Captação, tratamento, adução e fornecimento de água para consumo humano 
 
 15 - Por acordo entre a sociedade e os utilizadores municipais e utilizadores finais podem ser definidas outras condições de medição, de faturação e de pagamento, devendo a sociedade salvaguardar a equidade de tratamento entre os utilizadores da mesma natureza.
 
-###### Artigo 6.º-E — Outras atividades
+Artigo 6.º-E
+
+Outras atividades
 
 1 - A sociedade pode exercer outras atividades que sejam consideradas acessórias ou complementares das atividades concessionadas, desde que o seu exercício não ponha em causa a concorrência e que a exploração e a gestão do sistema se mantenham com contabilidade própria e autónoma.
 
@@ -541,7 +644,9 @@ a) As atividades acessórias ou complementares prosseguidas à data de início d
 
 b) As atividades tendentes a rentabilizar os bens imóveis que integravam o património imobiliário do Gabinete da Área de Sines afeto à delegação da DGRN em Santo André, nos termos do [Decreto-Lei n.º 115/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1989-615242), de 14 de abril, integrada no INAG por efeito do artigo 18.º-A do [Decreto-Lei n.º 191/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1993-283522), de 24 de maio, na sua redação atual, que não estiverem afetos às atividades de abastecimento público de água, ao fornecimento de água para uso industrial, ao saneamento de águas residuais urbanas e industriais e à receção e ao tratamento de efluentes salinos e à gestão de resíduos industriais.
 
-###### Artigo 6.º-F — Deveres de informação
+Artigo 6.º-F
+
+Deveres de informação
 
 1 - A sociedade deve elaborar e manter atualizado um inventário dos bens afetos às atividades concessionadas, nos termos definidos no contrato de concessão.
 
@@ -555,7 +660,9 @@ b) As atividades tendentes a rentabilizar os bens imóveis que integravam o patr
 
 6 - A sociedade deve divulgar anualmente os respetivos indicadores de atividade e desempenho, através dos documentos de prestação de contas e/ou dos meios digitais habitualmente utilizados para comunicação com as partes interessadas, no prazo máximo de 60 dias após a sua determinação ou o seu conhecimento.
 
-###### Artigo 7.º-A — Regime de aprovação das tarifas
+Artigo 7.º-A
+
+Regime de aprovação das tarifas
 
 1 - As tarifas para cada período quinquenal são submetidas ao concedente ou à ERSAR, conforme o que a legislação e a regulamentação aplicáveis determinem para as atividades concessionadas previstas no n.º 3 do artigo 6.º-A, devendo a sociedade apresentar para o efeito um projeto tarifário detalhado e justificado quanto aos rendimentos estimados e aos gastos previsionais de exploração, de investimento e financeiros, por atividade.
 
@@ -571,7 +678,9 @@ b) As atividades tendentes a rentabilizar os bens imóveis que integravam o patr
 
 7 - As tarifas previstas no n.º 5 para o período quinquenal seguinte são comunicadas pela sociedade aos utilizadores municipais e utilizadores finais no prazo previsto no número anterior.
 
-###### Artigo 7.º-B — Desvio de recuperação de gastos
+Artigo 7.º-B
+
+Desvio de recuperação de gastos
 
 1 - Considera-se desvio de recuperação de gastos a diferença verificada, anualmente, até ao termo de metade do período contado desde o início da data de produção de efeitos da revisão do contrato de concessão decorrente da entrada em vigor do [Decreto-Lei n.º 52/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2026-1051282290), de 16 de fevereiro, e o termo da concessão, entre o resultado líquido obtido pela sociedade adveniente da exploração e da gestão das atividades concessionadas previstas nas alíneas a) e b) do n.º 1 do artigo 6.º-A e o resultado líquido que resultaria da aplicação das regras de determinação das tarifas estipuladas nos termos dos artigos 7.º e 7.º-A, respeitando o previsto no n.º 6 do presente artigo.
 
@@ -579,9 +688,9 @@ b) As atividades tendentes a rentabilizar os bens imóveis que integravam o patr
 
 3 - Os desvios de recuperação de gastos podem assumir duas naturezas:
 
-a) Deficitária, quando se verificar uma insuficiência acumulada de resultados líquidos da sociedade advenientes da exploração e da gestão das atividades concessionadas previstas nos n.<sup>os</sup>1 e 2 do artigo 6.º-A em face do valor a que a sociedade tenha contratualmente direito a título de remuneração do capital investido, respeitando o previsto no n.º 7 do presente artigo;
+a) Deficitária, quando se verificar uma insuficiência acumulada de resultados líquidos da sociedade advenientes da exploração e da gestão das atividades concessionadas previstas nos n.os1 e 2 do artigo 6.º-A em face do valor a que a sociedade tenha contratualmente direito a título de remuneração do capital investido, respeitando o previsto no n.º 7 do presente artigo;
 
-b) Superavitária, quando se verificar um excesso de resultados líquidos da sociedade advenientes da exploração e da gestão das atividades concessionadas previstas nos n.<sup>os</sup>1 e 2 do artigo 6.º-A, em face do valor a que a sociedade tenha contratualmente direito a título de remuneração do capital investido, respeitando o previsto no n.º 7 do presente artigo.
+b) Superavitária, quando se verificar um excesso de resultados líquidos da sociedade advenientes da exploração e da gestão das atividades concessionadas previstas nos n.os1 e 2 do artigo 6.º-A, em face do valor a que a sociedade tenha contratualmente direito a título de remuneração do capital investido, respeitando o previsto no n.º 7 do presente artigo.
 
 4 - A sociedade deve registar nas suas contas os desvios de recuperação de gastos que se verificarem anualmente desde o início da data de produção de efeitos da revisão do contrato de concessão decorrente da entrada em vigor do [Decreto-Lei n.º 52/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2026-1051282290), de 16 de fevereiro.
 
@@ -597,7 +706,9 @@ b) Superavitária, quando se verificar um excesso de resultados líquidos da soc
 
 10 - A sociedade pode, como forma de minimizar o impacto dos encargos financeiros nas tarifas e, simultaneamente, potenciar a diversificação das fontes de financiamento disponíveis, ceder, no todo ou em parte, a instituições de crédito ou sociedades financeiras, o direito a receber, através de tarifas futuras, o montante correspondente aos desvios de recuperação de gastos de natureza deficitária, determinados com base no disposto no presente artigo.
 
-###### Artigo 7.º-C — Informação de natureza económica e financeira
+Artigo 7.º-C
+
+Informação de natureza económica e financeira
 
 1 - A informação de natureza económica e financeira a apresentar pela sociedade deve ser enviada ao concedente, de forma a permitir uma avaliação dos rendimentos, gastos, ativos, capitais próprios e passivos relativos à gestão do sistema, de forma desagregada por atividade.
 
@@ -605,7 +716,9 @@ b) Superavitária, quando se verificar um excesso de resultados líquidos da soc
 
 3 - As transações internas entre atividades concessionadas previstas no contrato de concessão devem ser objeto de justificação por parte da sociedade através da preparação de processo de documentação de preços de transferência, nos termos previstos na legislação e na regulamentação aplicáveis, objeto de validação pelo órgão de fiscalização da sociedade, e remetidas à ERSAR.
 
-###### Artigo 7.º-D — Reposição do equilíbrio económico e financeiro
+Artigo 7.º-D
+
+Reposição do equilíbrio económico e financeiro
 
 1 - Em caso de modificação significativa e comprovada das condições de exploração, pode haver lugar à reposição do equilíbrio económico-financeiro, nos termos do disposto nos números seguintes e no contrato.
 
@@ -625,7 +738,9 @@ e) Outra a definir por acordo entre as partes.
 
 4 - A decisão do concedente referida no n.º 2 é precedida de parecer da ERSAR.
 
-###### Artigo 8.º-A — Poderes do concedente
+Artigo 8.º-A
+
+Poderes do concedente
 
 1 - Além de outros poderes conferidos pelo presente decreto-lei, pelo contrato de concessão ou pela demais legislação aplicável, carecem de autorização prévia do concedente:
 
@@ -657,7 +772,9 @@ d) A realização de investimentos não previstos no plano referido na alínea a
 
 11 - O concedente tem, ainda, o poder de apreciar a atividade e os atos de gestão da sociedade, detendo poderes de fiscalização e de direção e podendo suspender os atos praticados.
 
-###### Artigo 8.º-B — Prestação de cauções
+Artigo 8.º-B
+
+Prestação de cauções
 
 1 - O montante da caução a prestar nos termos do n.º 10 do artigo 7.º é definido pela sociedade, em função da tarifa da atividade respetiva, do prazo do contrato e do volume anual mínimo contratualizado.
 
@@ -667,7 +784,7 @@ d) A realização de investimentos não previstos no plano referido na alínea a
 
 4 - A sociedade notifica o utilizador final da necessidade de prestação de caução e do seu montante, devendo a caução ser prestada no momento da celebração de qualquer um dos contratos previstos no n.º 10 do artigo 7.º e no n.º 3 do artigo 8.º-A.
 
-5 - O valor da caução prevista nos n.<sup>os</sup>1 e 2 é revisto em função da celebração de contrato com outro utilizador final.
+5 - O valor da caução prevista nos n.os1 e 2 é revisto em função da celebração de contrato com outro utilizador final.
 
 6 - A caução a que se refere o n.º 14 do artigo 6.º-D deve corresponder a três meses de faturação média mensal.
 
@@ -677,7 +794,9 @@ d) A realização de investimentos não previstos no plano referido na alínea a
 
 9 - Com a extinção do contrato a que se refere o n.º 10 do artigo 7.º e não havendo créditos a reclamar pela sociedade, é liberada a caução num prazo máximo de 30 dias.
 
-###### Artigo 13.º-A — Resolução sancionatória
+Artigo 13.º-A
+
+Resolução sancionatória
 
 1 - O concedente pode resolver o contrato nas situações previstas na lei e no contrato de concessão.
 
@@ -693,7 +812,9 @@ d) A realização de investimentos não previstos no plano referido na alínea a
 
 7 - Resolvido o contrato, o Estado assume imediatamente, por si ou por terceiros, a gestão e exploração do sistema, sem prejuízo do direito à indemnização a que houver lugar nos termos da lei.
 
-###### Artigo 13.º-B — Termo da concessão e reversão dos bens para o Estado
+Artigo 13.º-B
+
+Termo da concessão e reversão dos bens para o Estado
 
 1 - No termo da concessão e sem prejuízo do disposto no [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), de 31 de maio, na sua redação atual, e no contrato de concessão, os bens da sociedade afetos à concessão transferem-se para o Estado ou para os municípios, conforme aplicável, sem dependência de qualquer formalidade que não seja a realização de uma vistoria ad perpetuam rei memoriam, para a qual são convocados os representantes da sociedade.
 
@@ -705,7 +826,9 @@ d) A realização de investimentos não previstos no plano referido na alínea a
 
 5 - A transferência dos bens opera-se na data da liquidação dos montantes previstos no presente artigo.
 
-###### Artigo 14.º-A — Afetação de infraestruturas
+Artigo 14.º-A
+
+Afetação de infraestruturas
 
 1 - Mediante cedência ou transmissão da titularidade do direito de propriedade ou de outro direito real, as infraestruturas construídas na área geográfica da concessão pelas empresas instaladas na ZILS e que não se integrem em área do domínio público hídrico, que se destinem ao fornecimento de água para uso industrial, com origem em água do mar, e de rejeição dos respetivos efluentes, passam a integrar o sistema, com vista a assegurar a disponibilização de água em termos adequados e competitivos às necessidades quantitativas e qualitativas de todos os utilizadores finais daquela área da concessão.
 
@@ -745,7 +868,7 @@ c) Afetação ao sistema das infraestruturas existentes na faixa referida na al�
 
 ###### Artigo 6.º — Norma revogatória
 
-São revogados os n.<sup>os</sup>4 e 7 do artigo 12.º do [Decreto-Lei n.º 171/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2001-332748), de 25 de maio.
+São revogados os n.os4 e 7 do artigo 12.º do [Decreto-Lei n.º 171/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2001-332748), de 25 de maio.
 
 ###### Artigo 7.º — Entrada em vigor
 
@@ -753,32 +876,36 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de dezembro de 2025. - Luís Montenegro - Marisa da Luz Bento Garrido Marques Oliveira - Hélder Manuel Gomes dos Reis - Miguel Martinez de Castro Pinto Luz - Maria da Graça Carvalho.
 
-**Promulgado em 31 de janeiro de 2026.**
+Promulgado em 31 de janeiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 1 de fevereiro de 2026.**
+Referendado em 1 de fevereiro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO I — [a que se refere a alínea c) do artigo 1.º]
 
 Área do domínio público hídrico
 
-![](https://files.diariodarepublica.pt/images/1051282290/1051282192.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1051282290/1051282192.png) |
+| --- |
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 5.º)
 
 Infraestruturas hidráulicas existentes na faixa referida na alínea c) do artigo 1.º:
 
-1 - Edifício de bombagem, com cerca de 500 m<sup>2</sup> de implantação;
+1 - Edifício de bombagem, com cerca de 500 m2 de implantação;
 
-2 - Edifício de cloragem, com cerca de 500 m<sup>2</sup> de implantação;
+2 - Edifício de cloragem, com cerca de 500 m2 de implantação;
 
-3 - Edifício de apoio à manutenção, com cerca de 85 m<sup>2</sup> de implantação;
+3 - Edifício de apoio à manutenção, com cerca de 85 m2 de implantação;
 
-Área adjacente ao edifício 1 (a verde), com cerca de 1700 m<sup>2</sup> de implantação.
+Área adjacente ao edifício 1 (a verde), com cerca de 1700 m2 de implantação.
 
-![](https://files.diariodarepublica.pt/images/1051282290/1051282193.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1051282290/1051282193.png) |
+| --- |
+
+119947658

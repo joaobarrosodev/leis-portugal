@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44498-1962-164188
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-08-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:30:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a600b7148bd8ede939a4c4e358f671e6e6d99970bb03ae9e85ae50fa3c703339
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31631cd9f7e7d774eb65d520001c7d957202b95a49618ff1da9a34bb1e1b7244
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:30:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:30:28Z'
   warnings: []
   errors: []
 ---
@@ -85,10 +85,10 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a importação temporária de filmes educativos, de carácter científico ou cultural, que não se destinem a exibição em recintos de entradas pagas, pelo prazo de doze meses e com dispensa de garantia aos direitos respectivos.
+Artigo 1.º É autorizada a importação temporária de filmes educativos, de carácter científico ou cultural, que não se destinem a exibição em recintos de entradas pagas, pelo prazo de doze meses e com dispensa de garantia aos direitos respectivos.
 
-###### Art. 2.º Só poderão gozar do regime especial estabelecido pelo presente diploma os filmes educativos, de carácter científico ou cultural, como tais reconhecidos pelo Secretariado Nacional da Informação, Cultura Popular e Turismo, e quando este se responsabilize pelo pagamento dos direitos que forem devidos pelos filmes não presentes à alfândega, para reexportação, dentro do respectivo prazo.
+Art. 2.º Só poderão gozar do regime especial estabelecido pelo presente diploma os filmes educativos, de carácter científico ou cultural, como tais reconhecidos pelo Secretariado Nacional da Informação, Cultura Popular e Turismo, e quando este se responsabilize pelo pagamento dos direitos que forem devidos pelos filmes não presentes à alfândega, para reexportação, dentro do respectivo prazo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Agosto de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa.

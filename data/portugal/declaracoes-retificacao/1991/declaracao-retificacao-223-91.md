@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 225/1991, 2º Suplemento, Série I-B de 1991-09-30
   number: '225'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 5084-(11) a 5084-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/09/225b02/00110011.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/223/1991/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/223-1991-682187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-09-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:30:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3817cddb9b825d10c5683064ad9bf64d3b911df324a6166639a9bbc2622718d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 066f801ec0dda76c3276099ace43a634082f0f952d23c3387631c390f2888fc3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:30:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,21 +74,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/decl/125/1991/09/09/p/dre
   label: null
   source: http://data.dre.pt/eli/decl/125/1991/09/09/p/dre
+- type: cites
+  target: pt:dre:303874:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:30:35Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 223/91
+# Declaração de rectificação n.º 223/91
 
 Segundo comunicação da 2.ª Delegação da Direcção-Geral da Contabilidade Pública junto do Ministério da Defesa Nacional, a [Declaração n.º 125/91](https://diariodarepublica.pt/dr/detalhe/declaracao/125-1991-303874), publicada no Diário da República, n.º 207, de 9 de Setembro de 1991, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
 

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/74/2006/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/74-2006-546018
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:06:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8c15db87775d6cd62c3fa76606542340f0ada1259a3c4e0893def19457e15e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: afb95fe60d24e0c85768a7c85142541fc5c03a4f920979d864f1f3e0c0ab30dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:06:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regime Florestal
-- Serra da Estrela
-- Plano de Pormenor
 - Autarquia Local
 - Guarda
+- Plano de Pormenor
+- Regime Florestal
+- Serra da Estrela
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec/21/2006/09/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec/21/2006/09/14/p/dre
+- type: cites
+  target: pt:dre:539841:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto:21/2006
+  label: "Rectifica o Decreto n.º 21/2006, de 14 de Setembro, DR.IS [178]\0\0"
+  source: null
+  date: '2006-09-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:06:57Z'
   warnings: []
   errors: []
 ---

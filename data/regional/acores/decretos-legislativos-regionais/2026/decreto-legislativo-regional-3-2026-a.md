@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/3/2026/01/21/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2026-1017369037
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-21T00:00:00Z'
+  retrieved_at: '2026-10-22T18:29:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c380894807c6be0b7b10a9033edef19fd41ddda9673979558c4c01bba846e878
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87022f9258a1e5844cad8e6aad964364ed4e422bdb6a7e4b4e4e2cc7ccbbc8c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:29:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Colocação de Professores
 - Concurso
-- Recrutamento de Pessoal
-- Pessoal Docente
-- Ensino Básico
-- Quadro de Pessoal
-- Regulamento
-- Açores
 - Educação Pré-escolar
+- Ensino Básico
+- Pessoal Docente
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Regulamento
 - ZONA Pedagógica
 relationships:
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:22/2012/A
+  label: Altera, a partir de 22 de janeiro de 2026, nos termos do artigo 6.º do presente diploma, os artigos 1.º, 3.º, 4.º,
+    5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 14.º, 15.º, 16.º, 17.º, 19.º, 20.º, 21.º, 22.º, 23.º, 24.º, 25.º e 26.º, adita o artigo
+    22.º-A, revoga o n.º 3 do artigo 4.º-B, o n.º 3 do artigo 8.º, o n.º 6 do artigo 9.º e os n.ºs 4 e 7 do artigo 25.º e
+    procede à republicação do Regulamento de Concurso do Pessoal Docente da Educação Pré-Escolar e Ensinos Básico e Secundário,
+    aprovado pelo Decreto Legislativo Regional n.º 22/2012/A, de 30 de maio, Diário da República n.º 105/2012, Série I
+  source: null
+  date: '2012-05-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/10/2021/04/19/a/dre
   label: null
@@ -113,16 +122,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:106861729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:161587773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162834700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214781730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:890674843:por
+  label: null
+  source: null
 article_structure:
-  article_count: 60
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 38
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:29:47Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +184,7 @@ validation:
 
 Quarta alteração ao Regulamento de Concurso do Pessoal Docente da Educação Pré-Escolar e Ensinos Básico e Secundário
 
-O regime de recrutamento e seleção de pessoal docente da educação pré-escolar e dos ensinos básico, secundário e artístico para o exercício de funções na rede pública do sistema educativo da Região Autónoma dos Açores encontra-se previsto no Regulamento aprovado pelo [Decreto Legislativo Regional n.º 22/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2012-177813), de 30 de maio, retificado pela [Declaração de Retificação n.º 39/2012](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2012-179364), de 24 de julho, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[2/2013/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-260390), de 22 de abril, [2/2017/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2017-106861729), de 11 de abril, e [10/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2021-161587773), de 19 de abril, retificado pela [Declaração de Retificação n.º 6/2021/A](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/6-2021-162834700), de 6 de maio.
+O regime de recrutamento e seleção de pessoal docente da educação pré-escolar e dos ensinos básico, secundário e artístico para o exercício de funções na rede pública do sistema educativo da Região Autónoma dos Açores encontra-se previsto no Regulamento aprovado pelo [Decreto Legislativo Regional n.º 22/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2012-177813), de 30 de maio, retificado pela [Declaração de Retificação n.º 39/2012](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2012-179364), de 24 de julho, alterado pelos Decretos Legislativos Regionais n.os[2/2013/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-260390), de 22 de abril, [2/2017/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2017-106861729), de 11 de abril, e [10/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2021-161587773), de 19 de abril, retificado pela [Declaração de Retificação n.º 6/2021/A](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/6-2021-162834700), de 6 de maio.
 
 Contudo, na sequência da posterior alteração ao Estatuto da Carreira Docente para a Região Autónoma dos Açores, bem como das alterações legislativas introduzidas pelo Governo da República relativas às condições de trabalho e de recrutamento do pessoal docente em território continental nacional e motivado pela crescente escassez de recursos docentes à escala nacional, é necessário introduzir, não somente a necessária harmonização legislativa, como mecanismos que potenciem a estabilidade letiva nas escolas açorianas e ainda a estabilidade laboral, social e familiar dos docentes nos Açores.
 
@@ -147,7 +200,7 @@ Assim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos te
 
 ###### Artigo 1.º — Objeto
 
-Pelo presente decreto legislativo regional é alterado o Regulamento de Concurso do Pessoal Docente da Educação Pré-Escolar e Ensinos Básico e Secundário, aprovado pelo [Decreto Legislativo Regional n.º 22/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2012-177813), de 30 de maio, retificado pela [Declaração de Retificação n.º 39/2012](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2012-179364), de 24 de julho, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[2/2013/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-260390), de 22 de abril, [2/2017/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2017-106861729), de 11 de abril, e [10/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2021-161587773), de 19 de abril, retificado pela [Declaração de Retificação n.º 6/2021/A](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/6-2021-162834700), de 6 de maio.
+Pelo presente decreto legislativo regional é alterado o Regulamento de Concurso do Pessoal Docente da Educação Pré-Escolar e Ensinos Básico e Secundário, aprovado pelo [Decreto Legislativo Regional n.º 22/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2012-177813), de 30 de maio, retificado pela [Declaração de Retificação n.º 39/2012](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2012-179364), de 24 de julho, alterado pelos Decretos Legislativos Regionais n.os[2/2013/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-260390), de 22 de abril, [2/2017/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2017-106861729), de 11 de abril, e [10/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2021-161587773), de 19 de abril, retificado pela [Declaração de Retificação n.º 6/2021/A](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/6-2021-162834700), de 6 de maio.
 
 ###### Artigo 2.º — Alteração ao Regulamento de Concurso do Pessoal Docente da Educação Pré-Escolar e Ensinos Básico e Secundário
 
@@ -163,13 +216,17 @@ Os artigos 1.º, 3.º a 10.º, 14.º a 17.º e 19.º a 26.º do Regulamento de C
 
 3 - [...]
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Nos termos do artigo 38.º do Estatuto da Carreira Docente, os quadros de pessoal docente do sistema educativo regional estruturam-se em quadros de escola, quadros de ilha e quadro regional de Educação Moral e Religiosa Católica.
 
 2 - No quadro regional de Educação Moral e Religiosa Católica a que se refere o número anterior são integrados os docentes da disciplina de Educação Moral e Religiosa Católica, cabendo ao diretor regional competente em matéria de administração educativa a distribuição dos docentes pelas escolas, em função das necessidades, sob proposta do bispo de Angra.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -197,13 +254,17 @@ Os artigos 1.º, 3.º a 10.º, 14.º a 17.º e 19.º a 26.º do Regulamento de C
 
 13 - Os docentes do quadro de escola com vínculo definitivo podem beneficiar, com as devidas adaptações, do regime de deslocação de docentes por um ano a que se refere o artigo 96.º do Estatuto da Carreira Docente, nos termos aí fixados.
 
-###### Artigo 4.º-A — [...]
+Artigo 4.º-A
+
+[...]
 
 1 - Para efeitos de integração em carreira nos termos do artigo 4.º-B, e sem prejuízo do disposto no n.º 4 do artigo 9.º, são criados nove quadros de ilha por cada grupo de recrutamento, cujos lugares se extinguem quando vagarem.
 
 2 - [...]
 
-###### Artigo 4.º-B — [...]
+Artigo 4.º-B
+
+[...]
 
 1 - Sem prejuízo do n.º 4, o recurso a contratos de trabalho a termo resolutivo, pelas unidades orgânicas da rede pública regional, em horário anual e completo, em cada grupo de recrutamento, por períodos de três anos, determina a abertura do correspondente número de vagas nos respetivos grupos de recrutamento e no quadro de ilha a que pertencem as unidades orgânicas.
 
@@ -215,11 +276,13 @@ Os artigos 1.º, 3.º a 10.º, 14.º a 17.º e 19.º a 26.º do Regulamento de C
 
 5 - A sucessão ininterrupta de contratos de trabalho em funções públicas a termo resolutivo, celebrados nas unidades orgânicas do sistema público regional, correspondendo a um total de 1095 dias de serviço efetivo, no mesmo grupo de recrutamento ou em grupos de recrutamento diferentes, com qualificação profissional, dá direito a abertura de vaga em quadro de ilha e no grupo de recrutamento em que se registou a última contratação anual.
 
-6 - Ao número de vagas apurado nos termos dos n.<sup>os</sup>1 e 2 é deduzido o número de vagas abertas para os quadros das escolas pertencentes aos respetivos quadros de ilha, bem como o número de vagas abertas nos termos do número anterior.
+6 - Ao número de vagas apurado nos termos dos n.os1 e 2 é deduzido o número de vagas abertas para os quadros das escolas pertencentes aos respetivos quadros de ilha, bem como o número de vagas abertas nos termos do número anterior.
 
 7 - Os dias de serviço efetivo a que se refere o n.º 5 reportam-se ao ano escolar em curso e aos dois anos escolares imediatamente anteriores, desde que prestados em horário anual e completo.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -249,7 +312,9 @@ b) A afetação de docentes dos quadros de ilha e do quadro regional de Educaç�
 
 10 - Os candidatos aos procedimentos concursais regulados nos números anteriores podem ser opositores a todos os grupos de recrutamento para os quais possuem habilitação profissional.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Os procedimentos concursais interno e externo de provimento são abertos anualmente, no decorrer do mês de março, pela direção regional competente em matéria de administração educativa, por aviso a publicar na Bolsa de Emprego Público dos Açores, adiante designada por BEP-Açores, pelo prazo de oito dias úteis.
 
@@ -261,7 +326,9 @@ b) A afetação de docentes dos quadros de ilha e do quadro regional de Educaç�
 
 5 - Do aviso de abertura deve constar a obrigatoriedade de utilização de formulário eletrónico em todas as fases do procedimento, em modelos aprovados e disponibilizados pela direção regional competente em matéria de administração educativa.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A candidatura ao procedimento concursal é formalizada através do preenchimento de formulário eletrónico, aprovado e disponibilizado pela direção regional competente em matéria de administração educativa.
 
@@ -289,7 +356,9 @@ g) [...]
 
 6 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -305,7 +374,9 @@ g) [...]
 
 7 - Os candidatos aos concursos interno e externo de provimento, simultaneamente opositores a quadros de escola e a quadros de ilha, manifestam preferência por colocação nos quadros de escola, em cada ilha a que se candidatam.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -395,7 +466,9 @@ i) [Anterior alínea f).]
 
 9 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -419,7 +492,9 @@ i) [Anterior alínea f).]
 
 11 - [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Terminada a verificação dos requisitos de admissão ao procedimento concursal são elaborados os projetos de listas ordenadas de graduação de candidatos, que são disponibilizados na página do Concurso do Pessoal Docente na Internet, assim como no Portal da Educação.
 
@@ -441,7 +516,9 @@ i) [Anterior alínea f).]
 
 10 - O disposto no n.º 4 não abrange a possibilidade de os candidatos introduzirem qualquer outro tipo de alterações às opções inicialmente indicadas.
 
-###### Artigo 15.º — Colocações
+Artigo 15.º
+
+Colocações
 
 1 - As listas de colocações dos candidatos, depois de homologadas pelo diretor regional competente em matéria de administração educativa, são disponibilizadas nas páginas da Internet referidas no n.º 1 do artigo anterior.
 
@@ -455,11 +532,13 @@ i) [Anterior alínea f).]
 
 6 - A não aceitação da colocação determina o impedimento do docente prestar serviço em qualquer estabelecimento de educação ou de ensino da rede pública dos Açores, nesse ano escolar e no ano escolar subsequente, assim como a impossibilidade de se candidatar aos procedimentos concursais que, para esses anos escolares, forem abertos, determinando, ainda, a cessação do vínculo contratual com o sistema educativo regional no caso dos docentes titulares de lugar de quadro, salvo se, por despacho do diretor regional competente em matéria de administração educativa, o motivo invocado para o incumprimento for considerado atendível.
 
-7 - Os docentes abrangidos pelos impedimentos previstos no número anterior podem, contudo, apresentar candidatura às ofertas de escola a que se refere o artigo 25.º e, nesse âmbito, ser autorizada a sua contratação, por despacho do diretor regional com competência em administração educativa, nas situações em que não existam outros candidatos com habilitação legal para o respetivo grupo de recrutamento, aplicando-se o disposto nos n.<sup>os</sup>6 e 7 do artigo 25.º, com as necessárias adaptações.
+7 - Os docentes abrangidos pelos impedimentos previstos no número anterior podem, contudo, apresentar candidatura às ofertas de escola a que se refere o artigo 25.º e, nesse âmbito, ser autorizada a sua contratação, por despacho do diretor regional com competência em administração educativa, nas situações em que não existam outros candidatos com habilitação legal para o respetivo grupo de recrutamento, aplicando-se o disposto nos n.os6 e 7 do artigo 25.º, com as necessárias adaptações.
 
 8 - Os docentes colocados em quadro de escola e em quadro de ilha pelos concursos interno e externo de provimento cumprem, pelo menos, o primeiro ano de provimento, na escola ou na ilha, respetivamente, onde obtiveram colocação.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -485,7 +564,9 @@ c) Impossibilidade de, no respetivo ano escolar e no ano escolar subsequente, se
 
 9 - [...]
 
-###### Artigo 17.º — Formalização e cumprimento dos contratos de trabalho
+Artigo 17.º
+
+Formalização e cumprimento dos contratos de trabalho
 
 1 - Os contratos por tempo indeterminado e a termo resolutivo são celebrados em impressos de modelo disponibilizado pela direção regional competente em matéria de administração educativa, em representação da administração educativa regional, pelo membro do órgão executivo competente e pelo contratado.
 
@@ -499,7 +580,9 @@ c) Impossibilidade de, no respetivo ano escolar e no ano escolar subsequente, se
 
 6 - [...]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]
 
@@ -511,7 +594,9 @@ c) Impossibilidade de, no respetivo ano escolar e no ano escolar subsequente, se
 
 5 - (Anterior n.º 3.)
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -531,7 +616,9 @@ c) Impossibilidade de, no respetivo ano escolar e no ano escolar subsequente, se
 
 9 - Sem prejuízo do disposto no n.º 1, ao provimento em quadros de ilha apenas podem candidatar-se os docentes que reúnam as condições previstas no n.º 5 do artigo 5.º
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 8 do artigo 15.º, os docentes dos quadros de escola que pretendam beneficiar de deslocação por um ano têm de fazer a necessária candidatura ao procedimento interno de afetação.
 
@@ -585,7 +672,9 @@ c) Na última unidade orgânica em que desempenharam funções docentes.
 
 12 - A não comprovação das declarações prestadas pelos docentes em regime de destacamento por condições específicas determina, consoante o caso, a não admissão nessas prioridades ou a anulação da correspondente colocação, bem como a instauração de procedimento disciplinar e a comunicação ao Ministério Público para o efeito de apuramento de eventual responsabilidade criminal a que haja lugar.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...]
 
@@ -599,7 +688,9 @@ c) Na última unidade orgânica em que desempenharam funções docentes.
 
 6 - Sem prejuízo do disposto no n.º 3 do artigo 19.º, os trabalhadores em funções públicas, em situação de licença sem remuneração de longa duração, que tenham requerido o regresso ao serviço de origem e cujo posto de trabalho se encontre ocupado ou cujo posto de trabalho não seja ocupado durante o período de gozo da licença, podem ser opositores aos procedimentos concursais centralizados e de escola para contratação a termo resolutivo de pessoal docente, nos termos previstos no presente Regulamento.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]
 
@@ -633,7 +724,9 @@ c) Na última unidade orgânica em que desempenharam funções docentes.
 
 16 - [...]
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - As necessidades transitórias que surjam ao longo do ano escolar são satisfeitas pelos candidatos não colocados constantes da lista centralizada de contratação de pessoal docente, mediante colocações a realizar pela direção regional competente em matéria de administração educativa.
 
@@ -643,7 +736,9 @@ c) Na última unidade orgânica em que desempenharam funções docentes.
 
 4 - [...]
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...]
 
@@ -685,7 +780,9 @@ d) Idade, do docente mais velho para o mais novo.
 
 10 - [...]
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]
 
@@ -709,11 +806,11 @@ Período experimental e denúncia de contrato
 
 ###### Artigo 4.º — Norma revogatória
 
-São revogados o n.º 3 do artigo 4.º-B, o n.º 3 do artigo 8.º, o n.º 6 do artigo 9.º e os n.<sup>os</sup>4 e 7 do artigo 25.º do Regulamento de Concurso do Pessoal Docente da Educação Pré-Escolar e Ensinos Básico e Secundário, aprovado pelo [Decreto Legislativo Regional n.º 22/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2012-177813), de 30 de maio.
+São revogados o n.º 3 do artigo 4.º-B, o n.º 3 do artigo 8.º, o n.º 6 do artigo 9.º e os n.os4 e 7 do artigo 25.º do Regulamento de Concurso do Pessoal Docente da Educação Pré-Escolar e Ensinos Básico e Secundário, aprovado pelo [Decreto Legislativo Regional n.º 22/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2012-177813), de 30 de maio.
 
 ###### Artigo 5.º — Republicação
 
-O Regulamento de Concurso do Pessoal Docente da Educação Pré-Escolar e Ensinos Básico e Secundário, aprovado pelo [Decreto Legislativo Regional n.º 22/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2012-177813), de 30 de maio, retificado pela [Declaração de Retificação n.º 39/2012](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2012-179364), de 24 de julho, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[2/2013/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-260390), de 22 de abril, [2/2017/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2017-106861729), de 11 de abril, e [10/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2021-161587773), de 19 de abril, retificado pela [Declaração de Retificação n.º 6/2021/A](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/6-2021-162834700), de 6 de maio, com as alterações introduzidas pelo presente diploma, é republicado em anexo.
+O Regulamento de Concurso do Pessoal Docente da Educação Pré-Escolar e Ensinos Básico e Secundário, aprovado pelo [Decreto Legislativo Regional n.º 22/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2012-177813), de 30 de maio, retificado pela [Declaração de Retificação n.º 39/2012](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2012-179364), de 24 de julho, alterado pelos Decretos Legislativos Regionais n.os[2/2013/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-260390), de 22 de abril, [2/2017/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2017-106861729), de 11 de abril, e [10/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2021-161587773), de 19 de abril, retificado pela [Declaração de Retificação n.º 6/2021/A](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/6-2021-162834700), de 6 de maio, com as alterações introduzidas pelo presente diploma, é republicado em anexo.
 
 ###### Artigo 6.º — Entrada em vigor
 
@@ -721,11 +818,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e aplic
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 10 de dezembro de 2025.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 19 de janeiro de 2026.**
+Assinado em Angra do Heroísmo em 19 de janeiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -803,13 +900,15 @@ b) Havendo nas unidades orgânicas um número insuficiente de docentes interessa
 
 5 - A sucessão ininterrupta de contratos de trabalho em funções públicas a termo resolutivo, celebrados nas unidades orgânicas do sistema público regional, correspondendo a um total de 1095 dias de serviço efetivo, no mesmo grupo de recrutamento ou em grupos de recrutamento diferentes, com qualificação profissional, dá direito a abertura de vaga em quadro de ilha e no grupo de recrutamento em que se registou a última contratação anual.
 
-6 - Ao número de vagas apurado nos termos dos n.<sup>os</sup>1 e 2 é deduzido o número de vagas abertas para os quadros das escolas pertencentes aos respetivos quadros de ilha, bem como o número de vagas abertas nos termos do número anterior.
+6 - Ao número de vagas apurado nos termos dos n.os1 e 2 é deduzido o número de vagas abertas para os quadros das escolas pertencentes aos respetivos quadros de ilha, bem como o número de vagas abertas nos termos do número anterior.
 
 7 - Os dias de serviço efetivo a que se refere o n.º 5 reportam-se ao ano escolar em curso e aos dois anos escolares imediatamente anteriores, desde que prestados em horário anual e completo.
 
 ### CAPÍTULO II — PROCEDIMENTO CONCURSAL
 
-#### SECÇÃO I — PARTE GERAL
+#### SECÇÃO I
+
+## PARTE GERAL
 
 ###### Artigo 5.º — Procedimento concursal
 
@@ -1129,7 +1228,7 @@ c) Candidatos com mais idade.
 
 6 - A não aceitação da colocação determina o impedimento do docente prestar serviço em qualquer estabelecimento de educação ou de ensino da rede pública dos Açores, nesse ano escolar e no ano escolar subsequente, assim como a impossibilidade de se candidatar aos procedimentos concursais que, para esses anos escolares, forem abertos, determinando, ainda, a cessação do vínculo contratual com o sistema educativo regional no caso dos docentes titulares de lugar de quadro, salvo se, por despacho do diretor regional competente em matéria de administração educativa, o motivo invocado para o incumprimento for considerado atendível.
 
-7 - Os docentes abrangidos pelos impedimentos previstos no número anterior podem, contudo, apresentar candidatura às ofertas de escola a que se refere o artigo 25.º e, nesse âmbito, ser autorizada a sua contratação, por despacho do diretor regional com competência em administração educativa, nas situações em que não existam outros candidatos com habilitação legal para o respetivo grupo de recrutamento, aplicando-se o disposto nos n.<sup>os</sup>6 e 7 do artigo 25.º, com as necessárias adaptações.
+7 - Os docentes abrangidos pelos impedimentos previstos no número anterior podem, contudo, apresentar candidatura às ofertas de escola a que se refere o artigo 25.º e, nesse âmbito, ser autorizada a sua contratação, por despacho do diretor regional com competência em administração educativa, nas situações em que não existam outros candidatos com habilitação legal para o respetivo grupo de recrutamento, aplicando-se o disposto nos n.os6 e 7 do artigo 25.º, com as necessárias adaptações.
 
 8 - Os docentes colocados em quadro de escola e em quadro de ilha pelos concursos interno e externo de provimento cumprem, pelo menos, o primeiro ano de provimento, na escola ou na ilha, respetivamente, onde obtiveram colocação.
 
@@ -1145,7 +1244,7 @@ c) Candidatos com mais idade.
 
 5 - Nos casos em que a apresentação dos docentes a que se refere o número anterior não puder ser presencial, por motivo de férias, licença parental, doença ou outro previsto na lei, devem os mesmos, no 1.º dia útil do mês de setembro, por si ou por interposta pessoa, comunicar o facto à unidade orgânica onde obtiveram colocação, com apresentação, no prazo de cinco dias, do respetivo documento comprovativo.
 
-6 - A não comparência dos docentes nos termos dos n.<sup>os</sup>4 e 5 determina:
+6 - A não comparência dos docentes nos termos dos n.os4 e 5 determina:
 
 a) Anulação da colocação;
 
@@ -1187,7 +1286,9 @@ e) Documento comprovativo de ter cumprido as leis do recrutamento militar, se fo
 
 (Revogado.)
 
-#### SECÇÃO II — PARTE ESPECIAL
+#### SECÇÃO II
+
+## PARTE ESPECIAL
 
 ###### Artigo 19.º — Procedimento concursal interno de provimento
 
@@ -1414,3 +1515,5 @@ d) Idade, do docente mais velho para o mais novo.
 ###### Artigo 29.º — Legislação subsidiária
 
 Em tudo o que não estiver regulado no presente diploma é aplicável o Estatuto da Carreira Docente da Região Autónoma dos Açores e subsidiariamente a legislação regional e nacional em vigor.
+
+119947329

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/02/03100/0006200063.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/78/2026/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/78-2026-1049254422
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-13T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8370df3de7960c57cc6529c658e4596c7ac715e1e6f50cf3c7c35fd20bb24d82
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9721d8aa7285dddfd0d9ac15a662e8b3c701f6a54cbf01fdb44af12424e300bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contrato Coletivo de Trabalho
-- Regime Laboral
-- Convenção Coletiva de Trabalho
 - Agricultura
+- Comércio
+- Contrato Coletivo de Trabalho
+- Convenção Coletiva de Trabalho
+- Portaria de extensão
+- Regime Laboral
 - Regulamento de Extensão
 - Relações de Trabalho
 - Tabela Salarial
-- Comércio
 - Trabalhador por Conta de Outrem
-- Portaria de extensão
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/82/2017/06/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/82/2017/06/09/p/dre
+- type: cites
+  target: pt:dre:107495701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:927634612:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:18Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +121,7 @@ Neste contexto, ponderadas as circunstâncias sociais e económicas justificativ
 
 Considerando que o contrato coletivo regula diversas condições de trabalho, procede-se à ressalva genérica da extensão de cláusulas contrárias a normas legais imperativas.
 
-Nos termos da alínea c) do n.º 1 do artigo 478.º do Código do Trabalho e dos n.<sup>os</sup> 2 e 4 da referida RCM, na fixação da eficácia das cláusulas de natureza pecuniária foi tido em conta a data do depósito da convenção, o termo do prazo para a emissão da portaria de extensão e que a produção de efeitos requerida pelas partes é posterior ao termo do referido prazo.
+Nos termos da alínea c) do n.º 1 do artigo 478.º do Código do Trabalho e dos n.os 2 e 4 da referida RCM, na fixação da eficácia das cláusulas de natureza pecuniária foi tido em conta a data do depósito da convenção, o termo do prazo para a emissão da portaria de extensão e que a produção de efeitos requerida pelas partes é posterior ao termo do referido prazo.
 
 Foi publicado o aviso relativo ao projeto da presente extensão no Boletim do Trabalho e Emprego, separata, n.º 1, de 5 de janeiro de 2026, ao qual a FESAHT - Federação dos Sindicatos da Agricultura, Alimentação, Bebidas, Hotelaria e Turismo de Portugal deduziu oposição aos seus termos, pretendendo a exclusão dos trabalhadores filiados em sindicatos por esta representados, alegando, em síntese, que é outorgante convenção coletiva de trabalho celebrada com a mesma associação de empregadores, com de âmbito de aplicação coincidente. Todavia, a referida exclusão não se justifica porquanto, como referido no projeto de portaria de extensão, a extensão abrange somente as relações de trabalho entre trabalhadores filiados no SETAAB ao serviço de empregadores não filiados na associação de empregadores outorgante.
 
@@ -145,4 +153,6 @@ f) Associações de beneficiários e regantes.
 
 2 - A tabela salarial e as cláusulas de natureza pecuniária previstas na convenção produzem efeitos a partir do primeiro dia do mês da publicação da presente portaria no Diário da República.
 
-**O Secretário de Estado Adjunto e do Trabalho, Adriano Rafael Sousa Moreira, em 6 de fevereiro de 2026.**
+O Secretário de Estado Adjunto e do Trabalho, Adriano Rafael Sousa Moreira, em 6 de fevereiro de 2026.
+
+119947650

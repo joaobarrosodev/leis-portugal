@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45635-1964-470834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:40:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 00cace152a801effefed80a1be28a2dbf9a4aad8018aed92acd73a95b0236c65
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e33b43ab22eb5024cb12de02119de5054e61e7751f55e73d75ce567ca26cd109
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:40:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:484462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637472:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:40:04Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +110,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os artigos 85.º, 103, 104.º e 113.º do [Decreto n.º 36508](https://diariodarepublica.pt/dr/detalhe/decreto/36508-1947-637472), de 17 de Setembro de 1947, passam a ter a seguinte redacção:
+Artigo único. Os artigos 85.º, 103, 104.º e 113.º do [Decreto n.º 36508](https://diariodarepublica.pt/dr/detalhe/decreto/36508-1947-637472), de 17 de Setembro de 1947, passam a ter a seguinte redacção:
 
-###### Art. 85.º - 1. Os professores efectivos, auxiliares, agregados e de serviço eventual são classificados, segundo as disciplinas que normalmente regem, pela forma seguinte:
+Art. 85.º - 1. Os professores efectivos, auxiliares, agregados e de serviço eventual são classificados, segundo as disciplinas que normalmente regem, pela forma seguinte:
 
 1.º grupo - Português, Latim e Grego.
 
@@ -128,17 +136,17 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 103.º - 1. A valorização proveniente do tempo de serviço é de 0,5 valor por cada um dos vinte primeiros anos de serviço prestado depois de os professores terem adquirido a habilitação legal.
+Art. 103.º - 1. A valorização proveniente do tempo de serviço é de 0,5 valor por cada um dos vinte primeiros anos de serviço prestado depois de os professores terem adquirido a habilitação legal.
 
 2. Não será contado o tempo de serviço que tenha sido classificado de Deficiente, nem o que se refira a um ano escolar durante o qual os professores hajam sofrido pena disciplinar superior à de advertência.
 
-###### Art. 104.º - 1. Se para a mesma vaga houver requerente com igual classificação profissional, terá preferência o que tiver mais tempo de serviço que não haja interferido no cálculo dessa classificação e, em caso de igualdade, o mais velho.
+Art. 104.º - 1. Se para a mesma vaga houver requerente com igual classificação profissional, terá preferência o que tiver mais tempo de serviço que não haja interferido no cálculo dessa classificação e, em caso de igualdade, o mais velho.
 
 2. No concurso para professor auxiliar constituirá, porém, motivo de preferência absoluta ter, pelo menos, vinte anos escolares de bom serviço como professor agregado. Para este efeito o ano escolar considera-se de 314 dias.
 
 ...
 
-###### Art. 113.º A distribuição dos professores auxiliares e agregados pelos diferentes liceus será feita harmonizando-se, quanto possível, as necessidades e conveniências do ensino com os legítimos interesses desses professores e tendo-se em vista as seguintes regras:
+Art. 113.º A distribuição dos professores auxiliares e agregados pelos diferentes liceus será feita harmonizando-se, quanto possível, as necessidades e conveniências do ensino com os legítimos interesses desses professores e tendo-se em vista as seguintes regras:
 
 a) Conveniência de manter em cada liceu os professores que ali tenham prestado bom serviço no ano anterior;
 
@@ -146,6 +154,6 @@ b) Protecção à família, especialmente, em primeiro lugar, tratando-se de pro
 
 c) Impossibilidade de serem colocados mais de dois professores auxiliares de cada grupo do mesmo liceu.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Março de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Inocêncio Galvão Teles.

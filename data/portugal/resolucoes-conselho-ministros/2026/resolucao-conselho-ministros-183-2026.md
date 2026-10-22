@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/09/18200/0000500006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,25 +47,31 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/183/2026/09/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/183-2026-1171929504
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-18T00:00:00Z'
+  retrieved_at: '2026-10-22T18:53:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f705aea998784ff9efd22b4abffc4a6a30013b68b588014d16921133fb8ca51c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a00bb30732bb08cbeb349415d126b12b30ad0b3a3f5bf92ef67dad36db7661d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:53:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aicep
+- Conselho de Administração
+- Empresa Pública
+- Estatuto
+- Gestor Público
+- Nomeação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/229/2012/10/26/p/dre
@@ -99,16 +105,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/98/2026/05/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/98/2026/05/25/p/dre
+- type: cites
+  target: pt:dre:1125716288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:867844484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:922535861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:934744202:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:53:28Z'
   warnings: []
   errors: []
 ---
@@ -156,3 +194,5 @@ Desde 2020, exerce funções como diretora Global de Inovação da Galp. Anterio
 É igualmente colunista mensal do Jornal de Negócios, onde assina a rubrica mensal «3Is: Innovation, Investment & Impact», sendo autora e coautora de diversos artigos e capítulos dedicados aos temas da inovação, corporate venturing, transferência de tecnologia e transformação industrial.
 
 Ao longo da sua carreira profissional, foi distinguida com diversos prémios e reconhecimentos, dos quais se destacam a integração na lista final de distinguidas do Reuters Events 2026 Trailblazing Women in Energy, o IMPACT Campaigner Award 2026 - atribuído pela Women in Renewables Alliance (WiRA), o Ecosystem Award 2025 - Entrepreneurship Awards da Unicorn Factory Lisboa, o Best CIO of the Year 2023 - D+I Innovation Awards, promovidos pela Invertia, EL ESPAÑOL e DISRUPTORES, e o prémio Best Teacher do Business Innovation Executive Program 2024 da Porto Business School.
+
+119949596

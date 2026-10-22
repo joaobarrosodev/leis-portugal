@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44933-1963-195270
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-03-25T00:00:00Z'
+  retrieved_at: '2026-10-22T19:34:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a2112b11a6d4e25bbe552de24f4763f9ae6a0fb1733e0aea04fd993237ba360
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a124575394ee2579fe354de317f8d2fcf5ea89c12bef34d0c58340133069ab3c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:34:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:156201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291183:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:34:05Z'
   warnings: []
   errors: []
 ---
@@ -89,8 +97,8 @@ Atendendo a que do mesmo oficial existe também uma órfã, viúva, que vive em 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Da pensão concedida pelo [Decreto n.º 44670](https://diariodarepublica.pt/dr/detalhe/decreto/44670-1962-156201), de 7 de Novembro de 1962, passa a comparticipar D. Maria José da Silva Barbosa, órfã, viúva, do capitão João Hermínio Barbosa, falecido em 18 de Julho de 1961, com o quantitativo que lhe competir nos termos do [Decreto n.º 17335](https://diariodarepublica.pt/dr/detalhe/decreto/17335-1929-291183), de 10 de Setembro de 1929.
+Artigo único. Da pensão concedida pelo [Decreto n.º 44670](https://diariodarepublica.pt/dr/detalhe/decreto/44670-1962-156201), de 7 de Novembro de 1962, passa a comparticipar D. Maria José da Silva Barbosa, órfã, viúva, do capitão João Hermínio Barbosa, falecido em 18 de Julho de 1961, com o quantitativo que lhe competir nos termos do [Decreto n.º 17335](https://diariodarepublica.pt/dr/detalhe/decreto/17335-1929-291183), de 10 de Setembro de 1929.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Março de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa.

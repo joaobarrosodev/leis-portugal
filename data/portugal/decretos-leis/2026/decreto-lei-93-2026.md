@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/93/2026/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2026-1102472595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:40:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12c31706e94977f59a5011151a2c791a1b179b14ead3a43b5ad3d579b7a6a4e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1be894fe400f1feb6da29c0b2851fa8f188ba1fc3575f0f0919328d97957de6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:40:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,41 @@ reuse:
 subjects:
 - Aposentação
 - Carreira Diplomática
-- Definição de Competências
-- Profissão Diplomática
-- Estatuto
-- Sistema Retributivo
-- Remuneração Acessória
 - Conselho Diplomático
+- Definição de Competências
+- Estatuto
+- Ministério dos Negócios Estrangeiros
+- Profissão Diplomática
 - Quadro de Pessoal
 - Reestruturação de Carreiras
 - Remuneração
-- Ministério dos Negócios Estrangeiros
+- Remuneração Acessória
+- Sistema Retributivo
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:21/2025
+  label: Altera, a partir de 5 de maio de 2026, os artigos 9.º, 48.º, 52.º e 53.º do Decreto-Lei n.º 21/2025, de 18 de março,
+    Diário da República n.º 54/2025, Série I
+  source: null
+  date: '2025-03-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/21/2025/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/21/2025/03/18/p/dre
+- type: cites
+  target: pt:dre:911303063:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:40:00Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +176,9 @@ g) [Anterior alínea f).]
 
 13 - [Anterior n.º 12.]
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - [...]
 
@@ -180,7 +192,9 @@ g) [Anterior alínea f).]
 
 6 - [...]
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - [...]
 
@@ -194,7 +208,9 @@ g) [Anterior alínea f).]
 
 6 - O tempo de serviço prestado num serviço periférico externo, nos termos do n.º 3 do presente artigo, por um diplomata colocado nos serviços internos é contado, para os efeitos previstos no artigo 48.º, como de permanência nesse serviço periférico externo caso o diplomata venha a ser nele colocado no decurso da missão extraordinária de serviço diplomático.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - [...]
 
@@ -202,12 +218,14 @@ g) [Anterior alínea f).]
 
 Visto e aprovado em Conselho de Ministros de 12 de março de 2026. - Luís Montenegro - Ana Isabel Marques Xavier - Joaquim Miranda Sarmento.
 
-**Promulgado em 24 de abril de 2026.**
+Promulgado em 24 de abril de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 27 de abril de 2026.**
+Referendado em 27 de abril de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119948389

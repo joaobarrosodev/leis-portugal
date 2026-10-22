@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/12900/0001500039.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/272/2021/07/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/272-2021-166512675
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-07-06T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18ff1a0e219013ff16524e859e9b213ef7304b151cee0fdc5b774e4d1693307c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83d0fe36b9e53424d4814ebb4788eb59a4f886355d7b5ac82c0ef573a50b4c33
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,20 +69,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Insolvência
-- Empresa
-- Sociedade Comercial
-- Código das Sociedades Comerciais
-- Igualdade de Tratamento
-- Código do Trabalho
-- Garantia Salarial
-- Inconstitucionalidade
-- Interpretação do Direito
 - Cobrança de Dívidas
+- Código das Sociedades Comerciais
+- Código do Trabalho
 - Contrato de Trabalho
+- Empresa
+- Garantia Salarial
+- Igualdade de Tratamento
+- Inconstitucionalidade
+- Insolvência
+- Interpretação do Direito
 - Regime Jurídico
 - Responsabilidade Financeira
 - Responsabilidade Solidária
+- Sociedade Comercial
 - Sociedade Comercial Estrangeira
 - Trabalhador por Conta de Outrem
 relationships:
@@ -122,16 +122,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/1/2018/04/19/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/1/2018/04/19/p/dre
+- type: cites
+  target: pt:dre:115138846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132883356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:13Z'
   warnings: []
   errors: []
 ---
@@ -152,9 +168,9 @@ De acordo ainda com o requerimento do Ministério Público, todas as decisões r
 
 2 - Foram notificados, nos termos conjugados do artigo 54.º e do n.º 3 do artigo 55.º da LTC, o Primeiro-Ministro e o Presidente da Assembleia da República.
 
-**O Primeiro-Ministro ofereceu o merecimento dos autos.**
+O Primeiro-Ministro ofereceu o merecimento dos autos.
 
-**O Presidente da Assembleia da República ofereceu igualmente o merecimento dos autos e remeteu uma nota técnica sobre os trabalhos preparatórios conducentes à aprovação da norma contida no artigo 334.º do Código do Trabalho, dando conta que a disposição em causa se mantém, no essencial, desde o Código de Trabalho de 2003.**
+O Presidente da Assembleia da República ofereceu igualmente o merecimento dos autos e remeteu uma nota técnica sobre os trabalhos preparatórios conducentes à aprovação da norma contida no artigo 334.º do Código do Trabalho, dando conta que a disposição em causa se mantém, no essencial, desde o Código de Trabalho de 2003.
 
 3 - Discutido o memorando elaborado pelo Presidente, nos termos e para os efeitos do disposto no artigo 63.º, n.º 1, da Lei do Tribunal Constitucional, e fixada a orientação do Tribunal, cumpre agora decidir em conformidade com o que então se estabeleceu.
 
@@ -501,3 +517,5 @@ Mas, mesmo na dimensão de controlo jurisdicional mais intenso do princípio da 
 Estamos, enfim, perante um problema de sempre - num quadro não juridicamente integrado como sucede com o da UE -, concretamente no que toca à consideração unitária de grupos de sociedades num plano transnacional, face a normas internas de um outro país pretendidas impor exteriormente, situação referenciada, logo em 1990, por Rui Manuel Moura Ramos, na respetiva dissertação de doutoramento: "[o] caráter internacional do grupo impede assim, neste caso, a sua consideração unitária - o que parece ficar a dever-se à circunstância de a natureza pública do poder aqui exercido pelas autoridades francesas (o poder de autorizar um despedimento colectivo), supor, para o seu exercício, o respaldo da soberania estadual que se exerce sobre o território onde se encontram situadas as entidades empresariais cuja situação económica importaria analisar" (p. 49). É com este sentido que a autolimitação espacial estabelecida pelo legislador nacional - relativa ao espaço exterior à União Europeia - tem efetivo sentido, reconhecendo realisticamente os condicionalismos do "meio-ambiente" no qual, na falta dessa opção, teria a pretensão de se projetar, o que constitui razão suficiente para que o Tribunal a tivesse aceite - nesse concreto espaço, todavia diferente daquele relativamente ao qual o Acórdão n.º 277/2015 se pronunciou.
 
 De tudo isto decorre a dissensão dos subscritores da presente declaração. - Maria José Rangel de Mesquita, Maria de Fátima Mata-Mouros e José António Teles Pereira.
+
+114358906

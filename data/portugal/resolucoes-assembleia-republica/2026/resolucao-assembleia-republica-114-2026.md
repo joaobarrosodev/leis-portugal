@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/05/09400/0000300005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/114/2026/05/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/114-2026-1123283197
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-15T00:00:00Z'
+  retrieved_at: '2026-10-22T18:41:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6341a085cd51b0e5a0941b964e570e29194b3b66ab69f91c7a0b8f2cbc1b3dca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e33b7cc39f96bb1b3e836b95c4510e46147ab7f529d1ce3d163808b2a1bd08a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:41:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,34 +65,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Parlamentar
-- NATO
+- Assembleia da República
 - Assembleia Parlamentar da Comunidade dos Países de Língua Portuguesa
 - Assembleia Parlamentar Euro-mediterrânica
+- Atividade Parlamentar
+- Conselho da Europa
+- Cooperação Internacional
 - Delegação Portuguesa
 - Fórum Parlamentar Ibero-américano
-- Assembleia da República
-- Cooperação Internacional
-- Conselho da Europa
+- NATO
+- Organismo Internacional
 - OSCE
 - União Interparlamentar
-- Organismo Internacional
 - União para o Mediterrâneo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/142/2015/12/17/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/142/2015/12/17/p/dre
+- type: cites
+  target: pt:dre:72909747:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:resolucao-assembleia-republica:142/2015
+  label: Revoga a Resolução da Assembleia da República n.º 142/2015, de 17 de dezembro, Diário da República n.º 246/2015,
+    Série I
+  source: null
+  date: '2015-12-17'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:41:04Z'
   warnings: []
   errors: []
 ---
@@ -181,7 +191,7 @@ As delegações desempenham as tarefas previstas nos Estatutos e Regimentos das 
 
 6 - Existindo comissões em número superior ao de membros efetivos da delegação, nenhum deles pode ser designado, em princípio, para mais de duas comissões.
 
-7 - A pertença a qualquer subcomissão deve ser excecional e sujeita a decisão do presidente da delegação, observando-se os critérios previstos nos n.<sup>os</sup>5 e 6.
+7 - A pertença a qualquer subcomissão deve ser excecional e sujeita a decisão do presidente da delegação, observando-se os critérios previstos nos n.os5 e 6.
 
 8 - Aplica-se às deliberações das delegações, com as necessárias adaptações, o disposto no n.º 7 do artigo 29.º do Regimento da Assembleia da República.
 
@@ -195,4 +205,6 @@ São subsidiariamente aplicáveis às delegações as normas do Regimento da Ass
 
 Aprovada em 8 de maio de 2026.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar-Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar-Branco.
+
+119948489

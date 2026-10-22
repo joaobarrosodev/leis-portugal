@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/150/2026/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2026-1152696596
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-06T00:00:00Z'
+  retrieved_at: '2026-10-22T18:48:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d59bdc53ba998d8b6ed9a9f4dabd6774e8eb6e793b5aa29d063464deae87c834
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b296fefb0f42c7b7a4f316c04cab7e5d56b0ea5d173ddc717c9fa1ccfbaadc3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:48:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,36 +67,88 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Capital Social
-- Instituto Nacional de Estatística
-- Pessoal Dirigente
+- Centro Jurídico do Estado
 - Código Cooperativo
-- Gestão Financeira
-- Instituto António Sérgio do Sector Cooperativo
-- Sector Cooperativo
+- Conselho Consultivo
+- Conselho Diretivo
+- Cooperativa
 - Cooperativa António Sérgio
 - Criação de Serviços
 - Definição de Competências
-- Cooperativa
+- Direção Geral da Economia
+- Economia Social
 - Extinção de Serviços
+- Gestão Financeira
 - Gestão Orçamental
 - IEFP
-- Conselho Diretivo
-- Conselho Consultivo
+- Instituto António Sérgio do Sector Cooperativo
 - Instituto de Informática IP
+- Instituto Nacional de Estatística
 - Integração de Trabalhadores
 - Microcrédito
 - Orgânica
-- Economia Social
+- Pessoal Dirigente
 - Programa de Apoio ao Desenvolvimento da Economia Social
+- Sector Cooperativo
 - Transferência de Competências
 - Transferência Patrimonial
-- Centro Jurídico do Estado
-- Direção Geral da Economia
 relationships:
 - type: amended_by
   target: pt:dre:1154555259:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:282/2009
+  label: Reverte, a partir de 29 de julho de 2026, nos termos do artigo 2.º do presente diploma, da esfera da Cooperativa
+    António Sérgio para a Economia Social - Cooperativa de Interesse Público de Responsabilidade Limitada (CASES), revoga
+    (com efeitos à data em que opere a exoneração da participação do Estado na CASES, nos termos da alínea c) do n.º 2 do
+    artigo 17.º do presente diploma ) os n.ºs 1, 2, 4 e 5 do artigo 4.º e os artigos 7.º, 8.º, 9.º, 10.º, 11.º, 12.º e 14.º
+    do Decreto-Lei n.º 282/2009, de 7 de outubro, Diário da República n.º 194/2009, Série I
+  source: null
+  date: '2009-10-07'
+- type: amends
+  target: pt:numero:decreto-lei:136/2012
+  label: Altera, a partir de 29 de julho de 2026, com efeitos à data em que opere a exoneração da participação do Estado na
+    CASES, o artigo 4.º do Decreto-Lei n.º 136/2012, de 2 de julho, Diário da República n.º 126/2012, Série I
+  source: null
+  date: '2012-07-02'
+- type: amends
+  target: pt:numero:decreto-lei:143/2012
+  label: Altera, a partir de 29 de julho de 2026, com efeitos à data em que opere a exoneração da participação do Estado na
+    CASES, os artigos 3.º, 3.º-A e 14.º do Decreto-Lei n.º 143/2012, de 11 de julho, Diário da República n.º 133/2012, Série
+    I
+  source: null
+  date: '2012-07-11'
+- type: amends
+  target: pt:numero:decreto-lei:196/2012
+  label: Altera, a partir de 29 de julho de 2026, com efeitos à data em que opere a exoneração da participação do Estado na
+    CASE, o artigo 13.º do Decreto-Lei n.º 196/2012, de 23 de agosto, Diário da República n.º 163/2012, Série I
+  source: null
+  date: '2012-08-23'
+- type: amends
+  target: pt:numero:lei:119/2015
+  label: Altera, a partir de 29 de julho de 2026, com efeitos à data em que opere a exoneração da participação do Estado na
+    CASE, os artigos 109.º, 116.º, 117.º, 118.º, 121.º, adita o artigo 118.º-A , altera sistemáticamente o capítulo viii da
+    Lei n.º 119/2015, de 31 de agosto, que passa a denominar-se «Credenciação, fiscalização e dissolução das cooperativas»,
+    revoga, nos termos da alínea c) do n.º 2 do artigo 17.º, o artigo 115.º do Código Cooperativo, aprovado pela Lei n.º 119/2015,
+    de 31 de agosto, Diário da República n.º 169/2015, Série I
+  source: null
+  date: '2015-08-31'
+- type: amends
+  target: pt:numero:decreto-lei:68/2024
+  label: Altera, a partir de 29 de julho de 2026, aplicável às comissões de serviço em curso desde a sua constituição, nos
+    termos do n.º 3 do artigo 17.º, os artigos 3.º(este com efeitos efeitos à data em que opere a exoneração da participação
+    do Estado na CASES, nos termos da alínea b), do n.º 2 do artigo 17.º) , 5.º, 6.º(este com efeitos à data em que opere
+    a exoneração da participação do Estado na CASES, nos termos da alínea b), do n.º 2 do artigo 17.º ) , 7.º , 8.º, 10.º,
+    adita o artigo 18.º-A, do Decreto-Lei n.º 68/2024, de 8 de outubro, Diário da República n.º 195/2024, Série I
+  source: null
+  date: '2024-10-08'
+- type: amends
+  target: pt:numero:decreto-lei:52/2025
+  label: Altera, a partir de 29 de julho de 2026, com efeitos à data em que opere a exoneração da participação do Estado na
+    CASE, o artigo 3.º do Decreto-Lei n.º 52/2025, de 28 de março, Diário da República n.º 62/2025, Série I
+  source: null
+  date: '2025-03-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-
   label: null
@@ -137,16 +189,104 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/16/2026/02/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/16/2026/02/03/p/dre
+- type: cites
+  target: pt:dre:1033291309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1049254411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1051282280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106824980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107981649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115811916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184108564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70139955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:890194535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:898201693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:912820660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:912820662:por
+  label: null
+  source: null
 article_structure:
-  article_count: 28
+  article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:48:12Z'
   warnings: []
   errors: []
 ---
@@ -181,13 +321,13 @@ O presente decreto-lei tem por objeto a reversão, da esfera da Cooperativa Ant�
 
 a) À primeira alteração ao [Decreto-Lei n.º 136/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2012-178531), de 2 de julho, que aprova a orgânica do Instituto Nacional de Estatística, I. P. (INE, I. P.);
 
-b) À terceira alteração ao [Decreto-Lei n.º 143/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2012-179782), de 11 de julho, alterado pelos Decretos-Leis n.<sup>os</sup>[38/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), de 30 de maio, e [42/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2026-1051282280), de 16 de fevereiro, que aprova a orgânica do Instituto do Emprego e da Formação Profissional, I. P. (IEFP, I. P.);
+b) À terceira alteração ao [Decreto-Lei n.º 143/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2012-179782), de 11 de julho, alterado pelos Decretos-Leis n.os[38/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), de 30 de maio, e [42/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2026-1051282280), de 16 de fevereiro, que aprova a orgânica do Instituto do Emprego e da Formação Profissional, I. P. (IEFP, I. P.);
 
-c) À terceira alteração ao [Decreto-Lei n.º 196/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2012-175335), de 23 de agosto, alterado pelos Decretos-Leis n.<sup>os</sup>[38/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), de 30 de maio, e [39/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2026-1049254411), de 13 de fevereiro, que aprova a orgânica do Instituto de Informática, I. P.;
+c) À terceira alteração ao [Decreto-Lei n.º 196/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2012-175335), de 23 de agosto, alterado pelos Decretos-Leis n.os[38/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), de 30 de maio, e [39/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2026-1049254411), de 13 de fevereiro, que aprova a orgânica do Instituto de Informática, I. P.;
 
 d) À segunda alteração à [Lei n.º 119/2015](https://diariodarepublica.pt/dr/detalhe/lei/119-2015-70139955), de 31 de agosto, alterada pela [Lei n.º 66/2017](https://diariodarepublica.pt/dr/detalhe/lei/66-2017-107981649), de 9 de agosto, que aprova o Código Cooperativo;
 
-e) À terceira alteração ao [Decreto-Lei n.º 68/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2024-890194535), de 8 de outubro, alterado pelos Decretos-Leis n.<sup>os</sup>[96/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2024-898201693), de 28 de novembro, e [54/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2025-912820662), de 28 de março, que aprova a orgânica do Centro Jurídico do Estado (CEJURE);
+e) À terceira alteração ao [Decreto-Lei n.º 68/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2024-890194535), de 8 de outubro, alterado pelos Decretos-Leis n.os[96/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2024-898201693), de 28 de novembro, e [54/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2025-912820662), de 28 de março, que aprova a orgânica do Centro Jurídico do Estado (CEJURE);
 
 f) À primeira alteração ao [Decreto-Lei n.º 52/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2025-912820660), de 28 de março, que aprova a orgânica da Direção-Geral da Economia (DGE).
 
@@ -249,7 +389,9 @@ Os artigos 3.º, 3.º-A e 14.º do [Decreto-Lei n.º 143/2012](https://diariodar
 
 3 - [...]
 
-###### Artigo 3.º-A — [...]
+Artigo 3.º-A
+
+[...]
 
 [...]
 
@@ -301,7 +443,9 @@ w) Validar, gerir, acompanhar e executar os programas e projetos de promoção d
 
 x) Assegurar o financiamento e a gestão financeira do Fundo de Microcrédito.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - São cargos de direção intermédia de 1.º grau do IEFP, I. P., os delegados regionais, os subdelegados regionais, os diretores de departamento, os diretores de unidade, os diretores de centro e os subdiretores de centro.
 
@@ -333,7 +477,9 @@ a) [...]
 
 b) [...]
 
-###### Artigo 116.º — [...]
+Artigo 116.º
+
+[...]
 
 As cooperativas estão obrigadas a remeter ao CEJURE:
 
@@ -343,13 +489,17 @@ b) [...]
 
 c) [...]
 
-###### Artigo 117.º — [...]
+Artigo 117.º
+
+[...]
 
 1 - Compete ao CEJURE emitir, anualmente, credencial comprovativa da legal constituição e regular funcionamento das cooperativas.
 
 2 - O apoio técnico e financeiro às cooperativas por parte de entidades públicas fica dependente da credencial emitida pelo CEJURE.
 
-###### Artigo 118.º — [...]
+Artigo 118.º
+
+[...]
 
 1 - O CEJURE deve requerer, através do Ministério Público, junto do tribunal competente, a dissolução das cooperativas que:
 
@@ -363,7 +513,9 @@ c) [...]
 
 3 - As entidades que tomem as decisões indicadas nas alíneas g) a k) do n.º 1 do artigo 112.º do presente Código devem comunicar ao CEJURE, trimestralmente, a identificação das cooperativas dissolvidas.
 
-###### Artigo 121.º — [...]
+Artigo 121.º
+
+[...]
 
 1 - [...]
 
@@ -443,7 +595,9 @@ x) [Anterior alínea q).]
 
 5 - [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -451,7 +605,9 @@ x) [Anterior alínea q).]
 
 3 - A afetação de trabalhadores do CEJURE aos núcleos temáticos é feita por despacho do diretor, sem prejuízo de poderem ser adotados pelo diretor outros critérios materiais de distribuição dos assuntos, designadamente por razões de conveniência de serviço ou da respetiva interdisciplinaridade.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O CEJURE é dirigido por um diretor, coadjuvado por três subdiretores, cargos de direção superior de 1.º e 2.º graus, respetivamente.
 
@@ -495,13 +651,17 @@ m) [Anterior alínea j).]
 
 5 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A nomeação, o regime de exercício de funções e a duração e renovação do mandato do diretor e dos subdiretores regem-se pelo disposto no Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março.
 
 2 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -525,7 +685,9 @@ b) Implica a sujeição ao dever de segredo profissional quanto a todos os facto
 
 9 - Atendendo às necessidades do serviço, podem ser designados coordenadores, consultores e associados habilitados para a prática de atos próprios dos advogados, com inscrição em vigor na Ordem dos Advogados, caso em que disso se fará menção expressa no respetivo despacho de designação, devendo o designado manter essa habilitação durante todo o período da comissão de serviço.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -707,7 +869,7 @@ Cooperação com outras entidades
 
 4 - A integração referida nos números anteriores realiza-se mediante lista nominativa homologada por despacho dos membros do Governo responsáveis pelas áreas das finanças, da presidência, da reforma do Estado, do trabalho, solidariedade e segurança social sob proposta do representante do Estado previsto no n.º 5 da [Resolução do Conselho de Ministros n.º 16/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/16-2026-1033291309), de 3 de fevereiro.
 
-5 - Os serviços e organismos integradores, dispõem excecionalmente de um mapa de pessoal transitório com postos de trabalho, a extinguir quando vagar, destinados aos trabalhadores da CASES, referidos nos n.<sup>os</sup>2, 3 e 4, com contrato individual de trabalho.
+5 - Os serviços e organismos integradores, dispõem excecionalmente de um mapa de pessoal transitório com postos de trabalho, a extinguir quando vagar, destinados aos trabalhadores da CASES, referidos nos n.os2, 3 e 4, com contrato individual de trabalho.
 
 6 - Compete aos dirigentes superiores dos serviços e organismos integradores, exercerem, relativamente ao pessoal afeto aos mapas de pessoal transitório, todas as competências legais do empregador, designadamente os poderes de gestão, direção e disciplinares.
 
@@ -731,7 +893,7 @@ Na data em que opere a exoneração da participação do Estado na CASES, nos te
 
 São revogados:
 
-a) Os n.<sup>os</sup>1, 2, 4 e 5 do artigo 4.º e os artigos 7.º, 8.º, 9.º, 10.º, 11.º, 12.º e 14.º do [Decreto-Lei n.º 282/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-2009-491420), de 7 de outubro;
+a) Os n.os1, 2, 4 e 5 do artigo 4.º e os artigos 7.º, 8.º, 9.º, 10.º, 11.º, 12.º e 14.º do [Decreto-Lei n.º 282/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-2009-491420), de 7 de outubro;
 
 b) O artigo 115.º do Código Cooperativo, aprovado pela [Lei n.º 119/2015](https://diariodarepublica.pt/dr/detalhe/lei/119-2015-70139955), de 31 de agosto.
 
@@ -751,12 +913,14 @@ c) A revogação do [Decreto-Lei n.º 282/2009](https://diariodarepublica.pt/dr/
 
 Visto e aprovado em Conselho de Ministros de 3 de junho de 2026. - Luís Montenegro - Cláudia Maria dos Reis Duarte Melo de Carvalho - António Leitão Amaro - Manuel Castro Almeida - Rosário Palma Ramalho.
 
-**Promulgado em 17 de julho de 2026.**
+Promulgado em 17 de julho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 20 de julho de 2026.**
+Referendado em 20 de julho de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119949150

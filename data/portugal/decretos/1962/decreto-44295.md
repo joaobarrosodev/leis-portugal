@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44295-1962-516206
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-04-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:28:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef9637d82a83bc6331b284df55423a880be98330fb33bbb780ca9e0e2f97419c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36c2969d9442c4f8d2ae6316549779adc95527438bc40cce82219c559d89026b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:28:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:184481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 18
-  section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:28:58Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +112,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É transferida a quantia adiante indicada dentro do orçamento do Ministério das Obras Públicas:
+Artigo 1.º É transferida a quantia adiante indicada dentro do orçamento do Ministério das Obras Públicas:
 
 No capítulo 5.º:
 
@@ -96,79 +120,79 @@ Do artigo 71.º, n.º 3), alínea a) «Do empréstimo para obras de hidráulica 
 
 Para o artigo 70.º, n.º 1) «Rendas de casas ...» ... +2400$00
 
-###### Art. 2.º São abertos no Ministério das Finanças, a favor dos Ministérios a seguir designados, créditos especiais no montante de 39359966$90, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças, a favor dos Ministérios a seguir designados, créditos especiais no montante de 39359966$90, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Ministério das Finanças
 
-### Capítulo 11.º «Serviço das alfândegas - Serviço técnico-aduaneiro»:
+Capítulo 11.º «Serviço das alfândegas - Serviço técnico-aduaneiro»:
 
-###### Artigo 200.º, n.º 1), alínea a) «Restituição de direitos ...» ... 13400000$00
+Artigo 200.º, n.º 1), alínea a) «Restituição de direitos ...» ... 13400000$00
 
 Ministério do Interior
 
-### Capítulo 11.º «Despesas de anos económicos findos»:
+Capítulo 11.º «Despesas de anos económicos findos»:
 
-###### Artigo 118.º «Despesas de anos económicos findos» ... 900000$00
+Artigo 118.º «Despesas de anos económicos findos» ... 900000$00
 
 Ministério da Justiça
 
-### Capítulo 4.º «Direcção-Geral dos Serviços Prisionais - Prisão-Hospital de S. João de Deus»:
+Capítulo 4.º «Direcção-Geral dos Serviços Prisionais - Prisão-Hospital de S. João de Deus»:
 
-###### Artigo 287.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei - Compensação de vencimentos, nos termos do n.º 4.º do artigo 45.º do [Decreto-Lei n.º 38386](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38386-1951-522384), de 8 de Agosto de 1951» ... 5136$00
+Artigo 287.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei - Compensação de vencimentos, nos termos do n.º 4.º do artigo 45.º do [Decreto-Lei n.º 38386](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38386-1951-522384), de 8 de Agosto de 1951» ... 5136$00
 
 Ministério do Exército
 
-### Capítulo 3.º «Serviços de instrução»:
+Capítulo 3.º «Serviços de instrução»:
 
 Direcções das armas
 
-###### Artigo 41.º, n.º 1) «Móveis», alínea b) «Direcção da Arma de Engenharia» ... 75000$00
+Artigo 41.º, n.º 1) «Móveis», alínea b) «Direcção da Arma de Engenharia» ... 75000$00
 
 Instituto de Odivelas
 
-###### Artigo 171.º, n.º 1) «Subsídio do Estado para pagamento de mensalidades de alunas auxiliadas, ...» ... 119900$00
+Artigo 171.º, n.º 1) «Subsídio do Estado para pagamento de mensalidades de alunas auxiliadas, ...» ... 119900$00
 
-### Capítulo 5.º «Serviços do quartel-mestre»:
+Capítulo 5.º «Serviços do quartel-mestre»:
 
 Direcção do Serviço de Saúde
 
-###### Artigo 221.º, n.º 2) «Material de defesa ...» ... 220000$00
+Artigo 221.º, n.º 2) «Material de defesa ...» ... 220000$00
 
 Direcção do Serviço de Material
 
-###### Artigo 229.º, n.º 3) «Material de defesa ...», alínea a) «Artigos de armamento, ...» ... 15788232$00
+Artigo 229.º, n.º 3) «Material de defesa ...», alínea a) «Artigos de armamento, ...» ... 15788232$00
 
 Direcção do Serviço de Intendência
 
-###### Artigo 237.º, n.º 1) «Móveis» ... 850000$00
+Artigo 237.º, n.º 1) «Móveis» ... 850000$00
 
 ... 17053132$00
 
 Ministério da Marinha
 
-### Capítulo 8.º «Arsenal do Alfeite»:
+Capítulo 8.º «Arsenal do Alfeite»:
 
-###### Artigo 236.º «Material e outras despesas» ... 4662408$90
+Artigo 236.º «Material e outras despesas» ... 4662408$90
 
 Ministério das Obras Públicas
 
-### Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais - Novas instalações para os serviços públicos»:
+Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais - Novas instalações para os serviços públicos»:
 
-###### Artigo 59.º, n.º 1) «Para pagamento das despesas com os estudos, ... a reembolsar», alínea e) «Pela Direcção-Geral dos Serviços Agrícolas para: 1) Novas instalações da Estação Agronómica Nacional» ... 3000000$00
+Artigo 59.º, n.º 1) «Para pagamento das despesas com os estudos, ... a reembolsar», alínea e) «Pela Direcção-Geral dos Serviços Agrícolas para: 1) Novas instalações da Estação Agronómica Nacional» ... 3000000$00
 
-### Capítulo 7.º «Direcção-Geral dos Serviços de Urbanização:
+Capítulo 7.º «Direcção-Geral dos Serviços de Urbanização:
 
-###### Artigo 87.º «Outras despesas com o pessoal», n.º 4) «Despesas de instalação», alínea a) «Subsídio de residência, nos termos do [Decreto-Lei n.º 44109](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44109-1961-184481), de 21 de Dezembro de 1961» ... 42390$00
+Artigo 87.º «Outras despesas com o pessoal», n.º 4) «Despesas de instalação», alínea a) «Subsídio de residência, nos termos do [Decreto-Lei n.º 44109](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44109-1961-184481), de 21 de Dezembro de 1961» ... 42390$00
 
-###### Artigo 91.º, n.º 1) «Impressos» ... 9500$00
+Artigo 91.º, n.º 1) «Impressos» ... 9500$00
 
-###### Artigo 95.º, n.º 3), alínea b) «Outras despesas não especificadas» ... 30000$00
+Artigo 95.º, n.º 3), alínea b) «Outras despesas não especificadas» ... 30000$00
 
 ... 3081890$00
 
 Ministério da Educação Nacional
 
-### Capítulo 3.º «Direcção-Geral do Ensino Superior e das Belas-Artes»:
+Capítulo 3.º «Direcção-Geral do Ensino Superior e das Belas-Artes»:
 
 Instrução universitária
 
@@ -176,11 +200,11 @@ Universidade de Coimbra
 
 Faculdade de Letras
 
-###### Artigo 81.º «Remunerações certas ao pessoal em exercício», n.º 2) «Pessoal contratado não pertencente aos quadros - Um professor de Geografia (durante dez meses)» ... 65000$00
+Artigo 81.º «Remunerações certas ao pessoal em exercício», n.º 2) «Pessoal contratado não pertencente aos quadros - Um professor de Geografia (durante dez meses)» ... 65000$00
 
 Escola de Farmácia
 
-###### Artigo 189.º, n.º 2), alínea a) «Despesas com o horto botânico» ... 2400$00
+Artigo 189.º, n.º 2), alínea a) «Despesas com o horto botânico» ... 2400$00
 
 ... 67400$00
 
@@ -188,69 +212,69 @@ Ministério da Economia
 
 Secretaria de Estado do Comércio
 
-### Capítulo 9.º «Direcção-geral do Comércio»:
+Capítulo 9.º «Direcção-geral do Comércio»:
 
-###### Artigo 192.º «Outros encargos», n.º 4) «Serviços requeridos por particulares, pagos por conta das verbas por eles entregues» (ver nota d) ... 10000$00
+Artigo 192.º «Outros encargos», n.º 4) «Serviços requeridos por particulares, pagos por conta das verbas por eles entregues» (ver nota d) ... 10000$00
 
 (nota d) Sujeita a duplo cabimento.
 
 Secretaria de Estado da Indústria
 
-### Capítulo 17.º «Comissão dos Explosivos»:
+Capítulo 17.º «Comissão dos Explosivos»:
 
-###### Artigo 291.º, n.º 1) Despesas da Comissão dos Explosivos ...» ... 180000$00
+Artigo 291.º, n.º 1) Despesas da Comissão dos Explosivos ...» ... 180000$00
 
 ... 190000$00
 
 ... 39359966$90
 
-###### Art. 3.º Como compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações no Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+Art. 3.º Como compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações no Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 2.º, artigo 17.º «Direitos de importação de vários géneros e mercadorias» ... 13400000$00
+Capítulo 2.º, artigo 17.º «Direitos de importação de vários géneros e mercadorias» ... 13400000$00
 
-### Capítulo 4.º, artigo 70.º «Diversas receitas não classificadas» ... 16933232$00
+Capítulo 4.º, artigo 70.º «Diversas receitas não classificadas» ... 16933232$00
 
-### Capítulo 7.º, artigo 175.º «Reembolso das importâncias entregues pelo Ministério da Marinha ao Arsenal do Alfeite» ... 4662408$90
+Capítulo 7.º, artigo 175.º «Reembolso das importâncias entregues pelo Ministério da Marinha ao Arsenal do Alfeite» ... 4662408$90
 
-### Capítulo 7.º, artigo 180.º «Reembolso das despesas com a construção, conservação, reparação e melhoramento de edifícios» ... 3000000$00
+Capítulo 7.º, artigo 180.º «Reembolso das despesas com a construção, conservação, reparação e melhoramento de edifícios» ... 3000000$00
 
-### Capítulo 7.º, artigo 186.º «Reembolso das despesas realizadas de conta de particulares» ... 10000$00
+Capítulo 7.º, artigo 186.º «Reembolso das despesas realizadas de conta de particulares» ... 10000$00
 
-### Capítulo 7.º, artigo 193.º «Reembolso das despesas com os serviços de urbanização» ... 81890$00
+Capítulo 7.º, artigo 193.º «Reembolso das despesas com os serviços de urbanização» ... 81890$00
 
-### Capítulo 8.º, artigo 226.º «Comissão dos Explosivos dependente do Ministério da Economia» ... 180000$00
+Capítulo 8.º, artigo 226.º «Comissão dos Explosivos dependente do Ministério da Economia» ... 180000$00
 
 ... 38267530$90
 
 Ministério do Interior
 
-### Capítulo 5.º, artigo 62.º, n.º 1) ... 600000$00
+Capítulo 5.º, artigo 62.º, n.º 1) ... 600000$00
 
-### Capítulo 7.º, artigo 93.º, n.º 1) ... 300000$00
+Capítulo 7.º, artigo 93.º, n.º 1) ... 300000$00
 
 ... 900000$00
 
 Ministério da Justiça
 
-### Capítulo 4.º, artigo 287.º, n.º 2) ... 5136$00
+Capítulo 4.º, artigo 287.º, n.º 2) ... 5136$00
 
 Ministério do Exército
 
-### Capítulo 3.º, artigo 164.º, n.º 1) ... 119900$00
+Capítulo 3.º, artigo 164.º, n.º 1) ... 119900$00
 
 Ministério da Educação Nacional
 
-### Capítulo 3.º, artigo 81.º, n.º 2) ... 65000$00
+Capítulo 3.º, artigo 81.º, n.º 2) ... 65000$00
 
-### Capítulo 8.º, artigo 935.º ... 2400$00
+Capítulo 8.º, artigo 935.º ... 2400$00
 
 ... 67400$00
 
 ... 89359966$90
 
-###### Art. 4.º São autorizadas as seguintes alterações de rubrica nos orçamentos:
+Art. 4.º São autorizadas as seguintes alterações de rubrica nos orçamentos:
 
 Do Ministério das Obras Públicas
 
@@ -274,6 +298,6 @@ A observação (a) aposta à dotação do capítulo 17.º, artigo 291,º, n.º 1
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Abril de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/88/2026/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/88-2026-1124570659
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-21T00:00:00Z'
+  retrieved_at: '2026-10-22T18:41:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab9c3be413f18998cbfbe5b033cba4b11cedd4aab7aa7f2262238aeb688b028f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8fdfa8279b471a438920ca3f47382e30d83e12b84cf902737b12d451aab9c25f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:41:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,17 @@ reuse:
 subjects:
 - Autorização de Despesas
 - Despesas Públicas
+- Fundo Ambiental
 - Obras Públicas
 - PESO da Régua
 - RIO Douro
-- Fundo Ambiental
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:176/2024
+  label: Altera, com efeitos a partir de 20 de fevereiro de 2026, os n.ºs 2 e 4 da Resolução do Conselho de Ministros n.º
+    176/2024, de 5 de dezembro, Diário da República n.º 236/2024, Série I
+  source: null
+  date: '2024-12-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -89,16 +95,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/176/2024/12/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/176/2024/12/05/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:898989646:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:41:30Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +135,7 @@ Assim:
 
 Nos termos da alínea e) do n.º 1 do artigo 17.º e da alínea a) do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Alterar os n.<sup>os</sup>2 e 4 da [Resolução do Conselho de Ministros n.º 176/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/176-2024-898989646), de 5 de dezembro, que passam a ter a seguinte redação:
+1 - Alterar os n.os2 e 4 da [Resolução do Conselho de Ministros n.º 176/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/176-2024-898989646), de 5 de dezembro, que passam a ter a seguinte redação:
 
 «2 - [...]
 
@@ -128,3 +150,5 @@ c) Em 2026: 6 211 983,62 €.
 2 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 20 de fevereiro de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119948543

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43002-1960-504340
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-06-02T00:00:00Z'
+  retrieved_at: '2026-10-22T19:18:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc1269ed28338173db0e3df4d2b700cebb2a871a2cc590df809bc5f1836306ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 531a6dc6eef3fbf4cb8b4635522ef79bc16d97da4c5b49f020935aab590ffd5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:18:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:18:16Z'
   warnings: []
   errors: []
 ---
@@ -92,15 +92,15 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o conselho de administração dos serviços autónomos dos correios, telégrafos e telefones da província da Guiné a contrair na Caixa Económica Postal da mesma província um empréstimo até ao montante de 300000$00, destinado à aquisição de um prédio urbano na vila de Farim, daquela província, para instalação de uma estação telégrafo-postal.
+Artigo 1.º É autorizado o conselho de administração dos serviços autónomos dos correios, telégrafos e telefones da província da Guiné a contrair na Caixa Económica Postal da mesma província um empréstimo até ao montante de 300000$00, destinado à aquisição de um prédio urbano na vila de Farim, daquela província, para instalação de uma estação telégrafo-postal.
 
-###### Art. 2.º Este empréstimo, que poderá ser levantado de uma só vez, vence juros de 5 por cento ao ano sobre a quantia em dívida e será reembolsado em dez anuidades, vencendo-se a primeira em 31 de Dezembro de 1960.
+Art. 2.º Este empréstimo, que poderá ser levantado de uma só vez, vence juros de 5 por cento ao ano sobre a quantia em dívida e será reembolsado em dez anuidades, vencendo-se a primeira em 31 de Dezembro de 1960.
 
-###### Art. 3.º O governador da Guiné poderá determinar a antecipação das amortizações sempre que o julgar conveniente.
+Art. 3.º O governador da Guiné poderá determinar a antecipação das amortizações sempre que o julgar conveniente.
 
-###### Art. 4.º Os encargos do empréstimo a que este diploma se refere constituem despesa obrigatória dos serviços autónomos dos correios, telégrafos e telefones da província da Guiné, devendo ser anualmente inscritas nos respectivos orçamentos, como despesa ordinária, as verbas necessárias à sua liquidação.
+Art. 4.º Os encargos do empréstimo a que este diploma se refere constituem despesa obrigatória dos serviços autónomos dos correios, telégrafos e telefones da província da Guiné, devendo ser anualmente inscritas nos respectivos orçamentos, como despesa ordinária, as verbas necessárias à sua liquidação.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Junho de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

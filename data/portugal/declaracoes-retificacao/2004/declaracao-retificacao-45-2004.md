@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/45/2004/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/45-2004-277845
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-05T00:00:00Z'
+  retrieved_at: '2026-10-22T19:03:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7d748549f1d7f1bd0dd8fe1b733362ad5e16ec9440ae2cf20e606b60de32097
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc1dbd522e3936569238f96a6254e2fc5d28834375cea8694dbc2c1677e59057
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:03:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,22 +69,22 @@ reuse:
 subjects:
 - ACTO Ilícito
 - Aproximação das Legislações
-- Crime
+- Branqueamento de Capitais
 - Branqueamento de Vantagens
-- Câmara dos Técnicos Oficiais de Contas
-- Ordem dos Advogados
-- Procurador Geral da República
 - Câmara dos Solicitadores
+- Câmara dos Técnicos Oficiais de Contas
+- Código Penal
 - Contra-ordenação
+- Crime
 - Direcção Geral dos Registos e do Notariado
 - Fiscalização
-- Branqueamento de Capitais
+- Identificação Civil
 - Inspecção Geral de Jogos
+- Ordem dos Advogados
 - Ordem dos Revisores Oficiais de Contas
 - Pessoa Coletiva
 - Pessoa Singular
-- Código Penal
-- Identificação Civil
+- Procurador Geral da República
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/15/1993/01/22/p/dre
@@ -94,16 +94,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/11/2004/03/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/11/2004/03/27/p/dre
+- type: cites
+  target: pt:dre:210422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585178:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:03:40Z'
   warnings: []
   errors: []
 ---

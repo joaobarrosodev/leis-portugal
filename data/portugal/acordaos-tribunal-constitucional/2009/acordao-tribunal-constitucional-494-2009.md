@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/494/2009/10/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/494-2009-483151
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-23T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1be47b4e60c9e09cdc13d47b39b8db150936954d1bc6c03a47d850d6db97c29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7bc26f8a42d6633c0d1e1e99a1d939434a1937a3bda17980ded8a4059f27b27f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,12 +74,12 @@ subjects:
 - Código do IRC
 - Dívidas ao Estado
 - Inconstitucionalidade
-- Pagamento por Conta
+- IRC
 - Isenção Fiscal
 - Lei Geral Tributária
 - Orçamento Geral do Estado
+- Pagamento por Conta
 - Pessoa Coletiva
-- IRC
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/1993/04/23/p/dre
@@ -105,16 +105,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/60-a/2005/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/60-a/2005/12/30/p/dre
+- type: cites
+  target: pt:dre:212015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669556:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:52Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +171,9 @@ a) Os sujeitos passivos totalmente isentos de IRC nos termos dos artigos 9.º e 
 
 b) Os sujeitos passivos que se encontrem com processos no âmbito do Código dos Processos Especiais de Recuperação da Empresa e de Falência, aprovado pelo [Decreto-Lei n.º 132/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1993-666341),de 23 de Abril, a partir da data de instauração desse processo;
 
-###### Artigo 44.º — Imposto sobre o rendimento das pessoas colectivas
+Artigo 44.º
+
+Imposto sobre o rendimento das pessoas colectivas
 
 ...
 
@@ -177,7 +203,9 @@ d) Os fundos de capitalização administrados pelas instituições de segurança
 
 4 - O Estado, actuando através do Instituto de Gestão do Crédito Público, está isento de IRC no que respeita a rendimentos de capitais decorrentes de operações de swap e de operações cambiais a prazo, tal como são definidos para efeitos de IRS.
 
-###### Artigo 10.º — Pessoas colectivas de utilidade pública e de solidariedade social
+Artigo 10.º
+
+Pessoas colectivas de utilidade pública e de solidariedade social
 
 1 - Estão isentas de IRC:
 
@@ -209,7 +237,7 @@ Saliente-se, finalmente, que o regime jurídico do PEC tem de ser lido à luz de
 
 As entregas pecuniárias antecipadas que sejam efectuadas pelos sujeitos passivos no período de formação do facto tributário constituem pagamento por conta do imposto devido a final.
 
-###### Artigo 114.º [RGIT]
+Artigo 114.º [RGIT]
 
 1 - A não entrega, total ou parcial, pelo período até 90 dias, ou por período superior, desde que os factos não constituam crime, ao credor tributário, da prestação tributária deduzida nos termos da lei é punível com coima variável entre o valor da prestação em falta e o seu dobro, sem que possa ultrapassar o limite máximo abstractamente estabelecido.
 

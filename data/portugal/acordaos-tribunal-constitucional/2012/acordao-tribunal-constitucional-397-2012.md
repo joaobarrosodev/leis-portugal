@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/397/2012/09/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/397-2012-176002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-13T00:00:00Z'
+  retrieved_at: '2026-10-22T18:24:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c981dbd261c8d23484bb455cd341942d69b4b56be9c779f8d58214d512676ddf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e8d44ab3d0c0638e762e8a36abed37a814e60bc370747302cab7f016550cf43
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:24:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comércio
 - Crime
+- Direito Penal
+- Droga
 - Ilícito de MERA Ordenação Social
 - Inconstitucionalidade
-- Droga
+- Madeira.região Autónoma
 - Produção
 - Produto Farmacêutico
-- Madeira.região Autónoma
-- Direito Penal
-- Comércio
 - Venda
 relationships:
 - type: cites
@@ -83,15 +83,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dec/2005/387/oj
 article_structure:
-  article_count: 18
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:24:08Z'
   warnings: []
   errors: []
 ---
@@ -188,7 +188,9 @@ Objeto
 
 O regime previsto pelo Decreto-Lei n.º 15/93, de 22 de janeiro, que definiu o regime jurídico do tráfico e consumo de estupefacientes e psicotrópicos, com as alterações posteriormente concretizadas, é aplicável a todas as outras substâncias psicoativas que não sejam controladas por legislação própria e que não estejam contempladas nas tabelas de substâncias proibidas, não obstante produzirem os mesmos efeitos.
 
-###### Artigo 2.º — Âmbito
+Artigo 2.º
+
+Âmbito
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação."
 
@@ -484,29 +486,41 @@ Objeto
 
 O presente diploma institui a proibição de venda ou disponibilização por qualquer forma de substâncias psicoativas não especificamente controladas ao abrigo de legislação própria.
 
-###### Artigo 2.º — Âmbito
+Artigo 2.º
+
+Âmbito
 
 Estão abrangidas todas as substâncias de origem natural ou sintética, em qualquer estado físico ou de um produto, planta, cogumelo, ou parte dela contendo substância, com ação direta ou indireta sobre o sistema nervoso central, sem indicação específica para uso humano e cujo fabrico ou introdução no comércio não seja regulado por disposições próprias.
 
-###### Artigo 3.º — Infrator
+Artigo 3.º
+
+Infrator
 
 Quem anunciar ou publicitar, vender ou ceder por qualquer forma substâncias psicoativas consideradas no presente diploma fica sujeito à aplicação de uma contraordenação.
 
-###### Artigo 4.º — Ações de prevenção
+Artigo 4.º
+
+Ações de prevenção
 
 Os serviços governamentais competentes na área da educação e da prevenção da toxicodependência devem promover ações de prevenção e informação de forma concertada por forma a abranger o máximo da população escolar e a comunidade em geral.
 
-###### Artigo 5.º — Entidades competentes
+Artigo 5.º
+
+Entidades competentes
 
 1 - Os serviços de fiscalização municipal e a Inspeção Regional de Atividades Económicas, doravante designada por IRAE, devem atuar no sentido de fazer cumprir o disposto no presente diploma.
 
 2 - As situações de assistência em qualquer unidade de saúde na Região Autónoma da Madeira devem ser comunicadas à Autoridade de Saúde Pública para posterior comunicação à IRAE, a qual deve atuar no sentido de aplicar este diploma.
 
-###### Artigo 6.º — Controlo prévio
+Artigo 6.º
+
+Controlo prévio
 
 Em caso de suspeita razoável da perigosidade de um produto para a saúde do indivíduo, a IRAE deve mandar retirar o produto para análise e pode ordenar a suspensão da atividade comercial por um período necessário até esclarecimento da situação, para remover a ameaça.
 
-###### Artigo 7.º — Proibição de atividade e encerramento de espaços comerciais
+Artigo 7.º
+
+Proibição de atividade e encerramento de espaços comerciais
 
 1 - É proibida toda a atividade comercial associada à produção e comercialização das substâncias consideradas no presente diploma.
 
@@ -514,13 +528,17 @@ Em caso de suspeita razoável da perigosidade de um produto para a saúde do ind
 
 3 - Caso o espaço inclua a venda de outros produtos não enquadráveis neste diploma, mantém-se em funcionamento, sem prejuízo de encerramento temporário por um período máximo de três meses caso se comprove ser necessário para remover a ameaça.
 
-###### Artigo 8.º — Responsabilidade das pessoas coletivas ou equiparadas
+Artigo 8.º
+
+Responsabilidade das pessoas coletivas ou equiparadas
 
 1 - As coimas previstas no presente diploma aplicam-se tanto às pessoas singulares como às pessoas coletivas e associações sem personalidade jurídica.
 
 2 - As pessoas coletivas ou equiparadas serão responsáveis pelas contraordenações praticadas pelos seus órgãos no exercício das suas funções.
 
-###### Artigo 9.º — Determinação da medida da coima
+Artigo 9.º
+
+Determinação da medida da coima
 
 1 - A determinação da medida da coima faz-se em função da gravidade da contraordenação, da culpa, da localização do espaço onde se desenrola a atividade, do impacte no meio social envolvente, dos prejuízos provocados na saúde do indivíduo e do benefício económico que o infrator retirou da prática da contraordenação.
 
@@ -528,13 +546,17 @@ Em caso de suspeita razoável da perigosidade de um produto para a saúde do ind
 
 3 - Quando houver lugar à atenuação especial da punição por contraordenação, os limites máximo e mínimo da coima são reduzidos para metade.
 
-###### Artigo 10.º — Contraordenações
+Artigo 10.º
+
+Contraordenações
 
 1 - As infrações ao disposto no presente diploma constituem contraordenações puníveis, no caso das pessoas singulares, com coimas no valor mínimo de (euro) 750 e máximo de (euro) 3700, e no caso das pessoas coletivas, no valor mínimo de (euro) 5000 e máximo de (euro) 44 000.
 
 3 - A tentativa e a negligência são puníveis.
 
-###### Artigo 11.º — Sanções acessórias
+Artigo 11.º
+
+Sanções acessórias
 
 1 - Cumulativamente com a coima prevista no artigo anterior e nos termos da lei, podem ser aplicadas as seguintes sanções acessórias:
 
@@ -552,7 +574,9 @@ e) Suspensão de autorizações, licenças e alvarás.
 
 3 - O caráter definitivo ou o trânsito em julgado da decisão de perda determina a transferência da propriedade para a Região Autónoma da Madeira.
 
-###### Artigo 12.º — Objetos pertencentes a terceiro
+Artigo 12.º
+
+Objetos pertencentes a terceiro
 
 A perda de objetos pertencentes a terceiro só pode ter lugar:
 
@@ -560,11 +584,15 @@ a) Quando os seus titulares tiverem concorrido, com culpa, para a sua utilizaç�
 
 b) Quando os objetos forem, por qualquer título, adquiridos após a prática do facto, conhecendo os adquirentes a proveniência.
 
-###### Artigo 13.º — Encargos nas unidades de saúde
+Artigo 13.º
+
+Encargos nas unidades de saúde
 
 O infrator assumirá também a responsabilidade pelos encargos decorrentes da assistência médica em unidades de saúde, sem prejuízo do direito a qualquer indemnização ou retribuição do consumidor das substâncias.
 
-###### Artigo 14.º — Receitas
+Artigo 14.º
+
+Receitas
 
 O produto das coimas é distribuído da seguinte forma:
 
@@ -574,11 +602,15 @@ O produto das coimas é distribuído da seguinte forma:
 
 10 % para o SESARAM, E. P. E., destinado ao tratamento da toxicodependência.
 
-###### Artigo 15.º — Regulamentação
+Artigo 15.º
+
+Regulamentação
 
 O presente diploma é objeto de regulamentação, através de portaria do Secretário Regional dos Assuntos Sociais.
 
-###### Artigo 16.º — Entrada em vigor
+Artigo 16.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia posterior ao da sua publicação.»
 
@@ -610,11 +642,15 @@ Tendo em conta que a Assembleia Legislativa da Região Autónoma da Madeira não
 
 Assim, a Assembleia Legislativa da Região Autónoma da Madeira, nos termos do disposto na alínea f) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 31/91, de 5 de junho, com as alterações introduzidas pela Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, decreta o seguinte:
 
-###### Artigo 1.º — Âmbito
+Artigo 1.º
+
+Âmbito
 
 O regime previsto pelo Decreto-Lei n.º 15/93, de 22 de janeiro, que definiu o regime jurídico do tráfico e consumo de estupefacientes e psicotrópicos, com as alterações posteriormente concretizadas, é aplicável a todas as outras substâncias psicoativas que não sejam controladas por legislação própria e que não estejam contempladas nas tabelas de substâncias proibidas, não obstante produzirem os mesmos efeitos.
 
-###### Artigo 2.º — Entrada em vigor
+Artigo 2.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia posterior ao da sua publicação.»
 

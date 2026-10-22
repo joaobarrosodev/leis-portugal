@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 150/2001, 2º Suplemento, Série I-A de 2001-06-30
   number: '150'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3898-(10) a 3898-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/06/150a02/00100010.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/13-p/2001/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-p-2001-571971
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-06-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:57:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22ee01221c64fd073caa859e99c2dff7f9013b1f4e4e765c7beaeaeb2791f228
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ab4d4e5245d6ff8f23a730e1c4cccecb09cdb7b6440073aea22e23cd04f78d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:57:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,49 +69,53 @@ reuse:
 subjects:
 - Alienação de BENS
 - Aquisição de Bens e Serviços
-- Financiamento
+- Autarquia Local
 - AVAL do Estado
 - Centro Hospitalar do Funchal
 - Centro Regional de Saúde
-- Gestão Financeira
+- Cobrança de Dívidas
+- Contabilidade Pública
 - Cooperação Financeira
 - Cooperação Técnica
 - Crédito Bonificado
 - Despesas Públicas
-- Política de Saúde
 - Extinção de Serviços
+- Financiamento
+- Gabinete de Gestão do Litoral
+- Gestão Financeira
+- Iga-investimentos e Gestão da ÁGUA
 - Integração de Trabalhadores
 - Linha de Crédito
-- Parque Industrial
-- Gabinete de Gestão do Litoral
-- Secretaria Regional do Equipamento Social e Transportes
+- Madeira.região Autónoma
 - Obras Públicas
 - Orçamento Regional
-- Madeira.região Autónoma
+- Parque Industrial
+- Política de Saúde
 - Receita Regional
-- Cobrança de Dívidas
+- Secretaria Regional do Equipamento Social e Transportes
 - Sideram
-- Iga-investimentos e Gestão da ÁGUA
-- Contabilidade Pública
 - Subsídio
 - Subsídio de Fixação
 - Subsídio de Penosidade e Risco
-- Autarquia Local
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/4-a/2001/04/03/m/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/4-a/2001/04/03/m/dre
+- type: cites
+  target: pt:dre:592760:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:57:37Z'
   warnings: []
   errors: []
 ---
@@ -124,10 +128,10 @@ No artigo 22.º, onde se lê «da dualidade de vida das populações» deve ler-
 
 No mapa I, «Receitas da Região» onde se lê:
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/06/150a02/00100010.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/06/150a02/00100010.pdf)](https://files.diariodarepublica.pt/1s/2001/06/150a02/00100010.pdf)
 
 deve ler-se:
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/06/150a02/00100010.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/06/150a02/00100010.pdf)](https://files.diariodarepublica.pt/1s/2001/06/150a02/00100010.pdf)
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 27 de Junho de 2001. - O Secretário-Geral, Alexandre Figueiredo.

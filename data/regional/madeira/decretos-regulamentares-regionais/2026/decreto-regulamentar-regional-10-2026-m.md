@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/10/2026/04/28/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2026-1095232812
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-28T00:00:00Z'
+  retrieved_at: '2026-10-22T18:39:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb52a89f2c788da1396229011f0fabb1ca25927f76c817bf44ae4fc6e613d281
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c608b0aed0cec0219ceb41e93d94669f6d94361e676ff3ab6f7a85638a72f0d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:39:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
-- Diretor Regional
-- Recrutamento de Pessoal
 - Direção Regional de Planeamento Recursos e Gestão de Obras Públicas
-- Orgânica
+- Diretor Regional
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Secretaria Regional dos Equipamentos e Infraestruturas
 relationships:
 - type: cites
@@ -115,16 +115,78 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75195062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:873755644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:916745909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:939048262:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:20/2016/M
+  label: Revoga, a partir de 29 de abril de 2026, nos termos do artigo 9.º do presente diploma, o Decreto Regulamentar Regional
+    n.º 20/2016/M, de 25 de agosto, Diário da República n.º 163/2016, Série I
+  source: null
+  date: '2016-08-25'
 article_structure:
   article_count: 10
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:39:49Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +201,7 @@ Consequentemente, o [Decreto Regulamentar Regional n.º 16/2025/M](https://diari
 
 Neste contexto, pelo presente diploma procede-se à aprovação da orgânica da Direção Regional de Planeamento, Recursos e Gestão de Obras Públicas, de forma a que se mostre assegurada a prossecução da sua missão, em observância ao previsto no [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, na sua redação atual.
 
-Assim, nos termos da alínea b) do n.º 1 do artigo 5.º e do artigo 12.º do [Decreto Regulamentar Regional n.º 16/2025/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2025-939048262), de 10 de outubro, e ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, e do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho, o Governo Regional da Madeira decreta o seguinte:
+Assim, nos termos da alínea b) do n.º 1 do artigo 5.º e do artigo 12.º do [Decreto Regulamentar Regional n.º 16/2025/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2025-939048262), de 10 de outubro, e ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, e do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho, o Governo Regional da Madeira decreta o seguinte:
 
 ### CAPÍTULO I — NATUREZA, MISSÃO, ATRIBUIÇÕES E ÓRGÃO
 
@@ -221,7 +283,7 @@ A dotação de cargos de direção superior e de direção intermédia de 1.º g
 
 ###### Artigo 8.º — Norma transitória
 
-1 - Até à entrada em vigor dos diplomas que aprovam a organização interna da DRPRGOP a que se refere o artigo 5.º, mantêm-se em vigor as unidades orgânicas previstas nas alíneas a), c) e d) do artigo 2.º e nos artigos 3.º, 5.º e 6.º da Portaria n.º 567/2016, de 15 de dezembro, das Secretarias Regionais dos Assuntos Parlamentares e Europeus e das Finanças e da Administração Pública, na alínea d) do artigo 2.º e no artigo 6.º da Portaria n.º 44/2017, de 16 de fevereiro, das Secretarias Regionais dos Assuntos Parlamentares e Europeus e das Finanças e da Administração Pública, alterada pela Portaria n.º 45/2020, de 24 de fevereiro, da Vice-Presidência do Governo Regional e dos Assuntos Parlamentares e Secretaria Regional de Equipamentos e Infraestruturas, e nos n.<sup>os</sup>1 e 2 do Despacho n.º 468/2016, de 21 de dezembro, da Secretaria Regional dos Assuntos Parlamentares e Europeus, bem como as comissões de serviço dos respetivos titulares de cargos dirigentes.
+1 - Até à entrada em vigor dos diplomas que aprovam a organização interna da DRPRGOP a que se refere o artigo 5.º, mantêm-se em vigor as unidades orgânicas previstas nas alíneas a), c) e d) do artigo 2.º e nos artigos 3.º, 5.º e 6.º da Portaria n.º 567/2016, de 15 de dezembro, das Secretarias Regionais dos Assuntos Parlamentares e Europeus e das Finanças e da Administração Pública, na alínea d) do artigo 2.º e no artigo 6.º da Portaria n.º 44/2017, de 16 de fevereiro, das Secretarias Regionais dos Assuntos Parlamentares e Europeus e das Finanças e da Administração Pública, alterada pela Portaria n.º 45/2020, de 24 de fevereiro, da Vice-Presidência do Governo Regional e dos Assuntos Parlamentares e Secretaria Regional de Equipamentos e Infraestruturas, e nos n.os1 e 2 do Despacho n.º 468/2016, de 21 de dezembro, da Secretaria Regional dos Assuntos Parlamentares e Europeus, bem como as comissões de serviço dos respetivos titulares de cargos dirigentes.
 
 2 - Até à entrada em vigor do diploma orgânico do serviço integrador das atribuições referentes à coordenação da gestão da manutenção dos veículos ao serviço do Parque de Veículos da Região Autónoma da Madeira e dos equipamentos com motor de combustão interna ao serviço do Governo Regional, a que se referem a alínea b) do n.º 1 e o n.º 3 do artigo 21.º do [Decreto Regulamentar Regional n.º 16/2025/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2025-939048262), de 10 de outubro, mantêm-se em vigor as unidades orgânicas previstas na alínea f) do artigo 2.º e no artigo 8.º da Portaria n.º 567/2016, de 15 de dezembro, das Secretarias Regionais dos Assuntos Parlamentares e Europeus e das Finanças e da Administração Pública, e no n.º 3 do Despacho n.º 468/2016, de 21 de dezembro, da Secretaria Regional dos Assuntos Parlamentares e Europeus, bem como as comissões de serviço dos respetivos titulares de cargos dirigentes.
 
@@ -235,11 +297,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 1 de abril de 2026.
 
-**O Secretário Regional do Turismo, Ambiente e Cultura, no exercício da Presidência, António Eduardo de Freitas Jesus.**
+O Secretário Regional do Turismo, Ambiente e Cultura, no exercício da Presidência, António Eduardo de Freitas Jesus.
 
-**Assinado em 23 de abril de 2026.**
+Assinado em 23 de abril de 2026.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -252,3 +314,7 @@ Mapa de cargos dirigentes
 | Cargos de direção superior de 1.º grau | 1 |
 | Cargos de direção superior de 2.º grau | 1 |
 | Cargos de direção intermédia de 1.º grau | 4 |
+
+119948330
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:26px; } .Tbl3 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl5 { text-align:center; } .Tbl6 { min-height:18px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; }

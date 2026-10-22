@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/86/2009/11/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/86-2009-482598
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-23T00:00:00Z'
+  retrieved_at: '2026-10-22T19:12:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 853b9c9fba4209ab472dff2d2aa43e60f5d5de55b211de71485132099c5d8255
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31be94cd0a2fe57579c04fc7b62aca04c8e2f7e155f162a3ba0c13a3ee2e43cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:12:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,40 +68,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
 - Acidente de Trabalho
 - Ajuda Judicial
-- Eleição
-- Código de Processo do Trabalho
-- Competência Jurisdicional
-- Definição de Competências
-- Despedimento
 - Associação Patronal
 - Associação Sindical
+- Código de Processo do Trabalho
 - Comissão de Trabalhadores
-- Direito do Trabalho
+- Competência Jurisdicional
+- Condições de Higiene e Segurança no Trabalho
+- Contrato de Trabalho
 - Convenção Coletiva de Trabalho
-- Processo Laboral
-- Tribunal do Trabalho
-- Pagamento
+- Definição de Competências
+- Despedimento
+- Direito do Trabalho
+- Eleição
+- Exame Médico
 - Impugnação
+- Incapacidade Permanente
 - Instituições de Previdência Social
-- Transmissão da Propriedade
 - Julgamento
 - Junta Médica
 - Legalidade
 - Liquidação de Sociedades
-- Exame Médico
-- Notificação
-- Reclamação
-- Contrato de Trabalho
-- Condições de Higiene e Segurança no Trabalho
 - Ministério Público
+- Notificação
+- Pagamento
+- Processo Laboral
+- Reclamação
+- Recurso
 - Reintegração de Pessoal
 - Remuneração
 - Representação dos Trabalhadores
 - Segurança Social
-- Incapacidade Permanente
+- Transmissão da Propriedade
+- Tribunal do Trabalho
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
@@ -135,16 +135,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/76/2009/08/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/76/2009/08/13/p/dre
+- type: cites
+  target: pt:dre:196220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683065:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:12:14Z'
   warnings: []
   errors: []
 ---
@@ -405,19 +433,25 @@ deve ler-se:
 
 Do processo penal
 
-## TÍTULO I
+TÍTULO I
 
 Da acção
 
-### CAPÍTULO I — Acção penal
+CAPÍTULO I
 
-###### Artigo 187.º — Natureza e exercício da acção penal
+Acção penal
+
+Artigo 187.º
+
+Natureza e exercício da acção penal
 
 1 - A acção penal é pública, cabendo o seu exercício exclusivamente ao Ministério Público.
 
 2 - O Ministério Público exerce a acção penal mediante denúncia verbal ou escrita ou em resultado da remessa a juízo de auto de notícia levantado pelas entidades competentes.
 
-###### Artigo 188.º — Intervenção do Ministério Público
+Artigo 188.º
+
+Intervenção do Ministério Público
 
 1 - Remetido ao tribunal qualquer auto que faça fé em juízo, o Ministério Público promove a designação de data para julgamento; se o auto não satisfizer os requisitos legais, pode por si completar a instrução ou devolvê-lo para a sua regularização.
 
@@ -425,25 +459,35 @@ Da acção
 
 3 - O despacho a que se refere o número anterior é notificado ao denunciante, se o houver, o qual, se tiver a faculdade de se constituir assistente, pode reclamar para o imediato superior hierárquico, no prazo de 5 dias, por requerimento entregue na secretaria, que é junto ao processo; a reclamação é decidida no prazo de 15 dias.
 
-###### Artigo 189.º — Notificação dos interessados
+Artigo 189.º
+
+Notificação dos interessados
 
 1 - O tribunal notifica os interessados da data designada para a audiência de julgamento, desde que a residência seja conhecida no processo.
 
 2 - Podem intervir como assistentes em processo penal do trabalho os ofendidos, considerando-se como tais os titulares dos interesses que a lei penal especialmente quis proteger com a incriminação, e as associações sindicais, nos mesmos casos em que tenham legitimidade para a acção cível, segundo o n.º 1 do artigo 5.º deste Código.
 
-###### Artigo 190.º — Prescrição
+Artigo 190.º
+
+Prescrição
 
 1 - A acção penal relativa a qualquer infracção da competência dos tribunais do trabalho extingue-se por prescrição, desde que não seja exercida no decurso do prazo de dois anos a contar da data em que a infracção se consumou.
 
 2 - A prescrição da acção penal interrompe-se com a acusação ou acto equivalente.
 
-###### Artigo 191.º — Pessoa colectiva e sociedade
+Artigo 191.º
+
+Pessoa colectiva e sociedade
 
 Sendo o infractor pessoa colectiva ou sociedade, respondem pelo pagamento da multa, solidariamente com aquela, os administradores, gerentes ou directores que forem julgados responsáveis pela infracção.
 
-### CAPÍTULO II — Acção cível em processo penal
+CAPÍTULO II
 
-###### Artigo 192.º — Acção
+Acção cível em processo penal
+
+Artigo 192.º
+
+Acção
 
 1 - Não tendo sido proposta acção cível, o pedido respeitante à obrigação cujo incumprimento constitui a infracção pode ser formulado no respectivo processo penal.
 
@@ -453,23 +497,31 @@ Sendo o infractor pessoa colectiva ou sociedade, respondem pelo pagamento da mul
 
 4 - O ofendido que deduza pedido cível nos termos do número anterior não carece de patrocínio judiciário.
 
-###### Artigo 193.º — Interrupção e suspensão da prescrição de obrigações pecuniárias
+Artigo 193.º
+
+Interrupção e suspensão da prescrição de obrigações pecuniárias
 
 O levantamento do auto de notícia interrompe a prescrição das obrigações pecuniárias cujo incumprimento, por parte do arguido, constitua a infracção; a prescrição não corre a partir da acusação ou acto equivalente e enquanto estiver pendente o respectivo processo.
 
-###### Artigo 194.º — Prazo de cumprimento de obrigações pecuniárias
+Artigo 194.º
+
+Prazo de cumprimento de obrigações pecuniárias
 
 1 - O cumprimento de obrigações pecuniárias resultantes de infracção em que tenha havido condenação em multa deve efectuar-se no prazo para pagamento da multa.
 
 2 - O montante das importâncias em dívida é incluído na conta.
 
-## TÍTULO II
+TÍTULO II
 
 Do processo
 
-### CAPÍTULO I — Distribuição
+CAPÍTULO I
 
-###### Artigo 195.º — Espécies
+Distribuição
+
+Artigo 195.º
+
+Espécies
 
 Para efeito de distribuição, às espécies previstas no artigo 21.º acrescem, em matéria penal, as seguintes:
 
@@ -485,9 +537,13 @@ Para efeito de distribuição, às espécies previstas no artigo 21.º acrescem,
 
 18.ª Autos ou participações não previstos nos números anteriores.
 
-### CAPÍTULO II — Instrução e julgamento
+CAPÍTULO II
 
-###### Artigo 196.º — Pagamento voluntário
+Instrução e julgamento
+
+Artigo 196.º
+
+Pagamento voluntário
 
 1 - O pagamento voluntário da multa, na pendência do processo judicial, não é admitido enquanto o arguido não tiver cumprido as obrigações pecuniárias correspondentes.
 
@@ -495,19 +551,27 @@ Para efeito de distribuição, às espécies previstas no artigo 21.º acrescem,
 
 3 - Se do processo não constarem ainda os elementos necessários à determinação do montante devido, deve ser prestado, para os efeitos do número anterior, o que for indicado pelo credor, que para isso é ouvido em declarações.
 
-###### Artigo 197.º — Inquirição por carta
+Artigo 197.º
+
+Inquirição por carta
 
 É admissível a inquirição de testemunhas por carta precatória nos termos do artigo 67.º
 
-###### Artigo 198.º — Oralidade da audiência
+Artigo 198.º
+
+Oralidade da audiência
 
 Os actos de audiência não são documentados.
 
-###### Artigo 199.º — Recurso
+Artigo 199.º
+
+Recurso
 
 O recurso da decisão final é circunscrito à matéria de direito.
 
-###### Artigo 200.º — Regime supletivo
+Artigo 200.º
+
+Regime supletivo
 
 É subsidiariamente aplicável, com as necessárias adaptações, o regime do processo de transgressão e, no que neste não esteja previsto, o Código de Processo Penal.»
 

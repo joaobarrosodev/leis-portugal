@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 175/1992, 4º Suplemento, Série I-B de 1992-07-31
   number: '175'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 3604-(11) a 3604-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/175b04/00110011.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/117/1992/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/117-1992-276004
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:33:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a05c59650c7f7b0bdcdda9b30d4ca714e32ba91d381c716fcc994a3251e1f88
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2af472b87bdb6723192d8141d5bde508256d1678de422c84858bf3237365782
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:33:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,21 +78,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/722-x/1992/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/722-x/1992/07/15/p/dre
+- type: cites
+  target: pt:dre:617531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617724:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:33:05Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 117/92
+# Declaração de rectificação n.º 117/92
 
 Para os devidos efeitos se declara que a [Portaria n.º 722-F2/92](https://diariodarepublica.pt/dr/detalhe/portaria/722-f2-1992-617531), publicada no Diário da República, 1.ª série, n.º 161 (2.º suplemento), de 15 de Julho de 1992, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
 

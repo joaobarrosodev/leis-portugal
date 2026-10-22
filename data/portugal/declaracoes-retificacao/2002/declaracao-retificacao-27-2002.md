@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/27/2002/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/27-2002-185097
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-08-08T00:00:00Z'
+  retrieved_at: '2026-10-22T19:00:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 442fae87f965206aede6c3173b680fdf14d3c7e8a63ae80a7b00ed6abe15827d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1428c0eec06a45872f6925eb50582129a2c87ea4174a1525b552d047e26b7be9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:00:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Orçamento
 - Assembleia da República
+- Orçamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/49/2002/07/23/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/49/2002/07/23/p/dre
+- type: cites
+  target: pt:dre:188876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325545:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:00:34Z'
   warnings: []
   errors: []
 ---
@@ -92,21 +100,21 @@ Para os devidos efeitos, se declara que a [Resolução da Assembleia da Repúbli
 
 No quadro «Receitas correntes», onde se lê:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57065706.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57065706.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57065706.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57065706.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57065706.pdf)
 
 deve ler-se:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57065706.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57065706.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57065706.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57065706.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57065706.pdf)
 
 Nas «Notas explicativas - Receitas», onde se lê «(2) [...] do pessoal dos serviços e dos gabinetes (1 de Fevereiro de 2001) e subsídios de férias e de Natal (7 de Fevereiro de 2001)» deve ler-se «(2) [...] do Pessoal dos Serviços e dos Gabinetes (01.02.01) e Subsídio de Férias e de Natal (01.02.07)» e onde se lê «(3) [...] conta de gerência [...]» deve ler-se «(3) [...] Conta de Gerência [...]».
 
 No quadro «Despesas correntes», onde se lê:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57065706.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57065706.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57065706.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57065706.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57065706.pdf)
 
 deve ler-se:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57065706.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57065706.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57065706.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57065706.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57065706.pdf)
 
 Nas «Notas explicativas - Despesas», onde se lê «(1) [...] da [Lei n.º 4/85](https://diariodarepublica.pt/dr/detalhe/lei/4-1985-325545), de 4 de Setembro [...]» deve ler-se «(1) [...] da [Lei n.º 4/85](https://diariodarepublica.pt/dr/detalhe/lei/4-1985-325545), de 9 de Abril [...]», onde se lê «(2) [...] 10 meses em vez de 9 [...]» deve ler-se «(2) [...] 10 meses em vez de nove [...]», onde se lê «(4) [...] plafom [...]» deve ler-se «(4) [...] plafond [...]», onde se lê «(5) [...] aos Srs. Deputados [...]» deve ler-se «(5) [...] aos Senhores Deputados [...]», onde se lê «(7) [...] aos Srs. ex-Deputados em 20002 [...]» deve ler-se «(7) [...] aos Senhores ex-Deputados em 2002 [...]», onde se lê «(11) [...] da Sra. Secretária-Geral [...]» deve ler-se «(11) [...] da Senhora Secretária-Geral [...]» e onde se lê «(17) [...] dotação provisional [...] subsídio de reintegração [...] gabinetes de apoio dos grupos parlamentares [...] partidos políticos e aos grupos parlamentares» deve ler-se «(17) [...] Dotação Provisional [...] Subsídio de Reintegração [...] Gabinetes de Apoio dos Grupos Parlamentares [...] Partidos Políticos e aos Grupos Parlamentares».
 

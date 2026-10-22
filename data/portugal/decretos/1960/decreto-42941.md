@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1960/04/09500/09890990.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/42941-1960-281460
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-02-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:17:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98183854316028d3122814df5d4446a0bc262f5335120c452d1f4791b4c7f751
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b08d86037c0ce4124d0eda46dd26c63fef662322c7cffbd057b9d3682e171915
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:17:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Industrial
+- Fabrico Industrial
+- Indústria Mineira
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:261929:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:166599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:194869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:597284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687261:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:261929:por
+  label: "Revogado pelo DEC LEI.75/74.28.02.1974.MECO, DG.IS [50-Supl] de 28.02.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-1974-261929
+  date: '1974-02-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:17:51Z'
   warnings: []
   errors: []
 ---
@@ -98,27 +135,27 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 REGULAMENTO DO EXERCÍCIO DA INDÚSTRIA DO GESSO
 
-###### Artigo 1.º O exercício da indústria de produção de gesso calcinado fica sujeito às prescrições constantes do presente regulamento.
+Artigo 1.º O exercício da indústria de produção de gesso calcinado fica sujeito às prescrições constantes do presente regulamento.
 
-###### Art. 2.º De futuro não poderá ser passado a qualquer nova fábrica de gesso o alvará a que se refere o regulamento aprovado pelo [Decreto n.º 8364](https://diariodarepublica.pt/dr/detalhe/decreto/8364-1922-166599), de 25 de Agosto de 1922, sem que se mostrem cumpridas as prescrições constantes do presente regulamento.
+Art. 2.º De futuro não poderá ser passado a qualquer nova fábrica de gesso o alvará a que se refere o regulamento aprovado pelo [Decreto n.º 8364](https://diariodarepublica.pt/dr/detalhe/decreto/8364-1922-166599), de 25 de Agosto de 1922, sem que se mostrem cumpridas as prescrições constantes do presente regulamento.
 
 § único. O processo de licenciamento a que se refere o regulamento aprovado pelo [Decreto n.º 8364](https://diariodarepublica.pt/dr/detalhe/decreto/8364-1922-166599) seguirá para as fábricas de gesso calcinado os trâmites relativos a estabelecimentos de 1.ª classe.
 
-###### Art. 3.º As novas fábricas produtoras de gesso calcinado deverão satisfazer a um diagrama de fabrico em circuito fechado inteiramente mecânico, que compreenda as operações de alimentação, transporte, trituração, calcinação, moagem, classificação e ensilagem.
+Art. 3.º As novas fábricas produtoras de gesso calcinado deverão satisfazer a um diagrama de fabrico em circuito fechado inteiramente mecânico, que compreenda as operações de alimentação, transporte, trituração, calcinação, moagem, classificação e ensilagem.
 
 § único. As características dos maquinismos devem ser submetidas a prévia aprovação.
 
-###### Art. 4.º Todas as fases do fabrico deverão ser objecto de verificação, a incidir principalmente na calcinação, recorrendo-se a adequados instrumentos de medida e registo.
+Art. 4.º Todas as fases do fabrico deverão ser objecto de verificação, a incidir principalmente na calcinação, recorrendo-se a adequados instrumentos de medida e registo.
 
 § único. A verificação da calcinação terá de permitir o comando do diagrama de fabrico, por forma a obterem-se todas as qualidades de gesso que venham a ser fixadas pelas normas portuguesas.
 
-###### Art. 5.º O equipamento fabril das novas fábricas deverá ter capacidade para a produção mínima de 5 t por hora de produto acabado, exigindo-se que as instalações, em edifícios, parque e reserva de matéria-prima, áreas de manuseamento e maquinismos acessórios, estejam equilibradas com a capacidade de produção.
+Art. 5.º O equipamento fabril das novas fábricas deverá ter capacidade para a produção mínima de 5 t por hora de produto acabado, exigindo-se que as instalações, em edifícios, parque e reserva de matéria-prima, áreas de manuseamento e maquinismos acessórios, estejam equilibradas com a capacidade de produção.
 
-###### Art. 6.º As novas fábricas terão de organizar um quadro permanente de pessoal técnico qualificado e de montar um laboratório privativo, apetrechado para todos os ensaios de rotina, de modo a verificar efectivamente a qualidade das matérias-primas e dos produtos acabados.
+Art. 6.º As novas fábricas terão de organizar um quadro permanente de pessoal técnico qualificado e de montar um laboratório privativo, apetrechado para todos os ensaios de rotina, de modo a verificar efectivamente a qualidade das matérias-primas e dos produtos acabados.
 
-###### Art. 7.º As instalações de novas fábricas de gesso não poderão localizar-se nos concelhos de Lisboa, Porto e limítrofes.
+Art. 7.º As instalações de novas fábricas de gesso não poderão localizar-se nos concelhos de Lisboa, Porto e limítrofes.
 
-###### Art. 8.º As novas fábricas terão de possuir gesseiras com reservas conhecidas que assegurem o normal abastecimento, durante dez anos, das secções de transformação.
+Art. 8.º As novas fábricas terão de possuir gesseiras com reservas conhecidas que assegurem o normal abastecimento, durante dez anos, das secções de transformação.
 
 § 1.º Entende-se por normal abastecimento o ajustado à capacidade mínima de produção definida no artigo 5.º e com relação a 300 dias de trabalho de 8 horas.
 
@@ -128,34 +165,34 @@ REGULAMENTO DO EXERCÍCIO DA INDÚSTRIA DO GESSO
 
 § 4.º A exploração das gesseiras só poderá ser feita nos termos da [Lei n.º 1979](https://diariodarepublica.pt/dr/detalhe/lei/1979-1940-194869), de 23 de Março de 1940, e do [Decreto n.º 13642](https://diariodarepublica.pt/dr/detalhe/decreto/13642-1927-687261), de 7 de Maio de 1927.
 
-###### Art. 9.º Continuará a aplicar-se à instalação de fábricas de gesso o disposto nos artigos 24.º e 25.º do [Decreto-Lei n.º 39634](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39634-1954-217898), de 5 de Maio de 1954.
+Art. 9.º Continuará a aplicar-se à instalação de fábricas de gesso o disposto nos artigos 24.º e 25.º do [Decreto-Lei n.º 39634](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39634-1954-217898), de 5 de Maio de 1954.
 
 § único. O alvará de licença não poderá ser concedido sem comprovação, na vistoria complementar, de estarem cumpridas as disposições dos artigos 3.º a 7.º e sem a exibição, pelo interessado, de documentos justificativos do seu direito à exploração de gesseiras, nos termos do artigo anterior.
 
-###### Art. 10.º Todo o gesso, tanto nacional como importado, deverá obedecer aos requisitos que forem fixados em normas portuguesas.
+Art. 10.º Todo o gesso, tanto nacional como importado, deverá obedecer aos requisitos que forem fixados em normas portuguesas.
 
-###### Art. 11.º As fábricas licenciadas ou a licenciar deverão assinar contrato com um organismo oficial, para que este proceda a verificação periódica da qualidade dos seus produtos, e remeter oportunamente o respectivo boletim à Direcção-Geral dos Serviços Industriais.
+Art. 11.º As fábricas licenciadas ou a licenciar deverão assinar contrato com um organismo oficial, para que este proceda a verificação periódica da qualidade dos seus produtos, e remeter oportunamente o respectivo boletim à Direcção-Geral dos Serviços Industriais.
 
-###### Art. 12.º Os resultados dos ensaios feitos no laboratório de cada uma das fábricas deverão constar de um livro de registo, permanentemente actualizado.
+Art. 12.º Os resultados dos ensaios feitos no laboratório de cada uma das fábricas deverão constar de um livro de registo, permanentemente actualizado.
 
-###### Art. 13.º O gesso só poderá sair das fábricas e ser posto à venda em sacos de papel novos ou em barricas de madeira, quando estas sejam no interior devidamente impermeabilizadas.
+Art. 13.º O gesso só poderá sair das fábricas e ser posto à venda em sacos de papel novos ou em barricas de madeira, quando estas sejam no interior devidamente impermeabilizadas.
 
 § único. Das embalagens deverão constar a firma ou denominação do fabricante, o nome do produto e o seu tipo, segundo as normas que vierem a ser fixadas.
 
-###### Art. 14.º O Secretário de Estado da Indústria poderá alterar por meio de portaria as condições técnicas estabelecidas para o exercício da indústria do gesso calcinado.
+Art. 14.º O Secretário de Estado da Indústria poderá alterar por meio de portaria as condições técnicas estabelecidas para o exercício da indústria do gesso calcinado.
 
-###### Art. 15.º A fiscalização do cumprimento das prescrições contidas no presente regulamento compete à Direcção-Geral dos Serviços Industriais, sem prejuízo das atribuições da Direcção-Geral de Saúde, da Direcção-Geral de Minas e Serviços Geológicos e da Inspecção-Geral dos Produtos Agrícolas e Industriais.
+Art. 15.º A fiscalização do cumprimento das prescrições contidas no presente regulamento compete à Direcção-Geral dos Serviços Industriais, sem prejuízo das atribuições da Direcção-Geral de Saúde, da Direcção-Geral de Minas e Serviços Geológicos e da Inspecção-Geral dos Produtos Agrícolas e Industriais.
 
-###### Art. 16.º Compete à Direcção-Geral dos Serviços Industriais a imposição das condições necessárias ao efectivo cumprimento do disposto neste regulamento, bem como as providências destinadas a impedir o exercício da indústria de gesso calcinado sem observância do que no mesmo se prescreve.
+Art. 16.º Compete à Direcção-Geral dos Serviços Industriais a imposição das condições necessárias ao efectivo cumprimento do disposto neste regulamento, bem como as providências destinadas a impedir o exercício da indústria de gesso calcinado sem observância do que no mesmo se prescreve.
 
-###### Art. 17.º A contravenção ao disposto no artigo 10.º do presente regulamento será punida, nos termos da base XII da [Lei n.º 2052](https://diariodarepublica.pt/dr/detalhe/lei/2052-1952-597284), de 11 de Março de 1952, com a multa de 1000$00 a 10000$00.
+Art. 17.º A contravenção ao disposto no artigo 10.º do presente regulamento será punida, nos termos da base XII da [Lei n.º 2052](https://diariodarepublica.pt/dr/detalhe/lei/2052-1952-597284), de 11 de Março de 1952, com a multa de 1000$00 a 10000$00.
 
-###### Art. 18.º A aplicação da multa prevista no artigo anterior compete ao inspector-geral dos Produtos Agrícolas e Industriais, mediante auto de ocorrência levantado pelos funcionários competentes da Inspecção-Geral dos Produtos Agrícolas e Industriais, e reverterá para o Centro de Normalização, criado pelo [Decreto-Lei n.º 38801](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38801-1952-564839), de 25 de Junho de 1952.
+Art. 18.º A aplicação da multa prevista no artigo anterior compete ao inspector-geral dos Produtos Agrícolas e Industriais, mediante auto de ocorrência levantado pelos funcionários competentes da Inspecção-Geral dos Produtos Agrícolas e Industriais, e reverterá para o Centro de Normalização, criado pelo [Decreto-Lei n.º 38801](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38801-1952-564839), de 25 de Junho de 1952.
 
 § 1.º Da aplicação da multa cabe recurso para o Secretário de Estado da Indústria.
 
 § 2.º Se o contraventor não pagar a multa dentro de dez dias, a contar da notificação do despacho definitivo, será participado o facto ao Tribunal das Execuções Fiscais, para que este proceda à cobrança coerciva.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Abril de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José do Nascimento Ferreira Dias Júnior.

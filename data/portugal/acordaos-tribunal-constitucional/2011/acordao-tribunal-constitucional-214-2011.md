@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/214/2011/05/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/214-2011-287816
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-16T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd4f6dfc3a0286198976e2bd7b2090baf3b04aed53127cf57693a4c8e0963af4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71e361b7b60828d731db689a037f759c6d3e54f9ddae22d77b78fe424f108058
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Avaliação do Pessoal
 - Ensino Oficial
 - Inconstitucionalidade
-- Tribunal Constitucional
 - Pessoal Docente
-- Avaliação do Pessoal
+- Tribunal Constitucional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-le
@@ -113,16 +113,132 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/2/2010/06/23/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/2/2010/06/23/p/dre
+- type: cites
+  target: pt:dre:186123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2245268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2643550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3575632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681638:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:57Z'
   warnings: []
   errors: []
 ---
@@ -223,19 +339,27 @@ II - Fundamentação
 
 A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:
 
-###### Artigo 1.º — Novo modelo de avaliação do desempenho de docentes
+Artigo 1.º
+
+Novo modelo de avaliação do desempenho de docentes
 
 Até ao final do presente ano lectivo, o Governo inicia o processo de negociação sindical tendente à aprovação do enquadramento legal e regulamentar que concretize um novo modelo de avaliação do desempenho de docentes, produzindo efeitos a partir do início do próximo ano lectivo.
 
-###### Artigo 2.º — Período transitório
+Artigo 2.º
+
+Período transitório
 
 Para efeitos de avaliação do desempenho de docentes, e até à entrada em vigor do novo modelo de avaliação, são aplicáveis os procedimentos previstos no despacho n.º 4913-B/2010, de 18 de Março, no âmbito da apreciação intercalar, até ao final de Agosto de 2011.
 
-###### Artigo 3.º — Norma revogatória
+Artigo 3.º
+
+Norma revogatória
 
 É revogado o [Decreto Regulamentar n.º 2/2010](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2010-335222), de 23 de Junho.
 
-###### Artigo 4.º — Entrada em vigor
+Artigo 4.º
+
+Entrada em vigor
 
 A presente lei entra em vigor no dia seguinte ao da sua publicação.»
 

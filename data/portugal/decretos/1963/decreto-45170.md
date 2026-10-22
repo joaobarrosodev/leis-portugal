@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45170-1963-693474
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-07-30T00:00:00Z'
+  retrieved_at: '2026-10-22T19:36:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5cee3e19f8dfdcef0375477290d09c4cbda87e0f7f70db7c65db586bbd5cfe94
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52f3f05fcb14cc15602347e33fa95b2a0cfb3a96e8b670d267669bba6bade9f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:36:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:36:03Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +89,9 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os artigos 2.º e 3.º do Diploma Legislativo Ministerial n.º 43, publicado em Luanda aos 19 de Maio de 1961, passam a ter a seguinte redacção:
+Artigo único. Os artigos 2.º e 3.º do Diploma Legislativo Ministerial n.º 43, publicado em Luanda aos 19 de Maio de 1961, passam a ter a seguinte redacção:
 
-###### Art. 2.º Os jardins-escolas serão dirigidos por educadoras de infância habilitadas com o respectivo diploma conferido por estabelecimentos de reconhecida idoneidade.
+Art. 2.º Os jardins-escolas serão dirigidos por educadoras de infância habilitadas com o respectivo diploma conferido por estabelecimentos de reconhecida idoneidade.
 
 § 1.º Além da educadora de infância-directora, podem, consoante as necessidades de frequência, prestar serviço nos jardins-escolas monitoras de infância e agentes de educação infantil, atribuindo-se-lhes a remuneração fixada pelas respectivas categorias.
 
@@ -99,11 +99,11 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § 3.º Os jardins-escolas terão o pessoal assalariado e serventuário havido por necessário.
 
-###### Art. 3.º O governador-geral de Angola poderá mandar prestar serviços nos jardins-escolas criados pelos corpos administrativos e a solicitação destes educadoras de infância e demais pessoal referido nos §§ 1.º e 2.º do artigo anterior que a frequência justifique, abonando-se os vencimentos pelo orçamento geral da província, desde que todas as restantes despesas fiquem a cargo do corpo administrativo.
+Art. 3.º O governador-geral de Angola poderá mandar prestar serviços nos jardins-escolas criados pelos corpos administrativos e a solicitação destes educadoras de infância e demais pessoal referido nos §§ 1.º e 2.º do artigo anterior que a frequência justifique, abonando-se os vencimentos pelo orçamento geral da província, desde que todas as restantes despesas fiquem a cargo do corpo administrativo.
 
 § único. A orientação e fiscalização destes jardins-escolas compete aos serviços de instrução.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Julho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

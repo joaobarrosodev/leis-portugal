@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/130-a/2026/03/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/130-a-2026-1079638827
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-27T00:00:00Z'
+  retrieved_at: '2026-10-22T18:36:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9c77512d0a07f4643b747fdfdd799737e7a3cb6b40f7f597d6641ed91ec5faf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34a95b29e0e09fc0ce87a99378bf4f421883fd68bc322ad45279c61f2893f6e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:36:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vida Selvagem
-- Ordenamento do Território
-- Proteção dos Animais
-- Regulamentação de Atos Legislativos
 - Avaliação de Impacte Ambiental
-- Instituto da Conservação da Natureza e das Florestas
-- Parque Natural de Sintra-Cascais
-- Proteção do Ambiente
+- Cascais
+- Contraordenação
 - Diversidade Biológica
 - Espécie Protegida
-- Cascais
-- Sintra
+- Instituto da Conservação da Natureza e das Florestas
+- Ordenamento do Território
+- Parque Natural de Sintra-Cascais
+- Proteção do Ambiente
+- Proteção dos Animais
 - Rede Natura 2000
+- Regulamentação de Atos Legislativos
+- Sintra
+- Vida Selvagem
 - Zona Especial de Conservação
-- Contraordenação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/140/1999/04/24/p/dre
@@ -105,16 +105,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
+- type: cites
+  target: pt:dre:1066993465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130273578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:36:49Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +147,7 @@ validation:
 
 de 27 de março
 
-O [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, procedeu à designação como Zona Especial de Conservação (ZEC) do Sítio de Importância Comunitária (SIC) Sintra/Cascais (PTCON0008), identificando a respetiva área e coordenadas geográficas, assim como a sua localização e limites geográficos. O referido diploma determinou, ainda, que as medidas e ações complementares de conservação de habitats e espécies são definidas em planos de gestão, a aprovar por portaria nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.<sup>os</sup>[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro.
+O [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, procedeu à designação como Zona Especial de Conservação (ZEC) do Sítio de Importância Comunitária (SIC) Sintra/Cascais (PTCON0008), identificando a respetiva área e coordenadas geográficas, assim como a sua localização e limites geográficos. O referido diploma determinou, ainda, que as medidas e ações complementares de conservação de habitats e espécies são definidas em planos de gestão, a aprovar por portaria nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.os[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro.
 
 Posteriormente, o [Decreto-Lei n.º 71/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2026-1066993465), de 5 de março, completou o processo de classificação da ZEC Sintra/Cascais, ao contemplar no respetivo plano de gestão a identificação dos tipos de habitat naturais e seminaturais e das espécies da flora e fauna selvagens protegidos, constantes dos anexos i e ii da Diretiva Habitats com presença significativa na sua área, e fixar, em função das características específicas do seu território e das exigências ecológicas desses tipos de habitat e espécies, objetivos de conservação direcionados à manutenção ou ao restabelecimento do seu estado de conservação favorável. Com vista à prossecução dos objetivos fixados, o referido decreto-lei definiu, ainda, medidas de conservação de natureza preventiva e regulamentar, necessárias para evitar a deterioração dos tipos de habitat naturais e seminaturais e dos habitats das espécies protegidas e com presença significativa na ZEC, assim como a perturbação significativa dessas espécies, as quais se tipificam em medidas de ordenamento do território e medidas de gestão.
 
@@ -145,7 +169,7 @@ A presente portaria aprova o plano de gestão da Zona Especial de Conservação 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida, em 26 de março de 2026. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 26 de março de 2026. - O Ministro da Agricultura e Mar, José Manuel Fernandes, em 19 de março de 2026.**
+O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida, em 26 de março de 2026. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 26 de março de 2026. - O Ministro da Agricultura e Mar, José Manuel Fernandes, em 19 de março de 2026.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -153,23 +177,24 @@ Plano de Gestão da Zec Sintra/Cascais (PTCON0008)
 
 LOCALIZAÇÃO
 
-A ZEC Sintra/Cascais abrange uma área total aproximada de 16 633 ha. Apresenta uma componente terrestre com 8229 ha, que se localiza nos concelhos de Torres Vedras, Mafra, Sintra e Cascais, conforme se apresenta no quadro 1, e uma componente marinha com 84,04 km<sup>2</sup>, que representa 51 % da área total da ZEC. A sua localização encontra-se representada cartograficamente na figura 1, estando os seus limites disponíveis no geocatálogo da Autoridade Nacional da Conservação da Natureza e Biodiversidade.
+A ZEC Sintra/Cascais abrange uma área total aproximada de 16 633 ha. Apresenta uma componente terrestre com 8229 ha, que se localiza nos concelhos de Torres Vedras, Mafra, Sintra e Cascais, conforme se apresenta no quadro 1, e uma componente marinha com 84,04 km2, que representa 51 % da área total da ZEC. A sua localização encontra-se representada cartograficamente na figura 1, estando os seus limites disponíveis no geocatálogo da Autoridade Nacional da Conservação da Natureza e Biodiversidade.
 
 QUADRO 1
 
 Unidades territoriais abrangidas pela ZEC Sintra/Cascais
 
-| Cascais | 2 652 | 27 % | 32 % |
-| --- | --- | --- | --- |
 | Unidade Territorial (UT) | Área terrestre da ZEC na UT (ha) | Proporção da UT ocupada pela área terrestre da ZEC | Proporção da área terrestre da ZEC na UT |
+| --- | --- | --- | --- |
 | Torres Vedras | 403 | 1 % | 5 % |
 | Mafra | 729 | 3 % | 9 % |
 | Sintra | 4 445 | 14 % | 54 % |
+| Cascais | 2 652 | 27 % | 32 % |
 |  |  |  |  |
 
 (Fonte: CAOP2022)
 
-![](https://files.diariodarepublica.pt/images/1079638827/1079638881.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1079638827/1079638881.png) |
+| --- |
 
 CARACTERIZAÇÃO
 
@@ -219,27 +244,27 @@ Tipos de habitat do anexo i da Diretiva Habitats com presença significativa na 
 
 | Código | Habitat |
 | --- | --- |
-| 1110 | # Bancos de areia permanentemente cobertos por água do mar pouco profunda |
-| 1170 | # Recifes |
+| **1110** | **# Bancos de areia permanentemente cobertos por água do mar pouco profunda** |
+| **1170** | **# Recifes** |
 | 1210 | Vegetação anual das zonas de acumulação de detritos pela maré |
-| 1240 | # Falésias com vegetação das costas mediterrânicas com Limonium spp. endémicas |
+| 1240 | **# Falésias com vegetação das costas mediterrânicas com****Limonium****spp. endémicas** |
 | 2110 | Dunas móveis embrionárias |
 | 2120 | Dunas móveis do cordão litoral com Ammophila arenaria («dunas brancas») |
 | 2130 | Dunas fixas com vegetação herbácea («dunas cinzentas») |
 | 2230 | Dunas com prados da Malcolmietalia |
-| 2250 | # Dunas litorais com Juniperus spp. |
+| 2250 | **# Dunas litorais com****Juniperus****spp.** |
 | 2260 | Dunas com vegetação esclerófila da Cisto-Lavanduletalia |
-| 2270 | # Dunas com florestas de Pinus pinea e ou Pinus pinaster |
+| 2270 | **# Dunas com florestas de****Pinus pinea****e****ou****Pinus pinaster** |
 | 3280 | Cursos de água mediterrânicos permanentes da Paspalo-Agrostidion com cortinas arbóreas ribeirinhas de Salix e Populus alba |
 | 3290 | Cursos de água mediterrânicos intermitentes da Paspalo-Agrostidion |
-| 4030 | # Charnecas secas europeias |
-| 5210 | # Matagais arborescentes de Juniperus spp. |
+| 4030 | **# Charnecas secas europeias** |
+| 5210 | **# Matagais arborescentes de****Juniperus****spp.** |
 | 5230 | Matagais arborescentes de Laurus nobilis |
-| 5330 | # Matos termomediterrânicos pré-desérticos |
+| 5330 | **# Matos termomediterrânicos pré-desérticos** |
 | 6210 | Prados secos seminaturais e fácies arbustivas em substrato calcário (Festuco-Brometalia) (importantes habitats de orquídeas) |
 | 6420 | Pradarias húmidas mediterrânicas de ervas altas da Molinio-Holoschoenion |
 | 8220 | Vertentes rochosas siliciosas com vegetação casmofítica |
-| 8330 | # Grutas marinhas submersas ou semi-submersas |
+| **8330** | **# Grutas marinhas submersas ou semi-submersas** |
 | 9230 | Carvalhais galaico-portugueses de Quercus robur e Quercus pyrenaica |
 | 9240 | Carvalhais Ibéricos de Quercus faginea e Quercus canariensis |
 | 92A0 | Florestas-galerias de Salix alba e Populus alba |
@@ -252,23 +277,23 @@ Espécies do anexo ii da Diretiva Habitats com presença significativa na ZEC
 
 | Código | Grupo | Espécie |
 | --- | --- | --- |
-| 1638 | PL | # Armeria pseudarmeria |
-| 1492 | PL | # Coincya cintrana (sin. Rhynchosinapis pseudoerucastrum subsp. cintrana) |
-| 1447 | PL | # Dianthus cintranus subsp. cintranus |
-| 1462 | PL | # Herniaria maritima |
+| 1638 | PL | **# Armeria pseudarmeria** |
+| 1492 | PL | **# Coincya cintrana****(sin.****Rhynchosinapis pseudoerucastrum****subsp.****cintrana**) |
+| 1447 | PL | **# Dianthus cintranus****subsp.****cintranus** |
+| 1462 | PL | **# Herniaria maritima** |
 | 1503 | PL | Iberis procumbens subsp. microcarpa |
-| 1487 | PL | # Jonopsidium acaule |
-| 1877 | PL | # Juncus valvatus |
-| 1640 | PL | # Limonium multiflorum (inclui Limonium dodartii subsp. lusitanicum) |
-| 1675 | PL | # Omphalodes kuzinskyanae |
-| 1457 | PL | # Silene cintrana (sin. Silene longicilia subsp. cintrana) |
-| 1731 | PL | # Verbascum litigiosum |
-| 1065 | I | # Euphydryas aurinia |
-| 1083 | I | # Lucanus cervus |
-| 6151 | P | # Iberochondrostoma lusitanicum (sin. Chondrostoma lusitanicum) |
+| 1487 | PL | **# Jonopsidium acaule** |
+| 1877 | PL | **#****Juncus valvatus** |
+| 1640 | PL | **# Limonium multiflorum****(inclui****Limonium dodartii****subsp.****lusitanicum**) |
+| 1675 | PL | **# Omphalodes kuzinskyanae** |
+| 1457 | PL | **# Silene cintrana****(sin.****Silene longicilia****subsp.****cintrana**) |
+| 1731 | PL | **# Verbascum litigiosum** |
+| 1065 | I | **# Euphydryas aurinia** |
+| 1083 | I | **# Lucanus cervus** |
+| 6151 | P | **# Iberochondrostoma lusitanicum****(sin.****Chondrostoma lusitanicum**) |
 | 1221 | R | Mauremys leprosa |
-| 1259 | R | # Lacerta schreiberi |
-| 1305 | M | # Rhinolophus euryale |
+| 1259 | R | **# Lacerta schreiberi** |
+| 1305 | M | **# Rhinolophus euryale** |
 
 Grupo: I - Invertebrado; P - Peixe; Pl - Planta; R - Réptil; M - Mamífero.
 
@@ -286,7 +311,7 @@ QUADRO 4
 
 Objetivos de conservação para a gestão da ZEC
 
-| Tipos de habitat e espécies de flora de arribas e afloramentos | Tipos de habitat e espécies de flora de arribas e afloramentos | Tipos de habitat e espécies de flora de arribas e afloramentos |
+| Tipos de habitat e espécies de flora de arribas e afloramentos |  |  |
 | --- | --- | --- |
 | Objetivos de conservação | Indicadores | Metas |
 | 1. Manter o grau de conservação do habitat 1240 - Falésias com vegetação das costas mediterrânicas com Limonium spp. endémicas | • Área de habitat com estrutura bem conservada (ha)e/ou• N.º de espécies indicadoras presentes | • Manter a área de habitat com estrutura bem conservadae/ou• Presença de uma ou mais espécies indicadoras (Limonium multiflorum) |
@@ -298,35 +323,35 @@ Objetivos de conservação para a gestão da ZEC
 | 7. Melhorar o grau de conservação de Limonium multiflorum | • Área de habitat adequado para a espécie• Número de indivíduos | • Aumentar a área de habitat adequado para a espécie• Aumentar o número de indivíduos |
 | 8. Melhorar o grau de conservação de Omphalodes kuzinskyanae | • Área de habitat adequado para a espécie• Número de indivíduos | • Aumentar a área de habitat adequado para a espécie• Aumentar o número de indivíduos |
 | 9. Manter o grau de conservação de Silene cintrana | • Área de habitat adequado para a espécie• Número de indivíduos | • Manter a área de habitat adequado para a espécie |
-| Tipos de habitat e espécies de flora dunares | Tipos de habitat e espécies de flora dunares | Tipos de habitat e espécies de flora dunares |
+| Tipos de habitat e espécies de flora dunares |  |  |
 | Objetivos de conservação | Indicadores | Metas |
 | 1. Manter o grau de conservação do habitat 2250 - Dunas litorais com Juniperus spp. | • Área de habitat com estrutura bem conservada (ha)e/ou• N.º de espécies indicadoras presentes | • Manter a área de habitat com estrutura bem conservadae/ou• Presença de uma ou mais espécies indicadoras (Juniperus turbinata) |
 | 2. Manter o grau de conservação do habitat 2270 - Dunas com florestas de Pinus pinea e ou Pinus pinaster | • Área de habitat com estrutura bem conservada (ha) | • Manter a área de habitat com estrutura bem conservada |
 | 3. Melhorar o grau de conservação de Herniaria maritima | • Área de habitat adequado para a espécie• Número de indivíduos | • Aumentar a área de habitat adequado para a espécie• Aumentar o número de indivíduos |
 | 4. Manter o grau de conservação de Verbascum litigiosum | • Área de habitat adequado para a espécie | • Manter a área de habitat adequado para a espécie |
-| Espécies de flora alvo de depressões e solos arenosos temporariamente húmidos | Espécies de flora alvo de depressões e solos arenosos temporariamente húmidos | Espécies de flora alvo de depressões e solos arenosos temporariamente húmidos |
+| Espécies de flora alvo de depressões e solos arenosos temporariamente húmidos |  |  |
 | Objetivos de conservação | Indicadores | Metas |
 | 1. Manter o grau de conservação de Jonopsium acaule | • Área de habitat adequado para a espécie | • Manter a área de habitat adequado para a espécie |
 | 2.Melhorar o grau de conservação de Juncus valvatus | • Área de habitat adequado para a espécie• Número de indivíduos | • Aumentar a área de habitat adequado para a espécie• Aumentar o número de indivíduos |
-| Matagais | Matagais | Matagais |
+| Matagais |  |  |
 | Objetivos de conservação | Indicadores | Metas |
 | 1. Manter o grau de conservação do habitat 5330 - Matos termo-mediterrânicos pré-desérticos | • Área de habitat com estrutura bem conservada (ha) | • Manter a área de habitat com estrutura bem conservada |
-| Asplenium hemionitis | Asplenium hemionitis | Asplenium hemionitis |
+| Asplenium hemionitis |  |  |
 | Objetivos de conservação | Indicadores | Metas |
 | 1. Melhorar o grau de conservação de Asplenium hemionitis | • Área de habitat adequado para a espécie• Número de indivíduos | • Aumentar a área de habitat adequado para a espécie• Aumentar o número de indivíduos |
-| Espécies de fauna alvo | Espécies de fauna alvo | Espécies de fauna alvo |
+| Espécies de fauna alvo |  |  |
 | Objetivos de conservação | Indicadores | Metas |
 | 1. Melhorar o grau de conservação de Euphydryas aurinia | • Área de habitat adequado para a espécie (ha) | • Aumentar a área de habitat adequado para a espécie |
 | 2. Melhorar o grau de conservação de Lucanus cervus | • Número de indivíduos• Área de habitat adequado para a espécie (ha) | • Aumentar o número de indivíduos• Aumentar a área de habitat adequado para a espécie |
 | 3. Melhorar o grau de conservação de Iberochondrostoma lusitanicum | • Área de habitat adequado para a espécie (ha) | • Aumentar a área de habitat adequado para a espécie |
 | 4. Melhorar o grau de conservação de Lacerta schreiberi | • Número de indivíduos | • Aumentar o número de indivíduos |
 | 5. Manter o grau de conservação de Rhinolophus euryale | • Tendência populacional | • Manter a população estável na época de maternidade e de hibernação |
-| 5. Manter o grau de conservação de Rhinolophus euryale | • Área de habitat de alimentação (ha) | • Manter a área de habitat de alimentação (ha) |
-| 5. Manter o grau de conservação de Rhinolophus euryale | • % de abrigos de importância nacional com condições favoráveis | • Manter 100 % dos abrigos de importância nacional |
-| Tipos de habitat marinhos | Tipos de habitat marinhos | Tipos de habitat marinhos |
+| • Área de habitat de alimentação (ha) | • Manter a área de habitat de alimentação (ha) |  |
+| • % de abrigos de importância nacional com condições favoráveis | • Manter 100 % dos abrigos de importância nacional |  |
+| Tipos de habitat marinhos |  |  |
 | Objetivos de conservação | Indicadores | Metas |
-| 1. Melhorar o grau de conservação do habitat 1110 - Bancos de areia | • Área de bancos de areia com estrutura bem conservada (km<sup>2</sup>) | • Aumentar a área de bancos de areia com estrutura bem conservada |
-| 2. Melhorar o grau de conservação do habitat 1170 - Recifes | • Área de recifes com estrutura bem conservada (km<sup>2</sup>) | • Aumentar a área de recifes com estrutura bem conservada |
+| 1. Melhorar o grau de conservação do habitat 1110 - Bancos de areia | • Área de bancos de areia com estrutura bem conservada (km2) | • Aumentar a área de bancos de areia com estrutura bem conservada |
+| 2. Melhorar o grau de conservação do habitat 1170 - Recifes | • Área de recifes com estrutura bem conservada (km2) | • Aumentar a área de recifes com estrutura bem conservada |
 | 3. Melhorar o grau de conservação do habitat 8330 - Grutas marinhas submersas ou semissubmersas | • Número de grutas com estrutura bem conservada | • Aumentar o número de grutas com estrutura bem conservada |
 
 MEDIDAS DE CONSERVAÇÃO COMPLEMENTARES
@@ -341,50 +366,50 @@ QUADRO 5
 
 Quadro operacional das medidas de conservação complementares
 
-| Medida de conservação complementar | Relevân- cia* | Indicador de realização | Meta | Entidade responsável | Entidades envolvidas | Inicio | Fim |
+| Medida de conservação complementar | Relevân- cia* | Indicador de realização | Meta | Entidade responsável | Entidades envolvidas | Calendarização |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Medida de conservação complementar | Relevân- cia* | Indicador de realização | Meta | Entidade responsável | Entidades envolvidas | Calendarização | Calendarização |
+| Inicio | Fim |  |  |  |  |  |  |
 | MC1. Elaborar e executar um plano de conservação para Asplenium hemionitis L. e seu habitat. | 1 | a) Data de elaboração do plano de conservação | a) Ano 1 após a aprovação do plano de gestão | ICNF | Parques de Sintra e Monte da LuaCascais AmbienteONGAProprietários | Ano 3 | Ano 10 |
-| MC1. Elaborar e executar um plano de conservação para Asplenium hemionitis L. e seu habitat. | 1 | b) Data de atualização do plano de conservação | b) Ano 5 após a aprovação do plano de gestão | ICNF | Parques de Sintra e Monte da LuaCascais AmbienteONGAProprietários | Ano 3 | Ano 10 |
-| MC1. Elaborar e executar um plano de conservação para Asplenium hemionitis L. e seu habitat. | 1 | c) Proporção da área intervencionada | c) 100 % da área de controlo da hera | ICNF | Parques de Sintra e Monte da LuaCascais AmbienteONGAProprietários | Ano 3 | Ano 10 |
+| b) Data de atualização do plano de conservação | b) Ano 5 após a aprovação do plano de gestão |  |  |  |  |  |  |
+| c) Proporção da área intervencionada | c) 100 % da área de controlo da hera |  |  |  |  |  |  |
 | MC2. Reforçar a população de Iberochondrostoma lusitanicum. | 1 | a) Adaptação do Projeto de Conservação ex situ de Organismos Fluviais | a) Ano 1 após a aprovação do plano de gestão | ICNFParceiros do Projeto de Conservação ex situ de Organismos Fluviais | Parques de Sintra e Monte da LuaCascais AmbienteCentros de investigaçãoONGA | Ano 1 | Ano 10 |
-| MC2. Reforçar a população de Iberochondrostoma lusitanicum. | 1 | b) Número de indivíduos utilizados nas ações de repovoamento | b) 500 indivíduos | ICNFParceiros do Projeto de Conservação ex situ de Organismos Fluviais | Parques de Sintra e Monte da LuaCascais AmbienteCentros de investigaçãoONGA | Ano 1 | Ano 10 |
-| MC2. Reforçar a população de Iberochondrostoma lusitanicum. | 1 | c) Número de ações de repovoamento | c) 1 ação/ano | ICNFParceiros do Projeto de Conservação ex situ de Organismos Fluviais | Parques de Sintra e Monte da LuaCascais AmbienteCentros de investigaçãoONGA | Ano 1 | Ano 10 |
-| MC2. Reforçar a população de Iberochondrostoma lusitanicum. | 1 | d) Número de ações de monitorização | d) 1 ação/ano | ICNFParceiros do Projeto de Conservação ex situ de Organismos Fluviais | Parques de Sintra e Monte da LuaCascais AmbienteCentros de investigaçãoONGA | Ano 1 | Ano 10 |
+| b) Número de indivíduos utilizados nas ações de repovoamento | b) 500 indivíduos |  |  |  |  |  |  |
+| c) Número de ações de repovoamento | c) 1 ação/ano |  |  |  |  |  |  |
+| d) Número de ações de monitorização | d) 1 ação/ano |  |  |  |  |  |  |
 | MC3. Manter as condições adequadas em abrigos de morcegos. | 2 | a) Data de elaboração do diagnóstico | a) Ano 1 após a aprovação do plano de gestão | ICNF | Parques de Sintra e Monte da LuaProprietários | Ano 1 | Ano 10 |
-| MC3. Manter as condições adequadas em abrigos de morcegos. | 2 | b) Proporção de intervenções em abrigos após derrocadas | b) 100 % dos abrigos intervencionados após derrocadas (identificadas) | ICNF | Parques de Sintra e Monte da LuaProprietários | Ano 1 | Ano 10 |
-| MC3. Manter as condições adequadas em abrigos de morcegos. | 2 | c) Ações de limpeza da vegetação em abrigos | c) 6 ações por ano | ICNF | Parques de Sintra e Monte da LuaProprietários | Ano 1 | Ano 10 |
-| MC3. Manter as condições adequadas em abrigos de morcegos. | 2 | d) Número de vedações/portas de minas bat friendly instaladas | d) 1 vedação/portas de minas por abrigo identificado | ICNF | Parques de Sintra e Monte da LuaProprietários | Ano 1 | Ano 10 |
+| b) Proporção de intervenções em abrigos após derrocadas | b) 100 % dos abrigos intervencionados após derrocadas (identificadas) |  |  |  |  |  |  |
+| c) Ações de limpeza da vegetação em abrigos | c) 6 ações por ano |  |  |  |  |  |  |
+| d) Número de vedações/portas de minas bat friendly instaladas | d) 1 vedação/portas de minas por abrigo identificado |  |  |  |  |  |  |
 | MC4. Restabelecer os ecossistemas florestais autóctones de quercíneas. | 3 | a) Percentagem de cobertura de exóticas lenhosas | a) Menos de 10 % de cobertura de exóticas lenhosas | ICNFGPP | Parques de Sintra e Monte da LuaCascais AmbienteAutarquias locaisProprietáriosEntidades parceiras do projeto Vacaloura.pt | Ano 1 | Ano 10 |
-| MC4. Restabelecer os ecossistemas florestais autóctones de quercíneas. | 3 | b) Percentagem de árvores abatidas/ha | b) Menos de 10 % de árvores abatidas/ha | ICNFGPP | Parques de Sintra e Monte da LuaCascais AmbienteAutarquias locaisProprietáriosEntidades parceiras do projeto Vacaloura.pt | Ano 1 | Ano 10 |
+| b) Percentagem de árvores abatidas/ha | b) Menos de 10 % de árvores abatidas/ha |  |  |  |  |  |  |
 |  |  | c) Percentagem de árvores velhas removidas (DAP superior a 1m)/ha | c) 0 % de árvores velhas de quercíneas removidas (DAP superior a 1m)/ha (em cada 10 anos) |  |  |  |  |
-|  |  | d) Quantidade de madeira morta retirada por ha | d) 0 toneladas de madeira morta removida/ha |  |  |  |  |
+| d) Quantidade de madeira morta retirada por ha | d) 0 toneladas de madeira morta removida/ha |  |  |  |  |  |  |
 | MC5. Adaptar o planeamento e a operacionalização da gestão integrada dos fogos rurais à salvaguarda dos valores naturais protegidos | 1 | a) Proporção de planos/programas adaptados e incluindo diretrizes de salvaguarda | a) 100 % | ICNFComissões Regionais, Sub-Regionais e Municipais de Gestão Integrada de Fogos Rurais (CMGIFR)Entidades Gestoras de AIGPComunidades Intermunicipais | CCDRAutoridade de Gestão do PEPACProprietáriosOrganizações de produtores florestaisEmpresasCascais AmbienteParques de Sintra Monte da Lua | Ano 1 | Ano 10 |
-| MC5. Adaptar o planeamento e a operacionalização da gestão integrada dos fogos rurais à salvaguarda dos valores naturais protegidos | 1 | b) Proporção de planos de recuperação pós-incêndio com medidas orientadas para o restauro e salvaguarda dos valores naturais protegidos | b) 100 % | ICNFComissões Regionais, Sub-Regionais e Municipais de Gestão Integrada de Fogos Rurais (CMGIFR)Entidades Gestoras de AIGPComunidades Intermunicipais | CCDRAutoridade de Gestão do PEPACProprietáriosOrganizações de produtores florestaisEmpresasCascais AmbienteParques de Sintra Monte da Lua | Ano 1 | Ano 10 |
+| b) Proporção de planos de recuperação pós-incêndio com medidas orientadas para o restauro e salvaguarda dos valores naturais protegidos | b) 100 % |  |  |  |  |  |  |
 | MC6. Restabelecer os ecossistemas florestais de pinhal sobre dunas. | 2 | Proporção de área restaurada | 80 % da área restaurada | ICNFGPP | Autoridade de Gestão do PEPACCCDR/AgriGestores florestais e suas associaçõesProprietáriosCascais AmbienteMunicípios | Ano 1 | Ano 10 |
 | MC7. Beneficiar os ecossistemas ribeirinhos. | 1 | Extensão linear intervencionada | 500m/ano | ICNFAPA | Autoridade de Gestão do PEPACCCDR/AgriMunicípios e suas associaçõesParques de Sintra e Monte da LuaCascais AmbienteProprietáriosAgricultores, gestores florestais e suas organizaçõesCentros de investigaçãoONGA | Ano 1 | Ano 10 |
 | MC8. Disponibilizar depósito gratuito de Resíduos de Construção e Demolição (RCD) em vazadouro municipal. | 3 | a) Depósitos de Resíduos de Construção e Demolição criados | a) 4 depósitos (1 depósito em cada município) | Municípios | Empresas MunicipaisFreguesias | Ano 1 | Ano 10 |
-| MC8. Disponibilizar depósito gratuito de Resíduos de Construção e Demolição (RCD) em vazadouro municipal. | 3 | b) Número de ações de informação e divulgação | b) 4 ações por ano | Municípios | Empresas MunicipaisFreguesias | Ano 1 | Ano 10 |
+| b) Número de ações de informação e divulgação | b) 4 ações por ano |  |  |  |  |  |  |
 | MC9. Ordenar acessibilidades. | 2 | a) Estudos de identificação e caracterização dos acessos às praias elaborados | a) 1 estudo | CCDRMunicípiosICNF | APAAutoridade Marítima NacionalCascais AmbienteCentros de inves- tigaçãoONGA | Ano 1 | Ano 10 |
-| MC9. Ordenar acessibilidades. | 2 | b) Número de acessos indevidos vedados | b) 50 % dos acessos indevidos | CCDRMunicípiosICNF | APAAutoridade Marítima NacionalCascais AmbienteCentros de inves- tigaçãoONGA | Ano 1 | Ano 10 |
-| MC9. Ordenar acessibilidades. | 2 | c) Número de passadiços intervencionados | c) 50 % da rede de passadiços | CCDRMunicípiosICNF | APAAutoridade Marítima NacionalCascais AmbienteCentros de inves- tigaçãoONGA | Ano 1 | Ano 10 |
-| MC9. Ordenar acessibilidades. | 2 | d) Número de painéis | d) 1 painel em cada acesso ao areal e 1 painel por sede de freguesia | CCDRMunicípiosICNF | APAAutoridade Marítima NacionalCascais AmbienteCentros de inves- tigaçãoONGA | Ano 1 | Ano 10 |
+| b) Número de acessos indevidos vedados | b) 50 % dos acessos indevidos |  |  |  |  |  |  |
+| c) Número de passadiços intervencionados | c) 50 % da rede de passadiços |  |  |  |  |  |  |
+| d) Número de painéis | d) 1 painel em cada acesso ao areal e 1 painel por sede de freguesia |  |  |  |  |  |  |
 | MC10. Desencorajar o abandono das artes de pesca em fim de vida e reforçar a fiscalização das atividades de pesca | 2 | a) Data de criação do sistema de registo e de identificação eletrónica de artes e pesca em fim de vida | a) Ano 1 após a aprovação do plano de gestão | ICNFDGRMCapitanias | Administração PortuáriaSociedade Ponto Verde | Ano 1 | Ano 10 |
-| MC10. Desencorajar o abandono das artes de pesca em fim de vida e reforçar a fiscalização das atividades de pesca | 2 | b) Data de criação do programa de incentivo à recolha de resíduos de pesca | b) Ano 3 após a aprovação do plano de gestão | ICNFDGRMCapitanias | Administração PortuáriaSociedade Ponto Verde | Ano 1 | Ano 10 |
-| MC10. Desencorajar o abandono das artes de pesca em fim de vida e reforçar a fiscalização das atividades de pesca | 2 | c) Número de ações de fiscalização | c) 12 ações por ano, correspondendo a uma ação por mês | ICNFDGRMCapitanias | Administração PortuáriaSociedade Ponto Verde | Ano 1 | Ano 10 |
+| b) Data de criação do programa de incentivo à recolha de resíduos de pesca | b) Ano 3 após a aprovação do plano de gestão |  |  |  |  |  |  |
+| c) Número de ações de fiscalização | c) 12 ações por ano, correspondendo a uma ação por mês |  |  |  |  |  |  |
 | MC11. Avaliar a necessidade de criação de zonas para caravanismo/campismo fora das áreas de arribas. | 2 | a) Data de elaboração do estudo/diagnóstico de avaliação | a) Ano 1 após a aprovação do plano de gestão | Municípios | Federação de Campismo e Montanhismo de PortugalICNFAPACCDR | Ano 1 | Ano 10 |
-| MC11. Avaliar a necessidade de criação de zonas para caravanismo/campismo fora das áreas de arribas. | 2 | b) Data da elaboração da proposta de zonamento | b) Ano 2 após a aprovação do plano de gestão | Municípios | Federação de Campismo e Montanhismo de PortugalICNFAPACCDR | Ano 1 | Ano 10 |
+| b) Data da elaboração da proposta de zonamento | b) Ano 2 após a aprovação do plano de gestão |  |  |  |  |  |  |
 | MC12. Ordenar as atividades desportivas e recreativas. | 2 | a) Data de elaboração do levantamento/diagnóstico de avaliação | a) Ano 1 após a aprovação do plano de gestão | ICNF | Parques de Sintra e Monte da LuaCascais AmbienteFederação de Campismo e MontanhismoMunicípios | Ano 1 | Ano 10 |
-| MC12. Ordenar as atividades desportivas e recreativas. | 2 | b) Data da elaboração do Plano de Ordenamento | b) Ano 2 após a aprovação do plano de gestão | ICNF | Parques de Sintra e Monte da LuaCascais AmbienteFederação de Campismo e MontanhismoMunicípios | Ano 1 | Ano 10 |
+| b) Data da elaboração do Plano de Ordenamento | b) Ano 2 após a aprovação do plano de gestão |  |  |  |  |  |  |
 | MC13. Controlar populações de espécies exóticas invasoras. | 1 | a) Estudo de caracterização da situação referência elaborado | a) 1 estudo | ICNF | MunicípiosProjeto InvaderONGAAPAParques de Sintra e Monte da LuaCascais AmbienteCentros de investigaçãoProprietários | Ano 1 | Ano 10 |
-| MC13. Controlar populações de espécies exóticas invasoras. | 1 | b) Proporção das áreas prioritárias intervencionadas | b) 100 % das áreas prioritárias identificadas | ICNF | MunicípiosProjeto InvaderONGAAPAParques de Sintra e Monte da LuaCascais AmbienteCentros de investigaçãoProprietários | Ano 1 | Ano 10 |
-| MC13. Controlar populações de espécies exóticas invasoras. | 1 | c) Proporção das áreas não prioritárias intervencionadas | c) 50 % das áreas não prioritárias com invasoras | ICNF | MunicípiosProjeto InvaderONGAAPAParques de Sintra e Monte da LuaCascais AmbienteCentros de investigaçãoProprietários | Ano 1 | Ano 10 |
-| MC13. Controlar populações de espécies exóticas invasoras. | 1 | d) Proporção da área restaurada | d) 80 % da área ocupada por vegetação exótica | ICNF | MunicípiosProjeto InvaderONGAAPAParques de Sintra e Monte da LuaCascais AmbienteCentros de investigaçãoProprietários | Ano 1 | Ano 10 |
+| b) Proporção das áreas prioritárias intervencionadas | b) 100 % das áreas prioritárias identificadas |  |  |  |  |  |  |
+| c) Proporção das áreas não prioritárias intervencionadas | c) 50 % das áreas não prioritárias com invasoras |  |  |  |  |  |  |
+| d) Proporção da área restaurada | d) 80 % da área ocupada por vegetação exótica |  |  |  |  |  |  |
 | MC14. Reforçar fiscalização de pisoteio indevido em dunas e falésias. | 1 | Número de ações de fiscalização, por ano | 12 ações por ano, correspondendo a 1 ação por mês | ICNFCCDRSEPNA/GNRPolícia Municipal/PSPAutoridade Marítima Nacional | MunicípiosAPA | Ano 1 | Ano 10 |
 | MC15. Sensibilizar a população local e os visitantes para a conservação dos valores naturais da ZEC. | 2 | a) N.º de ações de sensibilização efetuadas | a) 3 ações por ano | ICNF | CCDR/AgriCentros de investigaçãoParques de Sintra e Monte da LuaEntidades parceiras do projeto Vacaloura.ptMunicípiosONGAEscolasAgentes de animação turísticaCooperativas agrícolasAssociações de caçadoresAssociação de Proprietários das Serras de SintraCascais Ambiente | Ano 1 | Ano 10 |
-| MC15. Sensibilizar a população local e os visitantes para a conservação dos valores naturais da ZEC. | 2 | b) N.º de ações de sensibilização nas escolas/ n.º de participantes | b) 12 ação por ano/escola | ICNF | CCDR/AgriCentros de investigaçãoParques de Sintra e Monte da LuaEntidades parceiras do projeto Vacaloura.ptMunicípiosONGAEscolasAgentes de animação turísticaCooperativas agrícolasAssociações de caçadoresAssociação de Proprietários das Serras de SintraCascais Ambiente | Ano 1 | Ano 10 |
+| b) N.º de ações de sensibilização nas escolas/ n.º de participantes | b) 12 ação por ano/escola |  |  |  |  |  |  |
 | MC16. Estabelecer e consolidar os critérios e parâmetros de quantificação e avaliação dos objetivos de conservação, e os recursos necessários para a execução das medidas de conservação | 1 | Quadro de densificação dos objetivos de conservação, indicadores e metas | Quadros aprovados pela(s) entidade(s) responsável(eis) pelo plano de gestão até ao final do 2.º ano após a aprovação do plano de gestão | ICNF | GPPLisboa 2030 | Ano 1 | Ano 2 |
-| MC16. Estabelecer e consolidar os critérios e parâmetros de quantificação e avaliação dos objetivos de conservação, e os recursos necessários para a execução das medidas de conservação | 1 | Quadro de estimativa preliminar dos recursos financeiros, humanos e técnicos para os primeiros cinco anos de execução do plano de gestão | Quadros aprovados pela(s) entidade(s) responsável(eis) pelo plano de gestão até ao final do 2.º ano após a aprovação do plano de gestão | ICNF | GPPLisboa 2030 | Ano 1 | Ano 2 |
+| Quadro de estimativa preliminar dos recursos financeiros, humanos e técnicos para os primeiros cinco anos de execução do plano de gestão |  |  |  |  |  |  |  |
 
 * O campo relevância representa a importância relativa de cada uma das medidas de conservação e encontra-se classificado da seguinte forma: 1 - Muito elevada; 2 - Elevada; 3 - Média.
 
@@ -414,26 +439,26 @@ QUADRO 6
 
 Modelo de matriz de avaliação final da implementação do plano de gestão
 
-| 1. Tipos de habitat e espécies de flora de arribas e afloramentos | 1. Tipos de habitat e espécies de flora de arribas e afloramentos | 1. Tipos de habitat e espécies de flora de arribas e afloramentos | 1. Tipos de habitat e espécies de flora de arribas e afloramentos | 1. Tipos de habitat e espécies de flora de arribas e afloramentos | 1. Tipos de habitat e espécies de flora de arribas e afloramentos | 1. Tipos de habitat e espécies de flora de arribas e afloramentos | 1. Tipos de habitat e espécies de flora de arribas e afloramentos | 1. Tipos de habitat e espécies de flora de arribas e afloramentos |
+| 1. Tipos de habitat e espécies de flora de arribas e afloramentos |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Objetivo de conservação[Indicador de resultado] | Meta | Meta alcançada | Medida de conservação complementar | Indicador de realização | Realização atingida/meta | Grau de execução(não iniciada/em curso / concluída) | Revisão(Manter/Não manter/Altera) | Obs. |
 |  |  |  |  |  |  |  |  |  |
-| 2. Tipos de habitat e espécies de flora dunares | 2. Tipos de habitat e espécies de flora dunares | 2. Tipos de habitat e espécies de flora dunares | 2. Tipos de habitat e espécies de flora dunares | 2. Tipos de habitat e espécies de flora dunares | 2. Tipos de habitat e espécies de flora dunares | 2. Tipos de habitat e espécies de flora dunares | 2. Tipos de habitat e espécies de flora dunares | 2. Tipos de habitat e espécies de flora dunares |
+| 2. Tipos de habitat e espécies de flora dunares |  |  |  |  |  |  |  |  |
 | Objetivo de conservação[Indicador de resultado] | Meta | Meta alcançada | Medida de conservação complementar | Indicador de realização | Realização atingida/meta | Grau de execução(não iniciada/em curso / concluída) | Revisão(Manter/Não manter/Altera) | Obs. |
 |  |  |  |  |  |  |  |  |  |
-| 3. Espécies de flora alvo de depressões e solos arenosos temporariamente húmidos | 3. Espécies de flora alvo de depressões e solos arenosos temporariamente húmidos | 3. Espécies de flora alvo de depressões e solos arenosos temporariamente húmidos | 3. Espécies de flora alvo de depressões e solos arenosos temporariamente húmidos | 3. Espécies de flora alvo de depressões e solos arenosos temporariamente húmidos | 3. Espécies de flora alvo de depressões e solos arenosos temporariamente húmidos | 3. Espécies de flora alvo de depressões e solos arenosos temporariamente húmidos | 3. Espécies de flora alvo de depressões e solos arenosos temporariamente húmidos | 3. Espécies de flora alvo de depressões e solos arenosos temporariamente húmidos |
+| 3. Espécies de flora alvo de depressões e solos arenosos temporariamente húmidos |  |  |  |  |  |  |  |  |
 | Objetivo de conservação[Indicador de resultado] | Meta | Meta alcançada | Medida de conservação complementar | Indicador de realização | Realização atingida/meta | Grau de execução(não iniciada/em curso / concluída) | Revisão(Manter/Não manter/Altera) | Obs. |
 |  |  |  |  |  |  |  |  |  |
-| 4. Matagais | 4. Matagais | 4. Matagais | 4. Matagais | 4. Matagais | 4. Matagais | 4. Matagais | 4. Matagais | 4. Matagais |
+| 4. Matagais |  |  |  |  |  |  |  |  |
 | Objetivo de conservação[Indicador de resultado] | Meta | Meta alcançada | Medida de conservação complementar | Indicador de realização | Realização atingida/meta | Grau de execução(não iniciada/em curso/concluída) | Revisão(Manter/Não manter/Altera) | Obs. |
 |  |  |  |  |  |  |  |  |  |
-| 5. Asplenium hemionitis | 5. Asplenium hemionitis | 5. Asplenium hemionitis | 5. Asplenium hemionitis | 5. Asplenium hemionitis | 5. Asplenium hemionitis | 5. Asplenium hemionitis | 5. Asplenium hemionitis | 5. Asplenium hemionitis |
+| 5. Asplenium hemionitis |  |  |  |  |  |  |  |  |
 | Objetivo de conservação[Indicador de resultado] | Meta | Meta alcançada | Medida de conservação complementar | Indicador de realização | Realização atingida/meta | Grau de execução(não iniciada/em curso/concluída) | Revisão(Manter/Não manter/Altera) | Obs. |
 |  |  |  |  |  |  |  |  |  |
-| 6. Espécies de fauna alvo | 6. Espécies de fauna alvo | 6. Espécies de fauna alvo | 6. Espécies de fauna alvo | 6. Espécies de fauna alvo | 6. Espécies de fauna alvo | 6. Espécies de fauna alvo | 6. Espécies de fauna alvo | 6. Espécies de fauna alvo |
+| 6. Espécies de fauna alvo |  |  |  |  |  |  |  |  |
 | Objetivo de conservação[Indicador de resultado] | Meta | Meta alcançada | Medida de conservação complementar | Indicador de realização | Realização atingida/meta | Grau de execução(não iniciada/em curso/concluída) | Revisão(Manter/Não manter/Altera) | Obs. |
 |  |  |  |  |  |  |  |  |  |
-| 7. Tipos de habitat marinhos | 7. Tipos de habitat marinhos | 7. Tipos de habitat marinhos | 7. Tipos de habitat marinhos | 7. Tipos de habitat marinhos | 7. Tipos de habitat marinhos | 7. Tipos de habitat marinhos | 7. Tipos de habitat marinhos | 7. Tipos de habitat marinhos |
+| 7. Tipos de habitat marinhos |  |  |  |  |  |  |  |  |
 | Objetivo de conservação[Indicador de resultado] | Meta | Meta alcançada | Medida de conservação complementar | Indicador de realização | Realização atingida/meta | Grau de execução(não iniciada/em curso/concluída) | Revisão(Manter/Não manter/Altera) | Obs. |
 |  |  |  |  |  |  |  |  |  |
 
@@ -457,46 +482,72 @@ OM - Orçamento Municipal.
 
 PNA-PNGIFR - Programa Nacional de Ação do Plano Nacional de Gestão Integrada de Fogos Rurais.
 
-![](https://files.diariodarepublica.pt/images/1079638827/1079638882.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1079638827/1079638882.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1079638827/1079638883.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1079638827/1079638883.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1079638827/1079638884.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1079638827/1079638884.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1079638827/1079638885.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1079638827/1079638885.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1079638827/1079638886.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1079638827/1079638886.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1079638827/1079638887.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1079638827/1079638887.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1079638827/1079638888.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1079638827/1079638888.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1079638827/1079638889.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1079638827/1079638889.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1079638827/1079638890.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1079638827/1079638890.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1079638827/1079638891.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1079638827/1079638891.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1079638827/1079638892.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1079638827/1079638892.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1079638827/1079638893.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1079638827/1079638893.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1079638827/1079638894.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1079638827/1079638894.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1079638827/1079638895.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1079638827/1079638895.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1079638827/1079638896.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1079638827/1079638896.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1079638827/1079638897.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1079638827/1079638897.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1079638827/1079638898.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1079638827/1079638898.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1079638827/1079638899.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1079638827/1079638899.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1079638827/1079638900.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1079638827/1079638900.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1079638827/1079638901.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1079638827/1079638901.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1079638827/1079638902.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1079638827/1079638902.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1079638827/1079638903.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1079638827/1079638903.png) |
+| --- |
+
+119948122
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:18px; } .Tbl6 { min-height:15px; } .Tbl7 { min-height:3px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl13 { min-height:28px; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl15 { min-height:26px; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl17 { min-height:17px; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl19 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl21 { min-height:68px; } .Tbl22 { min-height:43px; } .Tbl23 { min-height:33px; } .Tbl24 { min-height:37px; } .Tbl25 { min-height:36px; } .Tbl26 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl27 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl28 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl29 { min-height:27px; } .Tbl30 { min-height:45px; } .Tbl31 { min-height:52px; } .Tbl32 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl33 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl34 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl35 { min-height:64px; } .Tbl36 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl37 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl38 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl39 { min-height:55px; } .Tbl40 { text-align:justify; text-align-last:justify; } .Tbl41 { min-height:128px; } .Tbl42 { min-height:129px; } .Tbl43 { min-height:223px; } .Tbl44 { min-height:48px; } .Tbl45 { min-height:38px; } .Tbl46 { min-height:57px; } .Tbl47 { min-height:67px; } .Tbl48 { min-height:41px; } .Tbl49 { min-height:279px; } .Tbl50 { min-height:47px; } .Tbl51 { min-height:85px; } .Tbl52 { min-height:14px; } .Tbl53 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-top-color:rgb(0,0,0); border-right-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-left-style:solid; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); } .Tbl54 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(191,191,191); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; }

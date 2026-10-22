@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/13/2009/11/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/13-2009-483427
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-06T00:00:00Z'
+  retrieved_at: '2026-10-22T17:52:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79139699d4a2239b8fac3cf2afdd9094f3b768565500320d403d51161b80fe11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84182f60aa7b321b23330d3a344eff2f1b48f23f67566dab681365954a5a27f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:52:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Medidas de Coacção
-- Processo Penal
 - Código de Processo Penal
 - Instrução Criminal
 - Interpretação do Direito
-- Prova
+- Medidas de Coacção
 - Ministério Público
+- Processo Penal
+- Prova
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/320-c/2000/12/15/p/dre
@@ -101,16 +101,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/59/1998/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/59/1998/08/25/p/dre
+- type: cites
+  target: pt:dre:2324906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:787142:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:52:39Z'
   warnings: []
   errors: []
 ---
@@ -351,7 +383,9 @@ c) Vítima de crime, mediante o respectivo consentimento, efectivo ou presumido.
 
 8 - Nos casos previstos no número anterior, os suportes técnicos das conversações ou comunicações e os despachos que fundamentaram as respectivas intercepções são juntos, mediante despacho do juiz, ao processo em que devam ser usados como meio de prova, sendo extraídas, se necessário, cópias para o efeito.
 
-###### Artigo 188.º — Formalidades das operações
+Artigo 188.º
+
+Formalidades das operações
 
 1 - O órgão de polícia criminal que efectuar a intercepção e a gravação a que se refere o artigo anterior lavra o correspondente auto e elabora relatório no qual indica as passagens relevantes para a prova, descreve de modo sucinto o respectivo conteúdo e explica o seu alcance para a descoberta da verdade.
 

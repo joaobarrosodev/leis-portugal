@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43534-1961-561209
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-03-11T00:00:00Z'
+  retrieved_at: '2026-10-22T19:22:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 105dc241bdb3975ddf803ba800a28e5f1c426beb22933268b2d254232b02566c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92e029d45f1a7398a009b112e7dff1617997ccceca311abcaef06c54680c4590
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:22:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:218084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:22:33Z'
   warnings: []
   errors: []
 ---
@@ -89,10 +97,10 @@ Nestas condições, tendo em vista o disposto no artigo 22.º e seu § 1.º do [
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção-Geral dos Serviços Florestais e Aquícolas a celebrar contrato com Olívia da Conceição Rebelo de Castro e Melo e Narciso António Rebelo de Castro e Melo para o arrendamento, por cinco anos, de três parcelas de terreno, com a área aproximada de 40620 m2, situadas na freguesia de Trandeiras, concelho de Braga.
+Artigo 1.º É autorizada a Direcção-Geral dos Serviços Florestais e Aquícolas a celebrar contrato com Olívia da Conceição Rebelo de Castro e Melo e Narciso António Rebelo de Castro e Melo para o arrendamento, por cinco anos, de três parcelas de terreno, com a área aproximada de 40620 m2, situadas na freguesia de Trandeiras, concelho de Braga.
 
-###### Art. 2.º A despesa em cada ano económico com o citado arrendamento não poderá exceder a importância de 26809$20 e constituirá encargo da dotação descrita na despesa extraordinária do orçamento do Ministério da Economia «II Plano de Fomento», na verba consignada a «Repovoamento de terrenos particulares» e descrita no corrente ano sob o capítulo 23.º, artigo 314.º, n.º 2), alínea b).
+Art. 2.º A despesa em cada ano económico com o citado arrendamento não poderá exceder a importância de 26809$20 e constituirá encargo da dotação descrita na despesa extraordinária do orçamento do Ministério da Economia «II Plano de Fomento», na verba consignada a «Repovoamento de terrenos particulares» e descrita no corrente ano sob o capítulo 23.º, artigo 314.º, n.º 2), alínea b).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 11 de Março de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Luís Quartin Graça.

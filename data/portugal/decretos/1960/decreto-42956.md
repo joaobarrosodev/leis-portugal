@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/42956-1960-281577
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-11-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:17:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9114a1cc3c72d0a1d503d8748d7820197c0aef79c32dac90f5ad1acdbafc84ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a0bb8aa01222756937bcf08f25b73f1be3d061028d3ba736aa964e03596193c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:17:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Lugares
+- Macau
+- PSP
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:514185:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:514185:por
+  label: "Alterado o art. 1º pelo DEC.43340.21.11.1960.MU, DG.IS [270] de 21.11.1960\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/43340-1960-514185
+  date: '1960-11-21'
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:17:56Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +105,7 @@ Visto o disposto no n.º I, alínea d), e no n.º IV, alínea a), da base X da L
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O comando do Corpo de Polícia de Segurança Pública da província de Macau será constituído pelos seguintes oficiais do quadro permanente do exército metropolitano, nomeados em comissão civil:
+Artigo 1.º O comando do Corpo de Polícia de Segurança Pública da província de Macau será constituído pelos seguintes oficiais do quadro permanente do exército metropolitano, nomeados em comissão civil:
 
 1 comandante (major ou capitão);
 
@@ -100,9 +113,9 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 os quais, embora enquadrados, para efeitos de categoria civil, nos grupos das letras, respectivamente, E e F dos mapas I e X anexos ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, terão os vencimentos que na província corresponderem às suas patentes.
 
-###### Art. 2.º Os actuais chefes de secção do mesmo Corpo de Polícia passam a ter a designação de comissários, sendo-lhes atribuída a categoria da letra L dos mapas referidos no artigo anterior.
+Art. 2.º Os actuais chefes de secção do mesmo Corpo de Polícia passam a ter a designação de comissários, sendo-lhes atribuída a categoria da letra L dos mapas referidos no artigo anterior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Abril de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/8/2008/08/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/8-2008-455407
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T17:52:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67d114ae332eeb301c57c5266256b397f998dad275df567324597ebffe0c56b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16deb63f62356ef38d14af48241a33a0e7c68feb7859451eaf93af8068c33403
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:52:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Interpretação do Direito
 - Droga
+- Interpretação do Direito
 - Toxicodependente
 relationships:
 - type: cites
@@ -104,16 +104,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/46/1999/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/46/1999/05/26/p/dre
+- type: cites
+  target: pt:dre:257601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656106:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:52:34Z'
   warnings: []
   errors: []
 ---
@@ -290,7 +326,7 @@ Tudo visto, o pleno das secções criminais do Supremo Tribunal de Justiça, reu
 
 (xxxi) «Esta lei não esclarece o que deva entender-se por 'consumo médio individual'; mas continua em vigor o artigo 71.º do [Decreto-Lei n.º 15/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1993-585178), onde se pode ler [n.º 1, alínea c)]: 'os Ministérios da Justiça e da Saúde, ouvido o Conselho Superior de Medicina Legal [hoje, Conselho Nacional de Medicina Legal], determinam, mediante portaria, os limites quantitativos máximos de princípio activo para cada dose média individual diária'». Ora, dispõe a [Portaria n.º 94/96](https://diariodarepublica.pt/dr/detalhe/portaria/94-1996-545980), de 26 de Março, no seu n.º 9.º («Limites»), que «os limites quantitativos máximos para cada dose média individual diária das plantas, substâncias ou preparações constantes das tabelas i a iv anexas ao [Decreto-Lei n.º 15/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1993-585178), de 22 de Janeiro, de consumo mais frequente, são os referidos no mapa anexo à presente portaria, da qual faz parte integrante».
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15000/0523505254.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15000/0523505254.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15000/0523505254.pdf)
 
 (xxxii) Rui Carlos Pereira, «A descriminação do consumo de droga», Liber Discipulorum para Jorge de Figueiredo Dias, Coimbra Editora, 2003.
 

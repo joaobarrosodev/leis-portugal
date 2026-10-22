@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1964/06/13300/07580765.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45754-1964-577153
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:40:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 129a178cbe489bf675883a13be40c9f8b0ee5432c6f8de33d63a871658579355
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a95b39b143ce5fe89dd482510a37073fa4d409ef77df65b17ff1163bb93d22d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:40:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,29 @@ relationships:
   target: pt:dre:506818:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:650764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650765:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:506818:por
+  label: "Revogado pelo DEC LEI.64/76.24.01.1976.MJ, DG.IS [20] de 24.01.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-1976-506818
+  date: '1976-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:40:49Z'
   warnings: []
   errors: []
 ---
@@ -207,9 +220,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 9.º, 11.º, 12.º, 13.º, 14.º, 18.º, 20.º, 22.º, 23.º, 24.º, 30.º, 31.º, 32.º, 38.º, 42.º, 43.º, 48.º, 52.º, 54.º, 56.º, 57.º, 65.º, 66.º e 69.º do [Decreto n.º 41078](https://diariodarepublica.pt/dr/detalhe/decreto/41078-1957-650765), de 19 de Abril de 1957, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 9.º, 11.º, 12.º, 13.º, 14.º, 18.º, 20.º, 22.º, 23.º, 24.º, 30.º, 31.º, 32.º, 38.º, 42.º, 43.º, 48.º, 52.º, 54.º, 56.º, 57.º, 65.º, 66.º e 69.º do [Decreto n.º 41078](https://diariodarepublica.pt/dr/detalhe/decreto/41078-1957-650765), de 19 de Abril de 1957, passam a ter a seguinte redacção:
 
-###### Art. 9.º O pedido de bilhete de identidade deve ser acompanhado de duas fotografias, um verbete onomástico e uma certidão de nascimento do interessado.
+Art. 9.º O pedido de bilhete de identidade deve ser acompanhado de duas fotografias, um verbete onomástico e uma certidão de nascimento do interessado.
 
 § 1.º Uma das fotografias será colada no impresso do pedido e deve ser rubricada pelas testemunhas por forma que não atinja o rosto do interessado.
 
@@ -231,17 +244,17 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 11.º O pedido de renovação do bilhete de identidade, pela repartição detentora do respectivo processo individual, dispensa a apresentação da certidão de nascimento e do verbete onomástico, desde que os elementos de identificação que constem do bilhete anterior, referentes ao nome, estado civil, data e local do nascimento, correspondam aos actuais.
+Art. 11.º O pedido de renovação do bilhete de identidade, pela repartição detentora do respectivo processo individual, dispensa a apresentação da certidão de nascimento e do verbete onomástico, desde que os elementos de identificação que constem do bilhete anterior, referentes ao nome, estado civil, data e local do nascimento, correspondam aos actuais.
 
 § único. O disposto neste artigo não é aplicável no caso de o bilhete de identidade a renovar ter sido emitido sem prova documental do estado civil declarado, salvo se este for confirmado pela forma prevista no § 3.º do artigo 8.º
 
-###### Art. 12.º O pedido de passagem de segunda via do bilhete de identidade, com os elementos constantes do anterior, necessita apenas de ser acompanhado das fotografias do interessado.
+Art. 12.º O pedido de passagem de segunda via do bilhete de identidade, com os elementos constantes do anterior, necessita apenas de ser acompanhado das fotografias do interessado.
 
-###### Art. 13.º O impresso de pedido de bilhete de identidade e o verbete onomástico devem ser apresentados, pelo próprio interessado, devidamente preenchido com letra bem legível e, de preferência, à máquina.
+Art. 13.º O impresso de pedido de bilhete de identidade e o verbete onomástico devem ser apresentados, pelo próprio interessado, devidamente preenchido com letra bem legível e, de preferência, à máquina.
 
 § único. ...
 
-###### Art. 14.º Ao serviço de recepção dos pedidos de bilhete de identidade compete:
+Art. 14.º Ao serviço de recepção dos pedidos de bilhete de identidade compete:
 
 a) Verificar se o impresso do pedido, documentos e fotografias entregues obedecem aos requisitos legais e, no caso afirmativo, juntar-lhes um impresso para bilhete de identidade;
 
@@ -263,7 +276,7 @@ Se o interessado não souber assinar, será essa circunstância mencionada no me
 
 ...
 
-###### Art. 18.º Os modelos de impresso de bilhete de identidade, certidão especial de nascimento e verbete onomástico, bem como os destinados aos respectivos pedidos, constituem exclusivo da Direcção dos Serviços de Identificação.
+Art. 18.º Os modelos de impresso de bilhete de identidade, certidão especial de nascimento e verbete onomástico, bem como os destinados aos respectivos pedidos, constituem exclusivo da Direcção dos Serviços de Identificação.
 
 § 1.º O fornecimento dos impressos a que se refere este artigo, e bem assim os invólucros dos bilhetes de identidade, fica a cargo do Cofre dos Conservadores, Notários e Funcionários de Justiça; o preço de venda, que constitui receita do Cofre, será fixado por despacho do Ministro da Justiça.
 
@@ -279,7 +292,7 @@ Se o interessado não souber assinar, será essa circunstância mencionada no me
 
 ...
 
-###### Art. 20.º Compete ao serviço ou à conservatória intermediária dar cumprimento ao disposto no artigo 14.º, relativamente aos bilhetes de identidade requisitados por seu intermédio, e remeter as taxas cobradas aos serviços competentes para a execução do pedido.
+Art. 20.º Compete ao serviço ou à conservatória intermediária dar cumprimento ao disposto no artigo 14.º, relativamente aos bilhetes de identidade requisitados por seu intermédio, e remeter as taxas cobradas aos serviços competentes para a execução do pedido.
 
 § 1.º As repartições intermediárias depositarão na Caixa Geral de Depósitos, Crédito e Previdência, à ordem do director dos Serviços de Identificação ou do subdirector da respectiva subsecção, as taxas correspondentes aos serviços nelas requisitados, à medida que efectuarem a sua cobrança.
 
@@ -291,7 +304,7 @@ Se o interessado não souber assinar, será essa circunstância mencionada no me
 
 ...
 
-###### Art. 22.º No caso de alteração de qualquer dos elementos de identificação inscritos no bilhete de identidade, o pedido do correspondente averbamento será executado mediante o preenchimento de novo impresso de bilhete de identidade, em que se reproduzirão os elementos constantes do anterior, com a rectificação resultante da alteração requerida.
+Art. 22.º No caso de alteração de qualquer dos elementos de identificação inscritos no bilhete de identidade, o pedido do correspondente averbamento será executado mediante o preenchimento de novo impresso de bilhete de identidade, em que se reproduzirão os elementos constantes do anterior, com a rectificação resultante da alteração requerida.
 
 § 1.º O pedido de averbamento deve ser formulado em impresso modelo n.º 8, acompanhado do bilhete anteriormente emitido, do documento comprovativo da alteração verificada, quando este for necessário, e de uma fotografia do interessado.
 
@@ -299,15 +312,15 @@ Se o interessado não souber assinar, será essa circunstância mencionada no me
 
 § 3.º Os bilhetes de identidade remetidos oficiosamente, nos termos previstos nos artigos 11.º e seguintes do [Decreto-Lei n.º 41077](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41077-1957-650764), de 19 de Abril de 1957, aguardam na repartição de identificação competente que o interessado requeira o averbamento devido.
 
-###### Art. 23.º Os conservadores do registo civil, quando praticarem actos que obriguem à apresentação do bilhete de identidade e envolvam alteração de qualquer dos elementos nele inscritos, devem promover que o interessado requeira o correspondente averbamento.
+Art. 23.º Os conservadores do registo civil, quando praticarem actos que obriguem à apresentação do bilhete de identidade e envolvam alteração de qualquer dos elementos nele inscritos, devem promover que o interessado requeira o correspondente averbamento.
 
-###### Art. 24.º É extensivo aos pedidos de averbamento, na parte aplicável, o disposto nos artigos 8.º, 9.º, 13.º, 19.º e 20.º, sendo, porém, do modelo n.º 9 as listas nominais de remessa.
+Art. 24.º É extensivo aos pedidos de averbamento, na parte aplicável, o disposto nos artigos 8.º, 9.º, 13.º, 19.º e 20.º, sendo, porém, do modelo n.º 9 as listas nominais de remessa.
 
 § único. O prazo de validade dos bilhetes de identidade rectificados pelo averbamento contar-se-á da data da sua emissão inicial.
 
 ...
 
-###### Art. 30.º Nos bilhetes de identidade são anotados os seguintes elementos de identificação do respectivo titular
+Art. 30.º Nos bilhetes de identidade são anotados os seguintes elementos de identificação do respectivo titular
 
 a) Nome;
 
@@ -327,7 +340,7 @@ f) Sinalética antropométrica.
 
 § 3.º Se o interessado for estrangeiro, mencionar-se-á a respectiva nacionalidade.
 
-###### Art. 31.º No preenchimento do bilhete de identidade observar-se-ão as regras seguintes:
+Art. 31.º No preenchimento do bilhete de identidade observar-se-ão as regras seguintes:
 
 a) O nome a inscrever é o que se mostra fixado, de conformidade com a lei do registo civil, em face da certidão de nascimento;
 
@@ -345,7 +358,7 @@ f) A residência a inscrever é a declarada pelo interessado no impresso do pedi
 
 g) A qualidade de funcionário público será anotada mediante a simples designação da categoria correspondente às respectivas funções e, sendo necessário, dos serviços a que pertence.
 
-###### Art. 32.º ...
+Art. 32.º ...
 
 1.º ...
 
@@ -367,21 +380,21 @@ g) A qualidade de funcionário público será anotada mediante a simples designa
 
 ...
 
-###### Art. 38.º Sempre que seja efectuada qualquer detenção por ordem das autoridades, a entidade que a realizar deve remeter ao Arquivo Geral, no prazo máximo de 48 horas, findas as diligências, um boletim de identificação do detido, devidamente preenchido com os requisitos indicados no artigo 36.º
+Art. 38.º Sempre que seja efectuada qualquer detenção por ordem das autoridades, a entidade que a realizar deve remeter ao Arquivo Geral, no prazo máximo de 48 horas, findas as diligências, um boletim de identificação do detido, devidamente preenchido com os requisitos indicados no artigo 36.º
 
 § único. Em Lisboa e Porto a identificação dos detidos, quando não realizada pelo organismo policial que determinou a detenção, pode ser feita, respectivamente, no Arquivo Geral e no Posto do Registo Criminal e Policial. Neste caso, o detido deve ser acompanhado do cadastro da ocorrência, do qual conste a data e o motivo da prisão.
 
 ...
 
-###### Art. 42.º O disposto nos artigos antecedentes é extensivo, na parte aplicável e com as necessárias adaptações, às pessoas colectivas acusadas em qualquer processo criminal e às respectivas decisões condenatórias.
+Art. 42.º O disposto nos artigos antecedentes é extensivo, na parte aplicável e com as necessárias adaptações, às pessoas colectivas acusadas em qualquer processo criminal e às respectivas decisões condenatórias.
 
-###### Art. 43.º Os magistrados do Ministério Público, as autoridades policiais e os institutos de medicina legal podem requisitar aos serviços de identificação, mediante boletim dactiloscópico, a identidade dos cadáveres de indivíduos desconhecidos e ainda a de todos os indivíduos cuja identidade seja desconhecida e se encontrem, por virtude de acidente, privados do uso da fala ou da razão.
+Art. 43.º Os magistrados do Ministério Público, as autoridades policiais e os institutos de medicina legal podem requisitar aos serviços de identificação, mediante boletim dactiloscópico, a identidade dos cadáveres de indivíduos desconhecidos e ainda a de todos os indivíduos cuja identidade seja desconhecida e se encontrem, por virtude de acidente, privados do uso da fala ou da razão.
 
 § único. Às entidades que podem requisitar certificados de registo criminal e à Conservatória dos Registos Centrais podem também ser prestadas informações sobre a identidade civil ou criminal de quaisquer indivíduos.
 
 ...
 
-###### Art. 48.º ...
+Art. 48.º ...
 
 § 1.º As requisições e os requerimentos destinados a obter certificados do registo criminal ou policial, que devam ser passados pelo Arquivo Geral, são formulados em impressos dos modelos superiormente aprovados, nos quais devem ser apostos e inutilizados os selos devidos.
 
@@ -395,7 +408,7 @@ g) A qualidade de funcionário público será anotada mediante a simples designa
 
 ...
 
-###### Art. 52.º Os certificados do registo criminal destinados a investigação policial ou a instrução de processos criminais, de execução de penas ou individuais de reclusos podem ser requisitados directamente ao Arquivo Geral pelas seguintes entidades:
+Art. 52.º Os certificados do registo criminal destinados a investigação policial ou a instrução de processos criminais, de execução de penas ou individuais de reclusos podem ser requisitados directamente ao Arquivo Geral pelas seguintes entidades:
 
 a) Magistrados judiciais e do Ministério Público;
 
@@ -415,17 +428,17 @@ d) Director-geral dos Serviços Prisionais e directores dos estabelecimentos pri
 
 ...
 
-###### Art. 54.º Os magistrados e as demais entidades a que se refere o artigo 52.º podem, no caso de urgência, requisitar os certificados por via telegráfica, mas a requisição deve ser confirmada, no prazo de 48 horas, mediante a remessa do respectivo impresso devidamente preenchido.
+Art. 54.º Os magistrados e as demais entidades a que se refere o artigo 52.º podem, no caso de urgência, requisitar os certificados por via telegráfica, mas a requisição deve ser confirmada, no prazo de 48 horas, mediante a remessa do respectivo impresso devidamente preenchido.
 
 ...
 
-###### Art. 56.º O certificado do registo policial só poderá ser passado a requisição das autoridades judiciais, policiais e militares e para os fins previstos no artigo 52.º
+Art. 56.º O certificado do registo policial só poderá ser passado a requisição das autoridades judiciais, policiais e militares e para os fins previstos no artigo 52.º
 
 § 1.º A requisição dos certificados do registo policial, por parte do tribunal ou do Ministério Público, para fim de junção aos processos judiciais, não é obrigatória e só deverá ser feita quando por aquelas entidades for considerada conveniente à instrução do respectivo processo.
 
 § 2.º É aplicável à requisição dos certificados do registo policial o disposto nos §§ 2.º e 3.º do artigo 52.º
 
-###### Art. 57.º ...
+Art. 57.º ...
 
 § 1.º ...
 
@@ -437,7 +450,7 @@ d) Director-geral dos Serviços Prisionais e directores dos estabelecimentos pri
 
 ...
 
-###### Art. 65.º O Arquivo Geral organizará, em secção própria, o registo especial de menores, constituído pelos extractos das decisões dos tribunais tutelares que apliquem ou alterem algumas das seguintes medidas;
+Art. 65.º O Arquivo Geral organizará, em secção própria, o registo especial de menores, constituído pelos extractos das decisões dos tribunais tutelares que apliquem ou alterem algumas das seguintes medidas;
 
 a) Internamento em instituto médico-psicológico ou de reeducação;
 
@@ -445,29 +458,29 @@ b) Internamento em prisão-escola ou estabelecimento equivalente.
 
 § único. A responsabilidade pela anotação e remessa dos boletins do registo especial de menores cabe ao chefe da secretaria do tribunal que tiver proferido a decisão, nos termos do disposto nos artigos 36.º e 37.º
 
-###### Art. 66.º O registo especial de menores é secreto e dele só poderão ser passados certificados quando requisitados pela Direcção-Geral dos Serviços Tutelares de Menores, pelos tribunais tutelares de menores ou de execução das penas, para instruir processos neles pendentes, e ainda pelos tribunais comuns se aquele a quem o certificado respeite tiver cometido, depois dos dezasseis anos de idade, crime a que corresponda pena maior ou vier a ser declarado delinquente de difícil correcção.
+Art. 66.º O registo especial de menores é secreto e dele só poderão ser passados certificados quando requisitados pela Direcção-Geral dos Serviços Tutelares de Menores, pelos tribunais tutelares de menores ou de execução das penas, para instruir processos neles pendentes, e ainda pelos tribunais comuns se aquele a quem o certificado respeite tiver cometido, depois dos dezasseis anos de idade, crime a que corresponda pena maior ou vier a ser declarado delinquente de difícil correcção.
 
 § único. ...
 
 ...
 
-###### Art. 69.º Os serviços com taxa de urgência serão executados com preferência sobre os normais e dentro dos dois dias imediatos ao da recepção do requerimento, desde que o respectivo pedido se mostre devidamente documentado.
+Art. 69.º Os serviços com taxa de urgência serão executados com preferência sobre os normais e dentro dos dois dias imediatos ao da recepção do requerimento, desde que o respectivo pedido se mostre devidamente documentado.
 
 § único. O prazo previsto neste artigo será de seis dias, se o serviço requisitado não for da competência da secção central.
 
-###### Art. 2.º As actuais secretarias privativas da secção central do Arquivo de Identificação e da secção do Arquivo Geral de Registo Criminal e Policial são fundidas e organizadas numa secretaria comum às duas secções, à qual competirão o serviço de expediente geral, estatística e contabilidade, e os serviços relacionados com o movimento do pessoal, disciplina, cadastro e registo biográfico dos funcionários.
+Art. 2.º As actuais secretarias privativas da secção central do Arquivo de Identificação e da secção do Arquivo Geral de Registo Criminal e Policial são fundidas e organizadas numa secretaria comum às duas secções, à qual competirão o serviço de expediente geral, estatística e contabilidade, e os serviços relacionados com o movimento do pessoal, disciplina, cadastro e registo biográfico dos funcionários.
 
-###### Art. 3.º Os impressos de bilhete de identidade e dos respectivos pedidos devem obedecer aos modelos anexos a este diploma.
+Art. 3.º Os impressos de bilhete de identidade e dos respectivos pedidos devem obedecer aos modelos anexos a este diploma.
 
 § 1.º Os impressos actualmente em uso podem ser utilizados, com as necessárias adaptações, até seis meses após a entrada em vigor do presente diploma, podendo este prazo ser prorrogado por despacho do Ministro da Justiça.
 
 § 2.º Nas províncias ultramarinas, a data do início da obrigatoriedade dos novos modelos será determinada por simples portaria do Ministério do Ultramar.
 
-###### Art. 4.º Os averbamentos em bilhetes de identidade dos modelos actualmente em uso podem ser requisitados e efectuados nos termos da legislação anterior.
+Art. 4.º Os averbamentos em bilhetes de identidade dos modelos actualmente em uso podem ser requisitados e efectuados nos termos da legislação anterior.
 
-###### Art. 5.º O presente diploma entra em vigor quinze dias após a data da sua publicação.
+Art. 5.º O presente diploma entra em vigor quinze dias após a data da sua publicação.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Junho de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - João de Matos Antunes Varela - António Augusto Peixoto Correia.
 
@@ -475,10 +488,10 @@ Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - Pe
 
 Do Modelo n.º 1 ao Modelo n.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/06/13300/07580765.pdf))](https://files.diariodarepublica.pt/1s/1964/06/13300/07580765.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/06/13300/07580765.pdf)
 
 Modelo n.º 8
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/06/13300/07580765.pdf))](https://files.diariodarepublica.pt/1s/1964/06/13300/07580765.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/06/13300/07580765.pdf)
 
 Ministérios da Justiça e do Ultramar, 5 de Junho de 1964. - O Ministro da Justiça, João de Matos Antunes Varela. - O Ministro do Ultramar, António Augusto Peixoto Correia.

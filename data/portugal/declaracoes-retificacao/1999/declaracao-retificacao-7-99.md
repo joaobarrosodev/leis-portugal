@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/7/1999/02/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-1999-172105
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-02-16T00:00:00Z'
+  retrieved_at: '2026-10-22T18:54:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86796f21746aab6d459e0eea81edd0e0350b62903b476965ca46e82094501e55
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8147303aefb0a9e2e09af7423950ac53cffce70c09bf4d63a65944a6a5602f22
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:54:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,59 +68,67 @@ reuse:
 subjects:
 - Administrador
 - Advogado
-- Jurisdição
-- Ordem dos Advogados
-- Círculo Judicial
-- Procurador Geral da República
 - Câmara dos Solicitadores
+- Círculo Judicial
 - Competência Jurisdicional
 - Conselho Superior da Magistratura
 - Conselho Superior do Ministério Público
 - Criação de Serviços
 - Férias Judiciais
-- Tribunal do Trabalho
-- Tribunal Constitucional
-- Tribunal de Comarca
 - Julgamento
+- Jurisdição
 - Magistrado do Ministério Público
-- Presidente
-- Supremo Tribunal de Justiça
-- Procurador Geral Adjunto
 - Ministério Público
-- Remuneração
+- Ordem dos Advogados
 - Organização Judiciária
+- Presidente
+- Procurador Geral Adjunto
+- Procurador Geral da República
+- Procuradoria Geral da República
+- Remuneração
 - Secretaria Judicial
 - Solicitador
+- Supremo Tribunal de Justiça
+- Tribunal
 - Tribunal Colectivo
+- Tribunal Constitucional
 - Tribunal da Relação
 - Tribunal de Círculo
+- Tribunal de Comarca
 - Tribunal de Comércio
 - Tribunal de Execução das Penas
 - Tribunal de Família
 - Tribunal de Instrução Criminal
 - Tribunal de Menores
+- Tribunal do Trabalho
 - Tribunal Judicial
 - Tribunal Marítimo
-- Tribunal
 - Tribunal Singular
 - VARA Criminal
 - Vice-presidente
-- Procuradoria Geral da República
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/3/1999/01/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/1999/01/13/p/dre
+- type: cites
+  target: pt:dre:196220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305439:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:54:46Z'
   warnings: []
   errors: []
 ---

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/30/2026/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/30-2026-1055043918
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-20T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0666729ec29f27d489c7caa75aabebb5dd1bde87aa68fd7b532b3a09cc2d8e11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e99926171302c0d3cee383cc1d7d23e0943ab8b0c242f95519f81abcbd32084
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Aeroporto Luís de Camões
+- Medidas Preventivas
 - Ordenamento do Território
 - Regulamentação de Atos Legislativos
-- Medidas Preventivas
-- Aeroporto Luís de Camões
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/151-b/2013/10/31/p/dre
@@ -108,16 +108,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/66/2024/05/27/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/66/2024/05/27/p/dre
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:867194462:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:53Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +192,7 @@ Ao abrigo do disposto no n.º 2 do artigo 52.º da Lei de Bases Gerais da Polít
 
 Presidência do Conselho de Ministros, 9 de janeiro de 2026. - O Primeiro-Ministro, Luís Montenegro.
 
-## Anexo I à resolução do Conselho de Ministros - Medidas preventivas
+Anexo I à resolução do Conselho de Ministros - Medidas preventivas
 
 ###### Artigo 1.º — Âmbito territorial
 
@@ -270,11 +314,13 @@ a) Realizar, no prazo de 15 dias úteis contados da data da entrada em vigor da 
 
 b) Remeter os processos correspondentes às operações urbanísticas identificadas no âmbito da análise preliminar referida na alínea anterior à ANAC, que deve auscultar previamente a ANA e confirmar, junto dos municípios referidos, no prazo de 45 dias úteis contados da receção dos processos, se as operações urbanísticas referidas colocam em causa a construção e operação do Aeroporto Luís de Camões, nos termos previstos no número anterior.
 
-## Anexo I às medidas preventivas - Área de aplicação das medidas preventivas
+Anexo I às medidas preventivas - Área de aplicação das medidas preventivas
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114381.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114381.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114382.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114382.png) |
+| --- |
 
 85392 - [https://ssaigt.dgterritorio.pt/i/PSusp_85392_NAL_Planta_MedidasPreventivas.jpg](https://ssaigt.dgterritorio.pt/i/PSusp_85392_NAL_Planta_MedidasPreventivas.jpg)
 
@@ -283,18 +329,19 @@ As medidas preventivas abrangem os seguintes sete municípios (Alcochete, Benave
 | NUTS II | NUTS III | Código da divisão administrativa (DTCC) | Município | Área de intervenção CCDR |
 | --- | --- | --- | --- | --- |
 | Oeste e Vale do Tejo | Lezíria do Tejo | 1405 | Benavente | CCDR Lisboa e Vale do Tejo |
-| Oeste e Vale do Tejo | Lezíria do Tejo | 1409 | Coruche | CCDR Lisboa e Vale do Tejo |
-| Península de Setúbal | Península de Setúbal | 1502 | Alcochete | CCDR Lisboa e Vale do Tejo |
-| Península de Setúbal | Península de Setúbal | 1507 | Montijo | CCDR Lisboa e Vale do Tejo |
-| Península de Setúbal | Península de Setúbal | 1508 | Palmela | CCDR Lisboa e Vale do Tejo |
+| 1409 | Coruche |  |  |  |
+| Península de Setúbal | Península de Setúbal | 1502 | Alcochete |  |
+| 1507 | Montijo |  |  |  |
+| 1508 | Palmela |  |  |  |
 | Alentejo | Alentejo Central | 0706 | Montemor-o-Novo | CCDR Alentejo |
-| Alentejo | Alentejo Central | 0712 | Vendas Novas | CCDR Alentejo |
+| 0712 | Vendas Novas |  |  |  |
 
-## Anexo II às medidas preventivas - Quadro de delimitação de zonas (coordenadas)
+Anexo II às medidas preventivas - Quadro de delimitação de zonas (coordenadas)
 
 Identificação - Zona 1 - Aplicação do plano diretor (infraestruturas operacionais).
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114383.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114383.png) |
+| --- |
 
 Limites laterais - Área limitada pelas linhas que unem sucessivamente os seguintes pontos:
 
@@ -325,7 +372,8 @@ Condicionante - Zona reservada à construção das infraestruturas operacionais 
 
 Identificação - Zona 3 - Área de proteção com vista a assegurar o estabelecimento da superfície horizontal interior do futuro aeroporto (superfície operacional determinada pelo anexo 14 à Convenção sobre Transporte Internacional Civil - ICAO).
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114384.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114384.png) |
+| --- |
 
 Limites laterais - Área confinante com as zonas 1, 5K, 5L, 5M, 5X, 5Y, 5Z e com a zona 4, limitada pela linha definida pelos pontos:
 
@@ -392,7 +440,8 @@ A cota máxima do elemento mais elevado de qualquer construção não pode ultra
 
 Identificação - Zona 4 - Área de proteção com vista a assegurar o estabelecimento da superfície cónica do futuro aeroporto (superfície operacional determinada pelo anexo 14 à Convenção sobre Transporte Internacional Civil - ICAO).
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114385.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114385.png) |
+| --- |
 
 Limites laterais - Área confinante com a zona 3 e com as zonas 6-A, 5C, 5D, 5E, 5F, 5G, 5H, 5I, 5J, 6B, 5P, 5Q, 5R, 5S, 5T, 5U, 5V e 5W, limitada pelas linhas que unem sucessivamente os seguintes pontos:
 
@@ -471,7 +520,8 @@ Zona 4 - Tabela de coordenadas
 
 Identificação - Zona 5A - Área de proteção com vista a assegurar o estabelecimento da superfície de proteção às ajudas rádio de aproximação de precisão do futuro aeroporto (superfície operacional determinada pelo anexo 10 à Convenção sobre Transporte Internacional Civil - ICAO).
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114386.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114386.png) |
+| --- |
 
 Limites laterais - Superfície confinante com as zonas 6A, 5B, 5G, 5F, 5E, 5D e 5C.
 
@@ -498,7 +548,8 @@ Condicionante - Superfície à cota de 193 m.
 
 Identificação - Zona 5B - Área de proteção com vista a assegurar o estabelecimento da superfície de proteção às ajudas rádio de aproximação de precisão do futuro aeroporto (superfície operacional determinada pelo anexo 10 à Convenção sobre Transporte Internacional Civil - ICAO).
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114387.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114387.png) |
+| --- |
 
 Limites laterais - Superfície confinante com as zonas 5A, 5A, 5G, 5H, 5I, 5J e 6B.
 
@@ -522,7 +573,8 @@ Condicionante - Superfície à cota de 200 m.
 
 Identificação - Zona 5C - Área de proteção com vista a assegurar o estabelecimento da superfície de proteção às ajudas rádio de aproximação de precisão do futuro aeroporto (superfície operacional determinada pelo anexo 10 à Convenção sobre Transporte Internacional Civil - ICAO).
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114388.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114388.png) |
+| --- |
 
 Limites laterais - Superfície confinante com as zonas 5A, 5D, 4, e 6A.
 
@@ -542,7 +594,8 @@ Condicionante - Cota progressivamente crescente a 2 % desde a intersecção com 
 
 Identificação - Zona 5D - Área de proteção com vista a assegurar o estabelecimento da superfície de proteção às ajudas rádio de aproximação de precisão do futuro aeroporto (superfície operacional determinada pelo anexo 10 à Convenção sobre Transporte Internacional Civil - ICAO).
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114389.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114389.png) |
+| --- |
 
 Limites laterais - Superfície confinante com as zonas 5A, 5C, 5E e 4.
 
@@ -563,7 +616,8 @@ Condicionante - Cota progressivamente crescente a 2 % desde a intersecção com 
 
 Identificação - Zona 5E - Área de proteção com vista a assegurar o estabelecimento da superfície de proteção às ajudas rádio de aproximação de precisão do futuro aeroporto (superfície operacional determinada pelo anexo 10 à Convenção sobre Transporte Internacional Civil - ICAO).
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114390.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114390.png) |
+| --- |
 
 Limites laterais - Superfície confinante com as zonas 5A, 5D, 5F, e 4.
 
@@ -582,7 +636,8 @@ Condicionante - Cota progressivamente crescente a 2 % desde a intersecção com 
 
 Identificação - Zona 5F - Área de proteção com vista a assegurar o estabelecimento da superfície de proteção às ajudas rádio de aproximação de precisão do futuro aeroporto (superfície operacional determinada pelo anexo 10 à Convenção sobre Transporte Internacional Civil - ICAO).
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114391.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114391.png) |
+| --- |
 
 Limites laterais - Superfície confinante com as zonas 5A, 5E, 5G e 4.
 
@@ -602,7 +657,8 @@ Condicionante - Cota progressivamente crescente a 2 % desde a intersecção com 
 
 Identificação - Zona 5G - Área de proteção com vista a assegurar o estabelecimento da superfície de proteção às ajudas rádio de aproximação de precisão do futuro aeroporto (superfície operacional determinada pelo anexo 10 à Convenção sobre Transporte Internacional Civil - ICAO).
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114392.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114392.png) |
+| --- |
 
 Limites laterais - Superfície confinante com as zonas 5A, 5F, 5B e 4.
 
@@ -621,7 +677,8 @@ Condicionante - Cota progressivamente crescente a 2 % desde a intersecção com 
 
 Identificação - Zona 5H - Área de proteção com vista a assegurar o estabelecimento da superfície de proteção às ajudas rádio de aproximação de precisão do futuro aeroporto (superfície operacional determinada pelo anexo 10 à Convenção sobre Transporte Internacional Civil - ICAO).
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114393.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114393.png) |
+| --- |
 
 Limites laterais - Superfície confinante com as zonas 5B, 5H, 5J e 4.
 
@@ -640,7 +697,8 @@ Condicionante - Cota progressivamente crescente a 2 % desde a intersecção com 
 
 Identificação - Zona 5I - Área de proteção com vista a assegurar o estabelecimento da superfície de proteção às ajudas rádio de aproximação de precisão do futuro aeroporto (superfície operacional determinada pelo anexo 10 à Convenção sobre Transporte Internacional Civil - ICAO).
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114394.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114394.png) |
+| --- |
 
 Limites laterais - Superfície confinante com as zonas 5B, 5I e 4.
 
@@ -660,7 +718,8 @@ Condicionante - Cota progressivamente crescente a 2 % desde a intersecção com 
 
 Identificação - Zona 5J - Área de proteção com vista a assegurar o estabelecimento da superfície de proteção às ajudas rádio de aproximação de precisão do futuro aeroporto (superfície operacional determinada pelo anexo 10 à Convenção sobre Transporte Internacional Civil - ICAO).
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114395.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114395.png) |
+| --- |
 
 Limites laterais - Superfície confinante com as zonas 5I, 5B, 6B e 4.
 
@@ -680,7 +739,8 @@ Condicionante - Cota progressivamente crescente a 2 % desde a intersecção com 
 
 Identificação - Zona 5L - Área de proteção com vista a assegurar o estabelecimento da superfície de proteção às ajudas rádio de aproximação de precisão do futuro aeroporto (superfície operacional determinada pelo anexo 10 à Convenção sobre Transporte Internacional Civil - ICAO).
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114396.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114396.png) |
+| --- |
 
 Limites laterais - Superfície confinante com as zonas 1 e 3.
 
@@ -700,7 +760,8 @@ Condicionante - Cota progressivamente crescente a 2 %, de 63 m até atingir a co
 
 Identificação - Zona 5M - Área de proteção com vista a assegurar o estabelecimento da superfície de proteção às ajudas rádio de aproximação de precisão do futuro aeroporto (superfície operacional determinada pelo anexo 10 à Convenção sobre Transporte Internacional Civil - ICAO).
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114397.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114397.png) |
+| --- |
 
 Limites laterais - Superfície confinante com as zonas 1 e 3.
 
@@ -719,7 +780,8 @@ Condicionante - Cota progressivamente crescente a 2 %, de 63 m até atingir a co
 
 Identificação - Zona 5N - Área de proteção com vista a assegurar o estabelecimento da superfície de proteção às ajudas rádio de aproximação de precisão do futuro aeroporto (superfície operacional determinada pelo anexo 10 à Convenção sobre Transporte Internacional Civil - ICAO).
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114398.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114398.png) |
+| --- |
 
 Limites laterais - Superfície confinante com as zonas 1 e 3.
 
@@ -738,7 +800,8 @@ Condicionante - Cota progressivamente crescente a 2 %, de 88 m até atingir a co
 
 Identificação - Zona 5O - Área de proteção com vista a assegurar o estabelecimento da superfície de proteção às ajudas rádio de aproximação de precisão do futuro aeroporto (superfície operacional determinada pelo anexo 10 à Convenção sobre Transporte Internacional Civil - ICAO).
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114399.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114399.png) |
+| --- |
 
 Limites laterais - Superfície confinante com as zonas 6A, 5P, 5Q, 5R, 5S, 5T e 5O.
 
@@ -765,7 +828,8 @@ Condicionante - Superfície à cota de 203 m.
 
 Identificação - Zona 5P - Área de proteção com vista a assegurar o estabelecimento da superfície de proteção às ajudas rádio de aproximação de precisão do futuro aeroporto (superfície operacional determinada pelo anexo 10 à Convenção sobre Transporte Internacional Civil - ICAO).
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114400.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114400.png) |
+| --- |
 
 Limites laterais - Superfície confinante com as zonas 5N, 6A, 4 e 5Q.
 
@@ -785,7 +849,8 @@ Condicionante - Cota progressivamente crescente a 2 %, de 188 m até atingir a c
 
 Identificação - Zona 5Q - Área de proteção com vista a assegurar o estabelecimento da superfície de proteção às ajudas rádio de aproximação de precisão do futuro aeroporto (superfície operacional determinada pelo anexo 10 à Convenção sobre Transporte Internacional Civil - ICAO).
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114401.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114401.png) |
+| --- |
 
 Limites laterais - Superfície confinante com as zonas 5N, 5P, 4 e 5R.
 
@@ -806,7 +871,8 @@ Condicionante - Cota progressivamente crescente a 2 %, de 163 m até atingir a c
 
 Identificação - Zona 5R - Área de proteção com vista a assegurar o estabelecimento da superfície de proteção às ajudas rádio de aproximação de precisão do futuro aeroporto (superfície operacional determinada pelo anexo 10 à Convenção sobre Transporte Internacional Civil - ICAO).
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114402.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114402.png) |
+| --- |
 
 Limites laterais - Superfície confinante com as zonas 5Q, 4, 5S e 5N.
 
@@ -825,7 +891,8 @@ Condicionante - Cota progressivamente crescente a 2 %, de 183 m até atingir a c
 
 Identificação - Zona 5S - Área de proteção com vista a assegurar o estabelecimento da superfície de proteção às ajudas rádio de aproximação de precisão do futuro aeroporto (superfície operacional determinada pelo anexo 10 à Convenção sobre Transporte Internacional Civil - ICAO).
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114403.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114403.png) |
+| --- |
 
 Limites laterais - Superfície confinante com as zonas 5R, 4, 5T e 5N.
 
@@ -844,7 +911,8 @@ Condicionante - Cota progressivamente crescente a 2 %, de 163 m até atingir a c
 
 Identificação - Zona 5T - Área de proteção com vista a assegurar o estabelecimento da superfície de proteção às ajudas rádio de aproximação de precisão do futuro aeroporto (superfície operacional determinada pelo anexo 10 à Convenção sobre Transporte Internacional Civil - ICAO).
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114404.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114404.png) |
+| --- |
 
 Limites laterais - Superfície confinante com as zonas 5R, 4, 5T e 5N.
 
@@ -863,7 +931,8 @@ Condicionante - Cota progressivamente crescente a 2 %, de 183 m até atingir a c
 
 Identificação - Zona 5U - Área de proteção com vista a assegurar o estabelecimento da superfície de proteção às ajudas rádio de aproximação de precisão do futuro aeroporto (superfície operacional determinada pelo anexo 10 à Convenção sobre Transporte Internacional Civil - ICAO).
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114405.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114405.png) |
+| --- |
 
 Limites laterais - Superfície confinante com as zonas 4, 5V e 5O.
 
@@ -883,7 +952,8 @@ Condicionante - Cota progressivamente crescente a 2 %, de 188 m até atingir a c
 
 Identificação - Zona 5V - Área de proteção com vista a assegurar o estabelecimento da superfície de proteção às ajudas rádio de aproximação de precisão do futuro aeroporto (superfície operacional determinada pelo anexo 10 à Convenção sobre Transporte Internacional Civil - ICAO).
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114406.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114406.png) |
+| --- |
 
 Limites laterais - Superfície confinante com as zonas 4, 5W, 5O e 5U.
 
@@ -904,7 +974,8 @@ Condicionante - Cota progressivamente crescente a 2 %, de 173 m até atingir a c
 
 Identificação - Zona 5X - Área de proteção com vista a assegurar o estabelecimento da superfície de proteção às ajudas rádio de aproximação de precisão do futuro aeroporto (superfície operacional determinada pelo anexo 10 à Convenção sobre Transporte Internacional Civil - ICAO).
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114407.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114407.png) |
+| --- |
 
 Limites laterais - Superfície confinante com as zonas 4, 5V e 5O.
 
@@ -924,7 +995,8 @@ Condicionante - Cota progressivamente crescente a 2 %, de 190 m até atingir a c
 
 Identificação - Zona 5Z - Área de proteção com vista a assegurar o estabelecimento da superfície de proteção às ajudas rádio de aproximação de precisão do futuro aeroporto (superfície operacional determinada pelo anexo 10 à Convenção sobre Transporte Internacional Civil - ICAO).
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114408.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114408.png) |
+| --- |
 
 Limites laterais - Superfície confinante com as zonas 5N, 5U, 5V, 5W, 6B.
 
@@ -947,7 +1019,8 @@ Condicionante - Superfície à cota de 203 m.
 
 Identificação - Zona 5AA - Área de proteção com vista a assegurar o estabelecimento da superfície de proteção às ajudas rádio de aproximação de precisão do futuro aeroporto (superfície operacional determinada pelo anexo 10 à Convenção sobre Transporte Internacional Civil - ICAO).
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114409.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114409.png) |
+| --- |
 
 Limites laterais - Superfície confinante com as zonas 3 e 1.
 
@@ -967,7 +1040,8 @@ Condicionante - Cota progressivamente crescente a 2 %, de 74 m até atingir a co
 
 Identificação - Zona 5BB - Área de proteção com vista a assegurar o estabelecimento da superfície de proteção às ajudas rádio de aproximação de precisão do futuro aeroporto (superfície operacional determinada pelo anexo 10 à Convenção sobre Transporte Internacional Civil - ICAO).
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114410.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114410.png) |
+| --- |
 
 Limites laterais - Superfície confinante com as zonas 3 e 1.
 
@@ -986,7 +1060,8 @@ Condicionante - Cota progressivamente crescente a 2 %, de 78 m até atingir a co
 
 Identificação - Zona 5CC - Área de proteção com vista a assegurar o estabelecimento da superfície de proteção às ajudas rádio de aproximação de precisão do futuro aeroporto (superfície operacional determinada pelo anexo 10 à Convenção sobre Transporte Internacional Civil - ICAO).
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114411.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114411.png) |
+| --- |
 
 Limites laterais - Superfície confinante com as zonas 3 e 1.
 
@@ -1005,7 +1080,8 @@ Condicionante - Cota progressivamente crescente a 2 %, de 85 m até atingir a co
 
 Identificação - Zona 6A - Área de proteção com vista a assegurar o estabelecimento da superfície horizontal externa do futuro aeroporto (superfície operacional determinada pelo anexo 14 à Convenção sobre Transporte Internacional Civil - ICAO).
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114412.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114412.png) |
+| --- |
 
 Limites laterais - Zona confinante com as zonas 4, 5A, 5C, 5P, 5N.
 
@@ -1034,7 +1110,8 @@ A cota máxima do elemento mais elevado de qualquer construção não pode ultra
 
 Identificação - Zona 6B - Área de proteção com vista a assegurar o estabelecimento da superfície horizontal externa do futuro aeroporto (superfície operacional determinada pelo anexo 14 à Convenção sobre Transporte Internacional Civil - ICAO).
 
-![](https://files.diariodarepublica.pt/images/1055043918/1055114413.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1055043918/1055114413.png) |
+| --- |
 
 Limites laterais - Zona confinante com as zonas 4, 5J, 5B, 5O, 5W.
 
@@ -1070,3 +1147,7 @@ P.A. - Ponto do arco;
 C.A. - Centro do arco;
 
 Obs. - Observação.
+
+119947521
+
+.Tbl1 { border-collapse:collapse; } .Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:18px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl12 { min-height:17px; }

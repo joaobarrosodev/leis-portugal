@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/10/2026/07/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2026-1144095504
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-06T00:00:00Z'
+  retrieved_at: '2026-10-22T18:46:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0443c81b8bcb0f8b64bea6f3ab68e979ab29964b244b06e19e3ec687928cc018
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc3c4fc5d2c04be12789b69a01f3bb66f0ffaa485e609f01ae6045b690091bb0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:46:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Açores
+- Administração Regional
 - Ajuste Direto
-- Região Autónoma
-- Património
-- Indústria Automóvel
 - Certidão
 - Contrato de Aluguer
 - Definição de Competências
 - Fiscalização
-- Programa para a Mobilidade Elétrica
 - Gestão do Património
 - Hasta Pública
-- Veículo
-- Veículo Elétrico
-- Página na Internet
-- Proteção do Ambiente
+- Indústria Automóvel
 - Inventário
-- Administração Regional
+- Página na Internet
+- Património
+- Plataforma Eletrónica
+- Programa para a Mobilidade Elétrica
+- Proteção do Ambiente
+- Região Autónoma
 - Sinalização
-- Açores
+- Veículo
 - Veículo do Estado
+- Veículo Elétrico
 - Veículo em FIM de VIDA
 - Veículo Hibrido
-- Plataforma Eletrónica
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/27/2025/12/30/a/dre
@@ -99,16 +99,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:993031450:por
+  label: null
+  source: null
 article_structure:
   article_count: 47
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:46:03Z'
   warnings: []
   errors: []
 ---
@@ -623,11 +631,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, sem pr
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 28 de maio de 2026.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 30 de junho de 2026.**
+Assinado em Angra do Heroísmo em 30 de junho de 2026.
 
-**Publique-se.**
+Publique-se.
 
 A Representante da República para a Região Autónoma dos Açores, Susana Goulart Costa.
 
@@ -637,8 +645,12 @@ Tabela 1
 
 Requisitos técnicos
 
-| Tipologia de veículos | Tipologia de veículos | Requisitos técnicos | Requisitos técnicos | Requisitos técnicos |
+| Tipologia de veículos | Requisitos técnicos |  |  |  |
 | --- | --- | --- | --- | --- |
-| Tipologia de veículos | Tipologia de veículos | Carroçaria | Lugares | Portas |
+| Carroçaria | Lugares | Portas |  |  |
 | Veículos de representação | Elétrico | Berlina ou sedan | 4 ou 5 | 4 ou 5 |
 | Veículos de serviço | Híbrido (plug-in) ou elétrico | Utilitário | 4 ou 5 | 4 ou 5 |
+
+119948945
+
+.Tbl2 { height:17px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { height:26px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:middle; } .Tbl9 { min-height:18px; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:top; }

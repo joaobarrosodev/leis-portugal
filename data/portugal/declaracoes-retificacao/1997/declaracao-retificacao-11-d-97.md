@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 148/1997, 5º Suplemento, Série I-A de 1997-06-30
   number: '148'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 3190-(14) a 3190-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/06/148a05/00140015.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/11-d/1997/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-d-1997-149607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-06-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:48:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 053244aeb927da5b1e8078eb4013e0b16d6025c3c5e918f279689e2aa060dc18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7652b8f0f24ed2e9f68971586c9af7f6688b618e8b7f7721b8e1b1a87b7a2f09
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:48:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,36 +67,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
-- Reestruturação de Serviços
-- Investigação Científica e Tecnológica
-- Pessoal Dirigente
 - Concurso
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Controlo Sanitário
 - Definição de Competências
 - Direcção Geral de Hidráulica Engenharia Rural e Ambiente
-- Controlo Sanitário
-- Saúde Pública
-- Instituto de Hidráulica Engenharia Rural e Ambiente
-- Laboratório Nacional de Investigação Veterinária
-- Orgânica
-- Quadro de Pessoal
 - Gestão de Recursos Humanos
+- Instituto de Hidráulica Engenharia Rural e Ambiente
+- Investigação Científica e Tecnológica
+- Laboratório Nacional de Investigação Veterinária
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Orgânica
+- Pessoal Dirigente
+- Produção Animal
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- Saúde Pública
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/128/1997/05/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/128/1997/05/24/p/dre
+- type: cites
+  target: pt:dre:347305:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:48:19Z'
   warnings: []
   errors: []
 ---

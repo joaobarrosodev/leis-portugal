@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/43/2009/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/43-2009-491970
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-25T00:00:00Z'
+  retrieved_at: '2026-10-22T19:11:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 005828eed69e41e55f39bede2c463e2da76dfd3d7d262b91182855b3361d43bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ce530ee6817586b36f1c30f287c52c19de5992cef43d6966198b997d306f92a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:11:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano Tecnológico
-- Multa
-- Entidade Certificadora
-- REDE Pública de Telecomunicações
+- Apoio ao Investimento
+- Comércio Eletrónico
 - Comunicações Eletrónicas
 - Controlo de Qualidade
 - Definição de Competências
-- Mudança Tecnológica
+- Entidade Certificadora
 - Equipamento
 - Fiscalização
-- Apoio ao Investimento
 - Instituto das Comunicações de Portugal
-- Sistema de Informação Centralizado
+- Internet
 - Licenciamento
 - Material Audiovisual
+- Mudança Tecnológica
+- Multa
 - Normas de Segurança
-- Internet
+- Plano Tecnológico
+- Prédio Urbano
 - Prestação de Serviços
 - Proteção do Consumidor
 - REDE de NOVA Geração
+- REDE Pública de Telecomunicações
 - Regime Jurídico
 - Sanção
-- Comércio Eletrónico
-- Prédio Urbano
+- Sistema de Informação Centralizado
 - Taxa
 relationships:
 - type: cites
@@ -109,16 +109,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5/2004/02/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/2004/02/10/p/dre
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608758:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:123/2009
+  label: "Rectifica o Decreto-Lei n.º 123/2009, de 21 de Maio, DR.IS [98]\0\0"
+  source: null
+  date: '2009-05-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:11:33Z'
   warnings: []
   errors: []
 ---

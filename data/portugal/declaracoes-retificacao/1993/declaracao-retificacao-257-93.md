@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 304/1993, 6º Suplemento, Série I-A de 1993-12-31
   number: '304'
   series: I
-  supplement: 6º Suplemento
+  supplement: null
   pages: 7244-(8) a 7244-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/12/304a06/00080008.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/257/1993/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/257-1993-430421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:38:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84afd017dc7104d70211a541b591fc78a4fca12722178e0f6336a714426abc29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: abe3145bf0a105a0c4c271a95ec83fdbbee2b1af8baf1007266c562eb9886adf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:38:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,38 +68,42 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Financiamento
+- Cinema
 - Cinemateca Nacional
 - Classificação de Espectáculos
+- Comércio
 - Contra-ordenação
 - Depósito Legal
-- Produção Cinematográfica
+- Financiamento
+- Indústria Cinematográfica
 - Instituto Português de Cinema
 - Material Audiovisual
-- Cinema
-- Indústria Cinematográfica
-- Comércio
+- Produção Cinematográfica
 - Videograma
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/350/1993/10/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/350/1993/10/07/p/dre
+- type: cites
+  target: pt:dre:645305:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:38:31Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 257/93
+# Declaração de rectificação n.º 257/93
 
 Para os devidos efeitos se declara que o [Decreto-Lei n.º 350/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/350-1993-645305), publicado no Diário da República, n.º 235, de 7 de Outubro de 1993, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 

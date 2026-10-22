@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43223-1960-514066
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-10-14T00:00:00Z'
+  retrieved_at: '2026-10-22T19:20:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01162330c71a8950c9098e88a6b8ecd14139f919a460c64adfacd8820082b455
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73d8b1f842e4a5cc10fd7385dc536d375d97916f1c9c2b35cb4c9c74dc704a70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:20:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:20:02Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +105,7 @@ Tendo em conta o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Infra-Estruturas da Força Aérea a celebrar os seguintes contratos:
+Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Infra-Estruturas da Força Aérea a celebrar os seguintes contratos:
 
 Com a firma Sociedade de Construções Valura, Lda., para a execução da obra «Arruamentos e drenagem do Centro Cinotécnico do B. C. P. (Tancos)», pela importância de 255594$30;
 
@@ -113,8 +117,8 @@ Com a firma Sociedade de Construções Fernando Pires Coelho, Lda., para a execu
 
 Com a firma Fábrica Jerónimo Osório de Castro, para o fornecimento de mobiliário para uma caserna de cabos especialistas na base aérea n.º 6 (Montijo), pela importância de 340060$00.
 
-###### Art. 2.º O encargo com estas obras e fornecimento, no montante de 1203556$30, será na sua totalidade liquidado pelo referido conselho administrativo no ano económico de 1961.
+Art. 2.º O encargo com estas obras e fornecimento, no montante de 1203556$30, será na sua totalidade liquidado pelo referido conselho administrativo no ano económico de 1961.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Outubro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Júlio Carlos Alves Dias Botelho Moniz - António Manuel Pinto Barbosa.

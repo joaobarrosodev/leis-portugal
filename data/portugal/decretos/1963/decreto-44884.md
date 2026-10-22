@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1963/02/04100/01480173.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,330 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44884-1963-193429
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:33:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2554c3b7026615ae47c5a493030e1d77f9e9ccf71e56b2246eaba8fad887dec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee9fd3bf5a8ad48de6b4da57c826a72ee979ebb889acd614a56f353113d6c3f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:33:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Estatuto dos Sargentos e Praças da Armada
+- Forças Armadas
+- Marinha
+- Militar
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:222383:por
+  label: "Alterado o art. 49º pela PORT.20311.1964.01.11.MMAR, DG.IS [9] de 11/Jan/1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20311-1964-222383
+  date: '1964-01-11'
+- type: amended_by
+  target: pt:dre:469252:por
+  label: "Alterado o § 2º do art. 212º pelo DEC LEI.45539.22.01.1964.MMAR, DG.IS [18] de 22.01.1964\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45539-1964-469252
+  date: '1964-01-22'
+- type: amended_by
+  target: pt:dre:469419:por
+  label: "Alterado o art. 145.&#186; do Estatuto, pela PORT.20343.1964.01.27.MMAR DG.IS [22]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20343-1964-469419
+  date: '1964-01-27'
+- type: amended_by
+  target: pt:dre:471566:por
+  label: "Alterado o & único do art. 46º pela PORT.20511.1964.04.13.MMAR, DG.IS [88] de 13/Abr/1964\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20511-1964-471566
+  date: '1964-04-13'
+- type: amended_by
+  target: pt:dre:535611:por
+  label: "Alterados os arts. 80º, 111º e 215º pela PORT.20929.1964.11.25.MMAR, DG.IS [277] de 25/Nov/1964\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20929-1964-535611
+  date: '1964-11-25'
+- type: amended_by
+  target: pt:dre:509818:por
+  label: "Substitu&#237;do o art 23&#186; do Estatuto, pela PORT.21529.1965.09.15.MMAR, DG.IS [209] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/21529-1965-509818
+  date: '1965-09-15'
+- type: amended_by
+  target: pt:dre:493234:por
+  label: "Alterado o &#167; 1&#186; do art. 122&#186;, pela PORT.21801.1966.01.19.MMAR, DG.IS [15] de 19/Jan/1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/21801-1966-493234
+  date: '1966-01-19'
+- type: amended_by
+  target: pt:dre:486919:por
+  label: "Alterado o art. 105&#186; do Estatuto, pela PORT.21924.1966.03.22.MMAR, DG.IS [68]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/21924-1966-486919
+  date: '1966-03-22'
+- type: amended_by
+  target: pt:dre:478391:por
+  label: "Alterado o art. 36.&#186; do Estatuto, pela PORT.22254.1966.10.17.MMAR DG.IS [241]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/22254-1966-478391
+  date: '1966-10-17'
+- type: amended_by
+  target: pt:dre:478396:por
+  label: "Alterados os art. 10º, 16º e 130º pela PORT.22255.1966.10.18.MMAR, DG.IS[242] de 18/Out/1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/22255-1966-478396
+  date: '1966-10-18'
+- type: amended_by
+  target: pt:dre:505181:por
+  label: "Prorrogado o prazo até 31 de Dezembro pela PORT.22507.1967.02.06.MMAR, DG.IS [31] de 6/Fev/1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/22507-1967-505181
+  date: '1967-02-06'
+- type: amended_by
+  target: pt:dre:138564:por
+  label: "Eliminado o &#167; &#250;nico do art. 152&#186; e substitu&#237;do o art. 174&#186;, pela PORT.23048.1967.12.07.MMAR,\
+    \ DG.IS [284]Supl de 7/Dez/1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/23048-1967-138564
+  date: '1967-12-07'
+- type: amended_by
+  target: pt:dre:235146:por
+  label: "Aditado o 1&#186; &#167; e 2&#186; &#167; ao art. 139&#186; ao Estatuto, pela PORT.23237.1968.02.22.MMAR, DG.IS\
+    \ [45]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/23237-1968-235146
+  date: '1968-02-22'
+- type: amended_by
+  target: pt:dre:526838:por
+  label: "Alterados os arts. 13&#186;, 34&#186;, 36&#186;, 60&#186;, 64&#186;, 122&#186;, 123&#186;, 125&#186;, 152&#186;\
+    \ e 176&#186; do Estatuto, pela PORT.23877.1969.01.27.MMAR, DG.IS [22]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/23877-1969-526838
+  date: '1969-01-27'
+- type: amended_by
+  target: pt:dre:199594:por
+  label: "Prorrogado o prazo pela PORT.24184.1969.07.16.MMAR, DR.IS [165] de 16/Jul/1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/24184-1969-199594
+  date: '1969-07-16'
+- type: amended_by
+  target: pt:dre:216146:por
+  label: "Alterado o quadro n&#186; 2 anexo ao Estatuto, pela PORT.24385.1969.10.23.MMAR, DG.IS [249]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/24385-1969-216146
+  date: '1969-10-23'
+- type: amended_by
+  target: pt:dre:140976:por
+  label: "Alterado o § 2 do art. 139º, na redacção da Port 23237 de 22-Fev 1968, e a al. c) do art. 140º na redacção da Port\
+    \ 24182 de 15-Jul 1969, pela Port PORT.311/70.1970.06.26.MMAR, DG.IS [147]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/311-1970-140976
+  date: '1970-06-26'
+- type: amended_by
+  target: pt:dre:139233:por
+  label: "Alterado o quadro anexo ao Estatuto, pela PORT.394/70.1970.08.12.MMAR, DG.IS [186] de 12/Ago/1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/394-1970-139233
+  date: '1970-08-12'
+- type: amended_by
+  target: pt:dre:146959:por
+  label: "Alterados os arts. 151.&#186;, 153.&#186;, 156.&#186;, 157.&#186; e substitu&#237;dos os quadros anexos do Estatuto,\
+    \ pela PORT.617/70.1970.12.04.MMAR DG.IS [281]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/617-1970-146959
+  date: '1970-12-04'
+- type: amended_by
+  target: pt:dre:446767:por
+  label: "Alterado o § 3º do art. 152º do Estatuto, na redacção da Port 23877, de 27-Jan de 1969, pela PORT.95/71.17.02.1971.MMAR,\
+    \ DG.IS [40] de 17.02.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/95-1971-446767
+  date: '1971-02-17'
+- type: amended_by
+  target: pt:dre:447124:por
+  label: "Alterados os arts. 164&#186;, 165&#186;, 166&#186;, o &#167; 1&#186; do art. 181&#186;, o &#167; 2&#186; do art.\
+    \ 188&#186; e aditados os arts. 166&#186;-A e 166&#186;-B do Estatuto, pela PORT.113/71.1971.02.27.MMAR, DG.IS [49]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/113-1971-447124
+  date: '1971-02-27'
+- type: amended_by
+  target: pt:dre:631416:por
+  label: "Alterados os art. 146º e 166º pela PORT.619/71.1971.11.13.MMAR, DG.IS [267] de 13/Nov/1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/619-1971-631416
+  date: '1971-11-13'
+- type: amended_by
+  target: pt:dre:633357:por
+  label: "Aditado um § ao art. 175º, pelo PORT.569/71.1971.11.18.MMAR, DG.IS [245]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/569-1971-633357
+  date: '1971-11-18'
+- type: amended_by
+  target: pt:dre:489479:por
+  label: "Alterado o art. 145.&#186; do Estatuto, pela PORT.654/71.1971.11.27.MMAR DG.IS [279]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/654-1971-489479
+  date: '1971-11-27'
+- type: amended_by
+  target: pt:dre:397102:por
+  label: "Substitu&#237;dos os arts.2.&#186;, 3.&#186;, 4.&#186;, 6.&#186;, 7.&#186;, 10.&#186;, 12.&#186; a 16.&#186;, 18.&#186;,\
+    \ 23.&#186;, 25.&#186;, 28.&#186;, 31.&#186;, 33.&#186;, 34.&#186;, 36.&#186; a 40.&#186;, 42.&#186;, 43.&#186;, 45.&#186;\
+    \ a 53.&#186;, 56.&#186;, 58.&#186;, 60.&#186;, 63.&#186;, 64.&#186;, 70.&#186;, 71.&#186;, 73.&#186;, 80.&#186;, 83.&#186;,\
+    \ 101.&#186;, 102.&#186;, 104.&#186;, 105.&#186;, 110.&#186; a 112.&#186;, 117.&#186;, 119.&#186;, 121.&#186; a 123.&#186;,\
+    \ 125.&#186; a 127.&#186;, 129.&#186;, 130.&#186;, 134.&#186;, 136.&#186;, 138.&#186; 140.&#186;, 143.&#186; a 146.&#186;,\
+    \ 150.&#186; a 153.&#186;, 156.&#186;, 157.&#186;, 159.&#186;, 164.&#186; a 166.&#186;-B, 169.&#186; a 171.&#186;, 174.&#186;\
+    \ a 176.&#186;, 181.&#186;, 188.&#186;, 202.&#186; a 210.&#186;, 215.&#186;, 228.&#186;, 229.&#186; e 230.&#186;, bem\
+    \ como t&#237;tulos dos cap&#237;tulos, sec&#231;&#245;es, subsec&#231;&#245;es e outras designa&#231;&#245;es e eliminados\
+    \ os arts. 5.&#186;, 8.&#186;, 103.&#186;, 115.&#186; e a al. c) do art. 67.&#186; do Estatuto, pela PORT.219/72.1972.04.21.MMAR\
+    \ DG.IS [94]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/219-1972-397102
+  date: '1972-04-21'
+- type: amended_by
+  target: pt:dre:412794:por
+  label: "Alterado o artigo 35.º, a alínea a) do artigo 82.º, § 2.º do artigo 108.º e aditado o artigo 83.º - A. ao Estatuto,\
+    \ pela PORT.627/73.19.09.1973.MMAR, DG.IS [220] de 19.09.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/627-1973-412794
+  date: '1973-09-19'
+- type: amended_by
+  target: pt:dre:158883:por
+  label: "Alterados os artigos 7.º, 15.º e 16.º, o título da subsecção IV, o artigo 41.º, o título da secção V, os artigos\
+    \ 51.º, 52.º, 112.º, 119.º, 120.º, 143.º, 152.º, 153.º e 156.º, aditados os artigos 125.º-A, 230.º-M, 230.º-N, 230.º-O\
+    \ e substituídos os quadros n.ºs 1 e 2, todos do Estatuto, pela PORT.27/75.17.01.1975.CCEMFA, DG.IS [14] de 17.01.1975\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/27-1975-158883
+  date: '1975-01-17'
+- type: amended_by
+  target: pt:dre:507180:por
+  label: "Alterados os artigos 91.º e 92.º do Estatuto, pelo PORT.62/76.03.02.1976.CR, DR.IS [28] de 03.02.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/62-1976-507180
+  date: '1976-02-03'
+- type: amended_by
+  target: pt:dre:409347:por
+  label: Alteradas diversas classes de pessoal constantes do Estatuto dos Sargentos e Praças da Armada pelo(a) Portaria n.º
+    632/76 - Diário da República n.º 249/1976, Série I de 1976-10-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/632-1976-409347
+  date: '1976-10-23'
+- type: amended_by
+  target: pt:dre:407107:por
+  label: "Alterados cursos e instruções previstos no Estatuto dos Sargentos e Praças da Armada promulgado pelo presente diploma,\
+    \ pela Port.671/76.13.11.1976.CR, DR.IS [266] de 13.11.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/671-1976-407107
+  date: '1976-11-13'
+- type: amended_by
+  target: pt:dre:406912:por
+  label: Alterado o § 2 do art. 10.º do Estatuto pela PORT.692/76.1976.11.20.CR, DG.IS [272]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/692-1976-406912
+  date: '1976-11-20'
+- type: amended_by
+  target: pt:dre:474513:por
+  label: "Eliminado o tempo de embarque na classe de mergulhadores constante do quadro n.º 2 a que se refere o art. 169.º\
+    \ do ESPA, aprovado pelo presente diploma, na redacção da Port 27/75, de 17-Jan, pela Port.281/80.24.05.1980.CR, DR.IS\
+    \ [120] de 24.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/281-1980-474513
+  date: '1980-05-24'
+- type: amended_by
+  target: pt:dre:471745:por
+  label: "Alterado o § 3º do art. 150º e eliminado o § único do art. 174º ambos do ESPA, com a redacção conferida nas Port\
+    \ 23048 de 07-Dez de 1967 e 219/72 de 21-Abr, e aditados uma al. e) ao art. 81º e os §§ 1º e 2º ao art. 174º daquele Estatuto,\
+    \ pelo DEC.42/80.07.07.1980.CR, DR.IS [154] de 07.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/42-1980-471745
+  date: '1980-07-07'
+- type: amended_by
+  target: pt:dre:471351:por
+  label: "Aditado um § único ao artigo 230.º-I, na redacção dada pela Portaria n.º 219/72, de 21 de Abril, pelo DEC.46/80.15.07.1980.CR,\
+    \ DR.IS [161] de 15.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/46-1980-471351
+  date: '1980-07-15'
+- type: amended_by
+  target: pt:dre:389666:por
+  label: "Alterada a redacção da condição 4ª do § único do artigo 51º do Estatuto, pela PORT.155/81.30.01.1981.CR, DR.IS [25]\
+    \ de 30.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/155-1981-389666
+  date: '1981-01-30'
+- type: amended_by
+  target: pt:dre:573298:por
+  label: "Alterado o quadro n.º 2 a que se refere o artigo 169.º do Estatuto, com a redacção que lhe foi conferida na Portaria\
+    \ n.º 27/75, de 17 de Janeiro, pela PORT.378/81.09.05.1981.CR, DR.IS [106] de 09.05.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/378-1981-573298
+  date: '1981-05-09'
+- type: amended_by
+  target: pt:dre:381339:por
+  label: "Aditado o n.º 2 a que se refere o art. 169.º do Estatuto aprovado pelo presente diploma, na redacção da Port 27/75,\
+    \ de 17-Jan e da Port 281/80, de 24-Mai, pela PORT.563/84.04.08.1984.MDN, DR.IS [180] de 04.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/563-1984-381339
+  date: '1984-08-04'
+- type: amended_by
+  target: pt:dre:181001:por
+  label: "Substituida a referência à classe de enfermeiro e aditada a al. m) às notas explicativas do quadro do n.º 2 a que\
+    \ se refere o art. 169.º do ESPA, aprovado pelo presente diploma, na redacção da Port 27/75, de 17-Jan, da Port 281/80,\
+    \ de 24-Mai e da Port 563/84, de 04-Ago, pela PORT.632/85.23.08.1985.MDN, DR.IS [193] de 23.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/632-1985-181001
+  date: '1985-08-23'
+- type: amended_by
+  target: pt:dre:196180:por
+  label: "Alterado o art. 10º, pelo DEC LEI.69/86.1986.03.31.MDN, DR.IS [74]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-1986-196180
+  date: '1986-03-31'
+- type: amended_by
+  target: pt:dre:210589:por
+  label: "Declarada, com força obrigatória geral, a inconstitucionalidade das normas constantes da condição n.º 3 do art.\
+    \ 21.º respeitante aos requisitos de ser solteiro e de não ter encargos de família enquanto aplicável àqueles que no acto\
+    \ de representação à Junta de Recrutamento hajam manifestado vontade de prestar serviço militar na Armada, da condição\
+    \ do 6.ª do art. 28.º e 3.ª do art. 32.º todas do presente diploma, pelo AC.336/86.03.12.1986.TCS, DR.IS [295] de 24.12.1986\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/336-1986-210589
+  date: '1986-12-03'
+- type: amended_by
+  target: pt:dre:419662:por
+  label: "Alterada a al. c) do art. 80&#186;, pelo DR.37/87.1987.06.24.MDN, pelo DR.IS [142]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/37-1987-419662
+  date: '1987-06-24'
+- type: amended_by
+  target: pt:dre:498089:por
+  label: "Alterado o artigo 10.&#186; do Estatuto, alterado pelas Portarias n.os 219/72, de 21 de Abril, 632/76, de 23 de\
+    \ Outubro, e 692/76, de 20 de Novembro, e pelo Decreto-Lei n.&#186; 69/86, de 31 de Mar&#231;o, pelo DEC LEI.377/87.17.12.1987.MDN,\
+    \ DR.IS [289] de 17.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/377-1987-498089
+  date: '1987-12-17'
+- type: amended_by
+  target: pt:dre:619722:por
+  label: "Alterado o quadro n.º 2, que fixa as condições especiais de promoção, a que se refere o artigo 169.º, com a redacção\
+    \ que lhe foi dada pelas Portarias n.os 27/75, de 17 de Janeiro, 281/80, de 24 de Maio, 563/84, de 4 de Agosto, e 632/85,\
+    \ de 23 de Agosto, e substituído pelo quadro anexo do DEC LEI.218/89.04.07.1989.MDN, DR.IS [151] de 04.07.1989, e revogado\
+    \ o artigo 43.º pelo referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/218-1989-619722
+  date: '1989-07-04'
+- type: cites
+  target: pt:dre:193428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649362:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:264735:por
+  label: "Revogado o &#167; 1&#186; do art. 228&#186; do Estatuto, pela PORT.23603.1968.09.11.MMAR, DG.IS [215]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/23603-1968-264735
+  date: '1968-09-11'
+- type: repealed_by
+  target: pt:dre:199620:por
+  label: "Revogado o art. 124&#186; e alterado o &#167; &#250;nico, pela PORT.24182.1969.07.15.MMAR, DG.IS [164] de 15/Jul/1969\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/24182-1969-199620
+  date: '1969-07-15'
+- type: repealed_by
+  target: pt:dre:581861:por
+  label: "Revogado o par&#225;g. &#250;nico do art. 110.&#186; do Estatuto, pela PORT.2/80.1980.01.03.CR DR.IS [2]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/2-1980-581861
+  date: '1980-01-03'
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 50
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:33:40Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +386,7 @@ ESTATUTO DOS SARGENTOS E PRAÇAS DA ARMADA
 
 #### SECÇÃO I — Ordenamento orgânico
 
-###### Artigo 1.º O ordenamento orgânico dos sargentos e praças da Armada do activo é feito nos seguintes aspectos:
+Artigo 1.º O ordenamento orgânico dos sargentos e praças da Armada do activo é feito nos seguintes aspectos:
 
 a) Hierárquico;
 
@@ -106,11 +396,11 @@ c) Numérico.
 
 § único. Para fins profissionais e técnicos os sargentos e praças agrupam-se em classes.
 
-###### Art. 2.º No ordenamento hierárquico existem duas categorias: sargentos e praças.
+Art. 2.º No ordenamento hierárquico existem duas categorias: sargentos e praças.
 
 § único. Na categoria de praças estão incluídas as praças da marinhagem e as praças da taifa.
 
-###### Art. 3.º A categoria de sargentos compreende os seguintes postos:
+Art. 3.º A categoria de sargentos compreende os seguintes postos:
 
 a) Sargento-ajudante;
 
@@ -118,7 +408,7 @@ b) Primeiro-sargento;
 
 c) Segundo-sargento.
 
-###### Art. 4.º A categoria de praças compreende os seguintes postos:
+Art. 4.º A categoria de praças compreende os seguintes postos:
 
 1. Nas praças da marinhagem:
 
@@ -140,9 +430,9 @@ c) Primeiro-cozinheiro;
 
 d) Segundo-cozinheiro, primeiro-criado, segundo-criado e padeiro.
 
-###### Art. 5.º O escalonamento hierárquico dos postos dos sargentos e das praças, em ordem decrescente, e a equivalência de postos das praças da marinhagem e da taifa são os seguintes:
+Art. 5.º O escalonamento hierárquico dos postos dos sargentos e das praças, em ordem decrescente, e a equivalência de postos das praças da marinhagem e da taifa são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/02/04100/01480173.pdf))](https://files.diariodarepublica.pt/1s/1963/02/04100/01480173.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/02/04100/01480173.pdf)
 
 § 1.º No mesmo posto ou em postos equivalentes a hierarquia é definida pela antiguidade relativa determinada pela data de promoção e, em igualdade desta, pela antiguidade do posto anterior e assim sucessivamente; no caso de ainda se manter a igualdade, será mais antigo o que tiver mais tempo de serviço na Armada e, em igualdade deste, o que tiver mais idade.
 
@@ -150,13 +440,13 @@ d) Segundo-cozinheiro, primeiro-criado, segundo-criado e padeiro.
 
 § 3.º Os alunos dos cursos de alistamento sem graduação militar são equiparados a segundos-grumetes.
 
-###### Art. 6.º A equivalência dos postos dos sargentos e praças da Armada aos do Exército e da Força Aérea é a seguinte:
+Art. 6.º A equivalência dos postos dos sargentos e praças da Armada aos do Exército e da Força Aérea é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/02/04100/01480173.pdf))](https://files.diariodarepublica.pt/1s/1963/02/04100/01480173.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/02/04100/01480173.pdf)
 
-###### Art. 7.º Os sargentos e as praças da marinhagem agrupam-se nas seguintes classes:
+Art. 7.º Os sargentos e as praças da marinhagem agrupam-se nas seguintes classes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/02/04100/01480173.pdf))](https://files.diariodarepublica.pt/1s/1963/02/04100/01480173.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/02/04100/01480173.pdf)
 
 § 1.º Os segundos-grumetes só ingressam nas classes depois de estarem habilitados com a instrução técnica elementar correspondente.
 
@@ -164,21 +454,21 @@ d) Segundo-cozinheiro, primeiro-criado, segundo-criado e padeiro.
 
 § 3.º Os sargentos e praças auxiliares da extinta classe dos serviços gerais são mantidos nesta classe sem direito a promoção.
 
-###### Art. 8.º As praças da taifa agrupam-se nas seguintes classes:
+Art. 8.º As praças da taifa agrupam-se nas seguintes classes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/02/04100/01480173.pdf))](https://files.diariodarepublica.pt/1s/1963/02/04100/01480173.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/02/04100/01480173.pdf)
 
-###### Art. 9.º Para fins administrativos, a 2.ª Repartição da Direcção do Serviço do Pessoal pode agrupar os sargentos e praças da maneira que julgar mais conveniente, reunindo em cada grupo os sargentos e praças de uma ou mais classes.
+Art. 9.º Para fins administrativos, a 2.ª Repartição da Direcção do Serviço do Pessoal pode agrupar os sargentos e praças da maneira que julgar mais conveniente, reunindo em cada grupo os sargentos e praças de uma ou mais classes.
 
-###### Art. 10.º Para o desempenho de determinadas funções, os sargentos e praças da Armada podem, mediante a frequência de cursos de especialização, obter as especializações indicadas no quadro seguinte:
+Art. 10.º Para o desempenho de determinadas funções, os sargentos e praças da Armada podem, mediante a frequência de cursos de especialização, obter as especializações indicadas no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/02/04100/01480173.pdf))](https://files.diariodarepublica.pt/1s/1963/02/04100/01480173.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/02/04100/01480173.pdf)
 
 § único. As especializações dão direito ao uso de distintivo próprio.
 
-###### Art. 11.º O ordenamento em relação à data da admissão é feito por incorporações, sendo cada incorporação definida pelo ano civil em que tiver lugar e por número de ordem dentro de cada ano.
+Art. 11.º O ordenamento em relação à data da admissão é feito por incorporações, sendo cada incorporação definida pelo ano civil em que tiver lugar e por número de ordem dentro de cada ano.
 
-###### Art. 12.º O ordenamento numérico é baseado no número de matrícula atribuído a cada praça na data do alistamento.
+Art. 12.º O ordenamento numérico é baseado no número de matrícula atribuído a cada praça na data do alistamento.
 
 § 1.º A numeração é seguida até 20000; logo que seja atingido este limite adapta-se uma nova série para substituição da existente.
 
@@ -190,7 +480,7 @@ d) Segundo-cozinheiro, primeiro-criado, segundo-criado e padeiro.
 
 #### SECÇÃO II — Quadros
 
-###### Art. 13.º Os postos fixados para cada classe e os efectivos de sargentos e praças estabelecidos para cada posto constituem o quadro da respectiva classe; os efectivos fixados para cada posto em cada classe constituem o quadro do posto.
+Art. 13.º Os postos fixados para cada classe e os efectivos de sargentos e praças estabelecidos para cada posto constituem o quadro da respectiva classe; os efectivos fixados para cada posto em cada classe constituem o quadro do posto.
 
 § 1.º Os quadros a que se refere o corpo deste artigo são estabelecidos por decreto-lei.
 
@@ -200,7 +490,7 @@ d) Segundo-cozinheiro, primeiro-criado, segundo-criado e padeiro.
 
 #### SECÇÃO III — Designações
 
-###### Art. 14.º Os sargentos e as praças são designados, quer pelo cargo que desempenham, quer pelo posto seguido da classe. Nas praças da taifa apenas é indicado o posto.
+Art. 14.º Os sargentos e as praças são designados, quer pelo cargo que desempenham, quer pelo posto seguido da classe. Nas praças da taifa apenas é indicado o posto.
 
 § 1.º Os segundos-grumetes, enquanto não forem dados por prontos da instrução militar e técnica necessária ao ingresso nas diversas classes, tomam as seguintes designações:
 
@@ -216,7 +506,7 @@ c) Segundos-grumetes aprendizes de clarim, enquanto recebem instrução para ing
 
 #### SECÇÃO IV — Funções
 
-###### Art. 15.º Além das funções inerentes aos seus postos, na sua qualidade de militares da Armada, compete aos sargentos e praças, em grau de responsabilidade adequado, as que resultam das atribuições das suas classes, das quais se indicam as mais importantes:
+Art. 15.º Além das funções inerentes aos seus postos, na sua qualidade de militares da Armada, compete aos sargentos e praças, em grau de responsabilidade adequado, as que resultam das atribuições das suas classes, das quais se indicam as mais importantes:
 
 1. Artilheiros:
 
@@ -560,7 +850,7 @@ b) Auxiliar os criados no desempenho das suas funções;
 
 c) Guardar e conservar o material a seu cargo.
 
-###### Art. 16.º Aos sargentos e praças habilitados com as especializações referidas no artigo 10.º competem particularmente as seguintes atribuições:
+Art. 16.º Aos sargentos e praças habilitados com as especializações referidas no artigo 10.º competem particularmente as seguintes atribuições:
 
 1. Telemetristas:
 
@@ -630,7 +920,7 @@ c) Operar cifras.
 
 #### SECÇÃO V — Deveres
 
-###### Art. 17.º Os sargentos e as praças da Armada devem, como militares, completa obediência às leis e regulamentos em vigor e pronto acatamento às ordens e instruções dos seus superiores.
+Art. 17.º Os sargentos e as praças da Armada devem, como militares, completa obediência às leis e regulamentos em vigor e pronto acatamento às ordens e instruções dos seus superiores.
 
 Compete-lhes especialmente:
 
@@ -662,13 +952,13 @@ Compete-lhes especialmente:
 
 #### SECÇÃO I — Normas gerais
 
-###### Art. 18.º A admissão das praças na Armada é realizada segundo dois sistemas:
+Art. 18.º A admissão das praças na Armada é realizada segundo dois sistemas:
 
 1.º Por recrutamento, a fim de fornecer à Armada praças em prestação de serviço militar a que são obrigados todos os portugueses, nos termos da Lei do Recrutamento e Serviço Militar;
 
 2.º Por voluntariado, com o objectivo essencial de prover a Armada de especialistas preparados de harmonia com as exigências do serviço naval.
 
-###### Art. 19.º A admissão das praças compreende as seguintes fases:
+Art. 19.º A admissão das praças compreende as seguintes fases:
 
 1.º Alistamento, que corresponde à inscrição nos organismos de recrutamento dos mancebos destinados a prestar serviço à Armada, depois de terem sido submetidos às provas de aptidão física, de habilitações literárias e outras que sejam estabelecidas;
 
@@ -680,9 +970,9 @@ Compete-lhes especialmente:
 
 #### SECÇÃO II — Admissão por recrutamento
 
-###### Art. 20.º O número de mancebos a seleccionar para efeitos da admissão pelo sistema de recrutamento é fornecido pelo Ministério do Exército, mediante requisição do Ministério da Marinha apresentada, anualmente, até ao dia 30 de Junho.
+Art. 20.º O número de mancebos a seleccionar para efeitos da admissão pelo sistema de recrutamento é fornecido pelo Ministério do Exército, mediante requisição do Ministério da Marinha apresentada, anualmente, até ao dia 30 de Junho.
 
-###### Art. 21.º De harmonia com a Lei do Recrutamento e Serviço Militar, os mancebos para serem alistados na Armada devem satisfazer às seguintes condições:
+Art. 21.º De harmonia com a Lei do Recrutamento e Serviço Militar, os mancebos para serem alistados na Armada devem satisfazer às seguintes condições:
 
 1.ª Altura mínima 1,60 m;
 
@@ -692,17 +982,17 @@ Compete-lhes especialmente:
 
 § único. É dada preferência aos mancebos que no acto de apresentação às juntas de recrutamento do Exército declaram desejar servir na Armada.
 
-###### Art. 22.º Os mancebos fornecidos pelo Ministério do Exército são sujeitos às provas de aptidão física, literárias e psicotécnicas que sejam estabelecidas pela Direcção do Serviço do Pessoal e os que forem julgados aptos são alistados como segundos-grumetes recrutas, até ser atingido o número necessário estabelecido por despacho do Ministro.
+Art. 22.º Os mancebos fornecidos pelo Ministério do Exército são sujeitos às provas de aptidão física, literárias e psicotécnicas que sejam estabelecidas pela Direcção do Serviço do Pessoal e os que forem julgados aptos são alistados como segundos-grumetes recrutas, até ser atingido o número necessário estabelecido por despacho do Ministro.
 
 § 1.º A aptidão física será comprovada pela aplicação das tabelas de inaptidão para o serviço da Armada em vigor.
 
 § 2.º A incorporação far-se-á nas épocas fixadas por despacho do Ministro da Marinha, e a cada incorporação corresponderá a data que superiormente for estabelecida.
 
-###### Art. 23.º Os mancebos julgados inaptos e os que excedam o número a admitir serão mandados apresentar no quartel-general do Governo Militar de Lisboa para seguirem para os respectivos distritos de recrutamento, quando as provas tenham sido prestadas em Lisboa ou proximidades; quando tenham sido prestadas noutros locais, os mancebos são mandados apresentar nos distritos de recrutamento mais próximos.
+Art. 23.º Os mancebos julgados inaptos e os que excedam o número a admitir serão mandados apresentar no quartel-general do Governo Militar de Lisboa para seguirem para os respectivos distritos de recrutamento, quando as provas tenham sido prestadas em Lisboa ou proximidades; quando tenham sido prestadas noutros locais, os mancebos são mandados apresentar nos distritos de recrutamento mais próximos.
 
-###### Art. 24.º Seguidamente à incorporação os segundos-grumetes recrutas recebem a instrução de recruta (I. R.), destinada a dar-lhes preparação militar básica.
+Art. 24.º Seguidamente à incorporação os segundos-grumetes recrutas recebem a instrução de recruta (I. R.), destinada a dar-lhes preparação militar básica.
 
-###### Art. 25.º Depois de concluída a I. R. os segundos-grumetes recrutas, logo que possível, frequentam a instrução técnica elementar (I. T. E.), destinada a fornecer-lhes os conhecimentos técnicos indispensáveis ao ingresso nas seguintes classes:
+Art. 25.º Depois de concluída a I. R. os segundos-grumetes recrutas, logo que possível, frequentam a instrução técnica elementar (I. T. E.), destinada a fornecer-lhes os conhecimentos técnicos indispensáveis ao ingresso nas seguintes classes:
 
 a) Artilheiros;
 
@@ -726,15 +1016,15 @@ j) Fuzileiros.
 
 § único. A distribuição dos segundos-grumetes pela I. T. E. das diversas classes é feita dentro dos quantitativos superiormente fixados pela Direcção do Serviço do Pessoal, de acordo com os elementos obtidos pela sua 7.ª Repartição (Selecção do Pessoal) e tendo em conta as condições de aptidão especial estabelecidas para cada classe.
 
-###### Art. 26.º Depois de concluída a I. T. E. os segundos-grumetes recrutas tomam a designação de segundos-grumetes das classes referidas no artigo anterior e ingressam nas mesmas.
+Art. 26.º Depois de concluída a I. T. E. os segundos-grumetes recrutas tomam a designação de segundos-grumetes das classes referidas no artigo anterior e ingressam nas mesmas.
 
-###### Art. 27.º Sempre que se verifique que o sistema de voluntariado não é suficiente para o preenchimento dos quadros de classes diferentes das indicadas no artigo 25.º, pode o Ministro da Marinha, por portaria, regular as condições em que os mancebos admitidos por recrutamento serão preparados para prestar serviço nessas classes.
+Art. 27.º Sempre que se verifique que o sistema de voluntariado não é suficiente para o preenchimento dos quadros de classes diferentes das indicadas no artigo 25.º, pode o Ministro da Marinha, por portaria, regular as condições em que os mancebos admitidos por recrutamento serão preparados para prestar serviço nessas classes.
 
 #### SECÇÃO III — Admissão por voluntariado
 
 ##### SUBSECÇÃO I — Normas gerais
 
-###### Art. 28.º A admissão por voluntariado é feita mediante concurso, devendo os indivíduos que ao mesmo desejem ser admitidos satisfazer às seguintes condições gerais:
+Art. 28.º A admissão por voluntariado é feita mediante concurso, devendo os indivíduos que ao mesmo desejem ser admitidos satisfazer às seguintes condições gerais:
 
 1.ª Ser cidadão português;
 
@@ -760,15 +1050,15 @@ c) Ter tido bom comportamento moral e civil antes de entrar para o serviço mili
 
 § 2.º Para os concorrentes que forem militares da Armada as condições gerais de admissão são as estabelecidas no § único do artigo 51.º
 
-###### Art. 29.º As condições especiais para admissão aos concursos variam com as classes a que os mesmos se destinam e as que não estejam fixadas neste estatuto serão estabelecidas por despacho do Ministro da Marinha.
+Art. 29.º As condições especiais para admissão aos concursos variam com as classes a que os mesmos se destinam e as que não estejam fixadas neste estatuto serão estabelecidas por despacho do Ministro da Marinha.
 
-###### Art. 30.º Os concursos são devidamente anunciados e as condições publicadas na Ordem da Direcção do Serviço do Pessoal e em editais a fixar nos locais mais convenientes.
+Art. 30.º Os concursos são devidamente anunciados e as condições publicadas na Ordem da Direcção do Serviço do Pessoal e em editais a fixar nos locais mais convenientes.
 
 § único. O período de validade do concurso, que será fixado para cada caso pela Direcção do Serviço do Pessoal, constará dos respectivos editais.
 
-###### Art. 31.º Os programas das provas dos concursos serão publicados na Ordem da Direcção do Serviço do Pessoal, depois de aprovados pelo director do mesmo serviço.
+Art. 31.º Os programas das provas dos concursos serão publicados na Ordem da Direcção do Serviço do Pessoal, depois de aprovados pelo director do mesmo serviço.
 
-###### Art. 32.º As condições de preferência na admissão por concurso são as seguintes:
+Art. 32.º As condições de preferência na admissão por concurso são as seguintes:
 
 1.ª Possuir melhores habilitações técnicas e preparação profissional para prestar serviço nas respectivas classes;
 
@@ -784,7 +1074,7 @@ c) Ter tido bom comportamento moral e civil antes de entrar para o serviço mili
 
 Admissão de voluntários para as classes de artilheiros, fogueiros-motoristas, radiotelegrafistas, radaristas, electricistas, torpedeiros-detectores, manobra, sinaleiros, abastecimento e fuzileiros.
 
-###### Art. 33.º A admissão de voluntários para prestarem serviço nas classes de artilheiros, fogueiros-motoristas, radiotelegrafistas, radaristas, electricistas, torpedeiros-detectores, manobra, sinaleiros, abastecimento e fuzileiros é feita por concurso entre os indivíduos que, além de satisfazerem as condições indicadas no artigo 28.º, satisfaçam mais as seguintes:
+Art. 33.º A admissão de voluntários para prestarem serviço nas classes de artilheiros, fogueiros-motoristas, radiotelegrafistas, radaristas, electricistas, torpedeiros-detectores, manobra, sinaleiros, abastecimento e fuzileiros é feita por concurso entre os indivíduos que, além de satisfazerem as condições indicadas no artigo 28.º, satisfaçam mais as seguintes:
 
 1.ª Completar 17 ou 18 anos no ano civil da admissão;
 
@@ -794,11 +1084,11 @@ Admissão de voluntários para as classes de artilheiros, fogueiros-motoristas, 
 
 4.ª Obter aprovação num exame de admissão realizado na unidade da Armada que para esse fim for designada.
 
-###### Art. 34.º Os indivíduos que forem seleccionados, de acordo com as condições referidas no artigo anterior e o número de vacaturas existentes, são alistados como segundos-grumetes voluntários e incorporados nas datas fixadas por despacho do Ministro da Marinha.
+Art. 34.º Os indivíduos que forem seleccionados, de acordo com as condições referidas no artigo anterior e o número de vacaturas existentes, são alistados como segundos-grumetes voluntários e incorporados nas datas fixadas por despacho do Ministro da Marinha.
 
-###### Art. 35.º Os segundos-grumetes voluntários recebem as mesmas instruções de recruta e técnica que os segundos-grumetes recrutas, em conjunto com eles, sendo-lhes aplicável o disposto nos artigos 24.º, 25.º e 26.º
+Art. 35.º Os segundos-grumetes voluntários recebem as mesmas instruções de recruta e técnica que os segundos-grumetes recrutas, em conjunto com eles, sendo-lhes aplicável o disposto nos artigos 24.º, 25.º e 26.º
 
-###### Art. 36.º Levam baixa do serviço da Armada e revertem à vida civil, sujeitos à Lei do Recrutamento e Serviço Militar, quando provenientes da vida civil, e às suas anteriores situações, quando provenientes da classe militar, os segundos-grumetes voluntários que:
+Art. 36.º Levam baixa do serviço da Armada e revertem à vida civil, sujeitos à Lei do Recrutamento e Serviço Militar, quando provenientes da vida civil, e às suas anteriores situações, quando provenientes da classe militar, os segundos-grumetes voluntários que:
 
 a) Manifestem incapacidade física para o serviço da Armada, comprovada pela Junta de Saúde Naval;
 
@@ -810,13 +1100,13 @@ c) Cometam faltas de natureza moral ou militar de carácter grave.
 
 ##### SUBSECÇÃO III — Admissão de voluntários para a classe dos clarins
 
-###### Art. 37.º A admissão de voluntários para prestarem serviço na classe dos clarins é feita por concurso entre indivíduos que satisfaçam às condições gerais indicadas no artigo 28.º e às condições especiais que forem fixadas por despacho do Ministro da Marinha.
+Art. 37.º A admissão de voluntários para prestarem serviço na classe dos clarins é feita por concurso entre indivíduos que satisfaçam às condições gerais indicadas no artigo 28.º e às condições especiais que forem fixadas por despacho do Ministro da Marinha.
 
-###### Art. 38.º Os indivíduos que sejam seleccionados no concurso referido no artigo anterior para preenchimento das vacaturas existentes são alistados como segundos-grumetes aprendizes de clarim e incorporados em datas a fixar por despacho do Ministro da Marinha.
+Art. 38.º Os indivíduos que sejam seleccionados no concurso referido no artigo anterior para preenchimento das vacaturas existentes são alistados como segundos-grumetes aprendizes de clarim e incorporados em datas a fixar por despacho do Ministro da Marinha.
 
-###### Art. 39.º Os segundos-grumetes aprendizes de clarim recebem a instrução militar e profissional necessária ao desempenho das funções próprias da classe de clarins (I. C.), finda a qual são examinados por um júri, designado para o efeito pelo director do Serviço do Pessoal e do qual deve fazer parte o chefe da banda da Armada. Os que forem aprovados ingressam na classe dos clarins com o posto de primeiro-grumete, de acordo com as classificações que obtiverem.
+Art. 39.º Os segundos-grumetes aprendizes de clarim recebem a instrução militar e profissional necessária ao desempenho das funções próprias da classe de clarins (I. C.), finda a qual são examinados por um júri, designado para o efeito pelo director do Serviço do Pessoal e do qual deve fazer parte o chefe da banda da Armada. Os que forem aprovados ingressam na classe dos clarins com o posto de primeiro-grumete, de acordo com as classificações que obtiverem.
 
-###### Art. 40.º Levam baixa do serviço da Armada, nas condições estabelecidas no artigo 36.º e seu § único, os segundos-grumetes aprendizes de clarim que:
+Art. 40.º Levam baixa do serviço da Armada, nas condições estabelecidas no artigo 36.º e seu § único, os segundos-grumetes aprendizes de clarim que:
 
 a) Manifestem incapacidade física para o serviço da Armada, comprovada pela Junta de Saúde Naval;
 
@@ -826,23 +1116,23 @@ c) Tenham cometido faltas de natureza militar ou moral de carácter grave.
 
 ##### SUBSECÇÃO IV — Admissão por voluntariado para as classes dos artífices e dos enfermeiros
 
-###### Art. 41.º A admissão de voluntários para prestarem serviço nas classes dos artífices electricistas, artífices radioelectricistas, artífices condutores de máquinas e enfermeiros é feita por concurso entre os indivíduos que satisfaçam às condições gerais fixadas no artigo 28.º e às condições especiais estabelecidas por despacho do Ministro da Marinha.
+Art. 41.º A admissão de voluntários para prestarem serviço nas classes dos artífices electricistas, artífices radioelectricistas, artífices condutores de máquinas e enfermeiros é feita por concurso entre os indivíduos que satisfaçam às condições gerais fixadas no artigo 28.º e às condições especiais estabelecidas por despacho do Ministro da Marinha.
 
-###### Art. 42.º Os indivíduos que forem seleccionados, de acordo com as condições referidas no artigo anterior e o número de vacaturas existentes, são alistados e incorporados como alunos e destacados imediatamente para os estabelecimentos de ensino da Armada onde são ministrados os cursos que lhes fornecem a necessária praparação militar e profissional para o ingresso nas respectivas classes.
+Art. 42.º Os indivíduos que forem seleccionados, de acordo com as condições referidas no artigo anterior e o número de vacaturas existentes, são alistados e incorporados como alunos e destacados imediatamente para os estabelecimentos de ensino da Armada onde são ministrados os cursos que lhes fornecem a necessária praparação militar e profissional para o ingresso nas respectivas classes.
 
-###### Art. 43.º Concluídos os cursos de alistamento, os alunos ingressam nas respectivas classes com o posto de cabo, sendo a ordem de antiguidades determinada pelas classificações obtidas nos cursos.
+Art. 43.º Concluídos os cursos de alistamento, os alunos ingressam nas respectivas classes com o posto de cabo, sendo a ordem de antiguidades determinada pelas classificações obtidas nos cursos.
 
-###### Art. 44.º Os alunos que forem eliminados dos cursos de alistamento por falta de aproveitamento, por manifestarem incapacidade física para o serviço da Armada, comprovada pela Junta de Saúde Naval, ou que cometerem faltas de natureza militar ou moral de carácter grave levam baixa do serviço da Armada, nas condições estabelecidas no artigo 36.º e seu § único.
+Art. 44.º Os alunos que forem eliminados dos cursos de alistamento por falta de aproveitamento, por manifestarem incapacidade física para o serviço da Armada, comprovada pela Junta de Saúde Naval, ou que cometerem faltas de natureza militar ou moral de carácter grave levam baixa do serviço da Armada, nas condições estabelecidas no artigo 36.º e seu § único.
 
-###### Art. 45.º A admissão na classe dos enfermeiros pode também realizar-se em condições análogas às estabelecidas na subsecção seguinte, sendo o alistamento e incorporação feitos no posto de cabo, quando se trate de indivíduos já habilitados com cursos de enfermagem que a Direcção do Serviço de Saúde Naval considere como equivalentes aos ministrados na Armada.
+Art. 45.º A admissão na classe dos enfermeiros pode também realizar-se em condições análogas às estabelecidas na subsecção seguinte, sendo o alistamento e incorporação feitos no posto de cabo, quando se trate de indivíduos já habilitados com cursos de enfermagem que a Direcção do Serviço de Saúde Naval considere como equivalentes aos ministrados na Armada.
 
 ##### SUBSECÇÃO V — Admissão por voluntariado nas classes dos carpinteiros, dos músicos, dos despenseiros, dos cozinheiros, dos criados e dos padeiros
 
-###### Art. 46.º A admissão por voluntariado nas classes dos carpinteiros, dos músicos, dos despenseiros, dos cozinheiros, dos criados e dos padeiros é feita por concurso entre os indivíduos que satisfaçam às condições gerais estabelecidas no artigo 28.º e às condições especiais fixadas por despacho do Ministro da Marinha.
+Art. 46.º A admissão por voluntariado nas classes dos carpinteiros, dos músicos, dos despenseiros, dos cozinheiros, dos criados e dos padeiros é feita por concurso entre os indivíduos que satisfaçam às condições gerais estabelecidas no artigo 28.º e às condições especiais fixadas por despacho do Ministro da Marinha.
 
 § único. Nos concursos para a classe dos despenseiros apenas podem ser admitidas praças da taifa das seguintes classes e postos: primeiros-cozinheiros, segundos-cozinheiros, primeiros-criados e padeiros.
 
-###### Art. 47.º Os indivíduos seleccionados para ingressarem nas classes indicadas no artigo anterior são alistados e incorporados com os postos de:
+Art. 47.º Os indivíduos seleccionados para ingressarem nas classes indicadas no artigo anterior são alistados e incorporados com os postos de:
 
 a) Cabos, na classe dos carpinteiros;
 
@@ -850,7 +1140,7 @@ b) Primeiros-grumetes, na classe dos músicos;
 
 c) Segundos-despenseiros, segundos-cozinheiros, segundos-criados e padeiros, respectivamente nas classes dos despenseiros, cozinheiros, criados e padeiros, de acordo com as classificações obtidas no concurso.
 
-###### Art. 48.º Logo após a incorporação, os cabos carpinteiros, os primeiros-grumetes músicos e os cabos enfermeiros admitidos ao abrigo do artigo 45.º recebem instrução militar adequada às funções que vão desempenhar.
+Art. 48.º Logo após a incorporação, os cabos carpinteiros, os primeiros-grumetes músicos e os cabos enfermeiros admitidos ao abrigo do artigo 45.º recebem instrução militar adequada às funções que vão desempenhar.
 
 O pessoal da taifa recebe uma instrução especial de natureza profissional e militar (I. T.).
 
@@ -858,13 +1148,13 @@ O pessoal da taifa recebe uma instrução especial de natureza profissional e mi
 
 #### SECÇÃO IV — Ingresso nas classes dos condutores de automóveis e dos mergulhadores
 
-###### Art. 49.º O ingresso nas classes dos condutores de automóveis e dos mergulhadores é feito, respectivamente, nos postos de primeiro-grumete e de marinheiro e de acordo com as classificações obtidas em cursos de conversão, aos quais só podem ser admitidas praças da Armada de graduação não superior a primeiro-grumete, para os condutores de automóveis, e de marinheiro, para os mergulhadores, mediante concurso, organizado de acordo com instruções aprovadas pelo Ministro da Marinha.
+Art. 49.º O ingresso nas classes dos condutores de automóveis e dos mergulhadores é feito, respectivamente, nos postos de primeiro-grumete e de marinheiro e de acordo com as classificações obtidas em cursos de conversão, aos quais só podem ser admitidas praças da Armada de graduação não superior a primeiro-grumete, para os condutores de automóveis, e de marinheiro, para os mergulhadores, mediante concurso, organizado de acordo com instruções aprovadas pelo Ministro da Marinha.
 
-###### Art. 50.º As praças que não obtenham aproveitamento nos cursos de conversão a que se refere o artigo anterior continuam a prestar serviço efectivo na Armada nos seus postos e classes, a menos que lhes pertença passar à reserva da Armada.
+Art. 50.º As praças que não obtenham aproveitamento nos cursos de conversão a que se refere o artigo anterior continuam a prestar serviço efectivo na Armada nos seus postos e classes, a menos que lhes pertença passar à reserva da Armada.
 
 #### SECÇÃO V — Admissão das praças da Armada aos concursos para as classes dos artífices, carpinteiros, enfermeiros, músicos, clarins e da taifa
 
-###### Art. 51.º As praças da Armada podem ser admitidas aos concursos referidos nos artigos anteriores destinados a seleccionar pessoal para prestar serviço nas classes dos artífices, carpinteiros, enfermeiros, músicos, clarins e da taifa.
+Art. 51.º As praças da Armada podem ser admitidas aos concursos referidos nos artigos anteriores destinados a seleccionar pessoal para prestar serviço nas classes dos artífices, carpinteiros, enfermeiros, músicos, clarins e da taifa.
 
 § único. Para as praças da Armada, as condições gerais a que se refere o artigo 28.º são substituídas pelas seguintes:
 
@@ -878,21 +1168,21 @@ O pessoal da taifa recebe uma instrução especial de natureza profissional e mi
 
 e as condições especiais serão fixadas por despacho do Ministro da Marinha.
 
-###### Art. 52.º As praças a que se refere esta secção, enquanto frequentam os cursos de alistamento para artífices e para enfermeiros ou a instrução de clarins, mantêm o seu posto e classe.
+Art. 52.º As praças a que se refere esta secção, enquanto frequentam os cursos de alistamento para artífices e para enfermeiros ou a instrução de clarins, mantêm o seu posto e classe.
 
 § único. As praças referidas no corpo deste artigo poderão ser promovidas ao posto imediato, na sua classe, enquanto frequentam os citados cursos, quando essa promoção lhes pertença.
 
-###### Art. 53.º As mesmas praças, quando não sejam consideradas como aptas pelo júri a que se refere o artigo 39.º ou quando sejam eliminadas dos cursos de alistamento, continuam a prestar serviço efectivo na Armada nas suas classes e com os respectivos postos, a menos que lhes pertença passar à reserva da Armada.
+Art. 53.º As mesmas praças, quando não sejam consideradas como aptas pelo júri a que se refere o artigo 39.º ou quando sejam eliminadas dos cursos de alistamento, continuam a prestar serviço efectivo na Armada nas suas classes e com os respectivos postos, a menos que lhes pertença passar à reserva da Armada.
 
 #### SECÇÃO VI — Transferência de classes
 
-###### Art. 54.º Em condições especiais, o Ministro da Marinha pode, por portaria, regular a transferência das praças da Armada de uma para outra classe, sem prejuízo das habilitações que devem possuir em relação ao seu posto na classe para que são transferidas.
+Art. 54.º Em condições especiais, o Ministro da Marinha pode, por portaria, regular a transferência das praças da Armada de uma para outra classe, sem prejuízo das habilitações que devem possuir em relação ao seu posto na classe para que são transferidas.
 
 ### CAPÍTULO III — Duração do serviço, situações e baixa do serviço
 
 #### SECÇÃO I — Duração do serviço
 
-###### Art. 55.º Os sargentos e praças da Armada que tenham sido alistados nos quadros do activo podem estar numa das seguintes situações:
+Art. 55.º Os sargentos e praças da Armada que tenham sido alistados nos quadros do activo podem estar numa das seguintes situações:
 
 a) No activo;
 
@@ -900,7 +1190,7 @@ b) Na reserva A;
 
 c) Na reforma.
 
-###### Art. 56.º O tempo de serviço militar obrigatório dos sargentos e praças da Armada que tenham sido alistados nos quadros do activo é o seguinte:
+Art. 56.º O tempo de serviço militar obrigatório dos sargentos e praças da Armada que tenham sido alistados nos quadros do activo é o seguinte:
 
 1. No activo:
 
@@ -922,7 +1212,7 @@ b) Não tendo direito a pensão de reserva, sem limite de tempo.
 
 #### SECÇÃO II — Situações
 
-###### Art. 57.º Estão no activo os sargentos e as praças:
+Art. 57.º Estão no activo os sargentos e as praças:
 
 a) Em serviço efectivo;
 
@@ -932,7 +1222,7 @@ c) Na inactividade temporária;
 
 d) De licença registada.
 
-###### Art. 58.º São considerados em serviço efectivo os sargentos e as praças do activo que:
+Art. 58.º São considerados em serviço efectivo os sargentos e as praças do activo que:
 
 a) Prestam serviço nos comandos, unidades, serviços e outros organismos do Ministério da Marinha;
 
@@ -948,7 +1238,7 @@ a) Passam à inactividade temporária quando se verifiquem as circustâncias ref
 
 b) Têm direito a nova licença sem vencimentos, até três meses, desde que não se verifiquem as circunstâncias a que se refere a alínea anterior e não sejam julgados, pela Junta de Saúde Naval, definitivamente incapazes do serviço activo ou de todo o serviço, findos os quais, se não regressarem ao serviço efectivo, serão passados à disponibilidade.
 
-###### Art. 59.º O tempo de serviço no activo pode ser:
+Art. 59.º O tempo de serviço no activo pode ser:
 
 a) Prolongado voluntàriamente, por meio de recondução;
 
@@ -958,9 +1248,9 @@ c) Retomado voluntàriamente, por readmissão.
 
 § único. O tempo prolongado pela recondução ou readmissão torna-se obrigatório.
 
-###### Art. 60.º A recondução é requerida com, pelo menos, três meses de antecedência ao chefe da 2.ª Repartição da Direcção do Serviço do Pessoal, que pode concedê-la ou não, segundo as conveniências do serviço; realiza-se por períodos sucessivos de três anos e começa imediatamente após a conclusão do tempo obrigatório de serviço.
+Art. 60.º A recondução é requerida com, pelo menos, três meses de antecedência ao chefe da 2.ª Repartição da Direcção do Serviço do Pessoal, que pode concedê-la ou não, segundo as conveniências do serviço; realiza-se por períodos sucessivos de três anos e começa imediatamente após a conclusão do tempo obrigatório de serviço.
 
-###### Art. 61.º São condições necessárias para a recondução:
+Art. 61.º São condições necessárias para a recondução:
 
 1.ª Classificação de comportamento não inferior à 2.ª classe;
 
@@ -972,15 +1262,15 @@ c) Retomado voluntàriamente, por readmissão.
 
 § único. Por despacho ministerial sobre proposta da 2.ª Repartição da Direcção do Serviço do Pessoal poderão ser reconduzidas, caso convenha ao serviço, as praças da 3.ª classe de comportamento sem faltas graves.
 
-###### Art. 62.º A habilitação com cursos de especialização, de aplicação ou de actualização pode ser, por despacho ministerial, considerada como condição indispensável à recondução dos sargentos e praças.
+Art. 62.º A habilitação com cursos de especialização, de aplicação ou de actualização pode ser, por despacho ministerial, considerada como condição indispensável à recondução dos sargentos e praças.
 
-###### Art. 63.º Os sargentos e praças que desejem deixar o activo ao terminarem os períodos de serviço obrigatório devem fazer declaração para baixa com, pelo menos, três meses de antecedência, a qual deve ser submetida à apreciação do chefe da 2.ª Repartição da Direcção do Serviço do Pessoal.
+Art. 63.º Os sargentos e praças que desejem deixar o activo ao terminarem os períodos de serviço obrigatório devem fazer declaração para baixa com, pelo menos, três meses de antecedência, a qual deve ser submetida à apreciação do chefe da 2.ª Repartição da Direcção do Serviço do Pessoal.
 
-###### Art. 64.º A continuação no activo, em caso de mobilização ou quando circunstâncias extraordinárias o exijam, pode, por despacho ministerial, ser determinada para além do tempo obrigatório de serviço ou de recondução.
+Art. 64.º A continuação no activo, em caso de mobilização ou quando circunstâncias extraordinárias o exijam, pode, por despacho ministerial, ser determinada para além do tempo obrigatório de serviço ou de recondução.
 
 § único. Esta continuação verifica-se, independentemente de determinação especial, sempre que o sargento ou praça esteja prestando serviço fora dos portos do continente, mas ùnicamente durante o tempo necessário para o seu regresso.
 
-###### Art. 65.º A readmissão no activo requer a satisfação das seguintes condições:
+Art. 65.º A readmissão no activo requer a satisfação das seguintes condições:
 
 a) Existência de vacatura no respectivo quadro do posto;
 
@@ -994,9 +1284,9 @@ e) Ter tido bom comportamento na vida civil.
 
 § único. Os sargentos e praças readmitidos vão ocupar o último lugar na escala de antiguidades do seu posto e classe.
 
-###### Art. 66.º São considerados na disponibilidade os sargentos e as praças da Armada que durante os períodos de serviço obrigatório ou de recondução sejam dispensados da prestação de serviço efectivo.
+Art. 66.º São considerados na disponibilidade os sargentos e as praças da Armada que durante os períodos de serviço obrigatório ou de recondução sejam dispensados da prestação de serviço efectivo.
 
-###### Art. 67.º São passados compelidamente à disponibilidade:
+Art. 67.º São passados compelidamente à disponibilidade:
 
 a) Os sargentos e as praças da Armada a que se reconheça falta de aptidão profissional, de zelo no serviço, ou cuja permanência no serviço seja prejudicial à disciplina;
 
@@ -1004,35 +1294,35 @@ b) Os grumetes que, depois de prestarem dezoito meses de serviço efectivo na Ar
 
 c) Os sargentos e as praças da Armada que estejam nas condições referidas na alínea b) do § 2.º do artigo 58.º deste estatuto.
 
-###### Art. 68.º A qualquer sargento ou praça que não faça falta ao serviço e que requeira pode ser concedida pelo chefe da 2.ª Repartição da Direcção do Serviço do Pessoal a passagem à disponibilidade, desde que esteja quite com a Fazenda Nacional.
+Art. 68.º A qualquer sargento ou praça que não faça falta ao serviço e que requeira pode ser concedida pelo chefe da 2.ª Repartição da Direcção do Serviço do Pessoal a passagem à disponibilidade, desde que esteja quite com a Fazenda Nacional.
 
-###### Art. 69.º Os sargentos e as praças da Armada na disponibilidade, quando findarem o tempo obrigatório de serviço ou de recondução, são passados à reserva da Armada.
+Art. 69.º Os sargentos e as praças da Armada na disponibilidade, quando findarem o tempo obrigatório de serviço ou de recondução, são passados à reserva da Armada.
 
-###### Art. 70.º Sempre que as necessidades do serviço o exijam, os sargentos e as praças na disponibilidade podem ser mandados prestar serviço efectivo, durante períodos de manobras ou exercícios ou até completarem os períodos obrigatórios de serviço, com excepção dos que estejam abrangidos na alínea b) do § 2.º do artigo 58.º
+Art. 70.º Sempre que as necessidades do serviço o exijam, os sargentos e as praças na disponibilidade podem ser mandados prestar serviço efectivo, durante períodos de manobras ou exercícios ou até completarem os períodos obrigatórios de serviço, com excepção dos que estejam abrangidos na alínea b) do § 2.º do artigo 58.º
 
-###### Art. 71.º Passam à inactividade temporária os sargentos e as praças que, no espaço de um ano, tenham tido 180 dias de licença da Junta de Saúde Naval, seguidos ou interpolados, por tuberculose ou por doença proveniente de desastre ou ferimento em serviço.
+Art. 71.º Passam à inactividade temporária os sargentos e as praças que, no espaço de um ano, tenham tido 180 dias de licença da Junta de Saúde Naval, seguidos ou interpolados, por tuberculose ou por doença proveniente de desastre ou ferimento em serviço.
 
-###### Art. 72.º Entram na situação de licença registada os sargentos e as praças que, por motivos particulares, sejam autorizados a afastar-se temporàriamente do serviço, nos termos do disposto no artigo 186.º
+Art. 72.º Entram na situação de licença registada os sargentos e as praças que, por motivos particulares, sejam autorizados a afastar-se temporàriamente do serviço, nos termos do disposto no artigo 186.º
 
-###### Art. 73.º No activo é contado como tempo de serviço efectivo o referido no artigo 58.º e o de inactividade temporária, sendo excluído o de cumprimento de pena que importe suspensão do exercício de funções, o de ausência ilegítima e o de licença registada.
+Art. 73.º No activo é contado como tempo de serviço efectivo o referido no artigo 58.º e o de inactividade temporária, sendo excluído o de cumprimento de pena que importe suspensão do exercício de funções, o de ausência ilegítima e o de licença registada.
 
 § 1.º Apesar de na disponibilidade não ter prestado serviço, o tempo passado nesta situação é contado para efeitos do cumprimento do tempo de serviço obrigatório.
 
 § 2.º A contagem do tempo de serviço para efeitos de pensão de reserva ou de reforma é fixado em legislação especial.
 
-###### Art. 74.º Os sargentos e as praças da Armada, da reserva A, podem estar prestando serviço efectivo ou licenciados.
+Art. 74.º Os sargentos e as praças da Armada, da reserva A, podem estar prestando serviço efectivo ou licenciados.
 
 § único. As condições em que o pessoal da reserva A presta serviço efectivo são as fixadas na legislação das reservas da Marinha.
 
-###### Art. 75.º A situação da reserva, sem direito a pensão, equivale à das tropas activas, licenciadas e territoriais do Exército. Salvo em caso de guerra ou de perigo iminente dela, a passagem aos dois últimos escalões para efeitos da referida equivalência é feita aos 28 e aos 40 anos de idade.
+Art. 75.º A situação da reserva, sem direito a pensão, equivale à das tropas activas, licenciadas e territoriais do Exército. Salvo em caso de guerra ou de perigo iminente dela, a passagem aos dois últimos escalões para efeitos da referida equivalência é feita aos 28 e aos 40 anos de idade.
 
-###### Art. 76.º Os sargentos e as praças reformadas podem, em tempo de guerra, ser convocados para prestar serviço efectivo compatível com a sua aptidão física.
+Art. 76.º Os sargentos e as praças reformadas podem, em tempo de guerra, ser convocados para prestar serviço efectivo compatível com a sua aptidão física.
 
-###### Art. 77.º Os sargentos e as praças das reservas ou reformados que forem convocados para prestar serviço efectivo não perdem a sua qualidade de reservistas ou de reformados.
+Art. 77.º Os sargentos e as praças das reservas ou reformados que forem convocados para prestar serviço efectivo não perdem a sua qualidade de reservistas ou de reformados.
 
 § único. A antiguidade dos sargentos e praças das reservas, sem direito a pensão, em relação ao restante pessoal do mesmo posto é regulada pelo tempo de serviço efectivo prestado nesse posto.
 
-###### Art. 78.º Os sargentos e as praças da Armada, do activo, em relação aos respectivos quadros podem estar:
+Art. 78.º Os sargentos e as praças da Armada, do activo, em relação aos respectivos quadros podem estar:
 
 a) No quadro;
 
@@ -1040,9 +1330,9 @@ b) Adidos ao quadro;
 
 c) Supranumerários ao quadro.
 
-###### Art. 79.º Consideram-se no quadro e por consequência preenchendo vacaturas nos respectivos quadros, os sargentos e as praças que prestam serviço nos comandos, unidades e serviços e outros organismos do Ministério da Marinha, e os que se encontrem de licença registada, desde que não estejam incluídos em nenhum dos casos previstos no artigo seguinte.
+Art. 79.º Consideram-se no quadro e por consequência preenchendo vacaturas nos respectivos quadros, os sargentos e as praças que prestam serviço nos comandos, unidades e serviços e outros organismos do Ministério da Marinha, e os que se encontrem de licença registada, desde que não estejam incluídos em nenhum dos casos previstos no artigo seguinte.
 
-###### Art. 80.º São colocados na situação de adidos ao quadro, não preenchendo número nos respectivos quadros, os sargentos e praças que:
+Art. 80.º São colocados na situação de adidos ao quadro, não preenchendo número nos respectivos quadros, os sargentos e praças que:
 
 a) Estejam nas situações de disponibilidade ou inactividade temporária;
 
@@ -1050,7 +1340,7 @@ b) Façam parte das lotações dos comandos navais e das defesas marítimas das 
 
 c) Estejam colocados em situações em que passem a receber os seus vencimentos por outro Ministério ou por organismos autónomos do Ministério da Marinha.
 
-###### Art. 81.º Consideram-se como supranumerários ao quadro os sargentos e as praças que não podem ingressar nos quadros pelo facto de nos mesmos não existir vacatura. A situação de supranumerários pode ser motivada por:
+Art. 81.º Consideram-se como supranumerários ao quadro os sargentos e as praças que não podem ingressar nos quadros pelo facto de nos mesmos não existir vacatura. A situação de supranumerários pode ser motivada por:
 
 a) Promoção por distinção ou por diuturnidade;
 
@@ -1062,7 +1352,7 @@ d) Promoção em consequência de decisão favorável em todos os casos de recur
 
 #### SECÇÃO III — Baixa do serviço
 
-###### Art. 82.º A baixa do serviço pode ser:
+Art. 82.º A baixa do serviço pode ser:
 
 a) Do activo, com passagem:
 
@@ -1084,7 +1374,7 @@ a) 2.ª Repartição da Direcção do Serviço do Pessoal, quando se trate do pe
 
 b) 3.ª Repartição da mesma Direcção, quando respeite a pessoal das reservas.
 
-###### Art. 83.º A passagem dos sargentos e praças do activo à reserva da Armada verifica-se nas seguintes condições:
+Art. 83.º A passagem dos sargentos e praças do activo à reserva da Armada verifica-se nas seguintes condições:
 
 a) Quando sejam atingidos os limites de idade fixados no § 1.º;
 
@@ -1106,9 +1396,9 @@ b) Sargentos e praças das restantes classes - 56 anos de idade.
 
 § 2.º A passagem à reserva realiza-se com direito a pensão quando se verifiquem as necessárias condições legais, as quais constam de legislação própria.
 
-###### Art. 84.º A passagem à reforma dos sargentos e praças do activo ou da reserva A com direito a pensão tem lugar ao abrigo das disposições legais que regulam essa passagem.
+Art. 84.º A passagem à reforma dos sargentos e praças do activo ou da reserva A com direito a pensão tem lugar ao abrigo das disposições legais que regulam essa passagem.
 
-###### Art. 85.º A baixa do serviço da Armada dos sargentos e praças, com passagem à vida civil, tem lugar:
+Art. 85.º A baixa do serviço da Armada dos sargentos e praças, com passagem à vida civil, tem lugar:
 
 a) Nos casos previstos neste estatuto;
 
@@ -1120,19 +1410,19 @@ d) Quando tenham de ser submetidos a julgamento nos tribunais comuns, em process
 
 § único. Quando nas circunstâncias a que se refere a alínea d) os sargentos e praças forem absolvidos, ou sendo condenados não fiquem incursos no artigo 2.º da Lei do Recrutamento e Serviço Militar, depois de expiada, nas cadeias civis, a pena a que foram condenados, serão de novo aumentados ao efectivo da Armada nos respectivos postos e classes, a menos que o não desejem e já tenham cumprido os períodos de serviço a que se refere o artigo 56.º
 
-###### Art. 86.º A baixa do serviço da Armada com passagem ao Exército ou à Força Aérea tem lugar:
+Art. 86.º A baixa do serviço da Armada com passagem ao Exército ou à Força Aérea tem lugar:
 
 a) Quando, pertencendo aos quadros do activo, seja autorizada, a seu pedido e por despacho ministerial, essa transferência;
 
 b) Quando ao abandonarem o activo, ou já na reserva, não tendo direito a pensão de reserva, de acordo com as disposições legais, devam ser transferidos para outros ramos das forças armadas.
 
-###### Art. 87.º A baixa do serviço da Armada com passagem à Guarda Nacional Republicana, Guarda Fiscal, Polícia de Segurança Pública, Polícia Judiciária e Polícia Internacional e de Defesa do Estado tem lugar:
+Art. 87.º A baixa do serviço da Armada com passagem à Guarda Nacional Republicana, Guarda Fiscal, Polícia de Segurança Pública, Polícia Judiciária e Polícia Internacional e de Defesa do Estado tem lugar:
 
 a) Quando, pertencendo aos quadros do activo, seja autorizada, a seu pedido e por despacho ministerial, essa transferência;
 
 b) Quando, pertencendo à reserva A, sem direito a pensão de reserva, passam a prestar serviço naqueles organismos.
 
-###### Art. 88.º Os sargentos e praças que deixem de prestar serviço efectivo, por terem tido baixa do activo ou do serviço da Armada, fora do porto de Lisboa, podem ser autorizados a ficar no local em que se encontram, desde que não exista qualquer razão impeditiva, mas perdem o direito à passagem de regresso.
+Art. 88.º Os sargentos e praças que deixem de prestar serviço efectivo, por terem tido baixa do activo ou do serviço da Armada, fora do porto de Lisboa, podem ser autorizados a ficar no local em que se encontram, desde que não exista qualquer razão impeditiva, mas perdem o direito à passagem de regresso.
 
 § único. No caso de que trata o corpo deste artigo, o respectivo comando deverá comunicar imediatamente à Direcção do Serviço do Pessoal (2.ª Repartição):
 
@@ -1150,17 +1440,17 @@ Duração das comissões.
 
 Prestação de serviço fora do Ministério da Marinha
 
-###### Art. 89.º O registo e movimento dos sargentos e praças da Armada compete à 2.ª e 3.ª Repartições da Direcção do Serviço do Pessoal, conforme se trate de sargentos e praças dos quadros do activo ou prestando serviço efectivo ou de sargentos e praças reservistas, na situação de licenciados ou reformados.
+Art. 89.º O registo e movimento dos sargentos e praças da Armada compete à 2.ª e 3.ª Repartições da Direcção do Serviço do Pessoal, conforme se trate de sargentos e praças dos quadros do activo ou prestando serviço efectivo ou de sargentos e praças reservistas, na situação de licenciados ou reformados.
 
 § único. As ordens emitidas pela 2.ª Repartição da Direcção do Serviço do Pessoal, relativas às deslocações dos sargentos e praças nos comandos, unidades e serviços da Armada e outros organismos do Ministério da Marinha, consideram-se como emanadas do superintendente dos Serviços da Armada e produzem efeito mesmo para os serviços não dependentes da Superintendência, como se fossem de autoridade superior.
 
-###### Art. 90.º A colocação dos sargentos e praças nos comandos, unidades e serviços da Armada e noutros organismos do Ministério da Marinha, ou noutros departamentos, deve ser realizada de maneira a garantir a estabilidade do pessoal indispensável a um conveniente funcionamento daqueles organismos.
+Art. 90.º A colocação dos sargentos e praças nos comandos, unidades e serviços da Armada e noutros organismos do Ministério da Marinha, ou noutros departamentos, deve ser realizada de maneira a garantir a estabilidade do pessoal indispensável a um conveniente funcionamento daqueles organismos.
 
-###### Art. 91.º Como regra geral, e quando não houver disposições legais que determinem procedimento diferente, a duração mínima das comissões é de um ano e a duração máxima é de três anos.
+Art. 91.º Como regra geral, e quando não houver disposições legais que determinem procedimento diferente, a duração mínima das comissões é de um ano e a duração máxima é de três anos.
 
 § único. Quando se trate de comissão de natureza especial, em que não devam ser adoptados os períodos referidos no corpo deste artigo e desde que não existam disposições legais que regulem o assunto, compete à 2.ª Repartição da Direcção do Serviço do Pessoal estudar e propor superiormente as durações mínima e máxima dessas comissões, as quais, depois de aprovadas, serão publicadas na Ordem da Direcção do Serviço do Pessoal.
 
-###### Art. 92.º Durante o período de duração mínima de comissão, o destacamento de sargentos ou praças só será realizado por algum dos motivos a seguir indicados:
+Art. 92.º Durante o período de duração mínima de comissão, o destacamento de sargentos ou praças só será realizado por algum dos motivos a seguir indicados:
 
 a) Baixa do activo ou do serviço da Armada;
 
@@ -1178,19 +1468,19 @@ g) Licença superior a 60 dias;
 
 h) Necessidade de satisfazer condições de promoção.
 
-###### Art. 93.º A fim de facilitar o movimento do pessoal, sem prejuízo apreciável para o funcionamento dos comandos, unidades e serviços, deverão estes, sempre que o julguem necessário, manter a 2.ª Repartição da Direcção do Serviço do Pessoal informada sobre o pessoal que, pelos cargos que exerce ou habilitações especiais que possui, só deve ser destacado antes de decorrido o período máximo de comissão quando for absolutamente indispensável.
+Art. 93.º A fim de facilitar o movimento do pessoal, sem prejuízo apreciável para o funcionamento dos comandos, unidades e serviços, deverão estes, sempre que o julguem necessário, manter a 2.ª Repartição da Direcção do Serviço do Pessoal informada sobre o pessoal que, pelos cargos que exerce ou habilitações especiais que possui, só deve ser destacado antes de decorrido o período máximo de comissão quando for absolutamente indispensável.
 
-###### Art. 94.º Como elemento orientador do movimento dos sargentos e praças, a 2.ª Repartição da Direcção do Serviço do Pessoal deverá elaborar escalas de nomeação para embarque ou para desempenho de certas comissões, especialmente quando se trate de situações para que haja voluntários ou que sejam particularmente espinhosas.
+Art. 94.º Como elemento orientador do movimento dos sargentos e praças, a 2.ª Repartição da Direcção do Serviço do Pessoal deverá elaborar escalas de nomeação para embarque ou para desempenho de certas comissões, especialmente quando se trate de situações para que haja voluntários ou que sejam particularmente espinhosas.
 
-###### Art. 95.º A 2.ª Repartição da Direcção do Serviço do Pessoal deverá elaborar e submeter à apreciação superior as normas que devem regular a selecção de voluntários ou a nomeação por imposição de serviço, para certas comissões de natureza especial, como as que se referem ao serviço no ultramar, a bordo e em terra, à Direcção-Geral da Marinha, ao Instituto Hidrográfico e navios hidrográficos e outras de natureza análoga. Estas normas depois de aprovadas superiormente serão publicadas na Ordem da Direcção do Serviço do Pessoal.
+Art. 95.º A 2.ª Repartição da Direcção do Serviço do Pessoal deverá elaborar e submeter à apreciação superior as normas que devem regular a selecção de voluntários ou a nomeação por imposição de serviço, para certas comissões de natureza especial, como as que se referem ao serviço no ultramar, a bordo e em terra, à Direcção-Geral da Marinha, ao Instituto Hidrográfico e navios hidrográficos e outras de natureza análoga. Estas normas depois de aprovadas superiormente serão publicadas na Ordem da Direcção do Serviço do Pessoal.
 
-###### Art. 96.º Os comandantes e directores ou chefes de unidades e serviços poderão indicar à 2.ª Repartição da Direcção do Serviço do Pessoal os sargentos e praças que pretendem que sejam incluídos nas suas guarnições, o que deverá ser satisfeito desde que desse destacamento não resulte prejuízo para o serviço ou para outros sargentos e praças, nem infracção às disposições em vigor sobre o movimento do pessoal.
+Art. 96.º Os comandantes e directores ou chefes de unidades e serviços poderão indicar à 2.ª Repartição da Direcção do Serviço do Pessoal os sargentos e praças que pretendem que sejam incluídos nas suas guarnições, o que deverá ser satisfeito desde que desse destacamento não resulte prejuízo para o serviço ou para outros sargentos e praças, nem infracção às disposições em vigor sobre o movimento do pessoal.
 
-###### Art. 97.º As direcções de serviços técnicos e organismos equivalentes poderão ser consultadas sobre o movimento dos sargentos e praças das classes que respeitam às respectivas actividades. Os mesmos organismos e os estabelecimentos de ensino poderão, por iniciativa própria, apresentar à Direcção do Serviço do Pessoal (2.ª Repartição) as sugestões que sobre o assunto julguem convenientes.
+Art. 97.º As direcções de serviços técnicos e organismos equivalentes poderão ser consultadas sobre o movimento dos sargentos e praças das classes que respeitam às respectivas actividades. Os mesmos organismos e os estabelecimentos de ensino poderão, por iniciativa própria, apresentar à Direcção do Serviço do Pessoal (2.ª Repartição) as sugestões que sobre o assunto julguem convenientes.
 
-###### Art. 98.º Como regra geral, as substituições dos sargentos e praças deverão realizar-se em épocas próprias - uma ou duas por ano -, a definir por despacho do chefe do Estado-Maior da Armada.
+Art. 98.º Como regra geral, as substituições dos sargentos e praças deverão realizar-se em épocas próprias - uma ou duas por ano -, a definir por despacho do chefe do Estado-Maior da Armada.
 
-###### Art. 99.º Os comandantes das forças navais, fora do porto de Lisboa, poderão transferir os sargentos e praças entre as unidades navais que lhes estão atribuídas. Igual faculdade poderá ser concedida por despacho do chefe do Estado-Maior da Armada aos comandantes de forças navais no porto de Lisboa.
+Art. 99.º Os comandantes das forças navais, fora do porto de Lisboa, poderão transferir os sargentos e praças entre as unidades navais que lhes estão atribuídas. Igual faculdade poderá ser concedida por despacho do chefe do Estado-Maior da Armada aos comandantes de forças navais no porto de Lisboa.
 
 § 1.º As deslocações de pessoal realizadas ao abrigo do disposto no corpo deste artigo serão imediatamente comunicadas à 2.ª Repartição da Direcção do Serviço do Pessoal.
 
@@ -1198,21 +1488,21 @@ h) Necessidade de satisfazer condições de promoção.
 
 § 3.º O disposto no corpo deste artigo e parágrafos anteriores é aplicável, nas mesmas condições, aos comandantes navais e de defesas marítimas territoriais relativamente às unidades navais que lhes estão atribuídas.
 
-###### Art. 100.º Os sargentos e praças necessários ao desempenho dos serviços da sua especialidade em organismos estranhos ao Ministério da Marinha podem ser nomeados, voluntária ou obrigatòriamente, para servirem nesses organismos.
+Art. 100.º Os sargentos e praças necessários ao desempenho dos serviços da sua especialidade em organismos estranhos ao Ministério da Marinha podem ser nomeados, voluntária ou obrigatòriamente, para servirem nesses organismos.
 
 § 1.º Quando se trate de nomeações que não devem ser feitas por escala, deverão ser atendidas, na medida do justo e do possível, as requisições nominais feitas pelos organismos interessados, desde que os sargentos ou praças sejam voluntários.
 
 § 2.º Quando for necessário ao serviço da Armada, será solicitado às autoridades respectivas o regresso dos sargentos e das praças que prestem serviço fora do Ministério da Marinha.
 
-###### Art. 101.º Devem ser mandados recolher ao Corpo de Marinheiros da Armada ou destacados para outras unidades ou serviços os sargentos e praças embarcados em navios a que esteja destinada longa comissão de serviço, desde que o tempo que lhes falta para completar os períodos de serviço obrigatório seja inferior à duração provável da comissão.
+Art. 101.º Devem ser mandados recolher ao Corpo de Marinheiros da Armada ou destacados para outras unidades ou serviços os sargentos e praças embarcados em navios a que esteja destinada longa comissão de serviço, desde que o tempo que lhes falta para completar os períodos de serviço obrigatório seja inferior à duração provável da comissão.
 
-###### Art. 102.º Os sargentos e praças a quem está sendo levantado auto, quando embarcados em navios surtos no porto de Lisboa, devem recolher ao Corpo de Marinheiros da Armada, sempre que o seu navio largue para comissão e a natureza do auto ou da comissão o justifique.
+Art. 102.º Os sargentos e praças a quem está sendo levantado auto, quando embarcados em navios surtos no porto de Lisboa, devem recolher ao Corpo de Marinheiros da Armada, sempre que o seu navio largue para comissão e a natureza do auto ou da comissão o justifique.
 
-###### Art. 103.º Recolhem ao Corpo de Marinheiros da Armada os sargentos e as praças com processo pendente no Tribunal da Marinha e os autuados pelas autoridades da Marinha.
+Art. 103.º Recolhem ao Corpo de Marinheiros da Armada os sargentos e as praças com processo pendente no Tribunal da Marinha e os autuados pelas autoridades da Marinha.
 
-###### Art. 104.º O comandante, director ou chefe pode, por sua iniciativa, mandar apresentar no Corpo de Marinheiros da Armada o sargento ou a praça castigado com prisão disciplinar agravada, sempre que o julgue necessário à disciplina. Se o castigo for dado em Lisboa, o sargento ou a praça será entregue sob prisão no Corpo de Marinheiros da Armada, onde cumprirá a pena. Fora de Lisboa, a natureza do delito indicará o caminho a seguir, mas, como regra, o destacamento para o Corpo só será efectuado em casos graves.
+Art. 104.º O comandante, director ou chefe pode, por sua iniciativa, mandar apresentar no Corpo de Marinheiros da Armada o sargento ou a praça castigado com prisão disciplinar agravada, sempre que o julgue necessário à disciplina. Se o castigo for dado em Lisboa, o sargento ou a praça será entregue sob prisão no Corpo de Marinheiros da Armada, onde cumprirá a pena. Fora de Lisboa, a natureza do delito indicará o caminho a seguir, mas, como regra, o destacamento para o Corpo só será efectuado em casos graves.
 
-###### Art. 105.º Quando qualquer sargento ou praça seja transferido, deverá ser portador de uma guia de marcha do modelo aprovado oficialmente.
+Art. 105.º Quando qualquer sargento ou praça seja transferido, deverá ser portador de uma guia de marcha do modelo aprovado oficialmente.
 
 § único. O organismo que destacar o sargento ou praça deve enviar uma cópia da guia para a 2.ª Repartição da Direcção do Serviço do Pessoal e o que recebe deve comunicar à mesma Repartição a data da sua apresentação.
 
@@ -1220,13 +1510,13 @@ h) Necessidade de satisfazer condições de promoção.
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 106.º Os cursos e instruções frequentados pelos sargentos e praças da Armada funcionam nas escolas e centros de instrução da Armada ou em unidades ou serviços para esse fim designados.
+Art. 106.º Os cursos e instruções frequentados pelos sargentos e praças da Armada funcionam nas escolas e centros de instrução da Armada ou em unidades ou serviços para esse fim designados.
 
 § único. Com autorização do Ministro da Marinha, os sargentos e praças da Armada podem ser nomeados para frequentar cursos em escolas estranhas ao Ministério da Marinha, nacionais ou estrangeiras.
 
-###### Art. 107.º O ensino ministrado nas escolas e centros de instrução apenas corresponde à parte básica da preparação militar, literária e técnica dos sargentos e das praças, competindo aos comandos e direcções das unidades e serviços onde aqueles prestam serviço completar e melhorar, de maneira contínua, a preparação militar e técnica do referido pessoal. Especialmente no que se refere a cursos de aplicação e de promoção a oficial, os sargentos e as praças devem, por si próprios, aumentar os seus conhecimentos literários e técnicos, de maneira a adquirirem o nível de preparação que a frequência daqueles cursos exige.
+Art. 107.º O ensino ministrado nas escolas e centros de instrução apenas corresponde à parte básica da preparação militar, literária e técnica dos sargentos e das praças, competindo aos comandos e direcções das unidades e serviços onde aqueles prestam serviço completar e melhorar, de maneira contínua, a preparação militar e técnica do referido pessoal. Especialmente no que se refere a cursos de aplicação e de promoção a oficial, os sargentos e as praças devem, por si próprios, aumentar os seus conhecimentos literários e técnicos, de maneira a adquirirem o nível de preparação que a frequência daqueles cursos exige.
 
-###### Art. 108.º Os cursos e instruções frequentados pelos sargentos e praças da Armada classificam-se em:
+Art. 108.º Os cursos e instruções frequentados pelos sargentos e praças da Armada classificam-se em:
 
 a) Cursos e instruções de ingresso nas classes;
 
@@ -1242,19 +1532,19 @@ f) Cursos de promoção a oficial.
 
 § único. Podem ainda ser organizados instruções ou cursos de natureza especial, como os de preparatórios para os cursos de alistamento e os complementares dos mesmos cursos.
 
-###### Art. 109.º As normas gerais por que serão reguladas as classificações nos cursos e instruções, a aprovação, a reprovação e a eliminação serão fixadas por portaria do Ministro da Marinha.
+Art. 109.º As normas gerais por que serão reguladas as classificações nos cursos e instruções, a aprovação, a reprovação e a eliminação serão fixadas por portaria do Ministro da Marinha.
 
-###### Art. 110.º A organização dos cursos e instruções, compreendendo os programas das disciplinas, tempos de aulas, horários, coeficientes, provas e outros elementos da mesma natureza, será fixada nos planos dos cursos e das instruções, os quais serão elaborados pelos respectivos estabelecimentos de ensino e submetidos à aprovação do director do Serviço do Pessoal, por intermédio da 5.ª Repartição da mesma Direcção.
+Art. 110.º A organização dos cursos e instruções, compreendendo os programas das disciplinas, tempos de aulas, horários, coeficientes, provas e outros elementos da mesma natureza, será fixada nos planos dos cursos e das instruções, os quais serão elaborados pelos respectivos estabelecimentos de ensino e submetidos à aprovação do director do Serviço do Pessoal, por intermédio da 5.ª Repartição da mesma Direcção.
 
 § único. Sempre que os planos respeitem a cursos ou instruções que pela primeira vez são ministrados, envolvam alterações de que resulte uma maior duração da permanência do pessoal nos estabelecimentos de ensino ou introduzam profundas alterações na natureza das matérias escolares deverá a Direcção do Serviço do Pessoal ouvir o Estado-Maior da Armada.
 
-###### Art. 111.º Anualmente a 2.ª Repartição da Direcção do Serviço do Pessoal submeterá à apreciação do director do Serviço do Pessoal os quantitativos dos sargentos e praças que devem frequentar os diversos cursos e instruções, tendo em conta as vacaturas previstas nos quadros, as deficiências existentes nos efectivos de cada classe e a capacidade dos estabelecimentos de ensino.
+Art. 111.º Anualmente a 2.ª Repartição da Direcção do Serviço do Pessoal submeterá à apreciação do director do Serviço do Pessoal os quantitativos dos sargentos e praças que devem frequentar os diversos cursos e instruções, tendo em conta as vacaturas previstas nos quadros, as deficiências existentes nos efectivos de cada classe e a capacidade dos estabelecimentos de ensino.
 
 Aqueles elementos, juntamente com os que respeitam a cursos para oficiais, serão apresentados pelo director do Serviço do Pessoal ao superintendente dos Serviços da Armada, que, antes de submeter o assunto à apreciação superior, deverá ouvir o Estado-Maior da Armada.
 
 #### SECÇÃO II — Cursos e instruções de ingresso nas classes
 
-###### Art. 112.º Os cursos e instruções de ingresso nas classes são os indicados no capítulo II e englobam os seguintes:
+Art. 112.º Os cursos e instruções de ingresso nas classes são os indicados no capítulo II e englobam os seguintes:
 
 a) Instrução de recruta (I. R.) e instrução técnica elementar (I. T. E.);
 
@@ -1274,29 +1564,29 @@ h) Curso de conversão para condutores de automóveis;
 
 i) Curso de conversão para mergulhadores.
 
-###### Art. 113.º Na instrução de recruta não há classificações nem eliminações.
+Art. 113.º Na instrução de recruta não há classificações nem eliminações.
 
-###### Art. 114.º Na instrução técnica elementar os instruendos são classificados, sendo eliminados os segundos-grumetes voluntários que fiquem ao abrigo do disposto na alínea b) do artigo 36.º
+Art. 114.º Na instrução técnica elementar os instruendos são classificados, sendo eliminados os segundos-grumetes voluntários que fiquem ao abrigo do disposto na alínea b) do artigo 36.º
 
-###### Art. 115.º Na instrução de clarim compete ao júri referido no artigo 39.º classificar os segundos-grumetes aprendizes de clarim e propor a eliminação dos que não atinjam o nível de preparação suficiente.
+Art. 115.º Na instrução de clarim compete ao júri referido no artigo 39.º classificar os segundos-grumetes aprendizes de clarim e propor a eliminação dos que não atinjam o nível de preparação suficiente.
 
-###### Art. 116.º Na instrução de taifa não há classificações.
+Art. 116.º Na instrução de taifa não há classificações.
 
-###### Art. 117.º Nos cursos de alistamento é de conversão as classificações e eliminações serão reguladas em conformidade com o indicado no artigo 109.º
+Art. 117.º Nos cursos de alistamento é de conversão as classificações e eliminações serão reguladas em conformidade com o indicado no artigo 109.º
 
 § único. Como regra geral, a duração dos cursos de alistamento não deve exceder dezoito meses.
 
-###### Art. 118.º Sempre que for julgado conveniente, serão organizados cursos preparatórios para a admissão aos cursos de alistamento, os quais serão frequentados pelas praças que para esse fim forem designadas, dando-se preferência aos voluntários, desde que satisfaçam aos requisitos indispensáveis.
+Art. 118.º Sempre que for julgado conveniente, serão organizados cursos preparatórios para a admissão aos cursos de alistamento, os quais serão frequentados pelas praças que para esse fim forem designadas, dando-se preferência aos voluntários, desde que satisfaçam aos requisitos indispensáveis.
 
 § único. A organização, funcionamento e condições de admissão aos cursos preparatórios serão regulados por despacho do Ministro da Marinha.
 
-###### Art. 119.º O ensino ministrado nos cursos de alistamento poderá ser completado pela frequência de cursos complementares.
+Art. 119.º O ensino ministrado nos cursos de alistamento poderá ser completado pela frequência de cursos complementares.
 
 § único. As classificações obtidas nos cursos referidos no corpo deste artigo são consideradas para efeito de correcção da ordem de antiguidades de que trata o artigo 43.º
 
 #### SECÇÃO III — Cursos de aplicação
 
-###### Art. 120.º Os cursos de aplicação destinam-se a preparar as praças para o desempenho de funções inerentes aos vários postos das suas classes. Existem dois graus nos cursos de aplicação:
+Art. 120.º Os cursos de aplicação destinam-se a preparar as praças para o desempenho de funções inerentes aos vários postos das suas classes. Existem dois graus nos cursos de aplicação:
 
 a) 1.º grau, que habilita os grumetes ao desempenho das funções que competem aos marinheiros;
 
@@ -1304,7 +1594,7 @@ b) 2.º grau, que habilita os cabos ao desempenho das funções que pertencem ao
 
 § único. A frequência, com aproveitamento, dos cursos de aplicação de 1.º e de 2.º grau constitui, respectivamente, uma das condições especiais de promoção aos postos de marinheiro e de segundo-sargento, nas classes em que tais cursos funcionam.
 
-###### Art. 121.º Existem cursos de 1.º grau nas seguintes classes:
+Art. 121.º Existem cursos de 1.º grau nas seguintes classes:
 
 a) Artilheiros;
 
@@ -1326,7 +1616,7 @@ i) Abastecimento;
 
 j) Fuzileiros.
 
-###### Art. 122.º Os cursos de 1.º grau são frequentados pelos primeiros-grumetes das respectivas classes, designados pela 2.ª Repartição da Direcção do Serviço do Pessoal, tendo em conta os seguintes factores relativos a cada praça:
+Art. 122.º Os cursos de 1.º grau são frequentados pelos primeiros-grumetes das respectivas classes, designados pela 2.ª Repartição da Direcção do Serviço do Pessoal, tendo em conta os seguintes factores relativos a cada praça:
 
 a) Melhor valorização na I. T. E., independentemente da incorporação a que pertença;
 
@@ -1338,17 +1628,17 @@ c) Melhores qualidades militares e profissionais, tendo em vista o seu aproveita
 
 § 2.º A nomeação dos segundos-grumetes para o curso de 1.º grau é feita por ordem de antiguidade das incorporações e, dentro de cada incorporação, tendo em conta a melhor valorização na I. T. E. e os factores das alíneas b) e c) do corpo deste artigo.
 
-###### Art. 123.º Sempre que haja conveniência para o serviço, o curso de 1.º grau de qualquer classe poderá ser ministrado seguidamente à instrução técnica elementar.
+Art. 123.º Sempre que haja conveniência para o serviço, o curso de 1.º grau de qualquer classe poderá ser ministrado seguidamente à instrução técnica elementar.
 
 § único. Quando se verificar o disposto no corpo deste artigo, os planos da I. T. E. e do curso de 1.º grau são elaborados tendo em conta essa circunstância e a conveniência de reduzir ao mínimo indispensável a permanência do pessoal nos estabelecimentos de ensino.
 
-###### Art. 124.º O chefe da 2.ª Repartição da Direcção do Serviço do Pessoal poderá autorizar a desistência da frequência dos cursos de aplicação de 1.º grau, mediante declaração, por escrito, do interessado.
+Art. 124.º O chefe da 2.ª Repartição da Direcção do Serviço do Pessoal poderá autorizar a desistência da frequência dos cursos de aplicação de 1.º grau, mediante declaração, por escrito, do interessado.
 
-###### Art. 125.º A requerimento do interessado, com parecer favorável do conselho escolar do respectivo estabelecimento de ensino, o director do Serviço do Pessoal poderá autorizar, por uma só vez, a repetição dos cursos de 1.º grau pelas praças que deles forem eliminadas por motivo de saúde ou por falta de aproveitamento.
+Art. 125.º A requerimento do interessado, com parecer favorável do conselho escolar do respectivo estabelecimento de ensino, o director do Serviço do Pessoal poderá autorizar, por uma só vez, a repetição dos cursos de 1.º grau pelas praças que deles forem eliminadas por motivo de saúde ou por falta de aproveitamento.
 
 § único. A autorização a que se refere o corpo deste artigo não implica a permanência das praças no activo, em condições diferentes das fixadas neste estatuto.
 
-###### Art. 126.º Funcionam cursos de aplicação de 2.º grau nas seguintes classes:
+Art. 126.º Funcionam cursos de aplicação de 2.º grau nas seguintes classes:
 
 a) Artilheiros;
 
@@ -1374,13 +1664,13 @@ k) Mergulhadores;
 
 l) Fuzileiros.
 
-###### Art. 127.º Os cursos de 2.º grau são frequentados pelas praças que tenham sido aprovadas num exame de admissão.
+Art. 127.º Os cursos de 2.º grau são frequentados pelas praças que tenham sido aprovadas num exame de admissão.
 
-###### Art. 128.º Compete à 2.ª Repartição da Direcção do Serviço do Pessoal nomear as praças que devem ser submetidas ao exame referido no artigo anterior. A nomeação será feita por ordem decrescente de antiguidades dos cabos que satisfaçam às restantes condições de promoção a segundo-sargento.
+Art. 128.º Compete à 2.ª Repartição da Direcção do Serviço do Pessoal nomear as praças que devem ser submetidas ao exame referido no artigo anterior. A nomeação será feita por ordem decrescente de antiguidades dos cabos que satisfaçam às restantes condições de promoção a segundo-sargento.
 
 § único. Na falta de cabos nas condições referidas no corpo deste artigo poderão ser admitidos àquele exame cabos sem as outras condições de promoção e, na falta destes, marinheiros já aprovados no exame para cabo.
 
-###### Art. 129.º Não devem ser nomeados para a frequência do curso de 2.º grau as praças que:
+Art. 129.º Não devem ser nomeados para a frequência do curso de 2.º grau as praças que:
 
 a) Hajam desistido, por declaração escrita, da sua frequência;
 
@@ -1394,41 +1684,41 @@ d) Estejam impedidas de recondução.
 
 #### SECÇÃO IV — Cursos de especialização
 
-###### Art. 130.º Os cursos de especialização são os referidos no artigo 10.º
+Art. 130.º Os cursos de especialização são os referidos no artigo 10.º
 
 § único. Pode ser dada equivalência aos cursos de especialização, por despacho do Ministro da Marinha, de cursos frequentados em escolas estranhas ao Ministério da Marinha, nacionais ou estrangeiras.
 
-###### Art. 131.º Os cursos de especialização são em regra frequentados por voluntários, seleccionados segundo normas adequadas a cada especialização. Na falta de voluntários as nomeações serão feitas por imposição do serviço, de acordo com regras a fixar por despacho do Ministro da Marinha.
+Art. 131.º Os cursos de especialização são em regra frequentados por voluntários, seleccionados segundo normas adequadas a cada especialização. Na falta de voluntários as nomeações serão feitas por imposição do serviço, de acordo com regras a fixar por despacho do Ministro da Marinha.
 
 § único. Por despacho do Ministro da Marinha poderão ser estabelecidas as causas de inaptidão para o serviço das especializações.
 
 #### SECÇÃO V — Cursos e instruções de aperfeiçoamento
 
-###### Art. 132.º Para atender as necessidades do serviço os sargentos e as praças podem ser nomeados para frequentar cursos e instruções de aperfeiçoamento que os habilitem ao desempenho de determinados serviços, como dactilografia, mergulhadores-vigias, condutores de viaturas automóveis e outros, que melhorem a sua preparação em certas actividades navais ou que os preparem para operar determinados tipos de material.
+Art. 132.º Para atender as necessidades do serviço os sargentos e as praças podem ser nomeados para frequentar cursos e instruções de aperfeiçoamento que os habilitem ao desempenho de determinados serviços, como dactilografia, mergulhadores-vigias, condutores de viaturas automóveis e outros, que melhorem a sua preparação em certas actividades navais ou que os preparem para operar determinados tipos de material.
 
-###### Art. 133.º Os cursos e instruções de aperfeiçoamento podem ser ministrados nos estabelecimentos de ensino da Armada, nas unidades ou serviços ou em escolas estranhas ao Ministério da Marinha, nacionais ou estrangeiras.
+Art. 133.º Os cursos e instruções de aperfeiçoamento podem ser ministrados nos estabelecimentos de ensino da Armada, nas unidades ou serviços ou em escolas estranhas ao Ministério da Marinha, nacionais ou estrangeiras.
 
-###### Art. 134.º Os cursos e instruções de aperfeiçoamento serão identificados por letras designativas a fixar pela Direcção do Serviço do Pessoal.
+Art. 134.º Os cursos e instruções de aperfeiçoamento serão identificados por letras designativas a fixar pela Direcção do Serviço do Pessoal.
 
 #### SECÇÃO VI — Cursos de actualização
 
-###### Art. 135.º Os cursos de actualização destinam-se a actualizar os conhecimentos dos sargentos e praças para o desempenho das funções que competem aos seus postos e classes.
+Art. 135.º Os cursos de actualização destinam-se a actualizar os conhecimentos dos sargentos e praças para o desempenho das funções que competem aos seus postos e classes.
 
-###### Art. 136.º Os cursos de actualização funcionarão por determinação do director do Serviço do Pessoal, que fixará a duração e demais condições de funcionamento. Podem propor o seu funcionamento o chefe da 2.ª Repartição da Direcção do Serviço do Pessoal, os directores dos serviços interessados ou os respectivos estabelecimentos de ensino.
+Art. 136.º Os cursos de actualização funcionarão por determinação do director do Serviço do Pessoal, que fixará a duração e demais condições de funcionamento. Podem propor o seu funcionamento o chefe da 2.ª Repartição da Direcção do Serviço do Pessoal, os directores dos serviços interessados ou os respectivos estabelecimentos de ensino.
 
 #### SECÇÃO VII — Cursos de promoção a oficial
 
-###### Art. 137.º O curso geral de sargentos destina-se a habilitar os sargentos da Armada à promoção a subtenente da classe do serviço geral.
+Art. 137.º O curso geral de sargentos destina-se a habilitar os sargentos da Armada à promoção a subtenente da classe do serviço geral.
 
-###### Art. 138.º Compete à 2.ª Repartição da Direcção do Serviço do Pessoal nomear os sargentos-ajudantes e os primeiros-sargentos que satisfaçam às condições de promoção a sargento-ajudante para a frequência do curso geral de sargentos, dentro das percentagens que forem atribuídas a cada classe e, em cada classe, por ordem decrescente de postos e antiguidades.
+Art. 138.º Compete à 2.ª Repartição da Direcção do Serviço do Pessoal nomear os sargentos-ajudantes e os primeiros-sargentos que satisfaçam às condições de promoção a sargento-ajudante para a frequência do curso geral de sargentos, dentro das percentagens que forem atribuídas a cada classe e, em cada classe, por ordem decrescente de postos e antiguidades.
 
 § 1.º Para efeitos do disposto no corpo deste artigo não são considerados os sargentos clarins e os sargentos músicos.
 
 § 2.º As percentagens a que se refere o corpo deste artigo serão estabelecidas, mediante proposta da Direcção do Serviço do Pessoal, ouvido o Estado-Maior da Armada, por despacho do Ministro da Marinha, publicado na Ordem da Direcção do Serviço do Pessoal.
 
-###### Art. 139.º A frequência do curso geral de sargentos é precedida de um exame de admissão com carácter eliminatório.
+Art. 139.º A frequência do curso geral de sargentos é precedida de um exame de admissão com carácter eliminatório.
 
-###### Art. 140.º Não podem ser nomeados para a frequência do curso geral de sargentos os sargentos que:
+Art. 140.º Não podem ser nomeados para a frequência do curso geral de sargentos os sargentos que:
 
 a) Já tenham sido excluídos do referido curso por falta de aproveitamento;
 
@@ -1442,17 +1732,17 @@ e) Tenham mais de 56 anos de idade ou perfaçam esta idade antes de concluírem 
 
 § único. Os sargentos-ajudantes e primeiros-sargentos podem, por declaração escrita, desistir da frequência do curso geral de sargentos.
 
-###### Art. 141.º A admissão dos sargentos e praças da Armada a outros cursos de formação de oficiais será regulada por portaria do Ministro da Marinha na parte que não constar do Estatuto dos Oficiais da Armada.
+Art. 141.º A admissão dos sargentos e praças da Armada a outros cursos de formação de oficiais será regulada por portaria do Ministro da Marinha na parte que não constar do Estatuto dos Oficiais da Armada.
 
 #### SECÇÃO VIII — Adiamento de cursos e instruções
 
-###### Art. 142.º É adiada a frequência da instrução técnica elementar, dos cursos de aplicação e do curso geral de sargentos às praças e sargentos que estejam impedidos de o fazer por motivo imperioso de serviço.
+Art. 142.º É adiada a frequência da instrução técnica elementar, dos cursos de aplicação e do curso geral de sargentos às praças e sargentos que estejam impedidos de o fazer por motivo imperioso de serviço.
 
 § único. O mesmo adiamento será concedido aos cursos de especialização e actualização, quando nas condições do artigo 168.º
 
 #### SECÇÃO IX — Exame para a promoção a cabo
 
-###### Art. 143.º A aprovação num exame, de feição essencialmente prática e versando sobre matéria de carácter profissional, constitui uma das condições especiais de promoção a cabo das seguintes classes:
+Art. 143.º A aprovação num exame, de feição essencialmente prática e versando sobre matéria de carácter profissional, constitui uma das condições especiais de promoção a cabo das seguintes classes:
 
 a) Artilheiros;
 
@@ -1478,25 +1768,25 @@ k) Mergulhadores;
 
 l) Fuzileiros.
 
-###### Art. 144.º Os exames serão realizados, normalmente, no princípio de cada semestre e os respectivos programas serão elaborados pelos estabelecimentos de ensino responsáveis pela preparação do pessoal das classes referidas no artigo anterior e submetidos à aprovação do director do Serviço do Pessoal.
+Art. 144.º Os exames serão realizados, normalmente, no princípio de cada semestre e os respectivos programas serão elaborados pelos estabelecimentos de ensino responsáveis pela preparação do pessoal das classes referidas no artigo anterior e submetidos à aprovação do director do Serviço do Pessoal.
 
-###### Art. 145.º Os marinheiros que devem ser submetidos a exame serão designados pela 2.ª Repartição da Direcção do Serviço do Pessoal, tendo em conta o preenchimento das vacaturas para o respectivo semestre, com uma suficiente margem de segurança.
+Art. 145.º Os marinheiros que devem ser submetidos a exame serão designados pela 2.ª Repartição da Direcção do Serviço do Pessoal, tendo em conta o preenchimento das vacaturas para o respectivo semestre, com uma suficiente margem de segurança.
 
-###### Art. 146.º Os marinheiros que forem reprovados no exame poderão repeti-lo no ano seguinte. Desde que reprovem pela segunda vez, serão passados à reserva A, com ou sem direito a pensão, logo que terminarem os períodos de recondução.
+Art. 146.º Os marinheiros que forem reprovados no exame poderão repeti-lo no ano seguinte. Desde que reprovem pela segunda vez, serão passados à reserva A, com ou sem direito a pensão, logo que terminarem os períodos de recondução.
 
 ### CAPÍTULO VI — Promoções
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 147.º As promoções dos sargentos e das praças da Armada são realizadas, segundo o ordenamento hierárquico, de posto em posto.
+Art. 147.º As promoções dos sargentos e das praças da Armada são realizadas, segundo o ordenamento hierárquico, de posto em posto.
 
-###### Art. 148.º Para que os sargentos e praças possam ser promovidos é necessário que satisfaçam a determinadas condições, designadas por condições de promoção, a menos que se trate de promoções por distinção.
+Art. 148.º Para que os sargentos e praças possam ser promovidos é necessário que satisfaçam a determinadas condições, designadas por condições de promoção, a menos que se trate de promoções por distinção.
 
-###### Art. 149.º A 2.ª Repartição da Direcção do Serviço do Pessoal providenciará para que exista sempre o número de sargentos e praças com as condições de promoção necessárias para o preenchimento das vacaturas prováveis nos quadros.
+Art. 149.º A 2.ª Repartição da Direcção do Serviço do Pessoal providenciará para que exista sempre o número de sargentos e praças com as condições de promoção necessárias para o preenchimento das vacaturas prováveis nos quadros.
 
 #### SECÇÃO II — Sistemas de promoção
 
-###### Art. 150.º Nas promoções dos sargentos e praças da Armada são adoptados os seguintes sistemas:
+Art. 150.º Nas promoções dos sargentos e praças da Armada são adoptados os seguintes sistemas:
 
 a) Diuturnidade;
 
@@ -1516,7 +1806,7 @@ f) Distinção.
 
 § 3.º Os sargentos e praças que sejam promovidos por diuturnidade, por distinção ou por ingressarem nas classes e que não tenham vacatura nos respectivos quadros dos postos ficam na situação de supranumerários até que ocorra vacatura.
 
-###### Art. 151.º A promoção por diuturnidade apenas tem lugar na promoção a primeiro-grumete das classes a seguir indicadas, quando os segundos-grumetes completem dezoito meses de permanência neste posto:
+Art. 151.º A promoção por diuturnidade apenas tem lugar na promoção a primeiro-grumete das classes a seguir indicadas, quando os segundos-grumetes completem dezoito meses de permanência neste posto:
 
 a) Artilheiros;
 
@@ -1538,7 +1828,7 @@ i) Abastecimento;
 
 j) Fuzileiros.
 
-###### Art. 152.º A promoção por classificação em cursos tem lugar:
+Art. 152.º A promoção por classificação em cursos tem lugar:
 
 a) Na promoção a marinheiro das classes em que a frequência com aproveitamento do curso de aplicação de 1.º grau constitui uma condição de promoção;
 
@@ -1552,19 +1842,19 @@ d) Quando o ingresso nas classes é feito num posto superior e mediante a frequ�
 
 Nas promoções a que se refere a alínea b), em cada três vacaturas duas são preenchidas nas condições atrás referidas e a terceira pelo melhor classificado, independentemente da ordem cronológica dos cursos.
 
-###### Art. 153.º A promoção por escolha tem lugar:
+Art. 153.º A promoção por escolha tem lugar:
 
 a) Na promoção a cabo das classes referidas no artigo 151.º e das classes dos condutores de automóveis e dos mergulhadores;
 
 b) Na promoção a primeiro-sargento de todas as classes, com excepção dos músicos e dos clarins.
 
-###### Art. 154.º A escolha é realizada por conselhos de promoções nomeados pelo director do Serviço do Pessoal e constituídos pelo chefe da 2.ª Repartição da Direcção do Serviço do Pessoal, como presidente, por um oficial designado pelo superintendente dos Serviços da Armada, de preferência entre os oficiais das direcções de serviços técnicos ou outros organismos, a cujas actividades interessem as classes do pessoal a promover, e por um oficial da 2.ª Repartição atrás referida, que servirá de secretário.
+Art. 154.º A escolha é realizada por conselhos de promoções nomeados pelo director do Serviço do Pessoal e constituídos pelo chefe da 2.ª Repartição da Direcção do Serviço do Pessoal, como presidente, por um oficial designado pelo superintendente dos Serviços da Armada, de preferência entre os oficiais das direcções de serviços técnicos ou outros organismos, a cujas actividades interessem as classes do pessoal a promover, e por um oficial da 2.ª Repartição atrás referida, que servirá de secretário.
 
 § único. O director do Serviço do Pessoal determinará as classes que serão apreciadas por cada conselho de promoções.
 
-###### Art. 155.º Os conselhos de promoções escolhem os sargentos e praças a promover, tendo em atenção a necessidade de acelerar o acesso dos mais aptos aos postos mais elevados. A escolha será realizada com base nas informações, nos registos disciplinares, nas classificações obtidas em cursos, instruções e exames e em todos os outros elementos de que disponham.
+Art. 155.º Os conselhos de promoções escolhem os sargentos e praças a promover, tendo em atenção a necessidade de acelerar o acesso dos mais aptos aos postos mais elevados. A escolha será realizada com base nas informações, nos registos disciplinares, nas classificações obtidas em cursos, instruções e exames e em todos os outros elementos de que disponham.
 
-###### Art. 156.º A promoção por antiguidade tem lugar:
+Art. 156.º A promoção por antiguidade tem lugar:
 
 a) Na promoção a marinheiro da classe dos condutores de automóveis;
 
@@ -1576,7 +1866,7 @@ d) Na promoção a segundo-sargento das classes dos artífices, carpinteiros e e
 
 A promoção por antiguidade é feita por ordem decrescente da antiguidade dos sargentos e praças.
 
-###### Art. 157.º A promoção por concurso tem lugar:
+Art. 157.º A promoção por concurso tem lugar:
 
 a) Na promoção a primeiro-criado;
 
@@ -1598,17 +1888,17 @@ f) Quando o ingresso nas classes é feito num posto superior, mediante concurso.
 
 § 4.º Aos concursos apenas podem ser admitidos os sargentos e praças que satisfaçam às condições de promoção.
 
-###### Art. 158.º Os concursos referidos no artigo anterior são abertos na 2.ª Repartição da Direcção do Serviço do Pessoal e têm a validade de um ano.
+Art. 158.º Os concursos referidos no artigo anterior são abertos na 2.ª Repartição da Direcção do Serviço do Pessoal e têm a validade de um ano.
 
-###### Art. 159.º As normas e programas dos concursos, depois de aprovados pelo director do Serviço do Pessoal, são publicados na Ordem da Direcção do Serviço do Pessoal, pelo menos três meses antes da data da abertura do concurso.
+Art. 159.º As normas e programas dos concursos, depois de aprovados pelo director do Serviço do Pessoal, são publicados na Ordem da Direcção do Serviço do Pessoal, pelo menos três meses antes da data da abertura do concurso.
 
-###### Art. 160.º Quando nos concursos para músicos não seja apurado número suficiente de músicos da Armada para preenchimento das vacaturas existentes, abrir-se-á novo concurso, pelo espaço de 30 dias, ao qual serão admitidos músicos militares estranhos à Armada ou músicos civis.
+Art. 160.º Quando nos concursos para músicos não seja apurado número suficiente de músicos da Armada para preenchimento das vacaturas existentes, abrir-se-á novo concurso, pelo espaço de 30 dias, ao qual serão admitidos músicos militares estranhos à Armada ou músicos civis.
 
-###### Art. 161.º Quando, depois de realizados os concursos referidos no artigo anterior, ainda fiquem vacaturas por preencher, estas poderão ser preenchidas por músicos transferidos do Exército ou da Força Aérea, mediante proposta do chefe da banda e solicitação do Ministro da Marinha ao Ministro do Exército ou ao Secretário de Estado da Aeronáutica.
+Art. 161.º Quando, depois de realizados os concursos referidos no artigo anterior, ainda fiquem vacaturas por preencher, estas poderão ser preenchidas por músicos transferidos do Exército ou da Força Aérea, mediante proposta do chefe da banda e solicitação do Ministro da Marinha ao Ministro do Exército ou ao Secretário de Estado da Aeronáutica.
 
 § único. Nas condições referidas no corpo deste artigo só podem ser admitidos músicos do instrumento e com a graduação para que foi aberto o concurso e que satisfaçam às condições nele estabelecidas, com excepção da prestação de provas.
 
-###### Art. 162.º A promoção por distinção destina-se a premiar actos de extraordinária bravura, praticados com risco da própria vida. A promoção por distinção pode resultar:
+Art. 162.º A promoção por distinção destina-se a premiar actos de extraordinária bravura, praticados com risco da própria vida. A promoção por distinção pode resultar:
 
 a) De iniciativa do Ministro da Marinha;
 
@@ -1626,7 +1916,7 @@ c) De proposta dos comandantes ou chefes sob cujas ordens os sargentos e praças
 
 ##### SUBSECÇÃO I — Disposições gerais
 
-###### Art. 163.º As condições de promoção dos sargentos e praças da Armada classificam-se em:
+Art. 163.º As condições de promoção dos sargentos e praças da Armada classificam-se em:
 
 a) Condições gerais;
 
@@ -1634,7 +1924,7 @@ b) Condições especiais.
 
 ##### SUBSECÇÃO II — Condições gerais
 
-###### Art. 164.º As condições gerais, que são comuns a todas as classes e a todos os postos, são as seguintes:
+Art. 164.º As condições gerais, que são comuns a todas as classes e a todos os postos, são as seguintes:
 
 1.ª Ter bom comportamento;
 
@@ -1656,13 +1946,13 @@ b) Condições especiais.
 
 § 4.º Quando por motivos especiais não seja possível a verificação da condição 6.ª, pode o Ministro da Marinha, por despacho fundamentado, publicado na Ordem da Direcção do Serviço do Pessoal, dispensar essa verificação.
 
-###### Art. 165.º Os sargentos e praças que não forem promovidos por não satisfazerem à condição 2.ª de promoção indicada no artigo anterior serão passados à reserva A ou reformados.
+Art. 165.º Os sargentos e praças que não forem promovidos por não satisfazerem à condição 2.ª de promoção indicada no artigo anterior serão passados à reserva A ou reformados.
 
-###### Art. 166.º Os sargentos ou praças que não forem promovidos por não satisfazerem a qualquer das condições 1.ª, 3.ª, 4.ª e 5.ª indicadas no artigo 164.º serão passados à reserva A desde que no prazo de dois anos, contado a partir da data de preterição, não tenham obtido informações que demonstrem terem deixado de subsistir os motivos que provocaram a preterição.
+Art. 166.º Os sargentos ou praças que não forem promovidos por não satisfazerem a qualquer das condições 1.ª, 3.ª, 4.ª e 5.ª indicadas no artigo 164.º serão passados à reserva A desde que no prazo de dois anos, contado a partir da data de preterição, não tenham obtido informações que demonstrem terem deixado de subsistir os motivos que provocaram a preterição.
 
 ##### SUBSECÇÃO III — Condições especiais de promoção
 
-###### Art. 167.º As condições especiais de promoção dos sargentos e praças compreendem:
+Art. 167.º As condições especiais de promoção dos sargentos e praças compreendem:
 
 1.ª Tempo de serviço efectivo no posto;
 
@@ -1680,9 +1970,9 @@ b) Tempo de navegação.
 
 6.ª Outras condições de natureza específica das classes.
 
-###### Art. 168.º Por despacho do Ministro da Marinha pode tornar-se causa impeditiva de promoção a não habilitação dos sargentos e praças com cursos de especialização ou de actualização para cuja frequência tenham sido nomeados.
+Art. 168.º Por despacho do Ministro da Marinha pode tornar-se causa impeditiva de promoção a não habilitação dos sargentos e praças com cursos de especialização ou de actualização para cuja frequência tenham sido nomeados.
 
-###### Art. 169.º As condições especiais de promoção são fixadas no quadro n.º 2 incluído neste estatuto.
+Art. 169.º As condições especiais de promoção são fixadas no quadro n.º 2 incluído neste estatuto.
 
 § 1.º As condições especiais de promoção têm de ser realizadas durante a prestação de serviço efectivo, definida no corpo do artigo 73.º, mas o tempo de inactividade temporária apenas é contado para satisfação da condição 1.ª indicada no artigo 167.º
 
@@ -1690,7 +1980,7 @@ b) Tempo de navegação.
 
 #### SECÇÃO IV — Outras disposições
 
-###### Art. 170.º Compete à 2.ª Repartição da Direcção do Serviço do Pessoal tomar as necessárias providências para que os sargentos e praças possam satisfazer as condições especiais de promoção em devido tempo.
+Art. 170.º Compete à 2.ª Repartição da Direcção do Serviço do Pessoal tomar as necessárias providências para que os sargentos e praças possam satisfazer as condições especiais de promoção em devido tempo.
 
 § 1.º Os sargentos ou praças que, por motivo imperioso de serviço, ainda não tenham satisfeito as condições especiais de promoção na data em que esta lhes competir, ficam na situação de demorados na promoção, indo ocupar, quando depois de satisfazerem aquelas condições forem promovidos, a posição que lhes competiria na escala de antiguidades se as referidas condições tivessem sido satisfeitas oportunamente.
 
@@ -1698,7 +1988,7 @@ b) Tempo de navegação.
 
 § 3.º Logo que um sargento ou praça seja considerado na situação de demorado ou preterido, deverá tal facto ser publicado na Ordem da Direcção do Serviço do Pessoal. Anualmente a mesma Ordem publicará a relação, referida a 1 de Janeiro, dos sargentos e praças que se encontram naquelas situações.
 
-###### Art. 171.º Para efeitos do disposto no artigo anterior deverá a 2.ª Repartição da Direcção do Serviço do Pessoal:
+Art. 171.º Para efeitos do disposto no artigo anterior deverá a 2.ª Repartição da Direcção do Serviço do Pessoal:
 
 a) Determinar o adequado movimento dos sargentos e praças, de maneira que tenham possibilidade de satisfazer as condições especiais de promoção antes de esta lhes competir;
 
@@ -1708,23 +1998,23 @@ c) Não autorizar que os sargentos e praças que prestam serviço fora do contin
 
 § único. O pessoal que tenha apresentado as declarações a que se referem as alíneas b) e c) do corpo deste artigo não pode, em quaisquer condições, ser considerado ao abrigo do disposto no § 1.º do artigo 170.º
 
-###### Art. 172.º Aos sargentos e praças que sejam considerados ao abrigo do disposto no § 1.º do artigo 170.º é adiada a frequência dos cursos referidos no artigo 142.º enquanto se mantiverem nessa situação, e bem assim o exame a que se refere o artigo 143.º
+Art. 172.º Aos sargentos e praças que sejam considerados ao abrigo do disposto no § 1.º do artigo 170.º é adiada a frequência dos cursos referidos no artigo 142.º enquanto se mantiverem nessa situação, e bem assim o exame a que se refere o artigo 143.º
 
 § único. As classificações que obtiverem nos cursos que vierem a frequentar são consideradas como obtidas nos cursos que deveriam ter frequentado, para efeitos de definição da sua posição na escala de antiguidades.
 
-###### Art. 173.º Os sargentos e praças que sejam considerados ao abrigo do disposto no § 1.º do artigo 170.º são submetidos à escolha dos conselhos de promoções para efeitos do disposto no artigo 153.º quando tal lhes competir, a fim de os mesmos conselhos definirem a posição que deverão ocupar nas escalas de antiguidades quando forem promovidos.
+Art. 173.º Os sargentos e praças que sejam considerados ao abrigo do disposto no § 1.º do artigo 170.º são submetidos à escolha dos conselhos de promoções para efeitos do disposto no artigo 153.º quando tal lhes competir, a fim de os mesmos conselhos definirem a posição que deverão ocupar nas escalas de antiguidades quando forem promovidos.
 
-###### Art. 174.º Os sargentos e praças que tenham ficado demorados ou preteridos na promoção serão promovidos depois de satisfazerem as condições de promoção na primeira vacatura que ocorra.
+Art. 174.º Os sargentos e praças que tenham ficado demorados ou preteridos na promoção serão promovidos depois de satisfazerem as condições de promoção na primeira vacatura que ocorra.
 
 § 1.º Havendo supranumerários, a promoção só terá lugar depois de estes entrarem nos quadros.
 
 § 2.º Quando houver mais de um sargento ou praça aguardando vacatura no mesmo quadro será promovido em primeiro lugar o que há mais tempo tiver concluído as condições de promoção.
 
-###### Art. 175.º Por proposta do director do Serviço do Pessoal, o Ministro da Marinha pode, por despacho fundamentado e publicado na Ordem da Direcção do Serviço do Pessoal, dispensar, por conveniência excepcional do serviço da Armada, dos tirocínios num só posto qualquer sargento ou praça da Armada.
+Art. 175.º Por proposta do director do Serviço do Pessoal, o Ministro da Marinha pode, por despacho fundamentado e publicado na Ordem da Direcção do Serviço do Pessoal, dispensar, por conveniência excepcional do serviço da Armada, dos tirocínios num só posto qualquer sargento ou praça da Armada.
 
-###### Art. 176.º Os primeiros-grumetes que não logrem promoção a marinheiro até quatro anos depois da data fixada para a incorporação a que pertencem perdem o direito a essa promoção no activo.
+Art. 176.º Os primeiros-grumetes que não logrem promoção a marinheiro até quatro anos depois da data fixada para a incorporação a que pertencem perdem o direito a essa promoção no activo.
 
-###### Art. 177.º Os primeiros-grumetes que percam o direito à promoção a marinheiro no activo passam à reserva A logo que tenham completado o serviço militar obrigatório.
+Art. 177.º Os primeiros-grumetes que percam o direito à promoção a marinheiro no activo passam à reserva A logo que tenham completado o serviço militar obrigatório.
 
 § 1.º Na data da passagem à reserva serão promovidos a marinheiro os primeiros-grumetes que satisfaçam às condições de promoção no activo.
 
@@ -1732,15 +2022,15 @@ c) Não autorizar que os sargentos e praças que prestam serviço fora do contin
 
 § 3.º Os primeiros-grumetes a que se refere o corpo deste artigo que estejam frequentando cursos de alistamento ou de preparatórios a estes cursos e cursos de conversão são mantidos no activo até ingressarem nas novas classes, sendo imediatamente passados à reserva os que sejam excluídos dos referidos cursos.
 
-###### Art. 178.º Os primeiros-grumetes e marinheiros reservistas a que se refere o artigo anterior e seus parágrafos podem, caso sejam voluntários e assim convenha ao serviço, continuar a prestar serviço efectivo, por períodos anuais, até ao máximo de três períodos.
+Art. 178.º Os primeiros-grumetes e marinheiros reservistas a que se refere o artigo anterior e seus parágrafos podem, caso sejam voluntários e assim convenha ao serviço, continuar a prestar serviço efectivo, por períodos anuais, até ao máximo de três períodos.
 
-###### Art. 179.º As condições em que se realizam as promoções dos sargentos e praças prisioneiros serão fixadas por portaria do Ministro da Marinha, na parte que não constar na legislação comum aos três ramos das Forças Armadas.
+Art. 179.º As condições em que se realizam as promoções dos sargentos e praças prisioneiros serão fixadas por portaria do Ministro da Marinha, na parte que não constar na legislação comum aos três ramos das Forças Armadas.
 
 ### CAPÍTULO VII — Disposições diversas
 
 #### SECÇÃO I — Licenças
 
-###### Art. 180.º Aos sargentos e praças podem ser concedidas as seguintes licenças:
+Art. 180.º Aos sargentos e praças podem ser concedidas as seguintes licenças:
 
 a) As estabelecidas no Regulamento de Disciplina Militar;
 
@@ -1754,7 +2044,7 @@ d) Registada.
 
 § 2.º O tempo de embarque e as horas de navegação, que constituem condições especiais de promoção, não podem ser contados enquanto os sargentos e praças se encontram nas situações de licença disciplinar, de licença por serviço no ultramar ou de licença registada.
 
-###### Art. 181.º A licença disciplinar é requerida pelos interessados, competindo ao chefe da 2.ª Repartição da Direcção do Serviço do Pessoal despachar os requerimentos. Pertence aos comandantes ou chefes autorizar que o pessoal entre na situação de licença disciplinar e regular a maneira como a mesma pode ser usada.
+Art. 181.º A licença disciplinar é requerida pelos interessados, competindo ao chefe da 2.ª Repartição da Direcção do Serviço do Pessoal despachar os requerimentos. Pertence aos comandantes ou chefes autorizar que o pessoal entre na situação de licença disciplinar e regular a maneira como a mesma pode ser usada.
 
 § 1.º A licença disciplinar só deverá ser concedida decorridos dois anos sobre a data da incorporação na Armada do sargento ou praça.
 
@@ -1768,17 +2058,17 @@ d) Registada.
 
 3.º Aos que tenham requerido para a usar fora da localidade onde estejam prestando serviço.
 
-###### Art. 182.º As licenças propostas pela Junta de Saúde Naval, de harmonia com o disposto no Regulamento de Saúde Naval, são também concedidas pelo chefe da 2.ª Repartição da Direcção do Serviço do Pessoal.
+Art. 182.º As licenças propostas pela Junta de Saúde Naval, de harmonia com o disposto no Regulamento de Saúde Naval, são também concedidas pelo chefe da 2.ª Repartição da Direcção do Serviço do Pessoal.
 
 § 1.º Fora do continente, as licenças propostas pela junta de saúde de comandos, forças ou unidades são concedidas pelos respectivos comandantes e consideradas como licenças da Junta de Saúde Naval.
 
 § 2.º As licenças da Junta de Saúde Naval começam a ser contadas no dia seguinte ao da sua publicação na Ordem da Direcção do Serviço do Pessoal ou, nos casos previstos no parágrafo anterior, na ordem do comando, força ou unidade.
 
-###### Art. 183.º A licença para convalescer arbitrada pelos médicos do Hospital da Marinha é concedida pelos comandos ou direcções de unidades ou serviços e é considerada como licença da Junta de Saúde Naval.
+Art. 183.º A licença para convalescer arbitrada pelos médicos do Hospital da Marinha é concedida pelos comandos ou direcções de unidades ou serviços e é considerada como licença da Junta de Saúde Naval.
 
-###### Art. 184.º A licença disciplinar é reduzida do número de dias de licença da Junta de Saúde Naval e da licença para convalescer a que se refere o artigo anterior, usados no mesmo ano civil.
+Art. 184.º A licença disciplinar é reduzida do número de dias de licença da Junta de Saúde Naval e da licença para convalescer a que se refere o artigo anterior, usados no mesmo ano civil.
 
-###### Art. 185.º A licença por serviço no ultramar é atribuída como recompensa do serviço prestado nas províncias ultramarinas. Esta licença corresponde a 7 dias por cada semestre completo de comissão no ultramar, até ao máximo de 60 dias, e é gozada com os vencimentos metropolitanos.
+Art. 185.º A licença por serviço no ultramar é atribuída como recompensa do serviço prestado nas províncias ultramarinas. Esta licença corresponde a 7 dias por cada semestre completo de comissão no ultramar, até ao máximo de 60 dias, e é gozada com os vencimentos metropolitanos.
 
 § 1.º À licença por serviço no ultramar é aplicável o disposto no corpo do artigo 181.º
 
@@ -1786,31 +2076,31 @@ d) Registada.
 
 § 3.º No caso de a licença por serviço no ultramar não ser usada na metrópole, a mesma não deve implicar qualquer aumento de despesa com vencimentos ou transportes.
 
-###### Art. 186.º A licença registada é usada sem vencimentos e pode ser concedida por tempo não inferior a 30 dias nem superior a 90 dias, em cada ano civil, pelo chefe da 2.ª Repartição da Direcção do Serviço do Pessoal, aos sargentos e praças reconduzidos que a requeiram, possam ser dispensados do serviço e justifiquem dela ter necessidade.
+Art. 186.º A licença registada é usada sem vencimentos e pode ser concedida por tempo não inferior a 30 dias nem superior a 90 dias, em cada ano civil, pelo chefe da 2.ª Repartição da Direcção do Serviço do Pessoal, aos sargentos e praças reconduzidos que a requeiram, possam ser dispensados do serviço e justifiquem dela ter necessidade.
 
 § único. Os sargentos e as praças não podem usar mais de 180 dias de licença registada no período de três anos.
 
-###### Art. 187.º A autorização para usar qualquer licença em parcela do território nacional diferente daquela em que os sargentos e praças prestam serviço ou no estrangeiro é da competência do Ministro da Marinha.
+Art. 187.º A autorização para usar qualquer licença em parcela do território nacional diferente daquela em que os sargentos e praças prestam serviço ou no estrangeiro é da competência do Ministro da Marinha.
 
 § único. O Ministro da Marinha poderá delegar noutras entidades a concessão daquela autorização.
 
 #### SECÇÃO II — Informações
 
-###### Art. 188.º Os sargentos e as praças, a partir da data do seu ingresso nas respectivas classes, são informados confidencialmente em referência aos dias 1 de Janeiro e 1 de Julho de cada ano, em impresso do modelo superiormente aprovado, pelos comandantes, directores, chefes ou outras autoridades sob cujas ordens sirvam.
+Art. 188.º Os sargentos e as praças, a partir da data do seu ingresso nas respectivas classes, são informados confidencialmente em referência aos dias 1 de Janeiro e 1 de Julho de cada ano, em impresso do modelo superiormente aprovado, pelos comandantes, directores, chefes ou outras autoridades sob cujas ordens sirvam.
 
 § 1.º As informações a que se refere o corpo deste artigo são enviadas à 2.ª Repartição da Direcção do Serviço do Pessoal, dentro de um período de quinze dias, a contar da data a que as mesmas se referem.
 
 § 2.º Nas informações referidas no corpo deste artigo e relativas aos marinheiros e aos segundos-sargentos, os oficiais informadores deverão sempre indicar expressamente se reconhecem ou não àqueles militares qualidades que justifiquem acelerar a sua promoção ao posto imediato.
 
-###### Art. 189.º Independentemente das informações referidas no artigo anterior, devem os comandantes, directores ou chefes informar na caderneta militar os sargentos e as praças sempre que o julgarem conveniente ou quando destaquem e tenham permanecido na unidade ou serviço mais de três meses.
+Art. 189.º Independentemente das informações referidas no artigo anterior, devem os comandantes, directores ou chefes informar na caderneta militar os sargentos e as praças sempre que o julgarem conveniente ou quando destaquem e tenham permanecido na unidade ou serviço mais de três meses.
 
 § único. Pelas unidades e serviços onde os sargentos e praças tenham sido informados, nas condições estabelecidas neste artigo, será enviada cópia das informações à 2.ª Repartição da Direcção do Serviço do Pessoal.
 
-###### Art. 190.º Além das informações a que se referem os artigos anteriores, poderão ser estabelecidos, por despacho do Ministro da Marinha, boletins de informação de carácter militar, técnico ou psicológico, para determinadas classes ou especializações.
+Art. 190.º Além das informações a que se referem os artigos anteriores, poderão ser estabelecidos, por despacho do Ministro da Marinha, boletins de informação de carácter militar, técnico ou psicológico, para determinadas classes ou especializações.
 
 #### SECÇÃO III — Documentos militares
 
-###### Art. 191.º Os documentos militares, individuais, dos sargentos e praças da Armada são:
+Art. 191.º Os documentos militares, individuais, dos sargentos e praças da Armada são:
 
 a) Caderneta militar;
 
@@ -1818,29 +2108,29 @@ b) Livrete de saúde.
 
 § único. Por despacho do Ministro da Marinha podem ser criados outros livretes relativos às actividades profissionais e técnicas que competem às várias classes ou especializações.
 
-###### Art. 192.º A caderneta militar, de modelo aprovado por despacho ministerial, destina-se a receber o registo dos elementos cujo conhecimento interesse às entidades na dependência das quais o sargento ou a praça possa vir a prestar serviço.
+Art. 192.º A caderneta militar, de modelo aprovado por despacho ministerial, destina-se a receber o registo dos elementos cujo conhecimento interesse às entidades na dependência das quais o sargento ou a praça possa vir a prestar serviço.
 
 § único. A escrituração da caderneta é feita, nas unidades e serviços, pelo sargento da companhia, sob a vigilância do comandante da companhia.
 
-###### Art. 193.º Às cadernetas podem ser adicionadas folhas, em seguimento às que se tenham esgotado, rubricadas, coladas nos lugares próprios e numeradas com o número daquela que imediatamente as antecede, acrescido de uma letra que, para as diferentes folhas do mesmo número, deve seguir a ordem alfabética. Na última página da caderneta será feito termo de junção destas folhas.
+Art. 193.º Às cadernetas podem ser adicionadas folhas, em seguimento às que se tenham esgotado, rubricadas, coladas nos lugares próprios e numeradas com o número daquela que imediatamente as antecede, acrescido de uma letra que, para as diferentes folhas do mesmo número, deve seguir a ordem alfabética. Na última página da caderneta será feito termo de junção destas folhas.
 
-###### Art. 194.º Não devem ser colados nas cadernetas militares papéis estranhos, como cintas, notas de remessa, cópias de louvores e outros.
+Art. 194.º Não devem ser colados nas cadernetas militares papéis estranhos, como cintas, notas de remessa, cópias de louvores e outros.
 
-###### Art. 195.º A caderneta militar acompanha os sargentos e as praças nos seus destacamentos e é, em regra, por eles levada. No caso de o não ser, deve mencionar-se esta circunstância na guia de marcha.
+Art. 195.º A caderneta militar acompanha os sargentos e as praças nos seus destacamentos e é, em regra, por eles levada. No caso de o não ser, deve mencionar-se esta circunstância na guia de marcha.
 
-###### Art. 196.º O livrete de saúde, do modelo estabelecido no Regulamento de Saúde Naval, serve para o registo dos elementos referentes à história médica dos sargentos ou das praças da Armada.
+Art. 196.º O livrete de saúde, do modelo estabelecido no Regulamento de Saúde Naval, serve para o registo dos elementos referentes à história médica dos sargentos ou das praças da Armada.
 
 § único. Sendo os elementos respeitantes à saúde dos sargentos e das praças coligidos e concentrados na Direcção do Serviço de Saúde Naval, a ela será solicitada a reprodução dos livretes de saúde extraviados.
 
-###### Art. 197.º Os livretes de saúde são escriturados nas unidades e serviços pelo enfermeiro, sob a vigilância do chefe do serviço de saúde ou, na falta deste, do imediato.
+Art. 197.º Os livretes de saúde são escriturados nas unidades e serviços pelo enfermeiro, sob a vigilância do chefe do serviço de saúde ou, na falta deste, do imediato.
 
-###### Art. 198.º Nos termos do Regulamento de Saúde Naval, o livrete de saúde acompanha o sargento ou a praça que baixa ao hospital ou seja mandado às consultas e precede-o na ida à Junta de Saúde Naval.
+Art. 198.º Nos termos do Regulamento de Saúde Naval, o livrete de saúde acompanha o sargento ou a praça que baixa ao hospital ou seja mandado às consultas e precede-o na ida à Junta de Saúde Naval.
 
-###### Art. 199.º É aplicável aos livretes de saúde o estabelecido para as cadernetas militares nos artigos 193.º, 194.º e 195.º
+Art. 199.º É aplicável aos livretes de saúde o estabelecido para as cadernetas militares nos artigos 193.º, 194.º e 195.º
 
 #### SECÇÃO IV — Elementos de identificação
 
-###### Art. 200.º Os sargentos e praças da Armada são identificados pelos seguintes elementos:
+Art. 200.º Os sargentos e praças da Armada são identificados pelos seguintes elementos:
 
 a) Número de matrícula;
 
@@ -1850,43 +2140,43 @@ c) Classe;
 
 d) Nome.
 
-###### Art. 201.º Os meios de identificação são:
+Art. 201.º Os meios de identificação são:
 
 a) Bilhete de identidade;
 
 b) Placa de identificação.
 
-###### Art. 202.º Todos os sargentos e praças da Armada, do activo, da reserva A com direito a pensão, reformados e das reservas sem direito a pensão mas prestando serviço efectivo têm um bilhete de identidade que deverão apresentar às autoridades civis ou militares sempre que for necessário provar a sua identidade.
+Art. 202.º Todos os sargentos e praças da Armada, do activo, da reserva A com direito a pensão, reformados e das reservas sem direito a pensão mas prestando serviço efectivo têm um bilhete de identidade que deverão apresentar às autoridades civis ou militares sempre que for necessário provar a sua identidade.
 
 § único. A não apresentação do bilhete de identidade quando ordenada ou pedida é motivo de imediata detenção pela autoridade competente.
 
-###### Art. 203.º O bilhete de identidade é de uso obrigatório e nele deverá manter-se a actualização do posto do seu possuidor.
+Art. 203.º O bilhete de identidade é de uso obrigatório e nele deverá manter-se a actualização do posto do seu possuidor.
 
-###### Art. 204.º O bilhete de identidade dos sargentos e praças do activo, de modelo fixado em diploma próprio, substitui, para todos os efeitos legais, o bilhete de identidade ou qualquer outra forma de identificação estabelecida pela lei civil, para o que contém os elementos essenciais de identificação.
+Art. 204.º O bilhete de identidade dos sargentos e praças do activo, de modelo fixado em diploma próprio, substitui, para todos os efeitos legais, o bilhete de identidade ou qualquer outra forma de identificação estabelecida pela lei civil, para o que contém os elementos essenciais de identificação.
 
-###### Art. 205.º O bilhete de identidade dos sargentos e praças da reserva A com direito a pensão ou reformados e dos sargentos e praças das reservas sem direito a pensão mas prestando serviço efectivo é de modelo fixado em portaria do Ministro da Marinha. Este bilhete de identidade não substitui o bilhete de identidade ou qualquer outra forma de identificação estabelecida pela lei civil.
+Art. 205.º O bilhete de identidade dos sargentos e praças da reserva A com direito a pensão ou reformados e dos sargentos e praças das reservas sem direito a pensão mas prestando serviço efectivo é de modelo fixado em portaria do Ministro da Marinha. Este bilhete de identidade não substitui o bilhete de identidade ou qualquer outra forma de identificação estabelecida pela lei civil.
 
-###### Art. 206.º Os sargentos e praças da Armada que deixem o activo devem entregar o seu bilhete de identidade no Corpo de Marinheiros da Armada; para os militares falecidos no activo compete à 2.ª Repartição solicitar às respectivas famílias a entrega dos bilhetes de identidade.
+Art. 206.º Os sargentos e praças da Armada que deixem o activo devem entregar o seu bilhete de identidade no Corpo de Marinheiros da Armada; para os militares falecidos no activo compete à 2.ª Repartição solicitar às respectivas famílias a entrega dos bilhetes de identidade.
 
 § único. Se os militares referidos no corpo deste artigo deixarem o activo para passarem à reserva A com direito a pensão ou à reforma, ou se passando à reserva A sem direito a pensão continuarem prestando serviço efectivo, o bilhete de identidade que possuíam no activo é da mesma maneira entregue no Corpo de Marinheiros da Armada, mas recebem em sua substituição o bilhete de identidade referido no artigo 205.º
 
-###### Art. 207.º Os sargentos e praças das reservas sem direito a pensão que forem licenciados devem entregar o seu bilhete de identidade no Corpo de Marinheiros da Armada.
+Art. 207.º Os sargentos e praças das reservas sem direito a pensão que forem licenciados devem entregar o seu bilhete de identidade no Corpo de Marinheiros da Armada.
 
-###### Art. 208.º No que respeita aos sargentos e praças que hajam falecido, possuidores do bilhete de identidade referido no artigo 205.º, deve a 3.ª Repartição da Direcção do Serviço do Pessoal solicitar às respectivas famílias a entrega dos mesmos bilhetes.
+Art. 208.º No que respeita aos sargentos e praças que hajam falecido, possuidores do bilhete de identidade referido no artigo 205.º, deve a 3.ª Repartição da Direcção do Serviço do Pessoal solicitar às respectivas famílias a entrega dos mesmos bilhetes.
 
-###### Art. 209.º O Comando do Corpo de Marinheiros da Armada remeterá os bilhetes de identidade recebidos nas condições referidas nos artigos anteriores à 2.ª Repartição da Direcção do Serviço do Pessoal, quando se trate do bilhete citado no artigo 204.º, e à 3.ª Repartição da mesma Direcção, quando respeite ao bilhete mencionado no artigo 205.º
+Art. 209.º O Comando do Corpo de Marinheiros da Armada remeterá os bilhetes de identidade recebidos nas condições referidas nos artigos anteriores à 2.ª Repartição da Direcção do Serviço do Pessoal, quando se trate do bilhete citado no artigo 204.º, e à 3.ª Repartição da mesma Direcção, quando respeite ao bilhete mencionado no artigo 205.º
 
-###### Art. 210.º A placa de identificação dos sargentos e praças é de modelo a aprovar por despacho do Ministro da Marinha.
+Art. 210.º A placa de identificação dos sargentos e praças é de modelo a aprovar por despacho do Ministro da Marinha.
 
 § único. Compete aos comandantes, directores e chefes determinar em que circunstâncias deve ser distribuída aos sargentos e praças a placa de identificação e determinar o seu uso obrigatório.
 
 #### SECÇÃO V — Licenças para a frequência de escolas e para casamento
 
-###### Art. 211.º Não é permitida a matrícula em escolas estranhas à Armada nem a frequência dos respectivos cursos sem autorização do Ministro da Marinha, singular para cada caso.
+Art. 211.º Não é permitida a matrícula em escolas estranhas à Armada nem a frequência dos respectivos cursos sem autorização do Ministro da Marinha, singular para cada caso.
 
 § único. O Ministro da Marinha pode delegar a licença a que se refere o corpo deste artigo no superintendente dos Serviços da Armada.
 
-###### Art. 212.º O casamento dos sargentos e praças da Armada só pode realizar-se com licença das autoridades militares e de acordo com as disposições de diploma próprio regulando o assunto.
+Art. 212.º O casamento dos sargentos e praças da Armada só pode realizar-se com licença das autoridades militares e de acordo com as disposições de diploma próprio regulando o assunto.
 
 § 1.º Aos sargentos e praças doentes e aos grumetes só extraordinàriamente e por despacho ministerial poderá ser concedida autorização para casamento.
 
@@ -1894,13 +2184,13 @@ b) Placa de identificação.
 
 #### SECÇÃO VI — Registo de elementos respeitantes à vida militar dos sargentos e praças
 
-###### Art. 213.º Em conformidade com o indicado no artigo 89.º, compete à 2.ª Repartição da Direcção do Serviço do Pessoal realizar o registo de todos os elementos respeitantes à vida militar, ou que à mesma possam interessar, dos sargentos e praças do activo ou prestando serviço efectivo. O registo é feito em fichas individuais.
+Art. 213.º Em conformidade com o indicado no artigo 89.º, compete à 2.ª Repartição da Direcção do Serviço do Pessoal realizar o registo de todos os elementos respeitantes à vida militar, ou que à mesma possam interessar, dos sargentos e praças do activo ou prestando serviço efectivo. O registo é feito em fichas individuais.
 
-###### Art. 214.º Os averbamentos nas fichas individuais são feitos por transcrição da Ordem da Direcção do Serviço do Pessoal ou de documentos arquivados na 2.ª Repartição da mesma Direcção, sendo necessário, neste último caso, despacho favorável do respectivo chefe para que o averbamento se efectue.
+Art. 214.º Os averbamentos nas fichas individuais são feitos por transcrição da Ordem da Direcção do Serviço do Pessoal ou de documentos arquivados na 2.ª Repartição da mesma Direcção, sendo necessário, neste último caso, despacho favorável do respectivo chefe para que o averbamento se efectue.
 
 § único. O averbamento de circunstâncias e assuntos que não interessem ou não digam respeito pròpriamente à vida militar dos sargentos e praças só será feito a requerimento do interessado, dirigido ao chefe da 2.ª Repartição da Direcção do Serviço do Pessoal.
 
-###### Art. 215.º Todos os louvores concedidos aos sargentos e praças da Armada são registados nas respectivas fichas individuais, mas na Ordem da Direcção do Serviço do Pessoal apenas são publicados os seguintes:
+Art. 215.º Todos os louvores concedidos aos sargentos e praças da Armada são registados nas respectivas fichas individuais, mas na Ordem da Direcção do Serviço do Pessoal apenas são publicados os seguintes:
 
 a) Concedidos por diploma legal ou publicados na Ordem à Armada (transcrição);
 
@@ -1914,9 +2204,9 @@ d) Conferidos por entidades estranhas ao Ministério da Marinha e cuja publicaç
 
 #### SECÇÃO VII — Outras disposições
 
-###### Art. 216.º As pretensões dos sargentos e das praças dirigidas a quaisquer entidades que não sejam o seu comandante ou chefe são, depois de devidamente informadas, enviadas à 2.ª Repartição da Direcção do Serviço do Pessoal.
+Art. 216.º As pretensões dos sargentos e das praças dirigidas a quaisquer entidades que não sejam o seu comandante ou chefe são, depois de devidamente informadas, enviadas à 2.ª Repartição da Direcção do Serviço do Pessoal.
 
-###### Art. 217.º O prazo dentro do qual os sargentos e as praças podem reclamar acerca da sua posição na escala de antiguidades é de três meses, a contar:
+Art. 217.º O prazo dentro do qual os sargentos e as praças podem reclamar acerca da sua posição na escala de antiguidades é de três meses, a contar:
 
 a) Da data em que entrou em vigor a lista da Armada que regista a posição que dá motivo à reclamação, para os sargentos;
 
@@ -1924,33 +2214,33 @@ b) Da publicação da Ordem da Direcção do Serviço do Pessoal onde consta a p
 
 § único. Das decisões relativas a promoções dos conselhos de promoções referidos no artigo 154.º não há recurso.
 
-###### Art. 218.º Os sargentos e praças da Armada que embarquem como passageiros em navios mercantes ou em aeronaves comerciais devem apresentar-se ao oficial mais graduado ou antigo de qualquer dos ramos das Forças Armadas que siga a bordo.
+Art. 218.º Os sargentos e praças da Armada que embarquem como passageiros em navios mercantes ou em aeronaves comerciais devem apresentar-se ao oficial mais graduado ou antigo de qualquer dos ramos das Forças Armadas que siga a bordo.
 
 § único. Se a bordo estiverem diversos sargentos e praças, o mais graduado ou antigo será encarregado do pessoal da Armada, e será ele que se apresentará ao oficial referido no corpo deste artigo.
 
-###### Art. 219.º O sargento ou praça a quem seja concedida licença ou que passe à disponibilidade recebe uma guia de identidade e trânsito com que se apresentará à autoridade naval, marítima, militar ou administrativa da localidade onde vai gozar a licença ou residir. A autoridade averbará a apresentação e tomará nota da residência para ficar habilitada a intimar-lhe qualquer acto de serviço.
+Art. 219.º O sargento ou praça a quem seja concedida licença ou que passe à disponibilidade recebe uma guia de identidade e trânsito com que se apresentará à autoridade naval, marítima, militar ou administrativa da localidade onde vai gozar a licença ou residir. A autoridade averbará a apresentação e tomará nota da residência para ficar habilitada a intimar-lhe qualquer acto de serviço.
 
 § único. Quando regressar à sua unidade ou serviço, o sargento ou praça irá visar a guia à autoridade a quem se apresentou.
 
-###### Art. 220.º A comparência de sargento ou praça em tribunal deve ser feita com guia do chefe militar sob cujas ordens esteja prestando serviço.
+Art. 220.º A comparência de sargento ou praça em tribunal deve ser feita com guia do chefe militar sob cujas ordens esteja prestando serviço.
 
-###### Art. 221.º Conjuntamente com as disposições do presente estatuto, a vida militar dos sargentos e praças da Armada é regulada pela legislação da Armada em vigor e nomeadamente pelo disposto na Ordenança do Serviço Naval, Código de Justiça Militar, Regulamento de Disciplina Militar, Regulamento de Continências e Honras Militares e Regulamento de Uniformes e Pequeno Equipamento.
+Art. 221.º Conjuntamente com as disposições do presente estatuto, a vida militar dos sargentos e praças da Armada é regulada pela legislação da Armada em vigor e nomeadamente pelo disposto na Ordenança do Serviço Naval, Código de Justiça Militar, Regulamento de Disciplina Militar, Regulamento de Continências e Honras Militares e Regulamento de Uniformes e Pequeno Equipamento.
 
-###### Art. 222.º Aos sargentos e praças que deixem de prestar serviço efectivo na Armada será passado um documento de quitação, de modelo a aprovar por despacho do Ministro da Marinha, que indique em termos breves e de maneira acessível a forma como aqueles militares prestaram serviço na Armada dos pontos de vista militar, técnico e moral.
+Art. 222.º Aos sargentos e praças que deixem de prestar serviço efectivo na Armada será passado um documento de quitação, de modelo a aprovar por despacho do Ministro da Marinha, que indique em termos breves e de maneira acessível a forma como aqueles militares prestaram serviço na Armada dos pontos de vista militar, técnico e moral.
 
-###### Art. 223.º A vida militar dos sargentos e praças da Armada pertencentes a qualquer das reservas é regulada por diplomas próprios. A estes militares o presente estatuto apenas é aplicável na parte que não colida com aqueles diplomas.
+Art. 223.º A vida militar dos sargentos e praças da Armada pertencentes a qualquer das reservas é regulada por diplomas próprios. A estes militares o presente estatuto apenas é aplicável na parte que não colida com aqueles diplomas.
 
-###### Art. 224.º A prestação de serviço na Armada dos naturais das províncias ultramarinas em condições diferentes das fixadas neste estatuto (praças ultramarinas) é regulada por diploma próprio.
+Art. 224.º A prestação de serviço na Armada dos naturais das províncias ultramarinas em condições diferentes das fixadas neste estatuto (praças ultramarinas) é regulada por diploma próprio.
 
 ### CAPÍTULO VIII — Disposições transitórias e finais
 
-###### Art. 225.º Enquanto não for possível organizar a instrução de taifa referida no artigo 112.º, os indivíduos incorporados nas classes do pessoal de taifa após a sua incorporação apenas recebem a instrução militar que é ministrada ao pessoal das classes dos carpinteiros e dos músicos.
+Art. 225.º Enquanto não for possível organizar a instrução de taifa referida no artigo 112.º, os indivíduos incorporados nas classes do pessoal de taifa após a sua incorporação apenas recebem a instrução militar que é ministrada ao pessoal das classes dos carpinteiros e dos músicos.
 
-###### Art. 226.º As disposições relativas aos sargentos e praças das classes extintas que estejam em vigor à data da publicação deste estatuto continuam a aplicar-se àqueles militares, desde que não colidam com as disposições do estatuto.
+Art. 226.º As disposições relativas aos sargentos e praças das classes extintas que estejam em vigor à data da publicação deste estatuto continuam a aplicar-se àqueles militares, desde que não colidam com as disposições do estatuto.
 
-###### Art. 227.º No caso de se reconhecer conveniente, a aplicação do disposto na alínea e) do artigo 140.º será feita de maneira gradual, em condições a fixar em despacho do Ministro da Marinha, mediante proposta da Direcção do Serviço do Pessoal.
+Art. 227.º No caso de se reconhecer conveniente, a aplicação do disposto na alínea e) do artigo 140.º será feita de maneira gradual, em condições a fixar em despacho do Ministro da Marinha, mediante proposta da Direcção do Serviço do Pessoal.
 
-###### Art. 228.º A disposição a que se refere o artigo 8.º do [Decreto n.º 39420](https://diariodarepublica.pt/dr/detalhe/decreto/39420-1953-649362), de 9 de Novembro de 1953, que reduz a metade o tempo de serviço efectivo no posto e os tirocínios exigidos como condições especiais de promoção, mantém-se até 31 de Dezembro de 1964.
+Art. 228.º A disposição a que se refere o artigo 8.º do [Decreto n.º 39420](https://diariodarepublica.pt/dr/detalhe/decreto/39420-1953-649362), de 9 de Novembro de 1953, que reduz a metade o tempo de serviço efectivo no posto e os tirocínios exigidos como condições especiais de promoção, mantém-se até 31 de Dezembro de 1964.
 
 § 1.º A referida disposição apenas vigora até ao posto de segundo-sargento, inclusive.
 
@@ -1958,15 +2248,15 @@ b) Da publicação da Ordem da Direcção do Serviço do Pessoal onde consta a p
 
 § 3.º Os militares que satisfaçam as condições especiais de promoção, ao abrigo do disposto no corpo deste artigo, dentro dos prazos legalmente fixados, são considerados como satisfazendo a essas condições, mesmo no caso de a promoção lhes competir posteriormente ao termo desses prazos.
 
-###### Art. 229.º Enquanto não for organizada a 2.ª Repartição da Direcção do Serviço do Pessoal, as atribuições que por este diploma lhe são conferidas continuam a ser exercidas pelo Comando do Corpo de Marinheiros da Armada.
+Art. 229.º Enquanto não for organizada a 2.ª Repartição da Direcção do Serviço do Pessoal, as atribuições que por este diploma lhe são conferidas continuam a ser exercidas pelo Comando do Corpo de Marinheiros da Armada.
 
-###### Art. 230.º Enquanto a Direcção do Serviço do Pessoal não publicar uma ordem diária, a matéria referida neste estatuto que deverá ser publicada nessa ordem sê-lo-á na Ordem do Dia ao Corpo de Marinheiros da Armada.
+Art. 230.º Enquanto a Direcção do Serviço do Pessoal não publicar uma ordem diária, a matéria referida neste estatuto que deverá ser publicada nessa ordem sê-lo-á na Ordem do Dia ao Corpo de Marinheiros da Armada.
 
-###### Art. 231.º As alterações a este estatuto, se compatíveis com as disposições legais vigentes, serão publicadas por portaria do Ministro da Marinha.
+Art. 231.º As alterações a este estatuto, se compatíveis com as disposições legais vigentes, serão publicadas por portaria do Ministro da Marinha.
 
-###### Art. 232.º Os casos omissos ou duvidosos serão resolvidos por despacho do Ministro da Marinha.
+Art. 232.º Os casos omissos ou duvidosos serão resolvidos por despacho do Ministro da Marinha.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 18 de Fevereiro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Fernando Quintanilha Mendonça Dias.
 
@@ -1974,12 +2264,12 @@ QUADRO N.º 1
 
 Sistemas de promoção adoptados na promoção dos sargentos e praças da Armada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/02/04100/01480173.pdf))](https://files.diariodarepublica.pt/1s/1963/02/04100/01480173.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/02/04100/01480173.pdf)
 
 QUADRO N.º 2
 
 Condições especiais de promoção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/02/04100/01480173.pdf))](https://files.diariodarepublica.pt/1s/1963/02/04100/01480173.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/02/04100/01480173.pdf)
 
 Ministério da Marinha, 18 de Fevereiro de 1963. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

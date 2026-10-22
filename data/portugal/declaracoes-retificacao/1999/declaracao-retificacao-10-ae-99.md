@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 126/1999, 2º Suplemento, Série I-A de 1999-05-31
   number: '126'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3110-(64) a 3110-(64)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/05/126a02/00640064.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/10-ae/1999/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-ae-1999-692256
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:52:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2792d4e4a428cce645682eec27c8970d6f2b9b1e9892510d105dd2ba3d4bca3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c30c93cfdb8d035eba61d66310c0db40e1ce0270df355de4751de3ebdf9b014
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:52:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro Nacional de Protecção contra os Riscos Profissionais
-- Ministério do Trabalho e da Solidariedade
 - Comissão de Fiscalização
-- Gestão Financeira
+- Conselho Diretivo
 - Definição de Competências
 - Gestão do Património
-- Conselho Diretivo
+- Gestão Financeira
 - Integração de Trabalhadores
+- Ministério do Trabalho e da Solidariedade
 - Orgânica
 - Quadro de Pessoal
 relationships:
@@ -82,16 +82,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/160/1999/05/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/160/1999/05/11/p/dre
+- type: cites
+  target: pt:dre:331434:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:52:36Z'
   warnings: []
   errors: []
 ---

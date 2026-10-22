@@ -46,40 +46,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43587-1961-558653
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-01-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:23:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b4e0a2951ba2dbdc003a8402698e62b1bf1ca1e23aea7355dd236724afc3008
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6d24edfdd9804d849cd566e59f9ef16a45ebe97382a93473176b065e2a1dfa1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:23:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arbitragem
+- Autarquia Local
+- Conselho de Ministros
+- Expropriação
+- Habitação
+- Indemnização
+- Pessoa Colectiva de Direito Público
+- Prédio Rústico
+- Prédio Urbano
+- Publicitação
+- Recurso
+- Regulamento
+- Transmissão da Propriedade
+- Utilidade Pública
 relationships:
 - type: amended_by
   target: pt:dre:506836:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:414432:por
+  label: "Alterados os arts. 2.º e 36.º do Regulamento das Expropriações aprtovados pelo presente decreto, pelo DEC.677/70.31.12.1970.MJ,\
+    \ DG.IS [301-Supl] de 31.12.1970\00\0"
+  source: null
+  date: '1970-12-31'
+- type: cites
+  target: pt:dre:155380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659487:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:506836:por
+  label: "Revogado, com excepção do cap. IV, pelo DEC LEI.71/76.27.01.1976.MJ, DG.IS [22] de 27.01.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/71-1976-506836
+  date: '1976-01-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:23:01Z'
   warnings: []
   errors: []
 ---
@@ -168,9 +213,9 @@ REGULAMENTO DAS EXPROPRIAÇÕES
 
 #### SECÇÃO I — Declaração de utilidade pública
 
-###### Artigo 1.º A declaração de utilidade pública de quaisquer expropriações, fora dos casos em que, nos termos do artigo 12.º da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), de 22 de Junho de 1948, resulta da aprovação, pelo Ministro competente, do projecto de execução das obras que as determinam, será feita pelo Conselho de Ministros, a requerimento da entidade que a pretender, ou do organismo competente para a execução da obra ou do melhoramento ou para praticar o acto, determinantes da expropriação.
+Artigo 1.º A declaração de utilidade pública de quaisquer expropriações, fora dos casos em que, nos termos do artigo 12.º da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), de 22 de Junho de 1948, resulta da aprovação, pelo Ministro competente, do projecto de execução das obras que as determinam, será feita pelo Conselho de Ministros, a requerimento da entidade que a pretender, ou do organismo competente para a execução da obra ou do melhoramento ou para praticar o acto, determinantes da expropriação.
 
-###### Art. 2.º - 1. O requerimento, dirigido ao Presidente do Conselho de Ministros, será acompanhado dos seguintes documentos:
+Art. 2.º - 1. O requerimento, dirigido ao Presidente do Conselho de Ministros, será acompanhado dos seguintes documentos:
 
 a) Planta do local da situação dos prédios a expropriar;
 
@@ -186,7 +231,7 @@ e) Quando o requerente for entidade particular, documento comprovativo de se enc
 
 3. A passagem das certidões a que se referem as alíneas c) e d) do n.º 1 ou de outras para os fins do presente diploma têm prioridade sobre o restante serviço das conservatórias ou das secções de finanças, sob pena de procedimento disciplinar.
 
-###### Art. 3.º - 1. No acto declarativo da utilidade pública devem os prédios sujeitos a expropriação ser, na medida do possível, identificados com os elementos constantes da descrição predial e inscrição matricial, os direitos e ónus que sobre eles incidam e os nomes dos respectivos titulares.
+Art. 3.º - 1. No acto declarativo da utilidade pública devem os prédios sujeitos a expropriação ser, na medida do possível, identificados com os elementos constantes da descrição predial e inscrição matricial, os direitos e ónus que sobre eles incidam e os nomes dos respectivos titulares.
 
 2. A declaração de utilidade pública correspondente à expropriação prevista no artigo 5.º da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461) só pode ser proferida em face do plano particularizado de obras que contenha a identificação das parcelas a expropriar, a descrição pormenorizada das obras a efectuar, o prazo dentro do qual serão realizadas e as respectivas fases de execução, bem como a data aproximada da abertura da praça para venda de lotes a talhar na faixa adjacente expropriada.
 
@@ -196,27 +241,27 @@ e) Quando o requerente for entidade particular, documento comprovativo de se enc
 
 #### SECÇÃO II — Expropriação amigável
 
-###### Art. 4.º - 1. Declarada a utilidade pública da expropriação, o expropriante pode acordar com os interessados no quantitativo da indemnização a pagar pela expropriação.
+Art. 4.º - 1. Declarada a utilidade pública da expropriação, o expropriante pode acordar com os interessados no quantitativo da indemnização a pagar pela expropriação.
 
 2. O acordo sobre o valor da indemnização só é válido se aos interessados for lícito alienar livremente os direitos atingidos pela expropriação. A eficácia do acordo não depende, porém, do consentimento dos interessados a quem a lei confira uma indemnização autónoma, ao lado da que corresponda ao valor real da coisa expropriada.
 
 3. Se algum dos interessados for civilmente incapaz de reger os seus bens, poderão os representantes dele obter do tribunal competente autorização para acordarem sobre o valor da indemnização.
 
-###### Art. 5.º - 1. Consideram-se interessados na expropriação, além do expropriado, os titulares de qualquer direito real ou ónus sobre o prédio, os arrendatários de estabelecimentos comerciais ou industriais ou destinados ao exercício de profissões liberais e ainda aqueles a quem a lei conferir o direito a indemnização distinta da que corresponde ao valor real do prédio.
+Art. 5.º - 1. Consideram-se interessados na expropriação, além do expropriado, os titulares de qualquer direito real ou ónus sobre o prédio, os arrendatários de estabelecimentos comerciais ou industriais ou destinados ao exercício de profissões liberais e ainda aqueles a quem a lei conferir o direito a indemnização distinta da que corresponde ao valor real do prédio.
 
 2. Serão tidos por interessados os que no registo predial, na matriz, ou em títulos bastantes de prova que exibam, figurem como titulares dos direitos a que se refere o número anterior, ou, sempre que se trate de prédios omissos, os que notòriamente forem havidos como tais.
 
-###### Art. 6.º - 1. Sob pena de multa de 100$00 a 1000$00, aplicável, em processo de transgressão, nos tribunais comuns, devem os interessados esclarecer, por escrito, dentro do prazo de cinco dias, as questões pertinentes ao processo de expropriação que lhes forem postas pelos serviços públicos ou corpos administrativos expropriantes, podendo, se assim o preferirem, comparecer no local que para o efeito lhes for designado.
+Art. 6.º - 1. Sob pena de multa de 100$00 a 1000$00, aplicável, em processo de transgressão, nos tribunais comuns, devem os interessados esclarecer, por escrito, dentro do prazo de cinco dias, as questões pertinentes ao processo de expropriação que lhes forem postas pelos serviços públicos ou corpos administrativos expropriantes, podendo, se assim o preferirem, comparecer no local que para o efeito lhes for designado.
 
 2. As despesas de correio e os restantes encargos a que der lugar o cumprimento do dever imposto aos interessados correm por conta da entidade expropriante.
 
-###### Art. 7.º - 1. Estando o expropriante e todos os interessados de acordo quanto ao montante da indemnização a pagar pelo primeiro, comparecerão perante o notário privativo do expropriante para que se lavre a escritura de expropriação amigável.
+Art. 7.º - 1. Estando o expropriante e todos os interessados de acordo quanto ao montante da indemnização a pagar pelo primeiro, comparecerão perante o notário privativo do expropriante para que se lavre a escritura de expropriação amigável.
 
 2. Se a entidade expropriante de direito público não tiver notário privativo, comparecerão perante o chefe da secretaria da câmara municipal do concelho da situação do prédio ou da maior parte deste.
 
 3. Quando o expropriante seja entidade particular, a escritura será lavrada pelo notário da sede do concelho da situação do prédio ou da sua maior parte.
 
-###### Art. 8.º - 1. A escritura será lavrada dentro dos dez dias subsequentes àquele em que, pela entidade expropriante, for comunicado ao notário ou à câmara municipal o acordo celebrado, e dela hão-de constar:
+Art. 8.º - 1. A escritura será lavrada dentro dos dez dias subsequentes àquele em que, pela entidade expropriante, for comunicado ao notário ou à câmara municipal o acordo celebrado, e dela hão-de constar:
 
 a) O nome, profissão e residência do expropriante;
 
@@ -230,13 +275,13 @@ e) A data e número do Diário do Governo em que tenha sido publicada a declara�
 
 2. Para que a escritura seja lavrada, deve o expropriante apresentar ao notário os documentos a que se refere o artigo 2.º e, quando se trate de entidade particular, juntará ainda o conhecimento do depósito da indemnização na Caixa Geral de Depósitos, Crédito e Previdência.
 
-###### Art. 9.º - 1. Quando o expropriante seja entidade particular, o notário remeterá imediatamente a certidão de teor integral da escritura com os demais documentos ao tribunal da comarca da situação do prédio a expropriar, ou da sua maior parte.
+Art. 9.º - 1. Quando o expropriante seja entidade particular, o notário remeterá imediatamente a certidão de teor integral da escritura com os demais documentos ao tribunal da comarca da situação do prédio a expropriar, ou da sua maior parte.
 
 2. Nos restantes casos, depois de cumpridas as formalidades necessárias à eficácia do acordo, ficará a certidão a aguardar no serviço perante o qual a escritura foi lavrada, durante o prazo de dez dias, que o expropriante junte o conhecimento do depósito, na Caixa Geral de Depósitos, Crédito e Previdência, da importância da indemnização; logo que se mostre feita a junção, será a certidão da escritura, com os demais documentos, remetida ao tribunal da comarca referido no número anterior.
 
-###### Art. 10.º Recebida a certidão com os documentos no tribunal, o juiz adjudicará, dentro de cinco dias, o prédio ao expropriante, a quem o mandará entregar livre de qualquer ónus ou encargo.
+Art. 10.º Recebida a certidão com os documentos no tribunal, o juiz adjudicará, dentro de cinco dias, o prédio ao expropriante, a quem o mandará entregar livre de qualquer ónus ou encargo.
 
-###### Art. 11.º - 1. A importância da indemnização será atribuída aos interessados cujos direitos devam sair dela, nos termos do n.º 1 do artigo 10.º da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461).
+Art. 11.º - 1. A importância da indemnização será atribuída aos interessados cujos direitos devam sair dela, nos termos do n.º 1 do artigo 10.º da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461).
 
 2. Se todos os interessados acordarem na partilha da indemnização, o juiz mandará efectuar os pagamentos em conformidade com o acordo a que chegaram.
 
@@ -260,19 +305,19 @@ d) Se a verificação de algum dos direitos impugnados estiver dependente de pro
 
 ##### SUBSECÇÃO I — Disposições introdutórias
 
-###### Art. 12.º Na falta de acordo sobre o valor global da indemnização, será este fixado por arbitragem, com recurso para os tribunais, nos termos dos artigos seguintes.
+Art. 12.º Na falta de acordo sobre o valor global da indemnização, será este fixado por arbitragem, com recurso para os tribunais, nos termos dos artigos seguintes.
 
-###### Art. 13.º - 1. Têm legitimidade para intervir no processo, de um lado, o expropriante e, do outro, o expropriado e os demais interessados a que se refere o artigo 5.º
+Art. 13.º - 1. Têm legitimidade para intervir no processo, de um lado, o expropriante e, do outro, o expropriado e os demais interessados a que se refere o artigo 5.º
 
 2. Se comparecer em juízo qualquer pessoa que não tenha sido citada, mas que mostre ter interesse sobre o prédio a expropriar, será admitida a intervir no processo, na altura em que este estiver, mas sem que para o efeito se hajam de repetir quaisquer termos ou diligências.
 
-###### Art. 14.º - 1. Havendo interessados incapazes, ausentes ou desconhecidos, sem que esteja organizada a respectiva representação, o juíz nomear-lhes-á imediatamente curador provisório, que será, quanto aos incapazes, na falta de razões ponderosas em contrário, a pessoa ou entidade a cuja guarda estiverem entregues.
+Art. 14.º - 1. Havendo interessados incapazes, ausentes ou desconhecidos, sem que esteja organizada a respectiva representação, o juíz nomear-lhes-á imediatamente curador provisório, que será, quanto aos incapazes, na falta de razões ponderosas em contrário, a pessoa ou entidade a cuja guarda estiverem entregues.
 
 2. A intervenção do curador provisório no processo cessa logo que seja adjudicada ao expropriante a propriedade e posse do prédio ou se encontre designado o representante normal do incapaz.
 
-###### Art. 15.º Se na pendência do processo falecer algum dos interessados, a habilitação dos respectivos herdeiros reger-se-á pelas normas aplicáveis do Código de Processo Civil, seguindo os autos, porém, os seus termos até à entrega do prédio ao expropriante.
+Art. 15.º Se na pendência do processo falecer algum dos interessados, a habilitação dos respectivos herdeiros reger-se-á pelas normas aplicáveis do Código de Processo Civil, seguindo os autos, porém, os seus termos até à entrega do prédio ao expropriante.
 
-###### Art. 16.º - 1. O expropriante requererá ao tribunal da comarca da situação do prédio, ou da maior parte dele, a citação do expropriado e demais interessados para a nomeação de árbitros.
+Art. 16.º - 1. O expropriante requererá ao tribunal da comarca da situação do prédio, ou da maior parte dele, a citação do expropriado e demais interessados para a nomeação de árbitros.
 
 2. O requerimento será acompanhado dos seguintes documentos:
 
@@ -284,7 +329,7 @@ b) Certidão da descrição e inscrição matriciais e do rendimento colectável
 
 ##### SUBSECÇÃO II — Tentativa de conciliação. Arbitragem
 
-###### Art. 17.º - 1. Recebida a petição, o juiz designará, na prazo de 48 horas, qualquer dos 10 dias seguintes para a tentativa de conciliação e nomeação de árbitros, no caso de a tentativa se frustrar.
+Art. 17.º - 1. Recebida a petição, o juiz designará, na prazo de 48 horas, qualquer dos 10 dias seguintes para a tentativa de conciliação e nomeação de árbitros, no caso de a tentativa se frustrar.
 
 2. Para a conferência mandará o juiz notificar o expropriante e citar os demais interessados e solicitará do presidente da Relação do distrito a indicação do árbitro da sua nomeação. Na citação far-se-á expressa cominação do disposto no n.º 5.
 
@@ -294,7 +339,7 @@ b) Certidão da descrição e inscrição matriciais e do rendimento colectável
 
 5. A conciliação obtida com os interessados presentes vincula os interessados faltosos, desde que pessoalmente citados.
 
-###### Art. 18.º - 1. Quando não seja necessário expropriar mais do que uma parte do prédio, poderá o expropriado, dentro do prazo de cinco dias a contar da citação, requerer a expropriação total, nos termos do n.º 2 do artigo 4.º da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), adiando-se a conferência a que se refere o artigo 17.º
+Art. 18.º - 1. Quando não seja necessário expropriar mais do que uma parte do prédio, poderá o expropriado, dentro do prazo de cinco dias a contar da citação, requerer a expropriação total, nos termos do n.º 2 do artigo 4.º da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), adiando-se a conferência a que se refere o artigo 17.º
 
 2. O juiz mandará ouvir o expropriante e o Ministério Público para dizerem o que se lhes oferecer no prazo de cinco dias e, seguidamente, proceder-se-á à conferência.
 
@@ -312,17 +357,17 @@ Ari. 19.º - 1. Fixado o objecto da expropriação, se da tentativa de concilia�
 
 3. Do auto referente à tentativa de conciliação ficarão sempre constando, devidamente justificados, o valor oferecido pelo expropriante e o pedido pelos interessados.
 
-###### Art. 20.º - 1. Na falta de acordo, proceder-se-á, nos termos do n.º 2 do artigo 14.º da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), à nomeação dos árbitros, de entre os da lista de peritos publicada pelo Ministério da Justiça.
+Art. 20.º - 1. Na falta de acordo, proceder-se-á, nos termos do n.º 2 do artigo 14.º da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), à nomeação dos árbitros, de entre os da lista de peritos publicada pelo Ministério da Justiça.
 
 2. O perito do expropriado e demais interessados será designado por acordo de todos; na falta de acordo, prevalecerá a vontade da maioria, se desta fizer parte o expropriado. Não se formando maioria com o expropriado ou faltando a designação válida de algum perito, devolver-se-á a nomeação ao juiz.
 
 3. No caso de escusa do terceiro árbitro, o juiz solicitará ao presidente da Relação a indicação de outro, se considerar atendível o motivo invocado.
 
-###### Art. 21.º A preparação do processo compete ao juiz de direito, servindo como funcionário de justiça o que por ele for designado.
+Art. 21.º A preparação do processo compete ao juiz de direito, servindo como funcionário de justiça o que por ele for designado.
 
-###### Art. 22.º Juntamente com a indicação do árbitro, é lícito às partes apresentar, na conferência a que se refere o artigo 17.º, uma relação, em quadruplicado, dos quesitos relativos aos pontos que entendam deverem ser ponderados na fixação do valor real do prédio.
+Art. 22.º Juntamente com a indicação do árbitro, é lícito às partes apresentar, na conferência a que se refere o artigo 17.º, uma relação, em quadruplicado, dos quesitos relativos aos pontos que entendam deverem ser ponderados na fixação do valor real do prédio.
 
-###### Art. 23.º - 1. Os árbitros serão notificados, dentro de 48 horas, de que a decisão deve ser proferida no prazo de 10 dias, durante o qual o processo poderá ser confiado ao terceiro árbitro e será facultado àqueles que o requeiram.
+Art. 23.º - 1. Os árbitros serão notificados, dentro de 48 horas, de que a decisão deve ser proferida no prazo de 10 dias, durante o qual o processo poderá ser confiado ao terceiro árbitro e será facultado àqueles que o requeiram.
 
 2. No acto da notificação será entregue a cada um dos árbitros um exemplar da relação de quesitos, sendo o restante junto ao processo.
 
@@ -330,23 +375,23 @@ Ari. 19.º - 1. Fixado o objecto da expropriação, se da tentativa de concilia�
 
 4. Quando o árbitro de uma das partes não puder continuar a intervir, por doença ou outra circunstância susceptível de atrasar o andamento do processo, será a parte imediatamente notificada para o substituir no prazo de cinco dias, sob pena de a nomeação ser feita pelo juiz. No caso de se tratar do terceiro árbitro, far-se-á imediatamente o pedido de substituição ao presidente da Relação do distrito.
 
-###### Art. 24.º Quando se encontrem habilitados a proferir a decisão, os árbitros comparecerão na secretaria, que, a seu pedido e independentemente de despacho, lhes fará o processo concluso para tal fim.
+Art. 24.º Quando se encontrem habilitados a proferir a decisão, os árbitros comparecerão na secretaria, que, a seu pedido e independentemente de despacho, lhes fará o processo concluso para tal fim.
 
-###### Art. 25.º - 1. O julgamento pelos árbitros será feito em conferência, servindo de relator o árbitro de nomeação do presidente da Relação.
+Art. 25.º - 1. O julgamento pelos árbitros será feito em conferência, servindo de relator o árbitro de nomeação do presidente da Relação.
 
 2. As decisões, devidamente fundamentadas, são tomadas por maioria; mas, não se obtendo uma decisão arbitral, por unanimidade ou maioria, valerá como tal a média aritmética dos laudos que mais se aproximarem ou o laudo intermédio, se as diferenças entre ele e cada um dos restantes forem iguais.
 
 3. Os laudos dos árbitros, devidamente justificados com a indicação precisa dos elementos que serviram de base ao cálculo da indemnização proposta, serão entregues ao relator, no início da conferência, em sobrescritos fechados, e só serão verificados depois de todos terem votado; se tiverem sido formulados quesitos, serão entregues no mesmo momento as relações com as respectivas respostas.
 
-###### Art. 26.º São aplicáveis aos árbitros as disposições que na lei civil ou na lei penal definem a responsabilidade civil ou criminal dos magistrados pelo irregular exercício das suas funções.
+Art. 26.º São aplicáveis aos árbitros as disposições que na lei civil ou na lei penal definem a responsabilidade civil ou criminal dos magistrados pelo irregular exercício das suas funções.
 
-###### Art. 27.º - 1. A decisão dos árbitros será notificada no prazo de 48 horas, podendo dela recorrer-se para o juiz de direito da comarca.
+Art. 27.º - 1. A decisão dos árbitros será notificada no prazo de 48 horas, podendo dela recorrer-se para o juiz de direito da comarca.
 
 2. O prazo para a interposição do recurso é de oito dias, a contar da notificação.
 
 ##### SUBSECÇÃO III — Arbitragem em certas expropriações urgentes
 
-###### Art. 28.º Nas expropriações urgentes compete à entidade expropriante, quando seja pessoa de direito público, promover perante ela a constituição e funcionamento da arbitragem, nos termos seguintes:
+Art. 28.º Nas expropriações urgentes compete à entidade expropriante, quando seja pessoa de direito público, promover perante ela a constituição e funcionamento da arbitragem, nos termos seguintes:
 
 a) A indicação do terceiro árbitro será solicitada directamente ao presidente do tribunal da Relação do distrito judicial;
 
@@ -356,7 +401,7 @@ c) Se, por qualquer motivo, não for passível obter a sua nomeação, nos termo
 
 d) É aplicável neste caso ao processamento da arbitragem o disposto nos artigos 16.º e seguintes, com as necessárias acomodações.
 
-###### Art. 29.º - 1. Obtida a decisão dos árbitros, no caso a que se refere o artigo anterior, será o processo remetido ao tribunal, que ordenará a notificação dos interessados, segundo os termos do n.º 3 do artigo 17.º
+Art. 29.º - 1. Obtida a decisão dos árbitros, no caso a que se refere o artigo anterior, será o processo remetido ao tribunal, que ordenará a notificação dos interessados, segundo os termos do n.º 3 do artigo 17.º
 
 2. A entidade expropriante juntará ao processo a guia de depósito do valor fixado na decisão arbitral, sempre que pretenda obter a imediata investidura na posse e propriedade do prédio expropriado, livre de quaisquer ónus ou encargos, devendo o juiz conhecer do pedido no prazo de 48 horas, independentemente da notificação aos interessados da decisão proferida pelos árbitros.
 
@@ -364,35 +409,35 @@ d) É aplicável neste caso ao processamento da arbitragem o disposto nos artigo
 
 4. Quando não haja recurso da arbitragem, observar-se-á o disposto no n.º 2 do artigo 19.º
 
-###### Art. 30.º - 1. Se o expropriado requerer a expropriação total, nos termos do artigo 18.º, será o processo imediatamente remetido ao tribunal da comarca da situação do prédio ou da maior parte dele, perante o qual, sem observância do regime especial constante dos dois artigos anteriores, correrão todos os termos subsequentes do processo.
+Art. 30.º - 1. Se o expropriado requerer a expropriação total, nos termos do artigo 18.º, será o processo imediatamente remetido ao tribunal da comarca da situação do prédio ou da maior parte dele, perante o qual, sem observância do regime especial constante dos dois artigos anteriores, correrão todos os termos subsequentes do processo.
 
 2. Idêntico procedimento será adoptado quando se reclame no prazo de cinco dias, perante a entidade expropriante de direito público, contra qualquer irregularidade cometida na constituição ou funcionamento da arbitragem. Neste caso, caberá ao juiz decidir da reclamação, sem prejuízo do recurso a que se refere o artigo 1.º da [Lei n.º 2063](https://diariodarepublica.pt/dr/detalhe/lei/2063-1953-643741).
 
 ##### SUBSECÇÃO IV — Recurso da arbitragem
 
-###### Art. 31.º - 1. No requerimento de interposição do recurso, o recorrente exporá logo as razões da discordância com a decisão arbitral, oferecendo todos os documentos, requerendo todas as demais provas e designando o seu perito.
+Art. 31.º - 1. No requerimento de interposição do recurso, o recorrente exporá logo as razões da discordância com a decisão arbitral, oferecendo todos os documentos, requerendo todas as demais provas e designando o seu perito.
 
 2. A cada parte só é lícito indicar o total de três testemunhas, obrigando-se a apresentá-las no tribunal, independentemente de notificação. Havendo mais de um interessado a oferecer testemunhas, preferem as designadas pelo expropriado.
 
-###### Art. 32.º - 1. Admitido o recurso, será o processo imediatamente remetido à secretaria, a fim de entrar na primeira distribuição e se notificarem os não recorrentes.
+Art. 32.º - 1. Admitido o recurso, será o processo imediatamente remetido à secretaria, a fim de entrar na primeira distribuição e se notificarem os não recorrentes.
 
 2. Para efeitos de distribuição, o processo pertence à espécie 4.ª do artigo 222.º do Código de Processo Civil.
 
 3. As expropriações urgentes não estão sujeitas a distribuição, sendo averbadas por escala à secção a que pertencer o funcionário designado para a fase da arbitragem.
 
-###### Art. 33.º - 1. Aos não recorrentes é permitido responder à matéria do recurso, separada ou conjuntamente, nos oito dias seguintes à notificação ordenada no artigo anterior.
+Art. 33.º - 1. Aos não recorrentes é permitido responder à matéria do recurso, separada ou conjuntamente, nos oito dias seguintes à notificação ordenada no artigo anterior.
 
 2. Com as respostas juntar-se-ão todos os documentos e requerer-se-ão todas as demais provas, nos termos dos n.os 1 e 2 do artigo 31.º
 
-###### Art. 34.º - 1. Findo o prazo para a apresentação das respostas, seguir-se-ão imediatamente as diligências instrutórias que o juiz entenda úteis à boa decisão da causa.
+Art. 34.º - 1. Findo o prazo para a apresentação das respostas, seguir-se-ão imediatamente as diligências instrutórias que o juiz entenda úteis à boa decisão da causa.
 
 2. A prova testemunhal só é admitida quando a presuntiva insuficiência dos restantes meios probatórios impuser a sua utilização. Os depoimentos das testemunhas serão reduzidos a escrito.
 
-###### Art. 35.º - 1. Entre as diligências instrutórias a realizar, tem obrigatòriamente lugar a avaliação, a que o juiz presidirá.
+Art. 35.º - 1. Entre as diligências instrutórias a realizar, tem obrigatòriamente lugar a avaliação, a que o juiz presidirá.
 
 2. Quando se efectuar a inspecção judicial, ficarão a constar do respectivo auto todos os elementos reputados úteis para a boa decisão da causa.
 
-###### Art. 36.º - 1. A avaliação é efectuada por cinco peritos, nos termos seguintes:
+Art. 36.º - 1. A avaliação é efectuada por cinco peritos, nos termos seguintes:
 
 a) Cada parte designa um perito e os três restantes são nomeados pelo juiz, dois dos quais da lista oficial publicada pelo Ministério da Justiça e o terceiro escolhido livremente;
 
@@ -406,11 +451,11 @@ c) A falta de comparência de qualquer perito determina a sua imediata substitui
 
 A falta de prestação do juramento dentro do prazo estipulado será imediatamente comunicada pelo juiz à Direcção-Geral da Justiça.
 
-###### Art. 37.º - 1. As partes serão notificadas para, querendo, comparecerem e formularem quesitos no acto da avaliação.
+Art. 37.º - 1. As partes serão notificadas para, querendo, comparecerem e formularem quesitos no acto da avaliação.
 
 2. O juiz, ouvida a parte contrária, decidirá logo nesse acto sobre a admissibilidade dos quesitos formulados.
 
-###### Art. 38.º - 1. Tratando-se de expropriações não urgentes, orientar-se-ão as diligências por forma que o processo se encontre julgado dentro do prazo de quatro meses, a contar da interposição do recurso para o tribunal da comarca.
+Art. 38.º - 1. Tratando-se de expropriações não urgentes, orientar-se-ão as diligências por forma que o processo se encontre julgado dentro do prazo de quatro meses, a contar da interposição do recurso para o tribunal da comarca.
 
 2. Sendo urgente a expropriação, observar-se-á o seguinte:
 
@@ -418,25 +463,25 @@ a) As diligências serão determinadas tendo em consideração que todas devem u
 
 b) Todas as diligências podem ser praticadas em férias e terão preferência sobre outras respeitantes a processos que, por sua natureza, não envolvam urgência; podem, além disso, efectuar-se, cumulativa ou separadamente, pela ordem que o juiz considere mais adequada para se conseguir a máxima brevidade possível no julgamento.
 
-###### Art. 39.º - 1. Os prazos estipulados no artigo antecedente só podem ser excedidos quando ocorra caso de força maior devidamente comprovado, devendo o juiz comunicar imediatamente o facto ao presidente da respectiva Relação, com a exposição dos motivos do excesso.
+Art. 39.º - 1. Os prazos estipulados no artigo antecedente só podem ser excedidos quando ocorra caso de força maior devidamente comprovado, devendo o juiz comunicar imediatamente o facto ao presidente da respectiva Relação, com a exposição dos motivos do excesso.
 
 2. O presidente da Relação, apreciando as razões invocadas, dará conhecimento da ocorrência ao Conselho Superior Judiciário sempre que as julgue improcedentes e, em qualquer caso, fará constar do processo o seu parecer.
 
-###### Art. 40.º - 1. Concluídas as diligências de prova, o juiz notificará as partes para alegarem, fixando o prazo de dois a cinco dias, consoante a complexidade do processo.
+Art. 40.º - 1. Concluídas as diligências de prova, o juiz notificará as partes para alegarem, fixando o prazo de dois a cinco dias, consoante a complexidade do processo.
 
 2. O prazo para a alegação do recorrido corre a partir do termo do prazo para a alegação do recorrente, contando-se este último desde a notificação para alegar.
 
-###### Art. 41.º - 1. Decorrido o prazo para a apresentação das alegações escritas, o juiz proferirá, dentro de dez dias, a decisão, devidamente fundamentada em termos paralelos aos que o n.º 3 do artigo 25.º estabelece para o laudo dos árbitros, fixando o montante das indemnizações a pagar pelo expropriante.
+Art. 41.º - 1. Decorrido o prazo para a apresentação das alegações escritas, o juiz proferirá, dentro de dez dias, a decisão, devidamente fundamentada em termos paralelos aos que o n.º 3 do artigo 25.º estabelece para o laudo dos árbitros, fixando o montante das indemnizações a pagar pelo expropriante.
 
 2. O julgador decide segundo a sua convicção, formada sobre a livre apreciação das provas, mas a indemnização, variável entre o máximo e o mínimo indicados pelas partes, não pode ser fixada em valor superior ao do laudo maior entre os três peritos designados pelo tribunal e o árbitro indicado pelo presidente da Relação, acrescido de metade, nem inferior ao do menor desses laudos, diminuído de igual fracção.
 
 3. A decisão será notificada às partes no prazo de 48 horas, dela havendo recurso nos termos do artigo 8.º da [Lei n.º 2063](https://diariodarepublica.pt/dr/detalhe/lei/2063-1953-643741); com o recurso subirão os agravos a que se refere o § 2.º do artigo 2.º do mesmo diploma.
 
-###### Art. 42.º - 1. A importância global da indemnização será fixada em relação à propriedade perfeita, dela saindo o que deva corresponder a quaisquer ónus ou encargos.
+Art. 42.º - 1. A importância global da indemnização será fixada em relação à propriedade perfeita, dela saindo o que deva corresponder a quaisquer ónus ou encargos.
 
 2. A justa indemnização não visa compensar o benefício alcançado pelo expropriante, mas ressarcir o prejuízo que para o expropriado advém da expropriação; o prejuízo do expropriado mede-se pelo valor real e corrente dos bens expropriados, e não pelas despesas que haja de suportar para obter a substituição da coisa expropriada por outra equivalente.
 
-###### Art. 43.º - 1. Na determinação do valor real do prédio deve o julgador atender aos seguintes elementos:
+Art. 43.º - 1. Na determinação do valor real do prédio deve o julgador atender aos seguintes elementos:
 
 a) Situação, estado de conservação, qualidade da construção e condições de sanidade;
 
@@ -464,7 +509,7 @@ c) Quaisquer circunstâncias ulteriores a essa declaração, dependentes da vont
 
 3. Os prejuízos ou encargos a que se refere o n.º 5 do artigo 10.º da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461) serão determinados objectivamente, sem atenção a qualquer forma especial de exploração do prédio utilizada pelo expropriado.
 
-###### Art. 44.º - 1. Nas expropriações de prédios rústicos destinados a obras de urbanização ou abertura de grandes vias de comunicação, ao valor real do prédio serão adicionados 20 por cento da mais-valia resultante do novo destino permitido pelas obras ou melhoramentos projectados.
+Art. 44.º - 1. Nas expropriações de prédios rústicos destinados a obras de urbanização ou abertura de grandes vias de comunicação, ao valor real do prédio serão adicionados 20 por cento da mais-valia resultante do novo destino permitido pelas obras ou melhoramentos projectados.
 
 2. O valor real do prédio rústico será calculado em função do destino e rendimento deste como prédio rústico, tendo em atenção a natureza do terreno e do subsolo, a configuração do imóvel e as suas condições de acesso, o clima da região, os frutos pendentes e demais elementos referidos no artigo anterior.
 
@@ -482,15 +527,15 @@ c) Terreno para construção aquele que, situado em local completa ou parcialmen
 
 6. Na fixação do valor do terreno para construção atender-se-á não só à situação dele, mas também à categoria da urbanização do respectivo local e às possibilidades de utilização do terreno no estado actual.
 
-###### Art. 45.º Na expropriação de direitos diversos da propriedade perfeita, a indemnização será determinada de harmonia com os critérios fixados para aquela propriedade, na parte em que forem aplicáveis.
+Art. 45.º Na expropriação de direitos diversos da propriedade perfeita, a indemnização será determinada de harmonia com os critérios fixados para aquela propriedade, na parte em que forem aplicáveis.
 
 ##### SUBSECÇÃO V — Disposições gerais
 
-###### Art. 46.º No caso de expropriação parcial ou de desistência do pedido por parte do expropriante e sempre que o valor real do prédio, fixado no processo, seja, em 80 por cento, superior ou inferior ao valor matricial, o agente do Ministério Público enviará à secção de finanças competente certidão para os fins do artigo 147.º do Código da Contribuição Predial.
+Art. 46.º No caso de expropriação parcial ou de desistência do pedido por parte do expropriante e sempre que o valor real do prédio, fixado no processo, seja, em 80 por cento, superior ou inferior ao valor matricial, o agente do Ministério Público enviará à secção de finanças competente certidão para os fins do artigo 147.º do Código da Contribuição Predial.
 
-###### Art. 47.º As regras sobre a importância global da indemnização fixadas nos artigos anteriores serão observadas, tanto na arbitragem, como no recurso contra o seu resultado.
+Art. 47.º As regras sobre a importância global da indemnização fixadas nos artigos anteriores serão observadas, tanto na arbitragem, como no recurso contra o seu resultado.
 
-###### Art. 48.º - 1. Fixado o valor da indemnização a pagar pelo expropriante, será este notificado para o depositar, no prazo de dez dias, na Caixa Geral de Depósitos, Crédito e Previdência, à ordem do tribunal, observando-se seguidamente os trâmites relativos à atribuição da importância da indemnização, de harmonia com o disposto no artigo 11.º
+Art. 48.º - 1. Fixado o valor da indemnização a pagar pelo expropriante, será este notificado para o depositar, no prazo de dez dias, na Caixa Geral de Depósitos, Crédito e Previdência, à ordem do tribunal, observando-se seguidamente os trâmites relativos à atribuição da importância da indemnização, de harmonia com o disposto no artigo 11.º
 
 2. Quando, nos termos do n.º 2 do artigo 15.º da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), o expropriante retenha para fins de correcção a terça parte da importância da mais-valia, o depósito efectuar-se-á no termo do decurso do prazo de um ano depois da conclusão da obra, devendo o expropriante juntar um mapa demonstrativo da correcção, se a esta houver lugar; se as questões sobre a inexactidão da correcção não puderem ser resolvidas documentalmente neste processo, deverão as partes recorrer aos meios ordinários.
 
@@ -498,7 +543,7 @@ c) Terreno para construção aquele que, situado em local completa ou parcialmen
 
 4. Estando pendente de agravo a fixação do objecto da expropriação, se em 1.ª instância tiver sido concedida a expropriação total, o depósito a efectuar será o respeitante a esta expropriação, mas o interessado só poderá receber a indemnização correspondente à expropriação parcial.
 
-###### Art. 49.º - 1. Depois de efectuado o depósito da importância não sujeita a retenção e de paga a sisa, quando devida, o expropriante será investido na posse e propriedade dos bens expropriados, nos termos do artigo 3.º da [Lei n.º 2063](https://diariodarepublica.pt/dr/detalhe/lei/2063-1953-643741), de 3 de Junho de 1953.
+Art. 49.º - 1. Depois de efectuado o depósito da importância não sujeita a retenção e de paga a sisa, quando devida, o expropriante será investido na posse e propriedade dos bens expropriados, nos termos do artigo 3.º da [Lei n.º 2063](https://diariodarepublica.pt/dr/detalhe/lei/2063-1953-643741), de 3 de Junho de 1953.
 
 2. Tratando-se de expropriações urgentes, a propriedade e posse serão conferidas logo que seja paga a sisa, quando devida, e depositada a importância fixada na arbitragem.
 
@@ -512,17 +557,17 @@ Mas se qualquer das partes requerer, ao abrigo do artigo 50.º, a vistoria ad pe
 
 6. Nas expropriações urgentíssimas, a que se refere o artigo 16.º da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), a posse não carece de investidura judicial, o mesmo sucedendo no caso do artigo 2.º desse diploma, em que a transferência dos bens expropriados se fará conjuntamente com a dos que constituem objecto do resgate, ainda que a indemnização não esteja fixada.
 
-###### Art. 50.º - 1. Nas expropriações urgentes, qualquer interessado tem a faculdade de requerer a vistoria ad perpetuam rei memoriam destinada a fixar os elementos de facto susceptíveis de desaparecer e cujo conhecimento interesse ao julgamento do recurso.
+Art. 50.º - 1. Nas expropriações urgentes, qualquer interessado tem a faculdade de requerer a vistoria ad perpetuam rei memoriam destinada a fixar os elementos de facto susceptíveis de desaparecer e cujo conhecimento interesse ao julgamento do recurso.
 
 2. O requerimento para a vistoria tem de ser apresentado até 48 horas após a notificação da decisão arbitral e nele deverá o requerente indicar o perito que a haja de efectuar.
 
 O juiz, que assistirá à inspecção do perito, marcará para a diligência um dos dez dias seguintes, mandando notificar a parte contrária.
 
-###### Art. 51.º - 1. A caução prestada pelo expropriante particular, para efeitos da declaração de utilidade pública, subsiste até ao depósito final, sem excepção dos casos em que o expropriante retenha a terça parte da indemnização correspondente à mais-valia.
+Art. 51.º - 1. A caução prestada pelo expropriante particular, para efeitos da declaração de utilidade pública, subsiste até ao depósito final, sem excepção dos casos em que o expropriante retenha a terça parte da indemnização correspondente à mais-valia.
 
 2. A caução é prestada administrativamente.
 
-###### Art. 52.º - 1. Nas acções de expropriação por utilidade pública é lícito ao expropriante desistir do pedido de expropriação enquanto não for investido na propriedade e posse dos bens a expropriar.
+Art. 52.º - 1. Nas acções de expropriação por utilidade pública é lícito ao expropriante desistir do pedido de expropriação enquanto não for investido na propriedade e posse dos bens a expropriar.
 
 2. No caso de desistência, terá o expropriado, porém, o direito a ser indemnizado nos termos do n.º 6 do artigo 6.º da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), considerando-se para o efeito iniciada a expropriação a partir da publicação no Diário do Governo do acto declarativo de utilidade pública.
 
@@ -530,7 +575,7 @@ O juiz, que assistirá à inspecção do perito, marcará para a diligência um 
 
 4. A indemnização será fixada no processo de expropriação, seguindo-se, com as necessárias acomodações, a forma prescrita nos artigos 67 º e seguintes.
 
-###### Art. 53.º - 1. Não são devidas custas pelo processado nas acções de expropriação, mas o expropriante, ainda que se trate de entidade isenta de custas, pagará os salários dos árbitros e as despesas de deslocação do tribunal.
+Art. 53.º - 1. Não são devidas custas pelo processado nas acções de expropriação, mas o expropriante, ainda que se trate de entidade isenta de custas, pagará os salários dos árbitros e as despesas de deslocação do tribunal.
 
 2. Exceptua-se o caso de haver recurso, em que a parte que decair pagará custas pelo processado do recurso, sendo o imposto de justiça fixado pelo juiz até metade do correspondente a uma acção de igual valor.
 
@@ -538,43 +583,43 @@ O juiz, que assistirá à inspecção do perito, marcará para a diligência um 
 
 4. As custas são liquidadas a final, sendo as devidas pelo expropriado pagas pelo produto da expropriação.
 
-###### Art. 54.º - 1. O valor do processo consiste na diferença entre o valor fixado na arbitragem e a importância indicada pelo recorrente.
+Art. 54.º - 1. O valor do processo consiste na diferença entre o valor fixado na arbitragem e a importância indicada pelo recorrente.
 
 2. No caso de haver mais do que um recorrente, atender-se-á à maior das diferenças.
 
-###### Art. 55.º - 1. A compensação devida às autarquias locais pelos prejuízos que resultarem da afectação dos seus bens do domínio público a outros fins de utilidade pública far-se-á em espécie ou em valor, como melhor convier aos fins públicos em causa.
+Art. 55.º - 1. A compensação devida às autarquias locais pelos prejuízos que resultarem da afectação dos seus bens do domínio público a outros fins de utilidade pública far-se-á em espécie ou em valor, como melhor convier aos fins públicos em causa.
 
 2. A entidade competente para declarar a nova afectação terá também competência para fixar o montante da compensação, bem como a forma de a realizar.
 
 ### CAPÍTULO II — Da venda de terrenos expropriados para construção
 
-###### Art. 56.º A venda dos terrenos a que se refere o artigo 7.º da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461) efectuar-se-á perante a câmara municipal do concelho da situação de cada prédio ou da maior parte de cada um deles.
+Art. 56.º A venda dos terrenos a que se refere o artigo 7.º da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461) efectuar-se-á perante a câmara municipal do concelho da situação de cada prédio ou da maior parte de cada um deles.
 
-###### Art. 57.º - 1. Para a hasta pública serão notificados os interessados com direito de preferência.
+Art. 57.º - 1. Para a hasta pública serão notificados os interessados com direito de preferência.
 
 2. Os interessados que residirem no concelho são notificados pessoalmente; os outros, se tiverem residência conhecida, sê-lo-ão por carta registada e, se a não tiverem, por éditos de oito dias, sem anúncios, e bem assim na pessoa de família, feitor, administrador, arrendatário ou de outrem, desde que residam no concelho e estejam em condições de transmitir a notificação.
 
-###### Art. 58.º O expropriado prefere aos demais interessados.
+Art. 58.º O expropriado prefere aos demais interessados.
 
 ### CAPÍTULO III — Da reversão dos bens expropriados
 
-###### Art. 59.º - 1. A reversão, a que se referem os artigos 8.º e 9.º da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), será requerida à entidade que houver declarado a utilidade pública da expropriação, através do expropriante.
+Art. 59.º - 1. A reversão, a que se referem os artigos 8.º e 9.º da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), será requerida à entidade que houver declarado a utilidade pública da expropriação, através do expropriante.
 
 2. Com o requerimento juntar-se-ão quaisquer documentos úteis à prova do fundamento alegado, devendo apensar-se-lhe o processo relativo à declaração de utilidade pública da expropriação.
 
-###### Art. 60.º - 1. No caso de ter havido a intervenção de vários interessados na expropriação, a reversão será requerida por todos aqueles cujos direitos não hajam caducado definitivamente por lei com o pagamento da indemnização. A reversão será, todavia, autorizada quando os requerentes façam prova documental de renúncia dos restantes e assumam os encargos que a estes competiriam por força da reversão.
+Art. 60.º - 1. No caso de ter havido a intervenção de vários interessados na expropriação, a reversão será requerida por todos aqueles cujos direitos não hajam caducado definitivamente por lei com o pagamento da indemnização. A reversão será, todavia, autorizada quando os requerentes façam prova documental de renúncia dos restantes e assumam os encargos que a estes competiriam por força da reversão.
 
 2. O pedido de expropriação, feito nos termos do artigo 18.º, não prejudica a reversão sobre a totalidade do prédio.
 
-###### Art. 61.º - 1. Dentro do prazo de 30 dias será o processo enviado pelo expropriante, com informação circunstanciada sobre os fundamentos invocados pelo requerente, à entidade que houver declarado a utilidade pública da expropriação.
+Art. 61.º - 1. Dentro do prazo de 30 dias será o processo enviado pelo expropriante, com informação circunstanciada sobre os fundamentos invocados pelo requerente, à entidade que houver declarado a utilidade pública da expropriação.
 
 2. Se a remessa se não fizer dentro do prazo estipulado, será o processo avocado, oficiosamente ou a requerimento do interessado, pela entidade a quem é dirigido.
 
-###### Art. 62.º - 1. A entidade competente para decidir poderá determinar que as partes juntem quaisquer outros documentos e prestem os esclarecimentos necessários, mandando ainda, se for caso disso, proceder à inspecção do local.
+Art. 62.º - 1. A entidade competente para decidir poderá determinar que as partes juntem quaisquer outros documentos e prestem os esclarecimentos necessários, mandando ainda, se for caso disso, proceder à inspecção do local.
 
 2. Logo que do processo constem os elementos necessários, será proferida decisão dentro do prazo de 30 dias, dela havendo recurso para o Supremo Tribunal Administrativo.
 
-###### Art. 63.º Autorizada definitivamente a reversão, o interessado deduzirá perante o tribunal da comarca da situação do prédio ou da maior parte dele o pedido de adjudicação, instruindo a sua pretensão com os documentos seguintes:
+Art. 63.º Autorizada definitivamente a reversão, o interessado deduzirá perante o tribunal da comarca da situação do prédio ou da maior parte dele o pedido de adjudicação, instruindo a sua pretensão com os documentos seguintes:
 
 a) Certidão da decisão ou deliberação que autorizou a reversão;
 
@@ -584,67 +629,67 @@ c) Certidão da descrição e inscrição matriciais e do rendimento colectável
 
 d) Conhecimento do depósito na Caixa Geral de Depósitos, Crédito e Previdência de todas as importâncias pagas como indemnização pelo expropriante.
 
-###### Art. 64.º - 1. Dentro dos cinco dias subsequentes à dedução do pedido será o prédio adjudicado pelo juiz ao interessado, a quem o mandará reverter com os ónus e encargos existentes à data da expropriação e que não hajam caducado definitivamente.
+Art. 64.º - 1. Dentro dos cinco dias subsequentes à dedução do pedido será o prédio adjudicado pelo juiz ao interessado, a quem o mandará reverter com os ónus e encargos existentes à data da expropriação e que não hajam caducado definitivamente.
 
 2. As indemnizações depositadas serão levantadas pelo expropriante ou por quem posteriormente haja adquirido o domínio sobre o prédio.
 
-###### Art. 65.º - 1. Quando se trate de parcelas declaradas sobrantes, nos termos do artigo 9.º da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), ou o valor do prédio tenha sofrido alterações, mercê de benfeitorias úteis ou de deteriorações por que responda o expropriante, será o preço a restituir, na falta de acordo das partes, fixado por meio de arbitragem, com recurso para o tribunal da comarca.
+Art. 65.º - 1. Quando se trate de parcelas declaradas sobrantes, nos termos do artigo 9.º da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), ou o valor do prédio tenha sofrido alterações, mercê de benfeitorias úteis ou de deteriorações por que responda o expropriante, será o preço a restituir, na falta de acordo das partes, fixado por meio de arbitragem, com recurso para o tribunal da comarca.
 
 2. Igual procedimento se observará na falta de acordo sobre o valor das obras que o expropriante, quando entidade particular, haja efectuado dentro dos fins da expropriação.
 
-###### Art. 66.º - 1. Os interessados requererão no tribunal da comarca da situação do prédio ou da maior parte dele a citação do expropriante para a nomeação de árbitros.
+Art. 66.º - 1. Os interessados requererão no tribunal da comarca da situação do prédio ou da maior parte dele a citação do expropriante para a nomeação de árbitros.
 
 2. O requerimento será acompanhado dos documentos a que se refere o artigo 63.º
 
-###### Art. 67.º - 1. Recebida a petição, o juiz designará, dentro de 48 horas, qualquer dos 10 dias seguintes para a tentativa de conciliação e a nomeação de árbitros, no caso de a tentativa se frustrar, mandando citar o expropriante, o expropriado e demais interessados.
+Art. 67.º - 1. Recebida a petição, o juiz designará, dentro de 48 horas, qualquer dos 10 dias seguintes para a tentativa de conciliação e a nomeação de árbitros, no caso de a tentativa se frustrar, mandando citar o expropriante, o expropriado e demais interessados.
 
 2. O expropriado e os interessados residentes fora da área da comarca são citados, precedendo éditos de oito dias, sem anúncios.
 
 3. A conciliação realizada com o expropriante obriga o expropriado e outros interessados citados pessoalmente que não comparecerem.
 
-###### Art. 68.º - 1. Não se conciliando as partes, o juiz nomeará imediatamente um árbitro da lista oficial publicada pelo Ministério da Justiça.
+Art. 68.º - 1. Não se conciliando as partes, o juiz nomeará imediatamente um árbitro da lista oficial publicada pelo Ministério da Justiça.
 
 2. À nomeação dos restantes árbitros e aos termos subsequentes do processo é aplicável, com as necessárias acomodações, o disposto nos artigos 20.º a 27.º
 
-###### Art. 69.º No requerimento de interposição do recurso contra a decisão dos árbitros, ao qual deverão ser juntos os documentos necessários, exporá o recorrente as razões da sua discordância e designará o seu perito para intervir na avaliação.
+Art. 69.º No requerimento de interposição do recurso contra a decisão dos árbitros, ao qual deverão ser juntos os documentos necessários, exporá o recorrente as razões da sua discordância e designará o seu perito para intervir na avaliação.
 
-###### Art. 70.º - 1. Admitido o recurso, será o processo imediatamente remetido à secretaria para entrar na primeira distribuição e se notificar o não recorrente.
+Art. 70.º - 1. Admitido o recurso, será o processo imediatamente remetido à secretaria para entrar na primeira distribuição e se notificar o não recorrente.
 
 2. Para efeitos de distribuição, o processo pertence à espécie 4.ª do artigo 222.º do Código de Processo Civil.
 
-###### Art. 71.º O não recorrente poderá responder nos oito dias seguintes à notificação, juntando documentos e indicando o seu perito.
+Art. 71.º O não recorrente poderá responder nos oito dias seguintes à notificação, juntando documentos e indicando o seu perito.
 
-###### Art. 72.º - 1. Findo o prazo para a apresentação da resposta, proceder-se-á à avaliação, que será presidida pelo juiz.
+Art. 72.º - 1. Findo o prazo para a apresentação da resposta, proceder-se-á à avaliação, que será presidida pelo juiz.
 
 2. À avaliação é aplicável o disposto nos artigos 36.º e 37.º
 
-###### Art. 73.º Efectuada a avaliação, o juiz mandará notificar as partes, para alegarem nos termos do artigo 40.º
+Art. 73.º Efectuada a avaliação, o juiz mandará notificar as partes, para alegarem nos termos do artigo 40.º
 
-###### Art. 74.º - 1. Findo o prazo das alegações, o juiz proferirá decisão, dentro dos dez dias subsequentes, a fixar o valor da reversão.
+Art. 74.º - 1. Findo o prazo das alegações, o juiz proferirá decisão, dentro dos dez dias subsequentes, a fixar o valor da reversão.
 
 2. À fixação do valor a efectuar pelo juiz é aplicável o disposto no n.º 2 do artigo 41.º
 
 3. A decisão será notificada às partes no prazo de 48 horas e é recorrível, nos termos gerais, sòmente para o tribunal da Relação.
 
-###### Art. 75.º - 1. O processamento da acção será regulado por forma que se encontre julgada no prazo de três meses, a contar da interposição do recurso, salvo ocorrendo caso de força maior devidamente comprovado.
+Art. 75.º - 1. O processamento da acção será regulado por forma que se encontre julgada no prazo de três meses, a contar da interposição do recurso, salvo ocorrendo caso de força maior devidamente comprovado.
 
 2. Decorrido o prazo fixado sem que a acção esteja julgada, dará o juiz cumprimento ao disposto no artigo 39.º
 
-###### Art. 76.º As custas e o valor do processo reger-se-ão pelo disposto nos artigos 53.º e 54.º
+Art. 76.º As custas e o valor do processo reger-se-ão pelo disposto nos artigos 53.º e 54.º
 
-###### Art. 77.º Fixado o preço, serão os interessados notificados para o depositar na Caixa Geral de Depósitos, Crédito e Previdência, proferindo o juiz seguidamente a decisão a que se refere o artigo 64.º
+Art. 77.º Fixado o preço, serão os interessados notificados para o depositar na Caixa Geral de Depósitos, Crédito e Previdência, proferindo o juiz seguidamente a decisão a que se refere o artigo 64.º
 
 ### CAPÍTULO IV — Do encargo de mais-valia
 
-###### Art. 78.º O encargo de mais-valia a que ficam sujeitos os prédios rústicos não expropriados que, em virtude de obras de urbanização ou da abertura de grandes vias de comunicação ou de simples aprovação de planos de urbanização ou projectos, aumentem consideràvelmente de valor pela possibilidade da sua imediata aplicação como terrenos de construção urbana será cobrado nos termos dos artigos seguintes.
+Art. 78.º O encargo de mais-valia a que ficam sujeitos os prédios rústicos não expropriados que, em virtude de obras de urbanização ou da abertura de grandes vias de comunicação ou de simples aprovação de planos de urbanização ou projectos, aumentem consideràvelmente de valor pela possibilidade da sua imediata aplicação como terrenos de construção urbana será cobrado nos termos dos artigos seguintes.
 
-###### Art. 79.º - 1. Logo que aprovados pelo Ministro competente os projectos das obras ou os planos, com a delimitação da área valorizada, serão os respectivos processos remetidos ao Conselho de Ministros, a fim de ser homologada a delimitação proposta.
+Art. 79.º - 1. Logo que aprovados pelo Ministro competente os projectos das obras ou os planos, com a delimitação da área valorizada, serão os respectivos processos remetidos ao Conselho de Ministros, a fim de ser homologada a delimitação proposta.
 
 2. O despacho de homologação não produzirá efeitos enquanto não for publicado no Diário do Governo.
 
 3. Os processos relativos aos planos de urbanização já aprovados serão remetidos ao Conselho de Ministros para os efeitos do disposto neste artigo.
 
-###### Art. 80.º - 1. Publicado no Diário do Governo o despacho homologatório da área urbanizada, se houver acordo entre os interessados sobre o quantitativo da mais-valia a pagar, proceder-se-á de harmonia com o disposto nos artigos 4.º e seguintes, na parte aplicável; na falta de acordo, a entidade que realizar as obras requererá ao tribunal da comarca da situação de cada um dos prédios abrangidos naquela área a citação dos respectivos interessados para a nomeação dos árbitros que hão-de proceder à fixação da mais-valia.
+Art. 80.º - 1. Publicado no Diário do Governo o despacho homologatório da área urbanizada, se houver acordo entre os interessados sobre o quantitativo da mais-valia a pagar, proceder-se-á de harmonia com o disposto nos artigos 4.º e seguintes, na parte aplicável; na falta de acordo, a entidade que realizar as obras requererá ao tribunal da comarca da situação de cada um dos prédios abrangidos naquela área a citação dos respectivos interessados para a nomeação dos árbitros que hão-de proceder à fixação da mais-valia.
 
 2. O requerimento da entidade promotora das obras será acompanhado dos seguintes documentos:
 
@@ -654,30 +699,30 @@ b) Certidão da descrição e inscrição matriciais e do rendimento colectável
 
 c) Exemplar do Diário do Governo com o despacho homologatório do Conselho de Ministros.
 
-###### Art. 81.º Os termos subsequentes do processo reger-se-ão pelo disposto nos artigos 67.º a 76.º, na parte aplicável.
+Art. 81.º Os termos subsequentes do processo reger-se-ão pelo disposto nos artigos 67.º a 76.º, na parte aplicável.
 
-###### Art. 82.º O encargo de mais-valia é de 50 por cento da importância fixada e será pago à entidade que fizer as obras pelo proprietário do terreno.
+Art. 82.º O encargo de mais-valia é de 50 por cento da importância fixada e será pago à entidade que fizer as obras pelo proprietário do terreno.
 
-###### Art. 83.º O encargo só se torna exigível verificadas que sejam as seguintes condições:
+Art. 83.º O encargo só se torna exigível verificadas que sejam as seguintes condições:
 
 a) Encontrar-se o prédio a que respeita situado dentro da área já considerada como concretamente beneficiada por despacho do Ministro das Obras Públicas, publicado no Diário do Governo;
 
 b) Ter sido requerida licença para construção.
 
-###### Art. 84.º Verificados os requisitos da exigibilidade do encargo de mais-valia, a entidade credora avisará em postal, com aviso de recepção, o responsável para efectuar o pagamento voluntário, dentro do prazo que lhe for assinado.
+Art. 84.º Verificados os requisitos da exigibilidade do encargo de mais-valia, a entidade credora avisará em postal, com aviso de recepção, o responsável para efectuar o pagamento voluntário, dentro do prazo que lhe for assinado.
 
-###### Art. 85.º - 1. O responsável pode requerer o pagamento em prestações, que só lhe será recusado se o encargo total for inferior a 10000$00.
+Art. 85.º - 1. O responsável pode requerer o pagamento em prestações, que só lhe será recusado se o encargo total for inferior a 10000$00.
 
 2. As prestações serão semestrais e em número não superior a seis, acrescendo à verba a liquidar os juros respectivos.
 
-###### Art. 86.º - 1. A licença de construção só será concedida depois de pago o encargo de mais-valia, salvo se ao responsável for autorizado o pagamento em prestações.
+Art. 86.º - 1. A licença de construção só será concedida depois de pago o encargo de mais-valia, salvo se ao responsável for autorizado o pagamento em prestações.
 
 2. Neste último caso, se o responsável não pagar em tempo oportuno qualquer das prestações devidas, será o conhecimento da importância em dívida remetido ao tribunal das execuções fiscais para a cobrança coerciva.
 
-###### Art. 87.º Ficam revogados os Decretos n.os 37758 e 39043, respectivamente de 22 de Fevereiro de 1950 e de 18 de Dezembro de 1952.
+Art. 87.º Ficam revogados os Decretos n.os 37758 e 39043, respectivamente de 22 de Fevereiro de 1950 e de 18 de Dezembro de 1952.
 
-###### Art. 88.º As disposições deste diploma não são aplicáveis às acções pendentes e entram em vigor quinze dias após a sua publicação.
+Art. 88.º As disposições deste diploma não são aplicáveis às acções pendentes e entram em vigor quinze dias após a sua publicação.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 8 de Abril de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Eduardo de Arantes e Oliveira.

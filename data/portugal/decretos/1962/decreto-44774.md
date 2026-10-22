@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44774-1962-155209
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-12-06T00:00:00Z'
+  retrieved_at: '2026-10-22T19:32:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 771f9b7a43dcbb56d1f8baece34d97b172a9d8ec8c63d00ffda0f3a0ca91849d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2921c8e758d5806b8561935e9ad7a74f41cdeffb1e950a5f3cce5095cc6fa32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:32:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:520198:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:32:46Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +99,7 @@ Ouvida a Comissão Técnica de Apoio aos Institutos de Educação e Serviço Soc
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A admissão à matrícula no curso de assistentes sociais, independentemente do disposto no § 4.º do artigo 3.º do [Decreto n.º 44159](https://diariodarepublica.pt/dr/detalhe/decreto/44159-1962-520198), de 18 de Janeiro de 1962, é permitida:
+Artigo 1.º A admissão à matrícula no curso de assistentes sociais, independentemente do disposto no § 4.º do artigo 3.º do [Decreto n.º 44159](https://diariodarepublica.pt/dr/detalhe/decreto/44159-1962-520198), de 18 de Janeiro de 1962, é permitida:
 
 A) A pessoas que, possuindo as habilitações mínimas do 2.º ciclo liceal ou equivalente e dois anos de trabalho profissional bem classificado, tenham qualquer dos seguintes cursos:
 
@@ -109,13 +113,13 @@ B) A pessoas que possuam qualquer curso que permita a matrícula em escola de en
 
 C) A pessoas habilitadas com o curso completo dos seminários (Filosofia e Teologia).
 
-###### Art. 2.º A admissão ao curso de educadores sociais, independentemente do disposto no § 4.º do artigo 3.º do [Decreto n.º 44159](https://diariodarepublica.pt/dr/detalhe/decreto/44159-1962-520198), de 18 de Janeiro de 1962, é permitida às agentes de educação familiar rural habilitadas com o 1.º ciclo liceal ou ciclo preparatório do ensino técnico ou equivalente, três anos de efectivo exercício profissional e boas informações de serviço.
+Art. 2.º A admissão ao curso de educadores sociais, independentemente do disposto no § 4.º do artigo 3.º do [Decreto n.º 44159](https://diariodarepublica.pt/dr/detalhe/decreto/44159-1962-520198), de 18 de Janeiro de 1962, é permitida às agentes de educação familiar rural habilitadas com o 1.º ciclo liceal ou ciclo preparatório do ensino técnico ou equivalente, três anos de efectivo exercício profissional e boas informações de serviço.
 
 § único. As candidatas referidas no corpo do artigo ficam sujeitas a provas de aptidão organizadas pela direcção do instituto.
 
-###### Art. 3.º A admissão à matrícula no curso de monitores da família, independentemente do disposto no § 4.º do artigo 3.º do [Decreto n.º 44159](https://diariodarepublica.pt/dr/detalhe/decreto/44159-1962-520198), de 18 de Janeiro de 1962, é permitida aos diplomados pelo ciclo preparatório do ensino técnico ou a quem, possuindo o exame do ensino primário geral ou equivalente, possua também o curso complementar de aprendizagem agrícola.
+Art. 3.º A admissão à matrícula no curso de monitores da família, independentemente do disposto no § 4.º do artigo 3.º do [Decreto n.º 44159](https://diariodarepublica.pt/dr/detalhe/decreto/44159-1962-520198), de 18 de Janeiro de 1962, é permitida aos diplomados pelo ciclo preparatório do ensino técnico ou a quem, possuindo o exame do ensino primário geral ou equivalente, possua também o curso complementar de aprendizagem agrícola.
 
-###### Art. 4.º Até ao início do ano lectivo de 1965-1966, sob proposta das direcções dos institutos de educação e serviço social, os directores e chefes dos serviços de instrução poderão autorizar:
+Art. 4.º Até ao início do ano lectivo de 1965-1966, sob proposta das direcções dos institutos de educação e serviço social, os directores e chefes dos serviços de instrução poderão autorizar:
 
 A) Que as pessoas diplomadas ou não que trabalhem no campo da educação e acção social no ultramar se matriculem nos cursos ministrados nos mesmos institutos, tendo em conta, para efeito de matrícula, o trabalho profissional realizado e as habilitações académicas que mais se aproximem das exigências gerais de admissão aos cursos ministrados nos institutos;
 
@@ -123,17 +127,17 @@ B) Que os agentes de trabalho social e educação familiar dos cursos intensivos
 
 C) Que as jardineiras de infância dos cursos intensivos de educação e serviço social de Luanda, ou outras pessoas que hajam frequentado esses cursos com aprovação nas provas finais, tenham direito ao título de monitoras de infância, observadas as restantes condições referidas na alínea D).
 
-###### Art. 5.º Até ao início do ano lectivo de 1965-1966 poderão os governadores, mediante proposta dos directores e chefes de serviços de instrução, autorizar a matrícula nos vários cursos dos institutos de educação e serviço social de pessoas com habilitações não nacionais.
+Art. 5.º Até ao início do ano lectivo de 1965-1966 poderão os governadores, mediante proposta dos directores e chefes de serviços de instrução, autorizar a matrícula nos vários cursos dos institutos de educação e serviço social de pessoas com habilitações não nacionais.
 
 § único. Os candidatos serão submetidos a provas de admissão, que versarão sobre Português, História Pátria e Matemática, quando se trate de admissão a cursos que requeiram a habilitação-base do 1.º ou 2.º ciclos liceais ou equivalente, e Português, História Pátria e Filosofia, quando se trate de curso que exige como habilitação-base o 3.º ciclo liceal ou equivalente.
 
-###### Art. 6.º Anualmente a direcção dos institutos de educação e serviço social fixará, o número máximo de alunos a admitir em cada um dos cursos dos institutos, de harmonia com a disponibilidade das instalações e possibilidades do pessoal do quadro docente.
+Art. 6.º Anualmente a direcção dos institutos de educação e serviço social fixará, o número máximo de alunos a admitir em cada um dos cursos dos institutos, de harmonia com a disponibilidade das instalações e possibilidades do pessoal do quadro docente.
 
 § 1.º Terão preferência absoluta na matrícula os candidatos habilitados com os requisitos exigidos pelo [Decreto n.º 44159](https://diariodarepublica.pt/dr/detalhe/decreto/44159-1962-520198), de 18 de Janeiro de 1962.
 
 § 2.º Havendo vagas, serão preenchidas, até ao número limite, por candidatos que satisfaçam às condições deste diploma, preferindo-se sempre os mais novos em conjugação com as mais elevadas habilitações.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Dezembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

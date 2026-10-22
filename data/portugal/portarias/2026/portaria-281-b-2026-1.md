@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/281-b/2026/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/281-b-2026-1140260281
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:45:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fcf2032dcdd41c9667dafe38df7b9b0c7cc9b4314b66d179cdfafe3833b4cee6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69969ea3a68889bd1f63783f6f1a1f3596f6a2e4d9f49da1f3b2d62a59f6c225
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:45:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,27 +70,60 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Beneficiário
 - Cartografia
 - Desenvolvimento Rural
-- Regulamentação de Atos Legislativos
 - Feader
-- União Europeia
+- Financiamento
 - Formulário Eletrónico
 - IFAP
+- Inventário
 - Investimento
 - Plano de Gestão Florestal
-- Proteção do Ambiente
-- Plano Municipal de Defesa da Floresta contra Incêndios
-- Regulamento CE
-- Inventário
 - Plano Estratégico da Política Agrícola Comum de Portugal
+- Plano Municipal de Defesa da Floresta contra Incêndios
+- Proteção do Ambiente
+- Regulamentação de Atos Legislativos
+- Regulamento CE
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:1153698652:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:portaria:124/2025
+  label: Altera, a partir e com efeitos a 30 de junho de 2026, os artigos 3.º, 7.º (com efeitos a 22 de março de 2025), 8.º,
+    9.º, (n.ºs 5 e 6 do artigo 8.º, n.º 9 do artigo 11.º, com efeitos a 22 de março de 2025) 10.º, 11.º, 17.º (as alíneas
+    a), b) e f) do n.º 2 e nºs 4, 5, 6 e 7 do presente artigo com efeitos a 22 de março de 2025), 20.º, 22.º( este com efeitos
+    a 22 de março de 2025), altera os anexos i, ii e iii ( alínea a) do n.º 2 do artigo 17.º neste anexo, com efeitos a 22
+    de março de 2025) da Portaria n.º 124/2025/1, de 21 de março, Diário da República n.º 57/2025, Série I
+  source: null
+  date: '2025-03-21'
+- type: amends
+  target: pt:numero:portaria:125/2025
+  label: Altera a partir e com efeitos a 30 de junho de 2026, os artigos 3.º, 8.º(estes com efeitos a 22 de março de 2025),
+    9.º(os n.ºs 4, 5 e 6 do presente artigo com efeitos a 22 de março de 2025), 10.º, 11.º, 12.º, 13.º(o n.º 6 do presente
+    artigo artigo com efeitos a 22 de março de 2025), 19.º(alíneas a), b) e f) do n.º 2 e n.ºs 4, 5, 6 e 7 do presente artigo
+    com efeitos a 22 de março de 2025), 22.º, 24.º (este com efeitos a 22 de março de 2025), altera os anexos i, ii e iii
+    (alínea a) do n.º 2 do artigo 19.º no presente anexo, com efeitos a 22 de março de 2025), adita o artigo 3.º-A da Portaria
+    n.º 125/2025/1, de 21 de março, Diário da República n.º 57/2025, Série I
+  source: null
+  date: '2025-03-21'
+- type: amends
+  target: pt:numero:portaria:120/2026
+  label: Altera, a partir e com efeitos a 30 de junho de 2026, os artigos 3.º (produz efeitos a 15 de março de 2026) 10.,
+    11.º ( o n.º 9 deste artigo produz efeitos a 15 de março de 2026), altera os anexos i e ii da Portaria n.º 120/2026/1,
+    de 19 de março, Diário da República n.º 55/2026, Série I
+  source: null
+  date: '2026-03-19'
+- type: amends
+  target: pt:numero:portaria:121/2026
+  label: Altera a partir e com efeitos a 30 de junho de 2026, os artigos 3.º (este com efeitos a 15 de março de 2026), 4.º,
+    9.º, 12.º, 13.º (o n.º 9 do presente artigo, com efeitos a 15 de março de 2026) altera os anexos i e ii da Portaria n.º
+    121/2026/1, de 19 de março, Diário da República n.º 55/2026, Série I de
+  source: null
+  date: '2026-03-19'
 - type: cites
   target: celex:32014R0651
   label: null
@@ -143,16 +176,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/313/2025/09/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/313/2025/09/15/p/dre
+- type: cites
+  target: pt:dre:1074104066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1074104067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107507171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108010871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136678483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172745163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207760041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70128394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:911850388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:911850389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:935257201:por
+  label: null
+  source: null
 article_structure:
-  article_count: 34
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:45:37Z'
   warnings: []
   errors: []
 ---
@@ -239,7 +340,9 @@ t) ‘Plano Municipal de Defesa da Floresta Contra Incêndios (PMDFCI)’, estud
 
 u) ‘Programas municipais de execução de gestão integrada de fogos rurais (PME)’, definidos no [Decreto-Lei n.º 82/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), de 13 de outubro, na sua redação atual.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -253,7 +356,9 @@ u) ‘Programas municipais de execução de gestão integrada de fogos rurais (P
 
 6 - A condição de os beneficiários serem detentores de terras agrícolas e não agrícolas e efetuarem o respetivo registo no SIP, prevista na primeira parte da alínea a) do n.º 2 do presente artigo, deve encontrar-se cumprida até à data de submissão autenticada do termo de aceitação.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -281,7 +386,9 @@ g) [...]
 
 6 - Quando à data da submissão da candidatura o PGF referido na alínea f) do n.º 1 não se encontre aprovado, mas tenha sido apresentado o respetivo pedido de aprovação no ICNF, I. P., considera-se o critério como cumprido, desde que a sua aprovação pelo ICNF, I. P., decorra dentro do prazo de análise da candidatura, nos termos do n.º 3 do artigo 15.º
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - As despesas elegíveis e não elegíveis são as constantes do anexo i à presente portaria, da qual faz parte integrante.
 
@@ -297,7 +404,9 @@ g) [...]
 
 7 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -313,7 +422,9 @@ e) [Revogada.]
 
 2 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -343,7 +454,9 @@ b) [...]
 
 10 - [...]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -375,7 +488,9 @@ h) Comunicar à entidade responsável pela monitorização da execução da oper
 
 7 - O incumprimento dos prazos de execução previstos no artigo seguinte constitui fundamento suscetível de determinar a revogação da decisão de aprovação.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -407,7 +522,9 @@ h) Comunicar à entidade responsável pela monitorização da execução da oper
 
 15 - [...]
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...]
 
@@ -487,7 +604,9 @@ dd) ‘Programas municipais de execução de gestão integrada de fogos rurais (
 
 3 - [Revogado.]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -503,7 +622,9 @@ dd) ‘Programas municipais de execução de gestão integrada de fogos rurais (
 
 7 - [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -553,7 +674,9 @@ viii) [...]
 
 6 - Quando à data da submissão da candidatura o PGF referido na subalínea vii) das alíneas a) e b) do n.º 1 não se encontre aprovado, mas tenha sido apresentado o respetivo pedido de aprovação no ICNF, I. P., considera-se o critério como cumprido desde que a sua aprovação pelo ICNF, I. P., decorra dentro do prazo de análise da candidatura, nos termos do n.º 3 do artigo 17.º
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -571,7 +694,9 @@ f) [...]
 
 2 - [Revogado.]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - As despesas elegíveis e não elegíveis são as constantes do anexo i à presente portaria, da qual faz parte integrante.
 
@@ -589,7 +714,9 @@ f) [...]
 
 8 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -607,7 +734,9 @@ f) Apresentem investimentos inseridos em áreas ardidas ou catástrofes naturais
 
 2 - A hierarquização dos critérios constantes do número anterior bem como os respetivos fatores, fórmulas, ponderação e critérios de desempate são definidos pela autoridade de gestão do PEPAC no continente e constam no aviso para apresentação de candidaturas.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Os apoios previstos no presente capítulo são concedidos sob a forma de subvenção não reembolsável
 
@@ -627,7 +756,9 @@ b) [...]
 
 7 - [...]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]
 
@@ -659,7 +790,9 @@ h) Comunicar à entidade responsável pela monitorização da execução da oper
 
 7 - O incumprimento dos prazos de execução previstos no artigo seguinte constitui fundamento suscetível de determinar a revogação da decisão de aprovação.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...]
 
@@ -691,7 +824,9 @@ h) Comunicar à entidade responsável pela monitorização da execução da oper
 
 15 - [...]
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...]
 
@@ -749,7 +884,9 @@ t) [...]
 
 u) [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Consideram-se operações com escala territorial relevante as operações que abranjam áreas iguais ou superiores a 750 hectares, sem prejuízo do disposto nos números seguintes.
 
@@ -757,7 +894,9 @@ u) [...]
 
 3 - [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -769,7 +908,9 @@ u) [...]
 
 5 - Quando à data da submissão da candidatura, o PGF referido na alínea e) do n.º 1 não se encontre aprovado, mas tenha sido apresentado o respetivo pedido de aprovação no ICNF, I. P., considera-se o critério como cumprido desde que a sua aprovação pelo ICNF, I. P., decorra dentro do prazo de análise da candidatura, nos termos do n.º 3 do artigo 16.º
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -785,7 +926,9 @@ d) Apresentem investimentos que contemplem determinadas espécies florestais a d
 
 3 - [...]
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -869,7 +1012,9 @@ u) [...]
 
 v) [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -885,7 +1030,9 @@ e) [...]
 
 2 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -945,15 +1092,15 @@ São alterados os anexos i e ii da [Portaria n.º 120/2026/1](https://diariodare
 
 2 - As alterações previstas na presente portaria produzem efeitos no dia seguinte ao da sua publicação, com exceção:
 
-a) Das alterações aos artigos 3.º e 7.º, aos n.<sup>os</sup>5 e 6 do artigo 8.º, ao n.º 9 do artigo 11.º, às alíneas a), b) e f) do n.º 2 e n.<sup>os</sup>4, 5, 6 e 7 do artigo 17.º e ao artigo 22.º, bem como da alteração relativa à alínea a) do n.º 2 do artigo 17.º no anexo iii da [Portaria n.º 124/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/124-2025-911850388), de 21 de março, que produzem efeitos à data da sua entrada em vigor;
+a) Das alterações aos artigos 3.º e 7.º, aos n.os5 e 6 do artigo 8.º, ao n.º 9 do artigo 11.º, às alíneas a), b) e f) do n.º 2 e n.os4, 5, 6 e 7 do artigo 17.º e ao artigo 22.º, bem como da alteração relativa à alínea a) do n.º 2 do artigo 17.º no anexo iii da [Portaria n.º 124/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/124-2025-911850388), de 21 de março, que produzem efeitos à data da sua entrada em vigor;
 
-b) Das alterações aos artigos 3.º e 8.º, aos n.<sup>os</sup>4, 5 e 6 do artigo 9.º, ao n.º 6 do artigo 13.º, às alíneas a), b) e f) do n.º 2 e n.<sup>os</sup>4, 5, 6 e 7 do artigo 19.º e ao artigo 24.º, bem como da alteração relativa à alínea a) do n.º 2 do artigo 19.º no anexo iii da [Portaria n.º 125/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/125-2025-911850389), de 21 de março, que produzem efeitos à data da sua entrada em vigor;
+b) Das alterações aos artigos 3.º e 8.º, aos n.os4, 5 e 6 do artigo 9.º, ao n.º 6 do artigo 13.º, às alíneas a), b) e f) do n.º 2 e n.os4, 5, 6 e 7 do artigo 19.º e ao artigo 24.º, bem como da alteração relativa à alínea a) do n.º 2 do artigo 19.º no anexo iii da [Portaria n.º 125/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/125-2025-911850389), de 21 de março, que produzem efeitos à data da sua entrada em vigor;
 
 c) Das alterações ao artigo 3.º e ao n.º 9 do artigo 13.º da [Portaria n.º 121/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/121-2026-1074104067), de 19 de março, que produzem efeitos à data da sua entrada em vigor;
 
 d) Das alterações ao artigo 3.º e ao n.º 9 do artigo 11.º da [Portaria n.º 120/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/120-2026-1074104066), de 19 de março, que produzem efeitos à data da sua entrada em vigor.
 
-**O Ministro da Agricultura e Mar, José Manuel Fernandes, em 26 de junho de 2026.**
+O Ministro da Agricultura e Mar, José Manuel Fernandes, em 26 de junho de 2026.
 
 ## ANEXO I — (a que se refere o artigo 7.º)
 
@@ -994,7 +1141,9 @@ Despesas não elegíveis
 | 17 - Bens de equipamento em estado de uso;18 - Obras provisórias não diretamente ligadas à execução da operação;19 - Ações de arborização ou rearborização com recurso a espécies de rápido crescimento, espécies exploradas em talhadia de rotação inferior a 20 anos, de árvores de Natal e de árvores de crescimento rápido utilizadas na produção de energia;20 - Ações a realizar em espaços florestais integrados nos perímetros urbanos definidos nos instrumentos de gestão territorial vinculativos para os particulares, com exceção dos afetos à estrutura ecológica definida nos Planos Municipais de Ordenamento do Território (PMOT);21 - Ações de arborização ou rearborização de áreas que integrem perímetros de emparcelamento, nos termos da [Lei n.º 111/2015](https://diariodarepublica.pt/dr/detalhe/lei/111-2015-70128394), de 27 de agosto, na sua redação atual, exceto quando incidem sobre uma área destinada a utilização florestal no plano de uso do solo do projeto de emparcelamento aprovado e tenha um parecer favorável da Direção-Geral de Agricultura e Desenvolvimento Rural; | 24 - Componentes do imobilizado incorpóreo, tais como despesas de constituição e de concursos;25 - Juros durante a realização do investimento e fundo de maneio;26 - Custos relacionados com contratos de locação financeira como a margem do locador, os custos do refinanciamento dos juros, as despesas gerais e os prémios de seguro;27 - Despesas de pré-financiamento e de preparação de processos de contratação de empréstimos bancários e quaisquer outros encargos inerentes a financiamentos;28 - Bens cuja amortização a legislação fiscal permita ser efetuada num único ano;29 - IVA recuperável. |
 | 22 - Ações de arborização ou rearborização de áreas de uso agrícola beneficiadas por obras de fomento hidroagrícola ou de terrenos para os quais haja projetos de execução já aprovados, com exceção dos solos das classes v, vi e vii de aptidão ao regadio, nas condições estabelecidas no [Decreto Regulamentar n.º 84/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/84-1982-378517), de 4 de novembro, na sua redação atual;23 - Ações de arborização ou rearborização de áreas localizadas nas envolventes aos aglomerados populacionais, parques de campismo, infraestruturas e parques de lazer e de recreio, parques e polígonos industriais, plataformas logísticas e aterros sanitários, numa faixa de largura igual a 100 metros ou da dimensão que estiver definida no PMDFCI, PME ou documento equivalente, consoante o instrumento vigente no momento da candidatura, aplicável, bem como a edificações, numa faixa de largura igual a 50 metros, ou com a dimensão que esteja definida em sede de PMDFCI, PME ou documento equivalente, se aplicável; |  |
 
-## ANEXO II — [Níveis e limites de apoio]
+ANEXO II
+
+[Níveis e limites de apoio]
 
 (a que se refere o artigo 11.º)
 
@@ -1007,33 +1156,35 @@ Despesas não elegíveis
 
 O nível de apoio aplicável às despesas 8 e 9, constantes no anexo i da presente portaria, corresponde ao nível de apoio dos investimentos aplicável às ‘Restantes regiões’, variando com o tipo de beneficiário. No caso de a candidatura incluir tipos de investimento com diferentes níveis de apoio, aplica-se a média ponderada dos níveis de apoio base de todas as tipologias com investimentos elegíveis.
 
-## ANEXO III — [Reduções e exclusões]
+ANEXO III
+
+[Reduções e exclusões]
 
 (a que se refere o artigo 24.º)
 
-| Artigo 17.º | Obrigações dos beneficiários | Número de incumprimentos verificados | Consequências do incumprimento | Consequências do incumprimento |
+| Artigo 17.º | Obrigações dos beneficiários | Número de incumprimentos verificados | Consequências do incumprimento |  |
 | --- | --- | --- | --- | --- |
-| n.º 1 a) | Executar as operações nos termos, condições e resultados aprovados. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. |
-| n.º 1 a) | Executar as operações nos termos, condições e resultados aprovados. | 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. |
-| n.º 1 b) | Evidenciar o apoio financeiro recebido, inclusive mediante a utilização do emblema da União Europeia, em conformidade com as regras estabelecidas pela Comissão nos respetivos regulamentos de execução. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. |
-| n.º 1 b) | Evidenciar o apoio financeiro recebido, inclusive mediante a utilização do emblema da União Europeia, em conformidade com as regras estabelecidas pela Comissão nos respetivos regulamentos de execução. | 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. |
-| n.º 1 c) | Permitir o acesso aos locais de realização da operação e àqueles onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo do projeto aprovado. | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 100 %. | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 100 %. |
-| n.º 1 d) | Conservar os documentos relativos à realização da operação, em suporte digital ou papel, durante o prazo de três anos, a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PEPAC Portugal, consoante a fase em que o encerramento da operação tenha ocorrido, ou pelo prazo estabelecido na legislação nacional aplicável ou na legislação específica em matéria de auxílios de Estado, se estas estabelecerem prazo superior. | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %. | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %. |
-| n.º 1 e) | Manter as condições legais necessárias ao exercício da atividade. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. |
-| n.º 1 e) | Manter as condições legais necessárias ao exercício da atividade. | 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. |
-| n.º 1 f) | Ter um sistema de contabilidade organizada ou simplificada, de acordo com o legalmente exigido. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. |
-| n.º 1 f) | Ter um sistema de contabilidade organizada ou simplificada, de acordo com o legalmente exigido. | 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. |
-| n.º 1 g) | Dispor de um processo relativo à operação, preferencialmente em suporte digital, com toda a documentação relacionada com a mesma devidamente organizada, incluindo o suporte de um sistema de contabilidade para todas as transações referentes à operação. | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %. | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %. |
-| n.º 1 h) | Fornecer à autoridade de gestão do PEPAC no continente, ou às entidades com competências delegadas para o efeito, todas as informações necessárias para efeitos de acompanhamento e de avaliação do PEPAC Portugal. | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %. | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %. |
-| n.º 1 i) | Respeitar os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços. | 1 | Redução do pagamento do apoio, numa percentagem de 20 % sobre a despesa objeto de incumprimento. | Redução do pagamento do apoio, numa percentagem de 20 % sobre a despesa objeto de incumprimento. |
-| n.º 1 i) | Respeitar os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços. | 2 ou mais | Redução do pagamento do apoio, numa percentagem de 40 % sobre a despesa objeto de incumprimento. | Redução do pagamento do apoio, numa percentagem de 40 % sobre a despesa objeto de incumprimento. |
-| [Revogado.] | [Revogado.] | [Revogado.] | [Revogado.] | [Revogado.] |
-| n.º 2 b) | Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações, quando aplicável. | Não aplicável | Redução dos pagamentos dos apoios, já realizados ou a realizar, conforme norma divulgada pelo IFAP, I. P., e de acordo com as orientações da Comissão para determinação das correções a aplicar às despesas cofinanciadas em caso de incumprimento das regras de contratos públicos. | Redução dos pagamentos dos apoios, já realizados ou a realizar, conforme norma divulgada pelo IFAP, I. P., e de acordo com as orientações da Comissão para determinação das correções a aplicar às despesas cofinanciadas em caso de incumprimento das regras de contratos públicos. |
-| n.º 2 c) | Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas em sede de pedido de pagamento. | Não aplicável | Exclusão dos pagamentos dos apoios já realizados ou a realizar, relativos aos investimentos pagos por conta que não a conta única e não exclusiva, em situações não devidamente justificadas. | Exclusão dos pagamentos dos apoios já realizados ou a realizar, relativos aos investimentos pagos por conta que não a conta única e não exclusiva, em situações não devidamente justificadas. |
-| n.º 2 e) | Não locar ou alienar os equipamentos, os povoamentos florestais e as instalações cofinanciadas, durante o período de cinco anos a contar da liquidação do último pagamento, sem a prévia autorização da autoridade de gestão do PEPAC no continente. | Não aplicável | Exclusão dos pagamentos dos apoios, já realizados, relativos aos investimentos locados ou alienados, com aplicação adicional de uma redução de 2 % sobre a totalidade dos pagamentos efetuados. | Exclusão dos pagamentos dos apoios, já realizados, relativos aos investimentos locados ou alienados, com aplicação adicional de uma redução de 2 % sobre a totalidade dos pagamentos efetuados. |
-| n.º 2 g) | Manter, durante um período de cinco anos a contar da liquidação do último pedido de pagamento, a detenção das áreas a intervencionar correspondentes ao polígono de investimento ou a titularidade das parcelas que o intersetam e, neste último, o respetivo registo atualizado no SIP. | Não aplicável | Redução proporcional ao período de incumprimento dos pagamentos já realizados. | Redução proporcional ao período de incumprimento dos pagamentos já realizados. |
-| n.º 2 h) | Comunicar à entidade responsável pela monitorização da execução da operação, conforme identificada na OT, com uma antecedência mínima de três dias úteis, a data de execução dos investimentos com: abertura de covas com broca, fertilização, correção de pH do solo e rega, devendo o beneficiário assegurar a submissão, no SIP, das fotografias digitais georreferenciadas daqueles investimentos, aquando da sua execução. | Não aplicável | Exclusão dos pagamentos dos apoios já realizados ou a realizar, relativos aos investimentos que não foram objeto de comunicação entidade responsável pela monitorização da execução da operação. | Exclusão dos pagamentos dos apoios já realizados ou a realizar, relativos aos investimentos que não foram objeto de comunicação entidade responsável pela monitorização da execução da operação. |
-| n.º 3 | Manter os critérios de seleção que tenham contribuído para a pontuação da VGO, previstos no correspondente aviso para apresentação de candidaturas, nos termos e condições aprovados. | Não aplicável | Devolução integral do apoio - caso a operação adquira uma pontuação inferior à pontuação obtida pela última candidatura aprovada, de acordo com a hierarquização realizada no correspondente aviso. | Devolução integral do apoio - caso a operação adquira uma pontuação inferior à pontuação obtida pela última candidatura aprovada, de acordo com a hierarquização realizada no correspondente aviso. |
+| n.º 1 a) | Executar as operações nos termos, condições e resultados aprovados. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. |  |
+| 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. |  |  |  |
+| n.º 1 b) | Evidenciar o apoio financeiro recebido, inclusive mediante a utilização do emblema da União Europeia, em conformidade com as regras estabelecidas pela Comissão nos respetivos regulamentos de execução. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. |  |
+| 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. |  |  |  |
+| n.º 1 c) | Permitir o acesso aos locais de realização da operação e àqueles onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo do projeto aprovado. | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 100 %. |  |
+| n.º 1 d) | Conservar os documentos relativos à realização da operação, em suporte digital ou papel, durante o prazo de três anos, a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PEPAC Portugal, consoante a fase em que o encerramento da operação tenha ocorrido, ou pelo prazo estabelecido na legislação nacional aplicável ou na legislação específica em matéria de auxílios de Estado, se estas estabelecerem prazo superior. | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %. |  |
+| n.º 1 e) | Manter as condições legais necessárias ao exercício da atividade. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. |  |
+| 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. |  |  |  |
+| n.º 1 f) | Ter um sistema de contabilidade organizada ou simplificada, de acordo com o legalmente exigido. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. |  |
+| 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. |  |  |  |
+| n.º 1 g) | Dispor de um processo relativo à operação, preferencialmente em suporte digital, com toda a documentação relacionada com a mesma devidamente organizada, incluindo o suporte de um sistema de contabilidade para todas as transações referentes à operação. | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %. |  |
+| n.º 1 h) | Fornecer à autoridade de gestão do PEPAC no continente, ou às entidades com competências delegadas para o efeito, todas as informações necessárias para efeitos de acompanhamento e de avaliação do PEPAC Portugal. | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %. |  |
+| n.º 1 i) | Respeitar os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços. | 1 | Redução do pagamento do apoio, numa percentagem de 20 % sobre a despesa objeto de incumprimento. |  |
+| 2 ou mais | Redução do pagamento do apoio, numa percentagem de 40 % sobre a despesa objeto de incumprimento. |  |  |  |
+| [Revogado.] | [Revogado.] | [Revogado.] | [Revogado.] |  |
+| n.º 2 b) | Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações, quando aplicável. | Não aplicável | Redução dos pagamentos dos apoios, já realizados ou a realizar, conforme norma divulgada pelo IFAP, I. P., e de acordo com as orientações da Comissão para determinação das correções a aplicar às despesas cofinanciadas em caso de incumprimento das regras de contratos públicos. |  |
+| n.º 2 c) | Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas em sede de pedido de pagamento. | Não aplicável | Exclusão dos pagamentos dos apoios já realizados ou a realizar, relativos aos investimentos pagos por conta que não a conta única e não exclusiva, em situações não devidamente justificadas. |  |
+| n.º 2 e) | Não locar ou alienar os equipamentos, os povoamentos florestais e as instalações cofinanciadas, durante o período de cinco anos a contar da liquidação do último pagamento, sem a prévia autorização da autoridade de gestão do PEPAC no continente. | Não aplicável | Exclusão dos pagamentos dos apoios, já realizados, relativos aos investimentos locados ou alienados, com aplicação adicional de uma redução de 2 % sobre a totalidade dos pagamentos efetuados. |  |
+| n.º 2 g) | Manter, durante um período de cinco anos a contar da liquidação do último pedido de pagamento, a detenção das áreas a intervencionar correspondentes ao polígono de investimento ou a titularidade das parcelas que o intersetam e, neste último, o respetivo registo atualizado no SIP. | Não aplicável | Redução proporcional ao período de incumprimento dos pagamentos já realizados. |  |
+| n.º 2 h) | Comunicar à entidade responsável pela monitorização da execução da operação, conforme identificada na OT, com uma antecedência mínima de três dias úteis, a data de execução dos investimentos com: abertura de covas com broca, fertilização, correção de pH do solo e rega, devendo o beneficiário assegurar a submissão, no SIP, das fotografias digitais georreferenciadas daqueles investimentos, aquando da sua execução. | Não aplicável | Exclusão dos pagamentos dos apoios já realizados ou a realizar, relativos aos investimentos que não foram objeto de comunicação entidade responsável pela monitorização da execução da operação. |  |
+| n.º 3 | Manter os critérios de seleção que tenham contribuído para a pontuação da VGO, previstos no correspondente aviso para apresentação de candidaturas, nos termos e condições aprovados. | Não aplicável | Devolução integral do apoio - caso a operação adquira uma pontuação inferior à pontuação obtida pela última candidatura aprovada, de acordo com a hierarquização realizada no correspondente aviso. |  |
 |  |  |  |  | » |
 
 ## ANEXO II — (a que se refere o artigo 8.º)
@@ -1075,15 +1226,17 @@ IV - Despesas não elegíveis
 | 60 - Ações a realizar em espaços florestais integrados nos perímetros urbanos definidos nos instrumentos de gestão territorial vinculativos para os particulares, com exceção dos afetos à estrutura ecológica definida nos Planos Municipais de Ordenamento do Território (PMOT);61 - Ações de arborização ou rearborização de áreas que integrem perímetros de emparcelamento, nos termos da [Lei n.º 111/2015](https://diariodarepublica.pt/dr/detalhe/lei/111-2015-70128394), de 27 de agosto, na sua redação atual, exceto quando incide sobre uma área destinada a utilização florestal no plano de uso do solo do projeto de emparcelamento aprovado e tenha um parecer favorável da Direção-Geral de Agricultura e Desenvolvimento Rural; | 67 - Bens cuja amortização a legislação fiscal permita ser efetuada num único ano.68 - IVA recuperável. |
 | 62 - Ações de arborização ou rearborização de áreas localizadas nas envolventes aos aglomerados populacionais, parques de campismo, infraestruturas e parques de lazer e de recreio, parques e polígonos industriais, plataformas logísticas e aterros sanitários, numa faixa de largura igual a 100 metros ou da dimensão que estiver definida no PMDFCI, PME ou documento equivalente, consoante o instrumento vigente no momento da candidatura, aplicável, bem como a edificações, numa faixa de largura igual a 50 metros, ou com a dimensão que esteja definida no PMDFCI, PME ou documento equivalente, se aplicável; |  |
 
-## ANEXO II — [Nível dos apoios]
+ANEXO II
+
+[Nível dos apoios]
 
 (a que se refere o artigo 13.º)
 
 I - Operações ao nível das explorações florestais e agroflorestais
 
-| Tipo de beneficiário | Investimentos | Investimentos | Investimentos |
+| Tipo de beneficiário | Investimentos |  |  |
 | --- | --- | --- | --- |
-| Tipo de beneficiário | Regiões de montanha ou territórios vulneráveis | Outras regiões desfavorecidas | Restantes regiões |
+| Regiões de montanha ou territórios vulneráveis | Outras regiões desfavorecidas | Restantes regiões |  |
 | Entidade gestora de AIGP | 100 % | 95 % | 90 % |
 | Entidade gestora de ZIF, baldios e agrupamentos de baldios, EGF, UGF, entidades públicas e organizações de produtores florestais e seus associados | 95 % | 90 % | 85 % |
 | Restantes beneficiários | 90 % | 85 % | 80 % |
@@ -1092,42 +1245,44 @@ O nível de apoio aplicável às despesas 39 e 40, constantes no anexo i da pres
 
 II - Operações com escala territorial relevante - Estabilização de emergência
 
-| Tipo de beneficiário | Tipo de despesa | Investimentos | Investimentos | Investimentos |
+| Tipo de beneficiário | Tipo de despesa | Investimentos |  |  |
 | --- | --- | --- | --- | --- |
-| Tipo de beneficiário | Tipo de despesa | Regiões de montanha ou territórios vulneráveis | Outras regiões desfavorecidas | Restantes regiões |
-| Entidade gestora de ZIF, AIGP, UGF, EGF, baldios e agrupamentos de baldios, entidades públicas e organizações de produtores florestais e seus associados | Todas as despesas exceto as despesas complementares não urgentes | 100 % | 100 % | 100 % |
+| Regiões de montanha ou territórios vulneráveis | Outras regiões desfavorecidas | Restantes regiões |  |  |
+| Entidade gestora de ZIF, AIGP, UGF, EGF, baldios e agrupamentos de baldios, entidades públicas e organizações de produtores florestais e seus associados | Todas as despesas exceto as despesas complementares não urgentes | 100 % |  |  |
 |  | Despesas complementares não urgentes | 90 % | 85 % | 80 % |
 | Restantes beneficiários | Todas as despesas | 85 % | 80 % | 75 % |
 
 O nível de apoio aplicável à despesa 54, constante no anexo i da presente portaria, corresponde ao nível de apoio dos investimentos aplicável às ‘Restantes regiões’, variando com o tipo de beneficiário. No caso de a candidatura incluir tipos de investimento com diferentes níveis de apoio, aplica-se a média ponderada dos níveis de apoio base de todas as tipologias com investimentos elegíveis.
 
-## ANEXO III — [Reduções e exclusões]
+ANEXO III
+
+[Reduções e exclusões]
 
 (a que se refere o artigo 26.º)
 
-| Artigo 19.º | Obrigações dos beneficiários | Número de incumprimentos verificados | Consequências do incumprimento | Consequências do incumprimento |
+| Artigo 19.º | Obrigações dos beneficiários | Número de incumprimentos verificados | Consequências do incumprimento |  |
 | --- | --- | --- | --- | --- |
-| n.º 1 a) | Executar as operações nos termos, condições e resultados aprovados. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. |
-| n.º 1 a) | Executar as operações nos termos, condições e resultados aprovados. | 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. |
-| n.º 1 b) | Evidenciar o apoio financeiro recebido, inclusive mediante a utilização do emblema da UniãoEuropeia, em conformidade com as regras estabelecidas pela Comissão nos respetivos regulamentos de execução. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. |
-| n.º 1 b) | Evidenciar o apoio financeiro recebido, inclusive mediante a utilização do emblema da UniãoEuropeia, em conformidade com as regras estabelecidas pela Comissão nos respetivos regulamentos de execução. | 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. |
-| n.º 1 c) | Permitir o acesso aos locais de realização da operação e àqueles onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo do projeto aprovado. | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 100 %. | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 100 %. |
-| n.º 1 d) | Conservar os documentos relativos à realização da operação, em suporte digital ou papel, durante o prazo de três anos, a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PEPAC Portugal, consoante a fase em que o encerramento da operação tenha ocorrido, ou pelo prazo estabelecido na legislação nacional aplicável ou na legislação específica em matéria de auxílios de Estado, se estas estabelecerem prazo superior. | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %. | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %. |
-| n.º 1 e) | Manter as condições legais necessárias ao exercício da atividade. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. |
-| n.º 1 e) | Manter as condições legais necessárias ao exercício da atividade. | 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. |
-| n.º 1 f) | Ter um sistema de contabilidade organizada ou simplificada, de acordo com o legalmente exigido. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. |
-| n.º 1 f) | Ter um sistema de contabilidade organizada ou simplificada, de acordo com o legalmente exigido. | 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. |
-| n.º 1 g) | Dispor de um processo relativo à operação, preferencialmente em suporte digital, com toda a documentação relacionada com a mesma devidamente organizada, incluindo o suporte de um sistema de contabilidade para todas as transações referentes à operação. | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %. | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %. |
-| n.º 1 h) | Fornecer à autoridade de gestão do PEPAC no continente, ou às entidades com competências delegadas para o efeito, todas as informações necessárias para efeitos de acompanhamento e de avaliação do PEPAC Portugal. | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %. | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %. |
-| n.º 1 i) | Respeitar os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços. | 1 | Redução do pagamento do apoio, numa percentagem de 20 % sobre a despesa objeto de incumprimento. | Redução do pagamento do apoio, numa percentagem de 20 % sobre a despesa objeto de incumprimento. |
-| n.º 1 i) | Respeitar os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços. | 2 ou mais | Redução do pagamento do apoio, numa percentagem de 40 %, sobre a despesa objeto de incumprimento. | Redução do pagamento do apoio, numa percentagem de 40 %, sobre a despesa objeto de incumprimento. |
-| [Revogado.] | [Revogado.] | [Revogado.] | [Revogado.] | [Revogado.] |
-| n.º 2 b) | Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações, quando aplicável. | Não aplicável | Redução dos pagamentos dos apoios, já realizados ou a realizar, conforme norma divulgada pelo IFAP, I. P., e de acordo com as orientações da Comissão para determinação das correções a aplicar às despesas cofinanciadas em caso de incumprimento das regras de contratos públicos. | Redução dos pagamentos dos apoios, já realizados ou a realizar, conforme norma divulgada pelo IFAP, I. P., e de acordo com as orientações da Comissão para determinação das correções a aplicar às despesas cofinanciadas em caso de incumprimento das regras de contratos públicos. |
-| n.º 2 c) | Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas em sede de pedido de pagamento. | Não aplicável | Exclusão dos pagamentos dos apoios já realizados ou a realizar, relativos aos investimentos pagos por conta que não a conta única e não exclusiva, em situações não devidamente justificadas. | Exclusão dos pagamentos dos apoios já realizados ou a realizar, relativos aos investimentos pagos por conta que não a conta única e não exclusiva, em situações não devidamente justificadas. |
-| n.º 2 e) | Não locar ou alienar os equipamentos, os povoamentos florestais e as instalações cofinanciadas, durante o período de cinco anos a contar da liquidação do último pagamento, sem a prévia autorização da autoridade de gestão do PEPAC no Continente. | Não aplicável | Exclusão dos pagamentos dos apoios, já realizados, relativos aos investimentos locados ou alienados, com aplicação adicional de uma redução de 2 % sobre a totalidade dos pagamentos efetuados. | Exclusão dos pagamentos dos apoios, já realizados, relativos aos investimentos locados ou alienados, com aplicação adicional de uma redução de 2 % sobre a totalidade dos pagamentos efetuados. |
-| n.º 2 g) | Manter, durante um período de cinco anos a contar da liquidação do último pedido de pagamento, a detenção das áreas a intervencionar correspondentes ao polígono de investimento ou a titularidade das parcelas que o intersetam e, neste último, o respetivo registo atualizado no SIP. | Não aplicável | Redução proporcional ao período de incumprimento dos pagamentos já realizados. | Redução proporcional ao período de incumprimento dos pagamentos já realizados. |
-| n.º 2 h) | Comunicar à entidade responsável pela monitorização da execução da operação, conforme identificada na OT, com uma antecedência mínima de três dias úteis, a data de execução dos investimentos com: abertura de covas com broca, fertilização, correção de pH do solo e rega, devendo o beneficiário assegurar a submissão, no SIP, das fotografias digitais georreferenciadas daqueles investimentos, aquando da sua execução. | Não aplicável | Exclusão dos pagamentos dos apoios já realizados ou a realizar, relativos aos investimentos que não foram objeto de comunicação entidade responsável pela monitorização da execução da operação; | Exclusão dos pagamentos dos apoios já realizados ou a realizar, relativos aos investimentos que não foram objeto de comunicação entidade responsável pela monitorização da execução da operação; |
-| n.º 3 | Manter os critérios de seleção que tenham contribuído para a pontuação da VGO, previstos no correspondente aviso para apresentação de candidaturas, nos termos e condições aprovados. | Não aplicável | Devolução integral do apoio - caso a operação adquira uma pontuação inferior à pontuação obtida pela última candidatura aprovada, de acordo com a hierarquização realizada no correspondente aviso. | Devolução integral do apoio - caso a operação adquira uma pontuação inferior à pontuação obtida pela última candidatura aprovada, de acordo com a hierarquização realizada no correspondente aviso. |
+| n.º 1 a) | Executar as operações nos termos, condições e resultados aprovados. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. |  |
+| 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. |  |  |  |
+| n.º 1 b) | Evidenciar o apoio financeiro recebido, inclusive mediante a utilização do emblema da UniãoEuropeia, em conformidade com as regras estabelecidas pela Comissão nos respetivos regulamentos de execução. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. |  |
+| 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. |  |  |  |
+| n.º 1 c) | Permitir o acesso aos locais de realização da operação e àqueles onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo do projeto aprovado. | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 100 %. |  |
+| n.º 1 d) | Conservar os documentos relativos à realização da operação, em suporte digital ou papel, durante o prazo de três anos, a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PEPAC Portugal, consoante a fase em que o encerramento da operação tenha ocorrido, ou pelo prazo estabelecido na legislação nacional aplicável ou na legislação específica em matéria de auxílios de Estado, se estas estabelecerem prazo superior. | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %. |  |
+| n.º 1 e) | Manter as condições legais necessárias ao exercício da atividade. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. |  |
+| 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. |  |  |  |
+| n.º 1 f) | Ter um sistema de contabilidade organizada ou simplificada, de acordo com o legalmente exigido. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. |  |
+| 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. |  |  |  |
+| n.º 1 g) | Dispor de um processo relativo à operação, preferencialmente em suporte digital, com toda a documentação relacionada com a mesma devidamente organizada, incluindo o suporte de um sistema de contabilidade para todas as transações referentes à operação. | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %. |  |
+| n.º 1 h) | Fornecer à autoridade de gestão do PEPAC no continente, ou às entidades com competências delegadas para o efeito, todas as informações necessárias para efeitos de acompanhamento e de avaliação do PEPAC Portugal. | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %. |  |
+| n.º 1 i) | Respeitar os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços. | 1 | Redução do pagamento do apoio, numa percentagem de 20 % sobre a despesa objeto de incumprimento. |  |
+| 2 ou mais | Redução do pagamento do apoio, numa percentagem de 40 %, sobre a despesa objeto de incumprimento. |  |  |  |
+| [Revogado.] | [Revogado.] | [Revogado.] | [Revogado.] |  |
+| n.º 2 b) | Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações, quando aplicável. | Não aplicável | Redução dos pagamentos dos apoios, já realizados ou a realizar, conforme norma divulgada pelo IFAP, I. P., e de acordo com as orientações da Comissão para determinação das correções a aplicar às despesas cofinanciadas em caso de incumprimento das regras de contratos públicos. |  |
+| n.º 2 c) | Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas em sede de pedido de pagamento. | Não aplicável | Exclusão dos pagamentos dos apoios já realizados ou a realizar, relativos aos investimentos pagos por conta que não a conta única e não exclusiva, em situações não devidamente justificadas. |  |
+| n.º 2 e) | Não locar ou alienar os equipamentos, os povoamentos florestais e as instalações cofinanciadas, durante o período de cinco anos a contar da liquidação do último pagamento, sem a prévia autorização da autoridade de gestão do PEPAC no Continente. | Não aplicável | Exclusão dos pagamentos dos apoios, já realizados, relativos aos investimentos locados ou alienados, com aplicação adicional de uma redução de 2 % sobre a totalidade dos pagamentos efetuados. |  |
+| n.º 2 g) | Manter, durante um período de cinco anos a contar da liquidação do último pedido de pagamento, a detenção das áreas a intervencionar correspondentes ao polígono de investimento ou a titularidade das parcelas que o intersetam e, neste último, o respetivo registo atualizado no SIP. | Não aplicável | Redução proporcional ao período de incumprimento dos pagamentos já realizados. |  |
+| n.º 2 h) | Comunicar à entidade responsável pela monitorização da execução da operação, conforme identificada na OT, com uma antecedência mínima de três dias úteis, a data de execução dos investimentos com: abertura de covas com broca, fertilização, correção de pH do solo e rega, devendo o beneficiário assegurar a submissão, no SIP, das fotografias digitais georreferenciadas daqueles investimentos, aquando da sua execução. | Não aplicável | Exclusão dos pagamentos dos apoios já realizados ou a realizar, relativos aos investimentos que não foram objeto de comunicação entidade responsável pela monitorização da execução da operação; |  |
+| n.º 3 | Manter os critérios de seleção que tenham contribuído para a pontuação da VGO, previstos no correspondente aviso para apresentação de candidaturas, nos termos e condições aprovados. | Não aplicável | Devolução integral do apoio - caso a operação adquira uma pontuação inferior à pontuação obtida pela última candidatura aprovada, de acordo com a hierarquização realizada no correspondente aviso. |  |
 |  |  |  |  | » |
 
 ## ANEXO III — (a que se refere o artigo 9.º)
@@ -1148,7 +1303,9 @@ Despesas não elegíveis
 | --- | --- |
 | 62 - Bens de equipamento em estado de uso.63 - Obras provisórias não diretamente ligadas à execução da operação.64 - Ações de arborização ou rearborização com recurso a espécies de rápido crescimento, espécies exploradas em talhadia de rotação inferior a 20 anos, de árvores de Natal e de árvores de crescimento rápido utilizadas na produção de energia.65 - Ações a realizar em espaços florestais integrados nos perímetros urbanos definidos nos instrumentos de gestão territorial vinculativos para os particulares, com exceção dos afetos à estrutura ecológica definida nos Planos Municipais de Ordenamento do Território (PMOT).66 - Ações de arborização ou rearborização de áreas que integrem perímetros de emparcelamento, nos termos da [Lei n.º 111/2015](https://diariodarepublica.pt/dr/detalhe/lei/111-2015-70128394), de 27 de agosto, na sua redação atual, exceto quando incide sobre uma área destinada a utilização florestal no plano de uso do solo do projeto de emparcelamento aprovado e tenha um parecer favorável da Direção-Geral de Agricultura e Desenvolvimento Rural.67 - Ações de arborização ou rearborização de áreas de uso agrícola beneficiadas por obras de fomento hidroagrícola ou de terrenos para os quais haja projetos de execução já aprovados, com exceção dos solos das classes v, vi e vii de aptidão ao regadio, nas condições estabelecidas no [Decreto Regulamentar n.º 84/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/84-1982-378517), de 4 de novembro, na sua redação atual.68 - Ações de arborização ou rearborização de áreas localizadas nas envolventes aos aglomerados populacionais, parques de campismo, infraestruturas e parques de lazer e de recreio, parques e polígonos industriais, plataformas logísticas e aterros sanitários, numa faixa de largura igual a 100 metros ou da dimensão que estiver definida no PMDFCI, PME ou documento equivalente, consoante o instrumento vigente no momento da candidatura, aplicável, bem como a edificações, numa faixa de largura igual a 50 metros, ou com a dimensão que esteja definida em sede de PMDFCI, PME ou documento equivalente, se aplicável. | 69 - Componentes do imobilizado incorpóreo, tais como despesas de constituição e de concursos.70 - Juros durante a realização do investimento e fundo de maneio.71 - Custos relacionados com contratos de locação financeira como a margem do locador, os custos do refinanciamento dos juros, as despesas gerais e os prémios de seguro.72 - Despesas de pré-financiamento e de preparação de processos de contratação de empréstimos bancários e quaisquer outros encargos inerentes a financiamentos.73 - Bens cuja amortização a legislação fiscal permita ser efetuada num único ano.74 - IVA recuperável. |
 
-## ANEXO II — [Nível dos apoios]
+ANEXO II
+
+[Nível dos apoios]
 
 (a que se refere o n.º 8 do artigo 13.º)
 
@@ -1191,17 +1348,23 @@ Despesas não elegíveis
 | 37 - Bens de equipamento em estado de uso.38 - Obras provisórias não diretamente ligadas à execução da operação. | 43 - Componentes do imobilizado incorpóreo, tais como despesas de constituição e de concursos.44 - Juros durante a realização do investimento e fundo de maneio. |
 | 39 - Ações a realizar em espaços florestais integrados nos perímetros urbanos definidos nos instrumentos de gestão territorial vinculativos para os particulares, com exceção dos afetos à estrutura ecológica definida nos Planos Municipais de Ordenamento do Território (PMOT).40 - Ações de arborização ou rearborização de áreas que integrem perímetros de emparcelamento, nos termos da [Lei n.º 111/2015](https://diariodarepublica.pt/dr/detalhe/lei/111-2015-70128394), de 27 de agosto, na sua redação atual, exceto quando incide sobre uma área destinada a utilização florestal no plano de uso do solo do projeto de emparcelamento aprovado e tenha um parecer favorável da Direção-Geral de Agricultura e Desenvolvimento Rural.41 - Ações de arborização ou rearborização de áreas de uso agrícola beneficiadas por obras de fomento hidroagrícola ou de terrenos para os quais haja projetos de execução já aprovados, com exceção dos solos das classes v, vi e vii de aptidão ao regadio, nas condições estabelecidas no [Decreto Regulamentar n.º 84/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/84-1982-378517), de 4 de novembro, na sua redação atual.42 - Ações de arborização ou rearborização de áreas localizadas nas envolventes aos aglomerados populacionais, parques de campismo, infraestruturas e parques de lazer e de recreio, parques e polígonos industriais, plataformas logísticas e aterros sanitários, numa faixa de largura igual a 100 m no PMDFCI, PME ou documento equivalente, consoante o instrumento vigente no momento da candidatura, aplicável, bem como a edificações, numa faixa de largura igual a 50 m, ou com a dimensão que esteja definida em sede de PMDFCI, PME ou documento equivalente, se aplicável. | 45 - Custos relacionados com contratos de locação financeira como a margem do locador, os custos do refinanciamento dos juros, as despesas gerais e os prémios de seguro.46 - Despesas de pré-financiamento e de preparação de processos de contratação de empréstimos bancários e quaisquer outros encargos inerentes a financiamentos.47 - Bens cuja amortização a legislação fiscal permita ser efetuada num único ano.48 - IVA recuperável. |
 
-## ANEXO II — [Níveis e limites de apoio]
+ANEXO II
+
+[Níveis e limites de apoio]
 
 (a que se refere o n.º 8 do artigo 11.º)
 
 | Tipo de beneficiário | Tipo de investimento | Regiões de montanha | Outras regiões desfavorecidas | Restantes regiões |
 | --- | --- | --- | --- | --- |
 | OCPF e seus membros, OPF e seus associados, EG de ZIF, AIGP, ou de baldios, EGF, UGF, e entidades da administração local, ou beneficiários com certificação. | Em espécies exploradas em rotações inferiores a 20 anos | 40 % | 35 % | 30 % |
-| OCPF e seus membros, OPF e seus associados, EG de ZIF, AIGP, ou de baldios, EGF, UGF, e entidades da administração local, ou beneficiários com certificação. | Instalação de povoamentos de folhosas autóctones, em pelo menos 25 % da área a recuperar | 50 % | 45 % | 40 % |
-| OCPF e seus membros, OPF e seus associados, EG de ZIF, AIGP, ou de baldios, EGF, UGF, e entidades da administração local, ou beneficiários com certificação. | Outros investimentos | 50 % | 45 % | 40 % |
+| Instalação de povoamentos de folhosas autóctones, em pelo menos 25 % da área a recuperar | 50 % | 45 % | 40 % |  |
+| Outros investimentos | 50 % | 45 % | 40 % |  |
 | Restantes beneficiários | Em espécies exploradas em rotações inferiores a 20 anos | 40 % | 35 % | 30 % |
-| Restantes beneficiários | Instalação de povoamentos de folhosas autóctones, em pelo menos 25 % da área a recuperar | 50 % | 45 % | 40 % |
-| Restantes beneficiários | Outros investimentos | 40 % | 35 % | 30 % |
+| Instalação de povoamentos de folhosas autóctones, em pelo menos 25 % da área a recuperar | 50 % | 45 % | 40 % |  |
+| Outros investimentos | 40 % | 35 % | 30 % |  |
 
 O nível de apoio aplicável às despesas 23, 24 e 25, constantes no anexo i da presente portaria, corresponde ao nível de apoio do tipo de investimento ‘Outros investimentos’, aplicável às ‘Restantes regiões’, variando com o tipo de beneficiário. No caso de a candidatura incluir tipos de investimento com diferentes níveis de apoio, aplica-se a média ponderada dos níveis de apoio base de todas as tipologias com investimentos elegíveis.»
+
+119948928
+
+.Tbl1 { border-collapse:collapse; border-width:1px; border-style:none; } .Tbl2 { height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:98px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl8 { min-height:43px; } .Tbl9 { min-height:62px; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl12 { min-height:214px; } .Tbl13 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl14 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl15 { min-height:177px; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl18 { border-collapse:collapse; border-width:1px; } .Tbl19 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl21 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl22 { min-height:18px; } .Tbl23 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl24 { min-height:28px; } .Tbl25 { height:34px; } .Tbl26 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl27 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl28 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl29 { text-align:justify; text-align-last:justify; } .Tbl30 { min-height:29px; } .Tbl31 { min-height:56px; } .Tbl32 { min-height:123px; } .Tbl33 { min-height:75px; } .Tbl34 { min-height:66px; } .Tbl35 { min-height:37px; } .Tbl36 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-left-style:solid; vertical-align:top; } .Tbl37 { min-height:38px; } .Tbl38 { min-height:64px; } .Tbl39 { min-height:74px; } .Tbl40 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:top; } .Tbl41 { min-height:111px; } .Tbl42 { min-height:55px; } .Tbl43 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl44 { height:11px; } .Tbl45 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:none; border-right-style:none; border-left-style:none; vertical-align:top; } .Tbl46 { border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:none; border-right-style:none; border-left-style:none; vertical-align:top; } .Tbl47 { min-height:22px; } .Tbl48 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl49 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; } .Tbl50 { min-height:105px; } .Tbl51 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl52 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; } .Tbl53 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; } .Tbl54 { min-height:60px; } .Tbl55 { min-height:36px; } .Tbl56 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; } .Tbl57 { min-height:116px; } .Tbl58 { min-height:122px; } .Tbl59 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl60 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl61 { min-height:102px; } .Tbl62 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl63 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl64 { height:17px; } .Tbl65 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:middle; } .Tbl66 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl67 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:middle; } .Tbl68 { min-height:57px; } .Tbl69 { text-align:left; } .Tbl70 { min-height:40px; } .Tbl71 { min-height:59px; } .Tbl72 { min-height:129px; } .Tbl73 { min-height:79px; } .Tbl74 { min-height:69px; } .Tbl75 { min-height:76px; } .Tbl76 { min-height:114px; } .Tbl77 { border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:none; border-bottom-width:0px; border-bottom-style:none; border-right-style:none; border-left-style:none; vertical-align:top; } .Tbl78 { min-height:388px; } .Tbl79 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl80 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl81 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl82 { min-height:47px; } .Tbl83 { min-height:294px; }

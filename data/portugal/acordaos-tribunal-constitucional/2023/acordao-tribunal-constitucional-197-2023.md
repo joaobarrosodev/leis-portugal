@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/05/09000/0002500056.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/197/2023/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/197-2023-212837361
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-05-10T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a59c364b3b40c969fc25c68b837de3ea6589cce6ce1743ef97f3d82c83b4369
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48d639011917ac5820d716487aba38024b222e83c41a500a57731e416044886f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,16 +69,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Arrendamento Urbano para Habitação
+- Autarquia Local
 - Habitação Social
+- Prédio Urbano
 - Regime Jurídico
 - Renda Apoiada
 - Renda Condicionada
 - Renda Limitada
 - Rendimento
 - Subsídio de Renda de CASA
-- Prédio Urbano
-- Arrendamento Urbano para Habitação
-- Autarquia Local
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/166/1993/05/07/p/dre
@@ -108,16 +108,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/81/2014/12/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/81/2014/12/19/p/dre
+- type: cites
+  target: pt:dre:115698655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124220738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173286837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65949853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73835244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75194221:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:28Z'
   warnings: []
   errors: []
 ---
@@ -706,7 +754,9 @@ Através do [Edital n.º 1166/2021](https://diariodarepublica.pt/dr/detalhe/edit
 
 [...]
 
-###### Artigo 1.º — Alteração do Regulamento do Regime de Acesso, Atribuição e Gestão do Parque Habitacional
+Artigo 1.º
+
+Alteração do Regulamento do Regime de Acesso, Atribuição e Gestão do Parque Habitacional
 
 Os artigos 10.º e 15.º passam a ter a seguinte redação:
 
@@ -736,7 +786,9 @@ h) ...
 
 3 - Sem prejuízo do disposto no n.º 1 do presente artigo, sempre que a tipologia e as condições das habitações, objeto de procedimento, o permitam o órgão executivo do município pode deliberar conferir prioridade às candidaturas para atribuição de uma habitação em regime de arrendamento apoiado em função do estabelecimento da condição de residência por um período mínimo de tempo.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -750,11 +802,15 @@ d) ...
 
 2 - ...»
 
-###### Artigo 2.º — Norma revogatória
+Artigo 2.º
+
+Norma revogatória
 
 É revogada a alínea b) do artigo 15.º do Regulamento do Regime de Acesso, Atribuição e Gestão do Parque Habitacional.
 
-###### Artigo 3.º — Entrada em vigor
+Artigo 3.º
+
+Entrada em vigor
 
 A presente alteração regulamentar entra em vigor no dia útil seguinte à sua publicação do Diário da República.»
 
@@ -869,3 +925,5 @@ Os regulamentos devem, como ilustra Ana Raquel Moniz, estar "em estreita cumplic
 Mas, qualquer que seja a interpretação, a sua apreciação, só caso a caso, é verificável. Como se disse, Administração dispõe de um poder necessariamente vinculado, quer em termos de conteúdo, quer em termos de legalidade.
 
 Nesta conformidade, não acompanho o acórdão quando considera que a redação conjugada dos n.os 4 e 5 do artigo 2.º da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), na redação dada pela [Lei n.º 32/2016](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), é inconstitucional, consubstanciando uma violação do disposto no n.º 5 do artigo 112.º da Constituição. - Maria Assunção Raimundo.
+
+116440387

@@ -3,15 +3,12 @@ schema_version: '1.0'
 id: pt:dre:933329783:por
 title: Declaração de Rectificação n.º 1/2025
 short_title: null
-summary: pt289:Declaração de retificação n.º 1/2025 - Retificação do acordo coletivo de trabalho n.º 65/2025 - Acordo coletivo
-  de empregador público entre a Freguesia do Rosário e o STAL - Sindicato Nacional dos Trabalhadores da Administração Local
-  e Regional, Empresas Públicas, Concessionárias e Afins.
+summary: null
 jurisdiction: portugal
 territory: null
 document_type: declaracao-retificacao
 document_type_label: Declaração de Retificação
-issuing_authority:
-- Diário da República
+issuing_authority: []
 proposing_entity: null
 official_number: 1/2025
 official_date: null
@@ -26,7 +23,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/regtrab/2025/08/29/933329783.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +45,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-2025-933329783
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:15:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82b7439c49f5c2fbb921f885a7b5f8fa3a842156db7b28e1f53017c819cc4e71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:15:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +64,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: amends
+  target: pt:numero:acordo-coletivo-trabalho:65/2025
+  label: Retifica o Acordo Coletivo de Trabalho n.º 65/2025, de 8 de agosto, Boletim do Trabalho e Emprego (BTE), n.º 29 (Volume
+    92), pág. 21
+  source: null
+  date: '2025-08-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:15:38Z'
   warnings:
   - Sem texto eletrónico no DRE; o registo liga apenas ao PDF oficial.
   errors: []
@@ -85,4 +88,4 @@ validation:
 
 # Declaração de Rectificação n.º 1/2025
 
-> <small>O texto deste diploma não se encontra disponível em formato eletrónico no Diário da República. [Ver documento original](https://files.diariodarepublica.pt/bases_especiais/regtrab/2025/08/29/933329783.pdf)</small>
+> O texto deste diploma não está disponível em formato eletrónico. [Ver documento original](https://files.diariodarepublica.pt/bases_especiais/regtrab/2025/08/29/933329783.pdf)

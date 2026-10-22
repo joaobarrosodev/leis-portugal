@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45878-1964-534873
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-08-19T00:00:00Z'
+  retrieved_at: '2026-10-22T19:41:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c57fd74dcdbadee9870145fd4c83cf9995f8ed33172bcec04cdb25c8a9038cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a4c0b1fad251b4cecfdd97271d7e13385f4c09b1dfb501e18d2f66c224dcbc12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:41:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:41:40Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +95,9 @@ Tendo em vista o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção-Geral dos Serviços Hidráulicos a celebrar contrato com Eduardo Pinto Contreiras para execução da obra de defesa da ilha da Culatra na zona a nascente do enraizamento do molhe leste do porto comum de Faro-Olhão, pela importância de 1135910$00, que poderá elevar-se até 1200000$00 no caso de haver que realizar trabalhos a mais relativamente aos previstos no projecto ou de haver que introduzir quaisquer alterações ao projecto.
+Artigo 1.º É autorizada a Direcção-Geral dos Serviços Hidráulicos a celebrar contrato com Eduardo Pinto Contreiras para execução da obra de defesa da ilha da Culatra na zona a nascente do enraizamento do molhe leste do porto comum de Faro-Olhão, pela importância de 1135910$00, que poderá elevar-se até 1200000$00 no caso de haver que realizar trabalhos a mais relativamente aos previstos no projecto ou de haver que introduzir quaisquer alterações ao projecto.
 
-###### Art. 2.º Seja qual for o valor dos trabalhos a realizar, a Direcção-Geral dos Serviços Hidráulicos não poderá ser obrigada a despender com pagamentos relativos aos trabalhos executados por virtude do contrato mais do que as importâncias a seguir indicadas:
+Art. 2.º Seja qual for o valor dos trabalhos a realizar, a Direcção-Geral dos Serviços Hidráulicos não poderá ser obrigada a despender com pagamentos relativos aos trabalhos executados por virtude do contrato mais do que as importâncias a seguir indicadas:
 
 Em 1964 ... 600000$00
 
@@ -101,6 +105,6 @@ Em 1965 ... 600000$00
 
 § único. Às importâncias a despender em cada ano acresce o saldo do ano anterior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Agosto de 1964. - ANTÓNIO DE OLIVEIRA SALAZAR - António Manuel Pinto Barbosa - Eduardo de Arantes e Oliveira.

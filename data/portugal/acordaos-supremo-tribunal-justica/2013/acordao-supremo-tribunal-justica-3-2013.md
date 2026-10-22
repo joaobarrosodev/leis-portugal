@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/3/2013/01/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/3-2013-256433
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-15T00:00:00Z'
+  retrieved_at: '2026-10-22T17:53:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10a9437ffa3d05c5eacb2937f6b29cb3676c3e222f93cd8b39d9056f4a2de3c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88e49afd4c2b5d819ecd87fe73925116819e7547c2d9199badab584b91f50ab4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:53:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Beneficiário
-- Obrigação Alimentar
 - Interpretação do Direito
+- Óbito
+- Obrigação Alimentar
 - Pensão de Sobrevivência
 - Prestações da Segurança Social
 - Proteção Social
 - Segurança Social
-- Óbito
 - União de Facto
 relationships:
 - type: cites
@@ -85,16 +85,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2001/05/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2001/05/11/p/dre
+- type: cites
+  target: pt:dre:314194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343919:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:53:19Z'
   warnings: []
   errors: []
 ---
@@ -187,11 +195,11 @@ a) A primeira, no sentido de se restringir a aplicação do novo regime aos caso
 
 A mesma encontrou eco nos seguintes arestos proferidos neste Supremo Tribunal até esta data:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/01/01000/0018200191.pdf))](https://files.diariodarepublica.pt/1s/2013/01/01000/0018200191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/01/01000/0018200191.pdf)
 
 b) A segunda, sujeitando ao novo regime também as situações emergentes de óbitos ocorridos em data anterior ao início de vigência da [Lei n.º 23/2010](https://diariodarepublica.pt/dr/detalhe/lei/23-2010-343919), embora com efeitos diferidos a partir de 1 de Janeiro de 2011, data em que entrou em vigor o Orçamento Geral do Estado de 2011 aprovado pela Lei nº 55-A/10, de 31 de Dezembro, foi assumida nos seguintes acórdãos alinhados por ordem cronológica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/01/01000/0018200191.pdf))](https://files.diariodarepublica.pt/1s/2013/01/01000/0018200191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/01/01000/0018200191.pdf)
 
 A quantidade de acórdãos, em tão curto período de tempo, com multiplicidade de relatores, dispersos pelas diversas secções cíveis, revela que foram ponderadas todos os argumentos em redor da referida questão de direito, e permite asseverar que relativamente à mesma questão, de natureza transitória, existe o que pode apelidar-se de jurisprudência constante ou reiterada deste Supremo Tribunal de Justiça (cfr. OLIVEIRA ASCENSÃO, O Direito-Introdução e Teoria Geral, 13ª ed., págs. 320 e segs.).
 

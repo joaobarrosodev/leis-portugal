@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/21/2026/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21-2026-1017369025
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-21T00:00:00Z'
+  retrieved_at: '2026-10-22T18:29:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0daf2830d5d120a25237382da39cb76a5d396d01d233eb5f32f5c48b7820626
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 450b1fce4064fe70a8728c260bd3c0fd39ed3fd16f339a0a1237d0b04ab64af8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:29:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
-- Comparticipação do Estado
-- Regulamentação de Atos Legislativos
 - Ação Social
-- Segurança Social
-- Cuidador Informal
 - Bolsa de cuidadores
+- Comparticipação do Estado
+- Cuidador Informal
+- Instituto da Segurança Social
 - Projeto-piloto
+- Regulamentação de Atos Legislativos
+- Segurança Social
 relationships:
+- type: amends
+  target: pt:numero:portaria:335-A/2023
+  label: Altera, a partir de 22 de janeiro de 2026, os artigos 3.º, 5.º, 7.º, 8.º, 10.º e 11.º da Portaria n.º 335-A/2023,
+    de 3 de novembro, Diário da República n.º 213/2023, 1º Suplemento, Série I
+  source: null
+  date: '2023-11-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/86/2024/11/06/p/dre
   label: null
@@ -104,16 +110,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/45/2021/02/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/45/2021/02/24/p/dre
+- type: cites
+  target: pt:dre:124500714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158238387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177363476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223826722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:840689104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:895646291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:895646292:por
+  label: null
+  source: null
 article_structure:
-  article_count: 25
+  article_count: 20
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:29:37Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +196,9 @@ Os artigos 3.º, 5.º, 7.º, 8.º, 10.º e 11.º da [Portaria n.º 335-A/2023](h
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -184,7 +220,9 @@ d) Beneficiária da Bolsa de Cuidadores.
 
 6 - O cuidador informal pode beneficiar da bolsa de cuidadores reconhecidos ao abrigo do [Decreto Regulamentar n.º 1/2022](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2022-177363476), de 10 de janeiro, alterado pelo [Decreto Regulamentar n.º 5/2024](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2024-895646292), de 6 de novembro, nos termos do regulamento a emitir pelo membro do Governo responsável pela área governativa do trabalho, solidariedade e segurança social.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -196,7 +234,9 @@ d) Beneficiária da Bolsa de Cuidadores.
 
 5 - [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -212,7 +252,9 @@ d) Bolsa de Cuidadores.
 
 3 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - As vagas em resposta social reservadas para descanso do cuidador são contratualizadas a título extraordinário, através da celebração de adenda ao acordo de cooperação em vigor ou da celebração de novo acordo.
 
@@ -226,7 +268,9 @@ d) Bolsa de Cuidadores.
 
 6 - No que se refere às vagas previstas na alínea b) do n.º 4, para pagamento da mensalidade devida pela pessoa cuidada a entidades da rede lucrativa, pode ser concedida uma prestação pecuniária de caráter eventual no âmbito do subsistema de ação social, nos termos dos normativos em vigor.
 
-###### Artigo 11.º — Comparticipação financeira em resposta social para descanso do Cuidador
+Artigo 11.º
+
+Comparticipação financeira em resposta social para descanso do Cuidador
 
 1 - Na medida do descanso do cuidador informal, para a frequência das pessoas cuidadas em ERPI, há lugar a uma comparticipação financeira da segurança social correspondente ao valor mensal convencionado para as vagas reservadas para a segurança social definido em sede de compromisso de cooperação para o setor social e solidário.
 
@@ -256,7 +300,7 @@ As competências da comissão de acompanhamento do Estatuto do Cuidador Informal
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 16 de janeiro de 2026. - A Ministra da Saúde, Ana Paula Martins, em 4 de dezembro de 2025. - A Ministra do Trabalho, Solidariedade e Segurança Social, Rosário Palma Ramalho, em 12 de novembro de 2025.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 16 de janeiro de 2026. - A Ministra da Saúde, Ana Paula Martins, em 4 de dezembro de 2025. - A Ministra do Trabalho, Solidariedade e Segurança Social, Rosário Palma Ramalho, em 12 de novembro de 2025.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -407,3 +451,5 @@ As entidades intervenientes devem garantir a confidencialidade e a proteção do
 1 - Findo o período de vigência dos projetos-piloto, a medida da Bolsa de Cuidadores é objeto de avaliação e, se for caso disso, de regulamentação específica por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças, do trabalho, solidariedade e segurança social, da saúde e da coesão territorial.
 
 2 - As Bolsas de Cuidadores constituídas no âmbito dos projetos-piloto mantêm-se em vigor até à entrada em vigor da regulamentação definitiva.
+
+119947326

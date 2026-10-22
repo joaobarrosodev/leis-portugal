@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45726-1964-576751
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-05-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:40:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d0ae0bba9066d505838c76d50b6695e4d5bfd3f52dd04660666c5510e8cbd52
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9de25d4f2fcee5a625b3e1754ea31fad3e28295471c300a71aef09b6ad516e98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:40:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:297866:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:40:34Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +98,7 @@ Com parecer favorável do Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Em harmonia com o disposto no artigo 19.º do Decreto de 20 de Setembro de 1906 é o Ministro do Ultramar autorizado a conceder a Afonso Patrício Gouveia e a José da Veiga Lima o direito de pesquisar e subsequentemente explorar, em regime de exclusivo, os jazigos diamantíferos, tanto de aluvião como de outra espécie, na área da província de Moçambique definida no § único deste artigo.
+Artigo 1.º Em harmonia com o disposto no artigo 19.º do Decreto de 20 de Setembro de 1906 é o Ministro do Ultramar autorizado a conceder a Afonso Patrício Gouveia e a José da Veiga Lima o direito de pesquisar e subsequentemente explorar, em regime de exclusivo, os jazigos diamantíferos, tanto de aluvião como de outra espécie, na área da província de Moçambique definida no § único deste artigo.
 
 § único. A área da concessão é a incluída no seguinte perímetro, compreendendo a terra firme e os leitos de lagos, rios e cursos de água:
 
@@ -106,15 +110,15 @@ Limite sul: paralelo 24º sul;
 
 Limite oeste: a fronteira com a República da África do Sul e a fronteira da Rodésia do Sul.
 
-###### Art. 2.º O Ministro do Ultramar celebrará o contrato de concessão com as cláusulas e condições constantes dos artigos seguintes.
+Art. 2.º O Ministro do Ultramar celebrará o contrato de concessão com as cláusulas e condições constantes dos artigos seguintes.
 
-###### Art. 3.º O disposto no artigo 1.º não invalida direitos mineiros ou quaisquer outros anteriormente adquiridos por outrem dentro da área definida no § único do mesmo artigo.
+Art. 3.º O disposto no artigo 1.º não invalida direitos mineiros ou quaisquer outros anteriormente adquiridos por outrem dentro da área definida no § único do mesmo artigo.
 
 § único. As áreas sobre as quais actualmente incidam os direitos referidos no corpo deste artigo ficarão integradas automàticamente nesta concessão, no caso de caducarem aqueles direitos.
 
-###### Art. 4.º Os concessionários Afonso Patrício Gouveia e José da Veiga Lima obrigam-se a organizar e constituir por sua iniciativa, no prazo de 90 dias, a contar da data da assinatura do presente decreto, uma sociedade anónima de responsabilidade limitada, de ora avante designada por empresa, para a qual transferirão, nos 30 dias subsequentes, todos os direitos e obrigações emergentes do contrato a realizar nos termos previstos neste decreto, a não ser que o mesmo contrato seja outorgado com directa intervenção da sociedade já constituída, dentro do prazo de 30 dias, mencionado em último lugar, o que expressamente também fica autorizado.
+Art. 4.º Os concessionários Afonso Patrício Gouveia e José da Veiga Lima obrigam-se a organizar e constituir por sua iniciativa, no prazo de 90 dias, a contar da data da assinatura do presente decreto, uma sociedade anónima de responsabilidade limitada, de ora avante designada por empresa, para a qual transferirão, nos 30 dias subsequentes, todos os direitos e obrigações emergentes do contrato a realizar nos termos previstos neste decreto, a não ser que o mesmo contrato seja outorgado com directa intervenção da sociedade já constituída, dentro do prazo de 30 dias, mencionado em último lugar, o que expressamente também fica autorizado.
 
-###### Art. 5.º A empresa deverá obedecer aos seguintes requisitos:
+Art. 5.º A empresa deverá obedecer aos seguintes requisitos:
 
 a) Ter sede na província ultramarina de Moçambique, podendo estabelecer em Lisboa filial ou delegação;
 
@@ -128,7 +132,7 @@ d) Manter na província de Moçambique para assegurar a ligação com o respecti
 
 § 2.º Os meios de financiamento da actividade da empresa são de sua escolha e responsabilidade, mas a emissão de obrigações depende de expressa autorização do Ministro do Ultramar.
 
-###### Art. 6.º Durante o período de três anos que se seguir à data deste decreto a empresa terá o direito de pesquisar minérios de harmonia com o disposto no artigo 1.º e sob condição de as pesquisas serem intensivas nos termos que se passam a definir.
+Art. 6.º Durante o período de três anos que se seguir à data deste decreto a empresa terá o direito de pesquisar minérios de harmonia com o disposto no artigo 1.º e sob condição de as pesquisas serem intensivas nos termos que se passam a definir.
 
 § 1.º Consideram-se pesquisas intensivas as que correspondem à despesa efectiva mínima de 9000000$00 em vencimentos, honorários, salários e outros encargos contraídos na província de Moçambique e na metrópole, relacionados com a concessão, e em material que, provisòria ou definitivamente, tenha entrado na província para a realização dos fins da empresa, de acordo com planos prèviamente por ela elaborados e aprovados pelo Governo.
 
@@ -144,7 +148,7 @@ b) Os vencimentos, honorários, salários e outros encargos que a empresa tenha 
 
 § 5.º A empresa fica obrigada a escriturar na província de Moçambique, além dos livros exigidos pelo Código Comercial e mais legislação aplicável, os livros auxiliares da sua contabilidade necessários à especificação e fácil apreciação das despesas referidas nos parágrafos anteriores.
 
-###### Art. 7.º O direito exclusivo de pesquisas será prorrogado por mais dois anos desde que a empresa solicite tal prorrogação e prove ter efectuado no período inicial da concessão pesquisas intensivas, de acordo com o artigo 6.º e seus parágrafos.
+Art. 7.º O direito exclusivo de pesquisas será prorrogado por mais dois anos desde que a empresa solicite tal prorrogação e prove ter efectuado no período inicial da concessão pesquisas intensivas, de acordo com o artigo 6.º e seus parágrafos.
 
 § 1.º No caso de a empresa ter requerido e obtido a prorrogação de dois anos, fica obrigada a despender durante o período da prorrogação o mínimo de 6000000$00.
 
@@ -154,15 +158,15 @@ b) Os vencimentos, honorários, salários e outros encargos que a empresa tenha 
 
 § 4.º Passados seis meses sobre o termo dos prazos concedidos para as pesquisas serão consideradas inteiramente livres as áreas cuja demarcação não tenha sido requerida.
 
-###### Art. 8.º A empresa poderá utilizar livremente para as suas operações, durante o período de pesquisas ou de desenvolvimento, os diamantes produzidos no decurso das mesmas operações.
+Art. 8.º A empresa poderá utilizar livremente para as suas operações, durante o período de pesquisas ou de desenvolvimento, os diamantes produzidos no decurso das mesmas operações.
 
 § único. A empresa terá o direito, durante o período de pesquisas, de vender as substâncias minerais produzidas no decurso das suas operações, desde que ao Governo da província de Moçambique sejam entregues 50 por cento do produto líquido da venda ou vendas dessa substância.
 
-###### Art. 9.º Dentro de seis meses a contar da data da sua constituição, fica a empresa obrigada a depositar nos cofres do Estado no Banco Nacional Ultramarino a quantia de 3000000$00 à ordem do Ministro do Ultramar ou, alternativamente, a prestar garantia bancária do mesmo valor, emitida por um banco português que o Ministro aceite.
+Art. 9.º Dentro de seis meses a contar da data da sua constituição, fica a empresa obrigada a depositar nos cofres do Estado no Banco Nacional Ultramarino a quantia de 3000000$00 à ordem do Ministro do Ultramar ou, alternativamente, a prestar garantia bancária do mesmo valor, emitida por um banco português que o Ministro aceite.
 
 § único. No fim de cada um dos primeiros três anos de pesquisas o montante do depósito ou da garantia bancária referida neste artigo será reduzido em proporção igual à soma despendida no respectivo ano em relação ao montante total referido no § 1.º do artigo 6.º
 
-###### Art. 10.º A empresa fica obrigada, salvo caso de força maior reconhecido pelo Governo, a:
+Art. 10.º A empresa fica obrigada, salvo caso de força maior reconhecido pelo Governo, a:
 
 a) Dentro do prazo de seis meses a contar da data da sua constituição, apresentar aos serviços competentes o programa de pesquisas relativo ao primeiro ano de operações; e, nos três meses anteriores ao fim do período de validade de cada programa de pesquisas, apresentar aos mesmos serviços o programa para o ano seguinte;
 
@@ -176,7 +180,7 @@ e) Apresentar aos serviços competentes da província, no prazo de três meses, 
 
 f) Enviar semestralmente e dentro de três meses, a contar do termo de cada semestre, aos serviços competentes da província, um relatório pormenorizado das operações efectuadas durante o semestre antecedente e dos resultados obtidos nas mencionadas operações, o qual indicará designadamente os pormenores técnicos que permitam avaliar a importância de quaisquer descobertas feitas, assim como o estado de desenvolvimento alcançado, e será acompanhado das amostras e diagramas necessários.
 
-###### Art. 11.º As concessões mineiras que venham a ser feitas à empresa subsistirão pelo prazo de 50 anos a contar da data do termo do período de pesquisas ou sua prorrogação, se a houver, e enquanto a empresa cumprir as condições que a lei, o título de concessão e o presente decreto lhe impuserem.
+Art. 11.º As concessões mineiras que venham a ser feitas à empresa subsistirão pelo prazo de 50 anos a contar da data do termo do período de pesquisas ou sua prorrogação, se a houver, e enquanto a empresa cumprir as condições que a lei, o título de concessão e o presente decreto lhe impuserem.
 
 O Governo prorrogará o prazo de validade das concessões por mais vinte anos, a pedido da empresa, se esta tiver cumprido todas as suas obrigações, às quais continuará sujeita nos termos da primeira parte deste artigo por todo o tempo da prorrogação.
 
@@ -190,7 +194,7 @@ A demarcação das áreas não está sujeita a limitação de número, dimensão
 
 § 4.º Após a verificação da demarcação referida no parágrafo anterior e efectuado o reconhecimento dos jazigos, será organizado processo para a concessão mineira e passagem do respectivo título.
 
-###### Art. 12.º O contrato de concessão será rescindido a pedido do Governo da província de Moçambique quando:
+Art. 12.º O contrato de concessão será rescindido a pedido do Governo da província de Moçambique quando:
 
 a) A empresa tenha, sem suficiente causa ou justificação, abandonado as suas operações de pesquisas e exploração pelo tempo e nas condições previstas no § 1.º do presente artigo;
 
@@ -202,7 +206,7 @@ O abandono, porém, só se tornará efectivo para os fins deste contrato se o Go
 
 § 2.º A rescisão do contrato de concessão, de harmonia com o estatuído neste artigo, importa a perda pela empresa do saldo do depósito, referido no artigo 9.º, existente à data da rescisão ou, se tiver sido prestada garantia bancária, o pagamento ao Governo da província de Moçambique de um montante igual ao saldo do depósito que seria devido nessa data. Além disso, a empresa perderá também a favor do Governo da província de Moçambique os direitos a todos e quaisquer imóveis que lhe pertençam.
 
-###### Art. 13.º O contrato de concessão será rescindido a pedido da empresa ùnicamente quando:
+Art. 13.º O contrato de concessão será rescindido a pedido da empresa ùnicamente quando:
 
 a) As operações da empresa tiverem revelado que não existem dentro da área da concessão quaisquer jazigos diamantíferos, que segundo a prática da indústria sejam susceptíveis de exploração económica;
 
@@ -210,9 +214,9 @@ b) As operações da empresa tenham sido paralisadas ou interrompidas durante um
 
 § único. No caso de o contrato de concessão ser rescindido a pedido da empresa nos termos previstos no corpo deste artigo, o saldo do depósito a que se refere o artigo 9.º existente à data da rescisão será reembolsado à empresa ou a garantia bancária a que se refere o mesmo artigo será declarada extinta e a empresa manterá todos os seus direitos sobre as coisas imóveis ou móveis que tenha adquirido.
 
-###### Art. 14.º No caso de qualquer das partes submeter à outra um pedido de rescisão do contrato de concessão, com fundamento, respectivamente, nos artigos 12.º e 13.º, e se não houver acordo sobre a rescisão, recorrer-se-á à arbitragem prevista no artigo 35.º a requerimento de qualquer dos contratantes.
+Art. 14.º No caso de qualquer das partes submeter à outra um pedido de rescisão do contrato de concessão, com fundamento, respectivamente, nos artigos 12.º e 13.º, e se não houver acordo sobre a rescisão, recorrer-se-á à arbitragem prevista no artigo 35.º a requerimento de qualquer dos contratantes.
 
-###### Art. 15.º As autoridades portuguesas tomarão as providências necessárias para permitir à empresa o exercício livre, eficaz e completo das suas operações e designadamente:
+Art. 15.º As autoridades portuguesas tomarão as providências necessárias para permitir à empresa o exercício livre, eficaz e completo das suas operações e designadamente:
 
 a) Farão expedir as providências legislativas, regulamentares e administrativas necessárias, no interesse da província e da empresa, para a plena e eficaz prevenção e repressão de pesquisa, extracção, roubo, receptação e tráfico ilícitos de diamantes;
 
@@ -228,21 +232,21 @@ f) Autorizarão, conforme os regulamentos em vigor, a passagem de indivíduos ou
 
 § único. As estradas, vias e caminhos, bem como quaisquer outros meios de comunicação por veículos, que a empresa fizer construir, entram no domínio público; mas no caso de o seu uso por pessoas, veículos ou animais estranhos aos respectivos serviços causar quaisquer danos à empresa, receberá esta uma indemnização cujo montante será acordado com as autoridades portuguesas.
 
-###### Art. 16.º Sempre que o contrário não seja imposto por imperativos de segurança ou de ordem pública, as autoridades portuguesas facilitarão a entrada e saída do território português dos indivíduos de qualquer nacionalidade que a empresa ou outra sociedade que, em seu nome e por sua conta exerça actividade na área da concessão, tenha admitido ou demitido.
+Art. 16.º Sempre que o contrário não seja imposto por imperativos de segurança ou de ordem pública, as autoridades portuguesas facilitarão a entrada e saída do território português dos indivíduos de qualquer nacionalidade que a empresa ou outra sociedade que, em seu nome e por sua conta exerça actividade na área da concessão, tenha admitido ou demitido.
 
 § único. A empresa acatará as disposições legais e regulamentares em vigor na província de Moçambique no que respeita às condições de entrada e emprego no respectivo território de quaisquer pessoas de nacionalidade portuguesa ou não, excepto quanto à proporcionalidade mandada observar entre o pessoal estrangeiro e português ao serviço da mesma empresa.
 
-###### Art. 17.º A província de Moçambique receberá, sem desembolso algum, 10 por cento do total das acções emitidas ou a emitir pela empresa, seja qual for a sua natureza, com todos os direitos inerentes, designadamente os dividendos e participações que lhes caibam ou venham a caber. Estas acções serão entregues à província de Moçambique, inteiramente liberadas, até seis meses depois de constituída a empresa e de se realizar qualquer aumento de capital.
+Art. 17.º A província de Moçambique receberá, sem desembolso algum, 10 por cento do total das acções emitidas ou a emitir pela empresa, seja qual for a sua natureza, com todos os direitos inerentes, designadamente os dividendos e participações que lhes caibam ou venham a caber. Estas acções serão entregues à província de Moçambique, inteiramente liberadas, até seis meses depois de constituída a empresa e de se realizar qualquer aumento de capital.
 
 § único. Se o Governo da província de Moçambique quiser vender as acções adquiridas nos termos do corpo deste artigo, deverá oferecê-las prèviamente à empresa, se não houver lei que imponha outra espécie de adquirente.
 
-###### Art. 18.º Dos lucros líquidos anuais da empresa, depois de deduzida a percentagem de 5 por cento para o fundo de reserva legal e a que, nos termos estatutários, for atribuída aos respectivos corpos gerentes, a título de remuneração, 50 por cento ficarão pertencendo à província de Moçambique e os restantes 50 por cento terão o destino que for votado em assembleia geral, de harmonia com os estatutos.
+Art. 18.º Dos lucros líquidos anuais da empresa, depois de deduzida a percentagem de 5 por cento para o fundo de reserva legal e a que, nos termos estatutários, for atribuída aos respectivos corpos gerentes, a título de remuneração, 50 por cento ficarão pertencendo à província de Moçambique e os restantes 50 por cento terão o destino que for votado em assembleia geral, de harmonia com os estatutos.
 
 § 1.º A empresa poderá, todavia, aplicar em amortização de verbas de 1.º estabelecimento ou de perdas acumuladas até 50 por cento do lucro líquido total apurado no respectivo exercício, aplicando-se apenas aos restantes 50 por cento o que se dispõe no corpo deste artigo.
 
 § 2.º Nenhuma outra dedução se poderá fazer sem que tenha sido aprovada pelos administradores por parte do Estado ou, na falta destes, pelo delegado do Governo; e, em caso algum, será permitido aprovar deduções que possam traduzir duplicação relativamente a outras já consideradas.
 
-###### Art. 19.º Para os efeitos do artigo anterior, o lucro líquido anual reportar-se-á ao saldo revelado pela conta de resultados do exercício ou de ganhos e perdas, elaborada em obediência a sãos princípios de contabilidade, e consistirá na diferença entre todos os proveitos ou ganhos realizados e os custos ou perdas imputáveis ao exercício respectivo, uns e outros eventualmente corrigidos nos termos dos parágrafos seguintes.
+Art. 19.º Para os efeitos do artigo anterior, o lucro líquido anual reportar-se-á ao saldo revelado pela conta de resultados do exercício ou de ganhos e perdas, elaborada em obediência a sãos princípios de contabilidade, e consistirá na diferença entre todos os proveitos ou ganhos realizados e os custos ou perdas imputáveis ao exercício respectivo, uns e outros eventualmente corrigidos nos termos dos parágrafos seguintes.
 
 § 1.º Consideram-se proveitos ou ganhos realizados no exercício os provenientes de quaisquer transacções ou operações efectuadas pela empresa em consequência de uma acção normal ou ocasional, básica ou meramente acessória.
 
@@ -262,17 +266,17 @@ f) Provisões, reintegrações ou amortizações dos elementos do activo sujeito
 
 g) Indemnizações resultantes de eventos cujo risco não seja segurável.
 
-###### Art. 20.º Durante o período de pesquisas estabelecido no corpo do artigo 6.º e do artigo 7.º a empresa não ficará sujeita ao pagamento de quaisquer taxas, impostos ou contribuições, licenças, rendas, impostos prediais, industriais, mineiros, complementares, de consumo, adicionais e mais encargos, seja qual for o seu título ou natureza, nacionais, provinciais ou municipais, presentes ou futuros.
+Art. 20.º Durante o período de pesquisas estabelecido no corpo do artigo 6.º e do artigo 7.º a empresa não ficará sujeita ao pagamento de quaisquer taxas, impostos ou contribuições, licenças, rendas, impostos prediais, industriais, mineiros, complementares, de consumo, adicionais e mais encargos, seja qual for o seu título ou natureza, nacionais, provinciais ou municipais, presentes ou futuros.
 
-###### Art. 21.º Em contrapartida dos direitos outorgados à província de Moçambique nos artigos 17.º e 18.º e tendo em atenção as obrigações assumidas pela empresa no contrato de concessão, não ficará a mesma empresa sujeita ao pagamento de quaisquer impostos ou direitos relativos à alienação e exportação de diamantes e de outros encargos, actuais ou futuros, de natureza pecuniária ou económica, estabelecidos em proveito do Estado, da província de Moçambique ou de outras instituições de direito público e relacionados com essa alienação ou exportação, exceptuado o imposto estatístico de 1 por mil ad valorem e o imposto do selo do despacho.
+Art. 21.º Em contrapartida dos direitos outorgados à província de Moçambique nos artigos 17.º e 18.º e tendo em atenção as obrigações assumidas pela empresa no contrato de concessão, não ficará a mesma empresa sujeita ao pagamento de quaisquer impostos ou direitos relativos à alienação e exportação de diamantes e de outros encargos, actuais ou futuros, de natureza pecuniária ou económica, estabelecidos em proveito do Estado, da província de Moçambique ou de outras instituições de direito público e relacionados com essa alienação ou exportação, exceptuado o imposto estatístico de 1 por mil ad valorem e o imposto do selo do despacho.
 
-###### Art. 22.º Na participação de 50 por cento dos lucros líquidos anuais da empresa que, nos termos do artigo 18.º, pertence à província de Moçambique serão incluídas as importâncias pagas como taxas, contribuições e impostos, designadamente prediais, industriais, mineiros, complementares e de consumo, bem como adicionais e outros encargos semelhantes, sem distinção de título ou natureza, e quer sejam nacionais, provinciais ou municipais.
+Art. 22.º Na participação de 50 por cento dos lucros líquidos anuais da empresa que, nos termos do artigo 18.º, pertence à província de Moçambique serão incluídas as importâncias pagas como taxas, contribuições e impostos, designadamente prediais, industriais, mineiros, complementares e de consumo, bem como adicionais e outros encargos semelhantes, sem distinção de título ou natureza, e quer sejam nacionais, provinciais ou municipais.
 
 § único. Os encargos fiscais e parafiscais mencionados neste artigo não serão havidos como custos ou perdas para efeito do apuramento do lucro líquido anual da empresa, nos termos clausulados no artigo 19.º, e não deverão, pois, considerar-se como incluídos nos encargos constantes das alíneas a) a g) do § 2.º do mesmo artigo, nem, consequentemente, abatidos ao montante dos proveitos ou ganhos apurados segundo o critério estabelecido no seu § 1.º
 
-###### Art. 23.º A partir da data da demarcação referida no artigo 11.º a empresa poderá livremente produzir, arrecadar, vender e exportar, nos termos e condições que julgue aconselháveis, todas e quaisquer substâncias extraídas da área da concessão, seja no seu estado natural, seja depois de haverem recebido algum tratamento, e quer tenham sido extraídas de uma ou de diversas áreas demarcadas para exploração.
+Art. 23.º A partir da data da demarcação referida no artigo 11.º a empresa poderá livremente produzir, arrecadar, vender e exportar, nos termos e condições que julgue aconselháveis, todas e quaisquer substâncias extraídas da área da concessão, seja no seu estado natural, seja depois de haverem recebido algum tratamento, e quer tenham sido extraídas de uma ou de diversas áreas demarcadas para exploração.
 
-###### Art. 24.º Por virtude das obrigações assumidas pela empresa no contrato de concessão, a empresa e quaisquer outras entidades ou sociedades que, em seu nome ou por sua conta, realizem trabalhos necessários à execução dos programas de pesquisas ou de exploração gozam de isenção de direitos alfandegários e mais imposições aduaneiras, presentes ou futuras, exceptuando o imposto estatístico de 1 por mil e o imposto do selo, na importação de todos os materiais, equipamentos, combustíveis líquidos, máquinas, automóveis, camiões, lanchas motoras e outros barcos, aviões, madeiras, ferro em obra, ferramentas, materiais de construção, equipamentos industriais para a concessão, condutas, produtos químicos e explosivos, mas esta regalia não será aplicada a quaisquer materiais ou bens importados pela empresa ou entidades com ela ligadas por contrato, para venda aos seus empregados.
+Art. 24.º Por virtude das obrigações assumidas pela empresa no contrato de concessão, a empresa e quaisquer outras entidades ou sociedades que, em seu nome ou por sua conta, realizem trabalhos necessários à execução dos programas de pesquisas ou de exploração gozam de isenção de direitos alfandegários e mais imposições aduaneiras, presentes ou futuras, exceptuando o imposto estatístico de 1 por mil e o imposto do selo, na importação de todos os materiais, equipamentos, combustíveis líquidos, máquinas, automóveis, camiões, lanchas motoras e outros barcos, aviões, madeiras, ferro em obra, ferramentas, materiais de construção, equipamentos industriais para a concessão, condutas, produtos químicos e explosivos, mas esta regalia não será aplicada a quaisquer materiais ou bens importados pela empresa ou entidades com ela ligadas por contrato, para venda aos seus empregados.
 
 § 1.º A empresa ou quaisquer entidades referidas no corpo deste artigo notificarão com antecedência os serviços aduaneiros e de minas da província de Moçambique de qualquer importação a efectuar com isenção de direitos.
 
@@ -280,7 +284,7 @@ g) Indemnizações resultantes de eventos cujo risco não seja segurável.
 
 § 3.º Sempre que a empresa pretender alienar alguns dos artigos importados com isenção de direitos aduaneiros, não o fará sem pagar prèviamente os direitos a que a isenção tenha respeitado.
 
-###### Art. 25.º As autoridades portuguesas terão direito em qualquer momento de inspeccionar todas as operações da empresa, bem como as respectivas actividades administrativas, tanto na área da concessão como em qualquer outro local dos territórios da República Portuguesa.
+Art. 25.º As autoridades portuguesas terão direito em qualquer momento de inspeccionar todas as operações da empresa, bem como as respectivas actividades administrativas, tanto na área da concessão como em qualquer outro local dos territórios da República Portuguesa.
 
 § único. A inspecção será efectuada:
 
@@ -290,15 +294,15 @@ b) Pelo Governo da província de Moçambique representado por seus serventuário
 
 c) Por pessoas de reconhecida competência especialmente nomeadas pelo Governo para examinarem quaisquer elementos de natureza administrativa ou técnica, incluindo os relativos à contabilidade, salvo se as autoridades portuguesas preferirem que a empresa coloque à sua disposição todos os documentos ou livros necessários e demais material dentro do período máximo de 180 dias, a contar da data do pedido, não obstante a natureza confidencial ou secreta dos elementos a examinar, mas sempre com observância do disposto no artigo 26.º
 
-###### Art. 26.º Todos os programas de exploração, relatórios, mapas, diagramas, plantas, amostras, diários, registos, contas e outros documentos ou informações que à empresa cumpre apresentar por força do contrato de concessão serão tratados pelas autoridades portuguesas como confidenciais, salvo consentimento por escrito da própria interessada para lhes ser dada publicidade ou serem facultados a terceiros.
+Art. 26.º Todos os programas de exploração, relatórios, mapas, diagramas, plantas, amostras, diários, registos, contas e outros documentos ou informações que à empresa cumpre apresentar por força do contrato de concessão serão tratados pelas autoridades portuguesas como confidenciais, salvo consentimento por escrito da própria interessada para lhes ser dada publicidade ou serem facultados a terceiros.
 
-###### Art. 27.º Quaisquer aprovações ou autorizações que, de harmonia com os termos do contrato de concessão, sejam requeridas às autoridades portuguesas serão sempre consideradas como concedidas se as referidas autoridades não despacharem dentro de 60 dias, a partir da data de recebimento do requerimento de aprovação ou autorização.
+Art. 27.º Quaisquer aprovações ou autorizações que, de harmonia com os termos do contrato de concessão, sejam requeridas às autoridades portuguesas serão sempre consideradas como concedidas se as referidas autoridades não despacharem dentro de 60 dias, a partir da data de recebimento do requerimento de aprovação ou autorização.
 
-###### Art. 28.º A partir da data de constituição da empresa, em obediência às disposições do contrato de concessão e dos que lhe sejam subsidiários, todas as operações efectuadas entre a mesma e quaisquer entidades de direito público e privado não residentes na província ficam sujeitas, conforme o caso, às prescrições estabelecidas pela legislação cambial ou reguladora dos pagamentos interterritoriais em vigor em Moçambique.
+Art. 28.º A partir da data de constituição da empresa, em obediência às disposições do contrato de concessão e dos que lhe sejam subsidiários, todas as operações efectuadas entre a mesma e quaisquer entidades de direito público e privado não residentes na província ficam sujeitas, conforme o caso, às prescrições estabelecidas pela legislação cambial ou reguladora dos pagamentos interterritoriais em vigor em Moçambique.
 
-###### Art. 29.º A empresa obriga-se também a dar preferência, nas aquisições que tiver de efectuar para manter e desenvolver a exploração de diamantes e serviços conexos, ao material, artigos e géneros fabricados na província e também a outros que nela sejam vendidos, uma vez que a qualidade satisfaça aos requisitos necessários e o preço, no local de emprego ou consumo, não importe agravamento superior a 5 por cento em relação ao custo do material, artigos ou géneros directamente importados de fora de Moçambique pela empresa.
+Art. 29.º A empresa obriga-se também a dar preferência, nas aquisições que tiver de efectuar para manter e desenvolver a exploração de diamantes e serviços conexos, ao material, artigos e géneros fabricados na província e também a outros que nela sejam vendidos, uma vez que a qualidade satisfaça aos requisitos necessários e o preço, no local de emprego ou consumo, não importe agravamento superior a 5 por cento em relação ao custo do material, artigos ou géneros directamente importados de fora de Moçambique pela empresa.
 
-###### Art. 30.º Além das obrigações estatuídas no artigo 5.º, a empresa manterá na província de Moçambique, obrigatòriamente de nacionalidade portuguesa:
+Art. 30.º Além das obrigações estatuídas no artigo 5.º, a empresa manterá na província de Moçambique, obrigatòriamente de nacionalidade portuguesa:
 
 O pessoal empregado no serviço de repressão de tráfico de diamantes.
 
@@ -308,21 +312,21 @@ Os empregados em contacto com as autoridades administrativas.
 
 § único. Deverá ser também de nacionalidade portuguesa o director técnico das explorações, embora a título excepcional e transitório o cargo possa ser exercido por um engenheiro de nacionalidade estrangeira.
 
-###### Art. 31.º Em tudo o que não for contrariado pelas disposições do contrato de concessão será aplicado o Decreto de 20 de Setembro de 1906 ou outros diplomas com ele relacionados já em vigor ou que venham a alterá-lo ou a substituí-lo.
+Art. 31.º Em tudo o que não for contrariado pelas disposições do contrato de concessão será aplicado o Decreto de 20 de Setembro de 1906 ou outros diplomas com ele relacionados já em vigor ou que venham a alterá-lo ou a substituí-lo.
 
-###### Art. 32.º A empresa, salvo autorização expressa do Governo, não transferirá ou alienará, parcial ou totalmente, os direitos resultantes do contrato de concessão.
+Art. 32.º A empresa, salvo autorização expressa do Governo, não transferirá ou alienará, parcial ou totalmente, os direitos resultantes do contrato de concessão.
 
-###### Art. 33.º Não constituirão violação do contrato de concessão as faltas, quer da empresa, quer das autoridades portuguesas, às obrigações contratuais respectivas se forem motivadas por força maior, reconhecida pelo Governo.
+Art. 33.º Não constituirão violação do contrato de concessão as faltas, quer da empresa, quer das autoridades portuguesas, às obrigações contratuais respectivas se forem motivadas por força maior, reconhecida pelo Governo.
 
-###### Art. 34.º A empresa renuncia a qualquer outro foro que não seja o português, único competente para julgar quaisquer pleitos que digam respeito à licença de pesquisas, às concessões mineiras que vierem a ser feitas ou que delas possam derivar.
+Art. 34.º A empresa renuncia a qualquer outro foro que não seja o português, único competente para julgar quaisquer pleitos que digam respeito à licença de pesquisas, às concessões mineiras que vierem a ser feitas ou que delas possam derivar.
 
-###### Art. 35.º As divergências que venham a surgir entre as autoridades portuguesas, seus representantes ou delegados, e a empresa, sobre a interpretação e execução do contrato de concessão e de quaisquer leis, decretos, ordens e regulamentos aplicáveis às relações entre ambas, na sua qualidade de contratantes, serão resolvidas por um tribunal arbitral, em conformidade com as leis portuguesas.
+Art. 35.º As divergências que venham a surgir entre as autoridades portuguesas, seus representantes ou delegados, e a empresa, sobre a interpretação e execução do contrato de concessão e de quaisquer leis, decretos, ordens e regulamentos aplicáveis às relações entre ambas, na sua qualidade de contratantes, serão resolvidas por um tribunal arbitral, em conformidade com as leis portuguesas.
 
 § 1.º O tribunal arbitral referido no corpo deste artigo será composto por um árbitro nomeado pelo Ministro do Ultramar, um segundo árbitro nomeado pela empresa e um presidente nomeado por acordo entre os dois árbitros acima referidos ou, não havendo acordo, nomeado pelo presidente do Supremo Tribunal de Justiça da República Portuguesa.
 
 § 2.º O tribunal arbitral reunir-se-á e funcionará em território português.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Maio de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

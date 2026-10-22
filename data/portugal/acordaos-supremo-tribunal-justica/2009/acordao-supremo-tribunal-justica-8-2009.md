@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/8/2009/05/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/8-2009-608691
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-18T00:00:00Z'
+  retrieved_at: '2026-10-22T17:52:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34454509d1847c416b336fd020b5f99a70797ef237e54156f44d2951580c1656
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc3e1ed993228fcc6832bb00cb1b33919344e2d4b3d9355823aff5314c0adb13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:52:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,14 +71,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acumulação de Empregos
+- Cessação do Contrato de Trabalho
+- Contrato de Trabalho
 - Educador de Infância
+- Ensino Básico
 - Ensino Oficial
 - Ensino Particular
 - Interpretação do Direito
 - Pessoal Docente
-- Ensino Básico
-- Contrato de Trabalho
-- Cessação do Contrato de Trabalho
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/15/2007/01/19/p/dre
@@ -92,16 +92,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/814/2005/09/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/814/2005/09/13/p/dre
+- type: cites
+  target: pt:dre:142713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662339:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:52:49Z'
   warnings: []
   errors: []
 ---

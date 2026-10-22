@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44479-1962-163834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-07-26T00:00:00Z'
+  retrieved_at: '2026-10-22T19:30:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93b1e972d523c66e7eaae3803b55e8aca05fd71952e12de7c58dd395c84157d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d08221b8c7f9014b281a232f51975e37b75dc9f6bfda2f179716b89f1279dce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:30:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:162168:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:30:21Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +95,7 @@ Dado o disposto no artigo 3.º do [Decreto n.º 12131](https://diariodarepublica
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, o seguinte:
 
-###### Artigo único. São aprovadas as seguintes alterações aos estatutos do Banco de Angola, votadas em assembleia geral ordinária realizada em 31 de Maio de 1962:
+Artigo único. São aprovadas as seguintes alterações aos estatutos do Banco de Angola, votadas em assembleia geral ordinária realizada em 31 de Maio de 1962:
 
 a) Adicionado um número ao § único do artigo 4.º, que será o 4.º, com a redacção seguinte:
 
@@ -101,7 +105,7 @@ b) Eliminado o n.º 5.º do artigo 20.º;
 
 c) Alterados os artigos 44.º e 57.º, que passam a ter a seguinte redacção:
 
-###### Art. 44.º O governo do Banco tem a direcção e responsabilidade da administração social e as suas deliberações só podem ser tomadas por maioria de votos, tendo o governador voto de desempate ou de qualidade.
+Art. 44.º O governo do Banco tem a direcção e responsabilidade da administração social e as suas deliberações só podem ser tomadas por maioria de votos, tendo o governador voto de desempate ou de qualidade.
 
 § 1.º O governo do Banco pode delegar nos seus membros todos ou parte dos poderes que por estes estatutos ou por lei lhe são atribuídos.
 
@@ -111,7 +115,7 @@ c) Alterados os artigos 44.º e 57.º, que passam a ter a seguinte redacção:
 
 ...
 
-###### Art. 57.º Aos empregados que sirvam nas dependências ultramarinas será concedida, além da licença anual a que se refere o artigo anterior, em cada período de três a cinco anos, conforme for regulamentado pelo governo do Banco, uma licença graciosa até seis meses.
+Art. 57.º Aos empregados que sirvam nas dependências ultramarinas será concedida, além da licença anual a que se refere o artigo anterior, em cada período de três a cinco anos, conforme for regulamentado pelo governo do Banco, uma licença graciosa até seis meses.
 
 § 1.º Esta licença, em regra, será gozada na metrópole, podendo também sê-lo nas províncias ultramarinas donde sejam naturais os empregados.
 
@@ -121,7 +125,7 @@ O mesmo abono será feito aos familiares dos empregados, em termos a regulamenta
 
 § 3.º O Banco poderá autorizar que o empregado acumule até dois períodos de licença.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 26 de Julho de 1962. - ANTÓNIO DE OLIVEIRA SALAZAR - Adriano José Alves Moreira.
 

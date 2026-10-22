@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/12/2011/04/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/12-2011-287161
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:13:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b181e762e91c0fa1d870d2b06bf70c2508dbcc7c1f2f80493eddfe1c88ed54a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 046bcb48d5c0ea51f6e442b5ff6d7ba5de820d750d49ed353e1413d664778cf7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:13:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,167 +68,167 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acidente de Trabalho
+- Açores
 - Administração Central
+- Administração Central do Sistema de Saúde
 - Administração Financeira do Estado
 - Administração Fiscal
-- Função Pública
+- Administração Local
+- Administração Pública
+- Administração Regional
 - Admissão de Pessoal
 - ADSE
-- QREN
 - Ajuste Direto
 - Alienação de BENS
 - Aposentação
 - Aquisição de Bens e Serviços
-- Nomenclatura das Unidades Territoriais para Fins Estatísticos
-- Região Autónoma
 - Assistência Médica
-- Valores Mobiliários
+- Autarquia Local
 - Autonomia Administrativa
 - Autonomia Financeira
+- Autoridade Florestal Nacional
 - Autorização de Despesas
-- Pessoal de Saúde
-- Financiamento
-- Ensino não Superior
-- Ministério das Finanças e da Administração Pública
+- Avaliação do Pessoal
 - Beneficiário
-- Titulo de Transporte
-- Jogos de Fortuna e Azar
+- Caixa Geral de Aposentações
 - Cedência de Pessoal
-- Ministério da Defesa Nacional
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
-- Pessoal Dirigente
 - Classificação Económica das Receitas Públicas
-- Cobrança de Impostos
 - Cobrança
-- Multa
-- Exército
+- Cobrança de Impostos
 - Combate à Fraude
-- Ministério da Administração Interna
-- Gestão Financeira
-- Fundação para a Ciência e a Tecnologia
 - Concurso
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
-- Finanças Locais
-- Ministério da Educação
 - Conta Geral do Estado
+- Contabilidade Pública
 - Contra-ordenação
+- Contratação de Pessoal
 - Contrato
 - Contrato de Mútuo
 - Contribuições da Segurança Social
-- Educação
+- Contribuições e Impostos
 - Dação em Cumprimento
 - Definição de Competências
 - Deslocação em Serviço
 - Despesas de Deslocação
 - Despesas Públicas
-- Direcção Geral da Administração e do Emprego Público
-- Instituto Nacional de Aviação Civil
 - Direção Geral das Autarquias Locais
+- Direção Geral do Orçamento
 - Direção Geral do Tesouro e Finanças
+- Direcção Geral da Administração e do Emprego Público
 - Dívidas ao Estado
 - Dívidas das Autarquias Locais
+- Documento Eletrónico
+- Doença Profissional
 - Domínio Público Ferroviário
 - Dotação Orçamental
 - Duodécimo
-- Profissão Diplomática
+- Educação
 - Empreitada de Obras Públicas
-- Empréstimo
 - Empresa Pública
-- Administração Pública
-- Serviço Nacional de Saúde
+- Empréstimo
+- Ensino não Superior
+- Ensino Superior
+- Estabelecimento de Ensino
 - Estudante
+- Evasão Fiscal
 - Execução do Orçamento
-- Caixa Geral de Aposentações
+- Exército
+- Finanças Locais
+- Finanças Regionais
+- Financiamento
 - Fiscalização
+- Formação Profissional
 - Freguesia
-- Setor Empresarial do Estado
+- Função Pública
+- Funcionário Público
+- Fundação para a Ciência e a Tecnologia
 - Fundo de Financiamento das Freguesias
-- Secretaria Geral
 - Fundo de Maneio
-- Projeto de Investimento
-- Ministério das Obras Públicas Transportes e Comunicações
-- Jovem
+- Fundo para as Relações Internacionais
 - Gabinete Governamental
-- Recrutamento de Pessoal
+- Gerap
+- Gestão Financeira
 - Gestão Orçamental
-- Ministério da Cultura
-- Ministério da Justiça
-- Ministério do Trabalho e da Solidariedade Social
-- Pagamento
 - Horas Extraordinárias
-- Contribuições e Impostos
-- IRS
 - IFAP
+- Instituto da Conservação da Natureza e da Biodiversidade
 - Instituto de Gestão da Tesouraria e do Crédito Público
 - Instituto de Gestão Financeira da Segurança Social
-- Gerap
+- Instituto do Emprego e Formação Profissional
+- Instituto Nacional de Aviação Civil
+- Instituto Português de Apoio ao Desenvolvimento
 - Integração de Trabalhadores
-- Finanças Regionais
+- IRS
+- Jogos de Fortuna e Azar
+- Jovem
 - Lei Geral Tributária
-- Veículo
 - Licença Extraordinária
 - Licença sem Vencimento
 - Locação Financeira
-- Documento Eletrónico
-- Contratação de Pessoal
+- Madeira.região Autónoma
 - Membros do Governo
-- Administração Central do Sistema de Saúde
-- Direção Geral do Orçamento
-- Fundo para as Relações Internacionais
+- Militar
+- Ministério da Administração Interna
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Ministério da Ciência Tecnologia e Ensino Superior
+- Ministério da Cultura
+- Ministério da Defesa Nacional
+- Ministério da Educação
+- Ministério da Justiça
+- Ministério da Saúde
+- Ministério das Finanças e da Administração Pública
+- Ministério das Obras Públicas Transportes e Comunicações
+- Ministério do Trabalho e da Solidariedade Social
+- Ministério dos Negócios Estrangeiros
 - Ministro da Ciência Tecnologia e Ensino Superior
+- Mobilidade de Pessoal
+- Multa
 - Navegação Fluvial
-- Orçamento Geral do Estado
+- Nomenclatura das Unidades Territoriais para Fins Estatísticos
 - Orçamento
 - Orçamento da Segurança Social
+- Orçamento Geral do Estado
+- Pagamento
 - Pagamento de Contribuições
 - Página na Internet
-- Doença Profissional
 - Pessoal de Gabinete
+- Pessoal de Saúde
+- Pessoal Dirigente
+- Pessoal Docente
 - Piddac
 - Plano Oficial de Contabilidade
 - Plano Oficial de Contabilidade Pública
-- Evasão Fiscal
-- Estabelecimento de Ensino
-- Pessoal Docente
 - Prémio de Desempenho
-- Serviço Público
-- Autoridade Florestal Nacional
-- Instituto Português de Apoio ao Desenvolvimento
-- Madeira.região Autónoma
+- Profissão Diplomática
+- Projeto de Investimento
 - Promoção Profissional
-- Ministério da Saúde
-- Instituto da Conservação da Natureza e da Biodiversidade
+- QREN
+- Recrutamento de Pessoal
 - Refer
-- Administração Local
+- Região Autónoma
 - Regime Contributivo da Segurança Social
 - Regime Especial de Tributação dos Rendimentos de Valores Mobiliários Representativos de Dívida
-- Ensino Superior
 - Remuneração
-- Mobilidade de Pessoal
-- Militar
 - Retenção na Fonte
-- Ministério dos Negócios Estrangeiros
-- Ministério da Ciência Tecnologia e Ensino Superior
-- Setor Empresarial
-- Setor Público
+- Secretaria Geral
 - Segurança Social
+- Serviço Nacional de Saúde
+- Serviço Público
 - Serviços Sociais
-- Avaliação do Pessoal
-- Funcionário Público
-- Administração Regional
+- Setor Empresarial
+- Setor Empresarial do Estado
+- Setor Público
 - Sistema Bancário
-- Açores
-- Contabilidade Pública
 - Subsídio
 - Subsistemas de Saúde
 - Taxa
+- Titulo de Transporte
 - Transferência de Verbas
 - Transporte de Passageiros
 - Transporte Escolar
 - Transporte Público
-- Autarquia Local
 - Tributação
+- Valores Mobiliários
+- Veículo
 - Veículo do Estado
 relationships:
 - type: cites
@@ -239,16 +239,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/29-a/2011/03/01/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/29-a/2011/03/01/p/dre
+- type: cites
+  target: pt:dre:144217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:13:04Z'
   warnings: []
   errors: []
 ---

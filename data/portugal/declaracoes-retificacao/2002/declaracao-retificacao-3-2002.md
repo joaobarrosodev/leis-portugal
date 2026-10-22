@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/3/2002/01/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-2002-239265
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-01-26T00:00:00Z'
+  retrieved_at: '2026-10-22T19:00:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ec22b56cc9f73ee936da73acbdadf441252dd9e1c02d36c22e0ae349c339959
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fecd87794c1835a4f4c95c6fc3578cb5a3441513218df1e51d91b73eda397e04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:00:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,19 +69,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Atividade Seguradora
 - Alienação de Participação Social
-- Contrato de Seguro
 - Aproximação das Legislações
-- Garantia
-- Co-seguro
+- Atividade Seguradora
+- Companhia de Seguros
 - Concorrência
+- Contrato de Seguro
+- Co-seguro
+- Direito de Estabelecimento
+- Empresa Estrangeira
 - Empresa Europeia
 - Fiscalização
 - Fundo de Pensões
-- Seguro
+- Garantia
 - Instituto de Seguros de Portugal
-- Direito de Estabelecimento
 - Mediação de Seguros
 - Mútua de Seguros
 - RAMO não VIDA
@@ -92,10 +93,9 @@ subjects:
 - Responsabilidade Conjunta
 - Responsabilidade Financeira
 - Resseguro
-- Companhia de Seguros
+- Seguro
 - Seguro de VIDA
 - Sucursal
-- Empresa Estrangeira
 relationships:
 - type: cites
   target: celex:31998L0079
@@ -104,13 +104,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:00:43Z'
   warnings: []
   errors: []
 ---

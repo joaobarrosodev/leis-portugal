@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44093-1961-184885
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-06-19T00:00:00Z'
+  retrieved_at: '2026-10-22T19:27:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bde7a02ca99fbff6b8e7a3e2e2fc31e76dd60e537362d2749e727df5a9b750a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ece8980d1eaf3fc099bc02a406ede3f44d4a194469ba0e513ec26abc8e7e056f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:27:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,32 @@ relationships:
   target: pt:dre:296209:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:259046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598091:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654121:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:27:17Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +112,9 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. São autorizados os órgãos legislativos das províncias de Angola e Moçambique a expedir diploma incluindo matérias previstas no artigo 1.º e seu § único do [Decreto n.º 33061](https://diariodarepublica.pt/dr/detalhe/decreto/33061-1943-259046), de 17 de Setembro de 1943, artigo 2.º do [Decreto n.º 38708](https://diariodarepublica.pt/dr/detalhe/decreto/38708-1952-598091), de 31 de Março de 1952, artigo 6.º do [Decreto n.º 41026](https://diariodarepublica.pt/dr/detalhe/decreto/41026-1957-654121), de 9 de Março de 1957, e parte final do artigo 1.º do Estatuto Orgânico das Alfândegas do Ultramar, aprovado pelo [Decreto n.º 43199](https://diariodarepublica.pt/dr/detalhe/decreto/43199-1960-514803), de 29 de Setembro de 1960.
+Artigo único. São autorizados os órgãos legislativos das províncias de Angola e Moçambique a expedir diploma incluindo matérias previstas no artigo 1.º e seu § único do [Decreto n.º 33061](https://diariodarepublica.pt/dr/detalhe/decreto/33061-1943-259046), de 17 de Setembro de 1943, artigo 2.º do [Decreto n.º 38708](https://diariodarepublica.pt/dr/detalhe/decreto/38708-1952-598091), de 31 de Março de 1952, artigo 6.º do [Decreto n.º 41026](https://diariodarepublica.pt/dr/detalhe/decreto/41026-1957-654121), de 9 de Março de 1957, e parte final do artigo 1.º do Estatuto Orgânico das Alfândegas do Ultramar, aprovado pelo [Decreto n.º 43199](https://diariodarepublica.pt/dr/detalhe/decreto/43199-1960-514803), de 29 de Setembro de 1960.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 15 de Dezembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/6/2026/03/04/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/6-2026-1065983606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-04T00:00:00Z'
+  retrieved_at: '2026-10-22T18:34:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5df4e5fd6e2968370c6c6267e1bb2a6f22fb94140f55a8d1270c48d18865a367
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd886588c6c6ee0a8462c82849fc5a79faf55f8aecb38de65fa538c2d768d6bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:34:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
 subjects:
 - Assembleia Legislativa Regional
 - Contrato de Concessão
-- Segurança Rodoviária
-- Serviço Público
+- Dispositivo de Protecção
 - Madeira.região Autónoma
 - Recomendação
-- Dispositivo de Protecção
+- Segurança Rodoviária
+- Serviço Público
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/1/2004/01/13/m/dre
@@ -94,16 +94,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:219166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:34:33Z'
   warnings: []
   errors: []
 ---
@@ -136,8 +156,10 @@ Pelo exposto, é dever desta Assembleia prover pela segurança dos madeirenses e
 
 O número de vítimas mortais e de feridos graves registados nos últimos anos é justificação para que se tomem medidas concretas de contenção e mitigação do risco. Se a instalação de barras protetoras permitir salvar uma vida ou evitar um ferimento, já terá valido plenamente o investimento.
 
-Assim, a Assembleia Legislativa da Região Autónoma da Madeira resolve, nos termos do n.º 3 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, recomendar ao Governo Regional da Madeira que negoceie com as concessionárias a instalação urgente de guardas protetoras, com proteção para motociclistas, nos rails separadores e laterais na VR1 e vias expresso, por forma a prevenir mortes e amputações, assim como o acrescento de uma placa de aço curva ou plana na parte superior do rail, que ajude a distribuir a força do impacto e a prevenir lesões por contacto com arestas vivas, mormente de motociclistas.
+Assim, a Assembleia Legislativa da Região Autónoma da Madeira resolve, nos termos do n.º 3 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, recomendar ao Governo Regional da Madeira que negoceie com as concessionárias a instalação urgente de guardas protetoras, com proteção para motociclistas, nos rails separadores e laterais na VR1 e vias expresso, por forma a prevenir mortes e amputações, assim como o acrescento de uma placa de aço curva ou plana na parte superior do rail, que ajude a distribuir a força do impacto e a prevenir lesões por contacto com arestas vivas, mormente de motociclistas.
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 11 de fevereiro de 2026.
 
-**A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.**
+A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.
+
+119947882

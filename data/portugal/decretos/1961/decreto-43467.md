@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43467-1961-631631
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-01-06T00:00:00Z'
+  retrieved_at: '2026-10-22T19:22:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34efc3044b7e34fb04a8f40a1644c87b9f2a62e64526fcb3c11f543383955234
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08a24fcdd275f5b5e9a619a1bc315909ec8a195122a24cde836ec279c4a3e6f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:22:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:22:08Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +91,9 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O Ministro do Ultramar pode autorizar, nas condições do presente decreto, a instalação na província de Angola da indústria de fabricação de pneus e câmaras-de-ar para veículos automóveis em regime de exclusivo, por prazo não superior a dez anos, contados da data em que for iniciada a laboração.
+Artigo 1.º O Ministro do Ultramar pode autorizar, nas condições do presente decreto, a instalação na província de Angola da indústria de fabricação de pneus e câmaras-de-ar para veículos automóveis em regime de exclusivo, por prazo não superior a dez anos, contados da data em que for iniciada a laboração.
 
-###### Art. 2.º Além de outras condições que o Ministro estabeleça por despacho, a autorização só pode ser dada a uma sociedade anónima de responsabilidade limitada, constituída ou a constituir, que obedeça aos seguintes requisitos:
+Art. 2.º Além de outras condições que o Ministro estabeleça por despacho, a autorização só pode ser dada a uma sociedade anónima de responsabilidade limitada, constituída ou a constituir, que obedeça aos seguintes requisitos:
 
 a) Tenha sede em território português;
 
@@ -105,25 +105,25 @@ d) Sejam oferecidos à subscrição pública nas províncias de Angola, Moçambi
 
 e) O presidente do conselho de administração e a maioria dos membros do conselho de administração tenham nacionalidade portuguesa.
 
-###### Art. 3.º A laboração da indústria iniciar-se-á no prazo de dezoito meses, a contar do despacho de autorização.
+Art. 3.º A laboração da indústria iniciar-se-á no prazo de dezoito meses, a contar do despacho de autorização.
 
 § único. Será prestada, para garantia do disposto no corpo do artigo, caução mínima de 1250 contos, por depósito ou garantia bancária, à ordem do Governo-Geral de Angola.
 
-###### Art. 4.º A empresa será obrigada a fabricar de preferência a quaisquer outros produtos os artigos da sua especialidade que forem necessários à defesa nacional.
+Art. 4.º A empresa será obrigada a fabricar de preferência a quaisquer outros produtos os artigos da sua especialidade que forem necessários à defesa nacional.
 
-###### Art. 5.º Os preços de venda ao público, em Angola, dos pneus e câmaras-de-ar fabricados pela nova fábrica serão anualmente fixados pelo governador-geral da província.
+Art. 5.º Os preços de venda ao público, em Angola, dos pneus e câmaras-de-ar fabricados pela nova fábrica serão anualmente fixados pelo governador-geral da província.
 
 § único. Para a fixação do preço referido no corpo do artigo o Governo-Geral usará uma fórmula que, tendo em atenção a qualidade dos produtos locais e a qualidade e preço de idênticos produtos da indústria nacional e estrangeira, assegure aos consumidores o conveniente benefício económico.
 
-###### Art. 6.º Enquanto durar o exclusivo a empresa não poderá distribuir aos accionistas dividendo superior a 10 por cento.
+Art. 6.º Enquanto durar o exclusivo a empresa não poderá distribuir aos accionistas dividendo superior a 10 por cento.
 
 § 1.º A parte dos lucros anuais que exceda a percentagem referida no corpo do artigo será investida pela mesma empresa, directamente ou através de outra sociedade em que seja interessada, em plantação de Hevea Brasiliensis ou espécies produtoras de borracha oficialmente aprovadas.
 
 § 2.º Não sendo o excesso de lucro aplicado pela forma referida no parágrafo anterior, reverterá para o Governo da província, a título de participação nos lucros, a fim de ser aplicado ao fomento da cultura de espécies produtoras de borracha.
 
-###### Art. 7.º Para a fiscalização do disposto no artigo anterior e seus parágrafos a empresa fornecerá à Direcção dos Serviços de Fazenda os elementos contabilísticos e à Direcção dos Serviços de Agricultura e Florestas os elementos técnicos que lhe forem solicitados, sem prejuízo das inspecções directas que esses serviços entendam realizar.
+Art. 7.º Para a fiscalização do disposto no artigo anterior e seus parágrafos a empresa fornecerá à Direcção dos Serviços de Fazenda os elementos contabilísticos e à Direcção dos Serviços de Agricultura e Florestas os elementos técnicos que lhe forem solicitados, sem prejuízo das inspecções directas que esses serviços entendam realizar.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Janeiro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

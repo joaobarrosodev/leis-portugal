@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/115/2026/06/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2026-1132710893
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T18:44:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a1bb4fa06933b813e78abaf5adb50da3aed3e37fe4119044efa4c254d760f4d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 750af201e3858240bea5b157c24ba0e7703db7f9fd37ccbef21cbe68cd49680a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:44:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
 - Contrato de Prestação de Serviços
+- Direção Executiva do Serviço Nacional de Saúde
+- Médico
+- Prestação de Serviços
 - Saúde
 - Serviço Nacional de Saúde
 - Serviços Partilhados do Ministério da Saúde
-- Prestação de Serviços
-- Direção Executiva do Serviço Nacional de Saúde
 relationships: []
 article_structure:
   article_count: 18
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:44:00Z'
   warnings: []
   errors: []
 ---
@@ -204,7 +204,7 @@ b) A entidade do SNS seja formalmente notificada da alteração com uma anteced�
 
 7 - O não cumprimento injustificado do disposto nos números anteriores poderá constituir incumprimento contratual, dando lugar à aplicação das penalidades previstas no contrato.
 
-8 - Qualquer prestador médico que preste serviço ao SNS, ainda que em substituição como previsto nos n.<sup>os</sup>5 e 6, através de uma pessoa coletiva está sujeito ao regime identificado nos artigos 4.º, 5.º e 6.º
+8 - Qualquer prestador médico que preste serviço ao SNS, ainda que em substituição como previsto nos n.os5 e 6, através de uma pessoa coletiva está sujeito ao regime identificado nos artigos 4.º, 5.º e 6.º
 
 ### CAPÍTULO III — EXECUÇÃO DO CONTRATO
 
@@ -320,12 +320,14 @@ O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua
 
 Visto e aprovado em Conselho de Ministros de 7 de maio de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Ana Paula Martins.
 
-**Promulgado em 5 de junho de 2026.**
+Promulgado em 5 de junho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 6 de junho de 2026.**
+Referendado em 6 de junho de 2026.
 
 Pelo Primeiro-Ministro, Paulo Artur dos Santos de Castro de Campos Rangel, Ministro de Estado e dos Negócios Estrangeiros.
+
+119948772

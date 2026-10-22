@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/10/2026/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/10-2026-1070724088
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-11T00:00:00Z'
+  retrieved_at: '2026-10-22T18:35:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed5f9b7be7addbd2436d9b72caeff8ec6ae46a62baa1217df16a2ce4ae76054a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 095952c3c99285fdc8b2428e51d1ab67ec39b4d52c64ee293b437334ecb5000a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:35:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Empresa
+- Agência para o Clima
 - Auxílio de Minimis
-- Regulamento CE
-- Relatório
+- Empresa
+- Estrutura de Missão Recuperar Portugal
+- Financiamento
 - Fundo Ambiental
 - Plano de Recuperação e Resiliência
-- Estrutura de Missão Recuperar Portugal
-- Agência para o Clima
+- Regulamento CE
+- Relatório
 relationships:
 - type: cites
   target: celex:32021R0241
@@ -109,16 +109,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/83-a/2026/02/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/83-a/2026/02/19/p/dre
+- type: cites
+  target: pt:dre:1054966771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162756795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:874082622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901661921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:940951437:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:portaria:83-A/2026
+  label: Retifica a Portaria n.º 83-A/2026/1, de 19 de fevereiro, Diário da República n.º 35/2026, Suplemento, Série I
+  source: null
+  date: '2026-02-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:35:24Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +196,7 @@ deve ler-se:
 
 «O sistema de armazenamento fica ainda obrigado a cumprir e a observar os demais requisitos a determinar no aviso para apresentação de candidaturas a lançar pelo Fundo Ambiental, cuja gestão compete à ApC, I. P.»
 
-4 - Nos n.<sup>os</sup>3, 4 e 5 da nova redação do artigo 7.º da [Portaria n.º 176-B/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/176-b-2024-874082622), de 30 de julho, dada pelo artigo 3.º, onde se lê:
+4 - Nos n.os3, 4 e 5 da nova redação do artigo 7.º da [Portaria n.º 176-B/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/176-b-2024-874082622), de 30 de julho, dada pelo artigo 3.º, onde se lê:
 
 «3 - Caso as candidaturas aceites nas condições do número anterior não esgotem a dotação total prevista no artigo 3.º, n.º 2, do presente Regulamento, poderão ser aceites projetos com Título de Reserva de Capacidade, em termos a definir no aviso de abertura de concurso a lançar pela Agência para o Clima (ApC), I. P.
 
@@ -360,3 +401,5 @@ deve ler-se:
 «O Fundo Ambiental, enquanto parceiro de execução sob a gestão da ApC, I. P., assinará um Acordo de Implementação com a EMRP, ao abrigo do artigo 9.º do [Decreto-Lei n.º 29-B/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-b-2021-162756795), na sua redação atual, dando cumprimento ao estabelecido no descrito do investimento TC-C21-i18 - ‘Regime de apoio à flexibilidade da rede e ao armazenamento’, e na meta 21.47 nos termos da Decisão de Execução do Conselho Europeu n.º 15796/25, adotada em 12 de dezembro de 2025.»
 
 Secretaria-Geral do Governo, 9 de março de 2026. - O Secretário Geral Adjunto, Joaquim Cruz.
+
+119947969

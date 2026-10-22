@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/242-a/2026/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/242-a-2026-1128002466
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T18:42:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da0a287da9d915e7bac30ddf03cb8e36fc090f2773fc9aacc1d8a4efb95f4f5f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6452f23aa1f9d61c9d2d30423c361a50a1a1b91760fd4d06c95428ba96afe0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:42:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,29 @@ subjects:
 - IPSS
 - Prestação de Contas
 - Prorrogação de Prazo
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:311401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:927634612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:935881579:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:42:31Z'
   warnings: []
   errors: []
 ---
@@ -111,4 +123,6 @@ A presente portaria determina a prorrogação, em 2026, do prazo previsto no art
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Secretária de Estado da Segurança Social, Susana Filipa de Moura Lima, em 28 de maio de 2026. - A Secretária de Estado da Ação Social e da Inclusão, Maria Clara Gonçalves Marques Mendes, em 27 de maio de 2026.**
+A Secretária de Estado da Segurança Social, Susana Filipa de Moura Lima, em 28 de maio de 2026. - A Secretária de Estado da Ação Social e da Inclusão, Maria Clara Gonçalves Marques Mendes, em 27 de maio de 2026.
+
+119948677

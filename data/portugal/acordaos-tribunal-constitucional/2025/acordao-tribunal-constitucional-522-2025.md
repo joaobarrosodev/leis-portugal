@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/07/14000/0000800015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/522/2025/07/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/522-2025-925934039
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-23T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab9ae6a66a9808e43f9247a5b7da848bca3c5496d7fc4937f1e07127487e6e4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7ca7e18366dde4280dc40d57b035e0fe918a696785d9288d083313d8c55812c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,12 +69,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Nacionalidade
 - Legalidade
+- Nacionalidade
 - Naturalização
 - Prazo
 - Regulamento
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:237-A/2006
+  label: Declara a ilegalidade, com força obrigatória geral, da norma constante do n.º 1 do artigo 56.º do Regulamento da
+    Nacionalidade Portuguesa, aprovado pelo Decreto-Lei n.º 237-A/2006, de 14 de dezembro, Diário da República n.º 239/2006,
+    1º Suplemento, Série I (na redação do Decreto-Lei n.º 26/2022, de 18 de março), na parte em que dispõe sobre o momento
+    inicial da contagem do prazo da propositura da ação judicial para efeito de oposição à aquisição da nacionalidade por
+    efeito da vontade
+  source: null
+  date: '2006-12-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/ac/161/2003/05/06/p/dre
   label: null
@@ -115,16 +124,116 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/19/2000/03/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/19/2000/03/06/p/dre
+- type: cites
+  target: pt:dre:107541407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115643970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148086464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1494334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180657814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213881448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218490:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2280685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66619927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67552497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69889521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:854130977:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:44Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +248,7 @@ I - Relatório
 
 1 - O representante do Ministério Público junto do Tribunal Constitucional veio requerer, ao abrigo do disposto no artigo 82.º da [Lei n.º 28/82](https://diariodarepublica.pt/dr/detalhe/lei/28-1982-377508), de 15 de novembro (Lei do Tribunal Constitucional - LTC), a organização de um processo, a tramitar nos termos do processo de fiscalização abstrata e sucessiva da constitucionalidade ou da ilegalidade, com vista à apreciação, pelo Plenário, da ilegalidade da norma constante do artigo 56.º, n.º 1, do Regulamento da Nacionalidade Portuguesa (aprovado pelo [Decreto-Lei n.º 237-A/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-a-2006-216911), de 14 de dezembro), na redação dada pelo [Decreto-Lei n.º 26/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2022-180657814), de 18 de março, na parte em que dispõe sobre o momento inicial da contagem do prazo da propositura da ação judicial para efeito de oposição à aquisição da nacionalidade por efeito da vontade, por violação do disposto no artigo 10.º da [Lei n.º 37/81](https://diariodarepublica.pt/dr/detalhe/lei/37-1981-564050), de 3 de outubro (Lei da Nacionalidade), na redação dada pela [Lei Orgânica n.º 2/2006](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2006-650954), de 17 abril.
 
-Para legitimar o seu pedido, o requerente alega que tal norma foi julgada ilegal por este Tribunal em mais de três casos concretos, nomeadamente nos Acórdãos n.<sup>os</sup>768/2024 e 895/2024 e na Decisão Sumária n.º 78/2025.
+Para legitimar o seu pedido, o requerente alega que tal norma foi julgada ilegal por este Tribunal em mais de três casos concretos, nomeadamente nos Acórdãos n.os768/2024 e 895/2024 e na Decisão Sumária n.º 78/2025.
 
 2 - Notificado, nos termos dos artigos 54.º e 55.º, n.º 3, LTC, na pessoa do Senhor Primeiro-Ministro, para se pronunciar sobre o pedido, o Governo ofereceu o merecimento dos autos.
 
@@ -173,11 +282,11 @@ Como se resume no Acórdão n.º 497/2019:
 
 «Em matéria de acesso à nacionalidade portuguesa, a jurisprudência deste Tribunal tem vindo a reafirmar algumas premissas fundamentais originariamente desenvolvidas no [Acórdão n.º 599/2005](https://diariodarepublica.pt/dr/detalhe/acordao/599-2005-2280685).
 
-Em primeiro lugar, a de que o direito à cidadania portuguesa tem a natureza de direito fundamental, o que “postula a sua subordinação a alguns corolários garantísticos que constitucionalmente enformam os direitos fundamentais, nomeadamente, aos princípios da sua universalidade e da igualdade, a vocação para a sua aplicabilidade direta, a vinculação de todas as autoridades públicas e privadas e a sujeição das restrições legais ao regime exigente constante dos n.<sup>os</sup>2 e 3 do artigo 18.º da CRP”.
+Em primeiro lugar, a de que o direito à cidadania portuguesa tem a natureza de direito fundamental, o que “postula a sua subordinação a alguns corolários garantísticos que constitucionalmente enformam os direitos fundamentais, nomeadamente, aos princípios da sua universalidade e da igualdade, a vocação para a sua aplicabilidade direta, a vinculação de todas as autoridades públicas e privadas e a sujeição das restrições legais ao regime exigente constante dos n.os2 e 3 do artigo 18.º da CRP”.
 
 Em segundo lugar, a de que não só deve ser reconhecido o direito fundamental a não ser privado da cidadania portuguesa, como deve também reconhecer-se o direito de aceder à cidadania portuguesa a qualquer pessoa que tenha a expectativa jurídica de a adquirir, “observados que sejam determinados pressupostos que o legislador interno entende como expressando aquele vínculo de integração efetiva na comunidade nacional”.
 
-Em terceiro lugar, a de que o legislador não goza de liberdade ilimitada na determinação desses pressupostos, porquanto dos artigos 4.º e 26.º, n.<sup>os</sup>1 e 4, da Constituição - assim como de outros preceitos constitucionais e de direito internacional (sobretudo do artigo 15.º da Declaração Universal dos Direitos Humanos e da Convenção Europeia sobre a Nacionalidade, aprovada para ratificação pela [Resolução da Assembleia da República n.º 19/2000](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/19-2000-408521), de 06 de março, ratificada pelo [Decreto do Presidente da República n.º 7/2000](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/7-2000-408527) e publicada no Diário da República, 1.ª série-A, n.º 55) ―, resulta delimitado um “conteúdo mínimo que o legislador ordinário não poderá postergar na definição do regime de acesso ao direito em causa”.
+Em terceiro lugar, a de que o legislador não goza de liberdade ilimitada na determinação desses pressupostos, porquanto dos artigos 4.º e 26.º, n.os1 e 4, da Constituição - assim como de outros preceitos constitucionais e de direito internacional (sobretudo do artigo 15.º da Declaração Universal dos Direitos Humanos e da Convenção Europeia sobre a Nacionalidade, aprovada para ratificação pela [Resolução da Assembleia da República n.º 19/2000](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/19-2000-408521), de 06 de março, ratificada pelo [Decreto do Presidente da República n.º 7/2000](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/7-2000-408527) e publicada no Diário da República, 1.ª série-A, n.º 55) ―, resulta delimitado um “conteúdo mínimo que o legislador ordinário não poderá postergar na definição do regime de acesso ao direito em causa”.
 
 Em quarto e último lugar, a de que, consequentemente, as condições legalmente fixadas para o acesso à cidadania, “[p]or mor da força vinculativa da natureza de direito fundamental de que comunga o direito em causa», não poderão deixar de «passar o crivo da adequação, necessidade e proporcionalidade, tendo em vista precisamente a preservação do núcleo essencial de tal direito que, por natureza, há de corresponder à evidenciação de um específico vínculo de integração na comunidade portuguesa”».
 
@@ -203,13 +312,13 @@ Nesta base, a cidadania é um direito pessoal com reflexos estruturantes na legi
 
 Revestindo a forma de lei orgânica, a Lei da Nacionalidade é, pois, subsumível ao conceito constitucional de lei com valor reforçado.
 
-Na doutrina, a infração de uma lei orgânica é considerada na ótica quer da inconstitucionalidade quer da ilegalidade qualificada. No caso, o recurso foi interposto ao abrigo da alínea c) do n.º 1 do artigo 70.º da LTC e estruturado apenas na invocação da ilegalidade qualificada e não da inconstitucionalidade da norma impugnada, pelo que o Tribunal Constitucional nunca poderá apreciar a eventual existência de vícios suscetíveis de fundar um juízo de inconstitucionalidade da norma, por não lhe ser permitido convolar o recurso previsto na alínea c) para o plano da inconstitucionalidade (cf., por exemplo, os Acórdãos n.<sup>os</sup>[161/2003](https://diariodarepublica.pt/dr/detalhe/acordao/161-2003-572608) e [374/2004](https://diariodarepublica.pt/dr/detalhe/acordao/374-2004-1494334)).
+Na doutrina, a infração de uma lei orgânica é considerada na ótica quer da inconstitucionalidade quer da ilegalidade qualificada. No caso, o recurso foi interposto ao abrigo da alínea c) do n.º 1 do artigo 70.º da LTC e estruturado apenas na invocação da ilegalidade qualificada e não da inconstitucionalidade da norma impugnada, pelo que o Tribunal Constitucional nunca poderá apreciar a eventual existência de vícios suscetíveis de fundar um juízo de inconstitucionalidade da norma, por não lhe ser permitido convolar o recurso previsto na alínea c) para o plano da inconstitucionalidade (cf., por exemplo, os Acórdãos n.os[161/2003](https://diariodarepublica.pt/dr/detalhe/acordao/161-2003-572608) e [374/2004](https://diariodarepublica.pt/dr/detalhe/acordao/374-2004-1494334)).
 
 6.3 - A Lei da Nacionalidade já foi por diversas vezes objeto da intervenção do legislador (inicialmente, do legislador ordinário e, mais tarde, do legislador orgânico). Em concreto, registam-se as alterações introduzidas pela [Lei n.º 25/94](https://diariodarepublica.pt/dr/detalhe/lei/25-1994-218490), de 19 de agosto, pelo [Decreto-Lei n.º 322-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-a-2001-330632), de 14 de dezembro, pela [Lei Orgânica n.º 1/2004](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2004-603274), de 15 de janeiro, pela [Lei Orgânica n.º 2/2006](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2006-650954), de 17 de abril, pela [Lei n.º 43/2013](https://diariodarepublica.pt/dr/detalhe/lei/43-2013-497432), de 03 de julho, pela [Lei Orgânica n.º 1/2013](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2013-498718), de 29 de julho, pela [Lei Orgânica n.º 8/2015](https://diariodarepublica.pt/dr/detalhe/lei-organica/8-2015-67552497), de 22 de junho, pela [Lei Orgânica n.º 9/2015](https://diariodarepublica.pt/dr/detalhe/lei-organica/9-2015-69889521), de 29 de julho, pela [Lei Orgânica n.º 2/2018](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2018-115643970), de 05 de julho, pela [Lei Orgânica n.º 2/2020](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2020-148086464), de 10 de novembro, e, por último, pela [Lei Orgânica n.º 1/2024](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2024-854130977), de 5 de março.
 
 Além da Lei da Nacionalidade, a matéria relativa à aquisição, perda e reaquisição da cidadania portuguesa também é objeto do Regulamento da Nacionalidade Portuguesa, inicialmente aprovado pelo [Decreto-Lei n.º 237-A/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-a-2006-216911), de 14 de dezembro. Este Regulamento foi editado pelo Governo com base na alínea a) do n.º 1 do artigo 198.º da Constituição, no uso, portanto, de poder legislativo em matéria concorrencial. Não obstante a designação “Regulamento”, dúvidas não há de que se trata de diploma de natureza legislativa, aprovado sob a forma de decreto-lei com invocação da competência legislativa do Governo.
 
-À semelhança da Lei da Nacionalidade, também o Regulamento da Nacionalidade Portuguesa foi sujeito a várias alterações, mais concretamente, as operadas pelos Decretos-Leis n.<sup>os</sup>[43/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2013-260103), de 1 de abril, [30-A/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-a-2015-66619927), de 27 de fevereiro, [71/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2017-107541407), de 21 de junho, [26/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2022-180657814), de 18 de março, e [41/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), de 2 de junho.
+À semelhança da Lei da Nacionalidade, também o Regulamento da Nacionalidade Portuguesa foi sujeito a várias alterações, mais concretamente, as operadas pelos Decretos-Leis n.os[43/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2013-260103), de 1 de abril, [30-A/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-a-2015-66619927), de 27 de fevereiro, [71/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2017-107541407), de 21 de junho, [26/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2022-180657814), de 18 de março, e [41/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), de 2 de junho.
 
 No caso, está em causa a norma do artigo 56.º, n.º 1, do Regulamento da Nacionalidade Portuguesa, na redação dada pelo [Decreto-Lei n.º 26/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2022-180657814), de 18 de março, na parte em que dispõe sobre o momento inicial da contagem do prazo da propositura da ação judicial para efeito de oposição à aquisição da nacionalidade por efeito da vontade, cuja aplicação foi recusada pelo tribunal a quo com fundamento em violação do artigo 10.º da Lei da Nacionalidade, na redação dada pela [Lei Orgânica n.º 2/2006](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2006-650954), de 17 de abril.
 
@@ -239,7 +348,7 @@ Na doutrina, Rui Moura Ramos indica como facto constitutivo da aquisição da na
 
 Também o Tribunal Constitucional afirmou, no Acórdão n.º 615/2013, que «basta a mera declaração do interessado para desencadear o processo de aquisição da nacionalidade portuguesa» e que o que funda o processo conducente à aquisição da nacionalidade portuguesa «é a declaração de vontade do estrangeiro que pretende tornar-se cidadão português».
 
-Nos tribunais judiciais e administrativos, existe jurisprudência abundante e consolidada - produzida sobre o artigo 3.º, mas inteiramente transponível para a hipótese do artigo 2.º da Lei da Nacionalidade - no sentido de que o facto relevante para a aquisição da nacionalidade portuguesa é a declaração de vontade do estrangeiro que reúne condições para a adquirir - cf., por exemplo, o Acórdão do Tribunal da Relação de Lisboa de 12/10/2000, proferido no processo n.º 0068276, o Acórdão do Tribunal Central Administrativo Sul de 26/05/2011, proferido no processo n.º 04881/09, e os Acórdãos do Supremo Tribunal Administrativo de 28/05/2015, 04/02/2016, 16/06/2016 e 07/07/2016, proferidos, respetivamente, nos processos n.<sup>os</sup>01548/14, 01374/15, 0201/16 e 01264/15, todos disponíveis em www.dgsi.pt.
+Nos tribunais judiciais e administrativos, existe jurisprudência abundante e consolidada - produzida sobre o artigo 3.º, mas inteiramente transponível para a hipótese do artigo 2.º da Lei da Nacionalidade - no sentido de que o facto relevante para a aquisição da nacionalidade portuguesa é a declaração de vontade do estrangeiro que reúne condições para a adquirir - cf., por exemplo, o Acórdão do Tribunal da Relação de Lisboa de 12/10/2000, proferido no processo n.º 0068276, o Acórdão do Tribunal Central Administrativo Sul de 26/05/2011, proferido no processo n.º 04881/09, e os Acórdãos do Supremo Tribunal Administrativo de 28/05/2015, 04/02/2016, 16/06/2016 e 07/07/2016, proferidos, respetivamente, nos processos n.os01548/14, 01374/15, 0201/16 e 01264/15, todos disponíveis em www.dgsi.pt.
 
 Do exposto resulta que, segundo a doutrina e a jurisprudência, o facto constitutivo da aquisição da nacionalidade é a manifestação/declaração de vontade do interessado. Consequentemente, embora não o diga expressamente, o artigo 10.º, n.º 1, da Lei da Nacionalidade, na redação em causa, deve ser lido no sentido de que o «facto de que depende a aquisição da nacionalidade» aí referido corresponde à manifestação/declaração de vontade do interessado.
 
@@ -261,7 +370,7 @@ Mesmo que se admita que a disciplina de certas formalidades não essenciais não
 
 6.6 - Estando em causa matéria abrangida pela reserva de lei orgânica e sendo evidente a incompatibilidade do n.º 1 do artigo 56.º do Regulamento da Nacionalidade Portuguesa, na redação do [Decreto-Lei n.º 26/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2022-180657814), de 18 de março, na parte em que dispõe sobre o momento inicial da contagem do prazo da propositura da ação judicial para efeito de oposição à aquisição da nacionalidade por efeito da vontade, com o artigo 10.º, n.º 1, da Lei da Nacionalidade, na redação dada pela [Lei Orgânica n.º 2/2006](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2006-650954), de 17 de abril, é forçoso concluir que a norma impugnada viola uma lei com valor reforçado, estando, por isso, ferida de ilegalidade (sem prejuízo da sua eventual inconstitucionalidade orgânica e formal, nos termos expostos nos pontos 6.2 e 6.3., que, pelas razões explicadas no ponto 6.3, não cabe aqui sindicar)».
 
-Este sentido decisório foi reiterado no Acórdão n.º 895/2024 e na Decisão Sumária n.º 78/2025, indicadas no pedido do Ministério Público, e, posteriormente, nos Acórdãos n.<sup>os</sup>146/2025 e 147/2025, em todos se defendendo a incompatibilidade entre a Lei da Nacionalidade e o Regulamento da Nacionalidade Portuguesa no que respeita à contagem do prazo de propositura da ação judicial para efeito de oposição à aquisição da nacionalidade por efeito da vontade.
+Este sentido decisório foi reiterado no Acórdão n.º 895/2024 e na Decisão Sumária n.º 78/2025, indicadas no pedido do Ministério Público, e, posteriormente, nos Acórdãos n.os146/2025 e 147/2025, em todos se defendendo a incompatibilidade entre a Lei da Nacionalidade e o Regulamento da Nacionalidade Portuguesa no que respeita à contagem do prazo de propositura da ação judicial para efeito de oposição à aquisição da nacionalidade por efeito da vontade.
 
 No Acórdão n.º 768/2024 entendeu-se que o “facto de que depende a aquisição da nacionalidade” corresponde sempre “à manifestação/declaração de vontade do interessado”. No entanto, mesmo que se considere que o “facto de que depende a aquisição da nacionalidade” é o da reunião dos pressupostos legais, o certo é que também este momento é distinto daquele que veio a ser consagrado na norma fiscalizada, continuando a verificar-se uma violação de lei com valor reforçado (cf. o Acórdão n.º 895/2024 e a Decisão Sumária n.º 78/2025).
 
@@ -289,7 +398,7 @@ Declaração de voto
 
 Vencida.
 
-Revendo posição (cf. Acórdãos n.<sup>os</sup>146/2025 e 147/2025).
+Revendo posição (cf. Acórdãos n.os146/2025 e 147/2025).
 
 Discordo da conclusão a que se chegou no acórdão a que esta declaração de voto vai aposta, entendendo, ao invés, que não se verifica qualquer inconstitucionalidade.
 
@@ -306,3 +415,5 @@ As leis orgânicas, com muito raras exceções, dizem-se leis sob dupla reserva 
 Que a escolha do concreto facto que deve marcar o dies a quo para o Ministério Público deduzir oposição à aquisição da nacionalidade portuguesa (O da declaração de vontade? O da reunião dos pressupostos para a aquisição da nacionalidade? O da data do registo da aquisição da nacionalidade?) não é um ato de mera execução (regulamentar) constitui uma evidência. Ainda assim, a aparente desconformidade entre a solução legislativa e a solução regulamentar pode não ser, justamente, mais do que meramente aparente. Com efeito, e lançando mão de uma interpretação sistemática da LN facilmente se percebe que, nela, o registo da aquisição da nacionalidade assume um papel fundamental. Atente-se, para o efeito, no teor do artigo 12.º («Efeitos das alterações da nacionalidade») da LN: «Os efeitos das alterações de nacionalidade só se produzem a partir da data do registo dos atos ou factos de que dependem». De idêntico modo, atente-se no teor do artigo 18.º da LN («Atos sujeitos a registo obrigatório»): «1. É obrigatório o registo: [...] b) das declarações para aquisição ou perda da nacionalidade».
 
 Posto isto, ao invés da solução segundo a qual o que se deve ter em conta é a data em que se manifesta a declaração da vontade - a aquisição da nacionalidade por efeito da vontade configura um dos tipos de aquisição da nacionalidade, não sendo a sua manifestação decisiva para efeitos dessa aquisição - e da solução nos termos da qual a reunião dos pressupostos da aquisição da nacionalidade por efeito da vontade é que deve contar - solução, apesar de tudo, mais satisfatória do que a anterior, pois parte da ideia, correta, de que a simples manifestação da vontade é insuficiente ―, a solução que preconizamos, que resulta de uma leitura conjugada dos preceitos relativos à aquisição da nacionalidade por efeito da vontade e do artigo 12.º da LN, afigura-se a mais conforme com a LN. E, por assim ser, sempre se poderá afirmar que o artigo 56.º, n.º 1, do RN não se mostrava violador do então artigo 10.º da LN. Certamente com um propósito meramente clarificador, o legislador ordinário acabaria por, de forma expressa, para que não haja margem para dúvidas, vir estabelecer, no seu artigo 10.º, que a «oposição é deduzida pelo Ministério Público no prazo de um ano a contar da data do registo da aquisição da nacionalidade portuguesa, em processo a instaurar nos termos do artigo 26.º» (nova redação dada pela [LO n.º 1/2024](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2024-854130977), de 5 de março). - Maria Benedita Urbano.
+
+119328604

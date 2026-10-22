@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 227/1996, 3º Suplemento, Série I-A de 1996-09-30
   number: '227'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3438-(10) a 3438-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/09/227a03/00100010.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/14-e/1996/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-e-1996-147850
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-09-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:47:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b263583bd5ae28ab512164b4d34a39bf05e382d821713bb957f0352ffcdcf3c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 955ba8050b7b07fa889edf691cbfe9b9887fd339bfccc501c4532c6969feee49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:47:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,31 +68,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Câmara Municipal
 - Casa Degradada
 - Comparticipação do Estado
-- Propriedade Horizontal
-- Obras de Conservação e Restauro
 - Crédito Bonificado
+- Financiamento
 - Instituto de Gestão e Alienação do Património Habitacional do Estado
-- Câmara Municipal
-- Regime Especial de Comparticipação e Financiamento na Recuperação de Prédios Urbanos em Regime de Propriedade Horizontal
+- Obras de Conservação e Restauro
 - Prédio Urbano
+- Propriedade Horizontal
+- Regime Especial de Comparticipação e Financiamento na Recuperação de Prédios Urbanos em Regime de Propriedade Horizontal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106/1996/07/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/106/1996/07/31/p/dre
+- type: cites
+  target: pt:dre:406888:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:47:09Z'
   warnings: []
   errors: []
 ---

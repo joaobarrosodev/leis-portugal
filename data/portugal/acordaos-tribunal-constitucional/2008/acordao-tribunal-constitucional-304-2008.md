@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/304/2008/06/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/304-2008-449446
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-18T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 414975a52a85e3ad00b26285b37814942807b8f750be8e8ff9bb174baea625f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a336bb67d16511ac052681fdc0d2e5b2255bc1cb7e3e5e4163a91064a2c399c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -101,16 +101,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:215078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:38Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +153,7 @@ Processo n.º 428/08
 
 Acordam, em plenário, no Tribunal Constitucional:
 
-**O Presidente da República requereu, nos termos do n.º 1 do artigo 278.º da Constituição da República Portuguesa (CRP) e dos artigos 51.º, n.º 1, e 57.º, n.º 1, da Lei de Organização, Funcionamento e Processo do Tribunal Constitucional (LTC), que o Tribunal Constitucional aprecie a conformidade com a Constituição da República das normas constantes dos artigos 22.º, n.º 2, e 29.º, n.º 1, do Decreto da Assembleia da República n.º 204/X, recebido na Presidência da República no dia 5 de Maio de 2008 para ser promulgado como lei.**
+O Presidente da República requereu, nos termos do n.º 1 do artigo 278.º da Constituição da República Portuguesa (CRP) e dos artigos 51.º, n.º 1, e 57.º, n.º 1, da Lei de Organização, Funcionamento e Processo do Tribunal Constitucional (LTC), que o Tribunal Constitucional aprecie a conformidade com a Constituição da República das normas constantes dos artigos 22.º, n.º 2, e 29.º, n.º 1, do Decreto da Assembleia da República n.º 204/X, recebido na Presidência da República no dia 5 de Maio de 2008 para ser promulgado como lei.
 
 O pedido de fiscalização de constitucionalidade apresenta, em síntese, a seguinte fundamentação:
 
@@ -151,7 +183,7 @@ No caso em apreciação, o n.º 2 do artigo 22.º do decreto, ao deslegalizar as
 
 A regra do n.º 2 do artigo 22.º e, remissivamente, a do n.º 1 do artigo 29.º não fixam qualquer tipo de critérios ou princípios conformadores de um regime material que permitam diferenciar as competências policiais de cada unidade da PJ, ou determinar o «sentido e os limites da intervenção regulamentar», pelo que ao limitarem-se a remeter em branco para portaria a definição das competências das novas unidades da PJ, sem fixarem qualquer outro critério que permita determinar o sentido e os limites das mesmas, autorizam que uma disciplina tendencialmente primária, própria do conteúdo típico de um regulamento independente do Governo, seja regida por portaria, contrariando o disposto nos n.os 6 e 7 do artigo 112.º da CRP.
 
-**O Presidente da República concluiu o pedido de fiscalização de constitucionalidade nos seguintes termos:**
+O Presidente da República concluiu o pedido de fiscalização de constitucionalidade nos seguintes termos:
 
 «Atenta a fundamentação das dúvidas de constitucionalidade expostas no presente pedido, venho requerer ao Tribunal Constitucional que aprecie a constitucionalidade das normas constantes do n.º 2 do artigo 22.º e do n.º 1 do artigo 29.º do Decreto n.º 204/X da Assembleia da República, com fundamento:
 
@@ -197,7 +229,9 @@ Estrutura
 
 ...
 
-###### Artigo 29.º — Unidades territoriais, regionais e locais
+Artigo 29.º
+
+Unidades territoriais, regionais e locais
 
 1 - As competências, sede e área geográfica de intervenção das unidades territoriais, regionais e locais da PJ são estabelecidas nos termos das portarias referidas nos n.os 2 e 3 do artigo 22.º
 

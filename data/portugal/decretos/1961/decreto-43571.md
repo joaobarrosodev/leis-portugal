@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43571-1961-559608
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-03-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:22:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a29f40ac9b8b82e0343226303c720053c583c59beb071df0f09bcaee5c811cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43dc8796205853ba5939f01f0328bcc3438b1618d4758fa94090415ecf2f1a57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:22:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353483:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:22:53Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +104,7 @@ I
 
 Da defesa civil
 
-###### Artigo 1.º A defesa civil no ultramar tem por objecto essencial impedir ou limitar, em tempo de guerra ou de emergência, mediante providências adequadas, o efeito de bombardeamento, de catástrofes, calamidades públicas de qualquer natureza, especialmente no que se refere:
+Artigo 1.º A defesa civil no ultramar tem por objecto essencial impedir ou limitar, em tempo de guerra ou de emergência, mediante providências adequadas, o efeito de bombardeamento, de catástrofes, calamidades públicas de qualquer natureza, especialmente no que se refere:
 
 a) A incêndios ou destruições de aglomerados urbanos e centros industriais ou centros indispensáveis à vida das populações, ao livre exercício do trabalho ou à segurança do País;
 
@@ -116,7 +124,7 @@ II
 
 Da estrutura orgânica da defesa civil
 
-###### Art. 2.º A estrutura orgânica da defesa civil no ultramar tem carácter permanente e deverá assegurar:
+Art. 2.º A estrutura orgânica da defesa civil no ultramar tem carácter permanente e deverá assegurar:
 
 a) A colaboração harmónica das diversas actividades intervenientes e o emprego eficiente dos respectivos meios;
 
@@ -124,9 +132,9 @@ b) A realização dos trabalhos de planeamento operacional, bem como os relativo
 
 c) A rápida entrada em acção do sistema de defesa preparado para o caso de guerra ou de emergência.
 
-###### Art. 3.º A defesa civil no ultramar terá órgãos de direcção, administração e inspecção, bem como centros de preparação e elementos operacionais.
+Art. 3.º A defesa civil no ultramar terá órgãos de direcção, administração e inspecção, bem como centros de preparação e elementos operacionais.
 
-###### Art. 4.º A administração, preparação as operações relativas à defesa civil realizam-se no ultramar por intermédio dos seguintes elementos:
+Art. 4.º A administração, preparação as operações relativas à defesa civil realizam-se no ultramar por intermédio dos seguintes elementos:
 
 a) A organização territorial, incluindo os respectivos comandos;
 
@@ -162,13 +170,13 @@ III
 
 Dos órgãos superiores e da organização da defesa civil
 
-###### Art. 5.º A organização da defesa civil em cada província ultramarina realiza-se de acordo com as instruções conjuntas dos Ministros da Defesa Nacional e do Ultramar, sob a direcção do respectivo governador, a quem cabe a responsabilidade da orientação, planeamento e inspecção locais, competindo-lhe especialmente superintender nos trabalhos de preparação, aprovar os respectivos planos, presidir e inspeccionar a sua execução e coordenar a actividade de todos os organismos que para a mesma defesa concorram.
+Art. 5.º A organização da defesa civil em cada província ultramarina realiza-se de acordo com as instruções conjuntas dos Ministros da Defesa Nacional e do Ultramar, sob a direcção do respectivo governador, a quem cabe a responsabilidade da orientação, planeamento e inspecção locais, competindo-lhe especialmente superintender nos trabalhos de preparação, aprovar os respectivos planos, presidir e inspeccionar a sua execução e coordenar a actividade de todos os organismos que para a mesma defesa concorram.
 
-###### Art. 6.º A preparação, organização e execução da defesa civil, integrada no plano de defesa militar e civil, compete em cada província à respectiva Organização Provincial de Defesa Civil (O. P. D. C.), a qual será dirigida, na dependência directa do governador, por um comandante provincial, oficial das forças armadas na situação de actividade ou reserva, nomeado por portaria conjunta dos Ministros da Defesa Nacional e do Ultramar, ouvido o parecer do titular do departamento de origem do nomeado.
+Art. 6.º A preparação, organização e execução da defesa civil, integrada no plano de defesa militar e civil, compete em cada província à respectiva Organização Provincial de Defesa Civil (O. P. D. C.), a qual será dirigida, na dependência directa do governador, por um comandante provincial, oficial das forças armadas na situação de actividade ou reserva, nomeado por portaria conjunta dos Ministros da Defesa Nacional e do Ultramar, ouvido o parecer do titular do departamento de origem do nomeado.
 
 § único. O comandante provincial terá a categoria de director de serviço nas províncias de governo-geral e de chefe de serviço nas de governo simples e fará parte do Conselho de Defesa.
 
-###### Art. 7.º Aos comandantes provinciais das organizações provinciais de defesa civil compete:
+Art. 7.º Aos comandantes provinciais das organizações provinciais de defesa civil compete:
 
 a) Elaborar os planos relativos à defesa civil e propor as medidas de execução necessárias à sua eficiência dentro das directivas e instruções do governador;
 
@@ -184,9 +192,9 @@ f) Administrar as verbas orçamentais consignadas à defesa civil, bem como toda
 
 § único. O comandante provincial da Organização Provincial de Defesa Civil de cada província dispõe, para o coadjuvar nos estudos, e trabalhos relativos à defesa civil e preparar as suas decisões, de um comando provincial a organizar pelos governadores das províncias.
 
-###### Art. 8.º Para a organização do comando provincial e dos órgãos de comando referidos no corpo do artigo 19.º recorrer-se-á, na medida do necessário, ao pessoal mencionado nas alíneas a) e c) do § 1.º do artigo 4.º
+Art. 8.º Para a organização do comando provincial e dos órgãos de comando referidos no corpo do artigo 19.º recorrer-se-á, na medida do necessário, ao pessoal mencionado nas alíneas a) e c) do § 1.º do artigo 4.º
 
-###### Art. 9.º Em cada província ultramarina será criada uma comissão de coordenação da defesa civil, sob a directa dependência do governador.
+Art. 9.º Em cada província ultramarina será criada uma comissão de coordenação da defesa civil, sob a directa dependência do governador.
 
 § 1.º Nas províncias de governo-geral, a comissão terá a seguinte composição:
 
@@ -224,15 +232,15 @@ f) Administrar as verbas orçamentais consignadas à defesa civil, bem como toda
 
 § 5.º O quadro do pessoal da secretaria será fixado em portaria pelo respectivo governador.
 
-###### Art. 10.º Compete à comissão de coordenação da defesa civil informar e dar parecer sobre todos os problemas de coordenação da defesa civil que o governador decida submeter à sua apreciação e promover as diligências necessárias para assegurar a cooperação dos serviços aos quais incumbe intervir na execução dos planos de defesa civil.
+Art. 10.º Compete à comissão de coordenação da defesa civil informar e dar parecer sobre todos os problemas de coordenação da defesa civil que o governador decida submeter à sua apreciação e promover as diligências necessárias para assegurar a cooperação dos serviços aos quais incumbe intervir na execução dos planos de defesa civil.
 
-###### Art. 11.º A organização da defesa civil em cada província terá por base a defesa local, sem prejuízo do emprego dos meios e recursos disponíveis em favor de pontos sensíveis mais directamente ameaçados, e o planeamento, em escalão provincial, de determinadas actividades, designadamente as relativas às evacuações em massa, aos sistemas de alerta às populações, vigilância terrestre do espaça aéreo e ao emprego de formações móveis de socorro.
+Art. 11.º A organização da defesa civil em cada província terá por base a defesa local, sem prejuízo do emprego dos meios e recursos disponíveis em favor de pontos sensíveis mais directamente ameaçados, e o planeamento, em escalão provincial, de determinadas actividades, designadamente as relativas às evacuações em massa, aos sistemas de alerta às populações, vigilância terrestre do espaça aéreo e ao emprego de formações móveis de socorro.
 
-###### Art. 12.º A Organização Provincial da Defesa Civil, para realizar a sua missão, disporá da colaboração dos organismos do Estado e autarquias locais, dos órgãos de segurança pública e dos serviços de transportes e das instituições de interesse público, associações humanitárias e organizações patrióticas, conforme for regulamentado em cada província.
+Art. 12.º A Organização Provincial da Defesa Civil, para realizar a sua missão, disporá da colaboração dos organismos do Estado e autarquias locais, dos órgãos de segurança pública e dos serviços de transportes e das instituições de interesse público, associações humanitárias e organizações patrióticas, conforme for regulamentado em cada província.
 
-###### Art. 13.º Em caso de urgência, as questões de defesa civil que exijam a intervenção de diferentes organismos do Estado serão imediatamente resolvidas, por acordo entre o comando de defesa civil e as direcções dos organismos interessados, o que será comunicado ao governador pela via mais rápida para efeitos de confirmação.
+Art. 13.º Em caso de urgência, as questões de defesa civil que exijam a intervenção de diferentes organismos do Estado serão imediatamente resolvidas, por acordo entre o comando de defesa civil e as direcções dos organismos interessados, o que será comunicado ao governador pela via mais rápida para efeitos de confirmação.
 
-###### Art. 14.º Declarado o estado de guerra ou de sítio ou em situações de emergência reconhecidas pelo governador, a Organização Provincial da Defesa Civil será posta operacionalmente à disposição do comandante-chefe da respectiva província ou, caso este não exista, do comandante militar.
+Art. 14.º Declarado o estado de guerra ou de sítio ou em situações de emergência reconhecidas pelo governador, a Organização Provincial da Defesa Civil será posta operacionalmente à disposição do comandante-chefe da respectiva província ou, caso este não exista, do comandante militar.
 
 § 1.º No caso de as operações militares ou o estado de sítio não abrangerem a totalidade do território da província, mas ùnicamente uma parte, poderá apenas a organização da defesa civil correspondente ser posta à disposição do comandante responsável pelo conjunto das operações aí desenroladas, conforme for acordado entre o governador da província e o respectivo comandante-chefe ou, caso este não exista, o comandante militar.
 
@@ -242,7 +250,7 @@ IV
 
 Organização territorial da defesa civil
 
-###### Art. 15.º A organização territorial da defesa civil tem por fim permitir a descentralização da acção do comando, designadamente nos aspectos administrativo e operacional, e assentará, em princípio e tanto quanto possível, na organização administrativa civil, para o que deve respeitar a divisão de cada província.
+Art. 15.º A organização territorial da defesa civil tem por fim permitir a descentralização da acção do comando, designadamente nos aspectos administrativo e operacional, e assentará, em princípio e tanto quanto possível, na organização administrativa civil, para o que deve respeitar a divisão de cada província.
 
 § 1.º Ao território de cada distrito corresponderá uma zona da defesa civil. As zonas serão subdivididas em sectores, e estes em subsectores, correspondentes, respectivamente e na medida do possível, às áreas das circunscrições ou concelhos e dos postos administrativos, organizando-se, dentro dos sectores e subsectores, tantos núcleos de defesa civil quantos os julgados necessários e convenientes.
 
@@ -252,11 +260,11 @@ Organização territorial da defesa civil
 
 § 4.º O comando dos núcleos de defesa civil será atribuído a pessoa idónea escolhida entre os habitantes da respectiva área.
 
-###### Art. 16.º Os comandantes de zona, sector e subsector serão nomeados pelos governadores das províncias, sob proposta do comandante provincial, e terão, além das funções e atribuições consignadas no presente decreto, as que nos regulamentos próprios das organizações provinciais da defesa civil lhes forem confiadas.
+Art. 16.º Os comandantes de zona, sector e subsector serão nomeados pelos governadores das províncias, sob proposta do comandante provincial, e terão, além das funções e atribuições consignadas no presente decreto, as que nos regulamentos próprios das organizações provinciais da defesa civil lhes forem confiadas.
 
 § único. Os comandantes dos núcleos de defesa civil serão designados pelos comandantes dos sectores a que os núcleos preenchem, por proposta dos comandos dos subsectores.
 
-###### Art. 17.º Aos comandantes das zonas compete designadamente:
+Art. 17.º Aos comandantes das zonas compete designadamente:
 
 a) Estabelecer a ligação com a autoridade militar da região, colaborando na preparação da protecção dos estabelecimentos militares existentes na mesma área e harmonizando os planos de defesa civil com os de defesa militar;
 
@@ -268,7 +276,7 @@ d) Assumir, nas situações referidas no corpo do artigo 14.º, o comando operac
 
 e) Administrar as verbas consignadas à defesa civil da sua área.
 
-###### Art. 18.º Aos comandantes de sector e de subsector compete, dentro das respectivas áreas de jurisdição e em execução de planos preestabelecidos ou no cumprimento de ordens recebidas:
+Art. 18.º Aos comandantes de sector e de subsector compete, dentro das respectivas áreas de jurisdição e em execução de planos preestabelecidos ou no cumprimento de ordens recebidas:
 
 a) Orientar e coordenar a organização local de defesa civil;
 
@@ -280,7 +288,7 @@ d) Assumir o comando operacional, em íntima ligação com a autoridade militar 
 
 e) Administrar as verbas consignadas à defesa civil da sua área.
 
-###### Art. 19.º Os comandantes de zona, sector e subsector serão assistidos, nos seus trabalhos de estudo, direcção e fiscalização, de órgãos de comando, a criar pelos governadores das províncias, com o desenvolvimento adaptado ao respectivo escalão.
+Art. 19.º Os comandantes de zona, sector e subsector serão assistidos, nos seus trabalhos de estudo, direcção e fiscalização, de órgãos de comando, a criar pelos governadores das províncias, com o desenvolvimento adaptado ao respectivo escalão.
 
 § 1.º Como órgão consultivo e coordenador, funcionará em cada zona uma comissão de defesa civil, a convocar pelo governador do distrito, sempre que julgue necessário ou conveniente submeter à sua apreciação qualquer problema relativo à defesa civil da zona.
 
@@ -292,7 +300,7 @@ V
 
 Sistema de alerta
 
-###### Art. 20.º Ao sistema de alerta compete a execução do conjunto de providências necessárias para, na iminência de ataque aéreo, fazer chegar oportunamente ao conhecimento das populações o aviso de perigo imediato e da necessidade de serem adoptadas as medidas de precaução exigidas pelas circunstâncias.
+Art. 20.º Ao sistema de alerta compete a execução do conjunto de providências necessárias para, na iminência de ataque aéreo, fazer chegar oportunamente ao conhecimento das populações o aviso de perigo imediato e da necessidade de serem adoptadas as medidas de precaução exigidas pelas circunstâncias.
 
 § único. O desencadeamento dos avisos de alerta nas suas diferentes categorias compete às organizações provinciais de defesa civil, em ligação com o serviço público dos correios, telégrafos e telefones e segundo o estatuto a estabelecer em cada província.
 
@@ -300,7 +308,7 @@ VI
 
 Serviços de defesa civil
 
-###### Art. 21.º As organizações provinciais de defesa civil criam os serviços especiais de defesa civil pelo emprego de formações de voluntários prèviamente constituídas e preparadas e com a colaboração, para efeitos operacionais, sob a sua direcção, orientação e coordenação, da Cruz Vermelha Portuguesa, das corporações de bombeiros e de outras associações humanitárias para o efeito adequadas.
+Art. 21.º As organizações provinciais de defesa civil criam os serviços especiais de defesa civil pelo emprego de formações de voluntários prèviamente constituídas e preparadas e com a colaboração, para efeitos operacionais, sob a sua direcção, orientação e coordenação, da Cruz Vermelha Portuguesa, das corporações de bombeiros e de outras associações humanitárias para o efeito adequadas.
 
 § 1.º Orientadas e fiscalizadas pelas organizações provinciais de defesa civil, concorrerão também com os seus meios a milícia da Organização Nacional Mocidade Portuguesa, os corpos de escuteiros e as formações especializadas das associações desportivas ou de outras afins, na medida em que for estabelecido por regulamento em cada província, tendo em vista a sua preparação para o cumprimento das missões de defesa civil.
 
@@ -308,15 +316,15 @@ Serviços de defesa civil
 
 § 3.º As instituições ou organismos a que se refere o parágrafo anterior poderão receber auxílio técnico para a sua preparação e materiais e equipamentos necessários ao cumprimento da missão que lhe está destinada no quadro geral da defesa civil, uma vez garantidas as condições de utilização, acondicionamento e manutenção respectivas.
 
-###### Art. 22.º Os serviços e estabelecimentos públicos do Estado ou das autarquias locais e as organizações e serviços de interesse público, bem como as empresas e estabelecimentos industriais e comerciais prèviamente classificados pelo governador como indispensáveis à vida regular da província, são obrigados a assegurar por conta própria a sua protecção sob a inspecção de delegados do comando geral da defesa civil, sob pena de desobediência.
+Art. 22.º Os serviços e estabelecimentos públicos do Estado ou das autarquias locais e as organizações e serviços de interesse público, bem como as empresas e estabelecimentos industriais e comerciais prèviamente classificados pelo governador como indispensáveis à vida regular da província, são obrigados a assegurar por conta própria a sua protecção sob a inspecção de delegados do comando geral da defesa civil, sob pena de desobediência.
 
 § único. Para o efeito do corpo do artigo, os planos de autoprotecção e a preparação do pessoal dos serviços ou empresas devem ser assegurados ainda em tempo de paz, sob a orientação e direcção técnica dos comandos das organizações provinciais da defesa civil como órgãos superiores responsáveis pela organização e execução da defesa civil.
 
-###### Art. 23.º Para funcionamento dos serviços de defesa civil nas instalações portuárias, nas actividades directamente ligadas à exploração dos portos e nos navios mercantes neles ancorados, bem como nos aeroportos e estabelecimentos congéneres e nos caminhos de ferro, as organizações provinciais de defesa civil poderão criar comandos autónomos, na sua dependência directa, com a categoria de comandos de zona. Esses comandos, que disporão da colaboração obrigatória de todos os serviços específicos dos referidos organismos, assegurarão a defesa civil, dentro do quadro geral da hierarquia do pessoal desses organismos e segundo os princípios deste decreto.
+Art. 23.º Para funcionamento dos serviços de defesa civil nas instalações portuárias, nas actividades directamente ligadas à exploração dos portos e nos navios mercantes neles ancorados, bem como nos aeroportos e estabelecimentos congéneres e nos caminhos de ferro, as organizações provinciais de defesa civil poderão criar comandos autónomos, na sua dependência directa, com a categoria de comandos de zona. Esses comandos, que disporão da colaboração obrigatória de todos os serviços específicos dos referidos organismos, assegurarão a defesa civil, dentro do quadro geral da hierarquia do pessoal desses organismos e segundo os princípios deste decreto.
 
-###### Art. 24.º Os serviços da defesa civil podem, no momento oportuno e com os elementos da população não integrados na mesma defesa, constituir pequenos agrupamentos auxiliares ou núcleos de boa vontade.
+Art. 24.º Os serviços da defesa civil podem, no momento oportuno e com os elementos da população não integrados na mesma defesa, constituir pequenos agrupamentos auxiliares ou núcleos de boa vontade.
 
-###### Art. 25.º Salvo casos excepcionais que demandem providências extraordinárias, os agentes da defesa civil prestam os seus serviços dentro da área correspondente ao centro populacional a que pertencem.
+Art. 25.º Salvo casos excepcionais que demandem providências extraordinárias, os agentes da defesa civil prestam os seus serviços dentro da área correspondente ao centro populacional a que pertencem.
 
 § 1.º As prerrogativas e deveres dos membros das organizações provinciais de defesa civil e do pessoal que para elas contribua ou nelas colabore serão regulados num estatuto disciplinar único definido por despacho do Ministro do Ultramar, ouvido o Ministro da Defesa Nacional.
 
@@ -324,7 +332,7 @@ Serviços de defesa civil
 
 § 3.º O pessoal integrado nas organizações provinciais da defesa civil fará uso de insígnias e emblemas adequados aos serviços a que estiver afecto e possuirá um documento de identificação.
 
-###### Art. 26.º Os comandos das organizações provinciais da defesa civil organizarão colunas móveis, normalmente uma por cada divisão regional, de modo que possam apoiar-se mùtuamente, quando necessário, para intervirem em circunstâncias que reclamem disposições excepcionais de socorro ou de protecção.
+Art. 26.º Os comandos das organizações provinciais da defesa civil organizarão colunas móveis, normalmente uma por cada divisão regional, de modo que possam apoiar-se mùtuamente, quando necessário, para intervirem em circunstâncias que reclamem disposições excepcionais de socorro ou de protecção.
 
 § 1.º As colunas móveis são servidas por viaturas especializadas, pertencentes às organizações provinciais da defesa civil, e por viaturas de transportes gerais de pessoal e material, requisitadas de acordo com as autoridades militares.
 
@@ -334,7 +342,7 @@ VII
 
 Doutrinação e instrução
 
-###### Art. 27.º Para regular o funcionamento da defesa civil dever-se-á:
+Art. 27.º Para regular o funcionamento da defesa civil dever-se-á:
 
 a) Doutrinar a generalidade da população, sobretudo a das áreas ou pontos importantes para o normal desenvolvimento do trabalho e a vida da Nação, acerca dos preceitos essenciais da defesa civil, designadamente os relativos à autoprotecção em caso de emergência, ao conhecimento sumário dos primeiros socorros a prestar aos sinistrados e aos fins e princípios fundamentais das organizações provinciais da defesa civil;
 
@@ -342,13 +350,13 @@ b) Instruir o pessoal adstrito aos vários serviços da defesa civil;
 
 c)Treinar as populações, sistemas e formação especialmente organizados.
 
-###### Art. 28.º A doutrinação das populações competirá aos serviços de propaganda da defesa civil.
+Art. 28.º A doutrinação das populações competirá aos serviços de propaganda da defesa civil.
 
 § 1.º Os organismos públicos ou privados que tenham por objecto a informação, propaganda ou qualquer espécie de publicidade devem colaborar com o serviço de propaganda da defesa civil no que respeita ao cumprimento das missões que ao mesmo serviço importam.
 
 § 2.º Os governadores das províncias, quando as circunstâncias o imponham, poderão promover, por intermédio dos organismos competentes, a concessão de facilidades de informação e publicidade, de acordo com os interesses da defesa e os princípios gerais consignados na [Lei n.º 2084](https://diariodarepublica.pt/dr/detalhe/lei/2084-1956-232283).
 
-###### Art. 29.º A instrução do pessoal adstrito aos serviços de defesa civil será ministrado, conforme o respectivo grau e especialidade:
+Art. 29.º A instrução do pessoal adstrito aos serviços de defesa civil será ministrado, conforme o respectivo grau e especialidade:
 
 a) Em escolas ou centros criados com essa finalidade;
 
@@ -360,7 +368,7 @@ d) Em serviços ou empresas sujeitos ao regime de autoprotecção;
 
 e) Em cursos eventualmente organizados nas escolas ou centros de instrução não sujeitos à autoridade das organizações provinciais da defesa civil.
 
-###### Art. 30.º O treino das populações e dos sistemas e formações operacionais da defesa civil tem como objectivo familiarizar os interessados com as condições que possam ocorrer em caso de emergência, bem como experimentar e melhorar a eficiência do sistema de defesa civil planeado.
+Art. 30.º O treino das populações e dos sistemas e formações operacionais da defesa civil tem como objectivo familiarizar os interessados com as condições que possam ocorrer em caso de emergência, bem como experimentar e melhorar a eficiência do sistema de defesa civil planeado.
 
 Para tanto, serão organizados exercícios parciais ou de conjunto, subordinados às directivas emanadas dos comandos das organizações provinciais da defesa civil.
 
@@ -368,27 +376,27 @@ Para tanto, serão organizados exercícios parciais ou de conjunto, subordinados
 
 § 2.º O exercício do direito consignado no parágrafo anterior e a obrigação de indemnizar pelos prejuízos sofridos serão regulamentados nos termos legais.
 
-###### Art. 31.º Os comandos das organizações provinciais da defesa civil poderão orientar tècnicamente a instrução da especialidade que as autoridades militares decidirem mandar ministrar às forças armadas, quando para isso tenham sido solicitados, concedendo, para o efeito, as facilidades materiais que estiverem ao seu alcance.
+Art. 31.º Os comandos das organizações provinciais da defesa civil poderão orientar tècnicamente a instrução da especialidade que as autoridades militares decidirem mandar ministrar às forças armadas, quando para isso tenham sido solicitados, concedendo, para o efeito, as facilidades materiais que estiverem ao seu alcance.
 
 VIII
 
 Disposições finais
 
-###### Art. 32.º As organizações provinciais da defesa civil, ainda em tempo de paz, de acordo com a autoridade militar e sem prejuízo do direito preferencial que a este cabe, procederão ao recenseamento das pessoas e recursos que interessem à organização e funcionamento da defesa civil.
+Art. 32.º As organizações provinciais da defesa civil, ainda em tempo de paz, de acordo com a autoridade militar e sem prejuízo do direito preferencial que a este cabe, procederão ao recenseamento das pessoas e recursos que interessem à organização e funcionamento da defesa civil.
 
 § único. Para o efeito do corpo do artigo, as entidades oficiais e privadas de quem o pessoal dependa ou que usufruam os bens não poderão recusar as informações e facilidades necessárias à elaboração do mesmo recenseamento.
 
-###### Art. 33.º Para satisfazer as necessidades da defesa civil, e com prévia anuência do Ministro do departamento militar respectivo, poderá o Ministro do Ultramar nomear qualquer pessoa que se encontre a prestar serviço militar nas províncias ultramarinas para ocupar interinamente cargos vagos nos quadros do funcionalismo ultramarino.
+Art. 33.º Para satisfazer as necessidades da defesa civil, e com prévia anuência do Ministro do departamento militar respectivo, poderá o Ministro do Ultramar nomear qualquer pessoa que se encontre a prestar serviço militar nas províncias ultramarinas para ocupar interinamente cargos vagos nos quadros do funcionalismo ultramarino.
 
 § 1.º Com anuência do Ministro do departamento militar respectivo, poderá o Ministro do Ultramar nomear provisòriamente para lugares de ingresso nos quadros técnicos os indivíduos nomeados interinamente ao abrigo do corpo deste artigo, desde que assim o tenham requerido no período da interinidade, tenham boas informações de serviço e as qualificações técnicas necessárias.
 
 § 2.º O tempo de serviço interino nos lugares para que venham a obter nomeação provisória, nos termos do § 1.º deste artigo, contar-se-á para todos os efeitos legais.
 
-###### Art. 34.º Declarado o estado de guerra ou de sítio, poderão ser mobilizados, em proveito das organizações provinciais da defesa civil e nos termos do disposto no título IV da [Lei n.º 2084](https://diariodarepublica.pt/dr/detalhe/lei/2084-1956-232283), as pessoas e bens necessários ao cumprimento da missão que à mesma organização compete.
+Art. 34.º Declarado o estado de guerra ou de sítio, poderão ser mobilizados, em proveito das organizações provinciais da defesa civil e nos termos do disposto no título IV da [Lei n.º 2084](https://diariodarepublica.pt/dr/detalhe/lei/2084-1956-232283), as pessoas e bens necessários ao cumprimento da missão que à mesma organização compete.
 
 § único. A mobilização parcial ou total das pessoas e bens necessários far-se-á de acordo com os planos elaborados em tempo de paz e com os princípios consignados na lei.
 
-###### Art. 35.º A mobilização das pessoas e bens destinados à defesa civil envolve:
+Art. 35.º A mobilização das pessoas e bens destinados à defesa civil envolve:
 
 a) O direito atribuído aos governos das províncias de afectar às organizações provinciais da defesa civil o pessoal abrangido pelas disposições consignadas na lei sobre obrigações gerais, recrutamento e serviço na defesa civil;
 
@@ -400,13 +408,13 @@ d) As servidões a impor às instituições, organismos, estabelecimentos ou mes
 
 e) A requisição de material, equipamento e instalações necessários.
 
-###### Art. 36.º São aplicáveis às províncias ultramarinas os preceitos constantes do n.º 2.º da base III e base VII da [Lei n.º 2093](https://diariodarepublica.pt/dr/detalhe/lei/2093-1958-353483), de 20 de Junho de 1958.
+Art. 36.º São aplicáveis às províncias ultramarinas os preceitos constantes do n.º 2.º da base III e base VII da [Lei n.º 2093](https://diariodarepublica.pt/dr/detalhe/lei/2093-1958-353483), de 20 de Junho de 1958.
 
-###### Art. 37.º Compete aos governos das províncias ultramarinas regulamentar, no âmbito da sua competência, o que se dispõe no presente decreto e proceder à abertura dos necessários créditos.
+Art. 37.º Compete aos governos das províncias ultramarinas regulamentar, no âmbito da sua competência, o que se dispõe no presente decreto e proceder à abertura dos necessários créditos.
 
-###### Art. 38.º Nas províncias ultramarinas onde já esteja em vigor qualquer organização de defesa civil serão adaptadas às disposições do presente decreto a sua estrutura, organização e funcionamento, considerando-se revogados os diplomas locais que sobre a matéria tenham sido publicados.
+Art. 38.º Nas províncias ultramarinas onde já esteja em vigor qualquer organização de defesa civil serão adaptadas às disposições do presente decreto a sua estrutura, organização e funcionamento, considerando-se revogados os diplomas locais que sobre a matéria tenham sido publicados.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Março de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Júlio Carlos Alves Dias Botelho Moniz.
 

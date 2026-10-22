@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/64/2004/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/64-2004-501801
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:03:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 033b3ff999e86658f3b82035fd238710c3a0b77eff534b6cb7515816514f17f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7deb2ffecb154f0ac84af4ba75abf9dbee41833559db6fd07a6105f5b2d145e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:03:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,35 +72,39 @@ subjects:
 - Autonomia Científica
 - Autonomia Financeira
 - Autonomia Pedagógica
-- Eleição
-- Marinha Mercante
 - Conselho Administrativo
 - Conselho Científico
+- Conselho Consultivo
+- Conselho Diretivo
 - Conselho Pedagógico
 - Definição de Competências
+- Dirigente Associativo Estudantil
+- Eleição
 - Ensino Superior Politécnico
 - Escola Náutica Infante Dom Henrique
 - Estatuto
-- Dirigente Associativo Estudantil
-- Conselho Diretivo
-- Conselho Consultivo
 - Mandato Electivo
+- Marinha Mercante
 - Setor Marítimo-Portuário
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/29/2004/06/18/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/29/2004/06/18/p/dre
+- type: cites
+  target: pt:dre:272849:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:03:59Z'
   warnings: []
   errors: []
 ---

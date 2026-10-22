@@ -52,26 +52,42 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/21/2026/10/02/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2026-1176760742
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-10-02T00:00:00Z'
+  retrieved_at: '2026-10-22T18:54:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68484b110ab5d43a2909f349d1d4ea6708a9d09ce39ccb623c42c8d8b2093fa8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad82888d0f8f6eafb83c5e454c18ff7e82adc123caa53ea5a2ed9a82bf422be3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:54:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Agricultura
+- Ajuda Comunitária
+- Ajuda não Reembolsável
+- Apoio ao Investimento
+- Auxílio de Minimis
+- Mecanismo de Recuperação e Resiliência da União Europeia
+- Plano de Recuperação e Resiliência
+- Produto Agrícola
 relationships:
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:23/2022/A
+  label: Altera, a partir de 3 de outubro de 2026, com efeitos a 31 de agosto de 2026, o artigo 19.º (prazos de execução das
+    operações) do Decreto Regulamentar Regional n.º 23/2022/A, de 15 de novembro, Diário da República n.º 220/2022, Série
+    I, e procede à sua republicação
+  source: null
+  date: '2022-11-15'
 - type: cites
   target: celex:32013R1379
   label: null
@@ -112,16 +128,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/6/2026/04/10/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/6/2026/04/10/a/dre
+- type: cites
+  target: pt:dre:1083325920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203457499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207631718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:904232916:por
+  label: null
+  source: null
 article_structure:
   article_count: 32
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:54:20Z'
   warnings: []
   errors: []
 ---
@@ -164,11 +196,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e produ
 
 Aprovada em Conselho de Governo Regional, em Santa Cruz da Graciosa, em 22 de setembro de 2026.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 30 de setembro de 2026.**
+Assinado em Angra do Heroísmo em 30 de setembro de 2026.
 
-**Publique-se.**
+Publique-se.
 
 A Representante da República para a Região Autónoma dos Açores, Susana Goulart Costa.
 
@@ -713,3 +745,5 @@ e) Sistemas de armazenamento de energia.
 3.4 - Análise e avaliação de custos e benefícios da(s) proposta(s) de trajetória(s) apresentada(s), incluindo a contabilização da evolução dos consumos energéticos e das emissões diretas e indiretas de GEE associadas.
 
 3.5 - Calendarização física e financeira para aplicação da(s) trajetória(s) proposta(s).
+
+119949677

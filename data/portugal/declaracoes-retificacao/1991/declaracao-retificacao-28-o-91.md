@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 49/1991, 2º Suplemento, Série I-B de 1991-02-28
   number: '49'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1056-(6) a 1056-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/02/049b02/00060006.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/28-o/1991/02/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-o-1991-292491
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-02-28T00:00:00Z'
+  retrieved_at: '2026-10-22T18:31:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba09285b28963c55adfa25e16ee1674363bebd3a4bd612a9c479eee1570b0a12
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd486480bb8c2a9084fde1613f43305df6760ed2da510d3f969a41a8f381b70e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:31:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Controlo de Qualidade
 - Certificado de Qualidade
-- Instituto Português da Qualidade
+- Controlo de Qualidade
 - Fertilizante
-relationships: []
+- Instituto Português da Qualidade
+relationships:
+- type: cites
+  target: pt:dre:517237:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:31:39Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 28-O/91
+# Declaração de rectificação n.º 28-O/91
 
 Segundo comunicação do Ministério da Indústria e Energia, a [Portaria n.º 909-B/90](https://diariodarepublica.pt/dr/detalhe/portaria/909-b-1990-517237), publicada no Diário da República, 1.ª série, n.º 224 (2.º suplemento), de 27 de Setembro de 1990, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
 

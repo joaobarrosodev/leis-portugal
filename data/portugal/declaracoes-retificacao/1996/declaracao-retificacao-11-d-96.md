@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 149/1996, 2º Suplemento, Série I-A de 1996-06-29
   number: '149'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1690-(8) a 1690-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/06/149a02/00080009.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/11-d/1996/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-d-1996-306013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-06-29T00:00:00Z'
+  retrieved_at: '2026-10-22T18:46:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc471685479bc60923dd1281984929ba36a559e4857aaf19b33009341c3f7dd4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0a51f58caa7c772055215b78fa2d7f6a9142bb311964e28075a61d388123c96
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:46:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Governo Regional
-- Orçamento Regional
 - Madeira.região Autónoma
+- Orçamento Regional
 - Receita Regional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/3-a/1996/02/29/m/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/3-a/1996/02/29/m/dre
+- type: cites
+  target: pt:dre:152936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355099:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:46:39Z'
   warnings: []
   errors: []
 ---

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/20/2007/03/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2007-518605
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:07:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e90cf5949f11c69e3e62cdebe27c7a42b0e8409648b5957bd7aab2f5e75cc2c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12e7b75ead7cdb652d4d00da19b6e641d4b9eb25ebbdefc7ad042f582223f9e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:07:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Desenvolvimento Regional
 - Planeamento Regional
 - Plano Regional
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/4/2007/01/26/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/4/2007/01/26/a/dre
+- type: cites
+  target: pt:dre:522839:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:07:47Z'
   warnings: []
   errors: []
 ---
@@ -95,11 +99,11 @@ Para os devidos efeitos se declara que o [Decreto Legislativo Regional n.º 4/20
 
 No eixo 1, «Garantir as condições básicas para a melhoria da competitividade regional», onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/05700/16791679.pdf))](https://files.diariodarepublica.pt/1s/2007/03/05700/16791679.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/05700/16791679.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/05700/16791679.pdf))](https://files.diariodarepublica.pt/1s/2007/03/05700/16791679.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/05700/16791679.pdf)
 
 Na parte superior do quadro, onde se lê «Programa Regional de Acções Inovadoras - PRAI-Açores» deve ler-se «Ponto de situação a 12 de Maio de 2006».
 

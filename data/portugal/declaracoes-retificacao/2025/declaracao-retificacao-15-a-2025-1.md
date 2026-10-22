@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/02/04203/0000200010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/15-a/2025/02/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/15-a-2025-909466295
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:15:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e277730866f98949667220e65ccacc5a950c9c5eaafd0de53ae358049c3a56a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31ce3db548d84098321ffb76a58c3df1a919b851e6f0dd61921893c66784e089
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:15:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direção Geral da Saúde
-- Segurança no Trabalho
-- Doença Profissional
-- Doença Infecciosa
-- Prevenção de Riscos Profissionais
-- Condições de Higiene e Segurança no Trabalho
-- Saúde no Trabalho
-- Material Biológico
 - Autoridade para as Condições do Trabalho
+- Condições de Higiene e Segurança no Trabalho
+- Direção Geral da Saúde
+- Doença Infecciosa
+- Doença Profissional
+- Material Biológico
+- Prevenção de Riscos Profissionais
+- Saúde no Trabalho
+- Segurança no Trabalho
 relationships:
 - type: cites
   target: celex:32019L1833
@@ -105,16 +105,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901661917:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:118/2024
+  label: Retifica a tabela designada «Vírus» do anexo v referido no artigo 2.º (Alteração ao anexo v do Decreto-Lei n.º 84/97,
+    de 16 de abril) do Decreto-Lei n.º 118/2024, de 31 de dezembro, Diário da República n.º 253/2024, Série I
+  source: null
+  date: '2024-12-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:15:46Z'
   warnings: []
   errors: []
 ---
@@ -149,7 +179,7 @@ deve ler-se:
 
 «Vírus
 
-Nota. - Os vírus foram listados em função da sua ordem (O), da sua família (F) e do seu género (G). Ver notas introdutórias n.<sup>os</sup>7 e 11.
+Nota. - Os vírus foram listados em função da sua ordem (O), da sua família (F) e do seu género (G). Ver notas introdutórias n.os7 e 11.
 
 | Agente biológico (espécie de vírus ou ordem da taxonomia indicada) | Classificação | Notas |
 | --- | --- | --- |
@@ -251,7 +281,7 @@ Nota. - Os vírus foram listados em função da sua ordem (O), da sua família (
 | Coronaviridae (F) |  |  |
 | Betacoronavírus (G) |  |  |
 | Coronavírus relacionado com a síndrome respiratória aguda grave (vírus SRAG) | 3 |  |
-| Coronavírus da síndrome respiratória aguda grave 2 (SARS-CoV-2) (<sup>1</sup>)(<sup>2</sup>) | 3 |  |
+| Coronavírus da síndrome respiratória aguda grave 2 (SARS-CoV-2) (1)(2) | 3 |  |
 | Coronavírus da síndrome respiratória do Médio Oriente (vírus MERS) | 3 |  |
 | Outros Coronaviridae reconhecidamente patogénicos | 2 |  |
 | Picornavirales (O) |  |  |
@@ -267,7 +297,7 @@ Nota. - Os vírus foram listados em função da sua ordem (O), da sua família (
 | Enterovírus D, enterovírus humano tipo 70 (vírus da conjuntivite hemorrágica aguda) | 2 |  |
 | Rinovírus | 2 |  |
 | Poliovírus, tipos 1 e 3 | 2 | V |
-| Poliovírus, tipo 2 (<sup>3</sup>) | 3 | V |
+| Poliovírus, tipo 2 (3) | 3 | V |
 | Hepatovírus (G) |  |  |
 | Hepatovírus A (vírus da hepatite A, enterovírus humano tipo 72) | 2 | V |
 | Kobuvírus (G) |  |  |
@@ -335,16 +365,16 @@ Nota. - Os vírus foram listados em função da sua ordem (O), da sua família (
 | Hepacivírus C (vírus da hepatite C) | 3 (**) | D |
 | Orthomyxoviridae (F) |  |  |
 | Gamainfluenzavírus (G) |  |  |
-| Vírus da gripe C | 2 | V (<sup>c</sup>) |
+| Vírus da gripe C | 2 | V (c) |
 | Vírus da gripe A (G) |  |  |
 | Vírus da gripe aviária de alta patogenicidade HPAIV (H5), p. ex. H5N1 | 3 |  |
 | Vírus da gripe aviária de alta patogenicidade HPAIV (H7), p. ex. H7N7 e H7N9 | 3 |  |
-| Vírus da gripe A | 2 | V (<sup>c</sup>) |
+| Vírus da gripe A | 2 | V (c) |
 | Vírus A da gripe A/Nova Iorque/1/18 (H1N1) (gripe espanhola 1918) | 3 |  |
 | Vírus A da gripe A/Singapura/1/57 (H2N2) | 3 |  |
 | Vírus da gripe aviária de baixa patogenicidade (GABP) H7N9 | 3 |  |
 | Vírus da gripe B (G) |  |  |
-| Vírus da gripe B | 2 | V (<sup>c</sup>) |
+| Vírus da gripe B | 2 | V (c) |
 | Vírus Thogoto (G) |  |  |
 | Vírus Dhori (orthomyxoviridae transmitido por carraças: Dhori) | 2 |  |
 | Vírus Thogoto (orthomyxoviridae transmitido por carraças: Thogoto) | 2 |  |
@@ -354,15 +384,15 @@ Nota. - Os vírus foram listados em função da sua ordem (O), da sua família (
 | Eritroparvovírus de primatas 1 (parvovírus humano, vírus B 19) | 2 |  |
 | Polyomaviridae (F) |  |  |
 | Betapoliomavírus (G) |  |  |
-| Betapoliomavírus humano 1 (vírus BK) | 2 | D (<sup>d</sup>) |
-| Poliomavírus humano 2 (vírus JC) | 2 | D (<sup>d</sup>) |
+| Betapoliomavírus humano 1 (vírus BK) | 2 | D (d) |
+| Poliomavírus humano 2 (vírus JC) | 2 | D (d) |
 | Poxviridae (F) |  |  |
 | Moluscipoxvírus (G) |  |  |
 | Vírus do molusco contagioso | 2 |  |
 | Ortopoxvírus (G) |  |  |
 | Vírus da varíola bovina | 2 |  |
 | Vírus da varíola do macaco | 3 | V |
-| Vírus Vaccinia [incluindo vírus da varíola do búfalo (<sup>e</sup>), vírus da varíola do elefante (<sup>f</sup>), vírus da varíola do coelho (<sup>g</sup>)] | 2 |  |
+| Vírus Vaccinia [incluindo vírus da varíola do búfalo (e), vírus da varíola do elefante (f), vírus da varíola do coelho (g)] | 2 |  |
 | Vírus da varíola (major & minor) | 4 | V |
 | Parapoxvírus (G) |  |  |
 | Vírus Orf | 2 |  |
@@ -383,7 +413,7 @@ Nota. - Os vírus foram listados em função da sua ordem (O), da sua família (
 | Lentivírus (G) |  |  |
 | Vírus da imunodeficiência humana tipo 1 | 3 (**) | D |
 | Vírus da imunodeficiência humana tipo 2 | 3 (**) | D |
-| Vírus da imunodeficiência símia (SIV) (<sup>h</sup>) | 2 |  |
+| Vírus da imunodeficiência símia (SIV) (h) | 2 |  |
 | Togaviridae (F) |  |  |
 | Alfavírus (G) |  |  |
 | Cabassouvírus | 3 |  |
@@ -406,32 +436,34 @@ Nota. - Os vírus foram listados em função da sua ordem (O), da sua família (
 | Vírus da rubéola | 2 | V |
 | Não atribuída (F) |  |  |
 | Deltavírus (G) |  |  |
-| Vírus da hepatite delta (<sup>b</sup>) | 2 | V, D |
+| Vírus da hepatite delta (b) | 2 | V, D |
 
 (*) Ver nota introdutória n.º 7.
 
 (**) Ver nota introdutória n.º 8.
 
-(<sup>1</sup>) O trabalho não propagativo dos laboratórios de diagnóstico que envolva o SARS-CoV-2 deve ser realizado numa instalação que utilize procedimentos equivalentes, no mínimo, ao nível de confinamento 2.
+(1) O trabalho não propagativo dos laboratórios de diagnóstico que envolva o SARS-CoV-2 deve ser realizado numa instalação que utilize procedimentos equivalentes, no mínimo, ao nível de confinamento 2.
 
-(<sup>2</sup>) O trabalho propagativo que envolva o SARS-CoV-2 deve ser realizado num laboratório com um nível de confinamento 3, com pressão negativa em relação à atmosfera.
+(2) O trabalho propagativo que envolva o SARS-CoV-2 deve ser realizado num laboratório com um nível de confinamento 3, com pressão negativa em relação à atmosfera.
 
-(<sup>3</sup>) Classificação de acordo com o Plano de Ação Mundial da OMS para minimizar os riscos de poliovírus associados à instalação, após erradicação de tipos específicos de poliovírus selvagens e cessação sequencial da utilização da vacina oral contra a poliomielite.
+(3) Classificação de acordo com o Plano de Ação Mundial da OMS para minimizar os riscos de poliovírus associados à instalação, após erradicação de tipos específicos de poliovírus selvagens e cessação sequencial da utilização da vacina oral contra a poliomielite.
 
 (ª) Encefalite transmitida por carraças.
 
-(<sup>b</sup>) O vírus da hepatite delta só é patogénico para os trabalhadores na presença de uma infeção simultânea ou secundária provocada pelo vírus da hepatite B. A vacinação contra o vírus da hepatite B protegerá, por conseguinte, os trabalhadores não afetados pelo vírus da hepatite B contra os vírus da hepatite delta.
+(b) O vírus da hepatite delta só é patogénico para os trabalhadores na presença de uma infeção simultânea ou secundária provocada pelo vírus da hepatite B. A vacinação contra o vírus da hepatite B protegerá, por conseguinte, os trabalhadores não afetados pelo vírus da hepatite B contra os vírus da hepatite delta.
 
-(<sup>c</sup>) Unicamente no que respeita aos tipos A e B.
+(c) Unicamente no que respeita aos tipos A e B.
 
-(<sup>d</sup>) Para os trabalhos que impliquem um contacto direto com estes agentes.
+(d) Para os trabalhos que impliquem um contacto direto com estes agentes.
 
-(<sup>e</sup>) Nesta rubrica podem ser identificados dois vírus: um tipo de vírus da varíola de búfalo e uma variante do vírus Vaccinia.
+(e) Nesta rubrica podem ser identificados dois vírus: um tipo de vírus da varíola de búfalo e uma variante do vírus Vaccinia.
 
-(<sup>f</sup>) Variante do vírus da varíola bovina.
+(f) Variante do vírus da varíola bovina.
 
-(<sup>g</sup>) Variante de Vaccinia.
+(g) Variante de Vaccinia.
 
-(<sup>h</sup>) Não existe atualmente nenhuma prova de doença em seres humanos provocada por outros retrovírus de origem símia. Como precaução, recomenda-se um confinamento de nível 3 para os trabalhos com tais retrovírus.»
+(h) Não existe atualmente nenhuma prova de doença em seres humanos provocada por outros retrovírus de origem símia. Como precaução, recomenda-se um confinamento de nível 3 para os trabalhos com tais retrovírus.»
 
 Secretaria-Geral do Governo, 27 de fevereiro de 2025. - A Secretária-Geral Adjunta, Fátima Costa Ferreira.
+
+118752038

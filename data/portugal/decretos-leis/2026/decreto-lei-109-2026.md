@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/05/10400/0037800390.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/109/2026/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T18:42:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa1b9f8279a01328fc91d34cbf6acd0e6f14d1bcd4c58d2f2f775fb5b50743f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e6492bc964d9c1741b4965c72043449973038ddf0a6d7f33ead4e2495493f41
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:42:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,24 @@ reuse:
 subjects:
 - Amianto
 - Aproximação das Legislações
+- Autoridade para as Condições do Trabalho
+- Condições de Higiene e Segurança no Trabalho
 - Contra-ordenação
-- Definição de Competências
 - Controlo Sanitário
+- Definição de Competências
+- Inspecção Geral do Trabalho
+- Medicina do Trabalho
 - Saúde Pública
 - Segurança no Trabalho
-- Medicina do Trabalho
-- Inspecção Geral do Trabalho
-- Condições de Higiene e Segurança no Trabalho
-- Autoridade para as Condições do Trabalho
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:266/2007
+  label: Altera, a partir de 1 de junho de 2026, nos termos do artigo 6.º do presente diploma, os artigos 1.º, 2.º, 3.º, 4.º,
+    6.º, 7.º, 8.º, 9.º,10.º, 11.º, 13.º, 16.º, 17.º, 18.º, 19.º, 21.º, 22.º, 23.º, 23.º, 24.º e 25.º e a numeração do anexo,
+    adita o artigo 10.º-A e o anexo i e revoga os n.ºs 2 e 3 do artigo 10.º, o n.º 2 do artigo 22.º e o n.º 6 do artigo 24.º
+    do Decreto-Lei n.º 266/2007, de 24 de julho, Diário da República n.º 141/2007, Série I
+  source: null
+  date: '2007-07-24'
 - type: cites
   target: celex:31983L0477
   label: null
@@ -114,6 +122,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/40/2014/02/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/40/2014/02/17/p/dre
+- type: cites
+  target: pt:dre:466181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636752:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31983L0477
   label: null
@@ -131,15 +155,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 27
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:42:25Z'
   warnings: []
   errors: []
 ---
@@ -188,7 +212,9 @@ b) A [Diretiva (UE) 2023/2668](https://data.europa.eu/eli/dir/2023/2668/oj?local
 
 3 - [...]
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 [...]
 
@@ -214,7 +240,9 @@ d) [...]
 
 e) [...]
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -240,11 +268,15 @@ g) [...]
 
 5 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 O valor limite de exposição é fixado em 0,01 fibras por centímetro cúbico.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [Anterior corpo do artigo.]
 
@@ -254,7 +286,9 @@ O valor limite de exposição é fixado em 0,01 fibras por centímetro cúbico.
 
 4 - Os trabalhadores com exposição passiva, referidos no número anterior, englobam aqueles que se encontrem em proximidade funcional ou operacional relativamente à zona de intervenção na falta de barreiras físicas ou sistemas de contenção eficazes contra o amianto ou com materiais que contêm amianto.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O empregador utiliza todos os meios disponíveis para que, no local de trabalho, a exposição dos trabalhadores a poeiras de amianto ou de materiais que contenham amianto seja reduzida ao mínimo e, em qualquer caso, seja tão reduzida quanto tecnicamente possível e inferior ao valor limite de exposição.
 
@@ -282,7 +316,9 @@ f) Transporte e armazenagem do amianto ou dos materiais que libertem poeiras que
 
 4 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - O empregador, tendo em conta os resultados da avaliação inicial dos riscos, procede regularmente à medição da concentração das fibras de amianto na atmosfera do local de trabalho durante as fases operacionais específicas, a fim de assegurar o cumprimento do valor limite de exposição.
 
@@ -296,7 +332,9 @@ f) Transporte e armazenagem do amianto ou dos materiais que libertem poeiras que
 
 6 - O Instituto Português de Acreditação, I. P., disponibiliza publicamente uma lista de laboratórios acreditados.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Sempre que seja ultrapassado o valor limite de exposição, ou haja motivo para crer que materiais que contenham amianto, não identificados antes do início dos trabalhos, se encontram alterados ao ponto de gerar poeiras, o trabalho cessa imediatamente.
 
@@ -318,7 +356,9 @@ c) [Anterior alínea c) do n.º 1.]
 
 7 - Os períodos de trabalho em que seja utilizado equipamento de proteção individual das vias respiratórias compreendem pausas regulares, cuja duração deve ter em conta o esforço físico e as condições climáticas, determinadas após consulta aos trabalhadores, seus representantes para a segurança e saúde no trabalho e ouvido o médico do trabalho responsável pela vigilância da saúde do trabalhador.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Para a realização de trabalhos no âmbito das atividades abrangidas pelo presente decreto-lei, como manutenção, reparação, remoção ou demolição, em que seja previsível a ultrapassagem do valor-limite de exposição, apesar do recurso a todas as medidas técnicas preventivas possíveis para limitar a concentração de amianto na atmosfera, o empregador deve adotar as medidas necessárias para assegurar a proteção dos trabalhadores durante a realização dos trabalhos, nomeadamente:
 
@@ -332,7 +372,9 @@ c) Não dispersão de poeiras de amianto ou de materiais que contenham amianto p
 
 3 - [Revogado.]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -352,7 +394,9 @@ c) Verificação da ausência de riscos de exposição ao amianto no local de tr
 
 6 - O plano de trabalhos deve estar acessível, no local de realização dos trabalhos, a todos os trabalhadores e aos representantes dos trabalhadores para a segurança e saúde no trabalho que nele trabalhem.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -360,7 +404,9 @@ c) Verificação da ausência de riscos de exposição ao amianto no local de tr
 
 3 - O equipamento de proteção individual deve ser manuseado de forma adequada e, no caso de equipamento respiratório, ser ajustado individualmente, incluindo através de verificações do respetivo ajuste, de acordo com as regras de segurança e saúde dos trabalhadores na utilização de equipamentos de proteção individual.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -368,7 +414,9 @@ c) Verificação da ausência de riscos de exposição ao amianto no local de tr
 
 3 - A formação prevista no presente artigo está abrangida pelo regime do Código do Trabalho para a formação contínua e obedece aos requisitos mínimos de formação e emissão de certificado comprovativo da sua frequência e do aproveitamento, estipulados no anexo i ao presente decreto-lei e do qual faz parte integrante.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Sem prejuízo do disposto na legislação geral em matéria de informação e consulta, o empregador assegura aos trabalhadores expostos, assim como aos respetivos representantes para a segurança e saúde no trabalho, informação adequada sobre:
 
@@ -390,7 +438,9 @@ g) [...]
 
 3 - [...]
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 O empregador assegura a informação e consulta dos trabalhadores e dos seus representantes para a segurança e saúde no trabalho sobre a aplicação das disposições do presente decreto-lei, nos termos previstos na legislação geral, designadamente sobre:
 
@@ -400,7 +450,9 @@ b) [...]
 
 c) [...]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]
 
@@ -428,7 +480,9 @@ g) Doenças pleurais não malignas.
 
 6 - A inclusão de trabalhador com exposição passiva a amianto ou a materiais que contêm amianto na vigilância da saúde referida no número anterior deve ser baseada no resultado de avaliação de risco.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Sem prejuízo das obrigações gerais dos serviços de segurança e saúde no trabalho, em matéria de registos de dados e conservação de documentos, o empregador organiza registos de dados e mantém arquivos atualizados sobre:
 
@@ -450,13 +504,17 @@ b) Organiza, por cada trabalhador e respetivo posto de trabalho, um registo de d
 
 3 - Os trabalhadores e os representantes dos trabalhadores para a segurança e saúde no trabalho têm acesso a informação genérica sobre os resultados da vigilância da saúde que não permita identificar os trabalhadores a quem respeita.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Aos registos e arquivos referidos no artigo anterior, é aplicável o disposto no artigo 17.º do [Decreto-Lei n.º 301/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), de 18 de novembro.
 
 2 - [Revogado.]
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 Nas situações em que os trabalhadores estejam sujeitos a exposições esporádicas e de fraca intensidade e o resultado da avaliação dos riscos demonstre claramente que o valor limite de exposição previsto no artigo 4.º não é excedido na atmosfera da área de trabalho, o disposto no artigo 3.º, no n.º 4 do artigo 11.º e no artigo 24.º, podem não ser aplicados se os trabalhos a efetuar implicarem:
 
@@ -468,7 +526,9 @@ c) [...]
 
 d) [...]
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...]
 
@@ -504,11 +564,13 @@ i) Prova das medidas adotadas para cumprimento do disposto no artigo 7.º
 
 8 - A Autoridade para as Condições do Trabalho disponibiliza publicamente a lista das empresas que obtiveram a autorização, nos termos do n.º 4.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
 
-1 - Constitui contraordenação laboral muito grave a violação do disposto no n.º 1 do artigo 5.º, nos artigos 6.º a 10.º-A, nos n.<sup>os</sup>1 a 4 do artigo 11.º e nos artigos 17.º e 18.º
+[...]
 
-2 - Constitui contraordenação laboral grave a violação do disposto nos n.<sup>os</sup>2 e 4 do artigo 3.º, nos n.<sup>os</sup>5 e 6 do artigo 11.º, nos artigos 12.º a 16.º e 19.º a 22.º
+1 - Constitui contraordenação laboral muito grave a violação do disposto no n.º 1 do artigo 5.º, nos artigos 6.º a 10.º-A, nos n.os1 a 4 do artigo 11.º e nos artigos 17.º e 18.º
+
+2 - Constitui contraordenação laboral grave a violação do disposto nos n.os2 e 4 do artigo 3.º, nos n.os5 e 6 do artigo 11.º, nos artigos 12.º a 16.º e 19.º a 22.º
 
 3 - [...]
 
@@ -562,7 +624,7 @@ b) Até 2 anos após a entrada em vigor do presente decreto-lei, ser realizada p
 
 ###### Artigo 7.º — Norma revogatória
 
-São revogados os n.<sup>os</sup>2 e 3 do artigo 10.º, o n.º 2 do artigo 22.º e o n.º 6 do artigo 24.º do [Decreto-Lei n.º 266/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-2007-636752), de 24 de julho.
+São revogados os n.os2 e 3 do artigo 10.º, o n.º 2 do artigo 22.º e o n.º 6 do artigo 24.º do [Decreto-Lei n.º 266/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-2007-636752), de 24 de julho.
 
 ###### Artigo 8.º — Entrada em vigor
 
@@ -570,15 +632,15 @@ O presente decreto-lei entra em vigor no primeiro dia útil do mês seguinte ao 
 
 Visto e aprovado em Conselho de Ministros de 9 de abril de 2026. - Luís Montenegro - Emídio Ferreira dos Santos Sousa - José Maria Gonçalves Pereira Brandão de Brito - Manuel Castro Almeida - Ana Paula Martins - Rosário Palma Ramalho.
 
-**Promulgado em 20 de maio de 2026.**
+Promulgado em 20 de maio de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 26 de maio de 2026.**
+Referendado em 26 de maio de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO I — (a que se refere o artigo 4.º)
 
@@ -632,7 +694,7 @@ j) Os requisitos em matéria de vigilância da saúde.
 
 6 - A formação é, tanto quanto possível, adaptada às características da profissão do trabalhador e às tarefas e aos métodos de trabalho específicos dessa profissão.
 
-7 - O trabalhador que efetue trabalhos de demolição ou remoção de amianto ou material que contenha amianto recebe formação técnica específica e treino com simulação de cenários complexos, designadamente situações de incêndio ou sismos que pressuponham a destruição de edifícios contendo amianto, para além da formação prevista nos n.<sup>os</sup>5 e 6, incluindo formação sobre a utilização de equipamentos tecnológicos e máquinas para conter a libertação e a propagação de fibras de amianto durante os processos de trabalho, nos termos do presente decreto-lei.»
+7 - O trabalhador que efetue trabalhos de demolição ou remoção de amianto ou material que contenha amianto recebe formação técnica específica e treino com simulação de cenários complexos, designadamente situações de incêndio ou sismos que pressuponham a destruição de edifícios contendo amianto, para além da formação prevista nos n.os5 e 6, incluindo formação sobre a utilização de equipamentos tecnológicos e máquinas para conter a libertação e a propagação de fibras de amianto durante os processos de trabalho, nos termos do presente decreto-lei.»
 
 ## ANEXO II — (a que se refere o artigo 5.º)
 
@@ -673,3 +735,5 @@ Lista de equipamentos adequados ao exercício de trabalhos em edifícios, estrut
 15 - Equipamento de limpeza e produtos descartáveis.
 
 16 - Máquina de lavar destinada ao tratamento do vestuário utilizado antes do ingresso na zona confinada e durante as pausas do trabalho.»
+
+119948649

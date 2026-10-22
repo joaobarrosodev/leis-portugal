@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/24/2005/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/24-2005-579098
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-20T00:00:00Z'
+  retrieved_at: '2026-10-22T19:04:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a1ff322d06979dce72b6a38adbd74e920dd498422ff9571df28d85ea2af5e5c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6cb933eeafacd3e9e4e230b64306b87eb9a1a29bb0afa4110e96f375d8a4f2a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:04:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,12 +70,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
 - Colégio Internato dos Carvalhos
-- Plano de Estudos
 - Ensino Particular
 - Ensino Profissional
+- Formação Profissional
 - Pedagogia Moderna
+- Plano de Estudos
 - Qualificação Profissional
 relationships:
 - type: amended_by
@@ -90,16 +90,31 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/861/2004/07/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/861/2004/07/19/p/dre
+- type: cites
+  target: pt:dre:603267:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:portaria:189/2005
+  label: "Rectifica a Portaria n.º 189/2005, de 16 de Fevereiro, DR.IS-B [33]\0\0"
+  source: null
+  date: '2005-02-16'
+- type: repealed_by
+  target: pt:dre:488138:por
+  label: "Revogada, a partir de 25.08.2009, a Port 189/2005, de 16-Fev, rectificada pela presente declaração, pela PORT.941/2009.20.08.2009.ME,\
+    \ DR.IS [161] de 20.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/941-2009-488138
+  date: '2009-08-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:04:45Z'
   warnings: []
   errors: []
 ---

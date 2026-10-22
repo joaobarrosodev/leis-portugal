@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/107-b/2026/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/107-b-2026-1068097882
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-05T00:00:00Z'
+  retrieved_at: '2026-10-22T18:34:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1460783b36c164d688f9d52a34cf4e7c8d6a6f37362ec2b04a837b409b6f7306
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b3671506c81f6c773e47b0e58fb476b3fec371b4d8b7102a81c139ae51c5754
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:34:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alcácer do SAL
-- Vida Selvagem
-- Ordenamento do Território
-- Proteção dos Animais
-- Regulamentação de Atos Legislativos
-- Grândola
-- Santiago do Cacém
-- Proteção do Ambiente
 - Diversidade Biológica
 - Espécie Protegida
+- Grândola
+- Ordenamento do Território
+- Proteção do Ambiente
+- Proteção dos Animais
 - Recursos Naturais
+- Regulamentação de Atos Legislativos
+- Santiago do Cacém
 - Sines
+- Vida Selvagem
 - Zona Especial de Conservação
 relationships:
 - type: cites
@@ -103,16 +103,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
+- type: cites
+  target: pt:dre:1051282293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130273578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:34:53Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +145,7 @@ validation:
 
 de 5 de março
 
-O [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, procedeu à designação como Zona Especial de Conservação (ZEC) do Sítio de Importância Comunitária (SIC) Comporta/Galé (PTCON0034), identificando a respetiva área e coordenadas geográficas, assim como a sua localização e limites geográficos. O referido diploma determinou, ainda, que as medidas e ações complementares de conservação de habitats e espécies são definidas em planos de gestão, a aprovar por portaria nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.<sup>os</sup>[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro.
+O [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, procedeu à designação como Zona Especial de Conservação (ZEC) do Sítio de Importância Comunitária (SIC) Comporta/Galé (PTCON0034), identificando a respetiva área e coordenadas geográficas, assim como a sua localização e limites geográficos. O referido diploma determinou, ainda, que as medidas e ações complementares de conservação de habitats e espécies são definidas em planos de gestão, a aprovar por portaria nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.os[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro.
 
 Posteriormente, o [Decreto-Lei n.º 55/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2026-1051282293), de 16 de fevereiro, completou o processo de classificação da ZEC Comporta/Galé, ao contemplar no respetivo plano de gestão a identificação dos tipos de habitat naturais e seminaturais e das espécies da flora e fauna selvagens protegidos, constantes dos anexos i e ii da Diretiva Habitats com presença significativa na sua área, e fixar, em função das características específicas do seu território e das exigências ecológicas desses tipos de habitat e espécies, objetivos de conservação direcionados à manutenção ou ao restabelecimento do seu estado de conservação favorável. Com vista à prossecução dos objetivos fixados, o referido decreto-lei definiu, ainda, medidas de conservação de natureza preventiva e regulamentar, necessárias para evitar a deterioração dos tipos de habitat naturais e seminaturais e dos habitats das espécies protegidas e com presença significativa na ZEC, assim como a perturbação significativa dessas espécies, as quais se tipificam em medidas de ordenamento do território e medidas de gestão.
 
@@ -143,7 +167,7 @@ A presente portaria aprova o plano de gestão da Zona Especial de Conservação 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida, em 4 de março de 2026. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 4 de março de 2026. - O Ministro da Agricultura e Mar, José Manuel Fernandes, em 2 de março de 20206.**
+O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida, em 4 de março de 2026. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 4 de março de 2026. - O Ministro da Agricultura e Mar, José Manuel Fernandes, em 2 de março de 20206.
 
 ## ANEXO I — (a que se refere o artigo 1.º)
 
@@ -157,9 +181,11 @@ QUADRO 1
 
 Unidades territoriais abrangidas pela ZEC Serra Comporta/Galé
 
-![](https://files.diariodarepublica.pt/images/1068097882/1068097824.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097882/1068097824.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097882/1068097825.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097882/1068097825.png) |
+| --- |
 
 CARACTERIZAÇÃO
 
@@ -195,13 +221,15 @@ QUADRO 2
 
 Tipos de habitat do anexo I da Diretiva Habitats com presença significativa na ZEC
 
-![](https://files.diariodarepublica.pt/images/1068097882/1068097826.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097882/1068097826.png) |
+| --- |
 
 QUADRO 3
 
 Espécies do anexo II da Diretiva Habitats com presença significativa na ZEC
 
-![](https://files.diariodarepublica.pt/images/1068097882/1068097827.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097882/1068097827.png) |
+| --- |
 
 OBJETIVOS DE CONSERVAÇÃO
 
@@ -215,9 +243,11 @@ QUADRO 4
 
 Objetivos de conservação para a gestão da ZEC
 
-![](https://files.diariodarepublica.pt/images/1068097882/1068097828.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097882/1068097828.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097882/1068097829.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097882/1068097829.png) |
+| --- |
 
 MEDIDAS DE CONSERVAÇÃO COMPLEMENTARES
 
@@ -231,11 +261,14 @@ QUADRO 5
 
 Quadro operacional das medidas de conservação complementares
 
-![](https://files.diariodarepublica.pt/images/1068097882/1068097830.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097882/1068097830.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097882/1068097831.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097882/1068097831.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097882/1068097832.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097882/1068097832.png) |
+| --- |
 
 MEDIDAS DE CONSERVAÇÃO REGULAMENTARES
 
@@ -263,7 +296,8 @@ QUADRO 6
 
 Modelo de matriz de avaliação final da implementação do plano de gestão
 
-![](https://files.diariodarepublica.pt/images/1068097882/1068097833.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097882/1068097833.png) |
+| --- |
 
 FICHAS DE MEDIDAS DE CONSERVAÇÃO COMPLEMENTARES
 
@@ -285,40 +319,61 @@ OM - Orçamento Municipal;
 
 PNA-PNGIFR - Programa Nacional de Ação do Plano Nacional de Gestão Integrada de Fogos Rurais.
 
-![](https://files.diariodarepublica.pt/images/1068097882/1068097834.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097882/1068097834.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097882/1068097835.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097882/1068097835.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097882/1068097836.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097882/1068097836.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097882/1068097837.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097882/1068097837.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097882/1068097838.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097882/1068097838.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097882/1068097839.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097882/1068097839.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097882/1068097840.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097882/1068097840.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097882/1068097841.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097882/1068097841.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097882/1068097842.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097882/1068097842.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097882/1068097843.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097882/1068097843.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097882/1068097844.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097882/1068097844.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097882/1068097845.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097882/1068097845.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097882/1068097846.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097882/1068097846.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097882/1068097847.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097882/1068097847.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097882/1068097848.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097882/1068097848.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097882/1068097849.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097882/1068097849.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097882/1068097850.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097882/1068097850.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097882/1068097851.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097882/1068097851.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097882/1068097852.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097882/1068097852.png) |
+| --- |
+
+119947913

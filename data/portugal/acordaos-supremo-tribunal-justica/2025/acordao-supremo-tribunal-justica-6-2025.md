@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/05/09100/0000200009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/6/2025/05/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/6-2025-917817252
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-13T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f475a8cf96e5a8392bda6f4e79629ad21928fa9a060aadac6fca3c22d3534a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 375e3aceab1001269e593fecd03d1c7d6721ec50b74cd0353ce1d21ceee73477
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,11 +69,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo Colectivo de Trabalho
+- Banca
 - Banif
 - Boletim do Trabalho e Emprego
-- Banca
-- Faltas
 - Doença
+- Faltas
 - Segurança Social
 - Trabalhador por Conta de Outrem
 relationships:
@@ -105,6 +105,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
+- type: cites
+  target: pt:dre:336156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604649:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32001L0023
   label: null
@@ -112,13 +140,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:28Z'
   warnings: []
   errors: []
 ---
@@ -131,15 +159,15 @@ Acordam, em Pleno da Secção Social, no Supremo Tribunal de Justiça:
 
 I.
 
-1 - AA intentou ação declarativa de anulação de cláusulas de convenções coletiva de trabalho contra o Banco Santander Totta, S. A., outras instituições bancárias, e ainda contra FSBI - Federação dos Sindicatos Independentes da Banca, Sindicato Nacional dos Quadros e Técnicos Bancários e Sindicato Independente da Banca, pedindo, na parte que ora releva <sup>1</sup>, a declaração de nulidade da cláusula 115.ª do ACT para o sector bancário, publicado no BTE n.º 29, de 08.08.2016 (doravante apenas designado por “ACT”), por violar o disposto nos artigos 3. °, n.º 3, a), 23.º, n.º 1, 24.º, n.º 1 e n.º 2, c), 25.º e 26.º, do Código do Trabalho, e nos artigos 13.º, 26.º e 59.º da CRP.
+1 - AA intentou ação declarativa de anulação de cláusulas de convenções coletiva de trabalho contra o Banco Santander Totta, S. A., outras instituições bancárias, e ainda contra FSBI - Federação dos Sindicatos Independentes da Banca, Sindicato Nacional dos Quadros e Técnicos Bancários e Sindicato Independente da Banca, pedindo, na parte que ora releva 1, a declaração de nulidade da cláusula 115.ª do ACT para o sector bancário, publicado no BTE n.º 29, de 08.08.2016 (doravante apenas designado por “ACT”), por violar o disposto nos artigos 3. °, n.º 3, a), 23.º, n.º 1, 24.º, n.º 1 e n.º 2, c), 25.º e 26.º, do Código do Trabalho, e nos artigos 13.º, 26.º e 59.º da CRP.
 
-2 - Para tanto, invoca, em síntese <sup>2</sup>:
+2 - Para tanto, invoca, em síntese 2:
 
 - O Banco de Portugal deliberou, em 20.12.2015, pôr fim à atividade comercial do BANIF - Banco Internacional do Funchal, S. A., tendo 1.130 funcionários do extinto Banif sido integrados no Banco Santander Totta.
 
 - Aos funcionários do Banco Santander Totta, de acordo com a cláusula 95.ª do ACT, é garantido, e já o era anteriormente, o pagamento do seu salário, por inteiro, no período de doença, sem qualquer limite temporal.
 
-- A cláusula 115.ª do ACT, sob a epígrafe “Regime especial dos trabalhadores do Banco Santander Totta, oriundos do Banif”, veio excecionar deste regime os trabalhadores do Ex-Banif, que passaram a estar abrangidos, nesta matéria, pelo regime da Segurança Social, recebendo por isso apenas 1095 dias de subsídio de doença (art. 23.º do [Dec. Lei n.º 28/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2004-592342), de 04 de fevereiro), ao contrário dos demais trabalhadores do Santander Totta oriundos da CAFEB. <sup>3</sup>
+- A cláusula 115.ª do ACT, sob a epígrafe “Regime especial dos trabalhadores do Banco Santander Totta, oriundos do Banif”, veio excecionar deste regime os trabalhadores do Ex-Banif, que passaram a estar abrangidos, nesta matéria, pelo regime da Segurança Social, recebendo por isso apenas 1095 dias de subsídio de doença (art. 23.º do [Dec. Lei n.º 28/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2004-592342), de 04 de fevereiro), ao contrário dos demais trabalhadores do Santander Totta oriundos da CAFEB. 3
 
 - Esta cláusula prevê tratamento desigual e discriminatório de trabalhadores na mesma entidade patronal, em infração aos arts. 13.º e 59.º, da CRP, e 24.º e 25.º, do CT.
 
@@ -171,7 +199,7 @@ Alega o recorrente, essencialmente, que aos trabalhadores oriundos do Banif deve
 
 8 - O Exmº Procurador-Geral Adjunto pronunciou-se no sentido do improvimento do recurso, em parecer a que as partes não responderam.
 
-9 - Em face das conclusões da alegação de recurso, e inexistindo quaisquer outras de que se deva conhecer oficiosamente (art. 608.º, n.º 2, in fine, do CPC), a única questão a decidir <sup>4</sup> consiste em determinar se a cláusula 115.ª do sobredito ACT é nula.
+9 - Em face das conclusões da alegação de recurso, e inexistindo quaisquer outras de que se deva conhecer oficiosamente (art. 608.º, n.º 2, in fine, do CPC), a única questão a decidir 4 consiste em determinar se a cláusula 115.ª do sobredito ACT é nula.
 
 E decidindo.
 
@@ -227,7 +255,7 @@ Em suma, a generalidade dos trabalhadores bancários encontra-se inscrita no reg
 
 - Cláusula 2.ª, n.º 4:
 
-Aos trabalhadores do Banco abrangidos pelo presente acordo aplica-se, em todas as matérias nele não reguladas, o acordo coletivo de trabalho do sector bancário, publicado no Boletim do Trabalho e Emprego, 1.ª série, n.<sup>os</sup>4, de 29 de janeiro de 2005, e 32, de 29 de agosto de 2007.
+Aos trabalhadores do Banco abrangidos pelo presente acordo aplica-se, em todas as matérias nele não reguladas, o acordo coletivo de trabalho do sector bancário, publicado no Boletim do Trabalho e Emprego, 1.ª série, n.os4, de 29 de janeiro de 2005, e 32, de 29 de agosto de 2007.
 
 - Cláusula 12.ª (Regime de segurança social):
 
@@ -251,7 +279,7 @@ Todos os trabalhadores do Banco estão abrangidos pelo regime geral de seguranç
 
 2 - A prestação de subsídio de doença a que os trabalhadores tenham direito, por força do disposto no número anterior, não poderá ser, segundo o grupo em que se encontravam colocados à data da passagem à situação de doença, de montante inferior ao do valor ilíquido da retribuição do nível 4, quanto aos trabalhadores do grupo I, ou do nível mínimo de admissão do respetivo grupo, quanto aos restantes.
 
-18 - Há ainda a considerar o atual Acordo Coletivo de Trabalho do Sector Bancário<sup>5</sup> (que revogou e substituiu o publicado no BTE, 1.ª série, n.º 4, de 29.01.2005, cujo texto consolidado foi publicado no BTE, 1.ª série, n.º 20, de 29.05.2011, com as alterações publicadas no BTE, 1.ª série, n.º 24, de 29.06.2011, e no BTE 1.ª série, n.º 8, de 29.02.2012), que consagrou o seguinte “Regime especial dos trabalhadores do Banco Santander Totta oriundos do BANIF”:
+18 - Há ainda a considerar o atual Acordo Coletivo de Trabalho do Sector Bancário5 (que revogou e substituiu o publicado no BTE, 1.ª série, n.º 4, de 29.01.2005, cujo texto consolidado foi publicado no BTE, 1.ª série, n.º 20, de 29.05.2011, com as alterações publicadas no BTE, 1.ª série, n.º 24, de 29.06.2011, e no BTE 1.ª série, n.º 8, de 29.02.2012), que consagrou o seguinte “Regime especial dos trabalhadores do Banco Santander Totta oriundos do BANIF”:
 
 - Cláusula 115.ª (Segurança Social):
 
@@ -301,19 +329,19 @@ Segundo o n.º 2 deste mesmo artigo 66.º, consideram-se direitos adquiridos os 
 
 23 - Por outro lado:
 
-Aos funcionários do Banco Santander Totta que gozam de proteção social em regime de benefício definido (trabalhadores admitidos até 01.01.2008, nos termos da cláusula 92.ª, n.<sup>os</sup>2 e 3, do ACT) é garantido o pagamento do salário por inteiro no período de doença, sem qualquer limite temporal, de acordo com a cláusula 95.ª, do mesmo instrumento de regulamentação coletiva de trabalho (IRCT), cláusula alinhada com o que a tal propósito dispunha o anterior ACT <sup>6</sup>.
+Aos funcionários do Banco Santander Totta que gozam de proteção social em regime de benefício definido (trabalhadores admitidos até 01.01.2008, nos termos da cláusula 92.ª, n.os2 e 3, do ACT) é garantido o pagamento do salário por inteiro no período de doença, sem qualquer limite temporal, de acordo com a cláusula 95.ª, do mesmo instrumento de regulamentação coletiva de trabalho (IRCT), cláusula alinhada com o que a tal propósito dispunha o anterior ACT 6.
 
 Diferentemente, pelas razões já expostas, a aplicar-se a cláusula 115.ª do ACT aos trabalhadores oriundos do Banif, estes passariam a estar abrangidos pelo regime da Segurança Social, recebendo por isso o subsídio de doença apenas pelo período máximo de 1095 dias, nos termos do art. 23.º, do [Dec. Lei n.º 28/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2004-592342), de 4 de fevereiro.
 
 O assim regulado nesta cláusula é ainda, pois, manifestamente incompatível com os ditames dos princípios da igualdade e da não discriminação, princípios de natureza imperativa e que assumem relevância estruturante no domínio da fixação do conteúdo dos IRCT, como emerge de toda a regulação ínsita no art. 479.º, do CT.
 
-Como refere Maria do Rosário Palma Ramalho: <sup>7</sup>
+Como refere Maria do Rosário Palma Ramalho: 7
 
 “Nos termos desta norma, a legalidade das cláusulas do instrumento de regulamentação coletiva de trabalho sobre igualdade e não discriminação deve ser verificada, nos 30 dias subsequentes à respetiva publicação, pela entidade administrativa competente [...]. Caso detete uma ou mais cláusulas discriminatórias, a CITE notifica os outorgantes [...] para que procedam à alteração [...] no prazo de 60 dias [...]. Se durante esse prazo não forem feitas as alterações, a Cite remete a sua apreciação para o Ministério Público, para efeitos de promoção de ação judicial de declaração de nulidade das referidas cláusulas (art. 479.º, n.º 3).
 
 Trata-se, pois, não propriamente de um novo limite ao conteúdo dos instrumentos de regulamentação coletiva de trabalho (porque um tal limite está obviamente compreendido na proibição de afastamento de normas legais imperativas, constante da alínea b) do n.º 1 do art. 478.º, já que as normas legais em matéria de igualdade e não discriminação são, obviamente, imperativas), mas de um limite cujo controlo foi agora reforçado com a obrigação de avaliação do conteúdo dos instrumentos de regulamentação coletiva de trabalho [...]”.
 
-24 - Infringindo normas legais absolutamente imperativas (também designadas como “normas imperativas fixas” <sup>8</sup>), a cláusula em causa viola a alínea a) do n.º 1 do art. 478.º, do CT, artigo que, delimitando negativamente o conteúdo dos IRCT (ou, por outras palavras, estabelecendo as suas “condições de validade material” <sup>9</sup>), proíbe a consagração de cláusulas contrárias a disposições legais de natureza imperativa.
+24 - Infringindo normas legais absolutamente imperativas (também designadas como “normas imperativas fixas” 8), a cláusula em causa viola a alínea a) do n.º 1 do art. 478.º, do CT, artigo que, delimitando negativamente o conteúdo dos IRCT (ou, por outras palavras, estabelecendo as suas “condições de validade material” 9), proíbe a consagração de cláusulas contrárias a disposições legais de natureza imperativa.
 
 Na parte em que dispõe no sentido de deixar de ser aplicável aos trabalhadores do Banco Santander Totta oriundos do BANIF a cláusula 23.ª do AE, a cláusula 115.ª do ACT é, pois, nula, nos termos do 280.º, n.º 1, do Código Civil (cf. ainda o art. 479.º, n.º 5, do CT).
 
@@ -327,22 +355,24 @@ IV.
 
 Transitado em julgado, publique-se no Diário da República, 1.ª série-A, e no Boletim do Trabalho e Emprego, nos termos do artigo 186.º do Código de Processo do Trabalho.
 
-<sup>1</sup> Por decisão transitada em julgado, os RR. foram absolvidos da instância quanto aos demais pedidos formulados, em virtude de ter sido julgada procedente a exceção de cumulação ilegal de pedidos.
+1 Por decisão transitada em julgado, os RR. foram absolvidos da instância quanto aos demais pedidos formulados, em virtude de ter sido julgada procedente a exceção de cumulação ilegal de pedidos.
 
-<sup>2</sup> Todos os sublinhados e destaques são nossos.
+2 Todos os sublinhados e destaques são nossos.
 
-<sup>3</sup> Caixa de Abono de Família dos Empregados Bancários.
+3 Caixa de Abono de Família dos Empregados Bancários.
 
-<sup>4</sup> O tribunal deve conhecer de todas as questões suscitadas nas conclusões das alegações apresentadas pelo recorrente, excetuadas as que venham a ficar prejudicadas pela solução entretanto dada a outra(s) [cf. arts. 608.º, 663.º, n.º 2, e 679.º, CPC], questões (a resolver) que, como é sabido, não se confundem nem compreendem o dever de responder a todos os argumentos, motivos ou razões jurídicas invocadas pelas partes, os quais não vinculam o tribunal, como decorre do disposto no art. 5.º, n.º 3, do mesmo diploma.
+4 O tribunal deve conhecer de todas as questões suscitadas nas conclusões das alegações apresentadas pelo recorrente, excetuadas as que venham a ficar prejudicadas pela solução entretanto dada a outra(s) [cf. arts. 608.º, 663.º, n.º 2, e 679.º, CPC], questões (a resolver) que, como é sabido, não se confundem nem compreendem o dever de responder a todos os argumentos, motivos ou razões jurídicas invocadas pelas partes, os quais não vinculam o tribunal, como decorre do disposto no art. 5.º, n.º 3, do mesmo diploma.
 
-<sup>5</sup> Publicado no BTE n.º 29, de 08.08.2016, como já se referiu.
+5 Publicado no BTE n.º 29, de 08.08.2016, como já se referiu.
 
-<sup>6</sup> ACT cujo texto consolidado foi publicado no Boletim do Trabalho e Emprego, 1.ª série, n.º 20, de 29 de maio de 2011 (com alterações publicadas no Boletim do Trabalho e Emprego, 1.ª série, n.º 24, de 29 de junho de 2011, e no Boletim do Trabalho e Emprego, 1.ª série, n.º 8, de 29 de fevereiro de 2012).
+6 ACT cujo texto consolidado foi publicado no Boletim do Trabalho e Emprego, 1.ª série, n.º 20, de 29 de maio de 2011 (com alterações publicadas no Boletim do Trabalho e Emprego, 1.ª série, n.º 24, de 29 de junho de 2011, e no Boletim do Trabalho e Emprego, 1.ª série, n.º 8, de 29 de fevereiro de 2012).
 
-<sup>7</sup> Tratado de Direito do Trabalho, Parte III, 3.ª edição, Coimbra, 2020, pp. 289-290.
+7 Tratado de Direito do Trabalho, Parte III, 3.ª edição, Coimbra, 2020, pp. 289-290.
 
-<sup>8</sup> Cf. Maria do Rosário Palma Ramalho, Tratado de Direito do Trabalho, Coimbra, 2020, Parte I, 5.ª edição, P. 316, e Parte III, 3.ª edição, p. 284
+8 Cf. Maria do Rosário Palma Ramalho, Tratado de Direito do Trabalho, Coimbra, 2020, Parte I, 5.ª edição, P. 316, e Parte III, 3.ª edição, p. 284
 
-<sup>9</sup> Cf. Monteiro Fernandes, Direito do Trabalho, Almedina, 2023, 22.ª edição, p. 858.
+9 Cf. Monteiro Fernandes, Direito do Trabalho, Almedina, 2023, 22.ª edição, p. 858.
 
 Lisboa, 15 de janeiro de 2025. - Mário Belo Morgado (relator) - Júlio Manuel Vieira Gomes - José Eduardo Sapateiro - Albertina Pereira.
+
+119031917

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44850-1963-192820
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-01-12T00:00:00Z'
+  retrieved_at: '2026-10-22T19:33:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f222e5aef8169bc51fff2e8d19cf2de8ffbdaccaad170578c4d037e9bef206f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c82035e935cc7e5ff66e7632b49d3da97d34ca8f3242d4d7408710cff498c8a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:33:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:597924:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:33:25Z'
   warnings: []
   errors: []
 ---
@@ -89,12 +97,12 @@ Tendo esta alteração sido aprovada em assembleia geral, conforme preceitua o a
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O artigo 2.º dos estatutos do Clube Militar Naval passa a ter a seguinte redacção:
+Artigo 1.º O artigo 2.º dos estatutos do Clube Militar Naval passa a ter a seguinte redacção:
 
-###### Art. 2.º Podem fazer parte desta associação todos os oficiais e cadetes da Armada que hajam abraçado a carreira militar naval como profissão.
+Art. 2.º Podem fazer parte desta associação todos os oficiais e cadetes da Armada que hajam abraçado a carreira militar naval como profissão.
 
-###### Art. 2.º No artigo 6.º dos referidos estatutos é eliminado o § 2.º e o § 1.º passa a § único.
+Art. 2.º No artigo 6.º dos referidos estatutos é eliminado o § 2.º e o § 1.º passa a § único.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Janeiro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Fernando Quintanilha Mendonça Dias.

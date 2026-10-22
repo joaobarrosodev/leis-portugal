@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/106/2026/06/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/106-2026-1128669414
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-02T00:00:00Z'
+  retrieved_at: '2026-10-22T18:42:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79d4fffd346c31b5d319a73cd93db84ac40a739370f35c55d049dd0b8cbf2c7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 045df70a20330cbf67ccae14e1e75c84f6d6c294922aa0756e113c626b994c98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:42:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estrada
-- Despesas Públicas
-- Rede de Estradas
 - Catástrofe
+- Despesas Públicas
+- Estrada
 - Governo XXV
-- Tempestade Kristin
 - PTRR
+- Rede de Estradas
+- Tempestade Kristin
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/302/2019/09/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/302/2019/09/12/p/dre
+- type: cites
+  target: pt:dre:124642991:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:42:46Z'
   warnings: []
   errors: []
 ---
@@ -197,7 +201,8 @@ O levantamento de danos realizado no âmbito da candidatura ao Fundo de Solidari
 
 Tabela 1 - Comboio de tempestades
 
-![](https://files.diariodarepublica.pt/images/1128669414/1128462060.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1128669414/1128462060.png) |
+| --- |
 
 2.3 - Contexto geopolítico global e europeu.
 
@@ -246,7 +251,7 @@ Descentralização/Coesão Territorial: transferência de competências; revisã
 
 Energia/Ambiente Resiliente: áreas de Aceleração de Energias Renováveis; aceleração do autoconsumo e Comunidades de Energia Renovável; segurança de abastecimento; programas «Bairros mais Sustentáveis» e «E_LAR»; Comissão Interministerial para a Ação Climática.
 
-Investigação e Inovação: criação da Agência AI<sup>2</sup>; definição de domínios estratégicos; alinhamento regional, nacional e europeu; ligação entre investigação e desafios sociais e económicos.
+Investigação e Inovação: criação da Agência AI2; definição de domínios estratégicos; alinhamento regional, nacional e europeu; ligação entre investigação e desafios sociais e económicos.
 
 Plano de Intervenção para a Floresta 2025-2050: valorização económica; gestão ativa; recuperação de áreas ardidas; prevenção de incêndios, pragas e invasoras; reforma da propriedade rústica; simplificação de apoios; melhoria da governança.
 
@@ -274,13 +279,14 @@ Foram, também, adotadas medidas transversais tais como o adiamento do cumprimen
 
 A resposta do Governo focou-se no apoio à reconstrução, à reposição de equipamentos críticos, ao reforço de infraestruturas estratégicas e à restituição à normalidade dos serviços essenciais à vida das populações. A apresentação dos montantes associados a cada domínio permite compreender de forma objetiva a distribuição do esforço necessário para reparar os danos registados e apoiar a retoma das funções críticas dos territórios. Proporciona uma visão sobre escala do esforço necessário para recuperar os setores afetados, garantir continuidade operacional, reduzir vulnerabilidades e aumentar a resiliência futura face a fenómenos extremos, assegurando uma leitura integrada da estratégia de recuperação.
 
-Os prejuízos estimados associados aos danos decorrentes das tempestades ascendem a mais de 5 mil milhões de euros, dos quais cerca de 3 mil milhões de euros associados ao setor público (<sup>1</sup>).
+Os prejuízos estimados associados aos danos decorrentes das tempestades ascendem a mais de 5 mil milhões de euros, dos quais cerca de 3 mil milhões de euros associados ao setor público (1).
 
-As medidas adotadas para fazer face à recuperação dos danos públicos terão como potenciais fontes de financiamento o Orçamento do Estado, os Orçamentos Municipais, os Fundos Europeus na medida das elegibilidades possíveis, bem como o FSUE (<sup>2</sup>), para além dos custos suportados pelos proprietários (cerca de 2,2 mil milhões de euros), compensados numa primeira instância através de seguros. A tabela seguinte apresenta a estimativa de prejuízos.
+As medidas adotadas para fazer face à recuperação dos danos públicos terão como potenciais fontes de financiamento o Orçamento do Estado, os Orçamentos Municipais, os Fundos Europeus na medida das elegibilidades possíveis, bem como o FSUE (2), para além dos custos suportados pelos proprietários (cerca de 2,2 mil milhões de euros), compensados numa primeira instância através de seguros. A tabela seguinte apresenta a estimativa de prejuízos.
 
 Tabela 2 - Estimativa de prejuízos dos domínios do pilar «Recuperação»
 
-![](https://files.diariodarepublica.pt/images/1128669414/1128462061.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1128669414/1128462061.png) |
+| --- |
 
 O impacto nas contas públicas assume ainda uma dimensão relevante nos efeitos sobre a receita fiscal e contributiva decorrente da contração da atividade económica, com reflexos na receita do IVA e do IRC. No caso da receita do IRC, o efeito sentir-se-á em 2026, na sequência da dispensa de realizar os pagamentos por conta. Em 2027, estas empresas terão um menor volume de lucros ou mesmo prejuízos, representando assim um menor valor de IRC liquidado a entregar em 2027, e, consequentemente, um menor valor de pagamentos por conta nesse ano. No total, estima-se que a perda de receita fiscal ronde os 600 milhões de euros em 2026 e 300 milhões de euros em 2027.
 
@@ -356,7 +362,8 @@ O diagnóstico realizado após a tempestade identificou necessidades prioritári
 
 Tabela 3 - Principais medidas no pilar «Recuperar»
 
-![](https://files.diariodarepublica.pt/images/1128669414/1128462062.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1128669414/1128462062.png) |
+| --- |
 
 4 - Proteger.
 
@@ -374,7 +381,8 @@ O horizonte temporal das intervenções é maioritariamente de médio e longo pr
 
 Tabela 4 - Medidas e custo estimado dos domínios do pilar «Proteger»
 
-![](https://files.diariodarepublica.pt/images/1128669414/1128462063.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1128669414/1128462063.png) |
+| --- |
 
 4.1 - Pessoas.
 
@@ -392,49 +400,49 @@ A proteção das pessoas integra ainda uma dimensão material essencial, centrad
 
 Tabela 5 - Medidas associadas ao domínio «Pessoas»
 
-| Regime-quadro integrado de gestão de calamidades | Regime-quadro integrado de gestão de calamidades | Regime-quadro integrado de gestão de calamidades |
+| Regime-quadro integrado de gestão de calamidades |  |  |
 | --- | --- | --- |
 | Custo (M€): NA | Tipologia: Reforma | Horizonte Temporal: Curto prazo |
 
 Descrição: O objetivo é dotar o país de um regime jurídico integrado e completo de gestão de calamidades que abranja diversas situações de catástrofes naturais, falhas sistémicas e emergências sanitárias. Este regime estabelece um quadro comum para a prevenção, resposta imediata e recuperação em contextos de crise, garantindo maior celeridade, coordenação, eficácia e equidade na atuação das áreas governativas. Prevê, em conformidade com o disposto na Constituição, medidas como cercas sanitárias, confinamentos, restrições e condicionamentos ao exercício de direitos, apoios a setores de atividade, lay-offs, apoio a empresas, pessoas e famílias, assim como a proteção da concorrência e a manutenção das redes essenciais de abastecimento de bens de primeira necessidade, energia e telecomunicações, prevenindo a especulação de preços e o açambarcamento. Neste sentido, o regime flexibiliza o Fundo para a promoção dos direitos dos consumidores, criando a Carta dos Direitos dos Consumidores em Situação de Catástrofe, que assegura, em contexto de emergência, o acesso a bens e serviços essenciais, transparência nas relações de consumo, proteção contra práticas abusivas e salvaguarda dos direitos fundamentais. O diploma regula ainda os diversos estados de prontidão operacional, permitindo clarificar, quanto a cada um, os mecanismos que a sua declaração imediatamente ativa. O diploma regula, ainda, os apoios em catástrofes promovendo a uniformização, simplificação e agilização dos mecanismos de apoio às populações afetadas, incluindo a revisão e possível integração dos regimes existentes, como os aplicáveis a incêndios florestais e outros eventos extremos. A implementação deste regime assenta na utilização de instrumentos digitais e baseados em dados, garantindo a interoperabilidade entre entidades públicas, a eliminação de redundâncias administrativas e o aprimoramento do processo decisório. Para tal, será operacionalizado através de uma Plataforma Digital de Gestão de Calamidades, que funcionará como infraestrutura central para monitorização, coordenação, execução e acompanhamento das medidas de apoio, proteção e recuperação previstas.
 
-| Reforma da emergência médica | Reforma da emergência médica | Reforma da emergência médica |
+| Reforma da emergência médica |  |  |
 | --- | --- | --- |
 | Custo (M€) 90: | Tipologia: Investimento | Horizonte Temporal: Curto prazo |
 
 Descrição: A medida visa recentrar o INEM na prestação de cuidados de saúde em emergência médica. Inclui o reforço dos meios tecnológicos de emergência, com capacidade de monitorização e transmissão de dados clínicos em tempo real, melhorando a articulação com as unidades de saúde e a eficiência da resposta. Complementarmente, promove a modernização dos sistemas de comunicação e despacho, a capacitação das equipas de emergência e a adequação dos protocolos operacionais às exigências atuais. A nível estratégico, contribui para um sistema de emergência médica mais eficaz, célere e centrado no doente, assegurando a qualidade dos cuidados pré-hospitalares e a continuidade assistencial em todo o território nacional.
 
-| Reforço da capacidade de resposta e eficiência das infraestruturas de saúde | Reforço da capacidade de resposta e eficiência das infraestruturas de saúde | Reforço da capacidade de resposta e eficiência das infraestruturas de saúde |
+| Reforço da capacidade de resposta e eficiência das infraestruturas de saúde |  |  |
 | --- | --- | --- |
 | Custo (M€): 277 | Tipologia: Investimento | Horizonte Temporal: Longo prazo |
 
 Descrição: A medida visa a requalificação, modernização e reforço das infraestruturas públicas de saúde, promovendo eficiência energética, resiliência climática e acessibilidade universal. Integra capacidades civis e militares com infraestruturas projetáveis para triagem, estabilização e tratamento avançado, reforço da frota de evacuação médica e interoperabilidade clínica através do Processo Clínico Único, assegurando continuidade operacional com micro data centers distribuídos. Prevê soluções de autonomia energética e comunicações redundantes, Salas de Gestão Integrada no SNS, capacitação de equipas especializadas e simulacros para resposta em cenários de catástrofe ou emergência multivítimas, incluindo equipas de visitas domiciliárias.
 
-| Autonomia energética das infraestruturas sociais | Autonomia energética das infraestruturas sociais | Autonomia energética das infraestruturas sociais |
+| Autonomia energética das infraestruturas sociais |  |  |
 | --- | --- | --- |
 | Custo (M€): 382 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida visa reforçar a autonomia, a eficiência e a resiliência energética de infraestruturas sociais críticas, através da instalação de sistemas descentralizados de produção de energia renovável, soluções de armazenamento e mecanismos de redundância em caso de falha da rede elétrica. Promove a transição para energia limpa, a redução de custos operacionais e a continuidade dos serviços de apoio social e de saúde, com especial prioridade a territórios vulneráveis e equipamentos essenciais à segurança e ao bem-estar das populações. Complementarmente, inclui instrumentos financeiros e participativos para apoiar instituições do setor social e intervenções de eficiência energética com impacto social e territorial. A nível estratégico, contribui para a sustentabilidade das respostas sociais, de saúde e, assim, para a proteção das populações mais vulneráveis em cenários de disrupção energética ou eventos extremos.
 
-| Capacitação das IPSS para continuidade de serviço em emergência | Capacitação das IPSS para continuidade de serviço em emergência | Capacitação das IPSS para continuidade de serviço em emergência |
+| Capacitação das IPSS para continuidade de serviço em emergência |  |  |
 | --- | --- | --- |
 | Custo (M€): 336 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
 Descrição: Implementação de um programa integrado de capacitação das instituições do setor social para assegurar a continuidade de funcionamento em situações de emergência, combinando intervenção infraestrutural, organizacional e operacional. A medida assenta em quatro componentes complementares: (i) realização de diagnósticos técnicos, com enfoque na caracterização das necessidades energéticas e operacionais críticas de cada instituição; (ii) reforço da autonomia energética e das condições mínimas de funcionamento, incluindo soluções de energia de emergência, equipamentos essenciais e meios de comunicação; (iii) desenvolvimento e implementação de planos de contingência e evacuação, com definição de procedimentos e articulação com proteção civil; (iv) capacitação institucional, através de formação e realização de simulacros. A medida concretiza-se através de um mecanismo de apoio à implementação dirigido a IPSS e outras entidades do setor social, estabelecendo condições mínimas de funcionamento em emergência e garantindo a continuidade dos cuidados e a proteção das populações mais vulneráveis.
 
-| Criação, modernização e valorização de equipamentos educativos e culturais | Criação, modernização e valorização de equipamentos educativos e culturais | Criação, modernização e valorização de equipamentos educativos e culturais |
+| Criação, modernização e valorização de equipamentos educativos e culturais |  |  |
 | --- | --- | --- |
 | Custo (M€): 115 | Tipologia: Investimento | Horizonte Temporal: Longo prazo |
 
 Descrição: A medida visa qualificar as infraestruturas educativas e culturais, reforçando a sua resiliência, segurança e capacidade de resposta a desafios sociais, tecnológicos e climáticos. Promove ambientes de aprendizagem inovadores e inclusivos, o bem-estar físico e mental das comunidades educativas, a preservação e valorização do património cultural material e imaterial e a transição digital dos arquivos, bibliotecas e equipamentos culturais. Complementarmente, contribui para a proteção dos acervos, a continuidade dos serviços, a inovação pedagógica e o reforço da coesão territorial e cultural do país. A nível estratégico, assegura que os equipamentos educativos e culturais dispõem de condições adequadas para responder às exigências contemporâneas, garantindo acessibilidade, inclusão e qualidade na prestação de serviços públicos de educação e cultura em todo o território nacional.
 
-| Reservas estratégicas e silos alimentares | Reservas estratégicas e silos alimentares | Reservas estratégicas e silos alimentares |
+| Reservas estratégicas e silos alimentares |  |  |
 | --- | --- | --- |
 | Custo (M€): 200 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida visa a disponibilização de capacidade de armazenagem estratégica, complementada pela manutenção de um nível mínimo de reservas operacionais. A solução proposta assenta na mobilização de operadores privados, aos quais é assegurada, mediante compensação financeira, a disponibilização de uma capacidade de armazenagem mínima estratégica, definida pelo Estado, em função das necessidades identificadas. Prevê-se simultaneamente a criação de um regime de apoio a projetos de construção, modernização e ampliação de infraestruturas de armazenagem de produtos alimentares, incluindo silos, equipamentos de movimentação, digitalização/rastreabilidade e melhorias de eficiência operacional e energética, abrangendo portos, cooperativas, organizações de produtores, operadores logísticos e indústria agroalimentar. Complementarmente, está previsto o apoio à resiliência da indústria de produtos alimentares conservados, nomeadamente de peixe, face a eventos extremos, através de autoprodução energética, e o desenvolvimento de reservas estratégicas para alimentos conservados, entre outras medidas. Inclui ainda uma aposta concreta no setor da aquacultura, através do desenvolvimento de novas técnicas e do apoio a investimentos produtivos.
 
-| Definição da rede de logística base para bens e serviços essenciais | Definição da rede de logística base para bens e serviços essenciais | Definição da rede de logística base para bens e serviços essenciais |
+| Definição da rede de logística base para bens e serviços essenciais |  |  |
 | --- | --- | --- |
 | Custo (M€): 104 | Tipologia: Investimento | Horizonte Temporal: Longo prazo |
 
@@ -452,25 +460,25 @@ O domínio integra ainda uma abordagem preventiva e baseada em dados à gestão 
 
 Tabela 6 - Medidas associadas ao domínio «Territórios»
 
-| Agenda de política pública centrada nos territórios de baixa densidade | Agenda de política pública centrada nos territórios de baixa densidade | Agenda de política pública centrada nos territórios de baixa densidade |
+| Agenda de política pública centrada nos territórios de baixa densidade |  |  |
 | --- | --- | --- |
 | Custo (M€): 600 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida estabelece um regime integrado de discriminação positiva do investimento público e privado nos territórios de baixa densidade, visando combater o despovoamento e reforçar a criação de emprego. Prevê a majoração e prioridade no acesso a recursos do Orçamento do Estado e fundos europeus, incluindo avisos dedicados e taxas de financiamento reforçadas, para investimento produtivo, criação de emprego e promoção de infraestruturas multifuncionais. A medida promove a fixação de residentes permanentes, a valorização do edificado existente e o reforço da base económica local, contribuindo para a coesão territorial e o desenvolvimento sustentável no longo prazo.
 
-| Mobilidade habitacional para territórios de baixa densidade | Mobilidade habitacional para territórios de baixa densidade | Mobilidade habitacional para territórios de baixa densidade |
+| Mobilidade habitacional para territórios de baixa densidade |  |  |
 | --- | --- | --- |
 | Custo (M€): 400 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida visa promover a mobilidade e a fixação de população nos territórios de baixa densidade, através de incentivos à residência efetiva e acesso a habitação nestes territórios. A intervenção é implementada em articulação entre a administração central, os municípios e entidades públicas e privadas, permitindo adequar as respostas às necessidades e características de cada território. Contribui para a revitalização demográfica e económica, o reforço da coesão territorial, a regeneração urbana sustentável e a promoção da mobilidade laboral e residencial fora dos grandes centros urbanos.
 
-| Respostas sociais inovadoras para a promoção do bem-estar e autonomia da população idosa e de pessoas em situação de vulnerabilidade | Respostas sociais inovadoras para a promoção do bem-estar e autonomia da população idosa e de pessoas em situação de vulnerabilidade | Respostas sociais inovadoras para a promoção do bem-estar e autonomia da população idosa e de pessoas em situação de vulnerabilidade |
+| Respostas sociais inovadoras para a promoção do bem-estar e autonomia da população idosa e de pessoas em situação de vulnerabilidade |  |  |
 | --- | --- | --- |
 | Custo (M€): 100 | Tipologia: Investimento | Horizonte Temporal: Longo prazo |
 
 Descrição: A medida promove respostas sociais inovadoras de proximidade destinadas a reforçar a autonomia, segurança e participação social da população idosa e pessoas em situação de vulnerabilidade, em particular pessoas com deficiência, que promova a resiliência a eventos extremos. Prevê a criação de unidades residenciais compostas por habitações autónomas com serviços comuns, promovendo alternativas à institucionalização e favorecendo a permanência no território. Inclui prestação integrada de serviços de apoio domiciliário flexível, acompanhamento preventivo de saúde, teleassistência, transporte comunitário e atividades de socialização, em articulação com redes sociais e de saúde existentes. Integra ainda soluções tecnológicas de monitorização inteligente para acompanhamento preventivo de pessoas vulneráveis e apoio à atuação das entidades de proximidade. O modelo assenta num financiamento híbrido com investimento público inicial, gestão local e receitas progressivas, reforçando o ecossistema de cuidados de proximidade e a coesão social territorial.
 
-| Definição de limiar mínimo de provisão de serviços públicos em territórios de baixa densidade | Definição de limiar mínimo de provisão de serviços públicos em territórios de baixa densidade | Definição de limiar mínimo de provisão de serviços públicos em territórios de baixa densidade |
+| Definição de limiar mínimo de provisão de serviços públicos em territórios de baixa densidade |  |  |
 | --- | --- | --- |
 | Custo (M€): NA | Tipologia: Instrumento de planeamento | Horizonte Temporal: Médio prazo |
 
@@ -480,43 +488,43 @@ Pilar I - Metodologia: desenvolvimento de uma metodologia nacional uniforme para
 
 Pilar II - Limiar: estabelece limiares mínimos de provisão através de indicadores diferenciados de cobertura territorial, tempos de resposta e modalidades de presença física ou digital assistida, ajustados às especificidades territoriais e demográficas. Estes referenciais passam a orientar o planeamento das redes de serviços públicos e a programação do investimento, sendo implementados através de cooperação entre Administração Central, entidades setoriais e municípios.
 
-| Mitigação do risco agrícola | Mitigação do risco agrícola | Mitigação do risco agrícola |
+| Mitigação do risco agrícola |  |  |
 | --- | --- | --- |
 | Custo (M€): 1 200 | Tipologia: Investimento | Horizonte Temporal: Longo prazo |
 
 Descrição: A medida promove a transição para sistemas de produção sustentáveis e resilientes, integrando práticas agronómicas adaptadas às alterações climáticas com tecnologias avançadas. Entre as ações previstas incluem-se: agricultura de precisão, digitalização, gestão eficiente da água, produção integrada, agricultura biológica, melhoria da fertilidade e do carbono no solo, gestão sustentável das pastagens e proteção da biodiversidade. Complementarmente, inclui o reforço da vigilância e do controlo fitossanitário, o reforço da vigilância epidemiológica e da biossegurança, o estabelecimento de um sistema nacional integrado de vigilância e gestão de pragas, doenças e de zoonoses, o reforço da biossegurança e a criação de planos de contingência. No que respeita à sanidade animal, prevê-se ainda o reforço dos apoios à Sanidade Animal e, em matéria de fitossanidade, a criação de Organizações de Produtores de Sanidade Vegetal, capacitando o setor para uma resposta coordenada a ameaças fitossanitárias. A nível estratégico, contribui para a segurança alimentar, a estabilidade das cadeias de abastecimento e a adaptação às alterações climáticas, integrando práticas de gestão de risco e instrumentos de proteção das culturas.
 
-| Promoção de intervenções de defesa costeira e investimento em radares de agitação marítima | Promoção de intervenções de defesa costeira e investimento em radares de agitação marítima | Promoção de intervenções de defesa costeira e investimento em radares de agitação marítima |
+| Promoção de intervenções de defesa costeira e investimento em radares de agitação marítima |  |  |
 | --- | --- | --- |
 | Custo (M€): 200 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida visa a operacionalização do Programa de Ação para a Resiliência do Litoral, reconhecendo o mar como principal fator estruturante do risco costeiro e contemplando ações de recuperação e estabilização da faixa costeira, incluindo reposição de sedimentos, reabilitação de cordões dunares, consolidação de arribas e reabilitação de estruturas de defesa costeira. A nível estratégico, promove soluções naturais e híbridas de defesa costeira, a recuperação de lagoa rodos costeiras, dunas e sapais, e a integração de videovigilância avançada e inteligência artificial nos sistemas de alerta e monitorização contínua de eventos marítimos. Complementarmente, prevê o investimento em radares de agitação marítima a par do reforço e expansão da Rede MONIZEE mediante a aquisição de seis novas boias oceanográficas com sensores de agitação marítima, correntes e qualidade da água, dotadas de sistemas de transmissão resilientes, estendendo a cobertura aos arquipélagos da Madeira e dos Açores.
 
-| Mapeamento e gestão do risco habitacional | Mapeamento e gestão do risco habitacional | Mapeamento e gestão do risco habitacional |
+| Mapeamento e gestão do risco habitacional |  |  |
 | --- | --- | --- |
 | Custo (M€): NA | Tipologia: Instrumento de planeamento | Horizonte Temporal: Médio prazo |
 
 Descrição: A execução desta medida assenta em recursos técnicos e informacionais maioritariamente já existentes na administração central e local, garantindo viabilidade imediata e reduzindo custos de implementação. A execução da medida inclui igualmente a identificação, mapeamento e monitorização de situações de risco habitacional associadas a fenómenos geomorfológicos, nomeadamente instabilidade de vertentes, movimentos de massa e arribas não fósseis, em contextos urbanos e periurbanos. A medida propõe a sua institucionalização formal, estabelecendo um processo contínuo de identificação, mapeamento e monitorização dessas habitações, através de uma atuação integrada entre a ANEPC, a DGT, o INE e os municípios, com responsabilidades definidas, prazos de atualização e mecanismos de reporte. Esta institucionalização permite que os dados deixem de funcionar como sistemas isolados, passando a constituir uma infraestrutura integrada de suporte à ação pública, reforçando a capacidade de identificar vulnerabilidades, antecipar cenários de risco e orientar intervenções preventivas.
 
-| Investigação e inovação na área da resiliência | Investigação e inovação na área da resiliência | Investigação e inovação na área da resiliência |
+| Investigação e inovação na área da resiliência |  |  |
 | --- | --- | --- |
 | Custo (M€): 150 | Tipologia: Investimento | Horizonte Temporal: Longo prazo |
 
-Descrição: A medida visa reforçar a investigação e inovação orientadas para a resiliência económica, energética e industrial, através da reforma do sistema científico nacional e da introdução de contratos plurianuais baseados em missões estratégicas, no âmbito da AI<sup>2</sup>. Estes contratos estarão alinhados com prioridades nacionais, incluindo a transição energética, a autonomia estratégica, a competitividade industrial e a redução de dependências externas, promovendo uma ligação efetiva entre ciência, inovação e economia.
+Descrição: A medida visa reforçar a investigação e inovação orientadas para a resiliência económica, energética e industrial, através da reforma do sistema científico nacional e da introdução de contratos plurianuais baseados em missões estratégicas, no âmbito da AI2. Estes contratos estarão alinhados com prioridades nacionais, incluindo a transição energética, a autonomia estratégica, a competitividade industrial e a redução de dependências externas, promovendo uma ligação efetiva entre ciência, inovação e economia.
 
-| Ajustamento da oferta de formação profissional às necessidades específicas de desenvolvimento | Ajustamento da oferta de formação profissional às necessidades específicas de desenvolvimento | Ajustamento da oferta de formação profissional às necessidades específicas de desenvolvimento |
+| Ajustamento da oferta de formação profissional às necessidades específicas de desenvolvimento |  |  |
 | --- | --- | --- |
 | Custo (M€): 113 | Tipologia: Investimento | Horizonte Temporal: Longo prazo |
 
 Descrição: A medida visa promover programas de capacitação tecnológica avançada e emergente para a população em idade ativa, reforçando competências alinhadas com os desafios do mercado de trabalho e da empregabilidade. Abrange vertentes de requalificação (reskilling) e atualização de competências (upskilling), incluindo inteligência artificial, automação, cibersegurança, ciência de dados e robótica. As atividades envolvem planeamento e certificação das formações, desenvolvimento de conteúdos, capacitação de formadores, execução de ações piloto e disseminação territorial das ofertas formativas. Complementarmente, promove o ajustamento da oferta de ensino profissional às necessidades específicas de desenvolvimento, reforçando a aposta nas competências digitais, tecnológicas e energéticas. A nível estratégico, contribui para a adaptação do capital humano às transformações do mercado de trabalho e à competitividade da economia nacional.
 
-| Ciência e inovação para a adaptação climática | Ciência e inovação para a adaptação climática | Ciência e inovação para a adaptação climática |
+| Ciência e inovação para a adaptação climática |  |  |
 | --- | --- | --- |
 | Custo (M€): 242 | Tipologia: Investimento | Horizonte Temporal: Longo prazo |
 
 Descrição: A medida visa reforçar a capacidade científica e tecnológica nacional para antecipar e responder aos impactos das alterações climáticas. Desenvolve redes de monitorização ambiental e ferramentas de inteligência artificial para suporte à decisão, reforça a infraestrutura espacial de observação da Terra e moderniza a monitorização sismo vulcânica. Inclui um living lab para demonstração de soluções multifuncionais de resiliência em contexto real, cobrindo renaturalização, restauro florestal, agricultura sustentável e energia renovável. Complementarmente, desenvolve infraestrutura de caracterização genética e propagação de espécies florestais autóctones resilientes à seca e ao fogo, e cria um quadro jurídico de gestão de riscos e catástrofes, incluindo cooperação civil-militar e resposta sanitária em crise. A nível estratégico, articula ciência, inovação e políticas públicas para uma adaptação climática eficaz e baseada em evidência.
 
-| Instituições de Ensino Superior como promotores de coesão territorial | Instituições de Ensino Superior como promotores de coesão territorial | Instituições de Ensino Superior como promotores de coesão territorial |
+| Instituições de Ensino Superior como promotores de coesão territorial |  |  |
 | --- | --- | --- |
 | Custo (M€): 150 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
@@ -536,7 +544,7 @@ Estas medidas contribuem para estruturar uma resposta sustentada à desertifica�
 
 Tabela 7 - Medida associada ao domínio «Empresas»
 
-| Desenvolvimento de Áreas Empresariais e Parques Tecnológicos | Desenvolvimento de Áreas Empresariais e Parques Tecnológicos | Desenvolvimento de Áreas Empresariais e Parques Tecnológicos |
+| Desenvolvimento de Áreas Empresariais e Parques Tecnológicos |  |  |
 | --- | --- | --- |
 | Custo (M€): 1240 | Tipologia: Investimento | Horizonte Temporal: Médio/longo prazo |
 
@@ -558,31 +566,31 @@ Estas intervenções asseguram que a transição energética contribui de forma 
 
 Tabela 8 - Medidas associadas ao domínio «Energia»
 
-| Acelerar o autoconsumo e as Comunidades de Energia Renovável | Acelerar o autoconsumo e as Comunidades de Energia Renovável | Acelerar o autoconsumo e as Comunidades de Energia Renovável |
+| Acelerar o autoconsumo e as Comunidades de Energia Renovável |  |  |
 | --- | --- | --- |
 | Custo (M€): 100 | Tipologia: Investimento | Horizonte Temporal: Longo prazo |
 
 Descrição: A medida visa acelerar o desenvolvimento do autoconsumo coletivo (ACC) e das Comunidades de Energia Renovável (CER), reconhecendo a produção descentralizada como um vetor central para reforçar o papel dos consumidores enquanto agentes ativos do sistema energético, tanto ao nível industrial, dos serviços, incluindo da justiça, como das famílias. Contribui para o reforço da autonomia energética, para o combate à pobreza energética e para a promoção de uma maior integração de energias renováveis. Assenta na dinamização de soluções coletivas de produção e partilha de energia, promovendo modelos mais eficientes e colaborativos de utilização de recursos energéticos, com impacto direto na redução de custos e no aumento da participação dos consumidores no sistema energético. Inclui igualmente a integração de sistemas de armazenamento em baterias como complemento ao autoconsumo, contribuindo para uma maior eficiência na gestão da energia produzida e consumida localmente. Em termos estratégicos, contribui para um sistema energético mais flexível, resiliente e eficiente.
 
-| Incentivar investimentos de armazenamento de energia elétrica | Incentivar investimentos de armazenamento de energia elétrica | Incentivar investimentos de armazenamento de energia elétrica |
+| Incentivar investimentos de armazenamento de energia elétrica |  |  |
 | --- | --- | --- |
 | Custo (M€): 500 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida visa reforçar o desenvolvimento do armazenamento de energia elétrica enquanto infraestrutura essencial para a flexibilidade, segurança e eficiência do sistema energético, com particular enfoque no armazenamento hídrico através de sistemas de bombagem, atendendo à sua relevância estrutural para a gestão de grandes volumes de energia renovável. Este reforço será complementado por soluções de armazenamento eletroquímico, com um papel mais direcionado para a resposta rápida e a prestação de serviços de sistema. Neste contexto, promove-se a concretização dos projetos de armazenamento hídrico previstos, assegurando a sua integração no sistema eletroprodutor, bem como o desenvolvimento de soluções eletroquímicas em aplicações específicas, contribuindo para a gestão da variabilidade da produção renovável e para a otimização da operação do sistema. A abordagem combina instrumentos de apoio ao investimento, sobretudo no caso do armazenamento hídrico, com mecanismos de remuneração da flexibilidade e dos serviços de sistema, mais relevantes para o armazenamento eletroquímico, garantindo a viabilidade económica dos projetos e reforçando a segurança e estabilidade do sistema energético. Em termos estratégicos, contribui para um sistema elétrico mais resiliente, capaz de integrar maiores níveis de energias renováveis e de responder de forma eficiente às necessidades de equilíbrio entre oferta e procura.
 
-| Reforçar e modernizar as redes elétricas e de gás | Reforçar e modernizar as redes elétricas e de gás | Reforçar e modernizar as redes elétricas e de gás |
+| Reforçar e modernizar as redes elétricas e de gás |  |  |
 | --- | --- | --- |
 | Custo (M€): 4000 | Tipologia: Investimento | Horizonte Temporal: Médio/longo prazo |
 
 Descrição: A medida visa reforçar e modernizar as redes elétricas e de gases, incluindo hidrogénio, enquanto infraestruturas críticas determinantes, que deverão evoluir de forma integrada para assegurar a segurança de abastecimento, a flexibilidade do sistema e a redução de constrangimentos à ligação de novos projetos de consumo, produção e armazenamento, privilegiando a eletrificação. Neste contexto, prevê-se um reforço significativo das redes de transporte e distribuição de eletricidade e gás, através da execução dos investimentos previstos nos respetivos planos de desenvolvimento da rede, com particular foco nas zonas de maior procura e de maior potencial renovável. O investimento total estimado ascende a cerca de 4 mil milhões de euros, previstos no âmbito dos Planos de Desenvolvimento e Investimento das Redes de Distribuição de Eletricidade (PDIRD-E) e de Gás (PDIRD-G), podendo ser complementado por instrumentos europeus dirigidos a projetos estruturantes de resiliência, digitalização e reforço da capacidade das redes, nomeadamente ao nível das interligações.
 
-| Domínios estratégicos para a autonomia energética | Domínios estratégicos para a autonomia energética | Domínios estratégicos para a autonomia energética |
+| Domínios estratégicos para a autonomia energética |  |  |
 | --- | --- | --- |
 | Custo (M€): 63 | Tipologia: Investimento | Horizonte Temporal: Longo prazo |
 
 Descrição: A medida visa reforçar a autonomia estratégica nacional no contexto da transição energética, através da valorização de recursos endógenos e da redução da dependência de importações energéticas. Assenta numa abordagem integrada que combina o reforço do conhecimento do território com o desenvolvimento de soluções energéticas baseadas em recursos nacionais. Neste âmbito, contempla iniciativas orientadas para um reconhecimento aprofundado e pioneiro do território nacional, com vista ao reforço do conhecimento geológico e à identificação de matérias-primas críticas, atendendo ao seu papel crescente no posicionamento estratégico do país no contexto europeu e na viabilização da transição energética. Paralelamente, promove o desenvolvimento do setor do biometano enquanto vetor de substituição de combustíveis fósseis importados, contribuindo para a descarbonização de setores de difícil abatimento e para o reforço da segurança de abastecimento, através da valorização de recursos locais e do reforço da economia circular. Em termos estratégicos, a medida contribui para reduzir vulnerabilidades externas, reforçar a soberania energética nacional e criar condições para o desenvolvimento de cadeias de valor associadas à transição energética, alinhadas com as prioridades europeias neste domínio.
 
-| Teste de stress nacional ao sistema energético | Teste de stress nacional ao sistema energético | Teste de stress nacional ao sistema energético |
+| Teste de stress nacional ao sistema energético |  |  |
 | --- | --- | --- |
 | Custo (M€): NA | Tipologia: Reforma | Horizonte Temporal: Médio prazo |
 
@@ -604,37 +612,37 @@ Estas intervenções garantem que o país dispõe de infraestruturas e capacidad
 
 Tabela 9 - Medidas associadas ao domínio «Comunicações»
 
-| Reforço da cibersegurança e da resiliência digital do Estado e da Administração Pública | Reforço da cibersegurança e da resiliência digital do Estado e da Administração Pública | Reforço da cibersegurança e da resiliência digital do Estado e da Administração Pública |
+| Reforço da cibersegurança e da resiliência digital do Estado e da Administração Pública |  |  |
 | --- | --- | --- |
 | Custo (M€): 225 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida visa reforçar a cibersegurança, a resiliência digital e a continuidade operacional do Estado, através da modernização tecnológica, do reforço de infraestruturas críticas e de duplo uso, a par do desenvolvimento de capacidades institucionais e operacionais. Incide na proteção de sistemas, redes e dados críticos, assegurando prevenção, deteção, resposta e recuperação face a incidentes. Inclui serviços de monitorização, centros de operação de segurança, gestão de vulnerabilidades e capacitação técnica. Assenta ainda no desenvolvimento e consolidação de soluções de cloud soberana do Estado, em alinhamento com o Plano Nacional de Cloud Soberana, prevendo o seu financiamento, garantindo controlo, segurança e localização de dados críticos sob jurisdição nacional, bem como capacidades de disaster recovery e backup geograficamente redundante, enquanto elemento essencial da resiliência digital. Prevê ainda o reforço de infraestruturas físicas com redundância energética e de comunicações, controlo de acessos e planos de contingência. A nível estratégico, contribui para a soberania digital do Estado, abrangendo administração pública, universidades, centros de investigação, justiça, defesa e sistema científico.
 
-| Elaboração e implementação da estratégia nacional de segurança no ciberespaço | Elaboração e implementação da estratégia nacional de segurança no ciberespaço | Elaboração e implementação da estratégia nacional de segurança no ciberespaço |
+| Elaboração e implementação da estratégia nacional de segurança no ciberespaço |  |  |
 | --- | --- | --- |
 | Custo (M€): 18 | Tipologia: Reforma | Horizonte Temporal: Curto prazo |
 
 Descrição: A medida visa reforçar a ciber-resiliência e a capacidade de resposta a incidentes. Prevê o levantamento do grau de adequação ao quadro legal aplicável, com identificação de inconformidades, avaliação da criticidade, aplicação dos critérios de materialidade e das obrigações de notificação no âmbito da NIS2, definição de medidas de mitigação e seleção de soluções tecnológicas para gestão de infraestruturas e ativos críticos. Complementarmente, inclui a elaboração do quadro de referência para a cibersegurança e do plano nacional de resposta a crises. A nível estratégico, promove a articulação institucional e a preparação coordenada do Estado para cenários de crise cibernética, assegurando a proteção dos serviços essenciais e a continuidade operacional da administração pública e setores críticos, até 2026.
 
-| Formação e capacitação dos setores privados e social para a segurança no ciberespaço | Formação e capacitação dos setores privados e social para a segurança no ciberespaço | Formação e capacitação dos setores privados e social para a segurança no ciberespaço |
+| Formação e capacitação dos setores privados e social para a segurança no ciberespaço |  |  |
 | --- | --- | --- |
 | Custo (M€): 20 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida visa o reforço do ecossistema nacional de cibersegurança através da expansão da rede de apoio a PME e à administração local, do fortalecimento da coordenação nacional e europeia, da capacitação e financiamento de entidades e do desenvolvimento de iniciativas de formação, treino e sensibilização. Complementarmente, atende ao impacto dos riscos de cibersegurança na vida e qualidade de vida das populações, incluindo a proteção de crianças e jovens vítimas de ciberviolência. A nível estratégico, contribui para a construção de uma cultura de cibersegurança transversal à sociedade, promovendo a resiliência digital do tecido empresarial, das organizações sociais e das comunidades locais, assegurando que os setores privado e social dispõem de conhecimentos, ferramentas e capacidades para prevenir, detetar e responder a ameaças cibernéticas.
 
-| Corredores de redundância geográfica | Corredores de redundância geográfica | Corredores de redundância geográfica |
+| Corredores de redundância geográfica |  |  |
 | --- | --- | --- |
 | Custo (M€): 12 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida visa a definição e implementação de corredores de redundância geográfica que garantam percursos alternativos e fisicamente separados para os backbones de fibra ótica e redes 5G, reduzindo a dependência de trajetos únicos e vulneráveis. Inclui o mapeamento detalhado das infraestruturas existentes, a identificação de pontos críticos de concentração e a modelação de cenários de risco associados a eventos extremos. Complementarmente, prevê a definição de novos traçados, reforços ou duplicação estratégica de segmentos essenciais, com coordenação entre operadores, reguladores e autoridades públicas. A nível estratégico, assegura interoperabilidade, continuidade de serviço e proteção das comunicações críticas, aumentando significativamente a resiliência estrutural da rede nacional e garantindo redundância efetiva para comunicações de emergência e serviços públicos essenciais.
 
-| Garantia da cobertura de rádio hertziana | Garantia da cobertura de rádio hertziana | Garantia da cobertura de rádio hertziana |
+| Garantia da cobertura de rádio hertziana |  |  |
 | --- | --- | --- |
 | Custo (M€): 18 | Tipologia: Instrumento de planeamento | Horizonte Temporal: Curto prazo |
 
 Descrição: A medida visa a implementação de um conjunto integrado de intervenções destinadas a assegurar a continuidade e a robustez da cobertura de rádio hertziana em todo o território nacional, enquanto canal crítico de comunicação em situações de emergência. A medida inclui: (i) reforço das ligações entre autoridades e operadores de rádio, através de soluções dedicadas e resilientes que assegurem a transmissão fiável de mensagens oficiais; (ii) desenvolvimento e modernização da rede nacional de transmissores e centros emissores, aumentando a sua redundância, resistência a falhas e capacidade de operação em cenários adversos; (iii) reforço da autonomia energética das rádios, incluindo sistemas de alimentação de emergência e condições de operação contínua; e (iv) implementação de soluções de redundância nas comunicações de contribuição e emissão. A medida integra ainda a adoção do sistema SAME (Specific Area Message Encoding), permitindo a emissão automática e geograficamente segmentada de alertas de emergência através da radiodifusão hertziana, aumentando a eficácia e rapidez da comunicação dirigida à população. A medida concretiza-se através de um mecanismo de apoio à implementação dirigido a operadores nacionais, regionais e locais, garantindo a continuidade da emissão e a cobertura do território em contextos de crise, até 2026.
 
-| Criação de rede crítica de reserva de energia para emergência | Criação de rede crítica de reserva de energia para emergência | Criação de rede crítica de reserva de energia para emergência |
+| Criação de rede crítica de reserva de energia para emergência |  |  |
 | --- | --- | --- |
 | Custo (M€): 150 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
@@ -652,49 +660,49 @@ O domínio integra ainda uma forte componente de restauro ecológico de rios e r
 
 Tabela 10 - Medidas associadas ao domínio «Água»
 
-| Construção de barragens estruturantes | Construção de barragens estruturantes | Construção de barragens estruturantes |
+| Construção de barragens estruturantes |  |  |
 | --- | --- | --- |
 | Custo (M€): 740 | Tipologia: Investimento | Horizonte Temporal: Longo prazo |
 
 Descrição: A medida visa reforçar a capacidade nacional de armazenamento e regularização hidrológica através da construção das novas barragens de Girabolhos, Ocreza/Alvito, Alportel, Foupana e de outros projetos estruturantes previstos na estratégia Água que Une. Estas infraestruturas permitirão aumentar os volumes disponíveis para usos urbano, agrícola e industrial, responder a secas prolongadas, reduzir assimetrias regionais, criar reservas estratégicas e garantir maior estabilidade face a eventos extremos. Complementarmente, promove a articulação com os planos de gestão de bacia hidrográfica e os instrumentos de ordenamento do território, assegurando a sustentabilidade ambiental dos novos aproveitamentos e a compatibilização com os objetivos de qualidade ecológica dos recursos hídricos nacionais.
 
-| Construção e modernização de aproveitamentos hidroagrícolas | Construção e modernização de aproveitamentos hidroagrícolas | Construção e modernização de aproveitamentos hidroagrícolas |
+| Construção e modernização de aproveitamentos hidroagrícolas |  |  |
 | --- | --- | --- |
 | Custo (M€): 100 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
 Descrição: A presente medida visa a construção e modernização de aproveitamentos hidroagrícolas, com o objetivo de reforçar a segurança hídrica, aumentar a eficiência do regadio e reduzir a vulnerabilidade do setor agrícola às alterações climáticas. As intervenções incluem a modernização e reabilitação de infraestruturas existentes, a construção de cerca de 400 novas pequenas charcas, a ampliação da capacidade de armazenamento e transporte de água, o reforço de interligações entre sistemas e bacias hidrográficas, a valorização de empreendimentos de fins múltiplos e a realização de estudos e projetos necessários à execução faseada dos investimentos.
 
-| Abordagem mais integrada na gestão das bacias hidrográficas | Abordagem mais integrada na gestão das bacias hidrográficas | Abordagem mais integrada na gestão das bacias hidrográficas |
+| Abordagem mais integrada na gestão das bacias hidrográficas |  |  |
 | --- | --- | --- |
 | Custo (M€): 82 | Tipologia: Investimento | Horizonte Temporal: Longo prazo |
 
 Descrição: A medida visa promover um modelo de gestão integrada de bacias hidrográficas, melhorando o planeamento, a monitorização e a governança ao nível de cada região hidrográfica. Assegura a coordenação entre usos urbano, agrícola, industrial e ambiental, promovendo uma afetação sustentável da água e maior resiliência a secas, cheias e variabilidade hidrológica, bem como o cumprimento de regras de segurança de barragens. Complementarmente, inclui a criação ou reforço de estruturas de gestão por bacia, a elaboração de planos de gestão, a integração de dados de qualidade e quantidade em sistemas digitais, a implementação de mecanismos de licenciamento coordenado, a definição de caudais ecológicos e o reforço da monitorização. Os destinatários incluem autarquias, entidades gestoras, concessionárias e comunidades locais.
 
-| Reabilitação de rios e ribeiras | Reabilitação de rios e ribeiras | Reabilitação de rios e ribeiras |
+| Reabilitação de rios e ribeiras |  |  |
 | --- | --- | --- |
 | Custo (M€): 190 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida visa implementar um programa nacional de restauro ecológico de rios e ribeiras através de intervenções de reabilitação da morfologia fluvial, recuperação de galerias ripícolas, remoção ou adaptação de barreiras à continuidade fluvial, reconexão de zonas de inundação natural e controlo de espécies invasoras. Complementarmente, promove a valorização dos ecossistemas aquáticos e ribeirinhos, a melhoria da qualidade da água e a recuperação da biodiversidade associada aos cursos de água. As intervenções serão priorizadas com base em critérios de risco ecológico, pressões identificadas nos planos de gestão de região hidrográfica e articulação com os municípios e comunidades locais, contribuindo para o cumprimento dos objetivos ambientais da Diretiva-Quadro da Água.
 
-| Digitalização do ciclo da água | Digitalização do ciclo da água | Digitalização do ciclo da água |
+| Digitalização do ciclo da água |  |  |
 | --- | --- | --- |
 | Custo (M€): 246 | Tipologia: Investimento | Horizonte Temporal: Longo prazo |
 
 Descrição: A medida visa modernizar a gestão hídrica nacional através da digitalização do ciclo da água, promovendo maior eficiência na redução de perdas e reforçando a resiliência face às alterações climáticas. Assegura a deteção precoce de secas, cheias e ciberataques mediante a instalação de sensores, modelos preditivos e sistemas de alerta avançados. Complementarmente, melhora a governação e a participação cidadã, apoiando a decisão em informação integrada e transparente. Inclui o reforço dos sistemas de monitorização em tempo real, a interoperabilidade de plataformas de dados hídricos, a capacitação técnica das entidades gestoras e a adoção de tecnologias inovadoras de tratamento e reutilização. Os destinatários abrangem entidades gestoras de água e saneamento, autarquias, reguladores e a comunidade científica. Moderniza a gestão hídrica para obter maior eficiência reduzindo perdas, reforçar a resiliência face a alterações climáticas, assegurando deteção precoce de secas, cheias e ciberataques. Melhora a governação e participação cidadã, suportando a decisão em informação integrada e transparente.
 
-| Reforço da resiliência das infraestruturas de abastecimento de água | Reforço da resiliência das infraestruturas de abastecimento de água | Reforço da resiliência das infraestruturas de abastecimento de água |
+| Reforço da resiliência das infraestruturas de abastecimento de água |  |  |
 | --- | --- | --- |
 | Custo (M€): 457 | Tipologia: Investimento | Horizonte Temporal: Longo prazo |
 
 Descrição: A medida visa reforçar a resiliência das infraestruturas de abastecimento de água, promovendo a sua capacidade para operar com fiabilidade durante secas severas, cheias, falhas na origem ou outras situações críticas. Inclui intervenções em captações, condutas adutoras, reservatórios, incluindo dos estabelecimentos prisionais, estações de tratamento e sistemas de monitorização, redundância, interligações entre sistemas, reforço de armazenamento local, instalação de telemetria e modernização eletromecânica. Complementarmente, integra o desenvolvimento de planos de emergência, contingência e operação em cenários críticos, alinhados com práticas de digitalização.
 
-| Reforço da resiliência das infraestruturas de saneamento | Reforço da resiliência das infraestruturas de saneamento | Reforço da resiliência das infraestruturas de saneamento |
+| Reforço da resiliência das infraestruturas de saneamento |  |  |
 | --- | --- | --- |
 | Custo (M€): 474 | Tipologia: Investimento | Horizonte Temporal: Longo prazo |
 
 Descrição: A medida visa reforçar a resiliência das infraestruturas de saneamento, garantindo a continuidade do serviço durante cheias, falhas energéticas ou eventos meteorológicos extremos. Abrange intervenções em ETAR, emissários, estações elevatórias, coletores, sistemas de bombagem e equipamentos eletromecânicos vulneráveis. Inclui a modernização de sistemas de redundância, instalação de backup energético, reforço de capacidade hidráulica, telemetria e sistemas de alerta precoce. Complementarmente, promove a elaboração de planos de contingência operacional, a adaptação das infraestruturas aos cenários climáticos futuros e a articulação com os sistemas de proteção civil. A nível estratégico, assegura a proteção da saúde pública e dos ecossistemas aquáticos, minimizando descargas não controladas e garantindo o cumprimento dos padrões ambientais de qualidade das águas residuais tratadas.
 
-| Reforço da resiliência das infraestruturas de gestão de resíduos | Reforço da resiliência das infraestruturas de gestão de resíduos | Reforço da resiliência das infraestruturas de gestão de resíduos |
+| Reforço da resiliência das infraestruturas de gestão de resíduos |  |  |
 | --- | --- | --- |
 | Custo (M€): 360 | Tipologia: Investimento | Horizonte Temporal: Longo prazo |
 
@@ -712,43 +720,43 @@ O domínio integra ainda uma forte aposta na vigilância e monitorização cont�
 
 Tabela 11 - Medidas associadas ao domínio «Florestas»
 
-| Gestão ativa da floresta | Gestão ativa da floresta | Gestão ativa da floresta |
+| Gestão ativa da floresta |  |  |
 | --- | --- | --- |
 | Custo (M€): 132 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida reforça o financiamento e simplifica a gestão do Programa Floresta Ativa, com foco nos territórios de minifúndio. Prevê novos avisos do ICNF com reforço de verbas.
 
-| Promover uma gestão florestal sustentável e agregada | Promover uma gestão florestal sustentável e agregada | Promover uma gestão florestal sustentável e agregada |
+| Promover uma gestão florestal sustentável e agregada |  |  |
 | --- | --- | --- |
 | Custo (M€): NA | Tipologia: Reforma | Horizonte Temporal: Curto prazo |
 
 Descrição: Esta medida visa reduzir a fragmentação e atomização da propriedade rústica florestal mediante o reforço e a simplificação dos instrumentos públicos de gestão agrupada, atuando nos seguintes vetores: revisão do regime das zonas de intervenção florestal (ZIF); simplificação dos procedimentos de reconhecimento das UGF/EGF e reforço dos incentivos associados à certificação da gestão florestal sustentável. Complementarmente, deverão ser desenvolvidas ações de manutenção e otimização da Sistema de Informação Cadastral Simplificado e do Balcão Único do Prédio (BUPi) e de comunicação e mobilização dos cidadãos para a identificação e registo das suas propriedades, até 2026.
 
-| Promoção de parcerias para a gestão da floresta | Promoção de parcerias para a gestão da floresta | Promoção de parcerias para a gestão da floresta |
+| Promoção de parcerias para a gestão da floresta |  |  |
 | --- | --- | --- |
 | Custo (M€): 100 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida assenta na implementação de modelos de gestão florestal conjunta, suportada no envolvimento dos agentes do setor florestal (proprietários, entidades públicas, indústria, entre outros). Neste âmbito prevê-se a expansão de modelos de intervenção à escala da paisagem (exemplo: Operações Integradas de Gestão da Paisagem) para todo o país. Pretende-se valorizar a floresta e garantir proteção e resiliência aos territórios rurais. Estabelecimento de contratos-programa de apoio técnico e financeiro a Organização de Produtores Florestais, associações florestais e outras entidades, para reforço da sua capacidade de gestão, elaboração de Planos de Gestão Florestal e acompanhamento técnico dos proprietários
 
-| Redução de carga combustível | Redução de carga combustível | Redução de carga combustível |
+| Redução de carga combustível |  |  |
 | --- | --- | --- |
 | Custo (M€): 320 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida visa a reforço do financiamento e manutenção de Condomínios de Aldeia para promover alterações no uso e ocupação do solo que garantam a remoção total ou parcial da biomassa florestal, interrompendo a continuidade vertical e horizontal de combustível junto aos agregados populacionais rurais. Inclui a identificação e priorização das aldeias em maior risco, revitalizar as atividades agrícolas e silvo pastoris, incrementando a multifuncionalidade dos territórios vulneráveis. Complementarmente, promove a valorização da biomassa recolhida através de centrais de biomassa próximas e com ligação à rede energética. Integra ainda o Programa de Apoio à Redução da Carga Combustível através do Pastoreio, com quatro medidas: apoio às áreas de baldio, apoio aos animais, apoio ao investimento e apoio à instalação de novos produtores, em articulação com os PMDFCI e o SGIFR.
 
-| Programa Operacional de Sanidade Florestal | Programa Operacional de Sanidade Florestal | Programa Operacional de Sanidade Florestal |
+| Programa Operacional de Sanidade Florestal |  |  |
 | --- | --- | --- |
 | Custo (M€): 8 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida visa implementar o Programa Operacional de Sanidade Florestal, incluindo o reforço da rede nacional de monitorização e deteção precoce de pragas, protocolos de alerta e resposta imediata, planos de contingência para pragas emergentes e simplificação de autorizações para intervenções fitossanitárias urgentes. Inclui ainda o reforço da monitorização pós-tempestade para prevenção e controlo de pragas florestais, designadamente escolitídeos, e mitigação dos riscos do nemátodo da madeira do pinheiro, contribuindo para a proteção fitossanitária e a resiliência dos ecossistemas florestais nacionais.
 
-| Erradicação e controlo de espécies invasoras | Erradicação e controlo de espécies invasoras | Erradicação e controlo de espécies invasoras |
+| Erradicação e controlo de espécies invasoras |  |  |
 | --- | --- | --- |
 | Custo (M€): 100 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida visa a implementação de um programa integrado de erradicação e controlo de espécies invasoras em espaços florestais e rurais. Inclui cartografa atualizada da distribuição de espécies invasoras. Apoio financeiro e técnico a proprietários para controlo e erradicação, monitorização e investigação de métodos de controlo biológico.
 
-| Vigilância e monitorização aérea | Vigilância e monitorização aérea | Vigilância e monitorização aérea |
+| Vigilância e monitorização aérea |  |  |
 | --- | --- | --- |
 | Custo (M€): 14 | Tipologia: Investimento | Horizonte Temporal: Longo prazo |
 
@@ -766,91 +774,91 @@ Estas intervenções consolidam uma atuação pública mais preventiva, informad
 
 Tabela 12 - Medidas associadas ao domínio «Infraestruturas»
 
-| Soluções de monitorização, reforço e fiscalização da resistência sísmica das construções | Soluções de monitorização, reforço e fiscalização da resistência sísmica das construções | Soluções de monitorização, reforço e fiscalização da resistência sísmica das construções |
+| Soluções de monitorização, reforço e fiscalização da resistência sísmica das construções |  |  |
 | --- | --- | --- |
 | Custo (M€): 200 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida visa reforçar a fiscalização no âmbito da resiliência sísmica, assegurando a verificação de incumprimentos no cálculo sísmico e de falhas na execução dos elementos estruturais em obra. Inclui a criação de um repositório que integre o projeto estrutural original e todas as alterações realizadas ao longo da vida útil de cada edifício. Complementarmente, prevê a integração de um registo técnico obrigatório na Carteira Digital do Edifício, contemplando a classificação do indicador de qualidade sísmica das construções. A nível estratégico, promove a transparência e rastreabilidade da informação estrutural, capacitando proprietários, técnicos e autoridades com dados fiáveis para a tomada de decisão sobre intervenções de reforço, contribuindo para a redução da vulnerabilidade sísmica do parque edificado nacional. Inclui ainda apoio para promoções das intervenções nos casos mais críticos de necessidade de reforço.
 
-| Elaboração de plano de reação a evento sísmico grave | Elaboração de plano de reação a evento sísmico grave | Elaboração de plano de reação a evento sísmico grave |
+| Elaboração de plano de reação a evento sísmico grave |  |  |
 | --- | --- | --- |
 | Custo (M€): 20 | Tipologia: Instrumento de planeamento | Horizonte Temporal: Curto prazo |
 
 Descrição: A medida visa a elaboração de um estudo aprofundado do risco sísmico e de tsunamis no território de Portugal Continental, incluindo o desenvolvimento de um simulador de cenários sísmicos global que contemple os impactos de tsunamis. Complementarmente, prevê a elaboração de um Plano Nacional de Emergência para o Risco Sísmico e de Tsunamis, integrando protocolos de resposta, coordenação interinstitucional e mobilização de meios de socorro. A nível estratégico, reforça a preparação do sistema nacional de proteção civil para eventos sísmicos graves, promovendo a articulação entre entidades públicas, forças de segurança, serviços de emergência médica, medicina legal e autarquias. Os instrumentos desenvolvidos permitirão avaliar vulnerabilidades, testar cenários e definir prioridades de intervenção, contribuindo para a minimização de perdas humanas e materiais, até 2026.
 
-| Plataforma nacional de dados climáticos | Plataforma nacional de dados climáticos | Plataforma nacional de dados climáticos |
+| Plataforma nacional de dados climáticos |  |  |
 | --- | --- | --- |
 | Custo (M€): 2 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida prevê a criação de uma plataforma nacional de dados climáticos que integre informação sobre projeções, vulnerabilidades, perdas e danos, opções de adaptação e indicadores de risco. A plataforma apoiará a avaliação de riscos, o planeamento territorial, a definição de medidas e a monitorização de progressos, em articulação com entidades públicas, academia, municípios e sistemas existentes. Complementarmente, promove a integração da adaptação climática nas políticas setoriais e o desenvolvimento de capacidades técnicas a nível local e regional, contribuindo para uma resposta coordenada e informada face aos impactos das alterações climáticas.
 
-| Revisão das normas técnicas sobre resistência de infraestruturas e materiais a eventos extremos | Revisão das normas técnicas sobre resistência de infraestruturas e materiais a eventos extremos | Revisão das normas técnicas sobre resistência de infraestruturas e materiais a eventos extremos |
+| Revisão das normas técnicas sobre resistência de infraestruturas e materiais a eventos extremos |  |  |
 | --- | --- | --- |
 | Custo (M€): NA | Tipologia: Reforma | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida visa rever e atualizar as normas técnicas relativas à resistência de infraestruturas e materiais, até 2028, alargando o seu âmbito para além dos riscos sísmicos, de modo a abranger outros eventos extremos com impacto crescente no território nacional, nomeadamente cheias, tempestades e ondas de calor. Esta revisão tem por objetivos adaptar a legislação e normas regulatórias nacionais à maior frequência e intensidade de eventos extremos, minimizar os riscos e os custos associados a danos em infraestruturas públicas e privadas, e alinhar as exigências nacionais com as melhores práticas e normas internacionais em matéria de resiliência e segurança de infraestruturas e materiais.
 
-| Revisão e atualização das normas relativas à resiliência e reforço sísmico | Revisão e atualização das normas relativas à resiliência e reforço sísmico | Revisão e atualização das normas relativas à resiliência e reforço sísmico |
+| Revisão e atualização das normas relativas à resiliência e reforço sísmico |  |  |
 | --- | --- | --- |
 | Custo (M€): NA | Tipologia: Reforma | Horizonte Temporal: Curto prazo |
 
 Descrição: A medida visa a revisão dos Euro códigos Estruturais e da [Portaria 302/2019](https://diariodarepublica.pt/dr/detalhe/portaria/302-2019-124642991), de 12 de setembro, que define os termos em que as obras de ampliação, alteração ou reconstrução estão sujeitas à elaboração de relatório de avaliação de vulnerabilidade sísmica, bem como as situações em que é exigível a elaboração de projeto de reforço sísmico, até 2026. Complementarmente, promove a atualização dos parâmetros de dimensionamento sísmico à luz dos conhecimentos científicos mais recentes, a harmonização com as normas europeias e a clarificação dos critérios técnicos aplicáveis. A nível estratégico, contribui para a melhoria da segurança estrutural do parque edificado nacional, reduzindo a vulnerabilidade sísmica das construções e reforçando a proteção de pessoas e bens.
 
-| Preparação dos equipamentos para eventos extremos, serviços de monitorização e alerta agrometeorológico | Preparação dos equipamentos para eventos extremos, serviços de monitorização e alerta agrometeorológico | Preparação dos equipamentos para eventos extremos, serviços de monitorização e alerta agrometeorológico |
+| Preparação dos equipamentos para eventos extremos, serviços de monitorização e alerta agrometeorológico |  |  |
 | --- | --- | --- |
 | Custo (M€): 150 | Tipologia: Investimento | Horizonte Temporal: Longo prazo |
 
 Descrição: A medida visa o reforço da resiliência do IPMA e a modernização do Sistema Nacional de Monitorização, Previsão e Alerta Agrícola, incluindo a criação de uma plataforma única que integre dados de estações agrometeorológicas, vigilância entomológica e notificações clínicas, com modelos preditivos de risco baseados em inteligência artificial. Nesta medida está também integrada a promoção de modos de produção agrícola sustentáveis e resilientes às alterações climáticas e do desenvolvimento tecnológico e aumento sustentável da produtividade. Prevê a criação de incentivos para aquisição e instalação de geradores nas explorações agrícolas para assegurar pontos críticos de energia durante falhas na rede, e a adoção pelos agricultores de práticas sustentáveis e resilientes. Promove o investimento tecnológico nas explorações agrícolas e na agroindústria, visando o aumento do valor acrescentado e a sua capacidade de resposta face a eventos meteorológicos extremos.
 
-| Modernização do setor das pescas e reforço da resiliência das infraestruturas marítimas | Modernização do setor das pescas e reforço da resiliência das infraestruturas marítimas | Modernização do setor das pescas e reforço da resiliência das infraestruturas marítimas |
+| Modernização do setor das pescas e reforço da resiliência das infraestruturas marítimas |  |  |
 | --- | --- | --- |
 | Custo (M€): 50 | Tipologia: Investimento | Horizonte Temporal: Longo prazo |
 
 Descrição: A medida visa apoiar a renovação da frota pesqueira e os abates de embarcações, promovendo a segurança a bordo, o aumento da atratividade do setor da pesca e a renovação geracional. Inclui a requalificação dos portos de pesca e das marinas de recreio, o apoio a desassoreamentos, dragagens e requalificação de molhes, melhorando as condições de segurança e a resiliência face a fenómenos meteorológicos extremos. Complementarmente, prevê o reforço do apoio à operacionalização dos sistemas de controlo previstos na política comum das pescas, tais como o sistema de localização de navios, o serviço de tráfego de navios (VTS), o sistema de identificação automática (AIS) e a monitorização remota (REM), e o reforço da resiliência das infraestruturas de TI nos portos de pesca e autoridades competentes, contribuindo para a modernização e segurança do setor marítimo-pesqueiro nacional.
 
-| Mapeamento da situação e condições de segurança das infraestruturas mais críticas | Mapeamento da situação e condições de segurança das infraestruturas mais críticas | Mapeamento da situação e condições de segurança das infraestruturas mais críticas |
+| Mapeamento da situação e condições de segurança das infraestruturas mais críticas |  |  |
 | --- | --- | --- |
 | Custo (M€): 0,7 | Tipologia: Instrumento de planeamento | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida visa reforçar a proteção e monitorização de infraestruturas críticas nacionais, articulando duas vertentes complementares: resposta rápida a fenómenos extremos e fiscalização estruturada e contínua. Na vertente operacional, moderniza a capacidade de intervenção da Equipa Hidrográfica de Intervenção Rápida da Marinha, incluindo a aquisição de viatura especializada e drone com sensores LiDAR topo-batimétrico para avaliação de obstáculos submersos em zonas portuárias após sismos, tempestades ou acidentes marítimos. Na vertente preventiva, desenvolve um plano nacional de fiscalização com metodologias harmonizadas de inspeção, critérios de classificação, periodicidade de avaliação e procedimentos de reporte. Complementarmente, prevê a criação de um sistema integrado de monitorização, assegurando a deteção precoce de situações de risco e apoiando decisões de manutenção e investimento.
 
-| Levantamento nacional da situação e das condições de segurança das infraestruturas públicas mais críticas | Levantamento nacional da situação e das condições de segurança das infraestruturas públicas mais críticas | Levantamento nacional da situação e das condições de segurança das infraestruturas públicas mais críticas |
+| Levantamento nacional da situação e das condições de segurança das infraestruturas públicas mais críticas |  |  |
 | --- | --- | --- |
 | Custo (M€): 2,2 | Tipologia: Instrumento de planeamento | Horizonte Temporal: Curto prazo |
 
 Descrição: A medida consiste na realização de um levantamento nacional estruturado das condições de segurança das infraestruturas públicas mais críticas, com base na recolha, sistematização e harmonização da informação técnica existente nas entidades gestoras, em linha com metodologias de avaliação técnica independente. O levantamento incluirá a consolidação de dados técnicos disponíveis, a definição de metodologias comuns de avaliação e, quando necessário, a realização de inspeções pontuais para colmatar lacunas de informação crítica. Em complemento, será desenvolvido um projeto de avaliação baseado em tecnologias de observação da Terra (satélite), permitindo a monitorização remota de ativos e a deteção de anomalias (ex.: deformações, instabilidades de taludes, zonas inundáveis), reforçando a capacidade de diagnóstico precoce e de priorização de intervenções. A análise abrangerá igualmente a avaliação da vulnerabilidade a fenómenos naturais extremos e a identificação de necessidades prioritárias de intervenção. Os resultados permitirão produzir um diagnóstico técnico nacional consistente e comparável, apoiar a definição de prioridades de manutenção e investimento e servir de base à implementação de sistemas de monitorização contínua e gestão inteligente de ativos.
 
-| Plano regular de fiscalização das principais infraestruturas e mapeamento digital | Plano regular de fiscalização das principais infraestruturas e mapeamento digital | Plano regular de fiscalização das principais infraestruturas e mapeamento digital |
+| Plano regular de fiscalização das principais infraestruturas e mapeamento digital |  |  |
 | --- | --- | --- |
 | Custo (M€): 4 | Tipologia: Instrumento de planeamento | Horizonte Temporal: Curto prazo |
 
 Descrição: A medida visa criar um plano nacional estruturado para a fiscalização e monitorização das infraestruturas públicas mais críticas, apoiado num diagnóstico nacional prévio. Estabelece metodologias harmonizadas de inspeção, periodicidades de avaliação, critérios de classificação do estado das infraestruturas e procedimentos uniformes de reporte. Inclui o reforço dos mecanismos de inspeção das entidades gestoras, auditorias técnicas regulares e um sistema integrado de monitorização. Prevê o desenvolvimento de sistemas digitais avançados, nomeadamente modelos digitais («digital twins») capazes de integrar dados de inspeções, sensores estruturais e informação georreferenciada, permitindo simulações e análises preditivas. A nível estratégico, assegura monitorização contínua, deteção precoce de situações de risco, apoio a decisões de manutenção e investimento e reforço da capacidade de resposta a eventos extremos, até 2026.
 
-| Planos de adaptação e resiliência face a catástrofes e efeitos das alterações climáticas em sistemas de mobilidade e transportes | Planos de adaptação e resiliência face a catástrofes e efeitos das alterações climáticas em sistemas de mobilidade e transportes | Planos de adaptação e resiliência face a catástrofes e efeitos das alterações climáticas em sistemas de mobilidade e transportes |
+| Planos de adaptação e resiliência face a catástrofes e efeitos das alterações climáticas em sistemas de mobilidade e transportes |  |  |
 | --- | --- | --- |
 | Custo (M€): 2 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida visa a criação de uma linha de apoio financeiro a empresas e entidades do setor da mobilidade e transportes para a elaboração e execução de planos de adaptação e resiliência face a catástrofes e aos efeitos das alterações climáticas, abrangendo operações, serviços, infraestruturas e equipamentos. Prevê o financiamento da execução e implementação das medidas constantes desses planos, incluindo a articulação entre operadores e agentes do sistema e formação especializada. A nível estratégico, promove a preparação proativa do setor dos transportes, assegurando continuidade de serviços essenciais de mobilidade em emergência, proteção de infraestruturas e equipamentos críticos e capacidade de recuperação rápida das operações, contribuindo para a resiliência do sistema nacional de transportes.
 
-| Arquitetura nacional de dados de mobilidade | Arquitetura nacional de dados de mobilidade | Arquitetura nacional de dados de mobilidade |
+| Arquitetura nacional de dados de mobilidade |  |  |
 | --- | --- | --- |
 | Custo (M€): NA | Tipologia: Reforma | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida visa a criação de uma arquitetura nacional de dados de mobilidade, alimentada por informação de várias fontes, mobilizável para monitorização do sistema e suporte à tomada de decisão, nomeadamente através de um modelo multimodal de transportes, até 2028. Promove a integração e interoperabilidade de dados provenientes de operadores de transporte, entidades gestoras de infraestruturas, sistemas de bilhética e sensores de tráfego, permitindo uma visão integrada e em tempo real do sistema de mobilidade nacional. Esta medida está alinhada com o contínuo desenvolvimento e aplicação do modelo multimodal de transportes recentemente definido. A nível estratégico, reforça a capacidade de planeamento, gestão de crises e resposta a eventos extremos no setor dos transportes, assegurando que decisores públicos e operadores dispõem de informação fiável e atualizada para otimizar recursos, coordenar operações e garantir a continuidade dos serviços de mobilidade em cenários de emergência.
 
-| Rede de carregamento de emergência para mobilidade elétrica | Rede de carregamento de emergência para mobilidade elétrica | Rede de carregamento de emergência para mobilidade elétrica |
+| Rede de carregamento de emergência para mobilidade elétrica |  |  |
 | --- | --- | --- |
 | Custo (M€): 53 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida visa reforçar a resiliência da rede de carregamento de veículos elétricos em cenários de apagão, incêndio ou inundação, garantindo suporte a veículos de emergência, manutenção e apoio à população. Complementarmente, promove a instalação de postos de carregamento com autonomia energética em localizações estratégicas, assegurando a operacionalidade de veículos elétricos essenciais durante eventos extremos ou falhas prolongadas no fornecimento elétrico. A nível estratégico, contribui para a transição energética sustentável do setor dos transportes, articulando a eletrificação da mobilidade com a resiliência do sistema, garantindo que a crescente dependência de veículos elétricos não compromete a capacidade de resposta em emergências. As intervenções serão priorizadas com base na criticidade das infraestruturas servidas e na exposição a riscos climáticos e energéticos.
 
-| Resiliência da rede e das infraestruturas de ensino face a fenómenos extremos | Resiliência da rede e das infraestruturas de ensino face a fenómenos extremos | Resiliência da rede e das infraestruturas de ensino face a fenómenos extremos |
+| Resiliência da rede e das infraestruturas de ensino face a fenómenos extremos |  |  |
 | --- | --- | --- |
 | Custo (M€): NA | Tipologia: Instrumento de planeamento | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida visa reforçar a resiliência do sistema de ensino face a fenómenos extremos, integrando o diagnóstico da distribuição territorial da oferta educativa e da sua adequação às dinâmicas demográficas e sociais. Inclui a adaptação e modernização das infraestruturas com soluções construtivas mais robustas e o desenvolvimento de instrumentos de apoio ao planeamento territorial. Prevê a implementação de projetos que reforcem a capacidade de resposta e continuidade do sistema de ensino em contextos de emergência. A nível estratégico, contribui para a proteção da comunidade educativa e manutenção do serviço público de educação em cenários de catástrofe, assegurando que as infraestruturas escolares resistem a eventos climáticos extremos e planos de contingência que garantem a continuidade das atividades letivas.
 
-| Cabos Submarinos Inteligentes | Cabos Submarinos Inteligentes | Cabos Submarinos Inteligentes |
+| Cabos Submarinos Inteligentes |  |  |
 | --- | --- | --- |
 | Custo (M€): 154 | Tipologia: Investimento | Horizonte Temporal: Longo prazo |
 
@@ -868,7 +876,8 @@ As intervenções deste pilar têm predominantemente um horizonte temporal de cu
 
 Tabela 13 - Medidas e custo estimado dos domínios do pilar «Responder»
 
-![](https://files.diariodarepublica.pt/images/1128669414/1128462064.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1128669414/1128462064.png) |
+| --- |
 
 5.1 - Segurança de pessoas e infraestruturas.
 
@@ -884,49 +893,49 @@ Estas medidas contribuem para a consolidação de uma abordagem que privilegia a
 
 Tabela 14 - Medidas associadas ao domínio «Segurança de pessoas e infraestruturas»
 
-| Sistema nacional de alojamento de emergência | Sistema nacional de alojamento de emergência | Sistema nacional de alojamento de emergência |
+| Sistema nacional de alojamento de emergência |  |  |
 | --- | --- | --- |
 | Custo (M€): 250 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida cria um sistema nacional integrado de alojamento de emergência e resposta a desalojamento, destinado a assegurar acolhimento rápido, digno e territorialmente adequado a populações afetadas por catástrofes, incluindo a salvaguarda de soluções de alojamento de emergência adequadas e seguras em cenários de evacuação de estabelecimentos prisionais, articulando recursos existentes, soluções complementares e instrumentos de ativação em contexto de emergência. O sistema assenta na criação de uma rede nacional de alojamento de emergência e resposta social complementar, incluindo Zonas de Concentração e Apoio à População (ZCAP), com georreferenciação de capacidades, definição de critérios de prioridade e articulação com a proteção civil, o setor social e outras entidades relevantes, integrando o mapeamento, a adaptação e mobilização de imóveis públicos e outras infraestruturas para acolhimento temporário como escolas, pavilhões desportivos e pousadas da juventude. A medida prevê ainda o desenvolvimento de soluções modulares de alojamento, com tipologias padronizadas, reservas estratégicas e instrumentos de contratação que assegurem fornecimento, montagem, manutenção e logística, bem como a adaptação e reforço de infraestruturas de acolhimento e apoio logístico. Inclui igualmente a constituição de meios de acolhimento de emergência, como tendas climatizadas e kits modulares, e a criação de unidades territoriais de apoio a desalojados. Trata-se de uma medida estruturante que consolida capacidades existentes e introduz novos instrumentos para garantir uma resposta mais rápida, coordenada e resiliente em situações de desalojamento em larga escala.
 
-| Proteção de pessoas vulneráveis em situações de emergência | Proteção de pessoas vulneráveis em situações de emergência | Proteção de pessoas vulneráveis em situações de emergência |
+| Proteção de pessoas vulneráveis em situações de emergência |  |  |
 | --- | --- | --- |
 | Custo (M€): 42 | Tipologia: Instrumento de planeamento | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida cria um sistema nacional de georreferenciação e monitorização biométrica não invasiva para pessoas e famílias em situação de vulnerabilidade social, médica ou territorial. O sistema integra pulseiras, dispositivos ou sensores certificados que recolhem dados biométricos essenciais (por exemplo: pulsação, temperatura cutânea, padrões de atividade, deteção de quedas) e coordenadas geográficas seguras, comunicando automaticamente com plataformas de emergência e redes sociais locais. As entidades destinatárias incluem pessoas idosas isoladas, pessoas com deficiência, dependentes, doentes crónicos, famílias em zonas de risco climático e beneficiários de SAD, CACI, Centros de Dia e respostas de apoio domiciliário. A medida não existe de forma estruturada no país e responde a deficiências persistentes na capacidade de proteção e socorro, até 2026.
 
-| Agenda para a capacitação e preparação em situações de catástrofe | Agenda para a capacitação e preparação em situações de catástrofe | Agenda para a capacitação e preparação em situações de catástrofe |
+| Agenda para a capacitação e preparação em situações de catástrofe |  |  |
 | --- | --- | --- |
 | Custo (M€): 25 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida estabelece uma agenda integrada e contínua de capacitação e preparação para situações de catástrofe, dirigida à população, à Administração Pública e aos agentes locais, com o objetivo de reforçar as capacidades de antecipação, resposta e recuperação. Integra campanhas regulares de informação ao público sobre riscos e comportamentos de autoproteção, materiais pedagógicos e ferramentas digitais de apoio à preparação individual e coletiva, incluindo a promoção de uma cultura de contratação de seguros. A medida reforça ainda a literacia para o risco no sistema educativo, através de conteúdos específicos, programas de simulacros e capacitação de docentes, bem como a formação de autarcas, técnicos municipais e Administração Pública em matérias de gestão do risco, coordenação interinstitucional, comunicação em crise e implementação de medidas de resposta e recuperação. Mobiliza entidades públicas com competências relevantes e estruturas formativas existentes, podendo incluir iniciativas de formação especializada e treino operacional.
 
-| Transporte público e mobilidade em situações de emergência e disrupção | Transporte público e mobilidade em situações de emergência e disrupção | Transporte público e mobilidade em situações de emergência e disrupção |
+| Transporte público e mobilidade em situações de emergência e disrupção |  |  |
 | --- | --- | --- |
 | Custo (M€): 22 | Tipologia: Investimento | Horizonte Temporal: Longo prazo |
 
 Descrição: A medida estabelece um quadro nacional integrado para assegurar a continuidade do transporte público e da mobilidade em situações de emergência e disrupção, promovendo uma articulação mais eficaz entre planeamento, regulação e operação do sistema. Inclui a definição de planos de contingência por modo e território, bem como o desenvolvimento de uma estratégia de mobilidade substitutiva que assegure a continuidade das deslocações essenciais, através da identificação de corredores prioritários, rotas alternativas e mecanismos de reorganização temporária da oferta. A medida integra ainda o reforço da capacidade de gestão e utilização de dados de mobilidade, permitindo suportar decisões operacionais em tempo real e assegurar informação clara e atempada ao utilizador, em diferentes canais. Complementarmente, prevê o reforço da resiliência das infraestruturas, sistemas e equipamentos críticos de suporte ao transporte público, bem como a capacitação das entidades e operadores envolvidos, promovendo uma resposta coordenada, previsível e territorialmente equilibrada em contextos de crise.
 
-| Sistema nacional de voluntariado para resposta a crises | Sistema nacional de voluntariado para resposta a crises | Sistema nacional de voluntariado para resposta a crises |
+| Sistema nacional de voluntariado para resposta a crises |  |  |
 | --- | --- | --- |
 | Custo (M€): 12 | Tipologia: Reforma | Horizonte Temporal: Médio prazo |
 
 Descrição: Implementação de um sistema nacional de voluntariado orientado para a resposta a situações de emergência e para a recuperação em contexto pós-catástrofe, articulando diferentes modalidades de participação e níveis de qualificação. A medida assenta em duas componentes complementares: (i) criação de uma bolsa nacional de voluntários certificados, incluindo perfis com competências específicas em apoio psicossocial, acolhimento, logística e apoio a instituições sociais, organizada de forma a permitir a sua mobilização rápida e coordenada em articulação com proteção civil, ISS e entidades locais; (ii) desenvolvimento de programas de voluntariado jovem e comunitário, orientados para ações de sensibilização, apoio à recuperação de espaços e participação em iniciativas de resiliência territorial, incluindo projetos de âmbito nacional e internacional. O sistema integra mecanismos de formação inicial e contínua, certificação de competências, definição de regras de ativação e enquadramento operacional das entidades promotoras. A medida concretiza-se através de um mecanismo de apoio à implementação de projetos de voluntariado e de capacitação, assegurando a articulação entre diferentes níveis de intervenção e contribuindo para uma resposta mais estruturada, eficaz e participada em situações de crise.
 
-| Reserva de medicamentos e de dispositivos médicos e prestação de cuidados de saúde domiciliários mais críticos | Reserva de medicamentos e de dispositivos médicos e prestação de cuidados de saúde domiciliários mais críticos | Reserva de medicamentos e de dispositivos médicos e prestação de cuidados de saúde domiciliários mais críticos |
+| Reserva de medicamentos e de dispositivos médicos e prestação de cuidados de saúde domiciliários mais críticos |  |  |
 | --- | --- | --- |
 | Custo (M€): 70 | Tipologia: Instrumento de planeamento | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida visa garantir a disponibilidade de medicamentos, dispositivos médicos e cuidados domiciliários críticos em cenários de emergência. Prevê a aquisição centralizada de medicamentos e outros bens e equipamentos, armazenamento e reserva central e regional, monitorização de stocks e articulação entre os vários intervenientes do setor. Complementarmente, inclui o planeamento nacional das terapias críticas e a monitorização de doentes e consumíveis, assegurando a continuidade assistencial em situações de disrupção das cadeias de abastecimento. A nível estratégico, contribui para a resiliência do sistema de saúde, garantindo que os cuidados mais críticos e os bens essenciais permanecem acessíveis à população em cenários de catástrofe, pandemia ou interrupção logística, reforçando a capacidade de resposta e a autonomia do sistema nacional de saúde.
 
-| Alargamento do Fundo de Emergência Municipal | Alargamento do Fundo de Emergência Municipal | Alargamento do Fundo de Emergência Municipal |
+| Alargamento do Fundo de Emergência Municipal |  |  |
 | --- | --- | --- |
 | Custo (M€): 300 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida visa repensar a estrutura do Fundo de Emergência Municipal, particularmente no que diz respeito à sua dotação financeira e aos critérios de elegibilidade, garantindo maior transparência, equidade territorial e capacidade de resposta rápida às necessidades dos territórios afetados. Inclui incentivos a abordagens de prevenção e adaptação face aos riscos. Complementarmente, prevê a criação de um Centro de Dados Territoriais, integrando informação atualizada e interoperável, que permita uma avaliação precisa de riscos e necessidades municipais, dimensionando o Fundo para prevenção e resposta eficaz a calamidades. A nível estratégico, contribui para o robustecimento dos mecanismos de seguro e solidariedade de apoio aos municípios, assegurando que os recursos estão disponíveis e adequadamente distribuídos para proteger as comunidades locais.
 
-| Revisão do Regime de Seguros para Catástrofes, criação de um Fundo de catástrofes naturais e sísmicas e de um seguro obrigatório | Revisão do Regime de Seguros para Catástrofes, criação de um Fundo de catástrofes naturais e sísmicas e de um seguro obrigatório | Revisão do Regime de Seguros para Catástrofes, criação de um Fundo de catástrofes naturais e sísmicas e de um seguro obrigatório |
+| Revisão do Regime de Seguros para Catástrofes, criação de um Fundo de catástrofes naturais e sísmicas e de um seguro obrigatório |  |  |
 | --- | --- | --- |
 | Custo (M€): 20 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
@@ -946,19 +955,19 @@ Estas medidas consolidam a capacidade do país para proteger as pessoas, os serv
 
 Tabela 15 - Medidas associadas ao domínio «Conectividade»
 
-| Programa «Freguesias Ligadas» | Programa «Freguesias Ligadas» | Programa «Freguesias Ligadas» |
+| Programa «Freguesias Ligadas» |  |  |
 | --- | --- | --- |
 | Custo (M€): 46 | Tipologia: Investimento | Horizonte Temporal: Curto prazo |
 
 Descrição: A medida consiste na implementação de um programa nacional que dota todas as Juntas de Freguesia de um conjunto mínimo de meios de comunicação redundantes, um telefone SIRESP, um telefone-satélite e uma ligação de dados Starlink, assegurando a manutenção das comunicações locais mesmo em cenários de falha das infraestruturas terrestres até 2026. O programa inclui a aquisição, distribuição, ativação e configuração dos equipamentos, bem como formação básica para as equipas locais, garantindo a sua utilização adequada em situações de emergência. Pretende-se criar um nível uniforme de resiliência comunicacional no território, permitindo que cada freguesia mantenha contacto direto com autoridades de proteção civil, serviços municipais e estruturas de resposta operacional. Esta medida reforça significativamente a capacidade de coordenação, apoio às populações e continuidade de informação durante eventos climáticos extremos, interrupções prolongadas de energia ou falhas nas redes de telecomunicações convencionais.
 
-| Revisão e desenvolvimento dos procedimentos de comunicação de catástrofe à população | Revisão e desenvolvimento dos procedimentos de comunicação de catástrofe à população | Revisão e desenvolvimento dos procedimentos de comunicação de catástrofe à população |
+| Revisão e desenvolvimento dos procedimentos de comunicação de catástrofe à população |  |  |
 | --- | --- | --- |
 | Custo (M€): 12 | Tipologia: Instrumento de planeamento | Horizonte Temporal: Médio prazo |
 
 Descrição: Revisão e desenvolvimento de um modelo integrado de comunicação de crise, assegurando a coordenação entre Governo, proteção civil, entidades públicas e meios de comunicação social, e a utilização eficaz de canais institucionais e digitais. A medida inclui: (i) definição e normalização de procedimentos de comunicação em situações de emergência, com protocolos claros de articulação institucional e gestão da informação; (ii) desenvolvimento de planos de comunicação de crise e produção de conteúdos de sensibilização e comunicação do risco; (iii) reforço de capacidades técnicas e operacionais, incluindo meios de produção e difusão de informação; (iv) capacitação das entidades responsáveis e realização de exercícios e simulacros. Prevê ainda a adaptação dos procedimentos a contextos específicos, nomeadamente setores com elevada exposição, públicos vulneráveis ou infraestruturas críticas, assegurando a adequação das mensagens e dos canais utilizados.
 
-| Reforço das capacidades de comando, ciberdefesa e comunicações | Reforço das capacidades de comando, ciberdefesa e comunicações | Reforço das capacidades de comando, ciberdefesa e comunicações |
+| Reforço das capacidades de comando, ciberdefesa e comunicações |  |  |
 | --- | --- | --- |
 | Custo (M€): 31 | Tipologia: Investimento | Horizonte Temporal: Longo prazo |
 
@@ -966,25 +975,25 @@ Descrição: A medida reúne um conjunto de iniciativas estratégicas destinadas
 
 Ao integrar esforços dispersos numa abordagem coordenada, esta medida contribui para consolidar uma capacidade de comando mais robusta, melhorar a proteção dos sistemas de informação e garantir comunicações seguras e eficazes em qualquer cenário.
 
-| Implementação de um sistema de alerta público com base na tecnologia Cell Broadcast | Implementação de um sistema de alerta público com base na tecnologia Cell Broadcast | Implementação de um sistema de alerta público com base na tecnologia Cell Broadcast |
+| Implementação de um sistema de alerta público com base na tecnologia Cell Broadcast |  |  |
 | --- | --- | --- |
 | Custo (M€): 11 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
 Descrição: Implementação de um sistema nacional de alerta público baseado na tecnologia Cell Broadcast, permitindo o envio imediato e massivo de mensagens de aviso para dispositivos móveis localizados em áreas geográficas específicas, em situações de emergência ou catástrofe. A medida inclui o desenvolvimento e operacionalização da plataforma tecnológica, a integração com as redes dos operadores de comunicações eletrónicas e a definição de protocolos de ativação, em articulação com as autoridades de proteção civil e entidades responsáveis pela gestão de crises. Prevê igualmente a harmonização do enquadramento institucional e regulamentar, assegurando a sua aplicação consistente em todo o território, incluindo regiões autónomas. Complementarmente, integra ações de capacitação das entidades operacionais e de sensibilização da população para a correta interpretação e resposta aos alertas. Trata-se de uma iniciativa que estabelece um canal de comunicação direto, robusto e fiável entre o Estado e os cidadãos, reforçando a eficácia da resposta em situações de risco.
 
-| Regulação do roaming nacional temporário e de partilha de infraestrutura entre operadores | Regulação do roaming nacional temporário e de partilha de infraestrutura entre operadores | Regulação do roaming nacional temporário e de partilha de infraestrutura entre operadores |
+| Regulação do roaming nacional temporário e de partilha de infraestrutura entre operadores |  |  |
 | --- | --- | --- |
 | Custo (M€): NA | Tipologia: Reforma | Horizonte Temporal: Curto prazo |
 
 Definição: A medida visa a criação e implementação de um quadro legal que estabeleça a obrigatoriedade de acordos prévios entre operadores de telecomunicações para garantir roaming nacional temporário e partilha de infraestrutura em situações de perturbação da rede ou emergência, respeitando o quadro normativo europeu e concorrencial. Inclui a definição de condições técnicas, regras de ativação, responsabilidades operacionais e mecanismos de compensação entre operadores. Complementarmente, prevê a harmonização regulatória, a definição de requisitos de redundância operacional e a criação de processos de supervisão pelas entidades competentes. A nível estratégico, reforça a resiliência do ecossistema nacional de comunicações, assegurando que falhas localizadas não comprometem serviços essenciais e permitindo respostas coordenadas em cenários de catástrofe, eventos meteorológicos severos ou interrupções significativas da infraestrutura até 2026.
 
-| Revisão de normas técnicas e a exigência de planos de continuidade das operadoras de telecomunicações | Revisão de normas técnicas e a exigência de planos de continuidade das operadoras de telecomunicações | Revisão de normas técnicas e a exigência de planos de continuidade das operadoras de telecomunicações |
+| Revisão de normas técnicas e a exigência de planos de continuidade das operadoras de telecomunicações |  |  |
 | --- | --- | --- |
 | Custo (M€): NA | Tipologia: Instrumento de planeamento | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida visa reforçar a resiliência das redes de telecomunicações através da obrigatoriedade de os operadores elaborarem e atualizarem anualmente planos de continuidade de negócio, garantindo a identificação de riscos, mecanismos de redundância e procedimentos de resposta e recuperação validados pela ANACOM, bem como a implementação ou modernização de sistemas energéticos, nomeadamente do sistema POACCS. Complementarmente, prevê a criação de normas técnicas nacionais para a construção e instalação de antenas e cell units, assegurando requisitos mínimos de resistência estrutural face a fenómenos meteorológicos extremos. A nível estratégico, estas ações harmonizam práticas do setor, fortalecem a robustez das infraestruturas e garantem a continuidade dos serviços essenciais em emergências, contribuindo para a proteção das comunicações críticas e a capacidade de resposta coordenada do sistema nacional de telecomunicações perante cenários de catástrofe ou disrupção.
 
-| Reforço do atendimento Omni canal em situação de calamidade com a criação de uma Plataforma Digital de Gestão de Calamidades | Reforço do atendimento Omni canal em situação de calamidade com a criação de uma Plataforma Digital de Gestão de Calamidades | Reforço do atendimento Omni canal em situação de calamidade com a criação de uma Plataforma Digital de Gestão de Calamidades |
+| Reforço do atendimento Omni canal em situação de calamidade com a criação de uma Plataforma Digital de Gestão de Calamidades |  |  |
 | --- | --- | --- |
 | Custo (M€): 25 | Tipologia: Investimento | Horizonte Temporal: Curto prazo |
 
@@ -992,19 +1001,19 @@ Descrição: A medida consiste na criação de uma Plataforma Digital de Gestão
 
 Será assegurado um atendimento omnicanal, garantindo uma resposta integrada entre canais digitais e presenciais, através de unidades móveis nos territórios afetados e reforço da rede de Espaços e Lojas do Cidadão para assegurar apoio de proximidade no terreno.
 
-| Reforço das capacidades digitais dos municípios para a resposta a calamidades | Reforço das capacidades digitais dos municípios para a resposta a calamidades | Reforço das capacidades digitais dos municípios para a resposta a calamidades |
+| Reforço das capacidades digitais dos municípios para a resposta a calamidades |  |  |
 | --- | --- | --- |
 | Custo (M€): 50 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida visa o reforço das capacidades digitais e tecnológicas dos municípios para resposta a situações de calamidade, assegurando as condições necessárias para uma atuação célere, coordenada e baseada em dados, bem como para a integração e utilização da Plataforma Digital de Gestão de Calamidades. Inclui a aquisição e modernização de equipamentos informáticos e infraestruturas tecnológicas, designadamente soluções de suporte à gestão operacional e territorial, incluindo plataformas de gestão urbana, sistemas de monitorização e ferramentas digitais de apoio à decisão, garantindo níveis adequados de desempenho, segurança e continuidade operacional. Prevê ainda a disponibilização de soluções digitais e ferramentas de inteligência artificial, bem como a integração dos sistemas municipais com plataformas nacionais, assegurando interoperabilidade e partilha de dados em tempo real. Inclui ações de capacitação técnica e formação, garantindo a adoção efetiva das soluções e o reforço das competências locais. A medida contribui para reforçar a resiliência digital do poder local e assegurar uma resposta mais eficaz e articulada em situações de calamidade.
 
-| Reforço do sistema nacional de comunicações de emergência | Reforço do sistema nacional de comunicações de emergência | Reforço do sistema nacional de comunicações de emergência |
+| Reforço do sistema nacional de comunicações de emergência |  |  |
 | --- | --- | --- |
 | Custo (M€): 29 | Tipologia: Reforma | Horizonte Temporal: Curto prazo |
 
 Descrição: Desenvolvimento e implementação de uma solução evolutiva para o sistema nacional de comunicações de emergência (SIRESP), garantindo maior robustez, interoperabilidade e resiliência operacional. A medida inclui modernização tecnológica da rede, reforço da redundância de comunicações, melhoria da cobertura territorial e integração com outros sistemas de emergência e proteção civil. Prevê ainda a adaptação da arquitetura tecnológica às necessidades futuras das forças e serviços de segurança, proteção civil e outras infraestruturas como estabelecimentos prisionais, assegurando a continuidade e fiabilidade das comunicações críticas em cenários de emergência, até 2026.
 
-| Disaster Recovery Hub | Disaster Recovery Hub | Disaster Recovery Hub |
+| Disaster Recovery Hub |  |  |
 | --- | --- | --- |
 | Custo (M€): 5 | Tipologia: Investimento | Horizonte Temporal: Curto prazo |
 
@@ -1022,37 +1031,37 @@ Estas medidas contribuem para consolidar a capacidade do país para proteger inf
 
 Tabela 16 - Medidas associadas ao domínio «Sistema de emergência e proteção civil»
 
-| Reforma do sistema nacional de Proteção Civil | Reforma do sistema nacional de Proteção Civil | Reforma do sistema nacional de Proteção Civil |
+| Reforma do sistema nacional de Proteção Civil |  |  |
 | --- | --- | --- |
 | Custo (M€): 29 | Tipologia: Reforma | Horizonte Temporal: Curto prazo |
 
 Descrição: A medida visa reforçar a capacidade de coordenação, intervenção e apoio do Sistema Nacional de Proteção Civil. Contempla a revisão da orgânica da Autoridade Nacional de Emergência e Proteção Civil (ANEPC), clarificando o seu papel como entidade de coordenação, regulação, financiamento e operação de meios estratégicos nacionais. Inclui a criação da carreira de Bombeiro e o reforço das Equipas de Intervenção Permanente, reduzindo a dispersão de competências e reforçando a capacidade municipal de resposta até 2026.
 
-| Reforço da capacidade técnica e operacional da Proteção Civil | Reforço da capacidade técnica e operacional da Proteção Civil | Reforço da capacidade técnica e operacional da Proteção Civil |
+| Reforço da capacidade técnica e operacional da Proteção Civil |  |  |
 | --- | --- | --- |
 | Custo (M€): 300 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
 Descrição: Prevê a modernização tecnológica e operacional, com renovação de equipamentos e veículos, digitalização de sistemas e criação de estruturas integradas de comando e resposta multirriscos, incluindo o reforço das Forças Especiais de Proteção Civil. A nível estratégico, abrange a melhoria da resposta coordenada e a articulação entre ANEPC, Bombeiros, Forças Armadas, Forças e Serviços de Segurança e Municípios, contribuindo para um sistema de proteção civil mais eficaz e resiliente.
 
-| Reforço da capacidade de coordenação e de resposta institucional em situações de emergência | Reforço da capacidade de coordenação e de resposta institucional em situações de emergência | Reforço da capacidade de coordenação e de resposta institucional em situações de emergência |
+| Reforço da capacidade de coordenação e de resposta institucional em situações de emergência |  |  |
 | --- | --- | --- |
 | Custo (M€): 33 | Tipologia:Instrumento de planeamento | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida visa reforçar a capacidade de coordenação e intervenção do Governo e da Administração Pública perante situações de emergência. Prevê o desenvolvimento de estruturas centrais e setoriais de comando e coordenação, como o CORGOV, a implementação de sistemas integrados de gestão de crises e o reforço das comunicações de emergência com soluções redundantes. Promove a articulação interministerial e a definição de protocolos de atuação conjunta, assegurando uma cadeia de comando clara e operacional em cenários de catástrofe. A nível estratégico, contribui para a eficácia e rapidez da resposta governamental, garantindo a continuidade das funções essenciais do Estado, a proteção das populações e a mobilização coordenada de recursos públicos em situações de crise de âmbito nacional ou regional.
 
-| Aprovação e implementação da Estratégia Nacional para as Infraestruturas Críticas | Aprovação e implementação da Estratégia Nacional para as Infraestruturas Críticas | Aprovação e implementação da Estratégia Nacional para as Infraestruturas Críticas |
+| Aprovação e implementação da Estratégia Nacional para as Infraestruturas Críticas |  |  |
 | --- | --- | --- |
 | Custo (M€): 470 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida visa reforçar o investimento orientado para a resiliência das infraestruturas críticas. Prevê o financiamento e priorização de investimentos, a definição de critérios de elegibilidade, o acompanhamento da execução e a articulação institucional. O instrumento assume a forma de apoio financeiro dirigido ao reforço da resiliência das infraestruturas críticas de âmbito nacional. A nível estratégico, contribui para a proteção dos serviços essenciais e a continuidade operacional em cenários de crise, destinando-se a entidades críticas e entidades públicas com responsabilidades de coordenação e apoio. A medida visa ainda reforçar a resiliência das infraestruturas críticas do Estado, incluindo a sede dos órgãos de soberania. É operacionalizada por um conjunto integrado de investimentos que reforçam a coordenação e a capacidade de resposta em crise, nomeadamente através de sistemas projetáveis de comando, controlo e comunicações, da resiliência energética e estrutural de infraestruturas essenciais como faróis, vias rodoviárias, como a Via Expresso Arco de São Jorge-Boaventura e de instrumentos financeiros orientados para a adaptação a riscos extremos (cheias, sismos, vento e falhas energéticas).
 
-| Reforço de infraestruturas e capacidades para defesa e proteção civil | Reforço de infraestruturas e capacidades para defesa e proteção civil | Reforço de infraestruturas e capacidades para defesa e proteção civil |
+| Reforço de infraestruturas e capacidades para defesa e proteção civil |  |  |
 | --- | --- | --- |
 | Custo (M€): 350 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
 Descrição: A medida visa apoiar projetos que reforcem a resiliência nacional através de infraestruturas e capacidades com utilidade simultânea em contexto de defesa e de proteção civil. A intervenção organiza-se em duas tipologias complementares: i) Infraestruturas e Bases de Operações - Inclui investimentos destinados a modernizar, ampliar ou criar infraestruturas críticas que sirvam como pontos de comando, apoio logístico e operações conjuntas. Abrange, por exemplo infraestruturas aeronáuticas e centros de operações e comando, preparados para articulação interagências em contexto de catástrofes; ii) Capacidade Médica e Sanitária - Reúne investimentos focados no reforço da resposta clínica, logística médica e capacidade de atendimento em larga escala.
 
-| Reforço do emprego das Forças Armadas em cenários de contingência em território nacional | Reforço do emprego das Forças Armadas em cenários de contingência em território nacional | Reforço do emprego das Forças Armadas em cenários de contingência em território nacional |
+| Reforço do emprego das Forças Armadas em cenários de contingência em território nacional |  |  |
 | --- | --- | --- |
 | Custo (M€): 185 | Tipologia: Investimento | Horizonte Temporal: Médio prazo |
 
@@ -1068,7 +1077,8 @@ O investimento global associado aos pilares Proteger e Responder do PTRR é esti
 
 Tabela 17 - Financiamento
 
-![](https://files.diariodarepublica.pt/images/1128669414/1128462065.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1128669414/1128462065.png) |
+| --- |
 
 A componente pública do financiamento será assegurada através de uma combinação faseada e complementar de fontes nacionais e europeias, em função da natureza das intervenções, do seu grau de maturidade e do respetivo horizonte temporal. Inclui-se, designadamente, a mobilização dos programas do Portugal 2030, do PRR e do próximo QFP, bem como do Orçamento do Estado, enquanto fonte última de garantia da execução das prioridades estratégicas definidas, do Fundo Ambiental, da Global Parques e das Águas de Portugal.
 
@@ -1150,7 +1160,8 @@ O processo de elaboração do PTRR assentou em canais complementares de consulta
 
 Tabela 18 - Entidades e instâncias previstas para auscultação
 
-![](https://files.diariodarepublica.pt/images/1128669414/1128462066.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1128669414/1128462066.png) |
+| --- |
 
 8.4.1 - Consulta pública.
 
@@ -1164,7 +1175,8 @@ Os contributos foram analisados segundo duas abordagens complementares: indutiva
 
 Figura 1 - Contributos por tipo de entidade (plataforma)
 
-![](https://files.diariodarepublica.pt/images/1128669414/1128462067.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1128669414/1128462067.png) |
+| --- |
 
 8.4.2 - Auscultação institucional, territorial e setorial.
 
@@ -1176,6 +1188,10 @@ Através de 72 reuniões setoriais e territoriais, realizadas entre 27 de fevere
 
 Em paralelo à auscultação externa, a REPLAN assegurou a recolha de contributos internos da Administração Pública, quer através do debate sobre domínios estratégicos para a próxima década, quer através da apresentação de fichas de medida. Estas fichas seguiram uma estrutura comum, incluindo descrição, horizonte temporal, natureza da intervenção, entidade responsável e, quando aplicável, elementos de custo e indicadores. Este acervo constituiu uma base relevante para a consolidação técnica do PTRR e para o reforço da articulação com instrumentos de planeamento em vigor.
 
-(<sup>1</sup>) Os valores apresentados nesta secção devem ser vistos como primeiras estimativas, uma vez que ainda está a decorrer o processo de inventariação dos danos.
+(1) Os valores apresentados nesta secção devem ser vistos como primeiras estimativas, uma vez que ainda está a decorrer o processo de inventariação dos danos.
 
-(<sup>2</sup>) Portugal submeteu, no passado dia 13 de abril, a candidatura ao FSUE. Considerando a aceitabilidade dos prejuízos identificados é esperado uma contribuição próxima dos 250 milhões de euros do FSUE.
+(2) Portugal submeteu, no passado dia 13 de abril, a candidatura ao FSUE. Considerando a aceitabilidade dos prejuízos identificados é esperado uma contribuição próxima dos 250 milhões de euros do FSUE.
+
+119948648
+
+.Tbl2 { min-height:25px; } .Tbl3 { background-color:rgb(48,56,128); } .Tbl4 { color:rgb(255,255,255); text-indent:0px; text-align:center; } .Tbl5 { height:26px; } .Tbl6 { border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(48,56,128); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:23px; } .Tbl8 { border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(0,157,224); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl9 { text-indent:0px; } .Tbl10 { border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(0,157,224); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl11 { border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(0,157,224); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl12 { height:34px; } .Tbl13 { min-height:26px; } .Tbl14 { height:29px; }

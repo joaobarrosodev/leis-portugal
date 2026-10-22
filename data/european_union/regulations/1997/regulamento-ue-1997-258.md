@@ -35,6 +35,71 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-08-07'
+version_history:
+  file: regulamento-ue-1997-258.versoes.json
+  count: 3
+  source_lastmod: '2009-08-07'
+  versions:
+  - date: '1997-02-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-01-20'
+    amending: eu:celex:32003R1829:por
+    amending_title: REGULAMENTO (CE) N. o 1829/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Setembro de 2003; REGULAMENTO
+      (CE) N. o 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003; REGULAMENTO (CE) N. o 1332/2008 DO
+      PARLAMENTO EUROPEU E DO CONSELHO de 16 de Dezembro de 2008
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Notas
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º — As normas de protecção dos dados fornecidos pelo requerente serão adoptadas nos termos do artigo
+      13º
+    - Suprime Artigo 11º
+    - Suprime Artigo 12º
+    - Suprime Artigo 13º
+    - Suprime Artigo 14º
+    - Suprime Artigo 15º
+  - date: '2009-08-07'
+    amending: null
+    amending_title: Regulamento (CE) n. o 1829/2003 do Parlamento Europeu e do Conselho de 22 de Setembro de 2003; Regulamento
+      (CE) n. o 1882/2003 do Parlamento Europeu e do Conselho de 29 de Setembro de 2003; Regulamento (CE) n. o 1332/2008 do
+      Parlamento Europeu e do Conselho de 16 de Dezembro de 2008; Regulamento (CE) n. o 596/2009 do Parlamento Europeu e do
+      Conselho de 18 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Notas
 identifiers:
   celex: 31997R0258
   eli: http://data.europa.eu/eli/reg/1997/258/oj
@@ -49,7 +114,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f70927b0-8f64-4bad-b142-82a6f8f96e11.0011
   content_url: http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997R0258-20090807
-  retrieved_at: '2026-10-22T02:47:05Z'
+  retrieved_at: '2026-10-22T17:38:04Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-12-22T22:24:07.803+01:00'
 integrity:
@@ -58,9 +123,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:05Z'
-  notes: Texto consolidado 01997R0258-20090807.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:38:04Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-1997-258.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -237,32 +302,22 @@ relationships:
   date: '2015-12-11'
 article_structure:
   article_count: 14
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:05Z'
-  warnings: []
+  checked_at: '2026-10-22T17:38:04Z'
+  warnings:
+  - '01997R0258-19970515: versão indisponível (Sem expressão na língua por para CELEX 01997R0258-19970515.)'
+  - '01997R0258-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01997R0258-20040418: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CE) nº 258/97 do Parlamento Europeu e do Conselho de 27 de Janeiro de 1997
-
-> 1997R0258 — PT — 07.08.2009 — 004.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/303R1829) — [Regulamento (CE) n.º 1829/2003 do Parlamento Europeu e do Conselho de 22 de Setembro de 2003](http://publications.europa.eu/resource/celex/303R1829) — L 268 — 1 — 18.10.2003
-- [►M2](http://publications.europa.eu/resource/celex/303R1882) — [Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho de 29 de Setembro de 2003](http://publications.europa.eu/resource/celex/303R1882) — L 284 — 1 — 31.10.2003
-- [►M3](http://publications.europa.eu/resource/celex/308R1332) — [Regulamento (CE) n.º 1332/2008 do Parlamento Europeu e do Conselho de 16 de Dezembro de 2008](http://publications.europa.eu/resource/celex/308R1332) — L 354 — 7 — 31.12.2008
-- [►M4](http://publications.europa.eu/resource/celex/309R0596) — [Regulamento (CE) n.º 596/2009 do Parlamento Europeu e do Conselho de 18 de Junho de 2009](http://publications.europa.eu/resource/celex/309R0596) — L 188 — 14 — 18.7.2009
-
-## REGULAMENTO (CE) N.º 258/97 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 27 de Janeiro de 1997
 

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44660-1962-156263
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-11-02T00:00:00Z'
+  retrieved_at: '2026-10-22T19:31:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0af9be95a0682967ac8c337db58a4fb4ef82b5ead8e72d012c30543d0988c0d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6cf018bc1645a0958bba7f14d6c443cccc84098eaab7aa2b780b5bc73b777bc7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:31:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:178862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:31:49Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +100,7 @@ Por motivo de urgência e de harmonia com o disposto no § 1.º do artigo 150.º
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os funcionários públicos do Estado Português da Índia, de nomeação definitiva, provisória ou com contrato de provimento, que, à data da publicação do presente diploma no Diário do Governo, se encontram na metrópole ou nas outras províncias ultramarinas a aguardar colocação em virtude dos acontecimentos ocorridos naquele Estado poderão optar por qualquer das seguintes situações:
+Artigo 1.º Os funcionários públicos do Estado Português da Índia, de nomeação definitiva, provisória ou com contrato de provimento, que, à data da publicação do presente diploma no Diário do Governo, se encontram na metrópole ou nas outras províncias ultramarinas a aguardar colocação em virtude dos acontecimentos ocorridos naquele Estado poderão optar por qualquer das seguintes situações:
 
 1.º Pela aposentação, desde que satisfaçam os requisitos da lei e tenham, pelo menos, 40 anos de idade e 15 de serviço público;
 
@@ -104,9 +108,9 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § único. A declaração de opção deverá dar entrada no Ministério do Ultramar dentro do prazo improrrogável de 60 dias, contado da data do presente decreto.
 
-###### Art. 2.º A aposentação requerida nos termos do artigo anterior será provisória enquanto a respectiva pensão não puder ser paga pela competente dotação do capítulo 3.º da tabela de despesa ordinária dos orçamentos gerais das províncias ultramarinas, na proporção legalmente estabelecida. No entretanto o pagamento realizar-se-á, na mesma proporção, pelas competentes verbas de duplicação de vencimentos dos mesmos orçamentos.
+Art. 2.º A aposentação requerida nos termos do artigo anterior será provisória enquanto a respectiva pensão não puder ser paga pela competente dotação do capítulo 3.º da tabela de despesa ordinária dos orçamentos gerais das províncias ultramarinas, na proporção legalmente estabelecida. No entretanto o pagamento realizar-se-á, na mesma proporção, pelas competentes verbas de duplicação de vencimentos dos mesmos orçamentos.
 
-###### Art. 3.º A situação de prestação de serviço a que se refere o n.º 2.º do artigo 1.º será determinada por simples despacho do Ministro do Ultramar e sem obediência a quaisquer outras formalidades.
+Art. 3.º A situação de prestação de serviço a que se refere o n.º 2.º do artigo 1.º será determinada por simples despacho do Ministro do Ultramar e sem obediência a quaisquer outras formalidades.
 
 § 1.º Esta situação terá a duração máxima de três anos, contados da data da chegada à província, e poderá ser determinada independentemente da existência de vaga.
 
@@ -114,7 +118,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § 3.º Nesta situação o funcionário fica adstrito ao serviço onde foi colocado por despacho ministerial até que decorra o prazo referido no § 1.º deste artigo, seja aposentado nos termos do artigo 7.º ou seja investido em lugar dos quadros nos termos do artigo 8.º
 
-###### Art. 4.º A situação da prestação de serviço dará direito ao seguinte:
+Art. 4.º A situação da prestação de serviço dará direito ao seguinte:
 
 1.º Passagem para si e sua família à custa da província onde o funcionário for colocado, nos termos legais;
 
@@ -128,17 +132,17 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § único. A prestação de serviço não prejudica, durante o prazo legal dela, a colocação dos funcionários em vagas da sua categoria, nos precisos termos do artigo 10.º do [Decreto n.º 44142](https://diariodarepublica.pt/dr/detalhe/decreto/44142-1961-178862), de 30 de Dezembro de 1961.
 
-###### Art. 5.º Os funcionários mandados prestar serviço ao abrigo deste diploma ficam sujeitos a todos os deveres e obrigações estabelecidos para os demais funcionários públicos da respectiva província.
+Art. 5.º Os funcionários mandados prestar serviço ao abrigo deste diploma ficam sujeitos a todos os deveres e obrigações estabelecidos para os demais funcionários públicos da respectiva província.
 
-###### Art. 6.º Os vencimentos e mais remunerações legais devidos aos funcionários no regime de prestação de serviço de que trata o n.º 2.º do artigo 1.º serão pagos pelas disponibilidades das respectivas verbas do pessoal do serviço ou organismo onde prestam serviço, ou, na falta delas, por verba a inscrever sob a rubrica «Pessoal além dos quadros, nos termos do artigo 6.º do Decreto n.º 44660».
+Art. 6.º Os vencimentos e mais remunerações legais devidos aos funcionários no regime de prestação de serviço de que trata o n.º 2.º do artigo 1.º serão pagos pelas disponibilidades das respectivas verbas do pessoal do serviço ou organismo onde prestam serviço, ou, na falta delas, por verba a inscrever sob a rubrica «Pessoal além dos quadros, nos termos do artigo 6.º do Decreto n.º 44660».
 
-###### Art. 7.º Sem prejuízo dos direitos dos funcionários já graduados ou classificados em concursos ainda em termos de validade, os funcionários na situação de prestação de serviço e durante o prazo da duração terão, além dos direitos concedidos por este diploma, preferência absoluta no provimento de lugares em que legalmente possam ser colocados.
+Art. 7.º Sem prejuízo dos direitos dos funcionários já graduados ou classificados em concursos ainda em termos de validade, os funcionários na situação de prestação de serviço e durante o prazo da duração terão, além dos direitos concedidos por este diploma, preferência absoluta no provimento de lugares em que legalmente possam ser colocados.
 
-###### Art. 8.º Os funcionários que, dentro do prazo legal, não fizerem e derem destino à declaração de opção de que trata o artigo 1.º serão colocados imediatamente ao termo do mesmo prazo na situação de licença ilimitada.
+Art. 8.º Os funcionários que, dentro do prazo legal, não fizerem e derem destino à declaração de opção de que trata o artigo 1.º serão colocados imediatamente ao termo do mesmo prazo na situação de licença ilimitada.
 
-###### Art. 9.º As dúvidas que se suscitarem na execução deste decreto serão resolvidas por despacho do Ministro do Ultramar.
+Art. 9.º As dúvidas que se suscitarem na execução deste decreto serão resolvidas por despacho do Ministro do Ultramar.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Novembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

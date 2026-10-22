@@ -47,25 +47,33 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/20/2026/09/07/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2026-1167773580
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-07T00:00:00Z'
+  retrieved_at: '2026-10-22T18:52:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: faed439aff7e50ccd280c5f165db0b97159b75f59f74b6d880dd149823520ac5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a2b4b41853cee97bfad6f1c1534ead5f340525956b3bd8f482cefa7eba0d772
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:52:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Cuidados Médicos
+- Doença de Machado-joseph
+- Doente Crónico
+- Equipamento de Saúde
+- Equipamento Médico
+- Regulamentação de Atos Legislativos
+- Regulamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/4/2015/01/07/p/dre
@@ -83,16 +91,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/39/2023/11/23/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/39/2023/11/23/a/dre
+- type: cites
+  target: pt:dre:224661317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
 article_structure:
   article_count: 41
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:52:39Z'
   warnings: []
   errors: []
 ---
@@ -129,11 +153,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 20 de agosto de 2026.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 1 de setembro de 2026.**
+Assinado em Angra do Heroísmo em 1 de setembro de 2026.
 
-**Publique-se.**
+Publique-se.
 
 A Representante da República para a Região Autónoma dos Açores, Susana Goulart Costa.
 
@@ -605,7 +629,7 @@ g) Identificação do IBAN.
 
 2 - O contrato é elaborado em triplicado, ficando um exemplar com o indivíduo diagnosticado com a doença de Machado-Joseph, que receba apoios específicos na prestação de cuidados, na modalidade de cuidador ao domicílio, ou seu representante legal, um com o cuidador ao domicílio e outro com o departamento do Governo Regional competente em matéria de solidariedade e segurança social, igualdade e inclusão social.
 
-3 - O contrato de prestação de serviços e cuidados cessa nos termos previstos nos n.<sup>os</sup>3, 4 e 5 do artigo 12.º do [Decreto Legislativo Regional n.º 39/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-224661317), de 23 de novembro.
+3 - O contrato de prestação de serviços e cuidados cessa nos termos previstos nos n.os3, 4 e 5 do artigo 12.º do [Decreto Legislativo Regional n.º 39/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-224661317), de 23 de novembro.
 
 4 - O pagamento dos serviços contratados, nos termos do PIC, pelo indivíduo diagnosticado com a doença de Machado-Joseph, é realizado por transferência bancária do mesmo ao respetivo cuidador ao domicílio.
 
@@ -719,13 +743,15 @@ Em tudo o que não se encontre previsto no presente regulamento, é subsidiariam
 
 Formulário para requerer o Apoio na Prestação de Cuidados
 
-![](https://files.diariodarepublica.pt/images/1167773580/1167773503.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1167773580/1167773503.png) |
+| --- |
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 15.º)
 
 Critérios de Ponderação e Instrumentos de Avaliação Multidimensional
 
-![](https://files.diariodarepublica.pt/images/1167773580/1167773504.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1167773580/1167773504.png) |
+| --- |
 
 ## ANEXO III — (a que se refere o n.º 6 do artigo 25.º)
 
@@ -745,17 +771,17 @@ Plano Individual de Cuidados (PIC)
 |  |  |  |
 | Atividades do quotidiano | Tratamento da roupa |  |
 |  | Apoio nas deslocações |  |
-|  | Apoio na aquisição de bens e serviços |  |
-|  | Higiene habitacional, estritamente necessária à natureza dos cuidados prestados |  |
-|  | Realização de visitas ou permanência no domicílio |  |
-|  | Atividades que implicam a deslocação do domicílio à comunidade |  |
+| Apoio na aquisição de bens e serviços |  |  |
+| Higiene habitacional, estritamente necessária à natureza dos cuidados prestados |  |  |
+| Realização de visitas ou permanência no domicílio |  |  |
+| Atividades que implicam a deslocação do domicílio à comunidade |  |  |
 |  |  |  |
 | Educação e formação | Apoio nas atividades intelectuais/formativas |  |
 | Relações interpessoais | Apoio à manutenção e/ou fomento das relações familiares e interpessoais |  |
 |  |  |  |
 | Outros cuidados/serviços não especificados, mas essenciais | [...] |  |
 |  |  |  |
-| 1) Identificação do beneficiário:2) N.º de processo da candidatura:3) Início e fim da prestação de serviços:4) Identificação e contacto do familiar ou representante legal: | 1) Identificação do beneficiário:2) N.º de processo da candidatura:3) Início e fim da prestação de serviços:4) Identificação e contacto do familiar ou representante legal: |  |
+| 1) Identificação do beneficiário:2) N.º de processo da candidatura:3) Início e fim da prestação de serviços:4) Identificação e contacto do familiar ou representante legal: |  |  |
 | Anexos:[...];Data: [...] /Assinatura [...] |  |  |
 
 ## ANEXO IV — (a que se refere o n.º 5 do artigo 28.º)
@@ -768,7 +794,7 @@ A Secretaria Regional ___, representada no ato por___, NIPC___, no uso das compe
 
 E
 
-(nome)<sup>1</sup>, ___, portador do Cartão de Cidadão com o n.º ___, válido até ___, residente em ___, na freguesia de ___, concelho de ___, beneficiário do direito a cuidador ao domicílio, adiante designado por Segundo Outorgante, ciente do conteúdo do [Decreto Legislativo Regional n.º 39/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-224661317), de 23 de novembro, e do Decreto Regulamentar Regional n.º [...], (nomeou ou foi-lhe atribuído) o seguinte cuidador ao domicílio: (nome), ___,
+(nome)1, ___, portador do Cartão de Cidadão com o n.º ___, válido até ___, residente em ___, na freguesia de ___, concelho de ___, beneficiário do direito a cuidador ao domicílio, adiante designado por Segundo Outorgante, ciente do conteúdo do [Decreto Legislativo Regional n.º 39/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-224661317), de 23 de novembro, e do Decreto Regulamentar Regional n.º [...], (nomeou ou foi-lhe atribuído) o seguinte cuidador ao domicílio: (nome), ___,
 
 E
 
@@ -1012,11 +1038,11 @@ O Terceiro Outorgante,
 
 ___
 
-## Anexo:
+Anexo:
 
 Plano Individual de Cuidados (PIC)
 
-<sup>1</sup> Do beneficiário ou do representante legal.
+1 Do beneficiário ou do representante legal.
 
 ## ANEXO V — (a que se refere o n.º 3 do artigo 35.º)
 
@@ -1028,7 +1054,7 @@ O Instituto da Segurança Social dos Açores, IPRA, NIPC n.º 510 928 897, com s
 
 E
 
-(nome)<sup>1</sup>, ___, portador do cartão de cidadão com o n.º ___, válido até ___, residente em ___, na freguesia de ___, concelho de ___, beneficiário do direito a subvenção ao acompanhante, na qualidade de indivíduo diagnosticado com a doença de Machado-Joseph, ciente do conteúdo do [Decreto Legislativo Regional n.º 39/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-224661317), de 23 de novembro, e do Decreto Regulamentar Regional n.º [...], nomeou o seguinte acompanhante:
+(nome)1, ___, portador do cartão de cidadão com o n.º ___, válido até ___, residente em ___, na freguesia de ___, concelho de ___, beneficiário do direito a subvenção ao acompanhante, na qualidade de indivíduo diagnosticado com a doença de Machado-Joseph, ciente do conteúdo do [Decreto Legislativo Regional n.º 39/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-224661317), de 23 de novembro, e do Decreto Regulamentar Regional n.º [...], nomeou o seguinte acompanhante:
 
 (nome), ___, portador do cartão de cidadão n.º___, válido até ___, residente em ___, na freguesia de ___, concelho de ___.
 
@@ -1164,4 +1190,8 @@ O Acompanhante,
 
 ___
 
-<sup>1</sup> Do beneficiário ou do representante legal.
+1 Do beneficiário ou do representante legal.
+
+119949514
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:26px; } .Tbl3 { background-color:rgb(128,128,128); } .Tbl4 { text-align:center; } .Tbl5 { min-height:18px; } .Tbl6 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(203,211,222); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(203,211,222); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(203,211,222); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl14 { min-height:28px; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl17 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl18 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl19 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl21 { min-height:64px; } .Tbl22 { min-height:49px; }

@@ -55,18 +55,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/413/2014/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/413-2014-25345583
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-06-26T00:00:00Z'
+  retrieved_at: '2026-10-22T18:24:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8582ab51e56588752926239fd6da31c32c8705ed6f6fcf00e7354a29b2585e38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ef39eeb54d7276a807780794eb12c506079845f8d68078749b11983bc1f91ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:24:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,22 +74,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
+- Administração Pública
 - Cálculo de Pensões
 - Complemento Especial de Pensão
 - Contribuição Especial
+- Desemprego
+- Doença
 - Empresa Pública
-- Administração Pública
-- Setor Empresarial do Estado
+- Função Pública
+- Funcionário Público
 - Inconstitucionalidade
 - Orçamento Geral do Estado
 - Pensão de Sobrevivência
 - Pensões
-- Desemprego
 - Remuneração
-- Doença
+- Setor Empresarial do Estado
 - Setor Público
-- Funcionário Público
 - Subsídio de Desemprego
 - Subsídio de Doença
 - Trabalhador
@@ -111,15 +111,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/83-c/2013/12/31/p/dre
 article_structure:
-  article_count: 4
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:24:28Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +172,7 @@ q) Para além disso, também a eventual violação do princípio da proteção d
 
 r) De facto, as reduções remuneratórias incidindo exclusivamente sobre os trabalhadores em funções públicas e das empresas públicas sempre haviam sido perspetivadas como transitórias e com um horizonte temporalmente delimitado e pré-estabelecido. E, na medida em que foi com essa pretensa natureza que não foram ab limine invalidadas pelo Tribunal Constitucional, o Estado fez criar nos cidadãos a convicção reiterada de que a normalidade remuneratória seria reposta no fim do PAEF.
 
-###### Artigo 75.º da LOE 2014
+Artigo 75.º da LOE 2014
 
 a) As normas do artigo 75.º da LOE contendem com o princípio da proteção da confiança, ínsito no princípio do Estado de direito (artigo 2.º), o princípio geral da igualdade (artigo 13.º, n.º 1), e o princípio da proporcionalidade, também decorrente do princípio do Estado de direito.
 
@@ -202,7 +202,7 @@ m) As normas do artigo 75.º da LOE 2014 violam também o princípio da proporci
 
 n) E há também violação do segmento da proporcionalidade em sentido estrito, uma vez que o sacrifício imposto, particularmente quando analisado pelo ângulo individual de cada uma das pessoas atingidas, é de tal forma intenso que não é justificado pela obtenção de ganhos de consolidação orçamental manifestamente escassos.
 
-###### Artigo 115.º da LOE 2014
+Artigo 115.º da LOE 2014
 
 a) As normas deste preceito ofendem o princípio da proporcionalidade (artigo 2.º) e o princípio da igualdade (artigo 13.º).
 
@@ -214,7 +214,7 @@ d) Que as prestações que são devidas, em execução do programa constituciona
 
 e) Invertendo a ordem de prioridades da proteção constitucional, atribui-se aqui, de forma repetida, a doentes e desempregados um tratamento "em pior", num contexto em que se desagravam outros e se reduz o esforço exigido noutras direções. Aliás, não tendo o legislador imposto a todos, a partir do valor mínimo considerado, contribuições adicionais específicas no valor de 10% a 12%, escolher doentes e desempregados para esse efeito ofende o princípio da proporcionalidade em várias das suas dimensões (nomeadamente o da necessidade) e ainda o princípio da igualdade, por aplicação - repetida e duplicada - de tratamento mais gravoso a quem é constitucionalmente merecedor de mais proteção.
 
-###### Artigo 117.º da LOE 2014
+Artigo 117.º da LOE 2014
 
 a) As normas do artigo 117.º da LOE contendem com o princípio da proteção da confiança, ínsito no princípio do Estado de direito (artigo 2.º), o princípio geral da igualdade (artigo 13.º, n.º 1), e o princípio da proporcionalidade, também decorrente do princípio do Estado de direito. Há ainda restrição do direito à propriedade, direito com natureza análoga aos direitos, liberdades e garantias, restrição essa que se deve entender como violadora do princípio da proporcionalidade.
 
@@ -1514,7 +1514,7 @@ Pensões de sobrevivência dos cônjuges e ex-cônjuges
 
 1 - As pensões de sobrevivência a atribuir a partir de 1 de janeiro de 2014, pela CGA e pelo CNP, aos cônjuges sobrevivos e aos membros sobrevivos de união de facto de contribuintes do regime de proteção social convergente ou beneficiários do regime geral de segurança social que percebam valor global mensal a título de pensão igual ou superior a (euro) 2000 são calculadas por aplicação das taxas de formação da pensão da seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/06/12100/0342003512.pdf))](https://files.diariodarepublica.pt/1s/2014/06/12100/0342003512.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0342003512.pdf)
 
 2 - Os valores da taxa de formação da pensão da tabela do número anterior aplicam-se, no âmbito do regime de proteção social convergente e do regime geral de segurança social, nos seguintes termos:
 

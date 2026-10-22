@@ -90,13 +90,25 @@ reuse:
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Compensação Financeira
+- Regime de Apoio
+- Regulamentação de Atos Legislativos
+- Situação de Calamidade
+- Tempestade Kristin
+- Temporal
 relationships:
 - type: amended_by
   target: pt:dre:1087226611:por
   label: Altera Artigo 4.º; Altera Artigo 9.º
   source: https://diariodarepublica.pt/dr/detalhe/portaria/181-2026-1087226611
   date: '2026-04-21'
+- type: amended_by
+  target: pt:dre:1148213690:por
+  label: Alterados, a partir de 16 de julho de 2026, os artigos 3.º e 9.º pelo(a) Portaria n.º 296-B/2026/1 - Diário da República
+    n.º 135/2026, Suplemento, Série I de 2026-07-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/296-b-2026-1148213690
+  date: '2026-07-14'
 - type: amended_by
   target: pt:dre:1148213690:por
   label: Altera Artigo 3.º; Altera Artigo 9.º
@@ -131,6 +143,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/24-a/2026/02/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/24-a/2026/02/05/p/dre
+- type: cites
+  target: pt:dre:1031784677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1031784680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1034985574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1039064235:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 3

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 62/2008, 1º Suplemento, Série I de 2008-03-28
   number: '62'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1830-(2) a 1830-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/03/06201/0000200007.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/18-a/2008/03/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/18-a-2008-260915
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-12T00:00:00Z'
+  retrieved_at: '2026-10-22T19:09:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfc13acc7eab42220024b862b279b91c2b4614518bad82561114eb75025a0951
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d023c8f0262005bd27a9f41af347bd5f0f254688fcb241da7011a7eb245c5aeb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:09:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,20 +70,20 @@ subjects:
 - Ajuste Direto
 - Aproximação das Legislações
 - Aquisição de Bens e Serviços
-- Região Autónoma
 - Associação Pública
+- Autarquia Local
 - Autoridade da Concorrência
-- Financiamento
-- Garantia
-- Empresa
 - BEM Móvel
 - Caderno de Encargos
 - Código do Procedimento Administrativo
-- Tecnologia da Informação
-- Serviço Universal de Telecomunicações
-- Urbanização
+- Código dos Contratos Públicos
+- Comissão CE
+- Concurso Limitado por Prévia Qualificação
+- Concurso por Negociação
 - Concurso Público
+- Concurso sem Apresentação de Candidaturas
 - Contra-ordenação
+- Contratação Pública
 - Contrato
 - Contrato Administrativo
 - Contrato de Concessão
@@ -91,38 +91,50 @@ subjects:
 - Delegação de Competências
 - Empreitada de Obras Públicas
 - Empreiteiro de Obras Públicas
+- Empresa
 - Especificação Técnica
+- Financiamento
 - Fiscalização
 - Fundação Pública
-- Comissão CE
+- Garantia
+- Gerap
 - Impugnação
 - Indemnização
-- Gerap
 - Instituto Público
+- Internet
 - JURI
-- Propriedade Industrial
-- Venda em Hasta Pública
 - Locação Financeira
-- Concurso Limitado por Prévia Qualificação
-- Concurso por Negociação
-- Concurso sem Apresentação de Candidaturas
 - Notificação
 - Obras Públicas
 - Parceria Público-Privada
 - Pessoa Coletiva
-- Código dos Contratos Públicos
-- Internet
-- Serviço Público
 - Prestação de Serviços
+- Propriedade Industrial
 - Reclamação
+- Região Autónoma
+- Serviço Público
+- Serviço Universal de Telecomunicações
+- Tecnologia da Informação
 - Transporte
-- Autarquia Local
-- Contratação Pública
+- Urbanização
+- Venda em Hasta Pública
 relationships:
 - type: amended_by
   target: pt:dre:179776:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:453975:por
+  label: "Alterado o art. 4º do Código dos Contratos Públicos, aprovado pelo Dec Lei 18/2008 de 29-Jan, rectificado pela presente\
+    \ declaração, pela LEI.59/2008.11.09.2008.AR, DR.IS [176] de 11.09.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/59-2008-453975
+  date: '2008-09-11'
+- type: amended_by
+  target: pt:dre:179776:por
+  label: "Alterados os art.s 5º, 27º, 43º, 61º e 376º do Código dos Contratos Públicos, aprovado pelo Dec Lei 18/2008, de\
+    \ 29-jan, retificados pela presente declaração, pelo DEC LEI.149/2012.12.07.2012.MEE, DR.IS [134] de 12.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/149-2012-179776
+  date: '2012-07-12'
 - type: cites
   target: celex:32004L0018
   label: null
@@ -138,13 +150,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:09:38Z'
   warnings: []
   errors: []
 ---

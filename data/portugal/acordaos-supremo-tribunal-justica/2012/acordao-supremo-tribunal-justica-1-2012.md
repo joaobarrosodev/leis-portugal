@@ -3,17 +3,23 @@ schema_version: '1.0'
 id: pt:dre:544434:por
 title: Acórdão do Supremo Tribunal de Justiça n.º 1/2012
 short_title: null
-summary: a) Os Sindicatos que outorgaram o contrato colectivo de trabalho (CCT) celebrado entre os réus, publicado no Jornal
+summary: 'a) Os Sindicatos que outorgaram o contrato colectivo de trabalho (CCT) celebrado entre os réus, publicado no Jornal
   Oficial da Região Autónoma da Madeira, 3.ª série, n.º 22, de 16 de Novembro de 2001, não o fizeram na dupla qualidade de
   gestores da entidade empregadora e de representantes dos trabalhadores, ou seja, em «negócio consigo próprio», pelo que
   não foi, por tal motivo, violado o disposto no artigo 3.º do Decreto-Lei n.º 519-C1/79 e no artigo 6.º do Decreto-Lei n.º
-  215-B/75; b) As disposições do mesmo CCT não constituem regulamentação de uma atividade económica, não se verificando a
-  ilegalidade das suas cláusulas 19.ª, 26.ª e 136.ª, por não violação do disposto no artigo 6.º, n.º 1, alínea d), do Decreto-Lei
-  n.º 519-C1/79; c) O CCT em referência não viola o disposto no artigo 7.º, n.º 1, do Decreto-Lei n.º 519-C1/79, por a sua
-  aplicabilidade não se restringir aos membros dos Sindicatos celebrantes; d) O teor das cláusulas 46.ª, n.º 2, 48.ª, n.º
-  4, e 63.ª, n.º 4, do CCT referido não viola o disposto no artigo 4.º, n.º 1, da lei de férias, feriados e faltas (Decreto-Lei
-  n.º 874/76, de 28 de Dezembro, com a redação introduzida pelo Decreto-Lei n.º 397/91, de 16 de Outubro), e, bem assim, nos
-  artigos 213.º, n.os 1 e 3, e 238.º, n.os 1 e 3, dos sucessivos Códigos do Trabalho
+  215-B/75;
+
+  b) As disposições do mesmo CCT não constituem regulamentação de uma atividade económica, não se verificando a ilegalidade
+  das suas cláusulas 19.ª, 26.ª e 136.ª, por não violação do disposto no artigo 6.º, n.º 1, alínea d), do Decreto-Lei n.º
+  519-C1/79;
+
+  c) O CCT em referência não viola o disposto no artigo 7.º, n.º 1, do Decreto-Lei n.º 519-C1/79, por a sua aplicabilidade
+  não se restringir aos membros dos Sindicatos celebrantes;
+
+  d) O teor das cláusulas 46.ª, n.º 2, 48.ª, n.º 4, e 63.ª, n.º 4, do CCT referido não viola o disposto no artigo 4.º, n.º
+  1, da lei de férias, feriados e faltas (Decreto-Lei n.º 874/76, de 28 de Dezembro, com a redação introduzida pelo Decreto-Lei
+  n.º 397/91, de 16 de Outubro), e, bem assim, nos artigos 213.º, n.os 1 e 3, e 238.º, n.os 1 e 3, dos sucessivos Códigos
+  do Trabalho'
 jurisdiction: portugal
 territory: null
 document_type: acordao-supremo-tribunal-justica
@@ -56,18 +62,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/1/2012/01/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/1-2012-544434
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T17:53:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a299052fb4809b167027cb6a0a0e0d4adf1841a670c21c6620c5ff2f9c6f802e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d98858e4224c3c1bfefefe90e4ddb46858bc1f1367f158c23c57821f15f5822c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:53:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,14 +82,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Actividade Sindical
-- Contratação Colectiva
-- Contrato Coletivo de Trabalho
 - Associação Sindical
 - Código do Trabalho
+- Contratação Colectiva
+- Contrato Coletivo de Trabalho
+- Contrato de Trabalho
 - Interpretação do Direito
 - Legalidade
 - Madeira.região Autónoma
-- Contrato de Trabalho
 - Sindicato
 relationships:
 - type: cites
@@ -110,16 +116,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/2/1994/01/28/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/2/1994/01/28/p/dre
+- type: cites
+  target: pt:dre:157052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345089:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356105:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621302:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:53:04Z'
   warnings: []
   errors: []
 ---

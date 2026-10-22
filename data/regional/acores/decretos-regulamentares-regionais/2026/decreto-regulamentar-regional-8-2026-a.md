@@ -87,6 +87,12 @@ subjects:
 - Açores
 - Vogal
 relationships:
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:11/2020/A
+  label: Altera, a partir de 19 de junho de 2026, os artigos 6.º, 7.º e 10.º do anexo ao Decreto Regulamentar Regional n.º
+    11/2020/A, de 4 de maio, Diário da República n.º 86/2020, Série I e procede à sua republicação
+  source: null
+  date: '2020-05-04'
 - type: cites
   target: eli:http://data.dre.p
   label: null
@@ -127,6 +133,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:129113819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132965080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169602023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:860106954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:904232915:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1138160263:por
+  label: Retificada a epígrafe do artigo 2.º pelo(a) Declaração de Retificação n.º 1/2026/A/1 - Diário da República n.º 120/2026,
+    Série I de 2026-06-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/1-2026-1138160263
+  date: '2026-06-24'
 article_structure:
   article_count: 17
   section_count: 8

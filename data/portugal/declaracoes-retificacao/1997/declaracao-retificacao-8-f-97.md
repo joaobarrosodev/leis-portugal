@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 93/1997, 2º Suplemento, Série I-A de 1997-04-21
   number: '93'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1790-(62) a 1790-(69)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/04/093a02/00620069.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/8-f/1997/04/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-f-1997-231957
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-21T00:00:00Z'
+  retrieved_at: '2026-10-22T18:50:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f793b3695498918fa2931e3b0cb3fab33e678f6771af40447347cc5e15a6e23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97cb676d6ce263f8a37b35c7f39c8b4d7eeb2737e0839d9b4e83aa269b58420c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:50:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Governo Regional
-- Orçamento Regional
 - Madeira.região Autónoma
+- Orçamento Regional
 - Receita Regional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/4-a/1997/04/21/m/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/4-a/1997/04/21/m/dre
+- type: cites
+  target: pt:dre:231958:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:50:16Z'
   warnings: []
   errors: []
 ---
@@ -98,6 +102,6 @@ No mapa I, «Receitas da Região», a p. 1790-(13), colunas de designação das 
 
 Os mapas II a VIII saíram com várias incorrecções, pelo que se procede de novo à sua publicação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/093a02/00620069.pdf))](https://files.diariodarepublica.pt/1s/1997/04/093a02/00620069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/093a02/00620069.pdf)
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 21 de Abril de 1997. - O Secretário-Geral, Alexandre Figueiredo.

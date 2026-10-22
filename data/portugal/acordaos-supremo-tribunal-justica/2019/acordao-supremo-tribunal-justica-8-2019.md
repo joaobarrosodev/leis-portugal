@@ -29,7 +29,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/12/24600/0000300029.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/8/2019/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/8-2019-127498152
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-12-23T00:00:00Z'
+  retrieved_at: '2026-10-22T17:54:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7bd7c04e39bea8c7c0707cfb4f7d1f389386cc4740e7d51b6f0190fb9c5ff7c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24b4b215b7f1c182ab2c045930b6f8336d519f58e5af4a2e246962d9bef0cbdc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:54:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,12 +71,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alcoolismo
-- Crime
 - Código da Estrada
+- Código Penal
+- Condutor
+- Crime
 - Interpretação do Direito
 - Segurança Rodoviária
-- Condutor
-- Código Penal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/44/2005/02/23/p/dre
@@ -106,16 +106,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/63/2007/11/06/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/63/2007/11/06/p/dre
+- type: cites
+  target: pt:dre:185720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608490:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641142:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:54:20Z'
   warnings: []
   errors: []
 ---
@@ -717,3 +757,5 @@ Voto vencido pelos fundamentos que sinteticamente indico:
 14 - Resta dizer que o facto de o agente que conduzia o veículo durante o período de interdição ter efectivamente uma taxa de álcool no sangue igual ou superior a 1,2 g/l constitui um factor a valorar para a determinação da medida concreta da pena aplicável pelo crime de desobediência qualificada.
 
 Supremo Tribunal de Justiça, 14 de Novembro de 2019. - Carlos Rodrigues de Almeida.
+
+112842878

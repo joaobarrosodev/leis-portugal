@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1964/01/00100/00060007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45523-1964-222187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-04-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:39:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c506b332f79ad2df1f5718fe5a35060936ed48d63d5ebeab557c948fae32eb40
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d69f48c944848e86f101f24960bf33431068f34ff18706872684ec203e850730
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:39:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Ultramarina
+- Missão de Combate as Tripanossomíases
+- Moçambique.Colónia Portuguesa
+- Orgânica
+- Quadro de Pessoal
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:310245:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:164415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693407:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:310245:por
+  label: "Revogado pelo DEC.47657.28.04.1967.MU, DG.IS [101] de 28.04.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/47657-1967-310245
+  date: '1967-04-28'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:39:07Z'
   warnings: []
   errors: []
 ---
@@ -94,21 +121,21 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º As disposições do [Decreto n.º 43712](https://diariodarepublica.pt/dr/detalhe/decreto/43712-1961-170525), de 25 de Maio de 1961, a seguir indicadas passam a ter a seguinte redacção:
+Artigo 1.º As disposições do [Decreto n.º 43712](https://diariodarepublica.pt/dr/detalhe/decreto/43712-1961-170525), de 25 de Maio de 1961, a seguir indicadas passam a ter a seguinte redacção:
 
-###### Artigo 1.º É reorganizada a Missão de Combate às Tripanossomíases de Moçambique, com a finalidade, organização e atribuições que constam do presente diploma.
+Artigo 1.º É reorganizada a Missão de Combate às Tripanossomíases de Moçambique, com a finalidade, organização e atribuições que constam do presente diploma.
 
 § único. Dispondo de autonomia técnica e administrativa, a Missão de Combate às Tripanossomíases de Moçambique, com a sua sede em Lourenço Marques, fará parte integrante dos serviços de Saúde e assistência da província e actuará sob a imediata autoridade do governador-geral.
 
 ...
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 § 1.º O Conselho das Tripanossomíases, presidido pelo Secretário provincial que superintende nos serviços de saúde e assistência, é constituído pelos directores dos Serviços de Saúde, de Veterinária, de Agricultura e Florestas, da Administração Civil, do Instituto de Investigação Médica e ainda pelo vice-presidente da Junta Provincial de Povoamento e pelo chefe da Missão de Combate às Tripanossomíases.
 
 ...
 
-###### Art. 10.º Ao chefe da Missão compete:
+Art. 10.º Ao chefe da Missão compete:
 
 a) Dirigir e administrar a Missão;
 
@@ -130,19 +157,19 @@ h) Propor superiormente todas as outras medidas que julgar necessárias à reali
 
 ...
 
-###### Art. 35.º O quadro da Missão de Combate às Tripanossomíases abrange, nos termos do § 3.º do artigo 4.º do Estatuto do Funcionalismo Ultramarino, pessoal dos quadros comuns e dos quadros privativos da província.
+Art. 35.º O quadro da Missão de Combate às Tripanossomíases abrange, nos termos do § 3.º do artigo 4.º do Estatuto do Funcionalismo Ultramarino, pessoal dos quadros comuns e dos quadros privativos da província.
 
-###### Art. 36.º O quadro do pessoal técnico superior é o constante do mapa I anexo ao presente diploma, constituído pelos seguintes funcionários do quadro comum: chefe da Missão, chefes das divisões, chefes de sector das divisões de medicina, veterinária e entomologia e assistentes da divisão de entomologia.
+Art. 36.º O quadro do pessoal técnico superior é o constante do mapa I anexo ao presente diploma, constituído pelos seguintes funcionários do quadro comum: chefe da Missão, chefes das divisões, chefes de sector das divisões de medicina, veterinária e entomologia e assistentes da divisão de entomologia.
 
-###### Art. 37.º Os quadros do pessoal técnico e pessoal técnico auxiliar incluem o pessoal do gabinete, do laboratório, de enfermagem e de campo dos vários ramos de serviços técnicos, que não se integra no no quadro técnico superior.
+Art. 37.º Os quadros do pessoal técnico e pessoal técnico auxiliar incluem o pessoal do gabinete, do laboratório, de enfermagem e de campo dos vários ramos de serviços técnicos, que não se integra no no quadro técnico superior.
 
 § único. (Eliminado).
 
 ...
 
-###### Art. 58.º O governador-geral de Moçambique deverá, nos termos do n.º V da base XXIV da Lei Orgânica do Ultramar Português, regulamentar a composição dos quadros privativos, o recrutamento e promoção do seu pessoal.
+Art. 58.º O governador-geral de Moçambique deverá, nos termos do n.º V da base XXIV da Lei Orgânica do Ultramar Português, regulamentar a composição dos quadros privativos, o recrutamento e promoção do seu pessoal.
 
-###### Art. 2.º O pessoal da Missão de Combate às Tripanossomíases tem direito aos vencimentos e salários constantes dos mapas anexos ao [Decreto n.º 43712](https://diariodarepublica.pt/dr/detalhe/decreto/43712-1961-170525), de 25 de Maio de 1961.
+Art. 2.º O pessoal da Missão de Combate às Tripanossomíases tem direito aos vencimentos e salários constantes dos mapas anexos ao [Decreto n.º 43712](https://diariodarepublica.pt/dr/detalhe/decreto/43712-1961-170525), de 25 de Maio de 1961.
 
 § 1.º As designações dos mapas I a IV anexos aos referido decreto ficam substituídas pelas seguintes:
 
@@ -166,17 +193,17 @@ Quadro do pessoal técnico auxiliar assalariado.
 
 § 3.º Fica o governador-geral de Moçambique autorizado a fixar os quantitativos dos subsídios referidos no parágrafo anterior e a regular as condições em que serão abonados.
 
-###### Art. 3.º Ficam revogados o artigo 57.º do [Decreto n.º 43712](https://diariodarepublica.pt/dr/detalhe/decreto/43712-1961-170525) e o mapa V anexo ao mesmo diploma.
+Art. 3.º Ficam revogados o artigo 57.º do [Decreto n.º 43712](https://diariodarepublica.pt/dr/detalhe/decreto/43712-1961-170525) e o mapa V anexo ao mesmo diploma.
 
 § 1.º Com excepção do abono de família a abonar nos termos legais em vigor na província, o pessoal técnico superior, o pessoal técnico e o pessoal técnico auxiliar não têm direito a quaisquer outros abonos além dos previstos pelo presente decreto.
 
 § 2.º O pessoal administrativo além dos vencimentos fixados tem direito aos demais abonos que estiverem em vigor para os funcionários da província.
 
-###### Art. 4.º Os chefes do sector da divisão de medicina poderão substituir os delegados de saúde das respectivas sedes, nas suas ausências ou impedimentos, quando for julgado necessário, ouvido o chefe da Missão.
+Art. 4.º Os chefes do sector da divisão de medicina poderão substituir os delegados de saúde das respectivas sedes, nas suas ausências ou impedimentos, quando for julgado necessário, ouvido o chefe da Missão.
 
-###### Art. 5.º Ao pessoal da Missão de Combate às Tripanossomíases fica vedado o exercício de qualquer actividade particular, remunerada ou não.
+Art. 5.º Ao pessoal da Missão de Combate às Tripanossomíases fica vedado o exercício de qualquer actividade particular, remunerada ou não.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Janeiro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

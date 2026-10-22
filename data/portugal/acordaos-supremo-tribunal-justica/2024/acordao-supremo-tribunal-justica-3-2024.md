@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/04/08000/0000200021.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/3/2024/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/3-2024-862566436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-04-23T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c84d420abb751eb095e37c69417ab6d66234bbbefb5a72a718bc1eb51e4281a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ea9e21f4613515cd49672eed8ba746fd6111f15614dc17bd926d5f05d52923a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Processo Penal
-- Correio Electrónico
 - Arguido
+- Correio Electrónico
 - Instrução Processual
 - Interpretação do Direito
 - Jurisprudencia
 - Notificação
+- Processo Penal
 - Supremo Tribunal de Justiça
 relationships:
 - type: cites
@@ -118,16 +118,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/642/2004/06/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/642/2004/06/16/p/dre
+- type: cites
+  target: pt:dre:165063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640911:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:12Z'
   warnings: []
   errors: []
 ---
@@ -404,7 +444,7 @@ Nos termos do disposto no art.º 20.º, da Constituição da República Portugue
 
 5. Para defesa dos direitos, liberdades e garantias pessoais, a lei assegura aos cidadãos procedimentos judiciais caracterizados pela celeridade e prioridade, de modo a obter tutela efectiva e em tempo útil contra ameaças ou violações desses direitos.”.
 
-Conforme referem JORGE MIRANDA e RUI MEDEIROS – em “Constituição Portuguesa Anotada”, Tomo I, Coimbra Editora, 2005, página 189, o direito de acesso ao direito não se esgota no acesso à via judiciária, “(…) apresentando, para além dessa dimensão inicial, um conteúdo muito rico, que se desdobra em diversos subprincípios e em vários direitos fundamentais, assumindo (…) uma significativa relevância prática”<sup>,</sup>
+Conforme referem JORGE MIRANDA e RUI MEDEIROS – em “Constituição Portuguesa Anotada”, Tomo I, Coimbra Editora, 2005, página 189, o direito de acesso ao direito não se esgota no acesso à via judiciária, “(…) apresentando, para além dessa dimensão inicial, um conteúdo muito rico, que se desdobra em diversos subprincípios e em vários direitos fundamentais, assumindo (…) uma significativa relevância prática”,
 
 A jurisprudência do Tribunal Constitucional tem entendido que o direito de acesso aos tribunais implica a garantia de uma proteção jurisdicional eficaz ou de uma tutela judicial efetiva, cujo âmbito normativo abrange, nomeadamente:
 
@@ -525,3 +565,5 @@ b. Cumpra-se o disposto no artigo 444.º, n.º 1, do CPP.
 c. Sem custas.
 
 Lisboa, 13 de Março de 2024 (processado e revisto pelo relator). - Leonor Furtado (Relatora) - Teresa de Almeida - Ernesto Carlos dos Reis Vaz Pereira - Agostinho Torres - António Latas - Jorge Gonçalves - João Rato - Heitor Bernardo Cardoso Vasques Osório - Jorge Manuel Almeida dos Reis Bravo - Antero Luís - Helena Isabel Gonçalves Moniz Falcão de Oliveira - José Luís Lopes da Mota - Nuno António Gonçalves - Maria Teresa Féria Gonçalves de Almeida - Ana Maria Barata de Brito (revertendo posição anterior atenta a publicação do Ac. TC nº 174/2020) - Orlando M. J. Gonçalves - Maria do Carmo Silva Dias - Pedro Branquinho Ferreira Dias.
+
+117617941

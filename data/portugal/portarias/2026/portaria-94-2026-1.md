@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/94/2026/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/94-2026-1062753818
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-27T00:00:00Z'
+  retrieved_at: '2026-10-22T18:34:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ddbc7890502f061b79a4538e20e61e5a7b34fb98efb98012ad294ecfaa53a2ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df1b023488c37fe2adb1433d0c369b90bc0c01f7e2ed4f5b8e0779389adf6aa7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:34:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Indicação Geográfica
+- Açores
 - Denominação de Origem
-- Região Demarcada
-- Regulamentação de Atos Legislativos
 - Fiscalização
+- Indicação Geográfica
 - Instituto da Vinha e do Vinho
 - Instituto do Vinho Bordado e do Artesanato da Madeira
 - Instituto dos Vinhos do Douro e do Porto
 - Licenciamento
 - Madeira.região Autónoma
-- Açores
 - Produto Vitivinícola
+- Região Demarcada
+- Regulamentação de Atos Legislativos
 relationships:
+- type: amends
+  target: pt:numero:portaria:348/2015
+  label: Altera, a partir de 28 de fevereiro de 2026, os artigos 4.º, 5.º, 6.º e 9.º e revoga a subsubalínea d) da subalínea
+    vii) da alínea b) do n.º 2 do artigo 5.º e o artigo 11.º da Portaria n.º 348/2015, de 12 de outubro, Diário da República
+    n.º 199/2015, Série I
+  source: null
+  date: '2015-10-12'
 - type: cites
   target: celex:32013R1308
   label: null
@@ -93,16 +100,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/348/2015/10/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/348/2015/10/12/p/dre
+- type: cites
+  target: pt:dre:70095702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70509976:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:34:03Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +168,9 @@ b) […]
 
 4 - […]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -199,7 +216,9 @@ d) [Revogada.]
 
 9 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A abertura das candidaturas ocorre anualmente até, no máximo, 1 de maio, por um prazo que não pode ser inferior a um mês, através de aviso publicado no sítio da Internet do IVV, I. P., podendo ser aberto novo período de submissão de candidaturas, nos termos e para os efeitos a que se refere o n.º 4 do artigo 4.º, no caso de os pedidos elegíveis apresentados não esgotarem a superfície disponibilizada.
 
@@ -207,7 +226,9 @@ d) [Revogada.]
 
 3 - [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -235,4 +256,6 @@ São revogados a subsubalínea d) da subalínea vii) da alínea b) do n.º 2 do 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura e Mar, José Manuel Fernandes, em 25 de fevereiro de 2026.**
+O Ministro da Agricultura e Mar, José Manuel Fernandes, em 25 de fevereiro de 2026.
+
+119947850

@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 183/2008, 1º Suplemento, Série I de 2008-09-22
   number: '183'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6804-(2) a 6804-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/09/18301/0000200002.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/53-a/2008/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/53-a-2008-280506
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-09-22T00:00:00Z'
+  retrieved_at: '2026-10-22T19:10:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbca01faaf82e3b556cc8bc6974862a341b76bcf2b1247367d5056c76219babf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c146dd013e739deda4fbc4a003dc0347a750cae48d2e7e2a0bcdef2272084a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:10:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,41 +68,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Associação de Municípios
-- Vida Selvagem
+- Autarquia Local
+- Autoridade Florestal Nacional
 - Cadastro Nacional dos Valores Naturais Classificados
 - Comissão Coordenadora
-- Ordenamento do Território
+- Comissão de Coordenação e Desenvolvimento Regional
 - Comissão Interministerial
 - Contra-ordenação
 - Definição de Competências
-- Fiscalização
-- Fundo para a Conservação da Natureza e da Biodiversidade
-- Monumento Natural
-- Comissão de Coordenação e Desenvolvimento Regional
-- Proteção do Ambiente
 - Diversidade Biológica
 - Espécie Protegida
-- Zona de Proteção
-- Autoridade Florestal Nacional
+- Fiscalização
+- Fundo para a Conservação da Natureza e da Biodiversidade
+- Instituto da Conservação da Natureza e da Biodiversidade
 - Madeira.região Autónoma
+- Monumento Natural
+- Ordenamento do Território
+- Património Natural
+- Proteção do Ambiente
 - Receita
 - Recursos Naturais
-- Património Natural
-- Sistema Nacional de Áreas Classificadas
-- Sistema Nacional de Áreas Protegidas
+- Rede Fundamental de Conservação da Natureza
 - Rede Nacional de Áreas Protegidas
-- Instituto da Conservação da Natureza e da Biodiversidade
+- REDE Nacional de Centros de Recuperação para a Fauna
+- Rede Natura 2000
 - Regime Jurídico
 - Reserva Natural
 - Sanção
-- Açores
 - Sistema de Informação sobre o Património Natural
-- Rede Fundamental de Conservação da Natureza
+- Sistema Nacional de Áreas Classificadas
+- Sistema Nacional de Áreas Protegidas
 - Taxa
-- Autarquia Local
-- REDE Nacional de Centros de Recuperação para a Fauna
-- Rede Natura 2000
+- Vida Selvagem
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/142/2008/07/24/p/dre
@@ -116,16 +116,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/19/1993/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/19/1993/01/23/p/dre
+- type: cites
+  target: pt:dre:454502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:142/2008
+  label: "Rectifica o Decreto-Lei n.º 142/2008, de 24 de Julho, DR.IS [142]\0\0"
+  source: null
+  date: '2008-07-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:10:26Z'
   warnings: []
   errors: []
 ---

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/33/2010/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/33-2010-307652
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:12:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f876f15d65d3533f5266d6c7eabb5027483c20c26f1bd2aa39169038f31bbf8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f023a8f346e6fb24ca356376dfae80f55cc1c3d11b25d17023f58ee42c43745e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:12:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,30 +69,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Açores
 - Administração Central
+- Administração Local
+- Administração Regional
 - Aproximação das Legislações
-- Radioprotecção
 - Contra-ordenação
-- Sector Cooperativo
 - Definição de Competências
-- Segurança no Trabalho
+- Doença Profissional
 - Fiscalização
 - Informação
-- Instituto Público
-- Meios Complementares de Diagnóstico
 - Instituto Português de Acreditação
-- Doença Profissional
-- Pessoa Colectiva de Direito Público
+- Instituto Público
 - Madeira.região Autónoma
-- Radiologia
-- Radioterapia
-- Administração Local
 - Material Médico-Cirúrgico
+- Meios Complementares de Diagnóstico
+- Pessoa Colectiva de Direito Público
+- Radiologia
+- Radioprotecção
+- Radioterapia
 - Saúde no Trabalho
+- Sector Cooperativo
+- Segurança no Trabalho
 - Setor Privado
-- Administração Regional
 - Sinalização de Segurança
-- Açores
 - Trabalhador
 relationships:
 - type: cites
@@ -106,13 +106,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:12:49Z'
   warnings: []
   errors: []
 ---
@@ -131,29 +131,29 @@ Os valores de exposição à radiação óptica relevantes de um ponto de vista 
 
 As alíneas a) a o) remetem para as linhas correspondentes do quadro n.º 1.1.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf)
 
 Para efeitos da presente lei, as fórmulas mencionadas podem ser substituídas pelas expressões seguintes e pelos valores discretos que figuram nos seguintes quadros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf)
 
 QUADRO N.º 1.1
 
 Valores limite de exposição para radiação óptica não coerente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf)
 
 QUADRO N.º 1.2
 
 S (lambda) [sem dimensões], 180 nm a 400 nm
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf)
 
 QUADRO N.º 1.3
 
 B (lambda), R (lambda) [sem dimensões], 380 nm a 1400 nm
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf)
 
 ## ANEXO II — (a que se referem o n.º 2 do artigo 3.º e o artigo 5.º)
 
@@ -163,37 +163,37 @@ Os valores de exposição à radiação óptica relevantes de um ponto de vista 
 
 Os coeficientes utilizados como ferramentas de cálculo nos quadros n.os 2.2-2.4 constam do quadro n.º 2.5 e as correcções para a exposição repetitiva constam do quadro n.º 2.6.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf)
 
 QUADRO N.º 2.1
 
 Riscos das radiações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf)
 
 QUADRO N.º 2.2
 
 Valores limite de exposição para a exposição do olho ao laser - Exposição de curta duração (menor que) 10 s
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf)
 
 QUADRO N.º 2.3
 
 Valores limite de exposição para a exposição do olho ao laser - Exposição de longa duração (igual ou maior que) 10 s
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf)
 
 QUADRO N.º 2.4
 
 Valores limite de exposição para a exposição da pele ao laser
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf)
 
 QUADRO N.º 2.5
 
 Factores de correcção aplicados e outros parâmetros de cálculo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf)
 
 QUADRO N.º 2.6
 
@@ -207,4 +207,4 @@ Cada uma das três regras gerais seguintes deverá ser aplicada a todas as expos
 
 3 - A exposição resultante de um impulso único num grupo de impulsos não deve exceder o valor limite de exposição de um impulso único multiplicado pelo factor de correcção térmica cumulativa C(índice p)=N(elevado a -0,25), em que N é o número de impulsos. Esta regra aplica-se apenas a limites de exposição para protecção contra lesões térmicas, em que todos os impulsos emitidos em menos de T(índice min) são tratados como um único impulso.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0484904859.pdf)

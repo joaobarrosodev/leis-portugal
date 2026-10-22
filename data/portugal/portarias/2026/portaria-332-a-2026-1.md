@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/332-a/2026/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/332-a-2026-1156670492
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-11T00:00:00Z'
+  retrieved_at: '2026-10-22T18:49:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44d5a0e6f6d26027f158308aaeb3f5e1c3e46882521839cd713385f30f47041f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b19ada5e10f97fab243b5264545325e56ed4247342eb7d7910926955940bfb19
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:49:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão Instaladora
-- Regulamentação de Atos Legislativos
+- Ensino Superior
 - Estatuto
 - Instalação de Serviços
-- Universidade
-- Ensino Superior
-- Universidade Técnica do Porto
 - Instituto Politécnico do Porto
+- Regulamentação de Atos Legislativos
+- Universidade
+- Universidade Técnica do Porto
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/145/2026/07/17/p/dre
@@ -94,16 +94,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
+- type: cites
+  target: pt:dre:1148792657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
 article_structure:
   article_count: 95
   section_count: 25
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:49:48Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +156,7 @@ Assim, ao abrigo das disposições conjugadas do n.º 6 do artigo 22.º do [Decr
 
 3 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Educação, Ciência e Inovação, Fernando Alexandre, em 10 de agosto de 2026.**
+O Ministro da Educação, Ciência e Inovação, Fernando Alexandre, em 10 de agosto de 2026.
 
 ## ANEXO — Estatutos provisórios da Universidade Técnica do Porto
 
@@ -314,7 +338,7 @@ d) Conselho de ética.
 
 2 - O reitor é nomeado e exonerado pelo membro do Governo responsável pela área do ensino superior, nos termos da alínea b) do n.º 2 do artigo 38.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, na sua redação atual.
 
-3 - A nomeação do reitor atende às condições previstas nos n.<sup>os</sup>3 e 5 do artigo 86.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, na sua redação atual.
+3 - A nomeação do reitor atende às condições previstas nos n.os3 e 5 do artigo 86.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, na sua redação atual.
 
 4 - O reitor é o órgão de condução da política da UTP e preside à comissão instaladora e ao conselho de gestão.
 
@@ -990,7 +1014,7 @@ c) Gerir os orçamentos relativos a projetos e a prestações de serviços da su
 
 3 - O exercício do poder disciplinar sobre os docentes e pessoal técnico, especialista e de gestão rege-se pelo regime previsto na Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual.
 
-4 - O exercício do poder disciplinar sobre os estudantes rege-se pelo disposto nos n.<sup>os</sup>4, 5 e 6 do artigo 75.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, na sua redação atual.
+4 - O exercício do poder disciplinar sobre os estudantes rege-se pelo disposto nos n.os4, 5 e 6 do artigo 75.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, na sua redação atual.
 
 5 - A aplicação de sanções disciplinares aos estudantes previstas nas alíneas c), d) e e) do n.º 5 do artigo 75.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, na sua redação atual, bem como as sanções disciplinares aos docentes e pessoal técnico, especialista e de gestão previstas nas alíneas c) e d) do n.º 1 do artigo 180.º da [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, só pode ser tomada depois de obtido parecer favorável da comissão instaladora.
 
@@ -1208,7 +1232,7 @@ a) Quinze membros, em unidades orgânicas de ensino e investigação que tenham 
 
 b) Vinte membros, em unidades orgânicas de ensino e investigação que tenham um número igual ou superior a 2500 estudantes.
 
-5 - Quando o número de pessoas em condições de serem nomeadas for inferior ao estabelecido, o conselho científico é composto pelo conjunto das mesmas, sem prejuízo do disposto nas alíneas b) dos n.<sup>os</sup>1 e 3.
+5 - Quando o número de pessoas em condições de serem nomeadas for inferior ao estabelecido, o conselho científico é composto pelo conjunto das mesmas, sem prejuízo do disposto nas alíneas b) dos n.os1 e 3.
 
 6 - O cargo de membro do conselho científico é incompatível com os cargos de diretor ou subdiretor de unidade orgânica de ensino e investigação.
 
@@ -1607,3 +1631,5 @@ Os casos omissos e as dúvidas suscitados na aplicação dos presentes estatutos
 ###### Artigo 95.º — Entrada em vigor
 
 Os presentes estatutos entram em vigor na data da tomada de posse dos titulares de todos os órgãos de governo e de gestão da Universidade Técnica do Porto.
+
+119949317

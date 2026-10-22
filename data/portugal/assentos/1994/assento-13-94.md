@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/asst/13/1994/08/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/assento/13-1994-218489
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-08-19T00:00:00Z'
+  retrieved_at: '2026-10-22T18:27:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f6bbf3196fa11fed95f5d22bddc698984643540996401f96bdbdc97dcc857a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ab375b552f68f339904d7f99ece8d9483162b7efa8c84d217fc39a3cec6edcf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:27:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Interpretação do Direito
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:161494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452042:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:27:49Z'
   warnings: []
   errors: []
 ---

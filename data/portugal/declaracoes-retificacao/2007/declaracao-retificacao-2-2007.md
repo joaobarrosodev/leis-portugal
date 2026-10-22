@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/2/2007/01/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2-2007-262283
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-02T00:00:00Z'
+  retrieved_at: '2026-10-22T19:07:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2aedbce670690b0db98935ea39d39e87f34887c2acc4051b8cc23debd28646e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b276c1edbcb2ea64de009cf5713d6983a86575edf10cadc320744853f9f1256
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:07:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
+- Açores
+- Associação
 - Associação de Estudantes
 - Associação Juvenil
+- Base de Dados
 - Comissão de Acompanhamento
 - Instituto Português da Juventude
 - Jovem
-- Base de Dados
-- Programa Formar
-- Registo Nacional do Associativismo Jovem
 - Madeira.região Autónoma
+- Programa Formar
+- Região Autónoma
+- Registo Nacional do Associativismo Jovem
 - Regulamento
-- Associação
-- Açores
-relationships: []
+relationships:
+- type: corrects
+  target: pt:numero:portaria:1228/2006
+  label: "Rectifica a Portaria n.º 1228/2006, de 15 de Novembro, DR.IS [220]\0\0"
+  source: null
+  date: '2006-11-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:07:46Z'
   warnings: []
   errors: []
 ---

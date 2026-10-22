@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45432-1963-683589
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-12-13T00:00:00Z'
+  retrieved_at: '2026-10-22T19:38:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 132061100db629752111b950c3c1f24e256bbefccca4938ad1559f8892a8bb96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad88d20b4855cff9219796baf5d05cb95de483405fc1064c0f70701376bc13fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:38:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:182232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654121:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:38:14Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +106,7 @@ Por motivo de urgência e de harmonia com o disposto no n.º 1.º do artigo 150.
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São autorizados os órgãos legislativos da província da Guiné a expedir diplomas:
+Artigo 1.º São autorizados os órgãos legislativos da província da Guiné a expedir diplomas:
 
 a) A aprovar nova pauta aduaneira de exportação;
 
@@ -106,19 +114,19 @@ b) A aprovar nova pauta aduaneira de importação aplicável às mercadorias ori
 
 c) A englobar nos direitos da pauta preferencial, a título de sobretaxa, todas as imposições abrangidas pelo conceito de direitos aduaneiros definido no § único do artigo 9.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), de 8 de Novembro de 1961, que, além dos direitos, se cobram nos bilhetes de despacho.
 
-###### Art. 2.º Na pauta referida na alínea b) do artigo anterior adoptar-se-á a Nomenclatura de Bruxelas (Convenção sobre nomenclatura para a classificação das mercadorias nas tarifas aduaneiras, assinada em Bruxelas em 15 de Dezembro de 1950).
+Art. 2.º Na pauta referida na alínea b) do artigo anterior adoptar-se-á a Nomenclatura de Bruxelas (Convenção sobre nomenclatura para a classificação das mercadorias nas tarifas aduaneiras, assinada em Bruxelas em 15 de Dezembro de 1950).
 
-###### Art. 3.º As alterações a introduzir nas pautas a que se referem as alíneas a) e b) do artigo 1.º, dentro dos primeiros seis meses da sua vigência, são da competência dos órgãos legislativos da província.
+Art. 3.º As alterações a introduzir nas pautas a que se referem as alíneas a) e b) do artigo 1.º, dentro dos primeiros seis meses da sua vigência, são da competência dos órgãos legislativos da província.
 
 § único. A competência conferida neste artigo pode ser prorrogada, por iguais períodos, mediante portaria do Ministro do Ultramar.
 
-###### Art. 4.º O Governo da província providenciará, em portaria, no sentido de serem mantidos às entidades actualmente beneficiárias os rendimentos provenientes das imposições englobadas nos direitos da pauta de exportação e das pautas de importação.
+Art. 4.º O Governo da província providenciará, em portaria, no sentido de serem mantidos às entidades actualmente beneficiárias os rendimentos provenientes das imposições englobadas nos direitos da pauta de exportação e das pautas de importação.
 
-###### Art. 5.º A alínea b) do artigo 131.º das instruções preliminares das pautas das alfândegas do ultramar, aprovadas pelo [Decreto n.º 41026](https://diariodarepublica.pt/dr/detalhe/decreto/41026-1957-654121), de 9 de Março de 1957, passa a ter a seguinte redacção:
+Art. 5.º A alínea b) do artigo 131.º das instruções preliminares das pautas das alfândegas do ultramar, aprovadas pelo [Decreto n.º 41026](https://diariodarepublica.pt/dr/detalhe/decreto/41026-1957-654121), de 9 de Março de 1957, passa a ter a seguinte redacção:
 
 b) Na província da Guiné gozarão do benefício pautal que for estabelecido por portaria do Ministro do Ultramar, ouvidos o governador da província e a Inspecção Superior das Alfândegas do Ultramar.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 13 de Dezembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

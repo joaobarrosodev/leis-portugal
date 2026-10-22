@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/5/2026/02/20/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2026-1055043923
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-20T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4149c11254c2af8f007363fe970e4d7d54bd8fa28fce24b2f39e571f3c6b64e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87b74fe49527fe4410dbcd4ae5958147aab0da5502bd5d8205e809e3f62eee84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Alienação de BENS
-- BENS Imóveis
-- BENS Classificados
-- Avaliação de Prédios
-- Gestão do Património
-- Património do Estado
-- Inventário
-- Administração Regional
 - Açores
+- Administração Regional
+- Alienação de BENS
+- Avaliação de Prédios
+- BENS Classificados
+- BENS Imóveis
+- Gestão do Património
+- Inventário
+- Património do Estado
 - Portal do Património Imóvel
 relationships:
 - type: cites
@@ -96,16 +96,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2019/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2019/08/08/p/dre
+- type: cites
+  target: pt:dre:108280432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:993031450:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-legislativo-regional:11/2008/A
+  label: Revoga, a partir de 21 de fevereiro de 2026, o Decreto Legislativo Regional n.º 11/2008/A, de 19 de maio, Diário
+    da República n.º 96/2008, Série I
+  source: null
+  date: '2008-05-19'
+- type: repeals
+  target: pt:numero:portaria:131/2020
+  label: Revoga, a partir de 21 de fevereiro de 2026, a Portaria n.º 131/2020, de 23 de setembro, JORNAL OFICIAL DOS AÇORES
+    - 1.ª SÉRIE, Nº 139/2020
+  source: null
+  date: '2020-09-23'
 article_structure:
   article_count: 45
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:53Z'
   warnings: []
   errors: []
 ---
@@ -720,10 +756,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 15 de janeiro de 2026.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 16 de fevereiro de 2026.**
+Assinado em Angra do Heroísmo em 16 de fevereiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+119947697

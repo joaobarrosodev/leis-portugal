@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45424-1963-683580
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-12-12T00:00:00Z'
+  retrieved_at: '2026-10-22T19:38:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7f7727ab61f0041283460fc93ef7005a9f523d81e2e0bb05eeef516f3ccbe59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87c7a81d7f5cbcdc9d86d0b7578299e38d7dcddc48248d93d89c111a7f55b343
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:38:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:38:11Z'
   warnings: []
   errors: []
 ---
@@ -90,8 +90,8 @@ Tendo em vista o parecer favorável do Ministério das Obras Públicas;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os limites da vila de Esposende são definidos por uma linha envolvente que, partindo, a sul, do ponto de referência A, situado ao quilómetro 42,450 da estrada nacional n.º 13, junto da extrema norte da ponte de Fão, sobre o rio Cávado, segue a margem direita deste até à sua foz, numa extensão de 3760 m; deste ponto, designado por B, continua pela costa marítima até atingir, a uma distância de 740 m, o ponto C; daqui inflecte para leste, formando com a dita costa ângulo de 96º, e acompanhando uma linha paralela à antiga estrada dos Banhos e distanciada 50 m para norte do eixo da mesma estrada, e vai alcançar a estrada nacional n.º 13, que cruza ao quilómetro 46,288, avançando na mesma direcção 50 m para além do eixo da referida estrada nacional n.º 13; neste ponto, identificado por D, deriva para sul, acompanhando, àquela distância, o eixo da mencionada estrada nacional n.º 13 e formando, assim, uma faixa de contorno; cruza a estrada municipal n.º 550 e prossegue até ao ponto E, distante do anterior cerca de 1010 m e situado no eixo do caminho público, que define o antigo limite nascente da vila; continua, para sudeste, pelo eixo do citado caminho, até chegar, percorridos 1030 m, ao ponto F, localizado no cruzamento daquele caminho com a estrada nacional n.º 103-1.ª, ao quilómetro 13,723; inflecte para sudoeste e prossegue, em linha recta na direcção do quilómetro 44,010 da estrada nacional n.º 13, até ao ponto G, fixado 50 m a nascente do eixo dessa via; prossegue para sul, acompanhando a essa mesma distância a dita estrada nacional n.º 13 e constituindo-lhe, assim, nova faixa de contorno, até alcançar o ponto A, onde se iniciara a descrição.
+Artigo único. Os limites da vila de Esposende são definidos por uma linha envolvente que, partindo, a sul, do ponto de referência A, situado ao quilómetro 42,450 da estrada nacional n.º 13, junto da extrema norte da ponte de Fão, sobre o rio Cávado, segue a margem direita deste até à sua foz, numa extensão de 3760 m; deste ponto, designado por B, continua pela costa marítima até atingir, a uma distância de 740 m, o ponto C; daqui inflecte para leste, formando com a dita costa ângulo de 96º, e acompanhando uma linha paralela à antiga estrada dos Banhos e distanciada 50 m para norte do eixo da mesma estrada, e vai alcançar a estrada nacional n.º 13, que cruza ao quilómetro 46,288, avançando na mesma direcção 50 m para além do eixo da referida estrada nacional n.º 13; neste ponto, identificado por D, deriva para sul, acompanhando, àquela distância, o eixo da mencionada estrada nacional n.º 13 e formando, assim, uma faixa de contorno; cruza a estrada municipal n.º 550 e prossegue até ao ponto E, distante do anterior cerca de 1010 m e situado no eixo do caminho público, que define o antigo limite nascente da vila; continua, para sudeste, pelo eixo do citado caminho, até chegar, percorridos 1030 m, ao ponto F, localizado no cruzamento daquele caminho com a estrada nacional n.º 103-1.ª, ao quilómetro 13,723; inflecte para sudoeste e prossegue, em linha recta na direcção do quilómetro 44,010 da estrada nacional n.º 13, até ao ponto G, fixado 50 m a nascente do eixo dessa via; prossegue para sul, acompanhando a essa mesma distância a dita estrada nacional n.º 13 e constituindo-lhe, assim, nova faixa de contorno, até alcançar o ponto A, onde se iniciara a descrição.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Dezembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior.

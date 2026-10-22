@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 175/1998, 6º Suplemento, Série I-B de 1998-07-31
   number: '175'
   series: I
-  supplement: 6º Suplemento
+  supplement: null
   pages: 3674-(24) a 3674-(24)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/07/175b06/00240024.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/11-t/1998/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-t-1998-336168
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:50:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8752874c90786f986b0a3f8e5556af91be1b452ea794ac87f0501f9e7a71354a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06aa35bb6c8793a76932fae66aba7f7f3c7efdf4deac71c555775e8b506b6e4f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:50:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,35 +69,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Humanitária
-- Ministério da Defesa Nacional
-- Ministério do Trabalho e da Solidariedade
+- Conselho Nacional de Planeamento Civil de Emergência
+- Grupo de Trabalho
 - Ministério da Administração Interna
 - Ministério da Agricultura Desenvolvimento Rural e Pescas
-- Conselho Nacional de Planeamento Civil de Emergência
+- Ministério da Defesa Nacional
 - Ministério da Economia
-- Ministério do Equipamento do Planeamento e da Administração do Território
 - Ministério das Finanças
-- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
-- Grupo de Trabalho
+- Ministério do Equipamento do Planeamento e da Administração do Território
+- Ministério do Trabalho e da Solidariedade
+- Ministério dos Negócios Estrangeiros
 - Missão no Estrangeiro
 - Secretário de Estado da Presidência do Conselho de Ministros
-- Ministério dos Negócios Estrangeiros
+- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
 - Vice-presidente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/80/1998/07/07/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/80/1998/07/07/p/dre
+- type: cites
+  target: pt:dre:486500:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:50:52Z'
   warnings: []
   errors: []
 ---

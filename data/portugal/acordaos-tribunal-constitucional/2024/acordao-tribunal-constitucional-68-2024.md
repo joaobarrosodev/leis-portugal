@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/02/03900/0002600051.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/68/2024/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/68-2024-853529309
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-23T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 611cbf0d428abf7b5d7baf7682f8b664d430c1de36224572f148c0602f4bdf51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af61c9f83b3f9f5241c2b35c666b4df4bbd2d1975158d80a02ea58d834e6cfb6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,11 +70,25 @@ reuse:
 subjects:
 - Inconstitucionalidade
 - Licenciamento
-- Prestação de Serviços
 - Madeira.região Autónoma
-- Transporte de Passageiros
 - Plataforma Eletrónica
+- Prestação de Serviços
+- Transporte de Passageiros
 relationships:
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:14/2020/M
+  label: Declara a inconstitucionalidade, com força obrigatória geral, das normas contidas no artigo 11.º do Decreto Legislativo
+    Regional n.º 14/2020/M, de 2 de outubro, Diário da República n.º 193/2020, Série I, não restringindo os efeitos da referida
+    declaração de inconstitucionalidade e, nomeadamente, a sua eficácia retroativa
+  source: null
+  date: '2020-10-02'
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:1/2021/M
+  label: Declara a inconstitucionalidade, com força obrigatória geral, das normas contidas no n.º 2 do artigo 4.º e nos artigos
+    8.º e 9.º do Decreto Regulamentar Regional n.º 1/2021/M, de 25 de janeiro, Diário da República n.º 16/2021, Série I, não
+    restringindo os efeitos da referida declaração de inconstitucionalidade e, nomeadamente, a sua eficácia retroativa
+  source: null
+  date: '2021-01-25'
 - type: cites
   target: celex:32000L0031
   label: null
@@ -123,16 +137,184 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/45/2018/08/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/45/2018/08/10/p/dre
+- type: cites
+  target: pt:dre:115991688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125040766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:129088981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1292782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:143189093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144454583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1467992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155084437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1732330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181976188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2261401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2591527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2679173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3133597:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3284882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3352114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56819092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57547753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:71020778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:71044667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73733736:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:34Z'
   warnings: []
   errors: []
 ---
@@ -580,3 +762,5 @@ Em suma, o Tribunal Constitucional considerou que o legislador regional prossegu
 Fica claro, desde logo, que o Tribunal Constitucional, não alterando o parâmetro que lhe vinha proposto pelo requerente (o que podia ter feito, de acordo com o artigo 51.º, n.º 5 da LTC, pesem embora as particularidades do processo de fiscalização preventiva, em caso de evidência), aceitou uma disposição legislativa regional em (ou com reflexos em) matéria de direitos, liberdades e garantias (igualdade no acesso à função pública). De resto, muito embora este aresto a isso não se tenha referido, é de admitir uma certa conformação com efeitos compressivos correlatos da discriminação positiva aí em apreço, dada a "escassez" que por natureza caracteriza o bem envolvido: no caso, vagas (vejam-se, aliás, as dúvidas constantes da declaração de voto da Senhora Conselheira Maria Fernanda Palma, que se prendem, justamente, com a escassez do bem e efeitos da norma). Mutatis mutandis, como assinala Jorge Reis Novais a respeito do princípio da igualdade, «(...) havendo, é certo, diferenciações positivas que não se reflectem negativamente na esfera jurídica de outrem, já se, no acesso a posições ou bens escassos, há alguém que é positivamente discriminado por causa da sua raça ou género, há outro alguém que reflexamente, por facto de ter outra raça ou género, pode estar a ser discriminado negativamente» (cf. Princípios Estruturantes de Estado de Direito, 2.ª ed., Almedina, Coimbra, 2023, p. 72).
 
 Mas essa era, ainda assim, uma mera eventualidade ou contingência. No caso dos presentes autos, a norma objeto não é de discriminação positiva, pois estabelece diretamente, não uma vantagem, mas uma limitação imediata para os respetivos destinatários (pese embora, ao atentar-se no preâmbulo do [Decreto Legislativo Regional n.º 14/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2020-144454583), se perceba que a motivação do legislador regional foi a salvaguarda do setor do táxi). Daí que, o tipo de objeto normativo dos presentes autos não seja sobreponível ao do [Acórdão n.º 232/03](https://diariodarepublica.pt/dr/detalhe/acordao/232-2003-684202). Todavia, é uma conclusão evidente, a de que não se recusou uma norma regional por interferência com direitos, liberdades e garantias: pelo contrário, entendeu-se que uma tal interferência estava justificada, nos termos brevissimamente relatados. - Rui Guerra da Fonseca
+
+117381218

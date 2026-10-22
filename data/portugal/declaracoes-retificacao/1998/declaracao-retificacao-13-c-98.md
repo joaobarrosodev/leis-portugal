@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 200/1998, 2º Suplemento, Série I-A de 1998-08-31
   number: '200'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4522-(6) a 4522-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/08/200a02/00060006.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/13-c/1998/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-c-1998-574718
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-08-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:51:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39b16566b84dd10b37fabf3b88d889fd95234c5c524e82acf739987b7b5b5a39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ba443caaaeaac18de84ee80e18ff35869edeafb5d93230a57202518233c7339
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:51:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,10 +70,12 @@ reuse:
 subjects:
 - Adjudicação
 - Adjudicação por Concurso Público
+- Administração Pública
 - Alfândega
 - Aproximação das Legislações
 - Aquisição de Bens e Serviços
 - Comissão de Análise
+- Concorrência
 - Concurso
 - Concurso Internacional
 - Concurso Público
@@ -84,20 +86,18 @@ subjects:
 - Delegação de Competências
 - Despesas Públicas
 - Direito Público
-- Concorrência
 - Empreitada de Obras Públicas
-- União Europeia
-- Administração Pública
-- Ministro das Finanças
-- Primeiro-ministro
 - Jornal Oficial
-- Publicitação
+- Ministro das Finanças
 - Obras Públicas
 - Organismo Autónomo
 - Pessoa Coletiva
-- Serviço Público
 - Prestação de Serviços
+- Primeiro-ministro
+- Publicitação
 - Regime Jurídico
+- Serviço Público
+- União Europeia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/128/1998/05/13/p/dre
@@ -107,16 +107,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/55/1995/03/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/55/1995/03/29/p/dre
+- type: cites
+  target: pt:dre:522841:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:51:00Z'
   warnings: []
   errors: []
 ---

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/222-a/2026/05/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/222-a-2026-1123540004
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-15T00:00:00Z'
+  retrieved_at: '2026-10-22T18:41:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9218dabe25aaa604bca65227082d25305c3053fa43158c544331a8924bf86950
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3839f2292ce37949c4a37de18ce870b9fcb70f4d8cac14a048a85f3ead2671ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:41:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
-- Financiamento
+- Agência Portuguesa do Ambiente
 - Consumidor
+- Direção Geral da Economia
 - Equipamento Eléctrico
 - Equipamento Eletrónico
+- Financiamento
+- Fundo Ambiental
+- Gestão de Resíduos
+- incentivo financeiro
 - Operador Económico
 - Proteção do Ambiente
-- Fundo Ambiental
-- Agência Portuguesa do Ambiente
-- Direção Geral da Economia
-- incentivo financeiro
 relationships:
 - type: cites
   target: celex:32012L0019
@@ -104,6 +104,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/87-a/2025/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/87-a/2025/07/25/p/dre
+- type: cites
+  target: pt:dre:114337042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150908012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928162717:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928479767:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32012L0019
   label: null
@@ -119,13 +139,13 @@ relationships:
 article_structure:
   article_count: 9
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:41:05Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +170,7 @@ Assim, nos termos do disposto no n.º 8 do artigo 58.º do [Decreto-Lei n.º 152
 
 1 - A presente portaria estabelece os termos e condições de implementação e funcionamento do sistema de incentivo económico direto (SIED), à retoma de resíduos de equipamentos elétricos e eletrónicos (REEE), no âmbito do sistema integrado de gestão de resíduos de equipamentos elétricos e eletrónicos (SIGREEE), nos termos do disposto no n.º 8 do artigo 58.º do [Decreto-Lei n.º 152-D/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), de 11 de dezembro, na sua redação atual, destinado a promover o aumento da recolha seletiva e da retoma de REEE, bem como o seu correto encaminhamento para tratamento.
 
-2 - Sem prejuízo de eventual alargamento a outros equipamentos elétricos e eletrónicos (EEE) e respetivos resíduos, nos termos do disposto no n.º 3 do artigo 7.º, o SIED abrange apenas os seguintes EEE e REEE das categorias 1 «Equipamentos de regulação da temperatura» e 2 «Ecrãs, monitores e equipamentos com ecrãs de superfície superior a 100 cm<sup>2</sup>»:
+2 - Sem prejuízo de eventual alargamento a outros equipamentos elétricos e eletrónicos (EEE) e respetivos resíduos, nos termos do disposto no n.º 3 do artigo 7.º, o SIED abrange apenas os seguintes EEE e REEE das categorias 1 «Equipamentos de regulação da temperatura» e 2 «Ecrãs, monitores e equipamentos com ecrãs de superfície superior a 100 cm2»:
 
 a) Frigoríficos;
 
@@ -296,7 +316,7 @@ Incumbe à APA, I. P., e à DGE a monitorização e avaliação do desempenho do
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 14 de maio de 2026. - O Secretário de Estado da Economia, João Rui da Silva Gomes Ferreira, em 15 de maio de 2026. - O Secretário de Estado do Ambiente, João Manuel do Amaral Esteves, em 15 de maio de 2026.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 14 de maio de 2026. - O Secretário de Estado da Economia, João Rui da Silva Gomes Ferreira, em 15 de maio de 2026. - O Secretário de Estado do Ambiente, João Manuel do Amaral Esteves, em 15 de maio de 2026.
 
 ## ANEXO I — (a que se refere o artigo 8.º)
 
@@ -316,9 +336,9 @@ A seleção e metodologia de cálculo alinham-se com as metas estabelecidas no [
 
 | ID | Designação do indicador | Fórmula de cálculo | Fonte de dados | Frequência de reporte | Meta |
 | --- | --- | --- | --- | --- | --- |
-| 2.1 | Taxa de Rastreabilidade (%). (<sup>1</sup>) | Quantidade total de REEE recolhida no SIED com percurso totalmente documentado desde o comerciante até ao OGR de tratamento final [toneladas]/Quantidade total de REEE recolhida no SIED [toneladas] por categoria de equipamento. | Plataforma do SIED; Documentos de transporte de resíduos (e-GAR). | Semestral. | 100 % |
-| 2.2 | Taxa de Conformidade da Atribuição do Incentivo (%). (<sup>2</sup>) | N.º de resultados conformes na atribuição de descontos/N.º total de descontos atribuídos por categoria de equipamento. | Plataforma do SIED; Relatórios de auditoria interna/externa. | Semestral. | n.a. |
-| (<sup>1</sup>) Este indicador funciona como um Indicador de Conformidade e Controlo, sendo um pressuposto base do sistema. O seu objetivo é verificar a robustez do controlo e a ausência de desvios, e não medir um “desempenho” variável. O valor-meta para este indicador é, por definição, 100 %. A obtenção de um resultado inferior a 100 % não representa um desempenho a otimizar, mas sim uma não-conformidade crítica do sistema, indiciando falha de registo, fraude ou desvio de resíduos, e deve acionar mecanismos de auditoria e controlo imediatos.(<sup>2</sup>) Resultado de auditorias (amostrais ou contínuas) que verificam a correta aplicação dos mecanismos de controlo na atribuição do desconto. | (<sup>1</sup>) Este indicador funciona como um Indicador de Conformidade e Controlo, sendo um pressuposto base do sistema. O seu objetivo é verificar a robustez do controlo e a ausência de desvios, e não medir um “desempenho” variável. O valor-meta para este indicador é, por definição, 100 %. A obtenção de um resultado inferior a 100 % não representa um desempenho a otimizar, mas sim uma não-conformidade crítica do sistema, indiciando falha de registo, fraude ou desvio de resíduos, e deve acionar mecanismos de auditoria e controlo imediatos.(<sup>2</sup>) Resultado de auditorias (amostrais ou contínuas) que verificam a correta aplicação dos mecanismos de controlo na atribuição do desconto. | (<sup>1</sup>) Este indicador funciona como um Indicador de Conformidade e Controlo, sendo um pressuposto base do sistema. O seu objetivo é verificar a robustez do controlo e a ausência de desvios, e não medir um “desempenho” variável. O valor-meta para este indicador é, por definição, 100 %. A obtenção de um resultado inferior a 100 % não representa um desempenho a otimizar, mas sim uma não-conformidade crítica do sistema, indiciando falha de registo, fraude ou desvio de resíduos, e deve acionar mecanismos de auditoria e controlo imediatos.(<sup>2</sup>) Resultado de auditorias (amostrais ou contínuas) que verificam a correta aplicação dos mecanismos de controlo na atribuição do desconto. | (<sup>1</sup>) Este indicador funciona como um Indicador de Conformidade e Controlo, sendo um pressuposto base do sistema. O seu objetivo é verificar a robustez do controlo e a ausência de desvios, e não medir um “desempenho” variável. O valor-meta para este indicador é, por definição, 100 %. A obtenção de um resultado inferior a 100 % não representa um desempenho a otimizar, mas sim uma não-conformidade crítica do sistema, indiciando falha de registo, fraude ou desvio de resíduos, e deve acionar mecanismos de auditoria e controlo imediatos.(<sup>2</sup>) Resultado de auditorias (amostrais ou contínuas) que verificam a correta aplicação dos mecanismos de controlo na atribuição do desconto. | (<sup>1</sup>) Este indicador funciona como um Indicador de Conformidade e Controlo, sendo um pressuposto base do sistema. O seu objetivo é verificar a robustez do controlo e a ausência de desvios, e não medir um “desempenho” variável. O valor-meta para este indicador é, por definição, 100 %. A obtenção de um resultado inferior a 100 % não representa um desempenho a otimizar, mas sim uma não-conformidade crítica do sistema, indiciando falha de registo, fraude ou desvio de resíduos, e deve acionar mecanismos de auditoria e controlo imediatos.(<sup>2</sup>) Resultado de auditorias (amostrais ou contínuas) que verificam a correta aplicação dos mecanismos de controlo na atribuição do desconto. | (<sup>1</sup>) Este indicador funciona como um Indicador de Conformidade e Controlo, sendo um pressuposto base do sistema. O seu objetivo é verificar a robustez do controlo e a ausência de desvios, e não medir um “desempenho” variável. O valor-meta para este indicador é, por definição, 100 %. A obtenção de um resultado inferior a 100 % não representa um desempenho a otimizar, mas sim uma não-conformidade crítica do sistema, indiciando falha de registo, fraude ou desvio de resíduos, e deve acionar mecanismos de auditoria e controlo imediatos.(<sup>2</sup>) Resultado de auditorias (amostrais ou contínuas) que verificam a correta aplicação dos mecanismos de controlo na atribuição do desconto. |
+| 2.1 | Taxa de Rastreabilidade (%). (1) | Quantidade total de REEE recolhida no SIED com percurso totalmente documentado desde o comerciante até ao OGR de tratamento final [toneladas]/Quantidade total de REEE recolhida no SIED [toneladas] por categoria de equipamento. | Plataforma do SIED; Documentos de transporte de resíduos (e-GAR). | Semestral. | 100 % |
+| 2.2 | Taxa de Conformidade da Atribuição do Incentivo (%). (2) | N.º de resultados conformes na atribuição de descontos/N.º total de descontos atribuídos por categoria de equipamento. | Plataforma do SIED; Relatórios de auditoria interna/externa. | Semestral. | n.a. |
+| (1) Este indicador funciona como um Indicador de Conformidade e Controlo, sendo um pressuposto base do sistema. O seu objetivo é verificar a robustez do controlo e a ausência de desvios, e não medir um “desempenho” variável. O valor-meta para este indicador é, por definição, 100 %. A obtenção de um resultado inferior a 100 % não representa um desempenho a otimizar, mas sim uma não-conformidade crítica do sistema, indiciando falha de registo, fraude ou desvio de resíduos, e deve acionar mecanismos de auditoria e controlo imediatos.(2) Resultado de auditorias (amostrais ou contínuas) que verificam a correta aplicação dos mecanismos de controlo na atribuição do desconto. |  |  |  |  |  |
 
 3 - Indicadores de desempenho ambiental
 
@@ -343,3 +363,7 @@ A seleção e metodologia de cálculo alinham-se com as metas estabelecidas no [
 | 5.2 | Taxa de Utilização do Incentivo (%). | Número de descontos emitidos/número de EEE novos elegíveis vendidos no universo dos comerciantes aderentes por categoria de equipamento. | Plataforma do SIED. | Semestral. | 100 % |
 | 5.3 | Nível de Satisfação dos Comerciantes. | Resultado de inquéritos de satisfação periódicos junto dos comerciantes sobre a operacionalização do sistema (e.g., facilidade de uso da plataforma, prazos de ressarcimento). | Inquéritos conduzidos pelo SIED. | Anual. | 100 % |
 | 5.4 | Nível de satisfação do destinatário do incentivo. | Resultado de inquéritos de satisfação (amostrais, no ponto de venda ou online) sobre a notoriedade do SIED, facilidade de utilização e clareza das regras. | Inquéritos conduzidos pelo SIED. | Anual. | 100 % |
+
+119948523
+
+.Tbl2 { height:26px; } .Tbl3 { text-align:center; } .Tbl4 { min-height:34px; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl8 { min-height:44px; } .Tbl9 { min-height:37px; } .Tbl10 { min-height:54px; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl13 { min-height:56px; } .Tbl14 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl15 { min-height:47px; } .Tbl16 { border-collapse:collapse; border-width:1px; }

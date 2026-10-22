@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/26/2026/02/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/26-2026-1039332357
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-09T00:00:00Z'
+  retrieved_at: '2026-10-22T18:31:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54e94a4671973ea64e9bc0a0c52476cc32e6638ce0bf3d190d6a0b35ab8b9aa6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c329f7182e905ba308254283383c30521beb6018e8674d3db23ab12c4a32999
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:31:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- SIRESP
 - Indemnização Compensatória
 - Serviço Público
+- SIRESP
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/13-a/2025/03/10/p/dre
@@ -85,16 +85,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/34-b/2021/05/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/34-b/2021/05/14/p/dre
+- type: cites
+  target: pt:dre:163442523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:910323298:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:31:42Z'
   warnings: []
   errors: []
 ---
@@ -124,3 +140,5 @@ Nos termos da alínea e) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 197/99](
 5 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 29 de janeiro de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119947605

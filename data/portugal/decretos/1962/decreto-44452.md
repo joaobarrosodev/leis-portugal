@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44452-1962-162846
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-01-26T00:00:00Z'
+  retrieved_at: '2026-10-22T19:30:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ef1081f20474159d4682a626f442ab5b80fac999ab187b84ad7ee83ff6504e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce3517e6ebb9c817f6f37f6361a448775f75f48567e2c4d5296c4a332a6d9ade
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:30:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,37 @@ relationships:
   target: pt:dre:1859944:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1859944:por
+  label: "Alargada à Quinta do Paço de Valverde, sita na Herdade da Mitra, freguesia de Nossa Senhora da Tourega, concelho\
+    \ e distrito de Évora, bem como à mata, várias pequenas capelas, Jardim de Jericó e lago, aqueduto, edificado no século\
+    \ xvii, todo o sistema hídrico, casa da água, jardim de buxo, horta e todos os muros e muretes que dividem e estruturam\
+    \ o sítio, enquanto parte integrante do convento, capela e claustro, a classificação como imóvel de interesse público\
+    \ constante deste diploma, pela PORT.79/2010.26.01.2010.MC, DR.IIS [17] de 26.01.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/79-2010-1859944
+  date: '2010-01-26'
+- type: cites
+  target: pt:dre:184960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523016:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:30:08Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +112,7 @@ Nos termos dos artigos 2.º e 30.º do [Decreto n.º 20985](https://diariodarepu
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São classificados como imóveis de interesse público os seguintes imóveis:
+Artigo 1.º São classificados como imóveis de interesse público os seguintes imóveis:
 
 Distrito de Braga:
 
@@ -125,12 +146,12 @@ Distrito de Viseu:
 
 Concelho de Lamego - cruzeiro gótico instalado na ala norte do Museu de Lamego.
 
-###### Art. 2.º É eliminado da relação dos imóveis de interesse público o seguinte imóvel, classificado pelo [Decreto n.º 44075](https://diariodarepublica.pt/dr/detalhe/decreto/44075-1961-184960), de 5 de Dezembro de 1961:
+Art. 2.º É eliminado da relação dos imóveis de interesse público o seguinte imóvel, classificado pelo [Decreto n.º 44075](https://diariodarepublica.pt/dr/detalhe/decreto/44075-1961-184960), de 5 de Dezembro de 1961:
 
 Distrito de Lisboa:
 
 Concelho de Lisboa - prédio no Campo dos Mártires da Pátria, 36 a 39, em Lisboa (Palácio Valmor), na parte em que existem painéis de azulejo do século XVII.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Julho de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Lopes de Almeida.

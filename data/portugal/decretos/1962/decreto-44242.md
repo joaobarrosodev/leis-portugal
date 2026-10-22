@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44242-1962-516718
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-03-20T00:00:00Z'
+  retrieved_at: '2026-10-22T19:28:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34b2634b17301290dba112a34789e2156837bc1a453b868368bd6e37d209fa1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9366950c97ade49166b7aa59b8dfcc30d35dbe00568c8509cca1762e81013d06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:28:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:183056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437047:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:28:30Z'
   warnings: []
   errors: []
 ---
@@ -88,17 +104,17 @@ Convindo fixar os sistemas de promoção e de admissões definitiva e provisóri
 
 Usando da faculdade conferida pelo n.º 3.º do ar trigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º As vacaturas verificadas no quadro de enfermeiros tenentes graduados pára-quedistas, referido no [Decreto n.º 43975](https://diariodarepublica.pt/dr/detalhe/decreto/43975-1961-183056), de 21 de Outubro de 1961, são preenchidas pela promoção, por escolha do Secretário de Estado da Aeronáutica, mediante parecer da Comissão Técnica da Força Aérea, de enfermeiros alferes graduados pára-quedistas com um ano de serviço neste posto.
+Artigo 1.º As vacaturas verificadas no quadro de enfermeiros tenentes graduados pára-quedistas, referido no [Decreto n.º 43975](https://diariodarepublica.pt/dr/detalhe/decreto/43975-1961-183056), de 21 de Outubro de 1961, são preenchidas pela promoção, por escolha do Secretário de Estado da Aeronáutica, mediante parecer da Comissão Técnica da Força Aérea, de enfermeiros alferes graduados pára-quedistas com um ano de serviço neste posto.
 
-###### Art. 2.º As vacaturas verificadas na quadro de enfermeiros alferes graduados pára-quedistas, referido no mesmo [Decreto n.º 43975](https://diariodarepublica.pt/dr/detalhe/decreto/43975-1961-183056), são preenchidas:
+Art. 2.º As vacaturas verificadas na quadro de enfermeiros alferes graduados pára-quedistas, referido no mesmo [Decreto n.º 43975](https://diariodarepublica.pt/dr/detalhe/decreto/43975-1961-183056), são preenchidas:
 
 a) Pela promoção, por escolha do Secretário de Estado da Aeronáutica, mediante parecer da Comissão Técnica da Força Aérea, de enfermeiros sargentos-ajudantes graduados pára-quedistas com um ano de serviço neste posto e habilitados com o curso geral de enfermagem;
 
 b) Pela admissão automática e definitiva, nos termos do disposto no artigo 2.º do [Decreto n.º 42075](https://diariodarepublica.pt/dr/detalhe/decreto/42075-1958-342474), de 31 de Dezembro de 1958, dos indivíduos admitidos provisòriamente, nos termos do disposto no mesmo artigo, e aprovados no curso de pára-quedismo.
 
-###### Art. 3.º A admissão provisória, referida na alínea b) do artigo 2.º, faz-se em quantitativos não superiores às vacaturas existentes no posto de alferes graduado, neste mesmo posto e por escolha do Secretário de Estado da Aeronáutica, entre os candidatos civis de idade não superior a 30 anos habilitados com o curso geral de enfermagem e aprovados nas provas e exame referidos no artigo 2.º do [Decreto n.º 42075](https://diariodarepublica.pt/dr/detalhe/decreto/42075-1958-342474), de 31 de Dezembro de 1958.
+Art. 3.º A admissão provisória, referida na alínea b) do artigo 2.º, faz-se em quantitativos não superiores às vacaturas existentes no posto de alferes graduado, neste mesmo posto e por escolha do Secretário de Estado da Aeronáutica, entre os candidatos civis de idade não superior a 30 anos habilitados com o curso geral de enfermagem e aprovados nas provas e exame referidos no artigo 2.º do [Decreto n.º 42075](https://diariodarepublica.pt/dr/detalhe/decreto/42075-1958-342474), de 31 de Dezembro de 1958.
 
-###### Art. 4.º As promoções no quadro de enfermeiros sargentos graduados pára-quedistas, referido no mesmo [Decreto n.º 43975](https://diariodarepublica.pt/dr/detalhe/decreto/43975-1961-183056), são feitas pelo Secretário de Estado da Aeronáutica:
+Art. 4.º As promoções no quadro de enfermeiros sargentos graduados pára-quedistas, referido no mesmo [Decreto n.º 43975](https://diariodarepublica.pt/dr/detalhe/decreto/43975-1961-183056), são feitas pelo Secretário de Estado da Aeronáutica:
 
 a) A sargento-ajudante graduado: por escolha, mediante parecer da Comissão Técnica da Força Aérea, entre os enfermeiros primeiros-sargentos graduados pára-quedistas considerados aptos no respectivo concurso de mérito absoluto;
 
@@ -106,12 +122,12 @@ b) A primeiro-sargento graduado: por antiguidade, entre os enfermeiros segundos-
 
 c) A segundo-sargento graduado: por diuturnidade, entre os enfermeiros furriéis graduados pára-quedistas com um ano de serviço neste posto.
 
-###### Art. 5.º As vacaturas verificadas no mesmo quadro são preenchidas no posta de furriel graduado, pela admissão automática e definitiva, nos termos do disposto no artigo 2.º do [Decreto n.º 42075](https://diariodarepublica.pt/dr/detalhe/decreto/42075-1958-342474), de 31 de Dezembro de 1958, dos indivíduos admitidos provisòriamente, nos termos do disposto no mesmo artigo, e aprovados no curso de pára-quedismo.
+Art. 5.º As vacaturas verificadas no mesmo quadro são preenchidas no posta de furriel graduado, pela admissão automática e definitiva, nos termos do disposto no artigo 2.º do [Decreto n.º 42075](https://diariodarepublica.pt/dr/detalhe/decreto/42075-1958-342474), de 31 de Dezembro de 1958, dos indivíduos admitidos provisòriamente, nos termos do disposto no mesmo artigo, e aprovados no curso de pára-quedismo.
 
-###### Art. 6.º A admissão provisória, referida no artigo 5.º, faz-se em quantitativos não superiores às vacaturas existentes no quadro de enfermeiros sargentos graduados pára-quedistas e no posto de furriel graduado, por escolha do Secretário de Estado da Aeronáutica, entre os candidatos civis de idade não superior a 30 anos, auxiliares de enfermagem, aprovados no exame de enfermagem, feito na força Aérea, e nas provas e exame referidos no artigo 2.º do [Decreto n.º 42075](https://diariodarepublica.pt/dr/detalhe/decreto/42075-1958-342474), de 31 de Dezembro de 1958.
+Art. 6.º A admissão provisória, referida no artigo 5.º, faz-se em quantitativos não superiores às vacaturas existentes no quadro de enfermeiros sargentos graduados pára-quedistas e no posto de furriel graduado, por escolha do Secretário de Estado da Aeronáutica, entre os candidatos civis de idade não superior a 30 anos, auxiliares de enfermagem, aprovados no exame de enfermagem, feito na força Aérea, e nas provas e exame referidos no artigo 2.º do [Decreto n.º 42075](https://diariodarepublica.pt/dr/detalhe/decreto/42075-1958-342474), de 31 de Dezembro de 1958.
 
-###### Art. 7.º (transitório). Nos anos de 1961 e 1962, as admissões definitiva e provisória, referidas nos artigos 5.º e 6.º, podem fazer-se no posto de primeiro-sargento e entre candidatos civis de idade não superior a 32 anos.
+Art. 7.º (transitório). Nos anos de 1961 e 1962, as admissões definitiva e provisória, referidas nos artigos 5.º e 6.º, podem fazer-se no posto de primeiro-sargento e entre candidatos civis de idade não superior a 32 anos.
 
-**Publique-se e cumpra-se como nele se contêm.**
+Publique-se e cumpra-se como nele se contêm.
 
 Paços do Governo da República, 20 de Março de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Kaulza Oliveira de Arriaga.

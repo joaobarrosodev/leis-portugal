@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/111/2026/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2026-1129514951
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-05T00:00:00Z'
+  retrieved_at: '2026-10-22T18:43:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6bcd8af188bebfee77317900e0cf497624616a29f717fbdc7ef34fcbfa0fcaa7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 956c5086dbdd204959d7ef177fb83f63a114961ecc0f4d7ee51406e41234b7da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:43:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,14 +69,14 @@ reuse:
 subjects:
 - Ajuda Comunitária
 - Concelho
+- Eficiência Energética
 - Fundo de Contragarantia Mútuo
 - Linha de Crédito
-- Reembolso
-- Eficiência Energética
-- Suspensão de Prazo
-- Prejuízo Financeiro
-- Situação de Calamidade
 - Portugal 2030
+- Prejuízo Financeiro
+- Reembolso
+- Situação de Calamidade
+- Suspensão de Prazo
 - Tempestade Kristin
 relationships:
 - type: cites
@@ -119,16 +119,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/15-c/2026/02/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/15-c/2026/02/01/p/dre
+- type: cites
+  target: pt:dre:1031784677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1031784680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1039107607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1050874165:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1060523854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1075294793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206478423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210543862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66619907:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:43:05Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +191,7 @@ O mencionado decreto-lei prevê, entre outras medidas, o diferimento de prestaç
 
 Face aos graves prejuízos económicos na atividade das empresas beneficiárias destes instrumentos, verifica-se a necessidade de expandir o quadro de apoios nesta matéria, de modo a prever não só o diferimento de prestações vincendas, mas também a suspensão dos processos de recuperação de apoios de fundos europeus, bem como o diferimento de prestações vincendas relativas a operações reembolsáveis no âmbito da eficiência energética.
 
-Assim, são suspensos, pelo período de seis meses, mediante requerimento das entidades beneficiárias e decisão das autoridades de gestão, determinados processos que digam respeito a entidades beneficiárias cuja sede ou a localização da operação cofinanciada se situe nos concelhos abrangidos pela situação de calamidade, declarada através das Resoluções do Conselho de Ministros n.<sup>os</sup>[15-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-b-2026-1031784677), de 30 de janeiro, e [15-C/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-c-2026-1031784680), de 1 de fevereiro, ou identificados no [Despacho n.º 2389-A/2026](https://diariodarepublica.pt/dr/detalhe/despacho/2389-a-2026-1060523854), publicado no Diário da República, 2.ª série, n.º 38, de 24 de fevereiro de 2026.
+Assim, são suspensos, pelo período de seis meses, mediante requerimento das entidades beneficiárias e decisão das autoridades de gestão, determinados processos que digam respeito a entidades beneficiárias cuja sede ou a localização da operação cofinanciada se situe nos concelhos abrangidos pela situação de calamidade, declarada através das Resoluções do Conselho de Ministros n.os[15-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-b-2026-1031784677), de 30 de janeiro, e [15-C/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-c-2026-1031784680), de 1 de fevereiro, ou identificados no [Despacho n.º 2389-A/2026](https://diariodarepublica.pt/dr/detalhe/despacho/2389-a-2026-1060523854), publicado no Diário da República, 2.ª série, n.º 38, de 24 de fevereiro de 2026.
 
 São ainda diferidos, mediante requerimento das entidades beneficiárias, por um período de seis meses, prorrogável por igual período, a exigibilidade das prestações relativas a subsídios reembolsáveis atribuídos no âmbito da eficiência energética, com vencimento em data igual ou posterior a 28 de janeiro de 2026, sem aplicação de juros ou de qualquer outra penalidade para as entidades beneficiárias. Acresce que, no contexto do conflito atual no Médio Oriente, que tem provocado perturbações significativas nos mercados internacionais de energia, com impacto relevante nos custos operacionais das empresas, o Governo anunciou o lançamento da «Linha Portugal Resiliência Energética», no valor de 600 milhões de euros, destinada a financiar empresas por via de crédito cujos custos com energia representem mais de 20 % dos custos de produção, permitindo apoiar necessidades de tesouraria e fundo de maneio. Esta nova linha, operacionalizada pelo Banco Português de Fomento, junta-se ao conjunto de medidas já adotadas pelo Governo para mitigar o impacto do aumento excecional do preço dos combustíveis provocado pela crise geopolítica no Médio Oriente. Pretende-se que o Fundo de Contragarantia Mútuo (FCGM) preste garantia ao cumprimento dos apoios concedidos ao abrigo da linha «Portugal Resiliência Energética», incluindo a micro, pequenas e médias empresas, Small Mid Cap, Mid Cap, e grandes empresas.
 
@@ -169,7 +217,7 @@ b) Diferimento de prestações vincendas relativas a operações reembolsáveis 
 
 ###### Artigo 2.º — Âmbito de aplicação
 
-Os artigos 3.º e 4.º aplicam-se às entidades beneficiárias cuja sede ou atividade relevante cofinanciada se situe nos concelhos abrangidos pela situação de calamidade, declarada através das Resoluções do Conselho de Ministros n.<sup>os</sup>[15-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-b-2026-1031784677), de 30 de janeiro, e [15-C/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-c-2026-1031784680), de 1 de fevereiro, ou identificados no [Despacho n.º 2389-A/2026](https://diariodarepublica.pt/dr/detalhe/despacho/2389-a-2026-1060523854), publicado no Diário da República, 2.ª série, n.º 38, de 24 de fevereiro de 2026.
+Os artigos 3.º e 4.º aplicam-se às entidades beneficiárias cuja sede ou atividade relevante cofinanciada se situe nos concelhos abrangidos pela situação de calamidade, declarada através das Resoluções do Conselho de Ministros n.os[15-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-b-2026-1031784677), de 30 de janeiro, e [15-C/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-c-2026-1031784680), de 1 de fevereiro, ou identificados no [Despacho n.º 2389-A/2026](https://diariodarepublica.pt/dr/detalhe/despacho/2389-a-2026-1060523854), publicado no Diário da República, 2.ª série, n.º 38, de 24 de fevereiro de 2026.
 
 ###### Artigo 3.º — Suspensão dos processos de recuperação de apoios de fundos europeus recebidos indevidamente ou não justificados
 
@@ -239,7 +287,7 @@ e) De linhas de crédito, mediante emissão de garantias individuais ou de carte
 
 11 - [...]
 
-12 - Os montantes garantidos nos termos da alínea e) do n.º 1 não são considerados para efeitos dos limites previstos nos n.<sup>os</sup>4 e 5.»
+12 - Os montantes garantidos nos termos da alínea e) do n.º 1 não são considerados para efeitos dos limites previstos nos n.os4 e 5.»
 
 ###### Artigo 6.º — Norma revogatória
 
@@ -253,12 +301,14 @@ e) De linhas de crédito, mediante emissão de garantias individuais ou de carte
 
 Visto e aprovado em Conselho de Ministros de 9 de abril de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Manuel Castro Almeida - Maria da Graça Carvalho.
 
-**Promulgado em 28 de maio de 2026.**
+Promulgado em 28 de maio de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 29 de maio de 2026.**
+Referendado em 29 de maio de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119948688

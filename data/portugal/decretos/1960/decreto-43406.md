@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43406-1960-512635
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-06-14T00:00:00Z'
+  retrieved_at: '2026-10-22T19:21:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78944326398e7e59cf066832ce09c92821f1c4acf6ff14e2876688398cfc1ee7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1bf1b18cd8a7a0c71d3d9db1cd4bd6e142690f5d0ca7af64bbeabd1add736b9e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:21:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,20 @@ relationships:
   target: pt:dre:627468:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:21:38Z'
   warnings: []
   errors: []
 ---
@@ -95,10 +99,10 @@ Tendo em vista o disposto na artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção-Geral dos Edifícios e Monumentos Nacionais a celebrar contrata com a firma António do Amaral & Filho para a execução da empreitada de construção do agrupamento de casas económicas de Viso (Porto), pela importância de 16534704$30.
+Artigo 1.º É autorizada a Direcção-Geral dos Edifícios e Monumentos Nacionais a celebrar contrata com a firma António do Amaral & Filho para a execução da empreitada de construção do agrupamento de casas económicas de Viso (Porto), pela importância de 16534704$30.
 
-###### Art. 2.º Seja qual for o valor das obras a realizar não poderá a Direcção-Geral dos Edifícios e Monumentos Nacionais despender com pagamentos relativos às obras executadas, por virtude de contrato, mais de 3000000$00 no corrente ano, 10000000$00 no ano de 1961 e 3534704$30, ou o que se apurar como saldo, no ano de 1962.
+Art. 2.º Seja qual for o valor das obras a realizar não poderá a Direcção-Geral dos Edifícios e Monumentos Nacionais despender com pagamentos relativos às obras executadas, por virtude de contrato, mais de 3000000$00 no corrente ano, 10000000$00 no ano de 1961 e 3534704$30, ou o que se apurar como saldo, no ano de 1962.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Eduardo de Arantes e Oliveira.

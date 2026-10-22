@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43644-1961-169933
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-05-03T00:00:00Z'
+  retrieved_at: '2026-10-22T19:23:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fde5f12e44babbd7236dc0333618c35f872e1f510f1244ecd9fff6243f050bea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0002353f9608407b07617f442abfaccd3d1a0f566cae8c7f6f92297853ae2759
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:23:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:384414:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:23:28Z'
   warnings: []
   errors: []
 ---
@@ -87,9 +91,9 @@ Tendo a experiência mostrado a necessidade de alterar algumas das disposições
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os artigos 237.º, 239.º, 247.º e 248.º do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948, passam a ter a seguinte redacção:
+Artigo único. Os artigos 237.º, 239.º, 247.º e 248.º do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948, passam a ter a seguinte redacção:
 
-###### Art. 237.º - 1. Os exames de admissão constam de uma parte geral e de uma parte especial.
+Art. 237.º - 1. Os exames de admissão constam de uma parte geral e de uma parte especial.
 
 2. A parte geral, comum a todos os candidatos sem distinção de categoria ou grupo, consiste numa redacção sobre o assunto capital da história de Portugal.
 
@@ -189,20 +193,20 @@ Idem de um assunto de ciências geográfico-naturais.
 
 ...
 
-###### Art. 239.º Os pontos e assuntos para as diversas provas dos candidatos a professores efectivos e dos candidatos a professores adjuntos versam matérias dos programas do ensino técnico profissional, vigentes à data em que for requerido o exame, para as disciplinas, respectivamente, do 2.º e do 1.º grau, mas será levado em conta o nível de habilitação exigida para o magistério em cada um dos graus.
+Art. 239.º Os pontos e assuntos para as diversas provas dos candidatos a professores efectivos e dos candidatos a professores adjuntos versam matérias dos programas do ensino técnico profissional, vigentes à data em que for requerido o exame, para as disciplinas, respectivamente, do 2.º e do 1.º grau, mas será levado em conta o nível de habilitação exigida para o magistério em cada um dos graus.
 
 ...
 
-###### Art. 247.º - 1. A classificação das provas da parte especial é feita para cada uma depois da sua prestação por todos os candidatos. São eliminados aqueles que tiverem uma nota inferior a 8 valores.
+Art. 247.º - 1. A classificação das provas da parte especial é feita para cada uma depois da sua prestação por todos os candidatos. São eliminados aqueles que tiverem uma nota inferior a 8 valores.
 
 2. Nas sessões de classificação, a nota a atribuir a cada prova será a média simples das notas que lhe foram atribuídas pelos membros do júri que, tratando-se de prova escrita, tenham procedido à sua apreciação, ou, tratando-se de prova oral, a ela tenham assistido.
 
-###### Art. 248.º - 1. A classificação final de cada candidato é a média aritmética simples aproximada às décimas das classificações de todas as provas, entrando a classificação da parte geral como uma das parcelas do numerador, com ponderação igual às restantes.
+Art. 248.º - 1. A classificação final de cada candidato é a média aritmética simples aproximada às décimas das classificações de todas as provas, entrando a classificação da parte geral como uma das parcelas do numerador, com ponderação igual às restantes.
 
 2. Serão aprovados os candidatos que obtenham média aritmética de 10 ou superior.
 
 3. Na última sessão o júri ordenará, em mérito relativo os candidatos aprovados. Se dois candidatos se apresentarem com a mesma média final, a ordenação é feita pela classificação obtida na habilitação a que se referem os artigos 228.º e 229.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 3 de Maio de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Francisco de Paula Leite Pinto.

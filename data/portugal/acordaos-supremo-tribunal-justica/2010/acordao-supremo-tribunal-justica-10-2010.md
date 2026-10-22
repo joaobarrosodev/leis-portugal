@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/10/2010/12/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/10-2010-306935
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-16T00:00:00Z'
+  retrieved_at: '2026-10-22T17:52:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a55d176b86cbb387bf37bbbd3c4fbb3b19e7c9f63b1661e441b127e0e236563
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2d9f60168c06b0af6c02ef5050fbcca127a090288b3a369b00930418bba1a6c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:52:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
 - Acesso ao Direito
-- Interpretação do Direito
-- Supremo Tribunal de Justiça
-- Providencia Cautelar
 - Código Penal
 - Direito Penal
+- Interpretação do Direito
+- Providencia Cautelar
+- Recurso
+- Supremo Tribunal de Justiça
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/329-a/1995/12/12/p/dre
@@ -95,16 +95,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/59/1998/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/59/1998/08/25/p/dre
+- type: cites
+  target: pt:dre:226051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641082:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:52:49Z'
   warnings: []
   errors: []
 ---
@@ -419,7 +443,9 @@ Garantia penal da providência
 
 Incorre na pena do crime de desobediência qualificada todo aquele que infrinja a providência cautelar decretada, sem prejuízo das medidas adequadas à sua execução coerciva.
 
-###### Artigo 348.º [do CP] — Desobediência
+Artigo 348.º [do CP]
+
+Desobediência
 
 1 - Quem faltar à obediência devida a ordem ou a mandado legítimos, regularmente comunicados e emanados de autoridade ou funcionário competente, é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias se:
 

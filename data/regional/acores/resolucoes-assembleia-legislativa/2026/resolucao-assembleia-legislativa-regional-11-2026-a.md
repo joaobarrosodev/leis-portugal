@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalraa/11/2026/03/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/11-2026-1075988797
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-24T00:00:00Z'
+  retrieved_at: '2026-10-22T18:36:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61e60e9568a7e79b2d921918b09bf83ef754bd5923397e329706f82be33d08a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51e7d4857941beac325cb064a6f43f0c1e15438faf91a87b6a489786bbae8ea8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:36:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Autarquia Local
 - Estatuto Político-administrativo da Região Autónoma dos Açores
 - Governo Regional
 - Lei das Finanças Locais
 - Recomendação
-- Açores
-- Autarquia Local
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/73/2013/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/73/2013/09/03/p/dre
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:36:33Z'
   warnings: []
   errors: []
 ---
@@ -166,4 +170,6 @@ j) O reforço do financiamento do Estado às autarquias locais considerando o ac
 
 Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 24 de fevereiro de 2026.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
+
+119948044

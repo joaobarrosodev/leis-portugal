@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/127/2026/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2026-1139191706
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-26T00:00:00Z'
+  retrieved_at: '2026-10-22T18:45:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8763ae21713ea1953fa86586055ec505294d45519e47e1d8160f2bc467e6e0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d268ef55b3e21be3d25b32a80bebf5bc183e4b0605348248e9993937110b424
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:45:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,44 +67,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Acreditação
 - Aeronave com Motor
+- Agricultura
 - Aproximação das Legislações
 - Armazenagem
-- Gestão de Resíduos
-- Formação Profissional
-- Certificação Profissional
-- Multa
-- Definição de Competências
-- Direcção Regional de Agricultura e Pescas
-- Instituto Nacional de Aviação Civil
-- Direção Geral de Alimentação e Veterinária
-- Controlo Sanitário
-- Especificação Técnica
 - Base de Dados
-- Licenciamento
+- Certificação Profissional
+- Comércio
+- Contraordenação
+- Controlo Sanitário
+- Definição de Competências
+- Direção Geral de Alimentação e Veterinária
+- Direcção Regional de Agricultura e Pescas
 - Documento Eletrónico
 - Embalagem
+- Equipamento Agrícola
+- Especificação Técnica
+- Formação Profissional
+- Gestão de Resíduos
+- Instituto Nacional de Aviação Civil
+- Licenciamento
+- Madeira.região Autónoma
+- Multa
 - Normas de Segurança
 - Operador de Trabalho Aéreo
 - Pessoal Técnico
-- Sistema de Informação
+- Pesticida
 - Prazo
+- Produto Fitofarmacêutico
 - Qualificação Profissional
-- Madeira.região Autónoma
 - Receita Própria
 - Regime Jurídico
 - Regulamento CE
-- Equipamento Agrícola
-- Pesticida
-- Produto Fitofarmacêutico
-- Agricultura
 - Sanção
-- Açores
+- Sistema de Informação
 - TAXA de Prestação de Serviços
-- Comércio
-- Contraordenação
 relationships:
+- type: amends
+  target: pt:numero:lei:26/2013
+  label: Altera, a partir de 27 de junho de 2026, o artigo 18.º da Lei n.º 26/2013, de 11 de abril, Diário da República n.º
+    71/2013, Série I
+  source: null
+  date: '2013-04-11'
 - type: cites
   target: celex:32009L0128
   label: null
@@ -125,6 +131,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/26/2013/04/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/26/2013/04/11/p/dre
+- type: cites
+  target: pt:dre:106654351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:126731019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260454:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32009L0128
   label: null
@@ -132,13 +154,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:45:07Z'
   warnings: []
   errors: []
 ---
@@ -147,11 +169,11 @@ validation:
 
 de 26 de junho
 
-A [Lei n.º 26/2013](https://diariodarepublica.pt/dr/detalhe/lei/26-2013-260454), de 11 de abril, alterada pelos Decretos-Leis n.<sup>os</sup>[35/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2017-106654351), de 24 de março, [169/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2019-126731019), de 29 de novembro, e [9/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), de 29 de janeiro, regula as atividades de distribuição, venda e aplicação de produtos fitofarmacêuticos para uso profissional e de adjuvantes de produtos fitofarmacêuticos e define os procedimentos de monitorização à utilização dos produtos fitofarmacêuticos, transpondo a [Diretiva n.º 2009/128/CE](https://data.europa.eu/eli/dir/2009/128/oj?locale=pt), do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, que estabelece um quadro de ação a nível comunitário para uma utilização sustentável dos pesticidas.
+A [Lei n.º 26/2013](https://diariodarepublica.pt/dr/detalhe/lei/26-2013-260454), de 11 de abril, alterada pelos Decretos-Leis n.os[35/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2017-106654351), de 24 de março, [169/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2019-126731019), de 29 de novembro, e [9/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), de 29 de janeiro, regula as atividades de distribuição, venda e aplicação de produtos fitofarmacêuticos para uso profissional e de adjuvantes de produtos fitofarmacêuticos e define os procedimentos de monitorização à utilização dos produtos fitofarmacêuticos, transpondo a [Diretiva n.º 2009/128/CE](https://data.europa.eu/eli/dir/2009/128/oj?locale=pt), do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, que estabelece um quadro de ação a nível comunitário para uma utilização sustentável dos pesticidas.
 
-Nos termos dos n.<sup>os</sup>5 e 9 do artigo 18.º da referida lei, a habilitação como aplicador de produtos fitofarmacêuticos é válida por 10 anos, renovável por iguais períodos.
+Nos termos dos n.os5 e 9 do artigo 18.º da referida lei, a habilitação como aplicador de produtos fitofarmacêuticos é válida por 10 anos, renovável por iguais períodos.
 
-Para efeitos de renovação, o aplicador deve dispor de certificado de aproveitamento na avaliação final da ação de formação de atualização em aplicação de produtos fitofarmacêuticos ou ter obtido aproveitamento em prova de conhecimentos, nos termos dos n.<sup>os</sup>7 e 8 do artigo 18.º
+Para efeitos de renovação, o aplicador deve dispor de certificado de aproveitamento na avaliação final da ação de formação de atualização em aplicação de produtos fitofarmacêuticos ou ter obtido aproveitamento em prova de conhecimentos, nos termos dos n.os7 e 8 do artigo 18.º
 
 Desde a entrada em vigor das normas comunitárias relativas à utilização sustentável dos produtos fitofarmacêuticos, não se verificaram alterações significativas aos princípios e orientações estruturantes que regem este regime. A estabilidade normativa observada ao longo dos últimos anos demonstra que o período de validade inicialmente fixado para a habilitação deixou de refletir a evolução real do quadro regulatório. Assim, justifica-se o alargamento do prazo de validade da habilitação, mantendo-se, naturalmente, as exigências de formação contínua que asseguram a atualização dos conhecimentos dos aplicadores.
 
@@ -171,7 +193,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto-lei procede à quarta alteração à [Lei n.º 26/2013](https://diariodarepublica.pt/dr/detalhe/lei/26-2013-260454), de 11 de abril, alterada pelos Decretos-Leis n.<sup>os</sup>[35/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2017-106654351), de 24 de março, [169/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2019-126731019), de 29 de novembro, e [9/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), de 29 de janeiro, que regula as atividades de distribuição, venda e aplicação de produtos fitofarmacêuticos para uso profissional e de adjuvantes de produtos fitofarmacêuticos e define os procedimentos de monitorização à utilização dos produtos fitofarmacêuticos, transpondo a [Diretiva n.º 2009/128/CE](https://data.europa.eu/eli/dir/2009/128/oj?locale=pt), do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, que estabelece um quadro de ação a nível comunitário para uma utilização sustentável dos pesticidas.
+O presente decreto-lei procede à quarta alteração à [Lei n.º 26/2013](https://diariodarepublica.pt/dr/detalhe/lei/26-2013-260454), de 11 de abril, alterada pelos Decretos-Leis n.os[35/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2017-106654351), de 24 de março, [169/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2019-126731019), de 29 de novembro, e [9/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), de 29 de janeiro, que regula as atividades de distribuição, venda e aplicação de produtos fitofarmacêuticos para uso profissional e de adjuvantes de produtos fitofarmacêuticos e define os procedimentos de monitorização à utilização dos produtos fitofarmacêuticos, transpondo a [Diretiva n.º 2009/128/CE](https://data.europa.eu/eli/dir/2009/128/oj?locale=pt), do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, que estabelece um quadro de ação a nível comunitário para uma utilização sustentável dos pesticidas.
 
 ###### Artigo 2.º — Alteração à [Lei n.º 26/2013](https://diariodarepublica.pt/dr/detalhe/lei/26-2013-260454), de 11 de abril
 
@@ -211,12 +233,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de abril de 2026. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - José Manuel Fernandes.
 
-**Promulgado em 22 de junho de 2026.**
+Promulgado em 22 de junho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 23 de junho de 2026.**
+Referendado em 23 de junho de 2026.
 
 Pelo Primeiro-Ministro, Joaquim Miranda Sarmento, Ministro de Estado e das Finanças.
+
+119948899

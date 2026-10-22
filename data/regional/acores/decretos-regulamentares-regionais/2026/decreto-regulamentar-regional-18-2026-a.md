@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/18/2026/08/05/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2026-1154555184
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T18:49:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f20ecaabfbf6d1e8602fc42120809284f835487d8cd93e54fd501f3c7aa5667
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5565796c89dbf08d0817883308efba75643d4730618ea0f6ea1adea699b81cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:49:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
+- Açores
 - Contra-ordenação
-- Ilha de São Jorge
-- Parque Natural
-- Proteção do Ambiente
 - Espécie Protegida
-- Património Natural
+- Ilha de São Jorge
+- Ordenamento do Território
+- Parque Natural
 - Parque Natural de Ilha
 - Parque Natural de São Jorge
+- Património Natural
+- Proteção do Ambiente
 - Regulamento
-- Açores
 relationships:
 - type: cites
   target: celex:31991L0676
@@ -129,6 +129,122 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:122373686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178080768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207881792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208326768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:64797341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70014797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74711478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75170439:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31991L0676
   label: null
@@ -144,13 +260,13 @@ relationships:
 article_structure:
   article_count: 28
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:49:22Z'
   warnings: []
   errors: []
 ---
@@ -227,11 +343,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 13 de maio de 2026.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 8 de julho de 2026.**
+Assinado em Angra do Heroísmo em 8 de julho de 2026.
 
-**Publique-se.**
+Publique-se.
 
 A Representante da República para a Região Autónoma dos Açores, Susana Goulart Costa.
 
@@ -625,15 +741,18 @@ Planta de Zonamento
 
 Cartograma 1A
 
-![](https://files.diariodarepublica.pt/images/1154555184/1154555170.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555184/1154555170.png) |
+| --- |
 
 Cartograma 1B
 
-![](https://files.diariodarepublica.pt/images/1154555184/1154555171.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555184/1154555171.png) |
+| --- |
 
 Cartograma 1C
 
-![](https://files.diariodarepublica.pt/images/1154555184/1154555172.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555184/1154555172.png) |
+| --- |
 
 ## ANEXO III — [a que se refere a alínea c) do n.º 1 do artigo 1.º]
 
@@ -641,15 +760,18 @@ Planta de Condicionantes
 
 Cartograma 2A
 
-![](https://files.diariodarepublica.pt/images/1154555184/1154555173.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555184/1154555173.png) |
+| --- |
 
 Cartograma 2B
 
-![](https://files.diariodarepublica.pt/images/1154555184/1154555174.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555184/1154555174.png) |
+| --- |
 
 Cartograma 2C
 
-![](https://files.diariodarepublica.pt/images/1154555184/1154555575.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555184/1154555575.png) |
+| --- |
 
 ## ANEXO IV — [a que se refere a alínea d) do n.º 1 do artigo 1.º]
 
@@ -767,31 +889,36 @@ Plano de Gestão das Áreas Terrestres do Parque Natural da Ilha de São Jorge
 
 O Arquipélago dos Açores localiza-se no oceano Atlântico norte, ocupando uma faixa definida pelas seguintes coordenadas geográficas: 39° 43’ 23’’ (Ponta Norte - ilha do Corvo) e 36° 55’ 43’’ (Ponta do Castelo - ilha de Santa Maria) de latitude norte; 24° 46’ 15’’ (ilhéus das Formigas - ilha de Santa Maria) e 31° 16’ 24’’ (ilhéu de Monchique - ilha das Flores) de longitude oeste.
 
-![](https://files.diariodarepublica.pt/images/1154555184/1154555576.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555184/1154555576.png) |
+| --- |
 
 Figura 1 - Arquipélago dos Açores no mundo
 
 As ilhas encontram-se agrupadas atendendo à proximidade geográfica: Grupo Ocidental (Corvo e Flores); Grupo Central (Terceira, Graciosa, São Jorge, Pico e Faial); Grupo Oriental (São Miguel e Santa Maria). O Grupo Central distancia-se cerca de 150 km e de 240 km dos Grupos Oriental e Ocidental, respetivamente.
 
-![](https://files.diariodarepublica.pt/images/1154555184/1154555577.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555184/1154555577.png) |
+| --- |
 
 Figura 2 - Arquipélago dos Açores e ilha de São Jorge
 
 A partir da Carta de Ocupação do Solo da Região Autónoma dos Açores de 2018 (COS.A/2018) pode concluir-se que os prados/pastagens dominam a ocupação do solo (29,11 %), seguindo-se as florestas de folhosas com 27,24 % e a vegetação herbácea natural, com 25,57 %, esta última tendo o valor mais elevado da Região.
 
-![](https://files.diariodarepublica.pt/images/1154555184/1154555578.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555184/1154555578.png) |
+| --- |
 
 Figura 3 - Usos do solo a partir da COS.A (DRA, 2018).
 
 Para a adequada gestão dos Parques Naturais de Ilha (PNI) é também fundamental ter conhecimento do regime de propriedade dos terrenos neles integrados. Nos Açores, uma parte substancial dos terrenos públicos estão integrados nos perímetros florestais, sendo que, na ilha de São Jorge (figura 4), o perímetro florestal representa cerca de 8 % do respetivo Parque Natural, abrangendo um conjunto de terrenos baldios que foram submetidos ao regime florestal parcial e que se encontram sob gestão da entidade com competência em matéria de recursos florestais. Refira-se, no entanto, que as áreas de perímetro florestal que, entretanto, foram classificadas no âmbito da Rede de Áreas Protegidas dos Açores estão sujeitas ao respetivo regime de classificação e ao regime jurídico da conservação da natureza e da biodiversidade, estabelecido pelo [Decreto Legislativo Regional n.º 15/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2012-553893), de 2 de abril.
 
-![](https://files.diariodarepublica.pt/images/1154555184/1154555579.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555184/1154555579.png) |
+| --- |
 
 Figura 4 - Perímetro florestal e áreas protegidas (perímetro florestal - DRRF, 2014)
 
 O regime jurídico da conservação da natureza e biodiversidade, aprovado pelo [Decreto Legislativo Regional n.º 15/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2012-553893), de 2 de abril, define a Rede Fundamental de Conservação da Natureza como o conjunto dos territórios orientados para a conservação das componentes mais representativas do património natural e da biodiversidade. O conjunto das áreas integradas no Parque Natural de Ilha, Rede Natura 2000 e as áreas de Reserva Ecológica e de Reserva Agrícola conformam a Rede Fundamental da Conservação da Natureza (figura 5).
 
-![](https://files.diariodarepublica.pt/images/1154555184/1154555580.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555184/1154555580.png) |
+| --- |
 
 Figura 5 - Rede Fundamental da Conservação da Natureza - Integra as áreas protegidas, as áreas da Rede Natura 2000, a Reserva Ecológica e a Reserva Agrícola (IROA 2013)
 
@@ -811,29 +938,30 @@ Este Plano de Gestão contribui para a concretização desses objetivos.
 
 Foram consideradas para a ilha de São Jorge, onze unidades de paisagem, a seguir identificadas com a respetiva denominação e código:
 
-a) Rosais/Beira (SJ1) - abrange uma área de, aproximadamente, 39 km<sup>2</sup> do concelho de Velas e integra os aglomerados urbanos de Rosais, Beira e Ladeiras;
+a) Rosais/Beira (SJ1) - abrange uma área de, aproximadamente, 39 km2 do concelho de Velas e integra os aglomerados urbanos de Rosais, Beira e Ladeiras;
 
-b) Velas (SJ2) - abrange uma área de, aproximadamente, 2 km<sup>2</sup> do concelho de Velas e integra o centro urbano da vila das Velas;
+b) Velas (SJ2) - abrange uma área de, aproximadamente, 2 km2 do concelho de Velas e integra o centro urbano da vila das Velas;
 
-c) Encosta Urzelina/Manadas (SJ3) - abrange uma área de, aproximadamente, 23 km<sup>2</sup> do concelho de Velas e integra os aglomerados urbanos de Santo Amaro, Queimada, Urzelina, Casteletes e Manadas;
+c) Encosta Urzelina/Manadas (SJ3) - abrange uma área de, aproximadamente, 23 km2 do concelho de Velas e integra os aglomerados urbanos de Santo Amaro, Queimada, Urzelina, Casteletes e Manadas;
 
-d) Picos Centrais (SJ4) - apresenta uma área de, aproximadamente, 17 km<sup>2</sup>, abrangendo os concelhos de Velas e Calheta, e não integra aglomerados urbanos;
+d) Picos Centrais (SJ4) - apresenta uma área de, aproximadamente, 17 km2, abrangendo os concelhos de Velas e Calheta, e não integra aglomerados urbanos;
 
-e) Norte (SJ5) - apresenta uma área de, aproximadamente, 28 km<sup>2</sup>, abrangendo os concelhos de Velas e Calheta, e integra os aglomerados urbanos de Toledo, Outeiro da Cruz, Santo António, Norte Grande, Ribeira da Areia e Norte Pequeno;
+e) Norte (SJ5) - apresenta uma área de, aproximadamente, 28 km2, abrangendo os concelhos de Velas e Calheta, e integra os aglomerados urbanos de Toledo, Outeiro da Cruz, Santo António, Norte Grande, Ribeira da Areia e Norte Pequeno;
 
-f) Encosta da Calheta (SJ6) - apresenta uma área de, aproximadamente, 22 km<sup>2</sup>, abrangendo os concelhos de Velas e Calheta, e integra os aglomerados urbanos de Fajã das Almas, Biscoitos, Fajã Grande, Calheta e Ribeira Seca;
+f) Encosta da Calheta (SJ6) - apresenta uma área de, aproximadamente, 22 km2, abrangendo os concelhos de Velas e Calheta, e integra os aglomerados urbanos de Fajã das Almas, Biscoitos, Fajã Grande, Calheta e Ribeira Seca;
 
-g) Pastagens do Topo (SJ7) - apresenta uma área de, aproximadamente, 46 km<sup>2</sup>, abrangendo os concelhos de Velas e Calheta, e não integra aglomerados urbanos;
+g) Pastagens do Topo (SJ7) - apresenta uma área de, aproximadamente, 46 km2, abrangendo os concelhos de Velas e Calheta, e não integra aglomerados urbanos;
 
-h) Arribas e Fajãs da Costa Norte (SJ8) - apresenta uma área de, aproximadamente, 36 km<sup>2</sup>, abrangendo os concelhos de Velas e Calheta, e integra os aglomerados urbanos de Fajã do João Dias, Fajã do Ouvidor, Fajã da Ribeira da Areia, Fajã da Penedia, Fajã das Pontas, Fajã dos Cubres, Fajã do Belo, Fajã dos Tijolos, Fajã da Caldeira do Santo Cristo, Fajã Redonda, Fajã do Sanguinhal, Fajã do Castelhano, Fajã do Nortezinho e Fajã dos Cubres;
+h) Arribas e Fajãs da Costa Norte (SJ8) - apresenta uma área de, aproximadamente, 36 km2, abrangendo os concelhos de Velas e Calheta, e integra os aglomerados urbanos de Fajã do João Dias, Fajã do Ouvidor, Fajã da Ribeira da Areia, Fajã da Penedia, Fajã das Pontas, Fajã dos Cubres, Fajã do Belo, Fajã dos Tijolos, Fajã da Caldeira do Santo Cristo, Fajã Redonda, Fajã do Sanguinhal, Fajã do Castelhano, Fajã do Nortezinho e Fajã dos Cubres;
 
-i) Arribas das Fajãs dos Vimes e de São João (SJ9) - abrange uma área de, aproximadamente, 14 km<sup>2</sup> do concelho da Calheta e integra os aglomerados urbanos de Fajã dos Vimes, Fajã dos Bodes, Fajã de Além, Fajã de São João e Fajã do Cardoso;
+i) Arribas das Fajãs dos Vimes e de São João (SJ9) - abrange uma área de, aproximadamente, 14 km2 do concelho da Calheta e integra os aglomerados urbanos de Fajã dos Vimes, Fajã dos Bodes, Fajã de Além, Fajã de São João e Fajã do Cardoso;
 
-j) Serra do Topo (SJ10) - abrange uma área de, aproximadamente, 4 km<sup>2</sup> do concelho da Calheta e não integra aglomerados urbanos;
+j) Serra do Topo (SJ10) - abrange uma área de, aproximadamente, 4 km2 do concelho da Calheta e não integra aglomerados urbanos;
 
-k) Terras do Topo (SJ11) - abrange uma área de, aproximadamente, 14 km<sup>2</sup> do concelho da Calheta e integra os aglomerados urbanos de Topo, Santo Antão e São Tomé.
+k) Terras do Topo (SJ11) - abrange uma área de, aproximadamente, 14 km2 do concelho da Calheta e integra os aglomerados urbanos de Topo, Santo Antão e São Tomé.
 
-![](https://files.diariodarepublica.pt/images/1154555184/1154555581.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555184/1154555581.png) |
+| --- |
 
 Figura 6 - Unidades de Paisagem da ilha de São Jorge
 
@@ -857,27 +985,31 @@ Atualmente, nos Açores são conhecidos mais de três centenas de cavidades vulc
 
 Neste contexto, o Plano de Gestão prevê a implementação de medidas de gestão para as cavidades vulcânicas, dando execução ao disposto no [Decreto Legislativo Regional n.º 10/2019/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2019-122373686), de 22 de maio.
 
-![](https://files.diariodarepublica.pt/images/1154555184/1154555582.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555184/1154555582.png) |
+| --- |
 
 Figura 7 - Distribuição das cavidades vulcânicas na Ilha de São Jorge
 
 O Parque Natural de São Jorge foi criado em 2011, pelo [Decreto Legislativo Regional n.º 10/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2011-277642), de 28 de março. Integram o PNI de São Jorge todas as áreas protegidas da Rede Natura 2000, nomeadamente as Zonas Especiais de Conservação (ZEC), as Zonas de Proteção Especial (ZPE), e as restantes áreas protegidas classificadas e reclassificadas segundo o referido decreto.
 
-O PNI de São Jorge integra 13 áreas protegidas, das quais 9 são terrestres, com uma área total de 56,51 km<sup>2</sup>, o que corresponde a 23 % da superfície da ilha, e 4 áreas marinhas com 19,42 km<sup>2</sup>. Na figura 8 apresentam-se as áreas protegidas do PNI com o respetivo código, atribuído pelo diploma de classificação.
+O PNI de São Jorge integra 13 áreas protegidas, das quais 9 são terrestres, com uma área total de 56,51 km2, o que corresponde a 23 % da superfície da ilha, e 4 áreas marinhas com 19,42 km2. Na figura 8 apresentam-se as áreas protegidas do PNI com o respetivo código, atribuído pelo diploma de classificação.
 
-![](https://files.diariodarepublica.pt/images/1154555184/1154555583.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555184/1154555583.png) |
+| --- |
 
 Figura 8 - Áreas protegidas do PNI de São Jorge e código adotado
 
 Na figura 9 apresentam-se as áreas protegidas pertencentes ao PNI de São Jorge, descriminadas segundo as categorias definidas pela União Internacional para a Conservação da Natureza (IUCN): à categoria iii corresponde a designação de Monumento Natural; à categoria iv corresponde a designação de Área Protegida para a Gestão de Habitats ou Espécies (APGHE); à categoria v corresponde a designação de Área de Paisagem Protegida e à categoria vi a designação de Área Protegida para a Gestão de Recursos.
 
-![](https://files.diariodarepublica.pt/images/1154555184/1154555584.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555184/1154555584.png) |
+| --- |
 
 Figura 9 - Áreas protegidas de acordo com as categorias IUCN
 
 Na figura 10 apresenta-se a relação das áreas terrestres do PNI de São Jorge com as áreas da Rede Natura 2000, concretamente as Zonas Especiais de Conservação (ZEC) e as Zonas de Proteção Especial (ZPE).
 
-![](https://files.diariodarepublica.pt/images/1154555184/1154555585.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555184/1154555585.png) |
+| --- |
 
 Figura 10 - Relação das Zonas Especiais de Conservação (ZEC) e das Zonas de Proteção Especial (ZPE) com as áreas protegidas do PNI de São Jorge
 
@@ -907,7 +1039,8 @@ E têm ainda que apresentar um modelo de governação e um plano de ação/gest�
 
 Esta classificação não colide com as Áreas Protegidas ou com a Rede Natura 2000, pois é complementar e beneficia do trabalho que aí se desenvolve, nomeadamente ao nível da conservação da biodiversidade.
 
-![](https://files.diariodarepublica.pt/images/1154555184/1154555586.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555184/1154555586.png) |
+| --- |
 
 Figura 11 - Relação das zonas da Reserva da Biosfera com as áreas protegidas do PNI
 
@@ -947,11 +1080,12 @@ Os objetivos gerais do Plano de Gestão são balizados pelos objetivos de desenv
 
 A metodologia seguida na elaboração deste Plano de Gestão encontra-se esquematizada na Figura 12.
 
-![](https://files.diariodarepublica.pt/images/1154555184/1154555587.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555184/1154555587.png) |
+| --- |
 
 Figura 12 - Metodologia usada na elaboração do Plano de Gestão
 
-Para cada área protegida, houve lugar à elaboração de uma ficha de caracterização, que inclui uma caracterização geral, de habitats, flora e fauna protegidos <sup>1</sup>. Os usos do solo e a componente cultural e social da paisagem são também abordados.
+Para cada área protegida, houve lugar à elaboração de uma ficha de caracterização, que inclui uma caracterização geral, de habitats, flora e fauna protegidos 1. Os usos do solo e a componente cultural e social da paisagem são também abordados.
 
 Procedeu-se à elaboração de um diagnóstico que incluiu uma análise SWOT, aspetos relativos à vulnerabilidade das áreas protegidas, habitats e espécies e medidas de gestão que se encontram já a ser implementadas ou cuja implementação se verifica necessária.
 
@@ -959,7 +1093,7 @@ Cada área protegida foi objeto de um zonamento em que se procedeu a uma subdivi
 
 Para cada área protegida, estabeleceram-se objetivos e medidas de gestão. Os objetivos abrangem toda a área protegida e decorrem dos decretos legislativos regionais que deram origem ao estabelecimento das mesmas, no entanto são direcionados já aos valores presentes na área protegida em questão. As medidas de gestão são próprias de cada unidade operativa de gestão e estão já direcionadas para a conservação, recuperação e gestão de determinados habitats, espécies, elementos geológicos ou paisagens. Podem ser efetivamente implementadas no terreno e são passíveis de ser avaliadas e monitorizadas. Estes elementos são incluídos em tabelas e constituem o programa de execução para cada área protegida.
 
-<sup>1</sup> Os critérios que presidiram à inclusão dos habitats e espécies nas fichas de caracterização das áreas protegidas são os seguintes: Em primeiro lugar teve-se em conta os habitats e espécies integrados nas FDN - Standart Data Form da Rede Natura 2000 - Fichas de caracterização das áreas de Rede Natura 2000 (ZEC e ZPE) regularmente submetidas à Comissão Europeia. Estas fichas são atualizadas com a informação científica mais recente, as que estão a ser utilizadas são na generalidade de 2015; em segundo lugar teve-se em conta os levantamentos bibliográficos e formulários preenchidos pelo pessoal técnico dos PNI, respeitantes às áreas protegidas; em terceiro lugar a informação recolhida aquando dos levantamentos de campo.
+1 Os critérios que presidiram à inclusão dos habitats e espécies nas fichas de caracterização das áreas protegidas são os seguintes: Em primeiro lugar teve-se em conta os habitats e espécies integrados nas FDN - Standart Data Form da Rede Natura 2000 - Fichas de caracterização das áreas de Rede Natura 2000 (ZEC e ZPE) regularmente submetidas à Comissão Europeia. Estas fichas são atualizadas com a informação científica mais recente, as que estão a ser utilizadas são na generalidade de 2015; em segundo lugar teve-se em conta os levantamentos bibliográficos e formulários preenchidos pelo pessoal técnico dos PNI, respeitantes às áreas protegidas; em terceiro lugar a informação recolhida aquando dos levantamentos de campo.
 
 3 - Objetivos Estratégicos e Matriz SWOT
 
@@ -1253,7 +1387,7 @@ Tabela 5 - Tipos de medidas de gestão e códigos correspondentes
 
 5.1 - Proposta de intervenção para o Monumento Natural da Ponta dos Rosais (SJO01)
 
-| Condicionantes | Condicionantes |
+| Condicionantes |  |
 | --- | --- |
 | Plano Diretor Municipal das Velas | Solo Rústico - Espaços Naturais e Culturais |
 |  | Faróis e outros Sinais Marítimos |
@@ -1275,7 +1409,7 @@ Tabela 5 - Tipos de medidas de gestão e códigos correspondentes
 |  | Imóveis em Vias de Classificação |
 |  | Leito e Margem das Águas do Mar |
 |  | Marcos Geodésicos |
-|  | Rede Viária - Acesso Pedonal \\| Trilhos Pedestres |
+|  | Rede Viária - Acesso Pedonal \| Trilhos Pedestres |
 |  | Rede Viária - Estradas Regionais |
 |  | Rede Viária - Outras Vias |
 |  | Reserva Agrícola Regional |
@@ -1284,15 +1418,15 @@ Tabela 5 - Tipos de medidas de gestão e códigos correspondentes
 | Plano de Atividades Extrativas | Áreas interditas para a extração de massas minerais |
 | Faróis | Farol dos Rosais |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| Unidades Operativas de Gestão |  |
 | --- | --- |
 | SJO01.01 - Falésias e ilhéus | Área prioritária para a conservação (34,323 ha) |
 | SJO01.02 - Ponta dos Rosais - zona arbórea | Área de proteção complementar (103,161 ha) |
 | SJO01.03 - Ponta dos Rosais - pastagens | Área de uso sustentável de recursos (32,711 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| Elementos de fruição da paisagem |  |
 | --- | --- |
-| Miradouros | Miradouros |
+| Miradouros |  |
 | Vigia da baleia | Existente |
 | Farol dos Rosais | Existente |
 
@@ -1306,19 +1440,19 @@ OB3. Prevenir tipos de exploração ou ocupação que possam constituir ameaça 
 
 5.1.2 - Quadro-resumo das medidas de gestão
 
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial |
+| Medidas de gestão |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
-| SJO01.01 | M1.1. |  |  |  |  |  |  |  |  | M6.9. | M6.15. |  |  |
+| Unidade Operativa de Gestão | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M6 - Medidas relacionadas com planeamento espacial |  |  |  |  |  |  |  |  |  |
+| SJO01.01 | M1.1. |  |  |  | M6.9. | M6.15. |  |  |  |  |  |  |  |
 | SJO01.02 | M1.1. |  | M2.9. | M2.10. | M2.18. |  | M3.2. | M3.17. |  | M6.6. | M6.7. | M6.15. |  |
-| SJO01.03 | M1.1. |  | M2.4. | M2.5. | M2.9. |  |  |  |  | M6.15. |  |  |  |
+| SJO01.03 | M1.1. |  | M2.4. | M2.5. | M2.9. |  |  | M6.15. |  |  |  |  |  |
 
-| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
+| Medidas de gestão |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | SJO01.01 | M7.2. | M7.3. | M7.10. | M7.11. | M7.13. | M7.17. | M7.18. |  |  |  |  |  |  |  |  |  |
 | SJO01.02 | M7.2. | M7.3. | M7.10. | M7.11. | M7.13. | M7.14 | M7.15. | M7.16. | M7.17. | M7.18. | M7.26. | M7.31. | M7.32. | M8.38. | M8.64. |  |
-| SJO01.03 | M7.2. | M7.3. | M7.10. | M7.11. | M7.13. | M7.15. | M7.17. | M7.18. | M7.31. | M7.32. |  |  |  | M8.44. | M8.64. |  |
+| SJO01.03 | M7.2. | M7.3. | M7.10. | M7.11. | M7.13. | M7.15. | M7.17. | M7.18. | M7.31. | M7.32. |  | M8.44. | M8.64. |  |  |  |
 
 5.1.3 - Medidas de gestão
 
@@ -1378,7 +1512,7 @@ OB3. Prevenir tipos de exploração ou ocupação que possam constituir ameaça 
 
 5.2 - Proposta de intervenção para a Área Protegida para a Gestão de Habitats ou Espécies da Costa Noroeste (SJO02)
 
-| Condicionantes | Condicionantes |
+| Condicionantes |  |
 | --- | --- |
 | Plano Diretor Municipal das Velas | Áreas de Risco Natural |
 |  | Solo Rústico - Espaços Naturais e Culturais |
@@ -1408,12 +1542,12 @@ OB3. Prevenir tipos de exploração ou ocupação que possam constituir ameaça 
 | Outras nascentes | Choupana - SJZ VE 08; Fonte Nova - SJZ VE 11 |
 | Adutoras | N. Choupana - C. J. Caudal Choupana (1) |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| Unidades Operativas de Gestão |  |
 | --- | --- |
 | SJO02.01 - Falésia | Área prioritária para a conservação (659,773 05 ha) |
 | SJO02.02 - Fajãs | Área de uso sustentável de recursos (41,889 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| Elementos de fruição da paisagem |  |
 | --- | --- |
 | Miradouros |  |
 | SJO.M4 - Miradouro Fernão Afonso | Existente |
@@ -1436,15 +1570,15 @@ OB7. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.2.2 - Quadro-resumo das medidas de gestão
 
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial |
+| Medidas de gestão |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
-| SJO02.01 | M1.1. |  |  |  |  |  | M6.15. |  |
+| Unidade Operativa de Gestão | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M6 - Medidas relacionadas com planeamento espacial |  |  |  |  |  |
+| SJO02.01 | M1.1. |  |  | M6.15. |  |  |  |  |
 | SJO02.02 | M1.1. |  | M2.4. | M2.5. | M2.21. |  | M6.15. |  |
 
-| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
+| Medidas de gestão |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |  |  |  |
 | SJO02.01 | M7.2. | M7.3. | M7.10. | M7.11. | M7.13. |  |  |  |  |  |
 | SJO02.02 | M7.2. | M7.3. | M7.10. | M7.11. | M7.17. | M7.18. | M7.31. |  | M8.38. |  |
 
@@ -1475,7 +1609,7 @@ OB7. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.3 - Proposta de intervenção para a Área Protegida para a Gestão de Habitats ou Espécies da Costa Sudoeste (SJO03)
 
-| Condicionantes | Condicionantes |
+| Condicionantes |  |
 | --- | --- |
 | Plano Diretor Municipal das Velas | Solo Rústico - Espaços Naturais e Culturais |
 |  | Leitos e Margens das Águas do Mar |
@@ -1504,14 +1638,14 @@ OB7. Permitir que a população local usufrua de benefícios que resultem da pr�
 | Vértices geodésicos | Morro Grande; Ponta Ruiva |
 | Zona Tráfego Aeródromo | ATZ do Aeródromo de São Jorge |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| Unidades Operativas de Gestão |  |
 | --- | --- |
 | SJO03.01 - Falésias | Área prioritária para a conservação (159,295 ha) |
 | SJO03.02 - Morros | Área de uso sustentável dos recursos (47,926 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| Elementos de fruição da paisagem |  |
 | --- | --- |
-| Moinhos | Moinhos |
+| Moinhos |  |
 | Moinho do Morro Grande de Velas | Existente |
 
 5.3.1 - Objetivos de gestão
@@ -1532,15 +1666,15 @@ OB7. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.3.2 - Quadro-resumo das medidas de gestão
 
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial |
+| Medidas de gestão |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
-| SJO03.01 | M1.1. |  |  |  |  |  |  |  | M6.15. |  |  |
+| Unidade Operativa de Gestão | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M6 - Medidas relacionadas com planeamento espacial |  |  |  |  |  |  |  |  |
+| SJO03.01 | M1.1. |  |  | M6.15. |  |  |  |  |  |  |  |
 | SJO03.02 | M1.1. |  | M2.1. | M2.4. | M2.5. | M2.9. | M2.10. |  | M6.9. | M6.15. |  |
 
-| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
+| Medidas de gestão |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |  |  |  |  |  |  |  |
 | SJO03.01 | M7.2. | M7.3. | M7.10. | M7.11. | M7.13. |  |  |  |  |  |  |  |  |  |
 | SJO03.02 | M7.3. | M7.10. | M7.11. | M7.15. | M7.17. | M7.18. | M7.24. | M7.26. | M7.31. |  | M8.25. | M8.44. | M8.64. |  |
 
@@ -1578,7 +1712,7 @@ OB7. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.4 - Proposta de intervenção para a Área Protegida para a Gestão de Habitats ou Espécies da Costa de Velas (SJO04)
 
-| Condicionantes | Condicionantes |
+| Condicionantes |  |
 | --- | --- |
 | Plano Diretor Municipal das Velas | Áreas de Risco Natural |
 |  | Solo Rústico - Espaços Naturais e Culturais |
@@ -1615,16 +1749,16 @@ OB7. Permitir que a população local usufrua de benefícios que resultem da pr�
 | Faróis | Farol de Santo Amaro |
 | Zona Tráfego Aeródromo | ATZ do Aeródromo de São Jorge |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| Unidades Operativas de Gestão |  |
 | --- | --- |
 | SJO04.01 - Falésias | Área prioritária para a conservação (42,511 ha) |
 | SJO04.02A - Carregadouro a Portinho | Área de uso sustentável de recursos (6,637 ha) |
 | SJO04.02B - Zona confinante à exploração de inertes da Tecnovia e Portinho da Ribeira do Nabo | Área de uso sustentável de recursos (4,605 ha) |
 | SJO04.02C - Zonas sobranceiras | Área de uso sustentável de recursos (8,221 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| Elementos de fruição da paisagem |  |
 | --- | --- |
-| Miradouros | Miradouros |
+| Miradouros |  |
 | SJO.M1 - Miradouro das Velas | Existente |
 | SJO.M2 - Miradouro do Carregadouro | Existente |
 
@@ -1646,36 +1780,36 @@ OB7. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.4.2 - Quadro-resumo das medidas de gestão
 
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial |
+| Medidas de gestão |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
-| SJO04.01 | M1.1. |  |  |  |  |  |  |  |  |  |  |  | M6.15. |  |
-| SJO04.02A | M1.1. |  |  |  |  |  |  |  |  |  |  |  | M6.15. |  |
-| SJO04.02B | M1.1. |  |  |  |  |  |  |  |  |  | M4.18. |  | M6.15. |  |
+| Unidade Operativa de Gestão | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial |  |  |  |  |  |  |  |  |  |  |
+| SJO04.01 | M1.1. |  |  |  | M6.15. |  |  |  |  |  |  |  |  |  |
+| SJO04.02A | M1.1. |  |  |  | M6.15. |  |  |  |  |  |  |  |  |  |
+| SJO04.02B | M1.1. |  |  | M4.18. |  | M6.15. |  |  |  |  |  |  |  |  |
 | SJO04.02C | M1.1. |  | M2.1. | M2.4. | M2.5. | M2.9. | M2.12. | M2.21. | M2.22. |  | M4.18 |  | M6.15. |  |
 
-| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |
+| Medidas de gestão |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | SJO04.01 | M7.2. | M7.3. | M7.10. | M7.11. | M7.13. | M7.30. |  |  |  |  |  |  |  |  |  |
 | SJO04.02A | M7.3. | M7.6. | M7.8. | M7.10. | M7.11. | M7.12. | M7.13. | M7.16. | M7.17. | M7.18. | M7.30. | M7.31. | M7.32. |  |  |
 | SJO04.02B | M7.2. | M7.3. | M7.6. | M7.8. | M7.10. | M7.11. | M7.12. | M7.13. | M7.16. | M7.17. | M7.18 | M7.30. | M7.31. | M7.32. |  |
 | SJO04.02C | M7.10. | M7.11. | M7.12. | M7.13. | M7.16. | M7.17. |  |  |  |  |  |  |  |  |  |
 
-| Unidade Operativa de Gestão | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M9 - Medidas relacionadas com uso especial dos recursos | M9 - Medidas relacionadas com uso especial dos recursos | M9 - Medidas relacionadas com uso especial dos recursos |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
-| SJO04.01 |  |  |  |  |  |  |  |
-| SJO04.02A | M8.44. | M8.47. | M8.64. |  |  |  |  |
-| SJO04.02B | M8.64. |  |  |  | M9.2. | M9.5. |  |
-| SJO04.02C | M8.64. |  |  |  |  |  |  |
+| Medidas de gestão |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Unidade Operativa de Gestão | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M9 - Medidas relacionadas com uso especial dos recursos |  |  |  |
+| SJO04.01 |  |  |  |  |  |
+| SJO04.02A | M8.44. | M8.47. | M8.64. |  |  |
+| SJO04.02B | M8.64. |  | M9.2. | M9.5. |  |
+| SJO04.02C | M8.64. |  |  |  |  |
 
 5.4.3 - Medidas de gestão
 
 | Unidade Operativa de Gestão | Regime de proteção | Medidas de gestão | Descrição |
 | --- | --- | --- | --- |
 | SJO04.01 | Área prioritária para a conservação | M1.1. | Fiscalização da Área Protegida pelos Vigilantes da Natureza. |
-| SJO04.01 | Área prioritária para a conservação | M6.15. | Mapeamento em GPS e elaboração de relatórios de todas as atividades executadas no âmbito da implementação do Plano de Gestão. |
+| M6.15. | Mapeamento em GPS e elaboração de relatórios de todas as atividades executadas no âmbito da implementação do Plano de Gestão. |  |  |
 |  |  | M7.2. | Inventariação de fauna. |
 |  |  | M7.3. | Monitorização de aves: Calonectris borealis (cagarro), Charadrius alexandrinus (borrelho), Sterna dougallii (garajau-rosado) e Sterna hirundo (garajau-comum). |
 |  |  | M7.10. | Caracterização das espécies protegidas e das manchas de habitats protegidos. |
@@ -1683,7 +1817,7 @@ OB7. Permitir que a população local usufrua de benefícios que resultem da pr�
 |  |  | M7.13. | Estudos suplementares sobre processos de erosão. |
 |  |  | M7.30. | Medidas especificas para a espécie Corema azoricum (camarinha). |
 | SJO04.02A | Área de uso sustentável de recursos | M1.1. | Fiscalização da Área Protegida pelos Vigilantes da Natureza. |
-| SJO04.02A | Área de uso sustentável de recursos | M6.15. | Mapeamento em GPS e elaboração de relatórios de todas as atividades executadas no âmbito da implementação do Plano de Gestão. |
+| M6.15. | Mapeamento em GPS e elaboração de relatórios de todas as atividades executadas no âmbito da implementação do Plano de Gestão. |  |  |
 |  |  | M7.3. | Monitorização de fauna. |
 |  |  | M7.6. | Libertação de avifauna. |
 |  |  | M7.8. | Gestão de fauna invasora. |
@@ -1701,7 +1835,7 @@ OB7. Permitir que a população local usufrua de benefícios que resultem da pr�
 |  |  | M8.47. | Adaptação de miradouro a pessoas de mobilidade reduzida. |
 |  |  | M8.64. | Gestão de resíduos provenientes de atividades de remoção de espécies invasoras. |
 | SJO04.02B | Área de uso sustentável de recursos | M1.1. | Fiscalização da Área Protegida pelos Vigilantes da Natureza. |
-| SJO04.02B | Área de uso sustentável de recursos | M4.18. | Restauro de zonas costeiras. |
+| M4.18. | Restauro de zonas costeiras. |  |  |
 |  |  | M6.15. | Mapeamento em GPS e elaboração de relatórios de todas as atividades executadas no âmbito da implementação do Plano de Gestão. |
 |  |  | M7.2. | Inventariação de fauna. |
 |  |  | M7.3. | Monitorização de aves: Calonectris borealis (cagarro), Charadrius alexandrinus (borrelho), Sterna dougallii (garajau-rosado) e Sterna hirundo (garajau-comum). |
@@ -1721,7 +1855,7 @@ OB7. Permitir que a população local usufrua de benefícios que resultem da pr�
 |  |  | M9.2. | Regulação/Gestão de exploração de pedreiras. |
 |  |  | M9.5. | Recuperação paisagística de zonas de extração de inertes e pedreiras. |
 | SJO04.02C | Área de uso sustentável dos recursos | M1.1. | Fiscalização da Área Protegida pelos Vigilantes da Natureza. |
-| SJO04.02C | Área de uso sustentável dos recursos | M2.1. | Manutenção de pastagens e outros habitats abertos. |
+| M2.1. | Manutenção de pastagens e outros habitats abertos. |  |  |
 |  |  | M2.4. | Realização de ações de sensibilização para o maneio de fotoquímicos, pesticidas e herbicidas em zonas agrícolas. Diminuição da sua utilização e controlo das quantidades usadas. |
 |  |  | M2.5. | Realização de ações de sensibilização para o maneio de fertilização em zonas agrícolas. Diminuição da sua utilização e controlo das quantidades usadas. |
 |  |  | M2.9. | Vedação de terrenos. |
@@ -1738,7 +1872,7 @@ OB7. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.5 - Proposta de intervenção para a Área Protegida para a Gestão de Habitats ou Espécies do Pico da Esperança e Planalto Central (SJO05)
 
-| Condicionantes | Condicionantes |
+| Condicionantes |  |
 | --- | --- |
 | Plano Diretor Municipal das Velas | Áreas de Risco Natural |
 |  | Solo Rústico - Espaços Naturais e Culturais |
@@ -1766,16 +1900,16 @@ OB7. Permitir que a população local usufrua de benefícios que resultem da pr�
 | Vértices geodésicos | Brenhas 1.º; Brenhas 2.º; Pico do Pedro; Pico da Junça; Pico Verde; Pico da Esperança; Espigão |
 | Adutoras | R. Chã das Lagoinhas - Tê R. Chã das Lagoinhas (1); N. Chã das Lagoinhas - R. Chã das Lagoinhas (3); N. Maria Alves I - N. Chã das Lagoinhas (2); N. Pico - N. Maria Alves I (1); N. Maria Alves II - Rede Sto António (1); N. Juncal Jorge - Tê N. Juncal Jorge (1); N. Gamboesa - Tê N. Pico Alto (1); Tê N. Juncal Jorge - R. Zona Alta Norte Grande (2) |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| Unidades Operativas de Gestão |  |
 | --- | --- |
 | SJO05.01 - Planalto Central excluindo pastagens | Área de proteção parcial (613,683 ha) |
 | SJO05.02 - Zonas com pastagens | Área de proteção complementar (473,541 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| Elementos de fruição da paisagem |  |
 | --- | --- |
-| Trilhos | Trilhos |
+| Trilhos |  |
 | PR4SJO Pico do Pedro - Pico da Esperança - Fajã do Ouvidor | Manutenção |
-| Miradouros | Miradouros |
+| Miradouros |  |
 | SJO.M7 - Miradouro do Pico da Esperança | Existente |
 
 5.5.1 - Objetivos de gestão
@@ -1796,21 +1930,21 @@ OB7. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.5.2 - Quadro-resumo das medidas de gestão
 
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros |
+| Medidas de gestão |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
-| SJO05.01 | M1.1. |  |  |  |  |  |  | M3.2. | M3.15. | M3.16. | M3.17. |  | M4.9. | M4.12. |  |
+| Unidade Operativa de Gestão | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros |  |  |  |  |  |  |  |  |  |  |  |
+| SJO05.01 | M1.1. |  |  | M3.2. | M3.15. | M3.16. | M3.17. |  | M4.9. | M4.12. |  |  |  |  |  |
 | SJO05.02 | M1.1. |  | M2.4. | M2.9. | M2.10. | M2.11. |  | M3.2. | M3.15. | M3.16. | M3.17. |  | M4.9. | M4.12. |  |
 
-| Unidade Operativa de Gestão | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |
+| Medidas de gestão |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| Unidade Operativa de Gestão | M6 - Medidas relacionadas com planeamento espacial | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | SJO05.01 | M6.2. | M6.3. | M6.6. | M6.7. | M6.9. | M6.10. | M6.15. | M7.2. | M7.3. | M7.4. | M7.10. | M7.11. | M7.12. | M7.13. | M7.14. | M7.15. | M7.16. | M7.17. | M7.18. |
 | SJO05.02 | M6.6. | M6.7. | M6.9. | M6.15. |  |  |  | M7.2. | M7.3. | M7.10. | M7.11. | M7.12. | M7.13. | M7.14. | M7.15. | M7.16. | M7.17. | M7.18. | M7.19. |
 
-| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M9 - Medidas relacionadas com uso especial dos recursos | M9 - Medidas relacionadas com uso especial dos recursos |
+| Medidas de gestão |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M9 - Medidas relacionadas com uso especial dos recursos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | SJO05.01 | M7.19. | M7.25. | M7.30. | M7.31. | M7.32. | M8.25. | M8.26. | M8.28. | M8.29. | M8.37. | M8.38. | M8.40. | M8.44. | M8.45. | M8.61 | M8.64. | M9.5. |  |
 | SJO05.02 | M7.25. | M7.31. | M7.32. |  |  | M8.25. | M8.26. | M8.28. | M8.29. | M8.37. | M8.38. |  | M8.44. | M8.45. | M8.64. |  |  |  |
 
@@ -1819,7 +1953,7 @@ OB7. Permitir que a população local usufrua de benefícios que resultem da pr�
 | Unidade Operativa de Gestão | Regime de proteção | Medidas de gestão | Descrição |
 | --- | --- | --- | --- |
 | SJO05.01 | Área de proteção parcial | M1.1. | Fiscalização da Área Protegida pelos Vigilantes da Natureza. |
-| SJO05.01 | Área de proteção parcial | M3.2. | Promoção de naturalização das florestas com espécies de crescimento lento e com espécies endémicas e nativas. |
+| M3.2. | Promoção de naturalização das florestas com espécies de crescimento lento e com espécies endémicas e nativas. |  |  |
 |  |  | M3.15. | Valorização de manchas florestais existentes, que possam contribuir para o estabelecimento de um corredor ecológico de ligação entre a Área Protegida para a Gestão de Habitats e Espécies do Pico da Esperança e Planalto Central (SJO05) e a Área de Paisagem Protegida das Fajãs do Norte (SJO09). |
 |  |  | M3.16. | Valorização das bermas da vida da rede florestal e dos respetivos taludes como espaços de promoção da conservação da natureza. |
 |  |  | M3.17. | Promoção de gestão florestal adaptada à conservação da natureza. |
@@ -1861,7 +1995,7 @@ OB7. Permitir que a população local usufrua de benefícios que resultem da pr�
 |  |  | M8.61. | Criação de zonas de espeleologia. |
 |  |  | M8.64. | Gestão de resíduos provenientes das atividades de remoção de espécies invasoras. |
 | SJO05.02 | Área proteção complementar | M1.1 | Fiscalização da Área Protegida pelos Vigilantes da Natureza. |
-| SJO05.02 | Área proteção complementar | M2.4. | Realização de ações de sensibilização para o maneio de fotoquímicos, pesticidas e herbicidas em zonas agrícolas. Diminuição da sua utilização e controlo das quantidades usadas. |
+| M2.4. | Realização de ações de sensibilização para o maneio de fotoquímicos, pesticidas e herbicidas em zonas agrícolas. Diminuição da sua utilização e controlo das quantidades usadas. |  |  |
 |  |  | M2.9. | Colocação de vedação na zona de confrontação com pastagens. |
 |  |  | M2.10. | Construção de cancelas e outros dispositivos de limitação do gado para preservar os habitats prioritários e protegidos. |
 |  |  | M2.11. | Maneio de sebes/bosquetes. |
@@ -1902,7 +2036,7 @@ OB7. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.6 - Proposta de intervenção para a Área Protegida para a Gestão de Habitats ou Espécies da Fajã das Almas (SJO06)
 
-| Condicionantes | Condicionantes |
+| Condicionantes |  |
 | --- | --- |
 | Plano Diretor Municipal das Velas | Áreas de Risco Natural |
 |  | Solo Rústico - Espaços Naturais e Culturais |
@@ -1920,7 +2054,7 @@ OB7. Permitir que a população local usufrua de benefícios que resultem da pr�
 |  | Leitos dos Cursos de Água e Respetivas Margens |
 |  | Infraestruturas Elétricas |
 | Conservação da Natureza | IBA PT065 - Fajã das Almas |
-| Conservação da Natureza | Zona Tampão da Reserva da Biosfera das Fajãs de São Jorge |
+| Zona Tampão da Reserva da Biosfera das Fajãs de São Jorge |  |
 | Plano de Ordenamento da Orla Costeira | Áreas de Especial Interesse Natural, Cultural e Paisagístico |
 |  | Abastecimento de Água - Adutora |
 |  | Infraestruturas Aeroportuárias e Respetivas Áreas de Proteção |
@@ -1933,7 +2067,7 @@ OB7. Permitir que a população local usufrua de benefícios que resultem da pr�
 | Outras nascentes | Padre João - SJZ VE 12 |
 | Adutoras | N. Ladeiras - R. Manadas (1) |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| Unidades Operativas de Gestão |  |
 | --- | --- |
 | SJO06.01 - Falésia | Área prioritária para a conservação (97,112 ha) |
 
@@ -1955,9 +2089,9 @@ OB7. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.6.2 - Quadro-resumo das medidas de gestão
 
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M7- Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7- Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7- Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7- Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7- Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7- Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7- Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |
+| Medidas de gestão |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| Unidade Operativa de Gestão | M1 - Medidas gerais | M6 - Medidas relacionadas com planeamento espacial | M7- Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |  |  |  |  |  |  |  |  |
 | SJO06.01 | M1.1. |  | M6.15. |  | M7.2. | M7.3. | M7.10. | M7.11. | M7.13. | M7.18. |  |
 
 5.6.3 - Medidas de gestão
@@ -1965,7 +2099,7 @@ OB7. Permitir que a população local usufrua de benefícios que resultem da pr�
 | Unidade Operativa de Gestão | Regime de proteção | Medidas de gestão | Descrição |
 | --- | --- | --- | --- |
 | SJO06.01 | Área prioritária para a conservação | M1.1. | Fiscalização da Área Protegida pelos Vigilantes da Natureza. |
-| SJO06.01 | Área prioritária para a conservação | M6.15. | Mapeamento em GPS e elaboração de relatórios de todas as atividades executadas no âmbito da implementação do Plano de Gestão. |
+| M6.15. | Mapeamento em GPS e elaboração de relatórios de todas as atividades executadas no âmbito da implementação do Plano de Gestão. |  |  |
 |  |  | M7.2. | Inventariação de fauna. |
 |  |  | M7.3. | Monitorização de aves. |
 |  |  | M7.10. | Caracterização das espécies protegidas e das manchas de habitats protegidos. |
@@ -1975,7 +2109,7 @@ OB7. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.7 - Proposta de intervenção para a Área Protegida para a Gestão de Habitats ou Espécies da Costa do Topo (SJO07)
 
-| Condicionantes | Condicionantes |
+| Condicionantes |  |
 | --- | --- |
 | Plano Diretor Municipal da Calheta | Espaços Culturais e Naturais - Orla Costeira |
 |  | Espaços Florestais de Proteção |
@@ -2003,7 +2137,7 @@ OB7. Permitir que a população local usufrua de benefícios que resultem da pr�
 |  | Marcos Geodésicos |
 |  | Nascentes Captadas e não Captadas e Respetivas Zonas de Proteção |
 |  | Rede Elétrica - Linhas de Média Tensão |
-|  | Rede Viária - Acesso Pedonal \\| Trilhos Pedestres |
+|  | Rede Viária - Acesso Pedonal \| Trilhos Pedestres |
 |  | Rede Viária - Estradas Municipais |
 |  | Rede Viária - Estradas Regionais |
 |  | Rede Viária - Outras Vias |
@@ -2016,7 +2150,7 @@ OB7. Permitir que a população local usufrua de benefícios que resultem da pr�
 | Vértices geodésicos | Cabeço da Lagoa; Cabeço da Forca; Cais do Topo; Farolim |
 | Faróis | Farol do Topo |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| Unidades Operativas de Gestão |  |
 | --- | --- |
 | SJO07.01 - Falésias | Área prioritária para a conservação (207,385 ha) |
 | SJO07.02C - Pontinha do Topo | Área de uso sustentável dos recursos (0,578 ha) |
@@ -2024,11 +2158,11 @@ OB7. Permitir que a população local usufrua de benefícios que resultem da pr�
 | SJO07.02A e F - Fajãs | Área de uso sustentável dos recursos (8,926 ha) |
 | SJO07.02B e D - Zona sobranceira | Área de uso sustentável dos recursos (169,951 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| Elementos de fruição da paisagem |  |
 | --- | --- |
-| Trilhos | Trilhos |
+| Trilhos |  |
 | Trilho GR01SJO Grande Rota de São Jorge | Manutenção |
-| Miradouros | Miradouros |
+| Miradouros |  |
 | SJO.M6 - Pontinha do Topo | Existente |
 
 5.7.1 - Objetivos de gestão
@@ -2049,30 +2183,30 @@ OB7. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.7.2 - Quadro-resumo das medidas de gestão
 
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial |
+| Medidas de gestão |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
-| SJO07.01 | M1.1. |  |  |  |  |  |  |  |  |  | M6.15. |  |  |
-| SJO07.02C | M1.1. |  |  |  |  |  |  |  |  |  | M6.15. |  |  |
-| SJO07.02E | M1.1. |  |  |  |  |  |  |  |  |  | M6.9. | M6.15. |  |
-| SJO07.02A e F | M1.1. |  | M2.4. | M2.5. | M2.21. |  |  |  |  |  | M6.15. |  |  |
+| Unidade Operativa de Gestão | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M6 - Medidas relacionadas com planeamento espacial |  |  |  |  |  |  |  |  |  |  |
+| SJO07.01 | M1.1. |  |  | M6.15. |  |  |  |  |  |  |  |  |  |
+| SJO07.02C | M1.1. |  |  | M6.15. |  |  |  |  |  |  |  |  |  |
+| SJO07.02E | M1.1. |  |  | M6.9. | M6.15. |  |  |  |  |  |  |  |  |
+| SJO07.02A e F | M1.1. |  | M2.4. | M2.5. | M2.21. |  | M6.15. |  |  |  |  |  |  |
 | SJO07.02B e D | M1.1. |  | M2.1. | M2.4. | M2.5. | M2.9. | M2.12 | M2.21. | M2.22. |  | M6.3. | M6.15. |  |
 
-| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia e transportes |
+| Medidas de gestão |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
-| SJO07.01 | M7.2. | M7.3. | M7.10. | M7.11. | M7.13. | M7.18. |  |  |  |  |  |  | M8.44. |  |  |  |  |
+| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia e transportes |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| SJO07.01 | M7.2. | M7.3. | M7.10. | M7.11. | M7.13. | M7.18. |  | M8.44. |  |  |  |  |  |  |  |  |  |
 | SJO07.02C | M7.3. | M7.6. | M7.8. | M7.10. | M7.11. | M7.12. | M7.13. | M7.16. | M7.17. | M7.18. | M7.31. | M7.32. | M8.25. | M8.26. | M8.44. | M8.63. | M8.64. |
 | SJO07.02E | M7.3. | M7.6. | M7.8. | M7.10. | M7.11. | M7.12. | M7.13. | M7.16. | M7.17. | M7.18. | M7.31. | M7.32. | M8.63. | M8.64. |  |  |  |
-| SJO07.02A e F | M7.2. | M7.3. | M7.10. | M7.11. | M7.17. | M7.18. |  |  |  |  |  |  | M8.25. | M8.26. |  |  |  |
-| SJO07.02B e D | M7.10. | M7.11. | M7.12. | M7.13. | M7.16. | M7.17. |  |  |  |  |  |  | M8.64. |  |  |  |  |
+| SJO07.02A e F | M7.2. | M7.3. | M7.10. | M7.11. | M7.17. | M7.18. |  | M8.25. | M8.26. |  |  |  |  |  |  |  |  |
+| SJO07.02B e D | M7.10. | M7.11. | M7.12. | M7.13. | M7.16. | M7.17. |  | M8.64. |  |  |  |  |  |  |  |  |  |
 
 5.7.3 - Medidas de gestão
 
 | Unidade Operativa de Gestão | Regime de proteção | Medidas de gestão | Descrição |
 | --- | --- | --- | --- |
 | SJO07.01 A, B e C | Área prioritária para a conservação | M1.1. | Fiscalização da Área Protegida pelos Vigilantes da Natureza. |
-| SJO07.01 A, B e C | Área prioritária para a conservação | M6.15. | Mapeamento em GPS e elaboração de relatórios de todas as atividades executadas no âmbito da implementação do Plano de Gestão. |
+| M6.15. | Mapeamento em GPS e elaboração de relatórios de todas as atividades executadas no âmbito da implementação do Plano de Gestão. |  |  |
 |  |  | M7.2. | Inventariação de fauna. |
 |  |  | M7.3. | Monitorização de aves. |
 |  |  | M7.10. | Caracterização das espécies protegidas e das manchas de habitats protegidos. |
@@ -2100,7 +2234,7 @@ OB7. Permitir que a população local usufrua de benefícios que resultem da pr�
 |  |  | M8.63. | Gestão de resíduos recorrentes de atividades científicas, turísticas e sensibilização ambiental. |
 |  |  | M8.64. | Gestão no local dos resíduos provenientes das atividades de remoção das espécies invasoras. |
 | SJO07.02E | Área de uso sustentável de recursos | M1.1. | Fiscalização da Área Protegida pelos Vigilantes da Natureza. |
-| SJO07.02E | Área de uso sustentável de recursos | M6.9. | Gestão de elementos de interesse geológico. |
+| M6.9. | Gestão de elementos de interesse geológico. |  |  |
 |  |  | M6.15. | Mapeamento em GPS e elaboração de relatórios de todas as atividades executadas no âmbito da implementação do Plano de Gestão. |
 |  |  | M7.3. | Monitorização de aves. |
 |  |  | M7.6. | Libertação de fauna nas campanhas SOS cagarro e de outras espécies de avifauna marinha recuperadas. |
@@ -2117,7 +2251,7 @@ OB7. Permitir que a população local usufrua de benefícios que resultem da pr�
 |  |  | M8.63. | Gestão de resíduos recorrentes de atividades científicas, turísticas e sensibilização ambiental. |
 |  |  | M8.64. | Gestão no local dos resíduos provenientes das atividades de remoção das espécies invasoras. |
 | SJO07.02A e F | Área de uso sustentável de recursos | M1.1. | Fiscalização da Área Protegida pelos Vigilantes da Natureza. |
-| SJO07.02A e F | Área de uso sustentável de recursos | M2.4. | Ações de sensibilização para o maneio de fotoquímicos, pesticidas e herbicidas em zonas de pastagem. Diminuição da sua utilização e controlo das quantidades usadas. |
+| M2.4. | Ações de sensibilização para o maneio de fotoquímicos, pesticidas e herbicidas em zonas de pastagem. Diminuição da sua utilização e controlo das quantidades usadas. |  |  |
 |  |  | M2.5. | Ações de sensibilização para o maneio de fertilização em zonas de pastagem. Diminuição da sua utilização e controlo das quantidades usadas. |
 |  |  | M2.21. | Apoios financeiros à manutenção de paisagens tradicionais da cultura da vinha, em currais e em socalcos, e de pomares de espécies tradicionais, situadas em áreas de paisagem protegida e em fajãs costeiras, integradas nos Parques Naturais de Ilha e em Reservas da Biosfera. |
 |  |  | M6.15. | Mapeamento em GPS e elaboração de relatórios de todas as atividades executadas no âmbito da implementação do Plano de Gestão. |
@@ -2130,7 +2264,7 @@ OB7. Permitir que a população local usufrua de benefícios que resultem da pr�
 |  |  | M8.25. | Manutenção de trilhos. |
 |  |  | M8.26. | Sinalização de trilhos. |
 | SJO07.02B e D | Área de uso sustentável de recursos | M1.1. | Fiscalização da Área Protegida pelos Vigilantes da Natureza. |
-| SJO07.02B e D | Área de uso sustentável de recursos | M2.1. | Manutenção de pastagens e outros habitats abertos. |
+| M2.1. | Manutenção de pastagens e outros habitats abertos. |  |  |
 |  |  | M2.4. | Ações de sensibilização para o maneio de fitoquímicos, pesticidas e herbicidas em zonas de pastagem. Diminuição da sua utilização e controlo das quantidades usadas. |
 |  |  | M2.5. | Ações de sensibilização para o maneio de fertilização em zonas de pastagem. Diminuição da sua utilização e controlo das quantidades usadas. |
 |  |  | M2.9. | Vedação de terrenos. |
@@ -2149,7 +2283,7 @@ OB7. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.8 - Proposta de intervenção para a Área Protegida para a Gestão de Habitats ou Espécies do Ilhéu do Topo (SJO08)
 
-| Condicionantes | Condicionantes |
+| Condicionantes |  |
 | --- | --- |
 | Plano Diretor Municipal da Calheta | Espaços Culturais e Naturais Reserva Natural Parcial do Ilhéu do Topo |
 |  | Reserva Ecológica |
@@ -2166,7 +2300,7 @@ OB7. Permitir que a população local usufrua de benefícios que resultem da pr�
 |  | Zonas Especiais de Conservação |
 | Plano de Atividades Extrativas | Áreas Interditas para a Extração de Massas Minerais |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| Unidades Operativas de Gestão |  |
 | --- | --- |
 | SJO08.01 - Ilhéu | Área de proteção parcial e Área de intervenção específica (12,143 ha) |
 
@@ -2184,14 +2318,14 @@ OB5. Criação e delimitação de áreas destinadas ao conhecimento e divulgaç�
 
 5.8.2 - Quadro-resumo das medidas de gestão
 
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |
+| Medidas de gestão |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| Unidade Operativa de Gestão | M1 - Medidas gerais | M6 - Medidas relacionadas com planeamento espacial | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | SJO08.01 | M1.1. |  | M6.9. | M6.15. | M6.17. | M7.2. | M7.3. | M7.4. | M7.7. | M7.8. | M7.10. | M7.11. | M7.13. | M7.14. | M7.17. | M7.18. | M7.20. | M7.22. |
 
-| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
+| Medidas de gestão |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |  |  |  |  |  |  |
 | SJO08.01 | M7.24. | M7.30. | M7.31. | M7.32. | M7.33. |  | M8.10. | M8.12. | M8.33. | M8.44. | M8.63. | M8.64. |  |
 
 5.8.3 - Medidas de gestão
@@ -2229,7 +2363,7 @@ OB5. Criação e delimitação de áreas destinadas ao conhecimento e divulgaç�
 
 5.9 - Proposta de intervenção para a Área de Paisagem Protegida das Fajãs do Norte (SJO09)
 
-| Condicionantes | Condicionantes |
+| Condicionantes |  |
 | --- | --- |
 | Plano Diretor Municipal das Velas | Áreas de Risco Natural |
 |  | Solo Rústico - Espaços Naturais e Culturais |
@@ -2282,7 +2416,7 @@ OB5. Criação e delimitação de áreas destinadas ao conhecimento e divulgaç�
 |  | Marcos Geodésicos |
 |  | Nascentes Captadas e não Captadas e Respetivas Zonas de Proteção. |
 |  | Rede Elétrica - Linhas de Média Tensão |
-|  | Rede Viária - Acesso Pedonal \\| Trilhos Pedestres |
+|  | Rede Viária - Acesso Pedonal \| Trilhos Pedestres |
 |  | Rede Viária - Estradas Municipais |
 |  | Rede Viária - Outras Vias |
 |  | Reserva Ecológica |
@@ -2299,7 +2433,7 @@ OB5. Criação e delimitação de áreas destinadas ao conhecimento e divulgaç�
 | Adutoras | N. Quebradas - Rede Fajã Ribeira da Areia (1); Norte Pequeno (EE) - tê Norte Pequeno; Nascente Caldeira Santo Cristo-Reserva Caldeira Santo Cristo |
 | Portos | Portinho da Fajã das Pontas |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| Unidades Operativas de Gestão |  |
 | --- | --- |
 | SJO09.01A e B - Zonas sobranceiras | Área de proteção complementar (326,861 ha) |
 | SJO09.02A - Falésias | Área prioritária para a conservação e áreas de intervenção específica (2282,971 ha) |
@@ -2307,12 +2441,12 @@ OB5. Criação e delimitação de áreas destinadas ao conhecimento e divulgaç�
 | SJO09.03A, B, C, D, E, F, G, H, I e J - Fajãs | Área de uso sustentável dos recursos (137,558 ha) |
 | SJO09.03K - Zona sobranceira | Área de uso sustentável dos recursos (165,171 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| Elementos de fruição da paisagem |  |
 | --- | --- |
-| Trilhos | Trilhos |
+| Trilhos |  |
 | Trilho PR01SJO - Serra do Topo - Caldeira de Santo Cristo - Fajã dos Cubres | Manutenção |
 | Trilho PR06SJO - Norte Pequeno | Manutenção |
-| Miradouros | Miradouros |
+| Miradouros |  |
 | M3 - Miradouro dos Cubres | Existente |
 
 5.9.1 - Objetivos de gestão
@@ -2345,31 +2479,31 @@ OB13. Regular usos e atividades, minimizando as ameaças à estabilidade da pais
 
 5.9.2 - Quadro-resumo das medidas de gestão
 
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão |
-| SJO09.01A | M1.1. |  | M2.4. | M2.5. | M2.9. | M2.21. |  |  |  |  |  |  |  |  |  |  |  |  |
-| SJO09.01B | M1.1. |  | M2.4. | M2.5. | M2.9. | M2.12. | M2.21. |  |  |  |  |  |  |  |  |  |  |  |
-| SJO09.02A | M1.1. |  | M2.4. | M2.5. | M2.9. | M2.10. | M2.17. | M2.18. | M2.21. | M4.2. | M4.2. | M4.11. |  |  |  |  |  |  |
-| SJO09.02B | M1.1. |  |  |  |  |  |  |  |  | M4.1. | M4.6. | M4.6. | M4.7. | M4.9. | M4.10. | M4.12. | M4.14. |  |
-| SJO09.03A, B, C, D, E, F, G, H, I e J | M1.1. |  | M2.4. | M2.5. | M2.10. | M2.20. | M2.21. |  |  | M4.1. | M4.1. | M4.4. | M4.9. | M4.10. | M4.12. | M4.13. |  |  |
-| SJO09.03K | M1.1. |  | M2.4. | M2.5. | M2.9. | M2.12. | M2.21. |  |  |  |  |  |  |  |  |  |  |  |
-
-| Unidade Operativa de Gestão | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
-| SJO09.01A | M6.15. |  |  |  |  |  |  |  | M7.10. | M7.11. | M7.12. | M7.13. | M7.16. | M7.17. |  |  |  |  |
-| SJO09.01B | M6.15. |  |  |  |  |  |  |  | M7.2. | M7.10. | M7.11. | M7.12. | M7.13. | M7.16. | M7.17. |  |  |  |
-| SJO09.02A | M6.5. | M6.6. | M6.7. | M6.11. | M6.15. |  |  |  | M7.2. | M7.3. | M7.10. | M7.11. | M7.13. | M7.14. | M7.17. | M7.18. | M7.31. | M7.32. |
-| SJO09.02B | M6.5. | M6.9. | M6.15. | M6.17. |  |  |  |  | M7.2. | M7.3. | M7.4. | M7.7. | M7.8. | M7.10. | M7.11. | M7.13. | M7.14. | M7.17. |
-| SJO09.02B | M6.5. | M6.9. | M6.15. | M6.17. |  |  |  |  | M7.18. | M7.20. | M7.22. | M7.24. | M7.30. | M7.31. | M7.32. | M7.33. |  |  |
-| SJO09.03A, B, C, D, E, F, G, H, I e J | M6.5. | M6.6. | M6.7. | M6.9. | M6.10. | M6.11. | M6.15. | M6.17. | M7.2. | M7.3. | M7.8. | M7.10. | M7.11. | M7.13. | M7.14. | M7.17. | M7.18. | M7.24. |
-| SJO09.03A, B, C, D, E, F, G, H, I e J | M6.5. | M6.6. | M6.7. | M6.9. | M6.10. | M6.11. | M6.15. | M6.17. | M7.30. | M7.31. | M7.32 | M7.10. | M7.11. | M7.13. | M7.14. | M7.17. | M7.18. | M7.24. |
-| SJO09.03K | M6.15. |  |  |  |  |  |  |  | M7.10. | M7.11. | M7.12. | M7.13. | M7.16. | M7.17. |  |  |  |  |
-
-| Unidade Operativa de Gestão | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
+| Medidas de Gestão |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| Unidade Operativa de Gestão | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros |  |  |  |  |  |  |  |  |  |  |  |  |
+| SJO09.01A | M1.1. |  | M2.4. | M2.5. | M2.9. | M2.21. |  |  |  |  |  |  |  |  |  |
+| SJO09.01B | M1.1. |  | M2.4. | M2.5. | M2.9. | M2.12. | M2.21. |  |  |  |  |  |  |  |  |
+| SJO09.02A | M1.1. |  | M2.4. | M2.5. | M2.9. | M2.10. | M2.17. | M2.18. | M2.21. | M4.2. | M4.11. |  |  |  |  |
+| SJO09.02B | M1.1. |  |  | M4.1. | M4.6. | M4.7. | M4.9. | M4.10. | M4.12. | M4.14. |  |  |  |  |  |
+| SJO09.03A, B, C, D, E, F, G, H, I e J | M1.1. |  | M2.4. | M2.5. | M2.10. | M2.20. | M2.21. |  | M4.1. | M4.4. | M4.9. | M4.10. | M4.12. | M4.13. |  |
+| SJO09.03K | M1.1. |  | M2.4. | M2.5. | M2.9. | M2.12. | M2.21. |  |  |  |  |  |  |  |  |
+
+| Medidas de gestão |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Unidade Operativa de Gestão | M6 - Medidas relacionadas com planeamento espacial | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| SJO09.01A | M6.15. |  | M7.10. | M7.11. | M7.12. | M7.13. | M7.16. | M7.17. |  |  |  |  |  |  |  |  |  |  |
+| SJO09.01B | M6.15. |  | M7.2. | M7.10. | M7.11. | M7.12. | M7.13. | M7.16. | M7.17. |  |  |  |  |  |  |  |  |  |
+| SJO09.02A | M6.5. | M6.6. | M6.7. | M6.11. | M6.15. |  | M7.2. | M7.3. | M7.10. | M7.11. | M7.13. | M7.14. | M7.17. | M7.18. | M7.31. | M7.32. |  |  |
+| SJO09.02B | M6.5. | M6.9. | M6.15. | M6.17. |  | M7.2. | M7.3. | M7.4. | M7.7. | M7.8. | M7.10. | M7.11. | M7.13. | M7.14. | M7.17. |  |  |  |
+| M7.18. | M7.20. | M7.22. | M7.24. | M7.30. | M7.31. | M7.32. | M7.33. |  |  |  |  |  |  |  |  |  |  |  |
+| SJO09.03A, B, C, D, E, F, G, H, I e J | M6.5. | M6.6. | M6.7. | M6.9. | M6.10. | M6.11. | M6.15. | M6.17. | M7.2. | M7.3. | M7.8. | M7.10. | M7.11. | M7.13. | M7.14. | M7.17. | M7.18. | M7.24. |
+| M7.30. | M7.31. | M7.32 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| SJO09.03K | M6.15. |  | M7.10. | M7.11. | M7.12. | M7.13. | M7.16. | M7.17. |  |  |  |  |  |  |  |  |  |  |
+
+| Medidas de gestão |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Unidade Operativa de Gestão | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | SJO09.01A | M8.64. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | SJO09.01B | M8.39. | M8.64. |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | SJO09.02A | M8.10. | M8.12. | M8.25. | M8.26. | M8.27. | M8.28. | M8.29. | M8.31. | M8.32. | M8.33. | M8.38. | M8.64. |  |  |  |
@@ -2380,7 +2514,7 @@ OB13. Regular usos e atividades, minimizando as ameaças à estabilidade da pais
 | Unidade Operativa de Gestão | Regime de proteção | Medidas de gestão | Descrição |
 | --- | --- | --- | --- |
 | SJO09.01A | Área de proteção complementar | M1.1. | Fiscalização da Área Protegida pelos Vigilantes da Natureza. |
-| SJO09.01A | Área de proteção complementar | M2.4. | Realização de ações de sensibilização para o maneio de fotoquímicos, pesticidas e herbicidas em zonas agrícolas. Diminuição da sua utilização e controlo das quantidades usadas. |
+| M2.4. | Realização de ações de sensibilização para o maneio de fotoquímicos, pesticidas e herbicidas em zonas agrícolas. Diminuição da sua utilização e controlo das quantidades usadas. |  |  |
 |  |  | M2.5. | Realização de ações de sensibilização para o maneio de fertilização em zonas agrícolas. Diminuição da sua utilização e controlo das quantidades usadas. |
 |  |  | M2.9. | Vedação de terrenos. |
 |  |  | M2.12. | Promoção de sebes e bosquetes. |
@@ -2394,7 +2528,7 @@ OB13. Regular usos e atividades, minimizando as ameaças à estabilidade da pais
 |  |  | M7.17. | Controlo das principais invasoras. Prioridade na erradicação sempre que as invasoras compitam com habitats e espécies protegidas e que afetem o habitat. |
 |  |  | M8.64. | Gestão no local dos resíduos provenientes das atividades de remoção das espécies invasoras. |
 | SJO09.01B | Área de proteção complementar | M1.1. | Fiscalização da Área Protegida pelos Vigilantes da Natureza. |
-| SJO09.01B | Área de proteção complementar | M2.4. | Realização de ações de sensibilização para o maneio de fotoquímicos, pesticidas e herbicidas em zonas agrícolas. Diminuição da sua utilização e controlo das quantidades usadas. |
+| M2.4. | Realização de ações de sensibilização para o maneio de fotoquímicos, pesticidas e herbicidas em zonas agrícolas. Diminuição da sua utilização e controlo das quantidades usadas. |  |  |
 |  |  | M2.5. | Realização de ações de sensibilização para o maneio de fertilização em zonas agrícolas. Diminuição da sua utilização e controlo das quantidades usadas. |
 |  |  | M2.9. | Vedação de terrenos. |
 |  |  | M2.12. | Promoção de sebes e bosquetes. |
@@ -2409,7 +2543,7 @@ OB13. Regular usos e atividades, minimizando as ameaças à estabilidade da pais
 |  |  | M7.17. | Controlo das principais invasoras. Prioridade na erradicação sempre que as invasoras compitam com habitats e espécies protegidas e que afetem o habitat. |
 |  |  | M8.64. | Gestão no local dos resíduos provenientes das atividades de remoção das espécies invasoras. |
 | SJO09.02A | Área prioritária para a conservação | M1.1. | Fiscalização da Área Protegida pelos Vigilantes da Natureza. |
-| SJO09.02A | Área prioritária para a conservação | M2.4. | Realização de ações de sensibilização para o maneio de fotoquímicos, pesticidas e herbicidas em zonas agrícolas. Diminuição da sua utilização e controlo das quantidades usadas. |
+| M2.4. | Realização de ações de sensibilização para o maneio de fotoquímicos, pesticidas e herbicidas em zonas agrícolas. Diminuição da sua utilização e controlo das quantidades usadas. |  |  |
 |  |  | M2.5. | Realização de ações de sensibilização para o maneio de fertilização em zonas agrícolas. Diminuição da sua utilização e controlo das quantidades usadas. |
 |  |  | M2.9. | Vedação de terrenos. |
 |  |  | M2.12. | Promoção de sebes e bosquetes. |
@@ -2445,7 +2579,7 @@ OB13. Regular usos e atividades, minimizando as ameaças à estabilidade da pais
 |  |  | M8.38. | Conservação de habitats e espécies protegidos em bermas de estradas e caminhos |
 |  |  | M8.64. | Gestão no local dos resíduos provenientes das atividades de remoção das espécies invasoras. |
 | SJO09.02B | Área prioritária para a conservação e Área de intervenção específica | M1.1. | Fiscalização da Área Protegida pelos Vigilantes da Natureza. |
-| SJO09.02B | Área prioritária para a conservação e Área de intervenção específica | M4.1. | Restauro/melhoria da qualidade da água. |
+| M4.1. | Restauro/melhoria da qualidade da água. |  |  |
 |  |  | M4.6. | Conservação de galeria ripícola. |
 |  |  | M4.7. | Restauro/melhoria de galeria ripícola. |
 |  |  | M4.9. | Conservação de zona húmida. |
@@ -2488,7 +2622,7 @@ OB13. Regular usos e atividades, minimizando as ameaças à estabilidade da pais
 |  |  | M8.64. | Gestão no local dos resíduos provenientes das atividades de remoção das espécies invasoras. |
 |  |  | M8.65. | Conservação/manutenção de elemento arquitetónico de valor cultural. |
 | SJO09.03A, B, C, D, E, F, G, H, I e J | Área de uso sustentável dos recursos | M1.1 | Fiscalização da Área Protegida pelos Vigilantes da Natureza. |
-| SJO09.03A, B, C, D, E, F, G, H, I e J | Área de uso sustentável dos recursos | M2.4. | Realização de Ações de sensibilização para a Diminuição da utilização de fitoquímicos - herbicidas e pesticidas. |
+| M2.4. | Realização de Ações de sensibilização para a Diminuição da utilização de fitoquímicos - herbicidas e pesticidas. |  |  |
 |  |  | M2.5. | Realização de ações de sensibilização para a diminuição da utilização de fitoquímicos - fertilizantes. |
 |  |  | M2.10. | Construção de cancelas e outros dispositivos de limitação do gado. |
 |  |  | M2.20. | Recuperação/melhoria de elementos da arquitetura de produção tradicional relacionados com captação e armazenamento de água. |
@@ -2529,7 +2663,7 @@ OB13. Regular usos e atividades, minimizando as ameaças à estabilidade da pais
 |  |  | M8.33. | Vedação de troços de trilho. |
 |  |  | M8.44. | Colocação de placard informação e sensibilização dos valores presentes. |
 | SJO09.03K | Área de uso sustentável dos recursos | M1.1. | Fiscalização da Área Protegida pelos Vigilantes da Natureza. |
-| SJO09.03K | Área de uso sustentável dos recursos | M2.4. | Realização de ações de sensibilização para o maneio de fotoquímicos, pesticidas e herbicidas em zonas agrícolas. Diminuição da sua utilização e controlo das quantidades usadas. |
+| M2.4. | Realização de ações de sensibilização para o maneio de fotoquímicos, pesticidas e herbicidas em zonas agrícolas. Diminuição da sua utilização e controlo das quantidades usadas. |  |  |
 |  |  | M2.5. | Realização de ações de sensibilização para o maneio de fertilização em zonas agrícolas. Diminuição da sua utilização e controlo das quantidades usadas. |
 |  |  | M2.9. | Vedação de terrenos. |
 |  |  | M2.12. | Promoção de sebes e bosquetes. |
@@ -2603,7 +2737,8 @@ O resultado das ações de monitorização do grau de concretização do Plano d
 
 Tendo em conta os macro objetivos, domínios e subdomínios definidos para a Região Autónoma dos Açores, o modelo de gestão territorial definido para os Planos de Gestão dos Parques Naturais de Ilha é o seguinte.
 
-![](https://files.diariodarepublica.pt/images/1154555184/1154555588.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555184/1154555588.png) |
+| --- |
 
 6.2 - Indicadores
 
@@ -3183,3 +3318,7 @@ APPFN - Área de Paisagem Protegida das Fajãs do Norte.
 1 Espécie protegida pela Diretiva Habitats e/ou Convenção de Berna.
 
 P Taxon prioritário para a conservação (Anexo II do [Decreto Legislativo Regional n.º 15/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2012-553893), de 2 de abril.
+
+119949006
+
+.Tbl1 { border-collapse:collapse; border-width:1px; border-color:rgb(191,191,191); border-style:dotted; } .Tbl2 { min-height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:87px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(183,176,153); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(183,176,153); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl9 { min-height:61px; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { min-height:71px; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { min-height:45px; } .Tbl14 { min-height:108px; } .Tbl15 { min-height:150px; } .Tbl16 { min-height:93px; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl18 { min-height:112px; } .Tbl19 { min-height:43px; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl21 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl22 { min-height:28px; } .Tbl23 { min-height:53px; } .Tbl24 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(129,116,76); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl25 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(129,116,76); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl26 { min-height:270px; } .Tbl27 { min-height:73px; } .Tbl28 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl29 { min-height:508px; } .Tbl30 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl31 { border-collapse:collapse; border-width:1px; border-color:rgb(166,166,166); border-style:dotted; } .Tbl32 { min-height:18px; } .Tbl33 { min-height:30px; } .Tbl34 { min-height:66px; } .Tbl35 { min-height:56px; } .Tbl36 { min-height:82px; } .Tbl37 { min-height:46px; } .Tbl38 { min-height:113px; } .Tbl39 { min-height:92px; } .Tbl40 { min-height:106px; } .Tbl41 { min-height:70px; } .Tbl42 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl43 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl44 { min-height:27px; } .Tbl45 { border-collapse:collapse; border-width:1px; } .Tbl46 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl47 { min-height:17px; } .Tbl48 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(194,214,154); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl49 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl50 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(250,191,143); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl51 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(217,149,148); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl52 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(194,214,155); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl53 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl54 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl55 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl56 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl57 { min-height:37px; } .Tbl58 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl59 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl60 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl61 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl62 { min-height:64px; } .Tbl63 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(129,116,76); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl64 { text-align:justify; text-align-last:justify; } .Tbl65 { min-height:57px; } .Tbl66 { min-height:47px; } .Tbl67 { min-height:102px; } .Tbl68 { min-height:19px; } .Tbl69 { min-height:29px; } .Tbl70 { min-height:54px; } .Tbl71 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(250,191,143); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl72 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(194,214,154); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl73 { min-height:33px; } .Tbl74 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(217,149,148); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl75 { border-collapse:collapse; border-width:1px; border-color:rgb(191,191,191); } .Tbl76 { min-height:38px; } .Tbl77 { min-height:58px; } .Tbl78 { min-height:48px; } .Tbl79 { border-collapse:collapse; border-width:1px; border-color:rgb(128,128,128); border-style:dotted; } .Tbl80 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl81 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(127,127,127); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl82 { min-height:20px; } .Tbl83 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(128,128,128); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; }

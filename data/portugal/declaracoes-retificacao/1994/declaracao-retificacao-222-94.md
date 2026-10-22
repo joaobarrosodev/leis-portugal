@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 277/1994, 4º Suplemento, Série I-B de 1994-11-30
   number: '277'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 7070-(9) a 7070-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/11/277b04/00090009.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/222/1994/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/222-1994-355892
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:41:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 670d0de9be72e6a69507ff93bed1128ba1d1821a4ee98a63c39aec1f16400786
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb8ec0fcd7f3175b969d3c76091d831c806220e2c3bb69fd2bf73203ca1d56e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:41:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -87,21 +87,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/30-c/1992/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/30-c/1992/12/28/p/dre
+- type: cites
+  target: pt:dre:223259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680636:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:41:47Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 222/94
+# Declaração de rectificação n.º 222/94
 
 Segundo comunicação da 8.ª Delegação da Direcção-Geral da Contabilidade Pública junto do Ministério da Agricultura, a [Declaração n.º 91/94](https://diariodarepublica.pt/dr/detalhe/declaracao/91-1994-223259), publicada no Diário da República, n.º 180, de 5 de Agosto de 1994, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
 

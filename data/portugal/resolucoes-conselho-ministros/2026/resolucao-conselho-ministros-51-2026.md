@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/51/2026/03/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/51-2026-1068974010
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-09T00:00:00Z'
+  retrieved_at: '2026-10-22T18:35:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 702e57f9ffc74d9a68d66e36fa7b1592d72d60317b23020184fc18c37efce28b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 462c984f9295e2fab1737f9487cdf2639a4bc40f9ed1480dd275a3546723e40a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:35:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autoridade de Gestão
 - Comissão de Gestão
 - Comissão Directiva
 - Delegação de Competências
-- Autoridade de Gestão
 - Estrutura de missão para a gestão do Plano Estratégico da Política Agrícola Comum de Portugal
 - Plano Estratégico da Política Agrícola Comum de Portugal
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:15/2023
+  label: Altera os n.os 6 e 11e revoga os n.os 8 e 25 da Resolução do Conselho de Ministros n.º 15/2023, de 10 de fevereiro,
+    Diário da República n.º 30/2023, Série I
+  source: null
+  date: '2023-02-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/103/2024/12/06/p/dre
   label: null
@@ -94,16 +100,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/15/2023/02/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/15/2023/02/10/p/dre
+- type: cites
+  target: pt:dre:1049254412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206478423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207272803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:899204480:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:35:14Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +150,7 @@ Assim:
 
 Nos termos do artigo 28.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de janeiro, do n.º 1 do artigo 59.º do [Decreto-Lei n.º 5/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2023-206478423), de 25 de janeiro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Alterar os n.<sup>os</sup>6 e 11 da [Resolução do Conselho de Ministros n.º 15/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-2023-207272803), de 10 de fevereiro, que passam a ter a seguinte redação:
+1 - Alterar os n.os6 e 11 da [Resolução do Conselho de Ministros n.º 15/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-2023-207272803), de 10 de fevereiro, que passam a ter a seguinte redação:
 
 «6 - Delegar no membro do Governo responsável pela área da agricultura, a competência para, através de despacho, proceder à designação e exoneração dos membros da comissão diretiva, no cumprimento das regras e procedimentos legalmente estabelecidos.
 
@@ -134,6 +160,8 @@ a) [...]
 
 b) [...]»
 
-2 - Revogar os n.<sup>os</sup>8 e 25 da [Resolução do Conselho de Ministros n.º 15/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-2023-207272803), de 10 de fevereiro.
+2 - Revogar os n.os8 e 25 da [Resolução do Conselho de Ministros n.º 15/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-2023-207272803), de 10 de fevereiro.
 
 Presidência do Conselho de Ministros, 26 de fevereiro de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119947925

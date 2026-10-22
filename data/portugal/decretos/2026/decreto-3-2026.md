@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/02/02600/0001000029.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/3/2026/02/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/3-2026-1039107597
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-06T00:00:00Z'
+  retrieved_at: '2026-10-22T18:31:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 353e7e74c0ec7624d769b11476b64a2c6b39601293f8eafb79b63a9af62c64ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d345afb6fab03d494bdcb14ae109cb10935038575d0e6de37cb9281ce2a44a1b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:31:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reino Unido
 - Convenção
-- Portugal
 - Documentação Classificada
 - Londres
+- Portugal
+- Reino Unido
 relationships: []
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:31:37Z'
   warnings: []
   errors: []
 ---
@@ -98,15 +98,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 29 de dezembro de 2025. - Paulo Artur dos Santos de Castro de Campos Rangel - Paulo Artur dos Santos de Castro de Campos Rangel - António Leitão Amaro.
 
-**Assinado em 10 de janeiro de 2026.**
+Assinado em 10 de janeiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 14 de janeiro de 2026.**
+Referendado em 14 de janeiro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 Acordo entre a República Portuguesa e o Reino Unido da Grã-Bretanha e da Irlanda do Norte sobre a Proteção de Informação Classificada
 
@@ -265,7 +265,7 @@ v) Nos termos do disposto no artigo 7.º do presente Acordo e das leis e regulam
 
 ###### Artigo 10.º — Tradução, reprodução e destruição da Informação Classificada
 
-1 - Salvo ser proibido pela Parte Originadora por meio de uma marcação apropriada, aviso por escrito ou instruções de manuseio, a Parte Recetora pode traduzir, reproduzir ou destruir Informação Classificada de acordo com os n.<sup>os</sup>2, 3 e 4 do presente artigo.
+1 - Salvo ser proibido pela Parte Originadora por meio de uma marcação apropriada, aviso por escrito ou instruções de manuseio, a Parte Recetora pode traduzir, reproduzir ou destruir Informação Classificada de acordo com os n.os2, 3 e 4 do presente artigo.
 
 2 - As traduções e reproduções de Informação Classificada devem manter o grau de classificação de segurança atribuído ao original e devem ser protegidas em conformidade com o presente Acordo. Tais traduções e reproduções devem ser limitadas ao mínimo necessário para um fim oficial e devem ser feitas apenas por indivíduos que tenham acesso a Informação Classificada, em conformidade com o artigo 6.º do presente Acordo.
 
@@ -343,9 +343,9 @@ e) Motivo do pedido e grau da Credenciação de Segurança Pessoal exigido; e
 
 f) Detalhes de contacto da ANS ou ASC requerente.
 
-4 - O mesmo processo descrito nos n.<sup>os</sup>2 e 3 do presente artigo deve ser seguido quando uma Parte pretender solicitar a emissão de Credenciação de Segurança Industrial ou de Credenciação de Segurança Pessoal à outra Parte.
+4 - O mesmo processo descrito nos n.os2 e 3 do presente artigo deve ser seguido quando uma Parte pretender solicitar a emissão de Credenciação de Segurança Industrial ou de Credenciação de Segurança Pessoal à outra Parte.
 
-5 - Após a receção de um pedido apresentado em conformidade com os n.<sup>os</sup>2, 3 ou 4 do presente artigo, a ANS ou a ASC que receber o pedido deve fornecer à ANS ou à ASC requerente os dados relativos a qualquer Credenciação de Segurança Industrial ou Credenciação de Segurança Pessoal relevante, a data de validade da Credenciação de Segurança Industrial ou Credenciação de Segurança Pessoal e o grau de classificação de segurança da Informação Classificada a que a respetiva credenciação permite aceder.
+5 - Após a receção de um pedido apresentado em conformidade com os n.os2, 3 ou 4 do presente artigo, a ANS ou a ASC que receber o pedido deve fornecer à ANS ou à ASC requerente os dados relativos a qualquer Credenciação de Segurança Industrial ou Credenciação de Segurança Pessoal relevante, a data de validade da Credenciação de Segurança Industrial ou Credenciação de Segurança Pessoal e o grau de classificação de segurança da Informação Classificada a que a respetiva credenciação permite aceder.
 
 6 - A ANS ou ASC de uma Parte pode, mediante apresentação de uma razão válida, solicitar à ANS ou à ASC da outra Parte que proceda a uma revisão de qualquer Credenciação de Segurança Industrial ou Credenciação de Segurança Pessoal que tenha emitida. A ANS ou ASC que proceder à revisão deve notificar a ANS ou ASC requerente dos resultados.
 
@@ -762,7 +762,7 @@ Final Provisions
 
 In witness whereof the undersigned, being duly authorised, have signed this Agreement.
 
-Done in duplicate at London on this 15<sup>th</sup> day of September of 2025, in the portuguese and english languages, all texts being equally authentic.
+Done in duplicate at London on this 15th day of September of 2025, in the portuguese and english languages, all texts being equally authentic.
 
 For the Portuguese Republic:
 
@@ -771,3 +771,7 @@ Paulo Artur dos Santos de Castro de Campos Rangel, Minister of State and Foreign
 For the United Kingdom of Great Britain and Northern Ireland:
 
 The Rt Hon Yvette Cooper, Secretary of State for Foreign, Commonwealth and Development Affairs.
+
+119947571
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:18px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; }

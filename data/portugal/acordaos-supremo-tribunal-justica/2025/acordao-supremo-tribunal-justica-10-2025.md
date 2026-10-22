@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/10/2025/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/10-2025-943647416
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7684817fbeec16376c0b72f96544186620ce2b539114f9cbbb8fb6aac81c1c2e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1646831d82fbb59f4a6f588116cc700c6dc79215c7ce68542202f42e36c887c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,22 @@ reuse:
 subjects:
 - Código Civil
 - Contrato Promessa
-- Representante Legal
 - Interpretação do Direito
 - Jurisprudencia
 - Mandato
+- Representante Legal
 - Supremo Tribunal da Justiça
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:18Z'
   warnings: []
   errors: []
 ---
@@ -204,7 +204,7 @@ São os seguintes os factos que o acórdão ora recorrido elencou como provados:
 
 2 - Na constância do matrimónio, em D.M.1998 nasceu DD e em D.M.2000 nasceu EE, ambos filhos de CC e de BB.
 
-3 - Por meio de escritura pública de compra e venda outorgada em 03.04.1998 no Cartório Notarial de Lisboa, CC, na qualidade de sócio-gerente e em representação da sociedade “E..., L.<sup>da</sup>” declarou vender à Ré pelo preço já recebido de três milhões de escudos o prédio urbano sito no Casal 1 ou na Quinta 1, na freguesia de Cadafais, concelho de Alenquer, descrito na Conservatória do Registo Predial de Alenquer sob o n.º .67 e inscrito na respectiva matriz sob o artigo 61.
+3 - Por meio de escritura pública de compra e venda outorgada em 03.04.1998 no Cartório Notarial de Lisboa, CC, na qualidade de sócio-gerente e em representação da sociedade “E..., L.da” declarou vender à Ré pelo preço já recebido de três milhões de escudos o prédio urbano sito no Casal 1 ou na Quinta 1, na freguesia de Cadafais, concelho de Alenquer, descrito na Conservatória do Registo Predial de Alenquer sob o n.º .67 e inscrito na respectiva matriz sob o artigo 61.
 
 4 - No dia 29.03.1999, foi outorgada escritura pública denominada de “empréstimo” entre CC e BB, intitulados por primeiros outorgantes e BNC-Banco Nacional de Crédito Imobiliário S. A., na qualidade de segundo outorgante, com o seguinte teor “(...) disse a primeira outorgante que é dona e legitima possuidora de um prédio urbano situado no Casal 1 ou na Quinta 1, em..., freguesia de Cadafais, concelho de Alenquer, descrito na Conservatória do Registo Predial de Alenquer, sob o n.º .67 da freguesia de Cadafais, e registado a seu favor pela inscrição G-um; inscrito na respectiva matriz urbana sob o artigo 61; disseram os primeiros e segundo outorgantes: que, o BNC - Banco Nacional de Crédito Imobiliário, SA concedeu aos mutuários, um empréstimo no montante de seis milhões de escudos, ao abrigo do Regime Geral de Crédito, instituído pelo Decreto Lei trezentos quarenta e nove barra noventa e oito, de onze de novembro e demais legislação em vigor, ao abrigo do regime GERAL, do qual se confessam devedor. Que o empréstimo se destina a obras no imóvel atrás descrito, onde têm a sua residência permanente para o que, nesta data, é colocada à disposição dos primeiros outorgantes a quantia de um milhão de descritos. Que em garantia do pontual pagamento da quantia mutuada, juros e despesas judiciais e extrajudiciais, que o BNC houver de fazer para se ressarcir do seu crédito, as quais, tão somente para efeitos de registo se fixam em duzentos e quarenta mil escudos, sendo o montante máximo de capital e acessórios de sete milhões novecentos e noventa e cinco mil escudos, constitui ela primeira outorgante com autorização do cônjuge segunda hipoteca voluntária sobre o prédio atrás identificado (...)».
 
@@ -216,7 +216,7 @@ São os seguintes os factos que o acórdão ora recorrido elencou como provados:
 
 8 - No momento da conceção da filha comum do casal, em data não concretamente apurada, Autor e Ré decidiram fixar a sua residência na cidade de Beja.
 
-9 - Em 05.02.2003, foi outorgado documento particular intitulado por «contrato promessa de compra e venda» entre R...Construções, L.<sup>da</sup> na qualidade de promitente vendedor e Autor e Ré na qualidade de promitentes compradores com o seguinte clausulado: «CLÁUSULA Iª
+9 - Em 05.02.2003, foi outorgado documento particular intitulado por «contrato promessa de compra e venda» entre R...Construções, L.da na qualidade de promitente vendedor e Autor e Ré na qualidade de promitentes compradores com o seguinte clausulado: «CLÁUSULA Iª
 
 O primeiro outorgante é dono e legítimo proprietário de um lote de terreno, sito às Rua 1 e Rua 3, em Beja, freguesia de S. João Batista, concelho de Beja, omisso na respectiva matriz predial mas como o pedido de inscrição entregue na Repartição de Finanças de Beja em 16 de Outubro de 2002, e com a área total de 1.418,3 m2, descrito na Conservatória do Registo Predial de Beja sob a ficha n.º ...65/181002 - São João Batista. No referido terreno encontra-se projectado a construção de edifício urbano destinado a habitação, comércio e serviços.
 
@@ -260,9 +260,9 @@ Cláusula 11.ª
 
 Os outorgantes declaram aceitar as condições do presente contrato e, porque corresponde às suas reais vontades, o assinam,»
 
-10 - Por meio de escritura pública denominada de «compra e venda e mútuo com hipoteca» outorgada no dia 25.01.2005 na Secretaria Notarial de Beja da Lic. FF, R...Construções, L.<sup>da</sup>, representada por GG na qualidade de procurador com poderes para o ato, declarou vender ao Autor AA e à Ré BB, em comum e em partes iguais, pelo preço já recebido de € 145.000,00 (cento e quarenta e cinco mil euros) a fração autónoma designada pelas letras AR, correspondente ao primeiro andar duplex identificado pela letra L, destinado a habitação, com entrada pelo n.º 7 da Rua 3 e Rua 1° 24-A, com dois lugares de parqueamento, ao nível da cave, identificados pelos n.<sup>os</sup>6 e 29, do prédio urbano sito no Gaveto da Rua 1, n.<sup>os</sup>24, 24-A, 26, 26-A, 26-B, 26-C, 26-D, 26-E, e 26-F e Rua 3os 7 e 9, na freguesia de São João Batista, na cidade e concelho de Beja, descrito na Conservatória do Registo Predial de Beja sob o n-°..75, venda essa que o Autor e a Ré por sua vez declararam aceitar, tendo em vista a sua residência própria e permanente.
+10 - Por meio de escritura pública denominada de «compra e venda e mútuo com hipoteca» outorgada no dia 25.01.2005 na Secretaria Notarial de Beja da Lic. FF, R...Construções, L.da, representada por GG na qualidade de procurador com poderes para o ato, declarou vender ao Autor AA e à Ré BB, em comum e em partes iguais, pelo preço já recebido de € 145.000,00 (cento e quarenta e cinco mil euros) a fração autónoma designada pelas letras AR, correspondente ao primeiro andar duplex identificado pela letra L, destinado a habitação, com entrada pelo n.º 7 da Rua 3 e Rua 1° 24-A, com dois lugares de parqueamento, ao nível da cave, identificados pelos n.os6 e 29, do prédio urbano sito no Gaveto da Rua 1, n.os24, 24-A, 26, 26-A, 26-B, 26-C, 26-D, 26-E, e 26-F e Rua 3os 7 e 9, na freguesia de São João Batista, na cidade e concelho de Beja, descrito na Conservatória do Registo Predial de Beja sob o n-°..75, venda essa que o Autor e a Ré por sua vez declararam aceitar, tendo em vista a sua residência própria e permanente.
 
-11 - Em 29.04.2008, mediante documento particular intitulado de «contrato-promessa de compra e venda» C..., L.<sup>da</sup>, nesse ato representada por HH na qualidade de procurador com poderes suficientes para o ato, declarou prometer vender, livre de quaisquer ónus, encargos ou responsabilidades, ao Autor AA e à Ré BB uma fração autónoma no prédio urbano sito na Rua 1° 29, em Beja, freguesia de São João Batista, correspondente a um T4 2.º direito com uma garagem designada pela letra Gl com o Alvará de construção n.º .02/08, pelo preço de € 240.000,00 (duzentos e quarenta mil euros), tendo estes últimos declarado prometer comprá-la.
+11 - Em 29.04.2008, mediante documento particular intitulado de «contrato-promessa de compra e venda» C..., L.da, nesse ato representada por HH na qualidade de procurador com poderes suficientes para o ato, declarou prometer vender, livre de quaisquer ónus, encargos ou responsabilidades, ao Autor AA e à Ré BB uma fração autónoma no prédio urbano sito na Rua 1° 29, em Beja, freguesia de São João Batista, correspondente a um T4 2.º direito com uma garagem designada pela letra Gl com o Alvará de construção n.º .02/08, pelo preço de € 240.000,00 (duzentos e quarenta mil euros), tendo estes últimos declarado prometer comprá-la.
 
 12 - Por meio de documento particular autenticado intitulado de «compra e venda mútuo com hipoteca», o Autor e a Ré, intitulados por parte vendedora, declaram vender a II pelo preço já recebido de € 175.000,00 (cento e setenta e cinco mil euros), a qual declarou comprar, a fração autónoma referida em 10).
 
@@ -278,9 +278,9 @@ Os outorgantes declaram aceitar as condições do presente contrato e, porque co
 
 18 - A Ré aceitou a proposta formulada pelo Autor por se encontrar em situação de endividamento à Banca e ainda por se encontrar vinculada ao acordo mencionado em 11).
 
-19 - Por meio de documento particular autenticado intitulado de “título de compra e venda mútuo com hipoteca” outorgada em 19.02.2010, C..., L.<sup>da</sup>, representada por HH com poderes para o acto, declarou vender ao Autor pelo preço, já recebido de € 240.000,00 (duzentos e quarenta mil euros), a fração autónoma designada pela letra “F” correspondente ao segundo andar direito com uma arrecadação e terraço e uma garagem na Cave G-UM, do prédio urbano, em regime de propriedade horizontal, sito na Rua 1° 29, na freguesia de Beja (São João Batista), concelho de Beja, descrito sob o n.º .09 junto da Conservatória do Registo Predial de Beja, venda essa que o Autor por sua vez declarou aceitar.
+19 - Por meio de documento particular autenticado intitulado de “título de compra e venda mútuo com hipoteca” outorgada em 19.02.2010, C..., L.da, representada por HH com poderes para o acto, declarou vender ao Autor pelo preço, já recebido de € 240.000,00 (duzentos e quarenta mil euros), a fração autónoma designada pela letra “F” correspondente ao segundo andar direito com uma arrecadação e terraço e uma garagem na Cave G-UM, do prédio urbano, em regime de propriedade horizontal, sito na Rua 1° 29, na freguesia de Beja (São João Batista), concelho de Beja, descrito sob o n.º .09 junto da Conservatória do Registo Predial de Beja, venda essa que o Autor por sua vez declarou aceitar.
 
-20 - Mediante AP...29 de 19/02/2010 mostra-se registada junto da Conservatória do Registo Predial de Beja a aquisição a favor do Autor da fração autónoma referida em 19) por compra à C..., L.<sup>da</sup>
+20 - Mediante AP...29 de 19/02/2010 mostra-se registada junto da Conservatória do Registo Predial de Beja a aquisição a favor do Autor da fração autónoma referida em 19) por compra à C..., L.da
 
 21 - Pela AP...30 de 19/02/2010 encontra-se registada a favor do Banco BPI S. A. Sociedade Aberta uma hipoteca voluntária para garantia do montante de 160.000,00 (cento e sessenta mil euros), no montante máximo assegurado de €194.456,00, emergente do empréstimo concedido a AA para a aquisição daquela fração autónoma.
 
@@ -677,3 +677,5 @@ Declaração de voto
 Manifesto por este meio a minha adesão à declaração de voto apresentada pela Senhora Conselheira Maria dos Prazeres Pizarro Beleza.
 
 Maria João Vaz Tomé
+
+119712082

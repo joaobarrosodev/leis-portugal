@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44484-1962-163821
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-07-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:30:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 713ebcd87efa976c61073ab0b248cff75d48af369f35caaada48ee5cc599df21
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0670d4e6b2a7b17e40d93795186a7ecef38b49f1431df0d288341ccada32993f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:30:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:513008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514183:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:30:21Z'
   warnings: []
   errors: []
 ---
@@ -95,18 +103,18 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos temos do § 2.º do artigo 80.º, o seguinte:
 
-###### Artigo 1.º De harmonia com o disposto no n.º 1.º do artigo 11.º do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), de 22 de Novembro de 1960, é autorizada a emissão de 51 promissórias, destinadas a substituir parte da moeda com que Portugal teria de entrar para o Fundo Monetário Internacional, nos termos do Acordo aprovado pelo [Decreto-Lei n.º 43338](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43338-1960-514183), de 21 de Novembro de 1960.
+Artigo 1.º De harmonia com o disposto no n.º 1.º do artigo 11.º do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), de 22 de Novembro de 1960, é autorizada a emissão de 51 promissórias, destinadas a substituir parte da moeda com que Portugal teria de entrar para o Fundo Monetário Internacional, nos termos do Acordo aprovado pelo [Decreto-Lei n.º 43338](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43338-1960-514183), de 21 de Novembro de 1960.
 
-###### Art. 2.º O serviço da emissão ficará a cargo da Junta do Crédito Público e as promissórias serão entregues ao Banco de Portugal, ao qual incumbe, nos termos do artigo 4.º do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), desempenhar as funções de depositário, definidas na secção 2.ª do artigo XIII do Acordo.
+Art. 2.º O serviço da emissão ficará a cargo da Junta do Crédito Público e as promissórias serão entregues ao Banco de Portugal, ao qual incumbe, nos termos do artigo 4.º do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), desempenhar as funções de depositário, definidas na secção 2.ª do artigo XIII do Acordo.
 
-###### Art. 3.º Haverá 2 promissórias do valor nominal de 10000000 de dólares, correspondendo cada uma a 287500 contos; 48 promissórias do valor nominal de 500000 dólares, correspondendo cada uma a 14375 contos; e 1 promissória do valor nominal de U. S. $398975,31, correspondente a 11470540$20.
+Art. 3.º Haverá 2 promissórias do valor nominal de 10000000 de dólares, correspondendo cada uma a 287500 contos; 48 promissórias do valor nominal de 500000 dólares, correspondendo cada uma a 14375 contos; e 1 promissória do valor nominal de U. S. $398975,31, correspondente a 11470540$20.
 
-###### Art. 4.º As promissórias a emitir não são negociáveis nem vencem juros e são pagáveis à vista e ao par, creditando a conta do Fundo Monetário Internacional no Banco de Portugal.
+Art. 4.º As promissórias a emitir não são negociáveis nem vencem juros e são pagáveis à vista e ao par, creditando a conta do Fundo Monetário Internacional no Banco de Portugal.
 
 § único. No caso de ser paga sòmente uma parte da importância representada em qualquer das promissórias, passar-se-á uma nova promissória com as mesmas características e do valor nominal correspondente à quantia que ficou por pagar.
 
-###### Art. 5.º Das promissórias, que serão assinadas de chancela pelo Ministro das Finanças e pelo presidente da Junta do Crédito Público e levarão a assinatura autógrafa de um dos vogais e o selo branco da mesma Junta, constará o respectivo número de ordem, o capital nelas representado, a data da emissão, os decretos que autorizaram esta e os direitos, isenções e garantias de que gozam e que são os dos restantes títulos da dívida pública que lhes forem aplicáveis.
+Art. 5.º Das promissórias, que serão assinadas de chancela pelo Ministro das Finanças e pelo presidente da Junta do Crédito Público e levarão a assinatura autógrafa de um dos vogais e o selo branco da mesma Junta, constará o respectivo número de ordem, o capital nelas representado, a data da emissão, os decretos que autorizaram esta e os direitos, isenções e garantias de que gozam e que são os dos restantes títulos da dívida pública que lhes forem aplicáveis.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Julho de 1962. - ANTÓNIO DE OLIVEIRA SALAZAR - António Manuel Pinto Barbosa.

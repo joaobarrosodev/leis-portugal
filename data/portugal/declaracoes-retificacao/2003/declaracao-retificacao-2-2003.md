@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/2/2003/03/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2-2003-214528
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-16T00:00:00Z'
+  retrieved_at: '2026-10-22T19:02:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9935651e2aa886d281e396dc2fc7e8122642352409ab7c2aec2a7124865a246
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0fb26fd8f1fb2012ad7ad415468ad10261b17305516a69b0d682500669673911
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:02:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,23 @@ subjects:
 - Autonomia Financeira
 - Código do IRC
 - Código do IRS
-- Ministério da Ciência e do Ensino Superior
-- IRS
 - Infracção Fiscal
-- Orçamento Geral do Estado
 - IRC
+- IRS
+- Ministério da Ciência e do Ensino Superior
+- Orçamento Geral do Estado
 - Visto do Tribunal de Contas
 relationships:
 - type: amended_by
   target: pt:dre:571007:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:571007:por
+  label: Dada nova redação ao art. 67.º do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-nov, alterado pela Lei 32-B/2002
+    de 30-dez, retificada pelo presente diploma, pela LEI.2/2014.16.01.2014.AR, DR.IS [11] de 16.01.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2014-571007
+  date: '2014-01-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/15/2001/06/05/p/dre
   label: null
@@ -92,16 +98,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/32-b/2002/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/32-b/2002/12/30/p/dre
+- type: cites
+  target: pt:dre:280920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322110:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:335474:por
+  label: "Revogado, a partir de 21.07.2010, e com excepção dos arts 32.º a 36.º do Código dos Impostos Especiais de Consumo,\
+    \ os quais se mantêm em vigor até 31.12.2010, o Dec Lei 566/99, de 22-Dez, rectificado pela presente declaração, pelo\
+    \ DEC LEI.73/2010.21.06.2010.MFAP, DR.IS [118] de 21.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-2010-335474
+  date: '2010-06-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:02:24Z'
   warnings: []
   errors: []
 ---

@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 51/1992, 2º Suplemento, Série I-B de 1992-02-29
   number: '51'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1142-(5) a 1142-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/02/051b02/00050005.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/13/1992/02/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-1992-581244
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-02-29T00:00:00Z'
+  retrieved_at: '2026-10-22T18:33:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c7556754061bd52e27462b1390294ffba7633cf9e83fb851ff821e87d74e88bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c652d6a8658651ac944e98009e2f37d86fe2217774ba29302ec9165443fc59e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:33:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,30 +68,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de BENS
-- Sociedade Anónima
 - Capital Social
 - Petrogal
 - Privatização
+- Sociedade Anónima
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/3/1992/01/17/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/3/1992/01/17/p/dre
+- type: cites
+  target: pt:dre:264898:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:33:17Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 13/92
+# Declaração de rectificação n.º 13/92
 
 Para os devidos efeitos se declara que a [Resolução do Conselho de Ministros n.º 3/92](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/3-1992-264898), publicada no Diário da República, n.º 14 (suplemento) de 17 de Janeiro de 1992, cujo original se encontra arquivado nesta Secretaria-Geral saiu com as seguintes inexactidões que assim se rectificam:
 

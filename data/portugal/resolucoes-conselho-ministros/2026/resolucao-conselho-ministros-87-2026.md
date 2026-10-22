@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/87/2026/05/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/87-2026-1124493233
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-20T00:00:00Z'
+  retrieved_at: '2026-10-22T18:41:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 720779f99a1f71bfb816a93e5cac990bf513616ec0293292e54a985f550c69f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf693e0c6dab506acf08ae5b0875092190c825b7ffee1ce246b794f424efeb73
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:41:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Comemoração
 - Camões - Instituto da Cooperação e da Língua
-- Nomeação
-- Estrutura de Missão das Comemorações do V Centenário do Nascimento de Luís de Camões
+- Comemoração
 - Comissariado Curatorial
+- Estrutura de Missão das Comemorações do V Centenário do Nascimento de Luís de Camões
+- Nomeação
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:69/2024
+  label: Altera, a partir de 22 de maio de 2026, os n.ºs 8, 10 e 17 da Resolução do Conselho de Ministros n.º 69/2024, de
+    3 de junho, Diário da República n.º 106/2024, Série I
+  source: null
+  date: '2024-06-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
@@ -84,16 +90,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/69/2024/06/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/69/2024/06/03/p/dre
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:867741524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:888585882:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:41:25Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +132,7 @@ Nos termos do artigo 28.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/
 
 1 - Designar como novos membros do Comissariado Curatorial Maria do Céu Amaral Fortes de Fraga Amaral e Maria Micaela Dias Pereira Ramon Moreira.
 
-2 - Alterar os n.<sup>os</sup>8, 10 e 17 da [Resolução do Conselho de Ministros n.º 69/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/69-2024-867741524), de 3 de junho, na sua redação atual, que passam a ter a seguinte redação:
+2 - Alterar os n.os8, 10 e 17 da [Resolução do Conselho de Ministros n.º 69/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/69-2024-867741524), de 3 de junho, na sua redação atual, que passam a ter a seguinte redação:
 
 «8 - [...]
 
@@ -167,3 +185,5 @@ Maria Micaela Dias Pereira Ramon Moreira é professora auxiliar do Departamento 
 É autora de livros, capítulos e artigos em revistas e atas de encontros científicos, nacionais e internacionais, sobre temas ligados às áreas que investiga e leciona.
 
 Publicou vários estudos sobre Camões e foi colaboradora do Dicionário sobre o mesmo autor, coordenado por Vítor Manuel Aguiar e Silva.
+
+119948555

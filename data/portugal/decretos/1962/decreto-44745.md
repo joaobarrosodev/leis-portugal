@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44745-1962-155434
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-06-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:32:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52a7772cc84dddd2057177b383e256fec97fcf38d1fddc2512afe20f05f47401
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d5c3ea526a92df8adc8dc894afed29bac68fce5bf637295517ac8e9a023ea26
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:32:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,28 @@ relationships:
   target: pt:dre:693239:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:563441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637471:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:32:31Z'
   warnings: []
   errors: []
 ---
@@ -104,26 +116,26 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º No Colégio Militar o ensino é distribuído por três ciclos, correspondendo, do mesmo modo que nos liceus, o 1.º ciclo aos 1.º e 2.º anos, o 2.º ciclo aos 3.º, 4.º e 5.º anos e o 3.º ciclo aos 6.º e 7.º anos.
+Artigo 1.º No Colégio Militar o ensino é distribuído por três ciclos, correspondendo, do mesmo modo que nos liceus, o 1.º ciclo aos 1.º e 2.º anos, o 2.º ciclo aos 3.º, 4.º e 5.º anos e o 3.º ciclo aos 6.º e 7.º anos.
 
-###### Art. 2.º O plano de estudos no que respeita à parte literária é o estabelecido no artigo 4.º do [Decreto-Lei n.º 36507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36507-1947-637471), de 17 de Setembro de 1947.
+Art. 2.º O plano de estudos no que respeita à parte literária é o estabelecido no artigo 4.º do [Decreto-Lei n.º 36507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36507-1947-637471), de 17 de Setembro de 1947.
 
 Além das matérias constantes daquele artigo haverá semanalmente as sessões a que se referem as alíneas a), b) e c) do artigo 6.º do citado decreto-lei.
 
 § único. No 3.º ciclo funcionam apenas as disciplinas referidas nas alíneas f) e h) do artigo 5.º do [Decreto-Lei n.º 36507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36507-1947-637471), de 17 de Setembro de 1947, podendo os alunos matricular-se sòmente em uma destas alíneas.
 
-###### Art. 3.º Os programas das diferentes disciplinas são os legalmente aprovados para os liceus e o sistema de exames seguirá, quanto ao número e natureza das provas, os moldes adoptados para aqueles estabelecimentos de ensino.
+Art. 3.º Os programas das diferentes disciplinas são os legalmente aprovados para os liceus e o sistema de exames seguirá, quanto ao número e natureza das provas, os moldes adoptados para aqueles estabelecimentos de ensino.
 
-###### Art. 4.º O Ministro do Exército pode, sem prejuízo do disposto nos artigos anteriores, criar cursos, aulas ou disciplinas e tomar providências de outra natureza, com a finalidade de dar aos alunos do Colégio Militar a preparação julgada indispensável para o ingresso na Academia Militar, e bem assim estabelecer normas de adaptação do regime que tem vigorado às disposições do presente decreto.
+Art. 4.º O Ministro do Exército pode, sem prejuízo do disposto nos artigos anteriores, criar cursos, aulas ou disciplinas e tomar providências de outra natureza, com a finalidade de dar aos alunos do Colégio Militar a preparação julgada indispensável para o ingresso na Academia Militar, e bem assim estabelecer normas de adaptação do regime que tem vigorado às disposições do presente decreto.
 
-###### Art. 5.º Continuam em vigor as disposições regulamentares referentes ao funcionamento interno, duração do ano escolar e outras, privativas do Colégio Militar, que não sejam expressamente alteradas pelo presente decreto.
+Art. 5.º Continuam em vigor as disposições regulamentares referentes ao funcionamento interno, duração do ano escolar e outras, privativas do Colégio Militar, que não sejam expressamente alteradas pelo presente decreto.
 
-###### Art. 6.º Disposições transitórias:
+Art. 6.º Disposições transitórias:
 
 1) No ano lectivo de 1962-1963 serão admitidos à matrícula no 3.º ano os alunos que, no ano lectivo anterior, tenham obtido aproveitamento na frequência do 2.º ano do Colégio Militar;
 
 2) Os alunos que em consequência do disposto na alínea anterior tenham sido dispensados do exame do 1.º ciclo (2.º ano) e pretendam obter certificado da respectiva habilitação, poderão, sem prejuízo do direito de transição para o ano imediato, requerer exame deste ciclo segundo o novo regime.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Novembro do 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Mário José Pereira da Silva - Manuel Lopes de Almeida.

@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 76/1998, 3º Suplemento, Série I-A de 1998-03-31
   number: '76'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 1420-(13) a 1420-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/03/076a03/00130013.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/7-c/1998/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-c-1998-276176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:52:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02b3d8547191ebbdb8231264c255e1c864015fe9ef5b8a93c77b945f1cfb08bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68b5561d30cb8f6e8dffbd582b6e93ca1f7e710e09d8aa8acd8f3a64ad15e508
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:52:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,86 +67,86 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - ALTO Comissário para a Igualdade e a Família
 - ALTO Comissário para a Imigração
 - ALTO Comissário para as Questões da Promoção da Igualdade e da Família
-- Reestruturação de Serviços
-- Região Autónoma
-- Ministério do Trabalho e da Solidariedade
+- Assembleia da República
 - Comissão de Segurança
-- Ministro da Ciência e da Tecnologia
-- Ministro da Saúde
-- Ministro da Economia
 - Comissariado da Exposição Internacional de Lisboa-expo 98
 - Comissariado de Portugal para a Exposição Internacional de Lisboa-expo 98
 - Conselho de Ministros
 - Conselho de Ministros para os Assuntos da Educação Qualificação Ciência e Cultura
 - Conselho de Ministros para os Assuntos da União Europeia
 - Conselho de Ministros para os Assuntos Económicos
-- Governo Regional
-- Ministro do Trabalho e da Solidariedade
 - Conselho Nacional do Consumo
-- Instituto António Sérgio do Sector Cooperativo
 - Criação de Serviços
 - Definição de Competências
 - Delegação de Competências
 - Discussão Pública
 - Eleição Legislativa
-- Segurança Pública
+- Exposição Internacional de Lisboa de 1998
 - Extinção de Serviços
-- Ministério para a Qualificação e o Emprego
+- Gabinete de Planeamento e de Coordenação do Combate à Droga
 - Gabinete Governamental
+- Governo Regional
 - Governo XIII
-- Ministério da Solidariedade e Segurança Social
-- Ministro da Justiça
-- Ministro da Solidariedade e Segurança Social
-- Secretário de Estado do Turismo
-- Ministro Adjunto do Primeiro-ministro
-- Ministro dos Negócios Estrangeiros
-- Ministro da Cultura
-- Ministro das Finanças
-- Ministro para os Assuntos Parlamentares
-- Primeiro-ministro
+- Instituto António Sérgio do Sector Cooperativo
 - Instituto do Consumidor
 - Integração de Serviços
-- Santa Casa da Misericórdia
-- Exposição Internacional de Lisboa de 1998
-- Sistema Eleitoral
-- Gabinete de Planeamento e de Coordenação do Combate à Droga
-- Secretário de Estado do Ambiente
-- Secretário de Estado do Desporto
+- Madeira.região Autónoma
+- Ministério da Solidariedade e Segurança Social
+- Ministério do Trabalho e da Solidariedade
+- Ministério para a Qualificação e o Emprego
+- Ministro Adjunto do Primeiro-ministro
+- Ministro da Administração Interna
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
+- Ministro da Ciência e da Tecnologia
+- Ministro da Cultura
+- Ministro da Defesa Nacional
+- Ministro da Economia
+- Ministro da Educação
+- Ministro da Justiça
+- Ministro da Presidência
 - Ministro da República
+- Ministro da República para a Região Autónoma da Madeira
 - Ministro da República para a Região Autónoma dos Açores
+- Ministro da Saúde
+- Ministro da Solidariedade e Segurança Social
+- Ministro das Finanças
 - Ministro do Ambiente
 - Ministro do Equipamento do Planeamento e da Administração do Território
+- Ministro do Trabalho e da Solidariedade
+- Ministro dos Negócios Estrangeiros
 - Ministro para a Qualificação e o Emprego
+- Ministro para os Assuntos Parlamentares
 - Orçamento Geral do Estado
 - Orgânica
-- Assembleia da República
 - Partido Político
-- Secretário de Estado Adjunto do Primeiro-ministro
-- Secretário de Estado da Presidência do Conselho de Ministros
-- Madeira.região Autónoma
 - Presidência do Conselho de Ministros
-- Ministro da República para a Região Autónoma da Madeira
-- Ministro da Defesa Nacional
-- Ministro da Educação
-- Ministro da Presidência
+- Primeiro-ministro
+- Processo Legislativo
+- Reestruturação de Serviços
+- Região Autónoma
+- Santa Casa da Misericórdia
 - Secretário de Estado
 - Secretário de Estado Adjunto do Ministro da Economia
 - Secretário de Estado Adjunto do Ministro do Ambiente
+- Secretário de Estado Adjunto do Primeiro-ministro
 - Secretário de Estado da Administração Pública e Modernização Administrativa
 - Secretário de Estado da Comunicação Social
 - Secretário de Estado da Indústria e Energia
 - Secretário de Estado da Inserção Social
 - Secretário de Estado da Juventude
+- Secretário de Estado da Presidência do Conselho de Ministros
 - Secretário de Estado da Segurança Social e das Relações Laborais
+- Secretário de Estado do Ambiente
 - Secretário de Estado do Comércio
+- Secretário de Estado do Desporto
 - Secretário de Estado do Emprego e Formação
-- Ministro da Administração Interna
-- Processo Legislativo
-- Açores
+- Secretário de Estado do Turismo
+- Segurança Pública
+- Sistema Eleitoral
 - Transferência de Serviços
 - Transferência de Verbas
 - Tutela
@@ -159,16 +159,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/55/1998/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/55/1998/03/16/p/dre
+- type: cites
+  target: pt:dre:186543:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:52:10Z'
   warnings: []
   errors: []
 ---

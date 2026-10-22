@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/91/2026/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/91-2026-1124570662
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-21T00:00:00Z'
+  retrieved_at: '2026-10-22T18:41:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19a2267d9ce90e1983bca20a7a6d0c734c095707c2425dac699aedb7f266af37
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6cbc63a6c564548113f0aaab19c6a0db7e07fbde1c03fde3e468e4304cf278e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:41:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,21 @@ subjects:
 - Conselho de Administração
 - Nomeação
 - Presidente
-- Vogal
 - Unidade Local de Saúde da Região de Aveiro
+- Vogal
 relationships:
+- type: amends
+  target: pt:numero:despacho:973/2024
+  label: Dissolve, a partir de 22 de maio de 2026, conselho de administração da Unidade Local de Saúde da Região de Aveiro,
+    E. P. E, designado pelo Despacho n.º 973/2024, de 25 de janeiro, Diário da República n.º 18/2024, Série II
+  source: null
+  date: '2024-01-25'
+- type: amends
+  target: pt:numero:despacho:9931/2024
+  label: Dissolve, a partir de 22 de maio de 2026, conselho de administração da Unidade Local de Saúde da Região de Aveiro,
+    E. P. E, designado pelo Despacho n.º 9931/2024, de 27 de agosto, Diário da República n.º 165/2024, Série II
+  source: null
+  date: '2024-08-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133/2013/10/03/p/dre
   label: null
@@ -91,16 +103,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:838996442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:885783042:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:41:35Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +155,7 @@ Neste contexto, a evolução do modelo organizacional das Unidades Locais de Sa�
 
 Importa reconhecer o empenho e a dedicação do atual conselho de administração, cujo contributo se revelou relevante no contexto em que exerceu funções. Não obstante, o atual enquadramento e as metas estabelecidas para o setor da saúde recomendam a adoção de um modelo de gestão que permita potenciar, de forma mais intensa, ganhos ao nível do acesso, da qualidade assistencial, da eficiência operacional e da integração de cuidados.
 
-Face ao exposto, e considerando a necessidade de assegurar uma renovação da liderança que permita responder de forma mais eficaz e tempestiva às exigências assistenciais da Unidade Local de Saúde da Região de Aveiro, E. P. E., a presente resolução procede à dissolução, por mera conveniência, do atual conselho de administração, nos termos dos n.<sup>os</sup>1 e 2 do artigo 26.º do Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março.
+Face ao exposto, e considerando a necessidade de assegurar uma renovação da liderança que permita responder de forma mais eficaz e tempestiva às exigências assistenciais da Unidade Local de Saúde da Região de Aveiro, E. P. E., a presente resolução procede à dissolução, por mera conveniência, do atual conselho de administração, nos termos dos n.os1 e 2 do artigo 26.º do Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março.
 
 Concomitantemente, procede-se à designação de um novo conselho de administração conforme disposto no artigo 69.º do Estatuto do Serviço Nacional de Saúde, aprovado pelo [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto.
 
@@ -125,7 +165,7 @@ Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](h
 
 Assim:
 
-Nos termos dos n.<sup>os</sup>2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, do artigo 12.º, dos n.<sup>os</sup>1 a 3 do artigo 13.º, do artigo 15.º e da alínea c) do n.º 3 do artigo 20.º, dos n.<sup>os</sup>1 e 2 do artigo 26.º e do n.º 8 do artigo 28.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos dos n.os2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, do artigo 12.º, dos n.os1 a 3 do artigo 13.º, do artigo 15.º e da alínea c) do n.º 3 do artigo 20.º, dos n.os1 e 2 do artigo 26.º e do n.º 8 do artigo 28.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Dissolver, com fundamento em critérios de mera conveniência, o conselho de administração da Unidade Local de Saúde da Região de Aveiro, E. P. E., designado pelos Despachos, do diretor executivo do Serviço Nacional de Saúde, n.º [973/2024](https://diariodarepublica.pt/dr/detalhe/despacho/973-2024-838996442), publicado no Diário da República, 2.ª série, n.º 18, de 25 de janeiro de 2024, e n.º [9931/2024](https://diariodarepublica.pt/dr/detalhe/despacho/9931-2024-885783042), publicado no Diário da República, 2.ª série, n.º 165, de 27 de agosto de 2024.
 
@@ -175,7 +215,7 @@ Presidente da Secção Regional do Centro da Ordem dos Enfermeiros (2016-2023);
 
 Professor convidado do Ensino Superior (Políticas Públicas, Contabilidade, Economia e Gestão em Saúde);
 
-Sócio-gerente da ACCOUNTIS, L.<sup>da</sup> - Consultoria em Gestão e Contabilidade;
+Sócio-gerente da ACCOUNTIS, L.da - Consultoria em Gestão e Contabilidade;
 
 Consultor em organização e estratégia empresarial;
 
@@ -467,7 +507,7 @@ Licenciatura em Enfermagem (2006).
 
 Títulos profissionais/académicos:
 
-## Título de Enfermeira Especialista em Saúde Materna e Obstetrícia (n.º 55646);
+Título de Enfermeira Especialista em Saúde Materna e Obstetrícia (n.º 55646);
 
 Competência acrescida em Enfermagem do Trabalho (n.º 55646);
 
@@ -478,3 +518,5 @@ Técnica superior de Higiene e Segurança (título ACT 10012208ET6);
 Formadora com Certificado de Competências Pedagógicas (CCP N.f698589/2020);
 
 Associada do Instituto Português de Auditoria Interna (n.º 2671).
+
+119948579

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45472-1963-680470
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-12-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:38:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10e45dd2e97c386b6f6d9defaaad50fa009e7c03d6b2a2ee34b810dfa49ffec6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb0640876320de55e0e919c2683064c93a50e6d3c497a244f0c371040b843b3a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:38:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:481550:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:38:34Z'
   warnings: []
   errors: []
 ---
@@ -93,11 +97,11 @@ Nestas condições:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A Comissão Mista Nacional de Telecomunicações passa a designar-se Agência Nacional de Linhas a Grande Distância - NALLA, tendo a composição e atribuições definidas pelo presente diploma.
+Artigo 1.º A Comissão Mista Nacional de Telecomunicações passa a designar-se Agência Nacional de Linhas a Grande Distância - NALLA, tendo a composição e atribuições definidas pelo presente diploma.
 
-###### Art. 2.º A NALLA portuguesa funcionará provisòriamente na dependência do Secretariado-Geral da Defesa Nacional, de harmonia com o disposto no artigo 13.º do [Decreto-Lei n.º 37955](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37955-1950-481550), de 9 de Setembro de 1950, e a sua integração definitiva no esquema das telecomunicações nacionais será estabelecida quando tiver lugar a revisão geral do referido esquema.
+Art. 2.º A NALLA portuguesa funcionará provisòriamente na dependência do Secretariado-Geral da Defesa Nacional, de harmonia com o disposto no artigo 13.º do [Decreto-Lei n.º 37955](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37955-1950-481550), de 9 de Setembro de 1950, e a sua integração definitiva no esquema das telecomunicações nacionais será estabelecida quando tiver lugar a revisão geral do referido esquema.
 
-###### Art. 3.º Compete à Agência Nacional de Linhas a Grande Distância - NALLA portuguesa:
+Art. 3.º Compete à Agência Nacional de Linhas a Grande Distância - NALLA portuguesa:
 
 a) Promover a satisfação das necessidades militares e civis OTAN em circuitos filares e feixes hertzianos, quer em coordenação com a agência internacional ELLA (European Long Lines Agency), quer por entendimentos bilaterais com outras NALLAS;
 
@@ -117,11 +121,11 @@ e) Fornecer à Administração-Geral dos Correios, Telégrafos e Telefones os el
 
 f) Manter actualizados nos seus arquivos os elementos técnicos, as cartas e as informações relativas às redes de telecomunicações existentes ou em projecto.
 
-###### Art. 4.º A NALLA portuguesa terá inicialmente à sua responsabilidade uma zona geográfica limitada ao território nacional situado na Europa, com inclusão dos arquipélagos dos Açores e da Madeira. A medida que as circunstâncias o aconselharem, serão constituídos organismos regionais, com a designação de RELLAS (agências regionais de linhas a grande distância), organizados em moldes semelhantes aos da agência nacional e adequados às respectivas necessidades.
+Art. 4.º A NALLA portuguesa terá inicialmente à sua responsabilidade uma zona geográfica limitada ao território nacional situado na Europa, com inclusão dos arquipélagos dos Açores e da Madeira. A medida que as circunstâncias o aconselharem, serão constituídos organismos regionais, com a designação de RELLAS (agências regionais de linhas a grande distância), organizados em moldes semelhantes aos da agência nacional e adequados às respectivas necessidades.
 
 As RELLAS poderão socorrer-se directamente da NALLA para efeitos de orientação.
 
-###### Art. 5.º Para a NALLA portuguesa é estabelecida a seguinte composição:
+Art. 5.º Para a NALLA portuguesa é estabelecida a seguinte composição:
 
 a) Comissão plenária:
 
@@ -143,18 +147,18 @@ b) Órgãos de execução:
 
 Funcionarão sob a direcção do presidente da comissão plenária e compreendem:
 
-#### Secção de planeamento e informação - a cargo de um oficial especializado em transmissões ou comunicações de qualquer dos três ramos das forças armadas. Colaborará nesta secção um delegado da Inspecção Superior da Mobilização Civil, técnico de telecomunicações.
+Secção de planeamento e informação - a cargo de um oficial especializado em transmissões ou comunicações de qualquer dos três ramos das forças armadas. Colaborará nesta secção um delegado da Inspecção Superior da Mobilização Civil, técnico de telecomunicações.
 
-#### Secção de coordenação e ligação - a cargo de um oficial especializado em transmissões ou comunicações de qualquer dos três ramos das forças armadas.
+Secção de coordenação e ligação - a cargo de um oficial especializado em transmissões ou comunicações de qualquer dos três ramos das forças armadas.
 
 Secretaria - a cargo de um oficial, não especializado, de qualquer dos três ramos das forças armadas.
 
 § único. Os oficiais da NALLA podem ser do activo ou da reserva.
 
-###### Art. 6.º O quadro de efectivos da NALLA e o seu regulamento interno serão estudados em pormenor pela comissão plenária e submetidos à aprovação ministerial.
+Art. 6.º O quadro de efectivos da NALLA e o seu regulamento interno serão estudados em pormenor pela comissão plenária e submetidos à aprovação ministerial.
 
-###### Art. 7.º As despesas com a NALLA portuguesa constituirão encargo do Secretariado-Geral da Defesa Nacional.
+Art. 7.º As despesas com a NALLA portuguesa constituirão encargo do Secretariado-Geral da Defesa Nacional.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Dezembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Carlos Gomes da Silva Ribeiro - Francisco António das Chagas.

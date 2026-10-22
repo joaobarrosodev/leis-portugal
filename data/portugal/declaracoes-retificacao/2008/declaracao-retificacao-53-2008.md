@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/53/2008/09/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/53-2008-452229
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-09-19T00:00:00Z'
+  retrieved_at: '2026-10-22T19:10:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbf7cb4621d9ba9992e0c257d2470613b94dcb9ae758dc7cc5e2fb78affc4466
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: faca358c3316ec3e641956f83bc08908293acc6e898e4ee59a351e437da01d53
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:10:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abate de Animais
 - Aproximação das Legislações
-- Doença Animal
+- ASAE
 - Contra-ordenação
-- Direção Geral de Veterinária
 - Controlo Sanitário
+- Direção Geral de Veterinária
+- Doença Animal
 - Exploração Pecuária
 - Fiscalização
 - Gado Suíno
 - Indemnização
-- Abate de Animais
-- ASAE
 - Laboratório Nacional de Investigação Veterinária
 - Pecuária
 - Veterinário
@@ -100,16 +100,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
+- type: cites
+  target: pt:dre:456785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:131/2008
+  label: "Rectifica o Decreto-Lei n.º 131/2008, de 21 de Julho, DR.IS [139]\0\0"
+  source: null
+  date: '2008-07-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:10:26Z'
   warnings: []
   errors: []
 ---
@@ -122,12 +135,12 @@ No quadro do anexo i, onde se lê:
 
 ## ANEXO I — Lista das doenças de notificação obrigatória
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/18200/0677106771.pdf))](https://files.diariodarepublica.pt/1s/2008/09/18200/0677106771.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/18200/0677106771.pdf)
 
 deve ler-se:
 
 ## ANEXO I — Lista das doenças de notificação obrigatória
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/18200/0677106771.pdf))](https://files.diariodarepublica.pt/1s/2008/09/18200/0677106771.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/18200/0677106771.pdf)
 
 Centro Jurídico, 15 de Setembro de 2008. - O Director-Adjunto, Pedro Delgado Alves.

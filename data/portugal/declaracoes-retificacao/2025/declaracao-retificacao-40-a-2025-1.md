@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/40-a/2025/10/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/40-a-2025-939048272
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-10T00:00:00Z'
+  retrieved_at: '2026-10-22T19:16:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 176512ed89ded844780fdc9be69e4e81c359fbd796528919f82faabce1647767
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01eca8fe65b9fb0d8b766422570a71029812caec1fe3d054aaf8b693753e2348
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:16:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Braga
-- Propriedade do Estado
-- Estamo-participações Imobiliárias
 - BENS Imóveis do Estado
+- Braga
+- Estamo-participações Imobiliárias
 - Museu
 - Museu dos Biscainhos
 - Permuta de Imóveis
+- Propriedade do Estado
 - Propriedade Privada
 relationships:
 - type: cites
@@ -92,16 +92,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/117/2025/08/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/117/2025/08/11/p/dre
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928332654:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:resolucao-conselho-ministros:117/2025
+  label: Retifica a alínea e) do n.º 1 e os n.ºs 3 e 4 da Resolução do Conselho de Ministros n.º 117/2025, de 11 de agosto,
+    Diário da República n.º 153/2025, Série I
+  source: null
+  date: '2025-08-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:16:15Z'
   warnings: []
   errors: []
 ---
@@ -120,11 +146,11 @@ deve ler-se:
 
 2 - No n.º 3, onde se lê:
 
-«3 - Determinar que o diferencial resultante da permuta, no valor de € 1 072 962,00, a pagar pelo Estado Português, será concretizado através do produto da alienação, em parte ou na totalidade, do imóvel da propriedade do Estado, denominado ‘Quinta da Arcela’, sito em Lamações, inscrito nas matrizes prediais rústicas sob os artigos 3765, 3763 e 3786, da União de Freguesias de Nogueira, Fraião e Lamações e descrito na 1.ª Conservatória do Registo Predial de Braga sob os n.<sup>os</sup>871, 982, 983 e 987 da União de Freguesias de Nogueira, Fraião e Lamações, assim que se encontre regularizada a situação patrimonial do imóvel.»
+«3 - Determinar que o diferencial resultante da permuta, no valor de € 1 072 962,00, a pagar pelo Estado Português, será concretizado através do produto da alienação, em parte ou na totalidade, do imóvel da propriedade do Estado, denominado ‘Quinta da Arcela’, sito em Lamações, inscrito nas matrizes prediais rústicas sob os artigos 3765, 3763 e 3786, da União de Freguesias de Nogueira, Fraião e Lamações e descrito na 1.ª Conservatória do Registo Predial de Braga sob os n.os871, 982, 983 e 987 da União de Freguesias de Nogueira, Fraião e Lamações, assim que se encontre regularizada a situação patrimonial do imóvel.»
 
 deve ler-se:
 
-«3 - Determinar que o diferencial resultante da permuta, no valor de € 1 074 962,00, a pagar pelo Estado Português, será concretizado através do produto da alienação, em parte ou na totalidade, do imóvel da propriedade do Estado, denominado ‘Quinta da Arcela’, sito em Lamaçães, inscrito nas matrizes prediais rústicas sob os artigos 3765, 3763 e 3786, da União de Freguesias de Nogueira, Fraião e Lamaçães e descrito na 1.ª Conservatória do Registo Predial de Braga sob os n.<sup>os</sup>871, 982, 983 e 987 da União de Freguesias de Nogueira, Fraião e Lamaçães, assim que se encontre regularizada a situação patrimonial do imóvel.»
+«3 - Determinar que o diferencial resultante da permuta, no valor de € 1 074 962,00, a pagar pelo Estado Português, será concretizado através do produto da alienação, em parte ou na totalidade, do imóvel da propriedade do Estado, denominado ‘Quinta da Arcela’, sito em Lamaçães, inscrito nas matrizes prediais rústicas sob os artigos 3765, 3763 e 3786, da União de Freguesias de Nogueira, Fraião e Lamaçães e descrito na 1.ª Conservatória do Registo Predial de Braga sob os n.os871, 982, 983 e 987 da União de Freguesias de Nogueira, Fraião e Lamaçães, assim que se encontre regularizada a situação patrimonial do imóvel.»
 
 3 - No n.º 4, onde se lê:
 
@@ -135,3 +161,5 @@ deve ler-se:
 «4 - Estabelecer que, em alternativa ao previsto no número anterior, caso não seja possível proceder, em tempo, à regularização do imóvel ‘Quinta da Arcela’, os encargos, no valor remanescente de € 1 074 962,00, são suportados por verba inscrita ou a inscrever no capítulo 60 - ‘Despesas excecionais’, gerido pela Entidade do Tesouro e Finanças, a transferir para a ESTAMO, Participações Imobiliárias SA (ESTAMO, SA).»
 
 Secretaria-Geral do Governo, 9 de outubro de 2025. - A Secretária-Geral Adjunta, Mafalda Lopes dos Santos.
+
+119640721

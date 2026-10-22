@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/01800/0020900217.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/877/2024/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/877-2023-838972842
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-25T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e4baa23020b9d4d5e1787c28a3508c7c7fe54cf83d2f309d0ed25b78be663b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9cdf12904bcc83dd22dd2ce84aa1160185c795517ee4165285511b29bdf75881
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -106,16 +106,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/11/2015/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/11/2015/08/28/p/dre
+- type: cites
+  target: pt:dre:107720430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70133803:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:38Z'
   warnings: []
   errors: []
 ---
@@ -269,3 +313,5 @@ O que é constitucionalmente problemático é que essa medida tenha aplicação 
 É por essa razão que partilho do dispositivo do acórdão (e de vários aspetos da sua fundamentação, muito embora não de todos) quanto à violação do princípio da igualdade, nos termos do artigo 13.º da CRP.
 
 6 - De resto, seria relevante o confronto da norma objeto com outros parâmetros constitucionais, designadamente com o direito à tutela jurisdicional efetiva (artigo 20.º, nomeadamente n.os 1 e 4 da CRP), no sentido de apurar se, à luz do disposto no artigo 18.º, n.º 3 da Constituição, a compressão de tal direito dos devedores da CGD encontraria justificação constitucional aceitável, face aos fins subjacentes a este regime. - Rui Guerra da Fonseca.
+
+117277799

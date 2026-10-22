@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/145/2026/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2026-1148792657
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-17T00:00:00Z'
+  retrieved_at: '2026-10-22T18:46:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bee3fd575985b4042b654b2b1ae1d35c80fc148ef089fe39b555042f9a503672
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd83aef68e03282c79a3c464b3438122b8158f32ab985a5df4de96a4b0471bf7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:46:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Apoio Pedagógico
+- Conselho Nacional de Educação
+- Educação dos Adultos
+- Educação Pré-escolar
+- Ensino Básico
+- Ensino Superior
+- Ensino Superior Politécnico
+- Estabelecimento de Ensino
 - Formação Profissional
+- Gestão de Recursos Humanos
+- Gestão Escolar
 - Investigação Científica e Tecnológica
 - Pessoal Dirigente
 - Plano de Estudos
-- Regulamentação de Atos Legislativos
-- Ensino Superior Politécnico
-- Gestão Escolar
-- Educação dos Adultos
-- Conselho Nacional de Educação
-- Universidade
 - Política de Educação
-- Estabelecimento de Ensino
-- Ensino Básico
-- Ensino Superior
-- Gestão de Recursos Humanos
-- Sistema Educativo
-- Educação Pré-escolar
 - Porto
 - Programa de Modernização e Valorização do Ensino Politécnico
+- Regulamentação de Atos Legislativos
+- Sistema Educativo
+- Universidade
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/200/2006/10/25/p/dre
@@ -102,16 +102,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
+- type: cites
+  target: pt:dre:107094720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472089:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
   article_count: 21
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:46:55Z'
   warnings: []
   errors: []
 ---
@@ -138,7 +166,7 @@ De acordo com o previsto no artigo 31.º da [Lei n.º 62/2007](https://diariodar
 
 Considerando que a [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de outubro, que estabelece a Lei de Bases do Sistema Educativo, prevê expressamente, no n.º 3 do seu artigo 17.º, a possibilidade de as universidades integrarem escolas superiores do ensino politécnico, a Escola Superior de Saúde, a Escola Superior de Tecnologia e Gestão e a Escola Superior de Hotelaria e Turismo, que atualmente constituem unidades orgânicas do IPP, manterão a sua natureza politécnica no âmbito da UTP, nos termos previstos no n.º 6 do artigo 13.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro. Nos mesmos termos, será criada, na estrutura da UTP, a Escola Técnica Superior Profissional como unidade orgânica que reveste natureza politécnica para todos os demais efeitos legais, incluindo o estatuto da carreira docente.
 
-Desta forma, o presente decreto-lei procede à criação da UTP, que sucede ao IPP, no quadro estabelecido pela [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de outubro, tendo por habilitação legal as disposições conjugadas do n.º 6 do artigo 13.º, do n.º 1 do artigo 31.º e dos n.<sup>os</sup>1 e 3 do artigo 55.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, e à luz do objetivo consagrado no Programa do XXV Governo Constitucional de ter sistemas de ensino superior e científico e tecnológico que respondam às necessidades de formação da economia e que estabeleçam relações próximas com as empresas que promovam a difusão do conhecimento e a inovação, concretizando uma decisão estratégica do Governo orientada para o fortalecimento do sistema científico e tecnológico nacional, para o reforço da coesão territorial e para a consolidação de um ensino superior público mais diversificado, competitivo e preparado para os desafios do futuro.
+Desta forma, o presente decreto-lei procede à criação da UTP, que sucede ao IPP, no quadro estabelecido pela [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de outubro, tendo por habilitação legal as disposições conjugadas do n.º 6 do artigo 13.º, do n.º 1 do artigo 31.º e dos n.os1 e 3 do artigo 55.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, e à luz do objetivo consagrado no Programa do XXV Governo Constitucional de ter sistemas de ensino superior e científico e tecnológico que respondam às necessidades de formação da economia e que estabeleçam relações próximas com as empresas que promovam a difusão do conhecimento e a inovação, concretizando uma decisão estratégica do Governo orientada para o fortalecimento do sistema científico e tecnológico nacional, para o reforço da coesão territorial e para a consolidação de um ensino superior público mais diversificado, competitivo e preparado para os desafios do futuro.
 
 De acordo com os pareceres da Direção-Geral do Ensino Superior e da Agência de Avaliação e Acreditação do Ensino Superior, encontram-se reunidas as condições para a criação da UTP, que sucede ao IPP.
 
@@ -148,7 +176,7 @@ Foram ouvidos, ainda, o Conselho de Reitores das Universidades Portuguesas, o Co
 
 Assim:
 
-Nos termos do n.º 1 do artigo 31.º e dos n.<sup>os</sup>1 e 3 do artigo 55.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, e da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Nos termos do n.º 1 do artigo 31.º e dos n.os1 e 3 do artigo 55.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, e da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
 
 ### CAPÍTULO I — DISPOSIÇÕES GERAIS
 
@@ -220,7 +248,7 @@ c) O conselho de gestão.
 
 3 - A transição prevista no número anterior depende da verificação dos requisitos legalmente exigidos para o ingresso na carreira do pessoal docente universitário, sendo efetuada para a categoria equivalente à de origem, nos termos da tabela constante do anexo i ao presente decreto-lei e do qual faz parte integrante, e para o mesmo índice remuneratório ou, caso este não exista, para o índice imediatamente seguinte, não relevando na carreira docente universitária os pontos e as menções obtidos em sede de avaliação do desempenho na carreira docente politécnica.
 
-4 - O docente integrado na carreira do pessoal docente do ensino superior politécnico que não reúna os requisitos para a transição a que se referem os n.<sup>os</sup>2 e 3, designadamente por não ser titular do grau de doutor, permanece na carreira docente politécnica, na unidade orgânica de ensino e investigação da UTP que suceda àquela a que estava afeto no IPP, podendo o reitor determinar, nos casos e nos termos previstos no artigo 126.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, e ouvido o docente, a afetação deste a uma unidade orgânica de ensino e investigação da UTP que revista natureza politécnica.
+4 - O docente integrado na carreira do pessoal docente do ensino superior politécnico que não reúna os requisitos para a transição a que se referem os n.os2 e 3, designadamente por não ser titular do grau de doutor, permanece na carreira docente politécnica, na unidade orgânica de ensino e investigação da UTP que suceda àquela a que estava afeto no IPP, podendo o reitor determinar, nos casos e nos termos previstos no artigo 126.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, e ouvido o docente, a afetação deste a uma unidade orgânica de ensino e investigação da UTP que revista natureza politécnica.
 
 5 - Para o efeito do disposto na parte final do número anterior, a emissão do parecer prévio previsto no n.º 4 do artigo 126.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, compete, durante o regime de instalação da UTP, à comissão instaladora desta Universidade.
 
@@ -292,23 +320,23 @@ As referências constantes de outros diplomas legais, de diplomas regulamentares
 
 1 - O presente decreto-lei entra em vigor 15 dias após a sua publicação.
 
-2 - O presente decreto-lei produz efeitos na data em que tem lugar o início do regime de instalação da Universidade Técnica do Porto, com exceção do previsto nos n.<sup>os</sup>3 a 5 do artigo 8.º, que produz efeitos na data da entrada em vigor do presente decreto-lei.
+2 - O presente decreto-lei produz efeitos na data em que tem lugar o início do regime de instalação da Universidade Técnica do Porto, com exceção do previsto nos n.os3 a 5 do artigo 8.º, que produz efeitos na data da entrada em vigor do presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros de 21 de maio de 2026. - Paulo Artur dos Santos de Castro de Campos Rangel - Joaquim Miranda Sarmento - Fernando Alexandre.
 
-**Promulgado em 7 de julho de 2026.**
+Promulgado em 7 de julho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 9 de julho de 2026.**
+Referendado em 9 de julho de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO I — (a que se refere o n.º 3 do artigo 10.º)
 
-| Correspondência de categorias no âmbito da transição para a carreira docente universitária | Correspondência de categorias no âmbito da transição para a carreira docente universitária |
+| Correspondência de categorias no âmbito da transição para a carreira docente universitária |  |
 | --- | --- |
 | Categoria da carreira do pessoal docente do ensino superior politécnico | Categoria da carreira do pessoal docente universitário |
 | Professor coordenador principal | Professor catedrático |
@@ -317,7 +345,7 @@ Visto e aprovado em Conselho de Ministros de 21 de maio de 2026. - Paulo Artur d
 | Professor adjunto com agregação | Professor auxiliar com agregação |
 | Professor adjunto sem agregação | Professor auxiliar sem agregação |
 
-## ANEXO II — (a que se referem os n.<sup>os</sup>2 e 5 do artigo 14.º)
+## ANEXO II — (a que se referem os n.os2 e 5 do artigo 14.º)
 
 O património imobiliário próprio do Instituto Politécnico do Porto é constituído por:
 
@@ -349,33 +377,33 @@ m) Prédio urbano sito na Rua da Alegria, n.º 343-B, Bonfim, 4000-040 Porto, in
 
 n) Prédio urbano sito na Rua da Alegria, n.º 343-E, Bonfim, 4000-040 Porto, inscrito na matriz sob o artigo 8418 da freguesia do Bonfim e descrito na Conservatória do Registo Predial do Porto sob o n.º 3393 da freguesia do Bonfim, concelho do Porto;
 
-o) Prédio urbano sito na Rua da Alegria, n.<sup>os</sup>339, 341 e 341-A, Bonfim, Porto, inscrito na matriz sob o artigo 12395-P da freguesia do Bonfim e descrito na Conservatória do Registo Predial do Porto sob o n.º 2517 da freguesia do Bonfim, concelho do Porto;
+o) Prédio urbano sito na Rua da Alegria, n.os339, 341 e 341-A, Bonfim, Porto, inscrito na matriz sob o artigo 12395-P da freguesia do Bonfim e descrito na Conservatória do Registo Predial do Porto sob o n.º 2517 da freguesia do Bonfim, concelho do Porto;
 
 p) Prédio urbano sito na Rua de D. João IV, n.º 874, 4000-008 Porto, inscrito na matriz sob o artigo 2983 da freguesia do Bonfim e descrito na Conservatória do Registo Predial do Porto sob o n.º 4586 da freguesia do Bonfim, concelho do Porto;
 
 q) Prédio urbano sito na Rua de D. João IV, n.º 874, 4000-008 Porto, inscrito na matriz sob o artigo 12394 da freguesia do Bonfim e descrito na Conservatória do Registo Predial do Porto sob o n.º 2338 da freguesia do Bonfim, concelho do Porto;
 
-r) Prédio urbano sito na Rua de D. João IV, n.<sup>os</sup>876 a 880, 4000-008 Porto, inscrito na matriz sob o artigo 2984 da freguesia do Bonfim e descrito na Conservatória do Registo Predial do Porto sob o n.º 4583 da freguesia do Bonfim, concelho do Porto;
+r) Prédio urbano sito na Rua de D. João IV, n.os876 a 880, 4000-008 Porto, inscrito na matriz sob o artigo 2984 da freguesia do Bonfim e descrito na Conservatória do Registo Predial do Porto sob o n.º 4583 da freguesia do Bonfim, concelho do Porto;
 
-s) Prédio urbano sito na Rua de D. João IV, n.<sup>os</sup>882 a 888, 4000-008 Porto, inscrito na matriz sob o artigo 2985 da freguesia do Bonfim e descrito na Conservatória do Registo Predial do Porto sob o n.º 4585 da freguesia do Bonfim, concelho do Porto;
+s) Prédio urbano sito na Rua de D. João IV, n.os882 a 888, 4000-008 Porto, inscrito na matriz sob o artigo 2985 da freguesia do Bonfim e descrito na Conservatória do Registo Predial do Porto sob o n.º 4585 da freguesia do Bonfim, concelho do Porto;
 
-t) Prédio urbano sito na Rua do Breiner, n.<sup>os</sup>164-170-166-168-170, Porto, inscrito na matriz sob o artigo 11521 da União das Freguesias de Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória e descrito na Conservatória do Registo Predial do Porto sob o n.º 1132 da freguesia de Cedofeita, concelho do Porto;
+t) Prédio urbano sito na Rua do Breiner, n.os164-170-166-168-170, Porto, inscrito na matriz sob o artigo 11521 da União das Freguesias de Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória e descrito na Conservatória do Registo Predial do Porto sob o n.º 1132 da freguesia de Cedofeita, concelho do Porto;
 
-u) Fração autónoma designada pelas letras «CM» do prédio urbano em regime de propriedade horizontal sito na Rua da Alegria n.<sup>os</sup>354 a 362-A, 4000-008 Porto, com inscrição na matriz sob o artigo 10630-CM da freguesia do Bonfim e descrição na Conservatória do Registo Predial do Porto sob o n.º 2373-CM da freguesia do Bonfim, concelho do Porto;
+u) Fração autónoma designada pelas letras «CM» do prédio urbano em regime de propriedade horizontal sito na Rua da Alegria n.os354 a 362-A, 4000-008 Porto, com inscrição na matriz sob o artigo 10630-CM da freguesia do Bonfim e descrição na Conservatória do Registo Predial do Porto sob o n.º 2373-CM da freguesia do Bonfim, concelho do Porto;
 
 v) Prédio urbano sito na Rua do Coronel Almeida Valente, n.º 330, Paranhos, 4200-030 Porto, inscrito na matriz sob o artigo 2665 da freguesia de Paranhos e descrito na Conservatória do Registo Predial do Porto sob o n.º 7733 da freguesia de Paranhos, concelho do Porto;
 
-w) Prédio urbano sito na Rua da Azenha, n.<sup>os</sup>243 e 247, Paranhos, Porto, inscrito na matriz sob o artigo 3937 da freguesia de Paranhos e descrito na Conservatória do Registo Predial do Porto sob o n.º 1917 da freguesia de Paranhos, concelho do Porto;
+w) Prédio urbano sito na Rua da Azenha, n.os243 e 247, Paranhos, Porto, inscrito na matriz sob o artigo 3937 da freguesia de Paranhos e descrito na Conservatória do Registo Predial do Porto sob o n.º 1917 da freguesia de Paranhos, concelho do Porto;
 
 x) Prédio urbano sito na Rua da Azenha, Paranhos, 4050-221 Porto, inscrito na matriz sob o artigo 12248 da freguesia de Paranhos e descrito na Conservatória do Registo Predial do Porto sob o n.º 1916 da freguesia de Paranhos, concelho do Porto;
 
-y) Prédio urbano sito na Travessa da Bainharia, n.<sup>os</sup>12 a 16, Sé, Porto, inscrito na matriz sob o artigo 1368 da União das Freguesias de Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória e descrito na Conservatória do Registo Predial do Porto sob o n.º 1323 da freguesia da Sé, concelho do Porto;
+y) Prédio urbano sito na Travessa da Bainharia, n.os12 a 16, Sé, Porto, inscrito na matriz sob o artigo 1368 da União das Freguesias de Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória e descrito na Conservatória do Registo Predial do Porto sob o n.º 1323 da freguesia da Sé, concelho do Porto;
 
-z) Prédio urbano sito na Rua de Coelho Neto, n.<sup>os</sup>78 e 78-B, 4000-008 Porto, inscrito na matriz sob o artigo 2689 da freguesia do Bonfim e descrito na Conservatória do Registo Predial do Porto sob o n.º 5578 da freguesia do Bonfim, concelho do Porto;
+z) Prédio urbano sito na Rua de Coelho Neto, n.os78 e 78-B, 4000-008 Porto, inscrito na matriz sob o artigo 2689 da freguesia do Bonfim e descrito na Conservatória do Registo Predial do Porto sob o n.º 5578 da freguesia do Bonfim, concelho do Porto;
 
 aa) Prédio urbano sito na Avenida de Rodrigues de Freitas, n.º 14, 4000-008 Porto, inscrito na matriz sob o artigo 1290 da freguesia do Bonfim e descrito na Conservatória do Registo Predial do Porto sob o n.º 5221 da freguesia do Bonfim, concelho do Porto;
 
-bb) Fração autónoma designada pela letra «B» do prédio urbano em regime de propriedade horizontal com entrada pela Rua do Lidador, n.<sup>os</sup>123, 131 e 139, e pela Praça José Régio, n.<sup>os</sup>53, 61, 67, 81 e 85, 4480-690 Vila do Conde, com inscrição na matriz sob o artigo 9111-B da freguesia de Vila do Conde e descrição na Conservatória do Registo Predial de Vila do Conde sob o n.º 3937-B da freguesia de Vila do Conde, concelho de Vila do Conde;
+bb) Fração autónoma designada pela letra «B» do prédio urbano em regime de propriedade horizontal com entrada pela Rua do Lidador, n.os123, 131 e 139, e pela Praça José Régio, n.os53, 61, 67, 81 e 85, 4480-690 Vila do Conde, com inscrição na matriz sob o artigo 9111-B da freguesia de Vila do Conde e descrição na Conservatória do Registo Predial de Vila do Conde sob o n.º 3937-B da freguesia de Vila do Conde, concelho de Vila do Conde;
 
 cc) Fração autónoma designada pela letra «E» do prédio urbano em regime de propriedade horizontal com entrada pela Praça de José Régio, n.º 67, Vila do Conde, com inscrição na matriz sob o artigo 9111-E da freguesia de Vila do Conde e descrição na Conservatória do Registo Predial de Vila do Conde sob o n.º 3937-E da freguesia de Vila do Conde, concelho de Vila do Conde;
 
@@ -397,7 +425,7 @@ e) Prédio urbano sito na Rua de Alfredo Allen, n.º 491, Asprela, 4200-072 Port
 
 f) Prédio urbano sito na Rua de Alfredo Allen, n.º 535, Asprela, 4200-072 Porto, inscrito na matriz sob o artigo 13909 da freguesia de Paranhos e descrito na Conservatória do Registo Predial do Porto sob o n.º 5695 da freguesia de Paranhos, concelho do Porto;
 
-g) Prédio urbano sito na Rua do Dr. Roberto Frias, n.º 712, 4200-465 Porto, inscrito na matriz sob o artigo 14674 da freguesia de Paranhos, o qual foi implantado nos terrenos dos prédios descritos na Conservatória do Registo Predial do Porto sob os n.<sup>os</sup>2655, 2697, 2981 e 7503 da freguesia de Paranhos, concelho do Porto;
+g) Prédio urbano sito na Rua do Dr. Roberto Frias, n.º 712, 4200-465 Porto, inscrito na matriz sob o artigo 14674 da freguesia de Paranhos, o qual foi implantado nos terrenos dos prédios descritos na Conservatória do Registo Predial do Porto sob os n.os2655, 2697, 2981 e 7503 da freguesia de Paranhos, concelho do Porto;
 
 h) Prédio urbano sito na Rua do Dr. António Bernardino de Almeida e na Rua de Dionísio dos Santos Silva, 4200-072 Porto, inscrito na matriz sob o artigo 14134 da freguesia de Paranhos e descrito na Conservatória do Registo Predial do Porto sob o n.º 10575 da freguesia de Paranhos, concelho do Porto;
 
@@ -406,3 +434,7 @@ i) Prédio urbano sito na Rua do Dr. António Bernardino de Almeida, 4200-001 Po
 j) Prédio urbano sito no Lugar do Ribeiro ou Bouça, 4200-001 Porto, inscrito na matriz sob o artigo 12453 da freguesia de Paranhos, concelho do Porto;
 
 k) Prédio urbano sito no Lugar do Bouço, 4050-221 Porto, inscrito na matriz sob o artigo 12647 da freguesia de Paranhos, concelho do Porto.
+
+119949043
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:28px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:top; } .Tbl8 { min-height:18px; }

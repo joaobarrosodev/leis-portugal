@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/08/15200/0000900010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/162/2026/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/162-2026-1154789325
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-07T00:00:00Z'
+  retrieved_at: '2026-10-22T18:49:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc5af4498081272856af86467481110987bdaf8829da0c42e3ae66b3548d74c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a24b6d3fae71217e0affd6d14490ad49963bef1fa29629926f819bf80fda05d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:49:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão Interministerial
-- Discriminação
-- Luta contra a Discriminação
-- Discriminação Racial
 - Comissão para a Cidadania e a Igualdade de Género
+- Discriminação
+- Discriminação Racial
+- Luta contra a Discriminação
 - Plano Nacional de Combate ao Racismo e à Discriminação 2021-2025-Portugal contra o Racismo
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:101/2021
+  label: Altera, com efeitos a 1 de janeiro de 2026, nos termos do n.º 2 do presente diploma, os n.os 4, 6 e 7 da Resolução
+    do Conselho de Ministros n.º 101/2021, de 28 de julho, Diário da República n.º 145/2021, Série I, e determina que esta
+    deve ser interpretado em conformidade com a orgânica do XXV Governo Constitucional e que o PNCRD 2021-2025 vigora até
+    30 de junho de 2027
+  source: null
+  date: '2012-07-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/41/2023/06/02/p/dre
   label: null
@@ -85,16 +93,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/101/2021/07/28/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/101/2021/07/28/p/dre
+- type: cites
+  target: pt:dre:168475294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213881448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836604892:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:49:36Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +137,7 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Minis
 
 2 - Determinar que as entidades públicas responsáveis pela execução das medidas previstas no PNCRD 2021-2025 devem assegurar a continuidade da sua implementação, até à entrada em vigor do novo Plano Nacional, devendo as ações em curso manter-se integradas nos respetivos planos de atividades, instrumentos de planeamento estratégico e orçamentos, nos termos legalmente aplicáveis.
 
-3 - Alterar os n.<sup>os</sup>4, 6 e 7 da [Resolução do Conselho de Ministros n.º 101/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-2021-168475294), de 28 de julho, que passam a ter a seguinte redação:
+3 - Alterar os n.os4, 6 e 7 da [Resolução do Conselho de Ministros n.º 101/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-2021-168475294), de 28 de julho, que passam a ter a seguinte redação:
 
 «4 - Criar uma comissão interministerial de alto nível (CIAN) responsável por analisar, acompanhar e avaliar a execução do PNCRD 2021-2025, a qual é presidida pelo membro do Governo responsável pela área da igualdade e integra os membros do Governo responsáveis pelas áreas das migrações, administração interna, justiça, administração pública, educação, trabalho e habitação, sem prejuízo de os membros da CIAN poderem convidar a participar nas suas reuniões, quando tal se justifique, membros responsáveis por outras áreas governativas.
 
@@ -138,3 +158,5 @@ c) Sem prejuízo do disposto na alínea a), a elaboração do relatório final d
 6 - Determinar que a presente resolução produz efeitos a 1 de janeiro de 2026.
 
 Presidência do Conselho de Ministros, 23 de julho de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119949276

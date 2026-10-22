@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1963/12/30300/21572158.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45471-1963-680592
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-02-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:38:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5bafa8468e41f7d4d5a3a6f8d45974eff2ecc24a773cb2da0fe840a474f176a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42ba3e34ef0f23a46d1ddc657ec023330f09bc82851ac1b5c7c075542176adbd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:38:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Industrial
+- Fabrico Industrial
+- Indústria de Ourivesaria e Relojoaria
+- Joalharia e Ourivesaria
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:261929:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:155211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:433024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:597284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652964:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:261929:por
+  label: "Revogado pelo DEC LEI.75/74.28.02.1974.MECO, DG.IS [50-Supl] de 28.02.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-1974-261929
+  date: '1974-02-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:38:34Z'
   warnings: []
   errors: []
 ---
@@ -90,10 +120,10 @@ De acordo com a base I da [Lei n.º 2052](https://diariodarepublica.pt/dr/detalh
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Ao Regulamento do Exercício da Indústria de Ourivesaria, promulgado pelo [Decreto n.º 44776](https://diariodarepublica.pt/dr/detalhe/decreto/44776-1962-155211), de 6 de Dezembro de 1962, é acrescentado o seguinte:
+Artigo único. Ao Regulamento do Exercício da Indústria de Ourivesaria, promulgado pelo [Decreto n.º 44776](https://diariodarepublica.pt/dr/detalhe/decreto/44776-1962-155211), de 6 de Dezembro de 1962, é acrescentado o seguinte:
 
-###### Art. 18.º As disposições do presente regulamento não são aplicáveis à instalação e exercício da indústria de lapidagem de diamantes a que se referem os [Decreto-Lei n.º 41004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41004-1957-652964), de 15 de Fevereiro de 1957, e [Decreto-Lei n.º 42363](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42363-1959-433024), de 3 de Julho de 1959, e actualmente concedidos em regime de exclusivo à sociedade prevista no artigo 3.º do primeiro destes diplomas.
+Art. 18.º As disposições do presente regulamento não são aplicáveis à instalação e exercício da indústria de lapidagem de diamantes a que se referem os [Decreto-Lei n.º 41004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41004-1957-652964), de 15 de Fevereiro de 1957, e [Decreto-Lei n.º 42363](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42363-1959-433024), de 3 de Julho de 1959, e actualmente concedidos em regime de exclusivo à sociedade prevista no artigo 3.º do primeiro destes diplomas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Dezembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Luís Maria Teixeira Pinto.

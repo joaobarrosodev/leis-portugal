@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44157-1962-520186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-11-04T00:00:00Z'
+  retrieved_at: '2026-10-22T19:27:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51717eef0324e3a6862f298b7ad80250cf86f092665b664622b1f71e2c640cbe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6c0285a62e31a0fa61de4ed9476978cc45eff1f35a06fa2fb6113a68560d4b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:27:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação do Pessoal
+- Concurso
+- Estágio de Formação
+- Laboratório Nacional de Engenharia Civil
+- LNEC
+- Pessoal Técnico
+- Programa de Provas
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:215148:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:192834:por
+  label: "Aplicado aos concursos para obtenção do certificado de estágio o disposto no § 1º do art. 59º pelo DEC.44852.1963.01.15.MOP\
+    \ DG.IS [12]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/44852-1963-192834
+  date: '1963-01-15'
+- type: cites
+  target: pt:dre:173361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594715:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:215148:por
+  label: "Revogados os arts 13º a 99º pelo DEC.49354.1969.11.04.MOP DG.IS [258]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/49354-1969-215148
+  date: '1969-11-04'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:27:50Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +126,9 @@ Tornando-se necessário fixar normas para a elaboração de informações de ser
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovado o Regulamento das Informações de Serviço e dos Concursos do Pessoal Técnico e do Pessoal de Traduções do Laboratório Nacional de Engenharia Civil, que faz parte integrante do presente decreto e vai assinado pelo Ministro das Obras Públicas.
+Artigo único. É aprovado o Regulamento das Informações de Serviço e dos Concursos do Pessoal Técnico e do Pessoal de Traduções do Laboratório Nacional de Engenharia Civil, que faz parte integrante do presente decreto e vai assinado pelo Ministro das Obras Públicas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 17 de Janeiro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Eduardo de Arantes e Oliveira.
 
@@ -101,19 +136,19 @@ Regulamentos das Informações de Serviço e dos Concursos do Pessoal Técnico e
 
 ### CAPÍTULO I — Informações de serviço
 
-###### Artigo 1.º Serão elaboradas, periòdicamente informações de serviço em relação aos indivíduos que exerçam funções de carácter permanente no Laboratório Nacional de Engenharia Civil, mesmo fora do quadro, e que tenham categoria inferior à de chefe de serviço.
+Artigo 1.º Serão elaboradas, periòdicamente informações de serviço em relação aos indivíduos que exerçam funções de carácter permanente no Laboratório Nacional de Engenharia Civil, mesmo fora do quadro, e que tenham categoria inferior à de chefe de serviço.
 
 § único. As informações de serviço constituem um elemento básico a ter em consideração sempre que seja necessário apreciar as qualidades profissionais de um servidor, em particular na atribuição de chefias, em concursos, na melhoria dos vencimentos e salários do pessoal fora do quadro, na atribuição de diuturnidades, no provimento definitivo no quadro, na rescisão de contratos, na suspensão de assalariamentos e em processos disciplinares.
 
-###### Art. 2.º As informações de serviço serão prestadas anualmente, até ao dia 15 de Fevereiro do ano seguinte àquele a que dizem respeito. No decurso dos estágios e dos dois primeiros anos de prestação de serviço em qualquer outra situação e ainda em casos considerados de natureza especial pelo director do Laboratório as informações de serviço serão prestadas semestralmente ou mesmo com frequência superior.
+Art. 2.º As informações de serviço serão prestadas anualmente, até ao dia 15 de Fevereiro do ano seguinte àquele a que dizem respeito. No decurso dos estágios e dos dois primeiros anos de prestação de serviço em qualquer outra situação e ainda em casos considerados de natureza especial pelo director do Laboratório as informações de serviço serão prestadas semestralmente ou mesmo com frequência superior.
 
 § único. A primeira informação de serviço a prestar após a entrada em vigor do presente diploma dirá respeito aos últimos dois anos de serviço ou ao período decorrido desde a admissão no Laboratório no caso de esta ter tido lugar há menos de dois anos.
 
-###### Art. 3.º Cada informação de serviço será prestada, pelo menos, por dois funcionários dos quais dependa o servidor informado, a designar pelo director do Laboratório.
+Art. 3.º Cada informação de serviço será prestada, pelo menos, por dois funcionários dos quais dependa o servidor informado, a designar pelo director do Laboratório.
 
 § único. A informação será dada na presença do director ou de seu delegado, com vista a assegurar a uniformidade do critério de julgamento.
 
-###### Art. 4.º As informações de serviço respeitantes ao pessoal técnico superior e correspondentes estagiários, ao secretário da direcção, aos chefes de repartição e de secção e ao médico, as quais deverão ser prestadas em impresso do modelo I anexo ao presente regulamento, apreciarão as seguintes qualidades profissionais:
+Art. 4.º As informações de serviço respeitantes ao pessoal técnico superior e correspondentes estagiários, ao secretário da direcção, aos chefes de repartição e de secção e ao médico, as quais deverão ser prestadas em impresso do modelo I anexo ao presente regulamento, apreciarão as seguintes qualidades profissionais:
 
 A. Qualidades científicas e técnicas:
 
@@ -145,7 +180,7 @@ C. Qualidades administrativas:
 
 12. Assiduidade, diligência e cumprimento de prazos.
 
-###### Art. 5.º As informações de serviço respeitantes ao pessoal técnico médio e correspondentes estagiários, ao mestre geral e aos mestres, aos desenhadores-chefes, aos tradutores técnicas e tradutores-correspondentes, ao tesoureiro e aos oficiais de secretaria, as quais deverão ser prestadas em impresso do modelo II anexo, apreciarão as seguintes qualidades profissionais:
+Art. 5.º As informações de serviço respeitantes ao pessoal técnico médio e correspondentes estagiários, ao mestre geral e aos mestres, aos desenhadores-chefes, aos tradutores técnicas e tradutores-correspondentes, ao tesoureiro e aos oficiais de secretaria, as quais deverão ser prestadas em impresso do modelo II anexo, apreciarão as seguintes qualidades profissionais:
 
 A. Qualidades técnicas:
 
@@ -169,7 +204,7 @@ C. Qualidades administrativas:
 
 8. Assiduidade, diligência e cumprimento de prazos.
 
-###### Art. 6.º As informações de serviço respeitantes aos ajudantes de experimentador, auxiliares de laboratório e desenhadores, e correspondentes estagiários, ao visitador e enfermeiro, aos dactilógrafos, aos fiéis de armazém e aos motoristas, as quais deverão ser prestadas em impresso do modelo III anexo, apreciarão as seguintes qualidades profissionais:
+Art. 6.º As informações de serviço respeitantes aos ajudantes de experimentador, auxiliares de laboratório e desenhadores, e correspondentes estagiários, ao visitador e enfermeiro, aos dactilógrafos, aos fiéis de armazém e aos motoristas, as quais deverão ser prestadas em impresso do modelo III anexo, apreciarão as seguintes qualidades profissionais:
 
 A. Qualidades técnicas:
 
@@ -189,7 +224,7 @@ C. Qualidades administrativas:
 
 6. Assiduidade, diligência e cumprimento de prazos.
 
-###### Art. 7.º As informações de serviço respeitantes aos contínuos, guarda-portões, guardas de noite, telefonistas e serventes, as quais deverão ser prestadas em impresso do modelo IV anexo, apreciarão as seguintes qualidades profissionais:
+Art. 7.º As informações de serviço respeitantes aos contínuos, guarda-portões, guardas de noite, telefonistas e serventes, as quais deverão ser prestadas em impresso do modelo IV anexo, apreciarão as seguintes qualidades profissionais:
 
 A. Qualidades técnicas:
 
@@ -207,9 +242,9 @@ C. Qualidades administrativas:
 
 5. Assiduidade e diligência.
 
-###### Art. 8.º Para o pessoal de categorias não incluídas no quadro o Ministro das Obras Públicas determinará, mediante proposta do director do Laboratório, quais os modelos de informação de serviço que deverão ser adaptados de entre os quatro mencionados nos artigos anteriores.
+Art. 8.º Para o pessoal de categorias não incluídas no quadro o Ministro das Obras Públicas determinará, mediante proposta do director do Laboratório, quais os modelos de informação de serviço que deverão ser adaptados de entre os quatro mencionados nos artigos anteriores.
 
-###### Art. 9.º Cada qualidade considerada nas informações de serviço será apreciada atribuindo uma classificação de 0 a 20.
+Art. 9.º Cada qualidade considerada nas informações de serviço será apreciada atribuindo uma classificação de 0 a 20.
 
 § 1.º Na classificação não deve ser tida em consideração senão a natureza do serviço prestado no decurso do período a que diz respeito a informação de serviço.
 
@@ -217,19 +252,19 @@ C. Qualidades administrativas:
 
 § 3.º Em cada informação de serviço devem ser apreciadas todas as qualidades que nela figuram, excepto em casos de natureza muito especial, nos quais o director do Laboratório reconheça que tal não é possível.
 
-###### Art. 10.º A cada informação de serviço será atribuída uma classificação global, a qual consiste na média, arredondada às décimas, das classificações atribuídas às qualidades apreciadas.
+Art. 10.º A cada informação de serviço será atribuída uma classificação global, a qual consiste na média, arredondada às décimas, das classificações atribuídas às qualidades apreciadas.
 
 § único. Nos concursos em que haja provas documentais, as quais consistam na apreciação das qualidades indicadas nos artigos 4.º a 7.º do presente regulamento, a classificação global dessas provas é obtida conforme indicado no corpo do presente artigo para as informações de serviço.
 
-###### Art. 11.º As informações de serviço são estritamente confidenciais, excepto em relação às entidades do Laboratório que tenham de as apreciar.
+Art. 11.º As informações de serviço são estritamente confidenciais, excepto em relação às entidades do Laboratório que tenham de as apreciar.
 
-###### Art. 12.º As informações de serviço que revelem incompetência profissional ou incapacidade de adaptação ao serviço de um funcionário vitalício, com nítidos inconvenientes para o Laboratório, poderão dar origem a procedimento nos termos do artigo 23.º do [Decreto-Lei n.º 32659](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32659-1943-594715), de 9 de Fevereiro de 1943.
+Art. 12.º As informações de serviço que revelem incompetência profissional ou incapacidade de adaptação ao serviço de um funcionário vitalício, com nítidos inconvenientes para o Laboratório, poderão dar origem a procedimento nos termos do artigo 23.º do [Decreto-Lei n.º 32659](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32659-1943-594715), de 9 de Fevereiro de 1943.
 
 ### CAPÍTULO II — Concursos de admissão aos estágios
 
-###### Art. 13.º Os concursos para admissão de estagiários serão abertos por prazo não inferior a 30 dias e do respectivo anúncio constarão a duração do estágio, a preparação escolar exigida, o prazo de validade do concurso e, eventualmente, limitações sobre a admissão de candidatos do sexo feminino.
+Art. 13.º Os concursos para admissão de estagiários serão abertos por prazo não inferior a 30 dias e do respectivo anúncio constarão a duração do estágio, a preparação escolar exigida, o prazo de validade do concurso e, eventualmente, limitações sobre a admissão de candidatos do sexo feminino.
 
-###### Art. 14.º Cada candidato deverá apresentar dentro do prazo de abertura do concurso os seguintse documentos:
+Art. 14.º Cada candidato deverá apresentar dentro do prazo de abertura do concurso os seguintse documentos:
 
 a) Certidão de nascimento;
 
@@ -245,19 +280,19 @@ f) Quaisquer documentos que o candidato entenda deverem ser apreciados pelo júr
 
 § único. Os candidatos deverão ter bom comportamento moral e civil, possuir a robustez física necessária para o desempenho do cargo e não sofrer de tuberculose contagiosa ou evolutiva, o que comprovarão com documentos que lhes serão exigidos no caso de lhes vir a caber a nomeação.
 
-###### Art. 15.º Não poderão ser admitidos como estagiários os indivíduos com mais de 35 anos, excepto como estagiários para especialista, nem com menos de 16.
+Art. 15.º Não poderão ser admitidos como estagiários os indivíduos com mais de 35 anos, excepto como estagiários para especialista, nem com menos de 16.
 
-###### Art. 16.º Encerrado o concurso, o júri reunirá para verificação dos processos e das condições de admissibilidade dos candidatos e elaborará e fará publicar a lista provisória dos candidatos admitidos, estabelecendo o prazo julgado conveniente para reclamações e legalização dos processos incompletos.
+Art. 16.º Encerrado o concurso, o júri reunirá para verificação dos processos e das condições de admissibilidade dos candidatos e elaborará e fará publicar a lista provisória dos candidatos admitidos, estabelecendo o prazo julgado conveniente para reclamações e legalização dos processos incompletos.
 
 § 1.º Findo o prazo concedido e apreciadas as reclamações, se as houver, será publicada a lista definitiva dos candidatos admitidos a concurso ou a declaração de que se mantém a lista primitiva.
 
 § 2.º Nos concursos para admissão de estagiários para desenhador será publicado o calendário das provas práticas simultâneamente com a lista definitiva ou a declaração a que se refere o parágrafo anterior.
 
-###### Art. 17.º Na escolha dos candidatos a estagiário, a que se refere o § 1.º do artigo 23.º do [Decreto-Lei n.º 43825](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43825-1961-173361), de 27 de Julho de 1961, deverão ser especialmente consideradas as classificações escolares, as habilitações especiais, as qualidades reveladas em serviço anteriormente prestado no Laboratório e as informações colhidas pelos júris sobre os candidatos, em especial mediante entrevista pessoal, a qual sòmente será dispensada em casos excepcionais no respeitante aos candidatos considerados recrutáveis numa primeira apreciação.
+Art. 17.º Na escolha dos candidatos a estagiário, a que se refere o § 1.º do artigo 23.º do [Decreto-Lei n.º 43825](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43825-1961-173361), de 27 de Julho de 1961, deverão ser especialmente consideradas as classificações escolares, as habilitações especiais, as qualidades reveladas em serviço anteriormente prestado no Laboratório e as informações colhidas pelos júris sobre os candidatos, em especial mediante entrevista pessoal, a qual sòmente será dispensada em casos excepcionais no respeitante aos candidatos considerados recrutáveis numa primeira apreciação.
 
 § único. As deslocações dos candidatos serão custeadas pelo Laboratório, no regime estabelecido para as deslocações dos estagiários da categoria a que concorrem.
 
-###### Art. 18.º As provas práticas do concurso para admissão de estagiários para desenhador, as quais terão uma duração global não superior a dezoito horas, são as seguintes:
+Art. 18.º As provas práticas do concurso para admissão de estagiários para desenhador, as quais terão uma duração global não superior a dezoito horas, são as seguintes:
 
 Prova A - Prova de desenho a lápis.
 
@@ -269,9 +304,9 @@ Prova B - Prova de desenho a tinta.
 
 Para especialista
 
-###### Art. 19.º Os concursos para obtenção de certificado de estágio para especialista serão, em regra, abertos por prazo não inferior a 120 dias.
+Art. 19.º Os concursos para obtenção de certificado de estágio para especialista serão, em regra, abertos por prazo não inferior a 120 dias.
 
-###### Art. 20.º Cada candidato deverá apresentar dentro do prazo de abertura do concurso os seguintes elementos:
+Art. 20.º Cada candidato deverá apresentar dentro do prazo de abertura do concurso os seguintes elementos:
 
 a) Resenha, subscrita pelo candidato, da actividade desenvolvida no decorrer do estágio, com indicação, em especial, da preparação que considera ter alcançado e dos trabalhos e publicações da sua autoria ou co-autoria, devendo quanto a estes comprovar a parte que lhe coube na sua elaboração;
 
@@ -285,23 +320,23 @@ d) Quaisquer documentos que o candidato entenda deverem ser apreciados pelo júr
 
 § 2.º Não carecem de ser selados os documentos referidos nas alíneas a), b) e d) do corpo do presente artigo e no seu § 1.º
 
-###### Art. 21.º A tese original a que se refere a alínea b) do corpo do artigo anterior dirá respeito a um trabalho de investigação realizado pelo candidato, com vista a permitir o julgamento das suas aptidões para a investigação.
+Art. 21.º A tese original a que se refere a alínea b) do corpo do artigo anterior dirá respeito a um trabalho de investigação realizado pelo candidato, com vista a permitir o julgamento das suas aptidões para a investigação.
 
 § único. A tese poderá ser preparada, parcial ou totalmente, noutra instituição de investigação, nacional ou estrangeira.
 
-###### Art. 22.º O júri dos concursos de estágio para especialista será constituído pelo director do Laboratório, eventualmente pelo subdirector, que poderá substituir o director, e pelos chefes de serviço e investigadores para o efeito nomeados.
+Art. 22.º O júri dos concursos de estágio para especialista será constituído pelo director do Laboratório, eventualmente pelo subdirector, que poderá substituir o director, e pelos chefes de serviço e investigadores para o efeito nomeados.
 
 § único. Poderão ser agregados ao júri especialistas do quadro do laboratório que forem designados para intervir nas provas práticas do concurso, os quais só exercerão o seu julgamento em relação às provas práticas dos candidatos que arguirem.
 
-###### Art. 23.º Encerrado o concurso, o júri a que se refere o corpo do artigo anterior procederá conforme o disposto no corpo do artigo 16.º e seu § 1.º
+Art. 23.º Encerrado o concurso, o júri a que se refere o corpo do artigo anterior procederá conforme o disposto no corpo do artigo 16.º e seu § 1.º
 
 § único. O calendário das provas práticas, com indicação dos arguentes das provas públicas e da ordem de apresentação a estas dos diferentes candidatos, determinada por sorteio, será publicado simultâneamente com a lista definitiva dos candidatos admitidos ou a declaração de que se mantém a lista primitiva.
 
-###### Art. 24.º As provas documentais do concurso para obtenção do certificado de estágio para especialista consistem na apreciação das qualidades científicas e técnicas, pessoais e administrativas, a que se refere o artigo 4.º, reveladas no decorrer do estágio, segundo o critério de classificação indicado no corpo do artigo 9.º, com base nas informações de serviço do candidato e nos elementos referidos nas alíneas a) e d) do corpo do artigo 20.º
+Art. 24.º As provas documentais do concurso para obtenção do certificado de estágio para especialista consistem na apreciação das qualidades científicas e técnicas, pessoais e administrativas, a que se refere o artigo 4.º, reveladas no decorrer do estágio, segundo o critério de classificação indicado no corpo do artigo 9.º, com base nas informações de serviço do candidato e nos elementos referidos nas alíneas a) e d) do corpo do artigo 20.º
 
 § único. Serão reprovados os candidatos que obtiverem classificação inferior a 12 em duas das qualidades referidas no artigo 4.º pelos n.os 1, 2, 4, 5, 6, 7 e 8, ou uma classificação global das provas documentais inferior a 14.
 
-###### Art. 25.º As provas práticas do concurso de estágio para especialista, as quais terão lugar em dias diferentes para cada candidato, são as seguintes:
+Art. 25.º As provas práticas do concurso de estágio para especialista, as quais terão lugar em dias diferentes para cada candidato, são as seguintes:
 
 Prova A - Prova oral pública destinada à apreciação da cultura científica e técnica do candidato, no domínio de especialização em que decorreu o estágio, e dos trabalhos que realizou, por um ou dois arguentes, durante um período não superior a duas horas.
 
@@ -315,19 +350,19 @@ Prova C - Prova escrita de conhecimento de línguas, com duração não superior
 
 § 3.º Serão reprovados os candidatos que obtenham classificação inferior a 14 nas provas A ou B e a 12 na prova C ou uma classificação global das provas práticas inferior a 14.
 
-###### Art. 26.º A classificação final do concurso de estágio para especialista será a média, arredondada às décimas, das classificações globais obtidas nas provas documentais e nas provas práticas.
+Art. 26.º A classificação final do concurso de estágio para especialista será a média, arredondada às décimas, das classificações globais obtidas nas provas documentais e nas provas práticas.
 
 § único. Só serão publicadas as classificações finais dos candidatos aprovados, limitando-se o auto de classificação a indicar, quanto aos reprovados, se a reprovação foi determinada pelas provas documentais, pelas práticas ou por ambas.
 
-###### Art. 27.º A falta a uma prova prática do concurso sem motivo justificado determinará a exclusão do candidato. Havendo motivo justificado, poderá ser autorizado o adiamento da prova pelo prazo máximo de vinte dias.
+Art. 27.º A falta a uma prova prática do concurso sem motivo justificado determinará a exclusão do candidato. Havendo motivo justificado, poderá ser autorizado o adiamento da prova pelo prazo máximo de vinte dias.
 
 § único. Consideram-se motivos justificados a doença comprovada nos termos legais e os casos de força maior como tais reconhecidos pelo júri.
 
 Para experimentador e ajudante de experimentador
 
-###### Art. 28.º Os concursos para obtenção de certificado de estágio para experimentador e para ajudante de experimentador serão abertos, em regra, por prazo não inferior a 60 dias.
+Art. 28.º Os concursos para obtenção de certificado de estágio para experimentador e para ajudante de experimentador serão abertos, em regra, por prazo não inferior a 60 dias.
 
-###### Art. 29.º Cada candidato deverá apresentar dentro do prazo de abertura do concurso os seguintes elementos:
+Art. 29.º Cada candidato deverá apresentar dentro do prazo de abertura do concurso os seguintes elementos:
 
 a) Resenha, subscrita pelo candidato, da actividade desenvolvida desde a admissão ao estágio ou, para os candidatos que sejam ajudantes de experimentador ou auxiliares de laboratório, desde a nomeação para a categoria a que pertencem;
 
@@ -339,15 +374,15 @@ d) Quaisquer documentos que o candidato entenda deverem ser apreciados pelo júr
 
 § único. Não carecem de ser selados os documentos referidos nas alíneas a), b) e d) do corpo do presente artigo.
 
-###### Art. 30.º Encerrado o concurso, o júri procederá conforme o disposto no artigo 16.º e seu § 1.º
+Art. 30.º Encerrado o concurso, o júri procederá conforme o disposto no artigo 16.º e seu § 1.º
 
 § único. O calendário das provas práticas, com indicação da ordem de apresentação à prova pública, determinada por sorteio, será publicado simultâneamente com a lista definitiva dos candidatos admitidos a concurso ou a declaração de que se mantém a lista primitiva.
 
-###### Art. 31.º As provas documentais dos concursos de estágio para experimentador e para ajudante de experimentador consistem na apreciação das qualidades referidas, respectivamente, nos artigos 5.º e 6.º, segundo o critério de classificação indicado no corpo do artigo 9.º, reveladas desde a admissão ao estágio ou, para os candidatos que sejam ajudantes de experimentador ou auxiliares de laboratório, desde a nomeação para a categoria a que pertencem. A apreciação é feita com base nas informações de serviço do candidato e nos elementos referidos nas alíneas a) e d) do corpo do artigo 29.º
+Art. 31.º As provas documentais dos concursos de estágio para experimentador e para ajudante de experimentador consistem na apreciação das qualidades referidas, respectivamente, nos artigos 5.º e 6.º, segundo o critério de classificação indicado no corpo do artigo 9.º, reveladas desde a admissão ao estágio ou, para os candidatos que sejam ajudantes de experimentador ou auxiliares de laboratório, desde a nomeação para a categoria a que pertencem. A apreciação é feita com base nas informações de serviço do candidato e nos elementos referidos nas alíneas a) e d) do corpo do artigo 29.º
 
 § único. Serão reprovados os candidatos que obtiverem classificação inferior a 12 em duas das qualidades referidas nos artigos 5.º e 6.º pelos n.os 1, 2, 3 e 5 ou uma classificação global das provas documentais inferior a 12.
 
-###### Art. 32.º As provas práticas dos concursos, as quais terão lugar em dias diferentes para cada candidato, são as seguintes:
+Art. 32.º As provas práticas dos concursos, as quais terão lugar em dias diferentes para cada candidato, são as seguintes:
 
 Prova A - Prova oral pública destinada à apreciação dos conhecimentos técnicos do candidato e, nos concursos de estágio para experimentador, dos trabalhos que realizou no decurso do estágio ou desde a nomeação para ajudante de experimentador, durante um período não superior a 1 hora e 30 minutos.
 
@@ -359,15 +394,15 @@ Prova C - Prova escrita de conhecimento de línguas, consistindo na tradução d
 
 § 2.º Serão reprovados os candidatos que obtenham classificação inferior a 12 nas provas A ou B e a 10 na prova C ou uma classificação global das provas práticas inferior a 12.
 
-###### Art. 33.º A classificação final dos concursos de estágio para experimentador ou para ajudante de experimentador será obtida conforme indicado no artigo 26.º, observando-se o disposto no seu § único.
+Art. 33.º A classificação final dos concursos de estágio para experimentador ou para ajudante de experimentador será obtida conforme indicado no artigo 26.º, observando-se o disposto no seu § único.
 
-###### Art. 34.º Considera-se aplicável o disposto no artigo 27.º e seu § único.
+Art. 34.º Considera-se aplicável o disposto no artigo 27.º e seu § único.
 
 Para desenhador e auxiliar de laboratório
 
-###### Art. 35.º Os concursos para obtenção de certificado de estágio para desenhador e para auxiliar de laboratório serão abertos, em regra, por prazo não inferior a 60 dias.
+Art. 35.º Os concursos para obtenção de certificado de estágio para desenhador e para auxiliar de laboratório serão abertos, em regra, por prazo não inferior a 60 dias.
 
-###### Art. 36.º Cada candidato deverá apresentar, dentro do prazo de abertura do concurso, os seguintes elementos:
+Art. 36.º Cada candidato deverá apresentar, dentro do prazo de abertura do concurso, os seguintes elementos:
 
 a) Resenha, subscrita pelo candidato, da actividade desenvolvida no decorrer do estágio;
 
@@ -377,15 +412,15 @@ c) Quaisquer documentos que o candidato entenda deverem ser apreciados pelo júr
 
 § único. Não carecem de ser selados os documentos referidos nas alíneas a) e c) do corpo do presente artigo.
 
-###### Art. 37.º Encerrado o concurso, o júri procederá conforme o disposto no artigo 16.º e seu § 1.º
+Art. 37.º Encerrado o concurso, o júri procederá conforme o disposto no artigo 16.º e seu § 1.º
 
 § único. O calendário das provas práticas será publicado simultâneamente com a lista definitiva dos candidatos admitidos ou a declaração de que se mantém a lista primitiva.
 
-###### Art. 38.º As provas documentais dos concursos de estágio para desenhador e para auxiliar de laboratório consistem na apreciação das qualidades referidas no artigo 6.º reveladas no decorrer do estágio, segundo o critério de classificação indicado no corpo do artigo 9.º, com base nas informações de serviço e nos elementos referidos nas alíneas a) e c) do corpo do artigo 36.º
+Art. 38.º As provas documentais dos concursos de estágio para desenhador e para auxiliar de laboratório consistem na apreciação das qualidades referidas no artigo 6.º reveladas no decorrer do estágio, segundo o critério de classificação indicado no corpo do artigo 9.º, com base nas informações de serviço e nos elementos referidos nas alíneas a) e c) do corpo do artigo 36.º
 
 § único. Serão reprovados os candidatos que obtiverem classificação inferior a 12 em duas das qualidades referidas no artigo 6.º pelos n.os 1, 2, 3 e 5 ou uma classificação global das provas documentais inferior a 12.
 
-###### Art. 39.º As provas práticas dos concursos, as quais terão lugar em dias diferentes para cada candidato, são as seguintes:
+Art. 39.º As provas práticas dos concursos, as quais terão lugar em dias diferentes para cada candidato, são as seguintes:
 
 Prova A - Prova escrita destinada a apreciação dos conhecimentos técnicos do candidato, durante um período não superior a 2 horas.
 
@@ -395,29 +430,29 @@ Prova B - Prova de desenho, com duração não superior a 18 horas, nos concurso
 
 § 2.º Serão reprovados os candidatos que obtenham uma classificação inferior a 12 numa das provas práticas.
 
-###### Art. 40.º A classificação final dos concursos de estágio para desenhador e para auxiliar de laboratório será obtida conforme indicado no artigo 26.º, observando-se o disposto no seu § único.
+Art. 40.º A classificação final dos concursos de estágio para desenhador e para auxiliar de laboratório será obtida conforme indicado no artigo 26.º, observando-se o disposto no seu § único.
 
-###### Art. 41.º Considera-se aplicável o disposto no artigo 27.º e seu § único.
+Art. 41.º Considera-se aplicável o disposto no artigo 27.º e seu § único.
 
 Disposição transitória
 
-###### Art. 42.º Para os candidatos a concursos para obtenção de certificado de estágio que à data da entrada em vigor do [Decreto-Lei n.º 43825](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43825-1961-173361), de 27 de Julho de 1961, já prestavam serviço no Laboratório como tirocinantes ou contratados, considera-se que os estágios decorreram desde a admissão ao serviço na situação de tirocinante ou equiparável.
+Art. 42.º Para os candidatos a concursos para obtenção de certificado de estágio que à data da entrada em vigor do [Decreto-Lei n.º 43825](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43825-1961-173361), de 27 de Julho de 1961, já prestavam serviço no Laboratório como tirocinantes ou contratados, considera-se que os estágios decorreram desde a admissão ao serviço na situação de tirocinante ou equiparável.
 
 ### CAPÍTULO IV — Concursos de admissão no quadro do pessoal de traduções e dos mestres
 
 De tradutores técnicos e tradutores-correspondentes
 
-###### Art. 43.º Os concursos para admissão de tradutores técnicos e tradutores-correspondentes serão abertos por prazo não inferior a 30 dias e do respectivo anúncio constará a preparação escolar exigida e o prazo de validade do concurso.
+Art. 43.º Os concursos para admissão de tradutores técnicos e tradutores-correspondentes serão abertos por prazo não inferior a 30 dias e do respectivo anúncio constará a preparação escolar exigida e o prazo de validade do concurso.
 
-###### Art. 44.º Poderão ser agregados professores de línguas ao júri do concurso, sendo a remuneração dos seus serviços fixada, para cada caso, pelo Ministro das Obras Públicas, de acordo com o Ministro das Finanças.
+Art. 44.º Poderão ser agregados professores de línguas ao júri do concurso, sendo a remuneração dos seus serviços fixada, para cada caso, pelo Ministro das Obras Públicas, de acordo com o Ministro das Finanças.
 
-###### Art. 45.º Cada candidato deverá apresentar, dentro do prazo de abertura do concurso, os elementos referidos nas alíneas a), c), d), e) e f) do corpo do artigo 14.º e ainda pública-forma de carta de curso ou certificado de habilitações escolares.
+Art. 45.º Cada candidato deverá apresentar, dentro do prazo de abertura do concurso, os elementos referidos nas alíneas a), c), d), e) e f) do corpo do artigo 14.º e ainda pública-forma de carta de curso ou certificado de habilitações escolares.
 
 § único. É aplicável o disposto no § único do artigo 14.º
 
-###### Art. 46.º Encerrado o concurso o júri procederá conforme o disposto no artigo 16.º e seu § 1.º e no § único do artigo 37.º
+Art. 46.º Encerrado o concurso o júri procederá conforme o disposto no artigo 16.º e seu § 1.º e no § único do artigo 37.º
 
-###### Art. 47.º As provas dos concursos, as quais terão lugar em dias diferentes para cada candidato, são as seguintes:
+Art. 47.º As provas dos concursos, as quais terão lugar em dias diferentes para cada candidato, são as seguintes:
 
 Prova A - Prova oral destinada à apreciação geral dos conhecimentos e qualidades do candidato, com duração não superior a 1 hora e 30 minutos no concurso para tradutor técnico e 1 hora no concurso para tradutor-correspondente.
 
@@ -431,13 +466,13 @@ Prova C - Prova escrita consistindo na retroversão e sumário de extensão limi
 
 § 3.º Só será publicada a ordenação das classificações dos candidatos.
 
-###### Art. 48.º Considera-se aplicável o disposto no artigo 27.º e seu § único.
+Art. 48.º Considera-se aplicável o disposto no artigo 27.º e seu § único.
 
 De mestres
 
-###### Art. 49.º Os concursos para admissão de mestres serão abertos por prazo não inferior a 30 dias e do respectivo anúncio constarão a preparação escolar exigida, o prazo de validade do concurso e, eventualmente, limitações sobre a admissão de candidatos do sexo feminino.
+Art. 49.º Os concursos para admissão de mestres serão abertos por prazo não inferior a 30 dias e do respectivo anúncio constarão a preparação escolar exigida, o prazo de validade do concurso e, eventualmente, limitações sobre a admissão de candidatos do sexo feminino.
 
-###### Art. 50.º Cada candidato deverá apresentar, dentro do prazo de abertura do concurso, os elementos referidos nas alíneas a) a f) do corpo do artigo 14.º e ainda os seguintes:
+Art. 50.º Cada candidato deverá apresentar, dentro do prazo de abertura do concurso, os elementos referidos nas alíneas a) a f) do corpo do artigo 14.º e ainda os seguintes:
 
 a) Resenha pormenorizada da sua actividade profissional, que permita ajuizar os méritos e a experiência do candidato, devidamente referenciada no tempo e em relação às entidades onde foi exercida;
 
@@ -445,11 +480,11 @@ b) Declaração passada por entidade idónea, com assinatura reconhecida, ou cer
 
 § único. É aplicável o disposto no § único do artigo 14.º
 
-###### Art. 51.º Não poderão ser admitidos como mestres indivíduos com menos de 30 anos.
+Art. 51.º Não poderão ser admitidos como mestres indivíduos com menos de 30 anos.
 
-###### Art. 52.º Encerrado o concurso o júri procederá conforme o disposto no artigo 16.º e seu § 1.º e no § único do artigo 37.º
+Art. 52.º Encerrado o concurso o júri procederá conforme o disposto no artigo 16.º e seu § 1.º e no § único do artigo 37.º
 
-###### Art. 53.º As provas do concurso, as quais terão lugar em dias diferentes para cada candidato, são as seguintes:
+Art. 53.º As provas do concurso, as quais terão lugar em dias diferentes para cada candidato, são as seguintes:
 
 Prova A - Prova escrita, destinada à apreciação dos conhecimentos teóricos e práticos do candidato necessários ao desempenho do lugar a prover, de duração não superior a 2 horas.
 
@@ -459,17 +494,17 @@ Prova B - Prova oficinal, de duração não superior a 24 horas, ou prova oral, 
 
 § 2.º Serão reprovados os candidatos que obtenham classificação inferior a 12 na prova A e a 16 na prova B.
 
-###### Art. 54.º Considera-se aplicável o disposto no artigo 27.º e seu § único.
+Art. 54.º Considera-se aplicável o disposto no artigo 27.º e seu § único.
 
 ### CAPÍTULO V — Concursos do pessoal técnico superior
 
 Para obtenção do grau de investigador
 
-###### Art. 55.º A preparação dos especialistas para apresentação a concurso para obtenção do grau de investigador carece de prévia aprovação por um júri constituído pelo director do Laboratório, pelo subdirector e pelos chefes de serviço, dada sobre requerimento do interessado donde conste indicação do tema escolhido para a tese referida no corpo do artigo 58.º O júri terá em consideração o interesse do tema, em face dos planos gerais de actividade da instituição, a possibilidade de ser assegurada a preparação da tese e as qualidades profissionais do requerente, o qual não será atendido quando o nível dessas qualidades se situar manifestamente abaixo do mínimo exigido nas provas documentais do concurso.
+Art. 55.º A preparação dos especialistas para apresentação a concurso para obtenção do grau de investigador carece de prévia aprovação por um júri constituído pelo director do Laboratório, pelo subdirector e pelos chefes de serviço, dada sobre requerimento do interessado donde conste indicação do tema escolhido para a tese referida no corpo do artigo 58.º O júri terá em consideração o interesse do tema, em face dos planos gerais de actividade da instituição, a possibilidade de ser assegurada a preparação da tese e as qualidades profissionais do requerente, o qual não será atendido quando o nível dessas qualidades se situar manifestamente abaixo do mínimo exigido nas provas documentais do concurso.
 
-###### Art. 56.º Os concursos para obtenção do grau de investigador serão, em regra, abertos por um prazo não inferior a 180 dias.
+Art. 56.º Os concursos para obtenção do grau de investigador serão, em regra, abertos por um prazo não inferior a 180 dias.
 
-###### Art. 57.º Cada candidato deverá apresentar dentro do prazo de abertura do concurso os seguintes elementos:
+Art. 57.º Cada candidato deverá apresentar dentro do prazo de abertura do concurso os seguintes elementos:
 
 a) Resenha, subscrita pelo candidato, da actividade desenvolvida desde a admissão ao serviço do Laboratório, focando especialmente as suas contribuições para o progresso dos conhecimentos e das técnicas experimentais e para a melhoria da organização e da eficiência da instituição que serve, com indicação dos trabalhos e publicações da sua autoria ou co-autoria, devendo quanto a estes comprovar a parte que lhe coube na sua elaboração;
 
@@ -483,27 +518,27 @@ d) Quaisquer documentos que o candidato entenda deverem ser apreciados pelo júr
 
 § 2.º A impressão da tese será custeada pelo Laboratório, no regime estabelecido para a publicação dos seus trabalhos.
 
-###### Art. 58.º A tese original a que se refere a alínea b) do corpo do artigo anterior dirá respeito a um trabalho de investigação realizado pelo candidato, no qual enunciará conclusões originais de interesse para o progresso dos conhecimentos nos domínios de acção do Laboratório ainda não apresentadas em concurso pelo candidato nem de qualquer forma submetidas por este a discussão pública.
+Art. 58.º A tese original a que se refere a alínea b) do corpo do artigo anterior dirá respeito a um trabalho de investigação realizado pelo candidato, no qual enunciará conclusões originais de interesse para o progresso dos conhecimentos nos domínios de acção do Laboratório ainda não apresentadas em concurso pelo candidato nem de qualquer forma submetidas por este a discussão pública.
 
 § único. A tese poderá ser preparada, total ou parcialmente, noutra instituição de investigação, nacional ou estrangeira.
 
-###### Art. 59.º O júri dos concursos para obtenção do grau de investigador será constituído pelo director do Laboratório, pelo subdirector e pelos chefes de serviço e investigadores para o efeito nomeados.
+Art. 59.º O júri dos concursos para obtenção do grau de investigador será constituído pelo director do Laboratório, pelo subdirector e pelos chefes de serviço e investigadores para o efeito nomeados.
 
 § 1.º Poderão ser agregados ao júri do concurso, com a faculdade de intervirem na classificação das provas práticas que arguirem, investigadores estranhos ao Laboratório e professores universitários, nacionais ou estrangeiros, escolhidos para arguentes pela sua especial competência nos assuntos a versar.
 
 § 2.º A remuneração dos membros do júri estranhos ao Laboratório será fixada, para cada caso, pelo Ministro das Obras Públicas, com o acordo do Ministro das Finanças.
 
-###### Art. 60.º Encerrado o concurso, o júri a que se refere o corpo do artigo anterior procederá conforme o disposto no corpo do artigo 16.º e seu § 1.º
+Art. 60.º Encerrado o concurso, o júri a que se refere o corpo do artigo anterior procederá conforme o disposto no corpo do artigo 16.º e seu § 1.º
 
 § 1.º Não serão admitidos às provas do concurso os candidatos que, em virtude de comissão de serviço ou de qualquer outro impedimento, não tenham prestado um ano de serviço efectivo no Laboratório no decorrer dos três anos que antecederam a data de abertura do concurso.
 
 § 2.º O calendário das provas práticas, com indicação dos arguentes e da ordem de apresentação dos candidatos, determinada por sorteio, será publicado simultâneamente com a lista definitiva ou a declaração de que se mantém a lista primitiva.
 
-###### Art. 61.º As provas documentais do concurso consistem na apreciação das qualidades científicas e técnicas, pessoais e administrativas, referidas no artigo 4.º, segundo o critério, indicado no corpo do artigo 9.º, com base nas informações de serviço do candidato e nos elementos referidos nas alíneas a) e d) do corpo do artigo 57.º
+Art. 61.º As provas documentais do concurso consistem na apreciação das qualidades científicas e técnicas, pessoais e administrativas, referidas no artigo 4.º, segundo o critério, indicado no corpo do artigo 9.º, com base nas informações de serviço do candidato e nos elementos referidos nas alíneas a) e d) do corpo do artigo 57.º
 
 § único. Serão reprovados os candidatos que obtiverem classificação inferior a 12 em duas das qualidades referidas no artigo 4.º pelos n.os 1, 2, 4, 5, 6, 7 e 8, ou uma classificação global das provas documentais inferior a 16.
 
-###### Art. 62.º As provas práticas do concurso, que serão orais e públicas e terão lugar em dias diferentes para cada candidato, são as seguintes:
+Art. 62.º As provas práticas do concurso, que serão orais e públicas e terão lugar em dias diferentes para cada candidato, são as seguintes:
 
 Prova A - Apreciação e discussão do curriculum vitae do candidato, em especial dos trabalhos e publicações mencionados na resenha a que se refere a alínea a) do corpo do artigo 57.º, por um ou dois arguentes, durante um período não superior a duas horas.
 
@@ -519,15 +554,15 @@ Prova C - Exposição de uma hora sobre tema tirado à sorte pelo candidato com 
 
 § 4.º Serão reprovados os candidatos que obtenham classificação inferior a 14 nas provas A e C e a 16 na prova B ou uma classificação global das provas práticas inferior a 16.
 
-###### Art. 63.º A classificação final do concurso para obtenção do grau de investigador será obtida conforme indicado no artigo 26.º, observando-se o disposto no seu § único.
+Art. 63.º A classificação final do concurso para obtenção do grau de investigador será obtida conforme indicado no artigo 26.º, observando-se o disposto no seu § único.
 
-###### Art. 64.º Considera-se aplicável o disposto no artigo 27.º e seu § único.
+Art. 64.º Considera-se aplicável o disposto no artigo 27.º e seu § único.
 
 Para promoção a especialista de 1.ª classe
 
-###### Art. 65.º Os concursos de promoção a especialista de 1.ª classe serão abertos por prazo não inferior a 30 dias.
+Art. 65.º Os concursos de promoção a especialista de 1.ª classe serão abertos por prazo não inferior a 30 dias.
 
-###### Art. 66.º Cada candidato deverá apresentar dentro do prazo de abertura do concurso os seguintes elementos:
+Art. 66.º Cada candidato deverá apresentar dentro do prazo de abertura do concurso os seguintes elementos:
 
 a) Resenha, subscrita pelo candidato, da actividade desenvolvida no Laboratório desde a aprovação no concurso de estágio para especialista, focando especialmente as suas contribuições para o progresso da instituição que serve, com indicação dos trabalhos e publicações da sua autoria ou co-autoria, devendo quanto a estes comprovar a parte que lhe coube na sua elaboração;
 
@@ -537,25 +572,25 @@ c) Quaisquer documentos que o candidato entenda deverem ser apreciados pelo júr
 
 § único. Não carecem de ser selados os documentos referidos nas alíneas a) e c) do corpo do presente artigo.
 
-###### Art. 67.º O júri dos concursos de promoção a especialista de 1.ª classe terá a constituição indicada no corpo do artigo 22.º
+Art. 67.º O júri dos concursos de promoção a especialista de 1.ª classe terá a constituição indicada no corpo do artigo 22.º
 
-###### Art. 68.º Encerrado o concurso, o júri a que se refere o artigo anterior procederá conforme indicado no artigo 16.º e seu § 1.º, observando-se o disposto no § 1.º do artigo 60.º
+Art. 68.º Encerrado o concurso, o júri a que se refere o artigo anterior procederá conforme indicado no artigo 16.º e seu § 1.º, observando-se o disposto no § 1.º do artigo 60.º
 
-###### Art. 69.º O concurso de promoção a especialista de 1.ª classe consiste na apreciação das qualidades científicas e técnicas, pessoais e administrativas, referidas no artigo 4.º, reveladas desde a aprovação no concurso de estágio, segundo o critério indicado no corpo do artigo 9.º, com base nas informações de serviço do candidato e nos elementos referidos nas alíneas a) e c) do corpo do artigo 66.º
+Art. 69.º O concurso de promoção a especialista de 1.ª classe consiste na apreciação das qualidades científicas e técnicas, pessoais e administrativas, referidas no artigo 4.º, reveladas desde a aprovação no concurso de estágio, segundo o critério indicado no corpo do artigo 9.º, com base nas informações de serviço do candidato e nos elementos referidos nas alíneas a) e c) do corpo do artigo 66.º
 
 § 1.º Serão reprovados os candidatos que obtiverem classificação inferior a 12 em duas das qualidades referidas no artigo 4.º pelos números 1, 2, 4, 5, 6, 7 e 8. ou uma classificação global inferior a 14.
 
 § 2.º Só serão publicadas as classificações globais dos candidatos aprovados.
 
-###### Art. 70.º Para os candidatos aos concursos de promoção a especialista de 1.ª classe que à data da entrada em vigor do [Decreto-Lei n.º 43825](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43825-1961-173361), de 27 de Julho de 1961, ocupavam lugares no quadro extinto, considera-se como data de aprovação no concurso de estágio a data de aprovação no tirocínio ou, para os que não fizeram tirocínio, a data em que começaram a exercer funções de assistente ou equiparáveis no quadro ou fora do quadro.
+Art. 70.º Para os candidatos aos concursos de promoção a especialista de 1.ª classe que à data da entrada em vigor do [Decreto-Lei n.º 43825](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43825-1961-173361), de 27 de Julho de 1961, ocupavam lugares no quadro extinto, considera-se como data de aprovação no concurso de estágio a data de aprovação no tirocínio ou, para os que não fizeram tirocínio, a data em que começaram a exercer funções de assistente ou equiparáveis no quadro ou fora do quadro.
 
 ### CAPÍTULO VI — Concursos de promoção do pessoal técnico médio e dos ajudantes de experimentador
 
 A experimentador-chefe
 
-###### Art. 71.º Os concursos de promoção a experimentador-chefe serão, em regra, abertos por prazo não inferior a 60 dias.
+Art. 71.º Os concursos de promoção a experimentador-chefe serão, em regra, abertos por prazo não inferior a 60 dias.
 
-###### Art. 72.º Cada candidato deverá apresentar dentro do prazo de abertura do concurso os seguintes elementos:
+Art. 72.º Cada candidato deverá apresentar dentro do prazo de abertura do concurso os seguintes elementos:
 
 a) Resenha, subscrita pelo candidato, da actividade desenvolvida desde a admissão na categoria de experimentador, focando especialmente as suas contribuições para o aperfeiçoamento das técnicas experimentais e do serviço;
 
@@ -565,13 +600,13 @@ c) Quaisquer documentos que o candidato entenda deverem ser apreciados pelo júr
 
 § único. Não carecem de ser selados os documentos referidos nas alíneas a) e c) do corpo do presente artigo.
 
-###### Art. 73.º Encerrado o concurso, o júri procederá conforme o disposto no artigo 30.º e seu § único, observando-se o estabelecido no § 1.º do artigo 60.º
+Art. 73.º Encerrado o concurso, o júri procederá conforme o disposto no artigo 30.º e seu § único, observando-se o estabelecido no § 1.º do artigo 60.º
 
-###### Art. 74.º As provas documentais do concurso de promoção a experimentador-chefe consistem na apreciação das qualidades referidas no artigo 5.º, reveladas desde a admissão na categoria de experimentador, segundo o critério indicado no corpo do artigo 9.º, com base nas informações de serviço do candidato e nos elementos referidos nas alíneas a) e c) do corpo do artigo 72.º
+Art. 74.º As provas documentais do concurso de promoção a experimentador-chefe consistem na apreciação das qualidades referidas no artigo 5.º, reveladas desde a admissão na categoria de experimentador, segundo o critério indicado no corpo do artigo 9.º, com base nas informações de serviço do candidato e nos elementos referidos nas alíneas a) e c) do corpo do artigo 72.º
 
 § único. Serão reprovados os candidatos que obtiverem classificação inferior a 12 em duas das qualidades referidas no artigo 5.º pelos n.os 1, 2, 3 e 5, ou uma classificação global das provas documentais inferior a 14.
 
-###### Art. 75.º As provas práticas do concurso, que terão lugar em dias diferentes para cada candidato, são as seguintes:
+Art. 75.º As provas práticas do concurso, que terão lugar em dias diferentes para cada candidato, são as seguintes:
 
 Prova A - Prova oral pública destinada à apreciação dos conhecimentos técnicos do candidato e dos trabalhos que realizou desde a admissão na categoria de experimentador, durante um período não superior a 1 hora e 30 minutos.
 
@@ -581,15 +616,15 @@ Prova B - Prova destinada à apreciação da aptidão do candidato para o trabal
 
 § 2.º Serão reprovados os candidatos que obtenham classificação inferior a 12 numa das provas ou uma classificação global das provas práticas inferior a 14.
 
-###### Art. 76.º A classificação final do concurso de promoção a experimentador-chefe será obtida conforme indicado no artigo 26.º, observando-se o disposto no seu § único.
+Art. 76.º A classificação final do concurso de promoção a experimentador-chefe será obtida conforme indicado no artigo 26.º, observando-se o disposto no seu § único.
 
-###### Art. 77.º Considera-se aplicável o disposto no artigo 27.º e seu § único.
+Art. 77.º Considera-se aplicável o disposto no artigo 27.º e seu § único.
 
 A experimentador de 1.ª classe e a ajudante de experimentador de 1.ª classe
 
-###### Art. 78.º Os concursos de promoção a experimentador de 1.ª classe e a ajudante de experimentador de 1.ª classe serão, em regra, abertos por prazo não inferior a 60 dias.
+Art. 78.º Os concursos de promoção a experimentador de 1.ª classe e a ajudante de experimentador de 1.ª classe serão, em regra, abertos por prazo não inferior a 60 dias.
 
-###### Art. 79.º Cada candidato deverá apresentar dentro do prazo de abertura do concurso os seguintes elementos:
+Art. 79.º Cada candidato deverá apresentar dentro do prazo de abertura do concurso os seguintes elementos:
 
 a) Resenha, subscrita pelo candidato, da actividade desenvolvida desde a admissão na categoria a que pertence;
 
@@ -599,13 +634,13 @@ c) Quaisquer documentos que o candidato entenda deverem ser apreciados pelo júr
 
 § único. Não carecem de ser selados os documentos referidos nas alíneas a) e c) do corpo do presente artigo.
 
-###### Art. 80.º Considera-se aplicável o disposto no artigo 73.º
+Art. 80.º Considera-se aplicável o disposto no artigo 73.º
 
-###### Art. 81.º As provas documentais dos concursos de promoção a experimentador de 1.ª classe e a ajudante de experimentador de 1.ª classe consistem na apreciação das qualidades referidas, respectivamente, nos artigos 5.º e 6.º, segundo o critério de classificação indicado no corpo do artigo 9.º, reveladas desde a admissão na categoria a que pertence o candidato, com base nas informações de serviço e nos elementos referidos nas alíneas a) e c) do artigo 79.º
+Art. 81.º As provas documentais dos concursos de promoção a experimentador de 1.ª classe e a ajudante de experimentador de 1.ª classe consistem na apreciação das qualidades referidas, respectivamente, nos artigos 5.º e 6.º, segundo o critério de classificação indicado no corpo do artigo 9.º, reveladas desde a admissão na categoria a que pertence o candidato, com base nas informações de serviço e nos elementos referidos nas alíneas a) e c) do artigo 79.º
 
 § único. É aplicável o disposto no § único do artigo 31.º
 
-###### Art. 82.º As provas práticas dos concursos, as quais terão lugar em dias diferentes para cada candidato, são as seguintes:
+Art. 82.º As provas práticas dos concursos, as quais terão lugar em dias diferentes para cada candidato, são as seguintes:
 
 Prova A - Prova oral pública destinada à apreciação dos conhecimentos técnicos do candidato e dos trabalhos que realizou desde a admissão na categoria a que pertence, durante um período não superior a 1 hora e 30 minutos.
 
@@ -615,19 +650,19 @@ Prova C - Prova escrita de conhecimento de línguas, consistindo na tradução d
 
 § único. Considera-se aplicável o disposto nos §§ 1.º e 2.º do artigo 32.º
 
-###### Art. 83.º A classificação final dos concursos de promoção a experimentador de 1.ª classe e a adjudante de experimentador de 1.ª classe será obtida conforme indicado no artigo 26.º, observando-se o disposto no seu § único.
+Art. 83.º A classificação final dos concursos de promoção a experimentador de 1.ª classe e a adjudante de experimentador de 1.ª classe será obtida conforme indicado no artigo 26.º, observando-se o disposto no seu § único.
 
-###### Art. 84.º Considera-se aplicável o disposto no artigo 27.º e seu § único.
+Art. 84.º Considera-se aplicável o disposto no artigo 27.º e seu § único.
 
 ### CAPÍTULO VII — Concursos de promoção dos desenhadores e dos auxiliares de laboratório
 
 A desenhador-chefe
 
-###### Art. 85.º Os concursos para o preenchimento de lugares de desenhador-chefe serão, em regra, abertos por um prazo não inferior a 60 dias e do respectivo anúncio constará a preparação escolar exigida e, eventualmente, limitações sobre a admissibilidade de candidatos do sexo feminino. A sua validade será de 2 anos, contados da data da publicação no Diário do Governo da lista das classificações atribuídas aos candidatos.
+Art. 85.º Os concursos para o preenchimento de lugares de desenhador-chefe serão, em regra, abertos por um prazo não inferior a 60 dias e do respectivo anúncio constará a preparação escolar exigida e, eventualmente, limitações sobre a admissibilidade de candidatos do sexo feminino. A sua validade será de 2 anos, contados da data da publicação no Diário do Governo da lista das classificações atribuídas aos candidatos.
 
-###### Art. 86.º Cada candidato que for desenhador do quadro do Laboratório deverá apresentar dentro do prazo de abertura do concurso os elementos referidos no corpo do artigo 79.º, sendo aplicável o disposto no seu § único.
+Art. 86.º Cada candidato que for desenhador do quadro do Laboratório deverá apresentar dentro do prazo de abertura do concurso os elementos referidos no corpo do artigo 79.º, sendo aplicável o disposto no seu § único.
 
-###### Art. 87.º Cada candidato estranho ao quadro do Laboratório deverá apresentar dentro do prazo de abertura do concurso os elementos referidos nas alíneas a) a f) do corpo do artigo 14.º e ainda os seguintes:
+Art. 87.º Cada candidato estranho ao quadro do Laboratório deverá apresentar dentro do prazo de abertura do concurso os elementos referidos nas alíneas a) a f) do corpo do artigo 14.º e ainda os seguintes:
 
 a) Resenha pormenorizada da sua actividade profissional que permita ajuizar os méritos e a experiência do candidato;
 
@@ -635,17 +670,17 @@ b) Declaração, passada por entidade idónea, com assinatura reconhecida, ou ce
 
 § único. É aplicável o disposto no § único do artigo 14.º
 
-###### Art. 88.º Não poderão ser admitidos como desenhadores-chefes indivíduos com menos de 30 anos.
+Art. 88.º Não poderão ser admitidos como desenhadores-chefes indivíduos com menos de 30 anos.
 
-###### Art. 89.º Aos concursos para preenchimento dos lugares de desenhador-chefe é aplicável o disposto no artigo 16.º e seu § 1.º
+Art. 89.º Aos concursos para preenchimento dos lugares de desenhador-chefe é aplicável o disposto no artigo 16.º e seu § 1.º
 
-###### Art. 90.º As provas documentais para os candidatos que forem desenhadores do quadro do Laboratório consistem na apreciação das informações de serviço e dos elementos referidos nas alíneas a) e c) do corpo do artigo 79.º Para os restantes candidatos as provas documentais constam da apreciação dos elementos referidos nas alíneas a) e b) do corpo do artigo 87.º e na alínea f) do corpo do artigo 14.º e de informações colhidas directamente pelo júri, em especial mediante entrevista pessoal dos candidatos considerados recrutáveis numa primeira apreciação.
+Art. 90.º As provas documentais para os candidatos que forem desenhadores do quadro do Laboratório consistem na apreciação das informações de serviço e dos elementos referidos nas alíneas a) e c) do corpo do artigo 79.º Para os restantes candidatos as provas documentais constam da apreciação dos elementos referidos nas alíneas a) e b) do corpo do artigo 87.º e na alínea f) do corpo do artigo 14.º e de informações colhidas directamente pelo júri, em especial mediante entrevista pessoal dos candidatos considerados recrutáveis numa primeira apreciação.
 
 § 1.º Às provas documentais será atribuída uma classificação de 0 a 20, sendo reprovados os candidatos que obtiverem classificação inferior a 14.
 
 § 2.º A publicação da lista dos candidatos aprovados será feita simultâneamente com o calendário das provas práticas, o qual incluirá a indicação da ordem de apresentação à prova pública.
 
-###### Art. 91.º As provas práticas dos candidatos aprovados nas provas documentais, as quais terão lugar em dias diferentes para cada candidato, são as seguintes:
+Art. 91.º As provas práticas dos candidatos aprovados nas provas documentais, as quais terão lugar em dias diferentes para cada candidato, são as seguintes:
 
 Prova A - Prova oral pública destinada à apreciação dos conhecimentos técnicos do candidato, durante um período não superior a 1 hora e 30 minutos.
 
@@ -655,26 +690,26 @@ Prova B - Prova de desenho destinada à apreciação dos conhecimentos técnicos
 
 § 2.º Serão reprovados os candidatos que obtenham classificação inferior a 14 numa das provas práticas.
 
-###### Art. 92.º A classificação final do concurso para o preenchimento de lugares de desenhador-chefe será a média das classificações obtidas nas provas documentais e nas provas práticas.
+Art. 92.º A classificação final do concurso para o preenchimento de lugares de desenhador-chefe será a média das classificações obtidas nas provas documentais e nas provas práticas.
 
 § único. Só será publicada a ordenação das classificações finais dos candidatos.
 
-###### Art. 93.º Considera-se aplicável o disposto no artigo 27.º e seu § único.
+Art. 93.º Considera-se aplicável o disposto no artigo 27.º e seu § único.
 
 A desenhador de 1.ª classe e a auxiliar de laboratório de 1.ª classe
 
-###### Art. 94.º Aos concursos de promoção a desenhador de 1.ª classe e a auxiliar de laboratório de 1.ª classe é aplicável o disposto no artigo 35.º e no artigo 36.º e seu § único.
+Art. 94.º Aos concursos de promoção a desenhador de 1.ª classe e a auxiliar de laboratório de 1.ª classe é aplicável o disposto no artigo 35.º e no artigo 36.º e seu § único.
 
-###### Art. 95.º Considera-se extensivo aos concursos referidos no artigo anterior o estabelecido no artigo 37.º e respectivo § único, observando-se o disposto no § 1.º do artigo 60.º
+Art. 95.º Considera-se extensivo aos concursos referidos no artigo anterior o estabelecido no artigo 37.º e respectivo § único, observando-se o disposto no § 1.º do artigo 60.º
 
-###### Art. 96.º Às provas documentais dos concursos é aplicável o disposto no artigo 38.º e seu § único, referindo-se a apreciação das qualidades ao período decorrido desde a admissão do candidato na categoria a que pertence.
+Art. 96.º Às provas documentais dos concursos é aplicável o disposto no artigo 38.º e seu § único, referindo-se a apreciação das qualidades ao período decorrido desde a admissão do candidato na categoria a que pertence.
 
-###### Art. 97.º As provas práticas dos concursos de promoção a desenhador de 1.ª classe e auxiliar de laboratório de 1.ª classe, as quais terão lugar em dias diferentes para cada candidato, são as indicadas no corpo do artigo 39.º para os concursos de estágio das respectivas categorias, observando-se o disposto nos seus parágrafos.
+Art. 97.º As provas práticas dos concursos de promoção a desenhador de 1.ª classe e auxiliar de laboratório de 1.ª classe, as quais terão lugar em dias diferentes para cada candidato, são as indicadas no corpo do artigo 39.º para os concursos de estágio das respectivas categorias, observando-se o disposto nos seus parágrafos.
 
-###### Art. 98.º A classificação final dos concursos será obtida conforme indicado no artigo 26.º, observando-se o disposto no seu § único.
+Art. 98.º A classificação final dos concursos será obtida conforme indicado no artigo 26.º, observando-se o disposto no seu § único.
 
-###### Art. 99.º Considera-se aplicável o disposto no artigo 27.º e seu § único.
+Art. 99.º Considera-se aplicável o disposto no artigo 27.º e seu § único.
 
 Ministério das Obras Públicas, 17 de Janeiro de 1962. - O Ministro das Obras Públicas, Eduardo de Arantes e Oliveira.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/01/01200/00480059.pdf))](https://files.diariodarepublica.pt/1s/1962/01/01200/00480059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/01/01200/00480059.pdf)

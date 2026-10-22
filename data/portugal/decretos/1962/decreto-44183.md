@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1962/02/02900/01180120.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44183-1962-518409
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-09-26T00:00:00Z'
+  retrieved_at: '2026-10-22T19:28:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8af5f391ae9ec4ae616569909cf6e75bbf3fda310e433ef8f2e708634cd75420
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 157cfc07561610198ff6d5379e9cbfd78e001848b09901d0fa7edc9291741a0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:28:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Empresas
+- Fusão de Empresas
+- Indústria Agro-alimentar
+- Lacticínios
+- Leite
+- Madeira.ilha Adjacente
+- Reestruturação Industrial
+- Sociedade por Quotas
 relationships:
 - type: amended_by
   target: pt:dre:264552:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:508066:por
+  label: "Suspensa a execução das disposições contidas neste diploma pelo DEC.46782.22.12.1965.MECO, DG.IS [289] de 22.12.1965\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/46782-1965-508066
+  date: '1965-12-22'
+- type: cites
+  target: pt:dre:173332:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614081:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:264552:por
+  label: "Revogado, a partir de 01.10.1968, pelo DEC LEI.48593.26.09.1968.MECO, DG.IS [228] de 26.09.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48593-1968-264552
+  date: '1968-09-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:28:05Z'
   warnings: []
   errors: []
 ---
@@ -118,9 +153,9 @@ Pelo exposto, ouvido o Conselho de Ministros, em conformidade com a base IX da [
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 5.º, 7.º, 9.º e 20.º do [Decreto n.º 43418](https://diariodarepublica.pt/dr/detalhe/decreto/43418-1960-513577), de 21 de Dezembro de 1960, passarão a ter a redacção seguinte:
+Artigo 1.º Os artigos 5.º, 7.º, 9.º e 20.º do [Decreto n.º 43418](https://diariodarepublica.pt/dr/detalhe/decreto/43418-1960-513577), de 21 de Dezembro de 1960, passarão a ter a redacção seguinte:
 
-###### Art. 5.º A empresa acima referida constituir-se-á sob a forma de uma sociedade por quotas, com o capital mínimo de 8000 contos, distribuindo-se nas seguintes proporções:
+Art. 5.º A empresa acima referida constituir-se-á sob a forma de uma sociedade por quotas, com o capital mínimo de 8000 contos, distribuindo-se nas seguintes proporções:
 
 49 por cento pela União das Cooperativas Agrícolas de Lacticínios e Produtoras de Leite da Ilha da Madeira.
 
@@ -142,13 +177,13 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 7.º A gerência da nova sociedade será exercida por três membros, escolhidos um por cada sócio, entre os seus legais representantes, indicados por simples carta registada enviada com aviso de recepção.
+Art. 7.º A gerência da nova sociedade será exercida por três membros, escolhidos um por cada sócio, entre os seus legais representantes, indicados por simples carta registada enviada com aviso de recepção.
 
 § único. Se a União das Cooperativas Agrícolas de Lacticínios e Produtoras de Leite da Ilha da Madeira não fizer parte da sociedade, a gerência será exercida por três membros, escolhidos um pelas cooperativas que participarem na sociedade, outro pela Junta Geral e outro pelos industriais, salvo se aquelas cooperativas tomarem uma posição inferior a 10 por cento do capital social, caso em que a gerência será constituída por um representante da Junta Geral do Distrito e dois representantes das empresas industriais.
 
 ...
 
-###### Art. 9.º Verificada ou não a hipótese prevista no § 1.º do artigo 5.º as actuais empresas de produção de lacticínios da ilha da Madeira têm, perante a nova sociedade, os seguintes direitos:
+Art. 9.º Verificada ou não a hipótese prevista no § 1.º do artigo 5.º as actuais empresas de produção de lacticínios da ilha da Madeira têm, perante a nova sociedade, os seguintes direitos:
 
 a) As cooperativas: participar até ao limite de 49 por cento do capital, com uma quota proporcional ao leite laborado em 1959. Se alguma não participar na nova empresa ou não integrar a sua quota, as participantes terão direito a tomar a respectiva posição ou a parte sobrante da respectiva quota, mediante rateio entre as interessadas, feito de acordo com a referida proporção; este aumento de posição implica o pagamento, na parte proporcional, das indemnizações a que se refere a alínea g).
 
@@ -178,7 +213,7 @@ g) As cooperativas que não quiserem fazer parte da nova empresa terão direito,
 
 ...
 
-###### Art. 20.º Se a Cooperativa Agrícola dos Produtores de Leite do Funchal transferir para a União das Cooperativas Agrícolas de Lacticínios e Produtoras de Leite da Ilha da Madeira, com os inerentes direitos, a concessão para o tratamento do leite a fornecer em regime de exclusivo no concelho do Funchal, conforme se prevê no artigo 5.º do contrato de concessão aprovado em reunião de 21 de Agosto de 1958 da Câmara Municipal do Funchal, aquela terá direito a participar da quota da União das Cooperativas Agrícolas de Lacticínios e Produtoras de Leite da Ilha da Madeira na nova sociedade em percentagem a acordar entre as duas e aprovada pelo Secretário de Estado da Indústria.
+Art. 20.º Se a Cooperativa Agrícola dos Produtores de Leite do Funchal transferir para a União das Cooperativas Agrícolas de Lacticínios e Produtoras de Leite da Ilha da Madeira, com os inerentes direitos, a concessão para o tratamento do leite a fornecer em regime de exclusivo no concelho do Funchal, conforme se prevê no artigo 5.º do contrato de concessão aprovado em reunião de 21 de Agosto de 1958 da Câmara Municipal do Funchal, aquela terá direito a participar da quota da União das Cooperativas Agrícolas de Lacticínios e Produtoras de Leite da Ilha da Madeira na nova sociedade em percentagem a acordar entre as duas e aprovada pelo Secretário de Estado da Indústria.
 
 § 1.º A transferência da concessão a que se refere o corpo do artigo implica a integração das futuras instalações de tratamento de leite na nova fábrica de lacticínios a que se refere o artigo 2.º
 
@@ -186,12 +221,12 @@ g) As cooperativas que não quiserem fazer parte da nova empresa terão direito,
 
 § 3.º A aprovação do estabelecimento de novas centrais leiteiras ou pasteurizadoras pelas câmaras municipais da ilha da Madeira, nos termos do § 3.º do artigo 3.º do [Decreto-Lei n.º 36973](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36973-1948-385420), de 17 de Julho de 1948, bem como a aprovação dos cadernos de encargos das concessões, nos termos do artigo 5.º do mesmo decreto-lei, só serão feitas a título excepcional e quando razões especiais o justifiquem, enquanto durar o exclusivo a que se refere o artigo 12.º do presente diploma.
 
-###### Art. 2.º O Ministério da Economia procurará facilitar às cooperativas que desejem fazer parte da nova empresa o acesso aos créditos necessários à integração das respectivas quotas sociais.
+Art. 2.º O Ministério da Economia procurará facilitar às cooperativas que desejem fazer parte da nova empresa o acesso aos créditos necessários à integração das respectivas quotas sociais.
 
-###### Art. 3.º Em qualquer dos casos referidos nas alíneas a) ou b) do artigo 9.º as quotas sociais sofrerão o ajustamento necessário ao cumprimento do disposto no § 1.º do artigo 4.º da Lei de 11 de Abril de 1901, na redacção que lhe foi dada pelo [Decreto-Lei n.º 43843](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43843-1961-173332), de 5 de Agosto de 1961.
+Art. 3.º Em qualquer dos casos referidos nas alíneas a) ou b) do artigo 9.º as quotas sociais sofrerão o ajustamento necessário ao cumprimento do disposto no § 1.º do artigo 4.º da Lei de 11 de Abril de 1901, na redacção que lhe foi dada pelo [Decreto-Lei n.º 43843](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43843-1961-173332), de 5 de Agosto de 1961.
 
-###### Art. 4.º Os prazos previstos nos artigos 17.º e seguintes do [Decreto n.º 43418](https://diariodarepublica.pt/dr/detalhe/decreto/43418-1960-513577), de 21 de Dezembro de 1960, passam a contar-se a partir da data do presente diploma.
+Art. 4.º Os prazos previstos nos artigos 17.º e seguintes do [Decreto n.º 43418](https://diariodarepublica.pt/dr/detalhe/decreto/43418-1960-513577), de 21 de Dezembro de 1960, passam a contar-se a partir da data do presente diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Fevereiro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José do Nascimento Ferreira Dias Júnior - João Mota Pereira de Campos.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44456-1962-162990
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-07-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:30:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c107678c0545240f7ddcee0863dd470a7809195fd3ed23de1bb08b8ebc5d6e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 800493a24d8e7ee25d372d057de89e76234f07596f728f059a7d55a18c5ccd01
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:30:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:30:10Z'
   warnings: []
   errors: []
 ---
@@ -87,11 +87,11 @@ Atendendo ao que foi proposto com urgência pelo Governo-Geral de Angola;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o Governo-Geral de Angola a dar o aval da província, até um montante global de 200000 contos, aos contratos de aquisição de equipamento agrícola que a Junta Provincial de Povoamento, organismo com personalidade jurídica e autonomia administrativa e financeira, vai realizar com diversas firmas, em regime de pagamento diferido ao longo de cinco anos.
+Artigo 1.º É autorizado o Governo-Geral de Angola a dar o aval da província, até um montante global de 200000 contos, aos contratos de aquisição de equipamento agrícola que a Junta Provincial de Povoamento, organismo com personalidade jurídica e autonomia administrativa e financeira, vai realizar com diversas firmas, em regime de pagamento diferido ao longo de cinco anos.
 
-###### Art. 2.º A Junta Provincial de Povoamento inscreverá obrigatòriamente nos seus orçamentos anuais os encargos decorrentes das obrigações dos contratas de aquisição de equipamento a que se refere o artigo anterior.
+Art. 2.º A Junta Provincial de Povoamento inscreverá obrigatòriamente nos seus orçamentos anuais os encargos decorrentes das obrigações dos contratas de aquisição de equipamento a que se refere o artigo anterior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Julho de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/42849-1960-278480
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-02-16T00:00:00Z'
+  retrieved_at: '2026-10-22T19:17:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87bc864a2f639157080609a64c9b2de52a2f3e74058f34d6f73ad216adb0e01c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4006eb69f5c0979f6d5e8e9bfe4c2446a462386011ba6c2ab11548a1b46b17b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:17:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:17:21Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +94,9 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. É autorizado o Governo-Geral da província de Moçambique a prestar ao Banco Nacional Ultramarino a garantia do reembolso do empréstimo de 2:000.000$00 a contrair pela Câmara Municipal de Porto Amélia, com as cláusulas e condições que forem ajustadas entre si e aprovadas pelo Governo-Geral da província, e destinado à aquisição de um grupo gerador de energia eléctrica e construção de uma nova central eléctrica, com residência para o respectivo encarregado.
+Artigo único. É autorizado o Governo-Geral da província de Moçambique a prestar ao Banco Nacional Ultramarino a garantia do reembolso do empréstimo de 2:000.000$00 a contrair pela Câmara Municipal de Porto Amélia, com as cláusulas e condições que forem ajustadas entre si e aprovadas pelo Governo-Geral da província, e destinado à aquisição de um grupo gerador de energia eléctrica e construção de uma nova central eléctrica, com residência para o respectivo encarregado.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Fevereiro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/654/2010/02/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/654-2009-610209
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-02-12T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0a8da2f7eec99e4e31bbc6413ac9f5be30fe3b307cefbf56b6e3afc3a011535
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 783462ff31f5a4dc3ca087dbf950ffa4d45fa7d13a2ce2b694bd662603b28ac4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,14 +70,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração dos Portos da Região Autónoma da Madeira
-- Sociedade Anónima
-- Competência Própria
-- Governo Regional
-- Domínio Público Marítimo
-- Inconstitucionalidade
 - Assembleia da República
-- Privatização
+- Competência Própria
+- Domínio Público Marítimo
+- Governo Regional
+- Inconstitucionalidade
 - Madeira.região Autónoma
+- Privatização
+- Sociedade Anónima
 - Transferência Patrimonial
 relationships:
 - type: cites
@@ -120,16 +120,116 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/16/2003/06/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16/2003/06/04/p/dre
+- type: cites
+  target: pt:dre:223011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:254666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662758:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:53Z'
   warnings: []
   errors: []
 ---
@@ -326,7 +426,9 @@ Este anexo ii, por sua vez, na redacção que lhe foi dada pelo [Decreto Legisla
 
 «[...]
 
-###### Artigo 8.º — Cais da Ribeira Brava
+Artigo 8.º
+
+Cais da Ribeira Brava
 
 O cais da Ribeira Brava compreende a faixa do domínio público marítimo delimitada pelos pontos n.os 1 a 11, cujas coordenadas rectangulares UTM são as seguintes:
 
@@ -352,7 +454,9 @@ O cais da Ribeira Brava compreende a faixa do domínio público marítimo delimi
 
 11 - x = 306 526,35; y = 3 615 196,05.
 
-###### Artigo 9.º — Cais da Calheta
+Artigo 9.º
+
+Cais da Calheta
 
 O cais da Calheta compreende a faixa do domínio público marítimo delimitada pelos pontos n.os 1 a 8, cujas coordenadas rectangulares UTM são as seguintes:
 
@@ -374,7 +478,9 @@ O cais da Calheta compreende a faixa do domínio público marítimo delimitada p
 
 [...]
 
-###### Artigo 13.º — Cais da Ponta do Sol e lugar de Baixo
+Artigo 13.º
+
+Cais da Ponta do Sol e lugar de Baixo
 
 O cais da Ponta do Sol e lugar de Baixo compreendem a faixa do domínio público marítimo delimitada pela linha que une os pontos n.os 1 a 28, cujas coordenadas rectangulares UTM são as seguintes:
 

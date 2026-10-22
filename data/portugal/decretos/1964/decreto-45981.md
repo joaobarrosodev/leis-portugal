@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45981-1964-537065
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-10-20T00:00:00Z'
+  retrieved_at: '2026-10-22T19:42:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6be4cd0edffa40d11b61e87cd84338d9853c81fa458703d84a4f9569f327195d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb7b06f5a26ff16d5bee9422d6815ca6801fd2edfb4861c13d4306e051a3db35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:42:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:525668:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:42:33Z'
   warnings: []
   errors: []
 ---
@@ -87,9 +91,9 @@ Reconhecida a necessidade de se actualizarem e completarem algumas disposições
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São alterados, nos termos a seguir referidos, os artigos 1.º, 11.º, 12.º, 21.º, 32.º, 42.º, 44.º, 57.º, 65.º, 73.º, 76.º, 95.º e 106.º do Regulamento para o Serviço de Permutação de Fundos por Intermédio do Correio, aprovado por Decreto de 16 de Novembro de 1912:
+Artigo 1.º São alterados, nos termos a seguir referidos, os artigos 1.º, 11.º, 12.º, 21.º, 32.º, 42.º, 44.º, 57.º, 65.º, 73.º, 76.º, 95.º e 106.º do Regulamento para o Serviço de Permutação de Fundos por Intermédio do Correio, aprovado por Decreto de 16 de Novembro de 1912:
 
-###### Artigo 1.º O serviço de transferência de fundos a cargo da Administração-Geral dos Correios, Telégrafos e Telefones, previsto no n.º 5.º do artigo 2.º do Decreto com força de lei n.º 5786, de 10 de Maio de 1919, continuará a efectuar-se mediante a emissão de ordens de pagamento especiais denominadas «vales», a transmitir por via postal ou telegráfica.
+Artigo 1.º O serviço de transferência de fundos a cargo da Administração-Geral dos Correios, Telégrafos e Telefones, previsto no n.º 5.º do artigo 2.º do Decreto com força de lei n.º 5786, de 10 de Maio de 1919, continuará a efectuar-se mediante a emissão de ordens de pagamento especiais denominadas «vales», a transmitir por via postal ou telegráfica.
 
 § 1.º Os vales de correio podem revestir as seguintes modalidades:
 
@@ -109,7 +113,7 @@ Estes vales só podem utilizar a via postal.
 
 ...
 
-###### Art. 11.º Os vales são válidos durante 30 dias, contados a partir da data da emissão.
+Art. 11.º Os vales são válidos durante 30 dias, contados a partir da data da emissão.
 
 Exceptuam-se os vales emitidos nas ilhas das Flores ou do Corvo e pagáveis no continente ou em qualquer outra ilha e vice-versa, cujo prazo de validade é de 60 dias.
 
@@ -127,7 +131,7 @@ Por cada período de 90 dias ou fracção a mais, 1 por cento.
 
 § 5.º As disposições deste artigo aplicam-se a todos os vales que até à data da entrada em vigor do presente diploma ainda não tenham ultrapassado o prazo fixado no artigo 32.º
 
-###### Art. 12.º A importância dos vales não pagos reverte a favor do Estado findo o prazo indicado no § 4.º, última parte, do artigo anterior.
+Art. 12.º A importância dos vales não pagos reverte a favor do Estado findo o prazo indicado no § 4.º, última parte, do artigo anterior.
 
 § único. O pagamento de vales cuja importância já tenha dado entrado como receita do Estado será escriturado nas contas públicas, como despesa efectiva do Estado, mediante inscrição no orçamento do Ministério das Finanças da verba necessária, devendo anualmente ser levada a despesa orçamental a soma dos referidos vales pagos no ano anterior que exceda a soma dos vales não pagos no mesmo ano.
 
@@ -135,7 +139,7 @@ Para esse efeito a Administração-Geral dos Correios, Telégrafos e Telefones c
 
 ...
 
-###### Art. 21.º Os vales podem emitir-se a favor de pessoas singulares ou colectivas.
+Art. 21.º Os vales podem emitir-se a favor de pessoas singulares ou colectivas.
 
 § 1.º O nome do remetente ou do destinatário de um vale só pode ser integralmente designado por iniciais quando se trate de uma pessoa colectiva e essas iniciais formem uma palavra pela qual a empresa ou sociedade é conhecida.
 
@@ -145,11 +149,11 @@ Para esse efeito a Administração-Geral dos Correios, Telégrafos e Telefones c
 
 ...
 
-###### Art. 32.º Os exactores remeterão às secretarias das circunscrições de exploração, dentro dos prazos estabelecidos pela Administração-Geral, as requisições dos vales emitidos, para efeitos de conferência. Depois de conferidas, as requisições serão arquivadas durante cinco anos civis completos.
+Art. 32.º Os exactores remeterão às secretarias das circunscrições de exploração, dentro dos prazos estabelecidos pela Administração-Geral, as requisições dos vales emitidos, para efeitos de conferência. Depois de conferidas, as requisições serão arquivadas durante cinco anos civis completos.
 
 ...
 
-###### Art. 42.º As estações de destino devolverão, sem demora, aos respectivos remetentes:
+Art. 42.º As estações de destino devolverão, sem demora, aos respectivos remetentes:
 
 a) Os vales recusados pelos destinatários;
 
@@ -167,11 +171,11 @@ Cinco dias, se endereçado à posta restante ou ao telégrafo restante.
 
 ...
 
-###### Art. 44.º O pagamento de um vale não carece de autorização ou visto de qualquer funcionário estranho aos serviços dos CTT e far-se-á, em regra, ao destinatário ou ao remetente nos cofres de pagamento das localidades de destino ou de emissão. Exceptuam-se desta regra os vales de cobrança, que só poderão ser pagos nos cofres de pagamento indicados no modelo n.º 406.
+Art. 44.º O pagamento de um vale não carece de autorização ou visto de qualquer funcionário estranho aos serviços dos CTT e far-se-á, em regra, ao destinatário ou ao remetente nos cofres de pagamento das localidades de destino ou de emissão. Exceptuam-se desta regra os vales de cobrança, que só poderão ser pagos nos cofres de pagamento indicados no modelo n.º 406.
 
 ...
 
-###### Art. 57.º Os encarregados do pagamento não devem pagar a importância dos vales:
+Art. 57.º Os encarregados do pagamento não devem pagar a importância dos vales:
 
 1.º Que tenham omissões no preenchimento do respectivo modelo, rasuras, entrelinhas ou palavras riscadas, ainda mesmo que ressalvadas;
 
@@ -183,7 +187,7 @@ Cinco dias, se endereçado à posta restante ou ao telégrafo restante.
 
 ...
 
-###### Art. 65.º Os encarregados do pagamento de vales devem ter montado o serviço de forma a poderem responder ràpidamente às consultas que, acerca desta matéria, lhes sejam feitas.
+Art. 65.º Os encarregados do pagamento de vales devem ter montado o serviço de forma a poderem responder ràpidamente às consultas que, acerca desta matéria, lhes sejam feitas.
 
 § 1.º Para esse fim, em todas as repartições encarregadas do pagamento de vales haverá um livro, modelo n.º 16, de registo geral dos vales pagos, no qual serão relacionados todos os vales, à medida que o seu pagamento for efectuado.
 
@@ -191,15 +195,15 @@ Cinco dias, se endereçado à posta restante ou ao telégrafo restante.
 
 ...
 
-###### Art. 73.º Os vales extraviados ou perdidos e os deteriorados ou inutilizados podem ser substituídos, desde que os documentos-base que lhes digam respeito estejam em arquivo.
+Art. 73.º Os vales extraviados ou perdidos e os deteriorados ou inutilizados podem ser substituídos, desde que os documentos-base que lhes digam respeito estejam em arquivo.
 
 ...
 
-###### Art. 76.º Não podem passar-se autorizações de pagamento em substituição de qualquer vale sem prévia verificação de que o mesmo não foi pago.
+Art. 76.º Não podem passar-se autorizações de pagamento em substituição de qualquer vale sem prévia verificação de que o mesmo não foi pago.
 
 ...
 
-###### Art. 95.º Para efectuar a entrega do produto de emissão de vales, procederão as estações emissoras da forma seguinte:
+Art. 95.º Para efectuar a entrega do produto de emissão de vales, procederão as estações emissoras da forma seguinte:
 
 1.º Na véspera do dia indicado para entrega e depois de terminado o serviço de emissão, deverão os respectivos encarregados preencher:
 
@@ -221,42 +225,42 @@ d) O recibo de entrega da importância total do imposto do selo, em duplicado.
 
 ...
 
-###### Art. 106.º Nas guias de entrega ou em livros ou ficheiros próprios serão mencionadas todas as circunstâncias especiais relativas a cada vale neles inscrito. Estes documentos serão arquivados na 5.ª Repartição da Direcção dos Serviços Financeiros durante cinco anos civis completos.
+Art. 106.º Nas guias de entrega ou em livros ou ficheiros próprios serão mencionadas todas as circunstâncias especiais relativas a cada vale neles inscrito. Estes documentos serão arquivados na 5.ª Repartição da Direcção dos Serviços Financeiros durante cinco anos civis completos.
 
 § único. Os vales, depois de conferidos e filmados, serão destruídos, arquivando-se os respectivos filmes durante aquele período de cinco anos civis completos.
 
-###### Art. 2.º São aditadas ao referido Regulamento para o Serviço de Permutação de Fundos por intermédio do Correio as disposições seguintes:
+Art. 2.º São aditadas ao referido Regulamento para o Serviço de Permutação de Fundos por intermédio do Correio as disposições seguintes:
 
-###### Art. 2.º-A. A transferência dos fundos provenientes da cobrança de objectos e encomendas remetidos contra reembolso, faz-se por meio de vales de cobrança.
+Art. 2.º-A. A transferência dos fundos provenientes da cobrança de objectos e encomendas remetidos contra reembolso, faz-se por meio de vales de cobrança.
 
 Estes vales são constituídos por duas partes: uma a preencher pelo remetente, segundo as indicações nela impressas; outra a preencher pela estação de destino e a sobrepor, por colagem, no local apropriado da primeira, de modo a completar a emissão do vale.
 
-###### Art. 2.º-B. O remetente de objectos ou encomendas contra reembolso entregá-los-á na estação dos CTT acompanhados da primeira parte do vale, cujo preenchimento deve ser escrito de forma bem legível, sem emendas nem rasuras.
+Art. 2.º-B. O remetente de objectos ou encomendas contra reembolso entregá-los-á na estação dos CTT acompanhados da primeira parte do vale, cujo preenchimento deve ser escrito de forma bem legível, sem emendas nem rasuras.
 
-###### Art. 2.º-C. O remetente de dois ou mais objectos ou encomendas contra reembolso endereçados a um só destinatário ou a vários, na área da mesma estação dos CTT, pode preencher um único impresso de vale pela totalidade das importâncias a cobrar, com o limite máximo fixado para a emissão de vales.
+Art. 2.º-C. O remetente de dois ou mais objectos ou encomendas contra reembolso endereçados a um só destinatário ou a vários, na área da mesma estação dos CTT, pode preencher um único impresso de vale pela totalidade das importâncias a cobrar, com o limite máximo fixado para a emissão de vales.
 
-###### Art. 2.º-D. O impresso do vale é fornecido gratuitamente. A cargo do remetente fica o pagamento, por meio de aposição de selos postais no objecto ou encomenda a expedir, das taxas relativas ao seu porte, prémio de registo e apresentação. Ao destinatário, além do valor da cobrança, cabe o pagamento do prémio do vale e do selo fiscal que for devido.
+Art. 2.º-D. O impresso do vale é fornecido gratuitamente. A cargo do remetente fica o pagamento, por meio de aposição de selos postais no objecto ou encomenda a expedir, das taxas relativas ao seu porte, prémio de registo e apresentação. Ao destinatário, além do valor da cobrança, cabe o pagamento do prémio do vale e do selo fiscal que for devido.
 
-###### Art. 2.º-E. A estação de origem e a de destino verificarão as indicações dos objectos ou encomendas contra reembolso em presença das constantes do vale de cobrança, cabendo à primeira mencionar no verso do vale as referências de serviço necessárias.
+Art. 2.º-E. A estação de origem e a de destino verificarão as indicações dos objectos ou encomendas contra reembolso em presença das constantes do vale de cobrança, cabendo à primeira mencionar no verso do vale as referências de serviço necessárias.
 
-###### Art. 2.º-F. Se houver divergência entre o endereço do remetente indicado no invólucro do objecto ou encomenda e no vale de cobrança, o objecto será devolvido ao remetente. Igual procedimento se adoptará quando haja divergência entre as quantias inscritas naqueles dois lugares e o destinatário recusar o pagamento da mais elevada.
+Art. 2.º-F. Se houver divergência entre o endereço do remetente indicado no invólucro do objecto ou encomenda e no vale de cobrança, o objecto será devolvido ao remetente. Igual procedimento se adoptará quando haja divergência entre as quantias inscritas naqueles dois lugares e o destinatário recusar o pagamento da mais elevada.
 
-###### Art. 2.º-G. Se o destinatário não pagar a importância relativa a um ou mais objectos ou encomendas compreendidos numa cobrança agrupada, nos termos do artigo 2.º-C, a estação de destino devolverá ao remetente esses objectos ou encomendas não pagos e substituirá o primeiro impresso do vale de cobrança por outro, que preencherá pela quantia efectivamente cobrada.
+Art. 2.º-G. Se o destinatário não pagar a importância relativa a um ou mais objectos ou encomendas compreendidos numa cobrança agrupada, nos termos do artigo 2.º-C, a estação de destino devolverá ao remetente esses objectos ou encomendas não pagos e substituirá o primeiro impresso do vale de cobrança por outro, que preencherá pela quantia efectivamente cobrada.
 
-###### Art. 2.º-H. O remetente que pretenda modificar a importância da cobrança apresentará, na estação de origem, pedido formulado no impresso próprio, acompanhado de novo exemplar do vale de cobrança, preenchido em conformidade.
+Art. 2.º-H. O remetente que pretenda modificar a importância da cobrança apresentará, na estação de origem, pedido formulado no impresso próprio, acompanhado de novo exemplar do vale de cobrança, preenchido em conformidade.
 
-###### Art. 2.º-I. Quando o impresso do vale se extraviar, a estação de destino promoverá a substituição desse impresso à vista dos elementos de que disponha.
+Art. 2.º-I. Quando o impresso do vale se extraviar, a estação de destino promoverá a substituição desse impresso à vista dos elementos de que disponha.
 
-###### Art. 2.º-J. Completadas as operações preparatórias da liquidação da cobrança de um ou mais objectos ou encomendas, a estação de destino procederá à emissão do vale respectivo, preenchendo a sua segunda parte e colando-a sobre a primeira.
+Art. 2.º-J. Completadas as operações preparatórias da liquidação da cobrança de um ou mais objectos ou encomendas, a estação de destino procederá à emissão do vale respectivo, preenchendo a sua segunda parte e colando-a sobre a primeira.
 
-###### Art. 2.º-L. A segunda parte dos vales de cobrança é fornecida às estações em cadernetas numeradas a partir de 100001 e nas mesmas condições que as dos vales postais.
+Art. 2.º-L. A segunda parte dos vales de cobrança é fornecida às estações em cadernetas numeradas a partir de 100001 e nas mesmas condições que as dos vales postais.
 
-###### Art. 2.º-M. A emissão dos vales de cobrança será registada em modelo n.º 26 especial.
+Art. 2.º-M. A emissão dos vales de cobrança será registada em modelo n.º 26 especial.
 
-###### Art. 2.º-N. O vale de cobrança só é pagável se for apresentado devidamente preenchido e completo. Caso se notem deficiências ou a segunda parte do impresso se apresente descolada da primeira, tornar-se-á necessária, para o pagamento, autorizarão prévia da 5.ª Repartição da Direcção dos Serviços Financeiros.
+Art. 2.º-N. O vale de cobrança só é pagável se for apresentado devidamente preenchido e completo. Caso se notem deficiências ou a segunda parte do impresso se apresente descolada da primeira, tornar-se-á necessária, para o pagamento, autorizarão prévia da 5.ª Repartição da Direcção dos Serviços Financeiros.
 
-###### Art. 3.º É revogado o [Decreto n.º 39088](https://diariodarepublica.pt/dr/detalhe/decreto/39088-1953-525668), de 23 de Janeiro de 1953.
+Art. 3.º É revogado o [Decreto n.º 39088](https://diariodarepublica.pt/dr/detalhe/decreto/39088-1953-525668), de 23 de Janeiro de 1953.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Outubro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Carlos Gomes da Silva Ribeiro.

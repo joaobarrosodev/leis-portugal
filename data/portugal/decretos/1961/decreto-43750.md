@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43750-1961-171569
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-06-22T00:00:00Z'
+  retrieved_at: '2026-10-22T19:24:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66e184a9cf3ea1194bd858bb1b9c1ce820b53ac423176dc59b41ee0b811a20cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7674a25b09da9dbc5d0dc1ba0154ca4c6719bb104dd2e54a3d828c15f2fd6904
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:24:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:654121:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:24:23Z'
   warnings: []
   errors: []
 ---
@@ -99,33 +103,33 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Na província de Moçambique a importação temporária de sacos e fardos de grossaria, de linho e similares, só é autorizada quando exclusivamente destinados à exportação de produtos agrícolas e industriais da província e fica sujeita a licenciamento e registo prévio.
+Artigo 1.º Na província de Moçambique a importação temporária de sacos e fardos de grossaria, de linho e similares, só é autorizada quando exclusivamente destinados à exportação de produtos agrícolas e industriais da província e fica sujeita a licenciamento e registo prévio.
 
-###### Art. 2.º A competência para conceder licenças de importação temporária das mercadorias referidas no artigo 1.º é do governador-geral da província, que só poderá concedê-las nas quantidades que a indústria local se não encontre habilitada a fornecer ou nos casos em que seja demonstrado que o preço dos artefactos de produção local prejudica sensìvelmente as condições de competição dos produtos a exportar nos mercados a que se destinem.
+Art. 2.º A competência para conceder licenças de importação temporária das mercadorias referidas no artigo 1.º é do governador-geral da província, que só poderá concedê-las nas quantidades que a indústria local se não encontre habilitada a fornecer ou nos casos em que seja demonstrado que o preço dos artefactos de produção local prejudica sensìvelmente as condições de competição dos produtos a exportar nos mercados a que se destinem.
 
 § único. Os artefactos importados temporàriamente devem ser reexportados no prazo de seis meses, improrrogável.
 
-###### Art. 3.º A importação definitiva das mercadorias referidas no artigo 1.º não carece de licenciamento, mas será sempre objecto de registo prévio.
+Art. 3.º A importação definitiva das mercadorias referidas no artigo 1.º não carece de licenciamento, mas será sempre objecto de registo prévio.
 
 § 1.º Os direitos de importação dos sacos e fardos de grossaria, de linho e similares, são os que a seguir vão indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/06/14300/07430744.pdf))](https://files.diariodarepublica.pt/1s/1961/06/14300/07430744.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/06/14300/07430744.pdf)
 
 § 2.º É fixado em 10$00 por quilograma o direito de importação dos artefactos referidos no parágrafo anterior, quando já usados, tanto na pauta preferencial como na mínima.
 
-###### Art. 4.º Os preços dos artefactos de fabrico local serão uniformes nos principais centros de consumo da província e fixados pelo governador-geral com base nos preços à porta da fábrica e nos encargos da distribuição. Os preços à porta da fábrica serão igualmente fixados pelo governador-geral com base em estudo económico e técnico da produção e industrialização da fibra.
+Art. 4.º Os preços dos artefactos de fabrico local serão uniformes nos principais centros de consumo da província e fixados pelo governador-geral com base nos preços à porta da fábrica e nos encargos da distribuição. Os preços à porta da fábrica serão igualmente fixados pelo governador-geral com base em estudo económico e técnico da produção e industrialização da fibra.
 
 § único. A fixação dos preços far-se-á tendo em conta o custo da fibra importada e de harmonia com o programa da sua progressiva substituição pela fibra de produção local.
 
-###### Art. 5.º Sempre que necessário e, pelo menos, ano a ano, a partir da data da publicação do presente diploma, mediante audição do Conselho de Governo e da comissão a que se refere o § único deste artigo, o governador-geral reverá o regime nele estabelecido, por forma a assegurar-se uma perfeita adequação dos preços de venda da sacaria aos respectivos custos de produção e a garantir-se um ritmo de produção de fibras que possibilite, ao fim de cinco anos, a contar daquela data, o integral abastecimento da província com fibras produzidas localmente.
+Art. 5.º Sempre que necessário e, pelo menos, ano a ano, a partir da data da publicação do presente diploma, mediante audição do Conselho de Governo e da comissão a que se refere o § único deste artigo, o governador-geral reverá o regime nele estabelecido, por forma a assegurar-se uma perfeita adequação dos preços de venda da sacaria aos respectivos custos de produção e a garantir-se um ritmo de produção de fibras que possibilite, ao fim de cinco anos, a contar daquela data, o integral abastecimento da província com fibras produzidas localmente.
 
 § único. Para satisfação do estabelecido no corpo deste artigo, orientação e estudo dos problemas levantados pelo fomento da cultura de fibras e formular propostas de revisão dos preços referidos no artigo 4.º e dos direitos aduaneiros fixados no § 1.º do artigo 3.º deste decreto, será constituída na província uma comissão especial permanente, na qual a indústria de sacaria terá representação.
 
-###### Art. 6.º O governador-geral de Moçambique poderá nomear os técnicos e despender as quantias que julgar indispensáveis para o estudo da cultura dos sucedâneos da juta, promovendo o que entender conveniente para que seja aumentada a área cultivada daqueles sucedâneos e estabelecendo o plano de produção ligado ao objectivo de povoamento das áreas que vão sendo agricultadas.
+Art. 6.º O governador-geral de Moçambique poderá nomear os técnicos e despender as quantias que julgar indispensáveis para o estudo da cultura dos sucedâneos da juta, promovendo o que entender conveniente para que seja aumentada a área cultivada daqueles sucedâneos e estabelecendo o plano de produção ligado ao objectivo de povoamento das áreas que vão sendo agricultadas.
 
-###### Art. 7.º Fica revogado o Decreto de 18 de Janeiro de 1906 que concedeu regime de importação temporária aos sacos de grossaria ou canhamaços de linho e seus congéneres na província de Moçambique e é alterado em conformidade com o presente diploma o n.º 4 do quadro IV-E anexo às instruções preliminares das pautas aduaneiras das províncias ultramarinas, aprovadas pelo [Decreto n.º 41026](https://diariodarepublica.pt/dr/detalhe/decreto/41026-1957-654121), de 9 de Março de 1957.
+Art. 7.º Fica revogado o Decreto de 18 de Janeiro de 1906 que concedeu regime de importação temporária aos sacos de grossaria ou canhamaços de linho e seus congéneres na província de Moçambique e é alterado em conformidade com o presente diploma o n.º 4 do quadro IV-E anexo às instruções preliminares das pautas aduaneiras das províncias ultramarinas, aprovadas pelo [Decreto n.º 41026](https://diariodarepublica.pt/dr/detalhe/decreto/41026-1957-654121), de 9 de Março de 1957.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Junho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

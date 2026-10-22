@@ -23,7 +23,7 @@ publication:
   reference: Diário da República n.º 248/2009, 1º Suplemento, Série I de 2009-12-24
   number: '248'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8750-(2) a 8750-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/12/24801/0000200002.pdf
 entry_into_force_dates: []
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/94-a/2009/12/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/94-a-2009-332229
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-12-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:12:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bb29cd215e08bf53b01bf0065cba523a8dc5a3f566e7dd56fecfbd713c44399
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4960c5b333e45d46272129bcd37d569eb17510780aaf01c08217975895116e5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:12:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -91,16 +91,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/97/2009/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/97/2009/09/03/p/dre
+- type: cites
+  target: pt:dre:483145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:310/2009
+  label: "Rectifica os artigos 2.º e 3.º (na alteração do n.º 1 do artigo 16.º e do aditamento do artigo 17.º-A do Estatuto\
+    \ da Câmara dos Técnicos Oficiais de Contas, aprovado pelo Decreto-Lei n.º 452/99, de 5 de Novembro) e o anexo II (n.º\
+    \ 2 do artigo 12.º do Código Deontológico dos Técnicos Oficiais de Contas) todos do Decreto-Lei n.º 310/2009, de 26 de\
+    \ Outubro, DR.IS [207] \0\0"
+  source: null
+  date: '2009-10-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:12:23Z'
   warnings: []
   errors: []
 ---

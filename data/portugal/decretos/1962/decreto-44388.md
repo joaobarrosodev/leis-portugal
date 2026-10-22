@@ -47,36 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44388-1962-164797
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-06-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:29:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff6bd876f9aca66550431a6d0ffa00ab5165e38f74092b4275150df31b6d159d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0b7039e062f84fa438ce99075f07343fc20b7676301e8be607605b9087e7023
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:29:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cartão de Identificação
+- Comércio
+- Exportação
+- Fiscalização
+- Indústria da Madeira
+- Indústria Resineira
+- Inscrição Obrigatória
+- Junta Nacional dos Resinosos
+- Orgânica
+- Produto em Madeira
+- Produto Resinoso
+- Resina
+- Taxa
+relationships:
+- type: cites
+  target: pt:dre:166056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432602:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:29:38Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +132,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os n.os 2.º, 3.º, 6.º, 8.º, 9.º e 10.º do artigo 3.º, o artigo 4.º e seu § único, os n.os 3.º e 4.º do artigo 9.º o artigo 16.º, o artigo 19.º, o artigo 24.º e seu n.º 5.º e o artigo 25.º do [Decreto n.º 27001](https://diariodarepublica.pt/dr/detalhe/decreto/27001-1936-363708), de 12 de Setembro de 1936, passam a ter a seguinte redacção:
+Artigo 1.º Os n.os 2.º, 3.º, 6.º, 8.º, 9.º e 10.º do artigo 3.º, o artigo 4.º e seu § único, os n.os 3.º e 4.º do artigo 9.º o artigo 16.º, o artigo 19.º, o artigo 24.º e seu n.º 5.º e o artigo 25.º do [Decreto n.º 27001](https://diariodarepublica.pt/dr/detalhe/decreto/27001-1936-363708), de 12 de Setembro de 1936, passam a ter a seguinte redacção:
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 1.º ...
 
@@ -117,7 +158,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 4.º A Junta Nacional dos Resinosos é constituída pelo modo seguinte:
+Art. 4.º A Junta Nacional dos Resinosos é constituída pelo modo seguinte:
 
 Um presidente da Junta.
 
@@ -137,7 +178,7 @@ Um representante da 2.ª secção e outro representante da 7.ª secção, ambas 
 
 ...
 
-###### Art. 9.º ...
+Art. 9.º ...
 
 1.º ...
 
@@ -153,7 +194,7 @@ Um representante da 2.ª secção e outro representante da 7.ª secção, ambas 
 
 ...
 
-###### Art. 16.º Serão cobradas as seguintes taxas:
+Art. 16.º Serão cobradas as seguintes taxas:
 
 a) Pela exportação de madeiras, 0,25 por cento sobre o valor dos contratos de exportação;
 
@@ -173,7 +214,7 @@ b) Pelos produtos resinosos, por cada quilograma de peso líquido de pez e aguar
 
 ...
 
-###### Art. 19.º É obrigatória a inscrição na Junta Nacional dos Resinosos dos industriais e dos comerciantes de madeiras e seus derivados e de produtos resinosos, seus derivados e subprodutos de natureza resinosa.
+Art. 19.º É obrigatória a inscrição na Junta Nacional dos Resinosos dos industriais e dos comerciantes de madeiras e seus derivados e de produtos resinosos, seus derivados e subprodutos de natureza resinosa.
 
 § 1.º Consideram-se desde já inscritos na Junta Nacional dos Resinosos os actuais sócios do Grémio dos Industriais de Produtos Resinosos, do Grémio dos Exportadores de Produtos Resinosos e do Grémio dos Exportadores de Madeiras.
 
@@ -181,7 +222,7 @@ b) Pelos produtos resinosos, por cada quilograma de peso líquido de pez e aguar
 
 ...
 
-###### Art. 24.º Além dos deveres estabelecidos nas leis vigentes, os industriais e comerciantes de madeiras e seus derivados, dos produtos resinosos, seus derivados e subprodutos de natureza resinosa ficam sujeitos às seguintes obrigações:
+Art. 24.º Além dos deveres estabelecidos nas leis vigentes, os industriais e comerciantes de madeiras e seus derivados, dos produtos resinosos, seus derivados e subprodutos de natureza resinosa ficam sujeitos às seguintes obrigações:
 
 1.º ...
 
@@ -199,18 +240,18 @@ b) Pelos produtos resinosos, por cada quilograma de peso líquido de pez e aguar
 
 ...
 
-###### Art. 25.º O não cumprimento das obrigações impostas por este decreto, respectivos regulamentos e determinações da Junta, dará lugar à aplicação das penalidades previstas no artigo 48.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
+Art. 25.º O não cumprimento das obrigações impostas por este decreto, respectivos regulamentos e determinações da Junta, dará lugar à aplicação das penalidades previstas no artigo 48.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
 
 ...
 
-###### Art. 2.º O artigo 19.º do [Decreto n.º 27001](https://diariodarepublica.pt/dr/detalhe/decreto/27001-1936-363708) só se aplicará aos industriais e comerciantes de madeiras não exportadores, e de seus derivados e aos industriais e comerciantes de derivados de produtos resinosos e de subprodutos de natureza resinosa quando, em portaria, o Secretário de Estado do Comércio fixar os requisitos da respectiva inscrição.
+Art. 2.º O artigo 19.º do [Decreto n.º 27001](https://diariodarepublica.pt/dr/detalhe/decreto/27001-1936-363708) só se aplicará aos industriais e comerciantes de madeiras não exportadores, e de seus derivados e aos industriais e comerciantes de derivados de produtos resinosos e de subprodutos de natureza resinosa quando, em portaria, o Secretário de Estado do Comércio fixar os requisitos da respectiva inscrição.
 
-###### Art. 3.º Os funcionários superiores e de fiscalização da Junta Nacional dos Resinosos poderão entrar livremente em quaisquer estações e cais de embarque, mesmo quando sujeitos à fiscalização aduaneira, mediante a apresentação de cartão de identidade que como tais os acredite.
+Art. 3.º Os funcionários superiores e de fiscalização da Junta Nacional dos Resinosos poderão entrar livremente em quaisquer estações e cais de embarque, mesmo quando sujeitos à fiscalização aduaneira, mediante a apresentação de cartão de identidade que como tais os acredite.
 
 § único. Os cartões de identidade a que se refere o corpo deste artigo são passados pelo presidente da Junta e autenticados com o respectivo selo em branco.
 
-###### Art. 4.º Ficam revogados o artigo 21.º do [Decreto n.º 29630](https://diariodarepublica.pt/dr/detalhe/decreto/29630-1939-198356), de 25 de Maio de 1939, Os §§ 1.º, 2.º e 3.º do artigo 18.º deste mesmo decreto, com a nova redacção que lhes foi dada pelo artigo 1.º do [Decreto n.º 32856](https://diariodarepublica.pt/dr/detalhe/decreto/32856-1943-397114), de 18 de Junho de 1943, e o artigo 2.º e seus parágrafos deste último decreto.
+Art. 4.º Ficam revogados o artigo 21.º do [Decreto n.º 29630](https://diariodarepublica.pt/dr/detalhe/decreto/29630-1939-198356), de 25 de Maio de 1939, Os §§ 1.º, 2.º e 3.º do artigo 18.º deste mesmo decreto, com a nova redacção que lhes foi dada pelo artigo 1.º do [Decreto n.º 32856](https://diariodarepublica.pt/dr/detalhe/decreto/32856-1943-397114), de 18 de Junho de 1943, e o artigo 2.º e seus parágrafos deste último decreto.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Junho de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - José do Nascimento Ferreira Dias Júnior - João Augusto Dias Rosas.

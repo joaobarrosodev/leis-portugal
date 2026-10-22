@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/05/09903/0000400005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/229-c/2026/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/229-c-2026-1125795286
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-22T00:00:00Z'
+  retrieved_at: '2026-10-22T18:41:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94f38be4465f07e952688a2ed375da28f3bb21733b86145f21370879cdb5d9c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9a332480424b4d0ecc0fd2d74b4ea3f6c4cc99b2da68fabaa4a277729308eb2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:41:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Especificação Técnica
 - Combustível
+- Especificação Técnica
 - Gasolina
 - Mercado Interno
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:89/2008
+  label: Altera, a título excecional e temporário, a partir de 23 de maio de 2026 e até 30 de setembro de 2026, as especificações
+    das gasolinas destinadas ao mercado interno nacional, no que respeita ao limite máximo da tensão de vapor, previstas no
+    Decreto-Lei n.º 89/2008, de 30 de maio, Diário da República n.º 104/2008, Série I
+  source: null
+  date: '2008-05-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/89/2008/05/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/89/2008/05/30/p/dre
+- type: cites
+  target: pt:dre:448966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928479766:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:41:51Z'
   warnings: []
   errors: []
 ---
@@ -131,4 +146,6 @@ A presente portaria tem por objeto a alteração, a título excecional e tempor�
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e vigora até 30 de setembro de 2026.
 
-**O Secretário de Estado Adjunto e da Energia, Jean Paulo Gil Barroca, em 22 de maio de 2026.**
+O Secretário de Estado Adjunto e da Energia, Jean Paulo Gil Barroca, em 22 de maio de 2026.
+
+119948624

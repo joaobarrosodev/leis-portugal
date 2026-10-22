@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/70/2007/07/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/70-2007-636054
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:08:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5448a43469790d6c7bb549a04044563a86641307a4e46ca856fb4571ed7f044
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6815c1e2726219242df10c69f94867fe8d16aa621f3454d3fd3896ff3d562b7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:08:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,31 +68,43 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro de Emprego
-- Instituto do Emprego e Formação Profissional
-- Pessoal Dirigente
 - Estatuto
+- Instituto do Emprego e Formação Profissional
 - Instituto Público
 - Pessoal de Chefia
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:494176:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:494176:por
+  label: "Aditados os arts. 7.º-A, 22.º-A, 27.º-A, alterado o anexo I, revogados o n.º 3 do art 7.º, o n.º 2 do art. 22.º,\
+    \ o n.º 4 do art. 26.º e o n.º 3 do art. 27.º, todos dos Estatutos do Instituto do Emprego e Formação Profissional, I.\
+    \ P., aprovados pela Port 637/2007, de 30-Mai, rectificada pela presente declaração e republicados em anexo, com a redacção\
+    \ actual, pela PORT.570/2009.29.05.2009.MFAP, DR.IS [104] de 29.05.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/570-2009-494176
+  date: '2009-05-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/213/2007/05/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/213/2007/05/29/p/dre
+- type: cites
+  target: pt:dre:638534:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:08:56Z'
   warnings: []
   errors: []
 ---

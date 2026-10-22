@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45045-1963-627646
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-12-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:34:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e04b7a273730141e2e943269a591b6dfc46933bfa5f50b457d1e2a76f157c79b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53c74d043e07dbd47ab42d1e46dd983ff9d9ff764ad3cfdbb790498bf47a6769
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:34:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Ultramarina
+- Criação de Lugares
+- Extinção de Lugares
+- Ministério do Ultramar
+- Orgânica
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal de Chefia
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:517412:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517412:por
+  label: "Dada nova redacção ao art. 3º pelo DEC.46068.07.12.1964.MU, DG.IS [286-Supl] de 07.12.1964\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/46068-1964-517412
+  date: '1964-12-07'
+- type: cites
+  target: pt:dre:238409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251243:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:34:57Z'
   warnings: []
   errors: []
 ---
@@ -99,25 +121,25 @@ Por motivo de urgência e nos termos do § 1.º do artigo 150.º da Constituiç�
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º do mesmo diploma, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Na província da Guiné os serviços de agricultura e florestas e os serviços de veterinária passam a constituir duas repartições provinciais distintas.
+Artigo 1.º Na província da Guiné os serviços de agricultura e florestas e os serviços de veterinária passam a constituir duas repartições provinciais distintas.
 
-###### Art. 2.º A chefia dos serviços provinciais de que trata o artigo anterior será exercida, em comissão, por funcionários dos respectivos quadros, de conformidade com as regras aplicáveis do n.º V da base XLI da Lei Orgânica do Ultramar Português e com o disposto no artigo seguinte.
+Art. 2.º A chefia dos serviços provinciais de que trata o artigo anterior será exercida, em comissão, por funcionários dos respectivos quadros, de conformidade com as regras aplicáveis do n.º V da base XLI da Lei Orgânica do Ultramar Português e com o disposto no artigo seguinte.
 
-###### Art. 3.º O lugar de chefe da Repartição Provincial dos Serviços de Agricultura e Florestas será desempenhado por um engenheiro agrónomo de 1.ª classe e o de chefe da Repartição Provincial dos Serviços de Veterinária por um médico veterinário de 1.ª classe.
+Art. 3.º O lugar de chefe da Repartição Provincial dos Serviços de Agricultura e Florestas será desempenhado por um engenheiro agrónomo de 1.ª classe e o de chefe da Repartição Provincial dos Serviços de Veterinária por um médico veterinário de 1.ª classe.
 
-###### Art. 4.º Os quadros do pessoal das Repartições Provinciais dos Serviços de Agricultura e Florestas e dos Serviços de Veterinária são os que estão presentemente atribuídos, respectivamente, à secção de agricultura e à secção de veterinária dos actuais serviços de agricultura e veterinária com as alterações resultantes do disposto no artigo 5.º e seus parágrafos.
+Art. 4.º Os quadros do pessoal das Repartições Provinciais dos Serviços de Agricultura e Florestas e dos Serviços de Veterinária são os que estão presentemente atribuídos, respectivamente, à secção de agricultura e à secção de veterinária dos actuais serviços de agricultura e veterinária com as alterações resultantes do disposto no artigo 5.º e seus parágrafos.
 
 § único. Os funcionários das referidas secções transitam, mediante simples portaria do Ministro do Ultramar e independentemente de nova nomeação, visto e posse, para os correspondentes lugares das novas repartições provinciais, observando-se, porém, o disposto no artigo seguinte.
 
-###### Art. 5.º Um dos lugares de médico veterinário de 1.ª classe previstos no quadro da actual secção de veterinária considerar-se-á extinto logo que seja nomeado o chefe dos serviços provinciais de veterinária.
+Art. 5.º Um dos lugares de médico veterinário de 1.ª classe previstos no quadro da actual secção de veterinária considerar-se-á extinto logo que seja nomeado o chefe dos serviços provinciais de veterinária.
 
 § 1.º Transita para o quadro dos serviços provinciais de veterinária, mediante simples portaria do governador da província e independentemente de nova nomeação, visto e posse, o segundo-oficial da actual secção de agricultura.
 
 § 2.º São criados um lugar de aspirante e um lugar de dactilógrafo para o quadro do pessoal de nomeação da Repartição Provincial de Veterinária.
 
-###### Art. 6.º No corrente ano económico as despesas de todas as classes dos serviços provinciais de agricultura e florestas e de veterinária serão satisfeitas pelas disponibilidades das verbas inscritas no orçamento geral da província da Guiné para o ano de 1963, respectivamente, para a secção de agricultura e para a secção de veterinária dos actuais serviços de agricultura e veterinária, procedendo-se ao seu reforço, se for necessário, com contrapartida em recursos orçamentais.
+Art. 6.º No corrente ano económico as despesas de todas as classes dos serviços provinciais de agricultura e florestas e de veterinária serão satisfeitas pelas disponibilidades das verbas inscritas no orçamento geral da província da Guiné para o ano de 1963, respectivamente, para a secção de agricultura e para a secção de veterinária dos actuais serviços de agricultura e veterinária, procedendo-se ao seu reforço, se for necessário, com contrapartida em recursos orçamentais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Maio de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

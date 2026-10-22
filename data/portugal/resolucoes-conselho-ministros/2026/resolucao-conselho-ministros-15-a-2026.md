@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/15-a/2026/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-a-2026-1031110273
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:30:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ba5ca7d7574debc0aeb3506b486b1346455d9219ba0bada6e0a5cea7adccc61
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ab14a78b71bb4b8ad7667a2d973ecd9a1f9da4be1b6935670fb8690928c0407
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:30:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conselho de Ministros
-- Regulamentação de Atos Legislativos
 - Indemnização Compensatória
 - Museus e Monumentos de Portugal
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/13-a/2025/03/10/p/dre
@@ -102,16 +102,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/11/2025/01/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/11/2025/01/24/p/dre
+- type: cites
+  target: pt:dre:221225700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:904742813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:910323298:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:30:47Z'
   warnings: []
   errors: []
 ---
@@ -144,10 +176,12 @@ Nos termos da alínea e) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 197/99](
 
 4 - Determinar que os encargos financeiros decorrentes da presente resolução são satisfeitos por verbas inscritas na entidade contabilística Gestão Administrativa e Financeira do Ministério da Cultura, na fonte de financiamento 311 - receitas de impostos não afetas a projetos cofinanciados.
 
-5 - Determinar que as transferências a que se referem os n.<sup>os</sup>1 e 3 pressupõem a observância das condições de prestação do serviço público que as justificam, nos termos do artigo 45.º do [Decreto-Lei n.º 13-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), de 10 de março, e do artigo 3.º do anexo i do [Decreto-Lei n.º 79/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2023-221225700), de 4 de setembro, na sua redação atual.
+5 - Determinar que as transferências a que se referem os n.os1 e 3 pressupõem a observância das condições de prestação do serviço público que as justificam, nos termos do artigo 45.º do [Decreto-Lei n.º 13-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), de 10 de março, e do artigo 3.º do anexo i do [Decreto-Lei n.º 79/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2023-221225700), de 4 de setembro, na sua redação atual.
 
 6 - Determinar que, durante o primeiro semestre de 2026, são desenvolvidos os trabalhos necessários à contratualização da prestação do serviço público, a prestar, a partir de 2027, pela Museus e Monumentos de Portugal, E. P. E., nos termos previstos no artigo 48.º do [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, na sua redação atual.
 
 7 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 22 de janeiro de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119947541

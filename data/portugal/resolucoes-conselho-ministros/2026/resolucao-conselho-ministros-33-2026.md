@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/33/2026/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/33-2026-1057506183
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-23T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a58478607255a9d4eb8bd77b796324c69276345b419ca241f27470fcb72a97eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b945e2a28629e72fb209bf9e64987fe7e4d98d316c2c3c6b64af4418776cb37f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conselho de Administração
-- Serviços Partilhados do Ministério da Saúde
+- Ministério da Saúde
 - Nomeação
 - Presidente
-- Ministério da Saúde
+- Serviços Partilhados do Ministério da Saúde
 - Vogal
 relationships:
 - type: cites
@@ -92,23 +92,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611341:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:58Z'
   warnings: []
   errors: []
 ---
 
 # Resolução do Conselho de Ministros n.º 33/2026
 
-Nos termos do disposto nos n.<sup>os</sup>2 e 3 do artigo 7.º e no n.º 2 do artigo 13.º dos Estatutos da SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E., aprovados em anexo ao [Decreto-Lei n.º 19/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2010-611341), de 22 de março, e no artigo 21.º do [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, os membros do conselho de administração daquela entidade são designados sob proposta dos membros do Governo responsáveis pelas áreas das finanças e da saúde, para um mandato de três anos, sendo-lhes aplicável o Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março.
+Nos termos do disposto nos n.os2 e 3 do artigo 7.º e no n.º 2 do artigo 13.º dos Estatutos da SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E., aprovados em anexo ao [Decreto-Lei n.º 19/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2010-611341), de 22 de março, e no artigo 21.º do [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, os membros do conselho de administração daquela entidade são designados sob proposta dos membros do Governo responsáveis pelas áreas das finanças e da saúde, para um mandato de três anos, sendo-lhes aplicável o Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março.
 
 Atendendo a que os atuais membros do conselho de administração da SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E., cessaram o respetivo mandato a 31 de dezembro de 2025, torna-se necessário proceder à designação dos membros deste órgão estatutário, para um mandato de três anos.
 
@@ -118,7 +138,7 @@ Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](h
 
 Assim:
 
-Nos termos dos n.<sup>os</sup>2 e 3 do artigo 7.º e do artigo 13.º dos Estatutos aprovados em anexo ao [Decreto-Lei n.º 19/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2010-611341), de 22 de março, em conjugação com o disposto no artigo 12.º, nos n.<sup>os</sup>1 a 3 do artigo 13.º, no artigo 15.º e na alínea c) do n.º 3 do artigo 20.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, e nas alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos dos n.os2 e 3 do artigo 7.º e do artigo 13.º dos Estatutos aprovados em anexo ao [Decreto-Lei n.º 19/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2010-611341), de 22 de março, em conjugação com o disposto no artigo 12.º, nos n.os1 a 3 do artigo 13.º, no artigo 15.º e na alínea c) do n.º 3 do artigo 20.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, e nas alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Designar, para exercerem funções no conselho de administração da SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E., no mandato 2026-2028, os seguintes membros, cuja idoneidade, experiência e competências profissionais para o desempenho do cargo são evidenciadas nas respetivas notas curriculares, que constam do anexo à presente resolução e da qual faz parte integrante:
 
@@ -177,3 +197,5 @@ Iniciou a carreira em sistemas de informação e consultoria tecnológica. Desen
 É autora de publicações no domínio da cibersegurança e transformação digital.
 
 Foi distinguida com louvor pelo diretor-geral do Gabinete Nacional de Segurança, publicado no Diário da República.
+
+119947753

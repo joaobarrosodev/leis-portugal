@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1964/04/08200/04720474.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45642-1964-471726
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-06-23T00:00:00Z'
+  retrieved_at: '2026-10-22T19:40:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09a316f1e37a08209800aa3ad035ed15532121a396ff1a5c7eec0b6111969568
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e488c9bcc39cae73c31cbef59525294a45f13b7aad496f0ddfd8328fbe88b510
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:40:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Radioamador
+- Regulamento de Postos de Amador
 relationships:
 - type: amended_by
   target: pt:dre:452497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:182375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411363:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:452497:por
+  label: "Revogado pelo DR.56/83.1983.06.23.MHOPT, DR.IS [142]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/56-1983-452497
+  date: '1983-06-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:40:07Z'
   warnings: []
   errors: []
 ---
@@ -93,11 +108,11 @@ Nestes termos e de acordo com o preceituado no artigo 24.º do [Decreto-Lei n.º
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São alterados ou suprimidos, nos termos a seguir indicados, os artigos 4.º e 5.º, § único do artigo 9.º, artigos 10.º, 11.º, 12.º, 14.º e 15.º, alínea d) do artigo 19.º, artigo 22.º, § único da artigo 26.º, artigo 29.º e seu § 1.º, artigo 32.º e seu § único, artigos 35.º, 36.º, 37.º, 38.º, 48.º e seu § único, artigos 59.º, 63.º, 70.º, 75.º e 78.º, alíneas d) e e) do artigo 82.º e artigos 87.º, 88.º e 100.º do Regulamento dos Postos de Amador, aprovado pelo [Decreto n.º 36438](https://diariodarepublica.pt/dr/detalhe/decreto/36438-1947-182375), de 29 de Julho de 1947, e já modificado pelos Decretos n.os 37714 e 38030, de 30 de Dezembro de 1949 e 3 de Novembro de 1950, respectivamente:
+Artigo 1.º São alterados ou suprimidos, nos termos a seguir indicados, os artigos 4.º e 5.º, § único do artigo 9.º, artigos 10.º, 11.º, 12.º, 14.º e 15.º, alínea d) do artigo 19.º, artigo 22.º, § único da artigo 26.º, artigo 29.º e seu § 1.º, artigo 32.º e seu § único, artigos 35.º, 36.º, 37.º, 38.º, 48.º e seu § único, artigos 59.º, 63.º, 70.º, 75.º e 78.º, alíneas d) e e) do artigo 82.º e artigos 87.º, 88.º e 100.º do Regulamento dos Postos de Amador, aprovado pelo [Decreto n.º 36438](https://diariodarepublica.pt/dr/detalhe/decreto/36438-1947-182375), de 29 de Julho de 1947, e já modificado pelos Decretos n.os 37714 e 38030, de 30 de Dezembro de 1949 e 3 de Novembro de 1950, respectivamente:
 
-###### Art. 4.º A potência de um emissor de amador é, para efeitos deste regulamento, a soma das potências de dissipação anódica máximas admissíveis das válvulas utilizadas no andar final desse emissor, tomadas de harmonia com os dados dos respectivos fabricantes.
+Art. 4.º A potência de um emissor de amador é, para efeitos deste regulamento, a soma das potências de dissipação anódica máximas admissíveis das válvulas utilizadas no andar final desse emissor, tomadas de harmonia com os dados dos respectivos fabricantes.
 
-###### Art. 5.º Os operadores amadores serão agrupados nas categorias seguintes:
+Art. 5.º Os operadores amadores serão agrupados nas categorias seguintes:
 
 Categoria B. - Os operadores amadores desta categoria poderão utilizar estações fixas de amador com emissores até à potência de 400 W, bem como estações móveis de amador, umas e outras em qualquer faixa de frequências autorizada para o serviço de amador.
 
@@ -107,25 +122,25 @@ Categoria E. - Os operadores amadores desta categoria poderão utilizar estaçõ
 
 ...
 
-###### Art. 9.º ...
+Art. 9.º ...
 
 § único. (Suprimido).
 
-###### Art. 10.º A renovação da carta de operador amador será feita pela Direcção dos Serviços Radioeléctricos dos CTT a requerimento do interessado e mediante prova de que este comunicou, durante os últimos seis meses, com, pelo menos, três estações de amador.
+Art. 10.º A renovação da carta de operador amador será feita pela Direcção dos Serviços Radioeléctricos dos CTT a requerimento do interessado e mediante prova de que este comunicou, durante os últimos seis meses, com, pelo menos, três estações de amador.
 
-###### Art. 11.º O antigo titular de carta de operador amador que não haja requerido a renovação da sua carta no prazo fixado no artigo 9.º poderá em qualquer data obter carta para a categoria a que pertencia desde que seja aprovado em novo exame de aptidão para essa mesma categoria.
+Art. 11.º O antigo titular de carta de operador amador que não haja requerido a renovação da sua carta no prazo fixado no artigo 9.º poderá em qualquer data obter carta para a categoria a que pertencia desde que seja aprovado em novo exame de aptidão para essa mesma categoria.
 
-###### Art. 12.º O ingresso nas categorias C ou E depende de aprovação em exame de aptidão para a respectiva categoria.
-
-...
-
-###### Art. 14.º (Suprimido).
-
-###### Art. 15.º Só será autorizada a passagem de um operador amador da categoria C para a categoria B ou o ingresso de um operador amador da categoria E na categoria C se se verificar que na categoria a que pertence satisfez nos últimos doze meses, operando estação própria, ao preceituado na regulamentação em vigor.
+Art. 12.º O ingresso nas categorias C ou E depende de aprovação em exame de aptidão para a respectiva categoria.
 
 ...
 
-###### Art. 19.º ...
+Art. 14.º (Suprimido).
+
+Art. 15.º Só será autorizada a passagem de um operador amador da categoria C para a categoria B ou o ingresso de um operador amador da categoria E na categoria C se se verificar que na categoria a que pertence satisfez nos últimos doze meses, operando estação própria, ao preceituado na regulamentação em vigor.
+
+...
+
+Art. 19.º ...
 
 d) Transmissão e recepção telegráfica em código morse de linguagem clara à velocidade de 50 letras por minuto ou a outra superior que o candidato pretenda (considerando-se cada algarismo ou sinal de pontuação como duas letras) de um texto de 250 caracteres.
 
@@ -133,17 +148,17 @@ O número máximo de erros admitidos é de cinco na prova de emissão e de oito 
 
 ...
 
-###### Art. 22.º O exame de aptidão para a categoria E versará sobre o indicado na alínea a) do artigo 19.º e realizar-se-á em local e data a designar pela Direcção dos Serviços Radioeléctricos dos CTT. Do júri fará parte, pelo menos, um delegado da rede dos emissores portugueses.
+Art. 22.º O exame de aptidão para a categoria E versará sobre o indicado na alínea a) do artigo 19.º e realizar-se-á em local e data a designar pela Direcção dos Serviços Radioeléctricos dos CTT. Do júri fará parte, pelo menos, um delegado da rede dos emissores portugueses.
 
 ...
 
-###### Art. 26.º ...
+Art. 26.º ...
 
 § único. Conjuntamente à entrega do requerimento o candidato satisfará a respectiva taxa de exame, no valor de 50$00.
 
 ...
 
-###### Art. 29.º As licenças para instalação e utilização de estações fixas de amador são válidas por períodos renováveis máximos de cinco anos. O limite da validade da licença não excederá, porém, o da validade da carta de operador amador respectiva que estiver em vigor.
+Art. 29.º As licenças para instalação e utilização de estações fixas de amador são válidas por períodos renováveis máximos de cinco anos. O limite da validade da licença não excederá, porém, o da validade da carta de operador amador respectiva que estiver em vigor.
 
 § 1.º A renovação da licença é feita mediante requerimento dirigido à Direcção dos Serviços Radioeléctricos dos CTT e entregue dentro dos 90 dias anteriores ao seu termo de validade. O requerimento deve ser acompanhado pelo diário da estação e pela licença a renovar.
 
@@ -151,7 +166,7 @@ O número máximo de erros admitidos é de cinco na prova de emissão e de oito 
 
 ...
 
-###### Art. 32.º A montagem e utilização de estações móveis são objecto de licença especial, válida por períodos renováveis de um ano, mas não excedendo o limite de validade da carta de operador amador respectiva. A primeira licença é concedida mediante pagamento da taxa de 100$00 e requerimento do qual conste:
+Art. 32.º A montagem e utilização de estações móveis são objecto de licença especial, válida por períodos renováveis de um ano, mas não excedendo o limite de validade da carta de operador amador respectiva. A primeira licença é concedida mediante pagamento da taxa de 100$00 e requerimento do qual conste:
 
 a) Nome, morada, filiação e naturalidade do requerente;
 
@@ -165,27 +180,27 @@ d) Características da instalação radioeléctrica.
 
 ...
 
-###### Art. 35.º Por cada instalação radioeléctrica de amador os CTT cobrarão, adiantadamente, uma taxa semestral ou trimestral das importâncias seguintes:
+Art. 35.º Por cada instalação radioeléctrica de amador os CTT cobrarão, adiantadamente, uma taxa semestral ou trimestral das importâncias seguintes:
 
 Taxa semestral - 100$00.
 
 Taxa trimestral - 55$00.
 
-###### Art. 36.º (Suprimido).
+Art. 36.º (Suprimido).
 
-###### Art. 37.º Qualquer que seja a modalidade de pagamento escolhida e a que se refere o artigo 35.º, será cobrada de início uma taxa igual ao produto de 20$00 pelo número de meses necessários (incluindo o mês em que é concedida a licença) para acertar os pagamentos futuros por trimestres ou semestres civis, consoante o caso; não se terá em conta o termo de validade da licença.
+Art. 37.º Qualquer que seja a modalidade de pagamento escolhida e a que se refere o artigo 35.º, será cobrada de início uma taxa igual ao produto de 20$00 pelo número de meses necessários (incluindo o mês em que é concedida a licença) para acertar os pagamentos futuros por trimestres ou semestres civis, consoante o caso; não se terá em conta o termo de validade da licença.
 
-###### Art. 38.º A passagem da forma de pagamento trimestral para semestral, a pedido do titular da licença, só terá início no semestre civil que se siga aos dois meses posteriores ao pedido.
+Art. 38.º A passagem da forma de pagamento trimestral para semestral, a pedido do titular da licença, só terá início no semestre civil que se siga aos dois meses posteriores ao pedido.
 
 ...
 
-###### Art. 48.º Os emissores das estações fixas de amador deverão estar montados por forma que, com aparelhos exteriores ligados a terminais neles existentes, se possa medir a potência de alimentação anódica do andar final.
+Art. 48.º Os emissores das estações fixas de amador deverão estar montados por forma que, com aparelhos exteriores ligados a terminais neles existentes, se possa medir a potência de alimentação anódica do andar final.
 
 § único. Os emissores radiotelefónicos de estações fixas, com potência superior a 30 W, deverão dispor de um sistema avisador de sobremodulação.
 
 ...
 
-###### Art. 59.º As emissões radioeléctricas das estações de amador poderão efectuar-se nas classes seguintes, definidas no Regulamento das Radiocomunicações (Genebra, 1959), respeitando-se as restrições impostas no presente regulamento e nos avisos a que se refere o artigo 61.º:
+Art. 59.º As emissões radioeléctricas das estações de amador poderão efectuar-se nas classes seguintes, definidas no Regulamento das Radiocomunicações (Genebra, 1959), respeitando-se as restrições impostas no presente regulamento e nos avisos a que se refere o artigo 61.º:
 
 AO ou FO. - Ondas persistentes em que as oscilações são idênticas em regime permanente; a sua utilização deverá fazer-se apenas em curtos períodos para fins de afinação;
 
@@ -201,15 +216,15 @@ Além destas classes, poderá a Direcção dos Serviços Radioeléctricos dos CT
 
 ...
 
-###### Art. 63.º A potência dos emissores das estações móveis de amador não excederá 30 W.
+Art. 63.º A potência dos emissores das estações móveis de amador não excederá 30 W.
 
 ...
 
-###### Art. 70.º (Suprimido).
+Art. 70.º (Suprimido).
 
 ...
 
-###### Art. 75.º A primeira entrada em funcionamento de um emissor de amador, após a concessão da licença, será precedida de vistoria, que compreenderá, pelo menos:
+Art. 75.º A primeira entrada em funcionamento de um emissor de amador, após a concessão da licença, será precedida de vistoria, que compreenderá, pelo menos:
 
 a) A determinação da potência do emissor;
 
@@ -223,11 +238,11 @@ e) A observação, pela Direcção dos Serviços Radioeléctricos dos CTT, de um
 
 ...
 
-###### Art. 78.º Se na vistoria a que se refere o artigo 75.º, efectuada em data a comunicar ao titular da licença, ou noutras quaisquer subsequentes, incluindo as referidas no artigo 79.º-A, se verificar que a instalação não satisfaz às prescrições estabelecidas, esta só poderá ser autorizada a funcionar após nova vistoria, a realizar no prazo que for fixado, e mediante o pagamento da importância de 100$00.
+Art. 78.º Se na vistoria a que se refere o artigo 75.º, efectuada em data a comunicar ao titular da licença, ou noutras quaisquer subsequentes, incluindo as referidas no artigo 79.º-A, se verificar que a instalação não satisfaz às prescrições estabelecidas, esta só poderá ser autorizada a funcionar após nova vistoria, a realizar no prazo que for fixado, e mediante o pagamento da importância de 100$00.
 
 ...
 
-###### Art. 82.º ...
+Art. 82.º ...
 
 d) A prestar aos operadores amadores a necessária assistência, de modo a garantir que o trabalho das várias estações de amador se execute nas devidas condições;
 
@@ -235,7 +250,7 @@ e) A publicar e a manter actualizado um manual destinado ao uso dos candidatos a
 
 ...
 
-###### Art. 87.º Os operadores amadores proprietários das estações ficam sujeitos às seguintes penalidades pecuniárias:
+Art. 87.º Os operadores amadores proprietários das estações ficam sujeitos às seguintes penalidades pecuniárias:
 
 a) Por infracção do artigo 27.º: multa de 1000$00 a 10000$00, se se tratar de estação fixa; multa de 2000$00 a 20000$00, se se tratar de estação móvel. O material será apreendido até pagamento da multa.
 
@@ -251,7 +266,7 @@ e) Por infracção dos artigos 85.º ou 86.º: multa de 200$00;
 
 f) Por infracção da parte final do artigo 60.º: multa correspondente ao triplo da taxa telefónica aplicável por um período de três minutos, se a comunicação for feita por via radiotelefónica, ou ao triplo da taxa aplicável a um telegrama-carta com o mínimo regulamentar de palavras, se a comunicação for feita por via radiotelegráfica; se o operador amador que efectuou a comunicação não é o proprietário da estação, ser-lhe-á aplicada a pena de suspensão da carta de operador por um período de dez dias, independentemente da penalidade aplicável ao proprietário da estação.
 
-###### Art. 88.º Além das penalidades pecuniárias previstas no artigo 87.º, podem ser aplicadas aos operadores amadores as seguintes sanções:
+Art. 88.º Além das penalidades pecuniárias previstas no artigo 87.º, podem ser aplicadas aos operadores amadores as seguintes sanções:
 
 a) Suspensão de funcionamento até quinze dias.
 
@@ -267,22 +282,22 @@ c) Suspensão definitiva de funcionamento e cancelamento da carta de operador am
 
 ...
 
-###### Art. 100.º (Suprimido).
+Art. 100.º (Suprimido).
 
-###### Art. 2.º São aditados ao citado Regulamento dos Postos de Amador os artigos 79.º-A, 101.º, 102.º e 103.º, com a redacção seguinte:
+Art. 2.º São aditados ao citado Regulamento dos Postos de Amador os artigos 79.º-A, 101.º, 102.º e 103.º, com a redacção seguinte:
 
-###### Art. 79.º-A Além da vistoria a que se refere o artigo 75.º, a Direcção dos Serviços Radioeléctricos dos CTT pode, em qualquer altura e sem aviso prévio, efectuar vistorias sempre que o entenda conveniente.
+Art. 79.º-A Além da vistoria a que se refere o artigo 75.º, a Direcção dos Serviços Radioeléctricos dos CTT pode, em qualquer altura e sem aviso prévio, efectuar vistorias sempre que o entenda conveniente.
 
 ...
 
-###### Art. 101.º As cartas de operador amador da categoria D passadas nos termos do [Decreto n.º 36438](https://diariodarepublica.pt/dr/detalhe/decreto/36438-1947-182375), de 29 de Julho de 1947, alterado pelos Decretos n.os 37714, de 30 de Dezembro de 1949, e 38030, de 3 de Novembro de 1950, manter-se-ão em vigor até ao fim do seu termo de validade, conferindo aos seus titulares os direitos que constavam das referidas disposições legais aplicáveis.
+Art. 101.º As cartas de operador amador da categoria D passadas nos termos do [Decreto n.º 36438](https://diariodarepublica.pt/dr/detalhe/decreto/36438-1947-182375), de 29 de Julho de 1947, alterado pelos Decretos n.os 37714, de 30 de Dezembro de 1949, e 38030, de 3 de Novembro de 1950, manter-se-ão em vigor até ao fim do seu termo de validade, conferindo aos seus titulares os direitos que constavam das referidas disposições legais aplicáveis.
 
 Durante a sua validade poderão aquelas cartas ser substituídas, por simples requerimento dos interessados e mediante o pagamento da taxa de 50$00, por cartas de operador amador da categoria E, válidas por cinco anos, a contar da data da sua concessão. O direito de utilização de estações radiotelefónicas de amador em frequências inferiores a 144 MHz não pode, porém, nesse caso, ir além de cinco anos, a contar da data da concessão da carta de operador amador da categoria D.
 
-###### Art. 102.º As cartas de operador amador da categoria A serão substituídas, no fim da sua validade, por cartas de operador amador da categoria B. Enquanto tal substituição se não fizer, elas dão aos seus titulares todos os direitos conferidos pela categoria B do presente decreto.
+Art. 102.º As cartas de operador amador da categoria A serão substituídas, no fim da sua validade, por cartas de operador amador da categoria B. Enquanto tal substituição se não fizer, elas dão aos seus titulares todos os direitos conferidos pela categoria B do presente decreto.
 
-###### Art. 103.º Manter-se-á, até ao fim do trimestre civil da publicação do presente decreto, a forma mensal de pagamento da taxa a que se refere o artigo 35.º do [Decreto n.º 36438](https://diariodarepublica.pt/dr/detalhe/decreto/36438-1947-182375), de 29 de Julho de 1947, para os operadores amadores que por ela tinham optado. No trimestre seguinte a forma de pagamento passará a trimestral.
+Art. 103.º Manter-se-á, até ao fim do trimestre civil da publicação do presente decreto, a forma mensal de pagamento da taxa a que se refere o artigo 35.º do [Decreto n.º 36438](https://diariodarepublica.pt/dr/detalhe/decreto/36438-1947-182375), de 29 de Julho de 1947, para os operadores amadores que por ela tinham optado. No trimestre seguinte a forma de pagamento passará a trimestral.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Abril de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Carlos Gomes da Silva Ribeiro.

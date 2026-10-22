@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/38/2026/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/38-2026-1060895762
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T18:33:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1f70e8319b61c5dd36d1f6091dc583b8f3fa0fadd763c39f094b319524a8684
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da19780f1cdcc5d7962acded17b13ead5f62fb6180435c2159d8d6125c4198b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:33:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autorização de Despesas
+- Banco Português de Fomento
+- Entidade do Tesouro e Finanças
 - Fundo de Contragarantia Mútuo
 - Linha de Crédito
-- Banco Português de Fomento
 - Situação de Calamidade
-- Entidade do Tesouro e Finanças
 - Tempestade Kristin
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:17-B/2026
+  label: Altera, a partir de 27 de fevereiro de 2026, os n.ºs 1,7 e o anexo a que se referem os n.ºs 7 e 8 da Resolução do
+    Conselho de Ministros n.º 17-B/2026, de 3 de fevereiro, Diário da República n.º 23/2026, Suplemento, Série I
+  source: null
+  date: '2026-02-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -114,16 +120,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/17-b/2026/02/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/17-b/2026/02/03/p/dre
+- type: cites
+  target: pt:dre:1031784677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1031784680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1034987175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1039064235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1039332367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:993270096:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:33:43Z'
   warnings: []
   errors: []
 ---
@@ -148,9 +202,9 @@ Assim:
 
 Nos termos do artigo 25.º do [Decreto-Lei n.º 155/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1992-275619), de 28 de julho, do n.º 2 do artigo 1.º e do artigo 11.º do [Decreto-Lei n.º 167/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2008-453551), de 26 de agosto, do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, da [Lei n.º 112/97](https://diariodarepublica.pt/dr/detalhe/lei/112-1997-649166), de 16 de setembro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Alterar os n.<sup>os</sup>1 e 7 da [Resolução do Conselho de Ministros n.º 17-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-b-2026-1034987175), de 3 de fevereiro, que passam a ter a seguinte redação:
+1 - Alterar os n.os1 e 7 da [Resolução do Conselho de Ministros n.º 17-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-b-2026-1034987175), de 3 de fevereiro, que passam a ter a seguinte redação:
 
-«1 - Aprovar, no âmbito da reconstrução das zonas afetadas pela tempestade ‘Kristin’, a criação das ‘Linhas de Apoio à Reconstrução’ (Linhas), destinadas a apoiar as empresas e outras pessoas coletivas, bem como entidades públicas de âmbito regional ou local, abrangidas pela situação de calamidade decretada nos termos das Resoluções do Conselho de Ministros n.<sup>os</sup>[15-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-b-2026-1031784677), de 30 de janeiro, [15-C/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-c-2026-1031784680), de 1 de fevereiro, e [24-A/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/24-a-2026-1039064235), de 5 de fevereiro, e eventuais prorrogações das mesmas, com um montante máximo de financiamento de 2000 milhões de euros e com as seguintes finalidades e montantes indicativos:
+«1 - Aprovar, no âmbito da reconstrução das zonas afetadas pela tempestade ‘Kristin’, a criação das ‘Linhas de Apoio à Reconstrução’ (Linhas), destinadas a apoiar as empresas e outras pessoas coletivas, bem como entidades públicas de âmbito regional ou local, abrangidas pela situação de calamidade decretada nos termos das Resoluções do Conselho de Ministros n.os[15-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-b-2026-1031784677), de 30 de janeiro, [15-C/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-c-2026-1031784680), de 1 de fevereiro, e [24-A/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/24-a-2026-1039064235), de 5 de fevereiro, e eventuais prorrogações das mesmas, com um montante máximo de financiamento de 2000 milhões de euros e com as seguintes finalidades e montantes indicativos:
 
 a) [...]
 
@@ -162,7 +216,7 @@ a) Até 467 milhões de euros, a favor do Fundo de Contragarantia Mútuo (FCGM),
 
 b) Até 104 milhões de euros, a favor do BPF, para efeitos de liquidação de conversão em valores não reembolsáveis, mediante comprovação de critérios de desempenho a definir protocolarmente, incluindo a comissão de estruturação desenvolvimento e montagem.»
 
-2 - Alterar o anexo a que se referem os n.<sup>os</sup>7 e 8 da [Resolução do Conselho de Ministros n.º 17-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-b-2026-1034987175), de 3 de fevereiro, com a redação constante do anexo à presente resolução e da qual faz parte integrante.
+2 - Alterar o anexo a que se referem os n.os7 e 8 da [Resolução do Conselho de Ministros n.º 17-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-b-2026-1034987175), de 3 de fevereiro, com a redação constante do anexo à presente resolução e da qual faz parte integrante.
 
 3 - Autorizar o reforço da concessão das garantias pelo Fundo de Contragarantia Mútuo, no âmbito do reforço das Linhas, na componente da «Linha de crédito à tesouraria», elevando o respetivo montante máximo de financiamento de 500 milhões de euros para 1000 milhões de euros, passando a exposição máxima daquelas garantias para 400 milhões de euros, por forma a assegurar a cobertura das Linhas no montante global de até 2000 milhões de euros, mantendo-se inalteradas as restantes condições gerais e constantes do anexo ao [Despacho n.º 1532-A/2026](https://diariodarepublica.pt/dr/detalhe/despacho/1532-a-2026-1039332367), publicado no Diário da República, 2.ª série, n.º 26, de 6 de fevereiro de 2026.
 
@@ -174,13 +228,17 @@ Presidência do Conselho de Ministros, 12 de fevereiro de 2026. - O Primeiro-Min
 
 «ANEXO
 
-(a que se referem os n.<sup>os</sup> 7 e 8)
+(a que se referem os n.os 7 e 8)
 
 Programação dos encargos plurianuais da Linha de Apoio à Reconstrução
 
-| Unidade: Milhões de EUR | Unidade: Milhões de EUR | Unidade: Milhões de EUR | Unidade: Milhões de EUR | Unidade: Milhões de EUR | Unidade: Milhões de EUR | Unidade: Milhões de EUR | Unidade: Milhões de EUR | Unidade: Milhões de EUR | Unidade: Milhões de EUR | Unidade: Milhões de EUR | Unidade: Milhões de EUR | Unidade: Milhões de EUR | Unidade: Milhões de EUR |  |
+| Unidade: Milhões de EUR |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Entidade recetora da transferência | Fonte de financiamento | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | Total |  |
 | FCGM | Capítulo 60 - Despesas excecionais | 117 | 52 | 52 | 52 | 52 | 52 | 18 | 18 | 18 | 18 | 18 | 467 |  |
 | BPF | Capítulo 60 - Despesas excecionais | 4 | 0 | 0 | 100 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 104 |  |
 | Total |  | 121 | 52 | 52 | 152 | 52 | 52 | 18 | 18 | 18 | 18 | 18 | 571 | » |
+
+119947823
+
+.Tbl2 { min-height:15px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl4 { text-align:right; } .Tbl5 { border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl6 { height:26px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl8 { text-align:center; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl11 { border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl12 { min-height:28px; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl16 { border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl17 { min-height:21px; } .Tbl18 { text-indent:0px; }

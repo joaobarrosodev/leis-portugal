@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/387/2012/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/387-2012-175170
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-10T00:00:00Z'
+  retrieved_at: '2026-10-22T18:24:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3f10ba63e8713f49d9d5aa877527b2d917c354979e9d88683d97ee8ca45625c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 458382ffaa45187c25c80f62854fab04ba7079b1bad02399cf0530285ab68874
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:24:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Inconstitucionalidade
-- Madeira.região Autónoma
 - Infraestrutura Turística
+- Madeira.região Autónoma
+- Ordenamento do Território
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
@@ -113,16 +113,108 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/53/2007/04/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/53/2007/04/04/p/dre
+- type: cites
+  target: pt:dre:173966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692199:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:24:07Z'
   warnings: []
   errors: []
 ---
@@ -423,17 +515,17 @@ Assim:
 
 A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, da alínea c) do n.º 1 do artigo 37.º e das alíneas i) e t) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o seguinte:
 
-###### Artigo 1.º
+Artigo 1.º
 
 1 - É suspensa a parte final do n.º 1 do artigo 1.º das normas de execução do Plano de Ordenamento Turístico da Região Autónoma da Madeira, que constituem o anexo i do [Decreto Legislativo Regional n.º 17/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2002-173966), de 29 de agosto, alterado pelo [Decreto Legislativo Regional n.º 12/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2007-519606), de 16 de abril, no que se refere ao limite máximo de alojamento turístico na ilha de Porto Santo.
 
 2 - São igualmente suspensos o n.º 2 do artigo 1.º e os artigos 2.º, 8.º, 9.º, 11.º e 14.º das normas de execução do Plano de Ordenamento Turístico da Região Autónoma da Madeira, que constituem o anexo i do [Decreto Legislativo Regional n.º 17/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2002-173966), de 29 de agosto, alterado pelo [Decreto Legislativo Regional n.º 12/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2007-519606), de 16 de abril.
 
-###### Artigo 2.º
+Artigo 2.º
 
 A suspensão determinada pelo presente diploma vigora até à revisão do Plano de Ordenamento Turístico da Região Autónoma da Madeira.
 
-###### Artigo 3.º
+Artigo 3.º
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.»
 
@@ -453,7 +545,7 @@ c) Área dos concelhos de Câmara de Lobos, da Ribeira Brava, da Ponta do Sol e 
 
 d) Área dos concelhos de Santana, de São Vicente e de Porto Moniz - 2500 camas.
 
-###### Artigo 2.º
+Artigo 2.º
 
 1 - Os empreendimentos, obras ou ações neste âmbito sectorial não totalmente conformes com o regime previsto no presente diploma e que pelas suas características ou dimensão sejam suscetíveis de induzir um significativo impacte social e económico podem, fundamentada e excecionalmente, ser admitidos, assegurada a prossecução dos respetivos objetivos, através dos mecanismos de concertação de conflitos de interesse públicos representados pelos sujeitos da Administração Pública previstos na legislação aplicável.
 
@@ -461,11 +553,11 @@ d) Área dos concelhos de Santana, de São Vicente e de Porto Moniz - 2500 camas
 
 ...
 
-###### Artigo 8.º
+Artigo 8.º
 
 Nos espaços urbanos são admitidos estabelecimentos hoteleiros e aldeamentos turísticos com uma capacidade máxima, por unidade de exploração, de 80 camas e apartamentos/moradias turísticas com uma capacidade máxima de 60 camas.
 
-###### Artigo 9.º
+Artigo 9.º
 
 Nos espaços agroflorestais são admitidas as seguintes tipologias, com capacidade máxima, por unidade de exploração, de 80 camas:
 
@@ -481,7 +573,7 @@ e) Moradias turísticas.
 
 ...
 
-###### Artigo 11.º
+Artigo 11.º
 
 Podem ser admitidos empreendimentos turísticos com capacidade superior às estabelecidas no presente Plano, nas seguintes condições:
 
@@ -491,7 +583,7 @@ b) Quando se trate de empreendimentos turísticos de tipo resort que, pelas suas
 
 ...
 
-###### Artigo 14.º
+Artigo 14.º
 
 1 - Para efeitos do previsto no artigo 11.º, consideram-se estabelecimentos hoteleiros de tipo resort os constituídos por diversos edifícios que disponham entre eles de espaços livres e espaços verdes para utilização dos utentes, bem como de equipamentos e serviços de recreio e lazer de uso comum, sujeitos a uma mesma exploração hoteleira.
 

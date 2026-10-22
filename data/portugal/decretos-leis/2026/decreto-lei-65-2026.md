@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/65/2026/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2026-1066993459
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-05T00:00:00Z'
+  retrieved_at: '2026-10-22T18:34:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f24bdfc527c57e7ebb1318bab45eec9b34af85d12710a06b32d065331ca4523c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5893c1dd67983713a8a0be5202f3219565d6483d9557c2341d7b359d79a726a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:34:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
 - Acesso à Informação
-- Direito de Acesso
-- Bilheteira
-- Espetáculos e Divertimentos Públicos
-- Atestado Médico
-- Inspecção Geral das Actividades Culturais
-- Comissão Gratuita de Serviço
-- Igualdade de Tratamento
 - Acompanhamento Familiar
-- Informação do Consumidor
-- Instituto Nacional para a Reabilitação
-- Plataforma Eletrónica
-- Maior Acompanhado
+- Atestado Médico
+- Bilheteira
+- Comissão Gratuita de Serviço
 - Contraordenação
+- Deficiente
+- Direito de Acesso
+- Espetáculos e Divertimentos Públicos
+- Igualdade de Tratamento
+- Informação do Consumidor
+- Inspecção Geral das Actividades Culturais
+- Instituto Nacional para a Reabilitação
+- Maior Acompanhado
+- Plataforma Eletrónica
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:125/2003
+  label: Adita, a partir de 10 de março de 2026, os artigos 3.º-A e 3.º-B ao Decreto-Lei n.º 125/2003, de 20 de junho, Diário
+    da República n.º 140/2003, Série I-A
+  source: null
+  date: '2003-06-20'
+- type: amends
+  target: pt:numero:decreto-lei:23/2014
+  label: Altera, a partir de 10 de março de 2026, os artigos 8.º, 36.º e adita os artigos 8.º-A e 8.º-B, ao Decreto-Lei n.º
+    23/2014, de 14 de fevereiro, Diário da República n.º 32/2014, Série I
+  source: null
+  date: '2014-02-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/125/2003/06/20/p/dre
   label: null
@@ -106,16 +118,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/38/2004/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/38/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:122960393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692851:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:34:39Z'
   warnings: []
   errors: []
 ---
@@ -188,11 +224,13 @@ Os artigos 8.º e 36.º do [Decreto-Lei n.º 23/2014](https://diariodarepublica.
 
 10 - Para efeitos do número anterior, o bilhete de acompanhante é intransmissível e apenas válido quando emitido em simultâneo com o bilhete da pessoa com deficiência, para a mesma sessão, data e horário.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
 
-1 - Constitui contraordenação punível com coima entre 250,00 EUR e 2500,00 EUR, no caso das pessoas singulares, e de 500,00 EUR a 15 000,00 EUR, no caso das pessoas coletivas, a violação do disposto no n.º 4 do artigo 3.º, no n.º 2 do artigo 4.º, nos n.<sup>os</sup>1 e 4 do artigo 6.º, nos n.<sup>os</sup>1 e 3 do artigo 7.º, nos n.<sup>os</sup>1, 3 e 5 do artigo 8.º, no artigo 9.º, nos n.<sup>os</sup>3 e 5 do artigo 10.º, no n.º 7 do artigo 16.º, no n.º 2 do artigo 18.º, no n.º 5 do artigo 22.º, no n.º 2 do artigo 27.º, nos n.<sup>os</sup>2 e 6 do artigo 28.º, no n.º 11 do artigo 29.º, no n.º 6 do artigo 31.º e no n.º 4 do artigo 34.º
+[...]
 
-2 - Constitui contraordenação punível com coima entre 600,00 EUR e 3000,00 EUR, no caso das pessoas singulares, e de 1200,00 EUR a 30 000,00 EUR, no caso das pessoas coletivas, a violação do disposto no n.º 1 do artigo 3.º, no n.º 1 do artigo 4.º, no n.º 1 do artigo 5.º, nos n.<sup>os</sup>2, 6, 8 e 9 do artigo 8.º, no n.º 1 do artigo 8.º-A, no n.º 1 do artigo 12.º, nos n.<sup>os</sup>1 e 2 do artigo 13.º, nos n.<sup>os</sup>1 e 2 do artigo 14.º, nos n.<sup>os</sup>1 e 6 do artigo 16.º, no n.º 3 do artigo 21.º, no n.º 3 do artigo 21.º-A, no n.º 2 do artigo 22.º, no n.º 1 do artigo 26.º, nos n.<sup>os</sup>3, 7 a 9 e 12 a 14 do artigo 29.º, no n.º 1 do artigo 29.º-A e no n.º 5 do artigo 30.º»
+1 - Constitui contraordenação punível com coima entre 250,00 EUR e 2500,00 EUR, no caso das pessoas singulares, e de 500,00 EUR a 15 000,00 EUR, no caso das pessoas coletivas, a violação do disposto no n.º 4 do artigo 3.º, no n.º 2 do artigo 4.º, nos n.os1 e 4 do artigo 6.º, nos n.os1 e 3 do artigo 7.º, nos n.os1, 3 e 5 do artigo 8.º, no artigo 9.º, nos n.os3 e 5 do artigo 10.º, no n.º 7 do artigo 16.º, no n.º 2 do artigo 18.º, no n.º 5 do artigo 22.º, no n.º 2 do artigo 27.º, nos n.os2 e 6 do artigo 28.º, no n.º 11 do artigo 29.º, no n.º 6 do artigo 31.º e no n.º 4 do artigo 34.º
+
+2 - Constitui contraordenação punível com coima entre 600,00 EUR e 3000,00 EUR, no caso das pessoas singulares, e de 1200,00 EUR a 30 000,00 EUR, no caso das pessoas coletivas, a violação do disposto no n.º 1 do artigo 3.º, no n.º 1 do artigo 4.º, no n.º 1 do artigo 5.º, nos n.os2, 6, 8 e 9 do artigo 8.º, no n.º 1 do artigo 8.º-A, no n.º 1 do artigo 12.º, nos n.os1 e 2 do artigo 13.º, nos n.os1 e 2 do artigo 14.º, nos n.os1 e 6 do artigo 16.º, no n.º 3 do artigo 21.º, no n.º 3 do artigo 21.º-A, no n.º 2 do artigo 22.º, no n.º 1 do artigo 26.º, nos n.os3, 7 a 9 e 12 a 14 do artigo 29.º, no n.º 1 do artigo 29.º-A e no n.º 5 do artigo 30.º»
 
 ###### Artigo 4.º — Aditamento ao [Decreto-Lei n.º 23/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2014-572446), de 14 de fevereiro
 
@@ -210,7 +248,9 @@ Bilhete gratuito para acompanhante de pessoa com deficiência
 
 4 - Para efeitos do número anterior, os responsáveis pelos espaços culturais referidos no n.º 1 devem transmitir à IGAC e ao INR, I. P., até ao dia 31 de janeiro de cada ano, os dados relativos à emissão dos bilhetes do ano anterior.
 
-###### Artigo 8.º-B — Critérios de comprovação da deficiência
+Artigo 8.º-B
+
+Critérios de comprovação da deficiência
 
 Para efeitos de atribuição de bilhete gratuito ao acompanhante de pessoa com deficiência, é apresentado:
 
@@ -232,7 +272,9 @@ Emissão de bilhete gratuito para acompanhante de pessoa com deficiência
 
 3 - O tratamento e a transmissão dos dados relativos a estes bilhetes devem respeitar o Regulamento Geral sobre a Proteção de Dados e a legislação nacional aplicável.
 
-###### Artigo 3.º-B — Relatório de acessibilidade cultural
+Artigo 3.º-B
+
+Relatório de acessibilidade cultural
 
 1 - Os promotores de espetáculos de natureza artística devem transmitir à Inspeção-Geral das Atividades Culturais (IGAC) e ao Instituto Nacional para a Reabilitação, I. P. (INR, I. P.), os dados relativos à emissão dos bilhetes referidos no artigo anterior.
 
@@ -264,12 +306,14 @@ Emissão de bilhete gratuito para acompanhante de pessoa com deficiência
 
 Visto e aprovado em Conselho de Ministros de 29 de janeiro de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Manuel Castro Almeida - Rosário Palma Ramalho - Margarida Balseiro Lopes.
 
-**Promulgado em 14 de fevereiro de 2026.**
+Promulgado em 14 de fevereiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 17 de fevereiro de 2026.**
+Referendado em 17 de fevereiro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119947833

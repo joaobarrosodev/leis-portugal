@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 149/2000, 2º Suplemento, Série I-B de 2000-06-30
   number: '149'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2860-(6) a 2860-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/06/149b02/00060006.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/7-i/2000/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-i-2000-145029
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-06-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:56:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 418c37c0021641d1b4e5f5eec9cf900e220c071634095f1a225c969ce789a7c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6739bcc6a4b2104b295cbb4d102d4bc6687f5873761459b5f06f5a8e595b495
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:56:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretaria Regional do Turismo e Cultura
 - Centro de Estudos de História do Atlântico
-- Governo Regional
 - Conselho Regional da Cultura e Animação
 - Conselho Regional do Turismo
-- Direcção Regional dos Assuntos Culturais
 - Direcção Regional de Turismo
-- Orgânica
+- Direcção Regional dos Assuntos Culturais
+- Governo Regional
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
+- Secretaria Regional do Turismo e Cultura
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declrectif/6-q/2000/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/declrectif/6-q/2000/05/31/p/dre
+- type: cites
+  target: pt:dre:522263:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:56:48Z'
   warnings: []
   errors: []
 ---
@@ -101,10 +105,10 @@ Para os devidos efeitos se declara que a [Declaração de Rectificação n.º 6-
 
 No quadro IV, «Direcção Regional dos Assuntos Culturais», onde se lê:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/06/149b02/00060006.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/06/149b02/00060006.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149b02/00060006.pdf)
 
 deve ler-se:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/06/149b02/00060006.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/06/149b02/00060006.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149b02/00060006.pdf)
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Junho de 2000. - O Secretário-Geral, Alexandre Figueiredo.

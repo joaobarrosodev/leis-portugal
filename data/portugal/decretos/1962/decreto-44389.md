@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44389-1962-164798
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-06-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:29:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93d3e71537da0ea226855876ff8f6c8fcd09e7f0daecc5a6bccaf8dd9f8b9081
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e41b12bf51356d3811e64d26788d67c37faf516fa7624282aa61fbdb1068183
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:29:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:29:40Z'
   warnings: []
   errors: []
 ---
@@ -91,10 +95,10 @@ Tendo em vista O disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção-Geral dos Serviços Hidráulicos a celebrar contrato com o engenheiro civil Luís Adriano Pinto dos Santos para a execução da empreitada de construção da ponte de Verride, sobre o rio Verride, pela importância, de 460000$00.
+Artigo 1.º É autorizada a Direcção-Geral dos Serviços Hidráulicos a celebrar contrato com o engenheiro civil Luís Adriano Pinto dos Santos para a execução da empreitada de construção da ponte de Verride, sobre o rio Verride, pela importância, de 460000$00.
 
-###### Art. 2.º Seja qual for o valor das obras a realizar não poderão despender-se com pagamentos relativos às obras executadas, por virtude do contrato, mais de 180000$00 no ano corrente, sendo 100000$00 pelo orçamento da Direcção-Geral dos Serviços Hidráulicos e 80000$00 pelo Fundo de Desemprego, e 280000$00, ou o que se apurar como saldo, no ano de 1963, pelo orçamento da mesma Direcção-Geral.
+Art. 2.º Seja qual for o valor das obras a realizar não poderão despender-se com pagamentos relativos às obras executadas, por virtude do contrato, mais de 180000$00 no ano corrente, sendo 100000$00 pelo orçamento da Direcção-Geral dos Serviços Hidráulicos e 80000$00 pelo Fundo de Desemprego, e 280000$00, ou o que se apurar como saldo, no ano de 1963, pelo orçamento da mesma Direcção-Geral.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Junho de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Eduardo de Arantes e Oliveira.

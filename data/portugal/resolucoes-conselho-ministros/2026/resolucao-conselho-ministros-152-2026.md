@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/152/2026/07/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/152-2026-1151816544
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-24T00:00:00Z'
+  retrieved_at: '2026-10-22T18:47:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23052a0a9dc4b2fce01973303c6c8a36caa7c251bfa91f2ccd28cac444b4f6db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9ef35a64610f0f1485cf0cd68d8172259c7e4e7c2f4b579ba55e9603dd105d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:47:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autoridade de Gestão
 - Comissão Directiva
 - Conselho de Ministros
+- Fundo para o Asilo, a Migração e a Integração
+- Governo XXV
 - Nomeação
 - Presidente
-- Autoridade de Gestão
-- Fundo para o Asilo
-- a Migração e a Integração
-- Governo XXV
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/4/2015/01/07/p/dre
@@ -95,16 +94,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/14/2023/02/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/14/2023/02/10/p/dre
+- type: cites
+  target: pt:dre:1135446598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206478423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207272802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210543873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:47:38Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +152,7 @@ Foi ouvida a Comissão de Recrutamento e Seleção para a Administração Públi
 
 Assim:
 
-Nos termos do n.º 4 do artigo 14.º e dos n.<sup>os</sup>3 e 4 do artigo 49.º do [Decreto-Lei n.º 5/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2023-206478423), de 25 de janeiro, do n.º 2 do artigo 49.º do Código do Procedimento Administrativo, aprovado em anexo ao [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos do n.º 4 do artigo 14.º e dos n.os3 e 4 do artigo 49.º do [Decreto-Lei n.º 5/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2023-206478423), de 25 de janeiro, do n.º 2 do artigo 49.º do Código do Procedimento Administrativo, aprovado em anexo ao [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Nomear, sob proposta do membro do Governo responsável pela área das migrações, para o cargo de presidente da comissão diretiva da autoridade de gestão do Programa do Fundo para o Asilo, a Migração e a Integração, para o período de programação 2021-2027, Fernando Miguel Machado Pereira da Silva Araújo, cuja idoneidade, competência técnica, aptidão, experiência profissional e formação para o adequado exercício das funções inerentes ao referido cargo são evidenciadas na respetiva nota curricular, que consta do anexo à presente resolução e da qual faz parte integrante.
 
@@ -177,8 +204,10 @@ Desde 2016 - Consultor de negócio e estratégia;
 
 2013/2015 - Adjunto do Gabinete do Ministro Adjunto e do Desenvolvimento Regional, XIX Governo Constitucional;
 
-2010/2013 - Gestor de comércio internacional, procurement, logística internacional, fornecedores internacionais e gestão de portfolio de clientes, José Neves & Cª, L.<sup>da</sup>;
+2010/2013 - Gestor de comércio internacional, procurement, logística internacional, fornecedores internacionais e gestão de portfolio de clientes, José Neves & Cª, L.da;
 
 2004 - Estagiário, Banco Espírito Santo, Guimarães - Moreira de Cónegos;
 
 2001 - Recenseador, Censos 2001, Instituto Nacional de Estatística, I. P.
+
+119949122

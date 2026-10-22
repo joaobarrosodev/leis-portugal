@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/27/2008/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/27-2008-249509
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-05-09T00:00:00Z'
+  retrieved_at: '2026-10-22T19:09:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77f1f828be95a65365bf121213c61919d47e4de32a60d15818b94dc66bfe4ed7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aaf563d20e70c6b758f4980f79b16ed8903bb284525d60acc3dde330a5a4071c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:09:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,73 +68,73 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Financeira do Estado
+- Administração Pública
 - ADSE
-- QREN
+- Agência para a Modernização Administrativa
 - Alteração Orçamental
+- Apoio ao Investimento
 - Aquisição de Bens e Serviços
-- Região Autónoma
-- Serviço Nacional de Bombeiros e Protecção Civil
-- Financiamento
-- Ministério das Finanças e da Administração Pública
-- Ministério da Defesa Nacional
-- Instituto do Emprego e Formação Profissional
-- Instituto Nacional de Estatística
-- Ministério da Administração Interna
-- Gestão Financeira
-- Ministério da Educação
-- Política de Cooperação
+- Autarquia Local
+- Autoridade Nacional de Protecção Civil
+- Caixa Geral de Aposentações
+- Contratação de Pessoal
+- Créditos do Estado
 - Despesas de Deslocação
 - Despesas Públicas
 - Direção Geral das Autarquias Locais
-- Direcção Geral de Infra-estruturas
+- Direção Geral do Orçamento
 - Direção Geral do Tesouro e Finanças
+- Direcção Geral de Infra-estruturas
+- Documento Eletrónico
 - Duodécimo
-- Administração Pública
-- Serviço Nacional de Saúde
-- Presidência Portuguesa
 - Execução do Orçamento
-- Caixa Geral de Aposentações
+- Financiamento
 - Formulário Eletrónico
 - Fundo de Estabilização Financeira da Segurança Social
 - Fundo de Maneio
-- Instituto de Gestão de Fundos de Capitalização da Segurança Social
-- Apoio ao Investimento
-- Projeto de Investimento
 - Fundos Autónomos
-- Créditos do Estado
-- Ministério do Trabalho e da Solidariedade Social
-- Pagamento
-- Palop
-- IRS
+- Gestão Financeira
 - Indep
 - Informação
 - Instituto Camões
 - Instituto de Gestão da Tesouraria e do Crédito Público
+- Instituto de Gestão de Fundos de Capitalização da Segurança Social
+- Instituto do Emprego e Formação Profissional
+- Instituto Nacional de Estatística
+- Instituto Português de Apoio ao Desenvolvimento
+- IRS
 - Locação Financeira
-- Documento Eletrónico
-- Contratação de Pessoal
-- Direção Geral do Orçamento
+- Ministério da Administração Interna
+- Ministério da Ciência Tecnologia e Ensino Superior
+- Ministério da Defesa Nacional
+- Ministério da Educação
+- Ministério das Finanças e da Administração Pública
+- Ministério do Trabalho e da Solidariedade Social
+- Ministério dos Negócios Estrangeiros
+- Ministro de Estado e das Finanças
 - Orçamento Geral do Estado
 - Organismo Autónomo
+- Pagamento
+- Palop
+- Pensões
 - Pessoa Colectiva de Direito Público
-- Tesouraria
+- Pessoal Docente
 - Piddac
 - Plano Oficial de Contabilidade Pública
-- Pessoal Docente
-- Pensões
-- Ministro de Estado e das Finanças
-- Instituto Português de Apoio ao Desenvolvimento
-- Programa Pagar a Tempo e Horas
-- Quadro de Excedentes
-- Agência para a Modernização Administrativa
-- Ministério dos Negócios Estrangeiros
-- Ministério da Ciência Tecnologia e Ensino Superior
-- Segurança Social
-- Autoridade Nacional de Protecção Civil
-- Sistema Bancário
-- Transferência de Verbas
-- Autarquia Local
+- Política de Cooperação
 - Portugal Vela 2007
+- Presidência Portuguesa
+- Programa Pagar a Tempo e Horas
+- Projeto de Investimento
+- QREN
+- Quadro de Excedentes
+- Região Autónoma
+- Segurança Social
+- Serviço Nacional de Bombeiros e Protecção Civil
+- Serviço Nacional de Saúde
+- Sistema Bancário
+- Tesouraria
+- Transferência de Verbas
 - Venda de Imóveis
 relationships:
 - type: cites
@@ -149,16 +149,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67-a/2007/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67-a/2007/12/31/p/dre
+- type: cites
+  target: pt:dre:247219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529450:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:41/2008
+  label: "Rectifica o Decreto-Lei n.º 41/2008, de 10 de Março, DR.IS [49]\0\0"
+  source: null
+  date: '2008-03-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:09:54Z'
   warnings: []
   errors: []
 ---

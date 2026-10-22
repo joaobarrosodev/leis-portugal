@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/136/2026/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2026-1145969703
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-10T00:00:00Z'
+  retrieved_at: '2026-10-22T18:46:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd26ade5bd7ff21bc8d117f5565eeab540c23f7ae3b9eafbeeac21515231f933
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e402e7e9f64c4da59743251ee1f701906df5da32e6771f0c421fbcf981e7c851
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:46:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,13 @@ subjects:
 - Regulamento CE
 - Sigilo Profissional
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:60/2008
+  label: Altera, a partir de 11 de julho de 2026, sendo aplicável ao plano de controlos para os anos de 2025/2026 e seguintes,
+    os artigos 1.º, 3.º, 7.º, 8.º e 10.º e revoga os artigos 2.º, 4.º, 5.º e 6.º, o n.º 2 do artigo 7.º e os artigos 9.º,
+    11.º, 12.º, 13.º, 14.º e 15.º do Decreto-Lei n.º 60/2008, de 27 de março, Diário da República n.º 61/2008, Série I
+  source: null
+  date: '2008-03-27'
 - type: cites
   target: celex:31989R4045
   label: null
@@ -104,16 +111,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/60/2008/03/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/60/2008/03/27/p/dre
+- type: cites
+  target: pt:dre:206478423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246476:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:46:17Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +165,9 @@ Os artigos 1.º, 3.º, 7.º, 8.º e 10.º do [Decreto-Lei n.º 60/2008](https://
 
 O presente decreto-lei estabelece o modelo de organização, as competências dos organismos de controlo e de acompanhamento e os procedimentos a observar pelas entidades nacionais para assegurar a execução dos controlos previstos nos artigos 76.º a 80.º do [Regulamento (UE) 2021/2116](https://data.europa.eu/eli/reg/2021/2116/oj?locale=pt), do Parlamento Europeu e do Conselho, de 2 de dezembro.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Os controlos previstos nos artigos 76.º a 80.º do [Regulamento (UE) 2021/2116](https://data.europa.eu/eli/reg/2021/2116/oj?locale=pt), do Parlamento Europeu e do Conselho, de 2 de dezembro, são realizados pelo Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), sem prejuízo do disposto no número seguinte.
 
@@ -162,7 +179,9 @@ O presente decreto-lei estabelece o modelo de organização, as competências do
 
 5 - Os organismos de controlo são competentes para emitir recomendações às empresas e estabelecer um prazo para o seu cumprimento, o qual não pode, em qualquer caso, ser inferior a 30 dias.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O IFAP, I. P., presta a informação que lhe venha a ser solicitada pela AT para efeitos de execução dos controlos indicados no n.º 2 do artigo 3.º
 
@@ -170,13 +189,17 @@ O presente decreto-lei estabelece o modelo de organização, as competências do
 
 3 - A AT remete ao IFAP, I. P., os relatórios de controlo, a fim de este Instituto assegurar, na qualidade de organismo pagador, nomeadamente, a recuperação dos montantes dos apoios recebidos, nos termos da alínea b) do n.º 2 do artigo 64.º do [Decreto-Lei n.º 5/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2023-206478423), de 25 de janeiro.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - As informações recolhidas no âmbito dos controlos a efetuar nos termos do presente decreto-lei e do [Regulamento (UE) 2021/2116](https://data.europa.eu/eli/reg/2021/2116/oj?locale=pt), do Parlamento Europeu e do Conselho, de 2 de dezembro, a qualquer das empresas ou outras entidades nestes visadas, estão abrangidas pelo sigilo profissional, não podendo ser comunicadas a outras pessoas ou entidades.
 
 2 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 A inobservância, por parte das empresas, das obrigações previstas neste decreto-lei e no [Regulamento (UE) 2021/2116](https://data.europa.eu/eli/reg/2021/2116/oj?locale=pt), do Parlamento Europeu e do Conselho, de 2 de dezembro, que impossibilitem o controlo da realidade e da regularidade das operações em causa, consubstancia irregularidade que tem como consequência a devolução dos montantes recebidos acrescidos de juros legais, nos termos do artigo 4.º do [Regulamento (CE, Euratom) n.º 2988/95](https://data.europa.eu/eli/reg/1995/2988/oj?locale=pt), do Conselho, de 18 de dezembro.»
 
@@ -190,12 +213,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e �
 
 Visto e aprovado em Conselho de Ministros de 30 de abril de 2026. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Joaquim Miranda Sarmento - José Manuel Fernandes.
 
-**Promulgado em 30 de junho de 2026.**
+Promulgado em 30 de junho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 3 de julho de 2026.**
+Referendado em 3 de julho de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119948998

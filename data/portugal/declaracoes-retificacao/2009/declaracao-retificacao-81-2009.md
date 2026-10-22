@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/81/2009/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/81-2009-483125
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:12:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c835171685d1711c68f3763450ce46a822bcabf950bebad325c2af1e0d7b8e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ebd5400eb785db7b77ee32fe46cfe4c923f68ac298910f045a139fd663664c71
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:12:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,31 +71,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Financiamento
-- Plano de Estudos
+- Agência de Avaliação e Acreditação do Ensino Superior
+- Biblioteca Nacional
+- Currículo Nacional
 - Depósito Legal
 - Diploma
+- Direção Geral do Ensino Superior
 - Diretor Geral
 - Doutoramento
 - Ensino Cooperativo
 - Ensino no Estrangeiro
 - Ensino Particular
-- Agência de Avaliação e Acreditação do Ensino Superior
+- Ensino Superior
 - Ensino Superior Politécnico
+- Estabelecimento de Ensino
+- Financiamento
 - Habilitações Literárias
-- Biblioteca Nacional
 - JURI
 - Licenciatura
 - Mestrado
-- Observatório da Ciência e do Ensino Superior
-- Direção Geral do Ensino Superior
 - Ministro da Ciência Tecnologia e Ensino Superior
-- Currículo Nacional
-- Estabelecimento de Ensino
+- Observatório da Ciência e do Ensino Superior
 - Pessoal Docente
+- Plano de Estudos
 - Propinas
 - Regime Jurídico
-- Ensino Superior
 - Sistema Educativo
 - TESE
 relationships:
@@ -115,16 +115,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/74/2006/03/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/74/2006/03/24/p/dre
+- type: cites
+  target: pt:dre:456200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:74/2006
+  label: "Rectifica o artigo 2.º (na parte em que dá nova redacção ao artigo 38.º do Decreto-Lei n.º 74/2006, de 24 de Março)\
+    \ do Decreto-Lei n.º 230/2009, de 14 de Setembro, DR.IS [178], que altera o Decreto-Lei n.º 74/2006, de 24 de Março, na\
+    \ redacção do Decreto-Lei n.º 107/2008, de 25 de Junho\0\0"
+  source: null
+  date: '2009-09-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:12:12Z'
   warnings: []
   errors: []
 ---

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 246/2006, 1º Suplemento, Série I de 2006-12-26
   number: '246'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8562-(2) a 8562-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2006/12/24601/00020002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/83-d/2006/12/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/83-d-2006-626269
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-26T00:00:00Z'
+  retrieved_at: '2026-10-22T19:07:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d74c1fa033b48b4af6b8cf69b2d72787b2280c9e75587b43354234206ad47171
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9230330cb59ee3c40acf2cadf26201d0bbb953a3d99536782823003cc0a2f273
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:07:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência para a Modernização Administrativa
 - ALTO Comissariado para a Imigração e Diálogo Intercultural
 - ALTO Comissariado para a Imigração e Minorias Étnicas
-- Reestruturação de Serviços
+- Autoridade Nacional de Protecção Civil
 - Autoridade Nacional de Segurança
+- Ceger
 - Cejur
-- Instituto Nacional de Estatística
-- Pessoal Dirigente
+- Centro de Estudos e Formação Autárquica
 - Comissão de Acompanhamento das Privatizações
 - Comissão Nacional de Protecção Civil
+- Comissão para a Cidadania e a Igualdade de Género
+- Comissão para a Igualdade e para os Direitos das Mulheres
 - Conselho de Ministros
 - Conselho Nacional Antidopagem
 - Conselho Nacional contra a Violência no Desporto
@@ -82,58 +85,64 @@ subjects:
 - Conselho Nacional de Planeamento Civil de Emergência
 - Conselho Nacional do Combate à Droga e a Toxicodependência
 - Conselho Superior de Informações
+- Conselho Superior de Segurança Interna
 - Conselho Superior do Desporto
 - Criação de Serviços
 - Digesto
 - Direção Geral das Autarquias Locais
 - Extinção de Serviços
-- Imprensa Nacional-Casa da Moeda
-- Secretaria Geral
+- Gabinete Coordenador de Segurança
 - Gabinete de Estudos Planeamento e Avaliação
-- Instituto Português da Juventude
 - Gabinete Nacional de Segurança
-- Instituto da Comunicação Social
-- Instituto do Desporto de Portugal
+- Gabinete para os Meios de Comunicação Social
+- Imprensa Nacional-Casa da Moeda
 - Inspecção Geral da Administração do Território
 - Inspecção Geral da Administração Local
-- Gabinete para os Meios de Comunicação Social
-- Integração de Serviços
-- Secretariado Entreculturas
-- Centro de Estudos e Formação Autárquica
+- Instituto da Comunicação Social
+- Instituto do Desporto de Portugal
+- Instituto Nacional de Estatística
 - Instituto para a Gestão das Lojas do Cidadão
-- Orgânica
-- Comissão para a Igualdade e para os Direitos das Mulheres
-- Ceger
-- Ministro de Estado e da Administração Interna
-- Presidência do Conselho de Ministros
-- Quadro de Pessoal
-- Agência para a Modernização Administrativa
-- Programa Escolhas
+- Instituto Português da Juventude
+- Integração de Serviços
 - Ministro da Presidência
-- Comissão para a Cidadania e a Igualdade de Género
+- Ministro de Estado e da Administração Interna
+- Orgânica
+- Pessoal Dirigente
+- Presidência do Conselho de Ministros
+- Programa Escolhas
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- Secretaria Geral
+- Secretariado Entreculturas
 - Secretário Geral
-- Sistema de Informações da República Portuguesa
-- Conselho Superior de Segurança Interna
-- Gabinete Coordenador de Segurança
 - Serviço de Informações de Segurança
 - Serviço de Informações Estratégicas de Defesa
-- Autoridade Nacional de Protecção Civil
 - Serviços Sociais
+- Sistema de Informações da República Portuguesa
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/202/2006/10/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/202/2006/10/27/p/dre
+- type: cites
+  target: pt:dre:545641:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:202/2006
+  label: "Rectifica o Decreto-Lei n.º 202/2006, de 27 de Outubro, DR.IS [208] \0\0"
+  source: null
+  date: '2006-10-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:07:11Z'
   warnings: []
   errors: []
 ---

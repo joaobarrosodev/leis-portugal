@@ -33,7 +33,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/10/20100/0011700137.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -55,18 +55,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/465/2019/10/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/465-2019-125468550
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-18T00:00:00Z'
+  retrieved_at: '2026-10-22T18:24:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d7f8b258ffeca700d65e3fd86601dc0bf45db3f6387974d3256ae92a9a0f383
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bdea9651154cafa3c5106a7f2ae69ec27a2899554143a65a692152ace6d41fa0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:24:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Processo Civil
-- Constituição de Sociedade
-- Inconstitucionalidade
-- Interpretação do Direito
+- Confidencialidade
+- Conselho Nacional de Procriação Medicamente Assistida
 - Constituição
+- Constituição de Sociedade
+- Gestação de Substituição
+- Inconstitucionalidade
+- Inseminação Artificial
+- Interpretação do Direito
 - Maternidade
 - Ordem dos Médicos
-- Procriação Medicamente Assistida
-- Conselho Nacional de Procriação Medicamente Assistida
-- Reprodução Humana
 - Parentalidade
-- Confidencialidade
-- Inseminação Artificial
-- Gestação de Substituição
+- Processo Civil
+- Procriação Medicamente Assistida
+- Reprodução Humana
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/actconst/225/2018/05/07/p/dre
@@ -130,15 +130,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/59/2007/09/04/p/dre
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:24:59Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +167,9 @@ Alteração à [Lei n.º 32/2006](https://diariodarepublica.pt/web/guest/pesquis
 
 Os artigos 8.º e 39.º da [Lei n.º 32/2006](https://diariodarepublica.pt/web/guest/pesquisa/-/search/539239/details/normal?l=1), de 26 de julho, passam a ter a seguinte redação:
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 [...]
 
@@ -209,7 +211,9 @@ Gestação de substituição
 
 8 - No tocante à validade e eficácia do consentimento das partes, ao regime dos negócios jurídicos de gestação de substituição e dos direitos e deveres das partes, bem como à intervenção do Conselho Nacional de Procriação Medicamente Assistida e da Ordem dos Médicos, é aplicável à gestação de substituição, com as devidas adaptações, o disposto no artigo 14.º da presente lei.
 
-###### Artigo 14.º — Consentimento
+Artigo 14.º
+
+Consentimento
 
 4 - O consentimento dos beneficiários é livremente revogável por qualquer deles até ao início dos processos terapêuticos de PMA.
 
@@ -574,3 +578,5 @@ Não houve, realmente, uma alteração relevante das circunstâncias de facto e 
 Dito por outras palavras, não sendo previsível que a decisão venha a ser diferente, não encontro razões fortes para me sentir "vinculado" a manifestar uma posição contrária às minhas convicções, até porque a estabilidade e a previsibilidade também são valores que se afirmam na pluralidade da composição do Tribunal. Mais do que às decisões anteriores do Colégio, que não tem um valor imutável, estou vinculado à Constituição e à interpretação que dela faço.
 
 Deste modo, e com os fundamentos constantes da declaração de voto que subscrevi no Acórdão n.º 225/20018, entendo que o Tribunal não se deveria ter pronunciado pela inconstitucionalidade das normas do decreto sub judice, que não permitem a revogação do consentimento da gestante de substituição após o início dos processos terapêuticos de Procriação Médica Assistida. - Claudio Monteiro.
+
+112637631

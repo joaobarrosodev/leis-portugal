@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44613-1962-160354
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-10-03T00:00:00Z'
+  retrieved_at: '2026-10-22T19:31:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9fd697431e49d80814e6e9d9a4693d71470437be1ff48a08f7a17cd51deada12
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 255cf2c8acf1e46cc25be22b672a788d83398d229ae63cb272f4292b5c3b5704
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:31:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:254848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669145:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:31:19Z'
   warnings: []
   errors: []
 ---
@@ -94,15 +102,15 @@ Considerando ainda que o Governo-Geral de Angola manifestou interesse na prorrog
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o Ministro do Ultramar a conceder à Companhia de Petróleos de Angola, S. A. R. L., a prorrogação por três anos, a partir de 1 de Janeiro de 1963, do período de exclusivo de pesquisas previsto no [Decreto n.º 38832](https://diariodarepublica.pt/dr/detalhe/decreto/38832-1952-669145), de 18 de Julho de 1952, com as alterações dos Decretos n.os 40416 e 41295, respectivamente de 3 de Dezembro de 1955 e 25 de Setembro de 1957, e nos contratos celebrados com o Estado, em especial do outorgado em 17 de Outubro de 1957 e inserto no Diário do Governo n.º 25, 3.ª série, de 30 de Janeiro de 1958.
+Artigo 1.º É autorizado o Ministro do Ultramar a conceder à Companhia de Petróleos de Angola, S. A. R. L., a prorrogação por três anos, a partir de 1 de Janeiro de 1963, do período de exclusivo de pesquisas previsto no [Decreto n.º 38832](https://diariodarepublica.pt/dr/detalhe/decreto/38832-1952-669145), de 18 de Julho de 1952, com as alterações dos Decretos n.os 40416 e 41295, respectivamente de 3 de Dezembro de 1955 e 25 de Setembro de 1957, e nos contratos celebrados com o Estado, em especial do outorgado em 17 de Outubro de 1957 e inserto no Diário do Governo n.º 25, 3.ª série, de 30 de Janeiro de 1958.
 
-###### Art. 2.º Serão excluídos do regime de pesquisas, considerando-se em fase de exploração, todos os campos petrolíferos reconhecidos pelo Estado como em produção na área da concessão.
+Art. 2.º Serão excluídos do regime de pesquisas, considerando-se em fase de exploração, todos os campos petrolíferos reconhecidos pelo Estado como em produção na área da concessão.
 
 § 1.º Para os efeitos deste artigo, a Companhia procederá à demarcação imediata das áreas respectivas, nos termos do § 1.º do artigo 6.º do [Decreto n.º 38832](https://diariodarepublica.pt/dr/detalhe/decreto/38832-1952-669145), de 18 de Julho de 1952, com a nova redacção que lhe foi dada pelo [Decreto n.º 41295](https://diariodarepublica.pt/dr/detalhe/decreto/41295-1957-254848), de 25 de Setembro de 1957.
 
 § 2.º De acordo com os interesses da província, o Governo-Geral de Angola usará da faculdade que lhe é atribuída pelo artigo 5.º do [Decreto n.º 38832](https://diariodarepublica.pt/dr/detalhe/decreto/38832-1952-669145), sempre que a concessionária deseje alienar os produtos resultantes das pesquisas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 3 de Outubro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

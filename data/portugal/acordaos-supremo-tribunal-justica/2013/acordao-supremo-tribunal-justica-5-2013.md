@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/5/2013/02/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/5-2013-258682
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-15T00:00:00Z'
+  retrieved_at: '2026-10-22T17:53:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f61bcfef68c234a96b8a1297b06eafed12c2703f00f754dbb465e539ce6d662e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69172ac5b8891e93df81e02e7c2a542d5b75863154e32dacaf306fad93c7cac0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:53:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
-- Contra-ordenação Laboral
-- Processo Laboral
-- Interpretação do Direito
-- Prazo Processual
 - Autoridade para as Condições do Trabalho
+- Contra-ordenação Laboral
+- Interpretação do Direito
+- Multa
+- Prazo Processual
+- Processo Laboral
 relationships:
 - type: cites
   target: 'eli:http:'
@@ -119,16 +119,252 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
+- type: cites
+  target: pt:dre:158581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573303:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694035:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:53:19Z'
   warnings: []
   errors: []
 ---
@@ -511,7 +747,7 @@ Estabelece o artigo 59.º (Forma e prazo), na redacção ainda vigente:
 
 Inovou no artigo 60.º (na redacção inicial, o preceito dispunha sobre renúncia ao recurso), ao estabelecer que:
 
-###### Artigo 60.º - (Contagem do prazo para impugnação), na redacção igualmente ainda vigente:
+Artigo 60.º - (Contagem do prazo para impugnação), na redacção igualmente ainda vigente:
 
 1 - O prazo para a impugnação da decisão da autoridade administrativa suspende-se aos sábados, domingos e feriados.
 

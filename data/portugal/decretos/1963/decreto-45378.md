@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 274/1963, 1º Suplemento, Série I de 1963-11-22
   number: '274'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1807 - 1813
   pdf_url: https://files.diariodarepublica.pt/1s/1963/11/27401/18071813.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45378-1963-611512
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-11-22T00:00:00Z'
+  retrieved_at: '2026-10-22T19:37:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51b212ac9fdafcd9944345581b441ee2aa161a36a4dfa2717dfd4ac81f86bb47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5ac1b9e501c893b7c879e7463d51ddb46852e001c4360d75e6b17feb3c546ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:37:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:627390:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:37:46Z'
   warnings: []
   errors: []
 ---
@@ -88,15 +92,15 @@ Nestes termos, ouvidos o governador e a secção permanente do Conselho de Gover
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aprovado o Estatuto Político-Administrativo da Província de Timor, que, junto a este decreto, baixa assinado pelo Ministro do Ultramar.
+Artigo 1.º É aprovado o Estatuto Político-Administrativo da Província de Timor, que, junto a este decreto, baixa assinado pelo Ministro do Ultramar.
 
-###### Art. 2.º O estatuto entrará em vigor em todo o território da província em 1 de Janeiro de 1964.
+Art. 2.º O estatuto entrará em vigor em todo o território da província em 1 de Janeiro de 1964.
 
-###### Art. 3.º - 1. O governador providenciará por forma que os Conselhos Legislativo e de Governo, sem dependência dos prazos estabelecidos no estatuto, possam começar a funcionar, com a sua nova constituição, em Abril de 1964.
+Art. 3.º - 1. O governador providenciará por forma que os Conselhos Legislativo e de Governo, sem dependência dos prazos estabelecidos no estatuto, possam começar a funcionar, com a sua nova constituição, em Abril de 1964.
 
 2. As eleições para os Conselhos Legislativo e de Governo deverão realizar-se até 31 de Março de 1964, para o que se procederá a novo recenseamento eleitoral de acordo com a legislação que estiver em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Novembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 
@@ -106,13 +110,13 @@ ESTATUTO POLÍTICO-ADMINISTRATIVO DA PROVÍNCIA DE TIMOR
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1. A província de Timor abrange a parte oriental da ilha de Timor, o território de Oé-Cussi Ambeno, a ilha de Ataúro e o ilhéu de Jaco, tendo por limites terrestres os designados na Convenção luso-holandesa de 1 de Outubro de 1904 e na sentença arbitral de 25 de Junho de 1914.
+Artigo 1.º - 1. A província de Timor abrange a parte oriental da ilha de Timor, o território de Oé-Cussi Ambeno, a ilha de Ataúro e o ilhéu de Jaco, tendo por limites terrestres os designados na Convenção luso-holandesa de 1 de Outubro de 1904 e na sentença arbitral de 25 de Junho de 1914.
 
 2. A capital da província é a cidade de Díli.
 
-###### Art. 2.º A província de Timor é pessoa colectiva de direito público e goza de autonomia administrativa e financeira, de harmonia com a Constituição Política, a Lei Orgânica do Ultramar e o presente estatuto.
+Art. 2.º A província de Timor é pessoa colectiva de direito público e goza de autonomia administrativa e financeira, de harmonia com a Constituição Política, a Lei Orgânica do Ultramar e o presente estatuto.
 
-###### Art. 3.º A representação da província compete ao governador ou, para actos determinados, a quem este designar. Nos tribunais será representada:
+Art. 3.º A representação da província compete ao governador ou, para actos determinados, a quem este designar. Nos tribunais será representada:
 
 a) Pelos agentes do Ministério Público, segundo a sua hierarquia;
 
@@ -122,19 +126,19 @@ b) Pelos representantes legalmente designados junto dos tribunais especiais.
 
 #### SECÇÃO I — Dos órgãos de governo
 
-###### Art. 4.º - 1. Os órgãos de governo próprios da província são o governador, o Conselho Legislativo e o Conselho de Governo.
+Art. 4.º - 1. Os órgãos de governo próprios da província são o governador, o Conselho Legislativo e o Conselho de Governo.
 
 2. Sob proposta do governador poderá, nos termos da base XXXI, II da Lei Orgânica do Ultramar, ser nomeado um secretário-geral para exercer o cargo em comissão.
 
-###### Art. 5.º As funções executivas serão exercidas pelo governador, que as poderá delegar, por meio de portaria e na medida que entender, no secretário-geral, quando o houver, e nos chefes de serviço, salvo em matéria de administração financeira.
+Art. 5.º As funções executivas serão exercidas pelo governador, que as poderá delegar, por meio de portaria e na medida que entender, no secretário-geral, quando o houver, e nos chefes de serviço, salvo em matéria de administração financeira.
 
-###### Art. 6.º A competência dos órgãos legislativos da província terá apenas os limites que resultam da competência da Assembleia Nacional, do Governo Central e do Ministro do Ultramar.
+Art. 6.º A competência dos órgãos legislativos da província terá apenas os limites que resultam da competência da Assembleia Nacional, do Governo Central e do Ministro do Ultramar.
 
 #### SECÇÃO II — Do governador
 
 ##### SUBSECÇÃO I — Disposições gerais
 
-###### Art. 7.º - 1. O governador é, em todo o território da província, o mais alto agente e representante do Governo da Nação Portuguesa e goza das honras que competem aos Ministros do Governo da República, tendo precedência sobre todas as entidades civis e militares que sirvam ou se encontrem naquele território, excluindo o Presidente da República, o Presidente do Conselho, o Presidente da Assembleia Nacional, o Presidente da Câmara Corporativa, os Ministros, Secretários e Subsecretários de Estado.
+Art. 7.º - 1. O governador é, em todo o território da província, o mais alto agente e representante do Governo da Nação Portuguesa e goza das honras que competem aos Ministros do Governo da República, tendo precedência sobre todas as entidades civis e militares que sirvam ou se encontrem naquele território, excluindo o Presidente da República, o Presidente do Conselho, o Presidente da Assembleia Nacional, o Presidente da Câmara Corporativa, os Ministros, Secretários e Subsecretários de Estado.
 
 2. O Palácio do Governo tem guarda militar permanente e nele será todos os dias, às horas regulamentares, solenemente içada e arriada a bandeira nacional. Nas cerimónias presididas pelo governador executa-se o hino nacional, desde que esteja presente banda de música.
 
@@ -142,13 +146,13 @@ b) Pelos representantes legalmente designados junto dos tribunais especiais.
 
 4. O depoimento, em juízo, do governador ou de quem as suas vezes fizer, como parte, declarante ou testemunha, quando prestado na província, será tomado na sua residência.
 
-###### Art. 8.º O governador não pode ausentar-se da província sem prévia autorização do Ministro do Ultramar, e quando haja de sair, com demora superior a 24 horas, da sede do Governo para qualquer parte do território, comunicá-lo-á telegràficamente ao Ministro do Ultramar.
+Art. 8.º O governador não pode ausentar-se da província sem prévia autorização do Ministro do Ultramar, e quando haja de sair, com demora superior a 24 horas, da sede do Governo para qualquer parte do território, comunicá-lo-á telegràficamente ao Ministro do Ultramar.
 
-###### Art. 9.º O governador terá um ajudante de campo e um secretário. A patente do ajudante de campo não poderá ser superior à de capitão ou primeiro-tenente.
+Art. 9.º O governador terá um ajudante de campo e um secretário. A patente do ajudante de campo não poderá ser superior à de capitão ou primeiro-tenente.
 
 ##### SUBSECÇÃO II — Da função legislativa do governador
 
-###### Art. 10.º O governador exerce a função legislativa:
+Art. 10.º O governador exerce a função legislativa:
 
 a) No intervalo das sessões do Conselho Legislativo;
 
@@ -156,11 +160,11 @@ b) Durante o funcionamento efectivo do Conselho Legislativo, em todas as matéri
 
 c) Quando o Conselho Legislativo haja sido dissolvido.
 
-###### Art. 11.º Para o exercício da sua competência legislativa o governador ouvirá sempre o Conselho de Governo, e bem assim quando tenha de emitir parecer sobre o estatuto político-administrativo da província, nos termos da base X, I alínea e), da Lei Orgânica do Ultramar.
+Art. 11.º Para o exercício da sua competência legislativa o governador ouvirá sempre o Conselho de Governo, e bem assim quando tenha de emitir parecer sobre o estatuto político-administrativo da província, nos termos da base X, I alínea e), da Lei Orgânica do Ultramar.
 
-###### Art. 12.º A competência legislativa do governador é exercida por meio de diplomas legislativos, publicados no Boletim Oficial e precedidos, em regra, de preâmbulo justificativo, donde constará sempre que foi ouvido o Conselho de Governo.
+Art. 12.º A competência legislativa do governador é exercida por meio de diplomas legislativos, publicados no Boletim Oficial e precedidos, em regra, de preâmbulo justificativo, donde constará sempre que foi ouvido o Conselho de Governo.
 
-###### Art. 13.º - 1. O governador mandará publicar, para serem cumpridos, os diplomas votados pelo Conselho Legislativo, dentro dos quinze dias seguintes àquele em que o projecto aprovado estiver pronto para a sua assinatura.
+Art. 13.º - 1. O governador mandará publicar, para serem cumpridos, os diplomas votados pelo Conselho Legislativo, dentro dos quinze dias seguintes àquele em que o projecto aprovado estiver pronto para a sua assinatura.
 
 2. Passado este prazo, considera-se que o governador não concordou com o texto votado. Tratando-se de diploma da iniciativa do governador, este informará o Conselho de que passou a não julgar oportuna a sua publicação. Tratando-se de diploma da iniciativa dos vogais do Conselho Legislativo, o governador submeterá logo o assunto à resolução do Ministro do Ultramar ou solicitará que as disposições votadas sejam submetidas, com ou sem emendas, a nova votação do Conselho.
 
@@ -174,9 +178,9 @@ No segundo caso, se as disposições forem aprovadas por maioria de dois terços
 
 ##### SUBSECÇÃO III — Das funções executivas do governador
 
-###### Art. 14.º As funções executivas do governador compreendem a prática de todos os actos que a lei lhe atribua ou que não sejam da competência de outro órgão central ou provincial.
+Art. 14.º As funções executivas do governador compreendem a prática de todos os actos que a lei lhe atribua ou que não sejam da competência de outro órgão central ou provincial.
 
-###### Art. 15.º - 1. No uso das suas funções executivas, ao governador compete, designadamente:
+Art. 15.º - 1. No uso das suas funções executivas, ao governador compete, designadamente:
 
 1.ª Representar na província o Governo da República;
 
@@ -262,15 +266,15 @@ No segundo caso, se as disposições forem aprovadas por maioria de dois terços
 
 5. No exercício das suas funções executivas o governador expede portarias que fará publicar no Boletim Oficial.
 
-###### Art. 16.º De harmonia com o disposto na base XXXIV, IV, da Lei Orgânica do Ultramar, as funções executivas previstas na sua base XXX, II, e bem assim as constantes da alínea 23.ª, quando o montante exceder 1000000$00, e as das alíneas 27.ª a 37.ª, todas do n.º 1 do artigo anterior, serão exercidas depois de ouvido o Conselho de Governo.
+Art. 16.º De harmonia com o disposto na base XXXIV, IV, da Lei Orgânica do Ultramar, as funções executivas previstas na sua base XXX, II, e bem assim as constantes da alínea 23.ª, quando o montante exceder 1000000$00, e as das alíneas 27.ª a 37.ª, todas do n.º 1 do artigo anterior, serão exercidas depois de ouvido o Conselho de Governo.
 
-###### Art. 17.º O governador deve anualmente apresentar ao Ministro do Ultramar o relatório do seu governo e administração, relativo ao ano anterior.
+Art. 17.º O governador deve anualmente apresentar ao Ministro do Ultramar o relatório do seu governo e administração, relativo ao ano anterior.
 
 #### SECÇÃO III — Do Conselho Legislativo
 
 ##### SUBSECÇÃO I — Da competência e composição do Conselho Legislativo
 
-###### Art. 18.º - 1. Compete ao Conselho Legislativo:
+Art. 18.º - 1. Compete ao Conselho Legislativo:
 
 a) Fazer diplomas legislativos de harmonia com o disposto na Lei Orgânica do Ultramar e neste estatuto;
 
@@ -288,13 +292,13 @@ c) Apreciar o relatório anual da Comissão Técnica de Planeamento e Integraç�
 
 d) Eleger os representantes da província no Conselho Ultramarino e os vogais para o Conselho de Governo, nos termos do artigo 37.º
 
-###### Art. 19.º - 1. O governador é o presidente do Conselho Legislativo.
+Art. 19.º - 1. O governador é o presidente do Conselho Legislativo.
 
 2. Na primeira sessão ordinária de cada legislatura os vogais elegerão, de entre os eleitos, um vice-presidente, a quem caberá o exercício efectivo da presidência sempre que o governador não presidir às sessões.
 
 3. O vice-presidente será substituído nas suas faltas e impedimentos pelo vogal mais velho.
 
-###### Art. 20.º - 1. O Conselho Legislativo é constituído por onze vogais eleitos, dele fazendo parte também como vogais natos o secretário-geral, o delegado do procurador da República da comarca da capital da província e o chefe da Repartição Provincial dos Serviços de Fazenda e Contabilidade.
+Art. 20.º - 1. O Conselho Legislativo é constituído por onze vogais eleitos, dele fazendo parte também como vogais natos o secretário-geral, o delegado do procurador da República da comarca da capital da província e o chefe da Repartição Provincial dos Serviços de Fazenda e Contabilidade.
 
 2. Na falta do secretário-geral fará parte do Conselho Legislativo o chefe dos serviços de administração civil.
 
@@ -314,17 +318,17 @@ f) Um será eleito pelos organismos representativos dos interesses morais e cult
 
 4. Para efeitos da eleição referida na alínea a), o território da província constituirá um único círculo.
 
-###### Art. 21.º - 1. A duração do mandato dos vogais do Conselho Legislativo é de quatro anos, contados a partir do início da primeira sessão ordinária, podendo haver reeleição.
+Art. 21.º - 1. A duração do mandato dos vogais do Conselho Legislativo é de quatro anos, contados a partir do início da primeira sessão ordinária, podendo haver reeleição.
 
 2. No caso do preenchimento de vaga ocorrida durante o quadriénio, os vogais servirão até ao fim do mesmo quadriénio.
 
-###### Art. 22.º - 1. As eleições devem realizar-se pelo menos 30 dias antes da primeira sessão ordinária do Conselho Legislativo e, em tudo quanto não estiver disposto na lei e neste estatuto, serão reguladas em portaria do governador, publicada com a antecedência mínima de 60 dias do acto eleitoral.
+Art. 22.º - 1. As eleições devem realizar-se pelo menos 30 dias antes da primeira sessão ordinária do Conselho Legislativo e, em tudo quanto não estiver disposto na lei e neste estatuto, serão reguladas em portaria do governador, publicada com a antecedência mínima de 60 dias do acto eleitoral.
 
 2. As vagas ocorridas durante o quadriénio serão preenchidas por meio de eleição realizada até 60 dias depois da sua verificação, salvo se o termo do mandato se verificar dentro desse prazo ou no intervalo das sessões legislativas.
 
 3. Até oito dias antes da abertura da primeira sessão ordinária ou, tratando-se de vaga ocorrida durante o quadriénio, durante os quinze dias seguintes à respectiva eleição, o Tribunal Administrativo verificará o apuramento e proclamará os vogais eleitos, cuja relação será publicada no Boletim Oficial.
 
-###### Art. 23.º - 1. São condições de elegibilidade para o Conselho Legislativo:
+Art. 23.º - 1. São condições de elegibilidade para o Conselho Legislativo:
 
 a) Ser cidadão português originário;
 
@@ -350,7 +354,7 @@ d) Os que tiverem sofrido condenação por crime a que corresponda pena maior;
 
 e) Os que exercerem funções consulares ou estiverem empregados em consulados estrangeiros.
 
-###### Art. 24.º - 1. As funções de vogal do Conselho Legislativo são obrigatórias e remuneradas, por cada reunião a que assistam, com uma senha de presença de importância igual à trigésima parte do vencimento mensal, base e complementar, de chefe de repartição provincial de serviços.
+Art. 24.º - 1. As funções de vogal do Conselho Legislativo são obrigatórias e remuneradas, por cada reunião a que assistam, com uma senha de presença de importância igual à trigésima parte do vencimento mensal, base e complementar, de chefe de repartição provincial de serviços.
 
 2. Aos vogais que não residam na capital serão abonadas passagens e um subsídio a fixar pelo governador em portaria.
 
@@ -362,7 +366,7 @@ b) Estar impedido de assìduamente colaborar nos trabalhos do Conselho por motiv
 
 c) Estar inibido do regular desempenho do cargo por circunstância de força maior.
 
-###### Art. 25.º - 1. Perdem o mandato os vogais que:
+Art. 25.º - 1. Perdem o mandato os vogais que:
 
 a) Faltem, sem justificação, a mais de metade das reuniões efectuadas em cada ano civil;
 
@@ -374,15 +378,15 @@ c) Percam a nacionalidade portuguesa, fixem residência permanente fora da prov�
 
 ##### SUBSECÇÃO II — Do funcionamento do Conselho Legislativo
 
-###### Art. 26.º O Conselho Legislativo funciona na capital da província, devendo ser postos à sua disposição os meios para tanto necessários.
+Art. 26.º O Conselho Legislativo funciona na capital da província, devendo ser postos à sua disposição os meios para tanto necessários.
 
-###### Art. 27.º - 1. As sessões do Conselho Legislativo serão públicas, salvo quando, para salvaguarda de interesses superiores, o presidente, ou quem o substituir, por iniciativa própria ou proposta fundamentada de qualquer vogal, determinar o contrário.
+Art. 27.º - 1. As sessões do Conselho Legislativo serão públicas, salvo quando, para salvaguarda de interesses superiores, o presidente, ou quem o substituir, por iniciativa própria ou proposta fundamentada de qualquer vogal, determinar o contrário.
 
 2. As actas das sessões públicas, logo depois de aprovadas, serão enviadas à Repartição Provincial dos Serviços de Administração Civil e publicadas em anexo ao Boletim Oficial.
 
 3. Das actas das sessões secretas serão enviadas urgente e confidencialmente copias ao governador, que remeterá exemplares delas ao Ministério do Ultramar.
 
-###### Art. 28.º - 1. O Conselho Legislativo funciona em sessões ordinárias e extraordinárias.
+Art. 28.º - 1. O Conselho Legislativo funciona em sessões ordinárias e extraordinárias.
 
 2. Haverá duas sessões ordinárias em cada ano, pelo período de 30 dias cada uma, com começo em Abril e Outubro, podendo o governador prorrogar qualquer delas, mas por forma que a duração total das duas não exceda três meses.
 
@@ -390,25 +394,25 @@ c) Percam a nacionalidade portuguesa, fixem residência permanente fora da prov�
 
 4. Nos períodos de prorrogação das sessões ordinárias e nas sessões extraordinárias, o Conselho só poderá ocupar-se dos assuntos expressamente indicados na ordem de prorrogação e no aviso de convocação.
 
-###### Art. 29.º - 1. A convocação extraordinária do Conselho Legislativo é feita pelo presidente, por aviso publicado no Boletim Oficial com oito dias de antecedência, podendo este prazo ser reduzido em caso de urgência.
+Art. 29.º - 1. A convocação extraordinária do Conselho Legislativo é feita pelo presidente, por aviso publicado no Boletim Oficial com oito dias de antecedência, podendo este prazo ser reduzido em caso de urgência.
 
 2. O aviso deve indicar sempre com toda a precisão o motivo da convocação e o dia, hora e local das reuniões.
 
 3. Não são válidos nem produzem quaisquer efeitos os actos praticados em reuniões que não sejam precedidas de convocação feita pela forma determinada neste artigo.
 
-###### Art. 30.º - 1. O presidente poderá convocar para assistir às sessões ordinárias ou extraordinárias do Conselho Legislativo, sem voto, mas com direito a tomar parte na discussão, os vogais do Conselho de Governo que hajam sido relatores das propostas em exame e bem assim convidar, nas mesmas condições, os funcionários do Ministério do Ultramar, de categoria não inferior a inspector administrativo, que na província se encontrem em exercício de funções.
+Art. 30.º - 1. O presidente poderá convocar para assistir às sessões ordinárias ou extraordinárias do Conselho Legislativo, sem voto, mas com direito a tomar parte na discussão, os vogais do Conselho de Governo que hajam sido relatores das propostas em exame e bem assim convidar, nas mesmas condições, os funcionários do Ministério do Ultramar, de categoria não inferior a inspector administrativo, que na província se encontrem em exercício de funções.
 
 2. O presidente poderá também convocar para assistir às sessões, sem direito a voto, qualquer pessoa que, pela sua especial competência, possa prestar esclarecimentos úteis sobre os assuntos em discussão.
 
-###### Art. 31.º A iniciativa da lei no Conselho Legislativo pertence indistintamente ao governador da província e aos vogais do Conselho, não podendo, porém, estes apresentar projectos ou propostas de alteração que envolvam aumento de despesa ou diminuição de receita da província criadas por diplomas anteriores.
+Art. 31.º A iniciativa da lei no Conselho Legislativo pertence indistintamente ao governador da província e aos vogais do Conselho, não podendo, porém, estes apresentar projectos ou propostas de alteração que envolvam aumento de despesa ou diminuição de receita da província criadas por diplomas anteriores.
 
-###### Art. 32.º - 1. O Conselho Legislativo só pode funcionar estando presente metade e mais um dos membros que o compõem, incluindo o presidente.
+Art. 32.º - 1. O Conselho Legislativo só pode funcionar estando presente metade e mais um dos membros que o compõem, incluindo o presidente.
 
 2. As deliberações são tomadas por maioria absoluta de votos, excepto quando a lei exigir outro quórum.
 
 3. Em caso de empate o presidente tem voto de qualidade.
 
-###### Art. 33.º - 1. Os vogais do Conselho Legislativo são invioláveis pelas opiniões que emitirem no exercício do mandato, excepto:
+Art. 33.º - 1. Os vogais do Conselho Legislativo são invioláveis pelas opiniões que emitirem no exercício do mandato, excepto:
 
 a) Se manifestarem opiniões contrárias à unidade, integridade e independência da Nação;
 
@@ -420,7 +424,7 @@ c) Se difamarem, caluniarem ou injuriarem pessoas ou instituições, ultrajarem 
 
 3. As infracções referidas neste artigo serão apreciadas por uma comissão constituída pelo presidente do Conselho Legislativo e por dois vogais escolhidos pelo mesmo Conselho. O presidente poderá delegar este encargo no vice-presidente.
 
-###### Art. 34.º - 1. A dissolução do Conselho Legislativo pode ser determinada pelo Ministro do Ultramar, quando para isso houver razões de interesse superior, ouvido o Conselho Ultramarino em sessão plena.
+Art. 34.º - 1. A dissolução do Conselho Legislativo pode ser determinada pelo Ministro do Ultramar, quando para isso houver razões de interesse superior, ouvido o Conselho Ultramarino em sessão plena.
 
 2. A dissolução será proposta pelo governador, com exposição pormenorizada das razões que a justifiquem.
 
@@ -428,7 +432,7 @@ c) Se difamarem, caluniarem ou injuriarem pessoas ou instituições, ultrajarem 
 
 4. A eleição dos novos vogais efectuar-se-á de acordo com o estabelecido na Lei Orgânica do Ultramar, no presente estatuto e nas demais leis aplicáveis, dentro do prazo de 60 dias, a contar da publicação no Boletim Oficial da portaria de dissolução.
 
-###### Art. 35.º Do regimento do Conselho Legislativo devem constar:
+Art. 35.º Do regimento do Conselho Legislativo devem constar:
 
 a) A organização das comissões que forem consideradas necessárias;
 
@@ -446,7 +450,7 @@ g) As demais regras prescritas neste estatuto e ainda as que forem consideradas 
 
 #### SECÇÃO IV — Do Conselho de Governo
 
-###### Art. 36.º - 1. Junto do governador e por ele presidido funcionará, permanentemente, o Conselho de Governo, ao qual compete:
+Art. 36.º - 1. Junto do governador e por ele presidido funcionará, permanentemente, o Conselho de Governo, ao qual compete:
 
 a) Assistir ao governador no exercício das funções legislativas;
 
@@ -458,19 +462,19 @@ c) Aprovar, dentro das bases gerais definidas pelos órgãos centrais, os planos
 
 3. As funções de vogal do Conselho de Governo são obrigatórias e é-lhes aplicável o disposto no n.º 2 do artigo 24.º
 
-###### Art. 37.º - 1. O Conselho de Governo é constituído pelo secretário-geral; pelo comandante-chefe das forças armadas, quando o houver, ou, na sua falta ou quando o comandante-chefe for o governador, pelo mais graduado ou antigo dos comandantes dos três ramos das forças armadas; pelo delegado do procurador da República da comarca da capital da província; pelo chefe da Repartição Provincial dos Serviços de Fazenda e Contabilidade; e por três vogais do Conselho Legislativo, por este eleitos na primeira sessão ordinária de cada legislatura, um dos quais deverá ser sempre um representante das regedorias.
+Art. 37.º - 1. O Conselho de Governo é constituído pelo secretário-geral; pelo comandante-chefe das forças armadas, quando o houver, ou, na sua falta ou quando o comandante-chefe for o governador, pelo mais graduado ou antigo dos comandantes dos três ramos das forças armadas; pelo delegado do procurador da República da comarca da capital da província; pelo chefe da Repartição Provincial dos Serviços de Fazenda e Contabilidade; e por três vogais do Conselho Legislativo, por este eleitos na primeira sessão ordinária de cada legislatura, um dos quais deverá ser sempre um representante das regedorias.
 
 2. Na falta de secretário-geral, fará parte do Conselho de Governo o chefe da Repartição Provincial dos Serviços de Administração Civil.
 
 3. Os vogais natos serão substituídos, nas faltas ou impedimentos, pelos substitutos legais nos respectivos serviços.
 
-###### Art. 38.º - 1. O Conselho de Governo reunirá sempre que for convocado pelo presidente e pode deliberar desde que esteja presente a maioria dos vogais.
+Art. 38.º - 1. O Conselho de Governo reunirá sempre que for convocado pelo presidente e pode deliberar desde que esteja presente a maioria dos vogais.
 
 2. As sessões do Conselho não são públicas e delas se lavrarão actas que, depois de aprovadas, devem ser remetidas, por cópia, ao Ministro do Ultramar.
 
 3. O presidente pode convocar para assistir às reuniões do Conselho as pessoas que possam esclarecer os assuntos nelas tratados.
 
-###### Art. 39.º - 1. A designação de procuradores à Câmara Corporativa compete ao Conselho de Governo, com observância do seguinte:
+Art. 39.º - 1. A designação de procuradores à Câmara Corporativa compete ao Conselho de Governo, com observância do seguinte:
 
 a) O Conselho será especialmente convocado para esse fim pelo seu presidente, com a antecedência necessária;
 
@@ -482,7 +486,7 @@ c) Os procuradores serão designados de entre os actuais ou antigos membros do C
 
 ### CAPÍTULO III — Dos serviços públicos da província
 
-###### Art. 40.º Os serviços de administração provincial compreendem:
+Art. 40.º Os serviços de administração provincial compreendem:
 
 a) A Repartição de Gabinete;
 
@@ -494,13 +498,13 @@ d) As divisões de serviços integrados em serviços nacionais;
 
 e) Os outros serviços dotados de organização especial.
 
-###### Art. 41.º A Repartição de Gabinete funciona sob a directa superintendência do governador e executa os trabalhos de que for por ele encarregada, competindo-lhe também assegurar o expediente dos Conselhos Legislativo e de Governo. Será chefiada pelo ajudante de campo ou pelo secretário do governador.
+Art. 41.º A Repartição de Gabinete funciona sob a directa superintendência do governador e executa os trabalhos de que for por ele encarregada, competindo-lhe também assegurar o expediente dos Conselhos Legislativo e de Governo. Será chefiada pelo ajudante de campo ou pelo secretário do governador.
 
-###### Art. 42.º - 1. Junto da Repartição de Gabinete, e sob a directa superintendência do governador, funcionará a Comissão Técnica de Planeamento e Integração Económica.
+Art. 42.º - 1. Junto da Repartição de Gabinete, e sob a directa superintendência do governador, funcionará a Comissão Técnica de Planeamento e Integração Económica.
 
 2. A participação da província na elaboração dos programas referidos na base LXIX, III, da Lei Orgânica do Ultramar, será assegurada por esta Comissão, conforme vier a ser legalmente estabelecido.
 
-###### Art. 43.º Na província haverá as repartições provinciais de serviços a seguir discriminadas:
+Art. 43.º Na província haverá as repartições provinciais de serviços a seguir discriminadas:
 
 a) Administração Civil;
 
@@ -524,11 +528,11 @@ j) Saúde e Assistência;
 
 l) Veterinária.
 
-###### Art. 44.º Os serviços autónomos, as divisões de serviços integrados em serviços nacionais, os serviços da Polícia de Segurança Pública ou outros com organização militarizada regem-se pelos diplomas especiais que lhes digam respeito.
+Art. 44.º Os serviços autónomos, as divisões de serviços integrados em serviços nacionais, os serviços da Polícia de Segurança Pública ou outros com organização militarizada regem-se pelos diplomas especiais que lhes digam respeito.
 
 ### CAPÍTULO IV — Da administração local
 
-###### Art. 45.º - 1. Para os fins de administração local, o território da província divide-se em concelhos, que se formam de freguesias. Onde excepcionalmente não possam criar-se freguesias existirão postos administrativos.
+Art. 45.º - 1. Para os fins de administração local, o território da província divide-se em concelhos, que se formam de freguesias. Onde excepcionalmente não possam criar-se freguesias existirão postos administrativos.
 
 2. A cidade de Díli poderá ser dividida em bairros.
 
@@ -536,7 +540,7 @@ l) Veterinária.
 
 4. Os postos administrativos podem dividir-se em regedorias e estas em grupos de povoações.
 
-###### Art. 46.º - 1. O território da província divide-se nos concelhos e circunscrições seguintes:
+Art. 46.º - 1. O território da província divide-se nos concelhos e circunscrições seguintes:
 
 a) Concelho de Díli;
 
@@ -560,13 +564,13 @@ j) Circunscrição de Oé-Cussi.
 
 2. Fica o Governo da província autorizado a criar os concelhos de Liquiçá e Ainaro quando as circunstâncias da província o permitam.
 
-###### Art. 47.º - 1. Compete ao Governo da província criar ou suprimir bairros, freguesias e postos administrativos e fixar as respectivas designações, áreas e sedes.
+Art. 47.º - 1. Compete ao Governo da província criar ou suprimir bairros, freguesias e postos administrativos e fixar as respectivas designações, áreas e sedes.
 
 2. As designações devem, quanto possível, basear-se na tradição histórica ou nas consagradas pelos usos e costumes.
 
-###### Art. 48.º As autoridades administrativas são as referidas na base XLVI da Lei Orgânica do Ultramar e as suas atribuições e competência serão as estabelecidas em lei especial.
+Art. 48.º As autoridades administrativas são as referidas na base XLVI da Lei Orgânica do Ultramar e as suas atribuições e competência serão as estabelecidas em lei especial.
 
-###### Art. 49. - 1. A câmara municipal é o corpo administrativo do concelho, podendo haver comissões municipais, conforme a lei definir, nos concelhos em que não for possível constituir-se a câmara por falta ou nulidade de eleição, ou enquanto o número de eleitores for inferior ao mínimo estabelecido.
+Art. 49. - 1. A câmara municipal é o corpo administrativo do concelho, podendo haver comissões municipais, conforme a lei definir, nos concelhos em que não for possível constituir-se a câmara por falta ou nulidade de eleição, ou enquanto o número de eleitores for inferior ao mínimo estabelecido.
 
 2. Poderão também instituir-se comissões municipais nas circunscrições administrativas e conforme a lei dispuser, juntas locais ou de freguesia nos postos administrativos e nas freguesias.
 
@@ -574,15 +578,15 @@ j) Circunscrição de Oé-Cussi.
 
 4. Nos concelhos em que, por diploma legislativo, for reconhecida a fraca densidade da população e a debilidade dos recursos económicos e consequente exiguidade das receitas, a designação poderá recair no respectivo administrador.
 
-###### Art. 50.º - 1. O cargo de presidente da câmara será remunerado quando o desenvolvimento do concelho o justifique, podendo, pelo mesmo motivo, ser declarado incompatível com o exercício efectivo de outras funções públicas.
+Art. 50.º - 1. O cargo de presidente da câmara será remunerado quando o desenvolvimento do concelho o justifique, podendo, pelo mesmo motivo, ser declarado incompatível com o exercício efectivo de outras funções públicas.
 
 2. O Governo da província definirá, em diploma legislativo, os casos em que haverá lugar a remuneração, o quantitativo, o regime desta e os casos de incompatibilidade.
 
 ### CAPÍTULO V — Do regime financeiro
 
-###### Art. 51.º A província tem activo e passivo próprios, competindo-lhe a disposição dos seus bens e receitas e a responsabilidade das suas despesas e dívidas e dos seus actos e contratos.
+Art. 51.º A província tem activo e passivo próprios, competindo-lhe a disposição dos seus bens e receitas e a responsabilidade das suas despesas e dívidas e dos seus actos e contratos.
 
-###### Art. 52.º - 1. A autonomia financeira da província é sujeita a restrições ocasionais que sejam indispensáveis por situações graves da sua Fazenda ou pelos perigos que estas possam envolver para a Nação.
+Art. 52.º - 1. A autonomia financeira da província é sujeita a restrições ocasionais que sejam indispensáveis por situações graves da sua Fazenda ou pelos perigos que estas possam envolver para a Nação.
 
 2. Nessas situações graves incluem-se os casos em que:
 
@@ -594,9 +598,9 @@ c) A falta de observância das leis de administração financeira, especialmente
 
 3. As restrições à autonomia financeira são da competência do Ministro do Ultramar.
 
-###### Artigo 53.º O orçamento da província é unitário, compreendendo a totalidade das receitas e despesas, incluindo as dos serviços autónomos, de que podem ser publicados, à parte, desenvolvimentos especiais.
+Artigo 53.º O orçamento da província é unitário, compreendendo a totalidade das receitas e despesas, incluindo as dos serviços autónomos, de que podem ser publicados, à parte, desenvolvimentos especiais.
 
-###### Art. 54.º - 1. O orçamento será anualmente organizado, votado e mandado executar pelos órgãos da província.
+Art. 54.º - 1. O orçamento será anualmente organizado, votado e mandado executar pelos órgãos da província.
 
 2. O governador apresentará ao Conselho Legislativo na segunda sessão ordinária de cada ano:
 
@@ -612,20 +616,20 @@ d) Indicação das despesas resultantes de diplomas legais que não tenham sido 
 
 4. Quando, por qualquer circunstância, o orçamento não possa entrar em execução no começo do ano económico, a cobrança das receitas estabelecidas por tempo indeterminado ou por período que abranja. a nova gerência prosseguirá nos termos das leis preexistentes e, quanto às despesas ordinárias, continuarão provisòriamente em vigor, por duodécimos, o orçamento do ano anterior e os créditos sancionados durante ele para ocorrer a novos encargos permanentes.
 
-###### Art. 55.º - 1. São da competência do governador as aberturas de crédito, transferências e reforços de verba. Serão enviados mensalmente ao Ministério do Ultramar os processos que deram origem às operações autorizadas por este artigo e que tenham sido realizadas no mês anterior.
+Art. 55.º - 1. São da competência do governador as aberturas de crédito, transferências e reforços de verba. Serão enviados mensalmente ao Ministério do Ultramar os processos que deram origem às operações autorizadas por este artigo e que tenham sido realizadas no mês anterior.
 
 2. As aberturas de crédito serão feitas, ouvido o Conselho de Governo, por meio de portaria. As transferências e reforços de verba realizam-se por meio de portaria ou de despacho do governador, de harmonia com as leis de administração financeira e independentemente da audição daquele Conselho.
 
-###### Art. 56.º O ordenamento das despesas cabe ao governador.
+Art. 56.º O ordenamento das despesas cabe ao governador.
 
 ### CAPÍTULO VI — Disposições gerais e transitórias
 
-###### Art. 57.º Salvo declaração especial, as leis e mais diplomas entrarão em vigor nos seguintes prazos, a contar da data da publicação no Boletim Oficial:
+Art. 57.º Salvo declaração especial, as leis e mais diplomas entrarão em vigor nos seguintes prazos, a contar da data da publicação no Boletim Oficial:
 
 a) Cinco dias no concelho de Díli;
 
 b) Quinze dias no restante território da província.
 
-###### Art. 58.º Os serviços da província continuam a reger-se pelos respectivos diplomas orgânicos actualmente em vigor, nos quais serão introduzidas as alterações necessárias à sua adaptação ao estabelecido na Lei Orgânica do Ultramar e neste estatuto.
+Art. 58.º Os serviços da província continuam a reger-se pelos respectivos diplomas orgânicos actualmente em vigor, nos quais serão introduzidas as alterações necessárias à sua adaptação ao estabelecido na Lei Orgânica do Ultramar e neste estatuto.
 
 Ministério do Ultramar, 22 de Novembro de 1963. - O Ministro do Ultramar, António Augusto Peixoto Correia.

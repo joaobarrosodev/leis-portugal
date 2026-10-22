@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43911-1961-180416
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-09-13T00:00:00Z'
+  retrieved_at: '2026-10-22T19:25:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5e2661527ff0c197153d4b4597c0c683b64f1e4bf678cbaa9ef403cc37af60b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65fc13e5dff47fa707474e6e6f597daea3a3f3fb077c49fd31ab0406cf690c2f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:25:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
-  section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:25:34Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +105,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos dos seguintes Ministérios:
+Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos dos seguintes Ministérios:
 
 Ministério das Finanças
 
@@ -123,49 +139,49 @@ Do artigo 85.º, n.º 1) «Pessoal dos quadros ...» ... -12020$00
 
 Para o artigo 87.º, n.º 5) «Outras despesas ...» ... +12020$00
 
-###### Art. 2.º São abertos no Ministério das Finanças créditos especiais, no montante de 3053600$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças créditos especiais, no montante de 3053600$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Encargos gerais da Nação
 
-### Capítulo 4.º «Secretariado Nacional da Informação, Cultura Popular e Turismo»:
+Capítulo 4.º «Secretariado Nacional da Informação, Cultura Popular e Turismo»:
 
-###### Artigo 91.º, n.º 8), alínea a) «Direcção dos Serviços de Censura» ... 150000$00
+Artigo 91.º, n.º 8), alínea a) «Direcção dos Serviços de Censura» ... 150000$00
 
 Ministério das Finanças
 
-### Capítulo 9.º «Serviço de contribuições»:
+Capítulo 9.º «Serviço de contribuições»:
 
 Direcção-Geral das Coontribuições e Impostos
 
-###### Artigo 123.º, n.º 6)«Pagamento de serviços ...» ... 660000$00
+Artigo 123.º, n.º 6)«Pagamento de serviços ...» ... 660000$00
 
 Direcções de finanças distritais e secções concelhias
 
-###### Artigo 135.º, n.º 16) «Pagamento de serviços ...» ... 450000$00
+Artigo 135.º, n.º 16) «Pagamento de serviços ...» ... 450000$00
 
-### Capítulo 14.º «Casa da Moeda»:
+Capítulo 14.º «Casa da Moeda»:
 
-###### Artigo 265.º, n.º 1) «Força motriz» ... 60000$00
+Artigo 265.º, n.º 1) «Força motriz» ... 60000$00
 
-### Capítulo 18.º «Despesas de anos económicos findos»:
+Capítulo 18.º «Despesas de anos económicos findos»:
 
-###### Artigo 279.º «Despesas de anos económicos findos» ... 1500000$00
+Artigo 279.º «Despesas de anos económicos findos» ... 1500000$00
 
 ... 2670000$00
 
 Ministério da Justiça
 
-### Capítulo 4.º «Direcção-Geral dos Serviços Prisionais - Colónia Penal de Santa Cruz do Bispo»:
+Capítulo 4.º «Direcção-Geral dos Serviços Prisionais - Colónia Penal de Santa Cruz do Bispo»:
 
-###### Artigo 277.º, n.º 1) «Serviços clínicos ...» ... 20000$00
+Artigo 277.º, n.º 1) «Serviços clínicos ...» ... 20000$00
 
-### Capítulo 5.º «Direcção-Geral dos Serviços Jurisdicionais de Menores - Escola Agrícola de Santo António - Pagamento de serviços e diversos encargos»:
+Capítulo 5.º «Direcção-Geral dos Serviços Jurisdicionais de Menores - Escola Agrícola de Santo António - Pagamento de serviços e diversos encargos»:
 
-###### Artigo 431.º-A «Despesas de higiene, saúde e conforto»:
+Artigo 431.º-A «Despesas de higiene, saúde e conforto»:
 
 N.º 1) «Luz, aquecimento, água, lavagem e limpeza» ... (c) 50000$00
 
-###### Artigo 432.º «Outros encargos»:
+Artigo 432.º «Outros encargos»:
 
 N.º 1) «Subsídios a cofres ...»:
 
@@ -177,7 +193,7 @@ Alínea b) «Para satisfação das despesas de administração, pessoal directam
 
 Ministério da Educação Nacional
 
-### Capítulo 3.º «Direcção-Geral do Ensino Superior e das Belas-Artes»:
+Capítulo 3.º «Direcção-Geral do Ensino Superior e das Belas-Artes»:
 
 Instrução universitária
 
@@ -185,7 +201,7 @@ Universidade Técnica de Lisboa
 
 Instituto Superior de Agronomia
 
-###### Artigo 440.º, n.º 1) «Pessoal dos quadros ...»:
+Artigo 440.º, n.º 1) «Pessoal dos quadros ...»:
 
 1 técnico auxiliar ... 7200$00
 
@@ -193,7 +209,7 @@ Estabelecimentos diversos
 
 Observatório Astronómico de Lisboa
 
-###### Artigo 496.º, n.º 1) «Pessoal dos quadros ...»:
+Artigo 496.º, n.º 1) «Pessoal dos quadros ...»:
 
 1 astrónomo de 1.ª classe, com 2 diuturnidades, director ... 12000$00
 
@@ -211,43 +227,43 @@ Observatório Astronómico de Lisboa
 
 ... 3053600$00
 
-###### Art. 3.º Como compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de redução em verbas de despesas:
+Art. 3.º Como compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de redução em verbas de despesas:
 
 Encargos gerais da Nação
 
-### Capítulo 4.º, artigo 80.º, n.º 1), alínea a) ... 150000$00
+Capítulo 4.º, artigo 80.º, n.º 1), alínea a) ... 150000$00
 
 Ministério das Finanças
 
-### Capítulo 6.º, artigo 48.º, n.º 1) ... 1500000$00
+Capítulo 6.º, artigo 48.º, n.º 1) ... 1500000$00
 
-### Capítulo 9.º, artigo 114.º, n.º 1) ... 100000$00
+Capítulo 9.º, artigo 114.º, n.º 1) ... 100000$00
 
-### Capítulo 9.º, artigo 125.º, n.º 1) ... 260000$00
+Capítulo 9.º, artigo 125.º, n.º 1) ... 260000$00
 
-### Capítulo 11.º, artigo 183.º, n.º 1) ... 300000$00
+Capítulo 11.º, artigo 183.º, n.º 1) ... 300000$00
 
-### Capítulo 14.º, artigo 258, n.º 3) ... 60000$00
+Capítulo 14.º, artigo 258, n.º 3) ... 60000$00
 
-### Capítulo 12.º, artigo 230.º, n.º 1) ... 450000$00
+Capítulo 12.º, artigo 230.º, n.º 1) ... 450000$00
 
 ... 2670000$00
 
 Ministério da Justiça
 
-### Capítulo 4.º, artigo 179.º, n.º 1) ... 20000$00
+Capítulo 4.º, artigo 179.º, n.º 1) ... 20000$00
 
-### Capítulo 5.º, artigo 429.º, n.º 1) ... 150000$00
+Capítulo 5.º, artigo 429.º, n.º 1) ... 150000$00
 
 ... 170000$00
 
 Ministério da Educação Nacional
 
-### Capítulo 3.º, artigo 440.º, n.º 1) ... 63600$00
+Capítulo 3.º, artigo 440.º, n.º 1) ... 63600$00
 
 ... 3053600$00
 
-###### Art. 4.º São autorizadas as seguintes alterações de rubrica nos orçamentos:
+Art. 4.º São autorizadas as seguintes alterações de rubrica nos orçamentos:
 
 Do Ministério da Justiça
 
@@ -269,6 +285,6 @@ Inclui 400$00 ...
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 13 de Setembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45958-1964-536674
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-10-12T00:00:00Z'
+  retrieved_at: '2026-10-22T19:42:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43da8b433a43c11ca02a5a3b3c8b9a1ac9210064a3ac4242def7c3b358d64ce7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bff7f4df6cb5d79d6c178a0e50dacbdd2718bb7bcf0bb396a041ff7465e7546e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:42:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:42:25Z'
   warnings: []
   errors: []
 ---
@@ -87,8 +91,8 @@ Com fundamento no artigo 22.º do [Decreto-Lei n.º 41375](https://diariodarepub
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É autorizado o Arsenal do Alfeite a adquirir três equipamentos de radar, destinados a três lanchas de fiscalização da costa a construir nos seus estaleiros, sendo o encargo desta aquisição, na importância de £ 4500-00-00 e mais 14065$00 para despacho, transporte, seguro e assistência técnica, satisfeito no ano económico de 1965.
+Artigo único. É autorizado o Arsenal do Alfeite a adquirir três equipamentos de radar, destinados a três lanchas de fiscalização da costa a construir nos seus estaleiros, sendo o encargo desta aquisição, na importância de £ 4500-00-00 e mais 14065$00 para despacho, transporte, seguro e assistência técnica, satisfeito no ano económico de 1965.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Outubro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Fernando Quintanilha Mendonça Dias.

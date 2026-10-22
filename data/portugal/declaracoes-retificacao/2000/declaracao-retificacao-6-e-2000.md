@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 126/2000, 2º Suplemento, Série I-A de 2000-05-31
   number: '126'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2534-(18) a 2534-(19)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/05/126a02/00180019.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/6-e/2000/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/6-e-2000-241798
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:56:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03b446f052725397a070b32336221cf8c14eb6729e12e23b5222fbb436d6c3ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 646a2dffc4a08d3d8538e44b717a011aa7b4b32cabc5f1bdf4e710f95d287f12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:56:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,63 +72,67 @@ subjects:
 - Alienação de Participação Social
 - Alteração Orçamental
 - Aquisição de Bens e Serviços
+- Autarquia Local
 - Autonomia Administrativa
 - Autonomia Financeira
-- Financiamento
 - AVAL do Estado
 - Centro Hospitalar do Funchal
 - Centro Regional de Saúde
-- Gestão Financeira
-- Venezuela
 - Comunidades Portuguesas
-- Finanças Locais
-- Governo Regional
 - Contrato Programa
 - Cooperação Financeira
 - Definição de Competências
 - Despesas Públicas
 - Dívida Pública
 - Dívidas das Autarquias Locais
-- Empresa de Electricidade da Madeira
 - Empreitada de Obras Públicas
+- Empresa de Electricidade da Madeira
 - Empresa Participada
 - Empresa Regional
-- Política de Saúde
+- Ensino Básico
+- Estabelecimento de Ensino
 - Execução do Orçamento
+- Finanças Locais
+- Financiamento
+- Gestão Financeira
 - Gestão Orçamental
+- Governo Regional
+- Iga-investimentos e Gestão da ÁGUA
 - Instituto de Desenvolvimento Empresarial
 - Locação Financeira
-- Secretário Regional do Plano e da Coordenação
+- Madeira.região Autónoma
 - Operações de Tesouraria
 - Orçamento Regional
 - Organismo Autónomo
 - Planeamento Regional
 - Plano de Desenvolvimento Regional
-- Estabelecimento de Ensino
-- Ensino Básico
-- Madeira.região Autónoma
+- Política de Saúde
 - Receita Pública
-- Iga-investimentos e Gestão da ÁGUA
+- Secretário Regional do Plano e da Coordenação
 - Subsídio
 - Subsídio de Fixação
 - Subsídio de Penosidade e Risco
-- Autarquia Local
 - Venda de Imóveis
+- Venezuela
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/4-a/2000/02/09/m/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/4-a/2000/02/09/m/dre
+- type: cites
+  target: pt:dre:397938:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:56:22Z'
   warnings: []
   errors: []
 ---
@@ -139,18 +143,18 @@ Para os devidos efeitos se declara que o [Decreto Legislativo Regional n.º 4-A/
 
 No mapa VII, «Despesas dos serviços, institutos e fundos autónomos por classificação funcional [artigo 1.º, alínea a)]», onde se lê:
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/05/126a02/00180019.pdf)
+[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/05/126a02/00180019.pdf)](https://files.diariodarepublica.pt/1s/2000/05/126a02/00180019.pdf)](https://files.diariodarepublica.pt/1s/2000/05/126a02/00180019.pdf)](https://files.diariodarepublica.pt/1s/2000/05/126a02/00180019.pdf)
 
 deve ler-se:
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/05/126a02/00180019.pdf)
+[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/05/126a02/00180019.pdf)](https://files.diariodarepublica.pt/1s/2000/05/126a02/00180019.pdf)](https://files.diariodarepublica.pt/1s/2000/05/126a02/00180019.pdf)](https://files.diariodarepublica.pt/1s/2000/05/126a02/00180019.pdf)
 
 No mapa VIII, «Despesas dos serviços, institutos e fundos autónomos por grandes agrupamentos económicos [artigo 1.º, alínea a)]», onde se lê:
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/05/126a02/00180019.pdf)
+[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/05/126a02/00180019.pdf)](https://files.diariodarepublica.pt/1s/2000/05/126a02/00180019.pdf)](https://files.diariodarepublica.pt/1s/2000/05/126a02/00180019.pdf)](https://files.diariodarepublica.pt/1s/2000/05/126a02/00180019.pdf)
 
 deve ler-se:
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/05/126a02/00180019.pdf)
+[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/05/126a02/00180019.pdf)](https://files.diariodarepublica.pt/1s/2000/05/126a02/00180019.pdf)](https://files.diariodarepublica.pt/1s/2000/05/126a02/00180019.pdf)](https://files.diariodarepublica.pt/1s/2000/05/126a02/00180019.pdf)
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 31 de Maio de 2000. - O Secretário-Geral, Alexandre Figueiredo.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/119/2010/04/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/119-2010-613464
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-14T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 554ea2e6ef1cfd47f8903ab188986f978b6db0dc06713280cb2536fdc03e6650
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d13b94c1d7d2c87cc0baa96e7999504fd50766c20082c4041b6bf05e50ae84ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Conselho Regional do Ambiente e do Desenvolvimento Sustentavel
 - Inconstitucionalidade
-- Proteção do Ambiente
 - Organização não Governamental do Ambiente
-- Açores
+- Proteção do Ambiente
 relationships:
 - type: cites
   target: celex:31995L0046
@@ -81,15 +81,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/declegreg/8/2010/03/05/a/dre
 article_structure:
-  article_count: 12
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:53Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +120,9 @@ Os preceitos que contêm as normas cuja apreciação de constitucionalidade vem 
 
 Registo regional de organizações não governamentais de ambiente
 
-###### Artigo 8.º — Registo regional
+Artigo 8.º
+
+Registo regional
 
 1 - Na dependência do departamento da administração regional competente em matéria de ambiente funciona um registo regional de organizações não governamentais de ambiente.
 
@@ -132,7 +134,9 @@ Registo regional de organizações não governamentais de ambiente
 
 5 - O conteúdo do registo é público, sendo disponibilizado no portal do Governo Regional na Internet.
 
-###### Artigo 9.º — Inscrição no registo
+Artigo 9.º
+
+Inscrição no registo
 
 1 - O requerimento para inscrição no registo é dirigido ao membro do Governo Regional competente em matéria de ambiente, instruído com os seguintes documentos:
 
@@ -162,13 +166,17 @@ i) Cópia da acta da assembleia geral relativa à eleição dos membros dos órg
 
 5 - As organizações não governamentais de ambiente e equiparadas têm direito a obter declaração comprovativa da sua inscrição no registo.
 
-###### Artigo 10.º — Direitos decorrentes da inscrição no registo
+Artigo 10.º
+
+Direitos decorrentes da inscrição no registo
 
 1 - Para além dos direitos que lhes são conferidos pela Lei n.º 35/98, de 18 de Julho, as organizações não governamentais de ambiente e equiparadas inscritas no registo regional gozam dos direitos estabelecidos no presente diploma, nomeadamente o direito ao apoio técnico e financeiro por parte da administração regional autónoma e o de participação na definição das políticas regionais de ambiente.
 
 2 - Os dirigentes e os membros das organizações não governamentais de ambiente designados para exercer funções de representação no âmbito do funcionamento de órgãos consultivos dependentes da administração regional autónoma gozam dos direitos consagrados no artigo 8.º da Lei n.º 35/98, de 18 de Julho.
 
-###### Artigo 11.º — Deveres decorrentes da inscrição no registo
+Artigo 11.º
+
+Deveres decorrentes da inscrição no registo
 
 1 - As organizações não governamentais de ambiente e equiparadas obrigam-se a enviar ao departamento da administração regional autónoma competente em matéria de ambiente, até 30 dias úteis após a sua verificação, as alterações aos seguintes elementos:
 
@@ -190,7 +198,9 @@ b) A declaração do número de associados em 31 de Dezembro do ano anterior.
 
 3 - As organizações não governamentais de ambiente e equiparadas obrigam-se ainda a aceitar as auditorias que lhes sejam determinadas nos termos do presente diploma e a apresentar, quando recebam apoio técnico ou financeiro da administração regional autónoma, os respectivos relatórios finais de execução e os comprovativos das despesas suportadas.
 
-###### Artigo 12.º — Modificação e suspensão do registo
+Artigo 12.º
+
+Modificação e suspensão do registo
 
 1 - O departamento da administração regional competente em matéria de ambiente promove a modificação do registo, oficiosamente ou a requerimento da entidade, sempre que as características de uma associação registada se alterem.
 
@@ -204,7 +214,9 @@ b) A declaração do número de associados em 31 de Dezembro do ano anterior.
 
 6 - À modificação e suspensão do registo aplica-se, com as necessárias adaptações, o procedimento estabelecido no artigo 9.º do presente diploma.
 
-###### Artigo 13.º — Anulação do registo
+Artigo 13.º
+
+Anulação do registo
 
 1 - A inscrição no registo é anulada a requerimento da entidade interessada ou por decisão fundamentada do membro do Governo Regional competente em matéria de ambiente, proferida na sequência de uma auditoria.
 
@@ -212,7 +224,9 @@ b) A declaração do número de associados em 31 de Dezembro do ano anterior.
 
 3 - À anulação do registo aplica-se, com as necessárias adaptações, o procedimento estabelecido no artigo 9.º do presente diploma.
 
-###### Artigo 14.º — Deveres decorrentes da inscrição no registo
+Artigo 14.º
+
+Deveres decorrentes da inscrição no registo
 
 1 - Cabe ao departamento da administração regional autónoma competente em matéria de ambiente fiscalizar o cumprimento da Lei n.º 35/98, de 18 de Julho, e do estabelecido pelo presente diploma através da realização de auditorias regulares ou extraordinárias às organizações não governamentais de ambiente e equiparadas inscritas no registo.
 
@@ -718,7 +732,9 @@ Isenção de emolumentos e custas
 
 3 - A litigância de má fé rege-se pela lei geral.
 
-###### Artigo 12.º — Isenções fiscais
+Artigo 12.º
+
+Isenções fiscais
 
 1 - As ONGA têm direito às isenções fiscais atribuídas pela lei às pessoas colectivas de utilidade pública.
 
@@ -726,7 +742,9 @@ Isenção de emolumentos e custas
 
 3 - As ONGA beneficiam das regalias previstas no artigo 10.º do Decreto-Lei n.º 460/77, de 7 de Novembro.
 
-###### Artigo 13.º — Mecenato ambiental
+Artigo 13.º
+
+Mecenato ambiental
 
 Aos donativos em dinheiro ou em série concedidos às ONGA e que se destinem a financiar projectos de interesse público previamente reconhecido pelo IPAMB será aplicável, sem acumulação, o regime do mecenato cultural previsto nos Códigos do IRS e do IRC.»
 
@@ -1104,11 +1122,11 @@ Declaração de voto
 
 Votei parcialmente vencido por não ter concordado com o julgamento de constitucionalidade das seguintes normas constantes do Decreto n.º 8/2010:
 
-###### Artigo 10.º, n.º 1, primeira parte;
+Artigo 10.º, n.º 1, primeira parte;
 
-###### Artigo 10.º, n.º 2, quando remete para o disposto nos n.os 2 e 3 do artigo 8.º da Lei n.º 35/98, de 18 de Julho;
+Artigo 10.º, n.º 2, quando remete para o disposto nos n.os 2 e 3 do artigo 8.º da Lei n.º 35/98, de 18 de Julho;
 
-###### Artigo 14.º, n.º 4, na parte em que determina o local de realização das auditorias.
+Artigo 14.º, n.º 4, na parte em que determina o local de realização das auditorias.
 
 Discordei ainda da fundamentação apresentada para a declaração de inconstitucionalidade do artigo 14.º, n.º 2, alínea b), do referido decreto.
 

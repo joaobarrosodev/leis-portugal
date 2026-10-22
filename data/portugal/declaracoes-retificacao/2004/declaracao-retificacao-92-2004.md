@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/92/2004/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/92-2004-578129
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-10-22T00:00:00Z'
+  retrieved_at: '2026-10-22T19:04:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e6ec0440c230378c432c5e394ab3571a33bf10748963f559b469a7e864d7ae2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf3c07c81816671345293856800bc5bdc5bf7f7ddee4caff8c0f007e90805d2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:04:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,54 +68,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Angra do Heroísmo
 - Assembleia Legislativa Regional
-- Financiamento
 - BEM Móvel
 - BENS Classificados
-- Publicidade
+- Contra-ordenação
+- Equipamento Urbano
+- Exportação
+- Financiamento
+- ILHA de Santa Maria
 - ILHA de são Miguel
+- ILHA do Faial
+- Ilha Graciosa
 - ILHA Terceira
 - Imóvel Classificado
-- Multa
-- Obras Particulares
-- Obras de Conservação e Restauro
-- Contra-ordenação
-- Rede de Estradas
-- Património Cultural
-- Monumento Natural
 - Inventário do Património Cultural
+- Monumento Natural
+- Multa
+- Obras de Conservação e Restauro
+- Obras Particulares
 - Obras Públicas
-- ILHA de Santa Maria
+- Património Cultural
 - Património Histórico
-- Zona de Proteção
+- Património Natural
 - Plano de Pormenor
-- Exportação
-- Equipamento Urbano
 - Projeto
 - Protecção do Património
-- Património Natural
+- Publicidade
+- Rede de Estradas
 - Regime Jurídico
-- Ilha Graciosa
 - Santa CRUZ da Graciosa
-- Açores
-- ILHA do Faial
 - VILA do Porto
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/29/2004/08/24/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/29/2004/08/24/a/dre
+- type: cites
+  target: pt:dre:479598:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:04:24Z'
   warnings: []
   errors: []
 ---

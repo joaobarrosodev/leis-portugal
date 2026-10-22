@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 25/2000, 1º Suplemento, Série I-A de 2000-01-31
   number: '25'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 430-(3) a 430-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/01/025a01/00030003.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/4-a/2000/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-a-2000-596723
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-20T00:00:00Z'
+  retrieved_at: '2026-10-22T18:55:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a53d5f96f1ee6119eec5f86b77cca01f27619d261f836a9fc32658c735be3c78
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26607e382f12c9bde8cbb17a952be09f46148ee6ad89c9b89a95b69f955992ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:55:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Garantia
-- Publicidade
 - Câmara dos Revisores Oficiais de Contas
 - Capital Social
 - Cédula Profissional
 - Cidadão Estrangeiro
-- Multa
 - Contrato de Prestação de Serviços
 - Definição de Competências
-- União Europeia
-- Infracção Disciplinar
-- Processo Disciplinar
+- Estágio de Formação
 - Estatuto dos Revisores Oficiais de Contas
 - Firma
-- Pagamento
+- Garantia
 - Incompatibilidades
+- Infracção Disciplinar
+- Multa
 - Ordem dos Revisores Oficiais de Contas
+- Pagamento
 - Prescrição
-- Estágio de Formação
+- Processo Disciplinar
+- Publicidade
 - Reembolso
 - Remuneração
 - Responsabilidade Civil
@@ -93,25 +92,37 @@ subjects:
 - Segredo Profissional
 - Serviço de Auditoria
 - Sociedade de Revisores Oficiais de Contas
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:439818:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:439818:por
+  label: "Alterados os art.s 29º e 144º do Estatuto da Ordem dos Revisores Oficiais de Contas, aprovado pelo Dec Lei 487/99,\
+    \ de 16-Nov, rectificados pela presente declaração, pelo DEC LEI.224/2008.20.11.2008.MFAP, DR.IS [226] de 20.11.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-2008-439818
+  date: '2008-11-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/487/1999/11/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/487/1999/11/16/p/dre
+- type: cites
+  target: pt:dre:684397:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:55:56Z'
   warnings: []
   errors: []
 ---

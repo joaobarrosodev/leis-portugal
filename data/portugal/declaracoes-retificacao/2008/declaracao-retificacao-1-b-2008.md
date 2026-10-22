@@ -25,7 +25,7 @@ publication:
   reference: Diário da República n.º 3/2008, 1º Suplemento, Série I de 2008-01-04
   number: '3'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 150-(2) a 150-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/01/00301/0000200003.pdf
 entry_into_force_dates: []
@@ -52,18 +52,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/1-b/2008/01/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-b-2008-462824
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-04T00:00:00Z'
+  retrieved_at: '2026-10-22T19:09:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 183fb28780ff32495f9eb1b5239f759fd1af67befe26ac46d920c60442592186
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91d47ac5e787e2f658e39f9fa79035d5dfcd148a4f14f914a46b67872c79c966
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:09:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,18 +71,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aproximação das Legislações
-- Multa
+- ASAE
 - Comércio Internacional
 - Comissão de Aplicação de Coimas em Matéria Económica e Publicidade
-- Saúde Pública
-- ASAE
 - Madeira.região Autónoma
-- Proteção do Consumidor
+- Multa
 - Produção Vegetal
-- Produto Fitofarmacêutico
-- Açores
 - Produto Agrícola
+- Produto Fitofarmacêutico
+- Proteção do Consumidor
+- Saúde Pública
 relationships:
 - type: cites
   target: celex:32007L0007
@@ -156,16 +156,101 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/625/1996/11/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/625/1996/11/04/p/dre
+- type: cites
+  target: pt:dre:178802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:269642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683842:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:373/2007
+  label: "Rectifica o Decreto-Lei n.º 373/2007, de 6 de Novembro, DR.IS [213]\0\0"
+  source: null
+  date: '2007-11-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:09:28Z'
   warnings: []
   errors: []
 ---

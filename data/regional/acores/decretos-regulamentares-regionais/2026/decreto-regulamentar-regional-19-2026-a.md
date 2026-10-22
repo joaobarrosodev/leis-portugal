@@ -46,26 +46,43 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/19/2026/08/19/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2026-1160130323
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-19T00:00:00Z'
+  retrieved_at: '2026-10-22T18:51:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3f7b2ddd090690885aba592a68a674f52f25156860fa330e800394ff4774e3b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2a9f5edaab997892a766c511b30d68579535630f32a87881784391dab8f8cc3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:51:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Animação Sócio-cultural
+- Comparticipação do Estado
+- Cultura
+- Divulgação Cultural
+- Financiamento
+- Fiscalização
+- Regulamentação de Atos Legislativos
+- Subsídio
 relationships:
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:24/2024/A
+  label: Altera, a partir de 20 de agosto de 2026, aplicando-se às candidaturas a projetos culturais que se realizem em 2027
+    e anos seguintes, os artigos 3.º, 5.º, 9.º, 10.º, 12.º, 13.º, 14.º, 15.º, 16.º e 17.º e revoga os n.os 2 e 5 do artigo
+    10.º do Decreto Regulamentar Regional n.º 24/2024/A, de 24 de dezembro, Diário da República n.º 249/2024, Série I, que
+    é republicado
+  source: null
+  date: '2024-12-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/29/2006/08/08/a/dre
   label: null
@@ -90,16 +107,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/24/2024/12/24/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/24/2024/12/24/a/dre
+- type: cites
+  target: pt:dre:125902660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66357209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901147129:por
+  label: null
+  source: null
 article_structure:
-  article_count: 38
+  article_count: 29
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:51:09Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +185,9 @@ Os artigos 3.º, 5.º, 9.º, 10.º, 12.º, 13.º, 14.º, 15.º, 16.º e 17.º do
 
 10 - As entidades que se candidatem a apoios integrados no patamar previsto na alínea a) do n.º 2 não podem candidatar-se a qualquer outro projeto no âmbito do RJAAC.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -156,7 +199,9 @@ a) Apoios sustentados que promovam atividades em regime sequencial, de atribuiç
 
 b) Apoios singulares de frequência pontual e de atribuição única.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 [...]
 
@@ -188,7 +233,9 @@ m) [...]
 
 n) [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -204,7 +251,9 @@ n) [...]
 
 7 - Para os apoios singulares que se candidatem no âmbito das alíneas e) a h) do n.º 2 do artigo 3.º é aberta, por despacho do membro do Governo Regional com competência em matéria de cultura, uma segunda fase de candidaturas que não deve ultrapassar a data de 31 de março do ano a que se reportam.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -228,7 +277,9 @@ c) Dois elementos suplentes.
 
 8 - [Anterior n.º 7.]
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - No prazo de 30 dias a contar do termo do prazo de apresentação das candidaturas, é publicado, no portal da Direção Regional da Cultura, o projeto de decisão sobre a admissibilidade das candidaturas, que contém a indicação dos patamares em que as mesmas se inserem.
 
@@ -254,7 +305,9 @@ iii) Os fatores de majoração aplicados.
 
 7 - [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -290,7 +343,9 @@ g) [...]
 
 5 - [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -298,7 +353,7 @@ g) [...]
 
 3 - [Anterior n.º 5.]
 
-4 - À pontuação final são aplicadas as majorações previstas nos n.<sup>os</sup>4 e 5 do artigo anterior correspondendo à pontuação máxima disponível numa escala percentual de 0 a 200 %.
+4 - À pontuação final são aplicadas as majorações previstas nos n.os4 e 5 do artigo anterior correspondendo à pontuação máxima disponível numa escala percentual de 0 a 200 %.
 
 5 - As candidaturas são ordenadas de forma decrescente, sendo elegíveis as que venham a obter, no mínimo, 50 % da pontuação final definida nos termos do n.º 3.
 
@@ -306,13 +361,17 @@ g) [...]
 
 7 - Por portaria do membro do Governo Regional competente em matéria de cultura são aprovadas as grelhas de avaliação dos critérios e subcritérios de apreciação das candidaturas.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
 2 - No caso dos apoios para os custos previstos na alínea d) do artigo 2.º do RJAAC, a editora, ou outras pessoas coletivas de direito privado, devem enviar à direção regional com competência em matéria de cultura 25 exemplares de cada uma das obras editadas, cujos destinatários são, preferencialmente, as Bibliotecas Públicas e Arquivos Regionais, as escolas com ensino secundário da Rede Regional de Bibliotecas Escolares e a direção regional com competência em matéria de cultura.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -328,7 +387,7 @@ b) Os restantes 40 %, 30 dias após a conclusão do projeto e aprovação do rel
 
 ###### Artigo 3.º — Revogação
 
-São revogados os n.<sup>os</sup>2 e 5 do artigo 10.º do [Decreto Regulamentar Regional n.º 24/2024/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), de 24 de dezembro.
+São revogados os n.os2 e 5 do artigo 10.º do [Decreto Regulamentar Regional n.º 24/2024/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), de 24 de dezembro.
 
 ###### Artigo 4.º — Republicação
 
@@ -340,11 +399,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e aplic
 
 Aprovado em Conselho do Governo Regional, na Horta, em 8 de julho de 2026.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 13 de agosto de 2026.**
+Assinado em Angra do Heroísmo em 13 de agosto de 2026.
 
-**Publique-se.**
+Publique-se.
 
 A Representante da República para a Região Autónoma dos Açores, Susana Goulart Costa.
 
@@ -742,7 +801,7 @@ ii) Objetivos específicos de interesse público cultural, com a valoração de 
 
 3 - A pontuação final da candidatura é traduzida em escala percentual de 0 a 100 %, através da soma dos vários critérios de apreciação, multiplicando-se essas somas pelas taxas de ponderação atribuídas, e dividindo-se por 20, quociente que corresponde à pontuação mais elevada, que se pode atribuir a cada critério de apreciação.
 
-4 - À pontuação final são aplicadas as majorações previstas nos n.<sup>os</sup>4 e 5 do artigo anterior correspondendo à pontuação máxima disponível numa escala percentual de 0 a 200 %.
+4 - À pontuação final são aplicadas as majorações previstas nos n.os4 e 5 do artigo anterior correspondendo à pontuação máxima disponível numa escala percentual de 0 a 200 %.
 
 5 - As candidaturas são ordenadas de forma decrescente, sendo elegíveis as que venham a obter, no mínimo, 50 % da pontuação final definida nos termos do n.º 3.
 
@@ -829,3 +888,5 @@ A concessão da bolsa de estudo, formação e criação deve ser formalizada atr
 1 - O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 2 - Sem prejuízo do disposto no número anterior, o presente diploma aplica-se às candidaturas a apoios a projetos culturais que se realizem em 2026.
+
+119949353

@@ -29,7 +29,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/06/10800/0001800081.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/268/2022/06/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/268-2022-184356510
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-06-03T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26b4d556bcb8f4768dc883359e93d6c0d87456682873dd26fcd950dd7fc8a594
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3c6b9b82fcbe561cc0168eb5cec3c0ec3f024c7b1b7804897f8946e9604a16a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,27 +71,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Crime
 - Armazenagem
-- Telefone
-- Interconexão de Dados
-- Recolha de Dados
-- Comunicações Eletrónicas
-- Correio Electrónico
 - Combate ao Crime
-- Decisão Judicial
-- Informática
-- Inconstitucionalidade
-- Segurança da Informação
-- Julgamento
-- Direitos do Indivíduo
-- Notificação
-- Internet
-- Processo Judicial
+- Comunicações Eletrónicas
 - Confidencialidade
-- Direito Penal
-- Investigação Criminal
+- Correio Electrónico
+- Crime
 - Dados Pessoais
+- Decisão Judicial
+- Direito Penal
+- Direitos do Indivíduo
+- Inconstitucionalidade
+- Informática
+- Interconexão de Dados
+- Internet
+- Investigação Criminal
+- Julgamento
+- Notificação
+- Processo Judicial
+- Recolha de Dados
+- Segurança da Informação
+- Telefone
 relationships:
 - type: cites
   target: celex:31995L0046
@@ -173,6 +173,106 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/915/2009/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/915/2009/08/18/p/dre
+- type: cites
+  target: pt:dre:108030503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108052020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108234809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125515884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1739916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1778690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3094764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3306251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66761452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70300353:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32002L0058
   label: null
@@ -186,15 +286,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 7
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:19Z'
   warnings: []
   errors: []
 ---
@@ -441,7 +541,9 @@ A requerente solicita a fiscalização das normas contidas nos seus artigos 4.º
 
 O artigo 4.º identifica as categorias de dados a armazenar pelos fornecedores de serviços de comunicações eletrónicas publicamente disponíveis ou de uma rede pública de comunicações; o artigo 6.º determina a obrigação da sua conservação pelo período de um ano, a contar da data da conclusão da comunicação; e o artigo 9.º estabelece as condições de transmissão de dados armazenados ao Ministério Público ou à autoridade de polícia criminal competente:
 
-###### Artigo 4.º — Categorias de dados a conservar
+Artigo 4.º
+
+Categorias de dados a conservar
 
 1 - Os fornecedores de serviços de comunicações eletrónicas publicamente disponíveis ou de uma rede pública de comunicações devem conservar as seguintes categorias de dados:
 
@@ -533,11 +635,15 @@ a) O identificador da célula no início da comunicação;
 
 b) Os dados que identifiquem a situação geográfica das células, tomando como referência os respetivos identificadores de célula durante o período em que se procede à conservação de dados.
 
-###### Artigo 6.º — Período de conservação
+Artigo 6.º
+
+Período de conservação
 
 As entidades referidas no n.º 1 do artigo 4.º devem conservar os dados previstos no mesmo artigo pelo período de um ano a contar da data da conclusão da comunicação.
 
-###### Artigo 9.º — Transmissão dos dados
+Artigo 9.º
+
+Transmissão dos dados
 
 1 - A transmissão dos dados referentes às categorias previstas no artigo 4.º só pode ser autorizada, por despacho fundamentado do juiz de instrução, se houver razões para crer que a diligência é indispensável para a descoberta da verdade ou que a prova seria, de outra forma, impossível ou muito difícil de obter no âmbito da investigação, deteção e repressão de crimes graves.
 
@@ -679,11 +785,15 @@ Por estas razões, situando-se as normas fiscalizadas no domínio de aplicação
 
 No que respeita à CDFUE, assumem relevância, desde logo, as normas contidas nos artigos 7.º e 8.º da Carta, relativos, respetivamente, ao respeito da vida privada e familiar e à proteção de dados pessoais:
 
-###### Artigo 7.º — Respeito pela vida privada e familiar
+Artigo 7.º
+
+Respeito pela vida privada e familiar
 
 Todas as pessoas têm direito ao respeito pela sua vida privada e familiar, pelo seu domicílio e pelas suas comunicações.
 
-###### Artigo 8.º — Proteção de dados pessoais
+Artigo 8.º
+
+Proteção de dados pessoais
 
 1 - Todas as pessoas têm direito à proteção dos dados de carácter pessoal que lhes digam respeito.
 
@@ -1047,11 +1157,11 @@ Todas estas asserções estão consolidadas na jurisprudência do TJ. Com efeito
 
 "[...]
 
-39 - Tendo em conta as interrogações suscitadas pelo tribunal de reenvio relativas à questão de saber se o direito da União impõe ou a interpretação conforme do direito nacional ou que fique inaplicada a disposição [deste] [...], importa recordar que, a fim de garantir a efetividade de todas as disposições do direito da União, o princípio do primado deste direito impõe, nomeadamente, aos órgãos jurisdicionais nacionais que, tanto quanto possível, interpretem o seu direito interno em conformidade com o direito da União (v., neste sentido, Acórdão de 24 de junho de 2019, [([ver documento original](https://files.diariodarepublica.pt/1s/2022/06/10800/0001800081.pdf))](https://files.diariodarepublica.pt/1s/2022/06/10800/0001800081.pdf), C-573/17, EU:C:2019:530, n.º 57).
+39 - Tendo em conta as interrogações suscitadas pelo tribunal de reenvio relativas à questão de saber se o direito da União impõe ou a interpretação conforme do direito nacional ou que fique inaplicada a disposição [deste] [...], importa recordar que, a fim de garantir a efetividade de todas as disposições do direito da União, o princípio do primado deste direito impõe, nomeadamente, aos órgãos jurisdicionais nacionais que, tanto quanto possível, interpretem o seu direito interno em conformidade com o direito da União (v., neste sentido, Acórdão de 24 de junho de 2019, [(ver documento original)](https://files.diariodarepublica.pt/1s/2022/06/10800/0001800081.pdf), C-573/17, EU:C:2019:530, n.º 57).
 
-40 - Só quando é impossível proceder a uma interpretação da regulamentação nacional conforme com as exigências do direito da União é que o juiz nacional encarregado de aplicar as disposições do direito da União tem a obrigação de assegurar o seu pleno efeito deixando inaplicada se necessário, pela sua própria autoridade, toda e qualquer disposição contrária da legislação nacional, mesmo posterior, sem ter de requerer ou esperar pela sua eliminação prévia pela via legislativa ou por qualquer outro procedimento constitucional (v., neste sentido, Acórdão de 24 de junho de 2019, [([ver documento original](https://files.diariodarepublica.pt/1s/2022/06/10800/0001800081.pdf))](https://files.diariodarepublica.pt/1s/2022/06/10800/0001800081.pdf), C-573/17, EU:C:2019:530, n.º 58 e jurisprudência referida).
+40 - Só quando é impossível proceder a uma interpretação da regulamentação nacional conforme com as exigências do direito da União é que o juiz nacional encarregado de aplicar as disposições do direito da União tem a obrigação de assegurar o seu pleno efeito deixando inaplicada se necessário, pela sua própria autoridade, toda e qualquer disposição contrária da legislação nacional, mesmo posterior, sem ter de requerer ou esperar pela sua eliminação prévia pela via legislativa ou por qualquer outro procedimento constitucional (v., neste sentido, Acórdão de 24 de junho de 2019, [(ver documento original)](https://files.diariodarepublica.pt/1s/2022/06/10800/0001800081.pdf), C-573/17, EU:C:2019:530, n.º 58 e jurisprudência referida).
 
-41 - Assim, em caso de impossibilidade de interpretação conforme, qualquer juiz nacional, chamado a pronunciar-se no quadro da sua competência, tem, como órgão de um Estado-Membro, a obrigação de deixar inaplicada qualquer disposição nacional contrária a uma disposição do direito da União que tenha efeito direto no litígio que tem de decidir (v., neste sentido, Acórdão de 24 de junho de 2019, [([ver documento original](https://files.diariodarepublica.pt/1s/2022/06/10800/0001800081.pdf))](https://files.diariodarepublica.pt/1s/2022/06/10800/0001800081.pdf), C-573/17, EU:C:2019:530, n.º 61 e jurisprudência referida). A este respeito, o Tribunal de Justiça já declarou que o artigo 6.º, n.º 3, da Diretiva 2012/13 [a disposição de DUE em causa no processo] deve ser considerado como tendo esse efeito direto (v., neste sentido, Acórdão de 14 de maio de 2020, Staatsanwaltschaft Offenburg, C-615/18, EU:C:2020:376, n.º 72).
+41 - Assim, em caso de impossibilidade de interpretação conforme, qualquer juiz nacional, chamado a pronunciar-se no quadro da sua competência, tem, como órgão de um Estado-Membro, a obrigação de deixar inaplicada qualquer disposição nacional contrária a uma disposição do direito da União que tenha efeito direto no litígio que tem de decidir (v., neste sentido, Acórdão de 24 de junho de 2019, [(ver documento original)](https://files.diariodarepublica.pt/1s/2022/06/10800/0001800081.pdf), C-573/17, EU:C:2019:530, n.º 61 e jurisprudência referida). A este respeito, o Tribunal de Justiça já declarou que o artigo 6.º, n.º 3, da Diretiva 2012/13 [a disposição de DUE em causa no processo] deve ser considerado como tendo esse efeito direto (v., neste sentido, Acórdão de 14 de maio de 2020, Staatsanwaltschaft Offenburg, C-615/18, EU:C:2020:376, n.º 72).
 
 [...]" (sublinhado acrescentado).
 
@@ -1105,7 +1215,7 @@ O artigo 15.º, n.º 1, da [Diretiva 2002/58/CE](https://data.europa.eu/eli/dir/
 
 (6) Importa ter presente a natureza especial das Decisões-Quadro, caso do Mandado de Detenção Europeu - que estava em causa no Acórdão Poplawski (nota 7, infra) - , enquanto instrumentos legislativos peculiares, anteriores ao Tratado de Lisboa, e que este suprimiu (cf. o atual elenco dos atos jurídicos da União, no artigo 288.º do TFUE). Correspondiam as Decisões-Quadro a fontes específicas do III Pilar, Cooperação política e judiciária em matéria penal (sistema que terminou com o Tratado de Lisboa), então previstas no artigo 34.º do Tratado da União ("pré-Lisboa", versão de 2006, pós-Nice):
 
-###### Artigo 34.º
+Artigo 34.º
 
 2 - O Conselho toma medidas e promove a cooperação, sob a forma e segundo os processos adequados instituídos pelo presente título, no sentido de contribuir para a realização dos objetivos da União. Para o efeito, o Conselho pode, deliberando por unanimidade, por iniciativa de qualquer Estado-Membro ou da Comissão:
 
@@ -1115,7 +1225,7 @@ b) Adotar decisões-quadro para efeitos de aproximação das disposições legis
 
 O destino das Decisões-Quadro adotadas anteriormente ao Tratado de Lisboa é matéria tratada no Protocolo Relativo às Disposições Transitórias (anexo ao Tratado de Lisboa):
 
-###### Artigo 9.º
+Artigo 9.º
 
 Os efeitos jurídicos dos atos das instituições, órgãos e organismos da União adotados com base no Tratado da União Europeia com base no Tratado da União Europeia antes da entrada em vigor do Tratado de Lisboa são preservados enquanto esses atos não forem revogados, anulados ou alterados em aplicação dos Tratados.
 
@@ -1133,7 +1243,7 @@ Os efeitos jurídicos dos atos das instituições, órgãos e organismos da Uni�
 
 63 Assim, o juiz nacional não é obrigado, com fundamento unicamente no direito da União, a deixar de aplicar uma disposição do direito nacional incompatível com uma disposição da Carta dos Direitos Fundamentais da União Europeia que, como o seu artigo 27.º [refere-se este ao Direito à informação e à consulta dos trabalhadores na empresa], não tem efeito direto (v., neste sentido, Acórdão de 15 de janeiro de 2014, Association de médiation sociale, C-176/12, EU:C:2014:2, n.os 46 a 48).
 
-64 De igual modo, a invocação de uma disposição de uma diretiva que não seja suficientemente clara, precisa e incondicional para lhe ser reconhecido efeito direto não pode ter como consequência, com fundamento unicamente no direito da União, que a aplicação de uma disposição nacional seja afastada por um órgão jurisdicional de um Estado-Membro (v., neste sentido, Acórdãos de 24 de janeiro de 2012, Dominguez, C-282/10, EU:C:2012:33, n.º 41; de 6 de março de 2014, Napoli, C-595/12, EU:C:2014:128, n.º 50; de 25 de junho de 2015, [([ver documento original](https://files.diariodarepublica.pt/1s/2022/06/10800/0001800081.pdf))](https://files.diariodarepublica.pt/1s/2022/06/10800/0001800081.pdf), C-671/13, EU:C:2015:418, n.º 60; e de 16 de julho de 2015, Larentia Minerva e Marenave Schiffahrt, C-108/14 e C-109/14, EU:C:2015:496, n.os 51 e 52).
+64 De igual modo, a invocação de uma disposição de uma diretiva que não seja suficientemente clara, precisa e incondicional para lhe ser reconhecido efeito direto não pode ter como consequência, com fundamento unicamente no direito da União, que a aplicação de uma disposição nacional seja afastada por um órgão jurisdicional de um Estado-Membro (v., neste sentido, Acórdãos de 24 de janeiro de 2012, Dominguez, C-282/10, EU:C:2012:33, n.º 41; de 6 de março de 2014, Napoli, C-595/12, EU:C:2014:128, n.º 50; de 25 de junho de 2015, [(ver documento original)](https://files.diariodarepublica.pt/1s/2022/06/10800/0001800081.pdf), C-671/13, EU:C:2015:418, n.º 60; e de 16 de julho de 2015, Larentia Minerva e Marenave Schiffahrt, C-108/14 e C-109/14, EU:C:2015:496, n.os 51 e 52).
 
 [...]" (sublinhados acrescentados).
 
@@ -1182,3 +1292,5 @@ No caso dos autos, está em causa a aplicação do princípio da proporcionalida
 O n.º 4 do artigo 7.º desta Lei, relativo à proteção e segurança dos dados, remete para as normas previstas na Lei de Proteção de Dados - [Lei n.º 67/98](https://diariodarepublica.pt/dr/detalhe/lei/67-1998-239857), de 26 de outubro - (artigos 4.º, 18.º e 19.º) e na [Lei n.º 41/2004](https://diariodarepublica.pt/dr/detalhe/lei/41-2004-480710), de 18 de agosto, onde se resolve a questão da territorialidade e da transferência na e para fora União Europeia. Atualmente a questão está regulada no Regulamento (EU) [2016/679](https://data.europa.eu/eli/reg/2016/679/oj?locale=pt) do Parlamento Europeu e do Conselho, de 27 de abril de 2016 (artigos 44.º a 50.º). De resto, quando se sujeita a conservação dos dados ao controlo da CNPD, implicitamente se está a admitir que a sede dos dados tem que ser o território português.
 
 De igual modo, o artigo 9.º da [Lei n.º 32/2008](https://diariodarepublica.pt/dr/detalhe/lei/32-2008-456812) não é a sede para regular se e quando o titular dos dados deve ser notificado pelas autoridades judiciárias do acesso e transmissão de dados. De resto, se se conclui que os dados não podem ser conservados, como se faz no acórdão, o problema da notificação fica prejudicado, porque não havendo dados armazenados não há acesso e consequentemente não haverá notificação. Ou seja, o problema da notificação só se coloca se se admitir a conservação dos dados e a respetiva transmissão. Porém, o n.º 5 do artigo 10.º da Lei de Proteção de Dados preceitua que, para além de outros casos, a «obrigação de informação pode ser dispensada mediante disposição legal ou deliberação da CNPD, por motivos de segurança do Estado e prevenção ou investigação criminal». É evidente que assim tem que ser: se o processo estiver em segredo de justiça, pode não haver conveniência em notificar o suspeito de que os seus dados foram recolhidos. Portanto, a questão da notificação dos meios de prova recolhidos é matéria que só o direito processual penal tem que resolver no âmbito do estatuto do arguido (artigo 61.º do CPP). - Lino José Batista Rodrigues Ribeiro.
+
+115379052

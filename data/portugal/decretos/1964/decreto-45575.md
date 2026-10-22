@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45575-1964-469853
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-10-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:39:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac3970774e294ec6a7692966e26a30058de8522e2fd4ef119cf53e45e8a60a04
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f97efd1efaddba3f98af05f91d3e6281480a25d7ddf30e412672113f4675c078
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:39:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Angola.Colónia Portuguesa
+- CABO Verde.Colónia Portuguesa
+- Definição de Competências
+- Gratificação
+- Guiné.Colónia Portuguesa
+- Macau.Colónia Portuguesa
+- Moçambique.Colónia Portuguesa
+- Orgânica
+- Quadro de Pessoal
+- Remuneração
+- São Tomé e Príncipe.Colónia Portuguesa
+- Serviços Provinciais de Obras Públicas e Transportes do Ultramar
+- Timor.Colónia Portuguesa
 relationships:
 - type: amended_by
   target: pt:dre:264366:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:164415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502425:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 38
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:39:29Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +131,7 @@ DIPLOMA ORGÂNICO DOS SERVIÇOS PROVINCIAIS DE OBRAS PÚBLICAS E TRANSPORTES DO 
 
 A) Organização e atribuições gerais
 
-###### Artigo 1.º Compete aos serviços de obras públicas e transportes do ultramar:
+Artigo 1.º Compete aos serviços de obras públicas e transportes do ultramar:
 
 1) Estudar, projectar, executar ou fiscalizar a execução de obras, orientando e fiscalizando a actividade dos ramos de acção que lhes correspondem.
 
@@ -166,13 +195,13 @@ A) Organização e atribuições gerais
 
 31) Reunir os elementos de cadastro respeitantes aos empreiteiros e fornecedores de obras públicas, remetendo cópia à Direcção-Geral de Obras Públicas e Comunicações.
 
-###### Art. 2.º Nas províncias de Angola e de Moçambique os serviços de obras públicas e transportes constituem direcções de serviços denominadas «Direcções Provinciais dos Serviços de Obras Públicas e Transportes».
+Art. 2.º Nas províncias de Angola e de Moçambique os serviços de obras públicas e transportes constituem direcções de serviços denominadas «Direcções Provinciais dos Serviços de Obras Públicas e Transportes».
 
 § único. Nas restantes províncias ultramarinas os serviços de obras públicas e transportes constituem repartições de serviços denominadas «Repartições Provinciais dos Serviços de Obras Públicas e Transportes».
 
-###### Art. 3.º Os vários ramos de serviços técnicos e administrativos agrupam-se em repartições, divisões e secções, conforme é estabelecido nas disposições deste diploma, que especialmente respeitam à orgânica dos serviços de obras públicas e transportes de cada uma das províncias.
+Art. 3.º Os vários ramos de serviços técnicos e administrativos agrupam-se em repartições, divisões e secções, conforme é estabelecido nas disposições deste diploma, que especialmente respeitam à orgânica dos serviços de obras públicas e transportes de cada uma das províncias.
 
-###### Art. 4.º Junto de todas as Direcções e Repartições Provinciais dos Serviços de Obras Públicas e Transportes funcionam o Conselho Técnico de Obras Públicas e o Conselho dos Transportes Terrestres como órgãos consultivos dos governos provinciais, com as atribuições, composição e funcionamento que são fixados nas disposições deste diploma.
+Art. 4.º Junto de todas as Direcções e Repartições Provinciais dos Serviços de Obras Públicas e Transportes funcionam o Conselho Técnico de Obras Públicas e o Conselho dos Transportes Terrestres como órgãos consultivos dos governos provinciais, com as atribuições, composição e funcionamento que são fixados nas disposições deste diploma.
 
 § único. Os pareceres daqueles conselhos não obrigam a Administração, ficando sempre livre ao governador conformar-se ou não com os votos emitidos ou informações prestadas em harmonia com o que julgar de melhor interesse para a província. A não homologação dos pareceres deve produzir-se em despacho fundamentado.
 
@@ -180,13 +209,13 @@ B) Da orgânica dos serviços e divisão de atribuições
 
 1 - Províncias de Angola e Moçambique
 
-###### Art. 5.º As Direcções Provinciais dos Serviços de Obras Públicas e Transportes, para integral desempenho das suas missões e cobertura técnica dos territórios das respectivas províncias, dispõem de:
+Art. 5.º As Direcções Provinciais dos Serviços de Obras Públicas e Transportes, para integral desempenho das suas missões e cobertura técnica dos territórios das respectivas províncias, dispõem de:
 
 Serviços centrais;
 
 Serviços regionais.
 
-###### Art. 6.º Além das atribuições gerais mencionadas no artigo 1.º, compete designadamente às Direcções Provinciais dos Serviços de Obras Públicas e Transportes:
+Art. 6.º Além das atribuições gerais mencionadas no artigo 1.º, compete designadamente às Direcções Provinciais dos Serviços de Obras Públicas e Transportes:
 
 a) Imprimir orientação aos serviços de acordo com a política de obras públicas e superintender na sua administração;
 
@@ -210,7 +239,7 @@ j) Assegurar o bom estado de conservação do material de transporte e do equipa
 
 1.1 - Dos serviços centrais e suas atribuições
 
-###### Art. 7.º As Direcções dos Serviços de Obras Públicas e Transportes compreendem, nos seus serviços centrais, além do Gabinete da Direcção, um agrupamento de serviços técnicos e outro de serviços administrativos.
+Art. 7.º As Direcções dos Serviços de Obras Públicas e Transportes compreendem, nos seus serviços centrais, além do Gabinete da Direcção, um agrupamento de serviços técnicos e outro de serviços administrativos.
 
 § único. O Gabinete da Direcção - constituído pelo director e subdirector dos serviços e pelo adjunto administrativo - dispõe de uma secretaria central, que compreende:
 
@@ -220,7 +249,7 @@ Uma secção de pessoal;
 
 Biblioteca e documentação.
 
-###### Art. 8.º Os serviços centrais são constituídos pelos seguintes departamentos:
+Art. 8.º Os serviços centrais são constituídos pelos seguintes departamentos:
 
 Repartição de Serviços Administrativos;
 
@@ -236,75 +265,75 @@ Parque e Oficinas.
 
 § único. Enquanto as circunstâncias o aconselharem, nos serviços centrais da província de Moçambique existirá também uma repartição de estradas e pontes.
 
-###### Art. 9.º A Repartição de Serviços Administrativos - cuja chefia é exercida por inerência pelo adjunto administrativo - compreende as seguintes secções:
+Art. 9.º A Repartição de Serviços Administrativos - cuja chefia é exercida por inerência pelo adjunto administrativo - compreende as seguintes secções:
 
-#### Secção de Contabilidade;
+Secção de Contabilidade;
 
-#### Secção de Tesouraria e Pagadoria;
+Secção de Tesouraria e Pagadoria;
 
-#### Secção de Compras, Depósitos e Inventário;
+Secção de Compras, Depósitos e Inventário;
 
-#### Secção de Contencioso e Contratos.
+Secção de Contencioso e Contratos.
 
-###### Art. 10.º A Repartição de Edifícios e Monumentos é chefiada por indivíduo habilitado com o curso de Engenharia Civil e compreende:
+Art. 10.º A Repartição de Edifícios e Monumentos é chefiada por indivíduo habilitado com o curso de Engenharia Civil e compreende:
 
-#### Secção de Expediente e Arquivo;
-
-##### Divisão de Estudos;
-
-##### Divisão de Obras.
-
-###### Art. 11.º A Repartição de Urbanismo - cuja chefia é atribuída a indivíduo habilitado com o curso de Engenharia Civil - dispõe de:
-
-#### Secção de Expediente e Arquivo;
-
-##### Divisão de Inquérito e Planificação;
-
-##### Divisão de Engenharia Sanitária.
-
-###### Art. 12.º A Repartição de Estradas e Pontes é chefiada por indivíduo habilitado com o curso de Engenharia Civil e compreende:
-
-#### Secção de Expediente e Arquivo;
+Secção de Expediente e Arquivo;
 
 ##### Divisão de Estudos;
 
-##### Divisão de Construção;
+Divisão de Obras.
 
-##### Divisão de Conservação.
+Art. 11.º A Repartição de Urbanismo - cuja chefia é atribuída a indivíduo habilitado com o curso de Engenharia Civil - dispõe de:
 
-###### Art. 13.º A Repartição de Hidráulica - chefiada por indivíduo habilitado com o curso de Engenharia Civil - compreende:
+Secção de Expediente e Arquivo;
 
-#### Secção de Expediente e Arquivo;
+Divisão de Inquérito e Planificação;
+
+Divisão de Engenharia Sanitária.
+
+Art. 12.º A Repartição de Estradas e Pontes é chefiada por indivíduo habilitado com o curso de Engenharia Civil e compreende:
+
+Secção de Expediente e Arquivo;
+
+##### Divisão de Estudos;
+
+Divisão de Construção;
+
+Divisão de Conservação.
+
+Art. 13.º A Repartição de Hidráulica - chefiada por indivíduo habilitado com o curso de Engenharia Civil - compreende:
+
+Secção de Expediente e Arquivo;
 
 ##### Divisão de Hidrologia;
 
-##### Divisão de Hidráulica Fluvial e Navegação Interna;
+Divisão de Hidráulica Fluvial e Navegação Interna;
 
-##### Divisão de Aproveitamentos Hidráulicos.
+Divisão de Aproveitamentos Hidráulicos.
 
-###### Art. 14.º A Repartição de Viação, cuja chefia é atribuída a indivíduo habilitado com o curso de Engenharia Civil ou Mecânica, compreende as seguintes secções e divisões:
+Art. 14.º A Repartição de Viação, cuja chefia é atribuída a indivíduo habilitado com o curso de Engenharia Civil ou Mecânica, compreende as seguintes secções e divisões:
 
-#### Secção de Expediente e Arquivo;
+Secção de Expediente e Arquivo;
 
-#### Secção de Estatística e Cadastro;
+Secção de Estatística e Cadastro;
 
 ##### Divisão Técnica;
 
-##### Divisão de Fiscalização.
+Divisão de Fiscalização.
 
-###### Art. 15.º O Parque e Oficinas, cuja chefia é atribuída a indivíduo, com a categoria de chefe de repartição, habilitado com o curso de Engenharia Mecânica, compreende:
+Art. 15.º O Parque e Oficinas, cuja chefia é atribuída a indivíduo, com a categoria de chefe de repartição, habilitado com o curso de Engenharia Mecânica, compreende:
 
-#### Secção de Expediente e Arquivo;
+Secção de Expediente e Arquivo;
 
-#### Secção de Armazéns e Inventário;
+Secção de Armazéns e Inventário;
 
 ##### Divisão de Parque;
 
-##### Divisão de Oficinas.
+Divisão de Oficinas.
 
-###### Art. 16.º À secretaria central do Gabinete da Direcção pertence todo o serviço que se relacione com o pessoal e todo o expediente geral da Direcção dos Serviços, o arquivo geral e biblioteca.
+Art. 16.º À secretaria central do Gabinete da Direcção pertence todo o serviço que se relacione com o pessoal e todo o expediente geral da Direcção dos Serviços, o arquivo geral e biblioteca.
 
-###### Art. 17.º À Repartição de Serviços Administrativos compete:
+Art. 17.º À Repartição de Serviços Administrativos compete:
 
 a) Elaborar o expediente próprio de toda a contabilização das verbas postas à disposição dos serviços;
 
@@ -348,7 +377,7 @@ t) Elaborar o projecto de orçamento anual dos serviços;
 
 u) Organizar os processos de concurso para aquisição de materiais.
 
-###### Art. 18.º À Repartição de Edifícios e Monumentos compete:
+Art. 18.º À Repartição de Edifícios e Monumentos compete:
 
 a) Estudar, construir e conservar os faróis, edifícios e monumentos;
 
@@ -372,11 +401,11 @@ j) Fazer o expediente correspondente a todo o serviço de organização de proje
 
 k) Manter organizados os arquivos técnico e de originais de desenhos.
 
-###### Art. 19.º Junto da Repartição de Edifícios e Monumentos, que assegurará o respectivo expediente, funciona a Comissão de Monumentos Nacionais, que é um órgão consultivo e orientador da restauração e conservação dos monumentos históricos da província e da criação de novos padrões.
+Art. 19.º Junto da Repartição de Edifícios e Monumentos, que assegurará o respectivo expediente, funciona a Comissão de Monumentos Nacionais, que é um órgão consultivo e orientador da restauração e conservação dos monumentos históricos da província e da criação de novos padrões.
 
 § único. Em diploma especial e tendo em atenção as condições especiais de cada província, o governador-geral regulará o funcionamento e atribuições da Comissão.
 
-###### Art. 20.º A Comissão de Monumentos Nacionais é constituída por:
+Art. 20.º A Comissão de Monumentos Nacionais é constituída por:
 
 Presidente - director dos Serviços de Obras Públicas e Transportes.
 
@@ -394,7 +423,7 @@ Representante do comando militar da província;
 
 Dois indivíduos de reconhecida idoneidade no assunto a nomear pelo governador-geral da província.
 
-###### Art. 21.º À Repartição de Urbanismo compete:
+Art. 21.º À Repartição de Urbanismo compete:
 
 a) Estudar e elaborar os planos de urbanização directores ou reguladores e seu parcelamento, relativos aos centros populacionais que não possuam autarquia local provida de serviço especializado;
 
@@ -418,7 +447,7 @@ i) Elaborar todo o expediente correspondente aos assuntos distribuídos à Repar
 
 k) Manter em dia os arquivos técnico, topográfico e de originais de desenho.
 
-###### Art. 22.º Junto à Repartição de Urbanismo, onde será assegurado todo o expediente, funciona a Comissão Provincial de Urbanização, que é um órgão consultivo e orientador dos problemas de urbanização, constituído pelas seguintes entidades:
+Art. 22.º Junto à Repartição de Urbanismo, onde será assegurado todo o expediente, funciona a Comissão Provincial de Urbanização, que é um órgão consultivo e orientador dos problemas de urbanização, constituído pelas seguintes entidades:
 
 Presidente - director dos Serviços de Obras Públicas e Transportes.
 
@@ -438,7 +467,7 @@ Dois arquitectos representantes das câmaras municipais.
 
 § único. Em diploma do Governo-Geral da província serão regulados o funcionamento e atribuições da Comissão, tendo em atenção os condicionamentos especiais de cada uma das províncias.
 
-###### Art. 23.º À Repartição de Estradas e Pontes compete:
+Art. 23.º À Repartição de Estradas e Pontes compete:
 
 a) Estudar, construir e conservar as estradas da província, bem como todas as obras de arte correntes e especiais;
 
@@ -460,7 +489,7 @@ i) Elaborar o expediente relativo aos assuntos distribuídos à Repartição;
 
 j) Organizar e manter actualizados os arquivos técnico e de originais de desenhos.
 
-###### Art. 24.º À Repartição de Hidráulica compete:
+Art. 24.º À Repartição de Hidráulica compete:
 
 a) Estudar e construir as obras de melhoramento e conservação das costas, estuários e portos que não estejam entregues a outros serviços;
 
@@ -496,7 +525,7 @@ p) Organizar e manter em dia os arquivos técnico e de originais de desenhos;
 
 q) Promover a publicação do anuário hidrológico da província.
 
-###### Art. 25.º À Repartição de Viação compete:
+Art. 25.º À Repartição de Viação compete:
 
 a) Fazer o estudo dos problemas de viação e trânsito, a fiscalização e polícia de trânsito nas estradas e nos transportes rodoviários, compreendendo a elaboração de normas e regulamentos;
 
@@ -524,17 +553,17 @@ l) Coordenar e compilar os elementos estatísticos e de informação relativos a
 
 m) Fazer o expediente do Conselho dos Transportes Terrestres.
 
-###### Art. 26.º Ficam os governadores-gerais de Angola e Moçambique autorizados a criar as Comissões Técnicas de Automobilismo que julgarem indispensáveis, com pessoal da Divisão Técnica da Repartição de Viação ou das direcções distritais, à medida que forem sendo julgadas necessárias.
+Art. 26.º Ficam os governadores-gerais de Angola e Moçambique autorizados a criar as Comissões Técnicas de Automobilismo que julgarem indispensáveis, com pessoal da Divisão Técnica da Repartição de Viação ou das direcções distritais, à medida que forem sendo julgadas necessárias.
 
-###### Art. 27.º As Comissões Técnicas de Automobilismo são constituídas por um presidente e dois vogais, além do pessoal de secretaria indispensável.
+Art. 27.º As Comissões Técnicas de Automobilismo são constituídas por um presidente e dois vogais, além do pessoal de secretaria indispensável.
 
 § único. A actividade dos membros destas comissões será remunerada mediante gratificação especial, a fixar em diploma legislativo da província, tendo em atenção o movimento do respectivo serviço.
 
-###### Art. 28.º A Polícia de Viação e Trânsito, sob o comando de um oficial do Exército de patente de capitão ou tenente, depende da Repartição dos Serviços de Viação.
+Art. 28.º A Polícia de Viação e Trânsito, sob o comando de um oficial do Exército de patente de capitão ou tenente, depende da Repartição dos Serviços de Viação.
 
 § único. O pessoal da Polícia de Segurança Pública a destacar para constituir a Polícia de Viação e Trânsito receberá, por conta das dotações do orçamento da Direcção dos Serviços de Obras Públicas e Transportes, os vencimentos de categoria e exercício em vigor e as gratificações constantes do mapa I anexo a este diploma.
 
-###### Art. 29.º Ao Parque e Oficinas compete:
+Art. 29.º Ao Parque e Oficinas compete:
 
 a) Dar assistência técnica e apoio oficial a todo o material de parque motorizado dos serviços de obras públicas;
 
@@ -558,15 +587,15 @@ j) Fazer o expediente relativo a todo o serviço e manter organizados os respect
 
 1.2 - Dos serviços regionais e suas atribuições
 
-###### Art. 30.º Os serviços regionais de obras públicas e transportes de Angola e Moçambique são, essencialmente, órgãos de execução que funcionam nas sedes dos governos de distrito.
+Art. 30.º Os serviços regionais de obras públicas e transportes de Angola e Moçambique são, essencialmente, órgãos de execução que funcionam nas sedes dos governos de distrito.
 
 § 1.º Para desempenho das funções que lhe competem cada direcção regional disporá dos seguintes departamentos:
 
 ##### Divisão Técnica;
 
-#### Secção de Expediente e Arquivo;
+Secção de Expediente e Arquivo;
 
-#### Secção de Contabilidade;
+Secção de Contabilidade;
 
 Armazéns e Oficinas.
 
@@ -574,9 +603,9 @@ Armazéns e Oficinas.
 
 #### Secção Técnica;
 
-#### Secção de Expediente;
+Secção de Expediente;
 
-#### Secção de Contabilidade;
+Secção de Contabilidade;
 
 Armazéns e Oficinas.
 
@@ -586,7 +615,7 @@ Armazéns e Oficinas.
 
 § 5.º As Comissões Técnicas de Automobilismo (C. T. A.) de Luanda e Lourenço Marques funcionam integradas na Repartição de Viação dos serviços centrais.
 
-###### Art. 31.º Às Direcções Regionais e Repartições Distritais de Obras Públicas e Transportes compete, de uma maneira geral, todas as atribuições dos serviços centrais, e nomeadamente:
+Art. 31.º Às Direcções Regionais e Repartições Distritais de Obras Públicas e Transportes compete, de uma maneira geral, todas as atribuições dos serviços centrais, e nomeadamente:
 
 a) Elaborar, em função das necessidades manifestadas pelo governo do distrito respectivo e consoante as directrizes dos serviços centrais, os planos distritais de estudos e obras a submeter anualmente à aprovação superior;
 
@@ -608,17 +637,17 @@ i) Coordenar os elementos estatísticos e de informação que interessem aos ser
 
 j) Assegurar o bom funcionamento e montagem da contabilidade e escrita das obras do distrito a seu cargo e, bem assim, a dos Armazéns e Oficinas.
 
-###### Art. 32.º Cada Direcção Regional de Obras Públicas o Transportes é chefiada por um engenheiro com a categoria de engenheiro-chefe, a designar pelo governador-geral sob proposta do director Provincial dos Serviços, entre as unidades daquela categoria pertencentes aos quadros da Direcção dos Serviços de Obras Públicas e Transportes.
+Art. 32.º Cada Direcção Regional de Obras Públicas o Transportes é chefiada por um engenheiro com a categoria de engenheiro-chefe, a designar pelo governador-geral sob proposta do director Provincial dos Serviços, entre as unidades daquela categoria pertencentes aos quadros da Direcção dos Serviços de Obras Públicas e Transportes.
 
-###### Art. 33.º As Repartições Distritais de Obras Públicas e Transportes são chefiadas por engenheiros de 1.ª ou 2.ª classe, a designar pelo governador-geral sob proposta do director Provincial dos Serviços, entre as unidades daquelas categorias pertencentes aos quadros.
+Art. 33.º As Repartições Distritais de Obras Públicas e Transportes são chefiadas por engenheiros de 1.ª ou 2.ª classe, a designar pelo governador-geral sob proposta do director Provincial dos Serviços, entre as unidades daquelas categorias pertencentes aos quadros.
 
 § único. Na falta daquelas unidades ou quando outras necessidades do serviço o recomendem, podem aquelas chefias ser atribuídas a adjuntos técnicos.
 
-###### Art. 34.º No regulamento deste decreto, a publicar em cada província, devem ser fixadas, de acordo com a natureza, volume e desenvolvimento do serviço, as secções técnicas que pertencem a cada uma das Divisões Técnicas das Direcções Regionais e das Repartições Centrais.
+Art. 34.º No regulamento deste decreto, a publicar em cada província, devem ser fixadas, de acordo com a natureza, volume e desenvolvimento do serviço, as secções técnicas que pertencem a cada uma das Divisões Técnicas das Direcções Regionais e das Repartições Centrais.
 
 2 - Províncias da Guiné, S. Tomé e Príncipe Cabo Verde, Macau e Timor
 
-###### Art. 35.º Além das atribuições gerais mencionadas no artigo 1.º, compete designadamente às Repartições Provinciais dos Serviços de Obras Públicas e Transportes:
+Art. 35.º Além das atribuições gerais mencionadas no artigo 1.º, compete designadamente às Repartições Provinciais dos Serviços de Obras Públicas e Transportes:
 
 a) Elaborar os planos anuais de estudos e obras a submeter à aprovação superior em função das necessidades e possibilidades da província, segundo a orientação fixada pelo governador, os quais devem incluir todas as obras quaisquer que sejam os fundos que venham a suportar os encargos correspondentes;
 
@@ -642,15 +671,15 @@ j) Assegurar o bom estado de conservação do material de transportes e do equip
 
 k) Instruir e informar todos os processos e assuntos que devam ser apreciados pelo governador da província.
 
-###### Art. 36.º As Repartições Provinciais do Serviço de Obras Públicas e Transportes do Ultramar, para execução das funções que lhes estão cometidas, compreendem uma divisão técnica e uma divisão administrativa, com as subdivisões constantes dos esquemas orgânicos referentes a cada província que fazem parte deste diploma.
+Art. 36.º As Repartições Provinciais do Serviço de Obras Públicas e Transportes do Ultramar, para execução das funções que lhes estão cometidas, compreendem uma divisão técnica e uma divisão administrativa, com as subdivisões constantes dos esquemas orgânicos referentes a cada província que fazem parte deste diploma.
 
 § único. Integradas em cada Repartição Provincial funcionam as Comissões Técnicas de Automobilismo (C. T. A.), para os efeitos do que dispõe o Código da Estrada.
 
-###### Art. 37.º As Comissões Técnicas de Automobilismo (C. T. A.) são constituídas por um presidente e dois vogais a recrutar, sempre que possível, entre o pessoal das Repartições Provinciais.
+Art. 37.º As Comissões Técnicas de Automobilismo (C. T. A.) são constituídas por um presidente e dois vogais a recrutar, sempre que possível, entre o pessoal das Repartições Provinciais.
 
 § único. A actividade dos membros destas Comissões será remunerada mediante gratificação especial a fixar em diploma legislativo da província, tendo em atenção o movimento do respectivo serviço.
 
-###### Art. 38.º À Divisão Técnica das Repartições Provinciais de Obras Públicas e Transportes compete, segundo a orientação e direcção do chefe dos serviços provinciais:
+Art. 38.º À Divisão Técnica das Repartições Provinciais de Obras Públicas e Transportes compete, segundo a orientação e direcção do chefe dos serviços provinciais:
 
 a) Estudar, construir e conservar os edifícios, monumentos, estradas da província, obras de melhoramento das costas, estuários e portos que não estejam entregues a outros serviços;
 
@@ -682,15 +711,15 @@ n) Recolher e registar os elementos estatísticos hidrometeorológicos;
 
 o) Organizar os processos de concessões de aproveitamento de águas correntes e das obras para uso das referidas águas.
 
-###### Art. 39.º A Divisão Técnica, que é chefiada por um engenheiro de 1.ª ou 2.ª classe, ou por um adjunto técnico, terá os seus serviços agrupados em secções e subsecções, conforme as especialidades, que podem funcionar separadas ou conjuntamente, consoante as disponibilidades de pessoal e o seu maior ou menor desenvolvimento em cada província.
+Art. 39.º A Divisão Técnica, que é chefiada por um engenheiro de 1.ª ou 2.ª classe, ou por um adjunto técnico, terá os seus serviços agrupados em secções e subsecções, conforme as especialidades, que podem funcionar separadas ou conjuntamente, consoante as disponibilidades de pessoal e o seu maior ou menor desenvolvimento em cada província.
 
-###### Art. 40.º A Divisão Administrativa, que é superintendida pelo chefe dos serviços, compreende:
+Art. 40.º A Divisão Administrativa, que é superintendida pelo chefe dos serviços, compreende:
 
 Secretaria;
 
-#### Secção de Contabilidade de Fazenda;
+Secção de Contabilidade de Fazenda;
 
-#### Secção de Armazéns e Compras.
+Secção de Armazéns e Compras.
 
 § único. À Divisão Administrativa compete:
 
@@ -716,13 +745,13 @@ j) Manter devidamente actualizado todo o inventário dos serviços;
 
 k) Promover a conservação e reparação das máquinas, móveis, utensílios e ferramentas pertencentes aos serviços.
 
-###### Art. 41.º Na província de Cabo Verde os serviços de agrimensura e cadastro mantêm-se integrados na Repartição Provincial de Obras Públicas e Transportes, constituindo uma secção da sua Divisão Técnica, enquanto não se justificar a criação de serviço independente.
+Art. 41.º Na província de Cabo Verde os serviços de agrimensura e cadastro mantêm-se integrados na Repartição Provincial de Obras Públicas e Transportes, constituindo uma secção da sua Divisão Técnica, enquanto não se justificar a criação de serviço independente.
 
-###### Art. 42.º Nas províncias da Guiné, S. Tomé e Príncipe, Timor e Macau os serviços de obras dos portos mantêm-se integrados nas respectivas Repartições Provinciais de Obras Públicas e Transportes, enquanto não se justificar a criação de serviço independente.
+Art. 42.º Nas províncias da Guiné, S. Tomé e Príncipe, Timor e Macau os serviços de obras dos portos mantêm-se integrados nas respectivas Repartições Provinciais de Obras Públicas e Transportes, enquanto não se justificar a criação de serviço independente.
 
-###### Art. 43.º Enquanto for julgado conveniente pelo governador de Macau, mantém-se a cargo da respectiva Repartição Provincial de Obras Públicas e Transportes os serviços de carácter municipal que ali têm estado integrados.
+Art. 43.º Enquanto for julgado conveniente pelo governador de Macau, mantém-se a cargo da respectiva Repartição Provincial de Obras Públicas e Transportes os serviços de carácter municipal que ali têm estado integrados.
 
-###### Art. 44.º Os serviços de viação da província de Macau, que têm funcionado na Câmara Municipal, são integrados, nos termos deste decreto, na Repartição Provincial de Obras Públicas e Transportes, para onde transitam com os respectivos arquivos.
+Art. 44.º Os serviços de viação da província de Macau, que têm funcionado na Câmara Municipal, são integrados, nos termos deste decreto, na Repartição Provincial de Obras Públicas e Transportes, para onde transitam com os respectivos arquivos.
 
 ### CAPÍTULO II — Organismos consultivos
 
@@ -730,7 +759,7 @@ A) Do Conselho Técnico de Obras Públicas
 
 Disposições gerais e comuns
 
-###### Art. 45.º O Conselho Técnico de Obras Públicas constitui o mais alto corpo consultor dos governos-gerais e de província relativamente aos problemas de engenharia e arquitectura e à coordenação dos serviços encarregados de proceder ao seu estudo e de efectivar as soluções adoptadas.
+Art. 45.º O Conselho Técnico de Obras Públicas constitui o mais alto corpo consultor dos governos-gerais e de província relativamente aos problemas de engenharia e arquitectura e à coordenação dos serviços encarregados de proceder ao seu estudo e de efectivar as soluções adoptadas.
 
 Como organismo de carácter essencialmente técnico compete-lhe:
 
@@ -756,9 +785,9 @@ j) Estudar os projectos de regulamentos e outras medidas de carácter permanente
 
 k) Informar outros assuntos em que disposição expressa da lei imponha a audição do Conselho e sempre que os governadores-gerais ou de província o determinem.
 
-###### Art. 46.º O Conselho Técnico de Obras Públicas de cada província regular-se-á por um regimento interno a publicar, no prazo de três meses, em portaria do respectivo Governo, sob proposta do director ou chefe da Repartição Provincial dos Serviços de Obras Públicas e Transportes, ouvido o mesmo Conselho.
+Art. 46.º O Conselho Técnico de Obras Públicas de cada província regular-se-á por um regimento interno a publicar, no prazo de três meses, em portaria do respectivo Governo, sob proposta do director ou chefe da Repartição Provincial dos Serviços de Obras Públicas e Transportes, ouvido o mesmo Conselho.
 
-###### Art. 47.º O Conselho reunirá quando o determinar o governador da província, funcionando legalmente logo que estejam presentes mais de metade dos membros convocados, incluindo o presidente.
+Art. 47.º O Conselho reunirá quando o determinar o governador da província, funcionando legalmente logo que estejam presentes mais de metade dos membros convocados, incluindo o presidente.
 
 § 1.º O Conselho poderá também reunir sob proposta do seu vice-presidente ou de três dos vogais, proposta que a Direcção ou Repartição Provincial dos Serviços de Obras Públicas e Transportes informará e submeterá a despacho do governador-geral ou de província para que decida sobre a sua oportunidade e interesse.
 
@@ -768,19 +797,19 @@ k) Informar outros assuntos em que disposição expressa da lei imponha a audiç
 
 § 4.º De cada sessão do Conselho ou das suas secções, quando o seu funcionamento assim for permitido, será lavrada uma acta, a qual conterá o relato das discussões e o parecer final aprovado, com as declarações de voto que porventura se tenham produzido.
 
-###### Art. 48.º A direcção ou chefia dos serviços de obras públicas e transportes promoverá a remessa de cópia das actas, à Direcção-Geral de Obras Públicas e Comunicações, no prazo de 60 dias, a contar da última sessão relativa a cada caso.
+Art. 48.º A direcção ou chefia dos serviços de obras públicas e transportes promoverá a remessa de cópia das actas, à Direcção-Geral de Obras Públicas e Comunicações, no prazo de 60 dias, a contar da última sessão relativa a cada caso.
 
-###### Art. 49.º O expediente relativo ao Conselho Técnico será assegurado pela secretaria da Direcção ou Repartição Provincial dos Serviços de Obras Públicas e Transportes.
+Art. 49.º O expediente relativo ao Conselho Técnico será assegurado pela secretaria da Direcção ou Repartição Provincial dos Serviços de Obras Públicas e Transportes.
 
-###### Art. 50.º O secretário permanente do Conselho e das suas secções, quando existirem, será o chefe da secretaria da Direcção ou da Repartição Provincial dos Serviços de Obras Públicas e Transportes, sem direito a voto, ou quem legalmente o substitua, percebendo a gratificação mensal de 500$00.
+Art. 50.º O secretário permanente do Conselho e das suas secções, quando existirem, será o chefe da secretaria da Direcção ou da Repartição Provincial dos Serviços de Obras Públicas e Transportes, sem direito a voto, ou quem legalmente o substitua, percebendo a gratificação mensal de 500$00.
 
-###### Art. 51.º Aos membros do Conselho é atribuída a gratificação de 250$00 por presença em cada sessão, com um máximo de quatro senhas de presença em cada mês.
+Art. 51.º Aos membros do Conselho é atribuída a gratificação de 250$00 por presença em cada sessão, com um máximo de quatro senhas de presença em cada mês.
 
 Constituição e funcionamento
 
 a) Províncias de Angola e Moçambique
 
-###### Art. 52.º O Conselho Técnico de Obras Públicas das províncias de Angola e Moçambique é constituído por:
+Art. 52.º O Conselho Técnico de Obras Públicas das províncias de Angola e Moçambique é constituído por:
 
 Presidente - o inspector provincial dos serviços interessados a designar anualmente pelo governador-geral.
 
@@ -834,9 +863,9 @@ Um engenheiro ou arquitecto como representante da Câmara Municipal de Luanda ou
 
 Um engenheiro e um arquitecto de nomeação trienal do Governo-Geral que não exerçam funções oficiais.
 
-###### Art. 53.º O Conselho Técnico de Obras Públicas funcionará em plenário ou por secções e subsecções segundo o seu regimento interno, a publicar em portaria do Governo-Geral.
+Art. 53.º O Conselho Técnico de Obras Públicas funcionará em plenário ou por secções e subsecções segundo o seu regimento interno, a publicar em portaria do Governo-Geral.
 
-###### Art. 54.º As matérias a submeter ao Conselho Técnico de Obras Públicas distribuem-se, normalmente, pelas seguintes secções:
+Art. 54.º As matérias a submeter ao Conselho Técnico de Obras Públicas distribuem-se, normalmente, pelas seguintes secções:
 
 1.ª Secção - Urbanismo e Edifícios.
 
@@ -850,7 +879,7 @@ Um engenheiro e um arquitecto de nomeação trienal do Governo-Geral que não ex
 
 b) Províncias de Cabo Verde, Guiné, S. Tomé e Príncipe, Macau e Timor
 
-###### Art. 55.º O Conselho Técnico de Obras Públicas das províncias de Cabo Verde, Guiné, S. Tomé e Príncipe, Macau e Timor tem a seguinte constituição:
+Art. 55.º O Conselho Técnico de Obras Públicas das províncias de Cabo Verde, Guiné, S. Tomé e Príncipe, Macau e Timor tem a seguinte constituição:
 
 Presidente - o governador.
 
@@ -876,7 +905,7 @@ B) Do Conselho dos Transportes Terrestres
 
 Disposições gerais e comuns
 
-###### Art. 56.º O Conselho dos Transportes Terrestres é um órgão de coordenação, estudo e orientação dos transportes terrestres e de fiscalização de trânsito rodoviário, com as seguintes atribuições gerais:
+Art. 56.º O Conselho dos Transportes Terrestres é um órgão de coordenação, estudo e orientação dos transportes terrestres e de fiscalização de trânsito rodoviário, com as seguintes atribuições gerais:
 
 1) Promover o estudo e dar parecer acerca da fixação ou alteração de taxas ou contribuições e impostos que devam incidir, directa ou indirectamente, sobre a circulação de veículos automóveis;
 
@@ -898,7 +927,7 @@ Disposições gerais e comuns
 
 Constituição e funcionamento
 
-###### Art. 57.º O Conselho dos Transportes Terrestres das províncias de Angola e Moçambique é constituído por:
+Art. 57.º O Conselho dos Transportes Terrestres das províncias de Angola e Moçambique é constituído por:
 
 Presidente - director dos Serviços de Obras Públicas e Transportes da Província.
 
@@ -928,7 +957,7 @@ Presidente da direcção do Automóvel Clube.
 
 Um delegado da Câmara Municipal da capital da província em representação dos corpos administrativos.
 
-###### Art. 58.º Nas províncias de Cabo Verde, Guiné, S. Tomé e Príncipe, Macau e Timor o Conselho dos Transportes Terrestres tem a seguinte constituição:
+Art. 58.º Nas províncias de Cabo Verde, Guiné, S. Tomé e Príncipe, Macau e Timor o Conselho dos Transportes Terrestres tem a seguinte constituição:
 
 Presidente - chefe da Repartição Provincial dos Serviços de Obras Públicas e Transportes.
 
@@ -946,7 +975,7 @@ Representante da direcção do Sindicato dos Motoristas, se existir.
 
 Engenheiro ou condutor dos serviços de obras públicas a designar pelo director ou chefe dos Serviços Provinciais de Obras Públicas e Transportes.
 
-###### Art. 59.º O Conselho dos Transportes Terrestres de cada província regular-se-á por um regimento interno a publicar, no prazo de três meses, em portaria do respectivo Governo, sob proposta do director ou chefe dos Serviços de Obras Públicas e Transportes, ouvido o mesmo Conselho.
+Art. 59.º O Conselho dos Transportes Terrestres de cada província regular-se-á por um regimento interno a publicar, no prazo de três meses, em portaria do respectivo Governo, sob proposta do director ou chefe dos Serviços de Obras Públicas e Transportes, ouvido o mesmo Conselho.
 
 § 1.º O expediente relativo ao Conselho dos Transportes Terrestres será assegurado:
 
@@ -958,13 +987,13 @@ Nas Repartições Provinciais, pelas respectivas secretarias dos serviços.
 
 § 3.º Ao secretário do Conselho dos Transportes Terrestres é abonada a gratificação mensal de 500$00.
 
-###### Art. 60.º Aos membros do Conselho dos Transportes Terrestres é atribuída uma gratificação de 250$00 por presença em cada sessão, com um máximo de quatro senhas de presença em cada mês.
+Art. 60.º Aos membros do Conselho dos Transportes Terrestres é atribuída uma gratificação de 250$00 por presença em cada sessão, com um máximo de quatro senhas de presença em cada mês.
 
 ### CAPÍTULO III — Do pessoal
 
 A) Dos quadros e sua organização
 
-###### Art. 61.º O pessoal dos serviços de obras públicas e transportes do ultramar é classificado em:
+Art. 61.º O pessoal dos serviços de obras públicas e transportes do ultramar é classificado em:
 
 a) Pessoal técnico;
 
@@ -986,29 +1015,29 @@ e) Pessoal operário e serventuário.
 
 § 5.º O pessoal operário e serventuário compreende: operários e mecânicos especializados, mecânicos, operários de qualquer ramo de actividade, motoristas de viaturas, ajudantes e auxiliares de operários e de condutores, serventes e todos os elementos de trabalho que não estejam especialmente mencionados neste artigo e sejam necessários aos serviços.
 
-###### Art. 62.º As designações a adoptar para o pessoal técnico auxiliar, auxiliar de administração e operário e serventuário dos quadros privativos dos serviços de obras públicas e transportes do ultramar são uniformizadas conforme estabelece o mapa X que faz parte integrante deste diploma.
+Art. 62.º As designações a adoptar para o pessoal técnico auxiliar, auxiliar de administração e operário e serventuário dos quadros privativos dos serviços de obras públicas e transportes do ultramar são uniformizadas conforme estabelece o mapa X que faz parte integrante deste diploma.
 
-###### Art. 63.º Os quadros de pessoal dos serviços de obras públicas e transportes de cada uma das províncias ultramarinas são os fixados nos mapas III e IX anexos ao presente diploma e que dele fazem parte integrante.
+Art. 63.º Os quadros de pessoal dos serviços de obras públicas e transportes de cada uma das províncias ultramarinas são os fixados nos mapas III e IX anexos ao presente diploma e que dele fazem parte integrante.
 
-###### Art. 64.º Os quadros de pessoal assalariado permanente das Direcções dos Serviços de Obras Públicas e Transportes de Angola e Moçambique serão fixados pelos respectivos governadores-gerais de acordo com as designações estabelecidas pelo artigo 62.º conforme as necessidades daqueles serviços.
+Art. 64.º Os quadros de pessoal assalariado permanente das Direcções dos Serviços de Obras Públicas e Transportes de Angola e Moçambique serão fixados pelos respectivos governadores-gerais de acordo com as designações estabelecidas pelo artigo 62.º conforme as necessidades daqueles serviços.
 
-###### Art. 65.º (transitório). Ficam os governadores-gerais de Angola e Moçambique e os governadores de província autorizados a fazer a colocação e ajustamento do pessoal dos quadros existentes às novas designações, mantendo todos os direitos adquiridos, mediante simples despacho publicado no Boletim Oficial, sem carência de qualquer outra formalidade ou visto, nos lugares da mesma categoria constantes dos novos quadros criados pelo artigo 63.º
+Art. 65.º (transitório). Ficam os governadores-gerais de Angola e Moçambique e os governadores de província autorizados a fazer a colocação e ajustamento do pessoal dos quadros existentes às novas designações, mantendo todos os direitos adquiridos, mediante simples despacho publicado no Boletim Oficial, sem carência de qualquer outra formalidade ou visto, nos lugares da mesma categoria constantes dos novos quadros criados pelo artigo 63.º
 
-###### Art. 66.º O preenchimento dos novos lugares criados pelo presente diploma, depois de feito o movimento e ajustamento dos quadros referidos no artigo anterior, fica dependente das possibilidades financeiras das províncias e só se efectivará à medida que forem sendo orçamentadas as respectivas verbas, ficando os governadores-gerais de Angola e Moçambique e os governadores de província autorizados desde já a abrir os créditos necessários com contrapartida nos recursos orçamentais.
+Art. 66.º O preenchimento dos novos lugares criados pelo presente diploma, depois de feito o movimento e ajustamento dos quadros referidos no artigo anterior, fica dependente das possibilidades financeiras das províncias e só se efectivará à medida que forem sendo orçamentadas as respectivas verbas, ficando os governadores-gerais de Angola e Moçambique e os governadores de província autorizados desde já a abrir os créditos necessários com contrapartida nos recursos orçamentais.
 
-###### Art. 67.º Podem os governadores-gerais e de província aplicar ao pessoal técnico dos serviços de obras públicas e transportes o regime de remunerações previsto no [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415), de 25 de Maio de 1962, de harmonia com o seu artigo 9.º
+Art. 67.º Podem os governadores-gerais e de província aplicar ao pessoal técnico dos serviços de obras públicas e transportes o regime de remunerações previsto no [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415), de 25 de Maio de 1962, de harmonia com o seu artigo 9.º
 
 § 1.º Além das excepções referidas no artigo 8.º do referido [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415), devem considerar-se também as respeitantes ao direito a casa do Estado ou ao subsídio de renda de casa, ao abono de senhas de presença, à remuneração diferencial dos directores de serviços e ao pagamento dos serviços previstos no artigo 3.º do Regulamento Geral das Direcções e Inspecções de Obras Públicas, de 11 de Novembro de 1911, devendo levar-se em conta tais abonos no cômputo das remunerações a estabelecer.
 
 § 2.º Enquanto não for estabelecido o regime previsto no corpo do artigo, a concessão dos abonos continuará a reger-se pela lei geral e respectivos diplomas orgânicos ou regulamentares.
 
-###### Art. 68.º O pessoal dos serviços de obras públicas e transportes com categoria não superior à letra L dos mapas I e X anexos ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, continua a ser abonado das gratificações estabelecidas naquele decreto e na legislação publicada posteriormente.
+Art. 68.º O pessoal dos serviços de obras públicas e transportes com categoria não superior à letra L dos mapas I e X anexos ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, continua a ser abonado das gratificações estabelecidas naquele decreto e na legislação publicada posteriormente.
 
-###### Art. 69.º Aos engenheiros-directores que desempenhem as funções de director de serviços será abonada a remuneração diferencial de 1000$00 mensais.
+Art. 69.º Aos engenheiros-directores que desempenhem as funções de director de serviços será abonada a remuneração diferencial de 1000$00 mensais.
 
 B) Das condições especiais de provimento
 
-###### Art. 70.º O quadro comum dos engenheiros e arquitectos dos serviços de obras públicas e transportes do ultramar compreende as seguintes categorias, com o número de unidades e distribuição constantes do mapa II anexo a este diploma:
+Art. 70.º O quadro comum dos engenheiros e arquitectos dos serviços de obras públicas e transportes do ultramar compreende as seguintes categorias, com o número de unidades e distribuição constantes do mapa II anexo a este diploma:
 
 Engenheiro-director;
 
@@ -1024,47 +1053,47 @@ Arquitecto de 2.ª classe.
 
 único. São desempenhados por engenheiros com a categoria de director os cargos de inspector provincial, de director de serviços e de subdirector de serviços (letra D do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino); com a categoria de engenheiro-chefe os cargos de chefe de Repartição dos Serviços Centrais, de director regional, de chefe do Parque e Oficinas, em Angola e Moçambique, e de chefe de Repartição Provincial (letra E do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino); com a categoria de engenheiro de 1.ª ou 2.ª classe os cargos de chefes de Repartição Distrital e de Divisão Técnica; com a categoria de arquitecto de 1.ª ou 2.ª classe os cargos de chefes de Divisão de Arquitectura, de Inquérito e Planificação e de Secção de Urbanização.
 
-###### Art. 71.º Os arquitectos e engenheiros de 2.ª classe com mais de 5 anos de serviço na classe e boas informações terão, para todos os efeitos legais, a categoria da letra G do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 71.º Os arquitectos e engenheiros de 2.ª classe com mais de 5 anos de serviço na classe e boas informações terão, para todos os efeitos legais, a categoria da letra G do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 72.º As vagas na categoria de engenheiro e de arquitecto de 1.ª classe são providas por meio de promoção, respectivamente, dos engenheiros e arquitectos de 2.ª classe, depois de cinco anos de serviço nesta classe com boas informações.
+Art. 72.º As vagas na categoria de engenheiro e de arquitecto de 1.ª classe são providas por meio de promoção, respectivamente, dos engenheiros e arquitectos de 2.ª classe, depois de cinco anos de serviço nesta classe com boas informações.
 
-###### Art. 73.º As vagas na categoria de engenheiro-chefe são preenchidas por escolha entre os engenheiros de 1.ª classe com, pelo menos, quatro anos de serviço nesta classe.
+Art. 73.º As vagas na categoria de engenheiro-chefe são preenchidas por escolha entre os engenheiros de 1.ª classe com, pelo menos, quatro anos de serviço nesta classe.
 
-###### Art. 74.º Se as vagas a preencher nos termos dos artigos anteriores forem em número superior às dos candidatos com o tempo de serviço indicado no corpo do artigo, pode o Ministro do Ultramar, por despacho, autorizar a promoção de engenheiros e arquitectos de 1.ª e 2.ª classes que não satisfaçam aquelas condições de tempo de serviço.
+Art. 74.º Se as vagas a preencher nos termos dos artigos anteriores forem em número superior às dos candidatos com o tempo de serviço indicado no corpo do artigo, pode o Ministro do Ultramar, por despacho, autorizar a promoção de engenheiros e arquitectos de 1.ª e 2.ª classes que não satisfaçam aquelas condições de tempo de serviço.
 
-###### Art. 75.º O provimento das vagas na categoria de engenheiro-director é feito, em regra, por escolha entre funcionários com a categoria de engenheiro-chefe com, pelo menos, cinco anos de serviço nesta categoria.
+Art. 75.º O provimento das vagas na categoria de engenheiro-director é feito, em regra, por escolha entre funcionários com a categoria de engenheiro-chefe com, pelo menos, cinco anos de serviço nesta categoria.
 
-###### Art. 76.º Os engenheiros e arquitectos em serviço à data da saída deste diploma que já pertencem aos quadros dos serviços de obras públicas e transportes, por nomeação definitiva ou provisória, transitam, independentemente de portaria, visto ou outra formalidade, por simples despacho publicado no Boletim Oficial, para as categorias referidas no artigo 70.º correspondentes aos cargos em que estão investidos.
+Art. 76.º Os engenheiros e arquitectos em serviço à data da saída deste diploma que já pertencem aos quadros dos serviços de obras públicas e transportes, por nomeação definitiva ou provisória, transitam, independentemente de portaria, visto ou outra formalidade, por simples despacho publicado no Boletim Oficial, para as categorias referidas no artigo 70.º correspondentes aos cargos em que estão investidos.
 
-###### Art. 77.º Os engenheiros e arquitectos em serviço à data da publicação do presente decreto que exerçam funções, em regime de contrato ou comissão, nos serviços de obras públicas e transportes podem, depois de feito o movimento referido no artigo anterior, ingressar nos lugares vagos dos quadros permanentes e nas categorias correspondentes aos cargos em que se encontrem investidos, independentemente da idade, desde que assim o requeiram, no prazo de 60 dias, tenham boas informações e reúnam as necessárias aptidões para o desempenho dos cargos.
+Art. 77.º Os engenheiros e arquitectos em serviço à data da publicação do presente decreto que exerçam funções, em regime de contrato ou comissão, nos serviços de obras públicas e transportes podem, depois de feito o movimento referido no artigo anterior, ingressar nos lugares vagos dos quadros permanentes e nas categorias correspondentes aos cargos em que se encontrem investidos, independentemente da idade, desde que assim o requeiram, no prazo de 60 dias, tenham boas informações e reúnam as necessárias aptidões para o desempenho dos cargos.
 
-###### Art. 78.º Os cargos de chefe de Secção Técnica das divisões das Repartições Provinciais, das Repartições Centrais e das Direcções Distritais serão, em regra, atribuídos a engenheiros de 2.ª classe ou a adjuntos técnicos conforme a importância e desenvolvimento dos respectivos serviços.
+Art. 78.º Os cargos de chefe de Secção Técnica das divisões das Repartições Provinciais, das Repartições Centrais e das Direcções Distritais serão, em regra, atribuídos a engenheiros de 2.ª classe ou a adjuntos técnicos conforme a importância e desenvolvimento dos respectivos serviços.
 
-###### Art. 79.º Os lugares de adjunto técnico principal serão providos por engenheiros de 2.ª classe ou por escolha entre adjuntos técnicos de 1.ª classe que possuam, pelo menos, dois anos de serviço nesta classe com boas informações.
+Art. 79.º Os lugares de adjunto técnico principal serão providos por engenheiros de 2.ª classe ou por escolha entre adjuntos técnicos de 1.ª classe que possuam, pelo menos, dois anos de serviço nesta classe com boas informações.
 
 § único. Se as vagas a preencher forem em número superior às dos candidatos com o tempo de serviço indicado no corpo do artigo, pode o governador-geral ou de província autorizar que a escolha recaia no pessoal da mesma categoria que não tenha ainda o tempo de serviço indicado.
 
-###### Art. 80.º Os cargos de adjunto técnico serão providos por indivíduos com a habilitação mínima correspondente aos cursos de agentes técnicos de engenharia ou de condutores de obras públicas.
+Art. 80.º Os cargos de adjunto técnico serão providos por indivíduos com a habilitação mínima correspondente aos cursos de agentes técnicos de engenharia ou de condutores de obras públicas.
 
 § único. Os condutores de obras públicas ou agentes técnicos de engenharia, das diferentes especialidades, presentemente ao serviço por nomeação ou contrato, transitam, mediante simples portaria dos governadores-gerais ou de província, sem carência de qualquer outra formalidade ou visto, para os cargos de adjuntos técnicos de 1.ª e 2.ª classes conforme a sua antiguidade e o número de lugares orçamentados.
 
-###### Art. 81.º O cargo de inspector de Viação e Trânsito é provido por concurso documental entre agentes técnicos de engenharia de máquinas e electricidade.
+Art. 81.º O cargo de inspector de Viação e Trânsito é provido por concurso documental entre agentes técnicos de engenharia de máquinas e electricidade.
 
-###### Art. 82.º Para lugares de subinspector de Viação e Trânsito transita, nas condições do artigo 65.º, o pessoal de nomeação e contrato que vem já prestando trabalho nos serviços de viação de Angola e Moçambique, por ordem de antiguidade, desde que possua boas informações anuais e reúna as necessárias aptidões para o desempenho do cargo.
+Art. 82.º Para lugares de subinspector de Viação e Trânsito transita, nas condições do artigo 65.º, o pessoal de nomeação e contrato que vem já prestando trabalho nos serviços de viação de Angola e Moçambique, por ordem de antiguidade, desde que possua boas informações anuais e reúna as necessárias aptidões para o desempenho do cargo.
 
-###### Art. 83.º Os lugares de topógrafo principal são providos por escolha entre topógrafos de 1.ª classe dos quadros dos serviços que possuam, pelo menos, quatro anos de serviço nesta classe e boas informações.
+Art. 83.º Os lugares de topógrafo principal são providos por escolha entre topógrafos de 1.ª classe dos quadros dos serviços que possuam, pelo menos, quatro anos de serviço nesta classe e boas informações.
 
-###### Art. 84.º Para os lugares de chefe de secretaria central transitam, por simples despacho do governador-geral, sem carecer de outra formalidade, os funcionários que presentemente desempenham as funções de chefe de secretaria das Direcções dos Serviços de Obras Públicas e Transportes de Angola e Moçambique.
+Art. 84.º Para os lugares de chefe de secretaria central transitam, por simples despacho do governador-geral, sem carecer de outra formalidade, os funcionários que presentemente desempenham as funções de chefe de secretaria das Direcções dos Serviços de Obras Públicas e Transportes de Angola e Moçambique.
 
-###### Art. 85.º Os lugares de chefe de Secção de Expediente são providos por concurso entre primeiros-oficiais dos quadros dos servidos.
+Art. 85.º Os lugares de chefe de Secção de Expediente são providos por concurso entre primeiros-oficiais dos quadros dos servidos.
 
-###### Art. 86.º (transitório). O pessoal dos quadros privativos dos serviços de obras públicas e transportes de cada província que à data do presente decreto exerça funções por nomeação definitiva ou provisória, em regime de contrato ou de comissão, ingressará nas categorias correspondentes das novas designações daqueles quadros, independentemente da idade, de portaria, visto ou outra formalidade, por simples despacho do governador-geral ou governador de província, publicado no Boletim Oficial, desde que tenha boas informações e reúna as necessárias aptidões para o desempenho do cargo.
+Art. 86.º (transitório). O pessoal dos quadros privativos dos serviços de obras públicas e transportes de cada província que à data do presente decreto exerça funções por nomeação definitiva ou provisória, em regime de contrato ou de comissão, ingressará nas categorias correspondentes das novas designações daqueles quadros, independentemente da idade, de portaria, visto ou outra formalidade, por simples despacho do governador-geral ou governador de província, publicado no Boletim Oficial, desde que tenha boas informações e reúna as necessárias aptidões para o desempenho do cargo.
 
 § único. Os actuais auxiliares de administração de 1.ª classe, assalariados, em serviço na Repartição de Viação da Direcção dos Serviços de Obras Públicas e Transportes de Angola, poderão, independentemente da idade, ser providos nos lugares de escriturário do quadro de contratados daquela Direcção de Serviços, mediante concurso de admissão a escriturários de 2.ª classe.
 
 C) Das atribuições e competência do pessoal
 
-###### Art. 87.º Aos inspectores provinciais de obras públicas compete:
+Art. 87.º Aos inspectores provinciais de obras públicas compete:
 
 a) Fazer inspecções aos departamentos da Direcção dos Serviços de Obras Públicas e Transportes que tenham sido determinadas pelo governador-geral;
 
@@ -1076,7 +1105,7 @@ d) Propor as providências que julgarem necessárias ao melhoramento dos serviç
 
 e) Executar os estudos, trabalhos, relatórios, pareceres e outros serviços ordenados pelo governador-geral.
 
-###### Art. 88.º Ao engenheiro-director dos serviços compete (Angola e Moçambique):
+Art. 88.º Ao engenheiro-director dos serviços compete (Angola e Moçambique):
 
 1) Dirigir e orientar todas as actividades dos serviços para a integral execução das missões confiadas superiormente à Direcção Provincial dos Serviços de Obras Públicas e Transportes;
 
@@ -1124,7 +1153,7 @@ e) Executar os estudos, trabalhos, relatórios, pareceres e outros serviços ord
 
 23) Punir os funcionários com as penas previstas no Estatuto do Funcionalismo Ultramarino dentro da competência e normas estabelecidas naquele estatuto.
 
-###### Art. 89.º Ao subdirector dos serviços compete:
+Art. 89.º Ao subdirector dos serviços compete:
 
 a) Coadjuvar o director dos serviços na execução de todas as missões atribuídas à Direcção;
 
@@ -1138,7 +1167,7 @@ e) Inspeccionar a execução de obras em curso e a forma como está sendo desemp
 
 f) Efectuar relatório detalhado de cada inspecção realizada e submetê-lo a despacho do director dos serviços.
 
-###### Art. 90.º Ao adjunto administrativo compete:
+Art. 90.º Ao adjunto administrativo compete:
 
 a) Coadjuvar o director dos serviços na execução dos serviços de carácter administrativo, estudando e informando todos os processos que lhe sejam distribuídos;
 
@@ -1150,7 +1179,7 @@ d) Presidir aos concursos públicos para abertura de propostas para execução d
 
 e) Exercer outras incumbências que lhe forem distribuídas ou delegadas pelo director dos serviços.
 
-###### Art. 91.º Ao chefe da Repartição de Serviços Administrativos compete:
+Art. 91.º Ao chefe da Repartição de Serviços Administrativos compete:
 
 a) Coadjuvar o director dos serviços na administração de todos os fundos postos à disposição da Direcção dos Serviços;
 
@@ -1188,7 +1217,7 @@ q) Informar sobre a legalidade e cabimento das despesas que tenham de ser autori
 
 r) Elaborar anualmente, até 30 de Abril do ano seguinte, o relatório das contas de gerência e de administração dos serviços.
 
-###### Art. 92.º Aos engenheiros-chefes das Repartições dos Serviços Centrais compete (Angola e Moçambique):
+Art. 92.º Aos engenheiros-chefes das Repartições dos Serviços Centrais compete (Angola e Moçambique):
 
 a) Orientar os serviços das respectivas repartições distribuindo-os pelos diferentes funcionários como for julgado mais conveniente;
 
@@ -1210,7 +1239,7 @@ i) Apresentar a despacho os assuntos que tenham sido distribuídos às respectiv
 
 j) Fiscalizar a assiduidade e pontualidade do pessoal sob as suas ordens.
 
-###### Art. 93.º Aos engenheiros-chefes das Repartições Provinciais compete:
+Art. 93.º Aos engenheiros-chefes das Repartições Provinciais compete:
 
 a) Dirigir e orientar todas as actividades dos serviços técnicos e administrativos integrados na Repartição Provincial para execução das missões que lhes são confiadas superiormente;
 
@@ -1238,7 +1267,7 @@ l) Autorizar a admissão de pessoal assalariado permanente e eventual necessári
 
 m) Elaborar o relatório anual dos serviços a enviar ao Ministério do Ultramar, relativamente a cada ano económico, até 30 de Junho do ano seguinte.
 
-###### Art. 94.º Ao engenheiro-chefe do Parque e Oficinas compete:
+Art. 94.º Ao engenheiro-chefe do Parque e Oficinas compete:
 
 a) Dirigir e orientar todas as actividades do parque de máquinas e oficinas dos serviços;
 
@@ -1266,7 +1295,7 @@ l) Inspeccionar os serviços de Parque e Oficinas dos serviços regionais quando
 
 m) Elaborar o relatório anual da actividade geral dos serviços a seu cargo até 30 de Abril do ano seguinte.
 
-###### Art. 95.º Aos directores regionais e chefes das Repartições Distritais de Obras Públicas compete (Angola e Moçambique):
+Art. 95.º Aos directores regionais e chefes das Repartições Distritais de Obras Públicas compete (Angola e Moçambique):
 
 a) Dirigir todos os serviços técnicos e administrativos segundo os regulamentos em vigor e as instruções da Direcção Provincial dos Serviços;
 
@@ -1314,35 +1343,35 @@ u) Fiscalizar o serviço de armazém e oficinas e promover que os inventários s
 
 ### CAPÍTULO IV — Disposições gerais
 
-###### Art. 96.º (transitório). É mantido o quadro de pessoal criado pelo artigo 61.º do [Decreto n.º 41388](https://diariodarepublica.pt/dr/detalhe/decreto/41388-1957-251644) até à publicação do diploma orgânico do Laboratório de Engenharia de Moçambique, nos termos da Portaria Ministerial n.º 19748, de 5 de Março de 1963.
+Art. 96.º (transitório). É mantido o quadro de pessoal criado pelo artigo 61.º do [Decreto n.º 41388](https://diariodarepublica.pt/dr/detalhe/decreto/41388-1957-251644) até à publicação do diploma orgânico do Laboratório de Engenharia de Moçambique, nos termos da Portaria Ministerial n.º 19748, de 5 de Março de 1963.
 
-###### Art. 97.º É aplicável à província de Moçambique o disposto no artigo 1.º do Diploma Legislativo Ministerial n.º 60, de 25 de Outubro de 1961, publicado em Angola.
+Art. 97.º É aplicável à província de Moçambique o disposto no artigo 1.º do Diploma Legislativo Ministerial n.º 60, de 25 de Outubro de 1961, publicado em Angola.
 
-###### Art. 98.º É mantido em vigor o disposto no artigo 35.º do [Decreto n.º 43041](https://diariodarepublica.pt/dr/detalhe/decreto/43041-1960-502425), de 1 de Julho de 1960.
+Art. 98.º É mantido em vigor o disposto no artigo 35.º do [Decreto n.º 43041](https://diariodarepublica.pt/dr/detalhe/decreto/43041-1960-502425), de 1 de Julho de 1960.
 
-###### Art. 99.º É extinto o Conselho Superior de Viação da província de Moçambique, cujos serviços são integrados, nos termos deste decreto, na Repartição de Viação da respectiva Direcção dos Serviços de Obras Públicas e Transportes.
+Art. 99.º É extinto o Conselho Superior de Viação da província de Moçambique, cujos serviços são integrados, nos termos deste decreto, na Repartição de Viação da respectiva Direcção dos Serviços de Obras Públicas e Transportes.
 
 § único. O pessoal contratado e privativo do referido Conselho Superior de Viação transita, por despacho do governador-geral, a publicar no Boletim Oficial, sem carência de outra formalidade, para lugares da mesma categoria ou correspondentes dos quadros daquela Direcção de Serviços, sendo o cargo de chefe da Secção de Expediente da Repartição de Viação preenchido pelo funcionário que presentemente desempenha as funções de secretário do Conselho Superior de Viação.
 
-###### Art. 100.º É extinto o Gabinete de Estudos de Hidráulica da província de Moçambique, criado pelo Diploma Legislativo Ministerial n.º 3, de 13 de Julho de 1959, ingressando o seu pessoal nos quadros dos serviços de obras públicas criados por este diploma pela forma prevista nos artigos 74.º e 79.º
+Art. 100.º É extinto o Gabinete de Estudos de Hidráulica da província de Moçambique, criado pelo Diploma Legislativo Ministerial n.º 3, de 13 de Julho de 1959, ingressando o seu pessoal nos quadros dos serviços de obras públicas criados por este diploma pela forma prevista nos artigos 74.º e 79.º
 
-###### Art. 101.º Enquanto não estiver completamente assegurada a cobertura técnica das províncias pelos serviços de obras públicas e transportes, continuam a ser delegados daqueles serviços nos concelhos ou circunscrições onde não existam departamentos técnicos de obras públicas os respectivos administradores ou seus substitutos legais.
+Art. 101.º Enquanto não estiver completamente assegurada a cobertura técnica das províncias pelos serviços de obras públicas e transportes, continuam a ser delegados daqueles serviços nos concelhos ou circunscrições onde não existam departamentos técnicos de obras públicas os respectivos administradores ou seus substitutos legais.
 
 § único. No exercício daquelas funções os administradores correspondem-se directamente com os directores distritais de obras públicas, de quem recebem instruções técnicas, administrativas e a assistência conveniente para as obras ou trabalhos a executar.
 
-###### Art. 102.º Nenhuma obra pode ser executada, qualquer que seja a origem dos fundos para ocorrer ao seu encargo (orçamento geral, orçamentos de distrito, de concelho ou circunscrição ou de quaisquer fundos), sem que o respectivo projecto seja aprovado pelo governador-geral ou de província, mediante parecer do director ou chefe dos Serviços de Obras Públicas.
+Art. 102.º Nenhuma obra pode ser executada, qualquer que seja a origem dos fundos para ocorrer ao seu encargo (orçamento geral, orçamentos de distrito, de concelho ou circunscrição ou de quaisquer fundos), sem que o respectivo projecto seja aprovado pelo governador-geral ou de província, mediante parecer do director ou chefe dos Serviços de Obras Públicas.
 
 § único. Dentro dos limites da competência atribuída por este decreto podem os directores provinciais dos Serviços de Obras Públicas e Transportes aprovar os projectos referidos no corpo do artigo, submetendo superiormente aqueles cujos orçamentos excedam aquela competência.
 
-###### Art. 103.º Se os lugares dos quadros não estiverem preenchidos ou forem insuficientes para as eventuais necessidades do trabalho nos serviços, os governadores-gerais de Angola e Moçambique poderão contratar a execução de estudos e projectos com técnicos estranhos aos quadros dos serviços públicos que exerçam a sua actividade na província ou solicitar que tal colaboração lhes seja prestada através dos serviços do Ministério do Ultramar.
+Art. 103.º Se os lugares dos quadros não estiverem preenchidos ou forem insuficientes para as eventuais necessidades do trabalho nos serviços, os governadores-gerais de Angola e Moçambique poderão contratar a execução de estudos e projectos com técnicos estranhos aos quadros dos serviços públicos que exerçam a sua actividade na província ou solicitar que tal colaboração lhes seja prestada através dos serviços do Ministério do Ultramar.
 
-###### Art. 104.º São exactores de Fazenda:
+Art. 104.º São exactores de Fazenda:
 
 a) Por gerência de fundos:
 
-**O chefe da Repartição de Serviços Administrativos das Direcções dos Serviços de Obras Públicas e Transportes de Angola e Moçambique;**
+O chefe da Repartição de Serviços Administrativos das Direcções dos Serviços de Obras Públicas e Transportes de Angola e Moçambique;
 
-**O chefe das Repartições Provinciais dos Serviços de Obras Públicas e Transportes;**
+O chefe das Repartições Provinciais dos Serviços de Obras Públicas e Transportes;
 
 Os directores regionais e chefes das Repartições Distritais dos Serviços de Obras Públicas e Transportes em Angola e Moçambique.
 
@@ -1356,13 +1385,13 @@ Os funcionários que desempenhem as funções de chefe da secretaria central da 
 
 Os funcionários que desempenhem as funções de chefes de secretaria das repartições.
 
-###### Art. 105.º São responsáveis por cargas:
+Art. 105.º São responsáveis por cargas:
 
 a) Nas Direcções Provinciais:
 
-**O chefe da Secção de Compras e Depósito da Repartição de Serviços Administrativos;**
+O chefe da Secção de Compras e Depósito da Repartição de Serviços Administrativos;
 
-**O chefe da Secção de Armazém do Parque e Oficinas;**
+O chefe da Secção de Armazém do Parque e Oficinas;
 
 Os chefes da Secção de Expediente das Direcções Regionais e Repartições Distritais.
 
@@ -1376,9 +1405,9 @@ Chefe de Oficinas e Parque;
 
 Chefe de Armazéns e Compras.
 
-###### Art. 106.º Continuam em vigor as disposições aplicáveis da Portaria Ministerial n.º 208, de 23 de Dezembro de 1905, referentes aos serviços de contabilidade e administração de Fazenda.
+Art. 106.º Continuam em vigor as disposições aplicáveis da Portaria Ministerial n.º 208, de 23 de Dezembro de 1905, referentes aos serviços de contabilidade e administração de Fazenda.
 
-###### Art. 107.º No prazo de 90 dias, a partir da entrada em vigor do presente diploma em cada província, devem ser submetidos à aprovação dos governadores-gerais e governadores de província os projectos de regulamentos necessários à sua execução, nos quais se estabelecerão:
+Art. 107.º No prazo de 90 dias, a partir da entrada em vigor do presente diploma em cada província, devem ser submetidos à aprovação dos governadores-gerais e governadores de província os projectos de regulamentos necessários à sua execução, nos quais se estabelecerão:
 
 1.º As sedes das direcções regionais, áreas de jurisdição e suas atribuições em relação às Repartições Distritais;
 
@@ -1390,11 +1419,11 @@ Chefe de Armazéns e Compras.
 
 5.º Todas as medidas julgadas necessárias para a obtenção de um bom rendimento técnico dos serviços.
 
-###### Art. 108.º O presente diploma entra em vigor, nas províncias de Angola, Moçambique e Macau, 60 dias depois da sua publicação no Diário do Governo; nas outras províncias de governo simples a entrada em vigor só se verificará após a indicação pelos respectivos governos da existência de disponibilidades financeiras para fazer face ao aumento de despesa.
+Art. 108.º O presente diploma entra em vigor, nas províncias de Angola, Moçambique e Macau, 60 dias depois da sua publicação no Diário do Governo; nas outras províncias de governo simples a entrada em vigor só se verificará após a indicação pelos respectivos governos da existência de disponibilidades financeiras para fazer face ao aumento de despesa.
 
-###### Art. 109.º Mediante legislação a publicar oportunamente, a actual reorganização tornar-se-á extensiva ao Estado Português da Índia logo que cesse a situação de ocupação por forças inimigas actualmente verificada naquele território.
+Art. 109.º Mediante legislação a publicar oportunamente, a actual reorganização tornar-se-á extensiva ao Estado Português da Índia logo que cesse a situação de ocupação por forças inimigas actualmente verificada naquele território.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 26 de Fevereiro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 
@@ -1406,7 +1435,7 @@ Gratificações especiais mensais a abonar ao pessoal dos serviços de obras pú
 
 (Artigos 68.º e 69.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/02/04800/03310353.pdf))](https://files.diariodarepublica.pt/1s/1964/02/04800/03310353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/02/04800/03310353.pdf)
 
 MAPA II
 
@@ -1414,7 +1443,7 @@ Quadro comum dos engenheiros e arquitectos dos serviços de obras públicas e tr
 
 (Artigo 70.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/02/04800/03310353.pdf))](https://files.diariodarepublica.pt/1s/1964/02/04800/03310353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/02/04800/03310353.pdf)
 
 MAPA III
 
@@ -1562,7 +1591,7 @@ Mapa de distribuição do pessoal (quadros parciais)
 
 Angola
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/02/04800/03310353.pdf))](https://files.diariodarepublica.pt/1s/1964/02/04800/03310353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/02/04800/03310353.pdf)
 
 MAPA IV
 
@@ -1732,7 +1761,7 @@ Mapa de distribuição do pessoal (quadros parciais)
 
 Moçambique
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/02/04800/03310353.pdf))](https://files.diariodarepublica.pt/1s/1964/02/04800/03310353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/02/04800/03310353.pdf)
 
 MAPA V
 
@@ -2100,22 +2129,22 @@ Designação e categoria do pessoal técnico auxiliar, do pessoal auxiliar de ad
 
 (Artigo 62.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/02/04800/03310353.pdf))](https://files.diariodarepublica.pt/1s/1964/02/04800/03310353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/02/04800/03310353.pdf)
 
 ESQUEMA GERAL ORGÂNICO DOS SERVIÇOS DE OBRAS PÚBLICAS E TRANSPORTES DAS PROVÍNCIAS DE ANGOLA E MOÇAMBIQUE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/02/04800/03310353.pdf))](https://files.diariodarepublica.pt/1s/1964/02/04800/03310353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/02/04800/03310353.pdf)
 
 ESQUEMA GERAL ORGÂNICO DOS SERVIÇOS DE OBRAS PÚBLICAS E TRANSPORTES DA PROVÍNCIA DE CABO VERDE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/02/04800/03310353.pdf))](https://files.diariodarepublica.pt/1s/1964/02/04800/03310353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/02/04800/03310353.pdf)
 
 ESQUEMA GERAL ORGÂNICO DOS SERVIÇOS DE OBRAS PÚBLICAS E TRANSPORTES DA PROVÍNCIA DE MACAU
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/02/04800/03310353.pdf))](https://files.diariodarepublica.pt/1s/1964/02/04800/03310353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/02/04800/03310353.pdf)
 
 ESQUEMA GERAL ORGÂNICO DOS SERVIÇOS DE OBRAS PÚBLICAS E TRANSPORTES DAS PROVÍNCIAS DE TIMOR, DE S. TOMÉ E PRÍNCIPE E DA GUINÉ
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/02/04800/03310353.pdf))](https://files.diariodarepublica.pt/1s/1964/02/04800/03310353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/02/04800/03310353.pdf)
 
 Ministério do Ultramar, 26 de Fevereiro de 1964. - O Ministro do Ultramar, António Augusto Peixoto Correia.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/80/2026/03/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2026-1078211086
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-27T00:00:00Z'
+  retrieved_at: '2026-10-22T18:36:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9776ee128b9afb00da5c1bc654232ea3b9066c0a9d8b4057b0e215031aafe402
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc77fcbf04ad30527e1d07866a3a08091d604e5cbdf987b72512fb8e449ea0e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:36:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,8 +70,8 @@ subjects:
 - Contrato de Concessão
 - Domínio Público Marítimo
 - Estaleiro Naval
-- Setúbal
 - Setenave
+- Setúbal
 - Transmissão de Contrato
 relationships:
 - type: cites
@@ -106,16 +106,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/181/1997/10/28/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/181/1997/10/28/p/dre
+- type: cites
+  target: pt:dre:198117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676810:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:36:44Z'
   warnings: []
   errors: []
 ---
@@ -204,7 +236,9 @@ s) Concedente - o Estado português e, a partir da entrada em vigor do aditament
 
 t) Partes originárias - as partes que outorgaram originariamente o contrato de concessão, isto é, o Estado português e a SETENAVE - Estaleiros Navais de Setúbal, S. A., atualmente designada LISNAVE - Infraestruturas Navais, S. A.
 
-###### Base XXII — [...]
+Base XXII
+
+[...]
 
 1 - Os poderes de fiscalização do cumprimento das obrigações da concessionária emergentes do contrato de concessão são exercidos pelo concedente.
 
@@ -212,7 +246,9 @@ t) Partes originárias - as partes que outorgaram originariamente o contrato de 
 
 3 - [...]
 
-###### Base XXXII — [...]
+Base XXXII
+
+[...]
 
 1 - [...]
 
@@ -234,7 +270,7 @@ Disposições adicionais
 
 ###### Artigo 4.º — Afetação dominial
 
-É afeta à APSS, S. A., a administração da parcela de domínio público a que se refere o artigo 10.º do [Decreto-Lei n.º 193-A/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-a-1997-650114), de 29 de julho, alterado pelos Decretos-Leis n.<sup>os</sup> [5/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1998-222977), de 12 de janeiro, e [77/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1998-198117), de 27 de março.
+É afeta à APSS, S. A., a administração da parcela de domínio público a que se refere o artigo 10.º do [Decreto-Lei n.º 193-A/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-a-1997-650114), de 29 de julho, alterado pelos Decretos-Leis n.os [5/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1998-222977), de 12 de janeiro, e [77/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1998-198117), de 27 de março.
 
 ###### Artigo 5.º — Cessão da posição contratual
 
@@ -250,12 +286,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de fevereiro de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Miguel Martinez de Castro Pinto Luz.
 
-**Promulgado em 18 de março de 2026.**
+Promulgado em 18 de março de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 23 de março de 2026.**
+Referendado em 23 de março de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119948109

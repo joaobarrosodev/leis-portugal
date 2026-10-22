@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/89-o/2026/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/89-o-2026-1058814977
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-23T00:00:00Z'
+  retrieved_at: '2026-10-22T18:33:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f9bbd7519287f81047c30b30aefe133901dd30b592f057b2b0ba4b40a3c90eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: deaa76426716a12c27c55ef31877cb852e7576dc261c692d252e0cfe425511d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:33:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Proteção dos Animais
-- Regulamentação de Atos Legislativos
 - Avaliação de Impacte Ambiental
+- Contraordenação
+- Diversidade Biológica
 - Instituto da Conservação da Natureza e das Florestas
+- Ordenamento do Território
 - Parque Natural do Douro Internacional
 - Proteção do Ambiente
-- Diversidade Biológica
+- Proteção dos Animais
+- Regulamentação de Atos Legislativos
 - Zona Especial de Conservação
-- Contraordenação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/140/1999/04/24/p/dre
@@ -100,16 +100,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
+- type: cites
+  target: pt:dre:1027770659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130273578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:33:18Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +166,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 20 de fevereiro de 2026.
 
-**O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida. - O Ministro das Infraestruturas e Habitação, Miguel Martinez de Castro Pinto Luz. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho. - O Ministro da Agricultura e Mar, José Manuel Fernandes.**
+O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida. - O Ministro das Infraestruturas e Habitação, Miguel Martinez de Castro Pinto Luz. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho. - O Ministro da Agricultura e Mar, José Manuel Fernandes.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -156,9 +180,11 @@ QUADRO 1
 
 Unidades territoriais abrangidas pela ZEC Douro Internacional
 
-![](https://files.diariodarepublica.pt/images/1058814977/1058815178.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814977/1058815178.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814977/1058815179.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814977/1058815179.png) |
+| --- |
 
 CARACTERIZAÇÃO
 
@@ -186,13 +212,15 @@ QUADRO 2
 
 Tipos de habitat do anexo I da Diretiva Habitats com presença significativa na ZEC
 
-![](https://files.diariodarepublica.pt/images/1058814977/1058815180.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814977/1058815180.png) |
+| --- |
 
 QUADRO 3
 
 Espécies do anexo II da Diretiva Habitats com presença significativa na ZEC
 
-![](https://files.diariodarepublica.pt/images/1058814977/1058815181.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814977/1058815181.png) |
+| --- |
 
 OBJETIVOS DE CONSERVAÇÃO
 
@@ -206,11 +234,14 @@ QUADRO 4
 
 Objetivos de conservação para a gestão da ZEC
 
-![](https://files.diariodarepublica.pt/images/1058814977/1058815182.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814977/1058815182.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814977/1058815183.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814977/1058815183.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814977/1058815184.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814977/1058815184.png) |
+| --- |
 
 MEDIDAS DE CONSERVAÇÃO COMPLEMENTARES
 
@@ -224,11 +255,14 @@ QUADRO 5
 
 Quadro operacional das medidas de conservação complementares
 
-![](https://files.diariodarepublica.pt/images/1058814977/1058815185.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814977/1058815185.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814977/1058815186.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814977/1058815186.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814977/1058815187.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814977/1058815187.png) |
+| --- |
 
 MEDIDAS DE CONSERVAÇÃO REGULAMENTARES
 
@@ -256,7 +290,8 @@ QUADRO 6
 
 Modelo de matriz de avaliação final da implementação do plano de gestão
 
-![](https://files.diariodarepublica.pt/images/1058814977/1058815188.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814977/1058815188.png) |
+| --- |
 
 FICHAS DE MEDIDAS DE CONSERVAÇÃO COMPLEMENTARES
 
@@ -280,38 +315,58 @@ OM - Orçamento Municipal;
 
 PNA-PNGIFR - Programa Nacional de Ação do Plano Nacional de Gestão Integrada de Fogos Rurais.
 
-![](https://files.diariodarepublica.pt/images/1058814977/1058815189.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814977/1058815189.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814977/1058815190.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814977/1058815190.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814977/1058815191.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814977/1058815191.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814977/1058815192.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814977/1058815192.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814977/1058815193.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814977/1058815193.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814977/1058815194.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814977/1058815194.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814977/1058815195.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814977/1058815195.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814977/1058815196.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814977/1058815196.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814977/1058815197.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814977/1058815197.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814977/1058815198.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814977/1058815198.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814977/1058815199.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814977/1058815199.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814977/1058815200.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814977/1058815200.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814977/1058815201.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814977/1058815201.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814977/1058815202.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814977/1058815202.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814977/1058815203.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814977/1058815203.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814977/1058815204.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814977/1058815204.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814977/1058815205.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814977/1058815205.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814977/1058815206.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814977/1058815206.png) |
+| --- |
+
+119947785

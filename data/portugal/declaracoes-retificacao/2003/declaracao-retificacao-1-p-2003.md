@@ -26,7 +26,7 @@ publication:
   reference: Diário da República n.º 50/2003, 1º Suplemento, Série I-A de 2003-02-28
   number: '50'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1452-(2) a 1452-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf
 entry_into_force_dates: []
@@ -53,18 +53,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/1-p/2003/02/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-p-2003-162462
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:01:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3396b19b8ab1795ea98560be4218402b57000854fb57e8a0b3b2a61b70b520af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 564f105a0d58825f95faa2c2b16b086712ff3cc74cf93223838d8ecb120ced8d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:01:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,15 +72,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
-- Produto Químico
 - Aproximação das Legislações
 - Controlo de Qualidade
-- Saúde Pública
+- Embalagem
 - Especificação Técnica
 - Indústria de Plásticos
-- Embalagem
+- Produto Alimentar
+- Produto Químico
 - Proteção do Consumidor
+- Saúde Pública
 relationships:
 - type: cites
   target: celex:31978L0142
@@ -134,16 +134,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/4/2003/01/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/4/2003/01/10/p/dre
+- type: cites
+  target: pt:dre:482133:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:01:39Z'
   warnings: []
   errors: []
 ---
@@ -154,27 +158,27 @@ Para os devidos efeitos se declara que o [Decreto-Lei n.º 4/2003](https://diari
 
 Na secção A do anexo I, onde se lê:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf)](https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf)](https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf)](https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf)
 
 deve ler-se:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf)](https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf)](https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf)](https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf)
 
 Na secção A do anexo II, onde se lê:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf)](https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf)](https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf)](https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf)
 
 deve ler-se:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf)](https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf)](https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf)](https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf)
 
 Na parte B do anexo IV, onde se lê:
 
-«Fórmula estrutural [(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf)»
+«Fórmula estrutural [[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf)](https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf)»
 
 deve ler-se:
 
-«Fórmula estrutural [(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf)»
+«Fórmula estrutural [[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf)](https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf)»
 
 onde se lê:
 
@@ -198,10 +202,10 @@ Viscosidade mínima 100 x 10(elevado a -6) m2/s (= 100 centistokes) a 25ºC.»
 
 e, no quadro do anexo VIII, onde se lê:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf)](https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf)
 
 deve ler-se:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf)](https://files.diariodarepublica.pt/1s/2003/02/050a01/00020003.pdf)
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 28 de Fevereiro de 2003. - O Secretário-Geral, José M. Sousa Rego.

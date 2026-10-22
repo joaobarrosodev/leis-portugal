@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/159/2026/08/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2026-1154275216
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-04T00:00:00Z'
+  retrieved_at: '2026-10-22T18:49:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 516639a2c1241b9bd02a5a6d2b06feb388bcb2f119b0342d2f3420188ebd425d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4400a883fd636e3b3f3c52ea6ebc86058a868061837b19af4e4958e19876c42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:49:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sistema Multimunicipal de Abastecimento de Água do Sul do Grande Porto
-- Recursos Hídricos
-- Prazo
 - Abastecimento de Água
 - Autarquia Local
+- Prazo
+- Recursos Hídricos
+- Sistema Multimunicipal de Abastecimento de Água do Sul do Grande Porto
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:82/2025
+  label: Altera, a partir de 5 de agosto de 2026, o artigo 4.º (prazo para integrar o sistema multimunicipal) do Decreto-Lei
+    n.º 82/2025, de 3 de junho, Diário da República n.º 106/2025, Série I
+  source: null
+  date: '2025-06-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/2017/02/01/p/dre
   label: null
@@ -80,16 +86,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/82/2025/06/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/82/2025/06/03/p/dre
+- type: cites
+  target: pt:dre:106380302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:920339814:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:49:06Z'
   warnings: []
   errors: []
 ---
@@ -138,12 +152,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de junho de 2026. - Paulo Artur dos Santos de Castro de Campos Rangel - Hélder Manuel Gomes dos Reis - Maria da Graça Carvalho.
 
-**Promulgado em 24 de julho de 2026.**
+Promulgado em 24 de julho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 27 de julho de 2026.**
+Referendado em 27 de julho de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119949241

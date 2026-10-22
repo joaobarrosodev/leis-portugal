@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 175/1998, 5º Suplemento, Série I-A de 1998-07-31
   number: '175'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 3674-(18) a 3674-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/07/175a05/00180020.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/11-r/1998/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-r-1998-182255
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-18T00:00:00Z'
+  retrieved_at: '2026-10-22T18:50:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aab1e369733b8c1d29b924cb0c3b1a2e561d8b54056a7ebdd465d992710ae5e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1580b017e28eec8fee3cc151bf68ecb53f4c3085b3157357b13a3fbee3117f9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:50:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embarcação
-- Transporte Marítimo
-- Multa
 - Contra-ordenação
 - Definição de Competências
 - Direcção Geral de Portos Navegação e Transportes Marítimos
-- Fiscalização
-- Transporte de Mercadorias
-- Regime Jurídico
+- Embarcação
 - Embarcação de Pesca
+- Fiscalização
+- Multa
+- Regime Jurídico
 - Regulamento dos Meios de Salvação
 - Sanção
 - Segurança Marítima
+- Transporte de Mercadorias
 - Transporte de Passageiros
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:280895:por
@@ -90,16 +90,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/191/1998/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/191/1998/07/10/p/dre
+- type: cites
+  target: pt:dre:485046:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:50:50Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +122,9 @@ Para os devidos efeitos se declara que no [Decreto-Lei n.º 191/98](https://diar
 
 12 - As características dos dispositivos de colocação na água devem permitir realizar embarques seguros nas embarcações de sobrevivência, de acordo com os requisitos previstos nos n.os 1 e 2 do artigo 88.º e n.os 2 e 3 do artigo 113.º
 
-###### Artigo 146.º — Dispositivos de colocação na água usando cabos e um guincho
+Artigo 146.º
+
+Dispositivos de colocação na água usando cabos e um guincho
 
 1 - Os cabos dos dispositivos de colocação na água devem ser resistentes à torção e à corrosão.
 
@@ -150,11 +156,15 @@ H = altura, em metros, desde a cabeça do turco até à linha de água na condi�
 
 11 - As brecas manuais devem ser instaladas de modo a estar sempre actuantes, a menos que o operador ou um mecanismo por este accionado mantenha o comando da breca na posição de desenfreada.
 
-###### Artigo 147.º — Colocação na água por libertação automática
+Artigo 147.º
+
+Colocação na água por libertação automática
 
 A libertação de uma embarcação de sobrevivência da sua posição a bordo deve ser automática, sempre que essa embarcação possua um dispositivo de colocação na água e tenha sido concebida para ser colocada a flutuar livremente.
 
-###### Artigo 148.º — Colocação na água por queda livre
+Artigo 148.º
+
+Colocação na água por queda livre
 
 Sem prejuízo do disposto no artigo anterior, os dispositivos de colocação na água por queda livre usando um plano inclinado devem possuir os requisitos seguintes:
 
@@ -164,7 +174,9 @@ b) O dispositivo de lançamento deve possuir uma estrutura rígida, com inclina�
 
 c) O dispositivo de lançamento deve possuir protecção eficiente contra a corrosão e ser concebido de modo a prevenir uma fricção ou um impacte durante a queda, com emissão de chispas capazes de provocar um incêndio.
 
-###### Artigo 149.º — Desembarque por rampa de escorregamento
+Artigo 149.º
+
+Desembarque por rampa de escorregamento
 
 Sem prejuízo do disposto no artigo 145.º, o sistema de desembarque por rampa de escorregamento deve possuir os requisitos seguintes:
 
@@ -172,13 +184,17 @@ a) A rampa de escorregamento, no local de embarque, deve poder ser accionada por
 
 b) A rampa de escorregamento deve poder ser usada mesmo com ventos fortes e mar encrespado.
 
-###### Artigo 150.º — Dispositivo de colocação na água para jangadas pneumáticas
+Artigo 150.º
+
+Dispositivo de colocação na água para jangadas pneumáticas
 
 1 - Os dispositivos para colocar jangadas pneumáticas na água devem observar o disposto nos artigos 145.º e 146.º, excepto no que diz respeito à colocação à borda, que deve poder efectuar-se manualmente.
 
 2 - O dispositivo de colocação na água deve evitar uma libertação prematura da jangada durante o arriar e ainda a sua libertação quando esta se encontre a flutuar.
 
-###### Artigo 151.º — Escadas de embarque
+Artigo 151.º
+
+Escadas de embarque
 
 1 - Os embarques e os desembarques devem ser assegurados com a instalação de balaustres, desde o convés até ao extremo superior da escada e vice-versa.
 
@@ -200,11 +216,17 @@ b) Os extremos dos cabos possuir costuras, de modo a impedir o descoche.
 
 4 - Os cabos podem ser de outros materiais, desde que as dimensões, a resistência à rotura, as características de durabilidade, o alongamento e a aderência às mãos sejam, no mínimo, equivalentes às do cabo de manila.
 
-#### SECÇÃO VI — Outros meios de salvação
+SECÇÃO VI
 
-### CAPÍTULO 28 — Aparelhos lança-cabos
+Outros meios de salvação
 
-###### Artigo 152.º — Aparelho lança-cabos
+CAPÍTULO 28
+
+Aparelhos lança-cabos
+
+Artigo 152.º
+
+Aparelho lança-cabos
 
 1 - Os aparelhos lança-cabos devem:
 
@@ -218,9 +240,13 @@ d) Possuir instruções breves ou diagrama, indicando o modo de utilização do 
 
 2 - Os foguetões disparados por pistolas e as unidades, no caso de foguetão solidário com o cabo, devem estar guardados numa caixa resistente à água e, no caso de o foguetão ser disparado por pistola, o cabo, o foguetão e os meios de ignição devem estar guardados numa caixa que os proteja do tempo.
 
-### CAPÍTULO 29 — Balsas rígidas
+CAPÍTULO 29
 
-###### Artigo 153.º — Balsas rígidas
+Balsas rígidas
+
+Artigo 153.º
+
+Balsas rígidas
 
 1 - As balsas rígidas devem ser construídas de modo a manterem a forma e as propriedades quando expostas ao tempo, quer a bordo, quer na água, e a não necessitarem de qualquer ajustamento antes da utilização.
 

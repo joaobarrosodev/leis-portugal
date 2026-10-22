@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1961/02/02700/01010105.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43492-1961-556230
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-15T00:00:00Z'
+  retrieved_at: '2026-10-22T19:22:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8677126f9773433e9dba1a880c3e623329be0fa0c0ce046d4545b02b017df332
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c88283d5295ae464cde29d3295702b369c80e45384a65dcd3bab87cfb998f0f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:22:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carteira Profissional
+- Certificado de Robustez Física
+- Formação Profissional
+- Mergulhador
+- Multa
+- Normas de Segurança
+- Pessoal do MAR
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:509199:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:181406:por
+  label: "Alterados os arts. 3º e 5º do regulamento pelo DEC LEI.12/94.1994.01.15.MDN, DR.IS-A [12]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/44022-1961-181406
+  date: '1961-11-11'
+- type: cites
+  target: pt:dre:582467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673265:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:509199:por
+  label: "Revogado pelo DEC LEI.12/94.1994.01.15.MDN, DR.IS-A [12]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/12-1994-509199
+  date: '1994-01-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:22:16Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +128,9 @@ Regulamento para o Exercício da Profissão de Mergulhador dentro da Área da Ju
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º Os mergulhadores são marítimos inscritos na classe auxiliar, habilitados nos termos do presente regulamento.
+Artigo 1.º Os mergulhadores são marítimos inscritos na classe auxiliar, habilitados nos termos do presente regulamento.
 
-###### Art. 2.º Os mergulhadores classificam-se em três classes, de acordo com a sua preparação profissional, a saber:
+Art. 2.º Os mergulhadores classificam-se em três classes, de acordo com a sua preparação profissional, a saber:
 
 1.ª classe - até 60 m.
 
@@ -110,7 +140,7 @@ Regulamento para o Exercício da Profissão de Mergulhador dentro da Área da Ju
 
 ### CAPÍTULO II — Admissão e preparação
 
-###### Art. 3.º As condições gerais a que devem satisfazer os candidatos a mergulhadores são as seguintes:
+Art. 3.º As condições gerais a que devem satisfazer os candidatos a mergulhadores são as seguintes:
 
 a) Não ter menos de 21 anos de idade;
 
@@ -120,7 +150,7 @@ c) Ter frequentado com aproveitamento o curso de mergulhadores do serviço de me
 
 § único. A frequência de civis ao curso de mergulhadores do serviço de mergulhadores e de salvação é condicionada pelo disposto no artigo 41.º e seus §§ 1.º e 2.º da [Portaria n.º 17045](https://diariodarepublica.pt/dr/detalhe/portaria/17045-1959-591160).
 
-###### Art. 4.º O candidato a mergulhador deve satisfazer às seguintes condições físicas:
+Art. 4.º O candidato a mergulhador deve satisfazer às seguintes condições físicas:
 
 a) Possuir robustez física e mental compatível com a profissão que pretende desempenhar;
 
@@ -160,11 +190,11 @@ f) Aparelho auditivo com integridade e capacidade perfeitas, assim como perfeita
 
 12) Portadores de doenças crónicas ou rebeldes ao tratamento e os que tenham sofrido extensas intervenções cirúrgicas cranianas, torácicas ou abdominais.
 
-###### Art. 5.º Os programas de que constam as provas de exame teórico e prático para mergulhador das várias classes serão afixados anualmente pela capitania, nos locais do costume, para conhecimento do público.
+Art. 5.º Os programas de que constam as provas de exame teórico e prático para mergulhador das várias classes serão afixados anualmente pela capitania, nos locais do costume, para conhecimento do público.
 
 § único. Os candidatos que tiverem sido diplomados por escolas estrangeiras não são dispensados da prestação de provas de exame no serviço de mergulhadores e de salvação da Armada.
 
-###### Art. 6.º Para ser sujeito às provas exigidas no presente regulamento, ou para ser admitido à frequência curso de mergulhadores do serviço de mergulhadores e de salvação da Armada, o candidato a mergulhador deve apresentar na capitania do porto os seguintes documentos:
+Art. 6.º Para ser sujeito às provas exigidas no presente regulamento, ou para ser admitido à frequência curso de mergulhadores do serviço de mergulhadores e de salvação da Armada, o candidato a mergulhador deve apresentar na capitania do porto os seguintes documentos:
 
 a) Requerimento, dirigido à capitania respectiva, pedindo para ser submetido às provas para mergulhador ou para ser submetido à frequência do curso de mergulhadores do serviço de mergulhadores e de salvação da Armada;
 
@@ -180,19 +210,19 @@ f) Documentos comprovativos de possuir o exame de instrução primária da 4.ª 
 
 g) Duas fotografias actualizadas do candidato.
 
-###### Art. 7.º Os candidatos a mergulhadores que satisfaçam às provas estabelecidas neste diploma são considerados como mergulhadores e classificados na 3.ª classe.
+Art. 7.º Os candidatos a mergulhadores que satisfaçam às provas estabelecidas neste diploma são considerados como mergulhadores e classificados na 3.ª classe.
 
-###### Art. 8.º Dois anos após a sua classificação como mergulhadores de 3.ª classe, e desde que tenham permanecido em actividade permanente, podem ascender à 2.ª classe, mediante a aprovação em provas práticas requeridas à capitania do porto respectiva.
+Art. 8.º Dois anos após a sua classificação como mergulhadores de 3.ª classe, e desde que tenham permanecido em actividade permanente, podem ascender à 2.ª classe, mediante a aprovação em provas práticas requeridas à capitania do porto respectiva.
 
-###### Art. 9.º Três anos após a sua classificação como mergulhadores de 2.ª classe, e desde que tenham permanecido em actividade permanente, poderão ascender à 1.ª classe, mediante aprovação em exame teórico e prático a requerer à capitania do porto respectiva.
+Art. 9.º Três anos após a sua classificação como mergulhadores de 2.ª classe, e desde que tenham permanecido em actividade permanente, poderão ascender à 1.ª classe, mediante aprovação em exame teórico e prático a requerer à capitania do porto respectiva.
 
-###### Art. 10.º Se o mergulhador não lograr aprovação nas provas de acesso à classe superior, terá de permanecer ainda na classe a que pertence por novo período de tempo, conforme o estabelecido nos artigos 8.º e 9.º, antes de poder requerer novas provas.
+Art. 10.º Se o mergulhador não lograr aprovação nas provas de acesso à classe superior, terá de permanecer ainda na classe a que pertence por novo período de tempo, conforme o estabelecido nos artigos 8.º e 9.º, antes de poder requerer novas provas.
 
 § único. Caso o mergulhador fique reprovado em dois exames consecutivos para a passagem de classe, não poderá ascender à classe superior.
 
 ### CAPÍTULO III — Caderneta profissional de mergulhador
 
-###### Art. 11.º O mergulhador será possuidor de um documento designado por «caderneta profissional de mergulhador», a passar, após exame, pelo serviço de mergulhadores e de salvação.
+Art. 11.º O mergulhador será possuidor de um documento designado por «caderneta profissional de mergulhador», a passar, após exame, pelo serviço de mergulhadores e de salvação.
 
 § único. A caderneta profissional de mergulhador (modelo anexo a este regulamento) será constituída por:
 
@@ -202,13 +232,13 @@ g) Duas fotografias actualizadas do candidato.
 
 ### CAPÍTULO IV — Mergulhadores provenientes da Armada
 
-###### Art. 12.º Os mergulhadores provenientes da Armada que passem à reserva ou que levem baixa do serviço activo poderão exercer a sua profissão desde que façam a sua inscrição nas capitanias.
+Art. 12.º Os mergulhadores provenientes da Armada que passem à reserva ou que levem baixa do serviço activo poderão exercer a sua profissão desde que façam a sua inscrição nas capitanias.
 
 § único. Os mergulhadores de que trata este artigo, quando estejam mais de três meses em inactividade, para exercerem a sua profissão de mergulhadores terão de ser sujeitos a inspecção médica; se a inactividade for superior a seis meses, terão, além da inspecção médica, de sujeitar-se a provas práticas, a realizar no serviço de mergulhadores e de salvação da Armada. Estas são isentas de emolumentos.
 
 ### CAPÍTULO V — Exercício profissional
 
-###### Art. 13.º O candidato à profissão de mergulhador que satisfaça às condições expressas no artigo 3.º do presente regulamento poderá exercer essa profissão desde que:
+Art. 13.º O candidato à profissão de mergulhador que satisfaça às condições expressas no artigo 3.º do presente regulamento poderá exercer essa profissão desde que:
 
 a) Se inscreva em qualquer capitania dos portos nacionais, nos termos do capítulo I do [Decreto-Lei n.º 23764](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23764-1934-673265), de 13 de Abril de 1934;
 
@@ -220,78 +250,78 @@ b) Possua carta de mergulhador passada pela capitania do porto respectiva em pre
 
 2) Os mergulhadores provenientes da Armada, nas condições estabelecidas no artigo 12.º deste regulamento.
 
-###### Art. 14.º É expressamente proibido aos mergulhadores efectuarem trabalhos a profundidades superiores às correspondentes à classe em que estão classificados.
+Art. 14.º É expressamente proibido aos mergulhadores efectuarem trabalhos a profundidades superiores às correspondentes à classe em que estão classificados.
 
 § único. É igualmente proibido aos mergulhadores utilizarem equipamentos para os quais não se encontrem habilitados pela caderneta profissional de mergulhador a que se refere o artigo 11.º e seu § único.
 
-###### Art. 15.º As imersões a mais de 40 m de profundidade só podem ser executadas sob a direcção de um perito mergulhador; as imersões entre 20 m e 40 m só podem ser executadas sob a direcção de um mergulhador de 1.ª classe.
+Art. 15.º As imersões a mais de 40 m de profundidade só podem ser executadas sob a direcção de um perito mergulhador; as imersões entre 20 m e 40 m só podem ser executadas sob a direcção de um mergulhador de 1.ª classe.
 
 § 1.º O termo «imersão», empregado neste artigo, tem o significado geral de «sujeito a pressão».
 
 § 2.º Entende-se por «perito mergulhador» o indivíduo com um curso, nacional ou estrangeiro, que o habilite a dirigir operações de mergulhadores e com a equivalência semelhante à do curso de especialização em mergulhador para os oficiais da Armada.
 
-###### Art. 16.º Todos os mergulhadores terão como guias outros mergulhadores.
+Art. 16.º Todos os mergulhadores terão como guias outros mergulhadores.
 
 ### CAPÍTULO VI — Cuidados impostos durante o exercício da profissão de mergulhador
 
-###### Art. 17.º Os mergulhadores em actividade normal da sua profissão devem ser sujeitos, periòdicamente, a exame médico, com um intervalo de tempo que não exceda três meses.
+Art. 17.º Os mergulhadores em actividade normal da sua profissão devem ser sujeitos, periòdicamente, a exame médico, com um intervalo de tempo que não exceda três meses.
 
 § 1.º Os mergulhadores que interrompam a sua actividade profissional por período superior a três meses não poderão regressar ao exercício da profissão sem a inspecção médica estabelecida na alínea b) do artigo 3.º deste regulamento.
 
 § 2.º A inspecção médica prevista nas disposições precedentes é da responsabilidade da empresa ou entidade por conta da qual trabalha o mergulhador e deverá ser registada na respectiva folha da caderneta profissional de mergulhador.
 
-###### Art. 18.º A caderneta profissional de mergulhador deverá ser objecto de verificações trimestrais por parte do capitão do porto, o qual rubricará os registos de imersões e de observação médica, verificando por eles se a actividade do mergulhador tem obedecido às disposições consignadas no presente regulamento.
+Art. 18.º A caderneta profissional de mergulhador deverá ser objecto de verificações trimestrais por parte do capitão do porto, o qual rubricará os registos de imersões e de observação médica, verificando por eles se a actividade do mergulhador tem obedecido às disposições consignadas no presente regulamento.
 
-###### Art. 19.º Todo o material de mergulhador, para ser utilizado, deve ser sujeito a provas e vistorias passadas pela capitania de seis em seis meses, para o que esta deverá agregar um oficial a designar pelo serviço de mergulhadores e de salvação da Direcção do Serviço de Submersíveis como seu delegado e um mergulhador do mesmo serviço.
+Art. 19.º Todo o material de mergulhador, para ser utilizado, deve ser sujeito a provas e vistorias passadas pela capitania de seis em seis meses, para o que esta deverá agregar um oficial a designar pelo serviço de mergulhadores e de salvação da Direcção do Serviço de Submersíveis como seu delegado e um mergulhador do mesmo serviço.
 
 § único. Nos portos insulares a capitania agregará a si um oficial da Armada habilitado com qualquer dos cursos de mergulhador e um mergulhador da Armada; na falta do primeiro agregará um oficial de marinha aperfeiçoado com o curso de armas submarinas.
 
-###### Art. 20.º Sempre que o serviço de mergulhadores e de salvação tenha ensejo de verificar, por intermédio dos seus oficiais, qualquer deficiência técnica em operações de mergulhadores, deverá comunicá-la à capitania local.
+Art. 20.º Sempre que o serviço de mergulhadores e de salvação tenha ensejo de verificar, por intermédio dos seus oficiais, qualquer deficiência técnica em operações de mergulhadores, deverá comunicá-la à capitania local.
 
-###### Art. 21.º É obrigatória a existência de uma câmara de recompressão nos locais de trabalho onde se realizem imersões a profundidades superiores a 40 m.
+Art. 21.º É obrigatória a existência de uma câmara de recompressão nos locais de trabalho onde se realizem imersões a profundidades superiores a 40 m.
 
 ### CAPÍTULO VII — Critérios relativos à utilização de mergulhadores
 
-###### Art. 22.º É expressamente proibido a qualquer empresa ou entidade empregar ao seu serviço mergulhadores que não satisfaçam às condições estabelecidas pelo presente regulamento.
+Art. 22.º É expressamente proibido a qualquer empresa ou entidade empregar ao seu serviço mergulhadores que não satisfaçam às condições estabelecidas pelo presente regulamento.
 
-###### Art. 23.º Em profundidades superiores a 10 m ou em trabalhos que exijam longa permanência em imersão não devem ser empregados mergulhadores com mais de 45 anos de idade, qualquer que seja a classe em que estiverem classificados.
+Art. 23.º Em profundidades superiores a 10 m ou em trabalhos que exijam longa permanência em imersão não devem ser empregados mergulhadores com mais de 45 anos de idade, qualquer que seja a classe em que estiverem classificados.
 
-###### Art. 24.º É proibido a qualquer empresa ou entidade obrigar ou consentir que um mergulhador desça a profundidade superior à correspondente à classe em que está classificado, conforme o estabelecido no artigo 2.º deste regulamento.
+Art. 24.º É proibido a qualquer empresa ou entidade obrigar ou consentir que um mergulhador desça a profundidade superior à correspondente à classe em que está classificado, conforme o estabelecido no artigo 2.º deste regulamento.
 
 ### CAPÍTULO VIII — Penalidades
 
-###### Art. 25.º Ao mergulhador que não cumpra o determinado no artigo 13.º ser-lhe-á aplicada pela autoridade marítima a multa de 1000$00 a 5000$00. Ao mergulhador que não cumpra o determinado no artigo 14.º e seu § único ser-lhe-á aplicada a mesma multa, acrescida da confiscação da carta de mergulhador a que se refere a alínea b) do artigo 13.º e da caderneta profissional de mergulhador a que se refere o artigo 11.º
+Art. 25.º Ao mergulhador que não cumpra o determinado no artigo 13.º ser-lhe-á aplicada pela autoridade marítima a multa de 1000$00 a 5000$00. Ao mergulhador que não cumpra o determinado no artigo 14.º e seu § único ser-lhe-á aplicada a mesma multa, acrescida da confiscação da carta de mergulhador a que se refere a alínea b) do artigo 13.º e da caderneta profissional de mergulhador a que se refere o artigo 11.º
 
-###### Art. 26.º Ao mergulhador proveniente da Armada que exerça a sua profissão sem ser inscrito marítimo ou sem a observância do preceituado no § único do artigo 12.º do presente regulamento ser-lhe-á aplicada, pela autoridade marítima, a multa de 1000$00 a 5000$00.
+Art. 26.º Ao mergulhador proveniente da Armada que exerça a sua profissão sem ser inscrito marítimo ou sem a observância do preceituado no § único do artigo 12.º do presente regulamento ser-lhe-á aplicada, pela autoridade marítima, a multa de 1000$00 a 5000$00.
 
-###### Art. 27.º Incorre na pena de multa de 2000$00 a 5000$00 a empresa ou entidade que não promova o cumprimento das disposições consignadas no presente regulamento.
+Art. 27.º Incorre na pena de multa de 2000$00 a 5000$00 a empresa ou entidade que não promova o cumprimento das disposições consignadas no presente regulamento.
 
 ### CAPÍTULO IX — Disposições transitórias
 
-###### Art. 28.º Os mergulhadores existentes à data da publicação do presente regulamento que já tenham desempenhado a sua profissão ficam autorizados a exercê-la desde que estejam inscritos em qualquer capitania dos portos nacionais, nos termos do capítulo I do [Decreto-Lei n.º 23764](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23764-1934-673265), de 13 de Abril de 1934, e satisfaçam às condições expressas no artigo 17.º do presente regulamento.
+Art. 28.º Os mergulhadores existentes à data da publicação do presente regulamento que já tenham desempenhado a sua profissão ficam autorizados a exercê-la desde que estejam inscritos em qualquer capitania dos portos nacionais, nos termos do capítulo I do [Decreto-Lei n.º 23764](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23764-1934-673265), de 13 de Abril de 1934, e satisfaçam às condições expressas no artigo 17.º do presente regulamento.
 
-###### Art. 29.º Os mergulhadores nas condições do artigo 28.º desempenharão a sua profissão, no que se refere à profundidade máxima a que podem mergulhar, de acordo com a classe em que tenham sido classificados pelo [Decreto n.º 25592](https://diariodarepublica.pt/dr/detalhe/decreto/25592-1935-582467).
+Art. 29.º Os mergulhadores nas condições do artigo 28.º desempenharão a sua profissão, no que se refere à profundidade máxima a que podem mergulhar, de acordo com a classe em que tenham sido classificados pelo [Decreto n.º 25592](https://diariodarepublica.pt/dr/detalhe/decreto/25592-1935-582467).
 
-###### Art. 30.º Os guias de mergulhadores já existentes à data da publicação deste regulamento continuarão a desempenhar a sua profissão de acordo com o estabelecido sobre guias de mergulhadores no [Decreto n.º 25592](https://diariodarepublica.pt/dr/detalhe/decreto/25592-1935-582467).
+Art. 30.º Os guias de mergulhadores já existentes à data da publicação deste regulamento continuarão a desempenhar a sua profissão de acordo com o estabelecido sobre guias de mergulhadores no [Decreto n.º 25592](https://diariodarepublica.pt/dr/detalhe/decreto/25592-1935-582467).
 
 ### CAPÍTULO X — Disposições diversas
 
-###### Art. 31.º As verbas emolumentares a satisfazer pelo serviço de exame de mergulhadores e pelas vistorias ao material de mergulhadores são as que constam da tabela geral das verbas em vigor.
+Art. 31.º As verbas emolumentares a satisfazer pelo serviço de exame de mergulhadores e pelas vistorias ao material de mergulhadores são as que constam da tabela geral das verbas em vigor.
 
-###### Art. 32.º Aos mergulhadores e às empresas ou outras entidades que se utilizem de mergulhadores é-lhes aplicada a doutrina dos Decretos-Leis n.os 22827, de 14 de Julho de 1933, e 23764, de 13 de Abril de 1934.
+Art. 32.º Aos mergulhadores e às empresas ou outras entidades que se utilizem de mergulhadores é-lhes aplicada a doutrina dos Decretos-Leis n.os 22827, de 14 de Julho de 1933, e 23764, de 13 de Abril de 1934.
 
-###### Art. 33.º As autoridades marítimas organizarão todos os anos listas dos mergulhadores existentes na área da sua jurisdição, a fim de constarem da lista dos navios da marinha portuguesa.
+Art. 33.º As autoridades marítimas organizarão todos os anos listas dos mergulhadores existentes na área da sua jurisdição, a fim de constarem da lista dos navios da marinha portuguesa.
 
-###### Art. 34.º Considera-se «empresa», para efeitos deste regulamento, qualquer entidade comercial singular ou colectiva. A palavra «entidade» empregada na frase «empresa ou entidade» refere-se, no presente diploma, a pessoa jurídica de direito privado ou direito público, seja qual for o grau de autonomia da sua administração.
+Art. 34.º Considera-se «empresa», para efeitos deste regulamento, qualquer entidade comercial singular ou colectiva. A palavra «entidade» empregada na frase «empresa ou entidade» refere-se, no presente diploma, a pessoa jurídica de direito privado ou direito público, seja qual for o grau de autonomia da sua administração.
 
-###### Art. 35.º Toda a matéria do presente regulamento entrará em vigor três meses após a data da sua publicação.
+Art. 35.º Toda a matéria do presente regulamento entrará em vigor três meses após a data da sua publicação.
 
-###### Art. 36.º Dentro do prazo de um ano, as autoridades marítimas devem propor à Direcção-Geral da Marinha as alterações que entendam necessárias às disposições anteriores para a boa execução dos fins a que visa o presente diploma. Qualquer interessado pode igualmente apresentar à Direcção-Geral da Marinha propostas com o mesmo objectivo.
+Art. 36.º Dentro do prazo de um ano, as autoridades marítimas devem propor à Direcção-Geral da Marinha as alterações que entendam necessárias às disposições anteriores para a boa execução dos fins a que visa o presente diploma. Qualquer interessado pode igualmente apresentar à Direcção-Geral da Marinha propostas com o mesmo objectivo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 1 de Fevereiro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Fernando Quintanilha Mendonça Dias.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/02/02700/01010105.pdf))](https://files.diariodarepublica.pt/1s/1961/02/02700/01010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/02/02700/01010105.pdf)
 
 Ministério da Marinha, 1 de Fevereiro de 1961. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

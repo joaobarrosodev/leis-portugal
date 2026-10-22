@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/135/2026/07/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2026-1145603611
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-09T00:00:00Z'
+  retrieved_at: '2026-10-22T18:46:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f20760c7398bba7b818192f88d25518f49f77b1c92eb558c019e42f93f25bf8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e42bf885d9f698618395eaad6ff17638d0c35a8d66fd6b069bc601640c503de5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:46:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Criação de Serviços
+- Ensino Superior
 - Ensino Superior Politécnico
 - Escola Superior de Saúde
 - Extinção de Serviços
 - Instalação de Serviços
 - Instituto Politécnico
 - Leiria
-- Universidade
 - Regime de Instalação
-- Ensino Superior
 - Transferência de Alunos
 - Transferência de Competências
 - Transferência de Pessoal
 - Transferência Patrimonial
+- Universidade
 - Universidade de Leiria e Oeste
 relationships:
 - type: cites
@@ -97,16 +97,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
+- type: cites
+  target: pt:dre:107094720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
   article_count: 21
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:46:17Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +157,7 @@ De acordo com o previsto no artigo 31.º da [Lei n.º 62/2007](https://diariodar
 
 Considerando que a [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de outubro, que estabelece a Lei de Bases do Sistema Educativo, prevê expressamente, no n.º 3 do seu artigo 17.º, a possibilidade de as universidades integrarem escolas superiores do ensino politécnico, a Escola Superior de Saúde de Leiria, que atualmente constitui uma unidade orgânica do IPL, manterá a sua natureza politécnica no âmbito da ULO, nos termos previstos no n.º 6 do artigo 13.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro. Nos mesmos termos, será criada, na estrutura da ULO, a Escola Superior de Técnicos Especializados como unidade orgânica que reveste natureza politécnica para todos os demais efeitos legais, incluindo o estatuto da carreira docente.
 
-Desta forma, o presente decreto-lei procede à criação da ULO, que sucede ao IPL, no quadro estabelecido pela [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de outubro, tendo por habilitação legal as disposições conjugadas do n.º 6 do artigo 13.º, do n.º 1 do artigo 31.º e dos n.<sup>os</sup>1 e 3 do artigo 55.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, e à luz do objetivo consagrado no Programa do XXV Governo Constitucional de ter sistemas de ensino superior e científico e tecnológico que respondam às necessidades de formação da economia e que estabeleçam relações próximas com as empresas que promovam a difusão do conhecimento e a inovação, concretizando uma decisão estratégica do Governo orientada para o fortalecimento do sistema científico e tecnológico nacional, para o reforço da coesão territorial e para a consolidação de um ensino superior público mais diversificado, competitivo e preparado para os desafios do futuro.
+Desta forma, o presente decreto-lei procede à criação da ULO, que sucede ao IPL, no quadro estabelecido pela [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de outubro, tendo por habilitação legal as disposições conjugadas do n.º 6 do artigo 13.º, do n.º 1 do artigo 31.º e dos n.os1 e 3 do artigo 55.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, e à luz do objetivo consagrado no Programa do XXV Governo Constitucional de ter sistemas de ensino superior e científico e tecnológico que respondam às necessidades de formação da economia e que estabeleçam relações próximas com as empresas que promovam a difusão do conhecimento e a inovação, concretizando uma decisão estratégica do Governo orientada para o fortalecimento do sistema científico e tecnológico nacional, para o reforço da coesão territorial e para a consolidação de um ensino superior público mais diversificado, competitivo e preparado para os desafios do futuro.
 
 De acordo com os pareceres da Direção-Geral do Ensino Superior e da Agência de Avaliação e Acreditação do Ensino Superior, encontram-se reunidas as condições para a criação da ULO, que sucede ao IPL.
 
@@ -143,7 +167,7 @@ Foram ouvidos, ainda, o Conselho de Reitores das Universidades Portuguesas, o Co
 
 Assim:
 
-Nos termos do n.º 1 do artigo 31.º e dos n.<sup>os</sup>1 e 3 do artigo 55.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, e da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Nos termos do n.º 1 do artigo 31.º e dos n.os1 e 3 do artigo 55.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, e da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
 
 ### CAPÍTULO I — DISPOSIÇÕES GERAIS
 
@@ -215,7 +239,7 @@ c) O conselho de gestão.
 
 3 - A transição prevista no número anterior depende da verificação dos requisitos legalmente exigidos para o ingresso na carreira do pessoal docente universitário, sendo efetuada para a categoria equivalente à de origem, nos termos da tabela constante do anexo i do presente decreto-lei e do qual faz parte integrante, e para o mesmo índice remuneratório ou, caso este não exista, para o índice imediatamente seguinte, não relevando na carreira docente universitária os pontos e as menções obtidos em sede de avaliação do desempenho na carreira docente politécnica.
 
-4 - O docente integrado na carreira do pessoal docente do ensino superior politécnico que não reúna os requisitos para a transição a que se referem os n.<sup>os</sup>2 e 3, designadamente por não ser titular do grau de doutor, permanece na carreira docente politécnica, na unidade orgânica de ensino e investigação da ULO que suceda àquela a que estava afeto no IPL, podendo o reitor determinar, nos casos e nos termos previstos no artigo 126.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, e ouvido o docente, a afetação deste a uma unidade orgânica de ensino e investigação da ULO que revista natureza politécnica.
+4 - O docente integrado na carreira do pessoal docente do ensino superior politécnico que não reúna os requisitos para a transição a que se referem os n.os2 e 3, designadamente por não ser titular do grau de doutor, permanece na carreira docente politécnica, na unidade orgânica de ensino e investigação da ULO que suceda àquela a que estava afeto no IPL, podendo o reitor determinar, nos casos e nos termos previstos no artigo 126.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, e ouvido o docente, a afetação deste a uma unidade orgânica de ensino e investigação da ULO que revista natureza politécnica.
 
 5 - Para o efeito do disposto na parte final do número anterior, a emissão do parecer prévio previsto no n.º 4 do artigo 126.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, compete, durante o regime de instalação da ULO, à comissão instaladora desta universidade.
 
@@ -291,19 +315,19 @@ As referências constantes de outros diplomas legais, de diplomas regulamentares
 
 1 - O presente decreto-lei entra em vigor 15 dias após a sua publicação.
 
-2 - O presente decreto-lei produz efeitos na data em que tem lugar o início do regime de instalação da Universidade de Leiria e Oeste, com exceção do previsto nos n.<sup>os</sup>3 a 5 do artigo 8.º, que produz efeitos na data da entrada em vigor do presente decreto-lei.
+2 - O presente decreto-lei produz efeitos na data em que tem lugar o início do regime de instalação da Universidade de Leiria e Oeste, com exceção do previsto nos n.os3 a 5 do artigo 8.º, que produz efeitos na data da entrada em vigor do presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros de 21 de maio de 2026. - Paulo Artur dos Santos de Castro de Campos Rangel - Joaquim Miranda Sarmento - Fernando Alexandre.
 
-**Promulgado em 30 de junho de 2026.**
+Promulgado em 30 de junho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 3 de julho de 2026.**
+Referendado em 3 de julho de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO I — (a que se refere o n.º 3 do artigo 10.º)
 
@@ -352,3 +376,7 @@ O imóvel do domínio privado do Estado que se encontra afeto ao desempenho das 
 ## ANEXO IV — (a que se refere o n.º 6 do artigo 14.º)
 
 O imóvel do domínio público do Estado que se encontra afeto ao desempenho das atribuições e competências do Instituto Politécnico de Leiria é uma parcela do domínio público marítimo do Estado, no Porto de Peniche, sito na Avenida do Porto de Pesca, Porto de Pesca, 2520-208 Peniche, inscrito na matriz sob o artigo 4778 da freguesia de Peniche, concelho de Peniche.
+
+119948992
+
+.Tbl2 { height:28px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:middle; } .Tbl6 { min-height:18px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; }

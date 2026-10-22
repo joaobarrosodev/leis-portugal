@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 126/1995, 2º Suplemento, Série I-B de 1995-05-31
   number: '126'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3454-(4) a 3454-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1995/05/126b02/00040004.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/60/1995/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-1995-409097
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-05-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:45:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c06d602ec346c6750b42a894f8c20e90553a7c39f79e4b8626329016c98191de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53f61f1beb2d666d78048b6a275e5555595b1efcde0a4157ad79deb27cceca17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:45:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,21 +75,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/decl/49/1995/04/24/p/dre
   label: null
   source: http://data.dre.pt/eli/decl/49/1995/04/24/p/dre
+- type: cites
+  target: pt:dre:223451:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:45:44Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 60/95
+# Declaração de rectificação n.º 60/95
 
 Segundo comunicação da 7.ª Delegação da Direcção-Geral da Contabilidade Pública junto do Ministério do Planeamento e da Administração do Território, a [Declaração n.º 49/95](https://diariodarepublica.pt/dr/detalhe/declaracao/49-1995-223451), publicada no Diário da República, n.º 96, de 24 de Abril de 1995, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/9/2005/03/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-2005-589699
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-04T00:00:00Z'
+  retrieved_at: '2026-10-22T19:05:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60f8796581e06177f2654f764311e3f88c4865ba5244b53ef3d4b3f9f883f9ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a445cd1986868f34643e8fe65e0f226f4e1c54872071fc8894889eabee4387f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:05:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/decpresrep/99/2004/12/10/p/dre
   label: null
   source: http://data.dre.pt/eli/decpresrep/99/2004/12/10/p/dre
+- type: cites
+  target: pt:dre:213410:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto:99/2004
+  label: "Rectifica o Decreto n.º 99/2004, de 10 de Dezembro, DR.IS-A [288] \0\0"
+  source: null
+  date: '2004-12-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:05:52Z'
   warnings: []
   errors: []
 ---

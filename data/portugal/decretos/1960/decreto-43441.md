@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43441-1960-513410
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-12-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:21:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbab6e9a9206ffb6242f6acb1509e8f0471e991e0f3218cb156c777f05484bd9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f660cadbd68601546e8718596aeccb86775bac64c31416923b04e438ec1c97f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:21:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:21:57Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +107,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos dos seguintes Ministérios:
+Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos dos seguintes Ministérios:
 
 Ministério do Exército
 
@@ -107,99 +127,99 @@ Do n.º 3), alínea b) «Emparcelamento» ... -1700000$00
 
 Para o n.º 3), alínea a) «Parcelamento» ... +1890000$00
 
-###### Art. 2.º São abertos no Ministério das Finanças, a favor dos Ministérios a seguir designados, créditos especiais, no montante de 7904309$10, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças, a favor dos Ministérios a seguir designados, créditos especiais, no montante de 7904309$10, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
 
 Ministério das Finanças
 
-### Capítulo 9.º «Serviços de contribuições - Direcções de finanças distritais e secções concelhias»:
+Capítulo 9.º «Serviços de contribuições - Direcções de finanças distritais e secções concelhias»:
 
-###### Artigo 129.º, n.º 2) «Impressos, ...» ... 50000$00
+Artigo 129.º, n.º 2) «Impressos, ...» ... 50000$00
 
-###### Artigo 130.º, n.º 1) «Luz, ...», alínea a) «Para lavagem, ...: Na Direcção de Finanças de Lisboa» ... 6500$00
+Artigo 130.º, n.º 1) «Luz, ...», alínea a) «Para lavagem, ...: Na Direcção de Finanças de Lisboa» ... 6500$00
 
 ... 56500$00
 
 Ministério do Exército
 
-### Capítulo 1.º «Gabinete do Ministro - Ministro, Subsecretário de Estado e Repartição do Gabinete do Ministro»:
+Capítulo 1.º «Gabinete do Ministro - Ministro, Subsecretário de Estado e Repartição do Gabinete do Ministro»:
 
-###### Artigo 4.º, n.º 1), alínea c) «Despesas de representação ...» ... 592949$10
+Artigo 4.º, n.º 1), alínea c) «Despesas de representação ...» ... 592949$10
 
-### Capítulo 3.º «Serviços de instrução»:
+Capítulo 3.º «Serviços de instrução»:
 
 Academia Militar (Lisboa):
 
-###### Artigo 55.º, n.º 3), alínea a) «Alimentação ...» ... 44860$00
+Artigo 55.º, n.º 3), alínea a) «Alimentação ...» ... 44860$00
 
 Instituto Técnico Militar dos Pupilos do Exército (Lisboa):
 
-###### Artigo 139.º, n.º 1) «Móveis» ... 80000$00
+Artigo 139.º, n.º 1) «Móveis» ... 80000$00
 
 ... 717809$10
 
 Ministério da Marinha
 
-### Capítulo 3.º «Superintendência dos Serviços da Armada - Escola Naval»:
+Capítulo 3.º «Superintendência dos Serviços da Armada - Escola Naval»:
 
-###### Artigo 63.º, n.º 1) «Móveis» ... 250000$00
+Artigo 63.º, n.º 1) «Móveis» ... 250000$00
 
 Ministério da Educação Nacional
 
-### Capítulo 2.º «Secretaria-Geral»:
+Capítulo 2.º «Secretaria-Geral»:
 
-###### Artigo 13.º, n.º 1) «Luz, ...» ... 3000000
+Artigo 13.º, n.º 1) «Luz, ...» ... 3000000
 
 Ministério da Economia
 
 Secretaria de Estado da Agricultura
 
-### Capítulo 5.º «Direcção-Geral dos Serviços Pecuários - Serviços centrais»:
+Capítulo 5.º «Direcção-Geral dos Serviços Pecuários - Serviços centrais»:
 
-###### Artigo 56.º, n.º 7) «Campanhas profilácticas», alínea c) «Combate à peste suína ...» ... 4500000$00
+Artigo 56.º, n.º 7) «Campanhas profilácticas», alínea c) «Combate à peste suína ...» ... 4500000$00
 
-### Capítulo 7.º «Junta de Colonização Interna»:
+Capítulo 7.º «Junta de Colonização Interna»:
 
-###### Artigo 157.º, n.º 1) «De imóveis», alínea a) «Prédios rústicos» ... 350000$00
+Artigo 157.º, n.º 1) «De imóveis», alínea a) «Prédios rústicos» ... 350000$00
 
 ... 4850000$00
 
 Ministério da Saúde e Assistência
 
-### Capítulo 4.º «Serviços de assistência pública - Direcção-Geral da Assistência»:
+Capítulo 4.º «Serviços de assistência pública - Direcção-Geral da Assistência»:
 
-###### Artigo 63.º, n.º 1) «Subsídios a cofres ...», alínea b) «Assistência à maternidade ...: Comparticipação nos encargos de sustentação do instituto Maternal ...» ... 2000000$00
+Artigo 63.º, n.º 1) «Subsídios a cofres ...», alínea b) «Assistência à maternidade ...: Comparticipação nos encargos de sustentação do instituto Maternal ...» ... 2000000$00
 
 ... 7904309$10
 
-###### Art. 3.º Como compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+Art. 3.º Como compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 4.º, artigo 67.º «Diversas receitas não classificadas» ... ... 492949$10
+Capítulo 4.º, artigo 67.º «Diversas receitas não classificadas» ... ... 492949$10
 
-### Capítulo 5.º, artigo 107.º «Exploração dos bens na posse da Junta de Colonização Interna» ... 350000$00
+Capítulo 5.º, artigo 107.º «Exploração dos bens na posse da Junta de Colonização Interna» ... 350000$00
 
 ... 842949$10
 
 Ministério das Finanças
 
-### Capítulo 1.º, artigo 8.º, n.º 1) ... 306500$00
+Capítulo 1.º, artigo 8.º, n.º 1) ... 306500$00
 
-### Capítulo 6 º, artigo 47.º, n.º 1) ... 6500000$00
+Capítulo 6 º, artigo 47.º, n.º 1) ... 6500000$00
 
 ... 6806500$00
 
 Ministério do Exército
 
-### Capítulo 3.º, artigo 48.º, n.º 1) ... 44860$00
+Capítulo 3.º, artigo 48.º, n.º 1) ... 44860$00
 
-### Capítulo 3.º, artigo 136.º, n.º 1) ... 180000$00
+Capítulo 3.º, artigo 136.º, n.º 1) ... 180000$00
 
 ... 224860$00
 
 Ministério da Educação Nacional
 
-### Capítulo 4.º, artigo 733.º, n.º 1), alínea b). ... 30000$00
+Capítulo 4.º, artigo 733.º, n.º 1), alínea b). ... 30000$00
 
 ... 7904309$10
 

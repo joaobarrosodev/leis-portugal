@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/45/2007/05/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/45-2007-638573
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-25T00:00:00Z'
+  retrieved_at: '2026-10-22T19:08:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb84f62f8a5f466b25af92612638d58c6c295647a95026bd57bdb0e74c545c1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb439087d8dc7612cbb0a126d2ddc1e3f1bef5a49063ba7952a25248bdc6bccd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:08:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério das Finanças e da Administração Pública
-- Pessoal Dirigente
 - Definição de Competências
 - Direcção Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros
+- Ministério das Finanças e da Administração Pública
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: cites
@@ -90,16 +90,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/24/2007/03/29/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/24/2007/03/29/p/dre
+- type: cites
+  target: pt:dre:218950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545644:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-regulamentar:24/2007
+  label: Retifica, com efeitos a partir de 1 de abril de 2007, as alterações introduzidas no Decreto-Lei n.º 51/98, de 11
+    de março, Diário da República n.º 59/1998, Série I-A pelo Decreto Regulamentar n.º 24/2007, de 29 de março
+  source: null
+  date: '1998-03-11'
+- type: corrects
+  target: pt:numero:decreto-regulamentar:24/2007
+  label: "Rectifica o Decreto Regulamentar n.º 24/2007, de 29 de Março, DR.IS [63]\0\0"
+  source: null
+  date: '2007-03-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:08:17Z'
   warnings: []
   errors: []
 ---

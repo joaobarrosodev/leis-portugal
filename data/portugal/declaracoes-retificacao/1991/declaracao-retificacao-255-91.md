@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 276/1991, 2º Suplemento, Série I-A de 1991-11-30
   number: '276'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 6274-(6) a 6274-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/11/276a02/00060006.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/255/1991/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/255-1991-491885
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:31:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 563bb693744a7261005ed60ed1e9fcad4ab977f4dd5af8d05c1461e5f8da0eaa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11ae68279403198c7fcdff1008446e7b8a7b7228976fd539af5ec80e1429fe93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:31:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,31 +77,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/43/1991/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/43/1991/08/20/p/dre
+- type: cites
+  target: pt:dre:402770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619144:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:31:04Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 255/91
+# Declaração de rectificação n.º 255/91
 
 Para os devidos efeitos se declara que o [Decreto Regulamentar n.º 43/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1991-402770), publicado no Diário da República, n.º 190, de 20 de Agosto de 1991, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 
 No mapa I anexo, na coluna respeitante aos índices da categoria de conferente, onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/11/276a02/00060006.pdf))](https://files.diariodarepublica.pt/1s/1991/11/276a02/00060006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/11/276a02/00060006.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/11/276a02/00060006.pdf))](https://files.diariodarepublica.pt/1s/1991/11/276a02/00060006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/11/276a02/00060006.pdf)
 
 No mapa II anexo, na coluna intitulada «Situação resultante do [Decreto Regulamentar n.º 24/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1989-619144), de 11 de Agosto», onde se lê «operador de 3.ª classe» deve ler-se «operador de armazém de 3.ª classe».
 

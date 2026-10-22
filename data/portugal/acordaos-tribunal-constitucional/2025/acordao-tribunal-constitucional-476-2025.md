@@ -57,18 +57,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/476/2025/07/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/476-2025-923487052
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-03T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e46ca1c6b48437bccdb6d8beee9ad91957f2bf1dcf46c3d710d431badb94f963
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6fe260054260b28be320b2c4ab2d0d041ac7030eaa26173d6db1879b4cfa1280
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Definição de Competências
-- Domínio Público Marítimo
-- Domínio Público do Estado
+- Açores
 - Conselho do Governo Regional
+- Definição de Competências
+- Domínio Público do Estado
+- Domínio Público Marítimo
+- ILHA de Santa Maria
 - Inconstitucionalidade
 - Interesse Público
-- ILHA de Santa Maria
-- Açores
 - VILA do Porto
 relationships:
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:8/2020/A
+  label: Declara a inconstitucionalidade, com força obrigatória geral, das normas emergentes do n.º 1 do artigo 11.º e do
+    artigo 12.º do Decreto Legislativo Regional n.º 8/2020/A, de 30 de março, Diário da República n.º 63/2020, Série I, na
+    medida em que, respetivamente, atribuem ao Conselho de Governo Regional a competência para a homologação de propostas
+    de delimitação do domínio público marítimo do Estado no território da Região Autónoma dos Açores, elaboradas pelas comissões
+    de delimitação, mediante proposta de um membro do Governo Regional, homologação essa vinculativa para todas as autoridades
+    públicas; declara ainda a inconstitucionalidade, com força obrigatória geral, das normas emergentes dos n.ºs 1 e 2 do
+    artigo 15.º do mesmo diploma, na medida em que possibilitam a desafetação, mediante decreto legislativo regional, de qualquer
+    parcela do leito ou da margem do domínio público marítimo
+  source: null
+  date: '2020-03-30'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:26/2020/A
+  label: Declara a inconstitucionalidade, com força obrigatória geral, das normas que emergem dos n.ºs 1 e 2 do artigo 1.º
+    e dos artigos 2.º e 3.º do Decreto Legislativo Regional n.º 26/2020/A, de 15 de outubro, Diário da República n.º 201/2020,
+    Série I, na sua redação atual, na medida em que procedem à desafetação das parcelas aí identificadas pertencentes ao domínio
+    público marítimo, e que estabelecem consequências dessa mesma desafetação
+  source: null
+  date: '2020-10-15'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:41/2023/A
+  label: Declara a inconstitucionalidade, com força obrigatória geral, das normas resultantes dos artigos 1.º, 2.º e 3.º do
+    Decreto Legislativo Regional n.º 41/2023/A, de 28 de novembro, Diário da República n.º 230/2023, Série I, na medida em
+    que procedem à desafetação das parcelas aí identificadas pertencentes ao domínio público marítimo, e que estabelecem consequências
+    dessa mesma desafetação
+  source: null
+  date: '2023-11-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/ac/131/2003/04/04/p/dre
   label: null
@@ -126,16 +154,160 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/54/2005/11/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/54/2005/11/15/p/dre
+- type: cites
+  target: pt:dre:108280432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130829772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145440393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153519404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201275237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2217663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224892464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343679:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3245108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75170439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75319383:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:43Z'
   warnings: []
   errors: []
 ---
@@ -598,13 +770,17 @@ Homologação ou arquivamento
 
 7 - [...]
 
-###### Artigo 12.º — Efeito vinculativo
+Artigo 12.º
+
+Efeito vinculativo
 
 A homologação da proposta de delimitação é vinculativa para todas as autoridades públicas, sem prejuízo de decisão judicial que venha a ser proferida que vincule o Estado e a Região Autónoma dos Açores.
 
 (...)
 
-###### Artigo 14.º — Desafetação do domínio público hídrico lacustre e das restantes águas
+Artigo 14.º
+
+Desafetação do domínio público hídrico lacustre e das restantes águas
 
 1 - Mediante decreto legislativo regional pode ser desafetada do domínio público hídrico lacustre e das restantes águas qualquer parcela do seu leito ou da margem que deva deixar de estar afeta exclusivamente ao interesse público do uso das águas que serve.
 
@@ -614,7 +790,9 @@ a) A identificação completa do bem, do fim público que lhe estava associado e
 
 b) A fundamentação da extinção da utilidade pública a que a parcela do leito ou margem estava afeta, ou a demonstração da existência de um fim de interesse público geral melhor prosseguido através da integração daquela parcela no domínio privado.
 
-###### Artigo 15.º — Desafetação do domínio público marítimo
+Artigo 15.º
+
+Desafetação do domínio público marítimo
 
 1 - Mediante decreto legislativo regional, desde que por motivo de interesse público devidamente fundamentado, pode ser desafetada do domínio público marítimo qualquer parcela do leito ou da margem.
 
@@ -630,11 +808,15 @@ Objeto
 
 2 - Os terrenos dominiais referidos no número anterior e que são objeto de desafetação pelo presente diploma passam a integrar o domínio privado da Região Autónoma dos Açores.
 
-###### Artigo 2.º — Procedimentos
+Artigo 2.º
+
+Procedimentos
 
 Os elementos a que se refere o n.º 2 do artigo 14.º do [Decreto Legislativo Regional n.º 8/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2020-130829772), de 30 de março, são os constantes do anexo ii do presente diploma e que dele fazem parte integrante.
 
-###### Artigo 3.º — Cedência
+Artigo 3.º
+
+Cedência
 
 1 - Verificada a desafetação do domínio público marítimo e a sua integração no domínio privado regional, os terrenos objeto do presente diploma podem ser objeto de contrato de cedência a título definitivo e gratuito a realizar com a associação Clube Naval de Santa Maria, nos termos que forem aprovados por resolução do Governo Regional.
 
@@ -650,11 +832,15 @@ Objeto
 
 O presente diploma procede à desafetação do domínio público marítimo, por motivos de interesse público, da parcela de terreno onde se encontram implantadas as ruínas do Forte de São João Baptista da Praia Formosa, situada na freguesia de Almagreira, concelho de Vila do Porto, ilha de Santa Maria.
 
-###### Artigo 2.º — Procedimentos
+Artigo 2.º
+
+Procedimentos
 
 Os elementos a que se refere o n.º 2 do artigo 14.º do [Decreto Legislativo Regional n.º 8/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2020-130829772), de 30 de março, são os constantes do anexo I ao presente diploma e que dele fazem parte integrante.
 
-###### Artigo 3.º — Integração no domínio privado da Região Autónoma dos Açores
+Artigo 3.º
+
+Integração no domínio privado da Região Autónoma dos Açores
 
 A parcela de terreno referida no artigo anterior, representada na planta constante do anexo II ao presente diploma, do qual faz parte integrante, passa a integrar o domínio privado da Região Autónoma dos Açores.»
 
@@ -678,7 +864,7 @@ c) Os parâmetros convocados
 
 d) Enquadramento do regime em análise
 
-15 - O pedido de fiscalização da constitucionalidade que ora se aprecia é situado pelo Requerente no âmbito temático do domínio público estadual e regional, em especial no tocante ao domínio público marítimo, em razão da matéria sobre a qual as normas objeto dispõem, mas também em face da jurisprudência constitucional sobre a mesma. Com efeito, a jurisprudência constitucional, na linha dos Acórdãos n.<sup>os</sup>[330/1999](https://diariodarepublica.pt/dr/detalhe/acordao/330-1999-372067), [654/2009](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/654-2009-610209), [315/2014](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/315-2014-25343679) e 136/2016, veio a assentar que o domínio público marítimo é necessariamente estadual, posição que ficou sintetizada, por último, no [Acórdão n.º 484/2022](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/484-2022-201275237), nos seguintes termos:
+15 - O pedido de fiscalização da constitucionalidade que ora se aprecia é situado pelo Requerente no âmbito temático do domínio público estadual e regional, em especial no tocante ao domínio público marítimo, em razão da matéria sobre a qual as normas objeto dispõem, mas também em face da jurisprudência constitucional sobre a mesma. Com efeito, a jurisprudência constitucional, na linha dos Acórdãos n.os[330/1999](https://diariodarepublica.pt/dr/detalhe/acordao/330-1999-372067), [654/2009](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/654-2009-610209), [315/2014](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/315-2014-25343679) e 136/2016, veio a assentar que o domínio público marítimo é necessariamente estadual, posição que ficou sintetizada, por último, no [Acórdão n.º 484/2022](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/484-2022-201275237), nos seguintes termos:
 
 «8 - De harmonia com o disposto no artigo 84.º n.º 1, alínea a), da CRP, são bens do domínio público as “águas territoriais com os seus leitos e fundos marinhos contíguos”. No mesmo sentido, o artigo 3.º da [Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/lei/54-2005-583983) dispõe que integram o domínio público marítimo as águas costeiras, territoriais e interiores sujeitas à influência das marés, nos rios, lagos e lagoas, assim como o respetivo leito e margens, e os fundos marinhos contíguos da plataforma continental, abrangendo toda a zona económica exclusiva.
 
@@ -698,15 +884,15 @@ Também a doutrina tem excluído do domínio público regional as águas territo
 
 Em conformidade com esta jurisprudência e doutrina, o n.º 2 do artigo 22.º do EPARAA, após a 3.ª revisão, acabou por excetuar do domínio público regional os bens afetos ao domínio público militar, ao domínio público marítimo, ao domínio público aéreo e, salvo quando classificados como património cultural, os bens dominiais afetos a serviços públicos não regionalizados.»
 
-16 - Pode não ser necessário, porém, mobilizar plenamente esta jurisprudência constitucional. As normas objeto do presente recurso foram todas elas aprovadas pela ALRAA, assumindo a forma de decreto legislativo regional (não era esse o caso no [Acórdão n.º 484/2022](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/484-2022-201275237), cujo objeto consistia integralmente em normas constantes de lei parlamentar, a saber: as «normas constantes do n.º 3 do artigo 8.º e do artigo 31.º-A - e, pela sua conexão, do segmento final do n.º 1 do artigo 8.º - da [Lei n.º 17/2014](https://diariodarepublica.pt/dr/detalhe/lei/17-2014-25343987), de 10 de abril, na redação que lhes foi dada pela [Lei n.º 1/2021](https://diariodarepublica.pt/dr/detalhe/lei/1-2021-153519404), de 11 de janeiro, que procede à primeira alteração à Lei de Bases da Política de Ordenamento e de Gestão do Espaço Marítimo Nacional, aprovada pela referida [Lei n.º 17/2014](https://diariodarepublica.pt/dr/detalhe/lei/17-2014-25343987), de 10 de abril»). Assim, ainda que possa discutir-se a natureza das normas do bloco (III), pertencentes aos Decretos Legislativos Regionais n.<sup>os</sup>[26/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2020-145440393) e [41/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2023-224892464) (cf. infra), não há dúvida de que todas as normas objeto do pedido (i) são oriundas do poder legislativo regional, tendo sido aprovadas pelo órgão regional com competência legislativa e com invocação das regras constitucionais e estatutárias que, a priori, lhe atribuem e delimitam tal competência (no caso do [Decreto Legislativo Regional n.º 8/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2020-130829772), o disposto nos artigos 112.º, n.º 4 e 227.º, n.º 1, alínea a), ambos da CRP, e o disposto nos artigos 37.º e 57.º, ambos do EPARAA; no caso daqueles outros dois diplomas, o disposto no artigo 227.º, n.º 1, alínea a) da CRP, e no artigo 37.º, n.º 1 do EPARAA); (ii) e preenchem o conceito funcional de norma que a jurisprudência constitucional consagrou como relevante para efeitos de identificação de um objeto (normativo) idóneo a submeter a fiscalização da constitucionalidade (cf. Acórdãos n.<sup>os</sup>[654/2009](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/654-2009-610209), [130/2006](https://diariodarepublica.pt/dr/detalhe/acordao/130-2006-2217663), 529/2001, 1058/96, 24/1998, 1/1997, [80/86](https://diariodarepublica.pt/dr/detalhe/acordao/80-1986-229095) e [26/85](https://diariodarepublica.pt/dr/detalhe/acordao/26-1985-3245108)).
+16 - Pode não ser necessário, porém, mobilizar plenamente esta jurisprudência constitucional. As normas objeto do presente recurso foram todas elas aprovadas pela ALRAA, assumindo a forma de decreto legislativo regional (não era esse o caso no [Acórdão n.º 484/2022](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/484-2022-201275237), cujo objeto consistia integralmente em normas constantes de lei parlamentar, a saber: as «normas constantes do n.º 3 do artigo 8.º e do artigo 31.º-A - e, pela sua conexão, do segmento final do n.º 1 do artigo 8.º - da [Lei n.º 17/2014](https://diariodarepublica.pt/dr/detalhe/lei/17-2014-25343987), de 10 de abril, na redação que lhes foi dada pela [Lei n.º 1/2021](https://diariodarepublica.pt/dr/detalhe/lei/1-2021-153519404), de 11 de janeiro, que procede à primeira alteração à Lei de Bases da Política de Ordenamento e de Gestão do Espaço Marítimo Nacional, aprovada pela referida [Lei n.º 17/2014](https://diariodarepublica.pt/dr/detalhe/lei/17-2014-25343987), de 10 de abril»). Assim, ainda que possa discutir-se a natureza das normas do bloco (III), pertencentes aos Decretos Legislativos Regionais n.os[26/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2020-145440393) e [41/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2023-224892464) (cf. infra), não há dúvida de que todas as normas objeto do pedido (i) são oriundas do poder legislativo regional, tendo sido aprovadas pelo órgão regional com competência legislativa e com invocação das regras constitucionais e estatutárias que, a priori, lhe atribuem e delimitam tal competência (no caso do [Decreto Legislativo Regional n.º 8/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2020-130829772), o disposto nos artigos 112.º, n.º 4 e 227.º, n.º 1, alínea a), ambos da CRP, e o disposto nos artigos 37.º e 57.º, ambos do EPARAA; no caso daqueles outros dois diplomas, o disposto no artigo 227.º, n.º 1, alínea a) da CRP, e no artigo 37.º, n.º 1 do EPARAA); (ii) e preenchem o conceito funcional de norma que a jurisprudência constitucional consagrou como relevante para efeitos de identificação de um objeto (normativo) idóneo a submeter a fiscalização da constitucionalidade (cf. Acórdãos n.os[654/2009](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/654-2009-610209), [130/2006](https://diariodarepublica.pt/dr/detalhe/acordao/130-2006-2217663), 529/2001, 1058/96, 24/1998, 1/1997, [80/86](https://diariodarepublica.pt/dr/detalhe/acordao/80-1986-229095) e [26/85](https://diariodarepublica.pt/dr/detalhe/acordao/26-1985-3245108)).
 
 17 - Assim sendo, o controlo de constitucionalidade das normas em apreço deve iniciar-se pelo confronto com os parâmetros mais próximos, que são os diretamente respeitantes ao exercício da competência legislativa regional. Não é o caso do disposto no artigo 84.º, n.º 1 da CRP, do qual irradia (pois outros se lhe podem juntar) a normatividade constitucional na qual se suporta a afirmação do domínio público marítimo como necessariamente estadual, que se dirige tanto ao legislador nacional como regional, e quaisquer outros poderes normativos. Tal posição de parametricidade prima facie é, neste caso, ocupada pelas normas constitucionais imediatamente respeitantes ao poder legislativo regional, designadamente, constantes dos artigos 112.º, n.º 4, 225.º, 227.º e 228.º, todos da CRP.
 
 18 - A eleição do(s) parâmetro(s) imediatamente relevante(s) para o caso em apreço depende de uma caracterização jurídica das soluções normativas que o Tribunal Constitucional é chamado a apreciar. Trata-se de uma caracterização instrumental à identificação da questão de constitucionalidade, percurso esse que, uma vez iniciado, terá a sua “primeira paragem” no momento em que permitir estabelecer uma “primeira correspondência”, i. e., uma relação imediata com certo parâmetro constitucional.
 
-19 - O [Decreto Legislativo Regional n.º 8/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2020-130829772), ao qual pertencem todas as normas em fiscalização dos blocos (I) e (II) (cf. supra, § 10), intitula-se “regime jurídico do processo de delimitação e desafetação do domínio hídrico na Região Autónoma dos Açores”. As normas do bloco (I), emergentes do n.º 1 do artigo 11.º, e do artigo 12.º, estão inseridas no Capítulo II, respeitante à delimitação dos leitos e margens dominiais. As normas emergentes dos n.<sup>os</sup>1 e 2 do artigo 15.º e, a “título consequencial”, as normas emergentes do artigo 14.º, compõem e esgotam o Capítulo III, relativo à desafetação do domínio público hídrico. Já as normas do bloco (III) constituem concretizações das normas pertencentes àqueles dois primeiros blocos, em especial do bloco (II), pois procedem à desafetação em concreto de determinadas parcelas (sem prejuízo de outros desenvolvimentos: cf. infra).
+19 - O [Decreto Legislativo Regional n.º 8/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2020-130829772), ao qual pertencem todas as normas em fiscalização dos blocos (I) e (II) (cf. supra, § 10), intitula-se “regime jurídico do processo de delimitação e desafetação do domínio hídrico na Região Autónoma dos Açores”. As normas do bloco (I), emergentes do n.º 1 do artigo 11.º, e do artigo 12.º, estão inseridas no Capítulo II, respeitante à delimitação dos leitos e margens dominiais. As normas emergentes dos n.os1 e 2 do artigo 15.º e, a “título consequencial”, as normas emergentes do artigo 14.º, compõem e esgotam o Capítulo III, relativo à desafetação do domínio público hídrico. Já as normas do bloco (III) constituem concretizações das normas pertencentes àqueles dois primeiros blocos, em especial do bloco (II), pois procedem à desafetação em concreto de determinadas parcelas (sem prejuízo de outros desenvolvimentos: cf. infra).
 
-20 - Tenhamos em conta, de momento, apenas as normas pertencentes aos blocos (I) e (II). Todas respeitam ao domínio público hídrico na Região Autónoma dos Açores e, em especial, ao procedimento tendente à decisão sobre o que o integra ou dele é excluído. Com efeito, a delimitação consiste na identificação da linha «que define a estrema dos leitos e margens do domínio hídrico confinantes com terrenos de outra natureza» (definição constante do artigo 2.º, alínea c) do [Decreto Legislativo Regional n.º 8/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2020-130829772), essencialmente coincidente com a que se encontra no artigo 17.º, n.º 1 da [Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/lei/54-2005-583983), de 15 de novembro, que estabelece a titularidade dos recursos hídricos, na redação que lhe foi dada pelas Leis n.<sup>os</sup>[78/2013](https://diariodarepublica.pt/dr/detalhe/lei/78-2013-503829), de 21 de novembro, [34/2014](https://diariodarepublica.pt/dr/detalhe/lei/34-2014-25676901), de 19 de junho, e [31/2016](https://diariodarepublica.pt/dr/detalhe/lei/31-2016-75170439), de 23 de agosto). A delimitação traça, pois, uma “fronteira” entre o que é domínio público hídrico (leitos e margens) e o que não o é. O que o não for, por força da delimitação, será de outra natureza, i. e., suscetível de outro regime e/ou de outra titularidade. A delimitação visa uma separação entre “terrenos”, que tem o propósito prático de permitir a estabilização da sua titularidade. A delimitação pode coincidir com a separação do que sejam “recursos hídricos patrimoniais” (que podem pertencer a entes públicos ou privados, assumindo neste último caso a designação de “águas” ou “recursos hídricos particulares”: cf. artigo 18.º n.<sup>os</sup>1 e 2 da [Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/lei/54-2005-583983)). O propósito da delimitação, porém, não é simplesmente uma qualificação descritiva, mas antes normativa, respeitante prima facie à titularidade ou à sua suscetibilidade, designadamente, de titularidade de direito privado: daí que o n.º 3 deste mesmo artigo 18.º estabeleça que «[c]onstituem designadamente recursos hídricos particulares aqueles que, nos termos da lei civil, assim sejam caracterizados, salvo se, por força dos preceitos anteriores, deverem considerar-se integrados no domínio público». A reforçar esta conclusão está o disposto no artigo 3.º, n.º 2 do [Decreto Legislativo Regional n.º 8/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2020-130829772), que assenta que «[c]onstituem propriedade privada, dispensando o processo de delimitação previsto no número anterior, as situações seguintes: a) [q]uando os terrenos estejam localizados junto à crista das arribas alcantiladas; b) [s]empre que entre os terrenos e a margem se interponha uma via regional ou municipal; c) [q]uando os terrenos estejam integrados em núcleos urbanos consolidados.»
+20 - Tenhamos em conta, de momento, apenas as normas pertencentes aos blocos (I) e (II). Todas respeitam ao domínio público hídrico na Região Autónoma dos Açores e, em especial, ao procedimento tendente à decisão sobre o que o integra ou dele é excluído. Com efeito, a delimitação consiste na identificação da linha «que define a estrema dos leitos e margens do domínio hídrico confinantes com terrenos de outra natureza» (definição constante do artigo 2.º, alínea c) do [Decreto Legislativo Regional n.º 8/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2020-130829772), essencialmente coincidente com a que se encontra no artigo 17.º, n.º 1 da [Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/lei/54-2005-583983), de 15 de novembro, que estabelece a titularidade dos recursos hídricos, na redação que lhe foi dada pelas Leis n.os[78/2013](https://diariodarepublica.pt/dr/detalhe/lei/78-2013-503829), de 21 de novembro, [34/2014](https://diariodarepublica.pt/dr/detalhe/lei/34-2014-25676901), de 19 de junho, e [31/2016](https://diariodarepublica.pt/dr/detalhe/lei/31-2016-75170439), de 23 de agosto). A delimitação traça, pois, uma “fronteira” entre o que é domínio público hídrico (leitos e margens) e o que não o é. O que o não for, por força da delimitação, será de outra natureza, i. e., suscetível de outro regime e/ou de outra titularidade. A delimitação visa uma separação entre “terrenos”, que tem o propósito prático de permitir a estabilização da sua titularidade. A delimitação pode coincidir com a separação do que sejam “recursos hídricos patrimoniais” (que podem pertencer a entes públicos ou privados, assumindo neste último caso a designação de “águas” ou “recursos hídricos particulares”: cf. artigo 18.º n.os1 e 2 da [Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/lei/54-2005-583983)). O propósito da delimitação, porém, não é simplesmente uma qualificação descritiva, mas antes normativa, respeitante prima facie à titularidade ou à sua suscetibilidade, designadamente, de titularidade de direito privado: daí que o n.º 3 deste mesmo artigo 18.º estabeleça que «[c]onstituem designadamente recursos hídricos particulares aqueles que, nos termos da lei civil, assim sejam caracterizados, salvo se, por força dos preceitos anteriores, deverem considerar-se integrados no domínio público». A reforçar esta conclusão está o disposto no artigo 3.º, n.º 2 do [Decreto Legislativo Regional n.º 8/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2020-130829772), que assenta que «[c]onstituem propriedade privada, dispensando o processo de delimitação previsto no número anterior, as situações seguintes: a) [q]uando os terrenos estejam localizados junto à crista das arribas alcantiladas; b) [s]empre que entre os terrenos e a margem se interponha uma via regional ou municipal; c) [q]uando os terrenos estejam integrados em núcleos urbanos consolidados.»
 
 21 - O domínio público hídrico compreende o domínio público marítimo, o domínio público lacustre e fluvial e o domínio público das restantes águas (cf. artigo 2.º, n.º 1 da [Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/lei/54-2005-583983)). Se o domínio público hídrico, categoria mais ampla, pode pertencer ao Estado, às Regiões Autónomas e aos municípios e freguesias (cf. artigo 2.º, n.º 1 da [Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/lei/54-2005-583983)), o domínio público marítimo, compreendido naquele, pelo menos por força da lei pertence ao Estado (cf. artigo 4.º da [Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/lei/54-2005-583983)); e diz-se “pelo menos” porque, como se sabe também, a CRP é expressa quanto à qualificação dominial de alguns “espaços marítimos” (para usar uma expressão de origem jus-internacional: cf. artigo 84.º, n.º 1 da CRP), mas a necessidade da respetiva titularidade estadual resulta da hermenêutica que a jurisprudência constitucional vem desenvolvendo (cf. supra, § 15).
 
@@ -730,7 +916,7 @@ De igual modo defende a doutrina, que exclui do domínio público regional as á
 
 26 - É, aliás, esta mesma conclusão que explica que, em coerência, o n.º 2 do artigo 22.º do EPARAA, após a sua 3.ª revisão, tenha acabado por excluir do domínio público regional os bens afetos (não só, mas também) ao domínio público marítimo.
 
-27 - De acordo com o artigo 3.º da [Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/lei/54-2005-583983), que estabelece a titularidade dos recursos hídricos, o domínio público marítimo compreende (não só, mas também) «[o] leito das águas costeiras e territoriais e das águas interiores sujeitas à influência das marés» (alínea c)), bem como «[a]s margens das águas costeiras e das águas interiores sujeitas à influência das marés» (alínea e)). Nos termos do artigo 10.º, n.<sup>os</sup>1 e 2 desta mesma Lei, «[e]ntende-se por leito o terreno coberto pelas águas quando não influenciadas por cheias extraordinárias, inundações ou tempestades», sendo que «[o] leito das águas do mar, bem como das demais águas sujeitas à influência das marés, é limitado pela linha da máxima preia-mar de águas vivas equinociais». O artigo 11.º do mesmo diploma legal dispõe que «[e]ntende-se por margem uma faixa de terreno contígua ou sobranceira à linha que limita o leito das águas», sendo que «[a] margem das águas do mar, bem como a das águas navegáveis ou flutuáveis sujeitas à jurisdição dos órgãos locais da Direção-Geral da Autoridade Marítima ou das autoridades portuárias, tem a largura de 50 m» (n.<sup>os</sup>1 e 2 do referido artigo), sem prejuízo de «[n]as regiões autónomas, se a margem atingir uma estrada regional ou municipal existente, a sua largura só se estende[r] até essa via» (n.º 7 do referido artigo).
+27 - De acordo com o artigo 3.º da [Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/lei/54-2005-583983), que estabelece a titularidade dos recursos hídricos, o domínio público marítimo compreende (não só, mas também) «[o] leito das águas costeiras e territoriais e das águas interiores sujeitas à influência das marés» (alínea c)), bem como «[a]s margens das águas costeiras e das águas interiores sujeitas à influência das marés» (alínea e)). Nos termos do artigo 10.º, n.os1 e 2 desta mesma Lei, «[e]ntende-se por leito o terreno coberto pelas águas quando não influenciadas por cheias extraordinárias, inundações ou tempestades», sendo que «[o] leito das águas do mar, bem como das demais águas sujeitas à influência das marés, é limitado pela linha da máxima preia-mar de águas vivas equinociais». O artigo 11.º do mesmo diploma legal dispõe que «[e]ntende-se por margem uma faixa de terreno contígua ou sobranceira à linha que limita o leito das águas», sendo que «[a] margem das águas do mar, bem como a das águas navegáveis ou flutuáveis sujeitas à jurisdição dos órgãos locais da Direção-Geral da Autoridade Marítima ou das autoridades portuárias, tem a largura de 50 m» (n.os1 e 2 do referido artigo), sem prejuízo de «[n]as regiões autónomas, se a margem atingir uma estrada regional ou municipal existente, a sua largura só se estende[r] até essa via» (n.º 7 do referido artigo).
 
 28 - Ainda no âmbito da [Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/lei/54-2005-583983), e tendo em conta o que acabou de se referir, pode suceder que os leitos e as margens dominiais estejam confinantes com terrenos de outra natureza: na verdade, isso acaba por ser inevitável. Pode ser necessário, então, fixar limites, sendo que, nos termos do artigo 17.º, n.º 1, do mencionado diploma, a «delimitação do domínio público hídrico é o procedimento administrativo pelo qual são fixados [esses] limites» (n.º 1 do referido artigo), competindo essa delimitação «ao Estado ou às regiões autónomas, que a ela procedem oficiosamente, quando necessário, ou a requerimento dos interessados» (n.º 2 do referido artigo).
 
@@ -750,11 +936,11 @@ De igual modo defende a doutrina, que exclui do domínio público regional as á
 
 36 - Ora, se a titularidade do domínio público marítimo reside exclusivamente no Estado, e se do domínio público hídrico também fazem parte o domínio público lacustre e fluvial, bem como o domínio público das restantes águas, compreende-se que a [Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/lei/54-2005-583983) determine que a titularidade desses restantes domínios possa pertencer ao Estado ou a uma das duas Regiões Autónomas, ou ainda a municípios ou freguesias (artigos 5.º a 8.º da [Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/lei/54-2005-583983)). No que diz respeito ao domínio público lacustre e fluvial, verifica-se que, nos termos do artigo 5.º do mencionado diploma, ele abrange (não só, mas também) lagos, lagoas, bem como os respetivos leitos e margens. Se esta constatação pode ser evidente, a verdade é que assume especial relevância quando de novo se atenta naquilo que compreende o domínio público marítimo.
 
-37 - Com efeito, nos termos do artigo 3.º da [Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/lei/54-2005-583983), na sua redação atual, fazem parte do domínio público marítimo: as águas interiores sujeitas à influência das marés, nos rios, lagos e lagoas; o leito dessas mesmas águas (bem como das costeiras e territoriais) sujeito à influência das marés, bem como a margem das águas costeiras e das águas interiores sujeita à influência das marés. Por sua vez, recordemo-lo, estabelece o artigo 10.º, n.º 2, do mesmo diploma, que «[o] leito das águas do mar, bem como das demais águas sujeitas à influência das marés, é limitado pela linha da máxima preia-mar de águas vivas equinociais. Essa linha é definida, para cada local, em função do espraiamento das vagas em condições médias de agitação do mar, no primeiro caso, e em condições de cheias médias, no segundo»; enquanto os n.<sup>os</sup>2 e 3 do artigo 11.º determinam que «[a] margem das águas do mar, bem como a das águas navegáveis ou flutuáveis sujeitas à jurisdição dos órgãos locais da Direção-Geral da Autoridade Marítima ou das autoridades portuárias, tem a largura de 50 m», e «[a] margem das restantes águas navegáveis ou flutuáveis, bem como das albufeiras públicas de serviço público, tem a largura de 30m».
+37 - Com efeito, nos termos do artigo 3.º da [Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/lei/54-2005-583983), na sua redação atual, fazem parte do domínio público marítimo: as águas interiores sujeitas à influência das marés, nos rios, lagos e lagoas; o leito dessas mesmas águas (bem como das costeiras e territoriais) sujeito à influência das marés, bem como a margem das águas costeiras e das águas interiores sujeita à influência das marés. Por sua vez, recordemo-lo, estabelece o artigo 10.º, n.º 2, do mesmo diploma, que «[o] leito das águas do mar, bem como das demais águas sujeitas à influência das marés, é limitado pela linha da máxima preia-mar de águas vivas equinociais. Essa linha é definida, para cada local, em função do espraiamento das vagas em condições médias de agitação do mar, no primeiro caso, e em condições de cheias médias, no segundo»; enquanto os n.os2 e 3 do artigo 11.º determinam que «[a] margem das águas do mar, bem como a das águas navegáveis ou flutuáveis sujeitas à jurisdição dos órgãos locais da Direção-Geral da Autoridade Marítima ou das autoridades portuárias, tem a largura de 50 m», e «[a] margem das restantes águas navegáveis ou flutuáveis, bem como das albufeiras públicas de serviço público, tem a largura de 30m».
 
 38 - Tendo presente o percurso antecedente, tornam-se mais claras as consequências da hipótese normativa a concretizar na aplicação do regime emergente das normas do bloco (I). De acordo com a noção legal de “delimitação” já apontada, esta não tem por objeto imediato um certo terreno ou parcela (que serão quando muito objetos mediatos), mas antes a própria “linha” que estabelece a delimitação. De resto, se essa linha define a estrema dos leitos e das margens do domínio público hídrico confinantes com terrenos de outra natureza (artigo 2.º, alínea c) do [Decreto Legislativo Regional n.º 8/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2020-130829772)), em princípio não estarão em causa terrenos de mais do que um tipo ou categoria de domínio público hídrico, mas de um dos seus tipos, de um lado, e, na hipótese que se crê mais usual, particulares de outro lado.
 
-39 - Pertencendo o terreno que faz parte do domínio público hídrico ao tipo ou categoria do domínio público marítimo, o regime de delimitação constante do capítulo II (do qual fazem parte integrante as normas do bloco (I)) do [Decreto Legislativo Regional n.º 8/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2020-130829772) estabelece diversas especificidades, a saber, e sem prejuízo de outras: (i) quando a iniciativa seja pública (a qual se contrapõe à dos “interessados”), a mesma pertence aos «serviços do departamento do Governo Regional com competência em matéria de gestão da orla costeira» (cf. artigo 4.º, n.º 1); (ii) pode ser solicitada a cooperação da Autoridade Marítima «no âmbito dos elementos ou informações técnicas de natureza oceânica ou hidrográfica»; (iii) a comissão de delimitação integra «um representante do departamento do Governo Regional com competência em matéria de gestão da orla costeira» e «um representante da autoridade marítima», sempre na qualidade de vogais, e a respetiva constituição é determinada por portaria «do membro do Governo Regional com competência em matéria de gestão da orla costeira» (cf. artigo 7.º, n.<sup>os</sup>2, 3 e 5).
+39 - Pertencendo o terreno que faz parte do domínio público hídrico ao tipo ou categoria do domínio público marítimo, o regime de delimitação constante do capítulo II (do qual fazem parte integrante as normas do bloco (I)) do [Decreto Legislativo Regional n.º 8/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2020-130829772) estabelece diversas especificidades, a saber, e sem prejuízo de outras: (i) quando a iniciativa seja pública (a qual se contrapõe à dos “interessados”), a mesma pertence aos «serviços do departamento do Governo Regional com competência em matéria de gestão da orla costeira» (cf. artigo 4.º, n.º 1); (ii) pode ser solicitada a cooperação da Autoridade Marítima «no âmbito dos elementos ou informações técnicas de natureza oceânica ou hidrográfica»; (iii) a comissão de delimitação integra «um representante do departamento do Governo Regional com competência em matéria de gestão da orla costeira» e «um representante da autoridade marítima», sempre na qualidade de vogais, e a respetiva constituição é determinada por portaria «do membro do Governo Regional com competência em matéria de gestão da orla costeira» (cf. artigo 7.º, n.os2, 3 e 5).
 
 40 - O artigo 8.º, em matéria de pareceres externos, estabelece que «[n]os processos de delimitação previstos no n.º 1 do artigo 3.º [isto é, os procedimentos de delimitação do domínio público hídrico por iniciativa pública ou particular - quer dizer, todos - , o que apenas exclui as situações que dispensam o próprio procedimento, nos termos do n.º 2 daquele mesmo preceito], a comissão de delimitação deve solicitar, através do respetivo presidente, parecer ao Ministério da Defesa Nacional, sempre que esteja em causa matéria de defesa nacional, bem como parecer a outras entidades, públicas ou privadas, ou personalidades de reconhecido mérito, sempre que tal se afigure necessário». Visto que o domínio público marítimo, e em especial a sua necessária titularidade por parte do Estado, tem uma ligação essencial à defesa nacional justamente em razão da sua importância em matéria de soberania nacional - assim o tem sublinhado a jurisprudência constitucional - , seria então sempre necessário um parecer do Ministério da Defesa Nacional? E seria então a Região Autónoma dos Açores a determinar quando existiria um tal interesse público, por natureza nacional, e a determinar o exercício de uma competência por parte de um ministério, que é parte de um órgão de soberania? Muito embora esta última norma não integre o objeto do recurso ora em apreço, a leitura sistemática deste artigo 8.º, a caminho e em benefício da interpretação do artigo 11.º (este sim, integrante do arco normativo do recurso), já revela uma conexão forte com um parâmetro constitucional relevante: o do âmbito regional, que limita a competência legislativa regional.
 
@@ -834,7 +1020,7 @@ f) O segundo bloco normativo (II): as normas emergentes dos n.os 1 e 2 do artigo
 
 71 - O que antecede vale quanto ao disposto no artigo 15.º do [Decreto Legislativo Regional n.º 8/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2020-130829772), que tem por objeto a desafetação do domínio público marítimo. Mas já não quanto ao disposto no artigo 14.º do mesmo diploma, que disciplina a desafetação do domínio público hídrico lacustre e das restantes águas. Com efeito, estas últimas categorias do domínio público hídrico integram o domínio público da própria Região Autónoma dos Açores, de acordo com o disposto no artigo 22.º, n.º 1, alíneas a) e d) do EPARAA. Ora, relativamente a estas categorias, não se colocam os problemas identificados a respeito do domínio público marítimo, porque quanto a elas não há uma desapropriação de competência do Governo da República (ou da administração dele dependente) para a realização dos juízos de interesse público subjacentes à desafetação; nem se vislumbra, nessa medida, qualquer relação de consequencialidade relevante nesta sede entre as normas emergentes do artigo 15.º e do artigo 14.º, ambos do [Decreto Legislativo Regional n.º 8/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2020-130829772).
 
-72 - Em razão do que antecede, conclui-se pela inconstitucionalidade das normas emergentes do artigo 15.º, n.<sup>os</sup>1 e 2, do [Decreto Legislativo Regional n.º 8/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2020-130829772), de 30 de março, na medida em que possibilitam a desafetação, mediante decreto legislativo regional, de qualquer parcela do leito ou da margem do domínio público marítimo, por excederem o âmbito regional institucional da competência legislativa regional, em violação do disposto nos artigos 112.º, n.º 4 e 227.º, n.º 1, alínea a), ambos da CRP.
+72 - Em razão do que antecede, conclui-se pela inconstitucionalidade das normas emergentes do artigo 15.º, n.os1 e 2, do [Decreto Legislativo Regional n.º 8/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2020-130829772), de 30 de março, na medida em que possibilitam a desafetação, mediante decreto legislativo regional, de qualquer parcela do leito ou da margem do domínio público marítimo, por excederem o âmbito regional institucional da competência legislativa regional, em violação do disposto nos artigos 112.º, n.º 4 e 227.º, n.º 1, alínea a), ambos da CRP.
 
 g) O terceiro bloco normativo (III): as normas que emergem dos n.os 1 e 2 do artigo 1.º, do artigo 2.º e do artigo 3.º do [Decreto Legislativo Regional n.º 26/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2020-145440393), na sua redação atual, e as normas resultantes dos artigos 1.º, 2.º e 3.º do [Decreto Legislativo Regional n.º 41/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2023-224892464)
 
@@ -848,7 +1034,7 @@ g) O terceiro bloco normativo (III): as normas que emergem dos n.os 1 e 2 do art
 
 77 - São inconsequentes os argumentos da Requerida tendentes a demonstrar que os bens em causa, em especial o Forte de São João Baptista da Praia Formosa, deveriam ser qualificados como património cultural, com o propósito de os deslocar da categoria do domínio público marítimo para qualquer outra. Em primeiro lugar, a classificação desses bens como pertencentes ao domínio público marítimo foi inequívoca para o legislador regional. Em segundo lugar, não compete ao Tribunal Constitucional realizar qualquer requalificação dessa ordem. Em terceiro lugar, considerando que tais bens integram o domínio público marítimo, sempre seria ao abrigo do disposto no artigo 23.º do EPARAA, já referido supra, que a Região poderia requerer a respetiva desafetação ou reafectação ao Governo da República, e não substituindo-se a este através da utilização do seu poder legislativo, por todos os motivos já apontados.
 
-78 - Em razão do que antecede, conclui-se pela inconstitucionalidade das normas que emergem dos n.<sup>os</sup>1 e 2 do artigo 1.º, do artigo 2.º e do artigo 3.º do [Decreto Legislativo Regional n.º 26/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2020-145440393), de 15 de outubro, na sua redação atual, bem como das normas resultantes dos artigos 1.º, 2.º e 3.º, todos do [Decreto Legislativo Regional n.º 41/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2023-224892464), de 28 de novembro, na medida em que procedem à desafetação das parcelas aí identificadas pertencentes ao domínio público marítimo, e que estabelecem consequências dessa mesma desafetação, por excederem o âmbito regional institucional da competência legislativa regional, em violação do disposto nos artigos 112.º, n.º 4 e 227.º, n.º 1, alínea a), ambos da CRP.
+78 - Em razão do que antecede, conclui-se pela inconstitucionalidade das normas que emergem dos n.os1 e 2 do artigo 1.º, do artigo 2.º e do artigo 3.º do [Decreto Legislativo Regional n.º 26/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2020-145440393), de 15 de outubro, na sua redação atual, bem como das normas resultantes dos artigos 1.º, 2.º e 3.º, todos do [Decreto Legislativo Regional n.º 41/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2023-224892464), de 28 de novembro, na medida em que procedem à desafetação das parcelas aí identificadas pertencentes ao domínio público marítimo, e que estabelecem consequências dessa mesma desafetação, por excederem o âmbito regional institucional da competência legislativa regional, em violação do disposto nos artigos 112.º, n.º 4 e 227.º, n.º 1, alínea a), ambos da CRP.
 
 h) Limitação de efeitos
 
@@ -858,7 +1044,7 @@ h) Limitação de efeitos
 
 81 - Por outro lado, invoca a Requerida que seria desproporcional que situações jurídicas constituídas na sequência das ditas desafetações, nomeadamente através de contratos, fossem afetadas pela declaração de inconstitucionalidade. Sucede que, num raciocínio de proporcionalidade, a limitação de efeitos da declaração de inconstitucionalidade não é necessária à salvaguarda da posição jurídica dos eventuais interessados afetados, que pode ser reintegrada ou compensada nos termos gerais de direito. Aliás, a limitação de efeitos da declaração de inconstitucionalidade não pode ser erigida em alternativa ao normal apuramento da responsabilidade civil ou outra, quer do Estado, quer das demais entidades públicas.
 
-82 - Acresce que, relativamente às normas do bloco (III) - emergentes dos n.<sup>os</sup>1 e 2 do artigo 1.º, do artigo 2.º e do artigo 3.º do [Decreto Legislativo Regional n.º 26/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2020-145440393), de 15 de outubro, na sua redação atual, bem como das normas resultantes dos artigos 1.º, 2.º e 3.º, todos do [Decreto Legislativo Regional n.º 41/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2023-224892464) - a pretensão da Requerida equivaleria, na prática, à não produção de efeitos da declaração de inconstitucionalidade, na medida em que essas normas ou não têm aplicação sucessiva, ou a têm limitada às consequências imediatas da desafetação (como no caso do regime de cedência constante do artigo 3.º do [Decreto Legislativo Regional n.º 26/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2020-145440393)).
+82 - Acresce que, relativamente às normas do bloco (III) - emergentes dos n.os1 e 2 do artigo 1.º, do artigo 2.º e do artigo 3.º do [Decreto Legislativo Regional n.º 26/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2020-145440393), de 15 de outubro, na sua redação atual, bem como das normas resultantes dos artigos 1.º, 2.º e 3.º, todos do [Decreto Legislativo Regional n.º 41/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2023-224892464) - a pretensão da Requerida equivaleria, na prática, à não produção de efeitos da declaração de inconstitucionalidade, na medida em que essas normas ou não têm aplicação sucessiva, ou a têm limitada às consequências imediatas da desafetação (como no caso do regime de cedência constante do artigo 3.º do [Decreto Legislativo Regional n.º 26/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2020-145440393)).
 
 83 - Pelas razões expostas, improcede o pedido da Requerida de limitação de efeitos da declaração de inconstitucionalidade.
 
@@ -868,9 +1054,9 @@ Nestes termos, pelos fundamentos expostos, decide-se declarar a inconstitucional
 
 a) Das normas emergentes dos artigos 11.º, n.º 1, e 12.º, do [Decreto Legislativo Regional n.º 8/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2020-130829772), de 30 de março, na medida em que, respetivamente, atribuem ao Conselho de Governo Regional a competência para a homologação de propostas de delimitação do domínio público marítimo do Estado no território da Região Autónoma dos Açores, elaboradas pelas comissões de delimitação, mediante proposta de um membro do Governo Regional, homologação essa vinculativa para todas as autoridades públicas, por excederem o âmbito regional institucional da competência legislativa regional, em violação do disposto nos artigos 112.º, n.º 4 e 227.º, n.º 1, alínea a), ambos da CRP;
 
-b) Das normas emergentes do artigo 15.º, n.<sup>os</sup>1 e 2, do [Decreto Legislativo Regional n.º 8/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2020-130829772), de 30 de março, na medida em que possibilitam a desafetação, mediante decreto legislativo regional, de qualquer parcela do leito ou da margem do domínio público marítimo, por excederem o âmbito regional institucional da competência legislativa regional, em violação do disposto nos artigos 112.º, n.º 4 e 227.º, n.º 1, alínea a), ambos da CRP;
+b) Das normas emergentes do artigo 15.º, n.os1 e 2, do [Decreto Legislativo Regional n.º 8/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2020-130829772), de 30 de março, na medida em que possibilitam a desafetação, mediante decreto legislativo regional, de qualquer parcela do leito ou da margem do domínio público marítimo, por excederem o âmbito regional institucional da competência legislativa regional, em violação do disposto nos artigos 112.º, n.º 4 e 227.º, n.º 1, alínea a), ambos da CRP;
 
-c) Das normas que emergem dos n.<sup>os</sup>1 e 2 do artigo 1.º, do artigo 2.º e do artigo 3.º do [Decreto Legislativo Regional n.º 26/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2020-145440393), de 15 de outubro, na sua redação atual, bem como das normas resultantes dos artigos 1.º, 2.º e 3.º do [Decreto Legislativo Regional n.º 41/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2023-224892464), de 28 de novembro, na medida em que procedem à desafetação das parcelas aí identificadas pertencentes ao domínio público marítimo, e que estabelecem consequências dessa mesma desafetação, por excederem o âmbito regional institucional da competência legislativa regional, em violação do disposto nos artigos 112.º, n.º 4 e 227.º, n.º 1, alínea a), ambos da CRP;
+c) Das normas que emergem dos n.os1 e 2 do artigo 1.º, do artigo 2.º e do artigo 3.º do [Decreto Legislativo Regional n.º 26/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2020-145440393), de 15 de outubro, na sua redação atual, bem como das normas resultantes dos artigos 1.º, 2.º e 3.º do [Decreto Legislativo Regional n.º 41/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2023-224892464), de 28 de novembro, na medida em que procedem à desafetação das parcelas aí identificadas pertencentes ao domínio público marítimo, e que estabelecem consequências dessa mesma desafetação, por excederem o âmbito regional institucional da competência legislativa regional, em violação do disposto nos artigos 112.º, n.º 4 e 227.º, n.º 1, alínea a), ambos da CRP;
 
 d) Não declarar a inconstitucionalidade das demais normas que integram o objeto do pedido.
 
@@ -903,3 +1089,5 @@ Tais normas limitam-se a executar o comando da lei da Assembleia da República: 
 Ora, não encontro fundamento constitucional para a conclusão de que a decisão parlamentar quanto à titularidade do bem público (ao Estado ou às regiões) pressuponha forçosamente que todos os poderes a ela inerentes se concentrem na mesma pessoa jurídica territorial. Se a Assembleia da República poderia ter decidido serem as regiões autónomas titulares do bem dominial, nada obsta a que determine a participação da administração pública regional no procedimento relativo a um dos atos tipicamente contidos na titularidade do domínio. Não se trata de uma opção de tudo ou nada: a Constituição não proíbe à Assembleia da República, no uso da sua competência reservada, a repartição dos poderes correspondentes à titularidade do domínio público.
 
 Em consequência, cingindo-se as normas fiscalizadas a reproduzir a opção da Assembleia da República - a quem compete definir a titularidade do domínio público -, não acompanho a conclusão de que a região autónoma dos Açores tenha ultrapassado a sua competência legislativa ao emanar as normas dos artigos 11.º e 12.º do [Decreto Legislativo Regional n.º 8/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2020-130829772). - Afonso Patrão.
+
+119241326

@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 49/1993, 4º Suplemento, Série I-B de 1993-02-27
   number: '49'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 862-(22) a 862-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/02/049b04/00220023.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/35/1993/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/35-1993-485474
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-27T00:00:00Z'
+  retrieved_at: '2026-10-22T18:38:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ae6f5ef763388f1a78da2b3179aa1c103d97bbefb461cdc9020e89fe873d09f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 740246bac453c51b5c17dc0dfad4185a1ab5e4bcad4c33b891732308f95f095e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:38:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,37 +68,41 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Arquivos Nacionais-torre do Tombo
-- Secretaria de Estado da Cultura
 - Quadro de Pessoal
+- Secretaria de Estado da Cultura
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/122/1993/02/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/122/1993/02/03/p/dre
+- type: cites
+  target: pt:dre:599144:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:38:48Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 35/93
+# Declaração de rectificação n.º 35/93
 
 Para os devidos efeitos se declara que a [Portaria n.º 122/93](https://diariodarepublica.pt/dr/detalhe/portaria/122-1993-599144), publicada no Diário da República, 1.ª série, n.º 28, de 3 de Fevereiro de 1993, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
 
 No mapa anexo, onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/049b04/00220023.pdf))](https://files.diariodarepublica.pt/1s/1993/02/049b04/00220023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/049b04/00220023.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/049b04/00220023.pdf))](https://files.diariodarepublica.pt/1s/1993/02/049b04/00220023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/049b04/00220023.pdf)
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 22 de Fevereiro de 1993. - O Secretário-Geral, França Martins.

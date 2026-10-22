@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45173-1963-693580
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:36:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9e17d44d47c9c01e92f4fefb2e67110729cc0bd60cb8d93f2d43c89ef465b7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 58a4249a823d9560a0921d58c4f0b6d3d3b6919cdfd96071e1e96f309638a271
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:36:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:156263:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:36:03Z'
   warnings: []
   errors: []
 ---
@@ -91,13 +95,13 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os funcionários do Estado Português da Índia nas condições previstas no artigo 1.º do [Decreto n.º 44660](https://diariodarepublica.pt/dr/detalhe/decreto/44660-1962-156263), de 2 de Novembro de 1962, mas que hajam regressado à metrópole ou às outras províncias ultramarinas depois da sua publicação, podem apresentar a declaração referida no § único do artigo acima citado nos 60 dias após a chegada.
+Artigo único. Os funcionários do Estado Português da Índia nas condições previstas no artigo 1.º do [Decreto n.º 44660](https://diariodarepublica.pt/dr/detalhe/decreto/44660-1962-156263), de 2 de Novembro de 1962, mas que hajam regressado à metrópole ou às outras províncias ultramarinas depois da sua publicação, podem apresentar a declaração referida no § único do artigo acima citado nos 60 dias após a chegada.
 
 § 1.º As declarações deverão ser acompanhadas de justificação da demora havida no regresso do interessado e serão entregues, conforme os casos, no Ministério do Ultramar ou nas repartições competentes das províncias ultramarinas, que as remeterão logo àquele Ministério.
 
 § 2.º Só serão atendidos os casos cuja demora se considere justificada por motivos alheios à vontade dos interessados.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Julho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 207/2007, 1º Suplemento, Série I de 2007-10-26
   number: '207'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7890-(2) a 7890-(115)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/10/20701/0000200115.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/100-a/2007/10/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/100-a-2007-243885
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-04T00:00:00Z'
+  retrieved_at: '2026-10-22T19:07:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f02308a6a73bb824a78e435153c639d8675fbf22e7cc4c52a744d63d6b9dedd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee730cc8a3a44827cade290e76a42fcc354950952221171a492cae40a915d436
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:07:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,76 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Processo Penal
 - Código de Processo Penal
 - Definição de Competências
 - Instrução Processual
 - Julgamento
-- Sanção Penal
-- Prescrição da Acção
-- Supremo Tribunal de Justiça
-- Prova
 - Ministério Público
-- Prisão Preventiva
 - Polícia Criminal
+- Prescrição da Acção
+- Prisão Preventiva
+- Processo Penal
+- Prova
+- Recurso
+- Sanção Penal
+- Supremo Tribunal de Justiça
+- Tribunal
 - Tribunal de JURI
 - Tribunal Judicial
-- Tribunal
 relationships:
 - type: amended_by
   target: pt:dre:70186239:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:343929:por
+  label: "Alterados, a partir de 29.10.2010, os arts 1.º, 68.º, 69.º, 86.º, 103.º, 194.º, 202.º, 203.º, 219.º, 247.º, 257.º,\
+    \ 276.º, 333.º, 334.º, 379.º, 382.º, 383.º, 384.º, 385.º, 386.º, 387.º, 388.º, 389.º, 390.º, 391.º, 391.º-A, 391.º-B,\
+    \ 391.º-D, 391.º-E, 391.º-F e 393.º, aditados os arts. 389.º-A e 391.º-G, revogado o n.º 6 do art 389.º e o n.º 3 do art\
+    \ 391.º-E, todos do Código de Processo Penal aprovado pelo Dec Lei 78/87 de 17-Fev, alterado e republicado pela Lei 48/2007\
+    \ de 29-Ago, posteriormente rectificada, republicada e renumerados alguns nºs de arts. pela presente declaração que procedeu\
+    \ também à republicação, na redacção actual, do Código de Processo Penal em anexo à citada lei, pela LEI.26/2010.30.08.2010.AR,\
+    \ DR.IS [168] de 30.08.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/26-2010-343929
+  date: '2010-08-30'
+- type: amended_by
+  target: pt:dre:258493:por
+  label: Alterados os art.s 13º, 14º,40º, 61º, 64º, 101º, 103º, 141º, 144º, 154º, 155º, 156º, 172º, 194º, 214º, 260º, 269º,
+    281º, 287º, 315º, 337º, 342º, 356º, 357º, 364º, 381º, 382º, 385º, 387º, 389º, 390º, 391º-B, 400º, 404º, 411º, 413º, 414º,
+    417º e 426º do Código de Processo Penal, aprovado pelo Dec Lei 78/87, de 17-fev, alterado e republicado pela Lei 48/2007
+    de 29-ago, retificada e republicada pela Decl-Rect 100-A/2007 de 26-out - esta também retificada pela Decl-Rect 105/2007
+    de 09-nov, que igualmente republicou a citada lei e o Código de Processo Penal, pelo(a) Lei n.º 20/2013 - Diário da República
+    n.º 37/2013, Série I de 2013-02-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/20-2013-258493
+  date: '2013-02-21'
+- type: amended_by
+  target: pt:dre:66970760:por
+  label: Alterados, a partir de 14.05.2015, os arts. 105.º, 283.º, 284.º, 285.º, 315.º, 316.º, 328.º, 364.º, 407.º e 412.º;
+    e aditado o art. 328.º-A ao Código de Processo Penal, aprovado pelo Dec Lei 78/87 de 17-fev, alterado e republicado pela
+    Lei 48/2007 de 29-ago, retificada e republicada pela presente declaração, posteriormente retificada pela Decl-Rect 105/2007
+    de 09-nov, que também republicou o Código de Processo Penal, pelo(a) Lei n.º 27/2015 - Diário da República n.º 72/2015,
+    Série I de 2015-04-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/27-2015-66970760
+  date: '2015-04-14'
+- type: amended_by
+  target: pt:dre:67541739:por
+  label: Alterado o art. 1.º do Código de Processo Penal, aprovado pelo Dec Lei 78/87 de 17-fev, alterado e republicado pela
+    Lei 48/2007 de 29-ago, retificada e republicada pela presente declaração, esta também retificada pela Decl-Rect 105/2007
+    de 09-nov, que igualmente republicou a citada lei e o Código de Processo Penal, pelo(a) Lei n.º 58/2015 - Diário da República
+    n.º 120/2015, Série I de 2015-06-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/58-2015-67541739
+  date: '2015-06-23'
+- type: amended_by
+  target: pt:dre:70186239:por
+  label: Alterados, a partir de 04.10.2015, os arts. 68.º, 212.º, 246.º, 247.º, 292.º e 495.º; alterada, também a partir de
+    mesma data, a sistemática no referente aos titulos IV e V do livro I da parte I, que são renumerados, passando a ser,
+    respetivamente, os títulos V e VI; e aditados, a partir daquela data, o art. 67.º-A, bem como um novo título IV ao livro
+    I da parte I, com a designação «Vítima», sendo composto pelo referido art. 67.º-A, todos do Código de Processo Penal,
+    aprovado pelo Dec Lei 78/87 de 29-ago, alterado e republicado pela Lei 48/2007 de 29-ago, retificada e republicada pelo
+    presente diploma - este também retificado pela Decl-Rect 105/2007 de 09-nov, que igualmente republicou a citada lei e
+    o Código de Processo Penal, pelo(a) Lei n.º 130/2015 - Diário da República n.º 173/2015, Série I de 2015-09-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/130-2015-70186239
+  date: '2015-09-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/17/1991/01/10/p/dre
   label: null
@@ -127,16 +176,143 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/59/1998/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/59/1998/08/25/p/dre
+- type: cites
+  target: pt:dre:196220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656099:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656128:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694035:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:629384:por
+  label: "Rectificado no nº 3 do art. 400.º (da republicação), onde se lê «material penal» deve ler-se «matéria penal», na\
+    \ epígrafe e no corpo do artigo 3.º [(da parte preambular da Lei n.º 48/2007, de 29 de Agosto) - a data é Agosto e não\
+    \ Dezembro], na alínea c) do artigo 5.º [(da parte preambular da Lei n.º 48/2007, de 29 de Agosto) - a data é Agosto e\
+    \ não Dezembro], todos da presente declaração, que rectificou e republicou a Lei n.º 48/2007, de 29 de Agosto, e o Código\
+    \ de Processo Penal aprovado pelo Dec Lei 78/87 de 17-Fev, em anexo à citada lei, e procede à republicação de ambos na\
+    \ redacção actual, pela DECL-RECT.105/2007.09.11.2007.AR, DR.IS [216] de 09.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/105-2007-629384
+  date: '2007-11-09'
+- type: corrects
+  target: pt:numero:lei:100/2003
+  label: "Rectifica a al e) do art 1.º (da republicação), a al a) do n.º 2 do art. 16.º (da republicação), o n.º 3 do art\
+    \ 30.º (da republicação), o n.º 3 do art 57.º (da republicação), o n.º 1 do art 67.º (do texto da lei), o n.º 3 do art\
+    \ 89.º (do texto da lei e da republicação), o n.º 2 do art 92.º (da republicação), na epígrafe do art 93.º (da republicação),\
+    \ onde se lê «Participação de surdo, deficiente auditivo ou de mudo» deve ler-se «Participação de surdo, de deficiente\
+    \ auditivo ou de mudo», o n.º 1 do art 99.º (da republicação), o n.º 1 do art 101.º (da republicação), a al. d) do n.º\
+    \ 2 do art 103.º (da republicação), o art 103.º, (da republicação), o n.º 3 do art 112.º, (da republicação), a al a) do\
+    \ n.º 7 do art 113.º (da republicação), o n.º 8 do art 113.º (da republicação), o n.º 2 do art 123.º (da republicação),\
+    \ o n.º 4 do art 131.º (da republicação), o art 144.º (da republicação), o n.º 2 do art 150.º (da republicação), o n.º\
+    \ 2 do art 158.º (da republicação), n.º 3 do artigo 165.º (da republicação), a al b) do n.º 3 do art 177.º (do texto da\
+    \ lei e da republicação), o n.º 2 do art 180.º (da republicação), a al c) do n.º 2 do art 187.º (da republicação), a al\
+    \ a) do n.º 4 do art 194.º (da republicação), o n.º 1 do art 198.º (da republicação), a al a) do n.º 1 do art 200.º, na\
+    \ al a) do n.º 2 do art. 215.º (da republicação), onde se lê [«Previsto no art 299.º, no n.º 1 do art 312.º, n.º 2 do\
+    \ art 315.º, n.º 1 do art 318.º, nos arts 319.º, 326.º, 331.º ou no n.º 1 do art 333.º do Código Penal;» deve ler-se «Previsto\
+    \ no art 299.º, no n.º 1 do art 318.º, nos arts 319.º, 326.º, 331.º ou no n.º 1 do art 333.º do Código Penal e nos arts\
+    \ 30.º, 79.º e 80.º do Código de Justiça Militar, aprovado pela Lei n.º 100/2003, de 15 de Novembro (uma vez que os arts\
+    \ 312.º e 315.º do Código Penal foram revogados pela Lei n.º 100/2003, de 15 de Novembro, que os substituiu pelos indicados\
+    \ arts 30.º, 79.º e 80.º)»], n.º 6 do art 223.º (da republicação), al a) do n.º 2 do art 249.º (da republicação), al e)\
+    \ do n.º 1 do art 269.º (do texto da lei), al e) do n.º 1 do art 269.º (da republicação), n.º 3 do art 273.º (da republicação),\
+    \ n.º 5 do art 277.º (da republicação), al. e) do n.º 1 do art 281.º (do texto da lei), n.º 1 do art 282.º (do texto da\
+    \ lei), n.º 5 do art 282.º (do texto da lei e da republicação), n.º 5 do art 307.º (da republicação), al b) do n.º 2 do\
+    \ art 324.º (da republicação), elimina o n.º 4 do art 331.º (do texto da lei e da republicação), [\"revogado tacitamente\
+    \ pelo Decreto-Lei n.º 320-C/2000, de 15 de Dezembro, e que, por lapso, constava da proposta de lei\"], n.º 1 do art 335.º\
+    \ (da republicação), n.º 3 do art 359.º (do texto da lei e da republicação), n.º 1 do art 372.º (da republicação), no\
+    \ corpo do n.º 1 do art 381.º (do texto da lei), n.º 2 do art 415.º (da republicação), n.º 1 do art 432.º (do texto da\
+    \ lei), n.º 3 do art 480.º (da republicação), no corpo do n.º 1 do art 483.º (da republicação), al b) do n.º 1 do art\
+    \ 484.º (da republicação), n.º 1 do art 508.º (da republicação), al a) do art 520.º (da republicação), na epígrafe e no\
+    \ corpo do art 3.º (da parte preambular da Lei n.º 48/2007, de 29 de Dezembro), na al c) do art 5.º (da parte preambular\
+    \ da Lei n.º 48/2007, de 29 de Dezembro), todos da Lei n.º 48/2007, de 29 de Agosto, DR.IS [166], republica-a na íntegra,\
+    \ bem como ao Código de Processo Penal, em anexo, aprovado pelo Decreto-Lei n.º 78/87, de 17 de Fevereiro \0iro \0"
+  source: null
+  date: '2007-08-29'
 article_structure:
-  article_count: 742
-  section_count: 90
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 542
+  section_count: 103
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:07:17Z'
   warnings: []
   errors: []
 ---
@@ -351,7 +527,9 @@ l) 'Criminalidade especialmente violenta' as condutas previstas na alínea anter
 
 m) 'Criminalidade altamente organizada' as condutas que integrarem crimes de associação criminosa, tráfico de pessoas, tráfico de armas, tráfico de estupefacientes ou de substâncias psicotrópicas, corrupção, tráfico de influência ou branqueamento.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Em matéria penal, o plenário do Supremo Tribunal de Justiça tem a competência que lhe é atribuída por lei.
 
@@ -389,7 +567,9 @@ b) Exercer as demais atribuições conferidas por lei.
 
 7 - Compete a cada juiz das secções criminais do Supremo Tribunal de Justiça, em matéria penal, praticar os actos jurisdicionais relativos ao inquérito, dirigir a instrução, presidir ao debate instrutório e proferir despacho de pronúncia ou não pronúncia nos processos referidos na alínea a) do n.º 3 e na alínea a) do n.º 4.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Em matéria penal, o plenário das relações tem a competência que lhe é atribuída por lei.
 
@@ -421,7 +601,9 @@ b) Exercer as demais atribuições conferidas por lei.
 
 6 - Compete a cada juiz das secções criminais das relações, em matéria penal, praticar os actos jurisdicionais relativos ao inquérito, dirigir a instrução, presidir ao debate instrutório e proferir despacho de pronúncia ou não pronúncia nos processos referidos na alínea a) do n.º 3.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Compete ao tribunal do júri julgar os processos que, tendo a intervenção do júri sido requerida pelo Ministério Público, pelo assistente ou pelo arguido, respeitarem a crimes previstos no título iii e no capítulo i do título v do livro ii do Código Penal e na Lei Penal Relativa às Violações do Direito Internacional Humanitário.
 
@@ -431,17 +613,23 @@ b) Exercer as demais atribuições conferidas por lei.
 
 4 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Compete ao tribunal colectivo, em matéria penal, julgar os processos que, não devendo ser julgados pelo tribunal do júri, respeitarem a crimes previstos no título iii e no capítulo i do título v do livro ii do Código Penal e na Lei Penal Relativa às Violações do Direito Internacional Humanitário.
 
 2 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 Compete ao juiz de instrução proceder à instrução, decidir quanto à pronúncia e exercer todas as funções jurisdicionais até à remessa do processo para julgamento, nos termos prescritos neste Código.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -451,7 +639,9 @@ Compete ao juiz de instrução proceder à instrução, decidir quanto à pronú
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - O tribunal, logo que se aperceber do conflito, suscita-o junto do órgão competente para o decidir, nos termos dos artigos 11.º e 12.º, remetendo-lhe cópia dos actos e todos os elementos necessários à sua resolução, com indicação do Ministério Público, do arguido, do assistente e dos advogados respectivos.
 
@@ -459,7 +649,9 @@ Compete ao juiz de instrução proceder à instrução, decidir quanto à pronú
 
 3 - ...
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - O órgão competente para dirimir o conflito envia os autos com vista ao Ministério Público e notifica os sujeitos processuais que não tiverem suscitado o conflito para, em todos os casos, alegarem no prazo de cinco dias, após o que, e depois de recolhidas as informações e as provas que reputar necessárias, resolve o conflito.
 
@@ -469,7 +661,9 @@ Compete ao juiz de instrução proceder à instrução, decidir quanto à pronú
 
 4 - (Anterior n.º 6.)
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -481,7 +675,9 @@ Compete ao juiz de instrução proceder à instrução, decidir quanto à pronú
 
 5 - Se o pedido do arguido, do assistente ou das partes civis for considerado manifestamente infundado, o requerente é condenado ao pagamento de uma soma entre 6 UC e 20 UC.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 Nenhum juiz pode intervir em julgamento, recurso ou pedido de revisão relativos a processo em que tiver:
 
@@ -495,7 +691,9 @@ d) Proferido ou participado em decisão de recurso ou pedido de revisão anterio
 
 e) Recusado o arquivamento em caso de dispensa de pena, a suspensão provisória ou a forma sumaríssima por discordar da sanção proposta.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - O requerimento de recusa e o pedido de escusa devem ser apresentados, juntamente com os elementos em que se fundamentam, perante:
 
@@ -515,7 +713,9 @@ b)...
 
 7 - (Anterior n.º 5.)
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo anterior, é obrigatória a constituição de arguido logo que:
 
@@ -537,7 +737,9 @@ d) For levantado auto de notícia que dê uma pessoa como agente de um crime e a
 
 6 - A não validação da constituição de arguido pela autoridade judiciária não prejudica as provas anteriormente obtidas.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - O arguido goza, em especial, em qualquer fase do processo e salvas as excepções da lei, dos direitos de:
 
@@ -563,7 +765,9 @@ i) [Anterior alínea h).]
 
 3 - ...
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - ...
 
@@ -573,7 +777,9 @@ i) [Anterior alínea h).]
 
 4 - ...
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 1 - ...
 
@@ -597,11 +803,15 @@ g)...
 
 4 - No caso previsto no número anterior, o arguido é informado, no despacho de acusação, de que fica obrigado, caso seja condenado, a pagar os honorários do defensor oficioso, salvo se lhe for concedido apoio judiciário, e que pode proceder à substituição desse defensor mediante a constituição de advogado.
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 Sendo vários os arguidos no mesmo processo, podem eles ser assistidos por um único defensor, se isso não contrariar a função da defesa.
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - Se o defensor, relativamente a um acto em que a assistência for necessária, não comparecer, se ausentar antes de terminado ou recusar ou abandonar a defesa, é imediatamente nomeado outro defensor; mas pode também, quando a nomeação imediata se revelar impossível ou inconveniente, ser decidido interromper a realização do acto.
 
@@ -609,7 +819,9 @@ Sendo vários os arguidos no mesmo processo, podem eles ser assistidos por um ú
 
 3 - ...
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - ...
 
@@ -631,7 +843,9 @@ e)...
 
 5 - ...
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - ...
 
@@ -639,13 +853,17 @@ e)...
 
 3 - Os assistentes podem ser acompanhados por advogado nas diligências em que intervierem.
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 1 - Logo que, no decurso do inquérito, tomarem conhecimento da existência de eventuais lesados, as autoridades judiciárias e os órgãos de polícia criminal devem informá-los da possibilidade de deduzirem pedido de indemnização civil em processo penal e das formalidades a observar.
 
 2 - Quem tiver sido informado de que pode deduzir pedido de indemnização civil nos termos do número anterior, ou, não o tendo sido, se considere lesado, pode manifestar no processo, até ao encerramento do inquérito, o propósito de o fazer.
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - Quando apresentado pelo Ministério Público ou pelo assistente, o pedido é deduzido na acusação ou, em requerimento articulado, no prazo em que esta deve ser formulada.
 
@@ -657,7 +875,9 @@ e)...
 
 5 - ...
 
-###### Artigo 86.º — [...]
+Artigo 86.º
+
+[...]
 
 1 - O processo penal é, sob pena de nulidade, público, ressalvadas as excepções previstas na lei.
 
@@ -697,7 +917,9 @@ a) A pedido de pessoas publicamente postas em causa; ou
 
 b) Para garantir a segurança de pessoas e bens ou a tranquilidade pública.
 
-###### Artigo 87.º — [...]
+Artigo 87.º
+
+[...]
 
 1 - ...
 
@@ -711,7 +933,9 @@ b) Para garantir a segurança de pessoas e bens ou a tranquilidade pública.
 
 6 - ...
 
-###### Artigo 88.º — [...]
+Artigo 88.º
+
+[...]
 
 1 - ...
 
@@ -727,7 +951,9 @@ c) A publicação, por qualquer meio, da identidade de vítimas de crimes de tr�
 
 4 - Não é permitida, sob pena de desobediência simples, a publicação, por qualquer meio, de conversações ou comunicações interceptadas no âmbito de um processo, salvo se não estiverem sujeitas a segredo de justiça e os intervenientes expressamente consentirem na publicação.
 
-###### Artigo 89.º — [...]
+Artigo 89.º
+
+[...]
 
 1 - Durante o inquérito, o arguido, o assistente, o ofendido, o lesado e o responsável civil podem consultar, mediante requerimento, o processo ou elementos dele constantes, bem como obter os correspondentes extractos, cópias ou certidões, salvo quando, tratando-se de processo que se encontre em segredo de justiça, o Ministério Público a isso se opuser por considerar, fundamentadamente, que pode prejudicar a investigação ou os direitos dos participantes processuais ou das vítimas.
 
@@ -741,7 +967,9 @@ c) A publicação, por qualquer meio, da identidade de vítimas de crimes de tr�
 
 6 - Findos os prazos previstos no artigo 276.º, o arguido, o assistente e o ofendido podem consultar todos os elementos de processo que se encontre em segredo de justiça, salvo se o juiz de instrução determinar, a requerimento do Ministério Público, que o acesso aos autos seja adiado por um período máximo de três meses, o qual pode ser prorrogado, por uma só vez, quando estiver em causa a criminalidade a que se referem as alíneas i) a m) do artigo 1.º, e por um prazo objectivamente indispensável à conclusão da investigação.
 
-###### Artigo 91.º — [...]
+Artigo 91.º
+
+[...]
 
 1 - ...
 
@@ -755,7 +983,9 @@ c) A publicação, por qualquer meio, da identidade de vítimas de crimes de tr�
 
 6 - ...
 
-###### Artigo 92.º — [...]
+Artigo 92.º
+
+[...]
 
 1 - ...
 
@@ -773,7 +1003,9 @@ c) A publicação, por qualquer meio, da identidade de vítimas de crimes de tr�
 
 8 - (Anterior n.º 4.)
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - ...
 
@@ -783,7 +1015,9 @@ c) A publicação, por qualquer meio, da identidade de vítimas de crimes de tr�
 
 4 - É correspondentemente aplicável o disposto nos n.os 3 a 5 do artigo anterior.
 
-###### Artigo 94.º — [...]
+Artigo 94.º
+
+[...]
 
 1 - ...
 
@@ -797,7 +1031,9 @@ c) A publicação, por qualquer meio, da identidade de vítimas de crimes de tr�
 
 6 - ...
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 1 - ...
 
@@ -813,7 +1049,9 @@ b)...
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 101.º — [...]
+Artigo 101.º
+
+[...]
 
 1 - ...
 
@@ -823,7 +1061,9 @@ b)...
 
 4 - As folhas estenografadas e as fitas estenotipadas ou gravadas são conservadas em envelope lacrado à ordem do tribunal, sendo feita menção no auto, de toda a abertura e encerramento dos registos guardados pela entidade que proceder à operação.
 
-###### Artigo 103.º — [...]
+Artigo 103.º
+
+[...]
 
 1 - ...
 
@@ -851,13 +1091,17 @@ b) Quando o próprio arguido o solicite.
 
 5 - São nulas, não podendo ser utilizadas como prova, as declarações prestadas para além dos limites previstos nos n.os 3 e 4.
 
-###### Artigo 104.º — [...]
+Artigo 104.º
+
+[...]
 
 1 - ...
 
 2 - Correm em férias os prazos relativos a processos nos quais devam praticar-se os actos referidos nas alíneas a) a e) do n.º 2 do artigo anterior.
 
-###### Artigo 107.º — [...]
+Artigo 107.º
+
+[...]
 
 1 - ...
 
@@ -871,7 +1115,9 @@ b) Quando o próprio arguido o solicite.
 
 6 - Quando o procedimento se revelar de excepcional complexidade, nos termos da parte final do n.º 3 do artigo 215.º, o juiz, a requerimento do Ministério Público, do assistente, do arguido ou das partes civis, pode prorrogar os prazos previstos nos artigos 78.º, 287.º e 315.º e nos n.os 1 e 3 do artigo 411.º, até ao limite máximo de 30 dias.
 
-###### Artigo 117.º — [...]
+Artigo 117.º
+
+[...]
 
 1 - ...
 
@@ -889,7 +1135,9 @@ b) Quando o próprio arguido o solicite.
 
 8 - O disposto nos números anteriores no que se refere aos elementos exigíveis de prova não se aplica aos advogados, podendo a autoridade judiciária comunicar as faltas injustificadas ao organismo disciplinar da respectiva Ordem.
 
-###### Artigo 120.º — [...]
+Artigo 120.º
+
+[...]
 
 1 - ...
 
@@ -905,7 +1153,9 @@ d) A insuficiência do inquérito ou da instrução, por não terem sido pratica
 
 3 - ...
 
-###### Artigo 126.º — [...]
+Artigo 126.º
+
+[...]
 
 1 - ...
 
@@ -915,7 +1165,9 @@ d) A insuficiência do inquérito ou da instrução, por não terem sido pratica
 
 4 - ...
 
-###### Artigo 131.º — [...]
+Artigo 131.º
+
+[...]
 
 1 - ...
 
@@ -925,7 +1177,9 @@ d) A insuficiência do inquérito ou da instrução, por não terem sido pratica
 
 4 - ...
 
-###### Artigo 132.º — Direitos e deveres da testemunha
+Artigo 132.º
+
+Direitos e deveres da testemunha
 
 1 - ...
 
@@ -937,7 +1191,9 @@ d) A insuficiência do inquérito ou da instrução, por não terem sido pratica
 
 5 - Não pode acompanhar testemunha, nos termos do número anterior, o advogado que seja defensor de arguido no processo.
 
-###### Artigo 133.º — [...]
+Artigo 133.º
+
+[...]
 
 1 - ...
 
@@ -951,7 +1207,9 @@ d) Os peritos, em relação às perícias que tiverem realizado.
 
 2 - Em caso de separação de processos, os arguidos de um mesmo crime ou de um crime conexo, mesmo que já condenados por sentença transitada em julgado, só podem depor como testemunhas se nisso expressamente consentirem.
 
-###### Artigo 134.º — Recusa de depoimento
+Artigo 134.º
+
+Recusa de depoimento
 
 1 - ...
 
@@ -961,7 +1219,9 @@ b) Quem tiver sido cônjuge do arguido ou quem, sendo de outro ou do mesmo sexo,
 
 2 - ...
 
-###### Artigo 135.º — Segredo profissional
+Artigo 135.º
+
+Segredo profissional
 
 1 - Os ministros de religião ou confissão religiosa e os advogados, médicos, jornalistas, membros de instituições de crédito e as demais pessoas a quem a lei permitir ou impuser que guardem segredo podem escusar-se a depor sobre os factos por ele abrangidos.
 
@@ -973,7 +1233,9 @@ b) Quem tiver sido cônjuge do arguido ou quem, sendo de outro ou do mesmo sexo,
 
 5 - O disposto nos n.os 3 e 4 não se aplica ao segredo religioso.
 
-###### Artigo 141.º — [...]
+Artigo 141.º
+
+[...]
 
 1 - O arguido detido que não deva ser de imediato julgado é interrogado pelo juiz de instrução, no prazo máximo de quarenta e oito horas após a detenção, logo que lhe for presente com a indicação circunstanciada dos motivos da detenção e das provas que a fundamentam.
 
@@ -997,7 +1259,9 @@ ficando todas as informações, à excepção das previstas na alínea a), a con
 
 6 - ...
 
-###### Artigo 143.º — [...]
+Artigo 143.º
+
+[...]
 
 1 - ...
 
@@ -1007,7 +1271,9 @@ ficando todas as informações, à excepção das previstas na alínea a), a con
 
 4 - ...
 
-###### Artigo 144.º — [...]
+Artigo 144.º
+
+[...]
 
 1 - ...
 
@@ -1017,7 +1283,9 @@ ficando todas as informações, à excepção das previstas na alínea a), a con
 
 4 - A entidade que proceder ao interrogatório de arguido em liberdade informa-o previamente de que tem o direito de ser assistido por advogado.
 
-###### Artigo 147.º — [...]
+Artigo 147.º
+
+[...]
 
 1 - ...
 
@@ -1033,7 +1301,9 @@ ficando todas as informações, à excepção das previstas na alínea a), a con
 
 7 - O reconhecimento que não obedecer ao disposto neste artigo não tem valor como meio de prova, seja qual for a fase do processo em que ocorrer.
 
-###### Artigo 148.º — [...]
+Artigo 148.º
+
+[...]
 
 1 - ...
 
@@ -1041,7 +1311,9 @@ ficando todas as informações, à excepção das previstas na alínea a), a con
 
 3 - É correspondentemente aplicável o disposto no n.º 7 do artigo anterior.
 
-###### Artigo 154.º — [...]
+Artigo 154.º
+
+[...]
 
 1 - ...
 
@@ -1051,7 +1323,9 @@ ficando todas as informações, à excepção das previstas na alínea a), a con
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 155.º — [...]
+Artigo 155.º
+
+[...]
 
 1 - ...
 
@@ -1061,7 +1335,9 @@ ficando todas as informações, à excepção das previstas na alínea a), a con
 
 4 - ...
 
-###### Artigo 156.º — [...]
+Artigo 156.º
+
+[...]
 
 1 - ...
 
@@ -1075,7 +1351,9 @@ ficando todas as informações, à excepção das previstas na alínea a), a con
 
 6 - Quando se tratar de análises de sangue ou de outras células corporais, os exames efectuados e as amostras recolhidas só podem ser utilizados no processo em curso ou em outro já instaurado, devendo ser destruídos, mediante despacho do juiz, logo que não sejam necessários.
 
-###### Artigo 157.º — [...]
+Artigo 157.º
+
+[...]
 
 1 - Finda a perícia, os peritos procedem à elaboração de um relatório, no qual mencionam e descrevem as suas respostas e conclusões devidamente fundamentadas. Aos peritos podem ser pedidos esclarecimentos pela autoridade judiciária, pelo arguido, pelo assistente, pelas partes civis e pelos consultores técnicos.
 
@@ -1087,7 +1365,9 @@ ficando todas as informações, à excepção das previstas na alínea a), a con
 
 5 - ...
 
-###### Artigo 159.º — Perícias médico-legais e forenses
+Artigo 159.º
+
+Perícias médico-legais e forenses
 
 1 - As perícias médico-legais e forenses que se insiram nas atribuições do Instituto Nacional de Medicina Legal são realizadas pelas delegações deste e pelos gabinetes médico-legais.
 
@@ -1103,7 +1383,9 @@ ficando todas as informações, à excepção das previstas na alínea a), a con
 
 7 - A perícia psiquiátrica pode ser efectuada a requerimento do representante legal do arguido, do cônjuge não separado judicialmente de pessoas e bens ou da pessoa, de outro ou do mesmo sexo, que com o arguido viva em condições análogas às dos cônjuges, dos descendentes e adoptados, ascendentes e adoptantes, ou, na falta deles, dos irmãos e seus descendentes.
 
-###### Artigo 160.º — [...]
+Artigo 160.º
+
+[...]
 
 1 - ...
 
@@ -1111,13 +1393,17 @@ ficando todas as informações, à excepção das previstas na alínea a), a con
 
 3 - ...
 
-###### Artigo 160.º-A — Realização de perícias
+Artigo 160.º-A
+
+Realização de perícias
 
 1 - As perícias referidas nos artigos 152.º e 160.º podem ser realizadas por entidades terceiras que para tanto tenham sido contratadas por quem as tivesse de realizar, desde que aquelas não tenham qualquer interesse na decisão a proferir ou ligação com o assistente ou com o arguido.
 
 2 - ...
 
-###### Artigo 166.º — [...]
+Artigo 166.º
+
+[...]
 
 1 - Se o documento for escrito em língua estrangeira, é ordenada, sempre que necessário, a sua tradução, nos termos do n.º 6 do artigo 92.º
 
@@ -1125,7 +1411,9 @@ ficando todas as informações, à excepção das previstas na alínea a), a con
 
 3 - ...
 
-###### Artigo 172.º — [...]
+Artigo 172.º
+
+[...]
 
 1 - ...
 
@@ -1133,7 +1421,9 @@ ficando todas as informações, à excepção das previstas na alínea a), a con
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 174.º — [...]
+Artigo 174.º
+
+[...]
 
 1 - ...
 
@@ -1153,13 +1443,17 @@ c) [Anterior alínea c) do n.º 4.]
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 175.º — [...]
+Artigo 175.º
+
+[...]
 
 1 - Antes de se proceder a revista é entregue ao visado, salvo nos casos do n.º 5 do artigo anterior, cópia do despacho que a determinou, no qual se faz menção de que aquele pode indicar, para presenciar a diligência, pessoa da sua confiança e que se apresente sem delonga.
 
 2 - ...
 
-###### Artigo 176.º — [...]
+Artigo 176.º
+
+[...]
 
 1 - Antes de se proceder a busca, é entregue, salvo nos casos do n.º 5 do artigo 174.º, a quem tiver a disponibilidade do lugar em que a diligência se realiza, cópia do despacho que a determinou, na qual se faz menção de que pode assistir à diligência e fazer-se acompanhar ou substituir por pessoa da sua confiança e que se apresente sem delonga.
 
@@ -1167,7 +1461,9 @@ c) [Anterior alínea c) do n.º 4.]
 
 3 - ...
 
-###### Artigo 177.º — [...]
+Artigo 177.º
+
+[...]
 
 1 - ...
 
@@ -1191,7 +1487,9 @@ b) Nos casos referidos nas alíneas b) e c) do número anterior, entre as 21 e a
 
 6 - (Anterior n.º 4.)
 
-###### Artigo 180.º — [...]
+Artigo 180.º
+
+[...]
 
 1 - À apreensão operada em escritório de advogado ou em consultório médico é correspondentemente aplicável o disposto nos n.os 5 e 6 do artigo 177.º
 
@@ -1199,7 +1497,9 @@ b) Nos casos referidos nas alíneas b) e c) do número anterior, entre as 21 e a
 
 3 - ...
 
-###### Artigo 185.º — Apreensão de coisas sem valor, perecíveis, perigosas ou deterioráveis
+Artigo 185.º
+
+Apreensão de coisas sem valor, perecíveis, perigosas ou deterioráveis
 
 1 - Se a apreensão respeitar a coisas sem valor, perecíveis, perigosas, deterioráveis ou cuja utilização implique perda de valor ou qualidades, a autoridade judiciária pode ordenar, conforme os casos, a sua venda ou afectação a finalidade pública ou socialmente útil, as medidas de conservação ou manutenção necessárias ou a sua destruição imediata.
 
@@ -1207,7 +1507,9 @@ b) Nos casos referidos nas alíneas b) e c) do número anterior, entre as 21 e a
 
 3 - O produto apurado nos termos do número anterior reverte para o Estado após a dedução das despesas resultantes da guarda, conservação e venda.
 
-###### Artigo 186.º — [...]
+Artigo 186.º
+
+[...]
 
 1 - ...
 
@@ -1219,7 +1521,9 @@ b) Nos casos referidos nas alíneas b) e c) do número anterior, entre as 21 e a
 
 5 - (Anterior n.º 3.)
 
-###### Artigo 187.º — [...]
+Artigo 187.º
+
+[...]
 
 1 - A intercepção e a gravação de conversações ou comunicações telefónicas só podem ser autorizadas durante o inquérito, se houver razões para crer que a diligência é indispensável para a descoberta da verdade ou que a prova seria, de outra forma, impossível ou muito difícil de obter, por despacho fundamentado do juiz de instrução e mediante requerimento do Ministério Público, quanto a crimes:
 
@@ -1269,7 +1573,9 @@ c) Vítima de crime, mediante o respectivo consentimento, efectivo ou presumido.
 
 8 - Nos casos previstos no número anterior, os suportes técnicos das conversações ou comunicações e os despachos que fundamentaram as respectivas intercepções são juntos, mediante despacho do juiz, ao processo em que devam ser usados como meio de prova, sendo extraídas, se necessário, cópias para o efeito.
 
-###### Artigo 188.º — [...]
+Artigo 188.º
+
+[...]
 
 1 - O órgão de polícia criminal que efectuar a intercepção e a gravação a que se refere o artigo anterior lavra o correspondente auto e elabora relatório no qual indica as passagens relevantes para a prova, descreve de modo sucinto o respectivo conteúdo e explica o seu alcance para a descoberta da verdade.
 
@@ -1311,17 +1617,23 @@ c) O assistente transcrever a partir das cópias previstas no número anterior e
 
 13 - Após o trânsito em julgado previsto no número anterior, os suportes técnicos que não forem destruídos são guardados em envelope lacrado, junto ao processo, e só podem ser utilizados em caso de interposição de recurso extraordinário.
 
-###### Artigo 189.º — Extensão
+Artigo 189.º
+
+Extensão
 
 1 - O disposto nos artigos 187.º e 188.º é correspondentemente aplicável às conversações ou comunicações transmitidas por qualquer meio técnico diferente do telefone, designadamente correio electrónico ou outras formas de transmissão de dados por via telemática, mesmo que se encontrem guardadas em suporte digital, e à intercepção das comunicações entre presentes.
 
 2 - A obtenção e junção aos autos de dados sobre a localização celular ou de registos da realização de conversações ou comunicações só podem ser ordenadas ou autorizadas, em qualquer fase do processo, por despacho do juiz, quanto a crimes previstos no n.º 1 do artigo 187.º e em relação às pessoas referidas no n.º 4 do mesmo artigo.
 
-###### Artigo 190.º — Nulidade
+Artigo 190.º
+
+Nulidade
 
 Os requisitos e condições referidos nos artigos 187.º, 188.º e 189.º são estabelecidos sob pena de nulidade.
 
-###### Artigo 193.º — Princípios da necessidade, adequação e proporcionalidade
+Artigo 193.º
+
+Princípios da necessidade, adequação e proporcionalidade
 
 1 - As medidas de coacção e de garantia patrimonial a aplicar em concreto devem ser necessárias e adequadas às exigências cautelares que o caso requerer e proporcionais à gravidade do crime e às sanções que previsivelmente venham a ser aplicadas.
 
@@ -1331,7 +1643,9 @@ Os requisitos e condições referidos nos artigos 187.º, 188.º e 189.º são e
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 194.º — [...]
+Artigo 194.º
+
+[...]
 
 1 - ...
 
@@ -1357,13 +1671,17 @@ d) A referência aos factos concretos que preenchem os pressupostos de aplicaç�
 
 8 - No caso de prisão preventiva, o despacho é comunicado de imediato ao defensor e, sempre que o arguido o pretenda, a parente ou a pessoa da sua confiança.
 
-###### Artigo 198.º — [...]
+Artigo 198.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - A obrigação de apresentação periódica pode ser cumulada com qualquer outra medida de coacção, com a excepção da obrigação de permanência na habitação e da prisão preventiva.
 
-###### Artigo 199.º — Suspensão do exercício de profissão, de função, de actividade e de direitos
+Artigo 199.º
+
+Suspensão do exercício de profissão, de função, de actividade e de direitos
 
 1 - Se o crime imputado for punível com pena de prisão de máximo superior a 2 anos, o juiz pode impor ao arguido, cumulativamente, se disso for caso, com qualquer outra medida de coacção, a suspensão do exercício:
 
@@ -1375,7 +1693,9 @@ sempre que a interdição do respectivo exercício possa vir a ser decretada com
 
 2 - Quando se referir a função pública, a profissão ou actividade cujo exercício dependa de um título público ou de uma autorização ou homologação da autoridade pública, ou ao exercício dos direitos previstos na alínea b) do número anterior, a suspensão é comunicada à autoridade administrativa, civil ou judiciária normalmente competente para decretar a suspensão ou a interdição respectivas.
 
-###### Artigo 200.º — Proibição e imposição de condutas
+Artigo 200.º
+
+Proibição e imposição de condutas
 
 1 - Se houver fortes indícios de prática de crime doloso punível com pena de prisão de máximo superior a 3 anos, o juiz pode impor ao arguido, cumulativa ou separadamente, as obrigações de:
 
@@ -1395,7 +1715,9 @@ f) Se sujeitar, mediante prévio consentimento, a tratamento de dependência de 
 
 3 - ...
 
-###### Artigo 201.º — [...]
+Artigo 201.º
+
+[...]
 
 1 - Se considerar inadequadas ou insuficientes, no caso, as medidas referidas nos artigos anteriores, o juiz pode impor ao arguido a obrigação de não se ausentar, ou de não se ausentar sem autorização, da habitação própria ou de outra em que de momento resida ou, nomeadamente, quando tal se justifique, em instituição adequada a prestar-lhe apoio social e de saúde, se houver fortes indícios de prática de crime doloso punível com pena de prisão de máximo superior a 3 anos.
 
@@ -1403,7 +1725,9 @@ f) Se sujeitar, mediante prévio consentimento, a tratamento de dependência de 
 
 3 - Para fiscalização do cumprimento das obrigações referidas nos números anteriores podem ser utilizados meios técnicos de controlo à distância, nos termos previstos na lei.
 
-###### Artigo 202.º — [...]
+Artigo 202.º
+
+[...]
 
 1 - ...
 
@@ -1415,13 +1739,17 @@ c) [Anterior alínea b).]
 
 2 - ...
 
-###### Artigo 203.º — [...]
+Artigo 203.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - O juiz pode impor a prisão preventiva nos termos do número anterior, quando o arguido não cumpra a obrigação de permanência na habitação, mesmo que ao crime caiba pena de prisão de máximo igual ou inferior a 5 e superior a 3 anos.
 
-###### Artigo 204.º — [...]
+Artigo 204.º
+
+[...]
 
 Nenhuma medida de coacção, à excepção da prevista no artigo 196.º, pode ser aplicada se em concreto se não verificar, no momento da aplicação da medida:
 
@@ -1431,7 +1759,9 @@ b)...
 
 c) Perigo, em razão da natureza e das circunstâncias do crime ou da personalidade do arguido, de que este continue a actividade criminosa ou perturbe gravemente a ordem e a tranquilidade públicas.
 
-###### Artigo 212.º — [...]
+Artigo 212.º
+
+[...]
 
 1 - ...
 
@@ -1441,7 +1771,9 @@ c) Perigo, em razão da natureza e das circunstâncias do crime ou da personalid
 
 4 - A revogação e a substituição previstas neste artigo têm lugar oficiosamente ou a requerimento do Ministério Público ou do arguido, devendo estes ser ouvidos, salvo nos casos de impossibilidade devidamente fundamentada. Se, porém, o juiz julgar o requerimento do arguido manifestamente infundado, condena-o ao pagamento de uma soma entre 6 UC e 20 UC.
 
-###### Artigo 213.º — Reexame dos pressupostos da prisão preventiva e da obrigação de permanência na habitação
+Artigo 213.º
+
+Reexame dos pressupostos da prisão preventiva e da obrigação de permanência na habitação
 
 1 - O juiz procede oficiosamente ao reexame dos pressupostos da prisão preventiva ou da obrigação de permanência na habitação, decidindo se elas são de manter ou devem ser substituídas ou revogadas:
 
@@ -1457,7 +1789,9 @@ b) Quando no processo forem proferidos despacho de acusação ou de pronúncia o
 
 5 - A decisão que mantenha a prisão preventiva ou a obrigação de permanência na habitação é susceptível de recurso nos termos gerais, mas não determina a inutilidade superveniente de recurso interposto de decisão prévia que haja aplicado ou mantido a medida em causa.
 
-###### Artigo 214.º — [...]
+Artigo 214.º
+
+[...]
 
 1 - As medidas de coacção extinguem-se de imediato:
 
@@ -1477,7 +1811,9 @@ e)...
 
 4 - ...
 
-###### Artigo 215.º — [...]
+Artigo 215.º
+
+[...]
 
 1 - A prisão preventiva extingue-se quando, desde o seu início, tiverem decorrido:
 
@@ -1517,11 +1853,15 @@ g)...
 
 8 - Na contagem dos prazos de duração máxima da prisão preventiva são incluídos os períodos em que o arguido tiver estado sujeito a obrigação de permanência na habitação.
 
-###### Artigo 216.º — [...]
+Artigo 216.º
+
+[...]
 
 O decurso dos prazos previstos no artigo anterior suspende-se em caso de doença do arguido que imponha internamento hospitalar, se a sua presença for indispensável à continuação das investigações.
 
-###### Artigo 217.º — [...]
+Artigo 217.º
+
+[...]
 
 1 - ...
 
@@ -1529,7 +1869,9 @@ O decurso dos prazos previstos no artigo anterior suspende-se em caso de doença
 
 3 - Quando considerar que a libertação do arguido pode criar perigo para o ofendido, o tribunal informa-o, oficiosamente ou a requerimento do Ministério Público, da data em que a libertação terá lugar.
 
-###### Artigo 218.º — [...]
+Artigo 218.º
+
+[...]
 
 1 - ...
 
@@ -1537,7 +1879,9 @@ O decurso dos prazos previstos no artigo anterior suspende-se em caso de doença
 
 3 - ...
 
-###### Artigo 219.º — [...]
+Artigo 219.º
+
+[...]
 
 1 - Só o arguido e o Ministério Público em benefício do arguido podem interpor recurso da decisão que aplicar, mantiver ou substituir medidas previstas no presente título.
 
@@ -1547,7 +1891,9 @@ O decurso dos prazos previstos no artigo anterior suspende-se em caso de doença
 
 4 - O recurso é julgado no prazo máximo de 30 dias a partir do momento em que os autos forem recebidos.
 
-###### Artigo 225.º — [...]
+Artigo 225.º
+
+[...]
 
 1 - Quem tiver sofrido detenção, prisão preventiva ou obrigação de permanência na habitação pode requerer, perante o tribunal competente, indemnização dos danos sofridos quando:
 
@@ -1559,7 +1905,9 @@ c) Se comprovar que o arguido não foi agente do crime ou actuou justificadament
 
 2 - Nos casos das alíneas b) e c) do número anterior o dever de indemnizar cessa se o arguido tiver concorrido, por dolo ou negligência, para a privação da sua liberdade.
 
-###### Artigo 242.º — [...]
+Artigo 242.º
+
+[...]
 
 1 - ...
 
@@ -1567,7 +1915,9 @@ c) Se comprovar que o arguido não foi agente do crime ou actuou justificadament
 
 3 - Quando se referir a crime cujo procedimento dependa de queixa ou de acusação particular, a denúncia só dá lugar a instauração de inquérito se a queixa for apresentada no prazo legalmente previsto.
 
-###### Artigo 243.º — [...]
+Artigo 243.º
+
+[...]
 
 1 - ...
 
@@ -1577,11 +1927,15 @@ c) Se comprovar que o arguido não foi agente do crime ou actuou justificadament
 
 4 - ...
 
-###### Artigo 245.º — [...]
+Artigo 245.º
+
+[...]
 
 A denúncia feita a entidade diversa do Ministério Público é transmitida a este no mais curto prazo, que não pode exceder 10 dias.
 
-###### Artigo 246.º — Forma, conteúdo e espécies de denúncias
+Artigo 246.º
+
+Forma, conteúdo e espécies de denúncias
 
 1 - ...
 
@@ -1601,7 +1955,9 @@ b) Constituir crime.
 
 7 - Quando a denúncia anónima não determinar a abertura de inquérito, a autoridade judiciária competente promove a sua destruição.
 
-###### Artigo 247.º — Comunicação, registo e certificado da denúncia
+Artigo 247.º
+
+Comunicação, registo e certificado da denúncia
 
 1 - O Ministério Público informa o ofendido da notícia do crime, sempre que tenha razões para crer que ele não a conhece.
 
@@ -1609,7 +1965,9 @@ b) Constituir crime.
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 248.º — [...]
+Artigo 248.º
+
+[...]
 
 1 - Os órgãos de polícia criminal que tiverem notícia de um crime, por conhecimento próprio ou mediante denúncia, transmitem-na ao Ministério Público no mais curto prazo, que não pode exceder 10 dias.
 
@@ -1617,7 +1975,9 @@ b) Constituir crime.
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 251.º — [...]
+Artigo 251.º
+
+[...]
 
 1 - Para além dos casos previstos no n.º 5 do artigo 174.º, os órgãos de polícia criminal podem proceder, sem prévia autorização da autoridade judiciária:
 
@@ -1627,13 +1987,17 @@ b) À revista de pessoas que tenham de participar ou pretendam assistir a qualqu
 
 2 - É correspondentemente aplicável o disposto no n.º 6 do artigo 174.º
 
-###### Artigo 257.º — [...]
+Artigo 257.º
+
+[...]
 
 1 - Fora de flagrante delito, a detenção só pode ser efectuada, por mandado do juiz ou, nos casos em que for admissível prisão preventiva, do Ministério Público, quando houver fundadas razões para considerar que o visado se não apresentaria espontaneamente perante autoridade judiciária no prazo que lhe fosse fixado.
 
 2 - ...
 
-###### Artigo 258.º — [...]
+Artigo 258.º
+
+[...]
 
 1 - ...
 
@@ -1647,11 +2011,15 @@ c)...
 
 3 - ...
 
-###### Artigo 260.º — [...]
+Artigo 260.º
+
+[...]
 
 É correspondentemente aplicável à detenção o disposto no n.º 2 do artigo 192.º e no n.º 8 do artigo 194.º
 
-###### Artigo 269.º — [...]
+Artigo 269.º
+
+[...]
 
 1 - ...
 
@@ -1669,7 +2037,9 @@ f) [Anterior alínea d).]
 
 2 - ...
 
-###### Artigo 270.º — [...]
+Artigo 270.º
+
+[...]
 
 1 - ...
 
@@ -1689,7 +2059,9 @@ e)...
 
 4 - Sem prejuízo do disposto no n.º 2, no n.º 3 do artigo 58.º, no n.º 3 do artigo 243.º e no n.º 1 do artigo 248.º, a delegação a que se refere o n.º 1 pode ser efectuada por despacho de natureza genérica que indique os tipos de crime ou os limites das penas aplicáveis aos crimes em investigação.
 
-###### Artigo 271.º — [...]
+Artigo 271.º
+
+[...]
 
 1 - Em caso de doença grave ou de deslocação para o estrangeiro de uma testemunha, que previsivelmente a impeça de ser ouvida em julgamento, bem como nos casos de vítima de crime de tráfico de pessoas ou contra a liberdade e autodeterminação sexual, o juiz de instrução, a requerimento do Ministério Público, do arguido, do assistente ou das partes civis, pode proceder à sua inquirição no decurso do inquérito, a fim de que o depoimento possa, se necessário, ser tomado em conta no julgamento.
 
@@ -1707,7 +2079,9 @@ e)...
 
 8 - A tomada de declarações nos termos dos números anteriores não prejudica a prestação de depoimento em audiência de julgamento, sempre que ela for possível e não puser em causa a saúde física ou psíquica de pessoa que o deva prestar.
 
-###### Artigo 272.º — [...]
+Artigo 272.º
+
+[...]
 
 1 - Correndo inquérito contra pessoa determinada em relação à qual haja suspeita fundada da prática de crime é obrigatório interrogá-la como arguido, salvo se não for possível notificá-la.
 
@@ -1717,7 +2091,9 @@ e)...
 
 4 - ...
 
-###### Artigo 273.º — [...]
+Artigo 273.º
+
+[...]
 
 1 - ...
 
@@ -1727,7 +2103,9 @@ e)...
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 276.º — [...]
+Artigo 276.º
+
+[...]
 
 1 - ...
 
@@ -1741,7 +2119,9 @@ e)...
 
 6 - Recebida a comunicação prevista no número anterior, o Procurador-Geral da República pode determinar, oficiosamente ou a requerimento do arguido ou do assistente, a aceleração processual nos termos do artigo 109.º
 
-###### Artigo 277.º — [...]
+Artigo 277.º
+
+[...]
 
 1 - ...
 
@@ -1761,13 +2141,17 @@ d)...
 
 5 - Nos casos previstos no n.º 1, sempre que se verificar que existiu por parte de quem denunciou ou exerceu um alegado direito de queixa uma utilização abusiva do processo, o tribunal condena-o no pagamento de uma soma entre 6 UC e 20 UC sem prejuízo do apuramento de responsabilidade penal.
 
-###### Artigo 278.º — [...]
+Artigo 278.º
+
+[...]
 
 1 - No prazo de 20 dias a contar da data em que a abertura de instrução já não puder ser requerida, o imediato superior hierárquico do magistrado do Ministério Público pode, por sua iniciativa ou a requerimento do assistente ou do denunciante com a faculdade de se constituir assistente, determinar que seja formulada acusação ou que as investigações prossigam, indicando, neste caso, as diligências a efectuar e o prazo para o seu cumprimento.
 
 2 - O assistente e o denunciante com a faculdade de se constituir assistente podem, se optarem por não requerer a abertura da instrução, suscitar a intervenção hierárquica, ao abrigo do número anterior, no prazo previsto para aquele requerimento.
 
-###### Artigo 281.º — [...]
+Artigo 281.º
+
+[...]
 
 1 - Se o crime for punível com pena de prisão não superior a 5 anos ou com sanção diferente da prisão, o Ministério Público, oficiosamente ou a requerimento do arguido ou do assistente, determina, com a concordância do juiz de instrução, a suspensão do processo, mediante a imposição ao arguido de injunções e regras de conduta, sempre que se verificarem os seguintes pressupostos:
 
@@ -1819,7 +2203,9 @@ m) [Anterior alínea i).]
 
 7 - Em processos por crime contra a liberdade e autodeterminação sexual de menor não agravado pelo resultado, o Ministério Público, tendo em conta o interesse da vítima, determina a suspensão provisória do processo, com a concordância do juiz de instrução e do arguido, desde que se verifiquem os pressupostos das alíneas b) e c) do n.º 1.
 
-###### Artigo 282.º — [...]
+Artigo 282.º
+
+[...]
 
 1 - A suspensão do processo pode ir até 2 anos, com excepção do disposto no n.º 5.
 
@@ -1835,7 +2221,9 @@ b) Se, durante o prazo de suspensão do processo, o arguido cometer crime da mes
 
 5 - Nos casos previstos nos n.os 6 e 7 do artigo anterior, a duração da suspensão pode ir até cinco anos.
 
-###### Artigo 285.º — [...]
+Artigo 285.º
+
+[...]
 
 1 - ...
 
@@ -1845,7 +2233,9 @@ b) Se, durante o prazo de suspensão do processo, o arguido cometer crime da mes
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 286.º — [...]
+Artigo 286.º
+
+[...]
 
 1 - ...
 
@@ -1853,7 +2243,9 @@ b) Se, durante o prazo de suspensão do processo, o arguido cometer crime da mes
 
 3 - Não há lugar a instrução nas formas de processo especiais.
 
-###### Artigo 287.º — [...]
+Artigo 287.º
+
+[...]
 
 1 - ...
 
@@ -1867,7 +2259,9 @@ b) Se, durante o prazo de suspensão do processo, o arguido cometer crime da mes
 
 6 - É aplicável o disposto no n.º 12 do artigo 113.º
 
-###### Artigo 288.º — Direcção da instrução
+Artigo 288.º
+
+Direcção da instrução
 
 1 - ...
 
@@ -1877,13 +2271,17 @@ b) Se, durante o prazo de suspensão do processo, o arguido cometer crime da mes
 
 4 - ...
 
-###### Artigo 289.º — [...]
+Artigo 289.º
+
+[...]
 
 1 - ...
 
 2 - O Ministério Público, o arguido, o defensor, o assistente e o seu advogado podem assistir aos actos de instrução por qualquer deles requeridos e suscitar pedidos de esclarecimento ou requerer que sejam formuladas as perguntas que entenderem relevantes para a descoberta da verdade.
 
-###### Artigo 291.º — [...]
+Artigo 291.º
+
+[...]
 
 1 - Os actos de instrução efectuam-se pela ordem que o juiz reputar mais conveniente para o apuramento da verdade. O juiz indefere os actos requeridos que entenda não interessarem à instrução ou servirem apenas para protelar o andamento do processo e pratica ou ordena oficiosamente aqueles que considerar úteis.
 
@@ -1893,11 +2291,15 @@ b) Se, durante o prazo de suspensão do processo, o arguido cometer crime da mes
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 296.º — [...]
+Artigo 296.º
+
+[...]
 
 As diligências de prova realizadas em acto de instrução são documentadas, mediante gravação ou redução a auto, sendo juntos ao processo os requerimentos apresentados pela acusação e pela defesa nesta fase, bem como quaisquer documentos relevantes para apreciação da causa.
 
-###### Artigo 302.º — [...]
+Artigo 302.º
+
+[...]
 
 1 - ...
 
@@ -1909,7 +2311,9 @@ As diligências de prova realizadas em acto de instrução são documentadas, me
 
 5 - É admissível réplica sucinta, a exercer uma só vez, sendo, porém, sempre o defensor, se pedir a palavra, o último a falar.
 
-###### Artigo 303.º — [...]
+Artigo 303.º
+
+[...]
 
 1 - Se dos actos de instrução ou do debate instrutório resultar alteração não substancial dos factos descritos na acusação do Ministério Público ou do assistente, ou no requerimento para abertura da instrução, o juiz, oficiosamente ou a requerimento, comunica a alteração ao defensor, interroga o arguido sobre ela sempre que possível e concede-lhe, a requerimento, um prazo para preparação da defesa não superior a oito dias, com o consequente adiamento do debate, se necessário.
 
@@ -1921,7 +2325,9 @@ As diligências de prova realizadas em acto de instrução são documentadas, me
 
 5 - O disposto no n.º 1 é correspondentemente aplicável quando o juiz alterar a qualificação jurídica dos factos descritos na acusação ou no requerimento para a abertura da instrução.
 
-###### Artigo 310.º — [...]
+Artigo 310.º
+
+[...]
 
 1 - A decisão instrutória que pronunciar o arguido pelos factos constantes da acusação do Ministério Público, formulada nos termos do artigo 283.º ou do n.º 4 do artigo 285.º, é irrecorrível, mesmo na parte em que apreciar nulidades e outras questões prévias ou incidentais, e determina a remessa imediata dos autos ao tribunal competente para o julgamento.
 
@@ -1929,7 +2335,9 @@ As diligências de prova realizadas em acto de instrução são documentadas, me
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 311.º — [...]
+Artigo 311.º
+
+[...]
 
 1 - ...
 
@@ -1941,7 +2349,9 @@ b) De não aceitar a acusação do assistente ou do Ministério Público na part
 
 3 - ...
 
-###### Artigo 312.º — [...]
+Artigo 312.º
+
+[...]
 
 1 - ...
 
@@ -1951,7 +2361,9 @@ b) De não aceitar a acusação do assistente ou do Ministério Público na part
 
 4 - O tribunal deve marcar a data da audiência de modo a evitar a sobreposição com outros actos judiciais a que os advogados ou defensores tenham a obrigação de comparecer, aplicando-se o disposto no artigo 155.º do Código de Processo Civil.
 
-###### Artigo 315.º — [...]
+Artigo 315.º
+
+[...]
 
 1 - O arguido, em 20 dias a contar da notificação do despacho que designa dia para a audiência, apresenta, querendo, a contestação, acompanhada do rol de testemunhas. É aplicável o disposto no n.º 12 do artigo 113.º
 
@@ -1961,7 +2373,9 @@ b) De não aceitar a acusação do assistente ou do Ministério Público na part
 
 4 - ...
 
-###### Artigo 326.º — [...]
+Artigo 326.º
+
+[...]
 
 ...
 
@@ -1975,7 +2389,9 @@ d)...
 
 são advertidos com urbanidade pelo presidente do tribunal; e se, depois de advertidos, continuarem, pode aquele retirar-lhes a palavra, sendo aplicável neste caso o disposto na lei do processo civil.
 
-###### Artigo 328.º — [...]
+Artigo 328.º
+
+[...]
 
 1 - ...
 
@@ -1999,7 +2415,9 @@ d)...
 
 7 - ...
 
-###### Artigo 331.º — [...]
+Artigo 331.º
+
+[...]
 
 1 - ...
 
@@ -2007,7 +2425,9 @@ d)...
 
 3 - ...
 
-###### Artigo 336.º — [...]
+Artigo 336.º
+
+[...]
 
 1 - ...
 
@@ -2015,7 +2435,9 @@ d)...
 
 3 - ...
 
-###### Artigo 337.º — [...]
+Artigo 337.º
+
+[...]
 
 1 - ...
 
@@ -2029,13 +2451,17 @@ d)...
 
 6 - O despacho que declarar a contumácia, com especificação dos respectivos efeitos, e aquele que declarar a sua cessação são registados no registo de contumácia.
 
-###### Artigo 342.º — [...]
+Artigo 342.º
+
+[...]
 
 1 - O presidente começa por perguntar ao arguido pelo seu nome, filiação, freguesia e concelho de naturalidade, data de nascimento, estado civil, profissão, local de trabalho e residência, sobre a existência de processos pendentes e, se necessário, pede-lhe a exibição de documento oficial bastante de identificação.
 
 2 - ...
 
-###### Artigo 345.º — [...]
+Artigo 345.º
+
+[...]
 
 1 - ...
 
@@ -2045,13 +2471,17 @@ d)...
 
 4 - Não podem valer como meio de prova as declarações de um co-arguido em prejuízo de outro co-arguido quando o declarante se recusar a responder às perguntas formuladas nos termos dos n.os 1 e 2.
 
-###### Artigo 355.º — [...]
+Artigo 355.º
+
+[...]
 
 1 - ...
 
 2 - Ressalvam-se do disposto no número anterior as provas contidas em actos processuais cuja leitura, visualização ou audição em audiência sejam permitidas, nos termos dos artigos seguintes.
 
-###### Artigo 356.º — [...]
+Artigo 356.º
+
+[...]
 
 1 - ...
 
@@ -2081,7 +2511,9 @@ b) Quando houver, entre elas e as feitas em audiência, contradições ou discre
 
 9 - A permissão de uma leitura, visualização ou audição e a sua justificação legal ficam a constar da acta, sob pena de nulidade.
 
-###### Artigo 357.º — [...]
+Artigo 357.º
+
+[...]
 
 1 - ...
 
@@ -2091,7 +2523,9 @@ b) Quando, tendo sido feitas perante o juiz, houver contradições ou discrepân
 
 2 - É correspondentemente aplicável o disposto nos n.os 7 a 9 do artigo anterior.
 
-###### Artigo 359.º — [...]
+Artigo 359.º
+
+[...]
 
 1 - Uma alteração substancial dos factos descritos na acusação ou na pronúncia não pode ser tomada em conta pelo tribunal para o efeito de condenação no processo em curso, nem implica a extinção da instância.
 
@@ -2101,23 +2535,31 @@ b) Quando, tendo sido feitas perante o juiz, houver contradições ou discrepân
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 363.º — Documentação de declarações orais
+Artigo 363.º
+
+Documentação de declarações orais
 
 As declarações prestadas oralmente na audiência são sempre documentadas na acta, sob pena de nulidade.
 
-###### Artigo 364.º — Forma da documentação
+Artigo 364.º
+
+Forma da documentação
 
 1 - A documentação das declarações prestadas oralmente na audiência é efectuada, em regra, através de gravação magnetofónica ou audiovisual, sem prejuízo da utilização de meios estenográficos ou estenotípicos, ou de outros meios técnicos idóneos a assegurar a reprodução integral daquelas. É correspondentemente aplicável o disposto nos n.os 2 e 3 do artigo 101.º
 
 2 - Quando houver lugar a gravação magnetofónica ou audiovisual, deve ser consignado na acta o início e o termo da gravação de cada declaração.
 
-###### Artigo 367.º — [...]
+Artigo 367.º
+
+[...]
 
 1 - Os participantes no acto de deliberação e votação referido nos artigos anteriores não podem revelar nada do que durante ela se tiver passado e se relacionar com a causa, nem exprimir a sua opinião sobre a deliberação tomada, salvo o disposto no n.º 2 do artigo 372.º
 
 2 - ...
 
-###### Artigo 370.º — [...]
+Artigo 370.º
+
+[...]
 
 1 - ...
 
@@ -2127,7 +2569,9 @@ As declarações prestadas oralmente na audiência são sempre documentadas na a
 
 4 - ...
 
-###### Artigo 372.º — [...]
+Artigo 372.º
+
+[...]
 
 1 - ...
 
@@ -2139,7 +2583,9 @@ As declarações prestadas oralmente na audiência são sempre documentadas na a
 
 5 - ...
 
-###### Artigo 380.º — [...]
+Artigo 380.º
+
+[...]
 
 1 - ...
 
@@ -2147,7 +2593,9 @@ As declarações prestadas oralmente na audiência são sempre documentadas na a
 
 3 - O disposto nos números anteriores é correspondentemente aplicável aos restantes actos decisórios previstos no artigo 97.º
 
-###### Artigo 381.º — [...]
+Artigo 381.º
+
+[...]
 
 1 - São julgados em processo sumário os detidos em flagrante delito, nos termos dos artigos 255.º e 256.º, por crime punível com pena de prisão cujo limite máximo não seja superior a 5 anos, mesmo em caso de concurso de infracções:
 
@@ -2157,7 +2605,9 @@ b) Quando a detenção tiver sido efectuada por outra pessoa e, num prazo que n�
 
 2 - São ainda julgados em processo sumário, nos termos do número anterior, os detidos em flagrante delito por crime punível com pena de prisão de limite máximo superior a 5 anos, mesmo em caso de concurso de infracções, quando o Ministério Público, na acusação, entender que não deve ser aplicada, em concreto, pena de prisão superior a 5 anos.
 
-###### Artigo 382.º — [...]
+Artigo 382.º
+
+[...]
 
 1 - A autoridade judiciária, se não for o Ministério Público, ou a entidade policial que tiverem procedido à detenção ou a quem tenha sido efectuada a entrega do detido, apresentam-no, imediatamente ou no mais curto prazo possível, ao Ministério Público junto do tribunal competente para o julgamento.
 
@@ -2165,7 +2615,9 @@ b) Quando a detenção tiver sido efectuada por outra pessoa e, num prazo que n�
 
 3 - Se tiver razões para crer que a audiência de julgamento não se pode iniciar no prazo de quarenta e oito horas após a detenção, o Ministério Público liberta imediatamente o arguido, sujeitando-o, se disso for caso, a termo de identidade e residência, ou apresenta-o ao juiz para efeitos de aplicação de medida de coacção ou de garantia patrimonial.
 
-###### Artigo 385.º — Libertação do arguido
+Artigo 385.º
+
+Libertação do arguido
 
 1 - Se a apresentação ao juiz não tiver lugar em acto seguido à detenção em flagrante delito, o arguido só continua detido se houver razões para crer que não se apresentará espontaneamente perante a autoridade judiciária no prazo que lhe for fixado.
 
@@ -2177,13 +2629,17 @@ a) A audiência de julgamento em processo sumário, com a advertência de que es
 
 b) A primeiro interrogatório judicial e eventual aplicação de medida de coacção ou de garantia patrimonial.
 
-###### Artigo 386.º — Princípios gerais do julgamento
+Artigo 386.º
+
+Princípios gerais do julgamento
 
 1 - O julgamento em processo sumário regula-se pelas disposições deste Código relativas ao julgamento por tribunal singular, com as modificações constantes deste título.
 
 2 - Os actos e termos do julgamento são reduzidos ao mínimo indispensável ao conhecimento e boa decisão da causa.
 
-###### Artigo 387.º — Audiência
+Artigo 387.º
+
+Audiência
 
 1 - O início da audiência de julgamento em processo sumário tem lugar no prazo máximo de quarenta e oito horas após a detenção.
 
@@ -2197,7 +2653,9 @@ b) Até ao limite de 30 dias, se o arguido solicitar esse prazo para preparaçã
 
 4 - Se faltarem testemunhas de que o Ministério Público, o assistente ou o arguido não prescindam, a audiência não é adiada, sendo inquiridas as testemunhas presentes pela ordem indicada nas alíneas b) e c) do artigo 341.º, sem prejuízo da possibilidade de alterar o rol apresentado.
 
-###### Artigo 389.º — [...]
+Artigo 389.º
+
+[...]
 
 1 - ...
 
@@ -2211,7 +2669,9 @@ b) Até ao limite de 30 dias, se o arguido solicitar esse prazo para preparaçã
 
 6 - (Anterior n.º 7.)
 
-###### Artigo 390.º — Reenvio para outra forma de processo
+Artigo 390.º
+
+Reenvio para outra forma de processo
 
 O tribunal só remete os autos ao Ministério Público para tramitação sob outra forma processual quando:
 
@@ -2221,7 +2681,9 @@ b) Não tenham podido, por razões devidamente justificadas, realizar-se, no pra
 
 c) O procedimento se revelar de excepcional complexidade, devido, nomeadamente, ao número de arguidos ou de ofendidos ou ao carácter altamente organizado do crime.
 
-###### Artigo 391.º-A — [...]
+Artigo 391.º-A
+
+[...]
 
 1 - Em caso de crime punível com pena de multa ou com pena de prisão não superior a 5 anos, havendo provas simples e evidentes de que resultem indícios suficientes de se ter verificado o crime e de quem foi o seu agente, o Ministério Público, em face do auto de notícia ou após realizar inquérito sumário, deduz acusação para julgamento em processo abreviado.
 
@@ -2235,7 +2697,9 @@ b) A prova for essencialmente documental e possa ser recolhida no prazo previsto
 
 c) A prova assentar em testemunhas presenciais com versão uniforme dos factos.
 
-###### Artigo 391.º-B — Acusação, arquivamento e suspensão do processo
+Artigo 391.º-B
+
+Acusação, arquivamento e suspensão do processo
 
 1 - ...
 
@@ -2249,17 +2713,23 @@ b) Apresentação de queixa, nos restantes casos.
 
 4 - É correspondentemente aplicável em processo abreviado o disposto nos artigos 280.º a 282.º
 
-###### Artigo 391.º-C — Saneamento do processo
+Artigo 391.º-C
+
+Saneamento do processo
 
 1 - Recebidos os autos, o juiz conhece das questões a que se refere o artigo 311.º
 
 2 - Se não rejeitar a acusação, o juiz designa dia para audiência, com precedência sobre os julgamentos em processo comum, sem prejuízo da prioridade a conferir aos processos urgentes.
 
-###### Artigo 391.º-D — Audiência
+Artigo 391.º-D
+
+Audiência
 
 A audiência de julgamento em processo abreviado tem início no prazo de 90 dias a contar da dedução da acusação.
 
-###### Artigo 391.º-E — [...]
+Artigo 391.º-E
+
+[...]
 
 1 - ...
 
@@ -2267,17 +2737,23 @@ A audiência de julgamento em processo abreviado tem início no prazo de 90 dias
 
 3 - (Anterior n.º 4.)
 
-###### Artigo 392.º — [...]
+Artigo 392.º
+
+[...]
 
 1 - Em caso de crime punível com pena de prisão não superior a 5 anos ou só com pena de multa, o Ministério Público, por iniciativa do arguido ou depois de o ter ouvido e quando entender que ao caso deve ser concretamente aplicada pena ou medida de segurança não privativas da liberdade, requer ao tribunal que a aplicação tenha lugar em processo sumaríssimo.
 
 2 - ...
 
-###### Artigo 393.º — [...]
+Artigo 393.º
+
+[...]
 
 Não é permitida, em processo sumaríssimo, a intervenção de partes civis, sem prejuízo da possibilidade de aplicação do disposto no artigo 82.º-A.
 
-###### Artigo 394.º — [...]
+Artigo 394.º
+
+[...]
 
 1 - ...
 
@@ -2287,7 +2763,9 @@ a) Das sanções concretamente propostas;
 
 b) Da quantia exacta a atribuir a título de reparação, nos termos do disposto no artigo 82.º-A, quando este deva ser aplicado.
 
-###### Artigo 395.º — [...]
+Artigo 395.º
+
+[...]
 
 1 - O juiz rejeita o requerimento e reenvia o processo para outra forma que lhe caiba:
 
@@ -2303,13 +2781,17 @@ c) Quando entender que a sanção proposta é manifestamente insusceptível de r
 
 4 - ...
 
-###### Artigo 398.º — [...]
+Artigo 398.º
+
+[...]
 
 1 - Se o arguido deduzir oposição, o juiz ordena o reenvio do processo para outra forma que lhe caiba, equivalendo à acusação, em todos os casos, o requerimento do Ministério Público formulado nos termos do artigo 394.º
 
 2 - Ordenado o reenvio, o arguido é notificado da acusação, bem como para requerer, no caso de o processo seguir a forma comum, a abertura de instrução.
 
-###### Artigo 400.º — [...]
+Artigo 400.º
+
+[...]
 
 1 - ...
 
@@ -2331,7 +2813,9 @@ g)...
 
 3 - Mesmo que não seja admissível recurso quanto à matéria penal, pode ser interposto recurso da parte da sentença relativa à indemnização civil.
 
-###### Artigo 402.º — [...]
+Artigo 402.º
+
+[...]
 
 1 - ...
 
@@ -2339,7 +2823,9 @@ g)...
 
 3 - O recurso interposto apenas contra um dos arguidos, em casos de comparticipação, não prejudica os restantes.
 
-###### Artigo 403.º — [...]
+Artigo 403.º
+
+[...]
 
 1 - ...
 
@@ -2359,7 +2845,9 @@ f) [Anterior alínea e).]
 
 3 - ...
 
-###### Artigo 404.º — [...]
+Artigo 404.º
+
+[...]
 
 1 - ...
 
@@ -2367,7 +2855,9 @@ f) [Anterior alínea e).]
 
 3 - ...
 
-###### Artigo 407.º — [...]
+Artigo 407.º
+
+[...]
 
 1 - Sobem imediatamente os recursos cuja retenção os tornaria absolutamente inúteis.
 
@@ -2395,7 +2885,9 @@ j) [Anterior alínea j) do n.º 1.]
 
 3 - ...
 
-###### Artigo 408.º — [...]
+Artigo 408.º
+
+[...]
 
 1 - ...
 
@@ -2403,13 +2895,17 @@ j) [Anterior alínea j) do n.º 1.]
 
 3 - Os recursos previstos no n.º 1 do artigo anterior têm efeito suspensivo do processo quando deles depender a validade ou a eficácia dos actos subsequentes, suspendendo a decisão recorrida nos restantes casos.
 
-###### Artigo 409.º — [...]
+Artigo 409.º
+
+[...]
 
 1 - ...
 
 2 - A proibição estabelecida no número anterior não se aplica à agravação da quantia fixada para cada dia de multa, se a situação económica e financeira do arguido tiver entretanto melhorado de forma sensível.
 
-###### Artigo 411.º — [...]
+Artigo 411.º
+
+[...]
 
 1 - O prazo para interposição do recurso é de 20 dias e conta-se:
 
@@ -2431,7 +2927,9 @@ c) Tratando-se de decisão oral reproduzida em acta, a partir da data em que tiv
 
 7 - O requerimento de interposição de recurso que afecte o arguido julgado na ausência, ou a motivação, anteriores à notificação da sentença, são notificados àquele quando esta lhe for notificada, nos termos do n.º 5 do artigo 333.º
 
-###### Artigo 412.º — [...]
+Artigo 412.º
+
+[...]
 
 1 - ...
 
@@ -2457,7 +2955,9 @@ c)...
 
 6 - No caso previsto no n.º 4, o tribunal procede à audição ou visualização das passagens indicadas e de outras que considere relevantes para a descoberta da verdade e a boa decisão da causa.
 
-###### Artigo 413.º — [...]
+Artigo 413.º
+
+[...]
 
 1 - Os sujeitos processuais afectados pela interposição do recurso podem responder no prazo de 20 dias, contados da data da notificação referida nos n.os 6 e 7 do artigo 411.º
 
@@ -2467,7 +2967,9 @@ c)...
 
 4 - É correspondentemente aplicável o disposto nos n.os 3 a 5 do artigo 412.º
 
-###### Artigo 414.º — [...]
+Artigo 414.º
+
+[...]
 
 1 - Recebida a resposta dos sujeitos processuais afectados pela interposição do recurso ou expirado o prazo para o efeito, o juiz profere despacho e, em caso de admissão, fixa o seu efeito e regime de subida.
 
@@ -2485,19 +2987,25 @@ c)...
 
 8 - Havendo vários recursos da mesma decisão, dos quais alguns versem sobre matéria de facto e outros exclusivamente sobre matéria de direito, são todos julgados conjuntamente pelo tribunal competente para conhecer da matéria de facto.
 
-###### Artigo 415.º — [...]
+Artigo 415.º
+
+[...]
 
 1 - ...
 
 2 - A desistência faz-se por requerimento ou por termo no processo e é verificada por despacho do relator.
 
-###### Artigo 416.º — [...]
+Artigo 416.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - Se tiver sido requerida audiência nos termos do n.º 5 do artigo 411.º, a vista ao Ministério Público destina-se apenas a tomar conhecimento do processo.
 
-###### Artigo 417.º — [...]
+Artigo 417.º
+
+[...]
 
 1 - ...
 
@@ -2531,13 +3039,17 @@ b) Se há provas a renovar e pessoas que devam ser convocadas.
 
 10 - A reclamação prevista no n.º 8 é apreciada conjuntamente com o recurso, quando este deva ser julgado em conferência.
 
-###### Artigo 418.º — [...]
+Artigo 418.º
+
+[...]
 
 1 - Concluído o exame preliminar, o processo, acompanhado do projecto de acórdão se for caso disso, vai a visto do presidente e do juiz-adjunto e depois à conferência, na primeira sessão que tiver lugar.
 
 2 - ...
 
-###### Artigo 419.º — [...]
+Artigo 419.º
+
+[...]
 
 1 - Na conferência intervêm o presidente da secção, o relator e um juiz-adjunto.
 
@@ -2551,7 +3063,9 @@ b) A decisão recorrida não conheça, a final, do objecto do processo, nos term
 
 c) Não tiver sido requerida a realização de audiência e não seja necessário proceder à renovação da prova nos termos do artigo 430.º
 
-###### Artigo 420.º — [...]
+Artigo 420.º
+
+[...]
 
 1 - O recurso é rejeitado sempre que:
 
@@ -2565,7 +3079,9 @@ c) O recorrente não apresente, complete ou esclareça as conclusões formuladas
 
 3 - (Anterior n.º 4.)
 
-###### Artigo 423.º — [...]
+Artigo 423.º
+
+[...]
 
 1 - ...
 
@@ -2577,7 +3093,9 @@ c) O recorrente não apresente, complete ou esclareça as conclusões formuladas
 
 5 - ...
 
-###### Artigo 424.º — [...]
+Artigo 424.º
+
+[...]
 
 1 - ...
 
@@ -2585,7 +3103,9 @@ c) O recorrente não apresente, complete ou esclareça as conclusões formuladas
 
 3 - Sempre que se verificar uma alteração não substancial dos factos descritos na decisão recorrida ou da respectiva qualificação jurídica não conhecida do arguido, este é notificado para, querendo, se pronunciar no prazo de 10 dias.
 
-###### Artigo 425.º — [...]
+Artigo 425.º
+
+[...]
 
 1 - Concluída a deliberação e votação, é elaborado acórdão pelo relator ou, se este tiver ficado vencido, pelo juiz-adjunto.
 
@@ -2601,7 +3121,9 @@ c) O recorrente não apresente, complete ou esclareça as conclusões formuladas
 
 7 - O prazo para a interposição de recurso conta-se a partir da notificação do acórdão.
 
-###### Artigo 426.º — [...]
+Artigo 426.º
+
+[...]
 
 1 - ...
 
@@ -2609,23 +3131,31 @@ c) O recorrente não apresente, complete ou esclareça as conclusões formuladas
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 426.º-A — [...]
+Artigo 426.º-A
+
+[...]
 
 1 - Quando for decretado o reenvio do processo, o novo julgamento compete ao tribunal que tiver efectuado o julgamento anterior, sem prejuízo do disposto no artigo 40.º, ou, no caso de não ser possível, ao tribunal que se encontre mais próximo, de categoria e composição idênticas às do tribunal que proferiu a decisão recorrida.
 
 2 - Quando na mesma comarca existirem mais de dois tribunais da mesma categoria e composição, o julgamento compete ao tribunal que resultar da distribuição.
 
-###### Artigo 428.º — [...]
+Artigo 428.º
+
+[...]
 
 As relações conhecem de facto e de direito.
 
-###### Artigo 429.º — [...]
+Artigo 429.º
+
+[...]
 
 1 - Na audiência intervêm o presidente da secção, o relator e um juiz-adjunto.
 
 2 - ...
 
-###### Artigo 431.º — [...]
+Artigo 431.º
+
+[...]
 
 ...
 
@@ -2635,7 +3165,9 @@ b) Se a prova tiver sido impugnada nos termos do n.º 3 do artigo 412.º; ou
 
 c)...
 
-###### Artigo 432.º — [...]
+Artigo 432.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -2649,11 +3181,15 @@ d) [Anterior alínea e).]
 
 2 - Nos casos da alínea c) do número anterior não é admissível recurso prévio para a relação, sem prejuízo do disposto no n.º 8 do artigo 414.º
 
-###### Artigo 435.º — [...]
+Artigo 435.º
+
+[...]
 
 Na audiência o tribunal é constituído pelo presidente da secção, pelo relator e por um juiz-adjunto.
 
-###### Artigo 437.º — [...]
+Artigo 437.º
+
+[...]
 
 1 - Quando, no domínio da mesma legislação, o Supremo Tribunal de Justiça proferir dois acórdãos que, relativamente à mesma questão de direito, assentem em soluções opostas, cabe recurso, para o pleno das secções criminais, do acórdão proferido em último lugar.
 
@@ -2665,7 +3201,9 @@ Na audiência o tribunal é constituído pelo presidente da secção, pelo relat
 
 5 - O recurso previsto nos n.os 1 e 2 pode ser interposto pelo arguido, pelo assistente ou pelas partes civis e é obrigatório para o Ministério Público.
 
-###### Artigo 446.º — [...]
+Artigo 446.º
+
+[...]
 
 1 - É admissível recurso directo para o Supremo Tribunal de Justiça de qualquer decisão proferida contra jurisprudência por ele fixada, a interpor no prazo de 30 dias a contar do trânsito em julgado da decisão recorrida, sendo correspondentemente aplicáveis as disposições do presente capítulo.
 
@@ -2673,7 +3211,9 @@ Na audiência o tribunal é constituído pelo presidente da secção, pelo relat
 
 3 - ...
 
-###### Artigo 449.º — [...]
+Artigo 449.º
+
+[...]
 
 1 - ...
 
@@ -2697,17 +3237,23 @@ g) Uma sentença vinculativa do Estado Português, proferida por uma instância 
 
 4 - ...
 
-###### Artigo 465.º — [...]
+Artigo 465.º
+
+[...]
 
 Tendo sido negada a revisão ou mantida a decisão revista, não pode haver nova revisão com o mesmo fundamento.
 
-###### Artigo 467.º — [...]
+Artigo 467.º
+
+[...]
 
 1 - As decisões penais condenatórias transitadas em julgado têm força executiva em todo o território português e ainda em território estrangeiro, conforme os tratados, convenções e regras de direito internacional.
 
 2 - As decisões penais absolutórias são exequíveis logo que proferidas, sem prejuízo do disposto no n.º 3 do artigo 214.º
 
-###### Artigo 477.º — [...]
+Artigo 477.º
+
+[...]
 
 1 - ...
 
@@ -2719,7 +3265,9 @@ Tendo sido negada a revisão ou mantida a decisão revista, não pode haver nova
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 480.º — [...]
+Artigo 480.º
+
+[...]
 
 1 - ...
 
@@ -2727,13 +3275,17 @@ Tendo sido negada a revisão ou mantida a decisão revista, não pode haver nova
 
 3 - Quando considerar que a libertação do preso pode criar perigo para o ofendido, o tribunal, oficiosamente ou a requerimento do Ministério Público, informa-o da data em que a libertação terá lugar.
 
-###### Artigo 482.º — Comunicações
+Artigo 482.º
+
+Comunicações
 
 1 - (Anterior corpo do artigo.)
 
 2 - O Ministério Público comunica a fuga do preso ao tribunal que, se considerar que dela pode resultar perigo para o ofendido, o informa da ocorrência.
 
-###### Artigo 484.º — [...]
+Artigo 484.º
+
+[...]
 
 1 - Até dois meses antes da data admissível para a libertação condicional do condenado ou para efeitos de concessão do período de adaptação à liberdade condicional em regime de permanência na habitação, com fiscalização por meios técnicos de controlo à distância, os serviços prisionais remetem ao Tribunal de Execução das Penas:
 
@@ -2751,7 +3303,9 @@ c) Relatório social contendo outros elementos com interesse para a decisão sob
 
 3 - Oficiosamente ou a requerimento do Ministério Público ou do condenado, o tribunal solicita quaisquer outros relatórios ou documentos ou realiza diligências que se afigurem com interesse para a decisão sobre a liberdade condicional, nomeadamente a elaboração de um plano de reinserção social, pelos serviços de reinserção social. O pedido de elaboração do plano é obrigatório sempre que o condenado se encontre preso há mais de cinco anos.
 
-###### Artigo 485.º — [...]
+Artigo 485.º
+
+[...]
 
 1 - ...
 
@@ -2767,7 +3321,9 @@ c) Relatório social contendo outros elementos com interesse para a decisão sob
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 486.º — [...]
+Artigo 486.º
+
+[...]
 
 1 - ...
 
@@ -2777,7 +3333,9 @@ c) Relatório social contendo outros elementos com interesse para a decisão sob
 
 4 - O despacho que revogar a liberdade condicional é susceptível de recurso.
 
-###### Artigo 487.º — [...]
+Artigo 487.º
+
+[...]
 
 1 - A decisão que fixar o cumprimento da prisão por dias livres, em regime de semidetenção ou de permanência na habitação, com fiscalização por meios técnicos de controlo à distância, especifica os elementos necessários à sua execução, indicando a data do início desta.
 
@@ -2791,7 +3349,9 @@ b) Os serviços de reinserção social comunicar ao tribunal, nas quarenta e oit
 
 4 - ...
 
-###### Artigo 488.º — [...]
+Artigo 488.º
+
+[...]
 
 1 - ...
 
@@ -2803,7 +3363,9 @@ b) Os serviços de reinserção social comunicar ao tribunal, nas quarenta e oit
 
 5 - A execução da adaptação à liberdade condicional em regime de permanência na habitação, com fiscalização por meios técnicos de controlo à distância, é efectuada nos termos previstos na lei.
 
-###### Artigo 494.º — Plano de reinserção social
+Artigo 494.º
+
+Plano de reinserção social
 
 1 - A decisão que suspender a execução da prisão com regime de prova deve conter o plano de reinserção social que o tribunal solicita aos serviços de reinserção social.
 
@@ -2811,7 +3373,9 @@ b) Os serviços de reinserção social comunicar ao tribunal, nas quarenta e oit
 
 3 - ...
 
-###### Artigo 495.º — [...]
+Artigo 495.º
+
+[...]
 
 1 - ...
 
@@ -2821,7 +3385,9 @@ b) Os serviços de reinserção social comunicar ao tribunal, nas quarenta e oit
 
 4 - ...
 
-###### Artigo 496.º — [...]
+Artigo 496.º
+
+[...]
 
 1 - Se o tribunal decidir aplicar a prestação de trabalho a favor da comunidade solicita aos serviços de reinserção social a elaboração de um plano de execução.
 
@@ -2829,7 +3395,9 @@ b) Os serviços de reinserção social comunicar ao tribunal, nas quarenta e oit
 
 3 - ...
 
-###### Artigo 509.º — [...]
+Artigo 509.º
+
+[...]
 
 1 - No prazo de 30 dias após a entrada no estabelecimento prisional, os serviços técnicos prisionais elaboram plano individual de readaptação, que inclui os regimes de trabalho, aprendizagem, tratamento e desintoxicação que se mostrem adequados. Para tanto são recolhidas as informações necessárias de quaisquer entidades públicas ou privadas e utilizada, sempre que possível, a colaboração do condenado.
 
@@ -2845,7 +3413,9 @@ b) Os serviços de reinserção social comunicar ao tribunal, nas quarenta e oit
 
 7 - ...
 
-###### Artigo 517.º — [...]
+Artigo 517.º
+
+[...]
 
 O assistente é isento do pagamento de taxa de justiça nos casos:
 
@@ -2853,7 +3423,9 @@ a) Em que, por razões supervenientes à acusação que houver deduzido ou com q
 
 b) Do n.º 3 do artigo 287.º
 
-###### Artigo 522.º — [...]
+Artigo 522.º
+
+[...]
 
 1 - O Ministério Público está isento de custas e multas.
 
@@ -2875,11 +3447,15 @@ Localização celular
 
 4 - É nula a obtenção de dados sobre a localização celular com violação do disposto nos números anteriores.
 
-###### Artigo 371.º-A — Abertura da audiência para aplicação retroactiva de lei penal mais favorável
+Artigo 371.º-A
+
+Abertura da audiência para aplicação retroactiva de lei penal mais favorável
 
 Se, após o trânsito em julgado da condenação mas antes de ter cessado a execução da pena, entrar em vigor lei penal mais favorável, o condenado pode requerer a reabertura da audiência para que lhe seja aplicado o novo regime.
 
-###### Artigo 391.º-F — Recorribilidade
+Artigo 391.º-F
+
+Recorribilidade
 
 É correspondentemente aplicável ao processo abreviado o disposto no artigo 391.º»
 
@@ -2921,17 +3497,17 @@ A presente lei entra em vigor no dia 15 de Setembro de 2007.
 
 Aprovada em 19 de Julho de 2007.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
-**Promulgada em 13 de Agosto de 2007.**
+Promulgada em 13 de Agosto de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendada em 16 de Agosto de 2007.**
+Referendada em 16 de Agosto de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Código de Processo Penal
 
@@ -3001,7 +3577,9 @@ A lei processual penal é aplicável em todo o território português e, bem ass
 
 4 - O tribunal marca o prazo da suspensão, que pode ser prorrogado até um ano se a demora na decisão não for imputável ao assistente ou ao arguido. O Ministério Público pode sempre intervir no processo não penal para promover o seu rápido andamento e informar o tribunal penal. Esgotado o prazo sem que a questão prejudicial tenha sido resolvida, ou se a acção não tiver sido proposta no prazo máximo de um mês, a questão é decidida no processo penal.
 
-# PARTE I — LIVRO I
+## PARTE I
+
+## LIVRO I
 
 Dos sujeitos do processo
 
@@ -3809,7 +4387,7 @@ A requerimento do lesado, o tribunal pode declarar a condenação em indemnizaç
 
 A decisão penal, ainda que absolutória, que conhecer do pedido civil constitui caso julgado nos termos em que a lei atribui eficácia de caso julgado às sentenças civis.
 
-# LIVRO II — Dos actos processuais
+## LIVRO II — Dos actos processuais
 
 ## TÍTULO I — Disposições gerais
 
@@ -4387,7 +4965,7 @@ c) Se tiverem prevalecido de faculdade a cujo exercício o acto anulável se dir
 
 2 - Pode ordenar-se oficiosamente a reparação de qualquer irregularidade, no momento em que da mesma se tomar conhecimento, quando ela puder afectar o valor do acto praticado.
 
-# LIVRO III — Da prova
+## LIVRO III — Da prova
 
 ## TÍTULO I — Disposições gerais
 
@@ -5139,7 +5717,7 @@ c) O assistente transcrever a partir das cópias previstas no número anterior e
 
 Os requisitos e condições referidos nos artigos 187.º, 188.º e 189.º são estabelecidos sob pena de nulidade.
 
-# LIVRO IV — Das medidas de coacção e de garantia patrimonial
+## LIVRO IV — Das medidas de coacção e de garantia patrimonial
 
 ## TÍTULO I — Disposições gerais
 
@@ -5573,7 +6151,7 @@ c) Se comprovar que o arguido não foi agente do crime ou actuou justificadament
 
 5 - O arresto é revogado a todo o tempo em que o arguido ou o civilmente responsável prestem a caução económica imposta.
 
-# LIVRO V — Relações com autoridades estrangeiras e entidades judiciárias internacionais
+## LIVRO V — Relações com autoridades estrangeiras e entidades judiciárias internacionais
 
 ## TÍTULO I — Disposições gerais
 
@@ -5669,7 +6247,9 @@ a) Da decisão da relação cabe recurso, interposto e processado como os recurs
 
 b) O Ministério Público tem sempre legitimidade para recorrer.
 
-# PARTE II — LIVRO VI
+## PARTE II
+
+## LIVRO VI
 
 Das fases preliminares
 
@@ -6463,7 +7043,7 @@ O debate instrutório visa permitir uma discussão perante o juiz, por forma ora
 
 3 - É recorrível o despacho que indeferir a arguição da nulidade cominada no artigo anterior.
 
-# LIVRO VII — Do julgamento
+## LIVRO VII — Do julgamento
 
 ## TÍTULO I — Dos actos preliminares
 
@@ -7275,7 +7855,7 @@ b) A sentença contiver erro, lapso, obscuridade ou ambiguidade cuja eliminaçã
 
 3 - O disposto nos números anteriores é correspondentemente aplicável aos restantes actos decisórios previstos no artigo 97.º
 
-# LIVRO VIII — Dos processos especiais
+## LIVRO VIII — Dos processos especiais
 
 ## TÍTULO I — Do processo sumário
 
@@ -7495,7 +8075,7 @@ c) O esclarecimento dos efeitos da oposição e da não oposição a que se refe
 
 2 - Ordenado o reenvio, o arguido é notificado da acusação, bem como para requerer, no caso de o processo seguir a forma comum, a abertura de instrução.
 
-# LIVRO IX — Dos recursos
+## LIVRO IX — Dos recursos
 
 ## TÍTULO I — Dos recursos ordinários
 
@@ -8211,7 +8791,7 @@ Tendo sido negada a revisão ou mantida a decisão revista, não pode haver nova
 
 Quando o condenado a favor de quem foi pedida a revisão se encontrar preso ou internado, os actos judiciais que deverem praticar-se preferem a qualquer outro serviço.
 
-# LIVRO X — Das execuções
+## LIVRO X — Das execuções
 
 ## TÍTULO I — Disposições gerais
 
@@ -8673,7 +9253,7 @@ Com o produto dos bens executados efectuam-se os pagamentos pela ordem seguinte:
 
 Salvo disposição da lei em contrário, a importância das multas e das coimas aplicadas em juízo tem o destino fixado no Código das Custas Judiciais.
 
-# LIVRO XI — Da responsabilidade por custas
+## LIVRO XI — Da responsabilidade por custas
 
 ###### Artigo 513.º — Responsabilidade do arguido por taxa de justiça
 

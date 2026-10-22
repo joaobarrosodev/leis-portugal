@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44568-1962-159962
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-09-12T00:00:00Z'
+  retrieved_at: '2026-10-22T19:31:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6952a1c5bb39b6e25b4ba4a7ca0065680d0289f27192bab4db74ba9cab7fe734
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 194fe1ee849526e473309df230c42ef6e2746e80534cf60d60e2ea66a8b2b9c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:31:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:184478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:31:06Z'
   warnings: []
   errors: []
 ---
@@ -91,24 +103,24 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 24914](https://diariodarepubl
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças um crédito especial da quantia de 70044586$80, devendo a mesma importância ser adicionada ao artigo 291.º «Para satisfação de despesas militares, em harmonia com compromissos tomados internacionalmente», do capítulo 11.º do orçamento dos encargos gerais da Nação respeitante ao corrente ano económico.
+Artigo 1.º É aberto no Ministério das Finanças um crédito especial da quantia de 70044586$80, devendo a mesma importância ser adicionada ao artigo 291.º «Para satisfação de despesas militares, em harmonia com compromissos tomados internacionalmente», do capítulo 11.º do orçamento dos encargos gerais da Nação respeitante ao corrente ano económico.
 
-###### Art. 2.º Para compensação do crédito designado no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumento de previsão de receitas e de redução em verba de despesa:
+Art. 2.º Para compensação do crédito designado no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumento de previsão de receitas e de redução em verba de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 2.º, artigo 22.º «Taxa de salvação nacional» ... 40000000$00
+Capítulo 2.º, artigo 22.º «Taxa de salvação nacional» ... 40000000$00
 
-### Capítulo 9.º, artigo 273.º «Importância de parte dos saldos de contas de anos económicos findos» ... 30000000$$00
+Capítulo 9.º, artigo 273.º «Importância de parte dos saldos de contas de anos económicos findos» ... 30000000$$00
 
 Ministério das Finanças
 
-### Capítulo 6.º, artigo 50.º, n.º 1) ... 44586$80
+Capítulo 6.º, artigo 50.º, n.º 1) ... 44586$80
 
 ... 70044586$80
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Setembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

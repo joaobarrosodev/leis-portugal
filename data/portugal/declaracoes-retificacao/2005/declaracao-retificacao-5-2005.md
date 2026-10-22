@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/5/2005/02/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2005-596310
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-14T00:00:00Z'
+  retrieved_at: '2026-10-22T19:05:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d99841cd7bf756937a55c3cce71ddd08c247af61e2ab90b66e30fd3e8f5d6cc7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f59ee377a64a61dee36490385c9564841994adc1fdbef9f03dbb19715695ec5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:05:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Administração Financeira do Estado
 - Administração Fiscal
+- Administração Local
+- Administração Regional
 - ADSE
 - Ajuste Direto
 - Alienação de Acções
@@ -78,16 +81,12 @@ subjects:
 - Aquisição de Bens e Serviços
 - Aquisição de Imóveis
 - ÁREA Metropolitana
-- Valores Mobiliários
-- Incêndio
-- Prevenção de Incêndios
+- Arrendamento Urbano para Habitação
+- Autarquia Local
 - Autorização Legislativa
-- Financiamento
-- Garantia
 - Bebida Alcoólica
-- Ministério da Ciência Inovação e Ensino Superior
-- Ministério da Defesa Nacional
-- Instituto do Emprego e Formação Profissional
+- Benefícios Fiscais
+- Caixa Geral de Aposentações
 - Cerveja
 - Cobrança de Impostos
 - Código de Procedimento e de Processo Tributário
@@ -97,154 +96,155 @@ subjects:
 - Código do IRS
 - Código do IVA
 - Código dos Impostos Especiais de Consumo
-- Imposto Especial sobre o Consumo da Cerveja
-- Imposto Especial sobre o Consumo de Tabaco
-- Imposto Especial sobre Veículos
-- Imposto sobre Produtos Petrolíferos
-- Política Fiscal
-- Ministério da Administração Interna
-- Ministério das Actividades Económicas e do Trabalho
-- Obras Particulares
 - Complemento Social de Pensão
-- Direcção Geral do Tesouro
 - Conta Bancária
 - Conta Poupança-reformados
+- Contribuição para o Audio-visual
 - Contribuinte
+- Créditos do Estado
+- Desertificação
 - Despesas Públicas
-- Instituto de Gestão do Crédito Público
+- Direcção Geral do Tesouro
 - Direcção Geral dos Impostos
 - Dívida Pública
 - Dívidas ao Estado
 - Dívidas das Autarquias Locais
 - Dotação Orçamental
+- Dupla Tributação
 - Empresário
 - Encargo do Estado
-- Produto Petrolífero
-- Região de Turismo
-- União Europeia
 - Estatuto dos Benefícios Fiscais
-- Serviço Nacional de Saúde
+- Execução por Dívidas
 - FEDER
 - Feoga
+- Financiamento
 - Financiamento da Segurança Social
-- Fundo de Coesão Municipal
-- Caixa Geral de Aposentações
 - Fiscalização
 - Fundo BASE Municipal
 - Fundo de Coesão
+- Fundo de Coesão Municipal
 - Fundo de Estabilização Financeira da Segurança Social
 - Fundo de Financiamento das Freguesias
-- Secretaria Geral
+- Fundo de Garantia Financeira da Justiça
 - Fundo de Poupança-reforma
 - Fundo de Solidariedade da União Europeia
-- Titularização de Créditos
-- Instituto de Gestão de Fundos de Capitalização da Segurança Social
+- Fundo dos Antigos Combatentes
 - Fundo Geral Municipal
 - Fundo Poupança-educação
-- Ministério das Cidades Administração Local Habitação e Desenvolvimento Regional
-- Ministério da Segurança Social da Família e da Criança
-- Instituto da Comunicação Social
+- Garantia
 - Gasóleo
 - Gasolina
-- Créditos do Estado
+- Gestão de Créditos
 - Gestão do Património
-- Ministério da Cultura
-- Ministério da Justiça
-- Subsídio de Risco
-- Instituto do Desporto de Portugal
-- Instituto Nacional de Intervenção e Garantia Agrícola
-- Instituto de Gestão e Alienação do Património Habitacional do Estado
-- Instituto de Gestão do Fundo Social Europeu
+- IAPMEI
+- ILHA de Santa Maria
+- Imposto Automóvel
 - Imposto de Camionagem
 - Imposto de Circulação
 - Imposto de Mais-Valias
 - Imposto do SELO
 - Imposto Especial sobre o Consumo
+- Imposto Especial sobre o Consumo da Cerveja
 - Imposto Especial sobre o Consumo de Bebidas Alcoólicas
+- Imposto Especial sobre o Consumo de Tabaco
 - Imposto Especial sobre o Jogo
+- Imposto Especial sobre Veículos
 - Imposto Municipal sobre as Transmissões Onerosas de Imóveis
-- IRS
-- IVA
 - Imposto Municipal sobre Veículos
+- Imposto sobre Produtos Petrolíferos
 - Impostos Directos
+- Incêndio
 - Incentivos Fiscais
 - Infracção Fiscal
-- Sociedade da Informação
-- Instituto Nacional de Habitação
-- Fundo dos Antigos Combatentes
+- Instituto da Comunicação Social
+- Instituto das Estradas de Portugal
+- Instituto de Gestão de Fundos de Capitalização da Segurança Social
+- Instituto de Gestão do Crédito Público
+- Instituto de Gestão do Fundo Social Europeu
+- Instituto de Gestão e Alienação do Património Habitacional do Estado
 - Instituto de Gestão Financeira da Segurança Social
 - Instituto de Gestão Financeira e Patrimonial da Justiça
 - Instituto de Gestão Informática da Saúde
 - Instituto de Reinserção Social
 - Instituto do Ambiente
-- QCA
+- Instituto do Desporto de Portugal
+- Instituto do Emprego e Formação Profissional
+- Instituto Nacional de Habitação
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- IRC
+- IRS
 - Isenção Fiscal
-- Instituto das Estradas de Portugal
+- IVA
 - Junta de Freguesia
 - Junta de Turismo
 - Lei Geral Tributária
+- Madeira.região Autónoma
+- Mais-Valias
 - Mecenato
-- Fundo de Garantia Financeira da Justiça
+- Ministério da Administração Interna
+- Ministério da Ciência Inovação e Ensino Superior
+- Ministério da Cultura
+- Ministério da Defesa Nacional
+- Ministério da Justiça
+- Ministério da Saúde
+- Ministério da Segurança Social da Família e da Criança
+- Ministério das Actividades Económicas e do Trabalho
+- Ministério das Cidades Administração Local Habitação e Desenvolvimento Regional
 - Ministério das Obras Públicas e Comunicações
+- Ministério do Ambiente e do Ordenamento do Território
+- Ministério do Turismo
+- Obras Particulares
 - Obras Públicas
-- Orçamento Geral do Estado
+- Obrigações do Tesouro
 - Operação de Reporte
 - Operações de Tesouraria
 - Orçamento
 - Orçamento da Segurança Social
-- Tabaco
+- Orçamento Geral do Estado
 - Organização não Governamental
-- Sagestamo
-- ILHA de Santa Maria
 - Património do Estado
+- Pensões
 - Piddac
-- Proteção ao Deficiente
 - Política do Audiovisual
-- UMIC
-- Dupla Tributação
-- IRC
+- Política Fiscal
 - Prémio de Seguro
 - Prescrição
+- Presidência do Conselho de Ministros
 - Prestação de Serviços
-- Pensões
+- Prevenção de Incêndios
 - Privatização
 - Processo Tributário
-- Desertificação
-- Madeira.região Autónoma
-- Programação Militar
-- Presidência do Conselho de Ministros
-- Propriedade Intelectual
-- Ministério da Saúde
-- Reembolso
-- Administração Local
-- Ministério do Turismo
-- Execução por Dívidas
-- Imposto Automóvel
+- Produto Petrolífero
 - Programa Escolhas
+- Programação Militar
+- Propriedade Intelectual
+- Proteção ao Deficiente
+- QCA
+- Reembolso
+- Região de Turismo
 - Regulamento do Imposto sobre Veículos
 - Remuneração
-- Benefícios Fiscais
 - Restituição de Impostos
 - Retenção na Fonte
-- Ministério do Ambiente e do Ordenamento do Território
+- Sagestamo
+- Secretaria Geral
 - Segurança Social
-- Administração Regional
-- Açores
-- IAPMEI
+- Serviço Nacional de Saúde
 - Sistema Integrado de Incentivos ao Investimento
-- Arrendamento Urbano para Habitação
+- Sociedade da Informação
+- Subsídio de Risco
+- Tabaco
 - Tabela Geral do Imposto do SELO
 - Taxa
-- Contribuição para o Audio-visual
-- Gestão de Créditos
-- Obrigações do Tesouro
+- Titularização de Créditos
 - Transferência de Verbas
-- Autarquia Local
 - Tributação
 - Troca Intracomunitária
+- UMIC
+- União Europeia
+- Valores Mobiliários
 - Visto do Tribunal de Contas
 - Zona Franca
-- Mais-Valias
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/55-b/2004/12/30/p/dre
@@ -254,16 +254,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689420:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:lei:55-B/2004
+  label: "Rectifica a Lei n.º 55-B/2004, de 30 de Dezembro, DR.IS-A [304]2ºSupl\0\0"
+  source: null
+  date: '2004-12-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:05:10Z'
   warnings: []
   errors: []
 ---

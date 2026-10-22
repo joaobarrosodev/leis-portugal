@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/8/2006/01/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-2006-540189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:07:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5dea69a821e15c9d06c8a0594a3fb6257a5d2cd5f3bf129c7544dd645b71957d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a24e0af50ea970190e908798efa9c534b898c31eac18ddfcf264cb8ff7724fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:07:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,37 +69,46 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Produção Animal
-- Financiamento
 - Definição de Competências
-- Projeto de Investimento
+- Exploração Agrícola
+- Financiamento
 - Gabinete de Planeamento e Política Agro-alimentar
 - Gado Bovino
-- Instituto Nacional de Intervenção e Garantia Agrícola
 - Instituto de Desenvolvimento Rural e Hidráulica
-- Exploração Agrícola
+- Instituto Nacional de Intervenção e Garantia Agrícola
 - Orientação Agrícola
+- Pecuária
 - Política Agrícola Comum
 - Prémio aos Produtores de Vacas Aleitantes
+- Produção Animal
 - Produção Leiteira
+- Projeto de Investimento
 - Quota de Produção
 - Regulamento CE
-- Pecuária
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/55/2005/12/20/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/55/2005/12/20/p/dre
+- type: cites
+  target: pt:dre:465231:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:despacho-normativo:55/2005
+  label: "Rectifica o Despacho Normativo n.º 55/2005, de 20 de Dezembro, DR.IS-B [242]\0\0"
+  source: null
+  date: '2005-12-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:07:05Z'
   warnings: []
   errors: []
 ---

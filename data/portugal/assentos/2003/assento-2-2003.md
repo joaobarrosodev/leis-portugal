@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/asst/2/2003/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/assento/2-2003-167046
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-01-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:28:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d50f0a30c51b6102002c1b210af86b2f43d5bc3d90ee3d0b664576d2c37bef4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9bbf742949b05439720e3765e9a33986bb7f20704aa8eb699b1724f30d01736d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:28:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Processo Civil
 - Código de Processo Penal
 - Código do Processo Civil
+- Direito Civil
 - Documentação
 - Interpretação do Direito
+- Processo Civil
 - Prova
-- Direito Civil
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/183/2000/08/10/p/dre
@@ -86,16 +86,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/59/1998/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/59/1998/08/25/p/dre
+- type: cites
+  target: pt:dre:202420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448110:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:28:34Z'
   warnings: []
   errors: []
 ---
@@ -158,11 +170,11 @@ II.B - No conhecimento da questão vertida no recurso, vejamos, antes de mais, o
 
 Contidas no Código de Processo Penal, na redacção da [Lei n.º 59/98](https://diariodarepublica.pt/dr/detalhe/lei/59-1998-448110), de 25 de Agosto:
 
-###### Artigo 363.º («Documentação de declarações orais - Princípio geral»):
+Artigo 363.º («Documentação de declarações orais - Princípio geral»):
 
 «As declarações prestadas oralmente na audiência são documentadas na acta quando o tribunal puder dispor de meios estenotípicos, ou estenográficos, ou de outros meios técnicos idóneos a assegurar a reprodução integral daquelas, bem como nos casos em que a lei expressamente o impuser.»
 
-###### Artigo 364.º («Audiência perante tribunal singular ou na ausência do arguido»):
+Artigo 364.º («Audiência perante tribunal singular ou na ausência do arguido»):
 
 «1 - As declarações prestadas oralmente em audiência que decorrer perante tribunal singular são documentadas na acta, salvo se, até ao início das declarações do arguido previstas no artigo 343.º, o Ministério Público, o defensor ou o advogado do assistente declararem unanimemente para a acta que prescindem da documentação.
 
@@ -170,7 +182,7 @@ Contidas no Código de Processo Penal, na redacção da [Lei n.º 59/98](https:/
 
 4 - Se não estiverem à disposição do tribunal meios técnicos idóneos à reprodução integral das declarações, o juiz dita para a acta o que resultar das declarações prestadas. É correspondentemente aplicável o disposto no artigo 100.º, n.os 2 e 3.»
 
-###### Artigo 101.º («Registo e transcrição»):
+Artigo 101.º («Registo e transcrição»):
 
 «1 - O funcionário referido no n.º 1 do artigo anterior pode redigir o auto utilizando meios estenográficos, estenotípicos ou outros diferentes da escrita comum, bem como socorrer-se de gravação magnetofónica ou áudio-visual.
 
@@ -178,7 +190,7 @@ Contidas no Código de Processo Penal, na redacção da [Lei n.º 59/98](https:/
 
 [...]»
 
-###### Artigo 412.º, n.os 3 e 4 («Motivação do recurso e conclusões»):
+Artigo 412.º, n.os 3 e 4 («Motivação do recurso e conclusões»):
 
 «3 - Quando impugne a decisão proferida sobre matéria de facto, o recorrente deve especificar:
 

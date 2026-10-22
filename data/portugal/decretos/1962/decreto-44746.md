@@ -5,7 +5,7 @@ title: Decreto n.º 44746
 short_title: null
 summary: Autoriza a Direcção-Geral dos Serviços Hidráulicos e a Junta Geral do Distrito Autónomo de Ponta Delgada a celebrar
   contrato para a execução da empreitada de «Obra de defesa marítima da Ribeira Quente, 1.ª fase (troço compreendido entre
-  os perfis P<sub>0</sub> e P<sub>45</sub>)»
+  os perfis P0 e P45)»
 jurisdiction: portugal
 territory: null
 document_type: decreto
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44746-1962-155435
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T19:32:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3aef9977a009be22f7e0374e5cfca739847e3acc40b389b87fa50482f7b61405
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 423165685bc0d2bfd99ced6ec96248bbcf8adde3c44a5e8b461c57cd97d2613f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:32:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:32:31Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +96,7 @@ Tendo em vista o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São autorizadas a Direcção-Geral dos Serviços Hidráulicos e a Junta Geral do Distrito Autónomo de Ponta Delgada a celebrar contrato com a Sociedade Micaelense de Construções, Lda., para execução da empreitada de «Obra de defesa marítima da Ribeira Quente, 1.ª fase (troço compreendido entre os perfis P(índice 0) e P(índice 45))», pela importância de 1982827$00.
+Artigo 1.º São autorizadas a Direcção-Geral dos Serviços Hidráulicos e a Junta Geral do Distrito Autónomo de Ponta Delgada a celebrar contrato com a Sociedade Micaelense de Construções, Lda., para execução da empreitada de «Obra de defesa marítima da Ribeira Quente, 1.ª fase (troço compreendido entre os perfis P(índice 0) e P(índice 45))», pela importância de 1982827$00.
 
 § único. Da importância do contrato a celebrar corresponderão:
 
@@ -100,12 +104,12 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 À Junta Geral do Distrito Autónomo de Ponta Delgada ... 330000$00
 
-###### Art. 2.º Seja qual for o valor das obras a realizar, só poderão ser despendidas em pagamentos relativos a trabalhos executados, por virtude do contrato, as importâncias abaixo indicadas ou o que se apurar como saldo dos anos anteriores:
+Art. 2.º Seja qual for o valor das obras a realizar, só poderão ser despendidas em pagamentos relativos a trabalhos executados, por virtude do contrato, as importâncias abaixo indicadas ou o que se apurar como saldo dos anos anteriores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/11/27600/16001600.pdf))](https://files.diariodarepublica.pt/1s/1962/11/27600/16001600.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/11/27600/16001600.pdf)
 
 § único. Às importâncias a despender em cada ano acrescem os saldos dos anos anteriores.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Novembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - António Manuel Pinto Barbosa - Eduardo de Arantes e Oliveira.

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43123-1960-500441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-08-18T00:00:00Z'
+  retrieved_at: '2026-10-22T19:19:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8051304e602d33996a7164db89215f51b84e6207c50431651796985d60b39b6f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 554299f44055824795416ba3d26471edb857fe44651e80361201d43460abe3c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:19:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253050:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:19:17Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +104,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 ### CAPÍTULO I — Da sua criação e fins
 
-###### Artigo 1.º É criado o Instituto das Indústrias de Pesca de Angola, que seguidamente se designa apenas por Instituto, e cujos objectivos são:
+Artigo 1.º É criado o Instituto das Indústrias de Pesca de Angola, que seguidamente se designa apenas por Instituto, e cujos objectivos são:
 
 a) Orientar e fiscalizar a produção do pescado, a sua transformação e o comércio dos produtos fabricados;
 
@@ -104,11 +112,11 @@ b) Coordenar as indústrias de pesca e de transformação afins;
 
 c) Desenvolver o espírito corporativo e a solidariedade entre os elementos das actividades que coordena.
 
-###### Art. 2.º O Instituto tem a sua sede em Luanda e delegações na área de cada um dos grémios dos industriais de pesca da província.
+Art. 2.º O Instituto tem a sua sede em Luanda e delegações na área de cada um dos grémios dos industriais de pesca da província.
 
-###### Art. 3.º O Instituto é um organismo de coordenação económica gozando de personalidade jurídica, com administração e funcionamento autónomos.
+Art. 3.º O Instituto é um organismo de coordenação económica gozando de personalidade jurídica, com administração e funcionamento autónomos.
 
-###### Art. 4.º Compete ao Instituto, de harmonia com os seus objectivos:
+Art. 4.º Compete ao Instituto, de harmonia com os seus objectivos:
 
 a) Estudar as condições em que se exercem as indústrias de pesca e de transformação afins e promover o seu aperfeiçoamento técnico, económico e social;
 
@@ -126,25 +134,25 @@ g) Receber mercadorias dos sócios dos grémios referidos no artigo 2.º em regi
 
 h) Exercer quaisquer atribuições que lhe sejam cometidas por lei ou por determinação do Governo-Geral.
 
-###### Art. 5.º O Instituto será obrigatòriamente consultado pelas instâncias oficiais e por quaisquer organismos, onde não estiver representado, quanto aos assuntos que interessem ao exercício das actividades económicas em que superintenda ou que estejam com elas relacionados.
+Art. 5.º O Instituto será obrigatòriamente consultado pelas instâncias oficiais e por quaisquer organismos, onde não estiver representado, quanto aos assuntos que interessem ao exercício das actividades económicas em que superintenda ou que estejam com elas relacionados.
 
-###### Art. 6.º Para consecução dos objectivos referidos no artigo 1.º e dentro da competência do artigo 4.º, elaborará a direcção do Instituto os planos e regulamentos que considere necessários para o exercício das suas funções, podendo solicitar para o efeito a colaboração da Comissão Nacional de Coordenação e Planificação das Pescas, do Centro de Biologia Piscatória e dos diversos serviços e organismos, tanto do Ministério do Ultramar, como da província.
+Art. 6.º Para consecução dos objectivos referidos no artigo 1.º e dentro da competência do artigo 4.º, elaborará a direcção do Instituto os planos e regulamentos que considere necessários para o exercício das suas funções, podendo solicitar para o efeito a colaboração da Comissão Nacional de Coordenação e Planificação das Pescas, do Centro de Biologia Piscatória e dos diversos serviços e organismos, tanto do Ministério do Ultramar, como da província.
 
 § único. Os planos e regulamentos, incluindo os de carácter técnico, serão submetidos ao governador-geral com o parecer do conselho geral do Instituto, para sua aprovação nos termos legais.
 
-###### Art. 7.º Para desempenho das missões referidas na alínea b) do artigo 14.º o Instituto deverá dispor dos meios necessários, designadamente barcos de pesquisas e instalações laboratoriais, nos mais importantes centros piscatórios da província, ocupando-se simultâneamente da qualificação dos produtos com base no pescado e de estudos de carácter tecnológico e biológico.
+Art. 7.º Para desempenho das missões referidas na alínea b) do artigo 14.º o Instituto deverá dispor dos meios necessários, designadamente barcos de pesquisas e instalações laboratoriais, nos mais importantes centros piscatórios da província, ocupando-se simultâneamente da qualificação dos produtos com base no pescado e de estudos de carácter tecnológico e biológico.
 
-###### Art. 8.º O Centro de Biologia Piscatória da Junta de Investigações do Ultramar prestará ao Instituto a colaboração técnica e científica de que este carecer.
+Art. 8.º O Centro de Biologia Piscatória da Junta de Investigações do Ultramar prestará ao Instituto a colaboração técnica e científica de que este carecer.
 
-###### Art. 9.º Junto do Instituto funciona o Fundo de Apoio às Indústrias de Pesca.
+Art. 9.º Junto do Instituto funciona o Fundo de Apoio às Indústrias de Pesca.
 
 ### CAPÍTULO II — Constituição e funcionamento
 
 #### SECÇÃO I — Dos Órgãos e serviços do Instituto
 
-###### Art. 10.º O Instituto terá uma direcção e um conselho geral.
+Art. 10.º O Instituto terá uma direcção e um conselho geral.
 
-###### Art. 11.º A direcção do Instituto é constituída por um director e por dois directores adjuntos, nomeados pelo Ministro do Ultramar.
+Art. 11.º A direcção do Instituto é constituída por um director e por dois directores adjuntos, nomeados pelo Ministro do Ultramar.
 
 § 1.º O director e os directores adjuntos deverão ser escolhidos de entre os indivíduos especializados dos diversos ramos de actividade das indústrias de pesca e de transformação afins.
 
@@ -154,13 +162,13 @@ h) Exercer quaisquer atribuições que lhe sejam cometidas por lei ou por determ
 
 § 4.º Os encargos a que se refere o parágrafo antecedente serão desempenhados em comissão de serviço, nos termos do artigo 35.º e seguintes do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 12.º O conselho geral será constituído pelo director do Instituto, que preside, pelos dois directores adjuntos, por um representante dos serviços de marinha e outro dos serviços de economia e estatística geral, designados pelo governador-geral, e por um representante de cada um dos grémios referidos no artigo 2.º
+Art. 12.º O conselho geral será constituído pelo director do Instituto, que preside, pelos dois directores adjuntos, por um representante dos serviços de marinha e outro dos serviços de economia e estatística geral, designados pelo governador-geral, e por um representante de cada um dos grémios referidos no artigo 2.º
 
-###### Art. 13.º O conselho geral reunir-se-á ordinàriamente uma vez por mês e extraordinàriamente quando for convocado por iniciativa do presidente ou a pedido da maioria dos vogais.
+Art. 13.º O conselho geral reunir-se-á ordinàriamente uma vez por mês e extraordinàriamente quando for convocado por iniciativa do presidente ou a pedido da maioria dos vogais.
 
 § único. As deliberações do conselho geral serão tomadas por maioria de votos, tendo o presidente voto de qualidade.
 
-###### Art. 14.º Os serviços do Instituto, agrupados pela forma a fixar em regulamento, são os seguintes:
+Art. 14.º Os serviços do Instituto, agrupados pela forma a fixar em regulamento, são os seguintes:
 
 a) Serviços de orientação económica, estatística e propaganda;
 
@@ -172,7 +180,7 @@ d) Serviços de armazéns gerais.
 
 #### SECÇÃO II — Da competência dos órgãos do Instituto
 
-###### Art. 15.º Compete à direcção do Instituto:
+Art. 15.º Compete à direcção do Instituto:
 
 a) Representar o Instituto;
 
@@ -186,7 +194,7 @@ e) Elaborar os relatórios e contas anuais, o programa de trabalhos e a proposta
 
 f) Submeter à decisão do conselho geral os assuntos da competência deste.
 
-###### Art. 16.º Ao conselho geral do Instituto incumbe:
+Art. 16.º Ao conselho geral do Instituto incumbe:
 
 a) Propor à direcção as medidas consideradas convenientes à boa consecução dos fins do Instituto;
 
@@ -202,7 +210,7 @@ f) Dar parecer sobre quaisquer outros assuntos que lhe sejam apresentados pela d
 
 #### SECÇÃO III — Das receitas e despesas
 
-###### Art. 17.º Constituem receitas próprias do Instituto:
+Art. 17.º Constituem receitas próprias do Instituto:
 
 a) A percentagem que lhe couber nas taxas cobradas nos termos da portaria referida no artigo 18.º;
 
@@ -212,17 +220,17 @@ c) O produto das multas que aplicar;
 
 d) Quaisquer outros rendimentos ou subsídios.
 
-###### Art. 18.º O Instituto cobrará sobre os produtos das indústrias de pesca e de transformação afins as taxas que forem estabelecidas em portaria do Governo da província.
+Art. 18.º O Instituto cobrará sobre os produtos das indústrias de pesca e de transformação afins as taxas que forem estabelecidas em portaria do Governo da província.
 
-###### Art. 19.º O produto das taxas criadas pela portaria referida no artigo 18.º constituirá receita, conforme as percentagens nela estabelecidas, do Instituto, do Fundo referido no artigo 9.º e dos grémios dos industriais de pesca, proporcionalmente, quanto a estes, à venda dos produtos das áreas respectivas no mês anterior.
+Art. 19.º O produto das taxas criadas pela portaria referida no artigo 18.º constituirá receita, conforme as percentagens nela estabelecidas, do Instituto, do Fundo referido no artigo 9.º e dos grémios dos industriais de pesca, proporcionalmente, quanto a estes, à venda dos produtos das áreas respectivas no mês anterior.
 
-###### Art. 20.º Todas as receitas do Instituto serão depositadas em instituições bancárias na província em conta corrente à sua ordem.
+Art. 20.º Todas as receitas do Instituto serão depositadas em instituições bancárias na província em conta corrente à sua ordem.
 
-###### Art. 21.º Consideram-se como despesa do Instituto as que lhe incumbam por execução dos preceitos deste decreto e dos seus regulamentos e que se encontrem devidamente orçamentadas.
+Art. 21.º Consideram-se como despesa do Instituto as que lhe incumbam por execução dos preceitos deste decreto e dos seus regulamentos e que se encontrem devidamente orçamentadas.
 
 #### SECÇÃO IV — Das penalidades
 
-###### Art. 22.º O não cumprimento pelos industriais das obrigações impostas pelo presente diploma, assim como das instruções e normas estabelecidas para a sua cabal execução, dará lugar à aplicação pelo Instituto das seguintes sanções:
+Art. 22.º O não cumprimento pelos industriais das obrigações impostas pelo presente diploma, assim como das instruções e normas estabelecidas para a sua cabal execução, dará lugar à aplicação pelo Instituto das seguintes sanções:
 
 a) Advertência;
 
@@ -238,27 +246,27 @@ e) Proibição do exercício da respectiva indústria.
 
 § 2.º O Instituto, por deliberação do conselho geral, poderá proibir relações comerciais com pessoas estranhas aos grémios, quando estas tenham concorrido em seus negócios para o descrédito dos produtos sujeitos à disciplina económica daquele organismo.
 
-###### Art. 23.º A venda dos produtos das indústrias de pesca e de transformação afins por preços inferiores ou em condições diferentes dos prescritos nos regulamentos ou normas estabelecidas pelo Instituto será punida com multa que poderá ir até 200000$00, independentemente da aplicação das penas das alíneas d) e e) do artigo anterior, se houver lugar para elas.
+Art. 23.º A venda dos produtos das indústrias de pesca e de transformação afins por preços inferiores ou em condições diferentes dos prescritos nos regulamentos ou normas estabelecidas pelo Instituto será punida com multa que poderá ir até 200000$00, independentemente da aplicação das penas das alíneas d) e e) do artigo anterior, se houver lugar para elas.
 
-###### Art. 24.º É presunção legal de uma infracção o facto de não serem apresentados dentro do período fixado na respectiva comunicação a correspondência e mais documentos requisitados para averiguação da falta apontada.
+Art. 24.º É presunção legal de uma infracção o facto de não serem apresentados dentro do período fixado na respectiva comunicação a correspondência e mais documentos requisitados para averiguação da falta apontada.
 
-###### Art. 25.º As penalidades prescritas nas alíneas c), d) e e) do artigo 22.º e no artigo 23.º serão aplicadas pelo Instituto, sob parecer do conselho geral, com recurso para o governador-geral.
+Art. 25.º As penalidades prescritas nas alíneas c), d) e e) do artigo 22.º e no artigo 23.º serão aplicadas pelo Instituto, sob parecer do conselho geral, com recurso para o governador-geral.
 
-###### Art. 26.º Nenhuma penalidade, salvo a da alínea a) do artigo 22.º, poderá ser imposta sem que o industrial seja notificado para deduzir por escrito a sua defesa, no prazo que lhe for fixado, e sem que dela, quando apresentada em tempo competente, e das provas produzidas se tome conhecimento através do processo para esse efeito organizado.
+Art. 26.º Nenhuma penalidade, salvo a da alínea a) do artigo 22.º, poderá ser imposta sem que o industrial seja notificado para deduzir por escrito a sua defesa, no prazo que lhe for fixado, e sem que dela, quando apresentada em tempo competente, e das provas produzidas se tome conhecimento através do processo para esse efeito organizado.
 
-###### Art. 27.º Os industriais que não paguem as multas a que foram condenados pelo Instituto serão relegados às execuções fiscais.
+Art. 27.º Os industriais que não paguem as multas a que foram condenados pelo Instituto serão relegados às execuções fiscais.
 
-###### Art. 28.º A unidade industrial que durante dois anos consecutivos deixar de laborar considera-se extinta definitivamente.
+Art. 28.º A unidade industrial que durante dois anos consecutivos deixar de laborar considera-se extinta definitivamente.
 
 ### CAPÍTULO III — Dos serviços dos armazéns gerais
 
 #### SECÇÃO I — Constituição e fins
 
-###### Art. 29.º Os serviços de armazéns gerais dependem imediatamente da direcção do Instituto e terão delegações nas áreas dos grémios dos industriais de pesca.
+Art. 29.º Os serviços de armazéns gerais dependem imediatamente da direcção do Instituto e terão delegações nas áreas dos grémios dos industriais de pesca.
 
-###### Art. 30.º A administração dos armazéns gerais será exercida, na área de cada grémio, pelo delegado do Instituto, de harmonia com as instruções recebidas da direcção do Instituto.
+Art. 30.º A administração dos armazéns gerais será exercida, na área de cada grémio, pelo delegado do Instituto, de harmonia com as instruções recebidas da direcção do Instituto.
 
-###### Art. 31.º Os armazéns gerais são constituídos por:
+Art. 31.º Os armazéns gerais são constituídos por:
 
 a) Armazéns próprios do Instituto;
 
@@ -266,7 +274,7 @@ b) Armazéns fornecidos por organizações industriais do sector onde não haja 
 
 c) Armazéns das próprias instalações dos industriais interessados quando se justifique a sua utilização.
 
-###### Art. 32.º Os fins dos armazéns gerais são:
+Art. 32.º Os fins dos armazéns gerais são:
 
 a) Receber os produtos acabados dos industriais de pesca nas condições que estiverem fixadas;
 
@@ -274,7 +282,7 @@ b) Emitir, sobre as mercadorias depositadas, títulos transmissíveis, por endos
 
 c) Vender as mercadorias depositadas nos termos expressos neste decreto.
 
-###### Art. 33.º Os armazéns gerais aceitarão para depósito:
+Art. 33.º Os armazéns gerais aceitarão para depósito:
 
 a) Conservas de peixe esterilizadas pelo calor;
 
@@ -286,103 +294,103 @@ d) Peixe seco ou fumado.
 
 § único. O governador-geral poderá tornar obrigatória, por meio de portaria, ouvido o Conselho do Governo e o conselho geral do Instituto, a entrada nos armazéns gerais de quaisquer dos produtos da pesca, os quais ficarão sujeitos às prescrições deste diploma.
 
-###### Art. 34.º Para os efeitos da alínea g) do artigo 4.º os armazéns do Instituto referidos no artigo 31.º são equiparados aos armazéns gerais industriais e os conhecimentos dos depósitos e certificados anexos (warrants ou cautelas de penhor) são títulos sujeitos ao regime jurídico dos artigos 408.º a 424.º do Código Comercial e demais legislação aplicável.
+Art. 34.º Para os efeitos da alínea g) do artigo 4.º os armazéns do Instituto referidos no artigo 31.º são equiparados aos armazéns gerais industriais e os conhecimentos dos depósitos e certificados anexos (warrants ou cautelas de penhor) são títulos sujeitos ao regime jurídico dos artigos 408.º a 424.º do Código Comercial e demais legislação aplicável.
 
 #### SECÇÃO II — Do depósito e conservação das mercadorias
 
-###### Art. 35.º A direcção do Instituto contratará com companhias seguradoras nacionais o seguro dos armazéns e das mercadorias neles depositadas.
+Art. 35.º A direcção do Instituto contratará com companhias seguradoras nacionais o seguro dos armazéns e das mercadorias neles depositadas.
 
 § 1.º Os seguros dos armazéns serão feitos de acordo com as tabelas em vigor e os das mercadorias pelo valor igual ao das cotações estabelecidas pelo Instituto.
 
 § 2.º Quando estejam fixados preços mínimos estes servirão de base ao cálculo do seguro.
 
-###### Art. 36.º O Instituto assume para com os depositantes o compromisso de indemnização dos prejuízos causados pelo seu pessoal, por negligência ou erro no exercício das suas funções.
+Art. 36.º O Instituto assume para com os depositantes o compromisso de indemnização dos prejuízos causados pelo seu pessoal, por negligência ou erro no exercício das suas funções.
 
-###### Art. 37.º O Instituto não é responsável por qualquer falta na quantidade e qualidade das mercadorias, quando essa falta não tenha sido verificada antes da sua saída dos armazéns gerais.
+Art. 37.º O Instituto não é responsável por qualquer falta na quantidade e qualidade das mercadorias, quando essa falta não tenha sido verificada antes da sua saída dos armazéns gerais.
 
-###### Art. 38.º O Instituto não é responsável pelas modificações de qualidade resultantes de defeitos de fabricação.
+Art. 38.º O Instituto não é responsável pelas modificações de qualidade resultantes de defeitos de fabricação.
 
 § único. Quando o Instituto incorra em responsabilidades para com terceiros por deterioração originada por fabricação deficiente, exigirá do depositante a respectiva indemnização, não voltando a receber mercadoria da mesma origem sem que se encontre corrigido o processo de fabricação.
 
-###### Art. 39.º Podem as mercadorias ser transferidas de um para outro armazém a pedido do produtor à custa e sob a exclusiva responsabilidade dos seus depositantes, os quais restituirão nessa ocasião os títulos referidos na alínea b) do artigo 32.º
+Art. 39.º Podem as mercadorias ser transferidas de um para outro armazém a pedido do produtor à custa e sob a exclusiva responsabilidade dos seus depositantes, os quais restituirão nessa ocasião os títulos referidos na alínea b) do artigo 32.º
 
 § 1.º A transferência de mercadorias nas condições prescritas neste artigo é equiparada, para todos os efeitos, ao seu levantamento definitivo, pelo que serão observadas, na sua entrada no armazém para que ela foi requerida, as formalidades estabelecidas para a operação do primeiro depósito.
 
 § 2.º Se a mercadoria para que foi requerida a transferência estiver servindo de garantia a um título negociado, o Instituto só dará autorização para a transferência com a anuência do possuidor do título.
 
-###### Art. 40.º Os depósitos serão admitidos por ordem dos pedidos.
+Art. 40.º Os depósitos serão admitidos por ordem dos pedidos.
 
-###### Art. 41.º No acto de recepção, na presença do chefe da delegação e de um agente de fiscalização, será o peso da mercadoria conferido e proceder-se-á à colheita de amostras destinadas a qualificá-la.
+Art. 41.º No acto de recepção, na presença do chefe da delegação e de um agente de fiscalização, será o peso da mercadoria conferido e proceder-se-á à colheita de amostras destinadas a qualificá-la.
 
 § único. Todo o pessoal necessário para trasfegar a mercadoria será fornecido pelo depositante.
 
-###### Art. 42.º O Instituto, em presença dos resultados favoráveis dos exames ou análises, entregará ao depositante um certificado de qualidade.
+Art. 42.º O Instituto, em presença dos resultados favoráveis dos exames ou análises, entregará ao depositante um certificado de qualidade.
 
-###### Art. 43.º Se o Instituto não emitir certificado de qualidade, o depósito pedido não é aceite e o industrial será intimado a retirar a mercadoria no prazo de cinco dias e será responsável pelas despesas efectuadas e pelos prejuízos a que porventura tenha dado causa, que serão por ele liquidados.
+Art. 43.º Se o Instituto não emitir certificado de qualidade, o depósito pedido não é aceite e o industrial será intimado a retirar a mercadoria no prazo de cinco dias e será responsável pelas despesas efectuadas e pelos prejuízos a que porventura tenha dado causa, que serão por ele liquidados.
 
 § único. O prazo estabelecido poderá ser prorrogado por mais oito dias, mediante pedido fundamentado.
 
-###### Art. 44.º A mercadoria aceita para depósito poderá ficar armazenada até 60 dias para farinhas e óleos de peixe e peixe seco ou fumado e até 90 dias para conservas de peixe esterilizadas pelo calor.
+Art. 44.º A mercadoria aceita para depósito poderá ficar armazenada até 60 dias para farinhas e óleos de peixe e peixe seco ou fumado e até 90 dias para conservas de peixe esterilizadas pelo calor.
 
 § único. A pedido do depositante poderá o Instituto conceder a prorrogação de prazos para alguns dos produtos armazenados: até 30 dias para as farinhas, óleos e peixe seco ou fumado e até 90 dias para conservas esterilizadas pelo calor.
 
-###### Art. 45.º No acto do levantamento da mercadoria o portador do conhecimento de depósito pagará, para satisfação dos encargos decorrentes da armazenagem e do seguro da mercadoria contra incêndio, roubo e danos por assalto, greves ou tumultos, a importância resultante da aplicação da taxa de 0,7 por cento ao ano sobre o valor da mercadoria depositada e restituirá os títulos referidos na alínea b) do artigo 32.º
+Art. 45.º No acto do levantamento da mercadoria o portador do conhecimento de depósito pagará, para satisfação dos encargos decorrentes da armazenagem e do seguro da mercadoria contra incêndio, roubo e danos por assalto, greves ou tumultos, a importância resultante da aplicação da taxa de 0,7 por cento ao ano sobre o valor da mercadoria depositada e restituirá os títulos referidos na alínea b) do artigo 32.º
 
 § único. Qualquer modificação, conserto, marcação e, de uma forma geral, toda a beneficiação sofrida pela mercadoria, a requisição do depositante ou por exigência dos serviços, será de conta daquele.
 
-###### Art. 46.º Se a mercadoria não tiver sido retirada dentro dos prazos indicados nos artigos 43.º e 44.º, será relacionada para leilão.
+Art. 46.º Se a mercadoria não tiver sido retirada dentro dos prazos indicados nos artigos 43.º e 44.º, será relacionada para leilão.
 
 #### SECÇÃO III
 
 Dos conhecimentos de depósito e «warrants»
 
-###### Art. 47.º O depositante tem a faculdade de requisitar a entrega de um conhecimento de depósito e warrant anexo.
+Art. 47.º O depositante tem a faculdade de requisitar a entrega de um conhecimento de depósito e warrant anexo.
 
-###### Art. 48.º O conhecimento de depósito e o warrant só podem referir-se a uma única espécie de mercadoria.
+Art. 48.º O conhecimento de depósito e o warrant só podem referir-se a uma única espécie de mercadoria.
 
-###### Art. 49.º O governador-geral, por intermédio da Direcção dos Serviços de Fazenda e Contabilidade, mandará publicar no Boletim Oficial as instituições de crédito autorizadas a descontar, sem encargo para o Estado, os warrants emitidos sobre as mercadorias depositadas em regime de armazéns gerais, até uma importância que não poderá ser inferior a 65 por cento do valor.
+Art. 49.º O governador-geral, por intermédio da Direcção dos Serviços de Fazenda e Contabilidade, mandará publicar no Boletim Oficial as instituições de crédito autorizadas a descontar, sem encargo para o Estado, os warrants emitidos sobre as mercadorias depositadas em regime de armazéns gerais, até uma importância que não poderá ser inferior a 65 por cento do valor.
 
 § único. O juro e os encargos totais dos descontos dos warrants feitos pelas instituições de crédito autorizadas não poderão exceder os estipulados em operações semelhantes nas sedes dos bancos emissores.
 
-###### Art. 50.º Se durante o prazo de validade do warrant as cotações das mercadorias depositadas baixarem de modo a haver entre o valor realizável e a quantia mutuada uma margem superior a 20 por cento, será o depositante intimado pelo Instituto a reforçar o depósito, que poderá ser feito contra entrega de mercadoria, contra entrega de garantia bancária ou ainda por depósito em dinheiro efectuado em instituição bancária aceito pelo Instituto.
+Art. 50.º Se durante o prazo de validade do warrant as cotações das mercadorias depositadas baixarem de modo a haver entre o valor realizável e a quantia mutuada uma margem superior a 20 por cento, será o depositante intimado pelo Instituto a reforçar o depósito, que poderá ser feito contra entrega de mercadoria, contra entrega de garantia bancária ou ainda por depósito em dinheiro efectuado em instituição bancária aceito pelo Instituto.
 
-###### Art. 51.º O portador do warrant não pago no dia do vencimento apresentá-lo-á para cobrança ao Instituto.
+Art. 51.º O portador do warrant não pago no dia do vencimento apresentá-lo-á para cobrança ao Instituto.
 
-###### Art. 52.º O Instituto por sua vez apresentará para protesto, por falta de pagamento, o warrant que pagou.
+Art. 52.º O Instituto por sua vez apresentará para protesto, por falta de pagamento, o warrant que pagou.
 
 § único. Feito o protesto do warrant, se este não for pago no prazo de dez dias, a contar da data do protesto, será a mercadoria em depósito relacionada para leilão.
 
 #### SECÇÃO IV — Da venda das mercadorias depositadas
 
-###### Art. 53.º A venda das mercadorias em leilão será sempre anunciada, pelo menos em dois dos jornais mais lidos da província, sendo um do distrito onde se situar o armazém em que a mercadorias está depositada, e em editais afixados, com a antecipação de oito dias, à porta do respectivo armazém.
+Art. 53.º A venda das mercadorias em leilão será sempre anunciada, pelo menos em dois dos jornais mais lidos da província, sendo um do distrito onde se situar o armazém em que a mercadorias está depositada, e em editais afixados, com a antecipação de oito dias, à porta do respectivo armazém.
 
-###### Art. 54.º Os leilões das mercadorias depositadas nos armazéns gerais serão feitos pelo respectivo pessoal, sob a fiscalização de um representante do Instituto nomeado para esse efeito e de um representante da Direcção Provincial dos Serviços de Fazenda e Contabilidade.
+Art. 54.º Os leilões das mercadorias depositadas nos armazéns gerais serão feitos pelo respectivo pessoal, sob a fiscalização de um representante do Instituto nomeado para esse efeito e de um representante da Direcção Provincial dos Serviços de Fazenda e Contabilidade.
 
-###### Art. 55.º O depositante ou o portador do warrant poderá, antes de começar o leilão, declarar que deseja resgatar a mercadoria e satisfazer as importâncias em dívida.
+Art. 55.º O depositante ou o portador do warrant poderá, antes de começar o leilão, declarar que deseja resgatar a mercadoria e satisfazer as importâncias em dívida.
 
 § 1.º Neste caso proceder-se-á imediatamente à respectiva liquidação, que será acrescida de um adicional de 0,5 por cento calculado sobre a totalidade do débito.
 
 § 2.º O leilão deixará de fazer-se e este facto será comunicado ao público por meio de edital afixado na porta do armazém.
 
-###### Art. 56.º As vendas serão liquidadas com 10 por cento no acto de arrematação e os restantes 90 por cento no prazo máximo de 24 horas, sob pena do disposto no artigo 58.º
+Art. 56.º As vendas serão liquidadas com 10 por cento no acto de arrematação e os restantes 90 por cento no prazo máximo de 24 horas, sob pena do disposto no artigo 58.º
 
-###### Art. 57.º Os arrematantes são obrigados a retirar as mercadorias compradas no prazo de 24 horas, não se admitindo reclamação depois de feita a entrega.
+Art. 57.º Os arrematantes são obrigados a retirar as mercadorias compradas no prazo de 24 horas, não se admitindo reclamação depois de feita a entrega.
 
-###### Art. 58.º No caso de o arrematante não pagar no prazo fixado, será a mercadoria imediatamente posta em praça e o comprador perderá os 10 por cento do valor da mercadoria pagos no acto da arrematação.
+Art. 58.º No caso de o arrematante não pagar no prazo fixado, será a mercadoria imediatamente posta em praça e o comprador perderá os 10 por cento do valor da mercadoria pagos no acto da arrematação.
 
 #### SECÇÃO V — Do pessoal dos armazéns gerais
 
-###### Art. 59.º Os delegados do Instituto e os fiéis de armazém prestarão as cauções de 30 e 10 contos, respectivamente.
+Art. 59.º Os delegados do Instituto e os fiéis de armazém prestarão as cauções de 30 e 10 contos, respectivamente.
 
-###### Art. 60.º Os delegados proporão à direcção do Instituto a nomeação de fiéis de armazém da sua confiança.
+Art. 60.º Os delegados proporão à direcção do Instituto a nomeação de fiéis de armazém da sua confiança.
 
-###### Art. 61.º A nenhum empregado dos armazéns gerais é permitido por si ou por interposta pessoa realizar quaisquer operações sobre as mercadorias depositadas ou sobre os respectivos títulos.
+Art. 61.º A nenhum empregado dos armazéns gerais é permitido por si ou por interposta pessoa realizar quaisquer operações sobre as mercadorias depositadas ou sobre os respectivos títulos.
 
 ### CAPÍTULO IV — Do Fundo de Apoio às Indústrias de Pesca
 
-###### Art. 62.º O Fundo de Apoio às Indústrias de Pesca passará a regular-se pelas disposições deste decreto.
+Art. 62.º O Fundo de Apoio às Indústrias de Pesca passará a regular-se pelas disposições deste decreto.
 
-###### Art. 63.º O Fundo terá por objectivo auxiliar, mediante a concessão de empréstimo aos industriais de pesca inscritos nos grémios, conforme as condições estabelecidas em diploma do Governo da província e de harmonia com os seus recursos financeiros:
+Art. 63.º O Fundo terá por objectivo auxiliar, mediante a concessão de empréstimo aos industriais de pesca inscritos nos grémios, conforme as condições estabelecidas em diploma do Governo da província e de harmonia com os seus recursos financeiros:
 
 a) O apetrechamento de unidades de transformação do pescado a instalar por cooperativas regionais de produção quando se reconheça a sua utilidade para a economia de Angola;
 
@@ -390,11 +398,11 @@ b) Os industriais de pesca que, dispondo de instalações regularmente equipadas
 
 c) A renovação e a modernização das artes de pesca.
 
-###### Art. 64.º O Fundo poderá, nas condições a fixar em diploma legislativo, contrair empréstimos com garantia nas suas receitas, para execução dos objectivos prescritos no artigo anterior, podendo também, nos mesmos termos, dar o seu aval aos empréstimos contraídos pelos sócios dos grémios quando tenham em vista a consecução dos mesmos objectivos, com parecer favorável, em qualquer dos casos, do conselho geral.
+Art. 64.º O Fundo poderá, nas condições a fixar em diploma legislativo, contrair empréstimos com garantia nas suas receitas, para execução dos objectivos prescritos no artigo anterior, podendo também, nos mesmos termos, dar o seu aval aos empréstimos contraídos pelos sócios dos grémios quando tenham em vista a consecução dos mesmos objectivos, com parecer favorável, em qualquer dos casos, do conselho geral.
 
-###### Art. 65.º O Fundo terá autonomia administrativa e financeira e as suas receitas serão constituídas pelas que estiverem legalmente estabelecidas.
+Art. 65.º O Fundo terá autonomia administrativa e financeira e as suas receitas serão constituídas pelas que estiverem legalmente estabelecidas.
 
-###### Art. 66.º A gerência do Fundo estará a cargo de uma comissão administrativa com a composição seguinte:
+Art. 66.º A gerência do Fundo estará a cargo de uma comissão administrativa com a composição seguinte:
 
 a) O director do Instituto, que será o presidente;
 
@@ -408,7 +416,7 @@ d) Um representante de cada um dos grémios dos industriais de pesca, escolhido 
 
 § 2.º Em casos de empate o presidente terá voto de qualidade.
 
-###### Art. 67.º À comissão administrativa compete:
+Art. 67.º À comissão administrativa compete:
 
 a) Elaborar anualmente os planos de investimentos para financiar as cooperativas de industriais de pesca e submetê-los à aprovação do governador-geral;
 
@@ -416,9 +424,9 @@ b) Deliberar sobre os pedidos de empréstimos requeridos ao abrigo do disposto n
 
 c) Apresentar ao governador-geral até ao dia 31 de Março de cada ano um relatório pormenorizado sobre a sua actividade no ano anterior.
 
-###### Art. 68.º A comissão administrativa reunirá quando convocada por iniciativa do presidente ou a pedido de qualquer dos seus membros.
+Art. 68.º A comissão administrativa reunirá quando convocada por iniciativa do presidente ou a pedido de qualquer dos seus membros.
 
-###### Art. 69.º A concessão pelo Fundo de empréstimos dependerá de parecer técnico-económico favorável do Instituto, onde se estipularão as condições às quais deverão obedecer a aplicação e a utilização do produto do empréstimo e que serão incluídas no respectivo contrato.
+Art. 69.º A concessão pelo Fundo de empréstimos dependerá de parecer técnico-económico favorável do Instituto, onde se estipularão as condições às quais deverão obedecer a aplicação e a utilização do produto do empréstimo e que serão incluídas no respectivo contrato.
 
 § 1.º Para o perfeito exercício das suas funções a comissão administrativa poderá ser assistida pelos peritos que julgar convenientes, sem embargo da assistência que lhe possa ser prestada pelos funcionários dos serviços referidos no artigo 14.º
 
@@ -426,37 +434,37 @@ c) Apresentar ao governador-geral até ao dia 31 de Março de cada ano um relat�
 
 ### CAPÍTULO V — Disposições gerais, especiais e transitórias
 
-###### Art. 70.º Serão fixados por portaria do Ministro do Ultramar, sob proposta do governador-geral, os quadros de pessoal e respectivos vencimentos do Instituto e do Fundo de Apoio às Indústrias de Pesca.
+Art. 70.º Serão fixados por portaria do Ministro do Ultramar, sob proposta do governador-geral, os quadros de pessoal e respectivos vencimentos do Instituto e do Fundo de Apoio às Indústrias de Pesca.
 
-###### Art. 71.º Serão suportados pelas verbas atribuídas no respectivo orçamento do Instituto os encargos com o pessoal referido no artigo anterior.
+Art. 71.º Serão suportados pelas verbas atribuídas no respectivo orçamento do Instituto os encargos com o pessoal referido no artigo anterior.
 
-###### Art. 72.º Poderão ser estabelecidas senhas de presença pelo governador-geral, sob proposta do presidente, aos vogais da comissão administrativa do Fundo referida no capítulo IV.
+Art. 72.º Poderão ser estabelecidas senhas de presença pelo governador-geral, sob proposta do presidente, aos vogais da comissão administrativa do Fundo referida no capítulo IV.
 
-###### Art. 73.º Para os produtos que se destinem ao consumo interno da província, e além dos certificados de origem e de qualidade a que se refere a alínea c) do artigo 4.º, serão passadas pelo Instituto ou suas delegações guias de trânsito, das quais constarão as respectivas quantidades e valores dos produtos nelas mencionados, para efeito de circularem livremente entre as diversas localidades.
+Art. 73.º Para os produtos que se destinem ao consumo interno da província, e além dos certificados de origem e de qualidade a que se refere a alínea c) do artigo 4.º, serão passadas pelo Instituto ou suas delegações guias de trânsito, das quais constarão as respectivas quantidades e valores dos produtos nelas mencionados, para efeito de circularem livremente entre as diversas localidades.
 
-###### Art. 74.º Ficam revogadas as disposições do artigo 12.º do [Decreto n.º 41365](https://diariodarepublica.pt/dr/detalhe/decreto/41365-1957-253050), de 15 de Novembro de 1957, que colidam com as atribuições do Instituto fixadas por este decreto.
+Art. 74.º Ficam revogadas as disposições do artigo 12.º do [Decreto n.º 41365](https://diariodarepublica.pt/dr/detalhe/decreto/41365-1957-253050), de 15 de Novembro de 1957, que colidam com as atribuições do Instituto fixadas por este decreto.
 
-###### Art. 75.º Na correspondência do Instituto deverá observar-se o disposto na base XXXVIII da Lei Orgânica do Ultramar.
+Art. 75.º Na correspondência do Instituto deverá observar-se o disposto na base XXXVIII da Lei Orgânica do Ultramar.
 
-###### Art. 76.º É extinta a Federação dos Grémios dos Industriais de Pesca, criada pelo Diploma Legislativo n.º 2735, de 15 de Fevereiro de 1956, transitando o seu activo e passivo para o Instituto.
+Art. 76.º É extinta a Federação dos Grémios dos Industriais de Pesca, criada pelo Diploma Legislativo n.º 2735, de 15 de Fevereiro de 1956, transitando o seu activo e passivo para o Instituto.
 
-###### Art. 77.º Será nomeada pelo Ministro do Ultramar uma comissão que ficará encarregada de realizar a adaptação dos serviços do organismo extinto pelo artigo anterior aos do Instituto e que exercerá também as funções directivas do Instituto enquanto não for nomeada a direcção, constituída nos termos do artigo 11.º deste decreto.
+Art. 77.º Será nomeada pelo Ministro do Ultramar uma comissão que ficará encarregada de realizar a adaptação dos serviços do organismo extinto pelo artigo anterior aos do Instituto e que exercerá também as funções directivas do Instituto enquanto não for nomeada a direcção, constituída nos termos do artigo 11.º deste decreto.
 
-###### Art. 78.º É extinto o Fundo de Apoio à Pesca, criado pelo Diploma Legislativo n.º 3028, de 23 de Dezembro de 1959, transitando os seus activo e passivo para o Fundo a que se refere o artigo 9.º deste decreto.
+Art. 78.º É extinto o Fundo de Apoio à Pesca, criado pelo Diploma Legislativo n.º 3028, de 23 de Dezembro de 1959, transitando os seus activo e passivo para o Fundo a que se refere o artigo 9.º deste decreto.
 
-###### Art. 79.º O governador-geral promoverá com urgência a revisão dos actuais estatutos dos grémios dos industriais de pesca de Angola por forma a ajustarem as suas disposições às que constam deste decreto.
+Art. 79.º O governador-geral promoverá com urgência a revisão dos actuais estatutos dos grémios dos industriais de pesca de Angola por forma a ajustarem as suas disposições às que constam deste decreto.
 
-###### Art. 80.º O governador-geral promoverá o saneamento da actual situação financeira dos grémios dos industriais de pesca, baseando-se para esse efeito em parecer do Instituto.
+Art. 80.º O governador-geral promoverá o saneamento da actual situação financeira dos grémios dos industriais de pesca, baseando-se para esse efeito em parecer do Instituto.
 
-###### Art. 81.º O governador-geral de Angola, ouvido o Instituto, estabelecerá as normas e a disciplina para a comercialização dos produtos e publicará as instruções e os regulamentos necessários para perfeita execução deste decreto.
+Art. 81.º O governador-geral de Angola, ouvido o Instituto, estabelecerá as normas e a disciplina para a comercialização dos produtos e publicará as instruções e os regulamentos necessários para perfeita execução deste decreto.
 
-###### Art. 82.º O governador-geral poderá estabelecer regime, pelo tempo e com as condições que julgue convenientes, segundo o qual os grémios dos industriais de pesca poderão promover a venda dos produtos que lhes forem consignados por carta pelos industriais que não estejam habilitados a exercer por si a actividade comercial.
+Art. 82.º O governador-geral poderá estabelecer regime, pelo tempo e com as condições que julgue convenientes, segundo o qual os grémios dos industriais de pesca poderão promover a venda dos produtos que lhes forem consignados por carta pelos industriais que não estejam habilitados a exercer por si a actividade comercial.
 
 § único. A liquidação pelos grémios aos industriais deverá ser efectuada no prazo máximo de três dias, após o recebimento do respectivo crédito, deduzidas as despesas respeitantes à venda da mercadoria e as taxas devidas aos organismos corporativos.
 
-###### Art. 83.º Das decisões do Instituto e do Fundo de Apoio às Indústrias de Pesca caberá recurso para o governador-geral e deste para o Conselho Ultramarino.
+Art. 83.º Das decisões do Instituto e do Fundo de Apoio às Indústrias de Pesca caberá recurso para o governador-geral e deste para o Conselho Ultramarino.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 18 de Agosto de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

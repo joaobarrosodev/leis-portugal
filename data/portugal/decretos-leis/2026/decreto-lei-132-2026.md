@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/132/2026/07/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2026-1143461618
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-03T00:00:00Z'
+  retrieved_at: '2026-10-22T18:45:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b780871c92282acb4b20a2ec4a6d8d6127742d6e67f9c352126f3acb5680e02f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac9b028baf020c4eec195a0d7b91fbd38d63b50e07b56b3e6eaf4aa77d1dcdf3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:45:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Livro de Reclamações
-- Multa
 - Concurso Público
+- Contraordenação
 - Controlo de Qualidade
 - Definição de Competências
 - Especificação Técnica
 - Fiscalização
-- Instituto da Mobilidade e dos Transportes Terrestres
 - Inspecção de Veículos
-- Publicitação
+- Instituto da Mobilidade e dos Transportes Terrestres
+- Internet
 - Licenciamento
-- Veículo
-- Segurança Rodoviária
+- Livro de Reclamações
+- Multa
 - Normas de Segurança
 - Página na Internet
 - Pessoal de Inspecção
 - Pessoal Técnico de Inspecção
-- Internet
 - Preço
 - Proteção do Consumidor
+- Publicitação
 - Regime Jurídico
 - Regulamento CE
+- Segurança Rodoviária
 - Taxa
-- Contraordenação
+- Veículo
 relationships:
+- type: amends
+  target: pt:numero:lei:11/2011
+  label: Altera, a partir de 1 de outubro de 2026, o artigo 1.º e revoga o n.º 2 do artigo 1.º, os artigos 2.º, 3.º, 4º, 5.º,
+    6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.º, 16.º, 17.º, o n.º 5 do artigo 18.º, os artigos 21.º, 22.º, 23.º
+    24.º, 25.º, os n.ºs 1, 2, 3, 4 e 6 do artigo 26.º, o n.º 1 do artigo 27.º e os artigos 30.º, 31.º, 32.º,33.º, 34.º,35.º
+    e 36.º da Lei n.º 11/2011, de 26 de abril, Diário da República n.º 80/2011, Série I
+  source: null
+  date: '2011-04-26'
 - type: cites
   target: celex:32008R0765
   label: null
@@ -140,16 +148,88 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2009/02/12/
   label: null
   source: http://data.dre.pt/eli/lei/7/2009/02/12/
+- type: cites
+  target: pt:dre:143320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206198366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67142147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835994081:por
+  label: null
+  source: null
 article_structure:
   article_count: 48
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:45:51Z'
   warnings: []
   errors: []
 ---
@@ -182,7 +262,7 @@ O presente decreto-lei:
 
 a) Estabelece o regime jurídico de acesso e de permanência na atividade de inspeção técnica de veículos a motor e seus reboques e o regime de funcionamento dos centros de inspeção;
 
-b) Procede à quarta alteração à [Lei n.º 11/2011](https://diariodarepublica.pt/dr/detalhe/lei/11-2011-287123), de 26 de abril, alterada pelos Decretos-Leis n.<sup>os</sup>[26/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2013-258531), de 19 de fevereiro, [4-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-a-2023-206198366), de 16 de janeiro, e [139-E/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-e-2023-835994081), de 29 de dezembro, que estabelece o regime jurídico de acesso e de permanência na atividade de inspeção técnica de veículos a motor e seus reboques e o regime de funcionamento dos centros de inspeção.
+b) Procede à quarta alteração à [Lei n.º 11/2011](https://diariodarepublica.pt/dr/detalhe/lei/11-2011-287123), de 26 de abril, alterada pelos Decretos-Leis n.os[26/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2013-258531), de 19 de fevereiro, [4-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-a-2023-206198366), de 16 de janeiro, e [139-E/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-e-2023-835994081), de 29 de dezembro, que estabelece o regime jurídico de acesso e de permanência na atividade de inspeção técnica de veículos a motor e seus reboques e o regime de funcionamento dos centros de inspeção.
 
 ###### Artigo 2.º — Definições
 
@@ -344,7 +424,7 @@ a) Documento Europeu Único de Contratação Pública;
 
 b) Documento que comprove o cumprimento do limite à instalação dos centros de inspeção;
 
-c) Pedido de informação prévia a que se refere os n.<sup>os</sup>2 e 3 do artigo 14.º do Regime Jurídico da Urbanização e Edificação, aprovado pelo [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro (RJUE), sem restrições à edificação do centro de inspeção.
+c) Pedido de informação prévia a que se refere os n.os2 e 3 do artigo 14.º do Regime Jurídico da Urbanização e Edificação, aprovado pelo [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro (RJUE), sem restrições à edificação do centro de inspeção.
 
 5 - A não entrega da documentação de instrução do procedimento é causa de exclusão da candidatura.
 
@@ -572,7 +652,7 @@ A cessão da posição contratual ou subcontratação da entidade gestora da ges
 
 2 - A prorrogação do contrato é requerida pela entidade gestora ao IMT, I. P., com a antecedência de seis meses relativamente ao termo do contrato, mediante a apresentação de requerimento instruído com todos os documentos comprovativos da verificação das condições de acesso à atividade.
 
-3 - Se os contratos de gestão tiverem visto o prazo de aprovação prorrogado nos termos dos n.<sup>os</sup>6 e 7 do artigo 17.º, esse prazo é descontado no prazo de execução do contrato.
+3 - Se os contratos de gestão tiverem visto o prazo de aprovação prorrogado nos termos dos n.os6 e 7 do artigo 17.º, esse prazo é descontado no prazo de execução do contrato.
 
 ###### Artigo 20.º — Mudança de instalações
 
@@ -766,7 +846,7 @@ e) O exercício da atividade de inspeção técnica de veículos por entidade qu
 
 f) A admissão de um diretor técnico em violação do disposto no n.º 7 do artigo 13.º;
 
-g) O exercício da atividade de inspeção técnica de veículos por entidade que não cumpra os requisitos técnicos de acesso à atividade referentes aos recursos tecnológicos previstos nos n.<sup>os</sup>1, 4, 5 e 8 do artigo 14.º;
+g) O exercício da atividade de inspeção técnica de veículos por entidade que não cumpra os requisitos técnicos de acesso à atividade referentes aos recursos tecnológicos previstos nos n.os1, 4, 5 e 8 do artigo 14.º;
 
 h) A cessão ou subcontratação da gestão de centro de inspeção sem autorização do IMT, I. P., em incumprimento do disposto no artigo 18.º;
 
@@ -774,11 +854,11 @@ i) A continuação do exercício da atividade quando tenha havido lugar à resol
 
 j) Alterações dos centros de inspeção não autorizadas pelo IMT, I. P., nos termos do n.º 1 do artigo 25.º;
 
-k) A inspeção de veículos pela entidade gestora em violação do regime de incompatibilidades previsto nos n.<sup>os</sup>1 e 2 do artigo 28.º;
+k) A inspeção de veículos pela entidade gestora em violação do regime de incompatibilidades previsto nos n.os1 e 2 do artigo 28.º;
 
-l) A interrupção da atividade dos centros de inspeção sem publicitação ou sem a informação exigida, nos termos previsto nos n.<sup>os</sup>1 e 2 do artigo 29.º;
+l) A interrupção da atividade dos centros de inspeção sem publicitação ou sem a informação exigida, nos termos previsto nos n.os1 e 2 do artigo 29.º;
 
-m) A interrupção ou o reinício da atividade dos centros de inspeção sem autorização do IMT, I. P., nos termos dos n.<sup>os</sup>3 e 4 do artigo 29.º;
+m) A interrupção ou o reinício da atividade dos centros de inspeção sem autorização do IMT, I. P., nos termos dos n.os3 e 4 do artigo 29.º;
 
 n) O incumprimento do período de funcionamento do centro de inspeção nos termos comunicados ao IMT, I. P., em violação do n.º 1 do artigo 30.º;
 
@@ -788,7 +868,7 @@ p) A continuação do exercício da atividade quando tenha havido suspensão cau
 
 q) A cobrança de tarifas em valor inferior ou superior ao fixado nos termos do artigo 39.º
 
-2 - Constitui contraordenação punível com coima de 1000,00 € a 3000,00 € o exercício da atividade por entidade gestora em incumprimento dos deveres previstos nos n.<sup>os</sup>1 e 2 do artigo 27.º
+2 - Constitui contraordenação punível com coima de 1000,00 € a 3000,00 € o exercício da atividade por entidade gestora em incumprimento dos deveres previstos nos n.os1 e 2 do artigo 27.º
 
 3 - Constitui contraordenação punível com coima de 250,00 € a 500,00 € a recusa de repetição de inspeção a que se refere o n.º 3 do artigo 32.º
 
@@ -852,7 +932,9 @@ b) O regime de certificação das entidades formadoras que pretendam exercer a a
 
 3 - As tarifas são adequadamente publicitadas, designadamente, através de afixação nos centros de inspeção, em local de fácil acesso ao público.
 
-###### Artigo 40.º — Livro de reclamações
+###### Artigo 40.º
+
+## Livro de reclamações
 
 Os centros de inspeção de veículos devem possuir livro de reclamações, nos termos do [Decreto-Lei n.º 156/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2005-143320), de 15 de setembro.
 
@@ -896,7 +978,7 @@ c) Quanto às contraordenações e respetivo processamento, o regime geral do il
 
 ###### Artigo 47.º — Norma revogatória
 
-São revogados o n.º 2 do artigo 1.º, os artigos 2.º a 17.º, o n.º 5 do artigo 18.º, os artigos 21.º a 25.º, os n.<sup>os</sup>1 a 4 e 6 do artigo 26.º, o n.º 1 do artigo 27.º e os artigos 30.º ao 36.º da [Lei n.º 11/2011](https://diariodarepublica.pt/dr/detalhe/lei/11-2011-287123), de 26 de abril.
+São revogados o n.º 2 do artigo 1.º, os artigos 2.º a 17.º, o n.º 5 do artigo 18.º, os artigos 21.º a 25.º, os n.os1 a 4 e 6 do artigo 26.º, o n.º 1 do artigo 27.º e os artigos 30.º ao 36.º da [Lei n.º 11/2011](https://diariodarepublica.pt/dr/detalhe/lei/11-2011-287123), de 26 de abril.
 
 ###### Artigo 48.º — Entrada em vigor
 
@@ -904,12 +986,14 @@ O presente decreto-lei entra em vigor 90 dias após a respetiva publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de abril de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Miguel Martinez de Castro Pinto Luz.
 
-**Promulgado em 19 de junho de 2026.**
+Promulgado em 19 de junho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 23 de junho de 2026.**
+Referendado em 23 de junho de 2026.
 
 Pelo Primeiro-Ministro, Joaquim Miranda Sarmento, Ministro de Estado e das Finanças.
+
+119948900

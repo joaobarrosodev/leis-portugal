@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/8/1999/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-1999-150948
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-03T00:00:00Z'
+  retrieved_at: '2026-10-22T18:54:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fcd2e177f572573b1cbc6bf8ffff53fd28855875bb81d116b7d4df9b0986f39f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05bdca6fc096bf910eb8d8dcb3f3646ad021864be56ceb1bc08bb699f8431291
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:54:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,99 +66,103 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Exploração Mineira
-- Região Autónoma
-- Empresa
-- Modernização Administrativa
-- Turismo
-- Promoção Turística
-- Imposto sobre Produtos Petrolíferos
-- Silvicultura
-- Reforma Fiscal
-- Política Fiscal
-- Ordenamento do Território
-- Contrato de Adaptação Ambiental
-- EURO
-- Política Industrial
-- Desenvolvimento Regional
-- Mudança Tecnológica
-- Política Energética
-- União Europeia
+- Açores
+- Administração Local
 - Administração Pública
-- Política de Saúde
-- Política Externa
-- Segurança Pública
-- Finanças Públicas
-- Política de Defesa
-- Pesca
 - Apoio ao Investimento
-- Grandes Opções do Plano
-- Igualdade de Oportunidades
-- Imposto do SELO
+- Autarquia Local
+- Comércio
+- Contrato de Adaptação Ambiental
 - Contribuições e Impostos
-- IRS
-- IVA
+- Desenvolvimento Regional
+- Desporto
+- Emprego
+- Empresa
+- EURO
+- Exploração Mineira
+- Finanças Públicas
+- Grandes Opções do Plano
+- Habitação
+- Igualdade de Oportunidades
+- Imposto Automóvel
+- Imposto do SELO
+- Imposto sobre Produtos Petrolíferos
 - Impostos Directos
 - Impostos Indirectos
 - Indústria
-- Sociedade da Informação
-- QCA
+- Indústria Transformadora
 - Investimento Público
+- IRC
+- IRS
+- IVA
 - Justiça
-- Propriedade Industrial
 - Licenciamento
+- Madeira.região Autónoma
 - Mercado de Capitais
+- Modernização Administrativa
 - Modernização Tecnológica
-- Tabaco
+- Mudança Tecnológica
+- Ordenamento do Território
+- Pesca
 - Piddac
 - Planeamento
-- Toxicodependente
+- Política Agrícola
 - Política Cultural
+- Política de Defesa
+- Política de Educação
+- Política de Emprego
 - Política de Habitação
 - Política de Investigação e Desenvolvimento
+- Política de Juventude
+- Política de Saúde
 - Política do Ambiente
 - Política Económica
-- Política de Educação
+- Política Energética
+- Política Externa
 - Política Financeira
+- Política Fiscal
 - Política Governamental
+- Política Industrial
 - Política Orçamental
 - Política Social
-- Urbanismo
-- IRC
 - Privatização
-- Qualificação Profissional
-- Emprego
-- Madeira.região Autónoma
-- Política de Emprego
+- Promoção Turística
+- Propriedade Industrial
 - Proteção do Consumidor
-- Política Agrícola
 - Proteção Social
-- Administração Local
+- QCA
+- Qualificação Profissional
+- Reforma Fiscal
+- Região Autónoma
 - Regionalização
-- Política de Juventude
-- Habitação
-- Imposto Automóvel
-- Indústria Transformadora
+- Segurança Pública
 - Segurança Social
-- Açores
-- Comércio
-- Desporto
-- Autarquia Local
+- Silvicultura
+- Sociedade da Informação
+- Tabaco
+- Toxicodependente
+- Turismo
+- União Europeia
+- Urbanismo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/87-a/1998/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/87-a/1998/12/31/p/dre
+- type: cites
+  target: pt:dre:570508:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:54:57Z'
   warnings: []
   errors: []
 ---
@@ -171,18 +175,18 @@ No documento intitulado «Grandes Opções do Plano Nacional para 1999», em «I
 
 No mapa «PIDDAC 99», onde se lê:
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/03/052a00/11921193.pdf)
+[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/03/052a00/11921193.pdf)](https://files.diariodarepublica.pt/1s/1999/03/052a00/11921193.pdf)](https://files.diariodarepublica.pt/1s/1999/03/052a00/11921193.pdf)](https://files.diariodarepublica.pt/1s/1999/03/052a00/11921193.pdf)
 
 deve ler-se:
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/03/052a00/11921193.pdf)
+[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/03/052a00/11921193.pdf)](https://files.diariodarepublica.pt/1s/1999/03/052a00/11921193.pdf)](https://files.diariodarepublica.pt/1s/1999/03/052a00/11921193.pdf)](https://files.diariodarepublica.pt/1s/1999/03/052a00/11921193.pdf)
 
 No mapa «PIDDAC 99 - Fontes de financiamento», onde se lê:
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/03/052a00/11921193.pdf)
+[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/03/052a00/11921193.pdf)](https://files.diariodarepublica.pt/1s/1999/03/052a00/11921193.pdf)](https://files.diariodarepublica.pt/1s/1999/03/052a00/11921193.pdf)](https://files.diariodarepublica.pt/1s/1999/03/052a00/11921193.pdf)
 
 deve ler-se:
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/03/052a00/11921193.pdf)
+[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/03/052a00/11921193.pdf)](https://files.diariodarepublica.pt/1s/1999/03/052a00/11921193.pdf)](https://files.diariodarepublica.pt/1s/1999/03/052a00/11921193.pdf)](https://files.diariodarepublica.pt/1s/1999/03/052a00/11921193.pdf)
 
 Assembleia da República, 11 de Fevereiro de 1999. - A Secretária-Geral, Adelina Sá Carvalho.

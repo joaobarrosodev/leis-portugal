@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/15/2026/01/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-2026-1019913912
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-22T00:00:00Z'
+  retrieved_at: '2026-10-22T18:29:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 335430e0c215e03d7863389bc545c01caa9122fee42d73056aabca795ce3f84c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e67b0bc3fdb54044aa012193d83bbe55825863559c62bc36271aecf6e783158
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:29:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects:
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
-- Transporte Aéreo
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
-- Ministro dos Negócios Estrangeiros
+- Governo XXV
 - Lista de Entidades
 - Ministério dos Negócios Estrangeiros
+- Ministro dos Negócios Estrangeiros
+- Transporte Aéreo
 - Viagem Oficial
-- Governo XXV
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
@@ -94,16 +94,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:29:47Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +138,7 @@ O valor estimado da despesa a realizar neste âmbito não deve exceder o total d
 
 Assim:
 
-Nos termos da alínea e) do n.º 1 do artigo 17.º e dos n.<sup>os</sup>1 e 2 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, do n.º 1 do artigo 109.º e do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e dos n.os1 e 2 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, do n.º 1 do artigo 109.º e do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Autorizar entidades adjudicantes, constantes do anexo à presente resolução e da qual faz parte integrante, a realizar a despesa relativa à contratação de serviços de viagens, transportes aéreos e alojamentos, para os anos de 2026 a 2029, por um período de 36 meses, até ao montante máximo global de 12 760 876,25 €, a que acresce o imposto sobre o valor acrescentado (IVA), à taxa legal em vigor, caso aplicável.
 
@@ -138,7 +154,7 @@ Nos termos da alínea e) do n.º 1 do artigo 17.º e dos n.<sup>os</sup>1 e 2 do
 
 Presidência do Conselho de Ministros, 9 de janeiro de 2026. - O Primeiro-Ministro, Luís Montenegro.
 
-## ANEXO — (a que se referem os n.<sup>os</sup>1, 2 e 3)
+## ANEXO — (a que se referem os n.os1, 2 e 3)
 
 Repartição de encargos por entidades adjudicantes
 
@@ -157,6 +173,10 @@ Repartição de encargos por entidades adjudicantes
 |  | Direção-Geral de Direito Europeu e Internacional (DGDEI) | 100 000,00 € | 200 000,00 € | 200 000,00 € | 100 000,00 € | 600 000,00 € |
 |  | Comissão Nacional da Unesco (CNU) | 11 121,44 € | 22 242,87 € | 22 242,87 € | 11 121,44 € | 66 728,61 € |
 |  | Subtotal GAFMNE | 1 506 635,81 € | 3 013 271,61 € | 3 013 271,61 € | 1 506 635,81 € | 9 039 814,83 € |
-| Total AG+GAF | Total AG+GAF | 1 800 000,00 € | 3 600 000,00 € | 3 600 000,00 € | 1 800 000,00 € | 10 800 000,00 € |
-| Camões, I. P., NIF 510322506 | Camões, I. P., NIF 510322506 | 142 375,00 € | 569 500,00 € | 597 975,00 € | 651 026,25 € | 1 960 876,25 € |
-| MNE Total | MNE Total | 1 942 375,00 € | 4 169 500,00 € | 4 197 975,00 € | 2 451 026,25 € | 12 760 876,25 € |
+| Total AG+GAF | 1 800 000,00 € | 3 600 000,00 € | 3 600 000,00 € | 1 800 000,00 € | 10 800 000,00 € |  |
+| Camões, I. P., NIF 510322506 | 142 375,00 € | 569 500,00 € | 597 975,00 € | 651 026,25 € | 1 960 876,25 € |  |
+| MNE Total | 1 942 375,00 € | 4 169 500,00 € | 4 197 975,00 € | 2 451 026,25 € | 12 760 876,25 € |  |
+
+119947343
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:28px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:37px; } .Tbl6 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:top; } .Tbl9 { min-height:47px; } .Tbl10 { border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:none; border-bottom-width:1px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl11 { min-height:57px; } .Tbl12 { min-height:18px; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:none; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl14 { min-height:28px; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; }

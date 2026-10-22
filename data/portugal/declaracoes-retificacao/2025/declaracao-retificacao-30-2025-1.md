@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/06/11800/0000300051.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/30/2025/06/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/30-2025-922108245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-06-23T00:00:00Z'
+  retrieved_at: '2026-10-22T19:16:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 027ba694c6ba9680981a88daf3679e05abe2bcaaa2f51008100a93e48eec90d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a0331147c74059677c74cdceb4ff7052c674fabd1e4575880a25fcb4f7becec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:16:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Simbolo de Identificação
-- Bombeiro
-- Regulamento
-- Fardamento
 - Autoridade Nacional de Emergência e Proteção Civil
+- Bombeiro
+- Fardamento
+- Regulamento
+- Simbolo de Identificação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/241/2007/06/21/p/dre
@@ -99,16 +99,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/845/2008/08/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/845/2008/08/12/p/dre
+- type: cites
+  target: pt:dre:121748967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870819244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:918700390:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:portaria:226/2025
+  label: Retifica os n.ºs 2 e 3 do artigo 1.º, n.º 3 do artigo 4.º, artigo 17.º, alínea d) do artigo 26.º, alínea c) do artigo
+    27.º, artigo 45.º, artigo 52.º, pontos 1.1, 1.2, 1.3, 1.4, 2.2, 2.3 e 2.4 do anexo i e o quadro previsto no anexo iii
+    do Regulamento de Uniformes, Insígnias e Identificações dos Bombeiros Voluntários, aprovado pela Portaria n.º 226/2025/1,
+    de 20 de maio, Diário da República n.º 96/2025, Série I e republica o referido diploma
+  source: null
+  date: '2025-05-20'
 article_structure:
   article_count: 55
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:16:01Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +161,7 @@ validation:
 
 Ao abrigo do disposto no n.º 1 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, e no artigo 5.º da [Lei n.º 74/98](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), de 11 de novembro, alterada e republicada pela [Lei n.º 43/2014](https://diariodarepublica.pt/dr/detalhe/lei/43-2014-25345900), de 11 de julho, declara-se que a [Portaria n.º 226/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/226-2025-918700390), publicada no Diário da República, 1.ª série, n.º 95, de 20 de maio de 2025, foi publicada com as seguintes inexatidões e erros materiais, que se retificam para se garantir a coerência entre o texto do regulamento e os seus anexos:
 
-1 - Nos n.<sup>os</sup> 2 e 3 do artigo 1.º do Regulamento de Uniformes, Insígnias e Identificações dos Bombeiros Voluntários, onde se lê:
+1 - Nos n.os 2 e 3 do artigo 1.º do Regulamento de Uniformes, Insígnias e Identificações dos Bombeiros Voluntários, onde se lê:
 
 «2 - O presente Regulamento aplica-se a todos os elementos das carreiras de bombeiro voluntário, de oficial bombeiro e de bombeiro especialista, assim como aos elementos dos quadros de comando e aos infantes, cadetes e estagiários.
 
@@ -227,210 +271,210 @@ deve ler-se:
 
 8 - No ponto 1.1 e 1.2 do anexo i do Regulamento de Uniformes, Insígnias e Identificações dos Bombeiros Voluntários, onde se lê:
 
-| Composição | Artigo | Artigo de referência | Figura | Observações |
+| Uniforme n.º 1 \| Uniforme de representação |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Uniforme n.º 1 \\| Uniforme de representação | Uniforme n.º 1 \\| Uniforme de representação | Uniforme n.º 1 \\| Uniforme de representação | Uniforme n.º 1 \\| Uniforme de representação | Uniforme n.º 1 \\| Uniforme de representação |
+| Composição | Artigo | Artigo de referência | Figura | Observações |
 | 1.1Composição de gala | Calças do uniforme n.º 1 | 12.º | 13 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado. |
-| 1.1Composição de gala | Saia do uniforme n.º 1 | 13.º | 14 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado. |
-| 1.1Composição de gala | Camisa | 9.º | 7/8/9/10 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado. |
-| 1.1Composição de gala | Casaco do uniforme n.º 1 | 7.º | 5 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado. |
-| 1.1Composição de gala | Cinto de precinta | 11.º | 12 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado. |
-| 1.1Composição de gala | Gravata | 10.º | 11 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado. |
-| 1.1Composição de gala | Meias/peúgas | 14.º | 15/16 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado. |
-| 1.1Composição de gala | Sapatos | 15.º | 17/18 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado. |
-| 1.1Composição de gala | Luvas pretas | 16.º, n.º 1 | 19/20 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado. |
-| 1.1Composição de gala | Cordões | 6.º, n.º 2 | 3 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado. |
-| 1.1Composição de gala | Charlateiras | 6.º, n.º 3 | 4 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado. |
+| Saia do uniforme n.º 1 | 13.º | 14 |  |  |
+| Camisa | 9.º | 7/8/9/10 |  |  |
+| Casaco do uniforme n.º 1 | 7.º | 5 |  |  |
+| Cinto de precinta | 11.º | 12 |  |  |
+| Gravata | 10.º | 11 |  |  |
+| Meias/peúgas | 14.º | 15/16 |  |  |
+| Sapatos | 15.º | 17/18 |  |  |
+| Luvas pretas | 16.º, n.º 1 | 19/20 |  |  |
+| Cordões | 6.º, n.º 2 | 3 |  |  |
+| Charlateiras | 6.º, n.º 3 | 4 |  |  |
 | 1.2Composição de cerimónia | Calças do uniforme n.º 1 | 12.º | 13 | Utilizada, com medalhas, nas seguintes ocasiões:• Atos solenes dos corpos de bombeiros;• Atos oficiais ou particulares a que corresponda o uso de fato;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.2Composição de cerimónia | Saia do uniforme n.º 1 | 13.º | 14 | Utilizada, com medalhas, nas seguintes ocasiões:• Atos solenes dos corpos de bombeiros;• Atos oficiais ou particulares a que corresponda o uso de fato;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.2Composição de cerimónia | Camisa | 9.º | 7/8/9/10 | Utilizada, com medalhas, nas seguintes ocasiões:• Atos solenes dos corpos de bombeiros;• Atos oficiais ou particulares a que corresponda o uso de fato;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.2Composição de cerimónia | Casaco do uniforme n.º 1 | 7.º | 5 | Utilizada, com medalhas, nas seguintes ocasiões:• Atos solenes dos corpos de bombeiros;• Atos oficiais ou particulares a que corresponda o uso de fato;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.2Composição de cerimónia | Cinto de precinta | 11.º | 12 | Utilizada, com medalhas, nas seguintes ocasiões:• Atos solenes dos corpos de bombeiros;• Atos oficiais ou particulares a que corresponda o uso de fato;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.2Composição de cerimónia | Gravata | 10.º | 11 | Utilizada, com medalhas, nas seguintes ocasiões:• Atos solenes dos corpos de bombeiros;• Atos oficiais ou particulares a que corresponda o uso de fato;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.2Composição de cerimónia | Meias/peúgas | 14.º | 15/16 | Utilizada, com medalhas, nas seguintes ocasiões:• Atos solenes dos corpos de bombeiros;• Atos oficiais ou particulares a que corresponda o uso de fato;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.2Composição de cerimónia | Sapatos | 15.º | 17/18 | Utilizada, com medalhas, nas seguintes ocasiões:• Atos solenes dos corpos de bombeiros;• Atos oficiais ou particulares a que corresponda o uso de fato;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.2Composição de cerimónia | Luvas pretas | 16.º, n.º 1 | 19/20 | Utilizada, com medalhas, nas seguintes ocasiões:• Atos solenes dos corpos de bombeiros;• Atos oficiais ou particulares a que corresponda o uso de fato;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
+| Saia do uniforme n.º 1 | 13.º | 14 |  |  |
+| Camisa | 9.º | 7/8/9/10 |  |  |
+| Casaco do uniforme n.º 1 | 7.º | 5 |  |  |
+| Cinto de precinta | 11.º | 12 |  |  |
+| Gravata | 10.º | 11 |  |  |
+| Meias/peúgas | 14.º | 15/16 |  |  |
+| Sapatos | 15.º | 17/18 |  |  |
+| Luvas pretas | 16.º, n.º 1 | 19/20 |  |  |
 
 é introduzida a «boina» e alterado o artigo «camisa» para «camisa de manga comprida» passando a ler-se:
 
-| Composição | Artigo | Artigo de referência | Figura | Observações |
+| Uniforme n.º 1 \| Uniforme de representação |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Uniforme n.º 1 \\| Uniforme de representação | Uniforme n.º 1 \\| Uniforme de representação | Uniforme n.º 1 \\| Uniforme de representação | Uniforme n.º 1 \\| Uniforme de representação | Uniforme n.º 1 \\| Uniforme de representação |
+| Composição | Artigo | Artigo de referência | Figura | Observações |
 | 1.1Composição de gala | Boina | 19.º | 28 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado. |
-| 1.1Composição de gala | Calças do uniforme n.º 1 | 12.º | 13 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado. |
-| 1.1Composição de gala | Saia do uniforme n.º 1 | 13.º | 14 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado. |
-| 1.1Composição de gala | Camisa de manga comprida | 9.º | 7/9 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado. |
-| 1.1Composição de gala | Casaco do uniforme n.º 1 | 7.º | 5 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado. |
-| 1.1Composição de gala | Cinto de precinta | 11.º | 12 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado. |
-| 1.1Composição de gala | Gravata | 10.º | 11 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado. |
-| 1.1Composição de gala | Meias/peúgas | 14.º | 15/16 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado. |
-| 1.1Composição de gala | Sapatos | 15.º | 17/18 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado. |
-| 1.1Composição de gala | Luvas pretas | 16.º, n.º 1 | 19/20 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado. |
-| 1.1Composição de gala | Cordões | 6.º, n.º 2 | 3 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado. |
-| 1.1Composição de gala | Charlateiras | 6.º, n.º 3 | 4 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado. |
+| Calças do uniforme n.º 1 | 12.º | 13 |  |  |
+| Saia do uniforme n.º 1 | 13.º | 14 |  |  |
+| Camisa de manga comprida | 9.º | 7/9 |  |  |
+| Casaco do uniforme n.º 1 | 7.º | 5 |  |  |
+| Cinto de precinta | 11.º | 12 |  |  |
+| Gravata | 10.º | 11 |  |  |
+| Meias/peúgas | 14.º | 15/16 |  |  |
+| Sapatos | 15.º | 17/18 |  |  |
+| Luvas pretas | 16.º, n.º 1 | 19/20 |  |  |
+| Cordões | 6.º, n.º 2 | 3 |  |  |
+| Charlateiras | 6.º, n.º 3 | 4 |  |  |
 | 1.2Composição de cerimónia | Boina | 19.º | 28 | Utilizada, com medalhas, nas seguintes ocasiões:• Atos solenes dos corpos de bombeiros;• Atos oficiais ou particulares a que corresponda o uso de fato;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.2Composição de cerimónia | Calças do uniforme n.º 1 | 12.º | 13 | Utilizada, com medalhas, nas seguintes ocasiões:• Atos solenes dos corpos de bombeiros;• Atos oficiais ou particulares a que corresponda o uso de fato;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.2Composição de cerimónia | Saia do uniforme n.º 1 | 13.º | 14 | Utilizada, com medalhas, nas seguintes ocasiões:• Atos solenes dos corpos de bombeiros;• Atos oficiais ou particulares a que corresponda o uso de fato;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.2Composição de cerimónia | Camisa de manga comprida | 9.º | 7/9 | Utilizada, com medalhas, nas seguintes ocasiões:• Atos solenes dos corpos de bombeiros;• Atos oficiais ou particulares a que corresponda o uso de fato;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.2Composição de cerimónia | Casaco do uniforme n.º 1 | 7.º | 5 | Utilizada, com medalhas, nas seguintes ocasiões:• Atos solenes dos corpos de bombeiros;• Atos oficiais ou particulares a que corresponda o uso de fato;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.2Composição de cerimónia | Cinto de precinta | 11.º | 12 | Utilizada, com medalhas, nas seguintes ocasiões:• Atos solenes dos corpos de bombeiros;• Atos oficiais ou particulares a que corresponda o uso de fato;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.2Composição de cerimónia | Gravata | 10.º | 11 | Utilizada, com medalhas, nas seguintes ocasiões:• Atos solenes dos corpos de bombeiros;• Atos oficiais ou particulares a que corresponda o uso de fato;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.2Composição de cerimónia | Meias/peúgas | 14.º | 15/16 | Utilizada, com medalhas, nas seguintes ocasiões:• Atos solenes dos corpos de bombeiros;• Atos oficiais ou particulares a que corresponda o uso de fato;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.2Composição de cerimónia | Sapatos | 15.º | 17/18 | Utilizada, com medalhas, nas seguintes ocasiões:• Atos solenes dos corpos de bombeiros;• Atos oficiais ou particulares a que corresponda o uso de fato;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.2Composição de cerimónia | Luvas pretas | 16.º, n.º 1 | 19/20 | Utilizada, com medalhas, nas seguintes ocasiões:• Atos solenes dos corpos de bombeiros;• Atos oficiais ou particulares a que corresponda o uso de fato;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
+| Calças do uniforme n.º 1 | 12.º | 13 |  |  |
+| Saia do uniforme n.º 1 | 13.º | 14 |  |  |
+| Camisa de manga comprida | 9.º | 7/9 |  |  |
+| Casaco do uniforme n.º 1 | 7.º | 5 |  |  |
+| Cinto de precinta | 11.º | 12 |  |  |
+| Gravata | 10.º | 11 |  |  |
+| Meias/peúgas | 14.º | 15/16 |  |  |
+| Sapatos | 15.º | 17/18 |  |  |
+| Luvas pretas | 16.º, n.º 1 | 19/20 |  |  |
 
 9 - No ponto 1.3 do anexo i do Regulamento de Uniformes, Insígnias e Identificações dos Bombeiros Voluntários, onde se lê:
 
-| Composição | Artigo | Artigo de referência | Figura | Observações |
+| Uniforme n.º 1 \| Uniforme de representação |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Uniforme n.º 1 \\| Uniforme de representação | Uniforme n.º 1 \\| Uniforme de representação | Uniforme n.º 1 \\| Uniforme de representação | Uniforme n.º 1 \\| Uniforme de representação | Uniforme n.º 1 \\| Uniforme de representação |
+| Composição | Artigo | Artigo de referência | Figura | Observações |
 | 1.3Composição para guardas de honra e desfiles | Boina | 19.º | 28 | Utilizada nas seguintes ocasiões:• Guardas de honra e desfiles;• Sempre que determinado.Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-| 1.3Composição para guardas de honra e desfiles | Calças do uniforme n.º 1 | 12.º | 13 | Utilizada nas seguintes ocasiões:• Guardas de honra e desfiles;• Sempre que determinado.Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-| 1.3Composição para guardas de honra e desfiles | Saia do uniforme n.º 1 | 13.º | 14 | Utilizada nas seguintes ocasiões:• Guardas de honra e desfiles;• Sempre que determinado.Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-| 1.3Composição para guardas de honra e desfiles | Camisa de manga comprida | 9.º, n.<sup>os</sup>1 e 3 | 7/9 | Utilizada nas seguintes ocasiões:• Guardas de honra e desfiles;• Sempre que determinado.Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-| 1.3Composição para guardas de honra e desfiles | Capacete de desfile (a) | 5.º | 1 | Utilizada nas seguintes ocasiões:• Guardas de honra e desfiles;• Sempre que determinado.Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-| 1.3Composição para guardas de honra e desfiles | Casaco do uniforme n.º 1 | 7.º | 5 | Utilizada nas seguintes ocasiões:• Guardas de honra e desfiles;• Sempre que determinado.Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-| 1.3Composição para guardas de honra e desfiles | Cinto de precinta | 11.º | 12 | Utilizada nas seguintes ocasiões:• Guardas de honra e desfiles;• Sempre que determinado.Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-| 1.3Composição para guardas de honra e desfiles | Cinturão de desfile | 30.º, n.º 2 | 42 | Utilizada nas seguintes ocasiões:• Guardas de honra e desfiles;• Sempre que determinado.Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-| 1.3Composição para guardas de honra e desfiles | Luvas brancas | 16.º, n.º 2 | 21 | Utilizada nas seguintes ocasiões:• Guardas de honra e desfiles;• Sempre que determinado.Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-| 1.3Composição para guardas de honra e desfiles | Machado da guarda de honra | 18.º, n.º 1 | 26 | Utilizada nas seguintes ocasiões:• Guardas de honra e desfiles;• Sempre que determinado.Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-| 1.3Composição para guardas de honra e desfiles | Machado pequeno (b) | 18.º, n.º 2 | 27 | Utilizada nas seguintes ocasiões:• Guardas de honra e desfiles;• Sempre que determinado.Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-| 1.3Composição para guardas de honra e desfiles | Meias/peúgas | 14.º | 15/16 | Utilizada nas seguintes ocasiões:• Guardas de honra e desfiles;• Sempre que determinado.Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-| 1.3Composição para guardas de honra e desfiles | Sapatos ou botas com elásticos nas calças sobre as botas | 15.º/31.º | 17/18/43 | Utilizada nas seguintes ocasiões:• Guardas de honra e desfiles;• Sempre que determinado.Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
+| Calças do uniforme n.º 1 | 12.º | 13 |  |  |
+| Saia do uniforme n.º 1 | 13.º | 14 |  |  |
+| Camisa de manga comprida | 9.º, n.os1 e 3 | 7/9 |  |  |
+| Capacete de desfile (a) | 5.º | 1 |  |  |
+| Casaco do uniforme n.º 1 | 7.º | 5 |  |  |
+| Cinto de precinta | 11.º | 12 |  |  |
+| Cinturão de desfile | 30.º, n.º 2 | 42 |  |  |
+| Luvas brancas | 16.º, n.º 2 | 21 |  |  |
+| Machado da guarda de honra | 18.º, n.º 1 | 26 |  |  |
+| Machado pequeno (b) | 18.º, n.º 2 | 27 |  |  |
+| Meias/peúgas | 14.º | 15/16 |  |  |
+| Sapatos ou botas com elásticos nas calças sobre as botas | 15.º/31.º | 17/18/43 |  |  |
 
 é introduzido o artigo «gravata» passando a ler-se:
 
-| Composição | Artigo | Artigo de referência | Figura | Observações |
+| Uniforme n.º 1 \| Uniforme de representação |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Uniforme n.º 1 \\| Uniforme de representação | Uniforme n.º 1 \\| Uniforme de representação | Uniforme n.º 1 \\| Uniforme de representação | Uniforme n.º 1 \\| Uniforme de representação | Uniforme n.º 1 \\| Uniforme de representação |
+| Composição | Artigo | Artigo de referência | Figura | Observações |
 | 1.3Composição para guardas de honra e desfiles | Boina | 19.º | 28 | Utilizada nas seguintes ocasiões:• Guardas de honra e desfiles;• Sempre que determinado. |
-| 1.3Composição para guardas de honra e desfiles | Calças do uniforme n.º 1 | 12.º | 13 | Utilizada nas seguintes ocasiões:• Guardas de honra e desfiles;• Sempre que determinado. |
-| 1.3Composição para guardas de honra e desfiles | Saia do uniforme n.º 1 | 13.º | 14 | Utilizada nas seguintes ocasiões:• Guardas de honra e desfiles;• Sempre que determinado. |
-|  | Camisa de manga comprida | 9.º, n.<sup>os</sup>1 e 3 | 7/9 | Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-|  | Capacete de desfile (a) | 5.º | 1 | Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-|  | Gravata | 10.º | 11 | Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-|  | Casaco do uniforme n.º 1 | 7.º | 5 | Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-|  | Cinto de precinta | 11.º | 12 | Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-|  | Cinturão de desfile | 30.º, n.º 2 | 42 | Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-|  | Luvas brancas | 16.º, n.º 2 | 21 | Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-|  | Machado da guarda de honra | 18.º, n.º 1 | 26 | Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-|  | Machado pequeno (b) | 18.º, n.º 2 | 27 | Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-|  | Meias/peúgas | 14.º | 15/16 | Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-|  | Sapatos ou botas com elásticos nas calças sobre as botas | 15.º/31.º | 17/18/43 | Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
+| Calças do uniforme n.º 1 | 12.º | 13 |  |  |
+| Saia do uniforme n.º 1 | 13.º | 14 |  |  |
+|  | Camisa de manga comprida | 9.º, n.os1 e 3 | 7/9 | Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
+| Capacete de desfile (a) | 5.º | 1 |  |  |
+| Gravata | 10.º | 11 |  |  |
+| Casaco do uniforme n.º 1 | 7.º | 5 |  |  |
+| Cinto de precinta | 11.º | 12 |  |  |
+| Cinturão de desfile | 30.º, n.º 2 | 42 |  |  |
+| Luvas brancas | 16.º, n.º 2 | 21 |  |  |
+| Machado da guarda de honra | 18.º, n.º 1 | 26 |  |  |
+| Machado pequeno (b) | 18.º, n.º 2 | 27 |  |  |
+| Meias/peúgas | 14.º | 15/16 |  |  |
+| Sapatos ou botas com elásticos nas calças sobre as botas | 15.º/31.º | 17/18/43 |  |  |
 
 10 - No ponto 1.4 do anexo i do Regulamento de Uniformes, Insígnias e Identificações dos Bombeiros Voluntários, é introduzida a referência ao «casaco do uniforme n.º 1», e onde se lê:
 
-| Composição | Artigo | Artigo de referência | Figura | Observações |
+| Uniforme n.º 1 \| Uniforme de representação |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Uniforme n.º 1 \\| Uniforme de representação | Uniforme n.º 1 \\| Uniforme de representação | Uniforme n.º 1 \\| Uniforme de representação | Uniforme n.º 1 \\| Uniforme de representação | Uniforme n.º 1 \\| Uniforme de representação |
+| Composição | Artigo | Artigo de referência | Figura | Observações |
 | 1.4Representação - composição de inverno | Boina | 19.º | 28 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Reuniões, seminários,• Conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.4Representação - composição de inverno | Calças do uniforme n.º 1 | 12.º | 13 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Reuniões, seminários,• Conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.4Representação - composição de inverno | Saia do uniforme n.º 1 | 13.º | 14 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Reuniões, seminários,• Conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.4Representação - composição de inverno | Camisa de manga comprida | 9.º, n.<sup>os</sup>1 e 3 | 7/9 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Reuniões, seminários,• Conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.4Representação - composição de inverno | Camisola interior | 25.º | 34 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Reuniões, seminários,• Conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.4Representação - composição de inverno | Blusão de cabedal | 8.º | 6 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Reuniões, seminários,• Conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
+| Calças do uniforme n.º 1 | 12.º | 13 |  |  |
+| Saia do uniforme n.º 1 | 13.º | 14 |  |  |
+| Camisa de manga comprida | 9.º, n.os1 e 3 | 7/9 |  |  |
+| Camisola interior | 25.º | 34 |  |  |
+| Blusão de cabedal | 8.º | 6 |  |  |
 |  | Gravata | 10.º | 11 |  |
-|  | Cinto de precinta | 11.º | 12 |  |
-|  | Sapatos ou botas | 15.º/31.º | 17/18/43 |  |
+| Cinto de precinta | 11.º | 12 |  |  |
+| Sapatos ou botas | 15.º/31.º | 17/18/43 |  |  |
 
 deve ler-se:
 
-| Composição | Artigo | Artigo de referência | Figura | Observações |
+| Uniforme n.º 1 \| Uniforme de representação |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Uniforme n.º 1 \\| Uniforme de representação | Uniforme n.º 1 \\| Uniforme de representação | Uniforme n.º 1 \\| Uniforme de representação | Uniforme n.º 1 \\| Uniforme de representação | Uniforme n.º 1 \\| Uniforme de representação |
+| Composição | Artigo | Artigo de referência | Figura | Observações |
 | 1.4Representação - composição de inverno | Boina | 19.º | 28 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Reuniões, seminários,• Conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.4Representação - composição de inverno | Calças do uniforme n.º 1 | 12.º | 13 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Reuniões, seminários,• Conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.4Representação - composição de inverno | Saia do uniforme n.º 1 | 13.º | 14 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Reuniões, seminários,• Conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.4Representação - composição de inverno | Camisa de manga comprida | 9.º, n.<sup>os</sup>1 e 3 | 7/9 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Reuniões, seminários,• Conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.4Representação - composição de inverno | Camisola interior | 25.º | 34 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Reuniões, seminários,• Conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.4Representação - composição de inverno | Casaco do uniforme n.º 1 | 7.º | 5 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Reuniões, seminários,• Conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.4Representação - composição de inverno | Blusão de cabedal | 8.º | 6 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Reuniões, seminários,• Conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.4Representação - composição de inverno | Gravata | 10.º | 11 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Reuniões, seminários,• Conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.4Representação - composição de inverno | Cinto de precinta | 11.º | 12 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Reuniões, seminários,• Conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.4Representação - composição de inverno | Sapatos ou botas | 15.º/31.º | 17/18/43 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Reuniões, seminários,• Conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
+| Calças do uniforme n.º 1 | 12.º | 13 |  |  |
+| Saia do uniforme n.º 1 | 13.º | 14 |  |  |
+| Camisa de manga comprida | 9.º, n.os1 e 3 | 7/9 |  |  |
+| Camisola interior | 25.º | 34 |  |  |
+| Casaco do uniforme n.º 1 | 7.º | 5 |  |  |
+| Blusão de cabedal | 8.º | 6 |  |  |
+| Gravata | 10.º | 11 |  |  |
+| Cinto de precinta | 11.º | 12 |  |  |
+| Sapatos ou botas | 15.º/31.º | 17/18/43 |  |  |
 
 11 - No ponto 2.2 e 2.3 do anexo i do Regulamento de Uniformes, Insígnias e Identificações dos Bombeiros Voluntários, onde se lê:
 
-| Composição | Artigo | Artigo de referência | Figura | Observações |
+| Uniforme n.º 2 \| Uniforme de serviço |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Uniforme n.º 2 \\| Uniforme de serviço | Uniforme n.º 2 \\| Uniforme de serviço | Uniforme n.º 2 \\| Uniforme de serviço | Uniforme n.º 2 \\| Uniforme de serviço | Uniforme n.º 2 \\| Uniforme de serviço |
+| Composição | Artigo | Artigo de referência | Figura | Observações |
 | 2.2Serviço ordinário do corpo de bombeiros - composição de inverno | Boina | 19.º | 28 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual; |
-| 2.2Serviço ordinário do corpo de bombeiros - composição de inverno | Gorro | 20.º | 29 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual; |
-| 2.2Serviço ordinário do corpo de bombeiros - composição de inverno | Calças do uniforme n.º 2 | 29.º | 40 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual; |
+| Gorro | 20.º | 29 |  |  |
+| Calças do uniforme n.º 2 | 29.º | 40 |  |  |
 |  | Camisola interior | 25.º | 34 | • Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente; |
-|  | Polo | 26.º | 36 | • Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente; |
-|  | Camisola polar | 27.º | 38 | • Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente; |
-|  | Cinturão | 30.º, n.º 1 | 41 | • Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente; |
-|  | Peúgas | 14.º | 15 | • Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente; |
-|  | Botas | 31.º | 43 | • Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente; |
-|  | Blusão | 24.º | 33 | • Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente; |
-|  | Luvas de agasalho | 16.º, n.º 3 | 22 | • Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente; |
-|  | Gola de agasalho | 23.º | 32 | • Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente; |
-|  | Casaco de agasalho | 28.º | 39 | • Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente; |
+| Polo | 26.º | 36 |  |  |
+| Camisola polar | 27.º | 38 |  |  |
+| Cinturão | 30.º, n.º 1 | 41 |  |  |
+| Peúgas | 14.º | 15 |  |  |
+| Botas | 31.º | 43 |  |  |
+| Blusão | 24.º | 33 |  |  |
+| Luvas de agasalho | 16.º, n.º 3 | 22 |  |  |
+| Gola de agasalho | 23.º | 32 |  |  |
+| Casaco de agasalho | 28.º | 39 |  |  |
 | 2.3Serviço ordinário do corpo de bombeiros - composição de verão | Boina | 19.º | 28 | • Sempre que determinado. |
-| 2.3Serviço ordinário do corpo de bombeiros - composição de verão | Boné de pala | 21.º | 30 | • Sempre que determinado. |
-| 2.3Serviço ordinário do corpo de bombeiros - composição de verão | Calças do uniforme n.º 2 | 29.º | 40 | • Sempre que determinado. |
-| 2.3Serviço ordinário do corpo de bombeiros - composição de verão | Polo de meia manga | 26.º | 37 | • Sempre que determinado. |
-| 2.3Serviço ordinário do corpo de bombeiros - composição de verão | Camisola interior | 25.º | 35 | • Sempre que determinado. |
-| 2.3Serviço ordinário do corpo de bombeiros - composição de verão | Blusão | 24.º | 33 | • Sempre que determinado. |
-| 2.3Serviço ordinário do corpo de bombeiros - composição de verão | Cinturão | 30.º, n.º 1 | 41 | • Sempre que determinado. |
-| 2.3Serviço ordinário do corpo de bombeiros - composição de verão | Peúgas | 14.º | 15 | • Sempre que determinado. |
-| 2.3Serviço ordinário do corpo de bombeiros - composição de verão | Botas | 31.º | 43 | • Sempre que determinado. |
+| Boné de pala | 21.º | 30 |  |  |
+| Calças do uniforme n.º 2 | 29.º | 40 |  |  |
+| Polo de meia manga | 26.º | 37 |  |  |
+| Camisola interior | 25.º | 35 |  |  |
+| Blusão | 24.º | 33 |  |  |
+| Cinturão | 30.º, n.º 1 | 41 |  |  |
+| Peúgas | 14.º | 15 |  |  |
+| Botas | 31.º | 43 |  |  |
 
 substitui-se o artigo «boina» pelo «boné de pala» no ponto 2.2, elimina-se o artigo «boina» no ponto 2.3 e corrige-se o texto nas observações passando este a ser comum a ambos os pontos, passando a ler-se:
 
-| Composição | Artigo | Artigo de referência | Figura | Observações |
+| Uniforme n.º 2 \| Uniforme de serviço |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Uniforme n.º 2 \\| Uniforme de serviço | Uniforme n.º 2 \\| Uniforme de serviço | Uniforme n.º 2 \\| Uniforme de serviço | Uniforme n.º 2 \\| Uniforme de serviço | Uniforme n.º 2 \\| Uniforme de serviço |
+| Composição | Artigo | Artigo de referência | Figura | Observações |
 | 2.2Serviço ordinário do corpo de bombeiros - composição de inverno | Boné de pala | 21.º | 30 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado |
-| 2.2Serviço ordinário do corpo de bombeiros - composição de inverno | Gorro | 20.º | 29 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado |
-| 2.2Serviço ordinário do corpo de bombeiros - composição de inverno | Calças do uniforme n.º 2 | 29.º | 40 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado |
-| 2.2Serviço ordinário do corpo de bombeiros - composição de inverno | Camisola interior | 25.º | 34 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado |
-| 2.2Serviço ordinário do corpo de bombeiros - composição de inverno | Polo | 26.º | 36 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado |
-| 2.2Serviço ordinário do corpo de bombeiros - composição de inverno | Camisola polar | 27.º | 38 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado |
-| 2.2Serviço ordinário do corpo de bombeiros - composição de inverno | Cinturão | 30.º, n.º 1 | 41 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado |
-| 2.2Serviço ordinário do corpo de bombeiros - composição de inverno | Peúgas | 14.º | 15 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado |
-| 2.2Serviço ordinário do corpo de bombeiros - composição de inverno | Botas | 31.º | 43 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado |
-| 2.2Serviço ordinário do corpo de bombeiros - composição de inverno | Blusão | 24.º | 33 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado |
-| 2.2Serviço ordinário do corpo de bombeiros - composição de inverno | Luvas de agasalho | 16.º, n.º 3 | 22 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado |
-| 2.2Serviço ordinário do corpo de bombeiros - composição de inverno | Gola de agasalho | 23.º | 32 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado |
-| 2.2Serviço ordinário do corpo de bombeiros - composição de inverno | Casaco de agasalho | 28.º | 39 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado |
+| Gorro | 20.º | 29 |  |  |
+| Calças do uniforme n.º 2 | 29.º | 40 |  |  |
+| Camisola interior | 25.º | 34 |  |  |
+| Polo | 26.º | 36 |  |  |
+| Camisola polar | 27.º | 38 |  |  |
+| Cinturão | 30.º, n.º 1 | 41 |  |  |
+| Peúgas | 14.º | 15 |  |  |
+| Botas | 31.º | 43 |  |  |
+| Blusão | 24.º | 33 |  |  |
+| Luvas de agasalho | 16.º, n.º 3 | 22 |  |  |
+| Gola de agasalho | 23.º | 32 |  |  |
+| Casaco de agasalho | 28.º | 39 |  |  |
 | 2.3Serviço ordinário do corpo de bombeiros - composição de verão | Boné de pala | 21.º | 30 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 2.3Serviço ordinário do corpo de bombeiros - composição de verão | Calças do uniforme n.º 2 | 29.º | 40 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 2.3Serviço ordinário do corpo de bombeiros - composição de verão | Polo de meia manga | 26.º | 37 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 2.3Serviço ordinário do corpo de bombeiros - composição de verão | Camisola interior | 25.º | 35 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 2.3Serviço ordinário do corpo de bombeiros - composição de verão | Blusão | 24.º | 33 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 2.3Serviço ordinário do corpo de bombeiros - composição de verão | Cinturão | 30.º, n.º 1 | 41 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 2.3Serviço ordinário do corpo de bombeiros - composição de verão | Peúgas | 14.º | 15 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 2.3Serviço ordinário do corpo de bombeiros - composição de verão | Botas | 31.º | 43 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
+| Calças do uniforme n.º 2 | 29.º | 40 |  |  |
+| Polo de meia manga | 26.º | 37 |  |  |
+| Camisola interior | 25.º | 35 |  |  |
+| Blusão | 24.º | 33 |  |  |
+| Cinturão | 30.º, n.º 1 | 41 |  |  |
+| Peúgas | 14.º | 15 |  |  |
+| Botas | 31.º | 43 |  |  |
 
 12 - No ponto 2.4 do anexo i do Regulamento de Uniformes, Insígnias e Identificações dos Bombeiros Voluntários, onde se lê:
 
-| Composição | Artigo | Referência/artigo | Figura | Observações |
+| Composição específica para Infantes e Cadetes |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Composição específica para Infantes e Cadetes | Composição específica para Infantes e Cadetes | Composição específica para Infantes e Cadetes | Composição específica para Infantes e Cadetes | Composição específica para Infantes e Cadetes |
+| Composição | Artigo | Referência/artigo | Figura | Observações |
 | 2.4Infantes, Cadetes e Estagiários | Boné de pala | 21.º | 30 | Utilizado nas seguintes ocasiões:Ø Atividades internas;Ø Atividades externas. |
-| 2.4Infantes, Cadetes e Estagiários | Calças uniforme n.º 2 | 29.º | 40 | Utilizado nas seguintes ocasiões:Ø Atividades internas;Ø Atividades externas. |
-| 2.4Infantes, Cadetes e Estagiários | Camisola interior | 25.º | 34/35 | Utilizado nas seguintes ocasiões:Ø Atividades internas;Ø Atividades externas. |
-| 2.4Infantes, Cadetes e Estagiários | Polo | 26.º | 36/37 | Utilizado nas seguintes ocasiões:Ø Atividades internas;Ø Atividades externas. |
-| 2.4Infantes, Cadetes e Estagiários | Cinto de precinta | 11.º | 12 | Utilizado nas seguintes ocasiões:Ø Atividades internas;Ø Atividades externas. |
-| 2.4Infantes, Cadetes e Estagiários | Botas | 31.º | 43 | Utilizado nas seguintes ocasiões:Ø Atividades internas;Ø Atividades externas. |
-| 2.4Infantes, Cadetes e Estagiários | Blusão | 24.º | 33 | Utilizado nas seguintes ocasiões:Ø Atividades internas;Ø Atividades externas. |
-| 2.4Infantes, Cadetes e Estagiários | Peúgas | 14.º | 15 | Utilizado nas seguintes ocasiões:Ø Atividades internas;Ø Atividades externas. |
+| Calças uniforme n.º 2 | 29.º | 40 |  |  |
+| Camisola interior | 25.º | 34/35 |  |  |
+| Polo | 26.º | 36/37 |  |  |
+| Cinto de precinta | 11.º | 12 |  |  |
+| Botas | 31.º | 43 |  |  |
+| Blusão | 24.º | 33 |  |  |
+| Peúgas | 14.º | 15 |  |  |
 
 é substituído o artigo «cinto de precinta» pelo artigo «cinturão», passando a ler-se:
 
-| Composição | Artigo | Referência/artigo | Figura | Observações |
+| Composição específica para Infantes e Cadetes |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Composição específica para Infantes e Cadetes | Composição específica para Infantes e Cadetes | Composição específica para Infantes e Cadetes | Composição específica para Infantes e Cadetes | Composição específica para Infantes e Cadetes |
+| Composição | Artigo | Referência/artigo | Figura | Observações |
 | 2.4Infantes, Cadetes e Estagiários | Boné de pala | 21.º | 30 | Utilizado nas seguintes ocasiões:Ø Atividades internas;Ø Atividades externas. |
-| 2.4Infantes, Cadetes e Estagiários | Calças uniforme n.º 2 | 29.º | 40 | Utilizado nas seguintes ocasiões:Ø Atividades internas;Ø Atividades externas. |
-| 2.4Infantes, Cadetes e Estagiários | Camisola interior | 25.º | 34/35 | Utilizado nas seguintes ocasiões:Ø Atividades internas;Ø Atividades externas. |
-| 2.4Infantes, Cadetes e Estagiários | Polo | 26.º | 36/37 | Utilizado nas seguintes ocasiões:Ø Atividades internas;Ø Atividades externas. |
-| 2.4Infantes, Cadetes e Estagiários | Cinturão | 30.º | 41 | Utilizado nas seguintes ocasiões:Ø Atividades internas;Ø Atividades externas. |
-| 2.4Infantes, Cadetes e Estagiários | Botas | 31.º | 43 | Utilizado nas seguintes ocasiões:Ø Atividades internas;Ø Atividades externas. |
-| 2.4Infantes, Cadetes e Estagiários | Blusão | 24.º | 33 | Utilizado nas seguintes ocasiões:Ø Atividades internas;Ø Atividades externas. |
-| 2.4Infantes, Cadetes e Estagiários | Peúgas | 14.º | 15 | Utilizado nas seguintes ocasiões:Ø Atividades internas;Ø Atividades externas. |
+| Calças uniforme n.º 2 | 29.º | 40 |  |  |
+| Camisola interior | 25.º | 34/35 |  |  |
+| Polo | 26.º | 36/37 |  |  |
+| Cinturão | 30.º | 41 |  |  |
+| Botas | 31.º | 43 |  |  |
+| Blusão | 24.º | 33 |  |  |
+| Peúgas | 14.º | 15 |  |  |
 
 13 - No quadro previsto no anexo iii do Regulamento onde se lê:
 
@@ -527,7 +571,7 @@ A presente portaria procede à aprovação do Regulamento de Uniformes, Insígni
 
 A presente portaria entra em vigor 30 dias após a sua publicação.
 
-**O Secretário de Estado da Proteção Civil, Paulo Jorge Simões Ribeiro, em 15 de maio de 2025.**
+O Secretário de Estado da Proteção Civil, Paulo Jorge Simões Ribeiro, em 15 de maio de 2025.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -1185,143 +1229,156 @@ c) Não usar artigos de traje civil, quando uniformizados, ou artigos do uniform
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 4.º do Regulamento)
 
-| Composição | Artigo | Artigo de referência | Figura | Observações |
+| Uniforme n.º 1 \| Uniforme de representação |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Uniforme n.º 1 \\| Uniforme de representação | Uniforme n.º 1 \\| Uniforme de representação | Uniforme n.º 1 \\| Uniforme de representação | Uniforme n.º 1 \\| Uniforme de representação | Uniforme n.º 1 \\| Uniforme de representação |
+| Composição | Artigo | Artigo de referência | Figura | Observações |
 | 1.1Composição de gala | Boina | 19.º | 28 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado |
-| 1.1Composição de gala | Calças do uniforme n.º 1 | 12.º | 13 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado |
-| 1.1Composição de gala | Saia do uniforme n.º 1 | 13.º | 14 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado |
-| 1.1Composição de gala | Camisa de manga comprida | 9.º | 7/9 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado |
-| 1.1Composição de gala | Casaco do uniforme n.º 1 | 7.º | 5 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado |
-| 1.1Composição de gala | Cinto de precinta | 11.º | 12 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado |
-| 1.1Composição de gala | Gravata | 10.º | 11 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado |
-| 1.1Composição de gala | Meias/peúgas | 14.º | 15/16 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado |
-| 1.1Composição de gala | Sapatos | 15.º | 17/18 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado |
-| 1.1Composição de gala | Luvas pretas | 16.º, n.º 1 | 19/20 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado |
-| 1.1Composição de gala | Cordões | 6.º, n.º 2 | 3 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado |
-| 1.1Composição de gala | Charlateiras | 6.º, n.º 3 | 4 | Utilizada pelos elementos do quadro de comando e do quadro de honra que tenham pertencido ao quadro de comando, com medalhas, nas seguintes ocasiões:• Atos oficiais ou particulares a que corresponda o uso de casaca civil, fraque ou smoking civil;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente ou essa indicação conste do convite;• Sempre que determinado |
+| Calças do uniforme n.º 1 | 12.º | 13 |  |  |
+| Saia do uniforme n.º 1 | 13.º | 14 |  |  |
+| Camisa de manga comprida | 9.º | 7/9 |  |  |
+| Casaco do uniforme n.º 1 | 7.º | 5 |  |  |
+| Cinto de precinta | 11.º | 12 |  |  |
+| Gravata | 10.º | 11 |  |  |
+| Meias/peúgas | 14.º | 15/16 |  |  |
+| Sapatos | 15.º | 17/18 |  |  |
+| Luvas pretas | 16.º, n.º 1 | 19/20 |  |  |
+| Cordões | 6.º, n.º 2 | 3 |  |  |
+| Charlateiras | 6.º, n.º 3 | 4 |  |  |
 | 1.2Composição de cerimónia | Boina | 19.º | 28 | Utilizada, com medalhas, nas seguintes ocasiões:• Atos solenes dos corpos de bombeiros;• Atos oficiais ou particulares a que corresponda o uso de fato;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.2Composição de cerimónia | Calças do uniforme n.º 1 | 12.º | 13 | Utilizada, com medalhas, nas seguintes ocasiões:• Atos solenes dos corpos de bombeiros;• Atos oficiais ou particulares a que corresponda o uso de fato;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.2Composição de cerimónia | Saia do uniforme n.º 1 | 13.º | 14 | Utilizada, com medalhas, nas seguintes ocasiões:• Atos solenes dos corpos de bombeiros;• Atos oficiais ou particulares a que corresponda o uso de fato;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.2Composição de cerimónia | Camisa de manga comprida | 9.º | 7/9 | Utilizada, com medalhas, nas seguintes ocasiões:• Atos solenes dos corpos de bombeiros;• Atos oficiais ou particulares a que corresponda o uso de fato;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.2Composição de cerimónia | Casaco do uniforme n.º 1 | 7.º | 5 | Utilizada, com medalhas, nas seguintes ocasiões:• Atos solenes dos corpos de bombeiros;• Atos oficiais ou particulares a que corresponda o uso de fato;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.2Composição de cerimónia | Cinto de precinta | 11.º | 12 | Utilizada, com medalhas, nas seguintes ocasiões:• Atos solenes dos corpos de bombeiros;• Atos oficiais ou particulares a que corresponda o uso de fato;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.2Composição de cerimónia | Gravata | 10.º | 11 | Utilizada, com medalhas, nas seguintes ocasiões:• Atos solenes dos corpos de bombeiros;• Atos oficiais ou particulares a que corresponda o uso de fato;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 1.2Composição de cerimónia | Meias/peúgas | 14.º | 15/16 | Utilizada, com medalhas, nas seguintes ocasiões:• Atos solenes dos corpos de bombeiros;• Atos oficiais ou particulares a que corresponda o uso de fato;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
+| Calças do uniforme n.º 1 | 12.º | 13 |  |  |
+| Saia do uniforme n.º 1 | 13.º | 14 |  |  |
+| Camisa de manga comprida | 9.º | 7/9 |  |  |
+| Casaco do uniforme n.º 1 | 7.º | 5 |  |  |
+| Cinto de precinta | 11.º | 12 |  |  |
+| Gravata | 10.º | 11 |  |  |
+| Meias/peúgas | 14.º | 15/16 |  |  |
 |  | Sapatos | 15.º | 17/18 |  |
-|  | Luvas pretas | 16.º, n.º 1 | 19/20 |  |
+| Luvas pretas | 16.º, n.º 1 | 19/20 |  |  |
 | 1.3Composição para guardas de honra e desfiles | Boina | 19.º | 28 | Utilizada nas seguintes ocasiões:• Guardas de honra e desfiles;• Sempre que determinado.Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-| 1.3Composição para guardas de honra e desfiles | Calças do uniforme n.º 1 | 12.º | 13 | Utilizada nas seguintes ocasiões:• Guardas de honra e desfiles;• Sempre que determinado.Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-| 1.3Composição para guardas de honra e desfiles | Saia do uniforme n.º 1 | 13.º | 14 | Utilizada nas seguintes ocasiões:• Guardas de honra e desfiles;• Sempre que determinado.Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-| 1.3Composição para guardas de honra e desfiles | Camisa de manga comprida | 9.º, n.<sup>os</sup>1 e 3 | 7/9 | Utilizada nas seguintes ocasiões:• Guardas de honra e desfiles;• Sempre que determinado.Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-| 1.3Composição para guardas de honra e desfiles | Capacete de desfile (a) | 5.º | 1 | Utilizada nas seguintes ocasiões:• Guardas de honra e desfiles;• Sempre que determinado.Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-| 1.3Composição para guardas de honra e desfiles | Gravata | 10.º | 11 | Utilizada nas seguintes ocasiões:• Guardas de honra e desfiles;• Sempre que determinado.Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-| 1.3Composição para guardas de honra e desfiles | Casaco do uniforme n.º 1 | 7.º | 5 | Utilizada nas seguintes ocasiões:• Guardas de honra e desfiles;• Sempre que determinado.Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-| 1.3Composição para guardas de honra e desfiles | Cinto de precinta | 11.º | 12 | Utilizada nas seguintes ocasiões:• Guardas de honra e desfiles;• Sempre que determinado.Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-| 1.3Composição para guardas de honra e desfiles | Cinturão de desfile | 30.º, n.º 2 | 42 | Utilizada nas seguintes ocasiões:• Guardas de honra e desfiles;• Sempre que determinado.Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-| 1.3Composição para guardas de honra e desfiles | Luvas brancas | 16.º, n.º 2 | 21 | Utilizada nas seguintes ocasiões:• Guardas de honra e desfiles;• Sempre que determinado.Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-| 1.3Composição para guardas de honra e desfiles | Machado da guarda de honra | 18.º, n.º 1 | 26 | Utilizada nas seguintes ocasiões:• Guardas de honra e desfiles;• Sempre que determinado.Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-| 1.3Composição para guardas de honra e desfiles | Machado pequeno (b) | 18.º, n.º 2 | 27 | Utilizada nas seguintes ocasiões:• Guardas de honra e desfiles;• Sempre que determinado.Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-| 1.3Composição para guardas de honra e desfiles | Meias/peúgas | 14.º | 15/16 | Utilizada nas seguintes ocasiões:• Guardas de honra e desfiles;• Sempre que determinado.Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
-| 1.3Composição para guardas de honra e desfiles | Sapatos ou botas com elásticos nas calças sobre as botas | 15.º/31.º | 17/18 /43 | Utilizada nas seguintes ocasiões:• Guardas de honra e desfiles;• Sempre que determinado.Notas:• Na formatura desarmada é usada a boina;• Na formatura armada é usado o capacete;• A composição de desfile pode ser determinada através de ordens de operações de cada cerimónia. |
+| Calças do uniforme n.º 1 | 12.º | 13 |  |  |
+| Saia do uniforme n.º 1 | 13.º | 14 |  |  |
+| Camisa de manga comprida | 9.º, n.os1 e 3 | 7/9 |  |  |
+| Capacete de desfile (a) | 5.º | 1 |  |  |
+| Gravata | 10.º | 11 |  |  |
+| Casaco do uniforme n.º 1 | 7.º | 5 |  |  |
+| Cinto de precinta | 11.º | 12 |  |  |
+| Cinturão de desfile | 30.º, n.º 2 | 42 |  |  |
+| Luvas brancas | 16.º, n.º 2 | 21 |  |  |
+| Machado da guarda de honra | 18.º, n.º 1 | 26 |  |  |
+| Machado pequeno (b) | 18.º, n.º 2 | 27 |  |  |
+| Meias/peúgas | 14.º | 15/16 |  |  |
+| Sapatos ou botas com elásticos nas calças sobre as botas | 15.º/31.º | 17/18 /43 |  |  |
 | 1.4Representação - composição de inverno | Boina | 19.º | 28 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;Sempre que determinado. |
-| 1.4Representação - composição de inverno | Calças do uniforme n.º 1 | 12.º | 13 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;Sempre que determinado. |
-| 1.4Representação - composição de inverno | Saia do uniforme n.º 1 | 13.º | 14 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;Sempre que determinado. |
-| 1.4Representação - composição de inverno | Camisa de manga comprida | 9.º, n.<sup>os</sup>1 e 3 | 7/9 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;Sempre que determinado. |
-| 1.4Representação - composição de inverno | Camisola interior | 25.º | 34 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;Sempre que determinado. |
+| Calças do uniforme n.º 1 | 12.º | 13 |  |  |
+| Saia do uniforme n.º 1 | 13.º | 14 |  |  |
+| Camisa de manga comprida | 9.º, n.os1 e 3 | 7/9 |  |  |
+| Camisola interior | 25.º | 34 |  |  |
 |  | Casaco do uniforme n.º 1 | 7.º | 5 |  |
-|  | Blusão de cabedal | 8.º | 6 |  |
-|  | Gravata | 10.º | 11 |  |
-|  | Cinto de precinta | 11.º | 12 |  |
-|  | Sapatos ou botas | 15.º/31.º | 17/18 /43 |  |
+| Blusão de cabedal | 8.º | 6 |  |  |
+| Gravata | 10.º | 11 |  |  |
+| Cinto de precinta | 11.º | 12 |  |  |
+| Sapatos ou botas | 15.º/31.º | 17/18 /43 |  |  |
 | 1.5Representação - composição de verão | Boina | 19.º | 28 |  |
-| 1.5Representação - composição de verão | Calças do uniforme n.º 1 | 12.º | 13 |  |
-| 1.5Representação - composição de verão | Saia do uniforme n.º 1 | 13.º | 14 |  |
-| 1.5Representação - composição de verão | Camisa de meia manga | 9.º, n.º 2 | 8/10 |  |
-| 1.5Representação - composição de verão | Camisola interior | 25.º | 35 |  |
-| 1.5Representação - composição de verão | Cinto de precinta | 11.º | 12 |  |
-| 1.5Representação - composição de verão | Meias e peúgas | 14.º | 15/16 |  |
-| 1.5Representação - composição de verão | Sapatos | 15.º | 17/18 |  |
+| Calças do uniforme n.º 1 | 12.º | 13 |  |  |
+| Saia do uniforme n.º 1 | 13.º | 14 |  |  |
+| Camisa de meia manga | 9.º, n.º 2 | 8/10 |  |  |
+| Camisola interior | 25.º | 35 |  |  |
+| Cinto de precinta | 11.º | 12 |  |  |
+| Meias e peúgas | 14.º | 15/16 |  |  |
+| Sapatos | 15.º | 17/18 |  |  |
 
 (a) Em desfiles, o capacete pode ser substituído pela boina, desde que não se utilize o machado de desfile;
 
 (b) A guarda de honra ao estandarte utiliza machados de guarda de honra.
 
+| Uniforme n.º 2 \| Uniforme de serviço |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | Composição | Artigo | Artigo de referência | Figura | Observações |
-| --- | --- | --- | --- | --- |
-| Uniforme n.º 2 \\| Uniforme de serviço | Uniforme n.º 2 \\| Uniforme de serviço | Uniforme n.º 2 \\| Uniforme de serviço | Uniforme n.º 2 \\| Uniforme de serviço | Uniforme n.º 2 \\| Uniforme de serviço |
 | 2.1Formaturas exteriores ao corpo de bombeiros | Boné de pala | 21.º | 30 | Utilizada nas seguintes ocasiões:• Formaturas representativas da instituição;• Sempre que determinado. |
-| 2.1Formaturas exteriores ao corpo de bombeiros | Calças do uniforme n.º 2 | 29.º | 40 | Utilizada nas seguintes ocasiões:• Formaturas representativas da instituição;• Sempre que determinado. |
-| 2.1Formaturas exteriores ao corpo de bombeiros | Camisola interior | 25.º | 34/35 | Utilizada nas seguintes ocasiões:• Formaturas representativas da instituição;• Sempre que determinado. |
-| 2.1Formaturas exteriores ao corpo de bombeiros | Polo | 26.º | 36/37 | Utilizada nas seguintes ocasiões:• Formaturas representativas da instituição;• Sempre que determinado. |
-| 2.1Formaturas exteriores ao corpo de bombeiros | Blusão | 24.º | 33 | Utilizada nas seguintes ocasiões:• Formaturas representativas da instituição;• Sempre que determinado. |
+| Calças do uniforme n.º 2 | 29.º | 40 |  |  |
+| Camisola interior | 25.º | 34/35 |  |  |
+| Polo | 26.º | 36/37 |  |  |
+| Blusão | 24.º | 33 |  |  |
 |  | Lenço | 22.º | 31 |  |
-|  | Cinturão | 30.º, n.º 1 | 41 |  |
-|  | Luvas | 16.º, n.º 2 | 21 |  |
-|  | Botas | 31.º | 43 |  |
+| Cinturão | 30.º, n.º 1 | 41 |  |  |
+| Luvas | 16.º, n.º 2 | 21 |  |  |
+| Botas | 31.º | 43 |  |  |
 | 2.2Serviço ordinário do corpo de bombeiros - composição de inverno | Boné de pala | 21.º | 30 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 2.2Serviço ordinário do corpo de bombeiros - composição de inverno | Gorro | 20.º | 29 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 2.2Serviço ordinário do corpo de bombeiros - composição de inverno | Calças do uniforme n.º 2 | 29.º | 40 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 2.2Serviço ordinário do corpo de bombeiros - composição de inverno | Camisola interior | 25.º | 34 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 2.2Serviço ordinário do corpo de bombeiros - composição de inverno | Polo | 26.º | 36 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 2.2Serviço ordinário do corpo de bombeiros - composição de inverno | Camisola polar | 27.º | 38 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 2.2Serviço ordinário do corpo de bombeiros - composição de inverno | Cinturão | 30.º, n.º 1 | 41 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 2.2Serviço ordinário do corpo de bombeiros - composição de inverno | Peúgas | 14.º | 15 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 2.2Serviço ordinário do corpo de bombeiros - composição de inverno | Botas | 31.º | 43 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 2.2Serviço ordinário do corpo de bombeiros - composição de inverno | Blusão | 24.º | 33 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 2.2Serviço ordinário do corpo de bombeiros - composição de inverno | Luvas de agasalho | 16.º, n.º 3 | 22 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 2.2Serviço ordinário do corpo de bombeiros - composição de inverno | Gola de agasalho | 23.º | 32 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 2.2Serviço ordinário do corpo de bombeiros - composição de inverno | Casaco de agasalho | 28.º | 39 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 2.3Serviço ordinário do corpo de bombeiros - composição de verão | Boné de pala | 21.º | 30 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 2.3Serviço ordinário do corpo de bombeiros - composição de verão | Calças do uniforme n.º 2 | 29.º | 40 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 2.3Serviço ordinário do corpo de bombeiros - composição de verão | Polo de meia manga | 26.º | 37 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 2.3Serviço ordinário do corpo de bombeiros - composição de verão | Camisola interior | 25.º | 35 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 2.3Serviço ordinário do corpo de bombeiros - composição de verão | Blusão | 24.º | 33 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
-| 2.3Serviço ordinário do corpo de bombeiros - composição de verão | Cinturão | 30.º, n.º 1 | 41 | Utilizada nas seguintes ocasiões:• Atos internos do corpo de bombeiros;• Atos externos que não requeiram o uso de equipamento de proteção individual;• Reuniões, seminários, conferências e afins;• Atos promovidos por corpos de bombeiros ou outros agentes de proteção civil, nacionais ou estrangeiros, quando estes usem uniforme equivalente;• Sempre que determinado. |
+| Gorro | 20.º | 29 |  |  |
+| Calças do uniforme n.º 2 | 29.º | 40 |  |  |
+| Camisola interior | 25.º | 34 |  |  |
+| Polo | 26.º | 36 |  |  |
+| Camisola polar | 27.º | 38 |  |  |
+| Cinturão | 30.º, n.º 1 | 41 |  |  |
+| Peúgas | 14.º | 15 |  |  |
+| Botas | 31.º | 43 |  |  |
+| Blusão | 24.º | 33 |  |  |
+| Luvas de agasalho | 16.º, n.º 3 | 22 |  |  |
+| Gola de agasalho | 23.º | 32 |  |  |
+| Casaco de agasalho | 28.º | 39 |  |  |
+| 2.3Serviço ordinário do corpo de bombeiros - composição de verão | Boné de pala | 21.º | 30 |  |
+| Calças do uniforme n.º 2 | 29.º | 40 |  |  |
+| Polo de meia manga | 26.º | 37 |  |  |
+| Camisola interior | 25.º | 35 |  |  |
+| Blusão | 24.º | 33 |  |  |
+| Cinturão | 30.º, n.º 1 | 41 |  |  |
 |  | Peúgas | 14.º | 15 |  |
-|  | Botas | 31.º | 43 |  |
+| Botas | 31.º | 43 |  |  |
 
-| Composição | Artigo | Referência/artigo | Figura | Observações |
+| Composição específica para Infantes e Cadetes |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Composição específica para Infantes e Cadetes | Composição específica para Infantes e Cadetes | Composição específica para Infantes e Cadetes | Composição específica para Infantes e Cadetes | Composição específica para Infantes e Cadetes |
+| Composição | Artigo | Referência/artigo | Figura | Observações |
 | 2.4Infantes, Cadetes e Estagiários | Boné de pala | 21.º | 30 | Utilizado nas seguintes ocasiões:Ø Atividades internas;Ø Atividades externas. |
-| 2.4Infantes, Cadetes e Estagiários | Calças uniforme n.º 2 | 29.º | 40 | Utilizado nas seguintes ocasiões:Ø Atividades internas;Ø Atividades externas. |
-| 2.4Infantes, Cadetes e Estagiários | Camisola interior | 25.º | 34/35 | Utilizado nas seguintes ocasiões:Ø Atividades internas;Ø Atividades externas. |
-| 2.4Infantes, Cadetes e Estagiários | Polo | 26.º | 36/37 | Utilizado nas seguintes ocasiões:Ø Atividades internas;Ø Atividades externas. |
-| 2.4Infantes, Cadetes e Estagiários | Cinturão | 30.º, n.º 1 | 41 | Utilizado nas seguintes ocasiões:Ø Atividades internas;Ø Atividades externas. |
-| 2.4Infantes, Cadetes e Estagiários | Botas | 31.º | 43 | Utilizado nas seguintes ocasiões:Ø Atividades internas;Ø Atividades externas. |
-| 2.4Infantes, Cadetes e Estagiários | Blusão | 24.º | 33 | Utilizado nas seguintes ocasiões:Ø Atividades internas;Ø Atividades externas. |
-| 2.4Infantes, Cadetes e Estagiários | Peúgas | 14.º | 15 | Utilizado nas seguintes ocasiões:Ø Atividades internas;Ø Atividades externas. |
+| Calças uniforme n.º 2 | 29.º | 40 |  |  |
+| Camisola interior | 25.º | 34/35 |  |  |
+| Polo | 26.º | 36/37 |  |  |
+| Cinturão | 30.º, n.º 1 | 41 |  |  |
+| Botas | 31.º | 43 |  |  |
+| Blusão | 24.º | 33 |  |  |
+| Peúgas | 14.º | 15 |  |  |
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 4.º do Regulamento)
 
 Figuras dos artigos de uniforme
 
-![](https://files.diariodarepublica.pt/images/922108245/922117558.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/922108245/922117558.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/922108245/922117559.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/922108245/922117559.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/922108245/922117560.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/922108245/922117560.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/922108245/922117561.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/922108245/922117561.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/922108245/922117562.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/922108245/922117562.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/922108245/922117563.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/922108245/922117563.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/922108245/922117564.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/922108245/922117564.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/922108245/922117565.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/922108245/922117565.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/922108245/922117566.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/922108245/922117566.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/922108245/922117567.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/922108245/922117567.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/922108245/922117568.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/922108245/922117568.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/922108245/922117569.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/922108245/922117569.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/922108245/922117570.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/922108245/922117570.png) |
+| --- |
 
 ## ANEXO III — (a que se refere o n.º 4 do artigo 4.º do Regulamento)
 
@@ -1368,3 +1425,7 @@ Vermelho: 18-1663 TPX
 Amarelo: 13-0647 TCX
 
 Branco: 11-4001 TCX
+
+119125367
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { height:17px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { height:26px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl9 { min-height:18px; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl14 { min-height:28px; } .Tbl15 { min-height:21px; } .Tbl16 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl18 { min-height:19px; } .Tbl19 { min-height:20px; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl21 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl22 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl23 { min-height:29px; } .Tbl24 { min-height:27px; }

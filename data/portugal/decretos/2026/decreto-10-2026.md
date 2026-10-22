@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/10/2026/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/10-2026-1062753815
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-27T00:00:00Z'
+  retrieved_at: '2026-10-22T18:33:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4a56012125b34d42dfe4c797018e67f3a1f5bcf1f4428aa90276333713c88f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57cd6d36e7902737ae72ea000b05f2096f82d3ae3799c0401baa06fdfa23b1df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:33:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
-- Juventude
-- Educação
-- Portugal
 - Cultura
+- Desporto
+- Educação
 - Ensino Superior
 - França
-- Desporto
+- Juventude
 - Porto
-relationships: []
+- Portugal
+relationships:
+- type: cites
+  target: pt:dre:447278:por
+  label: null
+  source: null
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:33:58Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +108,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 22 de janeiro de 2026. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Fernando Alexandre - Margarida Balseiro Lopes.
 
-**Assinado em 9 de fevereiro de 2026.**
+Assinado em 9 de fevereiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 13 de fevereiro de 2026.**
+Referendado em 13 de fevereiro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 Acordo de Cooperação entre a República Portuguesa e a República Francesa nos Domínios da Língua, Educação, Ciência, Ensino Superior, Cultura, Juventude e Desporto
 
@@ -515,3 +519,5 @@ Paulo Artur dos Santos de Castro de Campos Rangel, Ministre d’État, Ministre 
 Pour la République Française :
 
 Benjamin Haddad, Ministre délégué chargé de l’Europe.
+
+119947836

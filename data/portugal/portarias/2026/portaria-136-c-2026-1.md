@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/136-c/2026/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/136-c-2026-1080481246
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:37:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99e512202f56aeaef3335fc75ac5ab0eb34a234d0b27477bd000f0a3cd82decd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a50e78528167a1fa19ea5e36b0d418d55ef2c92cdfa57900e05a96797850700
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:37:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,36 @@ reuse:
 subjects:
 - Autoridade Tributária e Aduaneira
 - Código do IRS
-- Declaração de Rendimentos
-- Regulamentação de Atos Legislativos
 - Contribuições e Impostos
-- Instruções de Utilização
+- Declaração de Rendimentos
 - Documento Eletrónico
+- Instruções de Utilização
 - Internet
+- Regulamentação de Atos Legislativos
 relationships:
+- type: amends
+  target: pt:numero:portaria:39-B/2024
+  label: Mantém em vigor, a partir de 1 de abril de 2026 e com efeitos a 1 de janeiro de 2026, os Anexos E (rendimentos de
+    capitais) e I, aprovados pela Portaria n.º 39-B/2024, de 2 de fevereiro, Diário da República n.º 24/2024, 1º Suplemento,
+    Série I
+  source: null
+  date: '2024-02-02'
+- type: amends
+  target: pt:numero:portaria:72-B/2025
+  label: Mantém em vigor, a partir de 1 de abril de 2026 e com efeitos a 1 de janeiro de 2026, o anexo G (mais-valias e outros
+    incrementos patrimoniais), o rosto da declaração de rendimentos, anexos F, G1 e L e respetivas instruções de preenchimento
+    e as instruções de preenchimento do anexo I, aprovados pela Portaria n.º 72-B/2025/1, de 28 de fevereiro, Diário da República
+    n.º 42/2025, Suplemento, Série I
+  source: null
+  date: '2025-02-28'
+- type: amends
+  target: pt:numero:portaria:104/2026
+  label: Mantém em vigor, a partir de 1 de abril de 2026 e com efeitos a 1 de janeiro de 2026, e são aprovadas novas instruções
+    de preenchimento que se publicam em anexo à presente portaria e dela fazem parte integrante, o modelo do anexo H - benefícios
+    fiscais e deduções e respetivas instruções de preenchimento, aprovado pela Portaria n.º 104/2026/1, de 5 de março, Diário
+    da República n.º 45/2026, Série I
+  source: null
+  date: '2026-03-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/104/2026/03/05/p/dre
   label: null
@@ -91,16 +114,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/72-b/2025/02/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/72-b/2025/02/28/p/dre
+- type: cites
+  target: pt:dre:1066993467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70716381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:840061965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:909384934:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:37:09Z'
   warnings: []
   errors: []
 ---
@@ -157,62 +200,93 @@ b) Efetuar o envio de acordo com os procedimentos indicados no referido portal;
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2026.
 
-**A Secretária de Estado dos Assuntos Fiscais, Cláudia Maria dos Reis Duarte Melo de Carvalho, em 31 de março de 2026.**
+A Secretária de Estado dos Assuntos Fiscais, Cláudia Maria dos Reis Duarte Melo de Carvalho, em 31 de março de 2026.
 
-![](https://files.diariodarepublica.pt/images/1080481246/1080430938.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1080481246/1080430938.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1080481246/1080430939.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1080481246/1080430939.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1080481246/1080430940.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1080481246/1080430940.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1080481246/1080430941.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1080481246/1080430941.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1080481246/1080430942.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1080481246/1080430942.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1080481246/1080430943.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1080481246/1080430943.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1080481246/1080430944.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1080481246/1080430944.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1080481246/1080430945.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1080481246/1080430945.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1080481246/1080430946.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1080481246/1080430946.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1080481246/1080430947.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1080481246/1080430947.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1080481246/1080430948.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1080481246/1080430948.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1080481246/1080430949.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1080481246/1080430949.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1080481246/1080430950.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1080481246/1080430950.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1080481246/1080430951.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1080481246/1080430951.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1080481246/1080430952.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1080481246/1080430952.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1080481246/1080430953.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1080481246/1080430953.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1080481246/1080430954.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1080481246/1080430954.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1080481246/1080430955.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1080481246/1080430955.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1080481246/1080430956.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1080481246/1080430956.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1080481246/1080430957.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1080481246/1080430957.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1080481246/1080430958.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1080481246/1080430958.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1080481246/1080430959.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1080481246/1080430959.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1080481246/1080430960.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1080481246/1080430960.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1080481246/1080430961.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1080481246/1080430961.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1080481246/1080430962.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1080481246/1080430962.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1080481246/1080430963.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1080481246/1080430963.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1080481246/1080430964.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1080481246/1080430964.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1080481246/1080430965.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1080481246/1080430965.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1080481246/1080430966.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1080481246/1080430966.png) |
+| --- |
+
+119948160

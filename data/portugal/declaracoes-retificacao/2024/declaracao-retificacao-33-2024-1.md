@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/09/17000/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/33/2024/09/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/33-2024-886673826
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-09-03T00:00:00Z'
+  retrieved_at: '2026-10-22T19:15:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a2e2a668ddaa6913718f94d538391837876fb41a2ae4765c34a23f943580cec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45bdecc98834af100b0b0a24dd40eb540c0ffc3e5e560bb7407337dd89c824a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:15:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,9 +71,9 @@ reuse:
 subjects:
 - Ajuda Comunitária
 - Beneficiário
-- Rectificação de Entidade Emitente
-- Prazo
 - Plano Estratégico da Política Agrícola Comum para Portugal
+- Prazo
+- Rectificação de Entidade Emitente
 relationships:
 - type: cites
   target: celex:32021R1060
@@ -95,16 +95,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/183/2024/08/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/183/2024/08/09/p/dre
+- type: cites
+  target: pt:dre:159432383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:876124125:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:portaria:183/2024
+  label: Retifica a alínea i) do n.º 2 do artigo 13.º, da Portaria n.º 183/2024/1, de 9 de agosto, Diário da República n.º
+    154/2024, Série I
+  source: null
+  date: '2024-08-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:15:15Z'
   warnings: []
   errors: []
 ---
@@ -122,3 +148,5 @@ deve ler-se:
 "Não interromper a execução da operação por período superior a 90 dias seguidos"
 
 Secretaria-Geral, 30 de agosto de 2024. - O Secretário-Geral, David Xavier.
+
+118072026

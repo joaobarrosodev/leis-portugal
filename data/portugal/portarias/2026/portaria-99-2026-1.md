@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/99/2026/03/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/99-2026-1063831096
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-02T00:00:00Z'
+  retrieved_at: '2026-10-22T18:34:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f109d4ed501a43a0efcdf9beb5c29c37e3f715c23caf96cc0cc456876399e46
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7efd093a0c8117d2fadff0b00f65cbe28b441ac30b3a53dc1bb6bb5a2df60a42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:34:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Braga
+- Comércio
+- Condições de Higiene e Segurança no Trabalho
 - Contrato Coletivo de Trabalho
 - Regime Laboral
-- Condições de Higiene e Segurança no Trabalho
 - Regulamento de Extensão
 - Relações de Trabalho
 - Remuneração
-- Comércio
 - Trabalhador por Conta de Outrem
 relationships:
 - type: cites
@@ -84,16 +84,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/82/2017/06/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/82/2017/06/09/p/dre
+- type: cites
+  target: pt:dre:107495701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:927634612:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:34:18Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +130,7 @@ Considerando que as anteriores extensões da convenção coletiva revista não a
 
 Considerando ainda que a convenção coletiva regula diversas condições de trabalho procede-se à ressalva, do âmbito de aplicação da extensão, de cláusulas contrárias a normas legais imperativas.
 
-Nos termos da alínea c) do n.º 1 do artigo 478.º do Código do Trabalho e dos n.<sup>os</sup>2 e 4 da referida RCM, na fixação da eficácia das cláusulas de natureza pecuniária foi tido em conta a data do depósito da convenção e o termo do prazo para a emissão da portaria de extensão, com produção de efeitos a partir do primeiro dia do mês em causa.
+Nos termos da alínea c) do n.º 1 do artigo 478.º do Código do Trabalho e dos n.os2 e 4 da referida RCM, na fixação da eficácia das cláusulas de natureza pecuniária foi tido em conta a data do depósito da convenção e o termo do prazo para a emissão da portaria de extensão, com produção de efeitos a partir do primeiro dia do mês em causa.
 
 Foi publicado o aviso relativo ao projeto da presente extensão no Boletim do Trabalho e Emprego (BTE), separata, n.º 3, de 15 de janeiro de 2026, ao qual não foi deduzida oposição por parte dos interessados.
 
@@ -136,13 +148,13 @@ b) Às relações de trabalho entre empregadores filiados nas associações de e
 
 2 - A extensão prevista na alínea a) do número anterior não é aplicável aos empregadores naquela previstos que reúnam uma das seguintes condições:
 
-a) Sendo de comércio a retalho alimentar ou misto, disponham de uma área de venda contínua de comércio a retalho alimentar igual ou superior a 2000 m<sup>2</sup>;
+a) Sendo de comércio a retalho alimentar ou misto, disponham de uma área de venda contínua de comércio a retalho alimentar igual ou superior a 2000 m2;
 
-b) Sendo de comércio a retalho não alimentar, disponham de uma área de venda contínua igual ou superior a 4000 m<sup>2</sup>;
+b) Sendo de comércio a retalho não alimentar, disponham de uma área de venda contínua igual ou superior a 4000 m2;
 
-c) Sendo de comércio a retalho alimentar ou misto, pertencentes a empresa ou grupo que tenha, a nível nacional, uma área de venda acumulada de comércio a retalho alimentar igual ou superior a 15 000 m<sup>2</sup>;
+c) Sendo de comércio a retalho alimentar ou misto, pertencentes a empresa ou grupo que tenha, a nível nacional, uma área de venda acumulada de comércio a retalho alimentar igual ou superior a 15 000 m2;
 
-d) Sendo de comércio a retalho não alimentar, pertencentes a empresa ou grupo que tenha, a nível nacional, uma área de venda acumulada igual ou superior a 25 000 m<sup>2</sup>.
+d) Sendo de comércio a retalho não alimentar, pertencentes a empresa ou grupo que tenha, a nível nacional, uma área de venda acumulada igual ou superior a 25 000 m2.
 
 3 - Não são objeto de extensão as cláusulas contrárias a normas legais imperativas.
 
@@ -152,4 +164,6 @@ d) Sendo de comércio a retalho não alimentar, pertencentes a empresa ou grupo 
 
 2 - A tabela salarial e as cláusulas de natureza pecuniária previstas na convenção produzem efeitos a partir de 1 de outubro de 2025.
 
-**O Secretário de Estado Adjunto e do Trabalho, Adriano Rafael Sousa Moreira, em 25 de fevereiro de 2026.**
+O Secretário de Estado Adjunto e do Trabalho, Adriano Rafael Sousa Moreira, em 25 de fevereiro de 2026.
+
+119947842

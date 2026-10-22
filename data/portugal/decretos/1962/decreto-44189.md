@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44189-1962-519255
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-02-15T00:00:00Z'
+  retrieved_at: '2026-10-22T19:28:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7490307759f784ae16841c56b3b09d95aa04bb6838dfd1f0d048a7769cc78e7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a381c1fb7d3c67ebcb3caaddd5e566c0d2e81ccb992c3a863f83a308c574387e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:28:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:28:08Z'
   warnings: []
   errors: []
 ---
@@ -87,9 +87,9 @@ A necessidade de coordenar superiormente a utilização dos meios de telecomunic
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São criadas nas províncias de Angola e Moçambique delegações da Comissão de Coordenação de Telecomunicações, do Departamento da Defesa Nacional, que funcionarão junto do comando-chefe da província.
+Artigo 1.º São criadas nas províncias de Angola e Moçambique delegações da Comissão de Coordenação de Telecomunicações, do Departamento da Defesa Nacional, que funcionarão junto do comando-chefe da província.
 
-###### Art. 2.º As delegações da Comissão de Telecomunicações terão a seguinte composição:
+Art. 2.º As delegações da Comissão de Telecomunicações terão a seguinte composição:
 
 Presidente - um oficial superior de qualquer dos ramos das forças armadas, de preferência com a patente de coronel ou equivalente, nomeado pelo Departamento da Defesa Nacional, ouvido o comandante-chefe da província.
 
@@ -105,7 +105,7 @@ Um delegado da direcção dos serviços dos CTT da província.
 
 Delegados de outras entidades cuja representação acidental ou permanente se considere necessária.
 
-###### Art. 3.º Compete às delegações da Comissão de Coordenação de Telecomunicações do ultramar:
+Art. 3.º Compete às delegações da Comissão de Coordenação de Telecomunicações do ultramar:
 
 a) Promover que seja dado cumprimento às directivas gerais, instruções e pedidos de informações recebidos do Departamento da Defesa Nacional em matéria de telecomunicações e sugerir todas as alterações impostas por condicionamentos locais;
 
@@ -119,17 +119,17 @@ e) Efectuar a coordenação de frequências militares comuns estabelecidas pelo 
 
 f) Promover as medidas necessárias para que seja dada execução dentro da província aos compromissos internacionais assumidos pela Nação em matéria de telecomunicações.
 
-###### Art. 4.º Os representantes civis intervirão apenas na discussão dos problemas que requeiram coordenação com os serviços civis ou, ainda, naqueles que o presidente entender conveniente.
+Art. 4.º Os representantes civis intervirão apenas na discussão dos problemas que requeiram coordenação com os serviços civis ou, ainda, naqueles que o presidente entender conveniente.
 
-###### Art. 5.º Além das suas sessões normais, a fixar, as delegações reunirão extraordinàriamente sempre que for determinado pelo presidente ou comandante-chefe.
+Art. 5.º Além das suas sessões normais, a fixar, as delegações reunirão extraordinàriamente sempre que for determinado pelo presidente ou comandante-chefe.
 
-###### Art. 6.º Existirá um órgão permanente de trabalho, a que incumbirá dar andamento às resoluções da delegação da Comissão de Coordenação de Telecomunicações e velar pela sua execução. Esse órgão permanente funcionará junto do quartel-general do comando militar, que fornecerá os serviços de secretaria necessários, e será constituído pelo delegado do comando militar, que assegurará o seu funcionamento, e por outro ou outros elementos a nomear pelo presidente da delegação da Comissão de Coordenação de Telecomunicações.
+Art. 6.º Existirá um órgão permanente de trabalho, a que incumbirá dar andamento às resoluções da delegação da Comissão de Coordenação de Telecomunicações e velar pela sua execução. Esse órgão permanente funcionará junto do quartel-general do comando militar, que fornecerá os serviços de secretaria necessários, e será constituído pelo delegado do comando militar, que assegurará o seu funcionamento, e por outro ou outros elementos a nomear pelo presidente da delegação da Comissão de Coordenação de Telecomunicações.
 
-###### Art. 7.º Para execução de missões específicas deverão ser estabelecidos os órgãos temporários de trabalho considerados indispensáveis.
+Art. 7.º Para execução de missões específicas deverão ser estabelecidos os órgãos temporários de trabalho considerados indispensáveis.
 
-###### Art. 8.º As conclusões dos trabalhos de cada delegação, bem como os pareceres e recomendações por ela elaborados, serão enviados à Comissão de Coordenação de Telecomunicações (CTT) do Departamento da Defesa Nacional.
+Art. 8.º As conclusões dos trabalhos de cada delegação, bem como os pareceres e recomendações por ela elaborados, serão enviados à Comissão de Coordenação de Telecomunicações (CTT) do Departamento da Defesa Nacional.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 15 de Fevereiro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Adriano José Alves Moreira - Kaulza Oliveira de Arriaga.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/87/2026/04/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2026-1085738183
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T18:38:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 558e766e10279246cf7a575f82830f3700fd68bc50258cb446b436cc5d281cf2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 782da95311753e868f23b3ba60b67feb29b039060594195bf0238db935374ecb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:38:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Interconexão de Dados
+- Balcão Único do Prédio
 - Cadastro Geométrico
 - Código do Registo Predial
-- Informação Cadastral e Geográfica
-- Registos e Notariado
-- Matriz Cadastral
 - Direção Geral do Território
-- Prédio Rústico
-- Registo Predial
-- Regulamento Emolumentar dos Registos e Notariado
-- Prédio Urbano
-- Balcão Único do Prédio
-- Sistema de Informação Cadastral Simplificada
+- Informação Cadastral e Geográfica
+- Interconexão de Dados
+- Matriz Cadastral
 - Plano de Recuperação e Resiliência
+- Prédio Rústico
+- Prédio Urbano
+- Registo Predial
+- Registos e Notariado
+- Regulamento Emolumentar dos Registos e Notariado
+- Sistema de Informação Cadastral Simplificada
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:322-A/2001
+  label: Altera, a partir de 16 de abril de 2026, os artigos 21.º e 28.º do Regulamento Emolumentar dos Registos e Notariado,
+    aprovado pelo Decreto-Lei n.º 322-A/2001, de 14 de dezembro, Diário da República n.º 288/2001, 1º Suplemento, Série I-A
+  source: null
+  date: '2001-12-14'
+- type: amends
+  target: pt:numero:lei:78/2017
+  label: Altera, a partir de 16 de abril de 2026, os artigos 4.º, 5.º, 6.º, 7.º, 8.º, 8.º-A, 14.º, 16.º, 19.º, 25.º e 27.º,
+    adita o artigo 8.º-B e revoga o n.º 3 do artigo 6.º e o n.º 5 do artigo 16.º da Lei n.º 78/2017, de 17 de agosto, Diário
+    da República n.º 158/2017, Série I
+  source: null
+  date: '2017-08-17'
+- type: amends
+  target: pt:numero:lei:65/2019
+  label: Altera, a partir de 16 de abril de 2026, os artigos 1.º, 2.º, 7.º-A (este nos termos do artigo 13.º do presente diploma),
+    7.º-B, 7.º-C, 7.º-D, 7.º- E, 8.º, 11.º (este nos termos do artigo 9.º do presente diploma) e 14.º (este nos termos do
+    artigo 12.º do presente diploma) e o anexo ii e adita o artigo 7.º-F à Lei n.º 65/2019, de 23 de agosto, Diário da República
+    n.º 161/2019, Série I
+  source: null
+  date: '2019-08-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/15/2019/01/21/p/dre
   label: null
@@ -104,16 +125,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/78/2017/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/78/2017/08/17/p/dre
+- type: cites
+  target: pt:dre:108010874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118051708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124171091:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222645050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591313:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:lei:65/2019
+  label: Revoga, a partir de 16 de abril de 2026, o artigo 16.º (vigência do artigo 14.º da Lei n.º 65/2019) do Decreto-Lei
+    n.º 90/2023, de 11 de outubro, Diário da República n.º 197/2023, Série I
+  source: null
+  date: '2023-10-11'
 article_structure:
-  article_count: 36
+  article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:38:04Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +223,9 @@ b) ‘Interessados’, todos aqueles que figurem como detentores de posições a
 
 c) ‘Promotores’, os interessados ou a entidade pública responsável pela promoção do procedimento de representação gráfica georreferenciada (RGG).
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -186,7 +243,9 @@ c) ‘Promotores’, os interessados ou a entidade pública responsável pela pr
 
 8 - Aquando da integração da informação geométrica dos prédios na carta cadastral, a DGT informa, preferencialmente por via eletrónica, os proprietários dessa integração.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -238,7 +297,9 @@ q) Das entidades intermunicipais.
 
 8 - As operações de RGG promovidas por iniciativa das entidades referidas no n.º 2 podem ser submetidas por interoperabilidade entre os seus sistemas de informação e o BUPI.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O procedimento da RGG de prédios rústicos e mistos a realizar no BUPi, bem como as especificações técnicas a observar na elaboração da RGG e a respetiva estrutura de atributos, são estabelecidos por decreto regulamentar.
 
@@ -246,7 +307,9 @@ q) Das entidades intermunicipais.
 
 3 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -260,7 +323,9 @@ q) Das entidades intermunicipais.
 
 6 - [...]
 
-###### Artigo 8.º-A — [...]
+Artigo 8.º-A
+
+[...]
 
 1 - Para efeitos de instrução do procedimento especial de registo previsto na presente lei e dos procedimentos especiais de justificação e de anexação previstos na [Lei n.º 65/2019](https://diariodarepublica.pt/dr/detalhe/lei/65-2019-124171091), de 23 de agosto, os técnicos habilitados que forem designados pelas entidades a que se refere o n.º 2 do artigo 6.º podem efetuar a conferência dos documentos depositados no procedimento de RGG com os documentos originais que lhes sejam apresentados.
 
@@ -268,7 +333,9 @@ q) Das entidades intermunicipais.
 
 3 - Os documentos conferidos nos termos dos números anteriores têm o valor probatório dos originais para efeitos de instrução dos procedimentos referidos no n.º 1.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Para efeito de instauração do procedimento especial de registo de prédio rústico e misto omisso, a AT comunica ao IRN, I. P., por intermédio do BUPi, a identificação dos prédios rústicos na matriz e dos seus titulares, através dos nomes, números de identificação fiscal e respetivos domicílios fiscais, bem como informação sobre a pendência de pedido de retificação da matriz.
 
@@ -280,7 +347,9 @@ q) Das entidades intermunicipais.
 
 5 - O conselho diretivo do IRN, I. P., pode delegar no Centro de Coordenação Técnica a que se refere o artigo 5.º da [Lei n.º 65/2019](https://diariodarepublica.pt/dr/detalhe/lei/65-2019-124171091), de 23 de agosto, as competências para a tramitação do procedimento oficioso a que se refere o presente artigo, podendo o Centro de Coordenação Técnica aceder aos dados comunicados pela AT.
 
-###### Artigo 16.º — Área do prédio
+Artigo 16.º
+
+Área do prédio
 
 1 - [...]
 
@@ -292,7 +361,9 @@ q) Das entidades intermunicipais.
 
 5 - [Revogado.]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Nos documentos que titulem atos ou negócios de transmissão do direito de propriedade, nos registos de aquisição, de anexação e de desanexação, de prédio rústicos e mistos, nos procedimentos previstos nos artigos 7.º-D a 7.º-E da [Lei n.º 65/2019](https://diariodarepublica.pt/dr/detalhe/lei/65-2019-124171091), de 23 de agosto, e nos procedimentos administrativos requeridos perante qualquer entidade pública que tenham por efeito uma alteração na configuração geométrica de prédios rústicos ou mistos, é obrigatória a indicação do número de RGG, exceto nos casos em que mediante consulta oficiosa no BUPi se verifique que a mesma já tenha sido entregue ou se verifique que o prédio já está inscrito na carta cadastral.
 
@@ -300,7 +371,9 @@ q) Das entidades intermunicipais.
 
 3 - Sem prejuízo do disposto nos números anteriores, todos os procedimentos de candidatura, atribuição ou concessão de apoios financeiros, subsídios, incentivos ou cofinanciamentos, independentemente da sua origem, designadamente de fundos da União Europeia, fundos nacionais ou outros instrumentos de natureza análoga, que tenham por objeto prédios rústicos ou mistos, devem ser instruídos com RGG.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...]
 
@@ -320,7 +393,9 @@ g) [...]
 
 2 - [...]
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - Com vista à expansão do sistema de informação cadastral simplificado e do BUPi, a AT, o IRN, I. P., a DGT, o IFAP, I. P., o ICNF, I. P., a DGADR e a ESTAMO - Participações Imobiliárias, S. A., procedem à partilha entre si, e com os municípios e com as CCDR, através do BUPi, da informação relevante sobre os elementos caracterizadores e de identificação dos prédios rústicos e mistos e dos seus titulares, para efeitos de localização geográfica e demais efeitos de identificação do prédio.
 
@@ -374,13 +449,17 @@ d) O procedimento especial de anexação de prédio rústico.
 
 11 - [Anterior n.º 10.]
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...]
 
 2 - Compete aos serviços de registo realizar os procedimentos especiais de registo, de justificação e de anexação previstos na presente lei.
 
-###### Artigo 7.º-A — [...]
+Artigo 7.º-A
+
+[...]
 
 1 - [...]
 
@@ -402,7 +481,9 @@ b) [...]
 
 8 - [...]
 
-###### Artigo 7.º-B — [...]
+Artigo 7.º-B
+
+[...]
 
 1 - [...]
 
@@ -412,7 +493,9 @@ b) [...]
 
 4 - Uma vez validada por todos os proprietários dos prédios confinantes nos termos do artigo 7.º, a RGG é convertida em CGP, passando a integrar a carta cadastral.
 
-###### Artigo 7.º-C — [...]
+Artigo 7.º-C
+
+[...]
 
 1 - [...]
 
@@ -442,7 +525,9 @@ c) Os titulares da inscrição matricial tiverem sido notificados pelo Centro de
 
 9 - Nos prédios rústicos abrangidos por Áreas Integradas de Gestão da Paisagem, enquanto não for possível identificar o proprietário dos prédios, a entidade gestora pode atuar na qualidade de gestor de negócios com vista à execução da Operação Integrada de Gestão da Paisagem, independentemente de estar em curso o procedimento de consulta pública ou o procedimento de identificação e reconhecimento de prédio rústico sem dono conhecido.
 
-###### Artigo 7.º-D — [...]
+Artigo 7.º-D
+
+[...]
 
 1 - [...]
 
@@ -456,7 +541,9 @@ c) Os titulares da inscrição matricial tiverem sido notificados pelo Centro de
 
 6 - Após a conclusão do procedimento de RGG, o interessado dispõe do prazo de um ano para apresentar o correspondente pedido de registo, sob pena de cancelamento da RGG e da eliminação da inscrição matricial correspondente.
 
-###### Artigo 7.º-E — [...]
+Artigo 7.º-E
+
+[...]
 
 1 - [...]
 
@@ -468,7 +555,9 @@ c) Os titulares da inscrição matricial tiverem sido notificados pelo Centro de
 
 5 - Quando as condições técnicas o permitirem, as comunicações previstas no n.º 3 efetuam-se de forma automática, por interoperabilidade de dados.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -476,13 +565,17 @@ c) Os titulares da inscrição matricial tiverem sido notificados pelo Centro de
 
 3 - As formalidades prévias, a tramitação e os meios de impugnação do procedimento especial de registo são estabelecidos por decreto regulamentar.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [Anterior corpo do artigo.]
 
 2 - Se as condições técnicas o permitirem, a existência de RGG é anotada de forma automática, por interoperabilidade de dados.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - São gratuitos, até 30 de setembro de 2026, os atos e procedimentos previstos na presente lei que abranjam prédios rústicos ou mistos com área igual ou inferior a 50 hectares, bem como:
 
@@ -554,7 +647,9 @@ e) A alteração de área, do artigo da matriz e da freguesia ou concelho de pr�
 
 2 - [...]
 
-###### Artigo 8.º-B — [...]
+Artigo 8.º-B
+
+[...]
 
 1 - [...]
 
@@ -582,7 +677,9 @@ f) O proprietário definitivamente inscrito, quanto ao registo de alteração de
 
 7 - [...]
 
-###### Artigo 8.º-C — [...]
+Artigo 8.º-C
+
+[...]
 
 1 - [...]
 
@@ -670,7 +767,9 @@ Os artigos 21.º e 28.º do Regulamento Emolumentar dos Registos e Notariado, ap
 
 23.4 - No caso de o procedimento ser declarado findo é devolvida a quantia cobrada, com exceção de valor igual ao da recusa.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...]
 
@@ -736,7 +835,7 @@ Os artigos 21.º e 28.º do Regulamento Emolumentar dos Registos e Notariado, ap
 
 32 - [...]
 
-33 - Os emolumentos previstos nos n.<sup>os</sup>2.1, 2.12, 2.16.2, 2.17, 3, 4, 5, 12, 22 e 23 do artigo 21.º, bem como o emolumento previsto nos n.<sup>os</sup>7.7, 7.7.1, 7.7.2 e 7.7.3 do artigo 27.º, são reduzidos em 65 % quando o facto respeite apenas a prédios rústicos de valor inferior a 10 000 €.
+33 - Os emolumentos previstos nos n.os2.1, 2.12, 2.16.2, 2.17, 3, 4, 5, 12, 22 e 23 do artigo 21.º, bem como o emolumento previsto nos n.os7.7, 7.7.1, 7.7.2 e 7.7.3 do artigo 27.º, são reduzidos em 65 % quando o facto respeite apenas a prédios rústicos de valor inferior a 10 000 €.
 
 33.1 - [...]
 
@@ -822,15 +921,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de fevereiro de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Manuel Castro Almeida - Rita Alarcão Júdice - Maria da Graça Carvalho.
 
-**Promulgado em 7 de abril de 2026.**
+Promulgado em 7 de abril de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 9 de abril de 2026.**
+Referendado em 9 de abril de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -881,3 +980,5 @@ São Vicente.
 Velas.
 
 Vila do Porto.»
+
+119948206

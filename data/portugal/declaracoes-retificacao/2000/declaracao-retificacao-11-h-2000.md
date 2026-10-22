@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 227/2000, 2º Suplemento, Série I-B de 2000-09-30
   number: '227'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 5370-(7) a 5370-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/09/227b02/00070007.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/11-h/2000/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-h-2000-569895
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:55:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fcda34582191b452bb304255bfe675f99cd0a5dfe1b8731373e9837b96af1e8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e21a49341e7aa72f2f4224ba6c198d2a01bae16b41139c46c4e354e9aed19fc9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:55:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,32 +70,41 @@ reuse:
 subjects:
 - Ajuda Comunitária
 - Azeite
-- Vinho
+- Comércio
+- Ifadap
 - Leite
+- Produto Agrícola
 - Produto Hortícola
 - Programa Agrícola
+- Programa AGRO
 - Programa Operacional
 - QCA III
 - Regulamento
-- Programa AGRO
-- Ifadap
-- Comércio
-- Produto Agrícola
+- Vinho
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/533-c/2000/08/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/533-c/2000/08/01/p/dre
+- type: cites
+  target: pt:dre:636248:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:dre:636248:por
+  label: "Rectifica a Port. 533-C/2000 de 1 de Ago, DR.IS-B [176]2ºSupl.\0\0"
+  source: null
+  date: '2000-08-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:55:08Z'
   warnings: []
   errors: []
 ---

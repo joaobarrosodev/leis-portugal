@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 49/1993, 4º Suplemento, Série I-B de 1993-02-27
   number: '49'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 862-(20) a 862-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/02/049b04/00200020.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/28/1993/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-1993-485473
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-27T00:00:00Z'
+  retrieved_at: '2026-10-22T18:38:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11db7771b5d37ffe9fa7cd58953b826f47cbff25084e7a60768b296599339a81
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 878af82c8e0c3544c1264946d0bdb06dc09f636e58e7bf28078d86df5c6c39a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:38:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,35 +67,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Doença do Machado
-- Política de Saúde
 - Ação Social
-- Pensão de Invalidez
-- Incapacidade Física
-- Proteção Social
-- Doença
-- Segurança Social
 - Açores
+- Doença
+- Doença do Machado
+- Incapacidade Física
+- Pensão de Invalidez
+- Política de Saúde
+- Proteção Social
+- Segurança Social
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/21/1992/10/21/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/21/1992/10/21/a/dre
+- type: cites
+  target: pt:dre:221355:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:38:42Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 28/93
+# Declaração de rectificação n.º 28/93
 
 Para os devidos efeitos se declara que o [Decreto Legislativo Regional n.º 21/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1992-221355), publicado no Diário da República, n.º 243, de 21 de Outubro de 1992, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 

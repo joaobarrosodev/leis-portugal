@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/79/2026/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/79-2026-1102472600
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:40:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 786684749bbbf95f1ca85735a4ad54f8528eda656a23f82c0db59986564673e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b5fb7835a654425e320ae9b4f3f873c7eecff446eae0615de7121949436bcf2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:40:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência para a Investigação e Inovação
 - Conselho de Administração
+- Ministro da Economia e da Coesão Territorial
+- Ministro da Educação Ciência e Inovação
+- Ministro de Estado e das Finanças
 - Nomeação
 - Presidente
-- Ministro de Estado e das Finanças
 - Vogal
-- Ministro da Educação Ciência e Inovação
-- Ministro da Economia e da Coesão Territorial
-- Agência para a Investigação e Inovação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/2025/12/24/p/dre
@@ -90,27 +90,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:992627244:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:40:05Z'
   warnings: []
   errors: []
 ---
 
 # Resolução do Conselho de Ministros n.º 79/2026
 
-Nos termos do disposto no n.º 1 do artigo 1.º dos respetivos estatutos, publicados em anexo ao [Decreto-Lei n.º 132/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2025-992627244), de 24 de dezembro, a Agência para a Investigação e Inovação, E. P. E. (AI<sup>2</sup>, E. P. E.), é uma entidade pública empresarial, empresa do Grupo B, com personalidade jurídica, dotada de autonomia administrativa e financeira e de património próprio, estando, nos termos do artigo 8.º do referido diploma, sujeita à tutela dos membros do Governo responsáveis pelas áreas das finanças, da economia e da ciência e inovação.
+Nos termos do disposto no n.º 1 do artigo 1.º dos respetivos estatutos, publicados em anexo ao [Decreto-Lei n.º 132/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2025-992627244), de 24 de dezembro, a Agência para a Investigação e Inovação, E. P. E. (AI2, E. P. E.), é uma entidade pública empresarial, empresa do Grupo B, com personalidade jurídica, dotada de autonomia administrativa e financeira e de património próprio, estando, nos termos do artigo 8.º do referido diploma, sujeita à tutela dos membros do Governo responsáveis pelas áreas das finanças, da economia e da ciência e inovação.
 
-De acordo com os artigos 8.º e 9.º dos estatutos, o conselho de administração da AI<sup>2</sup>, E. P. E., é composto por um presidente, dois vice-presidentes e dois vogais executivos, nomeados por resolução do Conselho de Ministros, sob proposta dos membros do Governo responsáveis pelas áreas das finanças, da economia e da ciência e inovação, para um mandato de cinco anos, renovável uma única vez.
+De acordo com os artigos 8.º e 9.º dos estatutos, o conselho de administração da AI2, E. P. E., é composto por um presidente, dois vice-presidentes e dois vogais executivos, nomeados por resolução do Conselho de Ministros, sob proposta dos membros do Governo responsáveis pelas áreas das finanças, da economia e da ciência e inovação, para um mandato de cinco anos, renovável uma única vez.
 
-Aos membros do conselho de administração é aplicável o Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, sendo a sua remuneração fixada de acordo com os artigos 28.º e 29.º desse diploma e obedecendo ao disposto na [Resolução do Conselho de Ministros n.º 16/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/16-2012-543034), de 14 de fevereiro, bem como à classificação que lhe foi atribuída de empresa de Grupo B, conforme a leitura conjugada do n.º 1 do artigo 1.º e do artigo 10.º dos estatutos da AI<sup>2</sup>, E. P. E.
+Aos membros do conselho de administração é aplicável o Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, sendo a sua remuneração fixada de acordo com os artigos 28.º e 29.º desse diploma e obedecendo ao disposto na [Resolução do Conselho de Ministros n.º 16/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/16-2012-543034), de 14 de fevereiro, bem como à classificação que lhe foi atribuída de empresa de Grupo B, conforme a leitura conjugada do n.º 1 do artigo 1.º e do artigo 10.º dos estatutos da AI2, E. P. E.
 
 Neste sentido, atendendo à recente criação da entidade e à necessidade de início do exercício de funções do conselho de administração para garantir o seu normal funcionamento, importa nomear os respetivos membros.
 
@@ -118,7 +134,7 @@ De acordo com o n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://dia
 
 Assim:
 
-Nos termos dos n.<sup>os</sup> 2 e 3 do artigo 13.º, da alínea c) do n.º 3 do artigo 20.º e do n.º 8 do artigo 28.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, do n.º 4 do artigo 31.º do [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, dos artigos 8.º a 10.º do anexo ao [Decreto-Lei n.º 132/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2025-992627244), de 24 de dezembro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos dos n.os 2 e 3 do artigo 13.º, da alínea c) do n.º 3 do artigo 20.º e do n.º 8 do artigo 28.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, do n.º 4 do artigo 31.º do [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, dos artigos 8.º a 10.º do anexo ao [Decreto-Lei n.º 132/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2025-992627244), de 24 de dezembro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Nomear, sob proposta do Ministro de Estado e das Finanças, do Ministro da Economia e da Coesão Territorial e do Ministro da Educação, Ciência e Inovação, os seguintes elementos para exercerem funções no conselho de administração da Agência para a Investigação e Inovação, E. P. E., cuja idoneidade, experiência e competências se encontram evidenciadas nas respetivas notas curriculares e profissionais, que constam do anexo à presente resolução e da qual fazem parte integrante:
 
@@ -179,3 +195,5 @@ Habilitações académicas e formação complementar: doutorado em Engenharia In
 Experiência profissional: cofundador e CEO, Inductiva Research Labs, Porto (2020-2025); senior research scientist, Google Research, Londres, Reino Unido (2018-2020); chief technology officer (CTO), TonicApp, Porto (2017-2018); manager, Applied Science (Voice Shopping & Search), Amazon.com, Seattle, Estados Unidos da América (2012-2017); líder científico e técnico de I&D, Portugal Telecom/SAPO, Lisboa, Portugal (2010-2012); engineering intern, Google Inc., Nova Iorque, Estados Unidos da América (2007); investigador NLP, Linguateca (FCCN), Porto (2002-2006); docente em Informática, Programação Multimédia e Software 3D, Escola das Artes da Universidade Católica do Porto (1999-2002).
 
 Outras atividades e competências: membro fundador da Lisbon Machine Learning Summer School (LXMLS); coorganizador da Future of Computing Summer School (2018 e 2019), em parceria com o UPTEC e o programa UT Austin Portugal; orador TEDx sobre o futuro da inteligência artificial; embaixador da TEDxPorto; mentor pro bono de startups tecnológicas portuguesas.
+
+119948397

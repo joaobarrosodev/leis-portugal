@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/325-a/2026/08/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/325-a-2026-1154510431
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-04T00:00:00Z'
+  retrieved_at: '2026-10-22T18:49:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29bd178af31785d5f95f5f7172b285cf712d572aa2a41a52a52d48bc6abb37fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d98dc3d99c507cbb15bcc541e307cb0e024a15f2c85056ce900ee8cb7323939
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:49:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
+- Agência para a Gestão do Sistema Educativo
 - Administração do Ensino
-- Financiamento
-- Regulamentação de Atos Legislativos
+- Ensino Artístico
+- Ensino Básico
 - Ensino Cooperativo
 - Ensino Particular
-- Ministério da Educação e Ciência
 - Ensino Secundário
+- Financiamento
+- Instituto de Educação Qualidade e Avaliação
+- Ministério da Educação e Ciência
 - Página na Internet
 - Política de Educação
-- Ensino Básico
+- Regulamentação de Atos Legislativos
 - Subsídio
-- Agência para a Gestão do Sistema Educativo
-- Instituto de Educação Qualidade e Avaliação
 relationships:
+- type: amends
+  target: pt:numero:portaria:224-A/2015
+  label: Altera, a partir de 05 de agosto de 2026, com efeitos a partir do ano letivo de 2026-2027, os artigos 2.º, 4.º, 5.º,
+    6.º, altera o anexo i a que se refere o n.º 1 do artigo 2.º (os montantes previstos no artigo 3.º do presente diploma
+    aplicam-se exclusivamente aos contratos de patrocínio a celebrar a partir do ano letivo de 2026-2027), altera o anexo
+    ii a que se refere o n.º 1 do artigo 6.º da Portaria n.º 224-A/2015, de 29 de julho, Diário da República n.º 146/2015,
+    1º Suplemento, Série I
+  source: null
+  date: '2015-07-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/152/2013/11/04/p/dre
   label: null
@@ -113,16 +122,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/413/1999/06/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/413/1999/06/08/p/dre
+- type: cites
+  target: pt:dre:115304968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115886163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116068173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186166484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69905674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:874401819:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:49:19Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +176,7 @@ validation:
 
 de 4 de agosto
 
-A [Portaria n.º 224-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/224-a-2015-69905674), de 29 de julho, alterada pelas Portarias n.<sup>os</sup>[140/2018](https://diariodarepublica.pt/dr/detalhe/portaria/140-2018-115304968), de 16 de maio, [182/2022](https://diariodarepublica.pt/dr/detalhe/portaria/182-2022-186166484), de 15 de julho, e [180/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/180-2024-874401819), de 6 de agosto, estabelece o regime de concessão do apoio financeiro do Estado, no âmbito dos contratos de patrocínio, às entidades titulares de autorização de funcionamento de estabelecimentos de ensino artístico especializado da rede do ensino particular e cooperativo.
+A [Portaria n.º 224-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/224-a-2015-69905674), de 29 de julho, alterada pelas Portarias n.os[140/2018](https://diariodarepublica.pt/dr/detalhe/portaria/140-2018-115304968), de 16 de maio, [182/2022](https://diariodarepublica.pt/dr/detalhe/portaria/182-2022-186166484), de 15 de julho, e [180/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/180-2024-874401819), de 6 de agosto, estabelece o regime de concessão do apoio financeiro do Estado, no âmbito dos contratos de patrocínio, às entidades titulares de autorização de funcionamento de estabelecimentos de ensino artístico especializado da rede do ensino particular e cooperativo.
 
 Tendo em conta a evolução dos encargos associados à oferta educativa artística especializada e a necessidade de garantir as condições de sustentabilidade da sua prestação, importa proceder à atualização dos montantes de apoio por aluno previstos no anexo i à referida portaria, inalterados desde 2015.
 
@@ -145,7 +190,7 @@ Manda o Governo, pelo Ministro de Estado e das Finanças e pelo Ministro da Educ
 
 ###### Artigo 1.º — Objeto
 
-A presente portaria procede à quarta alteração à [Portaria n.º 224-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/224-a-2015-69905674), de 29 de julho, alterada pelas Portarias n.<sup>os</sup>[140/2018](https://diariodarepublica.pt/dr/detalhe/portaria/140-2018-115304968), de 16 de maio, [182/2022](https://diariodarepublica.pt/dr/detalhe/portaria/182-2022-186166484), de 15 de julho, e [180/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/180-2024-874401819), de 6 de agosto.
+A presente portaria procede à quarta alteração à [Portaria n.º 224-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/224-a-2015-69905674), de 29 de julho, alterada pelas Portarias n.os[140/2018](https://diariodarepublica.pt/dr/detalhe/portaria/140-2018-115304968), de 16 de maio, [182/2022](https://diariodarepublica.pt/dr/detalhe/portaria/182-2022-186166484), de 15 de julho, e [180/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/180-2024-874401819), de 6 de agosto.
 
 ###### Artigo 2.º — Alteração à [Portaria n.º 224-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/224-a-2015-69905674), de 29 de julho
 
@@ -171,7 +216,9 @@ Apoio financeiro
 
 8 - [Anterior n.º 7.]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -197,7 +244,9 @@ f) [...]
 
 6 - A candidatura é apresentada pela entidade titular da autorização de funcionamento do estabelecimento de ensino artístico especializado junto da AGSE, I. P., que procede ao seu saneamento e apreciação liminar, decidindo desde logo quaisquer questões de ordem formal e processual que possam obstar à avaliação da candidatura, após o que remete as mesmas à comissão de análise referida no artigo seguinte.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - É criada uma comissão de análise das candidaturas apresentadas no âmbito dos procedimentos abertos nos termos da presente portaria, cuja composição é definida por despacho do membro do Governo responsável pela área da educação, ouvidos a AGSE, I. P., e o Instituto de Educação, Qualidade e Avaliação, I. P.
 
@@ -221,7 +270,9 @@ d) [...]
 
 7 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O contrato de patrocínio é celebrado entre o Ministério da Educação, Ciência e Inovação, através da AGSE, I. P., e a entidade titular da autorização de funcionamento do estabelecimento de ensino (Entidade Beneficiária), em conformidade com a minuta constante do anexo ii à presente portaria, que dela faz parte integrante, devendo nele necessariamente constar o objeto e prazo do contrato, as obrigações específicas a que a entidade beneficiária fica sujeita, o montante máximo do apoio financeiro a atribuir e os termos dos acertos, atualizações e ajustes aplicáveis.
 
@@ -434,9 +485,9 @@ QUADRO
 
 (a que se refere a cláusula segunda)
 
-| Prazo contratual |  |  |  | 4 | 5 | 6 | 6 |
+| Prazo contratual |  |  |  | 4 | 5 | 6 |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Anos letivos | 2026-2027 | 2027-2028 | 2028-2029 | 2029-2030 | 2030-2031 | 2031-2032 | 2031-2032 |
+| Anos letivos | 2026-2027 | 2027-2028 | 2028-2029 | 2029-2030 | 2030-2031 | 2031-2032 |  |
 | Iniciações Ano 1 |  |  |  |  |  |  |  |
 | Iniciações Ano 2 |  |  |  |  |  |  |  |
 | Básico Ano 1 |  |  |  |  |  |  |  |
@@ -454,4 +505,8 @@ QUADRO
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 4 de agosto de 2026. - O Ministro da Educação, Ciência e Inovação, Fernando Alexandre, em 24 de julho de 2026.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 4 de agosto de 2026. - O Ministro da Educação, Ciência e Inovação, Fernando Alexandre, em 24 de julho de 2026.
+
+119949272
+
+.Tbl2 { height:26px; } .Tbl3 { text-indent:0px; text-align:center; } .Tbl4 { min-height:18px; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl6 { text-indent:0px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl8 { height:17px; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl14 { min-height:21px; } .Tbl15 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; }

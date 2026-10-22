@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/09/17700/0005100106.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,26 +47,39 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/248/2026/09/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/248-2026-1169277026
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-11T00:00:00Z'
+  retrieved_at: '2026-10-22T18:53:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 984a70a00f5fbb62be6e25e75ec3fd1795d8ccbc28533e2717e6cb4d9006f440
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 818b36ac4be9d3fbf56eb92dbdc3c50137199af3dfe0649d06a510d2a327e467
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:53:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CE Países
+- Convenção
+- Espaço Aéreo
+- Espaço de Aviação Comum Europeu
+- KIEV
+- Ucrânia
+- União Europeia
 relationships:
+- type: amended_by
+  target: pt:dre:1169277024:por
+  label: Ratificado pelo(a) Decreto do Presidente da República n.º 142/2026 - Diário da República n.º 177/2026, Série I de
+    2026-09-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/142-2026-1169277024
+  date: '2026-09-10'
 - type: cites
   target: celex:31989L0391
   label: null
@@ -494,13 +507,13 @@ relationships:
 article_structure:
   article_count: 40
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:53:03Z'
   warnings: []
   errors: []
 ---
@@ -513,7 +526,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 17 de julho de 2026.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar-Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar-Branco.
 
 Acordo sobre o Espaço de Aviação Comum entre a União Europeia e os Seus Estados-Membros, por um Lado, e a Ucrânia, por Outro
 
@@ -593,7 +606,7 @@ a) qualquer alteração que tenha entrado em vigor nos termos do artigo 94.º, a
 
 b) qualquer anexo ou alteração do mesmo aprovados nos termos do artigo 90.º da Convenção, na medida em que tal anexo ou alteração se encontrem, em qualquer momento, em vigor quer na Ucrânia quer num Estado-Membro da UE ou nos Estados-Membros da UE, conforme pertinente para a questão em causa;
 
-8) «Acordo EACE»: o acordo multilateral entre a Comunidade Europeia e os seus Estados-Membros, a República da Albânia, a Bósnia-Herzegovina, a República da Croácia, a Antiga República Jugoslava da Macedónia, a Islândia, a República do Montenegro, o Reino da Noruega, a República da Sérvia e a Missão de Administração Provisória das Nações Unidas para o Kosovo <sup>1</sup> sobre a criação de um Espaço de Aviação Comum Europeu;
+8) «Acordo EACE»: o acordo multilateral entre a Comunidade Europeia e os seus Estados-Membros, a República da Albânia, a Bósnia-Herzegovina, a República da Croácia, a Antiga República Jugoslava da Macedónia, a Islândia, a República do Montenegro, o Reino da Noruega, a República da Sérvia e a Missão de Administração Provisória das Nações Unidas para o Kosovo 1 sobre a criação de um Espaço de Aviação Comum Europeu;
 
 9) «AESA»: a Agência Europeia para a Segurança da Aviação, instituída em conformidade com o [Regulamento (CE) n.º 216/2008](https://data.europa.eu/eli/reg/2008/216/oj?locale=pt) do Parlamento Europeu e do Conselho, de 20 de fevereiro de 2008, relativo a regras comuns no domínio da aviação civil e que cria a Agência Europeia para a Segurança da Aviação, e que revoga a [Diretiva 91/670/CEE](https://data.europa.eu/eli/dir/1991/670/oj?locale=pt) do Conselho, o [Regulamento (CE) n.º 1592/2002](https://data.europa.eu/eli/reg/2002/1592/oj?locale=pt) e a [Diretiva 2004/36/CE](https://data.europa.eu/eli/dir/2004/36/oj?locale=pt);
 
@@ -771,7 +784,7 @@ c) Suscitar sérias preocupações de que as normas mínimas estabelecidas nos t
 
 11 - Se necessário, por força de uma ameaça imediata e excecional, uma Parte pode adotar medidas provisórias antes do termo do prazo de 15 dias.
 
-12 - Em caso de plena observância, pela outra Parte, do disposto no presente artigo, as medidas adotadas nos termos dos n.<sup>os</sup>10 ou 11 do presente artigo são suspensas.
+12 - Em caso de plena observância, pela outra Parte, do disposto no presente artigo, as medidas adotadas nos termos dos n.os10 ou 11 do presente artigo são suspensas.
 
 ###### Artigo 9.º — Gestão do tráfego aéreo
 
@@ -1053,9 +1066,9 @@ e) O equipamento de segurança operacional e não operacional destinado a ser ut
 
 3 - Não obstante qualquer outra disposição em contrário, o disposto no presente Acordo não impede uma Parte de aplicar impostos, contribuições, direitos, imposições ou taxas sobre o combustível fornecido no seu território, numa base não discriminatória, para utilização em aeronaves de uma transportadora aérea que opere entre dois pontos do seu território.
 
-4 - Pode ser exigido que o equipamento e as provisões referidos nos n.<sup>os</sup>1 e 2 do presente artigo sejam mantidos sob a supervisão ou o controlo das autoridades competentes e não sejam transferidos sem o pagamento dos impostos e direitos aduaneiros aplicáveis.
+4 - Pode ser exigido que o equipamento e as provisões referidos nos n.os1 e 2 do presente artigo sejam mantidos sob a supervisão ou o controlo das autoridades competentes e não sejam transferidos sem o pagamento dos impostos e direitos aduaneiros aplicáveis.
 
-5 - As isenções previstas no presente artigo também estão disponíveis nos casos em que as transportadoras aéreas de uma Parte tenham contratado, com outra transportadora aérea, que também beneficie dessas isenções junto da outra Parte, quer o empréstimo quer a transferência para o território da outra Parte dos artigos especificados nos n.<sup>os</sup>1 e 2 do presente artigo.
+5 - As isenções previstas no presente artigo também estão disponíveis nos casos em que as transportadoras aéreas de uma Parte tenham contratado, com outra transportadora aérea, que também beneficie dessas isenções junto da outra Parte, quer o empréstimo quer a transferência para o território da outra Parte dos artigos especificados nos n.os1 e 2 do presente artigo.
 
 6 - O disposto no presente Acordo não impede as Partes de instituir impostos, direitos, emolumentos ou taxas sobre as mercadorias vendidas aos passageiros, que não as destinadas ao consumo a bordo, num segmento do serviço aéreo entre dois pontos situados no seu território em que seja permitido embarque ou desembarque.
 
@@ -1255,7 +1268,7 @@ O presente Acordo e todas as suas alterações devem ser registados pela Ucrâni
 
 O presente Acordo é redigido em duplo exemplar, nas línguas alemã, búlgara, checa, croata, dinamarquesa, eslovaca, eslovena, espanhola, estónia, finlandesa, francesa, grega, húngara, inglesa, irlandesa, italiana, letã, lituana, maltesa, neerlandesa, polaca, portuguesa, romena, sueca e ucraniana, fazendo igualmente fé todos os textos.
 
-<sup>1</sup> Esta designação não prejudica as posições relativas ao estatuto e está em conformidade com a Resolução 1244/1999 do CSNU e o parecer do TIJ sobre a Declaração de Independência do Kosovo.
+1 Esta designação não prejudica as posições relativas ao estatuto e está em conformidade com a Resolução 1244/1999 do CSNU e o parecer do TIJ sobre a Declaração de Independência do Kosovo.
 
 Em testemunho de que, os plenipotenciários abaixo-assinados, devidamente autorizados para o efeito, assinaram o presente Acordo.
 
@@ -1525,7 +1538,7 @@ com a redação que lhe foi dada por:
 
 [Regulamento (CE) n.º 1361/2008](https://data.europa.eu/eli/reg/2008/1361/oj?locale=pt) do Conselho, de 16 de dezembro de 2008, que altera o [Regulamento (CE) n.º 219/2007](https://data.europa.eu/eli/reg/2007/219/oj?locale=pt) relativo à constituição de uma empresa comum para a realização do sistema europeu de gestão do tráfego aéreo de nova geração (SESAR).
 
-Requisitos e normas aplicáveis: artigo 1.º, n.<sup>os</sup>1 e 2 e 5 a 7, artigos 2.º e 3.º, artigo 4.º, n.º 1, e anexo.
+Requisitos e normas aplicáveis: artigo 1.º, n.os1 e 2 e 5 a 7, artigos 2.º e 3.º, artigo 4.º, n.º 1, e anexo.
 
 Licenças de controlador de tráfego aéreo
 
@@ -1587,7 +1600,7 @@ O [Regulamento (CE) n.º 216/2008](https://data.europa.eu/eli/reg/2008/216/oj?lo
 
 4 - O artigo 11.º, n.º 1, do [Regulamento (CE) n.º 216/2008](https://data.europa.eu/eli/reg/2008/216/oj?locale=pt) não é aplicável a certificados ucranianos emitidos nas áreas das operações de voo e da aeronavegabilidade inicial e permanente (Regulamentos de Execução n.os: [(UE) 965/2012](https://data.europa.eu/eli/reg/2012/965/oj?locale=pt), (UE) [748/2013](https://data.europa.eu/eli/reg/2013/748/oj?locale=pt) e [(CE) 2042/2003)](https://data.europa.eu/eli/reg/2003/2042/oj?locale=pt);
 
-5 - A Comissão Europeia goza, na Ucrânia, dos poderes que lhe são conferidos pelas decisões adotadas nos termos do artigo 11.º, n.º 2, do artigo 14.º, n.<sup>os</sup>5 e 7, do artigo 24.º, n.º 5, e do artigo 25.º, n.º 1, do [Regulamento (CE) n.º 216/2008](https://data.europa.eu/eli/reg/2008/216/oj?locale=pt) nas áreas em que o artigo 11.º, n.º 1, é declarado aplicável pelo Comité Misto;
+5 - A Comissão Europeia goza, na Ucrânia, dos poderes que lhe são conferidos pelas decisões adotadas nos termos do artigo 11.º, n.º 2, do artigo 14.º, n.os5 e 7, do artigo 24.º, n.º 5, e do artigo 25.º, n.º 1, do [Regulamento (CE) n.º 216/2008](https://data.europa.eu/eli/reg/2008/216/oj?locale=pt) nas áreas em que o artigo 11.º, n.º 1, é declarado aplicável pelo Comité Misto;
 
 6 - Na área da aeronavegabilidade, quando a AESA não executa quaisquer tarefas, a Ucrânia pode emitir certificados, licenças ou aprovações, em aplicação de um acordo ou convénio celebrado pela Ucrânia com um país terceiro.
 
@@ -1835,7 +1848,7 @@ Requisitos e normas aplicáveis: artigos 1.º a 4.º e anexos I a III.
 
 1 - Cada uma das Partes concede às transportadoras aéreas da outra Parte o direito de prestar serviços de transporte aéreo nas rotas especificadas seguintes:
 
-a) No caso das transportadoras aéreas da União Europeia: qualquer ponto na União Europeia - pontos intermédios nos territórios dos parceiros da política europeia de vizinhança <sup>1</sup>, dos países do EACE <sup>2</sup> ou dos países enumerados no anexo V do presente Acordo - qualquer ponto na Ucrânia - pontos além destes;
+a) No caso das transportadoras aéreas da União Europeia: qualquer ponto na União Europeia - pontos intermédios nos territórios dos parceiros da política europeia de vizinhança 1, dos países do EACE 2 ou dos países enumerados no anexo V do presente Acordo - qualquer ponto na Ucrânia - pontos além destes;
 
 b) No caso das transportadoras aéreas da Ucrânia: qualquer ponto na Ucrânia - pontos intermédios nos territórios dos parceiros da política europeia de vizinhança, dos países do EACE ou dos países enumerados no anexo V do presente Acordo - qualquer ponto na União Europeia.
 
@@ -1869,9 +1882,9 @@ h) Combinar tráfego na mesma aeronave, independentemente da origem desse tráfe
 
 6 - O presente anexo está sujeito às disposições transitórias constantes do anexo III do presente Acordo e à extensão dos direitos nele prevista.
 
-<sup>1</sup> Para efeitos do presente Acordo, entende-se por «parceiros da política europeia de vizinhança» a Argélia, a Arménia, o Azerbaijão, a Bielorrússia, o Egito, a Geórgia, Israel, a Jordânia, o Líbano, a Líbia, Marrocos, a Palestina, a Síria, a Tunísia e a República da Moldávia, ou seja, não incluindo a Ucrânia.
+1 Para efeitos do presente Acordo, entende-se por «parceiros da política europeia de vizinhança» a Argélia, a Arménia, o Azerbaijão, a Bielorrússia, o Egito, a Geórgia, Israel, a Jordânia, o Líbano, a Líbia, Marrocos, a Palestina, a Síria, a Tunísia e a República da Moldávia, ou seja, não incluindo a Ucrânia.
 
-<sup>2</sup> Por «países do EACE», entende-se as Partes no Acordo Multilateral que estabelece um Espaço de Aviação Comum Europeu, ou seja: os Estados-Membros da União Europeia, a República da Albânia, a Bósnia-Herzegovina, a Antiga República Jugoslava da Macedónia, a Islândia, a República do Montenegro, o Reino da Noruega, a República da Sérvia e o Kosovo (esta designação não prejudica as posições relativas ao estatuto e está em conformidade com a Resolução 1244 do CSNU e com o parecer do TIJ sobre a Declaração de Independência do Kosovo).
+2 Por «países do EACE», entende-se as Partes no Acordo Multilateral que estabelece um Espaço de Aviação Comum Europeu, ou seja: os Estados-Membros da União Europeia, a República da Albânia, a Bósnia-Herzegovina, a Antiga República Jugoslava da Macedónia, a Islândia, a República do Montenegro, o Reino da Noruega, a República da Sérvia e o Kosovo (esta designação não prejudica as posições relativas ao estatuto e está em conformidade com a Resolução 1244 do CSNU e com o parecer do TIJ sobre a Declaração de Independência do Kosovo).
 
 ## ANEXO III — Disposições transitórias
 
@@ -2065,7 +2078,8 @@ b) Os auxílios destinados a facilitar o desenvolvimento de certas atividades ou
 
 c) Os auxílios para a realização de objetivos, autorizados ao abrigo dos regulamentos de isenção por categoria e das regras relativas aos auxílios estatais horizontais e setoriais da UE, concedidos de acordo com as condições estabelecidas nos referidos regulamentos e regras.
 
-![](https://files.diariodarepublica.pt/images/1169277026/1169276973.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277026/1169276973.png) |
+| --- |
 
 Voor het Koninkrijk België:
 
@@ -2073,7 +2087,8 @@ Pοur le Royaume de Belgique:
 
 Für das Königreich Belgien:
 
-![](https://files.diariodarepublica.pt/images/1169277026/1169276974.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277026/1169276974.png) |
+| --- |
 
 Deze handtekening verbindt eveneens het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest.
 
@@ -2083,111 +2098,137 @@ Diese Unterschrift bindet zugleich die Wallonische Region, die Flämische Region
 
 За Република България:
 
-![](https://files.diariodarepublica.pt/images/1169277026/1169908775.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277026/1169908775.png) |
+| --- |
 
 Ζa Českou republiku:
 
-![](https://files.diariodarepublica.pt/images/1169277026/1169908776.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277026/1169908776.png) |
+| --- |
 
 For Kongeriget Danmark:
 
-![](https://files.diariodarepublica.pt/images/1169277026/1169908777.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277026/1169908777.png) |
+| --- |
 
 Für die Bundesrepublik Deutschland:
 
-![](https://files.diariodarepublica.pt/images/1169277026/1169908778.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277026/1169908778.png) |
+| --- |
 
 Eesti Vabariigi nimel:
 
-![](https://files.diariodarepublica.pt/images/1169277026/1169908779.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277026/1169908779.png) |
+| --- |
 
 Thar cheann na hÉireann:
 
 For Ireland:
 
-![](https://files.diariodarepublica.pt/images/1169277026/1169908780.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277026/1169908780.png) |
+| --- |
 
 Για την Eλληνική Δημοκρατία:
 
-![](https://files.diariodarepublica.pt/images/1169277026/1169908781.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277026/1169908781.png) |
+| --- |
 
 Por el Reino de España:
 
-![](https://files.diariodarepublica.pt/images/1169277026/1169908782.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277026/1169908782.png) |
+| --- |
 
 Pour la République française:
 
-![](https://files.diariodarepublica.pt/images/1169277026/1169908783.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277026/1169908783.png) |
+| --- |
 
 Za Republiku Hrvatsku:
 
-![](https://files.diariodarepublica.pt/images/1169277026/1169908784.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277026/1169908784.png) |
+| --- |
 
 Per la Repubblica italiana:
 
-![](https://files.diariodarepublica.pt/images/1169277026/1169908785.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277026/1169908785.png) |
+| --- |
 
 Για την Κυπριακή Δημοκρατία:
 
-![](https://files.diariodarepublica.pt/images/1169277026/1169908786.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277026/1169908786.png) |
+| --- |
 
 Latvijas Republikas vārdā:
 
-![](https://files.diariodarepublica.pt/images/1169277026/1169908787.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277026/1169908787.png) |
+| --- |
 
 Lietuvos Respublikos vardu:
 
-![](https://files.diariodarepublica.pt/images/1169277026/1169908788.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277026/1169908788.png) |
+| --- |
 
 Pour le Grand-Duché de Luxembourg:
 
-![](https://files.diariodarepublica.pt/images/1169277026/1169908789.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277026/1169908789.png) |
+| --- |
 
 Magyarország részéről:
 
-![](https://files.diariodarepublica.pt/images/1169277026/1169908790.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277026/1169908790.png) |
+| --- |
 
 Għar-Repubblika ta’ Malta:
 
-![](https://files.diariodarepublica.pt/images/1169277026/1169908791.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277026/1169908791.png) |
+| --- |
 
 Voor het Koninkrijk der Nederlanden:
 
-![](https://files.diariodarepublica.pt/images/1169277026/1169908792.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277026/1169908792.png) |
+| --- |
 
 Für die Republik Österreich:
 
-![](https://files.diariodarepublica.pt/images/1169277026/1169908793.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277026/1169908793.png) |
+| --- |
 
 W imieniu Rzeczypospolitej Polskiej:
 
-![](https://files.diariodarepublica.pt/images/1169277026/1169908794.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277026/1169908794.png) |
+| --- |
 
 Pela República Portuguesa:
 
-![](https://files.diariodarepublica.pt/images/1169277026/1169908795.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277026/1169908795.png) |
+| --- |
 
 Pentru România:
 
-![](https://files.diariodarepublica.pt/images/1169277026/1169908796.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277026/1169908796.png) |
+| --- |
 
 Ζa Republiko Slovenijo:
 
-![](https://files.diariodarepublica.pt/images/1169277026/1169908797.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277026/1169908797.png) |
+| --- |
 
 Ζa Slovenskú republiku:
 
-![](https://files.diariodarepublica.pt/images/1169277026/1169908798.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277026/1169908798.png) |
+| --- |
 
 Suοmen tasavallan puolesta:
 
 För Republiken Finland:
 
-![](https://files.diariodarepublica.pt/images/1169277026/1169908799.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277026/1169908799.png) |
+| --- |
 
 För Konungariket Sverige:
 
-![](https://files.diariodarepublica.pt/images/1169277026/1169908800.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277026/1169908800.png) |
+| --- |
 
 Зa Eвpoпeйcκия сьюз:
 
@@ -2237,12 +2278,18 @@ Euroopan unionin puolesta:
 
 För Europeiska unionen:
 
-![](https://files.diariodarepublica.pt/images/1169277026/1169908801.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277026/1169908801.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1169277026/1169908802.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277026/1169908802.png) |
+| --- |
 
 3a YĸpaїHy
 
-![](https://files.diariodarepublica.pt/images/1169277026/1169908803.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277026/1169908803.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1169277026/1169908804.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277026/1169908804.png) |
+| --- |
+
+119949209

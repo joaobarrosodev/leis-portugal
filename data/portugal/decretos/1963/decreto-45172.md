@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45172-1963-693579
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:36:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24aff19672f7e03cd197afb12c720a71235564b3dea1232c082a8376b99eee8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a21d15e0ec572c6390825f48efcab0a6bcb1e6db635830eb227c91e3aa8a33cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:36:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:36:03Z'
   warnings: []
   errors: []
 ---
@@ -91,17 +91,17 @@ Em tais termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, por motivo de urgência, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É criado o lugar de secretário-geral nas províncias ultramarinas de governo simples.
+Artigo 1.º É criado o lugar de secretário-geral nas províncias ultramarinas de governo simples.
 
 § único. O secretário-geral terá a categoria de director-geral, exerce o cargo em comissão e é nomeado pelo Ministro do Ultramar, sob proposta dos respectivos governadores.
 
-###### Art. 2.º As delegações feitas nos secretários-gerais constarão de portaria.
+Art. 2.º As delegações feitas nos secretários-gerais constarão de portaria.
 
-###### Art. 3.º O provimento dos lugares referidos no artigo 1.º será feito à medida que forem sendo dotados no orçamento das províncias ultramarinas a que respeitem.
+Art. 3.º O provimento dos lugares referidos no artigo 1.º será feito à medida que forem sendo dotados no orçamento das províncias ultramarinas a que respeitem.
 
 § único. Fica desde já autorizado o Governo da província da Guiné a abrir os créditos necessários para ocorrer aos encargos com a dotação do lugar de secretário-geral.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Julho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/1/2009/01/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/1-2009-603069
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-16T00:00:00Z'
+  retrieved_at: '2026-10-22T17:52:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c1c353a56c7383030ba12bc95e8d198ee5e5cf2505b59e1b68758ca6ee30ed0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e388c4940f0c8a7c158175e59e5b521f6941f1f0b8bdcd40048c57c1bd041e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:52:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
 - Contra-ordenação
 - Interpretação do Direito
 - Prazo Processual
+- Recurso
 - Regime das contra Ordenações
 relationships:
 - type: cites
@@ -100,16 +100,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/59/1998/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/59/1998/08/25/p/dre
+- type: cites
+  target: pt:dre:226051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693064:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:52:34Z'
   warnings: []
   errors: []
 ---
@@ -284,7 +324,9 @@ Interposição e notificação do recurso
 
 ...
 
-###### Artigo 413.º — Resposta
+Artigo 413.º
+
+Resposta
 
 1 - Os sujeitos processuais afectados pela interposição do recurso podem responder no prazo de 15 dias, contados da data da notificação referida no artigo 411.º, n.os 5 e 6.
 
@@ -300,7 +342,9 @@ Direito subsidiário
 
 ...
 
-###### Artigo 74.º (3) — Regime do recurso
+Artigo 74.º (3)
+
+Regime do recurso
 
 1 - O recurso deve ser interposto no prazo de 10 dias a partir da sentença ou do despacho, ou da sua notificação ao arguido, caso a decisão tenha sido proferida sem a presença deste.
 

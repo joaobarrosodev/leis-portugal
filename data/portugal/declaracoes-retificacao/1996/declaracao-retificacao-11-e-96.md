@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 149/1996, 3º Suplemento, Série I-B de 1996-06-29
   number: '149'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 1690-(12) a 1690-(22)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/06/149b03/00120022.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/11-e/1996/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-e-1996-218318
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-06-29T00:00:00Z'
+  retrieved_at: '2026-10-22T18:46:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3eb8819905cd485104bcdf90f689079b9fa846491ea4cac6875f0de769badad7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35547d610bb43b20e8bfa77d25fb676390409efe5d5df9cb94d873e2b28431d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:46:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -111,16 +111,176 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/81/1996/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/81/1996/06/05/p/dre
+- type: cites
+  target: pt:dre:155001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682209:por
+  label: null
+  source: null
 article_structure:
-  article_count: 41
+  article_count: 42
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:46:39Z'
   warnings: []
   errors: []
 ---
@@ -1133,7 +1293,9 @@ Um lugar de estacionamento dentro do lote por 3 quartos;
 
 Um lugar para autocarro por 50 quartos.
 
-### CAPÍTULO VIII — Artigo 31.º
+### CAPÍTULO VIII
+
+###### Artigo 31.º
 
 Operações de loteamento
 
@@ -1315,20 +1477,20 @@ Compete à Câmara Municipal de Ansião, em colaboração com as demais entidade
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira.
 
-**Assinado em 24 de Março de 1988.**
+Assinado em 24 de Março de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Março de 1988.**
+Referendado em 28 de Março de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/06/149b03/00120022.pdf))](https://files.diariodarepublica.pt/1s/1996/06/149b03/00120022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/06/149b03/00120022.pdf)
 
 ## ANEXO N.º 2 — Direcção dos Serviços Geodésicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/06/149b03/00120022.pdf))](https://files.diariodarepublica.pt/1s/1996/06/149b03/00120022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/06/149b03/00120022.pdf)
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 24 de Junho de 1996. - O Secretário-Geral, Alexandre Figueiredo.

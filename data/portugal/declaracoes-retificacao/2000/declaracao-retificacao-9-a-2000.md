@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 205/2000, 2º Suplemento, Série I-B de 2000-09-05
   number: '205'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4722-(82) a 4722-(89)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/09/205b02/00820089.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/9-a/2000/09/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-a-2000-234755
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-16T00:00:00Z'
+  retrieved_at: '2026-10-22T18:57:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b452ab55a16294187e17421149000a8cd648557173682b9922ca606902531b3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64e5447456908152fdeb7dc50a2ab9aceaefed06be874d24aee44d393490d7a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:57:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ reuse:
 subjects:
 - Criação de Serviços
 - Extinção de Lugares
-- Pessoal de Justiça
 - Integração de Trabalhadores
-- Supremo Tribunal de Justiça
-- Quadro de Pessoal
 - Ministério Público
 - Organização Judiciária
+- Pessoal de Justiça
+- Quadro de Pessoal
 - Secretaria Judicial
+- Supremo Tribunal de Justiça
 - Tribunal Administrativo
 relationships:
 - type: amended_by
@@ -87,16 +87,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/721-a/2000/09/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/721-a/2000/09/05/p/dre
+- type: cites
+  target: pt:dre:234756:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 39
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:57:06Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +119,7 @@ deve ler-se:
 
 «Secretaria do Tribunal Marítimo
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:»
 
@@ -139,7 +143,7 @@ Secretário de justiça ... 1
 
 Serviços judiciais
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -171,7 +175,7 @@ Secretário de justiça ... 1
 
 Serviços judiciais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -227,7 +231,7 @@ Operador de reprografia ... 1
 
 Serviços judiciais
 
-#### Secção central, secção de serviço externo e seis secções de processos, sendo três afectas aos juízos de competência especializada cível, duas afectas aos juízos de competência especializada criminal e uma afecta ao tribunal de família e de menores:
+Secção central, secção de serviço externo e seis secções de processos, sendo três afectas aos juízos de competência especializada cível, duas afectas aos juízos de competência especializada criminal e uma afecta ao tribunal de família e de menores:
 
 Pessoal:
 
@@ -241,7 +245,7 @@ Escrivão auxiliar ... 27
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -265,7 +269,7 @@ Secretário de justiça ... 1
 
 Serviços judiciais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -301,7 +305,7 @@ Secretário de justiça ... 1
 
 Serviços judiciais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -353,7 +357,7 @@ Operador de reprografia ... 1
 
 Serviços judiciais
 
-#### Secção central, secção de serviço externo e sete secções de processos, sendo cinco afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
+Secção central, secção de serviço externo e sete secções de processos, sendo cinco afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -367,7 +371,7 @@ Escrivão auxiliar ... 35
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -389,7 +393,7 @@ Secretário de justiça ... 1
 
 Serviços judiciais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -425,7 +429,7 @@ Secretário de justiça ... 1
 
 Serviços judiciais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -477,7 +481,7 @@ Operador de reprografia ... 1
 
 Serviços judiciais
 
-#### Secção central, secção de serviço externo e catorze secções de processos, sendo duas afectas à vara de competência mista cível e criminal, sete afectas aos juízos cíveis, quatro afectas aos juízos criminais e uma afecta ao tribunal de família e de menores:
+Secção central, secção de serviço externo e catorze secções de processos, sendo duas afectas à vara de competência mista cível e criminal, sete afectas aos juízos cíveis, quatro afectas aos juízos criminais e uma afecta ao tribunal de família e de menores:
 
 Pessoal:
 
@@ -491,7 +495,7 @@ Escrivão auxiliar ... 53
 
 Secretaria do Ministério Público
 
-#### Secção central e quatro secções de processos:
+Secção central e quatro secções de processos:
 
 Pessoal:
 
@@ -515,7 +519,7 @@ Secretário de justiça ... 1
 
 Serviços judiciais
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -549,7 +553,7 @@ Telefonista ... 1
 
 Serviços judiciais
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -585,7 +589,7 @@ Secretário de justiça ... 1
 
 Serviços judiciais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -619,7 +623,7 @@ Secretário de justiça ... 1
 
 Serviços judiciais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -655,7 +659,7 @@ Secretário de justiça ... 1
 
 Serviços judiciais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -703,7 +707,7 @@ Telefonista ... 1
 
 Serviços judiciais
 
-#### Secção central e de serviço externo e três secções de processos:
+Secção central e de serviço externo e três secções de processos:
 
 Pessoal:
 
@@ -717,7 +721,7 @@ Escrivão auxiliar ... 16
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -739,7 +743,7 @@ Secretário de justiça ... 1
 
 Serviços judiciais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -775,7 +779,7 @@ Secretário de justiça ... 1
 
 Serviços judiciais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -817,7 +821,7 @@ Oficial porteiro (ver nota a) ... 1
 
 Serviços judiciais
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -853,7 +857,7 @@ Secretário de justiça ... 1
 
 Serviços judiciais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -887,7 +891,7 @@ Secretário de justiça ... 1
 
 Serviços judiciais
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -923,7 +927,7 @@ Oficial porteiro (ver nota a) ... 1
 
 Serviços judiciais
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -973,7 +977,7 @@ Operador de reprografia ... 1
 
 Serviços judiciais
 
-#### Secção central e de serviço externo e seis secções de processos, sendo quatro afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
+Secção central e de serviço externo e seis secções de processos, sendo quatro afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -987,7 +991,7 @@ Escrivão auxiliar ... 24
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -1009,7 +1013,7 @@ Secretário de justiça ... 1
 
 Serviços judiciais
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -1045,7 +1049,7 @@ Secretário de justiça ... 1
 
 Serviços judiciais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -1115,7 +1119,7 @@ Operador de reprografia ... 2
 
 Serviços judiciais
 
-#### Secção de expediente e contabilidade, cinco secções de processos e serviços de apoio:
+Secção de expediente e contabilidade, cinco secções de processos e serviços de apoio:
 
 Pessoal:
 
@@ -1173,7 +1177,7 @@ Auxiliar administrativo ... 2
 
 Serviços judiciais
 
-#### Secção de expediente e contabilidade, três secções de processos e serviços de apoio:
+Secção de expediente e contabilidade, três secções de processos e serviços de apoio:
 
 Pessoal:
 
@@ -1211,7 +1215,7 @@ Auxiliar de segurança ... 1
 
 Serviços judiciais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -1247,7 +1251,7 @@ Auxiliar de segurança ... 1
 
 Serviços judiciais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -1285,7 +1289,7 @@ Auxiliar de segurança ... 1
 
 Serviços judiciais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -1321,7 +1325,7 @@ Auxiliar de segurança ... 1
 
 Serviços judiciais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -1373,7 +1377,7 @@ Auxiliar administrativo ... 1
 
 Serviços judiciais
 
-#### Secção central, quatro secções de processos e serviços de apoio:
+Secção central, quatro secções de processos e serviços de apoio:
 
 Pessoal:
 
@@ -1411,7 +1415,7 @@ Auxiliar de segurança ... 1
 
 Serviços judiciais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -1445,7 +1449,7 @@ Assistente administrativo especialista, assistente administrativo principal ou a
 
 Serviços judiciais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 

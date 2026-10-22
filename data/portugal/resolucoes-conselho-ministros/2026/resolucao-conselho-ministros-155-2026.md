@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/07/14400/0006200064.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/155/2026/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/155-2026-1152696597
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-28T00:00:00Z'
+  retrieved_at: '2026-10-22T18:48:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 818a8b38a7e9be0850eadf13320d3580f4276906926096d161f0a8422e2435f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b094df85d41c9d1adb606519b3a3e7868d98bb284cd48e236bffdc8bac0de1c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:48:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Conselho de Administração
 - Conselho de Ministros
 - Entidade Reguladora dos Serviços das Águas e dos Resíduos
 - Nomeação
+- Pessoal Dirigente
 - Vogal
 relationships:
 - type: cites
@@ -80,16 +80,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/2013/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/2013/08/28/p/dre
+- type: cites
+  target: pt:dre:499499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572143:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:48:12Z'
   warnings: []
   errors: []
 ---
@@ -167,3 +175,5 @@ Representação socioprofissional:
 De março de 2019 a abril de 2025: presidente do Colégio de Engenharia do Ambiente da Ordem dos Engenheiros, onde é desde esta data e até hoje membro do Conselho de Admissão e Qualificação em representação da especialidade de Engenharia do Ambiente;
 
 Entre dezembro de 1999 e fevereiro 2004, integrou a direção da APEA - Associação Portuguesa de Engenharia do Ambiente.
+
+119949137

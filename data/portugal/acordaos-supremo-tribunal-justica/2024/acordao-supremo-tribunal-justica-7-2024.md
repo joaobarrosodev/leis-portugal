@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/06/11900/0001800026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/7/2024/06/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/7-2024-869623321
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-06-21T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05f50ecc196e59a023d85e22f01fea2cea218dffc2be6ab6e19128f20e9d2406
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8a6884b1ae006586cde1bf9b7b80fd4ce2fa2dd5ff8a06df9689dbaf1851049
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,14 +69,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Cessação do Contrato de Trabalho
+- Código do Trabalho
 - Compensação Remuneratória
 - Despedimento
 - Direito do Trabalho
-- Código do Trabalho
 - Interpretação do Direito
 - Jurisprudencia
 - Supremo Tribunal de Justiça
-- Cessação do Contrato de Trabalho
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/23/2012/06/25/p/dre
@@ -94,16 +94,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+- type: cites
+  target: pt:dre:178501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621302:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:13Z'
   warnings: []
   errors: []
 ---
@@ -142,9 +162,9 @@ As Autoras interpuseram recurso de apelação.
 
 Por acórdão do Tribunal da Relação do Porto de 03-10-2022 foi decidido “considerar improcedente o recurso, confirmando a decisão recorrida”.
 
-Sublinhe-se que o Acórdão recorrido decidiu, no seguimento da sentença de 1.ª instância, que as recorrentes ao receberem, e não devolverem de imediato, o valor das compensações, mas apenas 19 dias depois, e sem qualquer razão justificativa, adotaram uma conduta contraditória com o propósito de recusa do despedimento, pelo que não ilidiram a presunção de aceitação do despedimento prevista no art. 366.º, n.º 5, do Código do Trabalho<sup>1</sup>.
+Sublinhe-se que o Acórdão recorrido decidiu, no seguimento da sentença de 1.ª instância, que as recorrentes ao receberem, e não devolverem de imediato, o valor das compensações, mas apenas 19 dias depois, e sem qualquer razão justificativa, adotaram uma conduta contraditória com o propósito de recusa do despedimento, pelo que não ilidiram a presunção de aceitação do despedimento prevista no art. 366.º, n.º 5, do Código do Trabalho1.
 
-Inconformadas, as Autoras vieram interpor recurso de Revista Excecional para a Secção Social deste Supremo Tribunal de Justiça, com fundamento no disposto no artigo 672.º, n.º 1, als. a), b) e c), do Código de Processo Civil<sup>2</sup>, por entenderem estar em causa uma questão cuja apreciação, pela relevância jurídica, é claramente necessária para uma melhor aplicação do Direito e em que a decisão do tribunal a quo contraria, por oposta nos seus fundamentos, Acórdãos recentes deste Supremo Tribunal.
+Inconformadas, as Autoras vieram interpor recurso de Revista Excecional para a Secção Social deste Supremo Tribunal de Justiça, com fundamento no disposto no artigo 672.º, n.º 1, als. a), b) e c), do Código de Processo Civil2, por entenderem estar em causa uma questão cuja apreciação, pela relevância jurídica, é claramente necessária para uma melhor aplicação do Direito e em que a decisão do tribunal a quo contraria, por oposta nos seus fundamentos, Acórdãos recentes deste Supremo Tribunal.
 
 De acordo com as Conclusões do seu recurso está em causa saber se as Autoras ilidiram a presunção prevista no artigo 366.º, n.º 4 do Código do Trabalho, nos termos do n.º 5 do mesmo preceito e se a interpretação e aplicação do artigo 366.º, n.º 4 e 5 do Código do Trabalho efetuadas pelo Tribunal recorrido são inconstitucionais por violação do disposto nos artigos 20.º, n.º 1 e 53.º da Constituição.
 
@@ -238,11 +258,11 @@ De Direito
 
 A questão que se coloca no presente recurso de revista consiste, desde logo, em saber qual o prazo para a devolução da compensação recebida em caso de despedimento coletivo (artigo 366.º do CT), despedimento por extinção do posto de trabalho (artigo 372.º do CT que manda aplicar a esta modalidade de cessação do contrato de trabalho, entre outros, o artigo 366.º) e despedimento por inadaptação (artigo 366.º aplicável ex vi artigo 379.º n.º 1), isto é, o prazo, nas palavras do n.º 5 do artigo 366.º do CT, para que “o trabalhador entregue ou ponha, por qualquer forma, a totalidade da compensação paga pelo empregador à disposição deste último” - de modo a ilidir a presunção de que o trabalhador aceita o despedimento quando recebe a totalidade da compensação, presunção que consta do n.º 4 do mesmo preceito.
 
-A LCCT aprovada pelo [Decreto-Lei n.º 64-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-1989-621302) de 27 de fevereiro estabelecia no seu artigo 23.º n.º 3 uma presunção, considerada pela jurisprudência e doutrinas dominantes como inilidível, ao referir que o recebimento pelo trabalhador da compensação a que se referia tal artigo “vale como aceitação do despedimento”. Tal norma foi eliminada pela [Lei n.º 32/99](https://diariodarepublica.pt/dr/detalhe/lei/32-1999-323076) de 18 de maio, mas o Código do Trabalho de 2003 reintroduziu uma presunção de aceitação do despedimento no seu artigo 401.º n.º 4, ainda que ilidível. Sublinhe-se que tal reintrodução da presunção foi qualificada, já à época, por alguma doutrina, como uma solução pouco feliz. O CT de 2003 não continha, no entanto, qualquer regra similar ao n.º 5 do artigo 366.º do atual CT. Foi apenas com o Código do Trabalho de 2009 que tal regra surgiu, sendo que, na sua redação originária a norma previa que “[a] presunção referida no número anterior pode ser ilidida desde que, em simultâneo, o trabalhador entregue ou ponha, por qualquer forma, à disposição do empregador a totalidade da compensação pecuniária recebida” <sup>3</sup>.
+A LCCT aprovada pelo [Decreto-Lei n.º 64-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-1989-621302) de 27 de fevereiro estabelecia no seu artigo 23.º n.º 3 uma presunção, considerada pela jurisprudência e doutrinas dominantes como inilidível, ao referir que o recebimento pelo trabalhador da compensação a que se referia tal artigo “vale como aceitação do despedimento”. Tal norma foi eliminada pela [Lei n.º 32/99](https://diariodarepublica.pt/dr/detalhe/lei/32-1999-323076) de 18 de maio, mas o Código do Trabalho de 2003 reintroduziu uma presunção de aceitação do despedimento no seu artigo 401.º n.º 4, ainda que ilidível. Sublinhe-se que tal reintrodução da presunção foi qualificada, já à época, por alguma doutrina, como uma solução pouco feliz. O CT de 2003 não continha, no entanto, qualquer regra similar ao n.º 5 do artigo 366.º do atual CT. Foi apenas com o Código do Trabalho de 2009 que tal regra surgiu, sendo que, na sua redação originária a norma previa que “[a] presunção referida no número anterior pode ser ilidida desde que, em simultâneo, o trabalhador entregue ou ponha, por qualquer forma, à disposição do empregador a totalidade da compensação pecuniária recebida” 3.
 
-Subjacente à presunção legal de aceitação do despedimento com o recebimento da compensação estava a proibição do abuso de direito na modalidade de venire contra factum proprium. Com efeito, seria contraditória a atuação do trabalhador que pretendesse conservar a compensação recebida por um despedimento apresentado pelo empregador como lícito e, ao mesmo tempo, impugnar ou desafiar judicialmente essa mesma licitude. Tal contradição é, porventura, mais evidente atendendo a que na nossa lei mesmo nos casos de despedimento por causas objetivas que seja ilícito o efeito natural dessa ilicitude é a reintegração do trabalhador, caso esta seja possível. Também se compreende facilmente a existência de uma contradição entre o pedido de suspensão judicial do despedimento e a não devolução da compensação. É certo que frequentemente a reintegração não ocorrerá, mesmo que o despedimento seja declarado ilícito, até porque o trabalhador, desde logo, pode optar pela indemnização substitutiva da reintegração. É tendo em conta esta situação, porventura a mais frequente, em que não há lugar a qualquer reintegração, que a doutrina tem criticado mais intensamente a solução legal, aduzindo que o trabalhador terá que devolver a compensação recebida, quando, no fim de contas, acabará por ter direito a um montante que será normalmente superior<sup>4</sup>. Note-se, no entanto, que quem invoca a ilicitude do comportamento do empregador arroga-se o direito a uma indemnização e não a uma compensação por facto lícito, como a que lhe foi entregue pelo empregador e, portanto, do ponto de vista lógico, nega a causa pela qual lhe foi entregue aquela compensação. E foi isso mesmo o que se afirmou no Acórdão do STJ de 03-04-2013, processo n.º 1777/08.0TTPRT.P1.S1: “a retenção da compensação por parte do trabalhador quando não concorde com o despedimento coletivo de que é objeto seria manifestamente contrária ao princípio da boa fé [...] [n]a verdade, a disponibilização da compensação não visa antecipar o pagamento de quaisquer indemnizações a que o trabalhador se sinta com direito decorrente de uma eventual ilicitude do despedimento, ou resolver os problemas sociais derivados do despedimento [...] não conferindo o sistema jurídico qualquer direito sobre esse quantitativo ao trabalhador despedido que pretenda impugnar o despedimento e não concorde com o mesmo” <sup>5</sup>.
+Subjacente à presunção legal de aceitação do despedimento com o recebimento da compensação estava a proibição do abuso de direito na modalidade de venire contra factum proprium. Com efeito, seria contraditória a atuação do trabalhador que pretendesse conservar a compensação recebida por um despedimento apresentado pelo empregador como lícito e, ao mesmo tempo, impugnar ou desafiar judicialmente essa mesma licitude. Tal contradição é, porventura, mais evidente atendendo a que na nossa lei mesmo nos casos de despedimento por causas objetivas que seja ilícito o efeito natural dessa ilicitude é a reintegração do trabalhador, caso esta seja possível. Também se compreende facilmente a existência de uma contradição entre o pedido de suspensão judicial do despedimento e a não devolução da compensação. É certo que frequentemente a reintegração não ocorrerá, mesmo que o despedimento seja declarado ilícito, até porque o trabalhador, desde logo, pode optar pela indemnização substitutiva da reintegração. É tendo em conta esta situação, porventura a mais frequente, em que não há lugar a qualquer reintegração, que a doutrina tem criticado mais intensamente a solução legal, aduzindo que o trabalhador terá que devolver a compensação recebida, quando, no fim de contas, acabará por ter direito a um montante que será normalmente superior4. Note-se, no entanto, que quem invoca a ilicitude do comportamento do empregador arroga-se o direito a uma indemnização e não a uma compensação por facto lícito, como a que lhe foi entregue pelo empregador e, portanto, do ponto de vista lógico, nega a causa pela qual lhe foi entregue aquela compensação. E foi isso mesmo o que se afirmou no Acórdão do STJ de 03-04-2013, processo n.º 1777/08.0TTPRT.P1.S1: “a retenção da compensação por parte do trabalhador quando não concorde com o despedimento coletivo de que é objeto seria manifestamente contrária ao princípio da boa fé [...] [n]a verdade, a disponibilização da compensação não visa antecipar o pagamento de quaisquer indemnizações a que o trabalhador se sinta com direito decorrente de uma eventual ilicitude do despedimento, ou resolver os problemas sociais derivados do despedimento [...] não conferindo o sistema jurídico qualquer direito sobre esse quantitativo ao trabalhador despedido que pretenda impugnar o despedimento e não concorde com o mesmo” 5.
 
-É à luz desta teleologia que importa interpretar as normas do n.º 4 e do n.º 5 do artigo 366.º do CT, sendo que a doutrina já apelidou aquela de “norma estranha e perturbadora” <sup>6</sup> e, a propósito desta última, já caraterizou a expressão “em simultâneo” como uma “misteriosa locução” <sup>7</sup>.
+É à luz desta teleologia que importa interpretar as normas do n.º 4 e do n.º 5 do artigo 366.º do CT, sendo que a doutrina já apelidou aquela de “norma estranha e perturbadora” 6 e, a propósito desta última, já caraterizou a expressão “em simultâneo” como uma “misteriosa locução” 7.
 
 Com efeito, pergunta-se, se o trabalhador para ilidir a presunção de que aceitou o despedimento, tem que devolver em simultâneo a compensação recebida, importa questionar “em simultâneo” com quê, e, por conseguinte, até quando?
 
@@ -264,17 +284,17 @@ Assim, enquanto no Acórdão proferido a 17/03/2016, no processo n.º 1274/12.0T
 
 A mesma disparidade de soluções encontra-se ao nível doutrinal. Além de um importante segmento da doutrina criticar a bondade da solução legislativa da existência da presunção de aceitação do despedimento pelo trabalhador que recebe a compensação que lhe é devida e suscitar dúvidas quanto à sua constitucionalidade, verifica-se, também, uma acentuada divergência quanto ao prazo para a restituição da compensação pelo trabalhador.
 
-Alguns Autores defendem que embora não haja propriamente um prazo previsto na lei para efetuar a devolução, o facto de que a lei associa ao mero recebimento da compensação a presunção de aceitação implicaria que tal “presunção [...] uma vez constituída não será fácil de ilidir” <sup>8</sup>. Para PEDRO FURTADO MARTINS, inclusive, seria relevante a forma de pagamento utilizada pelo empregador e “[s]e o pagamento foi oferecido diretamente ao trabalhador, em numerário ou em cheque, pensamos que este deve recusar de imediato a receção das quantias oferecidas, sob pena de aceitando-as nascer a presunção de aceitação” <sup>9</sup>.
+Alguns Autores defendem que embora não haja propriamente um prazo previsto na lei para efetuar a devolução, o facto de que a lei associa ao mero recebimento da compensação a presunção de aceitação implicaria que tal “presunção [...] uma vez constituída não será fácil de ilidir” 8. Para PEDRO FURTADO MARTINS, inclusive, seria relevante a forma de pagamento utilizada pelo empregador e “[s]e o pagamento foi oferecido diretamente ao trabalhador, em numerário ou em cheque, pensamos que este deve recusar de imediato a receção das quantias oferecidas, sob pena de aceitando-as nascer a presunção de aceitação” 9.
 
-Mas outro segmento doutrinal em que importa destacar MILENA ROUXINOL<sup>10</sup>, ANTERO VEIGA<sup>11</sup> e PAULA QUINTAS<sup>12</sup>, defende, pelo contrário, que o trabalhador poderia ilidir a presunção até à data em que impugna judicialmente o despedimento e, consequentemente, devolver a compensação recebida em simultâneo com esse ato.
+Mas outro segmento doutrinal em que importa destacar MILENA ROUXINOL10, ANTERO VEIGA11 e PAULA QUINTAS12, defende, pelo contrário, que o trabalhador poderia ilidir a presunção até à data em que impugna judicialmente o despedimento e, consequentemente, devolver a compensação recebida em simultâneo com esse ato.
 
-A tese segundo a qual o trabalhador deveria restituir a compensação em simultâneo com o seu recebimento gera, desde logo, um paradoxo, sobretudo quando conduzindo à posição adotada por PEDRO FURTADO MARTINS segundo a qual se o empregador lhe entregasse um cheque o trabalhador deveria recusar-se, sequer, a recebê-lo. Em rigor, em tal situação, nem sequer se poderia falar em ilidir uma presunção já que a mesma nem sequer teria chegado a nascer. Mas o seu principal defeito é que na prática ela compromete ou esvazia o prazo de que o trabalhador dispõe para, por exemplo, impugnar um despedimento. A lei não impõe ao trabalhador uma decisão imediata sobre tal matéria. E compreende-se que não o faça: o trabalhador deve dispor de um prazo razoável para ponderar da oportunidade de tal impugnação com os custos e demoras que a mesma pode acarretar. E deve igualmente dispor de um prazo para apreciar por exemplo os motivos aduzidos para o despedimento, a sua veracidade e coerência com a decisão e o respeito pelo respetivo procedimento. O que implica aconselhamento e informação jurídicos. Como refere ANTERO VEIGA, “o direito de acesso à justiça, na vertente do direito à consulta e informação jurídica, fica prejudicado, já que o trabalhador se vê impedido de consultar um advogado, em tempo útil, para se inteirar da regularidade do despedimento, nos seus mais diversos aspetos, substantivos e procedimentais, parecendo manifesto não estar o trabalhador dotado do saber, designadamente jurídico, para tais questões, sobretudo as atinentes às questões procedimentais”<sup>13</sup>.
+A tese segundo a qual o trabalhador deveria restituir a compensação em simultâneo com o seu recebimento gera, desde logo, um paradoxo, sobretudo quando conduzindo à posição adotada por PEDRO FURTADO MARTINS segundo a qual se o empregador lhe entregasse um cheque o trabalhador deveria recusar-se, sequer, a recebê-lo. Em rigor, em tal situação, nem sequer se poderia falar em ilidir uma presunção já que a mesma nem sequer teria chegado a nascer. Mas o seu principal defeito é que na prática ela compromete ou esvazia o prazo de que o trabalhador dispõe para, por exemplo, impugnar um despedimento. A lei não impõe ao trabalhador uma decisão imediata sobre tal matéria. E compreende-se que não o faça: o trabalhador deve dispor de um prazo razoável para ponderar da oportunidade de tal impugnação com os custos e demoras que a mesma pode acarretar. E deve igualmente dispor de um prazo para apreciar por exemplo os motivos aduzidos para o despedimento, a sua veracidade e coerência com a decisão e o respeito pelo respetivo procedimento. O que implica aconselhamento e informação jurídicos. Como refere ANTERO VEIGA, “o direito de acesso à justiça, na vertente do direito à consulta e informação jurídica, fica prejudicado, já que o trabalhador se vê impedido de consultar um advogado, em tempo útil, para se inteirar da regularidade do despedimento, nos seus mais diversos aspetos, substantivos e procedimentais, parecendo manifesto não estar o trabalhador dotado do saber, designadamente jurídico, para tais questões, sobretudo as atinentes às questões procedimentais”13.
 
 Na verdade, para que serve conceder ao trabalhador seis meses para impugnar judicialmente o despedimento coletivo se, a final, quando receba, por exemplo na sua conta bancária, a compensação que o empregador é obrigado a pôr à sua disposição como condição da licitude desse mesmo despedimento coletivo, tenha que decidir em alguns poucos dias se o vai ou não impugnar, porque nesses poucos dias teria que devolver a compensação recebida?
 
-Em suma, e como se destaca no Acórdão deste Tribunal proferido a 12/10/2022, no processo n.º 1333/20.5T8LRA.C1.S1, “a expressão “em simultâneo” significa que o fim prosseguido pelo legislador ao elaborar a norma - a “ratio legis” -, se concretiza na prática simultânea de dois atos: a devolução da totalidade da compensação e outro ato associado, e não no imediatismo dessa devolução”<sup>14</sup>.
+Em suma, e como se destaca no Acórdão deste Tribunal proferido a 12/10/2022, no processo n.º 1333/20.5T8LRA.C1.S1, “a expressão “em simultâneo” significa que o fim prosseguido pelo legislador ao elaborar a norma - a “ratio legis” -, se concretiza na prática simultânea de dois atos: a devolução da totalidade da compensação e outro ato associado, e não no imediatismo dessa devolução”14.
 
-Aliás, não só o entendimento de que o trabalhador apenas tem de restituir a quantia recebida a título de compensação quando impugna judicialmente o despedimento ou, ele próprio, requer a suspensão judicial do despedimento, é o mais coerente com o prazo de que dispõe legalmente para tomar tal decisão<sup>15</sup>, como é o que melhor garante a certeza e a previsibilidade - dispensando a decisão casuística de quantos dias é que seria razoável para que o trabalhador efetuasse a devolução - e o mais conforme com o respeito pelo direito de acesso à justiça e o mais fiel à teleologia do preceito.
+Aliás, não só o entendimento de que o trabalhador apenas tem de restituir a quantia recebida a título de compensação quando impugna judicialmente o despedimento ou, ele próprio, requer a suspensão judicial do despedimento, é o mais coerente com o prazo de que dispõe legalmente para tomar tal decisão15, como é o que melhor garante a certeza e a previsibilidade - dispensando a decisão casuística de quantos dias é que seria razoável para que o trabalhador efetuasse a devolução - e o mais conforme com o respeito pelo direito de acesso à justiça e o mais fiel à teleologia do preceito.
 
 No mesmo sentido se pronuncia, de resto, o Ministério Público, no seu Parecer junto aos autos, em cumprimento do disposto no artigo 687.º n.º 1 do CPC, que depois de referir que de iure condendo se justificaria o desaparecimento da presunção, afirma no plano do direito constituído:
 
@@ -296,35 +316,35 @@ Custas deste recurso pelo Recorrido
 
 Remeta-se certidão para publicação na 1.ª série do Diário da República (artigo 687.º, n.º 5 do Código de Processo Civil)
 
-<sup>1</sup> Doravante designado por CT.
+1 Doravante designado por CT.
 
-<sup>2</sup> Doravante designado por CPC.
+2 Doravante designado por CPC.
 
-<sup>3</sup> A norma do n.º 5 do artigo 360.º foi alterada subsequentemente, passando a dispor que “[a] presunção referida no número anterior pode ser ilidida desde que, em simultâneo, o trabalhador entregue ou ponha, por qualquer forma, a totalidade da compensação pecuniária recebida à disposição do empregador e do fundo de compensação do trabalho ou mecanismo equivalente” (versão introduzida pela [Lei n.º 23/2012](https://diariodarepublica.pt/dr/detalhe/lei/23-2012-178501) de 23 de agosto) e, finalmente, que “[a] presunção referida no número anterior pode ser ilidida desde que, em simultâneo, o trabalhador entregue ou ponha, por qualquer forma, a totalidade da compensação paga pelo empregador à disposição deste último” (versão atual introduzida pela [Lei n.º 69/2013](https://diariodarepublica.pt/dr/detalhe/lei/69-2013-499541) de 30 de agosto; sublinhe-se que a mesma [Lei n.º 69/2013](https://diariodarepublica.pt/dr/detalhe/lei/69-2013-499541) alterou o n.º 4 do artigo 366.º prevendo-se agora que a presunção só opera quando o trabalhador recebe do empregador a totalidade da compensação.
+3 A norma do n.º 5 do artigo 360.º foi alterada subsequentemente, passando a dispor que “[a] presunção referida no número anterior pode ser ilidida desde que, em simultâneo, o trabalhador entregue ou ponha, por qualquer forma, a totalidade da compensação pecuniária recebida à disposição do empregador e do fundo de compensação do trabalho ou mecanismo equivalente” (versão introduzida pela [Lei n.º 23/2012](https://diariodarepublica.pt/dr/detalhe/lei/23-2012-178501) de 23 de agosto) e, finalmente, que “[a] presunção referida no número anterior pode ser ilidida desde que, em simultâneo, o trabalhador entregue ou ponha, por qualquer forma, a totalidade da compensação paga pelo empregador à disposição deste último” (versão atual introduzida pela [Lei n.º 69/2013](https://diariodarepublica.pt/dr/detalhe/lei/69-2013-499541) de 30 de agosto; sublinhe-se que a mesma [Lei n.º 69/2013](https://diariodarepublica.pt/dr/detalhe/lei/69-2013-499541) alterou o n.º 4 do artigo 366.º prevendo-se agora que a presunção só opera quando o trabalhador recebe do empregador a totalidade da compensação.
 
-<sup>4</sup> Veja-se, a título de exemplo, JOÃO LEAL AMADO, Receber e aceitar: em torno de presunções legais, orientações jurisprudenciais e convicções doutrinais, Prontuário de Direito do Trabalho, 2016, n.º 2, pp. 85 e ss., pp. 86-87: “É que, note-se, o trabalhador sempre receberá essa compensação, caso o despedimento coletivo seja considerado lícito. E, se não o for, o trabalhador receberá, em princípio, um montante pecuniário superior ao desta compensação, por força do disposto nos artigos 389.º a 392.º do CT”.
+4 Veja-se, a título de exemplo, JOÃO LEAL AMADO, Receber e aceitar: em torno de presunções legais, orientações jurisprudenciais e convicções doutrinais, Prontuário de Direito do Trabalho, 2016, n.º 2, pp. 85 e ss., pp. 86-87: “É que, note-se, o trabalhador sempre receberá essa compensação, caso o despedimento coletivo seja considerado lícito. E, se não o for, o trabalhador receberá, em princípio, um montante pecuniário superior ao desta compensação, por força do disposto nos artigos 389.º a 392.º do CT”.
 
-<sup>5</sup> Sublinhado nosso.
+5 Sublinhado nosso.
 
-<sup>6</sup> JOÃO LEAL AMADO, ob. cit., p. 86.
+6 JOÃO LEAL AMADO, ob. cit., p. 86.
 
-<sup>7</sup> MILENA SILVA ROUXINOL, Nótula em torno do regime do artigo 366.º, n.º 4 e 5 do Código do Trabalho (o afastamento da presunção em especial), Prontuário de Direito do Trabalho, 2017, n.º 2, pp. 75 e ss., p. 77.
+7 MILENA SILVA ROUXINOL, Nótula em torno do regime do artigo 366.º, n.º 4 e 5 do Código do Trabalho (o afastamento da presunção em especial), Prontuário de Direito do Trabalho, 2017, n.º 2, pp. 75 e ss., p. 77.
 
-<sup>8</sup> PEDRO FURTADO MARTINS, Cessação do Contrato de Trabalho, 3.ª ed. revista e atualizada, Principia Editora, p. 363.
+8 PEDRO FURTADO MARTINS, Cessação do Contrato de Trabalho, 3.ª ed. revista e atualizada, Principia Editora, p. 363.
 
-<sup>9</sup> PEDRO FURTADO MARTINS, ob. e lug. cit. PEDRO ROMANO MARTINEZ, Anotação ao artigo 366.º, in Código do Trabalho Anotado, Pedro Romano Martinez e Outros, 12.ª ed., Almedina, Coimbra, 2020, p. 847, afirma que a norma do n.º 5 do artigo suscita dúvidas, sendo uma delas que “a expressão “em simultâneo” pode ser entendida como devolução imediata, no próprio momento em que é recebida, afastando a hipótese de uma devolução posterior”.
+9 PEDRO FURTADO MARTINS, ob. e lug. cit. PEDRO ROMANO MARTINEZ, Anotação ao artigo 366.º, in Código do Trabalho Anotado, Pedro Romano Martinez e Outros, 12.ª ed., Almedina, Coimbra, 2020, p. 847, afirma que a norma do n.º 5 do artigo suscita dúvidas, sendo uma delas que “a expressão “em simultâneo” pode ser entendida como devolução imediata, no próprio momento em que é recebida, afastando a hipótese de uma devolução posterior”.
 
-<sup>10</sup> MILENA SILVA ROUXINOL, ob. cit., p. 88: “a devolução pode ter lugar até à data em que a ação é intentada”
+10 MILENA SILVA ROUXINOL, ob. cit., p. 88: “a devolução pode ter lugar até à data em que a ação é intentada”
 
-<sup>11</sup> ANTERO VEIGA, A presunção de aceitação do despedimento como consequência do recebimento da compensação (artigo 366.º do Código do Trabalho) - sua ilisão, Julgar Online março de 2019, pp. 1 e ss., p. 19: “o momento adequado seria aquele em que o trabalhador declara a sua vontade de impugnar o despedimento, de que não aceita o mesmo, que no limite pode coincidir com o momento em que introduz a ação em juízo”.
+11 ANTERO VEIGA, A presunção de aceitação do despedimento como consequência do recebimento da compensação (artigo 366.º do Código do Trabalho) - sua ilisão, Julgar Online março de 2019, pp. 1 e ss., p. 19: “o momento adequado seria aquele em que o trabalhador declara a sua vontade de impugnar o despedimento, de que não aceita o mesmo, que no limite pode coincidir com o momento em que introduz a ação em juízo”.
 
-<sup>12</sup> PAULA QUINTAS, Entendimento jurisprudencial quanto à presunção da aceitação do despedimento e sua ilisão, Prontuário de Direito do Trabalho, 2021, n.º 2, pp. 247 e ss., p. 258, que destaca a importância de conceder ao trabalhador “um período de reflexão, de ponderação e de aconselhamento jurídico”.
+12 PAULA QUINTAS, Entendimento jurisprudencial quanto à presunção da aceitação do despedimento e sua ilisão, Prontuário de Direito do Trabalho, 2021, n.º 2, pp. 247 e ss., p. 258, que destaca a importância de conceder ao trabalhador “um período de reflexão, de ponderação e de aconselhamento jurídico”.
 
-<sup>13</sup> Aut. e ob. cit., p. 10. Cfr., também, MILENA SILVA ROUXINOL, ob. cit., pp. 80 e ss.
+13 Aut. e ob. cit., p. 10. Cfr., também, MILENA SILVA ROUXINOL, ob. cit., pp. 80 e ss.
 
-<sup>14</sup> Negrito no original.
+14 Negrito no original.
 
-<sup>15</sup> Trata-se, como refere ANTERO VEIGA, de um “período de ponderação que, na verdade, só pode ter-se como razoável, tratando-se, como se trata de gerir a perda do emprego”.
+15 Trata-se, como refere ANTERO VEIGA, de um “período de ponderação que, na verdade, só pode ter-se como razoável, tratando-se, como se trata de gerir a perda do emprego”.
 
 Lisboa, 17 de abril de 2024. - Júlio Gomes (relator) - José Luís Ramalho Pinto - Domingos José de Morais - José Eduardo Sapateiro - Mário Belo Morgado.
 
@@ -339,3 +359,5 @@ Ao abrigo do disposto no artigo 614.º do Código de Processo Civil sobre a reti
 Na página 14 do Acórdão onde se lê “Mais longe, ainda, foi o Acórdão do Tribunal da Relação de Évora”, deve ler-se “Mais longe, ainda, foi o Acórdão do Tribunal da Relação de Évora, proferido a 23/09/2021, no processo n.º 104/21.6T8SNS.E1".
 
 Lisboa, 22 de maio de 2024. - Júlio Gomes (relator) - José Luís Ramalho Pinto - Domingos José de Morais - José Eduardo Sapateiro - Mário Belo Morgado."
+
+117808186

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/9/2025/09/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/9-2025-934744203
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-09-10T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5e27e9a2b8086e8e760021735eda40da10f463a190e3f4d1f80bab22cb14b14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd60717ef44d53ee3cf10071c289dcda91a6fdb8cd2c5711a9083fb81b5572d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- BENS Imóveis
-- Património
 - Benfeitoria
+- BENS Imóveis
+- Casamento
 - Divórcio
 - Jurisprudencia
-- Casamento
+- Património
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:31Z'
   warnings: []
   errors: []
 ---
@@ -237,7 +237,7 @@ Custas totais pelo recorrido”.
 
 12 - Recebidos os autos neste Supremo Tribunal de Justiça, foi o processo enviado ao Exm.º Presidente do Supremo Tribunal de Justiça, para os efeitos previstos no artigo 686.º n.º 1 do CPC, atendendo ao requerimento de julgamento ampliado da revista apresentado pela recorrente.
 
-13 - Por despacho proferido em 06.02.2024, o Sr. Presidente do Supremo Tribunal de Justiça determinou que se procedesse ao julgamento ampliado da revista, de acordo com o disposto no artigo 686.º, n.<sup>os</sup>1 e 2 do CPC.
+13 - Por despacho proferido em 06.02.2024, o Sr. Presidente do Supremo Tribunal de Justiça determinou que se procedesse ao julgamento ampliado da revista, de acordo com o disposto no artigo 686.º, n.os1 e 2 do CPC.
 
 14 - O Ministério Público emitiu o seguinte parecer:
 
@@ -339,7 +339,7 @@ Subsidiariamente à aplicação do artigo 1726.º do Código Civil, Rita Lobo Xa
 
 Na doutrina, esta tese teve o aplauso de Rossana Martingo Cruz (União de facto versus casamento, Coimbra, Gestlegal, 2019, pp. 472-474, nota 1388 - atualmente, na 2.ª edição, revista e atualizada, 2023, pp. 508-510, nota 1399) e foi também defendida por Cristina Araújo Dias, em “Da acessão no âmbito da titularidade dos bens no regime da comunhão de adquiridos: bens adquiridos por virtude da titularidade de bens próprios”, in Estudos em Comemoração do 10.º aniversário da Licenciatura em Direito da Universidade do Minho, 2004, pp. 229-249.
 
-# Parte da jurisprudência, sobretudo ao nível das Relações, mas também do Supremo Tribunal de Justiça, tem seguido a orientação proposta por Rita Lobo Xavier, aplicando a situações idênticas à destes autos o regime previsto no artigo 1726.º do Código Civil. É o caso dos acórdãos (por ordem cronológica) da Relação de Évora, de 25.3.2010, processo n.º 454/05.9TBFAR.E1; do STJ, 25.11.2010, processo n.º 2737/07.4TBCSC-D.L1.S1; da Relação do Porto, 28.5.2013, processo n.º 3255/08.9TJVNF-B.P1; da Relação de Guimarães, 09.02.2017, processo n.º 162/10.9TBAVV.G1; da Relação de Coimbra, de 12.10.2020, processo n.º 2124/15.0T8LRA.C1; da Relação de Guimarães, 30.6.2022, processo n.º 32/22.8T8BRG-A.G1; da Relação do Porto, 10.10.2022, processo n.º 1042/18.5T8AVR-E.P1; do STJ, 13.10.2022, processo n.º 32/22.8T8BRG-A.G1.S1.
+Parte da jurisprudência, sobretudo ao nível das Relações, mas também do Supremo Tribunal de Justiça, tem seguido a orientação proposta por Rita Lobo Xavier, aplicando a situações idênticas à destes autos o regime previsto no artigo 1726.º do Código Civil. É o caso dos acórdãos (por ordem cronológica) da Relação de Évora, de 25.3.2010, processo n.º 454/05.9TBFAR.E1; do STJ, 25.11.2010, processo n.º 2737/07.4TBCSC-D.L1.S1; da Relação do Porto, 28.5.2013, processo n.º 3255/08.9TJVNF-B.P1; da Relação de Guimarães, 09.02.2017, processo n.º 162/10.9TBAVV.G1; da Relação de Coimbra, de 12.10.2020, processo n.º 2124/15.0T8LRA.C1; da Relação de Guimarães, 30.6.2022, processo n.º 32/22.8T8BRG-A.G1; da Relação do Porto, 10.10.2022, processo n.º 1042/18.5T8AVR-E.P1; do STJ, 13.10.2022, processo n.º 32/22.8T8BRG-A.G1.S1.
 
 Porém, é também significativa a jurisprudência que rejeita, a casos como o sub judice, a aplicação daquele dispositivo legal (aplicação do artigo 1726.º do Código Civil).
 
@@ -461,7 +461,7 @@ Pelo exposto, julga-se a revista parcialmente procedente e, consequentemente:
 
 2.º No mais, confirma-se o acórdão recorrido;
 
-3.º As custas da revista, na vertente de custas de parte, são a cargo da recorrente e do recorrido, na proporção do respetivo decaimento, que se fixa em 1/4 a cargo da recorrente e 3/4 a cargo do recorrido (artigos 527.º n.<sup>os</sup>1 e 2 e 533.º do CPC);
+3.º As custas da revista, na vertente de custas de parte, são a cargo da recorrente e do recorrido, na proporção do respetivo decaimento, que se fixa em 1/4 a cargo da recorrente e 3/4 a cargo do recorrido (artigos 527.º n.os1 e 2 e 533.º do CPC);
 
 4.º Uniformiza-se a jurisprudência nos seguintes termos:
 
@@ -487,7 +487,7 @@ Por seu turno, no segmento uniformizador, teria em conta que, nesta perspetiva, 
 
 Processo n.º 985/20.0t8VCD-B.Pl.Sl
 
-Vencida. Aplicaria o regime das benfeitorias (úteis) porque, em relação ao prédio, a construção de uma casa é uma benfeitoria útil. Esta solução não contraria o (tendencial) princípio da especialização ou da individualização (eu diria antes a característica da inerência dos direitos reais), nem cria uma situação de sobreposição de direitos reais (como sucede, por exemplo, com o direito de superfície ou com as servidões prediais) e conduz a uma compensação ao património comum, uma vez que o valor das benfeitorias úteis é um bem comum. Como escrevem Francisco Pereira Coelho e Guilherme de Oliveira (Curso de Direito da Família, vol I, Introdução. Direito Matrimonial, 5.ª ed,<sub>s</sub> Imprensa da Universidade de Coimbra, pág. 641, a propósito da identificação dos bens comuns no regime da comunhão de adquiridos, mais especificamente, dos “Frutos e rendimentos dos bens próprios e o valor das benfeitorias úteis feitas nestes bens”, “Só se considera comum, com autonomia, o valor das benfeitorias úteis. É o caso frequente da edificação de um imóvel, durante o casamento, com dinheiro comum, num terreno próprio de um dos cônjuges”. - Maria dos Prazeres Pizarro Beleza.
+Vencida. Aplicaria o regime das benfeitorias (úteis) porque, em relação ao prédio, a construção de uma casa é uma benfeitoria útil. Esta solução não contraria o (tendencial) princípio da especialização ou da individualização (eu diria antes a característica da inerência dos direitos reais), nem cria uma situação de sobreposição de direitos reais (como sucede, por exemplo, com o direito de superfície ou com as servidões prediais) e conduz a uma compensação ao património comum, uma vez que o valor das benfeitorias úteis é um bem comum. Como escrevem Francisco Pereira Coelho e Guilherme de Oliveira (Curso de Direito da Família, vol I, Introdução. Direito Matrimonial, 5.ª ed,s Imprensa da Universidade de Coimbra, pág. 641, a propósito da identificação dos bens comuns no regime da comunhão de adquiridos, mais especificamente, dos “Frutos e rendimentos dos bens próprios e o valor das benfeitorias úteis feitas nestes bens”, “Só se considera comum, com autonomia, o valor das benfeitorias úteis. É o caso frequente da edificação de um imóvel, durante o casamento, com dinheiro comum, num terreno próprio de um dos cônjuges”. - Maria dos Prazeres Pizarro Beleza.
 
 *
 
@@ -518,3 +518,5 @@ Todavia, também entendemos que não será este o regime jurídico aplicável ao
 8 - Assim, demonstrado que a parte mais valiosa é a despendida por ambos os ex-cônjuges na construção da moradia, durante a constância do casamento celebrado no regime da comunhão de adquiridos, mediante a utilização de meios financeiros de ambos, impõe-se reconhecer que o prédio urbano é bem comum do extinto casal, e, como tal, importa o respetivo relacionamento pelo cabeça de casal a fim de ser partilhado - artigo 1726.º n.º 1 do Código Civil - porém, o património conjugal a partilhar terá de compensar o ex-cônjuge pelo valor atual do prédio composto pela parcela de terreno que lhe foi doado, e onde foi implantada a construção - artigo 1726.º n.º 2 do Código Civil - donde, deverá ser relacionado o valor do terreno no qual foi implanta a moradia como compensação devida pelo património conjugal ao património do ex-cônjuge.
 
 9 - Pelo exposto, não podemos deixar de manifestar que o conhecimento da questão controvertida, nos termos em que, por maioria, logrou vencimento, não merece a nossa aprovação, daí este voto de vencido. - Oliveira Abreu.
+
+119512555

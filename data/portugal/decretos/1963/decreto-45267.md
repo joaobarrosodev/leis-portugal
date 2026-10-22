@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1963/09/22500/15331539.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45267-1963-686805
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-10T00:00:00Z'
+  retrieved_at: '2026-10-22T19:36:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9edba307eed94b4e5dabf564d2ab1138ac5abff5682eccec2f5f1a8c1c7bf7e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 846cfd75161877eec41e77eb0c49b06e2b983c23dc4ef4b1d56c9998fa939aa8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:36:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Embarcação
+- Equipamento Eléctrico
+- Fiscalização
+- Instalações Radioelétricas
+- Regulamento
+- Regulamento do Serviço Radioeléctrico das Embarcações
 relationships:
 - type: amended_by
   target: pt:dre:485058:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:295623:por
+  label: "Alterado o art. 54º e aditadas as als. o) e p) ao art. 58º do Regulamento, pelo DEC.46420.1965.07.05.MMAR, DG.IS\
+    \ [147]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/46420-1965-295623
+  date: '1965-07-05'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ADITADOS A AL C) AO ART 4 E O PARAG 2 AO ART 7 (PASSANDO O PARAG ÚNICO DESTE ART A CONSTITUIR O PARAG 1), E ALTERADO
+    O ART 21, TODOS DO REGULAMENTO, PELO DEC 48869 DE 18-FEV 1969 DG.IS [41].
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1969-02-18'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ADITADO UM PARAG ÚNICO AO ART 46, ALTERADO O ART 58 E O RESPECTIVO PARAG ÚNICO, BEM COMO A AL E) DO ART 62 AO QUAL\
+    \ E ADITADA A AL F), TODOS DO REGULAMENTO, PELO DEC 218/71 DE 24-MAI DG.IS [121].\0."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1971-05-24'
+- type: amended_by
+  target: pt:dre:381088:por
+  label: Alterado o art. 52.º e revogados o art. 44.º, o § 1.º do art. 49.º, os arts. 53.º e 54.º, as als. m), n), o) e p)
+    do art. 58.º e o modelo n.º 2 do art. 71.º do Regulamento do Serviço Radioeléctrico das Embarcações pelo(a) Decreto-Lei
+    n.º 285/84 - Diário da República n.º 194/1984, Série I de 1984-08-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/285-1984-381088
+  date: '1984-08-22'
+- type: amended_by
+  target: pt:dre:471172:por
+  label: "Alterado o art. 6º do Regulamento, pelo DEC LEI.122/91.21.03.1991.MOPTC, DR.IS-A [67] de 21.03.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-1991-471172
+  date: '1991-03-21'
+- type: amended_by
+  target: pt:dre:518659:por
+  label: "Alterada a redacção dos arts. 1º, 2º, 42º, 43º, 45º, 49º a 51º, 58º, 66º, 67º, 70º, aditado um art. 44º e revogados\
+    \ os arts. 59º e 60º do regulamento aprovado pelo presente diploma, pelo DEC LEI.144/95.1995.06.14.MM, DR.IS-A [136]\0\
+    ]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/144-1995-518659
+  date: '1995-06-14'
+- type: cites
+  target: pt:dre:210255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353884:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:485058:por
+  label: "Revogado pelo DEC LEI.190/98.1998.07.10.MEPAT, DR.IS-A [157]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/190-1998-485058
+  date: '1998-07-10'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:36:53Z'
   warnings: []
   errors: []
 ---
@@ -101,19 +161,19 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento do Serviço Radioeléctrico das Embarcações, que vai anexo a este decreto e baixa assinado pelo Ministro da Marinha.
+Artigo 1.º É aprovado o Regulamento do Serviço Radioeléctrico das Embarcações, que vai anexo a este decreto e baixa assinado pelo Ministro da Marinha.
 
-###### Art. 2.º Para efeitos de execução deste regulamento, a Direcção do Serviço de Electricidade e Comunicações funcionará como se dependesse da Direcção-Geral da Marinha.
+Art. 2.º Para efeitos de execução deste regulamento, a Direcção do Serviço de Electricidade e Comunicações funcionará como se dependesse da Direcção-Geral da Marinha.
 
 § 1.º Os casos omissos serão resolvidos pelo director do Serviço de Electricidade e Comunicações.
 
 § 2.º Das decisões do director do Serviço de Electricidade e Comunicações cabe recurso para o director-geral da Marinha.
 
-###### Art. 3.º É por este decreto revogada toda a legislação em contrário, nomeadamente o [Decreto n.º 40215](https://diariodarepublica.pt/dr/detalhe/decreto/40215-1955-238459), de 1 de Julho de 1955, e o [Decreto n.º 41649](https://diariodarepublica.pt/dr/detalhe/decreto/41649-1958-353884), de 26 de Maio de 1958.
+Art. 3.º É por este decreto revogada toda a legislação em contrário, nomeadamente o [Decreto n.º 40215](https://diariodarepublica.pt/dr/detalhe/decreto/40215-1955-238459), de 1 de Julho de 1955, e o [Decreto n.º 41649](https://diariodarepublica.pt/dr/detalhe/decreto/41649-1958-353884), de 26 de Maio de 1958.
 
-###### Art. 4.º O regulamento entra em vigor 60 dias após a sua publicação na folha oficial.
+Art. 4.º O regulamento entra em vigor 60 dias após a sua publicação na folha oficial.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Setembro de 1963. - ANTÓNIO DE OLIVEIRA SALAZAR - Fernando Quintanilha Mendonça Dias.
 
@@ -121,13 +181,13 @@ REGULAMENTO DO SERVIÇO RADIOELÉCTRICO DAS EMBARCAÇÕES
 
 ## TÍTULO I — Aplicação do regulamento
 
-###### Artigo 1.º O presente regulamento aplica-se a todas as embarcações portuguesas.
+Artigo 1.º O presente regulamento aplica-se a todas as embarcações portuguesas.
 
 § único. Os navios da marinha de guerra constituem excepção à aplicação do presente artigo.
 
 ## TÍTULO II — Definições
 
-###### Art. 2.º No presente regulamento deve-se entender por:
+Art. 2.º No presente regulamento deve-se entender por:
 
 a) Convenção - a Convenção Internacional para a Salvaguarda da Vida Humana no Mar em vigor.
 
@@ -157,7 +217,7 @@ n) Potência de um transmissor - a máxima potência do transmissor transferíve
 
 ## TÍTULO III — Montagens
 
-###### Art. 3.º Serão dotadas de instalação radiotelegráfica:
+Art. 3.º Serão dotadas de instalação radiotelegráfica:
 
 a) As embarcações de passageiros de qualquer tonelagem registadas no longo curso ou cabotagem;
 
@@ -165,13 +225,13 @@ b) As embarcações de carga, de pesca, auxiliares ou de recreio, de 1600 ou mai
 
 c) As embarcações auxiliares de 300 ou mais toneladas registadas no longo curso ou cabotagem, se por razões de segurança lhes for determinado pela Direcção.
 
-###### Art. 4.º Serão dotadas de instalação radiotelefónica:
+Art. 4.º Serão dotadas de instalação radiotelefónica:
 
 a) As embarcações de passageiros de qualquer tonelagem, não dotadas de instalação radiotelegráfica, registadas na navegação costeira nacional ou internacional;
 
 b) As embarcações de 25 ou mais toneladas, não dotadas de estações radiotelegráficas, registadas no longo curso, cabotagem, navegação costeira nacional ou internacional, pescas longínqua, do alto ou costeira.
 
-###### Art. 5.º Serão dotadas de radiogoniómetro:
+Art. 5.º Serão dotadas de radiogoniómetro:
 
 a) As embarcações de passageiros de qualquer tonelagem registadas no longo curso ou cabotagem;
 
@@ -179,17 +239,17 @@ b) As embarcações de 1600 ou mais toneladas registadas no longo curso, cabotag
 
 c) As embarcações auxiliares de 300 ou mais toneladas registadas no longo curso ou cabotagem, se por razões de segurança lhes for determinado pela Direcção.
 
-###### Art. 6.º Serão dotadas de equipamento radiotelegráfico de embarcações salva-vidas:
+Art. 6.º Serão dotadas de equipamento radiotelegráfico de embarcações salva-vidas:
 
 a) As embarcações de passageiros de qualquer tonelagem registadas no longo curso, cabotagem e navegação costeira nacional ou internacional;
 
 b) As embarcações de 300 ou mais toneladas registadas no longo curso, cabotagem, navegação costeira nacional ou internacional, pescas longínqua, do alto ou costeira.
 
-###### Art. 7.º Sem prejuízo das instalações e equipamentos com que deverão ser dotadas obrigatòriamente por força dos artigos anteriores, as embarcações poderão montar, facultativamente, qualquer aparelhagem de comunicações ou auxiliar de navegação.
+Art. 7.º Sem prejuízo das instalações e equipamentos com que deverão ser dotadas obrigatòriamente por força dos artigos anteriores, as embarcações poderão montar, facultativamente, qualquer aparelhagem de comunicações ou auxiliar de navegação.
 
 § único. Esta aparelhagem poderá ser selada a pedido do armador quando a sua utilização deixar de interessar provisòriamente à exploração da embarcação.
 
-###### Art. 8.º Quer se trate de instalações obrigatórias, quer facultativas, os equipamentos poderão, respectivamente, ser mandados substituir ou desmontar quando as suas características não satisfaçam ou colidam com os acordos ou com as especificações estabelecidas pela Direcção e, enquanto montados, deverão ser mantidos em condições eficientes de funcionamento.
+Art. 8.º Quer se trate de instalações obrigatórias, quer facultativas, os equipamentos poderão, respectivamente, ser mandados substituir ou desmontar quando as suas características não satisfaçam ou colidam com os acordos ou com as especificações estabelecidas pela Direcção e, enquanto montados, deverão ser mantidos em condições eficientes de funcionamento.
 
 § único. Os equipamentos que não se encontrem em condições eficientes de funcionamento:
 
@@ -197,19 +257,19 @@ a) Quando se tratar de montagens obrigatórias, serão reparados ou substituído
 
 b) Quando se tratar de montagens facultativas, poderão ser utilizados por mais uma viagem à responsabilidade exclusiva do capitão ou mestre da embarcação, que do facto receberá conhecimento por escrito; finda essa viagem, serão obrigatòriamente reparados, desmontados ou selados antes de a embarcação continuar a sua actividade.
 
-###### Art. 9.º Nenhuma aparelhagem eléctrica e radioeléctrica de comunicações e auxiliar de navegação poderá ser instalada, alterada ou desmontada das embarcações sem prévia autorização da Direcção.
+Art. 9.º Nenhuma aparelhagem eléctrica e radioeléctrica de comunicações e auxiliar de navegação poderá ser instalada, alterada ou desmontada das embarcações sem prévia autorização da Direcção.
 
 § único. Essas autorizações serão pedidas mediante requerimento elaborado de acordo com o modelo n.º 4 referido no artigo 71.º do presente regulamento.
 
-###### Art. 10.º Os requerimentos de montagem e alteração de aparelhagem instalada deverão ser acompanhados dos seguintes elementos:
+Art. 10.º Os requerimentos de montagem e alteração de aparelhagem instalada deverão ser acompanhados dos seguintes elementos:
 
 a) Planos das embarcações, em duplicado, sendo um dos exemplares selado, em que se encontrem devidamente referenciados os diversos componentes da aparelhagem a montar;
 
 b) Manuais dos equipamentos dos quais constem as suas características, descrição técnica e esquemas eléctricos. Os manuais serão dispensados se os equipamentos a montar ou a alterar possuírem certificado de aprovação.
 
-###### Art. 11.º A Direcção submeterá os referidos planos aos organismos técnicos do Ministério da Marinha responsáveis pela construção e segurança das embarcações, nos casos em que tal por eles seja estabelecido, a fim de se pronunciarem sobre a influência que essas montagens ou alterações possam ter na segurança das embarcações ou no funcionamento dos órgãos nelas instalados.
+Art. 11.º A Direcção submeterá os referidos planos aos organismos técnicos do Ministério da Marinha responsáveis pela construção e segurança das embarcações, nos casos em que tal por eles seja estabelecido, a fim de se pronunciarem sobre a influência que essas montagens ou alterações possam ter na segurança das embarcações ou no funcionamento dos órgãos nelas instalados.
 
-###### Art. 12.º A Direcção notificará os armadores do despacho que os requerimentos merecerem e informará do facto as seguintes entidades:
+Art. 12.º A Direcção notificará os armadores do despacho que os requerimentos merecerem e informará do facto as seguintes entidades:
 
 a) Direcção da Marinha Mercante;
 
@@ -217,25 +277,25 @@ b) Capitanias e delegações marítimas dos portos de registo das embarcações,
 
 c) Estações radionavais encarregadas de proceder às inspecções por delegação da Direcção.
 
-###### Art. 13.º As autorizações concedidas caducam automàticamente se as montagens ou alterações requeridas não forem efectuadas dentro do prazo de 120 dias a partir da data em que o armador foi notificado.
+Art. 13.º As autorizações concedidas caducam automàticamente se as montagens ou alterações requeridas não forem efectuadas dentro do prazo de 120 dias a partir da data em que o armador foi notificado.
 
 § único. O prazo indicado poderá ser prorrogado, mediante requerimento do armador à Direcção, devidamente justificado.
 
-###### Art. 14.º Os armadores deverão comunicar à Direcção verbalmente ou por escrito, logo que os trabalhos de montagem, desmontagem ou alteração de equipamentos foram concluídos.
+Art. 14.º Os armadores deverão comunicar à Direcção verbalmente ou por escrito, logo que os trabalhos de montagem, desmontagem ou alteração de equipamentos foram concluídos.
 
-###### Art. 15.º Os equipamentos montados ou alterados sem autorização serão colocados em condições de não poderem funcionar e selados, até que a sua situação seja legalizada.
+Art. 15.º Os equipamentos montados ou alterados sem autorização serão colocados em condições de não poderem funcionar e selados, até que a sua situação seja legalizada.
 
-###### Art. 16.º Os selos apostos nos equipamentos só poderão ser retirados por delegados da Direcção, ou pelos capitães e mestres das embarcações quando por esta autorizadas especìficamente, após pedido devidamente fundamentado.
+Art. 16.º Os selos apostos nos equipamentos só poderão ser retirados por delegados da Direcção, ou pelos capitães e mestres das embarcações quando por esta autorizadas especìficamente, após pedido devidamente fundamentado.
 
-###### Art. 17.º A Direcção manterá a União Internacional das Telecomunicações ao par do estado sinalético das estações das embarcações.
+Art. 17.º A Direcção manterá a União Internacional das Telecomunicações ao par do estado sinalético das estações das embarcações.
 
 ## TÍTULO IV — Equipamentos
 
-###### Art. 18.º Os equipamentos destinados a ser montados nas embarcações deverão satisfazer às especificações estabelecidas pela Direcção, as quais terão em vista os contínuos progressos da técnica, as determinações resultantes dos acordos e as finalidades para que os equipamentos são montados.
+Art. 18.º Os equipamentos destinados a ser montados nas embarcações deverão satisfazer às especificações estabelecidas pela Direcção, as quais terão em vista os contínuos progressos da técnica, as determinações resultantes dos acordos e as finalidades para que os equipamentos são montados.
 
-###### Art. 19.º A aprovação dos equipamentos dependerá da apreciação dos respectivos manuais e dos ensaios laboratoriais e outras provas que a Direcção entenda efectuar nas suas oficinas ou nos locais que determinar.
+Art. 19.º A aprovação dos equipamentos dependerá da apreciação dos respectivos manuais e dos ensaios laboratoriais e outras provas que a Direcção entenda efectuar nas suas oficinas ou nos locais que determinar.
 
-###### Art. 20.º As instalações radiotelegráficas referidas no artigo 3.º constarão, no mínimo, do seguinte equipamento:
+Art. 20.º As instalações radiotelegráficas referidas no artigo 3.º constarão, no mínimo, do seguinte equipamento:
 
 a) Transmissor principal de onda média;
 
@@ -261,7 +321,7 @@ l) Fonte de energia principal;
 
 m) Fonte de energia de emergência (dispensável nas embarcações de tonelagem inferior a 1600 t).
 
-###### Art. 21.º As instalações radiotelefónicas referidas no artigo 4.º constarão, no mínimo, do seguinte equipamento:
+Art. 21.º As instalações radiotelefónicas referidas no artigo 4.º constarão, no mínimo, do seguinte equipamento:
 
 a) Transmissor do radiotelefone;
 
@@ -275,7 +335,7 @@ e) Antena sobresselente (dispensada se existir antena de reserva);
 
 f) Fonte de energia independente.
 
-###### Art. 22.º As seguintes tabelas deverão ser afixadas junto dos diversos equipamentos:
+Art. 22.º As seguintes tabelas deverão ser afixadas junto dos diversos equipamentos:
 
 a) Das frequências autorizadas para cada transmissor;
 
@@ -285,83 +345,83 @@ c) De conversão em kilohertzs (kHz) dos valores indicados nos quadrantes dos re
 
 d) De calibração dos radiogoniómetros.
 
-###### Art. 23.º As inscrições ou os lembretes afixados nos equipamentos deverão estar escritos em português, francês ou inglês, excepto para os equipamentos de embarcações salva-vidas, nos quais serão obrigatórias as inscrições em português.
+Art. 23.º As inscrições ou os lembretes afixados nos equipamentos deverão estar escritos em português, francês ou inglês, excepto para os equipamentos de embarcações salva-vidas, nos quais serão obrigatórias as inscrições em português.
 
 ## TÍTULO V — Estações radiotelegráficas e radiotelefónicas
 
-###### Art. 24.º A estação de radiocomunicações deve ser instalada nas embarcações o mais próximo possível da ponte de comando e satisfazer aos requisitos determinados na Convenção.
+Art. 24.º A estação de radiocomunicações deve ser instalada nas embarcações o mais próximo possível da ponte de comando e satisfazer aos requisitos determinados na Convenção.
 
-###### Art. 25.º A fim de se evitarem interferências provenientes de ruídos de origem mecânica ou eléctrica, deverão os circuitos eléctricos ser devidamente blindados, os geradores, motores e outra aparelhagem eléctrica convenientemente filtrados e, além disso, os grupos conversores ou geradores destinados ao funcionamento da aparelhagem eléctrica e radioeléctrica de comunicações e auxiliar de navegação instalados exteriormente à estação ou, quando localizados no seu interior, ser providos dos meios que garantam uma protecção eficaz contra ruídos.
+Art. 25.º A fim de se evitarem interferências provenientes de ruídos de origem mecânica ou eléctrica, deverão os circuitos eléctricos ser devidamente blindados, os geradores, motores e outra aparelhagem eléctrica convenientemente filtrados e, além disso, os grupos conversores ou geradores destinados ao funcionamento da aparelhagem eléctrica e radioeléctrica de comunicações e auxiliar de navegação instalados exteriormente à estação ou, quando localizados no seu interior, ser providos dos meios que garantam uma protecção eficaz contra ruídos.
 
-###### Art. 26.º Os alojamentos dos operadores qualificados devem estar situados o mais perto possível da estação, sendo de desejar a existência de uma comunicação directa com ela.
+Art. 26.º Os alojamentos dos operadores qualificados devem estar situados o mais perto possível da estação, sendo de desejar a existência de uma comunicação directa com ela.
 
-###### Art. 27.º A tensão da rede eléctrica de bordo que alimenta a aparelhagem eléctrica e radioeléctrica de comunicações e auxiliar de navegação deve ser mantida dentro dos limites de variação (mais ou menos) 10 por cento do seu valor nominal, devendo, caso se torne necessário, existir para esse fim um regulador automático de tensão.
+Art. 27.º A tensão da rede eléctrica de bordo que alimenta a aparelhagem eléctrica e radioeléctrica de comunicações e auxiliar de navegação deve ser mantida dentro dos limites de variação (mais ou menos) 10 por cento do seu valor nominal, devendo, caso se torne necessário, existir para esse fim um regulador automático de tensão.
 
-###### Art. 28.º Deverá existir nas estações um voltímetro fixo que indique, em qualquer momento, a tensão da rede de bordo, o qual poderá fazer parte de qualquer dos equipamentos rádioeléctricos.
+Art. 28.º Deverá existir nas estações um voltímetro fixo que indique, em qualquer momento, a tensão da rede de bordo, o qual poderá fazer parte de qualquer dos equipamentos rádioeléctricos.
 
-###### Art. 29.º A ligação do quadro eléctrico da distribuição principal da rede eléctrica de bordo à estação radiotelegráfica ou radiotelefónica deve ser directa, não sendo admitida qualquer derivação para alimentar outros circuitos.
+Art. 29.º A ligação do quadro eléctrico da distribuição principal da rede eléctrica de bordo à estação radiotelegráfica ou radiotelefónica deve ser directa, não sendo admitida qualquer derivação para alimentar outros circuitos.
 
-###### Art. 30.º Deve sempre haver na estação e pronto a funcionar um meio de iluminação portátil independente das fontes de energia eléctrica principal e de emergência do serviço radioeléctrico.
+Art. 30.º Deve sempre haver na estação e pronto a funcionar um meio de iluminação portátil independente das fontes de energia eléctrica principal e de emergência do serviço radioeléctrico.
 
-###### Art. 31.º Independentemente do sistema de extinção automática de incêndio que as estações de radiotelegrafia possam ter, deverá existir nestas, sempre, em condições de funcionamento eficaz, um extintor de incêndios portátil de tipo adequado.
+Art. 31.º Independentemente do sistema de extinção automática de incêndio que as estações de radiotelegrafia possam ter, deverá existir nestas, sempre, em condições de funcionamento eficaz, um extintor de incêndios portátil de tipo adequado.
 
-###### Art. 32.º Em viagem devem as baterias de acumuladores ser mantidas sempre carregadas, devendo, para tal, existir um circuito fixo próprio.
+Art. 32.º Em viagem devem as baterias de acumuladores ser mantidas sempre carregadas, devendo, para tal, existir um circuito fixo próprio.
 
 § único. Nos diários de registo das radiocomunicações deverão ser mencionados os elementos referidos na Convenção.
 
-###### Art. 33.º As baterias destinadas à alimentação de equipamentos radioeléctricos, qualquer que seja o seu tipo, deverão ser colocadas, tanto quanto possível, na parte mais elevada da embarcação e em caixas forradas de chumbo até, pelo menos, à superfície superior dos elementos da bateria.
+Art. 33.º As baterias destinadas à alimentação de equipamentos radioeléctricos, qualquer que seja o seu tipo, deverão ser colocadas, tanto quanto possível, na parte mais elevada da embarcação e em caixas forradas de chumbo até, pelo menos, à superfície superior dos elementos da bateria.
 
 § único. As caixas devem ser ùnicamente providas de abertura na parte superior e possuir um tubo destinado à ventilação.
 
-###### Art. 34.º Sempre que nas embarcações exista um compartimento exclusivamente reservado a baterias, nele não deve ser instalada qualquer aparelhagem eléctrica de manobra e seccionamento, quer independente, quer em quadro eléctrico.
+Art. 34.º Sempre que nas embarcações exista um compartimento exclusivamente reservado a baterias, nele não deve ser instalada qualquer aparelhagem eléctrica de manobra e seccionamento, quer independente, quer em quadro eléctrico.
 
-###### Art. 35.º O transmissor de emergência deve ser experimentado sempre antes da saída dos portos e diàriamente, em viagem, utilizando a antena artificial, sendo mencionado no diário do serviço radiotelegráfico o resultado da experiência efectuada.
+Art. 35.º O transmissor de emergência deve ser experimentado sempre antes da saída dos portos e diàriamente, em viagem, utilizando a antena artificial, sendo mencionado no diário do serviço radiotelegráfico o resultado da experiência efectuada.
 
-###### Art. 36.º Os equipamentos radiotelegráficos das baleeiras devem ser experimentados semanalmente, utilizando a antena artificial apropriada do equipamento, sendo mencionado no diário do serviço radiotelegráfico o resultado da experiência efectuada.
+Art. 36.º Os equipamentos radiotelegráficos das baleeiras devem ser experimentados semanalmente, utilizando a antena artificial apropriada do equipamento, sendo mencionado no diário do serviço radiotelegráfico o resultado da experiência efectuada.
 
-###### Art. 37.º As antenas devem ser instaladas de modo que, sempre que possível, não seja preciso arriá-las por motivos de operações de carga e descarga, devendo ser proporcionadas de modo que se obtenham os melhores rendimentos para os aparelhos a elas ligados.
+Art. 37.º As antenas devem ser instaladas de modo que, sempre que possível, não seja preciso arriá-las por motivos de operações de carga e descarga, devendo ser proporcionadas de modo que se obtenham os melhores rendimentos para os aparelhos a elas ligados.
 
-###### Art. 38.º Nas estações radiotelegráficas e radiotelefónicas deverá ser afixado o indicativo de chamada radiotelegráfico internacional atribuído à embarcação.
+Art. 38.º Nas estações radiotelegráficas e radiotelefónicas deverá ser afixado o indicativo de chamada radiotelegráfico internacional atribuído à embarcação.
 
 Cada letra constitutiva do indicativo deverá ter dimensões não inferiores a 3 cm x 2 cm.
 
-###### Art. 39.º Nas estações radiotelegráficas e radiotelefónicas deverá existir afixado um relógio com os períodos de silêncio do respectivo serviço marcados a vermelho.
+Art. 39.º Nas estações radiotelegráficas e radiotelefónicas deverá existir afixado um relógio com os períodos de silêncio do respectivo serviço marcados a vermelho.
 
 ## TÍTULO VI — Inspecções
 
-###### Art. 40.º As instalações radiotelefónicas e radiotelegráficas, os radiogoniómetros e os equipamentos radiotelegráficos de embarcações salva-vidas, bem como outros transmissores e receptores de comunicações, serão inspeccionados após a sua montagem ou alteração de montagem e quando for necessário revalidar a licença de estação de embarcação.
+Art. 40.º As instalações radiotelefónicas e radiotelegráficas, os radiogoniómetros e os equipamentos radiotelegráficos de embarcações salva-vidas, bem como outros transmissores e receptores de comunicações, serão inspeccionados após a sua montagem ou alteração de montagem e quando for necessário revalidar a licença de estação de embarcação.
 
-###### Art. 41.º Os equipamentos auxiliares de navegação serão inspeccionados após a sua montagem e quando tiverem sido alterados.
+Art. 41.º Os equipamentos auxiliares de navegação serão inspeccionados após a sua montagem e quando tiverem sido alterados.
 
-###### Art. 42.º Os radiogoniómetros serão calibrados após a sua montagem e quando da verificação da calibração se concluir tal ser necessário.
+Art. 42.º Os radiogoniómetros serão calibrados após a sua montagem e quando da verificação da calibração se concluir tal ser necessário.
 
-###### Art. 43.º Será efectuada uma verificação da calibração dos radiogoniómetros quando se tornar necessário revalidar a respectiva tabela de calibração, quando a embarcação transportar no convés cargas metálicas ou outras que possam afectar a tabela de desvios, quando forem instaladas novas antenas, modificado o seu traçado ou forem introduzidas modificações na estrutura das embarcações que sejam susceptíveis de afectar a tabela de desvios.
+Art. 43.º Será efectuada uma verificação da calibração dos radiogoniómetros quando se tornar necessário revalidar a respectiva tabela de calibração, quando a embarcação transportar no convés cargas metálicas ou outras que possam afectar a tabela de desvios, quando forem instaladas novas antenas, modificado o seu traçado ou forem introduzidas modificações na estrutura das embarcações que sejam susceptíveis de afectar a tabela de desvios.
 
-###### Art. 44.º Os exames para obtenção de certificados restritos de radiotelefonista serão efectuados a pedido dos interessados.
+Art. 44.º Os exames para obtenção de certificados restritos de radiotelefonista serão efectuados a pedido dos interessados.
 
-###### Art. 45.º As inspecções, calibrações e exames serão efectuados, por delegação da Direcção, por oficiais da mesma e por oficiais e outro pessoal das estações radionavais para o efeito designados, dentro das normas que lhes forem determinadas.
+Art. 45.º As inspecções, calibrações e exames serão efectuados, por delegação da Direcção, por oficiais da mesma e por oficiais e outro pessoal das estações radionavais para o efeito designados, dentro das normas que lhes forem determinadas.
 
-###### Art. 46.º Os armadores deverão solicitar as inspecções, calibrações e verificações de calibração e exames com a antecedência suficiente para que, independentemente da navegação a efectuar pelas suas embarcações, não expire a validade dos certificados que possuem. Estes pedidos deverão ser feitos verbalmente ou por escrito à Direcção ou estações radionavais encarregadas de proceder às inspecções por sua delegação.
+Art. 46.º Os armadores deverão solicitar as inspecções, calibrações e verificações de calibração e exames com a antecedência suficiente para que, independentemente da navegação a efectuar pelas suas embarcações, não expire a validade dos certificados que possuem. Estes pedidos deverão ser feitos verbalmente ou por escrito à Direcção ou estações radionavais encarregadas de proceder às inspecções por sua delegação.
 
-###### Art. 47.º Os encargos resultantes das deslocações do pessoal para executar os serviços abrangidos no regulamento serão suportados pelos armadores das embarcações em que forem efectuados.
+Art. 47.º Os encargos resultantes das deslocações do pessoal para executar os serviços abrangidos no regulamento serão suportados pelos armadores das embarcações em que forem efectuados.
 
 ## TÍTULO VII — Certificados e licenças
 
-###### Art. 48.º As embarcações equipadas com qualquer aparelhagem eléctrica ou radioeléctrica de comunicações ou auxiliar de navegação deverão possuir licença de estação de embarcação.
+Art. 48.º As embarcações equipadas com qualquer aparelhagem eléctrica ou radioeléctrica de comunicações ou auxiliar de navegação deverão possuir licença de estação de embarcação.
 
-###### Art. 49.º A licença de estação de embarcação é válida por um ano a partir da inspecção aos equipamentos instalados.
+Art. 49.º A licença de estação de embarcação é válida por um ano a partir da inspecção aos equipamentos instalados.
 
 § 1.º Nas embarcações de tonelagem inferior a 300 t, não dotadas de instalação radiotelegráfica, a licença de estação de embarcação é válida enquanto houver matriculado a bordo um operador portador de certificado restrito de radiotelefonista da classe A.
 
 § 2.º Quando dos equipamentos instalados não fizerem parte transmissores e receptores de comunicações e radiogoniómetros, o prazo de validade da licença de estação de embarcação é ilimitado.
 
-###### Art. 50.º As embarcações equipadas com radiogoniómetro deverão possuir, a bordo, uma tabela de calibração desse equipamento.
+Art. 50.º As embarcações equipadas com radiogoniómetro deverão possuir, a bordo, uma tabela de calibração desse equipamento.
 
-###### Art. 51.º A tabela de calibração é válida por um ano após a calibração ter sido efectuada e será revalidada por períodos sucessivos de um ano quando da verificação da calibração se constatar não ter havido alterações apreciáveis nos desvios do equipamento.
+Art. 51.º A tabela de calibração é válida por um ano após a calibração ter sido efectuada e será revalidada por períodos sucessivos de um ano quando da verificação da calibração se constatar não ter havido alterações apreciáveis nos desvios do equipamento.
 
-###### Art. 52.º As embarcações dotadas de estação radiotelegráfica deverão ter matriculados os operadores portadores de certificado qualificado de radiotelegrafista a que a lei obriga.
+Art. 52.º As embarcações dotadas de estação radiotelegráfica deverão ter matriculados os operadores portadores de certificado qualificado de radiotelegrafista a que a lei obriga.
 
-###### Art. 53.º As embarcações dotadas de estação radiotelefónica deverão ter matriculado um operador portador de certificado restrito de radiotelefonista.
+Art. 53.º As embarcações dotadas de estação radiotelefónica deverão ter matriculado um operador portador de certificado restrito de radiotelefonista.
 
 § único. O certificado restrito de radiotelefonista poderá ser dispensado quando houver matriculado a bordo:
 
@@ -369,23 +429,23 @@ a) Um operador portador de certificado geral de radiotelefonista; ou
 
 b) Um operador portador de certificado qualificado de radiotelegrafista e o equipamento esteja instalado e seja utilizado na estação radiotelegráfica.
 
-###### Art. 54.º Os certificados restritos de radiotelefonista são classificados e têm a validade a seguir indicada:
+Art. 54.º Os certificados restritos de radiotelefonista são classificados e têm a validade a seguir indicada:
 
 a) Da classe A - válido por três anos, para qualquer equipamento com que o titular foi examinado;
 
 b) Da classe B - válido por um ano, apenas para a marca e tipo de equipamento com que o titular foi examinado.
 
-###### Art. 55.º Os equipamentos destinados a ser montados nas embarcações deverão possuir certificados de aprovação.
+Art. 55.º Os equipamentos destinados a ser montados nas embarcações deverão possuir certificados de aprovação.
 
-###### Art. 56.º Os certificados de aprovação dos equipamentos são válidos por cinco anos e a sua revalidação será feita por períodos sucessivos de três anos.
+Art. 56.º Os certificados de aprovação dos equipamentos são válidos por cinco anos e a sua revalidação será feita por períodos sucessivos de três anos.
 
 § único. Os equipamentos cuja montagem foi autorizada antes da publicação do Regulamento poderão continuar a ser montados sem certificado de aprovação durante um período de três anos.
 
-###### Art. 57.º As embarcações que se encontrem na situação de inactividade não carecem dos documentos referidos neste título. A fim de beneficiarem desta disposição, deverão os armadores comunicar, por escrito, à Direcção as datas em que as embarcações entram na situação de inactividade e em que retomam novamente a sua actividade.
+Art. 57.º As embarcações que se encontrem na situação de inactividade não carecem dos documentos referidos neste título. A fim de beneficiarem desta disposição, deverão os armadores comunicar, por escrito, à Direcção as datas em que as embarcações entram na situação de inactividade e em que retomam novamente a sua actividade.
 
 ## TÍTULO VIII — Verbas
 
-###### Art. 58.º As verbas a cobrar pelas inspecções, calibrações e verificações de calibração, exames e outros serviços consignados no Regulamento são as seguintes:
+Art. 58.º As verbas a cobrar pelas inspecções, calibrações e verificações de calibração, exames e outros serviços consignados no Regulamento são as seguintes:
 
 a) Pela inspecção a uma instalação radiotelegráfica ... 1000$00
 
@@ -419,17 +479,17 @@ a) Se tiverem lugar a partir das 20 horas ou antes das 8, aos sábados na parte 
 
 b) Se esses serviços forem feitos fora das horas de expediente não previstas na alínea anterior, o acréscimo será de 100 por cento.
 
-###### Art. 59.º As verbas cobradas ao abrigo do artigo anterior e seu parágrafo único serão recebidas pela Direcção, que procederá à sua entrega nos cofres do Tesouro como receita do Estado, à excepção da percentagem de 5 por cento, que constituirá um fundo da Direcção para aquisição de impressos, impressão de publicações e outras despesas.
+Art. 59.º As verbas cobradas ao abrigo do artigo anterior e seu parágrafo único serão recebidas pela Direcção, que procederá à sua entrega nos cofres do Tesouro como receita do Estado, à excepção da percentagem de 5 por cento, que constituirá um fundo da Direcção para aquisição de impressos, impressão de publicações e outras despesas.
 
-###### Art. 60.º O director, subdirector, oficiais e demais inspectores, bem como outros oficiais e pessoal que colaborem nestes serviços, perceberão emolumentos pessoais, até aos limites estabelecidos por lei.
+Art. 60.º O director, subdirector, oficiais e demais inspectores, bem como outros oficiais e pessoal que colaborem nestes serviços, perceberão emolumentos pessoais, até aos limites estabelecidos por lei.
 
 § único. Todo o pessoal interveniente no serviço de inspecções deverá merecer a concordância da Direcção.
 
 ## TÍTULO IX — Multas
 
-###### Art. 61.º As infracções ao Regulamento acarretam o pagamento de multas, além dos procedimentos que outra legislação em vigor implique.
+Art. 61.º As infracções ao Regulamento acarretam o pagamento de multas, além dos procedimentos que outra legislação em vigor implique.
 
-###### Art. 62.º As multas a aplicar são as seguintes:
+Art. 62.º As multas a aplicar são as seguintes:
 
 a) Pela instalação, alteração ou desmontagem de quaisquer equipamentos sem prévia autorização da Direcção ... 5000$00
 
@@ -441,15 +501,15 @@ d) Pelo entrave ou dificuldade criados ao pessoal no desempenho das atribuiçõe
 
 e) Por outras infracções não especificadas, 500$00 a ... 5000$00
 
-###### Art. 63.º A reincidência de infracções cometidas implica o pagamento de uma multa cujo valor é o dobro das indicadas no artigo anterior.
+Art. 63.º A reincidência de infracções cometidas implica o pagamento de uma multa cujo valor é o dobro das indicadas no artigo anterior.
 
-###### Art. 64.º A aplicação das multas é da competência da autoridade marítima responsável, ou da Brigada Naval da Legião Portuguesa quando se tratar de embarcações de recreio.
+Art. 64.º A aplicação das multas é da competência da autoridade marítima responsável, ou da Brigada Naval da Legião Portuguesa quando se tratar de embarcações de recreio.
 
-###### Art. 65.º A aplicação das multas deverá ser comunicada à Direcção-Geral da Marinha pelas entidades autuantes, que do facto dará conhecimento à Direcção.
+Art. 65.º A aplicação das multas deverá ser comunicada à Direcção-Geral da Marinha pelas entidades autuantes, que do facto dará conhecimento à Direcção.
 
 ## TÍTULO X — Documentos de serviço
 
-###### Art. 66.º A bordo das embarcações dotadas de instalação radiotelegráfica deverão existir os seguintes documentos de serviço, ou outros que os venham a substituir:
+Art. 66.º A bordo das embarcações dotadas de instalação radiotelegráfica deverão existir os seguintes documentos de serviço, ou outros que os venham a substituir:
 
 a) Diário do serviço radiotelegráfico;
 
@@ -469,7 +529,7 @@ h) Regulamento Telegráfico;
 
 i) Instruções de serviço em vigor publicadas e distribuídas pela Direcção.
 
-###### Art. 67.º A bordo das embarcações dotadas de instalação radiotelefónica deverão existir os seguintes documentos de serviço:
+Art. 67.º A bordo das embarcações dotadas de instalação radiotelefónica deverão existir os seguintes documentos de serviço:
 
 a) Diário do serviço radiotelefónico;
 
@@ -481,17 +541,17 @@ d) Instruções do serviço em vigor publicadas e distribuídas pela Direcção.
 
 § único. As embarcações de menos de 300 t são dispensadas dos documentos indicados nas alíneas a), b) e c).
 
-###### Art. 68.º A bordo das embarcações equipadas com radiogoniómetro deverá existir a Nomenclatura das estações de radiolocalização e das estações efectuando serviços especiais.
+Art. 68.º A bordo das embarcações equipadas com radiogoniómetro deverá existir a Nomenclatura das estações de radiolocalização e das estações efectuando serviços especiais.
 
-###### Art. 69.º As publicações indicadas nos artigos anteriores devem ser da última edição e completadas com os suplementos que as actualizem.
+Art. 69.º As publicações indicadas nos artigos anteriores devem ser da última edição e completadas com os suplementos que as actualizem.
 
-###### Art. 70.º Sempre que as embarcações entrem no porto de Lisboa deverão apresentar na Direcção os diários do serviço radiotelegráfico e radiotelefónico referentes à totalidade da viagem efectuada, a fim de serem examinados e visados.
+Art. 70.º Sempre que as embarcações entrem no porto de Lisboa deverão apresentar na Direcção os diários do serviço radiotelegráfico e radiotelefónico referentes à totalidade da viagem efectuada, a fim de serem examinados e visados.
 
 § único. Os diários devem ser assinados pelo operador responsável e visados, ao fim de cada viagem, pelo capitão da embarcação.
 
 ## TÍTULO XI — Modelos
 
-###### Art. 71.º Os modelos de licenças, certificados e requerimentos referidos no Regulamento são os seguintes:
+Art. 71.º Os modelos de licenças, certificados e requerimentos referidos no Regulamento são os seguintes:
 
 Modelo n.º 1 - Licença de estação de embarcação.
 
@@ -505,6 +565,6 @@ Ministério da Marinha, 24 de Setembro de 1963. - O Ministro da Marinha, Fernand
 
 Do Modelo n.º 1 ao Modelo n.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/09/22500/15331539.pdf))](https://files.diariodarepublica.pt/1s/1963/09/22500/15331539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/09/22500/15331539.pdf)
 
 Ministério da Marinha, 24 de Setembro de 1963. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

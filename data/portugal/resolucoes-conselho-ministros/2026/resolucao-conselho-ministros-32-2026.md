@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/32/2026/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/32-2026-1057506182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-23T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7cf2d7e69b3b74bfd1d39b7f30832a3abd89a7ca9d8393e171124dfaea7b5aa5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02008bf4df5997d3273ed8999083d806528bbe34b2e47b6a89e35443bbea59bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,17 @@ subjects:
 - Conselho de Administração
 - Nomeação
 - Presidente
-- Vogal
 - Unidade Local de Saúde de Amadora/Sintra
+- Vogal
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:36/2025
+  label: Demite, com efeitos a 18 de fevereiro de 2026, Mário Rui Machado Cruz, Carlos Manuel de Jesus e Sousa Araújo Ribeiro
+    e Dália Maria Freitas Oliveira, respetivamente diretor clínico para a área dos cuidados de saúde primários, vogal executivo
+    e vogal executiva do conselho de administração da Unidade Local de Saúde de Amadora/Sintra, E. P. E., designados pela
+    Resolução do Conselho de Ministros n.º 36/2025, de 3 de março, Diário da República n.º 43/2025, Série I
+  source: null
+  date: '2025-03-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133/2013/10/03/p/dre
   label: null
@@ -95,16 +103,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/36/2025/03/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/36/2025/03/03/p/dre
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75468284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:909469970:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:58Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +163,7 @@ Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](h
 
 Assim:
 
-Nos termos dos n.<sup>os</sup>2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, do artigo 12.º, dos n.<sup>os</sup>1 a 3 do artigo 13.º, do artigo 15.º e da alínea c) do n.º 3 do artigo 20.º e dos n.<sup>os</sup>1 e 2 do artigo 26.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos dos n.os2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, do artigo 12.º, dos n.os1 a 3 do artigo 13.º, do artigo 15.º e da alínea c) do n.º 3 do artigo 20.º e dos n.os1 e 2 do artigo 26.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Demitir, com fundamento em critérios de mera conveniência, Mário Rui Machado Cruz, Carlos Manuel de Jesus e Sousa Araújo Ribeiro e Dália Maria Freitas Oliveira, respetivamente diretor clínico para a área dos cuidados de saúde primários, vogal executivo e vogal executiva do conselho de administração da Unidade Local de Saúde de Amadora/Sintra, E. P. E., designados pela [Resolução do Conselho de Ministros n.º 36/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/36-2025-909469970), de 3 de março.
 
@@ -280,3 +316,5 @@ Atualmente Integra o Júri Nacional para efeitos de atribuição da Competência
 Foi autora dos artigos: «A Enfermagem na PTCA e na Trombólise Farmacológica», Revista da Sociedade Portuguesa de Cuidados Intensivos. revista n.º 9, de 2000, pp. 261-263.
 
 «ECSTASY Viver ou Morrer?» Jornal em Revista do Estabelecimento Prisional de Alcoentre. Dezembro de 2003.
+
+119947752

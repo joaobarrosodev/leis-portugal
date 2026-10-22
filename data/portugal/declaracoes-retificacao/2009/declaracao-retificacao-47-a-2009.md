@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 133/2009, 1º Suplemento, Série I de 2009-07-13
   number: '133'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4464-(2) a 4464-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/07/13301/0000200002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/47-a/2009/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/47-a-2009-239036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-13T00:00:00Z'
+  retrieved_at: '2026-10-22T19:11:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a82f0a4d4e9e60179814352667dd9c14e1fbb391650fb74f7642deaf713723a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43cc28763e683b63deb0db38c055a7a01f5df77f533b78634b2a67b317705f58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:11:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Barragem de são Domingos
-- Ordenamento do Território
-- Comissão de Coordenação e Desenvolvimento Regional de Lisboa e VALE do TEJO
 - ARH do TEJO
+- Barragem de são Domingos
+- Comissão de Coordenação e Desenvolvimento Regional de Lisboa e VALE do TEJO
 - Direcção Geral do Ordenamento do Território e Desenvolvimento Urbano
+- Ordenamento do Território
 - Regulamento
 relationships:
 - type: cites
@@ -81,16 +81,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39/2009/05/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2009/05/14/p/dre
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608713:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:resolucao-conselho-ministros:39/2009
+  label: "Rectifica o n.º 1 do artigo 10.º do Regulamento, aprovado pela Resolução do Conselho de Ministros n.º 39/2009, de\
+    \ 14 de Maio, DR.IS [93]\0\0"
+  source: null
+  date: '2009-05-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:11:37Z'
   warnings: []
   errors: []
 ---

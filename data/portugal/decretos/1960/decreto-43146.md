@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43146-1960-514606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-09-14T00:00:00Z'
+  retrieved_at: '2026-10-22T19:19:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5218d8f740f27c339b7bf99ce9b9497639185062fb6902d8c4bf4a81b3ac0d00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1cc6956cb94d997254262e4071f688162d7c387294c62aa2f37d2245c083b385
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:19:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Ultramarina
+- Ensino Primário
+- Moçambique.Colónia Portuguesa
+- Pessoal Docente
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:180424:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:180424:por
+  label: "Extinto o quadro eventual do ensino primário de Moçambique pelo DEC LEI.43913.14.09.1961.MU, DG.IS [214] de 14.09.1961\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/43913-1961-180424
+  date: '1961-09-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:19:30Z'
   warnings: []
   errors: []
 ---
@@ -95,11 +106,11 @@ Atendendo a que, em relação a este facto, se verifica a urgência prevista na 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É elevado, na província de Moçambique, para 600 lugares o quadro de professores do ensino primário e para 150 o número de professores eventuais do mesmo ensino.
+Artigo 1.º É elevado, na província de Moçambique, para 600 lugares o quadro de professores do ensino primário e para 150 o número de professores eventuais do mesmo ensino.
 
-###### Art. 2.º Os lugares criados por este decreto só serão preenchidos à medida que forem sendo dotados, ficando os órgãos legislativos da província autorizados a abrir no corrente ano os créditos especiais destinados à satisfação das necessidades escolares, com contrapartida em recursos orçamentais.
+Art. 2.º Os lugares criados por este decreto só serão preenchidos à medida que forem sendo dotados, ficando os órgãos legislativos da província autorizados a abrir no corrente ano os créditos especiais destinados à satisfação das necessidades escolares, com contrapartida em recursos orçamentais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 3 de Setembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

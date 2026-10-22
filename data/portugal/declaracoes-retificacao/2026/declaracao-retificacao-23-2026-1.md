@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/23/2026/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/23-2026-1139191712
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-26T00:00:00Z'
+  retrieved_at: '2026-10-22T18:45:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45b25d623a8465393b0d219ee9322b715c565145f46d73b96662e026013565e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a76eb228ccb255c33d13c41598d42d65a9f1608371def77277a6b64a546a6c3b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:45:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contribuições da Segurança Social
-- Combustível
 - Auxílio de Minimis
-- Pagamento
+- Combustível
+- Contribuições da Segurança Social
 - Instituto da Mobilidade e dos Transportes
-- Transporte de Mercadorias
+- Pagamento
 - Preço
+- Programa Incentiva +TP
 - Regime de Apoio
 - Subsídio não Reembolsável
-- Programa Incentiva +TP
+- Transporte de Mercadorias
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/110-a/2026/06/03/p/dre
@@ -97,16 +97,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/298/2018/11/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/298/2018/11/19/p/dre
+- type: cites
+  target: pt:dre:1128419934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1129893852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117008017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:110-A/2026
+  label: Retifica os n.ºs 2 (prazo) e 3 do artigo 3.º, o n.º 2 do artigo 4.º e o n.º 4 do artigo 7.º do Decreto-Lei n.º 110-A/2026,
+    de 3 de junho, Diário da República n.º 107/2026, Suplemento, Série I
+  source: null
+  date: '2026-06-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:45:16Z'
   warnings: []
   errors: []
 ---
@@ -133,11 +167,11 @@ deve ler-se:
 
 3 - No n.º 2 do artigo 4.º, onde se lê:
 
-«2 - A dotação orçamental disponível para o apoio referido nos n.<sup>os</sup>1 a 6 do artigo anterior é fixada em 30 milhões de euros.»
+«2 - A dotação orçamental disponível para o apoio referido nos n.os1 a 6 do artigo anterior é fixada em 30 milhões de euros.»
 
 deve ler-se:
 
-«2 - A dotação orçamental disponível para o apoio referido nos n.<sup>os</sup>1 a 5 do artigo anterior é fixada em 30 milhões de euros.»
+«2 - A dotação orçamental disponível para o apoio referido nos n.os1 a 5 do artigo anterior é fixada em 30 milhões de euros.»
 
 4 - No n.º 4 do artigo 7.º, onde se lê:
 
@@ -148,3 +182,5 @@ deve ler-se:
 «4 - O montante do financiamento Incentiva+TP a transferir mensalmente para as AM e CIM, globalmente consideradas, não pode resultar na transferência de um montante inferior ao do ano anterior, de acordo com o publicado pelo Fundo Ambiental nos termos do n.º 10, atualizado tendo em conta a taxa de atualização tarifária (TAT) prevista para cada ano, nos termos do disposto na [Portaria n.º 298/2018](https://diariodarepublica.pt/dr/detalhe/portaria/298-2018-117008017), de 19 de novembro.»
 
 Secretaria-Geral do Governo, 24 de junho de 2026. - O Secretário-Geral Adjunto, Joaquim Cruz.
+
+119948895

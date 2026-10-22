@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43730-1961-171922
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-03-14T00:00:00Z'
+  retrieved_at: '2026-10-22T19:24:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e36247478ed6d68e2b751da3812366a47e60e2a913047f9d2ea10dd8787dbbce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20023cbec046f68cd7eee0da496c8589a61851f2f3c51baa46ae804f23be456f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:24:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,32 @@ relationships:
   target: pt:dre:486759:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:196024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624839:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:24:09Z'
   warnings: []
   errors: []
 ---
@@ -105,21 +121,21 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição Política da República, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 411.º a 413.º, 489.º, 511.º e 516.º da Reforma Administrativa Ultramarina, aprovada pelo [Decreto-Lei n.º 23229](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23229-1933-624839), de 15 de Novembro de 1933 passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 411.º a 413.º, 489.º, 511.º e 516.º da Reforma Administrativa Ultramarina, aprovada pelo [Decreto-Lei n.º 23229](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23229-1933-624839), de 15 de Novembro de 1933 passam a ter a seguinte redacção:
 
-###### Artigo 411.º Haverá câmaras municipais:
+Artigo 411.º Haverá câmaras municipais:
 
 1.º Nos concelhos que forem capital de província ou de distrito;
 
 2.º Nos concelho a que o último recenseamento eleitoral atribua 500 ou mais eleitores.
 
-###### Art. 412.º Haverá comissões municipais:
+Art. 412.º Haverá comissões municipais:
 
 1.º Nos concelhos em que não puder constituir-se a câmara por falta ou nulidade da eleição ou enquanto o número de eleitores for inferior a 500;
 
 2.º Nas circunscrições administrativas com 300 ou mais eleitores;
 
-###### Art. 413.º Haverá juntas locais:
+Art. 413.º Haverá juntas locais:
 
 1.º Nas freguesias, desde que a gerência de certos interesses comuns dos habitantes não haja sido confiada aos organismos referidos na alínea a) do n.º IV da base XLVIII da Lei Orgânica do Ultramar Português;
 
@@ -127,7 +143,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição 
 
 ...
 
-###### Art. 489.º As câmaras municipais são compostas por um presidente, que em regra será o administrador do concelho, e por quatro vereadores eleitos quadrienalmente.
+Art. 489.º As câmaras municipais são compostas por um presidente, que em regra será o administrador do concelho, e por quatro vereadores eleitos quadrienalmente.
 
 § 1.º As funções de presidente poderão recair em pessoa diferente da do administrador do concelho, nomeada pelo governador, quando em diploma legislativo for reconhecido que o desenvolvimento do concelho o justifica, tendo em atenção a população as receitas, os serviços municipais ou outros elementos estabelecidos na lei administrativa.
 
@@ -151,19 +167,19 @@ b) Dois serão eleitos por sufrágio directo dos cidadãos inscritos no recensea
 
 ...
 
-###### Art. 511.º As comissões municipais serão compostas por um presidente, que será o administrador da circunscrição ou do concelho, e por quatro vereadores eleitos quadrienalmente pela forma referida no n.º 2.º do § 3.º do artigo 489.º
+Art. 511.º As comissões municipais serão compostas por um presidente, que será o administrador da circunscrição ou do concelho, e por quatro vereadores eleitos quadrienalmente pela forma referida no n.º 2.º do § 3.º do artigo 489.º
 
 ...
 
-###### Art. 516.º As juntas locais serão compostas por um presidente, nomeado pelo governador-geral ou de província, e por dois vereadores eleitos quadrienalmente por sufrágio directo dos cidadãos inscritos no recenseamento eleitoral.
+Art. 516.º As juntas locais serão compostas por um presidente, nomeado pelo governador-geral ou de província, e por dois vereadores eleitos quadrienalmente por sufrágio directo dos cidadãos inscritos no recenseamento eleitoral.
 
-###### Art. 2.º Para os efeitos da eleição cada município, freguesia ou posto administrativo constitui um colégio eleitoral.
+Art. 2.º Para os efeitos da eleição cada município, freguesia ou posto administrativo constitui um colégio eleitoral.
 
-###### Art. 3.º Exceptuam-se do disposto nos artigos 411.º a 413.º da Reforma Administrativa Ultramarina as instituições municipais que se encontrem constituídas à data do presente diploma sem que reúnam o requisito pelos mesmos estabelecido.
+Art. 3.º Exceptuam-se do disposto nos artigos 411.º a 413.º da Reforma Administrativa Ultramarina as instituições municipais que se encontrem constituídas à data do presente diploma sem que reúnam o requisito pelos mesmos estabelecido.
 
-###### Art. 4.º Fica revogado o [Decreto n.º 30817](https://diariodarepublica.pt/dr/detalhe/decreto/30817-1940-196024), de 21 de Outubro de 1940.
+Art. 4.º Fica revogado o [Decreto n.º 30817](https://diariodarepublica.pt/dr/detalhe/decreto/30817-1940-196024), de 21 de Outubro de 1940.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Junho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

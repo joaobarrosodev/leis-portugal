@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 175/1994, 2º Suplemento, Série I-B de 1994-07-30
   number: '175'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4326-(6) a 4326-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/175b02/00060007.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/106/1994/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/106-1994-307460
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:39:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: abceadbe60e89d2043441afac8b03fc1e3db865f20868bb0ee9bd34275b59dbd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ed4b5813bee9e42974b5c88ad4d188ac5fde46930610ecd79c6045e25805602
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:39:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,28 +72,32 @@ subjects:
 - Direcção Geral do Património do Estado
 - Domínio Privado do Estado
 - Equipamento
-- Património do Estado
 - Inventário
+- Património do Estado
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/378/1994/06/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/378/1994/06/16/p/dre
+- type: cites
+  target: pt:dre:303807:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:39:59Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 106/94
+# Declaração de rectificação n.º 106/94
 
 Segundo comunicação do Ministério das Finanças, a [Portaria n.º 378/94](https://diariodarepublica.pt/dr/detalhe/portaria/378-1994-303807), publicada no Diário da República, 1.ª série, n.º 137, de 16 de Junho de 1994, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 
@@ -107,15 +111,15 @@ No artigo 7.º, onde se lê «Procedimento de registo» deve ler-se «Procedimen
 
 No quadro classificador geral, onde se lê «04,05,18 - Rádios teodolitos» deve ler-se «04,05,18 - Rádio teodolito», onde se lê «04,08,03 - Cromómetros» deve ler-se «04,08,03 - Cronómetros», onde se lê «04,08,05 - Mecanismos de reolojoaria» deve ler-se «04,08,05 - Mecanismos de relojoaria», onde se lê «07,05,06 - 12,7» deve ler-se «07,05,06 - 12,5», onde se lê «07,05,07 - Escalfetes» deve ler-se «07,05,07 - Escalfetas», onde se lê «10,14,02 - [...] rotular e selar industriais» deve ler-se «10,14,02 - [...] rotular e selar, industriais» e onde se lê «10,23,01 - [...] refrigeração industriais» deve ler-se «10,23,01 - [...] refrigeração, industriais».
 
-Na ficha de cadastro e inventário (FCI-1), na coluna 4, onde se lê dois campos «[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/175b02/00060007.pdf))](https://files.diariodarepublica.pt/1s/1994/07/175b02/00060007.pdf)» deve ler-se três campos «[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/175b02/00060007.pdf))](https://files.diariodarepublica.pt/1s/1994/07/175b02/00060007.pdf)».
+Na ficha de cadastro e inventário (FCI-1), na coluna 4, onde se lê dois campos «[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/175b02/00060007.pdf)» deve ler-se três campos «[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/175b02/00060007.pdf)».
 
-Na coluna 5, onde se lê cinco campos «[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/175b02/00060007.pdf))](https://files.diariodarepublica.pt/1s/1994/07/175b02/00060007.pdf)» deve ler-se seis campos «[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/175b02/00060007.pdf))](https://files.diariodarepublica.pt/1s/1994/07/175b02/00060007.pdf)».
+Na coluna 5, onde se lê cinco campos «[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/175b02/00060007.pdf)» deve ler-se seis campos «[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/175b02/00060007.pdf)».
 
 Na alínea f), onde se lê «Indicar o valor estimado de realização (valor residual) no fim do período de vida útil esperado do bem, de acordo com o critério definido no n.º 5 do artigo 10.º das IIME.» deve ler-se «Indicar o valor residual presumível do bem locado no fim do prazo do contrato, no caso previsto no n.º 4 do artigo 12.º das IIME.».
 
-Na ficha de amortizações (FCI-2), na coluna 4, onde se lê dois campos «[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/175b02/00060007.pdf))](https://files.diariodarepublica.pt/1s/1994/07/175b02/00060007.pdf)» deve ler-se três campos «[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/175b02/00060007.pdf))](https://files.diariodarepublica.pt/1s/1994/07/175b02/00060007.pdf)».
+Na ficha de amortizações (FCI-2), na coluna 4, onde se lê dois campos «[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/175b02/00060007.pdf)» deve ler-se três campos «[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/175b02/00060007.pdf)».
 
-Na coluna 5, onde se lê cinco campos «[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/175b02/00060007.pdf))](https://files.diariodarepublica.pt/1s/1994/07/175b02/00060007.pdf)» deve ler-se seis campos «[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/175b02/00060007.pdf))](https://files.diariodarepublica.pt/1s/1994/07/175b02/00060007.pdf)».
+Na coluna 5, onde se lê cinco campos «[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/175b02/00060007.pdf)» deve ler-se seis campos «[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/175b02/00060007.pdf)».
 
 Na alínea c), onde se lê «alínea c) do artigo 16.º das IIME.» deve ler-se «alínea c) do artigo 17.º das IIME.».
 

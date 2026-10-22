@@ -22,7 +22,7 @@ publication:
   reference: Diário do Governo n.º 95/1962, 1º Suplemento, Série I de 1962-04-27
   number: '95'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 579 - 613
   pdf_url: https://files.diariodarepublica.pt/1s/1962/04/09501/05790613.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44309-1962-575768
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-04-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:29:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e50945927d4dbc183d31f6d98cae3dd3f45c32506ff4a8a0423a5201d189c11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6aab3580f59704d03fabc1415b2a0bcd0aad9c1932ae0675f33834dba3624c31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:29:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:502423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603012:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 76
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:29:00Z'
   warnings: []
   errors: []
 ---
@@ -109,13 +125,13 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aprovado o Código do Trabalho Rural, que faz parte do presente decreto e que baixa assinado pelo Ministro do Ultramar, para vigorar nas províncias de Cabo Verde, Guiné, S. Tomé e Príncipe, Angola, Moçambique e Timor.
+Artigo 1.º É aprovado o Código do Trabalho Rural, que faz parte do presente decreto e que baixa assinado pelo Ministro do Ultramar, para vigorar nas províncias de Cabo Verde, Guiné, S. Tomé e Príncipe, Angola, Moçambique e Timor.
 
-###### Art. 2.º O código começará a vigorar nas ditas províncias no dia 1 de Outubro do corrente ano.
+Art. 2.º O código começará a vigorar nas ditas províncias no dia 1 de Outubro do corrente ano.
 
-###### Art. 3.º Ficam revogados o Código do Trabalho Indígena, aprovado pelo [Decreto n.º 16199](https://diariodarepublica.pt/dr/detalhe/decreto/16199-1928-603012), de 6 de Dezembro de 1928, e os regulamentos provinciais do mesmo código, assim como todos os regulamentos, portarias e demais diplomas publicados em cada uma das províncias mencionadas no artigo 1.º em regulamentação complementar daquele código e as instruções e toda a mais legislação em contrário.
+Art. 3.º Ficam revogados o Código do Trabalho Indígena, aprovado pelo [Decreto n.º 16199](https://diariodarepublica.pt/dr/detalhe/decreto/16199-1928-603012), de 6 de Dezembro de 1928, e os regulamentos provinciais do mesmo código, assim como todos os regulamentos, portarias e demais diplomas publicados em cada uma das províncias mencionadas no artigo 1.º em regulamentação complementar daquele código e as instruções e toda a mais legislação em contrário.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Abril de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 
@@ -125,17 +141,17 @@ Código do Trabalho Rural
 
 ## TÍTULO I — Disposições preliminares
 
-###### Artigo 1.º - 1. Regulam-se pelas disposições do presente código as relações jurídicas de trabalho emergentes de qualquer convenção em virtude da qual uma pessoa, mediante remuneração, preste serviços a outra, sob direcção desta, sempre que o devedor do trabalho deva qualificar-se como trabalhador rural.
+Artigo 1.º - 1. Regulam-se pelas disposições do presente código as relações jurídicas de trabalho emergentes de qualquer convenção em virtude da qual uma pessoa, mediante remuneração, preste serviços a outra, sob direcção desta, sempre que o devedor do trabalho deva qualificar-se como trabalhador rural.
 
 2. As disposições deste código não são aplicáveis ao serviço doméstico nem às relações de trabalho estabelecidas entre o dador do trabalho e as pessoas de sua família, quando estas trabalhem exclusivamente por conta daquele, e vivam sob o mesmo tecto.
 
-###### Art. 2.º Para os efeitos do presente código, considera-se «empresa» toda a pessoa singular ou colectiva, privada ou pública, por conta de quem se efectua o trabalho. Terão igual significado as expressões «entidade patronal», «patrão», «amo», «empresário» ou «empregador», quando na lei ou nos contratos sejam usadas para designarem o credor do trabalho.
+Art. 2.º Para os efeitos do presente código, considera-se «empresa» toda a pessoa singular ou colectiva, privada ou pública, por conta de quem se efectua o trabalho. Terão igual significado as expressões «entidade patronal», «patrão», «amo», «empresário» ou «empregador», quando na lei ou nos contratos sejam usadas para designarem o credor do trabalho.
 
-###### Art. 3.º - 1. Consideram-se trabalhadores rurais os trabalhadores manuais sem ofício definido ocupados em actividades ligadas à exploração agrícola da terra e recolha dos produtos ou destinadas a tornar possível ou a assegurar aquela exploração.
+Art. 3.º - 1. Consideram-se trabalhadores rurais os trabalhadores manuais sem ofício definido ocupados em actividades ligadas à exploração agrícola da terra e recolha dos produtos ou destinadas a tornar possível ou a assegurar aquela exploração.
 
 2. Para efeitos de aplicação do presente código, são equiparados aos trabalhadores rurais, sempre que não haja regulamentação específica aplicável, aqueles trabalhadores cujo serviço se reduza à simples prestação de mão-de-obra, não sendo, pela natureza do serviço, classificados em quaisquer categorias de empregados ou operários especialmente qualificados, embora se empreguem em actividades diversas das referidas no parágrafo anterior.
 
-###### Art. 4.º - 1. Os trabalhadores rurais distinguem-se em efectivos e eventuais.
+Art. 4.º - 1. Os trabalhadores rurais distinguem-se em efectivos e eventuais.
 
 2. São trabalhadores efectivos os contratados por prazo igual ou superior a seis meses, bem como os que tenham prestado à mesma empresa mais de seis meses de trabalho contínuo e os que não tenham a sua residência habitual nas proximidades do local de trabalho.
 
@@ -143,21 +159,21 @@ Código do Trabalho Rural
 
 4. Não são considerados trabalhadores efectivos os contratados em substituição de outros, qualquer que seja o tempo de prestação de trabalho. Porém, decorrido o prazo de seis meses, adquirem os direitos e regalias que o presente código assegura àqueles, continuando todavia o contrato a ser a prazo, caducando logo que o substituído regresse ao serviço, se este tiver sido identificado no contrato do substituto, indicando-se o motivo da suspensão.
 
-###### Art. 5.º - 1. O trabalhador é colaborador da empresa; como tal deve esta tratá-lo e ele usar de diligência e lealdade.
+Art. 5.º - 1. O trabalhador é colaborador da empresa; como tal deve esta tratá-lo e ele usar de diligência e lealdade.
 
 2. Os governos das províncias poderão tornar obrigatória a constituição, em determinadas categorias de empresas, de órgãos de colaboração destinados a apreciar as questões directamente relacionadas com os interesses dos trabalhadores.
 
-###### Art. 6.º Não obsta à existência das relações de trabalho, para os efeitos do presente código, o facto de o trabalho ser realizado no domicílio do trabalhador, ainda quando o empresário declare vender-lhe as matérias-primas e ele declare vender-lhe os produtos manufacturados, uma vez que se verifique a subordinação assinalada no artigo 1.º
+Art. 6.º Não obsta à existência das relações de trabalho, para os efeitos do presente código, o facto de o trabalho ser realizado no domicílio do trabalhador, ainda quando o empresário declare vender-lhe as matérias-primas e ele declare vender-lhe os produtos manufacturados, uma vez que se verifique a subordinação assinalada no artigo 1.º
 
-###### Art. 7.º - 1. A empresa só pode empregar o aprendiz nos trabalhos relativos à especialidade profissional a que a aprendizagem se refere e deve permitir-lhe a frequência de cursos de formação profissional.
+Art. 7.º - 1. A empresa só pode empregar o aprendiz nos trabalhos relativos à especialidade profissional a que a aprendizagem se refere e deve permitir-lhe a frequência de cursos de formação profissional.
 
 2. A aprendizagem não pode exceder os limites de tempo estabelecidos pelas normas de direito aplicáveis ou, no silêncio delas, pelos usos, mas poderá variar conforme as aptidões que o aprendiz for revelando.
 
 3. O aprendiz não pode ser retribuído por peça ou tarefa.
 
-###### Art. 8.º As disposições deste código só não são aplicáveis ao trabalho domiciliário e à aprendizagem quando assim o estatuam ou na medida em que não se coadunem com a sua peculiar natureza.
+Art. 8.º As disposições deste código só não são aplicáveis ao trabalho domiciliário e à aprendizagem quando assim o estatuam ou na medida em que não se coadunem com a sua peculiar natureza.
 
-###### Art. 9.º - 1. Em caso de dúvida, a interpretação e aplicação das normas e usos sobre contratos de trabalho e das respectivas cláusulas, bem como a qualificação daquelas normas como imperativas ou não imperativas, devem fazer-se à luz do princípio do tratamento mais favorável ao trabalhador.
+Art. 9.º - 1. Em caso de dúvida, a interpretação e aplicação das normas e usos sobre contratos de trabalho e das respectivas cláusulas, bem como a qualificação daquelas normas como imperativas ou não imperativas, devem fazer-se à luz do princípio do tratamento mais favorável ao trabalhador.
 
 2. Os usos prevalecem sobre as normas não imperativas, quando assim o imponha o referido princípio.
 
@@ -165,7 +181,7 @@ Código do Trabalho Rural
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Art. 10.º - 1. Contrato de trabalho é a convenção por força da qual uma pessoa se obriga, mediante retribuição, a prestar a sua actividade a outra pessoa, sob a direcção desta.
+Art. 10.º - 1. Contrato de trabalho é a convenção por força da qual uma pessoa se obriga, mediante retribuição, a prestar a sua actividade a outra pessoa, sob a direcção desta.
 
 2. O trabalho rural, por natureza, é subordinado, ficando o trabalhador integrado na organização da empresa.
 
@@ -175,7 +191,7 @@ A esta compete, dentro dos limites legais e contratuais, determinar, dirigir e f
 
 4. O trabalho prestado na transformação de matérias-primas fornecidas por outrem, mediante certo preço pelo produto transformado, é equiparado, para os efeitos deste código, ao trabalho prestado por peça.
 
-###### Art. 11.º - 1. O consentimento do trabalhador, ao aceitar um contrato e as suas cláusulas e condições, deve ser, em cada caso, dado expressamente e por forma inequívoca, depois de tomar perfeito conhecimento das ditas cláusulas e condições.
+Art. 11.º - 1. O consentimento do trabalhador, ao aceitar um contrato e as suas cláusulas e condições, deve ser, em cada caso, dado expressamente e por forma inequívoca, depois de tomar perfeito conhecimento das ditas cláusulas e condições.
 
 2. É nulo todo o contrato em que o consentimento do trabalhador não tenha sido prestado com rigorosa observância do disposto no parágrafo anterior, salvo nos casos em que o trabalhador livremente o ratificar ou prestar o seu consentimento na forma referida.
 
@@ -191,11 +207,11 @@ Se o trabalhador não souber ler e escrever e sendo o contrato escrito, o consen
 
 #### SECÇÃO I — Princípio geral
 
-###### Art. 12.º Os contratos individuais de trabalho serão obrigatòriamente reduzidos a escrito apenas nos casos expressamente determinados neste código.
+Art. 12.º Os contratos individuais de trabalho serão obrigatòriamente reduzidos a escrito apenas nos casos expressamente determinados neste código.
 
 #### SECÇÃO II — Contratos obrigatòriamente escritos
 
-###### Art. 13.º - 1. Serão obrigatòriamente escritos os contratos de trabalho dos trabalhadores efectivos a que se referem a primeira e a última partes do parágrafo 2 do artigo 4.º
+Art. 13.º - 1. Serão obrigatòriamente escritos os contratos de trabalho dos trabalhadores efectivos a que se referem a primeira e a última partes do parágrafo 2 do artigo 4.º
 
 2. Para os efeitos do disposto no parágrafo anterior, considerar-se-á que não têm a sua residência habitual nas proximidades do local de trabalho os trabalhadores que sejam contratados em concelho ou circunscrição a cuja área não pertença aquele local, bem como todos os que, para prestarem os serviços ajustados, tenham de transferir a sua residência, ainda que temporàriamente, seja qual for a duração do contrato.
 
@@ -203,7 +219,7 @@ Se o trabalhador não souber ler e escrever e sendo o contrato escrito, o consen
 
 #### SECÇÃO III — Cláusulas obrigatórias dos contratos escritos
 
-###### Art. 14.º - 1. Os contratos escritos conterão sempre cláusulas expressas, clara e inequìvocamente, sobre todos os pontos necessários para fixar os direitos e obrigações das partes, nomeadamente sobre os seguintes:
+Art. 14.º - 1. Os contratos escritos conterão sempre cláusulas expressas, clara e inequìvocamente, sobre todos os pontos necessários para fixar os direitos e obrigações das partes, nomeadamente sobre os seguintes:
 
 a) Identificação do empregador;
 
@@ -229,7 +245,7 @@ j) Eventualmente, condições especiais do contrato.
 
 Do título deverá constar também a cláusula de adesão ao regulamento ou da aceitação das suas condições, por parte do trabalhador.
 
-###### Art. 15.º - 1. As empresas podem elaborar regulamentos donde constem regras de direcção e outras disposições sobre trabalho.
+Art. 15.º - 1. As empresas podem elaborar regulamentos donde constem regras de direcção e outras disposições sobre trabalho.
 
 2. As cláusulas dos contratos individuais de trabalho podem constar de convenções celebradas pela entidade patronal com cada trabalhador, ou de regulamentos de serviço elaborados por aquela, aos quais os trabalhadores tenham aderido.
 
@@ -249,7 +265,7 @@ Do título deverá constar também a cláusula de adesão ao regulamento ou da a
 
 obrigam como as cláusulas contratuais desde que nos contratos de trabalho não sejam expressamente excluídas e os trabalhadores lhes dêem a sua adesão.
 
-###### Art. 16.º - 1. Os contratos serão visados pelo funcionário competente da Inspecção do Trabalho.
+Art. 16.º - 1. Os contratos serão visados pelo funcionário competente da Inspecção do Trabalho.
 
 2. Antes de visar o contrato, o funcionário referido no parágrafo anterior deve:
 
@@ -289,7 +305,7 @@ d) Uma cópia será remetida à subdelegação da Inspecção do Trabalho da loc
 
 9. O funcionário encarregado de visar os contratos, não recusando o visto, assinará sobre selo fiscal, no original do contrato, visando também as respectivas cópias, que rubricará, autenticando as suas assinaturas e rubricas com o selo branco que tiver em uso. A estampilha fiscal será fornecida pelo empregador.
 
-###### Art. 17.º - 1. Todo o trabalhador que aceite um contrato deve ser submetido a um exame médico antes de o respectivo contrato ser apresentado ao visto da Inspecção do Trabalho.
+Art. 17.º - 1. Todo o trabalhador que aceite um contrato deve ser submetido a um exame médico antes de o respectivo contrato ser apresentado ao visto da Inspecção do Trabalho.
 
 2. O exame médico destina-se à verificação da robustez física e da sanidade mental do trabalhador. Nomeadamente, o médico que proceder ao exame deverá verificar:
 
@@ -311,13 +327,13 @@ d) A idade provável do trabalhador, quando este a não prove com documento lega
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 18.º - 1. O contrato de trabalho pode ser celebrado por tempo indeterminado ou por prazo determinado.
+Art. 18.º - 1. O contrato de trabalho pode ser celebrado por tempo indeterminado ou por prazo determinado.
 
 2. Na falta de convenção, o contrato presume-se feito por tempo indeterminado, se o contrário não resultar da própria natureza da relação estabelecida.
 
 3. Nos contratos escritos é obrigatória a determinação do prazo da duração deles.
 
-###### Art. 19.º - 1. A prorrogação dos contratos só poderá ter lugar nos termos da lei, devendo, em todos os casos, ser expressamente acordada entre as partes.
+Art. 19.º - 1. A prorrogação dos contratos só poderá ter lugar nos termos da lei, devendo, em todos os casos, ser expressamente acordada entre as partes.
 
 2. A disposição do parágrafo anterior não é aplicável aos contratos que, por natureza, estejam sujeitos ao regime de trato sucessivo.
 
@@ -325,17 +341,17 @@ d) A idade provável do trabalhador, quando este a não prove com documento lega
 
 #### SECÇÃO II — Cláusula da duração dos contratos escritos
 
-###### Art. 20.º - 1. Todo o contrato escrito mencionará obrigatòriamente a sua duração, podendo qualquer das partes, na falta de estipulação do prazo, rescindi-lo unilateralmente, a todo o tempo, avisando, prèviamente e por declaração inequívoca, o outro contraente, nos termos do disposto no artigo 56.º
+Art. 20.º - 1. Todo o contrato escrito mencionará obrigatòriamente a sua duração, podendo qualquer das partes, na falta de estipulação do prazo, rescindi-lo unilateralmente, a todo o tempo, avisando, prèviamente e por declaração inequívoca, o outro contraente, nos termos do disposto no artigo 56.º
 
 2. Se nenhuma das partes denunciar o contrato, por falta de expressa determinação do prazo da sua validade, observar-se-á o disposto no parágrafo 2 do artigo 18.º
 
-###### Art. 21.º - 1. Toda a cláusula que estipule duração do contrato superior aos limites máximos de duração fixados neste código ter-se-á como não escrita, observando-se o disposto no parágrafo 3 deste artigo.
+Art. 21.º - 1. Toda a cláusula que estipule duração do contrato superior aos limites máximos de duração fixados neste código ter-se-á como não escrita, observando-se o disposto no parágrafo 3 deste artigo.
 
 2. Igualmente se considerará como não escrita qualquer cláusula pela qual o trabalhador contratado se obrigue a aceitar a prorrogação do contrato ou renuncie ao direito de denunciá-lo.
 
 3. Quando algum contrato escrito viole a disposição da primeira parte do parágrafo 1 do presente artigo, a cláusula da duração do contrato considerar-se-á substituída por outra em que se fixe em seis meses o prazo do contrato.
 
-###### Art. 22.º - 1. Em nenhum contrato poderá estipular-se duração superior aos seguintes prazos:
+Art. 22.º - 1. Em nenhum contrato poderá estipular-se duração superior aos seguintes prazos:
 
 A) Sendo a viagem curta e pouco dispendiosa:
 
@@ -363,15 +379,15 @@ d) O termo «família» abrange sòmente a mulher e os filhos menores de 14 anos
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 23.º - 1. O trabalho deve ser prestado no local convencionado ou que esteja de harmonia com a natureza do serviço e as circunstâncias do contrato.
+Art. 23.º - 1. O trabalho deve ser prestado no local convencionado ou que esteja de harmonia com a natureza do serviço e as circunstâncias do contrato.
 
 2. Na falta de convenção ou se o contrário não resultar dos termos do contrato, não pode ser exigida a prestação do trabalho em localidade diversa daquela onde o trabalhador tenha a sua residência, sem prejuízo do disposto no artigo 61.º
 
-###### Art. 24.º - 1. Na falta de convenção em contrário, o início da execução do contrato reputa-se diferido para o primeiro dia útil da semana ou do mês seguinte ao da celebração, conforme se trate de trabalhadores eventuais ou efectivos.
+Art. 24.º - 1. Na falta de convenção em contrário, o início da execução do contrato reputa-se diferido para o primeiro dia útil da semana ou do mês seguinte ao da celebração, conforme se trate de trabalhadores eventuais ou efectivos.
 
 2. Nos casos em que a prestação dos serviços ajustados exige a mudança, embora temporária, da residência do trabalhador o contrato começa a executar-se logo que este se coloca à disposição do empregador, na data e local convencionados, ou, na falta de convenção, na data em que o contrato é celebrado.
 
-###### Art. 25.º - 1. Salvos os casos expressamente previstos neste código, só o trabalho convencionado pode ser exigido dos trabalhadores.
+Art. 25.º - 1. Salvos os casos expressamente previstos neste código, só o trabalho convencionado pode ser exigido dos trabalhadores.
 
 2. Só pode exigir-se de cada trabalhador, ainda que nos termos do contrato a condição não se ache expressa, serviços compatíveis com as suas forças.
 
@@ -379,7 +395,7 @@ d) O termo «família» abrange sòmente a mulher e os filhos menores de 14 anos
 
 ##### SUBSECÇÃO I — Direitos e deveres dos trabalhadores
 
-###### Art. 26.º - 1. São direitos inderrogáveis dos trabalhadores:
+Art. 26.º - 1. São direitos inderrogáveis dos trabalhadores:
 
 a) Receber a remuneração convencionada, respeitados os limites mínimos fixados em convenções colectivas ou, na falta destas, nas disposições legais;
 
@@ -411,7 +427,7 @@ l) A habitação familiar, nos casos da alínea e) do presente parágrafo, de ha
 
 5. Os trabalhadores efectivos têm sempre direito à prestação, por parte da empresa, da alimentação e do vestuário, nos termos do parágrafo anterior. Em relação aos trabalhadores eventuais, a referida prestação é facultativa para a empresa.
 
-###### Art. 27.º - 1. São deveres gerais dos trabalhadores:
+Art. 27.º - 1. São deveres gerais dos trabalhadores:
 
 a) Prestar o trabalho ajustado e, na falta de estipulação expressa, o que usualmente corresponder à sua profissão e for compatível com as suas forças;
 
@@ -435,7 +451,7 @@ g) Agir com inteira lealdade para com a empresa e superiores hierárquicos.
 
 ##### SUBSECÇÃO II — Direitos e deveres das empresas
 
-###### Art. 28.º São direitos da entidade patronal:
+Art. 28.º São direitos da entidade patronal:
 
 a) Exigir do trabalhador a prestação do trabalho ajustado ou, na falta de ajuste, o que usualmente corresponde à profissão;
 
@@ -445,7 +461,7 @@ c) Determinar medidas de higiene e de prevenção de acidentes;
 
 d) Exercer a disciplina da empresa.
 
-###### Art. 29.º São deveres da entidade patronal:
+Art. 29.º São deveres da entidade patronal:
 
 a) Remunerar pontualmente os trabalhadores;
 
@@ -463,13 +479,13 @@ g) Promover e facilitar a elevação do nível profissional e cultural dos traba
 
 #### SECÇÃO III — Disciplina do trabalho
 
-###### Art. 30.º - 1. As empresas são competentes para exercer acção disciplinar sobre os trabalhadores ao seu serviço.
+Art. 30.º - 1. As empresas são competentes para exercer acção disciplinar sobre os trabalhadores ao seu serviço.
 
 2. Os regulamentos de serviço das empresas devem conter normas de disciplina, pelas quais os trabalhadores possam conhecer claramente a orientação imposta ou desejada pela empresa, sem prejuízo das disposições legais aplicáveis.
 
 3. No exercício da sua competência disciplinar, a entidade patronal deve agir com prudência e equidade, nunca visando os interesses materiais próprios, mas tão-sòmente o normal funcionamento dos serviços, em atenção à sua superior função social, evitando qualquer ofensa da dignidade dos trabalhadores.
 
-###### Art. 31.º - 1. Para os efeitos da presente secção, o termo «faltas ao contrato» compreende:
+Art. 31.º - 1. Para os efeitos da presente secção, o termo «faltas ao contrato» compreende:
 
 a) A recusa ou omissão, da parte do trabalhador, de começar ou de executar o trabalho estipulado no contrato;
 
@@ -493,13 +509,13 @@ e) Embriaguez;
 
 f) Mau porte moral, público e notório.
 
-###### Art. 32.º A sanção disciplinar deve ser proporcional à gravidade da falta.
+Art. 32.º A sanção disciplinar deve ser proporcional à gravidade da falta.
 
-###### Art. 33.º Em caso algum serão aplicadas aos trabalhadores sanções penais por faltas aos contratos ou violação de cláusulas contratuais.
+Art. 33.º Em caso algum serão aplicadas aos trabalhadores sanções penais por faltas aos contratos ou violação de cláusulas contratuais.
 
-###### Art. 34.º Salvos os casos em que possa haver lugar a procedimento criminal, nos termos da lei comum, os factos perturbadores da disciplina do trabalho sòmente serão punidos segundo as disposições da presente secção.
+Art. 34.º Salvos os casos em que possa haver lugar a procedimento criminal, nos termos da lei comum, os factos perturbadores da disciplina do trabalho sòmente serão punidos segundo as disposições da presente secção.
 
-###### Art. 35.º - 1. As sanções disciplinares a aplicar pelas entidades patronais são:
+Art. 35.º - 1. As sanções disciplinares a aplicar pelas entidades patronais são:
 
 a) Repreensão;
 
@@ -515,7 +531,7 @@ d) Despedimento.
 
 4. A suspensão não pode exceder doze dias ou um mês, conforme se trate de trabalhadores eventuais ou efectivos, em cada ano de prestação de serviço.
 
-###### Art. 36.º - 1. As penas de multa e suspensão são aplicáveis exclusivamente às seguintes infracções:
+Art. 36.º - 1. As penas de multa e suspensão são aplicáveis exclusivamente às seguintes infracções:
 
 a) Faltas ao contrato enumeradas nas alíneas b) e c) do parágrafo 1 do artigo 31.º;
 
@@ -523,7 +539,7 @@ b) Factos perturbadores da disciplina, enumerados no parágrafo 2 do mesmo artig
 
 2. A pena de despedimento só pode ter lugar em consequência dos factos referidos nas alíneas a) e d) do parágrafo 1 do artigo 31.º, ou quando seja invocado algum outro facto de natureza disciplinar que constitua justa causa, de harmonia com o disposto no artigo 60.º
 
-###### Art. 37.º - 1. As penas disciplinares só podem ser aplicadas dentro dos oito dias subsequentes ao conhecimento que das faltas tenham a entidade patronal ou os superiores hierárquicos do trabalhador.
+Art. 37.º - 1. As penas disciplinares só podem ser aplicadas dentro dos oito dias subsequentes ao conhecimento que das faltas tenham a entidade patronal ou os superiores hierárquicos do trabalhador.
 
 2. Da aplicação da multa e da suspensão poderá haver reclamação, no prazo de oito dias, para a própria empresa, que, dentro de cinco dias, decidirá, considerando-se mantida a decisão reclamada se dentro desse prazo nada decidir.
 
@@ -537,7 +553,7 @@ b) Factos perturbadores da disciplina, enumerados no parágrafo 2 do mesmo artig
 
 7. Das decisões das reclamações e dos recursos serão enviadas cópias à Inspecção do Trabalho por quem as proferir.
 
-###### Art. 38.º - 1. A pena de suspensão importa a interrupção da prestação de trabalho e a perda para o trabalhador do direito à remuneração respectiva, pelo tempo que durar a suspensão.
+Art. 38.º - 1. A pena de suspensão importa a interrupção da prestação de trabalho e a perda para o trabalhador do direito à remuneração respectiva, pelo tempo que durar a suspensão.
 
 2. O despedimento tem os efeitos da rescisão do contrato com justa causa.
 
@@ -545,9 +561,9 @@ b) Factos perturbadores da disciplina, enumerados no parágrafo 2 do mesmo artig
 
 ### CAPÍTULO V — Suspensão da prestação do trabalho
 
-###### Art. 39.º A prestarão do trabalho pode, nos casos definidos no presente código, ser suspensa sem ou com perda da remuneração correspondente ao período de suspensão.
+Art. 39.º A prestarão do trabalho pode, nos casos definidos no presente código, ser suspensa sem ou com perda da remuneração correspondente ao período de suspensão.
 
-###### Art. 40.º - 1. A prestação do trabalho suspende-se, sem perda da remuneração, nos seguintes casos:
+Art. 40.º - 1. A prestação do trabalho suspende-se, sem perda da remuneração, nos seguintes casos:
 
 a) Descanso semanal, feriados obrigatórios e férias, nos termos dos artigos 96.º, 97.º e 98.º;
 
@@ -555,11 +571,11 @@ b) Faltas justificadas, sem prejuízo do disposto no artigo 47.º
 
 2. Sendo o salário fixado a tanto por dia, o trabalhador tem direito à remuneração correspondente a feriados obrigatórios e férias, desde que o contrato dure há mais de um ano, mas não à correspondente ao descanso semanal.
 
-###### Art. 41.º Além do caso de sanção disciplinar, a prestação do trabalho é suspensa, com perda da remuneração, ressalvadas as disposições aplicáveis da legislação sobre previdência, no caso de impedimento prolongado resultante de força maior, designadamente doença acidental, calamidade pública ou cumprimento de obrigações legais não originadas em acto ilícito.
+Art. 41.º Além do caso de sanção disciplinar, a prestação do trabalho é suspensa, com perda da remuneração, ressalvadas as disposições aplicáveis da legislação sobre previdência, no caso de impedimento prolongado resultante de força maior, designadamente doença acidental, calamidade pública ou cumprimento de obrigações legais não originadas em acto ilícito.
 
-###### Art. 42.º O tempo durante o qual a prestação estiver suspensa, nos termos dos artigos anteriores, conta para efeito de antiguidade do trabalhador, salvo no caso de sanção disciplinar.
+Art. 42.º O tempo durante o qual a prestação estiver suspensa, nos termos dos artigos anteriores, conta para efeito de antiguidade do trabalhador, salvo no caso de sanção disciplinar.
 
-###### Art. 43.º - 1. O trabalhador efectivo que faltar ao serviço, no caso de estar impedido por facto que lhe não seja imputável, não perde o direito à respectiva remuneração.
+Art. 43.º - 1. O trabalhador efectivo que faltar ao serviço, no caso de estar impedido por facto que lhe não seja imputável, não perde o direito à respectiva remuneração.
 
 2. Quando o impedimento se prolongue por mais de 30 dias a prestação de trabalho continuará suspensa, mas, a partir do termo daquele prazo, deixará de ser devida remuneração, sem prejuízo da observância das disposições aplicáveis da legislação sobre previdência.
 
@@ -567,13 +583,13 @@ b) Faltas justificadas, sem prejuízo do disposto no artigo 47.º
 
 4. Se, porém, o impedimento for definitivo, o contrato caducará, sempre sem prejuízo da observância das disposições aplicáveis da legislação sobre previdência.
 
-###### Art. 44.º - 1. Terminado o impedimento, o trabalhador deverá apresentar-se ao serviço, se entretanto não tiver sido despedido, por escrito, nos termos legais, e a empresa deverá readmiti-lo.
+Art. 44.º - 1. Terminado o impedimento, o trabalhador deverá apresentar-se ao serviço, se entretanto não tiver sido despedido, por escrito, nos termos legais, e a empresa deverá readmiti-lo.
 
 2. O prazo para a apresentação ao serviço é de quinze dias, a contar da data em que tiver cessado o impedimento.
 
 3. A inobservância do disposto nos parágrafos anteriores considera-se despedimento sem justa causa, por parte do trabalhador ou da empresa, conforme os casos.
 
-###### Art. 45.º - 1. O contrato de trabalho suspende-se enquanto durar a prestação de serviço militar obrigatório, tendo o trabalhador o direito de ser readmitido ao serviço, desde que, no prazo de um mês, finda a prestação do serviço militar, comunique à empresa a sua vontade de prosseguir na execução do contrato.
+Art. 45.º - 1. O contrato de trabalho suspende-se enquanto durar a prestação de serviço militar obrigatório, tendo o trabalhador o direito de ser readmitido ao serviço, desde que, no prazo de um mês, finda a prestação do serviço militar, comunique à empresa a sua vontade de prosseguir na execução do contrato.
 
 2. A doença do trabalhador efectivo que o impeça de prestar o serviço ajustado suspende o contrato até ao máximo de três meses, findos os quais poderá constituir justa causa de denúncia.
 
@@ -585,7 +601,7 @@ b) Faltas justificadas, sem prejuízo do disposto no artigo 47.º
 
 6. A suspensão do pagamento da remuneração é equiparada à suspensão total do contrato.
 
-###### Art. 46.º Não prejudicam os direitos do trabalhador nem importam suspensão do contrato as faltas dadas nas seguintes condições:
+Art. 46.º Não prejudicam os direitos do trabalhador nem importam suspensão do contrato as faltas dadas nas seguintes condições:
 
 a) Três dias, por ocasião do casamento do trabalhador ou por ocasião da morte de ascendente, descendente ou cônjuge;
 
@@ -593,17 +609,17 @@ b) Trinta dias, em caso de doença devidamente comprovada, tratando-se de trabal
 
 c) Quanto às mulheres, nos casos previstos nos artigos 224.º e 228.º
 
-###### Art. 47.º - 1. Fora das hipóteses previstas no artigo anterior, as faltas só se consideram justificadas se a empresa, caso a caso, assim as declarar; mas se essas faltas excederem num mês dois dias seguidos ou interpolados, embora sejam declaradas justificadas, o trabalhador, quanto ao excesso, não terá direito à correspondente remuneração.
+Art. 47.º - 1. Fora das hipóteses previstas no artigo anterior, as faltas só se consideram justificadas se a empresa, caso a caso, assim as declarar; mas se essas faltas excederem num mês dois dias seguidos ou interpolados, embora sejam declaradas justificadas, o trabalhador, quanto ao excesso, não terá direito à correspondente remuneração.
 
 2. Tratando-se de trabalhador eventual, a empresa não é obrigada a pagar-lhe o salário correspondente nos casos a que se refere o parágrafo anterior.
 
-###### Art. 48.º As faltas não justificadas, além de fazerem perder a respectiva remuneração, podem originar a aplicação de sanções disciplinares, nos termos do artigo 36.º, ou a observância do disposto no artigo 104.º O tempo correspondente não será contado para efeito de antiguidade do trabalhador.
+Art. 48.º As faltas não justificadas, além de fazerem perder a respectiva remuneração, podem originar a aplicação de sanções disciplinares, nos termos do artigo 36.º, ou a observância do disposto no artigo 104.º O tempo correspondente não será contado para efeito de antiguidade do trabalhador.
 
 ### CAPÍTULO VI — Modificação, extinção e invalidade dos contratos
 
 #### SECÇÃO I — Da modificação
 
-###### Art. 49.º - 1. As modificações dos contratos de trabalho que importem alteração de alguma das suas cláusulas essenciais só poderão operar-se por mútuo acordo dos contraentes e por escrito, se o contrato tiver sido celebrado por essa forma.
+Art. 49.º - 1. As modificações dos contratos de trabalho que importem alteração de alguma das suas cláusulas essenciais só poderão operar-se por mútuo acordo dos contraentes e por escrito, se o contrato tiver sido celebrado por essa forma.
 
 Para os efeitos do presente parágrafo, consideram-se essenciais as cláusulas que versem sobre:
 
@@ -623,7 +639,7 @@ e) O lugar da prestação do trabalho.
 
 4. Todas as alterações às cláusulas essenciais dos contratos escritos deverão ser visadas, nos termos referidos no artigo 16.º
 
-###### Art. 50.º - 1. Nos casos de transferência da exploração da empresa os contratos de trabalho continuarão a vigorar com a empresa adquirente, a qual será responsável pelo cumprimento de todas as obrigações deles emergentes, sem prejuízo do direito de regresso contra a transmitente, quanto às obrigações anteriores à transmissão.
+Art. 50.º - 1. Nos casos de transferência da exploração da empresa os contratos de trabalho continuarão a vigorar com a empresa adquirente, a qual será responsável pelo cumprimento de todas as obrigações deles emergentes, sem prejuízo do direito de regresso contra a transmitente, quanto às obrigações anteriores à transmissão.
 
 2. A empresa transmitente é subsidiàriamente responsável pelas obrigações vencidas até à data da transmissão.
 
@@ -633,7 +649,7 @@ e) O lugar da prestação do trabalho.
 
 #### SECÇÃO II — Da extinção dos contratos
 
-###### Art. 51.º - 1. O contrato de trabalho extingue-se:
+Art. 51.º - 1. O contrato de trabalho extingue-se:
 
 a) Pela morte do trabalhador;
 
@@ -649,13 +665,13 @@ e) Por denúncia.
 
 3. Nos casos previstos na alínea d) mantêm-se os efeitos produzidos até à data da rescisão.
 
-###### Art. 52.º - 1. Em caso de encerramento definitivo do estabelecimento os contratos de trabalho caducam, excepto se a empresa puder conservar ao seu serviço os trabalhadores noutro ou noutros estabelecimentos.
+Art. 52.º - 1. Em caso de encerramento definitivo do estabelecimento os contratos de trabalho caducam, excepto se a empresa puder conservar ao seu serviço os trabalhadores noutro ou noutros estabelecimentos.
 
 2. Os trabalhadores terão direito à compensação fixada no artigo 59.º, salvo se tiverem sido despedidos com a antecedência estabelecida no parágrafo 2 do artigo 56.º, porque então competir-lhes-á a compensação fixada no artigo 58.º
 
 3. Se o estabelecimento houver sido encerrado em razão de manifesta falta de recursos económicos, observar-se-á o disposto no artigo 63.º
 
-###### Art. 53.º - 1. Sendo o estabelecimento encerrado temporàriamente, e não podendo os trabalhadores ser colocados noutro ou noutros estabelecimentos da mesma empresa enquanto o encerramento subsistir, terão ainda assim direito à remuneração.
+Art. 53.º - 1. Sendo o estabelecimento encerrado temporàriamente, e não podendo os trabalhadores ser colocados noutro ou noutros estabelecimentos da mesma empresa enquanto o encerramento subsistir, terão ainda assim direito à remuneração.
 
 2. Exceptua-se o caso de o encerramento ser determinado por motivo de força maior e ter duração prolongada, porque então observar-se-á o regime constante do artigo 43.º, parágrafos 1 e 2.
 
@@ -663,13 +679,13 @@ e) Por denúncia.
 
 4. O disposto no presente artigo é extensivo a quaisquer outros casos em que o trabalhador não possa executar os serviços por facto relacionado com a empresa.
 
-###### Art. 54.º - 1. A declaração judicial da falência ou da insolvência da empresa não faz caducar os contratos de trabalho.
+Art. 54.º - 1. A declaração judicial da falência ou da insolvência da empresa não faz caducar os contratos de trabalho.
 
 2. O administrador da falência ou da insolvência satisfará integralmente as retribuições que se forem vencendo, se o estabelecimento não for encerrado e enquanto não o for.
 
 3. O referido administrador, ouvidos os curadores fiscais, poderá revogar alguns dos contratos de trabalho, se daí não resultar inconveniente para a boa gestão do estabelecimento e for julgado mais vantajoso para a massa falida ou insolvente. Mas, em tal caso, as compensações a satisfazer pelo facto do despedimento serão integralmente satisfeitas.
 
-###### Art. 55.º - 1. O contrato de trabalho por prazo determinado ou pelo tempo necessário para executar certo serviço não pode, sem justa causa, ser denunciado unilateralmente antes de expirar o prazo convencionado ou de estar concluído o serviço.
+Art. 55.º - 1. O contrato de trabalho por prazo determinado ou pelo tempo necessário para executar certo serviço não pode, sem justa causa, ser denunciado unilateralmente antes de expirar o prazo convencionado ou de estar concluído o serviço.
 
 2. A rescisão do contrato, por parte da empresa, com violação do disposto no parágrafo anterior, dá ao trabalhador o direito de exigir dela o cumprimento de todas as obrigações emergentes do contrato, nomeadamente os salários correspondentes ao prazo convencionado da duração do contrato.
 
@@ -677,7 +693,7 @@ e) Por denúncia.
 
 4. O trabalhador que rescindir o contrato com violação do disposto no parágrafo 1 do presente artigo será obrigado a indemnizar a empresa pelos danos e perdas que ela porventura sofrer e a pagar-lhe uma indemnização, que será calculada à razão de cinco dias de salário por cada mês que faltar para o termo do contrato.
 
-###### Art. 56.º - 1. Não se achando acordado o prazo do contrato entre a empresa e o trabalhador, qualquer dos contraentes pode dá-lo por acabado, independentemente da alegação de justa causa, avisando prèviamente e por declaração inequívoca o outro contraente.
+Art. 56.º - 1. Não se achando acordado o prazo do contrato entre a empresa e o trabalhador, qualquer dos contraentes pode dá-lo por acabado, independentemente da alegação de justa causa, avisando prèviamente e por declaração inequívoca o outro contraente.
 
 2. Tratando-se de trabalhadores efectivos, a entidade patronal é obrigada a avisá-los com a antecipação de um mês.
 
@@ -685,15 +701,15 @@ Tratando-se de trabalhadores eventuais, contratados por períodos mensais, o avi
 
 3. Os trabalhadores que se despedirem avisarão a empresa com a antecipação correspondente a metade dos prazos estabelecidos no parágrafo anterior.
 
-###### Art. 57.º O trabalhador avisado da rescisão do contrato tem direito à remuneração correspondente ao tempo por que se conservar ao serviço, ou até ao fim dos prazos referidos no parágrafo 2 do artigo 56.º, recusando-se a empresa a mantê-lo ao serviço.
+Art. 57.º O trabalhador avisado da rescisão do contrato tem direito à remuneração correspondente ao tempo por que se conservar ao serviço, ou até ao fim dos prazos referidos no parágrafo 2 do artigo 56.º, recusando-se a empresa a mantê-lo ao serviço.
 
-###### Art. 58.º Nos contratos sem prazo, os trabalhadores despedidos com aviso prévio e sem justa causa terão direito à uma indemnização equivalente a meio mês de salário, além do direito de receberem a totalidade do salário relativo ao mês em que se verificar o despedimento.
+Art. 58.º Nos contratos sem prazo, os trabalhadores despedidos com aviso prévio e sem justa causa terão direito à uma indemnização equivalente a meio mês de salário, além do direito de receberem a totalidade do salário relativo ao mês em que se verificar o despedimento.
 
-###### Art. 59.º - 1. Sendo o trabalhador despedido sem aviso prévio e sem justa causa, terá direito a uma indemnização correspondente ao salário relativo ao prazo do aviso prévio que no caso couber.
+Art. 59.º - 1. Sendo o trabalhador despedido sem aviso prévio e sem justa causa, terá direito a uma indemnização correspondente ao salário relativo ao prazo do aviso prévio que no caso couber.
 
 2. O trabalhador que se despedir sem aviso prévio e sem justa causa fica sujeito a uma indemnização igual à remuneração correspondente ao respectivo período.
 
-###### Art. 60.º - 1. Qualquer dos contraentes pode rescindir o contrato com justa causa.
+Art. 60.º - 1. Qualquer dos contraentes pode rescindir o contrato com justa causa.
 
 2. A existência de justa causa será, em cada caso, apreciada pelo juiz, segundo o seu prudente arbítrio, tendo sempre em atenção o carácter das relações entre dirigentes e subordinados, a condição social e o grau de educação de uns e outros e as demais circunstâncias do caso.
 
@@ -717,7 +733,7 @@ h) A falta de pagamento da remuneração na forma devida.
 
 4. Sob pena de não se admitir prova da justa causa, esta deve ser invocada por forma expressa e inequívoca no momento do despedimento pelo contraente que denunciar o contrato.
 
-###### Art. 61.º - 1. O trabalhador poderá rescindir o contrato, nos termos da alínea g) do parágrafo 3 do artigo anterior, se o local de trabalho sofrer mudança que não podia razoàvelmente prever quando foi admitido ao serviço e essa mudança tornar bastante mais gravosa, para ele, a execução do contrato.
+Art. 61.º - 1. O trabalhador poderá rescindir o contrato, nos termos da alínea g) do parágrafo 3 do artigo anterior, se o local de trabalho sofrer mudança que não podia razoàvelmente prever quando foi admitido ao serviço e essa mudança tornar bastante mais gravosa, para ele, a execução do contrato.
 
 2. Não terá, porém, cabimento a rescisão, se qualquer das partes propuser à outra uma modificação do contrato que ela aceite ou, em caso de litígio, o tribunal considere como equitativa.
 
@@ -727,31 +743,31 @@ h) A falta de pagamento da remuneração na forma devida.
 
 5. Não se observará, todavia, o regime deste artigo, mas o do artigo 62.º, se o trabalhador provar que a mudança de local teve por fim forçá-lo a rescindir o contrato.
 
-###### Art. 62.º - 1. As empresas não podem despedir os trabalhadores por estes lhes exigirem o cumprimento de obrigações contratuais ou legais ou exercerem alguma função em organismos de representação profissional.
+Art. 62.º - 1. As empresas não podem despedir os trabalhadores por estes lhes exigirem o cumprimento de obrigações contratuais ou legais ou exercerem alguma função em organismos de representação profissional.
 
 2. Sempre que um dos contraentes for forçado a denunciar o contrato por causa culposamente imputável ao outro contraente, considerar-se-á rescindido o contrato sem justa causa, por parte daquele dos contraentes cuja conduta se destinou a tornar impossível ao outro a continuação do contrato.
 
 3. As empresas que violarem o disposto nos parágrafos anteriores, além da indemnização correspondente nos casos de despedimento, pagarão mais aos trabalhadores uma indemnização de três meses de salário.
 
-###### Art. 63.º Se a empresa proceder ao despedimento em razão de manifesta falta de recursos económicos, a compensação a pagar ao trabalhador poderá sofrer redução equitativa, que em caso de litígio será determinada pelo prudente critério do tribunal, segundo as circunstâncias do caso, sem prejuízo da observância dos preceitos aplicáveis da legislação sobre previdência. À empresa caberá provar a falta de recursos.
+Art. 63.º Se a empresa proceder ao despedimento em razão de manifesta falta de recursos económicos, a compensação a pagar ao trabalhador poderá sofrer redução equitativa, que em caso de litígio será determinada pelo prudente critério do tribunal, segundo as circunstâncias do caso, sem prejuízo da observância dos preceitos aplicáveis da legislação sobre previdência. À empresa caberá provar a falta de recursos.
 
-###### Art. 64.º Durante o período experimental, achando-se este estabelecido, não é devida compensação alguma pela revogação do contrato, ou esta proceda da empresa ou do trabalhador.
+Art. 64.º Durante o período experimental, achando-se este estabelecido, não é devida compensação alguma pela revogação do contrato, ou esta proceda da empresa ou do trabalhador.
 
 #### SECÇÃO III — Nulidades
 
-###### Art. 65.º - 1. Quando, nos termos deste código, se verifique nulidade de contrato, independentemente de requerimento, é lícito aos contraentes suspender o seu cumprimento em qualquer altura.
+Art. 65.º - 1. Quando, nos termos deste código, se verifique nulidade de contrato, independentemente de requerimento, é lícito aos contraentes suspender o seu cumprimento em qualquer altura.
 
 2. Tratando-se de simples anulabilidade, a falta que a determine considera-se sanada, se não for arguida no prazo de um mês, não sendo outro estabelecido.
 
-###### Art. 66.º - 1. A empresa que aproveite o trabalho prestado com base em contrato nulo, enquanto não cessar a prestação do trabalho, deve cumprir todas as obrigações como se de contrato válido se tratasse.
+Art. 66.º - 1. A empresa que aproveite o trabalho prestado com base em contrato nulo, enquanto não cessar a prestação do trabalho, deve cumprir todas as obrigações como se de contrato válido se tratasse.
 
 2. As nulidades consideram-se sanadas, se o requisito viciado ou omisso for substituído ou observado antes de deixar de ser prestado o trabalho.
 
-###### Art. 67.º - 1. São nulas todas as cláusulas dos contratos individuais de trabalho que estabeleçam regime menos favorável para os trabalhadores do que o que esteja determinado na lei ou em convenções colectivas.
+Art. 67.º - 1. São nulas todas as cláusulas dos contratos individuais de trabalho que estabeleçam regime menos favorável para os trabalhadores do que o que esteja determinado na lei ou em convenções colectivas.
 
 2. As cláusulas nulas, nos termos do parágrafo anterior, serão substituídas pelas disposições legais ou das convenções colectivas que sejam mais favoráveis aos trabalhadores.
 
-###### Art. 68.º São nulas e de nenhum efeito as cláusulas das convenções colectivas ou dos contratos individuais de trabalho que se encontrem nalgum dos seguintes casos:
+Art. 68.º São nulas e de nenhum efeito as cláusulas das convenções colectivas ou dos contratos individuais de trabalho que se encontrem nalgum dos seguintes casos:
 
 a) Quando dispensem condições exigidas por lei para a válida celebração dos contratos;
 
@@ -767,35 +783,35 @@ d) Quando condicionem ou restrinjam direitos conferidos aos trabalhadores em con
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 69.º - 1. A um trabalho igual deverá sempre ser atribuído salário igual, no mesmo serviço e na mesma empresa, não sendo permitido estabelecer-se diferenças das taxas de salários em atenção ao sexo e à crença do trabalhador, ao grupo tradicional em que esteja enquadrado, à sua filiação profissional ou a factores de natureza étnica.
+Art. 69.º - 1. A um trabalho igual deverá sempre ser atribuído salário igual, no mesmo serviço e na mesma empresa, não sendo permitido estabelecer-se diferenças das taxas de salários em atenção ao sexo e à crença do trabalhador, ao grupo tradicional em que esteja enquadrado, à sua filiação profissional ou a factores de natureza étnica.
 
 2. A fixação dos salários deve atender às necessidades individuais dos trabalhadores, às suas necessidades familiares essenciais e à elevação do seu nível de vida.
 
-###### Art. 70.º - 1. Só por convenção colectiva podem ser fixados limites mínimos ao rendimento do trabalho.
+Art. 70.º - 1. Só por convenção colectiva podem ser fixados limites mínimos ao rendimento do trabalho.
 
 2. Quando na mesma profissão haja trabalhadores remunerados à peça ou por tarefa e outros remunerados a jornal não podem ser fixados limites diversos para uns e outros.
 
-###### Art. 71.º A remuneração do trabalho compreende, além das quantias em dinheiro, a alimentação, o vestuário e todas as mais coisas e direitos com valor pecuniário cuja prestação seja emergente do contrato de trabalho.
+Art. 71.º A remuneração do trabalho compreende, além das quantias em dinheiro, a alimentação, o vestuário e todas as mais coisas e direitos com valor pecuniário cuja prestação seja emergente do contrato de trabalho.
 
-###### Art. 72.º - 1. A parte do salário que o trabalhador receber em dinheiro será aumentada de 50 por cento quando corresponda a trabalho suplementar ou nocturno e de 100 por cento quando o trabalho seja prestado em dia destinado ao descanso semanal.
+Art. 72.º - 1. A parte do salário que o trabalhador receber em dinheiro será aumentada de 50 por cento quando corresponda a trabalho suplementar ou nocturno e de 100 por cento quando o trabalho seja prestado em dia destinado ao descanso semanal.
 
 2. O trabalho nocturno prestado por turnos regulares e periódicos, devidamente autorizados, não é compreendido no parágrafo anterior.
 
-###### Art. 73.º - 1. O trabalhador remunerado à peça ou por tarefa tem direito à remuneração normal sempre que o resultado do trabalho seja diminuído por circunstâncias imputáveis à entidade patronal.
+Art. 73.º - 1. O trabalhador remunerado à peça ou por tarefa tem direito à remuneração normal sempre que o resultado do trabalho seja diminuído por circunstâncias imputáveis à entidade patronal.
 
 2. Para o efeito do parágrafo anterior, entende-se como remuneração normal a média das remunerações percebidas nos três meses ou nas três semanas anteriores, conforme se trate de trabalhadores efectivos ou eventuais.
 
-###### Art. 74.º - 1. Na falta de determinação contratual e legal da remuneração, o trabalhador terá direito à que for percebida pelos trabalhadores igualmente qualificados da mesma empresa ou de empresas similares ou à que for usual na profissão e na região.
+Art. 74.º - 1. Na falta de determinação contratual e legal da remuneração, o trabalhador terá direito à que for percebida pelos trabalhadores igualmente qualificados da mesma empresa ou de empresas similares ou à que for usual na profissão e na região.
 
 2. São nulas as cláusulas pelas quais o trabalhador renuncie ao direito à remuneração ou se estipule a prestação gratuita do trabalho ou que tornem o pagamento da remuneração dependente de qualquer facto incerto.
 
-###### Art. 75.º O direito a receber remunerações ou indemnizações com fundamento em contrato de trabalho prescreve no prazo de um ano, a contar da dissolução do contrato, salvo quanto às remunerações por trabalho extraordinário ou nocturno, a que se refere o parágrafo 1 do artigo 72.º, em relação às quais o prazo de um ano principiará no dia seguinte àquele em que o trabalhador tenha recebido o salário correspondente ao período de tempo em que esse trabalho foi prestado.
+Art. 75.º O direito a receber remunerações ou indemnizações com fundamento em contrato de trabalho prescreve no prazo de um ano, a contar da dissolução do contrato, salvo quanto às remunerações por trabalho extraordinário ou nocturno, a que se refere o parágrafo 1 do artigo 72.º, em relação às quais o prazo de um ano principiará no dia seguinte àquele em que o trabalhador tenha recebido o salário correspondente ao período de tempo em que esse trabalho foi prestado.
 
 #### SECÇÃO II — Salários
 
-###### Art. 76.º Diz-se salário a remuneração do trabalho dos trabalhadores rurais.
+Art. 76.º Diz-se salário a remuneração do trabalho dos trabalhadores rurais.
 
-###### Art. 77.º - 1. A cláusula do contrato pela qual seja estipulado o salário atribuído ao trabalhador deve sempre mencionar especificadamente:
+Art. 77.º - 1. A cláusula do contrato pela qual seja estipulado o salário atribuído ao trabalhador deve sempre mencionar especificadamente:
 
 a) A quantia certa em dinheiro que o trabalhador receberá por cada fracção do tempo da duração do contrato (por mês, por semana ou por dia);
 
@@ -809,11 +825,11 @@ d) A quantia correspondente às restantes coisas ou direitos avaliáveis em dinh
 
 3. O abono de família, nos casos em que a ele haja lugar, considera-se parte integrante da remuneração. Todavia, o seu quantitativo não será tomado em consideração para os efeitos do disposto nos parágrafos 1 e 2 deste artigo.
 
-###### Art. 78.º Na falta de convenções colectivas que fixem os salários mínimos dos trabalhadores e para os casos que por elas não sejam abrangidos, deverão os governos das províncias ultramarinas, sob proposta do Instituto do Trabalho e ouvidas as associações patronais e dos trabalhadores, em diploma legislativo, publicar as tabelas dos salários mínimos dos trabalhadores rurais, segundo a sua qualificação.
+Art. 78.º Na falta de convenções colectivas que fixem os salários mínimos dos trabalhadores e para os casos que por elas não sejam abrangidos, deverão os governos das províncias ultramarinas, sob proposta do Instituto do Trabalho e ouvidas as associações patronais e dos trabalhadores, em diploma legislativo, publicar as tabelas dos salários mínimos dos trabalhadores rurais, segundo a sua qualificação.
 
 #### SECÇÃO III — Pagamento dos salários. Abonos e adiantamentos por conta dos salários
 
-###### Art. 749.º - 1. A obrigação de pagar a remuneração considera-se vencida no fim do mês ou da semana, conforme se trate de trabalhadores efectivos ou eventuais, salvo se coisa diversa tiver sido estipulada ou resultar dos usos e costumes da região.
+Art. 749.º - 1. A obrigação de pagar a remuneração considera-se vencida no fim do mês ou da semana, conforme se trate de trabalhadores efectivos ou eventuais, salvo se coisa diversa tiver sido estipulada ou resultar dos usos e costumes da região.
 
 2. Tratando-se, porém, de trabalho remunerado por peça ou por tarefa, o pagamento efectuar-se-á depois de ultimada cada peça ou tarefa, excepto se estiver prevista para esse efeito duração superior a quatro semanas, hipótese em que o pagamento será feito em prestações semanais.
 
@@ -825,7 +841,7 @@ Ressalvam-se também as estipulações e os usos em contrário.
 
 5. A remuneração deve ser paga durante as horas e no local do trabalho.
 
-###### Art. 80.º - 1. Salvo convenção expressa em contrário, os trabalhadores efectivos, a que se referem a primeira e a última partes do parágrafo 2 do artigo 4.º, têm direito a que o pagamento dos salários seja efectuado pela forma seguinte:
+Art. 80.º - 1. Salvo convenção expressa em contrário, os trabalhadores efectivos, a que se referem a primeira e a última partes do parágrafo 2 do artigo 4.º, têm direito a que o pagamento dos salários seja efectuado pela forma seguinte:
 
 a) 50 por cento da parte do salário que o trabalhador deve receber em dinheiro ser-lhe-á pago de harmonia com as disposições dos parágrafos 1, 3 e 4 do artigo 79.º;
 
@@ -861,9 +877,9 @@ A empresa elaborará, em separado, tantos mapas quantos os grupos de trabalhador
 
 7. A Inspecção do Trabalho poderá autorizar que o salário relativo ao último mês da duração do contrato, se assim convier ao trabalhador, lhe seja pago integralmente no local do trabalho.
 
-###### Art. 81.º As quantias abonadas ou adiantadas pelas empresas aos trabalhadores, salvo os casos expressamente previstos na lei ou nas convenções colectivas, não poderão ser descontadas nos salários.
+Art. 81.º As quantias abonadas ou adiantadas pelas empresas aos trabalhadores, salvo os casos expressamente previstos na lei ou nas convenções colectivas, não poderão ser descontadas nos salários.
 
-###### Art. 82.º - 1. As empresas que empreguem trabalhadores efectivos ao seu serviço em caso algum poderão explorar nos locais do trabalho quaisquer estabelecimentos comerciais de venda a retalho, onde os seus trabalhadores possam adquirir géneros, bebidas ou outros artigos.
+Art. 82.º - 1. As empresas que empreguem trabalhadores efectivos ao seu serviço em caso algum poderão explorar nos locais do trabalho quaisquer estabelecimentos comerciais de venda a retalho, onde os seus trabalhadores possam adquirir géneros, bebidas ou outros artigos.
 
 2. Nos estabelecimentos comerciais a que se refere o parágrafo anterior não se compreendem cantinas, economatos ou outras organizações de igual natureza, criadas ou matidas pelas empresas em benefício dos seus trabalhadores, sem intuito lucrativo.
 
@@ -881,7 +897,7 @@ A empresa elaborará, em separado, tantos mapas quantos os grupos de trabalhador
 
 #### SECÇÃO IV — Alimentação e vestuário
 
-###### Art. 83.º - 1. A alimentação dos trabalhadores deve ser saudável, constituída por géneros de boa qualidade e, sempre que possível, daqueles a que os trabalhadores estejam habituados, cozinhados sob o cuidado e indicação das empresas ou distribuídos para eles cozinharem, segundo os seus costumes e de harmonia com os seus interesses.
+Art. 83.º - 1. A alimentação dos trabalhadores deve ser saudável, constituída por géneros de boa qualidade e, sempre que possível, daqueles a que os trabalhadores estejam habituados, cozinhados sob o cuidado e indicação das empresas ou distribuídos para eles cozinharem, segundo os seus costumes e de harmonia com os seus interesses.
 
 2. Quando os trabalhadores tenham as respectivas famílias em sua companhia, poderão receber a alimentação em géneros e semanalmente. Em qualquer caso, as quantidades de géneros a fornecer serão proporcionais ao número das pessoas da família.
 
@@ -897,7 +913,7 @@ A empresa elaborará, em separado, tantos mapas quantos os grupos de trabalhador
 
 8. Também as empresas terão sempre à disposição dos trabalhadores água potável em quantidade suficiente para as suas necessidades.
 
-###### Art. 84.º - 1. As empresas são obrigadas a observar rigorosamente não só o que se achar prescrito nos regulamentos de saúde e higiene, quanto à alimentação dos trabalhadores, como ainda as instruções que, por escrito, lhes sejam dadas pela Inspecção do Trabalho e pelas autoridades sanitárias.
+Art. 84.º - 1. As empresas são obrigadas a observar rigorosamente não só o que se achar prescrito nos regulamentos de saúde e higiene, quanto à alimentação dos trabalhadores, como ainda as instruções que, por escrito, lhes sejam dadas pela Inspecção do Trabalho e pelas autoridades sanitárias.
 
 2. A Inspecção do Trabalho e as autoridades sanitárias porão o maior zelo e diligência na fiscalização do cumprimento, por parte das empresas, das disposições legais e regulamentares e das instruções emanadas das entidades competentes em matéria de alimentação dos trabalhadores.
 
@@ -905,31 +921,31 @@ A empresa elaborará, em separado, tantos mapas quantos os grupos de trabalhador
 
 4. Os géneros destinados à alimentação dos trabalhadores deverão ser arrecadados em armazém adequado, que sirva apenas para esse efeito.
 
-###### Art. 85.º - 1. O vestuário constará de fatos de trabalho e de agasalhos.
+Art. 85.º - 1. O vestuário constará de fatos de trabalho e de agasalhos.
 
 2. Os fatos de trabalho serão de bom tecido de lã ou algodão.
 
 3. O vestuário fornecido a cada trabalhador ficará pertencendo a este.
 
-###### Art. 86.º As empresas tomarão as providências necessárias para que os trabalhadores se apresentem bem vestidos e limpos.
+Art. 86.º As empresas tomarão as providências necessárias para que os trabalhadores se apresentem bem vestidos e limpos.
 
-###### Art. 87.º Aos trabalhadores ocupados em serviços em regiões frias, serão distribuídos vestuário e agasalhos de lã.
+Art. 87.º Aos trabalhadores ocupados em serviços em regiões frias, serão distribuídos vestuário e agasalhos de lã.
 
-###### Art. 88.º Os governos das províncias, ouvidos os serviços de saúde e higiene e a Inspecção do Trabalho, regulamentarão a matéria da presente secção, tendo em consideração as necessidades dos trabalhadores e as condições de vida em cada província e em cada região.
+Art. 88.º Os governos das províncias, ouvidos os serviços de saúde e higiene e a Inspecção do Trabalho, regulamentarão a matéria da presente secção, tendo em consideração as necessidades dos trabalhadores e as condições de vida em cada província e em cada região.
 
 ### CAPÍTULO II — Duração do trabalho
 
 #### SECÇÃO I — Princípios gerais
 
-###### Art. 89.º Aos trabalhadores é garantido a limitação do tempo de serviço que deles pode exigir-se em cada dia e em cada semana, o direito a, pelo menos, um dia completo de repouso em cada semana e, eventualmente, o direito a férias anuais.
+Art. 89.º Aos trabalhadores é garantido a limitação do tempo de serviço que deles pode exigir-se em cada dia e em cada semana, o direito a, pelo menos, um dia completo de repouso em cada semana e, eventualmente, o direito a férias anuais.
 
-###### Art. 90.º - 1. Em princípio, a semana de trabalho não deverá exceder o total de 48 horas.
+Art. 90.º - 1. Em princípio, a semana de trabalho não deverá exceder o total de 48 horas.
 
 2. Quando seja possível, deverão deixar-se livres aos trabalhadores o domingo e a tarde de sábado.
 
-###### Art. 91.º O disposto no presente capítulo não prejudica os horários de trabalho de menor duração, em harmonia com os usos e costumes para certas actividades económicas.
+Art. 91.º O disposto no presente capítulo não prejudica os horários de trabalho de menor duração, em harmonia com os usos e costumes para certas actividades económicas.
 
-###### Art. 92.º O período de trabalho pode ser excepcionalmente ampliado:
+Art. 92.º O período de trabalho pode ser excepcionalmente ampliado:
 
 a) A fim de ocorrer a necessidades extraordinárias de serviço, mediante autorização da Inspecção do Trabalho;
 
@@ -943,9 +959,9 @@ e) Em relação aos serviços que, por natureza, não possam estar sujeitos a ho
 
 #### SECÇÃO II — Horário de trabalho
 
-###### Art. 93.º Salvo nos casos legalmente autorizados, o período do trabalho diário não pode ser superior a 8 horas e o total de horas de trabalho por semana não pode ser superior a 48 horas.
+Art. 93.º Salvo nos casos legalmente autorizados, o período do trabalho diário não pode ser superior a 8 horas e o total de horas de trabalho por semana não pode ser superior a 48 horas.
 
-###### Art. 94.º O horário de trabalho pode resultar:
+Art. 94.º O horário de trabalho pode resultar:
 
 a) De convenções colectivas;
 
@@ -955,71 +971,71 @@ c) De acordos individuais;
 
 d) De determinação das entidades patronais.
 
-###### Art. 95.º - 1. Pelo menos a seguir à prestação de cinco horas de trabalho, deve ser concedido ao trabalhador um período de descanso não inferior a duas horas.
+Art. 95.º - 1. Pelo menos a seguir à prestação de cinco horas de trabalho, deve ser concedido ao trabalhador um período de descanso não inferior a duas horas.
 
 2. Para os trabalhos especialmente violentos e perigosos poderão estabelecer-se períodos de interrupção e descanso mais adequados.
 
 #### SECÇÃO III — Descanso semanal
 
-###### Art. 96.º - 1. Os trabalhadores têm direito, em cada semana, ao período de descanso mínimo de 24 horas consecutivas.
+Art. 96.º - 1. Os trabalhadores têm direito, em cada semana, ao período de descanso mínimo de 24 horas consecutivas.
 
 2. Em regra, o dia de descanso semanal será o domingo.
 
-###### Art. 97.º Os dias feriados legais são equiparados aos dias destinados a descanso semanal.
+Art. 97.º Os dias feriados legais são equiparados aos dias destinados a descanso semanal.
 
 #### SECÇÃO IV — Férias anuais
 
-###### Art. 98.º - 1. Os trabalhadores efectivos, quando a duração dos respectivos contratos de trabalho seja superior a doze meses, têm direito a gozar duas semanas de férias, relativamente a cada período de doze meses de trabalho, decorrido o primeiro ano.
+Art. 98.º - 1. Os trabalhadores efectivos, quando a duração dos respectivos contratos de trabalho seja superior a doze meses, têm direito a gozar duas semanas de férias, relativamente a cada período de doze meses de trabalho, decorrido o primeiro ano.
 
 2. Esse direito é irrenunciável e não pode, nomeadamente, ser substituído por uma retribuição suplementar ou por qualquer outra vantagem.
 
-###### Art. 99.º - 1. As férias deverão ser gozadas durante o ano civil a que respeitarem, mas as primeiras férias, se o ano de trabalho terminar no último trimestre do ano civil, poderão ser gozadas até ao fim do mês de Março do ano seguinte.
+Art. 99.º - 1. As férias deverão ser gozadas durante o ano civil a que respeitarem, mas as primeiras férias, se o ano de trabalho terminar no último trimestre do ano civil, poderão ser gozadas até ao fim do mês de Março do ano seguinte.
 
 2. Se da concessão de férias dentro do ano civil resultar prejuízo grave para a empresa, poderão as férias ser transferidas para o 1.º trimestre do ano seguinte, mediante autorização da Inspecção do Trabalho.
 
-###### Art. 100.º - 1. Compete à entidade patronal fixar a ocasião em que as férias devem ser gozadas, tomando em consideração, tanto quanto possível, os interesses dos trabalhadores.
+Art. 100.º - 1. Compete à entidade patronal fixar a ocasião em que as férias devem ser gozadas, tomando em consideração, tanto quanto possível, os interesses dos trabalhadores.
 
 2. Aos trabalhadores do mesmo agregado familiar que estejam ao serviço da mesma empresa deverá normalmente ser concedida a faculdade de gozarem as férias simultâneamente.
 
 3. As prescrições do presente artigo devem entender-se sem prejuízo do declarado no artigo anterior.
 
-###### Art. 101.º - 1. Os períodos de férias serão gozados em dias seguidos.
+Art. 101.º - 1. Os períodos de férias serão gozados em dias seguidos.
 
 2. Em casos excepcionais, a Inspecção do Trabalho poderá autorizar que as férias sejam gozadas interpoladamente na parte em que excederem o período mínimo de oito dias.
 
-###### Art. 102.º Os trabalhadores têm direito, durante as férias, ao salário, como se estivessem efectivamente ao serviço.
+Art. 102.º Os trabalhadores têm direito, durante as férias, ao salário, como se estivessem efectivamente ao serviço.
 
-###### Art. 103.º Os trabalhadores perderão direito às férias ainda não gozadas, relativas ao ano do despedimento, quando forem despedidos com justa causa ou se despedirem sem ela.
+Art. 103.º Os trabalhadores perderão direito às férias ainda não gozadas, relativas ao ano do despedimento, quando forem despedidos com justa causa ou se despedirem sem ela.
 
-###### Art. 104.º - 1. A empresa poderá descontar o tempo das faltas não justificadas no período de férias imediato, desde que essas faltas não hajam determinado a aplicação de sanções disciplinares.
+Art. 104.º - 1. A empresa poderá descontar o tempo das faltas não justificadas no período de férias imediato, desde que essas faltas não hajam determinado a aplicação de sanções disciplinares.
 
 2. Esta faculdade só poderá ser usada até ao limite de oito dias em cada ano.
 
 3. Não se conformando com a decisão da empresa, o trabalhador poderá reclamar dela para a respectiva delegação da Inspecção do Trabalho, no prazo de três meses, a contar da data em que lhe seja comunicada. Sendo atendida a reclamação, o trabalhador poderá gozar a parte das férias a que ainda tiver direito nos três meses seguintes à notificação da decisão da sua reclamação.
 
-###### Art. 105.º A empresa que faltar, no todo ou em parte, à obrigação de conceder férias, além de se sujeitar à multa cominada no artigo 313.º, pagará ao trabalhador, em triplo, a retribuição correspondente ao período de férias não gozado.
+Art. 105.º A empresa que faltar, no todo ou em parte, à obrigação de conceder férias, além de se sujeitar à multa cominada no artigo 313.º, pagará ao trabalhador, em triplo, a retribuição correspondente ao período de férias não gozado.
 
 ### CAPÍTULO III — Transporte e repatriamento dos trabalhadores
 
 #### SECÇÃO I — Transporte dos trabalhadores
 
-###### Art. 106.º Os trabalhadores efectivos que, nos termos do contrato de trabalho, tenham de prestar os serviços ajustados em local diverso do seu domicílio e para o mesmo fim hajam de mudar, embora temporàriamente, a sua residência, têm direito a transporte, fornecido gratuitamente pelo empregador, desde o local da sua residência habitual ou do recrutamento até ao do trabalho.
+Art. 106.º Os trabalhadores efectivos que, nos termos do contrato de trabalho, tenham de prestar os serviços ajustados em local diverso do seu domicílio e para o mesmo fim hajam de mudar, embora temporàriamente, a sua residência, têm direito a transporte, fornecido gratuitamente pelo empregador, desde o local da sua residência habitual ou do recrutamento até ao do trabalho.
 
-###### Art. 107.º Os trabalhadores que, nos termos deste código, sejam acompanhados da família têm direito ao transporte dos seus familiares, na forma em que o empregador deve fornecê-lo ao trabalhador.
+Art. 107.º Os trabalhadores que, nos termos deste código, sejam acompanhados da família têm direito ao transporte dos seus familiares, na forma em que o empregador deve fornecê-lo ao trabalhador.
 
-###### Art. 108.º - 1. As empresas devem tomar as medidas e providências necessárias para que aos trabalhadores, durante a viagem, sejam proporcionados bem-estar e comodidade, fornecendo-lhes a alimentação necessária.
+Art. 108.º - 1. As empresas devem tomar as medidas e providências necessárias para que aos trabalhadores, durante a viagem, sejam proporcionados bem-estar e comodidade, fornecendo-lhes a alimentação necessária.
 
 2. O transporte dos trabalhadores deve ser feito com as maiores garantias de segurança da sua vida e da sua saúde.
 
 3. Sendo a viagem longa e demorada, devem as empresas providenciar para que aos trabalhadores seja dado alojamento onde possam pernoitar.
 
-###### Art. 109.º No transporte dos trabalhadores observar-se-á o que se acha disposto nos regulamentos gerais de transportes e de trânsito para os transportes colectivos.
+Art. 109.º No transporte dos trabalhadores observar-se-á o que se acha disposto nos regulamentos gerais de transportes e de trânsito para os transportes colectivos.
 
-###### Art. 110.º Os veículos ou barcos utilizados para o transporte de trabalhadores devem ser convenientemente adaptados a esse fim e oferecer boas condições de higiene e capacidade de transporte suficiente.
+Art. 110.º Os veículos ou barcos utilizados para o transporte de trabalhadores devem ser convenientemente adaptados a esse fim e oferecer boas condições de higiene e capacidade de transporte suficiente.
 
-###### Art. 111.º A Inspecção do Trabalho deverá elaborar tabelas de itinerários de viagem entre as diferentes regiões de recrutamento e os locais de trabalho e fixar as condições de transporte dos trabalhadores e nomeadamente os percursos ou períodos de tempo máximos de viagem em cada dia.
+Art. 111.º A Inspecção do Trabalho deverá elaborar tabelas de itinerários de viagem entre as diferentes regiões de recrutamento e os locais de trabalho e fixar as condições de transporte dos trabalhadores e nomeadamente os percursos ou períodos de tempo máximos de viagem em cada dia.
 
-###### Art. 112.º - 1. Nos portos marítimos ou fluviais e nos locais de descanso ou espera de transporte e nos de maior concentração de trabalhadores devem ser construídos acampamentos, nos prazos que forem fixados pelos governos das províncias, para abrigo e alojamento dos trabalhadores em trânsito, os quais serão sempre mantidos limpos e em condições higiénicas.
+Art. 112.º - 1. Nos portos marítimos ou fluviais e nos locais de descanso ou espera de transporte e nos de maior concentração de trabalhadores devem ser construídos acampamentos, nos prazos que forem fixados pelos governos das províncias, para abrigo e alojamento dos trabalhadores em trânsito, os quais serão sempre mantidos limpos e em condições higiénicas.
 
 2. A construção dos acampamentos referidos no parágrafo anterior e a sua conservação constituem encargo das empresas, as quais podem associar-se para esse fim.
 
@@ -1027,13 +1043,13 @@ d) De determinação das entidades patronais.
 
 4. Quando a empresa que tiver aquela obrigação a não cumprir espontâneamente o governo poderá mandar notificá-la para a efectivar em prazo que se repute razoável e que lhe será logo fixado. Não cumprindo a empresa a obrigação imposta, dentro do prazo assinado, o governo da província poderá ou cancelar imediatamente as licenças de recrutamento que lhe tenham sido concedidas, ou realizar as obras de conta da empresa interessada. Neste último caso, a empresa deverá efectuar, à ordem do governador da respectiva província e no prazo que lhe for marcado, sob pena de execução imediata, o depósito da importância em que pelos serviços competentes for calculado o custo das obras a realizar. A execução, quando a ela houver lugar, correrá pelo juízo das execuções fiscais da sede da província.
 
-###### Art. 113.º - 1. Os grupos de 30 ou mais trabalhadores contratados ou repatriados pela mesma empresa serão sempre acompanhados por um agente especial da empresa, o qual será responsável pelas condições do transporte, incumbindo-lhe principalmente cuidar da alimentação e alojamento dos trabalhadores, fazer as diligências necessárias para embarque e desembarque e prover a todas as despesas de viagem, devendo procurar os cuidados médicos para os trabalhadores que deles necessitem, em casos de acidente, indisposição ou doença súbita.
+Art. 113.º - 1. Os grupos de 30 ou mais trabalhadores contratados ou repatriados pela mesma empresa serão sempre acompanhados por um agente especial da empresa, o qual será responsável pelas condições do transporte, incumbindo-lhe principalmente cuidar da alimentação e alojamento dos trabalhadores, fazer as diligências necessárias para embarque e desembarque e prover a todas as despesas de viagem, devendo procurar os cuidados médicos para os trabalhadores que deles necessitem, em casos de acidente, indisposição ou doença súbita.
 
 2. Viajando em conjunto diversos grupos de trabalhadores, cujo transporte corra por conta de diversas empresas, poderão estas incumbir um único agente dos serviços referidos no parágrafo anterior, em relação a um número de trabalhadores que não exceda a 300.
 
 3. Os veículos utilizados no transporte de trabalhadores devem em todo o tempo que durar o transporte estar apetrechados com aparelhos destinados à extinção de incêndios e com os produtos farmacêuticos e material cirúrgico essenciais para a prestação dos primeiros socorros em casos de acidente ou doença súbita, de harmonia com as leis e regulamentos em vigor.
 
-###### Art. 114.º - 1. Se a viagem durar mais de 48 horas e sendo o número de trabalhadores a transportar por via marítima igual ou superior a 50, o navio só poderá efectuar o transporte se estiver munido da competente licença, passada pelo governador da província ou pelo Ministro do Ultramar, conforme se trate de navios de pequeno curso ou de navios que efectuem carreiras regulares de transporte de passageiros entre a metrópole e as províncias ultramarinas.
+Art. 114.º - 1. Se a viagem durar mais de 48 horas e sendo o número de trabalhadores a transportar por via marítima igual ou superior a 50, o navio só poderá efectuar o transporte se estiver munido da competente licença, passada pelo governador da província ou pelo Ministro do Ultramar, conforme se trate de navios de pequeno curso ou de navios que efectuem carreiras regulares de transporte de passageiros entre a metrópole e as províncias ultramarinas.
 
 2. As licenças podem ser passadas para uma só viagem ou por um período de tempo máximo de três anos.
 
@@ -1061,19 +1077,19 @@ f) Quaisquer prescrições especiais, em relação às condições de comodidade
 
 5. Um exemplar do relatório referido no parágrafo anterior será junto à respectiva licença, ficando o outro arquivado com o demais expediente relativo à concessão da licença, o qual correrá pelas repartições competentes dos serviços marítimos.
 
-###### Art. 115.º A licença, com o relatório da vistoria, conservar-se-á em poder do comandante do navio, que deverá exibi-la sempre que isso lhe seja exigido por quaisquer autoridades marítimas ou sanitárias dos portos que o navio escalar ou por algum representante da Inspecção do Trabalho.
+Art. 115.º A licença, com o relatório da vistoria, conservar-se-á em poder do comandante do navio, que deverá exibi-la sempre que isso lhe seja exigido por quaisquer autoridades marítimas ou sanitárias dos portos que o navio escalar ou por algum representante da Inspecção do Trabalho.
 
-###### Art. 116.º Ao comandante, ao comissário e a todo o pessoal de bordo é proibido, sob que pretexto for, receber gratificações pelo transporte de trabalhadores ou por serviços a estes prestados, e bem assim fazer qualquer transacção com os trabalhadores.
+Art. 116.º Ao comandante, ao comissário e a todo o pessoal de bordo é proibido, sob que pretexto for, receber gratificações pelo transporte de trabalhadores ou por serviços a estes prestados, e bem assim fazer qualquer transacção com os trabalhadores.
 
-###### Art. 117.º O comandante do navio é responsável pelo bom tratamento dos trabalhadores a bordo.
+Art. 117.º O comandante do navio é responsável pelo bom tratamento dos trabalhadores a bordo.
 
-###### Art. 118.º Morrendo algum trabalhador a bordo, o médico deverá certificar, sob declaração de honra, se para a morte desse trabalhador concorreu ou não o tratamento de bordo ou a falta de observância de algum dos deveres impostos ao transportador.
+Art. 118.º Morrendo algum trabalhador a bordo, o médico deverá certificar, sob declaração de honra, se para a morte desse trabalhador concorreu ou não o tratamento de bordo ou a falta de observância de algum dos deveres impostos ao transportador.
 
-###### Art. 119.º Será recusado o embarque dos trabalhadores que sejam portadores de doenças infecto-contagiosas que ofereçam perigo para a saúde dos passageiros ou da tripulação, ou de qualquer doença que possa agravar-se com a viagem, bem como dos que não provem terem sido vacinados conforme o que estiver prescrito nas leis e nos regulamentos de saúde, o que tudo será examinado pelo médico de bordo.
+Art. 119.º Será recusado o embarque dos trabalhadores que sejam portadores de doenças infecto-contagiosas que ofereçam perigo para a saúde dos passageiros ou da tripulação, ou de qualquer doença que possa agravar-se com a viagem, bem como dos que não provem terem sido vacinados conforme o que estiver prescrito nas leis e nos regulamentos de saúde, o que tudo será examinado pelo médico de bordo.
 
-###### Art. 120.º O agente a que se refere o artigo 113.º poderá ser dispensado, no transporte de trabalhadores entre portos da mesma província, provando a empresa que estão asseguradas as medidas necessárias para o recebimento dos trabalhadores no porto do destino. Compete ao delegado da Inspecção do Trabalho conceder a dispensa, nos termos deste artigo.
+Art. 120.º O agente a que se refere o artigo 113.º poderá ser dispensado, no transporte de trabalhadores entre portos da mesma província, provando a empresa que estão asseguradas as medidas necessárias para o recebimento dos trabalhadores no porto do destino. Compete ao delegado da Inspecção do Trabalho conceder a dispensa, nos termos deste artigo.
 
-###### Art. 121.º - 1. Os trabalhadores que, por virtude de contratos de trabalho, hajam de viajar por via marítima entre portos de duas províncias diversas serão acompanhados, quando o seu número for superior a trinta, por um comissário do governo, nomeado ad hoc pelo governador da província do porto de embarque, sob proposta da Inspecção do Trabalho.
+Art. 121.º - 1. Os trabalhadores que, por virtude de contratos de trabalho, hajam de viajar por via marítima entre portos de duas províncias diversas serão acompanhados, quando o seu número for superior a trinta, por um comissário do governo, nomeado ad hoc pelo governador da província do porto de embarque, sob proposta da Inspecção do Trabalho.
 
 2. Aos comissários a que se refere o parágrafo anterior compete especialmente:
 
@@ -1097,19 +1113,19 @@ h) Assistir aos trabalhadores durante a viagem, prestando-lhes os conselhos de q
 
 4. As companhias de navegação ou outros proprietários de navios com licença para transporte de trabalhadores fornecerão passagens gratuitas em 1.ª classe aos comissários que acompanhem trabalhadores ou regressem de os acompanhar.
 
-###### Art. 122.º - 1. Os trabalhadores que, por virtude de contratos de trabalho, hajam de prestar os serviços ajustados em província diversa da da sua origem têm direito a um subsídio de embarque igual a meio mês ou a um mês de salário, conforme a viagem durar menos ou mais de uma semana, e a receber metade do salário ajustado, desde a data do contrato até à do início da prestação do trabalho, bem como desde o termo da prestação dos serviços até ao seu repatriamento.
+Art. 122.º - 1. Os trabalhadores que, por virtude de contratos de trabalho, hajam de prestar os serviços ajustados em província diversa da da sua origem têm direito a um subsídio de embarque igual a meio mês ou a um mês de salário, conforme a viagem durar menos ou mais de uma semana, e a receber metade do salário ajustado, desde a data do contrato até à do início da prestação do trabalho, bem como desde o termo da prestação dos serviços até ao seu repatriamento.
 
 2. Para os efeitos do parágrafo anterior, entende-se como salário a parte que, nos termos do contrato, deve ser paga em dinheiro ao trabalhador.
 
 #### SECÇÃO II — Repatriamento dos trabalhadores
 
-###### Art. 123.º - 1. Todo o trabalhador que, por força de um contrato de trabalho, teve necessidade de se deslocar do seu domicílio e de mudar temporàriamente de residência tem direito, findo o cumprimento do contrato, a ser repatriado por conta do empregador.
+Art. 123.º - 1. Todo o trabalhador que, por força de um contrato de trabalho, teve necessidade de se deslocar do seu domicílio e de mudar temporàriamente de residência tem direito, findo o cumprimento do contrato, a ser repatriado por conta do empregador.
 
 2. O disposto no parágrafo anterior abrange o repatriamento dos familiares do trabalhador, sempre que este, nos termos deste código, pode fazer-se acompanhar da sua família.
 
-###### Art. 124.º O repatriamento compreende o transporte das pessoas do trabalhador e dos seus familiares, bem como dos respectivos objectos de uso pessoal normal, desde o local do trabalho até ao do domicílio do trabalhador ou do recrutamento, nos termos das disposições da secção I do presente capítulo.
+Art. 124.º O repatriamento compreende o transporte das pessoas do trabalhador e dos seus familiares, bem como dos respectivos objectos de uso pessoal normal, desde o local do trabalho até ao do domicílio do trabalhador ou do recrutamento, nos termos das disposições da secção I do presente capítulo.
 
-###### Art. 125.º - 1. Todo o trabalhador recrutado:
+Art. 125.º - 1. Todo o trabalhador recrutado:
 
 a) Que, por acidente ou por doença, for atingido de incapacidade, no decurso da viagem até ao local do trabalho;
 
@@ -1129,7 +1145,7 @@ deve ser repatriado por conta do empregador, sem prejuízo do direito de regress
 
 #### SECÇÃO I — Idade de admissão dos menores
 
-###### Art. 126.º - 1. Os menores de 14 anos em caso algum poderão ser contratados como trabalhadores efectivos.
+Art. 126.º - 1. Os menores de 14 anos em caso algum poderão ser contratados como trabalhadores efectivos.
 
 2. Os menores de 15 anos não podem ser empregados ou trabalhar em estabelecimentos industriais, públicos ou privados, ou nas suas dependências.
 
@@ -1137,13 +1153,13 @@ deve ser repatriado por conta do empregador, sem prejuízo do direito de regress
 
 4. Os menores de 14 anos, mas maiores de 12, poderão ser empregados em trabalhos leves, na agricultura.
 
-###### Art. 127.º As disposições do artigo anterior não são aplicáveis ao trabalho executado por menores nas escolas técnicas, públicas ou privadas, oficialmente reconhecidas, que tenham um programa de estudos aprovado pela entidade competente e que limitem a uma duração razoável o tempo de formação ou de aprendizagem dos seus alunos, na condição de o trabalho ser prèviamente autorizado pela autoridade competente.
+Art. 127.º As disposições do artigo anterior não são aplicáveis ao trabalho executado por menores nas escolas técnicas, públicas ou privadas, oficialmente reconhecidas, que tenham um programa de estudos aprovado pela entidade competente e que limitem a uma duração razoável o tempo de formação ou de aprendizagem dos seus alunos, na condição de o trabalho ser prèviamente autorizado pela autoridade competente.
 
-###### Art. 128.º As disposições dos parágrafos 1 e 2 do artigo 126.º não são aplicáveis ao trabalho de menores em estabelecimentos onde apenas sejam empregados os membros da família do empregador.
+Art. 128.º As disposições dos parágrafos 1 e 2 do artigo 126.º não são aplicáveis ao trabalho de menores em estabelecimentos onde apenas sejam empregados os membros da família do empregador.
 
-###### Art. 129.º Todas as empresas que empreguem no seu serviço menores de 18 anos terão um livro próprio onde registarão a identidade dos menores, mormente a data do seu nascimento ou idade provável, quando aquela não seja conhecida, a data da admissão ao emprego e o trabalho atribuído aos mesmos menores.
+Art. 129.º Todas as empresas que empreguem no seu serviço menores de 18 anos terão um livro próprio onde registarão a identidade dos menores, mormente a data do seu nascimento ou idade provável, quando aquela não seja conhecida, a data da admissão ao emprego e o trabalho atribuído aos mesmos menores.
 
-###### Art. 130.º - 1. O consentimento dos menores, em relação a qualquer contrato de trabalho, deve ser prestado pessoalmente, em todos os casos.
+Art. 130.º - 1. O consentimento dos menores, em relação a qualquer contrato de trabalho, deve ser prestado pessoalmente, em todos os casos.
 
 2. Os menores de 18 anos só podem contratar a prestação de serviços mediante intervenção ou autorização expressa dos seus representantes legais.
 
@@ -1151,7 +1167,7 @@ deve ser repatriado por conta do empregador, sem prejuízo do direito de regress
 
 4. O representante legal de menor de 18 anos e maior de 14 só pode requerer a anulação dos respectivos contratos de trabalho se da manutenção destes resultar para o menor prejuízo de ordem física ou moral.
 
-###### Art. 131.º - 1. A parte dos salários dos menores a pagar em dinheiro não pode, em caso algum, ser inferior:
+Art. 131.º - 1. A parte dos salários dos menores a pagar em dinheiro não pode, em caso algum, ser inferior:
 
 a) A metade do salário correspondente dos trabalhadores em geral, para os menores de 18 anos e maiores de 14;
 
@@ -1161,7 +1177,7 @@ b) À quarta parte do salário correspondente dos trabalhadores em geral, para o
 
 #### SECÇÃO II — Exame médico de aptidão dos adolescentes
 
-###### Art. 132.º - 1. Os menores de 18 anos não podem ser admitidos a emprego por uma empresa senão depois de terem sido reconhecidos aptos para o trabalho em que hão-de ser ocupados, mediante um circunstanciado exame médico, sendo obrigatória a apresentação do respectivo atestado de aptidão para o emprego.
+Art. 132.º - 1. Os menores de 18 anos não podem ser admitidos a emprego por uma empresa senão depois de terem sido reconhecidos aptos para o trabalho em que hão-de ser ocupados, mediante um circunstanciado exame médico, sendo obrigatória a apresentação do respectivo atestado de aptidão para o emprego.
 
 2. O atestado médico poderá:
 
@@ -1171,55 +1187,55 @@ b) Ser passado para um trabalho específico ou para um grupo de trabalhos ou ocu
 
 3. São competentes para proceder aos exames médicos e passar os atestados referidos nos dois parágrafos anteriores os delegados de saúde e respectivos subdelegados e os demais médicos que para o efeito tenham sido autorizados pelo governador da província, nos termos do parágrafo 4 do artigo 17.º
 
-###### Art. 133.º - 1. A aptidão dos menores para o emprego que exercem deverá ser objecto de verificação médica periódica até à idade de 18 anos.
+Art. 133.º - 1. A aptidão dos menores para o emprego que exercem deverá ser objecto de verificação médica periódica até à idade de 18 anos.
 
 2. O emprego de um menor de 18 anos não poderá ser continuado senão mediante repetição do exame médico em intervalos não superiores a um ano.
 
 3. A Inspecção do Trabalho, sempre que o entender necessário ou conveniente, poderá fazer submeter os trabalhadores menores de 18 anos a exame médico, que será realizado pelo médico que a mesma entidade escolher ou indicar.
 
-###### Art. 134.º Os exames médicos dos menores nunca constituirão encargo para os menores ou suas famílias, sendo realizados por conta dos empregadores.
+Art. 134.º Os exames médicos dos menores nunca constituirão encargo para os menores ou suas famílias, sendo realizados por conta dos empregadores.
 
 ### CAPÍTULO II — Educação. Formação profissional. Frequência escolar
 
-###### Art. 135.º É proibido o emprego, em qualquer trabalho, de jovens que não tenham ultrapassado a idade escolar.
+Art. 135.º É proibido o emprego, em qualquer trabalho, de jovens que não tenham ultrapassado a idade escolar.
 
-###### Art. 136.º - 1. Sempre que o número de crianças em idade escolar, filhas de trabalhadores de uma empresa e que se encontrem em companhia dos pais seja igual ou superior a vinte, a empresa deve ter e manter em funcionamento uma escola onde às ditas crianças seja ministrada a instrução primária, não havendo a menos de 5 km escolas oficiais que os filhos dos trabalhadores possam frequentar.
+Art. 136.º - 1. Sempre que o número de crianças em idade escolar, filhas de trabalhadores de uma empresa e que se encontrem em companhia dos pais seja igual ou superior a vinte, a empresa deve ter e manter em funcionamento uma escola onde às ditas crianças seja ministrada a instrução primária, não havendo a menos de 5 km escolas oficiais que os filhos dos trabalhadores possam frequentar.
 
 2. Diversas empresas da mesma região podem associar-se para fundarem e manterem as escolas a que se refere o parágrafo anterior.
 
-###### Art. 137.º As empresas poderão fundar e manter as escolas de formação profissional que entenderem, de harmonia com as leis em vigor, para aperfeiçoarem a preparação técnica e profissional dos seus trabalhadores e para formação de igual natureza dos filhos dos trabalhadores.
+Art. 137.º As empresas poderão fundar e manter as escolas de formação profissional que entenderem, de harmonia com as leis em vigor, para aperfeiçoarem a preparação técnica e profissional dos seus trabalhadores e para formação de igual natureza dos filhos dos trabalhadores.
 
-###### Art. 138.º Aos serviços públicos de instrução compete fiscalizar o funcionamento das escolas das empresas, transmitir a estas as recomendações, instruções e prescrições que se mostrem necessárias e encorajar o progressivo desenvolvimento da formação profissional.
+Art. 138.º Aos serviços públicos de instrução compete fiscalizar o funcionamento das escolas das empresas, transmitir a estas as recomendações, instruções e prescrições que se mostrem necessárias e encorajar o progressivo desenvolvimento da formação profissional.
 
-###### Art. 139.º As empresas observarão sempre o que se achar estabelecido nas leis e nos regulamentos em matéria de instrução e educação.
+Art. 139.º As empresas observarão sempre o que se achar estabelecido nas leis e nos regulamentos em matéria de instrução e educação.
 
-###### Art. 140.º O governo de cada província, ouvidos os serviços de instrução, a Inspecção do Trabalho e as associações patronais e de trabalhadores, regulamentará a matéria da presente secção, atentas as necessidades e as circunstâncias de cada província e das suas diversas regiões.
+Art. 140.º O governo de cada província, ouvidos os serviços de instrução, a Inspecção do Trabalho e as associações patronais e de trabalhadores, regulamentará a matéria da presente secção, atentas as necessidades e as circunstâncias de cada província e das suas diversas regiões.
 
 ### CAPÍTULO III — Trabalho das mulheres e dos menores durante a noite. Seu emprego em serviços subterrâneos
 
-###### Art. 141.º - 1. Entende-se por trabalho nocturno, para os efeitos do presente título todo o que seja prestado entre as 20 horas e a hora do início normal do trabalho.
+Art. 141.º - 1. Entende-se por trabalho nocturno, para os efeitos do presente título todo o que seja prestado entre as 20 horas e a hora do início normal do trabalho.
 
 2. A hora do início normal do trabalho determina-se por aquilo que se achar estabelecido na lei, nos regulamentos de empresa, nas convenções colectivas ou nos contratos individuais de trabalho; não podendo determinar-se por alguma dessas formas, atender-se-á ao costume da região, e, na falta de normas usuais, considerar-se-á que o trabalho se inícia às 7 horas.
 
-###### Art. 142.º - 1. Os menores de 16 anos em caso algum serão ocupados em trabalho nocturno;
+Art. 142.º - 1. Os menores de 16 anos em caso algum serão ocupados em trabalho nocturno;
 
 2. Os menores de 18 anos e maiores de 16 não poderão prestar serviços para além da meia-noite.
 
-###### Art. 143.º Os menores de 18 anos e as mulheres não podem ser ocupados em trabalho subterrâneo.
+Art. 143.º Os menores de 18 anos e as mulheres não podem ser ocupados em trabalho subterrâneo.
 
-###### Art. 144.º As mulheres com encargos de família deverão ser dispensadas quer do trabalho extraordinário, quer do trabalho nocturno, se assim o solicitarem.
+Art. 144.º As mulheres com encargos de família deverão ser dispensadas quer do trabalho extraordinário, quer do trabalho nocturno, se assim o solicitarem.
 
 ## TÍTULO V — Dos serviços de colocação e emigração
 
 ### CAPÍTULO I — Serviço público e gratuito de colocação
 
-###### Art. 145.º - 1. É assegurado a todos os trabalhadores um serviço público e gratuito de colocação.
+Art. 145.º - 1. É assegurado a todos os trabalhadores um serviço público e gratuito de colocação.
 
 2. A missão essencial do serviço de colocação consiste em realizar, em cooperação com outros organismos públicos e privados interessados, a melhor organização possível do mercado do emprego como parte integrante do programa nacional tendente a assegurar e a manter o pleno emprego, bem como a desenvolver e a utilizar os recursos produtivos, dirigindo os trabalhadores para os empregos disponíveis.
 
 3. O serviço público de colocação ficará a cargo dos Institutos do Trabalho e das suas delegações, competindo àqueles elaborar as normas da sua organização.
 
-###### Art. 146.º O serviço de emprego deve assegurar a eficácia do recrutamento e da colocação dos trabalhadores; para este fim, deve:
+Art. 146.º O serviço de emprego deve assegurar a eficácia do recrutamento e da colocação dos trabalhadores; para este fim, deve:
 
 a) Ajudar os trabalhadores a encontrar um emprego conveniente e os empregadores a encontrar os trabalhadores que convenham às necessidades das empresas; mais particularmente, deve:
 
@@ -1241,25 +1257,25 @@ c) Recolher e analisar, em colaboração com as autoridades, os empregadores e o
 
 d) Ajudar, quando necessário, os organismos públicos ou privados interessados na elaboração de planos sociais e económicos de natureza a influenciar favoràvelmente a situação do emprego.
 
-###### Art. 147.º - 1. Compete ao serviço público de colocação tomar as medidas possíveis, em colaboração com as autoridades, associações de empregadores e organismos de representação profissional, bem como com todos os organismos interessados, para encorajar, de uma parte, a plena utilização do serviço de emprego pelos trabalhadores e empregadores e, por outro lado, a oferta de toda a mão-de-obra disponível, na base de espontaneidade e voluntariedade.
+Art. 147.º - 1. Compete ao serviço público de colocação tomar as medidas possíveis, em colaboração com as autoridades, associações de empregadores e organismos de representação profissional, bem como com todos os organismos interessados, para encorajar, de uma parte, a plena utilização do serviço de emprego pelos trabalhadores e empregadores e, por outro lado, a oferta de toda a mão-de-obra disponível, na base de espontaneidade e voluntariedade.
 
 2. Os organismos de representação profissional terão obrigatòriamente uma secção de serviço de colocação, o qual será inteiramente gratuito, actuando em conformidade com a Inspecção do Trabalho.
 
-###### Art. 148.º A inscrição nos serviços de colocação é meramente facultativa, quer para as empresas que carecem de mão-de-obra, quer para os trabalhadores que procuram emprego.
+Art. 148.º A inscrição nos serviços de colocação é meramente facultativa, quer para as empresas que carecem de mão-de-obra, quer para os trabalhadores que procuram emprego.
 
 ### CAPÍTULO II — Recrutamento
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 149.º O termo recrutamento compreende os actos praticados com o fim de suscitar a livre oferta de mão-de-obra em função do desenvolvimento da economia do mercado.
+Art. 149.º O termo recrutamento compreende os actos praticados com o fim de suscitar a livre oferta de mão-de-obra em função do desenvolvimento da economia do mercado.
 
-###### Art. 150.º Constitui dever do Estado assegurar uma evolução socialmente equilibrada das economias de subsistência e de mercado.
+Art. 150.º Constitui dever do Estado assegurar uma evolução socialmente equilibrada das economias de subsistência e de mercado.
 
-###### Art. 151.º Constitui dever geral das empresas colaborar na acção do Estado referida no artigo anterior, nomeadamente melhorando as condições do trabalho, promovendo o aperfeiçoamento profissional e encorajando a estabilização dos trabalhadores e das suas famílias na zona do trabalho.
+Art. 151.º Constitui dever geral das empresas colaborar na acção do Estado referida no artigo anterior, nomeadamente melhorando as condições do trabalho, promovendo o aperfeiçoamento profissional e encorajando a estabilização dos trabalhadores e das suas famílias na zona do trabalho.
 
-###### Art. 152.º Os governos das províncias, quando julguem conveniente, e depois de ouvida ou sob proposta da Inspecção do Trabalho, poderão limitar ou proibir o recrutamento em regiões determinadas.
+Art. 152.º Os governos das províncias, quando julguem conveniente, e depois de ouvida ou sob proposta da Inspecção do Trabalho, poderão limitar ou proibir o recrutamento em regiões determinadas.
 
-###### Art. 153.º Para efeitos da proibição ou limitação do recrutamento, o governo de cada província deve tomar em consideração as possíveis repercussões da saída dos adultos do sexo masculino sobre a vida de cada unidade social, tendo em conta, nomeadamente, os seguintes aspectos:
+Art. 153.º Para efeitos da proibição ou limitação do recrutamento, o governo de cada província deve tomar em consideração as possíveis repercussões da saída dos adultos do sexo masculino sobre a vida de cada unidade social, tendo em conta, nomeadamente, os seguintes aspectos:
 
 a) Densidade da população, sua tendência para o crescimento ou para a diminuição, e efeito provável do afastamento dos adultos do sexo masculino sobre a natalidade;
 
@@ -1269,7 +1285,7 @@ c) Perigos desse afastamento no que respeita às condições familiares e morais
 
 d) Organização social.
 
-###### Art. 154.º Aos funcionários públicos é proibido:
+Art. 154.º Aos funcionários públicos é proibido:
 
 a) Recrutar, directa ou indirectamente, quaisquer trabalhadores para empresas privadas;
 
@@ -1279,29 +1295,29 @@ c) Exercer pressão ou qualquer forma de coacção sobre os trabalhadores a recr
 
 d) Receber, seja qual for a origem e a forma, qualquer remuneração especial, ou alguma vantagem especial, por ter contribuído para o recrutamento, bem assim quaisquer dádivas, por si ou pelos seus familiares, da parte de empresas interessadas no recrutamento, de recrutadores ou dos respectivos agentes.
 
-###### Art. 155.º Todo o funcionário público que violar alguma das disposições do artigo anterior será demitido do cargo público que exercer, por decisão da entidade competente, a proferir em processo disciplinar que em todos os casos será instaurado.
+Art. 155.º Todo o funcionário público que violar alguma das disposições do artigo anterior será demitido do cargo público que exercer, por decisão da entidade competente, a proferir em processo disciplinar que em todos os casos será instaurado.
 
-###### Art. 156.º A acusação deduzida em processo disciplinar instaurado nos termos do artigo anterior importa sempre a imediata suspensão do funcionário do exercício das suas funções, bem como a suspensão do pagamento dos respectivos vencimentos, e a fixação da sua residência na sede da província, quando a falta ali não tenha sido praticada, até decisão do processo, a menos que o funcionário acusado tenha de se ausentar da província por esse tempo.
+Art. 156.º A acusação deduzida em processo disciplinar instaurado nos termos do artigo anterior importa sempre a imediata suspensão do funcionário do exercício das suas funções, bem como a suspensão do pagamento dos respectivos vencimentos, e a fixação da sua residência na sede da província, quando a falta ali não tenha sido praticada, até decisão do processo, a menos que o funcionário acusado tenha de se ausentar da província por esse tempo.
 
-###### Art. 157.º Os funcionários públicos devem abster-se de praticar actos que, mesmo só aparentemente, possam revelar auxílio prestado às empresas, aos recrutadores ou aos respectivos agentes, em operações de recrutamento, sob pena de procedimento disciplinar.
+Art. 157.º Os funcionários públicos devem abster-se de praticar actos que, mesmo só aparentemente, possam revelar auxílio prestado às empresas, aos recrutadores ou aos respectivos agentes, em operações de recrutamento, sob pena de procedimento disciplinar.
 
-###### Art. 158.º Aos regedores e chefes de povoação e aplicável o disposto no parágrafo 1 do artigo 157.º
+Art. 158.º Aos regedores e chefes de povoação e aplicável o disposto no parágrafo 1 do artigo 157.º
 
-###### Art. 159.º As autoridades referidas no artigo anterior que violarem algumas das disposições do artigo 154.º serão igualmente objecto de processo disciplinar e imediatamente suspensas até decisão final.
+Art. 159.º As autoridades referidas no artigo anterior que violarem algumas das disposições do artigo 154.º serão igualmente objecto de processo disciplinar e imediatamente suspensas até decisão final.
 
-###### Art. 160.º Os inspectores do trabalho deverão sempre, e nomeadamente por ocasião das suas visitas de inspecção aos locais de trabalho, averiguar da existência de quaisquer infracções às disposições do artigo 154.º, independentemente de denúncia, ouvindo as pessoas que entenderem e praticando todas as diligências que possam conduzir à sua descoberta.
+Art. 160.º Os inspectores do trabalho deverão sempre, e nomeadamente por ocasião das suas visitas de inspecção aos locais de trabalho, averiguar da existência de quaisquer infracções às disposições do artigo 154.º, independentemente de denúncia, ouvindo as pessoas que entenderem e praticando todas as diligências que possam conduzir à sua descoberta.
 
 #### SECÇÃO II — Recrutamento para serviços públicos
 
-###### Art. 161.º - 1. Os serviços públicos do Estado e das autarquias locais podem recrutar directamente os trabalhadores de que necessitem exclusivamente para a prossecução dos seus fins específicos.
+Art. 161.º - 1. Os serviços públicos do Estado e das autarquias locais podem recrutar directamente os trabalhadores de que necessitem exclusivamente para a prossecução dos seus fins específicos.
 
 2. O recrutamento para serviços públicos, nos termos do parágrafo 1 deste artigo, poderá ser efectuado pelos funcionários que para esse efeito sejam nomeados por simples alvará do governador da província ou do distrito, sob proposta dos directores dos serviços ou dos presidentes das autarquias, conforme os casos.
 
 3. Do disposto no parágrafo anterior ficam excluídos os funcionários do quadro administrativo.
 
-###### Art. 162.º Os atestados relativos aos exames médicos dos trabalhadores recrutados para serviços públicos e municipais e os respectivos contratos de trabalho são isentos de imposto do selo e os médicos que efectuarem os exames não terão direito a qualquer remuneração.
+Art. 162.º Os atestados relativos aos exames médicos dos trabalhadores recrutados para serviços públicos e municipais e os respectivos contratos de trabalho são isentos de imposto do selo e os médicos que efectuarem os exames não terão direito a qualquer remuneração.
 
-###### Art. 163.º - 1. Aos funcionários encarregados do serviço de recrutamento para serviços públicos e municipais são aplicáveis as disposições do artigo 169.º e do parágrafo 1 do artigo 176.º, sendo-lhes proibido prestar quaisquer serviços a terceiros.
+Art. 163.º - 1. Aos funcionários encarregados do serviço de recrutamento para serviços públicos e municipais são aplicáveis as disposições do artigo 169.º e do parágrafo 1 do artigo 176.º, sendo-lhes proibido prestar quaisquer serviços a terceiros.
 
 2. Os funcionários referidos no parágrafo anterior responderão disciplinar e criminalmente pelas irregularidades que pratiquem no serviço de recrutamento e pela violação das disposições do presente código, nos termos da lei geral e deste código.
 
@@ -1309,11 +1325,11 @@ d) Receber, seja qual for a origem e a forma, qualquer remuneração especial, o
 
 ##### SUBSECÇÃO I — Disposições gerais
 
-###### Art. 164.º - 1. Para os fins da presente secção, a expressão «serviços privados de recrutamento» designa todos os serviços de colocação, ou seja toda a pessoa, sociedade, instituição, agência ou outra organização que serve de mandatária para procurar um emprego a um trabalhador ou um trabalhador a um empregador.
+Art. 164.º - 1. Para os fins da presente secção, a expressão «serviços privados de recrutamento» designa todos os serviços de colocação, ou seja toda a pessoa, sociedade, instituição, agência ou outra organização que serve de mandatária para procurar um emprego a um trabalhador ou um trabalhador a um empregador.
 
 2. A definição do parágrafo anterior não compreende os jornais ou outras publicações, salvo aqueles cujo objecto exclusivo ou principal seja o de agir como intermediários entre empregadores e trabalhadores.
 
-###### Art. 165.º Só as pessoas singulares ou colectivas, agências ou outras organizações que para tal fim sejam devidamente autorizadas pelo governador da província poderão efectuar quaisquer operações de recrutamento ou outras relacionadas com a colocação de trabalhadores.
+Art. 165.º Só as pessoas singulares ou colectivas, agências ou outras organizações que para tal fim sejam devidamente autorizadas pelo governador da província poderão efectuar quaisquer operações de recrutamento ou outras relacionadas com a colocação de trabalhadores.
 
 ##### SUBSECÇÃO II
 
@@ -1321,13 +1337,13 @@ Licenças para recrutamento.
 
 Obrigações dos serviços privados de colocação
 
-###### Art. 166.º - 1. A todas as empresas que exerçam a sua actividade numa província ultramarina é permitido recrutar directamente dentro da mesma província a mão-de-obra de que careçam para a satisfação das suas necessidades próprias.
+Art. 166.º - 1. A todas as empresas que exerçam a sua actividade numa província ultramarina é permitido recrutar directamente dentro da mesma província a mão-de-obra de que careçam para a satisfação das suas necessidades próprias.
 
 2. Sempre que seja possível, devem as empresas utilizar plenamente o serviço público e gratuito de colocação.
 
 3. As empresas podem organizar os seus serviços privativos de recrutamento observando as disposições da presente secção.
 
-###### Art. 167.º - 1. Só podem proceder ao recrutamento directo de trabalhadores para satisfação das suas próprias necessidades as empresas que sejam possuidoras da respectiva licença.
+Art. 167.º - 1. Só podem proceder ao recrutamento directo de trabalhadores para satisfação das suas próprias necessidades as empresas que sejam possuidoras da respectiva licença.
 
 2. As licenças serão concedidas pelo governador do distrito ou pelo governador da província, conforme se destinem a ser utilizadas apenas num distrito ou em mais do que um distrito da mesma província.
 
@@ -1337,7 +1353,7 @@ Obrigações dos serviços privados de colocação
 
 5. As disposições do presente artigo não são aplicáveis às empresas que apenas empreguem trabalhadores eventuais ou habitualmente menos de 50 trabalhadores efectivos nem ao angariamento de trabalhadores na área do concelho ou circunscrição do local do trabalho.
 
-###### Art. 168.º - 1. O serviço de recrutamento directo e privativo de cada empresa pode ser efectuado através de agentes recrutadores da empresa.
+Art. 168.º - 1. O serviço de recrutamento directo e privativo de cada empresa pode ser efectuado através de agentes recrutadores da empresa.
 
 2. Os agentes recrutadores são, para todos os efeitos, equiparados aos empregados do comércio, devendo ser-lhes atribuído um ordenado obrigatòriamente fixado em quantia certa.
 
@@ -1361,7 +1377,7 @@ a) Aos indivíduos que tenham sido condenados ou se achem pronunciados por algum
 
 b) Aos indivíduos que não tenham bom comportamento moral e civil.
 
-###### Art. 169.º São deveres dos agentes recrutadores:
+Art. 169.º São deveres dos agentes recrutadores:
 
 a) Certificar-se das precisas condições em que hão-de ser celebrados os contratos de trabalho e especialmente quanto aos seguintes pontos:
 
@@ -1389,7 +1405,7 @@ g) Indemnizar os trabalhadores das perdas e danos que venham a sofrer, nos casos
 
 h) Usar de urbanidade e correcção para com as autoridades públicas, os trabalhadores e suas famílias.
 
-###### Art. 170.º - 1. As licenças de recrutamento serão revogadas:
+Art. 170.º - 1. As licenças de recrutamento serão revogadas:
 
 a) Quando o possuidor cometa alguma falta grave;
 
@@ -1407,11 +1423,11 @@ a) A violação de algum dos deveres enunciados nas alíneas b), c), d), e) e g)
 
 b) A infracção de alguma das disposições dos parágrafos 2 e 3 do artigo 168.º
 
-###### Art. 171.º - 1. As autorizações concedidas aos agentes recrutadores serão revogadas quando o respectivo beneficiário cometa alguma falta que, de harmonia com o parágrafo 2 do artigo anterior, deva ser considerada grave.
+Art. 171.º - 1. As autorizações concedidas aos agentes recrutadores serão revogadas quando o respectivo beneficiário cometa alguma falta que, de harmonia com o parágrafo 2 do artigo anterior, deva ser considerada grave.
 
 2. Da decisão do governador do distrito, nas províncias de governo-geral, que denegue a concessão de autorização ou revogue uma autorização concedida cabe recurso hierárquico para o governador-geral.
 
-###### Art. 172.º - 1. As pessoas singulares ou colectivas, agências e outras organizações que se dediquem ao recrutamento de trabalhadores deverão possuir uma licença anual, sem a qual lhes é absolutamente vedado aceitar ou exercer qualquer mandato.
+Art. 172.º - 1. As pessoas singulares ou colectivas, agências e outras organizações que se dediquem ao recrutamento de trabalhadores deverão possuir uma licença anual, sem a qual lhes é absolutamente vedado aceitar ou exercer qualquer mandato.
 
 2. A licença referida no parágrafo anterior é renovável por períodos sucessivos de um ano, até ao limite fixado no parágrafo 3 do artigo 164.º
 
@@ -1439,7 +1455,7 @@ c) O da alínea c), com a certidão do registo comercial;
 
 d) O da alínea d), com uma declaração sob compromisso de honra do requerente em que se obrigue a prestar a caução no prazo de 30 dias, a contar da data da entrega da licença.
 
-###### Art. 173.º - 1. Toda a pessoa que obtenha uma licença de recrutamento, nos termos do artigo 172.º, deverá prestar a caução correspondente, segundo as disposições do presente artigo.
+Art. 173.º - 1. Toda a pessoa que obtenha uma licença de recrutamento, nos termos do artigo 172.º, deverá prestar a caução correspondente, segundo as disposições do presente artigo.
 
 2. A caução referida no parágrafo anterior pode ser prestada por qualquer das formas admitidas por lei.
 
@@ -1455,7 +1471,7 @@ b) A data da prestação da caução e a forma por que foi prestada, pelo admini
 
 6. O montante da caução a prestar nos termos deste artigo será calculado com base no número de trabalhadores para cujo recrutamento a licença é válida.
 
-###### Art. 174.º - 1. A caução referida no artigo anterior constitui mero índice da capacidade financeira da pessoa a quem a licença é conferida e destina-se especialmente:
+Art. 174.º - 1. A caução referida no artigo anterior constitui mero índice da capacidade financeira da pessoa a quem a licença é conferida e destina-se especialmente:
 
 a) A garantir o pagamento de quaisquer reparações que venham a ser devidas pelo recrutador aos trabalhadores por ele recrutados ao abrigo da licença, seja qual for a sua causa;
 
@@ -1471,7 +1487,7 @@ d) A garantir o cumprimento das obrigações impostas neste código.
 
 4. O valor da caução será perdido a favor das províncias nos casos em que a licença seja revogada por falta grave cometida pelo respectivo possuidor.
 
-###### Art. 175.º São deveres particulares dos recrutadores possuidores de licença a que se refere o artigo 172.º:
+Art. 175.º São deveres particulares dos recrutadores possuidores de licença a que se refere o artigo 172.º:
 
 a) Assegurar-se da idoneidade e capacidade financeira das empresas a que se destinam os trabalhadores;
 
@@ -1479,13 +1495,13 @@ b) Fiscalizar rigorosamente a actividade dos seus agentes;
 
 c) Todos os mais deveres enunciados no artigo 169.º
 
-###### Art. 176.º - 1. Pelos serviços de recrutamento em caso algum pode ser cobrada qualquer quantia em dinheiro ou outra remuneração dos trabalhadores.
+Art. 176.º - 1. Pelos serviços de recrutamento em caso algum pode ser cobrada qualquer quantia em dinheiro ou outra remuneração dos trabalhadores.
 
 2. O transporte dos trabalhadores para o local do trabalho e as mais despesas da viagem constituem encargo exclusivo dos empregadores. O vestuário a fornecer aos trabalhadores, nos termos contratuais ou legais, ser-lhes-á entregue à sua chegada aos locais do trabalho, salvo nos casos em que o transporte seja por via marítima.
 
 3. O recrutador responde pelas despesas com a deslocação dos trabalhadores desde as suas residências até ao local onde hajam de celebrar-se e visar-se os contratos de trabalho e com a alimentação e alojamento dos mesmos trabalhadores até ao início da execução do contrato; mas tem direito a ser reembolsado da importância correspondente pela empresa, salvo se o contrário tiver sido expressamente convencionado.
 
-###### Art. 177.º - 1. Os possuidores das licenças a que se refere o artigo 172.º poderão estabelecer as agências de recrutamento que entenderem, em qualquer parte da província, admitindo ao seu serviço de recrutamento o pessoal de que necessitem.
+Art. 177.º - 1. Os possuidores das licenças a que se refere o artigo 172.º poderão estabelecer as agências de recrutamento que entenderem, em qualquer parte da província, admitindo ao seu serviço de recrutamento o pessoal de que necessitem.
 
 2. As pessoas empregadas pelos possuidores das licenças no serviço de recrutamento designar-se-ão «agentes de recrutador», sendo-lhes aplicáveis as disposições do artigo 168.º
 
@@ -1493,13 +1509,13 @@ c) Todos os mais deveres enunciados no artigo 169.º
 
 4. Os agentes de recrutador devem satisfazer às mesmas condições de idoneidade exigidas para os possuidores das licenças gerais e têm os mesmos deveres destes, sendo-lhes aplicáveis as disposições dos parágrafos 4, 5 e 6 do artigo 172.º, salvo quanto à prestação de caução, e as do artigo 169.º
 
-###### Art. 178.º As licenças a que se refere o artigo 172.º e as autorizações dos agentes de recrutador podem ser revogadas, nos termos dos artigos 170.º e 171.º, respectivamente.
+Art. 178.º As licenças a que se refere o artigo 172.º e as autorizações dos agentes de recrutador podem ser revogadas, nos termos dos artigos 170.º e 171.º, respectivamente.
 
-###### Art. 179.º - 1. Os possuidores das licenças a que se refere o artigo 172.º, quando hajam de efectuar recrutamento em província ou em províncias diversas daquela em que tenham o seu domicílio ou a sua sede, estando para tanto autorizados, poderão estabelecer agências gerais naquelas províncias.
+Art. 179.º - 1. Os possuidores das licenças a que se refere o artigo 172.º, quando hajam de efectuar recrutamento em província ou em províncias diversas daquela em que tenham o seu domicílio ou a sua sede, estando para tanto autorizados, poderão estabelecer agências gerais naquelas províncias.
 
 2. Na respectiva província o agente geral do recrutador terá os mesmos direitos e as mesmas obrigações deste.
 
-###### Art. 180.º - 1. Na Inspecção do Trabalho serão registadas todas as licenças concedidas, com menção dos respectivos titulares, datas da emissão e da entrega, da prestação da caução e do termo da validade.
+Art. 180.º - 1. Na Inspecção do Trabalho serão registadas todas as licenças concedidas, com menção dos respectivos titulares, datas da emissão e da entrega, da prestação da caução e do termo da validade.
 
 2. Para os efeitos do parágrafo anterior, as autoridades que fizerem entrega das licenças aos respectivos titulares enviarão à Inspecção do Trabalho as certidões da entrega e as autoridades que averbarem nas licenças a prestação da caução remeterão os documentos respectivos.
 
@@ -1529,7 +1545,7 @@ e) Local do trabalho;
 
 f) Duração do contrato.
 
-###### Art. 181.º - 1. A Inspecção do Trabalho dará conhecimento das licenças registadas a todas as suas delegações e subdelegações.
+Art. 181.º - 1. A Inspecção do Trabalho dará conhecimento das licenças registadas a todas as suas delegações e subdelegações.
 
 2. Às subdelegações da Inspecção do Trabalho de cada distrito será dado conhecimento de todas as autorizações concedidas a agentes de recrutador pelo governador desse distrito, relativas a cada licença.
 
@@ -1541,7 +1557,7 @@ b) A revogação e a caducidade de todas as licenças;
 
 c) A revogação e a caducidade de todas as autorizações dos agentes que exerçam a sua actividade no distrito respectivo.
 
-###### Art. 182.º - 1. Os serviços privados de recrutamento e as suas agências, além dos livros de escrituração comercial exigidos na lei comum, deverão escriturar mais os seguintes:
+Art. 182.º - 1. Os serviços privados de recrutamento e as suas agências, além dos livros de escrituração comercial exigidos na lei comum, deverão escriturar mais os seguintes:
 
 a) Livro de registo dos trabalhadores recrutados;
 
@@ -1553,7 +1569,7 @@ b) Livro de registo de todas as receitas.
 
 4. A Inspecção do Trabalho poderá, sempre que o entender, examinar todos os elementos da escrita comercial dos serviços privados de colocação e das suas agências, que para esse fim são obrigados a facultá-los nos seus escritórios, não podendo os funcionários da Inspecção que procederem ao exame divulgar por qualquer forma aquilo que observarem.
 
-###### Art. 183.º - 1. Por cada licença, o respectivo titular pagará à Fazenda Nacional, a título de imposto de selo, o que estiver determinado no respectivo regulamento.
+Art. 183.º - 1. Por cada licença, o respectivo titular pagará à Fazenda Nacional, a título de imposto de selo, o que estiver determinado no respectivo regulamento.
 
 2. O imposto correspondente será pago por selo de verba em qualquer repartição de Fazenda, como mais convenha ao titular da licença, lançando o respectivo secretário de Fazenda o correspondente averbamento na licença, a qual, para esse efeito, lhe será apresentada.
 
@@ -1565,7 +1581,7 @@ b) Livro de registo de todas as receitas.
 
 6. As taxas referidas no parágrafo 1 do presente artigo serão elevadas ao quádruplo, quando as licenças se destinem ao exercício profissional de recrutamento, pelas entidades referidas no artigo 172.º
 
-###### Art. 184.º - 1. Por cada autorização de agente recrutador ou de agente de recrutador é devido o imposto do selo que estiver determinado no respectivo regulamento.
+Art. 184.º - 1. Por cada autorização de agente recrutador ou de agente de recrutador é devido o imposto do selo que estiver determinado no respectivo regulamento.
 
 2. Às autorizações dos agentes é aplicável o disposto no parágrafo 3 do artigo 183.º
 
@@ -1575,29 +1591,29 @@ Bem-estar dos trabalhadores
 
 ### CAPÍTULO I — Da higiene do trabalho e da prevenção de acidentes
 
-###### Art. 185.º - 1. O trabalho deve ser organizado e executado em condições de higiene e segurança e de modo a satisfazer, quanto às mulheres e crianças, as peculiares exigências impostas pelo seu sexo ou idade.
+Art. 185.º - 1. O trabalho deve ser organizado e executado em condições de higiene e segurança e de modo a satisfazer, quanto às mulheres e crianças, as peculiares exigências impostas pelo seu sexo ou idade.
 
 2. Constitui dever de todas as empresas adoptar as medidas técnicas de protecção contra os riscos que ameacem a saúde e vida dos trabalhadores.
 
 3. As empresas são obrigadas a observar as disposições dos regulamentos de saúde que visem garantir a higiene do trabalho.
 
-###### Art. 186.º As empresas que empreguem no seu serviço mais de vinte trabalhadores efectivos ou eventuais devem estabelecer nos locais de trabalho os meios necessários para prestar os primeiros socorros em casos de acidente, de doença súbita, de intoxicação ou de indisposição.
+Art. 186.º As empresas que empreguem no seu serviço mais de vinte trabalhadores efectivos ou eventuais devem estabelecer nos locais de trabalho os meios necessários para prestar os primeiros socorros em casos de acidente, de doença súbita, de intoxicação ou de indisposição.
 
-###### Art. 187.º As empresas devem tomar todas as medidas técnicas ou aconselháveis pela experiência e pela especial natureza do trabalho, com vista a uma efectiva prevenção dos possíveis acidentes de trabalho, observando o que se achar estabelecido nos respectivos regulamentos.
+Art. 187.º As empresas devem tomar todas as medidas técnicas ou aconselháveis pela experiência e pela especial natureza do trabalho, com vista a uma efectiva prevenção dos possíveis acidentes de trabalho, observando o que se achar estabelecido nos respectivos regulamentos.
 
-###### Art. 188.º É dever das empresas instruir os seus trabalhadores sobre a forma de manterem a indispensável higiene e de evitarem os acidentes, impondo-lhes a observância rigorosa das normas legais ou regulamentares respectivas.
+Art. 188.º É dever das empresas instruir os seus trabalhadores sobre a forma de manterem a indispensável higiene e de evitarem os acidentes, impondo-lhes a observância rigorosa das normas legais ou regulamentares respectivas.
 
-###### Art. 189.º - 1. À Inspecção do Trabalho compete, por sua iniciativa ou por participação dos serviços competentes, recomendar e prescrever as modificações ou adaptações necessárias das instalações das empresas e, em geral, todas as medidas indispensáveis, em matéria de higiene do trabalho e de prevenção de acidentes, ordenando a suspensão do trabalho sempre que as circunstâncias em que é executado ponham em risco a vida ou a saúde dos trabalhadores.
+Art. 189.º - 1. À Inspecção do Trabalho compete, por sua iniciativa ou por participação dos serviços competentes, recomendar e prescrever as modificações ou adaptações necessárias das instalações das empresas e, em geral, todas as medidas indispensáveis, em matéria de higiene do trabalho e de prevenção de acidentes, ordenando a suspensão do trabalho sempre que as circunstâncias em que é executado ponham em risco a vida ou a saúde dos trabalhadores.
 
 2. Das decisões da Inspecção do Trabalho cabe recurso para o governador da província, no prazo de oito dias.
 
-###### Art. 190.º O governo de cada província, ouvidos os serviços de saúde e higiene e a Inspecção do Trabalho, bem como os organismos públicos e privados interessados, deverá regulamentar as matérias de que trata o presente capítulo.
+Art. 190.º O governo de cada província, ouvidos os serviços de saúde e higiene e a Inspecção do Trabalho, bem como os organismos públicos e privados interessados, deverá regulamentar as matérias de que trata o presente capítulo.
 
 ### CAPÍTULO II — Bem-estar dos trabalhadores
 
 #### SECÇÃO I — Princípios gerais
 
-###### Art. 191.º As empresas devem empregar todos os esforços e adoptar todas as medidas aconselháveis para:
+Art. 191.º As empresas devem empregar todos os esforços e adoptar todas as medidas aconselháveis para:
 
 a) Desenvolver entre os trabalhadores a higiene individual, nomeadamente facultando-lhes a utilização de instalações sanitárias e de balneários;
 
@@ -1607,11 +1623,11 @@ c) Desenvolver a força e a saúde dos trabalhadores pela prática de desportos 
 
 d) Desenvolver o ensino profissional e geral, quer instituindo escolas e outras organizações para uso dos seus trabalhadores, quer facultando-lhes a frequência de escolas oficiais.
 
-###### Art. 192.º As empresas adoptarão todas as medidas aconselháveis para evitarem que os trabalhadores aproveitem as horas de lazer, os descansos semanais e as férias por forma a prejudicarem a sua saúde física e moral.
+Art. 192.º As empresas adoptarão todas as medidas aconselháveis para evitarem que os trabalhadores aproveitem as horas de lazer, os descansos semanais e as férias por forma a prejudicarem a sua saúde física e moral.
 
 #### SECÇÃO II — Habitação dos trabalhadores
 
-###### Art. 193.º - 1. As empresas que empreguem no seu serviço trabalhadores efectivos são obrigadas a fornecer-lhes habitação gratuita.
+Art. 193.º - 1. As empresas que empreguem no seu serviço trabalhadores efectivos são obrigadas a fornecer-lhes habitação gratuita.
 
 2. Os trabalhadores que não sejam acompanhados de suas famílias podem ser alojados em instalações próprias para albergarem grupos de trabalhadores. Todavia, as empresas deverão evitar, sempre que possível, esse modo de alojamento e fornecer a cada trabalhador um compartimento ou habitação individual.
 
@@ -1619,39 +1635,39 @@ d) Desenvolver o ensino profissional e geral, quer instituindo escolas e outras 
 
 4. No fornecimento de habitação aos trabalhadores observar-se-ão os costumes da região, devendo sempre respeitar-se as necessárias medidas de higiene e as que forem estabelecidas nos regulamentos de saúde.
 
-###### Art. 194.º Os trabalhadores deverão ser agrupados de acordo com as suas afinidades.
+Art. 194.º Os trabalhadores deverão ser agrupados de acordo com as suas afinidades.
 
-###### Art. 195.º A habitação destinada aos trabalhadores deve estar situada, tanto quanto possível, próximo dos respectivos locais de trabalho.
+Art. 195.º A habitação destinada aos trabalhadores deve estar situada, tanto quanto possível, próximo dos respectivos locais de trabalho.
 
-###### Art. 196.º Por sua iniciativa, ou quando a Inspecção do Trabalho o determinar, as empresas deverão distribuir a cada trabalhador ou a cada grupo de trabalhadores da mesma região pequenas parcelas de terreno que eles possam ajardinar ou cultivar de sua conta conforme as suas preferências.
+Art. 196.º Por sua iniciativa, ou quando a Inspecção do Trabalho o determinar, as empresas deverão distribuir a cada trabalhador ou a cada grupo de trabalhadores da mesma região pequenas parcelas de terreno que eles possam ajardinar ou cultivar de sua conta conforme as suas preferências.
 
-###### Art. 197.º - 1. As empresas são obrigadas a submeter à aprovação da Inspecção do Trabalho os projectos e memórias descritivas dos bairros, acampamentos, casas isoladas ou outras instalações destinadas ao alojamento dos seus trabalhadores, nos casos em que sejam obrigadas a fornecer-lhes habitação.
+Art. 197.º - 1. As empresas são obrigadas a submeter à aprovação da Inspecção do Trabalho os projectos e memórias descritivas dos bairros, acampamentos, casas isoladas ou outras instalações destinadas ao alojamento dos seus trabalhadores, nos casos em que sejam obrigadas a fornecer-lhes habitação.
 
 2. A Inspecção do Trabalho poderá recomendar ou prescrever as alterações que entender convenientes ou necessárias, tendo em vista as disposições do presente código e das leis e regulamentos em vigor, a necessidade de acomodações suficientes para todo o pessoal, a comodidade deste, as regras da higiene e as circunstâncias locais e de cada caso.
 
 3. As licenças de recrutamento podem ser denegadas ou suspensas às empresas que não tenham aprovados os projectos a que se refere o parágrafo 1 do presente artigo, que não se comprometam a executar em prazo que lhes for fixado os projectos aprovados ou que não tenham habitações suficientes para os seus trabalhadores efectivos. O número de trabalhadores a recrutar pode ser reduzido nas licenças respectivas, em conformidade com as possibilidades da empresa para os alojar.
 
-###### Art. 198.º As empresas são obrigadas a fornecer uma cama a cada trabalhador.
+Art. 198.º As empresas são obrigadas a fornecer uma cama a cada trabalhador.
 
-###### Art. 199.º OS governadores dos distritos poderão autorizar o pagamento de subsídios de alojamento aos trabalhadores a quem as empresas devam fornecer habitação gratuita, nos casos em que isso se mostre conveniente.
+Art. 199.º OS governadores dos distritos poderão autorizar o pagamento de subsídios de alojamento aos trabalhadores a quem as empresas devam fornecer habitação gratuita, nos casos em que isso se mostre conveniente.
 
-###### Art. 200.º Os governos das províncias, ouvida a Inspecção do Trabalho, regulamentarão a matéria do presente capítulo, tendo em consideração as circunstâncias particulares de cada província e das suas diversas regiões.
+Art. 200.º Os governos das províncias, ouvida a Inspecção do Trabalho, regulamentarão a matéria do presente capítulo, tendo em consideração as circunstâncias particulares de cada província e das suas diversas regiões.
 
 ## TÍTULO VII — Disposições sociais
 
 ### CAPÍTULO I — Princípios gerais
 
-###### Art. 201.º As disposições constantes do presente título não prejudicam a aplicação das disposições da legislação sobre previdência.
+Art. 201.º As disposições constantes do presente título não prejudicam a aplicação das disposições da legislação sobre previdência.
 
-###### Art. 202.º Nos casos em que, por virtude de qualquer das eventualidades previstas no presente título, bem assim nos casos de faltas ao serviço que sejam consideradas justificadas e nos mais de suspensão da prestação de trabalho por impedimento dos trabalhadores, nos quais às empresas seja imposta a obrigação de remunerar ou indemnizar, as empresas poderão descontar, no valor das prestações a satisfazer, tudo o que os trabalhadores puderem receber de outra origem, a título de privação de remuneração ou de reparação.
+Art. 202.º Nos casos em que, por virtude de qualquer das eventualidades previstas no presente título, bem assim nos casos de faltas ao serviço que sejam consideradas justificadas e nos mais de suspensão da prestação de trabalho por impedimento dos trabalhadores, nos quais às empresas seja imposta a obrigação de remunerar ou indemnizar, as empresas poderão descontar, no valor das prestações a satisfazer, tudo o que os trabalhadores puderem receber de outra origem, a título de privação de remuneração ou de reparação.
 
-###### Art. 203.º Em regra, as empresas são obrigadas a garantir prèviamente o pagamento das prestações devidas aos trabalhadores pelas diversas eventualidades previstas no presente título.
+Art. 203.º Em regra, as empresas são obrigadas a garantir prèviamente o pagamento das prestações devidas aos trabalhadores pelas diversas eventualidades previstas no presente título.
 
-###### Art. 204.º - 1. A transferência da responsabilidade patronal pelos encargos provenientes dos diversos factos previstos neste título para uma sociedade de seguros é permitida e deve abranger todos os riscos que possam provir de alguma daquelas eventualidades.
+Art. 204.º - 1. A transferência da responsabilidade patronal pelos encargos provenientes dos diversos factos previstos neste título para uma sociedade de seguros é permitida e deve abranger todos os riscos que possam provir de alguma daquelas eventualidades.
 
 2. A transferência de responsabilidade a que se refere o parágrafo anterior é obrigatória para as empresas que habitualmente empreguem 50 ou mais trabalhadores, salvo se caucionarem a sua responsabilidade.
 
-###### Art. 205.º - 1. A caução da responsabilidade patronal pode ser prestada por depósito de capital, por afectação de imóveis ou por hipoteca.
+Art. 205.º - 1. A caução da responsabilidade patronal pode ser prestada por depósito de capital, por afectação de imóveis ou por hipoteca.
 
 2. O capital pode ser constituído por dinheiro ou por títulos da dívida pública.
 
@@ -1663,13 +1679,13 @@ d) Desenvolver o ensino profissional e geral, quer instituindo escolas e outras 
 
 6. Só no caso de os bens arrematados em execução serem insuficientes para o pagamento da quantia exequenda e não haver outros bens penhoráveis a Inspecção de Seguros, a requisição de juiz de causa, completará pelas forças de caução o capital necessário para o pagamento das indemnizações ou pensões devidas pela empresa executada.
 
-###### Art. 206.º Cessa a obrigação de prestar a caução, e esta pode ser levantada logo que a empresa transfira para uma sociedade de seguros a sua responsabilidade pelo pagamento das indemnizações, pensões e mais encargos.
+Art. 206.º Cessa a obrigação de prestar a caução, e esta pode ser levantada logo que a empresa transfira para uma sociedade de seguros a sua responsabilidade pelo pagamento das indemnizações, pensões e mais encargos.
 
-###### Art. 207.º Os créditos por salários e por quaisquer indemnizações e pensões devidas aos trabalhadores gozam de privilégio mobiliário geral.
+Art. 207.º Os créditos por salários e por quaisquer indemnizações e pensões devidas aos trabalhadores gozam de privilégio mobiliário geral.
 
 ### CAPÍTULO II — Assistência médica em geral
 
-###### Art. 208.º - 1. Todos os trabalhadores têm direito à necessária assistência médica, que lhes será prestada gratuitamente pela empresa, nos termos deste código.
+Art. 208.º - 1. Todos os trabalhadores têm direito à necessária assistência médica, que lhes será prestada gratuitamente pela empresa, nos termos deste código.
 
 2. A assistência referida no parágrafo anterior compreende:
 
@@ -1685,7 +1701,7 @@ e) Eventualmente, a manutenção de um hospital ou posto médico.
 
 3. A assistência aos trabalhadores abrange os seus familiares que, nos termos deste código, vivam em sua companhia.
 
-###### Art. 209.º - 1. A assistência médica aos trabalhadores pode ser prestada através de serviços médicos privativos de cada empresa ou de grupos de empresas ou pelos serviços de saúde e higiene do Estado, nos termos das disposições do presente capítulo.
+Art. 209.º - 1. A assistência médica aos trabalhadores pode ser prestada através de serviços médicos privativos de cada empresa ou de grupos de empresas ou pelos serviços de saúde e higiene do Estado, nos termos das disposições do presente capítulo.
 
 2. Os serviços médicos privativos das empresas serão organizados pela forma seguinte:
 
@@ -1701,15 +1717,15 @@ c) Postos médicos, quando as empresas empreguem menos de 500 trabalhadores.
 
 5. Sempre que uma empresa tenha ao seu serviço mais de 1000 trabalhadores distribuídos por diferentes locais compreendidos numa área de raio inferior a 60 km, a empresa é obrigada a manter hospital particular, independentemente da obrigação de manter os postos médicos necessários, nos locais distantes onde eles devam existir.
 
-###### Art. 210.º - 1. Nos hospitais de 1.ª classe deve estar sempre presente um médico que possa, a todo o momento, não só assistir aos doentes internados, como ainda prestar os socorros urgentes aos doentes que, por virtude de acidente, doença súbita ou indisposição, tenham de se dirigir ao hospital.
+Art. 210.º - 1. Nos hospitais de 1.ª classe deve estar sempre presente um médico que possa, a todo o momento, não só assistir aos doentes internados, como ainda prestar os socorros urgentes aos doentes que, por virtude de acidente, doença súbita ou indisposição, tenham de se dirigir ao hospital.
 
 2. Os hospitais de 2.ª classe devem ser visitados pelo médico responsável, pelo menos, três vezes por semana.
 
 3. Os postos médicos devem ser visitados pelo médico responsável, pelo menos, semanalmente.
 
-###### Art. 211.º As empresas que empreguem habitualmente mais de 100 trabalhadores são obrigadas a instalar e a manter no local do trabalho um posto médico.
+Art. 211.º As empresas que empreguem habitualmente mais de 100 trabalhadores são obrigadas a instalar e a manter no local do trabalho um posto médico.
 
-###### Art. 212.º - 1. As empresas que empregarem normalmente menos de 100 trabalhadores não são obrigadas a manter serviços médicos privativos, em qualquer das formas indicadas no parágrafo 2 do artigo 209.º
+Art. 212.º - 1. As empresas que empregarem normalmente menos de 100 trabalhadores não são obrigadas a manter serviços médicos privativos, em qualquer das formas indicadas no parágrafo 2 do artigo 209.º
 
 2. Os trabalhadores das empresas referidas no parágrafo anterior serão tratados gratuitamente nos estabelecimentos hospitalares e nos mais organismos de assistência médica do Estado onde forem apresentados.
 
@@ -1717,43 +1733,43 @@ c) Postos médicos, quando as empresas empreguem menos de 500 trabalhadores.
 
 4. São isentos do pagamento de taxas de assistência e de quaisquer encargos por tratamento dos trabalhadores em organismos do Estado as empresas que empreguem menos de dez trabalhadores.
 
-###### Art. 213.º É permitida a associação de diversas empresas para instalação e manutenção de serviços médicos particulares, com a condição de se observarem as disposições do presente capítulo e da legislação complementar sobre o número de trabalhadores que os estabelecimentos de assistência possam socorrer e de estes serem instalados em locais adequados para fàcilmente servirem os seus fins.
+Art. 213.º É permitida a associação de diversas empresas para instalação e manutenção de serviços médicos particulares, com a condição de se observarem as disposições do presente capítulo e da legislação complementar sobre o número de trabalhadores que os estabelecimentos de assistência possam socorrer e de estes serem instalados em locais adequados para fàcilmente servirem os seus fins.
 
-###### Art. 214.º - 1. Nos casos especiais que justifiquem a dispensa de instalação e manutenção de serviços médicos privativos das empresas, havendo algum organismo de assistência do Estado a menos de 20 km do local do trabalho, poderão as empresas que empreguem mais de 100 trabalhadores ser dispensadas da obrigação de instalar e de manter serviços médicos particulares, nos termos do presente capítulo.
+Art. 214.º - 1. Nos casos especiais que justifiquem a dispensa de instalação e manutenção de serviços médicos privativos das empresas, havendo algum organismo de assistência do Estado a menos de 20 km do local do trabalho, poderão as empresas que empreguem mais de 100 trabalhadores ser dispensadas da obrigação de instalar e de manter serviços médicos particulares, nos termos do presente capítulo.
 
 2. Ao governador do distrito respectivo compete conceder a dispensa a que se refere o parágrafo anterior, atendendo ao número de trabalhadores da empresa e ao apetrechamento e à capacidade do organismo de assistência médica do Estado, obrigando-se prèviamente a empresa a pagar as respectivas taxas de assistência e a apresentar os trabalhadores doentes nos organismos do Estado onde devam ser tratados.
 
 3. As empresas dispensadas de manterem serviços médicos privativos, nos termos do presente artigo, pagarão por cada trabalhador a taxa mensal fixado nos regulamentos provinciais.
 
-###### Art. 215.º - 1. Em todos os casos, nos locais distantes onde trabalhem permanentemente mais de 100 trabalhadores, as empresas, independentemente das demais obrigações impostas nesta secção, deverão instalar um posto médico.
+Art. 215.º - 1. Em todos os casos, nos locais distantes onde trabalhem permanentemente mais de 100 trabalhadores, as empresas, independentemente das demais obrigações impostas nesta secção, deverão instalar um posto médico.
 
 2. Ainda quando a assistência médica aos trabalhadores deva ser prestada pelo Estado, as empresas têm sempre o dever de lhes prestar socorros de urgência.
 
-###### Art. 216.º Os trabalhadores empregados em serviços públicos ou das autarquias locais serão tratados gratuitamente nos organismos de assistência do Estado.
+Art. 216.º Os trabalhadores empregados em serviços públicos ou das autarquias locais serão tratados gratuitamente nos organismos de assistência do Estado.
 
-###### Art. 217.º - 1. A taxa de assistência será paga na forma que vier a ser determinada e terá o destino que lhe for assinado nos regulamentos a publicar em cada província.
+Art. 217.º - 1. A taxa de assistência será paga na forma que vier a ser determinada e terá o destino que lhe for assinado nos regulamentos a publicar em cada província.
 
 2. Na falta de pagamento voluntário, a taxa de assistência será cobrada coercivamente pelas execuções fiscais.
 
-###### Art. 218.º Os trabalhadores que não possam ser convenientemente tratados nos serviços médicos particulares serão apresentados nos organismos de assistência médica do Estado, correndo por conta da empresa os encargos do respectivo tratamento, se do pagamento deles não estiver isenta.
+Art. 218.º Os trabalhadores que não possam ser convenientemente tratados nos serviços médicos particulares serão apresentados nos organismos de assistência médica do Estado, correndo por conta da empresa os encargos do respectivo tratamento, se do pagamento deles não estiver isenta.
 
-###### Art. 219.º - 1. Quando as empresas sejam dotadas de serviços médicos particulares, os médicos responsáveis ou aqueles que os substituírem são obrigados a visitar os trabalhadores da empresa, pelo menos uma vez por mês, a fim de verificarem o estado de saúde e de robustez dos trabalhadores, de harmonia com as normas do parágrafo 2 e suas alíneas a), b) e c) do artigo 17.º
+Art. 219.º - 1. Quando as empresas sejam dotadas de serviços médicos particulares, os médicos responsáveis ou aqueles que os substituírem são obrigados a visitar os trabalhadores da empresa, pelo menos uma vez por mês, a fim de verificarem o estado de saúde e de robustez dos trabalhadores, de harmonia com as normas do parágrafo 2 e suas alíneas a), b) e c) do artigo 17.º
 
 2. Os médicos responsáveis deverão ainda visitar os alojamentos dos trabalhadores, verificando se se acham limpos e higiénicos e se têm a capacidade suficiente para os trabalhadores neles alojados. Devem também os mesmos médicos verificar as condições de execução do trabalho, quanto a higiene e prevenção de acidentes, e verificar a qualidade e quantidade de alimentação dos trabalhadores.
 
 3. Nos casos em que a assistência médica seja prestada pelo Estado, mediante o pagamento das respectivas taxas, e em relação aos serviços públicos e municipais, as funções atribuídas nos dois parágrafos anteriores aos médicos responsáveis serão exercidas pelo delegado de saúde ou pelo seu subdelegado.
 
-###### Art. 220.º - 1. Os serviços médicos particulares das empresas deverão possuir os livros necessários para se registarem os actos de assistência prestada, as ocorrências sanitárias diversas e os óbitos.
+Art. 220.º - 1. Os serviços médicos particulares das empresas deverão possuir os livros necessários para se registarem os actos de assistência prestada, as ocorrências sanitárias diversas e os óbitos.
 
 2. Os livros referidos no parágrafo anterior serão escriturados pelo médico responsável ou sob sua orientação e fiscalização.
 
-###### Art. 221.º Nenhum contrato de trabalho será visado, nos termos do artigo 16.º, sem que se mostre que o trabalhador foi submetido às vacinações ou revacinações prescritas nas leis ou nos regulamentos de saúde.
+Art. 221.º Nenhum contrato de trabalho será visado, nos termos do artigo 16.º, sem que se mostre que o trabalhador foi submetido às vacinações ou revacinações prescritas nas leis ou nos regulamentos de saúde.
 
-###### Art. 222.º O governo de cada província regulamentará a matéria constante do presente capítulo e nomeadamente as condições de instalação e de funcionamento dos serviços médicos privativos das empresas.
+Art. 222.º O governo de cada província regulamentará a matéria constante do presente capítulo e nomeadamente as condições de instalação e de funcionamento dos serviços médicos privativos das empresas.
 
 ### CAPÍTULO III — Protecção da maternidade
 
-###### Art. 223.º - 1. As empresas são obrigadas a prestar às mulheres que devam ser qualificadas como suas trabalhadoras efectivas, nos termos do presente código, os necessários cuidados médicos nos casos de gravidez, parto e suas consequências.
+Art. 223.º - 1. As empresas são obrigadas a prestar às mulheres que devam ser qualificadas como suas trabalhadoras efectivas, nos termos do presente código, os necessários cuidados médicos nos casos de gravidez, parto e suas consequências.
 
 2. Os cuidados médicos referidos no parágrafo anterior compreendem:
 
@@ -1761,11 +1777,11 @@ a) A assistência antes, durante e depois do parto;
 
 b) A hospitalização, quando necessária.
 
-###### Art. 224.º - 1. Por ocasião do parto, as trabalhadoras efectivas são dispensadas da prestação de quaisquer serviços durante 30 dias, sem que esse facto importe suspensão do contrato ou perda ou diminuição de quaisquer direitos para a trabalhadora.
+Art. 224.º - 1. Por ocasião do parto, as trabalhadoras efectivas são dispensadas da prestação de quaisquer serviços durante 30 dias, sem que esse facto importe suspensão do contrato ou perda ou diminuição de quaisquer direitos para a trabalhadora.
 
 2. A dispensa a que se refere o parágrafo 1 do presente artigo poderá ser elevada até três meses, mediante parecer do médico assistente, devidamente comprovado, mas nesse caso a trabalhadora só terá direito a metade do salário normal, pelo período excedente aos primeiros 30 dias, ressalvadas as disposições aplicáveis da legislação sobre previdência.
 
-###### Art. 225.º - 1. A gravidez e o parto em caso algum constituem justa causa de despedimento.
+Art. 225.º - 1. A gravidez e o parto em caso algum constituem justa causa de despedimento.
 
 2. Durante o período da dispensa do trabalho por ocasião do parto a trabalhadora não poderá ser despedida, ainda que se verifique a existência de justa causa.
 
@@ -1773,25 +1789,25 @@ b) A hospitalização, quando necessária.
 
 4. A mulher que se encontre em estado de gravidez ou esteja a aleitar o filho não pagará qualquer compensação, ainda que se despeça sem aviso prévio.
 
-###### Art. 226.º A mulher que amamenta o filho tem, para esse fim, o direito de interromper o trabalho, por duas vezes e durante meia hora de cada vez, sem diminuição de salário.
+Art. 226.º A mulher que amamenta o filho tem, para esse fim, o direito de interromper o trabalho, por duas vezes e durante meia hora de cada vez, sem diminuição de salário.
 
-###### Art. 227.º Não recebendo abono de família, a mulher terá direito a um subsídio correspondente a dez por cento do salário, durante os cinco meses que se seguirem ao nascimento do filho, estando este vivo.
+Art. 227.º Não recebendo abono de família, a mulher terá direito a um subsídio correspondente a dez por cento do salário, durante os cinco meses que se seguirem ao nascimento do filho, estando este vivo.
 
-###### Art. 228.º Toda a trabalhadora tem direito a faltar ao trabalho durante dois dias em cada mês, sem que o facto importe suspensão do contrato e perda do respectivo salário.
+Art. 228.º Toda a trabalhadora tem direito a faltar ao trabalho durante dois dias em cada mês, sem que o facto importe suspensão do contrato e perda do respectivo salário.
 
-###### Art. 229.º Durante o período da gravidez as mulheres que desempenhem tarefas incompatíveis com o seu estado passarão a desempenhar outras que as não prejudiquem, se assim o solicitarem, sem diminuição da remuneração.
+Art. 229.º Durante o período da gravidez as mulheres que desempenhem tarefas incompatíveis com o seu estado passarão a desempenhar outras que as não prejudiquem, se assim o solicitarem, sem diminuição da remuneração.
 
-###### Art. 230.º Durante os períodos de gravidez e aleitação é aplicável a disposição do artigo 144.º, independentemente da invocação da existência de encargos familiares.
+Art. 230.º Durante os períodos de gravidez e aleitação é aplicável a disposição do artigo 144.º, independentemente da invocação da existência de encargos familiares.
 
 ### CAPÍTULO IV — Prestações em caso de doença
 
-###### Art. 231.º Os trabalhadores efectivos têm direito ao salário convencionado, como se tivessem trabalhado, nos casos de doença devidamente comprovada, pelo período em que a execução do contrato não é afectada e até à sua suspensão por motivo de doença prolongada, de harmonia com o disposto no parágrafo 2 do artigo 43.º e na alínea b) do artigo 46.º, ressalvadas as disposições aplicáveis da legislação sobre previdência.
+Art. 231.º Os trabalhadores efectivos têm direito ao salário convencionado, como se tivessem trabalhado, nos casos de doença devidamente comprovada, pelo período em que a execução do contrato não é afectada e até à sua suspensão por motivo de doença prolongada, de harmonia com o disposto no parágrafo 2 do artigo 43.º e na alínea b) do artigo 46.º, ressalvadas as disposições aplicáveis da legislação sobre previdência.
 
 ### CAPÍTULO V — Reparação dos acidentes de trabalho e das doenças profissionais
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 232.º - 1. Aos trabalhadores é atribuído o direito a serem indemnizados pelas empresas em casos de acidentes de trabalho e de doenças profissionais, segundo as disposições do presente capítulo.
+Art. 232.º - 1. Aos trabalhadores é atribuído o direito a serem indemnizados pelas empresas em casos de acidentes de trabalho e de doenças profissionais, segundo as disposições do presente capítulo.
 
 2. As eventualidades cobertas, nos termos do parágrafo anterior, são:
 
@@ -1803,7 +1819,7 @@ c) Perda total ou parcial da capacidade de ganho, sempre que se afigure como pro
 
 d) Perda dos meios de existência sofrida pela viúva e filhos, em caso de morte do chefe da família, presumindo-se que a viúva e os filhos menores de 14 anos são incapazes de angariar os meios necessários à sua subsistência.
 
-###### Art. 233.º - 1. As disposições do presente capítulo aplicam-se aos trabalhadores ocupados por empresas, explorações ou estabelecimentos de qualquer natureza, privados ou públicos.
+Art. 233.º - 1. As disposições do presente capítulo aplicam-se aos trabalhadores ocupados por empresas, explorações ou estabelecimentos de qualquer natureza, privados ou públicos.
 
 2. Todavia, as ditas disposições não são aplicáveis:
 
@@ -1815,7 +1831,7 @@ c) Aos membros da família do empregador que trabalhem exclusivamente por conta 
 
 d) Às pessoas que prestam o serviço independentemente da autoridade, direcção ou fiscalização da empresa servida.
 
-###### Art. 234.º - 1. Considera-se acidente de trabalho todo o que ocasionar ao trabalhador alguma lesão ou doença, ocorrendo por facto do trabalho ou por ocasião do trabalho, nomeadamente nos casos seguintes:
+Art. 234.º - 1. Considera-se acidente de trabalho todo o que ocasionar ao trabalhador alguma lesão ou doença, ocorrendo por facto do trabalho ou por ocasião do trabalho, nomeadamente nos casos seguintes:
 
 a) Quando ocorrer no local e durante o tempo do trabalho;
 
@@ -1843,9 +1859,9 @@ d) O que resultar da privação do uso da razão do sinistrado, permanente ou ac
 
 e) O que provier do caso de força maior, devido a forças invencíveis da natureza, independentemente de intervenção humana, e que não constitua risco normal da profissão nem se produza quando o trabalhador execute serviços expressamente ordenados pela empresa em condições de perigo manifesto.
 
-###### Art. 235.º Os trabalhadores estrangeiros que sejam vítimas de acidentes de trabalho ocorridos nalguma das províncias ultramarinas portuguesas e os seus herdeiros e representantes gozam dos mesmos direitos atribuídos neste código aos trabalhadores portugueses, mesmo quando residam fora de Portugal, se a legislação do respectivo país conceder a estes igual tratamento.
+Art. 235.º Os trabalhadores estrangeiros que sejam vítimas de acidentes de trabalho ocorridos nalguma das províncias ultramarinas portuguesas e os seus herdeiros e representantes gozam dos mesmos direitos atribuídos neste código aos trabalhadores portugueses, mesmo quando residam fora de Portugal, se a legislação do respectivo país conceder a estes igual tratamento.
 
-###### Art. 236.º - 1. A predisposição patológica da vítima do acidente não isenta a empresa da respectiva responsabilidade, senão quando for causa única da lesão ou doença manifestada após o acidente.
+Art. 236.º - 1. A predisposição patológica da vítima do acidente não isenta a empresa da respectiva responsabilidade, senão quando for causa única da lesão ou doença manifestada após o acidente.
 
 2. Se o acidente apenas agravar uma lesão ou doença anterior, já declarada, só a este agravamento se atenderá para o cálculo da indemnização, salvo se o salário da vítima já se achar reduzido em virtude da diminuição da sua capacidade de ganho.
 
@@ -1855,17 +1871,17 @@ e) O que provier do caso de força maior, devido a forças invencíveis da natur
 
 5. No caso de o sinistrado ter deformidade física ou incapacidade permanente anterior, a empresa será responsável sòmente pela diferença entre o grau de desvalorização anterior e o que for fixado, como se tudo se imputasse ao acidente.
 
-###### Art. 237.º - 1. A obrigação da reparação dos acidentes de trabalho cabe às pessoas singulares ou colectivas de direito público ou privado que utilizem o trabalho.
+Art. 237.º - 1. A obrigação da reparação dos acidentes de trabalho cabe às pessoas singulares ou colectivas de direito público ou privado que utilizem o trabalho.
 
 2. A dita obrigação cabe ao empreiteiro ou subempreiteiro que se tenha obrigado respectivamente para com o proprietário ou para com o empreiteiro a executar a obra e não estejam sob a direcção efectiva destes.
 
-###### Art. 238.º - 1. Sem prejuízo da responsabilidade da empresa, quando existir, os sinistrados ou, por subrogação legal, a empresa ou a sociedade de seguros têm, quando o acidente for produzido por dolo ou culpa de terceiros, acção contra estes, nos termos da lei geral.
+Art. 238.º - 1. Sem prejuízo da responsabilidade da empresa, quando existir, os sinistrados ou, por subrogação legal, a empresa ou a sociedade de seguros têm, quando o acidente for produzido por dolo ou culpa de terceiros, acção contra estes, nos termos da lei geral.
 
 2. Para os efeitos deste código consideram-se terceiros todos aqueles que não sejam a entidade patronal por si e nas pessoas de quem a represente na direcção do trabalho.
 
 3. Se o sinistrado receber de terceiros uma indemnização igual ou superior à devida pela empresa, ficará esta desobrigada e terá direito a ser reembolsada pelo sinistrado, e se o que o sinistrado receber de terceiros for de montante inferior ao da indemnização devida pela empresa, esta só poderá exercer o direito de reembolso em relação à parte da soma daquilo que o sinistrado recebeu de terceiros e daquilo que a empresa despendeu que exceda o quantitativo da indemnização arbitrada.
 
-###### Art. 239.º - 1. As indemnizações devidas nos casos em que dos acidentes resultem a morte do trabalhador ou uma incapacidade permanente serão pagas ou aos seus herdeiros ou à vítima sob a forma de pensão.
+Art. 239.º - 1. As indemnizações devidas nos casos em que dos acidentes resultem a morte do trabalhador ou uma incapacidade permanente serão pagas ou aos seus herdeiros ou à vítima sob a forma de pensão.
 
 2. O juiz pode autorizar o pagamento total ou parcial das indemnizações sob a forma de capital, a requerimento dos interessados, garantindo estes um emprego judicioso desse capital.
 
@@ -1875,15 +1891,15 @@ e) O que provier do caso de força maior, devido a forças invencíveis da natur
 
 5. A remição facultativa depende de homologação do tribunal, que a recusará em todos os casos em que não seja garantido um emprego judicioso de, pelo menos, três quartos do capital.
 
-###### Art. 240.º - 1. O capital resultante da remição será igual a 80 por cento do valor actual da pensão vitalícia remida, calculada pela forma legal.
+Art. 240.º - 1. O capital resultante da remição será igual a 80 por cento do valor actual da pensão vitalícia remida, calculada pela forma legal.
 
 2. O capital a remir será calculado de harmonia com as bases adoptadas para o cálculo das reservas matemáticas das sociedades de seguros.
 
 3. Nos casos de remição facultativa, sendo esta requerida e autorizada, o juiz designará dia para o sinistrado ou o seu procurador bastante receber, por termo nos autos, o capital da pensão, devendo no respectivo termo mencionar-se o nome do sinistrado e da entidade responsável e, além da quantia paga, a quantia que o sinistrado anualmente recebia como pensão.
 
-###### Art. 241.º Qualquer interessado pode requerer a revisão das pensões por incapacidade permanente, quando se verificar modificação dessa incapacidade, desde que, sobre a data da fixação da pensão ou da última revisão, tenham decorrido mais de seis meses e menos de cinco anos.
+Art. 241.º Qualquer interessado pode requerer a revisão das pensões por incapacidade permanente, quando se verificar modificação dessa incapacidade, desde que, sobre a data da fixação da pensão ou da última revisão, tenham decorrido mais de seis meses e menos de cinco anos.
 
-###### Art. 242.º - 1. As disposições do presente código são extensivas às seguintes doenças profissionais:
+Art. 242.º - 1. As disposições do presente código são extensivas às seguintes doenças profissionais:
 
 a) Intoxicação pelo chumbo, suas ligas ou compostos, com as consequências directas dessa intoxicação;
 
@@ -1901,13 +1917,13 @@ g) Dermatoses profissionais.
 
 2. As indústrias e as profissões correspondentes às doenças a que se refere o parágrafo anterior são as que constam do quadro anexo a este código.
 
-###### Art. 243.º - 1. A responsabilidade patronal pelos encargos provenientes de doenças profissionais subsiste na sua totalidade pelo espaço de um ano, a contar da data do despedimento do trabalhador, salvo nos casos em que a doença for o cancro dos radiologistas ou a a silicose, nos quais aquele prazo é elevado para cinco anos. Tratando-se de silicose de evolução retardada, o dito prazo será de dez anos.
+Art. 243.º - 1. A responsabilidade patronal pelos encargos provenientes de doenças profissionais subsiste na sua totalidade pelo espaço de um ano, a contar da data do despedimento do trabalhador, salvo nos casos em que a doença for o cancro dos radiologistas ou a a silicose, nos quais aquele prazo é elevado para cinco anos. Tratando-se de silicose de evolução retardada, o dito prazo será de dez anos.
 
 2. Se a doença se manifestar antes de extinta a responsabilidade, esta é imputável a todas as empresas, na proporção do tempo de trabalho de natureza idêntica que a cada uma delas houver sido prestado dentro dos referidos prazos.
 
 3. O trabalhador pode sempre exigir a totalidade da indemnização à última empresa, ficando esta, porém, com direito de regresso contra a anterior ou as anteriores, direito esse que poderá exercer no próprio processo em que foi condenada.
 
-###### Art. 244.º - 1. Para beneficiar das disposições deste código relativamente às doenças profissionais o trabalhador terá de provar:
+Art. 244.º - 1. Para beneficiar das disposições deste código relativamente às doenças profissionais o trabalhador terá de provar:
 
 a) Que é portador de alguma das doenças designadas no parágrafo 1 do artigo 242.º;
 
@@ -1915,13 +1931,13 @@ b) Que trabalhava habitualmente em alguma das indústrias ou exercia alguma das 
 
 2. A prova dos factos referidos no parágrafo anterior constitui presunção da relação de causalidade entre o trabalho e a doença.
 
-###### Art. 245.º As empresas responsáveis pelos encargos provenientes de acidentes de trabalho e doenças profissionais podem transferir a sua responsabilidade para sociedades legalmente autorizadas a realizar este seguro, observando-se o disposto nos artigos 204.º e seguintes.
+Art. 245.º As empresas responsáveis pelos encargos provenientes de acidentes de trabalho e doenças profissionais podem transferir a sua responsabilidade para sociedades legalmente autorizadas a realizar este seguro, observando-se o disposto nos artigos 204.º e seguintes.
 
 #### SECÇÃO II — Incapacidade e indemnizações
 
 ##### SUBSECÇÃO I — Disposições gerais
 
-###### Art. 246.º - 1. Se do acidente resultar a morte do trabalhador, haverá lugar às seguintes indemnizações:
+Art. 246.º - 1. Se do acidente resultar a morte do trabalhador, haverá lugar às seguintes indemnizações:
 
 a) Para a viúva, se o casamento se efectuou antes do acidente, uma pensão anual equivalente a 25 por cento do salário anual da vítima, enquanto se mantiver em estado de viuvez, perdendo a beneficiária o direito à pensão se viver em mancebia ou tiver porte escandaloso;
 
@@ -1935,9 +1951,9 @@ c) Não havendo filhos nem cônjuge sobrevivo, para os ascendentes e quaisquer p
 
 4. As pensões a que este artigo se refere começam a vencer-se no dia seguinte ao do falecimento.
 
-###### Art. 247.º As despesas com o funeral de um trabalhador vítima de acidente de trabalho que lhe ocasionar a morte constituem encargo da empresa, até ao limite de três semanas de salário.
+Art. 247.º As despesas com o funeral de um trabalhador vítima de acidente de trabalho que lhe ocasionar a morte constituem encargo da empresa, até ao limite de três semanas de salário.
 
-###### Art. 248.º - 1. Se o acidente ocasionar incapacidade de trabalho ao sinistrado, este terá direito a uma indemnização nos termos seguintes:
+Art. 248.º - 1. Se o acidente ocasionar incapacidade de trabalho ao sinistrado, este terá direito a uma indemnização nos termos seguintes:
 
 a) Se a incapacidade for permanente absoluta, uma pensão anual igual a 75 por cento do salário;
 
@@ -1955,25 +1971,25 @@ As pensões por incapacidade permanente começam a vencer-se no dia seguinte ao 
 
 4. As indemnizações a que têm direito os trabalhadores com salário mensal ou anual incidem sobre 1/30 ou 1/360 desses salários.
 
-###### Art. 249.º Para cálculo da desvalorização do sinistrado em caso de incapacidade parcial atender-se-á à natureza e gravidade da lesão ou doença, à profissão, ao salário e idade do sinistrado, ao grau de possibilidade da sua readaptação à mesma ou outra profissão e a todas as mais circunstâncias que possam influir na determinação da redução da sua capacidade geral de ganho.
+Art. 249.º Para cálculo da desvalorização do sinistrado em caso de incapacidade parcial atender-se-á à natureza e gravidade da lesão ou doença, à profissão, ao salário e idade do sinistrado, ao grau de possibilidade da sua readaptação à mesma ou outra profissão e a todas as mais circunstâncias que possam influir na determinação da redução da sua capacidade geral de ganho.
 
-###### Art. 250.º Os trabalhadores cujo salário diário exceder 150$00 só têm direito às indemnizações consignadas neste código até essa quantia. Todavia, é-lhes assegurado por inteiro o direito à assistência médica, independentemente do salário.
+Art. 250.º Os trabalhadores cujo salário diário exceder 150$00 só têm direito às indemnizações consignadas neste código até essa quantia. Todavia, é-lhes assegurado por inteiro o direito à assistência médica, independentemente do salário.
 
-###### Art. 251.º As pensões devidas nos casos de morte ou incapacidade permanente para o trabalho são determinadas nos termos dos artigos 246.º e 248.º, até à remuneração diária de 50$00. Se, porém, a remuneração diária execeder essa quantia, a pensão será reduzida a metade, na parte que a exceder.
+Art. 251.º As pensões devidas nos casos de morte ou incapacidade permanente para o trabalho são determinadas nos termos dos artigos 246.º e 248.º, até à remuneração diária de 50$00. Se, porém, a remuneração diária execeder essa quantia, a pensão será reduzida a metade, na parte que a exceder.
 
-###### Art. 252.º O sinistrado terá direito ao fornecimento e à renovação normal, por conta da empresa ou da companhia de seguros, dos aparelhos de prótese e ortopedia necessários para seu uso, ou a uma indemnização suplementar equivalente ao seu custo.
+Art. 252.º O sinistrado terá direito ao fornecimento e à renovação normal, por conta da empresa ou da companhia de seguros, dos aparelhos de prótese e ortopedia necessários para seu uso, ou a uma indemnização suplementar equivalente ao seu custo.
 
-###### Art. 253.º Para efeitos de cálculo das indemnizações e pensões, considera-se salário não só a remuneração efectiva do trabalhador paga em dinheiro, mas também o equivalente à alimentação e mais coisas ou direitos com valor pecuniário, quando estas prestações estejam compreendidas no ajuste do salário, nos termos dos artigos 71.º e seguintes e 76.º e seguintes.
+Art. 253.º Para efeitos de cálculo das indemnizações e pensões, considera-se salário não só a remuneração efectiva do trabalhador paga em dinheiro, mas também o equivalente à alimentação e mais coisas ou direitos com valor pecuniário, quando estas prestações estejam compreendidas no ajuste do salário, nos termos dos artigos 71.º e seguintes e 76.º e seguintes.
 
-###### Art. 254.º - 1. O cálculo da indemnização terá por base o salário percebido pelo sinistrado no dia do acidente. Se este não representar a remuneração normal, atender-se-á ao salário percebido no período de três meses anterior ao acidente.
+Art. 254.º - 1. O cálculo da indemnização terá por base o salário percebido pelo sinistrado no dia do acidente. Se este não representar a remuneração normal, atender-se-á ao salário percebido no período de três meses anterior ao acidente.
 
 2. Na falta dos elementos referidos no parágrafo anterior, o juiz fixará o salário-base por seu prudente arbítrio, tendo em atenção os salários normais dos trabalhadores da mesma categoria, os usos e costumes da terra e todas as circunstâncias que concorram para a sua justa determinação.
 
-###### Art. 255.º Para o efeito do pagamento das indemnizações, contam-se todos os dias do ano menos os domingos, salvo quanto aos trabalhadores que vençam por mês ou por ano.
+Art. 255.º Para o efeito do pagamento das indemnizações, contam-se todos os dias do ano menos os domingos, salvo quanto aos trabalhadores que vençam por mês ou por ano.
 
-###### Art. 256.º Para os trabalhadores de menos de 16 anos, as indemnizações, nos casos de incapacidade permanente ou temporária parcial, durante o período de readaptação, serão calculadas pelo salário do trabalhador válido da mesma profissão e da mesma empresa que o tiver menor, salvo se o interessado tiver maior salário.
+Art. 256.º Para os trabalhadores de menos de 16 anos, as indemnizações, nos casos de incapacidade permanente ou temporária parcial, durante o período de readaptação, serão calculadas pelo salário do trabalhador válido da mesma profissão e da mesma empresa que o tiver menor, salvo se o interessado tiver maior salário.
 
-###### Art. 257.º - 1. As empresas que não tenham feito o seguro do seu pessoal são obrigadas a caucionar a sua responsabilidade pelos encargos resultantes de acidentes de trabalho ou de doenças profissionais, por qualquer das formas estabelecidas no artigo 205.º
+Art. 257.º - 1. As empresas que não tenham feito o seguro do seu pessoal são obrigadas a caucionar a sua responsabilidade pelos encargos resultantes de acidentes de trabalho ou de doenças profissionais, por qualquer das formas estabelecidas no artigo 205.º
 
 2. Cessará a aludida obrigação se as empresas transferirem para uma sociedade de seguros o encargo do pagamento das pensões.
 
@@ -1983,13 +1999,13 @@ As pensões por incapacidade permanente começam a vencer-se no dia seguinte ao 
 
 5. Não cumprindo o responsável, proceder-se-á à execução dos seus bens.
 
-###### Art. 258.º - 1. Se as empresas deixarem de pagar qualquer pensão ou alguma das suas prestações, o tribunal autorizará a Inspecção de Seguros a proceder ao pagamento, se os juros do capital depositado o assegurarem.
+Art. 258.º - 1. Se as empresas deixarem de pagar qualquer pensão ou alguma das suas prestações, o tribunal autorizará a Inspecção de Seguros a proceder ao pagamento, se os juros do capital depositado o assegurarem.
 
 2. Quando o pagamento não puder fazer-se por este meio, a Inspecção de Seguros procederá à transferência das responsabilidades para uma sociedade de seguros.
 
 3. Sendo a caução constituída por afectação de imóveis ou por hipoteca, proceder-se-á a execução nos bens do responsável e, em seguida e pelas forças do produto realizado, à transferência prevista no parágrafo anterior.
 
-###### Art. 259.º O sinistrado perde o direito a qualquer indemnização:
+Art. 259.º O sinistrado perde o direito a qualquer indemnização:
 
 a) Se voluntàriamente agravar as suas lesões ou, pelo seu manifesto e indesculpável desleixo, contribuir para o seu agravamento;
 
@@ -2001,57 +2017,57 @@ d) Se, directamente ou por interposta pessoa, não comunicar o acidente à entid
 
 e) Se não se apresentar ao médico assistente sempre que lhe seja indicado, desde que possa deslocar-se ou lhe sejam facultados os meios de o fazer.
 
-###### Art. 260.º O direito a exigir das entidades patronais as indemnizações ou pensões fixadas neste código prescreve no prazo de um ano, a contar da data do acidente, se este ocasionar a morte ou determinar incapacidade temporária, e da data da alta, se determinar incapacidade permanente. Este prazo não começará, porém, nem correrá, se a entidade patronal, não tendo transferido a responsabilidade para uma companhia seguradora, conservar ao seu serviço o sinistrado depois do acidente e enquanto o conservar.
+Art. 260.º O direito a exigir das entidades patronais as indemnizações ou pensões fixadas neste código prescreve no prazo de um ano, a contar da data do acidente, se este ocasionar a morte ou determinar incapacidade temporária, e da data da alta, se determinar incapacidade permanente. Este prazo não começará, porém, nem correrá, se a entidade patronal, não tendo transferido a responsabilidade para uma companhia seguradora, conservar ao seu serviço o sinistrado depois do acidente e enquanto o conservar.
 
-###### Art. 261.º As pensões já fixadas por decisão judicial ou por acordo das partes, quer vencidas quer vincendas, prescrevem no prazo de três anos, a partir do último pagamento. O prazo contar-se-á do trânsito em julgado da sentença ou da homologação do acordo das partes.
+Art. 261.º As pensões já fixadas por decisão judicial ou por acordo das partes, quer vencidas quer vincendas, prescrevem no prazo de três anos, a partir do último pagamento. O prazo contar-se-á do trânsito em julgado da sentença ou da homologação do acordo das partes.
 
-###### Art. 262.º A prescrição não começa nem corre se a entidade patronal, não tendo transferido a sua responsabilidade para uma companhia de seguros, conservar ao seu serviço o sinistrado depois do acidente e enquanto durar essa situação.
+Art. 262.º A prescrição não começa nem corre se a entidade patronal, não tendo transferido a sua responsabilidade para uma companhia de seguros, conservar ao seu serviço o sinistrado depois do acidente e enquanto durar essa situação.
 
-###### Art. 263.º A prescrição interrompe-se sempre que o sinistrado aceitar das entidades responsáveis qualquer indemnização em dinheiro ou outros valores, a troco do que legalmente lhe for devido.
+Art. 263.º A prescrição interrompe-se sempre que o sinistrado aceitar das entidades responsáveis qualquer indemnização em dinheiro ou outros valores, a troco do que legalmente lhe for devido.
 
 #### SECÇÃO III — Participação dos acidentes e tratamento dos sinistrados
 
 ##### SUBSECÇÃO I — Notícia do acidente
 
-###### Art. 264.º - 1. Ocorrido um acidente de trabalho, o sinistrado, por si ou por interposta pessoa, deverá dar notícia dele, à entidade patronal ou a quem a represente na direcção do trabalho, nas 48 horas seguintes ao acidente ou ao aparecimento da lesão ou manifestação da doença, no caso do parágrafo 2 do artigo 234.º
+Art. 264.º - 1. Ocorrido um acidente de trabalho, o sinistrado, por si ou por interposta pessoa, deverá dar notícia dele, à entidade patronal ou a quem a represente na direcção do trabalho, nas 48 horas seguintes ao acidente ou ao aparecimento da lesão ou manifestação da doença, no caso do parágrafo 2 do artigo 234.º
 
 2. Ocorrendo o acidente em circunstâncias que dificultem a comunicação, ao juiz competirá apreciar se a demora deve ser relevada.
 
 3. Os trabalhadores que presenceiem algum acidente ou dele tenham conhecimento devem diligenciar para que ele seja participado no mais curto espaço de tempo à entidade patronal.
 
-###### Art. 265.º As entidades patronais que tenham feito o seguro do seu pessoal devem transmitir por escrito a comunicação dos acidentes à instituição seguradora no prazo estabelecido na respectiva apólice.
+Art. 265.º As entidades patronais que tenham feito o seguro do seu pessoal devem transmitir por escrito a comunicação dos acidentes à instituição seguradora no prazo estabelecido na respectiva apólice.
 
-###### Art. 266.º As empresas que não tenham transferido a sua responsabilidade, bem como as que tenham serviços médicos particulares onde os sinistrados sejam tratados, ainda que tenham feito o seguro do pessoal, devem remeter as participações para o tribunal competente nos quatro dias seguintes à comunicação a que se refere o artigo 264.º ou à data em que tiverem conhecimento do acidente.
+Art. 266.º As empresas que não tenham transferido a sua responsabilidade, bem como as que tenham serviços médicos particulares onde os sinistrados sejam tratados, ainda que tenham feito o seguro do pessoal, devem remeter as participações para o tribunal competente nos quatro dias seguintes à comunicação a que se refere o artigo 264.º ou à data em que tiverem conhecimento do acidente.
 
-###### Art. 267.º - 1. Os serviços do Estado, os corpos administrativos, as pessoas colectivas de utilidade pública administrativa, as companhias de caminhos de ferro, as entidades seguradoras e as entidades patronais que tenham provado possuir capacidade económica suficiente para garantir o risco tomado por conta própria sòmente participarão, no prazo de oito dias a contar da data da morte ou da alta, os acidentes ou as doenças profissionais de que haja resultado para os sinistrados a morte ou a incapacidade permanente absoluta ou parcial.
+Art. 267.º - 1. Os serviços do Estado, os corpos administrativos, as pessoas colectivas de utilidade pública administrativa, as companhias de caminhos de ferro, as entidades seguradoras e as entidades patronais que tenham provado possuir capacidade económica suficiente para garantir o risco tomado por conta própria sòmente participarão, no prazo de oito dias a contar da data da morte ou da alta, os acidentes ou as doenças profissionais de que haja resultado para os sinistrados a morte ou a incapacidade permanente absoluta ou parcial.
 
 2. As ditas entidades remeterão, porém, até ao dia 15 de cada mês, um mapa, em duplicado, donde constem todos os acidentes de trabalho e as doenças profissionais que lhes tenham sido participados no mês anterior, devendo o duplicado ser-lhes restituído com o recibo da entrega do respectivo escrivão.
 
-###### Art. 268.º - 1. As participações de acidentes de trabalho podem ser feitas, em todos os casos, nos prazos referidos no artigo 260.º, pelos sinistrados, pessoas de sua família ou outros seus representantes, ou, nos casos de morte, pelos seus sucessores no respectivo direito.
+Art. 268.º - 1. As participações de acidentes de trabalho podem ser feitas, em todos os casos, nos prazos referidos no artigo 260.º, pelos sinistrados, pessoas de sua família ou outros seus representantes, ou, nos casos de morte, pelos seus sucessores no respectivo direito.
 
 2. Se os sinistrados forem incapazes ou estiverem internados em algum estabelecimento hospitalar ou da assistência pública, as participações deverão ser feitas por qualquer autoridade ou pelo director do respectivo estabelecimento.
 
-###### Art. 269.º - 1. Todos os hospitais, incluindo os dos serviços particulares das empresas, são obrigados a participar, imediata e telegràficamente, se necessário, ao tribunal competente o falecimento de qualquer sinistrado, e da mesma forma procederá qualquer pessoa a cujo cuidado ele estiver.
+Art. 269.º - 1. Todos os hospitais, incluindo os dos serviços particulares das empresas, são obrigados a participar, imediata e telegràficamente, se necessário, ao tribunal competente o falecimento de qualquer sinistrado, e da mesma forma procederá qualquer pessoa a cujo cuidado ele estiver.
 
 2. Se o falecimento se der quando o sinistrado estiver ao cuidado de entidades não abrangidas no artigo 257.º, a comunicação telegráfica não dispensa a participação escrita, no prazo de 48 horas.
 
-###### Art. 270.º As participações dos acidentes serão feitas em duplicado e deverão ser acompanhadas dos boletins de exame médico.
+Art. 270.º As participações dos acidentes serão feitas em duplicado e deverão ser acompanhadas dos boletins de exame médico.
 
 ##### SUBSECÇÃO II — Socorros aos sinistrados e seu tratamento
 
-###### Art. 271.º As empresas são obrigadas a prestar aos sinistrados os primeiros socorros médicos e farmacêuticos, assegurando-lhes o cómodo transporte até ao ponto de socorros mais próximo, e indicando-lhes logo quem é o médico assistente.
+Art. 271.º As empresas são obrigadas a prestar aos sinistrados os primeiros socorros médicos e farmacêuticos, assegurando-lhes o cómodo transporte até ao ponto de socorros mais próximo, e indicando-lhes logo quem é o médico assistente.
 
-###### Art. 272.º Tendo as empresas os seus serviços médicos particulares, nos termos deste código, e se neles puderem os sinistrados ser tratados convenientemente, neles lhes será prestado o tratamento adequado.
+Art. 272.º Tendo as empresas os seus serviços médicos particulares, nos termos deste código, e se neles puderem os sinistrados ser tratados convenientemente, neles lhes será prestado o tratamento adequado.
 
-###### Art. 273.º O médico responsável poderá determinar o internamento dos sinistrados em hospital especializado ou noutro devidamente apetrechado, quando o repute necessário para se garantir a vida ou a integridade física ou mental dos sinistrados, se no hospital da empresa não for possível tratá-los convenientemente.
+Art. 273.º O médico responsável poderá determinar o internamento dos sinistrados em hospital especializado ou noutro devidamente apetrechado, quando o repute necessário para se garantir a vida ou a integridade física ou mental dos sinistrados, se no hospital da empresa não for possível tratá-los convenientemente.
 
-###### Art. 274.º - 1. Os sinistrados deverão ser internados em hospital, de preferência especializado, sempre que o médico assistente o julgue necessário.
+Art. 274.º - 1. Os sinistrados deverão ser internados em hospital, de preferência especializado, sempre que o médico assistente o julgue necessário.
 
 2. Os sinistrados têm o dever de se submeterem às intervenções cirúrgicas e tratamentos reputados indispensáveis e que forem prescritos pelo médico assistente, sob pena de lhes ser aplicável a disposição do artigo 259.º, nos termos da alínea b) do mesmo artigo.
 
 3. O disposto no parágrafo anterior não é aplicável nos casos em que a intervenção cirúrgica não tenha carácter de urgência e naqueles em que não haja concordância dos pareceres dos médicos assistente e hospitalar, nos quais, a requerimento de qualquer das partes interessadas, se efectuará exame na pessoa do sinistrado, com intervenção do perito do tribunal, devendo, quando possível, intervir também aqueles médicos. Em face do exame, o juiz decidirá se o sinistrado tem ou não o dever de se submeter à intervenção ou ao tratamento prescritos pelo médico assistente.
 
-###### Art. 275.º - 1. O sinistrado pode recorrer a qualquer médico ou ao tratamento ou internamento hospitalar:
+Art. 275.º - 1. O sinistrado pode recorrer a qualquer médico ou ao tratamento ou internamento hospitalar:
 
 a) Se a empresa não tiver serviços médicos particulares e a entidade responsável não lhe nomear logo médico assistente ou enquanto o não fizer;
 
@@ -2061,35 +2077,35 @@ c) Quando lhe for dada alta sem estar curado.
 
 2. As partes, quando não se conformem com qualquer resolução do médico assistente, poderão requerer ao juiz exame, no prazo de cinco dias, o qual se realizará de harmonia com o disposto no parágrafo 3 do artigo anterior.
 
-###### Art. 276.º Nos casos de divergência dos pareceres dos médicos assistente e hospitalar, ou quando não houver acordo dos interessados, o juiz decidirá, mediante exame a que mandará proceder.
+Art. 276.º Nos casos de divergência dos pareceres dos médicos assistente e hospitalar, ou quando não houver acordo dos interessados, o juiz decidirá, mediante exame a que mandará proceder.
 
-###### Art. 277.º O juiz, sempre que o entender necessário, pode ordenar os exames na pessoa do sinistrado pela forma que julgar mais conveniente e requisitar exames laboratoriais, radiológicos e outros, ou mandar que a eles se proceda, ficando a cargo das entidades responsáveis as respectivas despesas.
+Art. 277.º O juiz, sempre que o entender necessário, pode ordenar os exames na pessoa do sinistrado pela forma que julgar mais conveniente e requisitar exames laboratoriais, radiológicos e outros, ou mandar que a eles se proceda, ficando a cargo das entidades responsáveis as respectivas despesas.
 
-###### Art. 278.º Os encargos provenientes da hospitalização e dos tratamentos de qualquer sinistrado serão pagos pelas entidades responsáveis, as quais, sendo caso disso, deverão assinar o competente termo de responsabilidade.
+Art. 278.º Os encargos provenientes da hospitalização e dos tratamentos de qualquer sinistrado serão pagos pelas entidades responsáveis, as quais, sendo caso disso, deverão assinar o competente termo de responsabilidade.
 
-###### Art. 279.º - 1. O juiz, sempre que o julgue indispensável, mediante exame a que mandará proceder e tendo em atenção as mais circunstâncias e elementos de que disponha, pode determinar que o sinistrado seja internado em qualquer estabelecimento hospitalar ou aí seja tratado, ou que os socorros clínicos sejam prestados pelo médico que designar.
+Art. 279.º - 1. O juiz, sempre que o julgue indispensável, mediante exame a que mandará proceder e tendo em atenção as mais circunstâncias e elementos de que disponha, pode determinar que o sinistrado seja internado em qualquer estabelecimento hospitalar ou aí seja tratado, ou que os socorros clínicos sejam prestados pelo médico que designar.
 
 2. Para o efeito do pagamento das despesas correspondentes pelas entidades responsáveis, deverão os referidos médicos ou os directores dos aludidos estabelecimentos juntar ao respectivo processo as notas dos honorários clínicos e das despesas efectuadas.
 
-###### Art. 280.º - 1. No começo do tratamento do sinistrado o médico assistente passar-lhe-á um boletim de exame, em que descreverá as doenças ou lesões que lhe encontrar e a sintomatologia apresentada, relacionando-as com o acidente.
+Art. 280.º - 1. No começo do tratamento do sinistrado o médico assistente passar-lhe-á um boletim de exame, em que descreverá as doenças ou lesões que lhe encontrar e a sintomatologia apresentada, relacionando-as com o acidente.
 
 2. No fim do tratamento o médico assistente passará ao sinistrado um boletim de alta, em que declare a causa da cessação do tratamento, o grau de incapacidade permanente ou temporária e as razões justificativas das suas conclusões.
 
 3. Os boletins referidos nos dois parágrafos anteriores serão passados em duplicado, sendo um dos duplicados entregue ao sinistrado. O outro duplicado será enviado ao tribunal no prazo de três dias, salvo se se tratar de sinistrados a cargo de entidades seguradoras e não abrangidos pelo artigo 267.º, casos em que os duplicados só serão enviados ao tribunal quando este deva proceder a exame médico, ou a requisição do juiz.
 
-###### Art. 281.º Os médicos são obrigados a passar os atestados de que os sinistrados careçam quando, por alguma forma, os tenham omitido, sendo gratuita a passagem desses atestados, os quais ficam isentos de imposto do selo.
+Art. 281.º Os médicos são obrigados a passar os atestados de que os sinistrados careçam quando, por alguma forma, os tenham omitido, sendo gratuita a passagem desses atestados, os quais ficam isentos de imposto do selo.
 
-###### Art. 282.º As entidades responsáveis, os hospitais e estabelecimentos análogos fornecerão todos os esclarecimentos, documentos e mais elementos relativos a tratamentos feitos a sinistrados, quando lhes sejam requisitados pelos tribunais.
+Art. 282.º As entidades responsáveis, os hospitais e estabelecimentos análogos fornecerão todos os esclarecimentos, documentos e mais elementos relativos a tratamentos feitos a sinistrados, quando lhes sejam requisitados pelos tribunais.
 
-###### Art. 283.º As despesas de transporte dos sinistrados nas suas deslocações para tratamento ou para comparecerem no tribunal, quando para esse fim sejam notificados, constituem encargo das entidades responsáveis, nos casos em que os sinistrados não possam deslocar-se a pé.
+Art. 283.º As despesas de transporte dos sinistrados nas suas deslocações para tratamento ou para comparecerem no tribunal, quando para esse fim sejam notificados, constituem encargo das entidades responsáveis, nos casos em que os sinistrados não possam deslocar-se a pé.
 
 ### CAPÍTULO VI — Relações profissionais
 
-###### Art. 284.º - 1. A organização profissional não é obrigatória.
+Art. 284.º - 1. A organização profissional não é obrigatória.
 
 2. Os organismos de representação profissional integram-se na organização corporativa da Nação.
 
-###### Art. 285.º - 1. Os organismos referidos no parágrafo 2 do artigo anterior têm personalidade jurídica e representam legalmente toda a categoria de trabalhadores da mesma profissão, estejam ou não neles inscritos.
+Art. 285.º - 1. Os organismos referidos no parágrafo 2 do artigo anterior têm personalidade jurídica e representam legalmente toda a categoria de trabalhadores da mesma profissão, estejam ou não neles inscritos.
 
 2. Os mesmos organismos exercem, nos termos das leis, funções de interesse público, competindo-lhes, nomeadamente:
 
@@ -2099,59 +2115,59 @@ b) Ajustar convenções colectivas de trabalho, obrigatórias para todos os que 
 
 c) Cobrar dos seus associados as quotas necessárias à sua manutenção.
 
-###### Art. 286.º - 1. Os ditos organismos possuirão serviços gratuitos de colocação, devidamente regulamentados.
+Art. 286.º - 1. Os ditos organismos possuirão serviços gratuitos de colocação, devidamente regulamentados.
 
 2. Poderá ser autorizada a fusão de serviços de colocação pertencentes a organismos afins.
 
-###### Art. 287.º Os trabalhadores pertencentes a categorias profissionais organizadas devem possuir uma carteira profissional, que será passada pelo organismo respectivo, a requerimento do interessado.
+Art. 287.º Os trabalhadores pertencentes a categorias profissionais organizadas devem possuir uma carteira profissional, que será passada pelo organismo respectivo, a requerimento do interessado.
 
-###### Art. 288.º Compete aos governadores das províncias regulamentar as matérias do presente capítulo e aprovar os regulamentos das carteiras profissionais para cada categoria organizada.
+Art. 288.º Compete aos governadores das províncias regulamentar as matérias do presente capítulo e aprovar os regulamentos das carteiras profissionais para cada categoria organizada.
 
 ## TÍTULO VIII — Da aplicação da legislação do trabalho
 
 ### CAPÍTULO I — Órgãos jurisdicionais
 
-###### Art. 289.º - 1. As questões suscitadas na interpretação ou na execução das convenções colectivas e dos contratos individuais de trabalho, e bem assim as que possam surgir entre empresas e trabalhadores no cumprimento das disposições do código e respectiva legislação complementar e das leis de protecção do trabalho em geral, serão julgadas pelos tribunais do trabalho.
+Art. 289.º - 1. As questões suscitadas na interpretação ou na execução das convenções colectivas e dos contratos individuais de trabalho, e bem assim as que possam surgir entre empresas e trabalhadores no cumprimento das disposições do código e respectiva legislação complementar e das leis de protecção do trabalho em geral, serão julgadas pelos tribunais do trabalho.
 
 2. Os juízes do trabalho exercem também funções conciliatórias e arbitrais nos conflitos entre empresas e trabalhadores, em especial quando existam meros contratos singulares de trabalho ou não tenha de se fazer aplicação de direito estrito, podendo ser assistidos de representantes dos organismos de representação profissional a que pertençam as partes em litígio.
 
-###### Art. 290.º Os representantes do Ministério Público junto dos tribunais do trabalho são os protectores oficiosos dos trabalhadores.
+Art. 290.º Os representantes do Ministério Público junto dos tribunais do trabalho são os protectores oficiosos dos trabalhadores.
 
-###### Art. 291.º A constituição e a organização dos tribunais de trabalho são as que se acharem estabelecidas nas leis em vigor.
+Art. 291.º A constituição e a organização dos tribunais de trabalho são as que se acharem estabelecidas nas leis em vigor.
 
 ### CAPÍTULO II — Inspecção do Trabalho
 
-###### Art. 292.º - 1. A Inspecção do Trabalho desempenha funções de fiscalização, consultivas, educativas e técnicas.
+Art. 292.º - 1. A Inspecção do Trabalho desempenha funções de fiscalização, consultivas, educativas e técnicas.
 
 2. Sem prejuízo das atribuições que lhe são cometidas na legislação aplicável, à Inspecção do Trabalho compete, de maneira geral, verificar o cumprimento das disposições legais, regulamentares e contratuais sobre o trabalho, nomeadamente do presente código e da regulamentação complementar.
 
 3. Compete-lhe ainda colaborar na elaboração da legislação do trabalho, em geral, e em especial da complementar e regulamentar.
 
-###### Art. 293.º É dever fundamental da Inspecção do Trabalho assegurar, através de visitas frequentes aos locais de trabalho, que as leis, regulamentos e contratos de trabalho em vigor, em matéria de condições de trabalho e de protecção dos trabalhadores, sejam inteiramente compreendidos e executados, tanto pelas empresas, como pelos trabalhadores interessados, e, nos casos de inobservância, fornecer informações técnicas às empresas e aos trabalhadores quanto aos meios mais apropriados e mais eficazes para a observância das disposições legais e regulamentares.
+Art. 293.º É dever fundamental da Inspecção do Trabalho assegurar, através de visitas frequentes aos locais de trabalho, que as leis, regulamentos e contratos de trabalho em vigor, em matéria de condições de trabalho e de protecção dos trabalhadores, sejam inteiramente compreendidos e executados, tanto pelas empresas, como pelos trabalhadores interessados, e, nos casos de inobservância, fornecer informações técnicas às empresas e aos trabalhadores quanto aos meios mais apropriados e mais eficazes para a observância das disposições legais e regulamentares.
 
-###### Art. 294.º Os encarregados da fiscalização do trabalho, sempre que verifiquem alguma infracção à legislação do trabalho, devem levantar os competentes autos de transgressão ou fazer a devida participação, sem prejuízo do disposto no artigo seguinte.
+Art. 294.º Os encarregados da fiscalização do trabalho, sempre que verifiquem alguma infracção à legislação do trabalho, devem levantar os competentes autos de transgressão ou fazer a devida participação, sem prejuízo do disposto no artigo seguinte.
 
-###### Art. 295.º - 1. Fica ao prudente e livre critério dos inspectores do trabalho, sempre que verifiquem alguma infracção das leis ou regulamentos, em matéria de trabalho, advertir os infractores, dar-lhes os seus conselhos ou fornecer-lhes informações técnicas, em lugar de intentarem ou promoverem qualquer procedimento judicial, excepto se se tratar de falta grave ou se a infracção verificada dever ser qualificada como crime.
+Art. 295.º - 1. Fica ao prudente e livre critério dos inspectores do trabalho, sempre que verifiquem alguma infracção das leis ou regulamentos, em matéria de trabalho, advertir os infractores, dar-lhes os seus conselhos ou fornecer-lhes informações técnicas, em lugar de intentarem ou promoverem qualquer procedimento judicial, excepto se se tratar de falta grave ou se a infracção verificada dever ser qualificada como crime.
 
 2. No exercício das suas funções, cumpre aos inspectores agir com inteira isenção e independência, inspirando-se no espírito de conciliação e solidariedade.
 
 3. O disposto no parágrafo 1 do presente artigo deve entender-se sem prejuízo do necessário rigor das inspecções.
 
-###### Art. 296.º Aos inspectores e aos delegados da Inspecção do Trabalho é proibido o exercício de funções de conciliação e de arbitragem em matéria de trabalho.
+Art. 296.º Aos inspectores e aos delegados da Inspecção do Trabalho é proibido o exercício de funções de conciliação e de arbitragem em matéria de trabalho.
 
-###### Art. 297.º - 1. A Inspecção do Trabalho deverá organizar os planos das inspecções ordinárias a realizar em cada ano.
+Art. 297.º - 1. A Inspecção do Trabalho deverá organizar os planos das inspecções ordinárias a realizar em cada ano.
 
 2. Extraordinàriamente, por iniciativa própria, em cumprimento de ordens superiores, a requerimento de interessados, a instância dos organismos corporativos ou ainda em resultado de denúncia, poderão os inspectores realizar as visitas de inspecção que se mostrem necessárias.
 
-###### Art. 298.º Os subdelegados da Inspecção do Trabalho deverão visitar os locais de trabalho situados na área da respectiva circunscrição pelo menos uma vez em cada três meses.
+Art. 298.º Os subdelegados da Inspecção do Trabalho deverão visitar os locais de trabalho situados na área da respectiva circunscrição pelo menos uma vez em cada três meses.
 
-###### Art. 299.º Durante as visitas de inspecção, os inspectores e os delegados e subdelegados da Inspecção do Trabalho verificarão a forma como são observadas as normas de carácter social a que estejam sujeitos os estabelecimentos visitados e cuja fiscalização seja da competência dos serviços de inspecção do trabalho, nos termos prescritos na legislação que vigorar.
+Art. 299.º Durante as visitas de inspecção, os inspectores e os delegados e subdelegados da Inspecção do Trabalho verificarão a forma como são observadas as normas de carácter social a que estejam sujeitos os estabelecimentos visitados e cuja fiscalização seja da competência dos serviços de inspecção do trabalho, nos termos prescritos na legislação que vigorar.
 
-###### Art. 300.º - 1. Os estabelecimentos que não satisfaçam inteiramente sob o ponto de vista de higiene e segurança, bem como aqueles onde se efectuem trabalhos insalubres, incómodos, perigosos ou tóxicos, devem ser visitados pelos inspectores duas vezes em cada ano, ou com maior frequência, se for julgado conveniente.
+Art. 300.º - 1. Os estabelecimentos que não satisfaçam inteiramente sob o ponto de vista de higiene e segurança, bem como aqueles onde se efectuem trabalhos insalubres, incómodos, perigosos ou tóxicos, devem ser visitados pelos inspectores duas vezes em cada ano, ou com maior frequência, se for julgado conveniente.
 
 2. Os estabelecimentos em que hajam sido apuradas irregularidades graves devem ser visitados novamente em data próxima, a fim de se verificar se as irregularidades desapareceram.
 
-###### Art. 301.º - 1. Sempre que os inspectores do trabalho verifiquem que os trabalhos de exploração da empresa, a construção ou o funcionamento de todas ou de algumas das suas instalações decorrem ou se encontram em condições tais que ameacem a saúde ou a segurança dos trabalhadores procederão pela forma seguinte:
+Art. 301.º - 1. Sempre que os inspectores do trabalho verifiquem que os trabalhos de exploração da empresa, a construção ou o funcionamento de todas ou de algumas das suas instalações decorrem ou se encontram em condições tais que ameacem a saúde ou a segurança dos trabalhadores procederão pela forma seguinte:
 
 a) Determinarão as medidas necessárias para se eliminarem as irregularidades ou os defeitos encontrados;
 
@@ -2167,11 +2183,11 @@ c) Levantarão os competentes autos, quando as infracções constituam transgres
 
 5. A empresa, nos vinte dias seguintes à notificação, poderá interpor recurso das decisões do inspector para o governador da província. A petição do recurso, em que serão expostos todos os fundamentos de facto e de direito e se oferecerão todas as provas, poderá ser apresentada na secretaria da administração do concelho ou na secretaria distrital, que a remeterão ao governo da província pelo correio mais rápido, apondo-lhe a nota de apresentação, devidamente datada. O recurso tem efeito meramente devolutivo quanto à parte da decisão que tenha ordenado a suspensão de trabalhos.
 
-###### Art. 302.º As empresas são obrigadas a comunicar à Inspecção do Trabalho, até ao dia 15 de cada mês, todos os acidentes de trabalho e os casos de doenças profissionais ocorridos durante o mês anterior.
+Art. 302.º As empresas são obrigadas a comunicar à Inspecção do Trabalho, até ao dia 15 de cada mês, todos os acidentes de trabalho e os casos de doenças profissionais ocorridos durante o mês anterior.
 
-###### Art. 303.º Em matéria de higiene e salubridade dos estabelecimentos, segurança dos locais de trabalho, condicionamento de indústrias insalubres, incómodas, perigosas ou tóxicas, prevenção de acidentes de trabalho e de doenças profissionais, os serviços de inspecção do trabalho devem comunicar aos serviços competentes as irregularidades verificadas, bem como as medidas tomadas para as prevenir ou fazer cessar, e enviar os autos levantados por infracção dos preceitos legais sobre tais matérias.
+Art. 303.º Em matéria de higiene e salubridade dos estabelecimentos, segurança dos locais de trabalho, condicionamento de indústrias insalubres, incómodas, perigosas ou tóxicas, prevenção de acidentes de trabalho e de doenças profissionais, os serviços de inspecção do trabalho devem comunicar aos serviços competentes as irregularidades verificadas, bem como as medidas tomadas para as prevenir ou fazer cessar, e enviar os autos levantados por infracção dos preceitos legais sobre tais matérias.
 
-###### Art. 304.º - 1. Os delegados e subdelegados de saúde e os inspectores dos serviços de saúde exercem funções de fiscalização em matéria de trabalho, nos termos do presente código e das leis e regulamentos de saúde, higiene e assistência.
+Art. 304.º - 1. Os delegados e subdelegados de saúde e os inspectores dos serviços de saúde exercem funções de fiscalização em matéria de trabalho, nos termos do presente código e das leis e regulamentos de saúde, higiene e assistência.
 
 2. No exercício das suas funções de fiscalização, compete às autoridades sanitárias referidas na parágrafo anterior, sem prejuízo das atribuições da Inspecção do Trabalho:
 
@@ -2209,9 +2225,9 @@ i) Comunicar à Inspecção do Trabalho todas as infracções, irregularidades o
 
 3. As determinações dos médicos oficiais a que se refere a alínea h) do parágrafo anterior têm força executiva e só podem ser suspensas por via de recurso para a Inspecção do Trabalho, interposto no prazo de vinte dias, a contar da data da notificação. Da decisão que for proferida pela Inspecção do Trabalho, que será notificada por escrito à empresa, cabe recurso, de efeito meramente devolutivo, para o governador da província, no prazo de vinte dias. Em relação às decisões da Inspecção do Trabalho, nos casos aqui referidos, aplicar-se-á o disposto no parágrafo 2 do artigo 301.º
 
-###### Art. 305.º Anualmente, os inspectores do trabalho, os delegados e subdelegados da Inspecção do Trabalho e as autoridades sanitárias mencionadas no parágrafo 1 do artigo 304.º remeterão à Inspecção do Trabalho um relatório, que será elaborado de harmonia com o que se prescrever no regulamento das inspecções, se o houver, ou com as instruções que forem dadas pela Inspecção do Trabalho.
+Art. 305.º Anualmente, os inspectores do trabalho, os delegados e subdelegados da Inspecção do Trabalho e as autoridades sanitárias mencionadas no parágrafo 1 do artigo 304.º remeterão à Inspecção do Trabalho um relatório, que será elaborado de harmonia com o que se prescrever no regulamento das inspecções, se o houver, ou com as instruções que forem dadas pela Inspecção do Trabalho.
 
-###### Art. 306.º A constituição, a organização, a competência e o funcionamento dos serviços de inspecção do trabalho regulam-se pelas leis e regulamentos em vigor, sem prejuízo da observância das disposições do presente capítulo.
+Art. 306.º A constituição, a organização, a competência e o funcionamento dos serviços de inspecção do trabalho regulam-se pelas leis e regulamentos em vigor, sem prejuízo da observância das disposições do presente capítulo.
 
 ## TÍTULO IX — Das sanções e da fiscalização
 
@@ -2219,17 +2235,17 @@ i) Comunicar à Inspecção do Trabalho todas as infracções, irregularidades o
 
 #### SECÇÃO I — Disposição geral
 
-###### Art. 307.º - 1. As infracções das disposições do presente código serão punidas com multa de 200$00 a 10000$00, salvo aquelas para as quais se fixem penalidades especiais nos lugares próprios ou no capítulo seguinte.
+Art. 307.º - 1. As infracções das disposições do presente código serão punidas com multa de 200$00 a 10000$00, salvo aquelas para as quais se fixem penalidades especiais nos lugares próprios ou no capítulo seguinte.
 
 2. As penalidades previstas neste título são aplicáveis independentemente de procedimento criminal, se a ele houver lugar.
 
 #### SECÇÃO II — Penalidades especiais
 
-###### Art. 308.º No caso de infracção de cláusulas de contratos individuais ou de convenções colectivas de trabalho, sempre que o infractor use de coacção sobre o pessoal, falsificação, simulação ou outro meio fraudulento, ser-lhe-á imposta multa não inferior a 1000$00 nem superior a 50000$00.
+Art. 308.º No caso de infracção de cláusulas de contratos individuais ou de convenções colectivas de trabalho, sempre que o infractor use de coacção sobre o pessoal, falsificação, simulação ou outro meio fraudulento, ser-lhe-á imposta multa não inferior a 1000$00 nem superior a 50000$00.
 
-###### Art. 309.º Os estabelecimentos de qualquer natureza que não tiverem os seus horários devidamente elaborados e afixados ou que os não hajam submetido à aprovação da Inspecção do Trabalho serão punidos, respectivamente, com as multas de 250$00 a 500$00 e de 1000$00.
+Art. 309.º Os estabelecimentos de qualquer natureza que não tiverem os seus horários devidamente elaborados e afixados ou que os não hajam submetido à aprovação da Inspecção do Trabalho serão punidos, respectivamente, com as multas de 250$00 a 500$00 e de 1000$00.
 
-###### Art. 310.º - 1. Os estabelecimentos que não cumprirem os respectivos horários de trabalho ou as disposições legais relativamente às horas de abertura e encerramento dos serviços, entrada e saída do pessoal, tempos diários de descanso e descanso semanal serão punidos com as multas seguintes:
+Art. 310.º - 1. Os estabelecimentos que não cumprirem os respectivos horários de trabalho ou as disposições legais relativamente às horas de abertura e encerramento dos serviços, entrada e saída do pessoal, tempos diários de descanso e descanso semanal serão punidos com as multas seguintes:
 
 a) 250$00 a 500$00, se as pessoas normalmente ao serviço forem 10 ou menos de 10;
 
@@ -2241,41 +2257,41 @@ d) 10000$00 a 20000$00, se forem mais de 2000.
 
 2. Incorrerão na mesma multa os estabelecimentos que tenham utilizado a faculdade do prolongamento do trabalho abusivamente e sem autorização superior.
 
-###### Art. 311.º As empresas que deixem de pagar ao seu pessoal o trabalho nocturno, das horas extraordinárias ou do dia de descanso semanal nos termos deste código serão punidas com multa igual à prevista no parágrafo 1 do artigo anterior, sem prejuízo do pagamento das importâncias devidas aos trabalhadores prejudicados.
+Art. 311.º As empresas que deixem de pagar ao seu pessoal o trabalho nocturno, das horas extraordinárias ou do dia de descanso semanal nos termos deste código serão punidas com multa igual à prevista no parágrafo 1 do artigo anterior, sem prejuízo do pagamento das importâncias devidas aos trabalhadores prejudicados.
 
-###### Art. 312.º A inobservância das disposições deste código relativas ao trabalho feminino e de menores implica para os infractores a multa de 500$00 por cada mulher ou menor ilegalmente empregado.
+Art. 312.º A inobservância das disposições deste código relativas ao trabalho feminino e de menores implica para os infractores a multa de 500$00 por cada mulher ou menor ilegalmente empregado.
 
-###### Art. 313.º - 1. As empresas que recusarem a readmissão ao serviço de trabalhadores, depois da prestação do serviço militar obrigatório, nos termos do parágrafo 1 do artigo 45.º, serão punidas com a multa de 20000$00.
+Art. 313.º - 1. As empresas que recusarem a readmissão ao serviço de trabalhadores, depois da prestação do serviço militar obrigatório, nos termos do parágrafo 1 do artigo 45.º, serão punidas com a multa de 20000$00.
 
 2. Nos casos do parágrafo anterior as empresas pagarão ainda ao trabalhador recusado uma indemnização de valor correspondente a um ano de salário.
 
-###### Art. 314.º - 1. As empresas que infringirem as disposições deste código relativas à concessão de férias anuais incorrerão na multa de 500$00 a 2000$00.
+Art. 314.º - 1. As empresas que infringirem as disposições deste código relativas à concessão de férias anuais incorrerão na multa de 500$00 a 2000$00.
 
 2. Nos casos do parágrafo anterior, as empresas pagarão ainda ao trabalhador prejudicado uma indemnização equivalente a dois meses de salário.
 
-###### Art. 315.º As empresas que violarem o disposto no parágrafo 1 do artigo 62.º, além da indemnização estabelecida no parágrafo 3 desse artigo, serão punidas com a multa de 1000$00 a 10000$00.
+Art. 315.º As empresas que violarem o disposto no parágrafo 1 do artigo 62.º, além da indemnização estabelecida no parágrafo 3 desse artigo, serão punidas com a multa de 1000$00 a 10000$00.
 
-###### Art. 316.º A falta de remessa dos mapas dos acidentes de trabalho e das doenças profissionais ocorridos em cada mês ou a sua remessa ao tribunal competente fora dos prazos legais serão punidas com a multa de 500$00.
+Art. 316.º A falta de remessa dos mapas dos acidentes de trabalho e das doenças profissionais ocorridos em cada mês ou a sua remessa ao tribunal competente fora dos prazos legais serão punidas com a multa de 500$00.
 
-###### Art. 317.º A falta de participação de algum acidente de trabalho, nos casos em que é obrigatória, nos termos deste código, e em relação às entidades que têm obrigação de a fazer, bem como a falta de participação da morte de algum trabalhador vítima de acidente, será punida com a multa de 1000$00.
+Art. 317.º A falta de participação de algum acidente de trabalho, nos casos em que é obrigatória, nos termos deste código, e em relação às entidades que têm obrigação de a fazer, bem como a falta de participação da morte de algum trabalhador vítima de acidente, será punida com a multa de 1000$00.
 
-###### Art. 318.º A empresa responsável por um acidente de trabalho que se recusar a assinar o termo de identidade, nos casos em que este seja exigível e lhe for exigido, incorrerá na multa de 500$00 a 10000$00.
+Art. 318.º A empresa responsável por um acidente de trabalho que se recusar a assinar o termo de identidade, nos casos em que este seja exigível e lhe for exigido, incorrerá na multa de 500$00 a 10000$00.
 
-###### Art. 319.º As falsas declarações acerca da natureza do trabalho, o número de trabalhadores ao serviço e respectivos salários, prestadas com o fim de evitar o cumprimento das disposições deste código, serão punidas com a multa de 1000$00 a 10000$00.
+Art. 319.º As falsas declarações acerca da natureza do trabalho, o número de trabalhadores ao serviço e respectivos salários, prestadas com o fim de evitar o cumprimento das disposições deste código, serão punidas com a multa de 1000$00 a 10000$00.
 
-###### Art. 320.º - 1. A infracção do disposto no parágrafo 4 do artigo 15.º será punida com multa de 1000$00 a 5000$00.
+Art. 320.º - 1. A infracção do disposto no parágrafo 4 do artigo 15.º será punida com multa de 1000$00 a 5000$00.
 
 2. A disposição do parágrafo anterior só começará a ter aplicação seis meses depois da entrada em vigor deste código.
 
-###### Art. 321.º À violação do disposto nos parágrafos 2 e 3 do artigo 81.º cabe a multa de 500$00.
+Art. 321.º À violação do disposto nos parágrafos 2 e 3 do artigo 81.º cabe a multa de 500$00.
 
-###### Art. 322.º A infracção de alguma das disposições do artigo 82.º será punida com multa de 1000$00 a 5000$00.
+Art. 322.º A infracção de alguma das disposições do artigo 82.º será punida com multa de 1000$00 a 5000$00.
 
-###### Art. 323.º A inobservância do disposto no artigo 271.º será punida com multa de 500$00 a 1000$00.
+Art. 323.º A inobservância do disposto no artigo 271.º será punida com multa de 500$00 a 1000$00.
 
-###### Art. 324.º A falta de remessa de quaisquer mapas, relações, elementos estatísticos ou outros que, nos termos deste código ou da legislação complementar, constituam obrigação para as empresas será punida com multa de 500$00 a 5000$00.
+Art. 324.º A falta de remessa de quaisquer mapas, relações, elementos estatísticos ou outros que, nos termos deste código ou da legislação complementar, constituam obrigação para as empresas será punida com multa de 500$00 a 5000$00.
 
-###### Art. 325.º - 1. Toda a pessoa que, por qualquer forma, imponha a algum trabalhador trabalho obrigatório será punida com prisão até dois anos, se outra pena mais grave não couber à infracção.
+Art. 325.º - 1. Toda a pessoa que, por qualquer forma, imponha a algum trabalhador trabalho obrigatório será punida com prisão até dois anos, se outra pena mais grave não couber à infracção.
 
 2. Todo aquele que ordene a seus subordinados que pratiquem actos que representem a imposição de trabalho obrigatório será considerado autor material, para os efeitos do parágrafo anterior.
 
@@ -2291,11 +2307,11 @@ c) As ameaças ou violências feitas à pessoa de algum membro da família de um
 
 d) Quaisquer ofensas corporais ou outras violências exercidas nas pessoas dos trabalhadores para os coagir a trabalhar em serviço de qualquer entidade.
 
-###### Art. 326.º - 1. Todo o funcionário público que cobrar das empresas ou dos trabalhadores alguma quantia indevida é obrigado a restituí-la aos interessados, de sua conta, quando não possa ser reembolsada de conta dos cofres públicos.
+Art. 326.º - 1. Todo o funcionário público que cobrar das empresas ou dos trabalhadores alguma quantia indevida é obrigado a restituí-la aos interessados, de sua conta, quando não possa ser reembolsada de conta dos cofres públicos.
 
 2. Se algumas importâncias forem cobradas maliciosamente, os funcionários que tenham imposto o seu pagamento serão punidos nos termos dos artigos 315.º e 316.º do Código Penal.
 
-###### Art. 327.º - 1. Aquele que, não estando isento da obrigação de ter licença, recrutar trabalhadores sem estar munido dela será punido com as seguintes multas:
+Art. 327.º - 1. Aquele que, não estando isento da obrigação de ter licença, recrutar trabalhadores sem estar munido dela será punido com as seguintes multas:
 
 a) De 1000$00 a 5000$00, se recrutar para serviço próprio;
 
@@ -2307,19 +2323,19 @@ d) De 20000$00 a 100000$00, se recrutar para serviço em território estrangeiro
 
 2. O possuidor de uma licença que praticar recrutamento não autorizado por essa licença comete a transgressão definida no parágrafo anterior.
 
-###### Art. 328.º As ofensas e violências feitas à pessoa de algum trabalhador pelas entidades patronais, pelos recrutadores ou por empregados ou agentes daquelas ou destes serão punidas com as penas correspondentes do Código Penal, mas agravadas.
+Art. 328.º As ofensas e violências feitas à pessoa de algum trabalhador pelas entidades patronais, pelos recrutadores ou por empregados ou agentes daquelas ou destes serão punidas com as penas correspondentes do Código Penal, mas agravadas.
 
-###### Art. 329.º - 1. Todo aquele que impedir algum trabalhador de recorrer aos tribunais ou de apresentar alguma queixa ou participação às autoridades públicas será punido com a multa de 1000$00 a 5000$00.
+Art. 329.º - 1. Todo aquele que impedir algum trabalhador de recorrer aos tribunais ou de apresentar alguma queixa ou participação às autoridades públicas será punido com a multa de 1000$00 a 5000$00.
 
 2. A simples tentativa e a frustração serão punidas com multa de 500$00 a 2000$00.
 
-###### Art. 330.º A empresa que deixar de fornecer a alimentação devida aos trabalhadores ou que lhes fornecer géneros deteriorados ou impróprios para o consumo será punida com multa de 5000$00 a 50000$00, independentemente do procedimento que a lei geral prescrever.
+Art. 330.º A empresa que deixar de fornecer a alimentação devida aos trabalhadores ou que lhes fornecer géneros deteriorados ou impróprios para o consumo será punida com multa de 5000$00 a 50000$00, independentemente do procedimento que a lei geral prescrever.
 
-###### Art. 331.º Nos casos em que os trabalhadores sejam ocupados em serviços do Estado ou das autarquias, as referências a empresas, constantes do presente título, considerar-se-ão feitas aos funcionários responsáveis encarregados da execução dos serviços.
+Art. 331.º Nos casos em que os trabalhadores sejam ocupados em serviços do Estado ou das autarquias, as referências a empresas, constantes do presente título, considerar-se-ão feitas aos funcionários responsáveis encarregados da execução dos serviços.
 
 ### CAPÍTULO II — Fiscalização. Competência para a aplicação das sanções
 
-###### Art. 332.º Têm competência para fiscalizar o cumprimento das disposições do presente código e da respectiva legislação complementar:
+Art. 332.º Têm competência para fiscalizar o cumprimento das disposições do presente código e da respectiva legislação complementar:
 
 a) Os inspectores do trabalho e os delegados da Inspecção do Trabalho;
 
@@ -2329,43 +2345,43 @@ c) As autoridades administrativas;
 
 d) As autoridades médico-sanitárias, no âmbito das suas atribuições.
 
-###### Art. 333.º - 1. Os autos de notícia levantados em consequência da verificação de infracção de normas cuja fiscalização seja da competência do autuante devem observar o disposto no artigo 166.º do Código de Processo Penal, com dispensa da indicação de testemunhas e da assinatura do infractor, e têm força de corpo de delito e fazem fé em juízo até prova em contrário.
+Art. 333.º - 1. Os autos de notícia levantados em consequência da verificação de infracção de normas cuja fiscalização seja da competência do autuante devem observar o disposto no artigo 166.º do Código de Processo Penal, com dispensa da indicação de testemunhas e da assinatura do infractor, e têm força de corpo de delito e fazem fé em juízo até prova em contrário.
 
 2. A eficácia dos autos de notícia referidos no parágrafo anterior depende de confirmação da Inspecção do Trabalho, que aplicará a multa respectiva. Os despachos de não confirmação devem ser fundamentados e devidamente registados.
 
-###### Art. 334.º - 1. Os autos que respeitam a transgressões a que corresponda multa devem ser remetidos com as respectivas guias de pagamento, dentro de dez dias, à secretaria da administração do concelho ou da circunscrição do domicílio do transgressor, que notificará este para, em igual prazo, pagar a multa e os adicionais, quando os haja. Findo este prazo sem ter sido efectuado o pagamento, o auto será devolvido aos serviços de inspecção do trabalho, dentro de cinco dias, a fim de ser remetido para juízo nos dez dias posteriores.
+Art. 334.º - 1. Os autos que respeitam a transgressões a que corresponda multa devem ser remetidos com as respectivas guias de pagamento, dentro de dez dias, à secretaria da administração do concelho ou da circunscrição do domicílio do transgressor, que notificará este para, em igual prazo, pagar a multa e os adicionais, quando os haja. Findo este prazo sem ter sido efectuado o pagamento, o auto será devolvido aos serviços de inspecção do trabalho, dentro de cinco dias, a fim de ser remetido para juízo nos dez dias posteriores.
 
 2. O pagamento voluntário efectuar-se-á nas secretarias referidas no parágrafo anterior e, efectuado o mesmo, juntar-se-á ao auto de notícia um exemplar da guia e em seguida serão estes documentos enviados aos serviços de inspecção do trabalho, para efeitos de arquivo.
 
-###### Art. 335.º O produto das multas aplicadas constitui receita do Estado, salvo se houver lei, regulamento ou convenção colectiva de trabalho que mandem dar-lhe outro destino.
+Art. 335.º O produto das multas aplicadas constitui receita do Estado, salvo se houver lei, regulamento ou convenção colectiva de trabalho que mandem dar-lhe outro destino.
 
-###### Art. 336.º Os autos de notícia por infracções a que correspondam sanções não susceptíveis, por natureza ou por força da lei, de pagamento voluntário serão remetidos para juízo no prazo de dez dias, a contar da data da verificação da infracção.
+Art. 336.º Os autos de notícia por infracções a que correspondam sanções não susceptíveis, por natureza ou por força da lei, de pagamento voluntário serão remetidos para juízo no prazo de dez dias, a contar da data da verificação da infracção.
 
-###### Art. 337.º O julgamento das transgressões das disposições do presente código e da respectiva legislação complementar pertence aos tribunais do trabalho.
+Art. 337.º O julgamento das transgressões das disposições do presente código e da respectiva legislação complementar pertence aos tribunais do trabalho.
 
 ## TÍTULO X — Disposições diversas
 
-###### Art. 338.º As disposições deste código acerca dos benefícios e direitos dos trabalhadores não obrigam a diminuir outros maiores que lhes tenham sido concedidos pelas empresas.
+Art. 338.º As disposições deste código acerca dos benefícios e direitos dos trabalhadores não obrigam a diminuir outros maiores que lhes tenham sido concedidos pelas empresas.
 
-###### Art. 339. - 1. Os governos provinciais poderão estabelecer que nos contratos de trabalho haja um período experimental, competindo-lhes fixar a respectiva duração.
+Art. 339. - 1. Os governos provinciais poderão estabelecer que nos contratos de trabalho haja um período experimental, competindo-lhes fixar a respectiva duração.
 
 2. Aquele período de experiência, porém, não poderá ser fixado com duração superior a um mês.
 
 3. As partes poderão, todavia, convencionar a ampliação do período que vier a ser fixado até ao dobro.
 
-###### Art. 340.º - 1. Quando não seja obrigatória a posse de carteira profissional, as empresas, findo o contrato de trabalho, seja qual for o motivo da cessação, deverão passar ao trabalhador um certificado donde constem o tempo durante o qual esteve ao seu serviço e a natureza do trabalho ou o cargo ou cargos que desempenhou.
+Art. 340.º - 1. Quando não seja obrigatória a posse de carteira profissional, as empresas, findo o contrato de trabalho, seja qual for o motivo da cessação, deverão passar ao trabalhador um certificado donde constem o tempo durante o qual esteve ao seu serviço e a natureza do trabalho ou o cargo ou cargos que desempenhou.
 
 2. Os governos provinciais, nos casos em que não exista obrigatoriedade de carteira profissional, poderão tornar obrigatória a posse de um livrete de trabalho. Nesta hipótese não se aplicará a disposição do parágrafo anterior, devendo ser averbados no livrete os factos referidos naquele parágrafo.
 
-###### Art. 341.º O presente código aplica-se não só aos contratos futuros, como também aos contratos pretéritos que ainda não estejam extintos à data da sua entrada em vigor; mas, quanto aos contratos pretéritos, não abrange os factos ou situações ocorridos antes dessa data, aos quais se aplicará a legislação anterior.
+Art. 341.º O presente código aplica-se não só aos contratos futuros, como também aos contratos pretéritos que ainda não estejam extintos à data da sua entrada em vigor; mas, quanto aos contratos pretéritos, não abrange os factos ou situações ocorridos antes dessa data, aos quais se aplicará a legislação anterior.
 
-###### Art. 342.º As disposições deste código não prejudicam o que se encontra estabelecido em acordos em vigor celebrados entre Portugal e outros países, constituindo um modus vivendi sobre emprego de trabalhadores, ou em outros acordos e convenções celebrados com países estrangeiros, relativamente ao recrutamento e ao trabalho de trabalhadores portugueses das províncias ultramarinas portuguesas.
+Art. 342.º As disposições deste código não prejudicam o que se encontra estabelecido em acordos em vigor celebrados entre Portugal e outros países, constituindo um modus vivendi sobre emprego de trabalhadores, ou em outros acordos e convenções celebrados com países estrangeiros, relativamente ao recrutamento e ao trabalho de trabalhadores portugueses das províncias ultramarinas portuguesas.
 
-###### Art. 343.º Os acordos vigentes entre as províncias ultramarinas sobre migração e recrutamento de trabalhadores deverão ser revistos, tendo em atenção as disposições deste código, no prazo de seis meses, a contar da data da sua publicação.
+Art. 343.º Os acordos vigentes entre as províncias ultramarinas sobre migração e recrutamento de trabalhadores deverão ser revistos, tendo em atenção as disposições deste código, no prazo de seis meses, a contar da data da sua publicação.
 
-###### Art. 344.º O presente código entra em vigor no dia 1 de Outubro de 1962.
+Art. 344.º O presente código entra em vigor no dia 1 de Outubro de 1962.
 
-###### Art. 345.º - 1. No prazo de três anos, a contar da sua entrada em vigor, este código será objecto de revisão.
+Art. 345.º - 1. No prazo de três anos, a contar da sua entrada em vigor, este código será objecto de revisão.
 
 2. Para o fim referido no parágrafo anterior, a Inspecção do Trabalho, os tribunais do trabalho, os serviços de saúde e assistência, a Inspecção de Seguros, as associações patronais e os organismos de representação profissional, bem como todas as mais entidades públicas ou privadas que o desejem fazer, deverão, por intermédio dos serviços de inspecção do trabalho, apresentar relatórios no fim de cada ano e formular propostas, sugestões ou alvitres, tendentes ao aperfeiçoamento da legislação de carácter social, tendo em vista as circunstâncias peculiares das condições de trabalho em cada província, em cada região e relativamente a cada empresa ou grupos de empresas e às categorias profissionais dos trabalhadores.
 

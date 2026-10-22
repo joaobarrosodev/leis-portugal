@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/6/1999/02/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/6-1999-172101
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-02-16T00:00:00Z'
+  retrieved_at: '2026-10-22T18:54:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6b646e6a729c493e24b89213109c85781535ac26b70c030608bfdf50b80cdde
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4b940f989b295e848ddbe3ab6a73202dd50213f05df7a108f9f1fe0009f86b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:54:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,61 +66,65 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
-- Processo Penal
 - Armas e Munições
 - Autonomia Administrativa
 - Banda de Música
 - Brasão de Armas
-- Pessoal Dirigente
 - Cofre de Previdência
 - Comando de Polícia
 - Comando Metropolitano
 - Comando Regional
+- Comércio de Armas
 - Comissão de Explosivos
 - Conselho Superior de Deontologia e Disciplina
 - Conselho Superior de Justiça e Disciplina
 - Conselho Superior de Polícia
 - Corpo de Intervenção
 - Corpo de Segurança Pessoal
-- Segurança Interna
 - Criação de Serviços
 - Direção Nacional
 - Direitos e Liberdades
 - Escola Prática de Polícia
 - Estado de Emergência
-- Segurança Pública
-- Política de Defesa
 - GOE
 - Instituto Superior de Ciências Policiais e Segurança Interna
-- Segurança Rodoviária
 - Museu
 - Orgânica
 - Pessoal Civil
+- Pessoal Dirigente
 - Pessoal Militarizado
-- Serviço Público
+- Polícia Criminal
+- Política de Defesa
+- Processo Penal
+- PSP
 - Quadro de Pessoal
 - Segredo Profissional
+- Segurança Interna
 - Segurança Marítima
+- Segurança Pública
+- Segurança Rodoviária
+- Serviço Público
 - Serviços Sociais
-- Polícia Criminal
 - Uso e porte de arma
-- Comércio de Armas
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/5/1999/01/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/1999/01/27/p/dre
+- type: cites
+  target: pt:dre:180022:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:54:46Z'
   warnings: []
   errors: []
 ---
@@ -135,13 +139,13 @@ QUADRO ANEXO A
 
 Escalões de competência disciplinar
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/039a00/08030804.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/039a00/08030804.pdf)](https://files.diariodarepublica.pt/1s/1999/02/039a00/08030804.pdf)
 
 QUADRO ANEXO B
 
 Escalões de competência disciplinar
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/039a00/08030804.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/039a00/08030804.pdf)](https://files.diariodarepublica.pt/1s/1999/02/039a00/08030804.pdf)
 
 ## ANEXO II — (a que se refere o artigo 105.º)
 

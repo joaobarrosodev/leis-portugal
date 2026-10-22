@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45038-1963-627664
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-05-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:34:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7deca7e0fce42362c9c37df69e24a82953d544ccf83dcd2d19f71f58ff082a0e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85d468e4c7f60818b43f0c0c851276b8f25a94aca9946f42cf53b8fb1080b7d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:34:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:183599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414800:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:34:55Z'
   warnings: []
   errors: []
 ---
@@ -87,13 +95,13 @@ Considerando que se torna necessário aplicar ao Instituto Superior de Ciências
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O exame de aptidão para ingresso no curso de Administração Ultramarina do Instituto Superior de Ciências Sociais e Política Ultramarina passa a ser regulado pelas disposições em vigor do [Decreto-Lei n.º 36227](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36227-1947-414800), de 12 de Abril de 1947.
+Artigo 1.º O exame de aptidão para ingresso no curso de Administração Ultramarina do Instituto Superior de Ciências Sociais e Política Ultramarina passa a ser regulado pelas disposições em vigor do [Decreto-Lei n.º 36227](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36227-1947-414800), de 12 de Abril de 1947.
 
 § único. As disciplinas sobre que incidirá o referido exame são as de Português e Geografia.
 
-###### Art. 2.º Os alunos dos cursos professados no Instituto Superior de Ciências Sociais e Política Ultramarina só poderão inscrever-se em disciplinas de um ano desde que não lhes falte aprovação em mais de uma do ano anterior.
+Art. 2.º Os alunos dos cursos professados no Instituto Superior de Ciências Sociais e Política Ultramarina só poderão inscrever-se em disciplinas de um ano desde que não lhes falte aprovação em mais de uma do ano anterior.
 
-###### Art. 3.º Os alunos que não obtenham frequência ou não alcancem aprovação em exames finais deverão frequentar de novo a disciplina ou disciplinas respectivas.
+Art. 3.º Os alunos que não obtenham frequência ou não alcancem aprovação em exames finais deverão frequentar de novo a disciplina ou disciplinas respectivas.
 
 § 1.º Quanto, porém, aos alunos ordinários que por virtude do disposto no artigo anterior transitem para o ano imediato, observar-se-á o seguinte:
 
@@ -103,16 +111,16 @@ b) Se ainda a não obteve, deverá frequentar a disciplina como aluno ordinário
 
 § 2.º Os alunos que em virtude do preceituado no corpo do artigo 48.º do [Decreto n.º 43957](https://diariodarepublica.pt/dr/detalhe/decreto/43957-1961-183599), de 9 de Outubro de 1961, teriam de repetir no corrente ano exames de disciplinas em que já obtiveram aprovação em anos anteriores ficam dispensados dessa repetição.
 
-###### Art. 4.º O § 3.º do artigo 31.º e o corpo do artigo 48.º do [Decreto n.º 43957](https://diariodarepublica.pt/dr/detalhe/decreto/43957-1961-183599) passam a ter a seguinte redacção:
+Art. 4.º O § 3.º do artigo 31.º e o corpo do artigo 48.º do [Decreto n.º 43957](https://diariodarepublica.pt/dr/detalhe/decreto/43957-1961-183599) passam a ter a seguinte redacção:
 
-###### Art. 31.º ...
+Art. 31.º ...
 
 § 3.º O professor catedrático que deve substituir o director será designado por despacho conjunto dos Ministros do Ultramar e da Educação Nacional.
 
 ...
 
-###### Art. 48.º As classificações de Mau e Medíocre no exame final equivalem a reprovação.
+Art. 48.º As classificações de Mau e Medíocre no exame final equivalem a reprovação.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Maio de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia - Inocêncio Galvão Teles.

@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 246/2006, 1º Suplemento, Série I de 2006-12-26
   number: '246'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8562-(2) a 8562-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2006/12/24601/00020002.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/83-a/2006/12/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/83-a-2006-626266
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-26T00:00:00Z'
+  retrieved_at: '2026-10-22T19:07:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 915397bdcc3bd0c814478e718afb495903a1486c87e509c1f4ab1c6fe9852c0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64a35d1b32d92e6e1327c7e05a195d512aeb9503bcbf9369a4c27fa03a48faa9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:07:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,83 +67,92 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
-- Reestruturação de Serviços
-- Fundação Cartão do Idoso
-- Instituto do Emprego e Formação Profissional
+- Agência Nacional para a Qualificação
+- Autoridade para as Condições do Trabalho
+- Caixa de Previdência
+- CASA PIA de Lisboa
 - Centro Nacional de Protecção contra os Riscos Profissionais
-- Pessoal Dirigente
 - Comissão de Gestão
+- Comissão do Mercado Social de Emprego
 - Comissão Nacional de Protecção das Crianças e Jovens em Risco
 - Comissão Nacional do Rendimento Social de Inserção
 - Comissão Nacional para a Política de Terceira Idade
 - Comissão Nacional para a Promoção dos Ofícios e Microempresas Artesanais
 - Comissão para a Igualdade no Trabalho e no Emprego
-- Conselho Nacional da Formação Profissional
-- Direcção Geral da Segurança Social
+- Comissão para a Promoção de Políticas de Família
+- Comissariado Nacional para os Assuntos da Família e da Criança
+- Conselho Consultivo das Famílias
 - Conselho Económico e Social
+- Conselho Nacional da Formação Profissional
 - Conselho Nacional de Higiene e Segurança do Trabalho
+- Conselho Nacional de Segurança Social
+- Conselho Nacional para a Família e Criança
 - Conselho Nacional para a Prevenção e Eliminação da Exploração do Trabalho Infantil
+- Conselho Nacional para a Promoção do Voluntariado
 - Conselho Nacional para a Reabilitação e Integração das Pessoas com Deficiência
-- Instituto António Sérgio do Sector Cooperativo
 - Criação de Serviços
-- Departamento de Acordos Internacionais de Segurança Social
 - Definição de Competências
+- Departamento de Acordos Internacionais de Segurança Social
+- Direcção Geral da Segurança Social
 - Direcção Geral da Segurança Social da Família e da Criança
 - Direcção Geral de Estudos Estatística e Planeamento
+- Direcção Geral do Emprego e das Relações de Trabalho
 - Extinção de Serviços
 - FAIA
-- Secretaria Geral
-- Instituto de Gestão de Fundos de Capitalização da Segurança Social
+- Fundação Cartão do Idoso
 - Gabinete para a Cooperação
 - Gabinete para os Assuntos Europeus e Relações Internacionais
-- Ministério do Trabalho e da Solidariedade Social
-- Instituto de Gestão do Fundo Social Europeu
-- Agência Nacional para a Qualificação
+- Inatel
 - Inspecção Geral
+- Inspecção Geral do Trabalho
+- Instituto António Sérgio do Sector Cooperativo
+- Instituto da Segurança Social
+- Instituto de Gestão de Fundos de Capitalização da Segurança Social
+- Instituto de Gestão do Fundo Social Europeu
 - Instituto de Gestão Financeira da Segurança Social
-- Instituto de Informática e Estatística da Segurança Social
 - Instituto de Informática
-- CASA PIA de Lisboa
+- Instituto de Informática e Estatística da Segurança Social
+- Instituto do Emprego e Formação Profissional
+- Instituto Nacional para a Reabilitação
 - Instituto para a Qualidade na Formação
 - Instituto para a Segurança Higiene e Saúde no Trabalho
 - Instituto Público
-- Santa Casa da Misericórdia
-- Comissão do Mercado Social de Emprego
-- Direcção Geral do Emprego e das Relações de Trabalho
-- Inspecção Geral do Trabalho
-- Caixa de Previdência
-- Comissariado Nacional para os Assuntos da Família e da Criança
-- Conselho Nacional de Segurança Social
-- Conselho Nacional para a Família e Criança
-- Conselho Nacional para a Promoção do Voluntariado
+- Ministério do Trabalho e da Solidariedade Social
 - Observatório do Emprego e Formação Profissional
 - Orgânica
-- Comissão para a Promoção de Políticas de Família
-- Conselho Consultivo das Famílias
+- Pessoal Dirigente
 - Programa de Apoio à Iniciativa Privada Social
 - Programa para a Prevenção e Eliminação da Exploração do Trabalho Infantil
 - Quadro de Pessoal
-- Instituto Nacional para a Reabilitação
+- Reestruturação de Serviços
+- Santa Casa da Misericórdia
+- Secretaria Geral
 - Serviços Sociais
-- Inatel
 - Transferência de Competências
-- Autoridade para as Condições do Trabalho
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/2006/10/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/2006/10/27/p/dre
+- type: cites
+  target: pt:dre:545639:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:211/2006
+  label: "Rectifica o Decreto-Lei n.º 211/2006, de 27 de Outubro, DR.IS [208] \0\0"
+  source: null
+  date: '2006-10-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:07:07Z'
   warnings: []
   errors: []
 ---
@@ -156,12 +165,12 @@ No anexo II, onde se lê:
 
 Dirigentes de organismos da administração indirecta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/24601/00020002.pdf))](https://files.diariodarepublica.pt/1s/2006/12/24601/00020002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/24601/00020002.pdf)
 
 deve ler-se:
 
 Dirigentes de organismos da administração indirecta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/24601/00020002.pdf))](https://files.diariodarepublica.pt/1s/2006/12/24601/00020002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/24601/00020002.pdf)
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 21 de Dezembro de 2006. - Pelo Secretário-Geral, a Secretária-Geral-Adjunta, Ana Almeida.

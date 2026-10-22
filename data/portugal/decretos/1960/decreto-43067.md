@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1960/07/16000/17231725.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43067-1960-502404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-15T00:00:00Z'
+  retrieved_at: '2026-10-22T19:18:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b165ce692ddb26faee505a8749d00f2af99a20102f03c18fd2498a3c64af2bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd05fe8341a340eecaed0b8da5063aa1bf498e5ac8da83938ea2c433b58afbaa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:18:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Certificado de Qualidade
+- Regulamento
+- Regulamento dos Selos de Origem para Garantia da Genuinidade dos Vinhos Verdes
+- Vinho
+- Vinho Verde
 relationships:
 - type: amended_by
   target: pt:dre:397133:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:354888:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563853:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:518656:por
+  label: "Revogado pelo DEC LEI.137/95.1995.06.14.MA DR.IS-A [136]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-1995-518656
+  date: '1995-06-14'
+- type: repealed_by
+  target: pt:dre:397133:por
+  label: "Revogado pelo Dec Lei.119/97.1997.05.15.MADRP, DR.IS-A [112]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-1997-397133
+  date: '1997-05-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:18:54Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +123,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 Regulamento dos Selos de Origem para Garantia de Genuinidade dos Vinhos Verdes
 
-###### Artigo 1.º São criados os seguintes selos de origem:
+Artigo 1.º São criados os seguintes selos de origem:
 
 Modelo 1 - para aplicação em garrafas, botijas ou outras embalagens afins até à capacidade máxima de 1 l.
 
@@ -106,23 +137,23 @@ Modelo 4 - para garrafões de capacidade entre 10 l e 20 l.
 
 § 2.º Nos casos em que se torne conveniente, por interesse directo da Comissão de Viticultura da Região dos Vinhos Verdes ou por acordo prévio entre esta e qualquer outro organismo a quem se destine legalmente, poderá efectuar-se, através destes selos, a cobrança da taxa criada pelo [Decreto-Lei n.º 40037](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40037-1955-539211), de 18 de Janeiro de 1955, bastando para tanto que nos mesmos se use de uma sobrecarga distintiva.
 
-###### Art. 2.º Os selos de origem referidos no artigo anterior substituem obrigatòriamente no vasilhame a que se destinam as guias ou certificados de origem previstos no [Decreto n.º 16684](https://diariodarepublica.pt/dr/detalhe/decreto/16684-1929-354888), salvo nos casos das remessas que transitem através de serviços alfandegários, em que, além destes documentos, subsiste a utilização do certificado para cumprimento das formalidades expressas nos §§ 1.º e 3.º do artigo 19.º do [Decreto n.º 16684](https://diariodarepublica.pt/dr/detalhe/decreto/16684-1929-354888).
+Art. 2.º Os selos de origem referidos no artigo anterior substituem obrigatòriamente no vasilhame a que se destinam as guias ou certificados de origem previstos no [Decreto n.º 16684](https://diariodarepublica.pt/dr/detalhe/decreto/16684-1929-354888), salvo nos casos das remessas que transitem através de serviços alfandegários, em que, além destes documentos, subsiste a utilização do certificado para cumprimento das formalidades expressas nos §§ 1.º e 3.º do artigo 19.º do [Decreto n.º 16684](https://diariodarepublica.pt/dr/detalhe/decreto/16684-1929-354888).
 
 § único. Estes selos serão apostos individualmente em cada vasilha, de forma a garantir a sua inutilização no acto da abertura, mas sempre de acordo com os serviços da Comissão de Viticultura da Região dos Vinhos Verdes.
 
-###### Art. 3.º Enquanto não forem publicadas medidas legais ou regulamentares respeitantes ao engarrafamento extra-regional de vinhos das regiões demarcadas, a Comissão de Viticultura da Região dos Vinhos Verdes autorizará a aposição de selos de origem nos vinhos verdes engarrafados fora dos limites da região demarcada, desde que reconheça serem suficientes as garantias dadas pela entidade engarrafadora quanto à origem, genuinidade e condições de armazenamento do vinho.
+Art. 3.º Enquanto não forem publicadas medidas legais ou regulamentares respeitantes ao engarrafamento extra-regional de vinhos das regiões demarcadas, a Comissão de Viticultura da Região dos Vinhos Verdes autorizará a aposição de selos de origem nos vinhos verdes engarrafados fora dos limites da região demarcada, desde que reconheça serem suficientes as garantias dadas pela entidade engarrafadora quanto à origem, genuinidade e condições de armazenamento do vinho.
 
-###### Art. 4.º São condições necessárias e fundamentais para a concessão do selo aqui referido, além da origem e genuinidade do vinho:
+Art. 4.º São condições necessárias e fundamentais para a concessão do selo aqui referido, além da origem e genuinidade do vinho:
 
 1.ª Que este se apresente com as características de prova e constituição normais e legais de vinho verde, satisfazendo aos preceitos obrigatórios;
 
 2.ª Que a apresentação, bem como a rotulagem, tenham obtido parecer favorável da Comissão de Viticultura da Região dos Vinhos Verdes.
 
-###### Art. 5.º Sempre que se trate de vinhos com marca ou dizeres nos rótulos, contra-rótulos, cintas ou gargantilhas que por qualquer forma envolvam designativos sub-regionais, a origem e genuinidade exigíveis serão, além da regional, a sub-regional.
+Art. 5.º Sempre que se trate de vinhos com marca ou dizeres nos rótulos, contra-rótulos, cintas ou gargantilhas que por qualquer forma envolvam designativos sub-regionais, a origem e genuinidade exigíveis serão, além da regional, a sub-regional.
 
 § único. Os vinhos com direito a designação sub-regional serão movimentados em conta corrente exclusiva, em que apenas podem creditar-se vinhos recebidos directamente da produção ou de armazenistas que não comercializem vinhos estranhos à sub-região respectiva.
 
-###### Art. 6.º São condições necessárias para aprovação da rotulagem:
+Art. 6.º São condições necessárias para aprovação da rotulagem:
 
 1.ª Que os seus dizeres ou figuração não colidam com direitos, prestígio ou identificação da marca de origem «Vinho verde»;
 
@@ -132,9 +163,9 @@ Modelo 4 - para garrafões de capacidade entre 10 l e 20 l.
 
 4.ª Que não contenha indicações susceptíveis de induzirem em erro o consumidor.
 
-###### Art. 7.º As marcas a documentar com selos de origem devem ser prèviamente inscritas na Comissão de Viticultura da Região dos Vinhos Verdes, onde será organizado um processo por cada vinho e marca.
+Art. 7.º As marcas a documentar com selos de origem devem ser prèviamente inscritas na Comissão de Viticultura da Região dos Vinhos Verdes, onde será organizado um processo por cada vinho e marca.
 
-###### Art. 8.º O pedido de inscrição de marca é formulado em impresso próprio, a fornecer pela Comissão de Viticultura da Região dos Vinhos Verdes, e deverá ser acompanhado do seguinte:
+Art. 8.º O pedido de inscrição de marca é formulado em impresso próprio, a fornecer pela Comissão de Viticultura da Região dos Vinhos Verdes, e deverá ser acompanhado do seguinte:
 
 1.º Amostra-tipo do vinho de cada marca, constituída por duas embalagens de volume não inferior a 7,5 dl cada, nas quais devem figurar expressos os respectivos elementos de identificação;
 
@@ -142,13 +173,13 @@ Modelo 4 - para garrafões de capacidade entre 10 l e 20 l.
 
 3.º Três colecções completas da rotulagem, compreendendo rótulos, cintas, gargantilhas, cápsulas e demais distintivos a usar no vasilhame em referência no pedido de inscrição, ou igual número de embalagens vazias quando se adopte o sistema de pirogravura.
 
-###### Art. 9.º Os elementos componentes da rotulagem aprovada pela Comissão de Viticultura da Região dos Vinhos Verdes não poderão ser modificados em qualquer dos seus aspectos sem o parecer favorável do referido organismo, que facultará o serviço de consultas prévias.
+Art. 9.º Os elementos componentes da rotulagem aprovada pela Comissão de Viticultura da Região dos Vinhos Verdes não poderão ser modificados em qualquer dos seus aspectos sem o parecer favorável do referido organismo, que facultará o serviço de consultas prévias.
 
 § único. Dos rótulos ou embalagens pirogravados a adoptar nos termos deste artigo devem ser fornecidos três exemplares para efeito de anotação no respectivo processo e arquivo.
 
-###### Art. 10.º A utilização de vasilhame diferente do inscrito na Comissão de Viticultura da Região dos Vinhos Verdes fica sujeita a inscrição prévia no mesmo organismo.
+Art. 10.º A utilização de vasilhame diferente do inscrito na Comissão de Viticultura da Região dos Vinhos Verdes fica sujeita a inscrição prévia no mesmo organismo.
 
-###### Art. 11.º Os selos de origem serão emitidos pela Comissão de Viticultura da Região dos Vinhos Verdes e a sua aposição e uso regular-se-ão pelas regras que se estabelecem, em alternativa, em cada um dos parágrafos seguintes:
+Art. 11.º Os selos de origem serão emitidos pela Comissão de Viticultura da Região dos Vinhos Verdes e a sua aposição e uso regular-se-ão pelas regras que se estabelecem, em alternativa, em cada um dos parágrafos seguintes:
 
 § 1.º - a) Os selos de origem serão entregues, em confiança, aos interessados para que deles usem exclusivamente nas marcas e vinhos para tal efeito aprovados pela Comissão de Viticultura da Região dos Vinhos Verdes;
 
@@ -174,28 +205,28 @@ g) Os selos que não chegarem a ser apostos serão devolvidos à Comissão de Vi
 
 h) Os selos de origem não poderão, seja a que título for, continuar em poder dos interessados logo que ao vinho para que foram emitidos tenha sido dado destino diferente do engarrafamento.
 
-###### Art. 12.º Dentro do prazo máximo de três dias, após cada aposição de selos de origem, deverá o interessado participar à sede da Comissão de Viticultura da Região dos Vinhos Verdes ou suas delegações, onde quer que se encontre a respectiva conta corrente de vinhos, quais os selos utilizados, o vinho e marca em que o foram, bem como o número de processo de inscrição e litragem documentada.
+Art. 12.º Dentro do prazo máximo de três dias, após cada aposição de selos de origem, deverá o interessado participar à sede da Comissão de Viticultura da Região dos Vinhos Verdes ou suas delegações, onde quer que se encontre a respectiva conta corrente de vinhos, quais os selos utilizados, o vinho e marca em que o foram, bem como o número de processo de inscrição e litragem documentada.
 
 § único. Nos casos em que não tenha sido anteriormente liquidada, através de certificado de origem ou guia respeitante ao mesmo vinho, deverá ser efectuado no acto de entrega da participação o pagamento da taxa fixada no n.º 2.º do artigo 1.º do [Decreto-Lei n.º 34054](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34054-1944-563853).
 
-###### Art. 13.º A participação de aposição de selos de origem vale também para efeito do disposto nos §§ 4.º e 9.º, respectivamente, dos artigos 3.º e 19.º do [Decreto n.º 16684](https://diariodarepublica.pt/dr/detalhe/decreto/16684-1929-354888).
+Art. 13.º A participação de aposição de selos de origem vale também para efeito do disposto nos §§ 4.º e 9.º, respectivamente, dos artigos 3.º e 19.º do [Decreto n.º 16684](https://diariodarepublica.pt/dr/detalhe/decreto/16684-1929-354888).
 
-###### Art. 14.º A entidade, produtor ou armazenista, a quem estiverem confiados selos de origem terá de manter em dia um registo de existência, de modelo a fornecer pela Comissão de Viticultura da Região dos Vinhos Verdes.
+Art. 14.º A entidade, produtor ou armazenista, a quem estiverem confiados selos de origem terá de manter em dia um registo de existência, de modelo a fornecer pela Comissão de Viticultura da Região dos Vinhos Verdes.
 
 § único. A Comissão de Viticultura da Região dos Vinhos Verdes fiscalizará o registo referido, podendo, nos casos em que o tiver por conveniente, recolher os selos sobrantes ou substituí-los por novas séries.
 
-###### Art. 15.º Os selos de origem, enquanto não forem aplicados, são, para todos os efeitos, propriedade da Comissão de Viticultura da Região dos Vinhos Verdes.
+Art. 15.º Os selos de origem, enquanto não forem aplicados, são, para todos os efeitos, propriedade da Comissão de Viticultura da Região dos Vinhos Verdes.
 
 Disposições transitórias
 
-###### Art. 16.º A obrigatoriedade do uso dos selos de origem aqui regulamentada torna-se efectiva desde o dia 1 de Janeiro de 1961, data a partir da qual não poderão sair dos armazéns das entidades engarrafadoras vinhos verdes engarrafados ou engarrafonados sem conterem aposto este documento.
+Art. 16.º A obrigatoriedade do uso dos selos de origem aqui regulamentada torna-se efectiva desde o dia 1 de Janeiro de 1961, data a partir da qual não poderão sair dos armazéns das entidades engarrafadoras vinhos verdes engarrafados ou engarrafonados sem conterem aposto este documento.
 
-###### Art. 17.º A partir do dia 1 de Julho de 1961 não poderão ser vendidos nem expostos para venda ao público vinhos verdes engarrafados ou em garrafões até à capacidade de 20 l sem que nas respectivas embalagens estejam apostos os selos de origem criados pelo [Decreto-Lei n.º 42590](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42590-1959-430252).
+Art. 17.º A partir do dia 1 de Julho de 1961 não poderão ser vendidos nem expostos para venda ao público vinhos verdes engarrafados ou em garrafões até à capacidade de 20 l sem que nas respectivas embalagens estejam apostos os selos de origem criados pelo [Decreto-Lei n.º 42590](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42590-1959-430252).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Julho de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Luís Quartin Graça - José Gonçalo da Cunha Sottomayor Correia de Oliveira.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/07/16000/17231725.pdf))](https://files.diariodarepublica.pt/1s/1960/07/16000/17231725.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/07/16000/17231725.pdf)
 
 Secretarias de Estado da Agricultura e do Comércio, 12 de Julho de 1960. - O Secretário de Estado da Agricultura, Luís Quartin Graça. - O Secretário de Estado do Comércio, José Gonçalo da Cunha Sottomayor Correia de Oliveira.

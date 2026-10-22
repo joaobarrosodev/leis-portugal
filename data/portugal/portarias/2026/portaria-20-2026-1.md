@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/20/2026/01/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20-2026-1016097567
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-20T00:00:00Z'
+  retrieved_at: '2026-10-22T18:29:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47f0a0290cecae4b9f8d92df59e34ccf017ec6735a24744afd2cdf69a677ee7a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52353d22dfcbe490d37770b0a20e5306dc2693b7ecad0e16ff18b7835857f56d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:29:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
-- Financiamento
 - Comparticipação
-- Cooperação
-- Saúde
-- Regulamentação de Atos Legislativos
 - Comparticipação Familiar
-- Serviço Nacional de Saúde
-- IPSS
-- Residência
+- Cooperação
 - Estabelecimento Hospitalar
+- Financiamento
+- IPSS
+- Regulamentação de Atos Legislativos
+- Residência
+- Saúde
 - Segurança Social
+- Serviço Nacional de Saúde
 - Transporte de Doentes
 relationships:
+- type: amends
+  target: pt:numero:portaria:38-A/2023
+  label: Altera, a partir de 21 de janeiro de 2026, os artigos 1.º, 3.º, 5.º, 6.º, 7.º e 8.º, e adita os artigos 5.º-A, 5.º-B
+    e 7.º-A e um anexo à Portaria n.º 38-A/2023, de 2 de fevereiro, Diário da República n.º 24/2023, 1º Suplemento, Série
+    I
+  source: null
+  date: '2023-02-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/120/2015/06/30/p/dre
   label: null
@@ -117,16 +124,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/67/2012/03/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/67/2012/03/21/p/dre
+- type: cites
+  target: pt:dre:207026149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217571944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66639520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67641479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67666075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:899757460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:29:27Z'
   warnings: []
   errors: []
 ---
@@ -177,7 +220,9 @@ Os artigos 1.º, 3.º, 5.º, 6.º, 7.º e 8.º da [Portaria n.º 38-A/2023](http
 
 4 - O acolhimento pode ainda ocorrer, a título subsidiário e de forma transitória, em unidades intermédias ou camas intermédias e em entidades de acolhimento com características adequadas às altas hospitalares ou em estruturas públicas, privadas com ou sem fins lucrativos, do setor social e solidário ou da Santa Casa da Misericórdia de Lisboa, nos termos da presente portaria.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - A referenciação, avaliação, admissão e acompanhamento das situações abrangidas pela presente portaria obedecem aos procedimentos previstos na regulamentação em vigor, assentando numa avaliação articulada entre os serviços do ISS, I. P., a Direção Executiva do SNS, I. P., e o serviço social do hospital do SNS.
 
@@ -201,7 +246,9 @@ b) Determinar o encaminhamento para a resposta social mais adequada, designadame
 
 9 - Sempre que a pessoa com alta clínica resida no concelho de Lisboa, as competências da segurança social previstas no presente artigo são asseguradas por profissionais da Santa Casa da Misericórdia de Lisboa.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - As vagas em respostas sociais abrangidas pela presente portaria são disponibilizadas mediante instrumentos de cooperação celebrados nos termos legalmente aplicáveis, designadamente através de adenda ao acordo de cooperação, de novo acordo, de protocolo de cooperação ou de contrato-programa, consoante a natureza da entidade e da resposta.
 
@@ -219,7 +266,9 @@ b) Determinar o encaminhamento para a resposta social mais adequada, designadame
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 6.º — Comparticipação financeira
+Artigo 6.º
+
+Comparticipação financeira
 
 1 - À ocupação das vagas reguladas pela presente portaria corresponde uma comparticipação financeira do ISS, I. P., calculada com base no custo médio real da resposta social ERPI, convencionada no Compromisso de Cooperação para o Setor Social e Solidário em vigor, sem prejuízo das deduções previstas no artigo 7.º
 
@@ -251,7 +300,9 @@ c) O SNS, quanto aos cuidados de saúde adicionais que possam ser necessários, 
 
 10 - Os cuidados de saúde adicionais referidos na alínea c) do número anterior, designadamente cuidados médicos e de enfermagem que se revelem necessários em função do plano individual de cuidados de saúde prescrito pelo SNS, de acordo com a avaliação prevista no artigo 3.º, são faturados autonomamente à respetiva unidade local de saúde, constituindo encargo do SNS, mediante faturação detalhada e de acordo com as tabelas de preços em vigor e com as condições previamente acordadas no instrumento contratual aplicável.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O valor da comparticipação familiar mensal devida pela utilização das vagas reguladas pela presente portaria é determinado de acordo com as regras aplicáveis à resposta social ERPI, conforme o anexo à [Portaria n.º 196-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/196-a-2015-67666075), de 1 de julho, na sua redação atual.
 
@@ -259,11 +310,11 @@ c) O SNS, quanto aos cuidados de saúde adicionais que possam ser necessários, 
 
 3 - No caso de acolhimento em unidades intermédias ou camas intermédias, o valor da comparticipação familiar é apurado nos termos do n.º 1 e deduzido à comparticipação financeira da segurança social referida na alínea a) do n.º 9 do artigo 6.º, sem prejuízo do financiamento pelo SNS dos cuidados de saúde adicionais, nos termos da alínea c) do n.º 9 e do n.º 10 do artigo 6.º
 
-4 - O apuramento da comparticipação familiar é efetuado pela entidade de acolhimento e comunicado aos serviços do ISS, I. P., para efeitos da dedução prevista nos n.<sup>os</sup>2 e 3 e do disposto no n.º 5 do artigo 3.º
+4 - O apuramento da comparticipação familiar é efetuado pela entidade de acolhimento e comunicado aos serviços do ISS, I. P., para efeitos da dedução prevista nos n.os2 e 3 e do disposto no n.º 5 do artigo 3.º
 
 5 - A comparticipação familiar é devida desde a data de admissão e durante o período de ocupação da vaga, sem prejuízo das regras aplicáveis em matéria de isenção, redução ou revisão do valor apurado, nos termos gerais aplicáveis às respostas sociais referidas no n.º 1.
 
-6 - Sempre que a dedução prevista nos n.<sup>os</sup>2 e 3 não seja efetivada por via da comparticipação familiar, os serviços do ISS, I. P., asseguram, a título provisório, o respetivo montante em falta, nos termos a definir pelos serviços competentes, procedendo à respetiva cobrança ulterior junto da pessoa acolhida.
+6 - Sempre que a dedução prevista nos n.os2 e 3 não seja efetivada por via da comparticipação familiar, os serviços do ISS, I. P., asseguram, a título provisório, o respetivo montante em falta, nos termos a definir pelos serviços competentes, procedendo à respetiva cobrança ulterior junto da pessoa acolhida.
 
 7 - A cobrança referida no número anterior pode, mediante autorização expressa da pessoa acolhida ou, quando tal não seja possível, a mesma seja prestada pelo seu representante legal, sempre que aplicável, e sem prejuízo dos limites de penhorabilidade parcial das prestações de segurança social e demais rendimentos previstos na lei, ser efetuada através da afetação de parte das prestações pecuniárias que lhe sejam atribuídas pelos regimes do sistema previdencial ou do sistema de proteção social de cidadania.
 
@@ -271,7 +322,9 @@ c) O SNS, quanto aos cuidados de saúde adicionais que possam ser necessários, 
 
 9 - A suspensão não é aplicada caso o devedor pretenda proceder aos pagamentos ou caso o devedor tenha património superior ao que a segurança social tenha conhecimento, com exclusão da casa de morada de família.
 
-###### Artigo 8.º — Duração da permanência em unidades intermédias ou camas intermédias
+Artigo 8.º
+
+Duração da permanência em unidades intermédias ou camas intermédias
 
 1 - O acolhimento em unidade intermédia ou cama intermédia tem a duração máxima de seis meses, podendo ser renovável, em casos excecionais, por mais seis meses.
 
@@ -293,11 +346,13 @@ Proibição de contratualização direta e autorização excecional
 
 4 - A autorização prevista no n.º 2 tem natureza extraordinária e temporária, não podendo ser fundamento para a renovação de instrumentos contratuais preexistentes.
 
-###### Artigo 5.º-B — Unidades intermédias e camas intermédias
+Artigo 5.º-B
+
+Unidades intermédias e camas intermédias
 
 1 - Para efeitos da presente portaria, as unidades intermédias destinam-se ao acolhimento de natureza estritamente transitória de pessoas com alta clínica que, por motivos de natureza social, não possam ser de imediato encaminhadas para a resposta social permanente mais adequada à sua situação, constituindo uma solução subsidiária e excecional destinada a evitar a sua permanência indevida em estabelecimento hospitalar.
 
-2 - As unidades intermédias podem ser criadas pelas entidades do setor social e solidário mencionadas nos n.<sup>os</sup> 3 e 4 do artigo 1.º, quer como unidades autónomas especificamente destinadas a esse fim, quer mediante a afetação de camas dedicadas em respostas sociais pré-existentes, designadas camas intermédias, não podendo, em qualquer caso, assumir natureza estrutural nem substituir as respostas sociais definitivas previstas na presente portaria.
+2 - As unidades intermédias podem ser criadas pelas entidades do setor social e solidário mencionadas nos n.os 3 e 4 do artigo 1.º, quer como unidades autónomas especificamente destinadas a esse fim, quer mediante a afetação de camas dedicadas em respostas sociais pré-existentes, designadas camas intermédias, não podendo, em qualquer caso, assumir natureza estrutural nem substituir as respostas sociais definitivas previstas na presente portaria.
 
 3 - As unidades intermédias e as camas intermédias devem cumprir os seguintes requisitos mínimos de natureza estrutural, funcional e organizacional, de forma cumulativa:
 
@@ -321,7 +376,9 @@ b) A conversão de vagas de respostas sociais, de que já disponham, em camas in
 
 8 - O financiamento das unidades intermédias e camas intermédias obedece ao disposto no artigo 6.º
 
-###### Artigo 7.º-A — Aplicação do regime Ponto Parceiro do SNS
+Artigo 7.º-A
+
+Aplicação do regime Ponto Parceiro do SNS
 
 Aplica-se às unidades intermédias e camas intermédias o disposto na [Portaria n.º 322-B/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/322-b-2024-899757460), de 10 de dezembro, que estabelece o Regime Ponto Parceiro SNS (PP-SNS) para ERPI e para LR.»
 
@@ -331,7 +388,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 15 de janeiro de 2026.
 
-**A Ministra da Saúde, Ana Paula Martins. - A Ministra do Trabalho, Solidariedade e Segurança Social, Rosário Palma Ramalho.**
+A Ministra da Saúde, Ana Paula Martins. - A Ministra do Trabalho, Solidariedade e Segurança Social, Rosário Palma Ramalho.
 
 ## ANEXO — Requisitos específicos das áreas funcionais das unidades intermédias
 
@@ -363,9 +420,9 @@ Ficha 1 - Área técnica e instalações para o pessoal
 
 1.1 - Destina-se ao local de trabalho da equipa técnica e restante pessoal da unidade intermédia, e inclui os seguintes espaços com área útil mínima de:
 
-a) Gabinete/sala de pessoal: 10 m<sup>2</sup>;
+a) Gabinete/sala de pessoal: 10 m2;
 
-b) Instalações sanitárias, com equipamento sanitário completo: 3,5 m<sup>2</sup>;
+b) Instalações sanitárias, com equipamento sanitário completo: 3,5 m2;
 
 c) Deve ficar garantido o espaço necessário para a colocação de armários individuais.
 
@@ -375,9 +432,9 @@ Ficha 2 - Convívio e refeições
 
 2.1 - Pode ser um compartimento único ou composto por duas salas;
 
-2.2 - A área total das salas, excetuando circulações, átrios de atravessamento e instalações sanitárias, deve garantir 2,20 m<sup>2</sup>/utente, não podendo cada sala ter uma área inferior a 16 m<sup>2</sup>.
+2.2 - A área total das salas, excetuando circulações, átrios de atravessamento e instalações sanitárias, deve garantir 2,20 m2/utente, não podendo cada sala ter uma área inferior a 16 m2.
 
-2.3 - Deve prever instalações sanitárias para ambos os sexos, sendo uma acessível a pessoas com mobilidade condicionada: 4,84 m<sup>2</sup>.
+2.3 - Deve prever instalações sanitárias para ambos os sexos, sendo uma acessível a pessoas com mobilidade condicionada: 4,84 m2.
 
 2.4 - São dispensadas as instalações sanitárias referidas na alínea anterior, quando a área de alojamento se localize no mesmo piso do edifício e na proximidade.
 
@@ -385,13 +442,13 @@ Ficha 3 - Área de alojamento
 
 Os espaços a considerar com as áreas úteis mínimas são:
 
-a) Quarto individual: 9 m<sup>2</sup>;
+a) Quarto individual: 9 m2;
 
-b) Quarto duplo: 12 m<sup>2</sup>;
+b) Quarto duplo: 12 m2;
 
-c) Quarto triplo: 18 m<sup>2</sup>;
+c) Quarto triplo: 18 m2;
 
-d) Instalações sanitárias, com duche embutido ou nivelado com o pavimento, podendo servir, no máximo, cinco residentes, sendo de acesso privado ou localizando-se na proximidade dos quartos, e acessíveis a pessoas com mobilidade condicionada: 4,84 m<sup>2</sup>.
+d) Instalações sanitárias, com duche embutido ou nivelado com o pavimento, podendo servir, no máximo, cinco residentes, sendo de acesso privado ou localizando-se na proximidade dos quartos, e acessíveis a pessoas com mobilidade condicionada: 4,84 m2.
 
 e) Em casos excecionais e devidamente fundamentados, o ISS pode autorizar a colocação de utentes em quartos com áreas inferiores às estabelecidas nas alíneas anteriores.
 
@@ -407,18 +464,20 @@ b) Espaço complementar, integrado no espaço principal ou com comunicação dir
 
 c) Espaços anexos, compostos por despensa, zona de frio e zona de lixo.
 
-4.1.2 - A área mínima útil da cozinha é de 10 m<sup>2</sup>.
+4.1.2 - A área mínima útil da cozinha é de 10 m2.
 
-4.1.3 - Caso a unidade intermédia recorra à confeção de alimentos no exterior, a cozinha pode ser simplificada e possuir uma área mínima de 6 m<sup>2</sup>, devendo existir os espaços necessários para proceder, em condições de higiene e de bom funcionamento, à receção e armazenamento das refeições e ao seu aquecimento e respetiva distribuição.
+4.1.3 - Caso a unidade intermédia recorra à confeção de alimentos no exterior, a cozinha pode ser simplificada e possuir uma área mínima de 6 m2, devendo existir os espaços necessários para proceder, em condições de higiene e de bom funcionamento, à receção e armazenamento das refeições e ao seu aquecimento e respetiva distribuição.
 
 4.2 - Lavandaria:
 
 4.2.1 - Os espaços a considerar devem ter em conta depósito para receção da roupa suja, máquinas de lavar e secar roupa e locais para guardar a roupa lavada.
 
-4.2.2 - A área mínima útil da lavandaria é de 6 m<sup>2</sup>.
+4.2.2 - A área mínima útil da lavandaria é de 6 m2.
 
 4.2.3 - Caso a unidade intermédia recorra ao tratamento da roupa no exterior, não é necessário existir lavandaria, devendo ficar garantido espaço para depósito de roupa suja e espaço para receção de roupa lavada.
 
 4.3 - Outros espaços:
 
 4.3.1 - Devem ainda ser previstos arrumos para produtos e equipamentos de limpeza.
+
+119947306

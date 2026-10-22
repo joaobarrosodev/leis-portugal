@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/129/2026/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2026-1139897686
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-29T00:00:00Z'
+  retrieved_at: '2026-10-22T18:45:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52010fe5507a6ff04ff5be9064e0cc7709747ff139eae4ac8cdf3e71d50a8e0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef9bd52dd07feaa02ca1436506bc86ae5afd78f86a3f3c324a099142cf63c65f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:45:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
-- Ordenamento do Território
-- Definição de Competências
 - Comissão de Coordenação e Desenvolvimento Regional
+- Definição de Competências
+- Ordenamento do Território
 - Regime Jurídico
+- Reserva Ecológica Nacional
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:166/2008
+  label: Altera, a partir de 4 de julho de 2026, o artigo 21.º do Decreto-Lei n.º 166/2008, de 22 de agosto, Diário da República
+    n.º 162/2008, Série I
+  source: null
+  date: '2008-08-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/166/2008/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/166/2008/08/22/p/dre
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:45:27Z'
   warnings: []
   errors: []
 ---
@@ -125,12 +135,14 @@ O artigo 21.º do [Decreto-Lei n.º 166/2008](https://diariodarepublica.pt/dr/de
 
 Visto e aprovado em Conselho de Ministros de 29 de janeiro de 2026. - Luís Montenegro - Manuel Castro Almeida.
 
-**Promulgado em 24 de junho de 2026.**
+Promulgado em 24 de junho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 25 de junho de 2026.**
+Referendado em 25 de junho de 2026.
 
 Pelo Primeiro-Ministro, Paulo Artur dos Santos de Castro de Campos Rangel, Ministro de Estado e dos Negócios Estrangeiros.
+
+119948915

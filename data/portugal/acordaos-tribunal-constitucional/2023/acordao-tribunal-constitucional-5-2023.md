@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/02500/0001200096.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/5/2023/02/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/5-2023-207026140
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-03T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0cad49b452451526102d5fdbdc4a0187fc8e8351a4f018179c75557603e8a172
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7668b7f188efc5a5ee3459eaa579f54733e36c736cf2bef386af7cb60bf6faa5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Assistência Médica
-- Inconstitucionalidade
-- Interpretação do Direito
-- Tribunal Constitucional
 - Assembleia da República
-- Qualidade de VIDA
+- Assistência Médica
 - Código Penal
 - Diploma Legal
 - Doença
+- Inconstitucionalidade
+- Interpretação do Direito
+- Qualidade de VIDA
+- Tribunal Constitucional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/31/2018/07/18/p/dre
@@ -91,16 +91,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/1/2022/01/04/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/1/2022/01/04/p/dre
+- type: cites
+  target: pt:dre:115712240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177088811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:28Z'
   warnings: []
   errors: []
 ---
@@ -591,7 +607,7 @@ Assim, e no que toca à [Lei n.º 52/2012](https://diariodarepublica.pt/dr/detal
 
 a) «Cuidados paliativos» os cuidados ativos, coordenados e globais, prestados por unidades e equipas específicas, em internamento ou no domicílio, a doentes em situação em sofrimento decorrente de doença incurável ou grave, em fase avançada e progressiva, assim como às suas famílias, com o principal objetivo de promover o seu bem-estar e a sua qualidade de vida, através da prevenção e alívio do sofrimento físico, psicológico, social e espiritual, com base na identificação precoce e do tratamento rigoroso da dor e outros problemas físicos, mas também psicossociais e espirituais;
 
-###### Base III
+Base III
 
 1 - Os cuidados paliativos centram-se na prevenção e alívio do sofrimento físico, psicológico, social e espiritual, na melhoria do bem-estar e no apoio aos doentes e às suas famílias, quando associado a doença grave ou incurável, em fase avançada e progressiva".
 
@@ -653,7 +669,9 @@ Efetivamente, lendo o pedido formulado pelo PR, temos que, do ponto 1.º ao 7.º
 
 Mas, como dito acima, entenderam, uns, que o artigo 3.º, n.os 1 e 3, estabelecia uma preferência pela eutanásia e, nesse sentido, a subsidiariedade do suicídio medicamente assistido. Entenderam outros que a questão da paridade ou preferência por uma das modalidades da morte medicamente assistida apenas está presente no n.º 2 do artigo 9.º, preceito não impugnado pelo requerente. Pelos motivos expostos, não podemos concordar com nenhuma das posições, limitando-nos a transcrever o texto de ambos:
 
-###### Artigo 3.º — (Morte medicamente assistida não punível
+Artigo 3.º
+
+(Morte medicamente assistida não punível
 
 1 - Considera-se morte medicamente assistida não punível a que ocorre por decisão da própria pessoa, maior, cuja vontade seja atual e reiterada, séria, livre e esclarecida, em situação de sofrimento de grande intensidade, com lesão definitiva de gravidade extrema ou doença grave e incurável, quando praticada ou ajudada por profissionais de saúde.
 
@@ -667,7 +685,9 @@ b) Doença grave e incurável.
 
 [...]".
 
-###### Artigo 9.º — Concretização da decisão do doente
+Artigo 9.º
+
+Concretização da decisão do doente
 
 "[...]
 
@@ -1490,3 +1510,5 @@ Num outro plano, o legislador, ao admitir o suicídio assistido como modalidade 
 Sucede, porém, que as normas a propósito das quais se poderia suscitar esta questão, designadamente, o n.º 2 do artigo 9.º - não foram incluídas no objeto do pedido de fiscalização do Presidente da República, não podendo, por isso, ser apreciadas pelo Tribunal.
 
 João Pedro Caupers.
+
+116126788

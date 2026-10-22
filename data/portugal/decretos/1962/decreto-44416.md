@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44416-1962-164472
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-06-25T00:00:00Z'
+  retrieved_at: '2026-10-22T19:29:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6220f6fc007ace01b22ba534c52cdce29cf32b15f94584a39deff42e3b9134b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14256c79b8930af67aa16efe102c6758decec05d91f7b35c45e2119f856cfcf6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:29:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:184573:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:29:53Z'
   warnings: []
   errors: []
 ---
@@ -89,15 +105,15 @@ Considerando a urgência na publicação das medidas legislativas adequadas e a 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - I) A partir da entrada em vigor deste diploma caducam as autorizações de residência concedidas a súbditos da União Indiana nas províncias ultramarinas portuguesas.
+Artigo 1.º - I) A partir da entrada em vigor deste diploma caducam as autorizações de residência concedidas a súbditos da União Indiana nas províncias ultramarinas portuguesas.
 
 II) As consequentes medidas de execução serão tomadas pelos governadores das províncias nos termos da competência que lhes atribui a [Lei n.º 2066](https://diariodarepublica.pt/dr/detalhe/lei/2066-1953-640659), de 27 de Junho de 1953, e os estatutos provinciais.
 
-###### Art. 2.º - I) Para efeitos deste diploma não gozam da cidadania portuguesa os filhos de pais de nacionalidade indiana nascidos em território português.
+Art. 2.º - I) Para efeitos deste diploma não gozam da cidadania portuguesa os filhos de pais de nacionalidade indiana nascidos em território português.
 
 II) Podem, no entanto, ficar excluídos desta regra aqueles a quem em processo de justificação administrativa, organizado na Direcção dos Serviços de Administração Civil e decidido pelo governador da província, for concedida a autorização de residência.
 
-###### Art. 3.º - I) Para os efeitos referidos no artigo anterior, consideram-se de nacionalidade indiana as sociedades civis e comerciais, qualquer que seja a sua espécie e a localização da sua sede, em que se verifique alguma das circunstâncias seguintes:
+Art. 3.º - I) Para os efeitos referidos no artigo anterior, consideram-se de nacionalidade indiana as sociedades civis e comerciais, qualquer que seja a sua espécie e a localização da sua sede, em que se verifique alguma das circunstâncias seguintes:
 
 a) A maioria do capital pertença a pessoas singulares ou colectivas de nacionalidade indiana ou assim consideradas;
 
@@ -107,17 +123,17 @@ c) A maioria dos corpos gerentes seja constituída por pessoas de nacionalidade 
 
 II) As delegações, sucursais, agências ou representações de sociedades nas condições referidas no parágrafo anterior estão sujeitas aos mesmos princípios.
 
-###### Art. 4.º - I) Serão liquidados todos os bens mobiliários e imobiliários pertencentes às pessoas singulares ou colectivas referidas no parágrafo i) do artigo 2.º e no artigo 3.º deste diploma existentes ou situados nas províncias ultramarinas portuguesas.
+Art. 4.º - I) Serão liquidados todos os bens mobiliários e imobiliários pertencentes às pessoas singulares ou colectivas referidas no parágrafo i) do artigo 2.º e no artigo 3.º deste diploma existentes ou situados nas províncias ultramarinas portuguesas.
 
 II) O disposto no [Decreto n.º 44098](https://diariodarepublica.pt/dr/detalhe/decreto/44098-1961-184573), de 18 de Dezembro de 1961, não prejudica a liquidação agora ordenada neste diploma e os actos de apreensão, alienação e disposição de bens que importar.
 
-###### Art. 5.º - I) As sociedades referidas no artigo 3.º consideram-se dissolvidas de direito logo que o governador da província determine, por despacho, a sua liquidação.
+Art. 5.º - I) As sociedades referidas no artigo 3.º consideram-se dissolvidas de direito logo que o governador da província determine, por despacho, a sua liquidação.
 
 II) A liquidação assim determinada processa-se perante a comissão referida no artigo seguinte.
 
-###### Art. 6.º A acção coordenadora de todos os assuntos relativos às pessoas e bens dos súbditos da União Indiana nas províncias ultramarinas será exercida por uma comissão, nomeada pelo governador, composta de tantos membros quantos os necessários ao cumprimento das suas atribuições e presidida por um magistrado indicado pelo procurador da República.
+Art. 6.º A acção coordenadora de todos os assuntos relativos às pessoas e bens dos súbditos da União Indiana nas províncias ultramarinas será exercida por uma comissão, nomeada pelo governador, composta de tantos membros quantos os necessários ao cumprimento das suas atribuições e presidida por um magistrado indicado pelo procurador da República.
 
-###### Art. 7.º Em especial, compete à comissão referida no artigo anterior:
+Art. 7.º Em especial, compete à comissão referida no artigo anterior:
 
 a) Superintender na administração dos bens das pessoas singulares ou colectivas de nacionalidade indiana;
 
@@ -139,21 +155,21 @@ i) Declarar a prescrição referida no parágrafo III) do artigo 20.º;
 
 j) Apreciar e julgar as contas dos depositários e administradores que nomear.
 
-###### Art. 8.º A liquidação obedecerá a formalidades sumárias e será efectuada no mais curto prazo possível.
+Art. 8.º A liquidação obedecerá a formalidades sumárias e será efectuada no mais curto prazo possível.
 
-###### Art. 9.º Cada liquidação terá um processo próprio e uma conta corrente no estabelecimento bancário emissor da província, em nome da comissão referida nos artigos 6.º e 7.º
+Art. 9.º Cada liquidação terá um processo próprio e uma conta corrente no estabelecimento bancário emissor da província, em nome da comissão referida nos artigos 6.º e 7.º
 
-###### Art. 10.º - I) A comissão colherá das entidades competentes a relação completa das pessoas singulares e colectivas sujeitas à aplicação deste diploma, bem como dos seus bens, natureza e situação.
+Art. 10.º - I) A comissão colherá das entidades competentes a relação completa das pessoas singulares e colectivas sujeitas à aplicação deste diploma, bem como dos seus bens, natureza e situação.
 
 II) A negligência de qualquer entidade no cumprimento dessa obrigação é considerada como falta disciplinar a que pode corresponder pena até à do n.º 6.º do artigo 354.º do Estatuto do Funcionalismo Ultramarino, conforme os casos.
 
 III) A falsidade da informação pelos interessados ou outras pessoas é punida nos termos do Código Penal como falsa declaração a autoridade pública.
 
-###### Art. 11.º - I) Em relação a cada uma dessas pessoas promoverá a comissão as diligências necessárias a apreensão, arrolamento, conservação, administração e venda dos seus bens.
+Art. 11.º - I) Em relação a cada uma dessas pessoas promoverá a comissão as diligências necessárias a apreensão, arrolamento, conservação, administração e venda dos seus bens.
 
 II) As diligências e actos praticados pela comissão no exercício das atribuições pertinentes à liquidação dos bens das mencionadas pessoas têm a validade dos actos judiciais.
 
-###### Art. 12.º - I) A liquidação de cada, património de pessoas singulares ou colectivas será anunciada por aviso no Boletim Oficial da província expedido pela comissão, no qual se fixará o prazo, não superior a 45 dias, dentro do qual os credores poderão reclamar os seus créditos, que serão considerados na medida em que se mostrarem provados.
+Art. 12.º - I) A liquidação de cada, património de pessoas singulares ou colectivas será anunciada por aviso no Boletim Oficial da província expedido pela comissão, no qual se fixará o prazo, não superior a 45 dias, dentro do qual os credores poderão reclamar os seus créditos, que serão considerados na medida em que se mostrarem provados.
 
 II) As vendas que houverem de fazer-se serão efectuadas pela forma que em cada caso se mostrar mais conveniente, podendo os estabelecimentos comerciais ou industriais ser vendidos em globo.
 
@@ -163,37 +179,37 @@ IV) Se a venda importar escritura pública, intervirá como representante do don
 
 V) A adjudicação efectuada nos termos do parágrafo III) tem a validade referida no parágrafo II) do artigo 11.º
 
-###### Art. 13.º Em caso algum a insuficiência do activo para cobrir o passivo, quer prévia, quer obtida em liquidação, determinará a insolvência ou a falência.
+Art. 13.º Em caso algum a insuficiência do activo para cobrir o passivo, quer prévia, quer obtida em liquidação, determinará a insolvência ou a falência.
 
-###### Art. 14.º - I) Os bens das pessoas singulares ou colectivas nacionais da União Indiana, ou assim consideradas, apreendidos, a qualquer título, pelas autoridades judiciais depois de 30 de Abril de 1961, bem como o produto das vendas efectuadas desde então até à entrada em vigor deste diploma, serão por estas postas à ordem da comissão referida no artigo 6.º para o efeito de serem consideradas na liquidação cuja efectivação se lhes atribui.
+Art. 14.º - I) Os bens das pessoas singulares ou colectivas nacionais da União Indiana, ou assim consideradas, apreendidos, a qualquer título, pelas autoridades judiciais depois de 30 de Abril de 1961, bem como o produto das vendas efectuadas desde então até à entrada em vigor deste diploma, serão por estas postas à ordem da comissão referida no artigo 6.º para o efeito de serem consideradas na liquidação cuja efectivação se lhes atribui.
 
 II) A fim de serem considerados pela comissão no respectivo processo de liquidação, aquelas autoridades, ao procederem como ficou referido no parágrafo anterior, enviar-lhe-ão os respectivos processos, que assim ficarão desafectados da sua competência.
 
-###### Art. 15.º - I) Os actos e contratos, celebrados nas províncias ultramarinas com os nacionais da União Indiana, ou pessoas singulares ou colectivas assim consideradas por este diploma, a partir de 30 de Setembro de 1961 são considerados nulos e de nenhum efeito, independentemente da declaração pelos tribunais.
+Art. 15.º - I) Os actos e contratos, celebrados nas províncias ultramarinas com os nacionais da União Indiana, ou pessoas singulares ou colectivas assim consideradas por este diploma, a partir de 30 de Setembro de 1961 são considerados nulos e de nenhum efeito, independentemente da declaração pelos tribunais.
 
 II) A comissão a que se refere o artigo 6.º poderá promover o cancelamento dos registos que tais actos hajam importado. Neste caso os bens revertem ao património inicial e serão tidos como valor a considerar na liquidação. Os direitos do adquirente serão apreciados no mesmo processo.
 
-###### Art. 16.º Os créditos e direitos reclamados mas não reconhecidos na liquidação extinguem-se de direito e não podem ser invocados em qualquer acção ou execução nos tribunais judiciais.
+Art. 16.º Os créditos e direitos reclamados mas não reconhecidos na liquidação extinguem-se de direito e não podem ser invocados em qualquer acção ou execução nos tribunais judiciais.
 
-###### Art. 17.º Nenhuma pessoa singular ou colectiva de nacionalidade indiana sujeita a liquidação prevenida neste diploma poderá intentar qualquer acção ou execução nos tribunais das províncias ultramarinas enquanto essa liquidação não se mostrar concluída.
+Art. 17.º Nenhuma pessoa singular ou colectiva de nacionalidade indiana sujeita a liquidação prevenida neste diploma poderá intentar qualquer acção ou execução nos tribunais das províncias ultramarinas enquanto essa liquidação não se mostrar concluída.
 
-###### Art. 18.º Os processos de liquidação pagam ao Estado, a título de custas, uma quantia igual a 5 por cento do valor do activo do respectivo património que sai precípua do produto dos bens vendidos.
+Art. 18.º Os processos de liquidação pagam ao Estado, a título de custas, uma quantia igual a 5 por cento do valor do activo do respectivo património que sai precípua do produto dos bens vendidos.
 
-###### Art. 19.º As transmissões efectuadas em liquidação estão sujeitas ao pagamento dos respectivos impostos nos termos gerais.
+Art. 19.º As transmissões efectuadas em liquidação estão sujeitas ao pagamento dos respectivos impostos nos termos gerais.
 
-###### Art. 20.º - I) O remanescente das liquidações será depositado e congelado no banco emissor à ordem do governo da província, depois de deduzida a quantia cuja transferência for autorizada pelo fundo cambial da província a favor do dono dos bens liquidados de nacionalidade indiana.
+Art. 20.º - I) O remanescente das liquidações será depositado e congelado no banco emissor à ordem do governo da província, depois de deduzida a quantia cuja transferência for autorizada pelo fundo cambial da província a favor do dono dos bens liquidados de nacionalidade indiana.
 
 II) Das importâncias que ficam em depósito mandará o governador entregar a parte que proporcionalmente ao seu capital pertença aos sócios das sociedades referidas no artigo 3.º que não sejam súbditos da União Indiana.
 
 III) As importâncias que nos termos do parágrafo I) não possam ser transferidas no prazo de três anos, a contar da data, do depósito, prescrevem a favor da Fazenda Nacional.
 
-###### Art. 21.º O disposto neste diploma não prejudica o que pelo [Decreto n.º 44275](https://diariodarepublica.pt/dr/detalhe/decreto/44275-1962-516270), de 10 de Abril de 1962, se assegurou às instituições de crédito.
+Art. 21.º O disposto neste diploma não prejudica o que pelo [Decreto n.º 44275](https://diariodarepublica.pt/dr/detalhe/decreto/44275-1962-516270), de 10 de Abril de 1962, se assegurou às instituições de crédito.
 
-###### Art. 22.º Das decisões da comissão a que se refere o artigo 6.º não há recurso.
+Art. 22.º Das decisões da comissão a que se refere o artigo 6.º não há recurso.
 
-###### Art. 23.º As dúvidas que a execução deste diploma suscitar serão resolvidas pelo Ministro do Ultramar em despacho fundamentado.
+Art. 23.º As dúvidas que a execução deste diploma suscitar serão resolvidas pelo Ministro do Ultramar em despacho fundamentado.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Junho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

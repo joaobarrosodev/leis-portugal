@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/30/2010/09/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/30-2010-342385
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:12:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02715213e54fc87ffb73ce60f17e086a48324ad34a01dd48a0013f9852ea4b26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31ad27df5aa74f3782aa3e074cc7e53d83f5c7c81d58ef4cd0071486146700f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:12:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aljezur
-- Reserva Ecológica Nacional
 - Ordenamento do Território
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
@@ -81,16 +81,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/595/2010/07/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/595/2010/07/29/p/dre
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:12:47Z'
   warnings: []
   errors: []
 ---
@@ -101,10 +105,10 @@ Ao abrigo da alínea h) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 162/2007](
 
 Na segunda planta anexa à portaria, onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18800/0430604306.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18800/0430604306.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18800/0430604306.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/09/18800/0430604306.pdf))](https://files.diariodarepublica.pt/1s/2010/09/18800/0430604306.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/09/18800/0430604306.pdf)
 
 Centro Jurídico, 24 de Setembro de 2010. - A Directora, Susana de Meneses Brasil de Brito.

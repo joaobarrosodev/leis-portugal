@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/7/2014/06/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/7-2014-25345947
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-06-02T00:00:00Z'
+  retrieved_at: '2026-10-22T17:53:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 820070f24e6fad22a8263e3c7c608cb5881d489157c2c20e501df9c1a85315d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0203c0fec96ed22ea677ee25698bb01b4df88af3600164f68a8d00c1f4334c91
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:53:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ subjects:
 - Acidente de Trabalho
 - Acordo
 - Aeronave com Motor
-- Código do Trabalho
-- Convenção Coletiva de Trabalho
-- Inconstitucionalidade
-- Faltas
-- Supremo Tribunal de Justiça
 - Aviação Civil
-- Contrato de Trabalho
 - Casamento
+- Código do Trabalho
+- Contrato de Trabalho
+- Convenção Coletiva de Trabalho
+- Faltas
+- Inconstitucionalidade
 - Sindicato
+- Supremo Tribunal de Justiça
 - Suspensão do Contrato de Trabalho
 - TAP
 relationships:
@@ -85,16 +85,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:53:34Z'
   warnings: []
   errors: []
 ---

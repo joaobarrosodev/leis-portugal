@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 51/1992, 2º Suplemento, Série I-B de 1992-02-29
   number: '51'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1142-(7) a 1142-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/02/051b02/00070007.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/21/1992/02/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/21-1992-581255
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-02-29T00:00:00Z'
+  retrieved_at: '2026-10-22T18:34:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06a451593850dfdb222ba6998215acdc9f430afd5409fa34f98adb1241fd542b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34f1269bca2e09864798974591cef70a16e2caed8923e48086773318e6a07699
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:34:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,28 +68,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alimento para Animais
-- Regulamento
 - Comércio
+- Regulamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1212/1991/12/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1212/1991/12/20/p/dre
+- type: cites
+  target: pt:dre:379113:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:34:31Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 21/92
+# Declaração de rectificação n.º 21/92
 
 Segundo comunicação do Ministério da Agricultura, a [Portaria n.º 1212/91](https://diariodarepublica.pt/dr/detalhe/portaria/1212-1991-379113), publicada no Diário da República, 1.ª série, n.º 293, de 20 de Dezembro de 1991, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
 

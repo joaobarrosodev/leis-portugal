@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45769-1964-577534
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-06-19T00:00:00Z'
+  retrieved_at: '2026-10-22T19:40:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fdd8ce41c4acfae24a188e4799e5c642b1925fd617919780a783db2070b3ff6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6388cc3e7c291299fe560fed41c025afa62fabd18a17f829dc34c5ce01d6e940
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:40:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:686388:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:40:54Z'
   warnings: []
   errors: []
 ---
@@ -88,13 +92,13 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É constituído na Procuradoria dos Estudantes Ultramarinos um fundo destinado a suportar os encargos com as bolsas-empréstimos previstas no [Decreto n.º 45240](https://diariodarepublica.pt/dr/detalhe/decreto/45240-1963-686388), de 11 de Setembro de 1963.
+Artigo 1.º É constituído na Procuradoria dos Estudantes Ultramarinos um fundo destinado a suportar os encargos com as bolsas-empréstimos previstas no [Decreto n.º 45240](https://diariodarepublica.pt/dr/detalhe/decreto/45240-1963-686388), de 11 de Setembro de 1963.
 
-###### Art. 2.º O referido fundo sairá dos subsídios atribuídos à Organização Nacional Mocidade Portuguesa pelo Ministério do Ultramar e, eventualmente, de empréstimos ou doações, de entidades de direito público ou privado, a ele destinados.
+Art. 2.º O referido fundo sairá dos subsídios atribuídos à Organização Nacional Mocidade Portuguesa pelo Ministério do Ultramar e, eventualmente, de empréstimos ou doações, de entidades de direito público ou privado, a ele destinados.
 
-###### Art. 3.º Será administrado conjuntamente pelos comissários adjuntos para o ultramar da Organização Nacional Mocidade Portuguesa e destina-se a contemplar os naturais das províncias ultramarinas que frequentem na metrópole quaisquer dos cursos a que se refere o citado [Decreto n.º 45240](https://diariodarepublica.pt/dr/detalhe/decreto/45240-1963-686388).
+Art. 3.º Será administrado conjuntamente pelos comissários adjuntos para o ultramar da Organização Nacional Mocidade Portuguesa e destina-se a contemplar os naturais das províncias ultramarinas que frequentem na metrópole quaisquer dos cursos a que se refere o citado [Decreto n.º 45240](https://diariodarepublica.pt/dr/detalhe/decreto/45240-1963-686388).
 
-###### Art. 4.º Os concorrentes às bolsas-empréstimos ficam sujeitos à disciplina prevista no diploma atrás citado, comprometendo-se a assinar um contrato com a Procuradoria, do qual constarão as seguintes cláusulas:
+Art. 4.º Os concorrentes às bolsas-empréstimos ficam sujeitos à disciplina prevista no diploma atrás citado, comprometendo-se a assinar um contrato com a Procuradoria, do qual constarão as seguintes cláusulas:
 
 1.º Número de anos de duração da bolsa-empréstimo, o qual será no mínimo o do curso que se propõem frequentar, acrescidos no máximo de um ano por cada dois de duração do curso.
 
@@ -116,19 +120,19 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § 5.º Findos os prazos máximos previstos, cessa a bolsa, ainda que o bolseiro não haja terminado o curso, ficando os responsáveis pela dívida com a obrigação de a amortizar nos moldes previstos.
 
-###### Art. 5.º A apreciação dos pedidos de concessão das bolsas-empréstimos será efectuada por uma comissão composta pelo director-geral do Ensino, que será o presidente, ou um seu representante, e os comissários adjuntos para o ultramar da Organização Nacional Mocidade Portuguesa.
+Art. 5.º A apreciação dos pedidos de concessão das bolsas-empréstimos será efectuada por uma comissão composta pelo director-geral do Ensino, que será o presidente, ou um seu representante, e os comissários adjuntos para o ultramar da Organização Nacional Mocidade Portuguesa.
 
-###### Art. 6.º Compete à comissão deliberar caso a caso sobre os candidatos às bolsas e emitir parecer sobre os que não estiverem taxativamente previstos no presente diploma, para que o Ministro do Ultramar decida, por simples despacho.
+Art. 6.º Compete à comissão deliberar caso a caso sobre os candidatos às bolsas e emitir parecer sobre os que não estiverem taxativamente previstos no presente diploma, para que o Ministro do Ultramar decida, por simples despacho.
 
-###### Art. 7.º Para fazer face aos encargos resultantes da administração do fundo, e reconstituí-lo em caso de dívidas incobráveis, far-se-á, por todo o tempo que durar a concessão da bolsa, um desconto de 3 por cento.
+Art. 7.º Para fazer face aos encargos resultantes da administração do fundo, e reconstituí-lo em caso de dívidas incobráveis, far-se-á, por todo o tempo que durar a concessão da bolsa, um desconto de 3 por cento.
 
-###### Art. 8.º As bolsas-empréstimos destinam-se, especialmente, aos seguintes indivíduos:
+Art. 8.º As bolsas-empréstimos destinam-se, especialmente, aos seguintes indivíduos:
 
 1.º Bolseiros de entidades que se tenham colocado ao abrigo das disposições do [Decreto n.º 45240](https://diariodarepublica.pt/dr/detalhe/decreto/45240-1963-686388), que não hajam obtido, no ano lectivo anterior àquele para que requereram esta modalidade de bolsa, o aproveitamento necessário para que lhes seja confirmada a bolsa integral de que eram beneficiários, com preferência para os que houverem obtido aproveitamento em maior número de cadeiras ou cursos.
 
 2.º Indivíduos que já se encontrem na metrópole, a estudar, e que demonstrem, por si sendo maiores, ou por suas famílias, sendo menores ou sendo maiores vivam sob pátrio poder, carecerem de auxílio e dêem garantias de idoneidade consideradas suficientes, caso a caso, pela comissão a que se refere o artigo 5.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Junho de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

@@ -3,12 +3,14 @@ schema_version: '1.0'
 id: pt:dre:280260:por
 title: Acórdão do Supremo Tribunal de Justiça n.º 3/2011
 short_title: null
-summary: I - O despacho do Ministério Público a ordenar o prosseguimento do processo nos termos do artigo 283.º, n.º 5, do
+summary: 'I - O despacho do Ministério Público a ordenar o prosseguimento do processo nos termos do artigo 283.º, n.º 5, do
   CPP, é um despacho de mero expediente e, por isso, não carece de ser notificado aos sujeitos processuais, nomeadamente aos
   arguidos já notificados da acusação, podendo estes requerer a abertura da instrução no prazo de 20 dias a contar dessa notificação,
-  nos termos do artigo 287.º, n.º 1, do CPP. II - Havendo vários prazos para esse efeito, a correr em simultâneo, ainda que
-  não integralmente coincidentes, a abertura de instrução pode ser requerida por todos ou por cada um deles, até ao fim do
-  prazo que terminar em último lugar, nos termos dos artigos 287.º, n.º 6, e 113.º, n.º 12, ambos do mesmo diploma
+  nos termos do artigo 287.º, n.º 1, do CPP.
+
+  II - Havendo vários prazos para esse efeito, a correr em simultâneo, ainda que não integralmente coincidentes, a abertura
+  de instrução pode ser requerida por todos ou por cada um deles, até ao fim do prazo que terminar em último lugar, nos termos
+  dos artigos 287.º, n.º 6, e 113.º, n.º 12, ambos do mesmo diploma'
 jurisdiction: portugal
 territory: null
 document_type: acordao-supremo-tribunal-justica
@@ -51,18 +53,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/3/2011/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/3-2011-280260
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-10T00:00:00Z'
+  retrieved_at: '2026-10-22T17:52:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 315b42979340ce51dea27bbfc992eb55556c8a44702a6d87bd252f9942a080ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48c72f9e774a23cd62a6214964df99d49deb28ad0274cc5ee4ccff73ba9317aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:52:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,11 +72,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Processo Penal
 - Código de Processo Penal
 - Interpretação do Direito
 - Ministério Público
+- Processo Penal
+- Recurso
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/317/1995/11/28/p/dre
@@ -104,16 +106,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/59/1998/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/59/1998/08/25/p/dre
+- type: cites
+  target: pt:dre:185720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668518:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:52:59Z'
   warnings: []
   errors: []
 ---

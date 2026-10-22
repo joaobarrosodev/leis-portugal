@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/39/2025/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2025-935918856
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-09-22T00:00:00Z'
+  retrieved_at: '2026-10-22T19:16:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34aa9b1e49c486de77c1c46a93e7ad02b68db5586d33d7643fd6dad63021979a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 444ff75fa4ed0a0845a76275bd61efa0cbe787d7fcf9311c2524cebbe16ef0fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:16:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa do Ambiente
+- Aproximação das Legislações
 - Atividade Industrial
 - Licença de Emissão
-- Aproximação das Legislações
-- Qualidade do AR
-- Resíduo
-- Proteção do Ambiente
 - Plano Nacional de Redução das Emissões
 - Poluição Industrial
+- Proteção do Ambiente
+- Qualidade do AR
+- Resíduo
 - Substância Perigosa
 - Taxa
-- Agência Portuguesa do Ambiente
 relationships:
 - type: cites
   target: celex:32008R1272
@@ -107,16 +107,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928506355:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:127/2013
+  label: Retifica o artigo 2.º (na parte em que altera o artigo 3.º do Decreto-Lei n.º 127/2013, de 30 de agosto) do Decreto-Lei
+    n.º 89/2025, de 12 de agosto, Diário da República n.º 154/2025, Série I
+  source: null
+  date: '2025-08-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:16:11Z'
   warnings: []
   errors: []
 ---
@@ -408,3 +438,5 @@ nnn) [...]
 ooo) [...]»
 
 Secretaria-Geral do Governo, 18 de setembro de 2025. - A Secretária-Geral Adjunta, Mafalda Lopes dos Santos.
+
+119553517

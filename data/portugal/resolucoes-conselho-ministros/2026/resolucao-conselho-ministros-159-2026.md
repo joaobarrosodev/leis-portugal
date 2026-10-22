@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/159/2026/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/159-2026-1154555256
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-06T00:00:00Z'
+  retrieved_at: '2026-10-22T18:49:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 704a4406f55bc33e53ed4c83d377b1f7bda00c77a84b96bbbe1cb2a14d558f82
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b1a40b146b685cff8986293f40395b4a67ebbbaa1143b001ed47efb3666a017
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:49:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
 subjects:
 - Conselho de Administração
 - Conselho de Ministros
-- Regulamentação de Atos Legislativos
 - Enfermeiro-director
 - Nomeação
+- Regulamentação de Atos Legislativos
 - Unidade Local de Saúde de Lisboa Ocidental
 relationships:
 - type: cites
@@ -89,16 +89,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:889940247:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:49:28Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +137,7 @@ Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](h
 
 Assim:
 
-Nos termos dos n.<sup>os</sup>2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, do artigo 12.º, dos n.<sup>os</sup>1 a 3 do artigo 13.º, do artigo 15.º, da alínea c) do n.º 3 do artigo 20.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos dos n.os2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, do artigo 12.º, dos n.os1 a 3 do artigo 13.º, do artigo 15.º, da alínea c) do n.º 3 do artigo 20.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Designar, para exercer funções como enfermeira-diretora no conselho de administração da Unidade Local de Saúde de Lisboa Ocidental, E. P. E., Carla Maria Andrade Costa Ares, cuja idoneidade, experiência e competências profissionais para o desempenho do cargo são evidenciadas na respetiva nota curricular, que consta do anexo à presente resolução e da qual faz parte integrante.
 
@@ -166,3 +186,5 @@ Ao longo do percurso profissional, tem liderado e participado em múltiplos grup
 Atualmente, coordena o Núcleo de Enfermeiros Especialistas em Saúde Materna e Obstétrica da ULSLO, reforçando a articulação clínica e a qualidade dos cuidados prestados à mulher, recém-nascido e família e integra a Equipa Local para a Estratificação de Risco da ULSLO.
 
 Com experiência em formação e partilha de conhecimento, tem também colaborado como formadora, orientadora de estudantes e interveniente em eventos científicos, contribuindo para o desenvolvimento profissional e académico da enfermagem.
+
+119949262

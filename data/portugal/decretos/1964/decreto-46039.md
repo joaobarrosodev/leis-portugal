@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46039-1964-535269
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-11-18T00:00:00Z'
+  retrieved_at: '2026-10-22T19:43:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 124228c894bf7edb9f66d8f9636f6e872d38b54c7adcde05172d7e1d8ea15ed6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9fa08a03481f1cf5f7db61e64b5d6316d6618ce7fd61bf49f7b0ef1cb200fd33
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:43:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:516706:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:43:00Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +95,9 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os artigos 11.º, 12.º, 13.º, 14.º e 30.º do [Decreto n.º 44241](https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706), de 19 de Março de 1962, passam a ter a seguinte redacção:
+Artigo único. Os artigos 11.º, 12.º, 13.º, 14.º e 30.º do [Decreto n.º 44241](https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706), de 19 de Março de 1962, passam a ter a seguinte redacção:
 
-###### Art. 11.º ...
+Art. 11.º ...
 
 a) Terem menos de 35 anos de idade e mais de 18;
 
@@ -119,11 +123,11 @@ d) Gozarem de saúde e robustez física que permita serviço violento nas proví
 
 § 5.º Os governadores ultramarinos poderão, para a admissão aos concursos, dispensar a exigência a que se refere a alínea c) do corpo do artigo e conceder as facilidades que forem julgadas convenientes para que a carta de condução seja obtida depois de efectuada a nomeação dos candidatos.
 
-###### Art. 12.º As vagas que ocorrerem no quadro administrativo de cada província na categoria de administrador de posto serão preenchidas por concurso de provas práticas entre os adjuntos dos administradores de posto do mesmo quadro com, pelo menos, três anos de serviço efectivo na categoria e boas informações, pela ordem da classificação obtida em concurso.
+Art. 12.º As vagas que ocorrerem no quadro administrativo de cada província na categoria de administrador de posto serão preenchidas por concurso de provas práticas entre os adjuntos dos administradores de posto do mesmo quadro com, pelo menos, três anos de serviço efectivo na categoria e boas informações, pela ordem da classificação obtida em concurso.
 
 § único. Sempre que o número de candidatos aprovados em concurso para administradores de posto não seja suficiente para o preenchimento das vagas existentes, poderão os governadores ultramarinos, independentemente do concurso, nomear para aquelas funções oficiais ou sargentos milicianos das forças armadas que no ultramar tenham prestado serviço militar durante, pelo menos, um ano e desde que obedeçam às restantes condições especificadas no corpo do artigo anterior.
 
-###### Art. 13.º As vagas de adjunto de administrador de circunscrição serão preenchidas pelos governadores, alternadamente:
+Art. 13.º As vagas de adjunto de administrador de circunscrição serão preenchidas pelos governadores, alternadamente:
 
 a) Por concurso documental entre indivíduos com o curso de Administração Ultramarina, pela ordem da respectiva classificação final do curso e desde que obedeçam às condições especificadas no corpo do artigo 11.º e do seu § 2.º, observando-se ainda a preferência a que se refere o § 4.º do mesmo artigo;
 
@@ -131,7 +135,7 @@ b) Por promoção, por ordem de antiguidade, dos administradores de posto com tr
 
 § único. Sempre que, por falta de candidatos de um dos grupos a que se refere o corpo do artigo, o provimento não possa fazer-se alternadamente, as vagas existentes poderão ser preenchidas pelos candidatos do outro grupo.
 
-###### Art. 14.º As vagas de administrador de circunscrição serão preenchidas pelos governadores, alternadamente:
+Art. 14.º As vagas de administrador de circunscrição serão preenchidas pelos governadores, alternadamente:
 
 a) Por promoção dos adjuntos do administrador de circunscrição com o curso de Administração Ultramarina, com três anos de serviço na categoria e boas informações, pela ordem da sua entrada para o quadro;
 
@@ -141,7 +145,7 @@ b) Por promoção dos adjuntos do administrador de circunscrição oriundos da c
 
 ...
 
-###### Art. 30.º ...
+Art. 30.º ...
 
 a) Terem menos de 35 anos de idade e mais de 18;
 
@@ -153,7 +157,7 @@ d) ...
 
 § único ...
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 18 de Novembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

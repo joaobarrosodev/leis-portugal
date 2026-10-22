@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/90/2004/10/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/90-2004-576110
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-10-18T00:00:00Z'
+  retrieved_at: '2026-10-22T19:04:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ffdf4474f60658ca585f073eccdb7f9c30cc96d7a0e5317938b519d246535b69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52c9fbb9b6219564c6b9f6ac80695f8f8f0b7d9d7f42071c32659377eca4753f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:04:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,24 +69,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
+- Açores
 - Aproximação das Legislações
-- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
 - Cereal
-- Multa
 - Contra-ordenação
-- Direcção Regional de Agricultura
 - Controlo Sanitário
-- Saúde Pública
+- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
+- Direcção Regional de Agricultura
 - Fiscalização
 - Fruto
-- Produto Hortícola
-- Madeira.região Autónoma
-- Proteção do Consumidor
-- Produto Fitofarmacêutico
 - Limite Máximo de Resíduos
-- Açores
+- Madeira.região Autónoma
+- Multa
 - Produto Agrícola
+- Produto Alimentar
+- Produto Fitofarmacêutico
+- Produto Hortícola
+- Proteção do Consumidor
+- Saúde Pública
 relationships:
 - type: cites
   target: celex:32004L0059
@@ -100,16 +100,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/205/2004/08/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/205/2004/08/19/p/dre
+- type: cites
+  target: pt:dre:480523:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:04:21Z'
   warnings: []
   errors: []
 ---
@@ -120,10 +124,10 @@ Para os devidos efeitos se declara que o [Decreto-Lei n.º 205/2004](https://dia
 
 No n.º 3) do anexo I, onde se lê:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/10/245a00/63186319.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/10/245a00/63186319.pdf)](https://files.diariodarepublica.pt/1s/2004/10/245a00/63186319.pdf)
 
 deve ler-se:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/10/245a00/63186319.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/10/245a00/63186319.pdf)](https://files.diariodarepublica.pt/1s/2004/10/245a00/63186319.pdf)
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 12 de Outubro de 2004. - O Secretário-Geral, José M. Sousa Rego.

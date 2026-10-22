@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 125/1992, 1º Suplemento, Série I-A de 1992-05-30
   number: '125'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2632-(2) a 2632-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/05/125a01/00020002.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/64/1992/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/64-1992-469186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-05-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:35:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ae24798cf499e5a830613b08f7d444363b3b82b325d8b984644dd16a311f1a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5011c71a9be1e533a8c492ac338a8cde4299102b6b19b4be656ce437e908029d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:35:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Cooperação Técnica
-- Portugal
-- Guiné-Bissau
 - Aviação Civil
+- Cooperação Técnica
+- Guiné-Bissau
+- Portugal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec/22/1992/04/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec/22/1992/04/13/p/dre
+- type: cites
+  target: pt:dre:200000:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:35:21Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 64/92
+# Declaração de rectificação n.º 64/92
 
 Para os devidos efeitos se declara que o [Decreto n.º 22/92](https://diariodarepublica.pt/dr/detalhe/decreto/22-1992-200000), publicado no Diário da República, n.º 87, de 13 de Abril de 1992, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 

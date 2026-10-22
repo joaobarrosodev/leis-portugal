@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/24/2007/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/24-2007-519985
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-10T00:00:00Z'
+  retrieved_at: '2026-10-22T19:07:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc83f52e0377c1215f09ecf7cb7b6dad7b88cc97538bdc0a8bbc6b17a477abdb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af732bf57b8e034080b5d5d14228aa3d186eec9476ea2561ed08661782323234
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:07:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto Nacional de Estatística
+- Banco de Portugal
 - Contabilidade
 - Correio Electrónico
-- Formulário Eletrónico
-- Impresso
-- Banco de Portugal
 - Dados Estatísticos
-- Prestação de Contas
+- Formulário Eletrónico
 - IES
-relationships: []
+- Impresso
+- Instituto Nacional de Estatística
+- Prestação de Contas
+relationships:
+- type: corrects
+  target: pt:numero:portaria:208/2007
+  label: "Rectifica, republicando na íntegra o modelo anexo I da Portaria n.º 208/2007, de 16 de Fevereiro, DR.IS [34]\0\0"
+  source: null
+  date: '2007-02-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:07:53Z'
   warnings: []
   errors: []
 ---
@@ -95,6 +100,6 @@ validation:
 
 Segundo comunicação do Ministério das Finanças e da Administração Pública, não foi publicada a 4.ª folha do anexo I à Portaria n.º 208/2007, publicada no Diário da República, 1.ª série, n.º 34, de 16 de Fevereiro de 2007, cujo original se encontra arquivado nesta Secretaria-Geral, pelo que se procede à republicação na íntegra do modelo anexo I:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/07000/22332234.pdf))](https://files.diariodarepublica.pt/1s/2007/04/07000/22332234.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/07000/22332234.pdf)
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 19 de Março de 2007. - O Secretário-Geral, José M. Sousa Rego.

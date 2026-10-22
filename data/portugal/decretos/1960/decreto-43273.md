@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43273-1960-514577
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-10-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:20:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fbe5932b65263afb0b7847ad3dfe2af75f4ad31e835dcd5cebac35554080f0eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8454f1a5752d656fc5964c7ae15fa9b2a7a0503c4fe7c5cfc093f8bd8e4d62a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:20:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:231121:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:20:35Z'
   warnings: []
   errors: []
 ---
@@ -85,11 +89,11 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovado o Regulamento Telefónico Internacional, referido no artigo 12.º da Convenção internacional das telecomunicações, assinada em Buenos Aires em 22 de Dezembro de 1952, aprovada pelo [Decreto-Lei n.º 40612](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40612-1956-231121), de 26 de Maio de 1956, e ratificada conforme consta de aviso publicado no Diário do Governo n.º 121, 1.ª série, de 3 de Outubro de 1956.
+Artigo único. É aprovado o Regulamento Telefónico Internacional, referido no artigo 12.º da Convenção internacional das telecomunicações, assinada em Buenos Aires em 22 de Dezembro de 1952, aprovada pelo [Decreto-Lei n.º 40612](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40612-1956-231121), de 26 de Maio de 1956, e ratificada conforme consta de aviso publicado no Diário do Governo n.º 121, 1.ª série, de 3 de Outubro de 1956.
 
 Este regulamento, que segue em anexo ao presente decreto e dele faz parte integrante, foi assinado em Genebra em 29 de Novembro de 1958 e substitui o de Paris, assinado em 5 de Agosto de 1949.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Outubro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Marcello Gonçalves Nunes Duarte Mathias - Carlos Gomes da Silva Ribeiro.
 
@@ -1009,7 +1013,7 @@ d) Via primária: Circuito ou circuitos a utilizar normalmente no serviço telef
 
 e) Via secundária: Circuito ou circuitos a utilizar no serviço telefónico intercontinental fora do horário de serviço da via primária ou no caso de congestionamento ou insuficiente qualidade de transmissão desta via.
 
-## APÊNDICE (ver nota 1)
+APÊNDICE (ver nota 1)
 
 (nota 1) Disposições comuns ao Regulamento Telefónico e ao Regulamento Telegráfico.
 
@@ -1061,7 +1065,7 @@ PROTOCOLO FINAL DO REGULAMENTO TELEFÓNICO
 
 (Revisão de Genebra, 1958)
 
-## Anexo à Convenção internacional das telecomunicações
+Anexo à Convenção internacional das telecomunicações
 
 (Buenos Aires, 1952)
 

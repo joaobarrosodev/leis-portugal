@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/18/2026/06/01/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/18-2026-1128264734
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-01T00:00:00Z'
+  retrieved_at: '2026-10-22T18:42:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd541e9d540f4b04c7d3b9bb1d9d4f1ae6b59ab855b89399c5dfb0450f9a3d16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75a8d2c2751d997ee8fed793f53e70053828d7660399249c10e78bc271c9f195
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:42:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assembleia Legislativa
 - Criança
 - Iniciativa Legislativa
-- Assembleia Legislativa
-- Menoridade
 - Madeira.região Autónoma
+- Menoridade
 - Óbito
 - Subsídio de Funeral
 - Trasladação de Cadáver
@@ -91,16 +91,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652702:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:42:45Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +137,7 @@ A presente iniciativa legislativa visa criar um apoio público, de natureza não
 
 Trata-se de uma iniciativa conforme aos princípios constitucionais da dignidade da pessoa humana, da solidariedade social e da igualdade, contribuindo para um sistema de segurança social mais justo, claro e humanamente responsável.
 
-Assim, a Assembleia Legislativa da Região Autónoma da Madeira, nos termos da alínea f) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea b) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, apresenta à Assembleia da República a seguinte proposta de lei:
+Assim, a Assembleia Legislativa da Região Autónoma da Madeira, nos termos da alínea f) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea b) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, apresenta à Assembleia da República a seguinte proposta de lei:
 
 ###### Artigo 1.º — Objeto
 
@@ -157,7 +173,9 @@ e) Apoio à trasladação.
 
 6 - O apoio à trasladação é uma prestação de concessão única que visa compensar o respetivo requerente das despesas efetuadas à data do óbito, com a trasladação de qualquer membro do seu agregado familiar, incluindo os nascituros, residente em território nacional.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -169,7 +187,9 @@ e) Apoio à trasladação.
 
 5 - A titularidade do direito ao apoio à trasladação é reconhecida ao requerente da prestação, abrangido pelo âmbito pessoal do presente decreto-lei que, à data do óbito, satisfaça as condições de atribuição.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -179,7 +199,9 @@ e) Apoio à trasladação.
 
 4 - Sem prejuízo do disposto no número anterior, no caso de falecimento de menor, a atribuição do subsídio de funeral e do apoio à trasladação é reconhecida, pela condição do falecido, à data do óbito, sem depender do âmbito pessoal do presente decreto-lei quanto aos progenitores ou representantes legais.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 Os requerentes do subsídio de funeral e do apoio à trasladação devem declarar, no requerimento, se a morte foi provocada por ato de terceiro responsável pela reparação.»
 
@@ -199,7 +221,9 @@ Condições específicas de atribuição do apoio à trasladação
 
 4 - O pedido do apoio deve ser apresentado no prazo de seis meses a contar da data do óbito.
 
-###### Artigo 16.º-A — Montante do apoio à trasladação
+Artigo 16.º-A
+
+Montante do apoio à trasladação
 
 1 - O montante do apoio à trasladação é variável em função da legislação em vigor que regule a trasladação de cadáver.
 
@@ -215,4 +239,6 @@ A presente lei entra em vigor no dia seguinte ao da sua publicação e produz ef
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 7 de maio de 2026.
 
-**A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.**
+A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.
+
+119948680

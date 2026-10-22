@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/04300/0007400088.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/127/2025/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/127-2025-909476478
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-03T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b493e63f4b53ae19b3792898a13aea7a2e122adca509489380d5ff2931025a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60f9303524468b99102f0791477583bbe898d8e712310daffa393a39fdd5dcb1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,13 @@ subjects:
 - Inconstitucionalidade
 - Qualificação Profissional
 relationships:
+- type: amends
+  target: pt:numero:lei:45/2012
+  label: Declara a inconstitucionalidade, com força obrigatória geral, das normas constantes da alínea b) do artigo 4.º e
+    da segunda parte do artigo 21.º, ambas da Lei n.º 45/2012, de 29 de agosto, Diário da República n.º 167/2012, Série I
+    (regime jurídico de acesso e exercício da profissão de examinador de condução e o reconhecimento das entidades formadoras)
+  source: null
+  date: '2012-08-29'
 - type: cites
   target: celex:32005L0036
   label: null
@@ -117,6 +124,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/9/2009/03/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/9/2009/03/04/p/dre
+- type: cites
+  target: pt:dre:174802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67142147:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32005L0036
   label: null
@@ -130,15 +165,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:39Z'
   warnings: []
   errors: []
 ---
@@ -195,7 +230,9 @@ O presente pedido de fiscalização abstrata sucessiva foi subscrito pela Proved
 
 «[...]
 
-###### Artigo 4.º — Idoneidade
+Artigo 4.º
+
+Idoneidade
 
 Não pode ser examinador de condução quem:
 
@@ -205,13 +242,15 @@ b) Tenha sido condenado, por sentença transitada em julgado, por crime praticad
 
 [...]
 
-###### Artigo 21.º — Cancelamento
+Artigo 21.º
+
+Cancelamento
 
 A credencial de examinador de condução é cancelada ao examinador que seja interdito para a atividade da realização de exames de condução ou condenado por crime praticado no exercício da profissão de examinador, por sentença transitada em julgado.
 
 [...]».
 
-6.1 - Resulta do artigo 1.º, da [Lei n.º 45/2012](https://diariodarepublica.pt/dr/detalhe/lei/45-2012-174802), que o regime jurídico de acesso e exercício da profissão de examinador de condução e de certificação das respetivas entidades formadoras assenta na transposição parcial para a ordem jurídica interna da [Diretiva n.º 2006/126/CE](http://data.europa.eu/eli/dir/2006/126/oj?locale=pt), do Parlamento Europeu e da Comissão, de 20 de dezembro, na redação que lhe foi dada pelas Diretivas n.<sup>os</sup>[2009/113/CE](http://data.europa.eu/eli/dir/2009/113/oj?locale=pt), da Comissão, de 25 de agosto, e [2011/94/UE](http://data.europa.eu/eli/dir/2011/94/oj?locale=pt), da Comissão, de 28 de novembro (relativa à carta de condução), em conformidade com o disposto (i) no [Decreto-Lei n.º 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), de 26 de junho, que estabelece os princípios e as regras necessários para simplificar o livre acesso e exercício das atividades de serviços e que, por seu turno, transpõe para a ordem jurídica interna a [Diretiva n.º 2006/123/CE](http://data.europa.eu/eli/dir/2006/123/oj?locale=pt), do Parlamento Europeu e do Conselho, de 12 de dezembro (relativa aos serviços no mercado interno) e (ii) na [Lei n.º 9/2009](https://diariodarepublica.pt/dr/detalhe/lei/9-2009-604779), de 4 de março, que transpôs para o ordenamento jurídico nacional a [Diretiva n.º 2005/36/CE](http://data.europa.eu/eli/dir/2005/36/oj?locale=pt), do Parlamento e do Conselho, de 7 de setembro (relativa ao reconhecimento das qualificações profissionais).
+6.1 - Resulta do artigo 1.º, da [Lei n.º 45/2012](https://diariodarepublica.pt/dr/detalhe/lei/45-2012-174802), que o regime jurídico de acesso e exercício da profissão de examinador de condução e de certificação das respetivas entidades formadoras assenta na transposição parcial para a ordem jurídica interna da [Diretiva n.º 2006/126/CE](http://data.europa.eu/eli/dir/2006/126/oj?locale=pt), do Parlamento Europeu e da Comissão, de 20 de dezembro, na redação que lhe foi dada pelas Diretivas n.os[2009/113/CE](http://data.europa.eu/eli/dir/2009/113/oj?locale=pt), da Comissão, de 25 de agosto, e [2011/94/UE](http://data.europa.eu/eli/dir/2011/94/oj?locale=pt), da Comissão, de 28 de novembro (relativa à carta de condução), em conformidade com o disposto (i) no [Decreto-Lei n.º 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), de 26 de junho, que estabelece os princípios e as regras necessários para simplificar o livre acesso e exercício das atividades de serviços e que, por seu turno, transpõe para a ordem jurídica interna a [Diretiva n.º 2006/123/CE](http://data.europa.eu/eli/dir/2006/123/oj?locale=pt), do Parlamento Europeu e do Conselho, de 12 de dezembro (relativa aos serviços no mercado interno) e (ii) na [Lei n.º 9/2009](https://diariodarepublica.pt/dr/detalhe/lei/9-2009-604779), de 4 de março, que transpôs para o ordenamento jurídico nacional a [Diretiva n.º 2005/36/CE](http://data.europa.eu/eli/dir/2005/36/oj?locale=pt), do Parlamento e do Conselho, de 7 de setembro (relativa ao reconhecimento das qualificações profissionais).
 
 Concretamente, a [Lei n.º 45/2012](https://diariodarepublica.pt/dr/detalhe/lei/45-2012-174802) prevê quem pode exercer a profissão de examinador (capítulo II), as condições de acesso à profissão (capítulo III), o respetivo processo de certificação (capítulo IV), quais as entidades competentes para formar examinadores (capítulo V) e o correspondente regime sancionatório (capítulo VI).
 
@@ -243,7 +282,7 @@ Do exposto decorre, com o reforço dado pela doutrina, que o n.º 4 do artigo 30
 
 Esta garantia encontra-se, aliás, em estreita consonância com a sujeição das penas ao princípio da necessidade, avalizando a sua conformidade com o subprincípio da proibição do excesso, «no sentido de que qualquer ‘efeito (acessório) da pena’ pressupõe, por um lado, uma certa gravidade do facto praticado e, por outro, uma fundada conexão entre o efeito (o direito que deve ser declarado perdido) que se quer determinar e o facto criminoso praticado. Nestes termos, seria inconstitucional uma lei que, p. ex., privasse do direito de voto quem fosse condenado por um qualquer crime» (Damião da Cunha, “Anotação ao artigo 30.º”, in Jorge Miranda e Rui Medeiros, Constituição Portuguesa Anotada, Volume I, 2.ª Edição revista, Lisboa: Universidade Católica Editora, 2017, pp. 498-499).
 
-Tais conclusões têm sido uniformes, constantes e reiteradamente adotadas por este Tribunal Constitucional, como resulta da análise da vasta jurisprudência a propósito. Vejam-se, a título de exemplo, os Acórdãos n.<sup>os</sup>16/84, 310/85, 75/86, 94/86, 284/89, 748/93, 522/95, 327/99, 202/2000, 262/2003, 36/2008, 25/2011, 311/2012, 748/2014, 106/2016, 331/2016, 376/2018, 348/2022, 722/2022 e 927/2023.
+Tais conclusões têm sido uniformes, constantes e reiteradamente adotadas por este Tribunal Constitucional, como resulta da análise da vasta jurisprudência a propósito. Vejam-se, a título de exemplo, os Acórdãos n.os16/84, 310/85, 75/86, 94/86, 284/89, 748/93, 522/95, 327/99, 202/2000, 262/2003, 36/2008, 25/2011, 311/2012, 748/2014, 106/2016, 331/2016, 376/2018, 348/2022, 722/2022 e 927/2023.
 
 Destaca-se, neste conspecto, o Acórdão n.º 722/22 - ao qual voltaremos infra - do qual resulta clarificada a relação entre os vetores supra expostos:
 
@@ -333,9 +372,9 @@ Daí que consideremos ser de sindicar as normas impugnadas, desde logo, à luz d
 
 A Constituição estabelece, no seu artigo 47.º, n.º 1, que todos têm o direito de «[e]scolher livremente a profissão ou o género de trabalho que pretendam executar, salvas as restrições legais impostas pelo interesse coletivo ou inerentes à sua própria capacidade.».
 
-Percorrendo o acervo jurisprudencial acerca deste direito fundamental, verifica-se que a liberdade de escolha de profissão implica, por um lado, que o seu titular não possa ser forçado a escolher uma profissão e, por outro lado, com superior relevo para o presente pedido, que o seu titular não possa ser impedido de escolher livremente uma determinada profissão (a este propósito, e a título de exemplo, vejam-se os Acórdãos n.<sup>os</sup>474/89, 187/2001, 563/2003, 154/2004, 3/2011, 362/2011, 88/2012, 89/2012, 96/2013, 509/2015 e 376/2018).
+Percorrendo o acervo jurisprudencial acerca deste direito fundamental, verifica-se que a liberdade de escolha de profissão implica, por um lado, que o seu titular não possa ser forçado a escolher uma profissão e, por outro lado, com superior relevo para o presente pedido, que o seu titular não possa ser impedido de escolher livremente uma determinada profissão (a este propósito, e a título de exemplo, vejam-se os Acórdãos n.os474/89, 187/2001, 563/2003, 154/2004, 3/2011, 362/2011, 88/2012, 89/2012, 96/2013, 509/2015 e 376/2018).
 
-É certo que o enunciado normativo do referido artigo 47.º, n.º 1, apenas se refere à escolha da profissão. No entanto, a jurisprudência deste tribunal desde cedo clarificou que tal direito fundamental abrange não apenas a liberdade que a cada um assiste de selecionar a profissão pretendida, como ainda a liberdade de exercer a profissão selecionada, sem outros constrangimentos para além daqueles que decorrem da Constituição (novamente a título de exemplo, e apenas por referência aos mais recentes, os Acórdãos n.<sup>os</sup>94/2015, 129/2020, 145/2021, 212/2023 e 710/2023).
+É certo que o enunciado normativo do referido artigo 47.º, n.º 1, apenas se refere à escolha da profissão. No entanto, a jurisprudência deste tribunal desde cedo clarificou que tal direito fundamental abrange não apenas a liberdade que a cada um assiste de selecionar a profissão pretendida, como ainda a liberdade de exercer a profissão selecionada, sem outros constrangimentos para além daqueles que decorrem da Constituição (novamente a título de exemplo, e apenas por referência aos mais recentes, os Acórdãos n.os94/2015, 129/2020, 145/2021, 212/2023 e 710/2023).
 
 Isto significa, portanto, que a segunda dimensão que decorre deste direito fundamental, também se traduz na circunstância de o seu titular não poder ser impedido de exercer livremente uma determinada profissão.
 
@@ -407,7 +446,7 @@ A título de exemplo, basta enunciar alguns dos critérios passíveis de serem u
 
 Estamos, pois, perante normas que não contêm um limiar mínimo de concretização e, por conseguinte, de objetividade, criando incertezas sobre o(s) fim(ns) que visa atingir ou salvaguardar, perante o tão indeterminado espectro de crimes abrangíveis pela expressão “crime praticado no exercício da profissão de examinador de condução“.
 
-Este pressuposto é de tal forma incerto que não permite a formulação de um juízo sobre a conexão entre o tipo de crime (pois que não está identificado) e o efeito restritivo, o que impede, inexoravelmente, que as normas sindicadas estejam a salvo da proibição constante do n.º 4 do artigo 30.º da Constituição, por não ser possível identificar quaisquer elementos ponderativos nas normas em apreço, passíveis de afastar uma ressonância sancionatória suplementar estigmatizante (cf. Acórdãos n.<sup>os</sup>748/2014 e 722/2022).
+Este pressuposto é de tal forma incerto que não permite a formulação de um juízo sobre a conexão entre o tipo de crime (pois que não está identificado) e o efeito restritivo, o que impede, inexoravelmente, que as normas sindicadas estejam a salvo da proibição constante do n.º 4 do artigo 30.º da Constituição, por não ser possível identificar quaisquer elementos ponderativos nas normas em apreço, passíveis de afastar uma ressonância sancionatória suplementar estigmatizante (cf. Acórdãos n.os748/2014 e 722/2022).
 
 É desta circunstância, a qual se traduz na disfuncionalidade plasmada nos preceitos em causa e nas normas que dos mesmos se extraem, que aporta uma insustentável incerteza quanto ao âmbito da restrição que destas resulta.
 
@@ -452,3 +491,5 @@ Lisboa, 11 de fevereiro de 2025. - Dora Lucas Neto - Afonso Patrão - João Carl
 DECLARAÇÃO DE VOTO
 
 Acompanho o acórdão, mas considero que se verifica uma restrição inconstitucional à liberdade fundamental de escolha de profissão e, portanto, uma violação autónoma do artigo 47.º da Constituição da República Portuguesa, que assim deveria ter sido erigido como parâmetro decisório, o que não constituiu opção da maioria, muito embora a fundamentação explore tal possibilidade (em especial, no ponto 7.4). Os direitos civis, profissionais e políticos a que o artigo 30.º, n.º 4 da Constituição se refere e pretende proteger não são necessariamente direitos fundamentais; mas quando sejam fundamentais os direitos negativamente afetados por certa norma que contrarie o disposto naquele artigo 30.º, n.º 4, haverá também uma violação autónoma do parâmetro constitucional que direta e imediatamente os garanta. Sendo tal conclusão o resultado de um percurso metodológico essencialmente comum quanto à violação dos dois parâmetros, considero que o julgamento de inconstitucionalidade deveria incluir o artigo 47.º da Constituição da República Portuguesa entre os parâmetros da decisão. Rui Guerra da Fonseca.
+
+118752646

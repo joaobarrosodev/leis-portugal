@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/32/2026/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2026-1043405186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-10T00:00:00Z'
+  retrieved_at: '2026-10-22T18:31:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a4d112325a0c60de921d7317b06923e8c13920e2ff08a9c3773e21f77b55f1c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 679d4ce7c8e643100330812793a3d91bf733493101fe5d9cbce654059289752a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:31:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Apoio Administrativo
-- Pessoal Dirigente
+- Direcção Geral da Administração da Justiça
 - Gestão Financeira
 - Instituto de Gestão Financeira e Equipamentos da Justiça
 - Orgânica
-- Quadro de Pessoal
-- Direcção Geral da Administração da Justiça
-- Procuradoria Europeia
+- Pessoal Dirigente
 - Procurador Europeu Delegado
+- Procuradoria Europeia
+- Quadro de Pessoal
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:164/2012
+  label: Altera, a partir de 11 de fevereiro de 2026, o artigo 3.º do Decreto-Lei n.º 164/2012, de 31 de julho, Diário da
+    República n.º 147/2012, Série I
+  source: null
+  date: '2012-07-31'
+- type: amends
+  target: pt:numero:decreto-lei:165/2012
+  label: Altera, a partir de 11 de fevereiro de 2026, o artigo 2.º do Decreto-Lei n.º 165/2012, de 31 de julho, Diário da
+    República n.º 147/2012, Série I
+  source: null
+  date: '2012-07-31'
 - type: cites
   target: celex:32013D0488
   label: null
@@ -108,16 +120,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/30/2017/05/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/30/2017/05/30/p/dre
+- type: cites
+  target: pt:dre:107094725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124572525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184108564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490009:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:31:47Z'
   warnings: []
   errors: []
 ---
@@ -246,12 +282,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de dezembro de 2025. - Luís Montenegro - Marisa da Luz Bento Garrido Marques Oliveira - Rita Alarcão Júdice.
 
-**Promulgado em 25 de janeiro de 2026.**
+Promulgado em 25 de janeiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de janeiro de 2026.**
+Referendado em 27 de janeiro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119947590

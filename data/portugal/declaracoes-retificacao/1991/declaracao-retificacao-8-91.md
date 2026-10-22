@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 26/1991, 1º Suplemento, Série I-B de 1991-01-31
   number: '26'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 512-(7) a 512-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/026b01/00070007.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/8/1991/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-1991-444257
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d877062fd40379be70a621e15907c8c37d08262a07258974af975977ceb5d059
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37b25e769010513d78f924b9f11ffa94fc4724341cef62365cc1947a4e315df9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,32 +67,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alteração Orçamental
-- Ministério da Administração Interna
-- Ministério da Educação
 - Crédito Especial
-- Ministério do Planeamento e da Administração do Território
-- Ministério das Obras Públicas Transportes e Comunicações
-- Ministério das Finanças
-- Ministério da Justiça
+- Ministério da Administração Interna
 - Ministério da Agricultura Pescas e Alimentação
+- Ministério da Educação
 - Ministério da Indústria e Energia
+- Ministério da Justiça
+- Ministério da Saúde
+- Ministério das Finanças
+- Ministério das Obras Públicas Transportes e Comunicações
 - Ministério do Ambiente e Recursos Naturais
 - Ministério do Comércio e Turismo
 - Ministério do Emprego e da Segurança Social
-- Orçamento
-- Ministério da Saúde
+- Ministério do Planeamento e da Administração do Território
 - Ministério dos Negócios Estrangeiros
+- Orçamento
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:30Z'
   warnings: []
   errors: []
 ---

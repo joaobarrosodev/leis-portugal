@@ -35,6 +35,39 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-08-12'
+version_history:
+  file: diretiva-ue-2002-47.versoes.json
+  count: 3
+  source_lastmod: '2022-08-12'
+  versions:
+  - date: '2009-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-07-02'
+    amending: eu:celex:32009L0044:por
+    amending_title: DIRECTIVA 2009/44/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 6 de Maio
+      de 2009; DIRETIVA 2014/59/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 15 de maio de
+      2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos formais
+    - Altera Artigo 8.º — Inaplicabilidade de certas disposições em matéria de falência
+    - Altera Notas
+    - Adita Artigo 9.º-A — Diretivas 2008/48/CE e 2014/59/UE
+    - Suprime Artigo 9.º-A — Directiva 2008/48/CE
+  - date: '2022-08-12'
+    amending: eu:celex:32021R0023:por
+    amending_title: REGULAMENTO (UE) 2021/23 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de dezembro de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito
+    - Altera Artigo 3.º — Requisitos formais
+    - Altera Notas
+    - Adita Artigo 9.º-A — Diretiva 2008/48/CE, Diretiva 2014/59/UE e Regulamento (UE) 2021/23
+    - Suprime Artigo 9.º-A — Diretivas 2008/48/CE e 2014/59/UE
 identifiers:
   celex: 32002L0047
   eli: http://data.europa.eu/eli/dir/2002/47/oj
@@ -49,7 +82,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/064bdbbb-12fc-4a13-8f37-b904cfe54011.0010
   content_url: http://publications.europa.eu/resource/cellar/fbd18344-1d7e-11ed-8fa0-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0047-20220812
-  retrieved_at: '2026-10-22T02:39:38Z'
+  retrieved_at: '2026-10-22T17:38:24Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T16:14:45.202+01:00'
 integrity:
@@ -58,9 +91,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:38Z'
-  notes: Texto consolidado 02002L0047-20220812.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:38:24Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2002-47.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -210,31 +243,20 @@ relationships:
   source: null
 article_structure:
   article_count: 14
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:38Z'
-  warnings: []
+  checked_at: '2026-10-22T17:38:24Z'
+  warnings:
+  - '02002L0047-20020627: versão indisponível (Sem expressão na língua por para CELEX 02002L0047-20020627.)'
   errors: []
 ---
 
 # Directiva 2002/47/CE do Parlamento Europeu e do Conselho, de 6 de Junho de 2002
-
-> 02002L0047 — PT — 12.08.2022 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009L0044) — [DIRECTIVA 2009/44/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de Maio de 2009](http://publications.europa.eu/resource/celex/32009L0044) — L 146 — 37 — 10.6.2009
-- [M2](http://publications.europa.eu/resource/celex/32014L0059) — [DIRETIVA 2014/59/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014](http://publications.europa.eu/resource/celex/32014L0059) — L 173 — 190 — 12.6.2014
-- [►M3](http://publications.europa.eu/resource/celex/32021R0023) — [REGULAMENTO (UE) 2021/23 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de dezembro de 2020](http://publications.europa.eu/resource/celex/32021R0023) — L 22 — 1 — 22.1.2021
-
-## DIRECTIVA 2002/47/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 6 de Junho de 2002
 

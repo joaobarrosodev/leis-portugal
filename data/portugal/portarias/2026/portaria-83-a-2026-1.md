@@ -27,9 +27,7 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -50,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/83-a/2026/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2026-1054966771
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-11T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a605e7ac08a7cb73d4f99a8b8d3a7d93317323bf946d9dded398d7157f4a24a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a327210d9be0cabde5ffbef7d02ef42a940737d8520a60ff9d43ff1d8c704f8c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,20 +67,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Empresa
+- Agência para o Clima
 - Auxílio de Minimis
-- Regulamento CE
-- Relatório
+- Empresa
+- Estrutura de Missão Recuperar Portugal
+- Financiamento
 - Fundo Ambiental
 - Plano de Recuperação e Resiliência
-- Estrutura de Missão Recuperar Portugal
-- Agência para o Clima
+- Regulamento CE
+- Relatório
 relationships:
 - type: amended_by
   target: pt:dre:1070724088:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:portaria:176-B/2024
+  label: Altera, a partir de 20 de fevereiro de 2026, o artigo 1.º, e os artigos 3.º, 6.º, 7.º, 8.º, 9.º, 11.º, 12.º, 13.º,
+    15.º, 16.º, 17.º do anexo, bem como adita os artigos 20.º e 21.º ao anexo da Portaria n.º 176-B/2024/1, de 30 de julho,
+    Diário da República n.º 146/2024, Suplemento, Série I
+  source: null
+  date: '2024-07-30'
 - type: cites
   target: celex:32018L2001
   label: null
@@ -111,16 +116,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/176-b/2024/07/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/176-b/2024/07/30/p/dre
+- type: cites
+  target: pt:dre:162756795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:874082622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901661921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1070724088:por
+  label: Retificada pelo(a) Declaração de Retificação n.º 10/2026/1 - Diário da República n.º 49/2026, Série I de 2026-03-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/10-2026-1070724088
+  date: '2026-03-11'
 article_structure:
-  article_count: 16
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:48Z'
   warnings: []
   errors: []
 ---
@@ -197,7 +223,9 @@ Os artigos 3.º, 6.º, 7.º, 8.º, 9.º, 11.º, 12.º, 13.º, 15.º, 16.º e 17.
 
 7 - A dotação total do financiamento referida no n.º 2 está expressamente consignada à realização de investimentos enquadráveis na tipologia de operações previstas no artigo 6.º que contribuam para o desenvolvimento da produção de energias renováveis e para a transição ecológica da economia portuguesa, pelo que quaisquer valores embolsados pela ApC, I. P., no âmbito desta portaria, são obrigatoriamente reinvestidos em investimentos que prossigam os mesmos objetivos de políticas públicas, ainda que este reinvestimento ocorra após 2026.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -243,7 +271,9 @@ i) As ações ocorrem em instalações pré-existentes e tiverem por finalidade 
 
 5 - As atividades e ativos não abrangidos pela subalínea b) do número anterior que vierem a ser apoiados e atinjam emissões de gases com efeito de estufa previstas que não sejam significativamente inferiores aos parâmetros de referência aplicáveis para a atribuição de licenças de emissão a título gratuito conforme previsto no [Regulamento de Execução (UE) 2021/447](https://data.europa.eu/eli/reg/2021/447/oj?locale=pt) da Comissão, devem explicar por que motivo não é possível atingir valores superiores.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -255,7 +285,9 @@ i) As ações ocorrem em instalações pré-existentes e tiverem por finalidade 
 
 5 - Os beneficiários são obrigados a iniciar a execução da operação no prazo máximo de seis meses, após a assinatura do termo de aceitação da operação com a ApC, I. P.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 Os critérios de elegibilidade das operações são os seguintes:
 
@@ -285,7 +317,9 @@ l) [...]
 
 m) [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - As despesas elegíveis são as que vierem a ser aprovadas no aviso de abertura de concurso a lançar pela ApC, I. P., e compreendem os custos de investimento totais que comprovadamente visarem e forem estritamente indispensáveis ao sistema de armazenamento de eletricidade produzida a partir de fontes de energia renováveis, incluindo:
 
@@ -303,15 +337,21 @@ c) [...]
 
 5 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 As candidaturas são apresentadas no âmbito de aviso de abertura de concurso e são submetidas através de formulário eletrónico, disponível no sítio institucional na internet do Fundo Ambiental, devendo ser instruída com todos os documentos indicados no aviso de abertura de concurso a elaborar pela ApC, I. P.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 O aviso de abertura de concurso da ApC, I. P. deve observar o respeito pelas regras definidas no [Regulamento (UE) 2021/241](https://data.europa.eu/eli/reg/2021/241/oj?locale=pt) do Parlamento Europeu e do Conselho, de 12 de fevereiro de 2021, que cria o MRR e nas Orientações Técnicas aprovadas pela Estrutura de Missão ‘Recuperar Portugal’.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A ApC, I. P., é a entidade competente para decidir sobre o processo de financiamento, com o apoio técnico dos seus serviços, mediante deliberação do conselho diretivo, tomada por maioria dos votos.
 
@@ -329,7 +369,9 @@ O aviso de abertura de concurso da ApC, I. P. deve observar o respeito pelas reg
 
 8 - Durante o procedimento de análise, seleção e decisão das candidaturas a ApC, I. P., poderá solicitar esclarecimentos a qualquer dos documentos ou declarações produzidas no âmbito da candidatura, no âmbito do qual será dado um prazo de até 10 dias úteis para resposta.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -337,7 +379,9 @@ O aviso de abertura de concurso da ApC, I. P. deve observar o respeito pelas reg
 
 3 - [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - São obrigações dos beneficiários:
 
@@ -381,7 +425,9 @@ p) Apresentar uma justificação do domínio de intervenção selecionado para c
 
 2 - O incumprimento de uma ou mais obrigações constantes das alíneas e subalíneas do número anterior constitui fundamento para resolução do termo de aceitação pela ApC, I. P.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - A ApC, I. P. é globalmente responsável pela execução do investimento, obrigando-se para o efeito a criar e manter as condições necessárias, designadamente:
 
@@ -427,7 +473,9 @@ b) Despesas realizadas.
 
 2 - A obrigação de reporte referida no número anterior existe até que os investimentos subjacentes estejam totalmente implementados, podendo, se necessário, persistir para além de 2026.
 
-###### Artigo 21.º — Acordo de Implementação
+Artigo 21.º
+
+Acordo de Implementação
 
 A ApC, I. P., enquanto parceiro de execução, assinará um Acordo de Implementação com a Estrutura de Missão Recuperar Portugal (EMRP), ao abrigo do artigo 9.º do [Decreto-Lei n.º 29-B/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-b-2021-162756795), na sua redação atual, dando cumprimento ao estabelecido no descrito do investimento TC-C21-i18 - ‘Regime de apoio à flexibilidade da rede e ao armazenamento’, e na meta 21.47 nos termos da Decisão de Execução do Conselho Europeu n.º 15796/25, adotada em 12 de dezembro de 2025.»
 
@@ -435,4 +483,6 @@ A ApC, I. P., enquanto parceiro de execução, assinará um Acordo de Implementa
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 16 de fevereiro de 2026.**
+A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 16 de fevereiro de 2026.
+
+119947713

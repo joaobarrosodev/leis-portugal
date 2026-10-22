@@ -48,25 +48,41 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/199/2026/10/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-2026-1177979316
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-10-07T00:00:00Z'
+  retrieved_at: '2026-10-22T18:54:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f035b63849eee5463d50abdcf7431dca953d58fbd65ed4aa7115b6de1f2b7bfd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7456457e6dca25ad6a206d688aa139ae354f6fd3e86be55e6e2f1b97aa1f8eed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:54:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio financeiro
+- Associação Humanitária dos Bombeiros Voluntários
+- Autoridade Tributária e Aduaneira
+- Auxílio de Minimis
+- Combustível
+- Contraordenação
+- Cooperativa
+- IFAP
+- Instituto da Mobilidade e dos Transportes
+- Política Social
+- Segurança Social
+- TAXI
+- Transporte de Passageiros
+- Transporte Público
+- Transporte Rodoviário
+- Veículo
 relationships:
 - type: cites
   target: celex:32023R2831
@@ -100,16 +116,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/395/2026/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/395/2026/08/28/p/dre
+- type: cites
+  target: pt:dre:1080481232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1129893852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1139897693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1163562937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117114258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117714174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124539914:por
+  label: null
+  source: null
 article_structure:
   article_count: 32
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:54:25Z'
   warnings: []
   errors: []
 ---
@@ -514,15 +558,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de setembro de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Miguel Martinez de Castro Pinto Luz - Maria da Graça Carvalho.
 
-**Promulgado em 5 de outubro de 2026.**
+Promulgado em 5 de outubro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 5 de outubro de 2026.**
+Referendado em 5 de outubro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 3.º)
 
@@ -539,3 +583,7 @@ Visto e aprovado em Conselho de Ministros de 17 de setembro de 2026. - Luís Mon
 | --- | --- | --- | --- |
 | 9 000 kg ≤ × < 35 000 kg | 900 | 0,3 | 270 |
 | ≥ 35 000 kg | 2 100 | 0,2 | 420 |
+
+119949690
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:18px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; }

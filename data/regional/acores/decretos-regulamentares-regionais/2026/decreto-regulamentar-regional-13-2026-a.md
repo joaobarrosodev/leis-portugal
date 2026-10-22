@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/13/2026/08/05/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2026-1154555179
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T18:49:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57977619b9980addebb6f4b29b60703013a027668cdd3f866b23b6ca881989a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18e44c5f83e267165a8a85ff137310c720bce083333c9e164dc4d01f0e8d8ad0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:49:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -132,6 +132,126 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:122373686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207881792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208326768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223336984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:64797341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70014797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74711478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75170439:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31991L0676
   label: null
@@ -147,13 +267,13 @@ relationships:
 article_structure:
   article_count: 28
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:49:19Z'
   warnings: []
   errors: []
 ---
@@ -230,11 +350,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 13 de maio de 2026.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo, em 8 de julho de 2026.**
+Assinado em Angra do Heroísmo, em 8 de julho de 2026.
 
-**Publique-se.**
+Publique-se.
 
 A Representante da República para a Região Autónoma dos Açores, Susana Goulart Costa.
 
@@ -642,11 +762,13 @@ Planta de zonamento
 
 Cartograma 1A
 
-![](https://files.diariodarepublica.pt/images/1154555179/1154555090.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555179/1154555090.png) |
+| --- |
 
 Cartograma 1B
 
-![](https://files.diariodarepublica.pt/images/1154555179/1154555091.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555179/1154555091.png) |
+| --- |
 
 ## ANEXO III — [a que se refere a alínea c) do n.º 1 do artigo 1.º]
 
@@ -654,11 +776,13 @@ Planta de condicionantes
 
 Cartograma 2A
 
-![](https://files.diariodarepublica.pt/images/1154555179/1154555092.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555179/1154555092.png) |
+| --- |
 
 Cartograma 2B
 
-![](https://files.diariodarepublica.pt/images/1154555179/1154555093.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555179/1154555093.png) |
+| --- |
 
 ## ANEXO IV — [a que se refere a alínea d) do n.º 1 do artigo 1.º]
 
@@ -816,31 +940,36 @@ Anexos
 
 O Arquipélago dos Açores localiza-se no oceano Atlântico norte ocupando uma faixa definida pelas seguintes coordenadas geográficas: 39°43’23” (Ponta Norte - ilha do Corvo) e 36°55’43” (Ponta do Castelo - ilha de Santa Maria) de latitude norte; 24°46’15” (ilhéus das Formigas - ilha de Santa Maria) e 31°16’24” (ilhéu de Monchique - ilha das Flores) de longitude oeste.
 
-![](https://files.diariodarepublica.pt/images/1154555179/1154555094.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555179/1154555094.png) |
+| --- |
 
 Figura 1 - Arquipélago dos Açores no mundo.
 
 As ilhas encontram-se agrupadas atendendo à proximidade geográfica: Grupo Ocidental (Corvo e Flores); Grupo Central (Terceira, Graciosa, São Jorge, Pico e Faial); Grupo Oriental (São Miguel e Santa Maria). O Grupo Central distancia-se cerca de 150 km e de 240 km dos Grupos Oriental e Ocidental, respetivamente.
 
-![](https://files.diariodarepublica.pt/images/1154555179/1154555095.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555179/1154555095.png) |
+| --- |
 
 Figura 2 - Arquipélago dos Açores e ilha Terceira.
 
 A partir da Carta de Ocupação do Solo da Região Autónoma dos Açores de 2018 (COS.A/2018) pode concluir-se que a Agricultura domina a ocupação da ilha, com a subclasse prados/pastagens a ocupar 57,53 %. As florestas e os meios naturais e seminaturais são a segunda classe de maior expressão, e em que a percentagem de ocupação das subclasses florestas de folhosas e florestas de resinosas são muito similares, o que só acontece nesta ilha, com 10,30 % e 7,08 % respetivamente, enquanto as subclasses áreas portuárias [0,15 %] e equipamentos desportivos, culturais, turísticos e de lazer [0,27 %] representam os valores mais altos da Região.
 
-![](https://files.diariodarepublica.pt/images/1154555179/1154555096.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555179/1154555096.png) |
+| --- |
 
 Figura 3 - Usos do solo a partir da COS.A/2018 (DRA 2018).
 
 Para a adequada gestão dos Parques Naturais de Ilha (PNI) é também fundamental ter conhecimento do regime de propriedade dos terrenos neles integrados. Nos Açores, uma parte substancial dos terrenos públicos estão integrados nos perímetros florestais, pelo que se apresenta o perímetro florestal mais recente. O perímetro florestal representa cerca de 44 % do Parque Natural de Ilha da Terceira, e é constituído por um conjunto de terrenos baldios que foram submetidos ao Regime Florestal Parcial. A gestão destas áreas públicas nos Açores é da responsabilidade da Direção Regional dos Recursos Florestais e Ordenamento Territorial (DRRFOT), sendo este departamento governamental que, integrado na Secretaria Regional da Agricultura e Alimentação, tem como missão contribuir para a definição da política regional nos domínios do ordenamento, proteção, desenvolvimento e uso dos recursos florestais, dos recursos cinegéticos e dos recursos piscícolas das águas interiores, bem como orientar, coordenar e controlar a sua execução. Refira-se, no entanto, que as áreas de perímetro florestal que, entretanto, foram classificadas no âmbito da Rede de Áreas Protegidas dos Açores estão sujeitas ao respetivo regime de classificação e ao regime jurídico da conservação da natureza e da biodiversidade, estabelecido pelo [Decreto Legislativo Regional n.º 15/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2012-553893), de 2 de abril.
 
-![](https://files.diariodarepublica.pt/images/1154555179/1154555097.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555179/1154555097.png) |
+| --- |
 
 Figura 4 - Perímetro florestal e áreas protegidas (perímetro florestal - DRRF, 2014).
 
 O regime jurídico da conservação da natureza e da biodiversidade, aprovado pelo [Decreto Legislativo Regional n.º 15/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2012-553893), de 2 de abril, define a Rede Fundamental de Conservação da Natureza como o conjunto dos territórios orientados para a conservação das componentes mais representativas do património natural e da biodiversidade. O conjunto das áreas integradas no PNI, a Rede Natura 2000 e as áreas de Reserva Ecológica e de Reserva Agrícola conformam a Rede Fundamental da Conservação da Natureza (figura 5).
 
-![](https://files.diariodarepublica.pt/images/1154555179/1154555098.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555179/1154555098.png) |
+| --- |
 
 Figura 5 - Rede Fundamental da Conservação da Natureza - Integra as áreas protegidas, as áreas da Rede Natura 2000, a Reserva Ecológica e a Reserva Agrícola (IROA 2013).
 
@@ -860,27 +989,28 @@ Este Plano de Gestão contribui para a concretização desses objetivos.
 
 Foram consideradas para a Terceira, 10 unidades de paisagem, a seguir identificadas com a respetiva denominação e código:
 
-a) Raminho/Altares (T1) - apresenta uma área de, aproximadamente, 52 km<sup>2</sup>, abrangendo os concelhos de Angra do Heroísmo e Praia da Vitória, e integra os aglomerados urbanos de Raminho, Altares e Biscoitos;
+a) Raminho/Altares (T1) - apresenta uma área de, aproximadamente, 52 km2, abrangendo os concelhos de Angra do Heroísmo e Praia da Vitória, e integra os aglomerados urbanos de Raminho, Altares e Biscoitos;
 
-b) Área Natural do Pico Alto (T2) - apresenta uma área de, aproximadamente, 56 km<sup>2</sup>, abrangendo os concelhos de Angra do Heroísmo e Praia da Vitória, e integra o aglomerado urbano de Quatro Ribeiras;
+b) Área Natural do Pico Alto (T2) - apresenta uma área de, aproximadamente, 56 km2, abrangendo os concelhos de Angra do Heroísmo e Praia da Vitória, e integra o aglomerado urbano de Quatro Ribeiras;
 
-c) Ramo Grande (T3) - apresenta uma área de, aproximadamente, 94 km<sup>2</sup>, abrangendo os concelhos de Angra do Heroísmo e Praia da Vitória, e integra os aglomerados urbanos de Agualva, Vila Nova, São Brás, Lajes, Fontinhas, Praia da Vitória, Cabo da Praia, Fonte do Bastardo e Porto Martins;
+c) Ramo Grande (T3) - apresenta uma área de, aproximadamente, 94 km2, abrangendo os concelhos de Angra do Heroísmo e Praia da Vitória, e integra os aglomerados urbanos de Agualva, Vila Nova, São Brás, Lajes, Fontinhas, Praia da Vitória, Cabo da Praia, Fonte do Bastardo e Porto Martins;
 
-d) Caldeira de Santa Bárbara (T4) - abrange uma área de, aproximadamente, 3 km<sup>2</sup> do concelho de Angra do Heroísmo e não integra aglomerados urbanos;
+d) Caldeira de Santa Bárbara (T4) - abrange uma área de, aproximadamente, 3 km2 do concelho de Angra do Heroísmo e não integra aglomerados urbanos;
 
-e) Encosta São Bartolomeu/Serreta (T5) - abrange uma área de, aproximadamente, 69 km<sup>2</sup> do concelho de Angra do Heroísmo e integra os aglomerados urbanos de Serreta, Doze Ribeiras, Santa Bárbara, Cinco Ribeiras e São Bartolomeu;
+e) Encosta São Bartolomeu/Serreta (T5) - abrange uma área de, aproximadamente, 69 km2 do concelho de Angra do Heroísmo e integra os aglomerados urbanos de Serreta, Doze Ribeiras, Santa Bárbara, Cinco Ribeiras e São Bartolomeu;
 
-f) Bagacina (T6) - abrange uma área de, aproximadamente, 14 km<sup>2</sup> do concelho de Angra do Heroísmo e não integra aglomerados urbanos;
+f) Bagacina (T6) - abrange uma área de, aproximadamente, 14 km2 do concelho de Angra do Heroísmo e não integra aglomerados urbanos;
 
-g) Caldeira de Guilherme Moniz (T7) - apresenta uma área de, aproximadamente, 10 km<sup>2</sup>, abrangendo os concelhos de Angra do Heroísmo e Praia da Vitória, e não integra aglomerados urbanos;
+g) Caldeira de Guilherme Moniz (T7) - apresenta uma área de, aproximadamente, 10 km2, abrangendo os concelhos de Angra do Heroísmo e Praia da Vitória, e não integra aglomerados urbanos;
 
-h) Achada (T8) - apresenta uma área de, aproximadamente, 47 km<sup>2</sup>, abrangendo os concelhos de Angra do Heroísmo e Praia da Vitória, e não integra aglomerados urbanos;
+h) Achada (T8) - apresenta uma área de, aproximadamente, 47 km2, abrangendo os concelhos de Angra do Heroísmo e Praia da Vitória, e não integra aglomerados urbanos;
 
-i) Angra do Heroísmo e Envolvente (T9) - abrange uma área de, aproximadamente, 35 km<sup>2</sup> do concelho de Angra do Heroísmo e integra os aglomerados urbanos de São Mateus, Terra-Chã, Posto Santo e Angra do Heroísmo;
+i) Angra do Heroísmo e Envolvente (T9) - abrange uma área de, aproximadamente, 35 km2 do concelho de Angra do Heroísmo e integra os aglomerados urbanos de São Mateus, Terra-Chã, Posto Santo e Angra do Heroísmo;
 
-j) Encosta Ribeirinha/São Sebastião (T10) - abrange uma área de, aproximadamente, 20 km<sup>2</sup> do concelho de Angra do Heroísmo e integra os aglomerados urbanos de Ribeirinha, Feteira, Porto Judeu e São Sebastião.
+j) Encosta Ribeirinha/São Sebastião (T10) - abrange uma área de, aproximadamente, 20 km2 do concelho de Angra do Heroísmo e integra os aglomerados urbanos de Ribeirinha, Feteira, Porto Judeu e São Sebastião.
 
-![](https://files.diariodarepublica.pt/images/1154555179/1154555099.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555179/1154555099.png) |
+| --- |
 
 Figura 6 - Unidades de paisagem para a ilha Terceira.
 
@@ -904,27 +1034,31 @@ Atualmente, nos Açores são conhecidos mais de três centenas de cavidades vulc
 
 Neste contexto, o Plano de Gestão prevê a implementação de medidas de gestão para as cavidades vulcânicas, dando execução ao disposto no Decreto Legislativo Regional n.º [10/2019/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2019-122373686), de 22 de maio.
 
-![](https://files.diariodarepublica.pt/images/1154555179/1154555100.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555179/1154555100.png) |
+| --- |
 
 Figura 7 - Distribuição das cavidades vulcânicas da ilha Terceira.
 
 O Parque Natural da Terceira foi criado em 2011, pelo [Decreto Legislativo Regional n.º 11/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2011-277368), de 20 de abril. Integram o PNI da Terceira todas as áreas protegidas da Rede Natura 2000, nomeadamente as Zonas Especiais de Conservação (ZEC) e as Zonas de Proteção Especial (ZPE), e as restantes áreas protegidas classificadas e reclassificadas segundo o referido decreto.
 
-O PNI da Terceira integra 20 áreas protegidas, das quais 14 são terrestres com uma área total de 95,78 km<sup>2</sup> o que corresponde a 22 % da superfície da ilha, e 6 áreas marinhas com 7,43 km<sup>2</sup>. Na figura 8 apresentam-se as áreas protegidas do PNI com o respetivo código, atribuído pelo diploma de classificação.
+O PNI da Terceira integra 20 áreas protegidas, das quais 14 são terrestres com uma área total de 95,78 km2 o que corresponde a 22 % da superfície da ilha, e 6 áreas marinhas com 7,43 km2. Na figura 8 apresentam-se as áreas protegidas do PNI com o respetivo código, atribuído pelo diploma de classificação.
 
-![](https://files.diariodarepublica.pt/images/1154555179/1154555101.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555179/1154555101.png) |
+| --- |
 
 Figura 8 - Áreas protegidas do PNI da Terceira e código adotado.
 
 Na figura 9 apresentam-se as áreas protegidas pertencentes ao PNI da Terceira, descriminadas segundo as categorias definidas pela União Internacional para a Conservação da Natureza (IUCN): à categoria i corresponde a designação de Reserva Natural; à categoria iii corresponde a designação de Monumento Natural; à categoria iv corresponde a designação de Área Protegida para a Gestão de Habitats ou Espécies; à categoria v corresponde a designação de Área de Paisagem Protegida e à categoria vi a designação de Área Protegida para a Gestão de Recursos.
 
-![](https://files.diariodarepublica.pt/images/1154555179/1154555102.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555179/1154555102.png) |
+| --- |
 
 Figura 9 - Áreas protegidas de acordo com as categorias IUCN.
 
 Na figura 10 mostra-se a relação das áreas terrestres do PNI da Terceira com as áreas da Rede Natura 2000, concretamente as Zonas Especiais de Conservação (ZEC) e as Zonas de Proteção Especial (ZPE).
 
-![](https://files.diariodarepublica.pt/images/1154555179/1154555103.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555179/1154555103.png) |
+| --- |
 
 Figura 10 - Relação das áreas da Rede Natura 2000 com as áreas terrestres do PNI da Terceira.
 
@@ -934,7 +1068,7 @@ Tabela 1 - Designação toponímica das áreas protegidas e classificações int
 
 A cor lilás, indicam-se as áreas protegidas com componente terrestre, que são objeto do Plano de Gestão
 
-| Categorias IUCN | Código | Designação | Classificações internacionais |
+| **Categorias IUCN** | **Código** | **Designação** | **Classificações internacionais** |
 | --- | --- | --- | --- |
 | Reserva Natural (I) | TER01 | Serra de Santa Bárbara e dos Mistérios Negros | ZEC PTTER0017 - Serra de Santa Bárbara e Pico AltoGeossítio do Açores Geoparque Mundial da UNESCO - Caldeira de Santa Bárbara e Mistérios Negros |
 |  | TER02 | Biscoito da Ferraria e Pico Alto | ZEC PTTER0017 - Serra de Santa Bárbara e Pico AltoRamsar 1805 - Planalto Central da Terceira (Furnas do Enxofre e Algar do Carvão)Geossítio do Açores Geoparque Mundial da UNESCO - Pico Alto, Biscoito Rachado e Biscoito da Ferraria |
@@ -971,11 +1105,12 @@ Os objetivos gerais do Plano de Gestão são balizados pelos objetivos de desenv
 
 A metodologia seguida na elaboração deste Plano de Gestão encontra-se esquematizada na figura 11.
 
-![](https://files.diariodarepublica.pt/images/1154555179/1154555104.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555179/1154555104.png) |
+| --- |
 
 Figura 11 - Metodologia usada na elaboração do Plano de Gestão.
 
-Para cada área protegida, houve lugar à elaboração de uma ficha de caracterização que inclui uma caracterização geral, de habitats, flora e fauna protegidos.<sup>1</sup> Os usos do solo e a componente cultural e social da paisagem são também abordados.
+Para cada área protegida, houve lugar à elaboração de uma ficha de caracterização que inclui uma caracterização geral, de habitats, flora e fauna protegidos.1 Os usos do solo e a componente cultural e social da paisagem são também abordados.
 
 Procedeu-se à elaboração de um diagnóstico que incluiu uma análise SWOT, aspetos relativos à vulnerabilidade das áreas protegidas, habitats e espécies e medidas de gestão que se encontram já a ser implementadas ou cuja implementação se verifica necessária.
 
@@ -983,7 +1118,7 @@ Cada área protegida foi objeto de um zonamento em que se procedeu a uma subdivi
 
 Para cada área protegida, estabeleceram-se objetivos e medidas de gestão. Os objetivos abrangem toda a área protegida e decorrem dos decretos legislativos regionais que deram origem ao estabelecimento das mesmas, no entanto são direcionados já aos valores presentes na área protegida em questão. As medidas de gestão são próprias de cada unidade operativa de gestão e estão já direcionadas para a conservação, recuperação e gestão de determinados habitats, espécies, elementos geológicos ou paisagens. Podem ser efetivamente implementadas no terreno e são passíveis de ser avaliadas e monitorizadas. Estes elementos são incluídos em tabelas e constituem o programa de execução para cada área protegida.
 
-<sup>1</sup> Os critérios que presidiram à inclusão dos habitats e espécies nas fichas de caracterização das áreas protegidas são os seguintes: Em primeiro lugar teve-se em conta os habitats e espécies integrados nas FDN’s - Standart Data Form da Rede Natura 2000 - Fichas de caracterização das áreas de Rede Natura 2000 (ZEC e ZPE) regularmente submetidas à Comissão Europeia. Estas fichas são atualizadas com a informação científica mais recente, as que estão a ser utilizadas são na generalidade de 2015; em segundo lugar teve-se em conta os levantamentos bibliográficos e formulários preenchidos pelo pessoal técnico dos PNI respeitantes às áreas protegidas; em terceiro lugar a informação recolhida aquando dos levantamentos de campo.
+1 Os critérios que presidiram à inclusão dos habitats e espécies nas fichas de caracterização das áreas protegidas são os seguintes: Em primeiro lugar teve-se em conta os habitats e espécies integrados nas FDN’s - Standart Data Form da Rede Natura 2000 - Fichas de caracterização das áreas de Rede Natura 2000 (ZEC e ZPE) regularmente submetidas à Comissão Europeia. Estas fichas são atualizadas com a informação científica mais recente, as que estão a ser utilizadas são na generalidade de 2015; em segundo lugar teve-se em conta os levantamentos bibliográficos e formulários preenchidos pelo pessoal técnico dos PNI respeitantes às áreas protegidas; em terceiro lugar a informação recolhida aquando dos levantamentos de campo.
 
 3 - Objetivos estratégicos e matriz SWOT
 
@@ -1005,12 +1140,12 @@ Os resultados da análise SWOT realizada ao PNI da Terceira estão resumidos de 
 
 Tabela 2 - Resultados da análise SWOT realizada ao Parque Natural de Ilha
 
-| S - Pontos fortes | W - Pontos fracos |
+| **S****- Pontos fortes** | **W****- Pontos fracos** |
 | --- | --- |
 | - Habitats e espécies de flora e fauna protegidos, com estatuto de conservação prioritário e em bom estado de conservação;- Manchas de vegetação natural endémica e nativa com interesse para a conservação;- Elevada qualidade ambiental;- Elevados valores paisagísticos;- Preservação da biodiversidade;- Existência de espécies da flora e fauna endémica;- Nidificação de aves marinhas;- Passagem de aves migratórias;- Valor geológico e geomorfológico elevado; | - Avanço de espécies de flora invasora;- Pressão humana para transformação de zonas com vegetação natural em áreas agrícolas e florestais;- Dificuldade de implementação de Instrumentos de Gestão Territorial existentes;- Insuficiente sensibilização ambiental da população;- Subvalorização por parte das populações das potencialidades dos recursos naturais;- Vigilância insuficiente;- Abandono de resíduos;- Conhecimento científico de algumas áreas protegidas insuficiente e/ou desatualizado; |
 | - Áreas classificadas pela Rede Natura 2000, Geoparque Açores e sítio Ramsar;- Existência de Instrumentos de Gestão Territorial como os Planos de Ordenamento da Orla Costeira;- Existência de programas de financiamento (Projeto LIFE IP AZORES NATURA - Proteção ativa e gestão integrada da Rede Natura 2000 nos Açores - LIFE17 IPE/PT/000010 e Projeto LIFE BEETLES - LIFE18 NAT/PT/000864);- Contacto com a natureza;- Existência de trilhos pedestres;- Existência de miradouros;- Existência de uma boa rede viária. | - Falta de sinalética (estradas, locais de interesse);- Existência de zonas de extração de massas minerais consolidadas sem Plano de Integração Paisagística implementado;- Desconhecimento da capacidade de carga dos trilhos;- Acessibilidade fácil aos ecossistemas;- Áreas de propriedade privada;- Presença de populações de espécies de flora raras e de artrópodes endémicos tendencialmente pequenas e isoladas;- Falta de vedações em áreas com presença de gado bravo bovino e caprino. |
 
-| O - Oportunidades | T - Ameaças |
+| **O****- Oportunidades** | **T****- Ameaças** |
 | --- | --- |
 | - Controlo da vegetação invasora (continuação);- Implementação dos Instrumentos de Gestão Territorial existentes e criação de outros;- Incentivo aos proprietários dos terrenos a optar por medidas silvo e agroambientais para os seus terrenos;- Incentivo à plantação de sebes e bosquetes com espécies de vegetação endémica e nativa;- Ações de erradicação e controlo de invasoras e plantação de espécies endémicas;- Criação e manutenção de corredores ecológicos pertencentes à RFCN - Rede Fundamental de Conservação da Natureza;- Aquisição de terrenos nas zonas com interesse para a conservação da natureza;- Vedação e recuperação de áreas com habitats e espécies sensíveis, nomeadamente áreas de turfeiras;- Vedação de áreas ambientais sensíveis, para evitar o pisoteio de gado;- Mapeamento em sistema ArcGIS das populações das espécies da fauna e flora endémica e invasora;- Criação de miradouros e zona de estadia com tipologias e materiais adequados a cada situação;- Colocação de sinalética interpretativa em áreas de interesse natural e cultural;- Estudo do impacte da utilização dos trilhos nos habitats e espécies protegidos;- Implementação de um programa de fiscalização articulado entre Vigilantes da Natureza, Polícia Marítima, Guarda Nacional Republicana e Polícia de Segurança Pública;- Definição de uma estratégia de comunicação e promoção da área do Parque Natural da Terceira;- Definição e implementação de um programa de monitorização;- Estabelecimento de protocolos com entidades de investigação;- Recuperação de elementos de interesse patrimonial como os fortes;- Potencialidade para a visitação;- Potencialidade para a observação de aves; | - Aumento da área com espécies da flora invasora;- Perda de espécies e habitats raros e muitos raros, e prioritários da Rede Natura 2000;- Degradação das zonas húmidas, nomeadamente lagoas, charcos e turfeiras com consequências para o sistema hidrológico de toda a ilha;- Aumento das zonas de pastagem e diminuição das zonas de vegetação natural existentes;- Perda de diversidade biológica em termos de flora e fauna;- Perda da oportunidade da implementação dos Instrumentos de Gestão Territorial existentes;- Perda da oportunidade da criação de outros instrumentos de gestão territorial;- Destruição de habitat nidificável e de repouso para as aves endémicas, nativas e migradoras;- Aumento da pressão turística;- Manutenção das áreas de extração de inertes ao abandono;- Subvalorização por parte das populações das potencialidades dos recursos naturais e paisagísticos;- Herbivoria e pisoteio de espécies de flora protegida;- Espécies predadoras de avifauna;- Perda de oportunidade de recuperação de elementos arquitetónicos de valor cultural;- Degradação de zonas húmidas;- Pressão para construção em áreas protegidas;- Extração ilegal de calhau rolado;- Campismo selvagem;- Realização de trilhos pedestres não oficiais em zonas sensíveis;- Pisoteio por pedestrianistas de zonas sensíveis, espécies raras de vegetação e formações geológicas;- Realização de cozidos ilegais nas Furnas do Enxofre. |
 | - Interesse para a atividade turística;- Interesse científico;- Sensibilização e educação ambiental da população;- Interesse para o desenvolvimento do geoturismo;- Formação e sensibilização dos guias do parque e operadores turísticos.- Monitorização da pressão turística e avaliação da necessidade de implementação de capacidades de carga e/ou regulamentos de visitação turística e acesso à área protegida. |  |
@@ -1021,7 +1156,7 @@ Para que não se perca a visão integradora do Plano de Gestão, optou-se por cl
 
 Tabela 3 - Grandes temas de medidas de gestão
 
-| Tema | Descrição |
+| **Tema** | **Descrição** |
 | --- | --- |
 | A. | Medidas relacionadas com a gestão de habitats e espécies |
 | B. | Medidas baseadas na propriedade e uso do solo |
@@ -1033,7 +1168,7 @@ Esta metodologia permitiu identificar tipos de medidas que se podem propor no â
 
 Tabela 4 - Tipos de medidas de gestão e entidades responsáveis pela sua implementação
 
-| Tipo de medida | Descrição | Entidades responsáveis |
+| **Tipo de medida** | **Descrição** | **Entidades responsáveis** |
 | --- | --- | --- |
 | M1. | Medidas gerais | - Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática |
 | M2. | Medidas relacionadas com a agricultura e habitats abertos | - Secretaria Regional da Agricultura e Alimentação/Direção Regional da Agricultura, Veterinária e Alimentação/Direção Regional dos Recursos Florestais e Ordenamento Territorial- Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática |
@@ -1065,12 +1200,12 @@ Na Tabela 5 apresentam-se os tipos de medidas de gestão e respetivos códigos.
 
 Tabela 5 - Tipos de medidas de gestão e códigos correspondentes
 
-| Tema | Código | Medidas de gestão |
+| **Tema** | **Código** | **Medidas de gestão** |
 | --- | --- | --- |
-|  | M1. | Medidas gerais |
+|  | M1. | **Medidas gerais** |
 | A/B/C/D/E | M1.1. | Fiscalização de áreas protegidas |
 | A/B/C/D/E | M1.2 | Gestão e monitorização das cavidades vulcânicas protegidas |
-|  | M2. | Medidas relacionadas com a agricultura e habitats abertos |
+|  | M2. | **Medidas relacionadas com****a****agricultura****e****habitats****abertos** |
 | B | M2.1. | Manutenção de pastagens e outros habitats abertos |
 | B | M2.2. | Modificação de práticas culturais |
 | B | M2.3. | Corte/colheita |
@@ -1096,7 +1231,7 @@ Tabela 5 - Tipos de medidas de gestão e códigos correspondentes
 | A/B/C | M2.23. | Manutenção de faixas e manchas de vegetação endémica em vinha |
 | A/B/C | M2.24. | Maneio de gado caprino |
 |  | M2.25. | Outras medidas relacionadas com a agricultura |
-|  | M3. | Medidas relacionadas com florestas e habitats lenhosos |
+|  | M3. | **Medidas relacionadas com florestas****e****habitats****lenhosos** |
 | B/C | M3.1. | Plantação florestal com espécimes de espécies de produção e nativas |
 | A/C/D/E | M3.2. | Naturalização dos povoamentos florestais |
 | B/C | M3.3. | Desbaste de povoamentos florestais |
@@ -1116,7 +1251,7 @@ Tabela 5 - Tipos de medidas de gestão e códigos correspondentes
 | A/B/C/D/E | M3.17. | Gestão florestal adaptada à conservação da natureza |
 | A/B/C/E | M3.18. | Valorização de caminhos florestais e aceiros para o turismo |
 |  | M3.19. | Outras medidas relacionadas com florestação |
-|  | M4. | Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros |
+|  | M4. | **Medidas relacionadas com zonas húmidas, águas correntes****e****habitats****costeiros** |
 | A/B/C/D/E | M4.1. | Restauro/melhoria do estado da água |
 | A/B/C | M4.2. | Restauro/melhoria do regime hidrológico |
 | A/C/E | M4.3. | Criação de bacias de retenção de água |
@@ -1140,10 +1275,10 @@ Tabela 5 - Tipos de medidas de gestão e códigos correspondentes
 | A/C | M4.21 | Estabilização da linha de costa |
 | A/C | M4.22 | Obras de proteção costeira |
 |  | M4.23 | Outras medidas relacionadas com zonas húmidas |
-|  | M5. | Medidas relacionadas com habitats marinhos |
+|  | M5. | **Medidas relacionadas com****habitats****marinhos** |
 |  | M5.1. | Restauro de habitats marinhos |
 |  | M5.2. | Outras medidas relacionadas com habitats marinhos |
-|  | M6. | Medidas relacionadas com planeamento espacial |
+|  | M6. | **Medidas relacionadas com planeamento espacial** |
 | A/C | M6.1. | Criação, reclassificação ou alteração de áreas protegidas |
 | A/B/C/E | M6.2. | Estabelecimento de corredores ecológicos |
 | A/B/C/E | M6.3. | Estabelecimento de áreas de continuum naturale |
@@ -1162,7 +1297,7 @@ Tabela 5 - Tipos de medidas de gestão e códigos correspondentes
 | A/B/C | M6.16. | Aquisição de terrenos |
 | A/B/C | M6.17. | Aquisição/adaptação/construção de edifícios de apoio à gestão |
 |  | M6.18. | Outras medidas de planeamento espacial |
-|  | M7. | Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |
+|  | M7. | **Medidas relacionadas com gestão de****habitats****e****espécies, caça, recoleção****e****pesca** |
 | A/B/C | M7.1. | Gestão da caça |
 | A/D | M7.2. | Caracterização de fauna |
 | A/D | M7.3. | Monitorização de fauna |
@@ -1196,7 +1331,7 @@ Tabela 5 - Tipos de medidas de gestão e códigos correspondentes
 | A/E | M7.31. | Campanhas de sensibilização ambiental do público, de entidades e parceiros |
 | A/E | M7.32. | Recolha de sementes em banco de sementes (conservação ex situ) |
 |  | M7.33. | Outras medidas relacionadas com gestão de espécies |
-|  | M8. | Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
+|  | M8. | **Medidas relacionadas com áreas urbanas, indústria, energia, turismo****e****transportes** |
 | B/C | M8.1. | Gestão de urbanização |
 | B/C | M8.2. | Gestão de urbanização de povoamentos lineares |
 | B/C | M8.3. | Gestão de urbanização de povoamentos concentrados |
@@ -1265,7 +1400,7 @@ Tabela 5 - Tipos de medidas de gestão e códigos correspondentes
 | A/B/C/E | M8.66. | Recuperação de elemento arquitetónico de valor cultural |
 |  | M8.67. | Outros impactes de atividades humanas |
 |  | M8.68. | Gestão de tráfego marinho |
-|  | M9. | Medidas relacionadas com uso especial dos recursos |
+|  | M9. | **Medidas relacionadas com uso especial dos recursos** |
 | A/B/C | M9.1. | Regulação/gestão de exploração de extração de inertes |
 | A/B/C | M9.2. | Regulação/gestão de exploração de pedreiras |
 | A/C | M9.3. | Regulação/gestão de exploração de extração de inertes em praias |
@@ -1278,26 +1413,26 @@ Tabela 5 - Tipos de medidas de gestão e códigos correspondentes
 
 5.1 - Proposta de intervenção para a Reserva Natural da Serra de Santa Bárbara e dos Mistérios Negros (TER01)
 
-| Condicionantes | Condicionantes |
+| **Condicionantes** |  |
 | --- | --- |
 | Plano Diretor Municipal de Angra do Heroísmo | Espaço Natural |
-| Plano Diretor Municipal de Angra do Heroísmo | Reserva Florestal Natural |
-| Plano Diretor Municipal de Angra do Heroísmo | Zona de Proteção Especial |
-| Plano Diretor Municipal de Angra do Heroísmo | Zonas Húmidas |
+| Reserva Florestal Natural |  |
+| Zona de Proteção Especial |  |
+| Zonas Húmidas |  |
 | Conservação da Natureza | ZEC PTTER0017 Serra de Santa Bárbara e Pico Alto |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| **Unidades Operativas de Gestão** |  |
 | --- | --- |
 | TER01.01 - Caldeira da Serra de Santa Bárbara | Área de proteção integral e área de intervenção específica (278,40 ha) |
 | TER01.02 - Serra de Santa Bárbara e Mistérios Negros | Área de proteção parcial e áreas de intervenção específica (1308,59 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| **Elementos de fruição da paisagem** |  |
 | --- | --- |
-| Trilhos | Trilhos |
+| Trilhos |  |
 | PRC01TER Mistérios Negros | Manutenção e beneficiação |
 | PRC03TER Serreta - troço de subida à Lagoínha | Manutenção e beneficiação |
 | Passadiços norte e sul da Serra de Santa Bárbara | Criação e manutenção |
-| Miradouros | Miradouros |
+| Miradouros |  |
 | TER.M1 Miradouro da Serra de Santa Bárbara 1 | Requalificação |
 | TER.M2 Miradouro da Serra de Santa Bárbara 2 | Requalificação |
 | TER.M3 Miradouro dos Mistérios Negros - Lagoa do Negro | Manutenção e beneficiação |
@@ -1318,33 +1453,33 @@ OB6. Definição de limites e condicionamentos ao livre acesso público.
 
 5.1.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M1 - Medidas gerais | M3 - Medidas relacionadas com florestas e habitats lenhosos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial |
-| TER01.01 | M1.1. |  |  |  |  | M4.9. |  | M6.9. |  |  |  |
-| TER01.02 | M1.1. | M1.2. |  | M3.17. |  |  |  | M6.2. | M6.2. | M6.9. |  |
+| **Medidas de gestão** |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Unidade Operativa de Gestão** | M1 - Medidas gerais | M3 - Medidas relacionadas com florestas e habitats lenhosos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial |  |  |  |  |  |
+| **TER01.01** | M1.1. |  |  | M4.9. |  | M6.9. |  |  |  |
+| **TER01.02** | M1.1. | M1.2. |  | M3.17. |  |  | M6.2. | M6.9. |  |
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| **Medidas de gestão** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
-| TER01.01 | M7.3. | M7.10. | M7.16. | M7.18. | M7.24. | M7.32. |  |  |  | M8.12. | M8.64. |  |  |  |  |
-| TER01.02 | M7.2. | M7.3. | M7.15. | M7.16. | M7.18. | M7.24. | M7.26. | M7.31. | M7.32. | M8.25. | M8.36. | M8.44. | M8.47. | M8.64. |  |
+| **Unidade Operativa de Gestão** | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| **TER01.01** | M7.3. | M7.10. | M7.16. | M7.18. | M7.24. | M7.32. |  | M8.12. | M8.64. |  |  |  |  |  |  |
+| **TER01.02** | M7.2. | M7.3. | M7.15. | M7.16. | M7.18. | M7.24. | M7.26. | M7.31. | M7.32. | M8.25. | M8.36. | M8.44. | M8.47. | M8.64. |  |
 
 5.1.3 - Medidas de gestão
 
-| Unidade Operativa de Gestão | Regime de proteção | Medidas de gestão | Descrição |
+| **Unidade Operativa de Gestão** | **Regime de proteção** | **Medidas de gestão** | **Descrição** |
 | --- | --- | --- | --- |
 | TER01.01 | Área de proteção integral e área de intervenção específica | M1.1. | Fiscalização da área protegida pelos Vigilantes da Natureza. |
-| TER01.01 | Área de proteção integral e área de intervenção específica | M4.9. | Conservação das zonas de turfeira. |
-| TER01.01 | Área de proteção integral e área de intervenção específica | M6.9. | Monitorização do geossítio e elementos de interesse geológico. |
-| TER01.01 | Área de proteção integral e área de intervenção específica | M7.3. | Monitorização da fauna de artrópodes, com especial incidência o Trechus terrabravensis. |
-| TER01.01 | Área de proteção integral e área de intervenção específica | M7.10. | Caracterização das espécies protegidas de flora e das manchas de habitats protegidos. |
-| TER01.01 | Área de proteção integral e área de intervenção específica | M7.16. | Controlo de espécies de vegetação invasora por métodos mecânicos, químicos e manuais. |
-| TER01.01 | Área de proteção integral e área de intervenção específica | M7.18. | Caracterização e erradicação de novas espécies invasoras. |
-| TER01.01 | Área de proteção integral e área de intervenção específica | M7.24. | Melhoria da qualidade do habitat do artrópode endémico Trechus terrabravensis, através da remoção manual e controlo de espécies invasoras. |
-| TER01.01 | Área de proteção integral e área de intervenção específica | M7.32. | Recolha de sementes em banco de sementes (conservação ex situ). |
-| TER01.01 | Área de proteção integral e área de intervenção específica | M8.12. | Fiscalização das áreas com acesso condicionado ou restrito (caldeira). |
-| TER01.01 | Área de proteção integral e área de intervenção específica | M8.64 | Gestão no local dos resíduos provenientes das atividades de remoção das espécies invasoras. |
+| M4.9. | Conservação das zonas de turfeira. |  |  |
+| M6.9. | Monitorização do geossítio e elementos de interesse geológico. |  |  |
+| M7.3. | Monitorização da fauna de artrópodes, com especial incidência o Trechus terrabravensis. |  |  |
+| M7.10. | Caracterização das espécies protegidas de flora e das manchas de habitats protegidos. |  |  |
+| M7.16. | Controlo de espécies de vegetação invasora por métodos mecânicos, químicos e manuais. |  |  |
+| M7.18. | Caracterização e erradicação de novas espécies invasoras. |  |  |
+| M7.24. | Melhoria da qualidade do habitat do artrópode endémico Trechus terrabravensis, através da remoção manual e controlo de espécies invasoras. |  |  |
+| M7.32. | Recolha de sementes em banco de sementes (conservação ex situ). |  |  |
+| M8.12. | Fiscalização das áreas com acesso condicionado ou restrito (caldeira). |  |  |
+| M8.64 | Gestão no local dos resíduos provenientes das atividades de remoção das espécies invasoras. |  |  |
 | TER01.02 | Área de proteção parcial e áreas de intervenção específica | M1.1. | Fiscalização da área protegida pelos Vigilantes da Natureza. |
 |  |  | M1.2. | Gestão e monitorização das cavidades vulcânicas protegidas - gruta do Natal. |
 |  |  | M3.17. | Gestão florestal adaptada à conservação da natureza. |
@@ -1367,24 +1502,24 @@ OB6. Definição de limites e condicionamentos ao livre acesso público.
 
 5.2 - Proposta de intervenção para a Reserva Natural do Biscoito da Ferraria e Pico Alto (TER02)
 
-| Condicionantes | Condicionantes |
+| **Condicionantes** |  |
 | --- | --- |
 | Plano Diretor Municipal da Praia da Vitória | Áreas de Máxima Infiltração |
-| Plano Diretor Municipal da Praia da Vitória | Área pertencente à Lista Nacional de Sítios/Açores |
-| Plano Diretor Municipal da Praia da Vitória | Espaços Florestais |
-| Plano Diretor Municipal da Praia da Vitória | Espaços Naturais |
+| Área pertencente à Lista Nacional de Sítios/Açores |  |
+| Espaços Florestais |  |
+| Espaços Naturais |  |
 | Conservação da Natureza | Sítio Ramsar 1805 - Planalto Central da Terceira (Furnas do Enxofre e Algar do Carvão) |
-| Conservação da Natureza | ZEC PTTER0017 Serra de Santa Bárbara e Pico Alto |
+| ZEC PTTER0017 Serra de Santa Bárbara e Pico Alto |  |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| **Unidades Operativas de Gestão** |  |
 | --- | --- |
 | TER02.01 - Biscoito da Ferraria e Pico Alto | Área de proteção parcial e áreas de intervenção específica (708,24 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| **Elementos de fruição da paisagem** |  |
 | --- | --- |
-| Trilhos | Trilhos |
+| Trilhos |  |
 | PRC06TER Rocha do Chambre - troço do trilho | Manutenção e beneficiação |
-| Miradouros | Miradouros |
+| Miradouros |  |
 | TER.M4 Miradouro da Rocha do Chambre | Manutenção e beneficiação |
 | TER.M15 Miradouro do Pico Alto | Manutenção e beneficiação |
 
@@ -1404,19 +1539,19 @@ OB6. Definição de limites e condicionamentos ao livre acesso público.
 
 5.2.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| **Medidas de gestão** |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial |
-| TER02.01 | M1.1. |  | M2.9. | M2.10. |  | M6.2. | M6.3. | M6.9. |  |
+| **Unidade Operativa de Gestão** | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M6 - Medidas relacionadas com planeamento espacial |  |  |  |  |  |  |
+| **TER02.01** | M1.1. |  | M2.9. | M2.10. |  | M6.2. | M6.3. | M6.9. |  |
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| **Medidas de gestão** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
-| TER02.01 | M7.2. | M7.3. | M7.11. | M7.13. | M7.16. | M7.18. | M7.24. | M7.26. | M7.32. | M7.33. | M8.25. | M8.35. | M8.44. | M8.64. |  |
+| **Unidade Operativa de Gestão** | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| **TER02.01** | M7.2. | M7.3. | M7.11. | M7.13. | M7.16. | M7.18. | M7.24. | M7.26. | M7.32. | M7.33. | M8.25. | M8.35. | M8.44. | M8.64. |  |
 
 5.2.3 - Medidas de gestão
 
-| Unidade Operativa de Gestão | Regime de proteção | Medidas de gestão | Descrição |
+| **Unidade Operativa de Gestão** | **Regime de proteção** | **Medidas de gestão** | **Descrição** |
 | --- | --- | --- | --- |
 | TER02.01 | Área de proteção parcial e áreas de intervenção específica | M1.1. | Fiscalização da área protegida pelos Vigilantes da Natureza. |
 |  |  | M2.9. | Vedação de terrenos. |
@@ -1441,22 +1576,22 @@ OB6. Definição de limites e condicionamentos ao livre acesso público.
 
 5.3 - Proposta de intervenção para a Reserva Natural da Terra Brava e Criação das Lagoas (TER03)
 
-| Condicionantes | Condicionantes |
+| **Condicionantes** |  |
 | --- | --- |
 | Plano Diretor Municipal da Praia da Vitória | Área pertencente à Lista Nacional de Sítios dos Açores |
-| Plano Diretor Municipal da Praia da Vitória | Espaços Agrícolas |
-| Plano Diretor Municipal da Praia da Vitória | Espaços Florestais |
-| Plano Diretor Municipal da Praia da Vitória | Espaços Naturais |
+| Espaços Agrícolas |  |
+| Espaços Florestais |  |
+| Espaços Naturais |  |
 | Conservação da Natureza | Sítio Ramsar 1805 - Planalto Central da Terceira (Furnas do Enxofre e Algar do Carvão) |
-| Conservação da Natureza | ZEC PTTER0017 Serra de Santa Bárbara e Pico Alto |
+| ZEC PTTER0017 Serra de Santa Bárbara e Pico Alto |  |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| **Unidades Operativas de Gestão** |  |
 | --- | --- |
 | TER03.01 - Terra Brava e Criação das Lagoas | Área de proteção parcial e áreas de intervenção específica (368,91 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| **Elementos de fruição da paisagem** |  |
 | --- | --- |
-| Miradouros | Miradouros |
+| Miradouros |  |
 | TER.M5 Miradouro da Terra Brava | Manutenção e beneficiação |
 
 5.3.1 - Objetivos de gestão
@@ -1475,57 +1610,57 @@ OB6. Definição de limites e condicionamentos ao livre acesso público.
 
 5.3.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| **Medidas de gestão** |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial |
-| TER03.01 | M1.1. |  | M2.9. | M2.10. |  | M6.2. | M6.3. | M6.16. |  |
+| **Unidade Operativa de Gestão** | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M6 - Medidas relacionadas com planeamento espacial |  |  |  |  |  |  |
+| **TER03.01** | M1.1. |  | M2.9. | M2.10. |  | M6.2. | M6.3. | M6.16. |  |
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| **Medidas de gestão** |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
-| TER03.01 | M7.2. | M7.3. | M7.8. | M7.10. | M7.11. | M7.16. | M7.18. | M7.24. | M7.31. | M7.32. | M7.33. | M8.64. |  |
+| **Unidade Operativa de Gestão** | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |  |  |  |  |  |  |
+| **TER03.01** | M7.2. | M7.3. | M7.8. | M7.10. | M7.11. | M7.16. | M7.18. | M7.24. | M7.31. | M7.32. | M7.33. | M8.64. |  |
 
 5.3.3 - Medidas de gestão
 
-| Unidade Operativa de Gestão | Regime de proteção | Medidas de gestão | Descrição |
+| **Unidade Operativa de Gestão** | **Regime de proteção** | **Medidas de gestão** | **Descrição** |
 | --- | --- | --- | --- |
 | TER03.01 | Área de proteção parcial e áreas de intervenção específica | M1.1. | Fiscalização da área protegida pelos Vigilantes da Natureza. |
-| TER03.01 | Área de proteção parcial e áreas de intervenção específica | M2.9. | Vedação de terrenos. |
-| TER03.01 | Área de proteção parcial e áreas de intervenção específica | M2.10. | Construção de cancelas e outros dispositivos de limitação do gado. |
-| TER03.01 | Área de proteção parcial e áreas de intervenção específica | M6.2. | Estabelecimento de corredores ecológicos. |
-| TER03.01 | Área de proteção parcial e áreas de intervenção específica | M6.3. | Estudo da viabilidade de estabelecimento de área de continuum naturale de ligação a área protegida para a gestão de habitats e espécies do Biscoito das Fontinhas (TER 09). |
-| TER03.01 | Área de proteção parcial e áreas de intervenção específica | M6.16. | Aquisição de terreno na Terra Brava para maximizar o efeito de proteção das zonas tampão. |
-| TER03.01 | Área de proteção parcial e áreas de intervenção específica | M7.2. | Caracterização da fauna. |
-| TER03.01 | Área de proteção parcial e áreas de intervenção específica | M7.3. | Monitorização da fauna de artrópodes, com especial incidência no Trechus terrabravensis. |
-| TER03.01 | Área de proteção parcial e áreas de intervenção específica | M7.8. | Gestão de espécies de fauna invasora. |
-| TER03.01 | Área de proteção parcial e áreas de intervenção específica | M7.10. | Levantamento das espécies de flora protegida. |
-| TER03.01 | Área de proteção parcial e áreas de intervenção específica | M7.11. | Monitorização da flora endémica e protegida. |
-| TER03.01 | Área de proteção parcial e áreas de intervenção específica | M7.16. | Controlo de espécies de vegetação invasora (Hedychium gardneranum). |
-| TER03.01 | Área de proteção parcial e áreas de intervenção específica | M7.18. | Caracterização e erradicação de novas espécies invasoras. |
-| TER03.01 | Área de proteção parcial e áreas de intervenção específica | M7.24. | Melhoria da qualidade do habitat do artrópode endémico Trechus terrabravensis, através da remoção manual e controlo de espécies invasoras. |
-| TER03.01 | Área de proteção parcial e áreas de intervenção específica | M7.31. | Campanhas de sensibilização ambiental do público, de entidades e parceiros. |
-| TER03.01 | Área de proteção parcial e áreas de intervenção específica | M7.32. | Recolha de sementes em banco de sementes (conservação ex situ). |
-| TER03.01 | Área de proteção parcial e áreas de intervenção específica | M7.33. | Controlo da presença do gado caprino. |
-| TER03.01 | Área de proteção parcial e áreas de intervenção específica | M8.64. | Gestão dos resíduos provenientes das atividades de remoção das espécies invasoras. |
+| M2.9. | Vedação de terrenos. |  |  |
+| M2.10. | Construção de cancelas e outros dispositivos de limitação do gado. |  |  |
+| M6.2. | Estabelecimento de corredores ecológicos. |  |  |
+| M6.3. | Estudo da viabilidade de estabelecimento de área de continuum naturale de ligação a área protegida para a gestão de habitats e espécies do Biscoito das Fontinhas (TER 09). |  |  |
+| M6.16. | Aquisição de terreno na Terra Brava para maximizar o efeito de proteção das zonas tampão. |  |  |
+| M7.2. | Caracterização da fauna. |  |  |
+| M7.3. | Monitorização da fauna de artrópodes, com especial incidência no Trechus terrabravensis. |  |  |
+| M7.8. | Gestão de espécies de fauna invasora. |  |  |
+| M7.10. | Levantamento das espécies de flora protegida. |  |  |
+| M7.11. | Monitorização da flora endémica e protegida. |  |  |
+| M7.16. | Controlo de espécies de vegetação invasora (Hedychium gardneranum). |  |  |
+| M7.18. | Caracterização e erradicação de novas espécies invasoras. |  |  |
+| M7.24. | Melhoria da qualidade do habitat do artrópode endémico Trechus terrabravensis, através da remoção manual e controlo de espécies invasoras. |  |  |
+| M7.31. | Campanhas de sensibilização ambiental do público, de entidades e parceiros. |  |  |
+| M7.32. | Recolha de sementes em banco de sementes (conservação ex situ). |  |  |
+| M7.33. | Controlo da presença do gado caprino. |  |  |
+| M8.64. | Gestão dos resíduos provenientes das atividades de remoção das espécies invasoras. |  |  |
 
 5.4 - Proposta de intervenção para o Monumento Natural do Algar do Carvão (TER04)
 
-| Condicionantes | Condicionantes |
+| **Condicionantes** |  |
 | --- | --- |
 | Plano Diretor Municipal de Angra do Heroísmo | Zona de Proteção Especial |
-| Plano Diretor Municipal de Angra do Heroísmo | Zonas Húmidas |
+| Zonas Húmidas |  |
 | Plano Diretor Municipal da Praia da Vitória | Área pertencente à Lista Nacional de Sítios dos Açores |
-| Plano Diretor Municipal da Praia da Vitória | Espaços Naturais |
+| Espaços Naturais |  |
 | Conservação da Natureza | Sítio Ramsar 1805 - Planalto Central da Terceira (Furnas do Enxofre e Algar do Carvão) |
-| Conservação da Natureza | ZEC PTTER0017 Serra de Santa Bárbara e Pico Alto |
+| ZEC PTTER0017 Serra de Santa Bárbara e Pico Alto |  |
 | Plano de Atividades Extrativas | Área de extração de massas minerais consolidada abandonada |
-| Plano de Atividades Extrativas | Área de integração ambiental e paisagística |
+| Área de integração ambiental e paisagística |  |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| **Unidades Operativas de Gestão** |  |
 | --- | --- |
 | TER04.01 - Algar do Carvão e área envolvente | Área de proteção parcial e área de intervenção específica (39,30 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| **Elementos de fruição da paisagem** |  |
 | --- | --- |
 | Centros Ambientais |  |
 | Centro de Receção e Interpretação Ambiental do Algar do Carvão | Construção de novo centro |
@@ -1540,48 +1675,48 @@ OB3. Eliminar ou prevenir tipos de exploração ou ocupação que possam constit
 
 5.4.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| **Medidas de gestão** |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M1 - Medidas gerais | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial |
-| TER04.01 | M1.1. | M1.2. |  | M6.9. |  |
+| **Unidade Operativa de Gestão** | M1 - Medidas gerais | M6 - Medidas relacionadas com planeamento espacial |  |  |  |
+| **TER04.01** | M1.1. | M1.2. |  | M6.9. |  |
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| **Medidas de gestão** |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
-| TER04.01 | M7.11. | M7.13. | M7.16. | M7.18. | M7.31. |  | M8.10. | M8.54. |  |
+| **Unidade Operativa de Gestão** | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |  |  |
+| **TER04.01** | M7.11. | M7.13. | M7.16. | M7.18. | M7.31. |  | M8.10. | M8.54. |  |
 
 5.4.3 - Medidas de gestão
 
-| Unidade Operativa de Gestão | Regime de proteção | Medidas de gestão | Descrição |
+| **Unidade Operativa de Gestão** | **Regime de proteção** | **Medidas de gestão** | **Descrição** |
 | --- | --- | --- | --- |
 | TER04.01 | Área de proteção parcial | M1.1. | Fiscalização da área protegida pelos Vigilantes da Natureza. |
-| TER04.01 | Área de proteção parcial | M1.2. | Gestão e monitorização da cavidade vulcânica protegida - Algar do Carvão. |
-| TER04.01 | Área de proteção parcial | M6.9. | Monitorização do geossítio e elementos de interesse geológico. |
-| TER04.01 | Área de proteção parcial | M7.11. | Monitorização da vegetação existente na envolvente da cavidade vulcânica. |
-| TER04.01 | Área de proteção parcial | M7.13. | Estudos suplementares sobre fauna cavernícola e artrópodes, fungos e bactérias. Monitorização dos efeitos dos visitantes na cavidade vulcânica. |
-| TER04.01 | Área de proteção parcial | M7.16. | Controlo de invasoras, prioridade na erradicação sempre que as invasoras compitam com habitats e espécies protegidos e que afetem os terrenos circundantes. |
-| TER04.01 | Área de proteção parcial | M7.18. | Levantamento e erradicação de novas espécies invasoras. |
-| TER04.01 | Área de proteção parcial | M7.31. | Campanhas de sensibilização ambiental do público, de entidades e parceiros. |
-| TER04.01 | Área de proteção parcial | M8.10. | Estabelecimento/regulação de capacidade de carga humana. |
-| TER04.01 | Área de proteção parcial | M8.54. | Construção de um novo centro (Centro de Interpretação e Apoio à Visitação do Algar do Carvão). |
+| M1.2. | Gestão e monitorização da cavidade vulcânica protegida - Algar do Carvão. |  |  |
+| M6.9. | Monitorização do geossítio e elementos de interesse geológico. |  |  |
+| M7.11. | Monitorização da vegetação existente na envolvente da cavidade vulcânica. |  |  |
+| M7.13. | Estudos suplementares sobre fauna cavernícola e artrópodes, fungos e bactérias. Monitorização dos efeitos dos visitantes na cavidade vulcânica. |  |  |
+| M7.16. | Controlo de invasoras, prioridade na erradicação sempre que as invasoras compitam com habitats e espécies protegidos e que afetem os terrenos circundantes. |  |  |
+| M7.18. | Levantamento e erradicação de novas espécies invasoras. |  |  |
+| M7.31. | Campanhas de sensibilização ambiental do público, de entidades e parceiros. |  |  |
+| M8.10. | Estabelecimento/regulação de capacidade de carga humana. |  |  |
+| M8.54. | Construção de um novo centro (Centro de Interpretação e Apoio à Visitação do Algar do Carvão). |  |  |
 
 5.5 - Proposta de intervenção para o Monumento Natural das Furnas do Enxofre (TER05)
 
-| Condicionantes | Condicionantes |
+| **Condicionantes** |  |
 | --- | --- |
 | Plano Diretor Municipal de Angra do Heroísmo | Zonas Húmidas |
 | Plano Diretor Municipal da Praia da Vitória | Áreas Fumarólicas |
-| Plano Diretor Municipal da Praia da Vitória | Espaços Florestais |
+| Espaços Florestais |  |
 | Conservação da Natureza | Sítio Ramsar 1805 - Planalto Central da Terceira (Furnas do Enxofre e Algar do Carvão) |
 | Plano de Atividades Extrativas | Plano de Atividades Extrativas |
-| Plano de Atividades Extrativas | Área de integração ambiental e paisagística |
+| Área de integração ambiental e paisagística |  |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| **Unidades Operativas de Gestão** |  |
 | --- | --- |
 | TER05.01 - Campo fumarólico | Área de proteção integral (1,13 ha) |
 | TER05.02 - Área do Monumento Natural | Área de proteção parcial (12,37 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| **Elementos de fruição da paisagem** |  |
 | --- | --- |
 | Trilhos |  |
 | Circuito de visitação | Manutenção e beneficiação |
@@ -1596,72 +1731,72 @@ OB3. Eliminar ou prevenir tipos de exploração ou ocupação que possam constit
 
 5.5.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão |
+| **Medidas de Gestão** |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial |
-| TER05.01 | M1.1. |  |  |  |  |  | M6.9. |  |
-| TER05.02 | M1.1. |  | M2.9. | M2.10. | M2.17. |  | M6.9. |  |
+| **Unidade Operativa de Gestão** | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M6 - Medidas relacionadas com planeamento espacial |  |  |  |  |  |
+| **TER05.01** | M1.1. |  |  | M6.9. |  |  |  |  |
+| **TER05.02** | M1.1. |  | M2.9. | M2.10. | M2.17. |  | M6.9. |  |
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| **Medidas de gestão** |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
-| TER05.01 | M7.10. | M7.11. | M7.13. | M7.16. | M7.18. | M7.31. |  | M8.64. |  |  |
-| TER05.02 | M7.10. | M7.11. | M7.15. | M7.16. | M7.18. | M7.31. |  | M8.25. | M8.64. |  |
+| **Unidade Operativa de Gestão** | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |  |  |  |
+| **TER05.01** | M7.10. | M7.11. | M7.13. | M7.16. | M7.18. | M7.31. |  | M8.64. |  |  |
+| **TER05.02** | M7.10. | M7.11. | M7.15. | M7.16. | M7.18. | M7.31. |  | M8.25. | M8.64. |  |
 
 5.5.3 - Medidas de gestão
 
-| Unidade Operativa de Gestão | Regime de proteção | Medidas de gestão | Descrição |
+| **Unidade Operativa de Gestão** | **Regime de proteção** | **Medidas de gestão** | **Descrição** |
 | --- | --- | --- | --- |
 | TER05.01 | Área de proteção integral | M1.1. | Fiscalização da área protegida pelos Vigilantes da Natureza. |
-| TER05.01 | Área de proteção integral | M6.9. | Monitorização do geossítio e elementos de interesse geológico. |
-| TER05.01 | Área de proteção integral | M7.10. | Caracterização da vegetação existente. |
-| TER05.01 | Área de proteção integral | M7.11. | Monitorização da vegetação existente. |
-| TER05.01 | Área de proteção integral | M7.13. | Monitorização dos efeitos dos visitantes. |
-| TER05.01 | Área de proteção integral | M7.16. | Erradicação de invasoras. |
-| TER05.01 | Área de proteção integral | M7.18. | Identificação e erradicação de novas espécies invasoras. |
-| TER05.01 | Área de proteção integral | M7.31. | Campanhas de sensibilização ambiental do público, de entidades e parceiros. |
-| TER05.01 | Área de proteção integral | M8.64. | Gestão de resíduos provenientes das atividades de promoção de espécies invasoras. |
+| M6.9. | Monitorização do geossítio e elementos de interesse geológico. |  |  |
+| M7.10. | Caracterização da vegetação existente. |  |  |
+| M7.11. | Monitorização da vegetação existente. |  |  |
+| M7.13. | Monitorização dos efeitos dos visitantes. |  |  |
+| M7.16. | Erradicação de invasoras. |  |  |
+| M7.18. | Identificação e erradicação de novas espécies invasoras. |  |  |
+| M7.31. | Campanhas de sensibilização ambiental do público, de entidades e parceiros. |  |  |
+| M8.64. | Gestão de resíduos provenientes das atividades de promoção de espécies invasoras. |  |  |
 | TER05.02 | Área de proteção parcial | M1.1. | Fiscalização da área protegida pelos Vigilantes da Natureza. |
-| TER05.02 | Área de proteção parcial | M2.9. | Manutenção da vedação de limite do monumento natural. |
-| TER05.02 | Área de proteção parcial | M2.10. | Manutenção da cancela de limitação do gado. |
-| TER05.02 | Área de proteção parcial | M2.17 | Recuperação e melhoria de muros e muretes em pedra. |
-| TER05.02 | Área de proteção parcial | M6.9. | Monitorização do geossítio e elementos de interesse geológico. |
-| TER05.02 | Área de proteção parcial | M7.10. | Caracterização da vegetação existente. |
-| TER05.02 | Área de proteção parcial | M7.11. | Monitorização da vegetação existente. |
-| TER05.02 | Área de proteção parcial | M7.15. | Plantação e sementeira de vegetação endémica e nativa. |
-| TER05.02 | Área de proteção parcial | M7.16. | Controlo de espécies de vegetação invasoras. |
-| TER05.02 | Área de proteção parcial | M7.18. | Identificação e erradicação de novas espécies invasoras. |
-| TER05.02 | Área de proteção parcial | M7.31. | Campanhas de sensibilização ambiental do público, de entidades e parceiros. |
-| TER05.02 | Área de proteção parcial | M8.25. | Manutenção do circuito de visitação. |
-| TER05.02 | Área de proteção parcial | M8.64. | Gestão de resíduos provenientes das atividades de remoção de espécies invasoras. |
+| M2.9. | Manutenção da vedação de limite do monumento natural. |  |  |
+| M2.10. | Manutenção da cancela de limitação do gado. |  |  |
+| M2.17 | Recuperação e melhoria de muros e muretes em pedra. |  |  |
+| M6.9. | Monitorização do geossítio e elementos de interesse geológico. |  |  |
+| M7.10. | Caracterização da vegetação existente. |  |  |
+| M7.11. | Monitorização da vegetação existente. |  |  |
+| M7.15. | Plantação e sementeira de vegetação endémica e nativa. |  |  |
+| M7.16. | Controlo de espécies de vegetação invasoras. |  |  |
+| M7.18. | Identificação e erradicação de novas espécies invasoras. |  |  |
+| M7.31. | Campanhas de sensibilização ambiental do público, de entidades e parceiros. |  |  |
+| M8.25. | Manutenção do circuito de visitação. |  |  |
+| M8.64. | Gestão de resíduos provenientes das atividades de remoção de espécies invasoras. |  |  |
 
 5.6 - Proposta de intervenção para a Área Protegida para a Gestão de Habitats ou Espécies da Ponta das Contendas (TER06)
 
-| Condicionantes | Condicionantes |
+| **Condicionantes** |  |
 | --- | --- |
 | Plano Diretor Municipal de Angra do Heroísmo | Espaços de Indústria Extrativa |
-| Plano Diretor Municipal de Angra do Heroísmo | Espaços Naturais |
-| Plano Diretor Municipal de Angra do Heroísmo | Falésias |
-| Plano Diretor Municipal de Angra do Heroísmo | Faróis |
-| Plano Diretor Municipal de Angra do Heroísmo | Zona de Proteção Especial |
-| Plano Diretor Municipal de Angra do Heroísmo | Zonas de Risco de Erosão |
+| Espaços Naturais |  |
+| Falésias |  |
+| Faróis |  |
+| Zona de Proteção Especial |  |
+| Zonas de Risco de Erosão |  |
 | Conservação da Natureza | IBA PT067 Contendas |
-| Conservação da Natureza | ZPE PTZPE0031 Ponta das Contendas |
+| ZPE PTZPE0031 Ponta das Contendas |  |
 | Plano de Ordenamento de Orla Costeira | Áreas de Especial Interesse Ambiental |
-| Plano de Ordenamento de Orla Costeira | Reserva Agrícola Regional |
-| Plano de Ordenamento de Orla Costeira | Reserva Ecológica |
+| Reserva Agrícola Regional |  |
+| Reserva Ecológica |  |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| **Unidades Operativas de Gestão** |  |
 | --- | --- |
 | TER06.01 - Ilhéus | Áreas de proteção integral (1,86 ha) |
 | TER06.02 - Zona costeira | Área prioritária para a conservação (27,27 ha) |
 | TER06.03 - Contendas | Área de uso sustentável de recursos (65,05 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| **Elementos de fruição da paisagem** |  |
 | --- | --- |
-| Trilhos | Trilhos |
+| Trilhos |  |
 | PR05TER Fortes de São Sebastião - troço do trilho | Manutenção e beneficiação |
-| Miradouros | Miradouros |
+| Miradouros |  |
 | TER.M6 Miradouro da Ponta das Contendas | Manutenção e beneficiação |
 
 5.6.1 - Objetivos de gestão
@@ -1678,58 +1813,58 @@ OB5. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.6.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| **Medidas de gestão** |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |
-| TER06.01 | M1.1. |  | M7.3. | M7.11. | M7.14. | M7.16. | M7.24. | M7.30. | M7.31. |
-| TER06.02 | M1.1. |  | M7.3. | M7.11. | M7.18. | M7.30. | M7.31. |  |  |
-| TER06.03 | M1.1. |  | M7.3. | M7.30. | M7.31. |  |  |  |  |
+| **Unidade Operativa de Gestão** | M1 - Medidas gerais | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |  |  |  |  |  |  |  |
+| **TER06.01** | M1.1. |  | M7.3. | M7.11. | M7.14. | M7.16. | M7.24. | M7.30. | M7.31. |
+| **TER06.02** | M1.1. |  | M7.3. | M7.11. | M7.18. | M7.30. | M7.31. |  |  |
+| **TER06.03** | M1.1. |  | M7.3. | M7.30. | M7.31. |  |  |  |  |
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
-| --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M9 - Medidas relacionadas com uso especial dos recursos | M9 - Medidas relacionadas com uso especial dos recursos |
-| TER06.01 |  |  |  |  |  |
-| TER06.02 | M8.25. | M8.64. |  |  |  |
-| TER06.03 | M8.25. |  |  | M9.5. |  |
+| **Medidas de gestão** |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| **Unidade Operativa de Gestão** | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M9 - Medidas relacionadas com uso especial dos recursos |  |  |
+| **TER06.01** |  |  |  |  |
+| **TER06.02** | M8.25. | M8.64. |  |  |
+| **TER06.03** | M8.25. |  | M9.5. |  |
 
 5.6.3 - Medidas de gestão
 
-| Unidade Operativa de Gestão | Regime de proteção | Medidas de gestão | Descrição |
+| **Unidade Operativa de Gestão** | **Regime de proteção** | **Medidas de gestão** | **Descrição** |
 | --- | --- | --- | --- |
 | TER06.01 | Áreas de proteção integral | M1.1. | Fiscalização da área protegida pelos Vigilantes da Natureza. |
-| TER06.01 | Áreas de proteção integral | M7.3. | Monitorização de aves prioritárias Calonectris borealis, Sterna dougallii e Sterna hirundo. |
-| TER06.01 | Áreas de proteção integral | M7.11. | Monitorização de flora em toda a área. |
-| TER06.01 | Áreas de proteção integral | M7.14. | Plantação ou sementeira de vegetação nativa e endémica (típicas da zona costeira) para prevenir/retardar a erosão do solo e criar um habitat convidativo à nidificação de espécies protegidas de aves marinhas. |
-| TER06.01 | Áreas de proteção integral | M7.16. | Controlo das principais invasoras. Prioridade na erradicação sempre que as invasoras compitam com habitats e espécies protegidos e que afetem o habitat de nidificação e alimentação de aves. |
-| TER06.01 | Áreas de proteção integral | M7.24. | Recuperação de habitats de nidificação das espécies Sterna dougalli e Sterna hirundo. |
-| TER06.01 | Áreas de proteção integral | M7.30. | Medidas específicas para colónias nidificantes de aves marinhas. Proteção através de controle de predadores que afetam as colónias de garajaus e cagarros. |
-| TER06.01 | Áreas de proteção integral | M7.31. | Campanhas de sensibilização ambiental com entidades parceiras. |
+| M7.3. | Monitorização de aves prioritárias Calonectris borealis, Sterna dougallii e Sterna hirundo. |  |  |
+| M7.11. | Monitorização de flora em toda a área. |  |  |
+| M7.14. | Plantação ou sementeira de vegetação nativa e endémica (típicas da zona costeira) para prevenir/retardar a erosão do solo e criar um habitat convidativo à nidificação de espécies protegidas de aves marinhas. |  |  |
+| M7.16. | Controlo das principais invasoras. Prioridade na erradicação sempre que as invasoras compitam com habitats e espécies protegidos e que afetem o habitat de nidificação e alimentação de aves. |  |  |
+| M7.24. | Recuperação de habitats de nidificação das espécies Sterna dougalli e Sterna hirundo. |  |  |
+| M7.30. | Medidas específicas para colónias nidificantes de aves marinhas. Proteção através de controle de predadores que afetam as colónias de garajaus e cagarros. |  |  |
+| M7.31. | Campanhas de sensibilização ambiental com entidades parceiras. |  |  |
 | TER06.02 | Área prioritária para a conservação | M1.1. | Fiscalização da área protegida pelos Vigilantes da Natureza. |
-| TER06.02 | Área prioritária para a conservação | M7.3. | Monitorização de aves prioritárias Calonectris borealis, Sterna dougallii e Sterna hirundo. |
-| TER06.02 | Área prioritária para a conservação | M7.11. | Monitorização da flora endémica. |
-| TER06.02 | Área prioritária para a conservação | M7.18. | Monitorização e gestão de espécies invasoras. |
-| TER06.02 | Área prioritária para a conservação | M7.30. | Medidas específicas para colónias nidificantes de aves marinhas. Proteção através de controle de predadores que afetam as colónias de garajaus e cagarros. |
-| TER06.02 | Área prioritária para a conservação | M7.31. | Campanhas de sensibilização ambiental do público, entidades e parceiros para os valores presentes nas unidades operativas de gestão. |
-| TER06.02 | Área prioritária para a conservação | M8.25. | Manutenção de troço do trilho PR05TER Fortes de São Sebastião. |
-| TER06.02 | Área prioritária para a conservação | M8.64. | Gestão de resíduos provenientes de remoção de espécies invasoras. |
+| M7.3. | Monitorização de aves prioritárias Calonectris borealis, Sterna dougallii e Sterna hirundo. |  |  |
+| M7.11. | Monitorização da flora endémica. |  |  |
+| M7.18. | Monitorização e gestão de espécies invasoras. |  |  |
+| M7.30. | Medidas específicas para colónias nidificantes de aves marinhas. Proteção através de controle de predadores que afetam as colónias de garajaus e cagarros. |  |  |
+| M7.31. | Campanhas de sensibilização ambiental do público, entidades e parceiros para os valores presentes nas unidades operativas de gestão. |  |  |
+| M8.25. | Manutenção de troço do trilho PR05TER Fortes de São Sebastião. |  |  |
+| M8.64. | Gestão de resíduos provenientes de remoção de espécies invasoras. |  |  |
 | TER06.03 | Área de uso sustentável de recursos | M1.1. | Fiscalização da área protegida pelos Vigilantes da Natureza. |
-| TER06.03 | Área de uso sustentável de recursos | M7.3. | Monitorização de aves prioritárias Calonectris borealis, Sterna dougallii e Sterna hirundo. |
-| TER06.03 | Área de uso sustentável de recursos | M7.30. | Medidas específicas para colónias nidificantes de aves marinhas. Proteção através de controle de predadores que afetam as colónias de Calonectris borealis, Sterna dougallii e Sterna hirundo. |
-| TER06.03 | Área de uso sustentável de recursos | M7.31. | Campanhas de sensibilização ambiental do público, entidades e parceiros para os valores presentes nas unidades operativas de gestão. |
-| TER06.03 | Área de uso sustentável de recursos | M8.25. | Manutenção de troço do trilho PR05TER Fortes de São Sebastião. |
-| TER06.03 | Área de uso sustentável de recursos | M9.5. | Fomentar a recuperação paisagística de zonas de extração de inertes. |
+| M7.3. | Monitorização de aves prioritárias Calonectris borealis, Sterna dougallii e Sterna hirundo. |  |  |
+| M7.30. | Medidas específicas para colónias nidificantes de aves marinhas. Proteção através de controle de predadores que afetam as colónias de Calonectris borealis, Sterna dougallii e Sterna hirundo. |  |  |
+| M7.31. | Campanhas de sensibilização ambiental do público, entidades e parceiros para os valores presentes nas unidades operativas de gestão. |  |  |
+| M8.25. | Manutenção de troço do trilho PR05TER Fortes de São Sebastião. |  |  |
+| M9.5. | Fomentar a recuperação paisagística de zonas de extração de inertes. |  |  |
 
 5.7 - Proposta de intervenção para a Área Protegida para a Gestão de Habitats ou Espécies dos Ilhéus das Cabras (TER07)
 
-| Condicionantes | Condicionantes |
+| **Condicionantes** |  |
 | --- | --- |
 | Conservação da Natureza | IBA PT081 Ilhéu das Cabras |
-| Conservação da Natureza | ZPE PTZPE0032 Ilhéu das Cabras |
+| ZPE PTZPE0032 Ilhéu das Cabras |  |
 | Plano de Ordenamento de Orla Costeira | Áreas de Especial Interesse Ambiental |
-| Plano de Ordenamento de Orla Costeira | Linha Costeira |
-| Plano de Ordenamento de Orla Costeira | Reserva Ecológica |
+| Linha Costeira |  |
+| Reserva Ecológica |  |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| **Unidades Operativas de Gestão** |  |
 | --- | --- |
 | TER07.01 – Ilhéus das Cabras | Área prioritária para a conservação (28,18 ha) |
 
@@ -1747,27 +1882,27 @@ OB5. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.7.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| **Medidas de gestão** |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |
-| TER07.01 | M1.1. |  | M6.9. |  | M7.3. | M7.30. |  |
+| **Unidade Operativa de Gestão** | M1 - Medidas gerais | M6 - Medidas relacionadas com planeamento espacial | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |  |  |  |  |
+| **TER07.01** | M1.1. |  | M6.9. |  | M7.3. | M7.30. |  |
 
 5.7.3 - Medidas de gestão
 
-| Unidade Operativa de Gestão | Regime de proteção | Medidas de gestão | Descrição |
+| **Unidade Operativa de Gestão** | **Regime de proteção** | **Medidas de gestão** | **Descrição** |
 | --- | --- | --- | --- |
 | TER07.01 | Área prioritária para a conservação | M1.1. | Fiscalização da área protegida pelos Vigilantes da Natureza. |
-| TER07.01 | Área prioritária para a conservação | M6.9. | Monitorização do geossítio e elementos de interesse geológico. |
-| TER07.01 | Área prioritária para a conservação | M7.3. | Monitorização de aves prioritárias Sterna dougallii e Sterna hirundo. |
-| TER07.01 | Área prioritária para a conservação | M7.30. | Estudar a viabilidade de implementação de medidas específicas para colónias nidificantes de aves marinhas. Proteção através de controle de predadores que afetam as colónias de garajaus e cagarros. |
+| M6.9. | Monitorização do geossítio e elementos de interesse geológico. |  |  |
+| M7.3. | Monitorização de aves prioritárias Sterna dougallii e Sterna hirundo. |  |  |
+| M7.30. | Estudar a viabilidade de implementação de medidas específicas para colónias nidificantes de aves marinhas. Proteção através de controle de predadores que afetam as colónias de garajaus e cagarros. |  |  |
 
 5.8 - Proposta de intervenção para a Área Protegida para a Gestão de Habitats ou Espécies da Matela (TER08)
 
-| Condicionantes | Condicionantes |
+| **Condicionantes** |  |
 | --- | --- |
 | Plano Diretor Municipal de Angra do Heroísmo | Espaço Natural |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| **Unidades Operativas de Gestão** |  |
 | --- | --- |
 | TER08.01 - Matela | Área de proteção parcial (27,57 ha) |
 
@@ -1785,43 +1920,43 @@ OB5. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.8.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| **Medidas de gestão** |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M3 - Medidas relacionadas com florestas e habitats lenhosos |
-| TER08.01 | M1.1. |  | M2.2. |  | M3.17. |  |
+| **Unidade Operativa de Gestão** | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M3 - Medidas relacionadas com florestas e habitats lenhosos |  |  |  |
+| **TER08.01** | M1.1. |  | M2.2. |  | M3.17. |  |
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| **Medidas de gestão** |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
-| TER08.01 | M7.3. | M7.11. | M7.14. | M7.16. | M7.32. |  | M8.64. |  |
+| **Unidade Operativa de Gestão** | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |  |
+| **TER08.01** | M7.3. | M7.11. | M7.14. | M7.16. | M7.32. |  | M8.64. |  |
 
 5.8.3 - Medidas de gestão
 
-| Unidade Operativa de Gestão | Regime de proteção | Medidas de gestão | Descrição |
+| **Unidade Operativa de Gestão** | **Regime de proteção** | **Medidas de gestão** | **Descrição** |
 | --- | --- | --- | --- |
 | TER08.01 | Área de proteção parcial | M1.1. | Fiscalização da área protegida pelos Vigilantes da Natureza. |
-| TER08.01 | Área de proteção parcial | M2.2. | Modificação de práticas culturais. |
-| TER08.01 | Área de proteção parcial | M3.17. | Gestão florestal adaptada à conservação da natureza com remoção de espécies de flora invasoras e plantação de espécies endémicas. |
-| TER08.01 | Área de proteção parcial | M7.3. | Monitorização da espécie prioritária Nyctalus azoreum. |
-| TER08.01 | Área de proteção parcial | M7.11. | Monitorização da flora endémica. |
-| TER08.01 | Área de proteção parcial | M7.14. | Plantação e/ou sementeira de vegetação endémica característica da zona da Matela. |
-| TER08.01 | Área de proteção parcial | M7.16. | Controlo de espécies de vegetação invasora por métodos mecânicos, químicos e manuais. |
-| TER08.01 | Área de proteção parcial | M7.32. | Recolha de sementes em banco de sementes (ex situ). |
-| TER08.01 | Área de proteção parcial | M8.64. | Gestão de resíduos provenientes de atividades de remoção de espécies invasoras. |
+| M2.2. | Modificação de práticas culturais. |  |  |
+| M3.17. | Gestão florestal adaptada à conservação da natureza com remoção de espécies de flora invasoras e plantação de espécies endémicas. |  |  |
+| M7.3. | Monitorização da espécie prioritária Nyctalus azoreum. |  |  |
+| M7.11. | Monitorização da flora endémica. |  |  |
+| M7.14. | Plantação e/ou sementeira de vegetação endémica característica da zona da Matela. |  |  |
+| M7.16. | Controlo de espécies de vegetação invasora por métodos mecânicos, químicos e manuais. |  |  |
+| M7.32. | Recolha de sementes em banco de sementes (ex situ). |  |  |
+| M8.64. | Gestão de resíduos provenientes de atividades de remoção de espécies invasoras. |  |  |
 
 5.9 - Proposta de intervenção para a Área Protegida para a Gestão de Habitats ou Espécies do Biscoito das Fontinhas (TER09)
 
-| Condicionantes | Condicionantes |
+| **Condicionantes** |  |
 | --- | --- |
 | Plano Diretor Municipal da Praia da Vitória | Espaços Florestais |
 | Perímetro Florestal | Núcleo Florestal das Fontinhas |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| **Unidades Operativas de Gestão** |  |
 | --- | --- |
 | TER09.01 - zona a sul e nascente | Área de proteção parcial (66,46 ha) |
 | TER09.02 - zona a norte e poente | Área de proteção complementar (38,60 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| **Elementos de fruição da paisagem** |  |
 | --- | --- |
 | Trilho |  |
 | PRC08TER Relheiras de São Brás | Manutenção e beneficiação |
@@ -1840,61 +1975,61 @@ OB5. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.9.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| **Medidas de gestão** |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M3 - Medidas relacionadas com florestas e habitats lenhosos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |
-| TER09.01 | M1.1. |  | M3.17. |  | M6.3. |  | M7.3. | M7.11. | M7.31. |  |
-| TER09.02 | M1.1. |  | M3.17. |  |  |  | M7.3. | M7.11. | M7.31. |  |
+| **Unidade Operativa de Gestão** | M1 - Medidas gerais | M3 - Medidas relacionadas com florestas e habitats lenhosos | M6 - Medidas relacionadas com planeamento espacial | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |  |  |  |  |  |  |
+| **TER09.01** | M1.1. |  | M3.17. |  | M6.3. |  | M7.3. | M7.11. | M7.31. |  |
+| **TER09.02** | M1.1. |  | M3.17. |  |  | M7.3. | M7.11. | M7.31. |  |  |
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| **Medidas de gestão** |  |  |
 | --- | --- | --- |
-| Unidade Operativa de Gestão | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
-| TER09.01 | M8.25. |  |
-| TER09.02 |  |  |
+| **Unidade Operativa de Gestão** | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |
+| **TER09.01** | M8.25. |  |
+| **TER09.02** |  |  |
 
 5.9.3 - Medidas de gestão
 
-| Unidade Operativa de Gestão | Regime de proteção | Medidas de gestão | Descrição |
+| **Unidade Operativa de Gestão** | **Regime de proteção** | **Medidas de gestão** | **Descrição** |
 | --- | --- | --- | --- |
 | TER09.01 | Área de proteção parcial | M1.1. | Fiscalização da área protegida pelos Vigilantes da Natureza. |
-| TER09.01 | Área de proteção parcial | M3.17. | Gestão florestal adaptada à conservação da natureza com a manutenção do habitat prioritário charneca macaronésica endémica (4050). |
-| TER09.01 | Área de proteção parcial | M6.3. | Estudo da viabilidade de estabelecimento de área de continuum naturale de ligação à reserva natural da Terra Brava e Criação das Lagoas (TER03). |
-| TER09.01 | Área de proteção parcial | M7.3. | Monitorização da fauna de artrópodes. |
-| TER09.01 | Área de proteção parcial | M7.11. | Monitorização da flora endémica. |
-| TER09.01 | Área de proteção parcial | M7.31. | Campanhas de sensibilização ambiental do público, entidades e parceiros para os valores presentes na unidade operativa de gestão. |
-| TER09.01 | Área de proteção parcial | M8.25. | Manutenção do trilho PRC08TER Relheiras de São Brás. |
+| M3.17. | Gestão florestal adaptada à conservação da natureza com a manutenção do habitat prioritário charneca macaronésica endémica (4050). |  |  |
+| M6.3. | Estudo da viabilidade de estabelecimento de área de continuum naturale de ligação à reserva natural da Terra Brava e Criação das Lagoas (TER03). |  |  |
+| M7.3. | Monitorização da fauna de artrópodes. |  |  |
+| M7.11. | Monitorização da flora endémica. |  |  |
+| M7.31. | Campanhas de sensibilização ambiental do público, entidades e parceiros para os valores presentes na unidade operativa de gestão. |  |  |
+| M8.25. | Manutenção do trilho PRC08TER Relheiras de São Brás. |  |  |
 | TER09.02 | Área de proteção complementar | M1.1. | Fiscalização da área protegida pelos Vigilantes da Natureza. |
-| TER09.02 | Área de proteção complementar | M3.17. | Gestão florestal adaptada à conservação da natureza com a manutenção do habitat prioritário charneca macaronésica endémica (4050). |
-| TER09.02 | Área de proteção complementar | M7.3. | Monitorização da fauna de artrópodes. |
-| TER09.02 | Área de proteção complementar | M7.11. | Monitorização da flora endémica. |
-| TER09.02 | Área de proteção complementar | M7.31. | Campanhas de sensibilização ambiental do público, entidades e parceiros para os valores presentes na unidade operativa de gestão. |
+| M3.17. | Gestão florestal adaptada à conservação da natureza com a manutenção do habitat prioritário charneca macaronésica endémica (4050). |  |  |
+| M7.3. | Monitorização da fauna de artrópodes. |  |  |
+| M7.11. | Monitorização da flora endémica. |  |  |
+| M7.31. | Campanhas de sensibilização ambiental do público, entidades e parceiros para os valores presentes na unidade operativa de gestão. |  |  |
 
 5.10 - Proposta de intervenção para a Área Protegida para a Gestão de Habitats ou Espécies da Costa das Quatro Ribeiras (TER10)
 
-| Condicionantes | Condicionantes |
+| **Condicionantes** |  |
 | --- | --- |
 | Plano Diretor Municipal da Praia da Vitória | Área de Arribas e Falésias |
-| Plano Diretor Municipal da Praia da Vitória | Área pertencente à Lista Nacional de Sítios/Açores |
-| Plano Diretor Municipal da Praia da Vitória | Domínio Público Marítimo |
-| Plano Diretor Municipal da Praia da Vitória | Espaço Natural |
-| Plano Diretor Municipal da Praia da Vitória | Zona Costeira |
+| Área pertencente à Lista Nacional de Sítios/Açores |  |
+| Domínio Público Marítimo |  |
+| Espaço Natural |  |
+| Zona Costeira |  |
 | Conservação da Natureza | IBA PT066 Raminho - Pesqueiro Velho |
-| Conservação da Natureza | ZEC PTTER0018 Costa das Quatro Ribeiras |
+| ZEC PTTER0018 Costa das Quatro Ribeiras |  |
 | Plano de Ordenamento da Orla Costeira | Área de Zona de Proteção de Arriba |
-| Plano de Ordenamento da Orla Costeira | Áreas de Especial Interesse Ambiental |
-| Plano de Ordenamento da Orla Costeira | Linha Costeira |
-| Plano de Ordenamento da Orla Costeira | Reserva Ecológica |
+| Áreas de Especial Interesse Ambiental |  |
+| Linha Costeira |  |
+| Reserva Ecológica |  |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| **Unidades Operativas de Gestão** |  |
 | --- | --- |
 | TER10.01 - Zonas costeira e de falésia | Área prioritária para a conservação (51,07 ha) |
 | TER10.02 - Fajã da Alagoa | Área de uso sustentável de recursos (6,22 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| **Elementos de fruição da paisagem** |  |
 | --- | --- |
-| Trilhos | Trilhos |
+| Trilhos |  |
 | PR02TER Baías da Agualva | Manutenção e beneficiação |
-| Miradouros | Miradouros |
+| Miradouros |  |
 | TER.M7 Miradouro da costa da Agualva | Manutenção |
 | TER.M8 Miradouro da Fajã da Alagoa 1 | Manutenção |
 | TER.M9 Miradouro da costa das Quatro Ribeiras | Manutenção |
@@ -1914,71 +2049,71 @@ OB5. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.10.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| **Medidas de gestão** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
-| TER10.01 | M1.1. |  | M6.3. | M6.9. |  | M7.3. | M7.11. | M7.16. | M7.31. | M7.32. | M8.25. | M8.43. | M8.44. |  |
-| TER10.02 | M1.1. |  | M6.5. | M6.9. |  | M7.3. |  |  |  |  | M8.25. |  |  |  |
+| **Unidade Operativa de Gestão** | M1 - Medidas gerais | M6 - Medidas relacionadas com planeamento espacial | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |  |  |  |  |  |
+| **TER10.01** | M1.1. |  | M6.3. | M6.9. |  | M7.3. | M7.11. | M7.16. | M7.31. | M7.32. | M8.25. | M8.43. | M8.44. |  |
+| **TER10.02** | M1.1. |  | M6.5. | M6.9. |  | M7.3. |  | M8.25. |  |  |  |  |  |  |
 
 5.10.3 - Medidas de gestão
 
-| Unidade Operativa de Gestão | Regime de proteção | Medidas de gestão | Descrição |
+| **Unidade Operativa de Gestão** | **Regime de proteção** | **Medidas de gestão** | **Descrição** |
 | --- | --- | --- | --- |
 | TER10.01 | Área prioritária para a conservação | M1.1. | Fiscalização da área protegida pelos Vigilantes da Natureza. |
-| TER10.01 | Área prioritária para a conservação | M6.3. | Estudo da viabilidade de estabelecimento de área de continuum naturale de ligação à reserva natural do Biscoito da Ferraria e Pico Alto (TER02). |
-| TER10.01 | Área prioritária para a conservação | M6.9. | Monitorização do geossítio e elementos de interesse geológico. |
-| TER10.01 | Área prioritária para a conservação | M7.3. | Monitorização de aves nidificantes prioritárias Calonectris borealis, Sterna dougalli e Sterna hirundo. |
-| TER10.01 | Área prioritária para a conservação | M7.11. | Monitorização da flora endémica. |
-| TER10.01 | Área prioritária para a conservação | M7.16. | Controlo das principais invasoras. Prioridade na erradicação sempre que as invasoras afetem o habitat da espécie Azorina vidalli e da subespécie de costa de Juniperus brevifolia. |
-| TER10.01 | Área prioritária para a conservação | M7.31. | Campanhas de sensibilização ambiental do público, entidades e parceiros. |
-| TER10.01 | Área prioritária para a conservação | M7.32. | Recolha de sementes em banco de sementes (ex situ). |
-| TER10.01 | Área prioritária para a conservação | M8.25. | Manutenção de trilho PR02TER Baías da Agualva. |
-| TER10.01 | Área prioritária para a conservação | M8.43. | Criação de miradouro. |
-| TER10.01 | Área prioritária para a conservação | M8.44. | Colocação de placard de informação e sensibilização dos valores presentes. |
+| M6.3. | Estudo da viabilidade de estabelecimento de área de continuum naturale de ligação à reserva natural do Biscoito da Ferraria e Pico Alto (TER02). |  |  |
+| M6.9. | Monitorização do geossítio e elementos de interesse geológico. |  |  |
+| M7.3. | Monitorização de aves nidificantes prioritárias Calonectris borealis, Sterna dougalli e Sterna hirundo. |  |  |
+| M7.11. | Monitorização da flora endémica. |  |  |
+| M7.16. | Controlo das principais invasoras. Prioridade na erradicação sempre que as invasoras afetem o habitat da espécie Azorina vidalli e da subespécie de costa de Juniperus brevifolia. |  |  |
+| M7.31. | Campanhas de sensibilização ambiental do público, entidades e parceiros. |  |  |
+| M7.32. | Recolha de sementes em banco de sementes (ex situ). |  |  |
+| M8.25. | Manutenção de trilho PR02TER Baías da Agualva. |  |  |
+| M8.43. | Criação de miradouro. |  |  |
+| M8.44. | Colocação de placard de informação e sensibilização dos valores presentes. |  |  |
 | TER10.02 | Área de uso sustentável de recursos | M1.1. | Fiscalização da área protegida pelos Vigilantes da Natureza. |
-| TER10.02 | Área de uso sustentável de recursos | M6.5. | Estudo da viabilidade de estabelecimento de acordos de custódia de natureza com os proprietários com vista à realização de ações de controlo de espécies de flora invasora. |
-| TER10.02 | Área de uso sustentável de recursos | M6.9. | Monitorização do geossítio e elementos de interesse geológico. |
-| TER10.02 | Área de uso sustentável de recursos | M7.3. | Monitorização de aves prioritárias: Calonectris borealis, Sterna dougalli e Sterna hirundo. |
-| TER10.02 | Área de uso sustentável de recursos | M8.25. | Manutenção de trilho PR02TER Baías da Agualva. |
+| M6.5. | Estudo da viabilidade de estabelecimento de acordos de custódia de natureza com os proprietários com vista à realização de ações de controlo de espécies de flora invasora. |  |  |
+| M6.9. | Monitorização do geossítio e elementos de interesse geológico. |  |  |
+| M7.3. | Monitorização de aves prioritárias: Calonectris borealis, Sterna dougalli e Sterna hirundo. |  |  |
+| M8.25. | Manutenção de trilho PR02TER Baías da Agualva. |  |  |
 
 5.11 - Proposta de intervenção para a Área Protegida para a Gestão de Habitats ou Espécies do Planalto Central e Costa Noroeste (TER11)
 
-| Condicionantes | Condicionantes |
+| **Condicionantes** |  |
 | --- | --- |
 | Plano Diretor Municipal de Angra do Heroísmo | Cabeceiras de Linhas de Água |
-| Plano Diretor Municipal de Angra do Heroísmo | Falésias |
-| Plano Diretor Municipal de Angra do Heroísmo | Nascentes |
-| Plano Diretor Municipal de Angra do Heroísmo | Reserva Florestal Natural |
-| Plano Diretor Municipal de Angra do Heroísmo | Reserva Geotérmica |
-| Plano Diretor Municipal de Angra do Heroísmo | Zonas Húmidas |
-| Plano Diretor Municipal de Angra do Heroísmo | Zona de Proteção Especial |
-| Plano Diretor Municipal de Angra do Heroísmo | Zonas de Risco de Erosão |
+| Falésias |  |
+| Nascentes |  |
+| Reserva Florestal Natural |  |
+| Reserva Geotérmica |  |
+| Zonas Húmidas |  |
+| Zona de Proteção Especial |  |
+| Zonas de Risco de Erosão |  |
 | Plano Diretor Municipal da Praia da Vitoria | Área pertencente à Lista Nacional de Sítios/Açores |
-| Plano Diretor Municipal da Praia da Vitoria | Espaços Agrícolas |
-| Plano Diretor Municipal da Praia da Vitoria | Espaços Florestais |
+| Espaços Agrícolas |  |
+| Espaços Florestais |  |
 | Conservação da Natureza | Sítio Ramsar 1805 - Planalto Central da Terceira (Furnas do Enxofre e Algar do Carvão) |
-| Conservação da Natureza | ZEC PTTER0017 Serra de Santa Bárbara e Pico Alto |
+| ZEC PTTER0017 Serra de Santa Bárbara e Pico Alto |  |
 | Plano de Ordenamento da Orla Costeira | Áreas de Especial Interesse Ambiental |
-| Plano de Ordenamento da Orla Costeira | Área de Zona de Proteção de Arriba |
-| Plano de Ordenamento da Orla Costeira | Faróis |
-| Plano de Ordenamento da Orla Costeira | Linha Costeira |
-| Plano de Ordenamento da Orla Costeira | Reserva Ecológica |
+| Área de Zona de Proteção de Arriba |  |
+| Faróis |  |
+| Linha Costeira |  |
+| Reserva Ecológica |  |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| **Unidades Operativas de Gestão** |  |
 | --- | --- |
 | TER11.01 - terrenos públicos (gestão da DRA) | Área de proteção parcial e áreas de intervenção específica (391,59 ha) |
 | TER11.02 A, B, C e D - Costa Noroeste, envolvente da Serra de Santa Bárbara e Mistérios Negros, Planarto Central e Malha Grande; Canada dos Pomares, Caminho Florestal 31 | Áreas de proteção complementar (A-1270,39 ha, B-34,10 ha, C-31,22 ha e D-42,62 ha) |
 | TER11.03 – Costa Noroeste | Área prioritária para a conservação (105,45 ha) |
 | TER11.04 A, B, C, D, E e F - Serreta, Raminho, Pico Matias Simão e Planalto Central | Área de uso sustentável de recursos e área de intervenção específica (A-368,81 ha, B-208,88 ha, C-3,91 ha, D-947,22 ha, E-397,68 ha, F-128,29 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| **Elementos de fruição da paisagem** |  |
 | --- | --- |
-| Trilhos | Trilhos |
+| Trilhos |  |
 | PRC03TER Serreta | Manutenção e beneficiação |
 | PRC06TER da Rocha do Chambre | Manutenção e beneficiação |
 | PRC01TER Mistérios Negros - troço | Manutenção e beneficiação |
 | Trilho Algar do Carvão - Furnas do Enxofre | Trilho proposto |
-| Miradouros | Miradouros |
+| Miradouros |  |
 | TER.M10 Miradouro da Ponta da Serreta | Manutenção |
 | TER.M11 Miradouro do Raminho | Manutenção |
 | TER.M12 Miradouro do Pico Carneiro | Manutenção |
@@ -1999,45 +2134,45 @@ OB5. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.11.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| **Medidas de gestão** |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial |
-| TER11.01 | M1.1. |  | M2.9. | M2.10. |  | M3.14. | M3.17. |  | M4.9. |  | M6.2. | M6.9. |  |
-| TER11.02 | M1.1. |  |  |  |  |  |  |  |  |  | M6.9. |  |  |
-| TER11.03 | M1.1. |  |  |  |  |  |  |  |  |  | M6.9. |  |  |
-| TER11.04 | M1.1. |  | M2.1. |  |  | M3.15. | M3.16. | M3.17. |  |  | M6.2. | M6.9. |  |
+| **Unidade Operativa de Gestão** | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial |  |  |  |  |  |  |  |  |
+| **TER11.01** | M1.1. |  | M2.9. | M2.10. |  | M3.14. | M3.17. |  | M4.9. |  | M6.2. | M6.9. |  |
+| **TER11.02** | M1.1. |  |  |  |  | M6.9. |  |  |  |  |  |  |  |
+| **TER11.03** | M1.1. |  |  |  |  | M6.9. |  |  |  |  |  |  |  |
+| **TER11.04** | M1.1. |  | M2.1. |  | M3.15. | M3.16. | M3.17. |  | M6.2. | M6.9. |  |  |  |
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M9 - Medidas relacionadas com uso especial dos recursos | M9 - Medidas relacionadas com uso especial dos recursos |
-| TER11.01 | M7.2. | M7.3. | M7.11. | M7.14. | M7.16. | M7.18. | M7.24. | M7.26. | M7.31. | M7.32. | M8.35. |  |  |  |  |  |  |  |
-| TER11.02 | M7.3. | M7.11. | M7.16. | M7.31. | M7.32. |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| TER11.03 | M7.3. | M7.11. | M7.16. | M7.31. | M7.32. |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| TER11.04 | M7.3. | M7.11. | M7.16. | M7.18. | M7.31. | M7.32. |  |  |  |  | M8.25. | M8.25. | M8.35. | M8.37. | M8.64. |  | M9.5. |  |
+| **Medidas de gestão** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Unidade Operativa de Gestão** | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M9 - Medidas relacionadas com uso especial dos recursos |  |  |  |  |  |  |  |  |  |  |  |
+| **TER11.01** | M7.2. | M7.3. | M7.11. | M7.14. | M7.16. | M7.18. | M7.24. | M7.26. | M7.31. | M7.32. | M8.35. |  |  |  |
+| **TER11.02** | M7.3. | M7.11. | M7.16. | M7.31. | M7.32. |  |  |  |  |  |  |  |  |  |
+| **TER11.03** | M7.3. | M7.11. | M7.16. | M7.31. | M7.32. |  |  |  |  |  |  |  |  |  |
+| **TER11.04** | M7.3. | M7.11. | M7.16. | M7.18. | M7.31. | M7.32. |  | M8.25. | M8.35. | M8.37. | M8.64. |  | M9.5. |  |
 
 5.11.3 - Medidas de gestão
 
-| Unidade Operativa de Gestão | Regime de proteção | Medidas de gestão | Descrição |
+| **Unidade Operativa de Gestão** | **Regime de proteção** | **Medidas de gestão** | **Descrição** |
 | --- | --- | --- | --- |
 | TER11.01 | Área de proteção parcial e áreas de intervenção específica | M1.1. | Fiscalização da área protegida pelos Vigilantes da Natureza. |
-| TER11.01 | Área de proteção parcial e áreas de intervenção específica | M2.9. | Vedação de terrenos públicos e/ou privados. |
-| TER11.01 | Área de proteção parcial e áreas de intervenção específica | M2.10. | Construção de cancelas e outros dispositivos de limitação do gado. |
-| TER11.01 | Área de proteção parcial e áreas de intervenção específica | M3.14. | Restauro/melhoria dos habitats florestais endémicos e nativos. |
-| TER11.01 | Área de proteção parcial e áreas de intervenção específica | M3.17. | Gestão florestal adaptada à conservação da natureza com a manutenção dos habitats prioritários charnecas macaronésicas endémicas (4050), turfeiras arborizadas (91D0), laurissilvas macaronésicas (9360), florestas endémicas de Juniperus spp. (9560); turfeiras de cobertura (7130) e turfeiras altas ativas (7110). |
-| TER11.01 | Área de proteção parcial e áreas de intervenção específica | M4.9. | Conservação de zonas húmidas. |
-| TER11.01 | Área de proteção parcial e áreas de intervenção específica | M6.2. | Estabelecimento de corredor ecológico entre as Furnas do Enxofre e o Biscoito Rachado. |
-| TER11.01 | Área de proteção parcial e áreas de intervenção específica | M6.9. | Monitorização do geossítio e elementos de interesse geológico. |
-| TER11.01 | Área de proteção parcial e áreas de intervenção específica | M7.2. | Caracterização da fauna. |
-| TER11.01 | Área de proteção parcial e áreas de intervenção específica | M7.3. | Monitorização das espécies Columba palumbus azorica e outras aves, Nyctalus azoreum e de artrópodes, com especial incidência no Trechus terrabravensis. |
-| TER11.01 | Área de proteção parcial e áreas de intervenção específica | M7.11. | Monitorização de flora endémica. |
-| TER11.01 | Área de proteção parcial e áreas de intervenção específica | M7.14. | Plantação e/ou sementeira de vegetação endémica. |
-| TER11.01 | Área de proteção parcial e áreas de intervenção específica | M7.16. | Controlo de invasoras, prioridade na erradicação sempre que as invasoras compitam com habitats e espécies protegidos e que afetem os terrenos circundantes. |
-| TER11.01 | Área de proteção parcial e áreas de intervenção específica | M7.18. | Monitorização e gestão de espécies de flora invasora, nomeadamente Rubus ulmifolius (silvado), Hedychium gardnerianum (roca), Ulex europaeus L. subsp. europaeus (pica-rato) e Pittosporum undulatum (incenso) e Hydrangea macrophylla (hortência). |
-| TER11.01 | Área de proteção parcial e áreas de intervenção específica | M7.24. | Aumento da conectividade do habitat do artrópode endémico Trechus terrabravensis, através do corte cirúrgico dos eucaliptais, plantação de árvores e arbustos nativos, da dispersão de esporos de fetos nativos. |
-| TER11.01 | Área de proteção parcial e áreas de intervenção específica | M7.26. | Fomento da sucessão natural através da erradicação de espécies invasoras e condicionamento de acesso ao público. |
-| TER11.01 | Área de proteção parcial e áreas de intervenção específica | M7.31. | Campanhas de sensibilização ambiental do público, de entidades e parceiros. |
-| TER11.01 | Área de proteção parcial e áreas de intervenção específica | M7.32. | Recolha de sementes em banco de sementes (conservação ex situ). |
-| TER11.01 | Área de proteção parcial e áreas de intervenção específica | M8.35. | Criação de novo trilho (Algar do Carvão-Furnas do Enxofre). |
+| M2.9. | Vedação de terrenos públicos e/ou privados. |  |  |
+| M2.10. | Construção de cancelas e outros dispositivos de limitação do gado. |  |  |
+| M3.14. | Restauro/melhoria dos habitats florestais endémicos e nativos. |  |  |
+| M3.17. | Gestão florestal adaptada à conservação da natureza com a manutenção dos habitats prioritários charnecas macaronésicas endémicas (4050), turfeiras arborizadas (91D0), laurissilvas macaronésicas (9360), florestas endémicas de Juniperus spp. (9560); turfeiras de cobertura (7130) e turfeiras altas ativas (7110). |  |  |
+| M4.9. | Conservação de zonas húmidas. |  |  |
+| M6.2. | Estabelecimento de corredor ecológico entre as Furnas do Enxofre e o Biscoito Rachado. |  |  |
+| M6.9. | Monitorização do geossítio e elementos de interesse geológico. |  |  |
+| M7.2. | Caracterização da fauna. |  |  |
+| M7.3. | Monitorização das espécies Columba palumbus azorica e outras aves, Nyctalus azoreum e de artrópodes, com especial incidência no Trechus terrabravensis. |  |  |
+| M7.11. | Monitorização de flora endémica. |  |  |
+| M7.14. | Plantação e/ou sementeira de vegetação endémica. |  |  |
+| M7.16. | Controlo de invasoras, prioridade na erradicação sempre que as invasoras compitam com habitats e espécies protegidos e que afetem os terrenos circundantes. |  |  |
+| M7.18. | Monitorização e gestão de espécies de flora invasora, nomeadamente Rubus ulmifolius (silvado), Hedychium gardnerianum (roca), Ulex europaeus L. subsp. europaeus (pica-rato) e Pittosporum undulatum (incenso) e Hydrangea macrophylla (hortência). |  |  |
+| M7.24. | Aumento da conectividade do habitat do artrópode endémico Trechus terrabravensis, através do corte cirúrgico dos eucaliptais, plantação de árvores e arbustos nativos, da dispersão de esporos de fetos nativos. |  |  |
+| M7.26. | Fomento da sucessão natural através da erradicação de espécies invasoras e condicionamento de acesso ao público. |  |  |
+| M7.31. | Campanhas de sensibilização ambiental do público, de entidades e parceiros. |  |  |
+| M7.32. | Recolha de sementes em banco de sementes (conservação ex situ). |  |  |
+| M8.35. | Criação de novo trilho (Algar do Carvão-Furnas do Enxofre). |  |  |
 | TER11.02 A, B, C e D | Áreas de proteção complementar | M1.1. | Fiscalização da área protegida pelos Vigilantes da Natureza. |
 |  |  | M6.9. | Monitorização dos geossítios e elementos de interesse geológico. |
 |  |  | M7.3. | Monitorização das espécies Calonectris borealis, Sterna dougalli, Sterna hirundo, Columba palumbus azorica e outras aves e do Nyctalus azoreum. |
@@ -2073,14 +2208,14 @@ OB5. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.12 - Proposta de intervenção para a Área Protegida para a Gestão de Habitats ou Espécies do Pico do Boi (TER12)
 
-| Condicionantes | Condicionantes |
+| **Condicionantes** |  |
 | --- | --- |
 | Plano Diretor Municipal da Praia da Vitória | Espaços Agrícolas |
-| Plano Diretor Municipal da Praia da Vitória | Espaços Florestais |
-| Plano Diretor Municipal da Praia da Vitória | Espaços Naturais |
+| Espaços Florestais |  |
+| Espaços Naturais |  |
 | Conservação da Natureza | ZEC PTTER0017 Serra de Santa Bárbara e Pico Alto |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| **Unidades Operativas de Gestão** |  |
 | --- | --- |
 | TER12.01 - Pico do Boi | Área de proteção complementar (217,14 ha) |
 
@@ -2098,46 +2233,46 @@ OB5. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.12.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| **Medidas de gestão** |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M3 - Medidas relacionadas com florestas e habitats lenhosos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
-| TER12.01 | M1.1. |  | M3.17. |  | M7.16. | M7.18. | M7.31. | M7.32. |  | M8.64. |  |
+| **Unidade Operativa de Gestão** | M1 - Medidas gerais | M3 - Medidas relacionadas com florestas e habitats lenhosos | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |  |  |
+| **TER12.01** | M1.1. |  | M3.17. |  | M7.16. | M7.18. | M7.31. | M7.32. |  | M8.64. |  |
 
 5.12.3 - Medidas de gestão
 
-| Unidade Operativa de Gestão | Regime de proteção | Medidas de gestão | Descrição |
+| **Unidade Operativa de Gestão** | **Regime de proteção** | **Medidas de gestão** | **Descrição** |
 | --- | --- | --- | --- |
 | TER12.01 | Área de proteção complementar | M1.1. | Fiscalização da área protegida pelos Vigilantes da Natureza. |
-| TER12.01 | Área de proteção complementar | M3.17. | Gestão florestal adaptada à conservação da natureza com a manutenção dos habitats prioritários charnecas macaronésicas endémicas (4050), turfeiras altas ativas (7110), turfeiras arborizadas (91DO) laurissilvas macaronésicas (9360) e florestas macaronésicas de Juniperus spp. (9560). |
-| TER12.01 | Área de proteção complementar | M7.16. | Controlo de invasoras, prioridade na erradicação sempre que as invasoras compitam com habitats e espécies protegidos e que afetem os terrenos circundantes. |
-| TER12.01 | Área de proteção complementar | M7.18. | Monitorização e gestão de espécies invasoras. |
-| TER12.01 | Área de proteção complementar | M7.31. | Campanhas de sensibilização ambiental do público, de entidades e parceiros. |
-| TER12.01 | Área de proteção complementar | M7.32. | Recolha de sementes em banco de sementes (conservação ex situ). |
-| TER12.01 | Área de proteção complementar | M8.64. | Gestão de resíduos provenientes de remoção de espécies invasoras. |
+| M3.17. | Gestão florestal adaptada à conservação da natureza com a manutenção dos habitats prioritários charnecas macaronésicas endémicas (4050), turfeiras altas ativas (7110), turfeiras arborizadas (91DO) laurissilvas macaronésicas (9360) e florestas macaronésicas de Juniperus spp. (9560). |  |  |
+| M7.16. | Controlo de invasoras, prioridade na erradicação sempre que as invasoras compitam com habitats e espécies protegidos e que afetem os terrenos circundantes. |  |  |
+| M7.18. | Monitorização e gestão de espécies invasoras. |  |  |
+| M7.31. | Campanhas de sensibilização ambiental do público, de entidades e parceiros. |  |  |
+| M7.32. | Recolha de sementes em banco de sementes (conservação ex situ). |  |  |
+| M8.64. | Gestão de resíduos provenientes de remoção de espécies invasoras. |  |  |
 
 5.13 - Proposta de intervenção para o Área de Paisagem Protegida das Vinhas dos Biscoitos (TER13)
 
-| Condicionantes | Condicionantes |
+| **Condicionantes** |  |
 | --- | --- |
 | Plano Diretor Municipal da Praia da Vitória | Arribas e Falésias |
-| Plano Diretor Municipal da Praia da Vitória | Espaço Agrícola |
-| Plano Diretor Municipal da Praia da Vitória | Espaços Naturais |
-| Plano Diretor Municipal da Praia da Vitória | Espaços Urbanizáveis |
-| Plano Diretor Municipal da Praia da Vitória | Espaços Urbanos |
+| Espaço Agrícola |  |
+| Espaços Naturais |  |
+| Espaços Urbanizáveis |  |
+| Espaços Urbanos |  |
 | Plano de Ordenamento da Orla Costeira | Área de Especial Interesse Ambiental |
-| Plano de Ordenamento da Orla Costeira | Área de Zona de Proteção de Arriba |
-| Plano de Ordenamento da Orla Costeira | Linha costeira |
-| Plano de Ordenamento da Orla Costeira | Reserva Ecológica |
+| Área de Zona de Proteção de Arriba |  |
+| Linha costeira |  |
+| Reserva Ecológica |  |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| **Unidades Operativas de Gestão** |  |
 | --- | --- |
 | TER13.01 - Vinhas dos Biscoitos | Área de uso sustentável de recursos (165,36 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| **Elementos de fruição da paisagem** |  |
 | --- | --- |
-| Trilhos | Trilhos |
+| Trilhos |  |
 | Trilho das vinhas dos Biscoitos | Manutenção e beneficiação |
-| Miradouros | Miradouros |
+| Miradouros |  |
 | TER.M16 Miradouro da Santinha (Biscoitos) | Beneficiação |
 
 5.13.1 - Objetivos de gestão
@@ -2158,56 +2293,56 @@ OB7. Contribuir para o desenvolvimento da comunidade local através dos benefíc
 
 5.13.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| **Medidas de gestão** |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial |
-| TER013.01 | M1.1. |  | M2.21. |  | M6.9. |  |
+| **Unidade Operativa de Gestão** | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M6 - Medidas relacionadas com planeamento espacial |  |  |  |
+| **TER013.01** | M1.1. |  | M2.21. |  | M6.9. |  |
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| **Medidas de gestão** |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
-| TER13.01 | M7.3. | M7.10. | M7.11 | M7.17. | M7.18. |  | M8.25. | M8.44. | M8.64. |  |
+| **Unidade Operativa de Gestão** | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |  |  |  |
+| **TER13.01** | M7.3. | M7.10. | M7.11 | M7.17. | M7.18. |  | M8.25. | M8.44. | M8.64. |  |
 
 5.13.3 - Medidas de gestão
 
-| Unidade Operativa de Gestão | Regime de proteção | Medidas de gestão | Descrição |
+| **Unidade Operativa de Gestão** | **Regime de proteção** | **Medidas de gestão** | **Descrição** |
 | --- | --- | --- | --- |
 | TER13.01 | Área de uso sustentável de recursos | M1.1. | Fiscalização da área protegida pelos Vigilantes da Natureza. |
-| TER13.01 | Área de uso sustentável de recursos | M2.21. | Apoios financeiros à manutenção de paisagens tradicionais da cultura da vinha, em currais e em socalcos, e de pomares de espécies tradicionais, situadas em áreas de paisagem protegida e em fajãs costeiras, integradas nos Parques Naturais de Ilha e em Reservas da Biosfera. |
-| TER13.01 | Área de uso sustentável de recursos | M6.9. | Monitorização do geossítio e elementos de interesse geológico. |
-| TER13.01 | Área de uso sustentável de recursos | M7.3. | Monitorização das espécies Nyctalus azoreum e Columba palumbus azorica e outras aves. |
-| TER13.01 | Área de uso sustentável de recursos | M7.10. | Levantamento de espécies de flora endémica presentes na linha de costa. |
-| TER13.01 | Área de uso sustentável de recursos | M7.11. | Monitorização de flora endémica. |
-| TER13.01 | Área de uso sustentável de recursos | M7.17. | Controlo de espécies de vegetação invasora, Carpobrotus edulis e Arundo donax. |
-| TER13.01 | Área de uso sustentável de recursos | M7.18. | Monitorização e gestão da espécie de vegetação invasora, Carpobrotus edulis (chorão). |
-| TER13.01 | Área de uso sustentável de recursos | M8.25. | Manutenção do trilho das vinhas dos Biscoitos. |
-| TER13.01 | Área de uso sustentável de recursos | M8.44. | Colocação de placas de informação e sensibilização dos valores culturais presentes. |
-| TER13.01 | Área de uso sustentável de recursos | M8.64. | Gestão de resíduos provenientes de atividades de remoção de espécies invasoras. |
+| M2.21. | Apoios financeiros à manutenção de paisagens tradicionais da cultura da vinha, em currais e em socalcos, e de pomares de espécies tradicionais, situadas em áreas de paisagem protegida e em fajãs costeiras, integradas nos Parques Naturais de Ilha e em Reservas da Biosfera. |  |  |
+| M6.9. | Monitorização do geossítio e elementos de interesse geológico. |  |  |
+| M7.3. | Monitorização das espécies Nyctalus azoreum e Columba palumbus azorica e outras aves. |  |  |
+| M7.10. | Levantamento de espécies de flora endémica presentes na linha de costa. |  |  |
+| M7.11. | Monitorização de flora endémica. |  |  |
+| M7.17. | Controlo de espécies de vegetação invasora, Carpobrotus edulis e Arundo donax. |  |  |
+| M7.18. | Monitorização e gestão da espécie de vegetação invasora, Carpobrotus edulis (chorão). |  |  |
+| M8.25. | Manutenção do trilho das vinhas dos Biscoitos. |  |  |
+| M8.44. | Colocação de placas de informação e sensibilização dos valores culturais presentes. |  |  |
+| M8.64. | Gestão de resíduos provenientes de atividades de remoção de espécies invasoras. |  |  |
 
 5.14 - Proposta de intervenção para a Área Protegida de Gestão de Recursos da Caldeira de Guilherme Moniz (TER14)
 
-| Condicionantes | Condicionantes |
+| **Condicionantes** |  |
 | --- | --- |
 | Plano Diretor Municipal de Angra do Heroísmo | Espaços Naturais |
-| Plano Diretor Municipal de Angra do Heroísmo | Ocupação e Uso de Solo |
-| Plano Diretor Municipal de Angra do Heroísmo | Zona de Cabeceiras de Linhas de Água |
-| Plano Diretor Municipal de Angra do Heroísmo | Zona de Nascentes |
-| Plano Diretor Municipal de Angra do Heroísmo | Zona de Proteção Especial |
-| Plano Diretor Municipal de Angra do Heroísmo | Zonas Húmidas |
+| Ocupação e Uso de Solo |  |
+| Zona de Cabeceiras de Linhas de Água |  |
+| Zona de Nascentes |  |
+| Zona de Proteção Especial |  |
+| Zonas Húmidas |  |
 | Plano de Ordenamento da Orla Costeira | Área de Especial Interesse Ambiental |
-| Plano de Ordenamento da Orla Costeira | Área de Zona de Proteção de Arriba |
-| Plano de Ordenamento da Orla Costeira | Linha Costeira |
-| Plano de Ordenamento da Orla Costeira | Reserva Ecológica |
+| Área de Zona de Proteção de Arriba |  |
+| Linha Costeira |  |
+| Reserva Ecológica |  |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| **Unidades Operativas de Gestão** |  |
 | --- | --- |
 | TER14.01 - Caldeira Guilherme Moniz | Área de uso sustentável de recursos (1218,05 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| **Elementos de fruição da paisagem** |  |
 | --- | --- |
-| Trilhos | Trilhos |
+| Trilhos |  |
 | PRC07 TER Passagem das Bestas | Manutenção |
-| Miradouros | Miradouros |
+| Miradouros |  |
 | TER.M17 Miradouro da Caldeira de Guilherme Moniz | Manutenção |
 
 5.14.1 - Objetivos de gestão
@@ -2220,38 +2355,39 @@ OB3. Contribuir para a sustentabilidade do desenvolvimento socioeconómico.
 
 5.14.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| **Medidas de gestão** |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial |
-| TER014.01 | M1.1. |  | M2.1. | M2.2. | M2.5. |  | M3.17. |  | M4.9. |  | M6.9. |  |
+| **Unidade Operativa de Gestão** | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial |  |  |  |  |  |  |  |
+| **TER014.01** | M1.1. |  | M2.1. | M2.2. | M2.5. |  | M3.17. |  | M4.9. |  | M6.9. |  |
 
-| Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão | Medidas de gestão |
+| **Medidas de gestão** |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
-| TER14.01 | M7.3. | M7.11 | M7.18. | M7.31. |  | M8.25 |  |
+| **Unidade Operativa de Gestão** | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |
+| **TER14.01** | M7.3. | M7.11 | M7.18. | M7.31. |  | M8.25 |  |
 
 5.14.3 - Medidas de gestão
 
-| Unidade Operativa de Gestão | Regime de proteção | Medidas de gestão | Descrição |
+| **Unidade Operativa de Gestão** | **Regime de proteção** | **Medidas de gestão** | **Descrição** |
 | --- | --- | --- | --- |
 | TER14.01 | Área de uso sustentável de recursos | M1.1. | Fiscalização da área protegida pelos Vigilantes da Natureza. |
-| TER14.01 | Área de uso sustentável de recursos | M2.1. | Manutenção de pastagens e outros habitats abertos. |
-| TER14.01 | Área de uso sustentável de recursos | M2.2. | Modificação de práticas culturais. |
-| TER14.01 | Área de uso sustentável de recursos | M2.5. | Realização de ações de sensibilização para o maneio de fertilização em zonas de pastagem. Diminuição da sua utilização e controlo das quantidades usadas. |
-| TER14.01 | Área de uso sustentável de recursos | M3.17. | Promover a gestão florestal adaptada à conservação da natureza. |
-| TER14.01 | Área de uso sustentável de recursos | M4.9. | Conservação das zonas húmidas existentes: dos habitats prioritários, turfeiras altas ativas (7110). Conservação dos habitats protegidos lagos e charcos distróficos naturais (3160), turfeiras altas degradadas ainda suscetíveis de regeneração natural (7120) e charnecas macaronésicas endémicas (4050). |
-| TER14.01 | Área de uso sustentável de recursos | M6.9. | Monitorização do geossítio e elementos de interesse geológico. |
-| TER14.01 | Área de uso sustentável de recursos | M7.3. | Monitorização da espécie prioritária Columba palumbus azorica e outras aves. |
-| TER14.01 | Área de uso sustentável de recursos | M7.11. | Monitorização das espécies de flora protegidas, especialmente as pertencentes aos anexos ii e iv da Diretiva Habitats. |
-| TER14.01 | Área de uso sustentável de recursos | M7.18. | Monitorização e gestão de flora invasora. |
-| TER14.01 | Área de uso sustentável de recursos | M7.31. | Campanhas de sensibilização ambiental do público, de entidades e parceiros. |
-| TER14.01 | Área de uso sustentável de recursos | M8.25. | Manutenção do trilho PRC07 TER Passagem das Bestas. |
+| M2.1. | Manutenção de pastagens e outros habitats abertos. |  |  |
+| M2.2. | Modificação de práticas culturais. |  |  |
+| M2.5. | Realização de ações de sensibilização para o maneio de fertilização em zonas de pastagem. Diminuição da sua utilização e controlo das quantidades usadas. |  |  |
+| M3.17. | Promover a gestão florestal adaptada à conservação da natureza. |  |  |
+| M4.9. | Conservação das zonas húmidas existentes: dos habitats prioritários, turfeiras altas ativas (7110). Conservação dos habitats protegidos lagos e charcos distróficos naturais (3160), turfeiras altas degradadas ainda suscetíveis de regeneração natural (7120) e charnecas macaronésicas endémicas (4050). |  |  |
+| M6.9. | Monitorização do geossítio e elementos de interesse geológico. |  |  |
+| M7.3. | Monitorização da espécie prioritária Columba palumbus azorica e outras aves. |  |  |
+| M7.11. | Monitorização das espécies de flora protegidas, especialmente as pertencentes aos anexos ii e iv da Diretiva Habitats. |  |  |
+| M7.18. | Monitorização e gestão de flora invasora. |  |  |
+| M7.31. | Campanhas de sensibilização ambiental do público, de entidades e parceiros. |  |  |
+| M8.25. | Manutenção do trilho PRC07 TER Passagem das Bestas. |  |  |
 
 5.15 - Gestão e monitorização de cavidades vulcânicas protegidas
 
 | Condicionantes legais |
 | --- |
-| Regional n.º [10/2019/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2019-122373686), de 22 de maio |
+
+Regional n.º [10/2019/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2019-122373686), de 22 de maio
 
 5.15.1 - Objetivos de gestão
 
@@ -2307,19 +2443,20 @@ O resultado das ações de monitorização do grau de concretização do Plano d
 
 Tendo em conta os macro objetivos, domínios e subdomínios definidos para a Região Autónoma dos Açores, o modelo de gestão territorial definido para os Planos de Gestão dos Parques Naturais de Ilha é o seguinte.
 
-![](https://files.diariodarepublica.pt/images/1154555179/1154555105.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555179/1154555105.png) |
+| --- |
 
 6.2 - Indicadores
 
-| Indicadores | Unidade de medida |
+| **Indicadores** | **Unidade de medida** |
 | --- | --- |
-| Área da Rede de Áreas Protegidas ocupada por habitats naturais protegidos- Extensão de território da Rede de Áreas Protegidas ocupada por habitats naturais protegidos pela Diretiva Habitats. | ha |
-| Área da Rede de Áreas Protegidas abrangida por intervenções de gestão ativa- Extensão de território da Rede de Áreas Protegidas abrangido por ações de conservação da natureza que visam a manutenção ou recuperação de espécies e habitats protegidos e o controlo de espécies exóticas invasoras de flora e fauna. | ha |
-| Habitats e espécies com estatuto de conservação desfavorável abrangidos por medidas de gestão- Número de habitats e espécies de flora e fauna com estatuto de conservação desfavorável abrangidos por medidas de gestão efetuadas para melhorar o seu estatuto. | n.º |
-| Estruturas e sistemas de apoio à fruição, identificação e interpretação das Áreas Protegidas e da paisagem- Número de estruturas físicas e sistemas tecnológicos de apoio à fruição, identificação e interpretação das Áreas Protegidas e da paisagem. | n.º |
-| Ações e participantes em atividades de sensibilização ambiental- Número de ações e de participantes em atividades de sensibilização ambiental promovidas para aumentar o conhecimento sobre as Áreas Protegidas e a valorização do património natural. | n.º |
-| Trilhos em Áreas Protegidas alvo de ações de manutenção e beneficiação- Extensão de trilhos em Áreas Protegidas alvo de ações de manutenção e beneficiação. | km |
-| Área de cultura tradicional em produção- Extensão de território em Área Protegida com cultura de vinha em produção. | ha |
+| **Área da Rede de Áreas Protegidas ocupada por****habitats****naturais protegidos**- Extensão de território da Rede de Áreas Protegidas ocupada por habitats naturais protegidos pela Diretiva Habitats. | ha |
+| **Área da Rede de Áreas Protegidas abrangida por intervenções de gestão ativa**- Extensão de território da Rede de Áreas Protegidas abrangido por ações de conservação da natureza que visam a manutenção ou recuperação de espécies e habitats protegidos e o controlo de espécies exóticas invasoras de flora e fauna. | ha |
+| **Habitats****e****espécies com estatuto de conservação desfavorável abrangidos por medidas de gestão**- Número de habitats e espécies de flora e fauna com estatuto de conservação desfavorável abrangidos por medidas de gestão efetuadas para melhorar o seu estatuto. | n.º |
+| **Estruturas****e****sistemas de apoio****à****fruição, identificação****e****interpretação das Áreas Protegidas****e****da paisagem**- Número de estruturas físicas e sistemas tecnológicos de apoio à fruição, identificação e interpretação das Áreas Protegidas e da paisagem. | n.º |
+| **Ações****e****participantes em atividades de sensibilização ambiental**- Número de ações e de participantes em atividades de sensibilização ambiental promovidas para aumentar o conhecimento sobre as Áreas Protegidas e a valorização do património natural. | n.º |
+| **Trilhos em Áreas Protegidas alvo de ações de manutenção****e****beneficiação**- Extensão de trilhos em Áreas Protegidas alvo de ações de manutenção e beneficiação. | km |
+| **Área de cultura tradicional em produção**- Extensão de território em Área Protegida com cultura de vinha em produção. | ha |
 
 7 - Bibliografia
 
@@ -2473,7 +2610,7 @@ PORTEIRO, João Mora - «Gestão ambiental e o ordenamento do território em esp
 
 RIBEIRO TELLES, Gonçalo - «Paisagem Global» in ABREU, Margarida Cancela de (coord.) - «Paisagem». Lisboa: Direção-Geral do Ordenamento do Território e Desenvolvimento Urbano, 1994. (coleção estudos 2).
 
-RIBEIRO, Luís;ABREU, Maria Manuela; BULCÃO, Lara; ARSÉNIO, Pedro - «Landscape sensitivity as a conciliation concept between bio-physical and cultural factors in planning for protected areas: the examples of two vulcanic protected landscapes in Azores, Portugal». Bologna (Italy): 4<sup>th</sup> European Congress on Regional Geoscientific cartography and information systems, 2003. («Geoscientific information for spatial planning», 17-20 de junho de 2003).
+RIBEIRO, Luís;ABREU, Maria Manuela; BULCÃO, Lara; ARSÉNIO, Pedro - «Landscape sensitivity as a conciliation concept between bio-physical and cultural factors in planning for protected areas: the examples of two vulcanic protected landscapes in Azores, Portugal». Bologna (Italy): 4th European Congress on Regional Geoscientific cartography and information systems, 2003. («Geoscientific information for spatial planning», 17-20 de junho de 2003).
 
 SCHÄFER, Hanno - «Flora of the Azores: a field guide». Weikersheim (Deutschland): Margraf Publishers, 2005. (second enlarged edition).
 
@@ -2627,29 +2764,29 @@ ANEXOS
 
 Tabela 6 - Listagem de habitats naturais com estatuto de proteção por área protegida do Parque Natural da Terceira
 
-|  | RNSSBMN | RNBFPA | RNTBCL | MNAC | MNFE | APGHEPC | APGHEIC | APGHEM | APGHEBF | APGHECQR | APGHEPCCN | APGHEPB | APPVB | APGRCGM |
+|  | **RNSSBMN** | **RNBFPA** | **RNTBCL** | **MNAC** | **MNFE** | **APGHEPC** | **APGHEIC** | **APGHEM** | **APGHEBF** | **APGHECQR** | **APGHEPCCN** | **APGHEPB** | **APPVB** | **APGRCGM** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1210 - Vegetação anual das zonas de acumulação de detritos pela maré |  |  |  |  |  | X |  |  |  | X |  |  |  |  |
-| 1220 - Vegetação perene das praias de calhaus rolados |  |  |  |  |  |  |  |  |  | X | X |  |  |  |
-| 1250 - Falésias com flora endémica das costas macaronésicas |  |  |  |  |  | X |  |  |  | X | X |  | X |  |
-| 3130 - Águas estagnadas, oligotróficas a mesotróficas, com vegetação da Littorelletea uniflorae e ou da Isoeto-Nanojuncetea | X |  | X |  |  |  |  |  |  |  | X | X |  |  |
-| 3160 - Lagos e charcos distróficos naturais | X | X | X | X | X |  |  |  |  |  |  | X |  | X |
-| 3170 - Charcos temporários mediterrânicos * | X |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 4050 - Charnecas macaronésicas endémicas * | X | X | X | X | X | X | X | X | X | X | X | X |  | X |
-| 4060 - Charnecas alpinas e subalpinas | X |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 5330 - Matos termomediterrânicos pré-desérticos | X | X |  |  |  |  |  |  |  |  | X |  |  |  |
-| 6180 - Prados mesófílos macaronésicos | X | X |  |  |  |  |  |  |  |  | X |  |  |  |
-| 7110 - Turfeiras altas ativas * | X | X | X | X | X |  |  |  |  |  | X | X |  | X |
-| 7120 - Turfeiras altas degradadas ainda suscetíveis de regeneração natural | X | X | X | X | X |  |  |  |  |  | X | X |  | X |
-| 7130 - Turfeiras de cobertura (* turfeiras ativas) | X | X | X |  | X |  |  |  |  |  | X |  |  |  |
-| 7140 - Turfeiras de transição e turfeiras ondulantes | X | X |  |  |  |  |  |  |  |  | X |  |  |  |
-| 8220 - Vegetação casmofítica das falésias rochosas siliciosas | X | X |  |  |  |  |  |  |  |  | X |  |  | X |
-| 8230 - Vegetação pioneira de superfícies rochosas | X | X |  |  |  |  |  |  |  |  | X |  |  |  |
-| 8310 - Grutas não exploradas pelo turismo | X | X |  | X |  |  | X |  |  | X |  |  | X |  |
-| 8320 - Campos de lavas e escavações naturais | X |  |  | X | X |  |  |  |  |  | X |  |  | X |
-| 91D0 - Turfeiras arborizadas * | X | X | X | X |  |  |  |  |  |  | X | X |  |  |
-| 9360 - Laurissilvas macaronésicas * | X | X | X | X |  |  |  | X |  |  | X | X |  | X |
-| 9560 - Florestas macaronésicas de Juniperus spp.* | X | X |  |  |  |  |  |  |  |  | X | X |  |  |
+| **1210 - Vegetação anual das zonas de acumulação de detritos pela maré** |  |  |  |  |  | X |  |  |  | X |  |  |  |  |
+| **1220 - Vegetação perene das praias de calhaus rolados** |  |  |  |  |  |  |  |  |  | X | X |  |  |  |
+| **1250 - Falésias com flora endémica das costas macaronésicas** |  |  |  |  |  | X |  |  |  | X | X |  | X |  |
+| **3130 - Águas estagnadas, oligotróficas****a****mesotróficas, com vegetação da****Littorelletea uniflor****ae****e****ou da****Isoeto-Nanojuncetea** | X |  | X |  |  |  |  |  |  |  | X | X |  |  |
+| **3160 - Lagos****e****charcos distróficos naturais** | X | X | X | X | X |  |  |  |  |  |  | X |  | X |
+| **3170 - Charcos temporários mediterrânicos *** | X |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| **4050 - Charnecas macaronésicas endémicas *** | X | X | X | X | X | X | X | X | X | X | X | X |  | X |
+| **4060 - Charnecas alpinas****e****subalpinas** | X |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| **5330 - Matos termomediterrânicos pré-desérticos** | X | X |  |  |  |  |  |  |  |  | X |  |  |  |
+| **6180 - Prados mesófílos macaronésicos** | X | X |  |  |  |  |  |  |  |  | X |  |  |  |
+| **7110 - Turfeiras altas ativas *** | X | X | X | X | X |  |  |  |  |  | X | X |  | X |
+| **7120 - Turfeiras altas degradadas ainda suscetíveis de regeneração natural** | X | X | X | X | X |  |  |  |  |  | X | X |  | X |
+| **7130 - Turfeiras de cobertura (* turfeiras ativas)** | X | X | X |  | X |  |  |  |  |  | X |  |  |  |
+| **7140 - Turfeiras de transição****e****turfeiras ondulantes** | X | X |  |  |  |  |  |  |  |  | X |  |  |  |
+| **8220 - Vegetação casmofítica das falésias rochosas siliciosas** | X | X |  |  |  |  |  |  |  |  | X |  |  | X |
+| **8230 - Vegetação pioneira de superfícies rochosas** | X | X |  |  |  |  |  |  |  |  | X |  |  |  |
+| **8310 - Grutas não exploradas pelo turismo** | X | X |  | X |  |  | X |  |  | X |  |  | X |  |
+| **8320 - Campos de lavas****e****escavações naturais** | X |  |  | X | X |  |  |  |  |  | X |  |  | X |
+| **91D0 - Turfeiras arborizadas *** | X | X | X | X |  |  |  |  |  |  | X | X |  |  |
+| **9360 - Laurissilvas macaronésicas *** | X | X | X | X |  |  |  | X |  |  | X | X |  | X |
+| **9560 - Florestas macaronésicas de****Juniperus****spp.*** | X | X |  |  |  |  |  |  |  |  | X | X |  |  |
 
 * Habitat prioritário (Diretiva Habitats).
 
@@ -2687,97 +2824,97 @@ APGRCGM - Área Protegida de Gestão de Recursos da Caldeira de Guilherme Moniz.
 
 Tabela 7 - Listagem de espécies de flora por área protegida do Parque Natural da Terceira
 
-|  | RNSSBMN | RNBFPA | RNTBCL | MNAC | MNFE | APGHEPC | APGHEIC | APGHEM | APGHEBF | APGHECQR | APGHEPCCN | APGHEPB | APPVB | APGRCGM |
+|  | **RNSSBMN** | **RNBFPA** | **RNTBCL** | **MNAC** | **MNFE** | **APGHEPC** | **APGHEIC** | **APGHEM** | **APGHEBF** | **APGHECQR** | **APGHEPCCN** | **APGHEPB** | **APPVB** | **APGRCGM** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Agrostis congestiflora | x | x | x |  |  |  |  |  |  |  | x |  | x |  |
-| Agrostis gracililaxa 1 |  | x | x |  |  |  |  |  |  |  | x |  |  |  |
-| Ammi trifoliatum 1P |  | x |  |  |  |  |  |  |  |  | x |  |  |  |
-| Angelica lignescens 1P | x | x |  |  |  |  |  |  |  |  | x |  |  |  |
-| Aphanolejeunea azorica | X | x | x |  | x |  |  |  |  |  | x | x |  |  |
-| Aphanolejeunea madeirensis |  | x |  |  |  |  |  |  |  |  | x |  |  |  |
-| Aphanolejeunea sintenisii | X | x | x | x | x |  |  | x |  |  | x | x |  | x |
-| Arceuthobium azoricum 1P | X | x | x |  |  |  |  |  |  |  | x |  |  |  |
-| Asplenium azoricum 1 |  | x |  |  |  |  |  |  |  |  |  |  |  |  |
-| Asplenium hemionitis 1 |  |  |  |  |  |  |  | x |  |  | x |  |  |  |
-| Asplenium marinum |  |  |  |  |  | x |  |  |  | x | x |  | x |  |
-| Asplenium scolopendrium | x | x | x |  |  |  |  |  |  |  | x |  |  |  |
-| Azorina vidalii *1 |  |  |  |  |  |  |  |  |  | x |  |  |  |  |
-| Bazzania azorica | X | x | x | x | x |  |  |  |  |  | x | x |  | x |
-| Bellis azorica 1P |  | x |  |  |  |  |  |  |  |  |  |  |  |  |
-| Calluna vulgaris | X | x | x | x | x |  | x | x | x |  | x | x |  | x |
-| Cardamine caldeirarum | X | x | x |  | x |  |  |  |  |  | x |  |  |  |
-| Carex hochstetteriana |  |  |  |  |  |  |  |  |  |  |  |  |  | x |
-| Ceradenia jungermanioides |  | x |  |  |  |  |  |  |  |  |  |  |  |  |
-| Colura calyptrifolia | x | x | x | x | x |  |  |  |  |  | x | x |  |  |
-| Culcita macrocarpa 1 | x | x | x | x | x |  |  | x | x |  | x | x |  | x |
-| Cyclodictyon laetevirens | x | x | x | x |  |  |  |  |  |  | x | x |  | x |
-| Daucus azoricus |  |  |  |  |  |  |  |  |  |  | x |  | x |  |
-| Deschampsia foliosa | x | x |  |  |  |  |  |  |  |  | x |  |  | x |
-| Diphasiastrum madeirense 1 | x | x |  |  |  |  |  |  |  |  | x |  |  |  |
-| Diplazium caudatum | x |  |  |  |  |  |  |  |  |  | x |  |  |  |
-| Dryopteris azorica | x | x |  | x |  |  |  | x |  |  | x |  |  |  |
-| Dryopteris crispifolia |  |  |  |  |  |  |  |  |  |  |  |  |  | x |
-| Echinodium renauldii |  |  |  |  |  |  |  |  |  |  | x |  |  |  |
-| Erica azorica 1 | x | x | x | x | x | x | x | x | x | x | x | x | x | x |
-| Euphorbia azorica |  |  |  |  |  |  | x |  |  |  |  |  | x |  |
-| Euphorbia stygiana 1P | x | x |  | x |  |  |  |  |  |  | x |  |  |  |
-| Euphrasia grandiflora 1P | x | x | x |  |  |  |  |  |  |  |  |  |  |  |
-| Festuca francoi | x | x | x |  |  |  |  |  |  |  | x |  |  |  |
-| Festuca petraea |  |  |  |  |  | x | x |  |  | x | x |  |  |  |
-| Frangula azorica 1P | x | x | x | x | x | x |  | x |  |  | x | x |  | x |
-| Grammitis azorica |  | x |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hedera azorica | x | x |  |  | x |  |  |  |  |  | x |  | x | x |
-| Holcus rigidus | x | x | x | x |  |  |  |  |  |  | x |  |  | x |
-| Huperzia dentata 1 | x |  | x | x | x |  |  |  |  |  | x | x |  | x |
-| Huperzia suberecta 1 | x | x | x | x | x |  |  |  |  |  | x | x |  | x |
-| Hypericum foliosum | x | x | x | x |  |  |  |  |  |  | x | x |  | x |
-| Ilex azorica | x | x | x |  | x |  |  | x |  |  | x |  |  | x |
-| Isoetes azorica 1P | x |  |  |  |  |  |  |  |  |  | x |  |  | x |
-| Juncus spp. | x | x | x | x | x |  |  | x | x |  | x | x |  | x |
-| Juniperus brevifolia 1P | x | x | x | x |  |  |  |  |  |  | x |  |  | x |
-| Lactuca watsoniana *1 | x | x | x | x | x |  |  |  |  |  | x | x |  | x |
-| Laurus azorica P | x | x | x | x | x |  |  | x |  |  | x |  |  | x |
-| Leontodon filii 1 | x | x |  |  |  |  |  |  |  |  | x |  |  |  |
-| Leontodon rigens |  | x |  |  |  |  |  |  |  |  | x |  |  |  |
-| Leucobryum glaucum 1 | x |  |  | x | x |  |  |  |  |  | x |  |  |  |
-| Luzula purpureosplendens | x | x | x |  | x |  |  |  |  |  | x | x |  | x |
-| Lysimachia azorica | x | x | x | x | x |  |  | x |  |  | x | x |  | x |
-| Mentha aquatica | x | x | x |  |  |  |  | x |  |  | x | x |  | x |
-| Mentha pulegium | x |  | x | x |  |  |  | x | x |  | x | x |  | x |
-| Morella faya | x | x | x |  |  | x | x |  | x |  | x | x |  |  |
-| Myosotis maritima 1P |  |  |  |  |  |  |  |  |  | x |  |  | x |  |
-| Myrsine retusa | x | x | x | x | x |  |  |  |  |  | x |  |  | x |
-| Ophioglossum azoricum | x |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Osmunda regalis | x | x | x |  |  |  |  |  |  |  | x | x |  | x |
-| Palhinhaea cernua 1 | x |  |  |  |  |  |  |  |  |  | x |  |  |  |
-| Pericallis malvifolia 1P | x | x | x |  |  |  |  |  |  |  | x |  |  |  |
-| Picconia azorica 1P | x | x | x | x |  |  |  |  |  | x | x | x |  | x |
-| Platanthera micrantha P |  |  |  |  |  |  |  |  |  |  | x |  |  |  |
-| Platanthera pollostantha | x | x | x | x | x |  |  |  |  |  | x | x |  | x |
-| Polypodium azoricum | x | x | x | x |  |  |  |  |  |  | x |  |  | x |
-| Polypogon maritimus |  |  |  |  |  |  | x |  |  |  |  |  |  |  |
-| Polystichum setiferum |  |  |  |  |  |  |  |  |  |  | x |  |  | x |
-| Potentilla anglica | x | x | x | x |  |  |  |  |  |  | x |  |  |  |
-| Potentilla erecta | x | x | x | x |  |  |  |  |  |  | x |  |  | x |
-| Prunus azorica 1P | x | x |  |  |  |  |  |  |  |  | x |  |  |  |
-| Pteris incompleta |  |  |  |  |  |  |  |  |  |  | x |  |  |  |
-| Rubus hochstetterorum P | x | x | x | x |  |  |  |  |  |  | x | x |  | x |
-| Rumex azoricus 1P | x | x |  |  |  |  |  |  |  | x | x |  |  |  |
-| Sanicula azorica 1P | x | x | x |  | x |  |  |  |  |  | x | x |  |  |
-| Solidago azorica |  |  |  |  |  |  |  |  |  | x | x |  |  |  |
-| Scabiosa nitens 1 | x |  |  | x |  |  |  |  |  |  | x |  |  |  |
-| Serapias cordigera subsp. azorica |  |  |  |  |  |  |  |  |  |  |  |  |  | x |
-| Silene uniflora uniflora |  |  |  |  |  |  |  |  |  |  |  |  | x |  |
-| Smilax azorica |  | X |  |  |  |  |  |  |  |  | x |  |  |  |
-| Spergularia azorica 1 |  |  |  |  |  | x | x |  |  | x | x |  | x |  |
-| Sphagnum spp. 1 | x | X | x | x | x |  |  | x |  |  | x | x |  | x |
-| Tetrastichium fontanum | x | X | x | x |  |  |  | x |  |  | x | x |  | x |
-| Tetrastichium virens | x | X | x |  | x |  |  | x |  |  | x | x |  | x |
-| Tolpis azorica R4 | x | X | x | x | x |  |  | x |  |  | x | x |  | x |
-| Tylimanthus laxus | x | x | x |  | x |  |  |  |  |  | x | x |  | x |
-| Vaccinium cylindraceum P | x | x | x | x | x |  |  | x |  |  | x |  |  | x |
-| Viburnum treleasei P | x | x | x | x |  |  |  |  |  |  | x |  |  |  |
-| Woodwardia radicans 1 | x | x | x | x | x |  |  | x | x |  | x | x |  | x |
+| **Agrostis congestiflora** | x | x | x |  |  |  |  |  |  |  | x |  | x |  |
+| **Agrostis gracililaxa****1** |  | x | x |  |  |  |  |  |  |  | x |  |  |  |
+| **Ammi trifoliatum****1P** |  | x |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Angelica lignescens****1P** | x | x |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Aphanolejeunea azorica** | X | x | x |  | x |  |  |  |  |  | x | x |  |  |
+| **Aphanolejeunea madeirensis** |  | x |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Aphanolejeunea sintenisii** | X | x | x | x | x |  |  | x |  |  | x | x |  | x |
+| **Arceuthobium azoricum****1P** | X | x | x |  |  |  |  |  |  |  | x |  |  |  |
+| **Asplenium azoricum****1** |  | x |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Asplenium hemionitis****1** |  |  |  |  |  |  |  | x |  |  | x |  |  |  |
+| **Asplenium marinum** |  |  |  |  |  | x |  |  |  | x | x |  | x |  |
+| **Asplenium scolopendrium** | x | x | x |  |  |  |  |  |  |  | x |  |  |  |
+| **Azorina vidalii*****1** |  |  |  |  |  |  |  |  |  | x |  |  |  |  |
+| **Bazzania azorica** | X | x | x | x | x |  |  |  |  |  | x | x |  | x |
+| **Bellis azorica****1P** |  | x |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Calluna vulgaris** | X | x | x | x | x |  | x | x | x |  | x | x |  | x |
+| **Cardamine caldeirarum** | X | x | x |  | x |  |  |  |  |  | x |  |  |  |
+| **Carex hochstetteriana** |  |  |  |  |  |  |  |  |  |  |  |  |  | x |
+| **Ceradenia jungermanioides** |  | x |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Colura calyptrifolia** | x | x | x | x | x |  |  |  |  |  | x | x |  |  |
+| **Culcita macrocarpa****1** | x | x | x | x | x |  |  | x | x |  | x | x |  | x |
+| **Cyclodictyon laetevirens** | x | x | x | x |  |  |  |  |  |  | x | x |  | x |
+| **Daucus azoricus** |  |  |  |  |  |  |  |  |  |  | x |  | x |  |
+| **Deschampsia foliosa** | x | x |  |  |  |  |  |  |  |  | x |  |  | x |
+| **Diphasiastrum madeirense****1** | x | x |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Diplazium caudatum** | x |  |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Dryopteris azorica** | x | x |  | x |  |  |  | x |  |  | x |  |  |  |
+| **Dryopteris crispifolia** |  |  |  |  |  |  |  |  |  |  |  |  |  | x |
+| **Echinodium renauldii** |  |  |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Erica azorica****1** | x | x | x | x | x | x | x | x | x | x | x | x | x | x |
+| **Euphorbia azorica** |  |  |  |  |  |  | x |  |  |  |  |  | x |  |
+| **Euphorbia stygiana****1P** | x | x |  | x |  |  |  |  |  |  | x |  |  |  |
+| **Euphrasia grandiflora****1P** | x | x | x |  |  |  |  |  |  |  |  |  |  |  |
+| **Festuca francoi** | x | x | x |  |  |  |  |  |  |  | x |  |  |  |
+| **Festuca petraea** |  |  |  |  |  | x | x |  |  | x | x |  |  |  |
+| **Frangula azorica****1P** | x | x | x | x | x | x |  | x |  |  | x | x |  | x |
+| **Grammitis azorica** |  | x |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Hedera azorica** | x | x |  |  | x |  |  |  |  |  | x |  | x | x |
+| **Holcus rigidus** | x | x | x | x |  |  |  |  |  |  | x |  |  | x |
+| **Huperzia dentata****1** | x |  | x | x | x |  |  |  |  |  | x | x |  | x |
+| **Huperzia suberecta****1** | x | x | x | x | x |  |  |  |  |  | x | x |  | x |
+| **Hypericum foliosum** | x | x | x | x |  |  |  |  |  |  | x | x |  | x |
+| **Ilex azorica** | x | x | x |  | x |  |  | x |  |  | x |  |  | x |
+| **Isoetes azorica****1P** | x |  |  |  |  |  |  |  |  |  | x |  |  | x |
+| **Juncus spp.** | x | x | x | x | x |  |  | x | x |  | x | x |  | x |
+| **Juniperus brevifolia****1P** | x | x | x | x |  |  |  |  |  |  | x |  |  | x |
+| **Lactuca watsoniana*****1** | x | x | x | x | x |  |  |  |  |  | x | x |  | x |
+| **Laurus azorica****P** | x | x | x | x | x |  |  | x |  |  | x |  |  | x |
+| **Leontodon filii****1** | x | x |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Leontodon rigens** |  | x |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Leucobryum glaucum****1** | x |  |  | x | x |  |  |  |  |  | x |  |  |  |
+| **Luzula purpureosplendens** | x | x | x |  | x |  |  |  |  |  | x | x |  | x |
+| **Lysimachia azorica** | x | x | x | x | x |  |  | x |  |  | x | x |  | x |
+| **Mentha aquatica** | x | x | x |  |  |  |  | x |  |  | x | x |  | x |
+| **Mentha pulegium** | x |  | x | x |  |  |  | x | x |  | x | x |  | x |
+| **Morella faya** | x | x | x |  |  | x | x |  | x |  | x | x |  |  |
+| **Myosotis maritima****1P** |  |  |  |  |  |  |  |  |  | x |  |  | x |  |
+| **Myrsine retusa** | x | x | x | x | x |  |  |  |  |  | x |  |  | x |
+| **Ophioglossum azoricum** | x |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Osmunda regalis** | x | x | x |  |  |  |  |  |  |  | x | x |  | x |
+| **Palhinhaea cernua****1** | x |  |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Pericallis malvifolia****1P** | x | x | x |  |  |  |  |  |  |  | x |  |  |  |
+| **Picconia azorica****1P** | x | x | x | x |  |  |  |  |  | x | x | x |  | x |
+| **Platanthera micrantha****P** |  |  |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Platanthera pollostantha** | x | x | x | x | x |  |  |  |  |  | x | x |  | x |
+| **Polypodium azoricum** | x | x | x | x |  |  |  |  |  |  | x |  |  | x |
+| **Polypogon maritimus** |  |  |  |  |  |  | x |  |  |  |  |  |  |  |
+| **Polystichum setiferum** |  |  |  |  |  |  |  |  |  |  | x |  |  | x |
+| **Potentilla anglica** | x | x | x | x |  |  |  |  |  |  | x |  |  |  |
+| **Potentilla erecta** | x | x | x | x |  |  |  |  |  |  | x |  |  | x |
+| **Prunus azorica****1P** | x | x |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Pteris incompleta** |  |  |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Rubus hochstetterorum****P** | x | x | x | x |  |  |  |  |  |  | x | x |  | x |
+| **Rumex azoricus****1P** | x | x |  |  |  |  |  |  |  | x | x |  |  |  |
+| **Sanicula azorica****1P** | x | x | x |  | x |  |  |  |  |  | x | x |  |  |
+| **Solidago azorica** |  |  |  |  |  |  |  |  |  | x | x |  |  |  |
+| **Scabiosa nitens****1** | x |  |  | x |  |  |  |  |  |  | x |  |  |  |
+| **Serapias cordigera****subsp.****azorica** |  |  |  |  |  |  |  |  |  |  |  |  |  | x |
+| **Silene uniflora uniflora** |  |  |  |  |  |  |  |  |  |  |  |  | x |  |
+| **Smilax azorica** |  | X |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Spergularia azorica****1** |  |  |  |  |  | x | x |  |  | x | x |  | x |  |
+| **Sphagnum****spp. 1** | x | X | x | x | x |  |  | x |  |  | x | x |  | x |
+| **Tetrastichium fontanum** | x | X | x | x |  |  |  | x |  |  | x | x |  | x |
+| **Tetrastichium virens** | x | X | x |  | x |  |  | x |  |  | x | x |  | x |
+| **Tolpis azorica****R4** | x | X | x | x | x |  |  | x |  |  | x | x |  | x |
+| **Tylimanthus laxus** | x | x | x |  | x |  |  |  |  |  | x | x |  | x |
+| **Vaccinium cylindraceum****P** | x | x | x | x | x |  |  | x |  |  | x |  |  | x |
+| **Viburnum treleasei****P** | x | x | x | x |  |  |  |  |  |  | x |  |  |  |
+| **Woodwardia radicans****1** | x | x | x | x | x |  |  | x | x |  | x | x |  | x |
 
 * Espécie prioritária (Diretiva Habitats).
 
@@ -2819,39 +2956,39 @@ APGRCGM - Área Protegida de Gestão de Recursos da Caldeira de Guilherme Moniz.
 
 Tabela 8 - Listagem de espécies de aves por área protegida do Parque Natural da Terceira
 
-|  | RNSSBMN | RNBFPA | RNTBCL | MNAC | MNFE | APGHEPC | APGHEIC | APGHEM | APGHEBF | APGHECQR | APGHEPCCN | APGHEPB | APPVB | APGRCGM |
+|  | **RNSSBMN** | **RNBFP****A** | **RNTBCL** | **MNAC** | **MNFE** | **APGHEPC** | **APGHEIC** | **APGHEM** | **APGHEBF** | **APGHECQR** | **APGHEPCCN** | **APGHEPB** | **APPVB** | **APGRCGM** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Alectoris rufa 1 | x | x |  | x |  | x |  |  |  | x | x | x | x | x |
-| Spatula clypeata 1 |  |  | x | x |  |  |  |  |  |  | x |  |  | x |
-| Anas crecca 1 |  |  |  |  |  |  |  |  |  |  |  |  |  | x |
-| Anas platyrhynchos 1 | x | x |  |  | x |  |  | x |  |  | x |  |  | x |
-| Spatrula querquedula 1 |  |  | x | x |  |  |  |  |  |  | x |  |  | x |
-| Mareca strepera 1 |  |  | x | x |  |  |  |  |  |  | x |  |  | x |
-| Asio otus 1 | x | x | x | x | x | x |  | x | x | x | x | x | x | x |
-| Aythya collaris |  |  | x | x |  |  |  |  |  |  | x |  |  | x |
-| Aythya fuligula 1 |  |  | x | x |  |  |  |  |  |  | x |  |  | x |
-| Buteo buteo rothschildi 1P | x |  | x |  | x | x |  | x | x | x | x | x |  | x |
-| Calidris fuscicollis |  |  | x | x |  |  |  |  |  |  | x |  |  | x |
-| Calonectris borealis *1P | X | x |  |  |  | x |  | X |  | x | x |  | x | x |
-| Columba livia atlantis 1 |  |  |  |  |  | x |  |  |  | x | x |  |  |  |
-| Columba palumbus azorica *1P | x | x | x | x | x | x |  | x | x | x | x | x |  | x |
-| Coturnix coturnix conturbans 1 | x |  |  |  |  | x |  |  |  | x | x | x | x | x |
-| Erithacus rubecula 1 | x | x | x | x | x |  |  | x | x | x | x | x | x | x |
-| Fringilla moreletti P | x | x | x | x | x |  |  | x | x | x | x | x | x | x |
-| Gallinago gallinago 1 | x | x | x |  | x |  |  | x |  | x | x | x | x | x |
-| Gallinula chloropus 1 |  |  |  |  |  |  |  |  |  |  | x |  |  |  |
-| Larus cachinnans 1 |  |  |  |  |  |  |  |  |  |  |  |  | x |  |
-| Larus michahelis 1 |  | x |  |  |  |  |  |  |  | x | x |  |  |  |
-| Motacilla cinerea patriciae 1 | x | x | x | x | x |  |  | x | x | x | x | x | x | x |
-| Passer domesticus | x | x | x | x | x | x |  | x | x | x | x | x | x | x |
-| Regulus regulus inermis 1P | x | x | x | x | x |  |  | x | x | x | x | x | x | x |
-| Scolopax rusticola 1 | x | x | x | x | x |  |  | x | x | x | x | x | x | x |
-| Serinus canaria | x | x | x | x | x |  |  | x | x | x | x | x | x | x |
-| Sterna dougallii *1P |  |  |  |  |  | x | x |  |  | x |  |  |  |  |
-| Sterna hirundo *1P |  |  |  |  |  | x | x |  |  | x | x |  | x |  |
-| Sturnus vulgaris 1 | x | x | x | x | x | x |  | x | x | x | x | x |  |  |
-| Sylvia atricapilla gularis 1 | x | x | x | x | x |  |  | x | x | x | x | x | x | x |
-| Turdus merula azorensis 1 | x | x | x | x | x |  |  | x | x |  | x | x |  | x |
+| **Alectoris rufa****1** | x | x |  | x |  | x |  |  |  | x | x | x | x | x |
+| **Spatula clypeata 1** |  |  | x | x |  |  |  |  |  |  | x |  |  | x |
+| **Anas crecca****1** |  |  |  |  |  |  |  |  |  |  |  |  |  | x |
+| **Anas platyrhynchos****1** | x | x |  |  | x |  |  | x |  |  | x |  |  | x |
+| **Spatrula querquedula****1** |  |  | x | x |  |  |  |  |  |  | x |  |  | x |
+| **Mareca strepera****1** |  |  | x | x |  |  |  |  |  |  | x |  |  | x |
+| **Asio otus****1** | x | x | x | x | x | x |  | x | x | x | x | x | x | x |
+| **Aythya collaris** |  |  | x | x |  |  |  |  |  |  | x |  |  | x |
+| **Aythya fuligula****1** |  |  | x | x |  |  |  |  |  |  | x |  |  | x |
+| **Buteo buteo rothschildi****1P** | x |  | x |  | x | x |  | x | x | x | x | x |  | x |
+| **Calidris fuscicollis** |  |  | x | x |  |  |  |  |  |  | x |  |  | x |
+| **Calonectris borealis*****1P** | X | x |  |  |  | x |  | X |  | x | x |  | x | x |
+| **Columba livia atlantis****1** |  |  |  |  |  | x |  |  |  | x | x |  |  |  |
+| **Columba palumbus azorica*****1P** | x | x | x | x | x | x |  | x | x | x | x | x |  | x |
+| **Coturnix coturnix conturbans****1** | x |  |  |  |  | x |  |  |  | x | x | x | x | x |
+| **Erithacus rubecula****1** | x | x | x | x | x |  |  | x | x | x | x | x | x | x |
+| **Fringilla moreletti****P** | x | x | x | x | x |  |  | x | x | x | x | x | x | x |
+| **Gallinago gallinago****1** | x | x | x |  | x |  |  | x |  | x | x | x | x | x |
+| **Gallinula chloropus****1** |  |  |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Larus cachinnans 1** |  |  |  |  |  |  |  |  |  |  |  |  | x |  |
+| **Larus michahelis****1** |  | x |  |  |  |  |  |  |  | x | x |  |  |  |
+| **Motacilla cinerea patriciae****1** | x | x | x | x | x |  |  | x | x | x | x | x | x | x |
+| **Passer domesticus** | x | x | x | x | x | x |  | x | x | x | x | x | x | x |
+| **Regulus regulus inermis****1P** | x | x | x | x | x |  |  | x | x | x | x | x | x | x |
+| **Scolopax rusticola****1** | x | x | x | x | x |  |  | x | x | x | x | x | x | x |
+| **Serinus canaria** | x | x | x | x | x |  |  | x | x | x | x | x | x | x |
+| **Sterna dougallii*****1P** |  |  |  |  |  | x | x |  |  | x |  |  |  |  |
+| **Sterna hirundo*****1P** |  |  |  |  |  | x | x |  |  | x | x |  | x |  |
+| **Sturnus vulgaris****1** | x | x | x | x | x | x |  | x | x | x | x | x |  |  |
+| **Sylvia atricapilla gularis****1** | x | x | x | x | x |  |  | x | x | x | x | x | x | x |
+| **Turdus merula azorensis****1** | x | x | x | x | x |  |  | x | x |  | x | x |  | x |
 
 * Espécie prioritária (Diretiva Habitats).
 
@@ -2889,9 +3026,9 @@ APGRCGM - Área Protegida de Gestão de Recursos da Caldeira de Guilherme Moniz.
 
 Tabela 9 - Listagem de espécies de mamíferos por área protegida do PNI da Terceira
 
-|  | RNSSBMN | RNBFPA | RNTBCL | MNAC | MNFE | APGHEPC | APGHEIC | APGHEM | APGHEBF | APGHECQR | APGHEPCCN | APGHEPB | APPVB | APGRCGM |
+|  | **RNSSBMN** | **RNBFPA** | **RNTBCL** | **MNAC** | **MNFE** | **APGHEPC** | **APGHEIC** | **APGHEM** | **APGHEBF** | **APGHECQR** | **APGHEPCCN** | **APGHEPB** | **APPVB** | **APGRCGM** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nyctalus azoreum 1P | x | x | x | x | x | x |  | x |  |  | x | x |  |  |
+| **Nyctalus azoreum****1P** | x | x | x | x | x | x |  | x |  |  | x | x |  |  |
 
 1 Espécie protegida pela Diretiva Habitats e/ou Convenção de Berna.
 
@@ -2927,98 +3064,98 @@ APGRCGM - Área Protegida de Gestão de Recursos da Caldeira de Guilherme Moniz.
 
 Tabela 10 - Listagem de espécies de artrópodes por área protegida do PNI da Terceira
 
-|  | RNSSBMN | RNBFPA | RNTBCL | MNAC | MNFE | APGHEPC | APGHEICº | APGHEM | APGHEBF | APGHECQR | APGHEPCCN | APGHEPB | APPVB | APGRCGM |
+|  | **RNSSBMN** | **RNBFPA** | **RNTBCL** | **MNAC** | **MNFE** | **APGHEPC** | **APGHEIC**º | **APGHEM** | **APGHEBF** | **APGHECQR** | **APGHEPCCN** | **APGHEPB** | **APPVB** | **APGRCGM** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Acorigone acoreensis | x | x | x |  | x |  |  | x |  |  | x | x |  | x |
-| Alestrus dolosus | x | x | x |  | x |  |  |  |  |  | x | x |  |  |
-| Aphrodes hamiltoni | x | x | x | x | x |  |  |  |  |  | x | x |  | x |
-| Argyresthia atlanticella | x | x | x | x | x |  |  | x |  | x | x | x |  | x |
-| Ascotis fortunata | x | x | x | x | x |  |  | x |  | x | x | x |  | x |
-| Atheta dryochares | x |  | x |  |  |  |  |  |  |  | x | x |  |  |
-| Athous azoricus |  |  |  |  |  |  |  | x |  |  | x |  |  |  |
-| Atlantocis gillerforsi |  |  | x |  |  |  |  | x |  |  | x |  |  |  |
-| Calacalles subcarinatus | x | x | x |  | x |  |  |  |  |  | x | x |  |  |
-| Campachipteria weigmanni | x |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Carabodes azoricus | x |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Cedrorum azoricus | x | x | x |  |  |  |  |  |  |  | x | x |  |  |
-| Cerodontha bistrigata |  |  |  |  |  |  |  |  |  |  | x |  |  |  |
-| Chrysotus elongatus |  |  |  |  | x |  |  |  |  |  | x |  |  |  |
-| Chrysotus vulcanicola |  |  |  |  |  |  |  |  |  |  | x |  |  |  |
-| Cixius azoricus | x | x | x | x |  |  |  |  |  |  | x |  |  |  |
-| Cixius azoterceirae | x | x | x | x | x |  |  | x | x | x | x | x |  | x |
-| Cyclophora azorensis | x | x | x | x | x |  |  | x |  |  | x | x |  | x |
-| Damaeus pomboi | x | x | x |  |  |  |  | x |  |  | x |  |  |  |
-| Elipsocus azoricus | x | x | x |  | x |  |  |  | x |  | x | x |  | x |
-| Elipsocus brincki | x | x | x |  | x |  |  | x |  |  | x | x |  | x |
-| Emblyna acoreensis |  |  |  |  |  |  |  |  |  | x | x |  |  |  |
-| Ensina azorica |  |  |  |  |  |  |  |  |  | x |  |  |  |  |
-| Eudonia interlinealis | x | x |  |  |  |  |  |  |  |  | x |  |  | x |
-| Eudonia luteusalis | x | x | x |  | x |  |  |  |  |  | x | x |  |  |
-| Eupteryx azorica | x |  |  |  |  |  |  |  |  |  | x |  |  | x |
-| Galumna azoreana |  |  |  |  |  |  |  | x | x |  | x |  |  |  |
-| Gibbaranea occidentalis | x | x | x |  | x |  |  | x |  | x | x | x | x | x |
-| Graphania granti |  |  |  |  |  |  |  |  |  |  | x |  |  |  |
-| Hemerobius azoricus | x | x | x |  | x |  |  |  |  |  | x | x |  | x |
-| Heminothrus oromii | x |  |  |  |  |  |  |  |  |  | x |  |  |  |
-| Hermanniella incondita |  |  |  |  |  |  |  | x |  |  | x |  |  |  |
-| Hipparchia azorina | x | x | x |  |  |  |  |  |  |  | x | x |  |  |
-| Humerobates pomboi | x |  | x |  |  |  |  | x |  |  | x |  |  |  |
-| Hydroporus guernei | x |  |  |  |  |  |  |  |  |  | x |  |  |  |
-| Javesella azorica |  |  |  |  | x |  |  |  |  |  | x |  |  |  |
-| Kowarzia sexmaculata |  |  |  |  |  |  |  |  |  | x |  |  |  |  |
-| Lasaeola oceanica | x | x | x | x | x |  |  | x |  |  | x | x |  |  |
-| Lepthyphantes acoreensis | x | x | x |  | x |  |  | x |  |  | x | x |  | x |
-| Liacarus angustatus | x |  |  |  |  |  |  |  | x |  |  |  |  |  |
-| Limnephilus atlanticus | x | x |  |  |  |  |  |  |  |  | x |  |  |  |
-| Lithobius obscurus | x |  |  | x |  |  |  |  |  |  | x |  |  |  |
-| Megaselia leptofemur | x |  |  |  |  |  |  |  |  |  | x |  |  |  |
-| Melanozetes azoricus | x |  |  |  |  |  |  |  |  |  | x |  |  |  |
-| Mesapamea storai |  |  | x |  | x |  |  |  |  |  | x |  |  | x |
-| Micrurapteryx bistrigella |  | x |  |  |  |  |  |  |  |  | x |  |  |  |
-| Minicia floresensis | x | x | x |  |  |  |  |  |  |  | x | x |  |  |
-| Neon acoreensis | x | x | x |  | x |  |  |  |  |  | x |  |  |  |
-| Noctua atlantica |  |  | x |  |  |  |  |  |  |  | x |  |  | x |
-| Noctua carvalhoi |  |  |  |  |  |  |  |  |  |  | x |  |  |  |
-| Nothrus palustris | x |  | x |  |  |  |  | x | x |  | x |  |  |  |
-| Ommatocepheus parvilamellatus | x |  |  |  |  |  |  | x |  |  | x |  |  |  |
-| Orthotylus junipericola |  | x |  |  |  |  |  |  |  |  | x |  |  |  |
-| Parachipetria floresiana | x |  |  |  |  |  |  |  | x |  |  |  |  |  |
-| Parachipetria insularis | x | x |  |  |  |  |  |  |  |  |  |  |  |  |
-| Pardosa acorensis | x | x | x | x | x |  |  | x |  |  | x | x |  | x |
-| Phloeosinus gillerforsi | x | x |  |  |  |  |  |  |  |  | x |  |  |  |
-| Phloeostiba azorica | x |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Phlogophora furnasi |  |  | x |  |  |  |  |  |  |  | x |  |  | x |
-| Phlogophora interrupta | x |  | x |  |  |  |  |  |  |  | x |  |  | x |
-| Phthiracarus atlanticus |  |  |  |  |  |  |  | x |  |  | x |  |  |  |
-| Pilocepheus azoricus | x |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Pinalitus oromii | x | x | x |  | x |  |  | x |  |  | x | x |  | x |
-| Pisaura acoreensis | x | x | x | x | x |  |  | x |  |  | x | x |  | x |
-| Pithanus maerkelii | x | x |  |  |  |  |  |  |  |  | x |  |  |  |
-| Porrhomma borgesi | x | x | x | x | x |  |  |  |  |  | x | x |  |  |
-| Pseudechinosoma nodosum |  |  | x |  | x |  |  |  |  |  | x |  |  |  |
-| Pseudoblothrus vulcanus |  |  |  |  |  |  |  |  |  |  | x |  |  |  |
-| Pseudolycoriella campanulata |  |  |  |  |  |  |  |  |  |  | x |  |  |  |
-| Pseudosinella ashmoleorum |  |  |  | x |  |  |  |  |  |  | x |  |  |  |
-| Rachispoda atrolimosa |  |  |  |  |  |  |  |  |  | x |  |  |  |  |
-| Rugathodes acoreensis | x | x | x |  | x |  |  |  |  |  | x | x |  | x |
-| Sancus acoreensis | x | x | x | x | x |  |  |  |  |  | x | x |  |  |
-| Savigniorrhipis acoreensis | x | x | x | x | x |  |  | x |  |  | x | x |  | x |
-| Scaptomyza impunctata |  |  |  |  |  |  |  |  |  |  | x |  |  |  |
-| Scoparia aequipennalis |  | x | x |  |  |  |  |  |  |  | x |  |  | x |
-| Scoparia carvalhoi |  |  |  |  |  |  |  |  |  |  | x |  |  |  |
-| Scoparia coecimaculalis |  | x |  |  |  |  |  |  |  |  | x | x |  |  |
-| Scoparia semiamplalis | x | x |  |  |  |  |  |  |  |  | x |  |  |  |
-| Sphaerophoria nigra |  |  |  |  |  |  |  |  |  |  | x |  |  |  |
-| Steganacarus hirsutus | x |  |  |  |  |  |  | x |  |  | x |  |  |  |
-| Strophingia harteni | x | x | x | x | x |  |  |  |  | x | x |  |  | x |
-| Tarphius azoricus |  |  |  |  |  |  |  |  | x |  |  |  |  |  |
-| Trechus terrabravensis | x | x | x |  | x |  |  |  |  |  | x | x |  |  |
-| Trechus terceiranus | x |  |  | x |  |  |  |  |  |  | x |  |  | x |
-| Trigoniophthalmus borgesi | x | x | x |  | x |  |  | x |  |  | x | x |  | x |
-| Turinyphia cavernicola |  |  |  | x |  |  |  |  |  |  | x |  |  |  |
-| Udea azorensis |  |  | x |  |  |  |  |  |  |  | x |  |  | x |
-| Walckenaeria grandis | x | x | x |  | x |  |  |  |  |  | x | x |  |  |
-| Xanthorhoe inaequata | x | x | x | x | x |  |  |  |  |  | x | x |  | x |
+| **Acorigone acoreensis** | x | x | x |  | x |  |  | x |  |  | x | x |  | x |
+| **Alestrus dolosus** | x | x | x |  | x |  |  |  |  |  | x | x |  |  |
+| **Aphrodes hamiltoni** | x | x | x | x | x |  |  |  |  |  | x | x |  | x |
+| **Argyresthia atlanticella** | x | x | x | x | x |  |  | x |  | x | x | x |  | x |
+| **Ascotis fortunata** | x | x | x | x | x |  |  | x |  | x | x | x |  | x |
+| **Atheta dryochares** | x |  | x |  |  |  |  |  |  |  | x | x |  |  |
+| **Athous azoricus** |  |  |  |  |  |  |  | x |  |  | x |  |  |  |
+| **Atlantocis gillerforsi** |  |  | x |  |  |  |  | x |  |  | x |  |  |  |
+| **Calacalles subcarinatus** | x | x | x |  | x |  |  |  |  |  | x | x |  |  |
+| **Campachipteria weigmanni** | x |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Carabodes azoricus** | x |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Cedrorum azoricus** | x | x | x |  |  |  |  |  |  |  | x | x |  |  |
+| **Cerodontha bistrigata** |  |  |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Chrysotus elongatus** |  |  |  |  | x |  |  |  |  |  | x |  |  |  |
+| **Chrysotus vulcanicola** |  |  |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Cixius azoricus** | x | x | x | x |  |  |  |  |  |  | x |  |  |  |
+| **Cixius azoterceirae** | x | x | x | x | x |  |  | x | x | x | x | x |  | x |
+| **Cyclophora azorensis** | x | x | x | x | x |  |  | x |  |  | x | x |  | x |
+| **Damaeus pomboi** | x | x | x |  |  |  |  | x |  |  | x |  |  |  |
+| **Elipsocus azoricus** | x | x | x |  | x |  |  |  | x |  | x | x |  | x |
+| **Elipsocus brincki** | x | x | x |  | x |  |  | x |  |  | x | x |  | x |
+| **Emblyna acoreensis** |  |  |  |  |  |  |  |  |  | x | x |  |  |  |
+| **Ensina azorica** |  |  |  |  |  |  |  |  |  | x |  |  |  |  |
+| **Eudonia interlinealis** | x | x |  |  |  |  |  |  |  |  | x |  |  | x |
+| **Eudonia luteusalis** | x | x | x |  | x |  |  |  |  |  | x | x |  |  |
+| **Eupteryx azorica** | x |  |  |  |  |  |  |  |  |  | x |  |  | x |
+| **Galumna azoreana** |  |  |  |  |  |  |  | x | x |  | x |  |  |  |
+| **Gibbaranea occidentalis** | x | x | x |  | x |  |  | x |  | x | x | x | x | x |
+| **Graphania granti** |  |  |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Hemerobius azoricus** | x | x | x |  | x |  |  |  |  |  | x | x |  | x |
+| **Heminothrus oromii** | x |  |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Hermanniella incondita** |  |  |  |  |  |  |  | x |  |  | x |  |  |  |
+| **Hipparchia azorina** | x | x | x |  |  |  |  |  |  |  | x | x |  |  |
+| **Humerobates pomboi** | x |  | x |  |  |  |  | x |  |  | x |  |  |  |
+| **Hydroporus guernei** | x |  |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Javesella azorica** |  |  |  |  | x |  |  |  |  |  | x |  |  |  |
+| **Kowarzia sexmaculata** |  |  |  |  |  |  |  |  |  | x |  |  |  |  |
+| **Lasaeola oceanica** | x | x | x | x | x |  |  | x |  |  | x | x |  |  |
+| **Lepthyphantes acoreensis** | x | x | x |  | x |  |  | x |  |  | x | x |  | x |
+| **Liacarus angustatus** | x |  |  |  |  |  |  |  | x |  |  |  |  |  |
+| **Limnephilus atlanticus** | x | x |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Lithobius obscurus** | x |  |  | x |  |  |  |  |  |  | x |  |  |  |
+| **Megaselia leptofemur** | x |  |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Melanozetes azoricus** | x |  |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Mesapamea storai** |  |  | x |  | x |  |  |  |  |  | x |  |  | x |
+| **Micrurapteryx bistrigella** |  | x |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Minicia floresensis** | x | x | x |  |  |  |  |  |  |  | x | x |  |  |
+| **Neon acoreensis** | x | x | x |  | x |  |  |  |  |  | x |  |  |  |
+| **Noctua atlantica** |  |  | x |  |  |  |  |  |  |  | x |  |  | x |
+| **Noctua carvalhoi** |  |  |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Nothrus palustris** | x |  | x |  |  |  |  | x | x |  | x |  |  |  |
+| **Ommatocepheus parvilamellatus** | x |  |  |  |  |  |  | x |  |  | x |  |  |  |
+| **Orthotylus junipericola** |  | x |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Parachipetria floresiana** | x |  |  |  |  |  |  |  | x |  |  |  |  |  |
+| **Parachipetria insularis** | x | x |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Pardosa acorensis** | x | x | x | x | x |  |  | x |  |  | x | x |  | x |
+| **Phloeosinus gillerforsi** | x | x |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Phloeostiba azorica** | x |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Phlogophora furnasi** |  |  | x |  |  |  |  |  |  |  | x |  |  | x |
+| **Phlogophora interrupta** | x |  | x |  |  |  |  |  |  |  | x |  |  | x |
+| **Phthiracarus atlanticus** |  |  |  |  |  |  |  | x |  |  | x |  |  |  |
+| **Pilocepheus azoricus** | x |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Pinalitus oromii** | x | x | x |  | x |  |  | x |  |  | x | x |  | x |
+| **Pisaura acoreensis** | x | x | x | x | x |  |  | x |  |  | x | x |  | x |
+| **Pithanus maerkelii** | x | x |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Porrhomma borgesi** | x | x | x | x | x |  |  |  |  |  | x | x |  |  |
+| **Pseudechinosoma nodosum** |  |  | x |  | x |  |  |  |  |  | x |  |  |  |
+| **Pseudoblothrus vulcanus** |  |  |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Pseudolycoriella campanulata** |  |  |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Pseudosinella ashmoleorum** |  |  |  | x |  |  |  |  |  |  | x |  |  |  |
+| **Rachispoda atrolimosa** |  |  |  |  |  |  |  |  |  | x |  |  |  |  |
+| **Rugathodes acoreensis** | x | x | x |  | x |  |  |  |  |  | x | x |  | x |
+| **Sancus acoreensis** | x | x | x | x | x |  |  |  |  |  | x | x |  |  |
+| **Savigniorrhipis acoreensis** | x | x | x | x | x |  |  | x |  |  | x | x |  | x |
+| **Scaptomyza impunctata** |  |  |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Scoparia aequipennalis** |  | x | x |  |  |  |  |  |  |  | x |  |  | x |
+| **Scoparia carvalhoi** |  |  |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Scoparia coecimaculalis** |  | x |  |  |  |  |  |  |  |  | x | x |  |  |
+| **Scoparia semiamplalis** | x | x |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Sphaerophoria nigra** |  |  |  |  |  |  |  |  |  |  | x |  |  |  |
+| **Steganacarus hirsutus** | x |  |  |  |  |  |  | x |  |  | x |  |  |  |
+| **Strophingia harteni** | x | x | x | x | x |  |  |  |  | x | x |  |  | x |
+| **Tarphius azoricus** |  |  |  |  |  |  |  |  | x |  |  |  |  |  |
+| **Trechus terrabravensis** | x | x | x |  | x |  |  |  |  |  | x | x |  |  |
+| **Trechus terceiranus** | x |  |  | x |  |  |  |  |  |  | x |  |  | x |
+| **Trigoniophthalmus borgesi** | x | x | x |  | x |  |  | x |  |  | x | x |  | x |
+| **Turinyphia cavernicola** |  |  |  | x |  |  |  |  |  |  | x |  |  |  |
+| **Udea azorensis** |  |  | x |  |  |  |  |  |  |  | x |  |  | x |
+| **Walckenaeria grandis** | x | x | x |  | x |  |  |  |  |  | x | x |  |  |
+| **Xanthorhoe inaequata** | x | x | x | x | x |  |  |  |  |  | x | x |  | x |
 
 º Sem informação ou dados disponíveis para esta AP.
 
@@ -3049,3 +3186,7 @@ APGHEPB - Área Protegida para a Gestão de Habitats ou Espécies do Pico do Boi
 APPVB - Área de Paisagem Protegida das Vinhas dos Biscoitos.
 
 APGRCGM - Área Protegida de Gestão de Recursos da Caldeira de Guilherme Moniz.
+
+119949001
+
+.Tbl1 { border-collapse:collapse; border-width:1px; border-color:rgb(191,191,191); border-style:dotted; } .Tbl2 { min-height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:42px; } .Tbl6 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(228,205,245); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(228,205,245); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl9 { min-height:66px; } .Tbl10 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { min-height:51px; } .Tbl13 { min-height:36px; } .Tbl14 { min-height:58px; } .Tbl15 { min-height:18px; } .Tbl16 { min-height:152px; } .Tbl17 { min-height:28px; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl19 { min-height:37px; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl21 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl22 { border-collapse:collapse; border-width:1px; border-color:rgb(126,126,126); border-style:dotted; } .Tbl23 { min-height:156px; } .Tbl24 { min-height:151px; } .Tbl25 { min-height:462px; } .Tbl26 { min-height:123px; } .Tbl27 { border-collapse:collapse; border-width:1px; border-color:rgb(166,166,166); border-style:dotted; } .Tbl28 { min-height:17px; } .Tbl29 { border-bottom-color:rgb(166,166,166); border-top-color:rgb(166,166,166); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:dotted; border-left-color:rgb(166,166,166); border-bottom-width:1px; border-bottom-style:dotted; border-right-style:dotted; border-right-color:rgb(166,166,166); border-left-style:dotted; vertical-align:top; } .Tbl30 { min-height:27px; } .Tbl31 { min-height:62px; } .Tbl32 { min-height:52px; } .Tbl33 { min-height:77px; } .Tbl34 { min-height:43px; } .Tbl35 { min-height:108px; } .Tbl36 { min-height:87px; } .Tbl37 { min-height:102px; } .Tbl38 { min-height:68px; } .Tbl39 { min-height:19px; } .Tbl40 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl41 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(172,123,210); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl42 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl43 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(217,149,148); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl44 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(194,214,155); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl45 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(250,191,143); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl46 { min-height:23px; } .Tbl47 { min-height:29px; } .Tbl48 { min-height:39px; } .Tbl49 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl50 { border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl51 { min-height:65px; } .Tbl52 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl53 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl54 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl55 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(172,123,210); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl56 { height:18px; } .Tbl57 { min-height:45px; } .Tbl58 { border-collapse:collapse; border-width:1px; border-color:rgb(217,217,217); border-style:dotted; } .Tbl59 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl60 { border-collapse:collapse; border-width:1px; border-color:rgb(217,217,217); } .Tbl61 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(172,123,210); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl62 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(172,123,210); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl63 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(172,123,210); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl64 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl65 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl66 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(194,214,155); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl67 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl68 { min-height:54px; } .Tbl69 { text-align:justify; text-align-last:justify; } .Tbl70 { min-height:31px; } .Tbl71 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl72 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl73 { min-height:20px; } .Tbl74 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl75 { border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl76 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl77 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl78 { min-height:53px; } .Tbl79 { min-height:47px; } .Tbl80 { min-height:49px; } .Tbl81 { min-height:57px; } .Tbl82 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl83 { border-collapse:collapse; border-width:1px; border-color:rgb(128,128,128); border-style:dotted; } .Tbl84 { min-height:33px; }

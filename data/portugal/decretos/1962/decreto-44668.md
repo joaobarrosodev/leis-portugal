@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44668-1962-156199
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-11-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:31:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f517ced65dcc4e2b15f32bd2d6c75dbd44918a0b7e426bcf4e33b2066fbe5b07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56219609ada9b428dc47040a17ac9c6bd746f8198b830b641fa8e65080558923
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:31:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:247388:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:31:56Z'
   warnings: []
   errors: []
 ---
@@ -87,9 +91,9 @@ Convindo introduzir reajustamentos nas normas que regem o funcionamento das Ofic
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os artigos 8.º, 17.º, 18.º, 19.º e 22.º do Regulamento das Oficinas Gerais de Material Aeronáutico, aprovado pelo [Decreto n.º 40393](https://diariodarepublica.pt/dr/detalhe/decreto/40393-1955-247388), de 22 de Novembro de 1955, passam a ter as redacções que seguem:
+Artigo único. Os artigos 8.º, 17.º, 18.º, 19.º e 22.º do Regulamento das Oficinas Gerais de Material Aeronáutico, aprovado pelo [Decreto n.º 40393](https://diariodarepublica.pt/dr/detalhe/decreto/40393-1955-247388), de 22 de Novembro de 1955, passam a ter as redacções que seguem:
 
-###### Art. 8.º São da responsabilidade do director o impulsionamento, a orientação geral e a coordenação de todos os serviços.
+Art. 8.º São da responsabilidade do director o impulsionamento, a orientação geral e a coordenação de todos os serviços.
 
 Os serviços gerais são colocados na dependência de um oficial da Força Aérea, do activo ou na situação de reserva.
 
@@ -101,7 +105,7 @@ Os serviços de contabilidade serão chefiados por um oficial do serviço de int
 
 ...
 
-###### Art. 17.º A 1.ª divisão compreende o gabinete de estudos, a organização e vigilância da produção, os orçamentos fabris, os armazéns industriais e a verificação, competindo ao chefe dos serviços industriais a sua gerência directa.
+Art. 17.º A 1.ª divisão compreende o gabinete de estudos, a organização e vigilância da produção, os orçamentos fabris, os armazéns industriais e a verificação, competindo ao chefe dos serviços industriais a sua gerência directa.
 
 § 1.º O gabinete de estudos tem a seu cargo tudo o que respeita a planos e projectos da fabricação, bem como os assuntos relativos aos correspondentes trabalhos de investigação, em relação com o Laboratório Nacional de Engenharia Civil ou quaisquer outros institutos oficiais de investigação.
 
@@ -115,7 +119,7 @@ Por intermédio destes serviços são fixadas e registadas as necessidades em m�
 
 Todas as normas de verificação e métodos de ensaio que podem exercer-se destacadamente junto das diversas oficinas da responsabilidade destes serviços.
 
-###### Art. 18.º A 2.ª divisão, que compreende os seguintes agrupamentos oficinais:
+Art. 18.º A 2.ª divisão, que compreende os seguintes agrupamentos oficinais:
 
 a) Secção de estruturas de aviões;
 
@@ -143,7 +147,7 @@ f) Secção de equipamentos terrestres;
 
 § 6.º A secção de equipamentos terrestres ocupa-se da reparação de equipamentos necessários ao apoio no solo dos aviões ou ao funcionamento de instalações fixas.
 
-###### Art. 19.º A 3.ª divisão, que compreende os seguintes agrupamentos oficinais:
+Art. 19.º A 3.ª divisão, que compreende os seguintes agrupamentos oficinais:
 
 a) Secção de electricidade;
 
@@ -165,8 +169,8 @@ d) Secção de instrumentos;
 
 ...
 
-###### Art. 22.º A direcção do estabelecimento compete a um director, oficial engenheiro aeronáutico ou electrotécnico da Força Aérea, nomeado pelo Secretário de Estado da Aeronáutica. Na sua ausência ou impedimento, a direcção interina compete ao subdirector, oficial engenheiro aeronáutico ou electrotécnico da Força Aérea, que é também nomeado pelo Secretário de Estado da Aeronáutica, mediante proposta do director.
+Art. 22.º A direcção do estabelecimento compete a um director, oficial engenheiro aeronáutico ou electrotécnico da Força Aérea, nomeado pelo Secretário de Estado da Aeronáutica. Na sua ausência ou impedimento, a direcção interina compete ao subdirector, oficial engenheiro aeronáutico ou electrotécnico da Força Aérea, que é também nomeado pelo Secretário de Estado da Aeronáutica, mediante proposta do director.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Novembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Kaulza Oliveira de Arriaga.

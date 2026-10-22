@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44558-1962-159701
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-09-08T00:00:00Z'
+  retrieved_at: '2026-10-22T19:31:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96650bb696c6e420ef729d17e16c780ecf473425c56339649b5c28d2b1a894f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b6f8e174ed1652201e5a44c05b301c6c116547064bd8bc1aadbef182ae91aee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:31:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:170157:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:31:06Z'
   warnings: []
   errors: []
 ---
@@ -87,10 +91,10 @@ Com fundamento no disposto no artigo 7.º do [Decreto-Lei n.º 44433](https://di
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças, a favor do mesmo Ministério, um crédito especial da quantia de 100100000$00, destinado a reforçar o artigo 289.º-A «Empréstimos a bancos de investimento, destinados a financiar empreendimentos abrangidos pelo II Plano de Fomento, nos termos do [Decreto-Lei n.º 44433](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44433-1962-170157), de 29 de Junho de 1962», do capítulo 20.º, do vigente orçamento do referido Ministério.
+Artigo 1.º É aberto no Ministério das Finanças, a favor do mesmo Ministério, um crédito especial da quantia de 100100000$00, destinado a reforçar o artigo 289.º-A «Empréstimos a bancos de investimento, destinados a financiar empreendimentos abrangidos pelo II Plano de Fomento, nos termos do [Decreto-Lei n.º 44433](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44433-1962-170157), de 29 de Junho de 1962», do capítulo 20.º, do vigente orçamento do referido Ministério.
 
-###### Art. 2.º Para compensação do crédito aludido no artigo anterior, é adicionada igual quantia à verba inscrita no capítulo 9.º «Receita extraordinária», artigo 276.º-B «Crédito externo - Classe IV», do orçamento das receitas para o actual ano económico.
+Art. 2.º Para compensação do crédito aludido no artigo anterior, é adicionada igual quantia à verba inscrita no capítulo 9.º «Receita extraordinária», artigo 276.º-B «Crédito externo - Classe IV», do orçamento das receitas para o actual ano económico.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 8 de Setembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa.

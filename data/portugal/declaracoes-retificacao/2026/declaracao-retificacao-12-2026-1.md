@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/12/2026/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/12-2026-1074104063
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-19T00:00:00Z'
+  retrieved_at: '2026-10-22T18:35:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac285066d4c5dc71585803df6cb75f3055b6238399283d38b7f2c8704007285f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d7be363034ca66d4767f0359b1323e9341ad8b847afc5e2036945429aa38c9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:35:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- CIC Portugal 2030
 - Comissão Interministerial
-- Desenvolvimento Social
-- Rectificação de Entidade Emitente
-- Regulamentação de Atos Legislativos
-- Fundos CE
 - Desenvolvimento Económico
-- Política Social
+- Desenvolvimento Social
 - Estratégia Portugal 2030
-- Portugal 2030
 - Fundo para Uma Transição Justa
 - Fundo Social Europeu Mais
-- CIC Portugal 2030
+- Fundos CE
+- Política Social
+- Portugal 2030
 - Programa Temático Demografia Qualificações e Inclusão (PDQI)
-- Regulamento Específico da Área Temática Demografia
-- Qualificações e Inclusão
+- Rectificação de Entidade Emitente
+- Regulamentação de Atos Legislativos
+- Regulamento Específico da Área Temática Demografia, Qualificações e Inclusão
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/43-b/2024/07/02/p/dre
@@ -102,16 +101,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/86/2026/02/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/86/2026/02/20/p/dre
+- type: cites
+  target: pt:dre:1055043922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223473637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:940951437:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:portaria:86/2026
+  label: Retifica o n.º 3 da Portaria n.º 86/2026/1, de 20 de fevereiro, Diário da República n.º 36/2026, Série I
+  source: null
+  date: '2026-02-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:35:54Z'
   warnings: []
   errors: []
 ---
@@ -129,3 +161,5 @@ deve ler-se:
 «3 - Determinar que a presente portaria entra em vigor no dia seguinte ao da sua publicação, sem prejuízo das alterações aos artigos 71.º e 111.º e ao anexo i relativo à formação avançada que produzem efeitos à data da entrada em vigor da [Portaria n.º 325/2023](https://diariodarepublica.pt/dr/detalhe/portaria/325-2023-223473637), de 30 de outubro, e das alterações ao artigo 230.º-AAA e ao anexo i relativo à tipologia de operação capacitação de públicos estratégicos para a cidadania e inclusão, com vista à inclusão de pessoas com deficiência e ou incapacidade, bem como aos artigos 230.º-EEEE, 230.º-FFFF, 230.º-GGGG, 230.º-HHHH e 230.º-IIII, aditados pelo artigo 2.º da presente portaria, que produzem efeitos a 29 de março de 2025.»
 
 Secretaria-Geral do Governo, 16 de março de 2026. - O Secretário-Geral Adjunto, Joaquim Cruz.
+
+119948029

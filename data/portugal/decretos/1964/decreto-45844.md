@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45844-1964-580101
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-08-01T00:00:00Z'
+  retrieved_at: '2026-10-22T19:41:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e041534f3f888c87de53e910213987e6c5b7073ecc9d1d1d0b59bf0de939d4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c87da8d928eb799cd48ef78017da149969adb7148186a2477f0db002c535049f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:41:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:41:22Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +96,7 @@ Considerando o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 41375
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, o seguinte: Artigo 1.º É a Secretaria de Estado da Aeronáutica autorizada a celebrar contratos com diversas entidades nacionais e estrangeiras, incluindo os seus próprios estabelecimentos fabris, nos anos económicos de 1964 e 1965, para aquisição imediata de material de guerra e outro equipamento, até ao montante de 1482100 contos.
 
-###### Art. 2.º Os encargos resultantes da execução deste diploma serão satisfeitos pelas seguintes verbas, de forma a que não excedam em cada ano os quantitativos seguintes:
+Art. 2.º Os encargos resultantes da execução deste diploma serão satisfeitos pelas seguintes verbas, de forma a que não excedam em cada ano os quantitativos seguintes:
 
 No ano de 1965: ... Contos
 
@@ -134,14 +138,14 @@ Pelo O. S. D. (do capítulo Aeronáutica) ... 37000
 
 § único. Os contratos serão elaborados de modo que em cada mês não haja a obrigação de pagar mais de um décimo do encargo anual indicado no corpo do artigo.
 
-###### Art. 3.º Quando os pagamentos diferidos para 1965, 1966 e 1967 originarem ónus especial sobre os preços fixados para 1964 e 1965, a respectiva disposição contratual está sujeita ao acordo prévio do Ministro das Finanças.
+Art. 3.º Quando os pagamentos diferidos para 1965, 1966 e 1967 originarem ónus especial sobre os preços fixados para 1964 e 1965, a respectiva disposição contratual está sujeita ao acordo prévio do Ministro das Finanças.
 
 § único. O encargo que, em função da data do pagamento, resultar da execução do corpo deste artigo acrescerá ao valor do fornecimento que será satisfeito pela mesma dotação, dentro dos limites constantes do artigo 2.º desta diploma.
 
-###### Art. 4.º A 1.ª Repartição da Direcção-Geral da Contabilidade Pública registará em conta especial os títulos que autorizar em execução do presente diploma, à qual será enviada, para tanto, fotocópia dos contratos celebrados entre a Secretaria de Estado da Aeronáutica e os respectivos fornecedores.
+Art. 4.º A 1.ª Repartição da Direcção-Geral da Contabilidade Pública registará em conta especial os títulos que autorizar em execução do presente diploma, à qual será enviada, para tanto, fotocópia dos contratos celebrados entre a Secretaria de Estado da Aeronáutica e os respectivos fornecedores.
 
-###### Art. 5.º Por acordo entre o Ministro das Finanças e o Secretário de Estado da Aeronáutica poder-se-á, em qualquer altura da execução dos contratos, antecipar, total ou parcialmente, o pagamento das prestações vincendas, caducando, na parte antecipada, o ónus especial previsto no artigo 3.º deste decreto.
+Art. 5.º Por acordo entre o Ministro das Finanças e o Secretário de Estado da Aeronáutica poder-se-á, em qualquer altura da execução dos contratos, antecipar, total ou parcialmente, o pagamento das prestações vincendas, caducando, na parte antecipada, o ónus especial previsto no artigo 3.º deste decreto.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 1 de Agosto de 1964. - ANTÓNIO DE OLIVEIRA SALAZAR - Manuel Gomes de Araújo - António Manuel Pinto Barbosa - Francisco António das Chagas.

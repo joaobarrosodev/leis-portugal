@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/19/2026/02/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/19-2026-1034985556
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-04T00:00:00Z'
+  retrieved_at: '2026-10-22T18:31:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 149e0b6153d9247fcc8b5d1de124ce8548633e325b900d768c928e3ab4a7f834
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 272bf41fe15b0dbbeebc0cea39a0140612c04d6f405d0b7014d5ac3db722c473
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:31:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Comissão de Acompanhamento
 - Criação de Serviços
-- Regulamentação de Atos Legislativos
 - Extinção de Serviços
+- Financiamento
 - Mandato
 - Programa
+- Regulamentação de Atos Legislativos
 - Relatório
 - Unidade Nacional de Gestão do Mecanismo Financeiro do Espaço Económico Europeu
 relationships:
@@ -96,16 +96,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/73/2023/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/73/2023/07/14/p/dre
+- type: cites
+  target: pt:dre:106579659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206478423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215647918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:resolucao-conselho-ministros:73/2023
+  label: Revoga, a partir de 05 de fevereiro de 2026, nos termos do n.º 15, a Resolução do Conselho de Ministros n.º 73/2023,
+    de 14 de julho, Diário da República n.º 136/2023, Série I, e determina que a UNG-MFEEE 2021-2028 sucede nas competências,
+    nos direitos e nas obrigações da Unidade Nacional de Gestão do Mecanismo Financeiro do Espaço Económico Europeu 2014-2021
+  source: null
+  date: '2023-07-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:31:17Z'
   warnings: []
   errors: []
 ---
@@ -199,3 +226,5 @@ i) Um representante das instituições de ensino superior relacionadas com a inv
 16 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 9 de janeiro de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119947547

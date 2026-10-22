@@ -23,7 +23,7 @@ publication:
   reference: Diário da República n.º 49/1999, 2º Suplemento, Série I-A de 1999-02-27
   number: '49'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1090-(5) a 1090-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/02/049a02/00050005.pdf
 entry_into_force_dates: []
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/7-c/1999/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-c-1999-188699
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-02-27T00:00:00Z'
+  retrieved_at: '2026-10-22T18:54:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80f40510b26d545c9dd23464a1a2d11a422e694e916f389723f758c88b7f056e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c9960babe905663c7a2ea6d833b3dd58d4dabb5921d4e66e3ba0c55360d9b4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:54:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,64 +72,68 @@ subjects:
 - Accionista
 - Acordo
 - Adjudicação
-- Metropolitano de Lisboa
 - Arbitragem
 - ÁREA Metropolitana
 - Associação Nacional de Municípios Portugueses
-- Financiamento
-- Sociedade Anónima
 - Caminhos de Ferro Portugueses
-- Inspeção Geral de Finanças
-- Serviço Nacional de Protecção Civil
+- Comissão de Trabalhadores
 - Concurso Público Internacional
-- Direcção Geral do Tesouro
 - Contrato de Concessão
 - CP
-- Transporte Ferroviário
 - Direcção Geral do Ambiente
+- Direcção Geral do Tesouro
 - Direcção Geral dos Transportes Terrestres
-- Comissão de Trabalhadores
-- Propriedade do Estado
-- União Europeia
 - Estatuto
 - Expropriação
+- Financiamento
 - Fiscalização
-- Ministro das Finanças
-- Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
 - Infraestrutura dos Transportes
+- Inspeção Geral de Finanças
+- Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
 - Instituto Nacional do Transporte Ferroviário
 - Isenção Fiscal
-- LNEC
 - Laboratório Nacional de Engenharia Civil
+- LNEC
+- Metro do Porto
+- Metropolitano de Lisboa
+- Ministro das Finanças
 - Ministro do Equipamento do Planeamento e da Administração do Território
 - Obras Públicas
-- Sanção Penal
+- Porto
 - Preço
-- Serviço Público
+- Propriedade do Estado
 - Refer
 - Regime de Exclusividade
+- Sanção Penal
 - Santo Tirso
+- Serviço Nacional de Protecção Civil
+- Serviço Público
+- Sociedade Anónima
 - Sociedade de Transportes Colectivos do Porto
-- Metro do Porto
 - STCP
 - Transporte de Passageiros
-- Porto
+- Transporte Ferroviário
 - Trofa
+- União Europeia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/394-a/1998/12/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/394-a/1998/12/15/p/dre
+- type: cites
+  target: pt:dre:324333:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:54:47Z'
   warnings: []
   errors: []
 ---

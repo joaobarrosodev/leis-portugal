@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45350-1963-688223
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-11-13T00:00:00Z'
+  retrieved_at: '2026-10-22T19:37:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c5b8363f1ec3530650277c7b097acee83c6c2ed3c7b227755694e1a7e6c373a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff20cec174f0fca5aa69949a191354bc0c586c375738f940b8e9e4cb40ced0af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:37:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686791:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:37:28Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +104,9 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os n.os 1 e 3 do artigo 2.º, o n.º 3 do artigo 5.º e a alínea d) do n.º 1 do artigo 8.º do [Decreto n.º 45258](https://diariodarepublica.pt/dr/detalhe/decreto/45258-1963-686790), de 21 de Setembro de 1963, passam a ter a seguinte redacção:
+Artigo 1.º Os n.os 1 e 3 do artigo 2.º, o n.º 3 do artigo 5.º e a alínea d) do n.º 1 do artigo 8.º do [Decreto n.º 45258](https://diariodarepublica.pt/dr/detalhe/decreto/45258-1963-686790), de 21 de Setembro de 1963, passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1. O vice-presidente da comissão a que se refere o n.º 3 do artigo 1.º do Decreto-Lei n.º 45422, de 30 de Agosto de 1963, e a quem cabe a superintendência e orientação superior dos serviços previstos neste decreto, terá a categoria e vencimentos correspondentes à letra B do artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885) e será nomeado por livre escolha do Ministro do Ultramar de entre pessoas que pelas suas especiais qualificações e serviços prestados possuam comprovada idoneidade para o exercício do cargo. A nomeação poderá ser feita em comissão, quer recaia ou não em funcionário.
+Art. 2.º - 1. O vice-presidente da comissão a que se refere o n.º 3 do artigo 1.º do Decreto-Lei n.º 45422, de 30 de Agosto de 1963, e a quem cabe a superintendência e orientação superior dos serviços previstos neste decreto, terá a categoria e vencimentos correspondentes à letra B do artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885) e será nomeado por livre escolha do Ministro do Ultramar de entre pessoas que pelas suas especiais qualificações e serviços prestados possuam comprovada idoneidade para o exercício do cargo. A nomeação poderá ser feita em comissão, quer recaia ou não em funcionário.
 
 2. ...
 
@@ -102,7 +114,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 ...
 
-###### Art. 5.º - 1. ...
+Art. 5.º - 1. ...
 
 2. ...
 
@@ -110,7 +122,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 ...
 
-###### Art. 8.º - 1. ...
+Art. 8.º - 1. ...
 
 a) ...
 
@@ -120,7 +132,7 @@ c) ...
 
 d) Os técnicos de 2.ª classe e o chefe de secretaria serão de livre escolha do Ministro de entre os funcionários de categoria não inferior a chefe de secção dos quadros do Ministério ou do ultramar ou entre diplomados com um curso superior adequado pertencentes aos quadros do Ministério do Ultramar, de outros Ministérios ou dos serviços ultramarinos e ainda entre pessoas estranhas aos serviços públicos.
 
-###### Art. 2.º Ao n.º 1 do artigo 8.º são ainda acrescidas as seguintes alíneas:
+Art. 2.º Ao n.º 1 do artigo 8.º são ainda acrescidas as seguintes alíneas:
 
 e) O chefe de secção será de livre escolha do Ministro do Ultramar de entre funcionários do Ministério do Ultramar e organismos dependentes com categoria não inferior a primeiro-oficial ou equivalente;
 
@@ -128,9 +140,9 @@ f) Os primeiros, segundos e terceiros-oficiais serão de livre escolha do Minist
 
 h) O Ministro do Ultramar pode requisitar a outros departamentos do Estado funcionários para prestarem serviço no Gabinete de Planeamento e Integração Económica, em comissão de serviço.
 
-###### Art. 3.º Ao artigo 2.º do [Decreto n.º 45259](https://diariodarepublica.pt/dr/detalhe/decreto/45259-1963-686791), de 21 de Setembro de 1963, são aditados os seguintes parágrafos:
+Art. 3.º Ao artigo 2.º do [Decreto n.º 45259](https://diariodarepublica.pt/dr/detalhe/decreto/45259-1963-686791), de 21 de Setembro de 1963, são aditados os seguintes parágrafos:
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 a) ...
 
@@ -148,9 +160,9 @@ f) ...
 
 § 2.º Aos membros dos grupos de trabalho poderão, por despacho do governador da província, ser atribuídas gratificações por uma só vez ou pagas mensalmente, quando se trate de trabalhos com certa periodicidade.
 
-###### Art. 4.º O n.º 4 do artigo 4.º do citado [Decreto n.º 45259](https://diariodarepublica.pt/dr/detalhe/decreto/45259-1963-686791) passa a ter a seguinte redacção:
+Art. 4.º O n.º 4 do artigo 4.º do citado [Decreto n.º 45259](https://diariodarepublica.pt/dr/detalhe/decreto/45259-1963-686791) passa a ter a seguinte redacção:
 
-###### Art. 4.º - 1. ...
+Art. 4.º - 1. ...
 
 2. ...
 
@@ -158,7 +170,7 @@ f) ...
 
 4. A presidência da comissão pertencerá sempre ao governador da província, o qual, porém, nas províncias de governo-geral, poderá, sempre que o entenda, delegar a presidência no secretário provincial que designar para o efeito e, nas províncias de governo simples, no secretário-geral, quando o haja, ou, na sua falta, no chefe dos serviços que designar para o efeito.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 13 de Novembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

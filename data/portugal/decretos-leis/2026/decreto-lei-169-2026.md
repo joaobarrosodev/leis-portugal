@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/169/2026/08/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2026-1159106557
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-18T00:00:00Z'
+  retrieved_at: '2026-10-22T18:50:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 220a400d27435d487416ba789e3f23b5fef19aacbe0a08c6de75330ab798c173
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9823a7b380132d036f25f4220d3a3795e87663ee722d2f07decbfaa5a997941
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:50:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Administração Central do Sistema de Saúde
 - Assistência Médica
 - Assistência Medicamentosa
-- Comparticipação do Estado
-- Terceira Idade
-- Definição de Competências
-- Pagamento
-- Insuficiência Económica
 - Centro de Saúde
-- Administração Central do Sistema de Saúde
-- Madeira.região Autónoma
-- Açores
+- Comparticipação do Estado
 - Complemento Solidário para Idosos
+- Definição de Competências
+- Insuficiência Económica
+- Madeira.região Autónoma
+- Pagamento
+- Terceira Idade
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:252/2007
+  label: Altera, a partir de 17 de outubro de 2026, os artigos 2.º e 4.º e adita o artigo 2.º-A ao do Decreto-Lei n.º 252/2007,
+    de 5 de julho, Diário da República n.º 128/2007, Série I
+  source: null
+  date: '2007-07-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/176/2006/08/30/p/dre
   label: null
@@ -103,16 +109,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/94/2020/11/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/94/2020/11/03/p/dre
+- type: cites
+  target: pt:dre:147432951:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:867193656:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:50:49Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +167,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto-lei procede à terceira alteração ao [Decreto-Lei n.º 252/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2007-635801), de 5 de julho, alterado pelos Decretos-Leis n.<sup>os</sup>[94/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2020-147432951), de 3 de novembro, e [37/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2024-867193656), de 28 de maio, que cria um regime de benefícios adicionais de saúde para os beneficiários do complemento solidário para idosos, instituído pelo [Decreto-Lei n.º 232/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-2005-469064), de 29 de dezembro.
+O presente decreto-lei procede à terceira alteração ao [Decreto-Lei n.º 252/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2007-635801), de 5 de julho, alterado pelos Decretos-Leis n.os[94/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2020-147432951), de 3 de novembro, e [37/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2024-867193656), de 28 de maio, que cria um regime de benefícios adicionais de saúde para os beneficiários do complemento solidário para idosos, instituído pelo [Decreto-Lei n.º 232/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-2005-469064), de 29 de dezembro.
 
 ###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 252/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2007-635801), de 5 de julho
 
@@ -165,7 +195,9 @@ d) [Anterior alínea c).]
 
 3 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 Para efeito de acesso às participações financeiras referidas no n.º 1 do artigo 2.º, os beneficiários do complemento solidário para idosos devem apresentar no centro de saúde onde estão inscritos pessoalmente, por representante ou por correio, os seguintes documentos:
 
@@ -183,7 +215,7 @@ c) [...]»
 
 Garantias do utente
 
-1 - A violação dos deveres de dispensa e de informação previstos nos n.<sup>os</sup>2, 3 e 4 do artigo 120.º-A do [Decreto-Lei n.º 176/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), de 30 de agosto, determina a dispensa imediata do medicamento equivalente escolhido pelo utente, da qual não pode resultar o pagamento de qualquer montante acrescido por parte do beneficiário do complemento solidário para idosos.
+1 - A violação dos deveres de dispensa e de informação previstos nos n.os2, 3 e 4 do artigo 120.º-A do [Decreto-Lei n.º 176/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), de 30 de agosto, determina a dispensa imediata do medicamento equivalente escolhido pelo utente, da qual não pode resultar o pagamento de qualquer montante acrescido por parte do beneficiário do complemento solidário para idosos.
 
 2 - O disposto no número anterior não prejudica a aplicação do regime sancionatório previsto na alínea a) do n.º 1 do artigo 48.º do [Decreto-Lei n.º 307/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2007-641148), de 31 de agosto.»
 
@@ -193,12 +225,14 @@ O presente decreto-lei entra em vigor 60 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de abril de 2026. - Luís Montenegro - José Maria Gonçalves Pereira Brandão de Brito - Ana Paula Martins - Rosário Palma Ramalho.
 
-**Promulgado em 7 de agosto de 2026.**
+Promulgado em 7 de agosto de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 10 de agosto de 2026.**
+Referendado em 10 de agosto de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119949330

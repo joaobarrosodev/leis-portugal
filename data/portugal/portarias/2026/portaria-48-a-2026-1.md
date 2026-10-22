@@ -95,6 +95,12 @@ relationships:
   label: Altera Artigo 2.º
   source: https://diariodarepublica.pt/dr/detalhe/portaria/134-2026-1080123524
   date: '2026-03-31'
+- type: amends
+  target: pt:numero:portaria:138/2025
+  label: Determina, com efeitos desde 7 de janeiro de 2026 a 31 de março de 2026, a suspensão temporária da aplicação dos
+    n.ºs 4 e 5 do artigo 3.º da Portaria n.º 138/2025/1, de 28 de março, Diário da República n.º 62/2025, Série I
+  source: null
+  date: '2025-03-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1-a/2026/01/06/p/dre
   label: null
@@ -111,6 +117,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/138/2025/03/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/138/2025/03/28/p/dre
+- type: cites
+  target: pt:dre:912256331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:912820667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:998824792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:998824794:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 32/1996, 1º Suplemento, Série I-A de 1996-02-07
   number: '32'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 248-(2) a 248-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/02/032a01/00020004.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/1-g/1996/02/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-g-1996-302507
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-02-07T00:00:00Z'
+  retrieved_at: '2026-10-22T18:46:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 756daf5ed75f868f9065ed5b4da46e4181f6cd3f5765e934f2725ce1acf6d7df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44d4ffff68bdb53c8c8f22e880de8078f3805768b37ec0f1c95df7b63dfa94aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:46:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alteração Orçamental
-- Ministério da Defesa Nacional
-- Ministério da Administração Interna
-- Ministério da Educação
 - Despesas Públicas
 - Encargos Gerais da Nação
+- Ministério da Administração Interna
 - Ministério da Agricultura
-- Ministério do MAR
-- Ministério das Obras Públicas Transportes e Comunicações
-- Ministério da Justiça
+- Ministério da Defesa Nacional
+- Ministério da Educação
 - Ministério da Indústria e Energia
+- Ministério da Justiça
+- Ministério da Saúde
+- Ministério das Obras Públicas Transportes e Comunicações
 - Ministério do Ambiente e Recursos Naturais
 - Ministério do Emprego e da Segurança Social
+- Ministério do MAR
+- Ministério dos Negócios Estrangeiros
 - Ministro do Planeamento e da Administração do Território
-- Orçamento Geral do Estado
 - Orçamento
+- Orçamento Geral do Estado
 - Política Orçamental
 - Receita Pública
-- Ministério da Saúde
-- Ministério dos Negócios Estrangeiros
 - Segurança Social
 relationships:
 - type: cites
@@ -96,16 +96,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/92-a/1995/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/92-a/1995/12/28/p/dre
+- type: cites
+  target: pt:dre:233945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621765:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:46:29Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +134,7 @@ Alteração das despesas do Estado especificadas segundo a classificação orgâ
 
 [substitui, na parte alterada, o mapa II a que se refere a alínea a) do artigo 1.º da [Lei n.º 39-B/94](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), de 27 de Dezembro]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/02/032a01/00020004.pdf))](https://files.diariodarepublica.pt/1s/1996/02/032a01/00020004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/02/032a01/00020004.pdf)
 
 MAPA III
 
@@ -134,4 +142,4 @@ Alteração das despesas do Estado especificadas segundo a classificação funci
 
 [substitui, na parte alterada, o mapa III a que se refere a alínea a) do artigo 1.º da [Lei n.º 39-B/94](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), de 27 de Dezembro]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/02/032a01/00020004.pdf))](https://files.diariodarepublica.pt/1s/1996/02/032a01/00020004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/02/032a01/00020004.pdf)

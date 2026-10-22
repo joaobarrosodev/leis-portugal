@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/136-b/2026/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/136-b-2026-1080495710
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:37:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 061f09b7900da64d046e44ed2d1397ab5915e0924e795006e465ec5d7ff6d7fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f27bd9aa037c61d2d3dc0a994221d255b6761d79226dcd4eb6124bfe2646c36c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:37:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
 subjects:
 - Agrupamento de Escolas
 - Concurso
-- Regulamentação de Atos Legislativos
-- Educador de Infância
-- Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário
-- Recrutamento de Pessoal
-- Ensino Secundário
-- Pessoal Docente
-- Ensino Básico
 - Educação Pré-escolar
+- Educador de Infância
+- Ensino Básico
+- Ensino Secundário
+- Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário
+- Pessoal Docente
+- Recrutamento de Pessoal
+- Regulamentação de Atos Legislativos
 - ZONA Pedagógica
 relationships:
 - type: cites
@@ -90,16 +90,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/32-a/2023/05/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/32-a/2023/05/08/p/dre
+- type: cites
+  target: pt:dre:212770101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:911089430:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:37:11Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +156,7 @@ A presente portaria fixa a dotação das vagas dos quadros dos agrupamentos de e
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 30 de março de 2026. - O Ministro da Educação, Ciência e Inovação, Fernando Alexandre, em 23 de março de 2026.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 30 de março de 2026. - O Ministro da Educação, Ciência e Inovação, Fernando Alexandre, em 23 de março de 2026.
 
 ## ANEXO I — Vagas de quadro de agrupamento de escolas e escolas não agrupadas
 
@@ -1368,3 +1384,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 | 62 | 2 | 15 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 19 |
 | 63 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 5 |
 | Total | 441 | 998 | 32 | 52 | 17 | 55 | 121 | 83 | 47 | 66 | 13 | 227 | 0 | 45 | 89 | 0 | 16 | 0 | 86 | 71 | 69 | 33 | 235 | 93 | 126 | 11 | 7 | 68 | 1 | 78 | 0 | 188 | 465 | 3 | 3 | 3839 |
+
+119948144
+
+.Tbl2 { min-height:113px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:left; } .Tbl5 { min-height:18px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { min-height:28px; } .Tbl11 { text-align:center; } .Tbl12 { min-height:37px; } .Tbl13 { min-height:19px; } .Tbl14 { min-height:29px; } .Tbl15 { min-height:39px; } .Tbl16 { min-height:27px; } .Tbl17 { min-height:36px; } .Tbl18 { min-height:38px; } .Tbl19 { min-height:26px; } .Tbl20 { min-height:17px; } .Tbl21 { min-height:35px; } .Tbl22 { min-height:20px; } .Tbl23 { min-height:30px; } .Tbl24 { min-height:40px; }

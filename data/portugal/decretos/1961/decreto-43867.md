@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43867-1961-174121
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-08-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:25:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22d2535506693fc1bdfea7766b75926cff96ffef838bda721ff776691bbf79bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db902cbec95c7b8da0ab1add8c98bf33e47d80c7e26f1fcb9cc1ebb940a6d069
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:25:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:238407:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:25:09Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +94,7 @@ Assim, tendo em vista os estudos efectuados, ouvidas as autoridades eclesiástic
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A delimitação das freguesias do concelho de Santana, distrito do Funchal, é a seguinte:
+Artigo 1.º A delimitação das freguesias do concelho de Santana, distrito do Funchal, é a seguinte:
 
 Freguesia de Arco de S. Jorge: começando no sítio da Entrosa, junto ao mar (separação do concelho de Santana do de S. Vicente), segue pela costa, para nascente, até à Aguagem do Bento (ponto de separação desta freguesia com a de S. Jorge), inflecte para sul, continua pelo córrego das Terras do Marques até à sua nascente, prossegue para o sítio da Beira da Quinta, continua pelo Lombo da Assumada até atingir a linha de separação de águas denominada «Lombo do Cerrado», avança até ao Cabeço das Voltas (ponto a partir do qual prossegue pela estrema do concelho de S. Vicente), inflecte para norte, em linha recta, até ao marco geodésico denominado «Arco de S. Jorge», situado no Pico do Arco, e prossegue para oeste pela crista que vai dar à escarpa sobranceira ao mar, no sítio da Entrosa, onde se iniciou a descrição.
 
@@ -102,8 +106,8 @@ Freguesia do Faial: começando na Ponta do Clérigo, já referida, segue pela co
 
 Freguesia de S. Roque do Faial: começando na confluência da ribeira da Ametade com a ribeira de S. Roque, segue para sul através desta ribeira, até à confluência do córrego da Laje (limite com a freguesia do Faial), prosseguindo deste ponto pela referida ribeira de S. Roque e ribeiro Frio (estrema do concelho de Machico), até à nascente deste, na vertente do Cabeço da Agua das Bicas, ponto de encontro com o concelho do Funchal, continua pela estrema deste concelho até ao Pico do Areeiro, ponto de encontro com o concelho de Câmara de Lobos, prossegue pela estrema deste concelho até ao Pico do Galo, inflecte para nascente, continuando, em sentido inverso, a linha já descrita, pela ribeira da Ametade, até à confluência onde se iniciou a descrição.
 
-###### Art. 2.º A Câmara Municipal do concelho de Santana procederá, no prazo de 90 dias, a contar da publicação do presente decreto, à colocação de marcos onde forem necessários, por forma que fiquem bem patentes os limites fixados no artigo antecedente.
+Art. 2.º A Câmara Municipal do concelho de Santana procederá, no prazo de 90 dias, a contar da publicação do presente decreto, à colocação de marcos onde forem necessários, por forma que fiquem bem patentes os limites fixados no artigo antecedente.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Agosto de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior.

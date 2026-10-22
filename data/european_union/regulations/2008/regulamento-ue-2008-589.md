@@ -34,6 +34,90 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2017-11-25'
+version_history:
+  file: regulamento-ue-2008-589.versoes.json
+  count: 8
+  source_lastmod: '2017-11-25'
+  versions:
+  - date: '2008-06-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-07-01'
+    amending: null
+    amending_title: Regulamento (CE) n. o 598/2008 da Comissão de 24 de Junho de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 11.º — Marcação dos ovos entregues directamente à indústria alimentar
+    - Altera Artigo 12.º — Marcação das embalagens
+    - Altera Artigo 39.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita Exigências mínimas aplicáveis às instalações de criação consoante o modo de criação das galinhas poedeiras
+    - Adita ANEXO III
+    - Adita Regiões da Finlândia referidas no artigo 34.º
+    - Adita ANEXO IV
+  - date: '2010-07-01'
+    amending: eu:celex:32008R0598:por
+    amending_title: Regulamento (CE) n. o 598/2008 da Comissão de 24 de Junho de 2008; Regulamento (UE) n. o 557/2010 da Comissão
+      de 24 de Junho de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 12.º — Marcação das embalagens
+    - Altera Notas
+    - Adita Artigo 37.º — Notificações
+    - Suprime Artigo 37.º — Comunicações
+  - date: '2013-04-24'
+    amending: eu:celex:32013R0342:por
+    amending_title: Regulamento de Execução (UE) n. o 342/2013 da Comissão de 16 de abril de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 12.º — Marcação das embalagens
+    - Altera Artigo 24.º — Controlos
+    - Altera Artigo 37.º — Notificações
+    - Altera Notas
+  - date: '2013-05-18'
+    amending: eu:celex:32013R0458:por
+    amending_title: Regulamento de Execução (UE) n. o 458/2013 da Comissão de 16 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 12.º — Marcação das embalagens
+    - Altera Artigo 37.º — Notificações
+    - Altera Notas
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0519:por
+    amending_title: Regulamento (UE) n. o 519/2013 da Comissão de 21 de fevereiro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 12.º — Marcação das embalagens
+    - Altera Artigo 37.º — Notificações
+    - Altera ANEXO I
+    - Altera Notas
+  - date: '2017-07-11'
+    amending: eu:celex:32017R1185:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2017/1185 DA COMISSÃO de 20 de abril de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 12.º — Marcação das embalagens
+    - Altera Artigo 37.º — Notificações
+    - Altera Notas
+    - Suprime Artigo 31.º — Relatórios
+  - date: '2017-11-25'
+    amending: eu:celex:32017R2168:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2017/2168 DA COMISSÃO de 20 de setembro de 2017
+    changes:
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 12.º — Marcação das embalagens
+    - Altera Artigo 37.º — Notificações
+    - Altera Exigências mínimas aplicáveis às instalações de criação consoante o modo de criação das galinhas poedeiras
+    - Altera Notas
 identifiers:
   celex: 32008R0589
   eli: http://data.europa.eu/eli/reg/2008/589/oj
@@ -48,7 +132,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4580819e-809d-4d71-9ebd-1ce821d05dde.0018
   content_url: http://publications.europa.eu/resource/cellar/1e2f2029-d7a7-4239-bf3e-6d1bf80e355b.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0589-20171125
-  retrieved_at: '2026-10-22T02:42:48Z'
+  retrieved_at: '2026-10-22T17:39:01Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-29T19:44:43.137+01:00'
 integrity:
@@ -57,9 +141,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:48Z'
-  notes: Texto consolidado 02008R0589-20171125.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:39:01Z'
+  notes: 8 versão(ões); histórico completo em regulamento-ue-2008-589.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -190,35 +274,19 @@ relationships:
   date: '2007-05-24'
 article_structure:
   article_count: 38
-  section_count: 6
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 7
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:48Z'
+  checked_at: '2026-10-22T17:39:01Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 589/2008 da Comissão, de 23 de Junho de 2008
-
-> 02008R0589 — PT — 25.11.2017 — 007.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32008R0598) — [REGULAMENTO (CE) N.º 598/2008 DA COMISSÃO de 24 de Junho de 2008](http://publications.europa.eu/resource/celex/32008R0598) — L 164 — 14 — 25.6.2008
-- [►M2](http://publications.europa.eu/resource/celex/32010R0557) — [REGULAMENTO (UE) N.º 557/2010 DA COMISSÃO de 24 de Junho de 2010](http://publications.europa.eu/resource/celex/32010R0557) — L 159 — 13 — 25.6.2010
-- [►M3](http://publications.europa.eu/resource/celex/32013R0342) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 342/2013 DA COMISSÃO de 16 de abril de 2013](http://publications.europa.eu/resource/celex/32013R0342) — L 107 — 4 — 17.4.2013
-- [►M4](http://publications.europa.eu/resource/celex/32013R0458) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 458/2013 DA COMISSÃO de 16 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0458) — L 133 — 17 — 17.5.2013
-- [►M5](http://publications.europa.eu/resource/celex/32013R0519) — [REGULAMENTO (UE) N.º 519/2013 DA COMISSÃO de 21 de fevereiro de 2013](http://publications.europa.eu/resource/celex/32013R0519) — L 158 — 74 — 10.6.2013
-- [►M6](http://publications.europa.eu/resource/celex/32017R1185) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/1185 DA COMISSÃO de 20 de abril de 2017](http://publications.europa.eu/resource/celex/32017R1185) — L 171 — 113 — 4.7.2017
-- [►M7](http://publications.europa.eu/resource/celex/32017R2168) — [REGULAMENTO DELEGADO (UE) 2017/2168 DA COMISSÃO de 20 de setembro de 2017](http://publications.europa.eu/resource/celex/32017R2168) — L 306 — 6 — 22.11.2017
-
-## REGULAMENTO (CE) N.º 589/2008 DA COMISSÃO
 
 de 23 de Junho de 2008
 

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/13-a/2026/04/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-a-2026-1085638495
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-14T00:00:00Z'
+  retrieved_at: '2026-10-22T18:38:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0868ceaef2a92138a5cbf18f9c1666bf4fb9684d610678a12609fa0ffe9c0608
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d0fa5d4f62037891e6d9bfe074f07588f794d8cd5a1d233d677c7885e8cb899
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:38:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
-- Rectificação de Entidade Emitente
 - Administração Pública
+- Gestão de Resíduos
 - Património Nacional
-- Reabilitação
 - Prejuízo Financeiro
+- Reabilitação
+- Rectificação de Entidade Emitente
 - Tempestade Kristin
 relationships:
 - type: cites
@@ -95,16 +95,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
+- type: cites
+  target: pt:dre:1039107607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1050874165:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:940951437:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:40-A/2026
+  label: Retifica, com efeitos 18 de fevereiro de 2026, o nono parágrafo do preâmbulo, o artigo 1.º, o n.º 2 do artigo 5.º,
+    a alínea a) do n.º 1 do artigo 11.º, a alínea b) do n.º 1 do artigo 11.º, o n.º 1 do artigo 20.º, o n.º 4 do artigo 22.º
+    e o n.º 1 do artigo 26.º, do Decreto-Lei n.º 40-A/2026, de 13 de fevereiro, Diário da República n.º 31/2026, Suplemento,
+    Série I
+  source: null
+  date: '2026-02-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:38:00Z'
   warnings: []
   errors: []
 ---
@@ -178,3 +214,5 @@ deve ler-se:
 «1 - A repartição dos encargos com a compensação retributiva prevista no artigo 305.º do Código do Trabalho em caso de aplicação do regime simplificado de redução ou suspensão da atividade em situação de crise empresarial previsto no artigo 22.º do [Decreto-Lei n.º 31-C/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-c-2026-1039107607), de 5 de fevereiro, é temporariamente ajustada nos termos do número seguinte, exclusivamente para os casos em que o apoio tenha sido requerido até ao final do mês seguinte ao fim da situação de calamidade.»
 
 Secretaria-Geral do Governo, 14 de abril de 2026. - O Secretário-Geral Adjunto, Joaquim Cruz.
+
+119948234

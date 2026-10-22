@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/15-b/2026/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-b-2026-1031784677
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-10T00:00:00Z'
+  retrieved_at: '2026-10-22T18:30:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7adbfcc9cbea6186c5cf034c021fbe7499a13df20bc3cb8eab6faec23fb7e70a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: daae494bb2c3d8de8313b199180742f08aafa115c2914de0084477db21f81315
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:30:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,11 +76,14 @@ subjects:
 - Caldas da Rainha
 - Cantanhede
 - Castanheira de PÊRA
+- Castelo Branco
+- Coimbra
 - Condeixa-a-nova
 - Constância
 - Covilhã
 - Entroncamento
 - Ferreira do Zêzere
+- Figueira da Foz
 - Figueiró dos Vinhos
 - Fundão
 - Góis
@@ -90,6 +93,7 @@ subjects:
 - Lourinhã
 - Lousã
 - Mação
+- Marinha Grande
 - Mealhada
 - MIRA
 - Miranda do Corvo
@@ -104,18 +108,14 @@ subjects:
 - Penamacor
 - Penela
 - Peniche
-- VILA NOVA de Poiares
-- Castelo Branco
 - Pombal
-- Figueira da Foz
-- Coimbra
 - Porto de MOS
 - Proença-a-nova
-- Marinha Grande
 - RIO Maior
 - Santarém
 - Sardoal
 - Sertã
+- Situação de Calamidade
 - Soure
 - Tomar
 - Torres Novas
@@ -123,13 +123,27 @@ subjects:
 - Vagos
 - VILA de REI
 - VILA NOVA da Barquinha
+- VILA NOVA de Poiares
 - Vila Velha de Ródão
-- Situação de Calamidade
 relationships:
 - type: amended_by
   target: pt:dre:1145969707:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1031784680:por
+  label: Prorrogada, com efeitos a 1 de fevereiro de 2026, até às 23h59 do dia 8 de fevereiro de 2026, a declaração de calamidade
+    decorrente da tempestade Kristin pelo(a) Resolução do Conselho de Ministros n.º 15-C/2026 - Diário da República n.º 21-A/2026,
+    Série I de 2026-02-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/15-c-2026-1031784680
+  date: '2026-02-01'
+- type: amended_by
+  target: pt:dre:1039064235:por
+  label: Prorrogada, com efeitos a 5 de fevereiro de 2026, até às 23h59 do dia 15 de fevereiro de 2026, a declaração de calamidade
+    decorrente da tempestade Kristin, determinada pela presente resolução, pelo(a) Resolução do Conselho de Ministros n.º
+    24-A/2026 - Diário da República n.º 25/2026, Suplemento, Série I de 2026-02-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/24-a-2026-1039064235
+  date: '2026-02-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
   label: null
@@ -138,16 +152,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/27/2006/07/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/27/2006/07/03/p/dre
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:30:52Z'
   warnings: []
   errors: []
 ---
@@ -210,8 +232,10 @@ d) A dispensa de serviço ou a justificação das faltas dos trabalhadores, do s
 
 10 - Determinar que a declaração da situação de calamidade aciona as estruturas de coordenação política e institucional territorialmente competentes e implica a ativação automática dos planos de emergência de proteção civil do respetivo nível territorial.
 
-11 - Determinar que o apoio previsto na alínea b) do n.º 5 pode abranger situações, causadas na sequência da tempestade Kristin, ocorridas fora dos concelhos referidos nos n.<sup>os</sup>2 e 3, por decisão fundamentada do Governo.
+11 - Determinar que o apoio previsto na alínea b) do n.º 5 pode abranger situações, causadas na sequência da tempestade Kristin, ocorridas fora dos concelhos referidos nos n.os2 e 3, por decisão fundamentada do Governo.
 
 12 - Determinar que a presente resolução produz efeitos imediatos, nos termos do n.º 1 do artigo 12.º da Lei de Bases da Proteção Civil, sem prejuízo da necessidade de publicação.
 
 Presidência do Conselho de Ministros, 29 de janeiro de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119947542

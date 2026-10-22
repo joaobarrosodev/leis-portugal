@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/13/2010/04/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-2010-613248
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-20T00:00:00Z'
+  retrieved_at: '2026-10-22T19:12:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a862e224dce654aef5028126d3224ff795267051748e42bcd4f1a86d7ac7e6f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63563c34b23725af08a7ec2f2c812df0692ae27de8a2dcf78d04f3606bf1f0b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:12:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vila Franca de Xira
-- Reserva Ecológica Nacional
 - Ordenamento do Território
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
+- Vila Franca de Xira
 relationships:
+- type: amended_by
+  target: pt:dre:74903197:por
+  label: Tornada pública a aprovação de correção de erro material da delimitação da Reserva Ecológica Nacional (REN) do município
+    de Vila Franca de Xira aprovada pela Port. 1374/2009 de 29-out. com última retificação pela presente Declaração, pelo(a)
+    Aviso n.º 8568/2016 - Diário da República n.º 130/2016, Série II de 2016-07-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/8568-2016-74903197
+  date: '2016-07-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
   label: null
@@ -88,16 +95,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1374/2009/10/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1374/2009/10/29/p/dre
+- type: cites
+  target: pt:dre:483405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669780:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:12:28Z'
   warnings: []
   errors: []
 ---
@@ -112,4 +131,4 @@ Assim, ao abrigo da alínea h) do n.º 1 e do n.º 2 do artigo 4.º do [Decreto-
 
 Centro Jurídico, 15 de Abril de 2010. - A Directora-Adjunta, Alexandra Leitão.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/04/07600/0133701339.pdf))](https://files.diariodarepublica.pt/1s/2010/04/07600/0133701339.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/04/07600/0133701339.pdf)

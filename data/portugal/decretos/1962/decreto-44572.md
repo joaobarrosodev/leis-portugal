@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44572-1962-159966
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-09-12T00:00:00Z'
+  retrieved_at: '2026-10-22T19:31:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17a2b0dce9b3cbeb8fe4690b29d6a1dc0b3ddaeaf9b23c56bd1cafe4ec7576cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22022ff2a28f84b5d2ca61115184fb9dea2bd4dfbe55049d1967189c38e20aca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:31:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:277344:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306225:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:31:09Z'
   warnings: []
   errors: []
 ---
@@ -108,19 +116,19 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Ao abrigo do disposto no artigo 3.º do [Decreto-Lei n.º 40552](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40552-1956-306225), de 12 de Março de 1956, são fixadas as seguintes prestações mensais para aquisição de casas económicas do agrupamento situado na zona de Olivais-Sul, da cidade de Lisboa:
+Artigo 1.º Ao abrigo do disposto no artigo 3.º do [Decreto-Lei n.º 40552](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40552-1956-306225), de 12 de Março de 1956, são fixadas as seguintes prestações mensais para aquisição de casas económicas do agrupamento situado na zona de Olivais-Sul, da cidade de Lisboa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/09/21000/12251226.pdf))](https://files.diariodarepublica.pt/1s/1962/09/21000/12251226.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/09/21000/12251226.pdf)
 
-###### Art. 2.º Para aquisição de casas económicas nos diversos agrupamentos situados em Lisboa, com excepção de Olivais-Sul, e, bem assim, nos situados noutras localidades do País, são fixadas as prestações de conformidade com as tabelas seguintes:
+Art. 2.º Para aquisição de casas económicas nos diversos agrupamentos situados em Lisboa, com excepção de Olivais-Sul, e, bem assim, nos situados noutras localidades do País, são fixadas as prestações de conformidade com as tabelas seguintes:
 
 Classe a
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/09/21000/12251226.pdf))](https://files.diariodarepublica.pt/1s/1962/09/21000/12251226.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/09/21000/12251226.pdf)
 
 Da Classe A à Classe D
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/09/21000/12251226.pdf))](https://files.diariodarepublica.pt/1s/1962/09/21000/12251226.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/09/21000/12251226.pdf)
 
 § 1.º Para efeitos de inclusão dos agrupamentos em qualquer dos grupos referidos nestas tabelas e enquanto não for estabelecido o contrário, entende-se que pertencem:
 
@@ -142,10 +150,10 @@ Ao grupo 7, os situados em Vila Viçosa.
 
 § 3.º Tratando-se de casas a atribuir em regime de propriedade horizontal, mas com logradouro privativo, as prestações a aplicar são as fixadas para as moradias com logradouro, reduzidas de 5 a 10 por cento, conforme os casos, com arredondamento por excesso para a dezena de escudos.
 
-###### Art. 3.º As prestações fixadas nos artigos antecedentes destinam-se ao pagamento de juros, à amortização do capital e ainda aos prémios de seguros de vida, invalidez, doença e desemprego e incêndio.
+Art. 3.º As prestações fixadas nos artigos antecedentes destinam-se ao pagamento de juros, à amortização do capital e ainda aos prémios de seguros de vida, invalidez, doença e desemprego e incêndio.
 
-###### Art. 4.º As prestações fixadas no presente diploma não têm aplicação quanto às casas atribuídas no âmbito de concurso aberto antes da sua publicação.
+Art. 4.º As prestações fixadas no presente diploma não têm aplicação quanto às casas atribuídas no âmbito de concurso aberto antes da sua publicação.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Setembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José João Gonçalves de Proença.

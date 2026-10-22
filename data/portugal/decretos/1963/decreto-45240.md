@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45240-1963-686388
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-01-22T00:00:00Z'
+  retrieved_at: '2026-10-22T19:36:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ced0db047cb59ccdc5588794b8aeb12680d2a911a68e78dbd43c198e8dea2b2c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af3d9909f49f7e37fb6f06a3489230531df264fa7dc032f9fe33d2de7488058e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:36:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,15 +71,15 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:36:38Z'
   warnings: []
   errors: []
 ---
@@ -104,13 +104,13 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 Dos órgãos central e provinciais
 
-###### Artigo 1.º Em cada província ultramarina é criada, junto dos respectivos serviços de instrução, a comissão provincial de bolsas de estudo e lares de estudantes, presidida pelo director ou chefe dos serviços de instrução e constituída pelos comissários provinciais da Organização Nacional Mocidade Portuguesa, Masculina e Feminina, e por representantes das entidades concedentes de bolsas e de dirigentes de lares de estudantes especialmente abrangidos neste diploma.
+Artigo 1.º Em cada província ultramarina é criada, junto dos respectivos serviços de instrução, a comissão provincial de bolsas de estudo e lares de estudantes, presidida pelo director ou chefe dos serviços de instrução e constituída pelos comissários provinciais da Organização Nacional Mocidade Portuguesa, Masculina e Feminina, e por representantes das entidades concedentes de bolsas e de dirigentes de lares de estudantes especialmente abrangidos neste diploma.
 
 § único. Nas províncias de Angola e Moçambique fará parte da comissão um representante dos respectivos Estudos Gerais Universitários.
 
-###### Art. 2.º Servirá de secretário da comissão, sem direito a voto, o funcionário dos serviços que o presidente designar, correndo o expediente, nas províncias de Governo-Geral, pela 5.ª Repartição das Direcções de Serviços, e pelas repartições provinciais nas restantes.
+Art. 2.º Servirá de secretário da comissão, sem direito a voto, o funcionário dos serviços que o presidente designar, correndo o expediente, nas províncias de Governo-Geral, pela 5.ª Repartição das Direcções de Serviços, e pelas repartições provinciais nas restantes.
 
-###### Art. 3.º Às comissões provinciais compete:
+Art. 3.º Às comissões provinciais compete:
 
 a) Estimular a criação de lares de estudantes e a instituição de bolsas de estudo, concitando a boa vontade e o espírito de colaboração de entidades oficiais e particulares, através de todas as vias de actuação e, de modo especial, pelo recurso aos meios correntes de informação;
 
@@ -130,21 +130,21 @@ h) Resolver as dúvidas suscitadas ou as reclamações apresentadas, cabendo rec
 
 i) Desempenhar as demais funções que puderem vir a caber-lhe dentro dos objectivos que se lhe assinalam, nomeadamente em tudo quanto diga respeito ao apoio aos instituidores de bolsas e lares e aos bolseiros da província.
 
-###### Art. 4.º Poderão as entidades que o desejarem colocar-se ao abrigo das disposições contidas no presente diploma, desde que declarem expressamente conformar-se com as regras que o informam, tomando parte, nesse caso, na designação dos representantes da comissão e assistindo às reuniões desta que directamente lhes digam respeito.
+Art. 4.º Poderão as entidades que o desejarem colocar-se ao abrigo das disposições contidas no presente diploma, desde que declarem expressamente conformar-se com as regras que o informam, tomando parte, nesse caso, na designação dos representantes da comissão e assistindo às reuniões desta que directamente lhes digam respeito.
 
-###### Art. 5.º Todas as entidades que não se integrem no regime previsto no presente diploma ficam obrigadas, desde que concedam bolsas de estudo a estudantes ultramarinos ou mantenham lares no ultramar, a comunicar à respectiva comissão provincial, no início do ano lectivo: no primeiro caso, o regulamento por que se regem, a natureza das bolsas, os nomes dos beneficiários, os cursos a que se destinam ou frequentam e o montante das bolsas, e, no segundo caso, logo que se constituam os lares, a designação, localização, lotação e custo das mensalidades e, bem assim, os nomes dos instituidores e dos responsáveis.
+Art. 5.º Todas as entidades que não se integrem no regime previsto no presente diploma ficam obrigadas, desde que concedam bolsas de estudo a estudantes ultramarinos ou mantenham lares no ultramar, a comunicar à respectiva comissão provincial, no início do ano lectivo: no primeiro caso, o regulamento por que se regem, a natureza das bolsas, os nomes dos beneficiários, os cursos a que se destinam ou frequentam e o montante das bolsas, e, no segundo caso, logo que se constituam os lares, a designação, localização, lotação e custo das mensalidades e, bem assim, os nomes dos instituidores e dos responsáveis.
 
-###### Art. 6.º Na metrópole o estudo, a coordenação e a fiscalização do plano geral de bolsas de estudo destinadas a estudantes ultramarinos e, bem assim, dos lares para estudantes, na parte que aos ultramarinos diga respeito, cabe a uma comissão constituída pelo director-geral do Ensino, que presidirá, por um representante da Direcção-Geral do Ensino Superior e das Belas-Artes, pelos comissários adjuntos para o ultramar da Organização Nacional Mocidade Portuguesa, Masculina e Feminina, e por dois funcionários com a categoria não inferior a inspectores do ensino.
+Art. 6.º Na metrópole o estudo, a coordenação e a fiscalização do plano geral de bolsas de estudo destinadas a estudantes ultramarinos e, bem assim, dos lares para estudantes, na parte que aos ultramarinos diga respeito, cabe a uma comissão constituída pelo director-geral do Ensino, que presidirá, por um representante da Direcção-Geral do Ensino Superior e das Belas-Artes, pelos comissários adjuntos para o ultramar da Organização Nacional Mocidade Portuguesa, Masculina e Feminina, e por dois funcionários com a categoria não inferior a inspectores do ensino.
 
-###### Art. 7.º Servirá de secretário da comissão o chefe de secção da Direcção-Geral do Ensino que o presidente da comissão designar, correndo o expediente pela 1.ª Repartição daquela Direcção-Geral.
+Art. 7.º Servirá de secretário da comissão o chefe de secção da Direcção-Geral do Ensino que o presidente da comissão designar, correndo o expediente pela 1.ª Repartição daquela Direcção-Geral.
 
 Das bolsas
 
-###### Art. 8.º As bolsas de estudo representam uma forma de auxílio material ou de comparticipação nos encargos normais dos estudos dos jovens com reconhecido mérito e destinam-se a satisfazer, cumulativamente, os gastos com matrículas, propinas, livros, deslocações, instalações e comedorias e outros semelhantes, em conjugação com os recursos próprios de cada um.
+Art. 8.º As bolsas de estudo representam uma forma de auxílio material ou de comparticipação nos encargos normais dos estudos dos jovens com reconhecido mérito e destinam-se a satisfazer, cumulativamente, os gastos com matrículas, propinas, livros, deslocações, instalações e comedorias e outros semelhantes, em conjugação com os recursos próprios de cada um.
 
-###### Art. 9.º Ao lado de bolsas integrais são também instituídas bolsas reduzidas e bolsas-empréstimos, nas condições previstas no presente diploma.
+Art. 9.º Ao lado de bolsas integrais são também instituídas bolsas reduzidas e bolsas-empréstimos, nas condições previstas no presente diploma.
 
-###### Art. 10.º As bolsas destinam-se a indivíduos que pretendam frequentar, em território nacional, mas fora do local de residência habitual:
+Art. 10.º As bolsas destinam-se a indivíduos que pretendam frequentar, em território nacional, mas fora do local de residência habitual:
 
 a) As Universidades e estudos gerais universitários;
 
@@ -158,15 +158,15 @@ e) Os cursos para obtenção de qualificações técnicas que, pela sua natureza
 
 § único. Os governadores das províncias fixarão nos diplomas que regulamentarem o presente decreto a definição de local da residência, para efeitos de atribuição de bolsas de estudo.
 
-###### Art. 11.º Na escolha do local e estabelecimento em que se realizará o curso, aprendizagem, estágio ou especialização entender-se-á que predominam os resultados a alcançar, a vontade da entidade concedente, a do requerente, os recursos disponíveis e as vantagens sociais e pedagógicas que possam ser presumidas.
+Art. 11.º Na escolha do local e estabelecimento em que se realizará o curso, aprendizagem, estágio ou especialização entender-se-á que predominam os resultados a alcançar, a vontade da entidade concedente, a do requerente, os recursos disponíveis e as vantagens sociais e pedagógicas que possam ser presumidas.
 
-###### Art. 12.º As bolsas são concedidas por anos lectivos e só poderão ser suspensas ou anuladas por falecimento do bolseiro, por falta de cumprimento das obrigações que lhe são assinaladas ou por deixar de se verificar qualquer das condições por força das quais foram atribuídas.
+Art. 12.º As bolsas são concedidas por anos lectivos e só poderão ser suspensas ou anuladas por falecimento do bolseiro, por falta de cumprimento das obrigações que lhe são assinaladas ou por deixar de se verificar qualquer das condições por força das quais foram atribuídas.
 
 Sua concessão; direitos e deveres dos bolseiros
 
-###### Art. 13.º As bolsas poderão ser concedidas a indivíduos de ambos os sexos, de nacionalidade portuguesa, de idade não superior a 30 anos, se se destinarem a frequência de cursos superiores, ou a 25, a dos cursos médios, ficando as especializações a que se refere a alínea e) do artigo 10.º fora do condicionalismo de idade.
+Art. 13.º As bolsas poderão ser concedidas a indivíduos de ambos os sexos, de nacionalidade portuguesa, de idade não superior a 30 anos, se se destinarem a frequência de cursos superiores, ou a 25, a dos cursos médios, ficando as especializações a que se refere a alínea e) do artigo 10.º fora do condicionalismo de idade.
 
-###### Art. 14.º Os candidatos à concessão de bolsas deverão apresentar os seguintes documentos:
+Art. 14.º Os candidatos à concessão de bolsas deverão apresentar os seguintes documentos:
 
 a) Documento comprovativo das habilitações legais necessárias para a frequência do respectivo curso;
 
@@ -182,11 +182,11 @@ f) Requerimento do candidato, dirigido à comissão provincial, donde constarão
 
 g) Quaisquer outros documentos que facilitem o juízo da comissão.
 
-###### Art. 15.º A inexactidão das declarações ou das confirmações, além de implicar perda de bolsa, com todas as consequências previstas neste diploma, importa responsabilidade criminal e disciplinar.
+Art. 15.º A inexactidão das declarações ou das confirmações, além de implicar perda de bolsa, com todas as consequências previstas neste diploma, importa responsabilidade criminal e disciplinar.
 
-###### Art. 16.º Sempre que possível, serão reservadas bolsas de estudo para os descendentes de cidadãos que tenham prestado relevantes serviços à Pátria e que não disponham dos recursos necessários para suportarem os encargos derivados dos estudos.
+Art. 16.º Sempre que possível, serão reservadas bolsas de estudo para os descendentes de cidadãos que tenham prestado relevantes serviços à Pátria e que não disponham dos recursos necessários para suportarem os encargos derivados dos estudos.
 
-###### Art. 17.º Para a concessão de bolsas são condições gerais de preferência, por ordem de prioridade:
+Art. 17.º Para a concessão de bolsas são condições gerais de preferência, por ordem de prioridade:
 
 a) A maior carência de recursos do agregado familiar;
 
@@ -206,7 +206,7 @@ h) O não possuir habilitações de qualquer outro curso superior ou médio, con
 
 i) No caso das especializações contempladas na alínea e) do artigo 10.º, além das preferências anteriores aplicáveis, será tomada em especial consideração o curriculum do candidato, os serviços profissionais prestados à província e a informação dos sectores onde exerça a sua actividade profissional.
 
-###### Art. 18.º São deveres dos bolseiros:
+Art. 18.º São deveres dos bolseiros:
 
 a) Prestar com exactidão todas as declarações e esclarecimentos que lhes forem solicitados pelos serviços competentes;
 
@@ -218,7 +218,7 @@ d) Dar imediato conhecimento das circunstâncias que, directa ou indirectamente,
 
 e) Manter a Procuradoria dos Estudantes Ultramarinos ou os serviços equivalentes sempre ao corrente da morada e número de telefone, se o houver, e de qualquer alteração mesmo circunstancial.
 
-###### Art. 19.º Perdem o direito à bolsa:
+Art. 19.º Perdem o direito à bolsa:
 
 a) Os que não se matricularem no curso, especialização ou estágio para que a requereram;
 
@@ -234,29 +234,29 @@ f) Os que contraírem matrimónio.
 
 § único. As comissões provinciais de bolsas de estudo podem autorizar aos bolseiros a mudança de um curso para outro, desde que a matrícula no novo curso também dê direito a bolsa de estudo.
 
-###### Art. 20.º Exceptuam-se do estabelecido na alínea b) do artigo anterior os casos de não aproveitamento escolar por motivo de doença grave, comprovada pela Junta de Saúde ou, onde não a houver, pela autoridade sanitária local, ou do cumprimento obrigatório dos deveres militares; e da alínea f) do mesmo artigo os candidatos aos cursos de especialização referidos na alínea e), artigo 10.º
+Art. 20.º Exceptuam-se do estabelecido na alínea b) do artigo anterior os casos de não aproveitamento escolar por motivo de doença grave, comprovada pela Junta de Saúde ou, onde não a houver, pela autoridade sanitária local, ou do cumprimento obrigatório dos deveres militares; e da alínea f) do mesmo artigo os candidatos aos cursos de especialização referidos na alínea e), artigo 10.º
 
-###### Art. 21.º Nos casos previstos nas alíneas a), c), d) e e) do artigo 19.º fica o agregado familiar do bolseiro, se este for menor, responsável pelo reembolso das quantias indevidamente recebidas em relação ao ano em que os factos se verificaram, e, se for maior, o próprio bolseiro fica, também e mais, responsável pelo reembolso das passagens de ida e regresso ou de férias que possa ter recebido também indevidamente. No caso previsto no mesmo artigo, alínea b), não haverá lugar a reembolso, mas o estudante regressará à terra da residência do seu agregado familiar. Porém, se provar que por si ou com auxílio particular poderá prosseguir os estudos, poderá o estudante ser autorizado a permanecer no local onde anteriormente estudava, por decisão da comissão provincial que lhe atribuiu a bolsa.
+Art. 21.º Nos casos previstos nas alíneas a), c), d) e e) do artigo 19.º fica o agregado familiar do bolseiro, se este for menor, responsável pelo reembolso das quantias indevidamente recebidas em relação ao ano em que os factos se verificaram, e, se for maior, o próprio bolseiro fica, também e mais, responsável pelo reembolso das passagens de ida e regresso ou de férias que possa ter recebido também indevidamente. No caso previsto no mesmo artigo, alínea b), não haverá lugar a reembolso, mas o estudante regressará à terra da residência do seu agregado familiar. Porém, se provar que por si ou com auxílio particular poderá prosseguir os estudos, poderá o estudante ser autorizado a permanecer no local onde anteriormente estudava, por decisão da comissão provincial que lhe atribuiu a bolsa.
 
-###### Art. 22.º Os concursos para a concessão de bolsas serão, simultâneamente, abertos em todas as províncias na primeira semana de Julho de cada ano e publicados os respectivos anúncios no Boletim Oficial, donde constem as condições de admissão e entidades concedentes, devendo os candidatos entregar toda a documentação no prazo de 60 dias, a contar da data do anúncio.
+Art. 22.º Os concursos para a concessão de bolsas serão, simultâneamente, abertos em todas as províncias na primeira semana de Julho de cada ano e publicados os respectivos anúncios no Boletim Oficial, donde constem as condições de admissão e entidades concedentes, devendo os candidatos entregar toda a documentação no prazo de 60 dias, a contar da data do anúncio.
 
-###### Art. 23.º Terminados os prazos dos concursos, serão os candidatos classificados, segundo os critérios preferenciais que forem estabelecidos nos diplomas regulamentares, no mais curto tempo possível.
+Art. 23.º Terminados os prazos dos concursos, serão os candidatos classificados, segundo os critérios preferenciais que forem estabelecidos nos diplomas regulamentares, no mais curto tempo possível.
 
-###### Art. 24.º Poderão ser admitidos condicionalmente os candidatos que não possuindo à data do concurso habilitações para o ingresso nos cursos a que se destinam comprovem a possibilidade de as completar na época de Outubro.
+Art. 24.º Poderão ser admitidos condicionalmente os candidatos que não possuindo à data do concurso habilitações para o ingresso nos cursos a que se destinam comprovem a possibilidade de as completar na época de Outubro.
 
-###### Art. 25.º Os processos individuais de concessão de bolsas estão sujeitos a revisão no decorrer do ano lectivo, sempre que se alterem as condições que as justificaram.
+Art. 25.º Os processos individuais de concessão de bolsas estão sujeitos a revisão no decorrer do ano lectivo, sempre que se alterem as condições que as justificaram.
 
-###### Art. 26.º As bolsas carecem de confirmação no final de cada ano lectivo. Para o efeito, os bolseiros farão prova, na metrópole, na Direcção-Geral do Ensino e, no ultramar, nos serviços de instrução dos resultados obtidos, os quais serão transmitidos à comissão provincial respectiva para efeitos de confirmação ou denegação da bolsa. Esta comunicará, logo que possível, pela via mais rápida, a sua resolução.
+Art. 26.º As bolsas carecem de confirmação no final de cada ano lectivo. Para o efeito, os bolseiros farão prova, na metrópole, na Direcção-Geral do Ensino e, no ultramar, nos serviços de instrução dos resultados obtidos, os quais serão transmitidos à comissão provincial respectiva para efeitos de confirmação ou denegação da bolsa. Esta comunicará, logo que possível, pela via mais rápida, a sua resolução.
 
-###### Art. 27.º Publicar-se-ão no Boletim Oficial listas nominais dos bolseiros admitidos e confirmados, com indicação dos cursos a que se destinam e estabelecimento que frequentarão, bem como dos que perderem o direito à bolsa.
+Art. 27.º Publicar-se-ão no Boletim Oficial listas nominais dos bolseiros admitidos e confirmados, com indicação dos cursos a que se destinam e estabelecimento que frequentarão, bem como dos que perderem o direito à bolsa.
 
-###### Art. 28.º Na previsão de exames na época de Outubro e na chamada especial de Dezembro (para os que beneficiem de férias no ultramar) entende-se que a bolsa é condicionalmente confirmada até à realização daqueles exames. No caso de se verificar não haver aproveitamento escolar, consoante o estabelecido na alínea b) do artigo 19.º, considerar-se-á, para todos os efeitos, válido o estabelecido no artigo 21.º
+Art. 28.º Na previsão de exames na época de Outubro e na chamada especial de Dezembro (para os que beneficiem de férias no ultramar) entende-se que a bolsa é condicionalmente confirmada até à realização daqueles exames. No caso de se verificar não haver aproveitamento escolar, consoante o estabelecido na alínea b) do artigo 19.º, considerar-se-á, para todos os efeitos, válido o estabelecido no artigo 21.º
 
-###### Art. 29.º À sua chegada à metrópole, os bolseiros deverão apresentar-se com guia, passada pelos serviços de instrução da província, na Direcção-Geral do Ensino, que os encaminhará para a Procuradoria dos Estudantes Ultramarinos. Da guia deverá constar o curso a que se destinam, entidade que concedeu a bolsa e os demais elementos que, para cada caso, forem necessários. No seu regresso à província, nas suas deslocações nesta ou entre províncias, serão sempre os serviços de ensino que emitirão as guias que acompanharão os bolseiros e onde se indicará o motivo da deslocação.
+Art. 29.º À sua chegada à metrópole, os bolseiros deverão apresentar-se com guia, passada pelos serviços de instrução da província, na Direcção-Geral do Ensino, que os encaminhará para a Procuradoria dos Estudantes Ultramarinos. Da guia deverá constar o curso a que se destinam, entidade que concedeu a bolsa e os demais elementos que, para cada caso, forem necessários. No seu regresso à província, nas suas deslocações nesta ou entre províncias, serão sempre os serviços de ensino que emitirão as guias que acompanharão os bolseiros e onde se indicará o motivo da deslocação.
 
 Do quantitativo das bolsas
 
-###### Art. 30.º As bolsas serão do seguinte quantitativo:
+Art. 30.º As bolsas serão do seguinte quantitativo:
 
 a) Integrais, de 15000$00 anuais, para os candidatos que, por si ou sua família, não possam comparticipar nos encargos de estudo;
 
@@ -268,43 +268,43 @@ c) Reduzidas, de 5000$00 anuais, para os candidatos que, por si ou por sua famí
 
 § 2.º Cabe aos governos provinciais, aquando da regulamentação do presente decreto, a classificação dos estudantes adentro de cada escalão e a do rendimento máximo do agregado familiar a partir do qual se não concedem bolsas.
 
-###### Art. 31.º As famílias que beneficiem do disposto nas alíneas b) e c) do artigo anterior deverão depositar no banco emissor da província, à ordem do Fundo da Comissão Provincial, até ao dia 7 de cada mês, as quantias, respectivamente, de 500$00 ou 1000$00, ficando suspensas as bolsas a partir do mês seguinte àquele em que se verificar que a quantia não foi depositada. Também neste caso a família ficará obrigada a repor a importância das passagens dos bolseiros, considerando-se tais dívidas como dívidas para com a Fazenda Nacional, para efeitos da sua liquidação.
+Art. 31.º As famílias que beneficiem do disposto nas alíneas b) e c) do artigo anterior deverão depositar no banco emissor da província, à ordem do Fundo da Comissão Provincial, até ao dia 7 de cada mês, as quantias, respectivamente, de 500$00 ou 1000$00, ficando suspensas as bolsas a partir do mês seguinte àquele em que se verificar que a quantia não foi depositada. Também neste caso a família ficará obrigada a repor a importância das passagens dos bolseiros, considerando-se tais dívidas como dívidas para com a Fazenda Nacional, para efeitos da sua liquidação.
 
-###### Art. 32.º São de conta do Estado, a cargo da província ultramarina a que o bolseiro pertencer, as deslocações nas províncias, entre províncias e com a metrópole, bem como as viagens de férias a que tiver direito.
+Art. 32.º São de conta do Estado, a cargo da província ultramarina a que o bolseiro pertencer, as deslocações nas províncias, entre províncias e com a metrópole, bem como as viagens de férias a que tiver direito.
 
-###### Art. 33.º As isenções, reduções de propinas e outras formas de auxílio que os bolseiros possam obter, nos termos da legislação escolar vigente, para os cursos que frequentem não prejudicam a atribuição das bolsas previstas no presente diploma.
+Art. 33.º As isenções, reduções de propinas e outras formas de auxílio que os bolseiros possam obter, nos termos da legislação escolar vigente, para os cursos que frequentem não prejudicam a atribuição das bolsas previstas no presente diploma.
 
-###### Art. 34.º São instituídas bolsas-empréstimos na importância de 15000$00 anuais a restituir pelos bolseiros, no montante de 1/10 dos seus vencimentos certos logo que obtenham colocação na província donde são originários, e desde que declarem comprometer-se a prestar nela tantos anos de serviço quanto os necessários para a completa satisfação dos seus encargos. Nos casos de serem dispensados do seu serviço na província, ou se enveredarem por actividades particulares, deverão cobrir a sua dívida no máximo de 60 prestações mensais. Os usufrutuários destas bolsas poderão continuar a usufruir dos seus benefícios ainda que não obtenham aproveitamento num ano escolar.
+Art. 34.º São instituídas bolsas-empréstimos na importância de 15000$00 anuais a restituir pelos bolseiros, no montante de 1/10 dos seus vencimentos certos logo que obtenham colocação na província donde são originários, e desde que declarem comprometer-se a prestar nela tantos anos de serviço quanto os necessários para a completa satisfação dos seus encargos. Nos casos de serem dispensados do seu serviço na província, ou se enveredarem por actividades particulares, deverão cobrir a sua dívida no máximo de 60 prestações mensais. Os usufrutuários destas bolsas poderão continuar a usufruir dos seus benefícios ainda que não obtenham aproveitamento num ano escolar.
 
 § único. Em caso de falecimento ou desaparecimento do beneficiário ficarão responsáveis pelo reembolso da bolsa-empréstimo as pessoas previstas no artigo 21.º do presente decreto ou, na impossibilidade de se pedir o reembolso, o encargo com o reembolso sairá dos subsídios referidos no artigo 47.º
 
-###### Art. 35.º O estudante que perder o direito num ano a uma bolsa poderá recuperá-lo se se voltarem a verificar as condições necessárias para a sua concessão, podendo, se para tal houver disponibilidades, recorrer a uma bolsa-empréstimo, a cobrir, pela forma prevista no artigo anterior, em tantas prestações quantos os meses em que a receber, para o ano ou anos a que não tenha direito à bolsa integral ou reduzida.
+Art. 35.º O estudante que perder o direito num ano a uma bolsa poderá recuperá-lo se se voltarem a verificar as condições necessárias para a sua concessão, podendo, se para tal houver disponibilidades, recorrer a uma bolsa-empréstimo, a cobrir, pela forma prevista no artigo anterior, em tantas prestações quantos os meses em que a receber, para o ano ou anos a que não tenha direito à bolsa integral ou reduzida.
 
-###### Art. 36.º Sempre que possível, os bolseiros serão instalados nos lares a eles especialmente destinados e, neste caso, será entregue directamente ao lar, pela Mocidade Portuguesa, a importância da instalação e o remanescente ao bolseiro. Se este tiver família idónea no local do estudo, poderá requerer a sua instalação com a família e receber o total da bolsa, bem como se não houver vagas nas instalações dos lares.
+Art. 36.º Sempre que possível, os bolseiros serão instalados nos lares a eles especialmente destinados e, neste caso, será entregue directamente ao lar, pela Mocidade Portuguesa, a importância da instalação e o remanescente ao bolseiro. Se este tiver família idónea no local do estudo, poderá requerer a sua instalação com a família e receber o total da bolsa, bem como se não houver vagas nas instalações dos lares.
 
 Do fundo de bolsas de estudo e de lares
 
-###### Art. 37.º será constituído um fundo de bolsas de estudo e de lares académicos em cada uma das províncias, administrado pela comissão provincial ou comissão administrativa para o efeito criada, coberto por subsídios, empréstimos, donativos e quaisquer outras formas de contribuição de entidades públicas e privadas ou particulares que para tal fim desejem concorrer.
+Art. 37.º será constituído um fundo de bolsas de estudo e de lares académicos em cada uma das províncias, administrado pela comissão provincial ou comissão administrativa para o efeito criada, coberto por subsídios, empréstimos, donativos e quaisquer outras formas de contribuição de entidades públicas e privadas ou particulares que para tal fim desejem concorrer.
 
-###### Art. 38.º Os fundos que em cada ano forem destinados às bolsas e lares serão entregues, semestralmente, à comissão, a qual, por intermédio dos serviços de Fazenda, procederá à sua transferência para quem e onde se verificar a necessidade da sua utilização, por operações de tesouraria. A Fazenda colocá-los-á à ordem dos serviços da Mocidade Portuguesa encarregados da sua distribuição.
+Art. 38.º Os fundos que em cada ano forem destinados às bolsas e lares serão entregues, semestralmente, à comissão, a qual, por intermédio dos serviços de Fazenda, procederá à sua transferência para quem e onde se verificar a necessidade da sua utilização, por operações de tesouraria. A Fazenda colocá-los-á à ordem dos serviços da Mocidade Portuguesa encarregados da sua distribuição.
 
-###### Art. 39.º A Agência-Geral do Ultramar entregará, da mesma forma, à Procuradoria dos Estudantes Ultramarinos, em Lisboa, os quantitativos destinados a lares e a bolseiros.
+Art. 39.º A Agência-Geral do Ultramar entregará, da mesma forma, à Procuradoria dos Estudantes Ultramarinos, em Lisboa, os quantitativos destinados a lares e a bolseiros.
 
-###### Art. 40.º As famílias dos estudantes ultramarinos que se encontrem na metrópole, desde que o requeiram no início do ano lectivo, e provem que mantêm estudantes fora do lar, e obtenham para tal autorização, poderão utilizar-se dos serviços da Direcção-Geral de Fazenda para a transferência até 2000$00 mensais para os estudantes, importância que será distribuída, igualmente, pela Procuradoria dos Estudantes Ultramarinos.
+Art. 40.º As famílias dos estudantes ultramarinos que se encontrem na metrópole, desde que o requeiram no início do ano lectivo, e provem que mantêm estudantes fora do lar, e obtenham para tal autorização, poderão utilizar-se dos serviços da Direcção-Geral de Fazenda para a transferência até 2000$00 mensais para os estudantes, importância que será distribuída, igualmente, pela Procuradoria dos Estudantes Ultramarinos.
 
 Dos lares; do apoio aos estudantes
 
-###### Art. 41.º A Organização Nacional Mocidade Portuguesa é a entidade que dará aos estudantes ultramarinos, nos locais de estudo, todo o auxílio moral e material de que necessitem, designadamente aos bolseiros, através dos serviços de Procuradoria dos Estudantes Ultramarinos, em Lisboa, e, nas outras localidades, pelos seus respectivos serviços, em extensão da Procuradoria, e aquela a quem, em princípio, deverá estar confiada à direcção dos lares dos estudantes.
+Art. 41.º A Organização Nacional Mocidade Portuguesa é a entidade que dará aos estudantes ultramarinos, nos locais de estudo, todo o auxílio moral e material de que necessitem, designadamente aos bolseiros, através dos serviços de Procuradoria dos Estudantes Ultramarinos, em Lisboa, e, nas outras localidades, pelos seus respectivos serviços, em extensão da Procuradoria, e aquela a quem, em princípio, deverá estar confiada à direcção dos lares dos estudantes.
 
-###### Art. 42.º A Procuradoria e os serviços da Mocidade Portuguesa que constituem sua extensão orientam e apoiam, por forma directa, as actividades que se prendem com os estudantes ultramarinos, ficando a seu cargo a recepção e distribuição das verbas que se destinem aos estudantes, bolseiros ou não, e a lares, bem como as viagens daqueles, quer de ida, quer de regresso, quer as de férias.
+Art. 42.º A Procuradoria e os serviços da Mocidade Portuguesa que constituem sua extensão orientam e apoiam, por forma directa, as actividades que se prendem com os estudantes ultramarinos, ficando a seu cargo a recepção e distribuição das verbas que se destinem aos estudantes, bolseiros ou não, e a lares, bem como as viagens daqueles, quer de ida, quer de regresso, quer as de férias.
 
-###### Art. 43.º A Procuradoria será dotada dos meios adequados e deverá manter um fundo de maneio que lhe permita ocorrer aos encargos que não tenham imediata cobertura, obviando, assim, a quaisquer eventuais irregularidades nos processos de transferência.
+Art. 43.º A Procuradoria será dotada dos meios adequados e deverá manter um fundo de maneio que lhe permita ocorrer aos encargos que não tenham imediata cobertura, obviando, assim, a quaisquer eventuais irregularidades nos processos de transferência.
 
-###### Art. 44.º A Procuradoria acompanhará de perto a vida escolar dos estudantes, bolseiros ou não, estabelecendo as necessárias ligações com os estabelecimentos de ensino, organismos oficiais e famílias.
+Art. 44.º A Procuradoria acompanhará de perto a vida escolar dos estudantes, bolseiros ou não, estabelecendo as necessárias ligações com os estabelecimentos de ensino, organismos oficiais e famílias.
 
-###### Art. 45.º Na Procuradoria existirá um registo biográfico individualizado dos estudantes, do qual manterá ao corrente a Direcção-Geral do Ensino do Ministério do Ultramar.
+Art. 45.º Na Procuradoria existirá um registo biográfico individualizado dos estudantes, do qual manterá ao corrente a Direcção-Geral do Ensino do Ministério do Ultramar.
 
-###### Art. 46.º A Procuradoria facultará, especialmente, o seguinte apoio aos estudantes e bolseiros:
+Art. 46.º A Procuradoria facultará, especialmente, o seguinte apoio aos estudantes e bolseiros:
 
 a) Com a colaboração do Hospital do Ultramar e dos respectivos serviços da Mocidade Portuguesa, Masculina e Feminina:
 
@@ -324,21 +324,21 @@ d) Actividades gimnodesportivas;
 
 e) Empréstimo ou cedência de material escolar.
 
-###### Art. 47.º Os encargos resultantes da criação de lares de estudantes, dos serviços de procuradoria e das actividades que lhes são confiadas e de apoio aos estudantes serão suportados, equitativamente, pelas províncias ultramarinas e pelo Governo Central, mediante subsídios atribuídos à Organização Nacional Mocidade Portuguesa.
+Art. 47.º Os encargos resultantes da criação de lares de estudantes, dos serviços de procuradoria e das actividades que lhes são confiadas e de apoio aos estudantes serão suportados, equitativamente, pelas províncias ultramarinas e pelo Governo Central, mediante subsídios atribuídos à Organização Nacional Mocidade Portuguesa.
 
-###### Art. 48.º As funções cometidas à Procuradoria serão desempenhadas, na parte que lhe caiba e lhe seja viável e nas diferentes localidades, pelos serviços respectivos da Mocidade Portuguesa; na metrópole, sob a orientação da Procuradoria, no ultramar, da comissão provincial de bolsas de estudo e lares de estudantes.
+Art. 48.º As funções cometidas à Procuradoria serão desempenhadas, na parte que lhe caiba e lhe seja viável e nas diferentes localidades, pelos serviços respectivos da Mocidade Portuguesa; na metrópole, sob a orientação da Procuradoria, no ultramar, da comissão provincial de bolsas de estudo e lares de estudantes.
 
 Disposições finais
 
-###### Art. 49.º Os casos omissos, ou que careçam de resolução superior, serão resolvidos por despacho ministerial, se respeitarem a estudantes, bolseiros ou não, ou estagiários estudantes na metrópole, ou a situações que interessem a mais de uma província, e por despacho dos governadores provinciais, nos restantes casos.
+Art. 49.º Os casos omissos, ou que careçam de resolução superior, serão resolvidos por despacho ministerial, se respeitarem a estudantes, bolseiros ou não, ou estagiários estudantes na metrópole, ou a situações que interessem a mais de uma província, e por despacho dos governadores provinciais, nos restantes casos.
 
-###### Art. 50.º Ficam revogados todos os diplomas legislativos, portarias e despachos que, expressa ou tàcitamente, contrariem o disposto neste diploma, sem prejuízo da situação dos demais bolseiros.
+Art. 50.º Ficam revogados todos os diplomas legislativos, portarias e despachos que, expressa ou tàcitamente, contrariem o disposto neste diploma, sem prejuízo da situação dos demais bolseiros.
 
-###### Art. 51.º Em relação à província de Macau, aplicar-se-ão sòmente as disposições do presente decreto que não contrariem a legislação ali actualmente em vigor.
+Art. 51.º Em relação à província de Macau, aplicar-se-ão sòmente as disposições do presente decreto que não contrariem a legislação ali actualmente em vigor.
 
-###### Art. 52.º Nas províncias de Cabo Verde, Guiné, S. Tomé e Príncipe e Timor, as comissões a que se refere o artigo 1.º têm atribuições para conceder bolsas para frequência de liceus, escolas técnicas e de artes e ofícios, nas condições actualmente vigentes nas respectivas províncias.
+Art. 52.º Nas províncias de Cabo Verde, Guiné, S. Tomé e Príncipe e Timor, as comissões a que se refere o artigo 1.º têm atribuições para conceder bolsas para frequência de liceus, escolas técnicas e de artes e ofícios, nas condições actualmente vigentes nas respectivas províncias.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 11 de Setembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

@@ -48,40 +48,88 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44083-1961-184901
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-06-12T00:00:00Z'
+  retrieved_at: '2026-10-22T19:27:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cba69ccb1207297fe424f913f6544f686aad942e993171d1b3a640d98f746978
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8e58e4f91b7fb64549d491a6d915e8ab86c7244d4535c61c0f395ee4efb10f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:27:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Imposto do SELO
+- Regulamento do Imposto do SELO
+- Tabela Geral do Imposto do SELO
 relationships:
 - type: amended_by
   target: pt:dre:426139:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:401755:por
+  label: "Alterada a taxa do papel selado referida no art. 6º do Regulamento do Imposto do Selo aprovado pelo Dec 12700 de\
+    \ 20-Nov de 1926, com a redacção constante do presente diploma, pelo DEC LEI.375/74.20.08.1974.MF, DG.IS [193-Supl] de\
+    \ 20.08.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/375-1974-401755
+  date: '1974-08-20'
+- type: cites
+  target: pt:dre:145832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:161312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:349329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675814:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:426139:por
+  label: "Revogados os arts. 5º a 21º pelo DEC LEI.136/78.1978.06.12.MFP, DR.IS [133]2ºSupl\0pl"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-1978-426139
+  date: '1978-06-12'
 article_structure:
-  article_count: 37
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:27:12Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +140,9 @@ Em harmonia com a autorização concedida pelo artigo 7.º da [Lei n.º 2106](ht
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 6.º, 44.º a 48.º, 50.º e 52.º a 57.º do Regulamento do Imposto do Selo passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 6.º, 44.º a 48.º, 50.º e 52.º a 57.º do Regulamento do Imposto do Selo passam a ter a seguinte redacção:
 
-###### Art. 6.º O papel selado pròpriamente dito terá vinte e cinco linhas em cada lauda e as dimensões de 297 mm de altura por 210 mm de largura. O selo será estampado na parte superior, em relevo branco, cercado pela inscrição «Imposto do selo 5$00», a tinta de óleo.
+Art. 6.º O papel selado pròpriamente dito terá vinte e cinco linhas em cada lauda e as dimensões de 297 mm de altura por 210 mm de largura. O selo será estampado na parte superior, em relevo branco, cercado pela inscrição «Imposto do selo 5$00», a tinta de óleo.
 
 § 1.º O papel será marginado por perpendiculares às linhas de escrita, impressas com a mesma tinta que for usada na estampagem da inscrição a que se refere o corpo do presente artigo, ficando na frente de cada lauda a margem esquerda com 30,6 mm de largura e a direita com 8 mm. Com as mesmas dimensões será marginado o verso, mas invertendo a respectiva posição.
 
@@ -104,15 +152,15 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 44.º O selo dos anúncios de que tratam as alíneas a) e b) do n.º 2 do artigo 12 da tabela geral do imposto do selo é cobrado dos anunciantes pelas empresas publicitárias, únicas responsáveis para com a Fazenda Nacional pelas respectivas importâncias.
+Art. 44.º O selo dos anúncios de que tratam as alíneas a) e b) do n.º 2 do artigo 12 da tabela geral do imposto do selo é cobrado dos anunciantes pelas empresas publicitárias, únicas responsáveis para com a Fazenda Nacional pelas respectivas importâncias.
 
-###### Art. 45.º Para a arrecadação do selo devido pelos anúncios insertos em quaisquer periódicos, incluindo o Diário do Governo, os responsáveis apresentarão até ao dia 8 de cada mês, na secção de finanças do concelho ou bairro da sua residência ou sede, declaração conforme o modelo n.º 1 respeitante ao mês anterior, acompanhada da colecção dos números publicados nesse período, a fim de que, feita a conferência, sejam passadas, dentro de 48 horas, guias para entrega do imposto, na tesouraria da Fazenda Pública, até ao dia 15 imediato.
+Art. 45.º Para a arrecadação do selo devido pelos anúncios insertos em quaisquer periódicos, incluindo o Diário do Governo, os responsáveis apresentarão até ao dia 8 de cada mês, na secção de finanças do concelho ou bairro da sua residência ou sede, declaração conforme o modelo n.º 1 respeitante ao mês anterior, acompanhada da colecção dos números publicados nesse período, a fim de que, feita a conferência, sejam passadas, dentro de 48 horas, guias para entrega do imposto, na tesouraria da Fazenda Pública, até ao dia 15 imediato.
 
 § 1.º Quando cessar ou for interrompida a publicação de qualquer periódico, a respectiva administração apresentará, no prazo de oito dias, na secção de finanças, a declaração a que se refere o corpo deste artigo, juntamente com os números publicados, para efeito de pagamento imediato do selo devido.
 
 § 2.º Se os periódicos forem publicados a bordo de qualquer navio nacional, os prazos anteriormente referidos diferem-se para o mês imediato ao do regresso do navio.
 
-###### Art. 46.º A taxa de 3 por cento a que se refere a alínea a) do n.º 2 do artigo 12 da tabela geral do imposto do selo, quanto a anúncios pagos, publicados em qualquer periódico, incluindo o Diário do Governo, incidirá sobre o custo dos mesmos, devendo tomar-se por base para liquidação do imposto a receita cobrada dos anunciantes, nunca inferior, porém, à resultante da respectiva tabela de preços e descontos normais que as empresas editoras ou proprietárias das publicações adoptem e sem ter de atender-se a contratos especiais ou a quaisquer outras reduções.
+Art. 46.º A taxa de 3 por cento a que se refere a alínea a) do n.º 2 do artigo 12 da tabela geral do imposto do selo, quanto a anúncios pagos, publicados em qualquer periódico, incluindo o Diário do Governo, incidirá sobre o custo dos mesmos, devendo tomar-se por base para liquidação do imposto a receita cobrada dos anunciantes, nunca inferior, porém, à resultante da respectiva tabela de preços e descontos normais que as empresas editoras ou proprietárias das publicações adoptem e sem ter de atender-se a contratos especiais ou a quaisquer outras reduções.
 
 § 1.º O Grémio Nacional da Imprensa Diária é obrigado a remeter à Direcção-Geral das Contribuições e Impostos a tabela de preços e descontos normais, em duplicado, no prazo de vinte dias, contados da data da aprovação pelo aludido Grémio.
 
@@ -140,43 +188,43 @@ Imposto a cobrar do anunciante, tendo em vista o disposto na parte final deste a
 
 § 6.º As empresas editoras ou proprietárias dos jornais diários poderão, a seu requerimento e mediante despacho do director-geral das Contribuições e Impostos, ser dispensadas da adopção do livro referido neste artigo desde que possuam outros elementos de escrita que permitam a fiscalização do imposto.
 
-###### Art. 47.º Os editores da publicidade referida na alínea a) do n.º 2 do artigo 12 da tabela geral do imposto do selo, exceptuados os anúncios insertos em quaisquer periódicos, devem apresentar na secção de finanças do concelho ou bairro da sua residência ou sede um exemplar de cada edição, acompanhado da declaração modelo n.º 2, a fim de, efectuada a liquidação, serem passadas as respectivas guias para pagamento do selo devido.
+Art. 47.º Os editores da publicidade referida na alínea a) do n.º 2 do artigo 12 da tabela geral do imposto do selo, exceptuados os anúncios insertos em quaisquer periódicos, devem apresentar na secção de finanças do concelho ou bairro da sua residência ou sede um exemplar de cada edição, acompanhado da declaração modelo n.º 2, a fim de, efectuada a liquidação, serem passadas as respectivas guias para pagamento do selo devido.
 
 § 1.º Para cálculo do imposto não poderá tomar-se como custo do anúncio importância inferior à da tabela de preços do Diário do Governo para os anunciantes de Lisboa e Porto. Esse mínimo terá a redução de 50 por cento e 75 por cento, respectivamente, para os anunciantes das demais cidades e restantes terras.
 
 § 2.º Se o anúncio for gratuito ou não puder determinar-se-lhe o custo, observar-se-á o disposto no parágrafo anterior.
 
-###### Art. 48.º As pessoas responsáveis pelo pagamento do imposto do selo devido pelos anúncios tributatados nos termos da alínea b) do n.º 2 do artigo 12 da tabela geral do imposto do selo são obrigadas a escriturar um livro especial, não sujeito a selo, autenticado pelo chefe da secção de finanças do concelho ou bairro da sua residência ou sede, no qual registarão os nomes e moradas dos anunciantes, custo do anúncio e importância do selo arrecadado.
+Art. 48.º As pessoas responsáveis pelo pagamento do imposto do selo devido pelos anúncios tributatados nos termos da alínea b) do n.º 2 do artigo 12 da tabela geral do imposto do selo são obrigadas a escriturar um livro especial, não sujeito a selo, autenticado pelo chefe da secção de finanças do concelho ou bairro da sua residência ou sede, no qual registarão os nomes e moradas dos anunciantes, custo do anúncio e importância do selo arrecadado.
 
 § único. Em face do livro anteriormente mencionado serão passadas as guias para entrega do imposto cobrado na respectiva tesouraria da Fazenda Pública durante o mês seguinte ao da cobrança.
 
 ...
 
-###### Art. 50.º Se os anúncios mencionados na alínea a) do n.º 1 do artigo 12 da tabela geral do imposto do selo forem editados, em comum, por mais de um anunciante, em relação a cada um deles será devida a respectiva taxa.
+Art. 50.º Se os anúncios mencionados na alínea a) do n.º 1 do artigo 12 da tabela geral do imposto do selo forem editados, em comum, por mais de um anunciante, em relação a cada um deles será devida a respectiva taxa.
 
 ...
 
-###### Art. 52.º O pagamento do imposto a que se referem as alíneas a) e b) do n.º 1 do artigo 12 e os artigos 32 e 41 da tabela geral do imposto do selo será efectuado antes de iniciada a publicidade.
+Art. 52.º O pagamento do imposto a que se referem as alíneas a) e b) do n.º 1 do artigo 12 e os artigos 32 e 41 da tabela geral do imposto do selo será efectuado antes de iniciada a publicidade.
 
 § único. Os interessados devem apresentar declaração contendo os elementos indispensáveis à liquidação do imposto, acompanhada, quando for caso disso, de um exemplar do respectivo anúncio.
 
-###### Art. 53.º Para pagamento do selo devido pelos cartazes ou anúncios pintados em parede, madeira, placas metálicas ou análogas, gravados, feitos com letras em relevo ou por qualquer outro processo, deverão os interessados apresentar nas secções de finanças do concelho ou bairro da área a que pertencerem os locais de exposição declaração em que indiquem os dizeres, a superfície ocupada e o mês ou meses, dentro do mesmo ano civil, em relação aos quais queiram pagar imposto. A secção de finanças processará guias em triplicado, nas quais mencionará, além da importância liquidada e do período a que respeita, as indicações da declaração.
+Art. 53.º Para pagamento do selo devido pelos cartazes ou anúncios pintados em parede, madeira, placas metálicas ou análogas, gravados, feitos com letras em relevo ou por qualquer outro processo, deverão os interessados apresentar nas secções de finanças do concelho ou bairro da área a que pertencerem os locais de exposição declaração em que indiquem os dizeres, a superfície ocupada e o mês ou meses, dentro do mesmo ano civil, em relação aos quais queiram pagar imposto. A secção de finanças processará guias em triplicado, nas quais mencionará, além da importância liquidada e do período a que respeita, as indicações da declaração.
 
 § único. Na liquidação ter-se-á em vista que os meses são os do calendário.
 
-###### Art. 54.º Se os interessados pretenderem pagar no concelho ou bairro da sua residência ou sede o imposto devido pelos cartazes ou anúncios que pretendam expor fora da respectiva área, só o poderão fazer mediante autorização do director-geral das Contribuições e Impostos, a quem devem requerê-la, indicando o número de exemplares e os locais de exposição. Os requerimentos podem ser apresentados, nas sedes do distrito, aos directores de finanças e, nos demais concelhos, aos chefes das secções de finanças.
+Art. 54.º Se os interessados pretenderem pagar no concelho ou bairro da sua residência ou sede o imposto devido pelos cartazes ou anúncios que pretendam expor fora da respectiva área, só o poderão fazer mediante autorização do director-geral das Contribuições e Impostos, a quem devem requerê-la, indicando o número de exemplares e os locais de exposição. Os requerimentos podem ser apresentados, nas sedes do distrito, aos directores de finanças e, nos demais concelhos, aos chefes das secções de finanças.
 
-###### Art. 55.º Pela publicidade referida nos artigos 32 e 41 da tabela geral do imposto do selo serão pagas tantas taxas quantas forem as pessoas a quem os anúncios interessarem, considerando-se como um só anúncio as referências às dependências, agências, filiais, fábricas ou armazéns do mesmo anunciante. Qualquer alteração nos calendários, cartazes ou anúncios implica o pagamento de nova taxa.
+Art. 55.º Pela publicidade referida nos artigos 32 e 41 da tabela geral do imposto do selo serão pagas tantas taxas quantas forem as pessoas a quem os anúncios interessarem, considerando-se como um só anúncio as referências às dependências, agências, filiais, fábricas ou armazéns do mesmo anunciante. Qualquer alteração nos calendários, cartazes ou anúncios implica o pagamento de nova taxa.
 
-###### Art. 56.º Para efeitos de incidência do imposto considera-se anúncio qualquer publicidade com fim lucrativo ou mercantil.
+Art. 56.º Para efeitos de incidência do imposto considera-se anúncio qualquer publicidade com fim lucrativo ou mercantil.
 
-###### Art. 57.º Considera-se abrangida pelo n.º 4 do artigo 41 da tabela geral do imposto do selo a simples indicação da empresa, do produto ou da marca.
+Art. 57.º Considera-se abrangida pelo n.º 4 do artigo 41 da tabela geral do imposto do selo a simples indicação da empresa, do produto ou da marca.
 
-###### Art. 2.º Os artigos 11-A, 12, 17-A, 18, 20, 23, 24, 25, o n.º II do artigo 29, os artigos 32, 36, 37, 41, 46, 50, 61, 64, 68, 84, 88, 91, 92, 93, as verbas n.os IV, VI, VI-A, VI-B, VII, VIII, IX, XII, XVII, XXI, XXII do artigo 105, e os artigos 118, 136, 140, 141, 142, 157, 159, 162 e 167 da tabela geral do imposto do selo passam a ter a seguinte redacção:
+Art. 2.º Os artigos 11-A, 12, 17-A, 18, 20, 23, 24, 25, o n.º II do artigo 29, os artigos 32, 36, 37, 41, 46, 50, 61, 64, 68, 84, 88, 91, 92, 93, as verbas n.os IV, VI, VI-A, VI-B, VII, VIII, IX, XII, XVII, XXI, XXII do artigo 105, e os artigos 118, 136, 140, 141, 142, 157, 159, 162 e 167 da tabela geral do imposto do selo passam a ter a seguinte redacção:
 
-###### Artigo 11-A - Alvará de concessão de autorizações gerais ou especiais de importação para produtos derivados do petróleo, por cada quilograma dos produtos cuja importação é autorizada - $003 (selo de verba).
+Artigo 11-A - Alvará de concessão de autorizações gerais ou especiais de importação para produtos derivados do petróleo, por cada quilograma dos produtos cuja importação é autorizada - $003 (selo de verba).
 
-###### Artigo 12 - Anúncios ou qualquer outra publicidade ou reclamo:
+Artigo 12 - Anúncios ou qualquer outra publicidade ou reclamo:
 
 1. Publicidade feita directamente pelo anunciante, de produtos, serviços ou de quaisquer indústrias, comércios ou divertimentos:
 
@@ -214,15 +262,15 @@ b) Por emissões radiofónicas, televisionadas ou difundidas por qualquer proces
 
 Quando a publicidade referida nesta alínea for gratuita ou não puder determinar-se-lhe o custo, o imposto será liquidado de harmonia com a alínea b) do n.º 1 deste artigo, em relação a cada empresa anunciada ou, não a havendo, por cada produto anunciado.
 
-###### Artigo 17-A - Autorizações especiais de importação para produtos derivados do petróleo, por cada quilograma dos produtos cuja importação é autorizada - $003 (selo de verba).
+Artigo 17-A - Autorizações especiais de importação para produtos derivados do petróleo, por cada quilograma dos produtos cuja importação é autorizada - $003 (selo de verba).
 
-###### Artigo 18 - Autorizações extrajudiciais para casamento, qualquer que seja a forma ou acto em que sejam dadas, cada uma - 60$00 (estampilha).
+Artigo 18 - Autorizações extrajudiciais para casamento, qualquer que seja a forma ou acto em que sejam dadas, cada uma - 60$00 (estampilha).
 
 Ficam isentas as autorizações para casamentos de pessoas indigentes, concedidas no acto da sua celebração, devendo quem lavrar os assentos declarar à margem o motivo da isenção.
 
-###### Artigo 20 - Autos de aprovação de testamentos cerrados, cada um - 80$00 (selo de verba).
+Artigo 20 - Autos de aprovação de testamentos cerrados, cada um - 80$00 (selo de verba).
 
-###### Artigo 23 - Autos e termos de arrematação de impostos, rendas e rendimentos do Estado, autarquias locais e suas federações e uniões e pessoas colectivas de utilidade pública administrativa, cada meia folha - 5$00 (papel selado).
+Artigo 23 - Autos e termos de arrematação de impostos, rendas e rendimentos do Estado, autarquias locais e suas federações e uniões e pessoas colectivas de utilidade pública administrativa, cada meia folha - 5$00 (papel selado).
 
 E de cada um, sobre o valor da arrematação - 3 por mil (estampilha).
 
@@ -232,7 +280,7 @@ Em caso algum poderá, da aplicação da taxa variável, liquidar-se quantia inf
 
 Quando a importância do imposto for superior a 1000$00, deverá o pagamento efectuar-se por meio de guia, referenciando-se no auto ou termo o quantitativo que tiver sido pago, com a indicação do número e data da respectiva verba e da tesouraria da Fazenda Pública onde se fez o pagamento.
 
-###### Artigo 24 - Autos e termos judiciais, perante qualquer autoridade ou em repartição pública, que compreenderem arrendamento ou licitação de bens imóveis, caução ao pagamento do imposto sobre as sucessões e doações, cessão, conferência de interessados em que se concorde na adjudicação de bens comuns, confissão ou desistência de todo ou parte do pedido feito em qualquer processo, desistência do recurso interposto, encabeçamento de prazo, confissão de dívida, fiança, hipoteca, penhor, quitação, responsabilidade por perdas e danos e transacções, cada meia folha (ver nota a) - 5$00 (papel selado).
+Artigo 24 - Autos e termos judiciais, perante qualquer autoridade ou em repartição pública, que compreenderem arrendamento ou licitação de bens imóveis, caução ao pagamento do imposto sobre as sucessões e doações, cessão, conferência de interessados em que se concorde na adjudicação de bens comuns, confissão ou desistência de todo ou parte do pedido feito em qualquer processo, desistência do recurso interposto, encabeçamento de prazo, confissão de dívida, fiança, hipoteca, penhor, quitação, responsabilidade por perdas e danos e transacções, cada meia folha (ver nota a) - 5$00 (papel selado).
 
 E de cada um - 80$00 (estampilha).
 
@@ -240,9 +288,9 @@ A estas taxas acresce o selo que competir a qualquer dos actos ou contratos que 
 
 Ficam isentos os termos de fiança do imposto de justiça em processos criminais e os autos de conferência para aprovação do passivo, encabeçamento de prazos e sorteio nos inventários.
 
-###### Artigo 25 - Aval prestado em carta ou em qualquer outro documento em relação a letras ou livranças, não o sendo nas próprias letras e livranças, sobre o valor avalizado - 1 por mil (estampilha).
+Artigo 25 - Aval prestado em carta ou em qualquer outro documento em relação a letras ou livranças, não o sendo nas próprias letras e livranças, sobre o valor avalizado - 1 por mil (estampilha).
 
-###### Artigo 29 - Bilhetes de passagem:
+Artigo 29 - Bilhetes de passagem:
 
 ...
 
@@ -250,7 +298,7 @@ II - Por via marítima:
 
 Em quaisquer embarcações nacionais ou estrangeiras, sobre o seu custo - 3 por cento (selo especial).
 
-###### Artigo 32 - Calendários anunciadores:
+Artigo 32 - Calendários anunciadores:
 
 Por cada exemplar e por cada ano - 1$00 (selo especial).
 
@@ -268,7 +316,7 @@ Pelos exemplares restantes - 30 por cento.
 
 Os calendários serão carimbados nas sedes dos distritos pelas direcções de finanças e nos demais concelhos pelas respectivas secções de finanças, depois de pago o imposto.
 
-###### Artigo 36 - Cartas de jogar, sejam quais forem as suas dimensões, formas e desenhos, cada baralho:
+Artigo 36 - Cartas de jogar, sejam quais forem as suas dimensões, formas e desenhos, cada baralho:
 
 Sendo nacionais - 10$00 (selo especial).
 
@@ -276,9 +324,9 @@ Sendo estrangeiras - 20$00 (selo especial).
 
 Ficam isentas as cartas de jogar nacionais que se exportarem para países estrangeiros.
 
-###### Artigo 37 - Cartas de naturalização, cada uma - 80$00 (estampilha).
+Artigo 37 - Cartas de naturalização, cada uma - 80$00 (estampilha).
 
-###### Artigo 41 - Cartazes ou anúncios afixados ou expostos em qualquer lugar, que façam propaganda de produtos, serviços ou de quaisquer indústrias, comércios ou divertimentos:
+Artigo 41 - Cartazes ou anúncios afixados ou expostos em qualquer lugar, que façam propaganda de produtos, serviços ou de quaisquer indústrias, comércios ou divertimentos:
 
 1. Feitos em papel, por cada um e em cada ano civil:
 
@@ -348,11 +396,11 @@ II. Os cartazes ou anúncios afixados ou expostos em qualquer estabelecimento, q
 
 III. As tabuletas afixadas nos locais de exercício das actividades a que respeitam.
 
-###### Artigo 46 - Cheques passados e pagáveis no continente da República e ilhas adjacentes - $10 (selo especial) (ver nota a).
+Artigo 46 - Cheques passados e pagáveis no continente da República e ilhas adjacentes - $10 (selo especial) (ver nota a).
 
 (nota a) Continuarão em vigor até à sua completa extinção, e sem necessidade de aposição de novo selo, os cheques já selados com a taxa de $05.
 
-###### Artigo 50 - Compra e venda ou cessão onerosa de bens mobiliários ou imobiliários, por auto ou termo judicial, por escrito particular ou por escritura ou instrumento notarial - 2 por mil (selo de verba) (ver nota a).
+Artigo 50 - Compra e venda ou cessão onerosa de bens mobiliários ou imobiliários, por auto ou termo judicial, por escrito particular ou por escritura ou instrumento notarial - 2 por mil (selo de verba) (ver nota a).
 
 A taxa incidirá:
 
@@ -370,7 +418,7 @@ Acresce, segundo a natureza do título, o selo dos artigos 24, 92, 93 ou 100.
 
 (nota a) Pode também ser pago por estampilha.
 
-###### Artigo 61 - Contratos feitos perante qualquer repartição pública, estabelecimentos do Estado, corpos administrativos ou pessoas colectivas de utilidade pública administrativa que não estejam especialmente incluídos nesta tabela:
+Artigo 61 - Contratos feitos perante qualquer repartição pública, estabelecimentos do Estado, corpos administrativos ou pessoas colectivas de utilidade pública administrativa que não estejam especialmente incluídos nesta tabela:
 
 Cada meia folha - 5$00 (papel selado) (ver nota a).
 
@@ -380,7 +428,7 @@ Sendo de serventuários, de cada contrato, além do selo do papel - 10$00 (estam
 
 (nota a) Pode também ser pago por estampilha.
 
-###### Artigo 64 - Convenções antenupciais - 200$00.
+Artigo 64 - Convenções antenupciais - 200$00.
 
 Se envolverem dote, mais, conforme o valor deste - 3 por mil.
 
@@ -390,21 +438,21 @@ E se o valor for no todo desconhecido ou indeterminado, além da primeira taxa d
 
 Acresce o selo do artigo 93.
 
-###### Artigo 68 - Declaração perante notário para habilitação de herdeiros, por cada herança aberta, seja qual for o número de herdeiros habilitados - 80$00 (selo de verba).
+Artigo 68 - Declaração perante notário para habilitação de herdeiros, por cada herança aberta, seja qual for o número de herdeiros habilitados - 80$00 (selo de verba).
 
 Acresce o selo do artigo 93.
 
-###### Artigo 84 - Dispensa de impedimento para casamento, por cada processo - 500$00 (selo de verba).
+Artigo 84 - Dispensa de impedimento para casamento, por cada processo - 500$00 (selo de verba).
 
 Ficam isentas as dispensas concedidas a nubentes nas condições previstas pelo artigo 364.º, com observância do artigo 365.º, ambos do Código do Registo Civil.
 
-###### Artigo 88 - Documentos, livros e papéis apresentados a notários a fim de serem extraídas públicas-formas ou fotocópias, inclusive os referidos no n.º 1 do artigo 187.º do Código do Notariado, por cada meia folha - 5$00 (selo de verba) (ver nota a).
+Artigo 88 - Documentos, livros e papéis apresentados a notários a fim de serem extraídas públicas-formas ou fotocópias, inclusive os referidos no n.º 1 do artigo 187.º do Código do Notariado, por cada meia folha - 5$00 (selo de verba) (ver nota a).
 
 Se em relação a tais documentos, livros e papéis já tiver sido paga, por qualquer forma, taxa do papel selado de importância inferior à devida no momento da extracção da pública-forma ou fotocópia, será exigida apenas a diferença.
 
 (nota a) Pode também ser pago por estampilha.
 
-###### Artigo 91 - Empreitadas e fornecimentos de material ou de quaisquer artigos de consumo, de cada contrato:
+Artigo 91 - Empreitadas e fornecimentos de material ou de quaisquer artigos de consumo, de cada contrato:
 
 Sobre o valor do contrato:
 
@@ -424,7 +472,7 @@ Tratando-se de empreitadas celebradas com o Estado, autarquias locais e suas fed
 
 (nota a) Pode também ser pago por meio de verba.
 
-###### Artigo 92 - Escritos particulares de confissão de dívida, hipoteca, penhor ou fiança ou de qualquer contrato, excluído o de mandato, cada meia folga - 5$00 (papel selado).
+Artigo 92 - Escritos particulares de confissão de dívida, hipoteca, penhor ou fiança ou de qualquer contrato, excluído o de mandato, cada meia folga - 5$00 (papel selado).
 
 E de cada um (ver nota a) - 20$00 (estampilha).
 
@@ -438,7 +486,7 @@ Ficam isentos os escritos dos contratos de empréstimos de livros, feitos por bi
 
 (nota a) O selo do papel pode também ser pago a tinta de óleo e será pago por estampilha quando a hipoteca, o penhor ou a fiança forem escritos no papel em que já esteja a obrigação principal.
 
-###### Artigo 93 - Escrituras, testamentos e mais instrumentos exarados nos livros de notas dos notários e câmaras municipais, cada um - 80$00 (selo de verba).
+Artigo 93 - Escrituras, testamentos e mais instrumentos exarados nos livros de notas dos notários e câmaras municipais, cada um - 80$00 (selo de verba).
 
 Contendo qualquer acto ou contrato especialmente designado nesta tabela, acresce o selo que nos respectivos artigos se indicar.
 
@@ -446,7 +494,7 @@ Nos actos e contratos de valor não superior a 1000$00 o selo fixo será de 20$0
 
 A taxa deste artigo é reduzida a metade, nas escrituras de venda, na primeira transmissão de prédios isentos de contribuição predial, nos termos do [Decreto-Lei n.º 31561](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31561-1941-370184), de 10 de Outubro de 1941, quando a respectiva sisa tenha redução.
 
-###### Artigo 105 - Licenças para actos respectivos a indústrias e outros:
+Artigo 105 - Licenças para actos respectivos a indústrias e outros:
 
 ...
 
@@ -554,7 +602,7 @@ Em Lisboa ou Porto - 250$00 (estampilha).
 
 Nas demais terras - 50$00 (estampilha).
 
-###### Artigo 118 - Nomeação de vendedor de estampilhas e outros valores selados:
+Artigo 118 - Nomeação de vendedor de estampilhas e outros valores selados:
 
 Em Lisboa e Porto - 200$00 (estampilha).
 
@@ -562,7 +610,7 @@ Nas outras cidades - 50$00 (estampilha).
 
 Nas demais terras - 20$00 (estampilha).
 
-###### Artigo 136 - Procurações, cada meia folha - 5$00 (papel selado).
+Artigo 136 - Procurações, cada meia folha - 5$00 (papel selado).
 
 E de cada uma:
 
@@ -586,13 +634,13 @@ f) Com quaisquer outros poderes - 20$00 (estampilha) (ver nota a).
 
 (nota a) Pode também ser pago por meio de verba.
 
-###### Artigo 140 - Recibos de valor desconhecido ou quitação geral sem designação de valor, mesmo que seja recíproca entre duas ou mais pessoas:
+Artigo 140 - Recibos de valor desconhecido ou quitação geral sem designação de valor, mesmo que seja recíproca entre duas ou mais pessoas:
 
 a) Em documento autêntico oficial ou extra-oficial - 100$00 (estampilha ou selo de verba).
 
 b) Em documento particular - 25$00 (estampilha).
 
-###### Artigo 141 - Recibos, quitações ou quaisquer outros documentos comprovativos do pagamento das transacções ou serviços prestados e bem assim os que de algum modo envolvam desobrigação de dinheiro, valores ou objectos:
+Artigo 141 - Recibos, quitações ou quaisquer outros documentos comprovativos do pagamento das transacções ou serviços prestados e bem assim os que de algum modo envolvam desobrigação de dinheiro, valores ou objectos:
 
 De 200$00 a 1000$00 - 1$00 (estampilha ou selo a tinta de óleo).
 
@@ -680,39 +728,39 @@ f) As taxas deste imposto recaem sobre o valor dos recibos ou das quitações, s
 
 5.ª Se o recibo for passado em documento relativo a saldo de contas no qual se indique a importância total da dívida, a taxa incide sobre esse valor, excepto se tiverem já sido passados recibos respeitantes aos pagamentos parciais. Neste caso, a taxa incidirá sobre a importância da diferença apurada.
 
-###### Artigo 142 - Reconhecimento ou autenticação de assinaturas, por cada assinatura - 1$00 (selo de verba) (ver nota a).
+Artigo 142 - Reconhecimento ou autenticação de assinaturas, por cada assinatura - 1$00 (selo de verba) (ver nota a).
 
 Ficam isentos os reconhecimentos feitos nos atestados de indigência, nos recibos de esmolas e nos requerimentos e documentos para obtenção destas.
 
 (nota a) Pode também ser pago por estampilha.
 
-###### Artigo 157 - Substabelecimentos, cada meia folha - 5$00 (papel selado).
+Artigo 157 - Substabelecimentos, cada meia folha - 5$00 (papel selado).
 
 E de cada um - 10$00 (estampilha).
 
 Mas sendo feitos na mesma folha da procuração ou de outro substabelecimento, de cada um - 15$00 (estampilha).
 
-###### Artigo 159 - Termos de abonação ou reconhecimento de identidade e de abonação de idoneidade, lavrados em repartições administrativas ou fiscais, cada meia folha (ver nota a) - 5$00 (papel selado).
+Artigo 159 - Termos de abonação ou reconhecimento de identidade e de abonação de idoneidade, lavrados em repartições administrativas ou fiscais, cada meia folha (ver nota a) - 5$00 (papel selado).
 
 E de cada um - 25$00 (estampilha).
 
 (nota a) Pode também ser pago por meio de estampilha.
 
-###### Artigo 162 - Testamentos públicos ou cerrados, quando tenham de produzir efeito jurídico, cada meia folha - 80$00 (estampilha).
+Artigo 162 - Testamentos públicos ou cerrados, quando tenham de produzir efeito jurídico, cada meia folha - 80$00 (estampilha).
 
-###### Artigo 167 - Troca ou permuta de bens imobiliários, sobre o valor apurado segundo as regras aplicáveis à liquidação da sisa - 2 por mil (selo de verba).
+Artigo 167 - Troca ou permuta de bens imobiliários, sobre o valor apurado segundo as regras aplicáveis à liquidação da sisa - 2 por mil (selo de verba).
 
 Acresce o selo do artigo 93.
 
-###### Art. 3.º As taxas de 5 por cento e de 6 por cento dos artigos 16 e 166-A da tabela geral do imposto do selo são alteradas para 7 por cento.
+Art. 3.º As taxas de 5 por cento e de 6 por cento dos artigos 16 e 166-A da tabela geral do imposto do selo são alteradas para 7 por cento.
 
-###### Art. 4.º São adicionados à tabela geral do imposto do selo os artigos seguintes:
+Art. 4.º São adicionados à tabela geral do imposto do selo os artigos seguintes:
 
-###### Artigo 49-A - Compra de móveis em leilões, realizados em casas particulares, em imóvel a vender ou arrendar, loja ou armazém, casa de liquidações, ou em qualquer outro lugar fora das praças de comércio, sobre a importância da compra - 5 por cento (selo especial).
+Artigo 49-A - Compra de móveis em leilões, realizados em casas particulares, em imóvel a vender ou arrendar, loja ou armazém, casa de liquidações, ou em qualquer outro lugar fora das praças de comércio, sobre a importância da compra - 5 por cento (selo especial).
 
 Exceptuam-se deste imposto as compras de objectos empenhados e as efectuadas em leilões promovidos por serviços do Estado, seus estabelecimentos e organismos, ainda que personalizados, e bem assim os sujeitos ao imposto sobre consumos supérfluos ou de luxo.
 
-###### Artigo 61-A - Contratos precedidos ou não de concurso público, celebrados com o Estado, autarquias locais e suas federações e uniões ou pessoas colectivas de utilidade pública administrativa, relativos a empreitadas e a fornecimentos:
+Artigo 61-A - Contratos precedidos ou não de concurso público, celebrados com o Estado, autarquias locais e suas federações e uniões ou pessoas colectivas de utilidade pública administrativa, relativos a empreitadas e a fornecimentos:
 
 Cada meia folha - 5$00 (papel selado) (ver nota a).
 
@@ -732,9 +780,9 @@ Se a importância do imposto for superior a 1000$00, o pagamento será feito por
 
 (nota a) Pode também ser pago por estampilha.
 
-###### Artigo 94-A - Fotocópias que substituam certidões ou públicas-formas, por cada folha que compreenda até duas laudas do documento, ou papel - 5$00 (estampilha).
+Artigo 94-A - Fotocópias que substituam certidões ou públicas-formas, por cada folha que compreenda até duas laudas do documento, ou papel - 5$00 (estampilha).
 
-###### Art. 5.º O imposto a que se refere o artigo 49-A da tabela geral do imposto do selo é devido pelo adquirente dos móveis leiloados e será cobrado conjuntamente com o respectivo preço ou sinal de pagamento, pela pessoa ou entidade responsável pelo leilão.
+Art. 5.º O imposto a que se refere o artigo 49-A da tabela geral do imposto do selo é devido pelo adquirente dos móveis leiloados e será cobrado conjuntamente com o respectivo preço ou sinal de pagamento, pela pessoa ou entidade responsável pelo leilão.
 
 § 1.º A importância do imposto será obrigatòriamente indicada na factura, recibo ou outro documento comprovativo da transacção, que deve ser entregue ao comprador no acto do pagamento.
 
@@ -768,9 +816,9 @@ Se a importância do imposto for superior a 1000$00, o pagamento será feito por
 
 § 8.º O comprador de móveis leiloados é solidàriamente responsável com a pessoa ou entidade que promover o leilão pelo pagamento da multa referida no artigo 236.º do Regulamento do Imposto do Selo, desde que não exija documento comprovativo da aquisição com a indicação do correspondente imposto.
 
-###### Art. 6.º Independentemente das formas de arrecadação estabelecidas nos artigos 140 e 141 da tabela geral do imposto do selo, podem os interessados ser autorizados a pagar o imposto por meio de guia, ou mediante a utilização de máquinas de selar.
+Art. 6.º Independentemente das formas de arrecadação estabelecidas nos artigos 140 e 141 da tabela geral do imposto do selo, podem os interessados ser autorizados a pagar o imposto por meio de guia, ou mediante a utilização de máquinas de selar.
 
-###### Art. 7.º Para que o pagamento do imposto em facturas ou recibos possa ser feito a tinta de óleo, nos termos do artigo 24.º do Regulamento do Imposto do Selo, é indispensável:
+Art. 7.º Para que o pagamento do imposto em facturas ou recibos possa ser feito a tinta de óleo, nos termos do artigo 24.º do Regulamento do Imposto do Selo, é indispensável:
 
 a) Que o papel tenha o formato de 297 mm x 210 mm, impresso em folhas soltas, não dobradas nem picotadas, com o nome ou firma e residência ou sede do contribuinte;
 
@@ -780,7 +828,7 @@ c) Que seja reservado no canto superior esquerdo do original da factura ou recib
 
 d) Que o número de facturas ou recibos a selar não seja inferior a 1000 de cada vez e por cada interessado.
 
-###### Art. 8.º Todas as pessoas ou entidades que por força de contrato prévio processem recibos periódicos relativos a rendimentos, custo de fornecimentos ou serviços prestados regularmente podem, a seu requerimento e mediante autorização concedida pelo director-geral das Contribuições e Impostos, pagar o respectivo imposto por meio de guia.
+Art. 8.º Todas as pessoas ou entidades que por força de contrato prévio processem recibos periódicos relativos a rendimentos, custo de fornecimentos ou serviços prestados regularmente podem, a seu requerimento e mediante autorização concedida pelo director-geral das Contribuições e Impostos, pagar o respectivo imposto por meio de guia.
 
 § 1.º O uso da faculdade conferida por este artigo fica condicionado:
 
@@ -792,17 +840,17 @@ d) Que o número de facturas ou recibos a selar não seja inferior a 1000 de cad
 
 § 3.º O imposto a que se refere este artigo será pago, por meio de guias em triplicado, até o último dia útil do mês imediato ao do processamento dos recibos, na tesouraria da Fazenda Pública do concelho ou bairro da residência ou sede, ou no da situação das filiais, agências e sucursais, das pessoas ou entidades autorizadas.
 
-###### Art. 9.º O pagamento do imposto referente aos recibos de prémios arrecadados pelas empresas seguradoras será feito, por meio de guia processada em triplicado, até o último dia útil do mês imediato ao da cobrança, em relação à soma dos prémios cobrados.
+Art. 9.º O pagamento do imposto referente aos recibos de prémios arrecadados pelas empresas seguradoras será feito, por meio de guia processada em triplicado, até o último dia útil do mês imediato ao da cobrança, em relação à soma dos prémios cobrados.
 
-###### Art. 10.º O pagamento do imposto mediante a utilização de máquinas de selar poderá ser feito com autorização do director-geral das Contribuições e Impostos, nas condições a estabelecer em diploma regulamentar.
+Art. 10.º O pagamento do imposto mediante a utilização de máquinas de selar poderá ser feito com autorização do director-geral das Contribuições e Impostos, nas condições a estabelecer em diploma regulamentar.
 
-###### Art. 11.º Nos abonos de vencimentos, ordenados, soldos, emolumentos, gratificações ou outros proventos a que tenham direito os servidores do Estado ou de qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, compreendida a Santa Casa da Misericórdia de Lisboa e os órgãos de coordenação e assistência, das autarquias locais e das suas federações e uniões ou das pessoas colectivas de utilidade pública administrativa, efectuados por folha ou pagamento por distribuição mensal, bem como nos de pensões, o imposto será liquidado por desconto e pago por meio de guia, em seguida à autorização de pagamento ou ao levantamento, para distribuição, dos proventos sujeitos ao desconto.
+Art. 11.º Nos abonos de vencimentos, ordenados, soldos, emolumentos, gratificações ou outros proventos a que tenham direito os servidores do Estado ou de qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, compreendida a Santa Casa da Misericórdia de Lisboa e os órgãos de coordenação e assistência, das autarquias locais e das suas federações e uniões ou das pessoas colectivas de utilidade pública administrativa, efectuados por folha ou pagamento por distribuição mensal, bem como nos de pensões, o imposto será liquidado por desconto e pago por meio de guia, em seguida à autorização de pagamento ou ao levantamento, para distribuição, dos proventos sujeitos ao desconto.
 
 § único. A importância total dos descontos efectuados pelas autarquias locais ou pelas pessoas colectivas de utilidade pública administrativa dará entrada na tesouraria da Fazenda Pública do respectivo concelho ou bairro até ao dia 10 do mês seguinte ao da aprovação para pagamento da respectiva folha.
 
-###### Art. 12.º Quando os recibos de vencimentos, salários, gratificações ou quaisquer outras remunerações equivalentes forem exarados em folhas de pagamento, podem as entidades patronais inutilizar o selo correspondente à soma do imposto devido em relação a cada abono, apurado em coluna para esse efeito aberta nas mencionadas folhas.
+Art. 12.º Quando os recibos de vencimentos, salários, gratificações ou quaisquer outras remunerações equivalentes forem exarados em folhas de pagamento, podem as entidades patronais inutilizar o selo correspondente à soma do imposto devido em relação a cada abono, apurado em coluna para esse efeito aberta nas mencionadas folhas.
 
-###### Art. 13.º Sem prejuízo do que vai disposto nos artigos 11.º, 12.º e 14.º, é obrigatória a passagem de recibo no momento do pagamento do preço de qualquer transacção ou serviço prestado, independentemente do meio de pagamento utilizado, quando a sua importância não for inferior a 200$00.
+Art. 13.º Sem prejuízo do que vai disposto nos artigos 11.º, 12.º e 14.º, é obrigatória a passagem de recibo no momento do pagamento do preço de qualquer transacção ou serviço prestado, independentemente do meio de pagamento utilizado, quando a sua importância não for inferior a 200$00.
 
 § 1.º A falta de cumprimento do preceito deste artigo é punida com a sanção correspondente à falta de pagamento do respectivo selo.
 
@@ -810,42 +858,42 @@ d) Que o número de facturas ou recibos a selar não seja inferior a 1000 de cad
 
 § 3.º Se a selagem for feita por meio mecânico ou a tinta de óleo, a impressão deverá atingir o original e o duplicado do recibo, de forma que em ambos os exemplares se possa conhecer a importância do imposto pago e a pessoa que o houver satisfeito.
 
-###### Art. 14.º Nos recibos ou quitações de laudémios, o selo será arrecadado conjuntamente com os demais impostos devidos pelo título da transmissão do domínio útil, quer o senhorio directo nele intervenha, quer não.
+Art. 14.º Nos recibos ou quitações de laudémios, o selo será arrecadado conjuntamente com os demais impostos devidos pelo título da transmissão do domínio útil, quer o senhorio directo nele intervenha, quer não.
 
-###### Art. 15.º Todas as pessoas ou entidades que processarem recibos, com excepção dos referidos na parte final do § 2.º do artigo 15.º, devem arquivar, durante o prazo de cinco anos, contados da data do processamento, os correspondentes duplicados ou talões, para efeitos de fiscalização.
+Art. 15.º Todas as pessoas ou entidades que processarem recibos, com excepção dos referidos na parte final do § 2.º do artigo 15.º, devem arquivar, durante o prazo de cinco anos, contados da data do processamento, os correspondentes duplicados ou talões, para efeitos de fiscalização.
 
 Igual obrigação incumbe às pessoas ou entidades que efectuem pagamentos, quanto aos recibos que devam documentar as operações contabilizadas na sua escrita.
 
 § único. Consideram-se como não selados os recibos, duplicados ou talões que não forem apresentados à fiscalização, quando exigidos, e bem assim aqueles que não tenham obedecido ao preceituado no § 2.º do artigo 13.º
 
-###### Art. 16.º O desdobramento de recibos respeitantes à mesma transacção ou serviço prestado, com o fim de evitar o pagamento do imposto, é punido nos termos do artigo 236.º do Regulamento do Imposto do Selo.
+Art. 16.º O desdobramento de recibos respeitantes à mesma transacção ou serviço prestado, com o fim de evitar o pagamento do imposto, é punido nos termos do artigo 236.º do Regulamento do Imposto do Selo.
 
-###### Art. 17.º São solidàriamente responsáveis pelo pagamento do imposto em falta e respectiva multa as pessoas ou entidades que aceitem recibos insuficientemente selados, ou processados por importância inferior à efectivamente paga.
+Art. 17.º São solidàriamente responsáveis pelo pagamento do imposto em falta e respectiva multa as pessoas ou entidades que aceitem recibos insuficientemente selados, ou processados por importância inferior à efectivamente paga.
 
-###### Art. 18.º São válidas todas as autorizações para pagamento do imposto do selo por meio de guia, nos termos do artigo 8.º concedidas anteriormente à promulgação do presente diploma.
+Art. 18.º São válidas todas as autorizações para pagamento do imposto do selo por meio de guia, nos termos do artigo 8.º concedidas anteriormente à promulgação do presente diploma.
 
-###### Art. 19.º As infracções ao disposto nos artigos 140 e 141 da tabela geral do imposto do selo, e às correspondentes disposições do presente diploma, poderão, nos primeiros seis meses, a contar da sua entrada em vigor, ser relevadas pelo director-geral das Contribuições e Impostos, se o infractor justificar a falta e a regularizar nos quinze dias imediatos à data da notificação do despacho que atender o pedido.
+Art. 19.º As infracções ao disposto nos artigos 140 e 141 da tabela geral do imposto do selo, e às correspondentes disposições do presente diploma, poderão, nos primeiros seis meses, a contar da sua entrada em vigor, ser relevadas pelo director-geral das Contribuições e Impostos, se o infractor justificar a falta e a regularizar nos quinze dias imediatos à data da notificação do despacho que atender o pedido.
 
 § único. O pagamento a que se refere o corpo deste artigo pode ser feito por meio de guia visada pelos serviços.
 
-###### Art. 20.º A falta de cumprimento dos §§ 1.º, 2.º, 3.º e 4.º do artigo 46.º e do preceituado no artigo 48.º do Regulamento do Imposto do Selo é punida com multa de 100$00 a 500$00.
+Art. 20.º A falta de cumprimento dos §§ 1.º, 2.º, 3.º e 4.º do artigo 46.º e do preceituado no artigo 48.º do Regulamento do Imposto do Selo é punida com multa de 100$00 a 500$00.
 
-###### Art. 21.º As empresas editoras ou proprietárias de publicações periódicas que deixarem de cumprir o determinado no § 5.º do artigo 46.º do Regulamento do Imposto do Selo, ou por qualquer forma dificultarem ou impedirem a livre fiscalização, incorrerão na multa de 200$00 a 5000$00.
+Art. 21.º As empresas editoras ou proprietárias de publicações periódicas que deixarem de cumprir o determinado no § 5.º do artigo 46.º do Regulamento do Imposto do Selo, ou por qualquer forma dificultarem ou impedirem a livre fiscalização, incorrerão na multa de 200$00 a 5000$00.
 
-###### Art. 22.º A partir da entrada em vigor do presente diploma ficam revogados o [Decreto-Lei n.º 29114](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29114-1938-349329), de 12 de Novembro de 1938, o artigo 6.º do Decreto-Lei n.º 32014, de 12 de Maio de 1942, o [Decreto-Lei n.º 39732](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39732-1954-634560), de 21 de Julho de 1954, bem como quaisquer outros preceitos legais que contrariem as suas disposições.
+Art. 22.º A partir da entrada em vigor do presente diploma ficam revogados o [Decreto-Lei n.º 29114](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29114-1938-349329), de 12 de Novembro de 1938, o artigo 6.º do Decreto-Lei n.º 32014, de 12 de Maio de 1942, o [Decreto-Lei n.º 39732](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39732-1954-634560), de 21 de Julho de 1954, bem como quaisquer outros preceitos legais que contrariem as suas disposições.
 
-###### Art. 23.º Este decreto entra em vigor a partir de 1 de Janeiro de 1962.
+Art. 23.º Este decreto entra em vigor a partir de 1 de Janeiro de 1962.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Dezembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manual Pinto Barbosa.
 
 Modelo n.º 1 (Artigo 45.º do Regulamento do Imposto do Selo).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/12/28600/15831593.pdf))](https://files.diariodarepublica.pt/1s/1961/12/28600/15831593.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/12/28600/15831593.pdf)
 
 Modelo n.º 2 (Artigo 47.º do Regulamento do Imposto do Selo)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/12/28600/15831593.pdf))](https://files.diariodarepublica.pt/1s/1961/12/28600/15831593.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/12/28600/15831593.pdf)
 
 Ministério das Finanças, 12 de Dezembro de 1961. - O Ministro das Finanças, António Manuel Pinto Barbosa.

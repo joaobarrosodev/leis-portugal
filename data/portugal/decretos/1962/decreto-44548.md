@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44548-1962-165416
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-08-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:30:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75a6985ed23a4899fb1ccc1fec2df7841cde9b10fb0daa74f3955c4625041834
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 853b044a308e05eb8a69a12893a189db38fff82e1699fdf7fe6b18ea38cb4d22
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:30:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:149874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518822:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:30:59Z'
   warnings: []
   errors: []
 ---
@@ -88,25 +112,25 @@ Nestes termos, considerando o disposto na alínea a) do n.º IV da base X da Lei
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É sòmente aplicável à Polícia Judiciária o disposto no artigo 2.º do [Decreto n.º 44185](https://diariodarepublica.pt/dr/detalhe/decreto/44185-1962-518822), de 10 de Fevereiro de 1962.
+Artigo 1.º É sòmente aplicável à Polícia Judiciária o disposto no artigo 2.º do [Decreto n.º 44185](https://diariodarepublica.pt/dr/detalhe/decreto/44185-1962-518822), de 10 de Fevereiro de 1962.
 
-###### Art. 2.º Ao provimento dos cargos de conservador dos registos e de conservador dos registos predial, comercial e da propriedade automóvel é aplicável o disposto no § 4.º do artigo 28.º do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961.
+Art. 2.º Ao provimento dos cargos de conservador dos registos e de conservador dos registos predial, comercial e da propriedade automóvel é aplicável o disposto no § 4.º do artigo 28.º do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961.
 
-###### Art. 3.º O disposto no artigo 1.º do Decreto n.º 35567, de 30 de Março de 1946, no § 4.º do artigo 2.º do [Decreto n.º 35915](https://diariodarepublica.pt/dr/detalhe/decreto/35915-1946-149874), de 24 de Outubro de 1946, e no artigo 18.º do [Decreto n.º 36414](https://diariodarepublica.pt/dr/detalhe/decreto/36414-1947-184742), de 14 de Julho de 1947, é extensivo ao serviço prestado pelos magistrados judiciais e do Ministério Público e oficiais de justiça nas comarcas do Congo e do Niassa.
+Art. 3.º O disposto no artigo 1.º do Decreto n.º 35567, de 30 de Março de 1946, no § 4.º do artigo 2.º do [Decreto n.º 35915](https://diariodarepublica.pt/dr/detalhe/decreto/35915-1946-149874), de 24 de Outubro de 1946, e no artigo 18.º do [Decreto n.º 36414](https://diariodarepublica.pt/dr/detalhe/decreto/36414-1947-184742), de 14 de Julho de 1947, é extensivo ao serviço prestado pelos magistrados judiciais e do Ministério Público e oficiais de justiça nas comarcas do Congo e do Niassa.
 
-###### Art. 4.º Nos serviços judiciais dos registos e do notariado toda a referência da lei anterior a secretários de circunscrição e de concelho e a chefes de posto administrativo deverá ser entendida, quando estes não funcionem, como aos funcionários que na orgânica dos serviços administrativos desempenharem as funções que lhes competiam, sem prejuízo do poder conferido aos governadores provinciais de fazerem outras designações.
+Art. 4.º Nos serviços judiciais dos registos e do notariado toda a referência da lei anterior a secretários de circunscrição e de concelho e a chefes de posto administrativo deverá ser entendida, quando estes não funcionem, como aos funcionários que na orgânica dos serviços administrativos desempenharem as funções que lhes competiam, sem prejuízo do poder conferido aos governadores provinciais de fazerem outras designações.
 
-###### Art. 5.º Sempre que se mostrar necessário para os efeitos do disposto na segunda parte do § 3.º do artigo 206.º do Código das Custas Judiciais do Ultramar, aprovado pelo [Decreto n.º 43809](https://diariodarepublica.pt/dr/detalhe/decreto/43809-1961-172682), de 20 de Julho de 1961, poderão os presidentes das relações do ultramar requisitar ao cofre dos tribunais do respectivo distrito judicial as importâncias disponíveis.
+Art. 5.º Sempre que se mostrar necessário para os efeitos do disposto na segunda parte do § 3.º do artigo 206.º do Código das Custas Judiciais do Ultramar, aprovado pelo [Decreto n.º 43809](https://diariodarepublica.pt/dr/detalhe/decreto/43809-1961-172682), de 20 de Julho de 1961, poderão os presidentes das relações do ultramar requisitar ao cofre dos tribunais do respectivo distrito judicial as importâncias disponíveis.
 
-###### Art. 6.º Na província de Cabo Verde o arquivo provincial do registo criminal e policial que funciona na delegação da Procuradoria da República da comarca de Sotavento, nos termos do disposto no artigo 1.º, § 3.º, do [Decreto-Lei n.º 43089](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43089-1960-501462), de 26 de Julho de 1960, terá uma delegação na comarca de Barlavento, a funcionar na respectiva delegação da Procuradoria da República para toda a área territorial dessa comarca.
+Art. 6.º Na província de Cabo Verde o arquivo provincial do registo criminal e policial que funciona na delegação da Procuradoria da República da comarca de Sotavento, nos termos do disposto no artigo 1.º, § 3.º, do [Decreto-Lei n.º 43089](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43089-1960-501462), de 26 de Julho de 1960, terá uma delegação na comarca de Barlavento, a funcionar na respectiva delegação da Procuradoria da República para toda a área territorial dessa comarca.
 
 § único. Para o efeito, o governador da província fica autorizado a tomar as providências adequadas, inclusive a criação dos lugares de dactiloscopista, aspirante e servente que forem necessários, ficando, ao mesmo tempo, autorizado a abrir os créditos necessários.
 
-###### Art. 7.º É o governador da província de Macau autorizado a atribuir ao inspector adjunto da Polícia Judiciária, uma gratificação de chefia, a fixar em diploma legislativo, e a inscrever no orçamento do próximo ano a verba necessária.
+Art. 7.º É o governador da província de Macau autorizado a atribuir ao inspector adjunto da Polícia Judiciária, uma gratificação de chefia, a fixar em diploma legislativo, e a inscrever no orçamento do próximo ano a verba necessária.
 
-###### Art. 8.º É o governador-geral de Moçambique autorizado a criar no cartório do tribunal do julgado municipal do Chinde os lugares que as necessidades do serviço impuserem.
+Art. 8.º É o governador-geral de Moçambique autorizado a criar no cartório do tribunal do julgado municipal do Chinde os lugares que as necessidades do serviço impuserem.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Agosto de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45719-1964-576336
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-05-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:40:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c64c818ae1643ca130cc3ac43c7dfdbd240196be3e3abdb4b01a41858cf156d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78fedf427491f16d3c672c3838b33d051bc2ce26254ec3b913c6926e87d87cde
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:40:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,20 @@ relationships:
   target: pt:dre:295424:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:654121:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:40:32Z'
   warnings: []
   errors: []
 ---
@@ -95,19 +99,19 @@ Por motivo de urgência e de harmonia com o disposto no n.º 1.º do artigo 150.
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São autorizados os órgãos legislativos da província de Moçambique a expedir diploma aprovando nova pauta aduaneira de importação para as mercadorias originárias de países estrangeiros.
+Artigo 1.º São autorizados os órgãos legislativos da província de Moçambique a expedir diploma aprovando nova pauta aduaneira de importação para as mercadorias originárias de países estrangeiros.
 
 § único. Na pauta referida no corpo do artigo adoptar-se-á a Nomenclatura de Bruxelas (Convenção sobre a nomenclatura para a classificação das mercadorias nas tarifas aduaneiras, assinada em Bruxelas em 15 de Dezembro de 1950).
 
-###### Art. 2.º As alterações da nova pauta, dentro dos primeiros seis meses da sua vigência, são da competência dos órgãos legislativos da província.
+Art. 2.º As alterações da nova pauta, dentro dos primeiros seis meses da sua vigência, são da competência dos órgãos legislativos da província.
 
 § único. A competência conferida neste artigo pode ser prorrogada, por iguais períodos, mediante portaria do Ministro do Ultramar.
 
-###### Art. 3.º São aprovadas as instruções preliminares da pauta a que se refere o artigo 1.º, as quais, juntas a este decreto, baixam assinadas pelo Ministro do Ultramar.
+Art. 3.º São aprovadas as instruções preliminares da pauta a que se refere o artigo 1.º, as quais, juntas a este decreto, baixam assinadas pelo Ministro do Ultramar.
 
-###### Art. 4.º Continuando em vigor, para a pauta preferencial, as actuais instruções preliminares, aprovadas pelo artigo 1.º do [Decreto n.º 41026](https://diariodarepublica.pt/dr/detalhe/decreto/41026-1957-654121), de 9 de Março de 1957.
+Art. 4.º Continuando em vigor, para a pauta preferencial, as actuais instruções preliminares, aprovadas pelo artigo 1.º do [Decreto n.º 41026](https://diariodarepublica.pt/dr/detalhe/decreto/41026-1957-654121), de 9 de Março de 1957.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 18 de Maio de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

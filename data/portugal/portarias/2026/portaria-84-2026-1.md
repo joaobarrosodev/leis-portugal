@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/84/2026/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/84-2026-1055043920
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-20T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1652556f61908b9e83c2215fe499fc22d5348b75ea97acc4bfd0dbad13cd6b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8408d5d4910d789cca52dbb139b06e753adef3b7582fc1081b1b5bd9bdd9ff56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abono para Falhas
-- Regulamentação de Atos Legislativos
 - Argentina
+- Centro de Atendimento Consular
 - Ministério dos Negócios Estrangeiros
+- Regulamentação de Atos Legislativos
 - Serviços Periféricos
 - Tabela Salarial
 - Trabalhador
-- Centro de Atendimento Consular
 relationships:
+- type: amends
+  target: pt:numero:portaria:397-A/2023
+  label: Atualiza, a partir de 21 de fevereiro de 2026, com efeitos a 1 de julho de 2025, os níveis remuneratórios e os valores
+    correspondentes ao abono para falhas previstos, respetivamente, nos anexos ii, iii e vi da Portaria n.º 397-A/2023, de
+    28 de novembro, Diário da República n.º 230/2023, 1º Suplemento, Série I
+  source: null
+  date: '2023-11-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/103-a/2023/11/09/p/dre
   label: null
@@ -91,16 +98,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/397-a/2023/11/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/397-a/2023/11/28/p/dre
+- type: cites
+  target: pt:dre:224081984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224966776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259966:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:53Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +132,7 @@ validation:
 
 de 20 de fevereiro
 
-Na sequência da alteração aos n.<sup>os</sup>1 e 2 do artigo 12.º e ao n.º 2 do artigo 14.º do [Decreto-Lei n.º 47/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2013-259966), de 5 de abril, que aprova o regime jurídico-laboral dos Serviços Periféricos Externos do Ministério dos Negócios Estrangeiros, operada pelo [Decreto-Lei n.º 103-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-a-2023-224081984), de 9 de novembro, as novas tabelas remuneratórias dos trabalhadores da Administração Pública portuguesa recrutados para exercer funções nos Serviços Periféricos Externos do Ministério dos Negócios Estrangeiros (SPE do MNE) foram aprovadas através da [Portaria n.º 397-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/397-a-2023-224966776), de 28 de novembro, com efeitos a 1 de janeiro de 2023.
+Na sequência da alteração aos n.os1 e 2 do artigo 12.º e ao n.º 2 do artigo 14.º do [Decreto-Lei n.º 47/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2013-259966), de 5 de abril, que aprova o regime jurídico-laboral dos Serviços Periféricos Externos do Ministério dos Negócios Estrangeiros, operada pelo [Decreto-Lei n.º 103-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-a-2023-224081984), de 9 de novembro, as novas tabelas remuneratórias dos trabalhadores da Administração Pública portuguesa recrutados para exercer funções nos Serviços Periféricos Externos do Ministério dos Negócios Estrangeiros (SPE do MNE) foram aprovadas através da [Portaria n.º 397-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/397-a-2023-224966776), de 28 de novembro, com efeitos a 1 de janeiro de 2023.
 
 Considerando que os aumentos remuneratórios operados pela suprarreferida portaria foram dotados de uma perspetiva plurianual, encontrando-se em vigor até final de 2026, conforme se prevê no artigo 7.º do [Decreto-Lei n.º 103-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-a-2023-224081984), de 9 de novembro;
 
@@ -125,7 +148,7 @@ Foram observados os procedimentos de negociação coletiva decorrentes da Lei Ge
 
 Foi ouvido o Sindicato dos Trabalhadores Consulares, das Missões Diplomáticas e dos Serviços Centrais do Ministério dos Negócios Estrangeiros.
 
-Assim, ao abrigo do disposto nos n.<sup>os</sup>2 e 4 do artigo 12.º do [Decreto-Lei n.º 47/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2013-259966), de 5 de abril, na sua redação atual, manda o Governo, pelo Ministro de Estado e dos Negócios Estrangeiros e pelo Ministro de Estado e das Finanças, o seguinte:
+Assim, ao abrigo do disposto nos n.os2 e 4 do artigo 12.º do [Decreto-Lei n.º 47/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2013-259966), de 5 de abril, na sua redação atual, manda o Governo, pelo Ministro de Estado e dos Negócios Estrangeiros e pelo Ministro de Estado e das Finanças, o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -143,7 +166,7 @@ Os valores correspondentes ao abono para falhas dos trabalhadores recrutados par
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de julho de 2025.
 
-**O Ministro de Estado e dos Negócios Estrangeiros, Paulo Artur dos Santos de Castro de Campos Rangel, em 10 de fevereiro de 2026. - O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 13 de fevereiro de 2026.**
+O Ministro de Estado e dos Negócios Estrangeiros, Paulo Artur dos Santos de Castro de Campos Rangel, em 10 de fevereiro de 2026. - O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 13 de fevereiro de 2026.
 
 ## ANEXO I — (anexo a que se refere o artigo 2.º)
 
@@ -225,3 +248,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação e prod
 | Abono falhas | Valor atual do montante pecuniário |
 | --- | --- |
 |  | 153,39 € |
+
+119947698
+
+.Tbl1 { border-collapse:collapse; border-width:1px; margin-left:auto; margin-right:auto; } .Tbl2 { min-height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:18px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl8 { border-collapse:collapse; border-width:1px; }

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 50/2004, 1º Suplemento, Série I-A de 2004-02-28
   number: '50'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1088-(2) a 1088-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/26-a/2004/02/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-a-2004-206417
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T19:03:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 872ea7457bce3dd320c4c30a44a1b9f4873e1df3e9d96d955fb7c8439b5bbca6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a81b3786575257b79e79851eb269ebf69e5540573e22921658fb7edf28deb5b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:03:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ação Social
+- Açores
 - Administração Central
 - Administração Financeira do Estado
 - Administração Fiscal
+- Administração Local
+- Administração Regional
 - ADSE
 - Ajuste Direto
 - Alienação de Acções
@@ -78,51 +82,38 @@ subjects:
 - Aquisição de Bens e Serviços
 - Aquisição de Imóveis
 - ÁREA Metropolitana
-- Valores Mobiliários
-- Prevenção de Incêndios
+- Arrendamento Urbano para Habitação
+- Autarquia Local
 - Autorização Legislativa
-- Financiamento
 - AVAL do Estado
-- Sociedade Anónima
 - Bebida Alcoólica
-- Jogos de Fortuna e Azar
+- Benefícios Fiscais
+- BENS Imóveis do Estado
+- Caixa Geral de Aposentações
 - Caixa Geral de Depósitos
 - Capital Social
-- Lares
-- Ministério da Defesa Nacional
-- Instituto do Emprego e Formação Profissional
 - Centro Hospitalar de Cascais
-- Formação Profissional
 - Cerveja
+- Circulação de Mercadorias
 - Cobrança de Impostos
 - Código de Procedimento e de Processo Tributário
 - Código do IRC
 - Código do IRS
 - Código do IVA
 - Código dos Impostos Especiais de Consumo
-- Imposto Especial sobre o Consumo da Cerveja
-- Imposto Especial sobre o Consumo de Tabaco
-- Imposto Especial sobre Veículos
-- Imposto sobre Produtos Petrolíferos
-- Política Fiscal
-- Ministério da Administração Interna
-- Ministério da Segurança Social e do Trabalho
-- Gestão Financeira
-- Fundação para a Ciência e a Tecnologia
-- Descolonização
-- Obras Particulares
+- Combustível
+- Comissão para a Igualdade e para os Direitos das Mulheres
 - Complemento Social de Pensão
 - Comunidade Intermunicipal
-- Direcção Geral do Tesouro
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
-- Finanças Locais
-- Ministério da Educação
 - Construção Naval
 - Conta Poupança-habitação
+- Contabilidade Pública
 - Crédito à Habitação
+- Créditos do Estado
 - Definição de Competências
+- Descolonização
 - Despesas Públicas
-- Instituto de Gestão do Crédito Público
+- Direcção Geral do Tesouro
 - Dívida Pública
 - Dívidas ao Estado
 - Dívidas das Autarquias Locais
@@ -131,151 +122,177 @@ subjects:
 - Eleito Local
 - Empresa Nacionalizada
 - Empresa Participada
-- Ensino Superior Politécnico
-- Petróleo
-- Produto Petrolífero
 - Empresa Pública
-- Região de Turismo
+- Ensino Superior Politécnico
 - Estatuto
 - Estatuto dos Benefícios Fiscais
-- Serviço Nacional de Saúde
-- Combustível
 - FEDER
 - Feoga
-- Ação Social
+- Finanças Locais
+- Finanças Regionais
+- Financiamento
 - Financiamento da Segurança Social
-- Fundo de Coesão Municipal
-- Lei de Finanças das Regiões Autónomas
-- Caixa Geral de Aposentações
+- Formação Profissional
+- FSE
 - Fuelóleo
+- Fundação para a Ciência e a Tecnologia
 - Fundo BASE Municipal
+- Fundo de Coesão Municipal
 - Fundo de Financiamento das Freguesias
-- Secretaria Geral
-- Ministério da Economia
+- Fundo de Garantia Financeira da Justiça
 - Fundo de Investimento Imobiliário
-- BENS Imóveis do Estado
-- Titularização de Créditos
-- Instituto de Gestão de Fundos de Capitalização da Segurança Social
+- Fundo dos Antigos Combatentes
 - Fundo Geral Municipal
 - Fundos CE
-- Ministério da Ciência e do Ensino Superior
-- Instituto Português da Juventude
 - Gasóleo
 - Gasolina
-- Créditos do Estado
+- Gestão de Créditos
+- Gestão Financeira
 - Gestão Orçamental
-- Ministério da Cultura
-- Ministério das Finanças
-- Ministério da Justiça
+- Habitação
 - Hospital de São Marcos
 - Hospital do Professor Doutor Fernando da Fonseca
-- Instituto de Gestão e Alienação do Património Habitacional do Estado
-- Instituto de Gestão do Fundo Social Europeu
+- ILHA do Faial
+- Ilha do Pico
+- Imposto Automóvel
 - Imposto de Camionagem
 - Imposto de Circulação
 - Imposto do SELO
 - Imposto Especial sobre o Consumo
+- Imposto Especial sobre o Consumo da Cerveja
 - Imposto Especial sobre o Consumo de Bebidas Alcoólicas
+- Imposto Especial sobre o Consumo de Tabaco
 - Imposto Especial sobre o Jogo
-- IRS
-- IVA
+- Imposto Especial sobre Veículos
 - Imposto Municipal sobre Veículos
+- Imposto sobre Produtos Petrolíferos
 - Infracção Fiscal
-- Sociedade da Informação
+- Instituto de Gestão de Fundos de Capitalização da Segurança Social
+- Instituto de Gestão do Crédito Público
+- Instituto de Gestão do Fundo Social Europeu
+- Instituto de Gestão e Alienação do Património Habitacional do Estado
+- Instituto do Emprego e Formação Profissional
 - Instituto Nacional de Habitação
-- Fundo dos Antigos Combatentes
+- Instituto Português da Juventude
 - Intervenção Operacional da Ciência Tecnologia Inovação
 - Intervenção Operacional da Sociedade da Informação
-- Pagamento por Conta
+- IRC
+- IRS
 - Isenção Fiscal
+- IVA
+- Jogos de Fortuna e Azar
 - Junta de Freguesia
 - Junta de Turismo
-- Finanças Regionais
+- Lares
+- Lei de Finanças das Regiões Autónomas
 - Lei Geral Tributária
-- FSE
+- Madeira.região Autónoma
 - Magistrado Judicial
 - Mecenato
-- Fundo de Garantia Financeira da Justiça
+- Ministério da Administração Interna
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Ministério da Ciência e do Ensino Superior
+- Ministério da Cultura
+- Ministério da Defesa Nacional
+- Ministério da Economia
+- Ministério da Educação
+- Ministério da Justiça
+- Ministério da Saúde
+- Ministério da Segurança Social e do Trabalho
 - Ministério das Cidades Ordenamento do Território e Ambiente
+- Ministério das Finanças
 - Ministério das Obras Públicas Transportes e Habitação
-- Unidade Naval
+- Obras Particulares
 - Obras Públicas
-- Orçamento Geral do Estado
+- Obrigações do Tesouro
 - Oferta Pública de Subscrição
 - Operações de Tesouraria
-- Circulação de Mercadorias
 - Orçamento
 - Orçamento da Segurança Social
-- Tabaco
+- Orçamento Geral do Estado
 - Organização não Governamental
-- Zona Tributária Privilegiada
-- Sagestamo
-- Ilha do Pico
-- Petrogal
-- Piddac
-- Proteção ao Deficiente
-- Comissão para a Igualdade e para os Direitos das Mulheres
-- UMIC
-- IRC
-- Prémio de Seguro
+- Pagamento por Conta
 - Pensões
+- Petrogal
+- Petróleo
+- Piddac
+- Política de Emprego
+- Política Fiscal
+- Prémio de Seguro
+- Presidência do Conselho de Ministros
+- Prevenção de Incêndios
 - Processo Tributário
 - Produção de Energia Elétrica
+- Produto Petrolífero
 - Programa Ideia
-- QCA III
-- Madeira.região Autónoma
 - Programação Militar
-- Presidência do Conselho de Ministros
-- Política de Emprego
+- Proteção ao Deficiente
+- QCA III
 - Receita Própria
 - Receita Pública
-- Ministério da Saúde
-- Administração Local
+- Região de Turismo
 - Regionalização
-- Habitação
-- Imposto Automóvel
 - Remuneração
-- Benefícios Fiscais
 - Responsabilidade Financeira
 - Retenção na Fonte
+- Sagestamo
+- Secretaria Geral
 - Segurança Social
+- Serviço Nacional de Saúde
 - SGPS
-- Administração Regional
 - Sismo
-- Açores
-- Contabilidade Pública
 - Sistema Eléctrico Independente
+- Sociedade Anónima
+- Sociedade da Informação
 - Sociedade de Capital de Risco
-- Arrendamento Urbano para Habitação
+- Tabaco
 - TAXA Contributiva
-- Gestão de Créditos
-- Obrigações do Tesouro
+- Titularização de Créditos
 - Transferência de Competências
 - Transferência de Verbas
 - Transporte Escolar
-- Autarquia Local
 - Tributação
-- ILHA do Faial
+- UMIC
+- Unidade Naval
+- Valores Mobiliários
 - Visto do Tribunal de Contas
+- Zona Tributária Privilegiada
 relationships:
 - type: amended_by
   target: pt:dre:243769:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterado o art. 22º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jul, rectificado pela\
+    \ presente declaração, pela LEI.64-B/2011.30.12.2011.AR, DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/107-b/2003/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/107-b/2003/12/31/p/dre
+- type: cites
+  target: pt:dre:669556:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:335474:por
+  label: "Revogado, a partir de 21.07.2010, e com excepção dos arts 32.º a 36.º do Código dos Impostos Especiais de Consumo,\
+    \ os quais se mantêm em vigor até 31.12.2010, o Dec Lei 566/99, de 22-Dez, rectificado pela presente declaração, pelo\
+    \ DEC LEI.73/2010.21.06.2010.MFAP, DR.IS [118] de 21.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-2010-335474
+  date: '2010-06-21'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:03:20Z'
   warnings: []
   errors: []
 ---
@@ -310,7 +327,7 @@ No artigo 6.º do Regulamento dos Impostos de Circulação e Camionagem, onde se
 
 1 - As taxas anuais do ICi e do ICa são as seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)
 
 deve ler-se:
 
@@ -320,7 +337,7 @@ deve ler-se:
 
 ICi
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)
 
 Relativamente à tabela de taxas do ICi com referência à taxa prevista para «veículos articulados e conjuntos de veículos» correspondentes ao «escalão de peso bruto (em quilogramas)» de «(igual ou maior que)40000» para «3 + 2 eixos», «com suspensão pneumática ou equivalente», onde se lê «513,70» deve ler-se «628,49».
 
@@ -344,30 +361,30 @@ MAPA V
 
 RECEITAS DOS SERVIÇOS E FUNDOS AUTÓNOMOS, POR CLASSIFICAÇÃO ORGÂNICA, COM ESPECIFICAÇÃO DAS RECEITAS GLOBAIS DE CADA SERVIÇO E FUNDO
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)
 
 MAPA VI
 
 RECEITAS DOS SERVIÇOS E FUNDOS AUTÓNOMOS, POR CLASSIFICAÇÃO ECONÓMICA
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)
 
 MAPA VII
 
 DESPESAS DOS SERVIÇOS E FUNDOS AUTÓNOMOS, POR CLASSIFICAÇÃO ORGÂNICA, COM ESPECIFICAÇÃO DAS DESPESAS GLOBAIS DE CADA SERVIÇO E FUNDO
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)
 
 MAPA VIII
 
 DESPESAS DOS SERVIÇOS E FUNDOS AUTÓNOMOS, POR CLASSIFICAÇÃO FUNCIONAL
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)
 
 MAPA IX
 
 DESPESAS DOS SERVIÇOS E FUNDOS AUTÓNOMOS, POR CLASSIFICAÇÃO ECONÓMICA
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)](https://files.diariodarepublica.pt/1s/2004/02/050a01/00020004.pdf)
 
 Assembleia da República, 25 de Fevereiro de 2004. - A Secretária-Geral, Isabel Corte-Real.

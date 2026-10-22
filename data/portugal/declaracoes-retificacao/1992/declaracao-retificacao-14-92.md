@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 51/1992, 2º Suplemento, Série I-B de 1992-02-29
   number: '51'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1142-(6) a 1142-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/02/051b02/00060006.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/14/1992/02/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-1992-581245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-02-29T00:00:00Z'
+  retrieved_at: '2026-10-22T18:33:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9bd282986f90e0fba5852229d0a5c0e8a05afcfb417c257ec4d604b11b9973a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3929faca7b1a359412a0b821a018d18771c05c169cb1d5f60ec25e4cd12c94cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:33:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,7 +69,6 @@ subjects:
 - Actualização de Pensões
 - Acumulação de Pensões
 - Coeficiente de Actualização
-- Trabalhador Rural
 - Pensão de Invalidez
 - Pensão de Velhice
 - Pensionista
@@ -78,26 +77,31 @@ subjects:
 - Regime Geral da Segurança Social
 - Regime não Contributivo da Segurança Social
 - Subsídio de Natal
+- Trabalhador Rural
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1176/1991/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1176/1991/11/20/p/dre
+- type: cites
+  target: pt:dre:321484:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:33:26Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 14/92
+# Declaração de rectificação n.º 14/92
 
 Segundo comunicação do Ministério do Emprego e da Segurança Social, a [Portaria n.º 1176/91](https://diariodarepublica.pt/dr/detalhe/portaria/1176-1991-321484), publicada no Diário da República, 1.ª série, n.º 267, de 20 de Novembro de 1991, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 

@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/04/08000/0002200046.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/4/2024/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/4-2024-862566437
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-04-23T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f52180e0fa6654521188dcd0a774733701218de0945db0603ac5279001f1221
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ae0d74e8216961848a47c2d749f2e79b96f098db1596037ffc9c434b9b7e96c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,29 +69,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Insolvência
-- Património
+- Crédito
 - Execução Fiscal
+- Insolvência
 - Interpretação do Direito
 - Jurisprudencia
-- Crédito
-- Supremo Tribunal de Justiça
+- Património
 - Processo de Execução
+- Supremo Tribunal de Justiça
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/53/2004/11/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53/2004/11/04/p/dre
+- type: cites
+  target: pt:dre:566650:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:13Z'
   warnings: []
   errors: []
 ---
@@ -202,7 +206,7 @@ I)
 
 Decisão sobre a verificação dos pressupostos do recurso.
 
-Na resposta a esta questão, importa tomar em consideração o disposto nos artigos 688.º (sobre os fundamentos do recurso), 689.º, n.º 1 (prazo para a interposição) e 690.º, n.<sup>os</sup>1 e 2 (instrução do requerimento), todos do CPC.
+Na resposta a esta questão, importa tomar em consideração o disposto nos artigos 688.º (sobre os fundamentos do recurso), 689.º, n.º 1 (prazo para a interposição) e 690.º, n.os1 e 2 (instrução do requerimento), todos do CPC.
 
 O recurso foi interposto dentro do prazo legal e foi instruído com cópia dos acórdãos anteriormente proferidos pelo Supremo Tribunal de Justiça, com os quais alegadamente o acórdão recorrido se encontrava em oposição.
 
@@ -384,7 +388,7 @@ Esta questão - que é claramente de direito - obteve respostas diametralmente o
 
 As respostas dadas foram decisivas para o desfecho dos recursos, pois foram elas que determinaram o sentido da decisão final. No acórdão recorrido, a resposta negativa determinou se negasse a concessão da revista; no acórdão fundamento, a resposta positiva levou à revogação da decisão recorrida e à concessão da revista.
 
-As respostas divergentes verificaram­-se no domínio da mesma legislação, concretamente dos artigos 85.º, n.º 2, 90.º 128.º, n.<sup>os</sup>1 e 5 e 129.º, n.º 1, todos do CIRE.
+As respostas divergentes verificaram­-se no domínio da mesma legislação, concretamente dos artigos 85.º, n.º 2, 90.º 128.º, n.os1 e 5 e 129.º, n.º 1, todos do CIRE.
 
 Pelo exposto é de concluir no sentido de que entre o acórdão recorrido e o acórdão fundamento há contradição jurisprudencial relevante para fundamentar o recurso de uniformização da jurisprudência, quanto à questão de saber se, tendo havido apensação ao processo de insolvência de um processo de execução fiscal, onde um credor da insolvência viu o seu crédito reconhecido e graduado, mas que aí não foi pago em virtude de o produto da venda dos bens penhorados ter, entretanto, sido apreendido para a massa insolvente, estava esse credor dispensado de reclamar esse crédito no processo de insolvência, se nele quisesse obter o pagamento.
 
@@ -468,7 +472,7 @@ Estas soluções têm subajcente o entendimento de que o produto da venda dos be
 
 A sentença de verificação e graduação de créditos proferida no âmbito do processo de execução tem, no essencial, duas finalidades. A primeira é a de declarar se os credores são titulares do crédito que reclamaram e se tal crédito goza das garantias reais que invocaram. A segunda é a de graduar esses créditos com o do exequente para serem pagos pelo produto da venda dos bens penhorados (artigos 788.º, n.º 1, e 791.º, ambos do CPC).
 
-Graduar um crédito significa, para usarmos as palavras de Alberto dos Reis, “estabelecer a ordem segundo a qual os credores hão­-de ser pagos pelo produto da venda de cada um dos bens penhorados…” [Processo de Execução Volume 2.º, Reimpressão, Coimbra Editora, L.<sup>da</sup>, 1982, página 408].
+Graduar um crédito significa, para usarmos as palavras de Alberto dos Reis, “estabelecer a ordem segundo a qual os credores hão­-de ser pagos pelo produto da venda de cada um dos bens penhorados…” [Processo de Execução Volume 2.º, Reimpressão, Coimbra Editora, L.da, 1982, página 408].
 
 A verificação e a graduação dos créditos pelo produto da venda dos bens penhorados têm a sua razão de ser nos números 2 e 3 do artigo 824.º do Código Civil e nos números 1 e 2 do artigo 604.º do mesmo diploma.
 
@@ -476,7 +480,7 @@ Têm a sua razão de ser nos números 2 e 3 do artigo 824.º porque, na venda em
 
 Daí que o processo de execução comporte uma fase destinada a chamar ao processo os credores que gozem de garantia real sobre os bens penhorados, com o propósito de reclamarem, pelo produto destes, o pagamento dos respectivos créditos [artigos 784.º a 794.º do Código de Processo Civil].
 
-Têm a sua razão de ser nos n.<sup>os</sup>1 e 2 do artigo 604.º do Código Civil porque as garantias reais conferem preferências de pagamento pelo preço dos bens do devedor, sendo assim necessário, em caso de concurso dos créditos reclamados com o crédito do exequente, estabelecer a ordem de preferência dos pagamentos.
+Têm a sua razão de ser nos n.os1 e 2 do artigo 604.º do Código Civil porque as garantias reais conferem preferências de pagamento pelo preço dos bens do devedor, sendo assim necessário, em caso de concurso dos créditos reclamados com o crédito do exequente, estabelecer a ordem de preferência dos pagamentos.
 
 No plano dos efeitos, a sentença de verificação e graduação de créditos opera a transferência para o produto da venda das garantias de que gozavam os credores. Este efeito não é automático, querendo com isto dizer­-se que os credores, titulares de direitos reais de garantia sobre os bens vendidos, não vêem os seus direitos transferidos para o produto da venda apenas por serem titulares de direitos reais de garantia. Os credores só beneficiam da transferência a que se refere o n.º 3 do artigo 824.º do Código Civil se reclamarem os seus créditos e se a sua reclamação for atendida. A transferência está, pois, sujeita a estas condições. Se alguma delas não se verificar, os direitos dos credores serão excluídos da transferência prevista no n.º 3 do artigo 824.º do Código Civil.
 
@@ -578,7 +582,7 @@ Apreciação
 
 A jurisprudência é de uniformizar no sentido do acórdão recorrido. Vejamos.
 
-A questão de saber se o titular de um crédito reconhecido e graduado por sentença transitada em julgado num processo de execução fiscal (ou noutro processo) que venha a ser apenso ao processo de insolvência do devedor/executado, está dispensado de reclamar o seu crédito, no processo de insolvência, para obter nele pagamento tem resposta no artigo 90.º do CIRE e nos n.<sup>os</sup>1 e 5 do artigo 128.º do mesmo diploma.
+A questão de saber se o titular de um crédito reconhecido e graduado por sentença transitada em julgado num processo de execução fiscal (ou noutro processo) que venha a ser apenso ao processo de insolvência do devedor/executado, está dispensado de reclamar o seu crédito, no processo de insolvência, para obter nele pagamento tem resposta no artigo 90.º do CIRE e nos n.os1 e 5 do artigo 128.º do mesmo diploma.
 
 O artigo 90.º estabelece que os credores da insolvência apenas poderão exercer os seus direitos em conformidade com os preceitos do presente Código, durante a pendência do processo de insolvência.
 
@@ -747,3 +751,5 @@ III. Sendo admitido o RUJ (também) nesta parte, acompanho a respectiva decisão
 2024.03.19
 
 Catarina Serra
+
+117621164

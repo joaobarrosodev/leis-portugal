@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/17/2001/09/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2001-643539
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-09-13T00:00:00Z'
+  retrieved_at: '2026-10-22T18:58:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32fdb5286c669e71fc7072f381ab8701bb34837688453b5faae927b74e2f8950
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: adb33b736fd8857dfb2df94344a4e1bfc8713de6b9d5d695a98f05a1c1ef90a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:58:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,34 +70,34 @@ reuse:
 subjects:
 - Advogado
 - Ajuda Judicial
-- Sanção Disciplinar
 - Assembleia Distrital
 - Assembleia Geral
 - Bastonário
 - CE Países
 - Cédula Profissional
-- Ordem dos Advogados
 - Centro de Estudos
-- Formação Profissional
 - Congresso
 - Conselho Distrital
 - Conselho Geral
+- Custas Judiciais
 - Definição de Competências
 - Deontologia Profissional
-- União Europeia
-- Estatuto
-- Processo Disciplinar
-- Incompatibilidades
-- Publicitação
-- Nacional das Comunidades
-- Presidente
-- Profissão Independente
 - Estágio de Formação
+- Estatuto
+- Formação Profissional
+- Incompatibilidades
+- Nacional das Comunidades
+- Ordem dos Advogados
+- Presidente
+- Processo Disciplinar
+- Profissão Independente
+- Publicitação
 - Regulamento de Registo e Inscrição dos Advogados Provenientes de outros Estados Membros da União Europeia
 - Remuneração
+- Sanção Disciplinar
 - Segredo Profissional
-- Custas Judiciais
 - Trajo Profissional
+- União Europeia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/30-e/2000/12/20/p/dre
@@ -111,16 +111,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/80/2001/07/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/80/2001/07/20/p/dre
+- type: cites
+  target: pt:dre:196205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657432:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:58:07Z'
   warnings: []
   errors: []
 ---

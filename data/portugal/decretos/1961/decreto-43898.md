@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43898-1961-180997
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-04-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:25:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a362672c76cdd81a5fa09a26e6716c05a06a051ec8a52772ee6fc090bfe3d913
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75f65ee6978081c3537f7d5853b7f2f2ec0a3aad9a3655af5b79f33bf9d04a0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:25:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,64 @@ relationships:
   target: pt:dre:575769:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:210389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681379:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:25:29Z'
   warnings: []
   errors: []
 ---
@@ -113,9 +161,9 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º As comarcas judiciais do ultramar dividem-se em julgados municipais e estes em julgados de paz.
+Artigo 1.º As comarcas judiciais do ultramar dividem-se em julgados municipais e estes em julgados de paz.
 
-###### Art. 2.º - 1. A cada concelho ou circunscrição, que não sejam sede de comarca, corresponde um julgado municipal e a cada freguesia ou posto administrativo um julgado de paz.
+Art. 2.º - 1. A cada concelho ou circunscrição, que não sejam sede de comarca, corresponde um julgado municipal e a cada freguesia ou posto administrativo um julgado de paz.
 
 2. Ficam os órgãos legislativos das províncias de governo-geral autorizados a instituir julgados municipais nos bairros administrativos dos concelhos divididos em bairros, podendo cada julgado abranger mais de um bairro.
 
@@ -123,15 +171,15 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 4. Os tribunais de comarca exercerão, na área da sua sede, a jurisdição que por este diploma pertence aos julgados municipais, cabendo das suas decisões recurso para o Tribunal da Relação, nos termos gerais de direito, salvo o disposto no n.º 2 deste artigo.
 
-###### Art. 3.º Em cada julgado municipal exercerá jurisdição um tribunal municipal.
+Art. 3.º Em cada julgado municipal exercerá jurisdição um tribunal municipal.
 
-###### Art. 4.º Em cada julgado de paz exercerá jurisdição um tribunal de paz.
+Art. 4.º Em cada julgado de paz exercerá jurisdição um tribunal de paz.
 
-###### Art. 5.º Cada tribunal municipal compõe-se de um juiz municipal, de um representante do Ministério Público e de uma secretaria.
+Art. 5.º Cada tribunal municipal compõe-se de um juiz municipal, de um representante do Ministério Público e de uma secretaria.
 
-###### Art. 6.º Cada tribunal de paz compõe-se de um juiz de paz e de uma secretaria.
+Art. 6.º Cada tribunal de paz compõe-se de um juiz de paz e de uma secretaria.
 
-###### Art. 7.º - 1. Os tribunais municipais são de duas espécies:
+Art. 7.º - 1. Os tribunais municipais são de duas espécies:
 
 a) Tribunais municipais de 1.ª classe;
 
@@ -147,13 +195,13 @@ b) Tribunais municipais de 2.ª classe.
 
 ##### SUBSECÇÃO I — Dos juízes municipais e de paz
 
-###### Art. 8.º - 1. As funções de juiz municipal são desempenhadas, em regime de inerência, pelos conservadores privativos do registo civil do respectivo concelho ou circunscrição.
+Art. 8.º - 1. As funções de juiz municipal são desempenhadas, em regime de inerência, pelos conservadores privativos do registo civil do respectivo concelho ou circunscrição.
 
 2. Nas sedes dos julgados municipais onde não haja conservador privativo do registo civil, as funções de juiz municipal são exercidas pelo conservador que tiver a sua sede no julgado, e havendo mais de um, pelo que for designado pelo governador da província.
 
 3. Nos concelhos ou circunscrições onde não haja conservadores, as funções de juiz municipal são exercidas pelo respectivo administrador.
 
-###### Art. 9.º - 1. Quando os interesses da administração da justiça o aconselhem, o Ministro do Ultramar poderá, por portaria, nomear um juiz municipal privativo.
+Art. 9.º - 1. Quando os interesses da administração da justiça o aconselhem, o Ministro do Ultramar poderá, por portaria, nomear um juiz municipal privativo.
 
 2. O governador da província poderá, pelos mesmos, motivos, e por portaria:
 
@@ -163,41 +211,41 @@ b) Determinar que outro conservador, com sede no concelho ou circunscrição, de
 
 3. A nomeação de juiz privativo só poderá recair em delegado do procurador da República, ou, em comissão, em licenciados em Direito, que terão os direitos e regalias daqueles magistrados, ressalvado o disposto no n.º 2 do artigo 65.º
 
-###### Art. 10.º As funções de juiz de paz serão exercidas nos postos administrativos pelo chefe de posto, e nas freguesias pelo regedor, ou por quem legalmente os substituir.
+Art. 10.º As funções de juiz de paz serão exercidas nos postos administrativos pelo chefe de posto, e nas freguesias pelo regedor, ou por quem legalmente os substituir.
 
-###### Art. 11.º Os juízes municipais e de paz são substituídos, nas suas faltas e impedimentos, pelos seus substitutos legais e, na falta destes, por quem o juiz da respectiva comarca anualmente designar.
+Art. 11.º Os juízes municipais e de paz são substituídos, nas suas faltas e impedimentos, pelos seus substitutos legais e, na falta destes, por quem o juiz da respectiva comarca anualmente designar.
 
-###### Art. 12.º Os juízes municipais, nessa qualidade, estão subordinados hieràrquicamente aos juízes de direito da comarca a que pertencer a sede do julgado, e os juízes de paz aos juízes municipais respectivos.
+Art. 12.º Os juízes municipais, nessa qualidade, estão subordinados hieràrquicamente aos juízes de direito da comarca a que pertencer a sede do julgado, e os juízes de paz aos juízes municipais respectivos.
 
 ##### SUBSECÇÃO II — Do Ministério Público
 
-###### Art. 13.º - 1. Junto dos tribunais municipais haverá um subdelegado do procurador da República. Este cargo será desempenhado pelo funcionário idóneo que os governadores das províncias designarem, sob proposta do procurador da República nas províncias de governo-geral, e dos delegados das comarcas nas províncias de governo simples.
+Art. 13.º - 1. Junto dos tribunais municipais haverá um subdelegado do procurador da República. Este cargo será desempenhado pelo funcionário idóneo que os governadores das províncias designarem, sob proposta do procurador da República nas províncias de governo-geral, e dos delegados das comarcas nas províncias de governo simples.
 
 2. Quando as circunstâncias o aconselhem, os governadores das províncias poderão nomear subdelegados privativos, nos termos do artigo 47.º, que ficarão com os direitos e regalias dos subdelegados dos julgados municipais de 1.ª classe.
 
-###### Art. 14.º Nos tribunais de paz não haverá representante titular do Ministério Público, mas o delegado do procurador da República da respectiva comarca, sempre que o julgar conveniente, pode assistir aos actos praticados nesse julgado, quando neles possa ou deva ter intervenção.
+Art. 14.º Nos tribunais de paz não haverá representante titular do Ministério Público, mas o delegado do procurador da República da respectiva comarca, sempre que o julgar conveniente, pode assistir aos actos praticados nesse julgado, quando neles possa ou deva ter intervenção.
 
-###### Art. 15.º Os delegados do procurador da República do tribunal da comarca poderão exercer pessoalmente, quando o entenderem conveniente, quaisquer das atribuições dos subdelegados.
+Art. 15.º Os delegados do procurador da República do tribunal da comarca poderão exercer pessoalmente, quando o entenderem conveniente, quaisquer das atribuições dos subdelegados.
 
-###### Art. 16.º Os subdelegados estão subordinados hieràrquicamente aos delegados do procurador da República do tribunal da comarca a que pertencer a sede do julgado.
+Art. 16.º Os subdelegados estão subordinados hieràrquicamente aos delegados do procurador da República do tribunal da comarca a que pertencer a sede do julgado.
 
 ##### SUBSECÇÃO III — Dos funcionários de secretaria
 
-###### Art. 17.º Nos tribunais municipais haverá um escrivão-contador, um intérprete de línguas nativas e, conforme as necessidades, um ou mais oficiais de diligências.
+Art. 17.º Nos tribunais municipais haverá um escrivão-contador, um intérprete de línguas nativas e, conforme as necessidades, um ou mais oficiais de diligências.
 
-###### Art. 18.º As funções de escrivão-contador serão desempenhadas pelo funcionário da administração do concelho, circunscrição ou bairro que for designado pelo governador da província, que designará também o seu substituto. Não havendo substituto designado, e enquanto o não houver, o juiz poderá, na falta de escrivão, nomear pessoa ad hoc, por ele ajuramentada.
+Art. 18.º As funções de escrivão-contador serão desempenhadas pelo funcionário da administração do concelho, circunscrição ou bairro que for designado pelo governador da província, que designará também o seu substituto. Não havendo substituto designado, e enquanto o não houver, o juiz poderá, na falta de escrivão, nomear pessoa ad hoc, por ele ajuramentada.
 
-###### Art. 19.º As funções de oficial de diligências, nos mesmos tribunais, serão desempenhadas por guardas da Polícia de Segurança Pública, com a habilitação mínima da 3.ª classe da instrução primária, destacados para junto do tribunal por períodos de um ano, renováveis. Não havendo, na sede do tribunal, Polícia de Segurança Pública, o juiz municipal requisitará funcionários da administração do concelho, circunscrição ou bairro, competindo a escolha ao administrador.
+Art. 19.º As funções de oficial de diligências, nos mesmos tribunais, serão desempenhadas por guardas da Polícia de Segurança Pública, com a habilitação mínima da 3.ª classe da instrução primária, destacados para junto do tribunal por períodos de um ano, renováveis. Não havendo, na sede do tribunal, Polícia de Segurança Pública, o juiz municipal requisitará funcionários da administração do concelho, circunscrição ou bairro, competindo a escolha ao administrador.
 
-###### Art. 20.º Os intérpretes serão requisitados nos termos da parte final do artigo anterior.
+Art. 20.º Os intérpretes serão requisitados nos termos da parte final do artigo anterior.
 
-###### Art. 21.º Quando o movimento judicial o justifique serão criados, pelos órgãos legislativos das províncias, lugares privativos de funcionários de secretaria, devendo os respectivos diplomas ser submetidos a confirmação ministerial. Art. 22.º Nos tribunais de paz as funções referidas nos artigos anteriores serão desempenhadas pelos empregados subalternos da freguesia ou posto.
+Art. 21.º Quando o movimento judicial o justifique serão criados, pelos órgãos legislativos das províncias, lugares privativos de funcionários de secretaria, devendo os respectivos diplomas ser submetidos a confirmação ministerial. Art. 22.º Nos tribunais de paz as funções referidas nos artigos anteriores serão desempenhadas pelos empregados subalternos da freguesia ou posto.
 
 #### SECÇÃO II — Da competência
 
 ##### SUBSECÇÃO I — Dos juízes municipais e de paz
 
-###### Art. 23.º - 1. Compete aos juízes municipais:
+Art. 23.º - 1. Compete aos juízes municipais:
 
 Em matéria criminal:
 
@@ -231,9 +279,9 @@ i) Praticar todos os actos de processo civil ou penal que lhes sejam delegados, 
 
 3. Nos casos das alíneas b) a f) da segunda parte do n.º 1, poderão sempre propor-se ou requerer-se no tribunal da comarca as acções ou providências ainda não propostas ou requeridas no tribunal municipal.
 
-###### Art. 24.º As questões cíveis, mesmo incidentais, em que o Estado seja parte, ficam excluídas da competência dos juízes municipais destes julgados.
+Art. 24.º As questões cíveis, mesmo incidentais, em que o Estado seja parte, ficam excluídas da competência dos juízes municipais destes julgados.
 
-###### Art. 25.º Compete ao juiz de paz:
+Art. 25.º Compete ao juiz de paz:
 
 a) Presidir à tentativa de conciliarão nas condições e forma dos artigos 476.º e seguintes do Código de Processo Civil;
 
@@ -245,35 +293,35 @@ d) Praticar os actos da competência, própria ou delegada, do juiz municipal, q
 
 ##### SUBSECÇÃO II — Dos subdelegados
 
-###### Art. 26.º - 1. Os subdelegados têm, em relação aos tribunais municipais, as mesmas atribuições dos delegados do procurador da República dos tribunais de comarca, competindo-lhes também praticar os actos que, nos termos legais, estes magistrados lhes deleguem.
+Art. 26.º - 1. Os subdelegados têm, em relação aos tribunais municipais, as mesmas atribuições dos delegados do procurador da República dos tribunais de comarca, competindo-lhes também praticar os actos que, nos termos legais, estes magistrados lhes deleguem.
 
 2. Compete-lhes ainda tomar as providências indispensáveis para evitar o extravio de bens pertencentes a heranças jacentes, ou a menores, incapazes ou ausentes em parte incerta sem representante legal na área do julgado, comunicando imediatamente ao delegado do procurador da República as diligências que tiver efectuado.
 
 ##### SUBSECÇÃO III — Dos funcionários de secretaria
 
-###### Art. 27.º Os funcionários de secretaria dos tribunais municipais e de paz têm, em relação aos actos que forem da competência desses tribunais, as mesmas atribuições dos oficiais de justiça dos tribunais de comarca.
+Art. 27.º Os funcionários de secretaria dos tribunais municipais e de paz têm, em relação aos actos que forem da competência desses tribunais, as mesmas atribuições dos oficiais de justiça dos tribunais de comarca.
 
 #### SECÇÃO III — Do processo
 
-###### Art. 28.º São aplicáveis as leis de processo comum, civil e penal, que não sejam contrárias ao disposto nesta secção nem incompatíveis com a organização e funcionamento dos tribunais municipais.
+Art. 28.º São aplicáveis as leis de processo comum, civil e penal, que não sejam contrárias ao disposto nesta secção nem incompatíveis com a organização e funcionamento dos tribunais municipais.
 
-###### Art. 29.º Os depoentes poderão prestar juramento segundo os seus usos e costumes, e quando maiores de 14 anos e menores de 17 serão ouvidos como declarantes.
+Art. 29.º Os depoentes poderão prestar juramento segundo os seus usos e costumes, e quando maiores de 14 anos e menores de 17 serão ouvidos como declarantes.
 
-###### Art. 30.º Salvo nos casos em que os processos, em razão de atribuições de julgamento, devam pertencer ao tribunal inferior, os autos serão remetidos à autoridade judiciária superior imediatamente depois de efectuadas as diligências ou esgotada a competência do tribunal municipal. A remessa far-se-á, exceptuado o caso de recurso, independentemente de conta, que será elaborada no tribunal da comarca.
+Art. 30.º Salvo nos casos em que os processos, em razão de atribuições de julgamento, devam pertencer ao tribunal inferior, os autos serão remetidos à autoridade judiciária superior imediatamente depois de efectuadas as diligências ou esgotada a competência do tribunal municipal. A remessa far-se-á, exceptuado o caso de recurso, independentemente de conta, que será elaborada no tribunal da comarca.
 
-###### Art. 31.º A delegação de funções do juiz superior ao inferior exerce-se normalmente por via de mandato; mas, quando o aconselhe a natureza das diligências a efectuar, poderão os autos baixar temporàriamente para tal efeito, com a devida segurança, devendo o juiz delegante marcar o prazo máximo de retenção do processo no tribunal delegado.
+Art. 31.º A delegação de funções do juiz superior ao inferior exerce-se normalmente por via de mandato; mas, quando o aconselhe a natureza das diligências a efectuar, poderão os autos baixar temporàriamente para tal efeito, com a devida segurança, devendo o juiz delegante marcar o prazo máximo de retenção do processo no tribunal delegado.
 
-###### Art. 32.º Nos processos em que o juiz municipal não exerce funções de julgamento podem os seus despachos ser revogados e os actos deles decorrentes ser anulados pelo juiz de direito, por ilegais, independentemente de reclamação.
+Art. 32.º Nos processos em que o juiz municipal não exerce funções de julgamento podem os seus despachos ser revogados e os actos deles decorrentes ser anulados pelo juiz de direito, por ilegais, independentemente de reclamação.
 
-###### Art. 33.º A venda judicial de imobiliários terá sempre lugar no tribunal da comarca.
+Art. 33.º A venda judicial de imobiliários terá sempre lugar no tribunal da comarca.
 
-###### Art. 34.º A caução criminal arbitrada ou prestada nos termos do n.º 2 do artigo 23.º carece de confirmação pelo juiz de direito, que, ouvido o Ministério Público, a pode anular ou alterar para todos os efeitos legais.
+Art. 34.º A caução criminal arbitrada ou prestada nos termos do n.º 2 do artigo 23.º carece de confirmação pelo juiz de direito, que, ouvido o Ministério Público, a pode anular ou alterar para todos os efeitos legais.
 
-###### Art. 35.º Cumpre ao tribunal superior anular oficiosamente a sentença a que falte algum requisito formal indispensável ou que se tenha abstido de apreciar algumas das infracções cujos factos constitutivos constem do despacho de pronúncia ou equivalente.
+Art. 35.º Cumpre ao tribunal superior anular oficiosamente a sentença a que falte algum requisito formal indispensável ou que se tenha abstido de apreciar algumas das infracções cujos factos constitutivos constem do despacho de pronúncia ou equivalente.
 
-###### Art. 36.º A indemnização arbitrada a favor de pessoas que se regem por usos e costumes não codificados executa-se sempre nos próprios autos, pela forma indicada no artigo 37.º
+Art. 36.º A indemnização arbitrada a favor de pessoas que se regem por usos e costumes não codificados executa-se sempre nos próprios autos, pela forma indicada no artigo 37.º
 
-###### Art. 37.º Quando se trate dos feitos cíveis em que o direito aplicável forem os usos e costumes não codificados, observar-se o seguinte:
+Art. 37.º Quando se trate dos feitos cíveis em que o direito aplicável forem os usos e costumes não codificados, observar-se o seguinte:
 
 1. A tramitação dos feitos será sumária e adequada às circunstâncias, sem prejuízo dos meios de prova que permitam o exame da causa pela instância de recurso, quando a este haja lugar.
 
@@ -309,63 +357,63 @@ d) O pagamento, por dação ou em dinheiro, será feito por termo nos autos, na 
 
 #### SECÇÃO IV — Dos recursos
 
-###### Art. 38.º - 1. A alçada do juiz municipal é de 10000$00. Só há recurso das decisões finais fora da alçada. O recurso é para o juiz de direito.
+Art. 38.º - 1. A alçada do juiz municipal é de 10000$00. Só há recurso das decisões finais fora da alçada. O recurso é para o juiz de direito.
 
 2 Haverá também recurso das decisões que, na falta de acordo das partes, fixem o valor da causa em quantitativo dentro da alçada, quando qualquer delas tenha proposto um valor superior a ela, mas o recurso só subirá com o que se interpuser da decisão final.
 
-###### Art. 39.º Os recursos, cíveis ou crimes, têm sempre efeito suspensivo.
+Art. 39.º Os recursos, cíveis ou crimes, têm sempre efeito suspensivo.
 
-###### Art. 40.º Todos os requerimentos ou alegações do recurso poderão ser assinados por solicitador.
+Art. 40.º Todos os requerimentos ou alegações do recurso poderão ser assinados por solicitador.
 
-###### Art. 41.º Consideram-se decisões finais para os efeitos do n.º 1 do artigo 38.º:
+Art. 41.º Consideram-se decisões finais para os efeitos do n.º 1 do artigo 38.º:
 
 a) Em matéria cível, o despacho de rejeição liminar, a sentença e a decisão que nos processos preventivos deferir ou indeferir as providências;
 
 b) Em matéria crime, a sentença absolutória ou condenatória.
 
-###### Art. 42.º Os recursos cíveis ou penais sobem nos próprios autos, pagas as custas, depois de juntas as alegações, que serão apresentadas no tribunal municipal nos prazos prescritos para os agravos.
+Art. 42.º Os recursos cíveis ou penais sobem nos próprios autos, pagas as custas, depois de juntas as alegações, que serão apresentadas no tribunal municipal nos prazos prescritos para os agravos.
 
-###### Art. 43.º Os recursos dos feitos cíveis previstos no artigo 37.º interpõem-se para o juiz de direito no prazo de cinco dias e consideram-se interpostos pela simples manifestação de vontade de recorrer, a qual pode ser feita verbalmente e lançada na acta, ou mediante termo dos autos, devendo as partes ser sempre advertidas de que podem usar dessa faculdade. Os autos sobem oficiosamente, independentemente de alegações, e das decisões do juiz de direito não há recurso.
+Art. 43.º Os recursos dos feitos cíveis previstos no artigo 37.º interpõem-se para o juiz de direito no prazo de cinco dias e consideram-se interpostos pela simples manifestação de vontade de recorrer, a qual pode ser feita verbalmente e lançada na acta, ou mediante termo dos autos, devendo as partes ser sempre advertidas de que podem usar dessa faculdade. Os autos sobem oficiosamente, independentemente de alegações, e das decisões do juiz de direito não há recurso.
 
 ### CAPÍTULO III — Dos tribunais municipais de 1.ª classe
 
 #### SECÇÃO I — Disposição geral
 
-###### Art. 44.º Os tribunais municipais de 1.ª classe regem-se pelas normas estatutárias dos tribunais de comarca, salvo o disposto neste capítulo.
+Art. 44.º Os tribunais municipais de 1.ª classe regem-se pelas normas estatutárias dos tribunais de comarca, salvo o disposto neste capítulo.
 
 #### SECÇÃO II — Dos magistrados e funcionários
 
 ##### SUBSECÇÃO I — Dos magistrados judiciais municipais
 
-###### Art. 45.º - 1. O cargo de juiz municipal de 1.ª classe será provido, em comissão de serviço judicial, por delegados do procurador da República ou ainda por licenciados em Direito que, nos termos legais, possam ser nomeados delegados independentemente de concurso.
+Art. 45.º - 1. O cargo de juiz municipal de 1.ª classe será provido, em comissão de serviço judicial, por delegados do procurador da República ou ainda por licenciados em Direito que, nos termos legais, possam ser nomeados delegados independentemente de concurso.
 
 2. Estes magistrados terão os direitos e regalias dos delegados do procurador da República.
 
-###### Art. 46.º Os magistrados judiciais municipais estão subordinados aos respectivos juízes da comarca, aos quais compete dar as informações anuais. Porém, se as funções de juiz de direito estiverem a ser exercidas por quem não for magistrado judicial, aqueles magistrados dependerão directamente do presidente da Relação, que, nesse caso, prestará as informações, sem prejuízo da dependência funcional nos termos deste diploma, ao tribunal da comarca.
+Art. 46.º Os magistrados judiciais municipais estão subordinados aos respectivos juízes da comarca, aos quais compete dar as informações anuais. Porém, se as funções de juiz de direito estiverem a ser exercidas por quem não for magistrado judicial, aqueles magistrados dependerão directamente do presidente da Relação, que, nesse caso, prestará as informações, sem prejuízo da dependência funcional nos termos deste diploma, ao tribunal da comarca.
 
 ##### SUBSECÇÃO II — Do Ministério Público
 
-###### Art. 47.º O representante do Ministério Público nestes tribunais será um subdelegado do procurador da República. O subdelegado é de nomeação do governador da província, de entre indivíduos idóneos que possuam, pelo menos, o curso complementar dos liceus. No Estado da índia podem também ser nomeados os indivíduos habilitados com o Exame de Estado a que se refere o [Decreto n.º 35230](https://diariodarepublica.pt/dr/detalhe/decreto/35230-1945-451206), de 8 de Dezembro de 1954.
+Art. 47.º O representante do Ministério Público nestes tribunais será um subdelegado do procurador da República. O subdelegado é de nomeação do governador da província, de entre indivíduos idóneos que possuam, pelo menos, o curso complementar dos liceus. No Estado da índia podem também ser nomeados os indivíduos habilitados com o Exame de Estado a que se refere o [Decreto n.º 35230](https://diariodarepublica.pt/dr/detalhe/decreto/35230-1945-451206), de 8 de Dezembro de 1954.
 
-###### Art. 48.º Os subdelegados destes tribunais podem ingressar no quadro dos escrivães de direito, logo que contem seis anos de bom e efectivo serviço no exercício do seu cargo.
+Art. 48.º Os subdelegados destes tribunais podem ingressar no quadro dos escrivães de direito, logo que contem seis anos de bom e efectivo serviço no exercício do seu cargo.
 
-###### Art. 49.º O vencimento dos subdelegados é o correspondente à letra L.
+Art. 49.º O vencimento dos subdelegados é o correspondente à letra L.
 
-###### Art. 50.º - 1. Os procuradores da República designarão, anualmente, os substitutos dos subdelegados destes tribunais.
+Art. 50.º - 1. Os procuradores da República designarão, anualmente, os substitutos dos subdelegados destes tribunais.
 
 2. Nas províncias de governo simples serão designados pelos governadores, sob proposta do delegado da comarca.
 
-###### Art. 51.º É aplicável a estes subdelegados o disposto nos artigos 15.º e 16.º deste diploma.
+Art. 51.º É aplicável a estes subdelegados o disposto nos artigos 15.º e 16.º deste diploma.
 
 ##### SUBSECÇÃO III — Dos funcionários de secretaria
 
-###### Art. 52.º Os funcionários de secretaria serão para todos os efeitos equiparados aos oficiais de justiça dos tribunais de comarca.
+Art. 52.º Os funcionários de secretaria serão para todos os efeitos equiparados aos oficiais de justiça dos tribunais de comarca.
 
 #### SECÇÃO III — Da competência
 
 ##### SUBSECÇÃO I — Dos magistrados
 
-###### Art. 53.º - 1. Compete ao juiz municipal dos tribunais a que se refere este capítulo:
+Art. 53.º - 1. Compete ao juiz municipal dos tribunais a que se refere este capítulo:
 
 a) Julgar, em 1.ª instância, os feitos-crimes que não pertençam a juízo especial e a que não caiba processo de querela;
 
@@ -395,11 +443,11 @@ g) Praticar todos os actos de processos civil ou penal que lhe sejam delegados, 
 
 4. No disposto na alínea d) incluem-se os embargos de executado e o concurso de credores.
 
-###### Art. 54.º No caso de no tribunal da comarca ser proposta acção ou execução que ao juiz municipal cumpra conhecer, não será invocável a excepção de incompetência relativa.
+Art. 54.º No caso de no tribunal da comarca ser proposta acção ou execução que ao juiz municipal cumpra conhecer, não será invocável a excepção de incompetência relativa.
 
 ##### SUBSECÇÃO II — Dos subdelegados e dos funcionários de secretaria
 
-###### Art. 55.º - 1. É aplicável aos subdelegados destes tribunais o disposto no artigo 34.º
+Art. 55.º - 1. É aplicável aos subdelegados destes tribunais o disposto no artigo 34.º
 
 2. Os funcionários de secretaria têm, em relação a estes tribunais, a competência dos oficiais de justiça dos tribunais de comarca.
 
@@ -407,29 +455,29 @@ g) Praticar todos os actos de processos civil ou penal que lhe sejam delegados, 
 
 ##### SUBSECÇÃO I — Disposição geral
 
-###### Art. 56.º Salvo o disposto na subsecção seguinte, são aplicáveis aos tribunais municipais de 1.ª classe as leis comuns de processo civil e crime e o disposto nos artigos 28.º a 37.º, na parte aplicável.
+Art. 56.º Salvo o disposto na subsecção seguinte, são aplicáveis aos tribunais municipais de 1.ª classe as leis comuns de processo civil e crime e o disposto nos artigos 28.º a 37.º, na parte aplicável.
 
 ##### SUBSECÇÃO II — Dos recursos
 
-###### Art. 57.º - 1. Em matéria cível a alçada do juiz municipal de 1.ª classe é de 20000$00.
+Art. 57.º - 1. Em matéria cível a alçada do juiz municipal de 1.ª classe é de 20000$00.
 
 2. Em matéria crime não tem alçada.
 
-###### Art. 58.º - 1. Os recursos interpõem-se, em matéria cível, para o juiz de direito ou para a Relação, consoante a causa caiba ou não na alçada deste último tribunal, e, em matéria crime, para o juiz de direito.
+Art. 58.º - 1. Os recursos interpõem-se, em matéria cível, para o juiz de direito ou para a Relação, consoante a causa caiba ou não na alçada deste último tribunal, e, em matéria crime, para o juiz de direito.
 
 2. No tribunal da comarca estes recursos pertencem à espécie 2.ª do artigo 222.º do Código de Processo Civil.
 
-###### Art. 59.º Nos recursos interpostos das decisões do juiz de direito, proferidos em recurso vindo do tribunal municipal de 1.ª classe, a Relação funciona como tribunal de revista, conhecendo apenas da matéria de direito. Das suas decisões não há recurso, seja qual for o fundamento.
+Art. 59.º Nos recursos interpostos das decisões do juiz de direito, proferidos em recurso vindo do tribunal municipal de 1.ª classe, a Relação funciona como tribunal de revista, conhecendo apenas da matéria de direito. Das suas decisões não há recurso, seja qual for o fundamento.
 
 ## TÍTULO II — Disposições avulsas e transitórias
 
-###### Art. 60.º - 1. Os tribunais de comarca observarão o disposto nos artigos 28.º a 37.º, na parte aplicável.
+Art. 60.º - 1. Os tribunais de comarca observarão o disposto nos artigos 28.º a 37.º, na parte aplicável.
 
 2. Sempre que o conflito de leis de direito privado implique o afastamento dos usos e costumes não codificados, seguir-se-á também em todos os tribunais competentes o processo definido nos artigos 28.º a 37.º deste diploma, na parte aplicável.
 
-###### Art. 61.º É obrigatório o recurso, por parte do Ministério Público, das sentenças que condenarem os réus em qualquer das penas indicadas no § único do artigo 473.º do Código de Processo Penal.
+Art. 61.º É obrigatório o recurso, por parte do Ministério Público, das sentenças que condenarem os réus em qualquer das penas indicadas no § único do artigo 473.º do Código de Processo Penal.
 
-###### Art. 62.º - 1. Todos os processos da competência dos tribunais municipais de 1.ª e 2.ª classes poderão ser avocados em qualquer altura pelo tribunal da comarca. A iniciativa da avocação pertence ao delegado na fase da instrução preparatória em processo penal e ao juiz nos demais casos.
+Art. 62.º - 1. Todos os processos da competência dos tribunais municipais de 1.ª e 2.ª classes poderão ser avocados em qualquer altura pelo tribunal da comarca. A iniciativa da avocação pertence ao delegado na fase da instrução preparatória em processo penal e ao juiz nos demais casos.
 
 2. A avocação é obrigatória:
 
@@ -439,33 +487,33 @@ b) Quando o ordene o Tribunal da Relação, a bem dos interesses da justiça.
 
 3. As circunstâncias que tornarem necessária a avocação serão comunicadas pelo juiz ao presidente da Relação e pelo delegado ao procurador da República, a fim de que estes dêem delas conhecimento ao Conselho Superior Judiciário do Ultramar para serem tomadas as providências adequadas à normalização dos serviços.
 
-###### Art. 63.º Os julgados municipais, incluindo os de 1.ª classe, estão sujeitos à correição periódica do juiz de direito na forma da respectiva lei.
+Art. 63.º Os julgados municipais, incluindo os de 1.ª classe, estão sujeitos à correição periódica do juiz de direito na forma da respectiva lei.
 
-###### Art. 64.º Quando em qualquer tribunal houver necessidade de se conhecerem os usos e costumes locais, o juiz oficiará ao administrador do concelho ou circunscrição para que informe sobre o direito local ou para que indique dois indivíduos de reconhecido prestígio que conheçam as tradições jurídicas locais. Estes indivíduos poderão ser notificados, como declarantes, para assistirem ao julgamento e serão interrogados sempre que o juiz o entenda conveniente.
+Art. 64.º Quando em qualquer tribunal houver necessidade de se conhecerem os usos e costumes locais, o juiz oficiará ao administrador do concelho ou circunscrição para que informe sobre o direito local ou para que indique dois indivíduos de reconhecido prestígio que conheçam as tradições jurídicas locais. Estes indivíduos poderão ser notificados, como declarantes, para assistirem ao julgamento e serão interrogados sempre que o juiz o entenda conveniente.
 
-###### Art. 65.º - 1. Os juízes municipais de 1.ª classe e os juízes municipais privativos que forem delegados do procurador da República são candidatos à magistratura judicial ultramarina, entrando com os delegados do procurador da República numa só escala, por ordem das respectivas antiguidades.
+Art. 65.º - 1. Os juízes municipais de 1.ª classe e os juízes municipais privativos que forem delegados do procurador da República são candidatos à magistratura judicial ultramarina, entrando com os delegados do procurador da República numa só escala, por ordem das respectivas antiguidades.
 
 2. Os juízes municipais privativos que não forem delegados do procurador da República e que tenham mais de cinco anos de exercício efectivo de funções com boas informações serão admitidos aos concursos para juízes de direito do ultramar, nas condições referidas no número anterior, se o requererem.
 
-###### Art. 66.º - 1. O Conselho Superior Judiciário do Ultramar determinará os livros que obrigatòriamente devem possuir os tribunais municipais.
+Art. 66.º - 1. O Conselho Superior Judiciário do Ultramar determinará os livros que obrigatòriamente devem possuir os tribunais municipais.
 
 2. Enquanto não se der cumprimento ao disposto no número anterior, continuarão a ser escriturados os livros actualmente existentes.
 
-###### Art. 67.º A partir da entrada em vigor deste diploma as infracções de natureza criminal, incluindo as transgressões, só poderão ser julgadas pelas autoridades judiciais, devendo considerar-se inexistente qualquer diploma legal provincial que disponha o contrário.
+Art. 67.º A partir da entrada em vigor deste diploma as infracções de natureza criminal, incluindo as transgressões, só poderão ser julgadas pelas autoridades judiciais, devendo considerar-se inexistente qualquer diploma legal provincial que disponha o contrário.
 
-###### Art. 68.º O julgado municipal do Chinde fica sujeito ao regime estabelecido no capítulo III do título I deste diploma, e os julgados municipais de Diu, Mormugão e Pondá ficam sujeitos ao regime estabelecido no capítulo III do mesmo título.
+Art. 68.º O julgado municipal do Chinde fica sujeito ao regime estabelecido no capítulo III do título I deste diploma, e os julgados municipais de Diu, Mormugão e Pondá ficam sujeitos ao regime estabelecido no capítulo III do mesmo título.
 
-###### Art. 69.º No prazo de 180 dias os presidentes das Relações devem enviar à Direcção-Geral de Justiça do Ministério do Ultramar os planos de criação dos tribunais municipais de 1.ª classe dos respectivos distritos judiciais, que, depois de parecer favorável do Conselho Superior Judiciário do Ultramar e de aprovados pelo Ministro do Ultramar, serão convertidos em diploma legal, que se executará à medida que forem orçamentadas as correspondentes despesas.
+Art. 69.º No prazo de 180 dias os presidentes das Relações devem enviar à Direcção-Geral de Justiça do Ministério do Ultramar os planos de criação dos tribunais municipais de 1.ª classe dos respectivos distritos judiciais, que, depois de parecer favorável do Conselho Superior Judiciário do Ultramar e de aprovados pelo Ministro do Ultramar, serão convertidos em diploma legal, que se executará à medida que forem orçamentadas as correspondentes despesas.
 
-###### Art. 70.º O Conselho Superior Judiciário do Ultramar, no prazo de um ano, a partir do início da vigência deste diploma, apresentará o plano da divisão comarcã do ultramar, propondo a eliminação ou criação de tribunais, varas e juízos. Este plano, depois de aprovado pelo Ministro do Ultramar, será convertido em diploma legal.
+Art. 70.º O Conselho Superior Judiciário do Ultramar, no prazo de um ano, a partir do início da vigência deste diploma, apresentará o plano da divisão comarcã do ultramar, propondo a eliminação ou criação de tribunais, varas e juízos. Este plano, depois de aprovado pelo Ministro do Ultramar, será convertido em diploma legal.
 
-###### Art. 71.º O presente diploma aplicar-se-á sòmente aos processos ainda não distribuídos à data da sua entrada em vigor.
+Art. 71.º O presente diploma aplicar-se-á sòmente aos processos ainda não distribuídos à data da sua entrada em vigor.
 
-###### Art. 72.º Ficam revogados os artigos 44.º a 58.º e 77.º a 83.º da Organização Judiciária do Ultramar, aprovada pelo [Decreto n.º 14453](https://diariodarepublica.pt/dr/detalhe/decreto/14453-1927-678239), de 20 de Outubro de 1927; o § único do artigo 11.º deste decreto e a parte do artigo 9.º que a esta disposição respeita, do [Decreto n.º 19271](https://diariodarepublica.pt/dr/detalhe/decreto/19271-1931-210389), de 24 de Janeiro de 1931; os Decretos n.º 16473 e 16474, de 6 de Fevereiro de 1929; o § único do artigo 29.º do [Decreto n.º 17880](https://diariodarepublica.pt/dr/detalhe/decreto/17880-1930-531247), de 15 de Janeiro de 1930; o artigo 49.º da Reforma Administrativa Ultramarina, aprovada pelo [Decreto-Lei n.º 23229](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23229-1933-624839), de 15 de Novembro de 1933; o artigo 1.º do [Decreto n.º 39915](https://diariodarepublica.pt/dr/detalhe/decreto/39915-1954-681379), de 24 de Outubro de 1946; o § único do artigo 53.º e o artigo 55.º do [Decreto-Lei n.º 39666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39666-1954-635399), de 20 de Maio de 1954; o [Decreto n.º 39817](https://diariodarepublica.pt/dr/detalhe/decreto/39817-1954-679243), de 15 de Setembro de 1954, com excepção da primeira parte do seu artigo 7.º; os §§ 1.º e 2.º do artigo 16.º do [Decreto-Lei n.º 39997](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39997-1954-674999), de 29 de Dezembro de 1954; e demais legislação em contrário.
+Art. 72.º Ficam revogados os artigos 44.º a 58.º e 77.º a 83.º da Organização Judiciária do Ultramar, aprovada pelo [Decreto n.º 14453](https://diariodarepublica.pt/dr/detalhe/decreto/14453-1927-678239), de 20 de Outubro de 1927; o § único do artigo 11.º deste decreto e a parte do artigo 9.º que a esta disposição respeita, do [Decreto n.º 19271](https://diariodarepublica.pt/dr/detalhe/decreto/19271-1931-210389), de 24 de Janeiro de 1931; os Decretos n.º 16473 e 16474, de 6 de Fevereiro de 1929; o § único do artigo 29.º do [Decreto n.º 17880](https://diariodarepublica.pt/dr/detalhe/decreto/17880-1930-531247), de 15 de Janeiro de 1930; o artigo 49.º da Reforma Administrativa Ultramarina, aprovada pelo [Decreto-Lei n.º 23229](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23229-1933-624839), de 15 de Novembro de 1933; o artigo 1.º do [Decreto n.º 39915](https://diariodarepublica.pt/dr/detalhe/decreto/39915-1954-681379), de 24 de Outubro de 1946; o § único do artigo 53.º e o artigo 55.º do [Decreto-Lei n.º 39666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39666-1954-635399), de 20 de Maio de 1954; o [Decreto n.º 39817](https://diariodarepublica.pt/dr/detalhe/decreto/39817-1954-679243), de 15 de Setembro de 1954, com excepção da primeira parte do seu artigo 7.º; os §§ 1.º e 2.º do artigo 16.º do [Decreto-Lei n.º 39997](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39997-1954-674999), de 29 de Dezembro de 1954; e demais legislação em contrário.
 
-###### Art. 73.º Ficam os governadores das províncias ultramarinas autorizados a abrir, observadas as disposições legais aplicáveis, os créditos especiais necessários para suportar os encargos resultantes da execução deste decreto, servindo de contrapartida as disponibilidades ou recursos orçamentais.
+Art. 73.º Ficam os governadores das províncias ultramarinas autorizados a abrir, observadas as disposições legais aplicáveis, os créditos especiais necessários para suportar os encargos resultantes da execução deste decreto, servindo de contrapartida as disponibilidades ou recursos orçamentais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Setembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1963/06/14500/07610763.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45082-1963-627274
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:35:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12b2b9584c0c5320ce7a3c05ba01ed377f19d8137ff1324cf36a38e0b1ec6d2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0dbbf775acaf44a706b2f17cb689b3895aabbda11ea2b3f2080c41d9f18e19c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:35:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Embarcação
+- Poluição Marinha
+- Poluição por Hidrocarbonetos
+- Protecção do Litoral
+- Registo Obrigatório
 relationships:
 - type: amended_by
   target: pt:dre:408513:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:408513:por
+  label: "Revogado pelo DEC LEI.265/72.31.07.1972.MMAR, DG.IS [177]Supl de 31.07.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/265-1972-408513
+  date: '1972-07-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:35:12Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +106,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os navios nacionais disporão de um livro de registo de óleos, em conformidade com os modelos anexos a este Decreto.
+Artigo 1.º Os navios nacionais disporão de um livro de registo de óleos, em conformidade com os modelos anexos a este Decreto.
 
 § único. Não serão abrangidos por este artigo:
 
@@ -104,7 +114,7 @@ a) Os navios-tanques com arqueação bruta inferior a 150 t e os outros navios c
 
 b) Os navios da marinha de guerra e os utilizados de momento como navios auxiliares da marinha de guerra.
 
-###### Art. 2.º O livro de registo de óleos será preenchido cada vez que, a bordo, se proceda às seguintes operações:
+Art. 2.º O livro de registo de óleos será preenchido cada vez que, a bordo, se proceda às seguintes operações:
 
 Nos navios-tanques:
 
@@ -126,32 +136,32 @@ b) Descarga de resíduos oleosos dos tanques de combustível ou de outras origen
 
 c) Descarga ou fuga acidental de óleo.
 
-###### Art. 3.º Cada uma das operações descritas no artigo 2.º será imediata e completamente registada no livro de registo de óleos de modo que nele constem todos os aspectos referentes à operação.
+Art. 3.º Cada uma das operações descritas no artigo 2.º será imediata e completamente registada no livro de registo de óleos de modo que nele constem todos os aspectos referentes à operação.
 
 § único. Cada página do livro deverá ser assinada pelo oficial ou oficiais responsáveis pelas operações em questão e pelo capitão.
 
-###### Art. 4.º O livro de registo de óleos será conservado em local de fácil acesso para que possa ser inspeccionado sempre que necessário e, salvo no caso de navios rebocados sem tripulação, deve encontrar-se a bordo do navio a que respeita.
+Art. 4.º O livro de registo de óleos será conservado em local de fácil acesso para que possa ser inspeccionado sempre que necessário e, salvo no caso de navios rebocados sem tripulação, deve encontrar-se a bordo do navio a que respeita.
 
 § único. O livro de registo de óleos será conservado a bordo por um período de dois anos a partir da data do último registo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Junho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Fernando Quintanilha Mendonça Dias.
 
-# LIVRO DE REGISTO DE ÓLEOS
+LIVRO DE REGISTO DE ÓLEOS
 
 MODELO I
 
 Só para navios-tanques
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/06/14500/07610763.pdf))](https://files.diariodarepublica.pt/1s/1963/06/14500/07610763.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/06/14500/07610763.pdf)
 
-# LIVRO DE REGISTO DE ÓLEOS
+LIVRO DE REGISTO DE ÓLEOS
 
 MODELO II
 
 Para todos os navios excepto navios-tanques
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/06/14500/07610763.pdf))](https://files.diariodarepublica.pt/1s/1963/06/14500/07610763.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/06/14500/07610763.pdf)
 
 Ministério da Marinha, 21 de Junho de 1963. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

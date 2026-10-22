@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45600-1964-470028
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-03-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:39:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b27e6c42b078c43bd077f2a2b6acc8cb66d9b66260270d7e7d36197e701ddc5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e8f506aba7413c48fc13a3135ea86c2520092f185efc3fdad9d30ab63053921
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:39:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:163215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:167631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505055:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:39:39Z'
   warnings: []
   errors: []
 ---
@@ -92,14 +104,14 @@ Tendo em vista o disposto no artigo 181.º e seu § 1.º do Regulamento de Admin
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o Ministério da Marinha, por intermédio do conselho administrativo da Direcção do Serviço de Administração Naval, a celebrar contrato com a Companhia I. B. M. Portuguesa para o fornecimento de equipamento mecanográfico, na importância de 309024$00, no corrente ano económico de 1964.
+Artigo 1.º É autorizado o Ministério da Marinha, por intermédio do conselho administrativo da Direcção do Serviço de Administração Naval, a celebrar contrato com a Companhia I. B. M. Portuguesa para o fornecimento de equipamento mecanográfico, na importância de 309024$00, no corrente ano económico de 1964.
 
 § único. A quantia mencionada no corpo deste artigo corresponde ao aluguer do equipamento a entregar no ano corrente e à aquisição de fios e painéis de ligação.
 
-###### Art. 2.º É igualmente autorizada a manutenção do regime de aluguer do referido equipamento nos anos económicos de 1965 e seguintes, até ao montante anual de 1664340$00, não podendo a despesa exceder 1574598$00 em 1965.
+Art. 2.º É igualmente autorizada a manutenção do regime de aluguer do referido equipamento nos anos económicos de 1965 e seguintes, até ao montante anual de 1664340$00, não podendo a despesa exceder 1574598$00 em 1965.
 
 § único. Fica o Ministério da Marinha autorizado a inscrever anualmente no seu orçamento próprio o crédito necessário para a execução do disposto neste diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Março de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Fernando Quintanilha Mendonça Dias.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/08/15100/0001300030.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/164/2026/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-2026-1154555254
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-06T00:00:00Z'
+  retrieved_at: '2026-10-22T18:49:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0ad9a3087e9edc92a1b0fdc9a3d3fd2db1f2359eea8c1b985c4a4c9744f3e4b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 799725defd4fefa5c7d2165a73f6684d18300b7a61e879de24147a53b148bb18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:49:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,18 +72,47 @@ subjects:
 - Código de Processo nos Tribunais Administrativos
 - Código de Processo Penal
 - Código do Processo Civil
-- Sistema Judicial
+- Custas Judiciais
 - Custas Processuais
-- TAXA de Justiça
+- Direcção Geral de Reinserção e Serviços Prisionais
 - Instituto de Gestão Financeira e Equipamentos da Justiça
 - Magistrado Judicial
-- Direcção Geral de Reinserção e Serviços Prisionais
 - Presidência do Conselho de Ministros
 - Regulamento
 - Remuneração
-- Custas Judiciais
+- Sistema Judicial
+- TAXA de Justiça
 - Tribunal Administrativo e Fiscal
 relationships:
+- type: amends
+  target: pt:numero:lei:15/2002
+  label: Altera, a partir de 01 de dezembro de 2026, os artigos 78.º, 80.º, 82.º( estes dois artigos apenas se aplicam às
+    ações propostas após a sua entrada em vigor, nos termos do n.º 3 do artigo 8.º do presente diploma), 189.º, revoga os
+    n.ºs 1 e 4 do artigo 80.º do Código de Processo nos Tribunais Administrativos, aprovado em anexo à Lei n.º 15/2002, de
+    22 de fevereiro, Diário da República n.º 45/2002, Série I-A
+  source: null
+  date: '2002-02-22'
+- type: amends
+  target: pt:numero:decreto-lei:34/2008
+  label: Altera, a partir de 01 de dezembro de 2026, os artigos 1.º, 6.º( este apenas se aplica às ações propostas após a
+    sua entrada em vigor, nos termos do n.º 3 artigo 8.º do presente diploma), 7.º, 8.º, 9.º, 14.º, 15.º, 17.º,18.º,19.º,
+    20.º, 30.º, 35.º, adita a tabela v a que se refere o n.º 4 do artigo 9.º( este aplica-se nos termos do n.º 4 do artigo
+    8.º do presente diploma), revoga o n.º 2 do artigo 5.º, os n.ºs 3 e 6 do artigo 9.º e a alínea b) do n.º 2 do artigo 18.º
+    do Regulamento das Custas Processuais, aprovado no anexo iii ao Decreto-Lei n.º 34/2008, de 26 de fevereiro, Diário da
+    República n.º 40/2008, Série I
+  source: null
+  date: '2008-02-26'
+- type: amends
+  target: pt:numero:lei:41/2013
+  label: Altera, a partir de 01 de dezembro de 2026, os artigos 132.º, 170.º, 259.º ( este apenas se aplica às ações propostas
+    após a sua entrada em vigor, nos termos do n.º 3 do artigo 8.º do presente diploma), 552.º, 558.º, 559.º, 560.º( estes
+    últimos três artigos apenas se aplicam às ações propostas após a sua entrada em vigor, nos termos do n.º 3 do artigo 8.º
+    do presente diploma) 590.º (este apenas se aplica às ações propostas após a sua entrada em vigor, nos termos do n.º 3
+    do artigo 8.º do presente diploma) , 643.º, 646.º, 724.º, 725.º(este apenas se aplica às ações propostas após a sua entrada
+    em vigor, nos termos do n.º 3 do artigo 8.º do presente diploma), 750.º, 824.º e revoga o n.º 2 do artigo 207.º do Código
+    de Processo Civil, aprovado em anexo à Lei n.º 41/2013, de 26 de junho, Diário da República n.º 121/2013, Série I
+  source: null
+  date: '2013-06-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/34/2008/02/26/p/dre
   label: null
@@ -96,16 +125,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/41/2013/06/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/41/2013/06/26/p/dre
+- type: cites
+  target: pt:dre:247448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662562:por
+  label: null
+  source: null
 article_structure:
-  article_count: 39
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:49:26Z'
   warnings: []
   errors: []
 ---
@@ -182,7 +227,9 @@ Os artigos 1.º, 6.º a 9.º, 14.º, 15.º, 17.º a 20.º, 30.º e 35.º do Regu
 
 3 - Sempre que, nos termos do presente regulamento ou de lei especial, a obrigação de pagamento de qualquer quantia seja precedida de notificação pela secretaria para o efeito, ou se uma tal notificação fizer automaticamente iniciar a contagem de um prazo para pagamento, esta é necessariamente acompanhada do respetivo documento de pagamento, nos termos a definir por portaria do membro do Governo responsável pela área da justiça.
 
-###### Artigo 6.º — Regras gerais de fixação do valor da taxa de justiça
+Artigo 6.º
+
+Regras gerais de fixação do valor da taxa de justiça
 
 1 - [...]
 
@@ -202,7 +249,9 @@ Os artigos 1.º, 6.º a 9.º, 14.º, 15.º, 17.º a 20.º, 30.º e 35.º do Regu
 
 9 - [...]
 
-###### Artigo 7.º — Regras especiais de fixação do valor da taxa de justiça
+Artigo 7.º
+
+Regras especiais de fixação do valor da taxa de justiça
 
 1 - [...]
 
@@ -222,7 +271,9 @@ Os artigos 1.º, 6.º a 9.º, 14.º, 15.º, 17.º a 20.º, 30.º e 35.º do Regu
 
 9 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -244,7 +295,9 @@ Os artigos 1.º, 6.º a 9.º, 14.º, 15.º, 17.º a 20.º, 30.º e 35.º do Regu
 
 10 - [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -264,7 +317,9 @@ Os artigos 1.º, 6.º a 9.º, 14.º, 15.º, 17.º a 20.º, 30.º e 35.º do Regu
 
 9 - Para os casos que não estão previstos no presente regulamento, designadamente o descarregamento de cópias digitais obtidas através da consulta eletrónica do processo, não é devido o pagamento de qualquer taxa.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -284,7 +339,9 @@ Os artigos 1.º, 6.º a 9.º, 14.º, 15.º, 17.º a 20.º, 30.º e 35.º do Regu
 
 9 - [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -292,7 +349,9 @@ Os artigos 1.º, 6.º a 9.º, 14.º, 15.º, 17.º a 20.º, 30.º e 35.º do Regu
 
 3 - Quando o responsável pelo impulso processual não seja condenado a final, fica dispensado do pagamento, o qual é imputado à parte vencida e considerado na conta a final.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - As entidades que intervenham nos processos ou que coadjuvem em quaisquer diligências, salvo os técnicos que assistam os advogados, têm direito às remunerações previstas no presente regulamento, a fixar pelo magistrado titular do processo.
 
@@ -324,7 +383,9 @@ Os artigos 1.º, 6.º a 9.º, 14.º, 15.º, 17.º a 20.º, 30.º e 35.º do Regu
 
 15 - [...]
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -342,7 +403,9 @@ d) Pelo administrador judiciário, quando se trate de oficial de justiça.
 
 4 - [...]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Quando a parte beneficie de isenção de custas ou de apoio judiciário, bem como nos casos de iniciativas oficiosas do tribunal, o pagamento dos encargos é adiantado pelo Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., sem prejuízo de reembolso nas situações em que este for devido.
 
@@ -350,7 +413,9 @@ d) Pelo administrador judiciário, quando se trate de oficial de justiça.
 
 3 - O pagamento dos adiantamentos referidos no n.º 1 é efetuado pelo Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., após confirmação pela secretaria.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -362,7 +427,9 @@ d) Pelo administrador judiciário, quando se trate de oficial de justiça.
 
 5 - [...]
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - [...]
 
@@ -384,7 +451,9 @@ f) [...]
 
 g) [...]
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - [...]
 
@@ -448,7 +517,9 @@ c) Consulta do auto e obtenção de cópias em papel, cópias em suporte digital
 
 14 - [...]
 
-###### Artigo 89.º — [...]
+Artigo 89.º
+
+[...]
 
 1 - Durante o inquérito, o arguido, o assistente, o ofendido, o lesado e o responsável civil podem, mediante requerimento, consultar o processo ou elementos dele constantes, obter, em formato papel ou digital, as correspondentes cópias ou certidões e aceder ou obter cópia das gravações áudio ou audiovisual de todas as declarações prestadas, salvo quando, tratando-se de processo que se encontre em segredo de justiça, o Ministério Público a isso se opuser por considerar, fundamentadamente, que pode prejudicar a investigação ou os direitos dos participantes processuais ou das vítimas.
 
@@ -462,7 +533,9 @@ c) Consulta do auto e obtenção de cópias em papel, cópias em suporte digital
 
 6 - [...]
 
-###### Artigo 90.º — [...]
+Artigo 90.º
+
+[...]
 
 1 - Qualquer pessoa que nisso revelar interesse legítimo pode pedir que seja admitida a consultar auto de um processo que se não encontre em segredo de justiça e que lhe seja fornecida, à sua custa, cópia em papel, cópia em suporte digital por si disponibilizado ou certidão de auto ou de parte dele, bem como o descarregamento de cópia digital obtida através da consulta eletrónica do mesmo.
 
@@ -504,7 +577,7 @@ g) [...]
 
 h) [...]
 
-3 - Para o efeito do disposto na alínea b) do número anterior, aplica-se o disposto nos n.<sup>os</sup>2, 3, 4, 5 e 13 do artigo 552.º do Código de Processo Civil.
+3 - Para o efeito do disposto na alínea b) do número anterior, aplica-se o disposto nos n.os2, 3, 4, 5 e 13 do artigo 552.º do Código de Processo Civil.
 
 4 - [Anterior n.º 3.]
 
@@ -512,7 +585,9 @@ h) [...]
 
 6 - [Anterior n.º 4.]
 
-###### Artigo 80.º — [...]
+Artigo 80.º
+
+[...]
 
 1 - [Revogado.]
 
@@ -532,7 +607,9 @@ c) Não esteja assinada.
 
 6 - [Anterior n.º 2.]
 
-###### Artigo 82.º — [...]
+Artigo 82.º
+
+[...]
 
 1 - [...]
 
@@ -544,7 +621,9 @@ c) Não esteja assinada.
 
 5 - [...]
 
-###### Artigo 189.º — [...]
+Artigo 189.º
+
+[...]
 
 1 - [...]
 
@@ -574,7 +653,9 @@ Os artigos 132.º, 170.º, 259.º, 552.º, 558.º, 559.º, 560.º, 590.º, 643.�
 
 8 - [Anterior n.º 7.]
 
-###### Artigo 170.º — [...]
+Artigo 170.º
+
+[...]
 
 1 - [...]
 
@@ -588,13 +669,17 @@ Os artigos 132.º, 170.º, 259.º, 552.º, 558.º, 559.º, 560.º, 590.º, 643.�
 
 6 - Sempre que a emissão de certidão de um termo ou ato processual relativo a um processo seja efetuada oficiosamente pelo tribunal para utilização no contexto do mesmo processo, nomeadamente para cumprimento de dispositivo legal que determine a sua transmissão a outra entidade, esta deve ser feita em formato eletrónico e não é considerada um encargo, para efeito de custas.
 
-###### Artigo 259.º — [...]
+Artigo 259.º
+
+[...]
 
 1 - A instância inicia-se com a propositura da ação e esta considera-se proposta, intentada ou pendente logo que a respetiva petição se considere apresentada nos termos do disposto no artigo 144.º
 
 2 - [...]
 
-###### Artigo 552.º — [...]
+Artigo 552.º
+
+[...]
 
 1 - [...]
 
@@ -638,11 +723,13 @@ g) [...]
 
 12 - [...]
 
-13 - O disposto nos n.<sup>os</sup>2 a 5 é aplicável, com as necessárias adaptações, quando haja que proceder à identificação de qualquer outra parte processual em qualquer peça a apresentar em processo.
+13 - O disposto nos n.os2 a 5 é aplicável, com as necessárias adaptações, quando haja que proceder à identificação de qualquer outra parte processual em qualquer peça a apresentar em processo.
 
 14 - [...]
 
-###### Artigo 558.º — Recusa da submissão da petição e recusa da petição pela secretaria
+Artigo 558.º
+
+Recusa da submissão da petição e recusa da petição pela secretaria
 
 1 - O sistema de informação de suporte à atividade dos tribunais não permite a submissão da petição inicial se não forem preenchidos os campos do formulário relativos às informações obrigatórias previstas nas alíneas a), b), c) e f) do n.º 1 do artigo 552.º
 
@@ -656,21 +743,27 @@ c) [Anterior alínea h) do n.º 1.]
 
 3 - Sendo a petição inicial apresentada por uma das formas previstas nas alíneas a) e b) do n.º 7 do artigo 144.º, compete à secretaria recusá-la, por um dos fundamentos previstos nos números anteriores ou por o papel utilizado não obedecer aos requisitos regulamentares, indicando por escrito o fundamento.
 
-4 - A recusa pela secretaria a que se referem os n.<sup>os</sup>2 e 3 realiza-se nos termos definidos na portaria prevista no n.º 2 do artigo 132.º, procedendo-se à notificação da mesma ao autor.
+4 - A recusa pela secretaria a que se referem os n.os2 e 3 realiza-se nos termos definidos na portaria prevista no n.º 2 do artigo 132.º, procedendo-se à notificação da mesma ao autor.
 
-###### Artigo 559.º — Reclamação e recurso da recusa da petição
+Artigo 559.º
+
+Reclamação e recurso da recusa da petição
 
 1 - Do ato de recusa da petição cabe reclamação para o juiz.
 
 2 - Do despacho que confirme a recusa cabe sempre recurso até à Relação, aplicando-se, com as necessárias adaptações, o disposto na alínea c) do n.º 3 do artigo 629.º e no n.º 7 do artigo 641.º
 
-###### Artigo 560.º — [...]
+Artigo 560.º
+
+[...]
 
 1 - Quando a petição inicial for recusada, o autor pode apresentar outra petição ou juntar o documento a que se refere a primeira parte da alínea a) do n.º 2 do artigo 558.º nos 10 dias subsequentes à recusa da petição ou à notificação da decisão judicial que a haja confirmado, considerando-se a ação proposta na data em que a primeira petição foi apresentada em juízo.
 
 2 - Nos casos previstos no número anterior, a petição inicial que já tenha sido distribuída é novamente levada à distribuição, ainda que o autor apenas tenha juntado o documento a que se refere a primeira parte da alínea a) do n.º 2 do artigo 558.º
 
-###### Artigo 590.º — [...]
+Artigo 590.º
+
+[...]
 
 1 - Nos casos em que, por determinação legal ou do juiz, seja apresentada a despacho liminar, a petição é indeferida quando o pedido seja manifestamente improcedente ou ocorram, de forma evidente, exceções dilatórias insupríveis e de que o juiz deva conhecer oficiosamente, aplicando-se o disposto no n.º 1 do artigo 560.º
 
@@ -686,7 +779,9 @@ c) [Anterior alínea h) do n.º 1.]
 
 7 - [...]
 
-###### Artigo 643.º — [...]
+Artigo 643.º
+
+[...]
 
 1 - [...]
 
@@ -700,7 +795,9 @@ c) [Anterior alínea h) do n.º 1.]
 
 6 - [...]
 
-###### Artigo 646.º — [...]
+Artigo 646.º
+
+[...]
 
 1 - Na apelação com subida em separado, as partes indicam, após as conclusões das alegações, as peças do processo que pretendem que instruam o recurso, sendo estas juntas ao requerimento de interposição de recurso pelo sistema de informação de suporte à atividade dos tribunais.
 
@@ -708,7 +805,9 @@ c) [Anterior alínea h) do n.º 1.]
 
 3 - [...]
 
-###### Artigo 724.º — [...]
+Artigo 724.º
+
+[...]
 
 1 - [...]
 
@@ -750,7 +849,9 @@ k) [...]
 
 7 - [...]
 
-###### Artigo 725.º — Recusa da submissão e recusa do requerimento
+Artigo 725.º
+
+Recusa da submissão e recusa do requerimento
 
 1 - O sistema de informação de suporte à atividade dos tribunais apenas permite a submissão do requerimento executivo se forem preenchidos os campos do formulário relativos às informações obrigatórias previstas nas alíneas a), b), d) e g), na primeira parte da alínea h) e na alínea k) do n.º 1 do artigo anterior, bem como se for indicado se as diligências executivas são realizadas por agente de execução ou oficial de justiça.
 
@@ -772,7 +873,9 @@ c) [Anterior alínea e) do n.º 1.]
 
 7 - [Anterior n.º 4.]
 
-###### Artigo 750.º — [...]
+Artigo 750.º
+
+[...]
 
 1 - [...]
 
@@ -782,7 +885,9 @@ c) [Anterior alínea e) do n.º 1.]
 
 4 - No caso de o executado ser o Estado, o agente de execução solicita à Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E., que identifique, no prazo máximo de 5 dias, as contas bancárias a serem objeto da ordem de penhora.
 
-###### Artigo 824.º — [...]
+Artigo 824.º
+
+[...]
 
 1 - Os proponentes devem, obrigatoriamente, prestar caução, em simultâneo com a sua proposta, no montante correspondente a 5 % do valor anunciado, nos termos previstos em portaria do membro do Governo responsável pela área da justiça.
 
@@ -792,9 +897,9 @@ c) [Anterior alínea e) do n.º 1.]
 
 São revogados:
 
-a) O n.º 2 do artigo 5.º, os n.<sup>os</sup>3 e 6 do artigo 9.º e a alínea b) do n.º 2 do artigo 18.º do Regulamento das Custas Processuais;
+a) O n.º 2 do artigo 5.º, os n.os3 e 6 do artigo 9.º e a alínea b) do n.º 2 do artigo 18.º do Regulamento das Custas Processuais;
 
-b) Os n.<sup>os</sup>1 e 4 do artigo 80.º do Código de Processo nos Tribunais Administrativos;
+b) Os n.os1 e 4 do artigo 80.º do Código de Processo nos Tribunais Administrativos;
 
 c) O n.º 2 do artigo 207.º do Código de Processo Civil.
 
@@ -814,15 +919,15 @@ O presente decreto-lei entra em vigor em 1 de dezembro de 2026.
 
 Visto e aprovado em Conselho de Ministros de 3 de junho de 2026. - Luís Montenegro - Cláudia Maria dos Reis Duarte Melo de Carvalho - Rita Alarcão Júdice.
 
-**Promulgado em 24 de julho de 2026.**
+Promulgado em 24 de julho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 27 de julho de 2026.**
+Referendado em 27 de julho de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -839,3 +944,7 @@ TABELA V
 | Certidão de peças processuais ou outros elementos do processo | 0,125 |
 | Cópias de elementos do processo, entregues em suporte físico | 0,03 |
 | Cópias de elementos do processo entregues em suporte digital disponibilizado pelo requerente | 0,03 |
+
+119949242
+
+.Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { min-height:17px; } .Tbl7 { min-height:37px; } .Tbl8 { min-height:27px; }

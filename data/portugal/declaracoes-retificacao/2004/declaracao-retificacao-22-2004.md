@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/22/2004/02/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-2004-580622
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-09T00:00:00Z'
+  retrieved_at: '2026-10-22T19:03:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a3e2380726b9974b7687218fddb86151a2c6cced12b45b8a82aba789c8276f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26e824ffc776c57510472759116efd68102a887739606c1e11cb8c92750cafda
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:03:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1423-e/2003/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1423-e/2003/12/31/p/dre
+- type: cites
+  target: pt:dre:302515:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:03:15Z'
   warnings: []
   errors: []
 ---
@@ -95,10 +99,10 @@ Segundo comunicação do Ministério das Obras Públicas, Transportes e Habitaç
 
 Na alínea b) do n.º 2 do artigo 26.º, onde se lê:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07670767.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07670767.pdf)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07670767.pdf)
 
 deve ler-se:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07670767.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07670767.pdf)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07670767.pdf)
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 28 de Janeiro de 2004. - O Secretário-Geral, José M. Sousa Rego.

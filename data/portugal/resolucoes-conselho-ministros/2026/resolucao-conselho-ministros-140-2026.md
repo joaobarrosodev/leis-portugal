@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/140/2026/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/140-2026-1139897689
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-29T00:00:00Z'
+  retrieved_at: '2026-10-22T18:45:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8d34bacce5c74fa177cb43ec607a15405fa4ca59a4d5ec9a580e9bb6ea8f276
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92ae2493738963bee2cb133946ceb2352a4e3049d44c1a0b2cbcfb9496565a85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:45:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Efeito de Estufa
-- Estratégia Nacional de Adaptação as Alterações Climáticas
-- Poluição Atmosférica
-- Grupo Coordenador
-- Proteção do Ambiente
-- Gestão do Ambiente
-- Programa Nacional para as Alterações Climáticas
+- Agência Portuguesa do Ambiente
 - Alteração Climática
 - Clima
 - Comissão Interministerial do Ar e das Alterações Climáticas
-- Agência Portuguesa do Ambiente
+- Efeito de Estufa
+- Estratégia Nacional de Adaptação as Alterações Climáticas
+- Gestão do Ambiente
+- Grupo Coordenador
+- Poluição Atmosférica
+- Programa Nacional para as Alterações Climáticas
+- Proteção do Ambiente
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:56/2015
+  label: Prorroga, até 31 de dezembro de 2026, a vigência da Estratégia Nacional para a Adaptação às Alterações Climáticas
+    2020, aprovada pela Resolução do Conselho de Ministros n.º 56/2015, de 30 de julho, Diário da República n.º 147/2015,
+    Série I
+  source: null
+  date: '2015-07-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/98/2021/12/31/p/dre
   label: null
@@ -90,16 +97,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/56/2015/07/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/56/2015/07/30/p/dre
+- type: cites
+  target: pt:dre:176907481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69905665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:938923394:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:45:30Z'
   warnings: []
   errors: []
 ---
@@ -141,3 +160,5 @@ Nos termos do n.º 1 e para os efeitos do disposto no n.º 9 do artigo 23.º da 
 3 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 18 de junho de 2026. - Pelo Primeiro-Ministro, Paulo Artur dos Santos de Castro de Campos Rangel, Ministro de Estado e dos Negócios Estrangeiros.
+
+119948916

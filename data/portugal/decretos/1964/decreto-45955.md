@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45955-1964-536796
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-10-10T00:00:00Z'
+  retrieved_at: '2026-10-22T19:42:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c22f55d1ef7d86b7cf0cb1b514d8d0a01643ad62f30b25a17795061373d45f1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 673ef1236b6f076ff6248d6adf6802d22cb8abf40c90a234ade39a0e71d1eb0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:42:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:42:23Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +92,7 @@ Tendo em vista o disposto no artigo 22.º e seu § 1.º do Decreto n.º 41375, d
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. É autorizado o conselho administrativo dos Serviços Sociais da Guarda Nacional Republicana a celebrar contrato com Alvorada - Sociedade de Construções, Lda., para a execução da empreitada de construção de 48 fogos nos lotes 114 a 119 nos Olivais Norte, para habitação de cabos e soldados da Guarda Nacional Republicana, cujo custo total da empreitada e outros encargos somam a importância de 2852323$30, assim discriminada:
+Artigo 1.º - 1. É autorizado o conselho administrativo dos Serviços Sociais da Guarda Nacional Republicana a celebrar contrato com Alvorada - Sociedade de Construções, Lda., para a execução da empreitada de construção de 48 fogos nos lotes 114 a 119 nos Olivais Norte, para habitação de cabos e soldados da Guarda Nacional Republicana, cujo custo total da empreitada e outros encargos somam a importância de 2852323$30, assim discriminada:
 
 1 - Custo da empreitada ... 2455593$00
 
@@ -106,7 +106,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 2. Desta importância, 2372323$30 serão pagos pelo orçamento privativo do conselho administrativo dos Serviços Sociais da Guarda Nacional Republicana e 480000$00 pela verba inscrita no orçamento do Ministério das Obras Públicas, através do Comissariado do Desemprego.
 
-###### Art. 2.º O custo dos trabalhos e outros encargos referidos no artigo anterior não poderá exceder o limite fixado e será suportado como segue:
+Art. 2.º O custo dos trabalhos e outros encargos referidos no artigo anterior não poderá exceder o limite fixado e será suportado como segue:
 
 Serviços Sociais da Guarda Nacional Republicana:
 
@@ -130,6 +130,6 @@ Fundo de Desemprego:
 
 § único. Seja qual for o valor das obras a realizar, não poderão despender-se em cada ano com pagamentos relativos às obras executadas, por virtude do contrato, importâncias superiores às fixadas, podendo, contudo, as quantias estabelecidas para os anos de 1965 e 1966 ser acrescidas do saldo que transitar no ano anterior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 10 de Outubro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - António Manuel Pinto Barbosa - Eduardo de Arantes e Oliveira.

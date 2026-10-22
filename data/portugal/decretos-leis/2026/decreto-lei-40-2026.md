@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/40/2026/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2026-1049254412
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-13T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59a2d831c8689144458769b110544181c173f92fe4ef879ca0371750e4124689
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 755a27172c89a2cc6d644d5171b1ba7079d542327849dbbdb9ce8d3c82506d1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
 - Acesso à Informação
+- Açores
 - Agência para o Desenvolvimento e Coesão
 - Ajuda Comunitária
-- Garantia
-- Fundos CE
-- Base de Dados
-- IFAP
-- Açores
 - Autoridade de Gestão
-- Portugal 2030
-- Fundo para o Asilo
-- a Migração e a Integração
+- Base de Dados
 - CIC Portugal 2030
+- Fundo para o Asilo, a Migração e a Integração
+- Fundos CE
+- Garantia
+- IFAP
+- Portugal 2030
+- Recurso
 relationships:
 - type: amended_by
   target: pt:dre:1156670555:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1183482554:por
+  label: Alterados, a partir de 21 de outubro de 2026, os artigos 10.º e 11.º pelo(a) Decreto-Lei n.º 202/2026 - Diário da
+    República n.º 203/2026, Série I de 2026-10-20, com efeitos nos termos do n.º 2 do artigo 3.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2026-1183482554
+  date: '2026-10-20'
+- type: amends
+  target: pt:numero:decreto-lei:137/2014
+  label: Altera, a partir de 18 de fevereiro de 2026, o artigo 19.º, revoga o n.º 12 do artigo 19.º e repristina o n.º 4 do
+    artigo 30.º e o n.º 3 do artigo 32.º do Decreto-Lei n.º 137/2014, de 12 de setembro, Diário da República n.º 176/2014,
+    Série I
+  source: null
+  date: '2014-09-12'
+- type: amends
+  target: pt:numero:decreto-lei:5/2023
+  label: Altera, a partir de 18 de fevereiro de 2026, os artigos 9.º, 11.º, 15.º, 39.º-A, 47.º, 49.º e 59.º e revoga a alínea
+    d) do n.º 3 do artigo 9.º do Decreto-Lei n.º 5/2023, de 25 de janeiro, Diário da República n.º 18/2023, Série I
+  source: null
+  date: '2023-01-25'
+- type: amends
+  target: pt:numero:decreto-lei:20-A/2023
+  label: Altera, a partir de 18 de fevereiro de 2026, os artigos 2.º, 6.º, 8.º, 12.º, 29.º e 34.º do Decreto-Lei n.º 20-A/2023,
+    de 22 de março, Diário da República n.º 58/2023, 1º Suplemento, Série I
+  source: null
+  date: '2023-03-22'
 - type: cites
   target: celex:32014L0024
   label: null
@@ -137,16 +161,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/20
   label: null
   source: http://data.dre.pt/eli/lei/37/20
+- type: cites
+  target: pt:dre:115312062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124283151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185224662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206478423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210543862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:864060322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:868097436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:899204480:por
+  label: null
+  source: null
 article_structure:
-  article_count: 17
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:08Z'
   warnings: []
   errors: []
 ---
@@ -187,9 +251,9 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 O presente decreto-lei procede:
 
-a) À quarta alteração ao [Decreto-Lei n.º 137/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2014-56747378), de 12 de setembro, alterado pelos Decretos-Leis n.<sup>os</sup>[34/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2018-115312062), de 15 de maio, [127/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2019-124283151), de 29 de agosto, e pela [Lei n.º 12/2022](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), de 27 de junho, que estabelece o modelo de governação dos fundos europeus estruturais e de investimento para o período de 2014-2020;
+a) À quarta alteração ao [Decreto-Lei n.º 137/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2014-56747378), de 12 de setembro, alterado pelos Decretos-Leis n.os[34/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2018-115312062), de 15 de maio, [127/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2019-124283151), de 29 de agosto, e pela [Lei n.º 12/2022](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), de 27 de junho, que estabelece o modelo de governação dos fundos europeus estruturais e de investimento para o período de 2014-2020;
 
-b) À terceira alteração ao [Decreto-Lei n.º 5/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2023-206478423), de 25 de janeiro, alterado pelos Decretos-Leis n.<sup>os</sup>[31/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2024-864060322), de 8 de maio, e [39/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2024-868097436), de 6 de junho, que estabelece o modelo de governação dos fundos europeus para o período de programação 2021-2027;
+b) À terceira alteração ao [Decreto-Lei n.º 5/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2023-206478423), de 25 de janeiro, alterado pelos Decretos-Leis n.os[31/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2024-864060322), de 8 de maio, e [39/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2024-868097436), de 6 de junho, que estabelece o modelo de governação dos fundos europeus para o período de programação 2021-2027;
 
 c) À primeira alteração ao [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, que estabelece o regime geral de aplicação dos fundos europeus do Portugal 2030 e do Fundo para o Asilo, a Migração e a Integração para o período de programação de 2021-2027.
 
@@ -259,7 +323,9 @@ f) [...]
 
 8 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -315,7 +381,9 @@ y) [...]
 
 2 - [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -421,7 +489,9 @@ rr) [...]
 
 8 - Pode ser delegada em qualquer dos membros das comissões diretivas dos programas temáticos, regionais do continente e de assistência técnica, a competência para decidir a alteração dos apoios, prevista na alínea i) do n.º 1, desde que tal alteração não implique um aumento ou reforço do compromisso financeiro do Programa.
 
-###### Artigo 39.º-A — [...]
+Artigo 39.º-A
+
+[...]
 
 1 - Com exceção das medidas de assistência técnica, todas as operações aprovadas são objeto de publicitação, de forma sumária, alternadamente:
 
@@ -433,7 +503,7 @@ b) Num dos dois jornais de maior tiragem de âmbito nacional, no caso dos progra
 
 3 - [...]
 
-4 - Para cumprimento do disposto nos n.<sup>os</sup>2 e 3 é utilizada a lista dos jornais nacionais disponibilizada, com periodicidade anual, pela Estrutura de Missão para a Comunicação Social (#PortugalMediaLab).
+4 - Para cumprimento do disposto nos n.os2 e 3 é utilizada a lista dos jornais nacionais disponibilizada, com periodicidade anual, pela Estrutura de Missão para a Comunicação Social (#PortugalMediaLab).
 
 5 - As tabelas de referência de preços relativas à publicação das operações referidas no n.º 1, as quais podem incluir diferenciações regionais, são aprovadas anualmente por portaria dos membros do Governo responsáveis pelas áreas da comunicação social e da administração local, ouvidas as associações representativas do setor e a Associação Nacional de Municípios Portugueses.
 
@@ -441,7 +511,9 @@ b) Num dos dois jornais de maior tiragem de âmbito nacional, no caso dos progra
 
 7 - À formação dos contratos de aquisição de bens móveis ou de serviços a executar pelas autoridades de gestão com vista à publicitação das operações referidas no n.º 1, cujo valor seja inferior aos limiares relevantes para efeitos de aplicação da [Diretiva 2014/24/UE](https://data.europa.eu/eli/dir/2014/24/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2024, relativa aos contratos públicos, não é aplicável a parte ii do Código dos Contratos Públicos.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - [...]
 
@@ -453,7 +525,9 @@ b) Num dos dois jornais de maior tiragem de âmbito nacional, no caso dos progra
 
 5 - [...]
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - [...]
 
@@ -469,7 +543,9 @@ b) Num dos dois jornais de maior tiragem de âmbito nacional, no caso dos progra
 
 7 - [...]
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - [...]
 
@@ -481,7 +557,7 @@ b) Num dos dois jornais de maior tiragem de âmbito nacional, no caso dos progra
 
 5 - Os membros da comissão diretiva são livremente exonerados por resolução do Conselho de Ministros.
 
-6 - O Conselho de Ministros pode delegar as competências previstas nos n.<sup>os</sup>3 e 5 no membro do Governo responsável pela área da agricultura, sendo a designação ou a exoneração efetuadas mediante despacho deste membro do Governo.
+6 - O Conselho de Ministros pode delegar as competências previstas nos n.os3 e 5 no membro do Governo responsável pela área da agricultura, sendo a designação ou a exoneração efetuadas mediante despacho deste membro do Governo.
 
 7 - [...]
 
@@ -511,7 +587,9 @@ Os artigos 2.º, 6.º, 8.º, 12.º, 29.º e 34.º do [Decreto-Lei n.º 20-A/2023
 
 3 - As disposições do presente decreto-lei aplicam-se com as necessárias adaptações aos programas de cooperação territorial quando não contrariem o disposto no [Regulamento (UE) 2021/1059](https://data.europa.eu/eli/reg/2021/1059/oj?locale=pt) do Parlamento Europeu e do Conselho de 24 de junho de 2021, que estabelece disposições específicas relativas ao objetivo de Cooperação Territorial Europeia (Interreg) apoiado pelo Fundo Europeu de Desenvolvimento Regional e pelos instrumentos de financiamento externo.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -527,17 +605,21 @@ b) [...]
 
 5 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
 2 - [...]
 
-3 - Em casos excecionais, nomeadamente nos casos de indisponibilidade do SPNE, as notificações previstas no n.º 1 são realizadas por carta registada para o domicílio ou sede social do notificando ou por meios eletrónicos, sendo-lhes aplicável, designadamente no que se refere à presunção da regular notificação, o disposto nos n.<sup>os</sup>1, 5 e 6 do artigo 113.º do Código do Procedimento Administrativo (CPA).
+3 - Em casos excecionais, nomeadamente nos casos de indisponibilidade do SPNE, as notificações previstas no n.º 1 são realizadas por carta registada para o domicílio ou sede social do notificando ou por meios eletrónicos, sendo-lhes aplicável, designadamente no que se refere à presunção da regular notificação, o disposto nos n.os1, 5 e 6 do artigo 113.º do Código do Procedimento Administrativo (CPA).
 
 4 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -559,7 +641,9 @@ a) [...]
 
 b) Em situações excecionais ou imprevisíveis, devidamente justificadas, sendo que as alterações que respeitem a algum objetivo estratégico ou específico em causa, ou ao tipo de beneficiários elegíveis, carecem de prévia autorização pelos membros do Governo responsáveis pela coordenação política específica.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...]
 
@@ -571,7 +655,9 @@ b) Em situações excecionais ou imprevisíveis, devidamente justificadas, sendo
 
 5 - Nas situações em que a suspensão de pagamentos resulte da superveniência de situação não regularizada no âmbito dos financiamentos dos fundos europeus independentemente do período de programação, e sem prejuízo do disposto no n.º 19 do artigo 34.º, a referida suspensão corresponderá ao montante que se encontre por regularizar em cada momento.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - [...]
 
@@ -659,12 +745,14 @@ b) A alínea d) do n.º 3 do artigo 9.º do [Decreto-Lei n.º 5/2023](https://di
 
 Visto e aprovado em Conselho de Ministros de 9 de janeiro de 2026. - Luís Montenegro - António Leitão Amaro - Manuel Castro Almeida - José Manuel Fernandes.
 
-**Promulgado em 1 de fevereiro de 2026.**
+Promulgado em 1 de fevereiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 2 de fevereiro de 2026.**
+Referendado em 2 de fevereiro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119947657

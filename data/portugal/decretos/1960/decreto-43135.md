@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43135-1960-499841
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-08-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:19:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a08efa7b3ab96c0e947e1e7e7191e7f63a84490f6e0cbdd3a5f20844452e07fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15a0f4f6b5001a82ce902d38c15ec36d7a25bb5d4f98ad67201b40892cc999a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:19:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:19:22Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +88,7 @@ Ouvido o Conselho Ultramarino;
 
 No uso da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aumentado o quadro administrativo de Angola com os seguintes lugares:
+Artigo 1.º É aumentado o quadro administrativo de Angola com os seguintes lugares:
 
 Inspectores administrativos - 6.
 
@@ -100,9 +100,9 @@ Chefes de posto - 77.
 
 Aspirantes - 132.
 
-###### Art. 2.º Fica o Governo-Geral de Angola autorizado desde já a abrir os créditos necessários para fazer face às despesas resultantes do artigo 1.º, com contrapartida nos recursos orçamentais.
+Art. 2.º Fica o Governo-Geral de Angola autorizado desde já a abrir os créditos necessários para fazer face às despesas resultantes do artigo 1.º, com contrapartida nos recursos orçamentais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Agosto de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

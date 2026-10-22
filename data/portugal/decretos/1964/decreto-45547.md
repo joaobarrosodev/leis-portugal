@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45547-1964-469454
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-01-25T00:00:00Z'
+  retrieved_at: '2026-10-22T19:39:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c67cbea8a1c1e68b744c5e3cf650f543497eb42a0fbf7b0d868f8e82392b687
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e282f12e854f1db768f236214218adaae0020dd784cd819182e1ac9e64ab8aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:39:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:39:19Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +95,7 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Em cada uma das províncias ultramarinas de Angola e Moçambique são instituídas seis bolsas de estudo destinadas à formação de técnicos terapeutas para os serviços de saúde e assistência.
+Artigo 1.º Em cada uma das províncias ultramarinas de Angola e Moçambique são instituídas seis bolsas de estudo destinadas à formação de técnicos terapeutas para os serviços de saúde e assistência.
 
 § único. Ficam os Governos daquelas províncias autorizados a regulamentar a concessão das bolsas observado o seguinte:
 
@@ -115,9 +115,9 @@ d) Forem exonerados ou demitidos dentro do período mínimo estabelecido no n.º
 
 4.º O cumprimento, pelos beneficiários, do disposto no n.º 2.º deste parágrafo incapacita-os para serem nomeados para cargos públicos do ultramar (Estado, corpos administrativos e organismos de coordenação económica).
 
-###### Art. 2.º Poderá ser autorizado pelo Ministro do Ultramar, mediante proposta dos Governos-Gerais de Angola e Moçambique, a deslocação à metrópole, em comissão eventual, de enfermeiras do serviço de saúde e higiene a fim de efectuarem um estágio de aperfeiçoamento, pelo período de doze meses, na Escola de Reabilitação de Lisboa.
+Art. 2.º Poderá ser autorizado pelo Ministro do Ultramar, mediante proposta dos Governos-Gerais de Angola e Moçambique, a deslocação à metrópole, em comissão eventual, de enfermeiras do serviço de saúde e higiene a fim de efectuarem um estágio de aperfeiçoamento, pelo período de doze meses, na Escola de Reabilitação de Lisboa.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Janeiro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

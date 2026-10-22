@@ -47,25 +47,35 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/194/2026/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2026-1173491823
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-25T00:00:00Z'
+  retrieved_at: '2026-10-22T18:53:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c23d210a181f898c2ab8e7b15a8ec772b169289befdedd67c3b1fbed1bbc7d1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 383a523b969f0c2dfdb42ac37f35d081b25d322217f9e7a71a549e66f87c3bb7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:53:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acreditação
+- Artesanato
+- Autoridade Competente
+- Conselho Consultivo
+- Fiscalização
+- Indicação Geográfica
+- Instituto do Emprego e Formação Profissional
+- Instituto Nacional da Propriedade Industrial IP
+- Propriedade Industrial
+- Regulamento CE
 relationships:
 - type: cites
   target: celex:32017R1001
@@ -95,16 +105,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/41/2001/02/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/41/2001/02/09/p/dre
+- type: cites
+  target: pt:dre:117279933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67641480:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:121/2015
+  label: Revoga, a partir de 30 de setembro de 2026, sem prejuízo do disposto no artigo 18.º do presente diploma, o Decreto-Lei
+    n.º 121/2015, de 30 de junho, Diário da República n.º 125/2015, Série I
+  source: null
+  date: '2015-06-29'
+- type: repeals
+  target: pt:numero:decreto-lei:110/2018
+  label: Revoga, a partir de 30 de setembro de 2026, sem prejuízo do disposto no artigo 18.º do presente diploma, os artigos
+    301.º e 302.º do Código da Propriedade Industrial, aprovado em anexo ao Decreto-Lei n.º 110/2018, de 10 de dezembro, Diário
+    da República n.º 237/2018, Série I
+  source: null
+  date: '2018-12-10'
 article_structure:
   article_count: 19
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:53:53Z'
   warnings: []
   errors: []
 ---
@@ -293,7 +328,7 @@ c) A demonstração do interesse legítimo do requerente;
 
 d) A indicação dos motivos do cancelamento;
 
-e) A invocação de um dos fundamentos referidos nos n.<sup>os</sup>1 e 2 do artigo 32.º do Regulamento, salvo se o pedido de cancelamento for apresentado pelo titular do registo de indicação geográfica.
+e) A invocação de um dos fundamentos referidos nos n.os1 e 2 do artigo 32.º do Regulamento, salvo se o pedido de cancelamento for apresentado pelo titular do registo de indicação geográfica.
 
 4 - Nos casos em que o cancelamento do registo é desencadeado pelo INPI, I. P., não é aplicável o disposto na alínea c) do número anterior.
 
@@ -309,7 +344,7 @@ a) O nome do requerente e a sua nacionalidade;
 
 b) A denominação registada cujo cancelamento se requer;
 
-c) Os fundamentos invocados para o cancelamento, nos termos dos n.<sup>os</sup>1 a 3 do artigo 32.º do Regulamento.
+c) Os fundamentos invocados para o cancelamento, nos termos dos n.os1 a 3 do artigo 32.º do Regulamento.
 
 ###### Artigo 14.º — Procedimento nacional de cancelamento
 
@@ -367,12 +402,14 @@ b) Os artigos 301.º e 302.º do Código da Propriedade Industrial.
 
 Visto e aprovado em Conselho de Ministros de 17 de julho de 2026. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Manuel Castro Almeida - Gonçalo Pedro da Cunha Viegas Pires - Rosário Palma Ramalho.
 
-**Promulgado em 11 de setembro de 2026.**
+Promulgado em 11 de setembro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 14 de setembro de 2026.**
+Referendado em 14 de setembro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119949599

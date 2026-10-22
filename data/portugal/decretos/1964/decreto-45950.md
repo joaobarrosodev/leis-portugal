@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45950-1964-536850
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:42:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ded669730ceda7c04449c203aa91b27dff690839b5b2b61e9c14976054fef419
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7232a822bcc7e13e1d2c498c50d09a834d1ad5167082f0bb066b194576b6d53
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:42:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,26 @@ relationships:
   target: pt:dre:146237:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:146237:por
+  label: "Alterado, a partir de 30.10.2012, o art. 71º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-nov, na redação\
+    \ do presente diploma, pela LEI.55-A/2012.29.10.2012.AR, DR.IS [209-Supl] de 29.10.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2012-146237
+  date: '2012-10-29'
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:42:20Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +105,9 @@ Tendo em vista o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo:
 
-###### Artigo 1.º É autorizada a Administração-Geral do Porto de Lisboa a celebrar contrato com a firma Trabel - Trabalhos de Engenharia, Lda., para a execução da empreitada de reconstrução dos taludes empedrados entre a doca do Bom Sucesso e a doca de Belém, pela importância de 1983614$50.
+Artigo 1.º É autorizada a Administração-Geral do Porto de Lisboa a celebrar contrato com a firma Trabel - Trabalhos de Engenharia, Lda., para a execução da empreitada de reconstrução dos taludes empedrados entre a doca do Bom Sucesso e a doca de Belém, pela importância de 1983614$50.
 
-###### Art. 2.º Seja qual for o valor dos trabalhos realizados, não poderá a Administração-Geral do Porto de Lisboa despender com pagamentos devidos por força do contrato mais de:
+Art. 2.º Seja qual for o valor dos trabalhos realizados, não poderá a Administração-Geral do Porto de Lisboa despender com pagamentos devidos por força do contrato mais de:
 
 Em 1964 ... 600000$00
 
@@ -105,6 +115,6 @@ Em 1965 ... 1383614$50
 
 § único. À importância fixada para 1965 acresce o saldo do ano anterior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 3 de Outubro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Carlos Gomes da Silva Ribeiro.

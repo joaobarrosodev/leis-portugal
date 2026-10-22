@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/115/2026/06/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/115-2026-1131112492
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-11T00:00:00Z'
+  retrieved_at: '2026-10-22T18:43:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d8fc0917585e72b14c896c0f787d602dbac8c81cf51208ac3c547033811025e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 154841d7067fcc4e808ed85ac3592e91e118424b12285030a41a4145678c80f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:43:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exoneração
 - Conselho de Administração
+- Exoneração
 - Nomeação
-- Vogal
 - Unidade Local de Saúde de Santa Maria
+- Vogal
 relationships:
+- type: amends
+  target: pt:numero:despacho:2445/2024
+  label: Exonera, a partir de 12 de junho de 2026, Eunice Isabel do Nascimento Carrapiço, designada pelo Despacho n.º 2445/2024,
+    de 7 de março, Diário da República n.º 48/2024, Série II
+  source: null
+  date: '2024-03-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/52/2022/08/04/p/dre
   label: null
@@ -95,16 +101,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201414019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:854545721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:936526998:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:43:25Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +163,7 @@ Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](h
 
 Assim:
 
-Nos termos dos n.<sup>os</sup>2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, do artigo 12.º, dos n.<sup>os</sup>1 a 3 do artigo 13.º, do artigo 15.º, da alínea c) do n.º 3 do artigo 20.º, dos n.<sup>os</sup>1 e 2 do artigo 26.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, das alíneas d) e g) do artigo 199.º da Constituição, e por proposta do diretor executivo da Direção Executiva do Serviço Nacional de Saúde, I. P., nos termos da alínea e) do n.º 4 do artigo 5.º do anexo i ao [Decreto-Lei n.º 61/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), de 23 de setembro, o Conselho de Ministros resolve:
+Nos termos dos n.os2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, do artigo 12.º, dos n.os1 a 3 do artigo 13.º, do artigo 15.º, da alínea c) do n.º 3 do artigo 20.º, dos n.os1 e 2 do artigo 26.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, das alíneas d) e g) do artigo 199.º da Constituição, e por proposta do diretor executivo da Direção Executiva do Serviço Nacional de Saúde, I. P., nos termos da alínea e) do n.º 4 do artigo 5.º do anexo i ao [Decreto-Lei n.º 61/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), de 23 de setembro, o Conselho de Ministros resolve:
 
 1 - Demitir, com fundamento em critérios de mera conveniência, a vogal executiva - diretora clínica para a área dos cuidados de saúde primários do conselho de administração da Unidade Local de Saúde de Santa Maria, E. P. E., Eunice Isabel do Nascimento Carrapiço, designada pelo [Despacho n.º 2445/2024](https://diariodarepublica.pt/dr/detalhe/despacho/2445-2024-854545721), publicado no Diário da República, 2.ª série, n.º 48, de 7 de março de 2024.
 
@@ -148,3 +182,5 @@ Presidência do Conselho de Ministros, 21 de maio de 2026. - O Primeiro-Ministro
 Nota curricular
 
 Ana Rita Matos Beja Boffa Molinar, nascida em Coimbra a 24 de dezembro de 1982, licenciou-se em Medicina pela Faculdade de Medicina da Universidade de Lisboa em 2009, tendo concluído o Internato de Formação Específica em Medicina Geral e Familiar no Agrupamento de Centros de Saúde (ACES) de Lisboa Norte entre 2011 e 2015, ano em que obteve o grau de especialista em medicina geral e familiar. Exerce funções desde 2015, tendo desenvolvido atividade em diferentes unidades funcionais dos Cuidados de Saúde Primários, nomeadamente na Unidade de Cuidados de Saúde Personalizados (UCSP) de Sete Rios, na Unidade de Saúde Familiar (USF) de Benfica Jardim e na USF Professor Guilherme Jordão, onde desempenha atualmente funções como médica assistente de medicina geral e familiar, sendo sua coordenadora desde janeiro de 2025 e orientadora de formação específica desde 2021. Desde novembro de 2025, exerce funções como coordenadora dos adjuntos da direção clínica para a área de cuidados de saúde primários da Unidade Local de Saúde (ULS) de Santa Maria. Ao longo do seu percurso profissional desenvolveu atividade assistencial em diferentes áreas dos cuidados de saúde primários, com experiência em gestão e coordenação de equipas multiprofissionais, organização da atividade assistencial, orientação formativa e desenvolvimento de projetos clínicos, nomeadamente na área da cessação tabágica, sendo responsável pela consulta intensiva de cessação tabágica do ACES de Lisboa Norte desde 2020. Possui ainda experiência em contexto de urgência e emergência médica, tendo exercido funções em serviços de urgência médico-cirúrgica e em viaturas médicas de emergência e reanimação (VMER), designadamente no Centro Hospitalar do Oeste e no Centro Hospitalar Barreiro Montijo. Participa regularmente em atividades científicas e formativas na área da medicina geral e familiar e é coautora do capítulo «Cessação tabágica no doente com patologia cardiovascular», integrado na obra «Cessação tabágica». Encontra-se atualmente a frequentar a pós-graduação em Gestão e Administração em Saúde no Instituto Superior de Ciências Sociais e Políticas da Universidade de Lisboa.
+
+119948661

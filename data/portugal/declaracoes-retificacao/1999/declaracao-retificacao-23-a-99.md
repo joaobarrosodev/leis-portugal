@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 303/1999, 2º Suplemento, Série I-A de 1999-12-31
   number: '303'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 9362-(8) a 9362-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/12/303a02/00080008.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/23-a/1999/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/23-a-1999-249984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-19T00:00:00Z'
+  retrieved_at: '2026-10-22T18:54:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e2fcb9a5f305b2643a7deee1a0bffdd5c89730aa6f5bdb2dd6c1174d3d527ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 273dfeaa82ccdb01428558fc1adb420f3a033fd356303cb5aa6cb9e9eef7f0b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:54:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,38 +67,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviço Postal
 - Contrato de Concessão
 - CTT
-- Rescisão de Contrato
 - Fiscalização
 - Fixação de Preços
 - Fundo de Compensação
 - Instituto das Comunicações de Portugal
-- Serviço Público
 - REDE Postal Pública
+- Rescisão de Contrato
 - Responsabilidade Extracontratual
+- Serviço Postal
 - Serviço Postal Universal
+- Serviço Público
 - Tribunal Arbitral
 relationships:
 - type: amended_by
   target: pt:dre:504161:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:504161:por
+  label: "Dada nova redação às bases XXVII e XXXI da concessão do serviço postal universal, aprovadas pelo Dec Lei 448/99\
+    \ de 04-nov, retificadas pelo presente diploma, pelo DEC LEI.160/2013.19.11.2013.MECO, DR.IS [224] de 19.11.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/160-2013-504161
+  date: '2013-11-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/448/1999/11/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/448/1999/11/04/p/dre
+- type: cites
+  target: pt:dre:694011:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:54:26Z'
   warnings: []
   errors: []
 ---

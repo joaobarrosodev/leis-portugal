@@ -48,26 +48,45 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/176/2026/09/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2026-1166155909
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-03T00:00:00Z'
+  retrieved_at: '2026-10-22T18:52:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 038bd319e5204d92fea8b025d41623b9bbbe5436ea728eee687de850832a5ebd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc7ae63c15d24060d89aca04a52837f2b2a614843c27c868a74fa363da5b78e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:52:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acesso à Educação
+- Educação Especial
+- Encarregado de Educação
+- Ensino Básico
+- Ensino Cooperativo
+- Ensino não Superior
+- Ensino no Estrangeiro
+- Ensino Oficial
+- Ensino Particular
+- Equipamento Eletrónico
+- Estatuto do Aluno e Ética Escolar
+- Internet
+- Ministério da Educação Ciência e Inovação
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:95/2025
+  label: Altera, a partir de 04 de setembro os artigos 1.º, 2.º e 3.º do Decreto-Lei n.º 95/2025, de 14 de agosto, Diário
+    da República n.º 156/2025, Série I
+  source: null
+  date: '2025-08-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/95/2025/08/14/p/dre
   label: null
@@ -76,16 +95,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/51/2012/09/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/51/2012/09/05/p/dre
+- type: cites
+  target: pt:dre:174840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928937305:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:52:19Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +153,9 @@ Os artigos 1.º, 2.º e 3.º do [Decreto-Lei n.º 95/2025](https://diariodarepub
 
 O presente decreto-lei regula a utilização, no espaço escolar, de equipamentos ou aparelhos eletrónicos de comunicação móvel com acesso à Internet pelos alunos dos 1.º, 2.º e 3.º ciclos do ensino básico, desenvolvendo o regime previsto no artigo 10.º da [Lei n.º 51/2012](https://diariodarepublica.pt/dr/detalhe/lei/51-2012-174840), de 5 de setembro, que aprova o Estatuto do Aluno e Ética Escolar.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 O presente decreto-lei é aplicável aos alunos dos 1.º, 2.º e 3.º ciclos do ensino básico:
 
@@ -134,7 +163,9 @@ a) [...];
 
 b) [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...].
 
@@ -164,12 +195,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de julho de 2026. - Luís Montenegro - Fernando Alexandre.
 
-**Promulgado em 28 de agosto de 2026.**
+Promulgado em 28 de agosto de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 31 de agosto de 2026.**
+Referendado em 31 de agosto de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119949520

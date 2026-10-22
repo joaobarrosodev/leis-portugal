@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43081-1960-501992
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-07-19T00:00:00Z'
+  retrieved_at: '2026-10-22T19:19:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4356cb2eab49523d7f011bcba2aa15718a3b1580768f1d6e5d0b6cb1b5d7d51c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35d3ed7c57202dc5061e1b42de0826885c3a62fc16872aea65bf3558a11054f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:19:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:279402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654121:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:19:02Z'
   warnings: []
   errors: []
 ---
@@ -94,15 +110,15 @@ Ouvidos o Conselho Ultramarino e os governos das províncias ultramarinas;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º As disposições do artigo 5.º e seu § único do [Decreto n.º 41543](https://diariodarepublica.pt/dr/detalhe/decreto/41543-1958-304477), de 28 de Fevereiro de 1958, são extensivas aos combustíveis sólidos ou líquidos a importar para consumo de centrais termoeléctricas pertencentes ao Estado, quer sejam ou não por ele directamente administradas, quando o benefício reverta directamente para o público consumidor através de uma redução das tarifas de abastecimento de energia.
+Artigo 1.º As disposições do artigo 5.º e seu § único do [Decreto n.º 41543](https://diariodarepublica.pt/dr/detalhe/decreto/41543-1958-304477), de 28 de Fevereiro de 1958, são extensivas aos combustíveis sólidos ou líquidos a importar para consumo de centrais termoeléctricas pertencentes ao Estado, quer sejam ou não por ele directamente administradas, quando o benefício reverta directamente para o público consumidor através de uma redução das tarifas de abastecimento de energia.
 
-###### Art. 2.º São cativos apenas do direito de 1 por cento ad valorem, nas pautas mínimas de importação das diversas províncias ultramarinas, os aparelhos e máquinas para as indústrias gráficas, seus pertences e peças separadas.
+Art. 2.º São cativos apenas do direito de 1 por cento ad valorem, nas pautas mínimas de importação das diversas províncias ultramarinas, os aparelhos e máquinas para as indústrias gráficas, seus pertences e peças separadas.
 
-###### Art. 3.º Pode o Ministro do Ultramar, ouvido o governador da respectiva província, isentar de direitos de importação e de outras imposições a cobrar no despacho aduaneiro, com excepção do imposto do selo, todos os materiais destinados a serem incorporados em tanques para armazenamento de óleos minerais a montar ou construir nos portos do ultramar português, incluindo o equipamento acessório indispensável ao funcionamento daqueles tanques, sem prejuízo das imposições do artigo 9.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921), de 28 de Fevereiro de 1957.
+Art. 3.º Pode o Ministro do Ultramar, ouvido o governador da respectiva província, isentar de direitos de importação e de outras imposições a cobrar no despacho aduaneiro, com excepção do imposto do selo, todos os materiais destinados a serem incorporados em tanques para armazenamento de óleos minerais a montar ou construir nos portos do ultramar português, incluindo o equipamento acessório indispensável ao funcionamento daqueles tanques, sem prejuízo das imposições do artigo 9.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921), de 28 de Fevereiro de 1957.
 
-###### Art. 4.º A redacção da alínea a) do artigo 4.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921), de 28 de Fevereiro de 1957, e a do artigo 9.º do mesmo decreto são alteradas do seguinte modo:
+Art. 4.º A redacção da alínea a) do artigo 4.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921), de 28 de Fevereiro de 1957, e a do artigo 9.º do mesmo decreto são alteradas do seguinte modo:
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 a) Artefactos que constituam material didáctico, quando importados pelos serviços oficiais ou por instituições particulares de ensino;
 
@@ -112,23 +128,23 @@ c) ...
 
 d) ...
 
-###### Art. 9.º As isenções previstas neste diploma, salvo quanto a matérias-primas (primárias), só podem ser concedidas para mercadorias de origem estrangeira se as entidades interessadas provarem que não são produzidas em território nacional nem podem ser substituídas sem inconveniente por outras desta origem. Poderá, contudo, ser deferido o pedido de isenção, desde que se prove que as mercadorias de origem nacional não são fornecidas em boas condições de dualidade e preço.
+Art. 9.º As isenções previstas neste diploma, salvo quanto a matérias-primas (primárias), só podem ser concedidas para mercadorias de origem estrangeira se as entidades interessadas provarem que não são produzidas em território nacional nem podem ser substituídas sem inconveniente por outras desta origem. Poderá, contudo, ser deferido o pedido de isenção, desde que se prove que as mercadorias de origem nacional não são fornecidas em boas condições de dualidade e preço.
 
 § 1.º ...
 
 § 2.º ...
 
-###### Art. 5.º Podem os governadores das províncias ultramarinas, ouvido o Conselho do Governo, conceder isenção de direitos de importação e de outras imposições a cobrar no despacho aduaneiro, com excepção do imposto do selo, para os impressos de origem nacional destinados aos serviços oficiais, quando os preços dos produzidos na respectiva província se mostrem excessivamente elevados.
+Art. 5.º Podem os governadores das províncias ultramarinas, ouvido o Conselho do Governo, conceder isenção de direitos de importação e de outras imposições a cobrar no despacho aduaneiro, com excepção do imposto do selo, para os impressos de origem nacional destinados aos serviços oficiais, quando os preços dos produzidos na respectiva província se mostrem excessivamente elevados.
 
-###### Art. 6.º São isentos de direitos de importação e de outras imposições a cobrar no despacho aduaneiro, com excepção do imposto do selo, as bandeiras nacionais e os distintivos oficiais de origem nacional destinados aos serviços ou organismos oficiais e aos corpos administrativos das diversas províncias ultramarinas.
+Art. 6.º São isentos de direitos de importação e de outras imposições a cobrar no despacho aduaneiro, com excepção do imposto do selo, as bandeiras nacionais e os distintivos oficiais de origem nacional destinados aos serviços ou organismos oficiais e aos corpos administrativos das diversas províncias ultramarinas.
 
-###### Art. 7.º É isenta de emolumentos gerais aduaneiros reexportação de motores, sobresselentes e outras peças destinadas a aeronaves que se encontrem depositadas em quaisquer armazéns sob regime aduaneiro.
+Art. 7.º É isenta de emolumentos gerais aduaneiros reexportação de motores, sobresselentes e outras peças destinadas a aeronaves que se encontrem depositadas em quaisquer armazéns sob regime aduaneiro.
 
-###### Art. 8.º São inseridos nos textos das pautas de importação vigentes nas províncias de Angola, e de Moçambique os artigos 148-A e 361-A, com a nomenclatura e tributação seguintes:
+Art. 8.º São inseridos nos textos das pautas de importação vigentes nas províncias de Angola, e de Moçambique os artigos 148-A e 361-A, com a nomenclatura e tributação seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/07/16600/17581760.pdf))](https://files.diariodarepublica.pt/1s/1960/07/16600/17581760.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/07/16600/17581760.pdf)
 
-###### Art. 9.º Nos textos das pautas de importação referidas no artigo anterior é inserida a seguinte nota (ver nota b) ao artigo 822 «Discos, rolos ou fitas para gramofones ou instrumentos semelhantes gravados»:
+Art. 9.º Nos textos das pautas de importação referidas no artigo anterior é inserida a seguinte nota (ver nota b) ao artigo 822 «Discos, rolos ou fitas para gramofones ou instrumentos semelhantes gravados»:
 
 (nota b) Quando destinados exclusivamente ao ensino de línguas são cativos apenas das taxas de 1 e 3 por cento ad valorem nas pautas preferencial e mínima, respectivamente.
 
@@ -136,15 +152,15 @@ d) ...
 
 § 2.º Pode o Ministro do Ultramar tornar extensivo, por meio de portaria, a outras províncias ultramarinas, ouvidos os respectivos governos, o disposto no corpo do artigo.
 
-###### Art. 10.º É inserida no texto da pauta de importação vigente na província de Angola a seguinte nota (ver nota a) ao artigo 893, passando a nota (c) ao artigo 896 a ser a nota (ver nota b), a nota (ver nota a) ao artigo 900 a ser a nota (c) e a nota (ver nota b) ao artigo 901 a ser a nota (d):
+Art. 10.º É inserida no texto da pauta de importação vigente na província de Angola a seguinte nota (ver nota a) ao artigo 893, passando a nota (c) ao artigo 896 a ser a nota (ver nota b), a nota (ver nota a) ao artigo 900 a ser a nota (c) e a nota (ver nota b) ao artigo 901 a ser a nota (d):
 
 (nota a) O pó de talco e os sais para banho são cativos ùnicamente das taxas de 5 e 10 por cento ad valorem nas pautas preferencial e mínima, respectivamente.
 
-###### Art. 11.º No texto da pauta de importação em vigor na província de Moçambique é inserida a seguinte nota (ver nota a) ao artigo 618, passando a actual nota (ver nota a) ao artigo 625 a ser a nota (ver nota b):
+Art. 11.º No texto da pauta de importação em vigor na província de Moçambique é inserida a seguinte nota (ver nota a) ao artigo 618, passando a actual nota (ver nota a) ao artigo 625 a ser a nota (ver nota b):
 
 (nota a) As golpelhas e artefactos semelhantes destinados ao transporte de cereais e de outros produtos agrícolas são cativos ùnicamente das taxas de 0,5 e 1 por cento ad valorem nas pautas preferencial e mínima, respectivamente, quando importados pelos agricultores desses produtos, sendo-lhes extensivas, na parte aplicável, as disposições dos artigos 15.º a 20.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921), de 28 de Fevereiro de 1957.
 
-###### Art. 12.º Nos índices remissivos das pautas de importação em vigor nas províncias de Angola e de Moçambique são inseridas as seguintes rubricas e respectivas remissões:
+Art. 12.º Nos índices remissivos das pautas de importação em vigor nas províncias de Angola e de Moçambique são inseridas as seguintes rubricas e respectivas remissões:
 
 Aditivos preparados para óleos minerais pesados ... 148-A
 
@@ -154,7 +170,7 @@ Tela heliográfica ... 361-A
 
 Tela sensibilizada para reprodução de desenhos ... 361-A
 
-###### Art. 13.º Os dizeres dos índices remissivos das pautas de importação referidas no artigo anterior:
+Art. 13.º Os dizeres dos índices remissivos das pautas de importação referidas no artigo anterior:
 
 Ferro ou aço em chapas curvas, onduladas e com furos, zincadas, galvanizadas, pintadas ou não, destinadas a aquedutos de estradas e de caminhos de ferro ou a trabalhos de drenagem ou de irrigação;
 
@@ -170,13 +186,13 @@ Lubrificantes líquidos, constituídos por óleos minerais ou por misturas deste
 
 Óleos minerais lubrificantes líquidos constituídos por óleos minerais ou por misturas destes com outros de natureza diversa, incluindo os que contenham antioxidantes; detergentes, antiespumantes ou outros aditivos que tenham por fim melhorar as suas qualidades lubrificantes.
 
-###### Art. 14.º A nomenclatura do artigo 69 do texto da pauta de exportação em vigor na província de Moçambique é alterada do seguinte modo:
+Art. 14.º A nomenclatura do artigo 69 do texto da pauta de exportação em vigor na província de Moçambique é alterada do seguinte modo:
 
 Sementes e frutos oleaginosos:
 
 - de caju (castanha), com casca.
 
-###### Art. 15.º São inseridas no índice remissivo da pauta de exportação vigente na província de Moçambique as seguintes rubricas e respectivas remissões:
+Art. 15.º São inseridas no índice remissivo da pauta de exportação vigente na província de Moçambique as seguintes rubricas e respectivas remissões:
 
 Amêndoa de castanha de caju ... 225
 
@@ -184,7 +200,7 @@ Caju (Amêndoa de castanha de) ... 225
 
 Castanha de caju, sem casca ... 225
 
-###### Art. 16.º Os dizeres do índice remissivo da pauta de exportação referida no artigo anterior:
+Art. 16.º Os dizeres do índice remissivo da pauta de exportação referida no artigo anterior:
 
 Castanha de caju;
 
@@ -196,17 +212,17 @@ Castanha de caju, com casca;
 
 Sementes e frutos oleaginosos, de caju (castanha), com casca.
 
-###### Art. 17.º É isenta de direitos de exportação e de outras imposições a cobrar no despacho aduaneiro, com excepção do imposto do selo, a amêndoa de castanha de caju classificada pelo artigo 225 da respectiva pauta em vigor na província de Moçambique.
+Art. 17.º É isenta de direitos de exportação e de outras imposições a cobrar no despacho aduaneiro, com excepção do imposto do selo, a amêndoa de castanha de caju classificada pelo artigo 225 da respectiva pauta em vigor na província de Moçambique.
 
 § único. O disposto no corpo do artigo é extensivo aos bilhetes de despacho pendentes de liquidação e pagamento.
 
-###### Art. 18.º O artigo 96 do texto da pauta de importação vigente na província de Timor é alterado do seguinte modo:
+Art. 18.º O artigo 96 do texto da pauta de importação vigente na província de Timor é alterado do seguinte modo:
 
 ... Pauta mínima
 
 96 - Pertences e peças separadas para automóveis, camiões, camionetas, bicicletas e motocicletas ... - Livre
 
-###### Art. 19.º É inserido no texto da pauta de importação em vigor na província de Timor o seguinte artigo:
+Art. 19.º É inserido no texto da pauta de importação em vigor na província de Timor o seguinte artigo:
 
 ... Pauta mínima
 
@@ -214,11 +230,11 @@ Sementes e frutos oleaginosos, de caju (castanha), com casca.
 
 § único. A importação dos artefactos especificados no corpo do artigo é cativa apenas dos respectivos direitos, sendo os das pautas preferencial e máxima estabelecidos de acordo com o disposto na alínea c) do artigo 28.º das instruções preliminares das pautas, aprovadas pelo [Decreto n.º 41026](https://diariodarepublica.pt/dr/detalhe/decreto/41026-1957-654121), de 9 de Março de 1957, e no artigo 4.º e seu § único do mencionado decreto, respectivamente.
 
-###### Art. 20.º É extensivo aos aparelhos radioemissores e receptores a instalar em quaisquer embarcações o regime pautal prescrito na nota (d) ao artigo 480 das pautas de importação vigentes nas províncias de Angola e de Moçambique, alterada pelo artigo 4.º do [Decreto n.º 41187](https://diariodarepublica.pt/dr/detalhe/decreto/41187-1957-279402), de 15 de Julho de 1957.
+Art. 20.º É extensivo aos aparelhos radioemissores e receptores a instalar em quaisquer embarcações o regime pautal prescrito na nota (d) ao artigo 480 das pautas de importação vigentes nas províncias de Angola e de Moçambique, alterada pelo artigo 4.º do [Decreto n.º 41187](https://diariodarepublica.pt/dr/detalhe/decreto/41187-1957-279402), de 15 de Julho de 1957.
 
-###### Art. 21.º Pode o Ministro do Ultramar reduzir por meio de despacho, ouvido o governador da respectiva província, os direitos de importação dos materiais para a instalação de casas e cofres fortes dos bancos emissores, quando se verifique a necessidade de contribuir por essa forma para uma maior segurança dos valores do Estado neles depositados.
+Art. 21.º Pode o Ministro do Ultramar reduzir por meio de despacho, ouvido o governador da respectiva província, os direitos de importação dos materiais para a instalação de casas e cofres fortes dos bancos emissores, quando se verifique a necessidade de contribuir por essa forma para uma maior segurança dos valores do Estado neles depositados.
 
-###### Art. 22.º Os combustíveis sólidos ou líquidos destinados a serem fornecidos à navegação estão sujeitos, na sua entrada para depósito na província de Cabo Verde, apenas ao pagamento da taxa de 9$50 por tonelada ou fracção, além do imposto do selo do bilhete de entrada, a cobrar pelas alfândegas, a qual será escriturada sob a rubrica «Taxa especial de armazenagem de combustíveis destinados à navegação».
+Art. 22.º Os combustíveis sólidos ou líquidos destinados a serem fornecidos à navegação estão sujeitos, na sua entrada para depósito na província de Cabo Verde, apenas ao pagamento da taxa de 9$50 por tonelada ou fracção, além do imposto do selo do bilhete de entrada, a cobrar pelas alfândegas, a qual será escriturada sob a rubrica «Taxa especial de armazenagem de combustíveis destinados à navegação».
 
 § 1.º Na importação para consumo de produtos que hajam sido sujeitos ao pagamento da taxa fixada no corpo do artigo deverá ser deduzida nos respectivos direitos importância igual à que houver sido já cobrada a título de taxa de armazenagem.
 
@@ -228,9 +244,9 @@ Sementes e frutos oleaginosos, de caju (castanha), com casca.
 
 § 4.º A actual rubrica do capítulo 2.º, artigo 10.º, alínea b), do orçamento da receita da província de Cabo Verde «Direitos de importação - Carvão e óleos combustíveis» é substituída pela rubrica «Taxa especial de armazenagem de combustíveis destinados à navegação».
 
-###### Art. 23.º As sinopses dos índices remissivos das pautas de importação em vigor nas províncias de Angola e de Moçambique e a do índice remissivo da pauta de exportação vigente na província de Moçambique deverão ser alteradas de harmonia com o disposto nos artigos 12.º, 13.º, 15.º e 16.º deste decreto.
+Art. 23.º As sinopses dos índices remissivos das pautas de importação em vigor nas províncias de Angola e de Moçambique e a do índice remissivo da pauta de exportação vigente na província de Moçambique deverão ser alteradas de harmonia com o disposto nos artigos 12.º, 13.º, 15.º e 16.º deste decreto.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Julho de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/1/2026/02/03/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2026-1033291314
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-03T00:00:00Z'
+  retrieved_at: '2026-10-22T18:31:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ef0eb195a1d91581ada37b5a5590f78c15d78a15a253693338b2898816ab858
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7fd88eb8be9cec5264c533dda842f419249c0514bf210afe3b438e330ce8e10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:31:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Financiamento
+- Açores
 - Criação de Serviços
-- Prestação de Serviços
 - Estabelecimento Hospitalar
+- Financiamento
+- Plataforma Eletrónica
+- Prestação de Serviços
 - Serviço Regional
 - Serviço Regional de Saúde
-- Açores
-- Plataforma Eletrónica
 relationships:
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:13/2015/A
+  label: Altera, a partir de 4 de fevereiro, os artigos 2.º, 3.º, 5.º, 6.º, 7.º, 9.º, 10.º, 11.º, 12.º, 13.º, revoga a alínea
+    g) do artigo 3.º, as alíneas c) e d) do artigo 6.º, os n.ºs. 2 e 3 do artigo 7.º, o artigo 8.º, o n.º 2 do artigo 9.º,
+    os n.ºs 3,4,5, 6 do artigo 11.º e as alíneas e), f) e g) do n.º 1 do artigo 13.º, e republica em anexo o Decreto Regulamentar
+    Regional n.º 13/2015/A, de 12 de agosto, Diário da República n.º 156/2015, Série I
+  source: null
+  date: '2015-08-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/14/2012/03/29/a/dre
   label: null
@@ -87,16 +95,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/38/2004/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/38/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:480708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69992911:por
+  label: null
+  source: null
 article_structure:
-  article_count: 28
+  article_count: 19
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:31:07Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +157,9 @@ Os artigos 2.º, 3.º, 5.º, 6.º, 7.º, 9.º, 10.º, 11.º, 12.º e 13.º do [D
 
 3 - As prescrições dos produtos de apoio podem resultar de necessidade identificada em consulta nas unidades de saúde referidas no número anterior, bem como de proposta dos serviços das entidades integradas no âmbito da educação, da segurança social, da formação profissional e do emprego.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 [...]
 
@@ -185,13 +207,17 @@ n) ‘Produtos de apoio indispensáveis no âmbito da segurança social’ aquel
 
 o) ‘Produtos de apoio com enquadramento no âmbito da educação’ aqueles cujo fornecimento é indispensável ao acesso e frequência dos sistemas de ensino pré-escolar, básico e, ou, secundário, e que, após prescrição, dependem de verificação da sua necessidade e impacto no contexto escolar das pessoas com deficiência ou incapacidade temporária.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O SAPA-RAA é composto por entidades prescritoras, entidades financiadoras e por uma comissão de acompanhamento e avaliação, doravante designada por CAA.
 
 2 - [...]
 
-###### Artigo 6.º — Entidades prescritoras
+Artigo 6.º
+
+Entidades prescritoras
 
 Para efeitos do disposto no presente diploma, as entidades prescritoras são as seguintes:
 
@@ -203,7 +229,9 @@ c) [Revogada.]
 
 d) [Revogada.]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Qualquer prescrição de produtos de apoio carece de consulta presencial ou teleconsulta.
 
@@ -219,7 +247,9 @@ d) [Revogada.]
 
 7 - Sem prejuízo do disposto no n.º 1, e sempre que aplicável, a prescrição de produtos de apoio em ilhas sem hospital é efetuada de acordo com o Plano Operacional da Telessaúde para o SRS, aprovado por despacho do membro do Governo Regional com competência em matéria de saúde.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -227,7 +257,9 @@ d) [Revogada.]
 
 3 - [...]
 
-###### Artigo 10.º — Aquisição e fornecimento de produtos de apoio
+Artigo 10.º
+
+Aquisição e fornecimento de produtos de apoio
 
 1 - A responsabilidade pela aquisição e entrega ao utente dos produtos de apoio depende da validação e encaminhamento por parte da CAA aos serviços das entidades integradas no âmbito da educação, saúde, segurança social, da formação profissional e do emprego.
 
@@ -245,7 +277,9 @@ a) O produto de apoio exija customização clínica ou técnica que imponha praz
 
 b) Haja rutura de stock do fornecedor em mercado nacional e necessidade de importação.
 
-###### Artigo 11.º — Responsabilidade pelo custo
+Artigo 11.º
+
+Responsabilidade pelo custo
 
 1 - A responsabilidade pelos custos com a prescrição de produtos de apoio é das seguintes entidades:
 
@@ -267,7 +301,9 @@ d) No âmbito da segurança social, o Instituto da Segurança Social dos Açores
 
 6 - [Revogado.]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -275,7 +311,9 @@ d) No âmbito da segurança social, o Instituto da Segurança Social dos Açores
 
 3 - Sem prejuízo do disposto no número anterior, os produtos de apoio sujeitos a reutilização são integrados no Banco Regional de Produtos de Apoio, a implementar por despacho conjunto dos membros do Governo Regional competentes em matéria de saúde, segurança social, educação, emprego e formação profissional.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - O acompanhamento e a avaliação do SAPA-RAA são efetuados pela CAA, constituída por um representante das seguintes áreas profissionais e entidades:
 
@@ -319,7 +357,7 @@ k) Manter atualizada a informação relativa ao número e tipologia de produtos 
 
 ###### Artigo 3.º — Norma revogatória
 
-São revogados a alínea g) do artigo 3.º, as alíneas c) e d) do artigo 6.º, os n.<sup>os</sup>2 e 3 do artigo 7.º, o artigo 8.º, o n.º 2 do artigo 9.º, os n.<sup>os</sup>3 a 6 do artigo 11.º e as alíneas e) a g) do n.º 1 do artigo 13.º do [Decreto Regulamentar Regional n.º 13/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2015-69992911), de 12 de agosto.
+São revogados a alínea g) do artigo 3.º, as alíneas c) e d) do artigo 6.º, os n.os2 e 3 do artigo 7.º, o artigo 8.º, o n.º 2 do artigo 9.º, os n.os3 a 6 do artigo 11.º e as alíneas e) a g) do n.º 1 do artigo 13.º do [Decreto Regulamentar Regional n.º 13/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2015-69992911), de 12 de agosto.
 
 ###### Artigo 4.º — Republicação
 
@@ -331,11 +369,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 6 de janeiro de 2026.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 26 de janeiro de 2026.**
+Assinado em Angra do Heroísmo em 26 de janeiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -562,3 +600,5 @@ k) Manter atualizada a informação relativa ao número e tipologia de produtos 
 ###### Artigo 14.º — Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+119947449

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/79-a/2026/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2026-1075294793
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-19T00:00:00Z'
+  retrieved_at: '2026-10-22T18:36:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3186d80182fcc69ea428f29f2117752884aaa7aab2065df4c489c0489446a8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7f2e31b59dbbc619a6f817ad4605953e1ea92dbd0dcca035771999aff408959
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:36:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Compensação Financeira
-- Catástrofe
-- Regime de Apoio
-- Temporal
 - Autarquia Local
+- Catástrofe
+- Compensação Financeira
 - Prejuízo Financeiro
+- Regime de Apoio
 - Situação de Calamidade
 - Tempestade Kristin
+- Temporal
 relationships:
 - type: amended_by
   target: pt:dre:1134398998:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:40-A/2026
+  label: Altera, a partir de 21 de março de 2026, os artigos 11.º, 12.º e 17.º e adita os artigos 12.º-A, 28.º-A, 28.º-B,
+    28.º-C, 28.º-D, 28.º-E, 28.º-F, 28.º-G e 28.º-H ao Decreto-Lei n.º 40-A/2026, de 13 de fevereiro, Diário da República
+    n.º 31/2026, Suplemento, Série I
+  source: null
+  date: '2026-02-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/151-a/2000/07/20/p/dre
   label: null
@@ -107,16 +114,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/17-b/2026/02/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/17-b/2026/02/03/p/dre
+- type: cites
+  target: pt:dre:1034985574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1034987175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1039107604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1039107607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1050874165:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1060523854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514399:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:36:16Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +170,7 @@ As várias entidades no terreno promoveram, desde a primeira hora, um levantamen
 
 Entende-se por imperativo de justiça e no contexto de um esforço de recuperação da totalidade do País ser devido a extensão dos regimes de apoio e de simplificação administrativa que ultrapasse os estritos termos dos concelhos abrangidos pela declaração da situação de calamidade.
 
-Neste sentido, o presente decreto-lei altera o [Decreto-Lei n.º 40-A/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-a-2026-1050874165), de 13 de fevereiro, ampliando o âmbito de aplicação das medidas de simplificação e apoios de resposta à calamidade, aprovados pelos Decretos-Leis n.<sup>os</sup>[31-B/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-b-2026-1039107604), de 5 de fevereiro, e [31-C/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-c-2026-1039107607), de 5 de fevereiro, pelas Resoluções do Conselho de Ministros n.<sup>os</sup>[17-A/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-a-2026-1034985574), de 3 de fevereiro, e [17-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-b-2026-1034987175), de 3 de fevereiro, aos concelhos identificados pelas Comissões de Coordenação e Desenvolvimento Regional territorialmente competentes e pela Autoridade Nacional de Emergência e Proteção Civil, através do [Despacho n.º 2389-A/2026](https://diariodarepublica.pt/dr/detalhe/despacho/2389-a-2026-1060523854), publicado no Diário da República, 2.ª série, n.º 38, de 24 de fevereiro, e fixa critérios para aplicação a todo o território nacional onde se tenham verificado danos especiais e anómalos, ocorridos entre 28 de janeiro de 2026 e 15 de fevereiro de 2026, decorrentes do período de precipitação excecional e fenómenos relacionados.
+Neste sentido, o presente decreto-lei altera o [Decreto-Lei n.º 40-A/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-a-2026-1050874165), de 13 de fevereiro, ampliando o âmbito de aplicação das medidas de simplificação e apoios de resposta à calamidade, aprovados pelos Decretos-Leis n.os[31-B/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-b-2026-1039107604), de 5 de fevereiro, e [31-C/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-c-2026-1039107607), de 5 de fevereiro, pelas Resoluções do Conselho de Ministros n.os[17-A/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-a-2026-1034985574), de 3 de fevereiro, e [17-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-b-2026-1034987175), de 3 de fevereiro, aos concelhos identificados pelas Comissões de Coordenação e Desenvolvimento Regional territorialmente competentes e pela Autoridade Nacional de Emergência e Proteção Civil, através do [Despacho n.º 2389-A/2026](https://diariodarepublica.pt/dr/detalhe/despacho/2389-a-2026-1060523854), publicado no Diário da República, 2.ª série, n.º 38, de 24 de fevereiro, e fixa critérios para aplicação a todo o território nacional onde se tenham verificado danos especiais e anómalos, ocorridos entre 28 de janeiro de 2026 e 15 de fevereiro de 2026, decorrentes do período de precipitação excecional e fenómenos relacionados.
 
 Adicionalmente, suspendem-se todos os prazos para a prática de atos, no âmbito de procedimentos contributivos, de modo a salvaguardar o acesso às medidas excecionais e temporárias estabelecidas em resposta à declaração de situação de calamidade no período fixado para o requerimento das mesmas.
 
@@ -167,7 +206,9 @@ e) O pagamento da taxa de gestão de resíduos, prevista no artigo 111.º do RGG
 
 3 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Os prestadores de serviços públicos essenciais, incluindo prestadores de serviços de comunicações eletrónicas, ficam impedidos, até 30 de abril de 2026, de interromper, suspender ou limitar o serviço a utentes residentes ou estabelecidos nos concelhos abrangidos pela declaração de calamidade, em razão do não pagamento de faturas, aplicando o disposto no n.º 4.
 
@@ -177,7 +218,9 @@ e) O pagamento da taxa de gestão de resíduos, prevista no artigo 111.º do RGG
 
 4 - No caso de existirem valores em dívida, as empresas promovem a celebração de um acordo de pagamento adequado aos rendimentos do utilizador final, não podendo proceder à cobrança de juros de mora em razão do atraso no pagamento desses valores.
 
-###### Artigo 17.º — Procedimentos administrativos, tributários e contributivos
+Artigo 17.º
+
+Procedimentos administrativos, tributários e contributivos
 
 1 - [...]
 
@@ -203,23 +246,31 @@ b) É dispensada a obrigação de licenciamento temporário de estação ou de r
 
 2 - Nos casos previstos na alínea b) do número anterior as empresas que oferecem redes de comunicações públicas ou serviços de comunicações eletrónicas acessíveis ao público devem solicitar previamente à Autoridade Nacional de Comunicações a coordenação do espetro de radiofrequências a utilizar através do endereço eletrónico, devendo aquela autoridade responder até ao terceiro dia útil seguinte.
 
-###### Artigo 28.º-A — Âmbito de aplicação alargado
+Artigo 28.º-A
 
-O presente decreto-lei, os Decretos-Leis n.<sup>os</sup>[31-B/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-b-2026-1039107604), de 5 de fevereiro, e [31-C/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-c-2026-1039107607), de 5 de fevereiro, e as Resoluções do Conselho de Ministros n.<sup>os</sup>[17-A/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-a-2026-1034985574) e [17-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-b-2026-1034987175), ambas de 3 de fevereiro, aplicam-se, com as devidas adaptações:
+Âmbito de aplicação alargado
+
+O presente decreto-lei, os Decretos-Leis n.os[31-B/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-b-2026-1039107604), de 5 de fevereiro, e [31-C/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-c-2026-1039107607), de 5 de fevereiro, e as Resoluções do Conselho de Ministros n.os[17-A/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-a-2026-1034985574) e [17-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-b-2026-1034987175), ambas de 3 de fevereiro, aplicam-se, com as devidas adaptações:
 
 a) A todo o território nacional, desde que cumpridos os requisitos previstos nos artigos seguintes;
 
 b) Aos concelhos identificados no [Despacho n.º 2389-A/2026](https://diariodarepublica.pt/dr/detalhe/despacho/2389-a-2026-1060523854), publicado no Diário da República, 2.ª série, n.º 38, de 24 de fevereiro, independentemente do cumprimento de requisitos adicionais.
 
-###### Artigo 28.º-B — Requisitos de alargamento
+Artigo 28.º-B
+
+Requisitos de alargamento
 
 A extensão do âmbito de aplicação prevista na alínea a) do artigo anterior depende da verificação de danos especiais e anormais causados, de modo manifesto, pelos eventos meteorológicos e fenómenos relacionados ocorridos no período entre o dia 28 de janeiro de 2026 e 15 de fevereiro de 2026.
 
-###### Artigo 28.º-C — Danos especiais e anormais
+Artigo 28.º-C
+
+Danos especiais e anormais
 
 Para os efeitos do disposto no artigo anterior, consideram-se especiais os danos ou encargos que incidam sobre uma pessoa ou um grupo, sem afetarem a generalidade das pessoas que residam num determinado concelho, e anormais os que, ultrapassando os custos próprios associados à regular manutenção e desgaste das infraestruturas e equipamento e às circunstâncias meteorológicas típicas do período de inverno, assumam gravidade e excecionalidade associada aos eventos meteorológicos severos que determinaram a declaração de calamidade.
 
-###### Artigo 28.º-D — Extensão do regime de apoios financeiros
+Artigo 28.º-D
+
+Extensão do regime de apoios financeiros
 
 1 - Para efeitos de aplicação da [Resolução do Conselho de Ministros n.º 17-A/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-a-2026-1034985574), de 3 de fevereiro, os beneficiários, abrangidos pela alínea a) do artigo 28.º-A, e que preencham os requisitos previstos nos artigos anteriores, apresentam candidatura junto da CCDR territorialmente competente.
 
@@ -231,7 +282,9 @@ Para os efeitos do disposto no artigo anterior, consideram-se especiais os danos
 
 5 - Para efeitos do presente artigo, sempre que o município atue na qualidade de beneficiário a candidatura é apreciada e decidida pela CCDR territorialmente competente sem o parecer referido no n.º 2.
 
-###### Artigo 28.º-E — Extensão do regime de simplificação administrativa
+Artigo 28.º-E
+
+Extensão do regime de simplificação administrativa
 
 1 - Nas parcelas do território nacional não abrangidas pela declaração de calamidade ou pelo [Despacho n.º 2389-A/2026](https://diariodarepublica.pt/dr/detalhe/despacho/2389-a-2026-1060523854), publicado no Diário da República, 2.ª série, n.º 38, de 24 de fevereiro, o recurso excecional aos instrumentos de simplificação administrativa contemplados no presente decreto-lei depende do preenchimento dos requisitos previstos nos artigos 28.º-B e 28.º-C, atestado por fundamentação expressa da entidade administrativa autora da decisão e comunicado, no prazo de cinco dias, à CCDR territorialmente competente.
 
@@ -239,7 +292,9 @@ Para os efeitos do disposto no artigo anterior, consideram-se especiais os danos
 
 3 - A falta de comunicação à CCDR territorialmente competente, ou a sua insuficiência, determina a ineficácia jurídica do ato, contrato ou regulamento administrativo.
 
-###### Artigo 28.º-F — Extensão do regime de simplificação administrativa por iniciativa do particular
+Artigo 28.º-F
+
+Extensão do regime de simplificação administrativa por iniciativa do particular
 
 1 - Quando a aplicação do regime previsto no presente decreto-lei não dependa de iniciativa oficiosa ou de decisão da entidade administrativa, os particulares requerem à CCDR territorialmente competente que ateste o preenchimento dos critérios previstos nos artigos 28.º-B e 28.º-C.
 
@@ -249,13 +304,17 @@ Para os efeitos do disposto no artigo anterior, consideram-se especiais os danos
 
 4 - A decisão e a respetiva fundamentação são publicadas na Internet, no sítio institucional da CCDR territorialmente competente.
 
-###### Artigo 28.º-G — Extensão de outros regimes
+Artigo 28.º-G
 
-1 - A extensão de aplicação dos regimes previstos na [Resolução do Conselho de Ministros n.º 17-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-b-2026-1034987175), de 3 de fevereiro, nos Decretos-Leis n.<sup>os</sup>[31-B/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-b-2026-1039107604), de 5 de fevereiro, e [31-C/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-c-2026-1039107607), de 5 de fevereiro, depende da emissão de parecer prévio obrigatório da câmara municipal do local onde se verificaram os danos, que instrui o procedimento de decisão de atribuição dos respetivos apoios.
+Extensão de outros regimes
+
+1 - A extensão de aplicação dos regimes previstos na [Resolução do Conselho de Ministros n.º 17-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-b-2026-1034987175), de 3 de fevereiro, nos Decretos-Leis n.os[31-B/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-b-2026-1039107604), de 5 de fevereiro, e [31-C/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-c-2026-1039107607), de 5 de fevereiro, depende da emissão de parecer prévio obrigatório da câmara municipal do local onde se verificaram os danos, que instrui o procedimento de decisão de atribuição dos respetivos apoios.
 
 2 - A entidade competente para a decisão de atribuição do apoio não pode decidir sem o parecer referido no número anterior.
 
-###### Artigo 28.º-H — Parecer prévio obrigatório da câmara municipal
+Artigo 28.º-H
+
+Parecer prévio obrigatório da câmara municipal
 
 1 - O parecer da câmara municipal é emitido com a intervenção dos serviços municipais de proteção civil, no prazo máximo de 30 dias, promovidas as vistorias, solicitados os elementos adicionais ou quaisquer outras diligências probatórias necessárias.
 
@@ -267,12 +326,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de fevereiro de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro - Manuel Castro Almeida - Gonçalo Nuno da Cruz Saraiva Matias - Miguel Martinez de Castro Pinto Luz - Rita Alarcão Júdice - Rosário Palma Ramalho - Maria da Graça Carvalho - José Manuel Fernandes.
 
-**Promulgado em 19 de março de 2026.**
+Promulgado em 19 de março de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 20 de março de 2026.**
+Referendado em 20 de março de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119948077

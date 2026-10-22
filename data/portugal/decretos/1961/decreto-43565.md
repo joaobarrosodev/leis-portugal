@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43565-1961-559427
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-03-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:22:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 887ef114ed377f24044a3ed22c76d11f568f8bcfbf413bfe43954d8cc56fc9c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc493430d038d0af73cd6ad2b814784d14d8fc15781e66b1aa8525b6ef1d50bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:22:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Angola.Colónia Portuguesa
+- Moçambique.Colónia Portuguesa
+- Quadro de Pessoal
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:398776:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514185:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:398776:por
+  label: "Revogado, relativamente à província de Angola, pelo DEC LEI.76/72.07.03.1972.MU, DG.IS [56] de 07.03.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-1972-398776
+  date: '1972-03-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:22:51Z'
   warnings: []
   errors: []
 ---
@@ -99,13 +128,13 @@ Disposições especiais
 
 A) Guiné
 
-###### Artigo 1.º Ao médico tisiologista dos serviços de saúde e higiene é fixada uma gratificação mensal de 1800$00.
+Artigo 1.º Ao médico tisiologista dos serviços de saúde e higiene é fixada uma gratificação mensal de 1800$00.
 
-###### Art. 2.º Pelas deslocações durante a campanha anti-tuberculosa, e só nos períodos em que esta se realizar, ao médico referido no artigo anterior é atribuído um subsídio diário de 100$00
+Art. 2.º Pelas deslocações durante a campanha anti-tuberculosa, e só nos períodos em que esta se realizar, ao médico referido no artigo anterior é atribuído um subsídio diário de 100$00
 
 B) Angola
 
-###### Art. 3.º Nos serviços de Fazenda e contabilidade são criados os seguintes lugares:
+Art. 3.º Nos serviços de Fazenda e contabilidade são criados os seguintes lugares:
 
 1) Pessoal de nomeação:
 
@@ -119,9 +148,9 @@ B) Angola
 
 1 de servente de 3.ª classe.
 
-###### Art. 4.º Ao quadro do pessoal assalariado do Serviço Meteorológico são aumentados dezassete lugares de servente de 2.ª classe.
+Art. 4.º Ao quadro do pessoal assalariado do Serviço Meteorológico são aumentados dezassete lugares de servente de 2.ª classe.
 
-###### Art. 5.º Nos quadros do pessoal da aeronáutica civil são introduzidas as seguintes alterações:
+Art. 5.º Nos quadros do pessoal da aeronáutica civil são introduzidas as seguintes alterações:
 
 A) Criação de lugares:
 
@@ -139,7 +168,7 @@ B) Eliminação de lugares:
 
 c) Moçambique
 
-###### Art. 6.º Nos serviços de saúde e higiene são introduzidas as seguintes alterações:
+Art. 6.º Nos serviços de saúde e higiene são introduzidas as seguintes alterações:
 
 1) Pessoal de nomeação:
 
@@ -153,11 +182,11 @@ b) Eliminação de lugares:
 
 1 de estatista.
 
-###### Art. 7.º O § único do artigo 6.º do [Decreto n.º 43041](https://diariodarepublica.pt/dr/detalhe/decreto/43041-1960-502425), de 1 de Julho de 1960, passa a ter a seguinte redacção:
+Art. 7.º O § único do artigo 6.º do [Decreto n.º 43041](https://diariodarepublica.pt/dr/detalhe/decreto/43041-1960-502425), de 1 de Julho de 1960, passa a ter a seguinte redacção:
 
 Aos condutores de automóveis, intérpretes, guardas-nocturnos, serventes e a todo o pessoal assalariado em serviço nas curadorias dos indígenas portugueses na União da África do Sul e na Rodésia do Sul, além do salário próprio que lhes estiver fixado, será abonada uma gratificação mensal de 750$00.
 
-###### Art. 8.º Ao quadro do pessoal de nomeação do Corpo de Polícia de Segurança Pública são aumentados os seguintes lugares:
+Art. 8.º Ao quadro do pessoal de nomeação do Corpo de Polícia de Segurança Pública são aumentados os seguintes lugares:
 
 6 de subchefe de esquadra.
 
@@ -165,13 +194,13 @@ Aos condutores de automóveis, intérpretes, guardas-nocturnos, serventes e a to
 
 § único. Os encargos resultantes do aumento de lugares referido neste artigo correm por conta do orçamento privativo dos serviços dos portos, caminhos de ferro e transportes.
 
-###### Art. 9.º O chefe da 4.ª Repartição dos Serviços de Fazenda e Contabilidade da província de Moçambique será escolhido pelo Ministro do Ultramar de entre os licenciados em Ciências Económicas e Financeiras com a classificação final de Bom ou superior e directores de Fazenda de 3.ª classe do quadro comum de Fazenda do ultramar.
+Art. 9.º O chefe da 4.ª Repartição dos Serviços de Fazenda e Contabilidade da província de Moçambique será escolhido pelo Ministro do Ultramar de entre os licenciados em Ciências Económicas e Financeiras com a classificação final de Bom ou superior e directores de Fazenda de 3.ª classe do quadro comum de Fazenda do ultramar.
 
 § único. Quando a escolha recair num director de Fazenda, considerar-se-á aumentado de uma unidade o número de directores de 3.ª classe do quadro comum de Fazenda do ultramar.
 
-###### Art. 10.º O artigo 38.º do [Decreto n.º 43340](https://diariodarepublica.pt/dr/detalhe/decreto/43340-1960-514185), de 21 de Novembro de 1960, passa a ter a seguinte redacção:
+Art. 10.º O artigo 38.º do [Decreto n.º 43340](https://diariodarepublica.pt/dr/detalhe/decreto/43340-1960-514185), de 21 de Novembro de 1960, passa a ter a seguinte redacção:
 
-###### Art. 38.º Nos serviços de obras públicas e transportes são criados os seguintes lugares:
+Art. 38.º Nos serviços de obras públicas e transportes são criados os seguintes lugares:
 
 1) Pessoal de nomeação:
 
@@ -181,7 +210,7 @@ Aos condutores de automóveis, intérpretes, guardas-nocturnos, serventes e a to
 
 2 de capataz principal.
 
-###### Art. 11.º Ao quadro do pessoal assalariado dos serviços de obras públicas e transportes são aumentados os seguintes lugares:
+Art. 11.º Ao quadro do pessoal assalariado dos serviços de obras públicas e transportes são aumentados os seguintes lugares:
 
 2 de capataz geral.
 
@@ -209,13 +238,13 @@ Aos condutores de automóveis, intérpretes, guardas-nocturnos, serventes e a to
 
 10 de motorista auxiliar.
 
-###### Art. 12.º Nos serviços de marinha são criados catorze lugares de guarda para a Capitania do Porto de Lourenço Marques, que se consideram incluídos no grupo T do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
+Art. 12.º Nos serviços de marinha são criados catorze lugares de guarda para a Capitania do Porto de Lourenço Marques, que se consideram incluídos no grupo T do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
 
 § único. O provimento dos lugares referidos no corpo do artigo obedecerá às condições que o governador-geral regulamentar.
 
-###### Art. 13.º Considera-se incluído no grupo D de mapa III anexo ao [Decreto n.º 41612](https://diariodarepublica.pt/dr/detalhe/decreto/41612-1958-302905), de 9 de Maio de 1958, o lugar de inspector bancário do Conselho de Câmbios de Moçambique.
+Art. 13.º Considera-se incluído no grupo D de mapa III anexo ao [Decreto n.º 41612](https://diariodarepublica.pt/dr/detalhe/decreto/41612-1958-302905), de 9 de Maio de 1958, o lugar de inspector bancário do Conselho de Câmbios de Moçambique.
 
-###### Art. 14.º As delegações do serviço autónomo do Conselho de Câmbios da província de Moçambique passam a ser denominadas delegações de 1.ª, 2.ª, 3.ª e 4.ª classes e têm a seguinte distribuição:
+Art. 14.º As delegações do serviço autónomo do Conselho de Câmbios da província de Moçambique passam a ser denominadas delegações de 1.ª, 2.ª, 3.ª e 4.ª classes e têm a seguinte distribuição:
 
 1 delegação de 1.ª classe, na Beira.
 
@@ -225,7 +254,7 @@ Aos condutores de automóveis, intérpretes, guardas-nocturnos, serventes e a to
 
 6 delegações de 4.ª classe, em Vila João Belo, Vila Pery, Tete, Chinde, Mocuba e António Enes.
 
-###### Art. 15.º Ao quadro do pessoal contratado do organismo a que se refere o artigo anterior são aumentadas as seguintes unidades:
+Art. 15.º Ao quadro do pessoal contratado do organismo a que se refere o artigo anterior são aumentadas as seguintes unidades:
 
 1 de chefe de delegação de 2.ª classe.
 
@@ -235,13 +264,13 @@ Aos condutores de automóveis, intérpretes, guardas-nocturnos, serventes e a to
 
 § único. Os lugares criados consideram-se incluídos no mapa III anexo ao [Decreto n.º 41612](https://diariodarepublica.pt/dr/detalhe/decreto/41612-1958-302905), de 9 de Maio de 1958, de conformidade com o disposto no artigo 35.º do mesmo diploma.
 
-###### Art. 16.º O encargo resultante da execução dos artigos 14.º e 15.º deste diploma é suportado pelo orçamento privativo do Conselho de Câmbios de Moçambique.
+Art. 16.º O encargo resultante da execução dos artigos 14.º e 15.º deste diploma é suportado pelo orçamento privativo do Conselho de Câmbios de Moçambique.
 
-###### Art. 17.º É autorizado o Governo-Geral da província de Moçambique a prestar, junto de um organismo de crédito da mesma província, a garantia do reembolso do empréstimo de 3000 contos a contrair pela Congregação das Irmãs Hospitaleiras do Sagrado Coração de Jesus, com as cláusulas e condições que forem ajustadas entre si, e destinado à construção e equipamento de um hospital para alienados do sexo feminino.
+Art. 17.º É autorizado o Governo-Geral da província de Moçambique a prestar, junto de um organismo de crédito da mesma província, a garantia do reembolso do empréstimo de 3000 contos a contrair pela Congregação das Irmãs Hospitaleiras do Sagrado Coração de Jesus, com as cláusulas e condições que forem ajustadas entre si, e destinado à construção e equipamento de um hospital para alienados do sexo feminino.
 
 D) Timor
 
-###### Art. 18.º Durante as obras de electrificação da cidade de Díli, e enquanto não forem organizados os serviços técnicos competentes para proceder à sua exploração, fica autorizado o Governo da província de Timor a nomear, em regime de acumulação, os funcionários abaixo designados para procederem à fiscalização das referidas obras, com direito às seguintes gratificações mensais:
+Art. 18.º Durante as obras de electrificação da cidade de Díli, e enquanto não forem organizados os serviços técnicos competentes para proceder à sua exploração, fica autorizado o Governo da província de Timor a nomear, em regime de acumulação, os funcionários abaixo designados para procederem à fiscalização das referidas obras, com direito às seguintes gratificações mensais:
 
 1 engenheiro electrotécnico ... 4000$00
 
@@ -255,13 +284,13 @@ II
 
 Disposições gerais e transitórias
 
-###### Art. 19.º É revogado o [Decreto n.º 38121](https://diariodarepublica.pt/dr/detalhe/decreto/38121-1950-489183), de 29 de Dezembro de 1950.
+Art. 19.º É revogado o [Decreto n.º 38121](https://diariodarepublica.pt/dr/detalhe/decreto/38121-1950-489183), de 29 de Dezembro de 1950.
 
-###### Art. 20.º De harmonia com o artigo 17.º e seu § único do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, os vencimentos do pessoal contratado e os salários do pessoal assalariado cujos lugares hajam sido criados por este decreto e não estejam ou fossem mandados incluir no mapa I anexo àquele diploma serão fixados pelos órgãos legislativos das respectivas províncias.
+Art. 20.º De harmonia com o artigo 17.º e seu § único do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, os vencimentos do pessoal contratado e os salários do pessoal assalariado cujos lugares hajam sido criados por este decreto e não estejam ou fossem mandados incluir no mapa I anexo àquele diploma serão fixados pelos órgãos legislativos das respectivas províncias.
 
-###### Art. 21.º Ficam os Governos das províncias ultramarinas autorizados a abrir os créditos especiais necessários com contrapartida em recursos orçamentais.
+Art. 21.º Ficam os Governos das províncias ultramarinas autorizados a abrir os créditos especiais necessários com contrapartida em recursos orçamentais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Março de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

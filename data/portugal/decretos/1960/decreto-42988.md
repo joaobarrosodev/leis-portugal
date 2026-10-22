@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/42988-1960-504488
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-05-25T00:00:00Z'
+  retrieved_at: '2026-10-22T19:18:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 274869995839c8c11c3f34ba067bd4ba282deca8107e500bd7e2751e624e7c4d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b69316f0d14ddfc8a44d21ade3955460bbe74f5a1aa6911c05511e3775db1f7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:18:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:18:11Z'
   warnings: []
   errors: []
 ---
@@ -93,8 +93,8 @@ Nos termos do artigo 12.º do Código Administrativo:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. O ponto conhecido por «Cabeço da Bela», comum aos limites das freguesias de Argela e Orbacém, do concelho de Caminha, é o ponto da cota 435 representado na fl. 14 da carta militar, na escala de 1:25000, e nesta designado por «Cabeço da Vela».
+Artigo único. O ponto conhecido por «Cabeço da Bela», comum aos limites das freguesias de Argela e Orbacém, do concelho de Caminha, é o ponto da cota 435 representado na fl. 14 da carta militar, na escala de 1:25000, e nesta designado por «Cabeço da Vela».
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Maio de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Arnaldo Schulz.

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/42798-1960-627252
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-01-04T00:00:00Z'
+  retrieved_at: '2026-10-22T19:17:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06aa25a704d6fabb78451c10468d3b22122027f54367f4895c6f949950c4f898
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8aa8e4f9293128d27b47468747d871ec33bbd2f9199fde26b5616447495a365e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:17:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:17:01Z'
   warnings: []
   errors: []
 ---
@@ -92,10 +92,10 @@ Desejando o Governo Português corresponder ao apelo que lhe foi feito;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É criada uma comissão nacional destinada a promover, organizar, coordenar e orientar superiormente a cooperação de Portugal no Ano Mundial do Refugiado, instituído pela Organização das Nações Unidas.
+Artigo 1.º É criada uma comissão nacional destinada a promover, organizar, coordenar e orientar superiormente a cooperação de Portugal no Ano Mundial do Refugiado, instituído pela Organização das Nações Unidas.
 
-###### Art. 2.º A comissão será presidida pelo representante do Ministro dos Negócios Estrangeiros, dela fazendo o parte os representantes dos Ministros do Interior, do Ultramar e da Saúde e Assistência, bem como os representantes da Caritas Portuguesa, da Cruz Vermelha Portuguesa e da Fundação Calouste Gulbenkian.
+Art. 2.º A comissão será presidida pelo representante do Ministro dos Negócios Estrangeiros, dela fazendo o parte os representantes dos Ministros do Interior, do Ultramar e da Saúde e Assistência, bem como os representantes da Caritas Portuguesa, da Cruz Vermelha Portuguesa e da Fundação Calouste Gulbenkian.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Janeiro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Arnaldo Schulz - Marcello Gonçalves Nunes Duarte Mathias - Vasco Lopes Alves - Henrique de Miranda Vasconcelos Martins de Carvalho.

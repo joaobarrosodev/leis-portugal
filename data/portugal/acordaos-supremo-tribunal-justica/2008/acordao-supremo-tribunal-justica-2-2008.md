@@ -53,18 +53,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/2/2008/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/2-2008-246534
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T17:52:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99085fdb37cefe0516fccab3489599dad6057f7ff1a1f5153cece0398a49052f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90ba88a86b51c15925600a947b7b0d8fe9354913a37ebee520b0d95b7936fbaa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:52:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -102,16 +102,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5/2002/01/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/2002/01/11/p/dre
+- type: cites
+  target: pt:dre:210422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694244:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:52:29Z'
   warnings: []
   errors: []
 ---
@@ -260,7 +284,9 @@ Dever de segredo
 
 3 - O dever de segredo não cessa com o termo das funções ou serviços.
 
-###### Artigo 79.º — Excepções ao dever de segredo
+Artigo 79.º
+
+Excepções ao dever de segredo
 
 1 - Os factos ou elementos das relações do cliente com a instituição podem ser relevados mediante autorização do cliente, transmitida à instituição.
 
@@ -276,7 +302,9 @@ d) Nos termos previstos na lei penal e de processo penal;
 
 e) Quando exista outra disposição legal que expressamente limite o dever de segredo.
 
-###### Artigo 84.º — Violação do dever de segredo
+Artigo 84.º
+
+Violação do dever de segredo
 
 Sem prejuízo de outras sanções aplicáveis, a violação do dever de segredo é punível nos termos do Código Penal.»
 

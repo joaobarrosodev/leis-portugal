@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44549-1962-165404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-08-30T00:00:00Z'
+  retrieved_at: '2026-10-22T19:31:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23ca4e5955caadac97f2e09662ea38002c10fc14a791fc8f3898638c2c0218b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ff35c8dc06fee75b58ebe84ea76dad111a8e29a0114e1d79cb70076e9f79042
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:31:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:163242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514841:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:31:01Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +102,9 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 Regulamento do Fundo de Desenvolvimento da Mão-de-Obra
 
-###### Artigo 1.º Constituem encargos do Fundo de Desenvolvimento da Mão-de-Obra, instituído na Direcção-Geral do Trabalho e Corporações pelo [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242), de 10 de Agosto de 1962, as despesas de natureza específica correspondentes às funções que lhe são atribuídas, bem como as de pessoal, material e outras indispensáveis ao normal funcionamento dos serviços e impostas por uma regular administração do mesmo Fundo.
+Artigo 1.º Constituem encargos do Fundo de Desenvolvimento da Mão-de-Obra, instituído na Direcção-Geral do Trabalho e Corporações pelo [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242), de 10 de Agosto de 1962, as despesas de natureza específica correspondentes às funções que lhe são atribuídas, bem como as de pessoal, material e outras indispensáveis ao normal funcionamento dos serviços e impostas por uma regular administração do mesmo Fundo.
 
-###### Art. 2.º O Fundo de Desenvolvimento da Mão-de-Obra tem as seguintes receitas:
+Art. 2.º O Fundo de Desenvolvimento da Mão-de-Obra tem as seguintes receitas:
 
 a) As contribuições das empresas que resultarem dos processos de reorganização industrial ou que encerrarem transferirem o local de trabalho ou reduzirem os seus quadros nas condições que vierem a ser fixadas em despacho conjunto dos Ministros da Economia e das Corporações e Previdência Social;
 
@@ -108,7 +120,7 @@ f) Quaisquer outras receitas previstas ou a prever em diplomas legais;
 
 g) Os rendimentos, donativos, subsídios ou auxílios não proibidos por lei.
 
-###### Art. 3.º Os valores indicados no artigo anterior serão depositados pelas entidades responsáveis na Caixa Geral de Depósitos, Crédito e Previdência, suas filiais, agências ou delegações, à ordem do Fundo de Desenvolvimento da Mão-de-Obra, nos seguintes termos:
+Art. 3.º Os valores indicados no artigo anterior serão depositados pelas entidades responsáveis na Caixa Geral de Depósitos, Crédito e Previdência, suas filiais, agências ou delegações, à ordem do Fundo de Desenvolvimento da Mão-de-Obra, nos seguintes termos:
 
 1. Os provenientes das contribuições previstas na alínea a), mediante guias em triplicado, do modelo A anexo a este decreto, até o dia 15 do mês a que respeitarem essas contribuições, se prazo diferente não vier a ser estabelecido no despacho que as fixar.
 
@@ -128,48 +140,48 @@ b) Nos restantes casos, o triplicado.
 
 § 3.º Um dos exemplares retido pela Caixa Geral de Depósitos, Crédito e Previdência será enviado por esta, depois de carimbado, à Direcção-Geral do Trabalho e Corporações - Fundo de Desenvolvimento da Mão-de-Obra, para efeito de contabilização e mais fins convenientes.
 
-###### Art. 4.º Os depósitos previstos no artigo anterior serão sempre arredondados para escudos, em excesso, qualquer que seja o seu quantitativo, podendo, quando realizado na sede da Caixa Geral de Depósitos, Crédito e Previdência e na sua filial do Porto, ter lugar em cheques à sua ordem sobre a própria praça.
+Art. 4.º Os depósitos previstos no artigo anterior serão sempre arredondados para escudos, em excesso, qualquer que seja o seu quantitativo, podendo, quando realizado na sede da Caixa Geral de Depósitos, Crédito e Previdência e na sua filial do Porto, ter lugar em cheques à sua ordem sobre a própria praça.
 
 § único. Os cheques a que se refere este artigo serão recebidos como dinheiro, e os que vierem a ser reconhecidos incobráveis serão debitados, sem necessidade de protesto, na conta do Fundo de Desenvolvimento da Mão-de-Obra e enviado ao mesmo Fundo para efeito de procedimento contra os responsáveis.
 
-###### Art. 5.º Dentro do prazo estabelecido para o depósito de contribuições previsto no n.º 1 do artigo 3.º deste decreto, as entidades por ele responsáveis enviarão à Direcção-Geral do Trabalho e Corporações - Fundo de Desenvolvimento da Mão-de-Obra, nos termos em que vierem a ser determinados, elementos elucidativos acerca do depósito efectuado.
+Art. 5.º Dentro do prazo estabelecido para o depósito de contribuições previsto no n.º 1 do artigo 3.º deste decreto, as entidades por ele responsáveis enviarão à Direcção-Geral do Trabalho e Corporações - Fundo de Desenvolvimento da Mão-de-Obra, nos termos em que vierem a ser determinados, elementos elucidativos acerca do depósito efectuado.
 
-###### Art. 6.º São isentas do imposto do selo as guias de depósito de importâncias destinadas ao Fundo de Desenvolvimento da Mão-de-Obra.
+Art. 6.º São isentas do imposto do selo as guias de depósito de importâncias destinadas ao Fundo de Desenvolvimento da Mão-de-Obra.
 
-###### Art. 7.º A administração do Fundo de Desenvolvimento da Mão-de-Obra incumbe a um conselho administrativa de três membros, formado por representantes de cada uma das direcções-gerais do Ministério das Corporações e Previdência Social e do Comissariado do Desemprego, a designar pelos respectivos Ministérios, cabendo a presidência ao representante da Direcção-Geral do Trabalho e Corporações.
+Art. 7.º A administração do Fundo de Desenvolvimento da Mão-de-Obra incumbe a um conselho administrativa de três membros, formado por representantes de cada uma das direcções-gerais do Ministério das Corporações e Previdência Social e do Comissariado do Desemprego, a designar pelos respectivos Ministérios, cabendo a presidência ao representante da Direcção-Geral do Trabalho e Corporações.
 
-###### Art. 8.º Compete ao conselho administrativo:
+Art. 8.º Compete ao conselho administrativo:
 
 1. Pronunciar-se sobre os projectos de orçamento e submetê-los à aprovação do Ministro das Corporações e Previdência Social.
 
 2. Aprovar as contas do Fundo e submetê-las à homologação dos Ministros das Obras Públicas e das Corporações e Previdência Social.
 
-###### Art. 9.º A efectivação das despesas do Fundo será autorizada pelo Ministro das Corporações e Previdência Social, que poderá delegar a sua competência nos termos e condições que forem definidas em despacho.
+Art. 9.º A efectivação das despesas do Fundo será autorizada pelo Ministro das Corporações e Previdência Social, que poderá delegar a sua competência nos termos e condições que forem definidas em despacho.
 
-###### Art. 10.º Os levantamentos e transferências da conta aberta na Caixa Geral de Depósitos, Crédito e Previdência ao Fundo de Desenvolvimento da Mão-de-Obra só poderão ter lugar com a assinatura de dois funcionários, sendo um deles a pessoa a cujo cargo se encontrem os serviços do Fundo e o outro o que dirigir a respectiva contabilidade.
+Art. 10.º Os levantamentos e transferências da conta aberta na Caixa Geral de Depósitos, Crédito e Previdência ao Fundo de Desenvolvimento da Mão-de-Obra só poderão ter lugar com a assinatura de dois funcionários, sendo um deles a pessoa a cujo cargo se encontrem os serviços do Fundo e o outro o que dirigir a respectiva contabilidade.
 
-###### Art. 11.º As receitas e despesas do Fundo de Desenvolvimento da Mão-de-Obra constarão de um orçamento anual elaborado até 15 de Dezembro do ano anterior àquele a que respeitar e submetido dentro de quinze dias, com parecer do conselho administrativo, à homologação do Ministro das Corporações e Previdência Social.
+Art. 11.º As receitas e despesas do Fundo de Desenvolvimento da Mão-de-Obra constarão de um orçamento anual elaborado até 15 de Dezembro do ano anterior àquele a que respeitar e submetido dentro de quinze dias, com parecer do conselho administrativo, à homologação do Ministro das Corporações e Previdência Social.
 
 § 1.º Quaisquer alterações no orçamento anual serão levadas a efeito através de orçamentos suplementares sujeitos, na parte aplicável, às regras estabelecidas no corpo do artigo.
 
 § 2.º O preceituado no corpo do artigo e no seu § 1.º só terá aplicação a partir da gerência de 1963.
 
-###### Art. 12.º Será organizada anualmente uma conta de gerência do Fundo de Desenvolvimento da Mão-de-Obra.
+Art. 12.º Será organizada anualmente uma conta de gerência do Fundo de Desenvolvimento da Mão-de-Obra.
 
 § 1.º Com a conta de gerência e os competentes mapas e outros elementos elucidativos deverá ser elaborado um balanço contendo a designação e extensão das contas de natureza activa e passiva e a situação líquida do Fundo.
 
 § 2.º A conta de gerência será aprovada pelo conselho administrativo do Fundo até 31 de Março do ano seguinte àquele a que respeitar e submetida, dentro de quinze dias, à homologação dos Ministros das Obras Públicas e das Corporações e Previdência Social, mediante a qual se consideram legitimadas, para todo os efeitos, as respectivas receita e despesa.
 
-###### Art. 13.º As infracções ao disposto nos n.os 1 e 4 do artigo 3.º e artigo 5.º deste decreto serão punidas com multa de 200$00 a 2000$00, a aplicar pela Inspecção do Trabalho, mediante comunicação do Fundo de Desenvolvimento da Mão-de-Obra. Em caso de reincidência verificada no período de um ano, a multa será sempre aplicada pelo máximo.
+Art. 13.º As infracções ao disposto nos n.os 1 e 4 do artigo 3.º e artigo 5.º deste decreto serão punidas com multa de 200$00 a 2000$00, a aplicar pela Inspecção do Trabalho, mediante comunicação do Fundo de Desenvolvimento da Mão-de-Obra. Em caso de reincidência verificada no período de um ano, a multa será sempre aplicada pelo máximo.
 
 § 1.º O pagamento voluntário da multa, em juízo ou fora dele, equivale à condenação por sentença com trânsito em julgado para efeitos de reincidência.
 
 § 2.º O produto das multas aplicadas nos termos deste decreto constitui receita do Fundo de Desenvolvimento da Mão-de-Obra.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Agosto de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Eduardo de Arantes e Oliveira - José João Gonçalves de Proença.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/08/19900/11721174.pdf))](https://files.diariodarepublica.pt/1s/1962/08/19900/11721174.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/08/19900/11721174.pdf)
 
 Ministério das Corporações e Previdência Social, 30 de Agosto de 1962. - O Ministro das Corporações e Previdência Social, José João Gonçalves de Proença.

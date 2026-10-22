@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44695-1962-155865
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-11-16T00:00:00Z'
+  retrieved_at: '2026-10-22T19:32:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b00949f328590487603674b970d3e1552044e7cad3e756953fc534297ec10f6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 684f4116ca1889f93cc41ae47c3cefbc7405437708cd9cf529cc7318b4de8cdd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:32:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:32:14Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +107,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São transferidas as quantias adiante indicadas dentro do orçamento do Ministério da Saúde e Assistência:
+Artigo 1.º São transferidas as quantias adiante indicadas dentro do orçamento do Ministério da Saúde e Assistência:
 
 No capítulo 3.º:
 
@@ -123,28 +135,28 @@ N.º 3) «Artigos de expediente ...», alínea b) «Para o Parque Sanitário» .
 
 Para o artigo 28.º, n.º 4) «Vacinas, soros medicamentos ... e outro material sanitário a cargo do Parque Sanitário» ... +49000$00
 
-###### Art. 2.º São abertos no Ministério das Finanças, a favor do Ministério da Saúde e Assistência, créditos especiais no montante de 2951000$00, destinados a reforçar o orçamento do segundo dos mencionados Ministérios pela forma a seguir designada:
+Art. 2.º São abertos no Ministério das Finanças, a favor do Ministério da Saúde e Assistência, créditos especiais no montante de 2951000$00, destinados a reforçar o orçamento do segundo dos mencionados Ministérios pela forma a seguir designada:
 
-### Capítulo 3.º «Direcção-Geral de Saúde»:
+Capítulo 3.º «Direcção-Geral de Saúde»:
 
-###### Artigo 28.º, n.º 4) «Vacinas, soros, medicamentos ... e outro material sanitário a cargo do Parque Sanitário» ... 951000$00
+Artigo 28.º, n.º 4) «Vacinas, soros, medicamentos ... e outro material sanitário a cargo do Parque Sanitário» ... 951000$00
 
-### Capítulo 5.º «Direcção-Geral dos Hospitais»:
+Capítulo 5.º «Direcção-Geral dos Hospitais»:
 
-###### Artigo 75.º, n.º 1) «Subsídios ...», alínea a) «Estabelecimentos hospitalares ...» ... 2000000$00
+Artigo 75.º, n.º 1) «Subsídios ...», alínea a) «Estabelecimentos hospitalares ...» ... 2000000$00
 
 ... 2951000$00
 
-###### Art. 3.º Para compensação dos créditos designados no artigo anterior são anuladas as seguintes importâncias no orçamento do Ministério das Finanças para o corrente ano económico:
+Art. 3.º Para compensação dos créditos designados no artigo anterior são anuladas as seguintes importâncias no orçamento do Ministério das Finanças para o corrente ano económico:
 
-### Capítulo 1.º, artigo 12.º, n.º 1) ... 2000000$00
+Capítulo 1.º, artigo 12.º, n.º 1) ... 2000000$00
 
-### Capítulo 6.º, artigo 50.º, n.º 1) ... 951000$00
+Capítulo 6.º, artigo 50.º, n.º 1) ... 951000$00
 
 ... 2951000$00
 
 Estas correcções orçamentais foram registadas na Direcção-Geral de Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Novembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

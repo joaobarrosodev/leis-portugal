@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/08/14901/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/30-a/2024/08/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/30-a-2024-874224841
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-08-02T00:00:00Z'
+  retrieved_at: '2026-10-22T19:15:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 290b6332bbc05b11a5efb6e6b20958b4805f446fc7b925a463e4248f7110f1b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c4f2de7661bf1c5868020e0863f9e29792e6e7757efda910329831e0f539c89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:15:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -84,16 +84,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/175-a/2024/07/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/175-a/2024/07/16/p/dre
+- type: cites
+  target: pt:dre:159432383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:872180277:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:15:13Z'
   warnings: []
   errors: []
 ---
@@ -110,9 +130,9 @@ No anexo, onde consta:
 
 Vagas destinadas ao concurso externo extraordinário de seleção e de recrutamento do pessoal docente da educação pré-escolar e dos ensinos básico e secundário da Escola Portuguesa de Luanda - Centro de Ensino e Língua Portuguesa, para o ano escolar de 2024-2025
 
-|  |  |  |  |  |  |  |  |  | Grupo de recrutamento | Grupo de recrutamento | Grupo de recrutamento | Grupo de recrutamento | Grupo de recrutamento |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  | Grupo de recrutamento |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 100 | 110 | 200 | 220 | 230 | 240 | 250 | 260 | 300 | 320 | 330 | 400 | 410 | 420 | 430 | 500 | 510 | 520 | 550 | 600 | 620 | Total | Total |
+| 100 | 110 | 200 | 220 | 230 | 240 | 250 | 260 | 300 | 320 | 330 | 400 | 410 | 420 | 430 | 500 | 510 | 520 | 550 | 600 | 620 | Total |  |
 | 8 | 12 | 1 | 2 | 2 | 0 | 0 | 1 | 4 | 1 | 3 | 0 | 1 | 0 | 1 | 4 | 1 | 1 | 0 | 1 | 1 | 44 | " |
 
 deve constar:
@@ -123,9 +143,11 @@ deve constar:
 
 Vagas destinadas ao concurso externo extraordinário de seleção e de recrutamento do pessoal docente da educação pré-escolar e dos ensinos básico e secundário da Escola Portuguesa de Luanda - Centro de Ensino e Língua Portuguesa, para o ano escolar de 2024-2025
 
-| Grupo de recrutamento | Grupo de recrutamento | Grupo de recrutamento | Grupo de recrutamento | Grupo de recrutamento | Grupo de recrutamento | Grupo de recrutamento | Grupo de recrutamento | Grupo de recrutamento | Grupo de recrutamento | Grupo de recrutamento | Grupo de recrutamento | Grupo de recrutamento | Grupo de recrutamento | Grupo de recrutamento | Grupo de recrutamento | Grupo de recrutamento | Grupo de recrutamento | Grupo de recrutamento |
+| Grupo de recrutamento |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 100 | 110 | 200 | 220 | 230 | 240 | 260 | 300 | 320 | 330 | 410 | 430 | 500 | 510 | 520 | 600 | 620 | Total | Total |
+| 100 | 110 | 200 | 220 | 230 | 240 | 260 | 300 | 320 | 330 | 410 | 430 | 500 | 510 | 520 | 600 | 620 | Total |  |
 | 10 | 12 | 2 | 2 | 2 | 2 | 1 | 5 | 1 | 3 | 1 | 1 | 4 | 1 | 1 | 1 | 2 | 51 | " |
 
 Secretaria-Geral, 31 de julho de 2024. - A Secretária-Geral Adjunta, Fátima Costa Ferreira.
+
+117983195

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/42918-1960-281785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-04-09T00:00:00Z'
+  retrieved_at: '2026-10-22T19:17:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc8c6887158e6873d8b71d49e81c053e2763112e4d2b5359e00cadf1d55f7c6e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0dc56a915c9ba8d85d629ec67ff18449c63b5c36c3143cfddbe3416abde76595
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:17:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:17:41Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +91,9 @@ Ouvidos os governadores de todas as províncias ultramarinas;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os exames de aptidão para matrícula nas Universidades, no Instituto Superior de Estudos Ultramarinos e nas escolas superiores de belas-artes e de admissão para matrícula em escolas da metrópole passam a ser iniciados nas províncias ultramarinas no dia 20 de Setembro, ou no primeiro dia útil depois desta data, se aquele o não for.
+Artigo único. Os exames de aptidão para matrícula nas Universidades, no Instituto Superior de Estudos Ultramarinos e nas escolas superiores de belas-artes e de admissão para matrícula em escolas da metrópole passam a ser iniciados nas províncias ultramarinas no dia 20 de Setembro, ou no primeiro dia útil depois desta data, se aquele o não for.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Abril de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

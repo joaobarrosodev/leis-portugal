@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 277/1995, 3º Suplemento, Série I-A de 1995-11-30
   number: '277'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 7508-(168) a 7508-(168)
   pdf_url: https://files.diariodarepublica.pt/1s/1995/11/277a03/01680168.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/150/1995/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/150-1995-331441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:44:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8375e6543c73b2d7f75dbec4201e0a4b2cdca87decfad36f39e58b8b5c69450
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a69d67a5cbbcb57396a19efb20692d0c3ee52cffb60ad2139b4335a21ef0ac8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:44:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,6 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Academia das Ciências de Lisboa
+- Academia Internacional da Cultura Portuguesa
+- Academia Nacional de Belas-artes
+- Academia Portuguesa de História
 - Administração do Porto de Lisboa
 - Administração do Porto de Sines
 - Administração dos Portos de Setúbal e Sesimbra
@@ -73,45 +77,47 @@ subjects:
 - Administração Marítima do Centro
 - Administração Marítima do Norte
 - Administração Marítima do SUL
-- ICEP
 - ALTO Comissário para a Imigração e Minorias Étnicas
 - ALTO Comissário para as Questões da Promoção da Igualdade e da Família
 - Arquivos Nacionais-torre do Tombo
+- Auditoria Jurídica
 - Autorização de Despesas
+- Caixa de Previdência
 - Caixa Nacional de Seguros de Doenças Profissionais
-- Ministério da Defesa Nacional
-- Instituto do Emprego e Formação Profissional
+- CASA PIA de Lisboa
+- Centro Científico e Cultural de Macau
+- Centro de Estudos e Formação Autárquica
 - Centro Nacional de Pensões
 - CIME
-- Companhia Nacional de Navegação
+- Cinemateca Portuguesa-Museu do Cinema
 - Comissão de Aplicação de Coimas em Matéria Económica
-- Ministério da Administração Interna
+- Comissão de Apoio à Reestruturação da Administração do Território
+- Comissão de Planeamento Energético de Emergência
 - Comissão de Planeamento Industrial de Emergência
 - Comissão Liquidatária
 - Comissão Nacional para a Política de Terceira Idade
-- Ministro da Ciência e da Tecnologia
-- Ministro da Saúde
 - Comissão para a Campanha Salve um Livro
+- Comissão para a Igualdade e para os Direitos das Mulheres
 - Comissão para a Igualdade no Trabalho e no Emprego
 - Comissão Portuguesa de História Militar
-- Ministro da Economia
+- Companhia Nacional de Bailado
+- Companhia Nacional de Navegação
+- Companhia Portuguesa de Transportes Marítimos
 - Companhias Reunidas de Congelados e Bacalhau
 - Competência Própria
 - Conselho da Concorrência
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
-- Ministério da Educação
+- Conselho da Defesa do Património
+- Conselho de Garantias Financeiras
 - Conselho de Ministros
 - Conselho de Ministros para os Assuntos da Educação Qualificação Ciência e Cultura
 - Conselho de Ministros para os Assuntos da União Europeia
 - Conselho de Ministros para os Assuntos Económicos
 - Conselho Nacional da Indústria e Energia
+- Conselho Nacional da Qualidade
 - Conselho Nacional de Higiene e Segurança do Trabalho
-- Conselho da Defesa do Património
 - Conselho Superior das Bibliotecas Portuguesas
 - Conselho Superior de Ciência e Tecnologia
-- Instituto António Sérgio do Sector Cooperativo
 - Criação de Serviços
-- Companhia Portuguesa de Transportes Marítimos
 - Definição de Competências
 - Delegação de Competências
 - Delegação Regional da Cultura do Alentejo
@@ -129,6 +135,7 @@ subjects:
 - Departamento para os Assuntos do Fundo Social Europeu
 - Departamento para os Assuntos Europeus e Relações Externas
 - Direcção Geral da Acção Social
+- Direcção Geral da Administração Pública
 - Direcção Geral da Concorrência e Preços
 - Direcção Geral da Família
 - Direcção Geral da Indústria
@@ -145,170 +152,174 @@ subjects:
 - Direcção Geral dos Serviços de Gestão e Organização
 - Docapesca-sociedade Concessionária da DOCA de Pesca
 - Dragapor-dragagens de Portugal
-- Região de Turismo
+- Empresa de Silos Portuários
 - Escola das Marinhas do Comércio e Pescas
 - Escola Náutica Infante Dom Henrique
 - Extinção de Serviços
-- Cinemateca Portuguesa-Museu do Cinema
-- Lisboa
 - Fundo de Estabilização Financeira da Segurança Social
-- Ministério da Economia
-- Ministério do Planeamento e da Administração do Território
-- Ministério para a Qualificação e o Emprego
-- Ministério do MAR
+- Fundo de Fomento Cultural
+- Fundo de Turismo
+- Gabinete de Coordenação da Política Científica
+- Gabinete de Coordenação das Políticas Tecnológicas
+- Gabinete de Estudos e Planeamento
+- Gabinete de Relações Culturais Internacionais
 - Gabinete dos Assuntos Europeus
 - Gabinete para a Pesquisa e Exploração de Petróleo
 - Gabinete para os Assuntos Comunitários
 - Gabinete para os Assuntos Europeus e Relações Externas
 - Gestão Orçamental
-- Inspecção Geral das Actividades Económicas
 - Governo XIII
-- Ministério da Solidariedade e Segurança Social
-- Ministro da Justiça
-- Ministro da Solidariedade e Segurança Social
-- Secretário de Estado da Administração Interna
-- Secretário de Estado da Energia
-- Secretário de Estado do Ensino Superior
-- Secretário de Estado do Turismo
-- Ministro dos Negócios Estrangeiros
-- Secretário de Estado Adjunto do Ministro da Administração Interna
-- Ministério da Cultura
-- Ministério das Finanças
-- Secretário de Estado da Cultura
-- Secretário de Estado do Tesouro e das Finanças
-- Secretário de Estado dos Assuntos Fiscais
-- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
-- Ministério da Justiça
-- Ministro da Cultura
-- Ministro das Finanças
-- Primeiro-ministro
-- Secretário de Estado da Saúde
-- Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
+- IAPMEI
+- ICEP
+- Inatel
 - Ineti
-- Instituto Nacional da Propriedade Industrial
+- Inspecção Geral das Actividades Económicas
 - Inspecção Geral de Jogos
+- Instituto António Sérgio do Sector Cooperativo
 - Instituto da Biblioteca Nacional e do Livro
 - Instituto das Artes Cénicas
-- Fundo de Turismo
+- Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
 - Instituto de Gestão Financeira da Segurança Social
+- Instituto de Investigação Científica e Tropical
 - Instituto do Desporto
+- Instituto do Emprego e Formação Profissional
 - Instituto do Trabalho Portuário
 - Instituto Geológico e Mineiro
-- CASA PIA de Lisboa
+- Instituto Nacional da Propriedade Industrial
 - Instituto Nacional de Formação Turística
 - Instituto Nacional de Pilotagem dos Portos
 - Instituto Português da ARTE Cinematográfica e Audiovisual
+- Instituto Português da Qualidade
 - Instituto Português de Investigação Marítima
 - Instituto Português de Museus
 - Instituto Tecnológico e Nuclear
 - Integração de Serviços
+- Jnict
 - Junta Autónoma do Porto da Figueira da Foz
 - Junta Autónoma do Porto de Aveiro
 - Junta Autónoma dos Portos do Barlavento do Algarve
 - Junta Autónoma dos Portos do Centro
 - Junta Autónoma dos Portos do Norte
 - Junta Autónoma dos Portos do Sotavento do Algarve
-- Santa Casa da Misericórdia
+- Lisboa
+- Ministério da Administração Interna
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Ministério da Ciência e da Tecnologia
-- Centro Científico e Cultural de Macau
-- Instituto Português da Qualidade
-- Instituto de Investigação Científica e Tropical
-- Academia Nacional de Belas-artes
-- Fundo de Fomento Cultural
-- Gabinete de Estudos e Planeamento
-- Auditoria Jurídica
-- Secretário de Estado da Justiça
-- Comissão de Planeamento Energético de Emergência
-- Conselho de Garantias Financeiras
-- Direcção Geral da Administração Pública
+- Ministério da Cultura
+- Ministério da Defesa Nacional
+- Ministério da Economia
+- Ministério da Educação
+- Ministério da Justiça
+- Ministério da Saúde
+- Ministério da Solidariedade e Segurança Social
+- Ministério das Finanças
 - Ministério do Ambiente
 - Ministério do Equipamento Social
-- Secretário de Estado das Comunidades Portuguesas
-- Secretário de Estado para os Assuntos Europeus
+- Ministério do MAR
+- Ministério do Planeamento e da Administração do Território
+- Ministério dos Negócios Estrangeiros
+- Ministério para a Qualificação e o Emprego
 - Ministro Adjunto
-- Secretário de Estado do Desporto
+- Ministro da Administração Interna
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
-- Gabinete de Coordenação da Política Científica
-- Gabinete de Coordenação das Políticas Tecnológicas
+- Ministro da Ciência e da Tecnologia
+- Ministro da Cultura
+- Ministro da Defesa Nacional
+- Ministro da Economia
+- Ministro da Educação
+- Ministro da Justiça
+- Ministro da Presidência
+- Ministro da República para a Região Autónoma da Madeira
 - Ministro da República para a Região Autónoma dos Açores
-- Caixa de Previdência
-- Centro de Estudos e Formação Autárquica
+- Ministro da Saúde
+- Ministro da Solidariedade e Segurança Social
+- Ministro das Finanças
 - Ministro do Ambiente
 - Ministro do Equipamento Social
 - Ministro do Planeamento e da Administração do Território
+- Ministro dos Negócios Estrangeiros
 - Ministro para a Qualificação e o Emprego
-- Companhia Nacional de Bailado
-- Comissão de Apoio à Reestruturação da Administração do Território
 - Orgânica
-- Secretário de Estado da Administração Local e Ordenamento do Território
-- Comissão para a Igualdade e para os Direitos das Mulheres
-- Secretário de Estado Adjunto do Primeiro-ministro
-- Secretário de Estado da Presidência do Conselho de Ministros
-- Jnict
 - Presidência do Conselho de Ministros
-- Academia das Ciências de Lisboa
-- Ministério da Saúde
-- Ministro da República para a Região Autónoma da Madeira
-- Ministro da Defesa Nacional
-- Gabinete de Relações Culturais Internacionais
-- Ministro da Educação
-- Ministro da Presidência
+- Primeiro-ministro
+- Região de Turismo
+- Santa Casa da Misericórdia
 - Secretariado Nacional de Reabilitação
 - Secretário de Estado
+- Secretário de Estado Adjunto do Ministro da Administração Interna
 - Secretário de Estado Adjunto do Ministro do Ambiente
-- Ministério dos Negócios Estrangeiros
+- Secretário de Estado Adjunto do Primeiro-ministro
 - Secretário de Estado da Administração Educativa
+- Secretário de Estado da Administração Interna
+- Secretário de Estado da Administração Local e Ordenamento do Território
 - Secretário de Estado da Administração Pública
 - Secretário de Estado da Agricultura e do Desenvolvimento Rural
 - Secretário de Estado da Comunicação Social
+- Secretário de Estado da Cultura
 - Secretário de Estado da Defesa Nacional
 - Secretário de Estado da Educação e Inovação
+- Secretário de Estado da Energia
 - Secretário de Estado da Habitação
 - Secretário de Estado da Indústria
 - Secretário de Estado da Inserção Social
+- Secretário de Estado da Justiça
 - Secretário de Estado da Juventude
+- Secretário de Estado da Presidência do Conselho de Ministros
 - Secretário de Estado da Produção Agro-alimentar
+- Secretário de Estado da Saúde
 - Secretário de Estado da Segurança Social
+- Secretário de Estado das Comunidades Portuguesas
 - Secretário de Estado das Obras Públicas
 - Secretário de Estado das Pescas
 - Secretário de Estado do Comércio
 - Secretário de Estado do Desenvolvimento Regional
+- Secretário de Estado do Desporto
+- Secretário de Estado do Ensino Superior
 - Secretário de Estado do Orçamento
+- Secretário de Estado do Tesouro e das Finanças
 - Secretário de Estado do Trabalho
+- Secretário de Estado do Turismo
+- Secretário de Estado dos Assuntos Fiscais
 - Secretário de Estado dos Assuntos Parlamentares
+- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
 - Secretário de Estado dos Recursos Naturais
 - Secretário de Estado dos Transportes e Comunicações
-- Ministro da Administração Interna
-- Empresa de Silos Portuários
-- IAPMEI
-- Conselho Nacional da Qualidade
+- Secretário de Estado para os Assuntos Europeus
 - Socarmar
 - Sociedade Nacional dos Armadores de Bacalhau
-- Inatel
 - Transferência de Verbas
 - Tutela
-- Academia Internacional da Cultura Portuguesa
-- Academia Portuguesa de História
 relationships:
+- type: amended_by
+  target: pt:dre:455465:por
+  label: "Colocada na dependência do Ministro do Equipamento Social a Comissão de Planeamento do Transporte Marítimo de Emergência\
+    \ a que se refere o Dec Lei 153/91, de 23-Abr, pelo DEC LEI.296-A/95.1995.11.17.PCM, DR.IS-A [266]Supl, na redacção conferida\
+    \ pelo presente diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-a-1995-455465
+  date: '1995-11-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/296-a/1995/11/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/296-a/1995/11/17/p/dre
+- type: cites
+  target: pt:dre:455465:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:44:48Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 150/95
+# Declaração de rectificação n.º 150/95
 
 Para os devidos efeitos se declara que o [Decreto-Lei n.º 296-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1995-455465), publicado no Diário da República, 1.ª série, n.º 226 (suplemento), de 17 de Novembro de 1955, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 

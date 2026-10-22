@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/03/06100/0000600020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/2/2020/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/2-2020-130603066
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-03-26T00:00:00Z'
+  retrieved_at: '2026-10-22T17:54:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d27641d7087eebe24b0bb4a89ec5270e2be130fd05b547971332530bfa0f8448
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b017f08a692f8060676b77ea9dce3df4b6b02509a68bcf8e62597eb3a037102
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:54:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -89,13 +89,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:54:20Z'
   warnings: []
   errors: []
 ---
@@ -563,3 +563,5 @@ Por isso, fixaria jurisprudência do seguinte teor:
 «O assistente, desacompanhado do Ministério Público, não pode recorrer da suspensão da execução da pena de prisão, em que o arguido foi condenado, pretendendo que a mesma fique condicionada ao pagamento, dentro de certo prazo, da indemnização que lhe foi arbitrada, porque os deveres ou condições de subordinação da suspensão da execução da pena de prisão são ponderados e definidos apenas pelo tribunal».
 
 António Pires Henriques da Graça.
+
+113093531

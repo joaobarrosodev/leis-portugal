@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/71/2008/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/71-2008-440501
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-05T00:00:00Z'
+  retrieved_at: '2026-10-22T19:10:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc4d83649f83979ad49c4427fba1a87b6ce9a9674422734baf9bb94f556b8e76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d962520e545860f6c9f54eb4b082c046fe84de4d0e37a4ab28091badf53aa252
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:10:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aerosol
 - Aproximação das Legislações
+- ASAE
 - Bebida Alcoólica
-- Vinho
+- Comércio
+- Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade
 - Contra-ordenação
+- Controlo Metrológico
 - Definição de Competências
 - Direção Geral das Atividades Económicas
 - Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
+- Embalagem
 - Fiscalização
 - Importação
-- Simbolo de Identificação
-- ASAE
-- Livre Circulação de Mercadorias
-- Embalagem
 - Instituto Português da Qualidade
-- Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade
+- Livre Circulação de Mercadorias
 - Madeira.região Autónoma
-- Controlo Metrológico
-- Açores
-- Comércio
 - Normalização
+- Simbolo de Identificação
+- Vinho
 relationships:
 - type: cites
   target: celex:32007L0045
@@ -102,16 +102,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/199/2008/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/199/2008/10/08/p/dre
+- type: cites
+  target: pt:dre:452915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:10:47Z'
   warnings: []
   errors: []
 ---

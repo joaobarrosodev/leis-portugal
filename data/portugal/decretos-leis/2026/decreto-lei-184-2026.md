@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/09/18000/0003200044.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,25 +46,36 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/184/2026/09/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2026-1171382771
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-16T00:00:00Z'
+  retrieved_at: '2026-10-22T18:53:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0009ae31e05c59096d0ef01311789ab994f6fabc8f793bf1c60ff447c9c1a146
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 618331ec680903c8daa0014abae0d749ff5d76a73f2619b2cecae2f19869c14b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:53:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Autoridade de Segurança Alimentar e Económica
+- Código da Estrada
+- Código da Publicidade
+- Definição de Competências
+- Direcção Geral do Consumidor
+- Fiscalização
+- Instituto da Mobilidade e dos Transportes
+- Madeira.região Autónoma
+- Regulamento
+- Veículo
 relationships:
 - type: cites
   target: celex:32013R0168
@@ -86,16 +97,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/9/2021/01/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/9/2021/01/29/p/dre
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:364922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608743:por
+  label: null
+  source: null
 article_structure:
   article_count: 31
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:53:14Z'
   warnings: []
   errors: []
 ---
@@ -150,13 +185,13 @@ O artigo 22.º-A do Código da Publicidade, aprovado em anexo ao [Decreto-Lei n.
 
 2 - [...]
 
-3 - É proibida a publicidade, sob qualquer forma, à prática de atos que levem ao incumprimento do estabelecido nos n.<sup>os</sup>1 a 4 do artigo 8.º do Regulamento da Transformação de Veículos.»
+3 - É proibida a publicidade, sob qualquer forma, à prática de atos que levem ao incumprimento do estabelecido nos n.os1 a 4 do artigo 8.º do Regulamento da Transformação de Veículos.»
 
 ###### Artigo 5.º — Norma revogatória
 
 São revogados:
 
-a) Os n.<sup>os</sup>5, 9 e 10 do artigo 14.º, o n.º 2 do artigo 15.º, os n.<sup>os</sup>4, 5, 6 e 7 do artigo 16.º, o n.º 3 do artigo 19.º, o n.<sup>os</sup>2 e 11 do artigo 20.º, o artigo 26.º e o n.º 4 do artigo 27.º do Regulamento do Código da Estrada, aprovado pelo [Decreto n.º 39987](https://diariodarepublica.pt/dr/detalhe/decreto/39987-1954-290839), de 22 de dezembro de 1954;
+a) Os n.os5, 9 e 10 do artigo 14.º, o n.º 2 do artigo 15.º, os n.os4, 5, 6 e 7 do artigo 16.º, o n.º 3 do artigo 19.º, o n.os2 e 11 do artigo 20.º, o artigo 26.º e o n.º 4 do artigo 27.º do Regulamento do Código da Estrada, aprovado pelo [Decreto n.º 39987](https://diariodarepublica.pt/dr/detalhe/decreto/39987-1954-290839), de 22 de dezembro de 1954;
 
 b) A [Portaria n.º 544/79](https://diariodarepublica.pt/dr/detalhe/portaria/544-1979-364922), de 16 de outubro.
 
@@ -168,15 +203,15 @@ b) A [Portaria n.º 544/79](https://diariodarepublica.pt/dr/detalhe/portaria/544
 
 Visto e aprovado em Conselho de Ministros de 18 de junho de 2026. - Luís Montenegro - Miguel Martinez de Castro Pinto Luz.
 
-**Promulgado em 18 de agosto de 2026.**
+Promulgado em 18 de agosto de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 19 de agosto de 2026.**
+Referendado em 19 de agosto de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — [a que se refere a alínea a) do artigo 1.º]
 
@@ -490,7 +525,7 @@ h) O incumprimento pelo transformador do veículo do dever de não instalar num 
 
 i) O incumprimento pelo transformador dos deveres decorrentes do n.º 8 do artigo 13.º e do n.º 5 do artigo 14.º;
 
-j) O incumprimento pelo transformador dos deveres decorrentes dos n.<sup>os</sup>6, 7 e 9 do artigo 13.º;
+j) O incumprimento pelo transformador dos deveres decorrentes dos n.os6, 7 e 9 do artigo 13.º;
 
 k) O incumprimento da proibição prevista no n.º 4 do artigo 8.º;
 
@@ -517,3 +552,5 @@ a) 20 % para a entidade fiscalizadora, constituindo receita própria;
 b) 20 % para a entidade que instrui o processo e aplica a coima;
 
 c) 60 % para o Estado.
+
+119949583

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/12/2006/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/12-2006-693068
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-03T00:00:00Z'
+  retrieved_at: '2026-10-22T19:05:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c83a954b02f02a6d415ae1d0f430029734dfb2b7e748e35f041fc480eafa72dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0af90a648f567fe9362b05b89ac229ce23bf04bc8415920850843af773149599
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:05:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,24 +71,33 @@ subjects:
 - Assistência Medicamentosa
 - Comparticipação do Estado
 - Declaração de Rendimentos
-- Serviço Nacional de Saúde
 - Medicamento
 - Pensionista
+- Serviço Nacional de Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/91/2006/01/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/91/2006/01/27/p/dre
+- type: cites
+  target: pt:dre:545663:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:portaria:91/2006
+  label: "Rectifica e republica o anexo da Portaria n.º 91/2006, de 27 de Janeiro, DR.IS-B [20]\0\0"
+  source: null
+  date: '2006-01-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:05:57Z'
   warnings: []
   errors: []
 ---

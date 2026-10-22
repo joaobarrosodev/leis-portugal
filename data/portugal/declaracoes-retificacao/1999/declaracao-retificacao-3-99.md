@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/3/1999/01/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-1999-180467
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-01-28T00:00:00Z'
+  retrieved_at: '2026-10-22T18:54:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ffdb5a5cc9ae20f4f58cfb3828ed10a953921d5e0513a6e4f2561e7971a51e8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cbd6375b79abaea6e2897187510883525ab6ba8ef2dc34828d8f0e9441f9bf98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:54:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,37 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Alteração Orçamental
-- Região Autónoma
-- Financiamento
-- Porto-capital Europeia da Cultura 2001
-- Ministério da Defesa Nacional
-- Ministério do Trabalho e da Solidariedade
 - Comissão de Acompanhamento Ambiental das Infraestruturas do Alqueva
-- Ministério da Administração Interna
 - Companhia Carris de Ferro de Lisboa
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
-- Ministério da Educação
 - CP
 - Despesas Públicas
 - Encargos Gerais da Nação
-- Ministério da Economia
-- Ministério do Equipamento do Planeamento e da Administração do Território
-- Ministério da Cultura
-- Ministério da Justiça
+- Financiamento
+- Madeira.região Autónoma
+- Ministério da Administração Interna
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Ministério da Ciência e da Tecnologia
+- Ministério da Cultura
+- Ministério da Defesa Nacional
+- Ministério da Economia
+- Ministério da Educação
+- Ministério da Justiça
+- Ministério da Saúde
 - Ministério do Ambiente
-- Orçamento Geral do Estado
+- Ministério do Equipamento do Planeamento e da Administração do Território
+- Ministério do Trabalho e da Solidariedade
+- Ministério dos Negócios Estrangeiros
 - Orçamento
+- Orçamento Geral do Estado
 - Organização não Governamental
 - Parque EXPO 98
 - Piddac
-- Madeira.região Autónoma
+- Porto-capital Europeia da Cultura 2001
 - Receita Pública
-- Ministério da Saúde
 - Refer
-- Ministério dos Negócios Estrangeiros
-- Açores
+- Região Autónoma
 - Sociedade de Transportes Colectivos do Porto
 - STCP
 relationships:
@@ -108,16 +108,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/87/1998/12/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/87/1998/12/22/p/dre
+- type: cites
+  target: pt:dre:186524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659563:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:54:33Z'
   warnings: []
   errors: []
 ---

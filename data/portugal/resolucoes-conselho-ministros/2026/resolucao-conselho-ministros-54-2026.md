@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/54/2026/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/54-2026-1073088592
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-17T00:00:00Z'
+  retrieved_at: '2026-10-22T18:35:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9c710a28fa3234082d82ed6faafb15852b43af0ba5663b8988320c32489635d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ff7c3dfee669a4e68503d1bf586214261262a653f4262676fd5485db7eb2d17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:35:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso ao Desporto
-- Financiamento
 - Comissão Interministerial
 - Comissão Técnica de Acompanhamento
 - Desporto
+- Financiamento
 - Plano Nacional de Desenvolvimento Desportivo
 relationships:
 - type: cites
@@ -88,16 +88,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/196/2025/12/16/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/196/2025/12/16/p/dre
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:900516796:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:35:44Z'
   warnings: []
   errors: []
 ---
@@ -176,11 +184,11 @@ f) Saúde;
 
 g) Trabalho, solidariedade e segurança social.
 
-12 - Determinar que as comissões previstas nos n.<sup>os</sup>6 e 10 cessam funções aquando da total execução das medidas previstas no PNDD e subsequente entrega do respetivo relatório de execução final.
+12 - Determinar que as comissões previstas nos n.os6 e 10 cessam funções aquando da total execução das medidas previstas no PNDD e subsequente entrega do respetivo relatório de execução final.
 
 13 - Determinar que os relatórios a que se refere o n.º 9 são disponibilizados em www.ipdj.pt.
 
-14 - Determinar que os membros das comissões previstas nos n.<sup>os</sup>6 e 10 não auferem qualquer remuneração, incluindo senhas de presença ou abonos.
+14 - Determinar que os membros das comissões previstas nos n.os6 e 10 não auferem qualquer remuneração, incluindo senhas de presença ou abonos.
 
 15 - Determinar que compete a cada área governativa envolvida na execução das medidas e iniciativas que integram o PNDD promover a sua implementação e assegurar os encargos resultantes das mesmas, de acordo com as respetivas dotações e disponibilidades orçamentais, sem necessidades de reforços orçamentais.
 
@@ -214,21 +222,21 @@ Portugal dispõe de um tecido desportivo vivo, assente numa vasta rede de clubes
 
 Os números confirmam essa distância. Apesar dos benefícios amplamente comprovados e dos impactos positivos da prática desportiva regular, Portugal continua a apresentar elevados níveis de inatividade física nos últimos anos, agravados por desigualdades territoriais, por desigualdades de género e por uma fraca participação de pessoas com deficiência. A esta realidade acresce a elevada incidência e prevalência de excesso de peso e obesidade, e o afastamento face à média europeia em indicadores de participação desportiva e de investimento público.
 
-De acordo com dados da Comissão Europeia, 73 % dos portugueses dizem nunca praticar desporto (<sup>1</sup>), o que coloca Portugal entre os países europeus com maiores níveis de inatividade física - uma realidade que atravessa todas as faixas etárias e que se agrava com a idade. Esta tendência evidencia a urgência de políticas públicas capazes de incentivar a continuidade da prática desportiva ao longo da vida.
+De acordo com dados da Comissão Europeia, 73 % dos portugueses dizem nunca praticar desporto (1), o que coloca Portugal entre os países europeus com maiores níveis de inatividade física - uma realidade que atravessa todas as faixas etárias e que se agrava com a idade. Esta tendência evidencia a urgência de políticas públicas capazes de incentivar a continuidade da prática desportiva ao longo da vida.
 
-Para além da inatividade física generalizada, persistem desigualdades estruturais, já que o mesmo Eurobarómetro mostra que as diferenças entre homens e mulheres continuam a marcar o panorama desportivo nacional, com a prática regular feminina inferior à masculina em praticamente todas as idades e particularmente expressiva a partir dos 25 anos. Essas disparidades refletem-se também nas funções técnicas e de liderança, uma vez que, em 2024, apenas 21 % dos dirigentes desportivos e 25 % dos treinadores inscritos nas federações desportivas eram mulheres (<sup>2</sup>).
+Para além da inatividade física generalizada, persistem desigualdades estruturais, já que o mesmo Eurobarómetro mostra que as diferenças entre homens e mulheres continuam a marcar o panorama desportivo nacional, com a prática regular feminina inferior à masculina em praticamente todas as idades e particularmente expressiva a partir dos 25 anos. Essas disparidades refletem-se também nas funções técnicas e de liderança, uma vez que, em 2024, apenas 21 % dos dirigentes desportivos e 25 % dos treinadores inscritos nas federações desportivas eram mulheres (2).
 
-As desigualdades estendem-se também ao desporto federado. Em 2024, dos 841 652 praticantes inscritos nas federações desportivas, 67,3 % eram homens, face a 32,7 % de mulheres. No caso dos praticantes com deficiência, a diferença era ainda mais acentuada, com 71 % de homens e apenas 29 % de mulheres (<sup>3</sup>).
+As desigualdades estendem-se também ao desporto federado. Em 2024, dos 841 652 praticantes inscritos nas federações desportivas, 67,3 % eram homens, face a 32,7 % de mulheres. No caso dos praticantes com deficiência, a diferença era ainda mais acentuada, com 71 % de homens e apenas 29 % de mulheres (3).
 
 A inclusão de pessoas com deficiência representa outro dos grandes desafios a nível nacional. Apesar do trabalho desenvolvido por várias federações e associações, continuam a existir barreiras físicas, sociais e organizacionais que limitam o acesso ao desporto. A falta de infraestruturas desportivas adaptadas, de técnicos especializados e de programas consistentes reduz as oportunidades de participação plena, o que torna ainda mais urgente a criação de condições de acessibilidade, o reforço do apoio a projetos inclusivos e a valorização do papel das organizações que promovem o desporto adaptado, de forma a garantir que o desporto é verdadeiramente de todos e para todos.
 
-Se garantir a acessibilidade é uma condição necessária, assegurar a formação desportiva de base para pessoas com deficiência é um passo essencial para a construção de percursos consistentes e duradouros. Em 2024, apenas 98 dos 4960 praticantes com deficiência inscritos em federações desportivas pertenciam ao escalão de formação (até juniores), o que representa cerca de 2 % (<sup>4</sup>).
+Se garantir a acessibilidade é uma condição necessária, assegurar a formação desportiva de base para pessoas com deficiência é um passo essencial para a construção de percursos consistentes e duradouros. Em 2024, apenas 98 dos 4960 praticantes com deficiência inscritos em federações desportivas pertenciam ao escalão de formação (até juniores), o que representa cerca de 2 % (4).
 
-Ainda assim, apesar dos desequilíbrios, o alto rendimento tem vindo a revelar sinais encorajadores, já que, em 2024, Portugal registou, pela primeira vez, nos Jogos Olímpicos, uma participação feminina superior à masculina. Paralelamente, os resultados desportivos têm acompanhado esta tendência de crescimento, com Portugal a apresentar, entre 2000 e 2024, uma evolução média positiva de cerca de 14 % por ciclo olímpico, no número de medalhas e diplomas conquistados (<sup>5</sup>). No entanto, o mesmo não se verificou nos Jogos Paralímpicos, que registaram um decréscimo médio de 4 % por ciclo (<sup>6</sup>). Este contraste sublinha a necessidade de reforçar o investimento na formação, assegurar melhores condições de transição de carreira e promover um maior equilíbrio entre atletas olímpicos, paralímpicos e surdolímpicos.
+Ainda assim, apesar dos desequilíbrios, o alto rendimento tem vindo a revelar sinais encorajadores, já que, em 2024, Portugal registou, pela primeira vez, nos Jogos Olímpicos, uma participação feminina superior à masculina. Paralelamente, os resultados desportivos têm acompanhado esta tendência de crescimento, com Portugal a apresentar, entre 2000 e 2024, uma evolução média positiva de cerca de 14 % por ciclo olímpico, no número de medalhas e diplomas conquistados (5). No entanto, o mesmo não se verificou nos Jogos Paralímpicos, que registaram um decréscimo médio de 4 % por ciclo (6). Este contraste sublinha a necessidade de reforçar o investimento na formação, assegurar melhores condições de transição de carreira e promover um maior equilíbrio entre atletas olímpicos, paralímpicos e surdolímpicos.
 
-A estes desafios soma-se ainda a questão da saúde pública, uma vez que, para além da inatividade física associada à reduzida prática desportiva regular, colocam-se também problemas como o excesso de peso e obesidade, cuja prevalência se mantém elevada em Portugal. Segundo o Instituto Nacional de Estatística (INE), em 2022, 37,3 % da população adulta vivia com excesso de peso e 15,9 % com obesidade (<sup>7</sup>). A situação é igualmente preocupante nas crianças entre os 6 e os 8 anos, das quais 31,9 % têm excesso de peso e 13,5 % já vivem com obesidade (<sup>8</sup>) - um problema de saúde pública que tende a prolongar-se ao longo da vida se não for prevenido ou tratado precocemente, tornando essencial uma intervenção atempada para reduzir riscos e assegurar um desenvolvimento saudável.
+A estes desafios soma-se ainda a questão da saúde pública, uma vez que, para além da inatividade física associada à reduzida prática desportiva regular, colocam-se também problemas como o excesso de peso e obesidade, cuja prevalência se mantém elevada em Portugal. Segundo o Instituto Nacional de Estatística (INE), em 2022, 37,3 % da população adulta vivia com excesso de peso e 15,9 % com obesidade (7). A situação é igualmente preocupante nas crianças entre os 6 e os 8 anos, das quais 31,9 % têm excesso de peso e 13,5 % já vivem com obesidade (8) - um problema de saúde pública que tende a prolongar-se ao longo da vida se não for prevenido ou tratado precocemente, tornando essencial uma intervenção atempada para reduzir riscos e assegurar um desenvolvimento saudável.
 
-Numa outra dimensão, Portugal encontra-se igualmente abaixo da média europeia no que respeita ao financiamento do setor. Segundo o Eurostat, a despesa pública com desporto e atividades recreativas corresponde apenas a 0,3 % do PIB, face a 0,4 % da média na União Europeia (<sup>9</sup>). Este quadro reforça a necessidade de convergir com os padrões europeus, garantindo ao setor do desporto os recursos necessários para responder ao seu verdadeiro potencial.
+Numa outra dimensão, Portugal encontra-se igualmente abaixo da média europeia no que respeita ao financiamento do setor. Segundo o Eurostat, a despesa pública com desporto e atividades recreativas corresponde apenas a 0,3 % do PIB, face a 0,4 % da média na União Europeia (9). Este quadro reforça a necessidade de convergir com os padrões europeus, garantindo ao setor do desporto os recursos necessários para responder ao seu verdadeiro potencial.
 
 Neste contexto, torna-se evidente que a inatividade física não é apenas um problema desportivo: é também um problema de saúde pública, de inclusão social e de qualidade de vida, responsável por doenças crónicas evitáveis, que reduz a produtividade e aumenta os custos com a saúde.
 
@@ -288,28 +296,28 @@ Os objetivos serão monitorizados com metas claras que permitem transformar a am
 
 | Indicador | Status | Meta 2028 | Ambição 2036 |
 | --- | --- | --- | --- |
-| Percentagem de excesso de peso infantil em Portugal (<sup>10</sup>) | 31,9 % | 27,9 % | 19 % |
-| Percentagem de obesidade infantil em Portugal (<sup>11</sup>) | 13,5 % | 11,2 % | 6,5 % |
-| Número de consultas dos cuidados de saúde primários do SNS com registo ao nível de atividade física e comportamentos sedentários dos utentes (<sup>12</sup>) | 130 mil | 520 mil | 1,2 M |
-| Percentagem da população que nunca pratica desporto (<sup>13</sup>) | 73 % | 60 % | 46 % |
-| Percentagem da população que nunca faz atividade física (<sup>14</sup>) | 72 % | 58 % | 45 % |
-| Percentagem de alunos com prática regular no desporto escolar (<sup>15</sup>) | 19,3 % | 31,3 % | 63,3 % |
-| Número de praticantes inscritos nas federações desportivas (<sup>16</sup>) | 841 mil | 950 mil | 1350 mil |
-| Número de praticantes, do escalão «juniores», inscritos nas federações desportivas (<sup>17</sup>) | 56 mil | 64 mil | 94 mil |
+| Percentagem de excesso de peso infantil em Portugal (10) | 31,9 % | 27,9 % | 19 % |
+| Percentagem de obesidade infantil em Portugal (11) | 13,5 % | 11,2 % | 6,5 % |
+| Número de consultas dos cuidados de saúde primários do SNS com registo ao nível de atividade física e comportamentos sedentários dos utentes (12) | 130 mil | 520 mil | 1,2 M |
+| Percentagem da população que nunca pratica desporto (13) | 73 % | 60 % | 46 % |
+| Percentagem da população que nunca faz atividade física (14) | 72 % | 58 % | 45 % |
+| Percentagem de alunos com prática regular no desporto escolar (15) | 19,3 % | 31,3 % | 63,3 % |
+| Número de praticantes inscritos nas federações desportivas (16) | 841 mil | 950 mil | 1350 mil |
+| Número de praticantes, do escalão «juniores», inscritos nas federações desportivas (17) | 56 mil | 64 mil | 94 mil |
 
 Indicadores de desempenho
 
 | Indicador | Status | Meta 2028 | Ambição 2036 |
 | --- | --- | --- | --- |
-| Diferença na taxa de atividade física entre homens e mulheres (<sup>18</sup>) | 5,0 % | 4,5 % | 2,0 % |
-| Percentagem de mulheres que nunca ou raramente pratica desporto (<sup>19</sup>) | 80 % | 65 % | 49 % |
-| Número de praticantes mulheres inscritas nas federações desportivas (<sup>20</sup>) | 275 mil | 330 mil | 567 mil |
-| Número de praticantes com deficiência inscritos nas federações desportivas (<sup>21</sup>) | 4960 | 5952 | 10226 |
-| Percentagem de mulheres com deficiência inscritas nas federações desportiva (<sup>22</sup>) | 29 % | 32 % | 40 % |
-| Percentagem de jovens (< 18 anos) com deficiência inscritos nas federações desportivas (<sup>23</sup>) | 2 % | 5 % | 17 % |
-| Número de atletas com estatuto de alto rendimento (<sup>24</sup>) | 921 | 940 | 1101 |
-| Percentagem de mulheres com estatuto de alto rendimento (<sup>25</sup>) | 41 % | 44 % | 50 % |
-| Número de medalhas Jogos Olímpicos, Paralímpicos e Surdolímpicos, e Jogos Mundiais (<sup>26</sup>) | 24 | 15 % | 50 % |
+| Diferença na taxa de atividade física entre homens e mulheres (18) | 5,0 % | 4,5 % | 2,0 % |
+| Percentagem de mulheres que nunca ou raramente pratica desporto (19) | 80 % | 65 % | 49 % |
+| Número de praticantes mulheres inscritas nas federações desportivas (20) | 275 mil | 330 mil | 567 mil |
+| Número de praticantes com deficiência inscritos nas federações desportivas (21) | 4960 | 5952 | 10226 |
+| Percentagem de mulheres com deficiência inscritas nas federações desportiva (22) | 29 % | 32 % | 40 % |
+| Percentagem de jovens (< 18 anos) com deficiência inscritos nas federações desportivas (23) | 2 % | 5 % | 17 % |
+| Número de atletas com estatuto de alto rendimento (24) | 921 | 940 | 1101 |
+| Percentagem de mulheres com estatuto de alto rendimento (25) | 41 % | 44 % | 50 % |
+| Número de medalhas Jogos Olímpicos, Paralímpicos e Surdolímpicos, e Jogos Mundiais (26) | 24 | 15 % | 50 % |
 
 Pilares estratégicos
 
@@ -346,28 +354,28 @@ De forma a operacionalizar os pilares estratégicos do Plano Nacional de Desenvo
 | Total de medidas | Medidas-chave |
 | --- | --- |
 | 11 | Criar um Programa Nacional de Formação Contínua de Educadores de Infância para o Domínio da Educação Física |
-| 11 | Tornar obrigatória a avaliação da aptidão física anualmente |
-| 11 | Implementar o Programa UAARE Superior |
+| Tornar obrigatória a avaliação da aptidão física anualmente |  |
+| Implementar o Programa UAARE Superior |  |
 | 9 | Garantir que o aconselhamento breve para a atividade física nos cuidados primários, aos utentes dos grupos prioritários, seja considerado no IDE (Índice de Desempenho das Equipas) das USF |
-| 9 | Criar a Unidade de Business Intelligence (UBI) |
-| 9 | Apoiar clubes e associações desportivas com projetos de inclusão de pessoas com deficiência na prática desportiva qualificada e na oferta de prática desportiva feminina |
+| Criar a Unidade de Business Intelligence (UBI) |  |
+| Apoiar clubes e associações desportivas com projetos de inclusão de pessoas com deficiência na prática desportiva qualificada e na oferta de prática desportiva feminina |  |
 | 11 | Criar um programa de certificação e formação dos clubes e associações desportivas |
-| 11 | Reforçar programas de bolsas de preparação para esperanças olímpicas, paralímpicas e surdolímpicas, para o ciclo de Los Angeles 2028 e Surdolímpico 2029 |
-| 11 | Criar um programa de formação avançada (pós-graduações e mestrados) com instituições de ensino superior |
+| Reforçar programas de bolsas de preparação para esperanças olímpicas, paralímpicas e surdolímpicas, para o ciclo de Los Angeles 2028 e Surdolímpico 2029 |  |
+| Criar um programa de formação avançada (pós-graduações e mestrados) com instituições de ensino superior |  |
 
 Medidas por pilar estratégico
 
 |  | Total de medidas | Medidas-chave |
 | --- | --- | --- |
 | Pilar 4Instalações desportivas | 6 | Requalificar as instalações desportivas no território nacional |
-| Pilar 4Instalações desportivas | 6 | Requalificar e apetrechar a rede de centros de alto rendimento desportivo |
-| Pilar 4Instalações desportivas | 6 | Construir e apetrechar o Centro de Inovação, Investigação e Desenvolvimento Paralímpico do Comité Paralímpico de Portugal |
+| Requalificar e apetrechar a rede de centros de alto rendimento desportivo |  |  |
+| Construir e apetrechar o Centro de Inovação, Investigação e Desenvolvimento Paralímpico do Comité Paralímpico de Portugal |  |  |
 | Pilar 5Políticas e governança do desporto | 4 | Atualizar a Lei de Bases da Atividade Física e do Desporto e rever a legislação estruturante |
-| Pilar 5Políticas e governança do desporto | 4 | Atualizar a Conta Satélite do Desporto |
-| Pilar 5Políticas e governança do desporto | 4 | Divulgar a Carta Desportiva Nacional |
+| Atualizar a Conta Satélite do Desporto |  |  |
+| Divulgar a Carta Desportiva Nacional |  |  |
 | Pilar 6Financiamento do desporto | 3 | Rever o modelo de financiamento do desporto nacional |
-| Pilar 6Financiamento do desporto | 3 | Aumentar o financiamento para o Programa de Preparação Olímpica, Paralímpica e Surdolímpica |
-| Pilar 6Financiamento do desporto | 3 | Rever o estatuto dos benefícios fiscais relativos ao Mecenato Desportivo |
+| Aumentar o financiamento para o Programa de Preparação Olímpica, Paralímpica e Surdolímpica |  |  |
+| Rever o estatuto dos benefícios fiscais relativos ao Mecenato Desportivo |  |  |
 
 Apresentação de medidas
 
@@ -473,59 +481,59 @@ De forma a assegurar uma monitorização cuidada do PNDD, está prevista a elabo
 
 Este modelo de governação constitui, assim, uma arquitetura de coordenação política e acompanhamento técnico, concebida para garantir uma execução eficaz e assegurar o alcance dos objetivos estratégicos do Plano Nacional de Desenvolvimento Desportivo.
 
-(<sup>1</sup>) European Commission. 2022. Special Eurobarometer 525: Sport and Physical Activity. Luxembourg: Publications Office of the European Union.
+(1) European Commission. 2022. Special Eurobarometer 525: Sport and Physical Activity. Luxembourg: Publications Office of the European Union.
 
-(<sup>2</sup>) Instituto Português do Desporto e Juventude. 2025. Estatísticas do Desporto: Contribuir para o conhecimento do sistema desportivo.
+(2) Instituto Português do Desporto e Juventude. 2025. Estatísticas do Desporto: Contribuir para o conhecimento do sistema desportivo.
 
-(<sup>3</sup>) Ibid.
+(3) Ibid.
 
-(<sup>4</sup>) Instituto Português do Desporto e Juventude. 2025. Estatísticas do Desporto: Contribuir para o conhecimento do sistema desportivo.
+(4) Instituto Português do Desporto e Juventude. 2025. Estatísticas do Desporto: Contribuir para o conhecimento do sistema desportivo.
 
-(<sup>5</sup>) Comité Olímpico de Portugal. 2025. Resultados em Jogos Olímpicos.
+(5) Comité Olímpico de Portugal. 2025. Resultados em Jogos Olímpicos.
 
-(<sup>6</sup>) Comité Paralímpico de Portugal. 2025. Histórico das participações portuguesas nos Jogos Paralímpicos.
+(6) Comité Paralímpico de Portugal. 2025. Histórico das participações portuguesas nos Jogos Paralímpicos.
 
-(<sup>7</sup>) Instituto Nacional de Estatística. 2025. Estatísticas da Saúde.
+(7) Instituto Nacional de Estatística. 2025. Estatísticas da Saúde.
 
-(<sup>8</sup>) Instituto Nacional de Saúde Doutor Ricardo Jorge, I. P. 2023. Childhood Obesity Surveillance Initiative: COSI Portugal 2022. Lisboa.
+(8) Instituto Nacional de Saúde Doutor Ricardo Jorge, I. P. 2023. Childhood Obesity Surveillance Initiative: COSI Portugal 2022. Lisboa.
 
-(<sup>9</sup>) Eurostat. 2023. Government expenditure by function for Portugal.
+(9) Eurostat. 2023. Government expenditure by function for Portugal.
 
-(<sup>10</sup>) Instituto Nacional de Saúde Doutor Ricardo Jorge, I. P. 2023. Childhood Obesity Surveillance Initiative: COSI Portugal 2022. Lisboa.
+(10) Instituto Nacional de Saúde Doutor Ricardo Jorge, I. P. 2023. Childhood Obesity Surveillance Initiative: COSI Portugal 2022. Lisboa.
 
-(<sup>11</sup>) Ibid.
+(11) Ibid.
 
-(<sup>12</sup>) Ministério da Saúde. 2023. Programa Nacional para a promoção da atividade física 2023.
+(12) Ministério da Saúde. 2023. Programa Nacional para a promoção da atividade física 2023.
 
-(<sup>13</sup>) European Commission. 2022. Special Eurobarometer 525: Sport and Physical Activity. Luxembourg: Publications Office of the European Union.
+(13) European Commission. 2022. Special Eurobarometer 525: Sport and Physical Activity. Luxembourg: Publications Office of the European Union.
 
-(<sup>14</sup>) Ibid.
+(14) Ibid.
 
-(<sup>15</sup>) Ministério da Educação, Ciência e Inovação (MECI). 2025. Dados Desporto Escolar 21/25. Aguarda publicação.
+(15) Ministério da Educação, Ciência e Inovação (MECI). 2025. Dados Desporto Escolar 21/25. Aguarda publicação.
 
-(<sup>16</sup>) Instituto Português do Desporto e Juventude. 2025. Estatísticas do Desporto: Contribuir para o conhecimento do sistema desportivo.
+(16) Instituto Português do Desporto e Juventude. 2025. Estatísticas do Desporto: Contribuir para o conhecimento do sistema desportivo.
 
-(<sup>17</sup>) Ibid.
+(17) Ibid.
 
-(<sup>18</sup>) European Commission. 2022. Special Eurobarometer 525: Sport and Physical Activity. Luxembourg: Publications Office of the European Union.
+(18) European Commission. 2022. Special Eurobarometer 525: Sport and Physical Activity. Luxembourg: Publications Office of the European Union.
 
-(<sup>19</sup>) Ibid.
+(19) Ibid.
 
-(<sup>20</sup>) Instituto Português do Desporto e Juventude Estatísticas do Desporto: Contribuir para o conhecimento do sistema desportivo.
+(20) Instituto Português do Desporto e Juventude Estatísticas do Desporto: Contribuir para o conhecimento do sistema desportivo.
 
-(<sup>21</sup>) Ibid.
+(21) Ibid.
 
-(<sup>22</sup>) Ibid.
+(22) Ibid.
 
-(<sup>23</sup>) Ibid.
+(23) Ibid.
 
-(<sup>24</sup>) Ibid.
+(24) Ibid.
 
-(<sup>25</sup>) Ibid.
+(25) Ibid.
 
-(<sup>26</sup>) Comité Olímpico de Portugal. 2025. Resultados em Jogos Olímpicos; Comité Paralímpico de Portugal. 2025. Histórico das participações portuguesas nos Jogos Surdolímpicos; Comité Paralímpico de Portugal. 2025. Histórico das participações portuguesas nos Jogos Paralímpicos.
+(26) Comité Olímpico de Portugal. 2025. Resultados em Jogos Olímpicos; Comité Paralímpico de Portugal. 2025. Histórico das participações portuguesas nos Jogos Surdolímpicos; Comité Paralímpico de Portugal. 2025. Histórico das participações portuguesas nos Jogos Paralímpicos.
 
-## ANEXO II — (a que se referem os n.<sup>os</sup>3 e 17)
+## ANEXO II — (a que se referem os n.os3 e 17)
 
 | # | Pilar estratégico | Medida | Descrição da medida a realizar | Área governativa | Entidade responsável | Entidades envolvidas | Início da implementação | Prazo de implementação | Status | Orçamento total | Fonte de financiamento |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -535,7 +543,7 @@ Este modelo de governação constitui, assim, uma arquitetura de coordenação p
 | 4 | Desporto no contexto educativo | Tornar obrigatória a avaliação da aptidão física anualmente | Avaliar a aptidão física nas escolas, implementando o novo portal com um módulo destinado à gestão dos dados da avaliação da aptidão física e do desporto escolar, garantindo que nas aprendizagens essenciais, sobretudo nos descritores de desempenho, a aptidão física é uma das dimensões consideradas. | MECI | AGSE; EduQA | Direções das escolas e professores de Educação Física; MDN | 2.º semestre 2026 | 2028 | Nova medida | n.a. | n.a. |
 | 5 | Desporto no contexto educativo | Consolidar o Programa UAARE nos ensinos básico e secundário | O Programa UAARE visa uma articulação eficaz entre os agrupamentos de escola, os encarregados de educação, as federações desportivas e os municípios, tendo por objetivo conciliar, com sucesso, a atividade escolar com a prática desportiva de alunos-atletas de ensino básico e secundário enquadrados no regime de alto rendimento, seleções nacionais ou elevado potencial desportivo. Assim, pretendemos avaliar o impacto do Programa no sucesso escolar, bem como criar as condições necessárias para que o Programa, de forma eficiente, passe a apoiar todos os alunos-atletas elegíveis. | MECI | EduQA | SED; autarquias; direções de escolas; federações desportivas; | 2.º semestre 2026 | 2028 | Em vigor | 250 000,00 € | Receitas próprias COP e CPP (da transferência de 2024) |
 | 6 | Desporto no contexto educativo | Implementar o Programa UAARE Superior | O projeto-piloto (PP) UAARE Superior (Ensino Superior) foi criado na sequência do Programa UAARE (Ensino Básico e Secundário). Este PP pretende a compatibilização da carreira desportiva com o percurso escolar e académico dos estudantes-atletas (EA). Assim, pretendemos, analisar as necessidades dos alunos-atletas de alto rendimento, estabelecer parcerias com instituições educativas e autoridades desportivas, iniciar o programa UAARE Superior em IES e estabelecer um sistema de avaliação e monitorização do mesmo. | MECI | IES | CRUP & CCISP; federações desportivas; clubes. | 2.º semestre 2026 | 2028 | Anunciada | 750 000,00 € | Receitas próprias COP e CPP (da transferência de 2024) |
-| 7 | Desporto no contexto educativo | Alargar o catálogo da formação contínua dos professores, de modo a permitir a dupla certificação para treinadores | Reformular a oferta de formação contínua para professores, no âmbito do desporto escolar \\| desporto na escola, fomentando a criação de um referencial de dupla certificação de professores. | MCJD | IPDJ; MECI; DE | Federações desportivas; clubes | 2.º Semestre 2027 | 2028 | Nova medida | n.a. | n.a. |
+| 7 | Desporto no contexto educativo | Alargar o catálogo da formação contínua dos professores, de modo a permitir a dupla certificação para treinadores | Reformular a oferta de formação contínua para professores, no âmbito do desporto escolar \| desporto na escola, fomentando a criação de um referencial de dupla certificação de professores. | MCJD | IPDJ; MECI; DE | Federações desportivas; clubes | 2.º Semestre 2027 | 2028 | Nova medida | n.a. | n.a. |
 | 8 | Desporto no contexto educativo | Implementar um programa de investigação para o desenvolvimento desportivo | Criar condições de acesso a apoios (incluindo financeiros) para projetos de investigação aplicada ao desenvolvimento desportivo, visando promover a produção de conhecimento científico aplicado à prática desportiva e decisão política. | MECI |  | IES; UID; COP; CPP; MDN | 2.º semestre 2026 | 2028 | Anunciada | 1 500 000,00 € | Receitas próprias COP e CPP (da transferência de 2024) |
 | 9 | Desporto no contexto educativo | Rever as atividades extracurriculares no 1.º ciclo | Rever a legislação e o modelo de implementação das AEC no 1.º ciclo do ensino básico, de forma a assegurar a oferta em áreas estratégicas como a natação e as atividades com bicicleta, garantindo que as crianças que frequentam as AEC aprendem a nadar e a andar de bicicleta até ao final do ciclo. | MECI | EduQA | Autarquias; direções das escolas; MDN | 2.º semestre 2026 | 2027 | Nova medida | n.a. | n.a. |
 | 10 | Desporto no contexto educativo | Rever o modelo de oferta desportiva e o modelo competitivo no desporto escolar | Organizar a oferta desportiva de forma diversificada e adequada ao perfil etário dos alunos e de acordo com o contexto desportivo da região, de modo a envolver mais alunos na prática desportiva escolar. Assim, pretendemos reformular o modelo competitivo interescolas, alinhar estratégias e otimizar meios e recursos entre a oferta desportiva escolar e a oferta desportiva federada. | MECI | AGSE e EduQA; | Direções das escolas e professores de Educação Física; MDN | 2.º semestre 2026 | 2028 | Nova medida | n.a. | n.a. |
@@ -573,3 +581,7 @@ Este modelo de governação constitui, assim, uma arquitetura de coordenação p
 | 42 | Financiamento do desporto | Rever o modelo de financiamento do desporto nacional | Relacionar o financiamento público, com indicadores de desempenho, direcionado às federações desportivas e demais entidades. | MCJD | IPDJ | MEF; COP; CPP; CDP; associações e federações desportivas | 1.º semestre 2026 | 2026 | Nova medida | 3 000 000,00 € | Receitas próprias IPDJ |
 | 43 | Financiamento do desporto | Aumentar o financiamento para o Programa de Preparação Olímpica, Paralímpica e Surdolímpica | Melhorar as condições de preparação e competição dos atletas integrados nos programas de preparação do ciclo olímpico, paralímpico e surdolímpico - Los Angeles 2028 e Surdolímpicos 2029. | MCJD | IPDJ | COP; CPP; federações desportivas | 1.º semestre 2026 | 2029 | Anunciada | 8 760 000,00 € | Resolução do Conselho de Ministros n.º 195/2025, de 16 de dezembro, e Resolução do Conselho de Ministros n.º 196/2025, de 16 de dezembro |
 | 44 | Financiamento do desporto | Rever o estatuto dos benefícios fiscais relativos ao Mecenato Desportivo | Desenvolver propostas legislativas que contribuam para o reforço do Mecenato, com vista ao estímulo do associativismo desportivo, através do financiamento privado. | MEF | IPDJ | CPP; COP; MEF; AIP; AEP; MECT | 2.º semestre 2026 | 2027 | Nova medida | n.a. | n.a. |
+
+119948007
+
+.Tbl2 { min-height:26px; } .Tbl3 { text-align:center; } .Tbl4 { min-height:18px; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl8 { min-height:28px; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl12 { min-height:27px; } .Tbl13 { min-height:31px; } .Tbl14 { min-height:20px; } .Tbl15 { text-align:justify; text-align-last:justify; } .Tbl16 { background-color:rgb(65,105,255); } .Tbl17 { min-height:53px; } .Tbl18 { min-height:71px; } .Tbl19 { min-height:134px; } .Tbl20 { min-height:130px; } .Tbl21 { min-height:55px; } .Tbl22 { min-height:65px; } .Tbl23 { min-height:74px; } .Tbl24 { min-height:102px; } .Tbl25 { min-height:69px; } .Tbl26 { min-height:122px; } .Tbl27 { min-height:104px; } .Tbl28 { min-height:153px; } .Tbl29 { min-height:137px; } .Tbl30 { min-height:73px; } .Tbl31 { min-height:54px; } .Tbl32 { min-height:63px; } .Tbl33 { min-height:45px; } .Tbl34 { min-height:115px; } .Tbl35 { min-height:62px; } .Tbl36 { min-height:80px; } .Tbl37 { min-height:106px; } .Tbl38 { min-height:91px; } .Tbl39 { min-height:44px; } .Tbl40 { min-height:160px; } .Tbl41 { min-height:99px; } .Tbl42 { min-height:108px; } .Tbl43 { min-height:81px; } .Tbl44 { border-bottom-color:rgb(0,0,0); border-top-col<arel='nofollownoopenernoreferrer'target='_blank'href='/dr/detalhe/resolucao-conselho-ministros/195-2025-986558785'title='ResoluçãodoConselhodeMinistrosn.º195/2025'>ResoluçãodoConselhodeMinistrosn.º195/2025</a>r-top-width:1px; borde<arel='nofollownoopenernoreferrer'target='_blank'href='/dr/detalhe/resolucao-conselho-ministros/196-2025-986558786'title='ResoluçãodoConselhodeMinistrosn.º196/2025'>ResoluçãodoConselhodeMinistrosn.º196/2025</a>rder-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; }

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/21000/0007400083.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/658/2024/10/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/658-2024-893782291
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-29T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22ddb89f71698ea1c8e6566e528dee2c26ef743bf4190aac25808785f05b8d52
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb05b59034f34fbb1df2c7443b8a28f1774131c47b29a5c576338e320eebca39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,14 @@ subjects:
 - IRC
 - Taxa
 relationships:
+- type: amends
+  target: pt:numero:lei:64/2008
+  label: Declara a inconstitucionalidade, com força obrigatória geral e com efeitos a partir de 6 de dezembro de 2008, da
+    norma constante do n.º 1 do artigo 5.º da Lei n.º 64/2008, de 5 de dezembro, Diário da República n.º 236/2008, Série I,
+    no segmento em que faz retroagir a 1 de janeiro de 2008 a alteração da alínea a) do n.º 3 do artigo 81.º do Código do
+    Imposto sobre o Rendimento das Pessoas Coletivas, introduzida pelo artigo 1.º-A da mesma Lei
+  source: null
+  date: '2008-12-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/64/2008/12/05/p/dre
   label: null
@@ -80,13 +88,13 @@ relationships:
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:33Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +109,7 @@ I - Relatório
 
 1 - O representante do Ministério Público junto do Tribunal Constitucional requereu, em conformidade com o disposto no artigo 82.º da Lei de Organização, Funcionamento e Processo do Tribunal Constitucional (Lei n.º 28/82, de 15 de novembro, na redação que lhe foi conferida pela Lei Orgânica n.º 1/2018, de 19 de abril, doravante LTC), a organização de um processo, a tramitar nos termos do processo de fiscalização abstrata e sucessiva da constitucionalidade, com vista à apreciação, pelo Plenário, da constitucionalidade da norma constante do artigo 5.º, n.º 1, da Lei n.º 64/2008, de 5 de dezembro, no segmento em que faz retroagir a 1 de janeiro de 2008 a alteração do artigo 81.º, n.º 3, alínea a), Código do Imposto sobre o Rendimento das Pessoas Coletivas (CIRC), consagrada no artigo 1.º-A do mesmo diploma legal.
 
-Para fundamentar tal pedido, o recorrente alega que a norma em causa foi julgada inconstitucional pelo Tribunal Constitucional em mais de três casos concretos, nomeadamente nos Acórdãos n.<sup>os</sup>617/2012, 85/2013 e 171/2017, bem como nas Decisões Sumárias n.<sup>os</sup>557/2019, 559/2019, 592/2019 e 485/2021, o que permite ter por verificado o pressuposto previsto no n.º 3 do artigo 281.º da Constituição, já que todas as referidas decisões transitaram em julgado.
+Para fundamentar tal pedido, o recorrente alega que a norma em causa foi julgada inconstitucional pelo Tribunal Constitucional em mais de três casos concretos, nomeadamente nos Acórdãos n.os617/2012, 85/2013 e 171/2017, bem como nas Decisões Sumárias n.os557/2019, 559/2019, 592/2019 e 485/2021, o que permite ter por verificado o pressuposto previsto no n.º 3 do artigo 281.º da Constituição, já que todas as referidas decisões transitaram em julgado.
 
 2 - Foi notificada, nos termos conjugados do artigo 54.º e do n.º 3 do artigo 55.º da LTC, a Assembleia da República, na pessoa do respetivo Presidente e em representação do órgão autor da norma.
 
@@ -115,7 +123,7 @@ A. Pressupostos de cognição
 
 4 - O artigo 281.º, n.º 3, da Constituição, estabelece que o Tribunal Constitucional aprecia e declara, com força obrigatória geral, a inconstitucionalidade ou a ilegalidade de normas que tenha julgado inconstitucionais ou ilegais em três casos concretos. O artigo 82.º da LTC, por seu turno, atribui ao Ministério Público legitimidade para requerer a apreciação abstrata da constitucionalidade ou legalidade de normas julgadas inconstitucionais ou ilegais pelo Tribunal em três casos concretos.
 
-Não havendo dúvidas quanto à legitimidade do Ministério Público para formular o pedido sob apreciação, verifica-se também que a norma em causa foi, efetivamente, julgada inconstitucional, em sede de fiscalização concreta, em mais de três casos, designadamente através dos Acórdãos n.<sup>os</sup>617/2012, 85/2013 e 171/2017. Para além destes arestos e das decisões sumárias indicadas no pedido, a norma que integra o objeto do pedido foi ainda julgada inconstitucional no recente Acórdão n.º 387/2023.
+Não havendo dúvidas quanto à legitimidade do Ministério Público para formular o pedido sob apreciação, verifica-se também que a norma em causa foi, efetivamente, julgada inconstitucional, em sede de fiscalização concreta, em mais de três casos, designadamente através dos Acórdãos n.os617/2012, 85/2013 e 171/2017. Para além destes arestos e das decisões sumárias indicadas no pedido, a norma que integra o objeto do pedido foi ainda julgada inconstitucional no recente Acórdão n.º 387/2023.
 
 Acresce não existir divergência quanto ao fundamento da inconstitucionalidade. Em todas as decisões acima mencionadas, a norma constante do artigo 5.º, n.º 1, da Lei n.º 64/2008, de 5 de dezembro, no segmento em que faz retroagir a 1 de janeiro de 2008 a alteração do artigo 81.º, n.º 3, alínea a), Código do Imposto sobre o Rendimento das Pessoas Coletivas (CIRC), consagrada no artigo 1.º-A do mesmo diploma legal, foi julgada inconstitucional por violação da proibição constitucional de impostos retroativos, contida no artigo 103.º, n.º 3, da Constituição.
 
@@ -139,7 +147,7 @@ O artigo 81.º do CIRC, na redação dada pela Lei n.º 55-B/2004, de 30 de deze
 
 [...]".
 
-De acordo com a redação introduzida pelo artigo 1.º-A da Lei n.º 64/2008, de 5 de dezembro, os n.<sup>os</sup>3 e 4 do referido artigo 81.º passaram a ter a seguinte redação:
+De acordo com a redação introduzida pelo artigo 1.º-A da Lei n.º 64/2008, de 5 de dezembro, os n.os3 e 4 do referido artigo 81.º passaram a ter a seguinte redação:
 
 "[...]
 
@@ -147,7 +155,7 @@ De acordo com a redação introduzida pelo artigo 1.º-A da Lei n.º 64/2008, de
 
 a) À taxa de 10 %, os encargos dedutíveis relativos a despesas de representação e os relacionados com viaturas ligeiras de passageiros ou mistas, motos ou motociclos, efetuados ou suportados por sujeitos passivos não isentos subjetivamente e que exerçam, a título principal, atividade de natureza comercial, industrial ou agrícola;
 
-b) À taxa de 5 %, os encargos dedutíveis, suportados pelos sujeitos passivos mencionados no número anterior, respeitantes a viaturas ligeiras de passageiros ou mistas cujos níveis homologados de emissão de CO<sub>2</sub> sejam inferiores a 120 g/km, no caso de serem movidos a gasolina, e inferiores a 90 g/km, no caso de serem movidos a gasóleo, desde que, em ambos os casos, tenha sido emitido certificado de conformidade.
+b) À taxa de 5 %, os encargos dedutíveis, suportados pelos sujeitos passivos mencionados no número anterior, respeitantes a viaturas ligeiras de passageiros ou mistas cujos níveis homologados de emissão de CO2 sejam inferiores a 120 g/km, no caso de serem movidos a gasolina, e inferiores a 90 g/km, no caso de serem movidos a gasóleo, desde que, em ambos os casos, tenha sido emitido certificado de conformidade.
 
 4 - São tributados autonomamente, à taxa de 20 %, os encargos dedutíveis, suportados pelos sujeitos passivos mencionados no número anterior, respeitantes a viaturas ligeiras de passageiros ou mistas cujo custo de aquisição seja superior a € 40 000, quando os sujeitos passivos apresentem prejuízos fiscais nos dois exercícios anteriores àquele a que os referidos encargos digam respeito.
 
@@ -169,9 +177,9 @@ Decorre deste preceito constitucional que qualquer norma fiscal desfavorável (n
 
 Em bom rigor, deve dizer-se que, para além de explicitar um princípio que decorria já de outro constitucionalmente consagrado, o legislador constituinte, na revisão de 1997, veio lançar luz sobre a polémica que povoava a jurisprudência do Tribunal.
 
-As decisões do Tribunal, até 1997, assentavam no seguinte argumento: uma lei fiscal seria inconstitucional (por violação do princípio da confiança) apenas quando imposta a retroactividade em “termos que choquem a consciência jurídica e frustrem as expectativas fundadas dos contribuintes”. Desenvolvendo este critério, disse o Tribunal que a retroactividade das leis fiscais seria constitucionalmente legítima sempre que não ferisse “de forma inadmissível ou intolerável, a certeza e a confiança na ordem jurídica dos cidadãos por ela afectados; ou que não trai[sse], de forma arbitrária e injustificada, as expectativas juridicamente tuteladas e criadas na esfera jurídica dos cidadãos ao abrigo das disposições vigentes à data da ocorrência dos factos que as geraram”. (Cfr. neste sentido, e por exemplo, o Parecer da Comissão Constitucional n.º 25/81, em Pareceres da Comissão Constitucional, 16.º Vol., p. 257; o Parecer n.º 14/82, em Pareceres…, 19.º Vol, p. 183; o Acórdão do Tribunal n.º 11/83, em Acórdãos do Tribunal Constitucional, 1.º Vol. p. 11; o Acórdão n.º 141/85, em Acórdãos …, 6.º Vol., p. 39; e ainda os Acórdãos n.<sup>os</sup>409/89, 216/90, 410/95 e 1006/96, todos disponíveis em www.tribunalconstitucional.pt)
+As decisões do Tribunal, até 1997, assentavam no seguinte argumento: uma lei fiscal seria inconstitucional (por violação do princípio da confiança) apenas quando imposta a retroactividade em “termos que choquem a consciência jurídica e frustrem as expectativas fundadas dos contribuintes”. Desenvolvendo este critério, disse o Tribunal que a retroactividade das leis fiscais seria constitucionalmente legítima sempre que não ferisse “de forma inadmissível ou intolerável, a certeza e a confiança na ordem jurídica dos cidadãos por ela afectados; ou que não trai[sse], de forma arbitrária e injustificada, as expectativas juridicamente tuteladas e criadas na esfera jurídica dos cidadãos ao abrigo das disposições vigentes à data da ocorrência dos factos que as geraram”. (Cfr. neste sentido, e por exemplo, o Parecer da Comissão Constitucional n.º 25/81, em Pareceres da Comissão Constitucional, 16.º Vol., p. 257; o Parecer n.º 14/82, em Pareceres…, 19.º Vol, p. 183; o Acórdão do Tribunal n.º 11/83, em Acórdãos do Tribunal Constitucional, 1.º Vol. p. 11; o Acórdão n.º 141/85, em Acórdãos …, 6.º Vol., p. 39; e ainda os Acórdãos n.os409/89, 216/90, 410/95 e 1006/96, todos disponíveis em www.tribunalconstitucional.pt)
 
-Estes critérios, de natureza necessariamente fluida, levaram a que, em diversos arestos, o Tribunal viesse dar como boas leis fiscais retroactivas. Foi o que sucedeu, por exemplo, nos Acórdãos n.º 11/83 e 66/84 (este último em Acórdãos, 4.º Vol. p. 35) e ainda nos Acórdãos n.<sup>os</sup>67/91, 1006/96, 1204/96 e 416/02 (todos disponíveis em www.tribunalconstitucional.pt). Noutros casos, ao invés, o Tribunal entendeu que, por inexistirem razões de interesse público que prevalecessem sobre o valor da segurança jurídica, as normas retroactivas seriam intoleráveis e, consequentemente, constitucionalmente ilegítimas (Cfr., por exemplo, os Acórdão ns.º 409/89, 216/90, 410/95 e 185/2000, também disponíveis no mesmo lugar).
+Estes critérios, de natureza necessariamente fluida, levaram a que, em diversos arestos, o Tribunal viesse dar como boas leis fiscais retroactivas. Foi o que sucedeu, por exemplo, nos Acórdãos n.º 11/83 e 66/84 (este último em Acórdãos, 4.º Vol. p. 35) e ainda nos Acórdãos n.os67/91, 1006/96, 1204/96 e 416/02 (todos disponíveis em www.tribunalconstitucional.pt). Noutros casos, ao invés, o Tribunal entendeu que, por inexistirem razões de interesse público que prevalecessem sobre o valor da segurança jurídica, as normas retroactivas seriam intoleráveis e, consequentemente, constitucionalmente ilegítimas (Cfr., por exemplo, os Acórdão ns.º 409/89, 216/90, 410/95 e 185/2000, também disponíveis no mesmo lugar).
 
 Uma vez expresso no texto da Constituição a proibição da retroactividade em matéria fiscal, o Tribunal passou a ler esta proibição já não numa dimensão subjectiva (dependendo, em concreto, do contexto dos sujeitos da relação tributária resultante da aplicação da lei) mas antes numa dimensão objectiva. Diz o Tribunal, a este propósito, que à proibição expressa da retroactividade da lei fiscal “não pode deixar de estar ínsita uma garantia forte de objectividade e auto-vinculação do Estado pelo Direito” (Cfr. Acórdão do Tribunal Constitucional n.º 172/2000, in www.tribunalconstitucional.pt)
 
@@ -187,7 +195,7 @@ E, mais adiante:
 
 "[...] dos trabalhos preparatórios da revisão constitucional de 1997 retira-se, por um lado, que o legislador da revisão apenas pretendeu incluir, no n.º 3 do artigo 103.º da CRP, a proibição da retroatividade autêntica, própria ou perfeita da lei fiscal, o que não é contrariado pela letra do preceito, uma vez que o texto constitucional apenas se refere à natureza retroativa tout court. Por outro lado, resulta igualmente dos trabalhos preparatórios, de forma cristalina, que não se pretenderam integrar no preceito as situações em que o facto tributário que a lei nova pretende regular não ocorreu totalmente ao abrigo da lei antiga, antes continuando a formar-se na vigência da lei nova, pelo menos, quando estão em causa impostos diretos relativos ao rendimento (como é claramente o caso dos presentes autos)".
 
-7 - Os Acórdãos n.<sup>os</sup>617/2012 e 85/2013, que se pronunciaram pela inconstitucionalidade da norma que integra o objeto do pedido, aderiram a este entendimento.
+7 - Os Acórdãos n.os617/2012 e 85/2013, que se pronunciaram pela inconstitucionalidade da norma que integra o objeto do pedido, aderiram a este entendimento.
 
 Antes de se ter firmado a orientação jurisprudencial acolhida nos mencionados arestos, o Tribunal submetera a juízos de sentido divergente a norma cuja apreciação é aqui requerida.
 
@@ -255,9 +263,9 @@ Já no Acórdão n.º 85/2013, o Plenário do Tribunal Constitucional foi chamad
 
 A fundamentação do Acórdão n.º 617/2012 viria a ser mais recentemente reiterada, sem considerações adicionais, no Acórdão n.º 387/2023, que julgou uma vez mais inconstitucional, por violação do artigo 103.º, n.º 3, da Constituição, a norma do artigo 5.º, n.º 1, da Lei n.º 64/2008, de 5 de dezembro, no segmento em que faz retroagir a 1 de janeiro de 2008 a alteração do artigo 81.º, n.º 3, alínea a), do Código do Imposto sobre o Rendimento das Pessoas Coletivas, introduzida pelo artigo 1.º-A da mesma Lei.
 
-8 - Para julgar inconstitucional a norma sindicada, os Acórdãos n.<sup>os</sup>617/2012 e 85/2013 aderiram, como se viu, à orientação segundo a qual a proibição de retroatividade da lei criadora de impostos estabelecida no artigo 103.º, n.º 3, da Constituição, não "[...] visou explicitar uma simples refração do princípio geral da proteção da confiança dos cidadãos, inerente a toda a atividade do Estado de direito democrático, mas sim expressar uma regra absoluta de definição do âmbito de validade temporal das leis criadoras ou agravadoras de impostos, prevenindo, assim, a existência de um perigo abstrato de grave violação daquela confiança" (Acórdão n.º 617/2012). Por outro lado, e uma vez mais em linha com a anterior jurisprudência constitucional, limitaram a incidência dessa proibição às hipóteses de retroatividade forte ou autêntica, o mesmo é dizer, com exclusão dos casos de retroatividade inautêntica ou ainda a mera retrospetividade - uma tipologia ou graduação de formas de retroatividade oriunda da doutrina e que a jurisprudência constitucional viria a acolher para delimitar o âmbito da proibição do artigo 103.º, n.º 3, da Constituição.
+8 - Para julgar inconstitucional a norma sindicada, os Acórdãos n.os617/2012 e 85/2013 aderiram, como se viu, à orientação segundo a qual a proibição de retroatividade da lei criadora de impostos estabelecida no artigo 103.º, n.º 3, da Constituição, não "[...] visou explicitar uma simples refração do princípio geral da proteção da confiança dos cidadãos, inerente a toda a atividade do Estado de direito democrático, mas sim expressar uma regra absoluta de definição do âmbito de validade temporal das leis criadoras ou agravadoras de impostos, prevenindo, assim, a existência de um perigo abstrato de grave violação daquela confiança" (Acórdão n.º 617/2012). Por outro lado, e uma vez mais em linha com a anterior jurisprudência constitucional, limitaram a incidência dessa proibição às hipóteses de retroatividade forte ou autêntica, o mesmo é dizer, com exclusão dos casos de retroatividade inautêntica ou ainda a mera retrospetividade - uma tipologia ou graduação de formas de retroatividade oriunda da doutrina e que a jurisprudência constitucional viria a acolher para delimitar o âmbito da proibição do artigo 103.º, n.º 3, da Constituição.
 
-Desta abordagem, subsequentemente reiterada nas Decisões Sumárias n.<sup>os</sup>557/2019 e 559/2019, assim como no Acórdão n.º 387/2023, viria a afastar-se, porém, o Acórdão n.º 171/2017 em benefício da ideia segundo a qual "o n.º 3 do artigo 103.º da Constituição deve ser interpretado como estabelecendo um princípio - no sentido preciso que temos dado a essa expressão - de não-retroatividade da lei fiscal. Significa isto que se deverá lançar mão, neste caso, do método de ponderação que tem sido reservado para os casos de retroatividade dita inautêntica. Ora, tal método consiste essencialmente na aplicação do princípio da proteção da confiança, densificado na jurisprudência do Tribunal Constitucional", designadamente no Acórdão n.º 128/2009. Não obstante, tal aresto, a cuja fundamentação aderiram as Decisões Sumárias n.<sup>os</sup>592/2019 e 485/2021, não deixou de concluir pela inconstitucionalidade, por violação do artigo 103.º, n.º 3, da Constituição, da norma do artigo 5.º, n.º 1, da Lei n.º 64/2008, de 5 de dezembro, no segmento em que faz retroagir a 1 de janeiro de 2008 a alteração, consagrada no artigo 1.º-A desse diploma, do artigo 81.º, n.º 3, alínea a), do Código do Imposto sobre o Rendimento das Pessoas Coletivas, na medida em que, por um lado, considerou "a confiança dos contribuintes que realizaram despesas ao abrigo do regime antigo [...] digna de tutela" e, por outro, que a retroação a 1 de janeiro de 2008 dos efeitos da nova redação conferida à alínea a) do n.º 3 do artigo 81.º do mencionado Código consubstanciava uma lesão excessiva dessa confiança, tendo em conta que "[a] única razão discernível para semelhante solução é a necessidade de o Estado, na etapa finalíssima do ano orçamental, arrecadar receitas fiscais suplementares", sendo certo que, "invocado nesses termos abstratos e utilitários, o interesse público não constitui [...] uma razão válida para que se frustrem as expectativas razoáveis dos cidadãos na estabilidade da sua vida tributária e na confiabilidade da lei fiscal".
+Desta abordagem, subsequentemente reiterada nas Decisões Sumárias n.os557/2019 e 559/2019, assim como no Acórdão n.º 387/2023, viria a afastar-se, porém, o Acórdão n.º 171/2017 em benefício da ideia segundo a qual "o n.º 3 do artigo 103.º da Constituição deve ser interpretado como estabelecendo um princípio - no sentido preciso que temos dado a essa expressão - de não-retroatividade da lei fiscal. Significa isto que se deverá lançar mão, neste caso, do método de ponderação que tem sido reservado para os casos de retroatividade dita inautêntica. Ora, tal método consiste essencialmente na aplicação do princípio da proteção da confiança, densificado na jurisprudência do Tribunal Constitucional", designadamente no Acórdão n.º 128/2009. Não obstante, tal aresto, a cuja fundamentação aderiram as Decisões Sumárias n.os592/2019 e 485/2021, não deixou de concluir pela inconstitucionalidade, por violação do artigo 103.º, n.º 3, da Constituição, da norma do artigo 5.º, n.º 1, da Lei n.º 64/2008, de 5 de dezembro, no segmento em que faz retroagir a 1 de janeiro de 2008 a alteração, consagrada no artigo 1.º-A desse diploma, do artigo 81.º, n.º 3, alínea a), do Código do Imposto sobre o Rendimento das Pessoas Coletivas, na medida em que, por um lado, considerou "a confiança dos contribuintes que realizaram despesas ao abrigo do regime antigo [...] digna de tutela" e, por outro, que a retroação a 1 de janeiro de 2008 dos efeitos da nova redação conferida à alínea a) do n.º 3 do artigo 81.º do mencionado Código consubstanciava uma lesão excessiva dessa confiança, tendo em conta que "[a] única razão discernível para semelhante solução é a necessidade de o Estado, na etapa finalíssima do ano orçamental, arrecadar receitas fiscais suplementares", sendo certo que, "invocado nesses termos abstratos e utilitários, o interesse público não constitui [...] uma razão válida para que se frustrem as expectativas razoáveis dos cidadãos na estabilidade da sua vida tributária e na confiabilidade da lei fiscal".
 
 9 - A orientação jurisprudencial que vem sendo, em geral, seguida desde o Acórdão n.º 617/2012 encontra sólidos pontos de apoio na doutrina especializada, nomeadamente, no que concerne à natureza da tributação autónoma em apreço e qualificação dos factos tributários subjacentes.
 
@@ -269,10 +277,12 @@ E, não menos assertivamente, também Ana Paula Dourado afirma, a respeito do Ac
 
 Consequentemente, e já a respeito do Acórdão n.º 617/2012 - que iniciou toda a jurisprudência subsequente acima descrita -, Ana Paula Dourado considera que "[...] o TC entendeu corretamente que na tributação autónoma em IRC, o facto gerador do imposto é a própria realização da despesa, não se tratando de um facto complexo, de formação sucessiva ao longo de um ano, mas de um facto tributário instantâneo típico dos impostos de obrigação única [...]" (ibidem, pp. 202-203).
 
-10 - Em suma, e como o Tribunal vem decidindo há mais de uma década, a norma sindicada, na medida em que determina a aplicação de norma fiscal mais gravosa a factos tributários pretéritos - porque de natureza instantânea e não de formação sucessiva -, incorre, efetivamente, na violação do artigo 103.º, n.º 3, da Constituição, impondo-se, com base nos fundamentos constantes do Acórdão n.º 617/2012, subsequentemente reiterados nos Acórdãos n.<sup>os</sup>85/2013 e 387/2023, a declaração da respetiva inconstitucionalidade com força obrigatória geral. Tal conclusão, diga-se ainda, não se alteraria mesmo encarando a norma sindicada à luz da fundamentação do Acórdão n.º 171/2017, já que, ainda que por distintas razões, também aí se considerou ocorrer a violação artigo 103.º, n.º 3, da Constituição.
+10 - Em suma, e como o Tribunal vem decidindo há mais de uma década, a norma sindicada, na medida em que determina a aplicação de norma fiscal mais gravosa a factos tributários pretéritos - porque de natureza instantânea e não de formação sucessiva -, incorre, efetivamente, na violação do artigo 103.º, n.º 3, da Constituição, impondo-se, com base nos fundamentos constantes do Acórdão n.º 617/2012, subsequentemente reiterados nos Acórdãos n.os85/2013 e 387/2023, a declaração da respetiva inconstitucionalidade com força obrigatória geral. Tal conclusão, diga-se ainda, não se alteraria mesmo encarando a norma sindicada à luz da fundamentação do Acórdão n.º 171/2017, já que, ainda que por distintas razões, também aí se considerou ocorrer a violação artigo 103.º, n.º 3, da Constituição.
 
 III - Decisão
 
 Em face do exposto, decide-se declarar, com força obrigatória geral, a inconstitucionalidade da norma constante do artigo 5.º, n.º 1, da Lei n.º 64/2008, de 5 de dezembro, no segmento em que faz retroagir a 1 de janeiro de 2008 a alteração do artigo 81.º, n.º 3, alínea a), do Código do Imposto sobre o Rendimento das Pessoas Coletivas, introduzida pelo artigo 1.º-A da mesma Lei.
 
 Lisboa, 1 de outubro de 2024. - Joana Fernandes Costa - Afonso Patrão - António José da Ascensão Ramos - João Carlos Loureiro - José Eduardo Figueiredo Dias - Rui Guerra da Fonseca - Maria Benedita Urbano - José Teles Pereira - Carlos Medeiros de Carvalho - Gonçalo Almeida Ribeiro - Dora Lucas Neto - Mariana Canotilho - José João Abrantes.
+
+118282205

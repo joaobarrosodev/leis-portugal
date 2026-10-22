@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/assento/1-1981-388871
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-04-13T00:00:00Z'
+  retrieved_at: '2026-10-22T18:26:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 424194d3cb74da06ce1e3a5fd704cf65e74ca17e95a5fb8b65a7bcf4674a88b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06bdecad38c641a1170433bcbe716e2ea29603ada76c8f273a9943b1328d8fec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:26:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Banca
+- Cheque
+- Contra-ordenação
+- Crime
+- Direito Penal
+- Interpretação do Direito
+- Pagamento
+- Recurso
+- Responsabilidade Civil
+- Responsabilidade Criminal
+- Sanção Penal
+relationships:
+- type: cites
+  target: pt:dre:252410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398137:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:26:19Z'
   warnings: []
   errors: []
 ---
@@ -143,9 +162,9 @@ Para o preenchimento cabal de tais fins, necessário se tornava adoptar medidas 
 
 Para assegurar essa tutela jurídica foi publicado o Decreto-Lei n.º 13004, de 12 de Janeiro de 1927, que, além do mais, estabelece:
 
-###### Art. 23.º É considerada criminosa a emissão de um cheque que, apresentado a pagamento no prazo do artigo 12.º do presente decreto-lei (hoje artigo 29.º da L. U.), não foi integralmente pago por falta de provisão.
+Art. 23.º É considerada criminosa a emissão de um cheque que, apresentado a pagamento no prazo do artigo 12.º do presente decreto-lei (hoje artigo 29.º da L. U.), não foi integralmente pago por falta de provisão.
 
-###### Art. 24.º Ao sacador de um cheque cujo não pagamento por falta de provisão tiver sido verificado, nos termos e no prazo prescritos nos artigos 21.º e 22.º do presente decreto (hoje artigo 40.º n.os 2 e 3, daquela lei), será aplicada, a pedido do portador do cheque, a pena de seis meses a dois anos de prisão correccional.
+Art. 24.º Ao sacador de um cheque cujo não pagamento por falta de provisão tiver sido verificado, nos termos e no prazo prescritos nos artigos 21.º e 22.º do presente decreto (hoje artigo 40.º n.os 2 e 3, daquela lei), será aplicada, a pedido do portador do cheque, a pena de seis meses a dois anos de prisão correccional.
 
 Por razões de política criminal e natureza económica, designadamente como se diz no relatório «para intensificar o uso do cheque como meio de pagamento e de impedir a saída abusiva de fundos do sistema bancário», foi publicado o [Decreto-Lei n.º 182/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1974-398137), de 2 de Maio, que dispôs no seu artigo 2.º: «O crime de emissão de cheque sem provisão previsto no [Decreto n.º 13004](https://diariodarepublica.pt/dr/detalhe/decreto/13004-1927-252410), de 12 de Janeiro de 1927, passa a ser punido com a pena de dois a oito anos de prisão maior.»
 

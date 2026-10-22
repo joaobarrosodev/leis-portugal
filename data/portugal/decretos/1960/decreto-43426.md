@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43426-1960-513414
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-12-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:21:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f3341c39d8efd2c19d071eb8d00d58e64603366926d1c2c8478de8a83f4ffa8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b401ab14de29953836f33d4084ad239b018f35cd603edfff7f2a0d72c94aad07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:21:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:337818:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:21:48Z'
   warnings: []
   errors: []
 ---
@@ -86,14 +90,14 @@ Reconhecendo-se a necessidade de alterar a redacção do artigo 24.º do Regulam
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. O artigo 24.º do Regulamento da Escola Naval, aprovado pelo [Decreto n.º 41894](https://diariodarepublica.pt/dr/detalhe/decreto/41894-1958-337818), de 7 de Outubro de 1958, toma a redacção seguinte:
+Artigo único. O artigo 24.º do Regulamento da Escola Naval, aprovado pelo [Decreto n.º 41894](https://diariodarepublica.pt/dr/detalhe/decreto/41894-1958-337818), de 7 de Outubro de 1958, toma a redacção seguinte:
 
-###### Art. 24.º Para apuramento e selecção dos candidatos será nomeado, por portaria, um júri constituído pelo director e 1.º comandante, como presidente, e por quatro professores, da Escola Naval ou das escolas universitárias, sendo os primeiros indicados pelo conselho escolar.
+Art. 24.º Para apuramento e selecção dos candidatos será nomeado, por portaria, um júri constituído pelo director e 1.º comandante, como presidente, e por quatro professores, da Escola Naval ou das escolas universitárias, sendo os primeiros indicados pelo conselho escolar.
 
 § 1.º Quando o júri referido no corpo deste artigo decidir que devem ser realizadas provas públicas, poderá o director e 1.º comandante, ouvido o conselho escolar, propor superiormente que o mesmo júri seja aumentado com mais um ou dois professores, da Escola Naval ou das escolas universitárias, sendo os primeiros indicados pelo referido conselho.
 
 § 2.º Não podem fazer parte do júri parentes dos candidatos, em linha recta ou linha colateral, até ao 3.º grau.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Júlio Carlos Alves Dias Botelho Moniz - Fernando Quintanilha Mendonça Dias.

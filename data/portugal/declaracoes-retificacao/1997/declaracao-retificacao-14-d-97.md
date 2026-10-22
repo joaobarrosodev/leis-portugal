@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 175/1997, 3º Suplemento, Série I-A de 1997-07-31
   number: '175'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 4008-(20) a 4008-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/07/175a03/00200020.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/14-d/1997/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-d-1997-484777
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:48:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79d3edc5db182aaef0da073f3707185875803c2a580a61e010d9dde7ef136201
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7cf447db7080cd22f6eec8e96a037549bacb3c3fa19c8a116166fdc581d2e639
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:48:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Escola de Pesca e de Marinha do Comércio
-- Orgânica
 - Estabelecimento de Ensino
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Orgânica
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/322/1993/09/21/p/dre
@@ -93,16 +93,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/45-b/1994/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/45-b/1994/01/15/p/dre
+- type: cites
+  target: pt:dre:473077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655524:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:48:33Z'
   warnings: []
   errors: []
 ---

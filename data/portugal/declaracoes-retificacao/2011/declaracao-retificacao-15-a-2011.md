@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 99/2011, 1º Suplemento, Série I de 2011-05-23
   number: '99'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2900-(2) a 2900-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2011/05/09901/0000200002.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/15-a/2011/05/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-a-2011-655676
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-04-10T00:00:00Z'
+  retrieved_at: '2026-10-22T19:13:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd371b403597aae3ade1cb2c8eb3ead3426df66c6878ace05cca849286c002c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8103d1fc2a926886dc3a90977fa78be6673a97d93e6b3d70e326f2039934981b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:13:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,33 +68,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Totoloto
-- Atribuição de Verba
-- Jogos de Fortuna e Azar
-- Multa
-- Ministério da Administração Interna
-- Ministério da Educação
-- Contra-ordenação
-- Euromilhões
-- Lisboa
-- Instituto Português da Juventude
-- Ministério da Cultura
-- Instituto do Desporto de Portugal
-- Contribuições e Impostos
 - Apostas Mútuas Desportivas
-- Santa Casa da Misericórdia
+- Atribuição de Verba
+- Contra-ordenação
+- Contribuições e Impostos
+- Departamento de Jogos
+- Euromilhões
+- Instituto do Desporto de Portugal
+- Instituto Português da Juventude
+- Jogos de Fortuna e Azar
+- Lisboa
+- Ministério da Administração Interna
+- Ministério da Cultura
+- Ministério da Educação
+- Ministério da Saúde
 - Ministério do Trabalho e Segurança Social
+- Multa
 - Prémio
 - Presidência do Conselho de Ministros
 - Receita
 - Receita Pública
-- Ministério da Saúde
-- Departamento de Jogos
+- Santa Casa da Misericórdia
+- Totoloto
 relationships:
 - type: amended_by
   target: pt:dre:115017488:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115017488:por
+  label: Alterado o art. 3.º do Dec Lei 56/2006 de 15-mar, com a redação do Dec Lei 44/2011 de 24-mar - retificado pela presente
+    declaração, pelo(a) Decreto-Lei n.º 23/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2018-115017488
+  date: '2018-04-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
   label: null
@@ -115,16 +121,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/56/2006/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/56/2006/03/15/p/dre
+- type: cites
+  target: pt:dre:278879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667323:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:13:09Z'
   warnings: []
   errors: []
 ---

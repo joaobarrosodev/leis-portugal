@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/13/2002/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-2002-264923
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-14T00:00:00Z'
+  retrieved_at: '2026-10-22T18:59:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1797fd0f72ea799d8e2deaf4ad839eff8486ffff6234232557238e9e54bd6e12
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: feaf4bde2e00f98dfc9dcb01874e04cbee8048dae79434026a2b7419e29f196b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:59:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Arraiolos
+- Artesanato
+- Centro para a Promoção e Valorização do Tapete de Arraiolos
+- Certificado de Qualidade
 - Comissão Instaladora
-- Indicação Geográfica
-- Denominação de Origem
 - Controlo de Qualidade
 - Criação de Serviços
 - Definição de Competências
-- Artesanato
-- Certificado de Qualidade
-- Centro para a Promoção e Valorização do Tapete de Arraiolos
+- Denominação de Origem
+- Indicação Geográfica
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/7/2002/01/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2002/01/31/p/dre
+- type: cites
+  target: pt:dre:276447:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:59:45Z'
   warnings: []
   errors: []
 ---

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43755-1961-171365
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-06-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:24:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47c7c3102afe89ff2bbcec54cf67ead14bb59610409faf45bd94091f9b60c340
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61a362362b18b9b08ebf26a765dc8a429dc71ed27bdc35b1f88d205d1ec0d636
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:24:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:24:24Z'
   warnings: []
   errors: []
 ---
@@ -89,13 +93,13 @@ Tendo em vista o que dispõe a [Lei n.º 2078](https://diariodarepublica.pt/dr/d
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A zona delimitada no artigo seguinte, situada no distrito de Setúbal, concelho de Almada, fica sujeita a servidão militar, nos termos do artigo 1.º e do § único do artigo 6.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955.
+Artigo 1.º A zona delimitada no artigo seguinte, situada no distrito de Setúbal, concelho de Almada, fica sujeita a servidão militar, nos termos do artigo 1.º e do § único do artigo 6.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955.
 
-###### Art. 2.º A área sobre que incide a servidão militar fica assim delimitada:
+Art. 2.º A área sobre que incide a servidão militar fica assim delimitada:
 
 A norte, pelo rio Tejo, entre Porto do Bucho e o limite oeste do quartel do 3.º grupo misto do regimento de artilharia antiaérea fixa; a sul, pela berma norte da estrada nacional n.º 377-1, desde Murfacém a Covas e, seguidamente, pelo alinhamento recto definido pelo cunhal sudeste da construção de Covas que, junto àquela estrada nacional, se situa hoje mais a nascente e o cunhal este da que se localiza junto ao caminho que liga Costas do Cão a Chanoca de Baixo, a cerca de 450 m daquela povoação; a nascente, pela berma oeste do caminho de Costas do Cão e Chanoca de Baixo, mas só para norte da construção acima referida, e, seguidamente, pelo também já citado limite oeste do quartel do 3.º grupo misto do regimento de artilharia antiaérea fixa; a poente, pela berma este do caminho que, partindo de Murfacém, se dirige à Quinta do Bucho e, seguidamente, pela linha de água que liga aquela Quinta ao Porto do Bucho.
 
-###### Art. 3.º A área sujeita a servidão e definida no artigo 2.º será demarcada na carta militar de Portugal, na escala 1/25000, organizando-se três colecções, com a classificação de secreto, que terão os seguintes destinos:
+Art. 3.º A área sujeita a servidão e definida no artigo 2.º será demarcada na carta militar de Portugal, na escala 1/25000, organizando-se três colecções, com a classificação de secreto, que terão os seguintes destinos:
 
 a) Uma colecção destinada ao Secretariado-Geral da Defesa Nacional;
 
@@ -103,7 +107,7 @@ b) Uma colecção destinada ao Estado-Maior da Armada;
 
 c) Uma colecção destinada à Superintendência dos Serviços da Armada.
 
-###### Art. 4.º Na área delimitada no artigo 2.º e nos termos do artigo 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070) é proibida a execução sem licença da autoridade militar competente, dos trabalhos e actividades seguintes:
+Art. 4.º Na área delimitada no artigo 2.º e nos termos do artigo 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070) é proibida a execução sem licença da autoridade militar competente, dos trabalhos e actividades seguintes:
 
 a) Construções de qualquer natureza, mesmo que sejam enterradas, subterrâneas ou aquáticas;
 
@@ -119,10 +123,10 @@ f) Outros trabalhos ou actividades que possam inequìvocamente prejudicar a segu
 
 § único. A proibição exarada neste artigo não abrange as obras de conservação de edifícios.
 
-###### Art. 5.º Compete ao Ministério da Marinha, pela Superintendência dos Serviços da Armada, ouvido o Estado-Maior da Armada, a concessão das licenças a que se refere o artigo 4.º
+Art. 5.º Compete ao Ministério da Marinha, pela Superintendência dos Serviços da Armada, ouvido o Estado-Maior da Armada, a concessão das licenças a que se refere o artigo 4.º
 
-###### Art. 6.º Das decisões tomadas ao abrigo do artigo 4.º poderão os interessados recorrer para o Ministro da Defesa Nacional.
+Art. 6.º Das decisões tomadas ao abrigo do artigo 4.º poderão os interessados recorrer para o Ministro da Defesa Nacional.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Junho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira.

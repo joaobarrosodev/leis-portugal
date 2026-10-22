@@ -46,26 +46,39 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/155/2026/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2026-1153698589
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:48:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11d787eda4f21f3d357abbb8a5464f4b2dc06f546a97c65e74b0365318c89bf4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ddba5d5fe8cc43702fa99ec445e228a19836a5db18748af717d5a08bf752bda
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:48:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acesso à Informação
+- Autoridade da Mobilidade e dos Transportes
+- ERSE
+- Mobilidade Elétrica
+- Plataforma Eletrónica
+- Prazo
+- Regime Jurídico
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:93/2025
+  label: Altera, a partir de 01 de agosto de 2026, o artigo 44.º do Decreto-Lei n.º 93/2025, de 14 de agosto, Diário da República
+    n.º 156/2025, Série I
+  source: null
+  date: '2025-08-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/39/2010/04/26/p/dre
   label: null
@@ -74,16 +87,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/93/2025/08/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/93/2025/08/14/p/dre
+- type: cites
+  target: pt:dre:614137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928937303:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:48:36Z'
   warnings: []
   errors: []
 ---
@@ -144,12 +165,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de junho de 2026. - Luís Montenegro - Cláudia Maria dos Reis Duarte Melo de Carvalho - Manuel Castro Almeida - Hugo Morato Alface do Espírito Santo - João Manuel do Amaral Esteves.
 
-**Promulgado em 15 de julho de 2026.**
+Promulgado em 15 de julho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 16 de julho de 2026.**
+Referendado em 16 de julho de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119949203

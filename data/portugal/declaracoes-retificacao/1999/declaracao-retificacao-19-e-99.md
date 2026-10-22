@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 279/1999, 2º Suplemento, Série I-A de 1999-11-30
   number: '279'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 8508-(11) a 8508-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/19-e/1999/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-e-1999-484581
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-06-19T00:00:00Z'
+  retrieved_at: '2026-10-22T18:54:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a54c76f4d162c80828b304ca8fb343a8a6f002d7f5bbf137c3dbd79e928ad0be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de07dcf60c1451d32a3c1df3ddbaef06676ac57f9791f9de89dd83d66315de86
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:54:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,30 +68,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Admissão de Pessoal
-- Consulado
-- Estatuto
-- Sistema Retributivo
+- Avaliação do Pessoal
 - Carreira Profissional
+- Consulado
+- Duração do Trabalho
+- Estatuto
+- Faltas
 - Férias
-- Recrutamento de Pessoal
-- Remuneração Acessória
+- Funcionário Público
+- Horário de Trabalho
 - Horas Extraordinárias
 - Integração de Trabalhadores
-- Faltas
+- Ministério dos Negócios Estrangeiros
 - Missão Diplomática
+- Mobilidade de Pessoal
 - Pessoal Administrativo
 - Pessoal de Chefia
 - Pessoal Técnico
 - Prémio de Antiguidade
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Reestruturação de Carreiras
-- Duração do Trabalho
-- Horário de Trabalho
-- Mobilidade de Pessoal
-- Ministério dos Negócios Estrangeiros
+- Remuneração Acessória
 - Segurança Social
-- Avaliação do Pessoal
-- Funcionário Público
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:358949:por
@@ -101,16 +101,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/444/1999/11/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/444/1999/11/03/p/dre
+- type: cites
+  target: pt:dre:694069:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:54:11Z'
   warnings: []
   errors: []
 ---
@@ -171,26 +175,26 @@ Auxiliar de serviço (nível 2). - Realiza a limpeza e arrumação das instalaç
 
 Tabela indiciária 1
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)
 
 Países abrangidos:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)
 
 Tabela indiciária 2
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)
 
 Países abrangidos:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)
 
 Tabela indiciária 3
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)
 
 Países abrangidos:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279a02/00110015.pdf)
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 22 de Novembro de 1999. - O Secretário-Geral, Alexandre Figueiredo.

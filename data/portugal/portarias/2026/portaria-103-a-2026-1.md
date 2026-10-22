@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/103-a/2026/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/103-a-2026-1065989735
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-03T00:00:00Z'
+  retrieved_at: '2026-10-22T18:34:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4edc8a7630027fc36504bfa1a23c101a45af0ad7d5ddd778b6cf1d897a086e76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e44e166839a69687bfdb51800bafdfcd957bf5dd1b90301dc28b80f44f49fdb0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:34:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vida Selvagem
 - Berlengas
-- Ordenamento do Território
-- Proteção dos Animais
-- Regulamentação de Atos Legislativos
-- Proteção do Ambiente
 - Diversidade Biológica
 - Espécie Protegida
+- Ordenamento do Território
+- Proteção do Ambiente
+- Proteção dos Animais
 - Recursos Naturais
+- Regulamentação de Atos Legislativos
+- Vida Selvagem
 - ZONA de Protecção Especial das Ilhas Berlengas
 - Zona Especial de Conservação
 relationships:
@@ -101,16 +101,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
+- type: cites
+  target: pt:dre:1051282286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130273578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:34:29Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +143,7 @@ validation:
 
 de 3 de março
 
-O [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, procedeu à designação como Zona Especial de Conservação (ZEC) do Sítio de Importância Comunitária (SIC) Arquipélago da Berlenga (PTCON0006), identificando a respetiva área e coordenadas geográficas, assim como a sua localização e limites geográficos. O referido diploma determinou, ainda, que as medidas e ações complementares de conservação de habitats e espécies são definidas em planos de gestão, a aprovar por portaria nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.<sup>os</sup>[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro.
+O [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, procedeu à designação como Zona Especial de Conservação (ZEC) do Sítio de Importância Comunitária (SIC) Arquipélago da Berlenga (PTCON0006), identificando a respetiva área e coordenadas geográficas, assim como a sua localização e limites geográficos. O referido diploma determinou, ainda, que as medidas e ações complementares de conservação de habitats e espécies são definidas em planos de gestão, a aprovar por portaria nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.os[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro.
 
 Posteriormente, o [Decreto-Lei n.º 48/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2026-1051282286), de 16 de fevereiro, completou o processo de classificação da ZEC Arquipélago da Berlenga, ao contemplar no respetivo plano de gestão a identificação dos tipos de habitat naturais e seminaturais e das espécies da flora e fauna selvagens protegidos, constantes dos anexos i e ii da Diretiva Habitats com presença significativa na sua área, e fixar, em função das características específicas do seu território e das exigências ecológicas desses tipos de habitat e espécies, objetivos de conservação direcionados à manutenção ou ao restabelecimento do seu estado de conservação favorável. Com vista à prossecução dos objetivos fixados, o referido decreto-lei definiu, ainda, medidas de conservação de natureza preventiva e regulamentar, necessárias para evitar a deterioração dos tipos de habitat naturais e seminaturais e dos habitats das espécies protegidas e com presença significativa na ZEC, assim como a perturbação significativa dessas espécies, as quais se tipificam em medidas de ordenamento do território e medidas de gestão.
 
@@ -141,7 +165,7 @@ A presente portaria aprova o plano de gestão da Zona Especial de Conservação 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 3 de março de 2026. - O Ministro da Agricultura e Mar, José Manuel Fernandes, em 2 de março de 2026.**
+A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 3 de março de 2026. - O Ministro da Agricultura e Mar, José Manuel Fernandes, em 2 de março de 2026.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -159,7 +183,8 @@ Quadro 1 - Unidades territoriais abrangidas pela ZEC Arquipélago da Berlenga
 
 (Fonte: CAOP 2019)
 
-![](https://files.diariodarepublica.pt/images/1065989735/1065995107.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1065989735/1065995107.png) |
+| --- |
 
 Figura 1 - Enquadramento territorial da ZEC Arquipélago da Berlenga
 
@@ -211,13 +236,13 @@ A integridade ecológica da ZEC fica, deste modo, enquadrada pelo conjunto dos o
 
 Quadro 4 - Objetivos de conservação para a gestão da ZEC
 
-| Objetivos de conservação | Indicadores | Metas |
+| Tipos de habitat de ambientes aerohalinos (arribas litorais) e das espécies Armeria berlengensis e Herniaria lusitanica subsp. berlengiana |  |  |
 | --- | --- | --- |
-| Tipos de habitat de ambientes aerohalinos (arribas litorais) e das espécies Armeria berlengensis e Herniaria lusitanica subsp. berlengiana | Tipos de habitat de ambientes aerohalinos (arribas litorais) e das espécies Armeria berlengensis e Herniaria lusitanica subsp. berlengiana | Tipos de habitat de ambientes aerohalinos (arribas litorais) e das espécies Armeria berlengensis e Herniaria lusitanica subsp. berlengiana |
+| Objetivos de conservação | Indicadores | Metas |
 | 1. Manter o grau de conservação do habitat 1230 Falésias com vegetação das costas atlânticas e bálticas e a área ocupada pelo habitat | • Área de habitat com estrutura bem conservada (ha):− Presença de duas ou mais espécies típicas de entre o seguinte elenco:. Crithmum maritimum.Silene uniflora subsp. uniflora. Angelica pachycarpa. Asplenium marinum. Armeria berlengensis. Spergularia rupicola• Área ocupada pelo habitat (ha) | • Manter a área de ocorrência do habitat em boa condição ecológica |
 | 2. Aumentar o tamanho da população de Armeria berlengensis | • N.º de indivíduos | • Aumentar o efetivo populacional |
 | 3. Manter o grau de conservação do habitat de Herniaria lusitanica subsp. berlengiana | • N.º de casais de Larus michahellis• N.º de ratos e coelhos• Nível de pisoteio | • Manter o n.º de casais de Larus michahellis inferior a 2000 na ilha da Berlenga• Assegurar a inexistência de ratos e coelhos• Manter o controlo do pisoteio, restringindo-o aos trilhos autorizados |
-| Tipo de habitat 1430 - Matos halonitrófilos (Pegano-Salsoletea) | Tipo de habitat 1430 - Matos halonitrófilos (Pegano-Salsoletea) | Tipo de habitat 1430 - Matos halonitrófilos (Pegano-Salsoletea) |
+| Tipo de habitat 1430 - Matos halonitrófilos (Pegano-Salsoletea) |  |  |
 | Objetivos de conservação | Indicadores | Metas |
 | 1. Manter o grau de conservação do habitat 1430 Matos halonitrófilos (Pegano-Salsoletea) | • Área de habitat com estrutura bem conservada (ha):− Dominância da espécie típica Frankenia laevis• Área ocupada pelo habitat (ha) | • Manter a área ocupada pelo habitat em boa condição ecológica |
 
@@ -231,10 +256,10 @@ A informação relevante para a execução das medidas de conservação compleme
 
 Quadro 5 - Quadro operacional das medidas de conservação complementares
 
-| Medida | Relevância* | Indicador de realização | Meta | Entidade responsável | Entidades envolvidas | Início | Fim |
+| Medida | Relevância* | Indicador de realização | Meta | Entidade responsável | Entidades envolvidas | Calendarização |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Medida | Relevância* | Indicador de realização | Meta | Entidade responsável | Entidades envolvidas | Calendarização | Calendarização |
-| MC1. Erradicar o chorão (Carpobrotus edulis) na ilha da Berlenga. | 1 | Área ocupada | 0 m<sup>2</sup> | ICNF | ONGA,Município de Peniche. | Ano 1 | Ano 10 |
+| Início | Fim |  |  |  |  |  |  |
+| MC1. Erradicar o chorão (Carpobrotus edulis) na ilha da Berlenga. | 1 | Área ocupada | 0 m2 | ICNF | ONGA,Município de Peniche. | Ano 1 | Ano 10 |
 | MC2. Manter a população reprodutora de gaivota-de-patas-amarelas entre inferior a 2000 casais na Ilha da Berlenga. | 1 | N.º de casais | Inferior a 2000 casais na ilha da Berlenga. | ICNF | ONGA | Ano 1 | Ano 10 |
 | MC3. Erradicar/controlar os indivíduos de espécies alóctones invasoras e ruderais mais prejudiciais à estrutura dos tipos de habitat e à flora alvo. | 1 | Área ocupada pelas 3 espécies alóctones/ruderais mais prejudiciais. | Reduzir em 50 % a área de ocupação das 2 ou 3 espécies mais prejudiciais. | ICNF | Escola Superior de Turismo e Tecnologia do Mar - Instituto Politécnico de Leiria (ESTTM-IPL),ONGA,Instituições académicas. | Ano 1 | Ano 10 |
 | MC4. Avaliar o impacto do chorão sobre os valores alvo no ilhéu Farilhão Grande. | 2 | Relatório | Relatório concluído no ano 8 de vigência do plano. | ICNF | ONGA,Instituições académicas. | Ano 1 | Ano 8 |
@@ -242,13 +267,13 @@ Quadro 5 - Quadro operacional das medidas de conservação complementares
 | MC6. Monitorizar as espécies de flora na ilha da Berlenga. | 1 | Relatórios | Relatórios apresentados nos anos 2, 6 e 10, incluindo análise da evolução global da vegetação e proposta de eventuais novas medidas de conservação. | ICNF | Escola Superior de Turismo e Tecnologia do Mar - Instituto Politécnico de Leiria (ESTTM-IPL),ONGA,Instituições académicas. | Ano 2 | Ano 10 |
 | MC7. Monitorizar a evolução dos efetivos populacionais de Armeria berlengensis e de Herniaria lusitanica subsp. berlengiana presentes no Farilhão Grande. | 1 | Relatórios | Relatórios apresentados nos anos 1, 3, 6 e 9. | ICNF | Escola Superior de Turismo e Tecnologia do Mar - Instituto Politécnico de Leiria (ESTTM-IPL),Instituições académicas. | Ano 1 | Ano 10 |
 | MC8. Implementar protocolos visando a multiplicação de Armeria berlengensis e Herniaria lusitanica subsp. berlengiana para reforço populacional na ilha da Berlenga. | 1 | Relatório de aplicação de protocolos. | Protocolos para multiplicação testados e consolidados. | Escola Superior de Turismo e Tecnologia do Mar - Instituto Politécnico de Leiria (ESTTM-IPL). | ICNF | Ano 1 | Ano 5 |
-| MC8. Implementar protocolos visando a multiplicação de Armeria berlengensis e Herniaria lusitanica subsp. berlengiana para reforço populacional na ilha da Berlenga. | 1 | Percentagem de taxa de germinação de Armeria berlengensis e de Herniaria lusitanica subsp. berlengiana. | Multiplicação bem-sucedida, com taxa de germinação de Armeria berlengensis superior a 20 % e de Herniaria lusitanica subsp. berlengiana superior a 10 %. | Escola Superior de Turismo e Tecnologia do Mar - Instituto Politécnico de Leiria (ESTTM-IPL). | ICNF | Ano 1 | Ano 5 |
-| MC8. Implementar protocolos visando a multiplicação de Armeria berlengensis e Herniaria lusitanica subsp. berlengiana para reforço populacional na ilha da Berlenga. | 1 | Percentagem de implantação de propágulos viáveis. | Implantação in situ de 100 % dos propágulos viáveis. | Escola Superior de Turismo e Tecnologia do Mar - Instituto Politécnico de Leiria (ESTTM-IPL). | ICNF | Ano 1 | Ano 5 |
+| Percentagem de taxa de germinação de Armeria berlengensis e de Herniaria lusitanica subsp. berlengiana. | Multiplicação bem-sucedida, com taxa de germinação de Armeria berlengensis superior a 20 % e de Herniaria lusitanica subsp. berlengiana superior a 10 %. |  |  |  |  |  |  |
+| Percentagem de implantação de propágulos viáveis. | Implantação in situ de 100 % dos propágulos viáveis. |  |  |  |  |  |  |
 | MC9. Colmatar as lacunas de conhecimento de modo a permitir estabelecer um objetivo de conservação e a determinar a necessidade de medidas de gestão ativa para o habitat 8330. | 2 | Relatórios | Relatórios apresentados nos anos 3, 6 e 9. | ICNF | Escola Superior de Turismo e Tecnologia do Mar - Instituto Politécnico de Leiria (ESTTM-IPL),Entidades capacitadas para mergulho em gruta no mar. | Ano 1 | Ano 10 |
 | MC10. Colmatar as lacunas de conhecimento de modo a permitir estabelecer um objetivo de conservação e a determinar a necessidade de medidas de gestão ativa para o habitat 1310. | 2 | Relatórios | Relatórios apresentados nos anos 3, 6 e 9. | ICNF | Instituições académicas. | Ano 1 | Ano 10 |
 | MC11. Estabilizar a falésia sobranceira à praia do Carreiro do Mosteiro na ilha da Berlenga. | 1 | Estrutura de estabilização colocada. | Falésia estabilizada até ao ano 10. | ICNF | ONGA,Município de Peniche,Agência Portuguesa do Ambiente (APA). | Ano 1 | Ano 10 |
 | MC12. Estabelecer e consolidar os critérios e parâmetros de quantificação e avaliação dos objetivos de conservação, e os recursos necessários para a execução das medidas de conservação. | 1 | Quadro de densificação dos objetivos de conservação, indicadores e metas. | Quadros aprovados pela(s) entidade(s) responsável(eis) pelo plano de gestão até ao final do 2.º ano de execução do plano. | ICNF | Escola Superior de Turismo e Tecnologia do Mar - Instituto Politécnico de Leiria (ESTTM-IPL),Instituições académicas. | Ano 1 | Ano 2 |
-| MC12. Estabelecer e consolidar os critérios e parâmetros de quantificação e avaliação dos objetivos de conservação, e os recursos necessários para a execução das medidas de conservação. | 1 | Quadro de estimativa preliminar dos recursos financeiros, humanos e técnicos para os primeiros cinco anos de execução do plano. | Quadros aprovados pela(s) entidade(s) responsável(eis) pelo plano de gestão até ao final do 2.º ano de execução do plano. | ICNF | Escola Superior de Turismo e Tecnologia do Mar - Instituto Politécnico de Leiria (ESTTM-IPL),Instituições académicas. | Ano 1 | Ano 2 |
+| Quadro de estimativa preliminar dos recursos financeiros, humanos e técnicos para os primeiros cinco anos de execução do plano. |  |  |  |  |  |  |  |
 | MC13. Manter ativo o protocolo de biossegurança e as medidas em vigor implementadas no projeto LIFE Berlengas. | 1 | N.º de indivíduos capturados nas armadilhas específicas. | Zero indivíduos de coelho e rato. | ICNF | Município de Peniche, ONGA. | Ano 1 | Ano 10 |
 | MC14. Valorizar e melhorar infraestruturas e equipamentos de apoio à visitação. | 1 | % de progresso | Ações executadas em 50 % no ano 2 e em 50 % no ano 3. | ICNF | Município de Peniche. | Ano 2 | Ano 3 |
 
@@ -278,40 +303,58 @@ O Quadro 6 estabelece a correspondência entre as medidas de conservação compl
 
 Quadro 6 - Modelo de matriz de avaliação final da implementação do plano de gestão
 
-| Tipos de habitat de ambientes aerohalinos (arribas litorais) e das espécies Armeria berlengensis e Herniaria lusitanica subsp. berlengiana | Tipos de habitat de ambientes aerohalinos (arribas litorais) e das espécies Armeria berlengensis e Herniaria lusitanica subsp. berlengiana | Tipos de habitat de ambientes aerohalinos (arribas litorais) e das espécies Armeria berlengensis e Herniaria lusitanica subsp. berlengiana | Tipos de habitat de ambientes aerohalinos (arribas litorais) e das espécies Armeria berlengensis e Herniaria lusitanica subsp. berlengiana | Tipos de habitat de ambientes aerohalinos (arribas litorais) e das espécies Armeria berlengensis e Herniaria lusitanica subsp. berlengiana | Tipos de habitat de ambientes aerohalinos (arribas litorais) e das espécies Armeria berlengensis e Herniaria lusitanica subsp. berlengiana | Tipos de habitat de ambientes aerohalinos (arribas litorais) e das espécies Armeria berlengensis e Herniaria lusitanica subsp. berlengiana | Tipos de habitat de ambientes aerohalinos (arribas litorais) e das espécies Armeria berlengensis e Herniaria lusitanica subsp. berlengiana | Tipos de habitat de ambientes aerohalinos (arribas litorais) e das espécies Armeria berlengensis e Herniaria lusitanica subsp. berlengiana |
+| Tipos de habitat de ambientes aerohalinos (arribas litorais) e das espécies Armeria berlengensis e Herniaria lusitanica subsp. berlengiana |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Objetivo de conservação[Indicador de resultado] | Meta | Meta alcançada | Medida de conservação complementar | Indicador de realização | Realização atingida/ meta | Grau de execução(não iniciada/em curso/concluída) | Revisão(Manter/Não manter/Altera) | Obs. |
 |  |  |  |  |  |  |  |  |  |
-| Tipo de habitat 1430 - Matos halonitrófilos (Pegano-Salsoletea) | Tipo de habitat 1430 - Matos halonitrófilos (Pegano-Salsoletea) | Tipo de habitat 1430 - Matos halonitrófilos (Pegano-Salsoletea) | Tipo de habitat 1430 - Matos halonitrófilos (Pegano-Salsoletea) | Tipo de habitat 1430 - Matos halonitrófilos (Pegano-Salsoletea) | Tipo de habitat 1430 - Matos halonitrófilos (Pegano-Salsoletea) | Tipo de habitat 1430 - Matos halonitrófilos (Pegano-Salsoletea) | Tipo de habitat 1430 - Matos halonitrófilos (Pegano-Salsoletea) | Tipo de habitat 1430 - Matos halonitrófilos (Pegano-Salsoletea) |
+| Tipo de habitat 1430 - Matos halonitrófilos (Pegano-Salsoletea) |  |  |  |  |  |  |  |  |
 | Objetivo de conservação[Indicador de resultado] | Meta | Meta alcançada | Medida de conservação complementar | Indicador de realização | Realização atingida/ meta | Grau de execução(não iniciada/em curso/concluída) | Revisão(Manter/Não manter/Altera) | Obs. |
 |  |  |  |  |  |  |  |  |  |
 
 Fichas de Medidas de Conservação Complementares
 
-![](https://files.diariodarepublica.pt/images/1065989735/1065995108.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1065989735/1065995108.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1065989735/1065995109.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1065989735/1065995109.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1065989735/1065995110.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1065989735/1065995110.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1065989735/1065995111.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1065989735/1065995111.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1065989735/1065995112.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1065989735/1065995112.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1065989735/1065995113.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1065989735/1065995113.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1065989735/1065995114.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1065989735/1065995114.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1065989735/1065995115.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1065989735/1065995115.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1065989735/1065995116.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1065989735/1065995116.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1065989735/1065995117.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1065989735/1065995117.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1065989735/1065995118.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1065989735/1065995118.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1065989735/1065995119.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1065989735/1065995119.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1065989735/1065995120.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1065989735/1065995120.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1065989735/1065995121.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1065989735/1065995121.png) |
+| --- |
+
+119947902
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:17px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl9 { border-collapse:collapse; border-width:2px; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl12 { min-height:18px; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl15 { min-height:33px; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl17 { min-height:140px; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl19 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl20 { margin-top:3px; } .Tbl21 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl22 { min-height:28px; } .Tbl23 { min-height:87px; } .Tbl24 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl25 { min-height:68px; } .Tbl26 { min-height:26px; } .Tbl27 { min-height:27px; } .Tbl28 { min-height:57px; } .Tbl29 { min-height:61px; } .Tbl30 { min-height:45px; } .Tbl31 { min-height:24px; } .Tbl32 { min-height:59px; } .Tbl33 { min-height:53px; } .Tbl34 { min-height:37px; } .Tbl35 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl36 { min-height:43px; } .Tbl37 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(197,197,197); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl38 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(197,197,197); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl39 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; }

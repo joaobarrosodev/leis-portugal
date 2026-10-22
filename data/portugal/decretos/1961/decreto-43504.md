@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43504-1961-555827
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-02-11T00:00:00Z'
+  retrieved_at: '2026-10-22T19:22:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2121496f00c22266b80bdd03e913d5d7cc4e231af91ea94a8d1a24eece419f7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b045b5172601f9847a301c5ccd56e07779975e26712c536e4d36ed615916e6f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:22:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:542816:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:22:23Z'
   warnings: []
   errors: []
 ---
@@ -88,9 +92,9 @@ Considerando que é à Direcção da Marinha Mercante que cabe a responsabilidad
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. O artigo 3.º do [Decreto n.º 9902](https://diariodarepublica.pt/dr/detalhe/decreto/9902-1924-542816), de 5 de Julho de 1924, passa a ter a seguinte redacção:
+Artigo único. O artigo 3.º do [Decreto n.º 9902](https://diariodarepublica.pt/dr/detalhe/decreto/9902-1924-542816), de 5 de Julho de 1924, passa a ter a seguinte redacção:
 
-###### Art. 3.º A regra II e o processo especial de arqueações serão aplicados por peritos da Repartição Técnica da Direcção da Marinha Mercante, excepto nos seguintes casos:
+Art. 3.º A regra II e o processo especial de arqueações serão aplicados por peritos da Repartição Técnica da Direcção da Marinha Mercante, excepto nos seguintes casos:
 
 a) Em embarcações de pesca sem motor de nham comprimento de fora a fora, inferior a 14 m;
 
@@ -104,6 +108,6 @@ d) Em casos de necessidade, autorizados, caso por caso, pelo director-geral da M
 
 2.º O valor do módulo, produto das dimensões de sinal das embarcações da pesca da sardinha, verificado quando das respectivas arqueações, constará dos respectivos certificados de arqueação.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 11 de Fevereiro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Fernando Quintanilha Mendonça Dias.

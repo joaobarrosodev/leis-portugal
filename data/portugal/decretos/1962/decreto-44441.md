@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44441-1962-164617
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-02-22T00:00:00Z'
+  retrieved_at: '2026-10-22T19:30:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0cf2a1fe9c0652527062133d2c63d3a69318930bbc415c097601eee0d6dcb2a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 561ab5b8ca15eff2b356c80bf972686dd635b7405c61a032de5656c4f8145e4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:30:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,24 @@ relationships:
   target: pt:dre:446545:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:282138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429587:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:30:01Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +102,9 @@ Considerando que devem ser também uniformizadas nos dois Decretos n.os 42508 e 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 4.º e 6.º do [Decreto n.º 42508](https://diariodarepublica.pt/dr/detalhe/decreto/42508-1959-429587), de 16 de Setembro de 1959, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 4.º e 6.º do [Decreto n.º 42508](https://diariodarepublica.pt/dr/detalhe/decreto/42508-1959-429587), de 16 de Setembro de 1959, passam a ter a seguinte redacção:
 
-###### Art. 4.º Para estudar a contínua actualização do regulamento é criada a comissão permanente de uniformes, com a seguinte constituição: oficial delegado da 1.ª Repartição da Direcção do Serviço do Pessoal, oficial delegado do Corpo de Marinheiros da Armada, director de instrução da Escola de Fuzileiros, director de instrução da Escola de Alunos Marinheiros, oficial delegado da Direcção do Serviço de Saúde Naval e chefe do Depósito de Fardamento da Armada.
+Art. 4.º Para estudar a contínua actualização do regulamento é criada a comissão permanente de uniformes, com a seguinte constituição: oficial delegado da 1.ª Repartição da Direcção do Serviço do Pessoal, oficial delegado do Corpo de Marinheiros da Armada, director de instrução da Escola de Fuzileiros, director de instrução da Escola de Alunos Marinheiros, oficial delegado da Direcção do Serviço de Saúde Naval e chefe do Depósito de Fardamento da Armada.
 
 § 1.º Esta comissão será presidida pelo oficial mais antigo e será secretariada pelo chefe do Depósito de Fardamento da Armada; reunirá no edifício deste Depósito por convocação do presidente a pedido de algum dos seus membros.
 
@@ -104,16 +112,16 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 6.º As alterações a este regulamento, se compatíveis com as disposições legais vigentes, serão publicadas em portaria, salvo tratando-se de alterações com carácter experimental, que poderão ser aprovadas, a título temporário, por despacho do Ministro da Marinha.
+Art. 6.º As alterações a este regulamento, se compatíveis com as disposições legais vigentes, serão publicadas em portaria, salvo tratando-se de alterações com carácter experimental, que poderão ser aprovadas, a título temporário, por despacho do Ministro da Marinha.
 
-###### Art. 2.º Os artigos 4.º e 6.º do [Decreto n.º 42862](https://diariodarepublica.pt/dr/detalhe/decreto/42862-1960-282138), de 25 de Fevereiro de 1960, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 4.º e 6.º do [Decreto n.º 42862](https://diariodarepublica.pt/dr/detalhe/decreto/42862-1960-282138), de 25 de Fevereiro de 1960, passam a ter a seguinte redacção:
 
-###### Art. 4.º À comissão permanente de uniformes, criada pelo [Decreto n.º 42508](https://diariodarepublica.pt/dr/detalhe/decreto/42508-1959-429587), de 16 de Setembro de 1959, compete estudar a contínua actualização do plano.
+Art. 4.º À comissão permanente de uniformes, criada pelo [Decreto n.º 42508](https://diariodarepublica.pt/dr/detalhe/decreto/42508-1959-429587), de 16 de Setembro de 1959, compete estudar a contínua actualização do plano.
 
 ...
 
-###### Art. 6.º As alterações a este plano, se compatíveis com as disposições legais vigentes, serão publicadas em portaria, salvo tratando-se de alterações com carácter experimental, que poderão ser aprovadas, a título temporário, por despacho do Ministro da Marinha.
+Art. 6.º As alterações a este plano, se compatíveis com as disposições legais vigentes, serão publicadas em portaria, salvo tratando-se de alterações com carácter experimental, que poderão ser aprovadas, a título temporário, por despacho do Ministro da Marinha.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Julho de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Fernando Quintanilha Mendonça Dias.

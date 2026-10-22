@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43055-1960-502445
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-07-08T00:00:00Z'
+  retrieved_at: '2026-10-22T19:18:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e872766bd6fa6f78cfe393564bdda9b4a8691dd5bf619529b195a21653ff2b9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f5d5a7dce3f3424ef150dd7137126ba005f27cbc8c37b71f5d3c0dcbddc1319
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:18:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:504339:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:18:46Z'
   warnings: []
   errors: []
 ---
@@ -84,13 +88,13 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A Ordem do Infante D. Henrique, criada pelo [Decreto-Lei n.º 43001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43001-1960-504339), de 2 de Junho de 1960, terá os seguintes graus: grã-cruz, grande-oficial, comendador, oficial e cavaleiro.
+Artigo 1.º A Ordem do Infante D. Henrique, criada pelo [Decreto-Lei n.º 43001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43001-1960-504339), de 2 de Junho de 1960, terá os seguintes graus: grã-cruz, grande-oficial, comendador, oficial e cavaleiro.
 
 § 1.º Além dos graus especificados no artigo 1.º, haverá um grande colar, destinado aos chefes de Estado.
 
 § 2.º Haverá ainda uma medalha de ouro e outra de prata, para galardoar serviços que não possam sê-lo com qualquer dos graus mencionados no corpo do artigo.
 
-###### Art. 2.º O quadro da Ordem compreenderá:
+Art. 2.º O quadro da Ordem compreenderá:
 
 Grã-cruzes ... 60
 
@@ -102,9 +106,9 @@ Oficiais ... 400
 
 Cavaleiros - sem limite.
 
-###### Art. 3.º O distintivo da Ordem é a cruz pátea, de esmalte vermelho, filetada de ouro, e a fita com as cores azul, branca e negra, dispostas em pala.
+Art. 3.º O distintivo da Ordem é a cruz pátea, de esmalte vermelho, filetada de ouro, e a fita com as cores azul, branca e negra, dispostas em pala.
 
-###### Art. 4.º As insígnias da Ordem são:
+Art. 4.º As insígnias da Ordem são:
 
 1. Para os diversos graus:
 
@@ -126,7 +130,7 @@ e) Grã-cruz. - Banda de seda, com as cores da Ordem, tendo pendente sobre o la�
 
 § 2.º Os modelos das insígnias dos diferentes graus, do grande colar da Ordem e das medalhas vão publicados em anexo a este diploma.
 
-###### Art. 5.º Haverá um conselho da Ordem, de nomeação do Presidente da República, constituído por:
+Art. 5.º Haverá um conselho da Ordem, de nomeação do Presidente da República, constituído por:
 
 a) Chanceler, grã-cruz da Ordem, que será o vice-presidente;
 
@@ -134,16 +138,16 @@ b) Oito vogais.
 
 § único. O conselho terá as suas sessões, convocadas pelo chanceler, na Presidência da República, Chancelaria das Ordens Portuguesas, nos termos e para os efeitos indicados no presente regulamento e no Regulamento das Ordens Portuguesas.
 
-###### Art. 6.º Os graus são concedidos conforme resolução do conselho da Ordem, mediante proposta fundamentada de qualquer dos Ministros.
+Art. 6.º Os graus são concedidos conforme resolução do conselho da Ordem, mediante proposta fundamentada de qualquer dos Ministros.
 
-###### Art. 7.º São aplicáveis à Ordem do Infante D. Henrique as disposições comuns constantes do capítulo IX do Regulamento das Ordens Portuguesas.
+Art. 7.º São aplicáveis à Ordem do Infante D. Henrique as disposições comuns constantes do capítulo IX do Regulamento das Ordens Portuguesas.
 
-###### Art. 8.º Em matéria de precedência, a Ordem do Infante D. Henrique deve ser colocada logo a seguir à Ordem Militar de Sant'Iago da Espada.
+Art. 8.º Em matéria de precedência, a Ordem do Infante D. Henrique deve ser colocada logo a seguir à Ordem Militar de Sant'Iago da Espada.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 8 de Julho de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/07/15700/16791681.pdf))](https://files.diariodarepublica.pt/1s/1960/07/15700/16791681.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/07/15700/16791681.pdf)
 
 Presidência do Conselho, 8 de Julho de 1960. - O Presidente do Conselho, António de Oliveira Salazar.

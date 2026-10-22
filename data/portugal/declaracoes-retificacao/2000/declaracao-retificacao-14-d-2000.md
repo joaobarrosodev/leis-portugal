@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 252/2000, 3º Suplemento, Série I-B de 2000-10-31
   number: '252'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 6144-(8) a 6144-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/10/252b03/00080008.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/14-d/2000/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-d-2000-386209
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-10-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:55:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e13705e9f4a111a6ea1ed7fcb50d1acc0e8833df47d11e0038235380243b6da2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e9b38a69d21f626f9a4a9ff55aa4f3687957ac14134d00c878b71df6ac8bcd5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:55:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
+- Definição de Competências
 - Financiamento
 - Gestão Financeira
-- Definição de Competências
+- Ifadap
 - JURO Bonificado
 - Programa AGRO
-- Ifadap
 - Taxa
 relationships:
 - type: cites
@@ -84,16 +84,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/723/2000/09/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/723/2000/09/06/p/dre
+- type: cites
+  target: pt:dre:229305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582026:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:55:21Z'
   warnings: []
   errors: []
 ---

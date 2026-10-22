@@ -95,10 +95,20 @@ relationships:
   label: Adita Artigo 2.º-A; Altera Artigo 2.º
   source: https://diariodarepublica.pt/dr/detalhe/lei/23-2026-1128264720
   date: '2026-06-01'
+- type: amends
+  target: pt:numero:decreto-lei:37-A/2025
+  label: Altera, com efeitos a 7 de janeiro de 2026, os artigos 2.º, 15.º e 23.º (norma transitória) do Decreto-Lei n.º 37-A/2025,
+    de 24 de março, Diário da República n.º 58/2025, Suplemento, Série I
+  source: null
+  date: '2025-03-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/37-a/2025/03/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/37-a/2025/03/24/p/dre
+- type: cites
+  target: pt:dre:912256331:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0

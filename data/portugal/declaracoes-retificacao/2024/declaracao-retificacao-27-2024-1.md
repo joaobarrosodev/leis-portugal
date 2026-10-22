@@ -3,8 +3,8 @@ schema_version: '1.0'
 id: pt:dre:868546119:por
 title: Declaração de Retificação n.º 27/2024/1
 short_title: null
-summary: Retifica a Portaria n.º 155-A/2024/1, de 24 de maio, publicada no <em>Diário </em> <em>da </em> <em>República, </em>
-  1.ª série, n.º 101, suplemento, de 24 de maio de 2024.
+summary: Retifica a Portaria n.º 155-A/2024/1, de 24 de maio, publicada no  Diário   da   República,  1.ª série, n.º 101,
+  suplemento, de 24 de maio de 2024.
 jurisdiction: portugal
 territory: null
 document_type: declaracao-retificacao
@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/06/11300/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/27/2024/06/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/27-2024-868546119
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-06-13T00:00:00Z'
+  retrieved_at: '2026-10-22T19:15:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3f598ca7e9085028d56f12744b440f2d947f39dddef1663f909356d80d78f07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe0ebaa0d51583dd22bcc0f6218311c5de26616750216409f31da86729ada0fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:15:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -91,16 +91,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/54-q/2023/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/54-q/2023/02/27/p/dre
+- type: cites
+  target: pt:dre:159432383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:865926874:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:portaria:155-A/2024
+  label: Retifica o n.º 2 do artigo 9.º da Portaria n.º 155-A/2024/1, de 24 de maio, Diário da República n.º 101/2024, Suplemento,
+    Série I
+  source: null
+  date: '2024-05-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:15:08Z'
   warnings: []
   errors: []
 ---
@@ -118,3 +148,5 @@ deve ler-se:
 "As alterações previstas na presente portaria produzem efeitos a 1 de janeiro de 2024, com exceção da alteração do n.º 5 do artigo 6.º e do aditamento do artigo 6.º-A, ambos da [Portaria n.º 54-Q/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-q-2023-207942911), de 27 de fevereiro, que produzem efeitos no dia seguinte ao da publicação da presente portaria."
 
 Secretaria-Geral, 7 de junho de 2024. - A Secretária-Geral Adjunta, Fátima Costa Ferreira.
+
+117784656

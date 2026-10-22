@@ -47,26 +47,48 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/175/2026/09/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2026-1166155908
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-03T00:00:00Z'
+  retrieved_at: '2026-10-22T18:52:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad3306bc0f2cdf7aa5ce73869a3cce17b7bd290d5331d029b1399ba832b8638a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bcacaa41f8990022ef0129dd3e73085b5ff74086dd871d7936a1860a33cc6116
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:52:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contratação de Docentes
+- Contratação de Pessoal
+- Educação Pré-escolar
+- Ensino Básico
+- Ensino Secundário
+- Estabelecimento de Ensino
+- Pessoal Docente
+- Pessoal Técnico Especializado
+- Recrutamento de Pessoal
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:80-A/2023
+  label: Altera, a partir de 1 de setembro de 2026, o artigo 2.º do Decreto-Lei n.º 80-A/2023, de 6 de setembro, Diário da
+    República n.º 173/2023, 1º Suplemento, Série I
+  source: null
+  date: '2023-09-05'
+- type: amends
+  target: pt:numero:decreto-lei:51/2024
+  label: Altera, a partir de 1 de setembro de 2026, os artigos 1.º, 4.º, 4.º-A, 6.º e 7.º e revoga a alínea d) do n.º 2 do
+    artigo 2.º e os artigos 5.º, 9.º e 10.º do Decreto-Lei n.º 51/2024, de 28 de agosto, Diário da República n.º 166/2024,
+    Série I
+  source: null
+  date: '2024-08-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/108/2025/09/19/p/dre
   label: null
@@ -87,16 +109,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:122317422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221331371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:885927817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:935913495:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:52:18Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +181,9 @@ Os artigos 1.º, 4.º, 4.º-A, 6.º e 7.º do [Decreto-Lei n.º 51/2024](https:/
 
 O presente decreto-lei estabelece medidas excecionais e temporárias na área da educação, com vista a dotar os estabelecimentos públicos de educação pré-escolar e dos ensinos básico e secundário, na dependência do Ministério da Educação, Ciência e Inovação, do pessoal docente necessário à garantia do direito dos alunos à aprendizagem.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -159,7 +203,9 @@ O presente decreto-lei estabelece medidas excecionais e temporárias na área da
 
 9 - A distribuição de serviço docente extraordinário a que se refere o presente artigo é comunicada à AGSE, I. P.
 
-###### Artigo 4.º-A — [...]
+Artigo 4.º-A
+
+[...]
 
 1 - [...]
 
@@ -173,7 +219,9 @@ O presente decreto-lei estabelece medidas excecionais e temporárias na área da
 
 6 - Os meios referidos no número anterior asseguram, ainda, a correspondência entre as necessidades temporárias de serviço docente e os docentes disponíveis que tenham manifestado disponibilidade para a acumulação de funções, sem prejuízo da possibilidade de adaptação subsequente das necessidades a assegurar.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Os docentes dos agrupamentos de escolas ou das escolas não agrupadas inseridos no âmbito geográfico de quadros de zona pedagógica carenciados que preencham os requisitos legais para a aposentação ou para a reforma e se mantenham no exercício efetivo de funções letivas têm direito a um acréscimo remuneratório mensal no montante de 750,00 €.
 
@@ -191,7 +239,9 @@ d) A inexistência de candidatos disponíveis para assegurar a componente letiva
 
 4 - O exercício efetivo de funções letivas até ao final do ano letivo confere aos docentes o direito ao acréscimo remuneratório mensal até ao termo do correspondente ano letivo, incluindo durante o período destinado à realização de avaliações.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -229,12 +279,14 @@ O presente decreto-lei entra em vigor no dia 1 de setembro de 2026.
 
 Visto e aprovado em Conselho de Ministros de 30 de julho de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Fernando Alexandre.
 
-**Promulgado em 28 de agosto de 2026.**
+Promulgado em 28 de agosto de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 31 de agosto de 2026.**
+Referendado em 31 de agosto de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119949519

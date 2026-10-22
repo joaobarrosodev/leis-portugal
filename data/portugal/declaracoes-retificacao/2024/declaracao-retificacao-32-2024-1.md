@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/08/16100/0001100011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/32/2024/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/32-2024-884941430
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-08-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:15:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c4b2c217e0e360a7c0e2408968011ae6ed009c4063d4b1d594043eb4b385b4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3eb3a2cec95e7bd76cbfe44b26873fae1939e9219528f403d9a449e0dd6d24bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:15:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Habitação
 - Imposto Municipal sobre as Transmissões Onerosas de Imóveis
 - Isenção Fiscal
-- Habitação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/20/2021/03/15/p/dre
@@ -87,16 +87,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
+- type: cites
+  target: pt:dre:159432383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:873616105:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:287/2003
+  label: Retifica o artigo 2.º (na parte em que altera a alínea c) do n.º 1 do artigo 17.º do Código do Imposto Municipal
+    sobre as Transmissões Onerosas de Imóveis, aprovado pelo Decreto-Lei n.º 287/2003, de 12 de novembro) Decreto-Lei n.º
+    48-A/2024, de 25 de julho, Diário da República n.º 143/2024, Suplemento, Série I
+  source: null
+  date: '2024-07-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:15:15Z'
   warnings: []
   errors: []
 ---
@@ -114,3 +141,5 @@ deve ler-se:
 "c) Aquisição de prédio urbano ou de fração autónoma de prédio urbano destinado exclusivamente a habitação, não abrangida pelas alíneas anteriores: [tabela da anterior alínea b)]"
 
 Secretaria-Geral, 14 de agosto de 2024. - A Secretária-Geral Adjunta, Fátima Costa Ferreira.
+
+118029315

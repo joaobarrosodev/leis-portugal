@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/160/2026/08/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2026-1154275217
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-04T00:00:00Z'
+  retrieved_at: '2026-10-22T18:49:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 929b6d5c2ab4873787bfa925ed8172b8057766407357a169ac8f89b0f6fe76b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f6235e4e0a57032eeb8e94693ed95c96dadccdab5d2839cbb970162939a0fbe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:49:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Local
 - Assembleia Municipal
 - Código das Expropriações
 - Definição de Competências
 - Expropriação
-- Administração Local
 - Utilidade Pública
 relationships:
 - type: cites
@@ -88,16 +88,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5/2023/01/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/2023/01/20/p/dre
+- type: cites
+  target: pt:dre:1128264722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158146138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206350928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569885:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:49:06Z'
   warnings: []
   errors: []
 ---
@@ -144,11 +160,11 @@ O artigo 14.º da [Lei n.º 168/99](https://diariodarepublica.pt/dr/detalhe/lei/
 
 3 - Nos casos de iniciativa da administração local autárquica em que a expropriação se sobreponha aos limites geográficos de dois ou mais municípios, a declaração de utilidade pública exige a deliberação das respetivas assembleias municipais, sob proposta fundamentada das respetivas câmaras municipais, nos termos do disposto no artigo 10.º
 
-4 - A deliberação da assembleia municipal prevista nos n.<sup>os</sup>2 e 3 deve ser tomada por maioria dos membros em efetividade de funções.
+4 - A deliberação da assembleia municipal prevista nos n.os2 e 3 deve ser tomada por maioria dos membros em efetividade de funções.
 
 5 - Nos casos previstos no n.º 3, a utilidade pública da expropriação tem-se por declarada à data em que for tomada a última deliberação da assembleia municipal legalmente exigida.
 
-6 - A deliberação referida nos n.<sup>os</sup>2 e 3 é comunicada, a título meramente informativo, ao membro do Governo responsável pela área da administração local, sem prejuízo dos poderes de tutela inspetiva conferidos por lei.
+6 - A deliberação referida nos n.os2 e 3 é comunicada, a título meramente informativo, ao membro do Governo responsável pela área da administração local, sem prejuízo dos poderes de tutela inspetiva conferidos por lei.
 
 7 - [Anterior n.º 5.]
 
@@ -156,12 +172,14 @@ O artigo 14.º da [Lei n.º 168/99](https://diariodarepublica.pt/dr/detalhe/lei/
 
 Visto e aprovado em Conselho de Ministros de 25 de junho de 2026. - Paulo Artur dos Santos de Castro de Campos Rangel - Hélder Manuel Gomes dos Reis.
 
-**Promulgado em 24 de julho de 2026.**
+Promulgado em 24 de julho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 27 de julho de 2026.**
+Referendado em 27 de julho de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119949245

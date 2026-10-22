@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44351-1962-164390
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-05-15T00:00:00Z'
+  retrieved_at: '2026-10-22T19:29:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb9f11d9bbfd3dd9d7104fd128a3121c6a56e9e173508dc714c25b8bf883d667
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d24f8567e2d573a80133ea885659b6e5e58921c3fcf67c2f1604c3d8f26efee5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:29:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:321313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429473:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:29:18Z'
   warnings: []
   errors: []
 ---
@@ -88,8 +96,8 @@ Visto o n.º 8.º do artigo 4.º e o § único do artigo 3.º da Reforma Aduanei
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. A exportação dos artefactos abrangidos pelo [Decreto n.º 42507](https://diariodarepublica.pt/dr/detalhe/decreto/42507-1959-429473), de 15 de Setembro de 1959, que concede o regime de draubaque para tecidos destinados ao fabrico de vestuário, deverá efectuar-se no prazo de dois anos, a contar da data da importação da respectiva matéria-prima.
+Artigo único. A exportação dos artefactos abrangidos pelo [Decreto n.º 42507](https://diariodarepublica.pt/dr/detalhe/decreto/42507-1959-429473), de 15 de Setembro de 1959, que concede o regime de draubaque para tecidos destinados ao fabrico de vestuário, deverá efectuar-se no prazo de dois anos, a contar da data da importação da respectiva matéria-prima.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 15 de Maio de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa.

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/61/2009/08/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/61-2009-493764
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-18T00:00:00Z'
+  retrieved_at: '2026-10-22T19:11:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef2be99765987596c9060b7c3524d63abdb3571e443a44f81646712a7675b740
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0ae8d9552efc093211e2b4cf78234c4a3aa111fc02b84337f52887c61c2a490
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:11:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,17 @@ reuse:
 subjects:
 - Almada
 - ÁREA Metropolitana
-- Ministério das Finanças e da Administração Pública
 - Barreiro
-- Ordenamento do Território
 - Desenvolvimento Regional
-- Renovação Urbana
-- Ministério do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
-- Lisboa
-- Projeto de Investimento
 - Interesse Público
+- Lisboa
+- Ministério das Finanças e da Administração Pública
+- Ministério do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
+- Ordenamento do Território
 - Parque EXPO 98
 - Projecto do ARCO Ribeirinho SUL
+- Projeto de Investimento
+- Renovação Urbana
 - Seixal
 relationships:
 - type: cites
@@ -95,16 +95,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/66/2009/08/07/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/66/2009/08/07/p/dre
+- type: cites
+  target: pt:dre:453873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:resolucao-conselho-ministros:66/2009
+  label: "Rectifica a Resolução do Conselho de Ministros n.º 66/2009, de 7 de Agosto, DR.IS [152] corrigindo a omissão através\
+    \ da publicação integral do anexo Plano Estratégico do Projecto do Arco Ribeirinho Sul\0\0"
+  source: null
+  date: '2009-08-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:11:49Z'
   warnings: []
   errors: []
 ---
@@ -493,17 +511,17 @@ Consideraram-se como receitas geradas por esta intervenção as que resultam da 
 
 Síntese das estimativas de investimento e de custos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
 
 Síntese das estimativas de receitas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
 
 Câmara Municipal do Barreiro
 
 No âmbito da intervenção de reconversão urbanística do território da QUIMIPARQUE destacam-se os investimentos da responsabilidade da Câmara Municipal do Barreiro (2), assim como as receitas municipais que este município obterá com esta operação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
 
 3.2.2 - Siderurgia Nacional
 
@@ -537,17 +555,17 @@ Consideraram-se como receitas geradas por esta intervenção as que resultam da 
 
 Síntese das estimativas de investimento e de custos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
 
 Síntese das estimativas de receitas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
 
 Câmara Municipal do Seixal
 
 No âmbito da intervenção de reconversão urbanística do território da Siderurgia Nacional destacam-se os investimentos da responsabilidade da Câmara Municipal do Seixal (2), assim como as receitas municipais que este município obterá com esta operação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
 
 3.2.3 - Margueira
 
@@ -585,17 +603,17 @@ Consideraram-se como receitas geradas por esta intervenção as que resultam da 
 
 Síntese das estimativas de investimento e de custos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
 
 Síntese das estimativas de receitas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
 
 Câmara Municipal de Almada
 
 No âmbito da intervenção de reconversão urbanística do território da Margueira destacam-se os investimentos da responsabilidade da Câmara Municipal de Almada (2), assim como as receitas municipais que este município obterá com esta operação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
 
 3.3 - Impactes quantificáveis sobre a economia
 
@@ -611,7 +629,7 @@ Aumento do rendimento fiscal, através da estimativa do aumento de impostos gera
 
 Tendo em linha de conta os espaços destinados a cada um dos usos resultantes das três operações de reconversão urbanística, apresenta-se um quadro com a estimativa dos impactes directos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
 
 As estimativas apontam para um crescimento de residentes permanentes da ordem dos 17 000 novos habitantes e para a criação de um número de postos de trabalho directos ultrapassando os 55 000, podendo o impacte total ser traduzido na criação de cerca de 66 000 postos de trabalho.
 
@@ -623,15 +641,15 @@ Podem prever-se os seguintes impactes qualitativos de ordem sócio-económica:
 
 QUIMIPARQUE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
 
 Siderurgia Nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
 
 Margueira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
 
 4 - Solução institucional adequada à implementação do Projecto
 
@@ -719,19 +737,19 @@ QUIMIPARQUE
 
 Tomou-se um prazo total de 18 anos para a intervenção no território da QUIMIPARQUE, que irá começar pela realização de trabalhos de preparação de terreno, resgate de direitos de superfície e deslocalizações, em paralelo com as demolições, ao longo de cerca de 3 anos. De seguida será dado início a um vasto programa de infra-estruturas primárias, arranjos exteriores e arranjos verdes, que irá decorrer ao longo de 13 anos. Nesta fase serão também executadas as obras de interesse geral e a construção de vários equipamentos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
 
 Siderurgia Nacional
 
 Para a intervenção no território da Siderurgia Nacional considerou-se um prazo total de 12 anos, que terá início com a realização de trabalhos de preparação de terreno, seguidos da execução das infra-estruturas primárias e arranjos exteriores, durante um período de 10 anos. Em paralelo irá decorrer a execução de várias áreas de espaços verdes, durante cerca de 7 anos, seguindo-se a construção das obras de interesse geral e ainda equipamentos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
 
 Margueira
 
 Para o território da Margueira tomou-se um prazo total de 15 anos para a intervenção respectiva, que será iniciado com a realização de trabalhos de preparação de terreno e de demolições ao longo de um período de 1 ano. Segue-se a construção de infra-estruturas marítimas ao longo de um período que se estima de 3 anos. Após esta fase serão realizadas várias infra-estruturas gerais primárias, arranjos exteriores e espaços verdes, o que durará 11 anos. Em paralelo serão realizadas obras de interesse geral - túnel do Brejo e extensão do MST à Margueira - para o que será necessário um período de 4 anos. De seguida serão construídos vários equipamentos para o que se estima 4 anos de duração.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
 
 6 - Considerações finais sobre impactes do Projecto
 
@@ -751,7 +769,7 @@ Não negligenciáveis são também as repercussões na economia nacional atravé
 
 No âmbito dos grandes investimentos em reconversão urbanística e ambiental em contexto nacional, o projecto «Expo'98» surge inevitavelmente como uma referência. Um estudo de 2002 desenvolvido pelo Gabinete de Análise Económica da Faculdade de Economia da Universidade Nova de Lisboa estimou os impactes deste Projecto nas receitas do sector público administrativo. O quadro que se apresenta em seguida sintetiza alguns dos valores apresentados, numa actualização do mesmo de 2006:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
 
 Igualmente benéficos, apesar de mais dificilmente contabilizados por não serem quantificáveis, estão um conjunto diversificado de outros impactes, como o investimento na imagem internacional da cidade e do País, ou os conhecimentos em urbanismo e planeamento adquiridos na condução e gestão de uma intervenção desta natureza, que possibilitam experiências futuras noutros territórios (salvaguardando, claro está, o respeito pelas características próprias de cada território) mais facilitadas e fundamentadas.
 
@@ -759,7 +777,7 @@ Por fim, relativamente ao Projecto do Arco Ribeirinho Sul que se estima criar ma
 
 Planta de delimitação dos territórios da QUIMIPARQUE, Siderurgia Nacional e Margueira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15900/0536105378.pdf)
 
 (1) A estimativa de investimento apresentado respeita à infra-estrutura de transporte e a instalações de apoio.
 

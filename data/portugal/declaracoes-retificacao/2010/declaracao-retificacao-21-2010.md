@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/21/2010/07/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/21-2010-334277
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-20T00:00:00Z'
+  retrieved_at: '2026-10-22T19:12:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a0405a56ba3094563e0ba73a7f07c55fcf683554054e6f045271d012de0b614
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82627f49b190400faa5145914fdb944a9b4783eeea8a5e3cbd643278d55876ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:12:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
-- Financiamento
 - BEI
-- Imposto Municipal sobre Imóveis
-- Expropriação
 - Catástrofe
+- Expropriação
+- Financiamento
 - Fundo de Coesão
+- Imposto Municipal sobre Imóveis
 - Isenção Fiscal
 - Linha de Crédito
+- Madeira.região Autónoma
 - Orçamento Geral do Estado
 - Prohabita
-- Madeira.região Autónoma
 - Temporal
 - Transferência de Verbas
 relationships:
@@ -86,16 +86,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/2/2010/06/16/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2010/06/16/p/dre
+- type: cites
+  target: pt:dre:335688:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:12:38Z'
   warnings: []
   errors: []
 ---

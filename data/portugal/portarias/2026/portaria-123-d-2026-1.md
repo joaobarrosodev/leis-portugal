@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/123-d/2026/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/123-d-2026-1075293596
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-20T00:00:00Z'
+  retrieved_at: '2026-10-22T18:36:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 103436d255890e4b3bfb2d742164a4e32d3a191f1221d625d6e028fe504e8e8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8354061aa52ecbde683ab7f7e938e1f4e61e6baf94d276ac90833bffd09ae3bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:36:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvaiázere
-- Vida Selvagem
-- Ordenamento do Território
-- Proteção dos Animais
-- Regulamentação de Atos Legislativos
 - Avaliação de Impacte Ambiental
-- Proteção do Ambiente
+- Contraordenação
 - Diversidade Biológica
 - Espécie Protegida
+- Ordenamento do Território
+- Proteção do Ambiente
+- Proteção dos Animais
 - Rede Natura 2000
+- Regulamentação de Atos Legislativos
+- Vida Selvagem
 - Zona Especial de Conservação
-- Contraordenação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/140/1999/04/24/p/dre
@@ -102,16 +102,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
+- type: cites
+  target: pt:dre:1066993462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130273578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:36:09Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +144,7 @@ validation:
 
 de 20 de março
 
-O [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, procedeu à designação como Zona Especial de Conservação (ZEC) do Sítio de Importância Comunitária (SIC) Sicó/Alvaiázere (PTCON0045), identificando a respetiva área e coordenadas geográficas, assim como a sua localização e limites geográficos. O referido diploma determinou, ainda, que as medidas e ações complementares de conservação de habitats e espécies são definidas em planos de gestão, a aprovar por portaria nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.<sup>os</sup>[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro.
+O [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, procedeu à designação como Zona Especial de Conservação (ZEC) do Sítio de Importância Comunitária (SIC) Sicó/Alvaiázere (PTCON0045), identificando a respetiva área e coordenadas geográficas, assim como a sua localização e limites geográficos. O referido diploma determinou, ainda, que as medidas e ações complementares de conservação de habitats e espécies são definidas em planos de gestão, a aprovar por portaria nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.os[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro.
 
 Posteriormente, o [Decreto-Lei n.º 68/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2026-1066993462), de 5 de março, completou o processo de classificação da ZEC Sicó/Alvaiázere, ao contemplar no respetivo plano de gestão a identificação dos tipos de habitat naturais e seminaturais e das espécies da flora e fauna selvagens protegidos, constantes dos anexos i e ii da Diretiva Habitats com presença significativa na sua área, e fixar, em função das características específicas do seu território e das exigências ecológicas desses tipos de habitat e espécies, objetivos de conservação direcionados à manutenção ou ao restabelecimento do seu estado de conservação favorável. Com vista à prossecução dos objetivos fixados, o referido decreto-lei definiu, ainda, medidas de conservação de natureza preventiva e regulamentar, necessárias para evitar a deterioração dos tipos de habitat naturais e seminaturais e dos habitats das espécies protegidas e com presença significativa na ZEC, assim como a perturbação significativa dessas espécies, as quais se tipificam em medidas de ordenamento do território e medidas de gestão.
 
@@ -144,7 +168,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 19 de março de 2026.
 
-**O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho. - O Ministro da Agricultura e Mar, José Manuel Fernandes.**
+O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho. - O Ministro da Agricultura e Mar, José Manuel Fernandes.
 
 ## ANEXO I — (a que se refere o artigo 1.º)
 
@@ -154,11 +178,13 @@ Localização
 
 A ZEC Sicó/Alvaiázere com uma área total aproximada de 31 628 ha, localiza-se nos concelhos de Alvaiázere, Ansião, Pombal, Ferreira do Zêzere, Tomar, Ourém, Soure e Penela, conforme se apresenta no Quadro 1. A sua localização encontra-se representada cartograficamente na Figura 1, estando os seus limites disponíveis no geocatálogo da Autoridade Nacional da Conservação da Natureza e Biodiversidade.
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075293953.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293953.png) |
+| --- |
 
 Quadro 1 - Unidades territoriais abrangidas pela ZEC Sicó/Alvaiázere
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075293954.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293954.png) |
+| --- |
 
 Caracterização
 
@@ -182,11 +208,13 @@ Dos tipos de habitat e espécies referidos, a ZEC assume especial relevância pa
 
 Quadro 2 - Tipos de habitat do anexo I da Diretiva Habitats com presença significativa na ZEC
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075293955.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293955.png) |
+| --- |
 
 Quadro 3 - Espécies do anexo II da Diretiva Habitats com presença significativa na ZEC
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075293956.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293956.png) |
+| --- |
 
 Objetivos de conservação
 
@@ -198,13 +226,17 @@ Considerando o grau de desconhecimento existente sobre a espécie de fauna Euphy
 
 Quadro 4 - Objetivos de conservação para a gestão da ZEC
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075293957.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293957.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075293958.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293958.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075293959.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293959.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075293960.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293960.png) |
+| --- |
 
 Medidas de conservação complementares
 
@@ -216,13 +248,17 @@ A informação relevante para a execução das medidas de conservação compleme
 
 Quadro 5 - Quadro operacional de medidas de conservação complementares
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075293961.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293961.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075293962.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293962.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075293963.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293963.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075293964.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293964.png) |
+| --- |
 
 Medidas de conservação regulamentares
 
@@ -248,7 +284,8 @@ O Quadro 6 estabelece a correspondência entre as medidas de conservação compl
 
 Quadro 6 - Modelo de matriz de avaliação final após a aprovação do plano de gestão
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075293965.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293965.png) |
+| --- |
 
 Fichas de medidas de conservação COMPLEMENTARES
 
@@ -264,68 +301,103 @@ I&D - Investigação e Desenvolvimento
 
 OE - Orçamento de Estado
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075293966.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293966.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075293967.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293967.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075293968.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293968.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075293969.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293969.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075293970.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293970.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075293971.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293971.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075293972.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293972.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075293973.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293973.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075293974.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293974.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075464075.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464075.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075464076.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464076.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075464077.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464077.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075464078.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464078.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075464079.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464079.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075464080.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464080.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075464081.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464081.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075464082.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464082.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075464083.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464083.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075464084.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464084.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075464085.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464085.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075464086.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464086.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075464087.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464087.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075464088.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464088.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075464089.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464089.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075464090.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464090.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075464091.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464091.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075464092.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464092.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075464093.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464093.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075464094.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464094.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075464095.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464095.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075464096.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464096.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075464097.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464097.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293596/1075464098.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464098.png) |
+| --- |
+
+119948067

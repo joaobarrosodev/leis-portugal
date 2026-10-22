@@ -48,36 +48,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/39964-1954-680006
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-20T00:00:00Z'
+  retrieved_at: '2026-10-22T19:17:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94e1a8a37da3582e6a1a2aa02119a97acf4f68b00e4ac757a572ce3218f62f04
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:17:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Arborização
+- Baldio
+- Castro Daire
+- Lamego
+- Moimenta da Beira
+- Ordenamento do Território
+- Política de Solos
+- Política Florestal
+- Regime Florestal
+- Tarouca
+- VILA NOVA de Paiva
+relationships:
+- type: amended_by
+  target: pt:dre:625178:por
+  label: "Excluída uma parcela de terreno do perímetro florestal da Serra de Leomil (freguesia de Várzea da Serra, Tarouca)\
+    \ pelo DEC.21/2004.25.08.2004.MADRP, DR.IS-B [200] de 25.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/21-2004-625178
+  date: '2004-08-25'
+- type: amended_by
+  target: pt:dre:875899345:por
+  label: Excluído, a partir de 09 de agosto de 2024, do regime florestal parcial, uma parcela de terreno com a área de 34,54
+    hectares, localizada em Tarouca,e se encontra delimitada na planta constante do anexo i ao presente decreto e do qual
+    faz parte integrante, que se encontra submetida pelo presente decreto, pelo(a) Decreto n.º 2/2024 - Diário da República
+    n.º 153/2024, Série I de 2024-08-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/2-2024-875899345
+  date: '2024-08-08'
+- type: amended_by
+  target: pt:dre:1172217157:por
+  label: Excluída do regime florestal parcial, a que se encontra submetida pelo presente diploma, uma parcela de terreno com
+    a área de 232,22 ha, localizada em Vila Nova de Paiva, pertencente à Comunidade Local dos Compartes dos Baldios de Touro,
+    integrada no perímetro florestal da serra de Leomil, que visa permitir a instalação das Centrais Solares Fotovoltaicas
+    de Adomingueiros e Salgueiral, pelo(a) Decreto n.º 19/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/19-2026-1172217157
+  date: '2026-09-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:17:01Z'
   warnings:
   - Sem texto eletrónico no DRE; o registo liga apenas ao PDF oficial.
   errors: []
@@ -85,4 +118,4 @@ validation:
 
 # Decreto n.º 39964
 
-> <small>O texto deste diploma não se encontra disponível em formato eletrónico no Diário da República. [Ver documento original](https://files.diariodarepublica.pt/1s/1954/12/27700/15061506.pdf)</small>
+> O texto deste diploma não está disponível em formato eletrónico. [Ver documento original](https://files.diariodarepublica.pt/1s/1954/12/27700/15061506.pdf)

@@ -26,9 +26,7 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -49,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/155-a/2026/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-a-2026-1153967375
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:48:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 554a2efc438cadefeab103d112612bee466fd96a79545e007f5944b480240062
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd97f60ccfcbd34238534145e057f303c2ee06300db7a6cec0ec79f9eb062299
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:48:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
 - Auto-estrada Douro Litoral
 - Autoridade Tributária e Aduaneira
-- Transporte Terrestre
+- Circulação Rodoviária
+- Contraordenação
 - Fiscalização
 - Instituto da Mobilidade e dos Transportes
 - Isenção de Emolumentos
 - Isenção de Portagem
-- Taxa
-- Circulação Rodoviária
-- Autarquia Local
-- Porto
-- VILA NOVA de GAIA
 - Plataforma Eletrónica
-- Contraordenação
+- Porto
+- Taxa
+- Transporte Terrestre
+- VILA NOVA de GAIA
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
@@ -103,16 +101,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/387/1999/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/387/1999/05/26/p/dre
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316941:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:993270096:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:48:42Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +145,7 @@ A Via de Cintura Interna do Porto (VCI), que integra troços das autoestradas A1
 
 A VCI apresenta atualmente um dos maiores volumes de tráfego a nível nacional, com elevados níveis de congestionamento, com graves efeitos na acessibilidade e circulação na zona da Área Metropolitana do Porto, bem como nas condições de segurança da via.
 
-Deste cenário resultam consequências sociais, ambientais e económicas cada vez mais gravosas para a população e para os municípios da Área Metropolitana do Porto, nomeadamente impacte ambiental significativo com emissões de CO<sup>2</sup> e poluição sonora crescente, bem como atrasos, custos económicos e impactos na mobilidade dos cidadãos.
+Deste cenário resultam consequências sociais, ambientais e económicas cada vez mais gravosas para a população e para os municípios da Área Metropolitana do Porto, nomeadamente impacte ambiental significativo com emissões de CO2 e poluição sonora crescente, bem como atrasos, custos económicos e impactos na mobilidade dos cidadãos.
 
 Por outro lado, verifica-se a existência de outras vias que, na generalidade, apresentam uma capacidade excedentária, em particular a A41/IC24, designada por Circular Regional Exterior do Porto (CREP), que deve ser usada na distribuição de tráfego para os vários eixos rodoviários, tanto do Grande Porto, como do norte e sul do país, auxiliando a resolução do estrangulamento de mobilidade urbana que é patente na VCI.
 
@@ -215,12 +233,14 @@ O presente decreto-lei entra em vigor no dia 15 de setembro de 2026.
 
 Visto e aprovado em Conselho de Ministros de 25 de junho de 2026. - Paulo Artur dos Santos de Castro de Campos Rangel - Hugo Morato Alface do Espírito Santo - Luís António Trindade Nunes das Neves.
 
-**Promulgado em 24 de julho de 2026.**
+Promulgado em 24 de julho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 27 de julho de 2026.**
+Referendado em 27 de julho de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119949250

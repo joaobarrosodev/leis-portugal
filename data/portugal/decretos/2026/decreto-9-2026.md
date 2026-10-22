@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/9/2026/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/9-2026-1062753814
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-27T00:00:00Z'
+  retrieved_at: '2026-10-22T18:33:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e171e8b345d41f31b969d0a5494736573ca0906dd0bdf52c493656a8ce418a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 399be57361bd9a3819b1a620b3f1cfc37b93acae0e51cf13b4021b8543238703
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:33:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,36 +66,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Baldio
 - Centro de Recolha de Animais
 - Circunscrição Florestal
-- Regime Florestal
-- Baldio
-- Serra da Cabreira
 - Comunidade Local de Compartes
+- Regime Florestal
+- Serra da Cabreira
 relationships: []
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:33:58Z'
   warnings: []
   errors: []
 ---
 
 # Decreto n.º 9/2026
 
-A Câmara Municipal de Cabeceiras de Basto pretende edificar um equipamento municipal para instalação de um Centro de Recolha Oficial de Animais de Companhia, no concelho de Cabeceiras de Basto, em terrenos baldios cedidos pela comunidade local dos compartes da freguesia de Refojos, com a dimensão de 9635 m<sup>2</sup>.
+A Câmara Municipal de Cabeceiras de Basto pretende edificar um equipamento municipal para instalação de um Centro de Recolha Oficial de Animais de Companhia, no concelho de Cabeceiras de Basto, em terrenos baldios cedidos pela comunidade local dos compartes da freguesia de Refojos, com a dimensão de 9635 m2.
 
 Os referidos terrenos foram submetidos ao regime florestal parcial pelo Decreto de 22 de junho de 1950, publicado no Diário do Governo, 2.ª série, n.º 143, de 22 de junho de 1950, passando a integrar o perímetro florestal da serra da Cabreira, pelo que a sua utilização implica que os mesmos sejam excluídos, pelo presente decreto, do regime florestal parcial.
 
-Como compensação pela exclusão do regime florestal parcial da área de 9635 m<sup>2</sup> necessária à construção do Centro de Recolha Oficial de Animais de Companhia, a assembleia de compartes dos baldios da freguesia de Refojos, do concelho de Cabeceiras de Basto, deliberou e decidiu, por unanimidade, solicitar a submissão ao mesmo regime de uma área com a dimensão de 27 907 m<sup>2</sup> de terrenos baldios, localizados na freguesia de Refojos, concelho de Cabeceiras de Basto, passando essa área a fazer parte integrante do perímetro florestal da serra da Cabreira.
+Como compensação pela exclusão do regime florestal parcial da área de 9635 m2 necessária à construção do Centro de Recolha Oficial de Animais de Companhia, a assembleia de compartes dos baldios da freguesia de Refojos, do concelho de Cabeceiras de Basto, deliberou e decidiu, por unanimidade, solicitar a submissão ao mesmo regime de uma área com a dimensão de 27 907 m2 de terrenos baldios, localizados na freguesia de Refojos, concelho de Cabeceiras de Basto, passando essa área a fazer parte integrante do perímetro florestal da serra da Cabreira.
 
-A referida exclusão não tem qualquer impacto negativo no ordenamento e gestão florestal do perímetro florestal da serra da Cabreira, nem nos fins prosseguidos pelo regime florestal, e a submissão ao regime florestal parcial da área com a dimensão de 27 907 m<sup>2</sup> cumpre os preceitos do regime florestal, aumentado a área submetida a este regime em 18 272 m<sup>2</sup>.
+A referida exclusão não tem qualquer impacto negativo no ordenamento e gestão florestal do perímetro florestal da serra da Cabreira, nem nos fins prosseguidos pelo regime florestal, e a submissão ao regime florestal parcial da área com a dimensão de 27 907 m2 cumpre os preceitos do regime florestal, aumentado a área submetida a este regime em 18 272 m2.
 
 O presente decreto é elaborado em cumprimento do disposto nos artigos 25.º, 26.º, 28.º, 32.º e 33.º do Decreto de 24 de dezembro de 1901, publicado no Diário do Governo, n.º 296, de 31 de dezembro de 1901, que aprova a organização dos serviços florestais e aquícolas e define a submissão de terrenos ao regime florestal, no § 4.º do artigo 4.º do Decreto de 24 de dezembro de 1903, publicado no Diário do Governo, n.º 296, de 31 de dezembro de 1903, que aprova a regulamentação para a execução do regime florestal, e no artigo 13.º das instruções para a aplicação do regime florestal, publicadas no Diário do Governo, n.º 161, de 21 de julho e 1905.
 
@@ -107,7 +107,7 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Governo decreta o
 
 ###### Artigo 1.º — Exclusão do regime florestal parcial
 
-1 - O presente decreto procede à exclusão do regime florestal parcial, a que se encontra submetida pelo Decreto de 22 de junho de 1950, publicado no Diário do Governo, 2.ª série, n.º 143, de 22 de junho de 1950, de uma parcela de terreno com a área de 9635 m<sup>2</sup>, pertencente à comunidade local dos compartes da freguesia de Refojos, integrada no perímetro florestal da serra da Cabreira, e que se encontra delimitada na planta constante do anexo ao presente decreto e do qual faz parte integrante.
+1 - O presente decreto procede à exclusão do regime florestal parcial, a que se encontra submetida pelo Decreto de 22 de junho de 1950, publicado no Diário do Governo, 2.ª série, n.º 143, de 22 de junho de 1950, de uma parcela de terreno com a área de 9635 m2, pertencente à comunidade local dos compartes da freguesia de Refojos, integrada no perímetro florestal da serra da Cabreira, e que se encontra delimitada na planta constante do anexo ao presente decreto e do qual faz parte integrante.
 
 2 - A parcela de terreno a que se refere o número anterior destina-se à construção de um Centro de Recolha Oficial de Animais de Companhia.
 
@@ -125,24 +125,27 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Governo decreta o
 
 ###### Artigo 4.º — Submissão ao regime florestal parcial
 
-1 - Como compensação pela exclusão do regime florestal parcial prevista no artigo 1.º, é submetida ao mesmo regime florestal, nos termos do disposto nos artigos 25.º, 26.º, 28.º, 32.º e 33.º do Decreto de 24 de dezembro de 1901, publicado no Diário do Governo, n.º 296, de 31 de dezembro de 1901, uma área baldia com a dimensão de 27 907 m<sup>2</sup>, pertencente à comunidade local dos compartes dos baldios da freguesia de Refojos, do concelho de Cabeceiras de Basto.
+1 - Como compensação pela exclusão do regime florestal parcial prevista no artigo 1.º, é submetida ao mesmo regime florestal, nos termos do disposto nos artigos 25.º, 26.º, 28.º, 32.º e 33.º do Decreto de 24 de dezembro de 1901, publicado no Diário do Governo, n.º 296, de 31 de dezembro de 1901, uma área baldia com a dimensão de 27 907 m2, pertencente à comunidade local dos compartes dos baldios da freguesia de Refojos, do concelho de Cabeceiras de Basto.
 
 2 - A área referida no número anterior passa a fazer parte do perímetro florestal da serra da Cabreira e está identificada na planta constante do anexo do presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 22 de janeiro de 2026. - Luís Montenegro - José Manuel Fernandes.
 
-**Assinado em 12 de fevereiro de 2026.**
+Assinado em 12 de fevereiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 13 de fevereiro de 2026.**
+Referendado em 13 de fevereiro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se referem o n.º 1 do artigo 1.º e o n.º 2 do artigo 4.º)
 
 Área a excluir do regime florestal parcial e área a submeter ao regime florestal parcial
 
-![](https://files.diariodarepublica.pt/images/1062753814/1062753720.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1062753814/1062753720.png) |
+| --- |
+
+119947835

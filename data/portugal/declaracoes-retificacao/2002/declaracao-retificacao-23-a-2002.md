@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 148/2002, 1º Suplemento, Série I-A de 2002-06-29
   number: '148'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5118-(2) a 5118-(59)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/23-a/2002/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/23-a-2002-527180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-06-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:00:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90d6c8e3f58cfc25a27939b4ac0b8f2b9878a2386b607842e72f21c243c90f31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 696ed3337ff9c0db2618fc8ef69facc6410138ce27f2efabf428dcedcaff65e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:00:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -114,14 +114,14 @@ relationships:
   source: http://data.dre.pt/eli/dec-lei/89/2002/04/09/p/dre
 article_structure:
   article_count: 0
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:00:23Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +134,7 @@ QUADRO XII.1
 
 Quantitativos de óleos novos vendidos e de óleos usados recolhidos nos anos de 1990 a 1998
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
 
 Dos valores apresentados poderá concluir-se que se verifica, desde 1990, um crescimento na recolha dos óleos usados relativamente aos óleos novos colocados no mercado, no entanto, para além de outros factores, esta realidade poderá também ter origem no facto de a recolha de informação respeitante a este fluxo ter vindo a ser melhorada.
 
@@ -152,7 +152,7 @@ Apresentam-se em seguida os quantitativos de resíduos declarados nos mapas de r
 
 Quantidade produzida por CER
 
-[(ver gráfico e legenda no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+[[(ver gráfico e legenda no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
 
 Verifica-se que, das 26850 t declaradas, cerca de 41% correspondem aos resíduos pertencentes ao CER 13 02 03, «Outros óleos de motores, transmissões e lubrificação», seguido dos resíduos classificados com o CER 13 02 01, «Óleos clorados de motores, transmissões e lubrificação».
 
@@ -162,7 +162,7 @@ No que diz respeito à produção de óleos usados por actividade industrial, ve
 
 Distribuição das quantidades por tipo de indústria
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
 
 Com base numa análise a nível geográfico, constata-se que a maior produção se verifica na região de Lisboa e Vale do Tejo, nomeadamente nos distritos de Lisboa (30,2%) e Setúbal (18,3%), o que poderá justificar-se pelo grau de industrialização existente nos distritos em causa.
 
@@ -170,7 +170,7 @@ Em seguida, a região Norte é a que apresenta maior produção, em especial na 
 
 Comparativamente com as restantes regiões, observa-se menor produção de óleos usados no Algarve, no Alentejo e, principalmente, nas Regiões Autónomas, sendo os distritos que apresentam menor produção os correspondentes a estas últimas. No continente, o distrito de menor produção foi o de Portalegre (0,1%).
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
 
 Os destinos finais declarados e as respectivas quantidades encontram-se representados na figura 12.5
 
@@ -178,13 +178,13 @@ Para facilitar a leitura dos dados, os vários códigos CER foram divididos em t
 
 Destinos finais por grupos
 
-[(ver gráfico e legenda no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+[[(ver gráfico e legenda no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
 
 Pela análise global da figura anterior, verifica-se que a valorização é o destino preferencial dado a este tipo de resíduos, tendo em conta que o grupo I (ao qual pertencem os resíduos com classificação CER 13 02 01 e CER 13 02 03, que apresentam o maior quantitativo declarado) é o principal responsável por esta conclusão.
 
 Em termos percentuais, como se pode observar nas figuras seguintes, os resíduos do grupo I são essencialmente encaminhados para valorização (95%), os pertencentes ao grupo II apresentam uma grande percentagem, embora não tão elevada, que é igualmente enviada para valorização (66%) e apenas os resíduos do grupo III (que inclui as lamas oleosas) são preferencialmente eliminados (81%).
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
 
 Em relação às operações de valorização utilizadas, observa-se uma grande predominância na declaração da operação R9, «Refinação de óleos e outras reutilizações de óleos», seguida da R1, «Utilização principal como combustível ou outros meios de produção de energia». Salienta-se que em relação ao destino R9, as operações de gestão deste fluxo apenas consistem no tratamento prévio dos óleos para posterior utilização como combustível (R1).
 
@@ -256,19 +256,19 @@ No caso específico das lamas de ETAR industriais, não é possível fazer uma g
 
 Tendo em conta os dados dos mapas de registo, foram produzidas por estes sectores, em 1999, cerca de 270000 t de lamas, sendo que apenas 5378 t foram alvo de aplicação no solo para fins agrícolas. A grande maioria, cerca de 220000 t, foi depositada em aterro (figura 12.7).
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
 
 Utilizando-se uma definição mais vasta, conforme a subjacente ao Catálogo Europeu de Resíduos, constata-se que o total de lamas produzidas ascende a cerca de 571000 t, sendo que a sua produção se concentra essencialmente na região de Lisboa e Vale do Tejo e na região Centro, que contribuem com 60% e 37%, respectivamente, das lamas produzidas a nível nacional.
 
 É ainda de realçar que apenas no distrito de Setúbal o quantitativo de lamas declarado é de cerca de metade do total nacional, não tendo sido reportada a produção de lamas nos distritos de Beja, Bragança e nas Regiões Autónomas (figura 12.8). A este respeito há que referir que existe um grande número de indústrias que efectuam a descarga das suas águas residuais na rede colectora municipal, não registando, portanto, produção de lamas de depuração.
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
 
 Da análise dos dados por secção de CAE Rev. 2, verifica-se que a indústria transformadora é responsável pela quase totalidade da produção destes resíduos (98,5%), sendo marginal a produção verificada na indústria extractiva (1,1%) e na indústria da água, gás e energia (0,4%).
 
 No que diz respeito ao destino final das lamas produzidas, constata-se que as operações de eliminação (62%) predominaram em relação às operações de valorização (36%), não tendo sido declarado o destino de 2% do quantitativo total. As operações de tratamento com maior relevo foram a D1, «Deposição em aterro», e o R10, «Tratamento no solo em benefício da agricultura», a que foram submetidas cerca de 52% e 28% das lamas produzidas, respectivamente.
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
 
 12.3.4 - Acções a desenvolver. - A especificidade deste fluxo de resíduos, associado ao seu aumento previsível resultante da melhoria dos índices de tratamento de águas residuais, justifica o desenvolvimento de um plano de acção específico, que deverá contemplar os seguintes tópicos:
 
@@ -304,11 +304,11 @@ A caracterização dos PCB em termos quantitativos é obtida através da obriga�
 
 Do total declarado, 335 t tiveram origem na indústria transformadora, 57 t na indústria de produção e distribuição de electricidade, gás e água e 10 t na indústria extractiva.
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
 
 Em relação aos destinos finais utilizados, verifica-se que a operação mais utilizada é a operação R9, «Refinação de óleos e outras reutilizações de óleos», a que foram sujeitos cerca de 74% dos resíduos de PCB declarados. Refere-se ainda a existência de 5 t para as quais não foi reportado o respectivo destino.
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
 
 2 - Inventário previsto no artigo 4.º do Decreto-Lei n.º 277/99. - Até 1999, 66 empresas declararam estar na posse de equipamentos contendo PCB, sendo que no mesmo ano se verificava a existência de 450 equipamentos em uso e 405 equipamentos fora de uso (quadro XII.2).
 
@@ -316,7 +316,7 @@ QUADRO XII.2
 
 Número de equipamentos contendo PCB constantes do inventário em 1999
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
 
 No quadro XII.3 apresenta-se a evolução do quantitativo de fluidos com PCB existentes nos equipamentos inventariados.
 
@@ -324,7 +324,7 @@ QUADRO XII.3
 
 Evolução do inventário nos últimos cinco anos (quilogramas de fluido com PCB)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
 
 No que diz respeito à distribuição geográfica dos equipamentos existentes, verifica-se que as regiões que apresentam maior concentração de PCB são o Norte e Lisboa e Vale do Tejo. Para esta situação contribui certamente o facto de estas regiões serem caracterizadas por uma forte concentração de indústrias (quadro XII.4).
 
@@ -332,7 +332,7 @@ QUADRO XII.4
 
 Distribuição geográfica dos equipamentos referenciados a 1999 (quilogramas de fluido com PCB)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
 
 Uma vez que Portugal não dispõe actualmente de instalações de tratamento para este tipo de resíduos, a sua gestão tem passado pelo recurso à exportação para instalações autorizadas em outros Estados-Membros (quadro XII.5).
 
@@ -340,7 +340,7 @@ QUADRO XII.5
 
 Exportação de resíduos contendo PCB
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
 
 12.4.4 - Acções a desenvolver. - Conforme o definido no Decreto-Lei n.º 277/99, serão elaborados:
 
@@ -366,7 +366,9 @@ Equipamentos com clorofluorocarbonetos.
 
 Nesse sentido, o Instituto dos Resíduos tem vindo a desenvolver acções envolvendo os agentes económicos sectoriais responsáveis pela produção destes resíduos.
 
-### CAPÍTULO 13 — Movimento transfronteiriço
+CAPÍTULO 13
+
+Movimento transfronteiriço
 
 13.1 - Enquadramento legislativo. - A nível internacional foram realizadas nos últimos anos várias iniciativas cujo principal objectivo é o da adopção de regras de modo a assegurar a vigilância e o controlo dos movimentos fronteiriços de resíduos, dos quais se salientam:
 
@@ -400,13 +402,13 @@ Por outro lado, no caso nacional, foi ainda publicado o Decreto-Lei n.º 296/95,
 
 É possível no entanto verificar-se que a Espanha se tem assumido nos últimos anos como parceiro preferencial neste tipo de importação, facto a que não será alheia a sua proximidade geográfica. São ainda de destacar as relações mantidas com países extracomunitários (EUA e Noruega), embora presentemente com um peso minoritário face aos quantitativos totais importados.
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
 
 13.2.2 - Exportação para valorização. - A exportação de resíduos para valorização tem assumido nos últimos seis anos uma importância crescente no panorama nacional de gestão de resíduos, tendo o ano de 1998 sido caracterizado pelo maior valor alguma vez registado, que se cifrou perto das 16000 t. No entanto, em 1999, verificou-se um certo abrandamento desta tendência, tendo apenas sido exportadas cerca de 12000 t (figura 13.2). À semelhança do que se verifica para a importação, também neste caso a Espanha se assume como parceiro preferencial, embora a França tenha vindo a aumentar o seu peso relativo.
 
 Salienta-se no entanto que os dados apontados apenas dizem respeito a movimentos de resíduos das listas laranja e vermelha do regulamento, uma vez que, como atrás referido, o envio de resíduos da lista verde para valorização no exterior não carece de notificação às autoridades competentes.
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
 
 Refere-se ainda, em relação a este período de tempo, a exportação para valorização na Alemanha dos resíduos da pirometalurgia do alumínio (cinzas e escórias de alumínio) que se encontravam depositados nas instalações da METALIMEX - Setúbal, fruto de uma importação executada à revelia da legislação existente na altura. Esta solução apenas foi possível devido à intervenção directa dos Estados Português e Suíço (país de origem) e pela aplicação das disposições específicas para estes casos, constantes do referido regulamento. Em virtude do seu carácter conjuntural, não representativo do normal funcionamento deste mercado, estes quantitativos não foram contemplados na presente análise.
 
@@ -414,11 +416,11 @@ Refere-se ainda, em relação a este período de tempo, a exportação para valo
 
 Destaca-se ainda, no período considerado, a entrada em vigor, a 1 de Junho de 1996, do Plano de Gestão de Resíduos do Reino Unido - Importação e Exportação, segundo o qual o Governo Britânico proíbe as importações de resíduos destinados a eliminação, com excepção dos resíduos provenientes de Portugal e Irlanda quando destinados a incineração a alta temperatura. A aplicação deste Plano traduziu-se, como se pode verificar pela figura seguinte, num decréscimo acentuado da exportação de resíduos para aquele país, tendo-se verificado em 1999 a ausência total de exportação para aquele país.
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
 
 Quanto aos métodos de eliminação utilizados, verifica-se que a deposição em aterro, precedida de tratamento físico-químico quando necessário, tem vindo nos últimos anos a assumir uma importância crescente, atingindo em 1999 cerca de 92% do total de exportações de resíduos para eliminação (figura 13.4). Esta situação pode igualmente explicar-se pela diminuição do número de incineradores sem recuperação de energia.
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
 
 13.3 - Problemas de gestão. - Nos últimos anos tem-se registado no País um forte desenvolvimento do movimento transfronteiriço de resíduos, sendo de realçar os 469 processos já notificados desde a entrada em vigor do regulamento. É ainda de destacar o elevado número de processos directamente relacionado com a exportação, particularmente com resíduos destinados a operações de eliminação.
 
@@ -426,7 +428,7 @@ Quanto a este aspecto, refere-se que o regulamento prevê a possibilidade da cob
 
 Em termos globais, constata-se que a segunda metade da presente década tem sido caracterizada por uma supremacia da exportação face à importação, tendo este fenómeno atingido o seu expoente máximo no ano de 1999. Este peso crescente da exportação, que em 1999 ultrapassou as 43000 t, reflecte por um lado a escassez de destinos adequados a nível nacional, mas também uma consciencialização crescente por parte dos operadores económicos envolvidos em actividades geradoras de resíduos.
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
 
 13.4 - Acções a desenvolver. - Face ao actual volume de resíduos exportados anualmente, o mercado nacional tem vindo a despertar o interesse de operadores estrangeiros, que vêem nele a oportunidade de viabilizar as suas instalações. Regista-se assim o aparecimento nos últimos anos em Portugal de:
 
@@ -458,9 +460,13 @@ Regista-se igualmente que a entrada em vigor de eterminadas directivas comunitá
 
 Salienta-se igualmente que, face aos encargos que o movimento transfronteiriço de resíduos normalmente acarreta para as empresas, a adopção de soluções a nível nacional beneficiará economicamente a indústria, aumentando a sua competitividade face às suas congéneres europeias.
 
-# PARTE III — Estratégia e programas de acção
+PARTE III
 
-### CAPÍTULO 14 — Sustentabilidade da gestão
+Estratégia e programas de acção
+
+CAPÍTULO 14
+
+Sustentabilidade da gestão
 
 14.1 - A estratégia comunitária de gestão de resíduos e o desenvolvimento sustentável. - O Tratado da União Europeia e a adopção do 5.º Programa de Acção em Matéria de Ambiente definiram o contexto no qual as actividades de gestão de resíduos dentro da Comunidade se têm de inserir. A nível internacional, tanto o relatório da Conferência das Nações Unidas sobre Ambiente e Desenvolvimento (Agenda 21) como a conclusão da Convenção de Basileia, sobre o movimento transfronteiriço de resíduos perigosos e a sua deposição, revelam a necessidade de prevenir e ou minimizar a produção de resíduos perigosos, assim como de gerir estes resíduos por forma a não causarem danos à saúde humana e ao ambiente.
 
@@ -708,7 +714,7 @@ Por último, refira-se os investimentos na qualificação dos recursos humanos, 
 
 POA. - Os principais vectores do POA, enquanto umas das várias peças estratégicas da área do ambiente para 2000-2006, dividem-se em três eixos prioritários:
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
 
 Objectivos. - Do ponto de vista qualitativo, os objectivos ambientais definidos para 2006 prendem-se com os dois eixos prioritários já definidos anteriormente. Estes objectivos só são possíveis de atingir através da articulação e da complementaridade dos vários programas operacionais e dos investimentos a realizar com financiamentos do Fundo de Coesão.
 
@@ -728,7 +734,9 @@ Com investimentos no domínio da energia, nomeadamente a favor de energias renov
 
 Nota. - Acresce ainda os incentivos no domínio da investigação e desenvolvimento tecnológico, em particular na promoção de inovação, encorajando novas actividades, reestruturação e desenvolvimento inovadores, no sentido da transferência de tecnologias menos poluentes e disseminação de novas técnicas.
 
-### CAPÍTULO 15 — Saúde pública: prevenção da doença e promoção da saúde
+CAPÍTULO 15
+
+Saúde pública: prevenção da doença e promoção da saúde
 
 15.1 - Ecossistemas e saúde. - Hoje, segundo a Organização Mundial de Saúde (OMS), prevalece a visão holística da saúde, definida pelo equilíbrio dinâmico do bem-estar físico, psíquico e social.
 
@@ -872,9 +880,11 @@ Programa de acções a desenvolver no contexto dos três horizontes
 
 Adequação do quadro legal no sentido de apoiar os objectivos e as conclusões deste Plano e dos outros que o complementem
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
 
-### CAPÍTULO 16 — Prevenção
+CAPÍTULO 16
+
+Prevenção
 
 16.1 - Generalidades. - A tónica deste Plano Estratégico deve incidir na componente «Redução da produção de resíduos», a qual tem merecido uma atenção muito especial da parte do Ministério do Ambiente e do Ordenamento do Território, em particular através do lançamento e implantação do Plano Nacional de Prevenção de Resíduos Industriais (PNAPRI), assinalado com mais detalhe no subcapítulo 16.3 seguinte.
 
@@ -1070,7 +1080,7 @@ Estas acções estão divididas, ao longo de 2000-2015, por três fases, designa
 
 O impacte esperado do PNAPRI é que, ao longo dos próximos anos, a quantidade e a perigosidade dos resíduos resultantes da actividade industrial evoluam tendencialmente para uma redução relativa, mas variável de sector para sector, atenuando ou mesmo anulando, em alguns sectores, o efeito do crescimento da produção industrial. No caso específico dos 10 sectores primeiramente analisados, a projecção dos quantitativos de resíduos industriais aponta para uma redução relativa de cerca de 20%, face ao cenário do crescimento da produção industrial de 2% ao ano, tanto para a totalidade dos resíduos industriais como para os resíduos industriais perigosos.
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
 
 Acrescente-se que os quantitativos de resíduos referentes aos 10 sectores analisados representam cerca de 13% do total dos resíduos industriais e cerca de 48% dos resíduos industriais perigosos (produzidos em 1998).
 
@@ -1092,7 +1102,9 @@ Numa situação ideal, os resíduos banais deixariam de existir e seriam reclass
 
 Este aliciante aspecto entra de forma essencial na discussão das opções estratégicas e a ele voltaremos mais adiante.
 
-### CAPÍTULO 17 — Reutilização e valorização
+CAPÍTULO 17
+
+Reutilização e valorização
 
 17.1 - Reutilização. - A reutilização envolve uma mesma ou nova utilização do produto, após este ter cumprido a sua função original. Apresenta vantagens e desvantagens das quais se destacam:
 
@@ -1258,7 +1270,9 @@ Tendo sido já aprovados vários projectos de aterros de resíduos industriais, 
 
 (nota 1) Publicado no Diário da República, 1.ª série-B, n.º 166, de 20 de Julho de 2000, Resolução do Conselho de Ministros n.º 92/2000, de 20 de Julho.
 
-### CAPÍTULO 18 — Opções estratégicas de gestão
+CAPÍTULO 18
+
+Opções estratégicas de gestão
 
 18.1 - Os fundamentos. - As opções estratégicas no domínio da gestão de resíduos sofreram um primeiro e considerável avanço com a idealização, o lançamento e a adopção da nova hierarquia de operações, abraçada pela União Europeia em 1990 (Resolução do Conselho de 7 de Maio, publicada no Jornal Oficial das Comunidades Europeias, n.º C 122/2, 18 de Maio de 1990) e 1991 (Resolução do Parlamento de 19 de Fevereiro, publicada no Jornal Oficial das Comunidades Europeias, n.º C 72/34, de 18 de Março de 1991), mais tarde reafirmada na Resolução do Conselho (97/C, 76/01) de 24 de Fevereiro de 1997, relativa à estratégia comunitária de resíduos, e que hoje em dia orienta quase todos os artigos e exercícios sobre planeamento que surgem na Europa.
 
@@ -1274,7 +1288,7 @@ No subcapítulo seguinte, aplicar-se-á este raciocínio para os resíduos indus
 
 A figura 18.1 procura ilustrar a situação descrita, verdadeiro ponto de partida para a filosofia de mudança inerente às linhas estratégicas defendidas no presente Plano, e que se poderá designar por «ciclo primitivo de eliminação» dos resíduos industriais.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
 
 O esquema mostra a fragilidade da adopção deste ciclo, na medida em que a reciclagem efectuada de modo pouco profissional e o tratamento e destino final deixados sem vigilância e controlo provocam necessariamente um impacte negativo pouco recomendável.
 
@@ -1286,7 +1300,7 @@ Em relação ao ciclo primitivo anterior, registam-se melhorias importantes na r
 
 Há entretanto uma clara aceitação da ideia de que se devem envidar todos os esforços no sentido de alcançar o segundo paradigma, que se designou «paradigma tecnológico» e que se tentou ilustrar na figura 18.3.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
 
 Este segundo paradigma fundamenta-se num ciclo inspirado pelo funcionamento de um chamado «tecnossistema», que não é mais que um sistema funcional de operações de gestão, devidamente organizado, submetido à orientação de uma entidade gestora responsável.
 
@@ -1392,7 +1406,9 @@ Tratamento de produtos residuais - variedade (material, biológico, térmico), c
 
 Tratamento de resíduos - específico.
 
-### CAPÍTULO 19 — Da estratégia à acção
+CAPÍTULO 19
+
+Da estratégia à acção
 
 19.1 - Metodologia de apresentação. - No capítulo anterior descreveram-se opções estratégicas de gestão, destinadas, com maior ou menor celeridade, a conseguir que a gestão dos resíduos industriais passe pelos três estádios considerados e materialize, no final, o terceiro paradigma, o «paradigma ecológico».
 
@@ -1432,7 +1448,7 @@ QUADRO XIX.1
 
 Quantitativos de resíduos por operações de gestão declarados em 1999/quantitativos obtidos caso fossem utilizadas as operações de gestão mais adequadas.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
 
 Como se pode inferir das figuras seguintes, no cenário da actual gestão dos resíduos produzidos as práticas de eliminação ocupam a base da pirâmide, o que evidencia uma subversão da hierarquia preconizada.
 
@@ -1450,15 +1466,15 @@ Apesar do cenário construído ter carácter conservativo (não foi contabilizad
 
 Resíduos banais e perigosos
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
 
 Resíduos banais
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
 
 Resíduos perigosos
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
 
 19.3 - Programa de acções. - Com vista a atingir os objectivos estratégicos propostos, apresenta-se em seguida um programa de acções a desenvolver, cujo enquadramento temporal é aferido no contexto dos três horizontes de planeamento já mencionados.
 
@@ -1476,27 +1492,35 @@ Neste sentido, a atribuição de valores mensuráveis à concretização das ac�
 
 O acesso público à informação obtida mediante a execução do presente programa será uma prioridade, na sequência natural dos procedimentos de transparência que norteiam o exercício das competências da Administração Pública.
 
-## ANEXO I — Tabela de destinos adequados
+ANEXO I
+
+Tabela de destinos adequados
 
 Listagem de códigos CER com identificação das operações de gestão de resíduos consideradas mais adequadas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
 
-## ANEXO II — Lista da legislação
+ANEXO II
+
+Lista da legislação
 
 Principal legislação nacional aplicável aos resíduos industriais
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
 
-## ANEXO III — Lista de empresas de gestão de resíduos
+ANEXO III
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+Lista de empresas de gestão de resíduos
 
-## ANEXO IV — Resíduos perigosos susceptíveis de valorização energética
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+
+ANEXO IV
+
+Resíduos perigosos susceptíveis de valorização energética
 
 Resíduos perigosos sujeitos a valorização energética caso se utilizasse o destino mais adequado (cenário)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2002/06/148a01/00020059.pdf)
 
 Referências bibliográficas
 

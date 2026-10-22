@@ -49,40 +49,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46048-1964-535422
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-12-02T00:00:00Z'
+  retrieved_at: '2026-10-22T19:43:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd85dd3da8604abe3a158225ae0a9ace19187c0d90d982d183ba78f34fe10a05
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87000a2d661a8e5e42a6d68417b8c1b005b97a2c4a8529c4159771363c219d47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:43:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Angola.Colónia Portuguesa
+- Definição de Competências
+- Estatuto
+- Gestão de Recursos Humanos
+- Guarda Fiscal
+- Integração de Trabalhadores
+- Polícia de Viação e Trânsito
+- PSP
+- Quadro de Pessoal
+- Reestruturação de Carreiras
+- Remuneração
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:477306:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:477306:por
+  label: "Alterados os artigos 2.º, 6.º, alínea i), 8.º, revogado o artigo 5.º, e substituído o Estatuto aprovado no presente\
+    \ diploma, pelo DEC.47360.02.12.1966.MU, DG.IS [279] de 02.12.1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/47360-1966-477306
+  date: '1966-12-02'
+- type: cites
+  target: pt:dre:169882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668690:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:43:05Z'
   warnings: []
   errors: []
 ---
@@ -103,17 +137,17 @@ Por proposta do Governo-Geral da província de Angola e ouvido o Conselho Ultram
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição Política, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aprovado o Estatuto da Polícia de Segurança Pública de Angola, que faz parte integrante deste decreto.
+Artigo 1.º É aprovado o Estatuto da Polícia de Segurança Pública de Angola, que faz parte integrante deste decreto.
 
-###### Art. 2.º Os quadros do pessoal da Polícia de Segurança Pública de Angola são os constantes dos mapas I e II anexos ao estatuto aprovado pelo artigo anterior.
+Art. 2.º Os quadros do pessoal da Polícia de Segurança Pública de Angola são os constantes dos mapas I e II anexos ao estatuto aprovado pelo artigo anterior.
 
-###### Art. 3.º Na Polícia de Segurança Pública de Angola são integrados o corpo da Guarda Fiscal e a polícia privativa dos serviços dos portos, caminhos de ferro e transportes, ficando sem efeito a criação da Polícia de Viação e Trânsito prevista no Diploma Legislativo Ministerial n.º 59, de 25 de Outubro de 1961, e [Decreto n.º 45575](https://diariodarepublica.pt/dr/detalhe/decreto/45575-1964-469853), de 26 de Fevereiro de 1964.
+Art. 3.º Na Polícia de Segurança Pública de Angola são integrados o corpo da Guarda Fiscal e a polícia privativa dos serviços dos portos, caminhos de ferro e transportes, ficando sem efeito a criação da Polícia de Viação e Trânsito prevista no Diploma Legislativo Ministerial n.º 59, de 25 de Outubro de 1961, e [Decreto n.º 45575](https://diariodarepublica.pt/dr/detalhe/decreto/45575-1964-469853), de 26 de Fevereiro de 1964.
 
-###### Art. 4.º A actual divisão territorial da Guarda Fiscal de Angola em circunscrições, secções e postos fiscais é adaptada à divisão territorial da Polícia de Segurança Pública da mesma província, em comandos distritais, esquadras, postos e subpostos.
+Art. 4.º A actual divisão territorial da Guarda Fiscal de Angola em circunscrições, secções e postos fiscais é adaptada à divisão territorial da Polícia de Segurança Pública da mesma província, em comandos distritais, esquadras, postos e subpostos.
 
-###### Art. 5.º A competência atribuída pelo Contencioso Aduaneiro do Ultramar aos elementos da Guarda Fiscal de Angola, especialmente quanto a buscas, vistorias, apreensões, autos de notícia e participações, e aos direitos emergentes desses actos, é extensiva, nos mesmos termos, aos elementos da Polícia de Segurança Pública.
+Art. 5.º A competência atribuída pelo Contencioso Aduaneiro do Ultramar aos elementos da Guarda Fiscal de Angola, especialmente quanto a buscas, vistorias, apreensões, autos de notícia e participações, e aos direitos emergentes desses actos, é extensiva, nos mesmos termos, aos elementos da Polícia de Segurança Pública.
 
-###### Art. 6.º O pessoal das corporações agora integradas transita, independentemente de quaisquer formalidades de nomeação, visto e posse, para os lugares do novo quadro a seguir indicados:
+Art. 6.º O pessoal das corporações agora integradas transita, independentemente de quaisquer formalidades de nomeação, visto e posse, para os lugares do novo quadro a seguir indicados:
 
 a) Para o lugar de 2.º comandante-geral, o actual 2.º comandante da Polícia de Segurança Pública;
 
@@ -159,9 +193,9 @@ c) Para os lugares de guarda de 4.ª classe, os restantes guardas auxiliares da 
 
 § 3.º Os funcionários dos actuais quadros de secretaria e especial que não pretendam transitar para o quadro de agentes, poderão requerer no prazo de 30 dias, contados da publicação deste decreto, o seu ingresso em lugar da mesma categoria de outros serviços públicos, com excepção do de Fazenda e alfândegas, em vagas existentes ou que venham a verificar-se. Enquanto não forem colocados nos novos quadros, continuarão prestando serviço na Polícia de Segurança Pública nas mesmas condições dos seus colegas que transitarem.
 
-###### Art. 7.º Ao pessoal de nomeação definitiva e cujas categorias, por força das disposições agora publicadas, passam a ter outra forma de provimento, são mantidos os seus actuais direitos.
+Art. 7.º Ao pessoal de nomeação definitiva e cujas categorias, por força das disposições agora publicadas, passam a ter outra forma de provimento, são mantidos os seus actuais direitos.
 
-###### Art. 8.º O pessoal da missão de apoio à agricultura (serviço rural) da Organização Provincial de Voluntários e Defesa Civil de Angola poderá ser integrado na Polícia de Segurança Pública da província, por despacho do respectivo governador-geral, com dispensa de visto e posse, desde que satisfaça as condições gerais de admissão previstas no regulamento respectivo, nas seguintes categorias:
+Art. 8.º O pessoal da missão de apoio à agricultura (serviço rural) da Organização Provincial de Voluntários e Defesa Civil de Angola poderá ser integrado na Polícia de Segurança Pública da província, por despacho do respectivo governador-geral, com dispensa de visto e posse, desde que satisfaça as condições gerais de admissão previstas no regulamento respectivo, nas seguintes categorias:
 
 a) Os oficiais do Exército, na correspondente ao seu posto;
 
@@ -173,23 +207,23 @@ d) Os voluntários, como guardas de 2.ª classe, ocuparão os seus lugares na re
 
 § único. Fica o governador-geral autorizado, independentemente de quaisquer outras formalidades, a admitir alguns elementos do pessoal citado no corpo deste artigo para os quadros da Polícia de Segurança Pública que não satisfaçam a todas as condições gerais de admissão, desde que por motivos especiais que justifiquem tal concessão.
 
-###### Art. 9.º Todo o património à responsabilidade da Guarda Fiscal de Angola, incluindo material de guerra, de aquartelamento, automóvel e de rádio, é aumentado ao património da Polícia de Segurança Pública de Angola.
+Art. 9.º Todo o património à responsabilidade da Guarda Fiscal de Angola, incluindo material de guerra, de aquartelamento, automóvel e de rádio, é aumentado ao património da Polícia de Segurança Pública de Angola.
 
-###### Art. 10.º O material citado no artigo anterior, mas pertencente à Organização Provincial de Voluntários e Defesa Civil de Angola e atribuído ao pessoal da missão de apoio à agricultura (serviço rural), passa ao património da Polícia de Segurança Pública de Angola.
+Art. 10.º O material citado no artigo anterior, mas pertencente à Organização Provincial de Voluntários e Defesa Civil de Angola e atribuído ao pessoal da missão de apoio à agricultura (serviço rural), passa ao património da Polícia de Segurança Pública de Angola.
 
-###### Art. 11.º Os encargos resultantes do pessoal da Polícia de Segurança Pública de Angola destacado dos serviços dos portos, caminhos de ferro e transportes da mesma província serão compensados por verba a inscrever no orçamento geral da província, por conta das receitas do orçamento privativo daquele serviço autónomo.
+Art. 11.º Os encargos resultantes do pessoal da Polícia de Segurança Pública de Angola destacado dos serviços dos portos, caminhos de ferro e transportes da mesma província serão compensados por verba a inscrever no orçamento geral da província, por conta das receitas do orçamento privativo daquele serviço autónomo.
 
-###### Art. 12.º Todo o pessoal, quer oriundo da Polícia de Segurança Pública, quer da Guarda Fiscal ou da polícia privativa dos serviços dos portos, caminhos de ferro e transportes, que já tenha completado 60 anos de idade na data da entrada em vigor do presente diploma será desligado do serviço, para efeitos de aposentação, a partir da mesma data, com direito à pensão correspondente à sua actual categoria.
+Art. 12.º Todo o pessoal, quer oriundo da Polícia de Segurança Pública, quer da Guarda Fiscal ou da polícia privativa dos serviços dos portos, caminhos de ferro e transportes, que já tenha completado 60 anos de idade na data da entrada em vigor do presente diploma será desligado do serviço, para efeitos de aposentação, a partir da mesma data, com direito à pensão correspondente à sua actual categoria.
 
 § único. Todo o pessoal que nos dois anos subsequentes à entrada em vigor deste diploma atingir os 60 anos de idade será igualmente desligado do serviço, com direito à pensão correspondente à sua actual categoria.
 
-###### Art. 13.º O provimento dos lugares criados pelo presente decreto que envolvam aumento de despesa deverá efectuar-se à medida que forem sendo orçamentados, ficando o governador-geral autorizado a abrir os créditos especiais necessários à sua execução, com contrapartida em recursos orçamentais.
+Art. 13.º O provimento dos lugares criados pelo presente decreto que envolvam aumento de despesa deverá efectuar-se à medida que forem sendo orçamentados, ficando o governador-geral autorizado a abrir os créditos especiais necessários à sua execução, com contrapartida em recursos orçamentais.
 
-###### Art. 14.º Ao comandante-geral é atribuída uma gratificação mensal de chefia.
+Art. 14.º Ao comandante-geral é atribuída uma gratificação mensal de chefia.
 
-###### Art. 15.º Este decreto entrará em vigor em 1 de Janeiro de 1965.
+Art. 15.º Este decreto entrará em vigor em 1 de Janeiro de 1965.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Novembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 
@@ -201,11 +235,11 @@ ESTATUTO DA POLÍCIA DE SEGURANÇA PÚBLICA DE ANGOLA
 
 #### SECÇÃO I — Disposições preliminares
 
-###### Artigo 1.º A Polícia de Segurança Pública constitui um organismo militarizado, integrável nas forças armadas, directamente dependente do Governo-Geral da província.
+Artigo 1.º A Polícia de Segurança Pública constitui um organismo militarizado, integrável nas forças armadas, directamente dependente do Governo-Geral da província.
 
-###### Art. 2.º A Polícia de Segurança Pública tem por missão assegurar, de um modo geral, a ordem e a tranquilidade públicas, a prevenção e repressão da criminalidade, a protecção e a defesa da propriedade pública e particular e a fiscalização aduaneira.
+Art. 2.º A Polícia de Segurança Pública tem por missão assegurar, de um modo geral, a ordem e a tranquilidade públicas, a prevenção e repressão da criminalidade, a protecção e a defesa da propriedade pública e particular e a fiscalização aduaneira.
 
-###### Art. 3.º Compete especialmente à Polícia de Segurança Pública:
+Art. 3.º Compete especialmente à Polícia de Segurança Pública:
 
 1.º Exercer o policiamento das ruas e lugares públicos, povoações, estradas, caminhos, rios, pontes, canais, obras de arte e florestas ou bosques, tanto do domínio público como privado, na ausência das polícias especiais, bem como de todas as solenidades, festas, espectáculos e reuniões públicas;
 
@@ -293,9 +327,9 @@ ESTATUTO DA POLÍCIA DE SEGURANÇA PÚBLICA DE ANGOLA
 
 43.º Quaisquer outros serviços que por lei, regulamentos ou ordens especiais lhe sejam incumbidos.
 
-###### Art. 4.º A Polícia de Segurança Pública exerce as suas funções em toda a área da província, de acordo com as disposições reguladoras da competência territorial dos elementos que a constituem.
+Art. 4.º A Polícia de Segurança Pública exerce as suas funções em toda a área da província, de acordo com as disposições reguladoras da competência territorial dos elementos que a constituem.
 
-###### Art. 5.º Em caso de guerra, estado de sítio ou em outras circunstâncias de emergência, a Polícia de Segurança Pública será posta, por simples despacho do governador-geral, sob contrôle operacional do comandante-chefe, se o houver, ou do comandante da região militar, de conformidade com as disposições do [Decreto-Lei n.º 43655](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43655-1961-169882), de 4 de Maio de 1961.
+Art. 5.º Em caso de guerra, estado de sítio ou em outras circunstâncias de emergência, a Polícia de Segurança Pública será posta, por simples despacho do governador-geral, sob contrôle operacional do comandante-chefe, se o houver, ou do comandante da região militar, de conformidade com as disposições do [Decreto-Lei n.º 43655](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43655-1961-169882), de 4 de Maio de 1961.
 
 § 1.º Se o estado de sítio ou as circunstâncias de emergência forem declaradas só em parte do território da província, aplicar-se-á a disposição do corpo deste artigo a todo o pessoal da Polícia de Segurança Pública que esteja prestando serviço naquela área.
 
@@ -303,9 +337,9 @@ ESTATUTO DA POLÍCIA DE SEGURANÇA PÚBLICA DE ANGOLA
 
 § 3.º Os serviços de fiscalização aduaneira, quando se verificarem as circunstâncias prescritas no corpo do artigo e no § 1.º, serão efectuados de harmonia com as instruções aprovadas pelo governador-geral, de acordo com o comandante-chefe, se o houver, ou o comandante da região militar, ouvido o director dos Serviços das Alfândegas.
 
-###### Art. 6.º Os assuntos de carácter exclusivamente aduaneiro serão tratados pelo Comando-Geral da Polícia de Segurança Pública com o director dos Serviços das Alfândegas, que decidirá aqueles cuja resolução seja da sua competência e submeterá a despacho do governador-geral, com o seu parecer, aqueles que excederem essa competência, competindo-lhe dar conhecimento ao referido Comando das decisões que tiverem sido tomadas pelo governador-geral em tais casos.
+Art. 6.º Os assuntos de carácter exclusivamente aduaneiro serão tratados pelo Comando-Geral da Polícia de Segurança Pública com o director dos Serviços das Alfândegas, que decidirá aqueles cuja resolução seja da sua competência e submeterá a despacho do governador-geral, com o seu parecer, aqueles que excederem essa competência, competindo-lhe dar conhecimento ao referido Comando das decisões que tiverem sido tomadas pelo governador-geral em tais casos.
 
-###### Art. 7.º A Polícia de Segurança Pública compreende:
+Art. 7.º A Polícia de Segurança Pública compreende:
 
 1.º O Comando-Geral;
 
@@ -315,9 +349,9 @@ ESTATUTO DA POLÍCIA DE SEGURANÇA PÚBLICA DE ANGOLA
 
 ##### SUBSECÇÃO I — Disposições preliminares
 
-###### Art. 8.º O Comando-Geral da Polícia de Segurança Pública é constituído por um comandante-geral, coadjuvado por um 2.º comandante-geral e por um chefe do estado-maior, que exerce a sua acção através de quatro repartições e dispõe ainda de chefias de serviços, conselho administrativo, formação do comando, companhia de polícia aduaneira, companhia de polícia de trânsito, companhia de polícia dos portos, caminhos de ferro e transportes, companhia de polícia montada, companhias móveis de polícia e uma escola prática de polícia.
+Art. 8.º O Comando-Geral da Polícia de Segurança Pública é constituído por um comandante-geral, coadjuvado por um 2.º comandante-geral e por um chefe do estado-maior, que exerce a sua acção através de quatro repartições e dispõe ainda de chefias de serviços, conselho administrativo, formação do comando, companhia de polícia aduaneira, companhia de polícia de trânsito, companhia de polícia dos portos, caminhos de ferro e transportes, companhia de polícia montada, companhias móveis de polícia e uma escola prática de polícia.
 
-###### Art. 9.º Junto do 2.º comandante-geral, e na sua dependência directa, haverá uma inspecção administrativa, técnica e de instrução e um gabinete de estudos, o qual inclui a biblioteca, a propaganda e a publicidade.
+Art. 9.º Junto do 2.º comandante-geral, e na sua dependência directa, haverá uma inspecção administrativa, técnica e de instrução e um gabinete de estudos, o qual inclui a biblioteca, a propaganda e a publicidade.
 
 § 1.º A inspecção administrativa assegura a inspecção dos serviços administrativos do Comando-Geral e dos diferentes comandos da corporação.
 
@@ -325,7 +359,7 @@ ESTATUTO DA POLÍCIA DE SEGURANÇA PÚBLICA DE ANGOLA
 
 § 3.º O gabinete de estudos é um órgão destinado ao estudo e elaboração de regulamentos, planeamentos e directivas e à sua publicação e difusão convenientes. Compreende também a biblioteca e os assuntos relativos à publicidade e propaganda.
 
-###### Art. 10.º A 1.ª Repartição terá a seu cargo a escrituração do pessoal e animal, justiça e disciplina, sendo constituída pelas seguintes secções:
+Art. 10.º A 1.ª Repartição terá a seu cargo a escrituração do pessoal e animal, justiça e disciplina, sendo constituída pelas seguintes secções:
 
 1.ª Secção - Expediente geral e arquivo: competem-lhe os assuntos relativos a expediente geral e arquivo, publicação das ordens de serviço do Comando-Geral, organização do ficheiro das ordens de execução permanente, bem como todos os outros não especificados nas demais secções.
 
@@ -333,7 +367,7 @@ ESTATUTO DA POLÍCIA DE SEGURANÇA PÚBLICA DE ANGOLA
 
 3.ª Secção - Justiça e disciplina: competem-lhe os assuntos relativos à disciplina, justiça e pareceres.
 
-###### Art. 11.º A 2.ª Repartição terá a seu cargo os assuntos relativos a informações, operações policiais e instrução, sendo constituída pelas seguintes secções:
+Art. 11.º A 2.ª Repartição terá a seu cargo os assuntos relativos a informações, operações policiais e instrução, sendo constituída pelas seguintes secções:
 
 1.ª Secção - Processos e cadastro: competem-lhe os assuntos relativos à centralização do serviço de cadastro e identificação dos indivíduos presos ou detidos pelos vários departamentos policiais e superintender na organização de processos respeitantes à aplicação de medidas de segurança.
 
@@ -341,23 +375,23 @@ ESTATUTO DA POLÍCIA DE SEGURANÇA PÚBLICA DE ANGOLA
 
 3.ª Secção - Operações e instrução: competem-lhe os assuntos relativos à coordenação e planeamento do emprego das forças da corporação nas operações de manutenção ou restabelecimento da ordem pública e o estudo de directivas e programas de instrução ou concursos de alistamento ou promoção.
 
-###### Art. 12.º A 3.ª Repartição terá a seu cargo o expediente relativo à importação, exportação, comércio, detenção, manifesto, uso e porte de armas, e bem assim das substâncias explosivas, e a fiscalização das armas e explosivos, sendo constituída pelas seguintes secções:
+Art. 12.º A 3.ª Repartição terá a seu cargo o expediente relativo à importação, exportação, comércio, detenção, manifesto, uso e porte de armas, e bem assim das substâncias explosivas, e a fiscalização das armas e explosivos, sendo constituída pelas seguintes secções:
 
 1.ª Secção - Cadastro de armas: competem-lhe os assuntos relativos ao cadastro, manifesto e averbamento de armas e suas transferências.
 
 2.ª Secção - Licenciamento e fiscalização de armas e explosivos: competem-lhe os assuntos relativos ao licenciamento de armas, munições e explosivos, sua fiscalização e consequentes serviços de transgressões e exames periciais.
 
-###### Art. 13.º A 4.ª Repartição terá a seu cargo a contabilidade e administração, sendo constituída pelas seguintes secções:
+Art. 13.º A 4.ª Repartição terá a seu cargo a contabilidade e administração, sendo constituída pelas seguintes secções:
 
 1.ª Secção - Orçamento e verificação de contas: competem-lhe os assuntos relativos à elaboração dos orçamentos e contratos, verificação e processamento de contas.
 
 2.ª Secção - Vencimentos e administração: competem-lhe os assuntos relativos a requisição de todos os fundos para a corporação, vencimentos e pagadoria.
 
-###### Art. 14.º Os chefes de repartição são oficiais do Exército com a categoria de adjuntos do Comando-Geral.
+Art. 14.º Os chefes de repartição são oficiais do Exército com a categoria de adjuntos do Comando-Geral.
 
-###### Art. 15.º As chefias das secções das repartições do Comando-Geral serão confiadas a comissários-chefes, mediante proposta do respectivo chefe de repartição, aprovada pelo comandante-geral.
+Art. 15.º As chefias das secções das repartições do Comando-Geral serão confiadas a comissários-chefes, mediante proposta do respectivo chefe de repartição, aprovada pelo comandante-geral.
 
-###### Art. 16.º As chefias de serviços compreendem:
+Art. 16.º As chefias de serviços compreendem:
 
 A) Serviço de material (S. M. G. A.): compete-lhe a superintendência e responsabilidade da recepção, estudo, manutenção, distribuição e movimento de carga do material de guerra e aquartelamento. Têm ainda a seu cargo, como actividades complementares, todas as oficinas não especificadas nos restantes serviços;
 
@@ -369,13 +403,13 @@ D) Serviços de saúde (S. S.): compete-lhes prestar assistência ao pessoal e f
 
 E) Serviços sociais: compete-lhes a manutenção de um adequado nível social e de independência da corporação, podendo ter a seu cargo as oficinas de alfaiataria, sapataria, barbearia e outras que o comandante-geral julgar conveniente para os fins em vista.
 
-###### Art. 17.º Ao conselho administrativo compete, de um modo geral, a gestão administrativa de todos os assuntos respeitantes ao Comando-Geral.
+Art. 17.º Ao conselho administrativo compete, de um modo geral, a gestão administrativa de todos os assuntos respeitantes ao Comando-Geral.
 
-###### Art. 18.º O conselho administrativo do Comando-Geral é composto por um presidente (um dos adjuntos do Comando-Geral, excepto o chefe da 4.ª Repartição), um chefe da contabilidade e um tesoureiro.
+Art. 18.º O conselho administrativo do Comando-Geral é composto por um presidente (um dos adjuntos do Comando-Geral, excepto o chefe da 4.ª Repartição), um chefe da contabilidade e um tesoureiro.
 
 § único. Na falta ou impedimento de qualquer membro do conselho administrativo a substituição incumbirá a quem o comandante-geral designar.
 
-###### Art. 19.º Os membros do conselho administrativo, quando não façam declaração de voto em contrário da resolução tomada, são solidàriamente responsáveis:
+Art. 19.º Os membros do conselho administrativo, quando não façam declaração de voto em contrário da resolução tomada, são solidàriamente responsáveis:
 
 a) Pelas resoluções que contrariem as leis, regulamentos e disposições vigentes;
 
@@ -385,51 +419,51 @@ c) Pela falta de cumprimento de quaisquer prescrições regulamentares ou legais
 
 § único. Os membros do conselho administrativo que deixarem de exercer as funções respectivas responderão pelas faltas e contravenções que porventura tenha havido durante a sua gerência, nos termos do corpo deste artigo.
 
-###### Art. 20.º A formação do Comando-Geral destina-se a enquadrar administrativamente e para efeitos de disciplina, instrução e ordem pública todo o pessoal em serviço ou apresentado no Comando-Geral, não integrado noutras companhias, competindo-lhe a organização de uma companhia de defesa civil com todo esse pessoal.
+Art. 20.º A formação do Comando-Geral destina-se a enquadrar administrativamente e para efeitos de disciplina, instrução e ordem pública todo o pessoal em serviço ou apresentado no Comando-Geral, não integrado noutras companhias, competindo-lhe a organização de uma companhia de defesa civil com todo esse pessoal.
 
 § 1.º A formação do Comando-Geral será comandada pelo chefe da 3.ª Repartição, e na sua falta ou impedimento por quem o comandante-geral designar.
 
 § 2.º Para efeitos de disciplina, instrução e ordem pública, todo o pessoal da formação do Comando-Geral poderá ficar dependente do comando distrital de Luanda.
 
-###### Art. 21.º A companhia de polícia aduaneira destina-se a centralizar e coordenar todos os assuntos de carácter exclusivamente aduaneiro, os quais serão tratados com o director provincial dos serviços das alfândegas e seguidamente transmitidos aos comandos distritais, após despacho do comandante-geral.
+Art. 21.º A companhia de polícia aduaneira destina-se a centralizar e coordenar todos os assuntos de carácter exclusivamente aduaneiro, os quais serão tratados com o director provincial dos serviços das alfândegas e seguidamente transmitidos aos comandos distritais, após despacho do comandante-geral.
 
 § 1.º Ao comandante da companhia de polícia aduaneira compete, além das funções de conselheiro técnico-aduaneiro do Comando-Geral e de difusor das respectivas normas para a instrução nas escolas de alistados e nos comandos distritais nos assuntos de carácter exclusivamente aduaneiro, dirigir, orientar e fiscalizar todos os serviços de fiscalização aduaneira na cidade de Luanda e comandar o pessoal que ali prestar serviço.
 
 § 2.º Para efeitos de disciplina, instrução e ordem pública, todo o pessoal da companhia de polícia aduaneira fica dependente do comando distrital de Luanda.
 
-###### Art. 22.º A companhia de polícia de trânsito destina-se a centralizar e coordenar todos os assuntos de carácter exclusivamente de viação e trânsito, os quais serão tratados com o director provincial dos serviços de obras públicas e transportes e seguidamente transmitidos aos comandos distritais, após despacho do comandante-geral.
+Art. 22.º A companhia de polícia de trânsito destina-se a centralizar e coordenar todos os assuntos de carácter exclusivamente de viação e trânsito, os quais serão tratados com o director provincial dos serviços de obras públicas e transportes e seguidamente transmitidos aos comandos distritais, após despacho do comandante-geral.
 
 § 1.º Ao comandante da companhia de polícia de trânsito compete, além das funções de conselheiro técnico do Comando-Geral nos assuntos de viação e trânsito e de difusor das respectivas normas para a instrução nas escolas de alistados e nos comandos distritais, dirigir, orientar e fiscalizar todos os serviços de trânsito na cidade de Luanda e comandar o pessoal que ali preste serviço.
 
 § 2.º Para efeitos de disciplina, instrução e ordem pública, todo o pessoal da companhia de polícia de trânsito fica dependente do comando distrital de Luanda.
 
-###### Art. 23.º A companhia de polícia dos portos, caminhos de ferro e transportes destina-se a centralizar e coordenar todos os assuntos ligados à vigilância e defesa das instalações portuárias, ferroviárias e aeródromos, os quais serão tratados com os directores dos serviços dos portos, caminhos de ferro e transportes e da aeronáutica civil e seguidamente transmitidos aos comandos distritais, após despacho do comandante-geral.
+Art. 23.º A companhia de polícia dos portos, caminhos de ferro e transportes destina-se a centralizar e coordenar todos os assuntos ligados à vigilância e defesa das instalações portuárias, ferroviárias e aeródromos, os quais serão tratados com os directores dos serviços dos portos, caminhos de ferro e transportes e da aeronáutica civil e seguidamente transmitidos aos comandos distritais, após despacho do comandante-geral.
 
 § 1.º Ao comandante da companhia de polícia dos portos, caminhos de ferro e transportes compete, além das funções de conselheiro técnico do Comando-Geral nos assuntos atribuídos à companhia e de difusor das respectivas normas para a instrução nas escolas de alistados e nos comandos distritais, dirigir, orientar e fiscalizar todos os serviços de vigilância e defesa das instalações portuárias, ferroviárias e aeródromos na cidade de Luanda e comandar o pessoal que ali preste serviço.
 
 § 2.º Para efeitos de disciplina, instrução e ordem pública, todo o pessoal da companhia de polícia dos portos, caminhos de ferro e transportes fica dependente do comando distrital de Luanda.
 
-###### Art. 24.º A companhia de polícia montada destina-se a preparar e instruir o pessoal e solípedes para os serviços de polícia montada que o comandante-geral determinar, difundindo as respectivas normas para os comandos distritais.
+Art. 24.º A companhia de polícia montada destina-se a preparar e instruir o pessoal e solípedes para os serviços de polícia montada que o comandante-geral determinar, difundindo as respectivas normas para os comandos distritais.
 
 § único. Para efeitos de disciplina, instrução e ordem pública, todo o pessoal da companhia de polícia montada fica dependente do comando distrital de Luanda.
 
-###### Art. 25.º As companhias móveis de polícia são unidades de polícia especialmente instruídas para a manutenção da ordem pública e destinadas a ocorrer ràpidamente a qualquer local onde for julgada necessária a sua presença.
+Art. 25.º As companhias móveis de polícia são unidades de polícia especialmente instruídas para a manutenção da ordem pública e destinadas a ocorrer ràpidamente a qualquer local onde for julgada necessária a sua presença.
 
-###### Art. 26.º A escola prática de polícia destina-se a instruir os novos agentes alistados e organizar cursos e exames para promoção ou especialização dos agentes policiais. Deverá ainda servir de centro experimental e orientador da instrução da corporação. Terá ainda a seu cargo a organização e funcionamento de um centro de instrução de cães-polícias.
+Art. 26.º A escola prática de polícia destina-se a instruir os novos agentes alistados e organizar cursos e exames para promoção ou especialização dos agentes policiais. Deverá ainda servir de centro experimental e orientador da instrução da corporação. Terá ainda a seu cargo a organização e funcionamento de um centro de instrução de cães-polícias.
 
 ##### SUBSECÇÃO II — Do comandante-geral
 
-###### Art. 27.º O comandante-geral dirige, orienta e fiscaliza todos os serviços a cargo da Polícia de Segurança Pública e submete a despacho do governador-geral, devidamente informados, os assuntos que careçam de resolução superior.
+Art. 27.º O comandante-geral dirige, orienta e fiscaliza todos os serviços a cargo da Polícia de Segurança Pública e submete a despacho do governador-geral, devidamente informados, os assuntos que careçam de resolução superior.
 
 ##### SUBSECÇÃO III — Do 2.º comandante-geral
 
-###### Art. 28.º O 2.º comandante-geral coadjuva o comandante-geral no exercício das suas funções, substituindo-o nas suas ausências e impedimentos legais.
+Art. 28.º O 2.º comandante-geral coadjuva o comandante-geral no exercício das suas funções, substituindo-o nas suas ausências e impedimentos legais.
 
 § único. Além da competência que lhe é atribuída no corpo do artigo, o 2.º comandante-geral assegura as inspecções dos serviços citados no artigo 9.º e seus parágrafos.
 
 ##### SUBSECÇÃO IV — Do chefe do estado-maior
 
-###### Art. 29.º O chefe do estado-maior dirige, orienta e fiscaliza todo o serviço do Comando-Geral, competindo-lhe especialmente:
+Art. 29.º O chefe do estado-maior dirige, orienta e fiscaliza todo o serviço do Comando-Geral, competindo-lhe especialmente:
 
 1.º Servir de intermediário entre o comando e todas as entidades que a este estejam subordinadas;
 
@@ -453,33 +487,33 @@ c) Pela falta de cumprimento de quaisquer prescrições regulamentares ou legais
 
 ##### SUBSECÇÃO I — Disposições preliminares
 
-###### Art. 30.º As polícias distritais dependem directamente do comandante-geral e deverão estar organizadas em comandos distritais.
+Art. 30.º As polícias distritais dependem directamente do comandante-geral e deverão estar organizadas em comandos distritais.
 
 § único. Nos distritos onde, pela sua importância populacional, extensão, ou por outros motivos, for julgado conveniente, poderão ser criadas secções policiais, directamente dependentes do comandante distrital, quer com a missão específica de segurança, quer aduaneira, de trânsito ou dos portos e caminhos de ferro.
 
-###### Art. 31.º Os comandos distritais e de secções deverão prestar íntima colaboração aos respectivos governadores de distrito e informá-los de todas as ocorrências que possam ter interesse para a condução da política ou da administração local.
+Art. 31.º Os comandos distritais e de secções deverão prestar íntima colaboração aos respectivos governadores de distrito e informá-los de todas as ocorrências que possam ter interesse para a condução da política ou da administração local.
 
 § único. Nos concelhos e circunscrições administrativas as forças policiais deverão proceder, em relação aos respectivos administradores de circunscrição ou de posto, na conformidade do que se dispõe no corpo do presente artigo.
 
-###### Art. 32.º Aos comandos distritais compete exercer, na área do respectivo distrito, as funções que lhe são atribuídas por este diploma e pelo regulamento e compreendem, além do comando, serviços policiais, administrativos e de saúde.
+Art. 32.º Aos comandos distritais compete exercer, na área do respectivo distrito, as funções que lhe são atribuídas por este diploma e pelo regulamento e compreendem, além do comando, serviços policiais, administrativos e de saúde.
 
 ##### SUBSECÇÃO II — Do comando
 
-###### Art. 33.º O comando é exercido por um comandante distrital, a quem compete a direcção e fiscalização de todos os serviços.
+Art. 33.º O comando é exercido por um comandante distrital, a quem compete a direcção e fiscalização de todos os serviços.
 
 § 1.º Quando as necessidades de serviço o aconselhem, poderá o comandante ser coadjuvado no exercício das suas funções por um adjunto distrital.
 
 § 2.º O comandante será substituído nas suas faltas e impedimentos, sucessivamente, pelo adjunto distrital, comandantes de secção, por ordem de patente e antiguidade, e comissário.
 
-###### Art. 34.º Junto do comando poderá funcionar um curso de habilitação para os postos de chefe de esquadra e segundo-subchefe.
+Art. 34.º Junto do comando poderá funcionar um curso de habilitação para os postos de chefe de esquadra e segundo-subchefe.
 
 § único. Os programas e condições de admissão são estabelecidos pelo Comando-Geral.
 
 ##### SUBSECÇÃO III — Dos serviços policiais
 
-###### Art. 35.º Nos comandos distritais há secções de comando, esquadras, brigadas montadas, postos e subpostos e, eventualmente, secções destacadas.
+Art. 35.º Nos comandos distritais há secções de comando, esquadras, brigadas montadas, postos e subpostos e, eventualmente, secções destacadas.
 
-###### Art. 36.º As secções de comando são dirigidas por graduados, sob a orientação directa dos comandantes.
+Art. 36.º As secções de comando são dirigidas por graduados, sob a orientação directa dos comandantes.
 
 § 1.º As secções de comando são duas: de justiça e administrativa.
 
@@ -487,19 +521,19 @@ c) Pela falta de cumprimento de quaisquer prescrições regulamentares ou legais
 
 § 3.º As secções de comando exercem as atribuições que forem definidas em regulamentos.
 
-###### Art. 37.º Poderá funcionar adstrita ao comando, às esquadras ou aos postos uma secção de guardas-nocturnos.
+Art. 37.º Poderá funcionar adstrita ao comando, às esquadras ou aos postos uma secção de guardas-nocturnos.
 
-###### Art. 38.º As esquadras e as brigadas montadas são comandadas por chefes de esquadra e, na falta destes, por subchefes-ajudantes, dependendo directamente do comando.
+Art. 38.º As esquadras e as brigadas montadas são comandadas por chefes de esquadra e, na falta destes, por subchefes-ajudantes, dependendo directamente do comando.
 
-###### Art. 39.º Os postos são comandados por subchefes-ajudantes e, na sua falta, por outros graduados.
+Art. 39.º Os postos são comandados por subchefes-ajudantes e, na sua falta, por outros graduados.
 
 § único. Quando circunstâncias o aconselhem, os postos poderão ser comandados por chefes de esquadra.
 
-###### Art. 40.º Os subpostos são comandados por subchefes e, na sua falta, pelo guarda mais antigo ou outro por escolha.
+Art. 40.º Os subpostos são comandados por subchefes e, na sua falta, pelo guarda mais antigo ou outro por escolha.
 
-###### Art. 41.º As secções destacadas terão a constituição que for determinada pelo Comando-Geral.
+Art. 41.º As secções destacadas terão a constituição que for determinada pelo Comando-Geral.
 
-###### Art. 42.º Às esquadras, postos e subpostos compete:
+Art. 42.º Às esquadras, postos e subpostos compete:
 
 1.º Cumprir a missão que incumbe à polícia de segurança pública, dentro das suas áreas;
 
@@ -507,41 +541,41 @@ c) Pela falta de cumprimento de quaisquer prescrições regulamentares ou legais
 
 3.º Proceder a toda a fiscalização conferida à polícia de segurança pública e organizar os respectivos processos.
 
-###### Art. 43.º As esquadras, postos e subpostos devem prestar às autoridades administrativas, aduaneiras e judiciais, em íntima colaboração, o auxílio que lhe for solicitado dentro do âmbito das suas atribuições, competindo aos respectivos comandantes determinar o modo de o prestar.
+Art. 43.º As esquadras, postos e subpostos devem prestar às autoridades administrativas, aduaneiras e judiciais, em íntima colaboração, o auxílio que lhe for solicitado dentro do âmbito das suas atribuições, competindo aos respectivos comandantes determinar o modo de o prestar.
 
 ##### SUBSECÇÃO IV — Dos serviços administrativos
 
-###### Art. 44.º Os serviços administrativos das polícias distritais estão a cargo de um conselho administrativo e de uma secretaria.
+Art. 44.º Os serviços administrativos das polícias distritais estão a cargo de um conselho administrativo e de uma secretaria.
 
-###### Art. 45.º O conselho administrativo é constituído pelo comandante, pelo adjunto distrital e pelo comissário, os quais servirão de presidente, chefe de contabilidade e de tesoureiro, respectivamente.
+Art. 45.º O conselho administrativo é constituído pelo comandante, pelo adjunto distrital e pelo comissário, os quais servirão de presidente, chefe de contabilidade e de tesoureiro, respectivamente.
 
 § 1.º Na falta ou impedimento de qualquer membro do conselho administrativo a substituição incumbirá a quem o comandante designar.
 
 § 2.º É aplicável aos conselhos administrativos das polícias distritais o disposto no artigo 19.º e § único.
 
-###### Art. 46.º O serviço da secretaria é assegurado pelo pessoal respectivo, sob a orientação do comandante.
+Art. 46.º O serviço da secretaria é assegurado pelo pessoal respectivo, sob a orientação do comandante.
 
 ##### SUBSECÇÃO V — Dos serviços de saúde
 
-###### Art. 47.º Em cada comando distrital haverá um posto de socorros; as funções de médico do posto poderão ser exercidas pelo delegado ou subdelegado de saúde respectivo, enquanto não houver médico contratado na corporação.
+Art. 47.º Em cada comando distrital haverá um posto de socorros; as funções de médico do posto poderão ser exercidas pelo delegado ou subdelegado de saúde respectivo, enquanto não houver médico contratado na corporação.
 
 ##### SUBSECÇÃO VI — Disposições especiais para a Polícia de Luanda
 
-###### Art. 48.º Ao comando distrital de Luanda são aplicáveis as disposições dos artigos antecedentes, com as especialidades constantes desta subsecção.
+Art. 48.º Ao comando distrital de Luanda são aplicáveis as disposições dos artigos antecedentes, com as especialidades constantes desta subsecção.
 
-###### Art. 49.º O comando é exercido por um 1.º comandante, a quem compete a direcção e a fiscalização de todos os serviços e que é coadjuvado por um 2.º comandante, que o substituirá nas suas faltas e impedimentos.
+Art. 49.º O comando é exercido por um 1.º comandante, a quem compete a direcção e a fiscalização de todos os serviços e que é coadjuvado por um 2.º comandante, que o substituirá nas suas faltas e impedimentos.
 
-###### Art. 50.º Na cidade de Luanda as esquadras e postos agrupam-se em companhias de polícia urbana e suburbanas dirigidas por comandantes de companhia, coadjuvados por comandantes de secção.
+Art. 50.º Na cidade de Luanda as esquadras e postos agrupam-se em companhias de polícia urbana e suburbanas dirigidas por comandantes de companhia, coadjuvados por comandantes de secção.
 
-###### Art. 51.º As secções de comando são dirigidas por comissários-chefes.
+Art. 51.º As secções de comando são dirigidas por comissários-chefes.
 
-###### Art. 52.º Adstrita ao comando funciona uma secção de guardas-nocturnos dirigida por um chefe de esquadra.
+Art. 52.º Adstrita ao comando funciona uma secção de guardas-nocturnos dirigida por um chefe de esquadra.
 
-###### Art. 53.º A secretaria é dirigida por um comissário-chefe, sob a orientação do 2.º comandante.
+Art. 53.º A secretaria é dirigida por um comissário-chefe, sob a orientação do 2.º comandante.
 
-###### Art. 54.º As funções de presidente, chefe da contabilidade e tesoureiro do conselho administrativo são desempenhadas, respectivamente, pelo 2.º comandante, por um comissário-chefe e por um comissário.
+Art. 54.º As funções de presidente, chefe da contabilidade e tesoureiro do conselho administrativo são desempenhadas, respectivamente, pelo 2.º comandante, por um comissário-chefe e por um comissário.
 
-###### Art. 55.º Os órgãos do comando geral asseguram os serviços do comando distrital de Luanda, de harmonia com as instruções do comandante-geral.
+Art. 55.º Os órgãos do comando geral asseguram os serviços do comando distrital de Luanda, de harmonia com as instruções do comandante-geral.
 
 § único. Quando as exigências do serviço o impuserem, poderão ser criados no comando distrital de Luanda os órgãos necessários para uma melhor eficiência do serviço, desde que os efectivos não excedam os constantes dos mapas n.os I e II anexos a este diploma.
 
@@ -549,7 +583,7 @@ c) Pela falta de cumprimento de quaisquer prescrições regulamentares ou legais
 
 #### SECÇÃO I — Dos quadros e categorias
 
-###### Art. 56.º O pessoal da Polícia de Segurança Pública é o constante dos mapas anexos a este diploma e distribui-se pelos seguintes quadros e categorias:
+Art. 56.º O pessoal da Polícia de Segurança Pública é o constante dos mapas anexos a este diploma e distribui-se pelos seguintes quadros e categorias:
 
 1.º Oficiais do Exército.
 
@@ -565,7 +599,7 @@ b) Assalariados: guardas de 3.ª classe e guardas de 4.ª classe.
 
 ##### SUBSECÇÃO I — Dos oficiais do Exército
 
-###### Art. 57.º Os oficiais do Exército em serviço na Polícia de Segurança Pública terão as seguintes categorias:
+Art. 57.º Os oficiais do Exército em serviço na Polícia de Segurança Pública terão as seguintes categorias:
 
 a) Comandante-geral, 2.º comandante-geral e comandante distrital de Luanda - oficial superior;
 
@@ -581,33 +615,33 @@ e) Comandantes de secção - tenente.
 
 § 2.º Os chefes de serviços vencerão pelas categorias das letras G e F consoante sejam tenentes ou capitães.
 
-###### Art. 58.º Para o serviço da Polícia de Segurança Pública os oficiais do Exército serão, precedendo requisição ao Ministério do Exército, nomeados pelo Ministro do Ultramar, de entre os oficiais do qualquer arma ou serviço, do activo ou da reserva, dos quadros permanente ou de complemento. Sempre que um oficial seja promovido, a sua manutenção na Polícia de Segurança Pública dependerá de prévia anuência do Ministério do Exército e subsequente nomeação para o novo lugar a desempenhar.
+Art. 58.º Para o serviço da Polícia de Segurança Pública os oficiais do Exército serão, precedendo requisição ao Ministério do Exército, nomeados pelo Ministro do Ultramar, de entre os oficiais do qualquer arma ou serviço, do activo ou da reserva, dos quadros permanente ou de complemento. Sempre que um oficial seja promovido, a sua manutenção na Polícia de Segurança Pública dependerá de prévia anuência do Ministério do Exército e subsequente nomeação para o novo lugar a desempenhar.
 
 ##### SUBSECÇÃO II — Dos agentes da Polícia
 
 Do pessoal do quadro
 
-###### ART. 59.º O provimento dos lugares de guarda de 2.ª classe é feito por concurso documental.
+ART. 59.º O provimento dos lugares de guarda de 2.ª classe é feito por concurso documental.
 
-###### Art. 60.º Só poderão ser admitidos a concurso os indivíduos que, sendo praças de qualquer ramo das forças armadas, da Guarda Nacional Republicana ou da Guarda Fiscal, ou tendo já prestado serviço militar, e ainda guardas de outras polícias e os de 3.ª e 4.ª classe desta corporação, desde que reúnam as condições previstas no regulamento da Polícia de Segurança Pública.
+Art. 60.º Só poderão ser admitidos a concurso os indivíduos que, sendo praças de qualquer ramo das forças armadas, da Guarda Nacional Republicana ou da Guarda Fiscal, ou tendo já prestado serviço militar, e ainda guardas de outras polícias e os de 3.ª e 4.ª classe desta corporação, desde que reúnam as condições previstas no regulamento da Polícia de Segurança Pública.
 
-###### Art. 61.º A admissão ao concurso será solicitada em requerimento dirigido ao comandante-geral e instruído segundo as condições estabelecidas no regulamento.
+Art. 61.º A admissão ao concurso será solicitada em requerimento dirigido ao comandante-geral e instruído segundo as condições estabelecidas no regulamento.
 
-###### Art. 62.º Os candidatos serão alistados segundo a ordem de classificação no concurso, após serem submetidos à inspecção médica, sendo motivo de preferência as condições expressas no regulamento.
+Art. 62.º Os candidatos serão alistados segundo a ordem de classificação no concurso, após serem submetidos à inspecção médica, sendo motivo de preferência as condições expressas no regulamento.
 
-###### Art. 63.º O alistamento dos guardas de 2.ª classe será feito, mediante contrato, por um período de dois anos; decorrido este, serão nomeados provisòriamente nos termos da lei.
+Art. 63.º O alistamento dos guardas de 2.ª classe será feito, mediante contrato, por um período de dois anos; decorrido este, serão nomeados provisòriamente nos termos da lei.
 
 § 1.º Na contagem de tempo como guarda de 2.ª classe contratado não será considerado o período de impedimento desde que não tenha sido motivado por conveniência de serviço.
 
 § 2.º A nomeação definitiva dos guardas de 2.ª classe investe-os na categoria de guardas de 1.ª classe.
 
-###### Art. 64.º São condições necessárias para a nomeação provisória, recondução e nomeação definitiva, o bom comportamento, a aptidão física, a capacidade para o desempenho das funções e a conveniência do serviço.
+Art. 64.º São condições necessárias para a nomeação provisória, recondução e nomeação definitiva, o bom comportamento, a aptidão física, a capacidade para o desempenho das funções e a conveniência do serviço.
 
 § único. Para efeitos do disposto neste artigo consideram-se como tendo bom comportamento os guardas que nunca baixaram à 3.ª classe de comportamento.
 
-###### Art. 65.º As promoções a segundo-subchefe serão feitas mediante concurso entre os guardas de 1.ª e 2.ª classes que reúnam as condições previstas no regulamento.
+Art. 65.º As promoções a segundo-subchefe serão feitas mediante concurso entre os guardas de 1.ª e 2.ª classes que reúnam as condições previstas no regulamento.
 
-###### Art. 66.º As promoções a primeiro-subchefe serão feitas pela ordem de classificação no concurso para chefes de esquadra e por antiguidade, devendo observar-se o seguinte:
+Art. 66.º As promoções a primeiro-subchefe serão feitas pela ordem de classificação no concurso para chefes de esquadra e por antiguidade, devendo observar-se o seguinte:
 
 a) A primeira vaga será destinada ao segundo-subchefe melhor classificado no concurso para chefe de esquadra, ainda não promovido a esta categoria;
 
@@ -615,47 +649,47 @@ b) A segunda vaga será destinada ao segundo-subchefe mais antigo, desde que ten
 
 c) Para as restantes vagas seguir-se-á o critério indicado nas alíneas anteriores, e quando não houver mais segundos-subchefes aprovados na lista válida da classificação para chefe de esquadra as restantes promoções que haja serão feitas nos termos da alínea b).
 
-###### Art. 67.º As promoções a subchefe-ajudante serão destinadas aos primeiros ou segundos-subchefes pela ordem de classificação no concurso para chefe de esquadra ainda não promovidos a esta categoria.
+Art. 67.º As promoções a subchefe-ajudante serão destinadas aos primeiros ou segundos-subchefes pela ordem de classificação no concurso para chefe de esquadra ainda não promovidos a esta categoria.
 
-###### Art. 68.º As promoções a chefe de esquadra serão feitas mediante concurso entre os primeiros e segundos-subchefes que reúnam as condições previstas no regulamento.
+Art. 68.º As promoções a chefe de esquadra serão feitas mediante concurso entre os primeiros e segundos-subchefes que reúnam as condições previstas no regulamento.
 
-###### Art. 69.º As promoções a comissário serão feitas mediante concurso entre os chefes de esquadra que reúnam as condições previstas no regulamento.
+Art. 69.º As promoções a comissário serão feitas mediante concurso entre os chefes de esquadra que reúnam as condições previstas no regulamento.
 
-###### Art. 70.º As promoções a comissário-chefe serão feitas pelo governador-geral de entre os comissários, colocados na metade superior da escala, por proposta do comandante-geral, ouvido o conselho de disciplina, nas condições do regulamento.
+Art. 70.º As promoções a comissário-chefe serão feitas pelo governador-geral de entre os comissários, colocados na metade superior da escala, por proposta do comandante-geral, ouvido o conselho de disciplina, nas condições do regulamento.
 
-###### Art. 71.º Poderá haver promoções por distinção, destinadas a galardoar condutas excepcionais. Estas promoções são da competência do governador-geral, mediante proposta do comandante-geral, ouvido o conselho de disciplina.
+Art. 71.º Poderá haver promoções por distinção, destinadas a galardoar condutas excepcionais. Estas promoções são da competência do governador-geral, mediante proposta do comandante-geral, ouvido o conselho de disciplina.
 
 Do pessoal assalariado
 
-###### Art. 72.º Os guardas de 3.ª e 4.ª classe prestam serviço na Polícia de Segurança Pública como assalariados e serão admitidos, promovidos e dispensados do serviço pelo comandante-geral, nas condições estabelecidas no regulamento.
+Art. 72.º Os guardas de 3.ª e 4.ª classe prestam serviço na Polícia de Segurança Pública como assalariados e serão admitidos, promovidos e dispensados do serviço pelo comandante-geral, nas condições estabelecidas no regulamento.
 
 ##### SUBSECÇÃO III — Do pessoal contratado
 
-###### Art. 73.º Os médicos serão contratados precedendo despacho do governador-geral.
+Art. 73.º Os médicos serão contratados precedendo despacho do governador-geral.
 
 § único. Quando tal se justifique, poderão também ser contratados médicos, em regime de avença, cuja importância será estabelecida por despacho do governador-geral, sobre proposta do comandante-geral.
 
-###### Art. 74.º O pessoal para o desempenho de serviços que exijam aptidão especializada será contratado pelo comandante-geral, mediante prévio despacho do governador-geral
+Art. 74.º O pessoal para o desempenho de serviços que exijam aptidão especializada será contratado pelo comandante-geral, mediante prévio despacho do governador-geral
 
-###### Art. 75.º Os contratos serão celebrados pelo período de um ano, sucessivamente renovável por iguais períodos, nos termos da lei.
+Art. 75.º Os contratos serão celebrados pelo período de um ano, sucessivamente renovável por iguais períodos, nos termos da lei.
 
 #### SECÇÃO III — Da prestação de serviços
 
 ##### SUBSECÇÃO I — Das posses e apresentações
 
-###### Art. 76.º A posse aos comandantes é dada pelo comandante-geral ou, por sua delegação, pelo 2.º comandante-geral, ou, na sua falta ou impedimento, pelo comandante distrital de Luanda.
+Art. 76.º A posse aos comandantes é dada pelo comandante-geral ou, por sua delegação, pelo 2.º comandante-geral, ou, na sua falta ou impedimento, pelo comandante distrital de Luanda.
 
 § único. Depois da posse os oficiais deverão fazer, em regra, um estágio de, pelo menos, duas semanas, em comando diverso daquele onde vão prestar serviço, e em que se apresentarão logo em seguida.
 
 ##### SUBSECÇÃO II — Das substituições e acumulações
 
-###### Art. 77.º As substituições, salvo casos especialmente previstos neste diploma e em regulamentos, recaem nos funcionários e agentes da mesma categoria, e, em sua falta, nos de categoria imediatamente inferior.
+Art. 77.º As substituições, salvo casos especialmente previstos neste diploma e em regulamentos, recaem nos funcionários e agentes da mesma categoria, e, em sua falta, nos de categoria imediatamente inferior.
 
-###### Art. 78.º A acumulação de funções pode ser determinada pelos comandantes, mas constará sempre da ordem de serviço.
+Art. 78.º A acumulação de funções pode ser determinada pelos comandantes, mas constará sempre da ordem de serviço.
 
 ##### SUBSECÇÃO III — Das licenças
 
-###### Art. 79.º A todo o pessoal da Polícia de Segurança Pública podem ser concedidas, sempre que as condições do serviço o permitam e conforme o que for estabelecido em regulamento, as seguintes licenças:
+Art. 79.º A todo o pessoal da Polícia de Segurança Pública podem ser concedidas, sempre que as condições do serviço o permitam e conforme o que for estabelecido em regulamento, as seguintes licenças:
 
 a) Licença disciplinar;
 
@@ -671,13 +705,13 @@ f) Licença ilimitada.
 
 #### SECÇÃO IV — Dos vencimentos, abonos e outras regalias
 
-###### Art. 80.º Os vencimentos a que o pessoal da Polícia de Segurança Pública tem direito são os constantes dos mapas anexos a este diploma.
+Art. 80.º Os vencimentos a que o pessoal da Polícia de Segurança Pública tem direito são os constantes dos mapas anexos a este diploma.
 
-###### Art. 81.º Constitui encargo do Estado o fardamento do pessoal assalariado. O restante pessoal até comissário-chefe, inclusive, terá direito a um subsídio para fardamento nas condições estabelecidas pelo Governo-Geral da província.
+Art. 81.º Constitui encargo do Estado o fardamento do pessoal assalariado. O restante pessoal até comissário-chefe, inclusive, terá direito a um subsídio para fardamento nas condições estabelecidas pelo Governo-Geral da província.
 
-###### Art. 82.º Constituem encargo do Estado as refeições fornecidas durante os períodos de prevenção, rigorosa ou simples, ou equivalente.
+Art. 82.º Constituem encargo do Estado as refeições fornecidas durante os períodos de prevenção, rigorosa ou simples, ou equivalente.
 
-###### Art. 83.º O pessoal da Polícia de Segurança Pública tem direito a abono de uma ajuda de custo diária por transferência ou deslocação por motivo de serviço, por tempo superior a dez horas, conforme as tabelas aprovadas. Tem ainda direito ao transporte por conta do Estado, para si e sua família, bagagem e mobília, mediante requerimento ao governador-geral, quando a transferência não seja a pedido ou por motivo disciplinar.
+Art. 83.º O pessoal da Polícia de Segurança Pública tem direito a abono de uma ajuda de custo diária por transferência ou deslocação por motivo de serviço, por tempo superior a dez horas, conforme as tabelas aprovadas. Tem ainda direito ao transporte por conta do Estado, para si e sua família, bagagem e mobília, mediante requerimento ao governador-geral, quando a transferência não seja a pedido ou por motivo disciplinar.
 
 § 1.º Só são devidas ajudas de custo pelas deslocações para além de 10 km da residência oficial, e só serão por inteiro quando a saída e entrada nessa residência se não faça no mesmo dia. Quando a saída e entrada se faça no no mesmo dia ou não dure mais de doze horas, as ajudas de custo serão reduzidas para 75 por cento e 50 por cento, respectivamente.
 
@@ -687,17 +721,17 @@ a) As deslocações resultantes do gozo de licença de qualquer natureza;
 
 b) As deslocações para as quais a lei proíba pagamento de ajudas de custo ou a que faça corresponder gratificações, percentagens, emolumentos ou outras remunerações.
 
-###### Art. 84.º O agente de polícia que deva responder perante os tribunais fora da área em que presta serviço por acto cometido no exercício das suas funções terá direito a transporte e a ajudas de custo, ficando, porém, sujeito à reposição das respectivas importâncias se for condenado.
+Art. 84.º O agente de polícia que deva responder perante os tribunais fora da área em que presta serviço por acto cometido no exercício das suas funções terá direito a transporte e a ajudas de custo, ficando, porém, sujeito à reposição das respectivas importâncias se for condenado.
 
-###### Art. 85.º O pessoal da Polícia de Segurança Pública que em consequência de acidente em serviço ou por motivo relacionado com o serviço ficar temporàriamente impossibilitado de exercer as suas funções perceberá todos os seus vencimentos e, para todos os efeitos, será considerado dispensado dos serviços incompatíveis com a sua doença, nos termos regulamentares.
+Art. 85.º O pessoal da Polícia de Segurança Pública que em consequência de acidente em serviço ou por motivo relacionado com o serviço ficar temporàriamente impossibilitado de exercer as suas funções perceberá todos os seus vencimentos e, para todos os efeitos, será considerado dispensado dos serviços incompatíveis com a sua doença, nos termos regulamentares.
 
 § único. Toda a comunicação de desastre em serviço ou por motivo de serviço será objecto de um processo de averiguações devidamente organizado nos moldes estabelecidos no regulamento.
 
-###### Art. 86.º O pessoal da Polícia de Segurança Pública a quem for distribuída habitação gratuita sofrerá um desconto nos vencimentos na importância de 30 por cento sobre o quantitativo do subsídio para renda de casa que lhe competiria se não lhe fosse distribuída aquela residência.
+Art. 86.º O pessoal da Polícia de Segurança Pública a quem for distribuída habitação gratuita sofrerá um desconto nos vencimentos na importância de 30 por cento sobre o quantitativo do subsídio para renda de casa que lhe competiria se não lhe fosse distribuída aquela residência.
 
 § único. O produto do desconto estabelecido no corpo do artigo constituirá receita dos Serviços Sociais da Polícia de Segurança Pública.
 
-###### Art. 87.º O pessoal da Polícia de Segurança Pública, quando lhe for fornecido transporte por conta do Estado, viajará, conforme a sua categoria, nas classes seguintes:
+Art. 87.º O pessoal da Polícia de Segurança Pública, quando lhe for fornecido transporte por conta do Estado, viajará, conforme a sua categoria, nas classes seguintes:
 
 Em 1.ª classe: o pessoal de categoria igual ou superior à do grupo L;
 
@@ -705,77 +739,77 @@ Em 2.ª classe: o pessoal de categoria incluída nos grupos M a S;
 
 Em 3.ª classe: o pessoal de categoria igual ou inferior à do grupo T.
 
-###### Art. 88.º O serviço normal, diário, do pessoal da Polícia de Segurança Pública não é inferior a oito horas, seguidas ou interpoladas.
+Art. 88.º O serviço normal, diário, do pessoal da Polícia de Segurança Pública não é inferior a oito horas, seguidas ou interpoladas.
 
 § 1.º Aos subchefes e guardas que façam serviço de escala será concedido, normalmente, depois de sete dias de serviço, um dia de folga.
 
 § 2.º Todo o pessoal que presta serviço nas repartições do Comando-Geral e noutros serviços burocráticos terá, por via de regra, semanalmente, serviços de instrução e outros relacionados com a segurança dos aquartelamentos e defesa civil, de forma que o número de horas de trabalho diárias não seja, em média, inferior a oito.
 
-###### Art. 89.º Os serviços especiais de policiamento e manutenção da ordem pública prestados a requisição de particulares, precedendo designação do comando, serão remunerados pelos respectivos requisitantes, segundo tabela aprovada pelo governador-geral.
+Art. 89.º Os serviços especiais de policiamento e manutenção da ordem pública prestados a requisição de particulares, precedendo designação do comando, serão remunerados pelos respectivos requisitantes, segundo tabela aprovada pelo governador-geral.
 
 § 1.º Os serviços remunerados serão desempenhados, normalmente, pelo pessoal que se encontra de folga, o qual perceberá as importâncias cobradas, nos moldes estabelecidos no regulamento.
 
 § 2.º Quando, eventualmente, não houver pessoal de folga suficiente para o desempenho dos serviços remunerados, será destacado para esse efeito pessoal pronto, revertendo as importâncias cobradas nessas condições para os Serviços Sociais da Polícia de Segurança Pública.
 
-###### Art. 90.º Os serviços especiais aduaneiros para guarda, vigilância, acompanhamento de mercadorias e conferência de volumes e outros prestados a requerimento de partes serão por elas remunerados por meios de emolumentos, os quais constarão de tabelas aprovadas por portaria do Governo-Geral, assim como os subsídios de deslocação, alimentação e ajudas de custo.
+Art. 90.º Os serviços especiais aduaneiros para guarda, vigilância, acompanhamento de mercadorias e conferência de volumes e outros prestados a requerimento de partes serão por elas remunerados por meios de emolumentos, os quais constarão de tabelas aprovadas por portaria do Governo-Geral, assim como os subsídios de deslocação, alimentação e ajudas de custo.
 
 § 1.º A realização de serviços extraordinários de que trata este artigo não dispensa o pessoal da execução dos serviços ordinários que lhes estejam atribuídos normalmente.
 
 § 2.º É aplicável ao pessoal que presta estes serviços extraordinários o disposto nos §§ 1.º e 2.º do artigo anterior, bem como as disposições que no Estatuto Orgânico das Alfândegas do Ultramar regulam esta matéria.
 
-###### Art. 91.º Os oficiais do Exército servirão na Polícia de Segurança Pública em comissão de serviço amovível.
+Art. 91.º Os oficiais do Exército servirão na Polícia de Segurança Pública em comissão de serviço amovível.
 
-###### Art. 92.º O tempo de serviço prestado pelos oficiais do Exército na Polícia de Segurança Pública terá o mesmo aumento que estiver atribuído aos restantes em serviço na região militar, em conformidade com as localidades onde prestem serviço.
+Art. 92.º O tempo de serviço prestado pelos oficiais do Exército na Polícia de Segurança Pública terá o mesmo aumento que estiver atribuído aos restantes em serviço na região militar, em conformidade com as localidades onde prestem serviço.
 
 § 1.º O restante pessoal da Polícia de Segurança Pública terá um aumento de 50 por cento no tempo de serviço, sendo-lhe, no entanto, aplicável o disposto na alínea a) do § 1.º do artigo 6.º do [Decreto-Lei n.º 28404](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28404-1937-668690), de 31 de Dezembro de 1937, quando prestarem serviço nas áreas definidas pelas mesmas disposições legais que regularem situações idênticas do pessoal das forças do Exército.
 
 § 2.º As regalias concedidas pelo parágrafo anterior considerar-se-ão a partir de 1 de Janeiro de 1961.
 
-###### Art. 93.º Todo o pessoal da Polícia de Segurança Pública terá direito à aposentação nos termos da legislação em vigor.
+Art. 93.º Todo o pessoal da Polícia de Segurança Pública terá direito à aposentação nos termos da legislação em vigor.
 
 § único. Os agentes de polícia são desligados do serviço para efeitos de aposentação logo que atinjam 60 anos de idade.
 
 ### CAPÍTULO III — Disposições gerais e transitórias
 
-###### Art. 94.º A Polícia de Segurança Pública, na parte que não for especialmente prevista em regulamentos privativos, pauta o seu procedimento pelo disposto na legislação em vigor no Ministério do Exército, designadamente em matéria de justiça, disciplina, continências e honras.
+Art. 94.º A Polícia de Segurança Pública, na parte que não for especialmente prevista em regulamentos privativos, pauta o seu procedimento pelo disposto na legislação em vigor no Ministério do Exército, designadamente em matéria de justiça, disciplina, continências e honras.
 
-###### Art. 95.º Haverá junto do comandante-geral da Polícia de Segurança Pública um conselho de disciplina, ao qual competem funções atribuídas no regulamento.
+Art. 95.º Haverá junto do comandante-geral da Polícia de Segurança Pública um conselho de disciplina, ao qual competem funções atribuídas no regulamento.
 
 § 1.º O conselho de disciplina compreende cinco oficiais, incluindo sempre nesse número o 2.º comandante-geral e o chefe do estado-maior.
 
 § 2.º O presidente é o 2.º comandante-geral e, na sua falta, o oficial mais antigo ou graduado; os relatores são designados por sorteio entre os vogais; servirá de secretário, sem voto, um oficial anualmente escolhido para essas funções.
 
-###### Art. 96.º Os oficiais do Exército e agentes de polícia estão sujeitos à jurisdição dos tribunais militares, nos mesmos termos do n.º 2.º do artigo 364.º do Código de Justiça Militar.
+Art. 96.º Os oficiais do Exército e agentes de polícia estão sujeitos à jurisdição dos tribunais militares, nos mesmos termos do n.º 2.º do artigo 364.º do Código de Justiça Militar.
 
-###### Art. 97.º O arguido que deva ser submetido a julgamento do tribunal militar por delito a que corresponda pena superior à referida no artigo 461.º do Código de Justiça Militar será posto à disposição do comando da região militar, ficando, porém, à responsabilidade do respectivo comando distrital para efeito de prisão preventiva.
+Art. 97.º O arguido que deva ser submetido a julgamento do tribunal militar por delito a que corresponda pena superior à referida no artigo 461.º do Código de Justiça Militar será posto à disposição do comando da região militar, ficando, porém, à responsabilidade do respectivo comando distrital para efeito de prisão preventiva.
 
-###### Art. 98.º Os agentes de polícia oriundos das forças armadas, condenados pelos tribunais militares nas penas de presídio militar ou de incorporação em depósito disciplinar terão passagem, após o cumprimento da pena, ao escalão que pela idade ou classe lhes competir no Exército, na Armada ou na Força Aérea.
+Art. 98.º Os agentes de polícia oriundos das forças armadas, condenados pelos tribunais militares nas penas de presídio militar ou de incorporação em depósito disciplinar terão passagem, após o cumprimento da pena, ao escalão que pela idade ou classe lhes competir no Exército, na Armada ou na Força Aérea.
 
 § único. O disposto neste artigo não é aplicável aos casos de suspensão de pena.
 
-###### Art. 99.º Os indivíduos alistados na Polícia de Segurança Pública que tenham pendentes nos tribunais comuns processos crimes por actos por eles praticados antes do alistamento poderão, até julgamento final, ser suspensos pelo comandante-geral, ouvido o conselho de disciplina.
+Art. 99.º Os indivíduos alistados na Polícia de Segurança Pública que tenham pendentes nos tribunais comuns processos crimes por actos por eles praticados antes do alistamento poderão, até julgamento final, ser suspensos pelo comandante-geral, ouvido o conselho de disciplina.
 
-###### Art. 100.º A ordem dos espectáculos públicos é assegurada pelo pessoal da Polícia de Segurança Pública, nos termos que forem definidos em regulamento.
+Art. 100.º A ordem dos espectáculos públicos é assegurada pelo pessoal da Polícia de Segurança Pública, nos termos que forem definidos em regulamento.
 
 § único. Em todos os espectáculos públicos haverá lugares reservados para o comando policial ou seu representante.
 
-###### Art. 101.º São dispensados de visto do Tribunal Administrativo os diplomas de nomeação de agentes de polícia.
+Art. 101.º São dispensados de visto do Tribunal Administrativo os diplomas de nomeação de agentes de polícia.
 
-###### Art. 102.º Haverá em todos os concelhos ou circunscrições postos policiais, aquartelados na sede respectiva.
+Art. 102.º Haverá em todos os concelhos ou circunscrições postos policiais, aquartelados na sede respectiva.
 
 § único. Poderão ainda ser instalados postos policiais fora daquelas sedes, em localidades que pela sua importância tal justifiquem.
 
-###### Art. 103.º Serão criados subpostos policiais nas sedes dos postos administrativos e em áreas ou localidades onde se tornem necessários policiamentos relacionados com a segurança ou com a fiscalização aduaneira.
+Art. 103.º Serão criados subpostos policiais nas sedes dos postos administrativos e em áreas ou localidades onde se tornem necessários policiamentos relacionados com a segurança ou com a fiscalização aduaneira.
 
-###### Art. 104.º É da competência do comandante-geral a distribuição dos efectivos, o estabelecimento de patrulhas que se tornem necessárias por circunstâncias especiais e o fornecimento de outras forças não especificadas com carácter temporário. É igualmente da sua competência propor ao governador-geral a criação ou supressão de secções, esquadras, postos e subpostos, bem como qualquer alteração orgânica da Polícia de Segurança Pública, desde que não sejam excedidos os quadros orgânicos anexos a este diploma.
+Art. 104.º É da competência do comandante-geral a distribuição dos efectivos, o estabelecimento de patrulhas que se tornem necessárias por circunstâncias especiais e o fornecimento de outras forças não especificadas com carácter temporário. É igualmente da sua competência propor ao governador-geral a criação ou supressão de secções, esquadras, postos e subpostos, bem como qualquer alteração orgânica da Polícia de Segurança Pública, desde que não sejam excedidos os quadros orgânicos anexos a este diploma.
 
 § único. O comandante-geral pode delegar nos comandantes distritais a faculdade para a concessão de patrulhas com carácter temporário.
 
-###### Art. 105.º Os comandantes distritais, de secção, esquadra, postos e subpostos podem dispor das forças que guarneçam as respectivas áreas, sempre que circunstâncias imperiosas ou de serviço assim o exijam e se torne indispensável a sua concentração num dado ponto para manutenção da ordem, dando imediato conhecimento ao comando de que dependem e ao respectivo governo de distrito; as referidas forças voltarão à situação anterior logo que cesse a necessidade de concentração.
+Art. 105.º Os comandantes distritais, de secção, esquadra, postos e subpostos podem dispor das forças que guarneçam as respectivas áreas, sempre que circunstâncias imperiosas ou de serviço assim o exijam e se torne indispensável a sua concentração num dado ponto para manutenção da ordem, dando imediato conhecimento ao comando de que dependem e ao respectivo governo de distrito; as referidas forças voltarão à situação anterior logo que cesse a necessidade de concentração.
 
-###### Art. 106.º As ordens relativas ao serviço da Polícia de Segurança Pública serão transmitidas pelo governador-geral directamente ao comandante-geral da mesma corporação ou aos comandantes distritais em casos urgentes, devendo neste caso ser comunicadas simultâneamente ao Comando-Geral.
+Art. 106.º As ordens relativas ao serviço da Polícia de Segurança Pública serão transmitidas pelo governador-geral directamente ao comandante-geral da mesma corporação ou aos comandantes distritais em casos urgentes, devendo neste caso ser comunicadas simultâneamente ao Comando-Geral.
 
-###### Art. 107.º As autoridades civis que necessitem de auxílio das forças da Polícia de Segurança Pública dirigirão as suas requisições ao comandante distrital da respectiva área.
+Art. 107.º As autoridades civis que necessitem de auxílio das forças da Polícia de Segurança Pública dirigirão as suas requisições ao comandante distrital da respectiva área.
 
 § 1.º As requisições poderão ser dirigidas directamente aos comandantes das esquadras, postos ou subpostos, no caso em que a intervenção das forças se torne necessária para o restabelecimento da ordem pública, ou em graves circunstâncias de emergência.
 
@@ -783,19 +817,19 @@ Em 3.ª classe: o pessoal de categoria igual ou inferior à do grupo T.
 
 § 3.º No caso de alteração de ordem pública, ao pessoal da Polícia de Segurança Pública incumbe intervir imediatamente para o seu restabelecimento, independentemente de requisições de qualquer autoridade.
 
-###### Art. 108.º As requisições devem ser escritas e indicar sempre a natureza do serviço a desempenhar e o motivo ou a ordem em virtude da qual são feitas. Excepcionalmente, em casos graves e urgentes, poderão ser verbais, telefónicas ou telegráficas, mas, em qualquer caso, serão sempre confirmadas por escrito.
+Art. 108.º As requisições devem ser escritas e indicar sempre a natureza do serviço a desempenhar e o motivo ou a ordem em virtude da qual são feitas. Excepcionalmente, em casos graves e urgentes, poderão ser verbais, telefónicas ou telegráficas, mas, em qualquer caso, serão sempre confirmadas por escrito.
 
 § único. A determinação de qualquer serviço para execução do qual haja sido requisitado o auxílio da Polícia de Segurança Pública é da exclusiva responsabilidade da autoridade requisitante, mas as disposições para o seu desempenho são da responsabilidade do comando da força.
 
-###### Art. 109.º Os governadores de distrito poderão, por motivo de serviço público urgente, solicitar a presença do comandante das forças da Polícia de Segurança Pública com sede nos respectivos distritos ou de algum dos seus imediatos, quando aquele não se encontre na sua sede, a fim de acordarem em quaisquer medidas a tomar.
+Art. 109.º Os governadores de distrito poderão, por motivo de serviço público urgente, solicitar a presença do comandante das forças da Polícia de Segurança Pública com sede nos respectivos distritos ou de algum dos seus imediatos, quando aquele não se encontre na sua sede, a fim de acordarem em quaisquer medidas a tomar.
 
-###### Art. 110.º As autoridades administrativas auxiliarão o pessoal da Polícia de Segurança Pública na obtenção de alojamento conveniente, quando em serviço tenha de pernoitar fora das localidades sedes dos quartéis.
+Art. 110.º As autoridades administrativas auxiliarão o pessoal da Polícia de Segurança Pública na obtenção de alojamento conveniente, quando em serviço tenha de pernoitar fora das localidades sedes dos quartéis.
 
-###### Art. 111.º A Polícia de Segurança Pública não poderá intervir em assuntos de natureza exclusivamente civil, limitando nestes casos a sua acção, mesmo que requisitada, à manutenção da ordem.
+Art. 111.º A Polícia de Segurança Pública não poderá intervir em assuntos de natureza exclusivamente civil, limitando nestes casos a sua acção, mesmo que requisitada, à manutenção da ordem.
 
 § único. Quando, porém, se tratar da restituição de direitos em virtude da execução de sentença com trânsito em julgado, a Polícia de Segurança Pública actuará em conformidade com as instruções da autoridade competente.
 
-###### Art. 112.º A comparência do pessoal da Polícia de Segurança Pública em serviços judiciários será requisitada com a antecedência necessária ao comandante distrital ou de secção a que pertencer.
+Art. 112.º A comparência do pessoal da Polícia de Segurança Pública em serviços judiciários será requisitada com a antecedência necessária ao comandante distrital ou de secção a que pertencer.
 
 § 1.º Só poderá ser ordenada a comparência em actos que se realizem na área da comarca onde o agente tiver o seu quartel ou residência.
 
@@ -805,53 +839,53 @@ a) Quando a entidade requisitante se responsabilizar pelas respectivas despesas;
 
 b) No caso de julgamento de transgressões, quando o comandante distrital ou de secção julgar conveniente a comparência do seu subordinado.
 
-###### Art. 113.º Os oficiais e agentes de polícia da Polícia de Segurança Pública, poderão fazer uso das suas armas nos casos seguintes:
+Art. 113.º Os oficiais e agentes de polícia da Polícia de Segurança Pública, poderão fazer uso das suas armas nos casos seguintes:
 
 1.º Em legítima defesa, para repelir uma agressão iminente e que por outro modo não possa ser evitada;
 
 2.º Para vencer a resistência à execução de um serviço no exercício das suas funções e manter o princípio da autoridade, depois de ter feito aos resistentes intimação formal de obediência e esgotados quaisquer outros meios para o conseguir.
 
-###### Art. 114.º A resistência e desobediência aos oficiais e agentes de polícia da Polícia de Segurança Pública de qualquer graduação, no exercício das suas funções, sujeitam os delinquentes às penas que a lei impõe aos que resistem e desobedecem aos mandados da autoridade.
+Art. 114.º A resistência e desobediência aos oficiais e agentes de polícia da Polícia de Segurança Pública de qualquer graduação, no exercício das suas funções, sujeitam os delinquentes às penas que a lei impõe aos que resistem e desobedecem aos mandados da autoridade.
 
-###### Art. 115.º Os autos ou participações de infracções de que a Polícia de Segurança Pública tiver conhecimento serão enviados ao tribunal criminal competente, bem como os respectivos responsáveis, quando tenham sido capturados ou detidos.
+Art. 115.º Os autos ou participações de infracções de que a Polícia de Segurança Pública tiver conhecimento serão enviados ao tribunal criminal competente, bem como os respectivos responsáveis, quando tenham sido capturados ou detidos.
 
 § único. Os autos ou participações de contravenções ou transgressões serão enviados às autoridades que superintendem nos respectivos serviços, competindo-lhes proceder em conformidade com a legislação especial aplicável.
 
-###### Art. 116.º Os comandantes distritais e de secção poderão entender-se com a autoridade competente para a adopção das medidas necessárias à descoberta dos criminosos foragidos no distrito.
+Art. 116.º Os comandantes distritais e de secção poderão entender-se com a autoridade competente para a adopção das medidas necessárias à descoberta dos criminosos foragidos no distrito.
 
-###### Art. 117.º Todas as autoridades e entidades públicas e particulares deverão dar à Polícia de Segurança Pública as indicações de que esta necessitar para a detenção dos culpados foragidos e de toda a espécie de malfeitores e, de uma forma geral, para o integral cumprimento da sua missão.
+Art. 117.º Todas as autoridades e entidades públicas e particulares deverão dar à Polícia de Segurança Pública as indicações de que esta necessitar para a detenção dos culpados foragidos e de toda a espécie de malfeitores e, de uma forma geral, para o integral cumprimento da sua missão.
 
-###### Art. 118.º Os comandantes distritais e de secção devem dirigir imediatamente às autoridades competentes nota dos crimes, delitos e transgressões praticados na área do seu comando e de que tenham notícia ou recebam participação e cujos autores não forem encontrados ou não sejam conhecidos, devendo outrossim ordenar as diligências necessárias para a sua descoberta.
+Art. 118.º Os comandantes distritais e de secção devem dirigir imediatamente às autoridades competentes nota dos crimes, delitos e transgressões praticados na área do seu comando e de que tenham notícia ou recebam participação e cujos autores não forem encontrados ou não sejam conhecidos, devendo outrossim ordenar as diligências necessárias para a sua descoberta.
 
-###### Art. 119.º O comandante-geral da Polícia de Segurança Pública, mediante autorização do governador-geral, pode dispensar os oficiais do Exército sob as suas ordens, mandando-os apresentar directamente no comando da região militar, até lhes ser dado o devido destino legal. Deverá indicar as razões que o levaram a efectuar a dispensa do serviço na corporação.
+Art. 119.º O comandante-geral da Polícia de Segurança Pública, mediante autorização do governador-geral, pode dispensar os oficiais do Exército sob as suas ordens, mandando-os apresentar directamente no comando da região militar, até lhes ser dado o devido destino legal. Deverá indicar as razões que o levaram a efectuar a dispensa do serviço na corporação.
 
-###### Art. 120.º Quando por qualquer motivo se verificar que algum elemento da Polícia de Segurança Pública, excepto oficial do Exército, não convenha ao serviço, poderá o comandante-geral convocar o conselho de disciplina, a fim de julgar da incapacidade profissional ou moral daquele, nos termos do regulamento.
+Art. 120.º Quando por qualquer motivo se verificar que algum elemento da Polícia de Segurança Pública, excepto oficial do Exército, não convenha ao serviço, poderá o comandante-geral convocar o conselho de disciplina, a fim de julgar da incapacidade profissional ou moral daquele, nos termos do regulamento.
 
 § único. Será proposta ao governador-geral a reforma ou demissão do pessoal que pelo conselho de disciplina for considerado como não tendo capacidade profissional ou moral para continuar ao serviço da Polícia de Segurança Pública.
 
-###### Art. 121.º O pessoal demitido nos termos do artigo anterior e que seja oriundo das forças armadas é imediatamente transferido para o Exército, Armada ou Força Aérea, conforme a procedência, ingressando no escalão que lhe pertencer.
+Art. 121.º O pessoal demitido nos termos do artigo anterior e que seja oriundo das forças armadas é imediatamente transferido para o Exército, Armada ou Força Aérea, conforme a procedência, ingressando no escalão que lhe pertencer.
 
 § único. O mesmo destino será dado aos que, findo o contrato ou qualquer dos períodos de nomeação provisória, não queiram ou não forem reconduzidos.
 
-###### Art. 122.º A Polícia de Segurança Pública poderá destacar pessoal para serviços públicos, autarquias locais, organismos corporativos ou de coordenação económica e empresas consideradas de interesse público, nas condições estabelecidas no regulamento.
+Art. 122.º A Polícia de Segurança Pública poderá destacar pessoal para serviços públicos, autarquias locais, organismos corporativos ou de coordenação económica e empresas consideradas de interesse público, nas condições estabelecidas no regulamento.
 
-###### Art. 123.º O pessoal destacado nos termos do artigo anterior não pode ser desviado das suas funções nem empregado em serviços que não sejam regulamentares, sendo os seus vencimentos e mais abonos legais e as regalias a tiver direito encargo da entidade onde estiver destacado, abrindo vaga no quadro da Polícia de Segurança Pública.
+Art. 123.º O pessoal destacado nos termos do artigo anterior não pode ser desviado das suas funções nem empregado em serviços que não sejam regulamentares, sendo os seus vencimentos e mais abonos legais e as regalias a tiver direito encargo da entidade onde estiver destacado, abrindo vaga no quadro da Polícia de Segurança Pública.
 
 § único. No caso de extinção ou redução de lugares, o pessoal destacado continuará a ser pago de vencimentos pela entidade requisitante até que tenha vaga para reingressar na Polícia de Segurança Pública.
 
-###### Art. 124.º A competência disciplinar para imposição de penas e a concessão de recompensas ao pessoal destacado pertence aos respectivos superiores de hierarquia da Polícia de Segurança Pública na forma estabelecida pelo regulamento disciplinar.
+Art. 124.º A competência disciplinar para imposição de penas e a concessão de recompensas ao pessoal destacado pertence aos respectivos superiores de hierarquia da Polícia de Segurança Pública na forma estabelecida pelo regulamento disciplinar.
 
-###### Art. 125.º O pessoal da Polícia de Segurança Pública destacado fica obrigado à instrução ministrada ao pessoal da mesma corporação.
+Art. 125.º O pessoal da Polícia de Segurança Pública destacado fica obrigado à instrução ministrada ao pessoal da mesma corporação.
 
-###### Art. 126.º Em caso de emergência ou alteração de ordem pública, ou quando assim for julgado conveniente para efeitos de segurança, o pessoal destacado ficará na dependência directa do Comando-Geral ou dos órgãos locais de segurança pública da Polícia de Segurança Pública, enquanto se mantiverem aquelas circunstâncias.
+Art. 126.º Em caso de emergência ou alteração de ordem pública, ou quando assim for julgado conveniente para efeitos de segurança, o pessoal destacado ficará na dependência directa do Comando-Geral ou dos órgãos locais de segurança pública da Polícia de Segurança Pública, enquanto se mantiverem aquelas circunstâncias.
 
 § único. Quando as circunstâncias o exigirem e haja vaga na Polícia de Segurança Pública, poderá o comandante-geral mandar recolher definitivamente o pessoal destacado.
 
-###### Art. 127.º Por conveniência de serviço ou por motivo disciplinar o comandante-geral da Polícia de Segurança Pública poderá mandar substituir, em qualquer altura, o pessoal destacado.
+Art. 127.º Por conveniência de serviço ou por motivo disciplinar o comandante-geral da Polícia de Segurança Pública poderá mandar substituir, em qualquer altura, o pessoal destacado.
 
 § único. Normalmente, o pessoal não deverá estar destacado por mais de três anos, salvo casos de reconhecida conveniência de serviço.
 
-###### Art. 128.º O Comando-Geral da Polícia de Segurança Pública poderá, a requerimento de quaisquer entidades particulares que nisso tenham interesse, estabelecer postos ou subpostos privativos, para funcionarem em áreas de serviço expressamente delimitadas.
+Art. 128.º O Comando-Geral da Polícia de Segurança Pública poderá, a requerimento de quaisquer entidades particulares que nisso tenham interesse, estabelecer postos ou subpostos privativos, para funcionarem em áreas de serviço expressamente delimitadas.
 
 § 1.º Para execução do disposto neste artigo poderá o comandante-geral recrutar o número de guardas necessário à composição dos postos, desde que as entidades requerentes se comprometam ao pagamento de todas as despesas de vencimento e as demais a que houver lugar para o desempenho do serviço.
 
@@ -863,36 +897,36 @@ b) No caso de julgamento de transgressões, quando o comandante distrital ou de 
 
 § 5.º Todo o pessoal em serviço nos postos e subpostos de que trata o corpo deste artigo está dependente, para todos os efeitos, dos comandos distritais da área onde estão localizados, consideradas sempre, todavia, as necessidades que as entidades particulares desejem ver satisfeitas.
 
-###### Art. 129.º A requerimento de quaisquer entidades, poderão ser fornecidas patrulhas temporárias, e bem assim quaisquer outras forças que se tornem indispensáveis para policiamento em áreas expressamente delimitadas, obrigando-se os requerentes ao pagamento de gratificações especiais e mais despesas a que o desempenho do serviço der lugar.
+Art. 129.º A requerimento de quaisquer entidades, poderão ser fornecidas patrulhas temporárias, e bem assim quaisquer outras forças que se tornem indispensáveis para policiamento em áreas expressamente delimitadas, obrigando-se os requerentes ao pagamento de gratificações especiais e mais despesas a que o desempenho do serviço der lugar.
 
 § único. Se o serviço pretendido obrigar a permanência fora dos quartéis, o requerente deverá ainda fornecer alojamento e alimentação convenientes, luz e água.
 
-###### Art. 130.º Às forças destacadas em qualquer localidade, quer acidentalmente, quer com alguma permanência, compete, dentro das áreas que lhes forem designadas, os serviços que incumbem à Polícia de Segurança Pública compatíveis com os seus efectivos.
+Art. 130.º Às forças destacadas em qualquer localidade, quer acidentalmente, quer com alguma permanência, compete, dentro das áreas que lhes forem designadas, os serviços que incumbem à Polícia de Segurança Pública compatíveis com os seus efectivos.
 
-###### Art. 131.º Constituem encargos dos governos distritais as despesas com a instalação e mobiliário dos comandos distritais, secções, esquadras, postos e subpostos, bem como as residências dos respectivos comandantes.
+Art. 131.º Constituem encargos dos governos distritais as despesas com a instalação e mobiliário dos comandos distritais, secções, esquadras, postos e subpostos, bem como as residências dos respectivos comandantes.
 
-###### Art. 132.º Os oficiais do Exército em serviço na Polícia de Segurança Pública, bem como todos os restantes elementos da mesma corporação, gozam de garantia administrativa, nos termos do artigo 145.º e seus parágrafos do Estatuto do Funcionalismo Ultramarino.
+Art. 132.º Os oficiais do Exército em serviço na Polícia de Segurança Pública, bem como todos os restantes elementos da mesma corporação, gozam de garantia administrativa, nos termos do artigo 145.º e seus parágrafos do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 133.º Fica o governador-geral autorizado a criar e e extinguir, por portaria, as secções, esquadras, postos e subpostos das polícias distritais e a fixar as respectivas dotações em pessoal, desde que não sejam excedidos os quadros I e II anexos a este diploma.
+Art. 133.º Fica o governador-geral autorizado a criar e e extinguir, por portaria, as secções, esquadras, postos e subpostos das polícias distritais e a fixar as respectivas dotações em pessoal, desde que não sejam excedidos os quadros I e II anexos a este diploma.
 
-###### Art. 134.º A colocação do pessoal da Polícia de Segurança Pública compete ao Comando-Geral.
+Art. 134.º A colocação do pessoal da Polícia de Segurança Pública compete ao Comando-Geral.
 
-###### Art. 135.º Para o casamento do pessoal da Polícia de Segurança Pública, exceptuando os oficiais do Exército, é necessária a autorização do comandante-geral, que é dada depois de comprovada a idoneidade moral da noiva, por averiguação sumária.
+Art. 135.º Para o casamento do pessoal da Polícia de Segurança Pública, exceptuando os oficiais do Exército, é necessária a autorização do comandante-geral, que é dada depois de comprovada a idoneidade moral da noiva, por averiguação sumária.
 
 § único. Do despacho que negue autorização poderá haver recurso para o governador-geral, a apresentar no prazo de 30 dias.
 
-###### Art. 136.º Nos casos em que, por virtude da execução deste estatuto e do decreto que o aprova, se verifique diminuição dos actuais vencimentos, será abonado, a título de compensação aos respectivos funcionários e agentes, enquanto não forem promovidos à classe imediata da respectiva hierarquia e estiverem na actividade de serviço, um complemento igual à diferença entre o actual e o novo vencimento.
+Art. 136.º Nos casos em que, por virtude da execução deste estatuto e do decreto que o aprova, se verifique diminuição dos actuais vencimentos, será abonado, a título de compensação aos respectivos funcionários e agentes, enquanto não forem promovidos à classe imediata da respectiva hierarquia e estiverem na actividade de serviço, um complemento igual à diferença entre o actual e o novo vencimento.
 
-###### Art. 137.º Pelo governador-geral serão publicados os regulamentos necessários à boa execução deste diploma.
+Art. 137.º Pelo governador-geral serão publicados os regulamentos necessários à boa execução deste diploma.
 
 Ministério do Ultramar, 27 de Novembro de 1964. - O Ministro do Ultramar, António Augusto Peixoto Correia.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/11/27900/16651677.pdf))](https://files.diariodarepublica.pt/1s/1964/11/27900/16651677.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/11/27900/16651677.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/11/27900/16651677.pdf))](https://files.diariodarepublica.pt/1s/1964/11/27900/16651677.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/11/27900/16651677.pdf)
 
 Ministério do Ultramar, 27 de Novembro de 1964. - O Ministro do Ultramar, António Augusto Peixoto Correia

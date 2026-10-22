@@ -46,25 +46,37 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/154/2026/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2026-1153698588
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:48:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bfe22149bd4304f5c9d071fe87daf78a92c87d804b91f7098065fb2b4cfe09a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30001ccc67d99c29dcdcdca5a70d046905eead7bef382f0f48e0edb3c458cfbe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:48:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação de Impacte Ambiental
+- Contra-ordenação
+- Diversidade Biológica
+- Espécie Protegida
+- Instituto da Conservação da Natureza e das Florestas
+- Ordenamento do Território
+- Proteção do Ambiente
+- Proteção dos Animais
+- Rede Natura 2000
+- Vida Selvagem
+- ZONA de Protecção Especial do Estuario do TEJO
+- Zona Especial de Conservação
 relationships:
 - type: cites
   target: celex:31979L0409
@@ -154,6 +166,104 @@ relationships:
   target: eli:http://data.europa.eu/eli/d
   label: null
   source: http://data.europa.eu/eli/d
+- type: cites
+  target: pt:dre:123025739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125009062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130273578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:194626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69920312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70055492:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:140/2002
+  label: Revoga, a partir de 1 de agosto de 2026, nos termos da alínea b) do artigo 15.º do presente diploma, Decreto-Lei
+    n.º 140/2002, de 20 de maio, Diário da República n.º 116/2002, Série I-A
+  source: null
+  date: '2002-05-19'
 - type: transposes
   target: celex:31979L0409
   label: null
@@ -165,13 +275,13 @@ relationships:
 article_structure:
   article_count: 16
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:48:34Z'
   warnings: []
   errors: []
 ---
@@ -180,13 +290,13 @@ validation:
 
 de 31 de julho
 
-O [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.<sup>os</sup>[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro, procedeu à revisão da transposição para a ordem jurídica interna, por um lado, da [Diretiva 79/409/CEE](https://data.europa.eu/eli/dir/1979/409/oj?locale=pt), do Conselho, de 2 de abril de 1979, relativa à conservação das aves selvagens (Diretiva Aves), entretanto codificada e revogada pela [Diretiva 2009/147/CE](https://data.europa.eu/eli/dir/2009/147/oj?locale=pt), do Parlamento Europeu e do Conselho, de 30 de novembro de 2009, com as alterações introduzidas pela [Diretiva 2013/17/UE](https://data.europa.eu/eli/dir/2013/17/oj?locale=pt), do Conselho, de 13 de maio de 2013, e pelo [Regulamento (UE) n.º 2019/1010](https://data.europa.eu/eli/reg/2019/1010/oj?locale=pt), do Parlamento Europeu e do Conselho, de 5 de junho de 2019, e, por outro, da [Diretiva 92/43/CEE](https://data.europa.eu/eli/dir/1992/43/oj?locale=pt), do Conselho, de 21 de maio de 1992, relativa à preservação dos habitats naturais e da fauna e da flora selvagens (Diretiva Habitats), alterada pela [Diretiva 97/62/CE](https://data.europa.eu/eli/dir/1997/62/oj?locale=pt), do Conselho, de 27 de outubro de 1997, pelo [Regulamento (CE) n.º 1882/2003](https://data.europa.eu/eli/reg/2003/1882/oj?locale=pt), do Parlamento Europeu e do Conselho, de 29 de setembro de 2003, e pela [Diretiva 2006/105/CE](https://data.europa.eu/eli/dir/2006/105/oj?locale=pt), do Conselho, de 20 de novembro de 2006.
+O [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.os[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro, procedeu à revisão da transposição para a ordem jurídica interna, por um lado, da [Diretiva 79/409/CEE](https://data.europa.eu/eli/dir/1979/409/oj?locale=pt), do Conselho, de 2 de abril de 1979, relativa à conservação das aves selvagens (Diretiva Aves), entretanto codificada e revogada pela [Diretiva 2009/147/CE](https://data.europa.eu/eli/dir/2009/147/oj?locale=pt), do Parlamento Europeu e do Conselho, de 30 de novembro de 2009, com as alterações introduzidas pela [Diretiva 2013/17/UE](https://data.europa.eu/eli/dir/2013/17/oj?locale=pt), do Conselho, de 13 de maio de 2013, e pelo [Regulamento (UE) n.º 2019/1010](https://data.europa.eu/eli/reg/2019/1010/oj?locale=pt), do Parlamento Europeu e do Conselho, de 5 de junho de 2019, e, por outro, da [Diretiva 92/43/CEE](https://data.europa.eu/eli/dir/1992/43/oj?locale=pt), do Conselho, de 21 de maio de 1992, relativa à preservação dos habitats naturais e da fauna e da flora selvagens (Diretiva Habitats), alterada pela [Diretiva 97/62/CE](https://data.europa.eu/eli/dir/1997/62/oj?locale=pt), do Conselho, de 27 de outubro de 1997, pelo [Regulamento (CE) n.º 1882/2003](https://data.europa.eu/eli/reg/2003/1882/oj?locale=pt), do Parlamento Europeu e do Conselho, de 29 de setembro de 2003, e pela [Diretiva 2006/105/CE](https://data.europa.eu/eli/dir/2006/105/oj?locale=pt), do Conselho, de 20 de novembro de 2006.
 
 A Rede Natura 2000 é uma rede ecológica de âmbito europeu, constituindo o instrumento fundamental da política da União Europeia em matéria de conservação da natureza e da biodiversidade, sendo constituída por zonas de proteção especial (ZPE) criadas ao abrigo da Diretiva Aves - que se destinam a garantir a conservação das espécies de aves e seus habitats - e por zonas especiais de conservação (ZEC), criadas ao abrigo da Diretiva Habitats - que têm por objetivo assegurar a conservação dos tipos de habitat e das espécies da flora e da fauna incluídos nos anexos que fazem parte integrante das referidas diretivas.
 
 Para assegurar o cumprimento da Diretiva Habitats relativamente ao reconhecimento das ZEC, os Estados-Membros devem cumprir duas obrigações fundamentais: por um lado, a obrigação de classificação como ZEC dos sítios de importância comunitária (SIC) designados pela Comissão Europeia, através de um ato normativo que proceda à designação e classificação das áreas de ocorrência significativa dos tipos de habitat e das espécies identificados nos anexos i e ii, respetivamente, daquela diretiva; e, por outro, a obrigação de adoção de medidas de conservação que satisfaçam as exigências ecológicas dos tipos de habitats naturais e das espécies previstas nos anexos i e ii, respetivamente, da mesma diretiva, ou seja, de definição dos objetivos e das medidas de conservação e de gestão destas áreas, visando a manutenção ou o restabelecimento dos tipos de habitat naturais ou seminaturais e das populações de espécies da flora e da fauna selvagens num estado de conservação favorável.
 
-Em Portugal continental, a obrigação de proceder à designação das ZEC foi iniciada com a identificação dos 62 sítios da lista nacional, criados ao abrigo das Resoluções do Conselho de Ministros n.<sup>os</sup>[142/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/142-1997-194626), de 28 de agosto, [76/2000](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/76-2000-301241), de 5 de julho, [45/2014](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/45-2014-25345644), de 8 de julho, e [59/2015](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/59-2015-69920312), de 31 de julho, os quais foram reconhecidos como SIC nos termos das Decisões da Comissão n.<sup>os</sup>[2004/813/CE](https://data.europa.eu/eli/dec/2004/813/oj?locale=pt), de 7 de dezembro de 2004, e [2006/613/CE](https://data.europa.eu/eli/dec/2006/613/oj?locale=pt), de 19 de julho de 2006, e das Decisões de Execução n.<sup>os</sup>[2328/2016](https://data.europa.eu/eli/dec/2016/2328/oj?locale=pt), de 9 de dezembro de 2016, [2335/2016](https://data.europa.eu/eli/dec/2016/2335/oj?locale=pt), de 9 de dezembro de 2016, e [2021/163](https://data.europa.eu/eli/dec/2021/163/oj?locale=pt), de 21 de janeiro de 2021.
+Em Portugal continental, a obrigação de proceder à designação das ZEC foi iniciada com a identificação dos 62 sítios da lista nacional, criados ao abrigo das Resoluções do Conselho de Ministros n.os[142/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/142-1997-194626), de 28 de agosto, [76/2000](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/76-2000-301241), de 5 de julho, [45/2014](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/45-2014-25345644), de 8 de julho, e [59/2015](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/59-2015-69920312), de 31 de julho, os quais foram reconhecidos como SIC nos termos das Decisões da Comissão n.os[2004/813/CE](https://data.europa.eu/eli/dec/2004/813/oj?locale=pt), de 7 de dezembro de 2004, e [2006/613/CE](https://data.europa.eu/eli/dec/2006/613/oj?locale=pt), de 19 de julho de 2006, e das Decisões de Execução n.os[2328/2016](https://data.europa.eu/eli/dec/2016/2328/oj?locale=pt), de 9 de dezembro de 2016, [2335/2016](https://data.europa.eu/eli/dec/2016/2335/oj?locale=pt), de 9 de dezembro de 2016, e [2021/163](https://data.europa.eu/eli/dec/2021/163/oj?locale=pt), de 21 de janeiro de 2021.
 
 Posteriormente, procedeu-se à designação dos SIC como ZEC, através do [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, conforme previsto no n.º 6 do artigo 5.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril. O anexo i do referido diploma identifica os SIC classificados como ZEC, bem como as respetivas áreas e coordenadas geográficas e o anexo ii procede à concretização da localização e limites geográficos genéricos (Cartografia - Localização e limites) de cada ZEC.
 
@@ -388,9 +498,9 @@ iii) De operações urbanísticas que incidam sobre outras categorias de solo r�
 
 iv) De obras de reconstrução, demolição, alteração ou conservação;
 
-v) De obras de ampliação para fins habitacionais de construções com uso habitacional, comprovado mediante a apresentação de licença ou de certidão emitida por entidade competente, desde que a área de ampliação das preexistências não resulte numa área total de implantação e impermeabilização superior a 200 m<sup>2</sup>;
+v) De obras de ampliação para fins habitacionais de construções com uso habitacional, comprovado mediante a apresentação de licença ou de certidão emitida por entidade competente, desde que a área de ampliação das preexistências não resulte numa área total de implantação e impermeabilização superior a 200 m2;
 
-vi) De obras de ampliação para fins turísticos de construções com uso habitacional, comprovado mediante a apresentação de licença ou de certidão emitida por entidade competente, ou com uso turístico, desde que a ampliação das preexistências não resulte numa área de implantação superior a 500 m<sup>2</sup>, sem aumento de pisos e nucleada com uma das preexistências;
+vi) De obras de ampliação para fins turísticos de construções com uso habitacional, comprovado mediante a apresentação de licença ou de certidão emitida por entidade competente, ou com uso turístico, desde que a ampliação das preexistências não resulte numa área de implantação superior a 500 m2, sem aumento de pisos e nucleada com uma das preexistências;
 
 b) A instalação de novas explorações de depósitos e massas minerais e a ampliação das existentes por aumento da área licenciada.
 
@@ -398,7 +508,7 @@ b) A instalação de novas explorações de depósitos e massas minerais e a amp
 
 a) A edificação em solo rústico não interdita prevista nas subalíneas i) a iii) da alínea a) do número anterior, com exceção da que incida nos aglomerados rurais e nas áreas de edificação dispersa inscritos em plano municipal de ordenamento do território e das obras de reconstrução, demolição, alteração ou conservação previstas na subalínea iv) da alínea a) do número anterior;
 
-b) As obras de ampliação em solo rústico não interditas previstas nas subalíneas v) e vi) da alínea a) do número anterior, com exceção das ampliações que não excedam 50 % da área de implantação existente ou das quais não resulte uma área total de ampliação superior a 100 m<sup>2</sup>;
+b) As obras de ampliação em solo rústico não interditas previstas nas subalíneas v) e vi) da alínea a) do número anterior, com exceção das ampliações que não excedam 50 % da área de implantação existente ou das quais não resulte uma área total de ampliação superior a 100 m2;
 
 c) A edificação de infraestruturas e equipamentos de apoio a culturas marinhas, pesca comercial, atividade portuária e atividades conexas, em meio aquático;
 
@@ -416,11 +526,11 @@ ii) Das instaladas sobre infraestruturas ou edificações licenciadas;
 
 iii) Das unidades de produção para autoconsumo que configurem obras de escassa relevância urbanística nos termos da alínea g) do n.º 1 do artigo 6.º-A do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro.
 
-4 - Sem prejuízo do previsto nos n.<sup>os</sup>2 e 3, aplica-se, ainda, à ZPE Estuário do Tejo o disposto na alínea a) do n.º 1 do artigo 7.º do [Decreto-Lei n.º 280/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1994-535379), de 5 de novembro, repristinada, na sua redação originária, pelo n.º 2 do artigo único do [Decreto-Lei n.º 76/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1999-144993), de 16 de março.
+4 - Sem prejuízo do previsto nos n.os2 e 3, aplica-se, ainda, à ZPE Estuário do Tejo o disposto na alínea a) do n.º 1 do artigo 7.º do [Decreto-Lei n.º 280/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1994-535379), de 5 de novembro, repristinada, na sua redação originária, pelo n.º 2 do artigo único do [Decreto-Lei n.º 76/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1999-144993), de 16 de março.
 
-5 - Até à revisão ou alteração dos planos territoriais referidos no n.º 1 e no sentido da sua conformidade com o disposto nos n.<sup>os</sup>2 e 3, a edificação em solo rústico fica sujeita a parecer favorável do ICNF, I. P.
+5 - Até à revisão ou alteração dos planos territoriais referidos no n.º 1 e no sentido da sua conformidade com o disposto nos n.os2 e 3, a edificação em solo rústico fica sujeita a parecer favorável do ICNF, I. P.
 
-6 - Os pareceres do ICNF, I. P., previstos nos n.<sup>os</sup>3 e 5 devem ser emitidos no prazo de 30 dias úteis a contar da data do respetivo pedido.
+6 - Os pareceres do ICNF, I. P., previstos nos n.os3 e 5 devem ser emitidos no prazo de 30 dias úteis a contar da data do respetivo pedido.
 
 7 - O prazo referido no número anterior suspende-se nos casos em que, nos termos da lei, haja lugar a avaliação de incidências ambientais e em que esta avaliação seja feita sob a forma de procedimento de avaliação de impacte ambiental, desde a data da proposta do referido procedimento até à emissão da decisão que venha a ser proferida no âmbito do mesmo nos termos previstos no [Decreto-Lei n.º 151-B/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-b-2013-513863), de 31 de outubro.
 
@@ -428,7 +538,7 @@ iii) Das unidades de produção para autoconsumo que configurem obras de escassa
 
 9 - Cabe recurso dos pareceres desfavoráveis para o membro do Governo responsável pela área do ambiente, com faculdade de delegação, no prazo de 30 dias a contar da sua notificação.
 
-10 - O disposto no n.º 5 não se aplica à edificação em solo rústico cujos planos territoriais à data da entrada em vigor do presente decreto-lei já cumpram os requisitos previstos nos n.<sup>os</sup>1 e 3.
+10 - O disposto no n.º 5 não se aplica à edificação em solo rústico cujos planos territoriais à data da entrada em vigor do presente decreto-lei já cumpram os requisitos previstos nos n.os1 e 3.
 
 ###### Artigo 5.º — Medidas de gestão
 
@@ -520,7 +630,7 @@ m) A instalação de novas atividades e infraestruturas de produção aquícola,
 
 7 - Cabe recurso dos pareceres desfavoráveis para o membro do Governo responsável pela área do ambiente, com faculdade de delegação, no prazo de 30 dias a contar da sua notificação.
 
-8 - Na elaboração, alteração ou revisão do programa especial da Reserva Natural do Estuário do Tejo cuja área de intervenção incide sobre a ZEC e ZPE Estuário do Tejo, deve ser estabelecido um regime de proteção que garanta os objetivos previstos no presente decreto-lei e demais instrumentos que definam as regras para a respetiva conservação, pelo que o programa especial e o regulamento de gestão da área protegida devem incluir as normas relativas aos atos e atividades referidos nos n.<sup>os</sup>1 e 2.
+8 - Na elaboração, alteração ou revisão do programa especial da Reserva Natural do Estuário do Tejo cuja área de intervenção incide sobre a ZEC e ZPE Estuário do Tejo, deve ser estabelecido um regime de proteção que garanta os objetivos previstos no presente decreto-lei e demais instrumentos que definam as regras para a respetiva conservação, pelo que o programa especial e o regulamento de gestão da área protegida devem incluir as normas relativas aos atos e atividades referidos nos n.os1 e 2.
 
 ###### Artigo 6.º — Avaliação de incidências ambientais
 
@@ -538,7 +648,7 @@ A monitorização e a vigilância sistemática do estado de conservação e tend
 
 1 - A violação do disposto no artigo 4.º constitui contraordenação do ordenamento do território, sendo-lhe aplicável o regime previsto nos artigos 40.º-A a 40.º-D da lei-quadro das contraordenações ambientais, aprovada pela [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29 de agosto.
 
-2 - Para efeitos de aplicação do presente decreto-lei, constitui contraordenação ambiental, punível ao abrigo da lei-quadro das contraordenações ambientais, a violação do disposto nos n.<sup>os</sup>1, 2 e 3 do artigo 5.º nos seguintes termos:
+2 - Para efeitos de aplicação do presente decreto-lei, constitui contraordenação ambiental, punível ao abrigo da lei-quadro das contraordenações ambientais, a violação do disposto nos n.os1, 2 e 3 do artigo 5.º nos seguintes termos:
 
 a) Contraordenação ambiental leve, a prática dos atos e atividades previstos na alínea j) do n.º 1 do artigo 5.º, bem como a prática não autorizada dos atos e atividades previstos nas alíneas l) e m) do n.º 2 do artigo 5.º;
 
@@ -574,7 +684,7 @@ Em tudo quanto não se encontre expressamente regulado no presente capítulo, s�
 
 ###### Artigo 14.º — Regime aplicável
 
-1 - Com a entrada em vigor do presente decreto-lei, o regime transitório previsto no artigo 7.º-A do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, não se aplica à ZEC Estuário do Tejo, passando a ser aplicado o regime especial previsto no presente decreto-lei para a ZEC e ZPE Estuário do Tejo, sem prejuízo do disposto nos n.<sup>os</sup>4 e 7 do artigo 4.º, nos n.<sup>os</sup>3 e 5 do artigo 5.º e nos artigos 6.º e 7.º
+1 - Com a entrada em vigor do presente decreto-lei, o regime transitório previsto no artigo 7.º-A do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, não se aplica à ZEC Estuário do Tejo, passando a ser aplicado o regime especial previsto no presente decreto-lei para a ZEC e ZPE Estuário do Tejo, sem prejuízo do disposto nos n.os4 e 7 do artigo 4.º, nos n.os3 e 5 do artigo 5.º e nos artigos 6.º e 7.º
 
 2 - Sem prejuízo do disposto no presente decreto-lei, aplica-se, ainda, à ZPE Estuário do Tejo o disposto no [Decreto-Lei n.º 280/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1994-535379), de 5 de novembro, na redação conferida pelo presente decreto-lei, e na [Portaria n.º 1226-GE/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1226-ge-2000-187970), de 30 de dezembro.
 
@@ -592,12 +702,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de junho de 2026. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Manuel Castro Almeida - Miguel Martinez de Castro Pinto Luz - Maria da Graça Carvalho - José Manuel Fernandes.
 
-**Promulgado em 24 de julho de 2026.**
+Promulgado em 24 de julho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 27 de julho de 2026.**
+Referendado em 27 de julho de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119949215

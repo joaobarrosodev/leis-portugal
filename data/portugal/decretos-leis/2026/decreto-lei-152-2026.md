@@ -47,26 +47,44 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/152/2026/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2026-1153698586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:48:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc9d5dbcae5ec3e9b5f51e0013788538546a6e0501504573c6acb8dd35b8d106
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f383bfc281fd282413725025a2d7c84117f691bb06d632bb8c827ad28de27adb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:48:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Nacional do Consumo
+- Consultor
+- Criação de Serviços
+- Direção Geral da Defesa do Consumidor Comércio e Serviços
+- Direção Geral da Economia
+- Orgânica
+- Página na Internet
+- Publicidade
+- Reestruturação de Serviços
+- Regulamento CE
+- Transferência de Competências
+- Transferência de Pessoal
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:52/2025
+  label: Altera a partir de 01 de agosto de 2026, com efeitos a 1 de setembro de 2026, a alínea a) do n.º 2 do artigo 3.º
+    e o anexo ao Decreto-Lei n.º 52/2025, de 28 de março, Diário da República n.º 62/2025, Série I
+  source: null
+  date: '2025-03-28'
 - type: cites
   target: celex:32017R2394
   label: null
@@ -111,16 +129,79 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/384/2023/11/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/384/2023/11/22/p/dre
+- type: cites
+  target: pt:dre:107094720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:143320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169418564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224615907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70215248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:912820660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:986558789:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-regulamentar:38/2012
+  label: Revoga a partir de 01 de agosto de 2026, com efeitos a 1 de setembro de 2026, nos termos da alínea b) do artigo 23.º
+    o Decreto Regulamentar n.º 38/2012, de 10 de abril, Diário da República n.º 71/2012, Série I, e determina que a Direção-Geral,
+    sucede à , Direção-Geral da Economia (DGE) e que todas as referências, legais ou regulamentares, feitas à Direção-Geral
+    do Consumidor (DGC), devem ter-se por feitas à Direção-Geral.
+  source: null
+  date: '2012-04-09'
+- type: repeals
+  target: pt:numero:portaria:447/2025
+  label: Revoga a partir de 01 de agosto de 2026, com efeitos a 1 de setembro de 2026, nos termos da alínea c) do artigo 23.º,
+    a alínea f) do n.º 1 do artigo 2.º e o artigo 8.º da Portaria n.º 447/2025/1, de 16 de dezembro, Diário da República n.º
+    241/2025, Série I
+  source: null
+  date: '2025-12-16'
 article_structure:
   article_count: 24
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:48:33Z'
   warnings: []
   errors: []
 ---
@@ -359,7 +440,7 @@ Os lugares de direção superior de 1.º e 2.º graus e de direção intermédia
 
 ###### Artigo 15.º — Exercício transitório de funções noutro órgão, serviço ou estrutura
 
-1 - Ao exercício transitório de funções noutro órgão, serviço ou estrutura, por trabalhadores da DGE e da DGC que preencham os critérios gerais e abstratos de seleção de pessoal previstos nos n.<sup>os</sup>1 e 2 do artigo 13.º, aplica-se o disposto no presente artigo.
+1 - Ao exercício transitório de funções noutro órgão, serviço ou estrutura, por trabalhadores da DGE e da DGC que preencham os critérios gerais e abstratos de seleção de pessoal previstos nos n.os1 e 2 do artigo 13.º, aplica-se o disposto no presente artigo.
 
 2 - Durante os processo de reestruturação objeto do presente decreto-lei há lugar a mobilidade nos termos gerais, cabendo a autorização da mobilidade ao dirigente máximo da Direção-Geral.
 
@@ -377,7 +458,7 @@ b) Na Direção-Geral, na categoria, posição e nível remuneratórios detidos 
 
 ###### Artigo 16.º — Trabalhadores em situação de licença sem remuneração
 
-1 - Os trabalhadores da DGE e da DGC que preencham os critérios gerais e abstratos de seleção de pessoal previstos nos n.<sup>os</sup>1 e 2 do artigo 14.º, que se encontrem em situação de licença sem remuneração à data em que se inicia o processo de fusão, mantêm-se na situação de licença.
+1 - Os trabalhadores da DGE e da DGC que preencham os critérios gerais e abstratos de seleção de pessoal previstos nos n.os1 e 2 do artigo 14.º, que se encontrem em situação de licença sem remuneração à data em que se inicia o processo de fusão, mantêm-se na situação de licença.
 
 2 - Sem prejuízo do disposto no número anterior, excetuam-se do disposto no n.º 1 do artigo 8.º do anexo à [Lei n.º 25/2017](https://diariodarepublica.pt/dr/detalhe/lei/25-2017-107094720), de 30 de maio, os trabalhadores abrangidos pelo presente artigo.
 
@@ -385,13 +466,13 @@ b) Na Direção-Geral, na categoria, posição e nível remuneratórios detidos 
 
 ###### Artigo 17.º — Exercício transitório de funções na Direção-Geral da Economia e na Direção-Geral do Consumidor
 
-1 - Ao exercício transitório de funções na DGE e na DGC, aferido em função dos critérios gerais e abstratos referidos nos n.<sup>os</sup>1 e 2 do artigo 13.º, aplica-se o disposto no presente artigo.
+1 - Ao exercício transitório de funções na DGE e na DGC, aferido em função dos critérios gerais e abstratos referidos nos n.os1 e 2 do artigo 13.º, aplica-se o disposto no presente artigo.
 
 2 - As comissões de serviço dos titulares dos cargos dirigentes na DGC, bem como dos titulares dos cargos dirigentes da DGE com competências no âmbito do comércio e serviços, cessam automaticamente.
 
 3 - Sem prejuízo do disposto no número anterior, os titulares dos cargos dirigentes mantêm-se em funções até à conclusão dos processos de fusão ou até à data determinada por despacho dos responsáveis pela condução dos processos de fusão, se anterior.
 
-4 - Aos trabalhadores em mobilidade na DGE e na DGC, aferidos em função dos critérios gerais e abstratos referidos nos n.<sup>os</sup>1 e 2 do artigo 13.º, à data do início dos processos de reestruturação e de fusão, aplica-se o disposto nos artigos 13.º e 14.º, sem que tal importe a alteração da situação de mobilidade ao abrigo da qual os trabalhadores exerçam transitoriamente funções, operando-se a mobilidade para a mesma categoria, posição e nível remuneratórios.
+4 - Aos trabalhadores em mobilidade na DGE e na DGC, aferidos em função dos critérios gerais e abstratos referidos nos n.os1 e 2 do artigo 13.º, à data do início dos processos de reestruturação e de fusão, aplica-se o disposto nos artigos 13.º e 14.º, sem que tal importe a alteração da situação de mobilidade ao abrigo da qual os trabalhadores exerçam transitoriamente funções, operando-se a mobilidade para a mesma categoria, posição e nível remuneratórios.
 
 5 - Aos trabalhadores em cedência de interesse público ou designados para o cargo de consultor de sistemas e tecnologias de informação à data do início dos processos de reestruturação e de fusão objeto do presente decreto-lei, aplica-se o disposto nos artigos 13.º e 14.º, sem prejuízo da manutenção no exercício das funções de caráter transitório até ao seu termo.
 
@@ -437,15 +518,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e p
 
 Visto e aprovado em Conselho de Ministros de 29 de maio de 2026. - Luís Montenegro - Cláudia Maria dos Reis Duarte Melo de Carvalho - Hélder Manuel Gomes dos Reis.
 
-**Promulgado em 14 de julho de 2026.**
+Promulgado em 14 de julho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 16 de julho de 2026.**
+Referendado em 16 de julho de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO I — (a que se refere o artigo 10.º)
 
@@ -468,3 +549,7 @@ Mapa de pessoal dirigente
 | Diretor-geral | Direção superior | 1.º | 1 |  |
 | Subdiretor-geral | Direção superior | 2.º | 2 |  |
 | Diretor de serviços | Direção intermédia | 1.º | 5 | » |
+
+119949202
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:15px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-right-color:rgb(0,0,0); } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-right-style:solid; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-top-color:rgb(0,0,0); border-right-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-left-style:solid; border-right-width:1px; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-top-color:rgb(0,0,0); border-right-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-left-color:rgb(0,0,0); } .Tbl11 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-right-style:solid; border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-left-color:rgb(0,0,0); } .Tbl12 { min-height:18px; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-bottom-width:1px; border-bottom-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-color:rgb(0,0,0); } .Tbl15 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; } .Tbl16 { border-collapse:collapse; border-width:1px; border-color:rgb(0,0,0); } .Tbl17 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl19 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl21 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl22 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:bottom; }

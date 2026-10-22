@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/02200/0000200025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/11/2025/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-2025-905621675
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:15:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 236b0aa31d7001754e25ba8180b01b48bc977396928d9d96ebe255ad2bdbbf48
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e2b38b208c2a23627de029a4cd977b848e5e87fba257ab2ed5f86d88a2a549e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:15:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Embarcação
-- Transporte Marítimo
-- Multa
-- Especificação Técnica
 - Certificado de Qualidade
 - Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Embarcação
+- Especificação Técnica
+- Multa
 - Normas de Segurança
 - Segurança da Navegação
 - Segurança Marítima
 - Taxa
 - Transporte de Passageiros
+- Transporte Marítimo
 relationships:
 - type: cites
   target: celex:32003L0025
@@ -103,20 +103,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:898867716:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:100/2024
+  label: Retifica os anexos I e IV do Decreto-Lei n.º 100/2024, de 4 de dezembro, Diário da República n.º 235/2024, Série
+    I, e procede à sua republicação integral
+  source: null
+  date: '2024-12-04'
 - type: transposes
   target: celex:32003L0025
   label: null
   source: null
 article_structure:
-  article_count: 13
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:15:40Z'
   warnings: []
   errors: []
 ---
@@ -133,11 +163,13 @@ Republicação do anexo I do [Decreto-Lei n.º 100/2024](https://diariodarepubli
 
 (a que se refere o artigo 3.º)
 
-## ANEXO I — [...]
+ANEXO I
 
 [...]
 
-# PARTE I
+[...]
+
+PARTE I
 
 Para efeitos da aplicação da presente parte, as referências às regras da Convenção SOLAS devem entender-se como referências às regras aplicáveis nos termos da SOLAS 90.
 
@@ -149,29 +181,29 @@ a) Acima do ponto mais baixo da linha de borda do compartimento em avaria do pav
 
 b) Acima da linha de água parada, em todos os ângulos de adornamento e caimento, quando a linha de borda do compartimento em avaria fica imersa, do seguinte modo:
 
-i) 0,5 m, se o bordo livre residual (f<sub>r</sub>) for igual ou inferior a 0,3 m;
+i) 0,5 m, se o bordo livre residual (fr) for igual ou inferior a 0,3 m;
 
-ii) 0,0 m, se o bordo livre residual (f<sub>r</sub>) for igual ou superior a 2 m; ou
+ii) 0,0 m, se o bordo livre residual (fr) for igual ou superior a 2 m; ou
 
-iii) Um valor intermédio a determinar por interpolação linear, se o bordo livre residual (f<sub>r</sub>) for igual ou superior a 0,3 m mas inferior a 2 m, em que o bordo livre residual (f<sub>r</sub>) é a distância mínima, na vertical, entre o pavimento ro-ro em avaria e a linha de água final na zona da avaria, no cenário de avaria considerado, sem ter em conta o efeito do volume de água acumulada no pavimento ro-ro em avaria.
+iii) Um valor intermédio a determinar por interpolação linear, se o bordo livre residual (fr) for igual ou superior a 0,3 m mas inferior a 2 m, em que o bordo livre residual (fr) é a distância mínima, na vertical, entre o pavimento ro-ro em avaria e a linha de água final na zona da avaria, no cenário de avaria considerado, sem ter em conta o efeito do volume de água acumulada no pavimento ro-ro em avaria.
 
 1.2 - Quando exista um sistema de esgoto de alto rendimento, a Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM) pode autorizar a redução da altura da superfície de água.
 
 1.3 - Relativamente aos navios que operem em zonas restritas geograficamente definidas, a DGRM pode reduzir o valor da altura da superfície de água prescrita de acordo com o disposto no ponto 1.1, substituindo-o pelo seguinte:
 
-1.3.1 - 0,0 m se a altura significativa da onda (h<sub>s</sub>) que define a zona considerada for igual ou inferior a 1,5 m;
+1.3.1 - 0,0 m se a altura significativa da onda (hs) que define a zona considerada for igual ou inferior a 1,5 m;
 
-1.3.2 - O valor determinado de acordo com o disposto no ponto 1.1, se a altura significativa da onda (h<sub>s</sub>) que define a zona considerada for igual ou superior a 4 m;
+1.3.2 - O valor determinado de acordo com o disposto no ponto 1.1, se a altura significativa da onda (hs) que define a zona considerada for igual ou superior a 4 m;
 
-1.3.3 - Um valor intermédio a determinar por interpolação linear, se a altura significativa da onda (h<sub>s</sub>) que define a zona considerada for igual ou superior a 1,5 m mas inferior a 4 m, desde que sejam satisfeitas as seguintes condições:
+1.3.3 - Um valor intermédio a determinar por interpolação linear, se a altura significativa da onda (hs) que define a zona considerada for igual ou superior a 1,5 m mas inferior a 4 m, desde que sejam satisfeitas as seguintes condições:
 
-a) A DGRM considere que a zona definida se caracteriza por uma altura significativa da onda (h<sub>s</sub>) cuja probabilidade de ser excedida é igual ou inferior a 10 %;
+a) A DGRM considere que a zona definida se caracteriza por uma altura significativa da onda (hs) cuja probabilidade de ser excedida é igual ou inferior a 10 %;
 
-b) A zona de operação e, se for caso disso, a época do ano para que foi estabelecido um determinado valor de altura significativa da onda (h<sub>s</sub>) sejam registadas nos certificados.
+b) A zona de operação e, se for caso disso, a época do ano para que foi estabelecido um determinado valor de altura significativa da onda (hs) sejam registadas nos certificados.
 
 1.4 - Em alternativa à aplicação das disposições dos pontos 1.1 ou 1.3, a DGRM pode aceitar prova, estabelecida por ensaios com modelo efetuados para um navio específico em conformidade com o método de ensaio constante do apêndice a este anexo, que demonstre que o navio, a navegar em mar unidirecional irregular, não soçobra com as extensões de avaria previstas na regra II-1/B/8.4 (SOLAS 74) na pior localização considerada nos termos do ponto 1.1.
 
-1.5 - A referência à aceitação dos resultados dos ensaios com modelo como equivalência ao cumprimento do disposto nos pontos 1.1 ou 1.3 e o valor da altura significativa da onda (h<sub>s</sub>) utilizada nos ensaios com modelo devem ser registados nos certificados do navio.
+1.5 - A referência à aceitação dos resultados dos ensaios com modelo como equivalência ao cumprimento do disposto nos pontos 1.1 ou 1.3 e o valor da altura significativa da onda (hs) utilizada nos ensaios com modelo devem ser registados nos certificados do navio.
 
 1.6 - A informação que deve ser fornecida aos comandantes em conformidade com as regras II-1/B/8.7.1 e II-1/B/8.7.2 (SOLAS 74), para efeitos do cumprimento das regras II1/B/8.2.3 a II-1/B/8.2.3.4 (SOLAS 74), aplicar-se inalterada aos navios ro-ro de passageiros aprovados de acordo com as presentes prescrições.
 
@@ -183,13 +215,13 @@ b) A zona de operação e, se for caso disso, a época do ano para que foi estab
 
 2.3 - As características de estanquidade das anteparas transversais ou longitudinais consideradas eficazes para conter a água do mar acumulada no compartimento considerado do pavimento ro-ro em avaria devem ser compatíveis com o sistema de esgoto e permitir-lhes suportar uma pressão hidrostática conforme com os resultados dos cálculos em avaria. Tais anteparas devem ter, no mínimo, 4 m de altura, a menos que a altura da água seja inferior a 0,5 m. Nesse caso, a altura das anteparas pode ser calculada pela seguinte fórmula:
 
-B<sub>h</sub> = 8 × h<sub>w</sub>
+Bh = 8 × hw
 
 em que:
 
-B<sub>h</sub> é a altura da antepara;
+Bh é a altura da antepara;
 
-h<sub>w</sub> é a altura da água.
+hw é a altura da água.
 
 Em qualquer caso, a altura mínima das anteparas não deverá ser inferior a 2,2 m. No entanto, tratando-se de navios com pavimentos para veículos suspensos, a altura mínima destas anteparas não deve ser inferior à altura até à parte inferior do pavimento suspenso na sua posição mais baixa.
 
@@ -213,7 +245,7 @@ Em qualquer caso, a altura mínima das anteparas não deverá ser inferior a 2,2
 
 4 - Os ensaios com modelo serão conduzidos em conformidade com o disposto no apêndice a este anexo.
 
-# PARTE II
+PARTE II
 
 Devem ser cumpridas as prescrições da parte B do capítulo II-1 da SOLAS 2020, sem prejuízo de, em derrogação da regra II-1/B/6.2.3 da SOLAS 2020, o índice de subdivisão R exigido ser determinado nos seguintes termos:
 
@@ -226,7 +258,7 @@ sendo:
 
 N = Número total de pessoas a bordo.
 
-## Apêndice
+Apêndice
 
 [...]
 
@@ -240,13 +272,17 @@ Republicação do Decreto-Lei n.º 204/2005, de 25 de novembro
 
 (a que se refere o artigo 8.º)
 
-###### Artigo 1.º — Objeto
+Artigo 1.º
+
+Objeto
 
 1 - O presente decreto-lei transpõe para a ordem jurídica nacional a Diretiva 2003/25/CE, do Parlamento Europeu e do Conselho, de 14 de abril, relativa a prescrições específicas de estabilidade para os navios ro-ro de passageiros.
 
 2 - O regime transposto tem como objetivo estabelecer um nível uniforme de requisitos e prescrições específicas de estabilidade para os navios ro-ro de passageiros que aumentem a capacidade de sobrevivência deste tipo de navios em caso de avaria por colisão e proporcionem um nível de segurança elevado aos passageiros e tripulantes.
 
-###### Artigo 2.º — Definições
+Artigo 2.º
+
+Definições
 
 Para efeitos do presente decreto-lei, entende-se por:
 
@@ -276,25 +312,31 @@ j) ‘Viagem internacional’ uma viagem por mar de um porto de um Estado-Membro
 
 l) ‘Prescrições específicas de estabilidade’ as prescrições de estabilidade a que se refere o artigo 6.º;
 
-m) ‘Altura significativa da onda (h<sub>s</sub>)’ o valor médio do terço superior das alturas da onda medidas num determinado intervalo de tempo;
+m) ‘Altura significativa da onda (hs)’ o valor médio do terço superior das alturas da onda medidas num determinado intervalo de tempo;
 
-n) ‘Bordo livre residual’ ou ‘(f<sub>r</sub>)’ a distância mínima, na vertical, entre o pavimento ro-ro danificado e a linha de flutuação final na zona da avaria, sem ter em conta o efeito da água do mar acumulada naquele pavimento;
+n) ‘Bordo livre residual’ ou ‘(fr)’ a distância mínima, na vertical, entre o pavimento ro-ro danificado e a linha de flutuação final na zona da avaria, sem ter em conta o efeito da água do mar acumulada naquele pavimento;
 
 o) ‘Companhia’ o proprietário de um navio ro-ro de passageiros, o armador ou o afretador em casco nu, que tenham assumido, perante o proprietário, a responsabilidade pela exploração do mesmo.
 
-###### Artigo 3.º — Âmbito de aplicação
+Artigo 3.º
+
+Âmbito de aplicação
 
 1 - O presente decreto-lei aplica-se aos navios ro-ro de passageiros, qualquer que seja o seu pavilhão, que efetuem serviços regulares internacionais com partida ou destino num porto de um Estado-Membro.
 
 2 - A Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM) deve assegurar que os navios ro-ro de passageiros que arvoram pavilhão de um Estado terceiro satisfazem plenamente as prescrições do presente decreto-lei antes de conceder autorização para efetuar viagens em serviço regular a partir de ou com destino aos seus portos, nos termos do Decreto-Lei n.º 93/2020, de 3 de novembro.
 
-###### Artigo 4.º — Alturas significativas de onda
+Artigo 4.º
 
-1 - Para determinar a altura da água acumulada no convés destinado aos veículos, no âmbito da aplicação das prescrições específicas de estabilidade constantes da parte I do anexo I do presente decreto-lei e do qual faz parte integrante, são utilizados os valores da altura significativa da onda (h<sub>s</sub>).
+Alturas significativas de onda
+
+1 - Para determinar a altura da água acumulada no convés destinado aos veículos, no âmbito da aplicação das prescrições específicas de estabilidade constantes da parte I do anexo I do presente decreto-lei e do qual faz parte integrante, são utilizados os valores da altura significativa da onda (hs).
 
 2 - Os valores da altura significativa da onda são aqueles cuja probabilidade de serem excedidos é igual ou inferior a 10 % no período de um ano.
 
-###### Artigo 5.º — Zonas marítimas
+Artigo 5.º
+
+Zonas marítimas
 
 1 - A lista das zonas marítimas atravessadas pelos navios ro-ro de passageiros que operem em serviço regular rumo aos portos nacionais ou destes provenientes, bem como os correspondentes valores da altura significativa de onda nessas zonas, é estabelecida por portaria dos membros do Governo responsáveis pelas áreas da defesa nacional, das infraestruturas e do mar, a qual deve ser publicitada no sítio da DGRM na Internet.
 
@@ -302,7 +344,9 @@ o) ‘Companhia’ o proprietário de um navio ro-ro de passageiros, o armador o
 
 3 - No caso de o navio cruzar mais de uma zona marítima, o navio ro-ro de passageiros deve satisfazer as prescrições específicas de estabilidade correspondentes ao mais alto valor de altura significativa da onda identificado naquelas zonas.
 
-###### Artigo 6.º — Prescrições específicas de estabilidade
+Artigo 6.º
+
+Prescrições específicas de estabilidade
 
 1 - Sem prejuízo da aplicação do Decreto-Lei n.º 93/2012, de 19 de abril, na sua atual redação, os navios ro-ro de passageiros novos, certificados para o transporte de mais de 1350 pessoas a bordo, devem satisfazer as prescrições específicas de estabilidade estabelecidas na parte B do capítulo II-1 da SOLAS 2020.
 
@@ -328,13 +372,17 @@ a) As prescrições específicas de estabilidade estabelecidas na parte I do ane
 
 b) As prescrições específicas de estabilidade estabelecidas na parte II do anexo I do presente decreto-lei.
 
-7 - O cumprimento das condições estabelecidas nos n.<sup>os</sup>5 e 6 são averbadas aos certificados do navio a que se referem os artigos 8.º e 9.º
+7 - O cumprimento das condições estabelecidas nos n.os5 e 6 são averbadas aos certificados do navio a que se referem os artigos 8.º e 9.º
 
-###### Artigo 7.º — Introdução das prescrições específicas de estabilidade
+Artigo 7.º
+
+Introdução das prescrições específicas de estabilidade
 
 (Revogado.)
 
-###### Artigo 8.º — Exploração sazonal e outra exploração de curta duração
+Artigo 8.º
+
+Exploração sazonal e outra exploração de curta duração
 
 1 - Uma companhia de navegação que preste serviços regulares todo o ano e que no âmbito desses serviços pretenda explorar, por um período de menor duração, navios ro-ro de passageiros suplementares, deve proceder à comunicação da sua pretensão à DGRM e à autoridade competente do outro Estado ou Estados do porto até um mês antes de iniciar a sua exploração.
 
@@ -348,7 +396,9 @@ b) As prescrições específicas de estabilidade estabelecidas na parte II do an
 
 6 - Os navios ro-ro de passageiros a que se refere o número anterior devem dispor de um certificado de conformidade nos termos do disposto no n.º 1.
 
-###### Artigo 9.º — Certificados
+Artigo 9.º
+
+Certificados
 
 1 - Os navios ro-ro de passageiros, abrangidos pelo presente decreto-lei, apenas podem operar com os certificados que atestem que satisfazem as prescrições específicas de estabilidade estabelecidas no artigo 6.º
 
@@ -362,13 +412,17 @@ b) As prescrições específicas de estabilidade estabelecidas na parte II do an
 
 6 - As taxas a cobrar pelos serviços prestados são estabelecidas nos termos do diploma regulamentar que fixa a respetiva cobrança pela DGRM.
 
-###### Artigo 10.º — Reconhecimento de certificados de navios ro-ro de passageiros de pavilhão estrangeiro
+Artigo 10.º
+
+Reconhecimento de certificados de navios ro-ro de passageiros de pavilhão estrangeiro
 
 1 - A DGRM e os órgãos locais da Direção-Geral da Autoridade Marítima (DGAM) reconhecem os certificados emitidos por outro Estado-Membro, ao abrigo do presente decreto-lei.
 
 2 - A DGRM e os órgãos locais da DGAM aceitam os certificados emitidos por um país terceiro que atestem que um navio satisfaz as prescrições específicas de estabilidade exigidas pelo presente decreto-lei.
 
-###### Artigo 11.º — Fiscalização e competências sancionatórias
+Artigo 11.º
+
+Fiscalização e competências sancionatórias
 
 1 - Compete à DGRM e aos órgãos locais da autoridade marítima assegurar a fiscalização do cumprimento do disposto no presente decreto-lei, bem como a instrução dos processos de contraordenação de que levantem auto de notícia.
 
@@ -384,7 +438,9 @@ c) 15 % para a entidade que levanta o auto de notícia e que procede à instruç
 
 d) 10 % para o Fundo Azul.
 
-###### Artigo 12.º — Infrações
+Artigo 12.º
+
+Infrações
 
 1 - Constituem contraordenação punível com coima de € 2200 a € 3700, no caso de pessoas singulares, e de € 10 000 a € 44 000, no caso de pessoas coletivas:
 
@@ -392,21 +448,25 @@ a) A navegação sem o certificado exigido pelo artigo 9.º;
 
 b) A navegação em zona marítima para a qual o navio ro-ro de passageiros não possui a certificação adequada, nos termos do artigo 9.º;
 
-c) O incumprimento da obrigação de comunicação à DGRM das situações previstas nos n.<sup>os</sup>1 a 3 do artigo 8.º
+c) O incumprimento da obrigação de comunicação à DGRM das situações previstas nos n.os1 a 3 do artigo 8.º
 
 2 - A negligência e a tentativa são puníveis.
 
-3 - O processo por infração às disposições do presente diploma rege-se pelo regime geral das contraordenações e coimas, aprovado pelo Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.<sup>os</sup>356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro.
+3 - O processo por infração às disposições do presente diploma rege-se pelo regime geral das contraordenações e coimas, aprovado pelo Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro.
 
-###### Artigo 13.º — Entrada em vigor
+Artigo 13.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
-## ANEXO I — Prescrições específicas de estabilidade para os navios ro-ro de passageiros
+ANEXO I
+
+Prescrições específicas de estabilidade para os navios ro-ro de passageiros
 
 (a que se refere o artigo 6.º)
 
-# PARTE I
+PARTE I
 
 Para efeitos da aplicação da presente parte, as referências às regras da Convenção SOLAS devem entender-se como referências às regras aplicáveis nos termos da SOLAS 90.
 
@@ -418,29 +478,29 @@ a) Acima do ponto mais baixo da linha de borda do compartimento em avaria do pav
 
 b) Acima da linha de água parada, em todos os ângulos de adornamento e caimento, quando a linha de borda do compartimento em avaria fica imersa, do seguinte modo:
 
-i) 0,5 m, se o bordo livre residual (f<sub>r</sub>) for igual ou inferior a 0,3 m;
+i) 0,5 m, se o bordo livre residual (fr) for igual ou inferior a 0,3 m;
 
-ii) 0,0 m, se o bordo livre residual (f<sub>r</sub>) for igual ou superior a 2 m; ou
+ii) 0,0 m, se o bordo livre residual (fr) for igual ou superior a 2 m; ou
 
-iii) Um valor intermédio a determinar por interpolação linear, se o bordo livre residual (f<sub>r</sub>) for igual ou superior a 0,3 m mas inferior a 2 m, em que o bordo livre residual (f<sub>r</sub>) é a distância mínima, na vertical, entre o pavimento ro-ro em avaria e a linha de água final na zona da avaria, no cenário de avaria considerado, sem ter em conta o efeito do volume de água acumulada no pavimento ro-ro em avaria.
+iii) Um valor intermédio a determinar por interpolação linear, se o bordo livre residual (fr) for igual ou superior a 0,3 m mas inferior a 2 m, em que o bordo livre residual (fr) é a distância mínima, na vertical, entre o pavimento ro-ro em avaria e a linha de água final na zona da avaria, no cenário de avaria considerado, sem ter em conta o efeito do volume de água acumulada no pavimento ro-ro em avaria.
 
 1.2 - Quando exista um sistema de esgoto de alto rendimento, a Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM) pode autorizar a redução da altura da superfície de água.
 
 1.3 - Relativamente aos navios que operem em zonas restritas geograficamente definidas, a DGRM pode reduzir o valor da altura da superfície de água prescrita de acordo com o disposto no ponto 1.1, substituindo-o pelo seguinte:
 
-1.3.1 - 0,0 m se a altura significativa da onda (h<sub>s</sub>) que define a zona considerada for igual ou inferior a 1,5 m;
+1.3.1 - 0,0 m se a altura significativa da onda (hs) que define a zona considerada for igual ou inferior a 1,5 m;
 
-1.3.2 - O valor determinado de acordo com o disposto no ponto 1.1, se a altura significativa da onda (h<sub>s</sub>) que define a zona considerada for igual ou superior a 4 m;
+1.3.2 - O valor determinado de acordo com o disposto no ponto 1.1, se a altura significativa da onda (hs) que define a zona considerada for igual ou superior a 4 m;
 
-1.3.3 - Um valor intermédio a determinar por interpolação linear, se a altura significativa da onda (h<sub>s</sub>) que define a zona considerada for igual ou superior a 1,5 m mas inferior a 4 m, desde que sejam satisfeitas as seguintes condições:
+1.3.3 - Um valor intermédio a determinar por interpolação linear, se a altura significativa da onda (hs) que define a zona considerada for igual ou superior a 1,5 m mas inferior a 4 m, desde que sejam satisfeitas as seguintes condições:
 
-a) A DGRM considere que a zona definida se caracteriza por uma altura significativa da onda (h<sub>s</sub>) cuja probabilidade de ser excedida é igual ou inferior a 10 %;
+a) A DGRM considere que a zona definida se caracteriza por uma altura significativa da onda (hs) cuja probabilidade de ser excedida é igual ou inferior a 10 %;
 
-b) A zona de operação e, se for caso disso, a época do ano para que foi estabelecido um determinado valor de altura significativa da onda (h<sub>s</sub>) sejam registadas nos certificados.
+b) A zona de operação e, se for caso disso, a época do ano para que foi estabelecido um determinado valor de altura significativa da onda (hs) sejam registadas nos certificados.
 
 1.4 - Em alternativa à aplicação das disposições dos pontos 1.1 ou 1.3, a DGRM pode aceitar prova, estabelecida por ensaios com modelo efetuados para um navio específico em conformidade com o método de ensaio constante do apêndice a este anexo, que demonstre que o navio, a navegar em mar unidirecional irregular, não soçobra com as extensões de avaria previstas na regra II-1/B/8.4 (SOLAS 74) na pior localização considerada nos termos do ponto 1.1.
 
-1.5 - A referência à aceitação dos resultados dos ensaios com modelo como equivalência ao cumprimento do disposto nos pontos 1.1 ou 1.3 e o valor da altura significativa da onda (h<sub>s</sub>) utilizada nos ensaios com modelo devem ser registados nos certificados do navio.
+1.5 - A referência à aceitação dos resultados dos ensaios com modelo como equivalência ao cumprimento do disposto nos pontos 1.1 ou 1.3 e o valor da altura significativa da onda (hs) utilizada nos ensaios com modelo devem ser registados nos certificados do navio.
 
 1.6 - A informação que deve ser fornecida aos comandantes em conformidade com as regras II-1/B/8.7.1 e II-1/B/8.7.2 (SOLAS 74), para efeitos do cumprimento das regras II-1/B/8.2.3 a II-1/B/8.2.3.4 (SOLAS 74), aplicar-se inalterada aos navios ro-ro de passageiros aprovados de acordo com as presentes prescrições.
 
@@ -452,13 +512,13 @@ b) A zona de operação e, se for caso disso, a época do ano para que foi estab
 
 2.3 - As características de estanquidade das anteparas transversais ou longitudinais consideradas eficazes para conter a água do mar acumulada no compartimento considerado do pavimento ro-ro em avaria devem ser compatíveis com o sistema de esgoto e permitir-lhes suportar uma pressão hidrostática conforme com os resultados dos cálculos em avaria. Tais anteparas devem ter, no mínimo, 4 m de altura, a menos que a altura da água seja inferior a 0,5 m. Nesse caso, a altura das anteparas pode ser calculada pela seguinte fórmula:
 
-B<sub>h</sub> = 8 x h<sub>w</sub>
+Bh = 8 x hw
 
 em que:
 
-B<sub>h</sub> é a altura da antepara;
+Bh é a altura da antepara;
 
-h<sub>w</sub> é a altura da água.
+hw é a altura da água.
 
 Em qualquer caso, a altura mínima das anteparas não deverá ser inferior a 2,2 m. No entanto, tratando-se de navios com pavimentos para veículos suspensos, a altura mínima destas anteparas não deve ser inferior à altura até à parte inferior do pavimento suspenso na sua posição mais baixa.
 
@@ -482,7 +542,7 @@ Em qualquer caso, a altura mínima das anteparas não deverá ser inferior a 2,2
 
 4 - Os ensaios com modelo serão conduzidos em conformidade com o disposto no apêndice a este anexo.
 
-# PARTE II
+PARTE II
 
 Devem ser cumpridas as prescrições da parte B do capítulo II-1 da SOLAS 2020, sem prejuízo de, em derrogação da regra II-1/B/6.2.3 da SOLAS 2020, o índice de subdivisão R exigido ser determinado nos seguintes termos:
 
@@ -495,7 +555,7 @@ sendo:
 
 N = Número total de pessoas a bordo.
 
-## Apêndice
+Apêndice
 
 Método de ensaio com modelo
 
@@ -503,37 +563,37 @@ Método de ensaio com modelo
 
 2 - Definições:
 
-L<sub>pp</sub> - comprimento entre perpendiculares;
+Lpp - comprimento entre perpendiculares;
 
-H<sub>s</sub> - altura significativa da onda;
+Hs - altura significativa da onda;
 
 B - boca na ossada;
 
-T<sub>p</sub> - período de pico;
+Tp - período de pico;
 
-T<sub>z</sub> - período de intersecção zero;
+Tz - período de intersecção zero;
 
 3 - Modelo do navio:
 
 3.1 - O modelo deve reproduzir o navio real, tanto na configuração exterior como no arranjo interno, e em particular os espaços em avaria que possam influir no processo de alagamento e de embarque de água. Devem utilizar-se o calado, o caimento, o adornamento e o KG de serviço limite do navio intacto correspondentes ao pior cenário de avaria. Os casos a considerar nos ensaios devem também representar os piores cenários de avaria, definidos em conformidade com a regra SOLAS/II-1/8.2.3.2 (SOLAS 90) relativamente à área total sob a curva GZ positiva, e o eixo do rombo deve ter a seguinte localização:
 
-3.1.1 - ± 35 % L<sub>pp</sub> do meio navio;
+3.1.1 - ± 35 % Lpp do meio navio;
 
-3.1.2 - Exige-se um ensaio adicional para a pior avaria dentro do limite de ± 10 % L<sub>pp</sub> do meio navio se a avaria referida no ponto 1 se localizar fora do limite de ± 10 % L<sub>pp</sub> do meio navio.
+3.1.2 - Exige-se um ensaio adicional para a pior avaria dentro do limite de ± 10 % Lpp do meio navio se a avaria referida no ponto 1 se localizar fora do limite de ± 10 % Lpp do meio navio.
 
 3.2 - O modelo deve obedecer às seguintes disposições:
 
-3.2.1 - O comprimento entre perpendiculares (L<sub>pp</sub>) deve ser de, pelo menos, 3 m ou corresponder a uma escala de 1:40, conforme o maior destes valores, e a dimensão vertical deve ser de, pelo menos, três vezes a altura normal da superstrutura acima do pavimento das anteparas (do bordo livre);
+3.2.1 - O comprimento entre perpendiculares (Lpp) deve ser de, pelo menos, 3 m ou corresponder a uma escala de 1:40, conforme o maior destes valores, e a dimensão vertical deve ser de, pelo menos, três vezes a altura normal da superstrutura acima do pavimento das anteparas (do bordo livre);
 
 3.2.2 - A espessura do casco na zona dos espaços alagados não deve exceder 4 mm;
 
-3.2.3 - Na condição intacta e na condição em avaria, o modelo deve apresentar o deslocamento e as marcas de calado corretos (T<sub>A</sub>, T<sub>M</sub>, T<sub>F</sub>, bombordo e estibordo), com uma tolerância máxima de + 2 mm em qualquer marca de calado. As marcas de calado à proa e à popa devem localizar-se tão próximo quanto possível da perpendicular a vante e da perpendicular a ré;
+3.2.3 - Na condição intacta e na condição em avaria, o modelo deve apresentar o deslocamento e as marcas de calado corretos (TA, TM, TF, bombordo e estibordo), com uma tolerância máxima de + 2 mm em qualquer marca de calado. As marcas de calado à proa e à popa devem localizar-se tão próximo quanto possível da perpendicular a vante e da perpendicular a ré;
 
 3.2.4 - Todos os compartimentos e espaços ro-ro avariados devem ser reproduzidos com as permeabilidades corretas de superfície e de volume (valores e distribuições reais), assegurando que a massa de água embarcada e a distribuição da massa sejam corretamente representadas;
 
-3.2.5 - As características do movimento devem reproduzir as do navio real, com especial atenção à tolerância da altura metacêntrica (GM) no estado intacto e aos raios de giração nos movimentos de balanço transversal e longitudinal. Ambos os raios devem ser medidos fora de água e situar-se nos intervalos de 0,35 B a 0,4 B para o movimento de balanço transversal e de 0,2 L<sub>ff</sub>a 0,25 L<sub>ff</sub> para o movimento de balanço longitudinal;
+3.2.5 - As características do movimento devem reproduzir as do navio real, com especial atenção à tolerância da altura metacêntrica (GM) no estado intacto e aos raios de giração nos movimentos de balanço transversal e longitudinal. Ambos os raios devem ser medidos fora de água e situar-se nos intervalos de 0,35 B a 0,4 B para o movimento de balanço transversal e de 0,2 Lffa 0,25 Lff para o movimento de balanço longitudinal;
 
-3.2.6 - Elementos essenciais de projeto como as anteparas estanques, os ventiladores, etc., acima ou abaixo do pavimento das anteparas, que possam ser causa de alagamento assimétrico, devem ser reproduzidos de modo a representarem, tanto quanto possível, a situação real. Os dispositivos de ventilação e de compensação transversal do alagamento devem ser construídos com uma secção transversal mínima de 500 mm<sup>2</sup>;
+3.2.6 - Elementos essenciais de projeto como as anteparas estanques, os ventiladores, etc., acima ou abaixo do pavimento das anteparas, que possam ser causa de alagamento assimétrico, devem ser reproduzidos de modo a representarem, tanto quanto possível, a situação real. Os dispositivos de ventilação e de compensação transversal do alagamento devem ser construídos com uma secção transversal mínima de 500 mm2;
 
 3.2.7 - O rombo deve ter a seguinte configuração:
 
@@ -543,7 +603,7 @@ T<sub>z</sub> - período de intersecção zero;
 
 3) Não obstante o disposto nos pontos 3.2.7.1 e 3.2.7.2, todos os compartimentos considerados em avaria para o cálculo dos piores cenários de avaria referidos no ponto 3.1 devem ser alagados nos ensaios com modelo.
 
-3.3 - O modelo na condição de equilíbrio após alagamento será adornado a um ângulo adicional correspondente ao induzido pelo momento inclinante M<sub>h</sub> = max (M<sub>pass</sub>; M<sub>launch</sub>) - M<sub>wind</sub>, mas em nenhum caso o adornamento final deve ser inferior a 1° para o bordo do rombo. M<sub>pass</sub>, M<sub>launch</sub> e M<sub>wind</sub>) são especificados na regra II-1/8.2.3.4 da Convenção SOLAS.
+3.3 - O modelo na condição de equilíbrio após alagamento será adornado a um ângulo adicional correspondente ao induzido pelo momento inclinante Mh = max (Mpass; Mlaunch) - Mwind, mas em nenhum caso o adornamento final deve ser inferior a 1° para o bordo do rombo. Mpass, Mlaunch e Mwind) são especificados na regra II-1/8.2.3.4 da Convenção SOLAS.
 
 Para os navios existentes, pode considerar-se que este ângulo é de 1°.
 
@@ -553,7 +613,7 @@ Para os navios existentes, pode considerar-se que este ângulo é de 1°.
 
 Além disso:
 
-4.1.1 - A largura do tanque de ensaio deve ser suficiente para evitar o contacto ou outras interações do modelo com os lados do tanque, recomendando-se que não seja inferior a L<sub>pp</sub> + 2 m;
+4.1.1 - A largura do tanque de ensaio deve ser suficiente para evitar o contacto ou outras interações do modelo com os lados do tanque, recomendando-se que não seja inferior a Lpp + 2 m;
 
 4.1.2 - A profundidade do tanque deve ser suficiente para uma modelização adequada da ondulação, não devendo ser inferior a 1 m;
 
@@ -561,9 +621,9 @@ Além disso:
 
 4.1.4 - A sonda mais próxima do aparelho gerador de ondulação deve localizar-se na posição que o modelo ocupará quando se iniciar o ensaio;
 
-4.1.5 - Nas três localizações, a variação de H<sub>s</sub> e de T<sub>p</sub> deve situar-se no intervalo ± 5 %; e
+4.1.5 - Nas três localizações, a variação de Hs e de Tp deve situar-se no intervalo ± 5 %; e
 
-4.1.6 - Durante os ensaios, para efeitos de aprovação, deve admitir-se uma tolerância de + 2,5 % para H<sub>s</sub>, ± 2,5 % para T<sub>p</sub> e ± 5 % para T<sub>z</sub>, em relação à sonda mais próxima do aparelho gerador de ondulação.
+4.1.6 - Durante os ensaios, para efeitos de aprovação, deve admitir-se uma tolerância de + 2,5 % para Hs, ± 2,5 % para Tp e ± 5 % para Tz, em relação à sonda mais próxima do aparelho gerador de ondulação.
 
 4.2 - O modelo deve poder derivar livremente em condições de mar de través (aproamento de 90°) com o rombo a fazer face às ondas, sem estar ligado de forma permanente a um sistema de amarração. Para manter um aproamento de aproximadamente 90° com mar de través durante o ensaio do modelo, devem ser satisfeitos os seguintes requisitos:
 
@@ -581,35 +641,39 @@ Em cada prova, utilizar-se-á uma sequência de ondas diferente.
 
 6.1 - O programa dos ensaios com modelo deve ser previamente aprovado pela DGRM.
 
-6.2 - Os ensaios devem ser documentados por meio de um relatório e de um vídeo ou outro registo de imagem, contendo toda a informação pertinente sobre o modelo e os resultados dos ensaios, a aprovar pela DGRM. Esses dados incluirão, no mínimo, os espectros das ondas teóricos e medidos e as estatísticas (H<sub>s</sub>, T<sub>p</sub>, T<sub>z</sub>) da elevação das ondas nas três diferentes localizações selecionadas no tanque para se obter uma ondulação representativa e, no que respeita aos ensaios com o modelo, a série cronológica das principais estatísticas da elevação das ondas medida junto ao aparelho gerador de ondulação e registos dos movimentos (balanço transversal, arfagem e balanço de popa proa) e da velocidade de deriva do modelo.
+6.2 - Os ensaios devem ser documentados por meio de um relatório e de um vídeo ou outro registo de imagem, contendo toda a informação pertinente sobre o modelo e os resultados dos ensaios, a aprovar pela DGRM. Esses dados incluirão, no mínimo, os espectros das ondas teóricos e medidos e as estatísticas (Hs, Tp, Tz) da elevação das ondas nas três diferentes localizações selecionadas no tanque para se obter uma ondulação representativa e, no que respeita aos ensaios com o modelo, a série cronológica das principais estatísticas da elevação das ondas medida junto ao aparelho gerador de ondulação e registos dos movimentos (balanço transversal, arfagem e balanço de popa proa) e da velocidade de deriva do modelo.
 
-## ANEXO II — Orientações para as administrações nacionais
+ANEXO II
+
+Orientações para as administrações nacionais
 
 (a que se refere o n.º 4 do artigo 6.º)
 
-# PARTE I — APLICAÇÃO
+PARTE I
+
+APLICAÇÃO
 
 Em conformidade com o disposto no n.º 4 do artigo 6.º do presente decreto-lei, a DGRM guia-se pelas presentes orientações na aplicação das prescrições específicas de estabilidade constantes da parte I do anexo I, na medida em que tal seja exequível e compatível com a conceção do navio em questão. A numeração dos pontos seguintes corresponde aos dos parágrafos da parte I do anexo I.
 
-Ponto 1. - Numa primeira fase, todos os navios ro-ro de passageiros a que se refere o n.º 1 do artigo 3.º do presente diploma deverão satisfazer a regra SOLAS 90 sobre estabilidade residual, aplicável aos navios de passageiros construídos em ou após 29 de abril de 1990. É a aplicação desta prescrição que permite definir o bordo livre residual (f<sub>r</sub>) necessário para os cálculos previstos no ponto 1.1.
+Ponto 1. - Numa primeira fase, todos os navios ro-ro de passageiros a que se refere o n.º 1 do artigo 3.º do presente diploma deverão satisfazer a regra SOLAS 90 sobre estabilidade residual, aplicável aos navios de passageiros construídos em ou após 29 de abril de 1990. É a aplicação desta prescrição que permite definir o bordo livre residual (fr) necessário para os cálculos previstos no ponto 1.1.
 
 Ponto 1.1:
 
 1 - O presente ponto refere-se ao volume hipotético de água acumulada no pavimento (ro-ro) das anteparas. Assume-se que a água penetrou no pavimento por um rombo. O disposto no presente ponto obriga a que o navio satisfaça, além de todos os requisitos da regra SOLAS 90, a parte dos critérios SOLAS 90 constante dos pontos 2.3 a 2.3.4 da regra II-1/B/8, com o volume de água definido no pavimento. Para o cálculo não é necessário ter em conta quaisquer outras prescrições da regra II-1/B/8. Por exemplo, não é necessário que o navio satisfaça as prescrições relativas aos ângulos de equilíbrio ou à não imersão da linha de sobre imersão.
 
-2 - A água acumulada é considerada uma carga líquida com uma superfície ao mesmo nível em todos os compartimentos alagados no convés dos veículos. A altura (h<sub>w</sub>) da água no convés depende do bordo livre residual (f<sub>r</sub>) após avaria e é medida na zona da avaria (v. figura 1). O bordo livre residual (f<sub>r</sub>) é a distância mínima, na vertical, entre o pavimento ro-ro em avaria e a linha de água final (após as medidas compensatórias, se tomadas) na zona da avaria, após consideração de todos os cenários de avaria possíveis na avaliação da conformidade com a regra SOLAS 90, conforme previsto no ponto 1 do anexo I. Para o cálculo de f<sub>r</sub> não deve entrar-se em linha de conta com o efeito do volume hipotético de água acumulada no pavimento ro-ro em avaria.
+2 - A água acumulada é considerada uma carga líquida com uma superfície ao mesmo nível em todos os compartimentos alagados no convés dos veículos. A altura (hw) da água no convés depende do bordo livre residual (fr) após avaria e é medida na zona da avaria (v. figura 1). O bordo livre residual (fr) é a distância mínima, na vertical, entre o pavimento ro-ro em avaria e a linha de água final (após as medidas compensatórias, se tomadas) na zona da avaria, após consideração de todos os cenários de avaria possíveis na avaliação da conformidade com a regra SOLAS 90, conforme previsto no ponto 1 do anexo I. Para o cálculo de fr não deve entrar-se em linha de conta com o efeito do volume hipotético de água acumulada no pavimento ro-ro em avaria.
 
-3 - Se (f<sub>r</sub>) for igual ou superior a 2 m, assume-se que não se acumula água no pavimento ro-ro. Se (f<sub>r</sub>) for igual ou inferior a 0,3 m, assume-se que a altura h<sub>w</sub> é 0,5 m. Os valores intermédios da altura da água obtêm-se por interpolação linear (v. figura 2).
+3 - Se (fr) for igual ou superior a 2 m, assume-se que não se acumula água no pavimento ro-ro. Se (fr) for igual ou inferior a 0,3 m, assume-se que a altura hw é 0,5 m. Os valores intermédios da altura da água obtêm-se por interpolação linear (v. figura 2).
 
 Ponto 1.2 - Os meios de esgoto apenas podem ser considerados eficazes se a sua capacidade for suficiente para prevenir a acumulação de um grande volume de água no convés, isto é, muitos milhares de toneladas por hora, um volume que excede em muito a capacidade instalada à data de adoção das presentes regras. Tais sistemas de esgoto de alto rendimento poderão ser desenvolvidos e homologados futuramente (com base em diretrizes que a Organização Marítima Internacional elaborará).
 
 Ponto 1.3:
 
-1 - O volume de água que se presume acumulada no convés pode ser reduzido, além de uma eventual redução de acordo com o ponto 1.1, no caso dos navios que operem em zonas restritas geograficamente delimitadas. Estas zonas são designadas em função da altura significativa da onda (h<sub>s</sub>) que define cada área, em conformidade com as disposições do artigo 5.º do presente diploma.
+1 - O volume de água que se presume acumulada no convés pode ser reduzido, além de uma eventual redução de acordo com o ponto 1.1, no caso dos navios que operem em zonas restritas geograficamente delimitadas. Estas zonas são designadas em função da altura significativa da onda (hs) que define cada área, em conformidade com as disposições do artigo 5.º do presente diploma.
 
-2 - Se a altura significativa da onda (h<sub>s</sub>) na zona considerada for igual ou inferior a 1,5 m, assume-se que não se acumula água no pavimento ro-ro em avaria. Se a altura significativa da onda na zona considerada for igual ou superior a 4 m, a altura da água que se assume acumulada terá o valor calculado nos termos do ponto 1.1. Os valores intermédios serão determinados por interpolação linear (v. figura 3).
+2 - Se a altura significativa da onda (hs) na zona considerada for igual ou inferior a 1,5 m, assume-se que não se acumula água no pavimento ro-ro em avaria. Se a altura significativa da onda na zona considerada for igual ou superior a 4 m, a altura da água que se assume acumulada terá o valor calculado nos termos do ponto 1.1. Os valores intermédios serão determinados por interpolação linear (v. figura 3).
 
-3 - A altura h<sub>w</sub> mantém-se constante, pelo que o volume de água é variável visto depender do ângulo de adornamento e de a borda do pavimento ficar ou não imersa a um dado ângulo de adornamento (v. figura 4). Note-se que a permeabilidade dos espaços do convés dos veículos deve ser considerada 90 % (v. MSC/Circ. 649), enquanto a permeabilidade de outros espaços alagados será a prescrita na Convenção SOLAS.
+3 - A altura hw mantém-se constante, pelo que o volume de água é variável visto depender do ângulo de adornamento e de a borda do pavimento ficar ou não imersa a um dado ângulo de adornamento (v. figura 4). Note-se que a permeabilidade dos espaços do convés dos veículos deve ser considerada 90 % (v. MSC/Circ. 649), enquanto a permeabilidade de outros espaços alagados será a prescrita na Convenção SOLAS.
 
 4 - Se os cálculos destinados a demonstrar o cumprimento do presente diploma se referirem a uma altura significativa da onda inferior a 4 m, essa altura restritiva deverá ser registada no certificado de segurança para navio de passageiros do navio considerado.
 
@@ -617,7 +681,7 @@ Pontos 1.4 e 1.5 - Em alternativa à aplicação das novas prescrições de esta
 
 Ponto 1.6 - As curvas de serviço limite (KG ou GM) obtidas segundo a regra SOLAS 90 podem não ser aplicáveis quando se assume um volume de água no convés conforme previsto neste diploma, pelo que poderá ser necessário determinar curvas limite que tenham em conta os efeitos deste volume de água. Para esse efeito, deverão ser efetuados cálculos suficientes em relação a uma gama adequada de calados e caimentos de serviço.
 
-Nota. - As curvas de serviço limite revistas KG/GM podem ser obtidas por iteração, sendo que o excesso mínimo de GM resultante dos cálculos de estabilidade com água no convés é adicionado ao valor de KG (ou deduzido ao GM) utilizado para determinar os bordos livres (f<sub>r</sub>) em avaria, com os quais são determinadas as quantidades de água no convés, processo este que será repetido até que o excesso de GM seja desprezável.
+Nota. - As curvas de serviço limite revistas KG/GM podem ser obtidas por iteração, sendo que o excesso mínimo de GM resultante dos cálculos de estabilidade com água no convés é adicionado ao valor de KG (ou deduzido ao GM) utilizado para determinar os bordos livres (fr) em avaria, com os quais são determinadas as quantidades de água no convés, processo este que será repetido até que o excesso de GM seja desprezável.
 
 Pressupõe-se que os operadores iniciarão esta iteração com os valores de KG máximo e GM mínimo que possam ser razoavelmente admissíveis nas condições de serviço e procurar ajustar a resultante disposição das anteparas do pavimento para minimizar o incremento de GM derivado dos cálculos da estabilidade em avaria com água no convés.
 
@@ -629,7 +693,7 @@ Ponto 2.3:
 
 1 - As anteparas/barreiras transversais ou longitudinais instaladas e tomadas em consideração para efeitos de limitar a deslocação da água acumulada no pavimento ro-ro em avaria não têm de ser totalmente estanques. É admissível alguma infiltração, sob reserva de os meios de esgoto serem suscetíveis de prevenir a acumulação de água do outro lado das anteparas/barreiras. Em tais casos, se os embornais ficarem inoperantes em resultado da diminuição da diferença de níveis da água, devem ser previstos outros meios de esgoto passivos.
 
-2 - A altura (B<sub>h</sub>) das anteparas/barreiras transversais ou longitudinais não deve ser inferior a (8 × h<sub>w</sub>) metros, sendo h<sub>w</sub> a altura da água acumulada calculada por aplicação dos parâmetros bordo livre residual e altura significativa da onda (v. pontos 1.1 e 1.3). No entanto, a altura das anteparas/barreiras não poderá, em caso algum, ser inferior ao maior dos seguintes valores:
+2 - A altura (Bh) das anteparas/barreiras transversais ou longitudinais não deve ser inferior a (8 × hw) metros, sendo hw a altura da água acumulada calculada por aplicação dos parâmetros bordo livre residual e altura significativa da onda (v. pontos 1.1 e 1.3). No entanto, a altura das anteparas/barreiras não poderá, em caso algum, ser inferior ao maior dos seguintes valores:
 
 a) 2,2 m; ou
 
@@ -653,9 +717,11 @@ Ponto 2.6:
 
 2 - Todas as anteparas/barreiras transversais e longitudinais que limitem o volume de água supostamente acumulado no pavimento devem estar instaladas e fixadas nos seus lugares quando o navio se encontra no mar.
 
-3 - Quando uma antepara/barreira transversal sofra avaria, a superfície da água acumulada no pavimento deve ter o mesmo nível de ambos os lados da antepara/barreira em avaria à altura h<sub>w</sub> (v. figura 9).
+3 - Quando uma antepara/barreira transversal sofra avaria, a superfície da água acumulada no pavimento deve ter o mesmo nível de ambos os lados da antepara/barreira em avaria à altura hw (v. figura 9).
 
-# PARTE II — ENSAIOS COM MODELO
+PARTE II
+
+ENSAIOS COM MODELO
 
 O objetivo destas orientações é assegurar a uniformidade dos métodos utilizados na construção e verificação do modelo e na realização e análise dos ensaios.
 
@@ -687,13 +753,13 @@ Caso o modelo deva ser equipado com barreiras no convés e estas tenham uma altu
 
 A altura das anteparas transversais ou longitudinais consideradas eficazes para conter a água do mar que se presume acumulada no compartimento considerado do pavimento ro-ro em avaria deverá ser de pelo menos 4 m, a menos que a altura da água seja inferior a 0,5 m. Nesse caso, a altura das anteparas poderá ser calculada pela seguinte fórmula:
 
-B<sub>h</sub> = 8 × h<sub>w</sub>
+Bh = 8 × hw
 
 em que:
 
-B<sub>h</sub> é a altura da antepara; e
+Bh é a altura da antepara; e
 
-h<sub>w</sub> é a altura da água.
+hw é a altura da água.
 
 Em qualquer caso, a altura mínima das anteparas não deverá ser inferior a 2,2 m. No entanto, tratando-se de navios com pavimentos para veículos suspensos, a altura mínima destas anteparas não deverá ser inferior à altura até à parte inferior do pavimento suspenso na sua posição mais baixa.
 
@@ -713,7 +779,8 @@ Adicionalmente, quando existam troncos laterais de largura inferior a B/5, e par
 
 3.4 - Nos casos em que existe uma margem entre a altura metacêntrica (GM) e a altura metacêntrica em relação à curva limite GM (segundo a SOLAS 90), nas condições reais de carga, a DGRM poderá aceitar que essa margem seja aproveitada no ensaio com o modelo. Em tais casos, a curva limite GM deve[Decreto-Lei n.º 204/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2005-481723)tamento pode ser efetuado do seguinte modo:
 
-![](https://files.diariodarepublica.pt/images/905621675/905510879.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/905621675/905510879.png) |
+| --- |
 
 d = dS - 0,6 (dS - dLS)
 
@@ -759,35 +826,41 @@ Orientações para as administrações nacionais
 
 Figura 1
 
-![](https://files.diariodarepublica.pt/images/905621675/905510880.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/905621675/905510880.png) |
+| --- |
 
 Figura 2
 
-![](https://files.diariodarepublica.pt/images/905621675/905510881.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/905621675/905510881.png) |
+| --- |
 
-1 - Se f<sub>r</sub> ≥ 2 m, a altura da água no convés (h<sub>w</sub>) = 0,0 m.
+1 - Se fr ≥ 2 m, a altura da água no convés (hw) = 0,0 m.
 
-2 - Se f<sub>r</sub> ≤ 0,3 m, a altura da água no convés (h<sub>w</sub>) = 0,5 m.
+2 - Se fr ≤ 0,3 m, a altura da água no convés (hw) = 0,5 m.
 
 Figura 3
 
-![](https://files.diariodarepublica.pt/images/905621675/905510882.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/905621675/905510882.png) |
+| --- |
 
-1 - Se h<sub>s</sub> ≥ 4 m, a altura da água no convés calcula-se como na figura 3.
+1 - Se hs ≥ 4 m, a altura da água no convés calcula-se como na figura 3.
 
-2 - Se h<sub>s</sub> ≤ 1,5 m, a altura da água no convés (h<sub>w</sub>) = 0,0 m. Por exemplo, se f<sub>r</sub> = 1,15 m e h<sub>s</sub> = 2,75 m, a altura h<sub>w</sub> = 0,125 m.
+2 - Se hs ≤ 1,5 m, a altura da água no convés (hw) = 0,0 m. Por exemplo, se fr = 1,15 m e hs = 2,75 m, a altura hw = 0,125 m.
 
 Figura 4
 
-![](https://files.diariodarepublica.pt/images/905621675/905510883.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/905621675/905510883.png) |
+| --- |
 
 Figura 5
 
-![](https://files.diariodarepublica.pt/images/905621675/905510884.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/905621675/905510884.png) |
+| --- |
 
 Figura 6
 
-![](https://files.diariodarepublica.pt/images/905621675/905510885.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/905621675/905510885.png) |
+| --- |
 
 Navio sem pavimentos suspensos para veículos. Exemplo 1:
 
@@ -797,25 +870,30 @@ Altura mínima exigida para a barreira = 2,2 m.
 
 Navio com um pavimento suspenso (no prolongamento da barreira). Exemplo 2:
 
-Altura da água no convés (h<sub>w</sub>) = 0,25 m;
+Altura da água no convés (hw) = 0,25 m;
 
 Altura mínima exigida para a barreia = x.
 
 Figura 7
 
-![](https://files.diariodarepublica.pt/images/905621675/905510886.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/905621675/905510886.png) |
+| --- |
 
 Bordo livre mínimo exigido até à porta de mar = 1.
 
 Figura 8
 
-![](https://files.diariodarepublica.pt/images/905621675/905510887.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/905621675/905510887.png) |
+| --- |
 
 Figura 9
 
-![](https://files.diariodarepublica.pt/images/905621675/905510888.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/905621675/905510888.png) |
+| --- |
 
-## ANEXO III — (a que se refere o n.º 3 do artigo 6.º)
+ANEXO III
+
+(a que se refere o n.º 3 do artigo 6.º)
 
 Conteúdo da notificação
 
@@ -845,17 +923,17 @@ II - Dados específicos - para os navios ro-ro de passageiros sujeitos às presc
 
 2 - R - índice exigido;
 
-3 - Plano de disposição (plano de estanquidade) para os subcompartimentos com todos os pontos de abertura internos e exteriores, incluindo os subcompartimentos conectados, e as especificações utilizadas na medição dos espaços, tais como o plano de organização geral e o plano relativo ao depósito de combustível; os limites de subdivisão, longitudinais, transversais e verticais, devem ser incluídos (<sup>1</sup>);
+3 - Plano de disposição (plano de estanquidade) para os subcompartimentos com todos os pontos de abertura internos e exteriores, incluindo os subcompartimentos conectados, e as especificações utilizadas na medição dos espaços, tais como o plano de organização geral e o plano relativo ao depósito de combustível; os limites de subdivisão, longitudinais, transversais e verticais, devem ser incluídos (1);
 
-4 - Índice de subdivisão A atingido com um quadro recapitulativo de todas as contribuições para todas as zonas danificadas (<sup>2</sup>), com uma coluna separada com o índice de subdivisão realizável (w*p*v);
+4 - Índice de subdivisão A atingido com um quadro recapitulativo de todas as contribuições para todas as zonas danificadas (2), com uma coluna separada com o índice de subdivisão realizável (w*p*v);
 
 5 - Para os casos de zonas danificadas 1 e 2, a percentagem de casos de avaria que não foram investigados [ou seja, casos não incluídos no fator (w*p*v)], em que s = 0, s = 1 e 0 < s < 1;
 
 6 - Para os casos de zonas danificadas 1 e 2, a percentagem de casos de avaria envolvendo espaços ro-ro que não foram investigados [ou seja, casos não incluídos no fator (w*p*v)], em que s = 0, s = 1 e 0 < s < 1;
 
-7 - Para cada dano que contribua para o índice de subdivisão A atingido, identificação dos espaços alagados, valor de contribuição e fator «s» (<sup>3</sup>);
+7 - Para cada dano que contribua para o índice de subdivisão A atingido, identificação dos espaços alagados, valor de contribuição e fator «s» (3);
 
-8 - Especificidades dos danos não contributivos (s = 0 e p > 0) para os navios ro-ro de passageiros equipados com porões longos e inferiores, incluindo pormenores completos dos fatores calculados (<sup>4</sup>).
+8 - Especificidades dos danos não contributivos (s = 0 e p > 0) para os navios ro-ro de passageiros equipados com porões longos e inferiores, incluindo pormenores completos dos fatores calculados (4).
 
 III - Dados específicos - para os navios ro-ro de passageiros a que se aplica a parte II do anexo I:
 
@@ -863,12 +941,16 @@ III - Dados específicos - para os navios ro-ro de passageiros a que se aplica a
 
 2 - Altura significativa da onda nos termos do Decreto-Lei n.º 204/2005, de 25 de novembro, na sua redação atual.
 
-(<sup>1</sup>) Esta documentação deve ser apresentada à DGRM em conformidade com o ponto 2.2 do apêndice da Resolução MSC.429(98) da OMI.
+(1) Esta documentação deve ser apresentada à DGRM em conformidade com o ponto 2.2 do apêndice da Resolução MSC.429(98) da OMI.
 
-(<sup>2</sup>) Esta documentação deve ser apresentada à DGRM em conformidade com o ponto 2.3.1 do apêndice da Resolução MSC.429(98) da OMI.
+(2) Esta documentação deve ser apresentada à DGRM em conformidade com o ponto 2.3.1 do apêndice da Resolução MSC.429(98) da OMI.
 
-(<sup>3</sup>) Esta documentação deve ser apresentada às administrações à DGRM em conformidade com o ponto 2.3.1 do apêndice da Resolução MSC.429(98) da OMI.
+(3) Esta documentação deve ser apresentada às administrações à DGRM em conformidade com o ponto 2.3.1 do apêndice da Resolução MSC.429(98) da OMI.
 
-(<sup>4</sup>) Esta documentação deve ser apresentada à DGRM em conformidade com o ponto 2.3.1 do apêndice da Resolução MSC.429(98) da OMI.»
+(4) Esta documentação deve ser apresentada à DGRM em conformidade com o ponto 2.3.1 do apêndice da Resolução MSC.429(98) da OMI.»
 
 Secretaria-Geral do Governo, 29 de janeiro de 2025. - A Secretária-Geral Adjunta, Fátima Costa Ferreira.
+
+118629178
+
+.Tbl1 { border<arel='nofollownoopenernoreferrer'target='_blank'href='/dr/detalhe/decreto-lei/100-2024-898867716'title='Decreto-Lein.º100/2024'>Decreto-Lein.º100/2024</a>der-width:1px; } .Tbl2 { height:26<arel='nofollownoopenernoreferrer'target='_blank'href='/dr/detalhe/decreto-lei/204-2005-481723'title='Decreto-Lein.º204/2005'>Decreto-Lein.º204/2005</a>bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border<arel='nofollownoopenernoreferrer'target='_blank'href='https://data.europa.eu/eli/dir/2003/25/oj?locale=pt'title='LinkparaDiretivadaUniãoEuropeia'>Diretiva2003/25/CE</a>border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl3 { text-align:center; } .Tbl4 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl5 { min-height:18px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl8 { border-collapse:collapse; border-width:1px; } .Tbl9 { height:26px; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; }

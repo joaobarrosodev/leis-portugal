@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/89/2026/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/89-2026-1057506186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-23T00:00:00Z'
+  retrieved_at: '2026-10-22T18:33:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16851c1bb290f77d8144161c4e3d67db0049ef1f879b657ba50ae1defbeee507
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f63974df77f29d6a75d94da2c27410e4b9b371b2469a61cd7cd8f0ea5c9e1a31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:33:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regulamentação de Atos Legislativos
-- Petróleo
-- Produto Petrolífero
-- Segurança Pública
 - Combustível
+- Equipamento sob Pressão
 - Licenciamento
 - Normas de Construção
 - Normas de Segurança
+- Petróleo
+- Produto Petrolífero
 - Proteção do Ambiente
+- Regulamentação de Atos Legislativos
 - Regulamento
-- Equipamento sob Pressão
 - Segurança dos Edifícios
+- Segurança Pública
 relationships:
+- type: amends
+  target: pt:numero:portaria:451/2001
+  label: Altera, a partir de 24 de fevereiro de 2026, os artigos 2.º, 4.º, 12.º, 14.º e 18.º e o quadro i do Regulamento de
+    Segurança Relativo à Construção, Exploração e Manutenção dos Parques de Garrafas de Gases de Petróleo Liquefeitos (GPL),
+    aprovado em anexo à Portaria n.º 451/2001, de 5 de maio, Diário da República n.º 104/2001, Série I-B
+  source: null
+  date: '2001-05-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/124/1997/05/23/p/dre
   label: null
@@ -95,16 +102,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/451/2001/05/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/451/2001/05/05/p/dre
+- type: cites
+  target: pt:dre:300828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928479766:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:33:03Z'
   warnings: []
   errors: []
 ---
@@ -149,7 +176,7 @@ f) Efetivo, o número máximo estimado de pessoas que pode ocupar em simultâneo
 
 g) Fogo nu, o objeto ou aparelho que possa ser sede de chamas, faíscas ou fagulhas, pontos quentes ou outras fontes suscetíveis de provocar a inflamação de misturas de ar com vapores provenientes de combustíveis;
 
-h) Garrafa, o recipiente sob pressão com a capacidade até 150 dm<sup>3</sup>, adequado para fins de armazenagem, transporte ou consumo de gases da 3.ª família;
+h) Garrafa, o recipiente sob pressão com a capacidade até 150 dm3, adequado para fins de armazenagem, transporte ou consumo de gases da 3.ª família;
 
 i) Gases de petróleo liquefeitos (GPL), o butano e o propano comerciais, classificados como misturas A, AO e C, de acordo com a regulamentação do transporte terrestre, rodoviário e ferroviário de mercadorias perigosas aprovado pelo [Decreto-Lei n.º 41-A/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-a-2010-300828), de 29 de abril, na sua redação atual;
 
@@ -167,15 +194,19 @@ o) Vias públicas, vias de circulação rodoviária e outras vias, urbanas ou ru
 
 p) Utilizações-tipo de edifícios e recintos, as utilizações definidas no artigo 8.º do regime jurídico da segurança contra incêndio em edifícios (SCIE).
 
-###### Artigo 4.º — Parques tipo A
+Artigo 4.º
 
-O parque tipo A caracteriza-se por estar localizado em recinto descoberto e, exceto se for de capacidade igual ou inferior a 1,560 m<sup>3</sup>, ser delimitado por uma rede metálica de malha igual ou inferior a 50 mm, com um diâmetro mínimo do arame de 2 mm, soldada a postes tubulares ou fixada a pilares de betão ou por um muro construído com materiais incombustíveis, com um mínimo de 2 m de altura.
+Parques tipo A
 
-###### Artigo 12.º — Vedações dos parques
+O parque tipo A caracteriza-se por estar localizado em recinto descoberto e, exceto se for de capacidade igual ou inferior a 1,560 m3, ser delimitado por uma rede metálica de malha igual ou inferior a 50 mm, com um diâmetro mínimo do arame de 2 mm, soldada a postes tubulares ou fixada a pilares de betão ou por um muro construído com materiais incombustíveis, com um mínimo de 2 m de altura.
+
+Artigo 12.º
+
+Vedações dos parques
 
 1 - [...]
 
-2 - Excluem-se do número anterior os parques com uma capacidade igual ou inferior a 1,560 m<sup>3</sup>.
+2 - Excluem-se do número anterior os parques com uma capacidade igual ou inferior a 1,560 m3.
 
 3 - [...]
 
@@ -187,19 +218,23 @@ O parque tipo A caracteriza-se por estar localizado em recinto descoberto e, exc
 
 7 - [...]
 
-###### Artigo 14.º — Distâncias de segurança
+Artigo 14.º
+
+Distâncias de segurança
 
 1 - [...]
 
 2 - [...]
 
-3 - No caso de parques com uma capacidade igual ou inferior a 1,560 m<sup>3</sup>, não vedados, as distâncias de segurança do quadro i devem ser medidas, no plano horizontal, em relação à geratriz exterior das garrafas.
+3 - No caso de parques com uma capacidade igual ou inferior a 1,560 m3, não vedados, as distâncias de segurança do quadro i devem ser medidas, no plano horizontal, em relação à geratriz exterior das garrafas.
 
 4 - [...]
 
 5 - [...]
 
-###### Artigo 18.º — Garrafas em postos de abastecimento
+Artigo 18.º
+
+Garrafas em postos de abastecimento
 
 1 - Não é permitida a existência de garrafas nas áreas afetas a unidades de abastecimento e respetivos acessos, bem como na vizinhança dos respiradores dos reservatórios.
 
@@ -207,11 +242,11 @@ O parque tipo A caracteriza-se por estar localizado em recinto descoberto e, exc
 
 a) A capacidade de armazenagem deve ser efetuada em grupos de garrafas de GPL contidas em grades ou contentores nas seguintes condições:
 
-i) Um grupo de garrafas de GPL cuja capacidade total seja igual ou inferior a 1,040 m<sup>3</sup>;
+i) Um grupo de garrafas de GPL cuja capacidade total seja igual ou inferior a 1,040 m3;
 
-ii) Dois ou três grupos de garrafas de GPL, separados por uma distância igual ou superior a 7,5 m e cuja capacidade de cada grupo seja igual ou inferior a 0,520 m<sup>3</sup>;
+ii) Dois ou três grupos de garrafas de GPL, separados por uma distância igual ou superior a 7,5 m e cuja capacidade de cada grupo seja igual ou inferior a 0,520 m3;
 
-b) A capacidade total dos recipientes de GPL não ultrapasse 1,560 m<sup>3</sup>;
+b) A capacidade total dos recipientes de GPL não ultrapasse 1,560 m3;
 
 c) Todas as garrafas de GPL estejam contidas em grades ou contentores, com o máximo de 2 garrafas em altura;
 
@@ -243,7 +278,7 @@ h) Exista no local uma placa de sinalização com o sinal de ‘Proibido fumar o
 
 3 - Não é permitida a paragem ou o estacionamento de viaturas de transporte de garrafas nas áreas afetas aos postos de abastecimento de combustíveis, exceto durante as operações de reposição de garrafas.
 
-4 - Quando a capacidade total de garrafas de GPL exceder 1,560 m<sup>3</sup>, considera-se tal instalação como um parque de garrafas de GPL, sujeito ao cumprimento de todas as disposições do presente Regulamento.
+4 - Quando a capacidade total de garrafas de GPL exceder 1,560 m3, considera-se tal instalação como um parque de garrafas de GPL, sujeito ao cumprimento de todas as disposições do presente Regulamento.
 
 QUADRO I
 
@@ -251,12 +286,12 @@ Distâncias de segurança a edifícios e a linhas elétricas nuas
 
 (a que se refere o artigo 14.º)
 
-| V - Capacidade total das garrafas de GPL (m<sup>3</sup>) | Distâncias (m) | Distâncias (m) | Distâncias (m) | Distâncias (m) | Distâncias (m) |
+| V - Capacidade total das garrafas de GPL (m3) | Distâncias (m) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| V - Capacidade total das garrafas de GPL (m<sup>3</sup>) | A | B | C | D | E |
+| A | B | C | D | E |  |
 | V ≤ 1,560 | 0 | 10,0 | 4,0 | 6,0 | 8,0 |
-| 1,560 < V ≤12 | 5,0 | 10,0 | 4,0 | 6,0 | 8,0 |
-| 12 < V ≤ 40 | 7,5 | 15,0 | 6,0 | 7,0 | 8,0 |
+| 1,560 < V ≤12 | 5,0 |  |  |  |  |
+| 12 < V ≤ 40 | 7,5 | 15,0 | 6,0 | 7,0 |  |
 | 40 < V ≤ 100 | 10,0 | 25,0 | 8,0 | 9,0 | 10,0 |
 | V > 100 | 15,0 | 75,0 | 10,0 | 11,0 | 15,0 |
 
@@ -274,4 +309,8 @@ E - Linhas elétricas de tensão superior a 30 kV.»
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado Adjunto e da Energia, Jean Paulo Gil Barroca, em 13 de fevereiro de 2026.**
+O Secretário de Estado Adjunto e da Energia, Jean Paulo Gil Barroca, em 13 de fevereiro de 2026.
+
+119947718
+
+.Tbl2 { height:20px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { height:17px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:middle; } .Tbl9 { min-height:18px; }

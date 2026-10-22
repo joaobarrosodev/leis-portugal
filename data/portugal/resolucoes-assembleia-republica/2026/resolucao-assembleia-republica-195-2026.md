@@ -47,36 +47,43 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/195/2026/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/195-2026-1147043700
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-14T00:00:00Z'
+  retrieved_at: '2026-10-22T18:46:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6b0bb1989f30ee53f86b55d798d07e6d6459e26ade21d05bea8ef432439247e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5f5060c3a1652d8bf09f0a36ff049322a6d28a7e29393a763d246e9d38ddde1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:46:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cartão de Identificação
+- Convenção
+- Genebra
+- OIT
+- Pessoal do MAR
+- Portugal
+- Tripulação
 relationships: []
 article_structure:
   article_count: 18
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:46:37Z'
   warnings: []
   errors: []
 ---
@@ -89,15 +96,15 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 3 de junho de 2026.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar-Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar-Branco.
 
 Convention 185
 
 CONVENTION RÉVISANT LA CONVENTION SUR LÊS PIÈCES D’IDENTITÉ DÊS GENS DE MER (révisée), 2003, telle qu’amendée
 
-Adoptée par Ia Conférence internationale du Travail en sa 91<sup>e</sup> session, 2003
+Adoptée par Ia Conférence internationale du Travail en sa 91e session, 2003
 
-Amendée par la Conférence internationale du Travail en sa 105<sup>e</sup> session, 2016
+Amendée par la Conférence internationale du Travail en sa 105e session, 2016
 
 La Conférence générale de l’Organisation internationale du Travail,
 
@@ -385,21 +392,21 @@ c) l’objet de sécurité du document qui est nécessaire pour valider l’int�
 
 5 - La PIM est protégée des altérations, des substitutions de photographie ou de toute autre manipulation frauduleuse par le respect des exigences de la partie 2 du document 9303 concernant les spécifications pour la sécurité de la conception, de la fabrication et de la délivrance des documents de voyage lisibles à la machine. Elle est protégée par au moins trois des éléments de sécurité physique figurant sur la liste de l’annexe A de la partie 2 du document 9303. Des exemples de tels éléments de sécurité physique sont:
 
-- éléments optiquement variables<sup>1</sup> dans le support ou le laminat de la pièce d’identité;
+- éléments optiquement variables1 dans le support ou le laminat de la pièce d’identité;
 
-- éléments tactiles<sup>2</sup> dans le support de la pièce d’identité;
+- éléments tactiles2 dans le support de la pièce d’identité;
 
-- éléments de perforation laser<sup>3</sup> dans le support;
+- éléments de perforation laser3 dans le support;
 
-- motif de guillochis en deux tons<sup>4</sup> à l’arrière-plan de la pièce d’identité;
+- motif de guillochis en deux tons4 à l’arrière-plan de la pièce d’identité;
 
-- texte micro-imprimé<sup>5</sup> à l’arrière-plan du document;
+- texte micro-imprimé5 à l’arrière-plan du document;
 
 - encre fluorescente sous lumière ultraviolette;
 
 - encre à propriétés optiquement variables;
 
-- image stéganographique<sup>6</sup> incorporée à la pièce d’identité.
+- image stéganographique6 incorporée à la pièce d’identité.
 
 6 - Les éléments de données devant figurer dans la pièce d’identité, ainsi que leur emplacement au sein des différentes zones décrites dans le document 9303, sont indiqués ci-après, la PIM ne devant contenir aucune autre information:
 
@@ -447,17 +454,17 @@ b) Etat émetteur selon le code des noms de pays à trois lettres de l’Organis
 
 c) nom de l’autorité de délivrance: dans la zone III, avec dénomination du champ.
 
-<sup>1</sup> Un élément optiquement variable est une image ou un élément dont l’apparence (couleur ou dessin) varie selon l’angle de vision ou d’éclairage.
+1 Un élément optiquement variable est une image ou un élément dont l’apparence (couleur ou dessin) varie selon l’angle de vision ou d’éclairage.
 
-<sup>2</sup> Un élément tactile est un élément de la surface donnant au document un «toucher» particulier.
+2 Un élément tactile est un élément de la surface donnant au document un «toucher» particulier.
 
-<sup>3</sup> La perforation laser est un procédé utilisant le laser pour créer des chiffres, du texte ou des images par perforation du support.
+3 La perforation laser est un procédé utilisant le laser pour créer des chiffres, du texte ou des images par perforation du support.
 
-<sup>4</sup> Un guillochis est un motif en traits tins continus, habituellement généré par ordinateur et formant une image unique qu’il n’est possible de reproduire exactement qu’en accédant au matériel, au logiciel et aux paramétres utilisés pour créer le dessin d’origine.
+4 Un guillochis est un motif en traits tins continus, habituellement généré par ordinateur et formant une image unique qu’il n’est possible de reproduire exactement qu’en accédant au matériel, au logiciel et aux paramétres utilisés pour créer le dessin d’origine.
 
-<sup>5</sup> Une micro-impression se compose de texte ou de symboles imprimés d’une taille inférieure à 0,25mni/(),7 point pica.
+5 Une micro-impression se compose de texte ou de symboles imprimés d’une taille inférieure à 0,25mni/(),7 point pica.
 
-<sup>6</sup> La stéganographie est l’utilisation d’une image ou d’une information encodée ou cachée au sein d’une image visuelle primaire.
+6 La stéganographie est l’utilisation d’une image ou d’une information encodée ou cachée au sein d’une image visuelle primaire.
 
 ANNEXE II
 
@@ -1001,7 +1008,7 @@ e) Do controlo da qualidade dos procedimentos e das avaliações periódicas.
 
 1 - Os marítimos titulares de um documento de identificação válido emitido em conformidade com as disposições da presente Convenção por um Membro para o qual a Convenção esteja em vigor serão reconhecidos como marítimos na aceção da Convenção, a menos que haja motivos evidentes para duvidar da autenticidade do documento de identificação.
 
-2 - A verificação e todas as averiguações e formalidades conexas necessárias para assegurar que o marítimo cuja entrada é solicitada nos termos dos n.<sup>os</sup>3 a 6 ou dos n.<sup>os</sup>7 a 9 supramencionados é titular de um documento de identificação de marítimo emitido em conformidade com os requisitos da presente Convenção não deve acarretar qualquer custo para o marítimo ou o armador.
+2 - A verificação e todas as averiguações e formalidades conexas necessárias para assegurar que o marítimo cuja entrada é solicitada nos termos dos n.os3 a 6 ou dos n.os7 a 9 supramencionados é titular de um documento de identificação de marítimo emitido em conformidade com os requisitos da presente Convenção não deve acarretar qualquer custo para o marítimo ou o armador.
 
 Autorização para ir a terra
 
@@ -1113,21 +1120,21 @@ c) O objeto de segurança do documento que é necessário para validar a integri
 
 5 - O DIM está protegido contra alterações, substituições fotográficas ou outras manipulações fraudulentas, cumprindo os requisitos da parte 2 do documento n.º 9303 relativa às especificações de segurança da conceção, fabrico e emissão de documentos de viagem de leitura ótica. Deve ser protegido por, pelo menos, três dos dispositivos de segurança física enumerados no anexo A da parte 2 do documento n.º 9303. Exemplos destes dispositivos de segurança física são:
 
-- Elementos oticamente variáveis<sup>1</sup> no substrato ou laminado do DIM;
+- Elementos oticamente variáveis1 no substrato ou laminado do DIM;
 
-- Elementos tácteis<sup>2</sup> no suporte de identificação;
+- Elementos tácteis2 no suporte de identificação;
 
-- Elementos de perfuração a laser<sup>3</sup> no substrato;
+- Elementos de perfuração a laser3 no substrato;
 
-- Padrão guilhoché bicolor<sup>4</sup> no fundo da identificação;
+- Padrão guilhoché bicolor4 no fundo da identificação;
 
-- Texto micro impresso<sup>5</sup> no fundo do documento;
+- Texto micro impresso5 no fundo do documento;
 
 - Tinta fluorescente sob luz ultravioleta;
 
 - Tinta com propriedades oticamente variáveis;
 
-- Imagem esteganográfica<sup>6</sup> incorporada no documento de identidade.
+- Imagem esteganográfica6 incorporada no documento de identidade.
 
 6 - Os elementos de dados a incluir no documento de identificação do marítimo, e a sua localização nos vários campos descritos no documento n.º 9303, são indicados a seguir, o DIM não deve conter quaisquer outras informações:
 
@@ -1175,21 +1182,21 @@ b) Estado emissor de acordo com o código de três letras do nome do país da Or
 
 c) Nome da autoridade emissora: na zona iii, com legenda do campo.
 
-<sup>1</sup> Um elemento oticamente variável é uma imagem ou elemento que varia de aspeto (cor ou padrão) consoante o ângulo de visão ou a iluminação.
+1 Um elemento oticamente variável é uma imagem ou elemento que varia de aspeto (cor ou padrão) consoante o ângulo de visão ou a iluminação.
 
-<sup>2</sup> Um elemento tátil é um elemento da superfície que confere ao documento uma «sensação» particular.
+2 Um elemento tátil é um elemento da superfície que confere ao documento uma «sensação» particular.
 
-<sup>3</sup> A perfuração a laser é um processo que utiliza lasers para criar números, texto ou imagens através da perfuração do suporte.
+3 A perfuração a laser é um processo que utiliza lasers para criar números, texto ou imagens através da perfuração do suporte.
 
-<sup>4</sup> Um padrão de guilhoché é um padrão contínuo de linhas finas, normalmente gerado por computador e que forma uma imagem única que só pode ser reproduzida com exatidão acedendo ao hardware, software e definições utilizados para criar o desenho original.
+4 Um padrão de guilhoché é um padrão contínuo de linhas finas, normalmente gerado por computador e que forma uma imagem única que só pode ser reproduzida com exatidão acedendo ao hardware, software e definições utilizados para criar o desenho original.
 
-<sup>5</sup> A microimpressão consiste na impressão de texto ou símbolos mais pequenos do que 0,25 mm/0,7 pica points.
+5 A microimpressão consiste na impressão de texto ou símbolos mais pequenos do que 0,25 mm/0,7 pica points.
 
-<sup>6</sup> A esteganografia é a utilização de uma imagem ou informação codificada ou escondida numa imagem visual primária.
+6 A esteganografia é a utilização de uma imagem ou informação codificada ou escondida numa imagem visual primária.
 
 ## ANEXO II — Base de dados eletrónica
 
-As informações a fornecer para cada registo na base de dados eletrónica a manter atualizada por cada Membro, em conformidade com os n.<sup>os</sup>1, 2, 6 e 7 do artigo 4.º da presente Convenção, devem limitar-se aos seguintes elementos:
+As informações a fornecer para cada registo na base de dados eletrónica a manter atualizada por cada Membro, em conformidade com os n.os1, 2, 6 e 7 do artigo 4.º da presente Convenção, devem limitar-se aos seguintes elementos:
 
 #### SECÇÃO 1
 
@@ -1219,7 +1226,7 @@ A Parte B recomenda os procedimentos e práticas para alcançar estes resultados
 
 Não obstante o acima exposto, cada Membro deve cumprir todos os requisitos obrigatórios relevantes do documento n.º 9303 da Organização da Aviação Civil Internacional (OACI). Por «documento n.º 9303» entende-se o texto publicado pela OACI na sua sétima edição (2015), e que poderá ser posteriormente alterado em conformidade com os procedimentos da OACI nesta matéria. Os Membros também devem ter plenamente em conta as recomendações ou orientações pertinentes contidas no documento n.º 9303, nomeadamente na parte 2 do mesmo e nos seus anexos.
 
-# Parte A - Resultados obrigatórios
+Parte A - Resultados obrigatórios
 
 1 - Produção e entrega de DIM em branco.
 
@@ -1313,7 +1320,7 @@ b) São efetuados controlos periódicos para verificar a fiabilidade do sistema 
 
 c) São criados procedimentos para proteger a confidencialidade dos dados contidos nos relatórios periódicos de avaliação enviados por outros Membros que ratificaram a presente Convenção.
 
-# Parte B - Procedimentos e práticas recomendados
+Parte B - Procedimentos e práticas recomendados
 
 1 - Produção e entrega dos DIM em branco.
 
@@ -1483,7 +1490,7 @@ b) O auditor referido na secção 5 infra e as pessoas designadas para efetuar u
 
 4.1 - A autoridade que emite os DIM deve adotar as medidas e regras adequadas necessárias para aplicar o artigo 4.º da presente Convenção e, em especial, assegurar:
 
-4.1.1 - A disponibilidade de um centro permanente ou de um acesso eletrónico 24 horas por dia, 7 dias por semana, em conformidade com os n.<sup>os</sup>4, 5 e 6 do artigo 4.º da presente Convenção;
+4.1.1 - A disponibilidade de um centro permanente ou de um acesso eletrónico 24 horas por dia, 7 dias por semana, em conformidade com os n.os4, 5 e 6 do artigo 4.º da presente Convenção;
 
 4.1.2 - A segurança da base de dados;
 
@@ -1533,7 +1540,7 @@ b) O auditor referido na secção 5 infra e as pessoas designadas para efetuar u
 
 5.5.8 - Investigar todos os relatórios fiáveis sobre a emissão ilegal, a falsificação ou a aquisição fraudulenta de DIM, a fim de identificar eventuais negligências internas ou deficiências dos sistemas que possam ter conduzido ou facilitado a emissão ilegal, a falsificação ou a fraude;
 
-5.5.9 - Investigar as queixas relativas a um acesso inadequado à informação contida na base de dados, tendo em conta as exigências dos n.<sup>os</sup>2, 3 e 5 do artigo 4.º da Convenção, ou erros nessas indicações;
+5.5.9 - Investigar as queixas relativas a um acesso inadequado à informação contida na base de dados, tendo em conta as exigências dos n.os2, 3 e 5 do artigo 4.º da Convenção, ou erros nessas indicações;
 
 5.5.10 - Assegurar que o diretor da autoridade emissora toma medidas rápidas e eficazes para introduzir melhorias nos procedimentos de emissão e em pontos deficientes;
 
@@ -1562,3 +1569,5 @@ b) O auditor referido na secção 5 infra e as pessoas designadas para efetuar u
 5.7 - Os processos e os procedimentos devem ser implementados para impedir qualquer divulgação não autorizada de relatórios apresentados por outros Membros.
 
 5.8 - Todos os processos e procedimentos de controlo devem garantir que as técnicas de fabrico e as práticas de segurança, incluindo os procedimentos de inventário, são suficientes para cumprir os requisitos do presente anexo.
+
+119948884

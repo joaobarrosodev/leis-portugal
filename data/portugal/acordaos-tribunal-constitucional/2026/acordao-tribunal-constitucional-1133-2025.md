@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/1133/2026/01/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/1133-2025-993782284
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-05T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1b3499ff62b1ef54b5317220bf63d4abf85e966e862dfda57126ec8a3be7e2d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d39a7eb2d38cbd80475d2ea869a13205258f9f7f2eb8e98740d5e7e1d0aba7a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Nacionalidade
-- Inconstitucionalidade
 - Assembleia da República
+- Inconstitucionalidade
+- Nacionalidade
 - Processo Legislativo
 relationships:
 - type: cites
@@ -122,16 +122,356 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/19/2000/03/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/19/2000/03/06/p/dre
+- type: cites
+  target: pt:dre:105756106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106667240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108041476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1114610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115226940:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115643970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116407649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:121942396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1411040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144272939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150661864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155084436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168184700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1871231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1936228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2014296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2040738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213881448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217571941:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218490:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2261401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2280685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2293181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25699637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25708903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2643550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2846379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2986994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3032087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3372857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3575632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56396779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67412650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67552497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70686135:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:71020778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74672380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:854130977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:856836263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:858592067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:871466268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:909476478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:919970656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:924672535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:933008872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:973308634:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:50Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +484,7 @@ Acordam, em Plenário, no Tribunal Constitucional,
 
 I - Relatório
 
-1 - Um grupo de 50 (cinquenta) Deputados à Assembleia da República veio, ao abrigo do disposto no artigo 278.º, n.<sup>os</sup>4 e 6, da Constituição da República Portuguesa (doravante, CRP) e dos artigos 51.º, n.º 1, e 57.º, n.º 1, da [Lei n.º 28/82](https://diariodarepublica.pt/dr/detalhe/lei/28-1982-377508), de 15 de novembro (Lei da Organização, Funcionamento e Processo do Tribunal Constitucional - LTC), requerer ao Tribunal Constitucional a fiscalização preventiva da constitucionalidade das normas identificadas infra, constantes do Decreto da Assembleia da República n.º 17/XVII - Alteração à [Lei n.º 37/81](https://diariodarepublica.pt/dr/detalhe/lei/37-1981-564050), de 3 de outubro, que aprova a Lei da Nacionalidade (doravante, [Lei n.º 37/81](https://diariodarepublica.pt/dr/detalhe/lei/37-1981-564050) ou LdN) - que foi enviado para a Presidência da República no dia 11 de novembro de 2025 para ser promulgado como lei orgânica.
+1 - Um grupo de 50 (cinquenta) Deputados à Assembleia da República veio, ao abrigo do disposto no artigo 278.º, n.os4 e 6, da Constituição da República Portuguesa (doravante, CRP) e dos artigos 51.º, n.º 1, e 57.º, n.º 1, da [Lei n.º 28/82](https://diariodarepublica.pt/dr/detalhe/lei/28-1982-377508), de 15 de novembro (Lei da Organização, Funcionamento e Processo do Tribunal Constitucional - LTC), requerer ao Tribunal Constitucional a fiscalização preventiva da constitucionalidade das normas identificadas infra, constantes do Decreto da Assembleia da República n.º 17/XVII - Alteração à [Lei n.º 37/81](https://diariodarepublica.pt/dr/detalhe/lei/37-1981-564050), de 3 de outubro, que aprova a Lei da Nacionalidade (doravante, [Lei n.º 37/81](https://diariodarepublica.pt/dr/detalhe/lei/37-1981-564050) ou LdN) - que foi enviado para a Presidência da República no dia 11 de novembro de 2025 para ser promulgado como lei orgânica.
 
 1.1 - Esse requerimento termina pela seguinte forma:
 
@@ -162,9 +502,9 @@ Em conclusão, requer-se a fiscalização preventiva do Decreto da Assembleia da
 
 • Violação do princípio da proteção da confiança e do princípio da igualdade e da proibição do caráter retroativo das leis restritivas de direitos, liberdades e garantas, plasmado no n.º 3 do artigo 18.º da Constituição, pela revogação do n.º 4 do artigo 15.º da [Lei n.º 37/81](https://diariodarepublica.pt/dr/detalhe/lei/37-1981-564050), de 3 de outubro, operada pelo artigo 5.º do Decreto;
 
-• Violação do princípio da proteção da confiança e do princípio da proporcionalidade, pela aplicação conjugada das normas dos n.<sup>os</sup>1 e 2 do artigo 7.º do Decreto e pela ausência de regime transitório do Decreto;
+• Violação do princípio da proteção da confiança e do princípio da proporcionalidade, pela aplicação conjugada das normas dos n.os1 e 2 do artigo 7.º do Decreto e pela ausência de regime transitório do Decreto;
 
-• Violação da proibição do caráter retroativo das leis restritivas de direitos, liberdades e garantas, plasmado no n.º 3 do artigo 18.º da Constituição, pela aplicação conjugada dos n.<sup>os</sup>3 e 4 do artigo 7.º do Decreto.
+• Violação da proibição do caráter retroativo das leis restritivas de direitos, liberdades e garantas, plasmado no n.º 3 do artigo 18.º da Constituição, pela aplicação conjugada dos n.os3 e 4 do artigo 7.º do Decreto.
 
 [...]».
 
@@ -272,7 +612,7 @@ Entendeu ainda o Tribunal que “quando da aplicação do requisito negativo em 
 
 9.º
 
-Se é certo que nos autos no Acórdão citado (bem como mais tarde nos Acórdãos n.<sup>os</sup>534/2021, 127/2023 ou 846/2023) se discutia ainda a aplicação da norma que atendia à moldura abstrata e não à condenação concreta do agente (na qual já se atende, entre outros, à ponderação da culpa e da gravidade da conduta), ainda assim subsiste o problema da projeção automática de efeitos dessa pena na possibilidade de aquisição da nacionalidade por naturalização.
+Se é certo que nos autos no Acórdão citado (bem como mais tarde nos Acórdãos n.os534/2021, 127/2023 ou 846/2023) se discutia ainda a aplicação da norma que atendia à moldura abstrata e não à condenação concreta do agente (na qual já se atende, entre outros, à ponderação da culpa e da gravidade da conduta), ainda assim subsiste o problema da projeção automática de efeitos dessa pena na possibilidade de aquisição da nacionalidade por naturalização.
 
 Neste quadro, não subsiste qualquer margem de valoração de outros elementos como a suspensão da pena, a efetiva execução da pena aplicada, o tempo que mediou entre a prática do crime e a decisão proferida, a eventual reincidência ou a existência de extinção da pena. Se é certo que a norma da Lei da Nacionalidade evoluiu em 2018 no sentido de se atender à pena concretamente aplicada, não foi o legislador ao ponto de circunscrever o requisito negativo à aplicação de uma pena de prisão efetiva.
 
@@ -290,7 +630,7 @@ A título de exemplo, imagine-se a condenação em pena suspensa de dois anos po
 
 13.º
 
-A título final quanto a esta matéria, cumpre apenas assinar que a matéria foi objeto de idêntica solução pelo Tribunal no passado, nos já referidos Acórdãos n.<sup>os</sup>534/2021 e 846/2023, relativos à constitucionalidade da oposição à aquisição da nacionalidade com fundamento na existência de prévia condenação, prevista no artigo 9.º da Lei da Nacionalidade. Sem prejuízo de outras dúvidas de constitucionalidade suscitadas pela nova redação constante do Decreto da Assembleia da República n.º 17/XVII que serão objeto de tratamento autónomo infra, a conclusão nesta sede sobre a eventual desconformidade constitucional da norma da alínea f) do n.º 1 do artigo 6.º deverá igualmente conduzir ao mesmo resultado quanto à solução em sede de oposição à aquisição. Todavia, uma vez que o requisito negativo de inexistência de condenação deixa de constar expressamente do corpo da norma do artigo 9.º, antes passado a operar o mesmo efeito apenas por via de remissão expressa para a alínea f) do n.º 1 do artigo 6.º agora sob análise, o juízo a que se chegar quanto à conformidade constitucional da nova redação deste preceito projetar-se-á diretamente no regime da oposição à aquisição sem necessidade de pronúncia autónoma com esse fundamento.
+A título final quanto a esta matéria, cumpre apenas assinar que a matéria foi objeto de idêntica solução pelo Tribunal no passado, nos já referidos Acórdãos n.os534/2021 e 846/2023, relativos à constitucionalidade da oposição à aquisição da nacionalidade com fundamento na existência de prévia condenação, prevista no artigo 9.º da Lei da Nacionalidade. Sem prejuízo de outras dúvidas de constitucionalidade suscitadas pela nova redação constante do Decreto da Assembleia da República n.º 17/XVII que serão objeto de tratamento autónomo infra, a conclusão nesta sede sobre a eventual desconformidade constitucional da norma da alínea f) do n.º 1 do artigo 6.º deverá igualmente conduzir ao mesmo resultado quanto à solução em sede de oposição à aquisição. Todavia, uma vez que o requisito negativo de inexistência de condenação deixa de constar expressamente do corpo da norma do artigo 9.º, antes passado a operar o mesmo efeito apenas por via de remissão expressa para a alínea f) do n.º 1 do artigo 6.º agora sob análise, o juízo a que se chegar quanto à conformidade constitucional da nova redação deste preceito projetar-se-á diretamente no regime da oposição à aquisição sem necessidade de pronúncia autónoma com esse fundamento.
 
 Falta de adequação do regime de naturalização aplicável a apátridas
 
@@ -392,7 +732,7 @@ Caso todas estas condições se verifiquem, o percurso decisório quanto ao prin
 
 31.º
 
-O que se afigura problemático no caso vertente é a aparente desconsideração completa do legislador da necessidade de construir nos n.<sup>os</sup>1 e 2 do artigo 7.º do Decreto da Assembleia da República n.º 17/XVII, para uma realidade complexa, assente na construção de relações e factos jurídicos que se projetam no tempo e que lidam com uma realidade fundamental para a vida em sociedade - a aspiração à aquisição de um estatuto pleno de cidadania na comunidade onde se encontra radicados há largos anos e para a qual estabeleceram planos de vida.
+O que se afigura problemático no caso vertente é a aparente desconsideração completa do legislador da necessidade de construir nos n.os1 e 2 do artigo 7.º do Decreto da Assembleia da República n.º 17/XVII, para uma realidade complexa, assente na construção de relações e factos jurídicos que se projetam no tempo e que lidam com uma realidade fundamental para a vida em sociedade - a aspiração à aquisição de um estatuto pleno de cidadania na comunidade onde se encontra radicados há largos anos e para a qual estabeleceram planos de vida.
 
 32.º
 
@@ -458,7 +798,7 @@ II - Fundamentação
 
 A. Conhecimento do pedido
 
-2 - Considerada a legitimidade dos requerentes, a circunstância de o pedido conter todas as indicações a que se refere o artigo 51.º, n.º 1, da LTC e a observância dos prazos aplicáveis (artigo 278.º, n.º 3, da Constituição e artigos 54.º, 56.º, n.º 4, 57.º, n.<sup>os</sup>1 e 2, e 58.º da LTC), nada obsta ao conhecimento das questões de constitucionalidade formuladas nos presentes autos.
+2 - Considerada a legitimidade dos requerentes, a circunstância de o pedido conter todas as indicações a que se refere o artigo 51.º, n.º 1, da LTC e a observância dos prazos aplicáveis (artigo 278.º, n.º 3, da Constituição e artigos 54.º, 56.º, n.º 4, 57.º, n.os1 e 2, e 58.º da LTC), nada obsta ao conhecimento das questões de constitucionalidade formuladas nos presentes autos.
 
 A.1.Questão prévia
 
@@ -498,7 +838,7 @@ Os requerentes defendem que a referida norma viola o disposto no n.º 4 do artig
 
 Conforme consta dos fundamentos de inconstitucionalidade deduzidos no pedido sob apreciação, a violação do princípio da proporcionalidade é invocada tanto em conjugação com a norma do artigo 30.º, n.º 4, da CRP - o que resulta da jurisprudência citada nos artigos 7.º e 8.º do pedido -, como autonomamente (cf. artigo 10.º do pedido). A desconformidade com a «estrita proporcionalidade», nas palavras dos requerentes, incide exclusivamente sobre a sanção cuja aplicação passará a excluir a possibilidade de aquisição da nacionalidade por naturalização - «pena de prisão igual ou superior a 2 anos».
 
-A este propósito, cumpre ainda assinalar que os requerentes reconhecem a repercussão do efeito que um eventual juízo de inconstitucionalidade que recaia sobre esta norma terá, por via das remissões operadas nas normas previstas nos n.<sup>os</sup>1, alínea a), e 2, ambos do artigo 9.º da LdN, sobre as soluções nestas contempladas, deixando dessa forma clara a desnecessidade de uma pronúncia autónoma sobre o conteúdo destas últimas.
+A este propósito, cumpre ainda assinalar que os requerentes reconhecem a repercussão do efeito que um eventual juízo de inconstitucionalidade que recaia sobre esta norma terá, por via das remissões operadas nas normas previstas nos n.os1, alínea a), e 2, ambos do artigo 9.º da LdN, sobre as soluções nestas contempladas, deixando dessa forma clara a desnecessidade de uma pronúncia autónoma sobre o conteúdo destas últimas.
 
 5.2 - A segunda questão de constitucionalidade reporta-se à norma prevista no artigo 6.º, n.º 3, da LdN, na versão introduzida pelo artigo 2.º do Decreto, nos termos da qual «[o] Governo concede a nacionalidade portuguesa aos apátridas que residam legalmente em Portugal há pelo menos quatro anos, que satisfaçam cumulativamente os requisitos previstos nas alíneas c) a h) do n.º 1».
 
@@ -532,7 +872,7 @@ Assim, e apesar de não ter sido expressamente identificada, a norma sobre a qua
 
 Entendem os requerentes que esta norma revogatória atenta contra o princípio da segurança jurídica (artigos 25.º e 27.º do pedido), extraído do artigo 2.º da CRP, contra o princípio da proteção da confiança (artigo 27.º e quinto ponto do artigo 38.º, ambos do pedido), também extraído do artigo 2.º da CRP, contra o princípio da igualdade, previsto no artigo 13.º da CRP (artigo 27.º do pedido), bem como contra a proibição da aplicação retroativa da lei restritiva de direitos liberdades e garantias, prevista no artigo 18.º, n.º 3, da CRP (artigo 28.º do pedido).
 
-5.6 - A sexta questão de constitucionalidade reporta-se à alegada ausência, no âmbito do programa normativo relativo à aplicação da lei no tempo previsto no artigo 7.º, n.<sup>os</sup>1 e 2, do Decreto n.º 17/XVII, de um regime jurídico transitório mínimo (delimitação do arco normativo feita nos artigos 33.º e 38.º, penúltimo ponto, ambos do pedido).
+5.6 - A sexta questão de constitucionalidade reporta-se à alegada ausência, no âmbito do programa normativo relativo à aplicação da lei no tempo previsto no artigo 7.º, n.os1 e 2, do Decreto n.º 17/XVII, de um regime jurídico transitório mínimo (delimitação do arco normativo feita nos artigos 33.º e 38.º, penúltimo ponto, ambos do pedido).
 
 Entendem os requerentes que falta um «regime jurídico transitório» e que tal colide com o princípio da proteção da confiança, extraído do artigo 2.º da CRP, em conjugação com o princípio da proporcionalidade previsto no artigo 18.º, n.º 2, da CRP (artigos 29.º, 32.º e 38.º, penúltimo ponto, todos do pedido).
 
@@ -540,7 +880,7 @@ Os requerentes começam, assim, por invocar, nos artigos 29.º a 35.º do pedido
 
 Numa formulação alternativa, com sentido e alcance idênticos, afirmam que «[...] a aparente desconsideração completa do legislador da necessidade de construir nos n.os 1 e 2 do artigo 7.º do Decreto da Assembleia da República n.º 17/XVII, para uma realidade complexa, assente na construção de relações e factos jurídicos que se projetam no tempo e que lidam com uma realidade fundamental para a vida em sociedade» (cf. artigo 31.º do pedido). No artigo 33.º do pedido, os requerentes reportam-se à «[...] omissão de um qualquer regime transitório mínimo [...]» e acrescentam à invocada violação do princípio da proteção da confiança a alegação de que a esta solução normativa «conduz a um resultado desproporcional», fazendo apelo à violação do princípio da proporcionalidade previsto no artigo 18.º, n.º 2, da CRP.
 
-Neste pressuposto, cumpre notar que este objeto normativo, delimitado em torno dos n.<sup>os</sup>1 e 2 do artigo 7.º do Decreto 17/XVII, tem especificidades que afetam o modo como o Tribunal fará a sua apreciação dos vícios de inconstitucionalidade apontados no pedido.
+Neste pressuposto, cumpre notar que este objeto normativo, delimitado em torno dos n.os1 e 2 do artigo 7.º do Decreto 17/XVII, tem especificidades que afetam o modo como o Tribunal fará a sua apreciação dos vícios de inconstitucionalidade apontados no pedido.
 
 Desde logo, e diferentemente do que acontece na generalidade das questões de inconstitucionalidade material, em que a pronúncia deste Tribunal recai sobre normas de conduta, ou mesmo normas de competência, o problema de constitucionalidade que ora se enfrenta incide sobre um tipo particular de normas, mais concretamente, normas sobre normas ou normas de segundo grau.
 
@@ -554,13 +894,13 @@ Concretamente, determina-se a não produção de efeitos das normas de primeiro 
 
 Posto isto, cumpre notar que a invocada «ausência de regime transitório mínimo» constitui o fundamento do vício de inconstitucionalidade apontado, mas não o objeto do presente juízo de constitucionalidade.
 
-E isto porque, como se disse, a solução cuja constitucionalidade se pretende questionar é a que deriva das normas dos n.<sup>os</sup>1 e 2 do artigo 7.º, na medida em que preveem (apenas) como causa de exceção à aplicação imediata das normas aprovadas ao abrigo da LN, os factos jurídicos respeitantes aos procedimentos administrativos pendentes à data da entrada em vigor da LN.
+E isto porque, como se disse, a solução cuja constitucionalidade se pretende questionar é a que deriva das normas dos n.os1 e 2 do artigo 7.º, na medida em que preveem (apenas) como causa de exceção à aplicação imediata das normas aprovadas ao abrigo da LN, os factos jurídicos respeitantes aos procedimentos administrativos pendentes à data da entrada em vigor da LN.
 
 É evidente que a delimitação da referida causa de exceção à produção de efeitos das normas alteradas por referência aos processos pendentes à data da entrada em vigor da LN implica logicamente a constatação da inexistência de outras causas de exceção.
 
 Simplesmente, o vício que dessa inexistência pretenda extrair-se no plano constitucional há de poder ser imputado aos efeitos positivos dessa inexistência, o mesmo é dizer, à aplicação imediata do regime que não é excecionado.
 
-Pelo exposto, as normas objeto de fiscalização apenas poderão ser as normas contidas nos n.<sup>os</sup>1 e 2 do artigo 7.º do Decreto, no segmento em que somente excecionam da produção de efeitos das alterações introduzidas pelo Decreto a partir da data da respetiva entrada em vigor os procedimentos administrativos que estejam pendentes nessa data, opção que os requerentes consideram violar o princípio da proteção da confiança (artigo 2.º da CRP), conjugado com o princípio da proporcionalidade (artigo 18.º, n.º 2, da CRP).
+Pelo exposto, as normas objeto de fiscalização apenas poderão ser as normas contidas nos n.os1 e 2 do artigo 7.º do Decreto, no segmento em que somente excecionam da produção de efeitos das alterações introduzidas pelo Decreto a partir da data da respetiva entrada em vigor os procedimentos administrativos que estejam pendentes nessa data, opção que os requerentes consideram violar o princípio da proteção da confiança (artigo 2.º da CRP), conjugado com o princípio da proporcionalidade (artigo 18.º, n.º 2, da CRP).
 
 5.7 - A sétima e última questão de constitucionalidade reporta-se à norma extraída da literalidade do artigo 7.º, n.º 4, do Decreto n.º 17/XVII, que determina a natureza interpretativa do seu n.º 3, nos termos do qual «[o] deferimento dos pedidos de atribuição ou aquisição previstos no número anterior depende do preenchimento, à data da sua apresentação, dos requisitos da [Lei n.º 37/81](https://diariodarepublica.pt/dr/detalhe/lei/37-1981-564050), de 3 de outubro, na redação anterior à presente lei.»
 
@@ -572,7 +912,7 @@ Tendo em conta que a norma prevista no n.º 4 é puramente qualificativa, a sua 
 
 Nestes termos, e conforme foi dito pelos requerentes, releva necessariamente para a apreciação da questão de constitucionalidade em apreço o artigo 13.º, n.º 1, do Código Civil (CC), que prevê as consequências jurídicas da qualificação de determinada norma como interpretativa, a saber: «[a] lei interpretativa integra-se na lei interpretada, ficando salvos, porém, os efeitos já produzidos pelo cumprimento da obrigação, por sentença passada em julgado, por transacção, ainda que não homologada, ou por actos de análoga natureza».
 
-No entendimento dos requerentes, a norma contida nos n.<sup>os</sup>3 e 4 do artigo 7.º do Decreto n.º 17/XVII viola a proibição constitucional dos efeitos retroativos das leis restritivas de direitos, liberdades e garantias, prevista no artigo 18.º, n.º 3, da CRP (cf. artigo 37.º e último ponto do artigo 38.º, ambos do pedido), bem como o princípio da confiança, ínsito no artigo 2.º, da CRP (artigo 37.º do pedido).
+No entendimento dos requerentes, a norma contida nos n.os3 e 4 do artigo 7.º do Decreto n.º 17/XVII viola a proibição constitucional dos efeitos retroativos das leis restritivas de direitos, liberdades e garantias, prevista no artigo 18.º, n.º 3, da CRP (cf. artigo 37.º e último ponto do artigo 38.º, ambos do pedido), bem como o princípio da confiança, ínsito no artigo 2.º, da CRP (artigo 37.º do pedido).
 
 C. Do direito fundamental à cidadania e das questões de nacionalidade, na jurisprudência do Tribunal Constitucional. Considerações de ordem geral
 
@@ -584,9 +924,9 @@ C. Do direito fundamental à cidadania e das questões de nacionalidade, na juri
 
 Cidadania e nacionalidade são dois termos comummente utilizados para referir o vínculo jurídico que une um indivíduo a um Estado, constituindo, como refere Rui Moura Ramos «duas faces de uma mesma realidade» (“Nacionalidade”, in Idem, Estudos de Direito Português da Nacionalidade, 2.ª edição, Coimbra, Gestlegal, 2019, pp. 348-349). Nessa medida, serão aqui doravante utilizados de modo indiferenciado.
 
-9 - A nossa Constituição, sem prejuízo de não definir o que entende por cidadão nacional, nem por isso deixou de rodear o instituto da cidadania portuguesa de importantes garantias formais e procedimentais, na medida em que inclui o regime da aquisição, perda e reaquisição da cidadania portuguesa entre as matérias da reserva absoluta de competência legislativa da Assembleia da República (artigo 164.º, alínea f)) e estabelece a forma (agravada) de lei orgânica para o exercício desta competência legislativa parlamentar, com as específicas exigências de tramitação, forma e maioria de aprovação associadas às leis orgânicas (artigos 112.º, n.º 3, 166.º, n.º 2, e 168.º, n.<sup>os</sup>4 e 5).
+9 - A nossa Constituição, sem prejuízo de não definir o que entende por cidadão nacional, nem por isso deixou de rodear o instituto da cidadania portuguesa de importantes garantias formais e procedimentais, na medida em que inclui o regime da aquisição, perda e reaquisição da cidadania portuguesa entre as matérias da reserva absoluta de competência legislativa da Assembleia da República (artigo 164.º, alínea f)) e estabelece a forma (agravada) de lei orgânica para o exercício desta competência legislativa parlamentar, com as específicas exigências de tramitação, forma e maioria de aprovação associadas às leis orgânicas (artigos 112.º, n.º 3, 166.º, n.º 2, e 168.º, n.os4 e 5).
 
-10 - Do mesmo modo, é exigida a aprovação parlamentar da matéria em sede convencional (artigo 161.º, alínea i), CRP), podendo ainda ponderar-se, nesta sede, se a matéria se inclui na designada «reserva de tratado» solene, não bastando a adoção de um acordo internacional para a respetiva formalização e vinculação do Estado português (neste sentido, Jorge Miranda e Rui Medeiros, Constituição Portuguesa Anotada, Tomo I, 2.ª ed., Wolters Kluwer Portugal/Coimbra Editora, 2010, p. 125); e tendo ainda aplicação um regime especial de fiscalização (preventiva) da constitucionalidade, que confere legitimidade também (além do Presidente da República) ao Primeiro-Ministro ou a um quinto dos Deputados em efetividade de funções (artigo 278.º, n.<sup>os</sup>4, 5 e 6, da CRP).
+10 - Do mesmo modo, é exigida a aprovação parlamentar da matéria em sede convencional (artigo 161.º, alínea i), CRP), podendo ainda ponderar-se, nesta sede, se a matéria se inclui na designada «reserva de tratado» solene, não bastando a adoção de um acordo internacional para a respetiva formalização e vinculação do Estado português (neste sentido, Jorge Miranda e Rui Medeiros, Constituição Portuguesa Anotada, Tomo I, 2.ª ed., Wolters Kluwer Portugal/Coimbra Editora, 2010, p. 125); e tendo ainda aplicação um regime especial de fiscalização (preventiva) da constitucionalidade, que confere legitimidade também (além do Presidente da República) ao Primeiro-Ministro ou a um quinto dos Deputados em efetividade de funções (artigo 278.º, n.os4, 5 e 6, da CRP).
 
 11 - É, aliás, no uso desta última prerrogativa que se enquadra o atual pedido de fiscalização preventiva da constitucionalidade dirigido ao Tribunal Constitucional.
 
@@ -604,7 +944,7 @@ Na verdade, “considerando que compete aos Estados, embora dentro dos parâmetr
 
 É também como direito de natureza fundamental que a doutrina nacional referida qualifica o direito de nacionalidade portuguesa [ANTÓNIO MARQUES DOS SANTOS, op. cit. pp. 294, diz a esse respeito, que, “além de ser um elemento do estado das pessoas, isto é, um status, e até mesmo um direito de personalidade, a nacionalidade é um direito fundamental, como já resultava, ainda antes da entrada em vigor da Constituição da República Portuguesa de 1976, do artigo 15.º da Declaração Universal dos Direitos do Homem (DUDH), de 10.12.1948; no plano do direito constitucional positivo português, se tal conclusão se poderia inferir do texto da Constituição, na sua versão original, segundo alguns [...], ela ficou claramente estabelecida após a primeira revisão constitucional, ao ser incluída a cidadania no elenco dos outros direitos, liberdades e garantias pessoais (artigo 26.º, n.º 1 da CRP), para além do direito à vida (artigo 24.º), do direito à integridade pessoal (artigo 25.º), bem como dos demais direitos referidos no artigo 2.7.º e seguintes da Lei fundamental, que têm igualmente carácter pessoal”].
 
-A natureza de direito fundamental do direito de cidadania portuguesa postula a sua subordinação a alguns corolários garantísticos que constitucionalmente enformam os direitos fundamentais, nomeadamente, aos princípios da sua universalidade e da igualdade, a vocação para a sua aplicabilidade directa, a vinculação de todas as autoridades públicas e privadas e a sujeição das restrições legais ao regime exigente constante dos n.<sup>os</sup>2 e 3 do artigo 18.º da CRP.
+A natureza de direito fundamental do direito de cidadania portuguesa postula a sua subordinação a alguns corolários garantísticos que constitucionalmente enformam os direitos fundamentais, nomeadamente, aos princípios da sua universalidade e da igualdade, a vocação para a sua aplicabilidade directa, a vinculação de todas as autoridades públicas e privadas e a sujeição das restrições legais ao regime exigente constante dos n.os2 e 3 do artigo 18.º da CRP.
 
 Tendo, porém, o legislador constitucional remetido a definição do regime do direito à cidadania portuguesa para o direito internacional pactício e para a legislação ordinária, daí decorre que será, nesse terreno, que tais fontes iluminarão a concreta densificação do seu estatuto jurídico.
 
@@ -622,7 +962,7 @@ Em primeiro lugar, a de que o direito à cidadania portuguesa tem a natureza de 
 
 Em segundo lugar, a de que não só deve ser reconhecido o direito fundamental a não ser privado da cidadania portuguesa, como deve também reconhecer-se o direito de aceder à cidadania portuguesa a qualquer pessoa que tenha a expectativa jurídica de a adquirir, «observados que sejam determinados pressupostos que o legislador interno entende como expressando aquele vínculo de integração efetiva na comunidade nacional».
 
-Em terceiro lugar, a de que o legislador não goza de liberdade ilimitada na determinação desses pressupostos, porquanto dos artigos 4.º e 26.º, n.<sup>os</sup>1 e 4, da Constituição - assim como de outros preceitos constitucionais e de direito internacional (sobretudo do artigo 15.º da Declaração Universal dos Direitos Humanos e da Convenção Europeia sobre a Nacionalidade, aprovada para ratificação pela [Resolução da Assembleia da República n.º 19/2000](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/19-2000-408521), de 06 de março, ratificada pelo [Decreto do Presidente da República n.º 7/2000](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/7-2000-408527) e publicada no Diário da República, 1.ª série-A, n.º 55) -, resulta delimitado um «conteúdo mínimo que o legislador ordinário não poderá postergar na definição do regime de acesso ao direito em causa».
+Em terceiro lugar, a de que o legislador não goza de liberdade ilimitada na determinação desses pressupostos, porquanto dos artigos 4.º e 26.º, n.os1 e 4, da Constituição - assim como de outros preceitos constitucionais e de direito internacional (sobretudo do artigo 15.º da Declaração Universal dos Direitos Humanos e da Convenção Europeia sobre a Nacionalidade, aprovada para ratificação pela [Resolução da Assembleia da República n.º 19/2000](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/19-2000-408521), de 06 de março, ratificada pelo [Decreto do Presidente da República n.º 7/2000](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/7-2000-408527) e publicada no Diário da República, 1.ª série-A, n.º 55) -, resulta delimitado um «conteúdo mínimo que o legislador ordinário não poderá postergar na definição do regime de acesso ao direito em causa».
 
 Em quarto e último lugar, a de que, consequentemente, as condições legalmente fixadas para o acesso à cidadania, «[p]or mor da força vinculativa da natureza de direito fundamental de que comunga o direito em causa», não poderão deixar de «passar o crivo da adequação, necessidade e proporcionalidade, tendo em vista precisamente a preservação do núcleo essencial de tal direito que, por natureza, há de corresponder à evidenciação de um específico vínculo de integração na comunidade portuguesa».
 
@@ -630,7 +970,7 @@ Em quarto e último lugar, a de que, consequentemente, as condições legalmente
 
 A essa luz, revela-se especialmente digna de tutela a expectativa de um residente que preencha requisitos que, à luz do direito internacional, o Estado português se encontre adstrito a valorizar (como os elencados no artigo 6.º da Convenção Europeia sobre a Nacionalidade), ou que aspire a beneficiar da proteção conferida pela Constituição da República Portuguesa a outros fatores (que não se esgotam na proteção da família e da infância conferida pelos artigos 36.º, 64.º, n.º 2, alínea b), e 67.º - atente-se, v.g., na especial consideração dedicada pelo artigo 15.º, n.º 3, aos cidadãos dos Estados de língua portuguesa). De modo simétrico, será especialmente imerecida a proteção das expectativas de um residente cuja conduta, por evidenciar uma manifesta desconsideração pelos princípios e valores constitucionais por que se rege o Estado a que requer nacionalidade, indicia a ausência de uma efetiva ligação a essa mesma comunidade.»
 
-14 - Deste entendimento nuclear quanto ao direito fundamental previsto no artigo 26.º, n.º 1, da Constituição, que decorria já, designadamente, dos anteriores Acórdãos n.<sup>os</sup>[605/2013](https://diariodarepublica.pt/dr/detalhe/acordao/605-2013-2846379) e 106/2016, extrai-se o seguinte:
+14 - Deste entendimento nuclear quanto ao direito fundamental previsto no artigo 26.º, n.º 1, da Constituição, que decorria já, designadamente, dos anteriores Acórdãos n.os[605/2013](https://diariodarepublica.pt/dr/detalhe/acordao/605-2013-2846379) e 106/2016, extrai-se o seguinte:
 
 a) Que o direito à nacionalidade (ou cidadania) portuguesa tem a natureza de direito fundamental - artigo 26.º, n.º 1, da Constituição -, abrangendo, no que aqui diretamente releva, o direito de aceder à cidadania portuguesa de «qualquer pessoa que tenha a expectativa jurídica de a adquirir, “observados que sejam determinados pressupostos que o legislador interno entende como expressando aquele vínculo de integração efetiva na comunidade nacional”» (Acórdão n.º 497/2019).
 
@@ -654,7 +994,7 @@ Tratando-se de um poder discricionário do Governo, a lei ordinária subordina-o
 
 Em suma, e relativamente à aquisição da nacionalidade por naturalização, o Estado continua a gozar quer de uma razoável margem de conformação político-legislativa, quer, em certas categorias de casos, de verdadeira discricionariedade político-administrativa, nos termos em que lei o permitir.
 
-Basta ver que o artigo 6.º da LdN diferencia os casos em que o “Governo concede” (n.<sup>os</sup>1, 2, 4, 5 e 9) daqueles em que o “Governo pode conceder” (n.<sup>os</sup>6, 7 e 8) - itálicos nossos.
+Basta ver que o artigo 6.º da LdN diferencia os casos em que o “Governo concede” (n.os1, 2, 4, 5 e 9) daqueles em que o “Governo pode conceder” (n.os6, 7 e 8) - itálicos nossos.
 
 No caso presente, porém, as normas sob escrutínio, designadamente as que se extraem das alterações propostas ao artigo 6.º, n.º 1, alínea f) e n.º 3, inserem-se numa das situações em que o Governo “concede”. Por sua vez, as alterações propostas ao artigo 9.º, como vimos, recaem sobre situações de aquisição da nacionalidade por efeito da vontade, de onde resulta, em ambas, que o Estado não pode deixar de conceder a nacionalidade, verificados que estejam todos os requisitos necessários para o efeito.
 
@@ -806,7 +1146,7 @@ O artigo 6.º, n.º 1, alínea d), apresentava, então, a seguinte redação:
 
 d) Não terem sido condenados, com trânsito em julgado da sentença, pela prática de crime punível com pena de prisão de máximo igual ou superior a 3 anos, segundo a lei portuguesa.»
 
-Considerando esta redação, de 2006, e sempre em sede de fiscalização concreta da constitucionalidade, o Tribunal Constitucional foi chamado, por mais de uma vez, a pronunciar-se acerca da conformidade constitucional do artigo 6.º, n.º 1, alínea d), da LdN, e em relação ao conteúdo do fundamento paralelo, ou homólogo, em sede oposição à aquisição da nacionalidade por efeito da vontade, previsto na alínea b) do n.º 1 do artigo 9.º da LdN (Acórdãos n.<sup>os</sup>497/2019, 127/2023 e Decisão Sumária n.º 100/2023 e, bem assim, os Acórdãos n.<sup>os</sup>534/2021 e 846/2023).
+Considerando esta redação, de 2006, e sempre em sede de fiscalização concreta da constitucionalidade, o Tribunal Constitucional foi chamado, por mais de uma vez, a pronunciar-se acerca da conformidade constitucional do artigo 6.º, n.º 1, alínea d), da LdN, e em relação ao conteúdo do fundamento paralelo, ou homólogo, em sede oposição à aquisição da nacionalidade por efeito da vontade, previsto na alínea b) do n.º 1 do artigo 9.º da LdN (Acórdãos n.os497/2019, 127/2023 e Decisão Sumária n.º 100/2023 e, bem assim, os Acórdãos n.os534/2021 e 846/2023).
 
 Com particular interesse nos presentes autos, lê-se no Acórdão n.º 497/2019 (Retificado pelo Acórdão n.º 589/2019), que:
 
@@ -890,7 +1230,7 @@ Do exposto decorre, com o reforço dado pela doutrina, que o n.º 4 do artigo 30
 
 Esta garantia encontra-se, aliás, em estreita consonância com a sujeição das penas ao princípio da necessidade, avalizando a sua conformidade com o subprincípio da proibição do excesso, «no sentido de que qualquer “efeito (acessório) da pena” pressupõe, por um lado, uma certa gravidade do facto praticado e, por outro, uma fundada conexão entre o efeito (o direito que deve ser declarado perdido) que se quer determinar e o facto criminoso praticado. Nestes termos, seria inconstitucional uma lei que, p. ex., privasse do direito de voto quem fosse condenado por um qualquer crime» (Damião da Cunha, “Anotação ao artigo 30.º”, in Jorge Miranda e Rui Medeiros, Constituição Portuguesa Anotada, Volume I, 2.ª Edição revista, Lisboa: Universidade Católica Editora, 2017, pp. 498-499).
 
-Tais conclusões têm sido uniformes, constantes e reiteradamente adotadas por este Tribunal Constitucional, como resulta da análise da vasta jurisprudência a propósito. Vejam-se, a título de exemplo, os Acórdãos n.<sup>os</sup>[16/84](https://diariodarepublica.pt/dr/detalhe/acordao/16-1984-1114610), 310/85, 75/86, 94/86, 284/89, [748/93](https://diariodarepublica.pt/dr/detalhe/acordao/748-1993-541443), 522/95, 327/99, [202/2000](https://diariodarepublica.pt/dr/detalhe/acordao/202-2000-2986994), 262/2003, 36/2008, [25/2011](https://diariodarepublica.pt/dr/detalhe/acordao/25-2011-1936228), [311/2012](https://diariodarepublica.pt/dr/detalhe/acordao/311-2012-2261401), 748/2014, 106/2016, [331/2016](https://diariodarepublica.pt/dr/detalhe/acordao/331-2016-74672380), [376/2018](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/376-2018-116407649), 348/2022, 722/2022 e [927/2023](https://diariodarepublica.pt/dr/detalhe/acordao-extrato/927-2023-856836263).
+Tais conclusões têm sido uniformes, constantes e reiteradamente adotadas por este Tribunal Constitucional, como resulta da análise da vasta jurisprudência a propósito. Vejam-se, a título de exemplo, os Acórdãos n.os[16/84](https://diariodarepublica.pt/dr/detalhe/acordao/16-1984-1114610), 310/85, 75/86, 94/86, 284/89, [748/93](https://diariodarepublica.pt/dr/detalhe/acordao/748-1993-541443), 522/95, 327/99, [202/2000](https://diariodarepublica.pt/dr/detalhe/acordao/202-2000-2986994), 262/2003, 36/2008, [25/2011](https://diariodarepublica.pt/dr/detalhe/acordao/25-2011-1936228), [311/2012](https://diariodarepublica.pt/dr/detalhe/acordao/311-2012-2261401), 748/2014, 106/2016, [331/2016](https://diariodarepublica.pt/dr/detalhe/acordao/331-2016-74672380), [376/2018](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/376-2018-116407649), 348/2022, 722/2022 e [927/2023](https://diariodarepublica.pt/dr/detalhe/acordao-extrato/927-2023-856836263).
 
 Destaca-se, neste conspecto, o Acórdão n.º 722/22 - ao qual voltaremos infra - do qual resulta clarificada a relação entre os vetores supra expostos:
 
@@ -950,7 +1290,7 @@ Ora, em face da proibição constitucional de perda automática de direitos civi
 
 Aqui chegados, e em face do exposto, não poderá deixar de se considerar que a norma sob sindicância ofende o artigo 30.º, n.º 4, da Lei Fundamental, tendo em conta que o que está em causa é um efeito ope legis decorrente da aplicação de uma pena, ainda que identificada pelos limites da sua medida concreta, como tem vindo, aliás, a decidir em casos muito idênticos, o Tribunal Constitucional.
 
-Se é verdade que a condenação por determinado crime (ou tipo de crimes) constitui, como o Tribunal tem vindo a afirmar, «uma informação que, em abstracto, já se pode ligar às finalidades que justificariam uma perda de direitos civis, políticos ou profissionais» (cf. Francisco Borges, ibidem)» (cf. Acórdãos n.<sup>os</sup>722/2022, 914/2023, 442/2024, 638/2024, 641/2024, 642/2024, 706/2024, 117/2025, [127/2025](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/127-2025-909476478) e 396/2025), já a mera condenação em pena de prisão igual ou superior a dois anos de prisão, desligada do ilícito cometido, constitui uma base imprestável para a demonstração de uma relação «absolutamente «consistente e convincente»» (idem), logo no plano abstrato, entre a condenação criminal e o efeito que lhe é automaticamente associado - isto é, a exclusão do acesso à nacionalidade por naturalização -, tendo em conta a tutela do interesse público prosseguido por essa via - evitar, como acima se referiu, a postergação do vínculo de efetiva integração na comunidade.
+Se é verdade que a condenação por determinado crime (ou tipo de crimes) constitui, como o Tribunal tem vindo a afirmar, «uma informação que, em abstracto, já se pode ligar às finalidades que justificariam uma perda de direitos civis, políticos ou profissionais» (cf. Francisco Borges, ibidem)» (cf. Acórdãos n.os722/2022, 914/2023, 442/2024, 638/2024, 641/2024, 642/2024, 706/2024, 117/2025, [127/2025](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/127-2025-909476478) e 396/2025), já a mera condenação em pena de prisão igual ou superior a dois anos de prisão, desligada do ilícito cometido, constitui uma base imprestável para a demonstração de uma relação «absolutamente «consistente e convincente»» (idem), logo no plano abstrato, entre a condenação criminal e o efeito que lhe é automaticamente associado - isto é, a exclusão do acesso à nacionalidade por naturalização -, tendo em conta a tutela do interesse público prosseguido por essa via - evitar, como acima se referiu, a postergação do vínculo de efetiva integração na comunidade.
 
 A falta de conexão entre a mera condenação criminal em pena igual ou superior a dois anos de prisão e o interesse público que se pretende acautelar com o requisito estabelecido conduz inevitavelmente à conclusão de que o acesso à nacionalidade por naturalização, por via desta nova alínea f) do n.º 1 do artigo 6.º, da LdN, é, na realidade, vedado pela simples razão de ao requerente ter sido aplicada a título principal uma pena igual ou superior a dois anos de prisão, sem qualquer juízo de adequação entre o crime praticado e afetação do vínculo de efetiva pertença à comunidade.
 
@@ -1240,9 +1580,9 @@ Nesta matéria, e partindo daquele aresto, o Tribunal Constitucional conta com u
 
 A título meramente ilustrativo, no recente [Acórdão n.º 128/2024](https://diariodarepublica.pt/dr/detalhe/acordao-extrato/128-2024-858592067), que remete para o Acórdão n.º 508/2016, foi dito o seguinte a propósito do princípio da segurança jurídica e da proteção da confiança:
 
-«Decerto que o Estado de direito é, também, um Estado de segurança jurídica (cf. os Acórdãos n.<sup>os</sup>[108/2012](https://diariodarepublica.pt/dr/detalhe/acordao/108-2012-1411040), [575/2014](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/575-2014-56396779) e [241/2015](https://diariodarepublica.pt/dr/detalhe/acordao/241-2015-67412650)). E, como este Tribunal tem afirmado, à garantia de segurança jurídica inerente ao Estado de direito corresponde, numa vertente subjetiva, a ideia de proteção da confiança dos particulares relativamente à continuidade da ordem jurídica. Com efeito, a proteção da confiança é uma norma com natureza principiológica que deflui de um dos elementos materiais justificadores e imanentes do Estado de direito: a segurança jurídica dedutível do artigo 2.º da Constituição (cf. o [Acórdão n.º 862/2013](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/862-2013-606350)). Enquanto associado e mediatizado pela segurança jurídica, o princípio da proteção da confiança prende-se com a dimensão subjetiva da segurança - o da proteção da confiança dos particulares na estabilidade, continuidade, permanência e regularidade das situações e relações jurídicas vigentes. Mas o mesmo Estado de direito também é democrático e pluralista, uma vez que a ordem jurídico-constitucional se funda, desde logo, nos procedimentos próprios de uma democracia plural. Daí o reconhecimento do poder de autorrevisibilidade das leis, que, não sendo ilimitado, postula que os limites sejam traçados a partir da concordância entre o princípio do pluralismo democrático e outros princípios constitucionais, como, por exemplo, os da segurança, da igualdade e da proporcionalidade.»
+«Decerto que o Estado de direito é, também, um Estado de segurança jurídica (cf. os Acórdãos n.os[108/2012](https://diariodarepublica.pt/dr/detalhe/acordao/108-2012-1411040), [575/2014](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/575-2014-56396779) e [241/2015](https://diariodarepublica.pt/dr/detalhe/acordao/241-2015-67412650)). E, como este Tribunal tem afirmado, à garantia de segurança jurídica inerente ao Estado de direito corresponde, numa vertente subjetiva, a ideia de proteção da confiança dos particulares relativamente à continuidade da ordem jurídica. Com efeito, a proteção da confiança é uma norma com natureza principiológica que deflui de um dos elementos materiais justificadores e imanentes do Estado de direito: a segurança jurídica dedutível do artigo 2.º da Constituição (cf. o [Acórdão n.º 862/2013](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/862-2013-606350)). Enquanto associado e mediatizado pela segurança jurídica, o princípio da proteção da confiança prende-se com a dimensão subjetiva da segurança - o da proteção da confiança dos particulares na estabilidade, continuidade, permanência e regularidade das situações e relações jurídicas vigentes. Mas o mesmo Estado de direito também é democrático e pluralista, uma vez que a ordem jurídico-constitucional se funda, desde logo, nos procedimentos próprios de uma democracia plural. Daí o reconhecimento do poder de autorrevisibilidade das leis, que, não sendo ilimitado, postula que os limites sejam traçados a partir da concordância entre o princípio do pluralismo democrático e outros princípios constitucionais, como, por exemplo, os da segurança, da igualdade e da proporcionalidade.»
 
-A tutela constitucional da segurança jurídica e da confiança emanam, assim, do princípio do Estado de direito consagrado no artigo 2.º da Constituição (cf. a jurisprudência constante deste Tribunal expressa, por exemplo, nos Acórdãos n.<sup>os</sup>[287/90](https://diariodarepublica.pt/dr/detalhe/acordao/287-1991-3575632), [128/2009](https://diariodarepublica.pt/dr/detalhe/acordao/128-2009-2293181), [3/2010](https://diariodarepublica.pt/dr/detalhe/acordao/3-2010-2014296), [154/2010](https://diariodarepublica.pt/dr/detalhe/acordao/154-2010-2643550), [862/2013](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/862-2013-606350) ou [294/2014](https://diariodarepublica.pt/dr/detalhe/acordao/294-2014-25708903)). Essa tutela é evidente nos casos de leis retroativas - de resto, hoje proibidas no domínio fiscal (cf. o artigo 103.º, n.º 3, da Constituição) -, mas não está ausente em todos os outros casos em que a lei nova projeta os seus efeitos sobre situações constituídas no passado [...] (v. o [Acórdão n.º 575/2014](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/575-2014-56396779)).”»
+A tutela constitucional da segurança jurídica e da confiança emanam, assim, do princípio do Estado de direito consagrado no artigo 2.º da Constituição (cf. a jurisprudência constante deste Tribunal expressa, por exemplo, nos Acórdãos n.os[287/90](https://diariodarepublica.pt/dr/detalhe/acordao/287-1991-3575632), [128/2009](https://diariodarepublica.pt/dr/detalhe/acordao/128-2009-2293181), [3/2010](https://diariodarepublica.pt/dr/detalhe/acordao/3-2010-2014296), [154/2010](https://diariodarepublica.pt/dr/detalhe/acordao/154-2010-2643550), [862/2013](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/862-2013-606350) ou [294/2014](https://diariodarepublica.pt/dr/detalhe/acordao/294-2014-25708903)). Essa tutela é evidente nos casos de leis retroativas - de resto, hoje proibidas no domínio fiscal (cf. o artigo 103.º, n.º 3, da Constituição) -, mas não está ausente em todos os outros casos em que a lei nova projeta os seus efeitos sobre situações constituídas no passado [...] (v. o [Acórdão n.º 575/2014](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/575-2014-56396779)).”»
 
 Ainda a propósito, merece referência o [Acórdão n.º 95/2017](https://diariodarepublica.pt/dr/detalhe/acordao/95-2017-105756106), posteriormente reafirmado no [Acórdão n.º 134/2019](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/134-2019-121942396):
 
@@ -1292,7 +1632,7 @@ Assim, aquando do requerimento para obtenção de autorização de residência t
 
 Imperioso se torna, pois, concluir que a norma sob apreciação não viola o princípio da segurança jurídica, ínsito no princípio do Estado de direito democrático, consagrado no artigo 2.º da Constituição.
 
-Daí que, e também ao contrário do descrito nos arestos invocados pelos requerentes, no caso em apreço, ao abrigo do disposto no artigo 7.º, n.<sup>os</sup>1 e 2, do Decreto, dois cidadãos que tenham já entregado o seu pedido para aquisição da nacionalidade, ainda que na mesma data, ou em datas diferentes, contando com o método de contagem do tempo de residência legal previsto neste n.º 4 do artigo 15.º da LdN, e mesmo que tais pedidos venham a ser deferidos em datas distintas, ambos verão ser-lhes aplicada a LdN na redação atual (LA), sem prejuízo dos n.<sup>os</sup>3 e 4 do referido artigo 7.º, conforme teremos oportunidade de explicitar melhor infra (D.7.)
+Daí que, e também ao contrário do descrito nos arestos invocados pelos requerentes, no caso em apreço, ao abrigo do disposto no artigo 7.º, n.os1 e 2, do Decreto, dois cidadãos que tenham já entregado o seu pedido para aquisição da nacionalidade, ainda que na mesma data, ou em datas diferentes, contando com o método de contagem do tempo de residência legal previsto neste n.º 4 do artigo 15.º da LdN, e mesmo que tais pedidos venham a ser deferidos em datas distintas, ambos verão ser-lhes aplicada a LdN na redação atual (LA), sem prejuízo dos n.os3 e 4 do referido artigo 7.º, conforme teremos oportunidade de explicitar melhor infra (D.7.)
 
 Por fim, crê-se que as considerações acabadas de expor são também suficientes para afastar uma violação do princípio da igualdade. Consideram os requerentes que «o resultado da norma em causa é que dois cidadãos estrangeiros que apresentarem requerimentos iniciais no mesmo momento podem obter despachos de deferimento em datas totalmente distintas e, por isso, ter datas de início de prazo [de residência legal, para efeitos do artigo 6.º da LdN] totalmente distintas, apenas decorrente da já referida álea administrativa», sendo que configura «uma discriminação sem qualquer razão atendível e, por isso, arbitrária».
 
@@ -1308,9 +1648,9 @@ Como se viu, esse fundamento racional existe, sendo inerente a cada um dos dois 
 
 Face ao exposto, é de concluir que a norma do artigo 5.º do Decreto, na parte em que determina a revogação do n.º 4 do artigo 15.º da LdN, não viola o princípio da igualdade, tal como este decorre do artigo 13.º da CRP.
 
-Os requerentes sustentam, por fim, que «o desaparecimento [desta norma] pod[e] projetar-se na esfera de cidadãos que já viram o período de residência contabilizado com base na fórmula em vigor, podendo gerar-se adicionalmente um problema de aplicação retroativa da lei restritiva de direitos, liberdades e garantias, em violação do n.º 3 do artigo 18.º da Constituição» (sublinhados acrescentados). Quanto a esta questão de constitucionalidade, crê-se que ela tem de ser necessariamente compreendida em conjugação com a sétima e última questão de constitucionalidade suscitada pelos requerentes, e que diz respeito às normas extraídas dos n.<sup>os</sup>3 e 4 do artigo 7.º do Decreto n.º 17/XVII (D.7., infra), pois que a questão assim colocada diz antes respeito à determinação do regime legal aplicável num cenário de sucessão de leis no tempo.
+Os requerentes sustentam, por fim, que «o desaparecimento [desta norma] pod[e] projetar-se na esfera de cidadãos que já viram o período de residência contabilizado com base na fórmula em vigor, podendo gerar-se adicionalmente um problema de aplicação retroativa da lei restritiva de direitos, liberdades e garantias, em violação do n.º 3 do artigo 18.º da Constituição» (sublinhados acrescentados). Quanto a esta questão de constitucionalidade, crê-se que ela tem de ser necessariamente compreendida em conjugação com a sétima e última questão de constitucionalidade suscitada pelos requerentes, e que diz respeito às normas extraídas dos n.os3 e 4 do artigo 7.º do Decreto n.º 17/XVII (D.7., infra), pois que a questão assim colocada diz antes respeito à determinação do regime legal aplicável num cenário de sucessão de leis no tempo.
 
-D.6. No conhecimento da sexta questão de constitucionalidade, nos termos supra delimitados (item 5.6.), impõe-se determinar se a norma extraída da interpretação conjugada dos n.<sup>os</sup>1 e 2 do artigo 7.º do Decreto, no sentido de a LdN, com as alterações introduzidas pelo Decreto (LN), produzir efeitos no momento da respetiva entrada em vigor, com exceção dos casos cujos procedimentos administrativos estejam pendentes nessa data, aos quais se aplica a LdN, na versão atualmente em vigor (LA), é inconstitucional por violação do princípio da proteção da confiança (artigo 2.º da CRP), conjugado com o princípio da proporcionalidade (artigo 18.º, n.º 2, da CRP).
+D.6. No conhecimento da sexta questão de constitucionalidade, nos termos supra delimitados (item 5.6.), impõe-se determinar se a norma extraída da interpretação conjugada dos n.os1 e 2 do artigo 7.º do Decreto, no sentido de a LdN, com as alterações introduzidas pelo Decreto (LN), produzir efeitos no momento da respetiva entrada em vigor, com exceção dos casos cujos procedimentos administrativos estejam pendentes nessa data, aos quais se aplica a LdN, na versão atualmente em vigor (LA), é inconstitucional por violação do princípio da proteção da confiança (artigo 2.º da CRP), conjugado com o princípio da proporcionalidade (artigo 18.º, n.º 2, da CRP).
 
 Invocam os requerentes, como fundamento, (i) a «alteração de fundo e profunda nos regimes substantivos», no sentido de tornar mais exigente a naturalização de pessoas estrangeiras (cf. artigo 32.º, alínea a), do pedido); (ii) a «[a]lteração das regras de contagem do tempo de residência legal» (cf. artigo 32.º, alínea b), do pedido); (iii) a «[a]lteração [...] das regras de submissão de requerimentos de aquisição da nacionalidade» (cf. artigo 32.º, alínea c), do pedido); (iv) a «determinação da produção de efeitos [entrada em vigência] da Lei no dia seguinte à publicação», nos termos do artigo 8.º do Decreto (cf. artigo 32.º, alínea d), do pedido); (v) a «previsão de prazo de regulamentação de 90 dias, desfasado da vacatio legis», nos termos do artigo 4.º do Decreto (cf. artigo 32.º, alínea e), do pedido); (vi) a «[a]usência de previsão de qualquer regime transitório, nas várias modalidades que poderiam ser utilizadas para cumprir o programa constitucional de equilíbrio na mudança de regimes, desde previsão de prazo para submissão de requerimentos pelas pessoas que cumpram os requisitos temporais de residência até ao momento de entrada em vigor da lei, construção de regimes intermédios de aumento gradual dos prazos, previsão de extinção gradual dos regimes especiais de naturalização, entre outros» (cf. artigo 32.º, alínea f), do pedido); (vii) a natureza e complexidade da matéria sob regulação (cf. artigo 33.º do pedido); e (viii) a «valida[ção] [d]o respeito pelo princípio da proteção da confiança», aquando da apreciação levada a cabo por este Tribunal, sobre a alteração, que os requerentes consideram menos significativa, do regime de concessão de nacionalidade por naturalização aos descendentes de judeus sefarditas, que deu origem à prolação do [Acórdão n.º 128/2024](https://diariodarepublica.pt/dr/detalhe/acordao-extrato/128-2024-858592067) (cf. artigo 34.º do pedido).
 
@@ -1322,7 +1662,7 @@ Nas palavras de Oliveira Ascensão, usa-se o conceito de direito transitório no
 
 Saber quais são as hipóteses «que se colo[cam] na fronteira entre uma e outra lei» não é tarefa simples. Não obstante, parece-nos inequívoco que a norma prevista no n.º 2 do artigo 7.º do Decreto é uma norma de direito transitório, classificável como formal, ao determinar a lei aplicável aos casos em que o processo de aquisição de nacionalidade foi iniciado, mas ainda não decidido, ao abrigo da LA, encontrando-se por isso pendente, razão pela qual a decisão e a sua tramitação ocorrerão já no âmbito de aplicação temporal da lei nova.
 
-Consideram, porém, os requerentes que a norma decorrente da interpretação conjugada do disposto nos n.<sup>os</sup>1 e 2 do artigo 7.º do Decreto não constitui um regime transitório mínimo, motivo pelo qual é inconstitucional. Vejamos se assim é.
+Consideram, porém, os requerentes que a norma decorrente da interpretação conjugada do disposto nos n.os1 e 2 do artigo 7.º do Decreto não constitui um regime transitório mínimo, motivo pelo qual é inconstitucional. Vejamos se assim é.
 
 Efetivamente, o fenómeno da sucessão de leis é passível de gerar diferentes problemas de aplicação da lei no tempo, uma vez que «[...] a entrada em vigor de uma lei nova [...] não provoca um corte radical na continuidade da vida social» (cf. Batista Machado, Introdução ao Direito e ao Discurso Legitimador, Almedina Coimbra, 1983, p. 220). Estes problemas podem ser acautelados através de diversos instrumentos jurídicos, nomeadamente: «[c]onfirmação do direito em vigor para os casos cujos pressupostos se gerarem e desenvolverem à sombra da lei antiga; entrada gradual da lei nova; dilatação da vacatio legis; disciplina específica para situações, posições ou relações jurídicas imbricadas com as «leis velhas» e com as «leis novas»» (cf. J.J. Gomes Canotilho, Direito Constitucional e Teoria da Constituição, 7.ª edição, Almedina, 2003, p. 263).
 
@@ -1340,7 +1680,7 @@ Sucede que, e independentemente de se reconhecer que um regime transitório mais
 
 É certo que o princípio da proteção da confiança tem sido mobilizado pelo Tribunal Constitucional, como critério decisório, no âmbito da problemática da sucessão de leis no tempo, onde se insere a questão de constitucionalidade sob apreciação.
 
-E, no que respeita à aplicação retroativa de normas, não obstante a CRP prever expressamente um conjunto de proibições com maior ou menor caráter de genericidade (vide artigos 16.º, n.º 3, 29.º e 103.º), este Tribunal já declarou a inconstitucionalidade de normas de aplicação retroativa fora daquelas proibições expressas, por via da aplicação do princípio da confiança, decorrente do artigo 2.º da CRP (vide, a título de exemplo, entre muitos outros, os Acórdãos n.<sup>os</sup>[202/2014](https://diariodarepublica.pt/dr/detalhe/acordao/202-2014-25699637) e 689/2025).
+E, no que respeita à aplicação retroativa de normas, não obstante a CRP prever expressamente um conjunto de proibições com maior ou menor caráter de genericidade (vide artigos 16.º, n.º 3, 29.º e 103.º), este Tribunal já declarou a inconstitucionalidade de normas de aplicação retroativa fora daquelas proibições expressas, por via da aplicação do princípio da confiança, decorrente do artigo 2.º da CRP (vide, a título de exemplo, entre muitos outros, os Acórdãos n.os[202/2014](https://diariodarepublica.pt/dr/detalhe/acordao/202-2014-25699637) e 689/2025).
 
 E que foi precisamente no âmago da apreciação destes casos que se criou e densificou o designado teste da confiança, sendo paradigmático o [Acórdão n.º 287/90](https://diariodarepublica.pt/dr/detalhe/acordao/287-1991-3575632), onde o Tribunal começou por estabelecer os limites do princípio da proteção da confiança na ponderação da eventual inconstitucionalidade de normas, os quais viriam a ser sistematizados no [Acórdão n.º 128/2009](https://diariodarepublica.pt/dr/detalhe/acordao/128-2009-2293181).
 
@@ -1350,9 +1690,9 @@ Os requerentes apelam, assim, a uma «valida[ção] [d]o respeito pelo princípi
 
 A norma aqui sob apreciação salvaguardou os casos de potencial aplicação retrospetiva (e de aplicação retroativa, por maioria de razão) da LN, deixando apenas fora do seu alcance os factos jurídicos futuros. E, conforme resulta da construção jurisprudencial supra referida, o princípio da proteção da confiança apresenta uma estrutura ponderativa: entre o peso das expectativas dos particulares na continuidade do Direito e o peso das razões de interesse público que justificam a alteração legislativa.
 
-Ora, as hipóteses da vida que ficam fora do âmbito de proteção da norma extraída dos n.<sup>os</sup>1 e 2 do artigo 7.º do Decreto, aqui sob escrutínio, resultarão do facto de não estar pendente o respetivo procedimento administrativo à data da entrada em vigor da LN. Nestas circunstâncias, na ponderação a fazer-se à luz do princípio da confiança, o peso das expectativas - de quem não tem o respetivo procedimento administrativo pendente à data de entrada em vigor LN - nunca poderia ter uma proeminência tal, que aplicados que fossem os testes da confiança, impusesse ao legislador uma salvaguarda maior do que aquela que acautela a aplicação da lei vigente à data em que se inicie o procedimento administrativo, ou seja, a confiança na imutabilidade da lei em vigor no momento da apresentação do pedido e não em qualquer outro pedido temporal, o que resulta já acautelado pelo disposto nos n.<sup>os</sup>1 e 2 do artigo 7.º do Decreto, aqui sob escrutínio.
+Ora, as hipóteses da vida que ficam fora do âmbito de proteção da norma extraída dos n.os1 e 2 do artigo 7.º do Decreto, aqui sob escrutínio, resultarão do facto de não estar pendente o respetivo procedimento administrativo à data da entrada em vigor da LN. Nestas circunstâncias, na ponderação a fazer-se à luz do princípio da confiança, o peso das expectativas - de quem não tem o respetivo procedimento administrativo pendente à data de entrada em vigor LN - nunca poderia ter uma proeminência tal, que aplicados que fossem os testes da confiança, impusesse ao legislador uma salvaguarda maior do que aquela que acautela a aplicação da lei vigente à data em que se inicie o procedimento administrativo, ou seja, a confiança na imutabilidade da lei em vigor no momento da apresentação do pedido e não em qualquer outro pedido temporal, o que resulta já acautelado pelo disposto nos n.os1 e 2 do artigo 7.º do Decreto, aqui sob escrutínio.
 
-Razão pela qual se considera não ser convocável o princípio da proteção da confiança, ficando também prejudicada a convocação do princípio da proporcionalidade, nos termos invocados pelos requerentes, concluindo-se, pois, que a norma extraída da interpretação conjugada dos n.<sup>os</sup>1 e 2 do artigo 7.º do Decreto, no sentido de a LdN, com as alterações introduzidas pelo Decreto, produzir efeitos a partir da data da sua entrada em vigor, salvaguardando a aplicação da LA aos procedimentos administrativos pendentes nessa data, não é inconstitucional.
+Razão pela qual se considera não ser convocável o princípio da proteção da confiança, ficando também prejudicada a convocação do princípio da proporcionalidade, nos termos invocados pelos requerentes, concluindo-se, pois, que a norma extraída da interpretação conjugada dos n.os1 e 2 do artigo 7.º do Decreto, no sentido de a LdN, com as alterações introduzidas pelo Decreto, produzir efeitos a partir da data da sua entrada em vigor, salvaguardando a aplicação da LA aos procedimentos administrativos pendentes nessa data, não é inconstitucional.
 
 D.7. A sétima e última questão de constitucionalidade reporta-se à norma extraída da letra do artigo 7.º, n.º 4, do Decreto n.º 17/XVII, que determina a natureza interpretativa do seu n.º 3, nos termos do qual «[o] deferimento dos pedidos de atribuição ou aquisição previstos no número anterior depende do preenchimento, à data da sua apresentação, dos requisitos da [Lei n.º 37/81](https://diariodarepublica.pt/dr/detalhe/lei/37-1981-564050), de 3 de outubro, na redação anterior à presente lei».
 
@@ -1360,7 +1700,7 @@ Chamando aqui à colação, no seguimento do que se aflorou supra (D.5.), a ques
 
 Note-se, pois, que o n.º 3 do artigo 7.º do Decreto n.º 17/XVII cuja constitucionalidade se questiona incide, exclusivamente, sobre o critério temporal de preenchimento dos requisitos previstos na LdN, para efeitos do deferimento dos pedidos de atribuição ou aquisição da nacionalidade, cujos procedimentos estejam pendentes à data da entrada em vigor (n.º 2 do preceito).
 
-É neste pressuposto que se apreciará a norma extraída do disposto nos artigos 7.º, n.<sup>os</sup>2, 3 e 4, do Decreto n.º 17/XVII, em conjugação com o artigo 13.º, n.º 1, do CC (cf. 5.7., supra), no sentido segundo o qual o deferimento dos pedidos de atribuição ou aquisição da nacionalidade cujo procedimento administrativo esteja pendente à data da entrada em vigor da presente lei, depende do preenchimento, à data dos respetivos pedidos, dos requisitos da [Lei n.º 37/81](https://diariodarepublica.pt/dr/detalhe/lei/37-1981-564050), de 3 de outubro, na redação anterior.
+É neste pressuposto que se apreciará a norma extraída do disposto nos artigos 7.º, n.os2, 3 e 4, do Decreto n.º 17/XVII, em conjugação com o artigo 13.º, n.º 1, do CC (cf. 5.7., supra), no sentido segundo o qual o deferimento dos pedidos de atribuição ou aquisição da nacionalidade cujo procedimento administrativo esteja pendente à data da entrada em vigor da presente lei, depende do preenchimento, à data dos respetivos pedidos, dos requisitos da [Lei n.º 37/81](https://diariodarepublica.pt/dr/detalhe/lei/37-1981-564050), de 3 de outubro, na redação anterior.
 
 É a seguinte, a redação do artigo 7.º, introduzido pelo Decreto acabado de mencionar:
 
@@ -1388,9 +1728,9 @@ Isso mesmo se reflete nas disposições conjugadas dos artigos 27.º e ss. do Re
 
 Não podendo, pois, confundir-se a necessidade da junção de alguns dos documentos necessários para a boa instrução do pedido, no momento em que o mesmo é apresentado, como comprovativo de alguns dos requisitos que são pressupostos do direito, com o momento da apreciação e decisão sobre o preenchimento dos requisitos necessários para que determinada pretensão seja deferida, pois que estes dois momentos não coincidem nem no tempo, nem se equivalem ou confundem, a ponto de se considerar momento do pedido e momento da prolação da decisão administrativa como correspondendo ou significando uma mesma e única realidade.
 
-Neste pressuposto, e na parte que releva na economia do presente aresto, à luz do regime vigente, um cidadão estrangeiro que apresente um pedido de aquisição da nacionalidade portuguesa por naturalização, ao abrigo do artigo 6.º da LdN, e que nessa data, por exemplo, ainda não lhe tenha sido cancelada, no registo criminal, uma condenação, com trânsito em julgado da sentença, por prática de crime punível com pena de prisão igual ou superior a três anos, mas que tal venha a suceder na pendência do procedimento - ou do processo em tribunal, no caso de ter sido impugnada uma decisão de indeferimento com esse fundamento -, ver-lhe-á reconhecido o direito à aquisição da nacionalidade, se a tal nada mais obstar, ainda que, à data da apresentação do pedido, não se verificassem todos os requisitos necessários [neste sentido v., a título de mero exemplo, os Acórdãos do Supremo Tribunal Administrativo de 17.12.2014 (Proc. n.º 0490/14), de 21.05.2015 (Proc. n.º 0129/15), de 25.02.2016 (Proc. n.º 01262/15), de 15.09.2016 (Proc. n.º 0392/16), de 21.09.2017, do Pleno (Proc. n.º 0567/17) e de 07.11.2019 (Proc. n.º 02915/13.7BELSB); assim como os Acórdãos do Tribunal Central Administrativo Sul de 02.07.2020 e de 18.11.2021 (Proc.os n.<sup>os</sup>237/16.0BELSB e 1570/17.0BELSB, respetivamente)].
+Neste pressuposto, e na parte que releva na economia do presente aresto, à luz do regime vigente, um cidadão estrangeiro que apresente um pedido de aquisição da nacionalidade portuguesa por naturalização, ao abrigo do artigo 6.º da LdN, e que nessa data, por exemplo, ainda não lhe tenha sido cancelada, no registo criminal, uma condenação, com trânsito em julgado da sentença, por prática de crime punível com pena de prisão igual ou superior a três anos, mas que tal venha a suceder na pendência do procedimento - ou do processo em tribunal, no caso de ter sido impugnada uma decisão de indeferimento com esse fundamento -, ver-lhe-á reconhecido o direito à aquisição da nacionalidade, se a tal nada mais obstar, ainda que, à data da apresentação do pedido, não se verificassem todos os requisitos necessários [neste sentido v., a título de mero exemplo, os Acórdãos do Supremo Tribunal Administrativo de 17.12.2014 (Proc. n.º 0490/14), de 21.05.2015 (Proc. n.º 0129/15), de 25.02.2016 (Proc. n.º 01262/15), de 15.09.2016 (Proc. n.º 0392/16), de 21.09.2017, do Pleno (Proc. n.º 0567/17) e de 07.11.2019 (Proc. n.º 02915/13.7BELSB); assim como os Acórdãos do Tribunal Central Administrativo Sul de 02.07.2020 e de 18.11.2021 (Proc.os n.os237/16.0BELSB e 1570/17.0BELSB, respetivamente)].
 
-Ora, o que se pretende determinar, conforme resulta da leitura conjugada dos n.<sup>os</sup>3 e 4 do artigo 7.º do Decreto, é, ao invés, que o único momento relevante para se aferir do preenchimento dos requisitos previstos na LdN vigente seja o da data da apresentação do pedido.
+Ora, o que se pretende determinar, conforme resulta da leitura conjugada dos n.os3 e 4 do artigo 7.º do Decreto, é, ao invés, que o único momento relevante para se aferir do preenchimento dos requisitos previstos na LdN vigente seja o da data da apresentação do pedido.
 
 O que, por exemplo, nos casos em que tenha havido lugar à submissão de um pedido de aquisição da nacionalidade portuguesa por naturalização, ao abrigo do artigo 6.º da LdN, confiando na fórmula de cálculo prevista no artigo 15.º, n.º 4, da LdN vigente, para o cômputo do período de residência legal de 5 anos, não é indiferente e é mesmo contraditório, pois que este regime pressupõe que o pedido de aquisição da nacionalidade tenha dado entrada antes da atribuição de autorização de residência temporária, na medida em que, o que ali se antecipa, é que tal autorização venha a ser deferida.
 
@@ -1398,9 +1738,9 @@ Dito isto, quando no n.º 3 do artigo 7.º do Decreto se determina que o deferim
 
 Resultando, assim, que, pelo menos em alguns dos processos de aquisição da nacionalidade por naturalização, tais como os referidos supra, que estejam pendentes à data da entrada em vigor da LN, o disposto no n.º 3 do artigo 7.º do Decreto terá efeitos retrospetivos, por via do n.º 4 do mesmo artigo 7.º que lhe atribui natureza interpretativa.
 
-Assim será, por exemplo, nos indicados procedimentos que se encontrem pendentes à data da entrada em vigor da LN, confiando que, ao abrigo do artigo 15.º, n.º 4, da LA, se até à data decisão do seu pedido de aquisição da nacionalidade fosse deferido o seu pedido de autorização de residência, o tempo de espera desta decisão seria considerado para o efeito da verificação do requisito de tempo de residência legal na decisão do pedido de nacionalidade. Pois que, e como vimos, se nestes processos se passar a exigir, para que sejam deferidos, o preenchimento dos requisitos necessários à aquisição da nacionalidade à data dos pedidos, tal como decorre dos termos do artigo 7.º, n.<sup>os</sup>3 e 4 do Decreto, o artigo 15.º, n.º 4, da LdN, deixa de ter aplicação nos processos pendentes, assim contrariando, embora de uma forma ínvia, o disposto no n.º 2 deste mesmo artigo 7.º do Decreto, como veremos.
+Assim será, por exemplo, nos indicados procedimentos que se encontrem pendentes à data da entrada em vigor da LN, confiando que, ao abrigo do artigo 15.º, n.º 4, da LA, se até à data decisão do seu pedido de aquisição da nacionalidade fosse deferido o seu pedido de autorização de residência, o tempo de espera desta decisão seria considerado para o efeito da verificação do requisito de tempo de residência legal na decisão do pedido de nacionalidade. Pois que, e como vimos, se nestes processos se passar a exigir, para que sejam deferidos, o preenchimento dos requisitos necessários à aquisição da nacionalidade à data dos pedidos, tal como decorre dos termos do artigo 7.º, n.os3 e 4 do Decreto, o artigo 15.º, n.º 4, da LdN, deixa de ter aplicação nos processos pendentes, assim contrariando, embora de uma forma ínvia, o disposto no n.º 2 deste mesmo artigo 7.º do Decreto, como veremos.
 
-Para avaliar a constitucionalidade desta questão importará aferir da necessidade de previsão de uma norma interpretativa, o que se fará de seguida, tendo como ponto de partida o facto de na Exposição de Motivos que antecede a Proposta de Lei n.º 1/XVII/1.ª não constar qualquer justificação, da parte do legislador, que explique a solução contida no artigo 7.º, n.<sup>os</sup>3 e 4, do Decreto n.º 17/XVII.
+Para avaliar a constitucionalidade desta questão importará aferir da necessidade de previsão de uma norma interpretativa, o que se fará de seguida, tendo como ponto de partida o facto de na Exposição de Motivos que antecede a Proposta de Lei n.º 1/XVII/1.ª não constar qualquer justificação, da parte do legislador, que explique a solução contida no artigo 7.º, n.os3 e 4, do Decreto n.º 17/XVII.
 
 Atentando, depois, na jurisprudência deste Tribunal quanto à previsão de normas interpretativas e cingindo-nos às decisões mais recentes, pode ler-se no [Acórdão n.º 751/2020](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/751-2020-155084436) o seguinte:
 
@@ -1450,7 +1790,7 @@ Verificada uma situação de confiança imputável ao legislador, resta determin
 
 São conhecidas as razões de interesse público que estão subjacentes às alterações à LdN, desde logo, as que foram avançadas pelo legislador na Exposição de Motivos que antecede a Proposta de Lei n.º 1/XVII/1.ª Porém, o legislador não oferece qualquer razão de interesse público para que a alteração legislativa preconizada, para além de ter aplicação imediata aos novos procedimentos, seja imediatamente aplicável também a factos que nasceram no passado, mas que ainda estão em formação no momento em que a nova lei entra em vigor.
 
-Assim sendo, não há dúvida de que o sacrifício que é imposto a estes cidadãos estrangeiros se revela excessivo e é quanto basta para concluir que a norma extraída do disposto nos n.<sup>os</sup>3 e 4 do artigo 7.º do Decreto n.º 17/XVII, no sentido segundo o qual o deferimento dos pedidos de atribuição ou aquisição da nacionalidade, cujo procedimento administrativo esteja pendente à data da entrada em vigor da presente lei, depende do preenchimento, à data dos respetivos pedidos, dos requisitos da [Lei n.º 37/81](https://diariodarepublica.pt/dr/detalhe/lei/37-1981-564050), de 3 de outubro, na redação anterior, viola o princípio da proteção da confiança, ínsito no princípio do Estado de direito, consagrado no artigo 2.º da Constituição.
+Assim sendo, não há dúvida de que o sacrifício que é imposto a estes cidadãos estrangeiros se revela excessivo e é quanto basta para concluir que a norma extraída do disposto nos n.os3 e 4 do artigo 7.º do Decreto n.º 17/XVII, no sentido segundo o qual o deferimento dos pedidos de atribuição ou aquisição da nacionalidade, cujo procedimento administrativo esteja pendente à data da entrada em vigor da presente lei, depende do preenchimento, à data dos respetivos pedidos, dos requisitos da [Lei n.º 37/81](https://diariodarepublica.pt/dr/detalhe/lei/37-1981-564050), de 3 de outubro, na redação anterior, viola o princípio da proteção da confiança, ínsito no princípio do Estado de direito, consagrado no artigo 2.º da Constituição.
 
 III - Decisão
 
@@ -1462,7 +1802,7 @@ b) Pronuncia-se pela inconstitucionalidade da norma extraída da segunda parte d
 
 c) Pronuncia-se pela inconstitucionalidade da norma do n.º 3 do artigo 12.º-B da [Lei n.º 37/81](https://diariodarepublica.pt/dr/detalhe/lei/37-1981-564050), de 3 de outubro, na redação decorrente das alterações introduzidas pelo artigo 2.º do Decreto n.º 17/XVII da Assembleia da República, por violação do artigo 2.º em conjugação com a alínea f) do n.º 1 do artigo 164.º, ambos da Constituição;
 
-d) Pronuncia-se pela inconstitucionalidade da norma extraída dos n.<sup>os</sup>3 e 4 do artigo 7.º do Decreto n.º 17/XVII da Assembleia da República, por violação do artigo 2.º da Constituição;
+d) Pronuncia-se pela inconstitucionalidade da norma extraída dos n.os3 e 4 do artigo 7.º do Decreto n.º 17/XVII da Assembleia da República, por violação do artigo 2.º da Constituição;
 
 e) Não se pronuncia pela inconstitucionalidade das demais normas que integram o pedido.
 
@@ -1630,7 +1970,7 @@ Em suma: o artigo 30.º, n.º 4, da Constituição, qualquer que seja o seu alca
 
 Compreende-se, aliás, tal solução constitucional. Ela não é mais do que um corolário do princípio de Estado de direito democrático (artigo 2.º) nas suas implicações no âmbito da “constituição penal”. Com efeito, a perda de direitos civis, profissionais ou políticos traduz-se materialmente numa verdadeira pena, que não pode deixar de estar sujeita, na sua aplicação, às regras próprias do Estado de direito democrático, designadamente: reserva judicial, princípio da culpa, princípio da necessidade e proporcionalidade das penas, etc.. Ora, no caso das penalizações designadas por “efeitos de penas”, não se respeitam tais princípios, visto que elas decorrem direta e automaticamente da lei, não são aplicadas mediante decisão judicial, não levam em conta as circunstâncias concretas de cada infração penal e de cada agente».
 
-Nesse aresto conclui-se também que: «O militar condenado por qualquer dos crimes referidos no artigo 37.º do Código de Justiça Militar (independentemente da pena) vê-se privado, automaticamente, em consequência dessa pena, do seu emprego, do seu título profissional, e até da pensão a que tenha direito. Qualquer que seja o juízo constitucional que haja de fazer-se das penas de demissão da função pública (e não é caso disso aqui), claramente que ele tem que ser negativo quando a demissão decorre como simples efeito directo de outras penas. A Constituição, é seguro, não permite tal solução legislativa». No mesmo sentido decidiram, no domínio da fiscalização concreta da constitucionalidade, os Acórdãos n.<sup>os</sup>310/85, 75/86 e 94/86 e, no domínio da fiscalização abstrata da constitucionalidade, o [Acórdão n.º 165/86](https://diariodarepublica.pt/dr/detalhe/acordao/165-1986-226857).
+Nesse aresto conclui-se também que: «O militar condenado por qualquer dos crimes referidos no artigo 37.º do Código de Justiça Militar (independentemente da pena) vê-se privado, automaticamente, em consequência dessa pena, do seu emprego, do seu título profissional, e até da pensão a que tenha direito. Qualquer que seja o juízo constitucional que haja de fazer-se das penas de demissão da função pública (e não é caso disso aqui), claramente que ele tem que ser negativo quando a demissão decorre como simples efeito directo de outras penas. A Constituição, é seguro, não permite tal solução legislativa». No mesmo sentido decidiram, no domínio da fiscalização concreta da constitucionalidade, os Acórdãos n.os310/85, 75/86 e 94/86 e, no domínio da fiscalização abstrata da constitucionalidade, o [Acórdão n.º 165/86](https://diariodarepublica.pt/dr/detalhe/acordao/165-1986-226857).
 
 Posteriormente, por várias vezes, o Tribunal Constitucional teve ocasião de considerar desconformes com o artigo 30.º, n.º 4, da Constituição diversas normas do mesmo tipo. Assim, por exemplo:
 
@@ -1652,13 +1992,13 @@ Posteriormente, por várias vezes, o Tribunal Constitucional teve ocasião de co
 
 Não desconhecendo a solução do [Acórdão n.º 748/93](https://diariodarepublica.pt/dr/detalhe/acordao/748-1993-541443) [em que se declarou, com força obrigatória geral, a inconstitucionalidade das normas constantes da alínea c) do artigo 3.º do [Decreto-Lei n.º 319-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-a-1976-655916), de 3 de Maio (Lei Eleitoral do Presidente da República), da alínea c) do n.º 1 do artigo 2.º da [Lei n.º 14/79](https://diariodarepublica.pt/dr/detalhe/lei/14-1979-382590), de 16 de Maio (Lei Eleitoral para a Assembleia da República), da alínea c) do artigo 2.º do [Decreto-Lei n.º 267/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1980-470458), de 8 de Agosto (Lei Eleitoral da Assembleia Legislativa Regional dos Açores), e da alínea c) do artigo 3.º do [Decreto-Lei n.º 701-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/701-b-1976-223433), de 29 de Setembro (Lei Eleitoral dos Órgãos das Autarquias Locais), na parte em que estabeleciam a incapacidade eleitoral ativa dos definitivamente condenados a pena de prisão por crime doloso (ou por crime doloso infamante) enquanto não houvesse expiado a respetiva pena, abrangendo, portanto, também situações em que a condenação constituía a definição de um requisito negativo de exercício de determinado direito], esta é a jurisprudência tradicional do Tribunal e ilustra bem o campo de aplicação do artigo 30.º, n.º 4, da Constituição: «afasta[r] a conexão automática entre a condenação penal e a privação de direitos e exclu[ir], assim, os efeitos estigmatizantes dessa condenação [...], assegurando a jurisdicionalidade da aplicação do direito penal», em concretização dos princípios constitucionais da dignidade, da culpa, da necessidade e adequação das penas e da igualdade - cf. o Acórdão n.º 371/92.
 
-Mais tarde, a partir dos Acórdãos n.<sup>os</sup>[562/2003](https://diariodarepublica.pt/dr/detalhe/acordao/562-2003-532273) e [154/2004](https://diariodarepublica.pt/dr/detalhe/acordao/154-2004-223589) e, sobretudo, 239/2008 e 473/2009, começou a assistir-se a uma viragem da jurisprudência quanto ao âmbito de aplicação do artigo 30.º, n.º 4, da Constituição, no sentido de o estender às referidas situações em que a não condenação pela prática de um crime constitui critério de idoneidade para o exercício de certos direitos ou o acesso a determinadas atividades ou profissões.
+Mais tarde, a partir dos Acórdãos n.os[562/2003](https://diariodarepublica.pt/dr/detalhe/acordao/562-2003-532273) e [154/2004](https://diariodarepublica.pt/dr/detalhe/acordao/154-2004-223589) e, sobretudo, 239/2008 e 473/2009, começou a assistir-se a uma viragem da jurisprudência quanto ao âmbito de aplicação do artigo 30.º, n.º 4, da Constituição, no sentido de o estender às referidas situações em que a não condenação pela prática de um crime constitui critério de idoneidade para o exercício de certos direitos ou o acesso a determinadas atividades ou profissões.
 
 Ainda assim, além da declaração de voto do Juiz Conselheiro Carlos Pamplona de Oliveira no [Acórdão n.º 562/2003](https://diariodarepublica.pt/dr/detalhe/acordao/562-2003-532273) - «[o] alcance daquelas normas não representa um efeito automático de sanção disciplinar, eventualmente proibido pelo [artigo 30.º, n.º 4] da Constituição», «[o] que se passa é que o cometimento da infracção, ainda que disciplinar, tem naturalmente outros efeitos de natureza não penal, não previstos nem proibidos na aludida norma, pelo que a questão se reconduz a saber se a solução legal ofende, ou não ofende, o princípio da proporcionalidade consagrado no artigo 18.º, n.º 2, da Constituição» -, destacam-se os votos de vencido, em Declaração conjunta, dos Juízes Conselheiros Benjamim Rodrigues, Joaquim de Sousa Ribeiro, Maria Lúcia Amaral e Rui Manuel Moura Ramos apostos ao [Acórdão n.º 473/2009](https://diariodarepublica.pt/dr/detalhe/acordao/473-2009-3032087), dissentindo do juízo de inconstitucionalidade nele formulado por aplicação do artigo 30.º, n.º 4, CRP, nos seguintes termos:
 
 «Não partilhamos do juízo de inconstitucionalidade formulado quanto ao artigo 13.º da [Lei n.º 27/96](https://diariodarepublica.pt/dr/detalhe/lei/27-1996-407284), de 1 de Agosto [a condenação definitiva dos membros dos órgãos autárquicos em qualquer dos crimes de responsabilidade previstos e definidos na [Lei n.º 34/87](https://diariodarepublica.pt/dr/detalhe/lei/34-1987-420430), de 16 de Julho, implica a sua inelegibilidade nos actos eleitorais destinados a completar o mandato interrompido e nos subsequentes que venham a ter lugar no período de tempo correspondente a novo mandato completo, em qualquer órgão autárquico»], norma em que se baseia a decisão recorrida. Na verdade, esta disposição não consagra, em nosso entender, um efeito da sentença condenatória proibido pelo n.º 4 do artigo 30.º da Constituição. Trata-se de uma regra de direito eleitoral que, ao regular o regime das inelegibilidades para as candidaturas às autarquias locais, atribui relevância, como pressuposto de facto, à anterior prolação de uma sentença condenatória por crimes de responsabilidade dos titulares dos cargos políticos. Por não se tratar uma sanção penal, encontra-se vedado ao juiz do respectivo processo a constituição por sentença desse efeito jurídico. Estamos perante um efeito ex lege que encontra credencial constitucional bastante no artigo 50.º, n.º 3, da Constituição, que apenas exclui que o legislador possa estabelecer inelegibilidades que não sejam necessárias para garantir inter alia “a isenção e independência dos respectivos cargos”. Ora é incontroverso que a razão de ser da norma cabe na previsão do normativo constitucional no segmento referido. E a isto não se opõe o princípio consagrado no artigo 30.º, n.º 4. Na verdade, não estando vedado o estabelecimento de inelegibilidades por via geral e abstracta, em função dos objectivos que com tal previsão se procuram acautelar, não faria sentido que tal fosse excluído pela circunstância de a situação que conduz à inelegibilidade integrar, como pressuposto de facto, a existência de uma sentença penal condenatória. No mínimo, não se pode entender que a existência de uma tal sentença contrarie ou enfraqueça o valor indiciário dos factos tidos em consideração. Não pode assim dar-se ao artigo 30.º, n.º 4, um alcance tal que limite desta forma o exercício de uma competência legislativa constitucionalmente modelada» (sublinhado acrescentado).
 
-No domínio da aquisição da nacionalidade portuguesa, a referida tendência viria a manifestar-se nos Acórdãos n.<sup>os</sup>[331/2016](https://diariodarepublica.pt/dr/detalhe/acordao/331-2016-74672380) e 497/2019, reiterados pelos Acórdãos n.<sup>os</sup>534/2021, 127/2023 e 846/2023. Não sem antes, porém, no Acórdão n.º 106/2016, a propósito da alínea b) do artigo 9.º da Lei da Nacionalidade e da alínea b) do n.º 2 do artigo 56.º do Regulamento da Nacionalidade, relativas ao impedimento de adquirir a nacionalidade portuguesa decorrente da condenação em pena de prisão de máximo igual ou superior a três anos, se ter defendido a seguinte posição (ponto 19.1):
+No domínio da aquisição da nacionalidade portuguesa, a referida tendência viria a manifestar-se nos Acórdãos n.os[331/2016](https://diariodarepublica.pt/dr/detalhe/acordao/331-2016-74672380) e 497/2019, reiterados pelos Acórdãos n.os534/2021, 127/2023 e 846/2023. Não sem antes, porém, no Acórdão n.º 106/2016, a propósito da alínea b) do artigo 9.º da Lei da Nacionalidade e da alínea b) do n.º 2 do artigo 56.º do Regulamento da Nacionalidade, relativas ao impedimento de adquirir a nacionalidade portuguesa decorrente da condenação em pena de prisão de máximo igual ou superior a três anos, se ter defendido a seguinte posição (ponto 19.1):
 
 «Não se afigura, porém, poder reconhecer-se nas normas legais em causa a consagração de um efeito (automático, necessário) da sentença condenatória por crime punível com pena de prisão de máximo igual ou superior a três anos que se mostre proibido pelo disposto no artigo 30.º, n.º 4, da Constituição.
 
@@ -1873,3 +2213,5 @@ No tempo apertado da fiscalização preventiva, aqui processualmente duplicada, 
 Acresce que, quanto aos fundamentos de oposição à aquisição da nacionalidade por efeito da vontade, se procurou concretizar a tradicional «inexistência de ligação efectiva à comunidade nacional», em termos que, do ponto de vista jurídico-constitucional, não me merecem censura. Numa época em que ameaças de diferentes quadrantes desafiam o Estado Constitucional, em termos de princípios, valores e instituições representativas, é relevante tirar consequências da diferença entre o dizer/prometer e o agir, quando estão em causa aspetos essenciais da comunidade. Desta forma, procura-se limitar a possibilidade de declarações meramente instrumentais, tendo em vista a obtenção da cidadania. No acesso a esta, importa que seja assegurada a existência de um patamar do comum que comprove essa efetividade, em termos de uma integração que cirza as suas várias dimensões. Nelas se integra a cultura, também uma cultura constitucional, que liga pátria ou mátria (a comunidade nacional) e valores e direitos fundamentais, no quadro de um Estado de direito, democrático e social.
 
 Pois, como escreveu Teixeira de Pascoaes, «Ser português é também uma Arte, e uma arte de grande alcance nacional, e, por isso, bem digna de cultura» (Arte de ser português, Porto, Edição da «Renascença Portuguesa», 1915, p. 17). - João Carlos Loureiro.
+
+119939442

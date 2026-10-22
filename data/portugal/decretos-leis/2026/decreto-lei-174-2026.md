@@ -46,26 +46,36 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/174/2026/09/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2026-1166155907
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-03T00:00:00Z'
+  retrieved_at: '2026-10-22T18:52:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 428ba96e912e754f1168f332be7d9bc08f14d760bc30139156324d0d083aa590
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0beea14ec028efd9b54fb90718f738b7fe8aad1e36cc9d2e6540be17f0375e33
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:52:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Feriado
+- Museus e Monumentos de Portugal
+- Regime Laboral
+- Remuneração Complementar
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:79/2023
+  label: Adita, com efeitos a 1 de abril de 2026, o artigo 11.º-A ao Decreto-Lei n.º 79/2023, de 4 de setembro, Diário da
+    República n.º 171/2023, Série I
+  source: null
+  date: '2023-09-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/17/2024/01/29/p/dre
   label: null
@@ -78,16 +88,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/79/2023/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/79/2023/09/04/p/dre
+- type: cites
+  target: pt:dre:221225700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:839477381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:913816379:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:52:17Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +126,7 @@ Este processo negocial teve como principal objetivo a identificação de medidas
 
 Reconhecendo a relevância da valorização das funções desempenhadas, com particular impacto para a promoção da atividade cultural destes equipamentos, bem como para o desenvolvimento das atividades económicas que lhe estão associadas, é criado um complemento de disponibilidade em dia normal de trabalho coincidente com dia feriado, aplicável a esses trabalhadores.
 
-Nesse contexto, procede-se à alteração do [Decreto-Lei n.º 79/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2023-221225700), de 4 de setembro, alterado pelos Decretos-Leis n.<sup>os</sup>[17/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), de 29 de janeiro, e [62/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2025-913816379), de 4 de abril, que procede à criação da Museus e Monumentos de Portugal, E. P. E., de modo a estabelecer a criação do referido complemento de disponibilidade.
+Nesse contexto, procede-se à alteração do [Decreto-Lei n.º 79/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2023-221225700), de 4 de setembro, alterado pelos Decretos-Leis n.os[17/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), de 29 de janeiro, e [62/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2025-913816379), de 4 de abril, que procede à criação da Museus e Monumentos de Portugal, E. P. E., de modo a estabelecer a criação do referido complemento de disponibilidade.
 
 Foram ouvidas as estruturas sindicais representativas dos trabalhadores da Museus e Monumentos de Portugal, E. P. E.
 
@@ -114,7 +136,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto-lei procede à terceira alteração ao [Decreto-Lei n.º 79/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2023-221225700), de 4 de setembro, alterado pelos Decretos-Leis n.<sup>os</sup>[17/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), de 29 de janeiro, e [62/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2025-913816379), de 4 de abril, que procede à criação da Museus e Monumentos de Portugal, E. P. E.
+O presente decreto-lei procede à terceira alteração ao [Decreto-Lei n.º 79/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2023-221225700), de 4 de setembro, alterado pelos Decretos-Leis n.os[17/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), de 29 de janeiro, e [62/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2025-913816379), de 4 de abril, que procede à criação da Museus e Monumentos de Portugal, E. P. E.
 
 ###### Artigo 2.º — Aditamento ao [Decreto-Lei n.º 79/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2023-221225700), de 4 de setembro
 
@@ -134,12 +156,14 @@ O disposto no artigo anterior produz efeitos a partir de 1 de abril de 2026.
 
 Visto e aprovado em Conselho de Ministros de 3 de julho de 2026. - Luís Montenegro - João Alexandre da Silva Lopes - Margarida Balseiro Lopes.
 
-**Promulgado em 28 de agosto de 2026.**
+Promulgado em 28 de agosto de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 31 de agosto de 2026.**
+Referendado em 31 de agosto de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119949515

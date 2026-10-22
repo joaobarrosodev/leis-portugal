@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43014-1960-503661
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-06-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:18:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32c3dde20b273d53a39bbdcc9a378cf9bbb081697e5f760a0636f7e0d47c2fd8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25aa27c821df063a4f8820c0bd1db4071086decb2efc3dae1c6fd295b2335fb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:18:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:18:21Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +90,15 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Quando as conveniências de serviço o impuserem, o Ministro do Ultramar poderá prover os cargos de reitor ou de director de qualquer estabelecimento de ensino liceal ou de correspondente grau do ensino profissional nas províncias ultramarinas, nomeando em comissão pessoa de reconhecida competência, com um curso de nível não inferior ao exigido aos professores efectivos do respectivo estabelecimento e, sempre que for possível, da mesma modalidade de ensino.
+Artigo 1.º Quando as conveniências de serviço o impuserem, o Ministro do Ultramar poderá prover os cargos de reitor ou de director de qualquer estabelecimento de ensino liceal ou de correspondente grau do ensino profissional nas províncias ultramarinas, nomeando em comissão pessoa de reconhecida competência, com um curso de nível não inferior ao exigido aos professores efectivos do respectivo estabelecimento e, sempre que for possível, da mesma modalidade de ensino.
 
-###### Art. 2.º Os reitores e directores nomeados segundo o presente decreto terão direito aos vencimentos que competem aos professores efectivos dos respectivos estabelecimentos, segundo a classe mais elevada, e à gratificação legalmente estabelecida, quando outra lhes não for atribuída pelo Ministro, em portaria.
+Art. 2.º Os reitores e directores nomeados segundo o presente decreto terão direito aos vencimentos que competem aos professores efectivos dos respectivos estabelecimentos, segundo a classe mais elevada, e à gratificação legalmente estabelecida, quando outra lhes não for atribuída pelo Ministro, em portaria.
 
 § único. Se forem professores oficiais da mesma modalidade de ensino, desempenharão serviço lectivo segundo as disposições estatutárias ou regulamentares aplicáveis àqueles cargos.
 
-###### Art. 3.º As remunerações referidas no artigo 2.º serão satisfeitas pela verba de duplicação de vencimentos do respectivo capítulo enquanto não estiver inscrita no orçamento a dotação necessária.
+Art. 3.º As remunerações referidas no artigo 2.º serão satisfeitas pela verba de duplicação de vencimentos do respectivo capítulo enquanto não estiver inscrita no orçamento a dotação necessária.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Junho de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

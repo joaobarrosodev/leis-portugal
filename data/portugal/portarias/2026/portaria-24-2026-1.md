@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/24/2026/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24-2026-1017369028
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-21T00:00:00Z'
+  retrieved_at: '2026-10-22T18:29:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9de35ba8ba7ead8ede5abafa60afe9e242df32620585e12f04a73d047f7343b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b988472e06a788237ad0ff07acdd8e68b7facac0963db651f7730ad1d2d5796
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:29:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Contrato Coletivo de Trabalho
-- Regime Laboral
+- Contrato de Trabalho
 - Faro
 - Indústria Hoteleira
-- Contrato de Trabalho
+- Regime Laboral
 - Regulamento de Extensão
 - Relações de Trabalho
 - Sitese
@@ -80,16 +80,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/82/2017/06/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/82/2017/06/09/p/dre
+- type: cites
+  target: pt:dre:107495701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:927634612:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:29:37Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +122,7 @@ Considerando que a convenção coletiva regula diversas condições de trabalho,
 
 Considerando ainda que a anterior extensão do contrato coletivo não é aplicável aos empregadores filiados na Associação dos Industriais Hoteleiros e Similares do Algarve - AIHSA, na Associação da Hotelaria, Restauração e Similares de Portugal (AHRESP) e na APHORT - Associação Portuguesa de Hotelaria, Restauração e Turismo, nem aos trabalhadores filiados em sindicatos representados pela FESAHT - Federação dos Sindicatos da Agricultura, Alimentação, Bebidas, Hotelaria e Turismo de Portugal, por oposição das referidas associações, mantém-se na presente extensão a exclusão dos referidos associados.
 
-Nos termos da alínea c) do n.º 1 do artigo 478.º do Código do Trabalho e dos n.<sup>os</sup> 2 e 4 da referida RCM, na fixação da eficácia das cláusulas de natureza pecuniária foi tido em conta a data do depósito da convenção e o termo do prazo para a emissão da portaria de extensão, com produção de efeitos a partir do primeiro dia do mês em causa.
+Nos termos da alínea c) do n.º 1 do artigo 478.º do Código do Trabalho e dos n.os 2 e 4 da referida RCM, na fixação da eficácia das cláusulas de natureza pecuniária foi tido em conta a data do depósito da convenção e o termo do prazo para a emissão da portaria de extensão, com produção de efeitos a partir do primeiro dia do mês em causa.
 
 Foi publicado o aviso relativo ao projeto da presente extensão no Boletim do Trabalho e Emprego, separata, n.º 20, de 17 de dezembro de 2025, ao qual foi deduzida oposição por parte da Associação da Hotelaria de Portugal (AHP), requerendo a exclusão dos seus associados do âmbito de aplicação da extensão, alegando, em síntese, a existência de convenções coletivas próprias, com portaria de extensão.
 
@@ -144,4 +152,6 @@ b) Às relações de trabalho entre empregadores filiados na associação de emp
 
 2 - A tabela salarial e as cláusulas de natureza pecuniária previstas na convenção produzem efeitos a partir de 1 de julho de 2025.
 
-**O Secretário de Estado Adjunto e do Trabalho, Adriano Rafael Sousa Moreira, em 9 de janeiro de 2026.**
+O Secretário de Estado Adjunto e do Trabalho, Adriano Rafael Sousa Moreira, em 9 de janeiro de 2026.
+
+119947313

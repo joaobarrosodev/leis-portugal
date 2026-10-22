@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 277/1998, 1º Suplemento, Série I-A de 1998-11-30
   number: '277'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6638-(2) a 6638-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/11/277a01/00020003.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/22-c/1998/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-c-1998-406284
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:51:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f2215edfd744c8417b879c21c2d372ef34e7cec10344d4dbed32c2664fd9c27
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 742705a36694139b0ca8ddfe5347a9467290fc3b277913a7e54342b5549935f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:51:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,52 +67,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Agrícola
-- Atividade Industrial
+- Abastecimento de Água
 - Água
 - ÁGUA de REGA
 - ÁGUA Potável
 - ÁGUA Superficial
 - Águas Balneares
+- Águas Subterrâneas
 - Aproximação das Legislações
-- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
-- Instituto da ÁGUA
-- Direção Geral da Saúde
-- Serviço Nacional de Protecção Civil
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Aquicultura
+- Atividade Agrícola
+- Atividade Industrial
+- Certificado de Qualidade
 - Contrato de Adaptação Ambiental
 - Contrato de Promoção Ambiental
 - Controlo de Qualidade
-- Recursos Hídricos
+- Controlo Sanitário
 - Definição de Competências
 - Descarga de ÁGUA Residual
+- Direção Geral da Saúde
 - Direcção Geral das Florestas
 - Direcção Geral das Pescas e Aquicultura
+- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
 - Direcção Geral de Protecção das Culturas
 - Direcção Geral do Ambiente
 - Direcção Regional de Agricultura
 - Direcção Regional do Ambiente
-- Mar Territorial
-- Controlo Sanitário
-- Saúde Pública
 - Fiscalização
+- Gabinete de Relações Internacionais
 - Gestão dos Recursos
 - Inspecção Geral do Ambiente
+- Instituto da ÁGUA
 - Instituto da Conservação da Natureza
 - Instituto de Investigação das Pescas e do Mar
 - Licenciamento
-- Certificado de Qualidade
+- Mar Territorial
 - Meio Aquático
-- Gabinete de Relações Internacionais
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Ministério da Saúde
 - Ministério do Ambiente
-- Aquicultura
-- Proteção do Ambiente
+- Ministério dos Negócios Estrangeiros
 - Poluição da água
 - Poluição Industrial
-- Ministério da Saúde
-- Águas Subterrâneas
-- Ministério dos Negócios Estrangeiros
-- Abastecimento de Água
+- Proteção do Ambiente
+- Recursos Hídricos
+- Saúde Pública
+- Serviço Nacional de Protecção Civil
 - Tratamento de ÁGUA
 relationships:
 - type: cites
@@ -123,16 +123,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/46/1994/02/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/46/1994/02/22/p/dre
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:51:41Z'
   warnings: []
   errors: []
 ---
@@ -165,11 +177,11 @@ Na col. «Expressão dos resultados», relativa ao parâmetro «Azoto amoniacal�
 
 No anexo VI onde se lê:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/11/277a01/00020003.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/11/277a01/00020003.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277a01/00020003.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277a01/00020003.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277a01/00020003.pdf)
 
 deve ler-se:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/11/277a01/00020003.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/11/277a01/00020003.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277a01/00020003.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277a01/00020003.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277a01/00020003.pdf)
 
 Na col. 2 do anexo VI, onde se lê «Expansão de resultados» deve ler-se «Expressão de resultados».
 
@@ -207,11 +219,11 @@ deve ler-se «Hidrocarbonetos policíclicos aromáticos»
 
 No anexo VI onde se lê:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/11/277a01/00020003.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/11/277a01/00020003.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277a01/00020003.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277a01/00020003.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277a01/00020003.pdf)
 
 deve ler-se:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/11/277a01/00020003.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/11/277a01/00020003.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277a01/00020003.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277a01/00020003.pdf)](https://files.diariodarepublica.pt/1s/1998/11/277a01/00020003.pdf)
 
 Na col. «Métodos analíticos de referência», relativa ao parâmetro «Coliformes totais», do quadro E) do anexo VI, aditar o parágrafo «Temperatura de incubação 37º.».
 

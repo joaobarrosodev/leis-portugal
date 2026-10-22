@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 25/1994, 2º Suplemento, Série I-B de 1994-01-31
   number: '25'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 472-(9) a 472-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/01/025b02/00090009.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/12/1994/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/12-1994-287835
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-08-09T00:00:00Z'
+  retrieved_at: '2026-10-22T18:40:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e71c804239f4c46a160cd781d4eedc01d6f9e43e0d9e7f9466dbb1833e70028
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed74507f22ce07e322edb684e0045891e0fc5fe45b91e8706680c3d3a426601a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:40:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,25 +74,34 @@ relationships:
   target: pt:dre:1893664:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1893664:por
+  label: "ALTERADA A AL. B) PELA PORT.1197/2000(2ªSÉRIE).2000.07.27.SETF-MF, DR.IIS [183] DE 8/AGO/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1197-2000-1893664
+  date: '2000-08-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1304/1993/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1304/1993/12/27/p/dre
+- type: cites
+  target: pt:dre:167819:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:40:12Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 12/94
+# Declaração de rectificação n.º 12/94
 
 Segundo comunicação do Ministério da Saúde, a [Portaria n.º 1304/93](https://diariodarepublica.pt/dr/detalhe/portaria/1304-1993-167819), publicada no Diário da República, 1.ª série, n.º 300, de 27 de Dezembro de 1993, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
 

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 125/1998, 3º Suplemento, Série I-B de 1998-05-30
   number: '125'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 2510-(9) a 2510-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/05/125b03/00090010.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/10-f/1998/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-f-1998-248867
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-05-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:50:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98dd384edf464a19b13bb486052824fd75fcb4338397fa178c6dbe995a69e544
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29526a664759f68eae296a413286177eb62355d0ef3da3fcbdfb40f649cdac52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:50:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Plano Nacional de Emprego
-- Jovem Trabalhador
 - Criação de Emprego
+- Formação Profissional
+- Jovem Trabalhador
 - Mercado de Emprego
+- Plano Nacional de Emprego
+- Política de Emprego
 - Programa de Acção
 - Promoção de Emprego
-- Política de Emprego
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/59/1998/05/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/59/1998/05/06/p/dre
+- type: cites
+  target: pt:dre:516911:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:50:29Z'
   warnings: []
   errors: []
 ---

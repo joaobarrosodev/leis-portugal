@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/5/2002/02/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:01:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2336ec46241d3b02f9b261b76ab6f49c3e5dab9e3ab293f2f6f50cf01c9b7b62
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e5125ab761c056605f6a9a9afa67d89c1484637325d09f6feb7fdda73b3cb48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:01:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,22 +70,28 @@ reuse:
 subjects:
 - Administração Fiscal
 - Crime
-- Processo Penal
+- Direito Penal
 - Instituição de Crédito
+- Instituição Financeira
 - Instrução Criminal
 - Instrução Processual
-- Sanção Penal
-- Processo Judicial
-- Direito Penal
-- Ministério Público
-- Segredo Profissional
 - Investigação Criminal
-- Instituição Financeira
+- Ministério Público
+- Processo Judicial
+- Processo Penal
+- Sanção Penal
+- Segredo Profissional
 relationships:
 - type: amended_by
   target: pt:dre:191534:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:191534:por
+  label: "Alterados os art.s 2º, 4º e 13º da Lei 5/2002, de 11-jan, retificados pela presente declaração, pelo DEC LEI.242/2012.07.11.2012.MF,\
+    \ DR.IS [215] de 07.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-2012-191534
+  date: '2012-11-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/275-a/2000/11/09/p/dre
   label: null
@@ -114,16 +120,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/90/1999/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/90/1999/07/10/p/dre
+- type: cites
+  target: pt:dre:353541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626426:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:01:08Z'
   warnings: []
   errors: []
 ---

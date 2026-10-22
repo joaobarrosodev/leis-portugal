@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/01/02100/0000400031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/1/2020/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/1-2020-128597455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-01-30T00:00:00Z'
+  retrieved_at: '2026-10-22T17:54:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2ba1afc6fc7ba312f1675614dcf5280dde50b813ce451ca2bcbf3d2d25dea96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a6371279d87bc113e46711aa331c09d68e8759521aab2bcac731837d19b5c88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:54:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Processo Civil
 - Código do Processo Civil
 - Interpretação do Direito
 - Jurisprudencia
+- Processo Civil
+- Recurso
 - Supremo Tribunal de Justiça
 relationships:
 - type: cites
@@ -84,13 +84,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:54:19Z'
   warnings: []
   errors: []
 ---
@@ -718,3 +718,5 @@ Votei vencida, por, mantendo orientação assumida anteriormente na decisão sum
 3.2 - Afigura-se ser esta orientação tanto mais conveniente e razoável quanto, incidindo o recurso subordinado sobre objecto materialmente não autónomo em relação ao objecto do recurso independente, estarão em causa, num e noutro, questões conexas ou até mesmo sobreponíveis, pelo que o seu conhecimento constitui condição necessária para o justo desfecho da lide; situação paradigmática será aquela em que tanto no recurso independente como no recurso subordinado vem impugnada decisão de fixação de montante indemnizatório.
 
 3.3 - A admissibilidade, como regra, do recurso subordinado é pois imposta pelo respeito pelo princípio da igualdade das partes, vertente essencial da garantia de um processo equitativo, consagrada no n.º 4 do artigo 20.º da Constituição da República Portuguesa. - Maria da Graça Trigo.
+
+112940133

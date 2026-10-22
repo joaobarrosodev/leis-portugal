@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/31/2026/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/31-2026-1057506181
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-23T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c59e0fb074a349ecea717664fa5f89d440a33b01a76f61b0239bb3ae8ec81bed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d30e9181950cd2a368bced30ce726340141916adf1f902de74403ab915ba7e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ subjects:
 - Conselho de Administração
 - Nomeação
 - Presidente
-- Vogal
 - Unidade Local de Saúde de São José
+- Vogal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133/2013/10/03/p/dre
@@ -91,16 +91,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
+- type: cites
+  target: pt:dre:174246923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:58Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +143,7 @@ Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](h
 
 Assim:
 
-Nos termos dos n.<sup>os</sup>2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, do artigo 12.º, dos n.<sup>os</sup>1 a 3 do artigo 13.º, do artigo 15.º, da alínea c) do n.º 3 do artigo 20.º e do n.º 8 do artigo 28.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos dos n.os2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, do artigo 12.º, dos n.os1 a 3 do artigo 13.º, do artigo 15.º, da alínea c) do n.º 3 do artigo 20.º e do n.º 8 do artigo 28.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Designar, para exercerem funções no conselho de administração da Unidade Local de Saúde de São José, E. P. E., o presidente e cinco vogais executivos, para um mandato de três anos, até ao limite de três renovações consecutivas, cuja idoneidade, experiência e competências profissionais para o desempenho do cargo são evidenciadas nas respetivas notas curriculares, que constam do anexo à presente resolução e da qual faz parte integrante:
 
@@ -163,11 +187,11 @@ Entre maio de 2014 e fevereiro de 2015 foi vogal executivo do conselho de admini
 
 Entre novembro de 2013 e maio de 2014 foi consultor na AGS Consulting, onde realizou trabalhos de diagnóstico operacional, definição de planos estratégicos e de negócio, estruturações de negócios e elaboração de projetos de investimento.
 
-Entre maio de 2005 e setembro de 2013 foi diretor do grupo ICIL - Instituto Clínico, L.<sup>da</sup>, tendo sido responsável pela gestão global de uma unidade clínica, com responsabilidades nas áreas administrativa e financeira, de recursos humanos, de aprovisionamento, de manutenção e comercial ao nível da unidade, fazendo a competente articulação com os serviços centrais da empresa.
+Entre maio de 2005 e setembro de 2013 foi diretor do grupo ICIL - Instituto Clínico, L.da, tendo sido responsável pela gestão global de uma unidade clínica, com responsabilidades nas áreas administrativa e financeira, de recursos humanos, de aprovisionamento, de manutenção e comercial ao nível da unidade, fazendo a competente articulação com os serviços centrais da empresa.
 
 Entre junho de 2002 e maio de 2005 foi vogal do conselho de administração da Administração Regional de Saúde do Norte, entidade do SNS, com responsabilidades diretas na área de gestão de recursos humanos, na gestão regional dos programas de recuperação de listas de esperas cirúrgicas (PECLEC e SIGIC), na coordenação do trabalho da área de informática e sistemas de informação. Foi ainda secretário da mesa da assembleia geral da Unidade Local de Saúde de Matosinhos, S. A., e do Hospital Padre Américo, S. A., e membro da Unidade de Gestão do PO Saúde XXI (vertente FSE) e da Comissão de Acompanhamento do PO Saúde XXI.
 
-Entre janeiro de 1995 e abril de 2002 foi diretor comercial e financeiro de J. Costa, L.<sup>da</sup>, tendo responsabilidades na angariação e gestão de uma carteira de clientes de exportação, dinamização da participação da empresa em feiras internacionais, na negociação de apoios financeiros com a banca e na definição de contratos de fornecimento com os principais fornecedores.
+Entre janeiro de 1995 e abril de 2002 foi diretor comercial e financeiro de J. Costa, L.da, tendo responsabilidades na angariação e gestão de uma carteira de clientes de exportação, dinamização da participação da empresa em feiras internacionais, na negociação de apoios financeiros com a banca e na definição de contratos de fornecimento com os principais fornecedores.
 
 É fluente na língua inglesa, tanto na escrita como na fala. Tem bons conhecimentos nas línguas francesa e espanhola.
 
@@ -312,3 +336,5 @@ Organizou e participou como preletora ou formadora em diversos cursos e eventos 
 É membro da Comissão de Acompanhamento e Monitorização do Plano Nacional para a Segurança dos Doentes 2021-2026, coordenado pela Direção-Geral da Saúde. Participou em órgãos sociais de várias associações científicas, tendo sido cofundadora da Associação Nacional de Controlo de Infeção e da Sociedade Portuguesa de Literacia em Saúde.
 
 É autora e coautora de diversos artigos, conferencista e colaborou no ensino e orientação de estudantes em trabalhos académicos nas áreas da segurança do doente, gestão do risco, envolvimento do doente e família, patient advocacy, literacia em saúde, prevenção e controlo da infeção e auditoria clínica.
+
+119947742

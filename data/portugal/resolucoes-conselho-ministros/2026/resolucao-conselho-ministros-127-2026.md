@@ -102,6 +102,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/54/2022/08/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/54/2022/08/12/p/dre
+- type: cites
+  target: pt:dre:187413390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1143173401:por
+  label: Retificado , o 3.º parágrafo do preâmbulo da presente Resolução do Conselho de Ministros, pelo(a) Declaração de Retificação
+    n.º 25/2026/1 - Diário da República n.º 126/2026, Série I de 2026-07-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/25-2026-1143173401
+  date: '2026-07-02'
 article_structure:
   article_count: 0
   section_count: 0

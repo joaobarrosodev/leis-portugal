@@ -25,9 +25,7 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -48,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/12/2026/01/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2026-1019913911
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-11T00:00:00Z'
+  retrieved_at: '2026-10-22T18:29:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22c40be602803ac404972a158e0469022b7f1ce3663dc7043211e248d1132f8a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf49f07e65de513d4e9cdf4df0e3a693ce42100c841fdff287fa4b7395b7b180
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:29:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Assistência Médica
-- Serviço Nacional de Saúde
-- Gestão Hospitalar
 - Administração Central do Sistema de Saúde
-- Cuidados Médicos
+- Assistência Médica
 - Cirurgia
-- Sistema Informático de Apoio à Gestão da Lista de Inscritos
+- Cuidados Médicos
 - Direção Executiva do Serviço Nacional de Saúde
+- Gestão Hospitalar
+- Serviço Nacional de Saúde
+- Sistema Informático de Apoio à Gestão da Lista de Inscritos
 - Sistema Nacional de Acesso a Consulta e Cirurgia
 relationships:
 - type: amended_by
@@ -97,16 +95,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/79/2004/06/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/79/2004/06/24/p/dre
+- type: cites
+  target: pt:dre:124417108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:271255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571943:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1045423489:por
+  label: Retificada a alínea c) do artigo 7.º pelo(a) Declaração de Retificação n.º 6/2026/1 - Diário da República n.º 29/2026,
+    Série I de 2026-02-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/6-2026-1045423489
+  date: '2026-02-11'
+- type: repeals
+  target: pt:numero:resolucao-conselho-ministros:79/2004
+  label: Revoga, a partir de 23 de janeiro de 2026, a Resolução do Conselho de Ministros n.º 79/2004, de 24 de junho, Diário
+    da República n.º 147/2004, Série I-B
+  source: null
+  date: '2004-06-24'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:29:47Z'
   warnings: []
   errors: []
 ---
@@ -275,12 +305,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de outubro de 2025. - Luís Montenegro - Ana Paula Martins.
 
-**Promulgado em 9 de janeiro de 2026.**
+Promulgado em 9 de janeiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 14 de janeiro de 2026.**
+Referendado em 14 de janeiro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119947337

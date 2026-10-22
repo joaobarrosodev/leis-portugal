@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43688-1961-171105
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-05-12T00:00:00Z'
+  retrieved_at: '2026-10-22T19:23:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88fcc6ae0c520cd3c26923c374776927620cac5d67d92ecdf06d0982d2619706
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: afc7edb11f13f3dabba1a2fc87f560ce73aa530e7eeff3c44bc0fe626917e547
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:23:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429585:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:23:51Z'
   warnings: []
   errors: []
 ---
@@ -94,25 +98,25 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Nos liceus do ultramar cujos meios pedagógicos o consintam podem os governadores autorizar o funcionamento de serviços docentes especiais, do respectivo plano de estudos, destinados a indivíduos que, por virtude das suas ocupações, não possam aproveitar a frequência do serviço normal, se não houver na localidade instituto de ensino particular a que possam recorrer.
+Artigo 1.º Nos liceus do ultramar cujos meios pedagógicos o consintam podem os governadores autorizar o funcionamento de serviços docentes especiais, do respectivo plano de estudos, destinados a indivíduos que, por virtude das suas ocupações, não possam aproveitar a frequência do serviço normal, se não houver na localidade instituto de ensino particular a que possam recorrer.
 
-###### Art. 2.º O serviço docente permitido nos termos deste decreto é designado «serviço liceal extraordinário» e funciona segundo os preceitos do Estatuto do Ensino Liceal, observadas as disposições do presente decreto.
+Art. 2.º O serviço docente permitido nos termos deste decreto é designado «serviço liceal extraordinário» e funciona segundo os preceitos do Estatuto do Ensino Liceal, observadas as disposições do presente decreto.
 
-###### Art. 3.º O serviço liceal extraordinário funciona por disciplinas independentes e o aproveitamento em cada uma é válido para a aquisição da habilitação total do ano a que ela respeita, se o aluno satisfizer, quanto às demais disciplinas do mesmo ano, as condições regulamentares para o trânsito ou aprovação; não pode, porém, efectuar-se a matrícula em disciplinas de um ano de curso sem que o aluno tenha obtido as condições normais de trânsito a esse ano, salvo o disposto na parte final do artigo 5.º
+Art. 3.º O serviço liceal extraordinário funciona por disciplinas independentes e o aproveitamento em cada uma é válido para a aquisição da habilitação total do ano a que ela respeita, se o aluno satisfizer, quanto às demais disciplinas do mesmo ano, as condições regulamentares para o trânsito ou aprovação; não pode, porém, efectuar-se a matrícula em disciplinas de um ano de curso sem que o aluno tenha obtido as condições normais de trânsito a esse ano, salvo o disposto na parte final do artigo 5.º
 
-###### Art. 4.º No serviço liceal extraordinário não haverá sessões de educação física e canto coral.
+Art. 4.º No serviço liceal extraordinário não haverá sessões de educação física e canto coral.
 
-###### Art. 5.º Os alunos do serviço liceal extraordinário são, para todos os efeitos, alunos internos dos liceus, mas os de 21 anos de idade ou superior podem matricular-se no ano terminal dos ciclos em relação aos quais as disposições vigentes permitiriam admissão a exame se fossem externos, assistindo-lhes o direito de opção quanto ao ciclo em que se matriculem quando aquelas disposições lhes consintam exames de mais de um ciclo e entendendo-se que a conclusão do exame do ciclo mais alto depende de terem sido aprovados no anterior.
+Art. 5.º Os alunos do serviço liceal extraordinário são, para todos os efeitos, alunos internos dos liceus, mas os de 21 anos de idade ou superior podem matricular-se no ano terminal dos ciclos em relação aos quais as disposições vigentes permitiriam admissão a exame se fossem externos, assistindo-lhes o direito de opção quanto ao ciclo em que se matriculem quando aquelas disposições lhes consintam exames de mais de um ciclo e entendendo-se que a conclusão do exame do ciclo mais alto depende de terem sido aprovados no anterior.
 
-###### Art. 6.º O serviço docente a que a execução deste decreto der lugar será desempenhado por professores dos quadros ou por eventuais, quando não couber nas possibilidades dos primeiros, e considerado extraordinário por todos, nos termos do [Decreto n.º 42509](https://diariodarepublica.pt/dr/detalhe/decreto/42509-1959-429585), de 17 de Setembro de 1959, quando exceda a respectiva obrigatoriedade, podendo ultrapassar o limite constante do artigo 3.º do mesmo diploma.
+Art. 6.º O serviço docente a que a execução deste decreto der lugar será desempenhado por professores dos quadros ou por eventuais, quando não couber nas possibilidades dos primeiros, e considerado extraordinário por todos, nos termos do [Decreto n.º 42509](https://diariodarepublica.pt/dr/detalhe/decreto/42509-1959-429585), de 17 de Setembro de 1959, quando exceda a respectiva obrigatoriedade, podendo ultrapassar o limite constante do artigo 3.º do mesmo diploma.
 
-###### Art. 7.º Em cada liceu o serviço liceal extraordinário terá um director, nomeado e remunerado nos termos em que o são os directores de ciclo.
+Art. 7.º Em cada liceu o serviço liceal extraordinário terá um director, nomeado e remunerado nos termos em que o são os directores de ciclo.
 
-###### Art. 8.º Compete aos governadores adoptar as disposições regulamentares respeitantes à execução do presente decreto, fixando as propinas de matrícula e, bem assim, as gratificações ao pessoal cujas presença ou intervenção sejam necessárias para a mesma execução.
+Art. 8.º Compete aos governadores adoptar as disposições regulamentares respeitantes à execução do presente decreto, fixando as propinas de matrícula e, bem assim, as gratificações ao pessoal cujas presença ou intervenção sejam necessárias para a mesma execução.
 
-###### Art. 9.º Ficam os governadores autorizados a abrir, observadas as disposições legais aplicáveis, os créditos especiais necessários para suportar os encargos a que a execução deste decreto der lugar, servindo de contrapartida disponibilidades ou recursos orçamentais.
+Art. 9.º Ficam os governadores autorizados a abrir, observadas as disposições legais aplicáveis, os créditos especiais necessários para suportar os encargos a que a execução deste decreto der lugar, servindo de contrapartida disponibilidades ou recursos orçamentais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Maio de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

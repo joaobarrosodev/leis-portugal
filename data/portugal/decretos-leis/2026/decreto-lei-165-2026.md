@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/165/2026/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2026-1156670555
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-13T00:00:00Z'
+  retrieved_at: '2026-10-22T18:49:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ebe95b64b574d6a678ef6e9267f0756c174d9aa727f13ddaa1995403c327574
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 959ec3dd44a0da56a0bddb1e782cca7841d5c5a58b2c1c35a8cb0010f8133f64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:49:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,20 +69,32 @@ reuse:
 subjects:
 - Acesso à Informação
 - Agência para o Desenvolvimento e Coesão
-- Financiamento
-- Política de Cooperação
+- Balcão dos Fundos
 - Definição de Competências
+- Desenvolvimento Económico
 - Desenvolvimento Social
 - FEDER
+- Financiamento
 - Fundo de Coesão
-- Fundos CE
-- Desenvolvimento Económico
-- Política Comunitária
-- Plano de Recuperação e Resiliência
-- Portugal 2030
 - Fundo para Uma Transição Justa
-- Balcão dos Fundos
+- Fundos CE
+- Plano de Recuperação e Resiliência
+- Política Comunitária
+- Política de Cooperação
+- Portugal 2030
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:5/2023
+  label: Altera, a partir de 14 de agosto de 2026, os artigos 33.º e 35.º e revoga a alínea j) do n.º 2 do artigo 9.º do Decreto-Lei
+    n.º 5/2023, de 25 de janeiro, Diário da República n.º 18/2023, Série I
+  source: null
+  date: '2023-01-25'
+- type: amends
+  target: pt:numero:decreto-lei:20-A/2023
+  label: Altera, a partir de 14 de agosto de 2026, os artigos 12.º, 14.º, 20.º, 21.º e 28.º do Decreto-Lei n.º 20-A/2023,
+    de 22 de março, Diário da República n.º 58/2023, 1º Suplemento, Série I
+  source: null
+  date: '2023-03-22'
 - type: cites
   target: celex:32021R1060
   label: null
@@ -115,16 +127,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/5/2023/01/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/5/2023/01/25/p/dre
+- type: cites
+  target: pt:dre:1049254412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162756795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206478423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210543862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:864060322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:868097436:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 8
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:49:54Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +195,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 1 - O presente decreto-lei procede:
 
-a) À quarta alteração ao [Decreto-Lei n.º 5/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2023-206478423), de 25 de janeiro, alterado pelos Decretos-Leis n.<sup>os</sup>[31/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2024-864060322), de 8 de maio, [39/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2024-868097436), de 6 de junho, e [40/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2026-1049254412), de 13 de fevereiro, que estabelece o modelo de governação dos fundos europeus para o período de programação 2021-2027;
+a) À quarta alteração ao [Decreto-Lei n.º 5/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2023-206478423), de 25 de janeiro, alterado pelos Decretos-Leis n.os[31/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2024-864060322), de 8 de maio, [39/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2024-868097436), de 6 de junho, e [40/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2026-1049254412), de 13 de fevereiro, que estabelece o modelo de governação dos fundos europeus para o período de programação 2021-2027;
 
 b) À segunda alteração ao [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, alterado pelo [Decreto-Lei n.º 40/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2026-1049254412), de 13 de fevereiro, que estabelece o regime geral de aplicação dos fundos europeus do Portugal 2030 e do Fundo para o Asilo, a Migração e a Integração para o período de programação de 2021-2027.
 
@@ -193,7 +233,9 @@ g) [...]
 
 4 - [...]
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - [...]
 
@@ -239,7 +281,9 @@ Os artigos 12.º, 14.º, 20.º, 21.º e 28.º do [Decreto-Lei n.º 20-A/2023](ht
 
 10 - [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - As entidades candidatas e os beneficiários devem reunir, desde a data da apresentação da candidatura, sem prejuízo do disposto nas alíneas b), c) e d), e até à data da conclusão da respetiva operação, os seguintes requisitos:
 
@@ -281,7 +325,9 @@ l) [...]
 
 8 - [...]
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -323,13 +369,17 @@ k) [...]
 
 9 - O disposto na alínea a) do n.º 5 não é aplicável a operações executadas ao abrigo de regimes de auxílios de Estado.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - O custo elegível total de uma operação não pode ser cofinanciado em qualquer outra operação do mesmo fundo europeu, de outro fundo europeu, ou de outro instrumento da União Europeia, salvo disposição em contrário da regulamentação europeia e o montante de financiamento não exceda 100 % do custo elegível total.
 
 2 - [...]
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...]
 
@@ -445,12 +495,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de julho de 2026. - Luís Montenegro - Manuel Castro Almeida.
 
-**Promulgado em 4 de agosto de 2026.**
+Promulgado em 4 de agosto de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 10 de agosto de 2026.**
+Referendado em 10 de agosto de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119949327

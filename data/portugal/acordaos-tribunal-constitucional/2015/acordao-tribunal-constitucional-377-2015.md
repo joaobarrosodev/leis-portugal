@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/15600/0575905775.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/377/2015/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/377-2015-69992910
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-12T00:00:00Z'
+  retrieved_at: '2026-10-22T18:24:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08123b318d1a1095e13e6fd47487923fdc4c9f666ebc6bb9ec82cbdcd860ada3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d1e1edb5dc1856c204a5d399fb1c8bb75e4690b461a5526338112de2f11e95f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:24:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -106,16 +106,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5/2002/01/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/2002/01/11/p/dre
+- type: cites
+  target: pt:dre:279858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67051302:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:24:38Z'
   warnings: []
   errors: []
 ---
@@ -278,7 +326,7 @@ Assim, das duas uma: ou o crime de enriquecimento injustificado ganha autonomia 
 
 Numa área com a sensibilidade do Direito Penal, onde estão em risco valores máximos da ordem jurídica num Estado de direito como a liberdade, não pode subsistir dúvida sobre a incriminação de condutas, tanto mais que a matéria em causa foi recentemente apreciada pelo Tribunal Constitucional tendo, então, merecido uma pronúncia de inconstitucionalidade.
 
-**O Presidente da República requer o pedido de fiscalização de constitucionalidade nos seguintes termos:**
+O Presidente da República requer o pedido de fiscalização de constitucionalidade nos seguintes termos:
 
 Ante o exposto, requer-se, nos termos do n.º 1 do artigo 278.º da Constituição, bem como do n.º 1 do artigo 51.º e n.º 1 do artigo 57.º da [Lei n.º 28/82](https://diariodarepublica.pt/dr/detalhe/lei/28-1982-377508), de 15 de novembro, a fiscalização preventiva da constitucionalidade das normas do n.º 1 do artigo 1.º, e do artigo 2.º constantes do Decreto n.º 369/XII da Assembleia da República, por violação dos artigos 2.º, 18.º, n.º 2, 29.º e 32.º, n.º 2 da Constituição.
 

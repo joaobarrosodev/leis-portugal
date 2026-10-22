@@ -46,40 +46,187 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45095-1963-693236
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-06-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:35:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d64624d72d74bdbdfad6c1711f169eff0373086df5962ef9305293ffe8d5298
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c44e925ac2ef32d1ebd40b0fe4a21522a8d44dc2bb24a5838350c31ea38f427
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:35:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Fiscal
+- Ajudas de Custo
+- Avaliação do Pessoal
+- Centro de Estudos Fiscais
+- Chefe de Repartição
+- Concurso
+- Custas Judiciais
+- Definição de Competências
+- Direcção Distrital de Finanças
+- Direcção Geral das Contribuições e Impostos
+- Director de Finanças
+- Diretor Geral
+- Emolumento
+- Estágio de Formação
+- Extinção de Lugares
+- Formas de Provimento
+- Gabinete Técnico de Avaliação de Instalações
+- Gestão Administrativa
+- Gestão de Recursos Humanos
+- Gestão Orçamental
+- Inspecção Tributária
+- Integração de Trabalhadores
+- Juiz
+- Ministério Público das Contribuições e Impostos
+- Orgânica
+- Processo Tributário
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Remuneração
+- Repartição de Finanças
+- Serviço de Finanças
+- Serviço de Prevenção e Fiscalização Tributária
+- Substituição de Funções
+- Uso e porte de arma
 relationships:
 - type: amended_by
   target: pt:dre:298436:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:582658:por
+  label: "Alterados os arts. 40º e 54º pelo DEC LEI.45686.27.04.1964.MF, DG.IS [100] de 27.04.1964\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45686-1964-582658
+  date: '1964-04-27'
+- type: amended_by
+  target: pt:dre:294480:por
+  label: "Alterados os arts. 9.º, 40.º, 54.º, 65.º e 71.º da Organização da Direcção-Geral das Contribuições e Impostos, aprovada\
+    \ pelo presente diploma, pelo DEC 46369.07.06.1965.MF, DG.IS [127] de 07.06.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46369-1965-294480
+  date: '1965-06-07'
+- type: amended_by
+  target: pt:dre:271226:por
+  label: "Mantida em vigor a Organização aprovada no presente diploma pelo DEC LEI.48405.29.05.1968.MF, DG.IS [128] de 29.05.1968,\
+    \ em tudo o que não contrariar o que nele se dispõe, que altera contudo o quadro de pessoal a que se refere o art. 69º\
+    \ deste diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48405-1968-271226
+  date: '1968-05-29'
+- type: amended_by
+  target: pt:dre:690816:por
+  label: "Integrados os chefes de brigada e os agentes fiscais dos extintos serviços das brigadas móveis distritais no quadro\
+    \ de pessoal da Direcção-Geral das Contribuições e Impostos, constante deste diploma, pelo DEC LEI.409/72.26.10.1972.MF,\
+    \ DG.IS [250] de 26.10.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/409-1972-690816
+  date: '1972-10-26'
+- type: amended_by
+  target: pt:dre:471504:por
+  label: "Alterada a organização da Direcção-Geral das Contribuições e Impostos, aprovada pelo presente diploma, pelo DEC\
+    \ LEI.576/74.05.11.1974.MF, DG.IS [257] de 05.11.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/576-1974-471504
+  date: '1974-11-05'
+- type: amended_by
+  target: pt:dre:424142:por
+  label: "Alterado o quadro de pessoal da DGCI pela PORT.419-B/75.05.07.1975.MF, DG.IS [153-2ºSupl] de 05.07.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/419-b-1975-424142
+  date: '1975-07-05'
+- type: amended_by
+  target: pt:dre:506068:por
+  label: "Alterado o art. 42º da Organização da DCGI pelo DEC LEI.19/76.14.01.1976.MF, DG.IS [11] de 14.01.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/19-1976-506068
+  date: '1976-01-14'
+- type: amended_by
+  target: pt:dre:285949:por
+  label: Alterados, relativamente às categorias de subdirector de finanças, de secretário de finanças, de oficiais e de escrituários-dactilógrafos,
+    os quadros de pessoal dos serviços centrais, das direcções distritais e das repartições concelhias, previstos na organização
+    da Direcção-Geral das Contribuições e Impostos, aprovada pelo presente dioploma, pelo(a) Portaria n.º 571/77 - Diário
+    da República n.º 212/1977, Série I de 1977-09-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/571-1977-285949
+  date: '1977-09-13'
+- type: amended_by
+  target: pt:dre:298436:por
+  label: Alterado o quadro de pessoal da Direção-Geral das Contribuições e Impostos pelo(a) Portaria n.º 336/78 - Diário da
+    República n.º 143/1978, Série I de 1978-06-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/336-1978-298436
+  date: '1978-06-24'
+- type: cites
+  target: pt:dre:155400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:194840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438941:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678604:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:139919:por
+  label: "Revogados §§ 1º e 4º do art. 45º e os §§ 1º e 7º do art. 53º da Organização pelo DEC LEI.143/77.09.04.1977.MAI,\
+    \ DR.IS [83] de 09.04.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/143-1977-139919
+  date: '1977-04-09'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:35:20Z'
   warnings: []
   errors: []
 ---
@@ -112,49 +259,49 @@ Assim, em cumprimento e nos termos dos preceitos estabelecidos nos artigos 12.º
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aprovada a Organização da Direcção-Geral das Contribuições e Impostos, que faz parte do presente decreto e que entra em vigor em 1 de Julho do ano corrente.
+Artigo 1.º É aprovada a Organização da Direcção-Geral das Contribuições e Impostos, que faz parte do presente decreto e que entra em vigor em 1 de Julho do ano corrente.
 
-###### Art. 2.º Fica o Ministro das Finanças autorizado a tomar as providências necessárias à entrada em funcionamento dos serviços remodelados e criados pelo presente diploma.
+Art. 2.º Fica o Ministro das Finanças autorizado a tomar as providências necessárias à entrada em funcionamento dos serviços remodelados e criados pelo presente diploma.
 
-###### Art. 3.º Enquanto não for regulamentada a Organização da Direcção-Geral das Contribuições e Impostos, observar-se-ão, com as adaptações julgadas necessárias, as disposições legais em vigor que não a contrariem, devendo ser resolvidas por despacho do Ministro das Finanças as dúvidas que se suscitem na sua aplicação.
+Art. 3.º Enquanto não for regulamentada a Organização da Direcção-Geral das Contribuições e Impostos, observar-se-ão, com as adaptações julgadas necessárias, as disposições legais em vigor que não a contrariem, devendo ser resolvidas por despacho do Ministro das Finanças as dúvidas que se suscitem na sua aplicação.
 
-###### Art. 4.º Os lugares das diferentes categorias de funcionários dos actuais quadros de pessoal da Direcção-Geral não compreendidos nos artigos 20.º e 21.º da organização aprovada pelo presente diploma considerar-se-ão extintos à medida que ocorrerem as respectivas vagas.
+Art. 4.º Os lugares das diferentes categorias de funcionários dos actuais quadros de pessoal da Direcção-Geral não compreendidos nos artigos 20.º e 21.º da organização aprovada pelo presente diploma considerar-se-ão extintos à medida que ocorrerem as respectivas vagas.
 
-###### Art. 5.º É extinto o lugar de arquivista da Direcção-Geral das Contribuições e Impostos, considerando-se investido na categoria de primeiro-oficial, com dispensa de todas as formalidades legais, designadamente do visto do Tribunal de Contas, o funcionário que actualmente exerce aquelas funções.
+Art. 5.º É extinto o lugar de arquivista da Direcção-Geral das Contribuições e Impostos, considerando-se investido na categoria de primeiro-oficial, com dispensa de todas as formalidades legais, designadamente do visto do Tribunal de Contas, o funcionário que actualmente exerce aquelas funções.
 
-###### Art. 6.º Enquanto não houver juízes da magistratura das contribuições e impostos para o provimento de todas as vagas, as primeiras nomeações para os lugares de juízes dos tribunais de 1.ª instância de qualquer das classes poderão ser efectuadas nos termos dos artigos 36.º e 37.º da Organização dos Serviços de Justiça Fiscal, com dispensa do tempo de serviço neles exigido.
+Art. 6.º Enquanto não houver juízes da magistratura das contribuições e impostos para o provimento de todas as vagas, as primeiras nomeações para os lugares de juízes dos tribunais de 1.ª instância de qualquer das classes poderão ser efectuadas nos termos dos artigos 36.º e 37.º da Organização dos Serviços de Justiça Fiscal, com dispensa do tempo de serviço neles exigido.
 
-###### Art. 7.º Os engenheiros de 1.ª e 2.ª classes do quadro especial do Serviço de Prevenção e Fiscalização Tributária, a que se refere a alínea d) do artigo 5.º do [Decreto-Lei n.º 44966](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44966-1963-194840), de 9 de Abril de 1963, consideram-se investidos em iguais lugares do quadro especial do Gabinete Técnico de Avaliações e Instalações previstos no n.º 1) do quadro IV do artigo 21.º da organização aprovada pelo presente diploma, com dispensa de quaisquer formalidades legais, designadamente do visto do Tribunal de Contas, posse e diploma de funções públicas.
+Art. 7.º Os engenheiros de 1.ª e 2.ª classes do quadro especial do Serviço de Prevenção e Fiscalização Tributária, a que se refere a alínea d) do artigo 5.º do [Decreto-Lei n.º 44966](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44966-1963-194840), de 9 de Abril de 1963, consideram-se investidos em iguais lugares do quadro especial do Gabinete Técnico de Avaliações e Instalações previstos no n.º 1) do quadro IV do artigo 21.º da organização aprovada pelo presente diploma, com dispensa de quaisquer formalidades legais, designadamente do visto do Tribunal de Contas, posse e diploma de funções públicas.
 
-###### Art. 8.º Os secretários de finanças de 1.ª, 2.ª e 3.ª classes actualmente exercendo funções no Serviço de Informações Fiscais consideram-se investidos, em comissão de serviço, nos lugares de técnicos informadores de 1.ª, 2.ª e 3.ª classes, respectivamente, com dispensa de quaisquer formalidades legais, designadamente do visto do Tribunal de Contas.
+Art. 8.º Os secretários de finanças de 1.ª, 2.ª e 3.ª classes actualmente exercendo funções no Serviço de Informações Fiscais consideram-se investidos, em comissão de serviço, nos lugares de técnicos informadores de 1.ª, 2.ª e 3.ª classes, respectivamente, com dispensa de quaisquer formalidades legais, designadamente do visto do Tribunal de Contas.
 
-###### Art. 9.º Os actuais dactilógrafos da Direcção-Geral das Contribuições e Impostos consideram-se investidos, sem prejuízo do disposto na alínea d) do artigo 54.º da organização aprovada por este diploma, nos cargos de escriturários-dactilógrafos, com dispensa de todas as formalidades legais, designadamente do visto do Tribunal de Contas, posse e diploma de funções públicas.
+Art. 9.º Os actuais dactilógrafos da Direcção-Geral das Contribuições e Impostos consideram-se investidos, sem prejuízo do disposto na alínea d) do artigo 54.º da organização aprovada por este diploma, nos cargos de escriturários-dactilógrafos, com dispensa de todas as formalidades legais, designadamente do visto do Tribunal de Contas, posse e diploma de funções públicas.
 
-###### Art. 10.º Os serventes da Direcção-Geral, das direcções distritais de finanças e das repartições de finanças dos bairros fiscais de Lisboa e Porto consideram-se investidos nos lugares de contínuos de 2.ª classe dos respectivos serviços.
+Art. 10.º Os serventes da Direcção-Geral, das direcções distritais de finanças e das repartições de finanças dos bairros fiscais de Lisboa e Porto consideram-se investidos nos lugares de contínuos de 2.ª classe dos respectivos serviços.
 
-###### Art. 11.º Os serventes assalariados das repartições de finanças de 1.ª classe, exceptuados os dos bairros de Lisboa e Porto, a que se refere o § 1.º do artigo 39.º do [Decreto n.º 18176](https://diariodarepublica.pt/dr/detalhe/decreto/18176-1930-534227), de 8 de Abril de 1930, que possuam ou obtenham as habilitações literárias exigidas por lei, serão investidos nos lugares de serventes das respectivas repartições, com dispensa dos requisitos legais relativos a idade.
+Art. 11.º Os serventes assalariados das repartições de finanças de 1.ª classe, exceptuados os dos bairros de Lisboa e Porto, a que se refere o § 1.º do artigo 39.º do [Decreto n.º 18176](https://diariodarepublica.pt/dr/detalhe/decreto/18176-1930-534227), de 8 de Abril de 1930, que possuam ou obtenham as habilitações literárias exigidas por lei, serão investidos nos lugares de serventes das respectivas repartições, com dispensa dos requisitos legais relativos a idade.
 
 § único. Os serventes que não reúnam as condições previstas no corpo deste artigo poderão continuar a prestar serviço como assalariados, nos termos do § 1.º do artigo 39.º do [Decreto n.º 18176](https://diariodarepublica.pt/dr/detalhe/decreto/18176-1930-534227) e com direito à remuneração fixada no artigo único do [Decreto-Lei n.º 42648](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42648-1959-438941), de 17 de Novembro de 1959.
 
-###### Art. 12.º O disposto nos §§ 2.º e 3.º do artigo 45.º da organização aprovada pelo presente diploma é aplicável aos funcionários abrangidos pelo preceituado no artigo 3.º e seu § 1.º do [Decreto-Lei n.º 23396](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23396-1933-325709), de 23 de Dezembro de 1933, artigo 5.º do [Decreto-Lei n.º 29996](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29996-1939-186158), de 24 de Outubro de 1939, e § 1.º do artigo 49.º do regulamento aprovado pelo [Decreto-Lei n.º 31317](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31317-1941-329619), de 13 de Junho de 1941, os quais poderão ser admitidos aos primeiros concursos que se realizarem depois da entrada em vigor deste diploma.
+Art. 12.º O disposto nos §§ 2.º e 3.º do artigo 45.º da organização aprovada pelo presente diploma é aplicável aos funcionários abrangidos pelo preceituado no artigo 3.º e seu § 1.º do [Decreto-Lei n.º 23396](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23396-1933-325709), de 23 de Dezembro de 1933, artigo 5.º do [Decreto-Lei n.º 29996](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29996-1939-186158), de 24 de Outubro de 1939, e § 1.º do artigo 49.º do regulamento aprovado pelo [Decreto-Lei n.º 31317](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31317-1941-329619), de 13 de Junho de 1941, os quais poderão ser admitidos aos primeiros concursos que se realizarem depois da entrada em vigor deste diploma.
 
-###### Art. 13.º O disposto no § 1.º do artigo 53.º da organização aprovada por este diploma não se aplica aos candidatos aprovados em concursos anteriores cuja validade ainda não tenha caducado, desde que, à data da promoção, se encontrem no exercício das suas funções e, quanto aos candidatos a directores de finanças, tenham classificação de serviço não inferior a Bom.
+Art. 13.º O disposto no § 1.º do artigo 53.º da organização aprovada por este diploma não se aplica aos candidatos aprovados em concursos anteriores cuja validade ainda não tenha caducado, desde que, à data da promoção, se encontrem no exercício das suas funções e, quanto aos candidatos a directores de finanças, tenham classificação de serviço não inferior a Bom.
 
-###### Art. 14.º É mantido em vigor, pelo período de seis anos, o disposto no artigo 2.º do [Decreto n.º 44181](https://diariodarepublica.pt/dr/detalhe/decreto/44181-1962-518407), de 9 de Fevereiro de 1962, e no artigo 23.º do [Decreto-Lei n.º 44966](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44966-1963-194840), de 9 de Abril do ano corrente.
+Art. 14.º É mantido em vigor, pelo período de seis anos, o disposto no artigo 2.º do [Decreto n.º 44181](https://diariodarepublica.pt/dr/detalhe/decreto/44181-1962-518407), de 9 de Fevereiro de 1962, e no artigo 23.º do [Decreto-Lei n.º 44966](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44966-1963-194840), de 9 de Abril do ano corrente.
 
-###### Art. 15.º Os funcionários a que se refere o artigo 6.º do [Decreto-Lei n.º 45006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45006-1963-628298), de 27 de Abril de 1963, poderão ainda apresentar o requerimento a que se refere o § 1.º do mesmo artigo no prazo de 30 dias, a contar da publicação deste diploma.
+Art. 15.º Os funcionários a que se refere o artigo 6.º do [Decreto-Lei n.º 45006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45006-1963-628298), de 27 de Abril de 1963, poderão ainda apresentar o requerimento a que se refere o § 1.º do mesmo artigo no prazo de 30 dias, a contar da publicação deste diploma.
 
-###### Art. 16.º As gratificações atribuídas nos termos do artigo 69.º da organização aprovada por este diploma e dos artigos 60.º e 86.º da Organização dos Serviços de Justiça Fiscal, aprovada pelo [Decreto-Lei n.º 45006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45006-1963-628298), de 27 de Abril de 1963, são consideradas para os efeitos do disposto no artigo 19.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, com aplicação do preceituado no artigo 1.º do Decreto-Lei n.º 26155, de 24 de Dezembro de 1935.
+Art. 16.º As gratificações atribuídas nos termos do artigo 69.º da organização aprovada por este diploma e dos artigos 60.º e 86.º da Organização dos Serviços de Justiça Fiscal, aprovada pelo [Decreto-Lei n.º 45006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45006-1963-628298), de 27 de Abril de 1963, são consideradas para os efeitos do disposto no artigo 19.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, com aplicação do preceituado no artigo 1.º do Decreto-Lei n.º 26155, de 24 de Dezembro de 1935.
 
-###### Art. 17.º Deixam de ser abonadas aos funcionários dos diferentes quadros da Direcção-Geral das Contribuições e Impostos, a partir da entrada em vigor da organização aprovada pelo presente diploma, as gratificações previstas no artigo 8.º do [Decreto-Lei n.º 26116](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26116-1935-636886), de 23 de Novembro de 1935, e no n.º 1.º do artigo 9.º do [Decreto-Lei n.º 42637](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42637-1959-440104), de 7 de Novembro de 1959.
+Art. 17.º Deixam de ser abonadas aos funcionários dos diferentes quadros da Direcção-Geral das Contribuições e Impostos, a partir da entrada em vigor da organização aprovada pelo presente diploma, as gratificações previstas no artigo 8.º do [Decreto-Lei n.º 26116](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26116-1935-636886), de 23 de Novembro de 1935, e no n.º 1.º do artigo 9.º do [Decreto-Lei n.º 42637](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42637-1959-440104), de 7 de Novembro de 1959.
 
-###### Art. 18.º As gratificações a que se refere o § único do artigo 14.º do [Decreto-Lei n.º 44966](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44966-1963-194840), de 9 de Abril de 1963, poderão ser abonadas a partir da data da entrada em vigor do mesmo decreto-lei, embora visadas posteriormente pelo Tribunal de Contas.
+Art. 18.º As gratificações a que se refere o § único do artigo 14.º do [Decreto-Lei n.º 44966](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44966-1963-194840), de 9 de Abril de 1963, poderão ser abonadas a partir da data da entrada em vigor do mesmo decreto-lei, embora visadas posteriormente pelo Tribunal de Contas.
 
-###### Art. 19.º Na satisfação dos encargos com pessoal, resultantes da execução deste diploma, poderão ser utilizadas as disponibilidades das verbas orçamentais consignadas ao pagamento do pessoal dos quadros aprovados da Direcção-Geral das Contribuições e Impostos e das direcções de finanças distritais e secções concelhias para o pessoal dos respectivos quadros.
+Art. 19.º Na satisfação dos encargos com pessoal, resultantes da execução deste diploma, poderão ser utilizadas as disponibilidades das verbas orçamentais consignadas ao pagamento do pessoal dos quadros aprovados da Direcção-Geral das Contribuições e Impostos e das direcções de finanças distritais e secções concelhias para o pessoal dos respectivos quadros.
 
-###### Art. 20.º Enquanto não for revista a legislação sobre custas de processos das contribuições e impostos, aplicar-se-ão aos processos instaurados a partir de 1 de Julho de 1963 as disposições legais actualmente em vigor.
+Art. 20.º Enquanto não for revista a legislação sobre custas de processos das contribuições e impostos, aplicar-se-ão aos processos instaurados a partir de 1 de Julho de 1963 as disposições legais actualmente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Junho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa.
 
@@ -162,7 +309,7 @@ Organização da Direcção-Geral das Contribuições e Impostos
 
 ### CAPÍTULO I — Atribuições
 
-###### Artigo 1.º A Direcção-Geral das Contribuições e Impostos é o órgão do Ministério das Finanças incumbido da administração fiscal do Estado, tendo por funções, no que respeita a toda a matéria fiscal não excluída por lei:
+Artigo 1.º A Direcção-Geral das Contribuições e Impostos é o órgão do Ministério das Finanças incumbido da administração fiscal do Estado, tendo por funções, no que respeita a toda a matéria fiscal não excluída por lei:
 
 a) Executar as leis tributárias e os compromissos de ordem internacional;
 
@@ -172,7 +319,7 @@ c) Estudar e propor as medidas fiscais de carácter normativo e informar o Minis
 
 d) Promover o progresso da técnica fiscal e contribuir para a investigação científica no campo da fiscalidade.
 
-###### Art. 2.º Na execução das leis e dos compromissos internacionais incumbe à Direcção-Geral:
+Art. 2.º Na execução das leis e dos compromissos internacionais incumbe à Direcção-Geral:
 
 a) Tomar conhecimento de todos os factos ou situações previstos na lei como fontes de obrigações fiscais;
 
@@ -188,7 +335,7 @@ f) Anular as decisões constitutivas de direitos certos e executórios nos casos
 
 g) Actuar por todos os meios admitidos em direito com vista a atingir os objectivos das leis sem ofensa dos direitos dos particulares.
 
-###### Art. 3.º No exercício da acção de justiça fiscal compete à Direcção-Geral a função de Ministério Público, incumbindo-lhe especialmente:
+Art. 3.º No exercício da acção de justiça fiscal compete à Direcção-Geral a função de Ministério Público, incumbindo-lhe especialmente:
 
 a) Verificar o cumprimento das leis por parte dos obrigados fiscais;
 
@@ -210,7 +357,7 @@ h) Exercer pelos meios adequados uma acção permanente de defesa dos princípio
 
 § 2.º O disposto no corpo deste artigo não prejudica o cumprimento das obrigações legalmente impostas a quaisquer autoridades, corpos administrativos, repartições públicas, pessoas colectivas de utilidade pública ou outras entidades.
 
-###### Art. 4.º No exercício da função preparatória e auxiliar da acção normativa incumbe à Direcção-Geral:
+Art. 4.º No exercício da função preparatória e auxiliar da acção normativa incumbe à Direcção-Geral:
 
 a) Observar as realidades tributárias e verificar quanto a elas a eficiência da aplicação das leis;
 
@@ -222,7 +369,7 @@ d) Pronunciar-se sobre os projectos de disposições legislativas ou contratuais
 
 e) Analisar os efeitos da diversidade de decisões judiciais e sistemas tributários regionais ou nacionais e propor as medidas adequadas à sua atenuação ou eliminação.
 
-###### Art. 5.º No exercício da função de promover o progresso da técnica fiscal e de contribuir para a investigação científica no campo da fiscalidade, incumbe à Direcção-Geral:
+Art. 5.º No exercício da função de promover o progresso da técnica fiscal e de contribuir para a investigação científica no campo da fiscalidade, incumbe à Direcção-Geral:
 
 a) Realizar estudos, pesquisas, inquéritos e trabalhos necessários ao progresso e eficiência dos seus serviços;
 
@@ -238,7 +385,7 @@ f) Promover e fomentar a formação e o esclarecimento da consciência cívica e
 
 ### CAPÍTULO II — Organização
 
-###### Art. 6.º A Direcção-Geral das Contribuições e Impostos constitui um corpo orgânico, unitário, dirigido superiormente por um director-geral, imediatamente subordinado ao Ministro das Finanças, e compreende os seguintes serviços:
+Art. 6.º A Direcção-Geral das Contribuições e Impostos constitui um corpo orgânico, unitário, dirigido superiormente por um director-geral, imediatamente subordinado ao Ministro das Finanças, e compreende os seguintes serviços:
 
 a) De administração fiscal;
 
@@ -270,11 +417,11 @@ c) Nos concelhos: pelas repartições concelhias de finanças e pelos serviços 
 
 § 3.º Os serviços referidos nas alíneas c), d), e) e f) do corpo deste artigo funcionam na imediata dependência do director-geral e estão a cargo, respectivamente, do Serviço de Informações Fiscais, do Centro de Estudos Fiscais, do Gabinete Técnico de Avaliações e Instalações e da Repartição Central de Administração Interna.
 
-###### Art. 7.º Independentemente da organização estabelecida no presente capítulo, o director-geral poderá determinar, quando necessário, que alguns dos serviços nele compreendidos ou quaisquer outros que incumbam à Direcção-Geral sejam distribuídos, transitem de um para outro serviço, repartição ou secção, ou se agrupem por forma a dispensar o preenchimento de alguns lugares ou a obter melhor eficiência.
+Art. 7.º Independentemente da organização estabelecida no presente capítulo, o director-geral poderá determinar, quando necessário, que alguns dos serviços nele compreendidos ou quaisquer outros que incumbam à Direcção-Geral sejam distribuídos, transitem de um para outro serviço, repartição ou secção, ou se agrupem por forma a dispensar o preenchimento de alguns lugares ou a obter melhor eficiência.
 
 § único. A situação poderá manter-se pelo período de um ano, findo o qual deverá ser confirmada por portaria do Ministro das Finanças.
 
-###### Art. 8.º Os serviços centrais de administração fiscal compreendem cinco repartições, assim constituídas:
+Art. 8.º Os serviços centrais de administração fiscal compreendem cinco repartições, assim constituídas:
 
 a) 1.ª Repartição:
 
@@ -306,7 +453,7 @@ e) 5.ª Repartição:
 
 2.ª Secção - Impostos sobre consumos, sobre as transacções e outros que incidam sobre a despesa.
 
-###### Art. 9.º Às direcções distritais de finanças incumbem, além das funções próprias da Direcção-Geral, quaisquer outras que lhes sejam atribuídas por lei.
+Art. 9.º Às direcções distritais de finanças incumbem, além das funções próprias da Direcção-Geral, quaisquer outras que lhes sejam atribuídas por lei.
 
 § 1.º As direcções distritais de finanças são compostas por secções a cargo de chefes de secção e de primeiros ou segundos-oficiais.
 
@@ -336,7 +483,7 @@ d) 4.ª Secção - Serviços de justiça fiscal.
 
 Quando se verificar o caso previsto na segunda parte da alínea b) do artigo 11.º, o número de secções será aumentado por forma que os serviços de secretaria de cada juízo fiquem afectos a uma secção, continuando a competir à 5.ª secção, além dos de secretaria do 1.º juízo, os demais serviços de justiça fiscal.
 
-###### Art. 10.º As repartições concelhias de finanças são de 1 ª, 2.ª e 3.ª classes, consoante a classificação que consta do mapa anexo a este diploma, incumbindo-lhes, além das funções próprias da Direcção-Geral, quaisquer outras que lhes sejam atribuídas por lei.
+Art. 10.º As repartições concelhias de finanças são de 1 ª, 2.ª e 3.ª classes, consoante a classificação que consta do mapa anexo a este diploma, incumbindo-lhes, além das funções próprias da Direcção-Geral, quaisquer outras que lhes sejam atribuídas por lei.
 
 § 1.º Os serviços de administração fiscal nos concelhos de Lisboa, Porto e Coimbra poderão funcionar em regime de bairros fiscais, cabendo às respectivas repartições de finanças as funções e a organização das repartições concelhias.
 
@@ -344,7 +491,7 @@ Quando se verificar o caso previsto na segunda parte da alínea b) do artigo 11.
 
 § 3.º O Ministro das Finanças poderá, por portaria publicada no Diário do Governo, alterar o mapa a que se refere o corpo deste artigo e proceder, sempre que as circunstâncias o justifiquem, à concentração parcial ou total dos serviços ou ao seu desdobramento.
 
-###### Art. 11.º Os tribunais das contribuições e impostos são de 2.ª e de 1.ª instâncias:
+Art. 11.º Os tribunais das contribuições e impostos são de 2.ª e de 1.ª instâncias:
 
 a) O Tribunal de 2.ª Instância das Contribuições e Impostos é colectivo e julga, em via de recurso, os processos cujo valor exceda a alçada dos tribunais de 1.ª instância;
 
@@ -356,7 +503,7 @@ b) Os tribunais de 1.ª instância são singulares, de competência regional, co
 
 § 3.º Os tribunais de 1.ª instância são de 1.ª, 2.ª e 3.ª classes, sendo de 1.ª os de Lisboa, Porto e Coimbra, de 2.ª os de Aveiro, Braga, Leiria, Santarém, Viseu, Funchal e Ponta Delgada e de 3.ª todos os restantes.
 
-###### Art. 12.º O Ministério Público das Contribuições e Impostos é o órgão promotor da acção de justiça fiscal e verificador do cumprimento das leis tributárias, exerce a sua função junto dos competentes tribunais e dos serviços de administração fiscal e é assim constituído:
+Art. 12.º O Ministério Público das Contribuições e Impostos é o órgão promotor da acção de justiça fiscal e verificador do cumprimento das leis tributárias, exerce a sua função junto dos competentes tribunais e dos serviços de administração fiscal e é assim constituído:
 
 a) O director-geral, na qualidade de chefe superior do Ministério Público das Contribuições e Impostos, na imediata dependência do Ministro das Finanças;
 
@@ -368,7 +515,7 @@ d) Os chefes das repartições concelhias de finanças.
 
 § único. O director-geral, quando se mostrar necessário, poderá ser coadjuvado nas funções de chefe superior do Ministério Público das Contribuições e Impostos, nas condições estabelecidas na Organização dos Serviços de Justiça Fiscal.
 
-###### Art. 13.º O Serviço de Prevenção e Fiscalização Tributária é o serviço administrativo da Direcção-Geral preparatório e coadjuvante da acção de justiça fiscal, incumbindo-lhe exercer a acção externa do Ministério Público no que respeita às contribuições, impostos, taxas e demais receitas a cargo da Direcção-Geral, e compreende:
+Art. 13.º O Serviço de Prevenção e Fiscalização Tributária é o serviço administrativo da Direcção-Geral preparatório e coadjuvante da acção de justiça fiscal, incumbindo-lhe exercer a acção externa do Ministério Público no que respeita às contribuições, impostos, taxas e demais receitas a cargo da Direcção-Geral, e compreende:
 
 a) No Ministério: um serviço central directamente subordinado ao director-geral;
 
@@ -376,19 +523,19 @@ b) Nos distritos: serviços subordinados aos directores de finanças dos respect
 
 c) Nos concelhos: serviços subordinados aos chefes das repartições concelhias de finanças.
 
-###### Art. 14.º A regulamentação dos serviços de justiça fiscal é a estabelecida na respectiva organização e no Código de Processo das Contribuições e Impostos.
+Art. 14.º A regulamentação dos serviços de justiça fiscal é a estabelecida na respectiva organização e no Código de Processo das Contribuições e Impostos.
 
-###### Art. 15.º Os serviços de informações fiscais funcionam na dependência imediata do director-geral, junto das direcções distritais de finanças e repartições concelhias, sob a responsabilidade dos respectivos chefes, incumbindo-lhes exercer a acção de informação e esclarecimento sobre o conteúdo das leis tributárias e auxiliar os contribuintes no cumprimento das obrigações fiscais.
+Art. 15.º Os serviços de informações fiscais funcionam na dependência imediata do director-geral, junto das direcções distritais de finanças e repartições concelhias, sob a responsabilidade dos respectivos chefes, incumbindo-lhes exercer a acção de informação e esclarecimento sobre o conteúdo das leis tributárias e auxiliar os contribuintes no cumprimento das obrigações fiscais.
 
 § único. O Ministro poderá estabelecer serviços privativos de informação nos lugares onde o seu funcionamento se justifique.
 
-###### Art. 16.º Os serviços de estudos fiscais incumbem ao Centro de Estudos Fiscais, que funciona na imediata dependência do director-geral e é constituído por um corpo de juristas e economistas, de reconhecido mérito, que, por determinação do Ministro, do director-geral ou por iniciativa própria, realizará os trabalhos necessários à prossecução dos objectivos estabelecidos no artigo 5.º
+Art. 16.º Os serviços de estudos fiscais incumbem ao Centro de Estudos Fiscais, que funciona na imediata dependência do director-geral e é constituído por um corpo de juristas e economistas, de reconhecido mérito, que, por determinação do Ministro, do director-geral ou por iniciativa própria, realizará os trabalhos necessários à prossecução dos objectivos estabelecidos no artigo 5.º
 
-###### Art. 17.º Os serviços de avaliações e instalações incumbem ao Gabinete Técnico de Avaliações e Instalações, que funciona na imediata dependência do director-geral e é constituído por um corpo de engenheiros, agentes técnicos e regentes agrícolas, ao qual são cometidas as funções de orientação e fiscalização dos serviços de avaliações, de intervenção em actos de arbitramento e de estudo e fiscalização dos trabalhos necessários à instalação dos serviços da Direcção-Geral, ou outras que lhes forem atribuídas por determinação superior.
+Art. 17.º Os serviços de avaliações e instalações incumbem ao Gabinete Técnico de Avaliações e Instalações, que funciona na imediata dependência do director-geral e é constituído por um corpo de engenheiros, agentes técnicos e regentes agrícolas, ao qual são cometidas as funções de orientação e fiscalização dos serviços de avaliações, de intervenção em actos de arbitramento e de estudo e fiscalização dos trabalhos necessários à instalação dos serviços da Direcção-Geral, ou outras que lhes forem atribuídas por determinação superior.
 
 § único. A disciplina, orientação e fiscalização das avaliações e de outras formas de arbitramento a cargo da Direcção-Geral constará do respectivo regulamento.
 
-###### Art. 18.º Os serviços de administração interna incumbem a uma repartição central funcionando junto do gabinete do director-geral, constituída por três secções, com a seguinte distribuição:
+Art. 18.º Os serviços de administração interna incumbem a uma repartição central funcionando junto do gabinete do director-geral, constituída por três secções, com a seguinte distribuição:
 
 a) 1.ª Secção - Pessoal;
 
@@ -404,9 +551,9 @@ c) 3.ª Secção - Serviços de secretaria do Tribunal de 2.ª Instância e regi
 
 #### SECÇÃO I — Dos quadros
 
-###### Art. 19.º Os serviços da Direcção-Geral são executados por funcionários pertencentes a um quadro geral e a quadros especiais.
+Art. 19.º Os serviços da Direcção-Geral são executados por funcionários pertencentes a um quadro geral e a quadros especiais.
 
-###### Art. 20.º O quadro geral é constituído pelas seguintes categorias de funcionários:
+Art. 20.º O quadro geral é constituído pelas seguintes categorias de funcionários:
 
 1) Director-geral;
 
@@ -440,7 +587,7 @@ c) 3.ª Secção - Serviços de secretaria do Tribunal de 2.ª Instância e regi
 
 § único. O número total de lugares de aspirantes concursados e de escriturários de 1.ª classe não poderá ser superior a metade do número de lugares de aspirantes e escriturários de 2.ª classe, respectivamente.
 
-###### Art. 21.º Os quadros especiais são constituídos pelas seguintes categorias de funcionários:
+Art. 21.º Os quadros especiais são constituídos pelas seguintes categorias de funcionários:
 
 I) Serviços de Justiça Fiscal:
 
@@ -490,71 +637,71 @@ IV) Gabinete Técnico de Avaliações e Instalações:
 
 § 3.º além dos quadros privativos do Centro de Estudos Fiscais e do Gabinete Técnico de Avaliações e Instalações, poderá o Ministro das Finanças, mediante proposta do director-geral e por contrato de prestação de serviços, incumbir técnicos da especialidade ou entidades de reconhecido mérito, ainda que estranhos ao Ministério, de prestarem colaboração temporária ou eventual e bem assim encarregar outras pessoas da execução de quaisquer trabalhos necessários ao bom funcionamento daqueles serviços.
 
-###### Art. 22.º Os quadros de pessoal dos vários serviços da Direcção-Geral são os que constam dos mapas anexos a este diploma.
+Art. 22.º Os quadros de pessoal dos vários serviços da Direcção-Geral são os que constam dos mapas anexos a este diploma.
 
-###### Art. 23.º O Ministro das Finanças poderá, até à normalização dos serviços e sempre que as necessidades o exijam, alterar por portaria publicada no Diário do Governo os quadros de pessoal da Direcção-Geral das Contribuições e Impostos, aumentando-os ou diminuindo-os e distribuindo o pessoal pelos quadros das repartições e serviços da Direcção-Geral, das direcções distritais de finanças e das repartições concelhias de finanças.
+Art. 23.º O Ministro das Finanças poderá, até à normalização dos serviços e sempre que as necessidades o exijam, alterar por portaria publicada no Diário do Governo os quadros de pessoal da Direcção-Geral das Contribuições e Impostos, aumentando-os ou diminuindo-os e distribuindo o pessoal pelos quadros das repartições e serviços da Direcção-Geral, das direcções distritais de finanças e das repartições concelhias de finanças.
 
-###### Art. 24.º Independentemente do disposto no artigo anterior, pode o director-geral, quando necessário, distribuir o pessoal pelos serviços ou repartições por forma diferente da estabelecida nos quadros a que se refere o artigo 22.º
+Art. 24.º Independentemente do disposto no artigo anterior, pode o director-geral, quando necessário, distribuir o pessoal pelos serviços ou repartições por forma diferente da estabelecida nos quadros a que se refere o artigo 22.º
 
 § único. A situação poderá manter-se pelo período de um ano, findo o qual deverá o director-geral propor, para os efeitos do artigo anterior, as alterações que julgar convenientes.
 
 #### SECÇÃO II — Da competência
 
-###### Art. 25.º Compete ao director-geral, na imediata dependência do Ministro das Finanças, superintender em todos os serviços da Direcção-Geral, representá-la nas relações externas, defender os interesses dos seus funcionários e exigir a disciplina dos serviços próprios e promover a dos dependentes.
+Art. 25.º Compete ao director-geral, na imediata dependência do Ministro das Finanças, superintender em todos os serviços da Direcção-Geral, representá-la nas relações externas, defender os interesses dos seus funcionários e exigir a disciplina dos serviços próprios e promover a dos dependentes.
 
 § único. O director-geral pode despachar directamente todos os assuntos que por sua natureza, disposição de lei ou determinação do próprio Ministro não devam ser sujeitos a despacho ministerial, podendo delegar parte da sua competência nos adjuntos.
 
-###### Art. 26.º Compete aos adjuntos coadjuvar o director-geral, segundo a orientação por este estabelecida, e exercer os poderes delegados nos termos do § único do artigo anterior, incluindo os do Ministério Público das Contribuições e Impostos.
+Art. 26.º Compete aos adjuntos coadjuvar o director-geral, segundo a orientação por este estabelecida, e exercer os poderes delegados nos termos do § único do artigo anterior, incluindo os do Ministério Público das Contribuições e Impostos.
 
 § único. Sem prejuízo do disposto no corpo deste artigo, compete em especial aos adjuntos, na imediata dependência do director-geral, orientar e coordenar os serviços cuja competência tenha sido delegada.
 
-###### Art. 27.º Compete aos chefes das repartições dos serviços centrais a direcção e fiscalização dos trabalhos a cargo das repartições ou de outros que lhes forem distribuídos, cooperando com todos os serviços na resolução dos assuntos de interesse comum e submetendo a despacho, devidamente informados, os que devam ser resolvidos superiormente, bem como desempenhar as funções do Ministério Público nos termos da Organização dos Serviços de Justiça Fiscal.
+Art. 27.º Compete aos chefes das repartições dos serviços centrais a direcção e fiscalização dos trabalhos a cargo das repartições ou de outros que lhes forem distribuídos, cooperando com todos os serviços na resolução dos assuntos de interesse comum e submetendo a despacho, devidamente informados, os que devam ser resolvidos superiormente, bem como desempenhar as funções do Ministério Público nos termos da Organização dos Serviços de Justiça Fiscal.
 
 § único. Os chefes das repartições dos serviços centrais só poderão transmitir aos directores distritais de finanças ou a outros serviços, e nos termos que forem estabelecidos pelo director-geral, as ordens ou comunicações que lhes sejam especìficamente determinadas ou que se compreendam numa orientação geral superiormente fixada.
 
-###### Art. 28.º Compete aos directores distritais de finanças a direcção e fiscalização dos serviços que lhes estão subordinados, a orientação, disciplina, representação e defesa do seu funcionalismo, o exercício das funções de Ministério Público das Contribuições e Impostos e de quaisquer outras que lhes sejam atribuídas por lei.
+Art. 28.º Compete aos directores distritais de finanças a direcção e fiscalização dos serviços que lhes estão subordinados, a orientação, disciplina, representação e defesa do seu funcionalismo, o exercício das funções de Ministério Público das Contribuições e Impostos e de quaisquer outras que lhes sejam atribuídas por lei.
 
-###### Art. 29.º Aos chefes de secção compete dirigir e dar efectiva execução aos respectivos serviços, informar os processos que devam ser submetidos a apreciação superior e efectuar quaisquer trabalhos que lhes sejam determinados.
+Art. 29.º Aos chefes de secção compete dirigir e dar efectiva execução aos respectivos serviços, informar os processos que devam ser submetidos a apreciação superior e efectuar quaisquer trabalhos que lhes sejam determinados.
 
-###### Art. 30.º Aos chefes das repartições concelhias de finanças compete a direcção e a fiscalização dos respectivos serviços e o exercício das funções próprias dos Serviços de Justiça Fiscal e de quaisquer outras que lhes sejam atribuídas por lei.
+Art. 30.º Aos chefes das repartições concelhias de finanças compete a direcção e a fiscalização dos respectivos serviços e o exercício das funções próprias dos Serviços de Justiça Fiscal e de quaisquer outras que lhes sejam atribuídas por lei.
 
 § único. Quando as repartições dos concelhos ou bairros fiscais funcionarem em regime de secções, aos chefes destas compete dirigir e dar execução aos respectivos serviços na imediata dependência do chefe da repartição de finanças.
 
-###### Art. 31.º A competência dos juízes e agentes do Ministério Público das Contribuições e Impostos e dos funcionários do Serviço de Prevenção e Fiscalização Tributária é a estabelecida na Organização dos Serviços de Justiça Fiscal.
+Art. 31.º A competência dos juízes e agentes do Ministério Público das Contribuições e Impostos e dos funcionários do Serviço de Prevenção e Fiscalização Tributária é a estabelecida na Organização dos Serviços de Justiça Fiscal.
 
-###### Art. 32.º Compete ao director do Serviço de Informações Fiscais dirigir superiormente, na imediata dependência do director-geral, os respectivos serviços e desempenhar as funções que por lei ou determinação superior lhe sejam cometidas.
+Art. 32.º Compete ao director do Serviço de Informações Fiscais dirigir superiormente, na imediata dependência do director-geral, os respectivos serviços e desempenhar as funções que por lei ou determinação superior lhe sejam cometidas.
 
 § único. Aos técnicos informadores compete o exercício das funções de informação e esclarecimento do contribuinte quanto às obrigações tributárias e seu cumprimento e as demais que por lei ou ordem superior lhes sejam cometidas.
 
-###### Art. 33.º Compete aos juristas e economistas do Centro de Estudos Fiscais, conforme a sua especialidade, e na imediata dependência do director-geral, a realização dos trabalhos necessários à prossecução dos objectivos referidos no artigo 5.º e elaborar parecer fundamentado sobre problemas de natureza jurídica, económica ou financeira, ocorrentes na execução dos serviços da Direcção-Geral.
+Art. 33.º Compete aos juristas e economistas do Centro de Estudos Fiscais, conforme a sua especialidade, e na imediata dependência do director-geral, a realização dos trabalhos necessários à prossecução dos objectivos referidos no artigo 5.º e elaborar parecer fundamentado sobre problemas de natureza jurídica, económica ou financeira, ocorrentes na execução dos serviços da Direcção-Geral.
 
 § único. Ao secretário incumbe a coordenação dos serviços próprios do Centro de Estudos Fiscais e a direcção e fiscalização do funcionamento dos respectivos serviços administrativos.
 
-###### Art. 34.º Aos engenheiros, agentes técnicos e regentes agrícolas compete o exercício dos actos de intervenção em avaliações ou outras formas de arbitramento, a orientação e fiscalização das avaliações gerais ou especiais, em harmonia com o respectivo regulamento, e o exercício de quaisquer outros actos de natureza técnica compatíveis com as suas habilitações e as demais funções que lhes sejam cometidas por lei ou determinação superior.
+Art. 34.º Aos engenheiros, agentes técnicos e regentes agrícolas compete o exercício dos actos de intervenção em avaliações ou outras formas de arbitramento, a orientação e fiscalização das avaliações gerais ou especiais, em harmonia com o respectivo regulamento, e o exercício de quaisquer outros actos de natureza técnica compatíveis com as suas habilitações e as demais funções que lhes sejam cometidas por lei ou determinação superior.
 
-###### Art. 35.º Aos funcionários sem competência específica estabelecida por lei compete executar os serviços correspondentes aos seus cargos ou aqueles de que sejam encarregados pelos respectivos superiores hierárquicos.
+Art. 35.º Aos funcionários sem competência específica estabelecida por lei compete executar os serviços correspondentes aos seus cargos ou aqueles de que sejam encarregados pelos respectivos superiores hierárquicos.
 
 § único. A prática de actos de serviço externo que por lei não seja da competência de outros funcionários incumbe aos escriturários de 2.ª classe ou, na falta destes ou sendo insuficiente o seu número, aos funcionários menos categorizados, uns e outros designados superiormente.
 
-###### Art. 36.º Os funcionários que desempenhem cargos de direcção ou chefia poderão, obtida autorização do director-geral, delegar nos que lhes estejam imediatamente subordinados a competência para a prática de actos próprios das suas funções.
+Art. 36.º Os funcionários que desempenhem cargos de direcção ou chefia poderão, obtida autorização do director-geral, delegar nos que lhes estejam imediatamente subordinados a competência para a prática de actos próprios das suas funções.
 
 #### SECÇÃO III — Do provimento
 
-###### Art. 37.º O director-geral é nomeado pelo Ministro das Finanças entre licenciados em Direito, Finanças, Economia ou Ciências Económicas e Financeiras, com informação ou classificação final não inferior a Bom com distinção, podendo o cargo ser provido também, em comissão de serviço, por juízes do Supremo Tribunal Administrativo ou do Tribunal de Contas ou, ainda, em regime de acumulação, por professores universitários de Direito, Finanças ou Economia.
+Art. 37.º O director-geral é nomeado pelo Ministro das Finanças entre licenciados em Direito, Finanças, Economia ou Ciências Económicas e Financeiras, com informação ou classificação final não inferior a Bom com distinção, podendo o cargo ser provido também, em comissão de serviço, por juízes do Supremo Tribunal Administrativo ou do Tribunal de Contas ou, ainda, em regime de acumulação, por professores universitários de Direito, Finanças ou Economia.
 
 § 1.º A comissão de serviço prevista no corpo deste artigo será exercida por três anos, decorridos os quais, se não for dada por finda, passará a comissão de carácter permanente ou será tornada definitiva a nomeação.
 
 § 2.º O tempo de serviço prestado pelo comissionado será para todos os efeitos considerado como se fora prestado no quadro permanente a que pertencer.
 
-###### Art. 38.º Os adjuntos são nomeados em comissão de serviço pelo Ministro das Finanças, sob proposta do director-geral, entre directores de finanças.
+Art. 38.º Os adjuntos são nomeados em comissão de serviço pelo Ministro das Finanças, sob proposta do director-geral, entre directores de finanças.
 
-###### Art. 39.º O secretário do director-geral é nomeado em comissão de serviço entre funcionários da Direcção-Geral das Contribuições e Impostos, sob proposta do director-geral, abrindo vaga no respectivo quadro e conservando a categoria que nele lhe corresponder.
+Art. 39.º O secretário do director-geral é nomeado em comissão de serviço entre funcionários da Direcção-Geral das Contribuições e Impostos, sob proposta do director-geral, abrindo vaga no respectivo quadro e conservando a categoria que nele lhe corresponder.
 
 § 1.º A comissão de serviço termina com a cessação de funções do director-geral, podendo igualmente, mediante proposta deste, ser dada por finda.
 
 § 2.º Quando a comissão de serviço termine e não haja vaga no quadro de origem, o funcionário manter-se-á em serviço na Direcção-Geral, com o vencimento correspondente à categoria que lhe couber, no desempenho das funções e no lugar que lhe seja determinado pelo Ministro das Finanças.
 
-###### Art. 40.º O recrutamento para os outros cargos do quadro geral da Direcção-Geral das Contribuições e Impostos é feito observando-se as seguintes condições:
+Art. 40.º O recrutamento para os outros cargos do quadro geral da Direcção-Geral das Contribuições e Impostos é feito observando-se as seguintes condições:
 
 a) Chefes de repartição dos serviços centrais, por escolha entre directores de finanças;
 
@@ -584,7 +731,7 @@ m) Os serventes, entre indivíduos maiores com habilitação da 4.ª classe da i
 
 § 2.º Os chefes das secções da repartição central de administração interna poderão ser recrutados com dispensa de concurso entre primeiros-oficiais com classificação de serviço de Muito bom.
 
-###### Art. 41.º O recrutamento para os cargos dos quadros especiais será feito nos termos seguintes:
+Art. 41.º O recrutamento para os cargos dos quadros especiais será feito nos termos seguintes:
 
 1. Serviço de Informações Fiscais:
 
@@ -604,7 +751,7 @@ b) Engenheiros, agentes técnicos e regentes agrícolas de 2.ª classe, entre in
 
 § único. O recrutamento para os cargos dos quadros dos Serviços de Justiça Fiscal será feito nos termos estabelecidos na respectiva organização.
 
-###### Art. 42.º São candidatos aos concursos para as seguintes categorias:
+Art. 42.º São candidatos aos concursos para as seguintes categorias:
 
 a) Directores de finanças: chefes de secção, secretários de finanças de 1.ª classe, primeiros-oficiais e inspectores da Inspecção-Geral de Finanças;
 
@@ -638,17 +785,17 @@ n) Engenheiros, agentes técnicos e regentes agrícolas de 2.ª classe: indivíd
 
 § 3.º É dispensado o limite de idade fixado nas alíneas f), g) e h) deste artigo para os candidatos funcionários da Direcção-Geral das Contribuições e Impostos à data da abertura dos respectivos concursos.
 
-###### Art. 43.º Serão admitidos aos concursos para qualquer categoria ou classe os funcionários de categoria ou classe imediatamente inferior que nela tenham completado três anos de serviço, ainda que em cargos dos quadros especiais dos Serviços de Prevenção e Fiscalização Tributária ou de Informações Fiscais.
+Art. 43.º Serão admitidos aos concursos para qualquer categoria ou classe os funcionários de categoria ou classe imediatamente inferior que nela tenham completado três anos de serviço, ainda que em cargos dos quadros especiais dos Serviços de Prevenção e Fiscalização Tributária ou de Informações Fiscais.
 
 § 1.º O tempo mínimo de serviço exigido no corpo deste artigo é reduzido para dois anos aos concorrentes a primeiros e segundos-oficiais e a secretários de finanças de 1.ª e 2.ª classes que tenham a classificação de serviço de Muito bom.
 
 § 2.º Quando o número de candidatos aprovados em concurso não seja suficiente para o preenchimento das vagas que ocorrerem durante o prazo da sua validade, o Ministro das Finanças poderá autorizar a admissão ao concurso imediato dos concorrentes normais, com dispensa do tempo de serviço referido no corpo deste artigo, e bem assim os da categoria ou classe imediatamente inferior que nela tenham, pelo menos, três anos de serviço e classificação não inferior a Bom.
 
-###### Art. 44.º Os secretários de finanças de 3.ª classe e os terceiros-oficiais licenciados em Direito, Finanças, Economia ou Ciências Económicas e Financeiras podem concorrer a secretários de finanças de 1.ª classe e a primeiros-oficiais, desde que tenham efectivo exercício de funções em quaisquer serviços da Direcção-Geral, durante três anos, com classificação não inferior a Bom.
+Art. 44.º Os secretários de finanças de 3.ª classe e os terceiros-oficiais licenciados em Direito, Finanças, Economia ou Ciências Económicas e Financeiras podem concorrer a secretários de finanças de 1.ª classe e a primeiros-oficiais, desde que tenham efectivo exercício de funções em quaisquer serviços da Direcção-Geral, durante três anos, com classificação não inferior a Bom.
 
 § único. Os secretários de finanças de 2.ª classe e os segundos-oficiais com as habilitações referidas neste artigo podem concorrer às classes imediatas independentemente do tempo de serviço exigido no corpo do artigo anterior.
 
-###### Art. 45.º Aos concursos a que se refere o artigo 42.º serão candidatos obrigatórios, logo que completarem seis anos de serviço efectivo na respectiva categoria ou classe, os seguintes funcionários:
+Art. 45.º Aos concursos a que se refere o artigo 42.º serão candidatos obrigatórios, logo que completarem seis anos de serviço efectivo na respectiva categoria ou classe, os seguintes funcionários:
 
 a) Os chefes de secção, secretários de finanças de 1.ª classe e primeiros-oficiais, aos concursos para directores de finanças;
 
@@ -664,7 +811,7 @@ c) Os técnicos informadores de 2.ª e 3.ª classes, aos concursos para as class
 
 § 4.º Os secretários de finanças ou técnicos informadores, nas condições previstas nos parágrafos anteriores, que não obtenham aprovação em qualquer dos concursos ali referidos, passam, respectivamente, ao quadro de oficiais ou ao quadro geral, e, neste caso, na categoria e classe que tinham ao serem nomeados para o quadro especial ou na que tiverem obtido posteriormente.
 
-###### Art. 46.º Os concursos para aspirantes efectuar-se-ão durante o mês de Setembro de cada ano, podendo ser precedidos de estágio a realizar nas repartições concelhias de finanças com início em 1 de Outubro do ano anterior.
+Art. 46.º Os concursos para aspirantes efectuar-se-ão durante o mês de Setembro de cada ano, podendo ser precedidos de estágio a realizar nas repartições concelhias de finanças com início em 1 de Outubro do ano anterior.
 
 § 1.º O estágio a que se refere o corpo deste artigo é facultativo, tem a duração improrrogável de um ano, é remunerado com a gratificação mensal de 1200$00 e a sua frequência é limitada em cada repartição concelhia de finanças ao número de lugares fixado no mapa anexo ao presente diploma, que poderá ser alterado por portaria do Ministro das Finanças.
 
@@ -672,11 +819,11 @@ c) Os técnicos informadores de 2.ª e 3.ª classes, aos concursos para as class
 
 § 3.º O tempo do estágio será considerado para efeitos de aposentação se o estagiário vier a ser contratado como aspirante e exercer funções, pelo menos durante dois anos, na Direcção-Geral das Contribuições e Impostos.
 
-###### Art. 47.º Poderão ser admitidos ao estágio referido no artigo anterior os indivíduos do sexo masculino, de idade não inferior a 17 anos, com habilitação do 2.º ciclo do curso dos liceus ou equivalente.
+Art. 47.º Poderão ser admitidos ao estágio referido no artigo anterior os indivíduos do sexo masculino, de idade não inferior a 17 anos, com habilitação do 2.º ciclo do curso dos liceus ou equivalente.
 
 § único. Não poderão ser admitidos à frequência de novo estágio os indivíduos que já o tenham frequentado, ainda que fiquem vagos os lugares previstos no § 1.º do artigo 46.º
 
-###### Art. 48.º Os concursos podem ser documentais ou de provas práticas.
+Art. 48.º Os concursos podem ser documentais ou de provas práticas.
 
 § 1.º Os concursos para directores de finanças, chefes de secção, secretários de finanças de 1.ª, 2.ª e 3.ª classes, primeiros, segundos e terceiros-oficiais, aspirantes, escriturários de 2.ª classe, escriturários-dactilógrafos e técnicos informadores de 1.ª, 2.ª e 3.ª classes constam de provas práticas.
 
@@ -684,7 +831,7 @@ c) Os técnicos informadores de 2.ª e 3.ª classes, aos concursos para as class
 
 § 3.º Nos concursos para técnicos informadores de 1.ª, 2.ª e 3.ª classes, juristas e economistas e para engenheiros, agentes técnicos e regentes agrícolas de 2.ª classe não haverá classificação expressa em valores, devendo apenas distinguir-se com a nota de Apto os candidatos aprovados.
 
-###### Art. 49.º Nos concursos de provas práticas haverá provas escritas e orais:
+Art. 49.º Nos concursos de provas práticas haverá provas escritas e orais:
 
 a) As provas escritas dos concursos para directores de finanças compreenderão quatro pontos, versando cada um, respectivamente, as seguintes matérias:
 
@@ -706,7 +853,7 @@ c) As provas orais compreenderão as matérias constantes dos respectivos progra
 
 § 3.º Os concursos para aspirantes, escriturários de 2.ª classe e escriturários-dactilógrafos consistirão apenas em prova escrita.
 
-###### Art. 50.º Os júris dos concursos de provas práticas são constituídos, sob a presidência do director-geral, pela forma seguinte:
+Art. 50.º Os júris dos concursos de provas práticas são constituídos, sob a presidência do director-geral, pela forma seguinte:
 
 a) Para directores de finanças, por dois funcionários com a categoria de director de finanças e um inspector-chefe da Inspecção-Geral de Finanças, podendo um daqueles funcionários ser substituído por um jurista do Centro de Estudos Fiscais;
 
@@ -724,7 +871,7 @@ e) Para técnicos informadores de 1.ª, 2.ª e 3.ª classes, por dois funcionár
 
 § 3.º Sempre que o Ministro das Finanças o julgue indispensável, poderão ser nomeados funcionários com a categoria de director de finanças ou de chefe de secção, conforme o caso, como vogais efectivos ou suplentes para ocorrer a eventuais dificuldades na constituição e funcionamento dos júris.
 
-###### Art. 51.º Os candidatos serão classificados de 0 a 20 valores, em harmonia com as regras seguintes, considerando-se aprovados os que obtiverem classificação final não inferior a 10:
+Art. 51.º Os candidatos serão classificados de 0 a 20 valores, em harmonia com as regras seguintes, considerando-se aprovados os que obtiverem classificação final não inferior a 10:
 
 a) A classificação final dos candidatos é obtida pela média das notas das provas escrita e oral, tomando-se em conta a inteligência e conhecimentos revelados pelos candidatos e a forma por que orientaram a solução das questões que lhes foram formuladas;
 
@@ -736,11 +883,11 @@ d) Os candidatos serão eliminados na prova escrita sempre que a média nela obt
 
 e) À classificação final obtida pelos candidatos acrescerá 1 ou 0,5 valor, sempre que a sua classificação de serviço for de Muito bom ou de Bom, respectivamente.
 
-###### Art. 52.º O prazo de validade dos concursos é de três anos, a contar da data da publicação, no Diário do Governo, da respectiva lista dos candidatos aprovados.
+Art. 52.º O prazo de validade dos concursos é de três anos, a contar da data da publicação, no Diário do Governo, da respectiva lista dos candidatos aprovados.
 
 § único. O disposto neste artigo não se aplica aos concursos para técnicos informadores, que podem ser declarados sem efeito ou sem validade por decisão do Ministro das Finanças, desde que o considere vantajoso para o recrutamento e selecção do pessoal.
 
-###### Art. 53.º O provimento dos funcionários dos diferentes quadros será feito por proposta do director-geral, observando-se, quanto aos funcionários aprovados em concurso, as seguintes regras:
+Art. 53.º O provimento dos funcionários dos diferentes quadros será feito por proposta do director-geral, observando-se, quanto aos funcionários aprovados em concurso, as seguintes regras:
 
 a) As vagas do quadro geral serão preenchidas segundo a ordem de classificação da respectiva lista;
 
@@ -762,7 +909,7 @@ Os candidatos providos ao abrigo do disposto no presente parágrafo não poderã
 
 § 7.º Os funcionários aprovados em concurso para directores de finanças não podem desistir da promoção.
 
-###### Art. 54.º A forma de provimento dos funcionários da Direcção-Geral será a estabelecida nas regras seguintes, sem prejuízo do disposto nos artigos 37.º a 39.º:
+Art. 54.º A forma de provimento dos funcionários da Direcção-Geral será a estabelecida nas regras seguintes, sem prejuízo do disposto nos artigos 37.º a 39.º:
 
 a) Nomeação definitiva, para directores de finanças, chefes de secção, secretários de finanças de 1.ª, 2.ª e 3.ª classes, primeiros, segundos e terceiros-oficiais, aspirantes concursados, escriturários de 1.ª classe e engenheiros, agentes técnicos e regentes agrícolas de 1.ª classe;
 
@@ -784,7 +931,7 @@ A comissão só será dada por finda quando no quadro geral houver vaga na categ
 
 § 5.º Nos cargos das repartições concelhias de finanças só poderão ser providos funcionários do sexo masculino.
 
-###### Art. 55.º Os funcionários podem ser transferidos a seu pedido, por conveniência de serviço e por motivo disciplinar, constituindo condições de preferência, quando os requerentes tenham mais de um ano de serviço no lugar:
+Art. 55.º Os funcionários podem ser transferidos a seu pedido, por conveniência de serviço e por motivo disciplinar, constituindo condições de preferência, quando os requerentes tenham mais de um ano de serviço no lugar:
 
 1.º Melhores classificações de serviço;
 
@@ -796,13 +943,13 @@ A comissão só será dada por finda quando no quadro geral houver vaga na categ
 
 § 2.º Os funcionários dos quadros especiais dos Serviços de Prevenção e Fiscalização Tributária e de Informações Fiscais poderão ser livremente transferidos em harmonia com as necessidades dos serviços e com vista à sua melhor eficiência, independentemente dos casos previstos no corpo deste artigo.
 
-###### Art. 56.º As transferências para os cargos de directores distritais de finanças e de chefes e subchefes das repartições de finanças dos bairros serão feitas por livre escolha do Ministro, sob proposta do director-geral.
+Art. 56.º As transferências para os cargos de directores distritais de finanças e de chefes e subchefes das repartições de finanças dos bairros serão feitas por livre escolha do Ministro, sob proposta do director-geral.
 
-###### Art. 57.º Os chefes das repartições de finanças dos concelhos ou bairros serão sempre transferidos após seis anos de serviço na mesma localidade e só nela poderão ser novamente colocados decorridos seis anos.
+Art. 57.º Os chefes das repartições de finanças dos concelhos ou bairros serão sempre transferidos após seis anos de serviço na mesma localidade e só nela poderão ser novamente colocados decorridos seis anos.
 
-###### Art. 58.º A posse deverá ser tomada pessoalmente e no serviço onde o funcionário for exercer as funções do seu cargo ou que for fixado para centro da sua actividade funcional, salvo quando, em casos justificados, o Ministro das Finanças autorizar procedimento diverso.
+Art. 58.º A posse deverá ser tomada pessoalmente e no serviço onde o funcionário for exercer as funções do seu cargo ou que for fixado para centro da sua actividade funcional, salvo quando, em casos justificados, o Ministro das Finanças autorizar procedimento diverso.
 
-###### Art. 59.º O prazo para a posse é de quinze dias, contados da publicação da respectiva portaria ou despacho no Diário do Governo, salvo o disposto nos parágrafos seguintes:
+Art. 59.º O prazo para a posse é de quinze dias, contados da publicação da respectiva portaria ou despacho no Diário do Governo, salvo o disposto nos parágrafos seguintes:
 
 § 1.º Tratando-se de promoção ou transferência que não importe mudança de residência, o prazo para a posse é de dois dias, a contar da chegada do Diário do Governo à respectiva localidade.
 
@@ -812,9 +959,9 @@ A comissão só será dada por finda quando no quadro geral houver vaga na categ
 
 § 4.º Poderá ainda o Ministro das Finanças, por proposta do director-geral, reduzir o prazo a que se refere o corpo deste artigo sempre que as circunstâncias o justifiquem.
 
-###### Art. 60.º Quando se trate de primeira nomeação, a falta de posse dentro do prazo legal, sem motivo justificado, importa a anulação da respectiva portaria ou despacho, sem precedência de qualquer formalidade. Nos casos de promoção ou transferência ou de reassunção de funções a falta de posse é equiparada a abandono de lugar.
+Art. 60.º Quando se trate de primeira nomeação, a falta de posse dentro do prazo legal, sem motivo justificado, importa a anulação da respectiva portaria ou despacho, sem precedência de qualquer formalidade. Nos casos de promoção ou transferência ou de reassunção de funções a falta de posse é equiparada a abandono de lugar.
 
-###### Art. 61.º A posse será conferida:
+Art. 61.º A posse será conferida:
 
 Na Direcção-Geral, pelo director-geral;
 
@@ -824,11 +971,11 @@ Nas repartições concelhias de finanças, pelo chefe da repartição.
 
 § único. No caso previsto na parte final do artigo 58.º a posse será conferida pela entidade designada pelo Ministro das Finanças.
 
-###### Art. 62.º Os funcionários que sejam promovidos à classe ou categoria superior durante o exercício de cargos em comissão, nos quais possam continuar após a promoção, não carecem de nova posse nos mesmos cargos, mas devem ser empossados da sua nova classe ou categoria perante a entidade competente referida no artigo anterior.
+Art. 62.º Os funcionários que sejam promovidos à classe ou categoria superior durante o exercício de cargos em comissão, nos quais possam continuar após a promoção, não carecem de nova posse nos mesmos cargos, mas devem ser empossados da sua nova classe ou categoria perante a entidade competente referida no artigo anterior.
 
 #### SECÇÃO IV — Das substituições
 
-###### Art. 63.º Os funcionários que exerçam cargos de chefia serão substituídos, na sua ausência ou impedimento, pela forma seguinte:
+Art. 63.º Os funcionários que exerçam cargos de chefia serão substituídos, na sua ausência ou impedimento, pela forma seguinte:
 
 a) O director-geral, por um dos adjuntos designado por despacho ministerial, sob sua proposta;
 
@@ -846,11 +993,11 @@ f) Os chefes das repartições concelhias de finanças, pelo funcionário mais c
 
 § 2.º Nos casos não compreendidos no corpo deste artigo ou quando se reconheça conveniente para os serviços adoptar procedimento diferente do previsto nas alíneas d) e f) e no parágrafo anterior, o director-geral ou o director distrital de finanças designarão o substituto sob proposta do funcionário a substituir.
 
-###### Art. 64.º As faltas temporárias do pessoal da Direcção-Geral, com exclusão do de direcção e chefia, quando se prevejam por período superior a 30 dias, poderão ser supridas mediante autorização ministerial por admissão de indivíduos estranhos aos quadros, nos termos dos artigos seguintes.
+Art. 64.º As faltas temporárias do pessoal da Direcção-Geral, com exclusão do de direcção e chefia, quando se prevejam por período superior a 30 dias, poderão ser supridas mediante autorização ministerial por admissão de indivíduos estranhos aos quadros, nos termos dos artigos seguintes.
 
 § único. É igualmente aplicável o disposto no corpo deste artigo quando se verifique necessidade imperiosa de executar serviços em atraso ou de ocorrer a trabalhos extraordinários.
 
-###### Art. 65.º A admissão de indivíduos prevista no artigo anterior será feita com carácter provisório, nos termos seguintes:
+Art. 65.º A admissão de indivíduos prevista no artigo anterior será feita com carácter provisório, nos termos seguintes:
 
 a) Para os lugares de oficiais e aspirantes, entre candidatos aprovados nos concursos para aspirantes, cuja validade não tenha expirado;
 
@@ -858,9 +1005,9 @@ b) Para os de escriturários, escriturários-dactilógrafos, auxiliares de desen
 
 § único. Na falta de candidatos habilitados com concurso para aspirantes só poderão ser admitidos provisòriamente indivíduos que reúnam as condições legais para a admissão a esses concursos.
 
-###### Art. 66.º A admissão referida nos artigos 64.º e 65.º será feita por alvará passado pelo chefe respectivo, com dispensa do visto do Tribunal de Contas ou de qualquer outra formalidade que não seja o simples registo, em livro próprio, na Direcção-Geral.
+Art. 66.º A admissão referida nos artigos 64.º e 65.º será feita por alvará passado pelo chefe respectivo, com dispensa do visto do Tribunal de Contas ou de qualquer outra formalidade que não seja o simples registo, em livro próprio, na Direcção-Geral.
 
-###### Art. 67.º O pessoal provisório fica sujeito, na parte aplicável, à disciplina dos funcionários do quadro e terá direito aos abonos seguintes:
+Art. 67.º O pessoal provisório fica sujeito, na parte aplicável, à disciplina dos funcionários do quadro e terá direito aos abonos seguintes:
 
 a) Remuneração igual ao vencimento do funcionário substituído, não podendo, em caso algum, exceder o de um aspirante concursado;
 
@@ -872,9 +1019,9 @@ c) Emolumentos e custas a que teriam direito os funcionários substituídos.
 
 #### SECÇÃO V — Dos direitos e deveres dos funcionários
 
-###### Art. 68.º O director-geral, como chefe superior do Ministério Público das Contribuições e Impostos, goza de prerrogativas iguais às dos juízes do Supremo Tribunal Administrativo.
+Art. 68.º O director-geral, como chefe superior do Ministério Público das Contribuições e Impostos, goza de prerrogativas iguais às dos juízes do Supremo Tribunal Administrativo.
 
-###### Art. 69.º Os funcionários da Direcção-Geral das Contribuições e Impostos têm direito aos vencimentos constantes do mapa anexo ao presente diploma e aos emolumentos e custas que lhes sejam atribuídos por lei.
+Art. 69.º Os funcionários da Direcção-Geral das Contribuições e Impostos têm direito aos vencimentos constantes do mapa anexo ao presente diploma e aos emolumentos e custas que lhes sejam atribuídos por lei.
 
 § 1.º Sem prejuízo do disposto nos artigos 60.º e 86.º da Organização dos Serviços de Justiça Fiscal, aprovada pelo [Decreto-Lei n.º 45006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45006-1963-628298), de 27 de Abril de 1963, os funcionários que desempenhem funções de direcção, inspecção, fiscalização ou chefia e, bem assim, os funcionários do quadro especial do Serviço de Informações Fiscais, têm direito às gratificações a fixar pelo Ministro das Finanças, consoante a natureza ou ónus especial dos seus cargos, de harmonia com o preceituado no artigo 13.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
 
@@ -882,11 +1029,11 @@ c) Emolumentos e custas a que teriam direito os funcionários substituídos.
 
 § 3.º Quando o cargo de director-geral for provido nos termos da segunda parte do corpo do artigo 37.º deste diploma, poderá o interessado optar pelo vencimento que vinha auferindo, o qual ficará a cargo do Ministério das Finanças, competindo ao Ministro fixar a gratificação a abonar no caso de acumulação.
 
-###### Art. 70.º As custas e emolumentos atribuídos aos funcionários que já tiverem atingido os limites legais serão distribuídos pelos restantes funcionários do quadro do respectivo serviço, porporcionalmente à parte da sua comparticipação, revertendo para o Estado o quantitativo total das custas e emolumentos depois de atingidos os respectivos limites.
+Art. 70.º As custas e emolumentos atribuídos aos funcionários que já tiverem atingido os limites legais serão distribuídos pelos restantes funcionários do quadro do respectivo serviço, porporcionalmente à parte da sua comparticipação, revertendo para o Estado o quantitativo total das custas e emolumentos depois de atingidos os respectivos limites.
 
-###### Art. 71.º As gratificações atribuídas aos funcionários pelo exercício de cargos da Direcção-Geral das Contribuições e Impostos pertencerão a quem efectivamente desempenhe essas funções, salvo nos casos de licença graciosa até 30 dias em cada ano ou outro impedimento legal, não se compreendendo naquele período as faltas dadas por motivo de luto.
+Art. 71.º As gratificações atribuídas aos funcionários pelo exercício de cargos da Direcção-Geral das Contribuições e Impostos pertencerão a quem efectivamente desempenhe essas funções, salvo nos casos de licença graciosa até 30 dias em cada ano ou outro impedimento legal, não se compreendendo naquele período as faltas dadas por motivo de luto.
 
-###### Art. 72.º Sem prejuízo dos direitos fixados na lei geral, no que respeita a abonos de transportes e ajudas de custo quando se desloquem em serviço da sua residência oficial, os funcionários da Direcção-Geral das Contribuições e Impostos têm direito aos seguintes abonos:
+Art. 72.º Sem prejuízo dos direitos fixados na lei geral, no que respeita a abonos de transportes e ajudas de custo quando se desloquem em serviço da sua residência oficial, os funcionários da Direcção-Geral das Contribuições e Impostos têm direito aos seguintes abonos:
 
 a) Transporte para si e para sua família nos casos de nomeação, contrato ou transferência por iniciativa da Administração, salvo se for por motivo disciplinar;
 
@@ -896,9 +1043,9 @@ c) Ajudas de custo e reembolso das despesas de alojamento e alimentação das pe
 
 § único. Consideram-se pessoas de família, para efeitos do disposto neste artigo, o cônjuge e os parentes ou afins na linha recta ou na linha colateral até ao 2.º grau que estejam a cargo do funcionário.
 
-###### Art. 73.º Durante o período de estágio para directores de finanças os candidatos ficarão desligados das suas funções normais, mantendo, porém, o direito aos vencimentos e gratificações como se estivessem no exercício do cargo, e terão direito a abonos de despesas de transporte e ajudas de custo quando houver deslocação da residência.
+Art. 73.º Durante o período de estágio para directores de finanças os candidatos ficarão desligados das suas funções normais, mantendo, porém, o direito aos vencimentos e gratificações como se estivessem no exercício do cargo, e terão direito a abonos de despesas de transporte e ajudas de custo quando houver deslocação da residência.
 
-###### Art. 74.º Para o bom desempenho das suas funções ficam os funcionários da Direcção-Geral das Contribuições e Impostos:
+Art. 74.º Para o bom desempenho das suas funções ficam os funcionários da Direcção-Geral das Contribuições e Impostos:
 
 a) Dispensados de licença de uso e porte de arma de defesa nos termos da legislação em vigor, não sendo responsáveis pelas consequências que resultem do uso legítimo que fizerem delas em protecção dos interesses da Fazenda Nacional ou em defesa própria no exercício das suas funções;
 
@@ -906,11 +1053,11 @@ b) Autorizados a prender em flagrante delito os indivíduos que os ofendam no ex
 
 c) Isentos de pagamento de qualquer portagem nas pontes ou estradas e autorizados a ingressar ou transitar em quaisquer recintos públicos, ainda que a admissão nestes esteja sujeita ao pagamento de entrada, designadamente nas gares de caminhos de ferro, estações, cais de embarque, docas, aeródromos e aeroportos.
 
-###### Art. 75.º O director-geral, adjuntos, chefes de repartição dos serviços centrais, directores distritais de finanças e seus ajudantes, chefes das repartições concelhias e os funcionários dos quadros especiais do Serviço de Prevenção e Fiscalização Tributária e do Gabinete Técnico de Avaliações e Instalações têm direito à distribuição de armamento do Estado.
+Art. 75.º O director-geral, adjuntos, chefes de repartição dos serviços centrais, directores distritais de finanças e seus ajudantes, chefes das repartições concelhias e os funcionários dos quadros especiais do Serviço de Prevenção e Fiscalização Tributária e do Gabinete Técnico de Avaliações e Instalações têm direito à distribuição de armamento do Estado.
 
-###### Art. 76.º Os funcionários da Direcção-Geral das Contribuições e Impostos só poderão desempenhar comissões de serviço fora dos quadros a que pertençam desde que autorizados pelo Ministro das Finanças.
+Art. 76.º Os funcionários da Direcção-Geral das Contribuições e Impostos só poderão desempenhar comissões de serviço fora dos quadros a que pertençam desde que autorizados pelo Ministro das Finanças.
 
-###### Art. 77.º É vedado aos funcionários da Direcção-Geral das Contribuições e Impostos:
+Art. 77.º É vedado aos funcionários da Direcção-Geral das Contribuições e Impostos:
 
 a) Exercer advocacia ou qualquer espécie de procuradoria, com excepção dos juristas do Centro de Estudos em causas não fiscais;
 
@@ -920,54 +1067,54 @@ c) Desempenhar, sem autorização do Ministro das Finanças, qualquer actividade
 
 § único. Os funcionários que pretendam exercer qualquer actividade susceptível de afectar o prestígio das respectivas funções ou de enfraquecer a sua autoridade deverão solicitar ao Ministro o competente esclarecimento sobre os efeitos que possam resultar para o exercício do cargo.
 
-###### Art. 78.º Os funcionários da Direcção-Geral das Contribuições e Impostos devem velar pelo cumprimento das leis fiscais e sua justa aplicação, tomando as providências que estiverem nos limites da sua competência sempre que observem a existência de matéria colectável omitida ou ocultada, outras violações das referidas leis e distorções dos seus objectivos e, de uma maneira geral, infracções ou quaisquer outras circunstâncias que interessem à prossecução dos fins da administração fiscal.
+Art. 78.º Os funcionários da Direcção-Geral das Contribuições e Impostos devem velar pelo cumprimento das leis fiscais e sua justa aplicação, tomando as providências que estiverem nos limites da sua competência sempre que observem a existência de matéria colectável omitida ou ocultada, outras violações das referidas leis e distorções dos seus objectivos e, de uma maneira geral, infracções ou quaisquer outras circunstâncias que interessem à prossecução dos fins da administração fiscal.
 
-###### Art. 79.º Para efeitos da obrigação geral de fiscalização e para o cumprimento de deveres e exercício de direitos os funcionários da Direcção-Geral consideram-se como estando permanentemente no exercício das suas funções.
+Art. 79.º Para efeitos da obrigação geral de fiscalização e para o cumprimento de deveres e exercício de direitos os funcionários da Direcção-Geral consideram-se como estando permanentemente no exercício das suas funções.
 
-###### Art. 80.º Os funcionários da Direcção-Geral que procedam a verificação ou exame em escrita de qualquer empresa comercial ou industrial ficam inibidos, antes de decorridos cinco anos e seja qual for a situação em que se encontrem, de exercer qualquer cargo ou de prestar serviços, mesmo de procuradoria, nessa empresa ou em qualquer outra que dela seja filiada, dependente ou que em relação a ela se encontre em situação análoga.
+Art. 80.º Os funcionários da Direcção-Geral que procedam a verificação ou exame em escrita de qualquer empresa comercial ou industrial ficam inibidos, antes de decorridos cinco anos e seja qual for a situação em que se encontrem, de exercer qualquer cargo ou de prestar serviços, mesmo de procuradoria, nessa empresa ou em qualquer outra que dela seja filiada, dependente ou que em relação a ela se encontre em situação análoga.
 
 § único. A infracção do disposto neste artigo será punida nos termos do § 2.º do artigo 236.º do Código Penal.
 
 ### CAPÍTULO IV — Instalações
 
-###### Art. 81.º Constituem encargo do Estado todas as despesas de instalação e manutenção dos serviços centrais da Direcção-Geral, tribunais das contribuições e impostos e direcções distritais de finanças, excepto quando tenham sede nas ilhas adjacentes, caso em que continuarão a cargo das respectivas juntas gerais enquanto se mantiverem em vigor as leis especiais por que se regem.
+Art. 81.º Constituem encargo do Estado todas as despesas de instalação e manutenção dos serviços centrais da Direcção-Geral, tribunais das contribuições e impostos e direcções distritais de finanças, excepto quando tenham sede nas ilhas adjacentes, caso em que continuarão a cargo das respectivas juntas gerais enquanto se mantiverem em vigor as leis especiais por que se regem.
 
-###### Art. 82.º Constituem encargo obrigatório das respectivas câmaras municipais, nos termos da lei em vigor para os serviços de finanças concelhios, as despesas com renda, instalação, mobiliário, reparações e fornecimento de água e luz das repartições de finanças dos concelhos e bairros fiscais.
+Art. 82.º Constituem encargo obrigatório das respectivas câmaras municipais, nos termos da lei em vigor para os serviços de finanças concelhios, as despesas com renda, instalação, mobiliário, reparações e fornecimento de água e luz das repartições de finanças dos concelhos e bairros fiscais.
 
 ### CAPÍTULO V — Disposições gerais e transitórias
 
-###### Art. 83.º A classificação de serviço dos funcionários da Direcção-Geral será determinada pela média das informações ou classificações respeitantes ao último ano civil, seja qual for a sua proveniência e de conformidade com o que for estabelecido no respectivo regulamento.
+Art. 83.º A classificação de serviço dos funcionários da Direcção-Geral será determinada pela média das informações ou classificações respeitantes ao último ano civil, seja qual for a sua proveniência e de conformidade com o que for estabelecido no respectivo regulamento.
 
-###### Art. 84.º O disposto no § 1.º do artigo 40.º é aplicável aos funcionários que anteriormente à data da publicação do presente diploma tenham sido aprovados em concurso para directores de finanças, independentemente da data em que este tenha sido realizado.
+Art. 84.º O disposto no § 1.º do artigo 40.º é aplicável aos funcionários que anteriormente à data da publicação do presente diploma tenham sido aprovados em concurso para directores de finanças, independentemente da data em que este tenha sido realizado.
 
-###### Art. 85.º O disposto na alínea d) do artigo 40.º é aplicável ùnicamente aos aspirantes que obtenham aprovação em concursos realizados posteriormente à data da publicação do presente diploma.
+Art. 85.º O disposto na alínea d) do artigo 40.º é aplicável ùnicamente aos aspirantes que obtenham aprovação em concursos realizados posteriormente à data da publicação do presente diploma.
 
-###### Art. 86.º Os actuais auxiliares do Serviço de Informações Fiscais com classificação de serviço não inferior a Bom poderão ser providos, nos termos da alínea a) do artigo 54.º, em lugares de escriturários de 1.ª classe, com dispensa das habilitações literárias legalmente exigidas.
+Art. 86.º Os actuais auxiliares do Serviço de Informações Fiscais com classificação de serviço não inferior a Bom poderão ser providos, nos termos da alínea a) do artigo 54.º, em lugares de escriturários de 1.ª classe, com dispensa das habilitações literárias legalmente exigidas.
 
 § 1.º No provimento dos informadores fiscais e dos actuais dactilógrafos da Direcção-Geral das Contribuições e Impostos em lugares de escriturários de 1.ª classe é igualmente dispensado o requisito referido no corpo deste artigo, e bem assim o tempo de serviço exigido na alínea e) do artigo 40.º
 
 § 2.º Os indivíduos que à data da publicação deste diploma venham efectuando regularmente, com boas informações, trabalhos de dactilografia, desenho ou outros próprios da função de escriturário nos serviços da Direcção-Geral das Contribuições e Impostos ou na comissão de reforma fiscal, poderão ser providos nas vagas de escriturários de 2.ª classe, escriturários-dactilógrafos ou auxiliares de desenho, com dispensa dos requisitos referidos nas alíneas f), g) e h) do artigo 40.º e nas alíneas g) e h) do artigo 42.º, à medida que forem ocorrendo as vagas, segundo a ordem por que tenham sido admitidos, se nessa data se encontrarem ainda ao serviço.
 
-###### Art. 87.º Os licenciados em Direito, Economia, Finanças ou Ciências Económicas e Financeiras que à data da publicação deste diploma venham prestando regularmente serviços de natureza jurídica ou económica na Direcção-Geral das Contribuições e Impostos, e sobre os quais seja prestada informação não inferior a Bom, poderão ser nomeados para os lugares de juristas ou economistas do quadro especial do Centro de Estudos Fiscais, com dispensa dos requisitos referidos no n.º 2 do artigo 41.º
+Art. 87.º Os licenciados em Direito, Economia, Finanças ou Ciências Económicas e Financeiras que à data da publicação deste diploma venham prestando regularmente serviços de natureza jurídica ou económica na Direcção-Geral das Contribuições e Impostos, e sobre os quais seja prestada informação não inferior a Bom, poderão ser nomeados para os lugares de juristas ou economistas do quadro especial do Centro de Estudos Fiscais, com dispensa dos requisitos referidos no n.º 2 do artigo 41.º
 
 Ministério das Finanças, 29 de Junho de 1963. - O Ministro das Finanças, António Manuel Pinto Barbosa.
 
 Mapa a que se referem os artigos 22.º e 69.º da Organização da Direcção-Geral das Contribuições e Impostos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/06/15200/08060825.pdf))](https://files.diariodarepublica.pt/1s/1963/06/15200/08060825.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/06/15200/08060825.pdf)
 
 Mapas a que se refere o artigo 22.º da Organização da Direcção-Geral das Contribuições e Impostos
 
 I) Quadro do pessoal da Direcção-Geral em serviço no Ministério
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/06/15200/08060825.pdf))](https://files.diariodarepublica.pt/1s/1963/06/15200/08060825.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/06/15200/08060825.pdf)
 
 II) Quadro do pessoal das direcções de finanças distritais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/06/15200/08060825.pdf))](https://files.diariodarepublica.pt/1s/1963/06/15200/08060825.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/06/15200/08060825.pdf)
 
 III) Quadro do pessoal das repartições de finanças concelhias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/06/15200/08060825.pdf))](https://files.diariodarepublica.pt/1s/1963/06/15200/08060825.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/06/15200/08060825.pdf)
 
 Ministério das Finanças, 29 de Junho de 1963. - O Ministro das Finanças, António Manuel Pinto Barbosa.

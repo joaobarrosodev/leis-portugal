@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45537-1964-469255
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-01-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:39:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5db32b8a2fb9de192f28fce75feb598bc98e3990c4b908712362d4de0fab6e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2951cdfca941ee61acbdb0da7d7bacf3c097164f9aa8ef07ed65109a0f230727
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:39:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:331617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354910:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:39:14Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +102,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. O artigo 135.º do Regulamento de Transportes em Automóveis, aprovado pelo [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948, passa a ter a seguinte redacção:
+Artigo único. O artigo 135.º do Regulamento de Transportes em Automóveis, aprovado pelo [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948, passa a ter a seguinte redacção:
 
-###### Art. 135.º Nos pontos extremos ou intermédios do percurso das concessões de carreiras regulares interurbanas poderá haver estações de camionagem ou simples abrigos para passageiros, atendendo-se sempre, quer para efeitos da sua localização, quer na elaboração dos respectivos projectos, às exigências fundamentais da coordenação dos transportes.
+Art. 135.º Nos pontos extremos ou intermédios do percurso das concessões de carreiras regulares interurbanas poderá haver estações de camionagem ou simples abrigos para passageiros, atendendo-se sempre, quer para efeitos da sua localização, quer na elaboração dos respectivos projectos, às exigências fundamentais da coordenação dos transportes.
 
 § 1.º A aprovação da localização das estações de camionagem compete ao Ministro das Comunicações, sob proposta do Gabinete de Estudos e Planeamento de Transportes Terrestres, ouvidas prèviamente a Direcção-Geral de Transportes Terrestres e as câmaras municipais interessadas, que, para o efeito, consultarão, se necessário, os serviços competentes do Ministério das Obras Públicas.
 
@@ -110,6 +118,6 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 § 6.º A elaboração dos projectos e a construção das estações de camionagem, quando efectuadas pelas câmaras municipais ou pelas entidades concessionárias referidas no parágrafo anterior, poderão ser subsidiadas pelo Fundo Especial de Transportes Terrestres, ao abrigo do n.º 3.º do artigo 23.º do [Decreto-Lei n.º 38247](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38247-1951-331617), de 9 de Maio de 1951, nos termos e condições a aprovar pelo Ministro das Comunicações.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Janeiro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Carlos Gomes da Silva Ribeiro.

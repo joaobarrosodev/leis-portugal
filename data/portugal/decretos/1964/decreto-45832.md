@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45832-1964-579498
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-07-25T00:00:00Z'
+  retrieved_at: '2026-10-22T19:41:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8cad1e7aabf320d6076f52bd10d1b08839b5c64f4d01d304a9eb84b898e6730
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3f9017e9b8ca41c48e8fce7424f8f99f9622222d305dae100a65999ebd90632
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:41:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Deficiente
+- Educação Especial
+- Pessoal Docente
+relationships:
+- type: cites
+  target: pt:dre:327606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:349080:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:41:19Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +100,9 @@ Nestas condições:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, o seguinte:
 
-###### Artigo 1.º O curso destinado à preparação de professores e outros agentes de ensino de anormais, criado no Instituto de António Aurélio da Costa Ferreira pelo artigo 5.º do [Decreto-Lei n.º 31801](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31801-1941-349080), de 26 de Dezembro de 1941, e organizado pelo [Decreto n.º 32607](https://diariodarepublica.pt/dr/detalhe/decreto/32607-1942-327606), de 30 de Dezembro de 1942, tem a designação de curso de especialização de professores de crianças inadaptadas.
+Artigo 1.º O curso destinado à preparação de professores e outros agentes de ensino de anormais, criado no Instituto de António Aurélio da Costa Ferreira pelo artigo 5.º do [Decreto-Lei n.º 31801](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31801-1941-349080), de 26 de Dezembro de 1941, e organizado pelo [Decreto n.º 32607](https://diariodarepublica.pt/dr/detalhe/decreto/32607-1942-327606), de 30 de Dezembro de 1942, tem a designação de curso de especialização de professores de crianças inadaptadas.
 
-###### Art. 2.º À matrícula no curso serão admitidos indivíduos de ambos os sexos que satisfaçam às seguintes condições:
+Art. 2.º À matrícula no curso serão admitidos indivíduos de ambos os sexos que satisfaçam às seguintes condições:
 
 a) Não terem mais de 35 anos de idade;
 
@@ -101,31 +112,31 @@ c) Mostrarem, através de inspecção feita por pessoal técnico do Instituto, p
 
 § único. O Ministro da Educação Nacional poderá, excepcionalmente, ouvido o director do Instituto, mandar admitir pessoas que não preencham os requisitos estabelecidos neste artigo, mas que tenham revelado especial capacidade para o estudo dos problemas relacionados com o ensino de crianças inadaptadas.
 
-###### Art. 3.º É de vinte o número de candidatos a admitir em cada ano à frequência do curso.
+Art. 3.º É de vinte o número de candidatos a admitir em cada ano à frequência do curso.
 
 § 1.º Pode, porém, o Ministro da Educação Nacional autorizar a admissão de candidatos além deste número se as necessidades o justificarem e as condições do Instituto o permitirem.
 
 § 2.º Pelo menos três quartos do número dos candidatos admitidos deverão possuir a habilitação para o magistério primário.
 
-###### Art. 4.º Sempre que o director do instituto, sobre informações escritas e fundamentadas dos respectivos professores, concluir que um aluno não possui as aptidões exigidas para o magistério de crianças inadaptadas, cancelará a matrícula desse aluno.
+Art. 4.º Sempre que o director do instituto, sobre informações escritas e fundamentadas dos respectivos professores, concluir que um aluno não possui as aptidões exigidas para o magistério de crianças inadaptadas, cancelará a matrícula desse aluno.
 
 § único. O cancelamento da matrícula poderá ter lugar em qualquer altura do curso.
 
-###### Art. 5.º Os professores oficiais carecem, para frequentar o curso, de autorização do Ministro da Educação Nacional e só conservam, durante a frequência, direito aos vencimentos se a autorização não envolver dispensa das obrigações docentes.
+Art. 5.º Os professores oficiais carecem, para frequentar o curso, de autorização do Ministro da Educação Nacional e só conservam, durante a frequência, direito aos vencimentos se a autorização não envolver dispensa das obrigações docentes.
 
 § 1.º Pode, porém, o Ministro, em casos de especial interesse para o serviço ou de especiais aptidões dos candidatos, determinar que estes frequentem o curso sem prejuízo do abono dos vencimentos e com dispensa das obrigações docentes.
 
 § 2.º A decisão do Ministro recairá sobre informações fundamentadas dos directores dos serviços a que os professores pertencerem e do director do Instituto.
 
-###### Art. 6.º A propina de matrícula é de 150$00, pagos por meio de estampilha fiscal.
+Art. 6.º A propina de matrícula é de 150$00, pagos por meio de estampilha fiscal.
 
-###### Art. 7.º A matrícula será requerida de 15 a 30 de Agosto e as aulas funcionarão de 7 de Outubro a 30 de Junho.
+Art. 7.º A matrícula será requerida de 15 a 30 de Agosto e as aulas funcionarão de 7 de Outubro a 30 de Junho.
 
 § único. As férias serão de onze dias pelo Natal (de 23 de Dezembro a 2 de Janeiro) e de dez dias pela Páscoa (desde a véspera de domingo de Ramos até segunda-feira de Páscoa).
 
-###### Art. 8.º O curso, que tem a duração de um ano, consta de aulas teóricas, trabalhos práticos e estágios.
+Art. 8.º O curso, que tem a duração de um ano, consta de aulas teóricas, trabalhos práticos e estágios.
 
-###### Art. 9.º São as seguintes as cadeiras do curso:
+Art. 9.º São as seguintes as cadeiras do curso:
 
 1.º Psicologia da Criança e do Adolescente Inadaptados (1.º semestre: Técnica Psicológica; 2.º semestre: Psicologia da Criança e do Adolescente Inadaptados) - duas horas por semana;
 
@@ -137,13 +148,13 @@ c) Mostrarem, através de inspecção feita por pessoal técnico do Instituto, p
 
 5.º Educação e Reeducação da Linguagem (1.º semestre) - duas horas por semana.
 
-###### Art. 10.º A regência das cadeiras é assegurada pelo director, professor e professores adjuntos.
+Art. 10.º A regência das cadeiras é assegurada pelo director, professor e professores adjuntos.
 
-###### Art. 11.º As aulas teóricas terão a duração de uma hora, e em cada dia útil haverá três horas de trabalhos práticos ou estágios.
+Art. 11.º As aulas teóricas terão a duração de uma hora, e em cada dia útil haverá três horas de trabalhos práticos ou estágios.
 
-###### Art. 12.º Os estágios serão feitos nas classes de observação do Instituto e nas classes especiais, conforme as conveniências de serviço.
+Art. 12.º Os estágios serão feitos nas classes de observação do Instituto e nas classes especiais, conforme as conveniências de serviço.
 
-###### Art. 13.º Os alunos são obrigados a assiduidade e pontualidade nas diferentes actividades que constituem o curso.
+Art. 13.º Os alunos são obrigados a assiduidade e pontualidade nas diferentes actividades que constituem o curso.
 
 Todas as faltas têm de ser justificadas perante o director, que poderá relevá-las até ao limite de:
 
@@ -153,13 +164,13 @@ b) Quatro faltas nas cadeiras com uma hora de aula por semana;
 
 c) Um total de vinte e quatro faltas nos trabalhos práticos e estágios.
 
-###### Art. 14.º Durante o ano lectivo o aproveitamento será apurado através de interrogatórios, de relatórios escritos e dos trabalhos práticos e dos estágios.
+Art. 14.º Durante o ano lectivo o aproveitamento será apurado através de interrogatórios, de relatórios escritos e dos trabalhos práticos e dos estágios.
 
 § único. Não serão admitidos a exame final os alunos que nestas provas obtiverem média inferior a 10 valores, entrando para o cálculo da mesma o estágio com o coeficiente 2.
 
-###### Art. 15.º Os exames realizar-se-ão durante o mês de Julho.
+Art. 15.º Os exames realizar-se-ão durante o mês de Julho.
 
-###### Art. 16.º O exame final constará de provas práticas e de prova oral.
+Art. 16.º O exame final constará de provas práticas e de prova oral.
 
 § 1.º As provas práticas serão duas:
 
@@ -175,12 +186,12 @@ b) Observação psicológica, durante o máximo de duas horas, de uma criança d
 
 § 5.º O resultado do exame final será a média das classificações obtidas nas provas práticas, na prova oral e na frequência e será expressa em valores.
 
-###### Art. 17.º O aluno que ficar duas vezes reprovado será definitivamente excluído do curso.
+Art. 17.º O aluno que ficar duas vezes reprovado será definitivamente excluído do curso.
 
 § único. A perda de frequência e a desistência durante o exame são, para efeito do disposto neste artigo, equiparadas à reprovação.
 
-###### Art. 18.º A aprovação no exame final dá direito ao diploma do curso, que constitui título indispensável para o exercício do ensino de crianças inadaptadas.
+Art. 18.º A aprovação no exame final dá direito ao diploma do curso, que constitui título indispensável para o exercício do ensino de crianças inadaptadas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Julho de 1964. - ANTÓNIO DE OLIVEIRA SALAZAR - Inocêncio Galvão Teles.

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/70/2009/10/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/70-2009-490965
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:11:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 531b8ca237d160fdb8db1188759114c2fc8c8aeabee0c54c806b39a97a632c38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4796e7b02c582cba6d28d1e8d1624f7df72f2bf0863e711a63bb08928d19fde
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:11:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
 - Contra-ordenação
-- Pagamento
 - Impugnação
 - Lei Quadro
+- Multa
+- Pagamento
 - Proteção do Ambiente
 - Responsabilidade Criminal
 relationships:
@@ -79,6 +79,12 @@ relationships:
   target: pt:dre:70133806:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70133806:por
+  label: Alterado, a partir de 27.10.2015, o art. 1.º da Lei 50/2006 de 29-ago, com a redação e republicação da Lei 89/2009
+    de 31-ago, pelo(a) Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-2015-70133806
+  date: '2015-08-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/235/2000/09/26/p/dre
   label: null
@@ -91,16 +97,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/89/2009/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/89/2009/08/31/p/dre
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560271:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:lei:89/2009
+  label: "Rectifica o artigo 1.º (no proémio, passando o artigo 72.º a 73.º e o texto dos respectivos artigos) da Lei n.º\
+    \ 89/2009, de 31 de Agosto, DR.IS [168], que altera a Lei 50/2006, de 29 de Agosto, e a republica, rectifica, igualmente\
+    \ o artigo 70.º e o Capítulo V (este por efeito da omissão da menção à revogação do artigo 72.º e do erro na numeração\
+    \ dos artigos subsequentes) da republicação e procede a nova republicação da mesma Lei, alterada e rectifcada \0 \0"
+  source: null
+  date: '2009-08-31'
 article_structure:
-  article_count: 92
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:11:59Z'
   warnings: []
   errors: []
 ---
@@ -175,7 +205,9 @@ Onde se lê:
 
 Disposições finais
 
-###### Artigo 71.º — Competência genérica do Inspector-Geral do Ambiente e do Ordenamento do Território
+Artigo 71.º
+
+Competência genérica do Inspector-Geral do Ambiente e do Ordenamento do Território
 
 1 - Sem prejuízo da competência atribuída por lei a qualquer autoridade administrativa para a instauração e decisão dos processos de contra-ordenação, o inspector-geral do Ambiente e do Ordenamento do Território é sempre competente para os mesmos efeitos relativamente àqueles processos.
 
@@ -185,7 +217,9 @@ Disposições finais
 
 4 - A avocação prevista no número anterior implica a transferência do processo para a Inspecção-Geral do Ambiente e do Ordenamento do Território para efeitos de instrução e decisão, sem prejuízo do dever de cooperação que continua a incidir sobre o serviço inicialmente competente.
 
-###### Artigo 72.º — Destino das coimas
+Artigo 72.º
+
+Destino das coimas
 
 1 - Independentemente da fase em que se torne definitiva ou transite em julgado a decisão condenatória, o produto das coimas aplicadas na sequência de processos de contra-ordenação tramitados ao abrigo do presente regime, bem como nos casos previstos nos artigos 49.º-A e 54.º, é repartido da seguinte forma:
 
@@ -199,19 +233,27 @@ d) 10 % para o Estado.
 
 2 - Enquanto não entrar em vigor o decreto-lei referido no n.º 2 do artigo 69.º, a parte das coimas atribuível ao Fundo continua a ser receita do Estado.
 
-###### Artigo 73.º — Autoridade administrativa
+Artigo 73.º
+
+Autoridade administrativa
 
 Para os efeitos da presente lei, considera-se autoridade administrativa todo o organismo a quem compita legalmente a instauração, a instrução e ou a aplicação das sanções dos processos de contra-ordenação em matéria ambiental.
 
-###### Artigo 74.º — Reformatio in pejus
+Artigo 74.º
+
+Reformatio in pejus
 
 Não é aplicável aos processos de contra-ordenação instaurados e decididos nos termos desta lei a proibição de reformatio in pejus, devendo essa informação constar de todas as decisões finais que admitam impugnação ou recurso.
 
-###### Artigo 75.º — Salvaguarda do regime das contra-ordenações no âmbito do meio marinho
+Artigo 75.º
+
+Salvaguarda do regime das contra-ordenações no âmbito do meio marinho
 
 A presente lei não prejudica o disposto no regime das contra-ordenações no âmbito da poluição do meio marinho nos espaços marítimos sob jurisdição nacional, aprovado pelo [Decreto-Lei n.º 235/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2000-560271), de 26 de Setembro.
 
-###### Artigo 76.º — Disposição transitória
+Artigo 76.º
+
+Disposição transitória
 
 As disposições da presente lei referentes às coimas e respectivos valores só são aplicáveis a partir da publicação de diploma que, alterando a legislação vigente sobre matéria ambiental, proceda à classificação das contra-ordenações aí tipificadas.»
 
@@ -221,7 +263,9 @@ deve ler-se:
 
 Disposições finais
 
-###### Artigo 71.º — Competência genérica do inspector-geral do Ambiente e do Ordenamento do Território
+Artigo 71.º
+
+Competência genérica do inspector-geral do Ambiente e do Ordenamento do Território
 
 1 - Sem prejuízo da competência atribuída por lei a qualquer autoridade administrativa para a instauração e decisão dos processos de contra-ordenação, o inspector-geral do Ambiente e do Ordenamento do Território é sempre competente para os mesmos efeitos relativamente àqueles processos.
 
@@ -231,9 +275,13 @@ Disposições finais
 
 4 - A avocação prevista no número anterior implica a transferência do processo para a Inspecção-Geral do Ambiente e do Ordenamento do Território para efeitos de instrução e decisão, sem prejuízo do dever de cooperação que continua a incidir sobre o serviço inicialmente competente.
 
-###### Artigo 72.º — (Revogado pela [Lei n.º 89/2009](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), de 31 de Agosto.)
+Artigo 72.º
 
-###### Artigo 73.º — Destino das coimas
+(Revogado pela [Lei n.º 89/2009](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), de 31 de Agosto.)
+
+Artigo 73.º
+
+Destino das coimas
 
 1 - Independentemente da fase em que se torne definitiva ou transite em julgado a decisão condenatória, o produto das coimas aplicadas na sequência de processos de contra-ordenação tramitados ao abrigo do presente regime, bem como nos casos previstos nos artigos 49.º-A e 54.º, é repartido da seguinte forma:
 
@@ -247,31 +295,45 @@ d) 10 % para o Estado.
 
 2 - Enquanto não entrar em vigor o decreto-lei referido no n.º 2 do artigo 69.º, a parte das coimas atribuível ao Fundo continua a ser receita do Estado.
 
-###### Artigo 74.º — Autoridade administrativa
+Artigo 74.º
+
+Autoridade administrativa
 
 Para os efeitos da presente lei, considera-se autoridade administrativa todo o organismo a quem compita legalmente a instauração, a instrução e ou a aplicação das sanções dos processos de contra-ordenação em matéria ambiental.
 
-###### Artigo 75.º — Reformatio in pejus
+Artigo 75.º
+
+Reformatio in pejus
 
 Não é aplicável aos processos de contra-ordenação instaurados e decididos nos termos desta lei a proibição de reformatio in pejus, devendo essa informação constar de todas as decisões finais que admitam impugnação ou recurso.
 
-###### Artigo 76.º — Salvaguarda do regime das contra-ordenações no âmbito do meio marinho
+Artigo 76.º
+
+Salvaguarda do regime das contra-ordenações no âmbito do meio marinho
 
 A presente lei não prejudica o disposto no regime das contra-ordenações no âmbito da poluição do meio marinho nos espaços marítimos sob jurisdição nacional, aprovado pelo [Decreto-Lei n.º 235/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2000-560271), de 26 de Setembro.
 
-###### Artigo 77.º — Disposição transitória
+Artigo 77.º
+
+Disposição transitória
 
 As disposições da presente lei referentes às coimas e respectivos valores só são aplicáveis a partir da publicação de diploma que, alterando a legislação vigente sobre matéria ambiental, proceda à classificação das contra-ordenações aí tipificadas.
 
-## ANEXO — Republicação da [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29 de Agosto
+ANEXO
 
-# PARTE I — Da contra-ordenação e da coima
+Republicação da [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29 de Agosto
 
-## TÍTULO I
+PARTE I
+
+Da contra-ordenação e da coima
+
+TÍTULO I
 
 Da contra-ordenação ambiental
 
-###### Artigo 1.º — Âmbito
+Artigo 1.º
+
+Âmbito
 
 1 - A presente lei estabelece o regime aplicável às contra-ordenações ambientais.
 
@@ -279,7 +341,9 @@ Da contra-ordenação ambiental
 
 3 - Para efeitos do número anterior, considera-se como legislação e regulamentação ambiental toda a que diga respeito às componentes ambientais naturais e humanas, tal como enumeradas na Lei de Bases do Ambiente.
 
-###### Artigo 2.º — Regime
+Artigo 2.º
+
+Regime
 
 1 - As contra-ordenações ambientais são reguladas pelo disposto na presente lei e, subsidiariamente, pelo regime geral das contra-ordenações.
 
@@ -287,11 +351,15 @@ Da contra-ordenação ambiental
 
 3 - Para efeitos do número anterior, consideram-se regimes especiais os relativos à reserva agrícola nacional e aos recursos florestais, fitogenéticos, agrícolas, cinegéticos, pesqueiros e aquícolas das águas interiores.
 
-###### Artigo 3.º — Princípio da legalidade
+Artigo 3.º
+
+Princípio da legalidade
 
 Só é punido como contra-ordenação ambiental o facto descrito e declarado passível de coima por lei anterior ao momento da sua prática.
 
-###### Artigo 4.º — Aplicação no tempo
+Artigo 4.º
+
+Aplicação no tempo
 
 1 - A punição da contra-ordenação ambiental é determinada pela lei vigente no momento da prática do facto ou do preenchimento dos pressupostos de que depende.
 
@@ -299,7 +367,9 @@ Só é punido como contra-ordenação ambiental o facto descrito e declarado pas
 
 3 - Quando a lei valer para um determinado período de tempo, continua a ser punível como contra-ordenação ambiental o facto praticado durante esse período.
 
-###### Artigo 5.º — Aplicação no espaço
+Artigo 5.º
+
+Aplicação no espaço
 
 Salvo tratado ou convenção internacional em contrário, a presente lei é aplicável aos factos praticados:
 
@@ -307,15 +377,21 @@ a) Em território português, independentemente da nacionalidade ou sede do agen
 
 b) A bordo de aeronaves, comboios e navios portugueses.
 
-###### Artigo 6.º — Momento da prática do facto
+Artigo 6.º
+
+Momento da prática do facto
 
 O facto considera-se praticado no momento em que o agente actuou ou, no caso de omissão, deveria ter actuado, independentemente do momento em que o resultado típico se tenha produzido.
 
-###### Artigo 7.º — Lugar da prática do facto
+Artigo 7.º
+
+Lugar da prática do facto
 
 O facto considera-se praticado no lugar em que, total ou parcialmente e sob qualquer forma de comparticipação, o agente actuou ou, no caso de omissão, devia ter actuado, bem como naquele em que o resultado típico se tenha produzido.
 
-###### Artigo 8.º — Responsabilidade pelas contra-ordenações
+Artigo 8.º
+
+Responsabilidade pelas contra-ordenações
 
 1 - As coimas podem ser aplicadas às pessoas colectivas, públicas ou privadas, independentemente da regularidade da sua constituição, bem como às sociedades e associações sem personalidade jurídica.
 
@@ -325,7 +401,9 @@ O facto considera-se praticado no lugar em que, total ou parcialmente e sob qual
 
 4 - A responsabilidade prevista no n.º 2 é excluída se a pessoa colectiva provar que cumpriu todos os deveres a que estava obrigada, não logrando, apesar disso, impedir a prática da infracção por parte dos seus trabalhadores ou de mandatários sem poderes de representação.
 
-###### Artigo 9.º — Punibilidade por dolo e negligência
+Artigo 9.º
+
+Punibilidade por dolo e negligência
 
 1 - As contra-ordenações são puníveis a título de dolo ou de negligência.
 
@@ -333,25 +411,35 @@ O facto considera-se praticado no lugar em que, total ou parcialmente e sob qual
 
 3 - O erro sobre elementos do tipo, sobre a proibição ou sobre um estado de coisas que, a existir, afastaria a ilicitude do facto ou a culpa do agente, exclui o dolo.
 
-###### Artigo 10.º — Punibilidade da tentativa
+Artigo 10.º
+
+Punibilidade da tentativa
 
 A tentativa é punível nas contra-ordenações classificadas de graves e muito graves, sendo os limites mínimos e máximos da respectiva coima reduzidos a metade.
 
-###### Artigo 11.º — Responsabilidade solidária
+Artigo 11.º
+
+Responsabilidade solidária
 
 Se o agente for pessoa colectiva ou equiparada, respondem pelo pagamento da coima, solidariamente com esta, os respectivos titulares do órgão máximo das pessoas colectivas públicas, sócios, administradores ou gerentes.
 
-###### Artigo 12.º — Erro sobre a ilicitude
+Artigo 12.º
+
+Erro sobre a ilicitude
 
 1 - Age sem culpa quem actua sem consciência da ilicitude do facto, se o erro lhe não for censurável.
 
 2 - Se o erro lhe for censurável, a coima pode ser especialmente atenuada.
 
-###### Artigo 13.º — Inimputabilidade em razão da idade
+Artigo 13.º
+
+Inimputabilidade em razão da idade
 
 Para os efeitos da presente lei consideram-se inimputáveis os menores de 16 anos.
 
-###### Artigo 14.º — Inimputabilidade em razão de anomalia psíquica
+Artigo 14.º
+
+Inimputabilidade em razão de anomalia psíquica
 
 1 - É inimputável quem, por força de uma anomalia psíquica, é incapaz, no momento da prática do facto, de avaliar a ilicitude deste ou de se determinar de acordo com essa avaliação.
 
@@ -359,29 +447,37 @@ Para os efeitos da presente lei consideram-se inimputáveis os menores de 16 ano
 
 3 - A imputabilidade não é excluída quando a anomalia psíquica tiver sido provocada pelo agente com intenção de praticar o facto.
 
-###### Artigo 15.º — Autoria
+Artigo 15.º
+
+Autoria
 
 É punível como autor quem executar o facto, por si mesmo ou por intermédio de outrem, ou tomar parte directa na sua execução, por acordo ou juntamente com outro ou outros, e ainda quem, dolosamente, determinar outra pessoa à prática do facto, desde que haja execução ou começo de execução.
 
-###### Artigo 16.º — Cumplicidade
+Artigo 16.º
+
+Cumplicidade
 
 1 - É punível como cúmplice quem, dolosamente e por qualquer forma, prestar auxílio material ou moral à prática por outrem de um facto doloso.
 
 2 - É aplicável ao cúmplice a sanção fixada para o autor, especialmente atenuada.
 
-###### Artigo 17.º — Comparticipação
+Artigo 17.º
+
+Comparticipação
 
 1 - Se vários agentes comparticiparam no facto, qualquer deles incorre em responsabilidade por contra-ordenação ambiental mesmo que a ilicitude ou o grau de ilicitude do facto dependam de certas qualidades ou relações especiais do agente e estas só existam num dos comparticipantes.
 
 2 - Cada comparticipante é punido segundo a sua culpa, independentemente da punição ou do grau de culpa dos outros comparticipantes.
 
-## TÍTULO II
+TÍTULO II
 
 Do direito de acesso e dos embargos
 
 administrativos
 
-###### Artigo 18.º — Direito de acesso
+Artigo 18.º
+
+Direito de acesso
 
 1 - Às autoridades administrativas no exercício das funções inspectivas, de fiscalização ou vigilância, é facultada a entrada livre nos estabelecimentos e locais onde se exerçam as actividades a inspeccionar.
 
@@ -391,19 +487,25 @@ administrativos
 
 4 - O disposto neste artigo é aplicável a outros espaços afectos ao exercício das actividades inspeccionadas, nomeadamente aos veículos automóveis, aeronaves, comboios e navios.
 
-###### Artigo 19.º — Embargos administrativos
+Artigo 19.º
+
+Embargos administrativos
 
 1 - As autoridades administrativas, no exercício dos seus poderes de vigilância, fiscalização ou inspecção, podem determinar, dentro da sua área de actuação geográfica, o embargo de quaisquer construções em áreas de ocupação proibida ou condicionada em zonas de protecção estabelecidas por lei ou em contravenção à lei, aos regulamentos ou às condições de licenciamento ou autorização.
 
 2 - As autoridades administrativas podem, para efeitos do artigo anterior, consultar integralmente e sem reservas, junto das câmaras municipais, os processos respeitantes às construções em causa, bem como deles solicitar cópias, que devem com carácter de urgência ser disponibilizados por aquelas.
 
-## TÍTULO III
+TÍTULO III
 
 Das coimas e das sanções acessórias
 
-### CAPÍTULO I — Da sanção aplicável
+CAPÍTULO I
 
-###### Artigo 20.º — Sanção aplicável
+Da sanção aplicável
+
+Artigo 20.º
+
+Sanção aplicável
 
 1 - A determinação da coima e das sanções acessórias faz-se em função da gravidade da contra-ordenação, da culpa do agente, da sua situação económica e dos benefícios obtidos com a prática do facto.
 
@@ -411,13 +513,19 @@ Das coimas e das sanções acessórias
 
 3 - São ainda atendíveis a coacção, a falsificação, as falsas declarações, simulação ou outro meio fraudulento utilizado pelo agente, bem como a existência de actos de ocultação ou dissimulação tendentes a dificultar a descoberta da infracção.
 
-### CAPÍTULO II — Coimas
+CAPÍTULO II
 
-###### Artigo 21.º — Classificação das contra-ordenações
+Coimas
+
+Artigo 21.º
+
+Classificação das contra-ordenações
 
 Para determinação da coima aplicável e tendo em conta a relevância dos direitos e interesses violados, as contra-ordenações classificam-se em leves, graves e muito graves.
 
-###### Artigo 22.º — Montantes das coimas
+Artigo 22.º
+
+Montantes das coimas
 
 1 - A cada escalão classificativo de gravidade das contra-ordenações ambientais corresponde uma coima variável consoante seja aplicada a uma pessoa singular ou colectiva e em função do grau de culpa, salvo o disposto no artigo seguinte.
 
@@ -439,15 +547,21 @@ a) Se praticadas por pessoas singulares, de (euro) 20 000 a (euro) 30 000 em cas
 
 b) Se praticadas por pessoas colectivas, de (euro) 38 500 a (euro) 70 000 em caso de negligência e de (euro) 200 000 a (euro) 2 500 000 em caso de dolo.
 
-###### Artigo 23.º — Critérios especiais de medida da coima
+Artigo 23.º
+
+Critérios especiais de medida da coima
 
 A moldura da coima nas contra-ordenações muito graves previstas nas alíneas a) e b) do n.º 4 do artigo 22.º é elevada para o dobro nos seus limites mínimo e máximo quando a presença ou emissão de uma ou mais substâncias perigosas afecte gravemente a saúde, a segurança das pessoas e bens e o ambiente.
 
-###### Artigo 24.º — Cumprimento do dever omitido
+Artigo 24.º
+
+Cumprimento do dever omitido
 
 Sempre que a contra-ordenação ambiental consista na omissão de um dever, o pagamento da coima não dispensa o infractor do seu cumprimento, se este ainda for possível.
 
-###### Artigo 25.º — Ordens da autoridade administrativa
+Artigo 25.º
+
+Ordens da autoridade administrativa
 
 1 - Constitui contra-ordenação leve o incumprimento de ordens ou mandados legítimos da autoridade administrativa transmitidos por escrito aos seus destinatários.
 
@@ -455,7 +569,9 @@ Sempre que a contra-ordenação ambiental consista na omissão de um dever, o pa
 
 3 - Os documentos, nomeadamente mapas, guias de transporte, relatórios e boletins que o agente ou o arguido esteja obrigado a enviar por força da lei ou a solicitação da autoridade administrativa são tidos, para todos os efeitos legais, como não enviados quando omitam dados ou sejam remetidos incorrectamente.
 
-###### Artigo 26.º — Reincidência
+Artigo 26.º
+
+Reincidência
 
 1 - É punido como reincidente quem cometer uma infracção muito grave ou uma infracção grave praticada com dolo, depois de ter sido condenado por qualquer outra infracção.
 
@@ -465,7 +581,9 @@ Sempre que a contra-ordenação ambiental consista na omissão de um dever, o pa
 
 4 - Em caso de reincidência, os limites mínimo e máximo da coima são elevados em um terço do respectivo valor.
 
-###### Artigo 27.º — Concurso de contra-ordenações
+Artigo 27.º
+
+Concurso de contra-ordenações
 
 1 - Quem tiver praticado várias contra-ordenações ambientais é punido com uma coima cujo limite máximo resulta da soma das coimas concretamente aplicadas às infracções em concurso.
 
@@ -473,7 +591,9 @@ Sempre que a contra-ordenação ambiental consista na omissão de um dever, o pa
 
 3 - A coima a aplicar não pode ser inferior à mais elevada das coimas concretamente aplicadas às várias contra-ordenações ambientais.
 
-###### Artigo 28.º — Concurso de infracções
+Artigo 28.º
+
+Concurso de infracções
 
 1 - Se o mesmo facto constituir simultaneamente crime e contra-ordenação ambiental, o arguido é responsabilizado por ambas as infracções, instaurando-se, para o efeito, processos distintos a decidir pelas autoridades competentes, sem prejuízo do disposto nos números seguintes.
 
@@ -481,13 +601,19 @@ Sempre que a contra-ordenação ambiental consista na omissão de um dever, o pa
 
 3 - Sendo o arguido punido a título de crime, podem, ainda assim, aplicar-se as sanções acessórias previstas para a respectiva contra-ordenação.
 
-### CAPÍTULO III — Sanções acessórias
+CAPÍTULO III
 
-###### Artigo 29.º — Procedimento
+Sanções acessórias
+
+Artigo 29.º
+
+Procedimento
 
 A lei pode, simultaneamente com a coima, determinar, relativamente às infracções graves e muito graves, a aplicação de sanções acessórias, nos termos previstos nos artigos seguintes e no regime geral das contra-ordenações.
 
-###### Artigo 30.º — Sanções acessórias
+Artigo 30.º
+
+Sanções acessórias
 
 1 - Pela prática de contra-ordenações ambientais graves e muito graves podem ser aplicadas ao infractor as seguintes sanções acessórias:
 
@@ -525,7 +651,9 @@ m) Apreensão de animais.
 
 6 - No caso de ser aplicada a sanção prevista na alínea m) do n.º 1, deve a autoridade administrativa comunicar de imediato à entidade licenciadora da respectiva actividade, para que esta a execute.
 
-###### Artigo 31.º — Pressupostos da aplicação das sanções acessórias
+Artigo 31.º
+
+Pressupostos da aplicação das sanções acessórias
 
 1 - A sanção referida na alínea a) do n.º 1 do artigo anterior só pode ser decretada quando os objectos serviram ou estavam destinados a servir para a prática de uma contra-ordenação ou por esta foram produzidos.
 
@@ -545,31 +673,43 @@ m) Apreensão de animais.
 
 9 - A sanção prevista na alínea m) do n.º 1 do artigo anterior só pode ser decretada quando os animais objecto de apreensão serviram ou estavam destinados a servir para a prática de uma contra-ordenação.
 
-###### Artigo 32.º — Interdição e inibição do exercício da actividade
+Artigo 32.º
+
+Interdição e inibição do exercício da actividade
 
 1 - Pode ser aplicada aos responsáveis por qualquer contra-ordenação a interdição temporária, até ao limite de três anos, do exercício da profissão ou da actividade a que a contra-ordenação respeita.
 
 2 - A sanção prevista neste artigo só pode ser decretada se o arguido praticou a contra-ordenação em flagrante e grave abuso da função que exerce ou com manifesta e grave violação dos deveres que lhe são inerentes.
 
-###### Artigo 33.º — Perda de objectos
+Artigo 33.º
+
+Perda de objectos
 
 1 - Podem ser declarados perdidos os objectos que serviram ou estavam destinados a servir para a prática de uma contra-ordenação ambiental ou que em consequência desta foram produzidos, quando tais objectos representem, pela sua natureza ou pelas circunstâncias do caso, grave perigo para a saúde, a segurança de pessoas e bens e o ambiente ou exista sério risco da sua utilização para a prática de um crime ou de outra contra-ordenação em matéria ambiental.
 
 2 - Salvo se o contrário resultar da presente lei ou do regime geral das contra-ordenações, são aplicáveis à perda de objectos as regras relativas à sanção acessória de perda de objectos.
 
-###### Artigo 34.º — Perda do valor
+Artigo 34.º
+
+Perda do valor
 
 Quando, devido a actuação dolosa do agente, se tiver tornado total ou parcialmente inexequível a perda de objectos que, no momento da prática do facto, lhe pertenciam, pode ser declarada perdida uma quantia em dinheiro correspondente ao valor daqueles.
 
-###### Artigo 35.º — Efeitos da perda
+Artigo 35.º
+
+Efeitos da perda
 
 O carácter definitivo ou o trânsito em julgado da decisão de perda determina a transferência da propriedade para o Estado.
 
-###### Artigo 36.º — Perda independente de coima
+Artigo 36.º
+
+Perda independente de coima
 
 A perda de objectos ou do respectivo valor pode ter lugar ainda que não possa haver procedimento contra o agente ou a este não seja aplicada uma coima.
 
-###### Artigo 37.º — Objectos pertencentes a terceiro
+Artigo 37.º
+
+Objectos pertencentes a terceiro
 
 A perda de objectos pertencentes a terceiro só pode ter lugar:
 
@@ -577,7 +717,9 @@ a) Quando os seus titulares tiverem concorrido, com culpa, para a sua utilizaç�
 
 b) Quando os objectos forem, por qualquer título, adquiridos após a prática do facto, conhecendo os adquirentes a proveniência.
 
-###### Artigo 38.º — Publicidade da condenação
+Artigo 38.º
+
+Publicidade da condenação
 
 1 - A lei determina os casos em que a prática de infracções graves e muito graves é objecto de publicidade.
 
@@ -589,7 +731,9 @@ b) Na 2.ª série do Diário da República, no último dia útil de cada trimest
 
 3 - As publicações referidas no número anterior são promovidas pelo tribunal competente, em relação às infracções objecto de decisão judicial, e pela autoridade administrativa, nos restantes casos.
 
-###### Artigo 39.º — Suspensão da sanção
+Artigo 39.º
+
+Suspensão da sanção
 
 1 - A autoridade administrativa que procedeu à aplicação da sanção pode suspender, total ou parcialmente, a sua execução.
 
@@ -599,11 +743,13 @@ b) Na 2.ª série do Diário da República, no último dia útil de cada trimest
 
 4 - Decorrido o tempo de suspensão sem que o arguido tenha praticado qualquer contra-ordenação ambiental, e sem que tenha violado as obrigações que lhe hajam sido impostas, fica a condenação sem efeito, procedendo-se, no caso contrário, à execução da sanção aplicada.
 
-## TÍTULO IV
+TÍTULO IV
 
 Da prescrição
 
-###### Artigo 40.º — Prescrição
+Artigo 40.º
+
+Prescrição
 
 1 - O procedimento pelas contra-ordenações graves e muito graves prescreve logo que sobre a prática da contra-ordenação haja decorrido o prazo de cinco anos, sem prejuízo das causas de interrupção e suspensão previstas no regime geral.
 
@@ -617,13 +763,17 @@ b) Dois anos, no caso de contra-ordenações leves.
 
 4 - O prazo referido no número anterior conta-se a partir do dia em que se torna definitiva ou transita em julgado a decisão que determinou a sua aplicação, sem prejuízo das causas de interrupção e suspensão previstas no regime geral.
 
-# PARTE II — Do processo de contra-ordenação
+PARTE II
 
-## TÍTULO I
+Do processo de contra-ordenação
+
+TÍTULO I
 
 Das medidas cautelares
 
-###### Artigo 41.º — Determinação das medidas cautelares
+Artigo 41.º
+
+Determinação das medidas cautelares
 
 1 - Quando se revele necessário para a instrução do processo ou quando estejam em causa a saúde, a segurança das pessoas e bens e o ambiente, a autoridade administrativa pode determinar uma ou mais das seguintes medidas:
 
@@ -657,7 +807,9 @@ d) Até à ultrapassagem do prazo de instrução estabelecido pelo artigo 48.º
 
 5 - Quando, nos termos da alínea c) do n.º 1, seja determinada a suspensão total das actividades ou das funções exercidas pelo arguido e este venha a ser condenado, no mesmo processo, em sanção acessória que consista em interdição ou inibição do exercício das mesmas actividades ou funções, é descontado por inteiro no cumprimento da sanção acessória o tempo de duração da suspensão preventiva.
 
-###### Artigo 42.º — Apreensão cautelar
+Artigo 42.º
+
+Apreensão cautelar
 
 1 - A lei pode determinar a apreensão provisória pela autoridade administrativa, nos termos desta lei e do regime geral das contra-ordenações, nomeadamente dos seguintes bens e documentos:
 
@@ -669,13 +821,17 @@ c) Animais ou plantas de espécies protegidas, ilegalmente na posse de pessoas s
 
 2 - No caso de apreensão nos termos da alínea a) do número anterior, pode o seu proprietário, ou quem o represente, ser designado fiel depositário, com a obrigação de não utilizar os bens cautelarmente apreendidos, sob pena de crime de desobediência qualificada.
 
-## TÍTULO II
+TÍTULO II
 
 Do processo
 
-### CAPÍTULO I — Das notificações
+CAPÍTULO I
 
-###### Artigo 43.º — Notificações
+Das notificações
+
+Artigo 43.º
+
+Notificações
 
 1 - As notificações em processo de contra-ordenação são efectuadas por carta registada, com aviso de recepção, sempre que se impute ao arguido a prática de contra-ordenação da decisão que lhe aplique coima ou admoestação, sanção acessória ou alguma medida cautelar, bem como a convocação para este assistir ou participar em actos ou diligências.
 
@@ -703,7 +859,9 @@ Do processo
 
 13 - A falta de recebimento de qualquer aviso ou comunicação, devido ao não cumprimento do disposto no número anterior, não é oponível às autoridades administrativas, produzindo todos os efeitos legais, sem prejuízo do que se dispõe quanto à obrigatoriedade da notificação e dos termos por que deve ser efectuada.
 
-###### Artigo 44.º — Notificações ao mandatário
+Artigo 44.º
+
+Notificações ao mandatário
 
 1 - As notificações aos arguidos que tenham constituído mandatário são, sempre que possível, feitas na pessoa deste e no seu domicílio profissional.
 
@@ -713,15 +871,21 @@ Do processo
 
 4 - As notificações referidas nos números anteriores são feitas por carta registada, com aviso de recepção, aplicando-se às mesmas o disposto nos n.os 3, 4 e 5 do artigo anterior.
 
-### CAPÍTULO II — Processamento
+CAPÍTULO II
 
-###### Artigo 45.º — Auto de notícia ou participação
+Processamento
+
+Artigo 45.º
+
+Auto de notícia ou participação
 
 1 - A autoridade administrativa levanta o respectivo auto de notícia quando, no exercício das suas funções, verificar ou comprovar pessoalmente, ainda que por forma não imediata, qualquer infracção às normas referidas no artigo 1.º, o qual serve de meio de prova das ocorrências verificadas.
 
 2 - Relativamente às infracções de natureza contra-ordenacional cuja verificação a autoridade administrativa não tenha comprovado pessoalmente, a mesma deve elaborar uma participação instruída com os elementos de prova de que disponha.
 
-###### Artigo 46.º — Elementos do auto de notícia e da participação
+Artigo 46.º
+
+Elementos do auto de notícia e da participação
 
 1 - O auto de notícia ou a participação referida no artigo anterior deve, sempre que possível, mencionar:
 
@@ -739,11 +903,15 @@ f) Nome, categoria e assinatura do autuante ou participante.
 
 2 - As entidades que não tenham competência para proceder à instrução do processo de contra-ordenação devem remeter o auto de notícia ou participação no prazo de 10 dias úteis à autoridade administrativa competente.
 
-###### Artigo 47.º — Identificação pelas autoridades administrativas
+Artigo 47.º
+
+Identificação pelas autoridades administrativas
 
 As autoridades administrativas competentes podem exigir ao agente de uma contra-ordenação a respectiva identificação sob pena de crime de desobediência.
 
-###### Artigo 48.º — Instrução
+Artigo 48.º
+
+Instrução
 
 1 - O autuante ou participante não pode exercer funções instrutórias no mesmo processo.
 
@@ -751,7 +919,9 @@ As autoridades administrativas competentes podem exigir ao agente de uma contra-
 
 3 - Se a instrução não puder ser concluída no prazo indicado no número anterior, a autoridade administrativa pode, sob proposta fundamentada do instrutor, prorrogar o prazo por um período até 120 dias.
 
-###### Artigo 49.º — Direito de audiência e defesa do arguido
+Artigo 49.º
+
+Direito de audiência e defesa do arguido
 
 1 - O auto de notícia, depois de confirmado pela autoridade administrativa e antes de ser tomada a decisão final, é notificado ao infractor conjuntamente com todos os elementos necessários para que este fique a conhecer a totalidade dos aspectos relevantes para a decisão, nas matérias de facto e de direito, para, no prazo de 15 dias úteis, se pronunciar por escrito sobre o que se lhe oferecer por conveniente.
 
@@ -759,7 +929,9 @@ As autoridades administrativas competentes podem exigir ao agente de uma contra-
 
 3 - Consideram-se não escritos os nomes das testemunhas que no rol ultrapassem o número legal, bem como daquelas relativamente às quais não sejam indicados os elementos necessários à sua notificação.
 
-###### Artigo 49.º-A — Redução da coima
+Artigo 49.º-A
+
+Redução da coima
 
 1 - No prazo máximo de 15 dias úteis após a notificação efectuada nos termos do n.º 1 do artigo anterior, o arguido pode requerer o pagamento da coima relativa a contra-ordenações leves e graves, sendo a mesma reduzida em 25 % do montante mínimo legal.
 
@@ -777,7 +949,9 @@ b) Não for reincidente.
 
 6 - A apresentação do requerimento nos termos do n.º 1 não suspende o prazo previsto no n.º 1 do artigo anterior.
 
-###### Artigo 50.º — Comparência de testemunhas e peritos
+Artigo 50.º
+
+Comparência de testemunhas e peritos
 
 1 - As testemunhas e os peritos devem ser ouvidos na sede da autoridade administrativa onde se realize a instrução do processo ou numa delegação daquela, caso esta a possua.
 
@@ -795,11 +969,15 @@ b) Não for reincidente.
 
 8 - O pagamento é efectuado no prazo de 10 dias úteis a contar da notificação, sob pena de se proceder à execução, servindo de título executivo a notificação efectuada pela autoridade administrativa.
 
-###### Artigo 51.º — Ausência do arguido, das testemunhas e peritos
+Artigo 51.º
+
+Ausência do arguido, das testemunhas e peritos
 
 A falta de comparência do arguido, das testemunhas e peritos, devidamente notificados, não obsta a que o processo de contra-ordenação siga os seus termos.
 
-###### Artigo 52.º — Envio dos autos ao Ministério Público
+Artigo 52.º
+
+Envio dos autos ao Ministério Público
 
 1 - Recebida a impugnação judicial, deve a autoridade administrativa enviar os autos ao Ministério Público no prazo de 20 dias úteis, que os torna presentes ao juiz, valendo este acto como acusação.
 
@@ -811,15 +989,21 @@ A falta de comparência do arguido, das testemunhas e peritos, devidamente notif
 
 5 - A desistência da acusação pelo Ministério Público depende da concordância da autoridade administrativa.
 
-###### Artigo 52.º-A — Preclusão da impugnação
+Artigo 52.º-A
+
+Preclusão da impugnação
 
 O pagamento da coima após a notificação da decisão administrativa que a aplicou preclude o direito de impugnação judicial relativamente à mesma.
 
-###### Artigo 53.º — Juros
+Artigo 53.º
+
+Juros
 
 No final do processo judicial que conheça da impugnação ou da execução da decisão proferida em processo de contra-ordenação, e se esta tiver sido total ou parcialmente confirmada pelo tribunal, acresce ao valor da coima em dívida o pagamento de juros contados desde a data da notificação da decisão pela autoridade administrativa ao arguido, à taxa máxima estabelecida na lei fiscal.
 
-###### Artigo 54.º — Pagamento voluntário da coima
+Artigo 54.º
+
+Pagamento voluntário da coima
 
 1 - Relativamente a contra-ordenações leves e graves, bem como a contra-ordenações muito graves praticadas com negligência, o arguido pode proceder ao pagamento voluntário da coima, excepto nos casos em que não haja cessação da actividade ilícita.
 
@@ -831,7 +1015,9 @@ No final do processo judicial que conheça da impugnação ou da execução da d
 
 5 - O pagamento voluntário da coima é admissível em qualquer altura do processo, mas sempre antes da decisão.
 
-###### Artigo 55.º — Participação das autoridades administrativas
+Artigo 55.º
+
+Participação das autoridades administrativas
 
 1 - O tribunal comunica à autoridade administrativa a data da audiência para, querendo, esta poder participar na audiência.
 
@@ -839,11 +1025,13 @@ No final do processo judicial que conheça da impugnação ou da execução da d
 
 3 - O tribunal deve comunicar à autoridade administrativa que decidiu o processo os despachos, a sentença, bem como outras decisões finais.
 
-## TÍTULO III
+TÍTULO III
 
 Processo sumaríssimo
 
-###### Artigo 56.º — Processo sumaríssimo
+Artigo 56.º
+
+Processo sumaríssimo
 
 1 - Quando a reduzida gravidade da infracção e da culpa do agente o justifiquem, pode a autoridade administrativa nos casos de infracções classificadas de leves, e antes de acusar formalmente o arguido, comunicar-lhe a decisão de aplicar uma sanção.
 
@@ -859,11 +1047,13 @@ Processo sumaríssimo
 
 7 - A decisão proferida em processo sumaríssimo, de acordo com o estabelecido nos números anteriores, implica a perda de legitimidade do arguido para recorrer daquela.
 
-## TÍTULO IV
+TÍTULO IV
 
 Custas
 
-###### Artigo 57.º — Princípios gerais
+Artigo 57.º
+
+Princípios gerais
 
 1 - As custas do processo revertem para a autoridade administrativa que aplicou a sanção.
 
@@ -875,7 +1065,9 @@ Custas
 
 5 - A suspensão da sanção prevista no artigo 39.º desta lei não abrange as custas.
 
-###### Artigo 58.º — Encargos
+Artigo 58.º
+
+Encargos
 
 1 - As custas compreendem, nomeadamente, os seguintes encargos:
 
@@ -897,13 +1089,17 @@ g) Os exames, análises, peritagens ou outras acções que a autoridade administ
 
 3 - Nos demais casos as custas são suportadas pelo erário público.
 
-###### Artigo 59.º — Impugnação das custas
+Artigo 59.º
+
+Impugnação das custas
 
 1 - O arguido pode, nos termos gerais, impugnar judicialmente a decisão da autoridade administrativa relativa às custas, devendo a impugnação ser apresentada no prazo de 10 dias úteis a partir do conhecimento da decisão a impugnar.
 
 2 - Da decisão do tribunal de 1.ª instância só há recurso para o Tribunal da Relação quando o montante exceda a alçada daquele tribunal.
 
-###### Artigo 60.º — Execução de custas
+Artigo 60.º
+
+Execução de custas
 
 1 - Decorrido o prazo de pagamento das custas sem a sua realização, a autoridade administrativa envia, nos 20 dias úteis seguintes, o processo ao Ministério Público para a instauração da competente acção executiva.
 
@@ -911,19 +1107,27 @@ g) Os exames, análises, peritagens ou outras acções que a autoridade administ
 
 3 - Ao valor das custas em dívida acrescem juros de mora à taxa máxima estabelecida na lei fiscal a contar da data da notificação pela autoridade administrativa.
 
-###### Artigo 61.º — Prescrição do crédito de custas
+Artigo 61.º
+
+Prescrição do crédito de custas
 
 O crédito de custas prescreve no prazo de cinco anos.
 
-# PARTE III — Cadastro nacional
+PARTE III
 
-###### Artigo 62.º — Princípios
+Cadastro nacional
+
+Artigo 62.º
+
+Princípios
 
 1 - O cadastro deve processar-se no estrito respeito pelos princípios da legalidade, veracidade e segurança das informações recolhidas.
 
 2 - A Comissão Nacional de Protecção de Dados (CNPD) acompanha e fiscaliza, nos termos da lei sobre protecção de dados pessoais, as operações referidas nos artigos seguintes.
 
-###### Artigo 63.º — Objecto
+Artigo 63.º
+
+Objecto
 
 1 - O cadastro nacional tem por objecto o registo e o tratamento das sanções principais e acessórias, bem como das medidas cautelares aplicadas em processo de contra-ordenação e das decisões judiciais, relacionadas com aqueles processos, após decisão definitiva ou trânsito em julgado.
 
@@ -943,7 +1147,9 @@ e) O pagamento da coima e das custas do processo;
 
 f) A eventual execução da coima e das custas do processo.
 
-###### Artigo 64.º — Entidade responsável pelo cadastro nacional
+Artigo 64.º
+
+Entidade responsável pelo cadastro nacional
 
 1 - A Inspecção-Geral do Ambiente e do Ordenamento do Território é o organismo responsável pelo cadastro nacional.
 
@@ -957,7 +1163,9 @@ b) As entidades que, nos termos da lei processual penal, recebam delegação par
 
 c) As entidades oficiais para a prossecução de fins públicos a seu cargo.
 
-###### Artigo 65.º — Registo individual
+Artigo 65.º
+
+Registo individual
 
 1 - A autoridade administrativa deve organizar um registo individual dos sujeitos responsáveis pelas infracções ambientais, do qual devem constar as medidas cautelares e as sanções principais e acessórias aplicadas em processos de contra-ordenação.
 
@@ -965,17 +1173,23 @@ c) As entidades oficiais para a prossecução de fins públicos a seu cargo.
 
 3 - Os dados constantes dos registos previstos no número anterior, bem como os dados constantes de suporte documental, podem ser publicamente divulgados nos casos de contra-ordenações muito graves e de reincidência envolvendo contra-ordenações graves.
 
-###### Artigo 66.º — Envio de dados
+Artigo 66.º
+
+Envio de dados
 
 Todas as autoridades administrativas têm a obrigação de enviar à Inspecção-Geral do Ambiente e do Ordenamento do Território em relação aos processos de contra-ordenação por si decididos, no prazo de 30 dias úteis, informação onde constem os dados referidos no n.º 3 do artigo 63.º
 
-###### Artigo 67.º — Certificado de cadastro ambiental
+Artigo 67.º
+
+Certificado de cadastro ambiental
 
 1 - Todas as entidades que possam aceder aos dados constantes do cadastro devem efectuar o seu pedido junto da Inspecção-Geral do Ambiente e do Ordenamento do Território que, para o efeito, emite o certificado de cadastro ambiental onde constem todas as informações de acordo com o artigo 63.º
 
 2 - Pela emissão do certificado de cadastro ambiental é devida uma taxa nos termos a definir por decreto-lei e cujo montante é fixado por portaria do ministro responsável pela área do ambiente.
 
-###### Artigo 68.º — Cancelamento definitivo
+Artigo 68.º
+
+Cancelamento definitivo
 
 São cancelados automaticamente, e de forma irrevogável, no cadastro ambiental todos os dados:
 
@@ -983,21 +1197,31 @@ a) Com existência superior a cinco anos relativos a infracções graves e muito
 
 b) Com existência superior a três anos relativos a infracções leves.
 
-# PARTE IV — Fundo de Intervenção Ambiental
+PARTE IV
 
-###### Artigo 69.º — Criação
+Fundo de Intervenção Ambiental
+
+Artigo 69.º
+
+Criação
 
 1 - É criado o Fundo de Intervenção Ambiental, adiante designado por Fundo.
 
 2 - O regulamento do Fundo deve ser instituído por decreto-lei, a aprovar no prazo de 120 dias.
 
-###### Artigo 70.º — Objectivos
+Artigo 70.º
+
+Objectivos
 
 O Fundo arrecada parte das receitas provenientes das coimas aplicadas, nos termos definidos no artigo 73.º, que se destina a prevenir e reparar danos resultantes de actividades lesivas para o ambiente, nomeadamente nos casos em que os responsáveis não os possam ressarcir em tempo útil.
 
-# PARTE V — Disposições finais
+PARTE V
 
-###### Artigo 71.º — Competência genérica do inspector-geral do Ambiente e do Ordenamento do Território
+Disposições finais
+
+Artigo 71.º
+
+Competência genérica do inspector-geral do Ambiente e do Ordenamento do Território
 
 1 - Sem prejuízo da competência atribuída por lei a qualquer autoridade administrativa para a instauração e decisão dos processos de contra-ordenação, o inspector-geral do Ambiente e do Ordenamento do Território é sempre competente para os mesmos efeitos relativamente àqueles processos.
 
@@ -1007,9 +1231,13 @@ O Fundo arrecada parte das receitas provenientes das coimas aplicadas, nos termo
 
 4 - A avocação prevista no número anterior implica a transferência do processo para a Inspecção-Geral do Ambiente e do Ordenamento do Território para efeitos de instrução e decisão, sem prejuízo do dever de cooperação que continua a incidir sobre o serviço inicialmente competente.
 
-###### Artigo 72.º — (Revogado pela [Lei n.º 89/2009](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), de 31 de Agosto.)
+Artigo 72.º
 
-###### Artigo 73.º — Destino das coimas
+(Revogado pela [Lei n.º 89/2009](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), de 31 de Agosto.)
+
+Artigo 73.º
+
+Destino das coimas
 
 1 - Independentemente da fase em que se torne definitiva ou transite em julgado a decisão condenatória, o produto das coimas aplicadas na sequência de processos de contra-ordenação tramitados ao abrigo do presente regime, bem como nos casos previstos nos artigos 49.º-A e 54.º, é repartido da seguinte forma:
 
@@ -1023,19 +1251,27 @@ d) 10 % para o Estado.
 
 2 - Enquanto não entrar em vigor o decreto-lei referido no n.º 2 do artigo 69.º, a parte das coimas atribuível ao Fundo continua a ser receita do Estado.
 
-###### Artigo 74.º — Autoridade administrativa
+Artigo 74.º
+
+Autoridade administrativa
 
 Para os efeitos da presente lei, considera-se autoridade administrativa todo o organismo a quem compita legalmente a instauração, a instrução e ou a aplicação das sanções dos processos de contra-ordenação em matéria ambiental.
 
-###### Artigo 75.º — Reformatio in pejus
+Artigo 75.º
+
+Reformatio in pejus
 
 Não é aplicável aos processos de contra-ordenação instaurados e decididos nos termos desta lei a proibição de reformatio in pejus, devendo essa informação constar de todas as decisões finais que admitam impugnação ou recurso.
 
-###### Artigo 76.º — Salvaguarda do regime das contra-ordenações no âmbito do meio marinho
+Artigo 76.º
+
+Salvaguarda do regime das contra-ordenações no âmbito do meio marinho
 
 A presente lei não prejudica o disposto no regime das contra-ordenações no âmbito da poluição do meio marinho nos espaços marítimos sob jurisdição nacional, aprovado pelo [Decreto-Lei n.º 235/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2000-560271), de 26 de Setembro.
 
-###### Artigo 77.º — Disposição transitória
+Artigo 77.º
+
+Disposição transitória
 
 As disposições da presente lei referentes às coimas e respectivos valores só são aplicáveis a partir da publicação de diploma que, alterando a legislação vigente sobre matéria ambiental, proceda à classificação das contra-ordenações aí tipificadas.»
 

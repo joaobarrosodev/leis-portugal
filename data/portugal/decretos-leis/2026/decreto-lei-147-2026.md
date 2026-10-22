@@ -26,9 +26,7 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -49,25 +47,41 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/147/2026/07/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2026-1149265696
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-17T00:00:00Z'
+  retrieved_at: '2026-10-22T18:47:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5041a607090eca5bc9fbe6cde40ef850ab29a5395f28222ea8812449ce7cd102
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19224540c022e2e49ab5cf8fc71987ee75cf3224ea78a20ceb475bf091ecab5c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:47:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abate de Animais
+- CAÇA
+- Comissão de Coordenação e Desenvolvimento Regional
+- Contra-ordenação
+- Controlo Sanitário
+- Definição de Competências
+- Fiscalização
+- Licenciamento
+- Matadouro
+- Mercado Único
+- Proteção do Ambiente
+- Proteção dos Animais
+- Sanção
+- Taxa
+- Transporte de Animais
+- Veterinário
 relationships:
 - type: cites
   target: celex:32002R0178
@@ -153,16 +167,54 @@ relationships:
   target: eli:http://data.europa.eu/e
   label: null
   source: http://data.europa.eu/e
+- type: cites
+  target: pt:dre:106647823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124044595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70280718:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1171923317:por
+  label: Retificada a alínea e) do n.º 2 do artigo 6.º pelo(a) Declaração de Retificação n.º 35-A/2026/1 - Diário da República
+    n.º 182/2026, Suplemento, Série I de 2026-09-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/35-a-2026-1171923317
+  date: '2026-09-17'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:47:02Z'
   warnings: []
   errors: []
 ---
@@ -191,7 +243,7 @@ Neste contexto, ainda que esteja prevista a revisão do SIR, importa assegurar a
 
 Por conseguinte, o presente decreto-lei estabelece as normas a que deve obedecer o licenciamento e o exercício da atividade dos matadouros móveis e de estabelecimentos móveis de manipulação de caça.
 
-O presente decreto-lei foi submetido ao procedimento previsto na [Diretiva (UE) 2015/1535](https://data.europa.eu/eli/dir/2015/1535/oj?locale=pt) do Parlamento Europeu e do Conselho, de 9 de setembro de 2015, relativa a um procedimento de informação no domínio das regulamentações técnicas e das regras relativas aos serviços da sociedade da informação, em conformidade com o disposto nos n.<sup>os</sup>3 e 7 do artigo 10.º do [Regulamento (CE) n.º 853/2004](https://data.europa.eu/eli/reg/2004/853/oj?locale=pt).
+O presente decreto-lei foi submetido ao procedimento previsto na [Diretiva (UE) 2015/1535](https://data.europa.eu/eli/dir/2015/1535/oj?locale=pt) do Parlamento Europeu e do Conselho, de 9 de setembro de 2015, relativa a um procedimento de informação no domínio das regulamentações técnicas e das regras relativas aos serviços da sociedade da informação, em conformidade com o disposto nos n.os3 e 7 do artigo 10.º do [Regulamento (CE) n.º 853/2004](https://data.europa.eu/eli/reg/2004/853/oj?locale=pt).
 
 Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
 
@@ -225,7 +277,7 @@ e) «Unidade móvel» o matadouro móvel ou o estabelecimento móvel de manipula
 
 2 - As atividades de abate em matadouros móveis de animais de produções específicas, incluindo animais provenientes de explorações em modo de produção biológico, devem cumprir ainda as disposições legais previstas na legislação aplicável a esses modos de produção específicos, com as devidas adaptações previstas no presente decreto-lei.
 
-3 - As atividades de abate de animais e preparação de carcaças, incluindo o atordoamento, sangria, esfola, depilação ou depena, evisceração e inspeção, devem ocorrer no matadouro móvel, não sendo permitida a sua realização nas instalações das explorações pecuárias, exceto nas situações previstas nos n.<sup>os</sup>4 e 5 do artigo 7.º
+3 - As atividades de abate de animais e preparação de carcaças, incluindo o atordoamento, sangria, esfola, depilação ou depena, evisceração e inspeção, devem ocorrer no matadouro móvel, não sendo permitida a sua realização nas instalações das explorações pecuárias, exceto nas situações previstas nos n.os4 e 5 do artigo 7.º
 
 4 - Em matadouros móveis, as carcaças de ungulados domésticos podem ser desmanchadas em meias carcaças ou quartos e as meias carcaças num máximo de três grandes peças.
 
@@ -339,7 +391,7 @@ b) A segurança dos operadores envolvidos nas operações;
 
 c) A recolha e o encaminhamento adequado do sangue, em conformidade com as normas higiossanitárias aplicáveis.
 
-6 - As atividades de abate de animais e preparação de carcaças previstas nos n.<sup>os</sup>4 e 5 só podem ser realizadas nas instalações das explorações pecuárias, desde que se verifiquem os seguintes requisitos:
+6 - As atividades de abate de animais e preparação de carcaças previstas nos n.os4 e 5 só podem ser realizadas nas instalações das explorações pecuárias, desde que se verifiquem os seguintes requisitos:
 
 a) Seja assegurada a higienização e, sempre que necessário, a desinfeção das estruturas de contenção da exploração usadas no apoio à atividade de abate;
 
@@ -449,7 +501,7 @@ h) A não observância dos requisitos previstos no artigo 7.º em matéria de pr
 
 i) A não observância dos requisitos previstos no artigo 8.º em matéria de higiene dos matadouros móveis e dos estabelecimentos móveis de manipulação de caça;
 
-j) A não observância das obrigações previstas nos n.<sup>os</sup>1 a 3 do artigo 9.º em matéria de controlos oficiais;
+j) A não observância das obrigações previstas nos n.os1 a 3 do artigo 9.º em matéria de controlos oficiais;
 
 k) A inexistência de um sistema de gestão de efluentes de forma a evitar a contaminação de águas superficiais e subterrâneas, em incumprimento do artigo 11.º
 
@@ -477,12 +529,14 @@ O presente decreto-lei entra em vigor 90 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de abril de 2026. - Luís Montenegro - Ana Isabel Marques Xavier - Joaquim Miranda Sarmento - Manuel Castro Almeida - José Manuel Fernandes.
 
-**Promulgado em 8 de julho de 2026.**
+Promulgado em 8 de julho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 13 de julho de 2026.**
+Referendado em 13 de julho de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119949061

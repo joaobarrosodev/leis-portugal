@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44247-1962-516677
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-03-22T00:00:00Z'
+  retrieved_at: '2026-10-22T19:28:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a90a81ff12651476400f56d6fd03bb91ebc1d9ce0f3e53729b71c38a24153a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60da68f2124d3ea1120a2a4facaa9a362118b682c8706b8d2368a4e674f1fb26
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:28:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:432584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514233:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 32
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:28:30Z'
   warnings: []
   errors: []
 ---
@@ -99,21 +107,21 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 ### CAPÍTULO I — Da orgânica geral
 
-###### Artigo 1.º As actuais Direcções de Exploração de Transportes Aéreos dos serviços de portos, caminhos de ferro e transportes das províncias de Angola e Moçambique continuam integradas nesses serviços como direcções de exploração, designando-se abreviadamente por D. T. A. a de Angola e D. E. T. A. a de Moçambique.
+Artigo 1.º As actuais Direcções de Exploração de Transportes Aéreos dos serviços de portos, caminhos de ferro e transportes das províncias de Angola e Moçambique continuam integradas nesses serviços como direcções de exploração, designando-se abreviadamente por D. T. A. a de Angola e D. E. T. A. a de Moçambique.
 
-###### Art. 2.º Aos transportes aéreos compete executar a exploração técnica e comercial da respectiva rede, conservando o património da administração sob a sua guarda ou ao seu uso, sob a direcção de um director da exploração.
+Art. 2.º Aos transportes aéreos compete executar a exploração técnica e comercial da respectiva rede, conservando o património da administração sob a sua guarda ou ao seu uso, sob a direcção de um director da exploração.
 
-###### Art. 3.º Em caso de ausência ou impedimento, o director da exploração é substituído pelo subdirector ou, na sua falta ou ausência, pelo superintendente de operações e sucessivamente pelos chefes de serviços mais graduados ou mais antigos.
+Art. 3.º Em caso de ausência ou impedimento, o director da exploração é substituído pelo subdirector ou, na sua falta ou ausência, pelo superintendente de operações e sucessivamente pelos chefes de serviços mais graduados ou mais antigos.
 
 § único. Em caso de impedimento prolongado a substituição poderá ser feita da forma julgada mais conveniente por resolução dos governadores-gerais, sob proposta dos directores dos serviços.
 
-###### Art. 4.º Às Direcções de Exploração de Transportes Aéreos é aplicável toda a legislação geral que rege os serviços de portos, caminhos de ferro e trasnportes, com excepção daquela que contrarie o disposto no presente diploma e regulamentação dele decorrente, bem como das normas regulamentares emanadas das autoridades de aeronáutica civil, e das normas internacionais sobre transportes aéreos em vigor no nosso país.
+Art. 4.º Às Direcções de Exploração de Transportes Aéreos é aplicável toda a legislação geral que rege os serviços de portos, caminhos de ferro e trasnportes, com excepção daquela que contrarie o disposto no presente diploma e regulamentação dele decorrente, bem como das normas regulamentares emanadas das autoridades de aeronáutica civil, e das normas internacionais sobre transportes aéreos em vigor no nosso país.
 
-###### Art. 5.º As Direcções de Exploração de Transportes Aéreos de Angola e Moçambique compreendem normalmente serviços, secções, subsecções e sectores.
+Art. 5.º As Direcções de Exploração de Transportes Aéreos de Angola e Moçambique compreendem normalmente serviços, secções, subsecções e sectores.
 
 § único. As secções, subsecções e sectores poderão variar quer em número, quer em composição, e ainda ser agrupados de harmonia com as necessidades dos serviços, sendo a sua fixação feita conforme o permitirem as dotações do pessoal constantes dos orçamentos de cada ano.
 
-###### Art. 6.º A orgânica das Direcções de Exploração de Transportes Aéreos de Angola e Moçambique é a seguinte:
+Art. 6.º A orgânica das Direcções de Exploração de Transportes Aéreos de Angola e Moçambique é a seguinte:
 
 a) Direcção, com os órgãos de apoio:
 
@@ -121,13 +129,13 @@ Secretaria.
 
 #### Secção técnica.
 
-#### Secção de armazéns.
+Secção de armazéns.
 
 #### Secção de saúde.
 
-#### Secção de obras.
+Secção de obras.
 
-#### Secção de transportes terrestres.
+Secção de transportes terrestres.
 
 b) Serviço de contabilidade;
 
@@ -137,7 +145,7 @@ d) Serviço de operações;
 
 e) Serviço de manutenção.
 
-###### Art. 7.º Os diversos órgãos das Direcções de Exploração de Transportes Aéreos de Angola e Moçambique são constituídos da forma seguinte:
+Art. 7.º Os diversos órgãos das Direcções de Exploração de Transportes Aéreos de Angola e Moçambique são constituídos da forma seguinte:
 
 1.º Secretaria:
 
@@ -157,33 +165,33 @@ Depósito.
 
 3.º Serviço de contabilidade:
 
-#### Secção de expediente e arquivo.
+Secção de expediente e arquivo.
 
-#### Secção de fiscalização.
+Secção de fiscalização.
 
-#### Secção de orçamento e fiscalização da tesouraria.
+Secção de orçamento e fiscalização da tesouraria.
 
-#### Secção de contabilidade geral.
+Secção de contabilidade geral.
 
 Tesouraria.
 
 4.º Serviço comercial:
 
-#### Secção de expediente e intercâmbio.
+Secção de expediente e intercâmbio.
 
-#### Secção de vendas, compreendendo:
+Secção de vendas, compreendendo:
 
 ##### Subsecção de reservas.
 
-##### Subsecção de passagens.
+Subsecção de passagens.
 
 ##### Subsecção de carga.
 
-#### Secção de tráfego, compreendendo:
+Secção de tráfego, compreendendo:
 
 ##### Subsecção de tráfego.
 
-##### Subsecção de aprovisionamento de aviões.
+Subsecção de aprovisionamento de aviões.
 
 Escalas e agências.
 
@@ -199,9 +207,9 @@ Operações de base.
 
 #### Secção de expediente.
 
-#### Secção de contabilidade.
+Secção de contabilidade.
 
-#### Secção de estudo e planeamento.
+Secção de estudo e planeamento.
 
 #### Secção de verificação.
 
@@ -237,27 +245,27 @@ Viaturas auto.
 
 Mecânica de aviões:
 
-#### Secção de células e aviões.
+Secção de células e aviões.
 
-#### Secção de motores e acessórios.
+Secção de motores e acessórios.
 
-#### Secção de hélices e acessórios.
+Secção de hélices e acessórios.
 
 Oficinas especiais, compreendendo:
 
 #### Secção de rádio.
 
-#### Secção de electricidade.
+Secção de electricidade.
 
-#### Secção de instrumentos.
+Secção de instrumentos.
 
 ### CAPÍTULO II — Dos serviços das Direcções de Exploração de Transportes Aéreos de Angola e Moçambique
 
-###### Art. 8.º Ao serviço de contabilidade e às secções de armazéns e saúde competem as funções já constantes da legislação em vigor nos serviços de portos, caminhos de ferro e transportes na parte aplicável, respectivamente, aos serviços de contabilidade, fiscalização e tesouraria, serviço de compras e armazéns e secção de saúde.
+Art. 8.º Ao serviço de contabilidade e às secções de armazéns e saúde competem as funções já constantes da legislação em vigor nos serviços de portos, caminhos de ferro e transportes na parte aplicável, respectivamente, aos serviços de contabilidade, fiscalização e tesouraria, serviço de compras e armazéns e secção de saúde.
 
 § único. Exceptuam-se no serviço de contabilidade aquelas atribuições resultantes de acordos e normas nacionais ou internacionais superiormente aprovadas.
 
-###### Art. 9.º À secretaria compete:
+Art. 9.º À secretaria compete:
 
 1.º Registar a entrada da correspondência recebida e expedida, elaborar e expedir esta;
 
@@ -273,9 +281,9 @@ Oficinas especiais, compreendendo:
 
 7.º Elaborar e centralizar os elementos estatísticos dos diversos serviços dos transportes aéreos.
 
-###### Art. 10.º À secção técnica compete produzir as publicações técnicas e executar trabalhos de tradução, desenho, reprodução e fotografia para os diversos serviços.
+Art. 10.º À secção técnica compete produzir as publicações técnicas e executar trabalhos de tradução, desenho, reprodução e fotografia para os diversos serviços.
 
-###### Art. 11.º À secção de obras compete:
+Art. 11.º À secção de obras compete:
 
 1.º Projectar e executar ou dirigir a execução de obras de pequeno vulto e conservar todos os edifícios, dependências e instalações dos transportes aéreos;
 
@@ -285,7 +293,7 @@ Oficinas especiais, compreendendo:
 
 4.º Ter em dia o cadastro de todos os bens imóveis dos transportes aéreos.
 
-###### Art. 12.º À secção de transportes terrestres compete:
+Art. 12.º À secção de transportes terrestres compete:
 
 1.º O funcionamento regular dos transportes terrestres, tendo em atenção as necessidades dos diversos serviços;
 
@@ -293,7 +301,7 @@ Oficinas especiais, compreendendo:
 
 3.º Propor todas as medidas necessárias para o bom funcionamento do serviço.
 
-###### Art. 13.º Ao serviço comercial compete:
+Art. 13.º Ao serviço comercial compete:
 
 1.º Assegurar as relações com todas as entidades afectas à actividade comercial dos transportes aéreos;
 
@@ -315,7 +323,7 @@ Oficinas especiais, compreendendo:
 
 10.º Superintender e orientar o serviço das assistentes de bordo no que respeita à execução dos serviços referidos no número anterior.
 
-###### Art. 14.º Ao serviço de operações compete, de um modo geral, assegurar a utilização técnica eficiente das aeronaves, coordenar e orientar o trabalho do pessoal navegante, promover o acompanhamento do voo das aeronaves e decidir sobre o seu cancelamento e mudanças de destino e coligir e manter em dia, através de manuais e publicações complementares, as informações necessárias à eficiência e segurança dos voos.
+Art. 14.º Ao serviço de operações compete, de um modo geral, assegurar a utilização técnica eficiente das aeronaves, coordenar e orientar o trabalho do pessoal navegante, promover o acompanhamento do voo das aeronaves e decidir sobre o seu cancelamento e mudanças de destino e coligir e manter em dia, através de manuais e publicações complementares, as informações necessárias à eficiência e segurança dos voos.
 
 Compete em especial:
 
@@ -347,7 +355,7 @@ c) Às operações de base:
 
 6.º Em ligação com a secção de tráfego do serviço comercial, estabelecer os procedimentos convenientes ao despacho dos aviões nos aeródromos, de forma que se cumpram com o maior rigor possível os horários estabelecidos.
 
-###### Art. 15.º Ao serviço de manutenção compete, de um modo geral, executar os trabalhos de manutenção do material de voo, escalonando-os de harmonia com a utilização prevista, procedendo nomeadamente à sua inspecção, reparação e verificação, de forma a obter no mais alto grau a sua segurança e rendimento, e instruir e verificar o respectivo pessoal técnico. Poderá executar trabalhos da sua especialidade para outros serviços das Direcções de Exploração de Transportes Aéreos e entidades estranhas, de harmonia com os regulamentos em vigor. Compete também ao serviço a manutenção das viaturas adstritas à secção de transportes terrestres.
+Art. 15.º Ao serviço de manutenção compete, de um modo geral, executar os trabalhos de manutenção do material de voo, escalonando-os de harmonia com a utilização prevista, procedendo nomeadamente à sua inspecção, reparação e verificação, de forma a obter no mais alto grau a sua segurança e rendimento, e instruir e verificar o respectivo pessoal técnico. Poderá executar trabalhos da sua especialidade para outros serviços das Direcções de Exploração de Transportes Aéreos e entidades estranhas, de harmonia com os regulamentos em vigor. Compete também ao serviço a manutenção das viaturas adstritas à secção de transportes terrestres.
 
 Compete em especial:
 
@@ -393,15 +401,15 @@ g) Às oficinas especiais:
 
 A) Quadros e remunerações
 
-###### Art. 16.º Os quadros, categorias e gratificações do pessoal das Direcções de Exploração de Transportes Aéreos de Angola e Moçambique são os constantes dos mapas anexos.
+Art. 16.º Os quadros, categorias e gratificações do pessoal das Direcções de Exploração de Transportes Aéreos de Angola e Moçambique são os constantes dos mapas anexos.
 
 § 1.º Os funcionários titulares de licenças de voo adequadas e não pertencentes aos quadros do pessoal navegante poderão ser autorizados pelos directores das Explorações de Transportes Aéreos a fazer parte das tripulações das aeronaves e a efectuar os voos necessários para manterem a sua experiência e a validade das suas licenças, tendo nestes casos direito ao abono de prémios de percurso nas condições fixadas para o pessoal navegante.
 
 § 2.º Serão abonados de uma gratificação de serviço aéreo eventual os engenheiros e outro pessoal do serviço de manutenção que tenham de tomar parte em provas de voo do material. O quantitativo e a forma do abono desta gratificação serão fixados nos regulamentos locais.
 
-###### Art. 17.º Os quadros do pessoal navegante e do pessoal mecânico e artífice serão preenchidos em regime de contrato, mantendo-se, contudo, as nomeações do pessoal já nomeado.
+Art. 17.º Os quadros do pessoal navegante e do pessoal mecânico e artífice serão preenchidos em regime de contrato, mantendo-se, contudo, as nomeações do pessoal já nomeado.
 
-###### Art. 18.º Os cargos de director e subdirector das Direcções de Exploração de Transportes Aéreos de Angola e Moçambique serão providos por contrato ou nomeação e exercidos por pilotos aviadores militares ou de transportes públicos, com experiência comprovada de transportes aéreos e reconhecida competência técnica e administrativa.
+Art. 18.º Os cargos de director e subdirector das Direcções de Exploração de Transportes Aéreos de Angola e Moçambique serão providos por contrato ou nomeação e exercidos por pilotos aviadores militares ou de transportes públicos, com experiência comprovada de transportes aéreos e reconhecida competência técnica e administrativa.
 
 § 1.º Poderão ser providos nos referidos cargos os engenheiros-chefes do quadro comum com comprovada experiência aeronáutica em organizações de transportes aéreos;
 
@@ -409,33 +417,33 @@ A) Quadros e remunerações
 
 § 3.º Ficam revogados os artigos 19.º e 20.º do [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959, e o artigo 8.º do [Decreto n.º 43319](https://diariodarepublica.pt/dr/detalhe/decreto/43319-1960-514233), de 16 de Novembro de 1960.
 
-###### Art. 19.º A título precário e em regime de assalariamento, poderão ser admitidos como praticantes de piloto indivíduos com habilitações fixadas em diploma apropriado, para serem preparados para o desempenho das funções de piloto dos transportes aéreos.
+Art. 19.º A título precário e em regime de assalariamento, poderão ser admitidos como praticantes de piloto indivíduos com habilitações fixadas em diploma apropriado, para serem preparados para o desempenho das funções de piloto dos transportes aéreos.
 
-###### Art. 20.º O preenchimento dos lugares do quadro a que se refere o artigo 16.º fica dependente das necessidades do serviço e das possibilidades financeiras dos serviços de portos, caminhos de ferro e transportes das respectivas províncias e só terá lugar à medida que forem sendo orçamentadas as verbas ou abertos os necessários créditos especiais com contrapartida em recursos orçamentais.
+Art. 20.º O preenchimento dos lugares do quadro a que se refere o artigo 16.º fica dependente das necessidades do serviço e das possibilidades financeiras dos serviços de portos, caminhos de ferro e transportes das respectivas províncias e só terá lugar à medida que forem sendo orçamentadas as verbas ou abertos os necessários créditos especiais com contrapartida em recursos orçamentais.
 
 B) Do trabalho
 
-###### Art. 21.º Os limites máximos de voo e tempo de serviço do pessoal navegante, bem como do trabalho de técnicos de manutenção, serão fixados de harmonia com o estabelecido pelos serviços da aeronáutica civil.
+Art. 21.º Os limites máximos de voo e tempo de serviço do pessoal navegante, bem como do trabalho de técnicos de manutenção, serão fixados de harmonia com o estabelecido pelos serviços da aeronáutica civil.
 
-###### Art. 22.º O regime de trabalho para o restante pessoal será o que constar dos regulamentos em vigor nos serviços de portos, caminhos de ferro e transportes.
+Art. 22.º O regime de trabalho para o restante pessoal será o que constar dos regulamentos em vigor nos serviços de portos, caminhos de ferro e transportes.
 
 ### CAPÍTULO IV — Disposições diversas e transitórias
 
-###### Art. 23.º São alteradas as seguintes designações de pessoal, sem carência de nova nomeação, visto ou posse:
+Art. 23.º São alteradas as seguintes designações de pessoal, sem carência de nova nomeação, visto ou posse:
 
 a) No quadro comum dos engenheiros dos serviços de portos, caminhos de ferro e transportes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/03/06400/02750282.pdf))](https://files.diariodarepublica.pt/1s/1962/03/06400/02750282.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/03/06400/02750282.pdf)
 
 b) No quadro privativo de Angola:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/03/06400/02750282.pdf))](https://files.diariodarepublica.pt/1s/1962/03/06400/02750282.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/03/06400/02750282.pdf)
 
 c) No quadro privativo de Moçambique:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/03/06400/02750282.pdf))](https://files.diariodarepublica.pt/1s/1962/03/06400/02750282.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/03/06400/02750282.pdf)
 
-###### Art. 24.º São extintos nos quadros de pessoal das Direcções de Exploração de Transportes Aéreos, dos serviços de portos, caminhos de ferro e transportes, as categorias e lugares seguintes:
+Art. 24.º São extintos nos quadros de pessoal das Direcções de Exploração de Transportes Aéreos, dos serviços de portos, caminhos de ferro e transportes, as categorias e lugares seguintes:
 
 A) Na província de Angola:
 
@@ -577,7 +585,7 @@ b) Pessoal assalariado permanente:
 
 4 terceiros-mecânicos de aviões (serralheiros de chapa).
 
-###### Art. 25.º São aumentados aos quadros do pessoal dos serviços de portos, caminhos de ferro e transportes os seguintes lugares, nas categorias já existentes:
+Art. 25.º São aumentados aos quadros do pessoal dos serviços de portos, caminhos de ferro e transportes os seguintes lugares, nas categorias já existentes:
 
 A) Na província de Angola:
 
@@ -669,7 +677,7 @@ b) Quadro privativo:
 
 1 tesoureiro-pagador.
 
-###### Art. 26.º São criados e aumentados aos quadros de pessoal dos serviços de portos, caminhos de ferro e transportes, para os transportes aéreos, os seguintes lugares e categorias, que se consideram incluídos nos grupos do Estatuto do Funcionalismo Ultramarino indicados no mapa I anexo:
+Art. 26.º São criados e aumentados aos quadros de pessoal dos serviços de portos, caminhos de ferro e transportes, para os transportes aéreos, os seguintes lugares e categorias, que se consideram incluídos nos grupos do Estatuto do Funcionalismo Ultramarino indicados no mapa I anexo:
 
 A) Na província de Angola:
 
@@ -915,19 +923,19 @@ Pilotos aviadores praticantes ... M
 
 7 verificadores de avião ... L
 
-###### Art. 27.º Não é abrangido pelas disposições do artigo 20.º o pessoal já existente, que será provido nos lugares do quadro pela forma que for regulamentada nas respectivas províncias.
+Art. 27.º Não é abrangido pelas disposições do artigo 20.º o pessoal já existente, que será provido nos lugares do quadro pela forma que for regulamentada nas respectivas províncias.
 
-###### Art. 28.º Os governadores-gerais, sob proposta das Direcções dos Serviços de Portos, Caminhos de Ferro e Transportes, distribuirão pelas categorias e lugares agora criados o pessoal das categorias e lugares existentes.
+Art. 28.º Os governadores-gerais, sob proposta das Direcções dos Serviços de Portos, Caminhos de Ferro e Transportes, distribuirão pelas categorias e lugares agora criados o pessoal das categorias e lugares existentes.
 
 § único. O pessoal dos lugares existentes continuará a vencer pelos seus artigos, até ser provido nos novos lugares.
 
-###### Art. 29.º Os governadores-gerais ficam autorizados a remodelar, sob proposta dos serviços de portos, caminhos de ferro e transportes, os quadros de pessoal assalariado dos transportes aéreos, por meio de diploma legislativo, e a fixar os respectivos salários.
+Art. 29.º Os governadores-gerais ficam autorizados a remodelar, sob proposta dos serviços de portos, caminhos de ferro e transportes, os quadros de pessoal assalariado dos transportes aéreos, por meio de diploma legislativo, e a fixar os respectivos salários.
 
-###### Art. 30.º Ficam autorizados os governadores-gerais de Angola e Moçambique a publicar os orçamentos suplementares necessários à execução do presente decreto.
+Art. 30.º Ficam autorizados os governadores-gerais de Angola e Moçambique a publicar os orçamentos suplementares necessários à execução do presente decreto.
 
-###### Art. 31.º Os governadores-gerais fixarão os prazos para a publicação dos diversos regulamentos internos decorrentes da publicação do presente decreto.
+Art. 31.º Os governadores-gerais fixarão os prazos para a publicação dos diversos regulamentos internos decorrentes da publicação do presente decreto.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Março de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 
@@ -937,12 +945,12 @@ MAPA N.º 1
 
 Quadros e categorias do Estatuto do Funcionalismo Ultramarino do pessoal das Direcções de Exploração dos Transportes Aéreos de Angola e Moçambique
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/03/06400/02750282.pdf))](https://files.diariodarepublica.pt/1s/1962/03/06400/02750282.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/03/06400/02750282.pdf)
 
 MAPA N.º 2
 
 Gratificações a atribuir ao pessoal dos quadros das Direcções de Exploração dos Transportes Aéreos de Angola e Moçambique
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/03/06400/02750282.pdf))](https://files.diariodarepublica.pt/1s/1962/03/06400/02750282.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/03/06400/02750282.pdf)
 
 Ministério do Ultramar, 22 de Março de 1962. - O Ministro do Ultramar, Adriano José Alves Moreira.

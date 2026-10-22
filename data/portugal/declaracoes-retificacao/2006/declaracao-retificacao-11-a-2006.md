@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 39/2006, 1º Suplemento, Série I-A de 2006-02-23
   number: '39'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1524-(2) a 1524-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2006/02/039a01/00020002.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/11-a/2006/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-a-2006-190809
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-04-10T00:00:00Z'
+  retrieved_at: '2026-10-22T19:05:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eda03d91df10964c197583f089014f64fcaabfddb1fc4d770559c6a9180a7a1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f4096c5505244677f88feb31ceeb9f4ce2f879ce4c8d723035bbbc8bcd8a0e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:05:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,84 +67,96 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ARH
-- ARH do Algarve
+- Abastecimento de Água
+- Açores
 - ÁGUA Superficial
 - Águas Balneares
 - Águas Públicas
+- Águas Subterrâneas
+- Albufeiras
 - Análise Económica
 - Análise Laboratorial
 - Aproximação das Legislações
-- Autoridade Nacional da ÁGUA
-- Instituto da ÁGUA
-- Ordenamento do Território
-- Conselho de Bacia
-- Conselho de Região Hidrográfica
-- Contra-ordenação
-- Contrato de Concessão
-- Contrato Programa
-- Recursos Hídricos
-- Autoridade Marítima Nacional
-- Mar Territorial
-- Controlo Sanitário
-- Albufeiras
-- Barragem
-- Orla Costeira
-- Segurança Pública
-- Ministério do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
-- Expropriação
-- Fiscalização
-- Catástrofe
-- Comissão de Coordenação e Desenvolvimento Regional
-- Informação
-- Direito à Informação
-- Licenciamento
-- SECA
+- ARH
 - ARH do Alentejo
+- ARH do Algarve
 - ARH do Centro
 - ARH do Norte
 - ARH do TEJO
+- Autoridade Marítima Nacional
+- Autoridade Nacional da ÁGUA
+- Bacia Hidrográfica
+- Barragem
+- Catástrofe
+- Cheias
+- Comissão de Coordenação e Desenvolvimento Regional
+- Conselho de Bacia
+- Conselho de Região Hidrográfica
 - Conselho Nacional da ÁGUA
-- Programa Nacional da Política de Ordenamento do Território
-- Proteção do Ambiente
+- Contra-ordenação
+- Contrato de Concessão
+- Contrato Programa
+- Controlo Sanitário
+- Direito à Informação
+- Domínio Público Hídrico
+- Expropriação
+- Fiscalização
+- Informação
+- Instituto da ÁGUA
+- Licenciamento
+- Madeira.região Autónoma
+- Mar Territorial
+- Ministério do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
+- Ordenamento do Território
+- Orla Costeira
 - Plano de Bacia Hidrográfica
 - Plano de Ordenamento da Orla Costeira
-- Bacia Hidrográfica
-- Zona de Proteção
 - Plano de Ordenamento de Albufeiras de Águas Públicas
 - Plano Nacional da ÁGUA
 - Poluição da água
 - Preço
-- Madeira.região Autónoma
-- Domínio Público Hídrico
-- Águas Subterrâneas
+- Programa Nacional da Política de Ordenamento do Território
+- Proteção do Ambiente
+- Recursos Hídricos
 - Responsabilidade Civil
+- SECA
+- Segurança Pública
 - Serviço de Inspecção
-- Açores
-- Cheias
-- Abastecimento de Água
 - Sistema Nacional de Informação dos Títulos de Utilização dos Recursos Hídricos
 - Taxa
 - Utente
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:25343987:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:25343987:por
+  label: Derrogadas as normas da Lei 58/2005 de 29-dez (com a retificação constante do presente diploma), com a entrada em
+    vigor da legislação complementar prevista no art. 30.º da LEI.17/2014.10.04.2014.AR, DR.IS [71] de 10.04.2014, no que
+    sejam contrárias ao que está disposto naquele diploma�
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/17-2014-25343987
+  date: '2014-04-10'
 - type: cites
   target: celex:32000L0060
   label: null
   source: http://data.europa.eu/eli/dir/2000/60/oj
+- type: corrects
+  target: pt:numero:lei:58/2005
+  label: "Rectifica a Lei n.º 58/2005, de 29 de Dezembro, DR.IS-A [249]\0\0"
+  source: null
+  date: '2005-12-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:05:57Z'
   warnings: []
   errors: []
 ---

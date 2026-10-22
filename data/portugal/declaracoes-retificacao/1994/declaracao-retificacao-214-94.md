@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 277/1994, 4º Suplemento, Série I-B de 1994-11-30
   number: '277'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 7070-(8) a 7070-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/11/277b04/00080008.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/214/1994/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/214-1994-355911
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:41:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73af57ca9782c9699e08718665d03b54dc6811a61ae63cb9c10ba6771c01342c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25bd92b95d9fcc82cbd8f7906f3e33e226469687a5ed6e140d8519ed3ba1d761
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:41:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,14 +71,14 @@ subjects:
 - CE Países
 - CEE
 - Controlo Sanitário
-- Impresso
 - Importação
+- Impresso
 - Instituto de Protecção da Produção Agro-Alimentar
 - Instituto Florestal
 - Notificação
 - País Estrangeiro
-- Proteção Fitossanitária
 - Produção Vegetal
+- Proteção Fitossanitária
 - Troca Intracomunitária
 - Vegetais
 relationships:
@@ -86,21 +86,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/929/1994/10/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/929/1994/10/19/p/dre
+- type: cites
+  target: pt:dre:610181:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:41:42Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 214/94
+# Declaração de rectificação n.º 214/94
 
 Segundo comunicação do Ministério da Agricultura, a [Portaria n.º 929/94](https://diariodarepublica.pt/dr/detalhe/portaria/929-1994-610181), publicada no Diário da República, 1.ª série, n.º 242, de 19 de Outubro de 1994, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 

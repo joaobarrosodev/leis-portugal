@@ -95,6 +95,21 @@ relationships:
   label: Altera Artigo 2.º
   source: https://diariodarepublica.pt/dr/detalhe/portaria/246-b-2026-1129390726
   date: '2026-06-02'
+- type: amends
+  target: pt:numero:decreto-lei:176/2003
+  label: Atualiza, a partir de 6 de fevereiro de 2026, com efeitos a 1 de janeiro de 2026, os montantes do abono de família
+    para crianças e jovens, do abono de família pré-natal e do subsídio de funeral, previstos nas alíneas a), b) e d) do artigo
+    3.º, bem como as majorações relativas às condições previstas no n.º 1 do artigo 14.º-A todos do Decreto-Lei n.º 176/2003,
+    de 2 de agosto, Diário da República n.º 177/2003, Série I-A
+  source: null
+  date: '2003-08-02'
+- type: amends
+  target: pt:numero:decreto-regulamentar:3/2022
+  label: Atualiza, a partir de 6 de fevereiro de 2026, com efeitos a 1 de janeiro de 2026, o valor de referência da garantia
+    para a infância, de acordo com o n.º 2 do artigo 5.º do Decreto Regulamentar n.º 3/2022, de 19 de agosto, Diário da República
+    n.º 160/2022, Série I
+  source: null
+  date: '2022-08-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133-b/1997/05/30/p/dre
   label: null
@@ -135,6 +150,108 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/3/2023/01/17/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/3/2023/01/17/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106549661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108269605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117537583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124500726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192209136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192209137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205557192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206198898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73017524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:910888300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:916914751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:927098651:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:112/2025
+  label: Revoga, a partir de 6 de fevereiro de 2026, com efeitos a 1 de janeiro de 2026, nos termos do artigo 7.º do presente
+    diploma, a Portaria n.º 112/2025/1, de 14 de março, Diário da República n.º 52/2025, Série I
+  source: null
+  date: '2025-03-14'
 article_structure:
   article_count: 8
   section_count: 0

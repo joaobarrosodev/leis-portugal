@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45429-1963-683586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-12-13T00:00:00Z'
+  retrieved_at: '2026-10-22T19:38:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0680437bf272e8831d46bc4098ce1107266267eeceae5e407685fda1eb582fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6524df2438fa25c9cca8be33a8696549a5ac384b021354c5448a46e274eca166
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:38:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694010:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:38:13Z'
   warnings: []
   errors: []
 ---
@@ -93,30 +117,30 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º De harmonia com o disposto no [Decreto-Lei n.º 44361](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44361-1962-164401), de 23 de Maio de 1962, é autorizada a emissão de um empréstimo externo, amortizável, até à importância equivalente a 150000000$00, destinado a custear as obras de ampliação e remodelação do aeroporto do Sal, previstas no [Decreto-Lei n.º 45212](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45212-1963-694010), de 23 de Agosto de 1963.
+Artigo 1.º De harmonia com o disposto no [Decreto-Lei n.º 44361](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44361-1962-164401), de 23 de Maio de 1962, é autorizada a emissão de um empréstimo externo, amortizável, até à importância equivalente a 150000000$00, destinado a custear as obras de ampliação e remodelação do aeroporto do Sal, previstas no [Decreto-Lei n.º 45212](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45212-1963-694010), de 23 de Agosto de 1963.
 
-###### Art. 2.º Fica o Ministro das Finanças autorizado a proceder às necessárias negociações com entidades bancárias estrangeiras e a realizar, nos termos dos artigos seguintes, o contrato relativo à efectivação do empréstimo.
+Art. 2.º Fica o Ministro das Finanças autorizado a proceder às necessárias negociações com entidades bancárias estrangeiras e a realizar, nos termos dos artigos seguintes, o contrato relativo à efectivação do empréstimo.
 
-###### Art. 3.º A realização das operações cambiais e bancárias respeitantes à efectivação do empréstimo, bem como ao seu reembolso e ao pagamento dos respectivos juros, poderá ser confiada ao Banco de Portugal, por conta e ordem do Governo Português.
+Art. 3.º A realização das operações cambiais e bancárias respeitantes à efectivação do empréstimo, bem como ao seu reembolso e ao pagamento dos respectivos juros, poderá ser confiada ao Banco de Portugal, por conta e ordem do Governo Português.
 
-###### Art. 4.º O empréstimo, cujo serviço fica a cargo da Junta do Crédito Público, será representado por uma ou mais promissórias, devendo o seu valor nominal ser fixado no respectivo contrato.
+Art. 4.º O empréstimo, cujo serviço fica a cargo da Junta do Crédito Público, será representado por uma ou mais promissórias, devendo o seu valor nominal ser fixado no respectivo contrato.
 
-###### Art. 5.º O juro das promissórias não poderá ser superior a 2 por cento ao ano, calculado dia a dia, com base na correspondência de 365 dias por ano. Será pago semestralmente, em 30 de Junho e em 31 de Dezembro de cada ano, devendo o primeiro pagamento ter lugar em 30 de Junho de 1964.
+Art. 5.º O juro das promissórias não poderá ser superior a 2 por cento ao ano, calculado dia a dia, com base na correspondência de 365 dias por ano. Será pago semestralmente, em 30 de Junho e em 31 de Dezembro de cada ano, devendo o primeiro pagamento ter lugar em 30 de Junho de 1964.
 
-###### Art. 6.º As promissórias serão amortizáveis pelo seu valor nominal vinte anos depois da data em que tiver entrado na posse do Estado a quantia nelas representada.
+Art. 6.º As promissórias serão amortizáveis pelo seu valor nominal vinte anos depois da data em que tiver entrado na posse do Estado a quantia nelas representada.
 
 § único. Pode o Ministro das Finanças, se o julgar conveniente, proceder à amortização total ou parcial das promissórias antes de decorrido o prazo referido no corpo do presente artigo.
 
-###### Art. 7.º De harmonia com o que for ajustado ao abrigo do disposto no artigo 3.º do presente diploma, a Junta do Crédito Público porá à disposição do Banco de Portugal, com a indispensável antecedência em relação ao respectivo vencimento, as quantias necessárias ao pagamento dos juros e do capital representado nas promissórias.
+Art. 7.º De harmonia com o que for ajustado ao abrigo do disposto no artigo 3.º do presente diploma, a Junta do Crédito Público porá à disposição do Banco de Portugal, com a indispensável antecedência em relação ao respectivo vencimento, as quantias necessárias ao pagamento dos juros e do capital representado nas promissórias.
 
-###### Art. 8.º As promissórias representativas do empréstimo gozarão dos direitos, isenções e garantias consignados no artigo 22.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960, e estarão também isentas do imposto sobre as sucessões e doações.
+Art. 8.º As promissórias representativas do empréstimo gozarão dos direitos, isenções e garantias consignados no artigo 22.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960, e estarão também isentas do imposto sobre as sucessões e doações.
 
-###### Art. 9.º É dispensada a emissão de obrigação geral, nos termos do artigo 4.º do [Decreto-Lei n.º 44361](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44361-1962-164401), de 23 de Maio de 1962, podendo, no entanto, quaisquer entidades, designadas no contrato de empréstimo, dar a este as garantias de conformidade que se reputarem necessárias.
+Art. 9.º É dispensada a emissão de obrigação geral, nos termos do artigo 4.º do [Decreto-Lei n.º 44361](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44361-1962-164401), de 23 de Maio de 1962, podendo, no entanto, quaisquer entidades, designadas no contrato de empréstimo, dar a este as garantias de conformidade que se reputarem necessárias.
 
-###### Art. 10.º No Orçamento Geral do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos do empréstimo autorizado por este diploma, não devendo, porém, o encargo efectivo, excluídas as despesas da sua representação, exceder 2 1/4 por cento.
+Art. 10.º No Orçamento Geral do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos do empréstimo autorizado por este diploma, não devendo, porém, o encargo efectivo, excluídas as despesas da sua representação, exceder 2 1/4 por cento.
 
-###### Art. 11.º As despesas com a emissão, incluindo os trabalhos extraordinários que a urgência da sua representação justificar e forem autorizados, serão pagas por força das dotações orçamentais do Ministério das Finanças para o corrente ano económico, inscritas no capítulo 1.º, artigo 9.º, n.º 1).
+Art. 11.º As despesas com a emissão, incluindo os trabalhos extraordinários que a urgência da sua representação justificar e forem autorizados, serão pagas por força das dotações orçamentais do Ministério das Finanças para o corrente ano económico, inscritas no capítulo 1.º, artigo 9.º, n.º 1).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 13 de Dezembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa.

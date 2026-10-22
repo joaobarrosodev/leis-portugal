@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44916-1963-194071
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-03-14T00:00:00Z'
+  retrieved_at: '2026-10-22T19:33:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1ad0dcd9eeb2aea2ea706c077efa7fa97661bda7a6eb238e006dbb30614699e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12ad6a18e8fcaf45a91645bc8a470aa86492d26116ce6dea92651814aee4f2e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:33:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:180992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635399:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:33:55Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +104,11 @@ Tendo em vista o disposto no n.º V da base IX da Lei Orgânica do Ultramar Port
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. O tempo de serviço prestado ao Estado e aos corpos administrativos em regime de assalariamento, até à entrada em vigor do [Decreto-Lei n.º 43893](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43893-1961-180992), de 6 de Setembro de 1961, pelos indivíduos que perderam a condição de indígena com a publicação do citado diploma é contado para efeitos de aposentação, independentemente do pagamento de quotas para aquele efeito.
+Artigo único. O tempo de serviço prestado ao Estado e aos corpos administrativos em regime de assalariamento, até à entrada em vigor do [Decreto-Lei n.º 43893](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43893-1961-180992), de 6 de Setembro de 1961, pelos indivíduos que perderam a condição de indígena com a publicação do citado diploma é contado para efeitos de aposentação, independentemente do pagamento de quotas para aquele efeito.
 
 § único. Depois da entrada em vigor do decreto-lei mencionado no corpo do artigo, os indivíduos a quem se refere este diploma só poderão servir nos termos previstos para o regime de assalariamento no Estatuto do Funcionalismo Ultramarino, pelo que o tempo assim prestado só poderá ser contado para efeitos de aposentação desde que se verifiquem as circunstâncias previstas no artigo 430.º e sejam pagos os encargos devidos para aquele efeito nos termos do artigo 437.º e seus parágrafos do mesmo estatuto.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Março de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

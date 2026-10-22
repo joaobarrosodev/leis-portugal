@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/06/10500/0001300017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/103/2026/06/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/103-2026-1128264725
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-01T00:00:00Z'
+  retrieved_at: '2026-10-22T18:42:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1aff9d0e3d2a1aaedf52898e41a98d5aff603231912ce51d2d80be82ae201c80
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af42ef9bfa5d35509d22ef91dd1e2ad5e0461fc8b792c05195f4afbb2284567f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:42:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
 subjects:
 - Conselho de Administração
 - Conselho de Ministros
-- Nomeação
 - Instituto Português de Oncologia de Francisco Gentil
+- Nomeação
 - Porto
 relationships:
 - type: cites
@@ -91,16 +91,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
+- type: cites
+  target: pt:dre:176800051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73398942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:888216522:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:42:36Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +151,7 @@ Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](h
 
 Assim:
 
-Nos termos dos n.<sup>os</sup>1, 3, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, do artigo 12.º, dos n.<sup>os</sup>1 a 3 do artigo 13.º, do artigo 15.º, e da alínea c) do n.º 3 do artigo 20.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos dos n.os1, 3, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, do artigo 12.º, dos n.os1 a 3 do artigo 13.º, do artigo 15.º, e da alínea c) do n.º 3 do artigo 20.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Designar, para exercerem funções no conselho de administração do Instituto Português de Oncologia do Porto Francisco Gentil, E. P. E., o presidente e quatro vogais executivos, para um mandato de três anos, cuja idoneidade, experiência e competências profissionais para o desempenho dos cargos se encontram evidenciadas nas respetivas notas curriculares, constantes do anexo à presente resolução e da qual faz parte integrante:
 
@@ -246,3 +278,5 @@ Natural de Matosinhos, nascido em 28 de junho de 1960.
 Curso de Enfermagem Geral, concluído em 20 de dezembro de 1982, na Escola de Enfermagem de S. João; termo de equivalência ao bacharelato em Enfermagem, atribuído pelo Ministério da Educação - Departamento do Ensino Superior, em 17 de junho de 1993; Curso de Especialização em Enfermagem Médico-Cirúrgica, concluído em 1 de julho de 1994, na Escola Superior de Enfermagem Cidade do Porto, com a classificação de 16 valores; termo de equivalência ao Diploma de Estudos Superiores Especializados em Enfermagem, atribuído pelo Ministério da Educação - Departamento do Ensino Superior, em 19 de julho de 1994.
 
 Exerceu funções como enfermeiro no Serviço de Cirurgia entre janeiro de 1983 e dezembro de 1985; enfermeiro graduado no Serviço de Cirurgia e Radioterapia do Piso 6 entre janeiro de 1986 e fevereiro de 1987; enfermeiro graduado no Serviço de Cuidados Intensivos entre fevereiro de 1987 e julho de 1994, tendo sido nomeado para a categoria de enfermeiro graduado em 21 de julho de 1987; enfermeiro responsável no Serviço de Radioterapia e Cuidados Paliativos entre julho de 1994 e janeiro de 1996; enfermeiro especialista no Serviço de Cirurgia entre fevereiro de 1996 e junho de 1997, tendo sido nomeado à categoria de enfermeiro especialista da área médico-cirúrgica em 24 de janeiro de 1995. Exerceu funções como enfermeiro gestor do Hospital de Dia de Adultos entre julho de 1997 e 28 de fevereiro de 2006; enfermeiro gestor e vogal da direção da Escola Portuguesa de Oncologia do Porto desde 1 de março de 2006; enfermeiro gestor do Serviço de Atendimento Não Programado entre 3 de fevereiro de 2013 e 1 de abril de 2018; enfermeiro gestor do Serviço de Hospital de Dia - Adultos entre 2 de abril de 2018 e 30 de novembro de 2021; enfermeiro gestor nomeado para a Comissão Executiva da Direção de Enfermagem desde 13 de junho de 2019; enfermeiro gestor em funções de direção do Departamento de Oncologia Cirúrgica entre 1 de outubro de 2021 e 21 de outubro de 2022. Exerce funções de vogal do conselho de administração, como diretor de enfermagem, do Instituto Português de Oncologia do Porto Francisco Gentil, E. P. E., desde 22 de outubro de 2022.
+
+119948578

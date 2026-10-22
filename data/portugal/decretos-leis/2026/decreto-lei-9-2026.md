@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/9/2026/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2026-1006464123
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-14T00:00:00Z'
+  retrieved_at: '2026-10-22T18:28:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bf6a3f8b2a0912dd941b460ff19330305eb0b6172fab47e8c854e94c2091b7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 679f5e1cac06093df0ef5f9ace7e4132283643a34de0c8ddb55f738c079adcaa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:28:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
-- Conselho de Coordenação da Avaliação
-- Pessoal Dirigente
-- Comissão Paritária
 - Administração Pública
-- SIADAP
 - Avaliação das Instituições
+- Avaliação do Pessoal
+- Comissão Paritária
+- Conselho de Coordenação da Avaliação
+- Função Pública
+- Funcionário Público
 - Lei Geral do Trabalho em Funções Públicas
+- Pessoal Dirigente
 - Progressão na Carreira
 - Promoção Profissional
-- Avaliação do Pessoal
-- Funcionário Público
+- SIADAP
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:12/2024
+  label: Altera, a partir de 15 de janeiro de 2026, o artigo 6.º do Decreto-Lei n.º 12/2024, de 10 de janeiro, Diário da República
+    n.º 7/2024, Série I
+  source: null
+  date: '2024-01-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/12/2024/01/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/12/2024/01/10/p/dre
+- type: cites
+  target: pt:dre:836437684:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:28:52Z'
   warnings: []
   errors: []
 ---
@@ -139,12 +149,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de dezembro de 2025. - Paulo Artur dos Santos de Castro de Campos Rangel - José Maria Gonçalves Pereira Brandão de Brito.
 
-**Promulgado em 5 de janeiro de 2026.**
+Promulgado em 5 de janeiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 9 de janeiro de 2026.**
+Referendado em 9 de janeiro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119947208

@@ -48,25 +48,37 @@ source:
   metadata_url: https://data.dre.pt/eli/port/447-a/2026/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/447-a-2026-1174840973
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:54:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c5d47f49f99c41c96cb317dfde3e333c03a9d9499fae985a79fed603d234050
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b8ce55843542ffbb920302342848624955c417905cf313e2b32837bbd1b2ebc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:54:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Actualização de Renda
+- Arrendamento acessível
+- Arrendamento Urbano para Habitação
+- Autoridade Tributária e Aduaneira
+- Contrato de arrendamento
+- Contrato de Investimento
+- Contrato de investimento para arrendamento
+- Instituto da Habitação e da Reabilitação Urbana
+- Investimento
+- Plataforma de Interoperabilidade da Administração Pública
+- Regulamentação de Atos Legislativos
+- Renda de CASA
 relationships:
 - type: cites
   target: celex:32015L0849
@@ -92,16 +104,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/447-a/2026/09/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/447-a/2026/09/30/p/dre
+- type: cites
+  target: pt:dre:1124493227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70196960:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:54:14Z'
   warnings: []
   errors: []
 ---
@@ -120,11 +152,11 @@ O investimento para arrendamento requer, por isso, um quadro de estabilidade jur
 
 O novo regime dos CIA, aprovado em anexo ao [Decreto-Lei n.º 97/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2026-1124493227), de 20 de maio, visa criar o quadro de estabilidade fiscal e legislativa necessário para o investimento na aquisição, construção e reabilitação de imóveis destinados a arrendamento habitacional ou subarrendamento habitacional, por regra, até ao máximo de 25 anos. Durante o período de vigência do CIA, os benefícios fiscais previstos para este investimento ficam garantidos, sendo o investidor, igualmente, protegido em caso de eventuais alterações legislativas futuras com impacto no equilíbrio económico e financeiro do investimento.
 
-O regime dos CIA determina a regulamentação, por portaria dos membros do Governo responsáveis pelas áreas das finanças e da habitação, das disposições do regime dos contratos de investimento para arrendamento (CIA), aprovado no anexo i do [Decreto-Lei n.º 97/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2026-1124493227), de 20 de maio (regime dos CIA), designadamente as relativas aos procedimentos e requisitos para a apresentação e aprovação do CIA, aos requisitos de elegibilidade dos investidores e às obrigações a que estes ficam sujeitos, nos termos, respetivamente, do n.º 5 do artigo 1.º e dos n.<sup>os</sup>2 e 3 do artigo 2.º daquele regime.
+O regime dos CIA determina a regulamentação, por portaria dos membros do Governo responsáveis pelas áreas das finanças e da habitação, das disposições do regime dos contratos de investimento para arrendamento (CIA), aprovado no anexo i do [Decreto-Lei n.º 97/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2026-1124493227), de 20 de maio (regime dos CIA), designadamente as relativas aos procedimentos e requisitos para a apresentação e aprovação do CIA, aos requisitos de elegibilidade dos investidores e às obrigações a que estes ficam sujeitos, nos termos, respetivamente, do n.º 5 do artigo 1.º e dos n.os2 e 3 do artigo 2.º daquele regime.
 
 Assim:
 
-Nos termos previstos no n.º 5 do artigo 1.º do regime dos CIA, aprovado no anexo i do [Decreto-Lei n.º 97/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2026-1124493227), de 20 de maio, e dele parte integrante, e nos n.<sup>os</sup>2 e 3 do artigo 2.º do mesmo regime, bem como da alínea c) do n.º 1 do artigo 199.º da Constituição, manda o Governo, pelo Ministro de Estado e das Finanças e pelo Ministro das Infraestruturas e Habitação, o seguinte:
+Nos termos previstos no n.º 5 do artigo 1.º do regime dos CIA, aprovado no anexo i do [Decreto-Lei n.º 97/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2026-1124493227), de 20 de maio, e dele parte integrante, e nos n.os2 e 3 do artigo 2.º do mesmo regime, bem como da alínea c) do n.º 1 do artigo 199.º da Constituição, manda o Governo, pelo Ministro de Estado e das Finanças e pelo Ministro das Infraestruturas e Habitação, o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -138,7 +170,7 @@ a) Pelo menos 700/1000 da área total de construção dos edifícios abrangidos 
 
 b) O valor da renda mensal dos contratos de arrendamento habitacional, arrendamento para subarrendamento habitacional e subarrendamento habitacional não exceda o limite previsto na alínea a) do n.º 2 do artigo 2.º do [Decreto-Lei n.º 97/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2026-1124493227), de 20 de maio, tendo presente o disposto no artigo 3.º do mesmo decreto-lei.
 
-2 - A atualização da renda dos contratos referidos no número anterior efetua-se nos termos do artigo 24.º do Novo Regime do Arrendamento Urbano (NRAU), aprovado pela [Lei n.º 6/2006](https://diariodarepublica.pt/dr/detalhe/lei/6-2006-693853), de 27 de fevereiro, não podendo, porém, exceder o limite máximo aplicável nos termos dos n.<sup>os</sup>2 e 3 do artigo 2.º do [Decreto-Lei n.º 97/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2026-1124493227), de 20 de maio.
+2 - A atualização da renda dos contratos referidos no número anterior efetua-se nos termos do artigo 24.º do Novo Regime do Arrendamento Urbano (NRAU), aprovado pela [Lei n.º 6/2006](https://diariodarepublica.pt/dr/detalhe/lei/6-2006-693853), de 27 de fevereiro, não podendo, porém, exceder o limite máximo aplicável nos termos dos n.os2 e 3 do artigo 2.º do [Decreto-Lei n.º 97/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2026-1124493227), de 20 de maio.
 
 3 - Quando o CIA se destine a arrendamento acessível, regulado pelo regime simplificado de arrendamento acessível, aprovado no anexo iii do [Decreto-Lei n.º 97/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2026-1124493227), de 20 de maio (RSAA), são cumulativamente aplicáveis os requisitos e limites máximos de renda estabelecidos nesse regime aos contratos de arrendamento habitacional, arrendamento para subarrendamento e subarrendamento habitacional abrangidos pelo CIA.
 
@@ -278,7 +310,7 @@ f) A obrigação expressa de colaboração nas ações de acompanhamento e fisca
 
 ###### Artigo 10.º — Informação sobre a execução do CIA
 
-1 - Para os efeitos previstos nos n.<sup>os</sup>3 e 4 do artigo 10.º do Regime dos CIA, no âmbito do acompanhamento e monitorização da execução do contrato, o investidor, através da plataforma a que se refere o n.º 1 do artigo 4.º:
+1 - Para os efeitos previstos nos n.os3 e 4 do artigo 10.º do Regime dos CIA, no âmbito do acompanhamento e monitorização da execução do contrato, o investidor, através da plataforma a que se refere o n.º 1 do artigo 4.º:
 
 a) Submete, até ao final de janeiro de cada ano, o relatório anual de execução do CIA, nos termos a definir por despacho do membro do Governo responsável pela área da habitação;
 
@@ -332,7 +364,7 @@ Sem prejuízo do disposto no n.º 2 do artigo 13.º do [Decreto-Lei n.º 97/2026
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 29 de setembro de 2026. - O Ministro das Infraestruturas e Habitação, Miguel Martinez de Castro Pinto Luz, em 28 de setembro de 2026.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 29 de setembro de 2026. - O Ministro das Infraestruturas e Habitação, Miguel Martinez de Castro Pinto Luz, em 28 de setembro de 2026.
 
 ## ANEXO I — [a que se refere a alínea h) do n.º 1 do artigo 4.º]
 
@@ -356,7 +388,7 @@ c) Observa os requisitos aplicáveis aos contratos de arrendamento habitacional,
 
 5 - O investidor cumpre integralmente os requisitos específicos estabelecidos no anexo i do [Decreto-Lei n.º 97/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2026-1124493227), de 20 de maio, e na [Portaria n.º 447-A/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/447-a-2026-1174840973), de 30 de setembro, designadamente:
 
-a) É detentor da experiência profissional exigida nos termos dos n.<sup>os</sup> 2 e 3 do artigo 3.º da [Portaria n.º 447-A/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/447-a-2026-1174840973), de 30 de setembro, nos termos adiante indicados:
+a) É detentor da experiência profissional exigida nos termos dos n.os 2 e 3 do artigo 3.º da [Portaria n.º 447-A/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/447-a-2026-1174840973), de 30 de setembro, nos termos adiante indicados:
 
 | Descrição das atividades relevantes [A] | Área de experiência [B] | Pessoa ou entidade detentora da experiência [C] | Modo de detenção da experiência [D] | Data de início e de fim [E] |
 | --- | --- | --- | --- | --- |
@@ -482,3 +514,7 @@ Para os efeitos previstos no artigo 8.º, a listagem completa das habitações d
 10 - Número e data do título relativo à utilização, nos termos do RJUE;
 
 11 - Número e data da licença, comunicação prévia ou informação prévia relativa a obras de edificação, quando aplicável.
+
+119949675
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:18px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; }

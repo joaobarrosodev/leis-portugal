@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/05/09500/0001000021.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/4/2023/05/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/4-2023-213132932
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-05-17T00:00:00Z'
+  retrieved_at: '2026-10-22T17:54:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: adfc6e7f2690dfdfbb1217c9b25b138edbeccd82090255aa190416205afff8a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66b55e2e6cfe8b264ee71db61f88cd8c97e4035b2c7ebec43fd507bf787646ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:54:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,9 +70,9 @@ reuse:
 subjects:
 - Contratação Colectiva
 - Contrato Coletivo de Trabalho
-- Interpretação do Direito
-- Faltas
 - Contrato de Trabalho
+- Faltas
+- Interpretação do Direito
 - Sindicato
 - Trabalhador por Conta de Outrem
 relationships:
@@ -80,16 +80,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/acstj/7/2014/06/02/p/dre
   label: null
   source: http://data.dre.pt/eli/acstj/7/2014/06/02/p/dre
+- type: cites
+  target: pt:dre:176289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345947:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:54:35Z'
   warnings: []
   errors: []
 ---
@@ -415,3 +423,5 @@ Em conformidade com o disposto no artigo 186.º do CPT deverá este acórdão, a
 (1) Publicado no Boletim do Trabalho e Emprego, n.º 10, de 15 de Março de 2010 e tem alterações publicadas nos Boletim do Trabalho e Emprego, n.º 1, de 8 de Janeiro de 2013, Boletim do Trabalho e Emprego, n.º 32, de 29 de Agosto de 2014, Boletim do Trabalho e Emprego, n.º 21, de 8 de Junho de 2016, Boletim do Trabalho e Emprego, n.º 21, de 8 de Junho de 2017, Boletim do Trabalho e Emprego, n.º 17, de 8 de Maio de 2018 e a última e actual publicação, no Boletim do Trabalho e Emprego, n.º 20, de 29 de Maio de 2019.
 
 Lisboa, 19 de abril de 2023. - Ramalho Pinto - Domingos José de Morais - Azevedo Mendes - Mário Belo Morgado - Júlio Gomes - Henrique Araújo (presidente).
+
+116465732

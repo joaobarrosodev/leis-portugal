@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45418-1963-683840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-12-09T00:00:00Z'
+  retrieved_at: '2026-10-22T19:38:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5503b9f79163ca91687303d7885c675897a4ca250d7133cd5d9090980824f5ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f096833e7266e8465f0c8f43baada2b22b301f14dc52f673ceafd74c1c2db05d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:38:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:598351:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:38:06Z'
   warnings: []
   errors: []
 ---
@@ -86,11 +90,11 @@ A urgente necessidade de promover o estudo e a expansão dos modernos processos 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Em conformidade com deliberação da direcção do Instituto de Alta Cultura, homologada pelo Ministério da Educação Nacional, é criado naquele Instituto, ao abrigo do disposto no artigo 3.º, alínea e), do [Decreto-Lei n.º 38680](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38680-1952-598351), de 17 de Março de 1952, o Centro de Estudos de Pedagogia Áudio-Visual, com sede em Lisboa.
+Artigo 1.º Em conformidade com deliberação da direcção do Instituto de Alta Cultura, homologada pelo Ministério da Educação Nacional, é criado naquele Instituto, ao abrigo do disposto no artigo 3.º, alínea e), do [Decreto-Lei n.º 38680](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38680-1952-598351), de 17 de Março de 1952, o Centro de Estudos de Pedagogia Áudio-Visual, com sede em Lisboa.
 
-###### Art. 2.º O Centro tem por fim proceder ao estudo e experimentação dos processos áudio-visuais - designadamente cinema, projecção fixa, rádio, gravação sonora e televisão - nas suas aplicações ao ensino e à educação, e bem assim estimular e coordenar essas aplicações e fazer a apreciação dos seus resultados.
+Art. 2.º O Centro tem por fim proceder ao estudo e experimentação dos processos áudio-visuais - designadamente cinema, projecção fixa, rádio, gravação sonora e televisão - nas suas aplicações ao ensino e à educação, e bem assim estimular e coordenar essas aplicações e fazer a apreciação dos seus resultados.
 
-###### Art. 3.º Em vista à realização do fim definido no artigo anterior, o Centro deverá, nomeadamente:
+Art. 3.º Em vista à realização do fim definido no artigo anterior, o Centro deverá, nomeadamente:
 
 a) Promover a formação de pessoal adestrado no conhecimento dos processos áudio-visuais e sua aplicação nos vários graus e ramos do ensino e, de uma maneira geral, nos diferentes sectores da acção educativa, por meio da concessão de bolsas de estudo, no País ou no estrangeiro, a professores ou outras pessoas que dêem garantias de exercerem acção útil neste domínio;
 
@@ -106,17 +110,17 @@ f) Colaborar com as entidades públicas ou particulares, nacionais ou estrangeir
 
 g) Representar o País nas organizações e reuniões internacionais que se ocupem dos mesmos assuntos, por delegação do Instituto de Alta Cultura.
 
-###### Art. 4.º Os serviços dependentes do Ministério da Educação Nacional deverão prestar ao Centro a colaboração que este lhes solicitar e facultar-lhes a utilização do material áudio-visual que possuem.
+Art. 4.º Os serviços dependentes do Ministério da Educação Nacional deverão prestar ao Centro a colaboração que este lhes solicitar e facultar-lhes a utilização do material áudio-visual que possuem.
 
-###### Art. 5.º O Centro fará face aos seus encargos mediante as dotações normais ou especiais que forem concedidas pelo Estado e as receitas que lhe advierem de liberalidades feitas ao Instituto de Alta Cultura com indicação de se destinarem aos fins do Centro.
+Art. 5.º O Centro fará face aos seus encargos mediante as dotações normais ou especiais que forem concedidas pelo Estado e as receitas que lhe advierem de liberalidades feitas ao Instituto de Alta Cultura com indicação de se destinarem aos fins do Centro.
 
-###### Art. 6.º O Centro poderá efectuar, dentro das suas possibilidades orçamentais, as despesas que forem necessárias ou úteis à realização dos seus fins, com pessoal, instalações, apetrechamento, expediente, deslocações, estudos, publicações, propaganda.
+Art. 6.º O Centro poderá efectuar, dentro das suas possibilidades orçamentais, as despesas que forem necessárias ou úteis à realização dos seus fins, com pessoal, instalações, apetrechamento, expediente, deslocações, estudos, publicações, propaganda.
 
-###### Art. 7.º - 1. O Centro terá uma direcção constituída por um presidente, um secretário e três vogais, todos nomeados pelo Ministro da Educação Nacional sobre proposta do Instituto de Alta Cultura.
+Art. 7.º - 1. O Centro terá uma direcção constituída por um presidente, um secretário e três vogais, todos nomeados pelo Ministro da Educação Nacional sobre proposta do Instituto de Alta Cultura.
 
 2. O presidente será escolhido de entre professores do ensino superior, e os vogais de entre professores do ensino liceal, do ensino técnico profissional e do ensino primário, sendo um por cada um destes ramos de ensino.
 
-###### Art. 8.º Compete à direcção orientar as actividades do Centro, e nomeadamente:
+Art. 8.º Compete à direcção orientar as actividades do Centro, e nomeadamente:
 
 a) Apreciar o plano de trabalhos e o orçamento do ano seguinte e sujeitá-los à aprovação do Instituto de Alta Cultura;
 
@@ -124,7 +128,7 @@ b) Apreciar o relatório e as contas do ano findo e sujeitá-los à aprovação 
 
 c) Apreciar os relatórios dos bolseiros do Instituto de Alta Cultura que estejam agregados ao Centro, e os de quaisquer outras pessoas incumbidas de missões de estudo, e transmitir ao Instituto os respectivos pareceres.
 
-###### Art. 9.º Compete ao presidente:
+Art. 9.º Compete ao presidente:
 
 a) Convocar as reuniões da direcção e presidir às mesmas;
 
@@ -136,7 +140,7 @@ d) Superintender nas actividades do Centro e coordená-las;
 
 e) Assegurar as relações do Centro com outras entidades, e designadamente as suas indispensáveis ligações com os serviços do Ministério da Educação Nacional.
 
-###### Art. 10.º Compete ao secretário:
+Art. 10.º Compete ao secretário:
 
 a) Tomar parte nas reuniões da direcção;
 
@@ -144,7 +148,7 @@ b) Coadjuvar o presidente no desempenho das suas funções;
 
 c) Dirigir os serviços do Centro.
 
-###### Art. 11.º Compete aos vogais;
+Art. 11.º Compete aos vogais;
 
 a) Tomar parte nas reuniões da direcção;
 
@@ -152,7 +156,7 @@ b) Emitir parecer sobre as questões que lhes forem postas pela direcção e apr
 
 c) Efectuar quaisquer trabalhos ou missões de estudo de que a direcção os incumbir.
 
-###### Art. 12.º - 1. O Centro compreenderá três secções:
+Art. 12.º - 1. O Centro compreenderá três secções:
 
 a) Secção de cinema e projecção fixa;
 
@@ -162,8 +166,8 @@ c) Secção de televisão.
 
 2. A qualquer das secções poderá, porém, ser confiada a realização de trabalhos não especificados na designação respectiva.
 
-###### Art. 13.º O Centro terá o pessoal técnico, de secretaria e menor considerado indispensável ao seu funcionamento e que poderá ser contratado mediante simples ajuste verbal.
+Art. 13.º O Centro terá o pessoal técnico, de secretaria e menor considerado indispensável ao seu funcionamento e que poderá ser contratado mediante simples ajuste verbal.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Dezembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Inocêncio Galvão Teles.

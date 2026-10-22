@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/asst/1/2002/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/assento/1-2002-158621
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-06-05T00:00:00Z'
+  retrieved_at: '2026-10-22T18:28:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c38bf6e194d4dfd30e0ac23f30f7e25cc8019a7bddcdaed405d70b91459fb30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62e10923c2b254f7ecf16a5cb7e22e5d25533a865f834c478efa66cd3b44ebe2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:28:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Processo Penal
 - Código de Processo Penal
 - Decisão Judicial
 - Indemnização
 - Interpretação do Direito
+- Processo Penal
+- Recurso
 - Responsabilidade Civil
 - Tribunal da Relação
 relationships:
@@ -100,16 +100,53 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/59/1998/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/59/1998/08/25/p/dre
+- type: cites
+  target: pt:dre:197754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492471:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:140141:por
+  label: "Rectificado pela DECL-RECT.22/2002.2002.06.05.STJ, DR.IS-A [146] de 27/Jun/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/22-2002-140141
+  date: '2002-06-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:28:30Z'
   warnings: []
   errors: []
 ---
@@ -396,7 +433,7 @@ Aliás, o valor dos trabalhos preparatórios não é, nem de perto nem de longe,
 
 «Está hoje refutada a obsoleta concepção que, identificando o legislador com o redactor da lei, dava a tais discussões e opiniões (ver nota 22) quase a autoridade de interpretação autêntica.
 
-# Parte-se agora da observação exacta de que semelhantes escritos e discursos são coisa interna dos órgãos legislativos e não se transfundem em lei publicada. trata-se de debates internos, de modos de ver dos diversos relatores ou preopinantes (disserenti), de tendências individuais, e não de pensamentos do legislador. O silêncio dos outros elaboradores da lei não vale por aquiescência ou apropriação dos conceitos emitidos pelos vários proponentes, porque o texto da lei pode ser aprovado por outros motivos e até, frequentemente, discordando-se das razões invocadas. O conceito da lei projecta-se diversamente no espírito dos votantes, e não é legitimo supor que haja entre eles um espírito único. Desta divergência aparece rasto nos trabalhos legislativos, onde vemos sustentar opiniões contrárias, surgir antagonismos e transacções de tendências, acordarem-se novas fórmulas de texto, e maior se patentearia a discordância se nos fosse dado colher ao vivo o trabalho legislativo mais do que resulta das atestações oficiais contidas nos actos e nos documentos das câmaras. E de toda a maneira não pode falar-se num intento único (ver nota 23)».
+Parte-se agora da observação exacta de que semelhantes escritos e discursos são coisa interna dos órgãos legislativos e não se transfundem em lei publicada. trata-se de debates internos, de modos de ver dos diversos relatores ou preopinantes (disserenti), de tendências individuais, e não de pensamentos do legislador. O silêncio dos outros elaboradores da lei não vale por aquiescência ou apropriação dos conceitos emitidos pelos vários proponentes, porque o texto da lei pode ser aprovado por outros motivos e até, frequentemente, discordando-se das razões invocadas. O conceito da lei projecta-se diversamente no espírito dos votantes, e não é legitimo supor que haja entre eles um espírito único. Desta divergência aparece rasto nos trabalhos legislativos, onde vemos sustentar opiniões contrárias, surgir antagonismos e transacções de tendências, acordarem-se novas fórmulas de texto, e maior se patentearia a discordância se nos fosse dado colher ao vivo o trabalho legislativo mais do que resulta das atestações oficiais contidas nos actos e nos documentos das câmaras. E de toda a maneira não pode falar-se num intento único (ver nota 23)».
 
 Por outro lado, rogata venia, aquela alteração no texto da proposta não tem o significado inequívoco (ver nota 24) de quem nela se apoia para assentar diverso entendimento.
 

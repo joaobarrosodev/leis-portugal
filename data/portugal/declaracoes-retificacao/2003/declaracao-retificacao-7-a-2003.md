@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 126/2003, 2º Suplemento, Série I-A de 2003-05-31
   number: '126'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3314-(6) a 3314-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2003/05/126a02/00060006.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/7-a/2003/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-a-2003-210392
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:02:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03c8db9feafebfb59fb54db5c02a4a5b30aa329a1fabcdc958d8babea82665d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bfaebfee06830b45944ffdac1d065d56ed52d825c0e7ec71d54fd3511effb26a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:02:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,14 +69,27 @@ reuse:
 subjects:
 - Código do IRC
 - Código do IRS
-- IRS
 - IRC
+- IRS
 - Retenção na Fonte
 relationships:
 - type: amended_by
   target: pt:dre:609990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Alterado o art 90.º do Código do IRC aprovado pelo Dec Lei 442-B/88 de 30-Nov, revisto e republicado pelo Dec Lei\
+    \ 198/2001 de 03-Jul, rectificado pela presente declaração, pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl] de 31.12.2007\0\
+    07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Alterado o art. 90.º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, rectificado pela presente declaração,\
+    \ republicado pelo Dec Lei 159/2009 de 13-Jul, pela LEI.3-B/2010.28.04.2010.AR, DR.IS [82-Supl] de 28.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/42/1991/01/22/p/dre
   label: null
@@ -85,16 +98,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/80/2003/04/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/80/2003/04/23/p/dre
+- type: cites
+  target: pt:dre:239796:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:02:49Z'
   warnings: []
   errors: []
 ---

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45185-1963-693390
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-08-09T00:00:00Z'
+  retrieved_at: '2026-10-22T19:36:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8be7e3d8c5633a9e0e9038cc4a1e92832a6dfa489ca9d4c3e92af26cfc66af4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e263ec9ed27fdfcf041a2082800be96870ad1b16b99ad03271901c31fb8261db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:36:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:418261:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:36:08Z'
   warnings: []
   errors: []
 ---
@@ -91,10 +95,10 @@ Tendo em vista o § único do artigo 4.º do [Decreto-Lei n.º 27563](https://di
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte.
 
-###### Artigo 1.º É autorizada a Junta Autónoma do Porto de Aveiro a celebrar contrato com Serafim Pinto Guimarães Júnior para a execução das obras de adaptação de um troço da antiga estrada nacional n.º 109-7 a um arruamento do porto bacalhoeiro de Aveiro, pela importância de 326082$60, acrescida de 73917$40 para ocorrer a possíveis aumentos das quantidades de trabalho constantes do projecto, em virtude de, nos termos do caderno de encargos, toda a empreitada ser liquidada pelas quantidades de trabalho efectivamente executadas, excepto o indicado no capítulo I e seus artigos do mapa de medição, que é pago por preço global.
+Artigo 1.º É autorizada a Junta Autónoma do Porto de Aveiro a celebrar contrato com Serafim Pinto Guimarães Júnior para a execução das obras de adaptação de um troço da antiga estrada nacional n.º 109-7 a um arruamento do porto bacalhoeiro de Aveiro, pela importância de 326082$60, acrescida de 73917$40 para ocorrer a possíveis aumentos das quantidades de trabalho constantes do projecto, em virtude de, nos termos do caderno de encargos, toda a empreitada ser liquidada pelas quantidades de trabalho efectivamente executadas, excepto o indicado no capítulo I e seus artigos do mapa de medição, que é pago por preço global.
 
-###### Art. 2.º Seja qual for o valor das obras a realizar, não poderá a Junta Autónoma do Porto de Aveiro despender com pagamentos relativos às obras executadas, por virtude do contrato, mais de 280000$00 no corrente ano e 120000$00, ou o que se apurar como saldo, no ano de 1964.
+Art. 2.º Seja qual for o valor das obras a realizar, não poderá a Junta Autónoma do Porto de Aveiro despender com pagamentos relativos às obras executadas, por virtude do contrato, mais de 280000$00 no corrente ano e 120000$00, ou o que se apurar como saldo, no ano de 1964.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Agosto de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Carlos Gomes da Silva Ribeiro.

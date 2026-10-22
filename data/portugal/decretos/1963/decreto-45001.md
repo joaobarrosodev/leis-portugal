@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45001-1963-196732
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-04-25T00:00:00Z'
+  retrieved_at: '2026-10-22T19:34:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b3c2369f5f217f8f7a167686374449a0b557128cf0d1f56ad064b9a3e22bdaf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ab4a8ad8393a38d4d13dd948583f46d8fcce8bc566c04e9857f76096c856264
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:34:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:691056:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:34:37Z'
   warnings: []
   errors: []
 ---
@@ -95,11 +99,11 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento para o Transporte de Cargas de Grão a Granel a Bordo dos Navios, que baixa assinado pelo Ministro da Marinha e entra imediatamente em vigor.
+Artigo 1.º É aprovado o Regulamento para o Transporte de Cargas de Grão a Granel a Bordo dos Navios, que baixa assinado pelo Ministro da Marinha e entra imediatamente em vigor.
 
-###### Art. 2.º Ficam revogados os artigos 1.º a 22.º do regulamento aprovado pelo [Decreto n.º 14029](https://diariodarepublica.pt/dr/detalhe/decreto/14029-1927-691056), de 2 de Agosto de 1927.
+Art. 2.º Ficam revogados os artigos 1.º a 22.º do regulamento aprovado pelo [Decreto n.º 14029](https://diariodarepublica.pt/dr/detalhe/decreto/14029-1927-691056), de 2 de Agosto de 1927.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Abril de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Fernando Quintanilha Mendonça Dias.
 
@@ -107,17 +111,17 @@ REGULAMENTO PARA O TRANSPORTE DE CARGAS DE GRÃO A GRANEL A BORDO DOS NAVIOS
 
 Disposições gerais
 
-###### Artigo 1.º As prescrições deste regulamento têm por fim garantir as condições mínimas de segurança do carregamento, estiva e transporte de carga de grão a granel e aplicam-se essencialmente aos navios de arqueação bruta igual ou superior a 500 t fazendo viagens internacionais de qualquer categoria ou nacionais de longo curso.
+Artigo 1.º As prescrições deste regulamento têm por fim garantir as condições mínimas de segurança do carregamento, estiva e transporte de carga de grão a granel e aplicam-se essencialmente aos navios de arqueação bruta igual ou superior a 500 t fazendo viagens internacionais de qualquer categoria ou nacionais de longo curso.
 
 Para outras viagens e no caso de navios de menos de 500 t de arqueação bruta a Direcção da Marinha Mercante determinará as condições em que o transporte de grão a granel deve ser feito, podendo conceder dispensa de alguma ou algumas das disposições deste regulamento quando entenda que elas não são necessárias, tendo em conta as condições das viagens a efectuar.
 
-###### Art. 2.º Entende-se por carga de grão para os efeitos deste regulamento o trigo, milho, aveia, cevada, centeio, arroz, os legumes secos e as sementes.
+Art. 2.º Entende-se por carga de grão para os efeitos deste regulamento o trigo, milho, aveia, cevada, centeio, arroz, os legumes secos e as sementes.
 
-###### Art. 3.º No carregamento de grão a granel devem tomar-se todas as precauções convenientes e razoáveis para impedir o escorregamento da carga. Quando um porão ou compartimento é completamente atestado com grão a granel, a estiva deve ser feita de modo a encher todos os espaços entre os vaus, as amuradas e nas extremidades do porão ou compartimento.
+Art. 3.º No carregamento de grão a granel devem tomar-se todas as precauções convenientes e razoáveis para impedir o escorregamento da carga. Quando um porão ou compartimento é completamente atestado com grão a granel, a estiva deve ser feita de modo a encher todos os espaços entre os vaus, as amuradas e nas extremidades do porão ou compartimento.
 
 Porões e compartimentos completamente cheios
 
-###### Art. 4.º Ressalvadas as prescrições dos artigos 6.º e 9.º, quando um porão ou compartimento é completamente atestado de grão a granel, deve ser dividido longitudinalmente:
+Art. 4.º Ressalvadas as prescrições dos artigos 6.º e 9.º, quando um porão ou compartimento é completamente atestado de grão a granel, deve ser dividido longitudinalmente:
 
 a) Por uma antepara longitudinal ou meio-fio no plano de simetria do navio ou a uma distância deste não superior a 5 por cento de boca do navio na ossada (fig. 1);
 
@@ -125,7 +129,7 @@ ou
 
 b) Por anteparas longitudinais ou meios-fios fora do plano de simetria do navio, desde que a distância entre eles não exceda 60 por cento de boca do navio na ossada e que existam escotilhões de rechego (trimming hatches) de dimensões convenientes, situados lateralmente, dispostos com intervalos não superiores a 7,62 m (ou 25 pés) medidos longitudinalmente, e não devendo os escotilhões das extremidades ficar a distância superior a 3,66 m (ou 12 pés) das anteparas transversais que limitam o porão ou compartimento (fig. 2).
 
-###### Art. 5.º As anteparas longitudinais ou os meios-fios devem ser de sólida construção, estanques ao grão e com vedação adequada entre os vaus. Na construção dos meios-fios de madeira e seus reforços devem seguir-se as regras indicadas no anexo II deste regulamento ou disposições que sejam consideradas equivalentes pela Direcção da Marinha Mercante.
+Art. 5.º As anteparas longitudinais ou os meios-fios devem ser de sólida construção, estanques ao grão e com vedação adequada entre os vaus. Na construção dos meios-fios de madeira e seus reforços devem seguir-se as regras indicadas no anexo II deste regulamento ou disposições que sejam consideradas equivalentes pela Direcção da Marinha Mercante.
 
 Nos porões as anteparas longitudinais ou os meios-fios prolongam-se, para baixo, desde a face inferior do pavimento superior até distância não menor do que um terço da profundidade do porão ou, no mínimo, 2,44 m (ou 8 pés) (figs. 1 e 2).
 
@@ -133,7 +137,7 @@ Nos compartimentos das coberturas ou superstruturas as divisões serão de pavim
 
 Em todos os casos as anteparas longitudinais ou meios-fios irão até à parte superior dos alimentadores (feeders) dos porões ou compartimentos em que estão situados, salvo o disposto no artigo 6.º
 
-###### Art. 6.º Nos navios com carga de grão a granel (que não seja linhaça), em que a altura metacêntrica (corrigida do efeito das querenas líquidas nos tanques e duplos fundos) se mantenha, durante toda a viagem, com valor igual ou superior a 0,31 m (ou 12 polegadas) em navios de um dois pavimentos e a 0,36 m (ou 14 polegadas) em outros navios, as anteparas longitudinais ou meios-fios podem ser dispensados nos locais abaixo designados, se forem satisfeitas as condições seguintes:
+Art. 6.º Nos navios com carga de grão a granel (que não seja linhaça), em que a altura metacêntrica (corrigida do efeito das querenas líquidas nos tanques e duplos fundos) se mantenha, durante toda a viagem, com valor igual ou superior a 0,31 m (ou 12 polegadas) em navios de um dois pavimentos e a 0,36 m (ou 14 polegadas) em outros navios, as anteparas longitudinais ou meios-fios podem ser dispensados nos locais abaixo designados, se forem satisfeitas as condições seguintes:
 
 a) Abaixo do feeder e até uma distância de 2,13 m (ou 7 pés) além do feeder, mas sòmente em correspondência da escotilha, se esse feeder ou todos os feeders que alimentam colectivamente esse compartimento contiverem, pelo menos, 5 por cento da quantidade de grão carregada no compartimento considerado (fig. 3);
 
@@ -149,7 +153,7 @@ Entre o grão a granel e a carga que enche a cavidade devem ser interpostos ence
 
 Porões e compartimentos parcialmente cheios
 
-###### Art. 7.º Qualquer porão ou compartimento parcialmente cheio de grão a granel deverá satisfazer às condições seguintes, salvo o disposto nos artigos 8.º e 9.º deste regulamento:
+Art. 7.º Qualquer porão ou compartimento parcialmente cheio de grão a granel deverá satisfazer às condições seguintes, salvo o disposto nos artigos 8.º e 9.º deste regulamento:
 
 a) Ser dividido por uma antepara longitudinal ou meio-fio, situado no plano de simetria do navio ou afastado dela não mais de 5 por cento da boca do navio na ossada ou por anteparas longitudinais ou meios-fios fora do plano de simetria do navio, desde que a distância entre elas não exceda 60 por cento da boca do navio na ossada. As anteparas longitudinais ou meios-fios serão de construção apropriada e devem elevar-se desde o fundo do porão ou compartimento até, pelo menos, 0,61 m (ou 2 pés) acima da superfície do grão a granel;
 
@@ -157,11 +161,11 @@ b) O grão deve ser nivelado e coberto com sacos cheios de grão ou outra mercad
 
 Os sacos devem assentar em plataformas colocadas em cima do grão a granel. As plataformas serão constituídas por barrotes distanciados de não mais de 1,22 m (ou 4 pés) e por tábuas de 25 mm (ou 1 polegada) de espessura, que não fiquem separadas entre si de mais de 0,10 m (ou 4 polegadas). Poderão também usar-se encerados ou fortes coberturas de lona convenientemente sobrepostas (fig. 6).
 
-###### Art. 8.º As anteparas longitudinais ou meios-fios podem, contudo, ser dispensados, em correspondência das escotilhas de porões carregados parcialmente com grão a granel (que não seja linhaça), nos navios cuja altura metacêntrica (corrigida do efeito das querenas líquidas nos tanques e duplos fundos) se mantenha, durante toda a viagem, com valor não inferior a 0,31 m (ou 12 polegadas) no caso de navio de um ou dois pavimentos e a 0,36 m (ou 14 polegadas) no caso de outros navios (fig. 7).
+Art. 8.º As anteparas longitudinais ou meios-fios podem, contudo, ser dispensados, em correspondência das escotilhas de porões carregados parcialmente com grão a granel (que não seja linhaça), nos navios cuja altura metacêntrica (corrigida do efeito das querenas líquidas nos tanques e duplos fundos) se mantenha, durante toda a viagem, com valor não inferior a 0,31 m (ou 12 polegadas) no caso de navio de um ou dois pavimentos e a 0,36 m (ou 14 polegadas) no caso de outros navios (fig. 7).
 
 Casos em que podem ser dispensadas as divisórias longitudinais
 
-###### Art. 9.º A instalação de anteparas longitudinais ou meios-fios pode ser dispensada em determinados locais, além dos casos previstos nos artigos 6.º e 8.º, nas seguintes condições:
+Art. 9.º A instalação de anteparas longitudinais ou meios-fios pode ser dispensada em determinados locais, além dos casos previstos nos artigos 6.º e 8.º, nas seguintes condições:
 
 a) No porão inferior (ou na parte inferior de um porão em navios de um só pavimento) quando o grão a granel nele transportado não exceda um terço da capacidade do porão ou metade dessa capacidade se se tratar de porão dividido por um túnel de veios;
 
@@ -171,7 +175,7 @@ c) Nos locais do navio em que a largura máxima no pavimento superior não exced
 
 Alimentadores («feeders»)
 
-###### Art. 10.º Todos os porões e compartimentos que sejam completamente carregados com grão a granel devem ser alimentados por feeders devidamente localizados e convenientemente construídos, de modo a garantir a passagem do grão dos feeders para todos os pontos do porão ou compartimento.
+Art. 10.º Todos os porões e compartimentos que sejam completamente carregados com grão a granel devem ser alimentados por feeders devidamente localizados e convenientemente construídos, de modo a garantir a passagem do grão dos feeders para todos os pontos do porão ou compartimento.
 
 Cada feeder deve conter, pelo menos, 2 por cento da quantidade de grão carregado na parte do porão ou compartimento que alimenta (fig. 10), sem prejuízo do que dispõem as alíneas a) e b) do artigo 6.º, nos casos particulares nelas considerados.
 
@@ -183,7 +187,7 @@ Cada feeder deve conter, pelo menos, 2 por cento da quantidade de grão carregad
 
 Carregamento em comum
 
-###### Art. 11.º Podem ser considerados como um único compartimento, para os efeitos da aplicação deste regulamento, os porões e as cobertas acima deles, devendo observar-se o seguinte:
+Art. 11.º Podem ser considerados como um único compartimento, para os efeitos da aplicação deste regulamento, os porões e as cobertas acima deles, devendo observar-se o seguinte:
 
 a) As anteparas longitudinais ou os meios-fios devem ser instalados de pavimento a pavimento na coberta de navios com dois pavimentos; nos outros casos as anteparas longitudinais ou os meios-fios devem ser instalados no terço superior da altura total dos locais em comum (fig. 11);
 
@@ -195,11 +199,11 @@ c) A altura metacêntrica do navio (corrigida dos efeitos das querenas líquidas
 
 Estiva e carregamento em sacos nos extremos dos porões e compartimentos
 
-###### Art. 12.º Quando a distância, medida para vante ou para ré, de qualquer ponto de um porão ou compartimento ao feeder mais próximo excede 7,62 m (ou 25 pés), o grão, na parte situada para além dessa distância, deve ser nivelado a uma profundidade não inferior a 1,83 m (ou 6 pés) abaixo do pavimento superior e esses locais cheios com sacos assentes em plataformas adequadas, como indica a alínea b) do artigo 7.º
+Art. 12.º Quando a distância, medida para vante ou para ré, de qualquer ponto de um porão ou compartimento ao feeder mais próximo excede 7,62 m (ou 25 pés), o grão, na parte situada para além dessa distância, deve ser nivelado a uma profundidade não inferior a 1,83 m (ou 6 pés) abaixo do pavimento superior e esses locais cheios com sacos assentes em plataformas adequadas, como indica a alínea b) do artigo 7.º
 
 Condições em que é autorizado o carregamento nas cobertas e nas superstruturas
 
-###### Art. 13.º Não deverá ser carregado grão a granel na coberta de navio de dois pavimentos ou na coberta superior dos navios de mais de dois pavimentos, a não ser nas seguintes condições:
+Art. 13.º Não deverá ser carregado grão a granel na coberta de navio de dois pavimentos ou na coberta superior dos navios de mais de dois pavimentos, a não ser nas seguintes condições:
 
 a) O grão a granel ou outra mercadoria será estivado de modo a garantir a máxima estabilidade e deverá ser satisfeita uma das seguintes condições:
 
@@ -217,7 +221,7 @@ c) Todos os espaços considerados neste artigo em que se carrega grão a granel 
 
 Limitação do número de porões e cobertas parcialmente cheios
 
-###### Art. 14.º Salvo o caso de navios cuja altura metacêntrica (corrigida dos efeitos das querenas líquidas) se mantém, durante toda a viagem, igual ou superior a 0,31 m (ou 12 polegadas) no caso de navios de um ou dois pavimentos e a 0,36 m (ou 14 polegadas) no caso de outros navios, não deve haver mais do que dois porões ou compartimentos parcialmente cheios de grão a granel. É permitido, contudo, que outros porões ou compartimentos sejam parcialmente carregados com grão a granel se o seu carregamento for completado com grão em sacos ou com outra mercadoria apropriada.
+Art. 14.º Salvo o caso de navios cuja altura metacêntrica (corrigida dos efeitos das querenas líquidas) se mantém, durante toda a viagem, igual ou superior a 0,31 m (ou 12 polegadas) no caso de navios de um ou dois pavimentos e a 0,36 m (ou 14 polegadas) no caso de outros navios, não deve haver mais do que dois porões ou compartimentos parcialmente cheios de grão a granel. É permitido, contudo, que outros porões ou compartimentos sejam parcialmente carregados com grão a granel se o seu carregamento for completado com grão em sacos ou com outra mercadoria apropriada.
 
 Na aplicação deste artigo:
 
@@ -229,7 +233,7 @@ c) Os porões e outros compartimentos providos de uma ou mais divisões longitud
 
 Carregamento e estiva em navios especialmente adaptados para transporte de grão a granel
 
-###### Art. 15.º Nos navios especialmente adaptados para transporte de grão a granel, com duas ou mais divisórias longitudinais, verticais ou inclinadas, estanques ao grão, convenientemente dispostas para limitar os efeitos do escorregamento transversal do grão, é permitido o carregamento com dispensa das disposições dos artigos 4.º a 14.º, desde que sejam satisfeitas as seguintes condições:
+Art. 15.º Nos navios especialmente adaptados para transporte de grão a granel, com duas ou mais divisórias longitudinais, verticais ou inclinadas, estanques ao grão, convenientemente dispostas para limitar os efeitos do escorregamento transversal do grão, é permitido o carregamento com dispensa das disposições dos artigos 4.º a 14.º, desde que sejam satisfeitas as seguintes condições:
 
 a) Ter o maior número possível de porões e compartimentos completamente cheios e bem estivados;
 
@@ -245,13 +249,13 @@ Os meios-fios, quando existam, serão considerados meios de limitação do escor
 
 Disposições diversas
 
-###### Art. 16.º Os duplos fundos ou outros tanques utilizados para garantir a estabilidade exigida aos navios carregados com grão a granel devem ter uma divisória longitudinal estanque, a não ser quando a largura do duplo fundo ou do tanque considerado for inferior a 60 por cento da boca do navio.
+Art. 16.º Os duplos fundos ou outros tanques utilizados para garantir a estabilidade exigida aos navios carregados com grão a granel devem ter uma divisória longitudinal estanque, a não ser quando a largura do duplo fundo ou do tanque considerado for inferior a 60 por cento da boca do navio.
 
-###### Art. 17.º O grão ensacado deve estar contido em sacos em bom estado, bem cheios e convenientemente fechados.
+Art. 17.º O grão ensacado deve estar contido em sacos em bom estado, bem cheios e convenientemente fechados.
 
-###### Art. 18.º Quando as braçolas ou os vaus das extremidades das escotilhas descem a mais de 380 mm (ou 15 polegadas) abaixo do pavimento devem ter furos de alimentação que permitam a passagem do grão. Se a profundidade das braçolas ou vaus está compreendida entre 380 mm e 460 mm (ou 15 e 18 polegadas) os furos terão o diâmetro de 50 mm (ou 2 polegadas) e, se for superior a 460 mm terão o diâmetro de 90 mm (ou 3 1/2 polegadas). Os furos de alimentação devem ser espaçados de cerca de 600 mm (ou 2 pés).
+Art. 18.º Quando as braçolas ou os vaus das extremidades das escotilhas descem a mais de 380 mm (ou 15 polegadas) abaixo do pavimento devem ter furos de alimentação que permitam a passagem do grão. Se a profundidade das braçolas ou vaus está compreendida entre 380 mm e 460 mm (ou 15 e 18 polegadas) os furos terão o diâmetro de 50 mm (ou 2 polegadas) e, se for superior a 460 mm terão o diâmetro de 90 mm (ou 3 1/2 polegadas). Os furos de alimentação devem ser espaçados de cerca de 600 mm (ou 2 pés).
 
-###### Art. 19.º As anteparas das casas da máquina e da caldeira, paióis de combustível e recessos de caldeiras auxiliares sujeitos a aquecimento devem ter revestimento de madeira, vedando ao grão, de modo a constituir-se uma lâmina de ar de pelo menos 150 mm (ou 6 polegadas) entre a antepara e o revestimento. Este espaço deve ser posto em comunicação, na sua parte superior, com um ventilador ou escotilha, por meio de uma conduta de secção rectangular de 150 mm x 200 mm (ou 6 x 8 polegadas), podendo, contudo, aceitar-se outro meio de ventilação equivalente.
+Art. 19.º As anteparas das casas da máquina e da caldeira, paióis de combustível e recessos de caldeiras auxiliares sujeitos a aquecimento devem ter revestimento de madeira, vedando ao grão, de modo a constituir-se uma lâmina de ar de pelo menos 150 mm (ou 6 polegadas) entre a antepara e o revestimento. Este espaço deve ser posto em comunicação, na sua parte superior, com um ventilador ou escotilha, por meio de uma conduta de secção rectangular de 150 mm x 200 mm (ou 6 x 8 polegadas), podendo, contudo, aceitar-se outro meio de ventilação equivalente.
 
 O revestimento de madeira deve ser formado por tábuas de 50 mm (ou 2 polegadas) de espessura ou por duas fiadas de tábuas de 25 mm (ou 1 polegada) com juntas alternadas, assentes em prumos que não devem ficar distânciados de mais de 600 mm (ou 2 pés) de centro a centro.
 
@@ -259,7 +263,7 @@ Poderão ser aceites outros meios de isolamento de equivalente eficácia.
 
 Planos de carregamento e cálculos de estabilidade
 
-###### Art. 20.º Os navios que se empreguem no transporte de grão a granel devem ter a bordo, além dos cálculos e gráficos dos elementos relativos às querenas direitas e às querenas inclinadas, planos de carregamento do grão e cálculos das condições de estabilidade, aprovados pela Repartição Técnica da Direcção da Marinha Mercante, de que constem as seguintes indicações:
+Art. 20.º Os navios que se empreguem no transporte de grão a granel devem ter a bordo, além dos cálculos e gráficos dos elementos relativos às querenas direitas e às querenas inclinadas, planos de carregamento do grão e cálculos das condições de estabilidade, aprovados pela Repartição Técnica da Direcção da Marinha Mercante, de que constem as seguintes indicações:
 
 a) Capacidade dos diversos porões e outros compartimentos destinados a carga, dos alimentadores (feeders) e dos caixões para carga (bins);
 
@@ -297,17 +301,17 @@ As legendas deverão ser escritas também em inglês ou francês, para facilidad
 
 Disposições equivalentes
 
-###### Art. 21.º Poderão ser aceites disposições equivalentes às que ficam prescritas, quando for demonstrado, a satisfação da Repartição Técnica da Direcção da Marinha Mercante, que elas têm eficácia pelo menos igual às estabelecidas neste regulamento.
+Art. 21.º Poderão ser aceites disposições equivalentes às que ficam prescritas, quando for demonstrado, a satisfação da Repartição Técnica da Direcção da Marinha Mercante, que elas têm eficácia pelo menos igual às estabelecidas neste regulamento.
 
 Vistorias
 
-###### Art. 22.º Não deve ser iniciada qualquer viagem de transporte de carga de grão a granel sem que seja verificado, mediante vistoria por engenheiro construtor naval da Repartição Técnica da Direcção da Marinha Mercante, o cumprimento das disposições do presente regulamento.
+Art. 22.º Não deve ser iniciada qualquer viagem de transporte de carga de grão a granel sem que seja verificado, mediante vistoria por engenheiro construtor naval da Repartição Técnica da Direcção da Marinha Mercante, o cumprimento das disposições do presente regulamento.
 
 § único. Serão fixados por portaria os emolumentos correspondentes ao trabalho de vistoria referido no corpo deste artigo.
 
 Multas
 
-###### Art. 23.º Serão fixadas por portaria as multas correspondentes ao não cumprimento das disposições do presente regulamento.
+Art. 23.º Serão fixadas por portaria as multas correspondentes ao não cumprimento das disposições do presente regulamento.
 
 Ministério da Marinha, 25 de Abril de 1963. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.
 
@@ -363,7 +367,7 @@ I - Meios-fios
 
 2) O máximo vão livre dos meios-fios é regulado pela tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/04/09800/04120424.pdf))](https://files.diariodarepublica.pt/1s/1963/04/09800/04120424.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/04/09800/04120424.pdf)
 
 3) Os meios-fios devem ficar sòlidamente encastrados nas calhas das anteparas parciais. Se não existirem cantoneiras ou ferros U para tal fim, montar-se-ão pranchas de madeira tendo pelo menos 150 mm (ou 6 polegadas) de largura e 76 mm (ou 3 polegadas) de espessura, convenientemente escoradas.
 
@@ -393,7 +397,7 @@ Nas extremidades superior e inferior terão cravados ou soldados esquadros de re
 
 Tipo 2. - Os prumos metálicos deste tipo serão construídos em conformidade com a tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/04/09800/04120424.pdf))](https://files.diariodarepublica.pt/1s/1963/04/09800/04120424.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/04/09800/04120424.pdf)
 
 As cantoneiras verticais devem ser ligadas, na parte superior e inferior, por meio de dois parafusos de 22 mm (ou 7/8 de polegada), a castanhas de cantoneira sòlidamente fixadas ao tecto do duplo fundo, ao tecto do túnel, aos vaus e aos reforços das escotilhas, conforme os casos.
 
@@ -419,7 +423,7 @@ b) As escoras seguintes serão espaçadas de 2,13 m (ou 7 pés), distância medi
 
 18) As dimensões das escoras de madeira são reguladas pela tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/04/09800/04120424.pdf))](https://files.diariodarepublica.pt/1s/1963/04/09800/04120424.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/04/09800/04120424.pdf)
 
 19) Quando os intervalos entre escoras ou prumos forem inferiores aos indicados, respectivamente, na tabela do n.º 2 e no n.º 15, as dimensões das escoras poderão ser reduzidas proporcionalmente. Nos casos em que os intervalos entre escoras ou prumos forem superiores aos indicados devem ser instalados reforços suplementares, a aprovar pela Repartição Técnica da Direcção da Marinha Mercante.
 
@@ -475,6 +479,6 @@ Ministério da Marinha, 25 de Abril de 1963. - O Ministro da Marinha, Fernando Q
 
 Da Fig. 1 à Fig. 18
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/04/09800/04120424.pdf))](https://files.diariodarepublica.pt/1s/1963/04/09800/04120424.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/04/09800/04120424.pdf)
 
 Ministério da Marinha, 25 de Abril de 1963. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

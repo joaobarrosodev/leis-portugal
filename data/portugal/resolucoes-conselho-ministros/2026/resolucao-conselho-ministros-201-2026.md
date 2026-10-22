@@ -47,25 +47,37 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/201/2026/10/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/201-2026-1182082413
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-10-16T00:00:00Z'
+  retrieved_at: '2026-10-22T18:55:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce9bc6fad0bec17d14b86e9c2f0ed4a670212ac5c0e97656d59ba80fd938c53c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 721eb5d7df1b57403073e11d07c0bd980609bfcc9521d3d814a064b537a9460a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:55:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alienação de Acções
+- Caderno de Encargos
+- Conselho de Ministros
+- Delegação de Competências
+- Governo XXV
+- Ministro de Estado e das Finanças
+- Parpública-Participações Públicas
+- Privatização
+- Setor Empresarial do Estado
+- TAP
+- Transportes Aéreos Portugueses
+- Venda Directa
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/92/2025/08/14/p/dre
@@ -87,16 +99,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/75-b/2026/04/27/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/75-b/2026/04/27/p/dre
+- type: cites
+  target: pt:dre:1095309096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1152409240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1167736597:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928937302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:936209684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:992627259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:55:00Z'
   warnings: []
   errors: []
 ---
@@ -148,3 +184,5 @@ d) Fixar a data, hora e local para a celebração dos instrumentos contratuais, 
 9 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação, com exceção do disposto no número anterior, que produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 14 de outubro de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119949748

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/114/2026/06/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2026-1130121307
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-08T00:00:00Z'
+  retrieved_at: '2026-10-22T18:43:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41c1751db2f234baade685a675849d249edbbf1d46c74b625ceacb9f785f18c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f373f8b272d7501e297d339ee124b357144672c1aaaa8a17e2c0cb81364ac494
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:43:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autoridade Nacional de Segurança Rodoviária
 - Carta de Condução
 - Comunicações Eletrónicas
-- Instituto da Mobilidade e dos Transportes
-- Veículo
-- Autoridade Nacional de Segurança Rodoviária
 - Condutor
-- Notificação
-- Serviço Público
-- Regulamento da Habilitação Legal para Conduzir
 - Dados Pessoais
+- Instituto da Mobilidade e dos Transportes
+- Notificação
 - Plataforma de Interoperabilidade da Administração Pública
+- Regulamento da Habilitação Legal para Conduzir
+- Serviço Público
+- Veículo
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:138/2012
+  label: Altera, a partir de 9 de junho de 2026, nos termos do artigo 4.º e n.º 2 do artigo 6.º do presente diploma, os artigos
+    2.º, 3.º, 14.º, 15.º, 16.º, 17.º, 24.º, 25.º, 32.º, 33.º, 35.º e 44.º e o anexo i, e revoga o n.º 2 do artigo 15.º do
+    RHLC, aprovado em anexo ao Decreto-Lei n.º 138/2012, de 5 de julho, Diário da República n.º 129/2012, Série I
+  source: null
+  date: '2012-07-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/138/2012/07/05/p/dre
   label: null
@@ -89,16 +96,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/93/2017/08/01/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/93/2017/08/01/p/dre
+- type: cites
+  target: pt:dre:107791615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490691:por
+  label: null
+  source: null
 article_structure:
-  article_count: 17
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:43:15Z'
   warnings: []
   errors: []
 ---
@@ -149,11 +168,13 @@ Os artigos 2.º, 3.º, 14.º, 15.º, 16.º, 17.º, 24.º, 25.º, 32.º, 33.º, 3
 
 6 - [...]
 
-7 - No momento da apresentação do pedido de emissão da carta de condução, o titular deve declarar se pretende aderir ao Serviço Público de Notificações Eletrónicas, previsto no [Decreto-Lei n.º 93/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2017-107791615), de 1 de agosto, para efeitos do estabelecido nos n.<sup>os</sup> 1 e 4, ambos do artigo 176.º do Código da Estrada.
+7 - No momento da apresentação do pedido de emissão da carta de condução, o titular deve declarar se pretende aderir ao Serviço Público de Notificações Eletrónicas, previsto no [Decreto-Lei n.º 93/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2017-107791615), de 1 de agosto, para efeitos do estabelecido nos n.os 1 e 4, ambos do artigo 176.º do Código da Estrada.
 
-8 - O IMT, I. P., faculta à Autoridade Nacional de Segurança Rodoviária (ANSR), através da comunicação eletrónica de dados, preferencialmente pela Plataforma de Interoperabilidade da Administração Pública, a morada única digital associada à carta de condução emitida, para os efeitos previstos n.<sup>os</sup> 1 e 4 do artigo 176.º do Código da Estrada, bem como de outros dados necessários para o cumprimento da sua missão.
+8 - O IMT, I. P., faculta à Autoridade Nacional de Segurança Rodoviária (ANSR), através da comunicação eletrónica de dados, preferencialmente pela Plataforma de Interoperabilidade da Administração Pública, a morada única digital associada à carta de condução emitida, para os efeitos previstos n.os 1 e 4 do artigo 176.º do Código da Estrada, bem como de outros dados necessários para o cumprimento da sua missão.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -211,7 +232,9 @@ n) [...]
 
 7 - A categoria B1 habilita também à condução de veículos agrícolas do tipo i e tratores agrícolas de 4 rodas cuja massa sem carga em ordem de marcha, excluída a massa das baterias no caso de veículos elétricos, seja inferior ou igual a 450 kg, aplicando-se a dispensa de frequência de ação de formação nos mesmos termos dos condutores habilitados na categoria B.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -237,7 +260,9 @@ n) [...]
 
 12 - Em caso de dúvida fundamentada sobre qualquer uma das categorias constantes no título de condução estrangeiro, a troca pode ser condicionada a confirmação oficiosa da informação junto embaixada ou do serviço emissor ou a prova prática do exame de condução.
 
-###### Artigo 15.º — Deveres e dados de identificação do condutor
+Artigo 15.º
+
+Deveres e dados de identificação do condutor
 
 1 - Os dados de identificação do condutor constantes do registo nacional de condutores, aprovado pelo [Decreto-Lei n.º 262/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-2009-490691), de 28 de setembro, podem ser atualizados com referência aos dados de identificação que constem nas bases de dados de identificação civil de cidadãos portugueses ou de cidadãos estrangeiros.
 
@@ -245,7 +270,9 @@ n) [...]
 
 3 - [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -267,7 +294,9 @@ n) [...]
 
 10 - As cartas de condução com validade emitida nos termos do número anterior devem conter o código de restrição 794 e só são válidas enquanto o título de residência se mantiver válido ou se encontrar em processo de renovação.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -295,7 +324,9 @@ n) [...]
 
 13 - A portaria mencionada no número anterior pode regular, ainda, os termos necessários associados à revalidação automática das cartas de condução em conjunto com a renovação online do cartão de cidadão, realizada no portal gov.pt. e na aplicação móvel correspondente, utilizando a Plataforma de Interoperabilidade da Administração Pública e mediante autenticação segura com recurso ao cartão de cidadão ou à chave móvel digital.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...]
 
@@ -307,7 +338,9 @@ n) [...]
 
 5 - As faltas injustificadas ou a reprovação às avaliações previstas nos artigos 28.º e 30.º do presente Regulamento implicam a caducidade do título de condução.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...]
 
@@ -337,7 +370,9 @@ e) [...]
 
 9 - [...]
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - [...]
 
@@ -361,7 +396,9 @@ b) O IMT, I. P., ou os psicólogos referidos no n.º 3 do artigo 25.º, quando a
 
 9 - [...]
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - [...]
 
@@ -381,7 +418,9 @@ e) [...]
 
 f) Os trabalhadores do IMT. I. P., que realizem provas práticas do exame de condução, para efeitos de habilitação a novas categorias, desde que frequentem ação de formação especifica, nos termos a fixar por deliberação do conselho diretivo do IMT, I. P.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - [...]
 
@@ -409,7 +448,9 @@ f) Os trabalhadores do IMT. I. P., que realizem provas práticas do exame de con
 
 13 - Nas provas de exame podem ser utilizados sistemas tecnológicos para prevenção de fraude e de apoio à avaliação.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - [...]
 
@@ -437,15 +478,15 @@ Aplica-se o regime previsto no n.º 9 do artigo 16.º do RHLC, mediante a verifi
 
 Visto e aprovado em Conselho de Ministros de 16 de abril de 2026. - Luís Montenegro - Gonçalo Nuno da Cruz Saraiva Matias - Miguel Martinez de Castro Pinto Luz - Paulo Jorge Simões Ribeiro - Fernando Alexandre - Ana Paula Martins - Salvador Malheiro Ferreira da Silva.
 
-**Promulgado em 26 de maio de 2026.**
+Promulgado em 26 de maio de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 29 de maio de 2026.**
+Referendado em 29 de maio de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -457,19 +498,23 @@ Visto e aprovado em Conselho de Ministros de 16 de abril de 2026. - Luís Monten
 
 [...]
 
-#### Secção A — [...]
+Secção A
 
-#### Secção B — [...]
+[...]
+
+Secção B
+
+[...]
 
 | [...] | [...] |
 | --- | --- |
-| [...] | [...] |
+| [...] |  |
 | 01 - [...]01.01 - [...]01.02 - [...]01.03 - [...]01.04 - [...]01.05 - [...]01.06 - [...]01.07 - [...] | 105 - [...]103 - [...] |
 |  | 160 - [...] |
 | 02 - [...]02.01 - [...]02.02 - [...]03 - [...]03.01 - [...] |  |
 | 03.02 - [...]05 - [...]05.01 - [...]05.02 - [...] | 137 - [...]138 - [...]139 - [...]140 - [...] |
 | 05.03 - [...]05.04 - [...]05.05 - [...]05.06 - [...]05.07 - [...]05.08 - [...] |  |
-| [...] | [...] |
+| [...] |  |
 | 10 - [...]10.01 - [...] |  |
 | 10.02 - [...]10.03 - [...]10.04 - [...]10.05 - [...] |  |
 | 15 - [...]15.01 - [...]15.02 - [...]15.03 - [...]15.04 - [...] |  |
@@ -495,19 +540,25 @@ Visto e aprovado em Conselho de Ministros de 16 de abril de 2026. - Luís Monten
 | 44.07 - [...]44.08 - [...]44.09 - [...]44.10 - [...]44.11 - [...]44.12 - [...] |  |
 | 45 - [...]46 - [...]47 - [...] |  |
 | 50 - [...]a - [...]b - [...]c - [...]d - [...]e - [...]f - [...]g - [...]51 - [...] |  |
-| [...] | [...] |
+| [...] |  |
 | 61 - [...]62 - [...] |  |
 | 63 - [...]64 - [...]65 - [...] |  |
 | 66 - [...]67 - [...]68 - [...]69 - [...] |  |
-| [...] | [...] |
+| [...] |  |
 | 70 - [...]71 - [...] |  |
 | 73 - [...]78 - [...]79 - [...]79.01 - [...]79.02 - [...]79.03 - [...]79.04 - [...] | 790 - [...]791 - [...]792 - [...]793 - [...]794 - Validade limitada à comprovação de visto ou autorização de residência válido ou em processo de renovação.997 - [...]999 - [...] |
 | 79.05 - [...]79.06 - [...]80 - [...]81 - [...]90 - [...]90.01 - [...]90.02 - [...]90.03 - [...] |  |
 | 90.04 - [...]90.05 - [...]90.06 - [...]90.07 - [...] |  |
 | 95 - [...]96 - [...]97 - [...] |  |
 
-#### Secção C — [...]
+Secção C
 
-#### Secção D
+[...]
+
+Secção D
 
 [...]»
+
+119948690
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:21px; } .Tbl6 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:none; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl7 { min-height:119px; } .Tbl8 { border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:none; border-bottom-width:1px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl9 { border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:none; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:none; border-right-style:none; border-left-style:solid; vertical-align:top; } .Tbl10 { min-height:15px; } .Tbl11 { min-height:74px; } .Tbl12 { min-height:58px; } .Tbl13 { min-height:89px; } .Tbl14 { border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:none; border-bottom-width:1px; border-bottom-style:none; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl15 { min-height:28px; } .Tbl16 { min-height:68px; } .Tbl17 { min-height:77px; } .Tbl18 { min-height:48px; } .Tbl19 { min-height:110px; } .Tbl20 { min-height:109px; } .Tbl21 { min-height:81px; } .Tbl22 { min-height:50px; } .Tbl23 { min-height:79px; } .Tbl24 { min-height:46px; } .Tbl25 { min-height:93px; } .Tbl26 { min-height:125px; } .Tbl27 { min-height:67px; } .Tbl28 { min-height:65px; } .Tbl29 { min-height:121px; } .Tbl30 { min-height:107px; } .Tbl31 { min-height:92px; } .Tbl32 { min-height:140px; } .Tbl33 { min-height:24px; } .Tbl34 { min-height:32px; } .Tbl35 { min-height:43px; } .Tbl36 { min-height:61px; } .Tbl37 { min-height:114px; } .Tbl38 { border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:none; border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl39 { border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:none; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:none; border-right-style:none; border-left-style:solid; vertical-align:top; } .Tbl40 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:none; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl41 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:none; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:top; }

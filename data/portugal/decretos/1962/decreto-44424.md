@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44424-1962-164609
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-06-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:29:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e34c096f610761760c3421cb1d31d0ba03e6e3435a4ed0f3768019696b5cd97d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52507a9609ee40d655a55cf4e01f7cee016882501b84397924f3de0fc89da91a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:29:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,61 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:149817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:415233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501237:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:29:55Z'
   warnings: []
   errors: []
 ---
@@ -95,13 +139,13 @@ Por motivo de urgência, nos termos do § 1.º do artigo 150.º da Constituiçã
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º As aldeias-gafarias instaladas nas ilhas de Santo Antão e do Fogo, da província de Cabo Verde, passam a designar-se por «enfermarias de lepra», sendo igualmente substituída a designação funcional de «encarregado de gafaria» pela de «encarregado de enfermaria de lepra».
+Artigo 1.º As aldeias-gafarias instaladas nas ilhas de Santo Antão e do Fogo, da província de Cabo Verde, passam a designar-se por «enfermarias de lepra», sendo igualmente substituída a designação funcional de «encarregado de gafaria» pela de «encarregado de enfermaria de lepra».
 
-###### Art. 2.º É da competência exclusiva do conselho de administração da Junta Autónoma do Porto Grande de S. Vicente, da província de Cabo Verde, sem dependência do visto do Tribunal Administrativo, por simples deliberação e sempre que as necessidades do serviço o exijam, a transferência, dentro do seu orçamento privativo, de verbas necessárias para reforço de outras verbas.
+Art. 2.º É da competência exclusiva do conselho de administração da Junta Autónoma do Porto Grande de S. Vicente, da província de Cabo Verde, sem dependência do visto do Tribunal Administrativo, por simples deliberação e sempre que as necessidades do serviço o exijam, a transferência, dentro do seu orçamento privativo, de verbas necessárias para reforço de outras verbas.
 
-###### Art. 3.º São autorizados os órgãos legislativos da província da Guiné, nos termos do n.º II da base X da Lei Orgânica do Ultramar Português, a proceder à revisão das remunerações fixadas ao abrigo do artigo 17.º do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
+Art. 3.º São autorizados os órgãos legislativos da província da Guiné, nos termos do n.º II da base X da Lei Orgânica do Ultramar Português, a proceder à revisão das remunerações fixadas ao abrigo do artigo 17.º do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
 
-###### Art. 4.º No quadro privativo dos serviços de Fazenda e contabilidade da província de S. Tomé e Príncipe são criados os seguintes lugares:
+Art. 4.º No quadro privativo dos serviços de Fazenda e contabilidade da província de S. Tomé e Príncipe são criados os seguintes lugares:
 
 5 de terceiro-oficial;
 
@@ -109,13 +153,13 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § único. Os lugares de auxiliar de contabilidade e de escrevente do pessoal contratado dos mesmos serviços consideram-se extintos nos precisos termos do § único do artigo 24.º do [Decreto n.º 44058](https://diariodarepublica.pt/dr/detalhe/decreto/44058-1961-185326), de 23 de Novembro de 1961.
 
-###### Art. 5.º É alterada a redacção do § único do artigo 39.º do Estatuto do Corpo de Polícia de Segurança Pública da província de Angola, aprovado pelo Diploma Legislativo Ministerial n.º 91, de 28 de Outubro de 1961, que passa a ser:
+Art. 5.º É alterada a redacção do § único do artigo 39.º do Estatuto do Corpo de Polícia de Segurança Pública da província de Angola, aprovado pelo Diploma Legislativo Ministerial n.º 91, de 28 de Outubro de 1961, que passa a ser:
 
-###### Art. 39.º ...
+Art. 39.º ...
 
 § único. Os cargos de comandante de secção só poderão ser preenchidos por oficiais de qualquer arma ou serviço, do activo.
 
-###### Art. 6.º No Centro de Informação e Turismo da província de Angola são criados os seguintes lugares, que se consideram incluídos nos grupos a seguir indicados do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956:
+Art. 6.º No Centro de Informação e Turismo da província de Angola são criados os seguintes lugares, que se consideram incluídos nos grupos a seguir indicados do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956:
 
 3 de chefe de repartição ... F
 
@@ -145,23 +189,23 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § único. A dotação no orçamento geral da província dos lugares criados por este artigo será feita à medida que as suas possibilidades financeiras o permitam.
 
-###### Art. 7.º É revogado o artigo 13.º do Diploma Legislativo Ministerial n.º 92, promulgado na província de Angola em 28 de Outubro de 1961.
+Art. 7.º É revogado o artigo 13.º do Diploma Legislativo Ministerial n.º 92, promulgado na província de Angola em 28 de Outubro de 1961.
 
-###### Art. 8.º São ratificadas as Portarias n.os 12002-A a 12002-Q, inclusive, publicadas na província de Angola em 30 de Dezembro de 1961.
+Art. 8.º São ratificadas as Portarias n.os 12002-A a 12002-Q, inclusive, publicadas na província de Angola em 30 de Dezembro de 1961.
 
-###### Art. 9.º Aos secretários das comissões distritais do fundo para a construção de casas destinadas à população natural da província de Moçambique, criado pelo Diploma Legislativo n.º 1794, de 13 de Setembro de 1958, são atribuídas as seguintes gratificações especiais mensais:
+Art. 9.º Aos secretários das comissões distritais do fundo para a construção de casas destinadas à população natural da província de Moçambique, criado pelo Diploma Legislativo n.º 1794, de 13 de Setembro de 1958, são atribuídas as seguintes gratificações especiais mensais:
 
 1) Aos secretários das comissões dos distritos de Lourenço Marques e de Manica e Sofala ... 1000$00
 
 2) Aos secretários das comissões dos restantes distritos ... 500$00
 
-###### Art. 10.º Fica o Governo-Geral da província de Moçambique autorizado a abrir um crédito especial da quantia de 400000$00 em adicional à tabela de despesa ordinária do orçamento geral em vigor, destinado a legalizar o abono de vencimentos, relativos ao ano de 1961, aos substitutos dos juízes, delegados e oficiais de justiça, nomeados interinamente ou exercendo funções por substituição, tomando como contrapartida disponibilidades da mencionada tabela de despesa.
+Art. 10.º Fica o Governo-Geral da província de Moçambique autorizado a abrir um crédito especial da quantia de 400000$00 em adicional à tabela de despesa ordinária do orçamento geral em vigor, destinado a legalizar o abono de vencimentos, relativos ao ano de 1961, aos substitutos dos juízes, delegados e oficiais de justiça, nomeados interinamente ou exercendo funções por substituição, tomando como contrapartida disponibilidades da mencionada tabela de despesa.
 
-###### Art. 11.º O artigo 2.º do [Decreto n.º 43108](https://diariodarepublica.pt/dr/detalhe/decreto/43108-1960-501237), de 5 de Agosto de 1960, passa a ter a seguinte redacção:
+Art. 11.º O artigo 2.º do [Decreto n.º 43108](https://diariodarepublica.pt/dr/detalhe/decreto/43108-1960-501237), de 5 de Agosto de 1960, passa a ter a seguinte redacção:
 
-###### Art. 2.º Este empréstimo vencerá o juro de 2,5 por cento ao ano e será levantado da seguinte maneira: 44000000$00 em 1960; 22000000$00 em 1961; 24000000$00 em 1962, e 22000000$00 em 1963.
+Art. 2.º Este empréstimo vencerá o juro de 2,5 por cento ao ano e será levantado da seguinte maneira: 44000000$00 em 1960; 22000000$00 em 1961; 24000000$00 em 1962, e 22000000$00 em 1963.
 
-###### Art. 12.º Ao pessoal dirigente da Mocidade Portuguesa Feminina da província de Timor são atribuídas as seguintes gratificações mensais:
+Art. 12.º Ao pessoal dirigente da Mocidade Portuguesa Feminina da província de Timor são atribuídas as seguintes gratificações mensais:
 
 À comissária provincial ... 1875$00
 
@@ -169,51 +213,51 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 Às subdelegadas ... 312$00
 
-###### Art. 13.º O corpo do artigo 8.º do [Decreto n.º 44111](https://diariodarepublica.pt/dr/detalhe/decreto/44111-1961-184483), de 21 de Dezembro de 1961, passa a ter a seguinte redacção:
+Art. 13.º O corpo do artigo 8.º do [Decreto n.º 44111](https://diariodarepublica.pt/dr/detalhe/decreto/44111-1961-184483), de 21 de Dezembro de 1961, passa a ter a seguinte redacção:
 
-###### Art. 8.º O quadro do pessoal dos institutos será fixado em diploma legislativo, sendo o provimento dos lugares feito por nomeação ou em comissão ordinária de serviço.
+Art. 8.º O quadro do pessoal dos institutos será fixado em diploma legislativo, sendo o provimento dos lugares feito por nomeação ou em comissão ordinária de serviço.
 
-###### Art. 14.º Enquanto não forem reorganizados os serviços de agricultura e florestas do ultramar, os agrónomos, silvicultores e regentes agrícolas dos quadros especiais técnicos, recrutados nos termos dos artigos 60.º e 62.º do [Decreto n.º 41482](https://diariodarepublica.pt/dr/detalhe/decreto/41482-1957-251243), de 28 de Dezembro de 1957, poderão, excepcionalmente, ingressar directamente na 2.ª classe quando, verificada a existência de vaga nessa classe, o seu curriculum vitae profissional for considerado muito bom.
+Art. 14.º Enquanto não forem reorganizados os serviços de agricultura e florestas do ultramar, os agrónomos, silvicultores e regentes agrícolas dos quadros especiais técnicos, recrutados nos termos dos artigos 60.º e 62.º do [Decreto n.º 41482](https://diariodarepublica.pt/dr/detalhe/decreto/41482-1957-251243), de 28 de Dezembro de 1957, poderão, excepcionalmente, ingressar directamente na 2.ª classe quando, verificada a existência de vaga nessa classe, o seu curriculum vitae profissional for considerado muito bom.
 
-###### Art. 15.º Independentemente do recrutamento por concurso, previsto no [Decreto n.º 41482](https://diariodarepublica.pt/dr/detalhe/decreto/41482-1957-251243), de 28 de Dezembro de 1957, poderá excepcionalmente ser contratado para os serviços de agricultura e florestas do ultramar, mediante despacho fundamentado, pessoal técnico qualificado, de formação universitária ou média, quando imperiosas necessidades de serviço o justifiquem.
+Art. 15.º Independentemente do recrutamento por concurso, previsto no [Decreto n.º 41482](https://diariodarepublica.pt/dr/detalhe/decreto/41482-1957-251243), de 28 de Dezembro de 1957, poderá excepcionalmente ser contratado para os serviços de agricultura e florestas do ultramar, mediante despacho fundamentado, pessoal técnico qualificado, de formação universitária ou média, quando imperiosas necessidades de serviço o justifiquem.
 
-###### Art. 16.º Ficam os governos-gerais e de província autorizados a abrir, observadas as disposições legais aplicáveis, os créditos especiais necessários à satisfação dos encargos criados por este decreto, servindo de contrapartida disponibilidades ou recursos orçamentais.
+Art. 16.º Ficam os governos-gerais e de província autorizados a abrir, observadas as disposições legais aplicáveis, os créditos especiais necessários à satisfação dos encargos criados por este decreto, servindo de contrapartida disponibilidades ou recursos orçamentais.
 
-###### Art. 17.º Fica o Ministro do Ultramar autorizado a delegar, por meio de despacho, nos governadores das províncias ultramarinas, a competência que lhe é conferida pelo artigo 74.º do [Decreto n.º 41968](https://diariodarepublica.pt/dr/detalhe/decreto/41968-1958-339383), de 22 de Novembro de 1958.
+Art. 17.º Fica o Ministro do Ultramar autorizado a delegar, por meio de despacho, nos governadores das províncias ultramarinas, a competência que lhe é conferida pelo artigo 74.º do [Decreto n.º 41968](https://diariodarepublica.pt/dr/detalhe/decreto/41968-1958-339383), de 22 de Novembro de 1958.
 
-###### Art. 18.º O actual residente, interino, de S. João Baptista de Ajudá poderá transitar para o quadro administrativo comum do ultramar na categoria de intendente, por portaria do Ministro do Ultramar, anotada pelo Tribunal de Contas.
+Art. 18.º O actual residente, interino, de S. João Baptista de Ajudá poderá transitar para o quadro administrativo comum do ultramar na categoria de intendente, por portaria do Ministro do Ultramar, anotada pelo Tribunal de Contas.
 
-###### Art. 19.º O artigo 24.º do [Decreto n.º 41787](https://diariodarepublica.pt/dr/detalhe/decreto/41787-1958-351913), de 7 de Agosto de 1958, passa a ter a seguinte redacção:
+Art. 19.º O artigo 24.º do [Decreto n.º 41787](https://diariodarepublica.pt/dr/detalhe/decreto/41787-1958-351913), de 7 de Agosto de 1958, passa a ter a seguinte redacção:
 
-###### Art. 24.º O provimento dos lugares do quadro técnico da Direcção-Geral de Obras Públicas e Comunicações é feito nos termos do n.º 3.º do artigo 148.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, com a redacção dada pelo artigo 16.º do [Decreto-Lei n.º 44077](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44077-1961-185076), de 7 de Dezembro de 1961, sem dependência dos requisitos exigidos pelo n.º 4.º do mesmo artigo.
+Art. 24.º O provimento dos lugares do quadro técnico da Direcção-Geral de Obras Públicas e Comunicações é feito nos termos do n.º 3.º do artigo 148.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, com a redacção dada pelo artigo 16.º do [Decreto-Lei n.º 44077](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44077-1961-185076), de 7 de Dezembro de 1961, sem dependência dos requisitos exigidos pelo n.º 4.º do mesmo artigo.
 
-###### Art. 20.º É substituída pela seguinte a redacção dos §§ 3.º e 4.º do artigo 5.º do [Decreto n.º 42082](https://diariodarepublica.pt/dr/detalhe/decreto/42082-1958-342586), de 31 de Dezembro de 1958:
+Art. 20.º É substituída pela seguinte a redacção dos §§ 3.º e 4.º do artigo 5.º do [Decreto n.º 42082](https://diariodarepublica.pt/dr/detalhe/decreto/42082-1958-342586), de 31 de Dezembro de 1958:
 
 § 3.º Os inspectores-chefes contabilistas das inspecções provinciais de Fazenda e contabilidade com curso superior e pelo menos dois anos de bom e efectivo serviço prestado depois de terem sido nomeados definitivamente poderão ingressar no quadro comum de Fazenda do ultramar como directores de 2.ª classe, se para tanto o Ministro do Ultramar, mediante parecer da Direcção-Geral de Fazenda do Ministério, lhes reconhecer os indispensáveis conhecimentos para o exercício do cargo. A nomeação será feita por escolha do Ministro.
 
 § 4.º Os inspectores contabilistas das inspecções provinciais com pelo menos dois anos de bom e efectivo serviço prestado depois de terem sido nomeados definitivamente e que forem considerados com aptidão para o exercício de funções directivas no quadro comum de Fazenda do ultramar poderão ser providos no lugar de director de 3.ª classe do mesmo quadro, em concorrência com os primeiros-oficiais e secretários de Fazenda de 1.ª classe dos quadros privativos das províncias ultramarinas e do quadro próprio da Direcção-Geral de Fazenda do Ministério do Ultramar e nas mesmas condições deles.
 
-###### Art. 21.º Nos quadros privativos de Fazenda das províncias ultramarinas de Angola e Moçambique, referidos no artigo 1.º do [Decreto n.º 36253](https://diariodarepublica.pt/dr/detalhe/decreto/36253-1947-415233), de 26 de Abril de 1947, é criada a classe de terceiro-oficial estagiário.
+Art. 21.º Nos quadros privativos de Fazenda das províncias ultramarinas de Angola e Moçambique, referidos no artigo 1.º do [Decreto n.º 36253](https://diariodarepublica.pt/dr/detalhe/decreto/36253-1947-415233), de 26 de Abril de 1947, é criada a classe de terceiro-oficial estagiário.
 
 § único. A nomeação de terceiro-oficial estagiário será feita por escolha do Ministro do Ultramar de entre pessoas que, reunindo as condições gerais de provimento estabelecidas pelo Estatuto do Funcionalismo Ultramarino, se mostrem habilitadas com qualquer dos seguintes cursos superiores: Direito, Ciências Económicas e Financeiras, Economia, Finanças ou Administração do Instituto Superior de Estudos Ultramarinos.
 
-###### Art. 22.º Os terceiros-oficiais estagiários de que trata o artigo anterior que contem mais de três anos de exercício no cargo com boas informações de serviço podem concorrer aos concursos de provas práticas para primeiros-oficiais e para secretários de Fazenda de 1.ª classe dos quadros privativos das respectivas províncias.
+Art. 22.º Os terceiros-oficiais estagiários de que trata o artigo anterior que contem mais de três anos de exercício no cargo com boas informações de serviço podem concorrer aos concursos de provas práticas para primeiros-oficiais e para secretários de Fazenda de 1.ª classe dos quadros privativos das respectivas províncias.
 
 § único. O disposto no presente artigo não prejudica o direito de os terceiros-oficiais estagiários concorrerem, querendo, nas condições normalmente exigidas aos terceiros-oficiais e aos secretários de Fazenda de 3.ª classe, aos lugares de segundo-oficial e de secretário de Fazenda de 2.ª classe.
 
-###### Art. 23.º É fixado em dez o número de terceiros-oficiais estagiários em cada uma das províncias de Angola e Moçambique.
+Art. 23.º É fixado em dez o número de terceiros-oficiais estagiários em cada uma das províncias de Angola e Moçambique.
 
-###### Art. 24.º As disposições dos artigos 21.º e 22.º entrarão em vigor em 1 de Janeiro de 1963.
+Art. 24.º As disposições dos artigos 21.º e 22.º entrarão em vigor em 1 de Janeiro de 1963.
 
-###### Art. 25.º São revogados os §§ 1.º e 2.º do artigo 24.º do [Decreto n.º 41787](https://diariodarepublica.pt/dr/detalhe/decreto/41787-1958-351913).
+Art. 25.º São revogados os §§ 1.º e 2.º do artigo 24.º do [Decreto n.º 41787](https://diariodarepublica.pt/dr/detalhe/decreto/41787-1958-351913).
 
-###### Art. 26.º É autorizado o Governo-Geral de Angola a dar o aval da província no empréstimo de 15621500$00 a contrair pela firma Predial Económica, Lda. - Precol, com sede em Luanda, no Banco de Fomento Nacional, com as cláusulas e condições que forem ajustadas entre si, e destinado à construção de casas de renda económica no Bairro Rangel, daquela cidade.
+Art. 26.º É autorizado o Governo-Geral de Angola a dar o aval da província no empréstimo de 15621500$00 a contrair pela firma Predial Económica, Lda. - Precol, com sede em Luanda, no Banco de Fomento Nacional, com as cláusulas e condições que forem ajustadas entre si, e destinado à construção de casas de renda económica no Bairro Rangel, daquela cidade.
 
 § único. A província de Angola goza do privilégio creditório, nos termos do artigo 878.º do Código Civil, pelas quantias que haja de despender para cumprimento da responsabilidade assumida nos termos do corpo deste artigo.
 
-###### Art. 27.º São autorizados os órgãos legislativos das províncias ultramarinas a alterar os quantitativos actualmente fixados para o abono de família, consoante as possibilidades financeiras dos respectivos orçamentos gerais.
+Art. 27.º São autorizados os órgãos legislativos das províncias ultramarinas a alterar os quantitativos actualmente fixados para o abono de família, consoante as possibilidades financeiras dos respectivos orçamentos gerais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Junho de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

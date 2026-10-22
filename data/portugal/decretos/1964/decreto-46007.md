@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46007-1964-536072
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-11-03T00:00:00Z'
+  retrieved_at: '2026-10-22T19:42:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0548b1c04e523db7919ccbbd9b55050833be1414437cb663250f08c750b0cb5c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0d865f3d3171e639a3a98319f878f09bfbb1277f89b7b70107a5ef8872f1131
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:42:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:183599:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:42:45Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +96,11 @@ Nestes termos, ouvidos os governos das províncias ultramarinas e o Conselho Ult
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os governos das províncias ultramarinas poderão conceder licença especial aos funcionários de quaisquer dos seus serviços públicos, para frequência do curso de Administração Ultramarina, do Instituto Superior de Ciências Sociais e Política Ultramarina.
+Artigo 1.º Os governos das províncias ultramarinas poderão conceder licença especial aos funcionários de quaisquer dos seus serviços públicos, para frequência do curso de Administração Ultramarina, do Instituto Superior de Ciências Sociais e Política Ultramarina.
 
 § único. O número máximo de funcionários que em cada ano pode beneficiar da licença especial prevista no corpo deste artigo é de dez em Angola e em Moçambique e de dois em cada uma das restantes províncias.
 
-###### Art. 2.º À frequência do curso de Administração Ultramarina poderão candidatar-se os funcionários de todos os quadros públicos das províncias ultramarinas que reunirem os seguintes requisitos:
+Art. 2.º À frequência do curso de Administração Ultramarina poderão candidatar-se os funcionários de todos os quadros públicos das províncias ultramarinas que reunirem os seguintes requisitos:
 
 1.º Ter menos de 35 anos de idade;
 
@@ -110,17 +114,17 @@ b) Curso complementar dos liceus, ou curso dos institutos de ensino técnico mé
 
 § único. Aos funcionários que reúnam as condições previstas nos n.os 1.º e 2.º do corpo deste artigo e pretendam habilitar-se com o exame de aptidão a que se refere o n.º 3.º será permitida a deslocação, dentro da respectiva província, para se submeterem ao mesmo exame.
 
-###### Art. 3.º Os requerimentos em que os funcionários solicitem a concessão da licença especial serão reunidos e informados nos serviços provinciais de administração civil e por estes submetidos a despacho do governo da respectiva província.
+Art. 3.º Os requerimentos em que os funcionários solicitem a concessão da licença especial serão reunidos e informados nos serviços provinciais de administração civil e por estes submetidos a despacho do governo da respectiva província.
 
-###### Art. 4.º Aos funcionários autorizados a frequentar o curso de Administração Ultramarina é aplicável o disposto no § 3.º, alíneas a), b) e c), e no § 4.º do artigo 60.º e no artigo 61.º do [Decreto n.º 43957](https://diariodarepublica.pt/dr/detalhe/decreto/43957-1961-183599), de 9 de Outubro de 1961.
+Art. 4.º Aos funcionários autorizados a frequentar o curso de Administração Ultramarina é aplicável o disposto no § 3.º, alíneas a), b) e c), e no § 4.º do artigo 60.º e no artigo 61.º do [Decreto n.º 43957](https://diariodarepublica.pt/dr/detalhe/decreto/43957-1961-183599), de 9 de Outubro de 1961.
 
-###### Art. 5.º Os funcionários que completem o mesmo curso são obrigados a regressar à província onde desempenhavam funções e a prestar nos respectivos quadros cinco anos, pelo menos, de serviço efectivo.
+Art. 5.º Os funcionários que completem o mesmo curso são obrigados a regressar à província onde desempenhavam funções e a prestar nos respectivos quadros cinco anos, pelo menos, de serviço efectivo.
 
 § único. Os funcionários que não cumprirem a obrigação imposta neste artigo terão de indemnizar o Estado de todas as despesas de viagens, vencimentos e outros abonos que tenham recebido durante o tempo de frequência do curso e não poderão tornar a ser providos em quaisquer cargos públicos no ultramar, incluindo cargos dos organismos de coordenação económica e dos corpos administrativos.
 
-###### Art. 6.º Os casos omissos serão resolvidos por despacho ministerial.
+Art. 6.º Os casos omissos serão resolvidos por despacho ministerial.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 3 de Novembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

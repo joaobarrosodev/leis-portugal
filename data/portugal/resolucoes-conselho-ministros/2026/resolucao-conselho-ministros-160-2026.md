@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/160/2026/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/160-2026-1154555257
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-06T00:00:00Z'
+  retrieved_at: '2026-10-22T18:49:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62fa1febe73628b13efafa05056c083d9839cafba0da8009fd33f207aa77be18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4264b33fbbd7911652af6b724589cfaa0ececeb9e9cf1ae1eb53895000039e79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:49:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
 subjects:
 - Alienação de Acções
 - Alienação de Participações do Estado
+- Brasil
 - Caderno de Encargos
 - Caixa Geral de Depósitos
 - Capital Social
 - Conselho de Ministros
-- Brasil
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/153/2017/12/28/p/dre
@@ -90,16 +90,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/63/2026/03/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/63/2026/03/25/p/dre
+- type: cites
+  target: pt:dre:1076925540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114406168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123675745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:934744197:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:49:28Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +144,7 @@ Nos termos do n.º 3 do artigo 4.º e do artigo 5.º do [Decreto-Lei n.º 153/20
 
 2 - Aprovar a minuta do contrato de compra e venda de ações (Contrato de Compra e Venda de Ações), que concretiza a venda direta da totalidade das ações representativas do capital social da sociedade Banco Caixa Geral - Brasil, a celebrar entre a Caixa Geral de Depósitos, S. A. (CGD), e a Caixa - Participações, SGPS, S. A. (Caixa Participações), enquanto vendedoras, e a MD Capital Ltda, enquanto compradora, ficando a referida minuta arquivada na Entidade do Tesouro e Finanças.
 
-3 - Determinar que a CGD proceda ao envio da minuta do Contrato de Compra e Venda de Ações ao proponente selecionado, para confirmação da respetiva aceitação, notificando-o, ainda, do prazo para a respetiva celebração e da obrigação de, até essa data, comprovar o pagamento da prestação pecuniária inicial no montante de R$ 10 000 000,00, fixada no n.º 6 e a efetuar nos termos do n.º 7 da [Resolução do Conselho de Ministros n.º 63/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/63-2026-1076925540), de 25 de março, bem como a constituição de garantia bancária autónoma e à primeira solicitação ou a apresentação de outro instrumento considerado adequado pela CGD, em valor correspondente à diferença entre o montante global do preço oferecido e o montante da prestação pecuniária inicial, nos termos estabelecidos nos n.<sup>os</sup>8 a 13 da referida resolução.
+3 - Determinar que a CGD proceda ao envio da minuta do Contrato de Compra e Venda de Ações ao proponente selecionado, para confirmação da respetiva aceitação, notificando-o, ainda, do prazo para a respetiva celebração e da obrigação de, até essa data, comprovar o pagamento da prestação pecuniária inicial no montante de R$ 10 000 000,00, fixada no n.º 6 e a efetuar nos termos do n.º 7 da [Resolução do Conselho de Ministros n.º 63/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/63-2026-1076925540), de 25 de março, bem como a constituição de garantia bancária autónoma e à primeira solicitação ou a apresentação de outro instrumento considerado adequado pela CGD, em valor correspondente à diferença entre o montante global do preço oferecido e o montante da prestação pecuniária inicial, nos termos estabelecidos nos n.os8 a 13 da referida resolução.
 
 4 - Autorizar a CGD e a Caixa Participações a celebrar, com o proponente selecionado nos termos do n.º 1, o Contrato de Compra e Venda de Ações, ficando o documento original arquivado na CGD.
 
@@ -139,3 +155,5 @@ Nos termos do n.º 3 do artigo 4.º e do artigo 5.º do [Decreto-Lei n.º 153/20
 7 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 30 de julho de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119949269

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45647-1964-471921
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-04-09T00:00:00Z'
+  retrieved_at: '2026-10-22T19:40:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afb5eb7a5bff9a3c3b1b0afff32a98e4517b69017b462c130bcd9879e99e6b27
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 142cc362fe6dd5efa533226bb8333335f7597ae64b90f7cf44bec7b584273d16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:40:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:40:09Z'
   warnings: []
   errors: []
 ---
@@ -90,10 +90,10 @@ Ouvidos, nos termos do artigo 12.º do Código Administrativo, o governador civi
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A delimitação entre as freguesias de Valezim e Sazes da Beira, do concelho de Seia, é definida por uma linha que, partindo do ponto onde também convergem as estremas das freguesias de Sandomil e Vila Cova à Coelheira, no local designado por Cabeço das Palmelas, no qual existe um marco antigo, segue, em linha recta, para sudeste até ao local onde se situa uma casa em ruínas junto ao caminho de Sazes da Beira; daqui prossegue em linha recta, sensìvelmente para leste, até alcançar, no quilómetro 58,500, a estrada nacional n.º 231, cujo eixo seguidamente acompanha até ao ponto de encontro com o ramal que conduz a Corgas, denominado Portela do Arão, no qual termina.
+Artigo 1.º A delimitação entre as freguesias de Valezim e Sazes da Beira, do concelho de Seia, é definida por uma linha que, partindo do ponto onde também convergem as estremas das freguesias de Sandomil e Vila Cova à Coelheira, no local designado por Cabeço das Palmelas, no qual existe um marco antigo, segue, em linha recta, para sudeste até ao local onde se situa uma casa em ruínas junto ao caminho de Sazes da Beira; daqui prossegue em linha recta, sensìvelmente para leste, até alcançar, no quilómetro 58,500, a estrada nacional n.º 231, cujo eixo seguidamente acompanha até ao ponto de encontro com o ramal que conduz a Corgas, denominado Portela do Arão, no qual termina.
 
-###### Art. 2.º A Câmara Municipal de Seia procederá, no prazo de 90 dias, à colocação de marcos onde se tornem necessários, designadamente nos locais referidos no artigo anterior, de modo a ficarem bem patentes os limites no mesmo fixados.
+Art. 2.º A Câmara Municipal de Seia procederá, no prazo de 90 dias, à colocação de marcos onde se tornem necessários, designadamente nos locais referidos no artigo anterior, de modo a ficarem bem patentes os limites no mesmo fixados.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Abril de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior.

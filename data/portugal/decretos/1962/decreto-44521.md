@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1962/08/18900/11221123.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44521-1962-163215
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-09-19T00:00:00Z'
+  retrieved_at: '2026-10-22T19:30:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 390de2879c79ee175a1cceec170cc7186dac08695f03db49cf8b71854bf47259
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3196744582cd8abd2cfd6257b06a4aeb452b93ac15bde89d8a86a0ebe5b42e7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:30:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Direcção do Serviço de Administração Naval
+- Ministério da Marinha
 relationships:
 - type: amended_by
   target: pt:dre:369835:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:369827:por
+  label: "Revogado pelo DEC LEI.384/79.19.09.1979.CR, DR.IS [217] de 19.09.1979, sem prejuízo do disposto no n.º 2 do seu\
+    \ artigo 14.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/384-1979-369827
+  date: '1979-09-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:30:41Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +105,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É criado no Ministério da Marinha, na directa dependência da Direcção do Serviço de Administração Naval, o Serviço Mecanográfico da Armada, que compreenderá:
+Artigo 1.º É criado no Ministério da Marinha, na directa dependência da Direcção do Serviço de Administração Naval, o Serviço Mecanográfico da Armada, que compreenderá:
 
 a) O chefe;
 
@@ -105,7 +115,7 @@ c) A Central Mecanográfica;
 
 d) A Secção de Expediente e Arquivo.
 
-###### Art. 2.º Ao Serviço Mecanográfico da Armada compete:
+Art. 2.º Ao Serviço Mecanográfico da Armada compete:
 
 a) Cooperar com os diferentes órgãos do Ministério da Marinha na elaboração dos cálculos, previsões e estatísticas que lhe forem determinados;
 
@@ -129,7 +139,7 @@ j) Proceder à catalogação dos materiais, facilitando a colaboração com outr
 
 § único. A competência estabelecida neste artigo será gradualmente cometida à medida que os serviços mecanográficos da Armada adquiram experiência na elaboração de todos os seus elementos orgânicos, iniciando-se o seu trabalho pelas funções designadas na alínea d) e, por enquanto, sòmente em relação ao pessoal militar e civil em serviço no Ministério, carecendo de prévio despacho ministerial de autorização, proferido sobre proposta fundamentada da Direcção do Serviço de Administração Naval, o desempenho das restantes funções cometidas.
 
-###### Art. 3.º Ao chefe do Serviço Mecanográfico da Armada, oficial superior de administração naval, compete:
+Art. 3.º Ao chefe do Serviço Mecanográfico da Armada, oficial superior de administração naval, compete:
 
 a) Superintender e orientar todas as actividades do serviço segundo as indicações dadas pela Direcção do Serviço de Administração Naval;
 
@@ -137,6 +147,6 @@ b) Apresentar anualmente os planos de trabalho e de aquisição dos meios necess
 
 c) Apresentar anualmente relatórios permenorizados sobre as actividades do serviço, com as sugestões tendentes a anular as deficiências verificadas e a melhorar a sua eficiência.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 18 de Agosto de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Fernando Quintanilha Mendonça Dias.

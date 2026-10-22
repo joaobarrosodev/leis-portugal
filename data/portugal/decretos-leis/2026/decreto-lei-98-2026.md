@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/05/09800/0000300006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/98/2026/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2026-1124570658
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-21T00:00:00Z'
+  retrieved_at: '2026-10-22T18:41:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b56397e93e000100386cca45b1f195c029cac219c9f1a80fea0e9c9b6ce0fdcf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1355f5a488da04ccaf6d44ecfc3be518b64e16012382544ea12533544072b052
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:41:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acção Financeira
-- Fiscalização
 - Banco de Portugal
+- Contraordenação
+- Fiscalização
 - Linha de Crédito
 - Moratória
-- Pessoa Coletiva
 - Pessoa Colectiva de Direito Privado sem FINS Lucrativos
+- Pessoa Coletiva
 - Pessoa Coletiva de Utilidade Pública
 - Pessoa Singular
 - Prazo
 - Situação de Calamidade
-- Contraordenação
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:31-B/2026
+  label: Altera, a partir de 22 de maio de 2026, com efeitos a 29 de abril de 2026, os artigos 1.º, 2.º, 4.º, 5.º, 11.º e
+    revoga o artigo 12.º do Decreto-Lei n.º 31-B/2026, de 5 de fevereiro, Diário da República n.º 25/2026, Suplemento, Série
+    I
+  source: null
+  date: '2026-02-05'
 - type: cites
   target: celex:32018R1845
   label: null
@@ -112,16 +119,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/15-c/2026/02/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/15-c/2026/02/01/p/dre
+- type: cites
+  target: pt:dre:1031784677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1031784680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1039107604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1039107607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1060523854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107561581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122393198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:41:30Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +199,7 @@ Os artigos 1.º, 2.º, 4.º, 5.º e 11.º do [Decreto-Lei n.º 31-B/2026](https:
 
 [...]
 
-1 - O presente decreto-lei estabelece medidas excecionais e temporárias, de apoio e proteção às famílias, empresas, instituições particulares de solidariedade social, associações sem fins lucrativos e demais entidades da economia social, por força dos impactos económicos e financeiros da contração da atividade económica decorrente da tempestade ‘Kristin’ e dos fenómenos hidrológicos que lhe seguiram, de acordo com o âmbito definido nas Resoluções do Conselho de Ministros n.<sup>os</sup>[15-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-b-2026-1031784677), de 30 de janeiro, e [15-C/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-c-2026-1031784680), de 1 de fevereiro, bem como no ato normativo subsequente de execução e concretização do respetivo alargamento territorial, designadamente no [Despacho n.º 2389-A/2026](https://diariodarepublica.pt/dr/detalhe/despacho/2389-a-2026-1060523854), de 24 de fevereiro.
+1 - O presente decreto-lei estabelece medidas excecionais e temporárias, de apoio e proteção às famílias, empresas, instituições particulares de solidariedade social, associações sem fins lucrativos e demais entidades da economia social, por força dos impactos económicos e financeiros da contração da atividade económica decorrente da tempestade ‘Kristin’ e dos fenómenos hidrológicos que lhe seguiram, de acordo com o âmbito definido nas Resoluções do Conselho de Ministros n.os[15-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-b-2026-1031784677), de 30 de janeiro, e [15-C/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-c-2026-1031784680), de 1 de fevereiro, bem como no ato normativo subsequente de execução e concretização do respetivo alargamento territorial, designadamente no [Despacho n.º 2389-A/2026](https://diariodarepublica.pt/dr/detalhe/despacho/2389-a-2026-1060523854), de 24 de fevereiro.
 
 2 - [...]
 
@@ -166,9 +209,11 @@ Os artigos 1.º, 2.º, 4.º, 5.º e 11.º do [Decreto-Lei n.º 31-B/2026](https:
 
 5 - [...]
 
-###### Artigo 2.º — [...]
+Artigo 2.º
 
-1 - Beneficiam das medidas previstas no presente decreto-lei as entidades que tenham sede ou exerçam a sua atividade nos municípios referidos nos n.<sup>os</sup>2 e 3 da [Resolução do Conselho de Ministros n.º 15-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-b-2026-1031784677), de 30 de janeiro, e na [Resolução do Conselho de Ministros n.º 15-C/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-c-2026-1031784680), de 1 de fevereiro, bem como no [Despacho n.º 2389-A/2026](https://diariodarepublica.pt/dr/detalhe/despacho/2389-a-2026-1060523854), de 24 de fevereiro, desde que, cumulativamente:
+[...]
+
+1 - Beneficiam das medidas previstas no presente decreto-lei as entidades que tenham sede ou exerçam a sua atividade nos municípios referidos nos n.os2 e 3 da [Resolução do Conselho de Ministros n.º 15-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-b-2026-1031784677), de 30 de janeiro, e na [Resolução do Conselho de Ministros n.º 15-C/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-c-2026-1031784680), de 1 de fevereiro, bem como no [Despacho n.º 2389-A/2026](https://diariodarepublica.pt/dr/detalhe/despacho/2389-a-2026-1060523854), de 24 de fevereiro, desde que, cumulativamente:
 
 a) [...]
 
@@ -190,7 +235,7 @@ e) Tenham registado, no primeiro trimestre de 2026, uma quebra comprovada de ati
 
 2 - Beneficiam, ainda, das medidas previstas no presente decreto-lei, relativamente ao crédito para habitação própria e permanente abrangido pelo âmbito de aplicação do [Decreto-Lei n.º 74-A/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-2017-107561581), de 23 de junho, as pessoas singulares que a 29 de abril de 2026 preencham as condições referidas nas alíneas b), c) e d) do número anterior, quando:
 
-a) O imóvel esteja localizado em municípios abrangidos nas Resoluções do Conselho de Ministros n.<sup>os</sup>[15-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-b-2026-1031784677), de 30 de janeiro, e [15-C/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-c-2026-1031784680), de 1 de fevereiro, bem como no [Despacho n.º 2389-A/2026](https://diariodarepublica.pt/dr/detalhe/despacho/2389-a-2026-1060523854), de 24 de fevereiro;
+a) O imóvel esteja localizado em municípios abrangidos nas Resoluções do Conselho de Ministros n.os[15-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-b-2026-1031784677), de 30 de janeiro, e [15-C/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-c-2026-1031784680), de 1 de fevereiro, bem como no [Despacho n.º 2389-A/2026](https://diariodarepublica.pt/dr/detalhe/despacho/2389-a-2026-1060523854), de 24 de fevereiro;
 
 b) Tenham sido abrangidas pelo regime de lay-off em empresas sediadas ou com atividade nos municípios abrangidos pela alínea anterior, ou se encontrem em situação de desemprego, a partir de 28 de janeiro de 2026, quando essa situação resulte dos efeitos da tempestade ‘Kristin’ e a entidade empregadora estivesse sediada ou exercesse atividade nesses municípios.
 
@@ -198,7 +243,9 @@ b) Tenham sido abrangidas pelo regime de lay-off em empresas sediadas ou com ati
 
 4 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -218,7 +265,9 @@ b) Tenham sido abrangidas pelo regime de lay-off em empresas sediadas ou com ati
 
 9 - O registo promovido nos termos do disposto nos números anteriores está isento de emolumentos.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Para acederem às medidas previstas no artigo anterior, as entidades beneficiárias remetem, preferencialmente por meio eletrónico, à instituição, no prazo de 90 dias contados a partir da entrada em vigor do presente decreto-lei, uma declaração de adesão à aplicação da moratória assinada por todos os mutuários e, no caso das empresas e das instituições particulares de solidariedade social, bem como das associações sem fins lucrativos e demais entidades da economia social, pelos seus representantes legais.
 
@@ -236,7 +285,9 @@ b) Tenham sido abrangidas pelo regime de lay-off em empresas sediadas ou com ati
 
 8 - [Anterior n.º 7.]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O membro do Governo responsável pela área das finanças pode definir, por portaria, demais condições aplicáveis a qualquer das medidas excecionais e temporárias de resposta à tempestade «Kristin» e aos fenómenos hidrológicos que lhe seguiram previstas no presente decreto-lei.
 
@@ -254,12 +305,14 @@ b) Tenham sido abrangidas pelo regime de lay-off em empresas sediadas ou com ati
 
 Visto e aprovado em Conselho de Ministros de 30 de abril de 2026. - Luís Montenegro - José Maria Gonçalves Pereira Brandão de Brito.
 
-**Promulgado em 14 de maio de 2026.**
+Promulgado em 14 de maio de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 18 de maio de 2026.**
+Referendado em 18 de maio de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119948565

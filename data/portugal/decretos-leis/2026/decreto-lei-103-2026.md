@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/103/2026/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2026-1125313602
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-22T00:00:00Z'
+  retrieved_at: '2026-10-22T18:41:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95034b9ef6f0c8b9da310d969fc15138ae8a419d800c300bf37a3675309e66d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba3adfd79d362fa5c25e9687a14cea05cca4113c0739ddcf3b0e5c185b4135ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:41:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
+- ASAE
 - Contra-ordenação
+- Controlo Sanitário
 - Definição de Competências
 - Direção Geral de Alimentação e Veterinária
-- Controlo Sanitário
 - Fiscalização
 - Laboratório
-- ASAE
 - Operador Económico
+- Produção Animal
+- Produto Animal
 - Regulamento CE
 - Taxa
-- Produto Animal
 relationships:
 - type: cites
   target: celex:32017R0625
@@ -100,16 +100,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1073/2008/09/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1073/2008/09/22/p/dre
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:178/2008
+  label: Revoga, a partir de 21 de julho de 2026, nos termos da alínea a) do artigo 18.º do presente diploma, o Decreto-Lei
+    n.º 178/2008, de 26 de agosto, Diário da República n.º 164/2008, Série I
+  source: null
+  date: '2008-08-26'
+- type: repeals
+  target: pt:numero:portaria:1073/2008
+  label: Revoga, a partir de 21 de julho de 2026, nos termos da alínea b) do artigo 18.º do presente diploma, a Portaria n.º
+    1073/2008, de 22 de setembro, Diário da República n.º 183/2008, Série I
+  source: null
+  date: '2008-09-22'
 article_structure:
   article_count: 19
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:41:40Z'
   warnings: []
   errors: []
 ---
@@ -304,12 +332,14 @@ O presente decreto-lei entra em vigor 60 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de abril de 2026. - Luís Montenegro - Emídio Ferreira dos Santos Sousa - José Maria Gonçalves Pereira Brandão de Brito - Manuel Castro Almeida - José Manuel Fernandes.
 
-**Promulgado em 13 de maio de 2026.**
+Promulgado em 13 de maio de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 18 de maio de 2026.**
+Referendado em 18 de maio de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119948576

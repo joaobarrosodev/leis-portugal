@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/06/11900/0001500037.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/477/2025/06/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/477-2025-922231852
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-06-24T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 626a18c53b265baf885dc6c0fa04e8710d0421fd8f2246a8d7e5e2adbca902ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0ee5445ae5de0e82eacaba0f647bfccc4a159e326fe9f6f1c815073bfb0d723
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Adicional de Solidariedade sobre o Setor Bancário
 - BASE de Incidência
-- Pagamento
 - Contribuições e Impostos
 - Inconstitucionalidade
 - Interpretação do Direito
-- Adicional de Solidariedade sobre o Setor Bancário
+- Pagamento
 relationships:
+- type: amends
+  target: pt:numero:lei:27-A/2020
+  label: Declara a inconstitucionalidade, com força obrigatória geral, da norma contida na alínea a) do n.º 1 do artigo 21.º
+    da Lei n.º 27-A/2020, de 24 de julho, Diário da República n.º 143/2020, 1º Suplemento, Série I, no segmento que se refere
+    ao cálculo do imposto relativo ao primeiro semestre de 2020 (adicional de solidariedade sobre o setor bancário)
+  source: null
+  date: '2020-07-24'
 - type: cites
   target: celex:32006L0112
   label: null
@@ -134,16 +141,112 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/121/2011/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/121/2011/03/30/p/dre
+- type: cites
+  target: pt:dre:107677432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118813255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138762310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139208659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1411045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164563767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2007422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2016743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2221833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2293181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66868336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:71049405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74605300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:887814394:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:43Z'
   warnings: []
   errors: []
 ---
@@ -182,7 +285,9 @@ Adicional de solidariedade sobre o setor bancário
 
 (...)
 
-###### Artigo 21.º — Disposição transitória
+Artigo 21.º
+
+Disposição transitória
 
 1 - Em 2020 e 2021, a liquidação e o pagamento do adicional de solidariedade sobre o setor bancário previsto no regime que consta do anexo VI à presente lei efetua-se de acordo com as seguintes regras:
 
@@ -476,7 +581,7 @@ Valem estas considerações, no essencial, para a norma contida no artigo 21.º,
 
 Assim, aderindo aos fundamentos transcritos (com a correção assinalada no parágrafo anterior), resta, pois, concluir pela improcedência do recurso quanto ao juízo de inconstitucionalidade da norma contida nos artigos 21.º, n.º 1, alínea a), da Le[Lei n.º 27-A/2020](https://diariodarepublica.pt/dr/detalhe/lei/27-a-2020-138762310)de 24 de julho, no segmento que se refere ao cálculo do imposto relativo ao primeiro semestre de 2020.»
 
-9 - O juízo de inconstitucionalidade patente nos arestos de decisões sumárias já mencionados foi entretanto reafirmado, com os mesmos fundamentos, nos Acórdãos n.<sup>os</sup>19/2025 e 188/2025; e nas Decisões Sumárias n.<sup>os</sup>549/2024, 551/2024, 618/2024 e 36/2025.
+9 - O juízo de inconstitucionalidade patente nos arestos de decisões sumárias já mencionados foi entretanto reafirmado, com os mesmos fundamentos, nos Acórdãos n.os19/2025 e 188/2025; e nas Decisões Sumárias n.os549/2024, 551/2024, 618/2024 e 36/2025.
 
 10 - Resta, pois, declarar a inconstitucionalidade, com força obrigatória geral, da norma contida no artigo 21.º, n.º 1, alínea a), da Le[Lei n.º 27-A/2020](https://diariodarepublica.pt/dr/detalhe/lei/27-a-2020-138762310)de 24 de julho, no segmento que se refere ao cálculo do imposto relativo ao primeiro semestre de 2020, por violação do princípio da proibição da retroatividade dos impostos, decorrente do artigo 103.º, n.º 3 da Constituição da República Portuguesa.
 
@@ -522,7 +627,7 @@ Esta modelação do facto gerador explica-se por a definição da base de incid�
 
 Considerando a estrutura diárquica do facto gerador de imposto, este apenas se pode entender completo com o segundo ato de publicitação trimestral de posições passivas pelo operador, razão por que será em função deste último marco que se avaliará se estamos perante retroatividade autêntica e, por inerência, se existe invasão do espaço de proibição constitucional definido no artigo 103.º, n.º 3, da Constituição da República Portuguesa.
 
-Na verdade, a a proibição de retroação contida no artigo 103.º, n.º 3, da CRP respeita exclusivamente aos casos em que, a um facto anterior à data de entrada em vigor da Lei nova, esta vem associar novas consequências jurídicas, agravativas da situação contributiva do particular (retroatividade autêntica - v. g., introdução de um novo imposto de obrigação única cujo facto gerador se verificou antes da chegada da nova disciplina legal ao ordenamento jurídico) (F. V. FERNANDES, Direito Fiscal Constitucional, AAFDL, 2020, pp. 278-279; Acórdãos do TC n.º 617/2012; v., também, n.<sup>os</sup>128/2009, 85/2010, e 377/2010).
+Na verdade, a a proibição de retroação contida no artigo 103.º, n.º 3, da CRP respeita exclusivamente aos casos em que, a um facto anterior à data de entrada em vigor da Lei nova, esta vem associar novas consequências jurídicas, agravativas da situação contributiva do particular (retroatividade autêntica - v. g., introdução de um novo imposto de obrigação única cujo facto gerador se verificou antes da chegada da nova disciplina legal ao ordenamento jurídico) (F. V. FERNANDES, Direito Fiscal Constitucional, AAFDL, 2020, pp. 278-279; Acórdãos do TC n.º 617/2012; v., também, n.os128/2009, 85/2010, e 377/2010).
 
 Ora, o programa normativo sob sindicância entrou em vigor em 25 de julho de 2020 e integra na sua norma de incidência dois factos materiais cuja verificação deveria ocorrer, nos termos do artigo 4.º, n.º 3, alíneas a) e b), do Av[Aviso n.º 1/2019](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/1-2019-118813255)de 31 de janeiro, o primeiro num intervalo entre 31 de março e 31 de maio de 2020 (1.ª publicação de posições passivas) e, o segundo, entre 30 de junho e 28 de setembro de 2020 (2.ª publicação de posições passivas). O regime fiscal novo adquiriu vigência no ordenamento, por conseguinte, quando o segundo dos dois prazos se encontrava ainda em curso, tal como se assinala no Acórdão.
 
@@ -537,3 +642,5 @@ A posição que obteve a maioria não levou devidamente em conta a natureza do f
 Mesmo levando em conta a argumentação expendida no acórdão, o artigo 21.º, n.º 1, alíneas a) e b), da Le[Lei n.º 27-A/2020](https://diariodarepublica.pt/dr/detalhe/lei/27-a-2020-138762310)de 24 de julho, só pode entender-se inconstitucional por violação do artigo 103.º, n.º 3, da Constituição da República Portuguesa, no segmento normativo em que sujeita a ASSB relativo ao 1.º semestre de 2020 as instituições de crédito que hajam publicado as contas referentes a todo esse período (em cumprimento do artigo 4.º, n.º 3, alíneas a) e b), do Av[Aviso n.º 1/2019](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/1-2019-118813255)de 31 de janeiro) em data anterior a 25 de julho de 2020. No demais do lançamento do imposto, estamos perante a atribuição de efeitos meramente retrospetivos ao novo corpo normativo de Direito tributário, deixando-o a resguardo do vício de inconstitucionalidade material ora sinalizado.
 
 Impunha-se, como tal, cingir o juízo positivo de inconstitucionalidade material ao disposto no artigo 21.º, n.º 1, alíneas a) e b), da Le[Lei n.º 27-A/2020](https://diariodarepublica.pt/dr/detalhe/lei/27-a-2020-138762310)de 24 de julho, na parte em que se refere ao cálculo do imposto no 1.º semestre de 2020 sobre instituições de crédito que hajam publicado as contas relativas a esse período antes de 25 de julho de 2020, por apenas quanto a essa componente disciplinadora se verificar o fenómeno de retroatividade autêntica da norma fiscal proibido pela Lei Fundamental, julgando-se o recurso improcedente quanto ao mais. António José da Ascensão Ramos
+
+119199159

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45778-1964-578105
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-06-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:40:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 924194e20e7640ff8229c589e6951eb9c5027158721b7ebf0d69fc17b34d8698
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e91c086697a1125a5490ff9ae3b675964f424cd9113e804a4a05c619284ea044
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:40:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:653716:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:40:57Z'
   warnings: []
   errors: []
 ---
@@ -86,14 +90,14 @@ Reconhecendo-se a conveniência de alterar o disposto na regra 8.ª do artigo 3.
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A regra 8.ª do artigo 3.º do [Decreto n.º 41045](https://diariodarepublica.pt/dr/detalhe/decreto/41045-1957-653716), de 29 de Março de 1957, passa a ter a seguinte redacção:
+Artigo 1.º A regra 8.ª do artigo 3.º do [Decreto n.º 41045](https://diariodarepublica.pt/dr/detalhe/decreto/41045-1957-653716), de 29 de Março de 1957, passa a ter a seguinte redacção:
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 8.ª Os subsídios de embarque a abonar aos oficiais, sargentos e praças nomeados por despacho do Ministro da Marinha para prestarem serviço em navios mercantes afretados pelo Estado serão os constantes da tabela I anexa a este decreto, com a redução de 20 por cento para os oficiais e sargentos.
 
-###### Art. 2.º O presente diploma inicia a sua vigência em 1 de Julho de 1964.
+Art. 2.º O presente diploma inicia a sua vigência em 1 de Julho de 1964.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Junho de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - António Manuel Pinto Barbosa - Fernando Quintanilha Mendonça Dias.

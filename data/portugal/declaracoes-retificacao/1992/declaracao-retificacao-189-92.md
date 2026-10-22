@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 277/1992, 2º Suplemento, Série I-A de 1992-11-30
   number: '277'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 5522-(4) a 5522-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/11/277a02/00040004.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/189/1992/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/189-1992-300438
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:34:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0b31bdc7c6f8896a6cb7b2970dee1eca944241654db8c205ac95003cbeb206e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8f826ff45196e0ddf78b03476b1d40e0f02f7eea6b4a92b8219a1833de2a546
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:34:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Desporto
+- Encargo do Estado
 - Equipamento Desportivo
 - Espetáculos e Divertimentos Públicos
-- Encargo do Estado
 - Segurança Pública
-- Desporto
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/238/1992/10/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/238/1992/10/29/p/dre
+- type: cites
+  target: pt:dre:217703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564592:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:34:11Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 189/92
+# Declaração de rectificação n.º 189/92
 
 Para os devidos efeitos se declara que o [Decreto-Lei n.º 238/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1992-217703), publicado no Diário da República, n.º 250, de 29 de Outubro de 1992, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 
@@ -105,13 +113,13 @@ Por lapso, não foi publicado o anexo I, pelo que se procede à sua publicação
 
 ## ANEXO I — Modelo a que se refere o n.º 1 do artigo 8.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/11/277a02/00040004.pdf))](https://files.diariodarepublica.pt/1s/1992/11/277a02/00040004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/11/277a02/00040004.pdf)
 
 Ficha elaborada pelo Conselho Técnico ([Portaria n.º 1150/90](https://diariodarepublica.pt/dr/detalhe/portaria/1150-1990-564592), de 27 de Novembro).
 
 No anexo publicado, onde se lê:
 
-## Anexo a que se refere o n.º 1 do artigo 8.º
+Anexo a que se refere o n.º 1 do artigo 8.º
 
 deve ler-se:
 

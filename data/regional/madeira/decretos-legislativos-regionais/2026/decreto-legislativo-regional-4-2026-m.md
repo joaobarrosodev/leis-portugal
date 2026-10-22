@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/4/2026/04/08/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2026-1082861151
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-08T00:00:00Z'
+  retrieved_at: '2026-10-22T18:37:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1008e733363bb747aab203453b43ec06814ecf132b3163ad9d32b5e6452b4d85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fdc12fdc119ff9d5c4bf70b0f7b4b053594c1dd61efb827328372a97ab3927f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:37:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Incêndio
-- Prevenção de Incêndios
-- Contra-ordenação
-- Tribunal de Contas
 - Código dos Contratos Públicos
-- Plano Regional de Ordenamento Florestal
-- Madeira.região Autónoma
-- Instituto das Florestas e Conservação da Natureza
-- Sistema de Gestão Integrada de Fogos Rurais
 - Comissão Regional de Gestão Integrada de Fogos Rurais
+- Contra-ordenação
 - Contratação Pública
+- Incêndio
+- Instituto das Florestas e Conservação da Natureza
+- Madeira.região Autónoma
+- Plano Regional de Ordenamento Florestal
+- Prevenção de Incêndios
+- Sistema de Gestão Integrada de Fogos Rurais
+- Tribunal de Contas
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
@@ -119,16 +119,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/30/2021/05/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/30/2021/05/21/p/dre
+- type: cites
+  target: pt:dre:163728569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172745163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:899204487:por
+  label: null
+  source: null
 article_structure:
-  article_count: 23
+  article_count: 21
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:37:40Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +189,7 @@ Atendendo a que o Sistema de Gestão Integrada de Fogos Rurais (SGIFR), criado p
 
 Em paralelo, estabelece-se um regime de medidas especiais de contratação pública para ações de gestão de combustíveis, através da adaptação do artigo 7.º da [Lei n.º 30/2021](https://diariodarepublica.pt/dr/detalhe/lei/30-2021-163728569), de 21 de maio, na sua atual redação, tendo como fundamento a lógica subjacente ao [Decreto Legislativo Regional n.º 34/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2008-455621), de 14 de agosto, na sua atual redação, que adapta à Região Autónoma da Madeira o Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua atual redação, quanto à majoração dos valores de referência dos diferentes procedimentos.
 
-Nestes termos, a Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º e no n.º 1 do artigo 228.º da Constituição da República Portuguesa e na alínea c) do n.º 1 do artigo 37.º e nas alíneas jj) e vv) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o seguinte:
+Nestes termos, a Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º e no n.º 1 do artigo 228.º da Constituição da República Portuguesa e na alínea c) do n.º 1 do artigo 37.º e nas alíneas jj) e vv) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o seguinte:
 
 ### CAPÍTULO I — DISPOSIÇÕES GERAIS
 
@@ -421,7 +465,9 @@ Os artigos 2.º, 6.º e 10.º do [Decreto Legislativo Regional n.º 18/98/M](htt
 
 4 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -435,9 +481,11 @@ b) [...]
 
 4 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
 
-1 - A violação do disposto nos n.<sup>os</sup>1 e 2 do artigo 3.º constitui contraordenação punível com coima de € 150,00 a € 2500,00, no caso de pessoas singulares, ou de € 300,00 a € 25 000,00, no caso de pessoas coletivas.
+[...]
+
+1 - A violação do disposto nos n.os1 e 2 do artigo 3.º constitui contraordenação punível com coima de € 150,00 a € 2500,00, no caso de pessoas singulares, ou de € 300,00 a € 25 000,00, no caso de pessoas coletivas.
 
 2 - A violação do disposto no artigo 4.º constitui contraordenação punível com coima de € 150,00 a € 3000,00, no caso de pessoas singulares, ou de € 500,00 a € 30 000,00, no caso de pessoas coletivas.
 
@@ -453,10 +501,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 25 de março de 2026.
 
-**A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.**
+A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.
 
-**Assinado em 2 de abril de 2026.**
+Assinado em 2 de abril de 2026.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+119948173

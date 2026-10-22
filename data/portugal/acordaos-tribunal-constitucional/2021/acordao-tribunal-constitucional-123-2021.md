@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/04/07000/0000500093.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/123/2021/04/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/123-2021-161220092
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-04-12T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4b40ae035a52931cf1c0648af8c8a8d3f08df836bef5be2505de188abd5ff73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07d9f222225f2603f880419d5dc486aa10af40487d24ac4ebcd9bfccca636432
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assembleia da República
+- Código Penal
 - Conselho Médico
 - Conselho Nacional de Ética para as Ciências da VIDA
 - Inconstitucionalidade
 - Tribunal Constitucional
-- Assembleia da República
-- Código Penal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/ac/285/1992/08/17/p/dre
@@ -116,15 +116,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/98/2009/09/04/p/dre
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:09Z'
   warnings: []
   errors: []
 ---
@@ -219,7 +219,9 @@ Os artigos 134.º, 135.º e 139.º do Código Penal passam a ter a seguinte reda
 
 3 - A conduta não é punível quando realizada no cumprimento das condições estabelecidas na Lei n.º xxx.
 
-###### Artigo 135.º — [...]
+Artigo 135.º
+
+[...]
 
 1 - [...]
 
@@ -227,7 +229,7 @@ Os artigos 134.º, 135.º e 139.º do Código Penal passam a ter a seguinte reda
 
 3 - A conduta não é punível quando realizada no cumprimento das condições estabelecidas na Lei n.º xxx.
 
-###### Artigo 139.º
+Artigo 139.º
 
 1 - (Atual corpo do artigo.)
 
@@ -713,7 +715,7 @@ Ora, o artigo 2.º, n.º 1, do Decreto n.º 109/XIV reporta-se à antecipação 
 
 É certo que a determinabilidade da norma incriminatória assegura, como também esclarece FIGUEIREDO DIAS, «que a descrição da matéria proibida e de todos os outros requisitos de que dependa em concreto uma punição seja levada até a um ponto em que se tornem objetivamente determináveis os comportamentos proibidos e sancionados e, consequentemente, se torne objetivamente motivável e dirigível a conduta dos cidadãos.» (v. ob. cit., pp. 218-219). Poderia, pois, argumentar-se que a determinabilidade das causas de exclusão da responsabilidade jurídico-penal pode ser - como parece ser na situação em análise - igualmente relevante quando se trate de estabelecer os pressupostos cuja verificação determina a subtração de determinada conduta ao universo dos comportamentos puníveis, especialmente em domínio tão sensível como o que está em causa.
 
-# Parte deste pressuposto a argumentação desenvolvida no requerimento, que conflui para a conclusão de que é ainda o princípio da legalidade criminal que demanda «que o legislador forneça ao médico interveniente no procedimento um quadro legislativo minimamente seguro que possa guiar a sua atuação» (cf. o ponto 8.º).
+Parte deste pressuposto a argumentação desenvolvida no requerimento, que conflui para a conclusão de que é ainda o princípio da legalidade criminal que demanda «que o legislador forneça ao médico interveniente no procedimento um quadro legislativo minimamente seguro que possa guiar a sua atuação» (cf. o ponto 8.º).
 
 Mas, não se vê que esta exigência possa, sem mais, ser reconduzida ao princípio da legalidade da intervenção penal do Estado. A indeterminação conceitual, quando aplicada a qualquer condição de exclusão da responsabilidade jurídico-penal, tende a alargar - e não a restringir - as possibilidades de, em concreto, um comportamento não ser punido. Nessa medida, agirá, em regra, a favor de uma maior proteção dos cidadãos contra a atuação punitiva do Estado - ainda que aja em prejuízo da tutela penal dos bens jurídicos em questão.
 
@@ -1055,7 +1057,7 @@ Maria José Rangel de Mesquita - Maria de Fátima Mata-Mouros - Lino Rodrigues R
 
 (7) Antonio Cassese, International Law, 2.ª ed., Oxford University Press, Oxford, 2005, p. 199.
 
-(8) Ngyuen Quoc [([ver documento original](https://files.diariodarepublica.pt/1s/2021/04/07000/0000500093.pdf))](https://files.diariodarepublica.pt/1s/2021/04/07000/0000500093.pdf), Patrick Daillier, Mathias Forteau, Alain Pellet, Droit International Public, 8.ª ed., L.G.D.J, Paris, 2009, p. 225.
+(8) Ngyuen Quoc [(ver documento original)](https://files.diariodarepublica.pt/1s/2021/04/07000/0000500093.pdf), Patrick Daillier, Mathias Forteau, Alain Pellet, Droit International Public, 8.ª ed., L.G.D.J, Paris, 2009, p. 225.
 
 (9) Assim, Manuel Diez de Velasco, Instituciones de Derecho Internacional Público, 17.ª ed., Tecnos, Madrid, p. 650.
 
@@ -1342,3 +1344,5 @@ Ao afirmar simultaneamente a necessidade constitucional de uma delimitação res
 Por fim, creio que com esta decisão o princípio da determinabilidade das leis transforma-se num significante à deriva na jurisprudência, aliado conveniente na administração de uma justiça constitucional refugiada no casuísmo. A distância real entre a presente decisão e um juízo de inconstitucionalidade com fundamento na violação do n.º 1 do artigo 24.º da Constituição, interpretado como norma que protege a vida como valor objetivo, é bem mais pequena do que numa primeira análise se poderia supor. A grande diferença, no meu entender, é que só nesta última conceção - que merece a minha oposição - se pode discernir uma verdadeira posição de princípio, congruente com a ideia básica, de especial relevância quando se trata de uma questão fraturante, de que a missão da jurisdição constitucional num regime democrático é a de civilizar o exercício do poder político através do uso da razão pública. Por isso, considero muito insatisfatória uma decisão baseada numa conceção largamente impressionista de determinabilidade das leis extraída do éter do artigo 2.º da Constituição, ademais estranha aos imperativos constitucionais específicos de tipicidade penal e fiscal, ao regime das restrições de direitos de liberdade e de natureza análoga, e ao domínio essencial da reserva de lei parlamentar - as três regiões do direito constitucional, no fim de contas, em que o conceito indeterminado de «determinabilidade» é razoavelmente determinável.
 
 Gonçalo de Almeida Ribeiro.
+
+114109628

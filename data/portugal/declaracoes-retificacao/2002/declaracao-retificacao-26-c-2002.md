@@ -23,7 +23,7 @@ publication:
   reference: Diário da República n.º 175/2002, 4º Suplemento, Série I-B de 2002-07-31
   number: '175'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 5602-(30) a 5602-(30)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/07/175b04/00300030.pdf
 entry_into_force_dates: []
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/26-c/2002/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-c-2002-303624
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:00:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94ba00ceb93f3ffc806ca72ed4ae265a17c4b930fdc95190d5da860a897f1fc6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a5670727b3dc9bb67bc74acabedb3b2dc66c5fe6af93ab8bf08540405313c4a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:00:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,32 +70,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Análise Laboratorial
-- Doença Animal
-- Gado Caprino
-- Direção Geral de Veterinária
-- Definição de Competências
-- Controlo Sanitário
 - BSE
+- Controlo Sanitário
+- Definição de Competências
+- Direção Geral de Veterinária
+- Doença Animal
 - Gado Bovino
+- Gado Caprino
+- Gado Ovino
 - Instituto Nacional de Intervenção e Garantia Agrícola
 - Laboratório Nacional de Investigação Veterinária
-- Gado Ovino
 - Preço
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/40/2002/07/24/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/40/2002/07/24/p/dre
+- type: cites
+  target: pt:dre:188480:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:00:34Z'
   warnings: []
   errors: []
 ---

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/296-a/2026/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2026-1147477321
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-14T00:00:00Z'
+  retrieved_at: '2026-10-22T18:46:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d5bcd69e67b9aa0c73159681e9d8bec08603333c27866a5d27c8cf1b949c634
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9c012e148c4d5dcabe94b1ba0de7536aeb8273b4f1e1f2e4d84acbf65faa8be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:46:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vida Selvagem
-- Ordenamento do Território
-- Proteção dos Animais
-- Regulamentação de Atos Legislativos
 - Avaliação de Impacte Ambiental
-- Lagoa de Albufeira
-- Instituto da Conservação da Natureza e das Florestas
-- Proteção do Ambiente
+- Contraordenação
 - Diversidade Biológica
 - Espécie Protegida
+- Instituto da Conservação da Natureza e das Florestas
+- Lagoa de Albufeira
+- Ordenamento do Território
+- Proteção do Ambiente
+- Proteção dos Animais
 - Rede Natura 2000
+- Regulamentação de Atos Legislativos
+- Vida Selvagem
 - Zona Especial de Conservação
-- Contraordenação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/131/2026/06/30/p/dre
@@ -108,16 +108,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
+- type: cites
+  target: pt:dre:1140260275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130273578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:46:41Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +154,7 @@ validation:
 
 de 14 de julho
 
-O [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, procedeu à designação como Zona Especial de Conservação (ZEC) do Sítio de Importância Comunitária (SIC) Fernão Ferro/Lagoa de Albufeira (PTCON0054), identificando a respetiva área e coordenadas geográficas, assim como a sua localização e limites geográficos. O referido diploma determinou, ainda, que as medidas e ações complementares de conservação de habitats e espécies são definidas em planos de gestão, a aprovar por portaria nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.<sup>os</sup>[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro.
+O [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, procedeu à designação como Zona Especial de Conservação (ZEC) do Sítio de Importância Comunitária (SIC) Fernão Ferro/Lagoa de Albufeira (PTCON0054), identificando a respetiva área e coordenadas geográficas, assim como a sua localização e limites geográficos. O referido diploma determinou, ainda, que as medidas e ações complementares de conservação de habitats e espécies são definidas em planos de gestão, a aprovar por portaria nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.os[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro.
 
 Paralelamente, ao abrigo da Diretiva Aves e conforme previsto no artigo 6.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, na sua redação original, então vigente, o [Decreto-Lei n.º 384-B/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-b-1999-154987), de 23 de setembro, procedeu à classificação da ZPE Lagoa Pequena (PTZPE0049), cuja área, delimitada nos termos do artigo 2.º e do anexo xxvii do referido decreto-lei, na sua redação atual, se sobrepõe parcialmente à da ZEC Fernão Ferro/Lagoa de Albufeira.
 
@@ -136,7 +164,7 @@ Com vista à prossecução dos objetivos fixados, o referido decreto-lei definiu
 
 Neste contexto, cumpre agora aprovar o plano de gestão da ZEC Fernão Ferro/Lagoa de Albufeira e da ZPE Lagoa Pequena, numa abordagem integrada que dê resposta às exigências ecológicas específicas da ZEC e da ZPE, procedendo à identificação dos tipos de habitat naturais e seminaturais e das espécies da flora e fauna selvagens com presença significativa nas suas áreas e que justificaram o seu reconhecimento como SIC pela Comissão Europeia e a sua subsequente classificação como ZEC, incluindo as tendências populacionais favoráveis das espécies de aves com ocorrência regular na ZPE, bem como adotando um conjunto de medidas e ações de conservação complementares, designadamente medidas de gestão ativa e de suporte, conforme o disposto no artigo 13.º do [Decreto-Lei n.º 131/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2026-1140260275), de 30 de junho, tendo também por função estabelecer as prioridades de conservação das zonas, identificando as espécies e os tipos de habitat protegidos com presença significativa na ZEC e na ZPE em relação aos quais se impõem medidas mais urgentes.
 
-Assim, ao abrigo do disposto na alínea a) do n.º 3 do artigo 7.º e nos n.<sup>os</sup>1 e 2 do artigo 7.º-B do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, na sua redação atual, do artigo 5.º do [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, e do artigo 13.º do [Decreto-Lei n.º 131/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2026-1140260275), de 30 de junho, em conjugação com os artigos 15.º, 25.º e 27.º do [Decreto-Lei n.º 87-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2025-926483751), de 25 de julho, na sua redação atual, que aprova o regime de organização e funcionamento do XXV Governo Constitucional, manda o Governo, pelo Ministro da Economia e da Coesão Territorial, pela Ministra do Ambiente e Energia e pelo Ministro da Agricultura e Mar, o seguinte:
+Assim, ao abrigo do disposto na alínea a) do n.º 3 do artigo 7.º e nos n.os1 e 2 do artigo 7.º-B do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, na sua redação atual, do artigo 5.º do [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, e do artigo 13.º do [Decreto-Lei n.º 131/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2026-1140260275), de 30 de junho, em conjugação com os artigos 15.º, 25.º e 27.º do [Decreto-Lei n.º 87-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2025-926483751), de 25 de julho, na sua redação atual, que aprova o regime de organização e funcionamento do XXV Governo Constitucional, manda o Governo, pelo Ministro da Economia e da Coesão Territorial, pela Ministra do Ambiente e Energia e pelo Ministro da Agricultura e Mar, o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -152,7 +180,7 @@ A presente portaria aprova o plano de gestão da Zona Especial de Conservação 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida, em 1 de julho de 2026. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 14 de julho de 2026. - O Ministro da Agricultura e Mar, José Manuel Fernandes, em 14 de julho de 2026.**
+O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida, em 1 de julho de 2026. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 14 de julho de 2026. - O Ministro da Agricultura e Mar, José Manuel Fernandes, em 14 de julho de 2026.
 
 ## ANEXO I — (a que se refere o artigo 1.º)
 
@@ -162,7 +190,8 @@ Localização
 
 A ZEC Fernão Ferro/Lagoa de Albufeira e a ZPE Lagoa Pequena, abrangendo uma área total aproximada de 4 318,37 ha (cerca de 69 ha integrados na ZPE), localizam-se nos concelhos de Sesimbra e Seixal, conforme se apresenta no Quadro 1. A sua localização encontra-se representada cartograficamente na Figura 1, estando os seus limites disponíveis no geocatálogo da Autoridade Nacional da Conservação da Natureza e Biodiversidade.
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147432972.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147432972.png) |
+| --- |
 
 (fonte: CAOP 2023 - DGT)
 
@@ -198,53 +227,53 @@ Quadro 2 - Tipos de habitat do anexo i da Diretiva Habitats com presença signif
 
 | Código | Habitat |
 | --- | --- |
-| 1150 | # Lagunas costeiras |
-| 1210 | # Vegetação anual das zonas de acumulação de detritos pela maré |
-| 1310 | # Vegetação pioneira de Salicornia e outras espécies anuais das zonas lodosas e arenosas |
+| 1150 | **# Lagunas costeiras** |
+| 1210 | **# Vegetação anual das zonas de acumulação de detritos pela maré** |
+| 1310 | **# Vegetação pioneira de****Salicornia****e****outras espécies anuais das zonas lodosas****e****arenosas** |
 | 1410 | Prados salgados mediterrânicos (Juncetalia maritimi) |
-| 2110 | # Dunas móveis embrionárias |
-| 2120 | # Dunas móveis do cordão litoral com Ammophila arenaria («dunas brancas») |
-| 2130 | # Dunas fixas com vegetação herbácea («dunas cinzentas») |
-| 2150 | # Dunas fixas descalcificadas atlânticas (Calluno Ulicetea) |
-| 2190 | # Depressões húmidas intradunares |
+| 2110 | **# Dunas móveis embrionárias** |
+| 2120 | **# Dunas móveis do cordão litoral com****Ammophila arenaria****(«dunas brancas»)** |
+| 2130 | **# Dunas fixas com vegetação herbácea («dunas cinzentas»)** |
+| 2150 | **# Dunas fixas descalcificadas atlânticas (****Calluno Ulicetea****)** |
+| 2190 | **# Depressões húmidas intradunares** |
 | 2230 | Dunas com prados da Malcolmietalia |
-| 2250 | # Dunas litorais com Juniperus spp. |
-| 2260 | # Dunas com vegetação esclerófila da Cisto-Lavenduletalia |
-| 2270 | # Dunas com florestas de Pinus pinea e ou Pinus pinaster |
+| 2250 | **# Dunas litorais com****Juniperus****spp.** |
+| 2260 | **# Dunas com vegetação esclerófila da****Cisto-Lavenduletalia** |
+| 2270 | **# Dunas com florestas de****Pinus pinea****e****ou****Pinus pinaster** |
 | 2330 | Dunas interiores com prados abertos de Corynephorus e Agrostis |
-| 3110 | # Águas oligotróficas muito pouco mineralizadas das planícies arenosas (Littorelletalia uniflorae) |
-| 3120 | # Águas oligotróficas muito pouco mineralizadas em solos geralmente arenosos do oeste mediterrânico com Isoëtes spp. |
-| 3130 | # Águas estagnadas, oligotróficas a mesotróficas, com vegetação da Littorelletea uniflorae e/ou da Isoëto-Nanojuncetea |
-| 3150 | # Lagos eutróficos naturais com vegetação da Magnopotamion ou da Hydrocharition |
-| 3160 | # Lagos e charcos distróficos naturais |
-| 3170 | # Charcos temporários mediterrânicos |
-| 4020 | # Charnecas húmidas atlânticas temperadas de Erica ciliaris e Erica tetralix |
+| 3110 | **# Águas oligotróficas muito pouco mineralizadas das planícies arenosas (****Littorelletalia uniflorae****)** |
+| 3120 | **# Águas oligotróficas muito pouco mineralizadas em solos geralmente arenosos do oeste mediterrânico com****Isoëtes****spp.** |
+| 3130 | **# Águas estagnadas, oligotróficas****a****mesotróficas, com vegetação da****Littorelletea uniflorae****e/ou da****Isoëto-Nanojuncetea** |
+| 3150 | **# Lagos eutróficos naturais com vegetação da****Magnopotamion****ou da****Hydrocharition** |
+| 3160 | **# Lagos****e****charcos distróficos naturais** |
+| 3170 | **# Charcos temporários mediterrânicos** |
+| 4020 | **# Charnecas húmidas atlânticas temperadas de****Erica ciliaris****e****Erica tetralix** |
 | 5330 | Matos termomediterrânicos pré-desérticos |
 | 6220 | Subestepes de gramíneas e anuais da Thero-Brachypodietea |
 | 6310 | Montados de Quercus spp. de folha perene |
-| 6410 | # Pradarias com Molinia em solos calcários, turfosos e argilo-limosos (Molinion caeruleae) |
+| 6410 | **# Pradarias com****Molinia****em solos calcários, turfosos****e****argilo-limosos (****Molinion caeruleae****)** |
 | 6420 | Pradarias húmidas mediterrânicas de ervas altas da Molinio-Holoschoenion |
 | 6430 | Comunidades de ervas altas higrófilas das orlas basais e dos pisos montano a alpino |
-| 7140 | # Turfeiras de transição e turfeiras ondulantes |
-| 91E0 | # Florestas aluviais de Alnus glutinosa e Fraxinus excelsior (Alno-Padion, Alnion incanae, Salicion albae) |
-| 92A0 | # Florestas-galerias de Salix alba e Populus alba |
+| 7140 | **# Turfeiras de transição****e****turfeiras ondulantes** |
+| 91E0 | **# Florestas aluviais de****Alnus glutinosa****e****Fraxinus excelsior****(****Alno-Padion****,****Alnion incanae****,****Salicion albae****)** |
+| 92A0 | **# Florestas-galerias de****Salix alba****e****Populus alba** |
 
 Quadro 3 - Espécies do anexo ii da Diretiva Habitats com presença significativa na ZEC
 
 | Código | Grupo | Espécie |
 | --- | --- | --- |
 | 1644 | PL | Armeria rouyana |
-| 6984 | PL | # Caropsis verticillato-inundata (sin. Thorella verticillato-inundata) |
-| 1573 | PL | # Euphorbia transtagana |
+| 6984 | PL | **# Caropsis verticillato-inundata****(sin****. Thorella verticillato-inundata****)** |
+| 1573 | PL | **# Euphorbia transtagana** |
 | 1462 | PL | Herniaria maritima |
 | 1851 | PL | Hyacinthoides vicentina (sin. H. mauritanica) |
 | 1487 | PL | Jonopsidium acaule |
 | 1877 | PL | Juncus valvatus |
-| 1788 | PL | # Leuzea longifolia (sin. Rhaponticum longifolium) |
+| 1788 | PL | **# Leuzea longifolia****(sin****. Rhaponticum longifolium****)** |
 | 1719 | PL | Linaria ficalhoana (sin L. bipunctata subsp. glutinosa) |
 | 1777 | PL | Santolina impressa |
 | 1681 | PL | Thymus carnosus |
-| 1044 | I | # Coenagrion mercuriale |
+| 1044 | I | **# Coenagrion mercuriale** |
 | 1221 | R | Mauremys leprosa |
 
 Grupo: PL - Planta; I - Invertebrado; P - Peixe; R - Réptil; M - Mamífero.
@@ -263,20 +292,20 @@ Quadro 4 - Espécies de aves do anexo i da Diretiva Aves e espécies migradoras 
 | A053 | Anas platyrhynchos |
 | A889 | Mareca strepera (sin. Anas strepera) |
 | A028 | Ardea cinerea |
-| A029 | # Ardea purpurea |
+| A029 | **# Ardea purpurea** |
 | A021 | Botaurus stellaris |
 | A081 | Circus aeruginosus |
 | A026 | Egretta garzetta |
 | A092 | Hieraaetus pennatus |
-| A022 | # Ixobrychus minutus |
+| A022 | **# Ixobrychus minutus** |
 | A094 | Pandion haliaetus |
 | A017 | Phalacrocorax carbo |
-| A124 | # Porphyrio porphyrio |
+| A124 | **# Porphyrio porphyrio** |
 | A118 | Rallus aquaticus |
 | A004 | Tachybaptus ruficollis |
 | A008 | Podiceps nigricollis |
 | A125 | Fulica atra |
-| N. a. | # Passeriformes migradores de caniçais e galerias ripícolas |
+| N. a. | **# Passeriformes migradores de caniçais****e****galerias ripícolas** |
 
 Objetivos de conservação
 
@@ -288,13 +317,17 @@ Considerando o grau de desconhecimento existente da condição ecológica dos ti
 
 Quadro 5 - Objetivos de conservação para a gestão das ZEC e ZPE
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147432973.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147432973.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147432974.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147432974.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147554275.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147554275.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147554276.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147554276.png) |
+| --- |
 
 Medidas de conservação complementares
 
@@ -306,13 +339,17 @@ A informação relevante para a execução das medidas de conservação compleme
 
 Quadro 6 - Quadro operacional de medidas de conservação complementares
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147554277.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147554277.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147554278.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147554278.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147554279.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147554279.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147554280.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147554280.png) |
+| --- |
 
 Medidas de conservação regulamentares
 
@@ -338,52 +375,81 @@ O Quadro 7 estabelece a correspondência entre as medidas de conservação compl
 
 Quadro 7 - Modelo de matriz de avaliação final da implementação do plano de gestão
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147554281.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147554281.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147554282.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147554282.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147554283.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147554283.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147554284.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147554284.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147554285.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147554285.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147554286.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147554286.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147554287.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147554287.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147554288.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147554288.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147554289.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147554289.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147554290.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147554290.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147554291.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147554291.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147554292.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147554292.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147554293.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147554293.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147554294.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147554294.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147554295.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147554295.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147554296.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147554296.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147554297.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147554297.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147554298.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147554298.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147554299.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147554299.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147554300.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147554300.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147554301.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147554301.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147554302.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147554302.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147554303.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147554303.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147554304.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147554304.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1147477321/1147554305.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1147477321/1147554305.png) |
+| --- |
+
+119949062
+
+.Tbl1 { border-collapse:collapse; border-width:1px; border-color:rgb(0,0,0); } .Tbl2 { height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:18px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl11 { min-height:28px; }

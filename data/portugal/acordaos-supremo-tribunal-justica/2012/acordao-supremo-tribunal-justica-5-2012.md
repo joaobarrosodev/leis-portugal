@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/5/2012/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/5-2012-552013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-21T00:00:00Z'
+  retrieved_at: '2026-10-22T17:53:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b6b08c9b8001494c717e1afdae807ab9d192be05794c8cc35192ce65e5069e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ab467e70dbc9c0acf98efd836eef17280ca9f4187b08789d689970e66d99262
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:53:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Processo Civil
+- Ministério Público
 - Multa
 - Prazo
-- Ministério Público
+- Processo Civil
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/180/1996/09/25/p/dre
@@ -100,16 +100,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/48/2007/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/48/2007/08/29/p/dre
+- type: cites
+  target: pt:dre:1104284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1863750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1970319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1977324:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667744:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:53:09Z'
   warnings: []
   errors: []
 ---

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/23/2026/07/16/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/23-2026-1148213733
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-16T00:00:00Z'
+  retrieved_at: '2026-10-22T18:46:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 601799bc7721a9a0a1200e5081ba6b8cd27c56af6f25ae0a5904d7f36594305b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ee54da483070a3a5490ae51b9e1c9bac71e348eb0370c2213dba3d359205ef3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:46:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Estatuto Político-Administrativo da Região Autónoma da Madeira
-- Iniciativa Legislativa
 - Assembleia Legislativa
-- Política de Educação
-- Madeira.região Autónoma
 - Ensino Superior
+- Estatuto Político-Administrativo da Região Autónoma da Madeira
+- Financiamento
+- Iniciativa Legislativa
+- Madeira.região Autónoma
+- Política de Educação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
@@ -95,16 +95,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/71/2018/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/71/2018/12/31/p/dre
+- type: cites
+  target: pt:dre:117537583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656107:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:46:53Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +151,7 @@ O reitor da Universidade da Madeira, Prof. Doutor José Sílvio Moreira Fernande
 
 A presente iniciativa visa, assim, corrigir esta injustiça, garantir a justa coesão territorial e o reforço da capacidade competitiva das instituições de ensino superior ultraperiféricas.
 
-Assim, nos termos da alínea f) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea b) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, a Assembleia Legislativa da Região Autónoma da Madeira apresenta à Assembleia da República a seguinte proposta de lei:
+Assim, nos termos da alínea f) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea b) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, a Assembleia Legislativa da Região Autónoma da Madeira apresenta à Assembleia da República a seguinte proposta de lei:
 
 ###### Artigo 1.º — Objeto
 
@@ -153,7 +173,9 @@ Compensação dos sobrecustos da insularidade e da ultraperiferia para institui�
 
 4 - A aplicação da compensação específica prevista no presente artigo é cumulativa com o regime de financiamento da situação de tripolaridade da Universidade dos Açores, não afetando o respetivo cálculo nem o seu montante.
 
-###### Artigo 4.º-B — Acesso a apoios da União Europeia por parte das instituições públicas de ensino superior das Regiões Autónomas da Madeira e dos Açores
+Artigo 4.º-B
+
+Acesso a apoios da União Europeia por parte das instituições públicas de ensino superior das Regiões Autónomas da Madeira e dos Açores
 
 1 - O Governo da República assegura o enquadramento necessário para que as instituições públicas de ensino superior das Regiões Autónomas da Madeira e dos Açores acedam aos fundos dos programas operacionais nacionais, fundos de gestão descentralizada, no âmbito dos quadros comunitários de apoio e dos novos instrumentos de financiamento criados com apoio da União Europeia, com aplicação em Portugal.
 
@@ -171,4 +193,6 @@ O disposto no artigo 4.º-A da [Lei n.º 37/2003](https://diariodarepublica.pt/d
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 17 de junho de 2026.
 
-**A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.**
+A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.
+
+119949053

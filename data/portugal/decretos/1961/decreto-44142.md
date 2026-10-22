@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44142-1961-178862
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T19:27:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04b44c1bd3c9126461c9646a6277a0c389d2de3f8e51cd42f34602c60967c54d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 320bdd603f128391b067c0afbb4c2c63114bc4c70ba09f76a7a42cbc5ffaf78c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:27:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:192470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528802:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:27:45Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +95,7 @@ Impondo os acontecimentos ocorridos na província portuguesa do Estado da Índia
 
 Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição e usando da faculdade conferida pelo n.º 3.º do mesmo artigo, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Enquanto não for restabelecida a soberania nacional na província ultramarina do Estado Português da Índia é autorizada a Direcção-Geral de Fazenda, do Ministério do Ultramar, através da sua repartição competente, a mandar satisfazer, pelas disponibilidades da conta de Depósito do mesmo Estado, existente na sede do Banco Nacional Ultramarino, ou das contas subsidiárias a que se refere o artigo 2.º, as seguintes despesas que haja a satisfazer, respectivamente, em Lisboa e nas outras províncias ultramarinas:
+Artigo 1.º Enquanto não for restabelecida a soberania nacional na província ultramarina do Estado Português da Índia é autorizada a Direcção-Geral de Fazenda, do Ministério do Ultramar, através da sua repartição competente, a mandar satisfazer, pelas disponibilidades da conta de Depósito do mesmo Estado, existente na sede do Banco Nacional Ultramarino, ou das contas subsidiárias a que se refere o artigo 2.º, as seguintes despesas que haja a satisfazer, respectivamente, em Lisboa e nas outras províncias ultramarinas:
 
 1.º Pensões de aposentação e reforma, quer provisórias, quer definitivas, concedidas por conta da província ultramarina do Estado Português da Índia até 31 de Dezembro de 1960 a funcionários e agentes que estiverem a residir na metrópole ou nas outras províncias ultramarinas portuguesas e que estejam ou sejam mandados incluir por despacho do Ministro do Ultramar nas respectivas relações nominais dos aposentados, jubilados e reformados e do pessoal aguardando aposentação ou reforma, constantes da separata do orçamento geral do Estado Português da Índia para o ano de 1961;
 
@@ -105,7 +113,7 @@ Enquanto não for dada nova colocação aos referidos funcionários e agentes, e
 
 6.º Quaisquer outras despesas que, constituindo nesta data encargo obrigatório da província ultramarina do Estado Português da Índia, sejam mandadas pagar por despacho do Ministro do Ultramar.
 
-###### Art. 2.º Em cada uma das províncias ultramarinas mencionadas no § único do artigo 6.º abrir-se-á uma conta subsidiária da referida no artigo 1.º, com a rubrica «Conta de depósito da província ultramarina do Estado Português da Índia».
+Art. 2.º Em cada uma das províncias ultramarinas mencionadas no § único do artigo 6.º abrir-se-á uma conta subsidiária da referida no artigo 1.º, com a rubrica «Conta de depósito da província ultramarina do Estado Português da Índia».
 
 § 1.º No débito desta conta escriturar-se-ão:
 
@@ -121,7 +129,7 @@ a) As importâncias das pensões de aposentação e reforma, quer provisórias, 
 
 b) Todas as despesas que forem mandadas pagar na respectiva província por despacho do Ministro do Ultramar, expedido pela Direcção-Geral de Fazenda do ultramar.
 
-###### Art. 3.º A conta de que trata o artigo antecedente será encerrada mensalmente, devendo o saldo positivo que nela for apurado ser transferido para Lisboa por meio de cheque bancário emitido a favor do director-geral de Fazenda, do Ministério do Ultramar.
+Art. 3.º A conta de que trata o artigo antecedente será encerrada mensalmente, devendo o saldo positivo que nela for apurado ser transferido para Lisboa por meio de cheque bancário emitido a favor do director-geral de Fazenda, do Ministério do Ultramar.
 
 A importância do cheque dará entrada na conta mencionada no artigo 1.º
 
@@ -129,19 +137,19 @@ Se o saldo for negativo, a Direcção-Geral de Fazenda, do Ministério do Ultram
 
 § único. Mensalmente será enviada ao Ministério do Ultramar, devidamente documentada, a conta dos recebimentos e pagamentos feitos, que, depois de considerada exacta, será aprovada por despacho do Ministro do Ultramar e em seguida arquivada.
 
-###### Art. 4.º As pensões de aposentação devidas a missionários das missões católicas do Padroado Português do Oriente que residirem ou vierem a residir na metrópole ou nas outras províncias ultramarinas portuguesas serão pagas, a partir de 1 de Janeiro de 1962, pela conta de Depósito mencionada no artigo 1.º, depois de nela ter dado entrada a importância necessária ao referido fim.
+Art. 4.º As pensões de aposentação devidas a missionários das missões católicas do Padroado Português do Oriente que residirem ou vierem a residir na metrópole ou nas outras províncias ultramarinas portuguesas serão pagas, a partir de 1 de Janeiro de 1962, pela conta de Depósito mencionada no artigo 1.º, depois de nela ter dado entrada a importância necessária ao referido fim.
 
-###### Art. 5.º Nas pensões de aposentação e reforma, quer provisórias, quer definitivas, a conceder depois de 31 de Dezembro de 1961 a funcionários e agentes que tenham servido na província ultramarina do Estado Português da Índia e que residam ou venham a residir na metrópole ou nas outras províncias ultramarinas portuguesas a parte do encargo que legalmente pertencia pagar ao referido Estado será distribuída pro rata pelas outras províncias ultramarinas.
+Art. 5.º Nas pensões de aposentação e reforma, quer provisórias, quer definitivas, a conceder depois de 31 de Dezembro de 1961 a funcionários e agentes que tenham servido na província ultramarina do Estado Português da Índia e que residam ou venham a residir na metrópole ou nas outras províncias ultramarinas portuguesas a parte do encargo que legalmente pertencia pagar ao referido Estado será distribuída pro rata pelas outras províncias ultramarinas.
 
-###### Art. 6.º A aposentação provisória ou definitiva a conceder, depois de 31 de Dezembro de 1961, aos funcionários e agentes dos quadros do Ministério do Ultramar e organismos e conselhos dependentes será calculada ao abrigo da legislação actualmente em vigor, devendo, porém, a parte que competiria pagar à província ultramarina do Estado Português da Índia, nos termos da parte final do § único do artigo 67.º do [Decreto n.º 26180](https://diariodarepublica.pt/dr/detalhe/decreto/26180-1936-528802), de 7 de Janeiro de 1936, ser distribuída pelas outras províncias ultramarinas.
+Art. 6.º A aposentação provisória ou definitiva a conceder, depois de 31 de Dezembro de 1961, aos funcionários e agentes dos quadros do Ministério do Ultramar e organismos e conselhos dependentes será calculada ao abrigo da legislação actualmente em vigor, devendo, porém, a parte que competiria pagar à província ultramarina do Estado Português da Índia, nos termos da parte final do § único do artigo 67.º do [Decreto n.º 26180](https://diariodarepublica.pt/dr/detalhe/decreto/26180-1936-528802), de 7 de Janeiro de 1936, ser distribuída pelas outras províncias ultramarinas.
 
 § único. O produto do desconto da quota legal de que trata o artigo 3.º do [Decreto-Lei n.º 30039](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30039-1939-192470), de 7 de Novembro de 1939, passa a constituir, com início em 1 de Janeiro de 1962, receita comum das províncias ultramarinas de Cabo Verde, Guiné, S. Tomé e Príncipe, Angola, Moçambique, Macau e Timor, a distribuir nos precisos termos do § único do artigo 67.º do referido [Decreto n.º 26180](https://diariodarepublica.pt/dr/detalhe/decreto/26180-1936-528802).
 
-###### Art. 7.º Os descontos a efectuar nas pensões de aposentação e reforma, provisórias e definitivas, dos funcionários e agentes a que se referem os n.os 1.º e 2.º do artigo 1.º, para compensação de aposentação ou reforma, serão, a partir de 1 de Janeiro de 1962, convertidos em receita orçamental das outras províncias ultramarinas portuguesas, na proporção das suas receitas ordinárias.
+Art. 7.º Os descontos a efectuar nas pensões de aposentação e reforma, provisórias e definitivas, dos funcionários e agentes a que se referem os n.os 1.º e 2.º do artigo 1.º, para compensação de aposentação ou reforma, serão, a partir de 1 de Janeiro de 1962, convertidos em receita orçamental das outras províncias ultramarinas portuguesas, na proporção das suas receitas ordinárias.
 
 § único. O disposto no corpo deste artigo aplicar-se-á igualmente a todos os descontos para receita própria a efectuar nos vencimentos dos funcionários e agentes de que trata o n.º 5.º do artigo 1.º, enquanto receberem as suas remunerações pela conta do depósito mencionado no mesmo artigo.
 
-###### Art. 8.º Em casos especiais devidamente fundamentados poderá o Ministro do Ultramar autorizar o pagamento de adiantamentos mensais para alimento à mulher e filhos de funcionários e agentes em serviço na província ultramarina do Estado Português da Índia à data da sua ocupação por forças inimigas.
+Art. 8.º Em casos especiais devidamente fundamentados poderá o Ministro do Ultramar autorizar o pagamento de adiantamentos mensais para alimento à mulher e filhos de funcionários e agentes em serviço na província ultramarina do Estado Português da Índia à data da sua ocupação por forças inimigas.
 
 O pagamento será feito pela conta de Depósito referida no artigo 1.º
 
@@ -155,21 +163,21 @@ b) O funcionário ou agente, chefe da família, encontrar-se no referido Estado 
 
 § 2.º Logo que o funcionário ou agente se apresente no Ministério do Ultramar, a importância dos adiantamentos efectuados ser-lhe-á debitada e paga por desconto nos seus vencimentos no número de prestações que for fixado por despacho do Ministro do Ultramar.
 
-###### Art. 9.º Mediante informação dos serviços, o Ministro do Ultramar pode livremente colocar funcionários ou agentes dos diferentes quadros do ultramar em situações de serviço diferentes das que ocupam ou ocupavam no ordenamento dos quadros a que pertenciam, com respeito apenas da hierarquia e da especialização profissional.
+Art. 9.º Mediante informação dos serviços, o Ministro do Ultramar pode livremente colocar funcionários ou agentes dos diferentes quadros do ultramar em situações de serviço diferentes das que ocupam ou ocupavam no ordenamento dos quadros a que pertenciam, com respeito apenas da hierarquia e da especialização profissional.
 
-###### Art. 10.º Do mesmo modo pode colocar nos quadros privativos de uma província ultramarina funcionários e agentes dos quadros privativos de outras.
+Art. 10.º Do mesmo modo pode colocar nos quadros privativos de uma província ultramarina funcionários e agentes dos quadros privativos de outras.
 
-###### Art. 11.º O provimento a que se referem os artigos anteriores está sujeito a anotação do Tribunal de Contas.
+Art. 11.º O provimento a que se referem os artigos anteriores está sujeito a anotação do Tribunal de Contas.
 
-###### Art. 12.º Para efeitos de execução do disposto nos artigos anteriores, os Governos das províncias ultramarinas, por simples comunicação do Ministro do Ultramar, reservarão os lugares que lhes forem determinados.
+Art. 12.º Para efeitos de execução do disposto nos artigos anteriores, os Governos das províncias ultramarinas, por simples comunicação do Ministro do Ultramar, reservarão os lugares que lhes forem determinados.
 
-###### Art. 13.º A impossibilidade de ocupação pelo agente do lugar provido por contrato por facto estranho à vontade da Administração põe termo automàticamente ao mesmo contrato.
+Art. 13.º A impossibilidade de ocupação pelo agente do lugar provido por contrato por facto estranho à vontade da Administração põe termo automàticamente ao mesmo contrato.
 
 § único. A comunicação, por escrito, feita pelos serviços ao agente é o meio pelo qual se efectiva o conhecimento do facto referido no corpo do artigo.
 
-###### Art. 14.º Para efeitos judiciais, as províncias de Macau e Timor fazem parte do distrito judicial de Lourenço Marques e ficam afectas ao respectivo Tribunal da Relação.
+Art. 14.º Para efeitos judiciais, as províncias de Macau e Timor fazem parte do distrito judicial de Lourenço Marques e ficam afectas ao respectivo Tribunal da Relação.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Dezembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

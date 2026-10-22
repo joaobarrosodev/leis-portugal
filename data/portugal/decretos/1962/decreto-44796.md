@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44796-1962-155224
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-12-17T00:00:00Z'
+  retrieved_at: '2026-10-22T19:32:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e75e346f189f393ccf57ba896465340a2e70a73f33e97da5ad9df08d67519e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5cf69902e599f4a1caf2d77c63f18fb91ace4dc5786a27f1355a6f6a91d735b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:32:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:167631:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:32:57Z'
   warnings: []
   errors: []
 ---
@@ -92,15 +96,15 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O Depósito de Inúteis da Direcção do Serviço de Abastecimentos passa a designar-se por Depósito de Recuperáveis e Inúteis.
+Artigo 1.º O Depósito de Inúteis da Direcção do Serviço de Abastecimentos passa a designar-se por Depósito de Recuperáveis e Inúteis.
 
-###### Art. 2.º O Depósito de Recuperáveis e Inúteis, ouvidos os peritos respectivos, separará por secções o material ainda econòmicamente aproveitável do material desactualizado ou inútil, só este último sendo susceptível de venda, nos termos prescritos pelo Regulamento de Administração da Fazenda Naval, aprovado pelo [Decreto n.º 31859](https://diariodarepublica.pt/dr/detalhe/decreto/31859-1942-167631), de 17 de Janeiro de 1942.
+Art. 2.º O Depósito de Recuperáveis e Inúteis, ouvidos os peritos respectivos, separará por secções o material ainda econòmicamente aproveitável do material desactualizado ou inútil, só este último sendo susceptível de venda, nos termos prescritos pelo Regulamento de Administração da Fazenda Naval, aprovado pelo [Decreto n.º 31859](https://diariodarepublica.pt/dr/detalhe/decreto/31859-1942-167631), de 17 de Janeiro de 1942.
 
-###### Art. 3.º Cumpre à Direcção do Serviço de Abastecimentos providenciar no sentido de que todo o material aproveitável volte a ser fornecido, por intermédio do Depósito de Recuperáveis e Inúteis ou dos depósitos da nomenclatura respectiva, às unidades, serviços e estabelecimentos do Ministério da Marinha que dele careçam.
+Art. 3.º Cumpre à Direcção do Serviço de Abastecimentos providenciar no sentido de que todo o material aproveitável volte a ser fornecido, por intermédio do Depósito de Recuperáveis e Inúteis ou dos depósitos da nomenclatura respectiva, às unidades, serviços e estabelecimentos do Ministério da Marinha que dele careçam.
 
-###### Art. 4.º Com vista à execução eficiente do disposto no artigo anterior, a redacção do artigo 230.º do Regulamento de Administração da Fazenda Naval passa a ser a seguinte:
+Art. 4.º Com vista à execução eficiente do disposto no artigo anterior, a redacção do artigo 230.º do Regulamento de Administração da Fazenda Naval passa a ser a seguinte:
 
-###### Art. 230.º Todos os navios, outras unidades, serviços e estabelecimentos do Ministério da Marinha, em Lisboa, com excepção dos casos referidos no § 1.º do artigo 226.º, entregarão na Direcção do Serviço de Abastecimentos (Depósito de Recuperáveis e Inúteis) os artigos que em acta do conselho administrativo sejam considerados desnecessários, desactualizados ou inúteis. Esses artigos serão entregues por meio de guia (modelo n.º 9) com o preço de carga, vistoriados seguidamente por peritos competentes e classificados como aproveitáveis ou como inúteis, devendo observar-se o seguinte:
+Art. 230.º Todos os navios, outras unidades, serviços e estabelecimentos do Ministério da Marinha, em Lisboa, com excepção dos casos referidos no § 1.º do artigo 226.º, entregarão na Direcção do Serviço de Abastecimentos (Depósito de Recuperáveis e Inúteis) os artigos que em acta do conselho administrativo sejam considerados desnecessários, desactualizados ou inúteis. Esses artigos serão entregues por meio de guia (modelo n.º 9) com o preço de carga, vistoriados seguidamente por peritos competentes e classificados como aproveitáveis ou como inúteis, devendo observar-se o seguinte:
 
 a) No primeiro caso serão valorizados pelos peritos intervenientes, que para essa valorização tomarão em conta o custo do conserto que porventura seja necessário efectuar;
 
@@ -120,6 +124,6 @@ e) Fora do porto de Lisboa, devem os conselhos administrativos proceder como est
 
 § 4.º Caso a decisão da entrega de artigos desnecessários, desactualizados ou inúteis na Direcção do Serviço de Abastecimentos, no Hospital da Marinha ou nas direcções dos serviços técnicos tenha sido tomada por unanimidade de votos dos membros do conselho administrativo e os pareceres dos peritos ouvidos tenham sido lançados sobre a respectiva guia de entrega e aí assinados, não é obrigatória a transcrição em acta do material a entregar e dos restantes elementos da guia, bastando mencionar-se na acta essa decisão, com a indicação do número da guia de entrega e da unidade ou estabelecimento, conta e secção a que os artigos pertencem, sendo também, nesse caso, dispensada a presença à sessão dos peritos cujas declarações constem já da guia de entrega.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 17 de Dezembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Fernando Quintanilha Mendonça Dias.

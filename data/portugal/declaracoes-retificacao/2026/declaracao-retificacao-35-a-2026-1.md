@@ -47,25 +47,35 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/35-a/2026/09/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/35-a-2026-1171923317
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-18T00:00:00Z'
+  retrieved_at: '2026-10-22T18:53:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41c178e93de3d9584346de4516f352726714757e213efc674bdd9bad0cb486e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 065a5523ac14cf7191c9d7f30259f7fc3d9016356cd824676309cf770775941c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:53:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abate de Animais
+- CAÇA
+- Contraordenação
+- Controlo Sanitário
+- Licenciamento
+- Matadouro
+- Proteção do Ambiente
+- Proteção dos Animais
+- Taxa
+- Transporte de Animais
 relationships:
 - type: cites
   target: celex:32016R0429
@@ -87,16 +97,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
+- type: cites
+  target: pt:dre:1128419934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1149265696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:147/2026
+  label: Retifica a alínea e) do n.º 2 do artigo 6.º do Decreto-Lei n.º 147/2026, de 20 de julho, Diário da República n.º
+    138/2026, Série
+  source: null
+  date: '2026-07-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:53:29Z'
   warnings: []
   errors: []
 ---
@@ -114,3 +154,5 @@ deve ler-se:
 «Sempre que, durante a operação de preparação das peças de caça, se verifique a suspeita ou a presença de lesões compatíveis com doenças transmissíveis abrangidas pelo [Regulamento (UE) 2016/429](https://data.europa.eu/eli/reg/2016/429/oj?locale=pt) do Parlamento Europeu e do Conselho, de 9 de março de 2016, a unidade móvel não se pode deslocar para outro local de atividade sem esvaziar os contentores de subprodutos e ser devidamente higienizada e desinfetada, sem prejuízo da aplicação das demais medidas de controlo previstas na legislação em vigor em matéria de saúde animal.»
 
 Secretaria-Geral do Governo, 17 de setembro de 2026. - O Secretário-Geral Adjunto, Joaquim Cruz.
+
+119949603

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05900/0005900071.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/4/2025/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/4-2025-912256346
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-25T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4223d959422552ba0ce3dbbb1ef390cda2389538645de985e4682233d71ea75f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c07cdfdd6a9a7129aef824d4ec6a204892c8c36f79cbd74d80a7bd646639216
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
+- type: cites
+  target: pt:dre:632906:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:27Z'
   warnings: []
   errors: []
 ---
@@ -311,7 +315,7 @@ Preceitua o art. 738.º, n.º 1, do CPC (“Bens parcialmente penhoráveis”):
 
 “São impenhoráveis dois terços da parte líquida dos vencimentos, salários, prestações periódicas pagas a título de aposentação ou de qualquer outra regalia social, seguro, indemnização por acidente, renda vitalícia, ou prestações de qualquer natureza que assegurem a subsistência do executado”.
 
-Dispõe, por sua vez, o art. 439.º do Código do Trabalho de 2003, aprovado pela [Lei n.º 99/2003](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906) de 27.08.2003 (“Indemnização em substituição da reintegração), nos n.<sup>os</sup>1 e 2:
+Dispõe, por sua vez, o art. 439.º do Código do Trabalho de 2003, aprovado pela [Lei n.º 99/2003](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906) de 27.08.2003 (“Indemnização em substituição da reintegração), nos n.os1 e 2:
 
 “1 - Em substituição da reintegração pode o trabalhador optar por uma indemnização, cabendo ao tribunal fixar o montante, entre 15 e 45 dias de retribuição base e diuturnidades por cada ano completo ou fracção de antiguidade, atendendo ao valor da retribuição e ao grau de ilicitude decorrente do disposto no artigo 429.º;
 
@@ -430,3 +434,5 @@ São os rendimentos provenientes do trabalho que constituem, normalmente, a base
 Optando pela indemnização em vez da reintegração, o trabalhador está a prescindir do seu meio de subsistência regular, isto é, dos rendimentos que constituem a sua base de subsistência, pois se a quisesse continuar a assegurar, optaria pela reintegração.
 
 Concluindo, não revestindo a indemnização em substituição da reintegração uma prestação paga a prazo e que vise assegurar a subsistência do executado, não está sujeita ao regime da impenhorabilidade constante do art. 738.º/1, do CPCivil. - Nelson Borges Carneiro.
+
+118843925

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/19/2026/01/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19-2026-1016097566
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-20T00:00:00Z'
+  retrieved_at: '2026-10-22T18:29:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59ce2c3d047e3912af8ab2bbbb3193b9d62621a45e19dfabdfe13e9da9e83234
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 056c7ef650b435e431dbf6736294dc228fbfb2d20aff146e8af6aceeefb1939f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:29:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Unidade de Saúde Familiar
-- Serviço Nacional de Saúde
-- Recrutamento de Pessoal
 - Administração Central do Sistema de Saúde
 - Cuidados Médicos
 - Direção Executiva do Serviço Nacional de Saúde
+- Recrutamento de Pessoal
+- Serviço Nacional de Saúde
+- Unidade de Saúde Familiar
 relationships:
+- type: amends
+  target: pt:numero:portaria:302/2024
+  label: Altera, a partir de 25 de janeiro de 2025, com efeitos a 21 de janeiro de 2025, o artigo 6.º e revoga o n.º 4 do
+    artigo 6.º da Portaria n.º 302/2024/1, de 25 de novembro, Diário da República n.º 228/2024, Série I
+  source: null
+  date: '2024-11-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/103/2023/11/07/p/dre
   label: null
@@ -97,16 +103,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/364/2025/10/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/364/2025/10/22/p/dre
+- type: cites
+  target: pt:dre:124417108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223906279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:897543553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901536086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928659530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:941547432:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:29:27Z'
   warnings: []
   errors: []
 ---
@@ -159,4 +193,6 @@ d) [...]
 
 A presente portaria produz efeitos no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Gestão da Saúde, Francisco Nuno Rocha Gonçalves, em 6 de janeiro de 2026.**
+O Secretário de Estado da Gestão da Saúde, Francisco Nuno Rocha Gonçalves, em 6 de janeiro de 2026.
+
+119947321

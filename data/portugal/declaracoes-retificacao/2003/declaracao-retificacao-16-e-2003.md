@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 253/2003, 2º Suplemento, Série I-B de 2003-10-31
   number: '253'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 7314-(6) a 7314-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2003/10/253b02/00060006.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/16-e/2003/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-e-2003-439831
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-10-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:02:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10e04620e6f63f7a7a9c015a605d20b0a0aaf543135295cfde2e821d44a5910c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7465c9723491cea72572b90ab4a14b4fb64333c40a12b7a0c94589a8cd9e7d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:02:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,25 +70,29 @@ reuse:
 subjects:
 - Aprendizagem
 - Formação Profissional
-- Pesca
 - Jovem Trabalhador
-- Qualificação Profissional
+- Pesca
 - Política de Emprego
+- Qualificação Profissional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1226/2003/10/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1226/2003/10/20/p/dre
+- type: cites
+  target: pt:dre:476526:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:02:19Z'
   warnings: []
   errors: []
 ---

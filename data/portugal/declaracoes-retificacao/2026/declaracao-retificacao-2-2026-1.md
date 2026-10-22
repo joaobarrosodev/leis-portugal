@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/2/2026/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/2-2026-1006464124
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-14T00:00:00Z'
+  retrieved_at: '2026-10-22T18:28:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9cb70b3e6d79c53dd6ae19ec419ac7dd2905dae1f09fe01d34200a40384172dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86153f52e8f0084021de1b753fb164d692573445b62709f15528253632fa3c0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:28:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contrato de Seguro
+- Administração Central do Sistema de Saúde
+- Agência Portuguesa do Ambiente
 - Capital Social
+- Contrato de Seguro
 - Direito de Regresso
 - Medicina Física e de Reabilitação
-- Administração Central do Sistema de Saúde
 - TAXA de Prestação de Serviços
-- Agência Portuguesa do Ambiente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/108/2018/12/03/p/dre
@@ -95,16 +95,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/423/2025/11/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/423/2025/11/26/p/dre
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:940951437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:953220529:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:portaria:423/2025
+  label: Retifica o artigo 7.º e o n.º 2 do artigo 8.º da Portaria n.º 423/2025/1, de 26 de novembro, Diário da República
+    n.º 229/2025, Série I
+  source: null
+  date: '2025-11-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:28:52Z'
   warnings: []
   errors: []
 ---
@@ -130,3 +160,5 @@ deve ler-se:
 «2 - Os especialistas em física médica referidos no número anterior devem comunicar à ERS e à ACSS, I. P., o número da apólice do seguro que subscreveram, no prazo de 30 dias após a subscrição do mesmo.»
 
 Secretaria-Geral do Governo, 9 de janeiro de 2026. - O Secretário-Geral Adjunto, Joaquim Cruz.
+
+119947236

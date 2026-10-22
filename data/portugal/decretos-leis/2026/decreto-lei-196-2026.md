@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/09/18900/0000200014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,26 +46,58 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/196/2026/09/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2026-1174343372
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-29T00:00:00Z'
+  retrieved_at: '2026-10-22T18:54:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a3308f429c465a3db721135f07b53745bb53d6e3fd567cfca13289b4c3e6960
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: afd4cf9941979ec2c2e605c168731532b64eb811274c321ae1b08b5bed905dbf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:54:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio Administrativo
+- Assessor
+- Conselho Superior da Magistratura
+- Conselho Superior dos Tribunais Administrativos e Fiscais
+- Estágio Profissional
+- Férias
+- Incompatibilidades
+- Isenção de Horário de Trabalho
+- Magistrado do Ministério Público
+- Magistrado Judicial
+- Plano de Recuperação e Resiliência
+- Procuradoria Geral da República
+- Remuneração
+- Supremo Tribunal Administrativo
+- Supremo Tribunal de Justiça
+- Tribunal Administrativo
+- Tribunal Central Administrativo
+- Tribunal da Relação
+- Tribunal de Comarca
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:73/2002
+  label: Altera, a partir de 28 de novembro de 2026, os artigos 3.º, 13.º e revoga os n.ºs 5,6,7,8,9,10 e 11 do artigo 13.º
+    do Decreto-Lei n.º 73/2002, de 26 de março, Diário da República n.º 72/2002, Série I-A
+  source: null
+  date: '2002-03-26'
+- type: amends
+  target: pt:numero:decreto-lei:74/2002
+  label: Altera, a partir de 28 de novembro de 2026, os artigos 3.º, 13.º e revoga os n.ºs 5, 6, 7, 8, 9, 10 e 11 do artigo
+    13.º do Decreto-Lei n.º 74/2002, de 26 de março; do Decreto-Lei n.º 74/2002, de 26 de março, Diário da República n.º 72/2002,
+    Série I-A
+  source: null
+  date: '2002-03-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106/1998/04/24/p/dre
   label: null
@@ -106,16 +138,66 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/66-b/2007/12/28/p/dr
   label: null
   source: http://data.dre.pt/eli/lei/66-b/2007/12/28/p/dr
+- type: cites
+  target: pt:dre:176328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611493:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:49/2014
+  label: Revoga, a partir de 28 de novembro de 2026, os artigos 28.º, 29.º, 30.º,31.º e 32.º do Decreto-Lei n.º 49/2014, de
+    27 de março, Diário da República n.º 61/2014, Série I
+  source: null
+  date: '2014-03-27'
 article_structure:
-  article_count: 32
+  article_count: 30
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:54:04Z'
   warnings: []
   errors: []
 ---
@@ -416,7 +498,9 @@ f) [...]
 
 3 - [...]
 
-###### Artigo 13.º — Gabinete de Assessores dos Juízes Conselheiros e Gabinete de Assessores dos Magistrados do Ministério Público
+Artigo 13.º
+
+Gabinete de Assessores dos Juízes Conselheiros e Gabinete de Assessores dos Magistrados do Ministério Público
 
 1 - O Gabinete de Assessores dos Juízes Conselheiros e o Gabinete de Assessores dos Magistrados do Ministério Público compõem-se de assessores magistrados e não magistrados e de secretários, sendo o número de assessores magistrados fixado pela portaria a que se refere o n.º 3 do artigo 16.º
 
@@ -468,7 +552,9 @@ f) [...]
 
 3 - [...]
 
-###### Artigo 13.º — Gabinete de Assessores dos Juízes Conselheiros e Gabinete de Assessores dos Magistrados do Ministério Público
+Artigo 13.º
+
+Gabinete de Assessores dos Juízes Conselheiros e Gabinete de Assessores dos Magistrados do Ministério Público
 
 1 - O Gabinete de Assessores dos Juízes Conselheiros e o Gabinete de Assessores dos Magistrados Ministério Público compõem-se de assessores magistrados e não magistrados e de secretários, sendo o número de assessores magistrados fixado pela portaria a que se refere o n.º 3 do artigo 16.º
 
@@ -502,9 +588,9 @@ No prazo máximo de um ano a contar da data de entrada em vigor do presente decr
 
 São revogados:
 
-a) Os n.<sup>os</sup>5 a 11 do artigo 13.º do [Decreto-Lei n.º 73/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2002-300607), de 26 de março;
+a) Os n.os5 a 11 do artigo 13.º do [Decreto-Lei n.º 73/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2002-300607), de 26 de março;
 
-b) Os n.<sup>os</sup>5 a 11 do artigo 13.º do [Decreto-Lei n.º 74/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2002-300608), de 26 de março;
+b) Os n.os5 a 11 do artigo 13.º do [Decreto-Lei n.º 74/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2002-300608), de 26 de março;
 
 c) Os artigos 28.º a 32.º do [Decreto-Lei n.º 49/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2014-571615), de 27 de março, na sua redação atual, que regulamenta a [Lei n.º 62/2013](https://diariodarepublica.pt/dr/detalhe/lei/62-2013-499514), de 26 de agosto (LOSJ), e estabelece o regime aplicável à organização e funcionamento dos tribunais judiciais (RLOSJ).
 
@@ -524,15 +610,15 @@ O presente decreto-lei entra em vigor 60 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de julho de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Rita Alarcão Júdice.
 
-**Promulgado em 16 de setembro de 2026.**
+Promulgado em 16 de setembro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 17 de setembro de 2026.**
+Referendado em 17 de setembro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o n.º 3 do artigo 8.º)
 
@@ -559,3 +645,5 @@ iii) A preparação e acompanhamento, na jurisdição criminal, da prestação d
 iv) Prestar apoio técnico na preparação e acompanhamento de outras declarações e depoimentos.
 
 d) Compete ao assessor nas áreas da engenharia, arquitetura, criminologia, ciências forenses e ciências médicas, bem como em todas as outras áreas consideradas relevantes por deliberação do Conselho Superior da Magistratura, do Conselho Superior dos Tribunais Administrativos e Fiscais ou da Procuradoria-Geral da República, nos termos do artigo 8.º e por determinação do magistrado competente, conforme aplicável, prestar assessoria na respetiva área de especialidade, designadamente através da prestação de apoio técnico-científico na preparação e acompanhamento de diligências ou outros atos processuais.
+
+119949609

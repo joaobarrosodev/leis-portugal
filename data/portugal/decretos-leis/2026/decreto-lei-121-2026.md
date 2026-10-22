@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/121/2026/06/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2026-1135578393
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-23T00:00:00Z'
+  retrieved_at: '2026-10-22T18:44:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0cc5965c600c173bd0c36827d99c41f085fe7243f1036953d7bc188f8aa91287
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9267ef9c906575562cabfd66ab24299058b40161a82944c6cf950ebc57bfbaa3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:44:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,23 @@ reuse:
 subjects:
 - Armazenagem
 - Cooperação Transfronteira
+- Embalagem
 - Equipamento Militar
 - Etiquetagem
 - Instalação Militar
-- Embalagem
-- Proteção do Ambiente
 - Plano de Emergência
-- Qualidade do Ambiente
 - Poluição
+- Proteção do Ambiente
+- Qualidade do Ambiente
 - Substância Perigosa
 - Substância Perigosa e Explosiva
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:150/2015
+  label: Altera, a partir de 28 de junho de 2026, os artigos 2.º, 11.º, 28.º e 29.º do Decreto-Lei n.º 150/2015, de 5 de agosto,
+    Diário da República n.º 151/2015, Série I
+  source: null
+  date: '2015-08-05'
 - type: cites
   target: celex:32012L0018
   label: null
@@ -103,20 +109,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/68/2021/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/68/2021/08/26/p/dre
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140087203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170221042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69951097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75177807:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32012L0018
   label: null
   source: null
 article_structure:
-  article_count: 5
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:44:36Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +153,7 @@ de 23 de junho
 
 O [Decreto-Lei n.º 150/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2015-69951097), de 5 de agosto, estabelece o regime de prevenção de acidentes graves que envolvem substâncias perigosas e de limitação das suas consequências para a saúde humana e para o ambiente, tendo transposto para a ordem jurídica interna a [Diretiva n.º 2012/18/UE](https://data.europa.eu/eli/dir/2012/18/oj?locale=pt), do Parlamento Europeu e do Conselho, de 4 de julho de 2012, relativa ao controlo dos perigos associados a acidentes graves que envolvem substâncias perigosas, também designada de Diretiva Seveso III.
 
-A Comissão Europeia adotou diligências de avaliação da transposição da Diretiva mencionada, tendo vindo a considerar a necessidade de se retificar determinados artigos constantes do [Decreto-Lei n.º 150/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2015-69951097), de 5 de agosto, por não terem sido corretamente transpostos. Assim, o Estado português foi notificado da decisão da Comissão Europeia de instauração de um processo de infração ao abrigo do artigo 258.º do Tratado de Funcionamento da União Europeia, com fundamento na incorreta transposição de vários artigos da Diretiva Seveso III. A Comissão Europeia alegou que o Estado português incumpriu as obrigações que lhe incumbem, ao não transpor corretamente a alínea a) do n.º 2 do artigo 2.º, o n.º 7 do artigo 12.º, os n.<sup>os</sup>2 e 3 do artigo 15.º e a alínea a) do artigo 17.º da Diretiva Seveso III.
+A Comissão Europeia adotou diligências de avaliação da transposição da Diretiva mencionada, tendo vindo a considerar a necessidade de se retificar determinados artigos constantes do [Decreto-Lei n.º 150/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2015-69951097), de 5 de agosto, por não terem sido corretamente transpostos. Assim, o Estado português foi notificado da decisão da Comissão Europeia de instauração de um processo de infração ao abrigo do artigo 258.º do Tratado de Funcionamento da União Europeia, com fundamento na incorreta transposição de vários artigos da Diretiva Seveso III. A Comissão Europeia alegou que o Estado português incumpriu as obrigações que lhe incumbem, ao não transpor corretamente a alínea a) do n.º 2 do artigo 2.º, o n.º 7 do artigo 12.º, os n.os2 e 3 do artigo 15.º e a alínea a) do artigo 17.º da Diretiva Seveso III.
 
 De forma a corresponder com a correta transposição da Diretiva mencionada para a ordem jurídica interna, o presente decreto-lei procede à primeira alteração ao [Decreto-Lei n.º 150/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2015-69951097), de 5 de agosto, de modo a garantir a cumprimento integral do direito europeu, bem como o encerramento do respetivo processo de infração.
 
@@ -169,7 +195,9 @@ h) [...]
 
 2 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -193,13 +221,15 @@ f) [...]
 
 a) Aos principais relatórios e pareceres já transmitidos à entidade responsável pela tomada de decisão no momento da informação do mesmo público por força do número anterior;
 
-b) Nos termos do disposto na [Lei n.º 26/2016](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), de 22 de agosto, alterada pelas Leis n.<sup>os</sup>[58/2019](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), de 8 de agosto, [33/2020](https://diariodarepublica.pt/dr/detalhe/lei/33-2020-140087203), de 12 de agosto, e [68/2021](https://diariodarepublica.pt/dr/detalhe/lei/68-2021-170221042), de 26 de agosto, outra informação pertinente para a decisão em causa e que só esteja disponível após a divulgação da consulta pública.
+b) Nos termos do disposto na [Lei n.º 26/2016](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), de 22 de agosto, alterada pelas Leis n.os[58/2019](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), de 8 de agosto, [33/2020](https://diariodarepublica.pt/dr/detalhe/lei/33-2020-140087203), de 12 de agosto, e [68/2021](https://diariodarepublica.pt/dr/detalhe/lei/68-2021-170221042), de 26 de agosto, outra informação pertinente para a decisão em causa e que só esteja disponível após a divulgação da consulta pública.
 
 5 - [...]
 
 6 - [...]
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...]
 
@@ -207,7 +237,9 @@ b) Nos termos do disposto na [Lei n.º 26/2016](https://diariodarepublica.pt/dr/
 
 3 - [...]
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...]
 
@@ -227,12 +259,14 @@ e) [Anterior alínea d).]
 
 Visto e aprovado em Conselho de Ministros de 30 de abril de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Maria da Graça Carvalho.
 
-**Promulgado em 15 de junho de 2026.**
+Promulgado em 15 de junho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 16 de junho de 2026.**
+Referendado em 16 de junho de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119948840

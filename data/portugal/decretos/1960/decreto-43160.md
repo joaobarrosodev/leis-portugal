@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43160-1960-515196
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-09-12T00:00:00Z'
+  retrieved_at: '2026-10-22T19:19:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d45badc2cf6d58dd5d3321cfaa00353e8a6f8114f964347552147ca8922d1cca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f0c35fc0d83226b5613bd9532e07297db864d905a343055c51010714de5b042
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:19:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:423460:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:19:37Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +94,7 @@ Considerando a urgência na referida providência, prevista na alínea a) do n.�
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O papel selado pròpriamente dito para uso das províncias ultramarinas terá 25 linhas em cada lauda e as dimensões de 297 mm de altura por 210 mm de largura.
+Artigo 1.º O papel selado pròpriamente dito para uso das províncias ultramarinas terá 25 linhas em cada lauda e as dimensões de 297 mm de altura por 210 mm de largura.
 
 O selo será estampado na parte superior em relevo branco, cercado pela inscrição «Imposto do selo», a tinta de óleo, seguida da importância da taxa que vigorar na respectiva província, além da indicação desta.
 
@@ -102,9 +106,9 @@ O selo será estampado na parte superior em relevo branco, cercado pela inscriç
 
 § 4.º As entrelinhas para correcção do texto, as notas de distribuição, os despachos, as contas dos papéis avulsos e os reconhecimentos de assinaturas não se compreendem na contagem do número de linhas, mantendo-se, porém, a interdição em ultrapassar as linhas marginais.
 
-###### Art. 2.º O papel selado actualmente em uso continua a ter validade até que, por despacho do governador da respectiva província publicado no Boletim Oficial, seja fixado o prazo para a troca pelo novo formato e a data em que termina aquela validade.
+Art. 2.º O papel selado actualmente em uso continua a ter validade até que, por despacho do governador da respectiva província publicado no Boletim Oficial, seja fixado o prazo para a troca pelo novo formato e a data em que termina aquela validade.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Setembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

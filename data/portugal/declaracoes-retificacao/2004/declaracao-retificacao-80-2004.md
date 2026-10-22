@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/80/2004/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/80-2004-622591
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-09-01T00:00:00Z'
+  retrieved_at: '2026-10-22T19:04:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09e273736304c0c5474dc500a454a7cf9cd7ac612052a3d51a4c41a59d23828e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b69bda3f97439fc841618b4deeb7bae9c7acd232815e45d2362495cb29550c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:04:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assistência Médica
-- Saúde
-- Política de Saúde
-- Serviço Nacional de Saúde
-- Lista de Espera
-- Preço
-- Cuidados Médicos
 - Cirurgia
+- Cuidados Médicos
+- Lista de Espera
+- Política de Saúde
+- Preço
+- Saúde
+- Serviço Nacional de Saúde
 - Setor Privado
 - Setor Público
 - Tabela de Cuidados de Saúde
@@ -91,16 +91,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/816/2004/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/816/2004/07/15/p/dre
+- type: cites
+  target: pt:dre:527198:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:04:11Z'
   warnings: []
   errors: []
 ---
@@ -111,18 +115,18 @@ Segundo comunicação do Ministério da Saúde, a [Portaria n.º 816/2004](https
 
 1 - No anexo I, «Tabela de preços - Programa Especial de Combate às Listas de Espera Cirúrgicas - Hospitais do Serviço Nacional de Saúde», onde se lê:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58715871.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58715871.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58715871.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58715871.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58715871.pdf)
 
 deve ler-se:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58715871.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58715871.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58715871.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58715871.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58715871.pdf)
 
 2 - No anexo II, «Tabela de preços - Programa Especial de Combate às Listas de Espera Cirúrgicas - Estabelecimentos de saúde privados e do sector social», onde se lê:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58715871.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58715871.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58715871.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58715871.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58715871.pdf)
 
 deve ler-se:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58715871.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58715871.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58715871.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58715871.pdf)](https://files.diariodarepublica.pt/1s/2004/09/206b00/58715871.pdf)
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 17 de Agosto de 2004. - O Secretário-Geral, José M. Sousa Rego.

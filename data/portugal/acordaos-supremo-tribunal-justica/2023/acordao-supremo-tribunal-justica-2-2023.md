@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/02300/0002200041.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/2/2023/02/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/2-2023-206800919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-01T00:00:00Z'
+  retrieved_at: '2026-10-22T17:54:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de3dd61ba60a6cb802e30fb1edb5732922576d42ba0e16248f1d8eea19e80039
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ecf8850f86af4204d7796fc13e72e8ed967f7e49677dd2578428db37c9d6516
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:54:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Direito Penal
+- Epidemia
 - Execução de Penas
 - Interpretação do Direito
 - Jurisprudencia
-- Sanção Penal
 - Perdão da Pena
-- Epidemia
-- Supremo Tribunal de Justiça
 - Recluso
-- Direito Penal
+- Sanção Penal
+- Supremo Tribunal de Justiça
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/15/1993/01/22/p/dre
@@ -100,16 +100,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/9/2020/04/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/9/2020/04/10/p/dre
+- type: cites
+  target: pt:dre:130473088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131338919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:134762423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175923954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585178:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:54:35Z'
   warnings: []
   errors: []
 ---
@@ -695,3 +719,5 @@ Sem custas.
 (31) Parecer do Conselho Consultivo da Procuradoria-Geral da República n.º 10/20.
 
 Supremo Tribunal de Justiça, 15 de dezembro de 2022. - Paulo Ferreira da Cunha (relator) - Maria Teresa Féria Gonçalves de Almeida - Eduardo Loureiro - António Gama - Sénio Alves - João Guerra - Ana Maria Barata de Brito - Orlando M. J. Gonçalves - Maria do Carmo Silva Dias - Pedro B. Ferreira Dias - Leonor Furtado - Teresa Almeida - Ernesto Carlos dos Reis Vaz Pereira - Helena Moniz - José Luís Lopes da Mota - Maria da Conceição Simão Gomes - Nuno António Gonçalves.
+
+116101977

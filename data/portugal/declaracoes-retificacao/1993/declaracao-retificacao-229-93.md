@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 280/1993, 3º Suplemento, Série I-A de 1993-11-30
   number: '280'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 6712-(14) a 6712-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/11/280a03/00140014.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/229/1993/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/229-1993-428842
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:38:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2365dd31faca598b11f30844ce99f3c24ce513d76f6ebad4f3e81e65da2feb2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a29aeb977b96e99c88c230d569d469efe01d7e6d7278dcc7cc63aea288c74d19
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:38:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,39 +66,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal do MAR
 - Direcção Geral das Pescas
-- Sistema Retributivo
 - Gabinete de Estudos e Planeamento das Pescas
-- Ministério do MAR
 - Inspecção Geral das Pescas
 - Instituto Português de Conservas e Pescado
 - Integração de Trabalhadores
+- Ministério do MAR
 - Orgânica
 - Pessoal de Inspecção
+- Pessoal do MAR
 - Quadro de Pessoal
 - Serviço Regional
+- Sistema Retributivo
 - Transferência de Competências
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/320/1993/09/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/320/1993/09/21/p/dre
+- type: cites
+  target: pt:dre:655518:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:38:03Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 229/93
+# Declaração de rectificação n.º 229/93
 
 Para os devidos efeitos se declara que o [Decreto-Lei n.º 320/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1993-655518), publicado no Diário da República, n.º 222, de 21 de Setembro de 1993, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
 

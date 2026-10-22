@@ -92,6 +92,13 @@ relationships:
   target: pt:dre:1147477300:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:portaria:265-A/2026
+  label: Altera, a partir de 27 de junho de 2026, o artigo 9.º da Portaria n.º 265-A/2026/1, de 17 de junho, Diário da República
+    n.º 115/2026, Suplemento, Série I, altera os artigos 9.º, 13.º e 15.º e o anexo i do Regulamento do RIPAC anexo a essa
+    portaria, e republica o referido Regulamento
+  source: null
+  date: '2026-06-17'
 - type: cites
   target: celex:32014R0651
   label: null
@@ -132,6 +139,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/72/2016/11/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/72/2016/11/24/p/dre
+- type: cites
+  target: pt:dre:1053378382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1133905372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115172414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170175411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75796596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928215560:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1147477300:por
+  label: Retificado o n.º 1 do artigo 3.º (que altera o RIPAC, aprovado em anexo à Portaria n.º 265-A/2026/1, de 17 de junho)
+    pelo(a) Declaração de Retificação n.º 28/2026/1 - Diário da República n.º 135/2026, Série I de 2026-07-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/28-2026-1147477300
+  date: '2026-07-14'
 article_structure:
   article_count: 37
   section_count: 10

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44763-1962-155605
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-06-08T00:00:00Z'
+  retrieved_at: '2026-10-22T19:32:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e55919c1b8d1f8924309863d946b070c746fc7ebe9ecf3136b2465954dccd1f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 874c75e7f8bd6a480ac8ab231024d23d5770b0d6b94d08bb8da0db73b9817bec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:32:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,21 @@ relationships:
   target: pt:dre:294889:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:294889:por
+  label: Revogado pelo(a) Decreto n.º 46371 - Diário do Governo n.º 128/1965, Série I de 1965-06-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/46371-1965-294889
+  date: '1965-06-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:32:41Z'
   warnings: []
   errors: []
 ---
@@ -96,17 +101,17 @@ Usando da competência conferida pelo n.º 3.º do artigo 150.º da Constituiç�
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º É proibida a importação, a indústria, o comércio, a detenção e o uso de estupefacientes na província de Macau, salvo para fins medicinais e científicos, nos termos e nas condições fixados no presente diploma.
+Artigo 1.º É proibida a importação, a indústria, o comércio, a detenção e o uso de estupefacientes na província de Macau, salvo para fins medicinais e científicos, nos termos e nas condições fixados no presente diploma.
 
-###### Art. 2.º São estupefacientes, mesmo quando produzidos ou obtidos industrialmente por meios sintéticos, os produtos e as drogas constantes da lista anexa ao presente diploma e que dele faz parte integrante, incluindo as respectivas preparações, alcalóides e seus derivados.
+Art. 2.º São estupefacientes, mesmo quando produzidos ou obtidos industrialmente por meios sintéticos, os produtos e as drogas constantes da lista anexa ao presente diploma e que dele faz parte integrante, incluindo as respectivas preparações, alcalóides e seus derivados.
 
 § único. À medida que outros produtos ou drogas susceptíveis de gerar a toxicomania forem aparecendo no mercado ou que, pelo Comité Central Permanente do ópio do Conselho Económico e Social das Nações Unidas, venha a ser recomendado que fiquem sob contrôle internacional, a sua inclusão naquela lista será feita por despacho do governador, sob informação do chefe dos serviços de saúde, a publicar no Boletim Oficial.
 
 ### CAPÍTULO II — Do comércio e uso de estupefacientes
 
-###### Art. 3.º Só a Repartição Provincial dos Serviços de Saúde e Higiene da província o os laboratórios de indústria farmacêutica ou as farmácias legalmente estabelecidos, pertencentes a firmas registadas na Conservatória do Registo Comercial, podem importar os estupefacientes de que trata o presente diploma, exclusivamente para os fins e nos termos e condições nele expressos.
+Art. 3.º Só a Repartição Provincial dos Serviços de Saúde e Higiene da província o os laboratórios de indústria farmacêutica ou as farmácias legalmente estabelecidos, pertencentes a firmas registadas na Conservatória do Registo Comercial, podem importar os estupefacientes de que trata o presente diploma, exclusivamente para os fins e nos termos e condições nele expressos.
 
-###### Art. 4.º Os laboratórios da indústria farmacêutica e as farmácias interessados na importação de qualquer espécie ou quantidade de estupefacientes requererão ao governador da província a autorização dessa importação, mencionando: a origem, quantidades e espécies e o nome industrial ou comercial desses produtos.
+Art. 4.º Os laboratórios da indústria farmacêutica e as farmácias interessados na importação de qualquer espécie ou quantidade de estupefacientes requererão ao governador da província a autorização dessa importação, mencionando: a origem, quantidades e espécies e o nome industrial ou comercial desses produtos.
 
 § 1.º Os requerimentos serão instruídos com uma certidão do registo da respectiva firma na Conservatória do Registo Comercial e com uma declaração, com assinatura reconhecida por notário, de que a importação será em tudo, condicionada às disposições do presente diploma Havendo certidão de registo da firma na Conservatória do Registo Comercial, junta a processos de importação anteriores, será tal declaração, nos pedidos posteriores, substituída por simples informação da mesma Conservatória, no sentido de comprovar que aquele registo não foi cancelado.
 
@@ -120,15 +125,15 @@ Usando da competência conferida pelo n.º 3.º do artigo 150.º da Constituiç�
 
 § 6.º Os certificados terão numeração especial dada pela Repartição Provincial dos Serviços de Saúde e Higiene e serão registados na Polícia Judiciária, na Polícia de Segurança Pública, na Polícia Marítima e Fiscal, na Repartição Provincial dos Serviços de Administração Civil, na Repartição Provincial dos Serviços de Economia e Estatística Geral e na Repartição Provincial dos Correios, Telégrafos e Telefones.
 
-###### Art. 5.º O processo para a autorização de importação de estupefacientes destinados à Secção Farmacêutica da Repartição Provincial dos Serviços de Saúde e Higiene terá por base uma proposta do chefe da referida Secção, seguindo-se na parte aplicável o disposto no artigo anterior.
+Art. 5.º O processo para a autorização de importação de estupefacientes destinados à Secção Farmacêutica da Repartição Provincial dos Serviços de Saúde e Higiene terá por base uma proposta do chefe da referida Secção, seguindo-se na parte aplicável o disposto no artigo anterior.
 
-###### Art. 6.º Os certificados referidos nos artigos anteriores serão remetidos pelos interessados às firmas ou laboratórios fornecedores, para que, juntamente com a autorização de exportação passada pela autoridade competente do país exportador, acompanhem os produtos a que dizem respeito.
+Art. 6.º Os certificados referidos nos artigos anteriores serão remetidos pelos interessados às firmas ou laboratórios fornecedores, para que, juntamente com a autorização de exportação passada pela autoridade competente do país exportador, acompanhem os produtos a que dizem respeito.
 
-###### Art. 7.º Os volumes ou encomendas contendo estupefacientes devem trazer exteriormente, bem visíveis, a palavra «Estupefacientes» e a indicação: «Importação autorizada pelo certificado n.º ...».
+Art. 7.º Os volumes ou encomendas contendo estupefacientes devem trazer exteriormente, bem visíveis, a palavra «Estupefacientes» e a indicação: «Importação autorizada pelo certificado n.º ...».
 
-###### Art. 8.º A entrada na província, por qualquer via, de estupefacientes cuja importação tenha sido autorizada, só pode realizar-se mediante licença especial, conforme o modelo n.º 2 anexo ao presente diploma, passada pela Repartição Provincial dos Serviços de Saúde e Higiene, para efeito da qual os importadores ficam obrigados a declarar, naqueles serviços, a chegada dos mesmos estupefacientes à província e a via por que vierem.
+Art. 8.º A entrada na província, por qualquer via, de estupefacientes cuja importação tenha sido autorizada, só pode realizar-se mediante licença especial, conforme o modelo n.º 2 anexo ao presente diploma, passada pela Repartição Provincial dos Serviços de Saúde e Higiene, para efeito da qual os importadores ficam obrigados a declarar, naqueles serviços, a chegada dos mesmos estupefacientes à província e a via por que vierem.
 
-###### Art. 9.º Todos os volumes ou encomendas contendo estupefacientes legalmente importados serão, antes do seu levantamento, abertos e conferidos pelo director do Depósito Central de Medicamentos e Material Cirúrgico da Repartição Provincial dos Serviços de Saúde e Higiene, em presença do importador ou seu representante. Destes actos lavrar-se-á auto, em triplicado, sendo o original arquivado naquele Depósito Central, o duplicado entregue ao importador e o triplicado remetido àquela Repartição.
+Art. 9.º Todos os volumes ou encomendas contendo estupefacientes legalmente importados serão, antes do seu levantamento, abertos e conferidos pelo director do Depósito Central de Medicamentos e Material Cirúrgico da Repartição Provincial dos Serviços de Saúde e Higiene, em presença do importador ou seu representante. Destes actos lavrar-se-á auto, em triplicado, sendo o original arquivado naquele Depósito Central, o duplicado entregue ao importador e o triplicado remetido àquela Repartição.
 
 § 1.º A conferência a que este artigo se refere será feita perante o certificado de autorização de importação, as facturas da casa fornecedora e o certificado passado pelo governo do país exportador.
 
@@ -136,105 +141,105 @@ Usando da competência conferida pelo n.º 3.º do artigo 150.º da Constituiç�
 
 § 3.º As espécies e quantidades de estupefacientes que se verificar excederem as que foram autorizadas pelo certificado de importação serão, acto contínuo, confiscadas a favor da província, e terão a aplicação ou o destino que o governador determinar, sem prejuízo de qualquer outro procedimento que possa caber contra o importador.
 
-###### Art. 10.º As Repartições Provinciais dos Serviços de Marinha e dos Serviços dos Correios, Telégrafos e Telefones participarão ao chefe da Repartição Provincial dos Serviços de Saúde as chegadas de volumes ou encomendas que contenham estupefacientes, indicando o nome do importador e o número do certificado de autorização de importação que lhes respeitam.
+Art. 10.º As Repartições Provinciais dos Serviços de Marinha e dos Serviços dos Correios, Telégrafos e Telefones participarão ao chefe da Repartição Provincial dos Serviços de Saúde as chegadas de volumes ou encomendas que contenham estupefacientes, indicando o nome do importador e o número do certificado de autorização de importação que lhes respeitam.
 
 § único. As autoridades referidas neste artigo guardarão os volumes ou encomendas que contenham estupefacientes, só permitindo o seu levantamento mediante a apresentação da licença referida no artigo 8.º e depois de efectuada a conferência referida no artigo 9.º
 
-###### Art. 11.º Os certificados de autorização de importação de estupefacientes caducam com a entrada na província, total ou parcialmente, de qualquer espécie de estupefacientes neles mencionados.
+Art. 11.º Os certificados de autorização de importação de estupefacientes caducam com a entrada na província, total ou parcialmente, de qualquer espécie de estupefacientes neles mencionados.
 
-###### Art. 12.º A exportação das especialidades farmacêuticas referidas no artigo 21.º e a reexportação de quaisquer produtos ou drogas, legalmente importados, dos inscritos na lista a que se refere o artigo 2.º, só são autorizadas se se destinarem a serviços de saúde de outros territórios nacionais ou estrangeiros. Tal autorização será dada pelo governador da província, sobre informação do chefe da Repartição Provincial dos Serviços de Saúde e Higiene, e a pedido dos governos interessados.
+Art. 12.º A exportação das especialidades farmacêuticas referidas no artigo 21.º e a reexportação de quaisquer produtos ou drogas, legalmente importados, dos inscritos na lista a que se refere o artigo 2.º, só são autorizadas se se destinarem a serviços de saúde de outros territórios nacionais ou estrangeiros. Tal autorização será dada pelo governador da província, sobre informação do chefe da Repartição Provincial dos Serviços de Saúde e Higiene, e a pedido dos governos interessados.
 
-###### Art. 13.º Só a Secção Farmacêutica da Repartição Provincial dos Serviços de Saúde e Higiene, os laboratórios de indústria farmacêutica e as farmácias legalmente estabelecidos na província podem exercer o comércio de estupefacientes.
+Art. 13.º Só a Secção Farmacêutica da Repartição Provincial dos Serviços de Saúde e Higiene, os laboratórios de indústria farmacêutica e as farmácias legalmente estabelecidos na província podem exercer o comércio de estupefacientes.
 
-###### Art. 14.º A venda ao público de qualquer quantidade ou espécie de estupefacientes só poderá ser feita mediante receita médica, que deverá indicar, claramente, o nome e residência do médico que a expedir e subscrever e o nome e residência do doente a quem os estupefacientes se destinam.
+Art. 14.º A venda ao público de qualquer quantidade ou espécie de estupefacientes só poderá ser feita mediante receita médica, que deverá indicar, claramente, o nome e residência do médico que a expedir e subscrever e o nome e residência do doente a quem os estupefacientes se destinam.
 
-###### Art. 15.º Aos médicos e aos dentistas que, legalmente, exercerem a sua profissão na província é permitido, mediante autorização do chefe da Repartição Provincial dos Serviços de Saúde e Higiene, requisitar, às farmácias, pequenas quantidades de estupefacientes para uso nos seus consultórios, justificando, posteriormente, perante aquele, a utilização de tais estupefacientes, que só poderão ser ministrados pelo médico ou dentista que os requisitou, ou sob a sua fiscalização directa e pessoal. A justificação será feita, trimestralmente, em carta confidencial (modelo n.º 3), que mencionará, além da data da utilização dos produtos e suas quantidades, o nome e a morada do doente ou doentes a quem foram ministrados.
+Art. 15.º Aos médicos e aos dentistas que, legalmente, exercerem a sua profissão na província é permitido, mediante autorização do chefe da Repartição Provincial dos Serviços de Saúde e Higiene, requisitar, às farmácias, pequenas quantidades de estupefacientes para uso nos seus consultórios, justificando, posteriormente, perante aquele, a utilização de tais estupefacientes, que só poderão ser ministrados pelo médico ou dentista que os requisitou, ou sob a sua fiscalização directa e pessoal. A justificação será feita, trimestralmente, em carta confidencial (modelo n.º 3), que mencionará, além da data da utilização dos produtos e suas quantidades, o nome e a morada do doente ou doentes a quem foram ministrados.
 
-###### Art. 16.º Excepcionalmente, podem os directores técnicos dos laboratórios farmacêuticos ou das farmácias e a Secção Farmacêutica da Repartição Provincial dos Serviços de Saúde e Higiene ceder a outros laboratórios ou farmácias legalmente estabelecidos na província, ou receber deles, pequenas quantidades de estupefacientes mediante requisição autorizada pelo chefe da mesma Repartição, sendo essas quantidades movimentadas nos respectivos livros de contas correntes de estupefacientes.
+Art. 16.º Excepcionalmente, podem os directores técnicos dos laboratórios farmacêuticos ou das farmácias e a Secção Farmacêutica da Repartição Provincial dos Serviços de Saúde e Higiene ceder a outros laboratórios ou farmácias legalmente estabelecidos na província, ou receber deles, pequenas quantidades de estupefacientes mediante requisição autorizada pelo chefe da mesma Repartição, sendo essas quantidades movimentadas nos respectivos livros de contas correntes de estupefacientes.
 
-###### Art. 17.º Todas as receitas e requisições relativas a estupefacientes serão inutilizadas com o carimbo da farmácia que as atender, ficando em seu poder e constituindo justificativos de saída no livro das contas correntes.
+Art. 17.º Todas as receitas e requisições relativas a estupefacientes serão inutilizadas com o carimbo da farmácia que as atender, ficando em seu poder e constituindo justificativos de saída no livro das contas correntes.
 
-###### Art. 18.º As receitas e requisições aviadas nos termos dos artigos 14.º e 15.º serão textualmente transcritas em livro especial com os termos de abertura e encerramento lavrados pelo chefe da Repartição Provincial dos Serviços de Saúde e Higiene, que o rubricará em todas as suas páginas. Nenhuma receita ou requisição pode ser aviada mais do que uma vez, nem dela ser feita, ou dada, qualquer cópia.
+Art. 18.º As receitas e requisições aviadas nos termos dos artigos 14.º e 15.º serão textualmente transcritas em livro especial com os termos de abertura e encerramento lavrados pelo chefe da Repartição Provincial dos Serviços de Saúde e Higiene, que o rubricará em todas as suas páginas. Nenhuma receita ou requisição pode ser aviada mais do que uma vez, nem dela ser feita, ou dada, qualquer cópia.
 
 § único. Os livros mencionados no corpo do artigo ficarão sujeitos ao selo de vinte avos por cada folha, que será cobrado por meio de selo de verba.
 
-###### Art. 19.º Só aos enfermeiros, enfermeiras e parteiras, devidamente registados na Repartição Provincial dos Serviços de Saúde e Higiene, é lícito ministrar estupefacientes prescritos pelos médicos. Quando eles não recebam directamente do médico a indicação e as instruções inerentes a tal ministração, deverão, antes de a executar, solicitar-lhas e delas tomar nota por escrito, esclarecendo a identidade do doente e a dosificação e espécie de estupefaciente prescrito e a ministrar. O médico confirmará posteriormente, por escrito, a prescrição do medicamento.
+Art. 19.º Só aos enfermeiros, enfermeiras e parteiras, devidamente registados na Repartição Provincial dos Serviços de Saúde e Higiene, é lícito ministrar estupefacientes prescritos pelos médicos. Quando eles não recebam directamente do médico a indicação e as instruções inerentes a tal ministração, deverão, antes de a executar, solicitar-lhas e delas tomar nota por escrito, esclarecendo a identidade do doente e a dosificação e espécie de estupefaciente prescrito e a ministrar. O médico confirmará posteriormente, por escrito, a prescrição do medicamento.
 
-###### Art. 20.º Na Secção Farmacêutica da Repartição Provincial dos Serviços de Saúde e Higiene, nos laboratórios e nas farmácias existirá um livro de contas correntes de estupefacientes, rubricado e com termos de abertura e encerramento como se dispõe no artigo 18.º, no qual será aberta uma conta para cada espécie de estupefaciente, conforme a sua marca ou nome industrial.
+Art. 20.º Na Secção Farmacêutica da Repartição Provincial dos Serviços de Saúde e Higiene, nos laboratórios e nas farmácias existirá um livro de contas correntes de estupefacientes, rubricado e com termos de abertura e encerramento como se dispõe no artigo 18.º, no qual será aberta uma conta para cada espécie de estupefaciente, conforme a sua marca ou nome industrial.
 
-###### Art. 21.º A preparação, por qualquer laboratório ou farmácia, de especialidades farmacêuticas em cuja composição entrem estupefacientes, não é permitida sem prévia autorização do chefe da Repartição Provincial dos Serviços de Saúde e Higiene, sobre requerimento do interessado, indicando a quantidade e espécie do estupefaciente a empregar e número de unidades da especialidade a preparar.
+Art. 21.º A preparação, por qualquer laboratório ou farmácia, de especialidades farmacêuticas em cuja composição entrem estupefacientes, não é permitida sem prévia autorização do chefe da Repartição Provincial dos Serviços de Saúde e Higiene, sobre requerimento do interessado, indicando a quantidade e espécie do estupefaciente a empregar e número de unidades da especialidade a preparar.
 
 § único. A Repartição Provincial dos Serviços de Saúde e Higiene poderá retirar das especialidades apresentadas à venda uma ou mais embalagens para as analisar.
 
-###### Art. 22.º Os laboratórios e farmácias enviarão trimestralmente - até ao dia 10 dos meses de Janeiro, Abril, Julho e Outubro - à Repartição Provincial dos Serviços de Saúde e Higiene um mapa, conforme o modelo n.º 4, das entradas e saídas de estupefacientes, a que juntarão os justificativos das quantidades e espécies dessas entradas e saídas
+Art. 22.º Os laboratórios e farmácias enviarão trimestralmente - até ao dia 10 dos meses de Janeiro, Abril, Julho e Outubro - à Repartição Provincial dos Serviços de Saúde e Higiene um mapa, conforme o modelo n.º 4, das entradas e saídas de estupefacientes, a que juntarão os justificativos das quantidades e espécies dessas entradas e saídas
 
-###### Art. 23.º A Secção Farmacêutica da Repartição Provincial dos Serviços de Saúde e Higiene enviará, também trimestralmente, ao chefe da mesma Repartição um mapa modelo n.º 4, em duplicado, do movimento de estupefacientes da Farmácia do Estado, relativo a esse período.
+Art. 23.º A Secção Farmacêutica da Repartição Provincial dos Serviços de Saúde e Higiene enviará, também trimestralmente, ao chefe da mesma Repartição um mapa modelo n.º 4, em duplicado, do movimento de estupefacientes da Farmácia do Estado, relativo a esse período.
 
-###### Art. 24.º O aviamento de estupefacientes pelas farmácias autorizadas, seja qual for a sua forma farmacêutica, não pode ser efectivado sem que as embalagens em que são entregues sejam rotuladas com a indicação dos produtos e quantidades nelas contidos, legìvelmente mencionados.
+Art. 24.º O aviamento de estupefacientes pelas farmácias autorizadas, seja qual for a sua forma farmacêutica, não pode ser efectivado sem que as embalagens em que são entregues sejam rotuladas com a indicação dos produtos e quantidades nelas contidos, legìvelmente mencionados.
 
 ### CAPÍTULO III — Das infracções
 
-###### Art. 25.º Aquele que fumar ou por qualquer forma consumir ou fizer uso próprio de estupefacientes, fora dos casos autorizados por lei, será condenado na pena de seis meses a um ano de prisão e multa de 5000$00 a 10000$00.
+Art. 25.º Aquele que fumar ou por qualquer forma consumir ou fizer uso próprio de estupefacientes, fora dos casos autorizados por lei, será condenado na pena de seis meses a um ano de prisão e multa de 5000$00 a 10000$00.
 
 § único. Incorrerá na mesma penalidade o que para uso próprio e ilegalmente comprar ou por qualquer forma adquirir ou detiver estupefacientes ou utensilagem própria ao uso ou consumpção dos mesmos.
 
-###### Art. 26.º Aquele que, para uso alheio e sem intenção lucrativa, comprar ou por qualquer forma adquirir, transportar ou detiver ilìcitamente estupefacientes, será condenado na pena de seis meses a dois anos de prisão e com multa até 20000$00.
+Art. 26.º Aquele que, para uso alheio e sem intenção lucrativa, comprar ou por qualquer forma adquirir, transportar ou detiver ilìcitamente estupefacientes, será condenado na pena de seis meses a dois anos de prisão e com multa até 20000$00.
 
 § único. Na mesma penalidade incorrerá o que, gratuitamente e fora dos casos autorizados por lei, fornecer a outrem qualquer estupefaciente e bem assim o que ceder gratuitamente prédio ou parte dele, instalações ou utensilagem própria para o uso ou consumpção de estupefacientes.
 
-###### Art. 27.º Aquele que, fora dos casos autorizados por lei, vender ou, por qualquer outra forma onerosa, fornecer a outrem estupefacientes, será punido com pena de prisão maior de dois a oito anos e multa de 10000$00 a 100000$00.
+Art. 27.º Aquele que, fora dos casos autorizados por lei, vender ou, por qualquer outra forma onerosa, fornecer a outrem estupefacientes, será punido com pena de prisão maior de dois a oito anos e multa de 10000$00 a 100000$00.
 
 § 1.º Na mesma pena incorrerá o que mantiver fumatório, estabelecimento ou instalações de qualquer género destinadas a uso ou consumpção, à guarda, fabrico, manipulação ou venda de estupefacientes e bem assim o que arrendar ou por qualquer forma ceder, com intuito lucrativo, prédio ou parte dele, instalações ou utensilagem própria para tais fins.
 
 § 2.º Serão punidos como cúmplices os empregados nos estabelecimentos indicados no parágrafo anterior e bem assim os que anunciem, indiquem ou, por qualquer processo, divulguem a existência dos mesmos estabelecimentos.
 
-###### Art. 28.º Incorrerão na pena do artigo anterior os que, fora dos casos autorizados por lei, prepararem ou aplicarem qualquer processo de manipulação, mistura ou preparação de estupefacientes.
+Art. 28.º Incorrerão na pena do artigo anterior os que, fora dos casos autorizados por lei, prepararem ou aplicarem qualquer processo de manipulação, mistura ou preparação de estupefacientes.
 
 § 1.º A pena prevista no corpo do artigo será aplicada ao que preparar especialidades farmacêuticas em cuja composição entrem estupefacientes sem prévia autorização do chefe da Repartição Provincial dos Serviços de Saúde e Higiene e bem assim aos proprietários e directores técnicos dos laboratórios ou farmácias que adquiram ou recebam ilìcitamente ou que vendam ou forneçam ao público quaisquer estupefacientes em quantidade superior à indicada nas receitas médicas.
 
 § 2.º Nos casos previstos no parágrafo anterior poderá o juiz determinar o encerramento dos laboratórios ou estabelecimentos por um período até um ano. O encerramento será definitivo e obrigatòriamente determinado no caso de reincidência ou se os estupefacientes que o motivarem forem de valor superior a 500$00.
 
-###### Art. 29.º O que ilìcitamente importar, persuadir outrem a importar ou por qualquer forma colaborar na entrada ilícita de estupefacientes na província incorrerá na pena de prisão maior de dois a oito anos e em multa de 50000$00 a 100000$00.
+Art. 29.º O que ilìcitamente importar, persuadir outrem a importar ou por qualquer forma colaborar na entrada ilícita de estupefacientes na província incorrerá na pena de prisão maior de dois a oito anos e em multa de 50000$00 a 100000$00.
 
 § único. A mesma pena será aplicada ao que cultivar ou possuir na província planta de género Cannabis indica ou sativa ou Papaver somniferum.
 
-###### Art. 30.º Os médicos, farmacêuticos, dentistas, parteiras e pessoal de enfermagem, ou quaisquer agentes de autoridade, funcionários ou empregados públicos que cometerem ou facilitarem de qualquer modo a prática de algum dos crimes previstos neste capítulo serão punidos com prisão maior de dois a oito anos e multa de 10000$00 a 100000$00.
+Art. 30.º Os médicos, farmacêuticos, dentistas, parteiras e pessoal de enfermagem, ou quaisquer agentes de autoridade, funcionários ou empregados públicos que cometerem ou facilitarem de qualquer modo a prática de algum dos crimes previstos neste capítulo serão punidos com prisão maior de dois a oito anos e multa de 10000$00 a 100000$00.
 
 § único. Se as infracções a que se refere o corpo do artigo forem meramente culposas, a pena será de multa até 10000$00.
 
-###### Art. 31.º São punidas com multa até 15000$00 as infracções ao disposto na parte final do artigo 14.º, nos artigos 17.º, 18.º, 20.º, 22.º e 24.º, se lhes não for aplicável pena mais grave.
+Art. 31.º São punidas com multa até 15000$00 as infracções ao disposto na parte final do artigo 14.º, nos artigos 17.º, 18.º, 20.º, 22.º e 24.º, se lhes não for aplicável pena mais grave.
 
-###### Art. 32.º É punível a tentativa das infracções previstas no presente capítulo.
+Art. 32.º É punível a tentativa das infracções previstas no presente capítulo.
 
-###### Art. 33.º Para os denunciantes reverterá 15 por cento da multa aplicada, importância que sairá da percentagem a atribuir ao Estado.
+Art. 33.º Para os denunciantes reverterá 15 por cento da multa aplicada, importância que sairá da percentagem a atribuir ao Estado.
 
-###### Art. 34.º Os proprietários e bem assim os directores técnicos dos laboratórios ou farmácias que adquiram ou recebam ilìcitamente ou que vendam ou forneçam ao público quaisquer estupefacientes em quantidade superior à indicada nas receitas médicas serão punidos, cada um, com a multa de 10000$00 a 20000$00, podendo os laboratórios ou farmácias ser encerrados por período até um ano.
+Art. 34.º Os proprietários e bem assim os directores técnicos dos laboratórios ou farmácias que adquiram ou recebam ilìcitamente ou que vendam ou forneçam ao público quaisquer estupefacientes em quantidade superior à indicada nas receitas médicas serão punidos, cada um, com a multa de 10000$00 a 20000$00, podendo os laboratórios ou farmácias ser encerrados por período até um ano.
 
 § único. O encerramento será definitivo na segunda infracção ou ainda se os estupefacientes que o motivarem forem de valor superior a 500$00.
 
-###### Art. 35.º São punidas com multa até 15000$00 as infracções ao disposto na parte final do artigo 14.º e nos artigos 17.º, 18.º, 20.º, 22.º e 24.º, se lhes não for aplicável pena mais grave.
+Art. 35.º São punidas com multa até 15000$00 as infracções ao disposto na parte final do artigo 14.º e nos artigos 17.º, 18.º, 20.º, 22.º e 24.º, se lhes não for aplicável pena mais grave.
 
-###### Art. 36.º É punível a tentativa das infracções previstas no presente capítulo.
+Art. 36.º É punível a tentativa das infracções previstas no presente capítulo.
 
-###### Art. 37.º A aplicação de qualquer das penas previstas no presente diploma implica sempre a perda a favor do Estado dos estupefacientes, utensílios, mobiliário e demais artigos relacionados com o crime.
+Art. 37.º A aplicação de qualquer das penas previstas no presente diploma implica sempre a perda a favor do Estado dos estupefacientes, utensílios, mobiliário e demais artigos relacionados com o crime.
 
-###### Art. 38.º Quando se mostrar conveniente a expulsão do território como consequência de sanção imposta nos termos deste diploma, deverá o tribunal competente fazer a devida comunicação ao governador da província.
+Art. 38.º Quando se mostrar conveniente a expulsão do território como consequência de sanção imposta nos termos deste diploma, deverá o tribunal competente fazer a devida comunicação ao governador da província.
 
-###### Art. 39.º A Polícia Judiciária procederá pùblicamente à destruição pelo fogo dos estupefacientes, drogas e outros produtos apreendidos, que não devam ter outro destino legal, para o que lhe serão remetidos pelos tribunais competentes, depois de devidamente selados e lacrados.
+Art. 39.º A Polícia Judiciária procederá pùblicamente à destruição pelo fogo dos estupefacientes, drogas e outros produtos apreendidos, que não devam ter outro destino legal, para o que lhe serão remetidos pelos tribunais competentes, depois de devidamente selados e lacrados.
 
 § único. É obrigatória a comparência pessoal do inspector adjunto da Polícia Judiciária à diligência prevista no corpo deste artigo, que se realizará na presença dos chefes das Repartições Provinciais dos Serviços de Saúde e Higiene e Serviços de Administração Civil e do comandante da Polícia de Segurança Pública, que assinarão o auto referido no artigo seguinte.
 
-###### Art. 40.º Da diligência referida no artigo anterior será lavrado, em triplicado, auto, donde constem especificadamente os estupefacientes, drogas e demais objectos inutilizados, com referência aos processos a que dizem respeito. O original será remetido ao tribunal competente para ser junto ao processo, ficando um dos duplicados arquivado na Inspecção da Polícia Judiciária e sendo o outro remetido à Repartição Provincial dos Serviços de Saúde e Higiene.
+Art. 40.º Da diligência referida no artigo anterior será lavrado, em triplicado, auto, donde constem especificadamente os estupefacientes, drogas e demais objectos inutilizados, com referência aos processos a que dizem respeito. O original será remetido ao tribunal competente para ser junto ao processo, ficando um dos duplicados arquivado na Inspecção da Polícia Judiciária e sendo o outro remetido à Repartição Provincial dos Serviços de Saúde e Higiene.
 
-###### Art. 41.º O mobiliário apreendido e declarado perdido a favor do Estado será remetido ao almoxarifado de Fazenda para ser vendido em hasta pública.
+Art. 41.º O mobiliário apreendido e declarado perdido a favor do Estado será remetido ao almoxarifado de Fazenda para ser vendido em hasta pública.
 
-###### Art. 42.º Os utensílios e objectos apreendidos que tiverem utilidade ou que revistam interesse etnográfico poderão, por despacho do governador da província e sob proposta do inspector adjunto da Polícia Judiciária, ser entregues ao museu da província ou ao museu policial, ou destinados a departamentos onde a sua utilidade seja reconhecida.
+Art. 42.º Os utensílios e objectos apreendidos que tiverem utilidade ou que revistam interesse etnográfico poderão, por despacho do governador da província e sob proposta do inspector adjunto da Polícia Judiciária, ser entregues ao museu da província ou ao museu policial, ou destinados a departamentos onde a sua utilidade seja reconhecida.
 
 ### CAPÍTULO IV — Da fiscalização
 
-###### Art. 43.º A fiscalização da importação, detenção, comércio e uso de estupefacientes para fins medicinais e científicos compete à Repartição Provincial dos Serviços de Saúde e Higiene da província.
+Art. 43.º A fiscalização da importação, detenção, comércio e uso de estupefacientes para fins medicinais e científicos compete à Repartição Provincial dos Serviços de Saúde e Higiene da província.
 
-###### Art. 44.º A fiscalização do uso, comércio, importação, exportação, indústria e tráfico ilícitos de estupefacientes compete:
+Art. 44.º A fiscalização do uso, comércio, importação, exportação, indústria e tráfico ilícitos de estupefacientes compete:
 
 a) À Polícia Judiciária, à Polícia de Segurança Pública, à Polícia Marítima e Fiscal e às administrações do concelho, por intermédio das respectivas autoridades e agentes;
 
@@ -242,27 +247,27 @@ b) À Repartição Provincial dos Serviços dos Correios, Telégrafos e Telefone
 
 c) A todos os funcionários e empregados públicos em serviço na província.
 
-###### Art. 45.º Ordinàriamente em cada semestre, e, extraordinàriamente, sempre que seja necessário ou conveniente, será feita pelo inspector do exercício farmacêutico, acompanhado de um funcionário da farmácia da sua escolha, uma inspecção a laboratórios e farmácias autorizados a importar, manipular e vender estupefacientes. Nestas inspecções será minuciosamente verificada, em face dos justificativos apresentados, a exactidão ou inexactidão dos livros de contas correntes de estupefacientes, e feito um balanço aos existentes, lavrando-se acto de cada inspecção, que mencionará a exactidão ou inexactidão das espécies e quantidades existentes.
+Art. 45.º Ordinàriamente em cada semestre, e, extraordinàriamente, sempre que seja necessário ou conveniente, será feita pelo inspector do exercício farmacêutico, acompanhado de um funcionário da farmácia da sua escolha, uma inspecção a laboratórios e farmácias autorizados a importar, manipular e vender estupefacientes. Nestas inspecções será minuciosamente verificada, em face dos justificativos apresentados, a exactidão ou inexactidão dos livros de contas correntes de estupefacientes, e feito um balanço aos existentes, lavrando-se acto de cada inspecção, que mencionará a exactidão ou inexactidão das espécies e quantidades existentes.
 
 § único. O inspector do exercício farmacêutico recolherá os justificativos de consumos que lhe forem apresentados em cada inspecção, os quais, com a cópia da acta dessa inspecção, enviará à Repartição Provincial dos Serviços de Saúde e Higiene, anotando nos livros de contas correntes a data em que foi feita a inspecção, a recolha e o número daqueles justificativos.
 
-###### Art. 46.º Os funcionários da Repartição Provincial dos Serviços dos Correios, Telégrafos e Telefones no uso da competência que lhes confere a alínea b) do artigo 44.º podem abrir e examinar as encomendas, competindo-lhes apreender as quantidades e espécies de estupefacientes que verificarem existir, clandestinamente, nessas encomendas, as quais para os efeitos do presente diploma serão remetidas à Polícia Judiciária juntamente com a indicação do nome do destinatário, a menção da proveniência e nome do expedidor da encomenda e quaisquer outros elementos informativos.
+Art. 46.º Os funcionários da Repartição Provincial dos Serviços dos Correios, Telégrafos e Telefones no uso da competência que lhes confere a alínea b) do artigo 44.º podem abrir e examinar as encomendas, competindo-lhes apreender as quantidades e espécies de estupefacientes que verificarem existir, clandestinamente, nessas encomendas, as quais para os efeitos do presente diploma serão remetidas à Polícia Judiciária juntamente com a indicação do nome do destinatário, a menção da proveniência e nome do expedidor da encomenda e quaisquer outros elementos informativos.
 
 § único. Para as outras formas postais, quando haja fundadas suspeitas de conterem estupefacientes, os funcionários procederão nos termos da Convenção Postal Internacional.
 
 ### CAPÍTULO V — Disposições finais
 
-###### Art. 47.º O cumprimento das penas e medidas de segurança aplicadas aos delinquentes toxicómanos terá lugar no Centro de Recuperação Social.
+Art. 47.º O cumprimento das penas e medidas de segurança aplicadas aos delinquentes toxicómanos terá lugar no Centro de Recuperação Social.
 
-###### Art. 48.º A assistência médica e recuperação adequada e necessária aos doentes toxicómanos será prestada pelo médico neuropsiquiatra da Repartição Provincial dos Serviços de Saúde e Higiene e quando o não houver por outro médico designado pelo chefe daquela Repartição, num caso ou noutro como seu delegado no organismo de combate à toxicomania, recebendo do respectivo chefe as instruções que forem consideradas necessárias e apresentando relatório circunstanciado da sua acção, sempre que o mesmo lhe for exigido.
+Art. 48.º A assistência médica e recuperação adequada e necessária aos doentes toxicómanos será prestada pelo médico neuropsiquiatra da Repartição Provincial dos Serviços de Saúde e Higiene e quando o não houver por outro médico designado pelo chefe daquela Repartição, num caso ou noutro como seu delegado no organismo de combate à toxicomania, recebendo do respectivo chefe as instruções que forem consideradas necessárias e apresentando relatório circunstanciado da sua acção, sempre que o mesmo lhe for exigido.
 
 § único. Os toxicómanos que pela sua condição social possam suportar os encargos com o seu tratamento poderão, depois de cumprida a pena ou medida de segurança aplicada, ser internados, para esse fim, em serviço hospitalar, mediante autorização do director do hospital, sob proposta do médico referido no corpo do artigo e obtido o consentimento do doente.
 
-###### Art. 49.º O registo dos toxicómanos, com todos os elementos inerentes à sua identificação, à causa ou causas da toxicomania, droga ou drogas e quantidades usadas, sua proveniência e outros considerados úteis, será feito pelo serviço ou organismo referido no artigo 47.º, que manterá devidamente actualizado o ficheiro a tais doentes respeitante.
+Art. 49.º O registo dos toxicómanos, com todos os elementos inerentes à sua identificação, à causa ou causas da toxicomania, droga ou drogas e quantidades usadas, sua proveniência e outros considerados úteis, será feito pelo serviço ou organismo referido no artigo 47.º, que manterá devidamente actualizado o ficheiro a tais doentes respeitante.
 
-###### Art. 50.º São revogados os Diplomas Legislativos n.os 933, de 28 de Maio de 1946; 986, de 29 de Março de 1947; 1080, de 22 de Janeiro de 1949; 1384, de 15 de Junho de 1957; 1404, de 31 de Dezembro de 1957; 1488, de 18 de Março de 1961, e a tabela C anexa a este último diploma.
+Art. 50.º São revogados os Diplomas Legislativos n.os 933, de 28 de Maio de 1946; 986, de 29 de Março de 1947; 1080, de 22 de Janeiro de 1949; 1384, de 15 de Junho de 1957; 1404, de 31 de Dezembro de 1957; 1488, de 18 de Março de 1961, e a tabela C anexa a este último diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Dezembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 
@@ -470,6 +475,6 @@ Trimeperidina (éster etílico do ácido 1,2,5-trimetil-4-fenilpiperidino-4-carb
 
 Todos os remédios chamados antiópio e o resíduo do ópio (dross), ópio residual e o halano.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/12/27800/16261633.pdf))](https://files.diariodarepublica.pt/1s/1962/12/27800/16261633.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/12/27800/16261633.pdf)
 
 Ministério do Ultramar, 4 de Dezembro de 1962. - O Ministro do Ultramar, Adriano José Alves Moreira.

@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 100/2000, 1º Suplemento, Série I-B de 2000-04-29
   number: '100'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1760-(2) a 1760-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/04/100b01/00020002.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/5-m/2000/04/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-m-2000-230565
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-04-29T00:00:00Z'
+  retrieved_at: '2026-10-22T18:56:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f35e90536a12ad5705f95a93c2d829e7aa448b99af069389a80a2da2d9529258
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1c8b0303b7d5bc8b2d228df93367b7aa807b98fd9db41b6476f01b88548b961
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:56:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carreira de Administração Prisional
-- Direcção Geral dos Serviços Prisionais
 - Centro de Formação Penitenciária
-- Formação Profissional
 - Curso de Formação
+- Direcção Geral dos Serviços Prisionais
+- Formação Profissional
 - Qualificação Profissional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/175/2000/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/175/2000/03/23/p/dre
+- type: cites
+  target: pt:dre:508274:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:56:17Z'
   warnings: []
   errors: []
 ---

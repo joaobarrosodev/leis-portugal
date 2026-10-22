@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/325-b/2026/08/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/325-b-2026-1154709506
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T18:49:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b571d446ec751137f7f5c73ca6360b194b53b466bef026e64c4363973bcf36f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe9a8ed7a8bcc570ef9f69a7a19e46c17fa9cfe4121d303ab3fe6616874d4668
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:49:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ação Social Escolar
+- Associação
 - Associação de Estudantes
 - Autonomia Administrativa
 - Autonomia Científica
+- Ensino Superior
 - Estatuto
 - Estatuto das Universidades
 - Instalação de Serviços
 - Leiria
-- Ensino Superior
-- Associação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/135/2026/07/09/p/dre
@@ -92,16 +92,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
+- type: cites
+  target: pt:dre:1145603611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
 article_structure:
   article_count: 80
   section_count: 29
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:49:23Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +146,7 @@ Considerando que, no âmbito das suas competências legais de tutela sobre as in
 
 Considerando que o projeto de estatutos provisórios foi apresentado pelo presidente do Instituto Politécnico de Leiria, instituição integrada na ULO, à semelhança da Escola Superior de Técnicos Especializados, em exercício de funções à data da entrada em vigor do [Decreto-Lei n.º 135/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2026-1145603611), de 9 de julho, ao supracitado membro do Governo, e tendo presente o parecer favorável do Instituto para o Ensino Superior, I. P., que verificou a respetiva conformidade legal.
 
-Assim, ao abrigo das disposições conjugadas do n.º 6 do artigo 22.º do [Decreto-Lei n.º 87-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2025-926483751), de 25 de julho, e do n.º 1 do artigo 68.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, ambos na sua redação atual, bem como dos n.<sup>os</sup>3, 4 e 5 do artigo 8.º do [Decreto-Lei n.º 135/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2026-1145603611), de 9 de julho, determino o seguinte:
+Assim, ao abrigo das disposições conjugadas do n.º 6 do artigo 22.º do [Decreto-Lei n.º 87-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2025-926483751), de 25 de julho, e do n.º 1 do artigo 68.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, ambos na sua redação atual, bem como dos n.os3, 4 e 5 do artigo 8.º do [Decreto-Lei n.º 135/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2026-1145603611), de 9 de julho, determino o seguinte:
 
 1 - Aprovo os estatutos provisórios da Universidade de Leiria e Oeste, os quais são publicados em anexo ao presente diploma, do qual fazem parte integrante, para vigorarem durante o respetivo período de instalação.
 
@@ -130,7 +154,7 @@ Assim, ao abrigo das disposições conjugadas do n.º 6 do artigo 22.º do [Decr
 
 3 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Educação, Ciência e Inovação, Fernando Alexandre, em 5 de agosto de 2026.**
+O Ministro da Educação, Ciência e Inovação, Fernando Alexandre, em 5 de agosto de 2026.
 
 ## ANEXO — Estatutos provisórios da Universidade de Leiria e Oeste
 
@@ -1577,3 +1601,5 @@ h) Dois trabalhadores do corpo técnico, especialista e de gestão;
 ###### Artigo 80.º — Entrada em vigor
 
 Os presentes Estatutos entram em vigor na data da tomada de posse dos titulares de todos os órgãos de governo e de gestão da Universidade de Leiria e Oeste.
+
+119949287

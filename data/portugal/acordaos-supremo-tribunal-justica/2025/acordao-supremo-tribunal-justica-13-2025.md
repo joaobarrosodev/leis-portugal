@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/13/2025/11/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/13-2025-944410939
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-05T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1045d35cfd01e6fcdffe7bda53f158c0ed88e9930dbc7afffd24df1f64b3d6aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1618fa9874d3252656b1c7b495eae4defc77f0864dc90609ffff81228bb782c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Brasil
 - Carta de Condução
 - Código da Estrada
 - Contra-ordenação
 - Jurisprudencia
-- Brasil
 - Supremo Tribunal da Justiça
 relationships:
 - type: cites
@@ -110,16 +110,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/107/2010/09/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/107/2010/09/13/p/dre
+- type: cites
+  target: pt:dre:150757538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185971761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3272203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75060359:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:18Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +172,7 @@ Acordam no Pleno das Secções Criminais do Supremo Tribunal de Justiça:
 
 1 - Relatório
 
-O Ministério Público, junto do Tribunal da Relação de Lisboa, veio interpor, em 27/02/2024, o presente recurso extraordinário para fixação de jurisprudência, nos termos do art. 437.º n.<sup>os</sup>2 e 5, do C.P.P., do acórdão da 5.ª Secção do Tribunal da Relação de Lisboa, de 23/01/2024, e transitado em julgado em 05/02/2024, que negando provimento ao recurso do Ministério Público, decidiu que a condução de veículo a motor na via pública por titular de carta de condução caducada emitida pelas autoridades brasileiras constitui contraordenação p. e p. pelo artigo 125.º, n.<sup>os</sup>5 e 8, do Código da Estrada.
+O Ministério Público, junto do Tribunal da Relação de Lisboa, veio interpor, em 27/02/2024, o presente recurso extraordinário para fixação de jurisprudência, nos termos do art. 437.º n.os2 e 5, do C.P.P., do acórdão da 5.ª Secção do Tribunal da Relação de Lisboa, de 23/01/2024, e transitado em julgado em 05/02/2024, que negando provimento ao recurso do Ministério Público, decidiu que a condução de veículo a motor na via pública por titular de carta de condução caducada emitida pelas autoridades brasileiras constitui contraordenação p. e p. pelo artigo 125.º, n.os5 e 8, do Código da Estrada.
 
 1 - O Mº Pº no final da sua motivação apresenta as seguintes conclusões:
 
@@ -232,23 +272,23 @@ Colhidos os vistos, cumpre decidir.
 
 Tendo em conta o disposto no 692.º, n.º 4, CPC, aplicável ex vi artigo 4.º do CPP, e não sendo a decisão que ordenou o prosseguimento do processo, da secção criminal, vinculativa, há que reexaminar a oposição de julgados afirmada no acórdão 25/11/2024 e admissibilidade do mesmo.
 
-As normas a ponderar para o efeito, são os artigo 437.º e 438.º CPP, e deles resulta que a admissibilidade de tal recurso extraordinário está dependente da verificação de requisitos formais que consistem na legitimidade do recorrente; na interposição de recurso no prazo de 30 dias a contar do trânsito em julgado do acórdão recorrido; na identificação do acórdão com o qual o acórdão recorrido se encontre em oposição (o acórdão fundamento), a menção à sua publicação se estiver publicado e o trânsito em julgado também do acórdão fundamento, e como requisitos materiais ou substanciais que: a existência dos dois acórdãos respeitem à mesma questão de direito (acórdão recorrido e o acórdão fundamento); sejam ambos tirados no domínio da mesma legislação, isto significando que durante o intervalo da sua prolação, não haja ocorrido modificação no texto da lei que interfira, direta ou indiretamente, na resolução da questão controvertida; e assentem em soluções opostas, ou seja, soluções em que haja uma posição patentemente divergente sobre a mesma questão de direito, ou de outro modo, quando as soluções sejam de sinal contrário, sendo que a oposição deve dizer respeito à decisão e não aos fundamentos; a oposição deve ser expressa, e ainda, como requisito complementar deve existir identidade de factos (ac. STJ 27/9/2006 Proc.06P2925 Cons. Armindo Monteiro in www.dgsi.pt Acórdão STJ de 2012.10.31, proc. 224/06.7TACBC.G2-A.S1 Cons. Pires da Graça www.dgsi.pt) pois, como expressa o STJ no ac. 2/10/2008 Proc. 08P2484, Cons. Simas Santos www.dgsi.pt, “A expressão “soluções opostas” pressupõe que nos dois acórdãos seja idêntica a situação de facto, em ambos havendo expressa resolução de direito e que a oposição respeita às decisões e não aos fundamentos, se nas decisões em confronto se consideraram idênticos factores, mas é diferente a situação de facto de cada caso, não se pode afirmar a existência de oposição de acórdãos para os efeitos do n.º 1 do artigo 437.º do CPP” <sup>1</sup> e estejam em causa dois acórdãos do Supremo ou acórdão da Relação que esteja em oposição com outro da mesma ou outra Relação, ou do Supremo e dele (acórdão da Relação) não seja admissível recurso ordinário.
+As normas a ponderar para o efeito, são os artigo 437.º e 438.º CPP, e deles resulta que a admissibilidade de tal recurso extraordinário está dependente da verificação de requisitos formais que consistem na legitimidade do recorrente; na interposição de recurso no prazo de 30 dias a contar do trânsito em julgado do acórdão recorrido; na identificação do acórdão com o qual o acórdão recorrido se encontre em oposição (o acórdão fundamento), a menção à sua publicação se estiver publicado e o trânsito em julgado também do acórdão fundamento, e como requisitos materiais ou substanciais que: a existência dos dois acórdãos respeitem à mesma questão de direito (acórdão recorrido e o acórdão fundamento); sejam ambos tirados no domínio da mesma legislação, isto significando que durante o intervalo da sua prolação, não haja ocorrido modificação no texto da lei que interfira, direta ou indiretamente, na resolução da questão controvertida; e assentem em soluções opostas, ou seja, soluções em que haja uma posição patentemente divergente sobre a mesma questão de direito, ou de outro modo, quando as soluções sejam de sinal contrário, sendo que a oposição deve dizer respeito à decisão e não aos fundamentos; a oposição deve ser expressa, e ainda, como requisito complementar deve existir identidade de factos (ac. STJ 27/9/2006 Proc.06P2925 Cons. Armindo Monteiro in www.dgsi.pt Acórdão STJ de 2012.10.31, proc. 224/06.7TACBC.G2-A.S1 Cons. Pires da Graça www.dgsi.pt) pois, como expressa o STJ no ac. 2/10/2008 Proc. 08P2484, Cons. Simas Santos www.dgsi.pt, “A expressão “soluções opostas” pressupõe que nos dois acórdãos seja idêntica a situação de facto, em ambos havendo expressa resolução de direito e que a oposição respeita às decisões e não aos fundamentos, se nas decisões em confronto se consideraram idênticos factores, mas é diferente a situação de facto de cada caso, não se pode afirmar a existência de oposição de acórdãos para os efeitos do n.º 1 do artigo 437.º do CPP” 1 e estejam em causa dois acórdãos do Supremo ou acórdão da Relação que esteja em oposição com outro da mesma ou outra Relação, ou do Supremo e dele (acórdão da Relação) não seja admissível recurso ordinário.
 
 3.1 - O requerente é o Mº Pº a quem o artigo 437.º n.º 5 CPP confere legitimidade; o acórdão recorrido transitou em 5/2/2024 e o recurso foi interposto em 27/2/2024 pelo que é tempestivo; e mostram-se preenchidos os demais requisitos formais do artigo 438.º n.º 2 CPP (identificação do acórdão fundamento e publicação e trânsito em julgado em 8/5/2023).
 
 3.2 - No que respeita aos requisitos substanciais, cremos que também os mesmos se verificam.
 
-No acórdão do Tribunal da Relação de Lisboa - o acórdão recorrido -, foi negado provimento ao recurso do Mº Pº e mantida a decisão do Juízo Local Criminal da Amadora - J3, da comarca de Lisboa Oeste, de 30/05/2023, que absolveu o arguido, natural do Brasil, da prática de um crime de condução de veículo sem habilitação ilegal p. e p. pelo art. 3.º n.<sup>os</sup>1 e 2, do [DL n.º 2/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1998-223835), de 03/01, tendo considerado que o arguido praticou contudo a contraordenação p.p. pelo artigo 125.º n.<sup>os</sup>5 e 8 do CE., porque no dia 1/9/2020 conduzia um veiculo automóvel sendo titular de carteira nacional de habilitação emitida pelas autoridades brasileiras, com data de caducidade de 09.06.2019.
+No acórdão do Tribunal da Relação de Lisboa - o acórdão recorrido -, foi negado provimento ao recurso do Mº Pº e mantida a decisão do Juízo Local Criminal da Amadora - J3, da comarca de Lisboa Oeste, de 30/05/2023, que absolveu o arguido, natural do Brasil, da prática de um crime de condução de veículo sem habilitação ilegal p. e p. pelo art. 3.º n.os1 e 2, do [DL n.º 2/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1998-223835), de 03/01, tendo considerado que o arguido praticou contudo a contraordenação p.p. pelo artigo 125.º n.os5 e 8 do CE., porque no dia 1/9/2020 conduzia um veiculo automóvel sendo titular de carteira nacional de habilitação emitida pelas autoridades brasileiras, com data de caducidade de 09.06.2019.
 
 No acórdão fundamento da mesma Relação, proferido em 28/3/2023 no Proc. n.º 663/20.0PDAMD.L1 foi julgado procedente o recurso do Ministério Público e condenado o arguido, natural do Brasil, como autor material de um crime de condução de veículo sem habilitação ilegal p. e p. pelo art. 3.º n.º 1 e 2 do citado [DL n.º 2/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1998-223835), na pena de 50 dias de multa, à taxa diária de € 10,00, no total de € 500,00, porque no dia 15/8/2020 conduzia um motociclo sendo titular de carta nacional de habilitação (categoria AB) emitida em 10/3/2016 e válida até 15/10/2019, sendo que a 1.ª instancia o havia absolvido do ilícito e considerara que o facto integrava a contraordenação p.p. pelo artigo 125.º n.º 8 CE.
 
-Ambos os arguidos conduziam veículo a motor sendo titulares de carta de condução emitida no Brasil e com o prazo de validade ultrapassado, ou seja caducada, e no acórdão fundamento o arguido foi condenado pela Relação pela prática do crime de condução sem habilitação legal p.p. pelo artigo 3.º 1 e 2 [DL 2/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1998-223835), e no acórdão recorrido a Relação considerou que constituía a contraordenação p.p. pelo artigo 125.º n.<sup>os</sup>5 e 8 do CE.
+Ambos os arguidos conduziam veículo a motor sendo titulares de carta de condução emitida no Brasil e com o prazo de validade ultrapassado, ou seja caducada, e no acórdão fundamento o arguido foi condenado pela Relação pela prática do crime de condução sem habilitação legal p.p. pelo artigo 3.º 1 e 2 [DL 2/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1998-223835), e no acórdão recorrido a Relação considerou que constituía a contraordenação p.p. pelo artigo 125.º n.os5 e 8 do CE.
 
 Ambos os acórdãos foram proferidos no âmbito da mesma legislação, ou seja, já em plena vigência do artigo 125.º CE na redação dada pelo [DL 46/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2022-185971761) de 12/7 que entrou em vigor em 1/8/22, pese embora os factos haverem sido praticados na vigência da redação anterior.
 
-Donde se verifica a aposição entre os acórdãos por decisões contraditórias e no âmbito da mesma legislação versando os dois acórdãos sobre as normas legais dos artigos 3.º, n.<sup>os</sup>1 e 2 do [D.L. 2/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1998-223835), de 03/01, e 125.º, n.<sup>os</sup>5 e 8, do Código da Estrada, este último na redação do [D.L. 46/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2022-185971761), de 12.07.
+Donde se verifica a aposição entre os acórdãos por decisões contraditórias e no âmbito da mesma legislação versando os dois acórdãos sobre as normas legais dos artigos 3.º, n.os1 e 2 do [D.L. 2/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1998-223835), de 03/01, e 125.º, n.os5 e 8, do Código da Estrada, este último na redação do [D.L. 46/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2022-185971761), de 12.07.
 
-O facto de no acórdão recorrido o arguido conduzir um veículo automóvel e no acórdão fundamento conduzir um motociclo é irrelevante, pois a condução de qualquer destes veículos está sujeita às mesmas regras, necessitando ambos de carta de condução. <sup>2</sup>
+O facto de no acórdão recorrido o arguido conduzir um veículo automóvel e no acórdão fundamento conduzir um motociclo é irrelevante, pois a condução de qualquer destes veículos está sujeita às mesmas regras, necessitando ambos de carta de condução. 2
 
 Confirma-se assim a oposição de julgados, cujo conflito importa dirimir.
 
@@ -260,7 +300,7 @@ A questão nunca foi objeto de fixação de jurisprudência pelo Supremo Tribuna
 
 4.1 - A 1.ª instância no acórdão recorrido (724/20.6PDAMD.L1) pondera o disposto artigo 3.º, n.º 1 e 2 do [Decreto-Lei n.º 2/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1998-223835) de 03/01; o disposto no artigo 121.º e 125.º CE, na redação anterior e na posterior do artigo 125.º do C.E. alterado pelo [DL n.º 46/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2022-185971761) de 12 de julho, que entrou em vigor no dia 1 de agosto de 2022; o [Despacho n.º 10942/2000](https://diariodarepublica.pt/dr/detalhe/despacho/10942-2000-3272203), publicado no Diário da República, 2.ª série, em 27/05/2000, ao abrigo da anterior alínea e) do n.º 1 do artigo 125.º do C.E. que regulava o reconhecimento das carteiras nacionais de habilitação brasileiras (CNH) para efeitos de troca por carta de condução portuguesa, com dispensa de exame; a Convenção de Viena de 1968-Convenção sobre Trânsito Rodoviário (de que ambos os países são Parte) e o Estado Português reconheceu os documentos brasileiros (carteira nacional de habilitação brasileira) equivalentes às cartas de condução portuguesas.
 
-Para concluir que em face da nova redação, é que o atual regime em vigor em concreto, da alínea c) do n.º 1.º do art. 125.º do C.E. já não impõe ao arguido titular de carta de condução brasileira que proceda à troca do seu título de condução para poder conduzir em Portugal, não lhe sendo, pois, impostas as obrigações que decorrem dos n.<sup>os</sup> 3 e 4 do art. 125.º do C.E.
+Para concluir que em face da nova redação, é que o atual regime em vigor em concreto, da alínea c) do n.º 1.º do art. 125.º do C.E. já não impõe ao arguido titular de carta de condução brasileira que proceda à troca do seu título de condução para poder conduzir em Portugal, não lhe sendo, pois, impostas as obrigações que decorrem dos n.os 3 e 4 do art. 125.º do C.E.
 
 Donde, no entendimento da 1.ª instância “decorre do atual regime da alínea c) do n.º 1.º do art.125.º do C.E. que os titulares das cartas de condução ali referidas não estão sujeitos às obrigações impostas pelos ns.º 3 e 4 do art. 125.º, não tendo, pois, de proceder à troca do seu título de condução para poderem conduzir em Portugal.
 
@@ -368,7 +408,7 @@ A este propósito repetimos o que já dissemos supra: quando é atingido o limit
 
 4.3 - No que respeita ao acórdão fundamento (Proc. 663/20.0PDAMD.L1):
 
-A 1.ª instância absolveu o arguido, a quem era imputado o crime de condução sem habilitação legal, p. e p. pelo artigo 3.º, n.<sup>os</sup>1 e 2, do [Decreto-Lei n.º 2/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1998-223835), de 03/01, com os seguintes argumentos: “…estando em causa nos autos condutor de veículo motorizado titular de carta de condução estrangeira, importa atentar ao que dispõe o referido artigo 125.º do C.E. que, à data da prática dos factos descritos na acusação (15-08-2020) tinha a seguinte a redação, no que ao caso interessa:
+A 1.ª instância absolveu o arguido, a quem era imputado o crime de condução sem habilitação legal, p. e p. pelo artigo 3.º, n.os1 e 2, do [Decreto-Lei n.º 2/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1998-223835), de 03/01, com os seguintes argumentos: “…estando em causa nos autos condutor de veículo motorizado titular de carta de condução estrangeira, importa atentar ao que dispõe o referido artigo 125.º do C.E. que, à data da prática dos factos descritos na acusação (15-08-2020) tinha a seguinte a redação, no que ao caso interessa:
 
 «1 - Além da carta de condução são títulos habilitantes para a condução de veículos a motor os seguintes: d) Títulos de condução emitidos por Estado estrangeiro, desde que em condições de reciprocidade; [...]
 
@@ -502,7 +542,7 @@ O artigo 121.º CE sobre habitação legal de conduzir, na parte em que dispõe:
 
 6.2.1 - São ainda títulos de habilitação legal de condução:
 
-###### Artigo 125.º CE (redação do [DL n.º 102-B/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-b-2020-150757538), de 09/12) à data dos factos:
+Artigo 125.º CE (redação do [DL n.º 102-B/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-b-2020-150757538), de 09/12) à data dos factos:
 
 “1 - Além da carta de condução são títulos habilitantes para a condução de veículos a motor os seguintes:
 
@@ -538,7 +578,7 @@ i) Licença de aprendizagem.
 
 8 - Quem infringir o disposto nos n.os 3 a 5, sendo titular de licença válida, é sancionado com coima de (euro) 300 a (euro) 1500.”
 
-###### Artigo 128.º CE redação dada pelo [Decreto-Lei n.º 102-B/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-b-2020-150757538), de 09/12 sobre a troca de títulos:
+Artigo 128.º CE redação dada pelo [Decreto-Lei n.º 102-B/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-b-2020-150757538), de 09/12 sobre a troca de títulos:
 
 “1 - A carta de condução pode ser obtida por troca de título estrangeiro válido, que não se encontre apreendido ou tenha sido cassado ou cancelado por determinação de um outro Estado.
 
@@ -598,7 +638,7 @@ As carteiras nacionais de habilitação brasileiras (CNH) que se apresentem dent
 
 6.3 - Normas alteradas e atualmente em vigor
 
-###### Artigo 125.º CE na redação do [DL 46/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2022-185971761) de 12/7 em vigor à data das decisões:
+Artigo 125.º CE na redação do [DL 46/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2022-185971761) de 12/7 em vigor à data das decisões:
 
 “1 - Além da carta de condução são títulos habilitantes para a condução de veículos a motor os seguintes:
 
@@ -744,7 +784,7 @@ b) Os titulares do título caducado há mais de cinco anos.
 
 Regulamento da Habilitação Legal para Conduzir aprovado pelo [Decreto-Lei n.º 138/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2012-178550), de 05.07, cujo artigo 13.º dispõe:
 
-###### Artigo 13.º Títulos de condução estrangeiros
+Artigo 13.º Títulos de condução estrangeiros
 
 “1 - Os títulos de condução emitidos por Estados membros da União Europeia ou do espaço económico europeu são reconhecidos em Portugal para a condução das categorias de veículos a que habilitam, com as restrições deles constantes, desde que:
 
@@ -770,11 +810,11 @@ b) Os títulos de condução emitidos por Estado membro da União Europeia ou do
 
 Ponderando as normas em vigor à data dos factos e tendo presente que estamos perante cidadãos com a Carteira Nacional de Habilitação (CNH), para conduzir veículos com motor emitida pelo Brasil, e no entendimento de que o Brasil é Estado Parte da Convenção Internacional de Genebra, de 19 de setembro de 1949, sobre circulação rodoviária, ou com o anexo n.º 6 da Convenção Internacional de Viena, de 8 de novembro de 1968, sobre circulação rodoviária, temos que:
 
-7.1 - Para conduzir veículos a motor em Portugal qualquer cidadão nacional ou estrangeiro deve estar habilitado com carta de condução ou título equivalente (v.g. licença) reconhecido por Portugal, sob pena de cometer o crime de condução sem habilitação legal (artigo 3.º do [DL 2/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1998-223835) de 3/1 e artigo 121.º n.<sup>os</sup>1 e 2 CE.
+7.1 - Para conduzir veículos a motor em Portugal qualquer cidadão nacional ou estrangeiro deve estar habilitado com carta de condução ou título equivalente (v.g. licença) reconhecido por Portugal, sob pena de cometer o crime de condução sem habilitação legal (artigo 3.º do [DL 2/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1998-223835) de 3/1 e artigo 121.º n.os1 e 2 CE.
 
-7.2 - São títulos de habilitação legal de conduzir: a carta de condução e os títulos emitidos por estado estrangeiro (para além dos emitidos por Macau, EU e EEE e reciprocidade entre Estados) “em conformidade com o anexo n.º 9 da Convenção Internacional de Genebra, de 19 de setembro de 1949, sobre circulação rodoviária, ou com o anexo n.º 6 da Convenção Internacional de Viena, de 8 de novembro de 1968, sobre circulação rodoviária” e em condições de reciprocidade, e licenças internacionais, mas apenas podem conduzir em Portugal com esse titulo se foram não residentes e durante os primeiros 185 dias após a entrada em Portugal e, após fixarem residência têm 90 dias para efectuar a troca do titulo de condução - artigo 125.º n.<sup>os</sup> 1 als. c), d) e e) e 3 e 4 CE redação do [DL 102-B/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-b-2020-150757538) de 9/12 -, (o não cumprimento destes prazos ou seja, a condução por não residente por mais de 185 dias e não proceder à troca do titulo de condução no prazo de 90 dias para os residentes -, constitui contraordenação “sendo a licença válida” punida com coima de 300 a 1500€ - artigo 125.º n.<sup>os</sup>3, 5 e 8 do artigo 125.º CE redação do [DL 102B/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-b-2020-150757538) de 9/12).
+7.2 - São títulos de habilitação legal de conduzir: a carta de condução e os títulos emitidos por estado estrangeiro (para além dos emitidos por Macau, EU e EEE e reciprocidade entre Estados) “em conformidade com o anexo n.º 9 da Convenção Internacional de Genebra, de 19 de setembro de 1949, sobre circulação rodoviária, ou com o anexo n.º 6 da Convenção Internacional de Viena, de 8 de novembro de 1968, sobre circulação rodoviária” e em condições de reciprocidade, e licenças internacionais, mas apenas podem conduzir em Portugal com esse titulo se foram não residentes e durante os primeiros 185 dias após a entrada em Portugal e, após fixarem residência têm 90 dias para efectuar a troca do titulo de condução - artigo 125.º n.os 1 als. c), d) e e) e 3 e 4 CE redação do [DL 102-B/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-b-2020-150757538) de 9/12 -, (o não cumprimento destes prazos ou seja, a condução por não residente por mais de 185 dias e não proceder à troca do titulo de condução no prazo de 90 dias para os residentes -, constitui contraordenação “sendo a licença válida” punida com coima de 300 a 1500€ - artigo 125.º n.os3, 5 e 8 do artigo 125.º CE redação do [DL 102B/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-b-2020-150757538) de 9/12).
 
-7.3 - Só pode ser trocada, por carta de condução nacional, o titulo estrangeiro válido que não esteja apreendido não tenha sido cassado ou cancelado por determinação de outro Estado, e sendo titulo emitido por Estado Parte da Convenção Genebra ou Viena está dispensado de provas teórica e práticas, mas já fica sujeita a prova prática se for requerida a troca no prazo de 2 anos após a fixação de residência (no pressuposto de que o título continua válido) - artigo 128.º n.<sup>os</sup>1, 2 e 7 c) por referência às cartas da alínea b) do n.º 2 do mesmo artigo.
+7.3 - Só pode ser trocada, por carta de condução nacional, o titulo estrangeiro válido que não esteja apreendido não tenha sido cassado ou cancelado por determinação de outro Estado, e sendo titulo emitido por Estado Parte da Convenção Genebra ou Viena está dispensado de provas teórica e práticas, mas já fica sujeita a prova prática se for requerida a troca no prazo de 2 anos após a fixação de residência (no pressuposto de que o título continua válido) - artigo 128.º n.os1, 2 e 7 c) por referência às cartas da alínea b) do n.º 2 do mesmo artigo.
 
 7.4 - Os títulos das als. b) a d) do n.º 1 do artigo 125.º CE ou seja, incluindo os dos Estados da EU e EEE podem ser trocados por título nacional (carta de condução) desde que válidos e não apreendidos, cassados ou cancelados (n.º 1 do artigo 128.º CE), não se referindo a títulos caducados (podendo interpretar-se que caducado equivale a não válido).
 
@@ -782,7 +822,7 @@ Os titulares de licença de condução de Macau e UE ou EEE podem conduzir sem e
 
 7.5 - O artigo 125.º CE nada refere quanto aos títulos caducados (para fins de troca ou outros), mas o artigo 130.º CE continha e contém (redação do [DL 102 B/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-b-2020-150757538) de 09/12) duas normas aparentemente antagónicas estabelecendo o n.º 5 que o facto constituiria crime (para o titular de título de condução caducado) e o n.º 7 em que a condução de veículo com título caducado era punido com coima de 120 a 600€, antagonismo que analisaremos adiante.
 
-Por seu lado o artigo 13.º n.<sup>os</sup>1 e 6 do RHLC (redacção do [DL 138/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2012-178550) de 5/7) estabelece que o reconhecimento dos títulos estrangeiros em Portugal para conduzir dependem de serem válidos e o seu titular ter a idade mínima exigida em Portugal para a obtenção da carta. Mas, nos termos dos n.<sup>os</sup>3 e 4 do mesmo artigo 13.º já os títulos emitidos pelos países da UE e EEE, dependem não apenas de não estarem apreendidos, suspensos ou cassados, mas também de não estarem caducados prevendo-se e regulando-se ali quanto a estes a sua revalidação.
+Por seu lado o artigo 13.º n.os1 e 6 do RHLC (redacção do [DL 138/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2012-178550) de 5/7) estabelece que o reconhecimento dos títulos estrangeiros em Portugal para conduzir dependem de serem válidos e o seu titular ter a idade mínima exigida em Portugal para a obtenção da carta. Mas, nos termos dos n.os3 e 4 do mesmo artigo 13.º já os títulos emitidos pelos países da UE e EEE, dependem não apenas de não estarem apreendidos, suspensos ou cassados, mas também de não estarem caducados prevendo-se e regulando-se ali quanto a estes a sua revalidação.
 
 Parece assim resultar por esta norma, que os demais títulos (que não da UE e EEE) se caducados não são reconhecidos e consequentemente não permitiam a condução. A exceção (n.º 2 do artigo 13.º do RHLC) tem justificação dado que os cidadãos da UE são cidadãos europeus em igualdade de circunstâncias com os cidadãos nacionais gozando, no essencial, de igual estatuto legal, o que não ocorre com os cidadãos de outros países que são estrangeiros. Não há que convocar aqui o princípio da igualdade do artigo 13.º Constituição da República Portuguesa (CRP) pois está em causa a nacionalidade e não ofende tal princípio, pois é justificado, o tratamento desigual entre nacionais e estrangeiros, favorecendo aqueles.
 
@@ -804,11 +844,11 @@ iii) O titular tenha menos de 60 anos de idade;” - artigo 125.º n.º 1 alíne
 
 7.7.2 - Os títulos emitidos pelos países da OCDE e CPLP naquelas condições, não necessitam de ser trocados por título nacional (dever reservado apenas para os títulos identificados nas al.s d) e) e g) - n.º 3 do mesmo artº), razão pela qual foi emitido o [DL 46/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2022-185971761) como se lê no seu preâmbulo “Em consequência promove-se a dispensa das trocas de cartas de condução, habilitando-se a condução no território nacional com títulos emitidos naqueles Estados, através do reconhecimento dos títulos de condução estrangeiros.”
 
-7.7.3 - Todavia, os títulos de condução de veículos a motor de países da CPLP (e todos os títulos do n.º 1 do artigo 125.º CE mas restringindo a análise apenas a estes), só permite a condução a quem tenha a idade mínima exigida pela lei portuguesa para a categoria de veículo em causa, menos de 60 anos e o título esteja válido e não apreendido, suspenso, caducado ou cassado (seja por lei, decisão administrativa ou judicial de Portugal ou do país emissor), e se conduzir naquelas circunstâncias sendo a licença de condução válida fá-lo em infração ao n.º 5 e por o título estar apreendido, suspenso, caduco ou cassado é sancionado com coima de 300 a 1500€ - artigo 125.º n.<sup>os</sup>5 e 8 CE<sup>3</sup>
+7.7.3 - Todavia, os títulos de condução de veículos a motor de países da CPLP (e todos os títulos do n.º 1 do artigo 125.º CE mas restringindo a análise apenas a estes), só permite a condução a quem tenha a idade mínima exigida pela lei portuguesa para a categoria de veículo em causa, menos de 60 anos e o título esteja válido e não apreendido, suspenso, caducado ou cassado (seja por lei, decisão administrativa ou judicial de Portugal ou do país emissor), e se conduzir naquelas circunstâncias sendo a licença de condução válida fá-lo em infração ao n.º 5 e por o título estar apreendido, suspenso, caduco ou cassado é sancionado com coima de 300 a 1500€ - artigo 125.º n.os5 e 8 CE3
 
-7.7.4 - Em face do artigo 128.º n.<sup>os</sup>1, 2 e 7 alínea c) CE redação actual, - que não faz referência ao título caducado, - no que respeita à troca do título estrangeiro pela carta de condução nacional mas apenas a que aquele esteja válido e não esteja apreendido, cassado ou cancelado por determinação de outro Estado -, a troca pode ser obtida por título caducado (obviamente após revalidação pois só o título caduco pode ser revalidado - título com validade suspensa sob condição) e sendo titulo de país da CPLP (em que a troca é dispensada mas pode ser requerida) sem realização de provas teóricas e práticas, salvo quanto a estas se for requerida a troca passados 2 anos após a fixação de residência para algumas categorias de cartas - artigo 128.º n.<sup>os</sup>1, 2, 7 alínea c) CE redação [DL 46/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2022-185971761).
+7.7.4 - Em face do artigo 128.º n.os1, 2 e 7 alínea c) CE redação actual, - que não faz referência ao título caducado, - no que respeita à troca do título estrangeiro pela carta de condução nacional mas apenas a que aquele esteja válido e não esteja apreendido, cassado ou cancelado por determinação de outro Estado -, a troca pode ser obtida por título caducado (obviamente após revalidação pois só o título caduco pode ser revalidado - título com validade suspensa sob condição) e sendo titulo de país da CPLP (em que a troca é dispensada mas pode ser requerida) sem realização de provas teóricas e práticas, salvo quanto a estas se for requerida a troca passados 2 anos após a fixação de residência para algumas categorias de cartas - artigo 128.º n.os1, 2, 7 alínea c) CE redação [DL 46/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2022-185971761).
 
-7.7.5 - O título de condução caduca, entre outros casos se não for revalidado, ou seja, se decorrer o prazo nele inserto como de validade, mas pode ser revalidado (ou renovado) até 2 anos depois, mais de 2 anos a 5 anos depois com sujeição a exame especial, e de 5 a 10 anos também sujeitos a exame especial - artigo 130.º n.<sup>os</sup>1 al. a), 2 alínea a) CE; decorrido o prazo de 10 anos após a data em que devia ser renovado, o titulo de condução caduca e não pode ser renovado - artigo 130.º n.º 3 alínea d) CE.
+7.7.5 - O título de condução caduca, entre outros casos se não for revalidado, ou seja, se decorrer o prazo nele inserto como de validade, mas pode ser revalidado (ou renovado) até 2 anos depois, mais de 2 anos a 5 anos depois com sujeição a exame especial, e de 5 a 10 anos também sujeitos a exame especial - artigo 130.º n.os1 al. a), 2 alínea a) CE; decorrido o prazo de 10 anos após a data em que devia ser renovado, o titulo de condução caduca e não pode ser renovado - artigo 130.º n.º 3 alínea d) CE.
 
 7.7.6 - O condutor que conduza veículo com motor com título caducado por falta de revalidação é sancionado com coima de 120 a 600€ - nos termos do artigo 130.º n.º 7 CE
 
@@ -818,15 +858,15 @@ O condutor que conduza veículo com motor com título caducado há mais de 10 an
 
 Da análise da legislação em causa e da ponderação efetuada, podemos concluir o seguinte:
 
-8.1 - Antes da existência do [DL 46/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2022-185971761) de 12/7 (em vigor desde 1/8/2022- artigo 3.º) e na vigência das alterações aos artºs 125.º e 128.º CE pelo [DL 102B/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-b-2020-150757538) de 9/12, não havia previsão legal especial para os condutores titulares da carta/ licença de condução emitidos pelos países da CPLP, que assim estavam subordinados ao regime geral (e se os respetivos países forem subscritores das Convenção de Genebra ou de Viena, sobre circulação rodoviária) podiam circular usando os títulos de condução do respetivo país, se fossem não residentes por 185 dias, e se residentes durante 90 dias, após o que os deviam trocar por carta de condução nacional e se não o fizessem eram sancionado com a coima, p.p. pelo artigo 125.º n.<sup>os</sup>3, 4 e 8 CE. Essa troca só podia ser efetuada até 2 anos após a fixação de residência, mas estava ainda dependente de o título estar válido (de acordo com a legislação do país emitente) e não se encontrar apreendido, cassado ou cancelado.
+8.1 - Antes da existência do [DL 46/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2022-185971761) de 12/7 (em vigor desde 1/8/2022- artigo 3.º) e na vigência das alterações aos artºs 125.º e 128.º CE pelo [DL 102B/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-b-2020-150757538) de 9/12, não havia previsão legal especial para os condutores titulares da carta/ licença de condução emitidos pelos países da CPLP, que assim estavam subordinados ao regime geral (e se os respetivos países forem subscritores das Convenção de Genebra ou de Viena, sobre circulação rodoviária) podiam circular usando os títulos de condução do respetivo país, se fossem não residentes por 185 dias, e se residentes durante 90 dias, após o que os deviam trocar por carta de condução nacional e se não o fizessem eram sancionado com a coima, p.p. pelo artigo 125.º n.os3, 4 e 8 CE. Essa troca só podia ser efetuada até 2 anos após a fixação de residência, mas estava ainda dependente de o título estar válido (de acordo com a legislação do país emitente) e não se encontrar apreendido, cassado ou cancelado.
 
 8.2 - O [DL 46/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2022-185971761) veio introduzir duas normas essenciais.
 
 A primeira no artigo 125.º CE no n.º 1 alínea c) alargando o núcleo dos títulos de condução reconhecidos em Portugal aos emitidos por países da OCDE e da CPLP desde que o Estado em causa seja subscritor da Convenção de Genebra de 19/9/1949 ou da Convenção de Viena de 8/11/1968, e não terem decorridos mais de 15 anos desde a data de emissão ou da última renovação e o titular ter menos de 60 anos e,
 
-A segunda no n.º 5 do mesmo artigo 125.º ao introduzir a norma estabelecendo que tais títulos só permitem conduzir em território nacional se “…se os seus titulares tiverem a idade mínima exigida pela lei portuguesa para a respetiva habilitação, encontrando-se válidos e não apreendidos, suspensos, caducados ou cassados por força de disposição legal, decisão administrativa ou sentença judicial aplicadas ao seu titular em Portugal ou no Estado emissor. (sublinhados nossos), independentemente de serem não residentes ou residentes, pois as normas dos n.<sup>os</sup>3 e 4 do artigo 125.º CE não se lhe aplicam, e quem infringir tal norma (em qualquer das suas vertentes, estando a licença válida, de acordo com o país de origem) é sancionado com coima p.p. pelo artigo 125.º n.º 8 CE.
+A segunda no n.º 5 do mesmo artigo 125.º ao introduzir a norma estabelecendo que tais títulos só permitem conduzir em território nacional se “…se os seus titulares tiverem a idade mínima exigida pela lei portuguesa para a respetiva habilitação, encontrando-se válidos e não apreendidos, suspensos, caducados ou cassados por força de disposição legal, decisão administrativa ou sentença judicial aplicadas ao seu titular em Portugal ou no Estado emissor. (sublinhados nossos), independentemente de serem não residentes ou residentes, pois as normas dos n.os3 e 4 do artigo 125.º CE não se lhe aplicam, e quem infringir tal norma (em qualquer das suas vertentes, estando a licença válida, de acordo com o país de origem) é sancionado com coima p.p. pelo artigo 125.º n.º 8 CE.
 
-Não sendo, por norma obrigatória, a troca de títulos emitidos pelos países da CPLP (n.<sup>os</sup>3 e 4 do artigo 125.º CE), nada impede a sua efetivação<sup>4</sup> (com dispensa de provas, salvo se for requerida após o prazo de 2 anos após a fixação de residência - n.º 7 alínea c) do artigo 128.º CE), a qual é regulada pelo artigo 128.º CE e impondo que o título esteja válido, que não se encontre apreendido, tenha sido cassado ou cancelado por determinação de um outro Estado. Esta norma não refere os títulos suspensos ou caducados como impeditivos de troca por carta de condução.
+Não sendo, por norma obrigatória, a troca de títulos emitidos pelos países da CPLP (n.os3 e 4 do artigo 125.º CE), nada impede a sua efetivação4 (com dispensa de provas, salvo se for requerida após o prazo de 2 anos após a fixação de residência - n.º 7 alínea c) do artigo 128.º CE), a qual é regulada pelo artigo 128.º CE e impondo que o título esteja válido, que não se encontre apreendido, tenha sido cassado ou cancelado por determinação de um outro Estado. Esta norma não refere os títulos suspensos ou caducados como impeditivos de troca por carta de condução.
 
 8.3 - Qual a regulamentação em relação aos títulos caducados?
 
@@ -836,7 +876,7 @@ Nestas circunstâncias, dispõe o artigo 130.º n.º 7 CE que quem conduzir com 
 
 Todavia o n.º 5 do mesmo artigo 130.º CE dispõe que “Os titulares de título de condução caducado consideram-se, para todos os efeitos legais, não habilitados a conduzir os veículos para os quais o título fora emitido, sendo-lhes aplicável o regime probatório previsto no artigo 122.º caso venham a obter novo título de condução.” e a ausência de habilitação de conduzir determina a proibição de o fazer (artigo 121.º CE) o que o faz incorrer no crime p.p. pelo artigo 3.º [DL 2/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1998-223835) de 3/1.
 
-Em face destas duas normas (n.<sup>os</sup>5 e 7 do artigo 130.º CE) importa proceder à sua harmonização, a qual se traduz no seguinte entendimento:
+Em face destas duas normas (n.os5 e 7 do artigo 130.º CE) importa proceder à sua harmonização, a qual se traduz no seguinte entendimento:
 
 - Se o titulo de condução se encontra caducado mas passível de ser ainda renovado, o que ocorre até 10 anos sobre a data em que podia ser renovado/revalidado, condutor do veículo comete a contraordenação p.p. pelo artigo 130.º n.º 7 CE com coima de 120 a 600€;
 
@@ -852,11 +892,11 @@ b) mas também aquele que já viu ultrapassado o prazo de validade nele inserto 
 
 9.1 - Está em causa, no acórdão recorrido, um título de condução emitido pelo Brasil (CNH), cujo prazo de validade estava ultrapassado (caducado em 9/6/2019).
 
-No que respeita a ser parte subscritora das Convenções internacionais sobre segurança rodoviária, tanto a República Federativa do Brasil como a República Portuguesa subscreveram a Convenção de Viena de 1968 sobre circulação rodoviária. E Portugal também subscreveu a Convenção sobre Trânsito Rodoviário, celebrada em Genebra a 19.09. 1949<sup>5</sup> com início de vigência em Portugal a 27/01/1956;
+No que respeita a ser parte subscritora das Convenções internacionais sobre segurança rodoviária, tanto a República Federativa do Brasil como a República Portuguesa subscreveram a Convenção de Viena de 1968 sobre circulação rodoviária. E Portugal também subscreveu a Convenção sobre Trânsito Rodoviário, celebrada em Genebra a 19.09. 19495 com início de vigência em Portugal a 27/01/1956;
 
-Por despacho de 27/5/2000 a carteira nacional de habilitação brasileira (CNH) que se apresente dentro do seu prazo de validade, foi reconhecida como título que habilita a conduzir veículos em território nacional, ao abrigo da alínea e) do n.º 1 do artigo 125.º do CE<sup>6</sup>.
+Por despacho de 27/5/2000 a carteira nacional de habilitação brasileira (CNH) que se apresente dentro do seu prazo de validade, foi reconhecida como título que habilita a conduzir veículos em território nacional, ao abrigo da alínea e) do n.º 1 do artigo 125.º do CE6.
 
-A República Federativa do Brasil é membro da CPLP (Comunidades dos Países de Língua Oficial Portuguesa) <sup>7</sup>
+A República Federativa do Brasil é membro da CPLP (Comunidades dos Países de Língua Oficial Portuguesa) 7
 
 9.2 - Após a entrada em vigor do [DL 46/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2022-185971761) de 12/7 que ocorreu em 1/8/2022, a CNH do Brasil é título habilitante para conduzir em Portugal veículos com motor, desde que:
 
@@ -864,27 +904,27 @@ A República Federativa do Brasil é membro da CPLP (Comunidades dos Países de 
 
 - o titular tenha menos de 60 anos de idade, sem necessidade de troca, e
 
-- o titular ter a idade mínima exigida pela lei portuguesa para a respetiva habilitação<sup>8</sup>
+- o titular ter a idade mínima exigida pela lei portuguesa para a respetiva habilitação8
 
 - o titulo esteja válido e não apreendido, suspenso, caducado ou cassado;
 
 Não se verificando estas circunstâncias, a CNH não permite ao seu titular conduzir veículo a motor, pois só naquelas condições é permitida a sua condução.
 
-9.3 - Se o titulo, CNH, estiver caducado não é permitida a condução (n.º 5 do artigo 125.º CE - redação do [DL 46/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2022-185971761)) que abrange na sua previsão todos os títulos reconhecidos em Portugal (do n.º 1 do mesmo artigo 125.º CE), e a condução fora destas condições legais, existindo CNH válida, mas caducada constitui a contraordenação p.p. pelo n.º 8 do artigo 125.º CE com o seguinte teor: “Quem infringir o disposto nos n.os 3 a 5, sendo titular de licença válida é sancionado com coima de (euro) 300 a (euro) 1500.” (sendo que os n.<sup>os</sup>3 e 4 não são aplicáveis aos títulos emitidos pelos países da CPLP)
+9.3 - Se o titulo, CNH, estiver caducado não é permitida a condução (n.º 5 do artigo 125.º CE - redação do [DL 46/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2022-185971761)) que abrange na sua previsão todos os títulos reconhecidos em Portugal (do n.º 1 do mesmo artigo 125.º CE), e a condução fora destas condições legais, existindo CNH válida, mas caducada constitui a contraordenação p.p. pelo n.º 8 do artigo 125.º CE com o seguinte teor: “Quem infringir o disposto nos n.os 3 a 5, sendo titular de licença válida é sancionado com coima de (euro) 300 a (euro) 1500.” (sendo que os n.os3 e 4 não são aplicáveis aos títulos emitidos pelos países da CPLP)
 
 Todavia a situação não é linear, pois que no que respeita aos títulos caducados, rege o artigo 130.º CE (cuja última alteração foi introduzida pelo [DL 102-B/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-b-2020-150757538) de 9/12), que dispondo, sobre a caducidade e a revalidação dos títulos caducados e suas condicionantes, estabelece que o título de condução caduca entre outras situações se não for revalidado (n.º 1 a)), sendo que, entre outras circunstâncias, não pode mais ser renovado se tiverem decorrido mais de dez anos sobre a data em que o deveria ter sido (n.º 3 alínea d) do artigo 130.º CE para o que dispõe de 10 anos.)
 
-9.4 - A legislação brasileira<sup>9</sup> emergente da Lei n.º 9.503, de 23 de Setembro de 1997 e sucessivas alterações, que instituiu o Código de Trânsito Brasileiro (CTB) <sup>10</sup> dispõe que conduzir sem carta de condução (CNH) constitui infração gravíssima e sujeita a multa (3 vezes) e apreensão do veículo, e conduzir com a carta caducada além dos 30 dias constitui infração gravíssima punida com multa, para além da retenção do veiculo <sup>11</sup>.
+9.4 - A legislação brasileira9 emergente da Lei n.º 9.503, de 23 de Setembro de 1997 e sucessivas alterações, que instituiu o Código de Trânsito Brasileiro (CTB) 10 dispõe que conduzir sem carta de condução (CNH) constitui infração gravíssima e sujeita a multa (3 vezes) e apreensão do veículo, e conduzir com a carta caducada além dos 30 dias constitui infração gravíssima punida com multa, para além da retenção do veiculo 11.
 
-Decorre das normas do CTB que a carta de condução cujo prazo expirou, (caducada), permite conduzir ainda durante o período de 30 dias sem qualquer penalidade e após essa data é sancionada essa condução e a CNH deve ser renovada para não sofrer a sanção do artigo 162.º inciso V <sup>12</sup>. Todavia, após o decurso desse período pode ser renovada, mas sem prazo para o efeito (indefinidamente e sem prazo limite) apenas sujeitando o seu titular aos exames legalmente previstos para a renovação<sup>13</sup> e, se conduzir, à sanção do citado artigo 162.º inciso V. do CTB.
+Decorre das normas do CTB que a carta de condução cujo prazo expirou, (caducada), permite conduzir ainda durante o período de 30 dias sem qualquer penalidade e após essa data é sancionada essa condução e a CNH deve ser renovada para não sofrer a sanção do artigo 162.º inciso V 12. Todavia, após o decurso desse período pode ser renovada, mas sem prazo para o efeito (indefinidamente e sem prazo limite) apenas sujeitando o seu titular aos exames legalmente previstos para a renovação13 e, se conduzir, à sanção do citado artigo 162.º inciso V. do CTB.
 
 Assim a habilitação para conduzir caduca no prazo assinalado na CNH. Esta deve ser renovada dentro dos 30 dias seguintes sem penalização. A carta de condução (CNH) pode ser renovada a todo tempo, e sendo no prazo de 1 ano precisa apenas apresentar exame médico, se há mais de 5 anos também tem de realizar curso de atualização.
 
 9.5 - Ao contrário, a carta de condução portuguesa só pode ser renovada até ao decurso do prazo de 10 anos data a partir da qual não pode mais ser renovada e o condutor incorre na prática do crime de condução sem carta (condução ilegal).
 
-Essa situação implica saber, qual a legislação que é aplicável para a renovação. Sendo o título de condução (CNH) emitido de acordo com as leis do Estado estrangeiro (Brasil) é este que fixa as condições em que a carta é renovada, pois é a legislação desse Estado que permite revalidar o título de condução que emitiu e lhe confere validade. O título estrangeiro (Brasil) é válido segundo a sua lei (e reconhecido por Portugal como tal) e logo só pode ser revalidado de acordo com essa mesma lei. <sup>14</sup>
+Essa situação implica saber, qual a legislação que é aplicável para a renovação. Sendo o título de condução (CNH) emitido de acordo com as leis do Estado estrangeiro (Brasil) é este que fixa as condições em que a carta é renovada, pois é a legislação desse Estado que permite revalidar o título de condução que emitiu e lhe confere validade. O título estrangeiro (Brasil) é válido segundo a sua lei (e reconhecido por Portugal como tal) e logo só pode ser revalidado de acordo com essa mesma lei. 14
 
-Enquanto não for renovada a CNH, não é permitida a condução em Portugal (artigo 125.º 1 c) e 5.º CE) sendo esta sancionada segundo as normas da lei portuguesa. <sup>15</sup>
+Enquanto não for renovada a CNH, não é permitida a condução em Portugal (artigo 125.º 1 c) e 5.º CE) sendo esta sancionada segundo as normas da lei portuguesa. 15
 
 9.6 - Qual a norma punitiva para o titular da CNH caducada e não renovada/ revalidada?
 
@@ -896,27 +936,27 @@ Na contraposição entre o n.º 5 e o n.º 7 do artigo 130.º CE, a questão é 
 
 9.7 - Diferente é a situação entre o n.º 7 do artigo 130.º CE e a do artigo 125.º n.º 8 por referência ao seu n.º 5.
 
-Se a punição prevista no n.º 8 do artigo 125.º CE já existia aquando entrada em vigor do [DL 46/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2022-185971761), a sua previsão era mais restrita abarcando (neste segmento) apenas a situação de condução dos títulos estrangeiros, reconhecidos em Portugal por quem não tivesse a idade mínima exigida pela lei portuguesa - n.º 5<sup>16</sup>. Com o [DL 46/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2022-185971761) a norma punitiva manteve-se, mas o n.º 5 sofreu profunda alteração e passou a dispor “5 - Os títulos referidos no n.º 1 só permitem conduzir em território nacional se os seus titulares tiverem a idade mínima exigida pela lei portuguesa para a respetiva habilitação, encontrando-se válidos e não apreendidos, suspensos, caducados ou cassados por força de disposição legal, decisão administrativa ou sentença judicial aplicadas ao seu titular em Portugal ou no Estado emissor.”, isto é abarcou na sua previsão, de só permitir a condução se os títulos estrangeiros se encontrassem válidos e não apreendidos, suspensos, caducados ou cassados, por força de uma disposição legal, decisão administrativa ou sentença judicial aplicadas ao seu titular em Portugal ou no Estado emissor.
+Se a punição prevista no n.º 8 do artigo 125.º CE já existia aquando entrada em vigor do [DL 46/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2022-185971761), a sua previsão era mais restrita abarcando (neste segmento) apenas a situação de condução dos títulos estrangeiros, reconhecidos em Portugal por quem não tivesse a idade mínima exigida pela lei portuguesa - n.º 516. Com o [DL 46/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2022-185971761) a norma punitiva manteve-se, mas o n.º 5 sofreu profunda alteração e passou a dispor “5 - Os títulos referidos no n.º 1 só permitem conduzir em território nacional se os seus titulares tiverem a idade mínima exigida pela lei portuguesa para a respetiva habilitação, encontrando-se válidos e não apreendidos, suspensos, caducados ou cassados por força de disposição legal, decisão administrativa ou sentença judicial aplicadas ao seu titular em Portugal ou no Estado emissor.”, isto é abarcou na sua previsão, de só permitir a condução se os títulos estrangeiros se encontrassem válidos e não apreendidos, suspensos, caducados ou cassados, por força de uma disposição legal, decisão administrativa ou sentença judicial aplicadas ao seu titular em Portugal ou no Estado emissor.
 
-Nestas circunstâncias passou a prever a sanção para quem sendo titular de licença de condução estrangeira válida infrinja a proibição de conduzir com a licença caducada, constituindo assim norma especial, retirando do âmbito da estatuição do artigo 130.º n.º 7 CE os títulos estrangeiros (lex specialis derogat legi generali) <sup>17</sup> em face do que, na economia da disposição em causa, a punição ficou a abarcar apenas as cartas de condução nacionais. Esta conflitualidade pode igualmente ser resolvida considerando a revogação tácita parcial do artigo 130.º n.º 7 CE por via do artigo 7.º n.º 2 do Código Civil, da “incompatibilidade entre as novas disposições e as regras precedentes”.
+Nestas circunstâncias passou a prever a sanção para quem sendo titular de licença de condução estrangeira válida infrinja a proibição de conduzir com a licença caducada, constituindo assim norma especial, retirando do âmbito da estatuição do artigo 130.º n.º 7 CE os títulos estrangeiros (lex specialis derogat legi generali) 17 em face do que, na economia da disposição em causa, a punição ficou a abarcar apenas as cartas de condução nacionais. Esta conflitualidade pode igualmente ser resolvida considerando a revogação tácita parcial do artigo 130.º n.º 7 CE por via do artigo 7.º n.º 2 do Código Civil, da “incompatibilidade entre as novas disposições e as regras precedentes”.
 
-Assim, o titular da CNH válida mas caducada (ou seja, com prazo de validade expirado) que conduza em Portugal veículo a motor comete a contraordenação p.p. pelo artigo 125.º n.<sup>os</sup>5 e 8 CE <sup>18</sup> e não a contraordenação p.p. pelo artigo 130.º n.º 7 CE ou o crime de condução ilegal p.p. pelo artigo 3.º [DL 2/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1998-223835), sendo que apenas a sua conduta constituirá crime de condução ilegal se o título já não poder ser revalidado em face da lei portuguesa (10 anos) ou antes desse período temporal se assim o determinar a legislação do respetivo Estado emissor ou este não admitir a revalidação (artigo 130.º n.º 5 CE).
+Assim, o titular da CNH válida mas caducada (ou seja, com prazo de validade expirado) que conduza em Portugal veículo a motor comete a contraordenação p.p. pelo artigo 125.º n.os5 e 8 CE 18 e não a contraordenação p.p. pelo artigo 130.º n.º 7 CE ou o crime de condução ilegal p.p. pelo artigo 3.º [DL 2/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1998-223835), sendo que apenas a sua conduta constituirá crime de condução ilegal se o título já não poder ser revalidado em face da lei portuguesa (10 anos) ou antes desse período temporal se assim o determinar a legislação do respetivo Estado emissor ou este não admitir a revalidação (artigo 130.º n.º 5 CE).
 
-9.8 - Se é o Estado emissor (no caso Brasil) <sup>19</sup> que pode revalidar a carta de condução que emitiu, sem prazo (estando apenas sujeito no Brasil à sanção do artigo 162.º inciso V do CTB), e exigindo Portugal aos seus nacionais a revalidação no prazo máximo de 10 anos sob pena de não ter título para conduzir e se o fizer pratica o crime de condução ilegal, então o titular da CNH pode conduzir em Portugal indefinidamente sem renovar o título de condução e sem cometer o crime de condução ilegal e apenas a contraordenação?
+9.8 - Se é o Estado emissor (no caso Brasil) 19 que pode revalidar a carta de condução que emitiu, sem prazo (estando apenas sujeito no Brasil à sanção do artigo 162.º inciso V do CTB), e exigindo Portugal aos seus nacionais a revalidação no prazo máximo de 10 anos sob pena de não ter título para conduzir e se o fizer pratica o crime de condução ilegal, então o titular da CNH pode conduzir em Portugal indefinidamente sem renovar o título de condução e sem cometer o crime de condução ilegal e apenas a contraordenação?
 
 Cremos que não.
 
-Desde logo, porque Portugal apenas reconhece a CNH como título para conduzir veículos motorizados, no artigo 125.º 1 c) CE se não tiverem decorrido mais de 15 anos desde a data de emissão ou última renovação do titulo (§ii) <sup>20</sup> e o seu titular não tiver 60 ou mais anos (§iii)) pelo que se tiverem decorrido mais de 15 anos desde a data de emissão ou da renovação, ou o titular tiver 60 ou mais anos a CNH não é título habilitante para conduzir (pois aquelas condições são cumulativas <sup>21</sup>), e o seu titular se o fizer comete o crime de condução ilegal <sup>22</sup>.
+Desde logo, porque Portugal apenas reconhece a CNH como título para conduzir veículos motorizados, no artigo 125.º 1 c) CE se não tiverem decorrido mais de 15 anos desde a data de emissão ou última renovação do titulo (§ii) 20 e o seu titular não tiver 60 ou mais anos (§iii)) pelo que se tiverem decorrido mais de 15 anos desde a data de emissão ou da renovação, ou o titular tiver 60 ou mais anos a CNH não é título habilitante para conduzir (pois aquelas condições são cumulativas 21), e o seu titular se o fizer comete o crime de condução ilegal 22.
 
-Por outro lado estando limitada a renovação das cartas de condução nacionais aos 10 anos após o prazo de validade, não pode ser atribuída validade a cartas de condução estrangeiras com prazo de validade expirado há mais de 10 anos, sob pena de atribuição de validade, na ordem jurídica nacional, a normas jurídicas estrangeiras, contrárias às normas portuguesas de regulamentação da mesma atividade, ou de outro modo, atribuir a cidadãos estrangeiros direitos mais favoráveis do que aos seus nacionais, punindo estes criminalmente e dessa punição excluindo aqueles cidadãos estrangeiros. Acresce que nos termos da legislação brasileira (CTB) também é o prazo de 10 anos o prazo normal de validade da CNH, findo o qual a condução com a carta caducada é objeto de punição <sup>23</sup>.
+Por outro lado estando limitada a renovação das cartas de condução nacionais aos 10 anos após o prazo de validade, não pode ser atribuída validade a cartas de condução estrangeiras com prazo de validade expirado há mais de 10 anos, sob pena de atribuição de validade, na ordem jurídica nacional, a normas jurídicas estrangeiras, contrárias às normas portuguesas de regulamentação da mesma atividade, ou de outro modo, atribuir a cidadãos estrangeiros direitos mais favoráveis do que aos seus nacionais, punindo estes criminalmente e dessa punição excluindo aqueles cidadãos estrangeiros. Acresce que nos termos da legislação brasileira (CTB) também é o prazo de 10 anos o prazo normal de validade da CNH, findo o qual a condução com a carta caducada é objeto de punição 23.
 
 Ocorreria, por outro lado, uma violação do princípio da igualdade previsto no artigo 13.º Constituição da Republica Portuguesa (CRP) em desfavor dos cidadãos nacionais não justificada e desproporcional, e do artigo 15.º n.º 1 CRP, que determina a sujeição dos estrangeiros “aos deveres do cidadão português”
 
-Sendo assim, o condutor de veiculo a motor, titular da CNH reconhecida em Portugal <sup>24</sup>, mas caducada há não mais de 10 anos, e com a idade mínima exigida pela lei portuguesa para a respetiva habilitação, pratica a contraordenação p.p. pelo artigo 125.º n.os 5 e 8 CE, e em contrapartida sendo titular da mesma CNH caducada há mais de 10 anos pratica o crime de condução ilegal, pois a sua CNH não é reconhecida (artigo 125.º n.º 1 alínea c) CE), nem pode ser mais renovada segundo a lei portuguesa <sup>25</sup> e para conduzir em Portugal.
+Sendo assim, o condutor de veiculo a motor, titular da CNH reconhecida em Portugal 24, mas caducada há não mais de 10 anos, e com a idade mínima exigida pela lei portuguesa para a respetiva habilitação, pratica a contraordenação p.p. pelo artigo 125.º n.os 5 e 8 CE, e em contrapartida sendo titular da mesma CNH caducada há mais de 10 anos pratica o crime de condução ilegal, pois a sua CNH não é reconhecida (artigo 125.º n.º 1 alínea c) CE), nem pode ser mais renovada segundo a lei portuguesa 25 e para conduzir em Portugal.
 
-9.9 - A CNH só é reconhecida como título habilitante de condução se desde a data da sua emissão ou da sua renovação não tiverem decorrido 15 anos, pois se tiver ocorrido esse prazo de 15 anos o titular não tem título reconhecido para conduzir e logo pratica o crime de condução ilegal <sup>26</sup>.
+9.9 - A CNH só é reconhecida como título habilitante de condução se desde a data da sua emissão ou da sua renovação não tiverem decorrido 15 anos, pois se tiver ocorrido esse prazo de 15 anos o titular não tem título reconhecido para conduzir e logo pratica o crime de condução ilegal 26.
 
-Se a CNH já ultrapassou o seu prazo de validade mas não ainda o prazo de 15 anos (do artigo 125.º n.º 1 alínea c) §ii CE) desde a data da sua emissão ou renovação, o seu titular se conduzir em desobediência ao comando do n.º 5 comete a contraordenação p.p. pelo n.º 8 do artigo 125.º CE, ou seja, pratica a contraordenação o titular que conduza com carta caducada desde que não ultrapasse os 15 anos desde a sua emissão ou renovação, o que implica ter sempre presente a legislação brasileira, que no caso exige a renovação “I - a cada 10 (dez) anos, para condutores com idade inferior a 50 (cinquenta) anos; II - a cada 5 (cinco) anos, para condutores com idade igual ou superior a 50 (cinquenta) anos e inferior a 70 (setenta) anos; III - a cada 3 (três) anos, para condutores com idade igual ou superior a 70 (setenta) anos.” <sup>27</sup>.
+Se a CNH já ultrapassou o seu prazo de validade mas não ainda o prazo de 15 anos (do artigo 125.º n.º 1 alínea c) §ii CE) desde a data da sua emissão ou renovação, o seu titular se conduzir em desobediência ao comando do n.º 5 comete a contraordenação p.p. pelo n.º 8 do artigo 125.º CE, ou seja, pratica a contraordenação o titular que conduza com carta caducada desde que não ultrapasse os 15 anos desde a sua emissão ou renovação, o que implica ter sempre presente a legislação brasileira, que no caso exige a renovação “I - a cada 10 (dez) anos, para condutores com idade inferior a 50 (cinquenta) anos; II - a cada 5 (cinco) anos, para condutores com idade igual ou superior a 50 (cinquenta) anos e inferior a 70 (setenta) anos; III - a cada 3 (três) anos, para condutores com idade igual ou superior a 70 (setenta) anos.” 27.
 
 Se a CNH já ultrapassou o seu prazo de validade ou da sua renovação em mais de 10 anos, e conduzir em Portugal veículo a motor comete o crime de condução ilegal, pois foi ultrapassado o prazo a partir do qual não é permitida em Portugal a sua renovação.
 
@@ -926,7 +966,7 @@ a) seja titular do título de condução (com habilitação para condução de v
 
 b) o Estado emissor do título de condução seja subscritor da Convenção Internacional de Genebra, de 19.09.1949 (em conformidade com o anexo 9), ou da Convenção Internacional de Viena, de 08.11.1968 (em conformidade com o anexo 6)
 
-c) tenha uma idade compreendia entre os 18 <sup>28</sup> e os 60 anos de idade
+c) tenha uma idade compreendia entre os 18 28 e os 60 anos de idade
 
 d) o título de condução se encontre válido, embora caducado, apenas por apresentar uma data de validade ultrapassada.
 
@@ -934,7 +974,7 @@ e) o título de condução em causa não tenha sido emitido ou renovado há mais
 
 d) o título de condução em causa não se encontre apreendido, suspenso ou cassado por força de disposição legal, decisão administrativa ou sentença judicial aplicadas ao seu titular em Portugal ou no Estado emissor pois é-lhe reconhecida a validade do seu título de condução.
 
-Se conduzir estando o mesmo título naquelas condições mas caducado por ter ultrapassado o prazo de renovação mas sendo passível de renovação (ou apreendido, suspenso ou cassados por força de disposição legal, decisão administrativa ou sentença judicial aplicadas ao seu titular em Portugal <sup>29</sup> ou no Estado emissor, pratica a contraordenação p.p. pelo artigo 125.º n.º 8 do CE sancionado com coima de 300 a 1500€.
+Se conduzir estando o mesmo título naquelas condições mas caducado por ter ultrapassado o prazo de renovação mas sendo passível de renovação (ou apreendido, suspenso ou cassados por força de disposição legal, decisão administrativa ou sentença judicial aplicadas ao seu titular em Portugal 29 ou no Estado emissor, pratica a contraordenação p.p. pelo artigo 125.º n.º 8 do CE sancionado com coima de 300 a 1500€.
 
 Se o fizer infringindo tais condicionantes e nomeadamente a idade de obtenção do título de condução, idade superior a 60 anos, ou com título caducada há mais de 10 anos, não tem título válido que o habilite a conduzir em Portugal incorrendo na prática do crime de condução ilegal.
 
@@ -942,7 +982,7 @@ Tal situação implica um apuramento de todo o circunstancialismo em que o visad
 
 Concluímos assim, que o condutor no acórdão recorrido, o arguido, cidadão brasileiro, nasceu em 18/3/1999, pelo que à data dos factos (1/9/2020) apreciados no acórdão recorrido tinha 21 anos de idade. Era titular da CNH emitida pelo Brasil, país da CPLP, com data de validade de 9/6/2019, pelo que se encontrava caducada devendo ser renovada até 9/7/2019 sem penalização, e posteriormente sem prazo mas com submissão a exame de aptidão física e mental, não tendo ainda decorrido o prazo de 10 anos para a caducidade definitiva segundo a legislação portuguesa.
 
-Constituindo a questão de direito em oposição em saber se a condução de veículo a motor na via pública por titular de carta de condução caducada emitida pelas autoridades brasileiras constitui crime de condução sem habilitação legal, p. e p. pelo art. 3.º, n.<sup>os</sup>1 e 2, do [DL n.º 2/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1997-302168), de 03/01, ou antes a contraordenação, p. e p. pelo art. 125.º, n.<sup>os</sup>5 e 8, do C.E, impõe-se concluir que, a condução de veiculo a motor na via publica por titular da carteira nacional de habilitação (CNH) do Brasil, com idade mínima exigida pela lei portuguesa para a respetiva habilitação e idade inferior a 60 anos de idade, e não tenham decorrido mais de 15 anos desde a sua emissão ou da ultima renovação, e caducada há não mais de 10 anos constitui a contraordenação p.p. pelo artigo 125.º n.<sup>os</sup>5 e 8 do CE, e tendo caducado há mais de 10 anos constitui o crime de condução ilegal p. p. pelo art. 3.º, n.<sup>os</sup>1 e 2, do [DL n.º 2/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1998-223835), de 03/01.
+Constituindo a questão de direito em oposição em saber se a condução de veículo a motor na via pública por titular de carta de condução caducada emitida pelas autoridades brasileiras constitui crime de condução sem habilitação legal, p. e p. pelo art. 3.º, n.os1 e 2, do [DL n.º 2/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1997-302168), de 03/01, ou antes a contraordenação, p. e p. pelo art. 125.º, n.os5 e 8, do C.E, impõe-se concluir que, a condução de veiculo a motor na via publica por titular da carteira nacional de habilitação (CNH) do Brasil, com idade mínima exigida pela lei portuguesa para a respetiva habilitação e idade inferior a 60 anos de idade, e não tenham decorrido mais de 15 anos desde a sua emissão ou da ultima renovação, e caducada há não mais de 10 anos constitui a contraordenação p.p. pelo artigo 125.º n.os5 e 8 do CE, e tendo caducado há mais de 10 anos constitui o crime de condução ilegal p. p. pelo art. 3.º, n.os1 e 2, do [DL n.º 2/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1998-223835), de 03/01.
 
 +
 
@@ -966,17 +1006,17 @@ Lisboa e Supremo Tribunal de Justiça, 01 de Outubro de 2025. - José Alberto Va
 
 ___
 
-<sup>1</sup> Identidade de factos “entendida esta, contudo, «não como uma identidade absoluta entre dois acontecimentos históricos mas que eles se equivalham para efeitos de subsunção jurídica a ponto de se poder dizer que, pese embora a solução jurídica encontrada num dos processos assente numa factualidade que não coincide exactamente com a do outro processo, esta solução jurídica continuaria a impor-se para o subscritor mesmo que a factualidade fosse a do outro processo» (Ac STJ de 2014.06.26, proc 1714/11.5GACSC.L1.S2)”, apud Ac STJ 9/7/2020 Proc. cons. Gomes da Silva
+1 Identidade de factos “entendida esta, contudo, «não como uma identidade absoluta entre dois acontecimentos históricos mas que eles se equivalham para efeitos de subsunção jurídica a ponto de se poder dizer que, pese embora a solução jurídica encontrada num dos processos assente numa factualidade que não coincide exactamente com a do outro processo, esta solução jurídica continuaria a impor-se para o subscritor mesmo que a factualidade fosse a do outro processo» (Ac STJ de 2014.06.26, proc 1714/11.5GACSC.L1.S2)”, apud Ac STJ 9/7/2020 Proc. cons. Gomes da Silva
 
-<sup>2</sup> Artigo 143.º Código Transito Brasileiro - CTB “Art. 143. Os candidatos poderão habilitar-se nas categorias de A a E, obedecida a seguinte gradação:
+2 Artigo 143.º Código Transito Brasileiro - CTB “Art. 143. Os candidatos poderão habilitar-se nas categorias de A a E, obedecida a seguinte gradação:
 
 I - Categoria A - condutor de veículo motorizado de duas ou três rodas, com ou sem carro lateral;
 
 II - Categoria B - condutor de veículo motorizado, não abrangido pela categoria A, cujo peso bruto total não exceda a três mil e quinhentos quilogramas e cuja lotação não exceda a oito lugares, excluído o do motorista; [...]
 
-<sup>3</sup> e em infração aos n.<sup>os</sup>3 e 4.º do artigo 125.ºCE: após 185 dias se não residentes e após os 90 dias da fixação de residência para títulos não emitidos pela CPLP,
+3 e em infração aos n.os3 e 4.º do artigo 125.ºCE: após 185 dias se não residentes e após os 90 dias da fixação de residência para títulos não emitidos pela CPLP,
 
-<sup>4</sup> De harmonia com o disposto no artigo 13.º n.<sup>os</sup>1 e 6 do Regulamento da Habilitação Legal para conduzir ([DL 138/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2012-178550) de 5/7) que reconhece em Portugal para a conduzir, os títulos estrangeiros previstos no artigo 125.º CE desde que estejam válidos e de acordo com a idade dos seus titulares exigida em Portugal, podemos concluir que:
+4 De harmonia com o disposto no artigo 13.º n.os1 e 6 do Regulamento da Habilitação Legal para conduzir ([DL 138/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2012-178550) de 5/7) que reconhece em Portugal para a conduzir, os títulos estrangeiros previstos no artigo 125.º CE desde que estejam válidos e de acordo com a idade dos seus titulares exigida em Portugal, podemos concluir que:
 
 1 - Os títulos de condução estrangeiros previstos no artigo 125.º CE dos países da CPLP, são reconhecidos em Portugal e estando válidos e não apreendidos, suspensos, caducados ou cassados permitem a condução dos veículos para que foram concedidos durante o tempo da sua validade sem necessidade de troca por carta de condução, desde que o pais emissor seja parte de uma das Convenções de Genebra ou de Viena mencionadas sobre segurança rodoviária, não tenham decorrido mais de 15 anos sobre a data de emissão ou da última renovação e o titular tenha menos de 60 anos de idade.
 
@@ -990,11 +1030,11 @@ a) Até ao termo de validade do título estrangeiro, se for emitido por Estado-m
 
 Na verdade, o [DL 46/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2022-185971761) que procedeu à alteração da redação do artºs 125.º, 128.º CE, veio equiparar os títulos dos países CPLP aos demais títulos previstos nessas normas quais sejam território de Macau, EU e EEE e acrescentou os países da OCDE e visou, de acordo como a seu preâmbulo, o reforço dos “direitos dos cidadãos estrangeiros que se deslocam para o nosso país, quer tratando-se de deslocações temporárias com finalidades turísticas quer tratando-se de deslocações para trabalhar ou investir no nosso país”, visando “a integração dos imigrantes”, através da “dispensa das trocas de cartas de condução, habilitando-se a condução no território nacional com títulos emitidos naqueles Estados, através do reconhecimento dos títulos de condução estrangeiros.” tal como já era permitido aos demais titulares dos títulos constantes do artigo 125.º n.º 1 CE (redação do [DL 102-B/ 2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-b-2020-150757538) de 09/12). E em face desta equiparação seria sem sentido manter dois regimes diferenciados, o que iria contra a intenção/espírito do legislador face à finalidade visada pela norma.
 
-<sup>5</sup> - Convenção de Viena de 1968 sobre circulação rodoviária. Aprovada pela [Resolução da Assembleia da República n.º 107/2010](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/107-2010-341446); ratificada pelo [Decreto do Presidente da República n.º 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/92-2010-341441) Publicação: Diário da República I, n.º 178, de 13/09/2010, in https://files.diariodarepublica.pt/1s/2010/09/17800/0400904050.pdf
+5 - Convenção de Viena de 1968 sobre circulação rodoviária. Aprovada pela [Resolução da Assembleia da República n.º 107/2010](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/107-2010-341446); ratificada pelo [Decreto do Presidente da República n.º 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/92-2010-341441) Publicação: Diário da República I, n.º 178, de 13/09/2010, in https://files.diariodarepublica.pt/1s/2010/09/17800/0400904050.pdf
 
 - Convenção sobre Trânsito Rodoviário, celebrada em Genebra a 19.09.1949, com início de vigência em Portugal a 27/01/1956 Publicação: Diário do Governo n.º 254/1954, Série I de 1954-11-13, https://diariodarepublica.pt/dr/detalhe/decreto-lei/39904-681817 Versão consolidada in https://dcjri.ministeriopublico.pt//sites/default/files/documentos/instrumentos/dl39904.pdf
 
-<sup>6</sup> [Despacho n.º 10 942/2000](https://diariodarepublica.pt/dr/detalhe/despacho/10942-2000-3272203), de 27/05, publicado em DR n.º 123/2000, 2.ª série, de 27/05/2000, in https://diariodarepublica.pt/dr/detalhe/despacho/10942-2000-3272203 do seguinte teor:
+6 [Despacho n.º 10 942/2000](https://diariodarepublica.pt/dr/detalhe/despacho/10942-2000-3272203), de 27/05, publicado em DR n.º 123/2000, 2.ª série, de 27/05/2000, in https://diariodarepublica.pt/dr/detalhe/despacho/10942-2000-3272203 do seguinte teor:
 
 Carteira nacional de habilitação brasileira (CNH). - Torna-se necessário confirmar a validade das carteiras nacionais de habilitação brasileiras para habilitar à condução de veículos a motor, nos termos do artigo 125.º do Código da Estrada.
 
@@ -1002,13 +1042,13 @@ Tendo presente que a legislação de trânsito brasileira em vigor reconhece a c
 
 As carteiras nacionais de habilitação brasileiras (CNH) que se apresentem dentro do seu prazo de validade habilitam à condução de veículos em território nacional, ao abrigo da alínea e) do n.º 1 do artigo 125.º do Código da Estrada.
 
-<sup>7</sup> A Comunidade dos Países de Língua Portuguesa (CPLP) foi estabelecida através da Declaração Constitutiva de 17 de julho de 1996, na Conferência de Chefes de Estado e de Governo que decorreu em Lisboa. Nessa cimeira reuniram-se Angola, Brasil, Cabo Verde, Guiné-Bissau, Moçambique, Portugal e São Tomé e Príncipe.
+7 A Comunidade dos Países de Língua Portuguesa (CPLP) foi estabelecida através da Declaração Constitutiva de 17 de julho de 1996, na Conferência de Chefes de Estado e de Governo que decorreu em Lisboa. Nessa cimeira reuniram-se Angola, Brasil, Cabo Verde, Guiné-Bissau, Moçambique, Portugal e São Tomé e Príncipe.
 
-<sup>8</sup> Artigo 20.º RHLC.
+8 Artigo 20.º RHLC.
 
-<sup>9</sup> Obtida com a meritória colaboração do Gabinete de Direito Comparado da Procuradoria-Geral da República
+9 Obtida com a meritória colaboração do Gabinete de Direito Comparado da Procuradoria-Geral da República
 
-<sup>10</sup> Doravante CTB, acessível https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.planalto.gov.br%2Fccivil_03 %2Fleis%2Fl9503compilado.htm&data=05 %7C02 %7Cjose.a.carreto%40stj.pt%7C0364d432662e45f9b5da08dd4070584e%7Cb7a992b1045b44239957e1860d98e82d%7C0 %7C0 %7C638737573452938397 %7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0 %7C%7C%7C&sdata=UAXNbtnZsjW8xNB%2B1 %2BEufatqos1q5PdGb7tcOdepOGo%3D&reserved=0
+10 Doravante CTB, acessível https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.planalto.gov.br%2Fccivil_03 %2Fleis%2Fl9503compilado.htm&data=05 %7C02 %7Cjose.a.carreto%40stj.pt%7C0364d432662e45f9b5da08dd4070584e%7Cb7a992b1045b44239957e1860d98e82d%7C0 %7C0 %7C638737573452938397 %7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0 %7C%7C%7C&sdata=UAXNbtnZsjW8xNB%2B1 %2BEufatqos1q5PdGb7tcOdepOGo%3D&reserved=0
 
 e acedido em 20/3/2025, e nos artºs 140 a 160.º regula os requisitos e formalidades para obter a carta de condução de todas as categorias incluindo as especiais (profissionais) exigindo no artigo 140.º CTB “A habilitação para conduzir veículo automotor será apurada por meio de exames que deverão ser realizados no órgão ou entidade executivos do Estado ou do Distrito Federal, do domicílio ou residência do candidato, ou na sede estadual ou distrital do próprio órgão, e o condutor deverá preencher os seguintes requisitos: (Redação dada pela Lei n.º 14.599, de 2023)
 
@@ -1018,7 +1058,7 @@ II - saber ler e escrever;
 
 III - possuir Carteira de Identidade ou equivalente. [...]
 
-<sup>11</sup> Art. 162. Dirigir veículo:
+11 Art. 162. Dirigir veículo:
 
 I - sem possuir Carteira Nacional de Habilitação, Permissão para Dirigir ou Autorização para Conduzir Ciclomotor
 
@@ -1056,13 +1096,13 @@ Medida administrativa - retenção do veículo até a apresentação de condutor
 
 - O que se traduz “no valor de R$ 293,47 (x 3) e 7 pontos na CNH” cfr - CNH vencida: como renovar, prazos e valores acedido em 21/3/2025.
 
-<sup>12</sup> Cfr. nota 9 e sem prejuízo de poder constituir crime: “Art. 309. Dirigir veículo automotor, em via pública, sem a devida Permissão para Dirigir ou Habilitação ou, ainda, se cassado o direito de dirigir, gerando perigo de dano:
+12 Cfr. nota 9 e sem prejuízo de poder constituir crime: “Art. 309. Dirigir veículo automotor, em via pública, sem a devida Permissão para Dirigir ou Habilitação ou, ainda, se cassado o direito de dirigir, gerando perigo de dano:
 
 Penas - detenção, de seis meses a um ano, ou multa.”
 
-<sup>13</sup> Artigo 159.º “§ 10. A validade da Carteira Nacional de Habilitação está condicionada ao prazo de vigência do exame de aptidão física e mental.”
+13 Artigo 159.º “§ 10. A validade da Carteira Nacional de Habilitação está condicionada ao prazo de vigência do exame de aptidão física e mental.”
 
-###### Artigo 147.º2 CNH “§ 2.º O exame de aptidão física e mental, a ser realizado no local de residência ou domicílio do examinado, será preliminar e renovável com a seguinte periodicidade
+Artigo 147.º2 CNH “§ 2.º O exame de aptidão física e mental, a ser realizado no local de residência ou domicílio do examinado, será preliminar e renovável com a seguinte periodicidade
 
 I - a cada 10 (dez) anos, para condutores com idade inferior a 50 (cinquenta) anos
 
@@ -1072,35 +1112,35 @@ III - a cada 3 (três) anos, para condutores com idade igual ou superior a 70 (s
 
 § 3o O exame previsto no § 2o incluirá avaliação psicológica preliminar e complementar sempre que a ele se submeter o condutor que exerce atividade remunerada ao veículo, incluindo-se esta avaliação para os demais candidatos apenas no exame referente à primeira habilitação”
 
-<sup>14</sup> Cfr. artigo 125.º 1 alínea c) ii) que se refere à renovação do título dos países da CPLP
+14 Cfr. artigo 125.º 1 alínea c) ii) que se refere à renovação do título dos países da CPLP
 
-<sup>15</sup> No Brasil também estaria sujeita a sanção decorridos os 30 dias para renovar;
+15 No Brasil também estaria sujeita a sanção decorridos os 30 dias para renovar;
 
-<sup>16</sup> Artigo 125.º n.º 5 CE redação do [DL 102B/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-b-2020-150757538) de 9/12 “Os títulos referidos no n.º 1 só permitem conduzir em território nacional se os seus titulares tiverem a idade mínima exigida pela lei portuguesa para a respectiva habilitação.”
+16 Artigo 125.º n.º 5 CE redação do [DL 102B/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-b-2020-150757538) de 9/12 “Os títulos referidos no n.º 1 só permitem conduzir em território nacional se os seus titulares tiverem a idade mínima exigida pela lei portuguesa para a respectiva habilitação.”
 
-<sup>17</sup> Cremos não haver qualquer duvida que o [DL 46/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2022-185971761) ao alterar o artigo 125.º e 128.º CE o fez para contemplar especialmente os cidadãos dos países CPLP (e também dos países da OCDE) como expressa no respetivo preâmbulo.
+17 Cremos não haver qualquer duvida que o [DL 46/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2022-185971761) ao alterar o artigo 125.º e 128.º CE o fez para contemplar especialmente os cidadãos dos países CPLP (e também dos países da OCDE) como expressa no respetivo preâmbulo.
 
-<sup>18</sup> A esta conclusão chegou o acórdão recorrido, esclarecendo que em face do confronto entre as normas contraordenacionais suscetíveis de aplicação, a solução encontrada “permite extrair um juízo de censurabilidade agravado para a situação de titulares de cartas de condução estrangeiras que conduzem em Portugal com títulos caducados, com vista a obstar à prática de tal conduta”. No sentido da punição pelo artigo 125.º n.º 8 CE o ac. R C.15/5/2023 proc.50/11/1GTGRD.C1 www.dgsi.pt entre outros citados, e ac. STJ de 24/01/2024, Proc. n.º 1821/20.3GBABF.E1.S1, Cons. António Latas assinalado no texto.
+18 A esta conclusão chegou o acórdão recorrido, esclarecendo que em face do confronto entre as normas contraordenacionais suscetíveis de aplicação, a solução encontrada “permite extrair um juízo de censurabilidade agravado para a situação de titulares de cartas de condução estrangeiras que conduzem em Portugal com títulos caducados, com vista a obstar à prática de tal conduta”. No sentido da punição pelo artigo 125.º n.º 8 CE o ac. R C.15/5/2023 proc.50/11/1GTGRD.C1 www.dgsi.pt entre outros citados, e ac. STJ de 24/01/2024, Proc. n.º 1821/20.3GBABF.E1.S1, Cons. António Latas assinalado no texto.
 
-<sup>19</sup> Aplicável a todos os países da CPLP;
+19 Aplicável a todos os países da CPLP;
 
-<sup>20</sup> Face à diversidade de legislações em causa (países da OCDE e da CPLP) e de modo a abarcar a diversidade de legislações que possam existir é compreensível essa amplitude dos 15 anos. Há que atender que no Brasil a renovação é a cada 10 anos (até ao 59 anos inclusive)
+20 Face à diversidade de legislações em causa (países da OCDE e da CPLP) e de modo a abarcar a diversidade de legislações que possam existir é compreensível essa amplitude dos 15 anos. Há que atender que no Brasil a renovação é a cada 10 anos (até ao 59 anos inclusive)
 
-<sup>21</sup> Artigo 125.º 1 c) CE a que acresce a 3.ª condição cumulativa: o Estado emissor ser subscritor da Convenção Internacional de Genebra de 19/9/1949 ou da Convenção Internacional de Viena de 8/11/1968, ambas sobre circulação rodoviária.
+21 Artigo 125.º 1 c) CE a que acresce a 3.ª condição cumulativa: o Estado emissor ser subscritor da Convenção Internacional de Genebra de 19/9/1949 ou da Convenção Internacional de Viena de 8/11/1968, ambas sobre circulação rodoviária.
 
-<sup>22</sup> Sem prejuízo de poder a situação do condutor ser abrangida por outra norma permissiva da condução e reconhecimento do respectivo título - artigo 125.º n.º 1 al.s d), e) e n.<sup>os</sup>3 e 4 CE.
+22 Sem prejuízo de poder a situação do condutor ser abrangida por outra norma permissiva da condução e reconhecimento do respectivo título - artigo 125.º n.º 1 al.s d), e) e n.os3 e 4 CE.
 
-<sup>23</sup> Artigo 162.º inciso V, e artigo 147.º §2 I, do CTB;
+23 Artigo 162.º inciso V, e artigo 147.º §2 I, do CTB;
 
-<sup>24</sup> Que observe as condições cumulativas previstas no artigo 125.º 1c) CE;
+24 Que observe as condições cumulativas previstas no artigo 125.º 1c) CE;
 
-<sup>25</sup> E enquanto não for renovada pelo Estado emissor (Brasil);
+25 E enquanto não for renovada pelo Estado emissor (Brasil);
 
-<sup>26</sup> Salvo se tiver o reconhecimento do seu título de condução por outra via. Cfr nota 20.
+26 Salvo se tiver o reconhecimento do seu título de condução por outra via. Cfr nota 20.
 
-<sup>27</sup> Artigo 147.º § 2 CTB e artigo 159.º§ 10. “A validade da Carteira Nacional de Habilitação está condicionada ao prazo de vigência do exame de aptidão física e mental.”
+27 Artigo 147.º § 2 CTB e artigo 159.º§ 10. “A validade da Carteira Nacional de Habilitação está condicionada ao prazo de vigência do exame de aptidão física e mental.”
 
-<sup>28</sup> Sem prejuízo de a idade mínima ser inferior ou superior de acordo com a categoria de veículo - artigo 20.º do Regulamento da Habilitação Legal Para Conduzir ([DL n.º 138/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2012-178550), de 05 de Julho): “1 - Para obtenção de título de condução são necessárias as seguintes idades mínimas, de acordo com a habilitação pretendida:
+28 Sem prejuízo de a idade mínima ser inferior ou superior de acordo com a categoria de veículo - artigo 20.º do Regulamento da Habilitação Legal Para Conduzir ([DL n.º 138/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2012-178550), de 05 de Julho): “1 - Para obtenção de título de condução são necessárias as seguintes idades mínimas, de acordo com a habilitação pretendida:
 
 a) Categoria AM:
 
@@ -1132,4 +1172,6 @@ g) Categorias D e DE: 24, ou 21 ou 23 anos, desde que, nestes casos, possua a ca
 
 5 - Só podem conduzir veículos da categoria CE cuja massa máxima autorizada exceda 20 000 kg os condutores que não tenham completado 67 anos de idade.”
 
-<sup>29</sup> Sem prejuízo de poder incorrer também na prática do crime de Violação de imposições, proibições ou interdições p.p. pelo artigo 353.º do Código Penal: “Quem violar imposições, proibições ou interdições determinadas por sentença criminal, a título de pena aplicada em processo sumaríssimo, de pena acessória ou de medida de segurança não privativa da liberdade, é punido com pena de prisão até dois anos ou com pena de multa até 240 dias.”
+29 Sem prejuízo de poder incorrer também na prática do crime de Violação de imposições, proibições ou interdições p.p. pelo artigo 353.º do Código Penal: “Quem violar imposições, proibições ou interdições determinadas por sentença criminal, a título de pena aplicada em processo sumaríssimo, de pena acessória ou de medida de segurança não privativa da liberdade, é punido com pena de prisão até dois anos ou com pena de multa até 240 dias.”
+
+119722945

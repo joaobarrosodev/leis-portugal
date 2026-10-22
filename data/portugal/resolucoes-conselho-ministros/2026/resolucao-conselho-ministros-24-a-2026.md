@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/24-a/2026/02/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/24-a-2026-1039064235
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T18:31:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0044261d85a8ba1e785050c268906ed24d217cbb5232ea4a831929858f0c65b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cceb702428e3f26b41486fa91a1d9768b7dcd6f6f2da5790748aea85c2371fa5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:31:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,12 +80,15 @@ subjects:
 - Caldas da Rainha
 - Cantanhede
 - Castanheira de PÊRA
+- Castelo Branco
+- Coimbra
 - Condeixa-a-nova
 - Constância
 - Covilhã
 - Entroncamento
 - Estarreja
 - Ferreira do Zêzere
+- Figueira da Foz
 - Figueiró dos Vinhos
 - Fundão
 - Góis
@@ -96,6 +99,7 @@ subjects:
 - Lourinhã
 - Lousã
 - Mação
+- Marinha Grande
 - Mealhada
 - MIRA
 - Miranda do Corvo
@@ -112,20 +116,16 @@ subjects:
 - Penamacor
 - Penela
 - Peniche
-- VILA NOVA de Poiares
-- Castelo Branco
 - Pombal
-- Figueira da Foz
-- Coimbra
 - Porto de MOS
 - Proença-a-nova
 - Prorrogação de Prazo
-- Marinha Grande
 - RIO Maior
 - Santarém
 - Sardoal
 - Sertã
 - Sever do Vouga
+- Situação de Calamidade
 - Soure
 - Tomar
 - Torres Novas
@@ -133,13 +133,20 @@ subjects:
 - Vagos
 - VILA de REI
 - VILA NOVA da Barquinha
+- VILA NOVA de Poiares
 - Vila Velha de Ródão
-- Situação de Calamidade
 relationships:
 - type: amended_by
   target: pt:dre:1060895762:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:15-B/2026
+  label: Prorroga, com efeitos a 5 de fevereiro de 2026, até às 23h59 do dia 15 de fevereiro de 2026, a declaração de calamidade
+    decorrente da tempestade Kristin, determinada pela Resolução do Conselho de Ministros n.º 15-B/2026, de 30 de janeiro,
+    Diário da República n.º 21/2026, Suplemento, Série I
+  source: null
+  date: '2026-01-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/27/2006/07/03/p/dre
   label: null
@@ -152,16 +159,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/15-c/2026/02/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/15-c/2026/02/01/p/dre
+- type: cites
+  target: pt:dre:1031784677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1031784680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:31:28Z'
   warnings: []
   errors: []
 ---
@@ -185,3 +204,5 @@ Nos termos dos artigos 19.º e 21.º da Lei de Bases da Proteção Civil, aprova
 2 - Determinar que a presente resolução produz efeitos no dia da sua publicação.
 
 Presidência do Conselho de Ministros, 5 de fevereiro de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119947600

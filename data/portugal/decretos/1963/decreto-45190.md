@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45190-1963-693976
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-08-14T00:00:00Z'
+  retrieved_at: '2026-10-22T19:36:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aba06d85e4165f9a5ea97a38da75cf2655d6fe438c6acb1ef9346b62f2d01282
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5f7de66d4f421a26b63c030d93883a2c3105ae8225389c28f63310a4a5b5d01
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:36:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:36:13Z'
   warnings: []
   errors: []
 ---
@@ -91,11 +95,11 @@ Tendo em vista o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. É autorizada a Direcção-Geral dos Edifícios e Monumentos Nacionais a celebrar contrato com António Lopes Simões para a execução da empreitada de construção da cadeia comarcã e posto de polícia de Ponta do Sol (ilha da Madeira), pela importância de 1489784$80.
+Artigo 1.º - 1. É autorizada a Direcção-Geral dos Edifícios e Monumentos Nacionais a celebrar contrato com António Lopes Simões para a execução da empreitada de construção da cadeia comarcã e posto de polícia de Ponta do Sol (ilha da Madeira), pela importância de 1489784$80.
 
 2. Desta importância 837503$10 serão pagos pelo orçamento do Cofre dos Conservadores, Notários e Funcionários de Justiça e 652281$70 pela verba inscrita no orçamento do Ministério das Obras Públicas, através da Direcção-Geral dos Edifícios e Monumentos Nacionais.
 
-###### Art. 2.º O custo dos trabalhos referidos no artigo anterior não poderá exceder o limite fixado e será suportado como segue:
+Art. 2.º O custo dos trabalhos referidos no artigo anterior não poderá exceder o limite fixado e será suportado como segue:
 
 Cofre dos Conservadores, Notários e Funcionários de Justiça:
 
@@ -115,6 +119,6 @@ Ano de 1964 ... 452281$70
 
 § único. Seja qual for o valor das obras a realizar, não poderá despender-se em cada ano com pagamentos relativos às obras executadas, por virtude do contrato, importâncias superiores às fixadas, podendo, contudo, as quantias estabelecidas para o ano de 1964 ser acrescidas do saldo que transitar no ano anterior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Agosto de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - João de Matos Antunes Varela - Eduardo de Arantes e Oliveira.

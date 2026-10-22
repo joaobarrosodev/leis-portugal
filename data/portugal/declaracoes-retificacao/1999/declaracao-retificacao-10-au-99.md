@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 150/1999, 2º Suplemento, Série I-A de 1999-06-30
   number: '150'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4048-(8) a 4048-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/06/150a02/00080008.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/10-au/1999/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-au-1999-406334
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:52:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 271f45cffcdf79c7c664b8f7bd53929f567afeae7f9f3e91d94a450b8f8eeda3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2d44c23f8832b558c7503b4930add9ea19bb9093aed0826636b1025ad6b4f70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:52:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,61 +66,61 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
-- Agência de Acompanhamento dos Serviços de Saúde
+- Administração Pública
 - Administração Regional de Saúde do Norte
-- Sanção Disciplinar
+- Agência de Acompanhamento dos Serviços de Saúde
 - Autonomia Administrativa
 - Autonomia Financeira
+- Câmara Municipal
 - Centro de Responsabilidade
-- Pessoal Dirigente
+- Centro de Saúde
 - Comissão de Apoio Técnico
 - Comissão de Ética para a Saúde
 - Comissão de Fiscalização
 - Comissão de Serviço
-- Gestão Financeira
-- Direção Geral da Saúde
-- Ministro da Saúde
 - Conselho de Administração
 - Conselho Geral
 - Contrato Individual de Trabalho
 - Contrato Programa
 - Criação de Serviços
-- Saúde
 - Definição de Competências
+- Direção Geral da Saúde
 - Direcção Técnica
 - Director Clínico
 - Dotação Orçamental
-- Saúde Pública
+- Estabelecimento Hospitalar
 - Estatuto
-- Administração Pública
-- Política de Saúde
-- Serviço Nacional de Saúde
 - Extinção de Serviços
 - Fiscalização
+- Função Pública
+- Funcionário Público
+- Gestão de Recursos Humanos
 - Gestão do Património
-- Ministro das Finanças
+- Gestão Financeira
 - Integração de Serviços
 - Integração de Trabalhadores
-- Centro de Saúde
 - Licença sem Vencimento
 - Matosinhos
+- Ministro da Saúde
+- Ministro das Finanças
 - Orçamento
 - Orgânica
 - Organismo do Estado
 - Personalidade Jurídica
 - Pessoal de Chefia
+- Pessoal Dirigente
+- Política de Saúde
 - Presidente
 - Quadro de Pessoal
-- Câmara Municipal
 - Regime de Pessoal
 - Regime Jurídico
-- Estabelecimento Hospitalar
 - Responsabilidade Civil
 - Responsabilidade Criminal
+- Sanção Disciplinar
 - são Mamede de Infesta
-- Funcionário Público
-- Gestão de Recursos Humanos
+- Saúde
+- Saúde Pública
+- Serviço Nacional de Saúde
 - Tutela
 - Unidade Local de Saúde
 - Vogal
@@ -129,16 +129,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/207/1999/06/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/207/1999/06/09/p/dre
+- type: cites
+  target: pt:dre:310798:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:52:55Z'
   warnings: []
   errors: []
 ---

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/404/2012/10/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/404-2012-175564
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-08T00:00:00Z'
+  retrieved_at: '2026-10-22T18:24:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 692b01696fd9a8e5218318381d9602e18a0c398863ceacc5dc2697315a192a29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67b1ec45bf0eb447a202a59d117217beb9f7b897f85aac83562cacb29f6abbe4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:24:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Inconstitucionalidade
 - Direitos do Indivíduo
 - Forças Armadas
-- Provedor de Justiça
+- Inconstitucionalidade
 - Militar
+- Provedor de Justiça
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declrectif/52/2009/07/20/p/dre
@@ -86,16 +86,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/9/1991/04/09/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/9/1991/04/09/p/dre
+- type: cites
+  target: pt:dre:158401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614291:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:24:08Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +152,9 @@ Queixa ao Provedor de Justiça
 
 Todos os cidadãos, nos termos da Constituição e da lei, podem apresentar queixa ao Provedor de Justiça por ações ou omissões dos poderes públicos responsáveis pelas Forças Armadas de que tenha resultado, nomeadamente, violação dos seus direitos, liberdades e garantias ou prejuízo que os afete.
 
-###### Artigo 2.º — Queixa por parte de militares ou de agentes militarizados das Forças Armadas
+Artigo 2.º
+
+Queixa por parte de militares ou de agentes militarizados das Forças Armadas
 
 1 - Sendo queixosos os militares ou os agentes militarizados das Forças Armadas, a queixa referida no artigo anterior só pode ser apresentada ao Provedor de Justiça uma vez esgotadas as vias hierárquicas estabelecidas na lei.
 
@@ -138,13 +164,17 @@ Todos os cidadãos, nos termos da Constituição e da lei, podem apresentar quei
 
 4 - ...
 
-###### Artigo 4.º — Processo
+Artigo 4.º
+
+Processo
 
 1 - A queixa deve conter o nome completo do queixoso e a indicação da sua residência, a sua identificação militar completa, a referência à força, unidade, estabelecimento ou órgão em que desempenha funções, bem como a menção de que foram esgotadas as vias hierárquicas ou de que dela foi previamente dado conhecimento ao Chefe do Estado-Maior-General das Forças Armadas ou ao chefe de estado-maior respetivo, tendo decorrido, sem satisfação do pedido, o prazo referido no n.º 3 do artigo 2.º
 
 2 - A queixa é apresentada por escrito ou oralmente, devendo neste caso ser reduzida a auto.
 
-###### Artigo 5.º — Âmbito pessoal de aplicação
+Artigo 5.º
+
+Âmbito pessoal de aplicação
 
 1 - O disposto nos artigos 2.º, 3.º e 4.º aplica-se:
 

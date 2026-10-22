@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43675-1961-169941
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-05-09T00:00:00Z'
+  retrieved_at: '2026-10-22T19:23:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc1b06d7f8285e9715cf5256572baface07400d378d46acbc25b9fe978e641f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8b9536ccef2b953be95dd113a223dac25631c260e53c33bf0b5900ab184426a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:23:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:23:43Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +93,7 @@ Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](http
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos económicos findos inscrita nos orçamentos do actual ano económico, as quantias seguintes:
+Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos económicos findos inscrita nos orçamentos do actual ano económico, as quantias seguintes:
 
 Encargos gerais da Nação
 
@@ -163,17 +167,17 @@ Ministério da Saúde e Assistência
 
 Despesas do ano de 1960, respeitantes a ajudas de custo, a abonar ao director da Circunscrição de Defesa Sanitária dos Portos Marítimos e Aéreos da Zona Norte e a telefones do Gabinete do Ministro ... 4887$10
 
-###### Art. 2.º São autorizadas a 8.ª e 11.ª Repartições da Direcção-Geral da Contabilidade Pública a mandar satisfazer, em conta das dotações orçamentais adiante designadas, respectivamente, os encargos seguintes:
+Art. 2.º São autorizadas a 8.ª e 11.ª Repartições da Direcção-Geral da Contabilidade Pública a mandar satisfazer, em conta das dotações orçamentais adiante designadas, respectivamente, os encargos seguintes:
 
-### Capítulo 13.º, artigo 132.º, n.º 1), do actual orçamento do Ministério da Obras Públicas:
+Capítulo 13.º, artigo 132.º, n.º 1), do actual orçamento do Ministério da Obras Públicas:
 
 Obras executadas em 1960 na Casa do infante, no Porto ... 8486$00
 
-### Capítulo 23.º, artigo 314.º, n.º 1), do actual orçamento do Ministério da Economia:
+Capítulo 23.º, artigo 314.º, n.º 1), do actual orçamento do Ministério da Economia:
 
 Reversão a favor de um aspirante e de uma dactilógrafa do vencimento de exercício perdido em 1960 por um escriturário de 2.ª classe ... 11$00
 
-###### Art. 3.º Ficam igualmente autorizados o Instituto de Assistência Nacional aos Tuberculosos e a Direcção-Geral dos Serviços Pecuários a satisfazer, em conta da verba de despesas de anos económicos findos inscrita, respectivamente, no seu actual orçamento privativo e no orçamento de aplicação da verba descrita no capítulo 5.º, artigo 53.º, n.º 1), do actual orçamento do Ministério da Economia, os seguintes encargos:
+Art. 3.º Ficam igualmente autorizados o Instituto de Assistência Nacional aos Tuberculosos e a Direcção-Geral dos Serviços Pecuários a satisfazer, em conta da verba de despesas de anos económicos findos inscrita, respectivamente, no seu actual orçamento privativo e no orçamento de aplicação da verba descrita no capítulo 5.º, artigo 53.º, n.º 1), do actual orçamento do Ministério da Economia, os seguintes encargos:
 
 Instituto de Assistência Nacional aos Tuberculosos
 
@@ -183,6 +187,6 @@ Direcção-Geral dos Serviços Pecuários
 
 Honorários de um advogado com a defesa em juízo de um condutor de automóveis que, em serviço, motivou um acidente de trânsito ... 7500$00
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República 9 de Maio de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

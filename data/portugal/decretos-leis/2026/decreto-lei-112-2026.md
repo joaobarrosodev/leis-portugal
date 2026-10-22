@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/112/2026/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2026-1129514952
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-05T00:00:00Z'
+  retrieved_at: '2026-10-22T18:43:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5fbd74eca55fc59953d480a84af4fd71dbb35bdf65f0d61930fc4f56ae71fcb0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3e75d6bf06b208c6722e1fbd05e4db010193ceac5409ee000dc25ae55906eb4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:43:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
 - Ensino de Condução
+- Formação Profissional
 - Formador
 - Instrutor de Condução
 - Regime Jurídico
 relationships:
+- type: amends
+  target: pt:numero:lei:14/2014
+  label: Altera, a partir de 5 de julho de 2026, os artigos 5.º, 6.º, 7.º, 17.º e 30.º da Lei n.º 14/2014, de 18 de março,
+    Diário da República n.º 54/2014, Série I
+  source: null
+  date: '2014-03-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/291/2007/08/21/p/dre
   label: null
@@ -83,16 +89,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/14/2014/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/14/2014/03/18/p/dre
+- type: cites
+  target: pt:dre:222695020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640637:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:43:06Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +169,9 @@ g) [Anterior alínea e).]
 
 4 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -177,7 +197,9 @@ b) Tutor.
 
 10 - [Anterior n.º 9.]
 
-###### Artigo 7.º — Aprendizagem acompanhada por tutor para habilitação da categoria B
+Artigo 7.º
+
+Aprendizagem acompanhada por tutor para habilitação da categoria B
 
 1 - O candidato inscrito em escola de condução pode optar pela modalidade de ensino prático da condução acompanhado por tutor para obtenção da carta de condução da categoria B.
 
@@ -231,7 +253,9 @@ b) Realizar teste de aferição na escola de condução onde se encontra inscrit
 
 17 - Podem ser identificados, através de portaria dos membros do Governo responsáveis pelas áreas dos transportes e da segurança rodoviária, e mediante proposta da PSP, da GNR, da Infraestruturas de Portugal, S. A., ou dos municípios, vias vedadas à prática da condução acompanhada por tutor, que não estejam integradas na esfera de jurisdição dos municípios.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -251,7 +275,9 @@ d) [...]
 
 5 - [...]
 
-###### Artigo 30.º — Partilha e locação de veículos
+Artigo 30.º
+
+Partilha e locação de veículos
 
 1 - É permitida a partilha de veículos pesados de instrução entre empresas exploradoras de escolas de condução, bem como a locação de veículos pesados devidamente certificados para ensino de condução.
 
@@ -265,12 +291,14 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de abril de 2026. - Luís Montenegro- Manuel Castro Almeida - Miguel Martinez de Castro Pinto Luz.
 
-**Promulgado em 26 de maio de 2026.**
+Promulgado em 26 de maio de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 29 de maio de 2026.**
+Referendado em 29 de maio de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119948691

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/23/2026/02/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/23-2026-1038101441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-05T00:00:00Z'
+  retrieved_at: '2026-10-22T18:31:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e589964cc1974209d10854f9dc344579c1604f1a9384165512276d87c28e7382
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 373b690f630e328410754b88d904ef8a25d8f6f4879c3537d9412559d5d3cd44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:31:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
 subjects:
 - ADSE
 - Conselho de Ministros
-- Regulamentação de Atos Legislativos
 - Conselho Diretivo
 - Nomeação
+- Regulamentação de Atos Legislativos
 - Vogal
 relationships:
 - type: cites
@@ -92,23 +92,47 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/56/2017/05/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/56/2017/05/04/p/dre
+- type: cites
+  target: pt:dre:105726273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106970978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115312061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213968630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:31:23Z'
   warnings: []
   errors: []
 ---
 
 # Resolução do Conselho de Ministros n.º 23/2026
 
-Nos termos do disposto nos artigos 10.º e 12.º do [Decreto-Lei n.º 7/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2017-105726273), de 9 de janeiro, alterado pelo [Decreto-Lei n.º 33/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), de 15 de maio, conjugados com os n.<sup>os</sup>2 e 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, resulta que os membros do conselho diretivo do Instituto de Proteção e Assistência na Doença, I. P. (ADSE, I. P.), são designados por resolução do Conselho de Ministros. O presidente e um dos vogais são propostos pelo membro do Governo responsável pela área das finanças, de acordo com o n.º 10 do artigo 12.º do [Decreto-Lei n.º 87-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2025-926483751), de 25 de julho, e o outro vogal é indicado pelos representantes eleitos por sufrágio universal e direto dos beneficiários titulares da ADSE, I. P., pelos representantes das organizações sindicais mais representativas dos trabalhadores das administrações públicas e pelos representantes das associações dos reformados e aposentados da administração pública com assento no conselho geral e de supervisão.
+Nos termos do disposto nos artigos 10.º e 12.º do [Decreto-Lei n.º 7/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2017-105726273), de 9 de janeiro, alterado pelo [Decreto-Lei n.º 33/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), de 15 de maio, conjugados com os n.os2 e 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, resulta que os membros do conselho diretivo do Instituto de Proteção e Assistência na Doença, I. P. (ADSE, I. P.), são designados por resolução do Conselho de Ministros. O presidente e um dos vogais são propostos pelo membro do Governo responsável pela área das finanças, de acordo com o n.º 10 do artigo 12.º do [Decreto-Lei n.º 87-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2025-926483751), de 25 de julho, e o outro vogal é indicado pelos representantes eleitos por sufrágio universal e direto dos beneficiários titulares da ADSE, I. P., pelos representantes das organizações sindicais mais representativas dos trabalhadores das administrações públicas e pelos representantes das associações dos reformados e aposentados da administração pública com assento no conselho geral e de supervisão.
 
 O mandato dos membros do conselho diretivo tem a duração de três anos, renovável por duas vezes, por igual período, devendo, nos termos do artigo 15.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, ser exercido em simultâneo.
 
@@ -122,7 +146,7 @@ Nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diari
 
 Assim:
 
-Nos termos dos artigos 10.º e 12.º do [Decreto-Lei n.º 7/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2017-105726273), de 9 de janeiro, na sua redação atual, dos n.<sup>os</sup>2 e 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos dos artigos 10.º e 12.º do [Decreto-Lei n.º 7/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2017-105726273), de 9 de janeiro, na sua redação atual, dos n.os2 e 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Designar, sob indicação dos membros do conselho geral e de supervisão previstos nas alíneas c), d) e e) do n.º 2 do artigo 14.º do [Decreto-Lei n.º 7/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2017-105726273), de 9 de janeiro, na sua redação atual, Paula Cristina Martins Louro, para o cargo de vogal do conselho diretivo do Instituto de Proteção e Assistência na Doença, I. P., cuja idoneidade, experiência e competências profissionais para o desempenho do cargo são evidenciadas na respetiva nota curricular, que consta do anexo à presente resolução e da qual faz parte integrante.
 
@@ -162,7 +186,7 @@ ALO_Digital (Associação Intermunicipal): contabilista certificada (TOC) (2008-
 
 GesLoures, Gestão de Equipamentos Sociais, EM: diretora financeira em substituição (2000-2001);
 
-Grupo Desportivo Estoril Praia: tesoureira (1996); Equiplinha, Contabilidade, Fiscalidade e Gestão, L.<sup>da</sup>: colaboradora do Gabinete (1991-1996).
+Grupo Desportivo Estoril Praia: tesoureira (1996); Equiplinha, Contabilidade, Fiscalidade e Gestão, L.da: colaboradora do Gabinete (1991-1996).
 
 Órgãos sociais e representação institucional:
 
@@ -183,3 +207,5 @@ Publicação: Artigo na revista Poder Local intitulado «O POCAL - Regime Simpli
 Missão Internacional: membro da Delegação da C. M. Loures a Moçambique (1999), no âmbito do Protocolo de Geminação e Acordo com o Concelho Municipal da Matola;
 
 Coautora dos materiais didáticos para formação à distância sobre o POCAL (Projeto PERFIL/Delta Consultores, 2008).
+
+119947523

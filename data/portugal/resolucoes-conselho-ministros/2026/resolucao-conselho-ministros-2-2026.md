@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/2/2026/01/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/2-2026-1000882016
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-08T00:00:00Z'
+  retrieved_at: '2026-10-22T18:28:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3324eb24048a8e15c0a367cf54002d3ce79eaae92a21c07016c2695f75081934
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d8eb80f20425d1125bc66f4b949e829e6e96ce40f3d03c90fcb39bcb5d78077e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:28:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Inclusão Digital
-- Conteúdo Digital
-- Conselho para o Digital na Administração Pública
-- Estratégia Digital Nacional
-- Inteligência artificial
 - Agenda Nacional de Inteligência Artificial
+- Conselho para o Digital na Administração Pública
+- Conteúdo Digital
+- Estratégia Digital Nacional
+- Inclusão Digital
+- Inteligência artificial
 - Plano de Ação da Agenda Nacional de Inteligência Artificial
 relationships:
 - type: cites
@@ -85,16 +85,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/94/2024/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/94/2024/07/25/p/dre
+- type: cites
+  target: pt:dre:873371754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901536075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901536081:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:28:17Z'
   warnings: []
   errors: []
 ---
@@ -157,13 +169,13 @@ Agenda Nacional de Inteligência Artificial (ANIA)
 
 A Inteligência Artificial (IA) constitui uma das maiores transformações tecnológicas, económicas e sociais da atualidade. A evolução acelerada das tecnologias de IA, em particular da IA generativa, está a redefinir cadeias de valor, aumentar a eficiência produtiva e transformar profundamente o funcionamento das economias avançadas. Este movimento global abre uma oportunidade única para Portugal reforçar o seu crescimento económico, reformar o Estado e garantir que o progresso tecnológico se traduz em valor público, inclusão e bem-estar para todos. Agora é o momento de apostar no forte crescimento económico e nos desafios estruturais do país, aproveitando a recente evolução económica positiva e estabilidade política conquistada.
 
-Entre 2010 e 2022, Portugal cresceu sistematicamente abaixo da União Europeia (UE) e dos Estados Unidos da América (EUA), devido sobretudo ao reduzido contributo da produtividade, que contribuiu apenas com 0,6 pontos percentuais (p. p.) para o crescimento anual, valor muito inferior ao registado na UE (1,3 p. p.) e nos EUA (2,1 p. p.) (<sup>1</sup>).
+Entre 2010 e 2022, Portugal cresceu sistematicamente abaixo da União Europeia (UE) e dos Estados Unidos da América (EUA), devido sobretudo ao reduzido contributo da produtividade, que contribuiu apenas com 0,6 pontos percentuais (p. p.) para o crescimento anual, valor muito inferior ao registado na UE (1,3 p. p.) e nos EUA (2,1 p. p.) (1).
 
-Este défice traduz-se diretamente em atraso económico. Em Portugal, a produtividade por hora trabalhada corresponde hoje a apenas 75 % da média europeia (<sup>2</sup>), limitando salários, inovação e competitividade, pelo que, sem uma ação estrutural, este fosso tenderá a agravar-se na próxima década.
+Este défice traduz-se diretamente em atraso económico. Em Portugal, a produtividade por hora trabalhada corresponde hoje a apenas 75 % da média europeia (2), limitando salários, inovação e competitividade, pelo que, sem uma ação estrutural, este fosso tenderá a agravar-se na próxima década.
 
-A IA oferece, por isso, uma oportunidade histórica para mudar este rumo. Num cenário de rápida automação e adoção da IA generativa, a contribuição da produtividade para o crescimento do Produto Interno Bruto (PIB) português pode aumentar 2,7 pontos percentuais, na próxima década, aproximando o país das economias tecnológicas mais avançadas. A IA tem ainda o potencial de acrescentar entre 18 a 22 mil milhões de euros ao PIB na próxima década, cerca de 8 % do PIB no ano de máxima produção, representando um salto estrutural na capacidade de crescimento e inovação do país (<sup>3</sup>).
+A IA oferece, por isso, uma oportunidade histórica para mudar este rumo. Num cenário de rápida automação e adoção da IA generativa, a contribuição da produtividade para o crescimento do Produto Interno Bruto (PIB) português pode aumentar 2,7 pontos percentuais, na próxima década, aproximando o país das economias tecnológicas mais avançadas. A IA tem ainda o potencial de acrescentar entre 18 a 22 mil milhões de euros ao PIB na próxima década, cerca de 8 % do PIB no ano de máxima produção, representando um salto estrutural na capacidade de crescimento e inovação do país (3).
 
-Mas Portugal não parte do zero. Pelo contrário, o país dispõe de vantagens competitivas estruturais que o posicionam de forma diferenciada para captar esta oportunidade, beneficiando de atributos naturais e condições económicas distintivas (<sup>4</sup>).
+Mas Portugal não parte do zero. Pelo contrário, o país dispõe de vantagens competitivas estruturais que o posicionam de forma diferenciada para captar esta oportunidade, beneficiando de atributos naturais e condições económicas distintivas (4).
 
 1.1 - Infraestrutura de fibra ótica entre as melhores da Europa, sendo o terceiro país da UE com maior cobertura de fibra ótica (92 % das casas) e alcançando cerca de 96 % de cobertura de Internet de banda larga com velocidade superior a 100 Megabites por segundo (Mbps).
 
@@ -173,11 +185,11 @@ Mas Portugal não parte do zero. Pelo contrário, o país dispõe de vantagens c
 
 1.4 - Energia competitiva, e uma matriz energética fortemente sustentável, onde cerca de 63 % da produção provém de fontes renováveis, acima dos 45 % da média europeia.
 
-1.5 - Qualidade de vida excecional (<sup>5</sup>) (<sup>6</sup>), sendo o sétimo país mais seguro do mundo e o sexto país do mundo com a melhor qualidade de vida, fatores determinantes para atrair talento global e fixar profissionais altamente qualificados.
+1.5 - Qualidade de vida excecional (5) (6), sendo o sétimo país mais seguro do mundo e o sexto país do mundo com a melhor qualidade de vida, fatores determinantes para atrair talento global e fixar profissionais altamente qualificados.
 
-1.6 - Predisposição elevada para adotar IA, com quase 90 % dos portugueses a acreditar que a IA torna a sua vida mais fácil e apenas 8 % a considerar que a IA não impacta o seu quotidiano (<sup>7</sup>).
+1.6 - Predisposição elevada para adotar IA, com quase 90 % dos portugueses a acreditar que a IA torna a sua vida mais fácil e apenas 8 % a considerar que a IA não impacta o seu quotidiano (7).
 
-1.7 - Dinamismo no ecossistema de startups (<sup>8</sup>), contando com um total de 5091 empresas, o que representa um crescimento anual de 8 % no número de empresas, 9 % na faturação e 8 % no emprego, sendo dominado por serviços de alta tecnologia com conhecimento especializado. O segmento de IA destaca-se pelas 552 empresas cuja atividade nuclear envolve o uso desta tecnologia e que já captaram mais de 181 milhões de euros em 2025, representando um valor empresarial de 25 mil milhões de euros. Destaca-se, ainda, que seis dos sete unicórnios portugueses têm IA no centro dos seus serviços e operações.
+1.7 - Dinamismo no ecossistema de startups (8), contando com um total de 5091 empresas, o que representa um crescimento anual de 8 % no número de empresas, 9 % na faturação e 8 % no emprego, sendo dominado por serviços de alta tecnologia com conhecimento especializado. O segmento de IA destaca-se pelas 552 empresas cuja atividade nuclear envolve o uso desta tecnologia e que já captaram mais de 181 milhões de euros em 2025, representando um valor empresarial de 25 mil milhões de euros. Destaca-se, ainda, que seis dos sete unicórnios portugueses têm IA no centro dos seus serviços e operações.
 
 1.8 - Portugal está a crescer de forma sustentada e equilibrada. As previsões do Governo, da Comissão Europeia e do Banco de Portugal, apontam para um aumento do PIB em torno de 2 % em 2025 e 2,3 % em 2026. Os dados mais recentes do terceiro trimestre de 2025 confirmam essa trajetória, com um crescimento homólogo de 2,4 % e de 0,8 % em cadeia, um dos maiores verificados na zona euro. No mercado de trabalho, os resultados são igualmente claros. O emprego cresceu 3,6 % até setembro, e a taxa de desemprego mantém-se baixa, situada nos 5,8 %. Já em 2025, as agências de notação financeira atribuíram três subidas de nível, colocando Portugal em níveis de confiança inexistentes há mais de uma década.
 
@@ -205,7 +217,7 @@ O setor público tem de liderar por exemplo. Desde os licenciamentos aos serviç
 
 3.4 - Mais do que tecnologia
 
-A transformação e adoção de IA são, na sua maioria, um desafio organizacional e humano. Estudos relevantes (<sup>9</sup>) apontam para a regra dos 10-20-70, ou seja, 10 % das capacidades dedicadas à tecnologia em si, aos algoritmos, às ferramentas de software; 20 % para dados e infraestruturas, desde a preparação dos dados, plataformas de dados e à infraestrutura técnica necessária para suportar a tecnologia; e 70 % para as pessoas, os processos e a cultura, ou seja, para a alteração das formas de trabalho, concretizada no redesenhar e na otimização de fluxos de trabalho, bem como na garantia de que as pessoas têm competências necessárias e apetência para construir uma cultura de inovação e de melhoria contínua.
+A transformação e adoção de IA são, na sua maioria, um desafio organizacional e humano. Estudos relevantes (9) apontam para a regra dos 10-20-70, ou seja, 10 % das capacidades dedicadas à tecnologia em si, aos algoritmos, às ferramentas de software; 20 % para dados e infraestruturas, desde a preparação dos dados, plataformas de dados e à infraestrutura técnica necessária para suportar a tecnologia; e 70 % para as pessoas, os processos e a cultura, ou seja, para a alteração das formas de trabalho, concretizada no redesenhar e na otimização de fluxos de trabalho, bem como na garantia de que as pessoas têm competências necessárias e apetência para construir uma cultura de inovação e de melhoria contínua.
 
 3.5 - IA orientada ao produto
 
@@ -247,13 +259,13 @@ O objetivo do XXV Governo Constitucional, passa, assim, por aumentar a capacidad
 
 5.2 - Inovação e Adoção
 
-Embora o país apresente avanços relevantes no ecossistema tecnológico e uma elevada predisposição, mantém níveis de adoção de IA nas empresas significativamente inferiores aos da média europeia. Apenas 9,4 % das pequenas empresas utilizam IA, contra 18,2 % das médias e 49,1 % das grandes (<sup>10</sup>). Num país em que as PME representam a esmagadora maioria do tecido empresarial (67 % do valor acrescentado total e 76 % do emprego) (<sup>11</sup>), esta realidade compromete a capacidade de transformação económica.
+Embora o país apresente avanços relevantes no ecossistema tecnológico e uma elevada predisposição, mantém níveis de adoção de IA nas empresas significativamente inferiores aos da média europeia. Apenas 9,4 % das pequenas empresas utilizam IA, contra 18,2 % das médias e 49,1 % das grandes (10). Num país em que as PME representam a esmagadora maioria do tecido empresarial (67 % do valor acrescentado total e 76 % do emprego) (11), esta realidade compromete a capacidade de transformação económica.
 
 Alguns dos principais setores económicos revelam um défice na adoção de IA, tais como a Indústria (6,9 %), o Comércio (5,8 %), os Transportes (4,9 %), a Construção e atividades imobiliárias (3,3 %). A disparidade face ao setor das Tecnologias de Informação e Comunicação (TIC) (52,5 %) evidencia que a adoção de IA tarda a alcançar os setores mais tradicionais da economia. A baixa adoção é agravada por obstáculos sistémicos: falta de conhecimento interno, custos elevados, dúvidas legais quanto à responsabilidade e riscos de privacidade, entre outros.
 
 Apesar disso, a procura existe. Com efeito, a nova linha do Banco de Fomento dedicada à adoção de IA pelas PME esgotou rapidamente os 100 milhões de euros de dotação inicial, demonstrando que, quando o apoio é claro, as empresas avançam.
 
-Na Administração Pública, apesar dos obstáculos que limitam a capacidade adoção, reside uma das maiores oportunidades de transformação e a oportunidade de servir como um verdadeiro catalisador da transformação digital. A análise das funções desempenhadas no setor público português revela um potencial significativo de complementaridade com a IA generativa, estimado em 1,2 mil milhões de euros de valor acrescentado bruto (<sup>12</sup>). O estudo mostra que 8 % das funções possuem um potencial elevado de aplicação de IA generativa, enquanto 66 % apresentam um potencial médio, evidenciando que a grande maioria das tarefas pode beneficiar de automação avançada, apoio à decisão e ferramentas que aumentem a eficiência e reduzam a carga administrativa.
+Na Administração Pública, apesar dos obstáculos que limitam a capacidade adoção, reside uma das maiores oportunidades de transformação e a oportunidade de servir como um verdadeiro catalisador da transformação digital. A análise das funções desempenhadas no setor público português revela um potencial significativo de complementaridade com a IA generativa, estimado em 1,2 mil milhões de euros de valor acrescentado bruto (12). O estudo mostra que 8 % das funções possuem um potencial elevado de aplicação de IA generativa, enquanto 66 % apresentam um potencial médio, evidenciando que a grande maioria das tarefas pode beneficiar de automação avançada, apoio à decisão e ferramentas que aumentem a eficiência e reduzam a carga administrativa.
 
 A digitalização da Administração Pública através da IA não é apenas uma oportunidade interna, antes deve ser encarada como o ponto de partida para desbloquear uma transformação estrutural no resto do país. Um Estado capaz de adotar, escalar e demonstrar o valor da IA cria as condições de confiança, infraestrutura e orientação que permitem ao setor privado, especialmente às PME, seguir o mesmo caminho.
 
@@ -261,7 +273,7 @@ A digitalização da Administração Pública através da IA não é apenas uma 
 | --- |
 | A adoção de Inteligência Artificial tem o potencial de transformar profundamente o funcionamento da Administração Pública. No entanto, para capturar esse valor, será necessário ultrapassar um conjunto de barreiras estruturais como a fragmentação de projetos e decisão, com múltiplos pilotos com baixo potencial de escala; aversão ao risco e baixa compreensão e visão estratégica sobre a tecnologia; uma infraestrutura tecnológica dispersa, com ausência de standards de interoperabilidade e partilha de dados; e, contratação pública de inovação complexa, pouco acessível e difícil de navegar. O efeito combinado destas barreiras traduz-se numa adoção lenta de IA, incapacidade de escalar soluções e perdas de eficiência significativas para o Estado e para a economia.Apesar da diversidade de funções e organismos, grande parte das tarefas executadas na Administração Pública são repetidas de forma transversal. Isto significa que a IA pode ser aplicada com escala em áreas onde os processos são semelhantes entre entidades, tais como análise de candidaturas, síntese de documentos, planeamento financeiro, gestão orçamental, controlo de despesa, assessoria jurídica ou supervisão. Alguns casos de uso já demonstram esse potencial e estão em desenvolvimento, por exemplo um agente de IA para apoio à contratação pública; um agente para automatizar o processamento de faturas; uma ferramenta de IA de apoio ao recrutamento; uma solução de ethical hacking automatizado; e o LicencIA, uma plataforma inteligente para simplificar licenciamentos. Estes casos mostram que, quando os processos são comuns, as soluções podem ser desenvolvidas uma vez e escaladas a múltiplas entidades.A abordagem proposta para escalar IA na Administração Pública assenta na criação de um Centro de Excelência em IA dentro da ARTE, atuando como coordenador transversal para desenvolver soluções reutilizáveis, evitar duplicação de investimento e acelerar a implementação de casos de uso prioritários. Esta estrutura permitirá orientar esforços, garantir interoperabilidade, promover a partilha de modelos e servir como motor de industrialização da IA no Estado. |
 
-No que diz respeito ao ecossistema de inovação, os níveis baixos de adoção refletem fragilidades estruturais profundas, particularmente no que respeita à capacidade de transformar conhecimento científico em valor económico, sendo exemplo disso a reduzida percentagem de doutorados a trabalhar em empresas [10 % dos doutorados (<sup>13</sup>)]. Muitas startups e spin-offs de base tecnológica têm origem universitária, mas enfrentam grandes dificuldades em obter financiamento, apoio à prova de conceito ou parceiros industriais que lhes permitam escalar em Portugal. Em consequência, projetos de grande potencial científico e tecnológico são frequentemente licenciados ou captados por empresas e fundos estrangeiros, ou migram para ecossistemas mais maduros com melhores condições de desenvolvimento, o que constitui um reflexo direto das limitações do atual modelo de transferência de conhecimento.
+No que diz respeito ao ecossistema de inovação, os níveis baixos de adoção refletem fragilidades estruturais profundas, particularmente no que respeita à capacidade de transformar conhecimento científico em valor económico, sendo exemplo disso a reduzida percentagem de doutorados a trabalhar em empresas [10 % dos doutorados (13)]. Muitas startups e spin-offs de base tecnológica têm origem universitária, mas enfrentam grandes dificuldades em obter financiamento, apoio à prova de conceito ou parceiros industriais que lhes permitam escalar em Portugal. Em consequência, projetos de grande potencial científico e tecnológico são frequentemente licenciados ou captados por empresas e fundos estrangeiros, ou migram para ecossistemas mais maduros com melhores condições de desenvolvimento, o que constitui um reflexo direto das limitações do atual modelo de transferência de conhecimento.
 
 Neste contexto, a investigação em IA exige uma abordagem diferente. A fronteira entre investigação fundamental, investigação aplicada e produto é muito mais curta e fluida, na medida em que os modelos criados em technology readiness levels (TRL) baixos podem evoluir para soluções comerciais globais num horizonte de meses, e não de anos. Por isso, é necessário fortalecer investigação aplicada e orientada a produto, acelerando a passagem da ciência para aplicações reais, escaláveis e competitivas. Em paralelo, Portugal deve proteger e financiar investigação fundamental, especialmente em áreas de interesse estratégico nacional, garantindo autonomia científica e capacidade de avaliação independente. O país só criará valor sustentado se tiver presença em toda a cadeia de valor, desde o conhecimento científico à sua transformação em soluções que chegam ao mercado e ao setor público.
 
@@ -273,13 +285,13 @@ Nesse sentido, o objetivo está em exponenciar a adoção de IA em Portugal com 
 
 5.3 - Talento e Competências
 
-A transformação digital acelerada e a adoção de IA vão alterar profundamente o mercado de trabalho nacional. A automação, incluindo tecnologias generativas, deverá exigir uma requalificação da força laboral, abrangendo 1,3 milhões de postos de trabalho em Portugal, com 320 mil trabalhadores potencialmente recolocados para novas funções até 2030 (<sup>14</sup>). Este movimento não representa apenas substituição de tarefas, senão uma transição estrutural na forma como o valor económico é criado. O impacto será transversal, mas diferenciado por setor. Em cenários de adoção plena, estima-se que a automação, incluindo IA generativa, pode substituir até 30 a 40 % do tempo de trabalho em determinadas atividades em 2030, exigindo novas competências tecnológicas, digitais e sociocognitivas.
+A transformação digital acelerada e a adoção de IA vão alterar profundamente o mercado de trabalho nacional. A automação, incluindo tecnologias generativas, deverá exigir uma requalificação da força laboral, abrangendo 1,3 milhões de postos de trabalho em Portugal, com 320 mil trabalhadores potencialmente recolocados para novas funções até 2030 (14). Este movimento não representa apenas substituição de tarefas, senão uma transição estrutural na forma como o valor económico é criado. O impacto será transversal, mas diferenciado por setor. Em cenários de adoção plena, estima-se que a automação, incluindo IA generativa, pode substituir até 30 a 40 % do tempo de trabalho em determinadas atividades em 2030, exigindo novas competências tecnológicas, digitais e sociocognitivas.
 
 A dimensão do impacto previsto contrasta com a capacidade atual do país para formar, requalificar e reter talento em IA. Apesar de existir abertura e aceitação generalizada da tecnologia, com 90 % dos trabalhadores a aprovarem o uso da tecnologia e 48 % a afirmarem que já melhorou a sua produtividade (15), o sistema formativo e científico não está a conseguir gerar, reter ou requalificar talento ao ritmo exigido pela transformação económica.
 
-A base atual de talento especializado em IA é limitada. Apenas 11 % dos profissionais se classificam como tendo competências avançadas, colocando Portugal entre os países da Organização para a Cooperação e Desenvolvimento Económico (OCDE) com menor maturidade tecnológica nesta área (<sup>16</sup>). Esta escassez é agravada por um sistema de ensino superior pouco flexível e com dificuldades em atrair e reter professores especializados, segundo a OCDE.
+A base atual de talento especializado em IA é limitada. Apenas 11 % dos profissionais se classificam como tendo competências avançadas, colocando Portugal entre os países da Organização para a Cooperação e Desenvolvimento Económico (OCDE) com menor maturidade tecnológica nesta área (16). Esta escassez é agravada por um sistema de ensino superior pouco flexível e com dificuldades em atrair e reter professores especializados, segundo a OCDE.
 
-A consequência direta do supra apresentado é uma pressão crescente sobre o mercado de trabalho. A procura por profissionais de IA deverá crescer mais de 20 % ao ano até 2026 (<sup>17</sup>), mas a capacidade formativa do país não acompanha este ritmo. 32 % das organizações portuguesas reportam dificuldades significativas em recrutar talento digital, com processos de contratação que se estendem por cerca de cinco meses, atrasando projetos de inovação e impedindo a adoção tecnológica em escala. Metade dos Chief Executive Officers (CEO) portugueses identificam a falta de competências técnicas como a principal barreira à adoção da IA (<sup>18</sup>).
+A consequência direta do supra apresentado é uma pressão crescente sobre o mercado de trabalho. A procura por profissionais de IA deverá crescer mais de 20 % ao ano até 2026 (17), mas a capacidade formativa do país não acompanha este ritmo. 32 % das organizações portuguesas reportam dificuldades significativas em recrutar talento digital, com processos de contratação que se estendem por cerca de cinco meses, atrasando projetos de inovação e impedindo a adoção tecnológica em escala. Metade dos Chief Executive Officers (CEO) portugueses identificam a falta de competências técnicas como a principal barreira à adoção da IA (18).
 
 O país enfrenta também uma fuga persistente de talento qualificado. Investigadores de topo, frequentemente formados com financiamento público, são ativamente recrutados por empresas e universidades internacionais que oferecem salários muito superiores, carreiras científicas mais atrativas e acesso a infraestruturas avançadas. O setor privado e a academia em Portugal debatem-se com dificuldades claras em reter, atrair ou repatriar estas competências críticas, o que fragiliza a base científica nacional e limita a capacidade de criar inovação de fronteira dentro do país.
 
@@ -287,9 +299,9 @@ Além da escassez quantitativa e qualitativa, existe um problema de distribuiç�
 
 Em suma, o problema de talento em IA em Portugal não se resume ao número de profissionais disponíveis; trata-se de uma questão de escala, competitividade e relevância. Enquanto o talento mais qualificado procura oportunidades no estrangeiro, o tecido económico interno enfrenta limitações na contratação e, crucialmente, na capacidade de formar e requalificar a sua própria força de trabalho. Sem uma intervenção estratégica que aumente a oferta, melhore a qualidade e abrangência das oportunidades, e dote os trabalhadores das competências necessárias, Portugal ficará estruturalmente limitado na sua capacidade de transformar a ambição tecnológica em resultados concretos para a economia e para o Estado.
 
-Enfrentar estes desafios e ultrapassar os bloqueios estruturais na formação, atração e retenção de talento representa uma oportunidade decisiva para desbloquear o verdadeiro potencial da IA. Resolver a escassez de competências técnicas, aumentar a capacidade formativa e criar condições competitivas para fixar talento permitirá não apenas acelerar a produtividade, mas também valorizar social e economicamente a força de trabalho nacional. O dinamismo é já visível. Em 2025, os salários dos profissionais de tecnologia cresceram mais de 14 % (<sup>19</sup>), refletindo o impacto da economia digital e a procura crescente por competências avançadas. Em específico, os profissionais com competências em IA tendem a beneficiar de prémios salariais ainda mais significativos (<sup>20</sup>).
+Enfrentar estes desafios e ultrapassar os bloqueios estruturais na formação, atração e retenção de talento representa uma oportunidade decisiva para desbloquear o verdadeiro potencial da IA. Resolver a escassez de competências técnicas, aumentar a capacidade formativa e criar condições competitivas para fixar talento permitirá não apenas acelerar a produtividade, mas também valorizar social e economicamente a força de trabalho nacional. O dinamismo é já visível. Em 2025, os salários dos profissionais de tecnologia cresceram mais de 14 % (19), refletindo o impacto da economia digital e a procura crescente por competências avançadas. Em específico, os profissionais com competências em IA tendem a beneficiar de prémios salariais ainda mais significativos (20).
 
-Materializar este potencial exige capacitar líderes e trabalhadores com formação adequada e contínua, o que se revela uma preocupação dos próprios trabalhadores. Cerca de 76 % dos trabalhadores europeus afirmam não estar satisfeitos com a formação que recebem nas suas empresas (<sup>21</sup>), reforçando a urgência em dinamizar programas de capacitação que preparem as equipas para trabalhar com IA de forma eficaz, segura e responsável.
+Materializar este potencial exige capacitar líderes e trabalhadores com formação adequada e contínua, o que se revela uma preocupação dos próprios trabalhadores. Cerca de 76 % dos trabalhadores europeus afirmam não estar satisfeitos com a formação que recebem nas suas empresas (21), reforçando a urgência em dinamizar programas de capacitação que preparem as equipas para trabalhar com IA de forma eficaz, segura e responsável.
 
 O eixo Talento e Competências da ANIA assenta na visão de um país que utiliza a IA como motor de valorização profissional, com carreiras mais qualificadas, salários mais competitivos e capacidade real de atrair, reter e desenvolver talento, garantindo que a transformação tecnológica se traduz em progresso económico e oportunidades para todos.
 
@@ -297,7 +309,7 @@ O eixo Talento e Competências da ANIA assenta na visão de um país que utiliza
 
 A sociedade enfrenta desafios significativos na utilização ética e responsável da Inteligência Artificial, que condicionam a confiança, a adoção e a capacidade de inovação. 54 % dos líderes empresariais identificam as implicações éticas como a principal barreira à adoção da IA, acima da média global, refletindo receios sobre riscos legais, reputacionais e operacionais.
 
-A confiança interna também é reduzida, na medida em que apenas cerca de 40 % dos CEO acredita que as suas organizações conseguem implementar e escalar IA de forma ética e segura (<sup>22</sup>). A maioria das empresas reconhece que não está preparada para cumprir os requisitos exigentes do Regulamento Europeu de IA, nomeadamente no que diz respeito a documentação técnica, testes de robustez, monitorização contínua e gestão de risco. Para muitos casos de uso de «alto risco», a falta de preparação pode levar à paralisação de projetos ou à exposição a multas significativas.
+A confiança interna também é reduzida, na medida em que apenas cerca de 40 % dos CEO acredita que as suas organizações conseguem implementar e escalar IA de forma ética e segura (22). A maioria das empresas reconhece que não está preparada para cumprir os requisitos exigentes do Regulamento Europeu de IA, nomeadamente no que diz respeito a documentação técnica, testes de robustez, monitorização contínua e gestão de risco. Para muitos casos de uso de «alto risco», a falta de preparação pode levar à paralisação de projetos ou à exposição a multas significativas.
 
 Os custos de conformidade são especialmente difíceis para PME e startups, que terão dificuldade em suportar processos de certificação, auditorias e testes avançados. Existe o risco real de serem excluídas do desenvolvimento de IA de maior impacto, ficando dependentes de soluções externas menos flexíveis e dominadas por empresas internacionais.
 
@@ -311,49 +323,49 @@ Por fim, é essencial proteger e reforçar a investigação fundamental em étic
 
 O objetivo do XXV Governo Constitucional passa por criar um ambiente de maior confiança em IA, para os cidadãos e para as empresas, e promover investimento nas áreas de responsabilidade. Sem medidas de capacitação, apoio regulatório e investimento em responsabilidade de IA, Portugal corre o risco de ver a adoção de IA bloqueada pela incerteza, pelo custo e pela falta de confiança, comprometendo a inovação e a competitividade das empresas.
 
-(<sup>1</sup>) McKinsey & Company, 2025.
+(1) McKinsey & Company, 2025.
 
-(<sup>2</sup>) Eurostat, 2023, Produtividade por hora trabalhada.
+(2) Eurostat, 2023, Produtividade por hora trabalhada.
 
-(<sup>3</sup>) Implement Consulting Group, 2024, The economic opportunity of generative AI in Portugal.
+(3) Implement Consulting Group, 2024, The economic opportunity of generative AI in Portugal.
 
-(<sup>4</sup>) McKinsey & Company 2025, EY European AI Barometer 2025.
+(4) McKinsey & Company 2025, EY European AI Barometer 2025.
 
-(<sup>5</sup>) Global Peace Index, 2025.
+(5) Global Peace Index, 2025.
 
-(<sup>6</sup>) Global Citizen Solutions, 2025.
+(6) Global Citizen Solutions, 2025.
 
-(<sup>7</sup>) Netsonda 2025, Estudo de mercado.
+(7) Netsonda 2025, Estudo de mercado.
 
-(<sup>8</sup>) StartUp Portugal, 2025, Startup & Entrepreneurial Ecossystem Report.
+(8) StartUp Portugal, 2025, Startup & Entrepreneurial Ecossystem Report.
 
-(<sup>9</sup>) BCG, 2024, The Leader’s Guide to Transforming with AI.
+(9) BCG, 2024, The Leader’s Guide to Transforming with AI.
 
-(<sup>10</sup>) Instituto Nacional de Estatística, 2025, Inquérito à Utilização de Tecnologias da Informação e da Comunicação nas Empresas.
+(10) Instituto Nacional de Estatística, 2025, Inquérito à Utilização de Tecnologias da Informação e da Comunicação nas Empresas.
 
-(<sup>11</sup>) Direção-Geral das Atividades Económicas.
+(11) Direção-Geral das Atividades Económicas.
 
-(<sup>12</sup>) Implement Consulting Group, 2025, The AI opportunity for eGovernment in Portugal.
+(12) Implement Consulting Group, 2025, The AI opportunity for eGovernment in Portugal.
 
-(<sup>13</sup>) Direção-Geral de Estatísticas da Educação e Ciência, CDH 23 | Inquérito aos Doutorados, 2023.
+(13) Direção-Geral de Estatísticas da Educação e Ciência, CDH 23 | Inquérito aos Doutorados, 2023.
 
-(<sup>14</sup>) Future of Work, 2024, McKinsey & Company.
+(14) Future of Work, 2024, McKinsey & Company.
 
-(<sup>15</sup>) AI Barometer, 2025, EY.
+(15) AI Barometer, 2025, EY.
 
-(<sup>16</sup>) Solving Europes AI Talent Equation, CEPS 2025.
+(16) Solving Europes AI Talent Equation, CEPS 2025.
 
-(<sup>17</sup>) IDC Portugal, 2024.
+(17) IDC Portugal, 2024.
 
-(<sup>18</sup>) CEO Outlook, 2025, KPMG.
+(18) CEO Outlook, 2025, KPMG.
 
-(<sup>19</sup>) Tech Talent Trends Report 2025, Landing.Jobs.
+(19) Tech Talent Trends Report 2025, Landing.Jobs.
 
-(<sup>20</sup>) Global AI Jobs Barometer, 2025, PwC.
+(20) Global AI Jobs Barometer, 2025, PwC.
 
-(<sup>21</sup>) European AI Barometer, 2025, EY.
+(21) European AI Barometer, 2025, EY.
 
-(<sup>22</sup>) KPMG, 2025, CEO Outlook.
+(22) KPMG, 2025, CEO Outlook.
 
 ## ANEXO II — (a que se refere o n.º 2)
 
@@ -368,8 +380,8 @@ Objetivo: Aumentar a capacidade de computação e a disponibilidade de dados de 
 | Iniciativa | Descrição | Início | Entidades |
 | --- | --- | --- | --- |
 | I.1 Computação avançada e Fábrica de IA (Inteligência Artificial) - European High Performance Computing Joint Undertaking (EuroHPC) | Expansão da capacidade nacional de supercomputação, reforçando o Deucalion e alinhando Portugal com a rede EuroHPC, para suportar o treino de modelos avançados de IA e projetos de investigação de grande escala. | 2.º Semestre 2025 | Fundação para a Tecnologia e Ciência (FCT) |
-| I.2 Estabelecer uma Gigafactory em Portugal | Atrair e instalar uma gigafactory nacional reforçando a autonomia tecnológica, criando capacidade industrial para IA e reduzindo dependência externa. | 2.º Semestre 2025 | Banco Português de Fomento (BPF) \\| Agência para o Investimento e Comércio Externo de Portugal (AICEP) |
-| I.3 Criação de espaços de dados em áreas críticas | Desenvolvimento de espaços de dados setoriais que asseguram interoperabilidade (com cruzamento entre setor público e privado), governação clara e acesso seguro a dados de alto valor, permitindo treinar e testar soluções de IA adaptadas a desafios concretos (na saúde, educação, indústria e administração pública), tendo em conta a estratégia europeia de dados e os Data Spaces Europeus previstos no Programa Europa Digital (DEP). Assegurar a valorização destes espaços de dados através da Política Nacional de Dados. | 1.º Semestre 2026 | ARTE, I. P. (Agência para a Modernização Administrativa, I. P.) \\| Entidades da Administração Pública (AP) das áreas críticas identificadas \\| ANI (Agência Nacional de Inovação) |
+| I.2 Estabelecer uma **Gigafactory** em Portugal | Atrair e instalar uma gigafactory nacional reforçando a autonomia tecnológica, criando capacidade industrial para IA e reduzindo dependência externa. | 2.º Semestre 2025 | Banco Português de Fomento (BPF) \| Agência para o Investimento e Comércio Externo de Portugal (AICEP) |
+| I.3 Criação de espaços de dados em áreas críticas | Desenvolvimento de espaços de dados setoriais que asseguram interoperabilidade (com cruzamento entre setor público e privado), governação clara e acesso seguro a dados de alto valor, permitindo treinar e testar soluções de IA adaptadas a desafios concretos (na saúde, educação, indústria e administração pública), tendo em conta a estratégia europeia de dados e os Data Spaces Europeus previstos no Programa Europa Digital (DEP). Assegurar a valorização destes espaços de dados através da Política Nacional de Dados. | 1.º Semestre 2026 | ARTE, I. P. (Agência para a Modernização Administrativa, I. P.) \| Entidades da Administração Pública (AP) das áreas críticas identificadas \| ANI (Agência Nacional de Inovação) |
 | I.4. Plano Nacional de Centros de Dados | Finalizar o Plano Nacional de Centros de Dados, com definição de medidas de impacto como a criação de zonas verdes com licenciamento simplificado, de uma estrutura centralizada de interação com investidores, criação de uma rede de fornecedores e parceiros especializados para acelerar construção e operação, entre outros. | 2.º Semestre 2025 | Governo de Portugal |
 
 Ações relevantes do Plano de Ação 2026-2027 da EDN (para referência)
@@ -392,34 +404,34 @@ Objetivo: Proteger a investigação fundamental de IA
 
 | Iniciativa | Descrição | Início | Entidades |
 | --- | --- | --- | --- |
-| II.1 Apoios a projetos de investigação fundamental, particularmente de interesse estratégico nacional | Financiar investigação fundamental em IA em áreas críticas para o país, garantindo capacidade científica autónoma, desenvolvimento de conhecimento de base e suporte a projetos com relevância estratégica nacional | 2.º Semestre 2026 | FCT \\| ANI |
-| II.2 Reforço da colaboração com redes internacionais & atração de novos centros de investigação internacionais | Colaboração estruturada com redes europeias e globais para acelerar ciência, inovação e transferência tecnológica (ELLIS, CLAIRE, HumanE-AI, AI4EU, TAILOR, ADRA), reforçada pela atração de centros internacionais de investigação em áreas críticas como robótica industrial e semicondutores. A iniciativa será articulada com a estratégia nacional de centro de dados e supercomputação, promovendo co-localização e massa crítica científica. Assegurar articulação com Rede Nacional de Testbeds. | 1.º Semestre 2026 | FCT \\| ANI \\| Governo de Portugal |
+| II.1 Apoios a projetos de investigação fundamental, particularmente de interesse estratégico nacional | Financiar investigação fundamental em IA em áreas críticas para o país, garantindo capacidade científica autónoma, desenvolvimento de conhecimento de base e suporte a projetos com relevância estratégica nacional | 2.º Semestre 2026 | FCT \| ANI |
+| II.2 Reforço da colaboração com redes internacionais & atração de novos centros de investigação internacionais | Colaboração estruturada com redes europeias e globais para acelerar ciência, inovação e transferência tecnológica (ELLIS, CLAIRE, HumanE-AI, AI4EU, TAILOR, ADRA), reforçada pela atração de centros internacionais de investigação em áreas críticas como robótica industrial e semicondutores. A iniciativa será articulada com a estratégia nacional de centro de dados e supercomputação, promovendo co-localização e massa crítica científica. Assegurar articulação com Rede Nacional de Testbeds. | 1.º Semestre 2026 | FCT \| ANI \| Governo de Portugal |
 
 Objetivo: Unir o ecossistema de investigação com as empresas e o setor público, com foco em produto
 
 | Iniciativa | Descrição | Início | Entidades |
 | --- | --- | --- | --- |
-| II.3 Incentivos à investigação de IA nas empresas | Fundos de Deeptech & Tech Foundry - Instrumento Financeiro para a Inovação e Competitividade (IFIC) e mecanismos Sistema de Incentivos Fiscais à Investigação e Desenvolvimento Empresarial (SIFIDE), com majoração para projetos que utilizem ou valorizem IA. | 1.º Semestre 2027 | BPF \\| ANI |
+| II.3 Incentivos à investigação de IA nas empresas | Fundos de Deeptech & Tech Foundry - Instrumento Financeiro para a Inovação e Competitividade (IFIC) e mecanismos Sistema de Incentivos Fiscais à Investigação e Desenvolvimento Empresarial (SIFIDE), com majoração para projetos que utilizem ou valorizem IA. | 1.º Semestre 2027 | BPF \| ANI |
 | II.4 Expansão dos Doutoramentos não académicos e projetos de investigação aplicada em IA | Expansão de programas de doutoramento em contexto empresarial e na administração pública, permitindo que talento altamente qualificado desenvolva investigação de IA aplicada em contexto real | 2.º Semestre 2026 | FCT |
-| II.5 Financiamento de Centros de IA Setoriais multidisciplinares para setores estratégicos (universidades, empresas - incluindo startups - e AP) | Alinhado com a estratégia europeia, Apply AI, que reforma os European Digital Innovation Hubs em Experience Centers for AI, proceder à revisão e simplificação dos diferentes modelos de colaboração existentes (Digital Innovation Hubs, Rede CoLAB, Centros de Tecnologia e Inovação), para aproveitamento e criação de centros de IA setoriais para setores estratégicos, que irão focar-se exclusivamente no desenvolvimento de produto (alto TRL), seguindo um modelo de inovação em consórcio através da ligação entre academia, empresas (incluindo startups) e Administração Pública. Foco inicial nos setores da Saúde, Educação e Indústria e em alinhamento com as sandboxes regulatórias de IA aplicáveis | 2.º Semestre 2026 | ANI \\| FCT \\| Startup Portugal \\| Agência para a Competitividade e Inovação (IAPMEI) \\| ARTE \\| Instituto Português da Qualidade (IPQ) |
-| II.6 Plataforma nacional «Oportunidades em IA» | Desenvolvimento de uma plataforma nacional que liga talento em IA (por exemplo, estudantes e investigadores) a empresas (incluindo startups) nacionais e administração pública com necessidades de talento nesta área | 2.º Semestre 2026 | IAPMEI \\| FCT \\| ARTE \\| Startup Portugal |
-| II.7 AMALIA | Continuação do projeto AMALIA, ampliando a sua utilização para novos casos de uso e avaliando potenciais parcerias internacionais e público-privadas para assegurar a sua futura relevância. | 2.º Semestre 2025 | ARTE \\| FCT |
+| II.5 Financiamento de Centros de IA Setoriais multidisciplinares para setores estratégicos (universidades, empresas - incluindo **startups** - e AP) | Alinhado com a estratégia europeia, Apply AI, que reforma os European Digital Innovation Hubs em Experience Centers for AI, proceder à revisão e simplificação dos diferentes modelos de colaboração existentes (Digital Innovation Hubs, Rede CoLAB, Centros de Tecnologia e Inovação), para aproveitamento e criação de centros de IA setoriais para setores estratégicos, que irão focar-se exclusivamente no desenvolvimento de produto (alto TRL), seguindo um modelo de inovação em consórcio através da ligação entre academia, empresas (incluindo startups) e Administração Pública. Foco inicial nos setores da Saúde, Educação e Indústria e em alinhamento com as sandboxes regulatórias de IA aplicáveis | 2.º Semestre 2026 | ANI \| FCT \| Startup Portugal \| Agência para a Competitividade e Inovação (IAPMEI) \| ARTE \| Instituto Português da Qualidade (IPQ) |
+| II.6 Plataforma nacional «Oportunidades em IA» | Desenvolvimento de uma plataforma nacional que liga talento em IA (por exemplo, estudantes e investigadores) a empresas (incluindo startups) nacionais e administração pública com necessidades de talento nesta área | 2.º Semestre 2026 | IAPMEI \| FCT \| ARTE \| Startup Portugal |
+| II.7 AMALIA | Continuação do projeto AMALIA, ampliando a sua utilização para novos casos de uso e avaliando potenciais parcerias internacionais e público-privadas para assegurar a sua futura relevância. | 2.º Semestre 2025 | ARTE \| FCT |
 | II.8 Revisão do Regime de Propriedade Intelectual (PI) e patentes de IA | Revisão do regime de PI e dos critérios de patentes e enquadramento regulatório, garantindo standards mais claros para as comunidades de investigação e empresas. | 1.º Semestre 2026 | Governo de Portugal |
 
 Objetivo: Aumentar a adoção de IA nas Pequenas e Médias Empresas (PME)
 
 | Iniciativa | Descrição | Início | Entidades |
 | --- | --- | --- | --- |
-| II.9 IA nas PME | Uso dos mecanismos existentes, como o Instrumento Financeiro para a Inovação e Competitividade (IFIC), para apoiar o investimento em IA e a requalificação das equipas, facilitando a adoção de tecnologias de IA pelas PME. Criar mecanismos de integração entre diferentes instrumentos financeiros de apoio a PME (Fábrica de IA) e novo programa setorial de promoção de IA junto das PME. | 2.º Semestre 2025 | BPF \\| IAPMEI \\| ANI |
-| II.10 «PME.IA» \\| Plataforma Nacional de Produtos IA para PME | Desenvolvimento de uma plataforma nacional que disponibiliza produtos e soluções de IA low code/no-code, adaptados às necessidades das PME e capazes de acelerar a digitalização e automação dos processos. Iniciativa integrada no âmbito da II.9 para poder facilitar a adoção. Assegurar que os produtos disponibilizados nesta plataforma demonstram, através de um sistema de certificação ou rotulagem claro, um bom nível de qualidade, robustez e conformidade regulatória. Garantir requisitos de segurança e formação complementar. | 2.º Semestre 2026 | IAPMEI \\| ARTE \\| Startup Portugal \\| IPQ |
+| II.9 IA nas PME | Uso dos mecanismos existentes, como o Instrumento Financeiro para a Inovação e Competitividade (IFIC), para apoiar o investimento em IA e a requalificação das equipas, facilitando a adoção de tecnologias de IA pelas PME. Criar mecanismos de integração entre diferentes instrumentos financeiros de apoio a PME (Fábrica de IA) e novo programa setorial de promoção de IA junto das PME. | 2.º Semestre 2025 | BPF \| IAPMEI \| ANI |
+| II.10 «PME.IA» \| Plataforma Nacional de Produtos IA para PME | Desenvolvimento de uma plataforma nacional que disponibiliza produtos e soluções de IA low code/no-code, adaptados às necessidades das PME e capazes de acelerar a digitalização e automação dos processos. Iniciativa integrada no âmbito da II.9 para poder facilitar a adoção. Assegurar que os produtos disponibilizados nesta plataforma demonstram, através de um sistema de certificação ou rotulagem claro, um bom nível de qualidade, robustez e conformidade regulatória. Garantir requisitos de segurança e formação complementar. | 2.º Semestre 2026 | IAPMEI \| ARTE \| Startup Portugal \| IPQ |
 
 Objetivo: Aumentar a adoção de IA na Administração Pública
 
 | Iniciativa | Descrição | Início | Entidades |
 | --- | --- | --- | --- |
-| II.11 IA na AP \\| Centro de Excelência IA na AP | Criação de um Centro de Excelência em IA na Administração Pública para desenvolver, testar e escalar soluções de IA em serviços públicos, com foco em tarefas transversais e apoio a casos de uso críticos nas áreas da saúde, justiça e defesa. Coordenação transversal com todas as entidades públicas e oportunidades de parcerias estratégicas. | 1.º Semestre 2026 | ARTE |
-| II.12 IA na AP \\| Concursos nacionais de IA para AP | Lançamento de desafios e concursos anuais para identificar soluções inovadoras de IA aplicáveis à AP nas áreas mais críticas. Priorizar projetos replicáveis e alinhados com o Regulamento de IA, com avaliação técnica centralizada. | 1.º Semestre 2026 | ARTE \\| ANI \\| Startup Portugal |
-| II.13 IA na AP \\| Guia prático de interpretação para Compras Públicas de Inovação com foco em IA | Desenvolver um guia prático e oficial de interpretação do Código dos Contratos Públicos (CCP) especificamente orientado para a contratação de soluções de IA pela AP. | 1.º Semestre 2026 | ARTE \\| ANI \\| IMPIC (Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P.) |
+| II.11 IA na AP \| Centro de Excelência IA na AP | Criação de um Centro de Excelência em IA na Administração Pública para desenvolver, testar e escalar soluções de IA em serviços públicos, com foco em tarefas transversais e apoio a casos de uso críticos nas áreas da saúde, justiça e defesa. Coordenação transversal com todas as entidades públicas e oportunidades de parcerias estratégicas. | 1.º Semestre 2026 | ARTE |
+| II.12 IA na AP \| Concursos nacionais de IA para AP | Lançamento de desafios e concursos anuais para identificar soluções inovadoras de IA aplicáveis à AP nas áreas mais críticas. Priorizar projetos replicáveis e alinhados com o Regulamento de IA, com avaliação técnica centralizada. | 1.º Semestre 2026 | ARTE \| ANI \| Startup Portugal |
+| II.13 IA na AP \| Guia prático de interpretação para Compras Públicas de Inovação com foco em IA | Desenvolver um guia prático e oficial de interpretação do Código dos Contratos Públicos (CCP) especificamente orientado para a contratação de soluções de IA pela AP. | 1.º Semestre 2026 | ARTE \| ANI \| IMPIC (Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P.) |
 
 Ações relevantes do Plano de Ação 2026-2027 da EDN (para referência):
 
@@ -435,24 +447,24 @@ Objetivo: Acelerar o desenvolvimento de competências para a sustentabilidade la
 
 | Iniciativa | Descrição | Início | Entidades |
 | --- | --- | --- | --- |
-| III.1 IA na AP \\| Plano acelerado de formação de IA na AP | Implementação de um programa de formação avançada para funcionários públicos, preparando equipas e líderes para a utilização de IA em processos críticos e para novos modelos de trabalho. Continuidade do Programa Doutor AP. | 1.º Semestre 2026 | ARTE \\| Instituto Nacional de Administração, I. P. (INA, I. P.) |
-| III.2 Criação do Quadro Nacional de Competências Inteligentes (QNCI) | Criar uma taxonomia nacional de competências usando IA para mapear competências existentes e emergentes. O projeto reúne dados de universidades, formação profissional e mercado de trabalho, identificando lacunas e necessidades futuras, assim como oportunidades de capacitação. O objetivo é orientar políticas de talento e requalificação, alinhando a oferta de competências com a procura do país e promover mais transparência sobre a procura e oferta de talento nesta área, assim como oportunidades de requalificação. | 1.º Semestre 2026 | FCT \\| Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.) \\| Direção-Geral do Emprego e das Relações de Trabalho (DGERT) |
-| III.3 Reconhecimento e expansão de Microcredenciais e Cursos Técnicos Superiores Profissionais (CTESP) em carreiras de IA | Expansão e acreditação de Microcredenciais e CTESP orientados para IA, criando percursos curtos e profissionalizantes que diversificam o acesso ao mercado de trabalho e aumentam a oferta de técnicos especializados. Garantir alinhamento com quadro europeu de microcredenciais, priorizando perfis críticos. | 1.º Semestre 2026 | Instituto para o Ensino Superior (IES) \\| FCT |
+| III.1 IA na AP \| Plano acelerado de formação de IA na AP | Implementação de um programa de formação avançada para funcionários públicos, preparando equipas e líderes para a utilização de IA em processos críticos e para novos modelos de trabalho. Continuidade do Programa Doutor AP. | 1.º Semestre 2026 | ARTE \| Instituto Nacional de Administração, I. P. (INA, I. P.) |
+| III.2 Criação do Quadro Nacional de Competências Inteligentes (QNCI) | Criar uma taxonomia nacional de competências usando IA para mapear competências existentes e emergentes. O projeto reúne dados de universidades, formação profissional e mercado de trabalho, identificando lacunas e necessidades futuras, assim como oportunidades de capacitação. O objetivo é orientar políticas de talento e requalificação, alinhando a oferta de competências com a procura do país e promover mais transparência sobre a procura e oferta de talento nesta área, assim como oportunidades de requalificação. | 1.º Semestre 2026 | FCT \| Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.) \| Direção-Geral do Emprego e das Relações de Trabalho (DGERT) |
+| III.3 Reconhecimento e expansão de Microcredenciais e Cursos Técnicos Superiores Profissionais (CTESP) em carreiras de IA | Expansão e acreditação de Microcredenciais e CTESP orientados para IA, criando percursos curtos e profissionalizantes que diversificam o acesso ao mercado de trabalho e aumentam a oferta de técnicos especializados. Garantir alinhamento com quadro europeu de microcredenciais, priorizando perfis críticos. | 1.º Semestre 2026 | Instituto para o Ensino Superior (IES) \| FCT |
 
 Objetivo: Promover a mobilidade e transferência de conhecimento internacional
 
 | Iniciativa | Descrição | Início | Entidades |
 | --- | --- | --- | --- |
-| III.4 Expansão da iniciativa goPortugal | Explorar, junto das parcerias internacionais já formalizadas - Massachussets Institute of Technology (MIT), University of Texas at Austin (UT Austin) e Carnegie Mellon - a criação de programas de ignição para spin-offs universitárias deeptech, focados em IA e suas aplicações, com vista à inserção no mercado norte-americano. Como referência, destaca-se o programa Tech Launch, do Instituto de Engenharia de Sistemas e Computadores, Tecnologia e Ciência (INESC TEC) e UT Austin. Paralelamente, poderão ser desenvolvidas parcerias estratégicas com instituições europeias líderes que possuem modelos avançados de transferência de conhecimento e aceleração tecnológica. No contexto europeu, estas colaborações permitiriam ainda mobilizar sinergias com instrumentos como o Horizonte Europa, o European Innovation Council (EIC) e o Digital Europe, reforçando o cofinanciamento e a maturação tecnológica Technology Readiness Level (TRL) 3-6 de novas spin-outs portuguesas com ambição global. | 1.º Semestre 2026 | FCT \\| ANI |
+| III.4 Expansão da iniciativa goPortugal | Explorar, junto das parcerias internacionais já formalizadas - Massachussets Institute of Technology (MIT), University of Texas at Austin (UT Austin) e Carnegie Mellon - a criação de programas de ignição para spin-offs universitárias deeptech, focados em IA e suas aplicações, com vista à inserção no mercado norte-americano. Como referência, destaca-se o programa Tech Launch, do Instituto de Engenharia de Sistemas e Computadores, Tecnologia e Ciência (INESC TEC) e UT Austin. Paralelamente, poderão ser desenvolvidas parcerias estratégicas com instituições europeias líderes que possuem modelos avançados de transferência de conhecimento e aceleração tecnológica. No contexto europeu, estas colaborações permitiriam ainda mobilizar sinergias com instrumentos como o Horizonte Europa, o European Innovation Council (EIC) e o Digital Europe, reforçando o cofinanciamento e a maturação tecnológica Technology Readiness Level (TRL) 3-6 de novas spin-outs portuguesas com ambição global. | 1.º Semestre 2026 | FCT \| ANI |
 | III.5 Criação do AI Fast Track | Criação de um regime acelerado de vistos para atrair investigadores e profissionais altamente qualificados em áreas de IA críticas que falta talento nacional. | 2.º Semestre 2026 | Agência para a Integração, Migrações e Asilo (AIMA) |
 
 Objetivo: Fomentar o interesse e adesão de talento às carreiras e oportunidades de IA,com foco no uso responsável da tecnologia
 
 | Iniciativa | Descrição | Início | Entidades |
 | --- | --- | --- | --- |
-| III.6 Semana Nacional de IA | Criar uma Semana Nacional da Inteligência Artificial, com demonstrações, casos práticos e eventos abertos ao público em espaços educativos e culturais por todo o país. | 2.º Semestre 2026 | FCT \\| ANI \\| ARTE \\| Startup Portugal \\| IPQ |
+| III.6 Semana Nacional de IA | Criar uma Semana Nacional da Inteligência Artificial, com demonstrações, casos práticos e eventos abertos ao público em espaços educativos e culturais por todo o país. | 2.º Semestre 2026 | FCT \| ANI \| ARTE \| Startup Portugal \| IPQ |
 | III.7 Campanha «Geração IA» para motivar jovens para diferentes carreiras em IA | Lançamento de uma campanha nacional para inspirar jovens a seguir carreiras em IA, promovendo oportunidades académicas, técnicas e profissionais em todo o ecossistema tecnológico. | 2.º Semestre 2026 | FCT |
-| III.8 Ação de literacia em IA, com foco na sensibilização para os riscos e uso responsável de IA para cidadãos | Campanha nacional de sensibilização sobre riscos, direitos, normas e boas práticas no uso da IA, reforçando a literacia digital e a capacidade dos cidadãos para utilizarem tecnologias de forma segura e informada. | 1.º Semestre 2026 | ARTE \\| FCT\\| Autoridade Nacional de Comunicações (ANACOM) \\| Centro Nacional de Cibersegurança (CNCS) \\| IPQ |
+| III.8 Ação de literacia em IA, com foco na sensibilização para os riscos e uso responsável de IA para cidadãos | Campanha nacional de sensibilização sobre riscos, direitos, normas e boas práticas no uso da IA, reforçando a literacia digital e a capacidade dos cidadãos para utilizarem tecnologias de forma segura e informada. | 1.º Semestre 2026 | ARTE \| FCT\| Autoridade Nacional de Comunicações (ANACOM) \| Centro Nacional de Cibersegurança (CNCS) \| IPQ |
 
 Ações relevantes do Plano de Ação 2026-2027 da EDN (para referência):
 
@@ -467,18 +479,22 @@ Objetivo: Promover o ecossistema de investigação e desenvolvimento de IA respo
 | Iniciativa | Descrição | Início | Entidades |
 | --- | --- | --- | --- |
 | IV.1 Incentivos à investigação em IA Responsável | Suplemento para doutoramentos ou projetos de investigação em áreas de responsabilidade de IA, com foco especial em abordagens interdisciplinares que combinem engenharia com ciências sociais e humanas (Justiça Social, Desigualdade e IA; Ética e Filosofia da Tecnologia; Psicologia Cognitiva e Interação Humano-IA; Economia de IA e Impacto no Trabalho; Qualidade Metrológica, Rastreabilidade e Auditoria de Algoritmos). | 2.º Semestre 2026 | FCT |
-| IV.2 Programa de aceleração de startups em IA responsável | Programa especializado para apoiar startups que desenvolvem soluções de IA centradas em ética, segurança, transparência, e privacidade, entre outras, promovendo inovação nesta área. Sensibilizar sobre a importância dos Sistemas de Gestão da Qualidade na IA, incentivando à certificação voluntária pela Norma Portuguesa 4595. | 1.º Semestre 2027 | Startup Portugal \\| IPQ |
-| IV.3 Assegurar a continuidade do Center for Responsible AI | Assegurar a continuidade do Center for Responsible AI, possibilitando a coordenação de iniciativas críticas do ecossistema, assim como a avaliação de impactos éticos, sociais, e económicos da tecnologia e disseminação de boas praticas e conhecimento na área de IA, particularmente nas componentes de Responsabilidade. | 1.º Semestre 2026 | Governo de Portugal |
+| IV.2 Programa de aceleração de **startups** em IA responsável | Programa especializado para apoiar startups que desenvolvem soluções de IA centradas em ética, segurança, transparência, e privacidade, entre outras, promovendo inovação nesta área. Sensibilizar sobre a importância dos Sistemas de Gestão da Qualidade na IA, incentivando à certificação voluntária pela Norma Portuguesa 4595. | 1.º Semestre 2027 | Startup Portugal \| IPQ |
+| IV.3 Assegurar a continuidade do **Center for Responsible AI** | Assegurar a continuidade do Center for Responsible AI, possibilitando a coordenação de iniciativas críticas do ecossistema, assim como a avaliação de impactos éticos, sociais, e económicos da tecnologia e disseminação de boas praticas e conhecimento na área de IA, particularmente nas componentes de Responsabilidade. | 1.º Semestre 2026 | Governo de Portugal |
 
 Objetivo: Garantir um regime regulatório eficaz e eficiente que protege os cidadãos e permite a inovação
 
 | Iniciativa | Descrição | Início | Entidades |
 | --- | --- | --- | --- |
 | IV.4 Implementação do Regulamento de IA | Definição das autoridades competentes, do modelo de coordenação e do quadro sancionatório. Avaliação dos recursos existentes e identificação de necessidades críticas para reforço de competências. Garantir alinhamento com as sandboxes regulatórias de IA. | 1.º Semestre 2026 | Governo de Portugal |
-| IV.5 Definição de Sandboxes regulatórias | Implementação de sandboxes regulatórias que permitem testar soluções de IA em ambiente controlado, melhorando o regime das zonas livres tecnológicas para acelerar inovação com segurança jurídica. | 2.º Semestre 2026 | Governo de Portugal \\|ANI |
-| IV.6 Criação de um guia de implementação do Regulamento de IA, standards e criação de ferramentas de avaliação de risco | Desenvolvimento de um guia prático para apoiar entidades no cumprimento do Regulamento de IA, incluindo standards, documentação técnica, e ferramentas nacionais de avaliação de risco. Assegurar alinhamento com as sandboxes regulatórias de IA. Sensibilizar ecossistema para importância dos Sistemas de Gestão de Qualidade no cumprimento dos requisitos previstos no Regulamento, para o procedimento de notificação e para a necessidade da eventual intervenção de organismos notificados na avaliação da conformidade de sistemas de IA de alto risco. Promover criação de uma infraestrutura de suporte à conformidade (nomeadamente, calibração, ensaios, testes, verificação e validação) para IA de alto risco, garantindo acessibilidade dos requisitos de documentação técnica, testes de robustez e monitorização contínua. | 1.º Semestre 2026 | ANACOM \\| ARTE \\| IPQ \\| ANI |
+| IV.5 Definição de **Sandboxes** regulatórias | Implementação de sandboxes regulatórias que permitem testar soluções de IA em ambiente controlado, melhorando o regime das zonas livres tecnológicas para acelerar inovação com segurança jurídica. | 2.º Semestre 2026 | Governo de Portugal \|ANI |
+| IV.6 Criação de um guia de implementação do Regulamento de IA, standards e criação de ferramentas de avaliação de risco | Desenvolvimento de um guia prático para apoiar entidades no cumprimento do Regulamento de IA, incluindo standards, documentação técnica, e ferramentas nacionais de avaliação de risco. Assegurar alinhamento com as sandboxes regulatórias de IA. Sensibilizar ecossistema para importância dos Sistemas de Gestão de Qualidade no cumprimento dos requisitos previstos no Regulamento, para o procedimento de notificação e para a necessidade da eventual intervenção de organismos notificados na avaliação da conformidade de sistemas de IA de alto risco. Promover criação de uma infraestrutura de suporte à conformidade (nomeadamente, calibração, ensaios, testes, verificação e validação) para IA de alto risco, garantindo acessibilidade dos requisitos de documentação técnica, testes de robustez e monitorização contínua. | 1.º Semestre 2026 | ANACOM \| ARTE \| IPQ \| ANI |
 | IV.7 Reforçar cooperação internacional e diplomacia tecnológica | Intensificação da participação de Portugal em fóruns europeus e internacionais de IA, promovendo alinhamento regulatório, cooperação científica e influência na definição de standards globais, Reforço da base nacional de peritos em IA envolvidos em iniciativas internacionais de normalização e regulação. Garantir articulação diplomática com países exportadores de tecnologias base para IA. | 2.º Semestre 2026 | Governo de Portugal, designadamente Ministério da Reforma do Estado (MARE), Ministério dos Negócios Estrangeiros (MNE) e Ministério da Economia e Coesão Territorial (MECT) |
 
 Ações relevantes do Plano de Ação 2026-2027 da EDN (para referência):
 
 Ação n.º 15 - Regulação para o Digital simples, clara e pró-inovação
+
+119947124
+
+.Tbl2 { min-height:16px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(242,242,242); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl4 { text-align:center; } .Tbl5 { min-height:202px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { min-height:26px; } .Tbl8 { min-height:79px; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(217,217,217); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(217,217,217); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(217,217,217); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { min-height:59px; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl15 { min-height:169px; } .Tbl16 { min-height:109px; } .Tbl17 { min-height:76px; } .Tbl18 { min-height:153px; } .Tbl19 { min-height:85px; } .Tbl20 { min-height:66px; } .Tbl21 { min-height:228px; } .Tbl22 { min-height:82px; } .Tbl23 { min-height:71px; } .Tbl24 { min-height:61px; } .Tbl25 { min-height:135px; } .Tbl26 { min-height:179px; } .Tbl27 { min-height:162px; } .Tbl28 { min-height:105px; } .Tbl29 { min-height:297px; } .Tbl30 { min-height:57px; } .Tbl31 { min-height:139px; } .Tbl32 { min-height:249px; } .Tbl33 { min-height:124px; }

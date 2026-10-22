@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43389-1960-512792
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-12-09T00:00:00Z'
+  retrieved_at: '2026-10-22T19:21:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb90344e180cb1e6d8ebb27fb1d5056fd3b5125bbdacd6d0b09bf21728fe435e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3dbc591323f5dc8693eb20a5a3ed6d8d714b61e8627669c009e8e0ea52607147
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:21:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:254232:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:21:30Z'
   warnings: []
   errors: []
 ---
@@ -89,13 +93,13 @@ Em execução do artigo 3.º do [Decreto-Lei n.º 41270](https://diariodarepubli
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São anuladas as seguintes quantias previstas no orçamento das receitas aprovado para o corrente ano económico:
+Artigo 1.º São anuladas as seguintes quantias previstas no orçamento das receitas aprovado para o corrente ano económico:
 
 ### CAPÍTULO 3.º — Indústrias em regime tributário especial
 
-###### Artigo 31.º «Imposto ferroviário» ... 5200000$00
+Artigo 31.º «Imposto ferroviário» ... 5200000$00
 
-###### Artigo 32.º «Imposto de camionagem e taxa de compensação»:
+Artigo 32.º «Imposto de camionagem e taxa de compensação»:
 
 Imposto ... 23000000$00
 
@@ -103,12 +107,12 @@ Taxa ... 45000000$00
 
 ... 73200000$00
 
-###### Art. 2.º É aumentada com a quantia de 73200000$00 a previsão da verba inscrita no capítulo 2.º, artigo 17.º, do mesmo orçamento.
+Art. 2.º É aumentada com a quantia de 73200000$00 a previsão da verba inscrita no capítulo 2.º, artigo 17.º, do mesmo orçamento.
 
-###### Art. 3.º É aberto no Ministério das Finanças, a favor do Ministério das Comunicações, um crédito especial da importância de 73200000$00, devendo a mesma quantia ser adicionada à verba descrita no capítulo 3.º, divisão «Fundo Especial de Transportes Terrestres», artigo 40.º «Pagamento de serviços e diversos encargos», do orçamento respeitante ao corrente ano económico do segundo dos mencionados Ministérios.
+Art. 3.º É aberto no Ministério das Finanças, a favor do Ministério das Comunicações, um crédito especial da importância de 73200000$00, devendo a mesma quantia ser adicionada à verba descrita no capítulo 3.º, divisão «Fundo Especial de Transportes Terrestres», artigo 40.º «Pagamento de serviços e diversos encargos», do orçamento respeitante ao corrente ano económico do segundo dos mencionados Ministérios.
 
-###### Art. 4.º Para compensação do crédito aludido no artigo precedente é adicionada igual quantia à verba descrita no capítulo 8.º «Consignações de receita», do grupo «Fundos especiais para fomento», artigo 235.º «Fundo Especial de Transportes Terrestres», do orçamento das receitas para o actual ano económico.
+Art. 4.º Para compensação do crédito aludido no artigo precedente é adicionada igual quantia à verba descrita no capítulo 8.º «Consignações de receita», do grupo «Fundos especiais para fomento», artigo 235.º «Fundo Especial de Transportes Terrestres», do orçamento das receitas para o actual ano económico.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Carlos Gomes da Silva Ribeiro.

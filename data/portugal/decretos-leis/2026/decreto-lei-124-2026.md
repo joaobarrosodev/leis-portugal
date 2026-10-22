@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/124/2026/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2026-1139191703
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-26T00:00:00Z'
+  retrieved_at: '2026-10-22T18:45:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ad5df078026a03f407a1cbb6d30b38f780ea7f615ad8ca0da43960a5bbf9c79
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7515c1fcc4f98873a1f8590365a0b3af80a299966f35f9f011b9690e30c2d007
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:45:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,52 +67,60 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Açores
 - Acreditação
-- Atividade Industrial
-- Produto Químico
-- Efeito de Estufa
-- Licença de Emissão
+- Agência Portuguesa do Ambiente
 - Aproximação das Legislações
-- Região Autónoma
+- Atividade Industrial
 - Atribuição de Verba
-- Gestão de Resíduos
 - Cadastro Industrial
-- Qualidade do AR
-- Multa
+- Comissão de Coordenação e Desenvolvimento Regional
+- Contraordenação
 - Controlo de Qualidade
+- Controlo Metrológico
 - Definição de Competências
-- Poluição Atmosférica
+- Direção Regional do Ambiente e Mar
+- Efeito de Estufa
 - Estabelecimento Industrial
 - Fiscalização
-- Comissão de Coordenação e Desenvolvimento Regional
+- Gestão de Resíduos
+- Gestão do Ambiente
 - Inspeção Geral da Agricultura do Mar do Ambiente e do Ordenamento do Território
 - Inspetor Geral
-- Laboratório
-- Licenciamento
 - Instituto Português de Acreditação
-- Proteção do Ambiente
-- Tratamento de Resíduos
-- Gestão do Ambiente
-- Poluição Industrial
-- Sistema de Informação
+- Laboratório
+- Licença de Emissão
+- Licenciamento
+- Licenciamento Único de Ambiente
 - Madeira.região Autónoma
-- Regime Jurídico
+- Multa
+- Plataforma Eletrónica
 - Poluição
+- Poluição Atmosférica
+- Poluição Industrial
+- Produto Químico
+- Proteção do Ambiente
+- Qualidade do AR
+- Região Autónoma
+- Regime Jurídico
 - Regulamento CE
-- Controlo Metrológico
 - Responsabilidade Civil
 - Sanção
-- Açores
-- Zona Empresarial Responsável
 - Sistema da Indústria Responsável
-- Plataforma Eletrónica
+- Sistema de Informação
 - Sistema Integrado de Licenciamento do Ambiente
-- Licenciamento Único de Ambiente
 - Título Único Ambiental
-- Agência Portuguesa do Ambiente
-- Direção Regional do Ambiente e Mar
-- Contraordenação
+- Tratamento de Resíduos
+- Zona Empresarial Responsável
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:39/2018
+  label: Altera, a partir de 27 de junho de 2026 e com efeitos a 26 de julho de 2026, os artigos 2.º, 3.º, 5.º, 6.º, 8.º,
+    11.º, 13.º, 15.º, 17.º, 26.º, 27.º, 29.º, 40.º, 42.º, os anexos i, ii e iii com a redação respetiva constante dos anexos
+    ao presente diploma, e revoga a alínea c) do n.º 2 do artigo 29.º e a alínea y) da parte 2 do anexo i do Decreto-Lei n.º
+    39/2018, de 11 de junho, Diário da República n.º 111/2018, Série I
+  source: null
+  date: '2018-06-11'
 - type: cites
   target: celex:32015L2193
   label: null
@@ -133,20 +141,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/26/2016/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/26/2016/08/22/p/dre
+- type: cites
+  target: pt:dre:115487878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207272800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75177807:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32015L2193
   label: null
   source: null
 article_structure:
-  article_count: 20
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 7
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:45:06Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +183,7 @@ O [Decreto-Lei n.º 39/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei
 
 A Comissão Europeia adotou várias diligências de avaliação da transposição da diretiva mencionada, tendo vindo a considerar a necessidade de corrigir determinados artigos constantes do [Decreto-Lei n.º 39/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), de 11 de junho, por não terem sido corretamente transpostos. Assim, o Estado Português foi notificado da decisão da Comissão Europeia de instauração de um processo de infração ao abrigo do artigo 258.º do Tratado de Funcionamento da União Europeia, com fundamento na incorreta transposição de vários artigos da Diretiva Médias Instalações de Combustão.
 
-A Comissão Europeia alegou que o Estado Português incumpriu as obrigações que lhe incumbem por não transpor corretamente a alínea e) do n.º 3 do artigo 2.º, o n.º 3 do artigo 5.º, os n.<sup>os</sup>1 e 4 e as alíneas b) e e) do n.º 5, o artigo 6.º, o n.º 1 do artigo 7.º e o artigo 12.º, em conjugação com os pontos 1 e 2 da parte 1 do anexo iii e o artigo 9.º da [Diretiva (UE) 2015/2193](https://data.europa.eu/eli/dir/2015/2193/oj?locale=pt).
+A Comissão Europeia alegou que o Estado Português incumpriu as obrigações que lhe incumbem por não transpor corretamente a alínea e) do n.º 3 do artigo 2.º, o n.º 3 do artigo 5.º, os n.os1 e 4 e as alíneas b) e e) do n.º 5, o artigo 6.º, o n.º 1 do artigo 7.º e o artigo 12.º, em conjugação com os pontos 1 e 2 da parte 1 do anexo iii e o artigo 9.º da [Diretiva (UE) 2015/2193](https://data.europa.eu/eli/dir/2015/2193/oj?locale=pt).
 
 De forma a corresponder com a correta transposição da diretiva para a ordem jurídica interna, o presente decreto-lei procede à segunda alteração ao [Decreto-Lei n.º 39/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2018-115487878), de 11 de junho, de modo a garantir o cumprimento integral do direito europeu, bem como o encerramento do respetivo processo de infração, aproveitando o ensejo para proceder a clarificações e retificações que se configuram necessárias à clareza da redação.
 
@@ -219,7 +243,9 @@ i) [...]
 
 3 - [...]
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 [...]
 
@@ -333,7 +359,9 @@ bbb) [...]
 
 ccc) [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -345,7 +373,9 @@ ccc) [...]
 
 5 - O operador informa imediatamente a autoridade competente, sem atraso injustificado, das alterações programadas da média instalação de combustão que possam afetar os valores-limite de emissão aplicáveis.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O pedido de emissão ou de alteração do TEAR é apresentado pelo operador junto da entidade coordenadora do processo de licenciamento da atividade.
 
@@ -365,7 +395,9 @@ ccc) [...]
 
 9 - A tramitação do procedimento para emissão ou alteração do TEAR é efetuada nos termos do presente artigo, conjugada com a regulamentação aplicável ao regime do LUA, devendo ainda o pedido formulado pelo operador conter, no caso das MIC, as informações referidas na parte 1 do anexo i do presente decreto-lei.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 [...]
 
@@ -379,9 +411,9 @@ d) [...]
 
 e) [...]
 
-f) Manter e comunicar um registo do número de horas de funcionamento das instalações que não funcionem mais de 500 horas/ano ou 1000 horas/ano e, se exigível, o tipo e quantidade anual de combustível consumido, nos termos do disposto nos n.<sup>os</sup>2, 3 e 5 do artigo 20.º;
+f) Manter e comunicar um registo do número de horas de funcionamento das instalações que não funcionem mais de 500 horas/ano ou 1000 horas/ano e, se exigível, o tipo e quantidade anual de combustível consumido, nos termos do disposto nos n.os2, 3 e 5 do artigo 20.º;
 
-g) Manter os dados e as informações a que se referem o n.º 5 do artigo 11.º, os n.<sup>os</sup>1 e 4 do artigo 16.º e o n.º 1 do artigo 23.º, pelo menos, durante seis anos;
+g) Manter os dados e as informações a que se referem o n.º 5 do artigo 11.º, os n.os1 e 4 do artigo 16.º e o n.º 1 do artigo 23.º, pelo menos, durante seis anos;
 
 h) [...]
 
@@ -395,7 +427,9 @@ l) Assegurar que os períodos de arranque e de paragem das MIC são os mais curt
 
 m) Comunicar à entidade competente as informações da alínea g) sempre que solicitadas ao abrigo do regime de acesso à informação administrativa e ambiental, previsto na [Lei n.º 26/2016](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), de 22 de agosto, na sua redação atual.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -407,7 +441,9 @@ m) Comunicar à entidade competente as informações da alínea g) sempre que so
 
 5 - Os operadores das MIC que apliquem um sistema de tratamento do efluente gasoso para redução das emissões a fim de cumprir os valores-limite de emissões, devem manter um registo ou dispor de informações que comprovem o funcionamento contínuo e eficaz do sistema.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -429,9 +465,11 @@ m) Comunicar à entidade competente as informações da alínea g) sempre que so
 
 10 - No que respeita a MIC que utilizem vários combustíveis, a monitorização de emissões é efetuada aquando da queima de um combustível ou de uma mistura de combustíveis suscetível de resultar no nível mais elevado de emissões e durante um período que represente as condições normais de funcionamento.
 
-11 - Sem prejuízo do disposto no n.º 4, aplica-se igualmente, às MIC, o disposto nos n.<sup>os</sup>10 a 13 do artigo 15.º
+11 - Sem prejuízo do disposto no n.º 4, aplica-se igualmente, às MIC, o disposto nos n.os10 a 13 do artigo 15.º
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -457,17 +495,19 @@ a) De três em três anos para MIC com uma potência térmica nominal igual ou s
 
 b) Anual para MIC com uma potência térmica nominal superior a 20 MW.
 
-11 - Em alternativa à periodicidade referida no número anterior, no que diz respeito a MIC sujeitas ao disposto nos n.<sup>os</sup>2 e 5 do artigo 20.º, podem ser exigidas medições periódicas, pelo menos sempre que o seguinte número de horas seja ultrapassado:
+11 - Em alternativa à periodicidade referida no número anterior, no que diz respeito a MIC sujeitas ao disposto nos n.os2 e 5 do artigo 20.º, podem ser exigidas medições periódicas, pelo menos sempre que o seguinte número de horas seja ultrapassado:
 
-a) Três vezes a média do número máximo de horas de funcionamento anual, aplicável por força dos n.<sup>os</sup>2 e 5 do artigo 20.º, para as MIC com uma potência térmica nominal igual ou superior a 1 MW e inferior ou igual a 20 MW;
+a) Três vezes a média do número máximo de horas de funcionamento anual, aplicável por força dos n.os2 e 5 do artigo 20.º, para as MIC com uma potência térmica nominal igual ou superior a 1 MW e inferior ou igual a 20 MW;
 
-b) A média do número máximo de horas de funcionamento anual, aplicável por força dos n.<sup>os</sup>2 e 5 do artigo 20.º, para as MIC com uma potência térmica nominal superior a 20 MW.
+b) A média do número máximo de horas de funcionamento anual, aplicável por força dos n.os2 e 5 do artigo 20.º, para as MIC com uma potência térmica nominal superior a 20 MW.
 
 12 - A frequência das medições periódicas não pode ser inferior a uma vez de cinco em cinco anos.
 
-13 - O previsto nos n.<sup>os</sup>7 e 8 não se aplica às MIC.
+13 - O previsto nos n.os7 e 8 não se aplica às MIC.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -475,7 +515,9 @@ b) A média do número máximo de horas de funcionamento anual, aplicável por f
 
 3 - Nos cálculos efetuados para obtenção dos valores referidos nos números anteriores, o arredondamento é efetuado uma única vez e sujeito à regra de arredondamento comercial.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]
 
@@ -497,7 +539,9 @@ b) A média do número máximo de horas de funcionamento anual, aplicável por f
 
 10 - [...]
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - [...]
 
@@ -511,7 +555,9 @@ b) A média do número máximo de horas de funcionamento anual, aplicável por f
 
 6 - A localização das secções da chaminé onde se proceda às amostragens bem como as respetivas plataformas devem satisfazer os requisitos estabelecidos na norma EN 15259.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...]
 
@@ -533,7 +579,7 @@ g) [...]
 
 h) [...]
 
-i) O incumprimento da altura mínima da chaminé nas condições dos n.<sup>os</sup>3, 4, 5, 6, 7, 8 e 9 do artigo 26.º;
+i) O incumprimento da altura mínima da chaminé nas condições dos n.os3, 4, 5, 6, 7, 8 e 9 do artigo 26.º;
 
 j) O incumprimento da proibição de diluição dos efluentes gasosos, prevista no n.º 10 do artigo 26.º;
 
@@ -545,7 +591,9 @@ m) O incumprimento da obrigação de comunicação à entidade competente previs
 
 3 - [...]
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - [...]
 
@@ -555,7 +603,9 @@ m) O incumprimento da obrigação de comunicação à entidade competente previs
 
 4 - Na Região Autónoma da Madeira, até à concretização de procedimentos desmaterializados de tramitação dos pedidos de licenciamento de atividades, a submissão do pedido de TEAR é efetuada à Direção Regional do Ambiente e Mar, através da entidade coordenadora do processo de licenciamento da atividade, em suporte físico, devendo o mesmo ser instruído com todos os elementos identificados na parte 1 do anexo i do presente decreto-lei, mantendo-se a subsequente tramitação do procedimento de emissão do título nos termos atualmente em vigor.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - [...]
 
@@ -595,13 +645,13 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e p
 
 Visto e aprovado em Conselho de Ministros de 16 de abril de 2026. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Manuel Castro Almeida - Maria da Graça Carvalho.
 
-**Promulgado em 19 de junho de 2026.**
+Promulgado em 19 de junho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 23 de junho de 2026.**
+Referendado em 23 de junho de 2026.
 
 Pelo Primeiro-Ministro, Joaquim Miranda Sarmento, Ministro de Estado e das Finanças.
 
@@ -609,7 +659,7 @@ Pelo Primeiro-Ministro, Joaquim Miranda Sarmento, Ministro de Estado e das Finan
 
 ## ANEXO I — [a que se referem a alínea c) do n.º 1 do artigo 2.º, o n.º 9 do artigo 6.º e o n.º 4 do artigo 40.º]
 
-# PARTE 1 — [...]
+## PARTE 1 — [...]
 
 1 - [...]
 
@@ -623,11 +673,11 @@ Pelo Primeiro-Ministro, Joaquim Miranda Sarmento, Ministro de Estado e das Finan
 
 6 - [...]
 
-7 - No caso das isenções previstas no artigo 20.º, n.<sup>os</sup>2, 3 ou 5, uma declaração assinada pelo operador segundo a qual a MIC não estará em funcionamento durante um período superior ao número de horas referido nesses números.
+7 - No caso das isenções previstas no artigo 20.º, n.os2, 3 ou 5, uma declaração assinada pelo operador segundo a qual a MIC não estará em funcionamento durante um período superior ao número de horas referido nesses números.
 
 8 - [...]
 
-# PARTE 2 — [...]
+## PARTE 2 — [...]
 
 [...]
 
@@ -687,13 +737,13 @@ z) Fabricação de equipamento elétrico.
 
 ## ANEXO II — [...]
 
-# PARTE 1 — [...]
+## PARTE 1 — [...]
 
 1 - [...]
 
 2 - [...]
 
-# PARTE 2 — [...]
+## PARTE 2 — [...]
 
 1 - [...]
 
@@ -721,7 +771,7 @@ h) Para efeitos do cálculo dos valores médios de emissão das MIC, não são t
 
 No caso da amostragem de partículas, dos metais pesados e dos compostos inorgânicos fluorados e clorados, deve ser realizada em condições isocinéticas e verificar-se num intervalo entre - 5 % e + 15 %.
 
-# PARTE 3 — [...]
+## PARTE 3 — [...]
 
 A. [...]
 
@@ -741,7 +791,7 @@ b) Plano de monitorização para as fontes pontuais múltiplas em causa, incluin
 
 ## ANEXO III — [...]
 
-# PARTE 1 — [...]
+## PARTE 1 — [...]
 
 1 - [...]
 
@@ -753,12 +803,14 @@ b) Plano de monitorização para as fontes pontuais múltiplas em causa, incluin
 
 3.2 - [...]
 
-3.3 - Todos os valores limite de emissão estabelecidos no presente anexo são definidos a uma temperatura de 273,15 K, à pressão de 101,3 kPa e após correção do teor de vapor de água nos efluentes gasosos, utilizando um teor normalizado de 6 % de O<sub>2</sub> para as MIC que utilizam combustíveis sólidos, de 3 % para as MIC, com exceção dos motores e turbinas a gás, que utilizam combustíveis líquidos e gasosos, e de 15 % para os motores e turbinas a gás.
+3.3 - Todos os valores limite de emissão estabelecidos no presente anexo são definidos a uma temperatura de 273,15 K, à pressão de 101,3 kPa e após correção do teor de vapor de água nos efluentes gasosos, utilizando um teor normalizado de 6 % de O2 para as MIC que utilizam combustíveis sólidos, de 3 % para as MIC, com exceção dos motores e turbinas a gás, que utilizam combustíveis líquidos e gasosos, e de 15 % para os motores e turbinas a gás.
 
-# PARTE 2 — [...]
+## PARTE 2 — [...]
 
 1 - [...]
 
 2 - [...]
 
 3 - [...]
+
+119948898

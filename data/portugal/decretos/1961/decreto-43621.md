@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43621-1961-569687
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-04-25T00:00:00Z'
+  retrieved_at: '2026-10-22T19:23:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b38a6e76517d0761a3c48fa3e22f0e5fa01a6c7951c6ba688fbba497747f7285
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: edeb228c797f64436c39e29ceb87deaf639f2c5e979a2d55c287dd3427c0ca1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:23:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:321313:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:23:16Z'
   warnings: []
   errors: []
 ---
@@ -88,14 +92,14 @@ Visto o n.º 8.º do artigo 4.º e o § único do artigo 3.º da Reforma Aduanei
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo derreta o eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a importação, sob regime de draubaque, de fios simples de nylon destinados ao fabrico de fios de mousse.
+Artigo 1.º É autorizada a importação, sob regime de draubaque, de fios simples de nylon destinados ao fabrico de fios de mousse.
 
-###### Art. 2.º Por cada 100 kg (peso real) de fio de mousse branco exportado restituir-se-ão os direitos correspondentes a 100 kg (peso real) de fio simples importado.
+Art. 2.º Por cada 100 kg (peso real) de fio de mousse branco exportado restituir-se-ão os direitos correspondentes a 100 kg (peso real) de fio simples importado.
 
-###### Art. 3.º Por cada 100 kg (peso real) de fio de mousse tinto exportado restituir-se-ão os direitos correspondentes a 93 kg (peso real) de fio simples importado.
+Art. 3.º Por cada 100 kg (peso real) de fio de mousse tinto exportado restituir-se-ão os direitos correspondentes a 93 kg (peso real) de fio simples importado.
 
-###### Art. 4.º É permitido aos importadores, sem dependência de prévio despacho ministerial, usar da faculdade de garantir os direitos, nos termos do artigo 443.º-A do Regulamento das Alfândegas.
+Art. 4.º É permitido aos importadores, sem dependência de prévio despacho ministerial, usar da faculdade de garantir os direitos, nos termos do artigo 443.º-A do Regulamento das Alfândegas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Abril de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa.

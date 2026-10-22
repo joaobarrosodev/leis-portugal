@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/102/2026/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2026-1125313601
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-22T00:00:00Z'
+  retrieved_at: '2026-10-22T18:41:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f44f94234cec3d39f4aaa9c8fdb6b1bc459e6c2172b26d3a841e191ebe6bd793
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3bdd1f45beae42850d9d751a05efca3f02501a52c7712ef87d28ee5005af1f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:41:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Valores Mobiliários
-- Mercado de Títulos
-- Sociedade Comercial
+- CMVM
 - Emissão de Títulos
+- Informação do Consumidor
 - Instituição Financeira de Crédito
 - Mercado de Capitais
+- Mercado de Títulos
 - Mercado de Valores
 - Oferta Pública de Distribuição
 - Oferta Pública de Subscrição
-- Informação do Consumidor
 - Regime Jurídico
-- CMVM
+- Sociedade Comercial
+- Valores Mobiliários
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:69/2004
+  label: Altera, a partir de 27 de maio de 2026, os artigos 1.º, 4.º, 6.º, 11.º-A, 12.º, 15.º, 16.º, 18.º, 19.º, 20.º, 20.º-A
+    e 21.º e revoga a alínea c) do n.º 3 do artigo 4.º, o n.º 1 do artigo 12.º, o n.º 1 do artigo 15.º, os n.ºs 2, 7, 8 e
+    9 do artigo 17.º, o n.º 1 do artigo 18.º e as alíneas b) e f) do artigo 21.º do Decreto-Lei n.º 69/2004, de 25 de março,
+    Diário da República n.º 72/2004, Série I-A
+  source: null
+  date: '2004-03-25'
+- type: amends
+  target: pt:numero:decreto-lei:156/2005
+  label: Altera, a partir de 27 de maio de 2026, o anexo ao Decreto-Lei n.º 156/2005, de 15 de setembro, Diário da República
+    n.º 178/2005, Série I-A
+  source: null
+  date: '2005-09-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/156/2005/09/15/p/dre
   label: null
@@ -107,16 +121,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/148/2015/09/09/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/148/2015/09/09/p/dre
+- type: cites
+  target: pt:dre:107596682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:143320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212379454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70237676:por
+  label: null
+  source: null
 article_structure:
-  article_count: 15
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:41:40Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +201,9 @@ Os artigos 1.º, 4.º, 6.º, 11.º-A, 12.º, 15.º, 16.º, 18.º, 19.º, 20.º, 
 
 2 - São papel comercial os valores mobiliários representativos de dívida emitidos por prazo inferior a um ano.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -177,11 +221,15 @@ b) A entidade garante possuir capitais próprios, em euros ou o seu contravalor 
 
 c) [Revogada.]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 Salvo disposição legal em contrário, é proibida a emissão de valores mobiliários de natureza monetária de prazo inferior a um ano que não cumpram o disposto no presente decreto-lei.
 
-###### Artigo 11.º-A — [...]
+Artigo 11.º-A
+
+[...]
 
 1 - [...]
 
@@ -197,7 +245,9 @@ c) [...]
 
 4 - [...]
 
-###### Artigo 12.º — Comunicação prévia de nota informativa e de publicidade
+Artigo 12.º
+
+Comunicação prévia de nota informativa e de publicidade
 
 1 - [Revogado.]
 
@@ -215,7 +265,9 @@ c) Dirigida a mais de 150 investidores não profissionais com residência ou est
 
 5 - À publicidade da oferta é aplicável, com as devidas adaptações, o disposto nos n.os 1 e 3 do artigo 121.º e no artigo 122.º do Código dos Valores Mobiliários, sendo o material publicitário sujeito a comunicação prévia à Comissão do Mercado de Valores Mobiliários.
 
-###### Artigo 15.º — Patrocínio da emissão
+Artigo 15.º
+
+Patrocínio da emissão
 
 1 - [Revogado.]
 
@@ -231,7 +283,9 @@ c) Dirigida a mais de 150 investidores não profissionais com residência ou est
 
 7 - Caso o papel comercial não seja admitido à negociação em mercado regulamentado, o patrocinador da emissão publica semestralmente um relatório sobre o papel comercial emitido, nos termos a definir por regulamento da Comissão do Mercado de Valores Mobiliários.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -241,13 +295,17 @@ c) Dirigida a mais de 150 investidores não profissionais com residência ou est
 
 4 - Sem prejuízo do disposto no n.º 1 do artigo 233.º do Código dos Valores Mobiliários, o investidor profissional que subscreva mais de 50 % da emissão de papel comercial pode requerer a sua admissão à negociação em mercado regulamentado ou em qualquer outra plataforma de negociação, sem necessidade de autorização de entidade emitente.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [Revogado.]
 
 2 - À nota informativa de ofertas de papel comercial previstas no n.º 2 do artigo 12.º é aplicável o disposto no artigo 163.º-A do Código dos Valores Mobiliários.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 [...]
 
@@ -255,11 +313,15 @@ a) Nas ofertas de papel comercial referidas no n.º 2 do artigo 12.º, até ao i
 
 b) Nas demais ofertas de papel comercial, junto do emitente, antes do início do período de subscrição da emissão.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 Aplica-se à informação incluída na nota informativa de ofertas referidas no n.º 2 do artigo 12.º e de admissão à negociação de papel comercial o disposto nos artigos 149.º e seguintes do Código dos Valores Mobiliários.
 
-###### Artigo 20.º-A — [...]
+Artigo 20.º-A
+
+[...]
 
 1 - [...]
 
@@ -273,7 +335,9 @@ Aplica-se à informação incluída na nota informativa de ofertas referidas no 
 
 6 - [...]
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 [...]
 
@@ -303,15 +367,15 @@ O anexo ao [Decreto-Lei n.º 156/2005](https://diariodarepublica.pt/dr/detalhe/d
 
 Visto e aprovado em Conselho de Ministros de 9 de abril de 2026. - Luís Montenegro - José Maria Gonçalves Pereira Brandão de Brito.
 
-**Promulgado em 4 de maio de 2026.**
+Promulgado em 4 de maio de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 6 de maio de 2026.**
+Referendado em 6 de maio de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -356,3 +420,5 @@ Visto e aprovado em Conselho de Ministros de 9 de abril de 2026. - Luís Montene
 18 - [...]
 
 19 - [...]»
+
+119948546

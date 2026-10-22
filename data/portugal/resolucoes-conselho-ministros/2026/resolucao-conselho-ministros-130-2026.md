@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/130/2026/06/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/130-2026-1134398999
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-19T00:00:00Z'
+  retrieved_at: '2026-10-22T18:44:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22395a867f32d28d623c83536d8eb961d8c22a1797e1f35c404561083997d8b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9cb8120105c4dd56cf3d80103b5a19a0642621bedf062a3da213cf7ab98b68da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:44:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,12 @@ subjects:
 - Despesas Públicas
 - Ministro da Defesa Nacional
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:125/2021
+  label: Altera, com efeitos a partir de 11 de junho de 2026, os n.ºs 1 e 3 e o anexo à Resolução do Conselho de Ministros
+    n.º 125/2021, de 6 de setembro, Diário da República n.º 173/2021, Série I
+  source: null
+  date: '2021-09-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -97,16 +103,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/182/2024/12/12/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/182/2024/12/12/p/dre
+- type: cites
+  target: pt:dre:170794625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223154120:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:899909681:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:44:22Z'
   warnings: []
   errors: []
 ---
@@ -173,20 +203,24 @@ Presidência do Conselho de Ministros, 11 de junho de 2026. - O Primeiro-Ministr
 
 ## ANEXO — (a que se refere o n.º 4)
 
-## ANEXO — (a que se referem os n.<sup>os</sup>2 e 4)
+## ANEXO — (a que se referem os n.os2 e 4)
 
 Repartição plurianual dos encargos por projeto
 
-|  |  |  |  |  |  |  | Unidade: EUR | Unidade: EUR |
+|  |  |  |  |  |  |  | Unidade: EUR |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 | 2027 | Total |
-| Projetos financiados com verbas NATO e verbas nacionais | Projetos financiados com verbas NATO e verbas nacionais | Projetos financiados com verbas NATO e verbas nacionais | Projetos financiados com verbas NATO e verbas nacionais | Projetos financiados com verbas NATO e verbas nacionais | Projetos financiados com verbas NATO e verbas nacionais | Projetos financiados com verbas NATO e verbas nacionais | Projetos financiados com verbas NATO e verbas nacionais | Projetos financiados com verbas NATO e verbas nacionais |
+| Projetos financiados com verbas NATO e verbas nacionais |  |  |  |  |  |  |  |  |
 | «Provide On - Base Interconnecting Pipeline» (3AF08003) | 0,00 | 0,00 | 48 000 | 32 000 | 0,00 | 5 975 640 | 783 597 | 6 839 237 |
 | «Restore NATO Pier» (3NB08009) | - | - | - | - | 2 981 142 | 1 427 742 | 450 000 | 4 858 884 |
-| Projetos financiados com verbas NATO | Projetos financiados com verbas NATO | Projetos financiados com verbas NATO | Projetos financiados com verbas NATO | Projetos financiados com verbas NATO | Projetos financiados com verbas NATO | Projetos financiados com verbas NATO | Projetos financiados com verbas NATO | Projetos financiados com verbas NATO |
+| Projetos financiados com verbas NATO |  |  |  |  |  |  |  |  |
 | «Restore Storm Damage on NATO Pier» (7NB08999) | - | - | - | 2 505 074 | 2 319 926 | 55 298 | - | 4 880 298 |
 | «Upgrade Parking Apron for AEW Mission» (3AF08001) | 500 000 | 930 000 | 174 538 | - | - | - | - | 1 604 538 |
 | «Widen Taxiway for AEW at Beja Airbase» (3AF08008) | 200 000 | 400 000 | 28 844 | - | - | - | - | 628 844 |
 | «Provide Ammunition Facilities» (3AF08005) | 60 000 | 482 811 | 76 000 | - | - | - | - | 618 811 |
 | «Provide In - Transit Platform» (3AF08007) | 125 000 | 1 475 000 | 600 000 | 232 432 | - | - | - | 2 432 432 |
-| Total | 885 000 | 3 287 811 | 927 382 | 2 769 506 | 5 301 068 | 7 458 680 | 1 233 597 | 21 863 044 |
+| **Total** | **885 000** | **3 287 811** | **927 382** | **2 769 506** | **5 301 068** | **7 458 680** | **1 233 597** | **21 863 044** |
+
+119948831
+
+.Tbl2 { min-height:18px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl4 { text-indent:0px; text-align:right; } .Tbl5 { height:26px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl8 { text-indent:0px; text-align:center; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl10 { min-height:21px; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { min-height:28px; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl14 { text-indent:0px; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl16 { text-indent:0px; text-align:left; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; }

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/112/2026/06/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/112-2026-1130121308
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-08T00:00:00Z'
+  retrieved_at: '2026-10-22T18:43:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 555e976b2a7eef090ec89ccf97ce83eee9bd782fb114891db01f4b7a29fa17e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b49d0d564f2fd51f6c6816a40b29ad68967ccbbdd176bfb228864d682d2884b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:43:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Barragem de FOZ tua
-- RIO tua
-- Ordenamento do Território
 - Agência Portuguesa do Ambiente
-- Sistema Nacional de Informação Territorial
+- Barragem de FOZ tua
+- Ordenamento do Território
 - Programa Especial da Albufeira de Foz Tua
+- RIO tua
+- Sistema Nacional de Informação Territorial
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:62/2002
+  label: Mantém em vigor, nos termos da alínea b) do n.º 6 do presente diploma, as disposições do Plano de Ordenamento das
+    Albufeiras da Régua e Carrapatelo, aprovado pela Resolução do Conselho de Ministros n.º 62/2002, de 23 de março, Diário
+    da República n.º 70/2002, Série I-B
+  source: null
+  date: '2002-03-23'
 - type: cites
   target: celex:31991L0271
   label: null
@@ -120,6 +127,94 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/62/2002/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/62/2002/03/23/p/dre
+- type: cites
+  target: pt:dre:1065496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107524707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108001410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117159945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25696958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2945967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3326435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69900867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70072287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72831248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75367887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75774110:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32000L0060
   label: null
@@ -127,13 +222,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:43:15Z'
   warnings: []
   errors: []
 ---
@@ -254,7 +349,8 @@ Constitui ainda referência para o Programa da Albufeira de Foz Tua um conjunto 
 
 O PEAFT incide sobre a albufeira de Foz Tua e a sua envolvente, compreendendo, de acordo com o [Decreto-Lei n.º 107/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2009-608704), de 15 de maio, a albufeira de águas públicas, bem como o respetivo leito, margem e terrenos circundantes, numa faixa que corresponde à zona terrestre de proteção.
 
-![](https://files.diariodarepublica.pt/images/1130121308/1130121496.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1130121308/1130121496.png) |
+| --- |
 
 Figura 1 - Área de intervenção do PEAFT
 
@@ -274,11 +370,11 @@ QUADRO 1
 
 Massas de água abrangidas pela área do PEAFT e respetivo estado global
 
-|  | Código | Designação | Estado global da massa de água |
+|  | Massa de água | Estado global da massa de água |  |
 | --- | --- | --- | --- |
-|  | Massa de água | Massa de água | Estado global da massa de água |
+| Código | Designação |  |  |
 | Superficiais fortemente modificadas | PT03DOU0331C | Albufeira Foz Tua | Desconhecido |
-| Superficiais fortemente modificadas | PT03DOU0331A | Rio Tua (jusante - B. Foz Tua) | Inferior a Bom |
+| PT03DOU0331A | Rio Tua (jusante - B. Foz Tua) | Inferior a Bom |  |
 | Superficiais naturais | PT03DOU0323A | Ribeira de São Mamede | Bom e Superior |
 |  | PT03DOU0307A | Ribeira da Rebousa | Bom e Superior |
 |  | PT03DOU0293A | Rio Tinhela | Bom e Superior |
@@ -296,7 +392,8 @@ O estado Inferior a Bom da massa de água ribeira da Cabreira resulta das press�
 
 Já o estado Inferior a Bom da massa de água Rio Tua (Jusante - B. Foz Tua) resulta da classificação medíocre do estado/potencial ecológico, em particular do estado biológico. Uma das pressões responsáveis pelo estado desta massa de água refere-se à alteração das suas características físicas e hidromorfológicas, resultante da existência de barreiras transversais (Ponte Açude de Mirandela e outros açudes de menor dimensão), ao que acresce a construção da barragem de Foz Tua, para aproveitamento hidroelétrico.
 
-![](https://files.diariodarepublica.pt/images/1130121308/1130121497.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1130121308/1130121497.png) |
+| --- |
 
 Figura 2 - Massas de água superficiais abrangidas pelo PEAFT
 
@@ -402,7 +499,7 @@ Complementarmente, o PEAFT é acompanhado por:
 
 • Indicadores qualitativos e quantitativos que suportam a avaliação do Programa.
 
-Nos termos do disposto nos n.<sup>os</sup> 3 e 4 do artigo 44.º do RJIGT, nos 30 dias posteriores à publicação do PEAFT, a autoridade nacional da água aprova o Regulamento de Gestão da Albufeira de Foz Tua, que contém as disposições aplicáveis ao domínio hídrico, em especial as que se referem às áreas de recreio e lazer e às infraestruturas de apoio às atividades secundárias, bem com as que dizem respeito a comportamentos suscetíveis de afetar ou comprometer os recursos hídricos.
+Nos termos do disposto nos n.os 3 e 4 do artigo 44.º do RJIGT, nos 30 dias posteriores à publicação do PEAFT, a autoridade nacional da água aprova o Regulamento de Gestão da Albufeira de Foz Tua, que contém as disposições aplicáveis ao domínio hídrico, em especial as que se referem às áreas de recreio e lazer e às infraestruturas de apoio às atividades secundárias, bem com as que dizem respeito a comportamentos suscetíveis de afetar ou comprometer os recursos hídricos.
 
 2 - Visão, princípios e objetivos:
 
@@ -448,7 +545,8 @@ Os objetivos do regime de proteção da albufeira de Foz Tua são os definidos p
 
 Tendo em conta a visão, os princípios e objetivos estabelecidos, na figura 3 apresenta-se o modelo estratégico do PEAFT, no qual são identificados cinco objetivos estratégicos.
 
-![](https://files.diariodarepublica.pt/images/1130121308/1130121498.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1130121308/1130121498.png) |
+| --- |
 
 Figura 3 - Modelo estratégico do PEAFT:
 
@@ -510,7 +608,8 @@ Considerando a estratégia de atuação do PEAFT, o plano de água e a zona terr
 
 Os regimes de proteção, salvaguarda e gestão compatível com a utilização sustentável do território identificados no modelo territorial concretizam a estratégia de salvaguarda dos objetivos de interesse nacional com incidência na área de intervenção. Estes regimes visam alcançar os objetivos estratégicos do PEAFT, sendo as componentes que integram o modelo territorial e que se encontram representadas cartograficamente, apresentadas na figura seguinte.
 
-![](https://files.diariodarepublica.pt/images/1130121308/1130121499.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1130121308/1130121499.png) |
+| --- |
 
 Figura 4 - Estrutura do modelo territorial do PEAFT
 
@@ -1612,16 +1711,16 @@ Monitorização do PEAFT - Indicadores de realização
 
 | Indicador | Unidade | Fonte de informação | Frequência | Meta |
 | --- | --- | --- | --- | --- |
-| Proteger, valorizar e garantir o bom estado da albufeira e das restantes massas de água | Proteger, valorizar e garantir o bom estado da albufeira e das restantes massas de água | Proteger, valorizar e garantir o bom estado da albufeira e das restantes massas de água | Proteger, valorizar e garantir o bom estado da albufeira e das restantes massas de água | Proteger, valorizar e garantir o bom estado da albufeira e das restantes massas de água |
+| Proteger, valorizar e garantir o bom estado da albufeira e das restantes massas de água |  |  |  |  |
 | IRea 1. N.º de explorações agrícolas e florestais em conformidade com as regras da condicionalidade/n.º de explorações agrícolas e florestais abrangidas por estas regras | % | DGADR, GPP | Anual | 70 %/ano |
 | IRea 2. Área onde foram aplicadas medidas preventivas para evitar a erosão hídrica do solo após a ocorrência de incêndios florestais/área ardida com incêndios florestais | % | ICNF, APA, municípios | Anual | 80 %/ano |
 | IRea 3. Investimentos para melhoria de infraestruturas de águas residuais | € | Entidades gestoras de água e saneamento | Anual | 210.000/ano |
 | IRea 4. Galerias ripícolas recuperadas em áreas críticas/totalidade das galerias ripícolas a recuperar | % | APA, Movhera, ADRVT | Quadrienal | 70 % |
-| Proteger e valorizar a envolvente da albufeira | Proteger e valorizar a envolvente da albufeira | Proteger e valorizar a envolvente da albufeira | Proteger e valorizar a envolvente da albufeira |  |
+| Proteger e valorizar a envolvente da albufeira |  |  |  |  |
 | IRea 5. Delimitação/sinalização da zona de respeito da barragem e dos órgãos de segurança e de utilização da albufeira | % | Movhera | Anual | 100 % |
 | IRea 6. Área com ações de preservação e regeneração natural do coberto vegetal na zona reservada/área da zona reservada | % | ADRVT, APA | Anual | 30 % |
 | IRea 7. Estudos desenvolvidos, referentes a empreendimentos turísticos, para salvaguarda da massa de água e das características biofísicas da zona terrestre de proteção | N.º | APA, Municípios | Anual | 3 |
-| Garantir os usos principais da albufeira e a compatibilização das atividades secundárias | Garantir os usos principais da albufeira e a compatibilização das atividades secundárias | Garantir os usos principais da albufeira e a compatibilização das atividades secundárias | Garantir os usos principais da albufeira e a compatibilização das atividades secundárias | Garantir os usos principais da albufeira e a compatibilização das atividades secundárias |
+| Garantir os usos principais da albufeira e a compatibilização das atividades secundárias |  |  |  |  |
 | IRea 8. Delimitação dos níveis de proteção do modelo territorial | % | Movhera | Anual | 100 % |
 | IRea 9. Sinalização de locais de risco de instabilidade de vertentes com potencial interferência com a utilização do plano de água | % | Movhera, concessionários, APA | Anual | 100 % |
 | IRea 10. Painéis informativos colocados com informação sobre o modelo territorial e a utilização do plano de água | N.º | Movhera, concessionários, APA | Anual | 20 |
@@ -1630,11 +1729,11 @@ Monitorização do PEAFT - Indicadores de realização
 | IRea 13. Infraestruturas implementadas para apoio à pesca fora das áreas de recreio e lazer | N.º | Municípios, APA | Anual | 5 |
 | IRea 14. Estudos/projetos desenvolvidos para abordar os efeitos negativos ambientais e paisagísticos da zona interníveis | N.º | Municípios, ADRVT | Anual | - |
 | IRea 15. Investimentos efetuados para aquisição de meios aquáticos para operações e de emergência e formação de elementos das corporações de bombeiros voluntários | € | ADRVT, municípios | Anual | 250 000 até 2028 |
-| Gerir os riscos | Gerir os riscos | Gerir os riscos | Gerir os riscos |  |
+| Gerir os riscos |  |  |  |  |
 | IRea 16. Área agrícola e silvícola com desenvolvimento de ações para promover a conservação do solo, pelos agricultores e silvicultores, no âmbito do PDR 2020 | Área/% da área agrícola e silvícola na zona terrestre de proteção | DRAPN, DGADR | Anual | 50 % |
 | IRea 17. Situações de risco de instabilidade de vertentes sinalizadas na zona terrestre de proteção na sequência da monitorização anual | N.º e % | Movhera, APA, concessionários | Anual | 100 % |
 | IRea 18. Investimentos em intervenções de emergência para áreas vulneráveis e de risco | € | Municípios - proteção civil | Anual | 0 |
-| Potenciar a boa governança | Potenciar a boa governança | Potenciar a boa governança | Potenciar a boa governança | Potenciar a boa governança |
+| Potenciar a boa governança |  |  |  |  |
 | IRea 19. Implementação e utilização da base de dados comum e de serviços partilhados | - | APA | Anual | 100 % |
 | IRea 20. Protocolos e acordos estabelecidos para articulação com entidades responsáveis pela aplicação de medidas e intervenções previstas no PNRVT, na AIA do AHFT e no PGRH do Douro | N.º | APA | Anual | 6 |
 | IRea 21. Dados de monitorização da qualidade da água e de caudais introduzidos na base de dados comum e de serviços partilhados/totalidade dos dados disponíveis | % | APA | Anual | 100 %/ano |
@@ -1654,17 +1753,17 @@ Monitorização do PEAFT - Indicadores de resultado
 
 | Indicador | Unidade | Fonte de informação | Frequência |
 | --- | --- | --- | --- |
-| Proteger, valorizar e garantir o bom estado da albufeira e das restantes massas de água | Proteger, valorizar e garantir o bom estado da albufeira e das restantes massas de água | Proteger, valorizar e garantir o bom estado da albufeira e das restantes massas de água | Proteger, valorizar e garantir o bom estado da albufeira e das restantes massas de água |
+| Proteger, valorizar e garantir o bom estado da albufeira e das restantes massas de água |  |  |  |
 | IRes 1. N.º de incumprimento de parâmetros de qualidade da água | N.º | APA | Anual |
 | IRes 2. Estado ecológico, químico e final da massa de água albufeira de Foz Tua | Excelente, Bom, Razoável, Medíocre e Mau | APA | Anual |
 | IRes 3. Tendência de evolução da qualidade da água da albufeira de Foz Tua | Melhoria, pioria, manutenção | APA, Movhera | Anual |
-| IRes 4. Volume de água captada por uso | m<sup>3</sup>/ano | APA, utilizadores | Anual |
-| IRes 5. Tendência de evolução da quantidade da água na albufeira de Foz Tua | m<sup>3</sup>/ano | APA, Movhera | Anual |
+| IRes 4. Volume de água captada por uso | m3/ano | APA, utilizadores | Anual |
+| IRes 5. Tendência de evolução da quantidade da água na albufeira de Foz Tua | m3/ano | APA, Movhera | Anual |
 | IRes 6. Estado ecológico, químico e final das massas de água afluentes e a jusante da albufeira de Foz Tua | Excelente, Bom, Razoável, Medíocre e Mau | APA | Anual |
 | IRes 7. Estado ecológico, químico e final massa de água albufeira da Régua | Excelente, Bom, Razoável, Medíocre e Mau | APA | Anual |
 | IRes 8. Descargas de efluentes domésticos, industriais e agropecuários, descargas ilegais e descargas que não cumprem o valor limite de emissão (VLE) | N.º, tipo e grau de tratamento | APA | Anual |
 | IRes 9. Evolução dos habitats presentes na albufeira e na margem | Área e sensibilidade | ADRVT | Bienal |
-| Proteger e valorizar a envolvente da albufeira | Proteger e valorizar a envolvente da albufeira | Proteger e valorizar a envolvente da albufeira | Proteger e valorizar a envolvente da albufeira |
+| Proteger e valorizar a envolvente da albufeira |  |  |  |
 | IRes 10. Áreas com importância para a conservação da natureza | Área | ADRVT, Movhera, municípios | Anual |
 | IRes 11. Evolução das áreas artificializadas na zona terrestre de proteção | Área por tipo | Municípios | Anual |
 | IRes 12. Evolução do uso do solo na zona terrestre de proteção | Classes da COS e sua área | DGT | Quanto forem publicadas cartas |
@@ -1676,10 +1775,10 @@ Monitorização do PEAFT - Indicadores de resultado
 | IRes 18. Empreendimentos turísticos com parecer favorável na zona terrestre de proteção | N.º, tipologia, n.º de camas/utentes | TP (SIGTUR) | Anual |
 | IRes 19. Estabelecimentos e alojamento local instalados na zona terrestre de proteção | N.º de estabelecimentos, n.º de utentes | TP (SIGTUR) e municípios | Anual |
 | IRes 20. Transporte de passageiros na área do PEAFT | N.º de utentes, por tipo de transporte, ao longo do ano | Operadores | Anual |
-| Garantir os usos principais da albufeira e a compatibilização das atividades secundárias | Garantir os usos principais da albufeira e a compatibilização das atividades secundárias | Garantir os usos principais da albufeira e a compatibilização das atividades secundárias | Garantir os usos principais da albufeira e a compatibilização das atividades secundárias |
+| Garantir os usos principais da albufeira e a compatibilização das atividades secundárias |  |  |  |
 | IRes 21. Produção de energia | Megawatt | Movhera | Anual |
-| IRes 22. Captação de água para abastecimento público | m<sup>3</sup>/ano | APA | Anual |
-| IRes 23. Captação de água para rega | m<sup>3</sup>/ano | APA | Anual |
+| IRes 22. Captação de água para abastecimento público | m3/ano | APA | Anual |
+| IRes 23. Captação de água para rega | m3/ano | APA | Anual |
 | IRes 24. Zonas recreativas e de lazer implementadas | N.º e n.º de utentes por atividade | APA | Anual |
 | IRes 25. Zonas balneares na albufeira/utentes | N.º e n.º de utentes | Concessionários | Anual |
 | IRes 26. Atividade fluvial de transporte de passageiros | N.º de embarcações e n.º de utentes | Concessionários, IMT, AMT | Anual |
@@ -1688,13 +1787,13 @@ Monitorização do PEAFT - Indicadores de resultado
 | IRes 29. Infraestruturas de apoio à pesca | N.º | APA, municípios | Anual |
 | IRes 30. Embarcações atracadas nas fluvinas | N.º | Concessionários | Anual |
 | IRes 31. Sazonalidade das embarcações atracadas nas fluvinas | N.º | Concessionários | Anual |
-| Gerir os riscos | Gerir os riscos | Gerir os riscos | Gerir os riscos |
+| Gerir os riscos |  |  |  |
 | IRes 32. Área ardida em incêndios florestais | Área | ICNF | Anual |
 | IRes 33. Danos causados por cheias e inundações | Área e tipo | Municípios, APA | Anual |
 | IRes 34. Eventos de instabilidade de vertentes e respetivos danos | N.º, área afetada e tipo | Municípios, APA, Movhera | Anual |
 | IRes 35. Eventos de erosão hídrica do solo e respetivos danos | N.º, área afetada | Municípios, APA | Anual |
 | IRes 36. Medidas tomadas com base nos resultados dos estudos e das monitorizações efetuadas relacionadas com os riscos | N.º | Municípios, APA, Movhera, concessionários | Anual |
-| Potenciar a boa governança | Potenciar a boa governança | Potenciar a boa governança | Potenciar a boa governança |
+| Potenciar a boa governança |  |  |  |
 | IRes 37. Protocolos entre entidades públicas/privadas para recolha de informação | N.º | APA, câmaras municipais, concessionários, outras entidades | Anual |
 | IRes 38. Protocolos entre entidades públicas/privadas para partilha de responsabilidades na gestão da albufeira e da sua zona terrestre de proteção | N.º | APA, câmaras municipais, outras entidades | Anual |
 | IRes 39. Entidades que contemplam ações/medidas do PEAFT no seu plano de ação | N.º | Entidades previstas no programa de execução | Anual |
@@ -1706,7 +1805,8 @@ ADRVT - Agência de Desenvolvimento Regional do Vale do Tua; AMN - Autoridade Ma
 
 ## ANEXO II — (a que se refere o n.º 1)
 
-![](https://files.diariodarepublica.pt/images/1130121308/1130121500.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1130121308/1130121500.png) |
+| --- |
 
 84226 - [https://ssaigt.dgterritorio.pt/i/Peças_gráficas_84226_ModeloTerr.jpg](https://ssaigt.dgterritorio.pt/i/Peças_gráficas_84226_ModeloTerr.jpg)
 
@@ -1718,7 +1818,7 @@ PDM de Alijó ([Aviso n.º 6460/2014](https://diariodarepublica.pt/dr/detalhe/av
 
 | Artigo do PMOT incompatível | Fundamentação da incompatibilidade |
 | --- | --- |
-| CAPÍTULO IIIUso do SoloSECÇÃO XÁreas afetas aos recursos geológicosArtigo 35.º, n.<sup>os</sup> 2 e 3Caracterização e regime | - Por não proibir as ações interditas nas alíneas a) e b) da NE 2, NE 4, NE 12, NE 25, NE 26- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 11, NE 15, NE 19, NE 24- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminados nas exceções da NE 5, NE 8, NE 9, NE 14, NE 16, NE 17, NE 20, NE 21, NE 22, NE 23, NE 27- Por admitir a alteração de uso em desconformidade com o previsto na NE 10, NE 18, na alínea b) da NE 27 |
+| CAPÍTULO IIIUso do SoloSECÇÃO XÁreas afetas aos recursos geológicosArtigo 35.º, n.os 2 e 3Caracterização e regime | - Por não proibir as ações interditas nas alíneas a) e b) da NE 2, NE 4, NE 12, NE 25, NE 26- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 11, NE 15, NE 19, NE 24- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminados nas exceções da NE 5, NE 8, NE 9, NE 14, NE 16, NE 17, NE 20, NE 21, NE 22, NE 23, NE 27- Por admitir a alteração de uso em desconformidade com o previsto na NE 10, NE 18, na alínea b) da NE 27 |
 | CAPÍTULO IVQualificação do solo ruralSECÇÃO IEspaços agrícolas ou florestaisArtigo 37.º, n.º 1, al. a)Definição e usos dominantes | - Por não proibir as ações interditas nas alíneas a) e b) da NE 2, NE 4, NE 12, NE 25, NE 26- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 15, NE 24- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 8, NE 9, NE 16, NE 17, NE 20, NE 21, NE 22, NE 23, da alínea a) da NE 27- Por admitir a alteração de uso em desconformidade com o previsto na NE 10, NE 18 |
 | CAPÍTULO IVQualificação do solo ruralSECÇÃO IEspaços agrícolas ou florestaisArtigo 37.º, n.º 1, alíneas b) e c)Definição e usos dominantes | - Por não proibir as ações interditas na NE 4, NE 12, NE 25, NE 26- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 15, NE 24- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 5, NE 8, NE 9, NE 16, NE 17, NE 20, NE 21, NE 22, NE 23, da alínea a) da NE 27- Por admitir a alteração de uso em desconformidade com o previsto na NE 10, NE 18 |
 | CAPÍTULO IVQualificação do solo ruralSECÇÃO IEspaços agrícolas ou florestaisArtigo 37.º, n.º 1, al. d)Definição e usos dominantes | - Por não proibir as ações interditas na NE 4, NE 12, NE 25, NE 26- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 15, NE 24- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 5, NE 7, NE 8, NE 9, NE 16, NE 17, NE 20, NE 21, NE 22, NE 23, da alínea a) da NE 27- Por admitir a alteração de uso em desconformidade com o previsto na NE 10, NE 18 |
@@ -1728,17 +1828,17 @@ PDM de Alijó ([Aviso n.º 6460/2014](https://diariodarepublica.pt/dr/detalhe/av
 | CAPÍTULO IVQualificação do solo ruralSECÇÃO IEspaços agrícolas ou florestaisArtigo 41.º, n.º 1, alíneas b) e c), e n.º 2Empreendimentos turísticos, de recreio e lazerArtigo 42.ºEquipamentos e infraestruturas de interesse públicoArtigo 43.ºInstalações Especiais | - Por não proibir as ações interditas nas alíneas a) e b) da NE 2, NE 4, NE 12, NE 25, NE 26- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 11, NE 15, NE 19, NE 24- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 5, NE 7, NE 8, NE 9, NE 14, NE 16, NE 17, NE 20, NE 21, NE 22, NE 23, NE 27- Por admitir a alteração de uso em desconformidade com o previsto na NE 10, NE 18, na alínea b) da NE 27 |
 | CAPÍTULO IVQualificação do solo ruralSECÇÃO IIEspaços naturaisArtigo 46.º, n.º 1, alíneas f) e g)Regime | - Por não proibir as ações interditas na NE 4, NE 12, NE 25, NE 26- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 11, NE 24- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 5, NE 7, NE 8, NE 9, NE 14, NE 22, NE 23- Por admitir a alteração de uso em desconformidade com o previsto na NE 10 |
 | CAPÍTULO VQualificação do solo urbanoSECÇÃO ISolos urbanizadosSUBSECÇÃO IIEspaços centrais iiArtigo 51.º, n.º 2, al. b), d) e g)Caracterização e edificabilidade | - Por não proibir as ações interditas na NE 4- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 16, NE 21, NE 22 |
-| CAPÍTULO VQualificação do solo urbanoSECÇÃO IISolos urbanizáveisSUBSECÇÃO IIEspaços residenciais de expansão de nível iiArtigo 58.º, n.<sup>os</sup> 3 e 4Caracterização e regime | - Por não proibir as ações interditas na NE 4- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 16, NE 22 |
-| CAPÍTULO VQualificação do solo urbanoSECÇÃO IIIEspaços verdesSUBSECÇÃO IIIEspaços verdes de enquadramentoArtigo 63.º, n.<sup>os</sup> 2 e 3, alíneas a) e c)Caracterização e regime | - Por não proibir as ações interditas na NE 4- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 16 |
+| CAPÍTULO VQualificação do solo urbanoSECÇÃO IISolos urbanizáveisSUBSECÇÃO IIEspaços residenciais de expansão de nível iiArtigo 58.º, n.os 3 e 4Caracterização e regime | - Por não proibir as ações interditas na NE 4- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 16, NE 22 |
+| CAPÍTULO VQualificação do solo urbanoSECÇÃO IIIEspaços verdesSUBSECÇÃO IIIEspaços verdes de enquadramentoArtigo 63.º, n.os 2 e 3, alíneas a) e c)Caracterização e regime | - Por não proibir as ações interditas na NE 4- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 16 |
 
 PDM de Carrazeda de Ansiães ([Aviso n.º 14352/2015](https://diariodarepublica.pt/dr/detalhe/aviso/14352-2015-72831248), de 7 de dezembro)
 
 | Artigo do PMOT incompatível | Fundamentação da incompatibilidade |
 | --- | --- |
-| CAPÍTULO IVQualificação do solo ruralSECÇÃO IDisposições geraisArtigo 19.º, n.<sup>os</sup> 3 e 5Disposições comuns | - Por não proibir as ações interditas nas alíneas a) e b) da NE 2, NE 4, NE 12, NE 25, NE 26- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 11, NE 15, NE 19, NE 24- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 5, NE 8, NE 9, NE 14, NE 16, NE 17, NE 20, NE 21, NE 22, NE 23, NE 27- Por admitir a alteração de uso em desconformidade com o previsto na NE 10, NE 18, na alínea b) da NE 27 |
+| CAPÍTULO IVQualificação do solo ruralSECÇÃO IDisposições geraisArtigo 19.º, n.os 3 e 5Disposições comuns | - Por não proibir as ações interditas nas alíneas a) e b) da NE 2, NE 4, NE 12, NE 25, NE 26- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 11, NE 15, NE 19, NE 24- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 5, NE 8, NE 9, NE 14, NE 16, NE 17, NE 20, NE 21, NE 22, NE 23, NE 27- Por admitir a alteração de uso em desconformidade com o previsto na NE 10, NE 18, na alínea b) da NE 27 |
 | CAPÍTULO IVQualificação do solo ruralSECÇÃO IVEspaços agrícolas ou florestaisSUBSECÇÃO IEspaços agrícolasArtigo 24.º, n.º 1IdentificaçãoArtigo 25.ºRegime | - Por não proibir as ações interditas na NE 4, NE 12, NE 25, NE 26- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 15, NE 24- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 8, NE 9, NE 14, NE 16, NE 17, NE 20, NE 21, NE 22, NE 23, da alínea a) da NE 27- Por admitir a alteração de uso em desconformidade com o previsto na NE 10, NE 18 |
 | CAPÍTULO IVQualificação do solo ruralSECÇÃO IVEspaços agrícolas ou florestaisSUBSECÇÃO IIEspaços de uso múltiplo agrícola e florestalArtigo 26.º, n.º 1, n.º 2, alíneas b) e c), e n.º 3IdentificaçãoArtigo 27.ºRegime | - Por não proibir as ações interditas nas alíneas a) e b) da NE 2, NE 4, NE 12, NE 25, NE 26- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 15, NE 24- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 7, NE 8, NE 9, NE 14, NE 16, NE 17, NE 20, NE 21, NE 22, NE 23, da alínea a) da NE 27- Por admitir a alteração de uso em desconformidade com o previsto na NE 10, NE 18 |
-| CAPÍTULO IVQualificação do solo ruralSECÇÃO VEspaços naturaisArtigo 29.º, n.<sup>os</sup> 2 e 3Regime | - Por não proibir as ações interditas na NE 4, NE 12, NE 25, NE 26- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 11, NE 15, NE 19, NE 24- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 5, NE 7, NE 8, NE 9, NE 14, NE 16, NE 17, NE 20, NE 21, NE 22, NE 23, NE 27- Por admitir a alteração de uso em desconformidade com o previsto na NE 10, NE 18, na alínea b) da NE 27 |
+| CAPÍTULO IVQualificação do solo ruralSECÇÃO VEspaços naturaisArtigo 29.º, n.os 2 e 3Regime | - Por não proibir as ações interditas na NE 4, NE 12, NE 25, NE 26- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 11, NE 15, NE 19, NE 24- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 5, NE 7, NE 8, NE 9, NE 14, NE 16, NE 17, NE 20, NE 21, NE 22, NE 23, NE 27- Por admitir a alteração de uso em desconformidade com o previsto na NE 10, NE 18, na alínea b) da NE 27 |
 | CAPÍTULO IVQualificação do solo ruralSECÇÃO VIEspaços afetos à exploração de recursos geológicosArtigo 30.º, n.º 3, al. b)Identificação | - Por não proibir as ações interditas na NE 4, NE 12, NE 25, NE 26- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 11, NE 15, NE 19, NE 24- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 5, NE 8, NE 9, NE 14, NE 16, NE 17, NE 20, NE 21, NE 22, NE 23, NE 27- Por admitir a alteração de uso em desconformidade com o previsto na NE 10, NE 18 |
 | CAPÍTULO VQualificação do solo urbanoSECÇÃO IISolo urbanizadoSUBSECÇÃO IIEspaços residenciaisArtigo 42.º, n.º 2Ocupações e utilizaçõesArtigo 43.ºRegime de edificabilidade | - Por não proibir as ações interditas na NE 4- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 8, NE 16, NE 21, NE 22 |
 | CAPÍTULO VQualificação do solo urbanoSECÇÃO IIISolo urbanizávelSUBSECÇÃO IEspaços residenciaisArtigo 47.º, n.º 1Ocupações e utilizaçõesArtigo 48.º, n.º 1Regime de edificabilidade | - Por não proibir as ações interditas na NE 4- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 8, NE 22 |
@@ -1748,7 +1848,7 @@ PDM de Mirandela ([Aviso n.º 9347/2015](https://diariodarepublica.pt/dr/detalhe
 
 | Artigo do PMOT incompatível | Fundamentação da incompatibilidade |
 | --- | --- |
-| CAPÍTULO IVQualificação do solo ruralSECÇÃO IIEspaços agrícolasArtigo 15.º, n.<sup>os</sup> 3, 4 e 5Ocupações e utilizaçõesArtigo 16.ºRegime de edificabilidade | - Por não proibir as ações interditas na NE 4, NE 12, NE 25, NE 26, NE 29- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 11, NE 15, NE 19, NE 24, NE 28- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 5, NE 8, NE 9, NE 14, NE 16, NE 17, NE 22, NE 23, NE 27- Por admitir a alteração de uso em desconformidade com o previsto na NE 10, NE 18, na alínea b) da NE 27Nota. - Disposições incompatíveis, nomeadamente, com normas que visam salvaguardar situações de risco ou de especial fragilidade ambiental, para efeitos do disposto no n.º 3 do artigo 51.º do [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio, nas zonas inseridas em área crítica. |
+| CAPÍTULO IVQualificação do solo ruralSECÇÃO IIEspaços agrícolasArtigo 15.º, n.os 3, 4 e 5Ocupações e utilizaçõesArtigo 16.ºRegime de edificabilidade | - Por não proibir as ações interditas na NE 4, NE 12, NE 25, NE 26, NE 29- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 11, NE 15, NE 19, NE 24, NE 28- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 5, NE 8, NE 9, NE 14, NE 16, NE 17, NE 22, NE 23, NE 27- Por admitir a alteração de uso em desconformidade com o previsto na NE 10, NE 18, na alínea b) da NE 27Nota. - Disposições incompatíveis, nomeadamente, com normas que visam salvaguardar situações de risco ou de especial fragilidade ambiental, para efeitos do disposto no n.º 3 do artigo 51.º do [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio, nas zonas inseridas em área crítica. |
 | CAPÍTULO IVQualificação do solo ruralSECÇÃO IIIEspaços florestaisSUBSECÇÃO IEspaços florestais de conservaçãoArtigo 18.º, n.º 1, n.º 3, n.º 6, al. a), b) e d), e n.º 7Ocupações e utilizaçõesArtigo 19.ºRegime de edificabilidade | - Por não proibir as ações interditas na NE 4, NE 12, NE 25, NE 26, NE 29- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 11, NE 15, NE 19, NE 24, NE 28- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 5, NE 8, NE 9, NE 14, NE 16, NE 17, NE 22, NE 23, NE 27- Por admitir a alteração de uso em desconformidade com o previsto na NE 10, NE 18, na alínea b) da NE 27Nota. - Disposições incompatíveis, nomeadamente, com normas que visam salvaguardar situações de risco ou de especial fragilidade ambiental, para efeitos do disposto no n.º 3 do artigo 51.º do [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio, nas zonas inseridas em área crítica. |
 | CAPÍTULO IVQualificação do solo ruralSECÇÃO IIIEspaços florestaisSUBSECÇÃO IEspaços florestais de produçãoArtigo 21.º, n.º 1, n.º 3, n.º 4, n.º 5, al. a), b), d), e) e f), e n.º 6Ocupações e utilizaçõesArtigo 22.ºRegime de edificabilidade | - Por não proibir as ações interditas na NE 4, NE 12, NE 25- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 11, NE 24- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 5, NE 8, NE 9, NE 14, NE 22, NE 23- Por admitir a alteração de uso em desconformidade com o previsto na NE 10 |
 | CAPÍTULO IVQualificação do solo ruralSECÇÃO IVEspaços de uso múltiplo agrícola e florestalSUBSECÇÃO IIEspaços de uso múltiplo agrícola e florestal tipo iiArtigo 27.º, n.º 1, n.º 3, n.º 4, n.º 5, al. a), b), d), e) e f), e n.º 6Ocupações e utilizaçõesArtigo 28.ºRegime de edificabilidade | - Por não proibir as ações interditas na NE 4, NE 12, NE 25, NE 29- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 11, NE 24, NE 28- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 5, NE 8, NE 9, NE 14, NE 22, NE 23, NE 27- Por admitir a alteração de uso em desconformidade com o previsto na NE 10, na alínea b) da NE 27Nota. - Disposições incompatíveis, nomeadamente, com normas que visam salvaguardar situações de risco ou de especial fragilidade ambiental, para efeitos do disposto no n.º 3 do artigo 51.º do [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio, nas zonas inseridas em área crítica. |
@@ -1761,7 +1861,7 @@ PDM de Murça ([Aviso n.º 8304/2015](https://diariodarepublica.pt/dr/detalhe/av
 | TÍTULO IVQualificação do solo ruralCAPÍTULO IEspaços agrícolas ou florestaisArtigo 35.º, n.º 1, al. a)Definição e usos dominantes | - Por não proibir as ações interditas nas alíneas a) e b) da NE 2, NE 4, NE 12, NE 25, NE 26- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 15, NE 24- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 8, NE 9, NE 14, NE 16, NE 17, NE 20, NE 21, NE 22, NE 23, da alínea a) da NE 27- Por admitir a alteração de uso em desconformidade com o previsto na NE 10, NE 18 |
 | TÍTULO IVQualificação do solo ruralCAPÍTULO IEspaços agrícolas ou florestaisArtigo 35.º, n.º 1, al. c)Definição e usos dominantes | - Por não proibir as ações interditas na NE 4, NE 12, NE 25, NE 26- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 24- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 8, NE 9, NE 14, NE 22, NE 23, da alínea a) da NE 27- Por admitir a alteração de uso em desconformidade com o previsto na NE 10 |
 | TÍTULO IVQualificação do solo ruralCAPÍTULO IEspaços agrícolas ou florestaisArtigo 36.º, n.º 1Usos compatíveis com o dominante | - Por não proibir as ações interditas nas alíneas a) e b) da NE 2, NE 4, NE 12, NE 25, NE 26- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 11, NE 15, NE 19, NE 24- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 5, NE 8, NE 9, NE 14, NE 16, NE 17, NE 20, NE 21, NE 22, NE 23, NE 27- Por admitir a alteração de uso em desconformidade com o previsto na NE 10, NE 18, na alínea b) da NE 27 |
-| TÍTULO IVQualificação do solo ruralCAPÍTULO IEspaços agrícolas ou florestaisArtigo 37.º, n.<sup>os</sup> 1 a 3Instalações de apoio à atividade agrícola, pecuária e florestal | - Por não proibir as ações interditas na NE 4, NE 12, NE 25, NE 26- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 11, NE 24- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 5, NE 8, NE 9, NE 14, NE 22, NE 23, NE 27- Por admitir a alteração de uso em desconformidade com o previsto na NE 10 |
+| TÍTULO IVQualificação do solo ruralCAPÍTULO IEspaços agrícolas ou florestaisArtigo 37.º, n.os 1 a 3Instalações de apoio à atividade agrícola, pecuária e florestal | - Por não proibir as ações interditas na NE 4, NE 12, NE 25, NE 26- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 11, NE 24- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 5, NE 8, NE 9, NE 14, NE 22, NE 23, NE 27- Por admitir a alteração de uso em desconformidade com o previsto na NE 10 |
 | TÍTULO IVQualificação do solo ruralCAPÍTULO IEspaços agrícolas ou florestaisArtigo 37.º, n.º 4Instalações de apoio à atividade agrícola, pecuária e florestal | - Por não proibir as ações interditas nas alíneas a) e b) da NE 2, NE 4, NE 12, NE 25, NE 26- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 11, NE 15, NE 19, NE 24- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 5, NE 8, NE 9, NE 14, NE 16, NE 17, NE 20, NE 21, NE 22, NE 23, NE 27- Por admitir a alteração de uso em desconformidade com o previsto na NE 10, NE 18 |
 | TÍTULO IVQualificação do solo ruralCAPÍTULO IEspaços agrícolas ou florestaisArtigo 38.º, n.º 2, alíneas d) e e), e n.º 3Edificações habitacionais | - Por não proibir as ações interditas na NE 4, NE 12, NE 25, NE 26- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 11, NE 24- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 5, NE 8, NE 9, NE 14, NE 22, NE 23, NE 27- Por admitir a alteração de uso em desconformidade com o previsto na NE 10, na alínea b) da NE 27 |
 | TÍTULO IVQualificação do solo ruralCAPÍTULO IEspaços agrícolas ou florestaisArtigo 39.ºEmpreendimentos turísticos, de recreio e lazerArtigo 40.ºEquipamentos e infraestruturas de interesse públicoArtigo 41.ºInstalações especiais | - Por não proibir as ações interditas nas alíneas a) e b) da NE 2, NE 4, NE 12, NE 25, NE 26- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 11, NE 15, NE 19, NE 24- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 5, NE 8, NE 9, NE 14, NE 16, NE 17, NE 20, NE 21, NE 22, NE 23, NE 27 |
@@ -1772,8 +1872,12 @@ PDM de Vila Flor ([Aviso n.º 17545/2018](https://diariodarepublica.pt/dr/detalh
 
 | Artigo do PMOT incompatível | Fundamentação da incompatibilidade |
 | --- | --- |
-| CAPÍTULO IVQualificação do solo rústicoSECÇÃO IDisposições geraisArtigo 22.º, n.<sup>os</sup> 3 e 4Disposições comuns | - Por não proibir as ações interditas nas alíneas a) e b) da NE 2, NE 4, NE 12, NE 25, NE 26, NE 29- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 11, NE 15, NE 19, NE 24, NE 28- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 5, NE 8, NE 9, NE 14, NE 16, NE 17, NE 20, NE 21, NE 22, NE 23, NE 27- Por admitir a alteração de uso em desconformidade com o previsto na NE 10, NE 18, na alínea b) da NE 27Nota. - Disposições incompatíveis, nomeadamente, com normas que visam salvaguardar situações de risco ou de especial fragilidade ambiental, para efeitos do disposto no n.º 3 do artigo 51.º do [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio, nas zonas inseridas em área crítica. |
-| CAPÍTULO IVQualificação do solo rústicoSECÇÃO IIIEspaços agrícolasArtigo 27.º, n.<sup>os</sup> 1 e 2Ocupações e utilizaçõesArtigo 28.ºRegime de edificabilidade | - Por não proibir as ações interditas na NE 4, NE 12, NE 26, NE 29- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 11, NE 15, NE 19- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 5, NE 8, NE 9, NE 14, NE 16, NE 17, NE 20, NE 21, NE 22, NE 23, NE 27- Por admitir a alteração de uso em desconformidade com o previsto na NE 10, NE 18, na alínea b) da NE 27 |
-| CAPÍTULO IVQualificação do solo rústicoSECÇÃO IVEspaços florestaisSUBSECÇÃO IEspaços florestais de conservaçãoArtigo 32.º, n.<sup>os</sup> 1 e 2Utilização dominanteArtigo 33.º, n.º 1Regime de utilização | - Por não proibir as ações interditas na NE 4, NE 12, NE 25, NE 26- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 11, NE 15, NE 19, NE 24- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 5, NE 8, NE 9, NE 16, NE 17, NE 22, NE 23- Por admitir a alteração de uso em desconformidade com o previsto na NE 10, NE 18 |
-| CAPÍTULO IVQualificação do solo rústicoSECÇÃO VIEspaços naturais e paisagísticosArtigo 40.º, n.<sup>os</sup> 2 a 4Ocupações e utilizaçõesArtigo 41.ºRegime de utilização | - Por não proibir as ações interditas na NE 4, NE 12, NE 25, NE 26, NE 29- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 11, NE 24, NE 28- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 5, NE 8, NE 9, NE 14, NE 20, NE 21, NE 22, NE 23, NE 27- Por admitir a alteração de uso em desconformidade com o previsto na NE 10, na alínea b) da NE 27Nota. - Disposições incompatíveis, nomeadamente, com normas que visam salvaguardar situações de risco ou de especial fragilidade ambiental, para efeitos do disposto no n.º 3 do artigo 51.º do [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio, nas zonas inseridas em área crítica. |
+| CAPÍTULO IVQualificação do solo rústicoSECÇÃO IDisposições geraisArtigo 22.º, n.os 3 e 4Disposições comuns | - Por não proibir as ações interditas nas alíneas a) e b) da NE 2, NE 4, NE 12, NE 25, NE 26, NE 29- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 11, NE 15, NE 19, NE 24, NE 28- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 5, NE 8, NE 9, NE 14, NE 16, NE 17, NE 20, NE 21, NE 22, NE 23, NE 27- Por admitir a alteração de uso em desconformidade com o previsto na NE 10, NE 18, na alínea b) da NE 27Nota. - Disposições incompatíveis, nomeadamente, com normas que visam salvaguardar situações de risco ou de especial fragilidade ambiental, para efeitos do disposto no n.º 3 do artigo 51.º do [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio, nas zonas inseridas em área crítica. |
+| CAPÍTULO IVQualificação do solo rústicoSECÇÃO IIIEspaços agrícolasArtigo 27.º, n.os 1 e 2Ocupações e utilizaçõesArtigo 28.ºRegime de edificabilidade | - Por não proibir as ações interditas na NE 4, NE 12, NE 26, NE 29- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 11, NE 15, NE 19- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 5, NE 8, NE 9, NE 14, NE 16, NE 17, NE 20, NE 21, NE 22, NE 23, NE 27- Por admitir a alteração de uso em desconformidade com o previsto na NE 10, NE 18, na alínea b) da NE 27 |
+| CAPÍTULO IVQualificação do solo rústicoSECÇÃO IVEspaços florestaisSUBSECÇÃO IEspaços florestais de conservaçãoArtigo 32.º, n.os 1 e 2Utilização dominanteArtigo 33.º, n.º 1Regime de utilização | - Por não proibir as ações interditas na NE 4, NE 12, NE 25, NE 26- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 11, NE 15, NE 19, NE 24- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 5, NE 8, NE 9, NE 16, NE 17, NE 22, NE 23- Por admitir a alteração de uso em desconformidade com o previsto na NE 10, NE 18 |
+| CAPÍTULO IVQualificação do solo rústicoSECÇÃO VIEspaços naturais e paisagísticosArtigo 40.º, n.os 2 a 4Ocupações e utilizaçõesArtigo 41.ºRegime de utilização | - Por não proibir as ações interditas na NE 4, NE 12, NE 25, NE 26, NE 29- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 11, NE 24, NE 28- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 5, NE 8, NE 9, NE 14, NE 20, NE 21, NE 22, NE 23, NE 27- Por admitir a alteração de uso em desconformidade com o previsto na NE 10, na alínea b) da NE 27Nota. - Disposições incompatíveis, nomeadamente, com normas que visam salvaguardar situações de risco ou de especial fragilidade ambiental, para efeitos do disposto no n.º 3 do artigo 51.º do [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio, nas zonas inseridas em área crítica. |
 | CAPÍTULO IVQualificação do solo ruralSECÇÃO IXEspaços de equipamentos e outras estruturasArtigo 53.º, a)Ocupações e utilizações | - Por não proibir as ações interditas nas alíneas a) e b) da NE 2, NE 4, NE 12, NE 26, NE 29- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas na NE 3, NE 11, NE 28- Por admitir operações urbanísticas ou outras ações e atividades que não se encontram discriminadas nas exceções da NE 5, NE 8, NE 9, NE 14, NE 20, NE 21, NE 22, NE 23, NE 27- Por admitir a alteração de uso em desconformidade com o previsto na NE 10Nota. - Disposições incompatíveis, nomeadamente, com normas que visam salvaguardar situações de risco ou de especial fragilidade ambiental, para efeitos do disposto no n.º 3 do artigo 51.º do [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio, nas zonas inseridas em área crítica. |
+
+119948670
+
+.Tbl1 { border-collapse:collapse; } .Tbl2 { min-height:17px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl5 { text-align:center; } .Tbl6 { min-height:26px; } .Tbl7 { min-height:18px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl11 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl14 { border-collapse:collapse; border-width:1px; } .Tbl15 { min-height:21px; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl17 { min-height:37px; } .Tbl18 { min-height:28px; } .Tbl19 { min-height:57px; } .Tbl20 { min-height:47px; } .Tbl21 { min-height:102px; } .Tbl22 { min-height:96px; } .Tbl23 { min-height:104px; } .Tbl24 { min-height:136px; } .Tbl25 { min-height:114px; } .Tbl26 { min-height:175px; } .Tbl27 { min-height:94px; } .Tbl28 { min-height:125px; } .Tbl29 { min-height:135px; } .Tbl30 { min-height:155px; } .Tbl31 { min-height:174px; } .Tbl32 { min-height:103px; } .Tbl33 { min-height:160px; } .Tbl34 { min-height:107px; } .Tbl35 { min-height:151px; } .Tbl36 { min-height:161px; } .Tbl37 { min-height:179px; } .Tbl38 { min-height:105px; } .Tbl39 { min-height:180px; } .Tbl40 { min-height:128px; } .Tbl41 { min-height:156px; } .Tbl42 { min-height:146px; } .Tbl43 { min-height:137px; }

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44174-1962-518648
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-02-02T00:00:00Z'
+  retrieved_at: '2026-10-22T19:28:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bca7d5eac305595f78cba82febd9525ce6c252f0fdbf81bed452336cf2bfa041
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d9916c2d4e0fbfb9b2d219a62b1c8a42efdd1234397b1167da9bd4f0bc206af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:28:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:250860:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:28:00Z'
   warnings: []
   errors: []
 ---
@@ -89,18 +93,18 @@ Convindo impor algumas restrições à norma constante do artigo 167.º do Regul
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aditado ao artigo 12.º do [Decreto n.º 41451](https://diariodarepublica.pt/dr/detalhe/decreto/41451-1957-250860), de 18 de Dezembro de 1957, o seguinte parágrafo:
+Artigo 1.º É aditado ao artigo 12.º do [Decreto n.º 41451](https://diariodarepublica.pt/dr/detalhe/decreto/41451-1957-250860), de 18 de Dezembro de 1957, o seguinte parágrafo:
 
 § único. Estas matrículas só podem ser feitas com as condições que se encontrem estabelecidas para vigorar nos portos de registo das embarcações a que respeitem.
 
-###### Art. 2.º É aditado ao mesmo decreto o seguinte artigo:
+Art. 2.º É aditado ao mesmo decreto o seguinte artigo:
 
-###### Artigo 13.º-A. Dependem de prévia autorização do Ministro da Marinha, em processo organizado na Direcção das Pescarias e do qual constem informações da respectiva comissão local de pescarias, do Grémio dos Armadores da Pesca da Sardinha e da Junta Central das Casas dos Pescadores:
+Artigo 13.º-A. Dependem de prévia autorização do Ministro da Marinha, em processo organizado na Direcção das Pescarias e do qual constem informações da respectiva comissão local de pescarias, do Grémio dos Armadores da Pesca da Sardinha e da Junta Central das Casas dos Pescadores:
 
 1.º As transferências de registo das traineiras para outras capitanias ou delegações marítimas;
 
 2.º Os registos de traineiras em capitanias ou delegações marítimas diferentes daquelas em que se encontravam registadas as traineiras que estão autorizadas a substituir.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Fevereiro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Fernando Quintanilha Mendonça Dias.

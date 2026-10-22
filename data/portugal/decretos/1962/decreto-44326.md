@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44326-1962-140855
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-05-05T00:00:00Z'
+  retrieved_at: '2026-10-22T19:29:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 210bf357ff22a8e667c2f7d91f855ab894749c7d1660adb225111b5029960ec6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 912ec0fbd543cb33f74c8c719882c422b781e90e5a69a1fd8018172ec1b412c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:29:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398139:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:29:10Z'
   warnings: []
   errors: []
 ---
@@ -87,13 +99,13 @@ Com fundamento na alínea a) do artigo 35.º do [Decreto n.º 18381](https://dia
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças, a favor do Ministério da Justiça, um crédito especial de 2004000$00, a descrever no orçamento do segundo dos mencionados Ministérios pela forma seguinte:
+Artigo 1.º É aberto no Ministério das Finanças, a favor do Ministério da Justiça, um crédito especial de 2004000$00, a descrever no orçamento do segundo dos mencionados Ministérios pela forma seguinte:
 
-### Capítulo 3.º «Direcção-Geral da Justiça»:
+Capítulo 3.º «Direcção-Geral da Justiça»:
 
 Juízos de 1.ª instância
 
-###### Artigo 84.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei»:
+Artigo 84.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei»:
 
 Durante oito meses:
 
@@ -117,7 +129,7 @@ Ministério Público
 
 Ministério Público nas comarcas
 
-###### Artigo 95.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei»:
+Artigo 95.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei»:
 
 Durante oito meses:
 
@@ -139,11 +151,11 @@ Durante oito meses:
 
 ... 663200$00
 
-### Capítulo 5.º «Direcção-Geral dos Serviços Jurisdicionais de Menores»:
+Capítulo 5.º «Direcção-Geral dos Serviços Jurisdicionais de Menores»:
 
 Tribunal Central de Menores do Porto
 
-###### Artigo 344.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei»:
+Artigo 344.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei»:
 
 Durante oito meses:
 
@@ -151,9 +163,9 @@ Durante oito meses:
 
 ... 2004000$00
 
-###### Art. 2.º Como compensação do crédito aberto pelo artigo anterior, é aumentada a quantia de 2004000$00 à verba descrita no artigo 203.º «Reembolsos diversos», capítulo 7.º, do vigente orçamento das receitas do Estado.
+Art. 2.º Como compensação do crédito aberto pelo artigo anterior, é aumentada a quantia de 2004000$00 à verba descrita no artigo 203.º «Reembolsos diversos», capítulo 7.º, do vigente orçamento das receitas do Estado.
 
-###### Art. 3.º São autorizadas as seguintes alterações de rubrica no actual Orçamento do Ministério da Justiça:
+Art. 3.º São autorizadas as seguintes alterações de rubrica no actual Orçamento do Ministério da Justiça:
 
 À rubrica descrita no capítulo 3.º, artigo 84.º, n.º 1), é aposta a seguinte observação:
 
@@ -177,6 +189,6 @@ No desenvolvimento do quadro descrito no capítulo 3.º, artigo 95.º, n.º 1), 
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Maio de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - João de Matos Antunes Varela - António Manuel Pinto Barbosa.

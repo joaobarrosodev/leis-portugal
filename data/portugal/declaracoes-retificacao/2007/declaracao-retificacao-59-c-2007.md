@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 121/2007, 1º Suplemento, Série I de 2007-06-26
   number: '121'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4062-(2) a 4062-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/06/12101/00020002.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/59-c/2007/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/59-c-2007-655173
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-06-26T00:00:00Z'
+  retrieved_at: '2026-10-22T19:08:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b8d6bdcf2cd620ca67168b6e96b3b425135bba9f3e3fb066887f56becd0ca57
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e3d80aadc31764e8853eae8677a4fb4a284692639c6722cd42267f6ea6f0699
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:08:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,37 +67,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretário Geral Adjunto
-- Pessoal Dirigente
-- Definição de Competências
-- Diretor
-- Secretaria Geral
-- Gabinete de Informação e Imprensa
 - Conselho de Directores Gerais
 - Conselho Diplomático
+- Definição de Competências
 - Departamento de Assuntos Jurídicos
 - Departamento Geral de Administração
+- Diretor
+- Gabinete de Informação e Imprensa
 - Instituto Diplomático
-- Protocolo do Estado
-- Orgânica
-- Quadro de Pessoal
 - Ministério dos Negócios Estrangeiros
+- Orgânica
+- Pessoal Dirigente
+- Protocolo do Estado
+- Quadro de Pessoal
+- Secretaria Geral
 - Secretário Geral
+- Secretário Geral Adjunto
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/117/2007/04/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/117/2007/04/27/p/dre
+- type: cites
+  target: pt:dre:521015:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:117/2007
+  label: "Rectifica o Decreto-Lei n.º 117/2007, de 27 de Abril, DR.IS [82] \0\0"
+  source: null
+  date: '2007-04-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:08:43Z'
   warnings: []
   errors: []
 ---

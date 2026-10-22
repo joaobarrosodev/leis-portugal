@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45818-1964-578729
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-07-15T00:00:00Z'
+  retrieved_at: '2026-10-22T19:41:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53efaa0a2585715d954ef5f509c3aaad8ea2bc9868b5589eef237753fa739b1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f90608ed90046d72ead159f3747bfee17ca22baf230991debff4846e6cc404e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:41:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:469382:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 25
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:41:14Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +98,7 @@ REGULAMENTO GERAL DAS ESCOLAS TÉCNICAS DOS SERVIÇOS DE SAÚDE E ASSISTÊNCIA D
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º Haverá em todas as províncias ultramarinas, com carácter permanente ou temporário, escolas técnicas dos serviços de saúde e assistência do ultramar destinadas ao ensino da enfermagem e das demais técnicas auxiliares da medicina, da farmácia, da saúde pública, da higiene e da assistência, as quais funcionarão, em regra, junto dos hospitais centrais situados na capital da respectiva província.
+Artigo 1.º Haverá em todas as províncias ultramarinas, com carácter permanente ou temporário, escolas técnicas dos serviços de saúde e assistência do ultramar destinadas ao ensino da enfermagem e das demais técnicas auxiliares da medicina, da farmácia, da saúde pública, da higiene e da assistência, as quais funcionarão, em regra, junto dos hospitais centrais situados na capital da respectiva província.
 
 § 1.º A criação das escolas será feita por portaria do Governo da província donde constará a indicação dos hospitais centrais junto dos quais funcionarão.
 
@@ -102,7 +106,7 @@ REGULAMENTO GERAL DAS ESCOLAS TÉCNICAS DOS SERVIÇOS DE SAÚDE E ASSISTÊNCIA D
 
 § 3.º Nas províncias ultramarinas poderão também funcionar escolas particulares destinadas especialmente ao ensino da enfermagem.
 
-###### Art. 2.º A superintendência das escolas técnicas dos serviços de saúde e assistência será exercida pelas respectivas direcções ou repartições provinciais dos serviços de saúde e assistência, às quais compete nomeadamente:
+Art. 2.º A superintendência das escolas técnicas dos serviços de saúde e assistência será exercida pelas respectivas direcções ou repartições provinciais dos serviços de saúde e assistência, às quais compete nomeadamente:
 
 1.º Elaborar os regulamentos das escolas e submetê-los à aprovação do governo da província;
 
@@ -114,19 +118,19 @@ REGULAMENTO GERAL DAS ESCOLAS TÉCNICAS DOS SERVIÇOS DE SAÚDE E ASSISTÊNCIA D
 
 § 2.º Quando, na mesma província, houver mais de uma escola, o seu regime de funcionamento deverá obedecer a critérios uniformes.
 
-###### Art. 3.º Sem prejuízo da superintendência referida no artigo 2.º, as escolas técnicas dos serviços de saúde e assistência poderão gozar de autonomia técnica e administrativa, conforme for determinado por portaria do Governo da província.
+Art. 3.º Sem prejuízo da superintendência referida no artigo 2.º, as escolas técnicas dos serviços de saúde e assistência poderão gozar de autonomia técnica e administrativa, conforme for determinado por portaria do Governo da província.
 
 ### CAPÍTULO II — Da direcção e administração
 
 #### SECÇÃO I — Do director e do conselho de direcção
 
-###### Art. 4.º A direcção e administração das escolas técnicas dos serviços de saúde e assistência do ultramar caberão a um director e a um conselho de direcção.
+Art. 4.º A direcção e administração das escolas técnicas dos serviços de saúde e assistência do ultramar caberão a um director e a um conselho de direcção.
 
 § 1.º As funções de director da escola cabem por inerência ao director do estabelecimento hospitalar junto do qual ela funcione. O director será coadjuvado por um dos professores servindo de subdirector.
 
 § 2.º O director da escola técnica poderá delegar no subdirector todas ou parte das respectivas funções, mediante autorização do director ou chefe dos serviços provinciais de saúde e assistência.
 
-###### Art. 5.º O conselho de direcção é presidido pelo director da escola e constituído pelo subdirector, pelo adjunto administrativo do hospital central junto do qual a escola funciona ou, na sua falta, pelo respectivo chefe de secretaria, pelos directores dos cursos, pelo monitor encarregado da escola e pelos monitores encarregados das secções masculina e feminina dos cursos.
+Art. 5.º O conselho de direcção é presidido pelo director da escola e constituído pelo subdirector, pelo adjunto administrativo do hospital central junto do qual a escola funciona ou, na sua falta, pelo respectivo chefe de secretaria, pelos directores dos cursos, pelo monitor encarregado da escola e pelos monitores encarregados das secções masculina e feminina dos cursos.
 
 § 1.º No impedimento do director a presidência do conselho de direcção caberá ao subdirector.
 
@@ -134,11 +138,11 @@ REGULAMENTO GERAL DAS ESCOLAS TÉCNICAS DOS SERVIÇOS DE SAÚDE E ASSISTÊNCIA D
 
 § 3.º O conselho de direcção solicitará, sempre que julgue necessário, a presença ou o parecer do médico escolar para efeitos de informação de ordem indispensável ao completo conhecimento e apreciação dos alunos.
 
-###### Art. 6.º O conselho de direcção reunirá por convocação do seu presidente para tratar dos assuntos constantes dos avisos convocatórios.
+Art. 6.º O conselho de direcção reunirá por convocação do seu presidente para tratar dos assuntos constantes dos avisos convocatórios.
 
 As suas deliberações serão tomadas por maioria de votos dos membros presentes. Em caso de empate, o presidente usará de voto de qualidade.
 
-###### Art. 7.º Compete ao director da escola:
+Art. 7.º Compete ao director da escola:
 
 a) Presidir ao conselho de direcção e ao conselho escolar, quando funcione em plenário;
 
@@ -156,7 +160,7 @@ g) Atribuir e distribuir prémios anuais aos alunos;
 
 h) Elaborar o relatório anual das actividades escolares.
 
-###### Art. 8.º Compete ao conselho de direcção:
+Art. 8.º Compete ao conselho de direcção:
 
 a) Admitir os candidatos aos exames de aptidão;
 
@@ -174,13 +178,13 @@ f) Decidir de um modo geral sobre todos os assuntos que lhe sejam postos pelo di
 
 #### SECÇÃO II — Das entidades coadjuvantes da direcção das escolas
 
-###### Art. 9.º São entidades coadjuvantes dos órgãos directivos das escolas técnicas dos servidos de saúde e assistência do ultramar o conselho escolar, os directores dos cursos, o monitor encarregado da escola e os monitores encarregados das secções masculina e feminina da mesma escola.
+Art. 9.º São entidades coadjuvantes dos órgãos directivos das escolas técnicas dos servidos de saúde e assistência do ultramar o conselho escolar, os directores dos cursos, o monitor encarregado da escola e os monitores encarregados das secções masculina e feminina da mesma escola.
 
-###### Art. 10.º O conselho escolar será constituído pelo director da escola e por todos os professores e monitores.
+Art. 10.º O conselho escolar será constituído pelo director da escola e por todos os professores e monitores.
 
 § único. O conselho escolar funcionará normalmente em plenário, sob a presidência do director da escola, podendo, no entanto, funcionar por cursos quando as circunstâncias o aconselhem. Nesse caso, será presidido por um dos directores de curso designado pelo director da escola.
 
-###### Art. 11.º Compete ao conselho escolar:
+Art. 11.º Compete ao conselho escolar:
 
 a) Elaborar os programas para os exames de aptidão;
 
@@ -202,9 +206,9 @@ i) Marcar o calendário de exames, ajustando-o, nas províncias de governo-geral
 
 j) Estudar todas as questões de natureza pedagógica ou outras que lhe sejam expressamente cometidas pelos órgãos directivos.
 
-###### Art. 12.º As deliberações do conselho escolar serão tomadas por maioria de votos dos seus membros presentes e, em caso de empate, o presidente usará de voto de qualidade.
+Art. 12.º As deliberações do conselho escolar serão tomadas por maioria de votos dos seus membros presentes e, em caso de empate, o presidente usará de voto de qualidade.
 
-###### Art. 13.º O conselho escolar reúne por convocação do seu presidente para tratar dos assuntos constantes dos avisos convocatórios, sendo indispensável a presença de metade dos membros, mais um. Poderá o conselho escolar ser convocado também a pedido de um terço dos seus membros.
+Art. 13.º O conselho escolar reúne por convocação do seu presidente para tratar dos assuntos constantes dos avisos convocatórios, sendo indispensável a presença de metade dos membros, mais um. Poderá o conselho escolar ser convocado também a pedido de um terço dos seus membros.
 
 § 1.º O conselho escolar reunirá, obrigatòriamente, no princípio do ano e nos fins de cada período e anos lectivos para os efeitos das alíneas b), d) e h) do artigo 11.º
 
@@ -212,9 +216,9 @@ j) Estudar todas as questões de natureza pedagógica ou outras que lhe sejam ex
 
 § 3.º A nomeação dos professores referidos no parágrafo anterior é da competência do governador-geral ou de província, sob proposta do director ou chefe provincial dos serviços de saúde e assistência, ouvido o director ou chefe dos serviços de educação.
 
-###### Art. 14.º Aos directores dos cursos compete a imediata orientação do ensino dos respectivos cursos, de harmonia com as directrizes do conselho de direcção, sendo coadjuvados nas suas funções pelo monitor encarregado da escola.
+Art. 14.º Aos directores dos cursos compete a imediata orientação do ensino dos respectivos cursos, de harmonia com as directrizes do conselho de direcção, sendo coadjuvados nas suas funções pelo monitor encarregado da escola.
 
-###### Art. 15.º Ao monitor encarregado da escola, como membro do conselho de direcção, compete, por delegação do referido conselho:
+Art. 15.º Ao monitor encarregado da escola, como membro do conselho de direcção, compete, por delegação do referido conselho:
 
 a) Promover e coordenar a execução das directivas do conselho de direcção, no que será coadjuvado pelos monitores encarregados das secções masculina e feminina, de modo a facultar aos alunos a necessária formação técnica, física, moral e cívica;
 
@@ -236,7 +240,7 @@ i) Coadjuvar os directores dos cursos;
 
 j) Superintender no serviço de secretaria da escola.
 
-###### Art. 16.º Aos monitores encarregados das secções compete:
+Art. 16.º Aos monitores encarregados das secções compete:
 
 a) Coadjuvar o munitor encarregado da escola e substituí-lo nos seus impedimentos, conforme for determinado pelo conselho de direcção;
 
@@ -246,7 +250,7 @@ c) Vigiar a progressão da aprendizagem dos alunos, a sua assiduidade e o seu co
 
 ### CAPÍTULO III — Dos serviços auxiliares e administrativos
 
-###### Art. 17.º Nas escolas técnicas dos serviços de saúde e assistência haverá os seguintes serviços administrativos e auxiliares:
+Art. 17.º Nas escolas técnicas dos serviços de saúde e assistência haverá os seguintes serviços administrativos e auxiliares:
 
 a) Serviço de secretaria;
 
@@ -256,11 +260,11 @@ b) Serviço de internato.
 
 #### SECÇÃO I — Do serviço de secretaria
 
-###### Art. 18.º O serviço de secretaria funcionará sob a superintendência do monitor encarregado da escola.
+Art. 18.º O serviço de secretaria funcionará sob a superintendência do monitor encarregado da escola.
 
 § único. A secretaria será chefiada por um segundo-oficial, que terá sob a sua imediata dependência o pessoal previsto no artigo 111.º do presente diploma.
 
-###### Art. 19.º Estão a cargo do serviço de secretaria:
+Art. 19.º Estão a cargo do serviço de secretaria:
 
 a) O expediente geral e a contabilidade da escola;
 
@@ -268,7 +272,7 @@ b) Os registos referentes aos alunos;
 
 c) O arquivo e estatística escolares.
 
-###### Art. 20.º Compete ao chefe de secretaria:
+Art. 20.º Compete ao chefe de secretaria:
 
 a) Assegurar o respectivo serviço e responder pela sua ordem;
 
@@ -290,7 +294,7 @@ i) Organizar todo o expediente relativo a pautas e relações de alunos matricul
 
 j) Distribuir o serviço pelo pessoal seu subordinado.
 
-###### Art. 21.º O chefe de secretaria terá sob a sua guarda e responsabilidade os seguintes livros:
+Art. 21.º O chefe de secretaria terá sob a sua guarda e responsabilidade os seguintes livros:
 
 a) Livro de termos de matrícula dos alunos;
 
@@ -314,7 +318,7 @@ j) Todos os demais livros e talonários cujo ano seja determinado pelo director 
 
 #### SECÇÃO II — Do internato
 
-###### Art. 22.º O ensino dos alunos, nomeadamente o dos cursos de enfermagem, deverá ser feito, em regra, em regime de internato obrigatório.
+Art. 22.º O ensino dos alunos, nomeadamente o dos cursos de enfermagem, deverá ser feito, em regra, em regime de internato obrigatório.
 
 § 1.º Para os alunos do sexo masculino poderá ser autorizado o funcionamento de lares, nos moldes que vierem a ser regulamentados para cada província, e, em tal caso, desde que não estejam nas condições dos parágrafos seguintes, ser-lhes-á assegurada a equiparação aos alunos em regime de internato.
 
@@ -322,17 +326,17 @@ j) Todos os demais livros e talonários cujo ano seja determinado pelo director 
 
 § 3.º Poderão ser dipensados do regime de internato os alunos que aleguem motivos de ponderar, quando aceites pelo conselho de direcção.
 
-###### Art. 23.º O regime de internato ou equiparado destina-se a completar a formação dos alunos no aspecto moral, cívico e social, desenvolvendo neles o espírito da profissão e os sentimentos de mútua cooperação e solidariedade.
+Art. 23.º O regime de internato ou equiparado destina-se a completar a formação dos alunos no aspecto moral, cívico e social, desenvolvendo neles o espírito da profissão e os sentimentos de mútua cooperação e solidariedade.
 
-###### Art. 24.º É rigorosamente proibido manter no internato e em regime comum alunos e profissionais já diplomados único. Esta proibição não se aplica aos monitores e outro pessoal encarregado da vigilância e ensino dos alunos e comporta, ainda, como excepção, os alunos do sexo masculino quando instalados em lares, nos termos 1.º do artigo 22.º
+Art. 24.º É rigorosamente proibido manter no internato e em regime comum alunos e profissionais já diplomados único. Esta proibição não se aplica aos monitores e outro pessoal encarregado da vigilância e ensino dos alunos e comporta, ainda, como excepção, os alunos do sexo masculino quando instalados em lares, nos termos 1.º do artigo 22.º
 
-###### Art. 25.º Não serão admitidas no internato as alunas casadas, viúvas ou divorciadas, nem as mães solteiras.
+Art. 25.º Não serão admitidas no internato as alunas casadas, viúvas ou divorciadas, nem as mães solteiras.
 
-###### Art. 26.º As alunas referidas no artigo anterior poderão ficar sujeitas ao regime de semi-internato durante todo o dia de trabalho escolar, de modo a beneficiarem da formação que faculta a vida em comunidade.
+Art. 26.º As alunas referidas no artigo anterior poderão ficar sujeitas ao regime de semi-internato durante todo o dia de trabalho escolar, de modo a beneficiarem da formação que faculta a vida em comunidade.
 
 § único. Estas alunas poderão tornar no internato as suas refeições mediante o pagamento do que for estabelecido.
 
-###### Art. 27.º A orientação e superintendência do internato e ainda a formação moral dos alunos como parte integrante da escolarização dos futuros diplomados cabem ao monitor (ou monitora) encarregado da escola, coadjuvado por outro monitor (ou monitora), assistente social, enfermeiro ou enfermeira de reconhecida idoneidade, designados pelo conselho de direcção.
+Art. 27.º A orientação e superintendência do internato e ainda a formação moral dos alunos como parte integrante da escolarização dos futuros diplomados cabem ao monitor (ou monitora) encarregado da escola, coadjuvado por outro monitor (ou monitora), assistente social, enfermeiro ou enfermeira de reconhecida idoneidade, designados pelo conselho de direcção.
 
 § único. Ao monitor ou monitora encarregado da orientação e superintendência do internato compete em especial:
 
@@ -350,13 +354,13 @@ f) Responder por todo o material que lhe será entregue por inventário;
 
 g) Desempenhar-se de todas as demais tarecos que lhe forem cometidas.
 
-###### Art. 28.º A idêntico regime obedecerá o funcionamento dos lares destinados ao alojamento dos alunos do sexo masculino.
+Art. 28.º A idêntico regime obedecerá o funcionamento dos lares destinados ao alojamento dos alunos do sexo masculino.
 
 ### CAPÍTULO IV — Dos cursos
 
 Disposições gerais
 
-###### Art. 29.º Os cursos professados nas escolas técnicas dos serviços de saúde e assistência são os seguintes:
+Art. 29.º Os cursos professados nas escolas técnicas dos serviços de saúde e assistência são os seguintes:
 
 a) Cursos de formação básica;
 
@@ -366,7 +370,7 @@ c) Cursos de aperfeiçoamento;
 
 d) Cursos de actualização.
 
-###### Art. 30.º São cursos de formação básica:
+Art. 30.º São cursos de formação básica:
 
 a) O curso de inspector sanitário;
 
@@ -390,7 +394,7 @@ j) O curso de dietista.
 
 § único. As aulas dos cursos referidos na alínea h) serão dadas nos serviços de medicina física e reabilitação.
 
-###### Art. 31.º São cursos de especialização:
+Art. 31.º São cursos de especialização:
 
 a) O curso de enfermagem de saúde pública;
 
@@ -420,11 +424,11 @@ n) O curso de enfermagem de reabilitação.
 
 § único. As aulas do curso referido na alínea n) serão dadas nos serviços de medicina física e reabilitação.
 
-###### Art. 32.º Os cursos de aperfeiçoamento e actualização destinam-se a ser frequentados pelos funcionários dos serviços de saúde e assistência e poderão versar sobre qualquer das modalidades referidas nos dois artigos anteriores.
+Art. 32.º Os cursos de aperfeiçoamento e actualização destinam-se a ser frequentados pelos funcionários dos serviços de saúde e assistência e poderão versar sobre qualquer das modalidades referidas nos dois artigos anteriores.
 
 § único. Estes cursos poderão ser frequentados por profissionais e alheios aos quadros dos serviços de saúde e assistência, sem prejuízo, porém, da finalidade estabelecida no corpo do artigo.
 
-###### Art. 33.º Sempre dito as necessidades dos serviços o justifiquem e os meios disponíveis o permitam, poderão funcionar nas escolas técnicas dos serviços de saúde e assistência outros cursos, além dos que ficam mencionados.
+Art. 33.º Sempre dito as necessidades dos serviços o justifiquem e os meios disponíveis o permitam, poderão funcionar nas escolas técnicas dos serviços de saúde e assistência outros cursos, além dos que ficam mencionados.
 
 § único. A sua criação, duração e programas serão da competência, do Ministro do Ultramar, sob proposta dos governo provinciais e com prévia audição da Direcção-Geral e Saúde e Assistência do Ultramar.
 
@@ -432,7 +436,7 @@ n) O curso de enfermagem de reabilitação.
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 34.º São condições para admissão nas escolas técnicas dos serviços de saúde e assistência:
+Art. 34.º São condições para admissão nas escolas técnicas dos serviços de saúde e assistência:
 
 1.º Idade não inferior a 18 anos nem superior a 30, salvo as excepções seguintes:
 
@@ -466,47 +470,47 @@ i) Para o curso de agentes sanitários de assistência rural, a habilitação co
 
 #### SECÇÃO II — Do exame médico e do exame de aptidão
 
-###### Art. 35.º Todos os candidatos aos vários cursos de formação básica professados nas escolas técnicas dos serviços de saúde e assistência serão submetidos a um exame médico e a um exame de aptidão.
+Art. 35.º Todos os candidatos aos vários cursos de formação básica professados nas escolas técnicas dos serviços de saúde e assistência serão submetidos a um exame médico e a um exame de aptidão.
 
 § 1.º O exame de aptidão será feito perante um júri constituído por professores e monitores da escola, nomeados por despacho do governador-geral ou de província, mediante proposta do director ou chefe dos serviços de saúde e assistência provincial.
 
 § 2.º Para efeitos de exame médico, os índices mínimos estabelecidos pela direcção ou repartição dos serviços de saúde e assistência provinciais, para verificação da aptidão dos candidatos, constituirão a base em que assentará aquele exame, que ficará a cargo dos serviços de saúde escolar. Este departamento poderá requisitar para o efeito todos os exames e análises que julgar necessários e tudo o mais que entender conveniente para a mesma finalidade, ordenando desde logo as vacinações que forem exigidas para a admissão na escola.
 
-###### Art. 36.º Os candidatos deverão requerer seguidamente a prestação de provas de exame de aptidão, de 1 a 20 de Agosto de cada ano, juntando ao requerimento os seguintes documentos:
+Art. 36.º Os candidatos deverão requerer seguidamente a prestação de provas de exame de aptidão, de 1 a 20 de Agosto de cada ano, juntando ao requerimento os seguintes documentos:
 
 a) Certidão de nascimento;
 
 b) Documento comprovativo das habilitações literárias.
 
-###### Art. 37.º Apreciada a documentação, será submetida a despacho do director da escola, que mandará afixar a relação dos alunos admitidos ou excluídos.
+Art. 37.º Apreciada a documentação, será submetida a despacho do director da escola, que mandará afixar a relação dos alunos admitidos ou excluídos.
 
-###### Art. 38.º Com a conveniente antecipação e conforme o que está determinado no n.º 3 do artigo 2.º, a direcção de cada escola deverá anualmente publicar o número de alunos de cada sexo, superiormente estabelecido como limite para a admissão em cada curso nela professado. Esta publicação deve ser feita com a antecedência necessária, relativamente ao início do período fixado para se requerer a admissão à escola.
+Art. 38.º Com a conveniente antecipação e conforme o que está determinado no n.º 3 do artigo 2.º, a direcção de cada escola deverá anualmente publicar o número de alunos de cada sexo, superiormente estabelecido como limite para a admissão em cada curso nela professado. Esta publicação deve ser feita com a antecedência necessária, relativamente ao início do período fixado para se requerer a admissão à escola.
 
-###### Art. 39.º Os exames de aptidão constarão de provas escritas e orais e deverão incluir o exame psicotécnico dos candidatos.
+Art. 39.º Os exames de aptidão constarão de provas escritas e orais e deverão incluir o exame psicotécnico dos candidatos.
 
-###### Art. 40.º Os respectivos programas, elaborados pelo conselho escolar, deverão ser publicados com a antecedência necessária relativamente à data de início dos respectivos exames.
+Art. 40.º Os respectivos programas, elaborados pelo conselho escolar, deverão ser publicados com a antecedência necessária relativamente à data de início dos respectivos exames.
 
-###### Art. 41.º As provas dos exames de aptidão realizar-se-ão perante júris nomeados por despacho do governador da província, sob proposta do director ou chefe dos serviços provinciais de saúde e assistência e do director ou chefe dos serviços provinciais de educação, no que se refere aos professores dependentes destes serviços.
+Art. 41.º As provas dos exames de aptidão realizar-se-ão perante júris nomeados por despacho do governador da província, sob proposta do director ou chefe dos serviços provinciais de saúde e assistência e do director ou chefe dos serviços provinciais de educação, no que se refere aos professores dependentes destes serviços.
 
 § 1.º Os júris, a que presidirá o director da escola ou quem o substitua legalmente, serão constituídos por professores e monitores da escola e ainda por professores do ensino primário ou secundário, designados tendo em atenção a matéria e nível dos cursos a que os exames digam respeito.
 
 § 2.º Fará obrigatòriamente parte dos júris o monitor (ou monitora) encarregado da escola.
 
-###### Art. 42.º Os pontos de exame de aptidão serão elaborados pelos membros dos júris respectivos, de acordo com os programas prèviamente elaborados pelo conselho escolar e mandados publicar.
+Art. 42.º Os pontos de exame de aptidão serão elaborados pelos membros dos júris respectivos, de acordo com os programas prèviamente elaborados pelo conselho escolar e mandados publicar.
 
-###### Art. 43.º As provas escritas e orais serão classificadas pelo júri respectivo e os exames psicotécnicos serão efectuados e classificados por técnico especializado do organismo competente.
+Art. 43.º As provas escritas e orais serão classificadas pelo júri respectivo e os exames psicotécnicos serão efectuados e classificados por técnico especializado do organismo competente.
 
-###### Art. 44.º A classificação final é dada em reunião do júri e resultará da média das provas prestadas, considerada em conjunto com as conclusões do exame psicotécnico efectuado, e deverá ser imediatamente publicada por afixação.
+Art. 44.º A classificação final é dada em reunião do júri e resultará da média das provas prestadas, considerada em conjunto com as conclusões do exame psicotécnico efectuado, e deverá ser imediatamente publicada por afixação.
 
 #### SECÇÃO III — Da matrícula, sua confirmação, rejeição, cancelamento e transferência
 
-###### Art. 45.º A secretaria da escola publicará, imediatamente a seguir às últimas provas dos exames de aptidão, a relação dos candidatos admitidos à frequência, elaborada por ordem de classificações.
+Art. 45.º A secretaria da escola publicará, imediatamente a seguir às últimas provas dos exames de aptidão, a relação dos candidatos admitidos à frequência, elaborada por ordem de classificações.
 
 § 1.º Os candidatos aprovados e não admitidos à frequência por falta de vaga serão considerados suplentes para as vagas que se derem nos primeiros 60 dias do ano lectivo.
 
 § 2.º Os candidatos aprovados que excedam as vagas referidas no parágrafo anterior terão prioridade na admissão à frequência nos dois anos lectivos seguintes, sem mais formalidades, desde que não tenham ultrapassado o limite máximo de idade (referida ao ano de admissão), sendo respeitada a ordem de preferência indicada no corpo do artigo e no § 1.º
 
-###### Art. 46.º Para efectivação da matrícula, os alunos admitidos à frequência da escola entregarão na secretaria os seguintes documentos:
+Art. 46.º Para efectivação da matrícula, os alunos admitidos à frequência da escola entregarão na secretaria os seguintes documentos:
 
 a) Certificado do registo criminal;
 
@@ -514,23 +518,23 @@ b) Atestado de bom comportamento moral e civil;
 
 c) Certificados das vacinações obrigatórias.
 
-###### Art. 47.º As propinas e emolumentos de matrícula serão fixados em portaria provincial.
+Art. 47.º As propinas e emolumentos de matrícula serão fixados em portaria provincial.
 
-###### Art. 48.º Os alunos ficarão em observação na escola, por um período de 60 dias para os cursos de enfermagem e de 30 dias para os restantes cursos de formação básica. Durante o período referido, promover-se-á a sua adaptação profissional e verificar-se-á das qualidades pessoais indispensáveis ao exercício da profissão. Findos estes prazos, proceder-se-á à confirmação ou rejeição da matrícula com base na informação do monitor (ou monitora) encarregado da escola fundamentada nas informações dos monitores encarregados das secções masculina e feminina e do monitor ou monitora encarregado do internato.
+Art. 48.º Os alunos ficarão em observação na escola, por um período de 60 dias para os cursos de enfermagem e de 30 dias para os restantes cursos de formação básica. Durante o período referido, promover-se-á a sua adaptação profissional e verificar-se-á das qualidades pessoais indispensáveis ao exercício da profissão. Findos estes prazos, proceder-se-á à confirmação ou rejeição da matrícula com base na informação do monitor (ou monitora) encarregado da escola fundamentada nas informações dos monitores encarregados das secções masculina e feminina e do monitor ou monitora encarregado do internato.
 
 § único. A confirmação ou rejeição da matrícula é da competência do conselho de direcção.
 
-###### Art. 49.º Haverá lugar a cancelamento da matrícula:
+Art. 49.º Haverá lugar a cancelamento da matrícula:
 
 a) Quando requerida pelo aluno ou encarregado de educação;
 
 b) Quando se verifique incapacidade física do aluno.
 
-###### Art. 50.º Os pedidos de transferência de alunos entre quaisquer escolas oficiais só poderão ser deferidos até ao fim do segundo período lectivo e quando as razões invocadas o justifiquem. Neste caso, o processo do aluno transferido será remetido oficialmente à escola para onde se verifica a transferência.
+Art. 50.º Os pedidos de transferência de alunos entre quaisquer escolas oficiais só poderão ser deferidos até ao fim do segundo período lectivo e quando as razões invocadas o justifiquem. Neste caso, o processo do aluno transferido será remetido oficialmente à escola para onde se verifica a transferência.
 
 #### SECÇÃO IV — Da categoria dos alunos
 
-###### Art. 51.º Haverá as seguintes categorias de alunos:
+Art. 51.º Haverá as seguintes categorias de alunos:
 
 a) Internos;
 
@@ -540,25 +544,25 @@ c) Externos.
 
 § único. Os alunos referidos nas alíneas a) e b) são subsidiados.
 
-###### Art. 52.º São alunos internos os que residem em regime de internato ou em lares com direito a alojamento e alimentação e ao subsídio que pelo Governo da província lhes venha a ser atribuído.
+Art. 52.º São alunos internos os que residem em regime de internato ou em lares com direito a alojamento e alimentação e ao subsídio que pelo Governo da província lhes venha a ser atribuído.
 
 § único. Os alunos internos que residam em lares podem tomar as suas refeições no internato independentemente de pagamento sem prejuízo de vir a ser regulado esse direito.
 
-###### Art. 53.º São alunos semi-internos os que, embora sujeitos ao regime geral dos alunos internos, hajam sido dispensados de residirem no internato ou nos lares.
+Art. 53.º São alunos semi-internos os que, embora sujeitos ao regime geral dos alunos internos, hajam sido dispensados de residirem no internato ou nos lares.
 
 § único. Os alunos semi-internos podem tomar as suas refeições no internato ou nos lares mediante o pagamento que lhes vier a ser estabelecido. Estes alunos ficam sujeitos à disciplina da escola e às restantes obrigações do presente diploma.
 
-###### Art. 54.º São alunos externos todos os que hajam sido admitidos a frequentar a escola, sem direito a alojamento, alimentação e subsídio.
+Art. 54.º São alunos externos todos os que hajam sido admitidos a frequentar a escola, sem direito a alojamento, alimentação e subsídio.
 
 § único. Estes alunos poderão tomar as suas refeições no internato e nos lares mediante pagamento e poderão beneficiar de bolsas de estudo de formação a conceder pelo Estado, organismos de assistência ou por entidades particulares nas condições que vierem a ser previstas em regulamento próprio e ficam sujeitos em tudo à disciplina da escola e restantes obrigações constantes do presente diploma.
 
-###### Art. 55.º Aos alunos que residem em localidades diferentes daquela em que estiver situada a escola poderá ser autorizado que vivam nas instalações em que funcione o internato ou nos lares, mediante o pagamento da mensalidade que for fixada no regulamento da escola.
+Art. 55.º Aos alunos que residem em localidades diferentes daquela em que estiver situada a escola poderá ser autorizado que vivam nas instalações em que funcione o internato ou nos lares, mediante o pagamento da mensalidade que for fixada no regulamento da escola.
 
-###### Art. 56.º Nenhum aluno poderá ser contado como unidade de trabalho nos hospitais, departamentos hospitalares ou serviço onde se efectuem os seus estágios.
+Art. 56.º Nenhum aluno poderá ser contado como unidade de trabalho nos hospitais, departamentos hospitalares ou serviço onde se efectuem os seus estágios.
 
-###### Art. 57.º O subsídio a atribuir aos alunos, nos termos do presente diploma, será fixado em cada província, tendo em conta as condições económicas dos alunos e as disponibilidades orçamentais.
+Art. 57.º O subsídio a atribuir aos alunos, nos termos do presente diploma, será fixado em cada província, tendo em conta as condições económicas dos alunos e as disponibilidades orçamentais.
 
-###### Art. 58.º São deveres dos alunos:
+Art. 58.º São deveres dos alunos:
 
 a) Compareceras aulas, estágios, trabalhos práticos e visitas;
 
@@ -580,7 +584,7 @@ g) De uma maneira geral, acatar a disciplina da escola e cumprir escrupulosament
 
 #### SECÇÃO I — Da duração dos cursos, dos planos de estudo, dos programas e das actividades circum-escolares
 
-###### Art. 59.º A duração dos cursos e os programas das respectivas disciplinas serão fixados pelo Ministro do Ultramar, sob proposta da Direcção-Geral de Saúde e Assistência do Ultramar.
+Art. 59.º A duração dos cursos e os programas das respectivas disciplinas serão fixados pelo Ministro do Ultramar, sob proposta da Direcção-Geral de Saúde e Assistência do Ultramar.
 
 1.º Os planos de estudo constarão dos regulamentos provinciais das escolas que forem aprovados por portaria dos governos das províncias, sob proposta das direcções ou repartições provinciais de saúde e assistência.
 
@@ -604,11 +608,11 @@ d) Para o curso de educadores sanitários e educadores de saúde pública: seis 
 
 e) Para o curso de microscopistas: seis meses, seguidos de seis meses de estágio.
 
-###### Art. 60.º O ensino será orientado em todos os cursos, mas especialmente nos de enfermagem, por forma a habilitar os alunos com o mínimo de conhecimentos de saúde pública que permitam aos diplomados quando em serviço nos meios rurais, suprir, pela sua acção, a escassez ou falta de unidades especializadas naquele domínio.
+Art. 60.º O ensino será orientado em todos os cursos, mas especialmente nos de enfermagem, por forma a habilitar os alunos com o mínimo de conhecimentos de saúde pública que permitam aos diplomados quando em serviço nos meios rurais, suprir, pela sua acção, a escassez ou falta de unidades especializadas naquele domínio.
 
 § único. Para assegurar uma melhor preparação para os fins previstos no corpo do artigo, os alunos dos cursos de ajudante de farmácia e de preparador de laboratório estagiarão no serviço de enfermagem e nos serviços laboratoriais e de farmácia os alunos dos cursos de enfermagem.
 
-###### Art. 61.º O ensino ministrado nas aulas deverá ser completado com as actividades circum-escolares que possam contribuir para completar e aperfeiçoar a preparação técnico-profissional dos alunos e a sua formação moral.
+Art. 61.º O ensino ministrado nas aulas deverá ser completado com as actividades circum-escolares que possam contribuir para completar e aperfeiçoar a preparação técnico-profissional dos alunos e a sua formação moral.
 
 Para este efeito consideram-se como actividades circum-escolares:
 
@@ -624,11 +628,11 @@ e) Campos de férias.
 
 #### SECÇÃO II — Do ano escolar, da frequência dos cursos e dos estágios
 
-###### Art. 62.º O ano escolar terá a duração fixada para o ensino médio, mas, nos períodos de férias, os alunos estagiarão nas enfermarias escolares ou nos serviços que para isso sejam designados pela direcção da escola, com a aprovação do director ou chefe dos serviços de saúde da respectiva província, com excepção de um mês e meio, que será distribuído pelos três períodos de férias.
+Art. 62.º O ano escolar terá a duração fixada para o ensino médio, mas, nos períodos de férias, os alunos estagiarão nas enfermarias escolares ou nos serviços que para isso sejam designados pela direcção da escola, com a aprovação do director ou chefe dos serviços de saúde da respectiva província, com excepção de um mês e meio, que será distribuído pelos três períodos de férias.
 
-###### Art. 63.º O plano de distribuição dos alunos pelos estabelecimentos e serviços onde o treino e os estágios se realizarão será organizado pelo monitor (ou monitora) encarregado da escola, sob orientação do director e ouvidos sempre os directores dos estabelecimentos e serviços, tendo em atenção as necessidades escolares e a conveniência dos serviços, mas sempre por forma a nunca prejudicar os interesses do ensino.
+Art. 63.º O plano de distribuição dos alunos pelos estabelecimentos e serviços onde o treino e os estágios se realizarão será organizado pelo monitor (ou monitora) encarregado da escola, sob orientação do director e ouvidos sempre os directores dos estabelecimentos e serviços, tendo em atenção as necessidades escolares e a conveniência dos serviços, mas sempre por forma a nunca prejudicar os interesses do ensino.
 
-###### Art. 64.º As aulas, os estágios e os demais trabalhos escolares funcionarão em regime de frequência obrigatória e terão a duração que for estabelecida no plano de estudo de cada curso, devendo, porém, na organização destes, observar-se sempre o seguinte:
+Art. 64.º As aulas, os estágios e os demais trabalhos escolares funcionarão em regime de frequência obrigatória e terão a duração que for estabelecida no plano de estudo de cada curso, devendo, porém, na organização destes, observar-se sempre o seguinte:
 
 a) Cursos geral de enfermagem, de enfermagem auxiliar, de enfermeira-parteira puericultora, de auxiliar de enfermeira-parteira puericultora, de laboratório, radiologia e radioterapia - 45 a 48 horas semanais de trabalhos escolar distribuídas conforme fixado pelo conselho escolar;
 
@@ -638,9 +642,9 @@ c) Restantes cursos - os tempos semanais de trabalhos escolares (aulas teóricas
 
 § único. Os cursos devem ser organizados por forma a deixar normalmente livre a tarde de sábado e a permitir a realização das actividades circum-escolares previstas no artigo 61.º
 
-###### Art. 65.º Nos hospitais centrais onde funcionarem as escolas e para efeito do ensino de enfermagem serão, em regra, classificadas como escolares quatro enfermarias, sendo duas de medicina (homens e mulheres) e duas de cirurgia (homens e mulheres).
+Art. 65.º Nos hospitais centrais onde funcionarem as escolas e para efeito do ensino de enfermagem serão, em regra, classificadas como escolares quatro enfermarias, sendo duas de medicina (homens e mulheres) e duas de cirurgia (homens e mulheres).
 
-###### Art. 66.º Em cada uma das enfermarias escolares deverá haver, em regra, um monitor ou monitora, um enfermeiro ou enfermeira com o curso geral de enfermagem e um enfermeiro ou enfermeira com o curso de enfermagem auxiliar.
+Art. 66.º Em cada uma das enfermarias escolares deverá haver, em regra, um monitor ou monitora, um enfermeiro ou enfermeira com o curso geral de enfermagem e um enfermeiro ou enfermeira com o curso de enfermagem auxiliar.
 
 § 1.º Aos monitores compete orientar e fiscalizar os estágios de harmonia com as indicações e directrizes do director da escola.
 
@@ -652,23 +656,23 @@ Os enfermeiros de curso geral coadjuvarão os monitores, competindo-lhes, especi
 
 #### SECÇÃO III — Do aproveitamento escolar
 
-###### Art. 67.º Para apreciar o aproveitamento dos alunos, os professores e monitores efectuarão chamadas, ordenarão trabalhos práticos e marcarão os exercícios escritos e outras provas que entenderem convenientes.
+Art. 67.º Para apreciar o aproveitamento dos alunos, os professores e monitores efectuarão chamadas, ordenarão trabalhos práticos e marcarão os exercícios escritos e outras provas que entenderem convenientes.
 
-###### Art. 68.º No final de cada período lectivo, a frequência e o comportamento de cada aluno serão, objecto de apreciação e classificação pelo conselho escolar, que deliberará em reunião especialmente convocada só para este efeito.
+Art. 68.º No final de cada período lectivo, a frequência e o comportamento de cada aluno serão, objecto de apreciação e classificação pelo conselho escolar, que deliberará em reunião especialmente convocada só para este efeito.
 
-###### Art. 69.º A escala de valores para classificação do aproveitamento dos alunos será de 0 a 20, contando-se pela unidade toda a fracção igual ou superior a 5 décimos, considerando-se positivo o aproveitamento que tenha merecido pelo menos a classificação de 10 valores.
+Art. 69.º A escala de valores para classificação do aproveitamento dos alunos será de 0 a 20, contando-se pela unidade toda a fracção igual ou superior a 5 décimos, considerando-se positivo o aproveitamento que tenha merecido pelo menos a classificação de 10 valores.
 
-###### Art. 70.º As notas de aproveitamento serão propostas ao conselho escolar pelos professores, com base em todos os elementos de informação. O conselho, com base nelas e nos demais, elementos de informação de que disponha, votará as classificações.
+Art. 70.º As notas de aproveitamento serão propostas ao conselho escolar pelos professores, com base em todos os elementos de informação. O conselho, com base nelas e nos demais, elementos de informação de que disponha, votará as classificações.
 
-###### Art. 71.º No fim do 3.º período, para classificação do aproveitamento de nada aluno em cada disciplina, calcular-se-á a média das notas que o aluno nela obteve em cada período, contando-se pela unidade toda a fracção igual ou superior a 5 décimos.
+Art. 71.º No fim do 3.º período, para classificação do aproveitamento de nada aluno em cada disciplina, calcular-se-á a média das notas que o aluno nela obteve em cada período, contando-se pela unidade toda a fracção igual ou superior a 5 décimos.
 
-###### Art. 72.º Os alunos que em qualquer período lectivo tenham obtido em alguma disciplina nota igual ou inferior a 5 valores perdem o direito à frequência, salvo se a média das notas desse período for igual pelo menos a 12 valores.
+Art. 72.º Os alunos que em qualquer período lectivo tenham obtido em alguma disciplina nota igual ou inferior a 5 valores perdem o direito à frequência, salvo se a média das notas desse período for igual pelo menos a 12 valores.
 
-###### Art. 73.º Para efeito de admissão aos exames, considera-se, em princípio, assegurada a frequência de cada disciplina quando a respectiva classificação, calculada nos termos dos artigos anteriores, for igual ou superior a 10 valores.
+Art. 73.º Para efeito de admissão aos exames, considera-se, em princípio, assegurada a frequência de cada disciplina quando a respectiva classificação, calculada nos termos dos artigos anteriores, for igual ou superior a 10 valores.
 
 § único. Se em alguns dos períodos e numa só disciplina os alunos obtiverem classificação inferior a 10, mas superior a 5 valores, se tal facto encontrar justificação em circunstâncias que razoàvelmente o possam explicar e se o respectivo aproveitamento e comportamento, nos outros períodos lectivos e nas restantes disciplinas, permitirem admitir uma satisfatória recuperação final, o conselho escolar poderá decidir que a média seja calculada com base exclusiva nos dois períodos com melhor aproveitamento.
 
-###### Art. 74.º No fim do 3.º período lectivo deverão ser propostos a exame, de passagem ou final, os alunos que:
+Art. 74.º No fim do 3.º período lectivo deverão ser propostos a exame, de passagem ou final, os alunos que:
 
 1.º Obtenham média arredondada, igual ou superior a 10 valores em todas as disciplinas menos uma, salvo se nessa tiverem uma nota igual ou inferior a 5 valores;
 
@@ -676,51 +680,51 @@ Os enfermeiros de curso geral coadjuvarão os monitores, competindo-lhes, especi
 
 #### SECÇÃO IV — Dos exames
 
-###### Art. 75.º No fim de cada ano lectivo haverá exames nos quais se apurará o aproveitamento dos alunos e se verificará da sua aptidão para o exercício da profissão. Os alunos aprovados nestes exames transitam para o ano imediato no respectivo curso.
+Art. 75.º No fim de cada ano lectivo haverá exames nos quais se apurará o aproveitamento dos alunos e se verificará da sua aptidão para o exercício da profissão. Os alunos aprovados nestes exames transitam para o ano imediato no respectivo curso.
 
-###### Art. 76.º Os exames de passagem, que constarão de provas práticas, escritas e orais, serão realizados perante júris constituídos pelos professores das disciplinas professadas durante o ano e presididos pelo director da escola ou quem as suas vezes fizer.
+Art. 76.º Os exames de passagem, que constarão de provas práticas, escritas e orais, serão realizados perante júris constituídos pelos professores das disciplinas professadas durante o ano e presididos pelo director da escola ou quem as suas vezes fizer.
 
-###### Art. 77.º No último ano de cada curso efectuar-se-ão exames finais perante júri nomeado pelo governador da província, sob proposta do director ou chefe dos serviços de saúde e assistência.
+Art. 77.º No último ano de cada curso efectuar-se-ão exames finais perante júri nomeado pelo governador da província, sob proposta do director ou chefe dos serviços de saúde e assistência.
 
 § único. Os alunos das escolas particulares efectuarão estes exames nas escolas oficiais.
 
-###### Art. 78.º Aos exames finais serão admitidos apenas os alunos que, tendo seguido com regularidade os cursos, sejam propostos pelos respectivos conselhos escolares.
+Art. 78.º Aos exames finais serão admitidos apenas os alunos que, tendo seguido com regularidade os cursos, sejam propostos pelos respectivos conselhos escolares.
 
-###### Art. 79.º Haverá uma só época de exames em cada ano escolar.
+Art. 79.º Haverá uma só época de exames em cada ano escolar.
 
 § único. Os alunos que faltem a qualquer prova ou dela desistam, depois de iniciada, só poderão ser admitidos aos exames que se realizem no ano seguinte àquele em que se tenha verificado a falta ou desistência. Poderão, porém, no caso de doença ou motivo de força maior, devidamente comprovados, ser admitidos logo após terem terminado os exames dos restantes alunos.
 
-###### Art. 80.º Compete ao presidente do júri dirigir os exames, distribuir os serviços de fiscalização ou outros, presidir às reuniões do júri e usar de voto de qualidade, quando se verifique empate nas votações.
+Art. 80.º Compete ao presidente do júri dirigir os exames, distribuir os serviços de fiscalização ou outros, presidir às reuniões do júri e usar de voto de qualidade, quando se verifique empate nas votações.
 
-###### Art. 81.º Os exames finais realizar-se-ão, em regra, no mês seguinte ao último dia de aulas, de acordo com o que for fixado pelo conselho escolar, com uma antecedência mínima de quinze dias.
+Art. 81.º Os exames finais realizar-se-ão, em regra, no mês seguinte ao último dia de aulas, de acordo com o que for fixado pelo conselho escolar, com uma antecedência mínima de quinze dias.
 
-###### Art. 82.º Até ao décimo dia anterior ao mês em que se realizarem os exames, as escolas particulares enviarão à secretaria da escola oficial propostas individuais dos alunos que pretendam submeter a exame final. As propostas serão acompanhadas dos processos completos dos alunos.
+Art. 82.º Até ao décimo dia anterior ao mês em que se realizarem os exames, as escolas particulares enviarão à secretaria da escola oficial propostas individuais dos alunos que pretendam submeter a exame final. As propostas serão acompanhadas dos processos completos dos alunos.
 
 § 1.º Os processos, depois de verificados e informados pela secretaria, serão submetidos a despacho do presidente do júri, que decidirá da admissão a exame, ouvido o conselho escolar.
 
 § 2.º Será afixada pela secretaria a relação dos alunos admitidos a exame até cinco dias antes do início das provas.
 
-###### Art. 83.º Os exames finais compreenderão provas práticas, escritas e orais, que constarão de todas as matérias versadas durante o curso.
+Art. 83.º Os exames finais compreenderão provas práticas, escritas e orais, que constarão de todas as matérias versadas durante o curso.
 
 § único. Os alunos que se apresentem a exame deverão estar munidos do bilhete de identidade, cuja exibição poderá ser pedida por qualquer membro do júri.
 
-###### Art. 84.º As provas práticas poderão ser prestadas perante os monitores e versarão igualmente sobre todos os assuntos tratados nos trabalhos práticos durante o curso.
+Art. 84.º As provas práticas poderão ser prestadas perante os monitores e versarão igualmente sobre todos os assuntos tratados nos trabalhos práticos durante o curso.
 
 À prova assistirá sempre o presidente do júri, ou o vogal que por este for designado.
 
 § único. As provas têm a duração que o conselho escolar fixar, mas nunca poderão exceder duas horas.
 
-###### Art. 85.º As provas escritas de todas as disciplinas terão a duração de 120 minutos para cada disciplina.
+Art. 85.º As provas escritas de todas as disciplinas terão a duração de 120 minutos para cada disciplina.
 
-###### Art. 86.º As provas orais de todas as disciplinas terão a duração mínima de quinze minutos, podendo o presidente do júri autorizar o seu prolongamento por mais dez minutos.
+Art. 86.º As provas orais de todas as disciplinas terão a duração mínima de quinze minutos, podendo o presidente do júri autorizar o seu prolongamento por mais dez minutos.
 
 § único. Serão dispensados das provas orais os alunos que obtiverem 14 ou mais valores nas provas escritas, salvo se pretenderem melhorar a classificação.
 
-###### Art. 87.º Os pontos das provas escritas e práticas são elaborados, anualmente, na direcção ou repartição provincial dos serviços de saúde e assistência e remetidos à escola oficial em sobrescrito lacrado, que será aberto na presença do júri.
+Art. 87.º Os pontos das provas escritas e práticas são elaborados, anualmente, na direcção ou repartição provincial dos serviços de saúde e assistência e remetidos à escola oficial em sobrescrito lacrado, que será aberto na presença do júri.
 
-###### Art. 88.º Os resultados dos exames finais são obtidos pela média das médias das provas práticas, escritas e orais e exprimem-se numèricamente de 0 a 20 valores.
+Art. 88.º Os resultados dos exames finais são obtidos pela média das médias das provas práticas, escritas e orais e exprimem-se numèricamente de 0 a 20 valores.
 
-###### Art. 89.º Consideram-se excluídos os alunos:
+Art. 89.º Consideram-se excluídos os alunos:
 
 a) Que na prova prática obtiveram nota inferior a 10 valores;
 
@@ -728,39 +732,39 @@ b) Cuja média geral, nos termos do artigo anterior, seja inferior a 9,5 valores
 
 c) Que tiverem em qualquer prova nota igual ou inferior a 5 valores.
 
-###### Art. 90.º As notas propostas pelos examinadores podem ser alteradas por deliberação do júri, se for caso disso.
+Art. 90.º As notas propostas pelos examinadores podem ser alteradas por deliberação do júri, se for caso disso.
 
 § único. As notas de 0 a 5 são obrigatòriamente postas à votação.
 
-###### Art. 91.º Das decisões do júri, de que será lavrado termo em livro próprio da escola, assinado por todos os membros do júri, não cabe recurso.
+Art. 91.º Das decisões do júri, de que será lavrado termo em livro próprio da escola, assinado por todos os membros do júri, não cabe recurso.
 
-###### Art. 92.º Aos alunos aprovados nos exames finais será passado diploma, que constituirá título bastante e indispensável para o exercício da profissão respectiva nos termos em que o estabeleça a lei geral, desde que o requeiram e antecipadamente paguem os respectivos emolumentos.
+Art. 92.º Aos alunos aprovados nos exames finais será passado diploma, que constituirá título bastante e indispensável para o exercício da profissão respectiva nos termos em que o estabeleça a lei geral, desde que o requeiram e antecipadamente paguem os respectivos emolumentos.
 
 § único. O diploma será assinado pelo director da escola e pelo director do curso.
 
-###### Art. 93.º As propinas de exame e mais emolumentos, incluindo os da passagem dos respectivos diplomas, serão fixados em portaria provincial.
+Art. 93.º As propinas de exame e mais emolumentos, incluindo os da passagem dos respectivos diplomas, serão fixados em portaria provincial.
 
 #### SECÇÃO V — Das bolsas de estudo
 
-###### Art. 94.º Poderão ser concedidas bolsas de estudo de formação a alunos externos, de acordo com o que vier a ser regulamentado em cada província.
+Art. 94.º Poderão ser concedidas bolsas de estudo de formação a alunos externos, de acordo com o que vier a ser regulamentado em cada província.
 
-###### Art. 95.º Aos alunos que terminarem os seus cursos poderão ser concedidas bolsas de estudo para a frequência de cursos ou estágios de aperfeiçoamento, de preferência em estabelecimentos nacionais.
+Art. 95.º Aos alunos que terminarem os seus cursos poderão ser concedidas bolsas de estudo para a frequência de cursos ou estágios de aperfeiçoamento, de preferência em estabelecimentos nacionais.
 
 § único. Após a conclusão da bolsa, os beneficiários são obrigados a prestar, pelo menos, três anos de serviço nos departamentos dos serviços de saúde e assistência das respectivas províncias.
 
 #### SECÇÃO VI — Das faltas, infracções disciplinares e penalidades
 
-###### Art. 96.º Perderá o ano o aluno que em qualquer disciplina do curso tiver um mínimo de faltas superior ao dobro do respectivo número de tempos semanais ou dez faltas ao estágio, seguidas ou interpoladas, sem justificação.
+Art. 96.º Perderá o ano o aluno que em qualquer disciplina do curso tiver um mínimo de faltas superior ao dobro do respectivo número de tempos semanais ou dez faltas ao estágio, seguidas ou interpoladas, sem justificação.
 
-###### Art. 97.º O conselho de direcção não poderá relevar faltas, mas poderá propor a relevação ao governo da província, quando as mesmas tiverem ocorrido por doença devidamente comprovada.
+Art. 97.º O conselho de direcção não poderá relevar faltas, mas poderá propor a relevação ao governo da província, quando as mesmas tiverem ocorrido por doença devidamente comprovada.
 
-###### Art. 98.º O comportamento dos alunos é apurado pelo conselho escolar em cada período lectivo e expresso em notas de Bom, Regular e Mau.
+Art. 98.º O comportamento dos alunos é apurado pelo conselho escolar em cada período lectivo e expresso em notas de Bom, Regular e Mau.
 
 § único. A nota de Mau implica sempre e exclusão da frequência no correspondente ano escolar.
 
-###### Art. 99.º São considerados infracções disciplinares quaisquer actos contrários às obrigações dos alunos definidas no presente diploma e mais legislação aplicável.
+Art. 99.º São considerados infracções disciplinares quaisquer actos contrários às obrigações dos alunos definidas no presente diploma e mais legislação aplicável.
 
-###### Art. 100.º As penas disciplinares aplicáveis aos alunos são as seguintes:
+Art. 100.º As penas disciplinares aplicáveis aos alunos são as seguintes:
 
 1.º Admoestação;
 
@@ -784,25 +788,25 @@ c) Que tiverem em qualquer prova nota igual ou inferior a 5 valores.
 
 § 5.º A pena do n.º 6.º é da competência do conselho de direcção, ouvido o conselho escolar.
 
-###### Art. 101.º As penas do n.º 3.º e seguintes são registadas nos processos individuais.
+Art. 101.º As penas do n.º 3.º e seguintes são registadas nos processos individuais.
 
-###### Art. 102.º As penas dos n.os 4.º, 5.º e 6.º dependem de processo e implicam a impossibilidade de classificar de Bom o comportamento do aluno a quem forem aplicadas.
+Art. 102.º As penas dos n.os 4.º, 5.º e 6.º dependem de processo e implicam a impossibilidade de classificar de Bom o comportamento do aluno a quem forem aplicadas.
 
-###### Art. 103.º A graduação das penas será feita segundo a gravidade das infracções, tendo-se sempre em conta o carácter educativo da acção disciplinar.
+Art. 103.º A graduação das penas será feita segundo a gravidade das infracções, tendo-se sempre em conta o carácter educativo da acção disciplinar.
 
 § 1.º São circunstâncias agravantes os factos que denotam premeditação, a acumulação de infracções e a reincidência.
 
 § 2.º São circunstâncias atenuantes o bom comportamento e a confissão expontânea da infracção.
 
-###### Art. 104.º Não será permitida a frequência da escola aos alunos que, em relação a cada curso, tenham reprovado três vezes ou perdido a frequência duas vezes.
+Art. 104.º Não será permitida a frequência da escola aos alunos que, em relação a cada curso, tenham reprovado três vezes ou perdido a frequência duas vezes.
 
 ### CAPÍTULO VII — Do pessoal
 
 #### SECÇÃO I — Do pessoal docente
 
-###### Art. 105.º O quadro do corpo docente das escolas técnicas dos serviços de saúde e assistência será fixado, de acordo com as necessidades do ensino, por portaria dos governos das províncias e compreenderá as categorias de professor e monitor.
+Art. 105.º O quadro do corpo docente das escolas técnicas dos serviços de saúde e assistência será fixado, de acordo com as necessidades do ensino, por portaria dos governos das províncias e compreenderá as categorias de professor e monitor.
 
-###### Art. 106.º Compete aos professores:
+Art. 106.º Compete aos professores:
 
 1.º Reger as aulas teóricas de todas as disciplinas, com excepção de técnica de enfermagem e adaptação profissional;
 
@@ -818,7 +822,7 @@ c) Que tiverem em qualquer prova nota igual ou inferior a 5 valores.
 
 7.º Colaborar nos trabalhos circum-escolares para que forem designados.
 
-###### Art. 107.º Compete aos monitores:
+Art. 107.º Compete aos monitores:
 
 1.º Reger as aulas teóricas de enfermagem e adaptação profissional e todas as aulas práticas;
 
@@ -832,21 +836,21 @@ c) Que tiverem em qualquer prova nota igual ou inferior a 5 valores.
 
 § único. Os encarregados das enfermarias escolares coadjuvam os monitores, como auxiliares, no exercício das suas funções e executam os serviços que estes lhes destinarem.
 
-###### Art. 108.º Os professores das escolas técnicas dos serviços de saúde e assistência serão em regra escolhidos de entre os médicos, farmacêuticos, monitores e outros técnicos especializados dos mesmos serviços, podendo, porém, e sempre que as necessidades do ensino o justifiquem, ser também escolhidos entre pessoas estranhas aos mesmos serviços.
+Art. 108.º Os professores das escolas técnicas dos serviços de saúde e assistência serão em regra escolhidos de entre os médicos, farmacêuticos, monitores e outros técnicos especializados dos mesmos serviços, podendo, porém, e sempre que as necessidades do ensino o justifiquem, ser também escolhidos entre pessoas estranhas aos mesmos serviços.
 
 § único. Os professores funcionários dos serviços de saúde e assistência ou de outros serviços exercerão o ensino cumulativamente com as funções do cargo de que sejam titulares.
 
-###### Art. 109.º O provimento de lugares de professores das escolas técnicas dos serviços de saúde e assistência far-se-á por nomeação do governador-geral ou de província, mediante proposta do director ou chefe dos serviços provinciais de saúde e assistência.
+Art. 109.º O provimento de lugares de professores das escolas técnicas dos serviços de saúde e assistência far-se-á por nomeação do governador-geral ou de província, mediante proposta do director ou chefe dos serviços provinciais de saúde e assistência.
 
 § único. Sempre que seja julgada conveniente, poderá admitir-se o contrato de enfermeiros ou técnicos nacionais ou estrangeiros de reconhecido mérito e idoneidade como monitores e professores, para ministrar o ensino em determinados ramos de especialização dos cursos professados nas escolas técnicas dos serviços de saúde e assistência.
 
-###### Art. 110.º Os monitores serão recrutados mediante concurso documental de entre os indivíduos habilitados com o curso geral e complementar das escolas de enfermagem nacionais.
+Art. 110.º Os monitores serão recrutados mediante concurso documental de entre os indivíduos habilitados com o curso geral e complementar das escolas de enfermagem nacionais.
 
 § único. O monitor encarregado da escola será escolhido de entre os monitores com, pelo menos, três anos de prática do ensino.
 
 #### SECÇÃO II — Do pessoal de secretaria
 
-###### Art. 111.º Além do chefe, a secretaria da escola disporá do seguinte pessoal:
+Art. 111.º Além do chefe, a secretaria da escola disporá do seguinte pessoal:
 
 Um terceiro-oficial.
 
@@ -860,7 +864,7 @@ Um contínuo.
 
 #### SECÇÃO III — Do restante pessoal
 
-###### Art. 112.º Além do quadro do pessoal docente e do quadro de pessoal de secretaria, as escolas técnicas dos serviços de saúde e assistência do ultramar disporão de pessoal auxiliar indispensável ao seu normal funcionamento.
+Art. 112.º Além do quadro do pessoal docente e do quadro de pessoal de secretaria, as escolas técnicas dos serviços de saúde e assistência do ultramar disporão de pessoal auxiliar indispensável ao seu normal funcionamento.
 
 § 1.º O pessoal auxiliar será nomeado, contratado ou assalariado segundo as normas em uso nos serviços de saúde e assistência provinciais e ficará directamente subordinado à direcção da escola.
 
@@ -868,25 +872,25 @@ Um contínuo.
 
 ### CAPÍTULO VIII — Das disposições finais e transitórias
 
-###### Art. 113.º Os serviços de saúde e assistência de cada província promoverão com urgência a publicação das normas necessárias para a execução do presente diploma, tendo sempre em vista os respectivos condicionalismo locais.
+Art. 113.º Os serviços de saúde e assistência de cada província promoverão com urgência a publicação das normas necessárias para a execução do presente diploma, tendo sempre em vista os respectivos condicionalismo locais.
 
-###### Art. 114.º Os alunos que à data da publicação do presente diploma se encontrem a frequentar os vários cursos professados nas actuais escolas técnicas dos serviços de saúde continuá-los-ão de acordo com a legislação vigente, não se lhes aplicando as novas disposições, particularmente no que respeita a habilitações exigíveis.
+Art. 114.º Os alunos que à data da publicação do presente diploma se encontrem a frequentar os vários cursos professados nas actuais escolas técnicas dos serviços de saúde continuá-los-ão de acordo com a legislação vigente, não se lhes aplicando as novas disposições, particularmente no que respeita a habilitações exigíveis.
 
-###### Art. 115.º Enquanto houver dificuldade na afluência de alunos com o mínimo das habilitações exigidas, poderão ser admitidos, nos diferentes cursos previstos neste diploma, indivíduos com as condições até ao presente fixadas, mediante proposta da direcção informada pelos serviços de saúde e assistência e deferida pelo respectivo governador.
+Art. 115.º Enquanto houver dificuldade na afluência de alunos com o mínimo das habilitações exigidas, poderão ser admitidos, nos diferentes cursos previstos neste diploma, indivíduos com as condições até ao presente fixadas, mediante proposta da direcção informada pelos serviços de saúde e assistência e deferida pelo respectivo governador.
 
 § único. Esta permissão é válida apenas até ao início do ano escolar cujo funcionamento se verifique cinco anos após a publicação do presente diploma.
 
-###### Art. 116.º Os indivíduos com o curso de auxiliar de enfermagem previsto neste diploma ou com o curso elementar de enfermagem até ao presente professado poderão, quando possuam a habilitação literária agora exigida, ser admitidos à frequência do 3.º ano do curso geral de enfermagem para a obtenção do respectivo título, desde que tenham pelo menos cinco anos de exercício profissional no seu ramo de enfermagem com boas informações e sejam aprovados no respectivo exame final, nas condições estabelecidas no presente diploma.
+Art. 116.º Os indivíduos com o curso de auxiliar de enfermagem previsto neste diploma ou com o curso elementar de enfermagem até ao presente professado poderão, quando possuam a habilitação literária agora exigida, ser admitidos à frequência do 3.º ano do curso geral de enfermagem para a obtenção do respectivo título, desde que tenham pelo menos cinco anos de exercício profissional no seu ramo de enfermagem com boas informações e sejam aprovados no respectivo exame final, nas condições estabelecidas no presente diploma.
 
-###### Art. 117.º Aos actuais enfermeiros diplomados com o curso geral de enfermagem poderá ser permitida a frequência, do curso complementar de enfermagem, sem a exigência do curso geral dos liceus ou equivalente.
+Art. 117.º Aos actuais enfermeiros diplomados com o curso geral de enfermagem poderá ser permitida a frequência, do curso complementar de enfermagem, sem a exigência do curso geral dos liceus ou equivalente.
 
-###### Art. 118.º As dúvidas de interpretação e os casos omissos serão resolvidos por despacho do Ministro do Ultramar, ouvida a Direcção-Geral de Saúde e Assistência do Ultramar.
+Art. 118.º As dúvidas de interpretação e os casos omissos serão resolvidos por despacho do Ministro do Ultramar, ouvida a Direcção-Geral de Saúde e Assistência do Ultramar.
 
-###### Art. 119.º O presentes diploma entrará em vigor no início do ano lectivo de 1964-1965, devendo, até um mês antes dessa data, ser publicadas as normas previstas no artigo 113.º do presente diploma.
+Art. 119.º O presentes diploma entrará em vigor no início do ano lectivo de 1964-1965, devendo, até um mês antes dessa data, ser publicadas as normas previstas no artigo 113.º do presente diploma.
 
-###### Art. 120.º Fica revogada toda a legislação anterior respeitante às escolas técnicas dos serviços de saúde das províncias ultramarinas.
+Art. 120.º Fica revogada toda a legislação anterior respeitante às escolas técnicas dos serviços de saúde das províncias ultramarinas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 15 de Julho de 1964. - ANTÓNIO DE OLIVEIRA SALAZAR - António Augusto Peixoto Correia.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/89-g/2026/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/89-g-2026-1058799984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-23T00:00:00Z'
+  retrieved_at: '2026-10-22T18:33:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b1e2ab77b5e019c6de0eb4c0c1a501319cb7d74b5c63a35477bf9d9e764e869
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39ec0da77780fb322dc385d62a4fa2645aeff61289cba2e71713bbc485a6f1f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:33:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vida Selvagem
-- Ordenamento do Território
-- Proteção dos Animais
-- Regulamentação de Atos Legislativos
-- Proteção do Ambiente
 - Diversidade Biológica
 - Espécie Protegida
-- ZONA de Protecção Especial da Costa Sudoeste
+- Ordenamento do Território
+- Proteção do Ambiente
+- Proteção dos Animais
 - Rede Natura 2000
+- Regulamentação de Atos Legislativos
+- Vida Selvagem
+- ZONA de Protecção Especial da Costa Sudoeste
 - Zona Especial de Conservação
 relationships:
 - type: cites
@@ -104,16 +104,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/201/2019/06/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/201/2019/06/28/p/dre
+- type: cites
+  target: pt:dre:1034985553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122747586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130273578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:33:13Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +150,7 @@ validation:
 
 de 23 de fevereiro
 
-O [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, procedeu à designação como Zona Especial de Conservação (ZEC) do Sítio de Importância Comunitária (SIC) Costa Sudoeste (PTCON0012), identificando a respetiva área e coordenadas geográficas, assim como a sua localização e limites geográficos. O referido diploma determinou, ainda, que as medidas e ações complementares de conservação de habitats e espécies são definidas em planos de gestão, a aprovar por portaria nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.<sup>os</sup>[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro.
+O [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, procedeu à designação como Zona Especial de Conservação (ZEC) do Sítio de Importância Comunitária (SIC) Costa Sudoeste (PTCON0012), identificando a respetiva área e coordenadas geográficas, assim como a sua localização e limites geográficos. O referido diploma determinou, ainda, que as medidas e ações complementares de conservação de habitats e espécies são definidas em planos de gestão, a aprovar por portaria nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.os[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro.
 
 A [Portaria n.º 201/2019](https://diariodarepublica.pt/dr/detalhe/portaria/201-2019-122747586), de 28 de junho, aprovou o plano de gestão da área marinha do SIC Costa Sudoeste (PTCON0012), especificando os tipos de habitat e espécies protegidos com presença significativa nesta área e os respetivos objetivos e medidas de conservação e de gestão.
 
@@ -148,7 +176,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 20 de fevereiro de 2026.
 
-**O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho. - O Ministro da Agricultura e Mar, José Manuel Fernandes.**
+O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho. - O Ministro da Agricultura e Mar, José Manuel Fernandes.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -164,9 +192,11 @@ QUADRO 1
 
 Unidades territoriais abrangidas pela ZEC Costa Sudoeste
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800187.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800187.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800188.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800188.png) |
+| --- |
 
 CARACTERIZAÇÃO
 
@@ -192,13 +222,15 @@ QUADRO 2
 
 Tipos de habitat do anexo I da Diretiva Habitats com presença significativa na área terrestre da ZEC
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800189.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800189.png) |
+| --- |
 
 QUADRO 3
 
 Espécies de flora e da fauna do anexo II da Diretiva Habitats com presença significativa na área terrestre da ZEC
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800190.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800190.png) |
+| --- |
 
 OBJETIVOS DE CONSERVAÇÃO
 
@@ -212,17 +244,23 @@ QUADRO 4
 
 Objetivos de conservação para a gestão da área terrestre da ZEC
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800191.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800191.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800192.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800192.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800193.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800193.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800194.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800194.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800195.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800195.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800196.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800196.png) |
+| --- |
 
 MEDIDAS DE CONSERVAÇÃO COMPLEMENTARES
 
@@ -236,13 +274,17 @@ QUADRO 5
 
 Quadro operacional das medidas de conservação complementares
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800197.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800197.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800198.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800198.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800199.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800199.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800200.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800200.png) |
+| --- |
 
 MEDIDAS DE CONSERVAÇÃO REGULAMENTARES
 
@@ -268,7 +310,8 @@ QUADRO 6
 
 Modelo de matriz de avaliação final da implementação do plano de gestão
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800201.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800201.png) |
+| --- |
 
 FICHAS DE MEDIDAS DE CONSERVAÇÃO COMPLEMENTARES
 
@@ -292,48 +335,73 @@ OM - Orçamento Municipal
 
 PNA-PNGIFR - Programa Nacional de Ação do Plano Nacional de Gestão Integrada de Fogos Rurais
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800202.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800202.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800203.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800203.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800204.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800204.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800205.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800205.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800206.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800206.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800207.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800207.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800208.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800208.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800209.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800209.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800210.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800210.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800211.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800211.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800212.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800212.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800213.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800213.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800214.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800214.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800215.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800215.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800216.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800216.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800217.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800217.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800218.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800218.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800219.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800219.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800220.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800220.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800221.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800221.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800222.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800222.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800223.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800223.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799984/1058800224.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799984/1058800224.png) |
+| --- |
+
+119947784

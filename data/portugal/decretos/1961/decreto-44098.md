@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44098-1961-184573
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-12-18T00:00:00Z'
+  retrieved_at: '2026-10-22T19:27:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4fd9223f1eb42c121dfd4eeb5e0cdff96d89f72b176b822f686d7fd142be0ab5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3ce1d01244e7dae0009cbc2af30ac6a2ab3568ec80abbe8c5308e4c14d63c59
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:27:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:27:20Z'
   warnings: []
   errors: []
 ---
@@ -87,17 +87,17 @@ Sendo urgente providenciar no sentido de evitar o extravio dos bens pertencentes
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os bens mobiliários e imobiliários pertencentes a súbditos da União Indiana são inalienáveis e intransmissíveis, e não podem ser dados em garantia.
+Artigo 1.º Os bens mobiliários e imobiliários pertencentes a súbditos da União Indiana são inalienáveis e intransmissíveis, e não podem ser dados em garantia.
 
-###### Art. 2.º As pessoas singulares ou colectivas detentoras dos bens mencionados no artigo antecedente ficam constituídos fiéis depositários dos referidos bens, com as inerentes obrigações, designadamente as de guarda e conservação, nos termos de direito.
+Art. 2.º As pessoas singulares ou colectivas detentoras dos bens mencionados no artigo antecedente ficam constituídos fiéis depositários dos referidos bens, com as inerentes obrigações, designadamente as de guarda e conservação, nos termos de direito.
 
-###### Art. 3.º A inobservância do disposto nos artigos 1.º e 2.º deste decreto será punida com a pena do artigo 453.º do Código Penal, sem prejuízo da nulidade dos respectivos actos ou contractos praticados ou celebrados com infracção daquelas disposições legais e das responsabilidades civis a que houver lugar.
+Art. 3.º A inobservância do disposto nos artigos 1.º e 2.º deste decreto será punida com a pena do artigo 453.º do Código Penal, sem prejuízo da nulidade dos respectivos actos ou contractos praticados ou celebrados com infracção daquelas disposições legais e das responsabilidades civis a que houver lugar.
 
-###### Art. 4.º Presumem-se simulados todos os actos e contratos previstos no artigo 1.º deste diploma e que hajam tido lugar a partir de 30 de Setembro de 1961, competindo ao Ministério Público promover as providências cautelares indispensáveis e instaurar as respectiva acções.
+Art. 4.º Presumem-se simulados todos os actos e contratos previstos no artigo 1.º deste diploma e que hajam tido lugar a partir de 30 de Setembro de 1961, competindo ao Ministério Público promover as providências cautelares indispensáveis e instaurar as respectiva acções.
 
-###### Art. 5.º Este decreto entra imediatamente em vigor.
+Art. 5.º Este decreto entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 18 de Dezembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

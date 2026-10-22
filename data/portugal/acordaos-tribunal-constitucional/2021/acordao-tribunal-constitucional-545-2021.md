@@ -37,7 +37,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/09/18100/0000400042.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -59,18 +59,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/545/2021/09/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/545-2021-171441502
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-09-16T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5493e362dfaaf34128b4ed2bc6ed38754d988ae5c2a35e5dfaf3bfdff6835082
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98880c401ef3aa63cf724b016ac45ed6e4edbf96753f7a9ceea2de93f461bb98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,23 +78,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Protecção à Família
+- Apoio Extraordinário ao Rendimento dos Trabalhadores
 - Assistência a Familiares
-- Financiamento
-- Empresa
 - Compensação Remuneratória
+- Doença Infecciosa
+- Empresa
 - Entidade Patronal
+- Epidemia
+- Estabelecimento de Ensino
 - Estado de Emergência
+- Financiamento
 - Inconstitucionalidade
 - LAY OFF
 - Órgãos Sociais
-- Doença Infecciosa
-- Epidemia
 - Proteção à Infância
-- Estabelecimento de Ensino
-- Trabalhador Independente
+- Protecção à Família
 - Situação de Calamidade
-- Apoio Extraordinário ao Rendimento dos Trabalhadores
+- Trabalhador Independente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
@@ -136,16 +136,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/94-a/2020/04/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/94-a/2020/04/16/p/dre
+- type: cites
+  target: pt:dre:122541299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131593874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140013516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154361179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154946852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158054819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160149401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160994171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160994172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70262477:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:18Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +234,7 @@ b) Da norma do artigo 2.º da Lei n.º [16/2021](https://diariodarepublica.pt/dr
 
 c) Da norma do artigo 2.º da [Lei n.º 15/2021](https://diariodarepublica.pt/dr/detalhe/lei/15-2021-160994171), de 7 de abril, que alterou, em sede de apreciação parlamentar, o artigo 3.º, n.os 1 e 6 do [Decreto-Lei n.º 6-E/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-e-2021-154361179), de 15 de janeiro, com fundamento em violação do disposto nos artigos 13.º e 167.º, n.º 2, da Constituição.
 
-**O Primeiro-Ministro requereu ainda, a título subsidiário, a declaração de ilegalidade, com força obrigatória geral, das mesmas normas, com fundamento em «violação da Lei do Orçamento do Estado, na qualidade de lei com valor reforçado», invocando a conjugação entre os artigos 112.º, n.º 3 e 281.º, n.º 1, alínea b), da Constituição.**
+O Primeiro-Ministro requereu ainda, a título subsidiário, a declaração de ilegalidade, com força obrigatória geral, das mesmas normas, com fundamento em «violação da Lei do Orçamento do Estado, na qualidade de lei com valor reforçado», invocando a conjugação entre os artigos 112.º, n.º 3 e 281.º, n.º 1, alínea b), da Constituição.
 
 2 - Juntou três documentos: «Relatório sobre o impacto orçamental das alterações aprovadas na Assembleia da República aos apoios sociais», emitido pelos Ministérios das Finanças e do Trabalho, Solidariedade e Segurança Social, sem data (documento n.º 1), «Dados do Sistema de Informação da Segurança Social», emitido pelo Instituto de Informática I. P., sem data (documento n.º 2) e «Nota - Conceito de rendimento médio anual mensualizado - Artigo 3.º, n.º 6 do [Decreto-Lei n.º 6-E/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-e-2021-154361179), de 7 de abril», emitido em 8 de abril de 2021 pela Direção Geral da Segurança Social (documento n.º 3).
 
@@ -266,7 +334,7 @@ b) 20 % dos rendimentos associados a produção e venda de bens;
 
 33.º Em segundo lugar, é necessário atentar ao quadro seguinte relativo a evolução do rendimento médio mensal declarado e do rendimento relevante médio mensal declarado trimestralmente em 2019, de acordo com os dados constantes da base de dados da segurança social, disponibilizados pelo instituto de Informática, I. P., e também refletidos no Documento 1 e no Documento 2 ora juntos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/09/18100/0000400042.pdf))](https://files.diariodarepublica.pt/1s/2021/09/18100/0000400042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/09/18100/0000400042.pdf)
 
 34.º Ora, pese embora os montantes constantes do quadro anterior se tratem da média correspondente ao universo dos trabalhadores independentes e não do valor médio relativo a cada um dos trabalhadores independentes beneficiário do apoio, daqueles valores resulta claro que se o rendimento referencial - isto é, o rendimento declarado é significativamente superior ao rendimento relevante, também o valor do apoio a receber é significativamente superior.
 
@@ -570,7 +638,9 @@ Alteração ao [Decreto-Lei n.º 10-A/2020](https://diariodarepublica.pt/dr/deta
 
 Os artigos 23.º e 24.º do [Decreto-Lei n.º 10-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-a-2020-130243053), de 13 de março, passam a ter a seguinte redação:
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...].
 
@@ -594,7 +664,9 @@ Os artigos 23.º e 24.º do [Decreto-Lei n.º 10-A/2020](https://diariodarepubli
 
 11 - (Anterior n.º 9.)
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...]
 
@@ -997,3 +1069,5 @@ Votei a decisão, que me parece não poder ser outra. O n.º 2 do artigo 167.º 
 Gostaria, contudo, de deixar assinalado que entendo que o critério de evidência mobilizado neste Acórdão para justificar o juízo de inconstitucionalidade exige, por um lado, a apresentação, por parte do Governo, de elementos mínimos de ponderação que permitam sustentar a verificação de um "aumento das despesas ou diminuição das receitas do Estado previstas no Orçamento"; no caso de inexistirem, ou se revelarem inverosímeis, prevalecerá o princípio do favor legislatoris, admitindo-se a intervenção do legislador parlamentar. Por outro lado, creio também que o mesmo critério de evidência implica, no que respeita à despesa indireta, a existência de uma materialidade relevante, que preencha a ratio da norma constitucional, enquanto limite à competência legislativa da Assembleia da República.
 
 Por fim, quanto à decisão de não limitação temporal da inconstitucionalidade das normas questionadas, encontro-me na posição simétrica do Conselheiro Cardoso da Costa, na declaração aposta ao [Acórdão n.º 297/86](https://diariodarepublica.pt/dr/detalhe/acordao/297-1986-220916). Entendo que há razões logradas e jusconstitucionalmente sólidas para fundamentar a conclusão a que agora se chegou - e por isso a votei - mas não me repugnaria, de igual modo, a manutenção da que tem sido a posição tradicional do Tribunal Constitucional a esse respeito. - Mariana Canotilho.
+
+114561535

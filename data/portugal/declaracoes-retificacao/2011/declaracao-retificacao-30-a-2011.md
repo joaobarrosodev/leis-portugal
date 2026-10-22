@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 193/2011, 1º Suplemento, Série I de 2011-10-07
   number: '193'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4600-(2) a 4600-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2011/10/19301/0000200003.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/30-a/2011/10/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/30-a-2011-434445
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-10-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:13:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26d56dfb6ce5ea4fef784ff3d63f41a74a84be630a78522b0ba6c9645a8eda88
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3715e6f6a3589ffc34d7bc891cbd63a18a6640edcca51dfb22fd216873b5fa3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:13:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,42 +68,42 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abate de Árvores
-- PSP
+- Agricultura
 - Aproximação das Legislações
 - Árvore
+- Autarquia Local
+- Autoridade Florestal Nacional
+- Câmara Municipal
 - Certificado Fitossanitário
 - Comissão de Aplicação de Coimas em Matéria Económica e Publicidade
-- Doença Vegetal
-- Programa de Acção Nacional para Controlo do Nemátodo da Madeira do Pinheiro
-- Direção Geral da Agricultura e Desenvolvimento Rural
 - Contra-ordenação
-- Direcção Regional de Agricultura e Pescas
-- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
 - Controlo Sanitário
-- Nemátodo
-- Saúde Pública
-- Especificação Técnica
-- Fiscalização
-- IFAP
-- Junta de Freguesia
+- Direção Geral da Agricultura e Desenvolvimento Rural
+- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
+- Direcção Regional de Agricultura e Pescas
+- Doença Vegetal
 - Embalagem
+- Especificação Técnica
+- Exploração Florestal
+- Fiscalização
 - GNR
+- IFAP
+- Indústria da Madeira
+- Junta de Freguesia
+- Nemátodo
 - Normas de Segurança
 - Página na Internet
-- Zona de Proteção
-- Polícia Municipal
-- Exploração Florestal
 - Pinheiro
-- Proteção Fitossanitária
-- Autoridade Florestal Nacional
+- Polícia Municipal
 - Produção Agrícola
-- Câmara Municipal
 - Produção Vegetal
-- Agricultura
-- Indústria da Madeira
 - Produto em Madeira
-- Autarquia Local
+- Programa de Acção Nacional para Controlo do Nemátodo da Madeira do Pinheiro
+- Proteção Fitossanitária
+- PSP
+- Saúde Pública
 - Vegetais
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
@@ -113,16 +113,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/95/2011/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/95/2011/08/08/p/dre
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669979:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:13:25Z'
   warnings: []
   errors: []
 ---

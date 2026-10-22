@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 64/2007, 1º Suplemento, Série I de 2007-03-30
   number: '64'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2034-(2) a 2034-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/03/06401/00020002.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/22-a/2007/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-a-2007-494035
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-30T00:00:00Z'
+  retrieved_at: '2026-10-22T19:07:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0119de4540fe4fa7b220d7652bf8e5a2289a6c71cb0944dfe09ab464462431ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c83582d8dfff7dc3c593cc67118b2134514f9ffa191d54784b71e524322e334
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:07:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Conselho de Segurança Rodoviária
-- Observatório de Segurança Rodoviária
-- Pessoal Dirigente
-- Ministério da Administração Interna
-- Definição de Competências
 - Autoridade Nacional de Segurança Rodoviária
-- Segurança Rodoviária
+- Conselho de Segurança Rodoviária
+- Definição de Competências
+- Ministério da Administração Interna
+- Observatório de Segurança Rodoviária
 - Orgânica
+- Pessoal Dirigente
 - Presidente
+- Segurança Rodoviária
 - Vice-presidente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/77/2007/03/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/77/2007/03/29/p/dre
+- type: cites
+  target: pt:dre:520462:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:77/2007
+  label: "Rectifica o Decreto-Lei n.º 77/2007, de 29 de Março, DR.IS [63] \0\0"
+  source: null
+  date: '2007-03-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:07:50Z'
   warnings: []
   errors: []
 ---

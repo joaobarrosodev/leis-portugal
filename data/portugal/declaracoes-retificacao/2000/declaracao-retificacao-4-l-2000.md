@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 25/2000, 2º Suplemento, Série I-B de 2000-01-31
   number: '25'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 430-(8) a 430-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/01/025b02/00080008.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/4-l/2000/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-l-2000-483616
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-01-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:56:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0a223e760903f4bd669cd9f60f7f02511ec29ab4e5361354a2686f03a8d105f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 715cf510493fe5cd04b0d14fb79562724aaeb46811d4207bcde1aaf767b64ba8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:56:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cereal
-- Saúde Pública
 - Fruto
-- Produto Hortícola
+- Limite Máximo de Resíduos
 - Pesticida
 - Produto Fitofarmacêutico
-- Limite Máximo de Resíduos
+- Produto Hortícola
+- Saúde Pública
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1101/1999/12/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1101/1999/12/21/p/dre
+- type: cites
+  target: pt:dre:661750:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:56:02Z'
   warnings: []
   errors: []
 ---

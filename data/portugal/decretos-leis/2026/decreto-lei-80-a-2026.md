@@ -82,8 +82,24 @@ reuse:
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ação Social
+- Agricultura
+- Aquicultura
+- Associação Humanitária dos Bombeiros Voluntários
+- Auxílio de Minimis
+- Combustível
+- Compensação Financeira
+- Gasóleo
+- Pesca
+- Subsídio de Gasóleo
 relationships:
+- type: amended_by
+  target: pt:dre:1145969708:por
+  label: Alterados, a partir de 11 de julho de 2026, os artigos 6.º e 10.º e revogado o n.º 4 do artigo 10.º pelo(a) Decreto-Lei
+    n.º 141/2026 - Diário da República n.º 132/2026, Série I de 2026-07-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-2026-1145969708
+  date: '2026-07-09'
 - type: amended_by
   target: pt:dre:1145969708:por
   label: Altera Artigo 6.º; Altera Artigo 10.º
@@ -91,8 +107,9 @@ relationships:
   date: '2026-07-10'
 - type: amended_by
   target: pt:dre:1178225508:por
-  label: null
-  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2026-1178225508
+  label: Alterado, a partir de 9 de outubro de 2026, com efeitos a 30 de junho de 2026, o artigo 7.º pelo(a) Decreto-Lei n.º
+    200/2026 - Diário da República n.º 195/2026, Série I de 2026-10-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-2026-1178225508
   date: '2026-10-08'
 - type: cites
   target: celex:32013R1408
@@ -118,6 +135,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/73-a/2025/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/73-a/2025/12/30/p/dre
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:993270096:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1088732652:por
+  label: Retificada, com efeitos a partir de 1 de abril de 2026, a alínea a) do n.º 1 do artigo 13.º, pelo(a) Declaração de
+    Retificação n.º 14/2026/1 - Diário da República n.º 79/2026, Série I de 2026-04-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/14-2026-1088732652
+  date: '2026-04-23'
 article_structure:
   article_count: 18
   section_count: 5

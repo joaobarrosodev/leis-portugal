@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43895-1961-180994
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-09-06T00:00:00Z'
+  retrieved_at: '2026-10-22T19:25:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6167e5f1516faafb8449990e9636897a4a8cbb2cc6d73d7b8777a7203aafac07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d38d1928b47aa1d120da3b80f06956f414be859540c419be0d04d8c1c374b18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:25:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514184:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:25:27Z'
   warnings: []
   errors: []
 ---
@@ -131,13 +139,13 @@ Ouvido o Conselho Ultramarino:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Denomina-se junta provincial de povoamento o órgão superior da administração pública responsável em cada província ultramarina pela condução ou orientação de todos os assuntos referentes ao povoamento do território e pela coordenação, com tal fim, de quaisquer actividades públicas ou privadas que ao mesmo interessem, independentemente da modalidade de povoamento e seja autóctone, natural ou imigrante o elemento povoador.
+Artigo 1.º Denomina-se junta provincial de povoamento o órgão superior da administração pública responsável em cada província ultramarina pela condução ou orientação de todos os assuntos referentes ao povoamento do território e pela coordenação, com tal fim, de quaisquer actividades públicas ou privadas que ao mesmo interessem, independentemente da modalidade de povoamento e seja autóctone, natural ou imigrante o elemento povoador.
 
-###### Art. 2.º Em cada província ultramarina, a junta provincial de povoamento, que se conformará estritamente às prescrições do presente diploma, será criada, dotada e regulamentada por diplomas legislativos do respectivo governador e situar-se-á no nível dos serviços provinciais de mais alta hierarquia.
+Art. 2.º Em cada província ultramarina, a junta provincial de povoamento, que se conformará estritamente às prescrições do presente diploma, será criada, dotada e regulamentada por diplomas legislativos do respectivo governador e situar-se-á no nível dos serviços provinciais de mais alta hierarquia.
 
 § único. São desde já criadas as Juntas Provinciais de Povoamento de Angola e Moçambique.
 
-###### Art. 3.º No desempenho da sua missão, compete especialmente às juntas provinciais de povoamento:
+Art. 3.º No desempenho da sua missão, compete especialmente às juntas provinciais de povoamento:
 
 1.º Elaborar e manter actualizado inventário, quanto possível completo, com indicação de profissões e locais, das necessidades da província em mão-de-obra especializada, artesanato e quadros primários das diferentes artes e ofícios, seja para ocorrer directamente às exigências da vida quotidiana, seja para a formação de artífices e trabalhadores especializados na própria província;
 
@@ -177,7 +185,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 19.º De um modo geral, observar, estudar, orientar e pronunciar-se acerca de quaisquer assuntos ligados ao povoamento da província, seja com elementos aborígenes ou originários de qualquer outra parcela portuguesa, e estimular, dirigir ou executar a acção necessária para acelerar até ao máximo permitido pelos recursos disponíveis e sua racional utilização aquele povoamento, tendo sempre presente o supremo objectivo nacional de simbiose racial e cultural em sociedades plenamente integradas.
 
-###### Art. 4.º Nas províncias em que esteja criada a junta provincial de povoamento é obrigatória a sua audiência em todos os processos sobre que, nos termos do artigo antecedente, lhe compita pronunciar-se, e os serviços públicos, autarquias locais e entidades particulares ficam obrigados a fornecer-lhe todas as informações de que careça para bom desempenho da missão que lhe é atribuída. A junta respeitará o carácter de confidencialidade que porventura tenham as informações que assim lhe sejam fornecidas.
+Art. 4.º Nas províncias em que esteja criada a junta provincial de povoamento é obrigatória a sua audiência em todos os processos sobre que, nos termos do artigo antecedente, lhe compita pronunciar-se, e os serviços públicos, autarquias locais e entidades particulares ficam obrigados a fornecer-lhe todas as informações de que careça para bom desempenho da missão que lhe é atribuída. A junta respeitará o carácter de confidencialidade que porventura tenham as informações que assim lhe sejam fornecidas.
 
 § 1.º Para efeitos dos n.os 1.º, 2.º, 3.º, 5.º e 6.º do artigo 3.º, a junta elaborará os questionários convenientes, que expedirá directamente às administrações de circunscrição e de concelho ou aos corpos administrativos, os quais lhe responderão também directamente. Serão igualmente obtidos dos serviços de instrução, na parte que lhes respeita, os dados necessários às averiguações referidas nos n.os 1.º, 2.º, 5.º e 6.º
 
@@ -195,7 +203,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § 8.º Os institutos de investigação e centro de estudos prestarão, no domínio da investigação de base, a colaboração que possa servir de apoio à acção da junta, designadamente no que respeita aos n.os 9.º a 11.º, 15.º, 18.º e 19.º do artigo 3.º e 7.º do artigo 5.º
 
-###### Art. 5.º No desempenho da missão que lhe comete o n.º 12.º do artigo 3.º, cabe à junta provincial de povoamento, à qual prestarão inteira colaboração os serviços de agricultura e florestas, de veterinária e indústria animal e de obras públicas e transportes:
+Art. 5.º No desempenho da missão que lhe comete o n.º 12.º do artigo 3.º, cabe à junta provincial de povoamento, à qual prestarão inteira colaboração os serviços de agricultura e florestas, de veterinária e indústria animal e de obras públicas e transportes:
 
 1.º Promover, auxiliar, recolher ou efectuar os estudos agronómicos, pecuários, silvícolas, económicos e sociológicos necessários para a elaboração de um plano de povoamento agrário, designadamente nos aspectos das solicitações dos mercados internos e externos, das aptidões produtivas das áreas utilizáveis, eventualmente melhoradas, da escolha das obras necessárias, do investimento e rentabilidade correspondente, dos reflexos etnossociológicos relativamente às populações pré e pós-instaladas e do respectivo ajustamento aos objectivos da política nacional de povoamento;
 
@@ -231,9 +239,9 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 17.º Superintender nos programas de auxílio à agricultura instalada, promovendo a sua integração nos planos de ordenamento agrário.
 
-###### Art. 6.º A junta provincial de povoamento é organismo dotado de personalidade jurídica e autonomia administrativa e financeira.
+Art. 6.º A junta provincial de povoamento é organismo dotado de personalidade jurídica e autonomia administrativa e financeira.
 
-###### Art. 7.º A junta provincial de povoamento compor-se-á de um conselho plenário, de uma comissão executiva e de todos ou alguns dos seguintes departamentos especiais:
+Art. 7.º A junta provincial de povoamento compor-se-á de um conselho plenário, de uma comissão executiva e de todos ou alguns dos seguintes departamentos especiais:
 
 a) Departamento de informação e publicações, pelo qual decorrerão as actividades referidas sob os n.os 1.º a 7.º e 13.º do artigo 3.º, bem como a publicação de originais preparados por quaisquer outros serviços da junta;
 
@@ -249,13 +257,13 @@ f) Secretaria-geral, que assegurará o expediente do conselho plenário e da com
 
 § único. Sem embargo da sua especialização, os diferentes departamentos da junta trabalharão em íntima e permanente colaboração, como órgãos especializados da comissão executiva, que orientará de perto todos os trabalhos.
 
-###### Art. 8.º A junta provincial de povoamento é dirigida por um presidente, também presidente da respectiva comissão executiva, o qual será nomeado pelo Ministro do Ultramar, ouvido o governo da província, de entre indivíduos habilitados com um curso superior e possuindo formação e experiência adequadas às responsabilidades que lhe incumbem.
+Art. 8.º A junta provincial de povoamento é dirigida por um presidente, também presidente da respectiva comissão executiva, o qual será nomeado pelo Ministro do Ultramar, ouvido o governo da província, de entre indivíduos habilitados com um curso superior e possuindo formação e experiência adequadas às responsabilidades que lhe incumbem.
 
 § único. Nas províncias onde existirem secretários provinciais, pertencerá a um deles, designado pelo governador, a presidência da junta e da respectiva comissão executiva.
 
-###### Art. 9.º Os departamentos especiais da junta provincial de povoamento serão chefiados por indivíduos habilitados com curso superior e possuindo formação e experiência adequadas, escolhidos pelo Ministro do Ultramar, ouvido o governo provincial, de entre pessoas que sobre temas da especialidade correspondente hajam elaborado trabalho de reputado nível. O chefe da secretaria-geral, que terá o título de secretário-geral, será diplomado com curso superior adaptado ao exercício da função.
+Art. 9.º Os departamentos especiais da junta provincial de povoamento serão chefiados por indivíduos habilitados com curso superior e possuindo formação e experiência adequadas, escolhidos pelo Ministro do Ultramar, ouvido o governo provincial, de entre pessoas que sobre temas da especialidade correspondente hajam elaborado trabalho de reputado nível. O chefe da secretaria-geral, que terá o título de secretário-geral, será diplomado com curso superior adaptado ao exercício da função.
 
-###### Art. 10.º Os quadros da junta serão fixados por diploma legislativo provincial em número de unidades, especializações e designações e categoria. O seu provimento for-se-á normalmente por nomeação, mas o pessoal especializado ou investigador, de formação universitária, bem como o pessoal directivo referido nos artigos 8.º e 9.º, poderá ser contratado, destacado de outros serviços públicos ou designado em comissão.
+Art. 10.º Os quadros da junta serão fixados por diploma legislativo provincial em número de unidades, especializações e designações e categoria. O seu provimento for-se-á normalmente por nomeação, mas o pessoal especializado ou investigador, de formação universitária, bem como o pessoal directivo referido nos artigos 8.º e 9.º, poderá ser contratado, destacado de outros serviços públicos ou designado em comissão.
 
 § único. As categorias do pessoal directivo serão as seguintes:
 
@@ -263,33 +271,33 @@ a) Nas províncias de governo-geral (não sendo um secretário provincial): pres
 
 b) Nas províncias de governo simples: presidente, E; chefes de departamento e secretário-geral, F.
 
-###### Art. 11.º Constituem receita da junta provincial de povoamento as dotações para ela inscritas no orçamento geral da província, as dotações inscritas em planos de fomento para objectivos de povoamento e suas obras de base, o produto dos reembolsos do Estado efectuados pelos colonos dos núcleos de povoamento dirigidos, os donativos, legados ou subsídios que lhe sejam ofertados; o produto da venda de bens que lhe estejam afectos e o de quaisquer taxas ou imposições que por legislação provincial venham a ser-lhe consignados.
+Art. 11.º Constituem receita da junta provincial de povoamento as dotações para ela inscritas no orçamento geral da província, as dotações inscritas em planos de fomento para objectivos de povoamento e suas obras de base, o produto dos reembolsos do Estado efectuados pelos colonos dos núcleos de povoamento dirigidos, os donativos, legados ou subsídios que lhe sejam ofertados; o produto da venda de bens que lhe estejam afectos e o de quaisquer taxas ou imposições que por legislação provincial venham a ser-lhe consignados.
 
 São despesas obrigatórias da junta todos os encargos com pessoal, material e pagamento de serviços decorrentes do desempenho da sua missão, bem como os resultantes da execução dos objectivos de povoamento e respectivas obras de base incluídos em planos de fomento, segundo as provisões dos mesmos, incluindo a sustentação das correspondentes brigadas ou missões de estudo ou de execução e as juntas de povoamento agrário.
 
 § único. É responsável pela gestão financeira da junta a respectiva comissão administrativa, composta pelo presidente, pelo secretário-geral e por um dos chefes de departamento especial, designado pelo governador da província e obrigatòriamente substituído de dois em dois anos. Quando o presidente da junta for um secretário provincial, presidirá à comissão administrativa outro dos chefes de departamento especial designado pelo governador.
 
-###### Art. 12.º A comissão executiva da junta provincial de povoamento será composta pelo presidente, por três vogais eleitos pelo conselho plenário, pelo prazo de dois anos, por um chefe de departamento especial designado pelo governador e obrigatòriamente substituído de ano a ano, que não seja membro da comissão administrativa, e pelo secretário-geral. O presidente, que tem voto de qualidade, superintende em todos os serviços e faz executar as deliberações da comissão executiva.
+Art. 12.º A comissão executiva da junta provincial de povoamento será composta pelo presidente, por três vogais eleitos pelo conselho plenário, pelo prazo de dois anos, por um chefe de departamento especial designado pelo governador e obrigatòriamente substituído de ano a ano, que não seja membro da comissão administrativa, e pelo secretário-geral. O presidente, que tem voto de qualidade, superintende em todos os serviços e faz executar as deliberações da comissão executiva.
 
-###### Art. 13.º O conselho plenário será composto pelo presidente da junta, que a ele presidirá, pelos chefes de todos os serviços provinciais, por um representante das missões católicas da província, por um representante de cada um dos ramos das forças armadas e pelos representantes das associações económicas e profissionais ou de instituições culturais ou outras de utilidade pública designadas no diploma legislativo provincial que crie a junta. Secretariará, sem voto, o secretário-geral e o presidente terá voto de qualidade.
+Art. 13.º O conselho plenário será composto pelo presidente da junta, que a ele presidirá, pelos chefes de todos os serviços provinciais, por um representante das missões católicas da província, por um representante de cada um dos ramos das forças armadas e pelos representantes das associações económicas e profissionais ou de instituições culturais ou outras de utilidade pública designadas no diploma legislativo provincial que crie a junta. Secretariará, sem voto, o secretário-geral e o presidente terá voto de qualidade.
 
 § único. O conselho plenário elegerá de dois em dois anos três dos seus vogais para vogais da comissão executiva. Um dos eleitos será obrigatòriamente escolhido de entre os chefes de serviços provinciais.
 
-###### Art. 14.º Diploma legislativo provincial regulamentará as competências do conselho plenário, da comissão executiva e do presidente da junta. A comissão executiva reunirá ordinàriamente uma vez por mês e o conselho plenário reunirá ordinàriamente duas vezes por ano, a primeira para apreciação do plano de trabalhos e orçamento, a segunda para apreciação do relatório e contas anuais. No mesmo diploma serão fixadas os valores das senhas de presença dos vogais.
+Art. 14.º Diploma legislativo provincial regulamentará as competências do conselho plenário, da comissão executiva e do presidente da junta. A comissão executiva reunirá ordinàriamente uma vez por mês e o conselho plenário reunirá ordinàriamente duas vezes por ano, a primeira para apreciação do plano de trabalhos e orçamento, a segunda para apreciação do relatório e contas anuais. No mesmo diploma serão fixadas os valores das senhas de presença dos vogais.
 
-###### Art. 15.º O relatório e contas anuais da junta e todas as suas publicações, bem como as actas das sessões do conselho plenário, serão enviadas ao Ministério do Ultramar e objecto de parecer do Conselho Superior de Fomento Ultramarino, bem como de informação do Gabinete dos Negócios Políticos e da Direcção-Geral de Fazenda, pronunciando-se, afinal, o Conselho Ultramarino, após o que subirá à apreciação do Ministro do Ultramar.
+Art. 15.º O relatório e contas anuais da junta e todas as suas publicações, bem como as actas das sessões do conselho plenário, serão enviadas ao Ministério do Ultramar e objecto de parecer do Conselho Superior de Fomento Ultramarino, bem como de informação do Gabinete dos Negócios Políticos e da Direcção-Geral de Fazenda, pronunciando-se, afinal, o Conselho Ultramarino, após o que subirá à apreciação do Ministro do Ultramar.
 
-###### Art. 16.º Passam a depender da junta provincial de povoamento, desde a criação desta em cada província, as juntas de povoamento agrário, a que se refere o [Decreto n.º 41482](https://diariodarepublica.pt/dr/detalhe/decreto/41482-1957-251243), de 28 de Dezembro de 1957, com as alterações do [Decreto n.º 43339](https://diariodarepublica.pt/dr/detalhe/decreto/43339-1960-514184), de 21 de Novembro de 1960, e as missões e brigadas de fomento e povoamento actuando na província, salvo quando tenham sido colocadas na situação prevista no artigo 70.º do Decreto n.º 41169, de 29 de Junho de 1957, enquanto tal situação for julgada de manter.
+Art. 16.º Passam a depender da junta provincial de povoamento, desde a criação desta em cada província, as juntas de povoamento agrário, a que se refere o [Decreto n.º 41482](https://diariodarepublica.pt/dr/detalhe/decreto/41482-1957-251243), de 28 de Dezembro de 1957, com as alterações do [Decreto n.º 43339](https://diariodarepublica.pt/dr/detalhe/decreto/43339-1960-514184), de 21 de Novembro de 1960, e as missões e brigadas de fomento e povoamento actuando na província, salvo quando tenham sido colocadas na situação prevista no artigo 70.º do Decreto n.º 41169, de 29 de Junho de 1957, enquanto tal situação for julgada de manter.
 
 § único. O presidente da junta poderá propor a criação de missões e brigadas de fomento e povoamento para a execução de estudos ou obras que a requeiram.
 
-###### Art. 17.º Nas suas ausências ou impedimentos, o presidente da junta será substituído por um dos chefes de departamento que não seja o vogal da comissão administrativa nem o vogal da comissão executiva, e que o governador da província designará. Quando o presidente for um secretário provincial, será substituído por outro.
+Art. 17.º Nas suas ausências ou impedimentos, o presidente da junta será substituído por um dos chefes de departamento que não seja o vogal da comissão administrativa nem o vogal da comissão executiva, e que o governador da província designará. Quando o presidente for um secretário provincial, será substituído por outro.
 
-###### Art. 18.º É extinta a repartição de povoamento agrário, a que se refere o [Decreto n.º 41482](https://diariodarepublica.pt/dr/detalhe/decreto/41482-1957-251243), de 28 de Dezembro de 1957, a partir da criação da junta provincial de povoamento. O seu pessoal transita, sem mais formalidades, para a junta provincial de povoamento, em lugar de categoria equivalente, continuando a ser pago pelas dotações orçamentais até à publicação do orçamento da junta.
+Art. 18.º É extinta a repartição de povoamento agrário, a que se refere o [Decreto n.º 41482](https://diariodarepublica.pt/dr/detalhe/decreto/41482-1957-251243), de 28 de Dezembro de 1957, a partir da criação da junta provincial de povoamento. O seu pessoal transita, sem mais formalidades, para a junta provincial de povoamento, em lugar de categoria equivalente, continuando a ser pago pelas dotações orçamentais até à publicação do orçamento da junta.
 
-###### Art. 19.º Este decreto entra em vigor 30 dias depois da sua publicação no Boletim Oficial de cada província. Ficam os governadores autorizados a abrir os créditos necessários para fazer face aos encargos resultantes deste diploma, com contrapartida em recursos orçamentais.
+Art. 19.º Este decreto entra em vigor 30 dias depois da sua publicação no Boletim Oficial de cada província. Ficam os governadores autorizados a abrir os créditos necessários para fazer face aos encargos resultantes deste diploma, com contrapartida em recursos orçamentais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Setembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

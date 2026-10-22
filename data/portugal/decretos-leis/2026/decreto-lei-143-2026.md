@@ -25,9 +25,7 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -48,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/143/2026/07/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2026-1148213726
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-26T00:00:00Z'
+  retrieved_at: '2026-10-22T18:46:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c37b80199fa40cd47fd090d7988377c9beb305df89a4d8a87ae87d3a60839a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c42d1376ea3842c8a410969981f4e3f088751d6d077c92d9a815c9fb62dd71f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:46:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
 - INEM
-- Serviço Nacional de Saúde
-- Orgânica
-- Sistema de Informação
 - Ministério da Saúde
+- Orgânica
+- Rede de Urgência-Emergência
+- Reestruturação de Serviços
+- Serviço Nacional de Saúde
+- Sistema de Informação
 - Sistema Integrado de Emergência Médica
 - Transporte de Doentes
-- Rede de Urgência-Emergência
 relationships:
 - type: amended_by
   target: pt:dre:1152409212:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:124/2011
+  label: Altera, a partir de 1 de agosto de 2026, o artigo 16.º do Decreto-Lei n.º 124/2011, de 29 de dezembro, Diário da
+    República n.º 249/2011, Série I
+  source: null
+  date: '2011-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/124/2011/12/29/p/dre
   label: null
@@ -121,16 +125,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
+- type: cites
+  target: pt:dre:145186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210531716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211499215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:910323298:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1152409212:por
+  label: Retificado, o sumário («aprova a orgânica do INEM - Instituto Nacional de Emergência Médica, I. P.») , o artigo 2.º
+    (altera a alínea g) do n.º 2 do artigo 16.º do Decreto-Lei n.º 124/2011, de 29 de dezembro) e a alínea f) do n.º 4 do
+    artigo 3.º do anexo, ao presente diploma, pelo(a) Declaração de Retificação n.º 29/2026/1 - Diário da República n.º 143/2026,
+    Série I de 2026-07-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/29-2026-1152409212
+  date: '2026-07-26'
+- type: repeals
+  target: pt:numero:decreto-lei:34/2012
+  label: Revoga, a partir de 1 de agosto de 2026, o Decreto-Lei n.º 34/2012, de 14 de fevereiro, Diário da República n.º 32/2012,
+    Série I, sem prejuízo do disposto no n.º 3 do artigo 3.º do presente diploma (mantêm-se em vigor as disposições constantes
+    das alíneas m) e n) do n.º 3 do artigo 3.º do Decreto-Lei n.º 34/2012 até à revisão do Decreto-Lei n.º 38/92, de 28 de
+    março)
+  source: null
+  date: '2012-02-14'
 article_structure:
   article_count: 28
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:46:47Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +225,7 @@ A orgânica do INEM, I. P., consubstancia, assim, uma opção estrutural de refo
 
 Assim:
 
-Ao abrigo do disposto nos n.<sup>os</sup>3 e 6 do artigo 3.º e no artigo 6.º do [Decreto-Lei n.º 200/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2006-545779), de 25 de outubro, no n.º 1 do artigo 16.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de janeiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Ao abrigo do disposto nos n.os3 e 6 do artigo 3.º e no artigo 6.º do [Decreto-Lei n.º 200/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2006-545779), de 25 de outubro, no n.º 1 do artigo 16.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de janeiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
 
 ### CAPÍTULO I — DISPOSIÇÃO GERAL
 
@@ -165,7 +233,7 @@ Ao abrigo do disposto nos n.<sup>os</sup>3 e 6 do artigo 3.º e no artigo 6.º d
 
 O presente decreto-lei procede:
 
-a) À reestruturação do Instituto Nacional de Emergência Médica, I. P., aprovado pelo [Decreto-Lei n.º 34/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2012-543036), de 14 de fevereiro, alterado pela [Lei n.º 82-B/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), de 31 de dezembro, e pelos Decretos-Leis n.<sup>os</sup>[19/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2023-210531716), de 22 de março, e [13-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), de 10 de março, e aprova a respetiva orgânica em anexo ao presente decreto-lei e do qual faz parte integrante.
+a) À reestruturação do Instituto Nacional de Emergência Médica, I. P., aprovado pelo [Decreto-Lei n.º 34/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2012-543036), de 14 de fevereiro, alterado pela [Lei n.º 82-B/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), de 31 de dezembro, e pelos Decretos-Leis n.os[19/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2023-210531716), de 22 de março, e [13-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), de 10 de março, e aprova a respetiva orgânica em anexo ao presente decreto-lei e do qual faz parte integrante.
 
 b) À nona alteração ao [Decreto-Lei n.º 124/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2011-145186), de 29 de dezembro, que aprova a Lei Orgânica do Ministério da Saúde.
 
@@ -225,15 +293,15 @@ O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua
 
 Visto e aprovado em Conselho de Ministros de 7 de maio de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Gonçalo Nuno da Cruz Saraiva Matias - Nuno Maria Herculano de Carvalho Pinheiro Torres - Luís António Trindade Nunes das Neves - Ana Paula Martins.
 
-**Promulgado em 7 de julho de 2026.**
+Promulgado em 7 de julho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 9 de julho de 2026.**
+Referendado em 9 de julho de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — [a que se refere a alínea a) do n.º 1 do artigo 1.º]
 
@@ -461,7 +529,7 @@ A organização interna do INEM, I. P., é a prevista nos respetivos estatutos e
 
 2 - São cargos de direção intermédia de 2.º grau do INEM, I. P., os coordenadores de gabinete.
 
-3 - A remuneração base dos cargos de direção intermédia, sem prejuízo do disposto nos n.<sup>os</sup>5 e 6, é determinada em percentagem da remuneração base do vogal do conselho diretivo, nas seguintes proporções:
+3 - A remuneração base dos cargos de direção intermédia, sem prejuízo do disposto nos n.os5 e 6, é determinada em percentagem da remuneração base do vogal do conselho diretivo, nas seguintes proporções:
 
 a) Diretor de serviço - 80 %;
 
@@ -471,7 +539,7 @@ b) Coordenador de gabinete - 65 %.
 
 5 - Os diretores dos serviços assistenciais são médicos.
 
-6 - Quando as unidades orgânicas devam, nos termos a prever nos estatutos do INEM, I. P., ser dirigidas por médicos, em derrogação do regime previsto nos n.<sup>os</sup>3 e 4, aplicam-se as regras estabelecidas no artigo 23.º do [Decreto-Lei n.º 177/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2009-493010), de 4 de agosto, quanto à comissão de serviço, ao regime remuneratório e à manutenção da atividade de prestação de cuidados de saúde.
+6 - Quando as unidades orgânicas devam, nos termos a prever nos estatutos do INEM, I. P., ser dirigidas por médicos, em derrogação do regime previsto nos n.os3 e 4, aplicam-se as regras estabelecidas no artigo 23.º do [Decreto-Lei n.º 177/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2009-493010), de 4 de agosto, quanto à comissão de serviço, ao regime remuneratório e à manutenção da atividade de prestação de cuidados de saúde.
 
 ###### Artigo 13.º — Receitas
 
@@ -566,3 +634,5 @@ O património do INEM, I. P., é constituído pela universalidade dos bens, dire
 1 - Nos veículos utilizados na atividade de transporte de doentes devem ser implementados sistemas que permitam a sua geolocalização, interoperabilidade e controlo dos meios.
 
 2 - A obrigação referida no número anterior está sujeita aos poderes de regulação, regulamentação, supervisão, fiscalização e sancionatórios das entidades competentes.
+
+119949049

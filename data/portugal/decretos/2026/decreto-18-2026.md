@@ -47,51 +47,55 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/18/2026/09/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/18-2026-1167595461
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-07T00:00:00Z'
+  retrieved_at: '2026-10-22T18:52:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a562ccc39b4fd484db8fe2dcf1d84e88bd78f437ab457549ce0db257065472d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f77e058981ce023e416a55a9cd7fb003e116ecefbe6b9487b2497e4bd3ca3b95
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:52:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Baldio
+- Montalegre
+- Ordenamento Florestal
+- Regime Florestal
 relationships: []
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:52:24Z'
   warnings: []
   errors: []
 ---
 
 # Decreto n.º 18/2026
 
-A Câmara Municipal de Montalegre pretende edificar um equipamento municipal para instalação de um Centro de Recolha Oficial de Animais de Companhia, no concelho de Montalegre, pelo que solicitou ao Instituto da Conservação da Natureza e das Florestas, I. P., a exclusão do regime florestal parcial de uma área com a dimensão de 20 337 m<sup>2</sup>.
+A Câmara Municipal de Montalegre pretende edificar um equipamento municipal para instalação de um Centro de Recolha Oficial de Animais de Companhia, no concelho de Montalegre, pelo que solicitou ao Instituto da Conservação da Natureza e das Florestas, I. P., a exclusão do regime florestal parcial de uma área com a dimensão de 20 337 m2.
 
 O referido terreno, pertencente à Comunidade Local dos Compartes dos Baldios de Salto, da freguesia de Salto, do concelho de Montalegre, foi submetido ao regime florestal parcial pelo Decreto de 12 de maio de 1944, publicado no Diário do Governo, 2.ª série, n.º 116, de 20 de maio de 1944, passando a integrar o perímetro florestal do Barroso, pelo que a sua utilização implica a sua exclusão do regime florestal parcial.
 
-Como medida compensatória pela exclusão do regime florestal parcial da área de 20 337 m<sup>2</sup>, necessária à construção do Centro de Recolha Oficial de Animais de Companhia, a assembleia de compartes dos baldios de Salto, da freguesia de Salto, concelho de Montalegre deliberou e decidiu, por unanimidade, solicitar a submissão ao mesmo regime florestal de uma área com a dimensão de 23 539 m<sup>2</sup>de terreno baldio, localizado na freguesia de Salto, concelho de Montalegre, passando essa área a fazer parte integrante do perímetro florestal do Barroso.
+Como medida compensatória pela exclusão do regime florestal parcial da área de 20 337 m2, necessária à construção do Centro de Recolha Oficial de Animais de Companhia, a assembleia de compartes dos baldios de Salto, da freguesia de Salto, concelho de Montalegre deliberou e decidiu, por unanimidade, solicitar a submissão ao mesmo regime florestal de uma área com a dimensão de 23 539 m2de terreno baldio, localizado na freguesia de Salto, concelho de Montalegre, passando essa área a fazer parte integrante do perímetro florestal do Barroso.
 
-A exclusão do regime florestal parcial da área de 20 337 m<sup>2</sup>não tem qualquer impacto negativo no ordenamento e gestão florestal do perímetro florestal do Barroso, nem nos fins prosseguidos pelo regime florestal, e a submissão ao regime florestal parcial da área com a dimensão de 23 539 m<sup>2</sup>aumenta a área submetida a este regime em 3202 m<sup>2</sup>.
+A exclusão do regime florestal parcial da área de 20 337 m2não tem qualquer impacto negativo no ordenamento e gestão florestal do perímetro florestal do Barroso, nem nos fins prosseguidos pelo regime florestal, e a submissão ao regime florestal parcial da área com a dimensão de 23 539 m2aumenta a área submetida a este regime em 3202 m2.
 
-A construção de um Centro de Recolha Oficial de Animais de Companhia numa área de 20 337 m<sup>2</sup>implica que esta seja desafetada do regime florestal parcial no qual foi incluída pelo Decreto de 12 de maio de 1944.
+A construção de um Centro de Recolha Oficial de Animais de Companhia numa área de 20 337 m2implica que esta seja desafetada do regime florestal parcial no qual foi incluída pelo Decreto de 12 de maio de 1944.
 
 O presente decreto é elaborado em cumprimento do disposto nos artigos 25.º, 26.º, 28.º, 32.º e 33.º, do Decreto de 24 de dezembro de 1901, publicado no Diário do Governo, n.º 296, de 31 de dezembro de 1901, que aprova a organização dos serviços florestais e aquícolas e define a submissão e a desafetação de terrenos ao regime florestal, e, ainda, no § 4.º do artigo 4.º do Decreto de 24 de dezembro de 1903, publicado no Diário do Governo, n.º 294, de 30 de dezembro, que aprova a regulamentação para a execução do regime florestal.
 
@@ -103,7 +107,7 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Governo decreta o
 
 ###### Artigo 1.º — Exclusão do regime florestal parcial
 
-1 - O presente decreto procede à exclusão do regime florestal parcial, a que se encontra submetida pelo Decreto de 12 de maio de 1944, publicado no Diário do Governo, 2.ª série, n.º 116, de 20 de maio de 1944, de uma parcela de terreno com a área de 20 337 m<sup>2</sup>, pertencente à comunidade local dos compartes dos baldios de Salto, da freguesia de Salto, do concelho de Montalegre, integrada no perímetro florestal do Barroso, e que se encontra delimitada na planta constante do anexo ao presente decreto e do qual faz parte integrante.
+1 - O presente decreto procede à exclusão do regime florestal parcial, a que se encontra submetida pelo Decreto de 12 de maio de 1944, publicado no Diário do Governo, 2.ª série, n.º 116, de 20 de maio de 1944, de uma parcela de terreno com a área de 20 337 m2, pertencente à comunidade local dos compartes dos baldios de Salto, da freguesia de Salto, do concelho de Montalegre, integrada no perímetro florestal do Barroso, e que se encontra delimitada na planta constante do anexo ao presente decreto e do qual faz parte integrante.
 
 2 - A parcela de terreno a que se refere o número anterior destina-se à construção de um Centro de Recolha Oficial de Animais de Companhia.
 
@@ -113,7 +117,7 @@ O proprietário da parcela de terreno, ora excluída do regime florestal parcial
 
 ###### Artigo 3.º — Submissão ao regime florestal parcial
 
-1 - Como compensação pela exclusão do regime florestal parcial prevista no artigo 1.º, é submetida ao mesmo regime florestal parcial, nos termos do disposto nos artigos 25.º, 26.º, 28.º, 32.º e 33.º do Decreto de 24 de dezembro de 1901, publicado no Diário do Governo, n.º 296, de 31 de dezembro de 1901, a área baldia com a dimensão de 23 539 m<sup>2</sup>, pertencente à Comunidade Local dos Compartes dos Baldios de Salto, da freguesia de Salto, do concelho de Montalegre, conforme solicitação feita pela Comunidade Local dos Baldios de Salto.
+1 - Como compensação pela exclusão do regime florestal parcial prevista no artigo 1.º, é submetida ao mesmo regime florestal parcial, nos termos do disposto nos artigos 25.º, 26.º, 28.º, 32.º e 33.º do Decreto de 24 de dezembro de 1901, publicado no Diário do Governo, n.º 296, de 31 de dezembro de 1901, a área baldia com a dimensão de 23 539 m2, pertencente à Comunidade Local dos Compartes dos Baldios de Salto, da freguesia de Salto, do concelho de Montalegre, conforme solicitação feita pela Comunidade Local dos Baldios de Salto.
 
 2 - A área referida no número anterior encontra-se delimitada na planta constante do anexo ao presente decreto, integrando o perímetro florestal do Barroso.
 
@@ -125,18 +129,21 @@ O proprietário da parcela de terreno, ora excluída do regime florestal parcial
 
 Visto e aprovado em Conselho de Ministros de 9 de julho de 2026. - Luís Montenegro - José Manuel Fernandes.
 
-**Assinado em 13 de agosto de 2026.**
+Assinado em 13 de agosto de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 14 de agosto de 2026.**
+Referendado em 14 de agosto de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 1.º e o n.º 2 do artigo 3.º)
 
 Área a excluir do regime florestal parcial e área a submeter ao regime florestal parcial
 
-![](https://files.diariodarepublica.pt/images/1167595461/1167773478.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1167595461/1167773478.png) |
+| --- |
+
+119949539

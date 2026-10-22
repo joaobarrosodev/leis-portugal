@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43290-1960-514431
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-11-03T00:00:00Z'
+  retrieved_at: '2026-10-22T19:20:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d15a1e9f5eecf2d6e18c1daafe5197c679f72e43b8e78d7011cf8716aaab3f56
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2fe10f4b4be66d54218035b092bce529c0e919b5fb4fe6fcd63101056c19a75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:20:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:411367:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:20:42Z'
   warnings: []
   errors: []
 ---
@@ -91,10 +95,10 @@ Tendo em vista o disposto no artigo 17.º do [Decreto-Lei n.º 22787](https://di
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Comissão Administrativa das Novas Instalações Universitárias a celebrar contrato com o pintor Rogério Fernando da Silva Ribeiro para o fornecimento de uma tapeçaria com 4 m x 3 m, a executar pela firma Tapetes de Portalegre, Lda., sobre desenho daquele artista, destinada ao gabinete do reitor no novo edifício da Reitoria da Universidade de Lisboa, pela importância total de 48000$00.
+Artigo 1.º É autorizada a Comissão Administrativa das Novas Instalações Universitárias a celebrar contrato com o pintor Rogério Fernando da Silva Ribeiro para o fornecimento de uma tapeçaria com 4 m x 3 m, a executar pela firma Tapetes de Portalegre, Lda., sobre desenho daquele artista, destinada ao gabinete do reitor no novo edifício da Reitoria da Universidade de Lisboa, pela importância total de 48000$00.
 
-###### Art. 2.º Seja qual for o valor dos trabalhos a realizar, não poderá a Comissão Administrativa das Novas Instalações Universitárias despender com pagamentos relativos ao trabalho executado, por virtude do contrato, mais de 16000$00 no corrente ano e 32000$00 no ano de 1961.
+Art. 2.º Seja qual for o valor dos trabalhos a realizar, não poderá a Comissão Administrativa das Novas Instalações Universitárias despender com pagamentos relativos ao trabalho executado, por virtude do contrato, mais de 16000$00 no corrente ano e 32000$00 no ano de 1961.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 3 de Novembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Eduardo de Arantes e Oliveira.

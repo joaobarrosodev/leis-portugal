@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/asst/2/2000/02/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/assento/2-2000-401929
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-07T00:00:00Z'
+  retrieved_at: '2026-10-22T18:28:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49fcd64082dbf68bbe52d837b22bc072eaaf569e0c90f3d7743f9554259857c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2545e2d67acb80ce32dcb872897f5535e6d01a0e10f45246a6f5ce7a6a4d869c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:28:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ACTO Judicial
-- Processo Penal
 - Código de Processo Penal
 - Código do Processo Civil
 - Interpretação do Direito
 - Prazo Processual
+- Processo Penal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/180/1996/09/25/p/dre
@@ -89,16 +89,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/59/1998/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/59/1998/08/25/p/dre
+- type: cites
+  target: pt:dre:165063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448110:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:28:24Z'
   warnings: []
   errors: []
 ---
@@ -195,29 +211,29 @@ Vejamos, pois, qual a melhor solução para o caso em análise.
 
 Os normativos relevantes para solucionar a questão suscitada são:
 
-###### Artigo 150.º, n.os 1 e 3, do Código de Processo Civil (redacção do artigo 1.º do [Decreto-Lei n.º 329-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1995-226051), de 12 de Dezembro, e do [Decreto-Lei n.º 180/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1996-214238), de 25 de Setembro), incluído na subsecção relativa aos «actos das partes», que dispõe:
+Artigo 150.º, n.os 1 e 3, do Código de Processo Civil (redacção do artigo 1.º do [Decreto-Lei n.º 329-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1995-226051), de 12 de Dezembro, e do [Decreto-Lei n.º 180/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1996-214238), de 25 de Setembro), incluído na subsecção relativa aos «actos das partes», que dispõe:
 
 «1 - Os articulados, requerimentos, respostas e as peças referentes a quaisquer actos que devam ser praticados por escrito pelas partes no processo podem ser entregues na secretaria judicial ou a esta remetidos pelo correio, sob registo, acompanhados dos documentos e duplicados necessários, valendo, neste caso, como data do acto processual a da efectivação do respectivo registo postal.
 
 3 - Podem ainda as partes praticar actos processuais através de telecópia ou por meios telemáticos, nos termos previstos em diploma regulamentar.»
 
-###### Artigo 3.º do [Decreto-Lei n.º 28/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1992-165063), de 27 de Fevereiro (no qual se encontra regulada a utilização de telecópia também no domínio do processo penal), formulado deste modo:
+Artigo 3.º do [Decreto-Lei n.º 28/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1992-165063), de 27 de Fevereiro (no qual se encontra regulada a utilização de telecópia também no domínio do processo penal), formulado deste modo:
 
 «O disposto nos artigos anteriores é também aplicável aos actos praticados em processos de natureza criminal, desde que se mostre compatível com a observância dos princípios do processo penal, designadamente do disposto no artigo 86.º do Código de Processo Penal.»
 
-###### Artigo 143.º, n.º 1, do diploma citado, com a epígrafe «Quando se praticam os actos», com a seguinte redacção:
+Artigo 143.º, n.º 1, do diploma citado, com a epígrafe «Quando se praticam os actos», com a seguinte redacção:
 
 «Não se praticam actos processuais nos dias em que os tribunais estiverem encerrados, nem durante o período de férias judiciais.»
 
-###### Artigo 103.º, n.º 1, inserido no título III («Do tempo dos actos e da aceleração do processo - Quando se praticam os actos»), do Código de Processo Penal, cujo conteúdo é o seguinte:
+Artigo 103.º, n.º 1, inserido no título III («Do tempo dos actos e da aceleração do processo - Quando se praticam os actos»), do Código de Processo Penal, cujo conteúdo é o seguinte:
 
 «Os actos processuais praticam-se nos dias úteis, às horas de expediente dos serviços de justiça e fora do período de férias judiciais.»
 
-###### Artigo 104.º, n.º 1 («Contagem dos actos processuais»), do mesmo Código, que rege assim:
+Artigo 104.º, n.º 1 («Contagem dos actos processuais»), do mesmo Código, que rege assim:
 
 «Aplicam-se à contagem dos prazos para a prática de actos processuais as disposições da lei do processo civil.»
 
-###### Artigo 4.º, ainda do referido diploma, dispondo que:
+Artigo 4.º, ainda do referido diploma, dispondo que:
 
 «Nos casos omissos, quando as disposições deste Código não puderem aplicar-se por analogia, observam-se as normas do processo civil que se harmonizem como processo penal e, na falta delas, aplicam-se os princípios gerais do processo penal.»
 

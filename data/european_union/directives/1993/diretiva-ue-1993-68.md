@@ -31,7 +31,8 @@ entry_into_force_dates:
 - '1993-08-02'
 end_of_validity_date: '2007-07-19'
 legal_status: in_force
-notes: []
+notes:
+- 'Fonte sem texto: o EUR-Lex tem versões consolidadas deste ato, mas nenhuma em português (verificado em 2026-10-22).'
 language: por
 version:
   kind: original

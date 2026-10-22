@@ -37,6 +37,66 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-01-01'
+version_history:
+  file: regulamento-ue-2006-842.versoes.json
+  count: 3
+  source_lastmod: '2015-01-01'
+  versions:
+  - date: '2006-06-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-12-11'
+    amending: null
+    amending_title: Regulamento (CE) n. o 1137/2008 do Parlamento Europeu e do Conselho de 22 de Outubro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Confinamento
+    - Altera Artigo 5.º — Formação e certificação
+    - Altera Artigo 6.º — Comunicação de dados
+    - Altera Artigo 7.º — Rotulagem
+    - Altera Artigo 9.º — Colocação no mercado
+    - Altera Artigo 10.º — Revisão
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º — Comité
+    - Altera Artigo 15.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita PARTE 1
+    - Adita Gases fluorados com efeito de estufa a que se refere o n.º 1 do artigo 2.º
+    - Adita PARTE 2
+    - Adita Método de cálculo do potencial de aquecimento global (PAG) de uma preparação
+    - Adita ANEXO II
+    - Adita Proibições de colocação no mercado nos termos do artigo 9.º
+  - date: '2015-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Confinamento
+    - Suprime Artigo 4.º — Recuperação
+    - Suprime Artigo 5.º — Formação e certificação
+    - Suprime Artigo 6.º — Comunicação de dados
+    - Suprime Artigo 7.º — Rotulagem
+    - Suprime Artigo 8.º — Controlo da utilização
+    - Suprime Artigo 9.º — Colocação no mercado
+    - Suprime Artigo 10.º — Revisão
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º — Comité
+    - Suprime Artigo 13.º — Sanções
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º — Entrada em vigor
+    - Suprime ANEXO I
+    - Suprime PARTE 1
+    - Suprime Gases fluorados com efeito de estufa a que se refere o n.º 1 do artigo 2.º
+    - Suprime PARTE 2
+    - Suprime Método de cálculo do potencial de aquecimento global (PAG) de uma preparação
+    - Suprime ANEXO II
+    - Suprime Proibições de colocação no mercado nos termos do artigo 9.º
+    - Suprime Notas
 identifiers:
   celex: 32006R0842
   eli: http://data.europa.eu/eli/reg/2006/842/oj
@@ -51,7 +111,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/bb416ecc-ee1b-4de7-a63f-a9e00ca25625.0017
   content_url: http://publications.europa.eu/resource/cellar/83147a8f-a622-4826-a343-5a8ff7725714.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R0842-20150101
-  retrieved_at: '2026-10-22T02:40:39Z'
+  retrieved_at: '2026-10-22T17:38:49Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-21T10:20:17.570+01:00'
 integrity:
@@ -60,9 +120,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:39Z'
-  notes: Texto consolidado 02006R0842-20150101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:38:49Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2006-842.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -200,16 +260,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:39Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T17:38:49Z'
+  warnings: []
   errors: []
 ---
 

@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 26/1991, 1º Suplemento, Série I-A de 1991-01-31
   number: '26'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 512-(2) a 512-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/026a01/00020003.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/5/1991/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-1991-242040
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-09T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b4a851d547fb768496d90cab608e7a5d0af63da28f94d989c1d1f467a9c47c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 817e3a0d239ba5dc706d47598713362e7b7c676e920ea4209667c3fa9c802a00
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,21 +78,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/5/1991/01/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/5/1991/01/08/p/dre
+- type: cites
+  target: pt:dre:693782:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:344459:por
+  label: "Declarada sem efeito pela DECL-RECT.103/91.09.05.1991.PCM, DR.IS-A [106]2ºSupl de 09.05.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/103-1991-344459
+  date: '1991-05-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:05Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 5/91
+# Declaração de rectificação n.º 5/91
 
 Para os devidos efeitos se declara que o [Decreto-Lei n.º 5/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1991-693782), publicado no Diário da República, 1.ª-A série, n.º 6, de 8 de Janeiro de 1991, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 

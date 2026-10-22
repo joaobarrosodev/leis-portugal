@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 2/2023, 1º Suplemento, Série I de 2023-01-03
   number: '2'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 38-(2) a 38-(89)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/1-a/2023/01/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1-a-2023-205690984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-01-03T00:00:00Z'
+  retrieved_at: '2026-10-22T19:14:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75a556b79486a0f652ae3c9b76b3a0aa589626eb0cceeb4fbbf4e54f712ded2d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cbc572a197d6ecdc905e9d0a287daf69cd1fc1f0b729271ab24d55054e1c8314
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:14:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ação Social
 - Administração Central
 - Despesas Públicas
-- Ação Social
-- Orçamento Geral do Estado
 - Orçamento
-- Receita
+- Orçamento Geral do Estado
 - Proteção Social
+- Receita
 - Segurança Social
 relationships:
 - type: cites
@@ -82,16 +82,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/24-d/2022/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/24-d/2022/12/30/p/dre
+- type: cites
+  target: pt:dre:205557192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552033:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:14:03Z'
   warnings: []
   errors: []
 ---
@@ -108,37 +116,37 @@ MAPA 1
 
 Mapa das despesas por missão de base orgânica, desagregadas por programas dos subsetores da Administração Central e da Segurança Social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 MAPA 2
 
 Mapa relativo à classificação funcional das despesas do subsetor da Administração Central
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 MAPA 3
 
 Mapa relativo à classificação económica das despesas do subsetor da Administração Central
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 MAPA 4
 
 Mapa relativo à classificação orgânica das despesas do subsetor da Administração Central
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 MAPA 5
 
 Mapa relativo à classificação económica das receitas públicas do subsetor da Administração Central
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 MAPA 6
 
 Mapa relativo às despesas com vinculações externas e despesas obrigatórias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 Orçamento da Segurança Social
 
@@ -146,27 +154,27 @@ Mapa 7 - Mapa relativo à classificação funcional das despesas de cada sistema
 
 Sistema de Proteção Social de Cidadania - Subsistema de Solidariedade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 Sistema de Proteção Social de Cidadania - Subsistema de Ação Social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 Sistema Previdencial - Repartição
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 Sistema Previdencial - Capitalização
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 Sistema de Regimes Especiais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 Total do subsetor da Segurança Social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 Orçamento do Subsetor da Segurança Social
 
@@ -176,31 +184,31 @@ Mapa relativo à classificação económica das despesas de cada sistema e subsi
 
 Despesas do Sistema de Proteção Social de Cidadania - Subsistema de Solidariedade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 Despesas do Sistema de Proteção Social de Cidadania - Subsistema de Proteção Familiar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 Despesas do Sistema de Proteção Social de Cidadania - Subsistema de Ação Social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 Despesas do Sistema Previdencial - Regime de Repartição
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 Despesas do Sistema Previdencial - Regime de Capitalização
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 Despesas do Sistema Regimes Especiais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 Despesas do total do subsetor da Segurança Social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 Orçamento da Segurança Social - 2023
 
@@ -212,7 +220,7 @@ Mapa relativo à classificação económica das despesas de cada sistema e subsi
 
 Despesas do Sistema de Proteção Social de Cidadania - Subsistema de Ação Social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 Orçamento do Subsetor da Segurança Social
 
@@ -222,31 +230,31 @@ Mapa relativo à classificação económica das receitas de cada sistema e subsi
 
 Receitas do Sistema de Proteção Social de Cidadania - Subsistema de Solidariedade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 Receitas do Sistema de Proteção Social de Cidadania - Subsistema de Proteção Familiar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 Receitas do Sistema de de Proteção Social de Cidadania - Subsistema de Ação Social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 Receitas do Sistema Previdencial - Repartição
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 Receitas do Sistema Previdencial - Capitalização
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 Receitas do Sistema Regimes Especiais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 Receitas do total do subsetor da Segurança Social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 Orçamento da Segurança Social - 2023
 
@@ -258,7 +266,7 @@ Mapa relativo à classificação económica das receitas de cada sistema e subsi
 
 Receitas do Sistema de de Proteção Social de Cidadania - Subsistema de Ação Social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 MAPA 10
 
@@ -266,23 +274,23 @@ RECEITAS TRIBUTÁRIAS CESSANTES DOS SUBSECTORES DA ADMINISTRAÇÃO CENTRAL E DA 
 
 ADMINISTRAÇÃO CENTRAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 SEGURANÇA SOCIAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 MAPA 11
 
 Transferências para as regiões autónomas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 MAPA 12 - TRANSFERÊNCIAS PARA OS MUNICÍPIOS
 
 PARTICIPAÇÃO DOS MUNICÍPIOS NOS IMPOSTOS DO ESTADO - 2023
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 MAPA 13
 
@@ -290,7 +298,7 @@ TRANSFERÊNCIAS PARA AS FREGUESIAS
 
 PARTICIPAÇÃO DAS FREGUESIAS NOS IMPOSTOS DO ESTADO - 2023
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
 
 MAPA 14
 
@@ -298,4 +306,6 @@ ANO ECONÓMICO DE 2023
 
 MAPA RELATIVO ÀS RESPONSABILIDADES CONTRATUAIS PLURIANUAIS DAS ENTIDADES DOS SUBSECTORES DA ADMINISTRAÇÃO CENTRAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00201/0000200089.pdf)
+
+116029822

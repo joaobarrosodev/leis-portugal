@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/23501/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/38-b/2024/12/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/38-b-2024-898989663
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-04T00:00:00Z'
+  retrieved_at: '2026-10-22T19:15:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92ed920b0d9e3dc8c53320c9d1380af014a079724efa88eb5f4c4bab1b727cb9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 58270b2f7099a5a404e9465235b56012a9c30abf3f0c48b43ffb4f976c3c03de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:15:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Incêndio
-- Calendário Venatório
 - CAÇA
-- Regulamentação de Atos Legislativos
+- Calendário Venatório
+- Espécie Protegida
+- Incêndio
 - Javali
 - Licenciamento
 - Ordenamento Cinegético
-- Espécie Protegida
+- Regulamentação de Atos Legislativos
 - Taxa
 - ZONA de CAÇA
 relationships:
@@ -109,16 +109,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/736/2001/07/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/736/2001/07/17/p/dre
+- type: cites
+  target: pt:dre:159432383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:853384722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:898553934:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:portaria:67/2024
+  label: Retifica o preâmbulo, o artigo 3.º (na parte em que altera o anexo da Portaria n.º 67/2024, de 22 de fevereiro) e
+    o artigo 4.º (na parte em que adita o artigo 3.º-A à Portaria n.º 67/2024, de 22 de fevereiro) da Portaria n.º 309/2024/1,
+    de 2 de dezembro, Diário da República n.º 233/2024, Série I
+  source: null
+  date: '2024-12-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:15:20Z'
   warnings: []
   errors: []
 ---
@@ -137,80 +176,80 @@ deve ler-se:
 
 2 - No artigo 3.º, alteração ao anexo da [Portaria n.º 67/2024](https://diariodarepublica.pt/dr/detalhe/portaria/67-2024-853384722), de 22 de fevereiro, onde se lê:
 
-| Espécie | Terreno ordenado | Terreno não ordenado | Terreno ordenado | Terreno não ordenado |
+| Espécie | Período venatório | Limites diários<br>de abate por caçador |  |  |
 | --- | --- | --- | --- | --- |
-| Espécie | Período venatório | Período venatório | Limites diários de abate por caçador | Limites diários de abate por caçador |
+| Terreno ordenado | Terreno não ordenado | Terreno<br>ordenado | Terreno<br>não ordenado |  |
 | Coelho-bravo (Oryctolagus cuniculus) | De 1 de setembro a 31 de dezembro | Do 1.º domingo de outubro ao último domingo de novembro | (3) | 1 |
-| Lebre (Lepus granatensis) (<sup>1</sup>) | De 1 de setembro a 31 de dezembro | Do 1.º domingo de outubro ao último domingo de novembro | (3) | 1 |
-| Raposa (Vulpes vulpes) | De 1 de outubro a 28 de fevereiro | Do 1.º domingo de outubro ao último domingo de dezembro | (3) | 1 |
-| Saca-rabos (Herpestes ichneumon) | De 1 de outubro a 28 de fevereiro | Do 1.º domingo de outubro ao último domingo de dezembro | (3) | 1 |
-| Perdiz-vermelha (Alectoris rufa) | De 1 de outubro a 31 de janeiro |  | (3) | 1 |
-| Faisão (Phasianus colchicus) | De 1 de outubro a 31 de janeiro | - | (3) | – |
-| Pombo-da-rocha (Columba livia) (<sup>2</sup>) | Do 3.º domingo de agosto a 31 de dezembro | Do 1.º domingo de outubro ao último domingo de dezembro | 25 | 15 |
-| Pega-rabuda (Pica pica) | Do 3.º domingo de agosto a 28 de fevereiro | Do 1.º domingo de outubro ao último domingo de dezembro | (<sup>3</sup>) | 1 |
+| Lebre (Lepus granatensis) (1) | 1 |  |  |  |
+| Raposa (Vulpes vulpes) | De 1 de outubro a 28 de fevereiro | Do 1.º domingo de outubro ao último domingo de dezembro | 1 |  |
+| Saca-rabos (Herpestes ichneumon) | 1 |  |  |  |
+| Perdiz-vermelha (Alectoris rufa) | De 1 de outubro a 31 de janeiro |  | 1 |  |
+| Faisão (Phasianus colchicus) | - | – |  |  |
+| Pombo-da-rocha (Columba livia) (2) | Do 3.º domingo de agosto a 31 de dezembro | Do 1.º domingo de outubro ao último domingo de dezembro | 25 | 15 |
+| Pega-rabuda (Pica pica) | Do 3.º domingo de agosto a 28 de fevereiro | (3) | 1 |  |
 | Gralha-preta (Corvus corone) |  |  |  | 1 |
 | Frisada (Anas strepera) | De 1 de outubro a 20 de janeiro | - | 1 | – |
-| Pato-trombeteiro (Anas clypeata) | De 1 de outubro a 20 de janeiro |  | 1 |  |
-| Zarro-comum (Aythya ferina) | De 1 de outubro a 20 de janeiro |  | 1 |  |
-| Zarro-negrinha (Aythya fuligula) | De 1 de outubro a 20 de janeiro |  | 1 |  |
-| Marrequinha (Anas crecca) | De 1 de outubro a 20 de janeiro |  | 10 |  |
-| Arrabio (Anas acuta) | De 1 de outubro a 20 de janeiro |  | 10 |  |
-| Piadeira (Anas penélope) | De 1 de outubro a 20 de janeiro |  | 10 |  |
-| Pato-real (Anas platyrhynchos) | Do 3.º domingo de agosto a 20 de janeiro |  | 10 |  |
-| Galeirão (Fulica atra) | Do 3.º domingo de agosto a 20 de janeiro |  | 10 |  |
-| Galinha-d’água (Gallinula chloropus) | Do 3.º domingo de agosto a 20 de janeiro |  | 5 |  |
+| Pato-trombeteiro (Anas clypeata) |  |  |  |  |
+| Zarro-comum (Aythya ferina) |  |  |  |  |
+| Zarro-negrinha (Aythya fuligula) |  |  |  |  |
+| Marrequinha (Anas crecca) |  | 10 |  |  |
+| Arrabio (Anas acuta) |  |  |  |  |
+| Piadeira (Anas penélope) |  |  |  |  |
+| Pato-real (Anas platyrhynchos) | Do 3.º domingo de agosto a 20 de janeiro |  |  |  |
+| Galeirão (Fulica atra) |  |  |  |  |
+| Galinha-d’água (Gallinula chloropus) |  | 5 |  |  |
 | Tarambola-dourada (Pluvialis apricaria) | De 1 de novembro a 20 de janeiro |  | 5 |  |
 | Narceja-comum (Gallinago gallinago) | De 1 de novembro a 20 de fevereiro |  | 8 |  |
-| Narceja-galega (Lymnocryptes minimus) | De 1 de novembro a 20 de fevereiro |  | 8 |  |
+| Narceja-galega (Lymnocryptes minimus) |  |  |  |  |
 | Galinhola (Scolopax rusticola) | De 1 de novembro a 10 de fevereiro |  | 3 |  |
-| Rola-comum (Streptopelia turtur) | Nos 3.º e 4.º domingos de agosto e nos 1.º e 2.º domingos de setembro (<sup>4</sup>) |  | 4 |  |
+| Rola-comum (Streptopelia turtur) | Nos 3.º e 4.º domingos de agosto e nos 1.º e 2.º domingos de setembro (4) |  | 4 |  |
 | Codorniz (Coturnix coturnix) | De 1 de setembro a 30 de novembro |  | 10 |  |
 | Pombo-bravo (Columba oenas) | Do 3.º domingo de agosto a 20 de fevereiro |  | 50 |  |
-| Pombo-torcaz (Columba palumbus) | Do 3.º domingo de agosto a 20 de fevereiro |  | 50 |  |
+| Pombo-torcaz (Columba palumbus) |  |  |  |  |
 | Tordo-zornal (Turdus pilaris) | De 1 de novembro a 20 de fevereiro |  | 40 |  |
-| Tordo-comum (Turdus philomelos) | De 1 de novembro a 20 de fevereiro |  | 40 |  |
-| Tordo-ruivo (Turdus iliacus) | De 1 de novembro a 20 de fevereiro |  | 40 |  |
-| Tordeia (Turdus viscivorus) | De 1 de novembro a 20 de fevereiro |  | 40 |  |
-| Estorninho-malhado (Sturnus vulgaris) | De 1 de novembro a 20 de fevereiro |  | 40 |  |
-| Javali (Sus scrofa) | De 1 de junho a 31 de maio |  | (<sup>3</sup>) |  |
-| Gamo (Dama dama) | De 1 de junho a 31 de maio |  | (<sup>3</sup>) |  |
-| Veado (Cervus elaphus) | De 1 de junho a 31 de maio |  | (<sup>3</sup>) |  |
-| Corço (Capreolus capreolus) | De 1 de junho a 31 de maio |  | (<sup>3</sup>) |  |
-| Muflão (Ovis amon) | De 1 de junho a 31 de maio |  | (<sup>3</sup>) |  |
+| Tordo-comum (Turdus philomelos) |  |  |  |  |
+| Tordo-ruivo (Turdus iliacus) |  |  |  |  |
+| Tordeia (Turdus viscivorus) |  |  |  |  |
+| Estorninho-malhado (Sturnus vulgaris) |  |  |  |  |
+| Javali (Sus scrofa) | De 1 de junho a 31 de maio |  | (3) |  |
+| Gamo (Dama dama) |  |  |  |  |
+| Veado (Cervus elaphus) |  |  |  |  |
+| Corço (Capreolus capreolus) |  |  |  |  |
+| Muflão (Ovis amon) |  |  |  |  |(1) A caça à lebre, a corricão e por cetraria, tem início a 1 de setembro e termina a 28 de fevereiro.
 
-(<sup>2</sup>) A caça a esta espécie apenas é permitida nos municípios identificados na Portaria n.º 736/2001, de 17 de julho, corrigida pela Declaração de Retificação n.º 14-J/2001, de 22 de novembro.
+(2) A caça a esta espécie apenas é permitida nos municípios identificados na Portaria n.º 736/2001, de 17 de julho, corrigida pela Declaração de Retificação n.º 14-J/2001, de 22 de novembro.
 
-(<sup>3</sup>) Para as ZCM os limites são os do plano anual de exploração, para as ZCT e ZCA, de acordo com os planos de ordenamento e exploração cinegética.
+(3) Para as ZCM os limites são os do plano anual de exploração, para as ZCT e ZCA, de acordo com os planos de ordenamento e exploração cinegética.
 
-(<sup>4</sup>) A caça à rola-comum apenas é permitida durante o período da manhã, até às 13 horas.
+(4) A caça à rola-comum apenas é permitida durante o período da manhã, até às 13 horas.
 
 deve ler-se:
 
-| Espécie | Terreno ordenado | Terreno não ordenado | Terreno ordenado | Terreno não ordenado |
+| Espécie | Período venatório | Limites diários<br>de abate por caçador |  |  |
 | --- | --- | --- | --- | --- |
-| Espécie | Período venatório | Período venatório | Limites diários de abate por caçador | Limites diários de abate por caçador |
-| Coelho-bravo (Oryctolagus cuniculus) | De 1 de setembro a 31 de dezembro | Do 1.º domingo de outubro ao último domingo de novembro | (<sup>3</sup>) | 1 |
-| Lebre (Lepus granatensis) (<sup>1</sup>) | De 1 de setembro a 31 de dezembro | Do 1.º domingo de outubro ao último domingo de novembro | (<sup>3</sup>) | 1 |
-| Raposa (Vulpes vulpes) | De 1 de outubro a 28 de fevereiro | Do 1.º domingo de outubro ao último domingo de dezembro | (<sup>3</sup>) | 1 |
-| Saca-rabos (Herpestes ichneumon) | De 1 de outubro a 28 de fevereiro | Do 1.º domingo de outubro ao último domingo de dezembro | (<sup>3</sup>) | 1 |
-| Perdiz-vermelha (Alectoris rufa) | De 1 de outubro a 31 de janeiro | Do 1.º domingo de outubro ao último domingo de dezembro | (<sup>3</sup>) | 1 |
-| Faisão (Phasianus colchicus) | De 1 de outubro a 31 de janeiro | - | (<sup>3</sup>) | – |
+| Terreno ordenado | Terreno não ordenado | Terreno<br>ordenado | Terreno<br>não ordenado |  |
+| Coelho-bravo (Oryctolagus cuniculus) | De 1 de setembro a 31 de dezembro | Do 1.º domingo de outubro ao último domingo de novembro | (3) | 1 |
+| Lebre (Lepus granatensis) (1) | 1 |  |  |  |
+| Raposa (Vulpes vulpes) | De 1 de outubro a 28 de fevereiro | Do 1.º domingo de outubro ao último domingo de dezembro | 1 |  |
+| Saca-rabos (Herpestes ichneumon) | 1 |  |  |  |
+| Perdiz-vermelha (Alectoris rufa) | De 1 de outubro a 31 de janeiro | 1 |  |  |
+| Faisão (Phasianus colchicus) | - | – |  |  |
 | Pombo-da-rocha (Columba livia) (2) | Do 3.º domingo de agosto a 31 de dezembro | Do 1.º domingo de outubro ao último domingo de dezembro | 25 | 15 |
-| Pega-rabuda (Pica pica) | Do 3.º domingo de agosto a 28 de fevereiro | Do 1.º domingo de outubro ao último domingo de dezembro | (<sup>3</sup>) | 1 |
-| Gralha-preta (Corvus corone) | Do 3.º domingo de agosto a 28 de fevereiro | Do 1.º domingo de outubro ao último domingo de dezembro | (<sup>3</sup>) | 1 |
+| Pega-rabuda (Pica pica) | Do 3.º domingo de agosto a 28 de fevereiro | (3) | 1 |  |
+| Gralha-preta (Corvus corone) | 1 |  |  |  |
 | Frisada (Anas strepera) | De 1 de outubro a 20 de janeiro | - | 1 | – |
-| Pato-trombeteiro (Anas clypeata) | De 1 de outubro a 20 de janeiro |  | 1 |  |
-| Zarro-comum (Aythya ferina) | De 1 de outubro a 20 de janeiro |  | 1 |  |
-| Zarro-negrinha (Aythya fuligula) | De 1 de outubro a 20 de janeiro |  | 1 |  |
-| Marrequinha (Anas crecca) | De 1 de outubro a 20 de janeiro |  | 10 |  |
-| Arrabio (Anas acuta) | De 1 de outubro a 20 de janeiro |  | 10 |  |
-| Piadeira (Anas penélope) | De 1 de outubro a 20 de janeiro |  | 10 |  |
-| Pato-real (Anas platyrhynchos) | Do 3.º domingo de agosto a 20 de janeiro |  | 10 |  |
-| Galeirão (Fulica atra) | Do 3.º domingo de agosto a 20 de janeiro |  | 10 |  |
-| Galinha-d’água (Gallinula chloropus) | Do 3.º domingo de agosto a 20 de janeiro |  | 5 |  |
+| Pato-trombeteiro (Anas clypeata) |  |  |  |  |
+| Zarro-comum (Aythya ferina) |  |  |  |  |
+| Zarro-negrinha (Aythya fuligula) |  |  |  |  |
+| Marrequinha (Anas crecca) |  | 10 |  |  |
+| Arrabio (Anas acuta) |  |  |  |  |
+| Piadeira (Anas penélope) |  |  |  |  |
+| Pato-real (Anas platyrhynchos) | Do 3.º domingo de agosto a 20 de janeiro |  |  |  |
+| Galeirão (Fulica atra) |  |  |  |  |
+| Galinha-d’água (Gallinula chloropus) |  | 5 |  |  |
 | Tarambola-dourada (Pluvialis apricaria) | De 1 de novembro a 20 de janeiro |  | 5 |  |
 | Narceja-comum (Gallinago gallinago) | De 1 de novembro a 20 de fevereiro |  | 8 |  |
-| Narceja-galega (Lymnocryptes minimus) | De 1 de novembro a 20 de fevereiro |  | 8 |  |
+| Narceja-galega (Lymnocryptes minimus) |  |  |  |  |
 | Galinhola (Scolopax rusticola) | De 1 de novembro a 10 de fevereiro |  | 3 |  |
 | Codorniz (Coturnix coturnix) | De 1 de setembro a 30 de novembro |  | 10 |  |
 | Pombo-bravo (Columba oenas) | Do 3.º domingo de agosto a 20 de fevereiro |  | 50 |  |
@@ -220,17 +259,17 @@ deve ler-se:
 | Tordo-ruivo (Turdus iliacus) |  |  |  |  |
 | Tordeia (Turdus viscivorus) |  |  |  |  |
 | Estorninho-malhado (Sturnus vulgaris) |  |  |  |  |
-| Javali (Sus scrofa) | De 1 de junho a 31 de maio |  | (<sup>3</sup>) |  |
-| Gamo (Dama dama) | De 1 de junho a 31 de maio |  | (<sup>3</sup>) |  |
-| Veado (Cervus elaphus) | De 1 de junho a 31 de maio |  | (<sup>3</sup>) |  |
-| Corço (Capreolus capreolus) | De 1 de junho a 31 de maio |  | (<sup>3</sup>) |  |
-| Muflão (Ovis amon) | De 1 de junho a 31 de maio |  | (<sup>3</sup>) |  |
+| Javali (Sus scrofa) | De 1 de junho a 31 de maio |  | (3) |  |
+| Gamo (Dama dama) |  |  |  |  |
+| Veado (Cervus elaphus) |  |  |  |  |
+| Corço (Capreolus capreolus) |  |  |  |  |
+| Muflão (Ovis amon) |  |  |  |  |
 
-(<sup>1</sup>) A caça à lebre, a corricão e por cetraria, tem início a 1 de setembro e termina a 28 de fevereiro.
+(1) A caça à lebre, a corricão e por cetraria, tem início a 1 de setembro e termina a 28 de fevereiro.
 
-(<sup>2</sup>) A caça a esta espécie apenas é permitida nos municípios identificados na Portaria n.º 736/2001, de 17 de julho, corrigida pela Declaração de Retificação n.º 14-J/2001, de 22 de novembro.
+(2) A caça a esta espécie apenas é permitida nos municípios identificados na Portaria n.º 736/2001, de 17 de julho, corrigida pela Declaração de Retificação n.º 14-J/2001, de 22 de novembro.
 
-(<sup>3</sup>) Para as ZCM os limites são os do plano anual de exploração, para as ZCT e ZCA, de acordo com os planos de ordenamento e exploração cinegética.
+(3) Para as ZCM os limites são os do plano anual de exploração, para as ZCT e ZCA, de acordo com os planos de ordenamento e exploração cinegética.
 
 3 - No n.º 1 do artigo 3.º-A, onde se lê:
 
@@ -241,3 +280,7 @@ deve ler-se:
 «1 - Na época venatória 2024-2025, com exceção da caça ao javali pelo processo de espera em terrenos ordenados, é proibido o exercício da caça nas áreas ardidas em todas as zonas de caça afetadas pelos incêndios ocorridos de 15 a 19 de setembro, que tenham ocorrido nas freguesias identificadas no n.º 1 da Resolução do Conselho de Ministros n.º 130-A/2024, de 27 de setembro, e incêndios de área superior a 1000 hectares ocorridos nos concelhos de Miranda do Douro e Vimioso.»
 
 Secretaria-Geral, 4 de dezembro de 2024. - O Secretário-Geral, David Xavier.
+
+118431407
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:20px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl7 { height:28px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-s<arel='nofollownoopenernoreferrer'target='_blank'href='/dr/detalhe/portaria/736-2001-394327'title='Portarian.º736/2001'>Portarian.º736/2001</a>-align:middle; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl11 { min-height:18px; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl15 { text-align:justify; text-align-last:justify; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); <arel='nofollownoopenernoreferrer'target='_blank'href='/dr/detalhe/portaria/736-2001-394327'title='Portarian.º736/2001'>Portarian.º736/2001</a>1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl18 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl19 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl20 { min-height:28px; } .Tbl21 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl22 { border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl23 { border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl24 { min-height:37px; } .Tbl25 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl26 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl27 { min-height:33px; }

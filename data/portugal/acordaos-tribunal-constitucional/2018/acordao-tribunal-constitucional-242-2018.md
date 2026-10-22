@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/06/10900/0240802427.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/242/2018/06/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/242-2018-115460929
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-06-07T00:00:00Z'
+  retrieved_at: '2026-10-22T18:24:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 001955fe669891c91dd42a5f69d33a7e28db086ace5c55ced0c23ce1ca19e037
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5cc8bf561a27b68d1c5e6a09071c4bfc48452c5cd03edeb7949561b379117afa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:24:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -119,16 +119,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2018/03/02/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2018/03/02/p/dre
+- type: cites
+  target: pt:dre:114796179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:142569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670072:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:24:48Z'
   warnings: []
   errors: []
 ---
@@ -287,7 +351,7 @@ Esta jurisprudência assenta em dois argumentos principais.
 
 Em primeiro lugar, não obstante reconhecer que a Constituição não impõe ao legislador um tratamento que abstraia de todas as diferenças existentes entre os diversos tipos de sujeitos jurídicos nem da relevância que para os mesmos tem a concessão de proteção jurídica enquanto dimensão do direito de acesso aos tribunais, entendeu o Tribunal não poder fazer-se a consideração dessas diferenças para concessão da proteção jurídica de modo tal que a impeça em absoluto ou de modo desproporcionado. Ora, é justamente isso que sucede na norma posta em crise, já que o legislador, de forma absoluta e liminar, proíbe o acesso à proteção jurídica de toda uma categoria de pessoas jurídicas, sem admitir em caso algum a demonstração da sua situação de insuficiência económica, seja qual for o circunstancialismo envolvente de tais sujeitos.
 
-Em segundo lugar, a jurisprudência mais recente (Acórdãos n.os 591/2016, 86/2017, 266/2017) convoca a interpretação que o Tribunal de Justiça fez do artigo 47.º, terceiro parágrafo, da Carta dos Direitos Fundamentais da União Europeia ("CDFUE") no seu Acórdão de 22 de dezembro de 2010, DEB Deutsche Energiehandels-und Beratungsgesellschaft mbH c. República Federal da Alemanha, Processo C-279/09 (acessível a partir de http://curia.europa.eu/juris/liste.jsf?language=en&num=C-279/09) - no sentido de que tal norma se opõe à exclusão em termos gerais e abstratos do acesso de uma dada categoria de sujeitos de direito, como as pessoas coletivas com fins lucrativos, ao apoio judiciário - para determinar, no quadro da visão sistémica referida pelo Acórdão n.º 216/2010, a necessidade de estender tal proteção também às áreas não cobertas pelo direito da União Europeia, sob pena de se gerar uma desigualdade arbitrária entre a posição jurídica das pessoas coletivas que litiguem em áreas cobertas ou não cobertas por normas de direito da União Europeia.
+Em segundo lugar, a jurisprudência mais recente (Acórdãos n.os 591/2016, 86/2017, 266/2017) convoca a interpretação que o Tribunal de Justiça fez do artigo 47.º, terceiro parágrafo, da Carta dos Direitos Fundamentais da União Europeia ("CDFUE") no seu Acórdão de 22 de dezembro de 2010, DEB Deutsche Energiehandels-und Beratungsgesellschaft mbH c. República Federal da Alemanha, Processo C-279/09 (acessível a partir de http://curia.europa.eu/juris/liste.jsf?language=en#=C-279/09) - no sentido de que tal norma se opõe à exclusão em termos gerais e abstratos do acesso de uma dada categoria de sujeitos de direito, como as pessoas coletivas com fins lucrativos, ao apoio judiciário - para determinar, no quadro da visão sistémica referida pelo Acórdão n.º 216/2010, a necessidade de estender tal proteção também às áreas não cobertas pelo direito da União Europeia, sob pena de se gerar uma desigualdade arbitrária entre a posição jurídica das pessoas coletivas que litiguem em áreas cobertas ou não cobertas por normas de direito da União Europeia.
 
 12 - Uma primeira questão a resolver é a de saber se o direito à proteção jurídica em caso de insuficiência económica é atribuído pela Constituição às pessoas coletivas com fins lucrativos ou se, abinitio, se trata de um direito fundamental de que aquele círculo de sujeitos não pode ser titular.
 
@@ -445,11 +509,11 @@ E) A concessão de apoio judiciário a pessoas coletivas com fins lucrativos na 
 
 23 - Apesar de todas as diferenças existentes entre o artigo 20.º, n.º 1, in fine, da Constituição e o artigo 6.º, § 1, primeira frase, da CEDH («[q]ualquer pessoa tem direito a que a sua causa seja examinada, equitativa e publicamente [...] por um tribunal [...]»), a verdade é que a jurisprudência do TEDH tem vindo a reconhecer um direito à proteção jurídica ancorado naquele preceito, direito esse cuja titularidade não é negada às sociedades comerciais. Bem pelo contrário.
 
-Com efeito, e sem prejuízo de distinguir entre litígios civis e litígios penais, já que somente em relação a estes últimos se encontra expressamente previsto o apoio judiciário (cf. o artigo 6.º, § 3, alínea c), da CEDH), o TEDH salienta que a Convenção tem como fim proteger direitos concretos e efetivos, tais como o do acesso à justiça devido à importância do direito a um processo equitativo numa sociedade democrática. Ora, «é essencial à noção de processo equitativo, tanto no âmbito civil como no criminal, que uma parte tenha a possibilidade de defender eficazmente a sua causa junto de um tribunal e que beneficie das mesmas armas de que goza o seu adversário», deixando o citado artigo 6.º, § 1, ao Estado a escolha dos meios a utilizar para garantir tais direitos; a instituição de um sistema de apoio judiciário constitui um deles, mas há outros, como por exemplo, uma simplificação do processo (cf. entre muitos, o Acórdão de 15 de fevereiro de 2005, Steel e Morris c. Reino Unido (Queixa n.º 68416/01), §§ 59 e 60, e o Acórdão de 8 de novembro de 2016, [([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/10900/0240802427.pdf))](https://files.diariodarepublica.pt/1s/2018/06/10900/0240802427.pdf) e [([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/10900/0240802427.pdf))](https://files.diariodarepublica.pt/1s/2018/06/10900/0240802427.pdf) c. Lituânia (Queixa n.º 16580/09), § 43).
+Com efeito, e sem prejuízo de distinguir entre litígios civis e litígios penais, já que somente em relação a estes últimos se encontra expressamente previsto o apoio judiciário (cf. o artigo 6.º, § 3, alínea c), da CEDH), o TEDH salienta que a Convenção tem como fim proteger direitos concretos e efetivos, tais como o do acesso à justiça devido à importância do direito a um processo equitativo numa sociedade democrática. Ora, «é essencial à noção de processo equitativo, tanto no âmbito civil como no criminal, que uma parte tenha a possibilidade de defender eficazmente a sua causa junto de um tribunal e que beneficie das mesmas armas de que goza o seu adversário», deixando o citado artigo 6.º, § 1, ao Estado a escolha dos meios a utilizar para garantir tais direitos; a instituição de um sistema de apoio judiciário constitui um deles, mas há outros, como por exemplo, uma simplificação do processo (cf. entre muitos, o Acórdão de 15 de fevereiro de 2005, Steel e Morris c. Reino Unido (Queixa n.º 68416/01), §§ 59 e 60, e o Acórdão de 8 de novembro de 2016, [(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/10900/0240802427.pdf) e [(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/10900/0240802427.pdf) c. Lituânia (Queixa n.º 16580/09), § 43).
 
-De todo o modo, o direito de acesso à justiça não é absoluto, podendo ser sujeito a limitações de facto ou de direito, as quais não serão incompatíveis com o artigo 6.º, desde que, sem prejudicarem a própria essência do direito, prossigam um fim legítimo e desde que exista uma razoável relação de proporcionalidade entre os meios empregues e o fim prosseguido através da sua utilização (cf. [([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/10900/0240802427.pdf))](https://files.diariodarepublica.pt/1s/2018/06/10900/0240802427.pdf) e [([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/10900/0240802427.pdf))](https://files.diariodarepublica.pt/1s/2018/06/10900/0240802427.pdf), cit., § 44). A questão de saber se a atribuição de apoio judiciário é necessária para assegurar que o processo seja equitativo deve ser decidida em função dos factos e das circunstâncias particulares de cada caso (the specific facts and circumstances of each case) e depende, designadamente, da importância da causa para o requerente, da complexidade do direito e do procedimento aplicáveis, assim como da efetiva capacidade do requerente de defender a sua causa (cfr Steel e Morris, cit., § 61, e [([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/10900/0240802427.pdf))](https://files.diariodarepublica.pt/1s/2018/06/10900/0240802427.pdf) e [([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/10900/0240802427.pdf))](https://files.diariodarepublica.pt/1s/2018/06/10900/0240802427.pdf), cit., § 45). Assim, por exemplo, no caso [([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/10900/0240802427.pdf))](https://files.diariodarepublica.pt/1s/2018/06/10900/0240802427.pdf) e [([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/10900/0240802427.pdf))](https://files.diariodarepublica.pt/1s/2018/06/10900/0240802427.pdf), estando em causa o apoio judiciário requerido pela proprietária de uma empresa unipessoal de responsabilidade ilimitada (private unlimited liability company) e pelo seu marido destinado a causas conexas com a atividade profissional de cariz comercial da primeira, o TEDH considerou que os requerentes foram privados da oportunidade de apresentarem devidamente o seu caso aos tribunais nacionais, pelo que houve uma violação do artigo 6.º, § 1, da Convenção em virtude da recusa de prestação de apoio judiciário (cf. o respetivo § 54).
+De todo o modo, o direito de acesso à justiça não é absoluto, podendo ser sujeito a limitações de facto ou de direito, as quais não serão incompatíveis com o artigo 6.º, desde que, sem prejudicarem a própria essência do direito, prossigam um fim legítimo e desde que exista uma razoável relação de proporcionalidade entre os meios empregues e o fim prosseguido através da sua utilização (cf. [(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/10900/0240802427.pdf) e [(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/10900/0240802427.pdf), cit., § 44). A questão de saber se a atribuição de apoio judiciário é necessária para assegurar que o processo seja equitativo deve ser decidida em função dos factos e das circunstâncias particulares de cada caso (the specific facts and circumstances of each case) e depende, designadamente, da importância da causa para o requerente, da complexidade do direito e do procedimento aplicáveis, assim como da efetiva capacidade do requerente de defender a sua causa (cfr Steel e Morris, cit., § 61, e [(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/10900/0240802427.pdf) e [(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/10900/0240802427.pdf), cit., § 45). Assim, por exemplo, no caso [(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/10900/0240802427.pdf) e [(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/10900/0240802427.pdf), estando em causa o apoio judiciário requerido pela proprietária de uma empresa unipessoal de responsabilidade ilimitada (private unlimited liability company) e pelo seu marido destinado a causas conexas com a atividade profissional de cariz comercial da primeira, o TEDH considerou que os requerentes foram privados da oportunidade de apresentarem devidamente o seu caso aos tribunais nacionais, pelo que houve uma violação do artigo 6.º, § 1, da Convenção em virtude da recusa de prestação de apoio judiciário (cf. o respetivo § 54).
 
-24 - O TEDH reconhece igualmente a inexistência de um consenso ou mesmo de uma tendência consolidada entre os Estados Parte na Convenção quanto à atribuição de apoio judiciário a pessoas coletivas (com ou sem fins lucrativos) para litígios civis (v. as Decisões de 26 de agosto de 2008, VP Diffusion Sarl c. França (Queixa n.º 14565/04) e de 24 de novembro de 2009, C.M.V.M.C. O'LIMO c. Espanha (Queixa n.º 33732/05), §§ 11-14; cf. também [([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/10900/0240802427.pdf))](https://files.diariodarepublica.pt/1s/2018/06/10900/0240802427.pdf) e [([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/10900/0240802427.pdf))](https://files.diariodarepublica.pt/1s/2018/06/10900/0240802427.pdf), cit., § 46). Não obstante, também em relação a tais entidades, deve o sistema de proteção jurídica instituído funcionar de forma não arbitrária, não desproporcionada e sem pôr em causa a substância «do direito de acesso a um tribunal» (cf. VP Diffusion Sarl, cit., e C.M.V.M.C. O'LIMO, cit., § 23). E, por isso, naquelas decisões, estando em causa a legislação nacional que vedava o acesso de sociedades comerciais ao apoio judiciário, o TEDH analisou a compatibilidade com o artigo 6.º da CEDH apenas por referência aos critérios de restrição daquele direito, apreciando se, apesar da medida normativa, se manteve a efetividade da tutela jurisdicional das pessoas coletivas em causa. Ou seja, confirmando a respetiva titularidade por esse tipo de sujeitos, e deslocando a análise para os requisitos da sua restrição (v. C.M.V.M.C. O'LIMO, cit., §§ 25 a 27). Em especial, no caso VP Diffusion Sarl, o TEDH considerou que a «distinção jurídica estabelecida no regime francês de apoio judiciário entre pessoas físicas e pessoas morais, com ou sem fins lucrativos, fundada no regime fiscal do apoio judiciário, não é arbitrária. As explicações dadas pelo Governo francês a este respeito demonstram que no direito francês existe uma base objetiva - as regras relativas ao imposto sobre as sociedades - que permite às sociedades comerciais, mesmo que tenham dificuldades financeiras, fazer face às despesas de um processo judicial».
+24 - O TEDH reconhece igualmente a inexistência de um consenso ou mesmo de uma tendência consolidada entre os Estados Parte na Convenção quanto à atribuição de apoio judiciário a pessoas coletivas (com ou sem fins lucrativos) para litígios civis (v. as Decisões de 26 de agosto de 2008, VP Diffusion Sarl c. França (Queixa n.º 14565/04) e de 24 de novembro de 2009, C.M.V.M.C. O'LIMO c. Espanha (Queixa n.º 33732/05), §§ 11-14; cf. também [(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/10900/0240802427.pdf) e [(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/10900/0240802427.pdf), cit., § 46). Não obstante, também em relação a tais entidades, deve o sistema de proteção jurídica instituído funcionar de forma não arbitrária, não desproporcionada e sem pôr em causa a substância «do direito de acesso a um tribunal» (cf. VP Diffusion Sarl, cit., e C.M.V.M.C. O'LIMO, cit., § 23). E, por isso, naquelas decisões, estando em causa a legislação nacional que vedava o acesso de sociedades comerciais ao apoio judiciário, o TEDH analisou a compatibilidade com o artigo 6.º da CEDH apenas por referência aos critérios de restrição daquele direito, apreciando se, apesar da medida normativa, se manteve a efetividade da tutela jurisdicional das pessoas coletivas em causa. Ou seja, confirmando a respetiva titularidade por esse tipo de sujeitos, e deslocando a análise para os requisitos da sua restrição (v. C.M.V.M.C. O'LIMO, cit., §§ 25 a 27). Em especial, no caso VP Diffusion Sarl, o TEDH considerou que a «distinção jurídica estabelecida no regime francês de apoio judiciário entre pessoas físicas e pessoas morais, com ou sem fins lucrativos, fundada no regime fiscal do apoio judiciário, não é arbitrária. As explicações dadas pelo Governo francês a este respeito demonstram que no direito francês existe uma base objetiva - as regras relativas ao imposto sobre as sociedades - que permite às sociedades comerciais, mesmo que tenham dificuldades financeiras, fazer face às despesas de um processo judicial».
 
 Estes mesmos princípios foram reafirmados no Acórdão de 22 de março de 2012, Granos Organicos Nacionales S. A. c. República Federal da Alemanha (Queixa n.º 19508/07), nomeadamente nos seus §§ 45-47. Porém, nesta decisão, o TEDH foi mais longe e, seguindo neste particular análise similar à do Tribunal de Justiça no caso DEB (cf., em especial, o § 42 do Acórdão proferido neste caso; v. infra a Secção F), examinou os próprios critérios de restrição invocados pela instância nacional no caso concreto, não se satisfazendo com mera invocação dos dados normativos aplicáveis (§ 48): o argumento da reciprocidade - já que a requerente era uma sociedade comercial peruana - e o teste da não contrariedade da iniciativa processual (uma ação de indemnização) aos "interesses gerais" previsto no § 116, frase 1, n.º 2, da Zivilprozessordnung, assente na consideração de que uma pessoa coletiva só deve subsistir enquanto for capaz de prosseguir os seus fins com as suas próprias forças e pelos seus meios. Para o juízo de não desconformidade com a Convenção da posição assumida pelos tribunais alemães, revelaram-se decisivas, além da questão da reciprocidade (§ 49), as seguintes considerações (v. ibidem):
 
@@ -592,3 +656,5 @@ Fiquei vencido na declaração de inconstitucionalidade, não acompanhando as ra
 Entendo que as razões constantes de diversa jurisprudência do Tribunal, com destaque para o Acórdão n.º 216/2010, (a) acentuando a vinculação do direito à proteção jurídica à dignidade da pessoa humana, (b) enfatizando as óbvias diferenças entre as pessoas singulares e as pessoas coletivas e, no âmbito das que têm fins lucrativos, chamando a atenção para as peculiaridades do tratamento jurídico da insuficiência económica destas, e (c) recordando que as pessoas coletivas com fins lucrativos em situação de insuficiência de recursos beneficiam de isenção de custas judiciais (com exceção dos processos relativos a litígios laborais), continuam a fazer sentido.
 
 Impressiona-me que entes constituídos com o (legítimo) propósito de ganhar dinheiro, por não o conseguirem fazer, sejam auxiliados com o dinheiro dos contribuintes naquilo que para uma pessoa singular resultará normalmente de uma infelicidade, mas que para elas decorrerá, muito provavelmente, de falta de capacidade empresarial, de deficiente avaliação de riscos ou de ignorância do mercado, nos litígios judiciais em que se vejam envolvidos no exercício da sua atividade. Afinal, os seus concorrentes mais eficientes e competentes não disfrutam de tal benesse, o que coloca mesmo problemas de igualdade. - João Caupers.
+
+111389924

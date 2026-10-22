@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45741-1964-576675
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-05-30T00:00:00Z'
+  retrieved_at: '2026-10-22T19:40:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe6a0f4008c515f9c0992adc5dd95ec772fdba5b2b77236a6d5a94da60e32f4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ccf4c1b4f6a2a3bbe59e211e41e88d812891504ecfaebc483faec3994dcbaeb1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:40:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688055:por
+  label: null
+  source: null
 article_structure:
-  article_count: 19
-  section_count: 33
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:40:44Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +113,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos dos seguintes Ministérios:
+Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos dos seguintes Ministérios:
 
 Ministério das Finanças
 
@@ -139,13 +163,13 @@ Do artigo 48.º, n.º 2) «Pagamento de serviços ...» ... -200$00
 
 Para o artigo 47.º, n.º 1) «Rendas de casa ...» ... +200$00
 
-###### Art. 2.º São abertos no Ministério das Finanças, a favor dos Ministérios a seguir designados, créditos especiais no montante de 34378177$80, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças, a favor dos Ministérios a seguir designados, créditos especiais no montante de 34378177$80, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Ministério das Finanças
 
-### Capítulo 1.º «Encargos da dívida pública»:
+Capítulo 1.º «Encargos da dívida pública»:
 
-###### Artigo 1.º «Juros», n.º 1) «Dívida pública fundada, a cargo da Junta do Crédito Público», alínea 3 «Amortizável externa»:
+Artigo 1.º «Juros», n.º 1) «Dívida pública fundada, a cargo da Junta do Crédito Público», alínea 3 «Amortizável externa»:
 
 Empréstimo de 35 milhões de dólares - Promissórias ... 29740425$00
 
@@ -153,69 +177,69 @@ Empréstimo de 3,8 milhões de rands - Promissórias (ver nota i) ... 1559440$80
 
 (nota i) [Decreto n.º 45429](https://diariodarepublica.pt/dr/detalhe/decreto/45429-1963-683586), de 13 de Dezembro de 1963.
 
-### Capítulo 5.º «Gabinete do Ministro - Comissão de Financiamentos da Ponte sobre o Tejo»:
+Capítulo 5.º «Gabinete do Ministro - Comissão de Financiamentos da Ponte sobre o Tejo»:
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 49.º-A «Outros encargos», n.º 1) «Para pagamento de todos os encargos com a comissão criada pelo [Decreto-Lei n.º 45336](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45336-1963-688055), de 4 de Novembro de 1963» ... 187000$00
+Artigo 49.º-A «Outros encargos», n.º 1) «Para pagamento de todos os encargos com a comissão criada pelo [Decreto-Lei n.º 45336](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45336-1963-688055), de 4 de Novembro de 1963» ... 187000$00
 
-### Capítulo 8.º «Direcção-Geral da Fazenda Pública»:
+Capítulo 8.º «Direcção-Geral da Fazenda Pública»:
 
-###### Artigo 78.º «Outros encargos», n.º 3) «Subsídios a cofres ou organizações metropolitanas, ultramarinas ou estrangeiras», alínea 2. «Subsídio à Câmara Municipal da Figueira da Foz» (ver nota g) ... 10000$00
+Artigo 78.º «Outros encargos», n.º 3) «Subsídios a cofres ou organizações metropolitanas, ultramarinas ou estrangeiras», alínea 2. «Subsídio à Câmara Municipal da Figueira da Foz» (ver nota g) ... 10000$00
 
 (nota g) Destinado ao custeio da porta da casa-forte a construir para a tesouraria da Fazenda Pública do referido concelho.
 
-### Capítulo 9.º «Direcção-Geral da Contabilidade Pública»:
+Capítulo 9.º «Direcção-Geral da Contabilidade Pública»:
 
-###### Artigo 119.º, n.º 1) «Móveis» ... 150000$00
+Artigo 119.º, n.º 1) «Móveis» ... 150000$00
 
 ... 31646865$80
 
 Ministério da Justiça
 
-### Capítulo 4.º «Direcção-Geral dos Serviços Prisionais - Prisão-Sanatório da Guarda»:
+Capítulo 4.º «Direcção-Geral dos Serviços Prisionais - Prisão-Sanatório da Guarda»:
 
-###### Artigo 312.º, n.º 2), alínea 2. «Salários a reclusos ...» ... 17580$00
+Artigo 312.º, n.º 2), alínea 2. «Salários a reclusos ...» ... 17580$00
 
-### Capítulo 5.º «Direcção-Geral dos Serviços Tutelares de Menores - Serviço de Remoção de Menores»:
+Capítulo 5.º «Direcção-Geral dos Serviços Tutelares de Menores - Serviço de Remoção de Menores»:
 
-###### Artigo 346.º, n.º 1) «Transportes» ... 30000$00
+Artigo 346.º, n.º 1) «Transportes» ... 30000$00
 
 ... 47580$00
 
 Ministério do Exército
 
-### Capítulo 7.º «Órgãos hospitalares - Hospital Militar Regional n.º 4 (Évora)»:
+Capítulo 7.º «Órgãos hospitalares - Hospital Militar Regional n.º 4 (Évora)»:
 
-###### Artigo 306.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal assalariado», alínea 1. «Pessoal permanente»:
+Artigo 306.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal assalariado», alínea 1. «Pessoal permanente»:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/05/12800/07390741.pdf))](https://files.diariodarepublica.pt/1s/1964/05/12800/07390741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/05/12800/07390741.pdf)
 
-### Capítulo 8.º «Encargos gerais do Ministério - Despesas gerais»:
+Capítulo 8.º «Encargos gerais do Ministério - Despesas gerais»:
 
-###### Artigo 351.º, n.º 3), alínea 1. «Subsídios a revistas ...» ... 394000$00
+Artigo 351.º, n.º 3), alínea 1. «Subsídios a revistas ...» ... 394000$00
 
 ... 436782$00
 
 Ministério dos Negócios Estrangeiros
 
-### Capítulo 3.º «Direcção-Geral dos Negócios Políticos e da Administração Interna - Serviços internos da Direcção-Geral»:
+Capítulo 3.º «Direcção-Geral dos Negócios Políticos e da Administração Interna - Serviços internos da Direcção-Geral»:
 
-###### Artigo 12.º, n.º 2) «Pessoal de nomeação vitalícia além dos quadros, ...» ... 86000$00
+Artigo 12.º, n.º 2) «Pessoal de nomeação vitalícia além dos quadros, ...» ... 86000$00
 
-###### Artigo 13.º, n.º 1) «Pessoal em disponibilidade» ... 390000$00
+Artigo 13.º, n.º 1) «Pessoal em disponibilidade» ... 390000$00
 
 ... 476000$00
 
 Ministério do Ultramar
 
-### Capítulo 16.º «Despesas de anos económicos findos»:
+Capítulo 16.º «Despesas de anos económicos findos»:
 
-###### Artigo 135.º «Despesas de anos económicos findos» ... 900000$00
+Artigo 135.º «Despesas de anos económicos findos» ... 900000$00
 
 Ministério da Educação Nacional
 
-### Capítulo 3.º «Direcção-Geral do Ensino Superior e das Belas-Artes»:
+Capítulo 3.º «Direcção-Geral do Ensino Superior e das Belas-Artes»:
 
 Instrução universitária
 
@@ -223,15 +247,15 @@ Universidade Técnica de Lisboa
 
 Instituto Superior Técnico
 
-###### Artigo 446.º, n.º 3) «Subsídios a cofres ...», alínea 2. «Actividades circum-escolares» ... 48000$00
+Artigo 446.º, n.º 3) «Subsídios a cofres ...», alínea 2. «Actividades circum-escolares» ... 48000$00
 
 Instrução artística
 
 Museu Nacional de Arte Antiga
 
-###### Artigo 551.º, n.º 2) «Pagamento de serviços ...» ... 15000$00
+Artigo 551.º, n.º 2) «Pagamento de serviços ...» ... 15000$00
 
-### Capítulo 5.º «Direcção-Geral do Ensino Técnico Profissional»:
+Capítulo 5.º «Direcção-Geral do Ensino Técnico Profissional»:
 
 Ensino agrícola
 
@@ -239,23 +263,23 @@ Ensino médio
 
 Escola de Regentes Agrícolas de Évora
 
-###### Artigo 857.º, n.º 1) «De imóveis», alínea 1. «Prédios rústicos» ... 40500$00
+Artigo 857.º, n.º 1) «De imóveis», alínea 1. «Prédios rústicos» ... 40500$00
 
 Ensino elementar
 
 Escola Prática de Agricultura do Conde de S. Bento, de Santo Tirso
 
-###### Artigo 863.º, n.º 2) «Pessoal contratado não pertencente aos quadros» ... 52000$00
+Artigo 863.º, n.º 2) «Pessoal contratado não pertencente aos quadros» ... 52000$00
 
-### Capítulo 6.º «Direcção-Geral do Ensino Primário»:
+Capítulo 6.º «Direcção-Geral do Ensino Primário»:
 
 Direcção-Geral
 
-###### Artigo 891.º, n.º 1) «Encargos de conta da receita do livro único do ensino primário» ... 700000$00
+Artigo 891.º, n.º 1) «Encargos de conta da receita do livro único do ensino primário» ... 700000$00
 
 Serviços de administração nos distritos escolares
 
-###### Artigo 898.º, n.º 3) «Transportes»:
+Artigo 898.º, n.º 3) «Transportes»:
 
 Direcção do Distrito Escolar de Lisboa ... 7000$00
 
@@ -269,79 +293,79 @@ Ministério da Economia
 
 Secretaria de Estado da Agricultura
 
-### Capítulo 3.º «Gabinete do Secretário de Estado»:
+Capítulo 3.º «Gabinete do Secretário de Estado»:
 
-###### Artigo 25.º, n.º 3) «De móveis» ... 4450$00
+Artigo 25.º, n.º 3) «De móveis» ... 4450$00
 
 ... 34378177$80
 
-###### Art. 3.º Como compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+Art. 3.º Como compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 2.º, artigo 21.º «Taxa de salvação nacional» ... 31299865$80
+Capítulo 2.º, artigo 21.º «Taxa de salvação nacional» ... 31299865$80
 
-### Capítulo 7.º, artigo 200.º «Reposições não abatidas nos pagamentos» ... 900000$00
+Capítulo 7.º, artigo 200.º «Reposições não abatidas nos pagamentos» ... 900000$00
 
-### Capítulo 8.º, artigo 210.º «Edição do livro único do ensino primário» ... 700000$00
+Capítulo 8.º, artigo 210.º «Edição do livro único do ensino primário» ... 700000$00
 
 ... 32899865$80
 
 Ministério das Finanças
 
-### Capítulo 1.º, artigo 12.º ... 10000$$00
+Capítulo 1.º, artigo 12.º ... 10000$$00
 
-### Capítulo 7.º, artigo 68.º, n.º 1) ... 337000$00
+Capítulo 7.º, artigo 68.º, n.º 1) ... 337000$00
 
 ... 347000$00
 
 Ministério da Justiça
 
-### Capítulo 4.º, artigo 168.º, n.º 2) ... 17580$00
+Capítulo 4.º, artigo 168.º, n.º 2) ... 17580$00
 
-### Capítulo 5.º, artigo 344.º, n.º 1) ... 10000$00
+Capítulo 5.º, artigo 344.º, n.º 1) ... 10000$00
 
-### Capítulo 5.º, artigo 434.º, n.º 1) ... 20000$00
+Capítulo 5.º, artigo 434.º, n.º 1) ... 20000$00
 
 ... 47580$00
 
 Ministério do Exército
 
-### Capítulo 1.º, artigo 5.º, n.º 1) ... 394000$$00
+Capítulo 1.º, artigo 5.º, n.º 1) ... 394000$$00
 
-### Capítulo 3.º, artigo 181.º, n.º 1) ... 3400$00
+Capítulo 3.º, artigo 181.º, n.º 1) ... 3400$00
 
-### Capítulo 7.º, artigo 306.º, n.º 1), alínea 1 ... 39382$00
+Capítulo 7.º, artigo 306.º, n.º 1), alínea 1 ... 39382$00
 
 ... 436782$00
 
 Ministério dos Negócios Estrangeiros
 
-### Capítulo 3.º, artigo 22.º, n.º 1), alínea 2 ... 476000$00
+Capítulo 3.º, artigo 22.º, n.º 1), alínea 2 ... 476000$00
 
 Ministério da Educação Nacional
 
-### Capítulo 3.º, artigo 438.º, n.º 1) ... 48000$00
+Capítulo 3.º, artigo 438.º, n.º 1) ... 48000$00
 
-### Capítulo 3.º, artigo 456.º, n.º 1) ... 52000$00
+Capítulo 3.º, artigo 456.º, n.º 1) ... 52000$00
 
-### Capítulo 3.º, artigo 546.º, n.º 1) ... 15000$00
+Capítulo 3.º, artigo 546.º, n.º 1) ... 15000$00
 
-### Capítulo 6.º, artigo 893.º, n.º 2) ... 4000$00
+Capítulo 6.º, artigo 893.º, n.º 2) ... 4000$00
 
-### Capítulo 6.º, artigo 894.º, n.º 1) ... 7000$00
+Capítulo 6.º, artigo 894.º, n.º 1) ... 7000$00
 
-### Capítulo 8.º, artigo 949.º ... 40500$00
+Capítulo 8.º, artigo 949.º ... 40500$00
 
 ... 166500$00
 
 Ministério da Economia
 
-### Capítulo 3.º, artigo 29.º, n.º 2), alínea 1 ... 4450$00
+Capítulo 3.º, artigo 29.º, n.º 2), alínea 1 ... 4450$00
 
 ... 34378177$80
 
-###### Art. 4.º São autorizadas as seguintes alterações de rubrica nos orçamentos:
+Art. 4.º São autorizadas as seguintes alterações de rubrica nos orçamentos:
 
 Do Ministério das Finanças
 
@@ -357,6 +381,6 @@ Inclui a quantia de 17000$00 para mantas, ...
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Maio de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

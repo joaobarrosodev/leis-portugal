@@ -29,7 +29,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/03/05400/0085700870.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/5/2016/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/5-2016-73897627
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-03-17T00:00:00Z'
+  retrieved_at: '2026-10-22T17:53:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 835414b271a4f12775f026e3557e8688b4f29635066f0b6bbbcf46922e48a70b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ba2edadc84b7ce534b060486d0ab0c888fe0206dd91eb9d15bf33642973c8ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:53:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,15 +70,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Processo Penal
-- Pagamento
+- Custas Judiciais
 - Indemnização
 - Interpretação do Direito
 - Jurisprudencia
 - Notificação
+- Pagamento
+- Processo Penal
 - Regulamento
 - Taxa
-- Custas Judiciais
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/181/2008/08/28/p/d
@@ -120,16 +120,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/419-a/2009/04/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/419-a/2009/04/17/p/dre
+- type: cites
+  target: pt:dre:247448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638526:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:53:59Z'
   warnings: []
   errors: []
 ---

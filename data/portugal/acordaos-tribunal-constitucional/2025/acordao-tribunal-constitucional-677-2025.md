@@ -31,7 +31,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/10/19000/0000300022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -53,18 +53,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/677/2025/10/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/677-2025-937614440
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-02T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: edbdf2cdf606b3c058996235f254656380b77952a2aa6ac46fd3c3028af5370c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5fa1060257d2597db8cc932dcc32315e083f9cbef37204636fb78c1a7e70401b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,13 +72,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gás Natural
 - BASE de Incidência
+- Contribuição Extraordinária sobre o Setor Energético
+- Gás Natural
 - Inconstitucionalidade
 - Tribunal Constitucional
 - Tributação
-- Contribuição Extraordinária sobre o Setor Energético
 relationships:
+- type: amends
+  target: pt:numero:lei:83-C/2013
+  label: Declara a inconstitucionalidade, com força obrigatória geral, da norma contida no artigo 2.º, alínea d), do regime
+    jurídico da CESE (aprovado pelo artigo 228.º da Lei n.º 83-C/2013, de 31 de dezembro, cuja vigência foi prorrogada para
+    o ano de 2019 pelo artigo 313.º da Lei n.º 71/2018, de 31 de dezembro), na parte em que determina que o tributo incide
+    sobre o valor dos elementos do ativo a que se refere o n.º 1 do artigo 3.º do mesmo regime, da titularidade das pessoas
+    coletivas que integram o setor energético nacional, com domicílio fiscal ou com sede, direção efetiva ou estabelecimento
+    estável em território português, que, em 1 de janeiro de 2019, sejam concessionárias das atividades de transporte, de
+    distribuição ou de armazenamento subterrâneo de gás natural (nos termos definidos no Decreto-Lei n.º 140/2006, de 26 de
+    julho, na redação em vigor em 2019)
+  source: null
+  date: '2013-12-31'
 - type: cites
   target: celex:32003L0055
   label: null
@@ -127,16 +139,152 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/140/2
   label: null
   source: http://data.dre.pt/eli/port/140/2
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106550905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106868464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107514234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117327593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117537583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65921553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67085600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67341046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70133803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:71049405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73000149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73958532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75150234:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:48Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +299,7 @@ I - A Causa
 
 1 - O representante do Ministério Público junto do Tribunal Constitucional requereu, nos termos do artigo 82.º da Lei de Organização, Funcionamento e Processo do Tribunal Constitucional ([Lei n.º 28/82](https://diariodarepublica.pt/dr/detalhe/lei/28-1982-377508), de 15 de novembro, na redação que lhe foi conferida pela [Lei Orgânica n.º 11/2015](https://diariodarepublica.pt/dr/detalhe/lei-organica/11-2015-70133803) de 28 de agosto, doravante LTC), a organização de um processo, a tramitar nos termos do processo de fiscalização abstrata e sucessiva da constitucionalidade, em virtude da repetição do julgado, com vista à apreciação, pelo Plenário, da constitucionalidade da norma contida no artigo 2.º, alínea d), do regime jurídico da CESE (aprovado pelo artigo 228.º da [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), de 31 de dezembro, cuja vigência foi prorrogada para o ano de 2019 pelo artigo 313.º da [Lei n.º 71/2018](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), de 31 de dezembro), na parte em que determina que o tributo incide sobre o valor dos elementos do ativo a que se refere o n.º 1 do artigo 3.º do mesmo regime, da titularidade das pessoas coletivas que integram o setor energético nacional, com domicílio fiscal ou com sede, direção efetiva ou estabelecimento estável em território português, que, em 1 de janeiro de 2019, sejam concessionárias das atividades de transporte, de distribuição ou de armazenamento subterrâneo de gás natural (nos termos definidos no [Decreto-Lei n.º 140/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-2006-539238), de 26 de julho, na redação em vigor em 2019).
 
-Indica o Ministério Público que tal norma foi julgada inconstitucional pelos Acórdãos n.<sup>os</sup>197/2024, 336/2024, 337/2024, 443/2024, 475/2024, 476/2024 e 712/2024. Verifica-se que o juízo de inconstitucionalidade dessa norma foi afirmado também na Decisão Sumária n.º 399/2024.
+Indica o Ministério Público que tal norma foi julgada inconstitucional pelos Acórdãos n.os197/2024, 336/2024, 337/2024, 443/2024, 475/2024, 476/2024 e 712/2024. Verifica-se que o juízo de inconstitucionalidade dessa norma foi afirmado também na Decisão Sumária n.º 399/2024.
 
 1.1 - Foi notificado o Senhor Presidente da Assembleia da República, nos termos e para os efeitos previstos nos artigos 54.º e 55.º, n.º 3, da LTC, que ofereceu o merecimento dos autos e remeteu uma nota técnica sobre os trabalhos preparatórios da [Lei n.º 71/2018](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), de 31 de dezembro, elaborada pelos serviços de apoio à Comissão de Orçamento, Finanças e Modernização Administrativa.
 
@@ -261,7 +409,9 @@ b) Da redução da dívida tarifária do Sistema Elétrico Nacional (SEN), media
 
 [...]
 
-###### Artigo 4.º — Despesas
+Artigo 4.º
+
+Despesas
 
 1 - Constituem despesas do FSSSE as que resultem de encargos decorrentes da aplicação do presente decreto-lei, designadamente:
 
@@ -403,7 +553,7 @@ Lisboa, 15 de julho de 2025. - José Teles Pereira - Gonçalo Almeida Ribeiro - 
 
 DECLARAÇÃO DE VOTO
 
-Votei vencido, uma vez que nos acórdãos da 2.ª Secção que tenho relatado e subscrito, tem-se mantido a orientação fixada pelo plenário, nos Acórdãos n.<sup>os</sup>324/2024 e 325/2025, onde se decidiu «[n]ão julgar inconstitucional o disposto no artigo 2.º, alínea d), do regime jurídico da CESE, aprovado pelo artigo 228.º da [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), de 31 de dezembro, na versão e período de vigência conferidos pelo artigo 280.º da [Lei n.º 114/2017](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), de 29 de dezembro, na parte em que determina que o tributo incide sobre o valor dos elementos do ativo discriminados no n.º 1 do artigo 3.º, do diploma, da titularidade das pessoas coletivas que integram o setor energético nacional, com domicílio fiscal ou com sede, direção efetiva ou estabelecimento estável em território português, que, em 1 de janeiro de 2018, sejam concessionárias das atividades de transporte, de distribuição ou de armazenamento subterrâneo de gás natural nos termos definidos no [Decreto-Lei n.º 140/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-2006-539238), de 26 de julho». Esta orientação tem sido mantida para os anos subsequentes, como se pode ver, por último, no Acórdão n.º 295/2025, por mim relatado, em que se decidiu, por referência às concessionárias das atividades de transporte, de distribuição ou de armazenamento subterrâneo de gás natural, «[n]ão julgar inconstitucionais as normas dos artigos 1.º, 2.º, alínea d), 3.º, 4.º, 6.º, 7.º, 8.º 11.º e 12.º, todos do RJCESE, aprovado pelo artigo 228.º da [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), de 31 de dezembro, e do artigo 376.º, n.º 1, da [Lei n.º 2/2020](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), de 31 de março, no segmento em que determina a manutenção em vigor, em 2020, da CESE.» - José Eduardo Figueiredo Dias.
+Votei vencido, uma vez que nos acórdãos da 2.ª Secção que tenho relatado e subscrito, tem-se mantido a orientação fixada pelo plenário, nos Acórdãos n.os324/2024 e 325/2025, onde se decidiu «[n]ão julgar inconstitucional o disposto no artigo 2.º, alínea d), do regime jurídico da CESE, aprovado pelo artigo 228.º da [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), de 31 de dezembro, na versão e período de vigência conferidos pelo artigo 280.º da [Lei n.º 114/2017](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), de 29 de dezembro, na parte em que determina que o tributo incide sobre o valor dos elementos do ativo discriminados no n.º 1 do artigo 3.º, do diploma, da titularidade das pessoas coletivas que integram o setor energético nacional, com domicílio fiscal ou com sede, direção efetiva ou estabelecimento estável em território português, que, em 1 de janeiro de 2018, sejam concessionárias das atividades de transporte, de distribuição ou de armazenamento subterrâneo de gás natural nos termos definidos no [Decreto-Lei n.º 140/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-2006-539238), de 26 de julho». Esta orientação tem sido mantida para os anos subsequentes, como se pode ver, por último, no Acórdão n.º 295/2025, por mim relatado, em que se decidiu, por referência às concessionárias das atividades de transporte, de distribuição ou de armazenamento subterrâneo de gás natural, «[n]ão julgar inconstitucionais as normas dos artigos 1.º, 2.º, alínea d), 3.º, 4.º, 6.º, 7.º, 8.º 11.º e 12.º, todos do RJCESE, aprovado pelo artigo 228.º da [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), de 31 de dezembro, e do artigo 376.º, n.º 1, da [Lei n.º 2/2020](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), de 31 de março, no segmento em que determina a manutenção em vigor, em 2020, da CESE.» - José Eduardo Figueiredo Dias.
 
 DECLARAÇÃO DE VOTO
 
@@ -460,3 +610,5 @@ Exigir um nexo de correspondência de registo superior entre a prestação tribu
 7 - Finalmente, em linha com o Acórdão do TC 101/2023, que cita também quanto a esta matéria, a presente decisão refere-se também à alteração da situação financeira do Estado desde o ano do lançamento da CESE para fundamentar o juízo de inconstitucionalidade sobre a norma de incidência relativa aos operadores do SNGN.
 
 Ora, não se percebe como este dado pudesse impor uma diferente qualificação da CESE (como contribuição financeira ou imposto) entre períodos históricos. A situação de folga ou estrangulamento financeiro do Estado não constitui parâmetro para a qualificação jurídica de um programa normativo de natureza jurídico-tributária, tanto menos participa no juízo sobre a consistência da relação de grupo de que depende a figura da contribuição financeira. Em todos os casos, importa a adequada avaliação da caracterização estrutural do programa no plano dogmático, que não se pode entender perturbada pela alteração legal em causa. - António José da Ascensão Ramos.
+
+119596326

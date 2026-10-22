@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43883-1961-181184
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-08-30T00:00:00Z'
+  retrieved_at: '2026-10-22T19:25:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ec886f75ad4a834bf43c995474e0fc7959fb710848534c850cd4cfcf764b8df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 17fa52058ef3dcfbeb0d511e1a244d6532e013dc8d50f9ee99854f90383adf46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:25:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:25:19Z'
   warnings: []
   errors: []
 ---
@@ -90,10 +90,10 @@ Nos termos do n.º 3.º do artigo 12.º do Código Administrativo;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os limites da freguesia de Póvoa da Isenta, concelho de Santarém, são definidos por uma linha que, partindo da ponte do Celeiro sobre a vala de Asseca, segue no sentido sueste o eixo desta vala até alcançar o ponto em que a mesma é intersectada pelo prolongamento da linha recta que une o cruzamento de caminhos situado 550 m a oeste da Estação Zootécnica Nacional e o ponto de encontro da estrada municipal n.º 516 com o caminho que, da Quinta dos Covões, conduz à dita estrada municipal; do aludido ponto da vala de Asseca inflecte para oés-sudoeste, continuando pela referida linha recta, até alcançar o cruzamento de caminhos acima mencionado; daqui, desviando-se para noroeste, prossegue pelo eixo do caminho que, das proximidades da Estação Zootécnica Nacional, conduz à estrada nacional n.º 114-2, até a atingir; inflectindo para norte, prossegue pelo eixo desta estrada nacional até ao cruzamento com a estrada nacional n.º 365; desvia-se, finalmente, para leste e continua pelo eixo da estrada nacional n.º 365 até ao ponto onde se iniciou a descrição, na ponte do Celeiro.
+Artigo único. Os limites da freguesia de Póvoa da Isenta, concelho de Santarém, são definidos por uma linha que, partindo da ponte do Celeiro sobre a vala de Asseca, segue no sentido sueste o eixo desta vala até alcançar o ponto em que a mesma é intersectada pelo prolongamento da linha recta que une o cruzamento de caminhos situado 550 m a oeste da Estação Zootécnica Nacional e o ponto de encontro da estrada municipal n.º 516 com o caminho que, da Quinta dos Covões, conduz à dita estrada municipal; do aludido ponto da vala de Asseca inflecte para oés-sudoeste, continuando pela referida linha recta, até alcançar o cruzamento de caminhos acima mencionado; daqui, desviando-se para noroeste, prossegue pelo eixo do caminho que, das proximidades da Estação Zootécnica Nacional, conduz à estrada nacional n.º 114-2, até a atingir; inflectindo para norte, prossegue pelo eixo desta estrada nacional até ao cruzamento com a estrada nacional n.º 365; desvia-se, finalmente, para leste e continua pelo eixo da estrada nacional n.º 365 até ao ponto onde se iniciou a descrição, na ponte do Celeiro.
 
 § único. A Câmara Municipal de Santarém procederá, no prazo de 60 dias, à colocação de marcos, onde se tornem necessários, de modo que fiquem bem patentes os limites fixados neste artigo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Agosto de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior.

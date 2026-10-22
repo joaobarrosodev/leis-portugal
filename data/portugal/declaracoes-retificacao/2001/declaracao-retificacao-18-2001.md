@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/18/2001/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/18-2001-615831
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-09-26T00:00:00Z'
+  retrieved_at: '2026-10-22T18:58:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be42f7470600dbac14e889e4810df677834d7eec8992647311ad81010e7cbff2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57459d1bb11c70b3d2586f3f885c6545cbfc845c7d4b92eebf0333f18dd3ce08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:58:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,58 +67,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministro do Ambiente e do Ordenamento do Território
-- Ministro da Ciência e da Tecnologia
-- Ministro da Saúde
 - Comissão para a Igualdade no Trabalho e no Emprego
-- Ministro da Economia
 - Competência Própria
 - Conselho de Ministros
-- Ministro do Trabalho e da Solidariedade
 - Definição de Competências
 - Delegação de Competências
-- Instituto da Comunicação Social
 - Gestão Orçamental
+- Governo
 - Governo XIV
-- Ministro da Justiça
-- Secretário de Estado Adjunto do Ministro da Saúde
-- Secretário de Estado do Ensino Superior
-- Secretário de Estado do Turismo
+- Instituto da Comunicação Social
 - Ministro Adjunto do Primeiro-ministro
-- Ministro dos Negócios Estrangeiros
-- Secretário de Estado da Indústria Comércio e Serviços
-- Secretário de Estado da Cultura
-- Secretário de Estado da Educação
-- Secretário de Estado do Tesouro e das Finanças
-- Secretário de Estado dos Assuntos Fiscais
+- Ministro da Administração Interna
+- Ministro da Agricultura do Desenvolvimento Rural e das Pescas
+- Ministro da Ciência e da Tecnologia
 - Ministro da Cultura
+- Ministro da Defesa Nacional
+- Ministro da Economia
+- Ministro da Educação
+- Ministro da Justiça
+- Ministro da Juventude e do Desporto
+- Ministro da Presidência
+- Ministro da Reforma do Estado e da Administração Pública
+- Ministro da Saúde
 - Ministro das Finanças
 - Ministro de Estado
-- Primeiro-ministro
-- Secretário de Estado da Saúde
-- Secretário de Estado para a Igualdade
-- Ministro da Agricultura do Desenvolvimento Rural e das Pescas
-- Ministro da Juventude e do Desporto
-- Ministro da Reforma do Estado e da Administração Pública
+- Ministro do Ambiente e do Ordenamento do Território
 - Ministro do Equipamento Social
 - Ministro do Planeamento
+- Ministro do Trabalho e da Solidariedade
+- Ministro dos Negócios Estrangeiros
 - Orçamento Geral do Estado
 - Orgânica
 - Portugal Global
-- Secretário de Estado Adjunto do Primeiro-ministro
-- Secretário de Estado da Presidência do Conselho de Ministros
 - Presidência do Conselho de Ministros
-- Ministro da Defesa Nacional
-- Ministro da Educação
-- Ministro da Presidência
+- Primeiro-ministro
 - Secretário de Estado Adjunto do Ministro da Economia
+- Secretário de Estado Adjunto do Ministro da Saúde
+- Secretário de Estado Adjunto do Primeiro-ministro
 - Secretário de Estado da Administração Educativa
 - Secretário de Estado da Comunicação Social
+- Secretário de Estado da Cultura
+- Secretário de Estado da Educação
+- Secretário de Estado da Indústria Comércio e Serviços
+- Secretário de Estado da Presidência do Conselho de Ministros
+- Secretário de Estado da Saúde
+- Secretário de Estado do Ensino Superior
 - Secretário de Estado do Orçamento
+- Secretário de Estado do Tesouro e das Finanças
+- Secretário de Estado do Turismo
+- Secretário de Estado dos Assuntos Fiscais
 - Secretário de Estado dos Assuntos Parlamentares
 - Secretário de Estado para a Defesa do Consumidor
-- Ministro da Administração Interna
-- Governo
+- Secretário de Estado para a Igualdade
 - Transferência de Competências
 - Transferência de Serviços
 - Tutela
@@ -131,16 +131,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/474-a/1999/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/474-a/1999/11/08/p/dre
+- type: cites
+  target: pt:dre:642555:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:58:08Z'
   warnings: []
   errors: []
 ---

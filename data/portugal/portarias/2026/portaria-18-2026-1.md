@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/18/2026/01/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18-2026-1016097565
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-20T00:00:00Z'
+  retrieved_at: '2026-10-22T18:29:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb9aa90d6e7fefdb7822edd4b21869d49ac627f141b339881952769a02ab8533
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b0f8fd7570414a5bf61a205d1297eba2bcf1326c9abf0f1215c8f1cf1942036
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:29:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,14 +69,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assistência Medicamentosa
-- Financiamento
 - Farmácia
-- Regulamentação de Atos Legislativos
-- Serviço Nacional de Saúde
 - Farmácia de Oficina
+- Financiamento
 - Medicamento
 - Regime Ambulatório
+- Regulamentação de Atos Legislativos
+- Serviço Nacional de Saúde
 relationships:
+- type: amends
+  target: pt:numero:portaria:104/2024
+  label: Altera, a partir de 21 de janeiro de 2026, os artigos 2.º e 3.º da Portaria n.º 104/2024/1, de 14 de março, Diário
+    da República n.º 53/2024, Série I
+  source: null
+  date: '2024-03-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/138/2023/12/29/p/dre
   label: null
@@ -85,16 +91,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/104/2024/03/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/104/2024/03/14/p/dre
+- type: cites
+  target: pt:dre:835864046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:855404714:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:29:27Z'
   warnings: []
   errors: []
 ---
@@ -135,13 +149,15 @@ Os artigos 2.º e 3.º da [Portaria n.º 104/2024/1](https://diariodarepublica.p
 
 5 - Quando a dispensa de medicamentos ou produtos de saúde prescritos não ocorrer por causa imputável à unidade hospitalar prescritora ou por facto superveniente relativo ao utente que altere a necessidade da prestação ou justifique a não realização da dispensa, é devido o pagamento de montante correspondente ao previsto no n.º 2 para fazer face a todos os custos inerentes à devolução ou à operação de logística inversa, a efetuar pelo distribuidor por grosso.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
 2 - [...]
 
-3 - O pagamento da remuneração prevista nos n.<sup>os</sup>2 e 5 do artigo 2.º é efetuado à farmácia de oficina que assegura a dispensa, livremente selecionada pelo utente, a qual, por sua vez, remunera o distribuidor por grosso, a quem compete a remuneração do responsável pelo armazenamento central.
+3 - O pagamento da remuneração prevista nos n.os2 e 5 do artigo 2.º é efetuado à farmácia de oficina que assegura a dispensa, livremente selecionada pelo utente, a qual, por sua vez, remunera o distribuidor por grosso, a quem compete a remuneração do responsável pelo armazenamento central.
 
 4 - [...]»
 
@@ -149,4 +165,6 @@ Os artigos 2.º e 3.º da [Portaria n.º 104/2024/1](https://diariodarepublica.p
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 8 de janeiro de 2026. - A Ministra da Saúde, Ana Paula Martins, em 12 de janeiro de 2026.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 8 de janeiro de 2026. - A Ministra da Saúde, Ana Paula Martins, em 12 de janeiro de 2026.
+
+119947323

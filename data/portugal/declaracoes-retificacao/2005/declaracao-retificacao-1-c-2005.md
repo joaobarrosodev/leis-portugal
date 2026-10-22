@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 16/2005, 1º Suplemento, Série I-B de 2005-01-24
   number: '16'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 562-(2) a 562-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2005/01/016b01/00020003.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/1-c/2005/01/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-c-2005-436617
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:04:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bc517afcc9e5229608ad51bf3c560e163178ba0a1befb3986a3e617964130cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eeb62b8bcc01effe89909de491efb962f67b3fa8f31638ef611ce5dc23c7e97e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:04:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -81,16 +81,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/25/1994/04/29/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/25/1994/04/29/p/dre
+- type: cites
+  target: pt:dre:302533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534651:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:resolucao-conselho-ministros:170/2004
+  label: "Rectifica a Resolução do Conselho de Ministros n.º 170/2004, de 22 de Novembro, DR.IS-B [274] \0\0"
+  source: null
+  date: '2004-11-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:04:31Z'
   warnings: []
   errors: []
 ---

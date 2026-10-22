@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 148/1998, 2º Suplemento, Série I-A de 1998-06-30
   number: '148'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2930-(6) a 2930-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/06/148a02/00060006.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/11-c/1998/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-c-1998-291196
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-22T00:00:00Z'
+  retrieved_at: '2026-10-22T18:50:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa448489e72ee7d06e354acaf7143a04fb4dd5ae9e31017a0b815186b48083f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d8928bf235b2c121a0427887cb166e25757a2569c09d980cb6e6ab09ffe304e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:50:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,21 @@ subjects:
 - Adopção
 - Código Civil
 - Código do Registo Civil
-- Tutela de Menores
-- Regime Jurídico
 - Direito Civil
 - Direito de Família
+- Regime Jurídico
+- Tutela de Menores
 relationships:
 - type: amended_by
   target: pt:dre:656109:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:656109:por
+  label: "Rectificado o art. 167º do Dec Lei 314/78, de 27-Out, na redacção da presente declaração, pela LEI.31/2003.22.08.2003.AR,\
+    \ DR.IS-A [193] de 22.08.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/31-2003-656109
+  date: '2003-08-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/120/1998/05/08/p/dre
   label: null
@@ -86,16 +92,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/185/1993/05/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/185/1993/05/22/p/dre
+- type: cites
+  target: pt:dre:282517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517214:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:50:39Z'
   warnings: []
   errors: []
 ---

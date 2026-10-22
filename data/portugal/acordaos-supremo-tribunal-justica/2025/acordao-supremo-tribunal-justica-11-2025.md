@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/11/2025/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/11-2025-943647417
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e66d08bfda6317375e36a1d4bbaabed843b825fe56fe8bef3ac742c31ac0c716
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b404b26f8d19a4b3e5691f8fa25ede49bf16d464d8ef3a45a68f2c5fcbacfb30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -81,13 +81,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:18Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +124,7 @@ Admitida a revista, foi, em 16-01-2024, proferido acórdão por este Supremo Tri
 
 Deste acórdão, a Autora suscitou a respetiva reforma, arguiu nulidades e apresentou reclamação do despacho que admitiu a revista per saltum, tendo sido proferido acórdão por este Supremo Tribunal de Justiça a indeferir todo o requerido, em 06/03/2024, o qual transitou em julgado em 21-03-2024.
 
-Não resignada, veio a sociedade Autora, por requerimento datado de 2-05-2024, interpor recurso extraordinário para uniformização de jurisprudência, invocando contradição entre a solução normativa acolhida no Acórdão do STJ de 16-01-2024, proferido nos autos e a solução adoptada no acórdão deste Supremo Tribunal de Justiça de 07-10-2003, proferido no âmbito do Processo n.º 03A323<sup>1</sup>, que indica como acórdão-fundamento do recurso extraordinário que interpõe.
+Não resignada, veio a sociedade Autora, por requerimento datado de 2-05-2024, interpor recurso extraordinário para uniformização de jurisprudência, invocando contradição entre a solução normativa acolhida no Acórdão do STJ de 16-01-2024, proferido nos autos e a solução adoptada no acórdão deste Supremo Tribunal de Justiça de 07-10-2003, proferido no âmbito do Processo n.º 03A3231, que indica como acórdão-fundamento do recurso extraordinário que interpõe.
 
 *
 
@@ -384,13 +384,13 @@ Por despacho proferido em 20-06-2024, foi o mencionado recurso admitido, nos ter
 
 II - ADMISSIBILIDDE DO RECURSO
 
-Como é sabido, o despacho do Relator não vincula o Pleno das Secções Cíveis, pelo que importa aferir da admissibilidade do presente Recurso Extraordinário para Fixação de Jurisprudência (cf. artigo 692.º, n.º 4, do CPC) <sup>2</sup>.
+Como é sabido, o despacho do Relator não vincula o Pleno das Secções Cíveis, pelo que importa aferir da admissibilidade do presente Recurso Extraordinário para Fixação de Jurisprudência (cf. artigo 692.º, n.º 4, do CPC) 2.
 
 Importa, pois, aferir se o presente recurso extraordinário será de admitir.
 
-Como ensina Abrantes Geraldes “a natureza extraordinária do recurso e o facto de visar a impugnação de um acórdão do Supremo impõe, naturalmente, que se deva ser rigoroso tanto no cumprimento dos requisitos materiais e formais, como na verificação desse cumprimento. A natureza “extraordinária” do recurso justifica que seja reservado para situações que inequivocamente preencham os pressupostos legais, com especial destaque para a verificação de uma verdadeira contradição jurídica essencial e para a demonstração do acórdão fundamento.” <sup>3</sup>
+Como ensina Abrantes Geraldes “a natureza extraordinária do recurso e o facto de visar a impugnação de um acórdão do Supremo impõe, naturalmente, que se deva ser rigoroso tanto no cumprimento dos requisitos materiais e formais, como na verificação desse cumprimento. A natureza “extraordinária” do recurso justifica que seja reservado para situações que inequivocamente preencham os pressupostos legais, com especial destaque para a verificação de uma verdadeira contradição jurídica essencial e para a demonstração do acórdão fundamento.” 3
 
-Ora, dispõe o artigo 688.º, n.<sup>os</sup>1, 2 e 3 do CPC, que 1 - As partes podem interpor recurso para o pleno das secções cíveis quando o Supremo Tribunal de Justiça proferir acórdão que esteja em contradição com outro anteriormente proferido pelo mesmo tribunal, no domínio da mesma legislação e sobre a mesma questão fundamental de direito. 2 - Como fundamento do recurso só pode invocar-se acórdão anterior com trânsito em julgado, presumindo-se o trânsito. 3 - O recurso não é admitido se a orientação perfilhada no acórdão recorrido estiver de acordo com jurisprudência uniformizada do Supremo Tribunal de Justiça.”
+Ora, dispõe o artigo 688.º, n.os1, 2 e 3 do CPC, que 1 - As partes podem interpor recurso para o pleno das secções cíveis quando o Supremo Tribunal de Justiça proferir acórdão que esteja em contradição com outro anteriormente proferido pelo mesmo tribunal, no domínio da mesma legislação e sobre a mesma questão fundamental de direito. 2 - Como fundamento do recurso só pode invocar-se acórdão anterior com trânsito em julgado, presumindo-se o trânsito. 3 - O recurso não é admitido se a orientação perfilhada no acórdão recorrido estiver de acordo com jurisprudência uniformizada do Supremo Tribunal de Justiça.”
 
 Da leitura da disposição legal supracitada decorre, assim, que a admissibilidade do recurso para uniformização de jurisprudência depende da verificação dos seguintes requisitos:
 
@@ -404,7 +404,7 @@ d) Trânsito em julgado tanto do acórdão anterior como do acórdão recorrido,
 
 e) O acórdão recorrido não estar em harmonia com jurisprudência anteriormente uniformizada pelo Supremo.
 
-Como tem sido entendido de forma uniforme pelo STJ, a divergência de entendimento sobre a questão fundamental de direito deve assumir-se como essencial para a solução do caso concreto, configurando a ratio decidendi de ambos os acórdãos em confronto, não sendo de relevar a apreciação dispensada a questões meramente conexas, nem considerações que se assumam, na economia da decisão, como laterais (obiter dictum). A este propósito, o STJ tem vindo a entender, igualmente, que a admissibilidade do recurso extraordinário em análise pressupõe sempre a identidade do núcleo factual essencial<sup>4</sup> considerado em ambas as decisões em confronto, exigindo-se, outrossim, que as decisões em confronto assumam posições diametralmente opostas.
+Como tem sido entendido de forma uniforme pelo STJ, a divergência de entendimento sobre a questão fundamental de direito deve assumir-se como essencial para a solução do caso concreto, configurando a ratio decidendi de ambos os acórdãos em confronto, não sendo de relevar a apreciação dispensada a questões meramente conexas, nem considerações que se assumam, na economia da decisão, como laterais (obiter dictum). A este propósito, o STJ tem vindo a entender, igualmente, que a admissibilidade do recurso extraordinário em análise pressupõe sempre a identidade do núcleo factual essencial4 considerado em ambas as decisões em confronto, exigindo-se, outrossim, que as decisões em confronto assumam posições diametralmente opostas.
 
 No mesmo sentido, e a mero título de exemplo, vejam-se os Acórdãos do STJ de 06-10-2021 (Recurso para uniformização de jurisprudência n.º 2622/19.7T8VNF-B.G1.S1-A), de 06-10-2020 (Recurso para uniformização de jurisprudência n.º 765/16.8T8AVR.P1.S1-A), de 14-01-2020, (Recurso para Uniformização de Jurisprudência n.º 5633/11.7TBVNG.P2-A.S1-A), de 28-03-2019 (Recurso para uniformização de jurisprudência n.º 60/13.4TBCUB.E1.S1-A), de 29-01-2019 (Recurso para uniformização de jurisprudência n.º 2303/01.8TVLSB.L2.S1-A) e de 10-01-2019 (Recurso para uniformização de jurisprudência n.º 1522/13.9TBGMR.G1.S2-A).
 
@@ -480,7 +480,7 @@ No caso sob escrutínio, uma vez que o fundamento alegado para a exclusão dos r
 
 Pese embora a pretendida exclusão seja operada por via judicial, deverá existir prévia deliberação societária no sentido da propositura da acção, conforme se extrai expressamente do n.º 2 do artigo 242.º do CSC.
 
-Segundo Raúl Ventura<sup>5</sup>, a deliberação prevista no n.º 2 do artigo 242.º do CSC “tem por objeto a proposição da acção e há-de basear-se em factos enquadrados no artigo 242.º, n.º 1. Não basta alegar, como fundamento da deliberação, de modo genérico, “comportamento desleal ou gravemente perturbador do funcionamento da sociedade”, devendo ser especificados os factos que podem receber tal qualificação [...]”.
+Segundo Raúl Ventura5, a deliberação prevista no n.º 2 do artigo 242.º do CSC “tem por objeto a proposição da acção e há-de basear-se em factos enquadrados no artigo 242.º, n.º 1. Não basta alegar, como fundamento da deliberação, de modo genérico, “comportamento desleal ou gravemente perturbador do funcionamento da sociedade”, devendo ser especificados os factos que podem receber tal qualificação [...]”.
 
 Os normativos acabados de citar não prevêem, porém, qualquer prazo, quer para a deliberação social que decide da propositura da ação judicial, quer para a efectiva entrada da acção em juízo, após a referida deliberação social.
 
@@ -488,11 +488,11 @@ Todavia, da ausência de um normativo que fixe um prazo de prescrição ou de ca
 
 Mal se compreenderia que um qualquer direito pudesse ser acionado sem qualquer limite temporal. Daí que seja a própria lei a prever um princípio geral de prescritibilidade dos direitos (cf. artigo 298.º, n.º 1 do CC). Já quando, por força da lei ou por vontade das partes, um direito deva ser exercido dentro de certo prazo, são aplicáveis as regras da caducidade, a menos que a lei se refira expressamente à prescrição (n.º 2 do mesmo dispositivo legal).
 
-No conspecto doutrinário, o entendimento consolidado é o de que a prescrição é um instituto geral com aplicabilidade a todos os direitos que a lei não exclua ou que a lei ou a vontade das partes não submetam ao regime da caducidade. <sup>6</sup>
+No conspecto doutrinário, o entendimento consolidado é o de que a prescrição é um instituto geral com aplicabilidade a todos os direitos que a lei não exclua ou que a lei ou a vontade das partes não submetam ao regime da caducidade. 6
 
-A este propósito, Rodrigues Bastos anota precisamente que “a prescrição tem o fim social de eliminar o estado de incerteza resultante da falta de exercício de um direito em prazo preestabelecido” <sup>7</sup>.
+A este propósito, Rodrigues Bastos anota precisamente que “a prescrição tem o fim social de eliminar o estado de incerteza resultante da falta de exercício de um direito em prazo preestabelecido” 7.
 
-Por sua vez, Carolina Cunha<sup>8</sup> defende que “do ponto de vista da estrutura, o direito de exclusão de sócio, se apresenta como um direito potestativo extintivo, do qual é titular a sociedade. O seu exercício supõe um acto livre de vontade - vontade formada no seio do órgão deliberativo interno, que é a colectividade de sócios e expressa através de uma deliberação (cf. o artigo 246.º, n.º 1, alínea d) e 186.º, n.º 2) ou integrado por uma decisão judicial (cf. artigo 242.º, n.º 1 e 186.º, n.º 3) produz um efeito jurídico que inelutavelmente se impõe ao sujeito passivo, isto é, ao sócio excluído.”.
+Por sua vez, Carolina Cunha8 defende que “do ponto de vista da estrutura, o direito de exclusão de sócio, se apresenta como um direito potestativo extintivo, do qual é titular a sociedade. O seu exercício supõe um acto livre de vontade - vontade formada no seio do órgão deliberativo interno, que é a colectividade de sócios e expressa através de uma deliberação (cf. o artigo 246.º, n.º 1, alínea d) e 186.º, n.º 2) ou integrado por uma decisão judicial (cf. artigo 242.º, n.º 1 e 186.º, n.º 3) produz um efeito jurídico que inelutavelmente se impõe ao sujeito passivo, isto é, ao sócio excluído.”.
 
 2 - A solução do acórdão recorrido
 
@@ -518,7 +518,7 @@ Prazos estes que, não sendo exercidos tempestivamente, farão o direito de excl
 
 3 - A solução do acórdão fundamento
 
-Diferentemente, defendeu o acórdão fundamento<sup>9</sup> o seguinte:
+Diferentemente, defendeu o acórdão fundamento9 o seguinte:
 
 “Só a sociedade, após deliberação dos sócios, em Assembleia Geral, tem o direito de, por ser judicial, propor a exclusão de um sócio.
 
@@ -530,7 +530,7 @@ O mesmo não se diga no caso da destituição do gerente, com justa causa, uma v
 
 É nesta perspectiva que se tem de entender o disposto no n.º 6 do artigo 254.º deste Código, que diz: “Os direitos da sociedade mencionados no número anterior prescrevem no prazo de 90 dias a contar do momento em que todos os sócios tenham conhecimento da actividade exercida pelo gerente, ou em qualquer caso, no prazo de cinco anos contados no início dessa actividade.”
 
-Efectivamente, podendo o sócio ou sócios, por si intentarem acção de distribuição<sup>10</sup> de gerente sempre se teria de encontrar um prazo de tempo razoável para o exercício do direito respectivo, a fim de tornar clara, transparente e eficaz a gerência da sociedade.
+Efectivamente, podendo o sócio ou sócios, por si intentarem acção de distribuição10 de gerente sempre se teria de encontrar um prazo de tempo razoável para o exercício do direito respectivo, a fim de tornar clara, transparente e eficaz a gerência da sociedade.
 
 Será que este prazo de 90 dias fixado no n.º 6 do artº. 254.º da C. S. Comerciais, para o exercício do direito da destituição do gerente, pode ser aplicado para o exercício do direito de exclusão de sócio?
 
@@ -554,7 +554,7 @@ Vejamos, de seguida, a jurisprudência que se tem vindo a pronunciar sobre o tem
 
 a) Jurisprudência do Supremo Tribunal de Justiça
 
-O Acórdão do STJ de 11-11-1997<sup>11</sup> decidiu que “I-Em sociedade por quotas, o direito de exclusão judicial de sócio por comportamento desleal, previsto no artigo 242 números 1 e 2 do CSC, em que se inclui o de indemnização pelos respectivos danos, está sujeito ao prazo de prescrição de 90 dias, a contar do conhecimento, pelos sócios, do facto que serve de fundamento à exclusão, por aplicação analógica do disposto nos artigos 186 n.º 2 e 254 n.º 6 do citado Código (seu artigo 2.º).
+O Acórdão do STJ de 11-11-199711 decidiu que “I-Em sociedade por quotas, o direito de exclusão judicial de sócio por comportamento desleal, previsto no artigo 242 números 1 e 2 do CSC, em que se inclui o de indemnização pelos respectivos danos, está sujeito ao prazo de prescrição de 90 dias, a contar do conhecimento, pelos sócios, do facto que serve de fundamento à exclusão, por aplicação analógica do disposto nos artigos 186 n.º 2 e 254 n.º 6 do citado Código (seu artigo 2.º).
 
 II - Invocada a prescrição por aquele a quem aproveita, o seu conhecimento judicial pode basear-se em norma jurídica ou prazo prescricional diversos dos alegados (artigos 303.º do CC e 664.º do CPC).”
 
@@ -562,27 +562,27 @@ O prazo considerado no acórdão, aplicado por analogia, corresponde ao entendim
 
 *
 
-No acórdão de 05-05-2015<sup>12</sup>, além de outras questões, diversas daquelas que para aqui importam directamente, foi tratada a questão da “prescrição do direito de exclusão do sócio”, concluindo-se que, no caso, não se verificava a prescrição. Contudo, ali se pode ler que:
+No acórdão de 05-05-201512, além de outras questões, diversas daquelas que para aqui importam directamente, foi tratada a questão da “prescrição do direito de exclusão do sócio”, concluindo-se que, no caso, não se verificava a prescrição. Contudo, ali se pode ler que:
 
 “A lei exige o prazo de 90 dias para o caso de os factos-situação que possam engolfar realidades factuais que possam conduzir à exclusão de algum dos sócios serem do conhecimento dos gerentes - cf. n.º 2 do artigo 186.º do Código das Sociedades Comerciais.”
 
 *
 
-No acórdão datado de 31-05-2023<sup>13</sup>, também a propósito do prazo a aplicar ao direito de exclusão do sócio, escreve-se o seguinte “quanto ao prazo de que dispõe a sociedade para exercer o direito de excluir o sócio (deliberando a exclusão ou adotando a deliberação que dá azo à propositura da ação judicial), a lei é omissa, porém, deve entender-se, “por aplicação analógica do art. 241.º e sua remissão para o art. 234.º/2 do CSC, que a sociedade terá 90 dias, a contar do conhecimento dos factos por algum dos gerentes, para adotar a deliberação que desencadeia o processo de exclusão”; sendo que a inobservância de tal prazo faz caducar o direito da sociedade a excluir o sócio.”
+No acórdão datado de 31-05-202313, também a propósito do prazo a aplicar ao direito de exclusão do sócio, escreve-se o seguinte “quanto ao prazo de que dispõe a sociedade para exercer o direito de excluir o sócio (deliberando a exclusão ou adotando a deliberação que dá azo à propositura da ação judicial), a lei é omissa, porém, deve entender-se, “por aplicação analógica do art. 241.º e sua remissão para o art. 234.º/2 do CSC, que a sociedade terá 90 dias, a contar do conhecimento dos factos por algum dos gerentes, para adotar a deliberação que desencadeia o processo de exclusão”; sendo que a inobservância de tal prazo faz caducar o direito da sociedade a excluir o sócio.”
 
 b) Jurisprudência dos Tribunais da Relação
 
-No acórdão do Tribunal da Relação do Porto de 10-02-2022<sup>14</sup> decidiu-se igualmente que “o prazo de prescrição para exercício judicial pela sociedade do direito de exclusão de sócio, é de 90 dias a contar do conhecimento do facto ou comportamento fundamentador, por aplicação analógica do disposto nos artigos. 241.º e 234.º”, remetendo para o decidido pelo Acórdão do Tribunal da Relação de Évora de 18-10-2012.
+No acórdão do Tribunal da Relação do Porto de 10-02-202214 decidiu-se igualmente que “o prazo de prescrição para exercício judicial pela sociedade do direito de exclusão de sócio, é de 90 dias a contar do conhecimento do facto ou comportamento fundamentador, por aplicação analógica do disposto nos artigos. 241.º e 234.º”, remetendo para o decidido pelo Acórdão do Tribunal da Relação de Évora de 18-10-2012.
 
-Também no acórdão do mesmo Tribunal de 14-12-2022<sup>15</sup> se seguiu o mesmo entendimento de que “o prazo de prescrição para exercício judicial pela sociedade do direito de exclusão de sócio, é de 90 dias a contar do conhecimento do facto ou comportamento fundamentador, por aplicação analógica do disposto nos arts. 241.º e 234.º”.
+Também no acórdão do mesmo Tribunal de 14-12-202215 se seguiu o mesmo entendimento de que “o prazo de prescrição para exercício judicial pela sociedade do direito de exclusão de sócio, é de 90 dias a contar do conhecimento do facto ou comportamento fundamentador, por aplicação analógica do disposto nos arts. 241.º e 234.º”.
 
-O acórdão do Tribunal da Relação de Coimbra de 12-07-2022<sup>16</sup> decide também que “Para o exercício do direito de exclusão judicial de sócio a que se reporta o artigo 242.º do CSC, por meio de deliberação societária, determinante da propositura da ação judicial correspondente, é de aplicar, por analogia, o prazo de 90 dias a que se referem os arts. 241.º, n.º 2, e 234.º, n.º 2, do CSC.” E ainda considerando que as sociedades “enquanto pessoas coletivas, só podem agir (e conhecer e querer) por meio dos titulares dos seus órgãos, quando a lei determina o prazo para o exercício de qualquer direito por aquelas, faz reportar o início da sua contagem ao tempo do conhecimento dos factos em causa pelos respetivos sócios ou gerentes.”
+O acórdão do Tribunal da Relação de Coimbra de 12-07-202216 decide também que “Para o exercício do direito de exclusão judicial de sócio a que se reporta o artigo 242.º do CSC, por meio de deliberação societária, determinante da propositura da ação judicial correspondente, é de aplicar, por analogia, o prazo de 90 dias a que se referem os arts. 241.º, n.º 2, e 234.º, n.º 2, do CSC.” E ainda considerando que as sociedades “enquanto pessoas coletivas, só podem agir (e conhecer e querer) por meio dos titulares dos seus órgãos, quando a lei determina o prazo para o exercício de qualquer direito por aquelas, faz reportar o início da sua contagem ao tempo do conhecimento dos factos em causa pelos respetivos sócios ou gerentes.”
 
-No Tribunal da Relação de Guimarães, no acórdão de 25-05-2016<sup>17</sup>, seguiu-se igual entendimento, segundo o qual “nas sociedades por quotas o prazo para o exercício judicial pela sociedade do direito de exclusão de sócio é de 90 dias a contar do conhecimento dos factos ou do termo da cessação da conduta infractora, por aplicação analógica do disposto das normas dos artigos 234.º, n.º 2, e 241.º, n.º 2, do Código das Sociedades Comerciais.”
+No Tribunal da Relação de Guimarães, no acórdão de 25-05-201617, seguiu-se igual entendimento, segundo o qual “nas sociedades por quotas o prazo para o exercício judicial pela sociedade do direito de exclusão de sócio é de 90 dias a contar do conhecimento dos factos ou do termo da cessação da conduta infractora, por aplicação analógica do disposto das normas dos artigos 234.º, n.º 2, e 241.º, n.º 2, do Código das Sociedades Comerciais.”
 
-No Tribunal da Relação de Lisboa, o recente acórdão de 19-12-2024<sup>18</sup> considerou “[...] ser de 90 dias o prazo para o exercício do direito de exclusão de sócio. Com efeito, não prevendo o artigo 242.º do CSC qualquer prazo para o exercício de tal direito, tem sido entendido pela jurisprudência fixá-lo, precisamente, em 90 dias, por aplicação analógica quer do artigo 254.º, n.º 6 do CSC (prazo para a destituição de gerente com justa causa), quer dos artigos 241.º e 234.º do CSC (regime da exclusão baseada em fundamento legal ou contratualmente delimitado, que remete por sua vez para o prazo de amortização). A doutrina, tal como a jurisprudência mais recente, tem preferido a segunda opção, ou seja, que, por analogia com o disposto nos artigos 234.º, n.º 2 e 241.º, n.º 2 do CSC, a acção judicial deve ser proposta (sob pena de caducidade), no prazo de 90 dias contados do conhecimento do facto fundamentador da exclusão”.
+No Tribunal da Relação de Lisboa, o recente acórdão de 19-12-202418 considerou “[...] ser de 90 dias o prazo para o exercício do direito de exclusão de sócio. Com efeito, não prevendo o artigo 242.º do CSC qualquer prazo para o exercício de tal direito, tem sido entendido pela jurisprudência fixá-lo, precisamente, em 90 dias, por aplicação analógica quer do artigo 254.º, n.º 6 do CSC (prazo para a destituição de gerente com justa causa), quer dos artigos 241.º e 234.º do CSC (regime da exclusão baseada em fundamento legal ou contratualmente delimitado, que remete por sua vez para o prazo de amortização). A doutrina, tal como a jurisprudência mais recente, tem preferido a segunda opção, ou seja, que, por analogia com o disposto nos artigos 234.º, n.º 2 e 241.º, n.º 2 do CSC, a acção judicial deve ser proposta (sob pena de caducidade), no prazo de 90 dias contados do conhecimento do facto fundamentador da exclusão”.
 
-Também o Acórdão do Tribunal da Relação de Évora, datado de 18-10-2012<sup>19</sup>, acerta pelo mesmo diapasão, ao decidir que “nas sociedades por quotas o prazo para o exercício judicial pela sociedade do direito de exclusão de sócio é de 90 dias, a contar do conhecimento dos factos pelos sócios ou do termo da cessação da conduta infractora.”
+Também o Acórdão do Tribunal da Relação de Évora, datado de 18-10-201219, acerta pelo mesmo diapasão, ao decidir que “nas sociedades por quotas o prazo para o exercício judicial pela sociedade do direito de exclusão de sócio é de 90 dias, a contar do conhecimento dos factos pelos sócios ou do termo da cessação da conduta infractora.”
 
 4.2 - No sentido propugnado pelo acórdão fundamento
 
@@ -594,7 +594,7 @@ a) Prazo de que dispõe a sociedade para exercer o direito de exclusão judicial
 
 Perante a supra exposta divergência de entendimento, sendo certo que há muito se vem consolidando a Jurisprudência deste Supremo no sentido propugnado pelo acórdão recorrido, vejamos quais os argumentos jurídicos a favor de cada uma das teses a fim de nos habilitarmos a tomar posição por aquela que se nos afigura mais acertada.
 
-Como já ficou delineado, situamo-nos no âmbito do direito de exclusão judicial de sócio, nas sociedades por quotas que, nos termos do artigo 242.º, n.<sup>os</sup>1 e 2, do CSC<sup>20</sup>, depende de uma prévia deliberação dos sócios que tem de ser seguida pela propositura de ação judicial peticionando, a título principal, a exclusão do sócio.
+Como já ficou delineado, situamo-nos no âmbito do direito de exclusão judicial de sócio, nas sociedades por quotas que, nos termos do artigo 242.º, n.os1 e 2, do CSC20, depende de uma prévia deliberação dos sócios que tem de ser seguida pela propositura de ação judicial peticionando, a título principal, a exclusão do sócio.
 
 Temos, assim, dois momentos distintos a considerar: a prévia deliberação dos sócios e, posteriormente, a acção judicial.
 
@@ -620,11 +620,11 @@ Resulta, portanto, da citada disposição legal, que a exclusão de sócio depen
 
 (ii) Que esse comportamento do sócio tenha causado ou possa vir a causar à sociedade prejuízos relevantes.
 
-A relevância do comportamento desleal para efeitos de exclusão do sócio resulta, da submissão dos sócios a um dever de lealdade em relação à sociedade. Esse dever dos sócios - que é um dever acessório de conduta em matéria contratual e um dever geral de respeito e de agir de boa fé, é caracterizado como um dever de conteúdo negativo que corresponderá, no essencial, ao dever de não actuar de modo incompatível com o interesse social. <sup>21</sup>
+A relevância do comportamento desleal para efeitos de exclusão do sócio resulta, da submissão dos sócios a um dever de lealdade em relação à sociedade. Esse dever dos sócios - que é um dever acessório de conduta em matéria contratual e um dever geral de respeito e de agir de boa fé, é caracterizado como um dever de conteúdo negativo que corresponderá, no essencial, ao dever de não actuar de modo incompatível com o interesse social. 21
 
-Depreende-se, pois, que a exclusão de sócio está reservada para situações graves que prejudiquem (atual ou potencialmente) a sociedade, de forma relevante, pondo em causa o seu funcionamento e, em última instância, a sua sobrevivência, podendo dizer-se - como diz Coutinho de Abreu<sup>22</sup>, que “…subjaz à cláusula geral do n.º 1 do artigo 242.º a ideia de exclusão permitida somente como “fundamento importante”, como última ratio para que os restantes sócios prossigam normalmente a actividade social.”
+Depreende-se, pois, que a exclusão de sócio está reservada para situações graves que prejudiquem (atual ou potencialmente) a sociedade, de forma relevante, pondo em causa o seu funcionamento e, em última instância, a sua sobrevivência, podendo dizer-se - como diz Coutinho de Abreu22, que “…subjaz à cláusula geral do n.º 1 do artigo 242.º a ideia de exclusão permitida somente como “fundamento importante”, como última ratio para que os restantes sócios prossigam normalmente a actividade social.”
 
-Nesta mesma linha de pensamento se pronunciou o Supremo Tribunal de Justiça<sup>23</sup>, ao referir que “O instituto da exclusão de sócio encontra fundamento na protecção do fim do contrato de sociedade, traduzido no interesse social, “enquanto elemento comum aos interesses dos sócios contratantes e meio contratual de satisfação dos seus interesses distintos”. Assim, a exclusão justifica-se quando o interesse social é posto em causa por um sócio que, por via da violação das suas obrigações, conduza a resultados ou efeitos que prejudiquem o fim social.
+Nesta mesma linha de pensamento se pronunciou o Supremo Tribunal de Justiça23, ao referir que “O instituto da exclusão de sócio encontra fundamento na protecção do fim do contrato de sociedade, traduzido no interesse social, “enquanto elemento comum aos interesses dos sócios contratantes e meio contratual de satisfação dos seus interesses distintos”. Assim, a exclusão justifica-se quando o interesse social é posto em causa por um sócio que, por via da violação das suas obrigações, conduza a resultados ou efeitos que prejudiquem o fim social.
 
 Daí que a sociedade só possa resolver o contrato em relação a determinado sócio, mediante a exclusão, quando este ponha em causa, não em função dos seus incumprimentos, mas dos seus efeitos, o interesse social (vide Luís Menezes Leitão, “Pressupostos da Exclusão de Sócio nas Sociedades Comerciais”, A.A.F.D.L., 1988, p. 41 e seguintes).
 
@@ -642,13 +642,13 @@ Segundo este ponto de vista, o facto de a norma não indicar um prazo para o exe
 
 Não acompanhamos este entendimento.
 
-E a razão de nos afastarmos desse entendimento consiste no facto de não fazer sentido que perante uma violação tão grave das obrigações do sócio, perante a sociedade, de tal modo que possa conduzir a resultados ou efeitos que prejudiquem o fim social, a ordem jurídica permita a permanência do mesmo na sociedade, em contradição com a defesa dos interesses da mesma, cuja prevalência decorre da figura legal da exclusão de sócio. Tal entendimento não é consentâneo com as exigências de celeridade do tráfego jurídico típicas do Direito Comercial e Societário. <sup>24</sup>
+E a razão de nos afastarmos desse entendimento consiste no facto de não fazer sentido que perante uma violação tão grave das obrigações do sócio, perante a sociedade, de tal modo que possa conduzir a resultados ou efeitos que prejudiquem o fim social, a ordem jurídica permita a permanência do mesmo na sociedade, em contradição com a defesa dos interesses da mesma, cuja prevalência decorre da figura legal da exclusão de sócio. Tal entendimento não é consentâneo com as exigências de celeridade do tráfego jurídico típicas do Direito Comercial e Societário. 24
 
-Se no direito de exclusão judicial de sócio, previsto no artigo 242.º do CSC, está em causa, como tem de estar, um comportamento desleal ou gravemente perturbador do funcionamento da sociedade, que tenha causado ou possa vir a causar à sociedade prejuízos relevantes, e visando esta norma a proteção da integridade da sociedade, não é concebível, que a mesma sociedade, a partir do momento em que conhece os factos, continue passivamente a permitir a presença do sócio na vida societária, e possa vir a tolerar uma situação dessas, durante anos. E, por isso, admitir o prazo ordinário de prescrição de 20 anos para intentar uma acção de exclusão de sócio é de todo incompatível com as exigências de celeridade inerentes à vida societária. <sup>25</sup>
+Se no direito de exclusão judicial de sócio, previsto no artigo 242.º do CSC, está em causa, como tem de estar, um comportamento desleal ou gravemente perturbador do funcionamento da sociedade, que tenha causado ou possa vir a causar à sociedade prejuízos relevantes, e visando esta norma a proteção da integridade da sociedade, não é concebível, que a mesma sociedade, a partir do momento em que conhece os factos, continue passivamente a permitir a presença do sócio na vida societária, e possa vir a tolerar uma situação dessas, durante anos. E, por isso, admitir o prazo ordinário de prescrição de 20 anos para intentar uma acção de exclusão de sócio é de todo incompatível com as exigências de celeridade inerentes à vida societária. 25
 
 Excluída a hipótese de o legislador ter pretendido que ao caso fosse aplicado o prazo geral ordinário previsto no artigo 309.º do Código Civil e perante a omissão de fixação de prazo, no normativo legal constante do artigo 242.º, importa averiguar se estaremos perante uma lacuna da lei a integrar nos termos do disposto no artigo 2.º do Código das Sociedades Comerciais, ou seja, recorrendo a norma aplicável aos casos análogos, ou se, existirá uma norma geral prevista no Código das Sociedades Comerciais em cuja previsão se deva subsumir o presente caso.
 
-Na verdade, o Supremo Tribunal de Justiça<sup>26</sup>, embora no âmbito de uma acção com vista à destituição de gerentes, com fundamento em justa causa, nos termos do art.º 257.º n.º 4 do CSC., entendeu ser aplicável o prazo de prescrição de cinco anos previsto no artigo 174.º do CSC, como “prazo regra”. <sup>27</sup> E não aplicou o disposto no artigo 254.º n.º 6 - prazo de 90 dias - por considerar que tal norma sendo excepcional em relação à norma constante do artigo 174.º, não comporta aplicação analógica, conforme artigo 11.º do Código Civil.
+Na verdade, o Supremo Tribunal de Justiça26, embora no âmbito de uma acção com vista à destituição de gerentes, com fundamento em justa causa, nos termos do art.º 257.º n.º 4 do CSC., entendeu ser aplicável o prazo de prescrição de cinco anos previsto no artigo 174.º do CSC, como “prazo regra”. 27 E não aplicou o disposto no artigo 254.º n.º 6 - prazo de 90 dias - por considerar que tal norma sendo excepcional em relação à norma constante do artigo 174.º, não comporta aplicação analógica, conforme artigo 11.º do Código Civil.
 
 Importa, porém, acentuar que o acórdão mencionado reconheceu que o exercício do direito da sociedade tendo em vista a destituição de gerente, com base em “justa causa” não estava abrangido pela alínea b) do artigo 174.º Porém, “atenta a teleologia imanente da norma em sede de prescrição de direitos” entendeu que “se deve empreender uma extensão teleológica do artigo 174.º 1 b) do CSC ao (não previsto na letra da norma)exercício judicial dos direitos da sociedade ou de sócios tendo em vista a destituição de administradores e gerentes[...]”
 
@@ -684,33 +684,33 @@ Realça-se, desde já, uma dificuldade, de ordem literal, em aplicar o artigo 17
 
 Vejamos:
 
-Como bem observa Evaristo Mendes<sup>28</sup>, “o n.º 1 do artigo 174 do CSC contém duas normas: primeira: no seu corpo, prevê-se um prazo prescricional de 5 anos, designadamente, quanto ao exercício dos direitos da sociedade contra os sócios, enquanto tais, isto é, respeitantes à respectiva relação de socialidade. Segunda sobre o mesmo assunto, em três das suas alíneas, regula-se o início da contagem deste prazo.” <sup>29</sup>
+Como bem observa Evaristo Mendes28, “o n.º 1 do artigo 174 do CSC contém duas normas: primeira: no seu corpo, prevê-se um prazo prescricional de 5 anos, designadamente, quanto ao exercício dos direitos da sociedade contra os sócios, enquanto tais, isto é, respeitantes à respectiva relação de socialidade. Segunda sobre o mesmo assunto, em três das suas alíneas, regula-se o início da contagem deste prazo.” 29
 
 E assim o corpo do artigo começa por referir que “os direitos da sociedade contra os fundadores, os sócios, os gerentes, os administradores, os membros do conselho fiscal e do conselho geral e de supervisão, os revisores oficiais de contas e os liquidatários [...], prescrevem no prazo de cinco anos [...]”
 
 Porém, quando na alínea b) se regula o início da contagem do prazo, fixando-a “no termo da conduta dolosa ou culposa do fundador, do gerente, administrador, membro do conselho fiscal ou do conselho geral e de supervisão, revisor ou liquidatário[...]”, o preceito, estranhamente, não se refere “aos sócios”. Porquê? Trata-se de esquecimento do legislador, ou intencional?
 
-Na verdade, o preceito em análise “não se afigura um primor de clareza e rigor jurídico” <sup>30</sup>, contudo, em face desta omissão de referência aos “sócios” na alínea b) do artigo 174.º, permite pelo menos suscitar forte dúvida sobre a aplicabilidade desta norma ao caso em análise.
+Na verdade, o preceito em análise “não se afigura um primor de clareza e rigor jurídico” 30, contudo, em face desta omissão de referência aos “sócios” na alínea b) do artigo 174.º, permite pelo menos suscitar forte dúvida sobre a aplicabilidade desta norma ao caso em análise.
 
 Por sua vez, na alínea d) do mencionado artigo 174.º, regula-se o início da contagem do prazo de cinco anos, na data do “vencimento de qualquer outra obrigação”.
 
-Será que na previsão da alínea d) “se enquadra o dever geral de lealdade dos sócios (e de não perturbar o funcionamento da sociedade), presente no artigo 241.º n.º 1”? <sup>31</sup>
+Será que na previsão da alínea d) “se enquadra o dever geral de lealdade dos sócios (e de não perturbar o funcionamento da sociedade), presente no artigo 241.º n.º 1”? 31
 
-Afigura-se que não. Nem a letra nem o espírito da norma parece consentir tal conclusão. Será o dever geral de lealdade dos sócios uma obrigação com uma data de vencimento? Crê-se não suscitar especiais dúvidas que o momento de vencimento de uma obrigação está relacionada com obrigações pecuniárias ou mesmo obrigações de facere ou non facere, mas onde não se pode incluir o dever geral de lealdade dos sócios, visto que não é uma obrigação sujeita a prazo de vencimento, sem que, mesmo assim, possamos dizer que nos encontramos no domínio das chamadas obrigações puras. <sup>32</sup>
+Afigura-se que não. Nem a letra nem o espírito da norma parece consentir tal conclusão. Será o dever geral de lealdade dos sócios uma obrigação com uma data de vencimento? Crê-se não suscitar especiais dúvidas que o momento de vencimento de uma obrigação está relacionada com obrigações pecuniárias ou mesmo obrigações de facere ou non facere, mas onde não se pode incluir o dever geral de lealdade dos sócios, visto que não é uma obrigação sujeita a prazo de vencimento, sem que, mesmo assim, possamos dizer que nos encontramos no domínio das chamadas obrigações puras. 32
 
-Por isso, não podemos acompanhar o entendimento de que exista no Código das Sociedades Comerciais uma regra especial de prescrição aplicável ao exercício do direito de exclusão judicial previsto no artigo 242.º do CSC. <sup>33</sup>
+Por isso, não podemos acompanhar o entendimento de que exista no Código das Sociedades Comerciais uma regra especial de prescrição aplicável ao exercício do direito de exclusão judicial previsto no artigo 242.º do CSC. 33
 
 Com efeito, não se afigura decisivo o argumento de que, não se contemplando qualquer prazo adicional de caducidade mais curto para os casos legais de exclusão, efectivável mediante deliberação social, não ser compreensível e sistematicamente coerente que semelhante exigência seja feita para a exclusão prevista no artigo 242.º, efectivável por via judicial.
 
-Desde logo, a coerência do sistema fica salvaguardada se, para os casos previstos no artigo 241.º, for aplicável o mesmo prazo de 90 dias, como de resto tem sido igualmente defendido pela jurisprudência<sup>34</sup>. Por outro lado, sempre se poderiam encontrar razões que justificassem uma eventual diferença de regime, indagação que não é por ora oportuno realizar.
+Desde logo, a coerência do sistema fica salvaguardada se, para os casos previstos no artigo 241.º, for aplicável o mesmo prazo de 90 dias, como de resto tem sido igualmente defendido pela jurisprudência34. Por outro lado, sempre se poderiam encontrar razões que justificassem uma eventual diferença de regime, indagação que não é por ora oportuno realizar.
 
 Em suma, os argumentos apresentados a favor da aplicabilidade, à exclusão judicial de sócio do prazo de prescrição previsto no artigo 174.º do CSC, não se afiguram decisivos.
 
-Assim, afastada a aplicabilidade daquela norma, forçoso é verificar que estamos perante uma lacuna da lei, pois que o artigo 242.º não menciona qualquer prazo para a realização da necessária deliberação de sócios, pressuposto indispensável para a posterior propositura da acção de exclusão, tal como, de resto, concluiu o acórdão recorrido. <sup>35</sup>
+Assim, afastada a aplicabilidade daquela norma, forçoso é verificar que estamos perante uma lacuna da lei, pois que o artigo 242.º não menciona qualquer prazo para a realização da necessária deliberação de sócios, pressuposto indispensável para a posterior propositura da acção de exclusão, tal como, de resto, concluiu o acórdão recorrido. 35
 
-Estamos perante uma lacuna da lei quando o caso deva ser regulado juridicamente, mas para o qual a lei não dê resposta imediata<sup>36</sup>. Na verdade, “A lei - atenta a teleologia e coerência do complexo normativo - não pode deixar de conter um prazo para uma sociedade por quotas exercer o direito de excluir um seu sócio; aliás, a lei contém um tal prazo em relação ao caso paralelo da exclusão do sócio nas sociedades em nome coletivo (cf. art. 186.º/2 do CSC) e a ordem jurídica, salvo quanto aos direitos indisponíveis e aos direitos declarados imprescritíveis, estabelece, “como regra”, que todos os direitos devem ser exercidos dentro de certo prazo (cf. art. 298.º do C. Civil) e não que os mesmos possam ser exercidos sem qualquer limite temporal.”
+Estamos perante uma lacuna da lei quando o caso deva ser regulado juridicamente, mas para o qual a lei não dê resposta imediata36. Na verdade, “A lei - atenta a teleologia e coerência do complexo normativo - não pode deixar de conter um prazo para uma sociedade por quotas exercer o direito de excluir um seu sócio; aliás, a lei contém um tal prazo em relação ao caso paralelo da exclusão do sócio nas sociedades em nome coletivo (cf. art. 186.º/2 do CSC) e a ordem jurídica, salvo quanto aos direitos indisponíveis e aos direitos declarados imprescritíveis, estabelece, “como regra”, que todos os direitos devem ser exercidos dentro de certo prazo (cf. art. 298.º do C. Civil) e não que os mesmos possam ser exercidos sem qualquer limite temporal.”
 
-Certo que estamos perante uma lacuna da lei, impõe-se a respectiva integração, ou seja, encontrar a norma jurídica que solucione o caso. <sup>37</sup>
+Certo que estamos perante uma lacuna da lei, impõe-se a respectiva integração, ou seja, encontrar a norma jurídica que solucione o caso. 37
 
 À integração das lacunas da lei se refere o artigo 10.º do Código Civil estabelecendo o seguinte:
 
@@ -728,9 +728,9 @@ Responde o n.º 2 do artigo 10.º do Código Civil:
 
 “sempre que no caso omisso procedam as razões justificativas da regulamentação do caso previsto na lei.”
 
-Ou, nas palavras de Manuel de Andrade<sup>38</sup>: “[...] A analogia consiste na aplicação dum princípio jurídico que a lei põe para certo facto a outro facto não regulado, mas semelhante, sob o aspeto jurídico, ao primeiro.” (analogia legis)
+Ou, nas palavras de Manuel de Andrade38: “[...] A analogia consiste na aplicação dum princípio jurídico que a lei põe para certo facto a outro facto não regulado, mas semelhante, sob o aspeto jurídico, ao primeiro.” (analogia legis)
 
-Pode suceder, porém, que não exista caso análogo e então, conforme determina o artigo 10.º n.º 3 do Código Civil, é preciso reconstituir a norma com recurso “a um complexo de princípios jurídicos, a síntese deles e mesmo o espírito de todo o sistema (analogia iuris)” <sup>39</sup>
+Pode suceder, porém, que não exista caso análogo e então, conforme determina o artigo 10.º n.º 3 do Código Civil, é preciso reconstituir a norma com recurso “a um complexo de princípios jurídicos, a síntese deles e mesmo o espírito de todo o sistema (analogia iuris)” 39
 
 Ora, começando pelo primeiro método de integração de lacunas, vejamos se existem no Código das Sociedades Comerciais (CSC) normas que visam a composição de interesses análogos aos que se discutem no caso em análise:
 
@@ -738,7 +738,7 @@ Ora, começando pelo primeiro método de integração de lacunas, vejamos se exi
 
 Em ambos os casos - o previsto no artigo 242.º e no artigo 186.º n.º 2 - se regula o exercício do direito potestativo extintivo de que é titular a sociedade (artigo 186.º n.º 1), que culminará na perda da qualidade de sócio, exercício que supõe um acto de livre vontade formada no seio do órgão deliberativo interno que é a coletividade de sócios e expressa através de uma deliberação (cf. artigo 246.º/1/c) - que, só por si, nuns casos, ou integrada por uma decisão judicial, noutros casos, produz o efeito jurídico da perda de qualidade de sócio, efeito esse que se impõe ao sócio excluído.
 
-Nem se diga que as sociedades em nome colectivo, a que se reporta o artigo 186.º, têm uma natureza substancialmente diferente das sociedades por quotas. As diferenças que obviamente existem, entre os dois tipos de sociedades não assumem relevo susceptível de afastar a analogia do regime quanto à exclusão de sócio, pelo contrário. Na verdade, “muitas sociedades por quotas são, na realidade, substancialmente análogas às SNC: por um lado, dado o seu cunho personalístico; por outro lado, em virtude de a responsabilidade dos sócios só ser formal e residualmente limitada, dada a prática sistemática de estes garantirem pessoalmente os financiadores e principais credores.” <sup>40</sup>
+Nem se diga que as sociedades em nome colectivo, a que se reporta o artigo 186.º, têm uma natureza substancialmente diferente das sociedades por quotas. As diferenças que obviamente existem, entre os dois tipos de sociedades não assumem relevo susceptível de afastar a analogia do regime quanto à exclusão de sócio, pelo contrário. Na verdade, “muitas sociedades por quotas são, na realidade, substancialmente análogas às SNC: por um lado, dado o seu cunho personalístico; por outro lado, em virtude de a responsabilidade dos sócios só ser formal e residualmente limitada, dada a prática sistemática de estes garantirem pessoalmente os financiadores e principais credores.” 40
 
 Por isso, afigura-se que se justifica a aplicação analógica do artigo 186.º n.º 2 do CSC
 
@@ -754,7 +754,7 @@ O artigo 241.º n.º 2 remete assim, designadamente, para o disposto no artigo 2
 
 “A deliberação deve ser tomada no prazo de 90 dias, contados do conhecimento por algum gerente da sociedade do facto que permite a amortização”.
 
-Estamos, igualmente, perante a previsão de exclusão de sócio nas sociedades por quotas, mas com base em fundamentos previstos no contrato, não carecendo de interposição de acção judicial, como no caso sub judice. <sup>41</sup>
+Estamos, igualmente, perante a previsão de exclusão de sócio nas sociedades por quotas, mas com base em fundamentos previstos no contrato, não carecendo de interposição de acção judicial, como no caso sub judice. 41
 
 Ora, analisados todos os casos em confronto (artigo 186.º n.º 2, 241.º e 242.º) é patente que as diferenças entre os mesmos não são relevantes, para justificar uma diferença de regime, no tocante ao prazo de que a sociedade dispõe para realizar a deliberação social respectiva. Na verdade, o que sobressai é, antes, a similitude que resulta de todos os casos radicarem em condutas dos sócios passíveis de um juízo de desvalor de tal modo que tornam inexigível que a sociedade continue a suportar a permanência do sócio no seu seio.
 
@@ -764,9 +764,9 @@ Ora, tais razões que justificam a fixação de um prazo de 90 dias para a socie
 
 Logo, pela regra constante do n.º 1 e 2 do artigo 10.º do Código Civil, deverá aplicar-se ao caso previsto no artigo 242.º (caso omisso), o prazo de 90 dias, previsto nos artigos 186.º n.º 2 e 241.º (casos análogos).
 
-Ainda o disposto no artigo 254.º n.º 5 e 6, <sup>42</sup> a propósito da destituição do gerente por exercício de atividade concorrente com a sociedade, em que se estipula os direitos da sociedade “prescrevem no prazo de 90 dias a contar do momento em que todos os sócios tenham conhecimento da actividade exercida pelo gerente[...]”<sup>43</sup>, apresenta a mesma razão. Está em causa, igualmente, a defesa da sociedade em relação a comportamentos gravemente atentatórios dos interesses da mesma, por parte de um gerente. Esta similitude é suficientemente relevante para que possa ser considerado um caso análogo, não obstante a diferença assinalada de se tratar de um gerente e não de um sócio.
+Ainda o disposto no artigo 254.º n.º 5 e 6, 42 a propósito da destituição do gerente por exercício de atividade concorrente com a sociedade, em que se estipula os direitos da sociedade “prescrevem no prazo de 90 dias a contar do momento em que todos os sócios tenham conhecimento da actividade exercida pelo gerente[...]”43, apresenta a mesma razão. Está em causa, igualmente, a defesa da sociedade em relação a comportamentos gravemente atentatórios dos interesses da mesma, por parte de um gerente. Esta similitude é suficientemente relevante para que possa ser considerado um caso análogo, não obstante a diferença assinalada de se tratar de um gerente e não de um sócio.
 
-Assim, aplicando-se por analogia, maxime o disposto no artigo 186.º n.º 2, reforçado pelos outros preceitos mencionados, a deliberação a que se refere o artigo 242.º terá de ocorrer no prazo de 90 dias, a contar da data em que algum dos gerentes tomou conhecimento do facto que permita a exclusão. <sup>44</sup>
+Assim, aplicando-se por analogia, maxime o disposto no artigo 186.º n.º 2, reforçado pelos outros preceitos mencionados, a deliberação a que se refere o artigo 242.º terá de ocorrer no prazo de 90 dias, a contar da data em que algum dos gerentes tomou conhecimento do facto que permita a exclusão. 44
 
 *
 
@@ -774,7 +774,7 @@ Mas, aqui chegados, ainda não temos uma resposta completa para a questão de di
 
 Como resulta, desde logo, da epígrafe do artigo 242.º, estamos no âmbito de uma “exclusão judicial de sócio”, que se distingue da simples “exclusão de sócio” prevista no artigo 241.º
 
-Naquela, realizada a deliberação dos sócios sobre a proposição da acção de exclusão, ainda é necessário, obviamente, interpor tal acção. <sup>45</sup> E pergunta-se: qual o prazo, se é que existe um prazo, dentro do qual a sociedade terá de propor a acção, já que o artigo 242.º não o define?
+Naquela, realizada a deliberação dos sócios sobre a proposição da acção de exclusão, ainda é necessário, obviamente, interpor tal acção. 45 E pergunta-se: qual o prazo, se é que existe um prazo, dentro do qual a sociedade terá de propor a acção, já que o artigo 242.º não o define?
 
 E de novo, colocamos a questão, estaremos perante uma lacuna da lei, ou estará previsto esse prazo noutro preceito do Código das Sociedades Comerciais, designadamente o já citado artigo 174.º?
 
@@ -782,7 +782,7 @@ Será que o exercício do direito de propor a acção de exclusão de sócio, no
 
 Como já ficou explicitado supra, a propósito do prazo para proceder à deliberação de sócios, o prazo para a propositura da acção prevista no artigo 242.º não é susceptível de integrar-se em qualquer das previsões do artigo 174.º
 
-Desde logo, porque como ficará explicitado mais adiante, este prazo de propositura de acção é um prazo de caducidade e não de prescrição. Como se desenvolverá um pouco mais adiante, o que separa os institutos da prescrição e da caducidade é a diversidade da função do prazo: num caso, fixa o lapso de tempo em que há-de iniciar-se o exercício (caducidade); noutro, limita a duração da negligência, da exigibilidade (prescrição). Ora, decorre de todas as situações previstas no artigo 174.º que se referem a fixação de um prazo para o exercício de direitos de crédito - maxime direitos de indemnização. Assim sendo, em tudo o que o artigo 174.º não contempla, vigora o regime geral do Código Civil - nomeadamente quanto à suspensão da prescrição e quanto à sua interrupção. Recorde-se ainda que o simples decurso do prazo não extingue o direito do credor, apenas transforma o lado passivo do vínculo em obrigação natural (artigo 304.º, 402.º e 403.º do Código Civil) <sup>46</sup>. Assim, no caso de o devedor não invocar a prescrição e cumprir espontaneamente a prestação, não poderá repeti-la, já que o credor goza de soluti retentio. Bem se vê que, se todo este regime jurídico se adequa perfeitamente ao disposto no artigo 174.º do CSC, tal não sucede relativamente à questão em análise em que está em causa fixar um período de tempo durante o qual a sociedade poderá exercer o seu direito, em relação ao qual não existe a correspectiva obrigação por parte do demandado. Logo, não se coloca a questão de exigibilidade do direito do autor.
+Desde logo, porque como ficará explicitado mais adiante, este prazo de propositura de acção é um prazo de caducidade e não de prescrição. Como se desenvolverá um pouco mais adiante, o que separa os institutos da prescrição e da caducidade é a diversidade da função do prazo: num caso, fixa o lapso de tempo em que há-de iniciar-se o exercício (caducidade); noutro, limita a duração da negligência, da exigibilidade (prescrição). Ora, decorre de todas as situações previstas no artigo 174.º que se referem a fixação de um prazo para o exercício de direitos de crédito - maxime direitos de indemnização. Assim sendo, em tudo o que o artigo 174.º não contempla, vigora o regime geral do Código Civil - nomeadamente quanto à suspensão da prescrição e quanto à sua interrupção. Recorde-se ainda que o simples decurso do prazo não extingue o direito do credor, apenas transforma o lado passivo do vínculo em obrigação natural (artigo 304.º, 402.º e 403.º do Código Civil) 46. Assim, no caso de o devedor não invocar a prescrição e cumprir espontaneamente a prestação, não poderá repeti-la, já que o credor goza de soluti retentio. Bem se vê que, se todo este regime jurídico se adequa perfeitamente ao disposto no artigo 174.º do CSC, tal não sucede relativamente à questão em análise em que está em causa fixar um período de tempo durante o qual a sociedade poderá exercer o seu direito, em relação ao qual não existe a correspectiva obrigação por parte do demandado. Logo, não se coloca a questão de exigibilidade do direito do autor.
 
 E, assim sendo, impondo-se concluir que o prazo de propositura da acção prevista no artigo 242.º não se integra em qualquer das previsões do artigo 174.º, está excluída a aplicabilidade do prazo de cinco anos ali definido.
 
@@ -790,7 +790,7 @@ Não encontrando no Código das Sociedades Comerciais norma que dê resposta à 
 
 Porém, neste caso, relativamente ao prazo para a propositura da acção, não encontramos no sistema jurídico norma que preveja caso análogo que possa ser aplicado por analogia legis, tal como ocorreu em relação à deliberação da sociedade.
 
-Assim, nos termos do disposto no artigo 10.º n.º 3 do Código Civil, resta elaborar a norma que resulta do “espirito do sistema”. <sup>47</sup>
+Assim, nos termos do disposto no artigo 10.º n.º 3 do Código Civil, resta elaborar a norma que resulta do “espirito do sistema”. 47
 
 Tal como bem se diz no acórdão recorrido “não se encontrando, como é o caso, uma disposição aplicável a um caso afim, a norma a constituir tem que se inspirar do que se extrai dos vários casos regulados, tem que corresponder à aplicação dum princípio geral não expresso.
 
@@ -798,7 +798,7 @@ E, claramente, podemos afirmar que perpassa por todo o “espírito do sistema�
 
 A fixação pela lei deste curto prazo de 90 dias, para que a sociedade e os sócios possam exercer os referidos direitos, nos sucessivos casos elencados, demonstra que o equilíbrio e coerência do sistema não admitiriam a ausência de prazo para a propositura da acção a que alude o artigo 242.º n.º 2 e antes exigem que entre a deliberação dos sócios ali prevista e o momento da propositura da acção decorra um curto período de tempo. Ora, extraindo dos demais mencionados preceitos legais um princípio comum concretizado numa justa medida temporal que foi aplicada às diversas situações em apreço, importa, em conformidade com o disposto no artigo 10.º n.º 3 do Código Civil, criar a norma que seria criada, se houvesse de legislar-se “dentro do espírito do sistema”, ou seja criar a regra geral e abstracta que contemple o tipo de casos em que se inclui o caso omisso.
 
-Tal como ensina Manuel de Andrade<sup>48</sup> “[...] embora o direito positivo não apresente disposição especial para certa matéria ou caso, há nele, porém, capacidade e força latente para a elaborar e contém germes de uma série indeterminada de normas não expressas, mas ínsitas e vigentes no sistema. Com efeito, se duma só disposição ou dum grupo de normas se deduz um princípio jurídico mais amplo, é de concluir, na dúvida, que, visto ter aplicado semelhante princípio no caso particular, a ordem jurídica o aprova na sua generalidade, e portanto todas as consequências que do princípio derivam.”
+Tal como ensina Manuel de Andrade48 “[...] embora o direito positivo não apresente disposição especial para certa matéria ou caso, há nele, porém, capacidade e força latente para a elaborar e contém germes de uma série indeterminada de normas não expressas, mas ínsitas e vigentes no sistema. Com efeito, se duma só disposição ou dum grupo de normas se deduz um princípio jurídico mais amplo, é de concluir, na dúvida, que, visto ter aplicado semelhante princípio no caso particular, a ordem jurídica o aprova na sua generalidade, e portanto todas as consequências que do princípio derivam.”
 
 Da análise do grupo de normas mencionado resulta a consideração do prazo de noventa dias como aquele que concilia a celeridade necessária tendo em conta os interesses que estão em causa, mas também a garantia de um efectivo exercício dos direitos das partes envolvidas. A norma a constituir terá, pois, de inspirar-se naquilo que se deduz dos referidos preceitos, correspondendo à aplicação de um princípio geral, tal como é próprio da norma legal.
 
@@ -806,15 +806,15 @@ Assim, de acordo com o exposto, a norma a criar nos termos do disposto no artigo
 
 “A propositura da acção de exclusão de sócio deve ocorrer no prazo de 90 dias, a contar da data da deliberação dos sócios a que se refere o n.º 2.”
 
-E, assim, não podemos deixar de concluir, tal como concluiu o acórdão recorrido, que o exercício do direito de exclusão judicial de sócio previsto no artigo 242.º do CSC pressupõe o cumprimento de dois prazos: (i)o primeiro, de 90 dias, a contar da data em que algum dos gerentes tomou conhecimento do facto que permite a exclusão. Durante este primeiro prazo deverá ser deliberada pelos sócios a propositura da acção de exclusão. (ii) o segundo, de 90 dias a contar da data daquela deliberação, deve ser efectivamente interposta a acção de exclusão. <sup>49</sup>
+E, assim, não podemos deixar de concluir, tal como concluiu o acórdão recorrido, que o exercício do direito de exclusão judicial de sócio previsto no artigo 242.º do CSC pressupõe o cumprimento de dois prazos: (i)o primeiro, de 90 dias, a contar da data em que algum dos gerentes tomou conhecimento do facto que permite a exclusão. Durante este primeiro prazo deverá ser deliberada pelos sócios a propositura da acção de exclusão. (ii) o segundo, de 90 dias a contar da data daquela deliberação, deve ser efectivamente interposta a acção de exclusão. 49
 
-Há quem entenda que tal acção deverá ser proposta dentro do mesmo intervalo temporal, ou seja ainda antes de expirados os 90 dias a contar do conhecimento pelos sócios dos factos em que se baseia a exclusão. <sup>50</sup> Carolina Cunha embora inclinando-se para essa solução, não apresentando, contudo, argumentos a favor desse entendimento, refere antes ser sensível “às dificuldades práticas que se podem levantar, sobretudo na ausência de uma norma legal que claramente o imponha e que funcione como horizonte de previsibilidade para todos os envolvidos”.
+Há quem entenda que tal acção deverá ser proposta dentro do mesmo intervalo temporal, ou seja ainda antes de expirados os 90 dias a contar do conhecimento pelos sócios dos factos em que se baseia a exclusão. 50 Carolina Cunha embora inclinando-se para essa solução, não apresentando, contudo, argumentos a favor desse entendimento, refere antes ser sensível “às dificuldades práticas que se podem levantar, sobretudo na ausência de uma norma legal que claramente o imponha e que funcione como horizonte de previsibilidade para todos os envolvidos”.
 
 Ora, é também por essas razões que aqui defendemos a existência de um segundo prazo de 90 dias, prazo esse a contar da deliberação que determinou a propositura da ação de exclusão, encontrado por analogia iuris, nos termos expostos. Na verdade, não obstante a necessidade de satisfação das exigências de celeridade do tráfego jurídico típicas do Direito Comercial e Societário, fundamentarem a defesa do prazo de 90 dias para a deliberação dos sócios a que se refere o artigo 242.º n.º 2, não pode ser razão para exigir que, também nesse mesmo prazo, devesse ser interposta a acção judicial. Desde logo porque tal único prazo de 90 dias para a convocação de uma assembleia geral, realização da mesma, seguida das diligências necessárias ao estabelecimento de mandato judicial e subsequente propositura da acção, seria um prazo demasiado curto que poderia inviabilizar, na prática, o pleno exercício do direito, por parte da sociedade. Por outro lado, tal entendimento conduziria ao esvaziamento da analogia encontrada com o disposto no artigo 186.º n.º 2, pois que, no caso de exclusão judicial de sócio, a sociedade nunca beneficiaria de um prazo de 90 dias para deliberar, mas de um prazo muito inferior.
 
-Afigura-se estar desta forma prevenido o risco de “a sociedade propor acções precipitadas” <sup>51</sup>, já que o comportamento do sócio que está em causa é um comportamento intolerável que põe em risco a própria sobrevivência da sociedade, logo, de tal modo manifesto que não colocará especiais problemas de prova. Esses factos terão de constar da acta da deliberação de sócios relativamente à propositura da acção, o que facilitará a elaboração da peça processual que dará início à acção. Por outro lado, dada a gravidade do comportamento em causa, deve o interesse da sociedade e do sistema económico sobrepor-se a qualquer tipo de condescendência relativamente ao sócio prevaricador.
+Afigura-se estar desta forma prevenido o risco de “a sociedade propor acções precipitadas” 51, já que o comportamento do sócio que está em causa é um comportamento intolerável que põe em risco a própria sobrevivência da sociedade, logo, de tal modo manifesto que não colocará especiais problemas de prova. Esses factos terão de constar da acta da deliberação de sócios relativamente à propositura da acção, o que facilitará a elaboração da peça processual que dará início à acção. Por outro lado, dada a gravidade do comportamento em causa, deve o interesse da sociedade e do sistema económico sobrepor-se a qualquer tipo de condescendência relativamente ao sócio prevaricador.
 
-Impõe-se, pois, concluir, quanto ao prazo de que dispõe uma sociedade por quotas para proceder à exclusão de sócios, que há dois prazos a considerar: (i) um primeiro prazo de 90 dias, para realizar a deliberação que desencadeia o processo de exclusão, a contar do conhecimento dos factos que fundamentam a exclusão, por algum dos gerentes e (ii)um segundo prazo, também de 90 dias, para proceder à propositura da acção judicial de exclusão, prazo este a contar da data da deliberação que determinou a propositura da ação de exclusão<sup>52</sup>.
+Impõe-se, pois, concluir, quanto ao prazo de que dispõe uma sociedade por quotas para proceder à exclusão de sócios, que há dois prazos a considerar: (i) um primeiro prazo de 90 dias, para realizar a deliberação que desencadeia o processo de exclusão, a contar do conhecimento dos factos que fundamentam a exclusão, por algum dos gerentes e (ii)um segundo prazo, também de 90 dias, para proceder à propositura da acção judicial de exclusão, prazo este a contar da data da deliberação que determinou a propositura da ação de exclusão52.
 
 b) Consequência jurídica do esgotamento dos prazos referidos
 
@@ -826,9 +826,9 @@ Ao regular o tempo e sua repercussão nas relações jurídicas, o Código Civil
 
 Por si só, o normativo legal não nos esclarece de forma decisiva, sobre a questão colocada, pelo que muito útil será o contributo doutrinário.
 
-Na verdade, como refere Vaz Serra<sup>53</sup>, “a caducidade não se distingue da prescrição pelo facto de se referir a prazos de propositura de acções. Estes prazos podem ser de caducidade, mas também podem ser de prescrição. Quando a lei diz que certa acção deve ser proposta em determinado prazo, nada nos elucida isso, sem mais, acerca da natureza do instituto que pretende considerar aplicável.”
+Na verdade, como refere Vaz Serra53, “a caducidade não se distingue da prescrição pelo facto de se referir a prazos de propositura de acções. Estes prazos podem ser de caducidade, mas também podem ser de prescrição. Quando a lei diz que certa acção deve ser proposta em determinado prazo, nada nos elucida isso, sem mais, acerca da natureza do instituto que pretende considerar aplicável.”
 
-Por sua vez, nota Manuel de Andrade<sup>54</sup>: “[...] o fundamento específico do instituto prescricional [...] é a inércia do respectivo titular que ou significa renúncia ao seu direito ou de qualquer maneira o torna indigno de protecção jurídica [...]. O fundamento específico da caducidade é o da necessidade de certeza jurídica. Certos direitos devem ser exercidos durante certo prazo, para que ao fim desse tempo fique inalteravelmente definida a situação jurídica das partes. É de interesse público que tais situações fiquem, assim, definidas de uma vez para sempre, com o transcurso do respectivo prazo.”
+Por sua vez, nota Manuel de Andrade54: “[...] o fundamento específico do instituto prescricional [...] é a inércia do respectivo titular que ou significa renúncia ao seu direito ou de qualquer maneira o torna indigno de protecção jurídica [...]. O fundamento específico da caducidade é o da necessidade de certeza jurídica. Certos direitos devem ser exercidos durante certo prazo, para que ao fim desse tempo fique inalteravelmente definida a situação jurídica das partes. É de interesse público que tais situações fiquem, assim, definidas de uma vez para sempre, com o transcurso do respectivo prazo.”
 
 E sintetiza aquele Mestre, os aspectos em que se distingue a caducidade da prescrição extintiva:
 
@@ -840,9 +840,9 @@ E sintetiza aquele Mestre, os aspectos em que se distingue a caducidade da presc
 
 Será, pois, critério mais fidedigno para a classificação do prazo como de prescrição ou de caducidade a avaliação do fundamento subjacente à fixação desse prazo.
 
-O que separa os institutos da prescrição e da caducidade é a diversidade da função do prazo: num caso, fixa o lapso de tempo em que há-de iniciar-se o exercício (caducidade); noutro, limita a duração da negligência, da exigibilidade (prescrição) <sup>55</sup>.
+O que separa os institutos da prescrição e da caducidade é a diversidade da função do prazo: num caso, fixa o lapso de tempo em que há-de iniciar-se o exercício (caducidade); noutro, limita a duração da negligência, da exigibilidade (prescrição) 55.
 
-Não obstante as dificuldades que possam surgir aplicando estes critérios<sup>56</sup>, sendo certo que sempre casos particulares podem suscitar dúvidas específicas, cremos que os mesmos contribuem para uma melhor interpretação do disposto no artigo 298.º do Código Civil.
+Não obstante as dificuldades que possam surgir aplicando estes critérios56, sendo certo que sempre casos particulares podem suscitar dúvidas específicas, cremos que os mesmos contribuem para uma melhor interpretação do disposto no artigo 298.º do Código Civil.
 
 É certo que, de acordo com o disposto no artigo 298.º n.º 2 supra mencionado, quando a lei não referir expressamente que um determinado prazo é de prescrição, deverá entender-se que é de caducidade. Ora, dado que como já referido, não se podendo integrar os prazos em análise na previsão do artigo 174.º que define os direitos que estão sujeitos ao prazo de prescrição, forçoso será concluir, à luz do disposto no artigo 298.º do Código Civil que estamos perante prazos de caducidade. Acresce que à mesma conclusão se chega através da aplicação dos supra mencionados critérios doutrinários.
 
@@ -928,7 +928,7 @@ Considerar-se que o prazo para propositura de uma acção principal de exclusão
 
 Uma interpretação normativa segundo a qual basta um mero conhecimento indiciário de comportamentos desleais do sócio para que se inicie o prazo de 90 dias para a propositura de uma acção de exclusão judicial de sócio impossibilita que as sociedades possam exercer de forma efectiva o direito que lhes é concedido no artigo 242.º do CPC, pois, na vasta maioria dos casos, atenta a natureza dos comportamento em questão e o ónus probatório imposto à sociedade, seria totalmente impossível à sociedade recolher toda a informação e prova de que necessita para que a acção de exclusão a propor possa ter a probabilidade de vir a ser julgada procedente.
 
-A situação é ainda mais gravosa quando os prazos aplicáveis à propositura de acções da sociedade contra os seus sócios decorrentes do CSC são de 5 anos - nos termos do artigo 174.º do CSC - sendo certo que neste dispositivo não se encontram apenas previstas situações relativas a direito de crédito, mas quaisquer direitos<sup>1</sup> (questão que foi esclarecida pela doutrina no preceito correspondente do Cód. Comercial - artigo 150.º - e que foi seguida em Ac do STJ de 6/5/1955 (BMJ 49.º, p. 530) - como indica Ferrer Correia/Lobo Xavier, in anotação jurisprudencial - RDES, out-Dez 1965, ano XII, n.º 4 p. 32-3 - incluindo-se ali também direitos potestativos).
+A situação é ainda mais gravosa quando os prazos aplicáveis à propositura de acções da sociedade contra os seus sócios decorrentes do CSC são de 5 anos - nos termos do artigo 174.º do CSC - sendo certo que neste dispositivo não se encontram apenas previstas situações relativas a direito de crédito, mas quaisquer direitos1 (questão que foi esclarecida pela doutrina no preceito correspondente do Cód. Comercial - artigo 150.º - e que foi seguida em Ac do STJ de 6/5/1955 (BMJ 49.º, p. 530) - como indica Ferrer Correia/Lobo Xavier, in anotação jurisprudencial - RDES, out-Dez 1965, ano XII, n.º 4 p. 32-3 - incluindo-se ali também direitos potestativos).
 
 A solução propugnada no projecto ao afirmar que visa proteger o interesse social conduz ao resultado oposto: permitir a prevalência da manutenção da qualidade de sócio, sem possibilidade de discussão do verdadeiro interesse social, em prejuízo do interesse da sociedade em prosseguir sua missão económica e social com uma colectividade de sujeitos que cumpram os compromissos associados com a participação social societária adquirida e em unidade com o projecto empresarial comum.
 
@@ -994,7 +994,7 @@ O artigo 174.º, n.º 1 é perfeitamente aplicável na medida em que prevê quan
 
 Não se pode entender que esta referência a obrigação social corresponda a uma obrigação em sentido restrito, estando, no lado activo, pressuposto um direito subjectivo, de crédito ou de outro tipo, incluindo-se aqui os direitos potestativos, como o de exclusão.
 
-Importa também referir que o regime da prescrição (em vez da caducidade) é o mais adequado à regulação do conflito de interesses no âmbito deste direito potestativo, porque tutela a certeza e segurança do sujeito passivo, na medida em que o sujeito activo teve um comportamento de desinteresse pela sua posição e exercício do direito - argumento já usado por Ferrer Correia/ Lobo Xavier, no estudo citado<sup>2</sup>.
+Importa também referir que o regime da prescrição (em vez da caducidade) é o mais adequado à regulação do conflito de interesses no âmbito deste direito potestativo, porque tutela a certeza e segurança do sujeito passivo, na medida em que o sujeito activo teve um comportamento de desinteresse pela sua posição e exercício do direito - argumento já usado por Ferrer Correia/ Lobo Xavier, no estudo citado2.
 
 5 - Tenderia a considerar que o direito de exclusão dos sócios não se encontra prescrito e que a acção deve prosseguir, a fim de se saber se estão reunidos os pressupostos da exclusão fundada na cláusula geral.
 
@@ -1012,123 +1012,123 @@ ___
 
 Notas de rodapé do acórdão:
 
-<sup>1</sup> Disponível em www.dgsi.pt
+1 Disponível em www.dgsi.pt
 
-<sup>2</sup> Neste sentido, veja-se, entre outros, o acórdão deste STJ, de 10-05-2018, no âmbito do recurso para uniformização de jurisprudência n.º 2643/12.0TBPVZ.P1. S1-A, disponível in www.dgsi.pt.
+2 Neste sentido, veja-se, entre outros, o acórdão deste STJ, de 10-05-2018, no âmbito do recurso para uniformização de jurisprudência n.º 2643/12.0TBPVZ.P1. S1-A, disponível in www.dgsi.pt.
 
-<sup>3</sup> In Recursos em Processo Civil, 6.ª Edição Atualizada, Almedina, 2020, p. 549.
+3 In Recursos em Processo Civil, 6.ª Edição Atualizada, Almedina, 2020, p. 549.
 
-<sup>4</sup> Neste sentido, veja-se o Acórdão do STJ de 20-11-2019, Recurso para uniformização de jurisprudência n.º 433/11.7TVPRT.P1.S2-A, onde se afirma que o STJ tem vindo a entender, “de forma pacífica e reiterada, que a contradição relevante, neste âmbito, pressupõe ainda a identidade do núcleo essencial das concernentes situações fácticas.”.
+4 Neste sentido, veja-se o Acórdão do STJ de 20-11-2019, Recurso para uniformização de jurisprudência n.º 433/11.7TVPRT.P1.S2-A, onde se afirma que o STJ tem vindo a entender, “de forma pacífica e reiterada, que a contradição relevante, neste âmbito, pressupõe ainda a identidade do núcleo essencial das concernentes situações fácticas.”.
 
-<sup>5</sup> In Comentário ao Código das Sociedades Comerciais, Sociedade por Quotas, Vol. II. pp. 61 e 62 (anotação ao artigo 242.º do CSC).
+5 In Comentário ao Código das Sociedades Comerciais, Sociedade por Quotas, Vol. II. pp. 61 e 62 (anotação ao artigo 242.º do CSC).
 
-<sup>6</sup> Vide Vaz Serra, in BMJ 105.º, pág. 46.
+6 Vide Vaz Serra, in BMJ 105.º, pág. 46.
 
-<sup>7</sup> In Notas ao CC, vol. II, pág. 96
+7 In Notas ao CC, vol. II, pág. 96
 
-<sup>8</sup> In A exclusão de sócios (em particular nas sociedades por quotas), Problemas do Direito das Sociedades, 2.ª reimpressão, 2008, Almedina, pp. 203 e ss.
+8 In A exclusão de sócios (em particular nas sociedades por quotas), Problemas do Direito das Sociedades, 2.ª reimpressão, 2008, Almedina, pp. 203 e ss.
 
-<sup>9</sup> Acórdão do STJ de 07-10-2003, Processo 03A323, disponível em www.dgsi.pt
+9 Acórdão do STJ de 07-10-2003, Processo 03A323, disponível em www.dgsi.pt
 
-<sup>10</sup> Certamente se quis dizer “destituição”
+10 Certamente se quis dizer “destituição”
 
-<sup>11</sup> Processo 97A138, disponível em www.dgsi.pt apenas o sumário que se transcreveu.
+11 Processo 97A138, disponível em www.dgsi.pt apenas o sumário que se transcreveu.
 
-<sup>12</sup> Processo 28/2001.E1.S1, disponível em www.dgsi.pt
+12 Processo 28/2001.E1.S1, disponível em www.dgsi.pt
 
-<sup>13</sup> Processo 1197/22.4T8CBR.C1.S1,disponível em www.dgsi.pt
+13 Processo 1197/22.4T8CBR.C1.S1,disponível em www.dgsi.pt
 
-<sup>14</sup> Processo 5367/20.1T8VNG-A.P1, disponível em www.dgsi.pt.
+14 Processo 5367/20.1T8VNG-A.P1, disponível em www.dgsi.pt.
 
-<sup>15</sup> Processo 5367/20.1T8VNG-A.P1, disponível em www.dgsi.pt.
+15 Processo 5367/20.1T8VNG-A.P1, disponível em www.dgsi.pt.
 
-<sup>16</sup> Processo 2999/21.4T8CBR-A.C1, disponível em www.dgsi.pt
+16 Processo 2999/21.4T8CBR-A.C1, disponível em www.dgsi.pt
 
-<sup>17</sup> Processo 3160/13.7TBBRG.G1, disponível em www.dgsi.pt
+17 Processo 3160/13.7TBBRG.G1, disponível em www.dgsi.pt
 
-<sup>18</sup> Processo 10010/19.9T8LSB-A.P1, disponível em www.dgsi.pt
+18 Processo 10010/19.9T8LSB-A.P1, disponível em www.dgsi.pt
 
-<sup>19</sup> Processo 2992/11.5TBSTB-A.E1, disponível em www.dgsi.pt
+19 Processo 2992/11.5TBSTB-A.E1, disponível em www.dgsi.pt
 
-<sup>20</sup> Será deste diploma legal todos os artigos que vierem a ser citados sem indicação de proveniência.
+20 Será deste diploma legal todos os artigos que vierem a ser citados sem indicação de proveniência.
 
-<sup>21</sup> Jorge Coutinho de Abreu, Curso de Direito Comercial, Vol. II, Das Sociedades, 2.ª reimpressão da Edição de 2002, p.305.
+21 Jorge Coutinho de Abreu, Curso de Direito Comercial, Vol. II, Das Sociedades, 2.ª reimpressão da Edição de 2002, p.305.
 
-<sup>22</sup> Ob.Cit.
+22 Ob.Cit.
 
-<sup>23</sup> Vide Acórdão de 15-02-2005, Processo 04A4369, disponível em www.dgsi.pt
+23 Vide Acórdão de 15-02-2005, Processo 04A4369, disponível em www.dgsi.pt
 
-<sup>24</sup> Catarina Pontes, “Da irresponsabilidade dos sócios na prossecução do interesse social: direito de exclusão de sócio”, in Estudos de Homenagem ao Professor Doutor Manuel Pita, Almedina, 2022, p.165.
+24 Catarina Pontes, “Da irresponsabilidade dos sócios na prossecução do interesse social: direito de exclusão de sócio”, in Estudos de Homenagem ao Professor Doutor Manuel Pita, Almedina, 2022, p.165.
 
-<sup>25</sup> Catarina Pontes, idem.
+25 Catarina Pontes, idem.
 
-<sup>26</sup> Vide Acórdão de 16-06-2020, Processo 2231/17.5T8STS.P1.S2, disponível em www.dgsi.pt
+26 Vide Acórdão de 16-06-2020, Processo 2231/17.5T8STS.P1.S2, disponível em www.dgsi.pt
 
-<sup>27</sup> Idem.
+27 Idem.
 
-<sup>28</sup> “Notas sobre a exclusão judicial de sócios de SpQ. Prazo(s) para o exercício do direito de exclusão judicial”, disponível em htt://www.evaristomendes.eu/files/p_07_02
+28 “Notas sobre a exclusão judicial de sócios de SpQ. Prazo(s) para o exercício do direito de exclusão judicial”, disponível em htt://www.evaristomendes.eu/files/p_07_02
 
-<sup>29</sup> Afigura-se que é nas suas cinco alíneas (a), b),c),d) e e) que se regula o ínicio da contagem do prazo previsto no corpo do artigo, visto que nenhuma restrição é feita nesse corpo, ao remeter para todas as alíneas, na expressão “ contados a partir da verificação dos seguintes factos”.
+29 Afigura-se que é nas suas cinco alíneas (a), b),c),d) e e) que se regula o ínicio da contagem do prazo previsto no corpo do artigo, visto que nenhuma restrição é feita nesse corpo, ao remeter para todas as alíneas, na expressão “ contados a partir da verificação dos seguintes factos”.
 
-<sup>30</sup> Evaristo Mendes, idem, p.4
+30 Evaristo Mendes, idem, p.4
 
-<sup>31</sup> Como defende Evaristo Mendes (loc.cit.), p.4.
+31 Como defende Evaristo Mendes (loc.cit.), p.4.
 
-<sup>32</sup> Vide, a título exemplificativo, Mario Júlio de Almeida Costa, Direito das Obrigações, 10.ª edição, 2006, Almedina, pp.1007-1012.
+32 Vide, a título exemplificativo, Mario Júlio de Almeida Costa, Direito das Obrigações, 10.ª edição, 2006, Almedina, pp.1007-1012.
 
-<sup>33</sup> Tal como defende o Autor citado.
+33 Tal como defende o Autor citado.
 
-<sup>34</sup> Como se refere no Acórdão do Tribunal da Relação de Coimbra de 12-07-2022, Processo 2999/21.4T8CBR. C1, disponível em www.dgsi.pt:”Ora, ao contrário do que acontece com o direito de exclusão “por força do contrato”, para o qual se prevê a obrigatoriedade de a deliberação ser tomada no prazo de 90 dias (n.º 2 do art. 241.º, ao remeter para o regime da amortização de quotas), a lei não estabelece qualquer prazo para o exercício do direito de exclusão de sócio, através da deliberação dos sócios e consequente propositura de ação judicial prevista no n.º 1 do artigo 242.º do CSC.”
+34 Como se refere no Acórdão do Tribunal da Relação de Coimbra de 12-07-2022, Processo 2999/21.4T8CBR. C1, disponível em www.dgsi.pt:”Ora, ao contrário do que acontece com o direito de exclusão “por força do contrato”, para o qual se prevê a obrigatoriedade de a deliberação ser tomada no prazo de 90 dias (n.º 2 do art. 241.º, ao remeter para o regime da amortização de quotas), a lei não estabelece qualquer prazo para o exercício do direito de exclusão de sócio, através da deliberação dos sócios e consequente propositura de ação judicial prevista no n.º 1 do artigo 242.º do CSC.”
 
-<sup>35</sup> É este igualmente o entendimento Catarina Pontes in Ob cit, p.165, defendendo que estamos perante “um caso omisso”.
+35 É este igualmente o entendimento Catarina Pontes in Ob cit, p.165, defendendo que estamos perante “um caso omisso”.
 
-<sup>36</sup> Castro Mendes, Introdução ao Estudo do Direito, Edição da FDUL, Lisboa, 1977, p.373.
+36 Castro Mendes, Introdução ao Estudo do Direito, Edição da FDUL, Lisboa, 1977, p.373.
 
-<sup>37</sup> José de Oliveira Ascensão, “A integração das lacunas da lei e o novo Código Civil” in “O Direito”, ano 100, 273-304.
+37 José de Oliveira Ascensão, “A integração das lacunas da lei e o novo Código Civil” in “O Direito”, ano 100, 273-304.
 
-<sup>38</sup> Ensaio sobre a Teoria da Interpretação das Leis, pp158-159
+38 Ensaio sobre a Teoria da Interpretação das Leis, pp158-159
 
-<sup>39</sup> Idem.
+39 Idem.
 
-<sup>40</sup> Evaristo Mendes, loc. Cit., p.6.
+40 Evaristo Mendes, loc. Cit., p.6.
 
-<sup>41</sup> Juliano Pereira in O Direito de Exclusão de Sócio na Sociedade Anónima, Almedina, 2009, p.88, defende a aplicação analógica destes preceitos (241.º n.º 2 e 234.º n.º 2) para defender o prazo de 90 dias para a sociedade deliberar a exclusão de sócio nos termos do artigo 242.º n.º 2.
+41 Juliano Pereira in O Direito de Exclusão de Sócio na Sociedade Anónima, Almedina, 2009, p.88, defende a aplicação analógica destes preceitos (241.º n.º 2 e 234.º n.º 2) para defender o prazo de 90 dias para a sociedade deliberar a exclusão de sócio nos termos do artigo 242.º n.º 2.
 
-<sup>42</sup> Paulo Olavo Cunha, Direito das Sociedades Comerciais 6.ª edição, 2016, Almedina, p500-501, ensaia a tese de que o direito de exclusão judicial de sócio está sujeito a uma prazo de prescrição de 90 dias, por ser esse o prazo previsto para reagir contra uma situação de concorrência (artigo 254.º n.º 6) ou para tomar a deliberação de amortização de quota (artigo 234.º n.º 2)
+42 Paulo Olavo Cunha, Direito das Sociedades Comerciais 6.ª edição, 2016, Almedina, p500-501, ensaia a tese de que o direito de exclusão judicial de sócio está sujeito a uma prazo de prescrição de 90 dias, por ser esse o prazo previsto para reagir contra uma situação de concorrência (artigo 254.º n.º 6) ou para tomar a deliberação de amortização de quota (artigo 234.º n.º 2)
 
-<sup>43</sup> Continua o artigo, explicitando que “em qualquer caso, no prazo de cinco anos contados do início dessa actividade.”. ou seja, este prazo de cinco anos a contar do início da actividade concorrente do gerente não se destina a alargar o prazo de que dispõe a sociedade, antes o restringe, pois em qualquer caso, ainda que não se verifique o conhecimento por parte de todos os sócios, não se abre o prazo de 90 dias, caso já tenham decorrido cinco anos sobre o início da actividade do gerente a destituir.
+43 Continua o artigo, explicitando que “em qualquer caso, no prazo de cinco anos contados do início dessa actividade.”. ou seja, este prazo de cinco anos a contar do início da actividade concorrente do gerente não se destina a alargar o prazo de que dispõe a sociedade, antes o restringe, pois em qualquer caso, ainda que não se verifique o conhecimento por parte de todos os sócios, não se abre o prazo de 90 dias, caso já tenham decorrido cinco anos sobre o início da actividade do gerente a destituir.
 
-<sup>44</sup> Vide Carolina Cunha in Código das Sociedades Comerciais em Comentário coordenado por Jorge Coutinho Abreu, Vol. III, Almedina, 3.ª edição, p. 637, defendendo a Autora a aplicação analógica dos artigos 241.º e 234.º, para chegar à mesma conclusão de que deverá ser fixado em 90 dias o prazo de que a sociedade dispõe para proceder à deliberação a que alude o artigo 242.º
+44 Vide Carolina Cunha in Código das Sociedades Comerciais em Comentário coordenado por Jorge Coutinho Abreu, Vol. III, Almedina, 3.ª edição, p. 637, defendendo a Autora a aplicação analógica dos artigos 241.º e 234.º, para chegar à mesma conclusão de que deverá ser fixado em 90 dias o prazo de que a sociedade dispõe para proceder à deliberação a que alude o artigo 242.º
 
-<sup>45</sup> Juliano Ferreira, O Direito de Exclusão de Sócio na Sociedade Anónima, Almedina,2009, p.85, nota 151, sublinha que a exclusão de sócio prevista no artigo 242.º do CSC se realiza “com o concurso de uma decisão judicial” e não simplesmente “mediante decisão judicial”. Na verdade, não é a decisão judicial que promove a exclusão de sócio. Antes, terá de haver uma deliberação social com vista a propor a acção judicial, devendo depois de transitada em julgado a acção de exclusão ser ainda deliberada a amortização ou aquisição da quota, pela sociedade ou por terceiro, “sob pena de a exclusão ficar sem efeito.”
+45 Juliano Ferreira, O Direito de Exclusão de Sócio na Sociedade Anónima, Almedina,2009, p.85, nota 151, sublinha que a exclusão de sócio prevista no artigo 242.º do CSC se realiza “com o concurso de uma decisão judicial” e não simplesmente “mediante decisão judicial”. Na verdade, não é a decisão judicial que promove a exclusão de sócio. Antes, terá de haver uma deliberação social com vista a propor a acção judicial, devendo depois de transitada em julgado a acção de exclusão ser ainda deliberada a amortização ou aquisição da quota, pela sociedade ou por terceiro, “sob pena de a exclusão ficar sem efeito.”
 
-<sup>46</sup> Vide a este respeito, Carolina Cunha in Código das Sociedades Comerciais em Comentário, Vol.II, Almedina, 3.ª edição, p. 879.
+46 Vide a este respeito, Carolina Cunha in Código das Sociedades Comerciais em Comentário, Vol.II, Almedina, 3.ª edição, p. 879.
 
-<sup>47</sup> José de Oliveira Ascensão, O Direito Introdução e Teoria Geral, Fundação Calouste Gulbenkian, p. 405, defendendo a admissibilidade de uma analogia juris, mas que ela não se confunde inteiramente com “a norma que o intérprete criaria”, no dizer do artigo 10.º n.º 3 do CC.
+47 José de Oliveira Ascensão, O Direito Introdução e Teoria Geral, Fundação Calouste Gulbenkian, p. 405, defendendo a admissibilidade de uma analogia juris, mas que ela não se confunde inteiramente com “a norma que o intérprete criaria”, no dizer do artigo 10.º n.º 3 do CC.
 
-<sup>48</sup> Ensaio sobre a Teoria da Interpretação das Leis, p. 157.
+48 Ensaio sobre a Teoria da Interpretação das Leis, p. 157.
 
-<sup>49</sup> Vide, a título exemplificativo, neste sentido, acórdão do Tribunal da Relação de Coimbra de 03-05-2016, Processo 2837/13.1TBLRA-A. C1, disponível em www.dgsi.pt
+49 Vide, a título exemplificativo, neste sentido, acórdão do Tribunal da Relação de Coimbra de 03-05-2016, Processo 2837/13.1TBLRA-A. C1, disponível em www.dgsi.pt
 
-<sup>50</sup>Vide Carolina Cunha, ob.cit.
+50Vide Carolina Cunha, ob.cit.
 
-<sup>51</sup> Evaristo Mendes, loc.cit. p.7.
+51 Evaristo Mendes, loc.cit. p.7.
 
-<sup>52</sup> Como, aliás, tem também sido entendido jurisprudencialmente: cf. Ac. Relação de Coimbra de 03/05/2016 e Ac. Relação do Porto de 13/07/2021, ambos disponíveis em www.dgsi.pt.
+52 Como, aliás, tem também sido entendido jurisprudencialmente: cf. Ac. Relação de Coimbra de 03/05/2016 e Ac. Relação do Porto de 13/07/2021, ambos disponíveis em www.dgsi.pt.
 
-<sup>53</sup> In “Boletim do Ministério da Justiça”, junho 1961, n.º 107, p. 189.
+53 In “Boletim do Ministério da Justiça”, junho 1961, n.º 107, p. 189.
 
-<sup>54</sup> Teoria Geral da Relação Jurídica, Vol. II, Coimbra 1983, pág. 464.
+54 Teoria Geral da Relação Jurídica, Vol. II, Coimbra 1983, pág. 464.
 
-<sup>55</sup> Aníbal de Castro, A caducidade na Doutrina, na Lei e na Jurisprudência, 3.ª edição,1984, p.39.
+55 Aníbal de Castro, A caducidade na Doutrina, na Lei e na Jurisprudência, 3.ª edição,1984, p.39.
 
-<sup>56</sup> Vide a este propósito, Pedro Pais de Vasconcelos e Pedro Leitão Pais de Vasconcelos, Teoria Geral do Direito Civil, Almedina, 2022, 9.ª edição, p.398.
+56 Vide a este propósito, Pedro Pais de Vasconcelos e Pedro Leitão Pais de Vasconcelos, Teoria Geral do Direito Civil, Almedina, 2022, 9.ª edição, p.398.
 
 ****
 
 Notas de rodapé do voto vencido:
 
-<sup>1</sup> Exemplifique-se com a situação do incumprimento da obrigação de entrada.
+1 Exemplifique-se com a situação do incumprimento da obrigação de entrada.
 
 Sendo a obrigação de entrada uma obrigação de realização patrimonial da participação social adquirida, o incumprimento da realização (pagamento), não tem apenas efeitos na exigibilidade da prestação em falta pelo sócio, embora também tenha esse efeito.
 
@@ -1144,4 +1144,6 @@ Execução de anteriores titulares da quota não integralmente realizada, que a 
 
 Execução de todos os demais sócios da sociedade, nos termos do artigo 207.º do CSC.
 
-<sup>2</sup> Tinha como fonte o artigo 919.º, n.º 1 do CCI (Itália) - cuja inspiração e quase replica em Portugal - levariam a assumir que os problemas discutidos em Itália e que se visaram resolver com a redação da norma, teriam a mesma solução em Portugal.
+2 Tinha como fonte o artigo 919.º, n.º 1 do CCI (Itália) - cuja inspiração e quase replica em Portugal - levariam a assumir que os problemas discutidos em Itália e que se visaram resolver com a redação da norma, teriam a mesma solução em Portugal.
+
+119713265

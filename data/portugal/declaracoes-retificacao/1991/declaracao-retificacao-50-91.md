@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 74/1991, 2º Suplemento, Série I-B de 1991-03-30
   number: '74'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1622-(12) a 1622-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/03/074b02/00120012.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/50/1991/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/50-1991-477116
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-03-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4fffcccd1e935f72de0a3f77c50316bc4190092d25c2a77c3b0346618444a554
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f098f3a306e49cb3e9cc35f7dff9907cd5c3bf1127ed05ea6302bc98c7ddfc8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,21 +75,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/decl/24/1991/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/decl/24/1991/02/21/p/dre
+- type: cites
+  target: pt:dre:484859:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:05Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 50/91
+# Declaração de rectificação n.º 50/91
 
 Segundo comunicação da 5.ª Delegação da Direcção-Geral da Contabilidade Pública junto do Ministério da Justiça, relativamente à [Declaração n.º 24/91](https://diariodarepublica.pt/dr/detalhe/declaracao/24-1991-484859), publicada no Diário da República, n.º 43, de 21 de Fevereiro de 1991, cujo original se encontra arquivado nesta Secretaria-Geral, saiu, por lapso, repetido, nas pp. 872 e 873, o código da classificação económica 01.02.04 do cap. 01, div. 04, C. F. 1.03.0, «Ajudas de custo», com o reforço de «150 contos», pelo que deve considerar-se sem efeito o da p. 873.
 

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 173/2007, 1º Suplemento, Série I de 2007-09-07
   number: '173'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6352-(2) a 6352-(58)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/09/17301/0000200058.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/80-a/2007/09/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/80-a-2007-683002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-16T00:00:00Z'
+  retrieved_at: '2026-10-22T19:09:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38ecf501173ae56c25181796d11d190d74674afbdaca7a6c1d33b90ede9b8b91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66c5712dc221c350aab980e796384d7047e74f1fbb27c2f458eb39c0bdd80b0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:09:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- Programa Nacional da Política de Ordenamento do Território
 - Política de Solos
+- Programa Nacional da Política de Ordenamento do Território
 relationships:
 - type: amended_by
   target: pt:dre:2224853:por
@@ -78,24 +78,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2007/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2007/09/04/p/dre
+- type: cites
+  target: pt:dre:640143:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:lei:58/2007
+  label: "Rectifica a Lei n.º 58/2007, de 4 de Setembro, DR.IS [170], cujos anexos republica\0\0"
+  source: null
+  date: '2007-09-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:09:06Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 80-A/2007
+# Declaração de rectificação n.º 80-A/2007
 
 Para os devidos efeitos se declara que o Relatório e o Programa de Acção anexos à [Lei n.º 58/2007](https://diariodarepublica.pt/dr/detalhe/lei/58-2007-640143) (aprova o Programa Nacional da Política de Ordenamento do Território), publicada no Diário da República, 1.ª série, n.º 170, de 4 de Setembro de 2007, saíram com incorrecções, que assim se rectificam com a sua publicação em anexo à presente declaração de rectificação.
 
 Assembleia da República, 4 de Setembro de 2007. - Pela Secretária-Geral, a Adjunta, Maria do Rosário Boléo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/17301/0000200058.pdf))](https://files.diariodarepublica.pt/1s/2007/09/17301/0000200058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17301/0000200058.pdf)

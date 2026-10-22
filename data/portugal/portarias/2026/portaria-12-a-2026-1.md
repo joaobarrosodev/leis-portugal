@@ -106,6 +106,10 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/37-a/2025/03/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/37-a/2025/03/24/p/dre
+- type: cites
+  target: pt:dre:912256331:por
+  label: null
+  source: null
 article_structure:
   article_count: 21
   section_count: 0

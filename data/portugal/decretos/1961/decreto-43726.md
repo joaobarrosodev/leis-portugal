@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43726-1961-172171
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-02-04T00:00:00Z'
+  retrieved_at: '2026-10-22T19:24:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3b0f5af3793ec71f1c0bd3f70c6972f644505ca4651e4b60f0ded052003dba3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6be4ce0d84a713947dae193e4d2a528883b3fb0604db77c79ea758ac0e1132dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:24:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Industrial
+- Equipamento Eléctrico
+- Fabrico Industrial
+- Indústria
+- Indústria Eléctrica
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:159536:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:261929:por
+  label: "Mantido em vigor, excepto quanto ao seu art. 3º, pelo DEC LEI.75/74.28.02.1974.MECO, DG.IS [50-Supl] de 28.02.1974\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-1974-261929
+  date: '1974-02-28'
+- type: cites
+  target: pt:dre:166599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:597284:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:24:08Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +128,9 @@ I
 
 Disposições gerais
 
-###### Artigo 1.º O exercício da indústria de acumuladores eléctricos de chumbo fica sujeito às disposições constantes do presente regulamento.
+Artigo 1.º O exercício da indústria de acumuladores eléctricos de chumbo fica sujeito às disposições constantes do presente regulamento.
 
-###### Art. 2.º A indústria de acumuladores eléctricos de chumbo engloba quer o seu fabrico, quer a sua montagem, reconstrução ou reparação, quer ainda o fabrico isolado das respectivas placas.
+Art. 2.º A indústria de acumuladores eléctricos de chumbo engloba quer o seu fabrico, quer a sua montagem, reconstrução ou reparação, quer ainda o fabrico isolado das respectivas placas.
 
 Entende-se que há:
 
@@ -120,7 +144,7 @@ Entende-se que há:
 
 5) Fabrico, quando o ciclo fabril incluir algumas das operações próprias das secções referidas de a) a n) do artigo 6.º
 
-###### Art. 3.º Dependem de prévia autorização do Secretário de Estado da Indústria:
+Art. 3.º Dependem de prévia autorização do Secretário de Estado da Indústria:
 
 a) A instalação de novos estabelecimentos, e a reabertura dos que tiverem suspendido a laboração por período superior a dois anos, que se destinem ao fabrico, montagem ou reconstrução de acumuladores eléctricos de chumbo ou ao fabrico isolado das respectivas placas. Entende-se que se suspendeu a laboração quando se verificarem as condições indicadas no § 1.º do artigo 1.º do [Decreto-Lei n.º 39634](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39634-1954-217898), de 5 de Maio de 1954;
 
@@ -130,15 +154,15 @@ c) A transferência do local dos estabelecimentos referidos na alínea a) deste 
 
 § único. Os estabelecimentos actualmente licenciados para qualquer das actividades citadas no artigo 2.º e que tenham, efectivamente, utilizado essa autorização, consideram-se legalizados sòmente no que se refere à actividade em causa.
 
-###### Art. 4.º O exercício da indústria de acumuladores eléctricos de chumbo não é consentâneo com o trabalho no domicílio.
+Art. 4.º O exercício da indústria de acumuladores eléctricos de chumbo não é consentâneo com o trabalho no domicílio.
 
-###### Art. 5.º De futuro, não poderá ser passado a qualquer novo estabelecimento, para o exercício das actividades referidas na alínea a) do artigo 3.º, o alvará a que se refere o regulamento aprovado pelo [Decreto n.º 8364](https://diariodarepublica.pt/dr/detalhe/decreto/8364-1922-166599), de 25 de Agosto de 1922, sem que se mostrem cumpridas as prescrições constantes do presente diploma.
+Art. 5.º De futuro, não poderá ser passado a qualquer novo estabelecimento, para o exercício das actividades referidas na alínea a) do artigo 3.º, o alvará a que se refere o regulamento aprovado pelo [Decreto n.º 8364](https://diariodarepublica.pt/dr/detalhe/decreto/8364-1922-166599), de 25 de Agosto de 1922, sem que se mostrem cumpridas as prescrições constantes do presente diploma.
 
 II
 
 Condições técnicas
 
-###### Art. 6.º Os estabelecimentos que se dediquem à indústria de acumuladores de chumbo terão, devidamente diferenciadas, as seguintes secções quando o ciclo fabril do estabelecimento incluir as operações a realizar, respectivamente, nessas secções:
+Art. 6.º Os estabelecimentos que se dediquem à indústria de acumuladores de chumbo terão, devidamente diferenciadas, as seguintes secções quando o ciclo fabril do estabelecimento incluir as operações a realizar, respectivamente, nessas secções:
 
 a) Preparação do electrólito;
 
@@ -178,7 +202,7 @@ s) Refeitórios, vestiários e instalações sanitárias.
 
 § único. A existência das secções referidas de p) a s) é obrigatória.
 
-###### Art. 7.º As secções abrangidas pelo artigo anterior e referidas a seguir deverão, respectivamente, possuir como equipamento mínimo:
+Art. 7.º As secções abrangidas pelo artigo anterior e referidas a seguir deverão, respectivamente, possuir como equipamento mínimo:
 
 Alínea b): fornos de cadinho e moldes que permitam a fundição de armaduras em boas condições técnicas;
 
@@ -198,9 +222,9 @@ III
 
 Condições de segurança e salubridade
 
-###### Art. 8.º Os estabelecimentos que se dedicarem ao fabrico de acumuladores ou de placas deverão ter os compartimentos em que se funda chumbo ou manipulem matérias tóxicas protegidos por uma zona profiláctica de 50 m, pelo menos, dentro da qual não podem existir habitações, imóveis ou locais públicos de passagem que possam sofrer os seus efeitos nocivos.
+Art. 8.º Os estabelecimentos que se dedicarem ao fabrico de acumuladores ou de placas deverão ter os compartimentos em que se funda chumbo ou manipulem matérias tóxicas protegidos por uma zona profiláctica de 50 m, pelo menos, dentro da qual não podem existir habitações, imóveis ou locais públicos de passagem que possam sofrer os seus efeitos nocivos.
 
-###### Art. 9.º As secções referidas no artigo 6.º deverão satisfazer, necessàriamente, às seguintes condições gerais de salubridade:
+Art. 9.º As secções referidas no artigo 6.º deverão satisfazer, necessàriamente, às seguintes condições gerais de salubridade:
 
 a) Terem pé direito nunca inferior a 3 m e capacidade superior a 11,5 m3 por pessoa;
 
@@ -208,7 +232,7 @@ b) Terem iluminação natural; se houver necessidade de utilizar iluminação ar
 
 c) Terem boa ventilação natural.
 
-###### Art. 10.º As secções referidas nas alíneas a), g), l) e p) (armazém de ácidos) do artigo 6.º deverão satisfazer, necessàriamente, às seguintes condições:
+Art. 10.º As secções referidas nas alíneas a), g), l) e p) (armazém de ácidos) do artigo 6.º deverão satisfazer, necessàriamente, às seguintes condições:
 
 a) Terem paredes e tectos (se os houver) lisos e construídos de material incombustível e impermeável;
 
@@ -218,19 +242,19 @@ c) Terem pavimento liso ou esquartelado construído de material incombustível, 
 
 d) Estarem providas de tomadas de água de grande caudal e fácil manobra.
 
-###### Art. 11.º As secções referidas nas alíneas b), c), d), e), f), h), i), j), m), n), o), p) e q) do artigo 6.º deverão satisfazer, necessàriamente, quanto a paredes, tectos (se os houver) e pavimentos, às seguintes condições:
+Art. 11.º As secções referidas nas alíneas b), c), d), e), f), h), i), j), m), n), o), p) e q) do artigo 6.º deverão satisfazer, necessàriamente, quanto a paredes, tectos (se os houver) e pavimentos, às seguintes condições:
 
 a) Terem paredes e tectos lisos, sem saliências que permitam a acumulação de poeiras, e construídos de material incombustível, impermeável e lavável;
 
 b) Terem pavimento liso ou esquartelado e construído de material incombustível, impermeável e lavável.
 
-###### Art. 12.º As secções referidas nas alíneas r) e s) do artigo 6.º deverão satisfazer, necessàriamente, quanto a paredes, tectos e pavimentos, às condições indicadas no artigo anterior - nos balneários os pavimentos só poderão ser esquartelados -, devendo ainda as paredes ser revestidas de azulejo ou qualquer revestimento fàcilmente lavável, branco ou de cor muito clara, pelo menos até 1,75 m do pavimento.
+Art. 12.º As secções referidas nas alíneas r) e s) do artigo 6.º deverão satisfazer, necessàriamente, quanto a paredes, tectos e pavimentos, às condições indicadas no artigo anterior - nos balneários os pavimentos só poderão ser esquartelados -, devendo ainda as paredes ser revestidas de azulejo ou qualquer revestimento fàcilmente lavável, branco ou de cor muito clara, pelo menos até 1,75 m do pavimento.
 
-###### Art. 13.º As secções referidas nas alíneas c), d), e) e h) do artigo 6.º deverão, necessàriamente, ter os esgotos ligados a câmaras de decantação, em número suficiente para que, após a última, não saiam para o exterior senão leves vestígios de óxido.
+Art. 13.º As secções referidas nas alíneas c), d), e) e h) do artigo 6.º deverão, necessàriamente, ter os esgotos ligados a câmaras de decantação, em número suficiente para que, após a última, não saiam para o exterior senão leves vestígios de óxido.
 
-###### Art. 14.º As secções referidas nas alíneas c), d), e), f), h) e j) do artigo 6.º deverão estar, necessàriamente, providas de tomadas de água.
+Art. 14.º As secções referidas nas alíneas c), d), e), f), h) e j) do artigo 6.º deverão estar, necessàriamente, providas de tomadas de água.
 
-###### Art. 15.º A secção referida na alínea s) do artigo 6.º deverá ser necessàriamente situada em local completamente separado das oficinas, bem isolada, independente para cada sexo e equipada com:
+Art. 15.º A secção referida na alínea s) do artigo 6.º deverá ser necessàriamente situada em local completamente separado das oficinas, bem isolada, independente para cada sexo e equipada com:
 
 a) No que se refere a refeitório:
 
@@ -258,7 +282,7 @@ IV
 
 Resguardos do equipamento e protecção para operários
 
-###### Art. 16.º As secções referidas no artigo 6.º deverão ser providas dos elementos de protecção seguintes:
+Art. 16.º As secções referidas no artigo 6.º deverão ser providas dos elementos de protecção seguintes:
 
 Alínea b): sistema eficaz de aspiração dos vapores de chumbo e gases de combustão dos fornos de cadinho;
 
@@ -282,7 +306,7 @@ Alínea l): sistema eficaz de ventilação de toda a sala.
 
 § 2.º Considera-se que a ventilação das salas de formação ou de carga é eficaz quando consegue que a diluição do hidrogénio libertado se mantenha inferior a 1/130 em volume.
 
-###### Art. 17.º Além do que se especifica no artigo anterior, as máquinas de produção de recipientes deverão satisfazer às condições de segurança a seguir indicadas, relativas ao equipamento de produção de ebonite, ou de outros, no caso de se trabalhar outra matéria-prima:
+Art. 17.º Além do que se especifica no artigo anterior, as máquinas de produção de recipientes deverão satisfazer às condições de segurança a seguir indicadas, relativas ao equipamento de produção de ebonite, ou de outros, no caso de se trabalhar outra matéria-prima:
 
 a) Misturadores. - Protecção que impeça o acesso à zona de contacto dos cilindros; varões metálicos estendidos horizontalmente a todo o comprimento dos cilindros, colocados a menos de 1,75 m acima de todo o pavimento e entre 5 cm e 10 cm das superfícies dos rolos anterior e posterior, que comandem dispositivos de segurança quando accionados pelo operário, ou outros dispositivos de acção semelhante;
 
@@ -296,15 +320,15 @@ e) Autoclaves. - Protecção eficaz, por isolamento térmico, que evite queimadu
 
 f) Esmeriladores. - Quando utilizem rebolos abrasivos de diâmetro superior a 40 mm, protecção com blindagem de aço ou ferro maleável, deixando sòmente à vista a parte da mó indispensável ao trabalho; quando a natureza do trabalho não permite o uso de protecção, emprego exclusivo de rebolos cónicos; quando accionados a ar comprimido ou por corrente eléctrica de alta frequência, emprego exclusivo de mós de aglomerante orgânico.
 
-###### Art. 18.º Nas secções referidas em a), d), g), l), p) (armazém de ácidos) e r) do artigo 6.º deverá haver, em condições de rápido emprego, soro fisiológico para neutralizar salpicos de ácido nos olhos e na pele e, ainda, nas secções a), d) e p) (armazém de ácidos) chuveiro de emergência.
+Art. 18.º Nas secções referidas em a), d), g), l), p) (armazém de ácidos) e r) do artigo 6.º deverá haver, em condições de rápido emprego, soro fisiológico para neutralizar salpicos de ácido nos olhos e na pele e, ainda, nas secções a), d) e p) (armazém de ácidos) chuveiro de emergência.
 
-###### Art. 19.º A todo o pessoal será fornecido, pela entidade patronal, material de protecção apropriado e fatos de trabalho, cuja conservação e lavagem incumbem àquela.
+Art. 19.º A todo o pessoal será fornecido, pela entidade patronal, material de protecção apropriado e fatos de trabalho, cuja conservação e lavagem incumbem àquela.
 
 § único. Todo o material de protecção e fatos de trabalho serão lavados, pelo menos, uma vez por semana.
 
-###### Art. 20.º Nas secções onde se manipulem ou produzam materiais sob a forma de pó, ou onde se manuseiem artigos que possam provocar poeiras, as roupas de trabalho deverão ser muito justas no pescoço, punhos e tornozelos.
+Art. 20.º Nas secções onde se manipulem ou produzam materiais sob a forma de pó, ou onde se manuseiem artigos que possam provocar poeiras, as roupas de trabalho deverão ser muito justas no pescoço, punhos e tornozelos.
 
-###### Art. 21.º Nas secções referidas em a), d), e), g), l) e p) (armazém de ácidos) do artigo 6.º deverão existir:
+Art. 21.º Nas secções referidas em a), d), e), g), l) e p) (armazém de ácidos) do artigo 6.º deverão existir:
 
 Boinas.
 
@@ -316,9 +340,9 @@ Avental resistente aos ácidos.
 
 Óculos protectores, excepto na secção e).
 
-###### Art. 22.º Nas secções referidas em c), d), h) e q) (armazém de placas) do artigo 6.º deverão existir boinas e máscaras apropriadas.
+Art. 22.º Nas secções referidas em c), d), h) e q) (armazém de placas) do artigo 6.º deverão existir boinas e máscaras apropriadas.
 
-###### Art. 23.º Em cada um dos armários individuais referidos na alínea s) do artigo 6.º deverão existir, fornecidos pela entidade patronal:
+Art. 23.º Em cada um dos armários individuais referidos na alínea s) do artigo 6.º deverão existir, fornecidos pela entidade patronal:
 
 Toalhas.
 
@@ -340,11 +364,11 @@ V
 
 Condições de laboração
 
-###### Art. 24.º No armazém de ácidos referido na alínea p) do artigo 6.º só poderão ser armazenados, além do ácido, água destilada e electrólito.
+Art. 24.º No armazém de ácidos referido na alínea p) do artigo 6.º só poderão ser armazenados, além do ácido, água destilada e electrólito.
 
-###### Art. 25.º O transporte de recipientes com ácido não pode ser feito manualmente, mas apenas em carros especiais para esse fim.
+Art. 25.º O transporte de recipientes com ácido não pode ser feito manualmente, mas apenas em carros especiais para esse fim.
 
-###### Art. 26.º O vazamento de recipientes com ácido não pode ser feito manualmente, devendo utilizar-se qualquer dos seguintes meios:
+Art. 26.º O vazamento de recipientes com ácido não pode ser feito manualmente, devendo utilizar-se qualquer dos seguintes meios:
 
 Carro transportador com dispositivo especial de vazamento.
 
@@ -354,17 +378,17 @@ Ar comprimido a baixa pressão, usando todas as precauções a que este sistema 
 
 Bombas.
 
-###### Art. 27.º O vazamento de óxidos nos misturadores deve ser feito por forma a evitar que se espalhem poeiras na atmosfera.
+Art. 27.º O vazamento de óxidos nos misturadores deve ser feito por forma a evitar que se espalhem poeiras na atmosfera.
 
-###### Art. 28.º Na secção referida na alínea e) do artigo 6.º deverá sempre haver sobre a bancada de empastamento uma toalha de água.
+Art. 28.º Na secção referida na alínea e) do artigo 6.º deverá sempre haver sobre a bancada de empastamento uma toalha de água.
 
-###### Art. 29.º Na secção referida na alínea j) do artigo 6.º as soldaduras não poderão ser efectuadas a menos de 3 m das garrafas.
+Art. 29.º Na secção referida na alínea j) do artigo 6.º as soldaduras não poderão ser efectuadas a menos de 3 m das garrafas.
 
-###### Art. 30.º Nas secções referidas nas alíneas a), d), e), g), l) e p) (armazém de ácidos) do artigo 6.º é obrigatório o uso do material de protecção a que se refere o artigo 22.º, salvo os óculos, que só se tornam necessários quando os operários estiverem a manipular ácido ou electrólito.
+Art. 30.º Nas secções referidas nas alíneas a), d), e), g), l) e p) (armazém de ácidos) do artigo 6.º é obrigatório o uso do material de protecção a que se refere o artigo 22.º, salvo os óculos, que só se tornam necessários quando os operários estiverem a manipular ácido ou electrólito.
 
-###### Art. 31.º Nas secções referidas nas alíneas c), d), h) e q) (armazém de placas) do artigo 6.º é obrigatório o uso de máscara quando estiverem a ser executadas operações que produzam poeiras.
+Art. 31.º Nas secções referidas nas alíneas c), d), h) e q) (armazém de placas) do artigo 6.º é obrigatório o uso de máscara quando estiverem a ser executadas operações que produzam poeiras.
 
-###### Art. 32.º Não podem ser utilizadas mulheres ou menores de 18 anos nas seguintes operações de fabrico:
+Art. 32.º Não podem ser utilizadas mulheres ou menores de 18 anos nas seguintes operações de fabrico:
 
 Preparação de electrólito ou manuseamento de ácido puro.
 
@@ -384,41 +408,41 @@ Preparação de lotes do fabrico de recipientes (só mulheres).
 
 Mistura e fabrico de pastas e moldação, no fabrico de recipientes.
 
-###### Art. 33.º Em todas as secções referidas nas alíneas a) e s) do artigo 6.º, com excepção dos refeitórios, é expressamente proibida a entrada de comidas.
+Art. 33.º Em todas as secções referidas nas alíneas a) e s) do artigo 6.º, com excepção dos refeitórios, é expressamente proibida a entrada de comidas.
 
-###### Art. 34.º Nas secções referidas nas alíneas a) a q), excepto o), é expressamente proibido fumar.
+Art. 34.º Nas secções referidas nas alíneas a) a q), excepto o), é expressamente proibido fumar.
 
-###### Art. 35.º Nas secções referidas nas alíneas g) e l) é expressamente proibido fazer lume, salvo aquele que resulte da operação de soldadura efectuada na secção g), a qual só deve ser iniciada depois de tomadas as convenientes precauções.
+Art. 35.º Nas secções referidas nas alíneas g) e l) é expressamente proibido fazer lume, salvo aquele que resulte da operação de soldadura efectuada na secção g), a qual só deve ser iniciada depois de tomadas as convenientes precauções.
 
-###### Art. 36.º Todos os operários devem tomar, diàriamente, banho de chuveiro, lavando-se com sabão.
+Art. 36.º Todos os operários devem tomar, diàriamente, banho de chuveiro, lavando-se com sabão.
 
-###### Art. 37.º Todos os operários devem lavar muito bem, antes de comer, as mãos e a boca e bochechar com soluta de monossulfureto de sódio a 1/1000.
+Art. 37.º Todos os operários devem lavar muito bem, antes de comer, as mãos e a boca e bochechar com soluta de monossulfureto de sódio a 1/1000.
 
-###### Art. 38.º Nas secções referidas nas alíneas c), d), e) e h) do artigo 6.º as paredes e tectos deverão ser mantidos sempre limpos e as máquinas e pavimentos deverão ser lavados diàriamente, mantendo-se estes últimos sempre húmidos.
+Art. 38.º Nas secções referidas nas alíneas c), d), e) e h) do artigo 6.º as paredes e tectos deverão ser mantidos sempre limpos e as máquinas e pavimentos deverão ser lavados diàriamente, mantendo-se estes últimos sempre húmidos.
 
-###### Art. 39.º A limpeza das secções fabris só pode ser feita por aspiração ou por via húmida.
+Art. 39.º A limpeza das secções fabris só pode ser feita por aspiração ou por via húmida.
 
 VI
 
 Marcas de fabrico
 
-###### Art. 40.º Os acumuladores novos serão obrigatòriamente marcados de maneira bem visível e durável, em, pelo menos, uma das faces dos recipientes, com uma marca que identifique a entidade que o fabricou.
+Art. 40.º Os acumuladores novos serão obrigatòriamente marcados de maneira bem visível e durável, em, pelo menos, uma das faces dos recipientes, com uma marca que identifique a entidade que o fabricou.
 
 § único. Na face onde for aposta esta marca não poderá apor-se outra.
 
-###### Art. 41.º Nos acumuladores reconstruídos é obrigatória a destruição da marca e todos os outros indicativos do fabricante ou do anterior reconstrutor e a aposição de nova marca, numa das faces do recipiente, que identifique a entidade que o reconstruiu.
+Art. 41.º Nos acumuladores reconstruídos é obrigatória a destruição da marca e todos os outros indicativos do fabricante ou do anterior reconstrutor e a aposição de nova marca, numa das faces do recipiente, que identifique a entidade que o reconstruiu.
 
-###### Art. 42.º Na face do recipiente onde for aposta a marca referida nos artigos 40.º e 41.º ou noutra serão obrigatòriamente indicados o tipo, tensão e capacidade nominais e número total de placas.
+Art. 42.º Na face do recipiente onde for aposta a marca referida nos artigos 40.º e 41.º ou noutra serão obrigatòriamente indicados o tipo, tensão e capacidade nominais e número total de placas.
 
-###### Art. 43.º São obrigatòriamente marcadas, de modo a ser possível a identificação do fabricante em qualquer momento, as placas, uniões e tampas.
+Art. 43.º São obrigatòriamente marcadas, de modo a ser possível a identificação do fabricante em qualquer momento, as placas, uniões e tampas.
 
-###### Art. 44.º Qualquer acumulador que seja aberto para reparação levará obrigatòriamente uma marca, aposta no recipiente ou nas uniões de ligação, que identifique a entidade que fez essa operação.
+Art. 44.º Qualquer acumulador que seja aberto para reparação levará obrigatòriamente uma marca, aposta no recipiente ou nas uniões de ligação, que identifique a entidade que fez essa operação.
 
-###### Art. 45.º Dentro do prazo de um ano nenhum acumulador novo, reconstruído ou reparado poderá ser transaccionado sem estar devidamente marcado.
+Art. 45.º Dentro do prazo de um ano nenhum acumulador novo, reconstruído ou reparado poderá ser transaccionado sem estar devidamente marcado.
 
-###### Art. 46.º Os fabricantes, montadores e reconstrutores de acumuladores deverão enviar, em duplicado, à Direcção-Geral dos Serviços Industriais, no prazo de seis meses, uma descrição das marcas que usam.
+Art. 46.º Os fabricantes, montadores e reconstrutores de acumuladores deverão enviar, em duplicado, à Direcção-Geral dos Serviços Industriais, no prazo de seis meses, uma descrição das marcas que usam.
 
-###### Art. 47.º Todas as empresas que se dediquem ao fabrico, montagem, ou reconstrução de acumuladores devem editar uma tabela donde constem, pelo menos, as seguintes características de todos os acumuladores que fabricam, montam ou reconstroem:
+Art. 47.º Todas as empresas que se dediquem ao fabrico, montagem, ou reconstrução de acumuladores devem editar uma tabela donde constem, pelo menos, as seguintes características de todos os acumuladores que fabricam, montam ou reconstroem:
 
 Tensão nominal.
 
@@ -430,7 +454,7 @@ Dimensões exteriores do recipiente.
 
 Número de placas.
 
-###### Art. 48.º Todas as empresas que fabriquem e vendam placas devem editar uma tabela donde constem, pelo menos, as seguintes características:
+Art. 48.º Todas as empresas que fabriquem e vendam placas devem editar uma tabela donde constem, pelo menos, as seguintes características:
 
 Tipo.
 
@@ -444,28 +468,28 @@ VII
 
 Características dos produtos
 
-###### Art. 49.º É obrigatória a conformidade de todos os acumuladores, novos ou reconstruídos, com as normas portuguesas que vierem a ser editadas, quanto às suas características.
+Art. 49.º É obrigatória a conformidade de todos os acumuladores, novos ou reconstruídos, com as normas portuguesas que vierem a ser editadas, quanto às suas características.
 
 § 1.º Enquanto não forem editadas normas portuguesas, os acumuladores eléctricos de chumbo, «tipo arranque», obedecerão obrigatòriamente às Recomendações para os Acumuladores de Chumbo Tipo Arranque, editadas pela Comissão Electrotécnica Internacional.
 
 § 2.º Para os outros tipos de acumuladores eléctricos de chumbo o fabricante é obrigado a indicar as normas de fabricação e de verificação de características seguidas na sua produção.
 
-###### Art. 50.º Os diversos constituintes de um acumulador eléctrico devem possuir os requisitos necessários para que o acumulador com eles montado esteja em conformidade com as normas.
+Art. 50.º Os diversos constituintes de um acumulador eléctrico devem possuir os requisitos necessários para que o acumulador com eles montado esteja em conformidade com as normas.
 
 VIII
 
 Fiscalização
 
-###### Art. 51.º A fiscalização do cumprimento das prescrições contidas no presente regulamento compete à Direcção-Geral dos Serviços Industriais, sem prejuízo das atribuições da Direcção-Geral de Saúde e da Inspecção-Geral dos Produtos Agrícolas e Industriais.
+Art. 51.º A fiscalização do cumprimento das prescrições contidas no presente regulamento compete à Direcção-Geral dos Serviços Industriais, sem prejuízo das atribuições da Direcção-Geral de Saúde e da Inspecção-Geral dos Produtos Agrícolas e Industriais.
 
-###### Art. 52.º Compete à Direcção-Geral dos Serviços Industriais a imposição das condições necessárias ao efectivo cumprimento do disposto neste regulamento, bem como as providências destinadas a impedir o exercício da indústria de acumuladores eléctricos de chumbo em contrário do que no mesmo se prescreve.
+Art. 52.º Compete à Direcção-Geral dos Serviços Industriais a imposição das condições necessárias ao efectivo cumprimento do disposto neste regulamento, bem como as providências destinadas a impedir o exercício da indústria de acumuladores eléctricos de chumbo em contrário do que no mesmo se prescreve.
 
 IX
 
 Disposições transitórias
 
-###### Art. 53.º Os estabelecimentos que se dediquem à indústria de acumuladores eléctricos de chumbo, actualmente licenciados ou com processos em curso, cujas instalações e equipamento não obedeçam às prescrições do presente regulamento terão de ser alterados ou transferidos, no prazo de dois anos, por forma a satisfazerem às mesmas prescrições. Caso contrário caducará o respectivo alvará e será impedido o seu funcionamento.
+Art. 53.º Os estabelecimentos que se dediquem à indústria de acumuladores eléctricos de chumbo, actualmente licenciados ou com processos em curso, cujas instalações e equipamento não obedeçam às prescrições do presente regulamento terão de ser alterados ou transferidos, no prazo de dois anos, por forma a satisfazerem às mesmas prescrições. Caso contrário caducará o respectivo alvará e será impedido o seu funcionamento.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 8 de Junho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Alves de Carvalho Fernandes.

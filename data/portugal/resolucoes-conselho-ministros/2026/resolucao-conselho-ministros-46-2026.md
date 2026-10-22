@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/46/2026/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/46-2026-1060895770
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T18:33:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f719f3223428fd3e3b44074abe61c65c96be9775ea6375af0bccd210459d4658
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 400c0b9e95721923ef59218777645796c16c96a0111ee4e91ee255c26beb20a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:33:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conselho Geral
-- Nomeação
 - Instituto de Educação Qualidade e Avaliação
+- Nomeação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/105/2025/09/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/105/2025/09/12/p/dre
+- type: cites
+  target: pt:dre:935098429:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:33:48Z'
   warnings: []
   errors: []
 ---
@@ -248,3 +252,5 @@ Habilitações académicas e formação complementar: doutoramento em Economia p
 Experiência profissional: professor auxiliar na Escola de Economia e Gestão da Universidade do Minho; investigador do Núcleo de Investigação em Políticas Económicas e Empresariais e investigador colaborador do Centro de Investigação em Políticas do Ensino Superior (U. Porto e U. Aveiro); docente nas áreas da economia do trabalho e da educação, economia urbana e regional e econometria aplicada; Desde 2016, membro do conselho científico do Centro de Relações Laborais do Ministério do Trabalho e da Solidariedade Social, tendo sido perito científico convidado dos Relatórios de 2017 e 2018; Fellow da OIT; de 2013 a 2015, vice-presidente do EEG-UMinho e diretor executivo da UMinho Exec, unidade de educação executiva da Universidade do Minho; diretor adjunto do Departamento de economia da EEG-UMinho; vogal da direção do mestrado em Economia da U-Minho.
 
 Outras atividades relevantes: publicou artigos em revistas internacionais com revisão científica tais como Labour Economics, Science of The Total Environment, Open Economies Review, Economics Letters, The World Economy e vários capítulos e livros sobre economia e avaliação de programas e políticas públicas em Portugal. A sua experiência como consultor inclui relatórios orientados para as políticas laborais, ao nível do salário mínimo, educação e emprego, no mercado de trabalho português, para o Ministério do Trabalho e Solidariedade de Portugal e OIT. Cocoordenou o módulo regional do Sistema Nacional de Antecipação de Necessidades de Qualificações, para a CIM-Ave e ANQEP, I. P. São de destacar ainda os trabalhos para a EDP, a Microsoft, o Ministério da Economia, o Ministério da Administração Interna, a Fundação Francisco Manuel dos Santos, a Fundação Belmiro de Azevedo (EDULOG), a Fundação Calouste Gulbenkian, a Fundação SEMAPA-Pedro Queiroz Pereira, a Comissão de Coordenação e Desenvolvimento Regional do Norte, entre outros. Autor, coordenador ou coautor de livros, capítulos de livros e relatórios científicos publicados por editoras e instituições de referência, como a Almedina, Springer, Fundação Calouste Gulbenkian, Fundação Francisco Manuel dos Santos, Universidade do Minho, Universidade de Coimbra, Universidade Católica Editora e World Bank, abordando, entre outros, os domínios da economia do trabalho, educação, desenvolvimento regional, políticas públicas, sustentabilidade, mercado de trabalho e impacto económico de políticas e programas públicos, entre 2009 e 2025.
+
+119947799

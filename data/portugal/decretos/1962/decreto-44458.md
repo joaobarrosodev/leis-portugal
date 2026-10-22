@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44458-1962-162863
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-07-09T00:00:00Z'
+  retrieved_at: '2026-10-22T19:30:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6eb37586baff2f03227892bb3073a0c76869e56b9776c10678c5d6910890a2d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: efca14a43c91241091e372332de4b12ebc217c93ecdc632b21ac00892dd34024
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:30:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:30:11Z'
   warnings: []
   errors: []
 ---
@@ -87,20 +95,20 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 24914](https://diariodarepubl
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças, a favor do Ministério das Obras Públicas, um crédito especial da quantia de 221299000$00, destinado a constituir o n.º 2) «Para pagamento de todos os encargos emergentes da construção» do artigo 106.º «Ponte sobre o Tejo em frente de Lisboa», capítulo 12.º «II Plano de Fomento», do actual orçamento do segundo dos mencionados Ministérios.
+Artigo 1.º É aberto no Ministério das Finanças, a favor do Ministério das Obras Públicas, um crédito especial da quantia de 221299000$00, destinado a constituir o n.º 2) «Para pagamento de todos os encargos emergentes da construção» do artigo 106.º «Ponte sobre o Tejo em frente de Lisboa», capítulo 12.º «II Plano de Fomento», do actual orçamento do segundo dos mencionados Ministérios.
 
-###### Art. 2.º Para compensação do crédito referido no artigo anterior são inscritas as seguintes dotações no actual orçamento das receitas do Estado:
+Art. 2.º Para compensação do crédito referido no artigo anterior são inscritas as seguintes dotações no actual orçamento das receitas do Estado:
 
-### Capítulo 9.º «Receita extraordinária»:
+Capítulo 9.º «Receita extraordinária»:
 
-###### Artigo 276.º-A «Crédito externo - Classe III» ... 36400000$00
+Artigo 276.º-A «Crédito externo - Classe III» ... 36400000$00
 
-###### Artigo 276.º-B «Crédito externo - Classe IV» ... 184899000$00
+Artigo 276.º-B «Crédito externo - Classe IV» ... 184899000$00
 
 ... 221299000$00
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Julho de 1962. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

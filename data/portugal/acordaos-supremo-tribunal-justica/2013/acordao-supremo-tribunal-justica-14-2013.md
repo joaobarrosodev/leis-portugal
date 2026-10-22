@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/14/2013/11/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/14-2013-504688
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-12T00:00:00Z'
+  retrieved_at: '2026-10-22T17:53:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9f8a7cd95382731c226aa169f31b69a07bd68ba83a2778a06851ac4b2fb6451
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8fdf56f1eb9773357893e57690290ba4b6c09d0296a4e2f88c0801dad911cebc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:53:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Processo Penal
 - Código de Processo Penal
 - Decisão Judicial
 - Execução de Penas
 - Interpretação do Direito
+- Processo Penal
+- Recurso
 - Sanção Penal
 - Supremo Tribunal de Justiça
 - Tribunal da Relação
@@ -105,16 +105,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/59/1998/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/59/1998/08/25/p/dre
+- type: cites
+  target: pt:dre:1740489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676608:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:53:14Z'
   warnings: []
   errors: []
 ---
@@ -759,7 +803,7 @@ Não se pode, assim, considerar infringido o n.º 1 do artigo 32.º da Constitui
 
 6 - A concluir, refira-se o artigo 2.º do protocolo n.º 7 à Convenção para a Protecção dos Direitos do Homem e das Liberdades Fundamentais (aprovado, para ratificação, pela [Resolução da Assembleia da República n.º 22/90](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/22-1990-554996), 27 de Setembro, e ratificado pelo [Decreto do Presidente da República n.º 51/90](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/51-1990-554986), da mesma data), cujo texto é o seguinte:
 
-###### Artigo 2.º
+Artigo 2.º
 
 1 - Qualquer pessoa declarada culpada de uma infracção penal por um tribunal tem o direito de fazer examinar por uma jurisdição superior a declaração de culpabilidade ou a condenação. O exercício deste direito, bem como os fundamentos pelos quais ele pode ser exercido, são regulados por lei.
 

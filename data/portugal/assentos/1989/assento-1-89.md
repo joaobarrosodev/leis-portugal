@@ -47,36 +47,122 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/assento/1-1989-612830
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-03-03T00:00:00Z'
+  retrieved_at: '2026-10-22T18:27:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 442e6fc0279ca1543894a9a655183d3c70b1cfd24683721012f2d224fdce6d7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4fdddbbeaa236dbcf5dbe675abbd0f94f6331fe3e589c6ac8dd27024f24e3b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:27:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Coimbra
+- Formas de Provimento
+- Instituto Superior de Engenharia
+- Integração de Trabalhadores
+- Interpretação do Direito
+- Lisboa
+- Pessoal não Docente
+- Porto
+- Quadro de Pessoal
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:171902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172090:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581856:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:27:11Z'
   warnings: []
   errors: []
 ---
@@ -255,15 +341,15 @@ Reza aquele dispositivo legal que a transição se faz «para categoria correspo
 
 O mesmo teor apresentam iguais normas de transição dos seguintes diplomas:
 
-###### Artigo 35.º, n.º 1, alínea b), do [Decreto-Lei n.º 148/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1988-285366), de 27 de Abril (Universidade do Porto);
+Artigo 35.º, n.º 1, alínea b), do [Decreto-Lei n.º 148/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1988-285366), de 27 de Abril (Universidade do Porto);
 
-###### Artigo 29.º, n.º 1, alínea b), do [Decreto-Lei n.º 153/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1988-285480), de 29 de Abril (Instituto Superior de Educação Física da Universidade Técnica de Lisboa);
+Artigo 29.º, n.º 1, alínea b), do [Decreto-Lei n.º 153/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1988-285480), de 29 de Abril (Instituto Superior de Educação Física da Universidade Técnica de Lisboa);
 
-###### Artigo 39.º, n.º 1, alínea b), do [Decreto-Lei n.º 319-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-b-1988-507606) (Universidade da Beira Interior);
+Artigo 39.º, n.º 1, alínea b), do [Decreto-Lei n.º 319-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-b-1988-507606) (Universidade da Beira Interior);
 
-###### Artigo 13.º, n.º 1, alínea b), do [Decreto-Lei n.º 9/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1989-234494), de 6 de Janeiro (Instituto Superior de Educação Física da Universidade do Porto);
+Artigo 13.º, n.º 1, alínea b), do [Decreto-Lei n.º 9/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1989-234494), de 6 de Janeiro (Instituto Superior de Educação Física da Universidade do Porto);
 
-###### Artigo 12.º, n.º 1, alínea b), do [Decreto-Lei n.º 10/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-1989-234501), de 6 de Janeiro (Escola Superior de Medicina Dentária do Porto).
+Artigo 12.º, n.º 1, alínea b), do [Decreto-Lei n.º 10/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-1989-234501), de 6 de Janeiro (Escola Superior de Medicina Dentária do Porto).
 
 Afigura-se-nos, pois, que com tais normas o legislador visou explicitar o regime geral de transição-integração com reclassificação nos artigos 6.º, alínea a), e 30.º, n.º 5, do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), que era susceptível de ser desvirtuado por normas idênticas à do artigo 5.º, n.º 1, alínea b), do [Decreto-Lei n.º 482/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/482-1985-171902), ora em apreço.
 

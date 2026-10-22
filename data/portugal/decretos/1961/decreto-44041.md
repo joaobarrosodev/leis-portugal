@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44041-1961-181610
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-05-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:26:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1bbc49156094aeb4f824e64242951290e78c3cf59943626b18662ac5c7d6be0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d737d2d0344c753627d1675cdc3f09b34a156800d7754803f250fa5e952e354
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:26:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ponte
+- Regulamento de Solicitações em Edifícios e Pontes
+- Segurança dos Edifícios
 relationships:
 - type: amended_by
   target: pt:dre:451672:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:291231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536672:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:451672:por
+  label: Revogado o Regulamento de Solicitações em Edifícios e Pontes, aprovado pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 235/83 - Diário da República n.º 125/1983, Série I de 1983-05-31, nos termos do disposto no n.º 2 do art. 3.º daquele
+    diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/235-1983-451672
+  date: '1983-05-31'
 article_structure:
-  article_count: 143
+  article_count: 6
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:26:44Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +127,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento de Solicitações em Edifícios e Pontes, que faz parte integrante do presente decreto e com ele baixa assinado pelo Ministro das Obras Públicas.
+Artigo 1.º É aprovado o Regulamento de Solicitações em Edifícios e Pontes, que faz parte integrante do presente decreto e com ele baixa assinado pelo Ministro das Obras Públicas.
 
-###### Art. 2.º Ficam revogados os artigos abaixo mencionados dos seguintes decretos:
+Art. 2.º Ficam revogados os artigos abaixo mencionados dos seguintes decretos:
 
 Do [Decreto n.º 16781](https://diariodarepublica.pt/dr/detalhe/decreto/16781-1929-356157), de 10 de Abril de 1929 (Regulamento de Pontes Metálicas), com as rectificações da [Portaria n.º 6405](https://diariodarepublica.pt/dr/detalhe/portaria/6405-1929-291231), de 28 de Setembro de 1929, as alterações dos Decretos n.os 19998, de 8 de Junho de 1931, e 22952, de 6 de Agosto de 1933, rectificações de 26 de Setembro de 1933 e alterações do [Decreto n.º 41584](https://diariodarepublica.pt/dr/detalhe/decreto/41584-1958-305254), de 12 de Abril de 1958 - os artigos 1.º a 9.º, 16.º, 37.º a 39.º e 42.º a 47.º
 
@@ -107,7 +137,7 @@ Do [Decreto n.º 25948](https://diariodarepublica.pt/dr/detalhe/decreto/25948-19
 
 Do [Decreto n.º 41658](https://diariodarepublica.pt/dr/detalhe/decreto/41658-1958-353685), de 31 de Maio de 1958 (Regulamento de Segurança das Construções contra os Sismos) - os artigos 2.º e 4.º a 9.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 18 de Novembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Eduardo de Arantes e Oliveira.
 
@@ -203,177 +233,177 @@ Lisboa, 14 de Junho de 1961. - A Subcomissão: Júlio Ferry do Espírito Santo B
 
 ###### Artigo 1.º - Objecto.
 
-###### Artigo 2.º - Tipos de Solicitações.
+Artigo 2.º - Tipos de Solicitações.
 
-###### Artigo 3.º - Tipos de solicitações acidentais.
+Artigo 3.º - Tipos de solicitações acidentais.
 
-###### Artigo 4.º - Solicitações permanentes.
+Artigo 4.º - Solicitações permanentes.
 
-###### Artigo 5.º - Solicitações acidentais habituais.
+Artigo 5.º - Solicitações acidentais habituais.
 
-###### Artigo 6.º - Solicitações acidentais excepcionais.
+Artigo 6.º - Solicitações acidentais excepcionais.
 
-###### Artigo 7.º - Combinações de solicitações.
+Artigo 7.º - Combinações de solicitações.
 
-###### Artigo 8.º - Simultaneidade de actuação de solicitações.
+Artigo 8.º - Simultaneidade de actuação de solicitações.
 
-###### Artigo 9.º - Combinações para dimensionamento.
+Artigo 9.º - Combinações para dimensionamento.
 
-###### Artigo 10.º - Solicitações em fases da construção.
+Artigo 10.º - Solicitações em fases da construção.
 
 ### CAPÍTULO II — Solicitações permanentes
 
-###### Artigo 11.º - Pesos específicos de materiais.
+Artigo 11.º - Pesos específicos de materiais.
 
-###### Artigo 12.º - Peso de paredes divisórias em edifícios.
+Artigo 12.º - Peso de paredes divisórias em edifícios.
 
 ### CAPÍTULO III — Solicitações acidentais em edifícios
 
 A) Sobrecargas
 
-###### Artigo 13.º - Tipos de coberturas.
+Artigo 13.º - Tipos de coberturas.
 
-###### Artigo 14.º - Sobrecargas em coberturas ordinárias e terraços não acessíveis.
+Artigo 14.º - Sobrecargas em coberturas ordinárias e terraços não acessíveis.
 
-###### Artigo 15.º - Sobrecargas em terraços acessíveis.
+Artigo 15.º - Sobrecargas em terraços acessíveis.
 
-###### Artigo 16.º - Combinações de solicitações em coberturas.
+Artigo 16.º - Combinações de solicitações em coberturas.
 
-###### Artigo 17.º - Sobrecargas em pavimentos.
+Artigo 17.º - Sobrecargas em pavimentos.
 
-###### Artigo 18.º - Sobrecargas em varandas.
+Artigo 18.º - Sobrecargas em varandas.
 
-###### Artigo 19.º - Sobrecargas em acessos.
+Artigo 19.º - Sobrecargas em acessos.
 
-###### Artigo 20.º - Redução das sobrecargas.
+Artigo 20.º - Redução das sobrecargas.
 
-###### Artigo 21.º - Acções dinâmicas.
+Artigo 21.º - Acções dinâmicas.
 
 B) Outras solicitações
 
-###### Artigo 22.º - Solicitações em guardas e parapeitos.
+Artigo 22.º - Solicitações em guardas e parapeitos.
 
-###### Artigo 23.º - Outras solicitações.
+Artigo 23.º - Outras solicitações.
 
 ### CAPÍTULO IV — Solicitações acidentais em pontes rodoviárias e passadiços
 
 A) Sobrecargas em pontes rodoviárias
 
-###### Artigo 24.º - Sobrecargas em pontes de estradas nacionais e municipais.
+Artigo 24.º - Sobrecargas em pontes de estradas nacionais e municipais.
 
-###### Artigo 25.º - Sobrecargas em pontes de caminhos vicinais.
+Artigo 25.º - Sobrecargas em pontes de caminhos vicinais.
 
-###### Artigo 26.º - Sobrecargas em passeios.
+Artigo 26.º - Sobrecargas em passeios.
 
-###### Artigo 27.º - Coeficiente dinâmico.
+Artigo 27.º - Coeficiente dinâmico.
 
 B) Outras solicitações em pontes rodoviárias
 
-###### Artigo 28.º - Frenagem.
+Artigo 28.º - Frenagem.
 
-###### Artigo 29.º - Atritos e resistências em aparelhos de apoio.
+Artigo 29.º - Atritos e resistências em aparelhos de apoio.
 
-###### Artigo 30.º - Solicitações em guardas.
+Artigo 30.º - Solicitações em guardas.
 
-###### Artigo 31.º - Solicitações em guarda-rodas.
+Artigo 31.º - Solicitações em guarda-rodas.
 
-###### Artigo 32.º - Acção do vento.
+Artigo 32.º - Acção do vento.
 
-###### Artigo 33.º - Outras solicitações.
+Artigo 33.º - Outras solicitações.
 
 C) Solicitações em passadiços
 
-###### Artigo 34.º - Sobrecarga em passadiços.
+Artigo 34.º - Sobrecarga em passadiços.
 
-###### Artigo 35.º - Outras solicitações.
+Artigo 35.º - Outras solicitações.
 
 ### CAPÍTULO V — Solicitações acidentais em pontes ferroviárias de via larga e de via estreita
 
 A) Sobrecargas
 
-###### Artigo 36.º - Comboios-tipo.
+Artigo 36.º - Comboios-tipo.
 
-###### Artigo 37.º - Sobrecargas em pontes de via única.
+Artigo 37.º - Sobrecargas em pontes de via única.
 
-###### Artigo 38.º - Sobrecargas em pontes de via dupla ou múltipla.
+Artigo 38.º - Sobrecargas em pontes de via dupla ou múltipla.
 
-###### Artigo 39.º - Redução das sobrecargas em pontes de via múltipla.
+Artigo 39.º - Redução das sobrecargas em pontes de via múltipla.
 
-###### Artigo 40.º - Sobrecargas em passeios e em passadiços de visita.
+Artigo 40.º - Sobrecargas em passeios e em passadiços de visita.
 
-###### Artigo 41.º - Coeficiente dinâmico.
+Artigo 41.º - Coeficiente dinâmico.
 
 B) Outras solicitações
 
-###### Artigo 42.º - Frenagem.
+Artigo 42.º - Frenagem.
 
 ###### Artigo 43.º - Lacete.
 
-###### Artigo 44.º - Força centrífuga.
+Artigo 44.º - Força centrífuga.
 
-###### Artigo 45.º - Acção do vento.
+Artigo 45.º - Acção do vento.
 
-###### Artigo 46.º - Atritos e resistências em aparelhos de apoio.
+Artigo 46.º - Atritos e resistências em aparelhos de apoio.
 
-###### Artigo 47.º - Outras solicitações.
+Artigo 47.º - Outras solicitações.
 
 ### CAPÍTULO VI — Acção do vento
 
-###### Artigo 48.º - Tipos de vento.
+Artigo 48.º - Tipos de vento.
 
-###### Artigo 49.º - Cálculo das pressões devidas ao vento.
+Artigo 49.º - Cálculo das pressões devidas ao vento.
 
-###### Artigo 50.º - Pressão dinâmica para o vento habitual.
+Artigo 50.º - Pressão dinâmica para o vento habitual.
 
-###### Artigo 51.º - Pressão dinâmica para o vento excepcional.
+Artigo 51.º - Pressão dinâmica para o vento excepcional.
 
-###### Artigo 52.º - Redução das pressões dinâmicas.
+Artigo 52.º - Redução das pressões dinâmicas.
 
-###### Artigo 53.º - Coeficientes de forma.
+Artigo 53.º - Coeficientes de forma.
 
-###### Artigo 54.º - Efeitos vibratório do vento.
+Artigo 54.º - Efeitos vibratório do vento.
 
 ### CAPÍTULO VII — Acção da neve
 
-###### Artigo 55.º - Carga devida à neve.
+Artigo 55.º - Carga devida à neve.
 
-###### Artigo 56.º - Redução da carga devida à neve em coberturas inclinadas.
+Artigo 56.º - Redução da carga devida à neve em coberturas inclinadas.
 
-###### Artigo 57.º - Carga devida à neve em coberturas de várias vertentes.
+Artigo 57.º - Carga devida à neve em coberturas de várias vertentes.
 
 ### CAPÍTULO VIII — Variações de temperatura
 
-###### Artigo 58.º - Variações de temperatura.
+Artigo 58.º - Variações de temperatura.
 
-###### Artigo 59.º - Variações uniformes de temperatura.
+Artigo 59.º - Variações uniformes de temperatura.
 
-###### Artigo 60.º - Coeficientes de dilatação térmica.
+Artigo 60.º - Coeficientes de dilatação térmica.
 
-###### Artigo 61.º - Módulos de elasticidade.
+Artigo 61.º - Módulos de elasticidade.
 
-###### Artigo 62.º - Variações diferenciais de temperatura.
+Artigo 62.º - Variações diferenciais de temperatura.
 
 ### CAPÍTULO IX — Acção dos sismos
 
-###### Artigo 63.º - Zonas sísmicas.
+Artigo 63.º - Zonas sísmicas.
 
-###### Artigo 64.º - Solicitações sísmicas.
+Artigo 64.º - Solicitações sísmicas.
 
-###### Artigo 65.º - Coeficiente sísmico.
+Artigo 65.º - Coeficiente sísmico.
 
-###### Artigo 66.º - Acções hidrodinâmicas devidas aos sismos.
+Artigo 66.º - Acções hidrodinâmicas devidas aos sismos.
 
 ### CAPÍTULO X — Outras solicitações
 
-###### Artigo 67.º - Retracção, fluência e relaxação.
+Artigo 67.º - Retracção, fluência e relaxação.
 
-###### Artigo 68.º - Assentamentos dos apoios.
+Artigo 68.º - Assentamentos dos apoios.
 
-###### Artigo 69.º - Impulsos de terras.
+Artigo 69.º - Impulsos de terras.
 
-###### Artigo 70.º - Pressões hidrostácticas.
+Artigo 70.º - Pressões hidrostácticas.
 
-###### Artigo 71.º - Pressões hidrodinâmicas.
+Artigo 71.º - Pressões hidrodinâmicas.
 
 ## ANEXO I
 
@@ -403,19 +433,19 @@ O presente regulamento tem por objecto a definição das solicitações a consid
 
 § único. Este regulamento poderá ainda servir de base, quer directamente, quer com os ajustamentos convenientes, para o dimensionamento das estruturas de outros tipos de construções.
 
-###### Artigo 2.º - Tipos de solicitações
+Artigo 2.º - Tipos de solicitações
 
 As solicitações a considerar dividem-se em dois tipos: solicitações permanentes e solicitações acidentais.
 
-###### Artigo 3.º - Tipos de solicitações acidentais
+Artigo 3.º - Tipos de solicitações acidentais
 
 As solicitações acidentais dividem-se em dois tipos: solicitações acidentais habituais e solicitações acidentais excepcionais.
 
-###### Artigo 4.º - Solicitações permanentes
+Artigo 4.º - Solicitações permanentes
 
 As solicitações permanentes a considerar são o peso dos diversos elementos da construção, incluindo revestimentos, e o peso de eventual equipamento fixo.
 
-###### Artigo 5.º - Solicitações acidentais habituais
+Artigo 5.º - Solicitações acidentais habituais
 
 As solicitações acidentais habituais a considerar são as seguintes: sobrecargas e efeitos inerentes (acções dinâmicas, frenagem, lacete e força centrífuga); acção do vento habitual; acção da neve; variações de temperatura; retracção, fluência e relaxação dos materiais; assentamentos dos apoios; atritos e resistências em aparelhos de apoio; impulsos de terras e de outros materiais; pressões hidrostáticas e hidrodinâmicas; e ainda outras solicitações que circunstâncias particulares imponham.
 
@@ -423,13 +453,13 @@ A quantificação das solicitações acidentais habituais, apresentada nos corre
 
 Para as solicitações em relação às quais tem sentido um esquema estatístico, adoptaram-se valores que, apesar de representarem de certo modo limites superiores dessas solicitações, têm probabilidade considerável de serem atingidos dentro do período de vida normal da construção. Para as outras solicitações são fixados valores que, com maior ou menor garantia dependente da informação existente, se supõe cobrirem os maiores valores que podem ser atingidos em condições normais.
 
-###### Artigo 6.º - Solicitações acidentais excepcionais
+Artigo 6.º - Solicitações acidentais excepcionais
 
 As solicitações acidentais excepcionais a considerar são a acção do vento excepcional (ciclónico) e a acção dos sismos.
 
 A quantificação das solicitações acidentais excepcionais, apresentada nos correspondentes artigos deste regulamento, resultou da aplicação de um critério estatístico de previsão, tendo-se adoptado valores com muito pequena probabilidade de serem excedidos durante a vida da estrutura.
 
-###### Artigo 7.º - Combinações de solicitações
+Artigo 7.º - Combinações de solicitações
 
 As hipóteses de solicitação a considerar deverão ser obtidas pela combinação das solicitações permanentes com as solicitações acidentais, do modo a seguir indicado:
 
@@ -443,7 +473,7 @@ As combinações do tipo I correspondem a estados de solicitação com probabili
 
 Em relação às parcelas das sobrecargas que, pelo seu carácter de permanência, devem ser incluídas nas combinações do tipo II, indicam-se a título de exemplo: as cargas devidas à maquinaria numa instalação industrial, o peso de arquivos de bibliotecas, etc.
 
-###### Artigo 8.º - Simultaneidade de actuação de solicitações
+Artigo 8.º - Simultaneidade de actuação de solicitações
 
 Nas combinações de solicitações referidas no artigo anterior, devem ser consideradas todas as solicitações cuja actuação simultânea seja verosímil.
 
@@ -451,17 +481,17 @@ Nas combinações de solicitações referidas no artigo anterior, devem ser cons
 
 Visto que a probabilidade e a duração dos sismos e do vento excepcional são individualmente muito pequenas, estas solicitações não devem ser combinadas entre si nem com as restantes solicitações acidentais.
 
-###### Artigo 9.º - Combinações para dimensionamento
+Artigo 9.º - Combinações para dimensionamento
 
 Das combinações formuladas de acordo com os artigos 7.º e 8.º, devem ser tomadas para o dimensionamento as que produzirem os efeitos mais desfavoráveis, tanto em relação aos diferentes elementos da estrutura como ao seu conjunto.
 
-###### Artigo 10.º - Solicitações em fases da construção
+Artigo 10.º - Solicitações em fases da construção
 
 Devem ainda ser consideradas, desde que assumam importância significativa, as solicitações que derivem de fases da construção, tais como as resultantes de transporte, montagem, existência de estruturas provisórias e moldes, etc.
 
 ### CAPÍTULO II — Solicitações permanentes
 
-###### Artigo 11.º - Pesos específicos de materiais
+Artigo 11.º - Pesos específicos de materiais
 
 Para determinação dos pesos próprios de elementos das estruturas, indicam-se seguidamente os pesos específicos a adoptar para alguns materiais de utilização mais frequente, sempre que outros valores não sejam devidamente justificados:
 
@@ -487,7 +517,7 @@ Eucalipto ... 1000
 
 Os valores apresentados para madeiras referem-se às duas espécies mais usadas na construção e são os que correspondem às condições de utilização mais frequentes. Esta distinção de condições de utilização justifica-se pela grande influência da humidade sobre o peso específico da madeira, devendo notar-se que, para madeira imersa (saturada), os valores do peso específico serão ainda superiores aos indicados.
 
-###### Artigo 12.º - Peso de paredes divisórias em edifícios
+Artigo 12.º - Peso de paredes divisórias em edifícios
 
 Em edifícios, quando se pretenda não considerar localizado o peso de paredes divisórias e desde que o pavimento possua uma constituição que garanta uma distribuição eficaz das cargas, poderá assimilar-se o peso dessas paredes a uma carga uniformemente distribuída em todo o pavimento, com valores mínimos por metro quadrado obtidos pelas percentagens seguintes do peso de um metro linear de parede:
 
@@ -505,7 +535,7 @@ A necessária distribuição das cargas das paredes só é, no entanto, garantid
 
 A) Sobrecargas
 
-###### Artigo 13.º - Tipos de coberturas
+Artigo 13.º - Tipos de coberturas
 
 Para os efeitos do presente regulamento definem-se os seguintes tipos de coberturas:
 
@@ -517,7 +547,7 @@ c) Terraços acessíveis - coberturas formadas por elementos de construção que
 
 O critério de separação entre os tipos de coberturas definidos resulta fundamentalmente de, além da função de cobertura, lhes estar ou não atribuída função de pavimento. Os acessos deverão, pois, estar condicionados a estas funções, permitindo a franca utilização no caso dos terraços acessíveis ou dificultando essa utilização no caso dos terraços não acessíveis e coberturas ordinárias.
 
-###### Artigo 14.º - Sobrecargas em coberturas ordinárias e terraços não acessíveis
+Artigo 14.º - Sobrecargas em coberturas ordinárias e terraços não acessíveis
 
 Para coberturas ordinárias e terraços não acessíveis adoptar-se-ão as seguintes sobrecargas mínimas:
 
@@ -529,19 +559,19 @@ b) Terraços não acessíveis - uma sobrecarga uniformemente distribuída de 100
 
 A sobrecarga concentrada da alínea a) destina-se a representar o peso de um operário ou de materiais durante a construção ou reparação da cobertura. A sobrecarga distribuída de 30 kgf m(elevado a -2) considera-se o mínimo admissível para o dimensionamento de qualquer tipo de cobertura, de modo a garantir a estas estruturas uma conveniente reserva de resistência.
 
-###### Artigo 15.º - Sobrecargas em terraços acessíveis
+Artigo 15.º - Sobrecargas em terraços acessíveis
 
 Para os terraços acessíveis deverá tomar-se uma sobrecarga mínima de 200 kgf m(elevado a -2). No caso de o terraço desempenhar funções específicas de pavimento, deverá ser tomada para dimensionamento a sobrecarga correspondente ao tipo de utilização, de acordo com os valores especificados nos artigos 17.º, 18.º e 19.º
 
 Exemplificando: um terraço que constitua acesso a um edifício deveria ser considerado como átrio ou corredor; um terraço que dê continuidade a um salão de festas deverá ser dimensionado para uma sobrecarga idêntica à adoptada para o salão.
 
-###### Artigo 16.º - Combinações de solicitações em coberturas
+Artigo 16.º - Combinações de solicitações em coberturas
 
 Nas combinações de solicitações para o dimensionamento das coberturas, as sobrecargas não devem ser consideradas simultâneamente nem com a acção do vento nem com a acção da neve.
 
 Esta disposição - corolário do disposto no artigo 8.º - resulta de ser pouco provável a permanência de pessoas nas coberturas durante a incidência de vento com intensidade considerável, ou de neve.
 
-###### Artigo 17.º - Sobrecargas em pavimentos
+Artigo 17.º - Sobrecargas em pavimentos
 
 As sobrecargas a considerar nos pavimentos são estabelecidas de acordo com o tipo de utilização previsto.
 
@@ -583,13 +613,13 @@ Nalgumas utilizações abrangidas pela alínea b), tais como armazéns e garagen
 
 Para o caso de oficinas de indústria pesada, preferiu-se não indicar neste regulamento qualquer valor de sobrecarga, de modo a promover a sua avaliação mais conveniente em face das condições particulares de cada caso.
 
-###### Artigo 18.º - Sobrecargas em varandas
+Artigo 18.º - Sobrecargas em varandas
 
 Em varandas deverá considerar-se, numa faixa de 1 m de largura adjacente ao parapeito, uma sobrecarga de 500 kgf m(elevado a -2) e, na restante superfície, uma sobrecarga igual à estabelecida para o compartimento contíguo de acordo com os artigos 17.º e 19.º
 
 A sobrecarga de 500 kgf m(elevado a -2) numa faixa de 1 m adjacente ao parapeito representa a elevada concentração de pessoas que é frequente verificar-se nessa zona; na restante superfície não se julga indispensável considerar uma sobrecarga superior à prevista para o compartimento que dá acesso à varanda.
 
-###### Artigo 19.º - Sobrecargas em acessos
+Artigo 19.º - Sobrecargas em acessos
 
 Em acessos tais como escadas, rampas, átrios e corredores adoptar-se-ão, conforme o seu carácter privado ou público, às seguintes sobrecargas mínimas:
 
@@ -603,7 +633,7 @@ Locais públicos ... 500
 
 § 2.º No interior das habitações podem adoptar-se, para os pavimentos dos átrios e corredores, sobrecargas idênticas às dos restantes compartimentos.
 
-###### Artigo 20.º - Redução das sobrecargas
+Artigo 20.º - Redução das sobrecargas
 
 Em edifícios de habitação ou análogos poderá supor-se, para o cálculo dos esforços normais nos elementos de suporte (pilares, paredes resistentes, fundações), que as sobrecargas actuam com os valores totais apenas nos dois pisos situados imediatamente acima da secção considerada e com valores reduzidos de 50 por cento em todos os pisos superiores.
 
@@ -613,13 +643,13 @@ A redução de sobrecargas indicada para edifícios destinados a utilização do
 
 A matéria deste artigo não abrange os edifícios com utilizações diferentes do tipo habitação, tais como armazéns, instalações industriais ou garagens, por não ser válida, para estes casos, a justificação probabilística referida.
 
-###### Artigo 21.º - Acções dinâmicas
+Artigo 21.º - Acções dinâmicas
 
 As sobrecargas indicadas nos artigos anteriores têm já em consideração às acções dinâmicas habituais. As sobrecargas provenientes de máquinas, guindastes, pontes rolantes ou outros dispositivos mecânicos deverão ser convenientemente acrescidas para ter em conta os efeitos dinâmicos inerentes ao seu funcionamento.
 
 B) Outras solicitações
 
-###### Artigo 22.º - Solicitações em guardas e parapeitos
+Artigo 22.º - Solicitações em guardas e parapeitos
 
 Para o dimensionamento das guardas e parapeitos, considerar-se-á aplicada na sua parte superior uma força horizontal uniformemente distribuída, com os valores seguintes:
 
@@ -629,7 +659,7 @@ Em locais privados ... 40
 
 Em locais públicos ... 80
 
-###### Artigo 23.º - Outras solicitações
+Artigo 23.º - Outras solicitações
 
 Além das solicitações especificadas neste capítulo, devem ser tomadas em consideração, de acordo com o exposto no capítulo I, todas as outras solicitações acidentais, tal como se encontram definidas nos respectivos artigos.
 
@@ -637,17 +667,17 @@ Além das solicitações especificadas neste capítulo, devem ser tomadas em con
 
 A) Sobrecargas em pontes rodoviárias
 
-###### Artigo 24.º - Sobrecargas em pontes de estradas nacionais e municipais
+Artigo 24.º - Sobrecargas em pontes de estradas nacionais e municipais
 
 Nas pontes de estradas nacionais e municipais, será considerada a actuação separada das duas sobrecargas definidas nas alíneas seguintes, tornando-se para o dimensionamento aquela que produzir os efeitos mais desfavoráveis no elemento em estudo.
 
 a) Sobrecarga aplicada à faixa de rodagem, constituída por um veículo de três eixos equidistantes, cada um de duas rodas, com a seguinte disposição e dimensões:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf))](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
 
 As cargas transmitidas por eixo e as dimensões das superfícies de contacto das rodas serão, conforme a classe a que a ponte pertencer, as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf))](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
 
 A localizarão do veículo, tanto longitudinal como transversalmente, deverá ser aduela que produzir efeitos mais desfavoráveis para o elemento em estudo, mas supor-se-á sempre o seu eixo paralelo ao eixo da ponte.
 
@@ -663,23 +693,23 @@ Estas cargas não serão afectadas de coeficiente dinâmico e serão dispostas, 
 
 As disposições do presente artigo respeitam a orientação geral estabelecida no [Decreto n.º 41584](https://diariodarepublica.pt/dr/detalhe/decreto/41584-1958-305254), de 12 de Abril de 1958, tendo-se, no entanto, considerado conveniente alterar para 300 kgf m(elevado a -2) o valor da carga uniforme da alínea b).
 
-###### Artigo 25.º - Sobrecargas em pontes de caminhos vicinais
+Artigo 25.º - Sobrecargas em pontes de caminhos vicinais
 
 Nas pontes de caminhos vicinais, as sobrecargas fixadas no artigo anterior serão substituídas pelas seguintes, a actuar em condições idênticas às ali prescritas, na parte aplicável:
 
 a) Sobrecarga da faixa de rodagem, a afectar de coeficiente dinâmico, constituída por um veículo de dois eixos, cada um de duas rodas, com a seguinte disposição e dimensões:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf))](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
 
 As cargas transmitidas por eixo e as dimensões das superfícies de contacto das rodas deste veículo serão as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf))](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
 
 b) Sobrecarga constituída por uma carga uniforme de 300 kgf m(elevado a -2), aplicada à faixa de rodagem e aos passeios, e por uma carga linear uniforme, transversal, de 3 tf m(elevado a -1), aplicada apenas à faixa de rodagem e numa única secção.
 
 § único. Mediante despacho do Ministro das Obras Públicas, sobre proposta devidamente fundamentada dos serviços interessados, poderão estas sobrecargas ser excepcionalmente consideradas também no cálculo de pontes de estradas municipais, quando nelas não seja de prever a circulação de material pesado.
 
-###### Artigo 26.º - Sobrecargas em passeios
+Artigo 26.º - Sobrecargas em passeios
 
 Para o dimensionamento dos passeios serão escolhidos os efeitos mais desfavoráveis de entre os produzidos separadamente pelas sobrecargas seguintes:
 
@@ -689,7 +719,7 @@ b) Carga concentrada de 2 tf.
 
 A carga concentrada de 2 tf destina-se a representar a acção de uma roda de um veículo que eventualmente galgue o passeio.
 
-###### Artigo 27.º - Coeficiente dinâmico
+Artigo 27.º - Coeficiente dinâmico
 
 Para ter em conta as acções dinâmicas, os valores das cargas definidas na alínea a) dos artigos 24.º e 25.º serão afectados de um coeficiente dinâmico de 1,2.
 
@@ -707,37 +737,37 @@ b) Força horizontal, aplicada ao nível do pavimento e paralela ao eixo da pont
 
 No caso de ponte mistas haverá, evidentemente, que considerar também os valores estipulados no capítulo referente às pontes ferroviárias.
 
-###### Artigo 29.º - Atritos e resistências em aparelhos de apoio
+Artigo 29.º - Atritos e resistências em aparelhos de apoio
 
 Os atritos de escorregamento e de rolamento em aparelhos de apoio, sempre que não forem justificados outro valores, devem ser computados em, respectivamente, 0,2 e 0,03 da reacção vertical correspondente às solicitações permanentes e à sobrecarga sem o coeficiente dinâmico. As resistências opostas por aparelhos de apoio especiais devem ser devidamente calculadas em função das suas características e dos deslocamentos previstos.
 
 Na designação de aparelhos de apoio especiais englobam-se os apoios pendulares e os dispositivos elásticos (por exemplo, de neoprene).
 
-###### Artigo 30.º - Solicitações em guardas
+Artigo 30.º - Solicitações em guardas
 
 Para o dimensionamento das guardas deve ser considerada, actuando à altura do parapeito, uma força horizontal uniformemente distribuída com o valor de 80 kgf m(elevado a -1).
 
 A força indicada procura sòmente representar a acção exercida por uma aglomeração de pessoas. Considera-se, no entanto, indispensável que as guardas das pontes possuam resistência suficiente para evitar que se despenhem os veículos que nelas embatam. Como não se dispõe de elementos que permitam quantificar estas acções, nada e especifica neste regulamento, deixando-se aos regulamentos de pontes a função de estabelecer as disposições construtivas que a experiência tem demonstrado garantirem uma segurança suficiente.
 
-###### Artigo 31.º - Solicitações em guarda-rodas
+Artigo 31.º - Solicitações em guarda-rodas
 
 Os guarda-rodas devem estar dimensionados para resistir a uma força concentrada horizontal, actuando normal ou tangencialmente, com o valor de 2 tf.
 
-###### Artigo 32.º - Acção do vento
+Artigo 32.º - Acção do vento
 
 Na determinação da acção do vento, em que será aplicado o disposto no capítulo VI, além das superfícies expostas próprias da estrutura, deverá ser considerada, e apenas para o vento habitual, uma superfície contínua em todo o comprimento da ponte, situada acima do nível do pavimento e com a altura da guarda.
 
-###### Artigo 33.º - Outras solicitações
+Artigo 33.º - Outras solicitações
 
 Além das solicitações especificadas nos artigos anteriores deste capítulo, devem ser consideradas, de acordo com o exposto no capítulo I, todas as outras solicitações acidentais, tal como se encontram definidas nos respectivos artigos.
 
 C) Solicitações em passadiços
 
-###### Artigo 34.º - Sobrecarga em passadiços
+Artigo 34.º - Sobrecarga em passadiços
 
 Nas pontes e passadiços para uso exclusivo de peões, ciclistas ou motociclistas, considerar-se-á uma sobrecarga uniformemente distribuída de 400 kgf m(elevado a -2). Esta sobrecarga não será afectada de coeficiente dinâmico.
 
-###### Artigo 35.º - Outras solicitações
+Artigo 35.º - Outras solicitações
 
 Além da sobrecarga definida no artigo anterior e das solicitações correspondentes aos aparelhos de apoio e às guardas, que se tomarão idênticas às estabelecidas nos artigos 29.º e 30.º, devem ser consideradas, de acordo com o exposto no capítulo I, todas as outras solicitações acidentais, tal como se encontram definidas nos respectivos artigos.
 
@@ -745,15 +775,15 @@ Além da sobrecarga definida no artigo anterior e das solicitações corresponde
 
 A) Sobrecargas
 
-###### Artigo 36.º - Comboios-tipo
+Artigo 36.º - Comboios-tipo
 
 Os comboios-tipo que definem as sobrecargas a considerar nas pontes de via larga e nas pontes de via estreita são os representados nas figs. 3 e 4, respectivamente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf))](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
 
 Os comboios-tipo foram estabelecidos de modo a constituírem sobrecargas que cobrem os efeitos da circulação dos comboios actuais mais pesados, com uma margem de segurança proporcionada ao que a evolução geral dos transportes ferroviários permite prever para futuro próximo. Constituem ainda esquemas simples de carga, nos quais o conjunto de cargas concentradas é representativo dos eixos do material de tracção e a carga uniforme representa o material rebocado.
 
-###### Artigo 37.º - Sobrecargas em pontes de via única
+Artigo 37.º - Sobrecargas em pontes de via única
 
 As sobrecargas a considerar são obtidas do comboio-tipo relativo à bitola da via, tendo em atenção o especificado nas alíneas seguintes:
 
@@ -767,15 +797,15 @@ Nas figs. 5 a 8 são apresentados alguns exemplos de aplicação do especificado
 
 A carga uniforme de 1 tf m(elevado a -1), a considerar nas condições a que se refere a alínea b), é representativa de material rebocado não carregado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf))](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
 
-###### Artigo 38.º - Sobrecargas em pontes de via dupla ou múltipla
+Artigo 38.º - Sobrecargas em pontes de via dupla ou múltipla
 
 Nas pontes de via dupla ou múltipla, as sobrecargas a considerar são as combinações de sobrecargas das diferentes vias que produzirem os mais severos efeitos nos elementos em estudo.
 
 Do disposto neste artigo decorre que as sobrecargas das diferentes vias não serão colocadas necessàriamente a par, nomeadamente para a obtenção dos esforços resultantes de efeitos de torção.
 
-###### Artigo 39.º - Redução das sobrecargas em pontes de via múltipla
+Artigo 39.º - Redução das sobrecargas em pontes de via múltipla
 
 Nas pontes de via múltipla poder-se-ão considerar apenas duas das vias ocupadas pelas sobrecargas totais, a que correspondem os valores das cargas definidos no artigo 36.º, admitindo-se para as sobrecargas das outras vias as reduções seguintes:
 
@@ -791,7 +821,7 @@ De acordo com o artigo anterior, as vias sobre que se aplicam as reduções refe
 
 A restrição à aplicabilidade deste artigo, expressa no seu § único, tem particular justificação no caso de pontes situadas entre os limites de uma estação.
 
-###### Artigo 40.º - Sobrecargas em passeios e em passadiços de visita
+Artigo 40.º - Sobrecargas em passeios e em passadiços de visita
 
 Para o dimensionamento dos passeios e dos passadiços de visita, serão escolhidos os efeitos reais desfavoráveis de entre os produzidos separadamente pelas sobrecargas seguintes:
 
@@ -801,7 +831,7 @@ b) Carga concentrada de 400 kgf.
 
 § único. As sobrecargas nos passeios e nos passadiços de visita não necessitam de ser consideradas para o dimensionamento dos elementos principais das estruturas.
 
-###### Artigo 41.º - Coeficiente dinâmico
+Artigo 41.º - Coeficiente dinâmico
 
 Para ter em conta as acções dinâmicas, as cargas dos comboios-tipo serão multiplicadas por um coeficiente (fi) (coeficiente dinâmico), cujo valor é estabelecido em função do tipo de estrutura e do vão dos elementos, conforme se indica nas alíneas seguintes:
 
@@ -839,7 +869,7 @@ O conjunto das forças de trenagem de cada via deverá ser considerado podendo a
 
 Na fig. 9 mostra-se esquemàticamente a maneira convencional de considerar a actuação das forças de frenagem, tal como é prescrito neste artigo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf))](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
 
 ###### Artigo 43.º - Lacete
 
@@ -851,7 +881,7 @@ Para ter em conta os efeitos das acções laterais de lacete dos comboios, consi
 
 § único. Nas pontes de mais de uma via, bastará considerar apenas uma força de lacete para o conjunto das vias.
 
-###### Artigo 44.º - Força centrífuga
+Artigo 44.º - Força centrífuga
 
 Nas pontes com via em curva, para ter em conta a força centrífuga, considerar-se-ão forças horizontais, actuando em direcção normal ao eixo de via, aplicadas a 1,50 m acima da cabeça do carril e nas correspondentes posições das cargas do comboio-tipo. As intensidades destas forças, em toneladas-força, são obtidas pela expressão
 
@@ -871,33 +901,33 @@ r é o raio da curva, em metros.
 
 Na fig. 10 mostra-se esquemàticamente o modo de considerar a actuação da força centrífuga.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf))](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
 
-###### Artigo 45.º - Acção do vento
+Artigo 45.º - Acção do vento
 
 Na determinação da acção do vento, em que será aplicado o disposto no capítulo VI, dever-se-á considerar, além da acção sobre as superfícies expostas próprias da estrutura, a acção do vento sobre um comboio que se encontre ocupando toda a extensão da ponte. Para isso, deverão ter-se em atenção as condições de exposição do comboio, e supor-se-á, tanto para via larga como para via estreita, que este possui forma prismática com a secção indicada na fig. 11.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf))](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
 
 § único. Para verificação do equilíbrio estático da estrutura, deverá ser formulada uma hipótese de solicitação, em que sejam combinadas a acção do vento, tal como está definida no corpo do artigo, e uma sobrecarga uniforme com o menor valor compatível com a estabilidade do comboio que representa.
 
-###### Artigo 46.º - Atritos e resistências em aparelhos de apoio
+Artigo 46.º - Atritos e resistências em aparelhos de apoio
 
 Para a consideração dos atritos e resistências em aparelhos de apoio de pontes ferroviárias, deverá ser aplicado o disposto no artigo 29.º
 
-###### Artigo 47.º - Outras solicitações
+Artigo 47.º - Outras solicitações
 
 Além das solicitações especificadas neste capítulo, devem ser consideradas, de acordo com o exposto no capítulo I, todas as outras solicitações acidentais, tal como se encontram definidas nos respectivos artigos.
 
 ### CAPÍTULO VI — Acção do vento
 
-###### Artigo 48.º - Tipos de vento
+Artigo 48.º - Tipos de vento
 
 Para ter em conta a acção do vento sobre as construções, considerar-se-ão, de acordo com o estabelecido no capítulo I os dois tipos de vento seguintes: vento habitual e vento excepcional.
 
 Aos dois tipos de vento referidos atribuem-se duas ordens de grandeza da probabilidade de ocorrência, correspondentes aos dois tipos de solicitações acidentais. Assim, as velocidades relativas a cada um dos tipos de vento são quantificadas de modo que, para o vento habitual, valores superiores aos considerados tenham um número esperado de ocorrências de 2 ou 3 por decénio, e, para o vento excepcional, seja inferior a 1 o número esperado de ocorrências por século.
 
-###### Artigo 49.º - Cálculo das pressões devidas ao vento
+Artigo 49.º - Cálculo das pressões devidas ao vento
 
 As pressões p(índice v), resultantes da acção do vento, que se consideram incidindo normalmente às superfícies, serão calculadas pela expressão
 
@@ -917,7 +947,7 @@ em que v é a velocidade do vento, em m seg(elevado a -1).
 
 Conforme o sinal do coeficiente de forma, as pressões p(índice v) serão positivas ou negativas, correspondendo no segundo caso a sucções ou depressões.
 
-###### Artigo 50.º - Pressão dinâmica para o vento habitual
+Artigo 50.º - Pressão dinâmica para o vento habitual
 
 Para a quantificação da pressão dinâmica correspondente ao vento habitual, considerar-se-á o território metropolitano dividido em dois tipos de regiões:
 
@@ -933,25 +963,25 @@ O critério que presidiu ao parcelamento do território em dois tipos de regiõe
 
 A lei de variação das pressões em função da altura acima do solo fundamenta-se em estudos experimentais recentes e é apresentada, por simplificação, em diagramas de variação em degraus. O traçado dos diagramas não foi efectuado para alturas superiores a 200 m, por não se prever que este valor seja ultrapassado pelas construções às quais o presente regulamento se aplica.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf))](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
 
-###### Artigo 51.º - Pressão dinâmica para o vento excepcional
+Artigo 51.º - Pressão dinâmica para o vento excepcional
 
 Os valores prescritos da pressão dinâmica para o vento excepcional não dependem do tipo de região em que se localiza a construção e são variáveis ao longo da altura desta acima do solo, conforme se indica na fig. 12.
 
 A não consideração de regiões diferentemente expostas para a acção do vento excepcional justifica-se pelo carácter ciclónico deste, podendo os seus efeitos incidir indiscriminadamente sobre vastas regiões.
 
-###### Artigo 52.º - Redução das pressões dinâmicas
+Artigo 52.º - Redução das pressões dinâmicas
 
 Desde que devidamente justificadas, poder-se-ão admitir reduções das pressões dinâmicas indicadas nos artigos 50.º e 51.º, em casos especiais, tais como estruturas de grande frente, estruturas com frequência de vibração baixa e estruturas situadas em zonas particularmente abrigadas.
 
 § único. No caso de estruturas provisórias de pequena importância e com existência limitada à época estival (Maio a Setembro), será dispensada a consideração do vento excepcional, e, para o vento habitual, admitem-se os valores de pressão dinâmica a seguir indicados, resultantes de uma dedução de cerca de 10 m s(elevado a -1) aos correspondentes valores de velocidade do vento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf))](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
 
 Visto que a redução admitida no § único conduz a pressões dinâmicas de valor relativamente baixo, a sua aplicação deverá ser rigorosamente limitada a construções de que haja garantia de não serem mantidas para além da época estival e de cuja ruína não possam resultar graves danos. Apenas se indicam valores reduzidos até 40 m de altura acima do solo, porque construções de porte superior difìcilmente poderão ser consideradas de pequena importância.
 
-###### Artigo 53.º - Coeficientes de forma
+Artigo 53.º - Coeficientes de forma
 
 Indicam-se no anexo I os coeficientes de forma a adoptar em alguns casos correntes, tanto para a construção no seu conjunto como para os elementos que a constituem.
 
@@ -961,7 +991,7 @@ Para o estabelecimento dos coeficientes de forma relativos a casos não tratados
 
 No caso de construções muito importantes e de forma não usual, recomenda-se a realização de ensaios em túnel aerodinâmico.
 
-###### Artigo 54.º - Efeitos vibratórios do vento
+Artigo 54.º - Efeitos vibratórios do vento
 
 No caso de estruturas em que a acção do vento possa originar fenómenos vibratórios importantes, deverão estes efeitos ser devidamente considerados.
 
@@ -969,7 +999,7 @@ Os efeitos vibratórios do vento podem constituir solicitação importante para 
 
 ### CAPÍTULO VII — Acção da neve
 
-###### Artigo 55.º - Carga devida à neve
+Artigo 55.º - Carga devida à neve
 
 A acção da neve será considerada, em função da localização da construção e da altitude do local, conforme se indica nas alíneas seguintes:
 
@@ -985,19 +1015,19 @@ b) Para as construções situadas nos restantes distritos do continente e nas il
 
 O zonamento estabelecido baseou-se na informação meteorológica disponível, e a carga representativa da acção da neve é definida em função da altitude do local por uma lei simples, que fornece resultados de um modo geral concordantes com a regulamentação estrangeira relativa a regiões de clima análogo.
 
-###### Artigo 56.º - Redução da carga devida à neve em coberturas inclinadas
+Artigo 56.º - Redução da carga devida à neve em coberturas inclinadas
 
 Nas coberturas inclinadas em que o deslizamento da neve não esteja impedido, poder-se-á tomar, por metro quadrado de projecção horizontal, uma carga p'(índice n) = p(índice n) cos (alfa), em que p(índice n) é o valor da carga definido no artigo anterior e (alfa) é o ângulo que mede a inclinação da cobertura em relação à horizontal.
 
 Esta expressão é válida para valores de (alfa) compreendidos entre 0º e 45º, considerando-se como valor mínimo p'(índice n) = 30 kgf m(elevado a -2), o qual também se adoptará em todos os casos de (alfa) (maior que) 45º.
 
-###### Artigo 57.º - Carga devida à neve em coberturas de várias vertentes
+Artigo 57.º - Carga devida à neve em coberturas de várias vertentes
 
 No caso de coberturas de várias vertentes, dever-se-á considerar a possibilidade de actuação da carga devida à neve apenas em algumas das vertentes, desde que tal conduza a situação mais desfavorável.
 
 ### CAPÍTULO VIII — Variações de temperatura
 
-###### Artigo 58.º - Variações de temperatura
+Artigo 58.º - Variações de temperatura
 
 Para representar a acção das variações da temperatura ambiente sobre as estruturas, considerar-se-ão, actuando nestas, dois tipos de variações de temperatura: uniformes e diferenciais.
 
@@ -1011,7 +1041,7 @@ As variações diferenciais correspondem, por sua vez, às variações rápidas 
 
 O facto de se permitir a não consideração dos esforços resultantes das variações de temperatura nas condições anteriormente referidas não dispensa, evidentemente, que se estudem os pormenores construtivos necessários para garantir a livre dilatação das estruturas.
 
-###### Artigo 59.º - Variações uniformes de temperatura
+Artigo 59.º - Variações uniformes de temperatura
 
 Para ter em conta os efeitos das variações uniformes de temperatura, considerar-se-ão as amplitudes térmicas seguintes, em relação à temperatura média anual do local:
 
@@ -1031,7 +1061,7 @@ Consideram-se como «estruturas protegidas» aquelas cujos elementos se encontra
 
 § único. Se na fase da construção em que se proceder à ligação dos elementos da estrutura, a temperatura diferir significativamente da temperatura média anual do local, haverá que tomar tal facto em consideração.
 
-###### Artigo 60.º - Coeficientes de dilatação térmica
+Artigo 60.º - Coeficientes de dilatação térmica
 
 Os coeficientes de dilatação térmica linear a utilizar são os seguintes:
 
@@ -1041,7 +1071,7 @@ Alvenarias ... 10 x 10(elevado a -6)ºC(elevado a -1)
 
 Madeira ... 5 x 10(elevado a -6)ºC(elevado a -1)
 
-###### Artigo 61.º - Módulos de elasticidade
+Artigo 61.º - Módulos de elasticidade
 
 Quando não existam disposições regulamentares em contrário, poderão ser utilizados, no cálculo dos efeitos das variações uniformes de temperatura, os módulos de elasticidade seguintes:
 
@@ -1057,13 +1087,13 @@ Madeira de pinho ... 100000
 
 Os valores indicados neste artigo correspondem a deformações lentas e, no caso de betões, alvenarias e madeiras, os valores apresentados procuram cobrir, do lado da segurança, a normal variabilidade de características destes materiais.
 
-###### Artigo 62.º - Variações diferenciais de temperatura
+Artigo 62.º - Variações diferenciais de temperatura
 
 As variações diferenciais de temperatura, a considerar nos casos a que se faz referência no § 2.º do artigo 58.º, serão computadas de acordo com as condições climáticas locais e as características térmicas da estrutura.
 
 ### CAPÍTULO IX — Acção dos sismos
 
-###### Artigo 63.º - Zonas sísmicas
+Artigo 63.º - Zonas sísmicas
 
 Para efeito da definição das solicitações sísmicas, consideram-se os territórios do continente e das ilhas adjacentes divididos em três zonas - A, B e C -, respectivamente de forte, médio e fraco risco sísmico.
 
@@ -1071,15 +1101,15 @@ A delimitação destas zonas para o continente é feita no anexo II; as ilhas do
 
 Para as construções localizadas nas zonas A e B serão consideradas as solicitações sísmicas definidas nos artigos seguintes, sendo dispensada a consideração de solicitações sísmica para as construções localizadas na zona C.
 
-###### Artigo 64.º - Solicitações sísmicas
+Artigo 64.º - Solicitações sísmicas
 
 As solicitações sísmicas serão assimiladas a forças estáticas horizontais actuando em qualquer direcção e sentido. Estas forças, a considerar em correspondência com os diferentes elementos de massa da construção e aplicadas nos respectivos centro de gravidade, terão intensidades iguais ao produto do peso de cada elemento por um coeficiente (coeficiente sísmico) definido no artigo seguinte.
 
-###### Artigo 65.º - Coeficiente sísmico
+Artigo 65.º - Coeficiente sísmico
 
 Os valores mínimos do coeficiente sísmico, a adoptar para o dimensionamento das construções em conjunto e dos diferentes tipos de elementos considerados isoladamente, são os indicados no quadro seguinte, em função dos tipos de construção e de elementos, da localização, e da natureza do terreno de fundação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf))](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
 
 Os valores indicados nas colunas (1) adoptar-se-ão nos casos correntes de terrenos de fundação; os valores das colunas (2) aplicar-se-ão sempre que os terrenos de fundação apresentem características particularmente desfavoráveis do ponto de vista das acções sísmicas, o que se verifica em geral para lodos, argilas brandas, siltes e aterros recentes, desde que seja superior a cerca de uma dezena de metros a espessura das camadas, e mesmo que o sistema de fundação, atravessando estas camadas, vá buscar apoio a outras mais consistentes.
 
@@ -1089,13 +1119,13 @@ As construções em que existe reserva de resistência conferida por elementos n
 
 Quando a construção é pràticamente constituída apenas pelos elementos estruturais, como sucede nas pontes ou em edifícios industriais com grandes espaços livres, ou mesmo em edifícios de habitação quando, num dado andar, não existam paredes de enchimento entre os pilares, não existirá a reserva de resistência acima referida, tomando-se por isso valores mais severos para os coeficientes sísmicos.
 
-###### Artigo 66.º - Acções hidrodinâmicas devidas aos sismos
+Artigo 66.º - Acções hidrodinâmicas devidas aos sismos
 
 Nas construções mergulhadas ou em contacto com grandes massas de água, devem considerar-se as solicitações de choque da água por efeito das acções sísmicas.
 
 ### CAPÍTULO X — Outras solicitações
 
-###### Artigo 67.º - Retracção, fluência e relaxação
+Artigo 67.º - Retracção, fluência e relaxação
 
 Em estruturas sensíveis aos efeitos de retracção, fluência ou relaxação dos materiais, deverão essas solicitações ser devidamente consideradas, de acordo com as características mecânicas dos materiais, a idade, os estados de solicitação, as condições climáticas e ainda com os processos de construção adoptados.
 
@@ -1103,21 +1133,21 @@ Em estruturas sensíveis aos efeitos de retracção, fluência ou relaxação do
 
 Pela sua natureza, estas solicitações não são quantificadas neste regulamento, deixando-se aos regulamentos relativos aos diferentes tipos de estruturas e de materiais a definição dos valores a considerar em cada caso. Poderão, no entanto, no cálculo dos seus efeitos, ser utilizados os valores de módulos de elasticidade definidos no artigo 61.º, desde que respeitadas as reservas nele expressas.
 
-###### Artigo 68.º - Assentamentos dos apoios
+Artigo 68.º - Assentamentos dos apoios
 
 Em estruturas sensíveis a assentamentos dos apoios (reversíveis ou irreversíveis), deverão os seus possíveis efeitos ser tidos em consideração.
 
 Dado que os assentamentos irreversíveis dos apoios são, em geral, de evolução lenta, poderão ser utilizados, no cálculo dos seus efeitos, os valores de módulos de elasticidade definidos no artigo 61.º
 
-###### Artigo 69.º - Impulsos de terras
+Artigo 69.º - Impulsos de terras
 
 No dimensionamento de estruturas sujeitas a impulsos de terras ou outros materiais, deverão tomar-se em consideração estes impulsos, tendo em conta a possível existência de cargas fixas ou móveis sobre os maciços.
 
-###### Artigo 70.º - Pressões hidrostáticas
+Artigo 70.º - Pressões hidrostáticas
 
 No dimensionamento de estruturas sujeitas a pressões hidrostáticas, deverão estas pressões ser tidas em consideração, nomeadamente no caso de estruturas enterradas e situadas parcial ou totalmente abaixo do nível freático.
 
-###### Artigo 71.º - Pressões hidrodinâmicas
+Artigo 71.º - Pressões hidrodinâmicas
 
 No dimensionamento de estruturas sujeitas à acção de água em movimento, deverão ser consideradas as acções dinâmicas que se produzam, devido ao movimento do próprio líquido ou a choques de corpos que nele se desloquem.
 
@@ -1145,15 +1175,15 @@ Nas alíneas seguintes apresentam-se, para os tipos de edifícios esquematizados
 
 a) Edifícios com cobertura de duas vertentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf))](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
 
 b) Edifícios com cobertura cilíndrica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf))](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
 
 c) Edifícios com cobertura de múltiplas vertentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf))](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
 
 2 - Acção localizada do vento sobre elementos da construção
 
@@ -1171,11 +1201,11 @@ Indicam-se seguidamente os coeficientes de forma a adoptar para o cálculo das a
 
 a) Coberturas de uma vertente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf))](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
 
 b) Coberturas de duas vertentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf))](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
 
 C) Chaminés. Reservatórios
 
@@ -1183,7 +1213,7 @@ A superfície a considerar para o cálculo da acção do vento sobre construçõ
 
 Os coeficientes de forma que definem as pressões são os indicados no quadro seguinte, em função da forma da secção e da rugosidade da superfície:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf))](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
 
 Considera-se «superfície pouco rugosa» aquela em que as saliências não ultrapassam 2 por cento da maior dimensão da secção transversal; e «superfície rugosa» aquela em que a saliências estão compreendidas entre 2 e 8 por cento desta dimensão.
 
@@ -1193,7 +1223,7 @@ D) Superfícies com vazios. Estruturas reticuladas
 
 As pressões, aplicadas às superfícies cheias definidas pelos contornos dos elementos da estrutura, serão calculadas por meio do coeficiente de forma c, indicado no quadro seguinte em função da relação (fi) entre a superfície cheia e a superfície total (incluindo os vazios):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf))](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
 
 Para valores de (fi) compreendidos entre 0 e 0,3 ou 0,9 e 1, interpolar-se-á linearmente.
 
@@ -1405,7 +1435,7 @@ Relação das localidades indicadas numèricamente no mapa de delimitação das 
 
 98 - Santa Catarina da Fonte do Bispo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf))](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/26800/14071427.pdf)
 
 BIBLIOGRAFIA
 

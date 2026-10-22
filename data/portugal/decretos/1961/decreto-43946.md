@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43946-1961-183249
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-10-03T00:00:00Z'
+  retrieved_at: '2026-10-22T19:25:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eedda50563ce78a5ca1e3e4883dafb9701042e2cf85d5908a6ae4e278f9cd66a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49888cc6dd85a7f57eaf8b9eb28d3ded0aa101440316e027adadf5192ddfea66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:25:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:238047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635193:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:25:54Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +100,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É criado na província da Guiné o serviço de aeronáutica civil, que se regerá pelas disposições do [Decreto-Lei n.º 39645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39645-1954-635193), de 11 de Maio de 1954.
+Artigo 1.º É criado na província da Guiné o serviço de aeronáutica civil, que se regerá pelas disposições do [Decreto-Lei n.º 39645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39645-1954-635193), de 11 de Maio de 1954.
 
-###### Art. 2.º Quando as conveniências da coordenação do serviço o justifiquem poderá, a título transitório, o cargo de director do serviço de aeronáutica civil ser desempenhado em regime de acumulação por um oficial de aeronáutica em serviço na província.
+Art. 2.º Quando as conveniências da coordenação do serviço o justifiquem poderá, a título transitório, o cargo de director do serviço de aeronáutica civil ser desempenhado em regime de acumulação por um oficial de aeronáutica em serviço na província.
 
 § 1.º A nomeação será feita pelo Ministro do Ultramar, obtida que seja a prévia concordância do Secretário de Estado da Aeronáutica.
 
@@ -102,11 +110,11 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § 3.º Pelo exercício de acumulação será fixada pelo governador uma gratificação mensal, não podendo, todavia, o total dos vencimentos ser superior a 95 por cento do vencimento do lugar imediatamente superior de hierarquia civil.
 
-###### Art. 3.º Os quadros, vencimentos e gratificações do pessoal do serviço de aeronáutica civil serão estabelecidos pelo Governo da província, ouvido o director-geral da Aeronáutica Civil, devendo os respectivos lugares ser preenchidos na medida das necessidades do serviço, conforme for anualmente orçamentado.
+Art. 3.º Os quadros, vencimentos e gratificações do pessoal do serviço de aeronáutica civil serão estabelecidos pelo Governo da província, ouvido o director-geral da Aeronáutica Civil, devendo os respectivos lugares ser preenchidos na medida das necessidades do serviço, conforme for anualmente orçamentado.
 
-###### Art. 4.º O Governo da província procederá à abertura dos créditos necessários para fazer face ao aumento da despesa resultante da execução deste diploma, com contrapartida em recursos orçamentais.
+Art. 4.º O Governo da província procederá à abertura dos créditos necessários para fazer face ao aumento da despesa resultante da execução deste diploma, com contrapartida em recursos orçamentais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 3 de Outubro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

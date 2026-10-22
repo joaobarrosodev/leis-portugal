@@ -47,25 +47,31 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/153/2026/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2026-1153698587
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:48:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b7b8eb89a0ee8f9ed728cf749a382014a1a264a5cab36164d803e40b3411634
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8def0022d2e7d1c4bcc5787ca6568b4a5caf9eb1c30861288ab5b984d5cd1d33
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:48:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Coima
+- Contraordenação
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Embarcação
+- OMI
+- Segurança Marítima
 relationships:
 - type: cites
   target: celex:32025R2196
@@ -75,16 +81,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/295/1994/11/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/295/1994/11/16/p/dre
+- type: cites
+  target: pt:dre:534474:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:48:33Z'
   warnings: []
   errors: []
 ---
@@ -199,7 +209,7 @@ e) Do documento único da pesca, no caso das embarcações a que se refere a al�
 
 ###### Artigo 8.º — Contraordenações
 
-1 - Constitui contraordenação punível com coima cujo montante mínimo é de 50,00 € e máximo de 250,00 €, ou de 100,00 € e de 500,00 €, consoante o agente seja uma pessoa singular ou coletiva, a não observância do dever de comunicação à DGRM, nos termos dos n.<sup>os</sup>2 e 3 do artigo 4.º
+1 - Constitui contraordenação punível com coima cujo montante mínimo é de 50,00 € e máximo de 250,00 €, ou de 100,00 € e de 500,00 €, consoante o agente seja uma pessoa singular ou coletiva, a não observância do dever de comunicação à DGRM, nos termos dos n.os2 e 3 do artigo 4.º
 
 2 - Constitui contraordenação punível com coima cujo montante mínimo é de 250,00 € e máximo de 750,00 €, ou de 500,00 € e de 1500,00 €, consoante o agente seja uma pessoa singular ou coletiva:
 
@@ -241,12 +251,14 @@ O presente decreto-lei entra em vigor 60 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de junho de 2026. - Luís Montenegro - José Maria Gonçalves Pereira Brandão de Brito - Nuno Melo - Paulo Jorge Simões Ribeiro - José Manuel Fernandes.
 
-**Promulgado em 15 de julho de 2026.**
+Promulgado em 15 de julho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 16 de julho de 2026.**
+Referendado em 16 de julho de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119949199

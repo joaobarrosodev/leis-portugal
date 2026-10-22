@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/144/2026/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2026-1148792656
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-17T00:00:00Z'
+  retrieved_at: '2026-10-22T18:46:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e081ca10dbc7a8d6794d794a0be535b4c211a4c6f6eb0211c75e84fcbbd7de91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b40f3b54f5548210fb388e1271328a41e008618682b470e0586f8e67e25aa75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:46:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
 - CAE
 - Carne
+- Comércio
+- Contra-ordenação
+- Controlo Sanitário
+- Direção Geral de Alimentação e Veterinária
+- Exploração Pecuária
 - Multa
 - Ordenamento do Território
-- Contra-ordenação
-- Direção Geral de Alimentação e Veterinária
-- Controlo Sanitário
-- Exploração Pecuária
-- Proteção do Ambiente
+- Pecuária
+- Produção Animal
 - Produtor
+- Proteção do Ambiente
 - Regime Jurídico
 - Registo de Animais
-- Pecuária
-- Taxa
-- Comércio
 - Saúde Animal
+- Taxa
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:81/2013
+  label: Altera, a partir de 22 de julho de 2026, os artigos 2.º, 3.º, 4.º, 5.º, 29.º, 38.º e altera o anexo iv do Decreto-Lei
+    n.º 81/2013, de 14 de junho, Diário da República n.º 113/2013, Série
+  source: null
+  date: '2013-06-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/165/2014/11/05/p/dre
   label: null
@@ -103,16 +109,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/9/2021/01/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/9/2021/01/29/p/dre
+- type: cites
+  target: pt:dre:118748847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58752835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67250270:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:46:53Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +159,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto-lei procede à quinta alteração ao [Decreto-Lei n.º 81/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2013-496729), de 14 de junho, alterado pelos Decretos-Leis n.<sup>os</sup>[165/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2014-58752835), de 5 de novembro, [85/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2015-67250270), de 21 de maio, [20/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), de 30 de janeiro, e [9/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), de 29 de janeiro, que aprova o novo regime do exercício da atividade pecuária.
+O presente decreto-lei procede à quinta alteração ao [Decreto-Lei n.º 81/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2013-496729), de 14 de junho, alterado pelos Decretos-Leis n.os[165/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2014-58752835), de 5 de novembro, [85/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2015-67250270), de 21 de maio, [20/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), de 30 de janeiro, e [9/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), de 29 de janeiro, que aprova o novo regime do exercício da atividade pecuária.
 
 ###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 81/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2013-496729), de 14 de junho
 
@@ -213,7 +239,9 @@ gg) [Anterior alínea ff).]
 
 hh) [Anterior alínea gg).]
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Para efeitos de controlo prévio, as atividades pecuárias são classificadas em três classes, nos termos do anexo i ao presente decreto-lei, que dele faz parte integrante, tendo em conta a capacidade instalada, expressa em CN, sem prejuízo do disposto no n.º 7.
 
@@ -229,7 +257,9 @@ hh) [Anterior alínea gg).]
 
 7 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A capacidade instalada de cada núcleo de produção, exploração pecuária, bem como do entreposto ou centro de agrupamento, é expressa em CN, cujo valor é determinado com base no efetivo autorizado nos termos do plano de produção validado pela DGAV, de acordo com o critério de equivalência constante no anexo ii.
 
@@ -237,13 +267,17 @@ hh) [Anterior alínea gg).]
 
 3 - [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A detenção caseira de animais apenas é considerada quando a capacidade instalada da exploração não exceda 3 CN, não podendo, em qualquer caso, ser excedido o limite de 2 CN por espécie pecuária.
 
 2 - [...]
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...]
 
@@ -255,7 +289,9 @@ b) [...]
 
 c) [...]
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - [...]
 
@@ -285,15 +321,15 @@ O anexo iv ao [Decreto-Lei n.º 81/2013](https://diariodarepublica.pt/dr/detalhe
 
 Visto e aprovado em Conselho de Ministros de 30 de abril de 2026. - Luís Montenegro - Manuel Castro Almeida - Maria da Graça Carvalho - Rui Miguel Ladeira Pereira.
 
-**Promulgado em 7 de julho de 2026.**
+Promulgado em 7 de julho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 9 de julho de 2026.**
+Referendado em 9 de julho de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -332,3 +368,5 @@ QUADRO I
 QUADRO II
 
 [...]
+
+119949047

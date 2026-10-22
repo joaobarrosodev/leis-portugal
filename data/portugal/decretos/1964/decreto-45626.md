@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45626-1964-470606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-03-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:39:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28c533f49aceb90d148ca947b8d256cf859c8ccfa7275d8ee233804ccc6f07a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 008e70cfd218a440d175128477582838d1ab823b43ed6015d67d51572e8cff71
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:39:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:39:59Z'
   warnings: []
   errors: []
 ---
@@ -96,12 +96,12 @@ Atendendo a que o parecer do Conselho Técnico dos Serviços Florestais lhe é f
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É excluída do regime florestal parcial a que fora submetida por decreto de 27 de Julho de 1917 e restituída à administração da Câmara Municipal de Mira, a fim de ser alienada a favor da Comissão Administrativa das Obras da Cidade Universitária de Coimbra, uma parcela de baldios municipais pertencentes ao perímetro florestal das dunas de Mira, com a área de 24650 m2.
+Artigo 1.º É excluída do regime florestal parcial a que fora submetida por decreto de 27 de Julho de 1917 e restituída à administração da Câmara Municipal de Mira, a fim de ser alienada a favor da Comissão Administrativa das Obras da Cidade Universitária de Coimbra, uma parcela de baldios municipais pertencentes ao perímetro florestal das dunas de Mira, com a área de 24650 m2.
 
-###### Art. 2.º Não poderá ser abatido qualquer arvoredo existente nesta parcela sem prévio acordo da Direcção-Geral dos Serviços Florestais e Aquícolas, que para o efeito elaborará um auto de marca de corte extraordinário.
+Art. 2.º Não poderá ser abatido qualquer arvoredo existente nesta parcela sem prévio acordo da Direcção-Geral dos Serviços Florestais e Aquícolas, que para o efeito elaborará um auto de marca de corte extraordinário.
 
-###### Art. 3.º Todo o arvoredo que for necessário abater é entregue à Direcção-Geral dos Serviços Florestais e Aquícolas, que lhe dará o destino mais conveniente.
+Art. 3.º Todo o arvoredo que for necessário abater é entregue à Direcção-Geral dos Serviços Florestais e Aquícolas, que lhe dará o destino mais conveniente.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Março de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Luís Le Cocq de Albuquerque de Azevedo Coutinho.

@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 278/2001, 3º Suplemento, Série I-A de 2001-11-30
   number: '278'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 7666-(10) a 7666-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/11/278a03/00100010.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/20-ap/2001/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-ap-2001-203230
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-12T00:00:00Z'
+  retrieved_at: '2026-10-22T18:58:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d4bb26a9ab2f7caae13b57e638c9546bcfaaca64fae022f0e2b4c0d85787334
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f51c5303605299610231a55b6038dab9186b1c804f78bc8e0d471b8e44ea6c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:58:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,28 +70,42 @@ subjects:
 - Contra-ordenação
 - Fiscalização
 - Licenciamento
-- Proteção do Ambiente
 - Pedreiras
+- Proteção do Ambiente
 - Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:641403:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:641403:por
+  label: "Alterados os arts. 2.º, 3.º, 4.º, 5.º, 7.º, 9.º, 10.º, 11.º, 13.º, 18.º, 20.º, 21.º, 22.º, 23.º, 25.º, 26.º, 27.º,\
+    \ 28.º, 29.º, 30.º, 31.º, 32.º, 33.º, 34.º, 35.º, 36.º, 37.º, 38.º, 39.º, 40.º, 41.º, 42.º, 43.º, 44.º, 45.º, 46.º, 47.º,\
+    \ 48.º, 49.º, 50.º, 51.º, 52.º, 54.º, 56.º, 57.º, 58.º, 59.º, 60.º, 61.º, 62.º, 63.º, 64.º, 65.º, 66.º e 67.º e os anexos\
+    \ i, ii, iii, iv e vi, aditados os art. 10.º-A, 61.º-A e 67.º-A e o anexo vii e revogados o n.º 3 do art. 27.º, a al.\
+    \ e) do n.º 1 do art. 40.º e o n.º 4 do art. 61.º do Decreto-Lei n.º 270/2001, de 6 de Outubro, rectificado pelo presente\
+    \ diploma, pelo DEC LEI.340/2007.12.10.2007.MEI, DR.IS [197] de 12.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/340-2007-641403
+  date: '2007-10-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/270/2001/10/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/270/2001/10/06/p/dre
+- type: cites
+  target: pt:dre:621169:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:58:28Z'
   warnings: []
   errors: []
 ---

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/149/2026/07/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2026-1151816543
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-24T00:00:00Z'
+  retrieved_at: '2026-10-22T18:47:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70dcb1e0a72e60f0dd2130d9dc2eee51965056c5bc6de21679fefa0099e2c32a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e22d07c8155c6e651f790c1d3abb425070a6aa0c65cb457769d3d6e7745cb68a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:47:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
+- ACES
+- Agência Portuguesa do Ambiente
 - Água
 - ÁGUA Potável
 - Análise Laboratorial
 - Aproximação das Legislações
-- Saneamento Básico
-- Sistema Português da Qualidade
-- Controlo de Qualidade
-- Recursos Hídricos
-- Delegado de Saúde
-- Saúde Pública
-- Fiscalização
 - ASAE
-- Entidade Reguladora dos Serviços das Águas e dos Resíduos
-- Poluição da água
-- Abastecimento de Água
-- Tratamento de ÁGUA
 - Autarquia Local
-- ACES
+- Controlo de Qualidade
+- Delegado de Saúde
+- Entidade Reguladora dos Serviços das Águas e dos Resíduos
+- Fiscalização
+- Poluição da água
+- Recursos Hídricos
+- Saneamento Básico
+- Saúde Pública
+- Sistema Português da Qualidade
+- Tratamento de ÁGUA
 - Unidade Local de Saúde
-- Agência Portuguesa do Ambiente
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:69/2023
+  label: Altera, a partir de 25 de julho de 2026, os artigos 3.º, 5.º, 12.º, 13.º, 14.º, 16.º, 17.º, 20.º, 21.º, 22.º, 23.º,
+    27.º, 28.º, 31.º, 33.º, 40.º, 43.º, o anexo II e revoga a alínea x) do n.º 2 do artigo 43.º do Decreto-Lei n.º 69/2023,
+    de 21 de agosto, Diário da República n.º 161/2023, Série I
+  source: null
+  date: '2023-08-21'
 - type: cites
   target: celex:32013L0051
   label: null
@@ -103,20 +110,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/69/2023/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/69/2023/08/21/p/dre
+- type: cites
+  target: pt:dre:220113533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640931:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32020L2184
   label: null
   source: null
 article_structure:
-  article_count: 21
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:47:38Z'
   warnings: []
   errors: []
 ---
@@ -219,7 +234,9 @@ ee) [Anterior alínea dd).]
 
 ff) [Anterior alínea ee).]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -237,7 +254,9 @@ c) [...]
 
 d) [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -289,7 +308,9 @@ b) Com base nas especificações estabelecidas na parte D do anexo II ao present
 
 12 - Para efeitos do disposto no número anterior, devem ser verificados os registos previstos no n.º 10, podendo a ERSAR ou a ASAE, consoante os casos, determinar, em situações devidamente justificadas, a revisão da avaliação do risco e revogar a supressão de parâmetros, a redução de frequência de amostragem ou definir controlos suplementares.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -305,7 +326,9 @@ b) Com base nas especificações estabelecidas na parte D do anexo II ao present
 
 7 - [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -331,7 +354,9 @@ b) A monitorização realizada com base nos parâmetros constantes do quadro n.�
 
 10 - [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -347,7 +372,9 @@ b) A monitorização realizada com base nos parâmetros constantes do quadro n.�
 
 7 - As entidades gestoras que monitorizam a água nas bacias de drenagem dos pontos de captação ou na água bruta comunicam anualmente, até 31 de março, no portal da ERSAR e no formato por esta solicitado, os dados que permitam avaliar as tendências e os casos de concentrações pouco habituais de parâmetros, substâncias ou poluentes monitorizados e comunicam anualmente à APA, I. P., os resultados obtidos nos programas de monitorização da água bruta.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - A verificação da conformidade da qualidade da água realiza-se de acordo com o disposto no PCQA, o qual tem em conta o disposto no presente artigo, no artigo 6.º, no n.º 5 do artigo 11.º, nos artigos 12.º, 13.º, 18.º, 19.º, no n.º 1 do artigo 36.º e nos anexos I, II, III e IV ao presente decreto-lei.
 
@@ -361,7 +388,9 @@ b) A monitorização realizada com base nos parâmetros constantes do quadro n.�
 
 6 - [...]
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - As entidades gestoras de sistemas de abastecimento público ou particular devem dispor, no início de cada ano civil, de um PCQA, que deve ser elaborado nos termos definidos no n.º 1 do artigo 17.º
 
@@ -379,7 +408,9 @@ b) A monitorização realizada com base nos parâmetros constantes do quadro n.�
 
 8 - O PCQA referido no n.º 1 é suportado pela avaliação do risco a efetuar pela entidade gestora, nos termos do disposto nos artigos 12.º e 13.º e na parte D do anexo II ao presente decreto-lei.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - As entidades gestoras dos sistemas de abastecimento público de água implementam integralmente o PCQA aprovado pela ERSAR.
 
@@ -393,7 +424,9 @@ b) A monitorização realizada com base nos parâmetros constantes do quadro n.�
 
 6 - As alterações ao PCQA aprovado, a que se refere o n.º 2, são comunicadas através do Módulo da Qualidade da Água do Portal ERSAR ou, no caso de este se encontrar temporariamente indisponível, por meio alternativo, nomeadamente correio eletrónico, de modo a garantir o cumprimento do prazo aí referido.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...]
 
@@ -409,7 +442,9 @@ b) A monitorização realizada com base nos parâmetros constantes do quadro n.�
 
 7 - As autoridades de saúde devem utilizar o Módulo da Qualidade da Água do Portal ERSAR para a emissão de pareceres relativos às situações de incumprimento dos valores paramétricos ocorridos nos sistemas de abastecimento público de água ou, no caso de este se encontrar temporariamente indisponível, por meio alternativo, nomeadamente correio eletrónico, de modo a garantir o cumprimento dos prazos decorrentes dos números anteriores.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]
 
@@ -433,7 +468,9 @@ b) A monitorização realizada com base nos parâmetros constantes do quadro n.�
 
 11 - Sem prejuízo do disposto no número anterior, as entidades gestoras dos sistemas de abastecimento público de água em alta devem, ainda, informar as respetivas entidades gestoras dos sistemas de abastecimento público de água em baixa até ao quinto dia útil seguinte ao conhecimento do resultado conforme.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - [...]
 
@@ -459,7 +496,9 @@ b) A monitorização realizada com base nos parâmetros constantes do quadro n.�
 
 12 - [Anterior n.º 11.]
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...]
 
@@ -473,7 +512,9 @@ b) A monitorização realizada com base nos parâmetros constantes do quadro n.�
 
 6 - O prazo referido no número anterior é suspenso durante o prazo concedido aos interessados para a realização de audiência prévia.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...]
 
@@ -485,7 +526,9 @@ b) A monitorização realizada com base nos parâmetros constantes do quadro n.�
 
 5 - Caso os fontanários referidos no n.º 1 não reúnam condições para ser origem de água para consumo humano, as entidades gestoras devem providenciar uma alternativa de fornecimento de água, em quantidade e qualidade e a uma distância não superior a 200 metros do fontanário em questão.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - [...]
 
@@ -501,7 +544,9 @@ b) A monitorização realizada com base nos parâmetros constantes do quadro n.�
 
 7 - [Anterior n.º 6.]
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - À água fornecida por navios de mar que dessalinizam a água, transportam passageiros e atuam como entidades gestoras de água aplicam-se as disposições do presente decreto-lei a que estão sujeitas as entidades gestoras, com exceção do disposto nos artigos 10.º, 11.º, 13.º, 19.º e 21.º
 
@@ -509,7 +554,9 @@ b) A monitorização realizada com base nos parâmetros constantes do quadro n.�
 
 3 - [...]
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - [...]
 
@@ -681,15 +728,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de maio de 2026. - Luís Montenegro - Inês Carmelo Rosa Calado Lopes Domingos - Hélder Manuel Gomes dos Reis - Ana Paula Martins - Maria da Graça Carvalho.
 
-**Promulgado em 9 de julho de 2026.**
+Promulgado em 9 de julho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 13 de julho de 2026.**
+Referendado em 13 de julho de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -697,9 +744,13 @@ Visto e aprovado em Conselho de Ministros de 29 de maio de 2026. - Luís Montene
 
 [...]
 
-# PARTE A — [...]
+PARTE A
 
-# PARTE B — [...]
+[...]
+
+PARTE B
+
+[...]
 
 1 - [...]
 
@@ -709,21 +760,29 @@ Quadro 1
 
 [...]
 
-| Volume de água distribuída ou produzida diariamente (ver notas 1 e 2) m<sup>3</sup> | Volume de água distribuída ou produzida diariamente (ver notas 1 e 2) m<sup>3</sup> | Parâmetros do controlo de rotina 1 (número de amostras anual) | Parâmetros do controlo de rotina 2 (número de amostras anual) | Parâmetros do controlo de inspeção (número de amostras anual) |
+| Volume de água distribuída ou produzida diariamente (ver notas 1 e 2) m3 | Parâmetros do controlo de rotina 1 (número de amostras anual) | Parâmetros do controlo de rotina 2 (número de amostras anual) | Parâmetros do controlo de inspeção (número de amostras anual) |  |
 | --- | --- | --- | --- | --- |
 |  | <10 | [...] | [...] | [...] |
 | ≥ 10 | ≤ 100 | [...] | [...] | [...] |
 | >100 | ≤ 1 000 | 12 | [...] | [...] |
-| > 1 000 | ≤ 10 000 | 12 para os primeiros 1 000 m<sup>3</sup>/dia + 6 por cada 1 000 m<sup>3</sup>/dia adicionais e fração remanescente para o volume total (ver nota 3) | [...] | [...] |
-| > 10 000 | ≤ 100 000 | 12 para os primeiros 1 000 m<sup>3</sup>/dia + 6 por cada 1 000 m<sup>3</sup>/dia adicionais e fração remanescente para o volume total (ver nota 3) | [...] | [...] |
-| > 100 000 |  | 12 para os primeiros 1 000 m<sup>3</sup>/dia + 6 por cada 1 000 m<sup>3</sup>/dia adicionais e fração remanescente para o volume total (ver nota 3) | [...] | [...] |
+| > 1 000 | ≤ 10 000 | 12 para os primeiros 1 000 m3/dia + 6 por cada 1 000 m3/dia adicionais e fração remanescente para o volume total (ver nota 3) | [...] | [...] |
+| > 10 000 | ≤ 100 000 | [...] |  |  |
+| > 100 000 |  | [...] |  |  |
 
 [...]
 
-# PARTE C — [...]
+PARTE C
 
-# PARTE D — [...]
+[...]
 
-# PARTE E
+PARTE D
+
+[...]
+
+PARTE E
 
 [...]»
+
+119949064
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { min-height:34px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:18px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; }

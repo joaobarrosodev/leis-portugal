@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/350-a/2026/08/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2026-1160416973
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-19T00:00:00Z'
+  retrieved_at: '2026-10-22T18:51:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd29c526cc870c0268aaefd6304c81ec17af46c29532ededb67ab53a54ec8ef7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25ecdca391909d627c3ab7844a221fef40f917494119a0d6d8124606ae053bc3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:51:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vida Selvagem
+- Espécie Protegida
+- Instituto da Conservação da Natureza e das Florestas
 - Ordenamento do Território
+- Proteção do Ambiente
 - Proteção dos Animais
 - Regulamentação de Atos Legislativos
 - RIO TEJO
-- Instituto da Conservação da Natureza e das Florestas
-- Proteção do Ambiente
-- Espécie Protegida
+- Vida Selvagem
 - Zona de Proteção
 - ZONA de Protecção Especial do Estuario do TEJO
 - Zona Especial de Conservação
@@ -118,16 +118,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
+- type: cites
+  target: pt:dre:1153698588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130273578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1847583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:51:10Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +184,7 @@ validation:
 
 de 19 de agosto
 
-O [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, procedeu à designação como Zona Especial de Conservação (ZEC) do Sítio de Importância Comunitária (SIC) Estuário do Tejo (PTCON0009), identificando a respetiva área e coordenadas geográficas, assim como a sua localização e limites geográficos. O referido diploma determinou, ainda, que as medidas e ações complementares de conservação de habitats e espécies são definidas em planos de gestão, a aprovar por portaria nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.<sup>os</sup>[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro.
+O [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, procedeu à designação como Zona Especial de Conservação (ZEC) do Sítio de Importância Comunitária (SIC) Estuário do Tejo (PTCON0009), identificando a respetiva área e coordenadas geográficas, assim como a sua localização e limites geográficos. O referido diploma determinou, ainda, que as medidas e ações complementares de conservação de habitats e espécies são definidas em planos de gestão, a aprovar por portaria nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.os[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro.
 
 Paralelamente, o [Decreto-Lei n.º 280/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1994-535379), de 5 de novembro, procedeu à criação da Zona de Proteção Especial (ZPE) Estuário do Tejo (PTZPE0010), vindo, na sequência, a [Portaria n.º 670-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/670-a-1999-1847583) (2.ª série), de 30 de junho, a aprovar o plano de gestão da ZPE Estuário do Tejo, cuja área, nos termos do artigo 5.º e anexos ii e iii do [Decreto-Lei n.º 51/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1995-166201), de 20 de março, e do artigo único e anexos i e ii do [Decreto-Lei n.º 46/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1997-507419), de 24 de fevereiro, repristinados pelo artigo 1.º do [Decreto-Lei n.º 190/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2002-627263), de 5 de setembro, e excluindo as áreas a que se refere o n.º 3 do artigo 2.º do [Decreto-Lei n.º 280/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1994-535379), de 5 de novembro, na sua redação atual, se sobrepõe parcialmente à da ZEC Estuário do Tejo.
 
@@ -146,7 +194,7 @@ Com vista à prossecução dos objetivos fixados, o referido decreto-lei definiu
 
 Neste contexto, cumpre agora aprovar o plano de gestão da ZEC Estuário Tejo e da ZPE Estuário do Tejo, revogando, em decorrência, a [Portaria n.º 670-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/670-a-1999-1847583) (2.ª série), de 30 de junho, numa abordagem integrada que dê resposta às exigências ecológicas específicas da ZEC e da ZPE. O plano de gestão da ZEC Estuário Tejo e da ZPE Estuário do Tejo procede à identificação dos tipos de habitat naturais e seminaturais e das espécies da flora e fauna selvagens com presença significativa nas suas áreas e que justificaram o seu reconhecimento como SIC pela Comissão Europeia e a sua subsequente classificação como ZEC, incluindo as tendências populacionais favoráveis das espécies de aves com ocorrência regular na ZPE, bem como adotando um conjunto de medidas e ações de conservação complementares, designadamente medidas de gestão ativa e de suporte, conforme o disposto no artigo 13.º do [Decreto-Lei n.º 154/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2026-1153698588), de 31 de julho, tendo também por função estabelecer as prioridades de conservação das zonas, identificando as espécies e os tipos de habitat protegidos com presença significativa na ZEC e na ZPE em relação aos quais se impõem medidas mais urgentes.
 
-Assim, ao abrigo do disposto na alínea a) do n.º 3 do artigo 7.º e nos n.<sup>os</sup>1 e 2 do artigo 7.º-B do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, na sua redação atual, no artigo 5.º do [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, e no artigo 13.º do [Decreto-Lei n.º 154/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2026-1153698588), de 31 de julho, em conjugação com os artigos 15.º, 19.º, 25.º e 27.º do [Decreto-Lei n.º 87-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2025-926483751), de 25 de julho, na sua redação atual, que aprova o regime de organização e funcionamento do XXV Governo Constitucional, manda o Governo, pelo Ministro da Economia e da Coesão Territorial, pelo Ministro das Infraestruturas e Habitação, pela Ministra do Ambiente e Energia e pelo Ministro da Agricultura e Mar, o seguinte:
+Assim, ao abrigo do disposto na alínea a) do n.º 3 do artigo 7.º e nos n.os1 e 2 do artigo 7.º-B do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, na sua redação atual, no artigo 5.º do [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, e no artigo 13.º do [Decreto-Lei n.º 154/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2026-1153698588), de 31 de julho, em conjugação com os artigos 15.º, 19.º, 25.º e 27.º do [Decreto-Lei n.º 87-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2025-926483751), de 25 de julho, na sua redação atual, que aprova o regime de organização e funcionamento do XXV Governo Constitucional, manda o Governo, pelo Ministro da Economia e da Coesão Territorial, pelo Ministro das Infraestruturas e Habitação, pela Ministra do Ambiente e Energia e pelo Ministro da Agricultura e Mar, o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -166,7 +214,7 @@ A presente portaria aprova o plano de gestão da Zona Especial de Conservação 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida, em 4 de agosto de 2026. - O Ministro das Infraestruturas e Habitação, Miguel Martinez de Castro Pinto Luz, em 10 de agosto de 2026. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 19 de agosto de 2026. - O Ministro da Agricultura e Mar, José Manuel Fernandes, em 18 de agosto de 2026.**
+O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida, em 4 de agosto de 2026. - O Ministro das Infraestruturas e Habitação, Miguel Martinez de Castro Pinto Luz, em 10 de agosto de 2026. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 19 de agosto de 2026. - O Ministro da Agricultura e Mar, José Manuel Fernandes, em 18 de agosto de 2026.
 
 ## ANEXO I — (a que se refere o artigo 1.º)
 
@@ -174,7 +222,8 @@ Plano de gestão das ZEC Estuário do Tejo (PTCON0009) e ZPE Estuário do Tejo (
 
 Localização
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472378.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472378.png) |
+| --- |
 
 (fonte: CAOP 2023 – DGT)
 
@@ -184,7 +233,7 @@ A ZEC Estuário do Tejo e a ZPE Estuário do Tejo, com uma área total conjunta 
 
 Quadro 1 - Unidades territoriais abrangidas pelas ZEC Estuário do Tejo e ZPE Estuário do Tejo
 
-| Unidade territorial (UT) | Área das ZEC/ZPE na UT (ha) | Proporção da UT ocupada pela área das ZEC/ZPE | Proporção da área terrestre das ZEC/ZPE na UT |
+| **Unidade territorial (UT)** | **Área das ZEC/ZPE na UT (ha)** | **Proporção da UT ocupada pela área das ZEC/ZPE** | **Proporção da área terrestre das ZEC/ZPE na UT** |
 | --- | --- | --- | --- |
 | Benavente | 16 071 | 31 % | 43,6 % |
 | Vila Franca de Xira | 13 131 | 41 % | 35,6 % |
@@ -194,7 +243,7 @@ Quadro 1 - Unidades territoriais abrangidas pelas ZEC Estuário do Tejo e ZPE Es
 | Montijo | 100 | 0,3 % | 0,3 % |
 | Lisboa | 22 | 0,2 % | 0,1 % |
 | Palmela | 7 | 0,02 % | 0,02 % |
-| Total | 36 847 | – | 100 % |
+| **Total** | **36 847** | **–** | **100 %** |
 
 (fonte: CAOP 2023 – DGT)
 
@@ -218,54 +267,54 @@ A ZEC Estuário do Tejo assume, contudo, especial relevância para a conservaç�
 
 Quadro 2 - Tipos de habitat do anexo i da Diretiva Habitats com presença significativa na ZEC
 
-| Código | Habitat |
+| **Código** | **Habitat** |
 | --- | --- |
-| 1110 | #Bancos de areia permanentemente cobertos por água do mar pouco profunda |
-| 1130 | #Estuários |
-| 1140 | #Lodaçais e areais a descoberto na maré baixa |
-| 1150 | #Lagunas costeiras |
-| 1210 | #Vegetação anual das zonas de acumulação de detritos pela maré |
-| 1310 | #Vegetação pioneira de Salicornia e outras espécies anuais das zonas lodosas e arenosas |
-| 1320 | #Prados de Spartina (Spartinion maritimae) |
-| 1410 | #Prados salgados mediterrânicos (Juncetalia maritimi) |
-| 1420 | #Matos halófilos mediterrânicos e termoatlânticos (Salicornietea fruticosae) |
-| 1430 | #Matos halonitrófilos (Pegano-Salsoletea) |
-| 1510 | #Estepes salgadas mediterrânicas (Limonietalia) |
-| 2130 | #Dunas fixas com vegetação herbácea («dunas cinzentas») |
-| 2150 | #Dunas fixas descalcificadas atlânticas (Calluno-Ulicetea) |
+| **1110** | **#Bancos de areia permanentemente cobertos por água do mar pouco profunda** |
+| **1130** | **#Estuários** |
+| **1140** | **#Lodaçais****e****areais****a****descoberto na maré baixa** |
+| **1150** | **#Lagunas costeiras** |
+| **1210** | **#Vegetação anual das zonas de acumulação de detritos pela maré** |
+| **1310** | **#Vegetação pioneira de****Salicornia****e****outras espécies anuais das zonas lodosas****e****arenosas** |
+| **1320** | **#Prados de****Spartina****(****Spartinion maritimae****)** |
+| **1410** | **#Prados salgados mediterrânicos (****Juncetalia maritimi****)** |
+| **1420** | **#Matos halófilos mediterrânicos****e****termoatlânticos****(Salicornietea fruticosae****)** |
+| **1430** | **#Matos halonitrófilos (****Pegano-Salsoletea****)** |
+| **1510** | **#Estepes salgadas mediterrânicas****(Limonietalia****)** |
+| **2130** | **#Dunas fixas com vegetação herbácea («dunas cinzentas»)** |
+| **2150** | **#Dunas fixas descalcificadas atlânticas (****Calluno-Ulicetea****)** |
 | 2230 | Dunas com prados da Malcolmietalia |
-| 2250 | #Dunas litorais com Juniperus spp. |
-| 2260 | #Dunas com vegetação esclerófila da Cisto-Lavenduletalia |
-| 2270 | #Dunas com florestas de Pinus pinea e ou Pinus pinaster |
+| **2250** | **#Dunas litorais com****Juniperus****spp.** |
+| **2260** | **#Dunas com vegetação esclerófila da****Cisto-Lavenduletalia** |
+| **2270** | **#Dunas com florestas de****Pinus pinea****e****ou****Pinus pinaster** |
 | 2330 | Dunas interiores com prados abertos de Corynephorus e Agrostis |
-| 3110 | #Águas oligotróficas muito pouco mineralizadas das planícies arenosas (Littorelletalia uniflorae) |
-| 3120 | #Águas oligotróficas muito pouco mineralizadas em solos geralmente arenosos do oeste mediterrânico com Isoëtes spp. |
-| 3130 | #Águas estagnadas, oligotróficas a mesotróficas, com vegetação da Littorelletea uniflorae e/ou da Isoëto-Nanojuncetea |
-| 3140 | #Águas oligomesotróficas calcárias com vegetação bêntica de Chara spp. |
-| 3150 | #Lagos eutróficos naturais com vegetação da Magnopotamion ou da Hydrocharition |
-| 3160 | #Lagos e charcos distróficos naturais |
-| 3170 | #Charcos temporários mediterrânicos |
+| **3110** | **#Águas oligotróficas muito pouco mineralizadas das planícies arenosas (****Littorelletalia uniflorae****)** |
+| **3120** | **#Águas oligotróficas muito pouco mineralizadas em solos geralmente arenosos do oeste mediterrânico com****Isoëtes****spp.** |
+| **3130** | **#Águas estagnadas, oligotróficas****a****mesotróficas, com vegetação da****Littorelletea uniflorae****e/ou da****Isoëto-Nanojuncetea** |
+| **3140** | **#Águas oligomesotróficas calcárias com vegetação bêntica de****Chara****spp.** |
+| **3150** | **#Lagos eutróficos naturais com vegetação da****Magnopotamion****ou da****Hydrocharition** |
+| **3160** | **#Lagos****e****charcos distróficos naturais** |
+| **3170** | **#Charcos temporários mediterrânicos** |
 | 3280 | Cursos de água mediterrânicos permanentes da Paspalo-Agrostidion com cortinas arbóreas ribeirinhas de Salix e Populus alba |
 | 5330 | Matos termomediterrânicos pré-desérticos |
 | 6220 | Subestepes de gramíneas e anuais da Thero-Brachypodietea |
-| 6310 | #Montados de Quercus spp. de folha perene |
-| 6410 | #Pradarias com Molinia em solos calcários, turfosos e argilo-limosos (Molinion caeruleae) |
+| **6310** | **#Montados de****Quercus****spp. de folha perene** |
+| **6410** | **#Pradarias com****Molinia****em solos calcários, turfosos****e****argilo-limosos (****Molinion caeruleae****)** |
 | 6420 | Pradarias húmidas mediterrânicas de ervas altas da Molinio-Holoschoenion |
-| 92A0 | #Florestas-galerias de Salix alba e Populus alba |
-| 9330 | #Florestas de Quercus suber |
+| **92A0** | **#Florestas-galerias de****Salix alba****e****Populus alba** |
+| **9330** | **#Florestas de****Quercus suber** |
 
 Quadro 3 - Espécies do anexo ii da Diretiva Habitats com presença significativa na ZEC
 
-| Código | Grupo | Espécie |
+| **Código** | **Grupo** | **Espécie** |
 | --- | --- | --- |
 | 1863 | PL | Halimium verticillatum |
 | 1221 | R | Mauremys leprosa |
-| 1099 | P | #Lampetra fluviatilis |
-| 1095 | P | #Petromyzon marinus |
-| 1102 | P | #Alosa alosa |
-| 1103 | P | #Alosa fallax |
-| 6168 | P | #Luciobarbus comizo (sin. Barbus comiza) |
-| 1338 | M | #Microtus cabrerae |
+| **1099** | **P** | **#Lampetra fluviatilis** |
+| **1095** | **P** | **#Petromyzon marinus** |
+| **1102** | **P** | **#Alosa alosa** |
+| **1103** | **P** | **#Alosa fallax** |
+| **6168** | **P** | **#Luciobarbus comizo****(sin.****Barbus comiza****)** |
+| **1338** | **M** | **#Microtus cabrerae** |
 | 1355 | M | Lutra lutra |
 
 Grupo: PL - Planta; I - Invertebrado; P - Peixe; R - Réptil; M - Mamífero.
@@ -276,82 +325,82 @@ Estas áreas classificadas são consideradas especialmente relevantes, no seu co
 
 Quadro 4 - Espécies de aves do anexo i da Diretiva Aves e espécies migradoras não incluídas nesse anexo, mas cuja ocorrência é regular, com presença significativa na ZPE
 
-| Código | Espécie | Tipo população |
+| **Código** | **Espécie** | **Tipo população** |
 | --- | --- | --- |
 | A168 | Actitis hypoleucos | Invernante |
-| A054 | #Anas acuta | Invernante |
+| **A054** | **#Anas acuta** | **Invernante** |
 | A857 | Spatula clypeata (sin. Anas clypeata) | Invernante |
-| A052 | #Anas crecca | Invernante |
-| A855 | #Mareca penelope (sin. Anas penelope) | Invernante |
+| **A052** | **#Anas crecca** | **Invernante** |
+| **A855** | **#Mareca penelope****(sin.****Anas penelope****)** | **Invernante** |
 | A053 | Anas platyrhynchos | Invernante |
 | A889 | Mareca strepera (sin. Anas strepera) | Invernante |
-| A043 | #Anser anser | Invernante |
-| A707 | #Aquila fasciata | Permanente |
+| **A043** | **#Anser anser** | **Invernante** |
+| **A707** | **#Aquila fasciata** | **Permanente** |
 | A028 | Ardea cinerea | Permanente |
-| A029 | #Ardea purpurea | Nidificante |
+| **A029** | **#Ardea purpurea** | **Nidificante** |
 | A169 | Arenaria interpres | Invernante |
-| A222 | #Asio flammeus | Invernante |
+| **A222** | **#Asio flammeus** | **Invernante** |
 | A061 | Aythya fuligula | Invernante |
 | A021 | Botaurus stellaris | Invernante |
 | A025 | Bubulcus ibis | Permanente |
 | A133 | Burhinus oedicnemus | Permanente |
 | A144 | Calidris alba | Permanente não nidificante |
-| A149 | #Calidris alpina | Permanente não nidificante |
+| **A149** | **#Calidris alpina** | **Permanente não nidificante** |
 | A143 | Calidris canutus | Invernante |
 | A147 | Calidris ferruginea | Invernante |
 | A145 | Calidris minuta | Invernante |
-| A138 | #Charadrius alexandrinus | InvernanteNidificante |
-| A137 | #Charadrius hiaticula | Invernante |
-| A031-A | #Ciconia ciconia | Permanente |
-| A081 | #Circus aeruginosus | Permanente |
-| A084 | #Circus pygargus | Em passagem |
-| A026 | #Egretta garzetta | Permanente |
-| A399 | #Elanus caeruleus | Permanente |
-| A103 | #Falco peregrinus | Permanente |
+| **A138** | **#Charadrius alexandrinus** | **Invernante****Nidificante** |
+| **A137** | **#Charadrius hiaticula** | **Invernante** |
+| **A031-A** | **#Ciconia ciconia** | **Permanente** |
+| **A081** | **#Circus aeruginosus** | **Permanente** |
+| **A084** | **#Circus pygargus** | **Em passagem** |
+| **A026** | **#Egretta garzetta** | **Permanente** |
+| **A399** | **#Elanus caeruleus** | **Permanente** |
+| **A103** | **#Falco peregrinus** | **Permanente** |
 | A153 | Gallinago gallinago | Invernante |
-| A135 | #Glareola pratincola | Nidificante |
+| **A135** | **#Glareola pratincola** | **Nidificante** |
 | A189 | Gelochelidon nilotica | Em passagem |
 | A130 | Haematopus ostralegus | Invernante |
-| A092 | #Hieraaetus pennatus | Nidificante |
-| A131 | #Himantopus himantopus | Permanente |
-| A022 | #Ixobrychus minutus | Nidificante |
+| **A092** | **#Hieraaetus pennatus** | **Nidificante** |
+| **A131** | **#Himantopus himantopus** | **Permanente** |
+| **A022** | **#Ixobrychus minutus** | **Nidificante** |
 | A176 | Larus melanocephalus | Invernante |
 | A157 | Limosa lapponica | Invernante |
-| A156 | #Limosa limosa | Invernante |
+| **A156** | **#Limosa limosa** | **Invernante** |
 | A272 | Luscinia svecica | Invernante |
 | A065 | Melanitta nigra | Invernante |
 | A242 | Melanocorypha calandra | Permanente |
 | A069 | Mergus serrator | Invernante |
-| A073 | #Milvus migrans | Nidificante |
-| A058 | #Netta rufina | Permanente |
+| **A073** | **#Milvus migrans** | **Nidificante** |
+| **A058** | **#Netta rufina** | **Permanente** |
 | A160 | Numenius arquata | Invernante |
-| A158 | #Numenius phaeopus | Invernante |
+| **A158** | **#Numenius phaeopus** | **Invernante** |
 | A023 | Nycticorax nycticorax | Nidificante |
-| A094 | #Pandion haliaetus | Invernante |
-| A017 | #Phalacrocorax carbo | Invernante |
+| **A094** | **#Pandion haliaetus** | **Invernante** |
+| **A017** | **#Phalacrocorax carbo** | **Invernante** |
 | A861 | Calidris pugnax (sin. Philomachus pugnax) | Invernante |
-| A663 | #Phoenicopterus roseus | Invernante Em passagem |
-| A034 | #Platalea leucorodia | Permanente |
-| A032 | #Plegadis falcinellus | Permanente |
+| **A663** | **#Phoenicopterus roseus** | **Invernante****Em passagem** |
+| **A034** | **#Platalea leucorodia** | **Permanente** |
+| **A032** | **#Plegadis falcinellus** | **Permanente** |
 | A140 | Pluvialis apricaria | Invernante |
-| A141 | #Pluvialis squatarola | Invernante |
+| **A141** | **#Pluvialis squatarola** | **Invernante** |
 | A124 | Porphyrio porphyrio | Permanente |
 | A118 | Rallus aquaticus | Permanente |
-| A132 | #Recurvirostra avosetta | Invernante |
-| A885 | #Sternula albifrons (sin. Sterna albifrons) | Nidificante |
+| **A132** | **#Recurvirostra avosetta** | **Invernante** |
+| **A885** | **#Sternula albifrons****(sin****. Sterna albifrons****)** | **Nidificante** |
 | A894 | Hydroprogne caspia (sin. Sterna caspia) | Invernante |
 | A863 | Thalasseus sandvicensis (sin. Sterna sandvicensis) | Invernante |
 | A210 | Streptopelia turtur | Nidificante |
 | A004 | Tachybaptus ruficollis | Permanente |
 | A048 | Tadorna tadorna | Permanente |
-| A128 | #Tetrax tetrax | Dispersão pós-reprodução |
+| **A128** | **#Tetrax tetrax** | **Dispersão pós-reprodução** |
 | A161 | Tringa erythropus | Invernante |
 | A164 | Tringa nebularia | Invernante |
 | A165 | Tringa ochropus | Invernante |
-| A162 | #Tringa totanus | Invernante |
-| A213 | #Tyto alba | Permanente |
-| n.a. | #Passeriformes migradores de caniçais e galerias ripícolas | Nidificante, invernante e em passagem |
-| n.a. | #Passeriformes migradores de matos e bosques | Nidificante, invernante e em passagem |
+| **A162** | **#Tringa totanus** | **Invernante** |
+| **A213** | **#Tyto alba** | **Permanente** |
+| **n.a.** | **#Passeriformes migradores de caniçais****e****galerias ripícolas** | **Nidificante, invernante****e****em passagem** |
+| **n.a.** | **#Passeriformes migradores de matos****e****bosques** | **Nidificante, invernante****e****em passagem** |
 
 Objetivos de conservação
 
@@ -363,9 +412,9 @@ Considerando o grau de desconhecimento existente da condição ecológica do hab
 
 Quadro 5 - Objetivos de conservação para a gestão das ZEC e ZPE
 
-| Objetivos de conservação | Indicadores | Metas |
+| **Tipos de****habitat****de estuários****e****vegetação halófita** |  |  |
 | --- | --- | --- |
-| Tipos de habitat de estuários e vegetação halófita | Tipos de habitat de estuários e vegetação halófita | Tipos de habitat de estuários e vegetação halófita |
+| **Objetivos de conservação** | **Indicadores** | **Metas** |
 | 1.1. Manter o grau de conservação e a área do habitat 1110 - Bancos de areia permanentemente cobertos por água do mar pouco profunda | • Área ocupada pelo habitat (ha)• Área de habitat com estrutura e funções bem conservadas (ha) | • Manter a área total ocupada pelo habitat• Manter a área ocupada pelo habitat na atual condição ecológica |
 | 1.2. Manter o grau de conservação e a área do habitat 1130 - Estuários | • Área ocupada pelo habitat (ha)• Área de habitat com estrutura e funções bem conservadas (ha) | • Manter a área total ocupada pelo habitat• Manter a área de habitat na atual condição ecológica |
 | 1.3. Manter o grau de conservação e a área do habitat 1140 - Lodaçais e areais a descoberto na maré baixa e aumentar a área do subtipo pt2 | • Área ocupada pelo habitat (ha)• Área ocupada pelo subtipo pt2 do habitat (ha)• Área de habitat com estrutura e funções bem conservadas (ha) | • Manter a área total ocupada pelo habitat• Aumentar a área ocupada pelo subtipo pt2 do habitat por conversão de área do subtipo pt1• Manter a área de habitat na atual condição ecológica |
@@ -377,40 +426,40 @@ Quadro 5 - Objetivos de conservação para a gestão das ZEC e ZPE
 | 1.9. Melhorar o grau de conservação e manter a área do habitat 1430 - Matos halonitrófilos (Pegano-Salsoletea) | • Área ocupada pelo habitat (ha)• Área de habitat com estrutura e funções bem conservadas (ha) | • Manter a área total ocupada pelo habitat• Aumentar a área de habitat com estrutura e funções bem conservadas, através da melhoria do grau de conservação das áreas de habitat com conservação média ou reduzida [grau de conservação C, na cartografia de habitats naturais de ICNF (2021)] |
 | 1.10. Melhorar o grau de conservação e inverter a tendência de decréscimo da área do habitat 1510 - Estepes salgadas mediterrânicas (Limonietalia) | • Área ocupada pelo habitat (ha)• Área de habitat com estrutura e funções bem conservada (ha) | • Aumentar a área total ocupada pelo habitat• Aumentar a área de habitat com estrutura e funções bem conservadas, através da melhoria do grau de conservação das áreas de habitat com conservação média ou reduzida [grau de conservação C, na cartografia de habitats naturais de ICNF (2021)] |
 
-| Objetivos de conservação | Indicadores | Metas |
+| **Tipos de****habitat****e****espécies (que não aves) de zonas húmidas de água doce, rios****e****galerias ripícolas** |  |  |
 | --- | --- | --- |
-| Tipos de habitat e espécies (que não aves) de zonas húmidas de água doce, rios e galerias ripícolas | Tipos de habitat e espécies (que não aves) de zonas húmidas de água doce, rios e galerias ripícolas | Tipos de habitat e espécies (que não aves) de zonas húmidas de água doce, rios e galerias ripícolas |
+| **Objetivos de conservação** | **Indicadores** | **Metas** |
 | 2.1. Manter o grau de conservação e travar a tendência de decréscimo da área do habitat 3110 - Águas oligotróficas muito pouco mineralizadas das planícies arenosas (Littorelletalia uniflorae) | • Área ocupada pelo habitat (ha)• Área de habitat com estrutura e funções bem conservadas (ha) | • Manter a área ocupada pelo habitat• Manter a área total habitat na atual condição ecológica |
 | 2.2. Melhorar o grau de conservação e inverter a tendência de decréscimo da área do habitat 3120 - Águas oligotróficas muito pouco mineralizadas em solos geralmente arenosos do oeste mediterrânico com Isoetes spp. | • Área ocupada pelo habitat (ha)• Área de habitat com estrutura e funções bem conservadas (ha) | • Aumentar a área total ocupada pelo habitat• Aumentar a área de habitat com boa condição ecológica |
 | 2.3. Manter o grau de conservação e travar a tendência de decréscimo da área do habitat 3130 - Águas paradas, oligotróficas a mesotróficas, com vegetação da Littorelletea uniflorae e/ou da Isoeto-Nanojuncetea | • Área ocupada pelo habitat (ha)• Área de habitat com estrutura e funções bem conservadas (ha) | • Manter a área ocupada pelo habitat• Manter a área total habitat na atual condição ecológica |
 | 2.4. Melhorar o grau de conservação e manter a área do habitat 3140 - Águas oligo-mesotróficas calcárias com vegetação bêntica de Chara spp. | • Área ocupada pelo habitat (ha)• Área de habitat com estrutura e funções bem conservadas (ha) | • Manter a área total ocupada pelo habitat• Melhorar a área do habitat com boa condição ecológica |
 | 2.5. Manter o grau de conservação e travar a tendência de decréscimo da área do habitat 3150 - Lagos eutróficos naturais com vegetação da Magnopotamion ou da Hydrocharition | • Área ocupada pelo habitat (ha)• Área de habitat com estrutura e funções bem conservadas (ha) | • Manter a área total ocupada pelo habitat• Manter a área total habitat na atual condição ecológica |
 | 2.6. Melhorar o grau de conservação e inverter a tendência de decréscimo da área do habitat 3170 - Charcos temporários mediterrânicos | • Área ocupada pelo habitat (ha)• Área de habitat com estrutura e funções bem conservadas (ha) | • Aumentar a área ocupada pelo habitat• Aumentar a área de habitat com boa condição ecológica |
-| 2.7. Manter o grau de conservação e a área do habitat 3280 - Cursos de água mediterrânicos permanentes da Paspalo-Agrostidion com cortinas arbóreas ribeirinhas de Salix e Populus alba<sup>1</sup> | • Área ocupada pelo habitat (ha)• Área de habitat com estrutura e funções bem conservadas (ha) | • Manter a área ocupada pelo habitat• Manter a área de habitat na atual condição ecológica |
+| 2.7. Manter o grau de conservação e a área do habitat 3280 - Cursos de água mediterrânicos permanentes da Paspalo-Agrostidion com cortinas arbóreas ribeirinhas de Salix e Populus alba1 | • Área ocupada pelo habitat (ha)• Área de habitat com estrutura e funções bem conservadas (ha) | • Manter a área ocupada pelo habitat• Manter a área de habitat na atual condição ecológica |
 | 2.8. Melhorar o grau de conservação e inverter a tendência de decréscimo da área do habitat 6410 - Pradarias com Molinia em solos calcários, turfosos e argilo-linosos (Molinion caeruleae) | • Área ocupada pelo habitat (ha)• Área de habitat com estrutura e funções bem conservadas (ha) | • Aumentar a área total ocupada pelo habitat• Aumentar a área de habitat com boa condição ecológica |
-| 2.9. Manter o grau de conservação e a área do habitat 6420 - Pradarias húmidas mediterrânicas de ervas altas da Molinio-Holoschoenion<sup>1</sup> | • Área ocupada pelo habitat (ha)• Área de habitat com estrutura e funções bem conservadas (ha) | • Manter a área ocupada pelo habitat• Manter a área de habitat na atual condição ecológica |
+| 2.9. Manter o grau de conservação e a área do habitat 6420 - Pradarias húmidas mediterrânicas de ervas altas da Molinio-Holoschoenion1 | • Área ocupada pelo habitat (ha)• Área de habitat com estrutura e funções bem conservadas (ha) | • Manter a área ocupada pelo habitat• Manter a área de habitat na atual condição ecológica |
 | 2.10. Manter o grau de conservação e travar a tendência de decréscimo da área do habitat 92A0 - Florestas-galeria de Salix alba e Populus alba | • Área ocupada pelo habitat (ha)• Área de habitat com estrutura e funções bem conservadas (ha) | • Manter a área total ocupada pelo habitat• Manter a área de habitat na atual condição ecológica |
 | 2.11. Melhorar o grau de conservação do habitat de Alosa alosa, Alosa fallax, Petromyzon marinus e Luciobarbus comizo | • Extensão do habitat com qualidade ecológica• Tendência populacional• Número de barreiras nos principais afluentes | • Aumentar a extensão do habitat com qualidade ecológica• Atingir ou manter tendência populacional estável ou superior• Reduzir o número de barreiras nos principais afluentes |
 | 2.12. Melhorar o grau de conservação do habitat de Lampetra fluviatilis e inverter tendência de declínio populacional | • Extensão do habitat com qualidade ecológica• Tendência populacional• Número de barreiras | • Aumentar a extensão do habitat com qualidade ecológica• Atingir tendência populacional estável ou superior• Reduzir o número de barreiras nos principais afluentes |
-| 2.13. Manter o grau de conservação do habitat de Lutra lutra e Mauremys leprosa<sup>1</sup> | • Expressão linear da presença da espécie• Densidade populacional• Extensão da área de habitat favorável (Km) | • Manter a expressão linear da presença da espécie• Manter a densidade populacional• Manter a extensão da área de habitat favorável |
+| 2.13. Manter o grau de conservação do habitat de Lutra lutra e Mauremys leprosa1 | • Expressão linear da presença da espécie• Densidade populacional• Extensão da área de habitat favorável (Km) | • Manter a expressão linear da presença da espécie• Manter a densidade populacional• Manter a extensão da área de habitat favorável |
 
-| Objetivos de conservação | Indicadores | Metas |
+| **Tipos de****habitat****de dunas móveis****e****paleodunas** |  |  |
 | --- | --- | --- |
-| Tipos de habitat de dunas móveis e paleodunas | Tipos de habitat de dunas móveis e paleodunas | Tipos de habitat de dunas móveis e paleodunas |
+| **Objetivos de conservação** | **Indicadores** | **Metas** |
 | 3.1. Manter o grau de conservação e a área do habitat 1210 - Vegetação anual das zonas de acumulação de detritos pela maré | • Área ocupada pelo habitat (ha)• Área de habitat com estrutura e funções bem conservada (ha) | • Manter a área ocupada pelo habitat• Manter a área de habitat na atual condição ecológica |
 | 3.2. Manter o grau de conservação e a área do habitat e travar a tendência de decréscimo da área 2130 - Dunas fixas com vegetação herbácea (“dunas cinzentas”) | • Área ocupada pelo habitat (ha)• Área de habitat com estrutura e funções bem conservadas (ha) | • Manter a área total ocupada pelo habitat• Manter a área total habitat na atual condição ecológica |
 | 3.3. Manter o grau de conservação e a área de habitat 2150 - Dunas fixas descalcificadas atlânticas (Calluno Ulicetea) | • Área ocupada pelo habitat (ha)• Área de habitat com estrutura e funções bem conservadas (ha) | • Manter a área ocupada pelo habitat• Manter a área de habitat na atual condição ecológica |
-| 3.4. Manter o grau de conservação e a área do habitat 2230 - Dunas com prados da Malcolmietalia<sup>2</sup> | • Área ocupada pelo habitat (ha)Área de habitat com estrutura e funções bem conservadas (ha) | • Manter a área total ocupada pelo habitat• Manter a área de habitat com boa condição ecológica |
+| 3.4. Manter o grau de conservação e a área do habitat 2230 - Dunas com prados da Malcolmietalia2 | • Área ocupada pelo habitat (ha)Área de habitat com estrutura e funções bem conservadas (ha) | • Manter a área total ocupada pelo habitat• Manter a área de habitat com boa condição ecológica |
 | 3.5. Melhorar o grau de conservação e inverter a tendência de decréscimo da área do habitat 2250 - Dunas litorais com Juniperus spp. | • Área ocupada pelo habitat (ha)• Área de habitat com estrutura e funções bem conservadas (ha) | • Aumentar a área total ocupada pelo habitat• Aumentar a área de habitat com boa condição ecológica |
 | 3.6. Manter o grau de conservação e a área do habitat 2260 - Dunas com vegetação esclerófila da Cisto-Lavenduletalia | • Área ocupada pelo habitat (ha)• Área de habitat com estrutura e funções bem conservada (ha) | • Manter a área ocupada pelo habitat• Manter a área de habitat na atual condição ecológica |
 | 3.7. Manter o grau de conservação e travar a tendência de decréscimo da área do habitat 2270 - Dunas com florestas de Pinus pinea e/ou Pinus pinaster | • Área ocupada pelo habitat (ha)• Área de habitat com estrutura e funções bem conservadas (ha) | • Manter a área ocupada pelo habitat• Manter a área de habitat na atual condição ecológica |
-| 3.8. Manter o grau de conservação e a área do habitat 2330 - Dunas interiores com prados abertos de Corynephorus e Agrostis<sup>2</sup> | • Área ocupada pelo habitat (ha)• Área de habitat com estrutura e funções bem conservadas (ha) | • Manter a área ocupada pelo habitat• Manter a área de habitat na atual condição ecológica |
+| 3.8. Manter o grau de conservação e a área do habitat 2330 - Dunas interiores com prados abertos de Corynephorus e Agrostis2 | • Área ocupada pelo habitat (ha)• Área de habitat com estrutura e funções bem conservadas (ha) | • Manter a área ocupada pelo habitat• Manter a área de habitat na atual condição ecológica |
 
-| Objetivos de conservação | Indicadores | Metas |
+| **Tipos de****habitat****e****espécies de vegetação zonal****e****mosaicos agroflorestais** |  |  |
 | --- | --- | --- |
-| Tipos de habitat e espécies de vegetação zonal e mosaicos agroflorestais | Tipos de habitat e espécies de vegetação zonal e mosaicos agroflorestais | Tipos de habitat e espécies de vegetação zonal e mosaicos agroflorestais |
-| 4.1. Manter o grau de conservação do habitat 5330 - Matos termomediterrânicos pré-desérticos<sup>3</sup> | • Área ocupada pelo habitat (ha)• Área de habitat com estrutura e funções bem conservadas (ha) | • Manter a área ocupada pelo habitat• Manter a área de habitat na atual condição ecológica |
-| 4.2. Manter o grau de conservação do habitat 6220 - Subestepes de gramíneas e anuais da Thero-Brachypodietea<sup>3</sup> | • Área ocupada pelo habitat (ha)• Área de habitat com estrutura e funções bem conservadas (ha) | • Manter a área ocupada pelo habitat• Manter a área de habitat na atual condição ecológica |
+| **Objetivos de conservação** | **Indicadores** | **Metas** |
+| 4.1. Manter o grau de conservação do habitat 5330 - Matos termomediterrânicos pré-desérticos3 | • Área ocupada pelo habitat (ha)• Área de habitat com estrutura e funções bem conservadas (ha) | • Manter a área ocupada pelo habitat• Manter a área de habitat na atual condição ecológica |
+| 4.2. Manter o grau de conservação do habitat 6220 - Subestepes de gramíneas e anuais da Thero-Brachypodietea3 | • Área ocupada pelo habitat (ha)• Área de habitat com estrutura e funções bem conservadas (ha) | • Manter a área ocupada pelo habitat• Manter a área de habitat na atual condição ecológica |
 | 4.3. Manter o grau de conservação e travar a tendência de decréscimo da área do habitat 6310 - Montados de Quercus spp. de folha perene | • Área ocupada pelo habitat (ha)• Área de habitat com estrutura e funções bem conservadas (ha) | • Manter a área ocupada pelo habitat• Manter a área de habitat na atual condição ecológica |
 | 4.4. Manter o grau de conservação e travar a tendência de decréscimo do habitat 9330 - Florestas de Quercus suber | • Área ocupada pelo habitat (ha)• Área de habitat com estrutura e funções bem conservadas (ha) | • Manter a área ocupada pelo habitat• Manter a área de habitat na atual condição ecológica |
 | 4.5. Manter o grau de conservação e a área do habitat de Halimium verticillatum | Área de habitat adequado para a espécieNúmero de núcleos com presença da espécie | • Manter a área de habitat adequado para a espécie• Manter o número de núcleos com presença da espécie |
@@ -421,11 +470,11 @@ Quadro 5 - Objetivos de conservação para a gestão das ZEC e ZPE
 | 4.10. Melhorar o grau de conservação do habitat de Glareola pratincola | • Quadrículas 1×1 km com nidificação da espécie• Número de casais reprodutores• Área de habitat favorável à nidificação (ha) | • Manter ou aumentar o número de quadrículas 1×1 km com nidificação da espécie• Aumentar o número de casais reprodutores• Aumentar a área de habitat favorável à nidificação |
 | 4.11. Manter o grau de conservação do habitat de Tyto alba | • Quadrículas 1×1 km com nidificação da espécie• Número de indivíduos• Área de habitat favorável à nidificação e dispersão (ha) | • Manter o número de quadrículas 1x1km com nidificação da espécie• Manter o Número de indivíduos• Manter a área de habitat favorável à nidificação e dispersão |
 | 4.12. Manter o grau de conservação do habitat dos Passeriformes migradores de matos e bosques | • Área de habitat favorável (ha) | • Manter a área de habitat favorável |
-| 4.13. Manter o grau de conservação do habitat Burhinus oedicnemus, Melanocorypha calandra, Streptopelia turtur<sup>3</sup> | • Quadrículas 1×1 km com nidificação• Área de habitat favorável à nidificação (ha) | • Manter o número de quadrículas 1×1 km com nidificação• Manter a área de habitat favorável à nidificação |
+| 4.13. Manter o grau de conservação do habitat Burhinus oedicnemus, Melanocorypha calandra, Streptopelia turtur3 | • Quadrículas 1×1 km com nidificação• Área de habitat favorável à nidificação (ha) | • Manter o número de quadrículas 1×1 km com nidificação• Manter a área de habitat favorável à nidificação |
 
-| Objetivos de conservação | Indicadores | Metas |
+| **Avifauna de zonas húmidas** |  |  |
 | --- | --- | --- |
-| Avifauna de zonas húmidas | Avifauna de zonas húmidas | Avifauna de zonas húmidas |
+| **Objetivos de conservação** | **Indicadores** | **Metas** |
 | 5.1. Manter o grau de conservação do habitat de Anas acuta, Anser anser, Asio flammeus, Phalacrocorax carbo, Phoenicopterus roseus, Pandion haliaetus | • Quadrículas 1×1 km ocupadas pela espécie• Número de indivíduos• Área de habitat favorável (ha) | • Manter o número de quadrículas 1×1 km ocupadas• Manter o Número de indivíduos• Manter a área de habitat favorável |
 | 5.2. Manter o grau de conservação do habitat de Anas crecca, Mareca penelope e contribuir para inverter a tendência de declínio populacional | • Quadrículas 1×1 km ocupadas pela espécie• Número de indivíduos• Área de habitat favorável (ha) | • Manter o número de quadrículas 1×1 km ocupadas• Manter ou aumentar o número de indivíduos• Melhorar a área de habitat favorável |
 | 5.3. Manter o grau de conservação do habitat Egretta garzetta, Platalea leucorodia e Plegadis falcinellus | Quadrículas 1×1 km ocupadas pela espécie• Número de casais reprodutores• Área de habitat favorável à nidificação (ha) | • Manter o número de quadrículas 1×1 km ocupadas• Manter o número de casais reprodutores• Manter a área de habitat favorável à nidificação |
@@ -437,21 +486,21 @@ Quadro 5 - Objetivos de conservação para a gestão das ZEC e ZPE
 | 5.9. Melhorar o grau de conservação do habitat de Ardea purpurea, Ixobrychus minutus e Circus aeruginosus | • Quadrículas 1×1 km com nidificação da espécie• Número de casais reprodutores• Área de habitat favorável à nidificação (ha) | • Manter o número de quadrículas 1×1 km ocupadas• Aumentar o número de casais reprodutores• Aumentar a área de habitat favorável à nidificação |
 | 5.10. Melhorar o grau de conservação do habitat de Sternula albifrons e contribuir para inverter a tendência de declínio populacional | • Quadrículas 1×1 km ocupadas pela espécie• Número de casais reprodutores (pop. reprodutora)• Área de habitat favorável à nidificação (ha) | • Aumentar o número de quadrículas 1×1 km• Aumentar o número de casais reprodutores• Aumentar a área de habitat favorável à nidificação |
 | 5.11. Melhorar o grau de conservação do habitat dos passeriformes migradores de caniçais e galerias ripícolas | • Área de habitat favorável (ha) | • Aumentar a área de habitat favorável |
-| 5.12. Manter o grau de conservação do habitat das espécies de aves de zonas húmidas salobras com presença significativa (não alvo) na ZPE<sup>4</sup> | • Quadrículas 1×1 km ocupadas pela espécie• Área de habitat favorável (ha) | • Manter o número de quadrículas 1×1 km• Manter a área de habitat favorável |
+| 5.12. Manter o grau de conservação do habitat das espécies de aves de zonas húmidas salobras com presença significativa (não alvo) na ZPE4 | • Quadrículas 1×1 km ocupadas pela espécie• Área de habitat favorável (ha) | • Manter o número de quadrículas 1×1 km• Manter a área de habitat favorável |
 
-<sup>1</sup> Os tipos de habitat 3280 e 6420 e as espécies Lutra lutra e Mauremys leprosa, no grupo de valores de zonas húmidas de água doce, rios e galerias ripícolas, sendo tipos de habitat e espécies com presença significativa na ZEC, não são, contudo, considerados valores alvo no território abrangido por este plano de gestão.
+1 Os tipos de habitat 3280 e 6420 e as espécies Lutra lutra e Mauremys leprosa, no grupo de valores de zonas húmidas de água doce, rios e galerias ripícolas, sendo tipos de habitat e espécies com presença significativa na ZEC, não são, contudo, considerados valores alvo no território abrangido por este plano de gestão.
 
 Apresentam um estado de conservação favorável a nível biogeográfico e a manutenção da sua condição na ZEC não requer esforços adicionais em termos degestão no território, não estando por isso dependente de medidas de gestão ativa, mas apenas de medidas de carácter preventivo a aplicar por via regulamentar.
 
-<sup>2</sup> O habitat 2230 do grupo dos valores de dunas móveis e paleodunas, sendo um habitat com presença significativa na ZEC, não é, contudo, considerado valor alvo no território abrangido por este plano de gestão. Apresenta um estado de conservação favorável a nível biogeográfico e a manutenção da sua condição na ZEC não requer esforços adicionais em termos degestão no território, não estando por isso dependente de medidas de gestão ativa, mas apenas de medidas de caráter preventivo a aplicar por via regulamentar. No caso do habitat 2330, este não se encontra em estado de conservação favorável a nível biogeográfico mas, dado que na ZEC ocorre apenas vestigialmente, a melhoria da sua condição na ZEC não teria impacto a nível biogeográfico.
+2 O habitat 2230 do grupo dos valores de dunas móveis e paleodunas, sendo um habitat com presença significativa na ZEC, não é, contudo, considerado valor alvo no território abrangido por este plano de gestão. Apresenta um estado de conservação favorável a nível biogeográfico e a manutenção da sua condição na ZEC não requer esforços adicionais em termos degestão no território, não estando por isso dependente de medidas de gestão ativa, mas apenas de medidas de caráter preventivo a aplicar por via regulamentar. No caso do habitat 2330, este não se encontra em estado de conservação favorável a nível biogeográfico mas, dado que na ZEC ocorre apenas vestigialmente, a melhoria da sua condição na ZEC não teria impacto a nível biogeográfico.
 
-<sup>3</sup> O habitat 5330 e a espécie Halimium verticillatum do grupo de valores de vegetação zonal e mosaicos agroflorestais, sendo um habitat e uma espécie com presença significativa na ZEC, não são contudo considerados valores alvo no território abrangido por este plano de gestão. Apresentam um estado de conservação favorável a nível biogeográfico e a manutenção da sua condição na ZEC não requer esforços adicionais em termos de gestão no território, não estando por isso dependente de medidas de gestão ativa, mas apenas de medidas de carácter preventivo a aplicar por via regulamentar.
+3 O habitat 5330 e a espécie Halimium verticillatum do grupo de valores de vegetação zonal e mosaicos agroflorestais, sendo um habitat e uma espécie com presença significativa na ZEC, não são contudo considerados valores alvo no território abrangido por este plano de gestão. Apresentam um estado de conservação favorável a nível biogeográfico e a manutenção da sua condição na ZEC não requer esforços adicionais em termos de gestão no território, não estando por isso dependente de medidas de gestão ativa, mas apenas de medidas de carácter preventivo a aplicar por via regulamentar.
 
 As espécies Burhinus oedicnemus, Melanocorypha calandra e Streptopelia turtur do grupo de valores de vegetação zonal e mosaicos agroflorestais, com presença significativa na ZPE, não são consideradas valores alvo no território abrangido por este plano de gestão. A manutenção da sua condição na ZPE não requer esforços adicionais em termos de gestão no território, não estando por isso dependente de medidas de gestão ativa, mas apenas de medidas de carácter preventivo a aplicar por via regulamentar.
 
 No caso do habitat 6220, este não se encontra em estado de conservação favorável a nível biogeográfico mas, dado que na ZEC ocorre apenas vestigialmente, a melhoria da sua condição na ZEC não teria impacto a nível biogeográfico, pelo que não foi considerado alvo.
 
-<sup>4</sup> As espécies Actitis hypoleucos, Spatula clypeata, Anas platyrhynchos, Mareca strepera, Ardea cinerea, Arenaria interpres, Aythya fuligula, Botaurus stellaris, Bubulcus ibis, Calidris alba, Calidris canutus, Calidris ferruginea, Calidris minuta, Gallinago gallinago, Gelochelidon nilotica, Haematopus ostralegus, Larus melanocephalus, Limosa laponica, Luscinia svecica, Melanitta nigra, Mergus serrator, Numenius arquata, Nycticorax nycticorax, Calidris pugnax, Pluvialis apricaria, Porphyrio porphyrio, Rallus aquaticus, Hydroprogne caspia, Thalasseus sandvicensis, Tachybaptus ruficollis, Tadorna tadorna, Tringa erythropus, Tringa nebularia e Tringa ochropus, do grupo de aves de zonas húmidas salobras, com presença significativa na ZPE, não são consideradas valores alvo no território abrangido por este plano de gestão.
+4 As espécies Actitis hypoleucos, Spatula clypeata, Anas platyrhynchos, Mareca strepera, Ardea cinerea, Arenaria interpres, Aythya fuligula, Botaurus stellaris, Bubulcus ibis, Calidris alba, Calidris canutus, Calidris ferruginea, Calidris minuta, Gallinago gallinago, Gelochelidon nilotica, Haematopus ostralegus, Larus melanocephalus, Limosa laponica, Luscinia svecica, Melanitta nigra, Mergus serrator, Numenius arquata, Nycticorax nycticorax, Calidris pugnax, Pluvialis apricaria, Porphyrio porphyrio, Rallus aquaticus, Hydroprogne caspia, Thalasseus sandvicensis, Tachybaptus ruficollis, Tadorna tadorna, Tringa erythropus, Tringa nebularia e Tringa ochropus, do grupo de aves de zonas húmidas salobras, com presença significativa na ZPE, não são consideradas valores alvo no território abrangido por este plano de gestão.
 
 A manutenção da sua condição na ZPE não requer esforços adicionais em termos degestão no território, não estando por isso dependente de medidas de gestão ativa, mas apenas de medidas de caráter preventivo a aplicar por via regulamentar.
 
@@ -465,30 +514,30 @@ A informação relevante para a execução das medidas de conservação compleme
 
 Quadro 6 - Quadro operacional de medidas de conservação complementares
 
-| Medidas de conservação complementares | Relevância * | Indicadores de realização | Meta | Entidade responsável | Entidades envolvidas | Início | Fim |
+| **Medidas de conservação complementares** | **Relevância *** | **Indicadores de realização** | **Meta** | **Entidade responsável** | **Entidades envolvidas** | **Calendarização** |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Medidas de conservação complementares | Relevância * | Indicadores de realização | Meta | Entidade responsável | Entidades envolvidas | Calendarização | Calendarização |
-| MC1. Promover a gestão adequada do estuário e do cordão dunar anexo. | 1 | 1 - Data de realização de estudo sobre modelação da subida do nível médio do mar e dinâmica do sistema estuarino;2 - Área com problemas de erosão/colmatação intervencionada;3 - Proporção da área de restauro de tipos de habitat de sapal afeta a restauro;4 - Extensão de recuperação e manutenção do sistema tradicional de drenagem;5 - Área de gestão do caniçal;6 - Data de realização de estudos sobre métodos de controlo de espécies exóticas invasoras de difícil remoção;7 - Intervenções de limpeza de resíduos, contenção de acesso e restauro ecológico;8 - Área de praias (concessionadas com Plano de Praia) sem limpeza com maquinaria pesada ou onde esta foi reduzida. | 1 - Estudo realizado até ao ano 2 após a aprovação do plano de gestão;2 - 90 % da área com problemas de colmatação/erosão;3 - 50% da área de tipos de habitat de sapal necessitada de intervenção;4 - 100% da extensão/área do sistema tradicional de drenagem;5 - 25% da área de caniçal gerida;6 - Estudo realizado até ao ano 3 após a aprovação do plano de gestão;7 - 50% dos locais de deposição ilegal identificados;8 - 100% da área de praias concessionadas. | ICNFAPA/ARHDGRMCapitania do Porto de LisboaMunicípios e suas associações | Administração do Porto de LisboaCentros de InvestigaçãoBase Área do Montijo (B.A. n.º 6)Operadores TurísticosAssociações DesportivasConcessionários e produtores aquícolasOrizicultores e suas associaçõesPescadores e suas associaçõesONGA | Ano 1 | Ano 10 |
-| MC2. Recuperação e valorização ambiental de lagoas permanentes e bosques paludosos. | 2 | 1 - Área com problemas de colmatação; intervencionada;2 - Área de habitat alvo restaurada;3 - Área reconvertida de plantações de exóticas com potencial para a recuperação dos valores alvo;4 - Área com controlo de espécies exóticas invasoras; | 1 - 100 % da área com problemas de colmatação;2 - 80 % da área de habitat alvo necessitada de restauro por fomento da regeneração natural ou plantação;3 - Reconversão de 80 % da área ocupada por plantações de exóticas com potencial para a recuperação dos valores alvo desta medida; | ICNFAPA/ARH | Municípios e suas associaçõesCCDRCCDR/AgriCentros de InvestigaçãoProprietários, gestores florestais, agricultores e suas organizações | Ano 1 | Ano 10 |
+| **Início** | **Fim** |  |  |  |  |  |  |
+| **MC1**. Promover a gestão adequada do estuário e do cordão dunar anexo. | 1 | 1 - Data de realização de estudo sobre modelação da subida do nível médio do mar e dinâmica do sistema estuarino;2 - Área com problemas de erosão/colmatação intervencionada;3 - Proporção da área de restauro de tipos de habitat de sapal afeta a restauro;4 - Extensão de recuperação e manutenção do sistema tradicional de drenagem;5 - Área de gestão do caniçal;6 - Data de realização de estudos sobre métodos de controlo de espécies exóticas invasoras de difícil remoção;7 - Intervenções de limpeza de resíduos, contenção de acesso e restauro ecológico;8 - Área de praias (concessionadas com Plano de Praia) sem limpeza com maquinaria pesada ou onde esta foi reduzida. | 1 - Estudo realizado até ao ano 2 após a aprovação do plano de gestão;2 - 90 % da área com problemas de colmatação/erosão;3 - 50% da área de tipos de habitat de sapal necessitada de intervenção;4 - 100% da extensão/área do sistema tradicional de drenagem;5 - 25% da área de caniçal gerida;6 - Estudo realizado até ao ano 3 após a aprovação do plano de gestão;7 - 50% dos locais de deposição ilegal identificados;8 - 100% da área de praias concessionadas. | ICNFAPA/ARHDGRMCapitania do Porto de LisboaMunicípios e suas associações | Administração do Porto de LisboaCentros de InvestigaçãoBase Área do Montijo (B.A. n.º 6)Operadores TurísticosAssociações DesportivasConcessionários e produtores aquícolasOrizicultores e suas associaçõesPescadores e suas associaçõesONGA | Ano 1 | Ano 10 |
+| **MC2**. Recuperação e valorização ambiental de lagoas permanentes e bosques paludosos. | 2 | 1 - Área com problemas de colmatação; intervencionada;2 - Área de habitat alvo restaurada;3 - Área reconvertida de plantações de exóticas com potencial para a recuperação dos valores alvo;4 - Área com controlo de espécies exóticas invasoras; | 1 - 100 % da área com problemas de colmatação;2 - 80 % da área de habitat alvo necessitada de restauro por fomento da regeneração natural ou plantação;3 - Reconversão de 80 % da área ocupada por plantações de exóticas com potencial para a recuperação dos valores alvo desta medida; | ICNFAPA/ARH | Municípios e suas associaçõesCCDRCCDR/AgriCentros de InvestigaçãoProprietários, gestores florestais, agricultores e suas organizações | Ano 1 | Ano 10 |
 |  |  | 5 - Extensão de acessos reordenados;6 - Área de caniçal gerida. | 4 - 50 % da área identificada para controlo de espécies exóticas invasoras;5 - 100 % da extensão de acessos que necessitem de ordenamento;6 - 25 % da área de caniçal gerida. |  |  |  |  |
-| MC3. Restabelecer a composição, estrutura e continuidade do ecossistema fluvial e ribeirinho. | 1 | 1 - Proporção de galeria ripícola objeto de projetos de restauro orientado para a promoção dos tipos de habitat alvo;2 - Proporção das estruturas hidráulicas eliminadas (sujeitas a prévia ponderação);3 - Proporção das estruturas hidráulicas (que se mantêm) com condições de transponibilidade. | 1 - 50 % da galeria ripícola degradada com ocorrência real ou potencial dos tipos de habitat alvo;2 - 100 % das estruturas assinaladas para eliminação;3 - 100 % das estruturas mantidas. | ICNFAPA/ARHGPP | Autoridade de Gestão do PEPACMunicípios e suas AssociaçõesCCDR/AgriProprietários e agricultores e suas organizações | Ano 1 | Ano 10 |
-| MC4. Promover a gestão adequada de charcos e prados higrófilos. | 1 | 1 - Data de conclusão do estudo de métodos de controlo de plantas invasoras de prados húmidos;2 - Proporção de área contratualizada. | 1 - Ano 3 após a aprovação do plano de gestão;2 - 100 % da área elegível. | ICNFGPP | Autoridade de gestão do PEPACCCDR/AgriProprietários, gestores florestais, agricultores e suas organizações | Ano 1 | Ano 10 |
-| MC5. Promover a gestão adequada de tipos de habitat de matos e florestais psamófilos. | 2 | 1 - Proporção de área contratualizada para gestão florestal orientada para a conservação dos valores naturais protegidos;2 - Área de povoamentos de exóticas reconvertida;3 - Extensão de acessos reordenados. | 1 - 50 % da área elegível;2 - 30 % da área de povoamentos de exóticas reconvertida;3 - 100 % da extensão de acessos que necessitem de ordenamento. | ICNFGPP | Autoridade de gestão do PEPACCCDR/AgriMunicípiosProprietários, gestores florestais e suas organizações | Ano 1 | Ano 10 |
-| MC6. Promover a gestão adequada dos montados e prados secos. | 1 | Proporção de área contratualizada. | 100 % da área elegível. | ICNFGPP | Autoridade de gestão do PEPACCCDR/AgriProprietários, agricultores e suas organizações | Ano 1 | Ano 10 |
-| MC7. Prevenir, intervir precocemente e controlar as populações de espécies de flora e fauna exóticas invasoras. | 1 | 1 - Data de elaboração dos Planos de controlo de espécies exóticas invasoras;2 - Proporção das áreas prioritárias intervencionadas;3 - Dimensão da população de espécies exóticas invasoras;4 - Número de ações de monitorização para deteção precoce de instalação de espécies exóticas invasoras. | 1 - Ano 2 após a aprovação do plano de gestão;2 - 100 % das áreas prioritárias;3 - Redução da dimensão da população de exóticas invasoras nas áreas intervencionadas;4 - 10 (1 por ano). | ICNFMunicípios e suas associações | CCDRAPAProprietários, agricultores, gestores florestais e suas organizaçõesONGACentros de Investigação | Ano 1 | Ano 10 |
-| MC8. Estabelecer plano de deteção e atuação frente a pragas e doenças. | 3 | Data de identificação das medidas e orientações fitossanitárias da ZEC e da ZPE. | Ano 5 após a aprovação do plano de gestão. | ICNF | Autoridade de gestão do PEPACProprietários e gestores florestais e suas associaçõesAssociações de desenvolvimento localCentros de investigação | Ano 1 | Ano 10 |
-| MC9. Adaptar o planeamento e a operacionalização da gestão integrada dos fogos rurais à salvaguarda dos valores naturais protegidos. | 2 | 1 - Proporção de Planos/Programas adaptados e incluindo diretrizes de salvaguarda;2 - Proporção de planos de recuperação pós-incêndio com medidas orientadas para o restauro e salvaguarda dos valores naturais protegidos. | 1 - 100 %;2 - 100 %. | ICNFComissões Regionais, Sub-Regionais e Municipais de Gestão Integrada de Fogos Rurais (CMGIFR) | Autoridade de gestão do PEPACCCDRAPAMunicípiosProprietários, agricultores, gestores florestais e suas organizações | Ano 1 | Ano 10 |
-| MC10. Ordenar acessibilidades e promover a utilização racional e sustentável dos territórios no desenvolvimento das atividades desportivas, recreativas e turísticas. | 1 | 1 - Data de elaboração de estudo de ordenamento de acessibilidades (viárias, cicláveis e pedonais) e estacionamento;2 - Proporção dos acessos indevidos vedados;3 - Proporção da rede de passadiços com necessidades de reformulação intervencionada;4 - Extensão de passadiços/área de outras estruturas sujeita a manutenção sem recurso a maquinaria pesada;5 - Intervenções previstas no estudo de ordenamento de acessibilidades e estacionamento;6 - Número de painéis colocados. | 1 - Estudo finalizado nos primeiros 2 anos após a aprovação do plano de gestão;2 - 50 % dos acessos indevidos vedados;3 - 100 % da extensão/rede de passadiços com necessidades de reformulação intervencionada;4 - 100 % da extensão de passadiços/área de outras estruturas sujeita a manutenção sem recurso a maquinaria pesada;5 - 50 % das intervenções previstas no estudo com prioridade considerada Elevada;6 - 1 painel em cada acesso ao areal/zona ribeirinha/outro espaço natural e 2 painéis por sede de freguesia. | ICNFMunicípios | ONGAAPA/ARHAutoridade Marítima NacionalDGRMServiço Municipal de Proteção CivilCentros de InvestigaçãoAssociações Desportivas (locais e regionais)Agentes de Animação Turística | Ano 1 | Ano 10 |
-| MC11. Colmatar lacunas de informação referentes a lagunas costeiras, charcos e bosques higrófilos (tipos de habitat 1150, 3160, 3170 e 92A0) e elaborar uma cartografia dos biótopos da avifauna. | 2 | 1 - Data de conclusão do estudo dos tipos de habitat;2 - Data da conclusão da cartografia dos biótopos da avifauna. | 1 - Ano 2 após a aprovação do plano de gestão;2 - Ano 2 após a aprovação do plano de gestão. | ICNF | Centros de investigaçãoONGAEmpresas | Ano 1 | Ano 2 |
-| MC12. Plano de manutenção e restauro das áreas de salinas. | 1 | 1 - Data de elaboração do Plano de Manutenção e Restauro de Salinas;2 - Proporção da área atual de salinas mantidas ou restauradas;3 - Proporção de área contratualizada com áreas dedicadas ao abrigo e reprodução das espécies alvo. | 1 - Plano de Manutenção e Restauro de Salinas aprovado nos primeiros 2 anos após a aprovação do plano de gestão;2 - 100 % da área atual de salinas mantida ou restaurada (incluindo limpeza de valas e esteiros, preservação das comportas, conservação dos muros);3 - 50 % da área ocupada por salinas contratualizada para a conservação da avifauna. | ICNF | DGRMAdministração do Porto de LisboaTurismo de LisboaMunicípios e suas associaçõesProprietários e produtores aquícolas e salineirosCentros de InvestigaçãoONGA | Ano 1 | Ano 10 |
+| **MC3**. Restabelecer a composição, estrutura e continuidade do ecossistema fluvial e ribeirinho. | 1 | 1 - Proporção de galeria ripícola objeto de projetos de restauro orientado para a promoção dos tipos de habitat alvo;2 - Proporção das estruturas hidráulicas eliminadas (sujeitas a prévia ponderação);3 - Proporção das estruturas hidráulicas (que se mantêm) com condições de transponibilidade. | 1 - 50 % da galeria ripícola degradada com ocorrência real ou potencial dos tipos de habitat alvo;2 - 100 % das estruturas assinaladas para eliminação;3 - 100 % das estruturas mantidas. | ICNFAPA/ARHGPP | Autoridade de Gestão do PEPACMunicípios e suas AssociaçõesCCDR/AgriProprietários e agricultores e suas organizações | Ano 1 | Ano 10 |
+| **MC4**. Promover a gestão adequada de charcos e prados higrófilos. | 1 | 1 - Data de conclusão do estudo de métodos de controlo de plantas invasoras de prados húmidos;2 - Proporção de área contratualizada. | 1 - Ano 3 após a aprovação do plano de gestão;2 - 100 % da área elegível. | ICNFGPP | Autoridade de gestão do PEPACCCDR/AgriProprietários, gestores florestais, agricultores e suas organizações | Ano 1 | Ano 10 |
+| **MC5**. Promover a gestão adequada de tipos de habitat de matos e florestais psamófilos. | 2 | 1 - Proporção de área contratualizada para gestão florestal orientada para a conservação dos valores naturais protegidos;2 - Área de povoamentos de exóticas reconvertida;3 - Extensão de acessos reordenados. | 1 - 50 % da área elegível;2 - 30 % da área de povoamentos de exóticas reconvertida;3 - 100 % da extensão de acessos que necessitem de ordenamento. | ICNFGPP | Autoridade de gestão do PEPACCCDR/AgriMunicípiosProprietários, gestores florestais e suas organizações | Ano 1 | Ano 10 |
+| **MC6**. Promover a gestão adequada dos montados e prados secos. | 1 | Proporção de área contratualizada. | 100 % da área elegível. | ICNFGPP | Autoridade de gestão do PEPACCCDR/AgriProprietários, agricultores e suas organizações | Ano 1 | Ano 10 |
+| **MC7**. Prevenir, intervir precocemente e controlar as populações de espécies de flora e fauna exóticas invasoras. | 1 | 1 - Data de elaboração dos Planos de controlo de espécies exóticas invasoras;2 - Proporção das áreas prioritárias intervencionadas;3 - Dimensão da população de espécies exóticas invasoras;4 - Número de ações de monitorização para deteção precoce de instalação de espécies exóticas invasoras. | 1 - Ano 2 após a aprovação do plano de gestão;2 - 100 % das áreas prioritárias;3 - Redução da dimensão da população de exóticas invasoras nas áreas intervencionadas;4 - 10 (1 por ano). | ICNFMunicípios e suas associações | CCDRAPAProprietários, agricultores, gestores florestais e suas organizaçõesONGACentros de Investigação | Ano 1 | Ano 10 |
+| **MC8**. Estabelecer plano de deteção e atuação frente a pragas e doenças. | 3 | Data de identificação das medidas e orientações fitossanitárias da ZEC e da ZPE. | Ano 5 após a aprovação do plano de gestão. | ICNF | Autoridade de gestão do PEPACProprietários e gestores florestais e suas associaçõesAssociações de desenvolvimento localCentros de investigação | Ano 1 | Ano 10 |
+| **MC9**. Adaptar o planeamento e a operacionalização da gestão integrada dos fogos rurais à salvaguarda dos valores naturais protegidos. | 2 | 1 - Proporção de Planos/Programas adaptados e incluindo diretrizes de salvaguarda;2 - Proporção de planos de recuperação pós-incêndio com medidas orientadas para o restauro e salvaguarda dos valores naturais protegidos. | 1 - 100 %;2 - 100 %. | ICNFComissões Regionais, Sub-Regionais e Municipais de Gestão Integrada de Fogos Rurais (CMGIFR) | Autoridade de gestão do PEPACCCDRAPAMunicípiosProprietários, agricultores, gestores florestais e suas organizações | Ano 1 | Ano 10 |
+| **MC10**. Ordenar acessibilidades e promover a utilização racional e sustentável dos territórios no desenvolvimento das atividades desportivas, recreativas e turísticas. | 1 | 1 - Data de elaboração de estudo de ordenamento de acessibilidades (viárias, cicláveis e pedonais) e estacionamento;2 - Proporção dos acessos indevidos vedados;3 - Proporção da rede de passadiços com necessidades de reformulação intervencionada;4 - Extensão de passadiços/área de outras estruturas sujeita a manutenção sem recurso a maquinaria pesada;5 - Intervenções previstas no estudo de ordenamento de acessibilidades e estacionamento;6 - Número de painéis colocados. | 1 - Estudo finalizado nos primeiros 2 anos após a aprovação do plano de gestão;2 - 50 % dos acessos indevidos vedados;3 - 100 % da extensão/rede de passadiços com necessidades de reformulação intervencionada;4 - 100 % da extensão de passadiços/área de outras estruturas sujeita a manutenção sem recurso a maquinaria pesada;5 - 50 % das intervenções previstas no estudo com prioridade considerada Elevada;6 - 1 painel em cada acesso ao areal/zona ribeirinha/outro espaço natural e 2 painéis por sede de freguesia. | ICNFMunicípios | ONGAAPA/ARHAutoridade Marítima NacionalDGRMServiço Municipal de Proteção CivilCentros de InvestigaçãoAssociações Desportivas (locais e regionais)Agentes de Animação Turística | Ano 1 | Ano 10 |
+| **MC11**. Colmatar lacunas de informação referentes a lagunas costeiras, charcos e bosques higrófilos (tipos de habitat 1150, 3160, 3170 e 92A0) e elaborar uma cartografia dos biótopos da avifauna. | 2 | 1 - Data de conclusão do estudo dos tipos de habitat;2 - Data da conclusão da cartografia dos biótopos da avifauna. | 1 - Ano 2 após a aprovação do plano de gestão;2 - Ano 2 após a aprovação do plano de gestão. | ICNF | Centros de investigaçãoONGAEmpresas | Ano 1 | Ano 2 |
+| **MC12**. Plano de manutenção e restauro das áreas de salinas. | 1 | 1 - Data de elaboração do Plano de Manutenção e Restauro de Salinas;2 - Proporção da área atual de salinas mantidas ou restauradas;3 - Proporção de área contratualizada com áreas dedicadas ao abrigo e reprodução das espécies alvo. | 1 - Plano de Manutenção e Restauro de Salinas aprovado nos primeiros 2 anos após a aprovação do plano de gestão;2 - 100 % da área atual de salinas mantida ou restaurada (incluindo limpeza de valas e esteiros, preservação das comportas, conservação dos muros);3 - 50 % da área ocupada por salinas contratualizada para a conservação da avifauna. | ICNF | DGRMAdministração do Porto de LisboaTurismo de LisboaMunicípios e suas associaçõesProprietários e produtores aquícolas e salineirosCentros de InvestigaçãoONGA | Ano 1 | Ano 10 |
 |  |  |  |  |  | Fundação para a Proteção e Gestão Ambiental das Salinas do SamoucoFundação João Gonçalves JúniorCâmara Municipal de Alcochete |  |  |
-| MC13. Estabelecimento de áreas de refúgio de avifauna aquática. | 2 | 1 - Data de elaboração do estudo;2- Data de implementação das conclusões do estudo;3 - Percentagem de áreas de refúgio implementadas. | 1 - Até ao ano 2 após a aprovação do plano de gestão;2 - Até ao ano 6 após a aprovação do plano de gestão;3 - 100 % de áreas de refúgio implementadas. | ICNF | DGRMAdministração do Porto de LisboaTurismo de LisboaMunicípios e suas associaçõesProprietários e produtores aquícolas e salineirosCentros de InvestigaçãoONGAFundação para a Proteção e Gestão Ambiental das Salinas do SamoucoFundação João Gonçalves Júnior | Ano 1 | Ano 10 |
-| MC14. Promover a gestão adequada dos arrozais. | 1 | 1 - Proporção de áreas de arrozal sob contratos de gestão compatíveis com os compromissos da medida;2 - Grupo de trabalho para a promoção de modos de produção integrada e biológica de arroz. | 1 - 50%;2 - Criação do grupo de trabalho até ao ano 2 após a aprovação do plano de gestão | ICNFGPP | Autoridade de Gestão do PEPACCCDR/AgriOrizicultores e suas associaçõesEmpresasMunicípiosONGA | Ano 1 | Ano 10 |
-| MC15. Promover/assegurar densidades de coelho-bravo adequadas ao habitat na ZPE e na sua envolvente. | 2 | 1 - Data de elaboração do Plano Global de Gestão Cinegética;2 - Data do início da implementação do Plano. | 1 - Ano 2 após a aprovação do plano de gestão;2 - Ano 4 após a aprovação do plano de gestão. | ICNFGPP | Autoridade de gestão do PEPACCCDR/AgriOrganizações do sector da caçaProprietários e entidades gestoras da caçaCentros de InvestigaçãoONGACompanhia das Lezírias | Ano 1 | Ano 10 |
-| MC16. Reforçar a fiscalização. | 2 | 1 - Número de ações de formação e capacitação das autoridades policiais e Vigilantes da Natureza;2 - Número de ações de fiscalização por ano. | 1 - 1 ação por ano;2 - 24 ações (2 ações por mês). | SEPNA/GNRPolícia MarítimaICNFCCDR | MunicípiosEntidades Gestoras e proprietários | Ano 1 | Ano 10 |
-| MC17. Promover a partilha de informação, formar e apoiar os gestores florestais e agrícolas e sensibilizar os demais agentes, a população local e os visitantes para a conservação dos valores naturais da ZEC e da ZPE. | 3 | 1 - Data da criação de conteúdos digitais;2 - Número de iniciativas. | 1 - Ano 5 após a aprovação do plano de gestão;2 - Cinco iniciativas por ano. | ICNFGPPCCDR/AgriAssociações de produtores e de gestores florestais e agrícolasMunicípios | Autoridade de gestão do PEPACCCDRAPATurismo de LisboaEscolasAssociações de desenvolvimento localCompanhia das LezíriasONGA | Ano 1 | Ano 10 |
-| MC18. Implementação de medidas anticolisão e anti eletrocussão em linhas de distribuição e transporte de energia elétrica | 1 | 1 - Realização de um estudo de caracterização da situação atual;2 - Extensão das linhas elétricas com medidas de proteção para a avifauna;3 - Elaboração de um programa de monitorização da mortalidade de avifauna. | 1 - Ano 2 após a aprovação do plano de gestão;2 - 100 % dos troços das linhas classificadas como muito críticas ou críticas que atravessam a ZPE;3 - Programa estabelecido no ano 2 após a aprovação do plano de gestão e monitorização a decorrer posteriormente. | ICNF | E-REDESRENONGA | Ano 1 | Ano 10 |
-| MC19. Estabelecer e consolidar os critérios e parâmetros de quantificação e avaliação dos objetivos de conservação, e os recursos necessários para a execução das medidas de conservação. | 1 | 1 - Quadro de densificação dos objetivos de conservação, indicadores e metas;2 - Quadro de estimativa preliminar dos recursos financeiros, humanos e técnicos para os primeiros cinco anos de execução do plano. | 1 - Quadros aprovados pela(s) entidade(s) responsável(eis) pelo plano de gestão até ao final do 2.º ano de execução do plano. | ICNF | GPPCCDR | Ano 1 | Ano 2 |
+| **MC13**. Estabelecimento de áreas de refúgio de avifauna aquática. | 2 | 1 - Data de elaboração do estudo;2- Data de implementação das conclusões do estudo;3 - Percentagem de áreas de refúgio implementadas. | 1 - Até ao ano 2 após a aprovação do plano de gestão;2 - Até ao ano 6 após a aprovação do plano de gestão;3 - 100 % de áreas de refúgio implementadas. | ICNF | DGRMAdministração do Porto de LisboaTurismo de LisboaMunicípios e suas associaçõesProprietários e produtores aquícolas e salineirosCentros de InvestigaçãoONGAFundação para a Proteção e Gestão Ambiental das Salinas do SamoucoFundação João Gonçalves Júnior | Ano 1 | Ano 10 |
+| **MC14**. Promover a gestão adequada dos arrozais. | 1 | 1 - Proporção de áreas de arrozal sob contratos de gestão compatíveis com os compromissos da medida;2 - Grupo de trabalho para a promoção de modos de produção integrada e biológica de arroz. | 1 - 50%;2 - Criação do grupo de trabalho até ao ano 2 após a aprovação do plano de gestão | ICNFGPP | Autoridade de Gestão do PEPACCCDR/AgriOrizicultores e suas associaçõesEmpresasMunicípiosONGA | Ano 1 | Ano 10 |
+| **MC15**. Promover/assegurar densidades de coelho-bravo adequadas ao habitat na ZPE e na sua envolvente. | 2 | 1 - Data de elaboração do Plano Global de Gestão Cinegética;2 - Data do início da implementação do Plano. | 1 - Ano 2 após a aprovação do plano de gestão;2 - Ano 4 após a aprovação do plano de gestão. | ICNFGPP | Autoridade de gestão do PEPACCCDR/AgriOrganizações do sector da caçaProprietários e entidades gestoras da caçaCentros de InvestigaçãoONGACompanhia das Lezírias | Ano 1 | Ano 10 |
+| **MC16**. Reforçar a fiscalização. | 2 | 1 - Número de ações de formação e capacitação das autoridades policiais e Vigilantes da Natureza;2 - Número de ações de fiscalização por ano. | 1 - 1 ação por ano;2 - 24 ações (2 ações por mês). | SEPNA/GNRPolícia MarítimaICNFCCDR | MunicípiosEntidades Gestoras e proprietários | Ano 1 | Ano 10 |
+| **MC17**. Promover a partilha de informação, formar e apoiar os gestores florestais e agrícolas e sensibilizar os demais agentes, a população local e os visitantes para a conservação dos valores naturais da ZEC e da ZPE. | 3 | 1 - Data da criação de conteúdos digitais;2 - Número de iniciativas. | 1 - Ano 5 após a aprovação do plano de gestão;2 - Cinco iniciativas por ano. | ICNFGPPCCDR/AgriAssociações de produtores e de gestores florestais e agrícolasMunicípios | Autoridade de gestão do PEPACCCDRAPATurismo de LisboaEscolasAssociações de desenvolvimento localCompanhia das LezíriasONGA | Ano 1 | Ano 10 |
+| **MC18**. Implementação de medidas anticolisão e anti eletrocussão em linhas de distribuição e transporte de energia elétrica | 1 | 1 - Realização de um estudo de caracterização da situação atual;2 - Extensão das linhas elétricas com medidas de proteção para a avifauna;3 - Elaboração de um programa de monitorização da mortalidade de avifauna. | 1 - Ano 2 após a aprovação do plano de gestão;2 - 100 % dos troços das linhas classificadas como muito críticas ou críticas que atravessam a ZPE;3 - Programa estabelecido no ano 2 após a aprovação do plano de gestão e monitorização a decorrer posteriormente. | ICNF | E-REDESRENONGA | Ano 1 | Ano 10 |
+| **MC19**. Estabelecer e consolidar os critérios e parâmetros de quantificação e avaliação dos objetivos de conservação, e os recursos necessários para a execução das medidas de conservação. | 1 | 1 - Quadro de densificação dos objetivos de conservação, indicadores e metas;2 - Quadro de estimativa preliminar dos recursos financeiros, humanos e técnicos para os primeiros cinco anos de execução do plano. | 1 - Quadros aprovados pela(s) entidade(s) responsável(eis) pelo plano de gestão até ao final do 2.º ano de execução do plano. | ICNF | GPPCCDR | Ano 1 | Ano 2 |
 
 * O campo relevância representa a importância relativa de cada uma das medidas de conservação e encontra-se classificado da seguinte forma: 1 – Muito elevada; 2 – Elevada; 3 – Média.
 
@@ -516,99 +565,143 @@ O Quadro 7 estabelece a correspondência entre as medidas de conservação compl
 
 Quadro 7 - Modelo de matriz de avaliação final da implementação do plano de gestão
 
-| Tipos de habitat e espécies de estuários e vegetação halófita | Tipos de habitat e espécies de estuários e vegetação halófita | Tipos de habitat e espécies de estuários e vegetação halófita | Tipos de habitat e espécies de estuários e vegetação halófita | Tipos de habitat e espécies de estuários e vegetação halófita | Tipos de habitat e espécies de estuários e vegetação halófita | Tipos de habitat e espécies de estuários e vegetação halófita | Tipos de habitat e espécies de estuários e vegetação halófita | Tipos de habitat e espécies de estuários e vegetação halófita |
+| **Tipos de****habitat****e****espécies de estuários****e****vegetação halófita** |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Objetivo de conservação[Indicador de resultado] | Meta | Meta alcançada | Medida de conservação complementar | Indicadores de realização | Realização atingida/meta | Grau de execução(não iniciada/ em curso/concluída) | Revisão(manter/não manter/alterar) | Obs. |
+| **Objetivo de conservação**[Indicador de resultado] | **Meta** | **Meta alcançada** | **Medida de conservação complementar** | **Indicadores****de realização** | **Realização atingida/meta** | **Grau de execução**(não iniciada/ em curso/concluída) | **Revisão**(manter/não manter/alterar) | **Obs.** |
 |  |  |  |  |  |  |  |  |  |
-| Tipos de habitat e espécies (que não aves) de zonas húmidas de água doce, rios e galerias ripícolas | Tipos de habitat e espécies (que não aves) de zonas húmidas de água doce, rios e galerias ripícolas | Tipos de habitat e espécies (que não aves) de zonas húmidas de água doce, rios e galerias ripícolas | Tipos de habitat e espécies (que não aves) de zonas húmidas de água doce, rios e galerias ripícolas | Tipos de habitat e espécies (que não aves) de zonas húmidas de água doce, rios e galerias ripícolas | Tipos de habitat e espécies (que não aves) de zonas húmidas de água doce, rios e galerias ripícolas | Tipos de habitat e espécies (que não aves) de zonas húmidas de água doce, rios e galerias ripícolas | Tipos de habitat e espécies (que não aves) de zonas húmidas de água doce, rios e galerias ripícolas | Tipos de habitat e espécies (que não aves) de zonas húmidas de água doce, rios e galerias ripícolas |
-| Objetivo de conservação[Indicador de resultado] | Meta | Meta alcançada | Medida de conservação complementar | Indicadores de realização | Realização atingida/meta | Grau de execução(não iniciada/em curso/concluída) | Revisão(manter/não manter/alterar) | Obs. |
+| **Tipos de****habitat****e****espécies (que não aves) de zonas húmidas de água doce, rios****e****galerias ripícolas** |  |  |  |  |  |  |  |  |
+| **Objetivo de conservação**[Indicador de resultado] | **Meta** | **Meta alcançada** | **Medida de conservação complementar** | **Indicadores****de realização** | **Realização atingida/meta** | **Grau de execução**(não iniciada/em curso/concluída) | **Revisão**(manter/não manter/alterar) | **Obs.** |
 |  |  |  |  |  |  |  |  |  |
-| Tipos de habitat e espécies de dunas móveis e paleodunas | Tipos de habitat e espécies de dunas móveis e paleodunas | Tipos de habitat e espécies de dunas móveis e paleodunas | Tipos de habitat e espécies de dunas móveis e paleodunas | Tipos de habitat e espécies de dunas móveis e paleodunas | Tipos de habitat e espécies de dunas móveis e paleodunas | Tipos de habitat e espécies de dunas móveis e paleodunas | Tipos de habitat e espécies de dunas móveis e paleodunas | Tipos de habitat e espécies de dunas móveis e paleodunas |
-| Objetivo de conservação[Indicador de resultado] | Meta | Meta alcançada | Medida de conservação complementar | Indicadores de realização | Realização atingida/meta | Grau de execução(não iniciada/em curso/concluída) | Revisão(manter/não manter/alterar) | Obs. |
+| **Tipos de****habitat****e****espécies de dunas móveis****e****paleodunas** |  |  |  |  |  |  |  |  |
+| **Objetivo de conservação**[Indicador de resultado] | **Meta** | **Meta alcançada** | **Medida de conservação complementar** | **Indicadores****de realização** | **Realização atingida/meta** | **Grau de execução**(não iniciada/em curso/concluída) | **Revisão**(manter/não manter/alterar) | **Obs.** |
 |  |  |  |  |  |  |  |  |  |
-| Tipos de habitat e espécies de vegetação zonal e mosaicos agroflorestais | Tipos de habitat e espécies de vegetação zonal e mosaicos agroflorestais | Tipos de habitat e espécies de vegetação zonal e mosaicos agroflorestais | Tipos de habitat e espécies de vegetação zonal e mosaicos agroflorestais | Tipos de habitat e espécies de vegetação zonal e mosaicos agroflorestais | Tipos de habitat e espécies de vegetação zonal e mosaicos agroflorestais | Tipos de habitat e espécies de vegetação zonal e mosaicos agroflorestais | Tipos de habitat e espécies de vegetação zonal e mosaicos agroflorestais | Tipos de habitat e espécies de vegetação zonal e mosaicos agroflorestais |
-| Objetivo de conservação[Indicador de resultado] | Meta | Meta alcançada | Medida de conservação complementar | Indicadores de realização | Realização atingida/meta | Grau de execução(não iniciada/em curso/concluída) | Revisão(manter/não manter/alterar) | Obs. |
+| **Tipos de****habitat****e****espécies de vegetação zonal****e****mosaicos agroflorestais** |  |  |  |  |  |  |  |  |
+| **Objetivo de conservação**[Indicador de resultado] | **Meta** | **Meta alcançada** | **Medida de conservação complementar** | **Indicadores****de realização** | **Realização atingida/meta** | **Grau de execução**(não iniciada/em curso/concluída) | **Revisão**(manter/não manter/alterar) | **Obs.** |
 |  |  |  |  |  |  |  |  |  |
-| Avifauna de zonas húmidas | Avifauna de zonas húmidas | Avifauna de zonas húmidas | Avifauna de zonas húmidas | Avifauna de zonas húmidas | Avifauna de zonas húmidas | Avifauna de zonas húmidas | Avifauna de zonas húmidas | Avifauna de zonas húmidas |
-| Objetivo de conservação[Indicador de resultado] | Meta | Meta alcançada | Medida de conservação complementar | Indicadores de realização | Realização atingida/meta | Grau de execução(não iniciada/em curso/concluída) | Revisão(manter/não manter/alterar) | Obs. |
+| **Avifauna de zonas húmidas** |  |  |  |  |  |  |  |  |
+| **Objetivo de conservação**[Indicador de resultado] | **Meta** | **Meta alcançada** | **Medida de conservação complementar** | **Indicadores****de realização** | **Realização atingida/meta** | **Grau de execução**(não iniciada/em curso/concluída) | **Revisão**(manter/não manter/alterar) | **Obs.** |
 |  |  |  |  |  |  |  |  |  |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472379.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472379.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472380.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472380.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472381.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472381.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472382.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472382.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472383.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472383.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472384.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472384.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472385.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472385.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472386.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472386.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472387.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472387.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472388.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472388.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472389.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472389.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472390.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472390.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472391.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472391.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472392.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472392.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472393.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472393.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472394.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472394.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472395.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472395.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472396.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472396.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472397.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472397.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472398.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472398.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472399.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472399.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472400.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472400.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472401.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472401.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472402.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472402.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472403.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472403.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472404.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472404.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472405.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472405.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472406.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472406.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472407.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472407.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472408.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472408.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472409.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472409.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472410.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472410.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472411.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472411.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472412.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472412.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472413.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472413.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472414.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472414.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472415.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472415.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472416.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472416.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472417.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472417.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1160416973/1160472418.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1160416973/1160472418.png) |
+| --- |
+
+119949454
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:18px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl9 { border-collapse:collapse; border-width:1px; border-color:rgb(0,0,0); } .Tbl10 { min-height:19px; } .Tbl11 { min-height:28px; } .Tbl12 { min-height:30px; } .Tbl13 { min-height:33px; } .Tbl14 { height:17px; } .Tbl15 { min-height:47px; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl19 { min-height:43px; } .Tbl20 { min-height:77px; } .Tbl21 { min-height:53px; } .Tbl22 { min-height:49px; } .Tbl23 { min-height:94px; } .Tbl24 { min-height:104px; } .Tbl25 { min-height:59px; } .Tbl26 { min-height:69px; } .Tbl27 { min-height:65px; } .Tbl28 { min-height:46px; } .Tbl29 { min-height:56px; } .Tbl30 { min-height:76px; } .Tbl31 { min-height:67px; } .Tbl32 { min-height:42px; } .Tbl33 { text-align:justify; text-align-last:justify; } .Tbl34 { min-height:45px; } .Tbl35 { min-height:51px; } .Tbl36 { min-height:44px; } .Tbl37 { min-height:80px; } .Tbl38 { min-height:70px; } .Tbl39 { min-height:60px; } .Tbl40 { min-height:39px; } .Tbl41 { min-height:54px; } .Tbl42 { min-height:58px; } .Tbl43 { min-height:68px; } .Tbl44 { min-height:118px; } .Tbl45 { min-height:93px; } .Tbl46 { min-height:37px; } .Tbl47 { min-height:267px; } .Tbl48 { min-height:120px; } .Tbl49 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl50 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl51 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl52 { min-height:101px; } .Tbl53 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl54 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl55 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl56 { min-height:122px; } .Tbl57 { min-height:81px; } .Tbl58 { min-height:133px; } .Tbl59 { min-height:110px; } .Tbl60 { min-height:213px; } .Tbl61 { min-height:61px; } .Tbl62 { min-height:134px; } .Tbl63 { min-height:88px; } .Tbl64 { min-height:201px; } .Tbl65 { min-height:115px; } .Tbl66 { min-height:143px; } .Tbl67 { min-height:74px; } .Tbl68 { min-height:148px; } .Tbl69 { min-height:116px; } .Tbl70 { min-height:91px; } .Tbl71 { min-height:21px; } .Tbl72 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(191,191,191); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; }

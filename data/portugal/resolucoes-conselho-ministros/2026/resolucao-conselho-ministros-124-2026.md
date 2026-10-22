@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/124/2026/06/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/124-2026-1131865548
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-15T00:00:00Z'
+  retrieved_at: '2026-10-22T18:43:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ec17a2333cba129434495207e818d77ad81ca59a0edde220336819aca20041c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06bf35608c294bcb171bfecf50cc33867e408502628b9ad7a368307c7158c039
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:43:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,12 +73,18 @@ subjects:
 - Conselho de Ministros
 - CP
 - Despesas Públicas
-- Transporte de Mercadorias
+- Governo XXV
 - Serviço Público
+- Transporte de Mercadorias
 - Transporte de Passageiros
 - Transporte Público
-- Governo XXV
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:43/2020
+  label: Altera, com efeitos a 3 de junho de 2026, o n.º 2 da Resolução do Conselho de Ministros n.º 43/2020, de 12 de junho,
+    Diário da República n.º 113/2020, Série I
+  source: null
+  date: '2020-06-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -107,23 +113,51 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/5/2024/01/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/5/2024/01/05/p/dre
+- type: cites
+  target: pt:dre:135623468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175659855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836161876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:904742815:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:43:55Z'
   warnings: []
   errors: []
 ---
 
 # Resolução do Conselho de Ministros n.º 124/2026
 
-Através da [Resolução do Conselho de Ministros n.º 43/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/43-2020-135623468), de 12 de junho, alterada pelas Resoluções do Conselho de Ministros n.<sup>os</sup>[162/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/162-2021-175659855), de 10 de dezembro, [5/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/5-2024-836161876), de 5 de janeiro, e [13/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/13-2025-904742815), de 24 de janeiro, foi autorizada a realização da despesa relativa às compensações financeiras a pagar pelo Estado à CP - Comboios de Portugal, E. P. E. (CP, E. P. E.), pelo cumprimento do serviço público de transporte ferroviário, para o período de 2020 a 2029, nos termos do Contrato de Obrigações de Serviço Público celebrado entre o Estado e a CP, E. P. E., tendo sido fixado o valor máximo dos encargos orçamentais a suportar em cada ano económico.
+Através da [Resolução do Conselho de Ministros n.º 43/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/43-2020-135623468), de 12 de junho, alterada pelas Resoluções do Conselho de Ministros n.os[162/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/162-2021-175659855), de 10 de dezembro, [5/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/5-2024-836161876), de 5 de janeiro, e [13/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/13-2025-904742815), de 24 de janeiro, foi autorizada a realização da despesa relativa às compensações financeiras a pagar pelo Estado à CP - Comboios de Portugal, E. P. E. (CP, E. P. E.), pelo cumprimento do serviço público de transporte ferroviário, para o período de 2020 a 2029, nos termos do Contrato de Obrigações de Serviço Público celebrado entre o Estado e a CP, E. P. E., tendo sido fixado o valor máximo dos encargos orçamentais a suportar em cada ano económico.
 
 O contrato de prestação de serviço público entre o Estado e a CP, E. P. E., através do qual as partes regulam as condições de prestação do serviço público de transporte ferroviário nacional de passageiros, fixa as obrigações de prestação daquele serviço público a que a CP, E. P. E., se vincula e as condições em que são devidas compensações financeiras, assim como a outorga de direitos exclusivos, como contrapartida pela imposição das referidas obrigações.
 
@@ -184,3 +218,5 @@ e) 128 779 936,81 €, relativos à compensação financeira referente ao ano de
 6 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 3 de junho de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119948770

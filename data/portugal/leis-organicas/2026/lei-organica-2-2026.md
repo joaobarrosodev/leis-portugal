@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/2/2026/07/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2026-1151256045
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-23T00:00:00Z'
+  retrieved_at: '2026-10-22T18:47:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 852963e46f5919b08ddd62488ab765dcc799ea2cdca792a2ff2b8497b5385268
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6ffc5c0450bebbc47994248dcb5d4b2a28bdcdc9dcceff15b18afaa7b1397f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:47:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Parlamentar
 - Campanha Eleitoral
 - Cargos Políticos
-- Eleição
-- RDP
-- RTP
 - Círculo Eleitoral
 - Comissão Nacional de Eleições
 - Direito de Antena
+- Eleição
 - Eleição Presidencial
 - Fiscalização
-- Presidente da República
 - Imunidade Parlamentar
 - Lei Eleitoral
-- Sistema Eleitoral
-- Radiodifusão
+- Parlamentar
 - Partido Político
+- Presidente da República
 - Propaganda Política
+- Radiodifusão
+- RDP
 - Referendo
 - Resultado Eleitoral
+- RTP
+- Sistema Eleitoral
 - Televisão
 relationships:
 - type: cites
@@ -96,16 +96,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/1/2001/08/14/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/1/2001/08/14/p/dre
+- type: cites
+  target: pt:dre:186934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655916:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:47:32Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +178,9 @@ Trinta minutos diários, divididos em dois blocos iguais, de quinze minutos segu
 
 6 - Para efeitos do disposto na alínea e) do n.º 2, entende-se por radiodifusão de âmbito local o conjunto de operadores radiofónicos com serviços de programas generalistas e temáticos informativos, de âmbito local.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - [...]
 
@@ -174,7 +192,9 @@ Trinta minutos diários, divididos em dois blocos iguais, de quinze minutos segu
 
 5 - [Anterior n.º 4.]
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - [...]
 
@@ -220,7 +240,9 @@ Trinta minutos diários, divididos em dois blocos iguais, de quinze minutos segu
 
 5 - Para efeitos do disposto na alínea e) do n.º 2, entende-se por radiodifusão de âmbito local o conjunto de operadores radiofónicos com serviços de programas generalistas e temáticos informativos, de âmbito local.
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - [...]
 
@@ -230,7 +252,9 @@ Trinta minutos diários, divididos em dois blocos iguais, de quinze minutos segu
 
 4 - Para os sorteios previstos no presente artigo são convocados os representantes das candidaturas.
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - [...]
 
@@ -284,7 +308,9 @@ Trinta minutos diários, divididos em dois blocos iguais, de quinze minutos segu
 
 5 - Para efeitos do disposto na alínea e) do n.º 1, entende-se por radiodifusão de âmbito local o conjunto de operadores radiofónicos com serviços de programas generalistas e temáticos informativos, de âmbito local.
 
-###### Artigo 234.º — [...]
+Artigo 234.º
+
+[...]
 
 1 - [...]
 
@@ -304,14 +330,16 @@ A presente lei entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovada em 12 de junho de 2026.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar-Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar-Branco.
 
-**Promulgada em 14 de julho de 2026.**
+Promulgada em 14 de julho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendada em 16 de julho de 2026.**
+Referendada em 16 de julho de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119949109

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/51/2008/08/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/51-2008-453487
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:10:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2835ceeda08e6bd97a56236f8a83f531d5fa1a418d3d56c3f1eac5deacf26a64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9902faeaa34311879de5258f743cd2c604cf7ecf31ab8d5e66a47af534c35a62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:10:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
 - Definição de Competências
 - Direcção Regional de Educação Especial e Reabilitação
 - Formas de Provimento
-- Recrutamento de Pessoal
-- Secretaria Regional da Educação e Cultura
 - Integração de Trabalhadores
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
+- Recrutamento de Pessoal
+- Reestruturação de Serviços
 - Regime de Pessoal
+- Secretaria Regional da Educação e Cultura
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
@@ -86,16 +86,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/14/2008/06/30/m/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/14/2008/06/30/m/dre
+- type: cites
+  target: pt:dre:456262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-regulamentar-regional:14/2008/M
+  label: "Rectifica o Decreto Regulamentar Regional n.º 14/2008/M, de 30 de Junho, DR.IS [124]\0\0"
+  source: null
+  date: '2008-06-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:10:23Z'
   warnings: []
   errors: []
 ---

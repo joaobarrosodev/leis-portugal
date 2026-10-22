@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 99/1991, 2º Suplemento, Série I-B de 1991-04-30
   number: '99'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2388-(4) a 2388-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/099b02/00040004.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/81/1991/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/81-1991-459584
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a2094be74588aad4708df758a870f92a7246ee230738aedd21741d25df7d752
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4be111a647de664acfc2ce9ea78d6ff2e7c4f3c7d5a172f5d193beb6f9fa73f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,30 +68,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bolsa de Formação Profissional
-- Instituto do Emprego e Formação Profissional
 - Formação Profissional
 - FSE
+- Instituto do Emprego e Formação Profissional
 - Remuneração
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/70/1991/03/25/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/70/1991/03/25/p/dre
+- type: cites
+  target: pt:dre:621568:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:31Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 81/91
+# Declaração de rectificação n.º 81/91
 
 Segundo comunicação do Ministério do Emprego e da Segurança Social, o [Despacho Normativo n.º 70/91](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/70-1991-621568), publicado no Diário da República, n.º 70, de 25 de Março de 1991, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão que assim se rectifica:
 

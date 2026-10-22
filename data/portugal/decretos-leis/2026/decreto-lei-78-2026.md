@@ -117,6 +117,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+- type: cites
+  target: pt:dre:107791612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70196960:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:76/2012
+  label: Revoga, a partir de 1 de abril de 2026, o Decreto-Lei n.º 76/2012, de 26 de março, Diário da República n.º 61/2012,
+    Série I
+  source: null
+  date: '2012-03-26'
 article_structure:
   article_count: 18
   section_count: 1

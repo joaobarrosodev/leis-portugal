@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/32/2025/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/32-2025-924866618
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-15T00:00:00Z'
+  retrieved_at: '2026-10-22T19:16:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5335c6080f3c77c43987443e1082294ccc46f545702f017b3da7d5c8afed0e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cdc475dd2143afad32df74782d36aaf61e3d2ca77b598c97141befa4928b3e86
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:16:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituição de Crédito
-- Inconstitucionalidade
-- Banca
-- Interpretação do Direito
-- Tribunal Constitucional
-- TAXA Adicional
 - Adicional de Solidariedade sobre o Setor Bancário
+- Banca
+- Inconstitucionalidade
+- Instituição de Crédito
+- Interpretação do Direito
+- TAXA Adicional
+- Tribunal Constitucional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/actconst/478/2025/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/actconst/478/2025/07/10/p/dre
+- type: cites
+  target: pt:dre:924288976:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:acordao-tribunal-constitucional:478/2025
+  label: Retifica o Acórdão do Tribunal Constitucional n.º 478/2025, de 10 de julho, Diário da República n.º 131/2025, Série
+    I
+  source: null
+  date: '2025-07-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:16:05Z'
   warnings: []
   errors: []
 ---
@@ -103,3 +113,5 @@ deve ler-se:
 «Mariana Canotilho (vencida, nos termos da declaração de voto junta)»
 
 Lisboa, 10 de julho de 2025. - A Técnica Superior do Núcleo de Apoio Documental e Informação Jurídica, Paula Nóvoa.
+
+119291474

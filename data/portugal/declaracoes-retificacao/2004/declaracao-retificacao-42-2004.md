@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/42/2004/05/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/42-2004-270435
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-20T00:00:00Z'
+  retrieved_at: '2026-10-22T19:03:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 265cad2f983de54e604249a5385194fc3b5d9cdb4fc6d943c6302821e3e94159
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce5bb2c7a1688e8b2f7b4193980f9613e389b8eec4d0e25aa58073648c914562
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:03:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Regional de Planeamento e Finanças
-- Secretaria Regional do Plano e Finanças
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 - Remuneração
+- Secretaria Regional do Plano e Finanças
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/7/2004/03/29/m/dre
@@ -81,13 +81,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:03:39Z'
   warnings: []
   errors: []
 ---
@@ -112,10 +112,10 @@ b) O Serviço de Apoio Administrativo e de Coordenação da Emissão de Cheques 
 
 No mapa anexo, onde se lê:
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/05/118b00/31613161.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/05/118b00/31613161.pdf)](https://files.diariodarepublica.pt/1s/2004/05/118b00/31613161.pdf)
 
 deve ler-se:
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/05/118b00/31613161.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/05/118b00/31613161.pdf)](https://files.diariodarepublica.pt/1s/2004/05/118b00/31613161.pdf)
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 3 de Maio de 2004. - O Secretário-Geral, José M. Sousa Rego.

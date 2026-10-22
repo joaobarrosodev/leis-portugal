@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/14200/0001200019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/418/2021/07/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/418-2021-168184699
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-07-23T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d033adec620f361ce49a5fc32dc4a3bb182f4b1f7c5965c3a92210c088a3608
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd02ce1bec008b2710cbb38c881c171b20bb1ec745818338daa136f234cfd567
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,15 +70,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso ao Direito
-- Insolvência
 - Ajuda Judicial
-- Inconstitucionalidade
 - Código da Insolvência e da Recuperação de Empresas
+- Custas Judiciais
+- Inconstitucionalidade
+- Insolvência
 - Interpretação do Direito
 - Rendimento
 - Situação Económica Dificil
 - Taxa
-- Custas Judiciais
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/53/2004/03/18/p/dre
@@ -92,16 +92,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/4/2019/09/13/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/4/2019/09/13/p/dre
+- type: cites
+  target: pt:dre:124680587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:13Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +156,9 @@ Fiduciário
 
 2 - ...'
 
-###### Artigo 248.º — Apoio judiciário
+Artigo 248.º
+
+Apoio judiciário
 
 1 - O devedor que apresente um pedido de exoneração do passivo restante beneficia do diferimento do pagamento das custas até à decisão final desse pedido, na parte em que a massa insolvente e o seu rendimento disponível durante o período da cessão sejam insuficientes para o respetivo pagamento integral, o mesmo se aplicando à obrigação de reembolsar o organismo responsável pela gestão financeira e patrimonial do Ministério da Justiça das remunerações e despesas do administrador da insolvência e do fiduciário que o organismo tenha suportado.
 
@@ -227,3 +245,5 @@ Pelo exposto, decide o Tribunal Constitucional declarar, com força obrigatória
 O relator atesta o voto de conformidade dos Senhores Conselheiros Lino Ribeiro e José Teles Pereira. Fernando Vaz Ventura.
 
 Lisboa, 15 de junho de 2021. - Fernando Vaz Ventura - Pedro Machete - Mariana Canotilho - Maria de Fátima Mata-Mouros - José João Abrantes - Joana Fernandes Costa - Maria José Rangel de Mesquita - Gonçalo Almeida Ribeiro - Assunção Raimundo - João Pedro Caupers.
+
+114418465

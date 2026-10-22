@@ -100,6 +100,18 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/4/2015/01/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/4/2015/01/07/p/dre
+- type: cites
+  target: pt:dre:1126594009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0

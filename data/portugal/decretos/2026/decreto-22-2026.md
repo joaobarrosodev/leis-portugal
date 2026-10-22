@@ -47,40 +47,51 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/22/2026/10/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/22-2026-1178225513
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-10-08T00:00:00Z'
+  retrieved_at: '2026-10-22T18:54:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfeb53372f5203d0a94269a6731af12607a337e645f23f4b46a24617ba9e6810
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5509924dd5e46baf86965650fceafc660316fe3e9d66a867abec4bcc28c55746
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:54:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Baldio
+- Cantanhede
+- Ordenamento Florestal
+- Política de Solos
+- Regime Florestal
+- Sistema de Gestão Integrada de Fogos Rurais
+- Tocha
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/75/2017/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/75/2017/08/17/p/dre
+- type: cites
+  target: pt:dre:108010871:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:54:35Z'
   warnings: []
   errors: []
 ---
@@ -129,18 +140,21 @@ O proprietário da parcela de terreno, ora excluída do regime florestal parcial
 
 Visto e aprovado em Conselho de Ministros de 17 de julho de 2026. - Luís Montenegro - Rui Miguel Ladeira Pereira.
 
-**Assinado em 17 de setembro de 2026.**
+Assinado em 17 de setembro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 17 de setembro de 2026.**
+Referendado em 17 de setembro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se referem o n.º 1 do artigo 1.º e o n.º 2 do artigo 3.º)
 
 Área a excluir do regime florestal parcial e área a submeter a regime florestal parcial
 
-![](https://files.diariodarepublica.pt/images/1178225513/1177819868.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1178225513/1177819868.png) |
+| --- |
+
+119949666

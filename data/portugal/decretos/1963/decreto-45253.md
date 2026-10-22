@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45253-1963-686780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-09-20T00:00:00Z'
+  retrieved_at: '2026-10-22T19:36:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc3de019838deb93a34203565ac5da1a488ffdd4e5301e22c8bc8b2b3ace2f16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de9dd8fc329a8872f1aa2f2ac53a79cd8c0b278448e528559c35558340917bfd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:36:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:36:43Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +92,9 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, decreto e promulgo, nos termos do artigo 107.º e do § 2.º do artigo 80.º, o seguinte:
 
-###### Artigo único. Os correios, telégrafos e telefones podem, mediante acordo e nas condições a estabelecer com os serviços militares das respectivas províncias ultramarinas, executar a entrega de correspondências e de encomendas postais e o pagamento de vales aos militares e seus familiares, por intermédio das estações e postos do serviço postal militar.
+Artigo único. Os correios, telégrafos e telefones podem, mediante acordo e nas condições a estabelecer com os serviços militares das respectivas províncias ultramarinas, executar a entrega de correspondências e de encomendas postais e o pagamento de vales aos militares e seus familiares, por intermédio das estações e postos do serviço postal militar.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Setembro de 1963. - ANTÓNIO DE OLIVEIRA SALAZAR.
 

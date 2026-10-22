@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/74/2008/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/74-2008-440503
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:10:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6177276aa7606865056282b59d5179d94c9f6208a69141b5fd56332a9b10dbe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28690521d9e332557b1272cbfda2b10f1acf61c437314449a3952eb67cafaf70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:10:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,10 +69,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
 - Arborização
-- Proteção da Floresta
 - Ordenamento Florestal
+- Proder
+- Proteção da Floresta
 - Regulamento
 - Regulamento de Aplicação da Acção Nº 2.3.3-valorização Ambiental dos Espaços Florestais
 relationships:
@@ -80,6 +80,14 @@ relationships:
   target: pt:dre:498497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:498497:por
+  label: "Dada nova redação ao anexo I e revogado, com efeitos a 28.08.2010, o nº 2.6 da Subação n.º 2.3.3.3 do mesmo anexo\
+    \ I do Regulamento de Aplicação da Ação n.º 2.3.3, «Valorização Ambiental dos Espaços Florestais», aprovado pela Port\
+    \ 1137-D/2008 de 09-out, retificado pelo presente diploma, pela PORT.253/2013.07.08.2013.MAMAOT, DR.IS [151] de 07.08.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/253-2013-498497
+  date: '2013-08-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
   label: null
@@ -88,16 +96,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1137-d/2008/10/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1137-d/2008/10/09/p/dre
+- type: cites
+  target: pt:dre:220952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:10:47Z'
   warnings: []
   errors: []
 ---

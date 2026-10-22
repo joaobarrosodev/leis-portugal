@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/146-a/2026/06/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/146-a-2026-1131865553
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-12T00:00:00Z'
+  retrieved_at: '2026-10-22T18:43:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ddf2a54e2dfd48ca63c96a87b33638ed025b4c23e082cd3748266fab725ea81a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7dbeb92206226a690eea35abbc803e302163d09b7344a3d79c705e903093e87
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:43:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,21 @@ subjects:
 - Eleição
 - Juiz
 - Tribunal Constitucional
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:43:41Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +91,7 @@ validation:
 
 Eleição de quatro juízes para o Tribunal Constitucional
 
-A Assembleia da República resolve, nos termos da alínea h) do artigo 163.º, do n.º 5 do artigo 166.º e dos n.<sup>os</sup>1 e 2 do artigo 222.º da Constituição e do n.º 5 do artigo 16.º da [Lei n.º 28/82](https://diariodarepublica.pt/dr/detalhe/lei/28-1982-377508), de 15 de novembro, eleger como juízes do Tribunal Constitucional:
+A Assembleia da República resolve, nos termos da alínea h) do artigo 163.º, do n.º 5 do artigo 166.º e dos n.os1 e 2 do artigo 222.º da Constituição e do n.º 5 do artigo 16.º da [Lei n.º 28/82](https://diariodarepublica.pt/dr/detalhe/lei/28-1982-377508), de 15 de novembro, eleger como juízes do Tribunal Constitucional:
 
 a) Juiz desembargador Luís Filipe Brites Lameiras;
 
@@ -99,4 +103,6 @@ d) Prof.ª Doutora Maria Paula Bonifácio Ribeiro de Faria.
 
 Aprovada em 12 de junho de 2026.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar-Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar-Branco.
+
+119948797

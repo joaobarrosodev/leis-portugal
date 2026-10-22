@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/281-a/2026/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/281-a-2026-1139905344
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-29T00:00:00Z'
+  retrieved_at: '2026-10-22T18:45:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6e1d9629cd66853739320df976502ad7603b7610e70dd238d9f869d85c1380c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bcabc52444f8c8e907c7903f3f5d62d65cd4de3c247ea277acc111ae436763c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:45:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Regulamentação de Atos Legislativos
-- Energia Renovável
-- Apoio ao Investimento
-- Regulamento
-- Regulamento CE
 - Alteração Climática
+- Apoio ao Investimento
+- Energia Renovável
+- Financiamento
 - Fundo Ambiental
 - Plano de Recuperação e Resiliência
+- Regulamentação de Atos Legislativos
+- Regulamento
+- Regulamento CE
 - Sistema de Incentivos de Apoio à Produção de Hidrogénio Renovável e Outros Gases Renováveis
 relationships:
 - type: cites
@@ -144,16 +144,64 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: cites
+  target: pt:dre:141377978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162756795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179327558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66108237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:868787350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901661921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:992627243:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:98-A/2022
+  label: Revoga a partir e com efeitos a 30 de junho de 2026, nos termos do artigo 3.º do presente diploma, a Portaria n.º
+    98-A/2022, de 18 de fevereiro, Diário da República n.º 35/2022, 1º Suplemento, Série I
+  source: null
+  date: '2022-02-18'
+- type: repeals
+  target: pt:numero:portaria:168/2024
+  label: Revoga a partir e com efeitos a 30 de junho de 2026, nos termos do artigo 3.º do presente diploma, a Portaria n.º
+    168/2024/1, de 18 de junho, Diário da República n.º 116/2024, Série I
+  source: null
+  date: '2024-06-18'
 article_structure:
   article_count: 29
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:45:36Z'
   warnings: []
   errors: []
 ---
@@ -208,7 +256,7 @@ A presente portaria entra em vigor e produz efeitos no dia seguinte ao da sua pu
 
 Em 26 de junho de 2026.
 
-**O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho.**
+O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -681,3 +729,5 @@ iii) Em qualquer dos casos referidos nas subalíneas anteriores, estas ações n
 d) Relacionados com estações de tratamento mecânico e biológico de resíduos, salvo se as ações ocorrem em instalações preexistentes e tiverem por finalidade o aumento da eficiência energética ou a reconversão em operações de reciclagem de resíduos separados para a compostagem e a digestão anaeróbia de biorresíduos, e, em qualquer dos casos, não tiverem comprovadamente, por efeito o aumento da capacidade de processamento de resíduos das instalações, nem da sua vida útil, e que tal seja provado a nível das unidades.
 
 2 - As atividades e ativos não abrangidos pela subalínea b) do número anterior que vierem a ser apoiados e, estando abrangidas pelo CELE mas não atinjam emissões de gases com efeito de estufa previstas que não sejam significativamente inferiores aos parâmetros de referência aplicáveis para a atribuição de licenças de emissão a título gratuito conforme previsto no [Regulamento de Execução (UE) 2021/447](https://data.europa.eu/eli/reg/2021/447/oj?locale=pt), da Comissão, de 12 de março de 2021, devem explicar por que motivo não é possível atingir valores inferiores.
+
+119948932

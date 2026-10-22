@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 149/1996, 3º Suplemento, Série I-B de 1996-06-29
   number: '149'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 1690-(23) a 1690-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/06/149b03/00230023.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/11-i/1996/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-i-1996-218322
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-06-29T00:00:00Z'
+  retrieved_at: '2026-10-22T18:46:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 527a671d1d24f43ebc72349bfd12189d08ef69c6ff5c9f92dcf5b5b894b2c84d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0cd1d82d5c756d74df82c133f545048b54514bc3f49d8fe080f11617a84ec72e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:46:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Floricultura
 - Certificado de Qualidade
+- Comércio
+- Floricultura
 - Materiais de Viveiro
 - Política Agrícola Comum
 - Produção Vegetal
 - Regulamento
-- Comércio
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/105/1996/04/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/105/1996/04/08/p/dre
+- type: cites
+  target: pt:dre:557458:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:46:44Z'
   warnings: []
   errors: []
 ---
@@ -113,6 +117,6 @@ O anexo n.º 1 saiu com várias inexactidões, pelo que se procede de novo à su
 
 ## ANEXO N.º 1 — Lista dos géneros e espécies referidos no n.º 1 do artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/06/149b03/00230023.pdf))](https://files.diariodarepublica.pt/1s/1996/06/149b03/00230023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/06/149b03/00230023.pdf)
 
 Secretaria-Geral da Presidência do Conselho de Ministro, 28 de Junho de 1996. - O Secretário-Geral, Alexandre Figueiredo.

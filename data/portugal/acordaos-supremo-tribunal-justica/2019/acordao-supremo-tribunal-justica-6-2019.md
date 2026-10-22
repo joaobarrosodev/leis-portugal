@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/11/21100/0000400037.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/6/2019/11/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/6-2019-125874575
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-11-04T00:00:00Z'
+  retrieved_at: '2026-10-22T17:54:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a5438b423345eb27e9431f50a0d9ca30310095749ea667dc355a9507048deb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c568b57b2e93c0dc2dca3fd1785a0c0f7cf96a230a7aaf116e51d855bc002690
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:54:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -87,13 +87,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:54:19Z'
   warnings: []
   errors: []
 ---
@@ -861,3 +861,5 @@ Voto de vencido - Juiz Conselheiro Oliveira Abreu
 17 - Pelo exposto, proferido acórdão que verificou a existência da contradição jurisprudencial, julgando-a procedente, emitindo normativo uniformizador, não posso, todavia, deixar de manifestar que o conhecimento da questão controvertida, nos termos em que logrou vencimento, não merece a minha aprovação, daí este voto de vencido.
 
 Lisboa, Supremo Tribunal de Justiça, 19 de Setembro de 2019. - Oliveira Abreu (a redacção deste voto de vencido não obedeceu ao novo acordo ortográfico).
+
+112682368

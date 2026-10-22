@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/139/2026/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/139-2026-1139897688
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-29T00:00:00Z'
+  retrieved_at: '2026-10-22T18:45:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5ce42824ba316d3cf6008abe83ffe71eaef1e452582ea14618c3923b33c0506
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b6c5c529e64a823b29407b2e87420fd44b9fc2e4105d6ff672104a09816293a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:45:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
 - Carreira de Polícia Municipal
 - Criação de Serviços
+- Fardamento
 - Oliveira de Azeméis
 - Polícia Municipal
 - Regulamento
-- Autarquia Local
-- Fardamento
 - Uso e porte de arma
 relationships:
 - type: cites
@@ -112,23 +112,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/304-a/2015/09/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/304-a/2015/09/22/p/dre
+- type: cites
+  target: pt:dre:270386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70361627:por
+  label: null
+  source: null
 article_structure:
   article_count: 68
-  section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 20
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:45:27Z'
   warnings: []
   errors: []
 ---
 
 # Resolução do Conselho de Ministros n.º 139/2026
 
-O Município de Oliveira de Azeméis, segundo os dados do Censos 2021, conta com 66 617 mil habitantes, distribuídos por um território com 163 km<sup>2</sup>, no qual se encontram integradas as Freguesias de Carregosa, Cesar, Cucujães, Fajões, Loureiro, Macieira de Sarnes, Nogueira do Cravo, Pindelo, Oliveira de Azeméis, Santiago de Riba-Ul, Ul, Macinhata da Seixa e Madail, Ossela, Pinheiro da Bemposta, Travanca e Palmaz, São Martinho da Gândara e São Roque.
+O Município de Oliveira de Azeméis, segundo os dados do Censos 2021, conta com 66 617 mil habitantes, distribuídos por um território com 163 km2, no qual se encontram integradas as Freguesias de Carregosa, Cesar, Cucujães, Fajões, Loureiro, Macieira de Sarnes, Nogueira do Cravo, Pindelo, Oliveira de Azeméis, Santiago de Riba-Ul, Ul, Macinhata da Seixa e Madail, Ossela, Pinheiro da Bemposta, Travanca e Palmaz, São Martinho da Gândara e São Roque.
 
 A [Lei Constitucional n.º 1/97](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-1997-653562), de 20 de setembro, que procedeu à quarta revisão constitucional, veio permitir que os municípios possam criar polícias municipais que, além das competências de polícia administrativa já anteriormente reconhecidas, disponham, ainda, de poderes de atuação nos domínios da manutenção da tranquilidade pública e da proteção das comunidades locais, nos termos do n.º 3 do artigo 237.º da Constituição, em cooperação com as forças de segurança.
 
@@ -142,7 +174,7 @@ A esta luz, entende o XXV Governo Constitucional que se encontram reunidas as co
 
 Assim:
 
-Nos termos do n.º 3 do artigo 11.º da [Lei n.º 19/2004](https://diariodarepublica.pt/dr/detalhe/lei/19-2004-270386), de 20 de maio, dos n.<sup>os</sup>1 e 2 do artigo 5.º do [Decreto-Lei n.º 197/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), de 7 de outubro, e da alínea g) do artigo 199.º e da alínea g) do n.º 1 do artigo 200.º da Constituição, o Conselho de Ministros resolve:
+Nos termos do n.º 3 do artigo 11.º da [Lei n.º 19/2004](https://diariodarepublica.pt/dr/detalhe/lei/19-2004-270386), de 20 de maio, dos n.os1 e 2 do artigo 5.º do [Decreto-Lei n.º 197/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), de 7 de outubro, e da alínea g) do artigo 199.º e da alínea g) do n.º 1 do artigo 200.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Ratificar a deliberação da Assembleia Municipal de Oliveira de Azeméis, de 27 de fevereiro de 2026, que aprovou a criação da Polícia Municipal de Oliveira de Azeméis e o Regulamento de Organização e Funcionamento do Serviço de Polícia Municipal de Oliveira de Azeméis, que consta do anexo à presente resolução e da qual faz parte integrante.
 
@@ -162,7 +194,7 @@ Regulamento de Organização e Funcionamento do Serviço de Polícia Municipal d
 
 ###### Artigo 1.º — Leis Habilitantes
 
-O presente Regulamento é aprovado nos termos e para os efeitos previstos nos artigos 112.º, n.º 7, 237.º e 241.º da Constituição da República Portuguesa e nos termos dos n.<sup>os</sup> 1 e 2 do artigo 11.º da [Lei n.º 19/2004](https://diariodarepublica.pt/dr/detalhe/lei/19-2004-270386), de 20 de maio, nos artigos 2.º e 3.º do [Decreto-Lei n.º 197/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), de 7 de outubro, [Decreto-Lei n.º 239/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-2009-490248), de 16 de setembro, [Portaria n.º 304-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/304-a-2015-70361627), de 22 de setembro, e alínea o) do n.º 2 do artigo 23.º, alíneas g), m), o), e w) do n.º 1 do artigo 25.º e alínea k) do n.º 1 do artigo 33.º do anexo i da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, conjugado com o artigo 135.º e seguintes do Código do Procedimento Administrativo, todos na sua atual redação.
+O presente Regulamento é aprovado nos termos e para os efeitos previstos nos artigos 112.º, n.º 7, 237.º e 241.º da Constituição da República Portuguesa e nos termos dos n.os 1 e 2 do artigo 11.º da [Lei n.º 19/2004](https://diariodarepublica.pt/dr/detalhe/lei/19-2004-270386), de 20 de maio, nos artigos 2.º e 3.º do [Decreto-Lei n.º 197/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), de 7 de outubro, [Decreto-Lei n.º 239/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-2009-490248), de 16 de setembro, [Portaria n.º 304-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/304-a-2015-70361627), de 22 de setembro, e alínea o) do n.º 2 do artigo 23.º, alíneas g), m), o), e w) do n.º 1 do artigo 25.º e alínea k) do n.º 1 do artigo 33.º do anexo i da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, conjugado com o artigo 135.º e seguintes do Código do Procedimento Administrativo, todos na sua atual redação.
 
 ###### Artigo 2.º — Objeto
 
@@ -170,7 +202,7 @@ O presente Regulamento tem por objeto a definição da organização e funcionam
 
 ###### Artigo 3.º — Competência territorial
 
-1 - A competência territorial da Polícia Municipal coincide com a área de circunscrição do Município repartida por todas as suas freguesias e uniões de freguesias, com características diferenciadas entre si, com uma extensão geográfica de 161,10 km<sup>2</sup>, e segundo os Censos 2021, com 66 175 habitantes.
+1 - A competência territorial da Polícia Municipal coincide com a área de circunscrição do Município repartida por todas as suas freguesias e uniões de freguesias, com características diferenciadas entre si, com uma extensão geográfica de 161,10 km2, e segundo os Censos 2021, com 66 175 habitantes.
 
 2 - Os agentes de polícia municipal não podem atuar fora do território municipal, exceto em situação de flagrante delito ou em emergência de socorro, mediante solicitação de autoridade competente.
 
@@ -596,7 +628,9 @@ Nos termos do calendário a acordar anualmente entre a Câmara Municipal e a ent
 
 O Município colocará à disposição da Polícia Municipal os veículos necessários para o eficaz e eficiente desempenho das suas funções.
 
-###### Artigo 53.º — Livro de registos
+###### Artigo 53.º
+
+## Livro de registos
 
 1 - Cada veículo possuirá um livro de registos, no qual devem designadamente constar os seguintes elementos:
 
@@ -736,7 +770,8 @@ O presente Regulamento entra em vigor no dia seguinte à sua publicação no Di�
 
 Organograma
 
-![](https://files.diariodarepublica.pt/images/1139897688/1139921098.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1139897688/1139921098.png) |
+| --- |
 
 Mapa de pessoal
 
@@ -761,7 +796,7 @@ A representação figurativa consta do Manual Imagem Polícia Municipal de Olive
 
 ## ANEXO IV — Requisição dos serviços da Polícia Municipal de Oliveira de Azeméis
 
-Ex.<sup>mo</sup> Senhor Presidente da Câmara de Oliveira de Azeméis:
+Ex.mo Senhor Presidente da Câmara de Oliveira de Azeméis:
 
 ____ (nome), residente em ____ (morada), ____ (profissão), portador/a do Cartão de cidadão n.º ____, válido até ____/____/____, contribuinte fiscal número ____, na qualidade de ____; ou, ____ (identificação da pessoa coletiva), com sede em ____, com o com o objeto ____, pessoa coletiva número ____, aqui representada por ____, na qualidade de ____ vem, por este meio, expor e requisitar o seguinte:
 
@@ -831,20 +866,33 @@ ____
 
 Manual Imagem Polícia Municipal de Oliveira de Azeméis
 
-![](https://files.diariodarepublica.pt/images/1139897688/1139921099.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1139897688/1139921099.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1139897688/1139921100.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1139897688/1139921100.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1139897688/1139921101.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1139897688/1139921101.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1139897688/1139921102.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1139897688/1139921102.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1139897688/1139921103.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1139897688/1139921103.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1139897688/1139921104.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1139897688/1139921104.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1139897688/1139921105.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1139897688/1139921105.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1139897688/1139921106.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1139897688/1139921106.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1139897688/1139921107.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1139897688/1139921107.png) |
+| --- |
+
+119948889
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:34px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:292px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl9 { min-height:106px; } .Tbl10 { min-height:143px; } .Tbl11 { min-height:181px; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; }

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/46/2007/05/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/46-2007-638568
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-25T00:00:00Z'
+  retrieved_at: '2026-10-22T19:08:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4c02f7eaae510f968d45d158a6e5d56b4e5020eba48be45264f61be6247ffe0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 809a6ef46ba60738267f929dadb84136a719d6f10882743cf5724be1087758dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:08:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ reuse:
 subjects:
 - Autonomia Administrativa
 - Autonomia Financeira
-- Gestão Financeira
 - Definição de Competências
-- Instituto de Gestão do Crédito Público
 - Dívida Pública
 - Estatuto
 - Gestão
 - Gestão do Património
+- Gestão Financeira
+- Instituto de Gestão do Crédito Público
 - Ministro das Finanças
 - Tutela
 relationships:
@@ -87,16 +87,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/86/2007/03/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/86/2007/03/29/p/dre
+- type: cites
+  target: pt:dre:520442:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:86/2007
+  label: "Rectifica o Decreto-Lei n.º 86/2007, de 29 de Março, DR.IS [63] \0\0"
+  source: null
+  date: '2007-03-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:08:16Z'
   warnings: []
   errors: []
 ---

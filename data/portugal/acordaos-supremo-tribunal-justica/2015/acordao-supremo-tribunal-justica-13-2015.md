@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/20200/0900209022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/13/2015/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/13-2015-70693927
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-15T00:00:00Z'
+  retrieved_at: '2026-10-22T17:53:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9d7226ca1d497dfcaaca0c64f3112aa36702f4f644abd818d3ccfca3349f81d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4753200f25deae419c5c2a5015b34e077eae29606d0649a384b938df2ba1b9cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:53:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Código Penal
 - Contra-ordenação
+- Direito Penal
 - Ilícito de MERA Ordenação Social
 - Inspecção Geral do Ambiente
 - Interpretação do Direito
 - Jurisprudencia
-- Supremo Tribunal de Justiça
-- Código Penal
-- Direito Penal
 - Regime Jurídico
 - Sanção
+- Supremo Tribunal de Justiça
 relationships:
 - type: cites
   target: celex:32008L0099
@@ -125,16 +125,392 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/89/2009/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/89/2009/08/31/p/dre
+- type: cites
+  target: pt:dre:146506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56348175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573303:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66970761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694035:por
+  label: null
+  source: null
 article_structure:
-  article_count: 15
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:53:39Z'
   warnings: []
   errors: []
 ---
@@ -819,25 +1195,25 @@ A lei não exclui as situações em que o perigo é simplesmente negligente, com
 
 São os seguintes os crimes em que é possível a dispensa de pena e a atenuação especial de acordo com o artigo 286.º do Código Penal:
 
-###### Artigo 272.º - Incêndios, explosões e outras condutas especialmente perigosas
+Artigo 272.º - Incêndios, explosões e outras condutas especialmente perigosas
 
-###### Artigo 273.º - Energia nuclear
+Artigo 273.º - Energia nuclear
 
-###### Artigo 274.º - Incêndio florestal
+Artigo 274.º - Incêndio florestal
 
-###### Artigo 277.º - Infracção de regras de construção, dano em instalações e perturbação de serviços
+Artigo 277.º - Infracção de regras de construção, dano em instalações e perturbação de serviços
 
-###### Artigo 279.º - Poluição (negligente - n.os 3 e 5).
+Artigo 279.º - Poluição (negligente - n.os 3 e 5).
 
-###### Artigo 280.º - Poluição com perigo comum
+Artigo 280.º - Poluição com perigo comum
 
-###### Artigo 281.º - Perigo relativo a animais ou vegetais
+Artigo 281.º - Perigo relativo a animais ou vegetais
 
-###### Artigo 282.º - Corrupção de substâncias alimentares ou medicinais
+Artigo 282.º - Corrupção de substâncias alimentares ou medicinais
 
-###### Artigo 283.º - Propagação de doença, alteração de análise ou de receituário
+Artigo 283.º - Propagação de doença, alteração de análise ou de receituário
 
-###### Artigo 284.º - Recusa de médico.
+Artigo 284.º - Recusa de médico.
 
 A atenuação especial no direito contra-ordenacional
 
@@ -855,21 +1231,21 @@ Em consonância com o constante da Lei de autorização legislativa n.º 13/95 s
 
 Assim, a atenuação especial passou a estar prevista nos artigos 9.º, n.º 2, 13.º, n.º 2 e 16.º, n.º 3 (casos especiais) e no artigo 18.º, n.º 3, quanto à medida da atenuação especial.
 
-###### Artigo 9.º (Erro sobre a ilicitude)
+Artigo 9.º (Erro sobre a ilicitude)
 
 2 - Se o erro lhe for censurável, a coima pode ser especialmente atenuada.
 
-###### Artigo 13.º (Punibilidade da tentativa)
+Artigo 13.º (Punibilidade da tentativa)
 
 2 - A tentativa é punível com a coima aplicável à contra-ordenação consumada, especialmente atenuada.
 
-###### Artigo 16.º (Comparticipação)
+Artigo 16.º (Comparticipação)
 
 3 - É aplicável ao cúmplice a coima fixada para o autor, especialmente atenuada.
 
 No primeiro caso - erro censurável sobre a ilicitude - a atenuação especial opera ope judicis e nos dois outros - tentativa e cumplicidade - ope legis.
 
-###### Artigo 18.º (Determinação da medida da coima)
+Artigo 18.º (Determinação da medida da coima)
 
 3 - Quando houver lugar à atenuação especial da punição por contra-ordenação, os limites máximo e mínimo da coima são reduzidos para metade.
 
@@ -917,7 +1293,7 @@ O regime das contra-ordenações no âmbito da poluição do meio marinho nos es
 
 Estando em causa factos praticados por agentes poluidores nos espaços marítimos sob jurisdição nacional independentemente da nacionalidade dos mesmos, incluindo descarga ou derrame de produto poluente susceptível de provocar alterações às características naturais do meio marinho, o artigo 8.º prevê a possibilidade de atenuação especial e suspensão da aplicação da coima, em termos que vale a pena transcrever:
 
-###### Artigo 8.º (Atenuação especial e suspensão da aplicação da coima)
+Artigo 8.º (Atenuação especial e suspensão da aplicação da coima)
 
 1 - Sempre que os montantes da coima aplicável ponham em causa a sobrevivência económica de pessoas singulares ou pessoas colectivas, designadamente pequenas empresas, responsáveis pelos factos danosos praticados como agentes poluidores, pode ser determinada a suspensão da execução da aplicação da coima, aplicando-se, com as necessárias adaptações, o disposto no Código Penal quanto à suspensão da execução da pena.
 

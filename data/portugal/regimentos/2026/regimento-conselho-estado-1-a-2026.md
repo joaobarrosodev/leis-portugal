@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/rgtconsest/1-a/2026/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/regimento-conselho-estado/1-a-2026-1090808537
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-23T00:00:00Z'
+  retrieved_at: '2026-10-22T18:39:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba6cd6d21f6b8aff85af1b48113cf91e3dad68a1040751d01e5826c455c6c2ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a8c571c227f70b37eb723bc23c16491129ff81c0a29b87558cedb07963efa47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:39:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/rgtconsest/1/2001/04/26/p/dre
   label: null
   source: http://data.dre.pt/eli/rgtconsest/1/2001/04/26/p/dre
+- type: cites
+  target: pt:dre:165018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373775:por
+  label: null
+  source: null
 article_structure:
-  article_count: 24
+  article_count: 21
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:39:14Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +141,9 @@ f) [...]
 
 g) [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -145,7 +155,9 @@ g) [...]
 
 5 - [...]
 
-###### Artigo 13.º — Atas
+Artigo 13.º
+
+Atas
 
 1 - De tudo o que ocorrer nas reuniões do Conselho de Estado é lavrada ata, em formato eletrónico, arquivada em condições que garantam a sua confidencialidade.
 
@@ -161,7 +173,9 @@ g) [...]
 
 7 - [...]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - São obrigatoriamente publicados os pareceres previstos nas alíneas a) a d) do n.º 1 e no n.º 2 do artigo 3.º se o Presidente da República praticar os atos de que constituem requisito.
 
@@ -179,11 +193,11 @@ g) [...]
 
 O presente Regimento entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos a 9 de março de 2026.
 
-**Assinado, no Palácio de Belém, em 17 de abril de 2026.**
+Assinado, no Palácio de Belém, em 17 de abril de 2026.
 
-**Publique-se, nos termos do artigo 18.º do Regimento do Conselho de Estado.**
+Publique-se, nos termos do artigo 18.º do Regimento do Conselho de Estado.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
 ## ANEXO — Regimento do Conselho de Estado
 
@@ -349,7 +363,7 @@ Os serviços de expediente e apoio do Conselho de Estado são assegurados pela S
 
 ###### Artigo 16.º — Divulgação do conteúdo das reuniões
 
-**O Presidente e o Conselho podem concordar na publicação, após as reuniões, de uma nota informativa, na qual se indique, de forma sucinta, a totalidade ou parte do objeto da reunião e dos seus resultados.**
+O Presidente e o Conselho podem concordar na publicação, após as reuniões, de uma nota informativa, na qual se indique, de forma sucinta, a totalidade ou parte do objeto da reunião e dos seus resultados.
 
 ###### Artigo 17.º — Publicação dos pareceres
 
@@ -370,3 +384,5 @@ Os serviços de expediente e apoio do Conselho de Estado são assegurados pela S
 3 - O texto remetido para publicação leva a indicação da aprovação pelo Conselho, com a respetiva data, e é assinado pelo Presidente da República.
 
 4 - Fica revogado o Regimento Provisório do Conselho de Estado, aprovado em 30 de março e publicado em 18 de abril de 1984.
+
+119948342

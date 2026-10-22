@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/129/2026/06/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/129-2026-1134398998
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-19T00:00:00Z'
+  retrieved_at: '2026-10-22T18:44:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 215448b70320be3bc4eab68bf85e80a159c70ec0ebafe5cadce2c3630424ee22
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca7c396bbee6aa4237f261bdca040b5736d32bceb979c7655432b44ab94f4bed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:44:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Compensação Financeira
 - Catástrofe
+- Compensação Financeira
 - Regime de Apoio
-- Temporal
 - Situação de Calamidade
 - Tempestade Kristin
+- Temporal
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:17-A/2026
+  label: Altera, com efeitos a partir de 11 de junho de 2026, os n.ºs 7 e 10 da Resolução do Conselho de Ministros n.º 17-A/2026,
+    de 3 de fevereiro, Diário da República n.º 23/2026, Suplemento, Série I
+  source: null
+  date: '2026-02-03'
 - type: cites
   target: eli:http://data.d
   label: null
@@ -113,16 +119,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/17-a/2026/02/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/17-a/2026/02/03/p/dre
+- type: cites
+  target: pt:dre:1031784677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1031784680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1034985574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1050874165:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1075294793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1090808520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:44:21Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +201,7 @@ Nos termos da alínea e) do n.º 1 do artigo 21.º da [Lei n.º 27/2006](https:/
 
 1 - Proceder à segunda alteração à [Resolução do Conselho de Ministros n.º 17-A/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-a-2026-1034985574), de 3 de fevereiro, alterada pela [Resolução do Conselho de Ministros n.º 74/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/74-2026-1090808520), de 24 de abril.
 
-2 - Alterar os n.<sup>os</sup>7 e 10 da [Resolução do Conselho de Ministros n.º 17-A/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-a-2026-1034985574), de 3 de fevereiro, que passam a ter a seguinte redação:
+2 - Alterar os n.os7 e 10 da [Resolução do Conselho de Ministros n.º 17-A/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-a-2026-1034985574), de 3 de fevereiro, que passam a ter a seguinte redação:
 
 «7 - Autorizar, observadas as disposições legais e orçamentais vigentes, o reforço das verbas da Infraestruturas de Portugal, S. A., em 400 000 000,00 €, consignados à recuperação das infraestruturas rodoviárias e ferroviárias afetadas nos concelhos onde tenha sido declarada situação de calamidade, ou em todo o território nacional, verificados os requisitos previstos nos artigos 28.º-B e 28.º-C do [Decreto-Lei n.º 40-A/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-a-2026-1050874165), de 13 de fevereiro.
 
@@ -164,3 +210,5 @@ Nos termos da alínea e) do n.º 1 do artigo 21.º da [Lei n.º 27/2006](https:/
 3 - Estabelecer que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 11 de junho de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119948830

@@ -47,26 +47,41 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/13/2026/07/30/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2026-1153221704
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:48:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13e87d1ed18386d042b6290ad60fe9d3307cf2f5a1a43d2cde08f923b0fb0554
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 209e95a3344304141bc196c494ac99ac526afb04de5d368b1df02b2c82aa4d17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:48:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- DIREÇÃO REGIONAL DOS TRANSPORTES
+- Horários do Funchal-Transportes Públicos SA
+- Instituto da Mobilidade e dos Transportes
+- Madeira.região Autónoma
+- Suplemento Remuneratório
+- Transferência de Competências
+- Transferência de Verbas
+- Transferência Patrimonial
+- Transportes Integrados e Intermodais da Madeira
 relationships:
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:13/2024/M
+  label: Altera, a partir de 31 de julho de 2026, os artigos 5.º, 13.º, 19.º, 23.º, 24.º, 25.º e 26.º e republica o Decreto
+    Legislativo Regional n.º 13/2024/M, de 4 de dezembro, Diário da República n.º 235/2024, Série I
+  source: null
+  date: '2024-12-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/167/2008/08/26/p/dre
   label: null
@@ -107,16 +122,100 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:107494013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115886134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:134305983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177634374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:848804212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:898867724:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:927416002:por
+  label: null
+  source: null
 article_structure:
-  article_count: 43
+  article_count: 37
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:48:30Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +234,7 @@ Paralelamente, definem-se, em particular, os termos do procedimento conducente a
 
 Foram cumpridos os procedimentos decorrentes da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua atual redação.
 
-Assim, a Assembleia Legislativa da Região Autónoma da Madeira, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º, no n.º 1 do artigo 228.º e no n.º 1 do artigo 232.º da Constituição da República Portuguesa, na alínea c) do n.º 1 do artigo 37.º, na alínea ll) do artigo 40.º e no n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, decreta o seguinte:
+Assim, a Assembleia Legislativa da Região Autónoma da Madeira, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º, no n.º 1 do artigo 228.º e no n.º 1 do artigo 232.º da Constituição da República Portuguesa, na alínea c) do n.º 1 do artigo 37.º, na alínea ll) do artigo 40.º e no n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, decreta o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -245,7 +344,9 @@ tt) Assegurar o cumprimento da gestão dos registos nacionais dos veículos, na 
 
 2 - [...]
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -275,19 +376,25 @@ i) O produto da prestação de serviços no âmbito da gestão integrada dos tra
 
 5 - [...]
 
-###### Artigo 19.º — Suplementos remuneratórios
+Artigo 19.º
+
+Suplementos remuneratórios
 
 1 - [Anterior corpo do artigo.]
 
 2 - Aos trabalhadores e dirigentes afetos à gestão operacional da bilhética integrada, do Sistema de Apoio à Exploração (SAE) e dos restantes sistemas e infraestruturas tecnológicas de suporte à gestão integrada dos transportes públicos da RAM, a quem, por força do exercício dessas funções específicas, seja exigível disponibilidade permanente para a prestação de trabalho a qualquer hora e em qualquer dia, e ou que estejam sujeitos a regime de prevenção, é atribuído um suplemento remuneratório mensal, 12 vezes ao ano, equivalente a 20 % da respetiva remuneração base, destinado a assegurar o funcionamento ininterrupto ou alargado do sistema de transportes públicos da RAM.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - O IMT, IP-RAM, e os organismos e entidades, públicas ou privadas, com funções de prevenção, fiscalização, policiais, judiciais e de registo civil, comercial e automóvel, bem como os serviços e autoridades administrativas, incluindo as tributária, aduaneira, fiscal, de estatística, de proteção civil, de saúde, de segurança social, energética e demais que interajam com os serviços prestados por este instituto, devem cooperar no exercício das respetivas atribuições e competências, utilizando para o efeito os mecanismos legalmente adequados, restringindo-se essa interação aos elementos estritamente necessários.
 
 2 - O IMT, IP-RAM, pode solicitar à Segurança Social, à Autoridade Tributária, ao Instituto dos Registos e do Notariado, I. P., e aos centros de inspeções nacionais de veículos, no âmbito das suas atribuições, nomeadamente para efeitos da concessão de apoios, informação sobre a residência fiscal, veículos, composição e rendimentos do agregado familiar e de cada um dos seus membros, atividade e rendimentos de sociedades e situação regularizada, através de plataforma de interoperabilidade ou através de envio de ficheiro, com a referência aos respetivos números de identificação fiscal, não podendo o prazo de prestação da informação solicitada ultrapassar os 30 dias.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...]
 
@@ -297,7 +404,7 @@ i) O produto da prestação de serviços no âmbito da gestão integrada dos tra
 
 4 - Com a fusão por incorporação da TIIM - Transportes Integrados e Intermodais da Madeira, S. A., na Horários do Funchal - Transportes Públicos, S. A., a sucessão referida no n.º 2 ocorre quanto às atribuições, competências, direitos e obrigações e posições contratuais transferidas por aquela primeira empresa para esta última, nas áreas identificadas no despacho conjunto a que se refere o n.º 6 do artigo 25.º
 
-5 - Os encargos em que a TIIM - Transportes Integrados e Intermodais da Madeira, S. A., e subsidiariamente, a Horários do Funchal - Transportes Públicos, S. A., tenham comprovadamente incorrido ou venham ainda a incorrer no exercício das atividades previstas nos n.<sup>os</sup>1, 2 e 3 da Resolução do Conselho do Governo Regional n.º 402/2024, de 23 de maio, são reembolsados de acordo com os critérios previstos no artigo 6.º do [Decreto-Lei n.º 167/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2008-453551), de 26 de agosto, na sua redação atual, líquidos de eventuais proveitos associados, e de forma a evitar a duplicação de financiamento, incluindo da União Europeia.
+5 - Os encargos em que a TIIM - Transportes Integrados e Intermodais da Madeira, S. A., e subsidiariamente, a Horários do Funchal - Transportes Públicos, S. A., tenham comprovadamente incorrido ou venham ainda a incorrer no exercício das atividades previstas nos n.os1, 2 e 3 da Resolução do Conselho do Governo Regional n.º 402/2024, de 23 de maio, são reembolsados de acordo com os critérios previstos no artigo 6.º do [Decreto-Lei n.º 167/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2008-453551), de 26 de agosto, na sua redação atual, líquidos de eventuais proveitos associados, e de forma a evitar a duplicação de financiamento, incluindo da União Europeia.
 
 6 - Com vista a obter o reembolso dos encargos previstos no número anterior, as empresas referidas no número anterior devem proceder do seguinte modo:
 
@@ -309,7 +416,9 @@ b) Relativamente a encargos incorridos a partir da data da entrada em vigor do d
 
 8 - Compete à Secretaria Regional de Equipamentos e Infraestruturas efetuar o processamento da despesa e à Secretaria Regional das Finanças o pagamento do pedido de reembolso apurado nos termos do número anterior, no prazo de 10 dias a contar da publicação do respetivo despacho.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...]
 
@@ -337,11 +446,13 @@ c) Determinação do valor contabilístico líquido dos ativos e passivos referi
 
 10 - O despacho previsto no n.º 6 pode reportar a sua eficácia a momento anterior ao da sua emissão, desde que com antecedência não superior a 45 dias, de forma a salvaguardar a atualidade da informação financeira subjacente aos elementos nele fixados.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]
 
-2 - Os trabalhadores com vínculo de direito privado da TIIM - Transportes Integrados e Intermodais da Madeira, S. A., e da Horários do Funchal - Transportes Públicos, S. A., que, no âmbito e ao abrigo das Resoluções do Conselho do Governo Regional n.<sup>os</sup>113/2023, de 24 de fevereiro, e 402/2024, de 23 de maio, tenham sido integrados naquelas empresas públicas, contratados ou afetos para o desenvolvimento dos atos tendentes à gestão dos processos identificados no n.º 2 da Resolução do Conselho do Governo Regional n.º 402/2024, de 23 de maio, transitam para o IMT, IP-RAM, sem alteração do respetivo vínculo, mantendo, consequentemente, as condições contratuais aplicáveis, incluindo estatuto remuneratório, antiguidade e outros benefícios nos termos da lei, através de lista nominativa a aprovar pelo IMT, IP-RAM, pelos órgãos de administração daquelas empresas e pelo despacho previsto no n.º 6 do artigo 25.º
+2 - Os trabalhadores com vínculo de direito privado da TIIM - Transportes Integrados e Intermodais da Madeira, S. A., e da Horários do Funchal - Transportes Públicos, S. A., que, no âmbito e ao abrigo das Resoluções do Conselho do Governo Regional n.os113/2023, de 24 de fevereiro, e 402/2024, de 23 de maio, tenham sido integrados naquelas empresas públicas, contratados ou afetos para o desenvolvimento dos atos tendentes à gestão dos processos identificados no n.º 2 da Resolução do Conselho do Governo Regional n.º 402/2024, de 23 de maio, transitam para o IMT, IP-RAM, sem alteração do respetivo vínculo, mantendo, consequentemente, as condições contratuais aplicáveis, incluindo estatuto remuneratório, antiguidade e outros benefícios nos termos da lei, através de lista nominativa a aprovar pelo IMT, IP-RAM, pelos órgãos de administração daquelas empresas e pelo despacho previsto no n.º 6 do artigo 25.º
 
 3 - [...]
 
@@ -367,11 +478,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 15 de julho de 2026.
 
-**A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.**
+A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.
 
-**Assinado em 28 de julho de 2026.**
+Assinado em 28 de julho de 2026.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Paulo Duarte Barreto Ferreira.
 
@@ -827,7 +938,7 @@ Para o exercício das funções, o pessoal da área inspetiva do IMT, IP-RAM, te
 
 ###### Artigo 24.º — Sucessão
 
-1 - O IMT, IP-RAM, sucede nas atribuições, direitos e obrigações e posições contratuais da Direção Regional dos Transportes e da Mobilidade Terrestre, incluindo os que transitaram da então Direção Regional de Economia e Transportes Terrestres para aquela Direção Regional por força do disposto no n.º 1 do artigo 20.º e n.<sup>os</sup>1, 3 e 4 do artigo 22.º do [Decreto Regulamentar Regional n.º 11/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), de 14 de fevereiro.
+1 - O IMT, IP-RAM, sucede nas atribuições, direitos e obrigações e posições contratuais da Direção Regional dos Transportes e da Mobilidade Terrestre, incluindo os que transitaram da então Direção Regional de Economia e Transportes Terrestres para aquela Direção Regional por força do disposto no n.º 1 do artigo 20.º e n.os1, 3 e 4 do artigo 22.º do [Decreto Regulamentar Regional n.º 11/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), de 14 de fevereiro.
 
 2 - O IMT, IP-RAM, sucede nas atribuições, competências, direitos e obrigações e posições contratuais da TIIM - Transportes Integrados e Intermodais da Madeira, S. A., anteriormente com a denominação «Companhia dos Carros de São Gonçalo, S. A.», empresa pública do setor empresarial da Região Autónoma da Madeira integralmente detida pela Horários do Funchal - Transportes Públicos, S. A., nas áreas da gestão do Sistema de Bilhética Integrado da RAM, do SAE e dos demais sistemas necessários à gestão integrada dos transportes públicos da RAM.
 
@@ -835,7 +946,7 @@ Para o exercício das funções, o pessoal da área inspetiva do IMT, IP-RAM, te
 
 4 - Com a fusão por incorporação da TIIM - Transportes Integrados e Intermodais da Madeira, S. A., na Horários do Funchal - Transportes Públicos, S. A., a sucessão referida no n.º 2 ocorre quanto às atribuições, competências, direitos e obrigações e posições contratuais transferidas por aquela primeira empresa para esta última, nas áreas identificadas no despacho conjunto a que se refere o n.º 6 do artigo 25.º
 
-5 - Os encargos em que a TIIM - Transportes Integrados e Intermodais da Madeira, S. A., e subsidiariamente, a Horários do Funchal - Transportes Públicos, S. A., tenham comprovadamente incorrido ou venham ainda a incorrer no exercício das atividades previstas nos n.<sup>os</sup>1, 2 e 3 da Resolução do Conselho do Governo Regional n.º 402/2024, de 23 de maio, são reembolsados de acordo com os critérios previstos no artigo 6.º do [Decreto-Lei n.º 167/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2008-453551), de 26 de agosto, na sua atual redação, líquidos de eventuais proveitos associados, e de forma a evitar a duplicação de financiamento, incluindo da União Europeia.
+5 - Os encargos em que a TIIM - Transportes Integrados e Intermodais da Madeira, S. A., e subsidiariamente, a Horários do Funchal - Transportes Públicos, S. A., tenham comprovadamente incorrido ou venham ainda a incorrer no exercício das atividades previstas nos n.os1, 2 e 3 da Resolução do Conselho do Governo Regional n.º 402/2024, de 23 de maio, são reembolsados de acordo com os critérios previstos no artigo 6.º do [Decreto-Lei n.º 167/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2008-453551), de 26 de agosto, na sua atual redação, líquidos de eventuais proveitos associados, e de forma a evitar a duplicação de financiamento, incluindo da União Europeia.
 
 6 - Com vista a obter o reembolso dos encargos previstos no número anterior, as empresas referidas no número anterior devem proceder do seguinte modo:
 
@@ -859,7 +970,7 @@ b) Relativamente a encargos incorridos a partir da data da entrada em vigor do d
 
 5 - O processo de fusão é conduzido e decorre sob a responsabilidade do diretor regional dos Transportes e da Mobilidade Terrestre, e sob a responsabilidade dos membros do conselho diretivo do IMT, IP-RAM, após a sua designação, com a colaboração de todos os departamentos regionais e dirigentes cuja intervenção seja necessária para a realização dos respetivos atos e operações.
 
-6 - O disposto nos n.<sup>os</sup>2 e 3 é aplicável ao processo de transição de atribuições, competências, direitos e obrigações e posições contratuais da TIIM - Transportes Integrados e Intermodais da Madeira, S. A., para o IMT, IP-RAM, previsto no n.º 2 do artigo 24.º, a concretizar no prazo indicado no n.º 3 deste artigo, mediante despacho conjunto dos membros do Governo Regional com a tutela das finanças e dos transportes terrestres, publicado no Jornal Oficial da Região Autónoma da Madeira.
+6 - O disposto nos n.os2 e 3 é aplicável ao processo de transição de atribuições, competências, direitos e obrigações e posições contratuais da TIIM - Transportes Integrados e Intermodais da Madeira, S. A., para o IMT, IP-RAM, previsto no n.º 2 do artigo 24.º, a concretizar no prazo indicado no n.º 3 deste artigo, mediante despacho conjunto dos membros do Governo Regional com a tutela das finanças e dos transportes terrestres, publicado no Jornal Oficial da Região Autónoma da Madeira.
 
 7 - O despacho previsto no número anterior fixa a lista dos ativos e passivos a transferir para o IMT, IP-RAM, bem como o valor da contrapartida financeira a pagar por este instituto à TIIM - Transportes Integrados e Intermodais da Madeira, S. A., ou, caso já tenha ocorrido a fusão prevista no n.º 4 do artigo 24.º, à Horários do Funchal - Transportes Públicos, S. A.
 
@@ -877,9 +988,9 @@ c) Determinação do valor contabilístico líquido dos ativos e passivos referi
 
 ###### Artigo 26.º — Transição de pessoal e de outros processos
 
-1 - Os trabalhadores com vínculo de emprego público afetos à Direção Regional dos Transportes e da Mobilidade Terrestre, nomeadamente os da então Direção Regional de Economia e Transportes Terrestres que, nos termos e ao abrigo do disposto no n.º 1 do artigo 20.º e n.<sup>os</sup>4 e 6 do artigo 21.º do [Decreto Regulamentar Regional n.º 11/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), de 14 de fevereiro, passaram a exercer funções naquela Direção Regional, transitam para o IMT, IP-RAM, através de lista nominativa, a aprovar pelos membros do Governo Regional com a tutela dos transportes terrestres e da economia.
+1 - Os trabalhadores com vínculo de emprego público afetos à Direção Regional dos Transportes e da Mobilidade Terrestre, nomeadamente os da então Direção Regional de Economia e Transportes Terrestres que, nos termos e ao abrigo do disposto no n.º 1 do artigo 20.º e n.os4 e 6 do artigo 21.º do [Decreto Regulamentar Regional n.º 11/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), de 14 de fevereiro, passaram a exercer funções naquela Direção Regional, transitam para o IMT, IP-RAM, através de lista nominativa, a aprovar pelos membros do Governo Regional com a tutela dos transportes terrestres e da economia.
 
-2 - Os trabalhadores com vínculo de direito privado da TIIM - Transportes Integrados e Intermodais da Madeira, S. A., e da Horários do Funchal - Transportes Públicos, S. A., que, no âmbito e ao abrigo das Resoluções do Conselho do Governo Regional n.<sup>os</sup>113/2023, de 24 de fevereiro, e 402/2024, de 23 de maio, tenham sido integrados naquelas empresas públicas, contratados ou afetos para o desenvolvimento dos atos tendentes à gestão dos processos identificados no n.º 2 da Resolução do Conselho do Governo Regional n.º 402/2024, de 23 de maio, transitam para o IMT, IP-RAM, sem alteração do respetivo vínculo, mantendo, consequentemente, as condições contratuais aplicáveis, incluindo estatuto remuneratório, antiguidade e outros benefícios nos termos da lei, através de lista nominativa a aprovar pelo IMT, IP-RAM, pelos órgãos de administração daquelas empresas e pelo despacho previsto no n.º 6 do artigo 25.º
+2 - Os trabalhadores com vínculo de direito privado da TIIM - Transportes Integrados e Intermodais da Madeira, S. A., e da Horários do Funchal - Transportes Públicos, S. A., que, no âmbito e ao abrigo das Resoluções do Conselho do Governo Regional n.os113/2023, de 24 de fevereiro, e 402/2024, de 23 de maio, tenham sido integrados naquelas empresas públicas, contratados ou afetos para o desenvolvimento dos atos tendentes à gestão dos processos identificados no n.º 2 da Resolução do Conselho do Governo Regional n.º 402/2024, de 23 de maio, transitam para o IMT, IP-RAM, sem alteração do respetivo vínculo, mantendo, consequentemente, as condições contratuais aplicáveis, incluindo estatuto remuneratório, antiguidade e outros benefícios nos termos da lei, através de lista nominativa a aprovar pelo IMT, IP-RAM, pelos órgãos de administração daquelas empresas e pelo despacho previsto no n.º 6 do artigo 25.º
 
 3 - O pessoal previsto no número anterior rege-se pelo Código do Trabalho e instrumentos de regulamentação coletiva de trabalho que lhes eram aplicáveis à data da transição, sem prejuízo do disposto no número seguinte.
 
@@ -887,7 +998,7 @@ c) Determinação do valor contabilístico líquido dos ativos e passivos referi
 
 5 - A opção pelo regime da função pública referida no número anterior é feita mediante declaração escrita do trabalhador e depende da aprovação do conselho diretivo do IMT, IP-RAM e parecer prévio dos membros do Governo responsáveis pela área das finanças e da Administração Pública.
 
-6 - Nas situações de constituição de vínculo de emprego público ao abrigo do disposto nos n.<sup>os</sup>4 e 5, o posicionamento remuneratório dos trabalhadores é feito de acordo com o disposto no artigo 104.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro, na sua redação atual, aplicável por força da alínea b) do n.º 2 do artigo 41.º da [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual.
+6 - Nas situações de constituição de vínculo de emprego público ao abrigo do disposto nos n.os4 e 5, o posicionamento remuneratório dos trabalhadores é feito de acordo com o disposto no artigo 104.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro, na sua redação atual, aplicável por força da alínea b) do n.º 2 do artigo 41.º da [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual.
 
 7 - Sempre que por aplicação do disposto no n.º 2 do artigo 104.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro, na sua redação atual, a remuneração base a que atualmente têm direito seja inferior à 1.ª posição remuneratória da carreira para a qual transitam, os trabalhadores são reposicionados na 1.ª posição remuneratória.
 
@@ -911,7 +1022,7 @@ O artigo 4.º do [Decreto Legislativo Regional n.º 36/2006/M](https://diariodar
 
 ###### Artigo 28.º — Alteração ao [Decreto Legislativo Regional n.º 19/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2010-343619), de 19 de agosto
 
-O artigo 2.º do [Decreto Legislativo Regional n.º 19/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2010-343619), de 19 de agosto, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[2/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), de 10 de janeiro, [17/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2017-107494013), de 8 de junho, [4/2022/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2022-177634374), de 17 de janeiro e [13/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2024-898867724), de 4 de dezembro, passa a ter a seguinte redação:
+O artigo 2.º do [Decreto Legislativo Regional n.º 19/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2010-343619), de 19 de agosto, alterado pelos Decretos Legislativos Regionais n.os[2/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), de 10 de janeiro, [17/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2017-107494013), de 8 de junho, [4/2022/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2022-177634374), de 17 de janeiro e [13/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2024-898867724), de 4 de dezembro, passa a ter a seguinte redação:
 
 «Artigo 2.º
 
@@ -968,3 +1079,5 @@ b) A alínea f) do n.º 1 do artigo 5.º e o artigo 15.º do [Decreto Regulament
 ###### Artigo 33.º — Entrada em vigor
 
 O presente diploma entra em vigor no dia 1 de janeiro de 2025.
+
+119949212

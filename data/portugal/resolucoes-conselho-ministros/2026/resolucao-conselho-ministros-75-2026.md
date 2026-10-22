@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/75/2026/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/75-2026-1092323218
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-27T00:00:00Z'
+  retrieved_at: '2026-10-22T18:39:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4174a09a762f5a349c4a979dbc9063acf41d720fffcf9fec2a6a9f7bfa8f46e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83fbfef6bca96c8808b840f9e6974e8571e2cebc2005df0e0cd9bc9be7687075
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:39:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração do Porto de Lisboa
+- Agência Portuguesa do Ambiente
 - Almada
+- Areias
 - Autorização de Despesas
 - Despesas Públicas
 - Empreitada de Obras Públicas
-- Areias
 - Praia Marítima
-- Agência Portuguesa do Ambiente
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:38/2025
+  label: Altera, com efeitos a partir de 16 de abril de 2026, a Resolução do Conselho de Ministros n.º 38/2025, de 6 de março,
+    Diário da República n.º 46/2025, Série I
+  source: null
+  date: '2025-03-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -96,16 +102,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/82/2009/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/82/2009/09/08/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:909816059:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:39:35Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +168,7 @@ Neste contexto, para que sejam assegurados todos os processos aquisitivos e a re
 
 Assim:
 
-Nos termos da alínea e) do n.º 1 do artigo 17.º, dos n.<sup>os</sup> 1 e 2 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos da alínea e) do n.º 1 do artigo 17.º, dos n.os 1 e 2 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Alterar a [Resolução do Conselho de Ministros n.º 38/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/38-2025-909816059), de 6 de março, na sua redação atual, nos seguintes termos:
 
@@ -181,3 +207,5 @@ iii) 2027: 1,00 €.
 2 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 16 de abril de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119948334

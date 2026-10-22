@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/114/2007/12/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/114-2007-627826
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-20T00:00:00Z'
+  retrieved_at: '2026-10-22T19:07:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a4e836bee9dd7d9e5b7aaca1b3c042a49135a2edd6b519d53a0a03a639c2c07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: efff18e7cdddbbbf971a6326f59b855d09f425c08c9956607c1721ebdbc91fc5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:07:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,28 +69,28 @@ subjects:
 - Acesso à Informação
 - ALTA Autoridade para a Comunicação Social
 - Carteira Profissional
-- Multa
-- Jornalista
+- Comissão da Carteira Profissional do Jornalista
 - Comissão de Acesso aos Documentos Administrativos
 - Comunicação Social
 - Conselho de Redacção
 - Contra-ordenação
 - Correspondente Estrangeiro
+- Dados Pessoais
 - Definição de Competências
 - Deontologia Profissional
-- Diretor
 - Direito de Autor
 - Direitos e Liberdades
+- Diretor
+- Estágio de Formação
 - Estatuto
 - Incompatibilidades
 - Informação
 - Jornalismo
-- Comissão da Carteira Profissional do Jornalista
-- Sanção Penal
-- Estágio de Formação
+- Jornalista
+- Multa
 - Regulamento
+- Sanção Penal
 - Segredo Profissional
-- Dados Pessoais
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/1/1999/01/13/p/dre
@@ -108,16 +108,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/65/1993/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/65/1993/08/26/p/dre
+- type: cites
+  target: pt:dre:196219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640919:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:lei:46/2007
+  label: "Rectifica a Lei 64/2007 de 06-Nov DR.IS [213], que alterou e republicou a Lei 1/99 de 13-Jan, como seguidamente\
+    \ se indica: -no corpo do art. 1º: elimina a referência ao art. 2º da Lei 1/99 de 13-Jan, que não foi objecto de alteração;\
+    \ e altera, ainda no art. 1º, a redacção conferida ao nº 1 do art. 11º da Lei 1/99 de 13-Jan, assim como a redacção conferida\
+    \ aos nºs 3, 5, 6 e 7 do art. 21º da mesma lei, substituindo neste último por “Comissão da Carteira Profissional de Jornalista”\
+    \ a expressão “Comissão da Carteira Profissional do Jornalista”; - no anexo (republicação da Lei 1/99 de 13-Jan – Estatuto\
+    \ do Jornalista) substitui: no nº 5 do art. 8º, a referência feita “ao abrigo da Lei nº 65/93 de, 26 de Agosto, gozam\
+    \ de regime de urgência.” pela “ao abrigo da Lei nº 46/2007 de, de 24 de Agosto, gozam de regime de urgência.”; e nos\
+    \ nºs 3, 5, 6 e 7 do art. 21º a expressão “Comissão da Carteira Profissional do Jornalista” pela “Comissão da Carteira\
+    \ Profissional de Jornalista”\0ta”\0"
+  source: null
+  date: '2007-11-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:07:31Z'
   warnings: []
   errors: []
 ---

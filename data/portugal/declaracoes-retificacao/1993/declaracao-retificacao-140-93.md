@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 178/1993, 1º Suplemento, Série I-A de 1993-07-31
   number: '178'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4144-(33) a 4144-(33)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/07/178a01/00330033.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/140/1993/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/140-1993-616597
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:36:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f3913d634e2a90a97e56de2d746e732ced0e558cdeffa992abe3289311dd1cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: baa8f02cb187123af81605f824eb0c8b6928eb8fba03d0bc53536b63435fe36f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:36:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro de Medicina Pedagógica
-- Pessoal Dirigente
-- Ministério da Educação
 - Definição de Competências
 - Delegação Escolar
 - Direcção Escolar
-- Extinção de Serviços
 - Direcção Regional de Educação
+- Extinção de Serviços
+- Ministério da Educação
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Transferência de Competências
 - Transferência de Pessoal
@@ -83,21 +83,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/141/1993/04/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/141/1993/04/26/p/dre
+- type: cites
+  target: pt:dre:665341:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:36:37Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 140/93
+# Declaração de rectificação n.º 140/93
 
 Para os devidos efeitos se declara que o [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado no Diário da República, n.º 97, de 26 de Abril de 1993, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/10/2010/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-2010-611160
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-20T00:00:00Z'
+  retrieved_at: '2026-10-22T19:12:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fef23ec2bada0da033c2a81bbeeb00cf816916bcd5adf9863458ba5638bc0168
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d58b92ba1ec9a958898a2c9b49eddf2ef96b675f04981b5a2f35d6ea4e70b2d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:12:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vila Franca de Xira
-- Reserva Ecológica Nacional
 - Ordenamento do Território
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
+- Vila Franca de Xira
 relationships:
 - type: amended_by
   target: pt:dre:613248:por
@@ -90,16 +90,27 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1374/2009/10/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1374/2009/10/29/p/dre
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:613248:por
+  label: "Rectificados os lapsos decorrentes da presente declaração e republicadas na integra as respectivas plantas em anexo,\
+    \ na redacção da Decl-Rect 94-B/2009, de 28-Dez e da Port 1374/2009, de 29-Out, pela DECL-RECT.13/2010.20.04.2010.PCM,\
+    \ DR.IS [76] de 20.04.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/13-2010-613248
+  date: '2010-04-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:12:27Z'
   warnings: []
   errors: []
 ---
@@ -110,10 +121,10 @@ Ao abrigo da alínea h) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 162/2007](
 
 Assim, onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/02/04000/0055300554.pdf))](https://files.diariodarepublica.pt/1s/2010/02/04000/0055300554.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/02/04000/0055300554.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/02/04000/0055300554.pdf))](https://files.diariodarepublica.pt/1s/2010/02/04000/0055300554.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/02/04000/0055300554.pdf)
 
 Centro Jurídico, 25 de Fevereiro de 2010. - A Directora, Susana de Meneses Brasil de Brito.

@@ -105,6 +105,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/15-c/2026/02/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/15-c/2026/02/01/p/dre
+- type: cites
+  target: pt:dre:1031784677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1031784680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:932716527:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0

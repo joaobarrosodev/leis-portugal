@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/69/2026/02/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/69-2026-1047287417
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-12T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3966d4f1adf1d118a92434b4be2b0662a3ced20c435d99f9b21c8f2f3465a711
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42b1c509ed335ac6174b7075a8040b9b1e89d710d9e30ead328700a2a2cfca23
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Declaração de Rendimentos
-- Regulamentação de Atos Legislativos
 - Imposto sobre o Rendimento
 - IRS
+- Regulamentação de Atos Legislativos
 - Remuneração
 - Trabalhador por Conta de Outrem
 relationships:
@@ -85,16 +85,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/33/2024/01/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/33/2024/01/31/p/dre
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:839799721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:933746510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:993270096:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:289/2025
+  label: Revoga, a partir de 13 de fevereiro de 2026, com efeitos a 1 de janeiro de 2026, nos termos do artigo 2.º do presente
+    diploma, as instruções de preenchimento aprovadas pela Portaria n.º 289/2025/1, de 1 de setembro, Diário da República
+    n.º 167/2025, Série I
+  source: null
+  date: '2025-09-01'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:01Z'
   warnings: []
   errors: []
 ---
@@ -129,28 +152,42 @@ São revogadas as instruções de preenchimento aprovadas pela [Portaria n.º 28
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2026.
 
-**A Secretária de Estado dos Assuntos Fiscais, Cláudia Maria dos Reis Duarte Melo de Carvalho, em 4 de fevereiro de 2026.**
+A Secretária de Estado dos Assuntos Fiscais, Cláudia Maria dos Reis Duarte Melo de Carvalho, em 4 de fevereiro de 2026.
 
-![](https://files.diariodarepublica.pt/images/1047287417/1047287483.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1047287417/1047287483.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1047287417/1047287484.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1047287417/1047287484.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1047287417/1047287485.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1047287417/1047287485.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1047287417/1047287486.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1047287417/1047287486.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1047287417/1047287487.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1047287417/1047287487.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1047287417/1047287488.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1047287417/1047287488.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1047287417/1047287489.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1047287417/1047287489.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1047287417/1047287490.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1047287417/1047287490.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1047287417/1047287491.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1047287417/1047287491.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1047287417/1047287492.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1047287417/1047287492.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1047287417/1047287493.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1047287417/1047287493.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1047287417/1047287494.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1047287417/1047287494.png) |
+| --- |
+
+119947595

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/14/2001/07/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-2001-392840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-07-20T00:00:00Z'
+  retrieved_at: '2026-10-22T18:57:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f47a424db925e8d813569e894666ac47b8da60159e3dfe98d2c1e199550c6999
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e379bcaf88d4fc5d2d33be5fc6d83240b8c33b44ac92ed579c995687172aa02b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:57:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,33 +68,33 @@ reuse:
 subjects:
 - Exoneração
 - Governo XIV
-- Secretário de Estado Adjunto do Ministro da Saúde
-- Secretário de Estado do Ensino Superior
-- Secretário de Estado do Turismo
-- Secretário de Estado da Indústria Comércio e Serviços
-- Secretário de Estado da Cultura
-- Secretário de Estado da Educação
-- Secretário de Estado do Tesouro e das Finanças
-- Secretário de Estado dos Assuntos Fiscais
-- Secretário de Estado para a Igualdade
 - Nomeação
 - Rectificação de Numero de Diploma
 - Secretário de Estado Adjunto do Ministro da Economia
+- Secretário de Estado Adjunto do Ministro da Saúde
 - Secretário de Estado da Administração Educativa
 - Secretário de Estado da Comunicação Social
+- Secretário de Estado da Cultura
+- Secretário de Estado da Educação
+- Secretário de Estado da Indústria Comércio e Serviços
+- Secretário de Estado do Ensino Superior
 - Secretário de Estado do Orçamento
+- Secretário de Estado do Tesouro e das Finanças
+- Secretário de Estado do Turismo
+- Secretário de Estado dos Assuntos Fiscais
 - Secretário de Estado para a Defesa do Consumidor
+- Secretário de Estado para a Igualdade
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:57:43Z'
   warnings: []
   errors: []
 ---

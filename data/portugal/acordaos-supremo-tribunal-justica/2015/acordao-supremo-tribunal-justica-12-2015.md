@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/20000/0891508933.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/12/2015/10/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/12-2015-70641454
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-13T00:00:00Z'
+  retrieved_at: '2026-10-22T17:53:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5232423775d7c5fa4b86487b33423c57315582f22d7565130bfe14e51b6f4be0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0950e255e039b7a324d1dc4a7a5ce1004197a046c6b25ac62479516198586eac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:53:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,14 +70,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aquisição de Imóveis
-- Património
+- Casamento
 - Código Civil
 - Cônjuge
+- Direito de Família
 - Divórcio
 - Interpretação do Direito
+- Património
 - Propriedade de BENS
-- Casamento
-- Direito de Família
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/303/2007/08/24/p/dre
@@ -87,16 +87,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/2013/07/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/2013/07/16/p/dre
+- type: cites
+  target: pt:dre:497799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640911:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:53:39Z'
   warnings: []
   errors: []
 ---

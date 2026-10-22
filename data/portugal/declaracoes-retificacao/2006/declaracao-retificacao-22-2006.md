@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/22/2006/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-2006-652895
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:06:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ed64b84e959d140442ee7a36f862f19ed31451df49726f58dd95258ad2aff23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7af9697ed71da3d552e613eebacd22f028cb18da680afabf8e7a38392b28d2d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:06:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Ordenamento do Território
-- Política Industrial
-- Desenvolvimento Social
-- Política Energética
-- Política de Saúde
+- Açores
 - Apoio ao Investimento
+- Cooperação Internacional
+- Desenvolvimento Económico
+- Desenvolvimento Social
+- Formação Profissional
 - Gestão Pública
 - Igualdade de Oportunidades
 - Investimento Público
+- Ordenamento do Território
 - Planeamento Económico
 - Planeamento Regional
-- Desenvolvimento Económico
 - Plano Regional
+- Política Agrícola
 - Política Cultural
-- Cooperação Internacional
+- Política de Educação
+- Política de Emprego
 - Política de Habitação
 - Política de Investigação e Desenvolvimento
-- Política do Ambiente
-- Política de Educação
-- Política Financeira
-- Política de Emprego
-- Política Agrícola
-- Recursos Humanos
 - Política de Juventude
-- Açores
+- Política de Saúde
+- Política do Ambiente
+- Política Energética
+- Política Financeira
+- Política Industrial
+- Recursos Humanos
 relationships:
 - type: amended_by
   target: pt:dre:353964:por
@@ -101,16 +101,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/5/2006/02/08/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/5/2006/02/08/a/dre
+- type: cites
+  target: pt:dre:554130:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:353964:por
+  label: "Rectificada pela DECL-RECT.30/2006.29.05.2006.PCM, DR.IS-A [108] de 05.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/30-2006-353964
+  date: '2006-05-29'
+- type: corrects
+  target: pt:numero:decreto-legislativo-regional:5/2006/A
+  label: "Rectifica o Decreto Legislativo Regional n.º 5/2006/A, de 8 de Fevereiro, DR.IS-A [28]\0\0"
+  source: null
+  date: '2006-02-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:06:07Z'
   warnings: []
   errors: []
 ---
@@ -125,6 +139,6 @@ Em Julho de 2005 foi remetida à Comissão Europeia a candidatura do Terminal Ma
 
 2 - Nas pp. 923, 925, 930, 947, 989-990, 990, 991-992 e 997, os quadros saíram com várias inexactidões, pelo que se procede à sua republicação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/070a00/26742677.pdf))](https://files.diariodarepublica.pt/1s/2006/04/070a00/26742677.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/070a00/26742677.pdf)
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 27 de Março de 2006. - O Secretário-Geral, José M. Sousa Rego.

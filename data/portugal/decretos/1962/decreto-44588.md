@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44588-1962-159925
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-09-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:31:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5754029b8ec07cf25de21b7125a1d03a9aa54fca1c88ac6a20b48296e881fd19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b41c811332bf96e371335c57fb1e1293df4985fc39019136f5dce96125e30449
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:31:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:163654:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:31:11Z'
   warnings: []
   errors: []
 ---
@@ -87,10 +91,10 @@ Com fundamento no artigo 3.º do [Decreto-Lei n.º 44492](https://diariodarepubl
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças um crédito especial da quantia de 1000000$00, devendo a mesma importância ser adicionada à verba inscrita no artigo 121.º «Despesas com a recepção, manutenção e colocação dos indivíduos nacionais que residiam na índia Portuguesa», do capítulo 13.º do orçamento do Ministério do Interior para o corrente ano económico.
+Artigo 1.º É aberto no Ministério das Finanças um crédito especial da quantia de 1000000$00, devendo a mesma importância ser adicionada à verba inscrita no artigo 121.º «Despesas com a recepção, manutenção e colocação dos indivíduos nacionais que residiam na índia Portuguesa», do capítulo 13.º do orçamento do Ministério do Interior para o corrente ano económico.
 
-###### Art. 2.º Como compensação do crédito designado no artigo anterior é anulada a mesma quantia na dotação do capítulo 6.º, artigo 50.º, n.º 1), do orçamento do Ministério das Finanças para o corrente ano económico.
+Art. 2.º Como compensação do crédito designado no artigo anterior é anulada a mesma quantia na dotação do capítulo 6.º, artigo 50.º, n.º 1), do orçamento do Ministério das Finanças para o corrente ano económico.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Setembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior.

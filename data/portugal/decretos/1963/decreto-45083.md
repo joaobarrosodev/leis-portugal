@@ -46,40 +46,149 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45083-1963-627387
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-01-02T00:00:00Z'
+  retrieved_at: '2026-10-22T19:35:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bcd9b9a93c8f6d4c188409ced954a2a43baed28cc481d8e06e37c0d594c2996b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9eeb97fa407994d6060f593e9144f56847a7384aca191ddb729fcdbb0d71db16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:35:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajudas de Custo
+- Angola.Colónia Portuguesa
+- Aposentação
+- Aquisição de Imóveis
+- Autorização de Despesas
+- CABO Verde.Colónia Portuguesa
+- Comissão Administrativa
+- Crédito Especial
+- Criação de Serviços
+- CTT
+- Despesas Públicas
+- Diretor
+- Estatuto
+- Fundo de Assistência Sanitária
+- Gestão Administrativa
+- Gestão Financeira
+- Governo Colonial
+- Gratificação
+- Horas Extraordinárias
+- Inspecção Provincial de Comércio Bancário
+- Macau.Colónia Portuguesa
+- Mobilidade de Pessoal
+- Moçambique.Colónia Portuguesa
+- Pessoal Auxiliar
+- Pessoal de Chefia
+- Pessoal de Inspecção
+- Pessoal Docente
+- PIDE
+- PSP
+- Quadro de Pessoal
+- Residência de Estudantes
+- Subsídio
+- Tempo de Serviço
+- Timor.Colónia Portuguesa
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:222187:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:687196:por
+  label: "Substituído o quadro único e as respectivas categorias fixado no mapa anexo ao Dec Lei 43582 de 04-Abr de 1961,\
+    \ com as alterações introduzidas pelo presente diploma, pelo DEC LEI.45280.30.09.1963.MI, DG.IS [230] de 30.09.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45280-1963-687196
+  date: '1963-09-30'
+- type: cites
+  target: pt:dre:140856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171352:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563179:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:35:13Z'
   warnings: []
   errors: []
 ---
@@ -106,17 +215,17 @@ Disposições especiais
 
 A) Cabo Verde
 
-###### Artigo 1.º É elevada de 28525$50 a dotação do capítulo 3.º da tabela de despesa ordinária do orçamento geral da província.
+Artigo 1.º É elevada de 28525$50 a dotação do capítulo 3.º da tabela de despesa ordinária do orçamento geral da província.
 
-###### Art. 2.º O artigo 7.º do [Decreto n.º 44775](https://diariodarepublica.pt/dr/detalhe/decreto/44775-1962-155210), de 6 de Dezembro de 1962, passa a ter a seguinte redacção:
+Art. 2.º O artigo 7.º do [Decreto n.º 44775](https://diariodarepublica.pt/dr/detalhe/decreto/44775-1962-155210), de 6 de Dezembro de 1962, passa a ter a seguinte redacção:
 
 Ao director técnico do Laboratório de Análises Clínicas é atribuída a gratificação especial anual de 3000$00.
 
-###### Art. 3.º Ficam os órgãos legislativos da província autorizados a fixar as gratificações mensais à comissária provincial e outros dirigentes da Mocidade Portuguesa Feminina.
+Art. 3.º Ficam os órgãos legislativos da província autorizados a fixar as gratificações mensais à comissária provincial e outros dirigentes da Mocidade Portuguesa Feminina.
 
 B) Guiné
 
-###### Art. 4.º Nos serviços autónomos dos correios, telégrafos e telefones são criados os seguintes lugares:
+Art. 4.º Nos serviços autónomos dos correios, telégrafos e telefones são criados os seguintes lugares:
 
 Pessoal contratado:
 
@@ -136,7 +245,7 @@ Pessoal assalariado:
 
 C) S. Tomé e Príncipe
 
-###### Art. 5.º Ao funcionário dos serviços dos correios, telégrafos e telefones que acumular, com o exercício das suas funções, a fiscalização da empreitada da rede de distribuição de energia eléctrica à cidade de S. Tomé, é atribuída a gratificação mensal de 1000$00.
+Art. 5.º Ao funcionário dos serviços dos correios, telégrafos e telefones que acumular, com o exercício das suas funções, a fiscalização da empreitada da rede de distribuição de energia eléctrica à cidade de S. Tomé, é atribuída a gratificação mensal de 1000$00.
 
 § 1.º Esta gratificação apenas é abonável enquanto o funcionário se mantiver no exercício efectivo daquelas funções e deverá cessar logo que as obras se encontrem concluídas.
 
@@ -144,41 +253,41 @@ C) S. Tomé e Príncipe
 
 D) Angola
 
-###### Art. 6.º Transitam a título definitivo, por meio de declaração publicada no Boletim Oficial, independentemente de qualquer outra formalidade, para os lugares de chefe de serviços administrativos e de chefes de secção dos serviços de agricultura e florestas, criados pelo Diploma Legislativo Ministerial n.º 88, de 26 de Outubro de 1961, o chefe de secção e os primeiros-oficiais que actualmente desempenham, interinamente, aquelas funções.
+Art. 6.º Transitam a título definitivo, por meio de declaração publicada no Boletim Oficial, independentemente de qualquer outra formalidade, para os lugares de chefe de serviços administrativos e de chefes de secção dos serviços de agricultura e florestas, criados pelo Diploma Legislativo Ministerial n.º 88, de 26 de Outubro de 1961, o chefe de secção e os primeiros-oficiais que actualmente desempenham, interinamente, aquelas funções.
 
-###### Art. 7.º É criado em Angola o Fundo de Assistência Sanitária, cujas atribuições e condições de funcionamento serão regulamentadas pelo Governo-Geral da província.
+Art. 7.º É criado em Angola o Fundo de Assistência Sanitária, cujas atribuições e condições de funcionamento serão regulamentadas pelo Governo-Geral da província.
 
-###### Art. 8.º É autorizado o Governo-Geral de Angola a conceder no corrente ano económico um subsídio extraordinário de 25000000$00 à Câmara Municipal de Luanda.
+Art. 8.º É autorizado o Governo-Geral de Angola a conceder no corrente ano económico um subsídio extraordinário de 25000000$00 à Câmara Municipal de Luanda.
 
 § único. Para execução do disposto no corpo do artigo fica o Governo da província autorizado a abrir um crédito especial da referida importância, a inscrever na tabela de despesa extraordinária em vigor, com contrapartida no saldo das contas de exercícios findos.
 
-###### Art. 9.º É autorizado o Governo-Geral de Angola a dar o aval da província, até ao montante de 6000000$00, no empréstimo a contrair no Banco de Angola pela Congregação dos Irmãos Maristas, com as cláusulas e condições que forem ajustadas entre si, e destinado à conclusão do edifício em construção na cidade de Luanda para novas instalações do colégio que a referida Congregação ali mantém sob a designação de «Colégio Cristo-Rei».
+Art. 9.º É autorizado o Governo-Geral de Angola a dar o aval da província, até ao montante de 6000000$00, no empréstimo a contrair no Banco de Angola pela Congregação dos Irmãos Maristas, com as cláusulas e condições que forem ajustadas entre si, e destinado à conclusão do edifício em construção na cidade de Luanda para novas instalações do colégio que a referida Congregação ali mantém sob a designação de «Colégio Cristo-Rei».
 
 § único. A província de Angola goza do privilégio creditório, nos termos do artigo 878.º do Código Civil, pelas quantias que haja de despender para cumprimento da responsabilidade assumida nos termos do corpo deste artigo.
 
 E) Moçambique
 
-###### Art. 10.º A alínea d) do artigo 41.º do Estatuto do Corpo de Polícia de Segurança Pública, aprovado pelo Diploma Legislativo Ministerial n.º 27, de 19 de Outubro de 1961, passa a ter a seguinte redacção:Art. 41.º ...
+Art. 10.º A alínea d) do artigo 41.º do Estatuto do Corpo de Polícia de Segurança Pública, aprovado pelo Diploma Legislativo Ministerial n.º 27, de 19 de Outubro de 1961, passa a ter a seguinte redacção:Art. 41.º ...
 
 ...
 
 d) Adjunto administrativo (oficial do serviço, de administração militar de preferência ou do quadro do serviço geral do Exército) - patente não inferior a tenente.
 
-###### Art. 11.º São ratificados o Diploma Legislativo n.º 2151 e a [Portaria n.º 15840](https://diariodarepublica.pt/dr/detalhe/portaria/15840-1956-256379), respectivamente de 11 de Novembro de 1961 e 3 de Março de 1962, da província de Moçambique.
+Art. 11.º São ratificados o Diploma Legislativo n.º 2151 e a [Portaria n.º 15840](https://diariodarepublica.pt/dr/detalhe/portaria/15840-1956-256379), respectivamente de 11 de Novembro de 1961 e 3 de Março de 1962, da província de Moçambique.
 
-###### Art. 12.º Aos serviços de centralização e coordenação de informações de Moçambique, criados pelo [Decreto n.º 43761](https://diariodarepublica.pt/dr/detalhe/decreto/43761-1961-171352), de 29 de Junho de 1961, é aplicável o disposto no artigo 1.º e seu § único do [Decreto n.º 44327](https://diariodarepublica.pt/dr/detalhe/decreto/44327-1962-140856), de 5 de Maio de 1962.
+Art. 12.º Aos serviços de centralização e coordenação de informações de Moçambique, criados pelo [Decreto n.º 43761](https://diariodarepublica.pt/dr/detalhe/decreto/43761-1961-171352), de 29 de Junho de 1961, é aplicável o disposto no artigo 1.º e seu § único do [Decreto n.º 44327](https://diariodarepublica.pt/dr/detalhe/decreto/44327-1962-140856), de 5 de Maio de 1962.
 
 § único. O director dos serviços de centralização e coordenação de informações de Moçambique fará parte do gabinete referido no artigo 4.º do Diploma Legislativo Ministerial n.º 28, de 19 de Outubro de 1961, publicado naquela província.
 
-###### Art. 13.º Ao pessoal dos serviços de marinha da província de Moçambique empregado nos trabalhos de dragagem actualmente em curso nos portos de Lourenço Marques e Beira é reconhecido o direito ao abono de horas extraordinárias, nos termos da alínea a) do artigo 160.º do Estatuto do Funcionalismo Ultramarino, sem sujeição, porém, ao limite estabelecido na parte final do corpo do artigo 161.º do mesmo diploma.
+Art. 13.º Ao pessoal dos serviços de marinha da província de Moçambique empregado nos trabalhos de dragagem actualmente em curso nos portos de Lourenço Marques e Beira é reconhecido o direito ao abono de horas extraordinárias, nos termos da alínea a) do artigo 160.º do Estatuto do Funcionalismo Ultramarino, sem sujeição, porém, ao limite estabelecido na parte final do corpo do artigo 161.º do mesmo diploma.
 
 § único. O pessoal referido neste artigo não terá direito, pelos serviços assim prestados, a ajudas de custo nem ao subsídio diário de dragagem previsto no artigo 20.º do Diploma Legislativo Provincial n.º 2152, de 14 de Novembro de 1961.
 
-###### Art. 14.º É autorizado o Governo-Geral de Moçambique a abrir um crédito especial de 212612$82, a inscrever em adicional à tabela de despesa ordinária do orçamento geral da província para o corrente ano económico, destinado a regularizar as despesas feitas em 1958 com o arranjo urbanístico do terreno anexo ao edifício das repartições em Lourenço Marques, tomando como contrapartida recursos orçamentais.
+Art. 14.º É autorizado o Governo-Geral de Moçambique a abrir um crédito especial de 212612$82, a inscrever em adicional à tabela de despesa ordinária do orçamento geral da província para o corrente ano económico, destinado a regularizar as despesas feitas em 1958 com o arranjo urbanístico do terreno anexo ao edifício das repartições em Lourenço Marques, tomando como contrapartida recursos orçamentais.
 
 F) Macau
 
-###### Art. 15.º Ao pessoal que prestar serviço no curso nocturno de Português, criado pelo Diploma Legislativo n.º 1561, de 17 de Novembro de 1962, serão atribuídas as seguintes gratificações mensais:
+Art. 15.º Ao pessoal que prestar serviço no curso nocturno de Português, criado pelo Diploma Legislativo n.º 1561, de 17 de Novembro de 1962, serão atribuídas as seguintes gratificações mensais:
 
 Aos professores, durante 10 meses ... 825$00
 
@@ -188,21 +297,21 @@ Aos serventes ... 165$00
 
 § único. Os encargos com as gratificações referidas no corpo do artigo serão suportados pela verba que for inscrita no orçamento geral destinada à difusão da língua portuguesa.
 
-###### Art. 16.º É substituída pela seguinte a redacção do § único do artigo 9.º do [Decreto n.º 44730](https://diariodarepublica.pt/dr/detalhe/decreto/44730-1962-155578), de 24 de Novembro de 1962:
+Art. 16.º É substituída pela seguinte a redacção do § único do artigo 9.º do [Decreto n.º 44730](https://diariodarepublica.pt/dr/detalhe/decreto/44730-1962-155578), de 24 de Novembro de 1962:
 
 As condições de funcionamento da instituição serão reguladas em diploma legislativo do Governo na província.
 
-###### Art. 17.º Ficam os órgãos legislativos da província autorizados a alterar as designações dos guardas da Polícia Marítima e Fiscal e a regulamentar a transição dos actuais guardas para as novas designações.
+Art. 17.º Ficam os órgãos legislativos da província autorizados a alterar as designações dos guardas da Polícia Marítima e Fiscal e a regulamentar a transição dos actuais guardas para as novas designações.
 
-###### Art. 18.º É autorizado o Governo da província a criar, com autonomia administrativa e financeira e sujeição a prestação de contas ao Tribunal Administrativo, um fundo especial destinado à aquisição ou construção de prédios para habitação de funcionários e à concessão, aos mesmos, de empréstimos para a construção ou compra ao fundo de prédios para seu uso próprio.
+Art. 18.º É autorizado o Governo da província a criar, com autonomia administrativa e financeira e sujeição a prestação de contas ao Tribunal Administrativo, um fundo especial destinado à aquisição ou construção de prédios para habitação de funcionários e à concessão, aos mesmos, de empréstimos para a construção ou compra ao fundo de prédios para seu uso próprio.
 
 § único. Fica o Governo da província autorizado a regulamentar as condições da aplicação e funcionamento do fundo, não podendo, porém, ser nele incorporadas as propriedades e os rendimentos dos bens pertencentes ao fundo de reserva da província a que se referem os artigos 76.º do [Decreto n.º 17881](https://diariodarepublica.pt/dr/detalhe/decreto/17881-1930-531248), de 11 de Janeiro de 1930, e 185.º e seguintes da antiga Carta Orgânica do Ultramar.
 
 G) Timor
 
-###### Art. 19.º Fica o Governo da província autorizado a abrir um crédito especial de 800000$00, tomando como contrapartida os saldos das contas de exercícios findos, destinado a regularizar despesas feitas em 1959, sem a existência de recursos orçamentais.
+Art. 19.º Fica o Governo da província autorizado a abrir um crédito especial de 800000$00, tomando como contrapartida os saldos das contas de exercícios findos, destinado a regularizar despesas feitas em 1959, sem a existência de recursos orçamentais.
 
-###### Art. 20.º É autorizado o Governo da província a criar e a regulamentar os serviços de transportes marítimos, organismo dotado de autonomia administrativa e financeira, no qual serão incorporados, para a sua exploração, o navio-motor Arbíru e os batelões Lapa e Laleia, presentemente a cargo dos serviços de marinha da província, nas bases seguintes:
+Art. 20.º É autorizado o Governo da província a criar e a regulamentar os serviços de transportes marítimos, organismo dotado de autonomia administrativa e financeira, no qual serão incorporados, para a sua exploração, o navio-motor Arbíru e os batelões Lapa e Laleia, presentemente a cargo dos serviços de marinha da província, nas bases seguintes:
 
 1.º Os serviços de transportes marítimos terão um orçamento privativo elaborado, aprovado e mandado executar nos termos do artigo 14.º do [Decreto n.º 28263](https://diariodarepublica.pt/dr/detalhe/decreto/28263-1937-478067), de 8 de Dezembro de 1937, de execução permanente por força do artigo 34.º do [Decreto n.º 29244](https://diariodarepublica.pt/dr/detalhe/decreto/29244-1938-500881), de 8 de Dezembro de 1938, e artigo 26.º do [Decreto n.º 34627](https://diariodarepublica.pt/dr/detalhe/decreto/34627-1945-529463), de 25 de Maio de 1945:
 
@@ -214,19 +323,19 @@ b) Constituem despesa do orçamento privativo as despesas com o pessoal, materia
 
 3.º Os resultados dos exercícios, depois de constituídos fundos de reserva de 15 por cento para grandes reparações e 30 por cento para aquisição de novo material flutuante, serão entregues, como receita do Estado, nos cofres do Tesouro.
 
-###### Art. 21.º A administração dos serviços é cometida a uma comissão administrativa, constituída pelo capitão dos portos, presidente, por um funcionário de Fazenda nomeado pelo governador e pelo representante da Associação Comercial e Industrial de Timor, como vogais.
+Art. 21.º A administração dos serviços é cometida a uma comissão administrativa, constituída pelo capitão dos portos, presidente, por um funcionário de Fazenda nomeado pelo governador e pelo representante da Associação Comercial e Industrial de Timor, como vogais.
 
 § único. Ao presidente da comissão administrativa é fixada a gratificação mensal de 1250$00 e aos vogais a remuneração é atribuída por senhas de presença de 125$00 por sessão, com o limite mensal de 750$00.
 
-###### Art. 22.º O expediente administrativo é assegurado por um funcionário com a categoria de segundo-oficial e designação de secretário, a prover por contrato sob proposta da comissão.
+Art. 22.º O expediente administrativo é assegurado por um funcionário com a categoria de segundo-oficial e designação de secretário, a prover por contrato sob proposta da comissão.
 
-###### Art. 23.º O tesoureiro da comissão administrativa será o recebedor de Fazenda do concelho onde a mesma comissão funcionar.
+Art. 23.º O tesoureiro da comissão administrativa será o recebedor de Fazenda do concelho onde a mesma comissão funcionar.
 
-###### Art. 24.º O pessoal da guarnição dos serviços de transportes marítimos, o secretário da comissão e o tesoureiro têm direito a uma percentagem, a fixar pelo governador sob proposta da comissão, nunca superior a 5 por cento sobre as receitas arrecadadas, excluído o subsídio, nos termos em que for regulamentado pelo Governo da província.
+Art. 24.º O pessoal da guarnição dos serviços de transportes marítimos, o secretário da comissão e o tesoureiro têm direito a uma percentagem, a fixar pelo governador sob proposta da comissão, nunca superior a 5 por cento sobre as receitas arrecadadas, excluído o subsídio, nos termos em que for regulamentado pelo Governo da província.
 
-###### Art. 25.º As guarnições dos batelões Laga e Laleia transitam para os serviços de transportes marítimos com todos os direitos e obrigações que nos serviços de marinha da província lhes eram atribuídos.
+Art. 25.º As guarnições dos batelões Laga e Laleia transitam para os serviços de transportes marítimos com todos os direitos e obrigações que nos serviços de marinha da província lhes eram atribuídos.
 
-###### Art. 26.º (transitório). No corrente ano económico:
+Art. 26.º (transitório). No corrente ano económico:
 
 a) O orçamento privativo será aprovado em portaria pelo governador; vigorará a contar do dia 1 do mês que essa portaria fixar e será constituído: na receita, pelas sobras livres, na data da entrada em vigor do orçamento privativo, de todas as verbas inscritas no orçamento geral e destinadas aos serviços que agora transitam para os serviços de transportes marítimos e pelas receitas próprias de exploração previstas desde a mesma data; na despesa, pelos encargos respectivos a contar daquela mesma data e pela importância do saldo orçamental;
 
@@ -236,51 +345,51 @@ II
 
 Disposições comuns e diversas
 
-###### Art. 27.º São tornados extensivos às restantes províncias ultramarinas os artigos 6.º e 9.º do Diploma Legislativo Ministerial n.º 84, de 26 de Outubro de 1961, publicado em Angola.
+Art. 27.º São tornados extensivos às restantes províncias ultramarinas os artigos 6.º e 9.º do Diploma Legislativo Ministerial n.º 84, de 26 de Outubro de 1961, publicado em Angola.
 
-###### Art. 28.º O quadro único do pessoal da Polícia Internacional e de Defesa do Estado, anexo ao [Decreto-Lei n.º 43582](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43582-1961-559033), de 4 de Abril de 1961, é aumentado de dois lugares de radiotelegrafista de 2.ª classe, nas províncias ultramarinas da Guiné, S. Tomé e Príncipe, Angola e Moçambique.
+Art. 28.º O quadro único do pessoal da Polícia Internacional e de Defesa do Estado, anexo ao [Decreto-Lei n.º 43582](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43582-1961-559033), de 4 de Abril de 1961, é aumentado de dois lugares de radiotelegrafista de 2.ª classe, nas províncias ultramarinas da Guiné, S. Tomé e Príncipe, Angola e Moçambique.
 
-###### Art. 29.º Ao artigo 74.º do [Decreto n.º 44239](https://diariodarepublica.pt/dr/detalhe/decreto/44239-1962-518398), de 16 de Março de 1962, é aditado a seguinte alínea:
+Art. 29.º Ao artigo 74.º do [Decreto n.º 44239](https://diariodarepublica.pt/dr/detalhe/decreto/44239-1962-518398), de 16 de Março de 1962, é aditado a seguinte alínea:
 
 q) Os topógrafos de 2.ª classe transitam para os lugares de topógrafo de 1.ª classe.
 
-###### Art. 30.º Os artigos 377.º e 378.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, passam a ter a seguinte redacção:
+Art. 30.º Os artigos 377.º e 378.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, passam a ter a seguinte redacção:
 
-###### Art. 377.º Os vencimentos do inspector e do director de 1.ª classe dos correios, telégrafos e telefones do ultramar colocados na Comissão Consultiva e Revisora da Legislação dos Correios, Telégrafos e Telefones do Ultramar serão, respectivamente, os correspondentes às letras D e E da tabela anexa ao [Decreto n.º 41430](https://diariodarepublica.pt/dr/detalhe/decreto/41430-1957-252057), de 6 de Dezembro de 1957.
+Art. 377.º Os vencimentos do inspector e do director de 1.ª classe dos correios, telégrafos e telefones do ultramar colocados na Comissão Consultiva e Revisora da Legislação dos Correios, Telégrafos e Telefones do Ultramar serão, respectivamente, os correspondentes às letras D e E da tabela anexa ao [Decreto n.º 41430](https://diariodarepublica.pt/dr/detalhe/decreto/41430-1957-252057), de 6 de Dezembro de 1957.
 
-###### Art. 378.º O consultor jurídico da Comissão referida no artigo anterior, cujos vencimentos são pagos pelos orçamentos ultramarinos, é, para os efeitos do mesmo artigo, incluído na letra F da tabela anexa ao [Decreto n.º 41430](https://diariodarepublica.pt/dr/detalhe/decreto/41430-1957-252057), de 6 de Dezembro de 1957.
+Art. 378.º O consultor jurídico da Comissão referida no artigo anterior, cujos vencimentos são pagos pelos orçamentos ultramarinos, é, para os efeitos do mesmo artigo, incluído na letra F da tabela anexa ao [Decreto n.º 41430](https://diariodarepublica.pt/dr/detalhe/decreto/41430-1957-252057), de 6 de Dezembro de 1957.
 
-###### Art. 31.º Os indivíduos que à data da publicação do Estatuto do Funcionalismo Ultramarino prestavam serviço nos serviços de portos, caminhos de ferro e transportes do ultramar, como assalariados permanentes, poderão concorrer, conjuntamente com o pessoal contratado e nomeado, a lugares de secretaria do quadro privativo dos mesmos serviços.
+Art. 31.º Os indivíduos que à data da publicação do Estatuto do Funcionalismo Ultramarino prestavam serviço nos serviços de portos, caminhos de ferro e transportes do ultramar, como assalariados permanentes, poderão concorrer, conjuntamente com o pessoal contratado e nomeado, a lugares de secretaria do quadro privativo dos mesmos serviços.
 
 § único. Os indivíduos referidos no corpo do artigo poderão ser nomeados ou promovidos em lugares do quadro de secretaria superiores à letra R do artigo 90.º do Estatuto do Funcionalismo Ultramarino desde que possuam o 1.º ciclo dos liceus ou equivalente e já estejam classificados nos respectivos concursos.
 
-###### Art. 32.º O corpo do artigo 7.º do [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415), de 25 de Maio de 1962, passa a ter a seguinte redacção:
+Art. 32.º O corpo do artigo 7.º do [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415), de 25 de Maio de 1962, passa a ter a seguinte redacção:
 
-###### Art. 7.º Além dos vencimentos referidos no artigo anterior, o pessoal técnico das missões e brigadas pode ser abonado, quando em exercício nas províncias ultramarinas, de subsídios diários e de campo, a fixar por despacho do Ministro do Ultramar ou, por sua delegação, pelos governadores das províncias.
+Art. 7.º Além dos vencimentos referidos no artigo anterior, o pessoal técnico das missões e brigadas pode ser abonado, quando em exercício nas províncias ultramarinas, de subsídios diários e de campo, a fixar por despacho do Ministro do Ultramar ou, por sua delegação, pelos governadores das províncias.
 
-###### Art. 33.º A gratificação aos inspectores bancários nas províncias de governo simples, a que se refere o § único do artigo 2.º do [Decreto-Lei n.º 44702](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44702-1962-237464), de 17 de Novembro de 1962, é fixada em 2000$00 mensais.
+Art. 33.º A gratificação aos inspectores bancários nas províncias de governo simples, a que se refere o § único do artigo 2.º do [Decreto-Lei n.º 44702](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44702-1962-237464), de 17 de Novembro de 1962, é fixada em 2000$00 mensais.
 
 § único. Os encargos criados pelo presente artigo serão suportados pelos orçamentos privativos das respectivas inspecções do comércio bancário, observando-se, quanto à província de Macau, o disposto no § único do artigo 15.º do [Decreto-Lei n.º 44702](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44702-1962-237464), de 17 de Novembro de 1962.
 
-###### Art. 34.º É substituída pela seguinte a redacção da alínea c) do artigo 43.º do Estatuto do Funcionalismo Ultramarino:
+Art. 34.º É substituída pela seguinte a redacção da alínea c) do artigo 43.º do Estatuto do Funcionalismo Ultramarino:
 
 c) Efectuando-se a comissão na metrópole, quando importe deslocação das províncias ultramarinas, ajuda de custo de embarque e os vencimentos referidos no n.º 4.º do artigo 277.º durante o período que, até ao limite máximo de 60 dias a contar da apresentação no Ministério, for fixado no despacho de que trata o artigo 41.º Posteriormente a esse período e até à data do início da viagem de regresso à província, será devido e abonado apenas o vencimento-base.
 
-###### Art. 35.º O tempo de serviço que os funcionários públicos ultramarinos hajam prestado nos organismos de coordenação económica com sede no ultramar e nos organismos extintos pelo [Decreto-Lei n.º 43874](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43874-1961-173969), de 24 de Agosto de 1961, será contado para todos os efeitos legais, incluindo a aposentação, nos termos estabelecidos na lei para os demais funcionários públicos.
+Art. 35.º O tempo de serviço que os funcionários públicos ultramarinos hajam prestado nos organismos de coordenação económica com sede no ultramar e nos organismos extintos pelo [Decreto-Lei n.º 43874](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43874-1961-173969), de 24 de Agosto de 1961, será contado para todos os efeitos legais, incluindo a aposentação, nos termos estabelecidos na lei para os demais funcionários públicos.
 
 § único. Os encargos para compensação de aposentação correspondentes ao tempo de serviço prestado nos organismos referidos no corpo deste artigo serão satisfeitos de conformidade com a legislação aplicável.
 
-###### Art. 36.º Consideram-se incluídas na autorização concedida pelo artigo 1.º do [Decreto n.º 44142](https://diariodarepublica.pt/dr/detalhe/decreto/44142-1961-178862), de 30 de Dezembro de 1961, a partir da data da entrada em vigor do mesmo diploma, as despesas correspondentes à diferença entre as pensões de aposentação concedidas até 31 de Dezembro daquele ano a funcionários da Santa Casa da Misericórdia de Goa residentes na metrópole e os subsídios que lhes foram concedidos pela Santa Casa da Misericórdia de Lisboa.
+Art. 36.º Consideram-se incluídas na autorização concedida pelo artigo 1.º do [Decreto n.º 44142](https://diariodarepublica.pt/dr/detalhe/decreto/44142-1961-178862), de 30 de Dezembro de 1961, a partir da data da entrada em vigor do mesmo diploma, as despesas correspondentes à diferença entre as pensões de aposentação concedidas até 31 de Dezembro daquele ano a funcionários da Santa Casa da Misericórdia de Goa residentes na metrópole e os subsídios que lhes foram concedidos pela Santa Casa da Misericórdia de Lisboa.
 
 § único. Mensalmente será levantada da conta de depósito da Santa Casa da Misericórdia de Goa, existente na sede do Banco Nacional Ultramarino, a quantia necessária para fazer face aos encargos a que se refere o corpo deste artigo, a qual será levada a crédito da conta de depósitos do Estado da Índia, aberta na sede do mesmo Banco.
 
-###### Art. 37.º É atribuído à Comissão Central de Goeses, Damanenses e Diuenses, com sede em Lisboa, por conta das disponibilidades existentes na conta de depósito do Estado da Índia, referida no artigo 1.º do [Decreto n.º 44142](https://diariodarepublica.pt/dr/detalhe/decreto/44142-1961-178862), de 30 de Dezembro de 1961, um subsídio anual de 168000$00, destinado à manutenção de um lar para estudantes do ensino secundário.
+Art. 37.º É atribuído à Comissão Central de Goeses, Damanenses e Diuenses, com sede em Lisboa, por conta das disponibilidades existentes na conta de depósito do Estado da Índia, referida no artigo 1.º do [Decreto n.º 44142](https://diariodarepublica.pt/dr/detalhe/decreto/44142-1961-178862), de 30 de Dezembro de 1961, um subsídio anual de 168000$00, destinado à manutenção de um lar para estudantes do ensino secundário.
 
 § único. No corrente ano, além do subsídio mencionado no corpo do artigo, será concedido à mesma Comissão um subsídio extraordinário de 55000$00 para ocorrer às despesas de instalação do referido lar.
 
-###### Art. 38.º Ficam os governadores-gerais e de província autorizados a abrir, cumpridas as formalidades legais, os créditos necessários para a execução deste diploma, servindo de contrapartida disponibilidades ou recursos orçamentais.
+Art. 38.º Ficam os governadores-gerais e de província autorizados a abrir, cumpridas as formalidades legais, os créditos necessários para a execução deste diploma, servindo de contrapartida disponibilidades ou recursos orçamentais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Junho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

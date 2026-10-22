@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/89-t/2026/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/89-t-2026-1058814982
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-23T00:00:00Z'
+  retrieved_at: '2026-10-22T18:33:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf9103d0c4783c79adfd21b4cbe9ae85e8e88e08749cc3e4d9882c80e027b2b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 907e779f929ef7081cc5bab79c1021c2c2f6297b4b20d1667dbcd3e3ad79667f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:33:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vida Selvagem
-- Ordenamento do Território
-- Proteção dos Animais
-- Regulamentação de Atos Legislativos
 - Avaliação de Impacte Ambiental
-- Instituto da Conservação da Natureza e das Florestas
-- Proteção do Ambiente
+- Contraordenação
 - Diversidade Biológica
 - Espécie Protegida
+- Instituto da Conservação da Natureza e das Florestas
+- Ordenamento do Território
+- Proteção do Ambiente
+- Proteção dos Animais
+- Regulamentação de Atos Legislativos
 - Serra da Malcata
+- Vida Selvagem
 - ZONA de Protecção Especial da Serra da Malcata
 - Zona Especial de Conservação
-- Contraordenação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/140/1999/04/24/p/dre
@@ -108,16 +108,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
+- type: cites
+  target: pt:dre:1025550889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130273578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:33:23Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +154,7 @@ validation:
 
 de 23 de fevereiro
 
-O [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, procedeu à designação como Zona Especial de Conservação (ZEC) do Sítio de Importância Comunitária (SIC) Malcata (PTCON0004), identificando a respetiva área e coordenadas geográficas, assim como a sua localização e limites geográficos. O referido diploma determinou, ainda, que as medidas e ações complementares de conservação de habitats e espécies são definidas em planos de gestão, a aprovar por portaria nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.<sup>os</sup>[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro.
+O [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, procedeu à designação como Zona Especial de Conservação (ZEC) do Sítio de Importância Comunitária (SIC) Malcata (PTCON0004), identificando a respetiva área e coordenadas geográficas, assim como a sua localização e limites geográficos. O referido diploma determinou, ainda, que as medidas e ações complementares de conservação de habitats e espécies são definidas em planos de gestão, a aprovar por portaria nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.os[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro.
 
 Paralelamente, ao abrigo da Diretiva Aves e conforme previsto no artigo 6.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, na sua redação original, então vigente, o [Decreto-Lei n.º 384-B/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-b-1999-154987), de 23 de setembro, procedeu à classificação da Zona de Proteção Especial (ZPE) Serra da Malcata (PTZPE0007), cuja área, delimitada nos termos do artigo 2.º e do anexo vii do referido decreto-lei, na sua redação atual, se sobrepõe totalmente à da ZEC Malcata.
 
@@ -136,7 +164,7 @@ Com vista à prossecução dos objetivos fixados, o referido decreto-lei definiu
 
 Neste contexto, cumpre agora aprovar o plano de gestão da ZEC Malcata e da ZPE Serra da Malcata, numa abordagem integrada que dê resposta às exigências ecológicas específicas da ZEC e da ZPE, procedendo à identificação dos tipos de habitat naturais e seminaturais e das espécies da flora e fauna selvagens com presença significativa na sua área e que justificaram o seu reconhecimento como SIC pela Comissão Europeia e a sua subsequente classificação como ZEC, incluindo as tendências populacionais favoráveis das espécies de aves com ocorrência regular na ZPE, bem como adotando um conjunto de medidas e ações de conservação complementares, designadamente medidas de gestão ativa e de suporte, conforme o disposto no artigo 13.º do [Decreto-Lei n.º 18/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2026-1025550889), de 27 de janeiro. O plano de gestão da ZEC Malcata e da ZPE Serra da Malcata tem também por função estabelecer as prioridades de conservação da zona, identificando as espécies e os tipos de habitat protegidos com presença significativa na ZEC e na ZPE em relação aos quais se impõem medidas mais urgentes.
 
-Assim, ao abrigo do disposto na alínea a) do n.º 3 do artigo 7.º e nos n.<sup>os</sup>1 e 2 do artigo 7.º-B do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, na sua redação atual, do artigo 5.º do [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, e do artigo 13.º [Decreto-Lei n.º 18/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2026-1025550889), de 27 de janeiro, em conjugação com os artigos 15.º, 25.º e 27.º do [Decreto-Lei n.º 87-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2025-926483751), de 25 de julho, na sua redação atual, que aprova o regime de organização e funcionamento do XXV Governo Constitucional, manda o Governo, pelo Ministro da Economia e da Coesão Territorial, pela Ministra do Ambiente e Energia e pelo Ministro da Agricultura e Mar, o seguinte:
+Assim, ao abrigo do disposto na alínea a) do n.º 3 do artigo 7.º e nos n.os1 e 2 do artigo 7.º-B do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, na sua redação atual, do artigo 5.º do [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, e do artigo 13.º [Decreto-Lei n.º 18/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2026-1025550889), de 27 de janeiro, em conjugação com os artigos 15.º, 25.º e 27.º do [Decreto-Lei n.º 87-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2025-926483751), de 25 de julho, na sua redação atual, que aprova o regime de organização e funcionamento do XXV Governo Constitucional, manda o Governo, pelo Ministro da Economia e da Coesão Territorial, pela Ministra do Ambiente e Energia e pelo Ministro da Agricultura e Mar, o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -154,7 +182,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 20 de fevereiro de 2026.
 
-**O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho. - O Ministro da Agricultura e Mar, José Manuel Fernandes.**
+O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho. - O Ministro da Agricultura e Mar, José Manuel Fernandes.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -168,9 +196,11 @@ QUADRO 1
 
 Unidades territoriais abrangidas pela ZEC Malcata e pela ZPE Serra da Malcata
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815321.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815321.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815322.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815322.png) |
+| --- |
 
 CARACTERIZAÇÃO
 
@@ -206,13 +236,15 @@ QUADRO 2
 
 Tipos de habitat do anexo I da Diretiva Habitats com presença significativa na ZEC
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815323.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815323.png) |
+| --- |
 
 QUADRO 3
 
 Espécies do anexo II da Diretiva Habitats com presença significativa na ZEC
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815324.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815324.png) |
+| --- |
 
 Apesar de não ter populações estabelecidas na ZEC, foi igualmente incluído como valor alvo o lince-ibérico Lynx pardinus (incluído nos anexos II e IV da Diretiva Habitats), devido à relevância do habitat potencial existente neste território de ocorrência histórica mais recente da espécie.
 
@@ -222,7 +254,8 @@ QUADRO 4
 
 Espécies de aves do anexo I da Diretiva Aves e as espécies migradoras não incluídas nesse anexo e cuja ocorrência seja regular, com presença significativa especialmente relevante na ZPE
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815325.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815325.png) |
+| --- |
 
 OBJETIVOS DE CONSERVAÇÃO
 
@@ -236,11 +269,14 @@ QUADRO 5
 
 Objetivos de conservação para a gestão da ZEC e da ZPE
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815326.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815326.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815327.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815327.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815328.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815328.png) |
+| --- |
 
 MEDIDAS DE CONSERVAÇÃO COMPLEMENTARES
 
@@ -254,11 +290,14 @@ QUADRO 6
 
 Quadro operacional das medidas de conservação complementares
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815329.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815329.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815330.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815330.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815331.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815331.png) |
+| --- |
 
 MEDIDAS DE CONSERVAÇÃO REGULAMENTARES
 
@@ -286,7 +325,8 @@ QUADRO 7
 
 Modelo de matriz de avaliação final da implementação do plano de gestão
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815332.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815332.png) |
+| --- |
 
 FICHAS DE MEDIDAS DE CONSERVAÇÃO COMPLEMENTARES
 
@@ -310,52 +350,79 @@ OM - Orçamento Municipal;
 
 PNA-PNGIFR - Programa Nacional de Ação do Plano Nacional de Gestão Integrada de Fogos Rurais.
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815333.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815333.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815334.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815334.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815335.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815335.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815336.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815336.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815337.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815337.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815338.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815338.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815339.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815339.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815340.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815340.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815341.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815341.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815342.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815342.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815343.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815343.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815344.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815344.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815345.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815345.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815346.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815346.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815347.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815347.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815348.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815348.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815349.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815349.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815350.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815350.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815351.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815351.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815352.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815352.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815353.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815353.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815354.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815354.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815355.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815355.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815356.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815356.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814982/1058815357.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814982/1058815357.png) |
+| --- |
+
+119947775

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/21/2009/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/21-2009-605343
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-01T00:00:00Z'
+  retrieved_at: '2026-10-22T19:11:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec831f055a7a3319d1e7105ba878ffff46e7b203ce86c10bd5e6667412d85d90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6fd48895e15e3b20498046b7127b98066110d1ab71363bb22dd070555d831c25
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:11:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,92 +66,92 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acidente de Trabalho
+- Açores
 - Actividade Sindical
 - Adopção
-- Protecção da Maternidade
+- Apátrida
 - Aproximação das Legislações
 - Arbitragem
 - Assistência a Familiares
-- Direito Colectivo
-- Empresa
+- Associação Sindical
 - Cedência de Pessoal
-- Formação Profissional
+- Cessação do Contrato de Trabalho
 - Cláusulas Contratuais Gerais
+- Código do Trabalho
 - Comissão de Serviço
-- Igualdade de Tratamento
+- Comissão de Trabalhadores
 - Comissão Paritária
-- Conflito de Trabalho
 - Comissão Permanente de Concertação Social
+- Condições de Higiene e Segurança no Trabalho
+- Confidencialidade
+- Conflito de Trabalho
 - Conselho Económico e Social
 - Contra-ordenação
 - Contratação Colectiva
 - Contrato Coletivo de Trabalho
+- Contrato de Trabalho
 - Contrato de Trabalho a Termo
+- Convenção Coletiva de Trabalho
 - Descanso Semanal
 - Despedimento
 - Despedimento Ilícito
-- Associação Sindical
-- Comissão de Trabalhadores
+- Direito Colectivo
 - Direito de Associação
 - Direito de Participação
 - Direito do Trabalho
-- Código do Trabalho
-- Convenção Coletiva de Trabalho
 - Discriminação Salarial
-- Pessoa em Situação de Dependência
+- Doença
+- Doença Profissional
+- Duração do Trabalho
+- Empresa
 - Entidade Patronal
-- Infracção Disciplinar
-- Segurança no Trabalho
+- Exame Médico
+- Faltas
 - Feriado
 - Férias
+- Formação Profissional
 - Fundo de Garantia Salarial
+- Gratificação
 - Greve
 - Horário de Funcionamento
+- Horário de Trabalho
 - Horas Extraordinárias
+- Igualdade de Tratamento
 - Inadaptação do Trabalhador
+- Infracção Disciplinar
 - Isenção de Horário de Trabalho
 - Licença Parental
-- Faltas
 - Licença por Maternidade
 - Licença por Paternidade
 - Lock-out
+- Madeira.região Autónoma
 - Maternidade
-- Exame Médico
+- Mediação Laboral
 - Menoridade
-- Apátrida
+- Microempresa
+- Parentalidade
 - Paternidade
-- Doença Profissional
 - Período Experimental
-- Trabalho de Menores
+- Pessoa em Situação de Dependência
 - Posto de Trabalho
 - Pré-reforma
 - Prestação de Pré-reforma
-- Madeira.região Autónoma
-- Parentalidade
-- Confidencialidade
 - Proteção no Desemprego
-- Quotização
 - Proteção Social
+- Protecção da Maternidade
+- Quotização
 - Redução do Período Normal de Trabalho
-- Microempresa
-- Contrato de Trabalho
-- Condições de Higiene e Segurança no Trabalho
-- Duração do Trabalho
-- Horário de Trabalho
-- Teletrabalho
-- Trabalho a Tempo Parcial
-- Trabalho Nocturno
 - Reintegração de Pessoal
-- Gratificação
-- Cessação do Contrato de Trabalho
-- Doença
 - Saúde no Trabalho
-- Açores
+- Segurança no Trabalho
 - Subsídio
+- Teletrabalho
 - Trabalhador
 - Trabalhador Estrangeiro
 - Trabalhador Estudante
-- Mediação Laboral
+- Trabalho a Tempo Parcial
+- Trabalho de Menores
+- Trabalho Nocturno
 - Trabalho por Turnos
 - Trabalho Temporário
 relationships:
@@ -171,16 +171,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
+- type: cites
+  target: pt:dre:502399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632906:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:lei:7/2009
+  label: "Rectifica a Lei n.º 7/2009, de 12 de Fevereiro, DR.IS [30], nos seguintes termos: Na alínea a) do n.º 3 do artigo\
+    \ 12.º, «Norma revogatória», deve passar a ler-se, “artigos 272.º a 280.º e 671.º, sobre segurança, higiene e saúde no\
+    \ trabalho, na parte não referida na actual redacção do Código”, na alínea d) do n.º 3 do artigo 12.º, «Norma revogatória»,\
+    \ deve passar a ler-se “Artigos 569.º, 570.º e n.º 1 do artigo 688.º, sobre designação de árbitros para arbitragem obrigatória\
+    \ e listas de árbitros”, no n.º 4 do artigo 12.º, «Norma revogatória», deve passar a ler-se :” A revogação dos artigos\
+    \ 34.º a 43.º, 50.º e 643.º do Código do Trabalho, aprovado pela Lei n.º 99/2003, de 27 de Agosto, e dos artigos 68.º\
+    \ a 77 e 99.º a 106.º e 475.º da Lei n.º 35/2004, de 29 de Julho, sobre protecção da maternidade e da paternidade produz\
+    \ efeitos a partir da entrada em vigor da legislação que regule o regime de protecção social na parentalidade”, no n.º\
+    \ 5 do artigo 12.º, «Norma revogatória», deve passar a ler-se “A revogação dos artigos 414.º, 418.º, 430.º e 435.º, do\
+    \ n.º 2 do artigo 436.º, do n.º 1 do artigo 438.º e do artigo 681.º, este na parte referente aos dois primeiros artigos,\
+    \ do Código do Trabalho, aprovado pela Lei n.º 99/2003, produz efeitos a partir da entrada em vigor da revisão do Código\
+    \ de Processo do Trabalho.”, na alínea a) do n.º 6 do artigo 12.º, «Norma revogatória», deve passar a ler-se “ Artigos\
+    \ 14.º a 26.º, 469.º e 470.º, sobre trabalho no domicílio”, na alínea b) do n.º 6 do artigo 12.º, «Norma revogatória»,\
+    \ deve passar a ler-se “ Artigos 41.º a 65.º e 474.º, sobre protecção do património genético”, na alínea f) do n.º 6 do\
+    \ artigo 12.º, «Norma revogatória», deve passar a ler-se “Artigos 115.º a 126.º e 476.º, sobre protecção de menor no trabalho”,\
+    \ na alínea g) do n.º 6 do artigo 12.º, «Norma revogatória», deve passar a ler-se “Artigos 139.º a 146.º e 477.º, sobre\
+    \ participação de menor em espectáculo ou outra actividade de natureza cultural, artística ou publicitária”, na alínea\
+    \ i) do n.º 6 do artigo 12.º, «Norma revogatória», deve passar a ler-se “Artigos 165.º a 167.º, 170.º e 480.º, sobre formação\
+    \ profissional”, na alínea j) do n.º 6 do artigo 12.º, «Norma revogatória», deve passar a ler-se “Artigos 176.º e 481.º,\
+    \ sobre período de funcionamento”,na alínea m) do n.º 6 do artigo 12.º, «Norma revogatória», deve passar a ler-se “Artigos\
+    \ 212.º a 280.º, 484.º e 485.º, este na parte referente àqueles artigos, sobre segurança, higiene e saúde no trabalho”,\
+    \ na alínea p) do n.º 6 do artigo 12.º, «Norma revogatória», deve passar a ler-se “ Artigos 365.º a 395.º e 489.º, sobre\
+    \ conselhos de empresa europeus”, na alínea r) do n.º 6 do artigo 12.º, «Norma revogatória», deve passar a ler-se “ Artigos\
+    \ 452.º a 464.º, n.º 2 do artigo 469.º e artigos 490.º e 491.º, sobre mapa do quadro de pessoal e balanço social”\0l”\0"
+  source: null
+  date: '2009-02-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:11:13Z'
   warnings: []
   errors: []
 ---

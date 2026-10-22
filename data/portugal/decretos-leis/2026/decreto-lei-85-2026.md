@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/85/2026/04/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2026-1084345988
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-13T00:00:00Z'
+  retrieved_at: '2026-10-22T18:37:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80d266c1cc63d02307f80a865a48183da460f908ed60066e73e9ddfd3d1d1e35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29635dd51318d51ec0759eafdb4002c316e6166b696458ae73245b9196330f81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:37:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
+- Administração Pública
+- Agência para a Reforma Tecnológica do Estado
+- Conselho para o Digital na Administração Pública
 - Criação de Serviços
 - Definição de Competências
-- Administração Pública
-- Extinção de Serviços
-- Conselho para o Digital na Administração Pública
 - Estratégia Digital Nacional
-- Ministro Adjunto e da Reforma do Estado
+- Extinção de Serviços
 - Governo XXV
-- Agência para a Reforma Tecnológica do Estado
+- Ministro Adjunto e da Reforma do Estado
+- Modernização Administrativa
 - Rede de Simplificação e Tecnologias do Estado
 relationships:
 - type: cites
@@ -105,16 +105,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/94/2024/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/94/2024/07/25/p/dre
+- type: cites
+  target: pt:dre:1000882016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:873371754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901536081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:993031449:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:resolucao-conselho-ministros:94/2024
+  label: Revoga, a partir de 18 de abril de 2026, a Resolução do Conselho de Ministros n.º 94/2024, de 25 de julho, Diário
+    da República n.º 143/2024, Série I, extinguindo o Conselho para o Digital na Administração Pública
+  source: null
+  date: '2024-07-25'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:37:54Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +159,7 @@ de 13 de abril
 
 O XXV Governo Constitucional tem como prioridade e objetivo estratégico a simplificação e a digitalização do Estado e da economia, promovendo a melhoria dos serviços públicos e estabelecendo as condições para que cidadãos, empresas e sociedade civil beneficiem do desenvolvimento tecnológico.
 
-Para o efeito, e considerando as ações definidas na Estratégia Digital Nacional, aprovada pela [Resolução do Conselho de Ministros n.º 207/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/207-2024-901536081), de 30 de dezembro, bem como nos restantes documentos que norteiam as prioridades do governo nesta matéria, como o Pacto para as Competências Digitais e a Agenda Nacional de Inteligência Artificial, aprovados, respetivamente, pelas Resoluções do Conselho de Ministros n.<sup>os</sup>[216/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/216-2025-993031449), de 30 de dezembro, e [2/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/2-2026-1000882016), de 8 de janeiro, torna-se necessário estabelecer uma estrutura de acompanhamento estratégico de todas as políticas centrais para o digital, que assegure a atempada execução e o estabelecimento das sinergias necessárias, tanto de um ponto de vista estratégico como organizacional e técnico.
+Para o efeito, e considerando as ações definidas na Estratégia Digital Nacional, aprovada pela [Resolução do Conselho de Ministros n.º 207/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/207-2024-901536081), de 30 de dezembro, bem como nos restantes documentos que norteiam as prioridades do governo nesta matéria, como o Pacto para as Competências Digitais e a Agenda Nacional de Inteligência Artificial, aprovados, respetivamente, pelas Resoluções do Conselho de Ministros n.os[216/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/216-2025-993031449), de 30 de dezembro, e [2/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/2-2026-1000882016), de 8 de janeiro, torna-se necessário estabelecer uma estrutura de acompanhamento estratégico de todas as políticas centrais para o digital, que assegure a atempada execução e o estabelecimento das sinergias necessárias, tanto de um ponto de vista estratégico como organizacional e técnico.
 
 Paralelamente, estando também em curso a reforma do Estado e a respetiva simplificação de estruturas e processos administrativos na vertente dos serviços de atendimento, são necessários o acompanhamento político e operacional e um fórum de monitorização da evolução das medidas tomadas neste contexto.
 
@@ -269,7 +303,7 @@ l) Autorizar previamente os projetos, investimentos e medidas críticas prevista
 
 a) Planos semestrais ou anuais de investimentos em tecnologias de informação;
 
-b) Projetos de investimento e decisões de contratar relativos a aquisição de tecnologias de informação de valor superior a 2 milhões de euros, sem prejuízo do disposto nos n.<sup>os</sup>3 e 4;
+b) Projetos de investimento e decisões de contratar relativos a aquisição de tecnologias de informação de valor superior a 2 milhões de euros, sem prejuízo do disposto nos n.os3 e 4;
 
 c) Projetos de inteligência artificial desenvolvidos ou a desenvolver pelas entidades da Administração Pública ou em benefício destas;
 
@@ -293,7 +327,7 @@ d) Determinar que os projetos, investimentos ou medidas sejam realizados em conj
 
 4 - A autorização, sem condições, do plano de investimentos a que se refere a alínea a) do n.º 1 dispensa a obtenção de subsequentes autorizações e aprovações relativamente a cada aquisição nele expressamente identificada, conquanto a mesma identifique o seu correspetivo âmbito, objetivo, prazo de execução e montante aproximado.
 
-5 - Podem ainda ser dispensadas do regime previsto nos n.<sup>os</sup>1 e 2, mediante autorização expressa do membro do Governo responsável pela área da reforma do Estado, as aquisições de tecnologias da informação que, em razão de singularidades técnicas, não justifiquem uma apreciação global do investimento em causa, bem como as que, sendo comprovadamente urgentes, tenham um valor de aquisição inferior a 3 milhões de euros.
+5 - Podem ainda ser dispensadas do regime previsto nos n.os1 e 2, mediante autorização expressa do membro do Governo responsável pela área da reforma do Estado, as aquisições de tecnologias da informação que, em razão de singularidades técnicas, não justifiquem uma apreciação global do investimento em causa, bem como as que, sendo comprovadamente urgentes, tenham um valor de aquisição inferior a 3 milhões de euros.
 
 ###### Artigo 7.º — Aprovação governamental
 
@@ -357,12 +391,14 @@ Os trabalhos e conteúdos já desenvolvidos pelo «Conselho para o Digital na Ad
 
 Visto e aprovado em Conselho de Ministros de 26 de fevereiro de 2026. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Joaquim Miranda Sarmento - António Leitão Amaro - Manuel Castro Almeida - Gonçalo Nuno da Cruz Saraiva Matias - Nuno Maria Herculano de Carvalho Pinheiro Torres - Miguel Martinez de Castro Pinto Luz - Rita Alarcão Júdice - Luís António Trindade Nunes das Neves - Fernando Alexandre - Ana Paula Martins - Rosário Palma Ramalho - Maria da Graça Carvalho - Margarida Balseiro Lopes - José Manuel Fernandes.
 
-**Promulgado em 2 de abril de 2026.**
+Promulgado em 2 de abril de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 3 de abril de 2026.**
+Referendado em 3 de abril de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119948192

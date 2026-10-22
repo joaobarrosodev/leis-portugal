@@ -36,6 +36,45 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-05-20'
+version_history:
+  file: diretiva-ue-2000-39.versoes.json
+  count: 5
+  source_lastmod: '2021-05-20'
+  versions:
+  - date: '2000-06-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-03-01'
+    amending: null
+    amending_title: Directiva 2006/15/CE da Comissão Texto relevante para efeitos do EEE de 7 de Fevereiro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Adita Artigo 4.º
+    - Adita ANEXO
+    - Adita Notas
+    - Suprime Artigo 4.º — A Directiva 96/94/CE é revogada com efeitos na data referida no n.o 1 do artigo 3.o
+    - Suprime ANEXO — VALORES LIMITE DE EXPOSIÇÃO PROFISSIONAL INDICATIVOS
+  - date: '2010-01-08'
+    amending: eu:celex:32006L0015:por
+    amending_title: DIRECTIVA 2006/15/CE DA COMISSÃO Texto relevante para efeitos do EEE de 7 de Fevereiro de 2006; DIRECTIVA
+      2009/161/UE DA COMISSÃO Texto relevante para efeitos do EEE de 17 de Dezembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2018-08-21'
+    amending: eu:celex:32017L0164:por
+    amending_title: DIRETIVA (UE) 2017/164 DA COMISSÃO Texto relevante para efeitos do EEE de 31 de janeiro de 2017
+    changes:
+    - Altera ANEXO
+    - Suprime Notas
+  - date: '2021-05-20'
+    amending: eu:celex:32019L1831:por
+    amending_title: DIRETIVA (UE) 2019/1831 DA COMISSÃO de 24 de outubro de 2019
+    changes:
+    - Altera ANEXO
 identifiers:
   celex: 32000L0039
   eli: http://data.europa.eu/eli/dir/2000/39/oj
@@ -50,7 +89,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/fa230182-5136-4b7f-91e9-59b92b88d569.0009
   content_url: http://publications.europa.eu/resource/cellar/9206db78-c2ee-11eb-a925-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000L0039-20210520
-  retrieved_at: '2026-10-22T02:44:55Z'
+  retrieved_at: '2026-10-22T17:38:15Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T15:39:56.508+01:00'
 integrity:
@@ -59,9 +98,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:44:55Z'
-  notes: Texto consolidado 02000L0039-20210520.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:38:15Z'
+  notes: 5 versão(ões); histórico completo em diretiva-ue-2000-39.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -148,31 +187,18 @@ relationships:
 article_structure:
   article_count: 6
   section_count: 1
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:44:55Z'
+  checked_at: '2026-10-22T17:38:15Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2000/39/CE da Comissão, de 8 de Junho de 2000
-
-> 02000L0039 — PT — 20.05.2021 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32006L0015) — [DIRECTIVA 2006/15/CE DA COMISSÃO de 7 de Fevereiro de 2006](http://publications.europa.eu/resource/celex/32006L0015) — L 38 — 36 — 9.2.2006
-- [►M2](http://publications.europa.eu/resource/celex/32009L0161) — [DIRECTIVA 2009/161/UE DA COMISSÃO de 17 de Dezembro de 2009](http://publications.europa.eu/resource/celex/32009L0161) — L 338 — 87 — 19.12.2009
-- [►M3](http://publications.europa.eu/resource/celex/32017L0164) — [DIRETIVA (UE) 2017/164 DA COMISSÃO de 31 de janeiro de 2017](http://publications.europa.eu/resource/celex/32017L0164) — L 27 — 115 — 1.2.2017
-- [►M4](http://publications.europa.eu/resource/celex/32019L1831) — [DIRETIVA (UE) 2019/1831 DA COMISSÃO de 24 de outubro de 2019](http://publications.europa.eu/resource/celex/32019L1831) — L 279 — 31 — 31.10.2019
-
-## DIRECTIVA 2000/39/CE DA COMISSÃO
 
 de 8 de Junho de 2000
 

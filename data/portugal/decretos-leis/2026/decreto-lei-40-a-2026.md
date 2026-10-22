@@ -105,7 +105,13 @@ reuse:
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Património
+- Prejuízo Financeiro
+- Reabilitação
+- Situação de Calamidade
+- Tempestade Kristin
 relationships:
 - type: amended_by
   target: pt:dre:1075294793:por
@@ -116,9 +122,21 @@ relationships:
   date: '2026-03-20'
 - type: amended_by
   target: pt:dre:1145969707:por
+  label: Alterados, a partir de 11 de julho de 2026, com efeitos a 28 de abril de 2026, os artigos 10.º e 11.º pelo(a) Decreto-Lei
+    n.º 140/2026 - Diário da República n.º 132/2026, Série I de 2026-07-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-2026-1145969707
+  date: '2026-07-09'
+- type: amended_by
+  target: pt:dre:1145969707:por
   label: Altera Artigo 10.º; Altera Artigo 11.º
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-2026-1145969707
   date: '2026-07-10'
+- type: amended_by
+  target: pt:dre:1172319751:por
+  label: Alterados, a partir de 23 de setembro de 2026, os artigos 25.º (vigência e produção de efeitos do trabalho suplementar
+    excecional) e 29.º pelo(a) Decreto-Lei n.º 191/2026 - Diário da República n.º 184/2026, Série I de 2026-09-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/191-2026-1172319751
+  date: '2026-09-21'
 - type: amended_by
   target: pt:dre:1172319751:por
   label: Altera Artigo 25.º; Altera Artigo 29.º
@@ -169,6 +187,70 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/24-a/2026/02/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/24-a/2026/02/05/p/dre
+- type: cites
+  target: pt:dre:1031784677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1031784680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1034985574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1039064235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1039107607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108284970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150908012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187481298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66619906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70462191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:910323298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:993270096:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1085638495:por
+  label: Retificados, com efeitos 18 de fevereiro de 2026, o nono parágrafo do preâmbulo, o artigo 1.º, o n.º 2 do artigo
+    5.º, a alínea a) do n.º 1 do artigo 11.º, a alínea b) do n.º 1 do artigo 11.º, o n.º 1 do artigo 20.º, o n.º 4 do artigo
+    22.º e o n.º 1 do artigo 26.º, do presente diploma, pelo(a) Declaração de Retificação n.º 13-A/2026/1 - Diário da República
+    n.º 72/2026, Suplemento, Série I de 2026-04-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/13-a-2026-1085638495
+  date: '2026-04-14'
 article_structure:
   article_count: 38
   section_count: 7

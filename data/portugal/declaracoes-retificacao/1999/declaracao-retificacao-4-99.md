@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/4/1999/02/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-1999-185078
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-02-03T00:00:00Z'
+  retrieved_at: '2026-10-22T18:54:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd1e57e36a2e661d41d7dc29b252f0f2c84336f4ea89f5c37caa2caeaae80f95
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2b434b2bad5afdd9e851794f787b03ef531d4774c0f45fae1d8c37feac22576
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:54:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,16 +80,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/decpresrep/6/1999/01/06/p/dre
   label: null
   source: http://data.dre.pt/eli/decpresrep/6/1999/01/06/p/dre
+- type: cites
+  target: pt:dre:493559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493572:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493676:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:54:42Z'
   warnings: []
   errors: []
 ---

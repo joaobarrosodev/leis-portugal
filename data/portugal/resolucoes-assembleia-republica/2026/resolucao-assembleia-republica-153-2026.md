@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/06/11400/0000300164.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/153/2026/06/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/153-2026-1132710891
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T18:43:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d12c1c8328087580604e7f61157bd5350f19595fb561e0cbb973462302a47f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4907233e02b2cedf4b5b05aabadd68f465b3c0b4eb3055014ee525727583c310
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:43:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Pública
 - África
+- APIA
 - Caraíbas
 - CE Países
 - Convenção
-- Política de Cooperação
-- União Europeia
-- Administração Pública
-- APIA
-- Política Criminal
 - Estatística
-- Samoa Ocidental
 - Organização dos Estados de África Caraíbas e Pacífico
-relationships: []
+- Política Criminal
+- Política de Cooperação
+- Samoa Ocidental
+- União Europeia
+relationships:
+- type: amended_by
+  target: pt:dre:1132710890:por
+  label: Ratificado pelo(a) Decreto do Presidente da República n.º 83/2026 - Diário da República n.º 114/2026, Série I de
+    2026-06-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/83-2026-1132710890
+  date: '2026-06-16'
 article_structure:
   article_count: 290
-  section_count: 68
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 80
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:43:56Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +108,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 30 de abril de 2026.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar-Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar-Branco.
 
 Acordo de Parceria entre a União Europeia e os seus Estados-Membros, por um lado, e os Membros da Organização dos Estados de África, Caraíbas e Pacífico, por outro
 
@@ -158,7 +164,7 @@ Tendo em conta o Acordo de Parceria entre os Estados de África, das Caraíbas e
 
 acordaram no seguinte:
 
-# PARTE I — DISPOSIÇÕES GERAIS
+## PARTE I — DISPOSIÇÕES GERAIS
 
 ###### Artigo 1.º — Objetivos
 
@@ -246,7 +252,7 @@ f) Adotar uma abordagem abrangente e equilibrada em relação à migração, por
 
 3 - As Partes reforçam a resiliência dos países, das comunidades e dos indivíduos, e em especial das populações vulneráveis, perante os desafios relacionados com o ambiente e as alterações climáticas, os choques económicos, os conflitos e as crises políticas, bem como as epidemias e pandemias.
 
-# PARTE II — PRIORIDADES ESTRATÉGICAS
+## PARTE II — PRIORIDADES ESTRATÉGICAS
 
 ## TÍTULO I — DIREITOS HUMANOS, DEMOCRACIA E GOVERNAÇÃO EM SOCIEDADES CENTRADAS NAS PESSOAS E ASSENTES EM DIREITOS
 
@@ -932,7 +938,7 @@ As Partes exploram formas de cooperar com vista a promover o regresso voluntári
 
 3 - As Partes atribuem especial atenção às pessoas em situações vulneráveis e às suas necessidades específicas, nomeadamente mulheres, crianças e menores não acompanhados, tendo em conta os princípios do superior interesse da criança.
 
-# PARTE III — ALIANÇAS GLOBAIS E COOPERAÇÃO INTERNACIONAL
+## PARTE III — ALIANÇAS GLOBAIS E COOPERAÇÃO INTERNACIONAL
 
 ###### Artigo 77.º
 
@@ -984,7 +990,7 @@ Cooperam para reforçar a coerência e a solidez do sistema financeiro e monetá
 
 7 - As Partes colaboram com parceiros de todo o mundo para aplicar uma abordagem abrangente e holística em relação a todos os aspetos da migração e da mobilidade, com base nos princípios da solidariedade, responsabilidade partilhada e parceria.
 
-# PARTE IV — MEIOS DE COOPERAÇÃO E EXECUÇÃO
+## PARTE IV — MEIOS DE COOPERAÇÃO E EXECUÇÃO
 
 ###### Artigo 81.º — Meios de cooperação eficazes e diversificados
 
@@ -1056,7 +1062,7 @@ d) Ser suficientemente diferenciada para corresponder o melhor possível ao cont
 
 4 - As Partes acordam em contribuir, se for caso disso, para iniciativas em matéria de alívio da dívida aprovadas internacionalmente, por forma a reduzir os encargos do serviço da dívida dos Membros da OEACP.
 
-# PARTE V — QUADRO INSTITUCIONAL
+## PARTE V — QUADRO INSTITUCIONAL
 
 ###### Artigo 86.º — Instituições conjuntas
 
@@ -1192,7 +1198,7 @@ d) Adota o seu regulamento interno na primeira reunião, e o mais tardar seis me
 
 4 - Os resultados das consultas com as partes interessadas são comunicados ao Conselho de Ministros, ao Comité Misto ou à Assembleia Parlamentar competentes, consoante o caso.
 
-# PARTE VI — DISPOSIÇÕES FINAIS
+## PARTE VI — DISPOSIÇÕES FINAIS
 
 ###### Artigo 96.º — Aplicação territorial
 
@@ -1210,7 +1216,7 @@ Os tratados, convenções, acordos ou convénios celebrados entre um ou mais Est
 
 3 - Qualquer Membro da OEACP que não tenha cumprido os procedimentos previstos no n.º 2 à data em que o presente Acordo entrar em vigor nos termos do n.º 2, só pode fazê-lo nos 12 meses seguintes a essa data. Para esses Membros da OEACP, o presente Acordo é aplicável no primeiro dia do segundo mês seguinte ao depósito dos respetivos instrumentos que manifestam o seu consentimento em ficarem vinculados junto do depositário, que envia uma cópia autenticada ao Secretariado da OEACP. Esses Membros da OEACP reconhecem a validade de qualquer medida de aplicação do presente Acordo adotada após a data da sua entrada em vigor em conformidade com o n.º 2.
 
-4 - Não obstante os n.<sup>os</sup>2 e 3, a União Europeia e os Membros da OEACP podem aplicar o presente Acordo a título provisório, no todo ou em parte, enquanto aguardam a sua entrada em vigor e de acordo com os respetivos procedimentos internos. A aplicação provisória tem início no primeiro dia do segundo mês seguinte à data de assinatura do presente Acordo. Antes do início da aplicação a título provisório, a União Europeia notifica os Membros da OEACP das partes do presente Acordo que são aplicadas a título provisório.
+4 - Não obstante os n.os2 e 3, a União Europeia e os Membros da OEACP podem aplicar o presente Acordo a título provisório, no todo ou em parte, enquanto aguardam a sua entrada em vigor e de acordo com os respetivos procedimentos internos. A aplicação provisória tem início no primeiro dia do segundo mês seguinte à data de assinatura do presente Acordo. Antes do início da aplicação a título provisório, a União Europeia notifica os Membros da OEACP das partes do presente Acordo que são aplicadas a título provisório.
 
 ###### Artigo 99.º — Vigência e revisão
 
@@ -1234,11 +1240,11 @@ O presente Acordo pode ser denunciado pela Parte UE em relação a cada Membro d
 
 1 - As Partes adotam as medidas gerais ou específicas necessárias ao cumprimento das obrigações que lhes incumbem por força do presente Acordo. As Partes resolvem entre si as divergências e os litígios sobre a aplicação do presente Acordo e tratam as questões de interpretação relacionadas com o presente Acordo em conformidade com o presente artigo.
 
-2 - Sem prejuízo dos procedimentos referidos nos n.<sup>os</sup>3 a 9 do presente artigo e no artigo 74.º, n.º 4, quaisquer questões relacionadas com a interpretação do presente Acordo podem ser resolvidas mediante consultas no âmbito do Conselho de Ministros OEACP-UE ou, com o acordo das Partes, de um subcomité especial ou de qualquer outro mecanismo apropriado que responda perante o Conselho de Ministros OEACP-UE. As Partes comunicam as informações pertinentes necessárias a um exame aprofundado da questão, com vista a encontrar uma solução atempada e amigável.
+2 - Sem prejuízo dos procedimentos referidos nos n.os3 a 9 do presente artigo e no artigo 74.º, n.º 4, quaisquer questões relacionadas com a interpretação do presente Acordo podem ser resolvidas mediante consultas no âmbito do Conselho de Ministros OEACP-UE ou, com o acordo das Partes, de um subcomité especial ou de qualquer outro mecanismo apropriado que responda perante o Conselho de Ministros OEACP-UE. As Partes comunicam as informações pertinentes necessárias a um exame aprofundado da questão, com vista a encontrar uma solução atempada e amigável.
 
-3 - Para efeitos dos n.<sup>os</sup>4 a 9, entende-se por «Parte» a União Europeia e os seus Estados-Membros, por um lado, e cada Membro da OEACP, por outro.
+3 - Para efeitos dos n.os4 a 9, entende-se por «Parte» a União Europeia e os seus Estados-Membros, por um lado, e cada Membro da OEACP, por outro.
 
-4 - As Partes resolvem as divergências entre si no âmbito do diálogo de parceria, a fim de evitar situações em que uma parte possa considerar necessário recorrer às consultas previstas nos n.<sup>os</sup>5 e 6.
+4 - As Partes resolvem as divergências entre si no âmbito do diálogo de parceria, a fim de evitar situações em que uma parte possa considerar necessário recorrer às consultas previstas nos n.os5 e 6.
 
 5 - Se uma das Partes considerar que a outra Parte não cumpriu qualquer uma das obrigações que lhe incumbem no âmbito no presente Acordo, notifica a outra Parte, facultando todas as informações pertinentes e necessárias para um exame aprofundado da situação com vista a encontrar uma solução mutuamente aceitável no prazo de 90 dias a contar da data da notificação. Se tal não for considerado suficiente, as Partes procedem a consultas estruturadas e sistemáticas. Caso não consigam encontrar uma solução mutuamente aceitável no prazo de 120 dias a contar do início das consultas, a Parte notificante pode tomar medidas proporcionais ao incumprimento da obrigação específica.
 
@@ -1246,7 +1252,7 @@ O presente Acordo pode ser denunciado pela Parte UE em relação a cada Membro d
 
 7 - Se uma das Partes considerar que uma violação de um dos elementos essenciais constitui um caso de especial urgência, pode tomar medidas adequadas com efeito imediato, sem consultas preliminares. Entende-se por «casos de especial urgência» os casos excecionais de violações especialmente graves e flagrantes de um dos elementos essenciais referidos nos artigos 9.º e 18.º
 
-8 - As «medidas adequadas» a que se referem os n.<sup>os</sup>6 e 7 são adotadas no pleno respeito pelo direito internacional e devem ser proporcionais ao incumprimento das obrigações previstas no presente Acordo. Deve ser atribuída prioridade às medidas que menos perturbem o funcionamento do presente Acordo. As medidas adequadas podem incluir a suspensão, parcial ou total, do presente Acordo. Após a adoção de medidas adequadas podem ser convocadas consultas, a pedido de qualquer uma das Partes, a fim de analisar aprofundadamente a situação e encontrar soluções que permitam revogar as medidas adequadas.
+8 - As «medidas adequadas» a que se referem os n.os6 e 7 são adotadas no pleno respeito pelo direito internacional e devem ser proporcionais ao incumprimento das obrigações previstas no presente Acordo. Deve ser atribuída prioridade às medidas que menos perturbem o funcionamento do presente Acordo. As medidas adequadas podem incluir a suspensão, parcial ou total, do presente Acordo. Após a adoção de medidas adequadas podem ser convocadas consultas, a pedido de qualquer uma das Partes, a fim de analisar aprofundadamente a situação e encontrar soluções que permitam revogar as medidas adequadas.
 
 9 - As Partes acordam que as consultas serão realizadas ao nível e sob a forma considerados mais conducentes a encontrar uma solução mutuamente aceitável. Acordam que, embora preservando o caráter bilateral das consultas, podem participar no processo de consulta intervenientes regionais e internacionais relevantes, mediante acordo das Partes em causa.
 
@@ -1268,13 +1274,13 @@ Para alcançar os objetivos do presente Acordo, pode ser concedido a outros inte
 
 O presente Acordo é redigido em duplo exemplar nas línguas alemã, búlgara, checa, croata, dinamarquesa, eslovaca, eslovena, espanhola, estónia, finlandesa, francesa, grega, húngara, irlandesa, inglesa, italiana, letã, lituana, maltesa, neerlandesa, polaca, portuguesa, romena e sueca, fazendo igualmente fé todas as versões.
 
-(<sup>1</sup>) JO CE L de 317 de 15 de dezembro de 2000, p. 3.
+(1) JO CE L de 317 de 15 de dezembro de 2000, p. 3.
 
 PROTOCOLOS REGIONAIS
 
 PROTOCOLO REGIONAL PARA ÁFRICA
 
-# PARTE I — QUADRO DE COOPERAÇÃO
+## PARTE I — QUADRO DE COOPERAÇÃO
 
 ### CAPÍTULO 1 — NATUREZA E ÂMBITO
 
@@ -1344,7 +1350,7 @@ As Partes criam mecanismos que permitam consultas abertas e transparentes com to
 
 2 - As Partes acompanham a execução do presente Protocolo, nomeadamente por meio de uma abordagem multiparticipativa. Podem reexaminá-lo regularmente e, se for caso disso, podem rever e alargar o seu âmbito de aplicação nos domínios de intervenção existentes e em novos domínios de intervenção, de acordo com o procedimento previsto no artigo 99.º, n.º 5, da parte geral do presente Acordo.
 
-# PARTE II — PRINCIPAIS DOMÍNIOS DE COOPERAÇÃO
+## PARTE II — PRINCIPAIS DOMÍNIOS DE COOPERAÇÃO
 
 ## TÍTULO I — DESENVOLVIMENTO E CRESCIMENTO ECONÓMICO INCLUSIVO E SUSTENTÁVEL
 
@@ -2118,7 +2124,7 @@ No que respeita à União Europeia, as obrigações previstas no presente númer
 
 PROTOCOLO REGIONAL PARA AS CARAÍBAS
 
-# PARTE I — QUADRO DE COOPERAÇÃO
+## PARTE I — QUADRO DE COOPERAÇÃO
 
 ### CAPÍTULO 1 — NATUREZA E ÂMBITO
 
@@ -2194,7 +2200,7 @@ As Partes estabelecem e desenvolvem mecanismos de consulta e diálogo com todas 
 
 2 - As Partes monitorizam e reveem o presente Protocolo para assegurar que a sua execução respeita plenamente o princípio de uma verdadeira parceria e está em sintonia com as suas prioridades estratégicas. Podem reexaminá-lo regularmente e, de comum acordo, podem alargar o seu âmbito de aplicação, nomeadamente a novos domínios de intervenção, de acordo com o procedimento previsto no artigo 99.º da parte geral do presente Acordo.
 
-# PARTE II — PRINCIPAIS DOMÍNIOS DE COOPERAÇÃO
+## PARTE II — PRINCIPAIS DOMÍNIOS DE COOPERAÇÃO
 
 ## TÍTULO I — DESENVOLVIMENTO E CRESCIMENTO ECONÓMICO INCLUSIVO E SUSTENTÁVEL
 
@@ -2704,7 +2710,7 @@ As Partes promovem o desporto e a edução física enquanto força motriz do des
 
 PROTOCOLO REGIONAL PARA O PACÍFICO
 
-# PARTE I — QUADRO DE COOPERAÇÃO
+## PARTE I — QUADRO DE COOPERAÇÃO
 
 ### CAPÍTULO 1 — NATUREZA E ÂMBITO
 
@@ -2782,7 +2788,7 @@ As Partes criam mecanismos de consulta e diálogo com todas as partes interessad
 
 4 - As Partes realizam regularmente análises independentes de acompanhamento e avaliação das atividades previstas nos principais domínios de cooperação no âmbito do presente Protocolo.
 
-# PARTE II — PRINCIPAIS DOMÍNIOS DE COOPERAÇÃO
+## PARTE II — PRINCIPAIS DOMÍNIOS DE COOPERAÇÃO
 
 ## TÍTULO I — SUSTENTABILIDADE AMBIENTAL E ALTERAÇÕES CLIMÁTICAS
 
@@ -3242,7 +3248,8 @@ As Partes estão empenhadas em erradicar a pobreza em todas as suas formas até 
 
 Em fé do que os plenipotenciários abaixo assinados, devidamente autorizados para o efeito, apuseram as suas assinaturas no final do presente Acordo.
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132710872.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132710872.png) |
+| --- |
 
 Voor het Koninkrijk België:
 
@@ -3250,7 +3257,8 @@ Pοur le Royaume de Belgique:
 
 Für das Königreich Belgien:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132710873.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132710873.png) |
+| --- |
 
 Deze handtekening verbindt eveneens de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest.
 
@@ -3260,111 +3268,137 @@ Diese Unterschrift bindet zugleich die Deutschsprachige Gemeinschaft, die Flämi
 
 За Република България:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132710874.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132710874.png) |
+| --- |
 
 Ζa Českou republiku:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713375.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713375.png) |
+| --- |
 
 For Kongeriget Danmark:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713376.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713376.png) |
+| --- |
 
 Für die Bundesrepublik Deutschland:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713377.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713377.png) |
+| --- |
 
 Eesti Vabariigi nimel:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713378.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713378.png) |
+| --- |
 
 Thar cheann na hÉireann:
 
 For Ireland:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713379.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713379.png) |
+| --- |
 
 Για την Eλληνική Δημοκρατία:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713380.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713380.png) |
+| --- |
 
 Por el Reino de España:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713381.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713381.png) |
+| --- |
 
 Pour la République française:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713382.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713382.png) |
+| --- |
 
 Za Republiku Hrvatsku:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713383.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713383.png) |
+| --- |
 
 Per la Repubblica italiana:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713384.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713384.png) |
+| --- |
 
 Για την Κυπριακή Δημοκρατία:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713385.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713385.png) |
+| --- |
 
 Latvijas Republikas vārdā:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713386.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713386.png) |
+| --- |
 
 Lietuvos Respublikos vardu:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713387.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713387.png) |
+| --- |
 
 Pour le Grand-Duché de Luxembourg:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713388.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713388.png) |
+| --- |
 
 Magyarország részéről:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713389.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713389.png) |
+| --- |
 
 Għar-Repubblika ta’ Malta:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713390.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713390.png) |
+| --- |
 
 Voor het Koninkrijk der Nederlanden:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713391.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713391.png) |
+| --- |
 
 Für die Republik Österreich:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713392.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713392.png) |
+| --- |
 
 W imieniu Rzeczypospolitej Polskiej:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713393.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713393.png) |
+| --- |
 
 Pela República Portuguesa:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713394.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713394.png) |
+| --- |
 
 Pentru România:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713395.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713395.png) |
+| --- |
 
 Ζa Republiko Slovenijo:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713396.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713396.png) |
+| --- |
 
 Ζa Slovenskú republiku:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713397.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713397.png) |
+| --- |
 
 Suοmen tasavallan puolesta:
 
 För Republiken Finland:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713398.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713398.png) |
+| --- |
 
 För Konungariket Sverige:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713399.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713399.png) |
+| --- |
 
 Зa Eвpoпeйcκия сьюз:
 
@@ -3414,11 +3448,13 @@ Euroopan unionin puolesta:
 
 För Europeiska unionen:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713400.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713400.png) |
+| --- |
 
 For the Republic of Angola:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713401.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713401.png) |
+| --- |
 
 For Antigua and Barbuda:
 
@@ -3426,11 +3462,13 @@ For the Commonwealth of the Bahamas:
 
 For Barbados
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713402.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713402.png) |
+| --- |
 
 For Belize:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713403.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713403.png) |
+| --- |
 
 For Republic of Benin:
 
@@ -3438,59 +3476,72 @@ For the Republic of Botswana:
 
 For Burkina Faso:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713404.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713404.png) |
+| --- |
 
 For the Republic of Burundi:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713405.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713405.png) |
+| --- |
 
 For the Republic of Cabo Verde:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713406.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713406.png) |
+| --- |
 
 For the Republic of Cameroon:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713407.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713407.png) |
+| --- |
 
 For the Central African Republic:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713408.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713408.png) |
+| --- |
 
 For the Republic of Chad:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713409.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713409.png) |
+| --- |
 
 For the Union of the Comoros:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713410.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713410.png) |
+| --- |
 
 For the republic of the Congo:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713411.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713411.png) |
+| --- |
 
 For the Cook Islands:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713412.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713412.png) |
+| --- |
 
 For the Republic of Côte d’Ivoire:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713413.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713413.png) |
+| --- |
 
 For the Republic of Cuba:
 
 For the Democratic Republic of the Congo:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713414.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713414.png) |
+| --- |
 
 For the Republic of Djibout:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713415.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713415.png) |
+| --- |
 
 For the Commonwealth of Dominica:
 
 For the Dominican Republic:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713416.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713416.png) |
+| --- |
 
 For the Republic of Equatorial Guinea:
 
@@ -3500,31 +3551,38 @@ For the Kingdom of Eswatini:
 
 For the Federal Democratic Republic of Ethiopia:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713417.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713417.png) |
+| --- |
 
 For the Republic of Fiji:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713418.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713418.png) |
+| --- |
 
 For the Gabonese Republic:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713419.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713419.png) |
+| --- |
 
 For the Republic of the Gambia:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713420.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713420.png) |
+| --- |
 
 For the Republic of Ghana:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713421.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713421.png) |
+| --- |
 
 For Grenada:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713422.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713422.png) |
+| --- |
 
 For the Republic of Guinea:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713423.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713423.png) |
+| --- |
 
 For the Republic of Guinea-Bissau:
 
@@ -3532,25 +3590,30 @@ For the Cooperative Republic of Guyana:
 
 For the Republic of Haiti:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713424.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713424.png) |
+| --- |
 
 For Jamaica:
 
 For the Republic of Kenya:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713425.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713425.png) |
+| --- |
 
 For the Republic of Kiribati:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713426.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713426.png) |
+| --- |
 
 For the Kingdom of Lesotho:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713427.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713427.png) |
+| --- |
 
 For the Republic of Liberia:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713428.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713428.png) |
+| --- |
 
 For the Republic of Madagascar:
 
@@ -3562,21 +3625,25 @@ For the Republic of Mali:
 
 For the Republic of the Marshall Islands:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713429.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713429.png) |
+| --- |
 
 For the Islamic Republic of Mauritania:
 
 For the Republic of Mauritius:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713430.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713430.png) |
+| --- |
 
 For the Federated States of Micronesia:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713431.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713431.png) |
+| --- |
 
 For the Republic of Mozambique:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713432.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713432.png) |
+| --- |
 
 For the Republic of Namibia:
 
@@ -3584,73 +3651,87 @@ For the Republic of Nauru:
 
 The Republic of Niger:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713433.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713433.png) |
+| --- |
 
 For the Federal Republic of Nigeria:
 
 For Niue:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713434.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713434.png) |
+| --- |
 
 For the Republic of Palau:
 
 For the Independent State of Papua New Guinea:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713435.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713435.png) |
+| --- |
 
 For the Republic of Rwanda:
 
 For the Federation of Saint Kitts and Nevis:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713436.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713436.png) |
+| --- |
 
 For Saint Lucia:
 
 For Saint Vincent and the Grenadines:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713437.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713437.png) |
+| --- |
 
 For the Independent State of Samoa:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713438.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713438.png) |
+| --- |
 
 For the Democratic Republic of São Tomé and Príncipe:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713439.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713439.png) |
+| --- |
 
 For the Republic of Senegal:
 
 For the Republic of Seychelles:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713440.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713440.png) |
+| --- |
 
 For the Republic of Sierra Leone:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713441.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713441.png) |
+| --- |
 
 For Salomon Islands:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713442.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713442.png) |
+| --- |
 
 For the Federal Republic of Somalia:
 
 For the Republic of the Sudan:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713443.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713443.png) |
+| --- |
 
 For the Republic of Suriname:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713444.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713444.png) |
+| --- |
 
 For the United Republic of Tanzania:
 
 For the Democratic Republic of Timor-Leste:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713445.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713445.png) |
+| --- |
 
 For the Togolese Republic:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713446.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713446.png) |
+| --- |
 
 For the Kingdom of Tonga:
 
@@ -3662,15 +3743,18 @@ For the Republic of Uganda:
 
 For the Republic of Vanuatu:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713447.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713447.png) |
+| --- |
 
 For the Republic of Zambia:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713448.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713448.png) |
+| --- |
 
 For the Republic of Zimbabwe:
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713449.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713449.png) |
+| --- |
 
 ## ANEXO I — Processos de regresso e de readmissão
 
@@ -3754,7 +3838,8 @@ Tendo verificado que nenhum dos Estados que participaram na negociação formulo
 
 procedeu na data de hoje à correção dos erros em questão e lavrou a presente ata de retificação, a que foi anexada a correção de todas as versões linguísticas do Acordo, cuja cópia será transmitida aos Estados que participaram na negociação.
 
-![](https://files.diariodarepublica.pt/images/1132710891/1132713450.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1132710891/1132713450.png) |
+| --- |
 
 ## ANEXO
 
@@ -3765,3 +3850,5 @@ Retificação do Acordo de Parceria entre a União Europeia e os seus Estados-Me
 1 - No preâmbulo, são suprimidos os nomes dos países «A REPÚBLICA DE CUBA» e «A REPÚBLICA DA GUINÉ EQUATORIAL».
 
 2 - Nas páginas de assinatura, são consideradas suprimidas as expressões «For the Republic of Cuba» e «For the Republic of Equatorial Guinea».
+
+119948447

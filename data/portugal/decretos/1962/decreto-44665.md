@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44665-1962-156196
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-11-06T00:00:00Z'
+  retrieved_at: '2026-10-22T19:31:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58c67185e9803bf08471fcb74a4ba1c6a7cc41f70bfe5c3f59ce7b6143fc487a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 546c9b95def9723cea81949fc2feb78562cfca429d3f37d7f104c194750c0121
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:31:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:31:51Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +109,7 @@ Tendo em conta o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Infra-Estruturas da Força Aérea a celebrar os seguintes contratos:
+Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Infra-Estruturas da Força Aérea a celebrar os seguintes contratos:
 
 Com a firma Turbomar, Comércio e Técnica de Máquinas, Lda., para a aquisição de dois emissores-receptores VHF de 20 W, um canal, com acessórios e sobresselentes, para a 2.ª região aérea, pela importância de 86530$00;
 
@@ -121,8 +125,8 @@ Com a firma Standard Eléctrica, S. A. R. L., para a aquisição e direcção t�
 
 Com a firma Turbomar, Comércio e Técnica de Máquinas, Lda., para a aquisição de cinco emissores-receptores VHF de 20 W, dois canais, com acessórios e sobresselentes, para a 2.ª região aérea, pela importância de 344400$00.
 
-###### Art. 2.º O encargo com estas aquisições e montagem, no montante de 3462597$40, a custear por conta da verba apropriada do orçamento de despesas extraordinárias das forças aéreas ultramarinas, será na sua totalidade liquidado pelo referido conselho administrativo no ano económico de 1963.
+Art. 2.º O encargo com estas aquisições e montagem, no montante de 3462597$40, a custear por conta da verba apropriada do orçamento de despesas extraordinárias das forças aéreas ultramarinas, será na sua totalidade liquidado pelo referido conselho administrativo no ano económico de 1963.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Novembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Kaulza Oliveira de Arriaga.

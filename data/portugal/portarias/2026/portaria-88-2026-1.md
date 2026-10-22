@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/88/2026/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/88-2026-1057506185
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-23T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bad20a11be194286b3c72f39a01d437d8fd07ffa8b39474f33665f707c8efe19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 979b1ff7feeb7baff6fea54fef59dc09d5397f2757f52d9f65648c78024e1b3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Coeficiente de Actualização
+- Complemento Solidário para Idosos
 - Contribuições da Segurança Social
 - Pensão de Aposentação
 - Pensão de Invalidez
-- Pensão de Velhice
 - Pensão de Reforma
-- Quotização
+- Pensão de Velhice
 - Proteção Social
+- Quotização
 - Regime de Protecção Social Convergente
 - Regime Geral da Segurança Social
 - Sistema Previdencial
-- Complemento Solidário para Idosos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/187/2007/05/10/p/dre
@@ -102,16 +102,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/83/2025/03/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/83/2025/03/05/p/dre
+- type: cites
+  target: pt:dre:469066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:909595553:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:83/2025
+  label: Revoga, a partir de 24 de fevereiro de 2026, com efeitos a 1 de janeiro de 2026, a Portaria n.º 83/2025/1, de 5 de
+    março, Diário da República n.º 45/2025, Série I
+  source: null
+  date: '2025-03-05'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:59Z'
   warnings: []
   errors: []
 ---
@@ -122,9 +152,9 @@ de 23 de fevereiro
 
 As regras da atualização das remunerações anuais que servem de base de cálculo das pensões encontram-se estabelecidas no artigo 27.º do [Decreto-Lei n.º 187/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), de 10 de maio, que define e regulamenta o regime jurídico de proteção nas eventualidades invalidez e velhice do regime geral de segurança social.
 
-De acordo com o estabelecido nos n.<sup>os</sup>1 e 5 do mencionado artigo 27.º do [Decreto-Lei n.º 187/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), de 10 de maio, a referida atualização anual é obtida pela aplicação do índice geral de preços no consumidor (IPC), sem habitação, às remunerações anuais relevantes para o cálculo da remuneração de referência.
+De acordo com o estabelecido nos n.os1 e 5 do mencionado artigo 27.º do [Decreto-Lei n.º 187/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), de 10 de maio, a referida atualização anual é obtida pela aplicação do índice geral de preços no consumidor (IPC), sem habitação, às remunerações anuais relevantes para o cálculo da remuneração de referência.
 
-Por seu turno, os n.<sup>os</sup>2 e 3 do citado artigo estabelecem que a atualização das remunerações registadas a partir de 1 de janeiro de 2002, para efeitos do cálculo da pensão com base em toda a carreira contributiva, nos termos dos artigos 32.º e 33.º do mesmo decreto-lei, se efetua por aplicação de um índice resultante da ponderação de 75 % do IPC, sem habitação, e de 25 % da evolução média dos ganhos subjacentes às contribuições declaradas à segurança social, sempre que esta evolução seja superior ao IPC, sem habitação, tendo como limite máximo o valor do IPC, sem habitação, acrescido de 0,5 pontos percentuais.
+Por seu turno, os n.os2 e 3 do citado artigo estabelecem que a atualização das remunerações registadas a partir de 1 de janeiro de 2002, para efeitos do cálculo da pensão com base em toda a carreira contributiva, nos termos dos artigos 32.º e 33.º do mesmo decreto-lei, se efetua por aplicação de um índice resultante da ponderação de 75 % do IPC, sem habitação, e de 25 % da evolução média dos ganhos subjacentes às contribuições declaradas à segurança social, sempre que esta evolução seja superior ao IPC, sem habitação, tendo como limite máximo o valor do IPC, sem habitação, acrescido de 0,5 pontos percentuais.
 
 As remunerações anuais dos trabalhadores em funções públicas abrangidos pelo regime de proteção social convergente, para efeitos de cálculo das pensões de aposentação, reforma e invalidez ao abrigo da [Lei n.º 60/2005](https://diariodarepublica.pt/dr/detalhe/lei/60-2005-469066), de 29 de dezembro, são, igualmente, objeto de atualização nos termos definidos no artigo 27.º do [Decreto-Lei n.º 187/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), de 10 de maio.
 
@@ -132,7 +162,7 @@ Tendo em conta que a taxa de variação média dos últimos 12 meses do IPC, sem
 
 Nestes termos, o Governo aprova os valores dos coeficientes de revalorização a aplicar na atualização das remunerações anuais registadas que servem de base de cálculo às pensões iniciadas durante o ano de 2026, os quais constam das tabelas que constituem os anexos I e II da presente portaria e que dela fazem parte integrante.
 
-Assim, manda o Governo, pelo Ministro de Estado e das Finanças e pela Ministra do Trabalho, Solidariedade e Segurança Social, nos termos dos n.<sup>os</sup>5 e 6 do artigo 63.º da [Lei n.º 4/2007](https://diariodarepublica.pt/dr/detalhe/lei/4-2007-522781), de 16 de janeiro, na redação atual, e do artigo 27.º do [Decreto-Lei n.º 187/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), de 10 de maio, na redação atual, o seguinte:
+Assim, manda o Governo, pelo Ministro de Estado e das Finanças e pela Ministra do Trabalho, Solidariedade e Segurança Social, nos termos dos n.os5 e 6 do artigo 63.º da [Lei n.º 4/2007](https://diariodarepublica.pt/dr/detalhe/lei/4-2007-522781), de 16 de janeiro, na redação atual, e do artigo 27.º do [Decreto-Lei n.º 187/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), de 10 de maio, na redação atual, o seguinte:
 
 ###### Artigo 1.º — Coeficientes de revalorização das remunerações anuais
 
@@ -140,7 +170,7 @@ Os valores dos coeficientes a utilizar na atualização das remunerações anuai
 
 a) Os constantes da tabela publicada como anexo I à presente portaria, que dela faz parte integrante, nas situações em que é aplicável o disposto no n.º 1 do artigo 27.º do [Decreto-Lei n.º 187/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), de 10 de maio, na redação atual;
 
-b) Os constantes da tabela publicada como anexo II à presente portaria, que dela faz parte integrante, nas situações em que é aplicável o disposto nos n.<sup>os</sup>2 e 3 do artigo 27.º do [Decreto-Lei n.º 187/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), de 10 de maio, na redação atual.
+b) Os constantes da tabela publicada como anexo II à presente portaria, que dela faz parte integrante, nas situações em que é aplicável o disposto nos n.os2 e 3 do artigo 27.º do [Decreto-Lei n.º 187/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), de 10 de maio, na redação atual.
 
 ###### Artigo 2.º — Coeficientes de revalorização aplicáveis a outras situações
 
@@ -162,7 +192,7 @@ d) Atualização dos rendimentos para efeitos de atribuição e renovação do c
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos de 1 de janeiro a 31 de dezembro de 2026.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 18 de fevereiro de 2026. - A Ministra do Trabalho, Solidariedade e Segurança Social, Rosário Palma Ramalho, em 3 de fevereiro de 2026.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 18 de fevereiro de 2026. - A Ministra do Trabalho, Solidariedade e Segurança Social, Rosário Palma Ramalho, em 3 de fevereiro de 2026.
 
 ## ANEXO I — Tabela aplicável em 2026
 
@@ -249,7 +279,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação e prod
 
 ## ANEXO II — Tabela aplicável em 2026
 
-(n.<sup>os</sup>2 e 3 do artigo 27.º do [Decreto-Lei n.º 187/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), de 10 de maio, na sua redação atual)
+(n.os2 e 3 do artigo 27.º do [Decreto-Lei n.º 187/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), de 10 de maio, na sua redação atual)
 
 | Anos | Coeficientes |
 | --- | --- |
@@ -278,3 +308,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação e prod
 | 2024 | 1,027 0 |
 | 2025 | 1,000 0 |
 | 2026 | 1,000 0 |
+
+119947716
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:18px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; }

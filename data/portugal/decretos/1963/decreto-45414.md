@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45414-1963-683831
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-12-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:38:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a23c3f718ea58e58415eae153f8483907a6633c9516cf55ba66f96a07e3d0ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f13304a6e63f7fb53a95073657de350c403f297cd30c11a7a32dd24388f9bffd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:38:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:38:04Z'
   warnings: []
   errors: []
 ---
@@ -89,10 +89,10 @@ Convindo providenciar no sentido de tornar mais ampla a faculdade conferida por 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É acrescentado ao artigo 27.º do Regulamento dos Concursos de Admissão e Promoção do Pessoal da Administração-Geral do Porto de Lisboa, aprovado pelo Decreto n.º 38828, de 16 de Julho de 1952, o seguinte:
+Artigo único. É acrescentado ao artigo 27.º do Regulamento dos Concursos de Admissão e Promoção do Pessoal da Administração-Geral do Porto de Lisboa, aprovado pelo Decreto n.º 38828, de 16 de Julho de 1952, o seguinte:
 
 § único. Nas mesmas condições, poderá ainda usar-se desta faculdade nos casos em que a comissão técnica julgue equivalentes em categoria ou classe o lugar imediatamente inferior ao lugar a preencher e aquele que é ocupado pelo concorrente, desde que se trate do lugar mais elevado do respectivo grupo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Dezembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Carlos Gomes da Silva Ribeiro.

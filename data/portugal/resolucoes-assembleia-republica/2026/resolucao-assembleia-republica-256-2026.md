@@ -46,25 +46,28 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/256/2026/10/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/256-2026-1178225507
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-10-08T00:00:00Z'
+  retrieved_at: '2026-10-22T18:54:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb2affc61d92cf062171d56ef79bf45bc694bb67fb3ac53e2081a54ebf23ea74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b688b758bfc333c83e57527b1083c52f822597707e432bb9fdd1036909e06375
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:54:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia da República
+- Orçamento
+- Receita Própria
 relationships:
 - type: cites
   target: eli:http://data.dre.pt
@@ -110,16 +113,180 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/9/1991/04/09/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/9/1991/04/09/p/dre
+- type: cites
+  target: pt:dre:123407852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124346822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163728569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172420961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219915285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2417869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3104813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55235778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651724:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836604892:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:54:30Z'
   warnings: []
   errors: []
 ---
@@ -132,21 +299,26 @@ A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Con
 
 Aprovada em 30 de setembro de 2026.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar-Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar-Branco.
 
 ## ANEXO — Mapa das Receitas 2027 (por Classificação económica)
 
-![](https://files.diariodarepublica.pt/images/1178225507/1177819857.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1178225507/1177819857.png) |
+| --- |
 
 Mapa das Despesas 2027 (por Classificação económica)
 
-![](https://files.diariodarepublica.pt/images/1178225507/1177819858.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1178225507/1177819858.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1178225507/1177819859.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1178225507/1177819859.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1178225507/1177819860.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1178225507/1177819860.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1178225507/1177819861.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1178225507/1177819861.png) |
+| --- |
 
 Notas explicativas
 
@@ -208,7 +380,7 @@ Despesa
 
 12 - N.º 3 do artigo 9.º do Regulamento dos horários de funcionamento e de atendimento da Assembleia da República e do período normal de trabalho dos funcionários parlamentares e demais pessoal em funções nos órgãos e serviços da Assembleia da República, aprovado pelo Despacho n.º 64/XIII, de 13 de dezembro de 2017, do Presidente da Assembleia da República, e Despacho n.º 27/XVI/1.ª, de 29 de setembro de 2025, do Presidente da Assembleia da República (Trabalho suplementar realizado por funcionários parlamentares em dias de descanso semanal obrigatório ou complementar e em feriados).
 
-13 - N.<sup>os</sup> 1 e 2 do artigo 9.º do Regulamento dos horários de funcionamento e de atendimento da Assembleia e do período normal de trabalho dos funcionários parlamentares e demais pessoal em funções nos órgãos e serviços da Assembleia da República, aprovado pelo Despacho n.º 64/XIII, de 13 de dezembro de 2017, do Presidente da Assembleia da República.
+13 - N.os 1 e 2 do artigo 9.º do Regulamento dos horários de funcionamento e de atendimento da Assembleia e do período normal de trabalho dos funcionários parlamentares e demais pessoal em funções nos órgãos e serviços da Assembleia da República, aprovado pelo Despacho n.º 64/XIII, de 13 de dezembro de 2017, do Presidente da Assembleia da República.
 
 14 - [Decreto-Lei n.º 106/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1998-176328), de 24 de abril, que estabelece normas relativas ao abono de ajudas de custo e de transporte pelas deslocações em serviço público, na sua redação atual.
 
@@ -298,7 +470,7 @@ Despesa
 
 57 - Despesas com comunicações, fixas (voz) e móveis, de acessos à Internet, incluindo correspondência via CTT e os serviços inerentes às próprias comunicações, abrangendo as despesas com o Conselho de Fiscalização do Sistema de Informações da República Portuguesa, com o Conselho dos Julgados de Paz e com o Conselho de Fiscalização da Base de Dados de Perfis de ADN.
 
-58 - N.<sup>os</sup> 1 e 2 do artigo 16.º do Estatuto dos Deputados e [Resolução da Assembleia da República n.º 113/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/113-2019-123407852), de 23 de julho.
+58 - N.os 1 e 2 do artigo 16.º do Estatuto dos Deputados e [Resolução da Assembleia da República n.º 113/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/113-2019-123407852), de 23 de julho.
 
 59 - Despesas com o transporte de pessoal (aluguer permanente de veículos). Inclui ainda as despesas com transporte de bens já na posse dos serviços e as despesas com o Conselho de Fiscalização do Sistema de Informações da República Portuguesa.
 
@@ -338,7 +510,7 @@ Despesa
 
 77 - N.º 3 do artigo 28.º do Estatuto dos Deputados (despesas efetuadas no âmbito da Associação dos Ex-Deputados da Assembleia da República).
 
-78 - N.<sup>os</sup> 4, 5 e 6 do artigo 5.º da [Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/lei/19-2003-692850), de 20 de junho (Financiamento dos Partidos Políticos e das Campanhas Eleitorais), na sua redação atual.
+78 - N.os 4, 5 e 6 do artigo 5.º da [Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/lei/19-2003-692850), de 20 de junho (Financiamento dos Partidos Políticos e das Campanhas Eleitorais), na sua redação atual.
 
 79 - N.º 6 do artigo 12.º do Estatuto dos Deputados.
 
@@ -385,3 +557,5 @@ Despesa
 100 - Artigo 5.º da [Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/lei/19-2003-692850), de 20 de junho, na sua redação atual (Subvenção pública para financiamento dos Partidos Políticos).
 
 101 - Constituição de reserva de dotação orçamental equivalente a 7,5 % do orçamento de funcionamento da Assembleia da República (excluindo despesas de investimento e dotações provisionais).
+
+119949693

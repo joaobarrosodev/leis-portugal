@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/05900/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/19/2024/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/19-2024-856886482
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-22T00:00:00Z'
+  retrieved_at: '2026-10-22T19:14:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: acfb3222657d1b8cca40dae1254027e186c0c3cd6c8495e0886aaf7b5e739df8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e78e1ed89cf60751c831387186aca05ffc4145a529d577da6a6e1fbda8023910
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:14:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Agência Espacial Portuguesa
+- Autoridade Nacional de Comunicações
+- Exploração do Espaço
 - Governo Regional
-- Seguro
 - Licenciamento
 - Madeira.região Autónoma
 - Responsabilidade Civil
-- Açores
-- Utilização do Espaço
-- Exploração do Espaço
+- Seguro
 - Transporte Espacial
-- Autoridade Nacional de Comunicações
-- Agência Espacial Portuguesa
+- Utilização do Espaço
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/2019/01/22/p/dre
@@ -93,16 +93,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
+- type: cites
+  target: pt:dre:118275382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:840060196:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:16/2019
+  label: Retifica o artigo 2.º (na parte em que altera o artigo 6.º do Decreto-Lei n.º 16/2019, de 22 de janeiro), o artigo
+    4.º (na parte em que adita uma secção ao capítulo ii do Decreto-Lei n.º 16/2019, de 22 de janeiro) e o artigo 6.º (na
+    parte em que revoga a alínea b) do n.º 2 do artigo 5.º, o n.º 5 do artigo 6.º, o n.º 3 do artigo 12.º e os artigos 27.º
+    e 29.º do Decreto-Lei n.º 16/2019, de 22 de janeiro) do Decreto-Lei n.º 20/2024, de 2 de fevereiro, Diário da República
+    n.º 59/2024, Série I
+  source: null
+  date: '2024-02-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:14:59Z'
   warnings: []
   errors: []
 ---
@@ -190,3 +219,5 @@ deve ler-se:
 "São revogados a alínea b) do n.º 2 do artigo 5.º, o n.º 5 do artigo 6.º, o n.º 3 do artigo 12.º e os artigos 27.º e 29.º do [Decreto-Lei n.º 16/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2019-118275382), de 22 de janeiro."
 
 Secretaria-Geral, 19 de março de 2024. - A Secretária-Geral Adjunta, Fátima Costa Ferreira.
+
+117500952

@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 230/1993, 3º Suplemento, Série I-B de 1993-09-30
   number: '230'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 5540-(10) a 5540-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/09/230b03/00100011.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/185/1993/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/185-1993-451192
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:37:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9685ef0617d2af379875da00803d8e516be094e1c9a314b224753b09825dd4b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22e69fe2c5bdf6402f51d6bde06f23872ead0e35db91c80045286218cd3dff69
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:37:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,24 +74,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/667-j9/1993/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/667-j9/1993/07/14/p/dre
+- type: cites
+  target: pt:dre:402129:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:37:21Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 185/93
+# Declaração de rectificação n.º 185/93
 
 Segundo comunicação do Ministério da Agricultura, a planta anexa à [Portaria n.º 667-J9/93](https://diariodarepublica.pt/dr/detalhe/portaria/667-j9-1993-402129), publicada no Diário da República, 1.ª série, n.º 163 (2.º suplemento), de 14 de Julho de 1993, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com inexactidão, pelo que se procede de novo à sua publicação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/230b03/00100011.pdf))](https://files.diariodarepublica.pt/1s/1993/09/230b03/00100011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/230b03/00100011.pdf)
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 17 de Setembro de 1993. - O Secretário-Geral, França Martins.

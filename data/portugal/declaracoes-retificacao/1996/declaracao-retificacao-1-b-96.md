@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 26/1996, 1º Suplemento, Série I-A de 1996-01-31
   number: '26'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 196-(2) a 196-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/01/026a01/00020002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/1-b/1996/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-b-1996-423047
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-02-14T00:00:00Z'
+  retrieved_at: '2026-10-22T18:46:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ffa2ee673aba6936718c53ddf61c9ecea473840fc0c2326c377466281de61aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6fc32898ba05c2bc58a7f51ac63d3a007ed277f472c2f6e61fd9dcd0dca2e057
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:46:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,36 +67,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Actividade Artística
 - Alvará
+- Autarquia Local
 - Bailado
-- Espetáculos e Divertimentos Públicos
-- Multa
+- Bombeiro
+- Câmara Municipal
+- Cinema
 - Contra-ordenação
 - Definição de Competências
 - Direcção Geral de Espectáculos
-- Local de Divertimento
 - Equipamento
-- Segurança Pública
-- Produção Cinematográfica
+- Espetáculos e Divertimentos Públicos
 - Fiscalização
+- Fonograma
+- Indústria Cinematográfica
+- Licença Municipal
 - Licenciamento
 - Licenciamento de Obras
-- Licença Municipal
-- Bombeiro
 - Literatura
+- Local de Divertimento
+- Multa
 - Música
 - Orgânica
-- Tauromaquia
-- Câmara Municipal
+- Produção Cinematográfica
 - Regime Jurídico
-- Cinema
-- Indústria Cinematográfica
-- Actividade Artística
 - Segurança dos Edifícios
+- Segurança Pública
+- Tauromaquia
 - Teatro
 - Transferência de Competências
-- Fonograma
-- Autarquia Local
 - Videograma
 - Vistoria
 relationships:
@@ -108,16 +108,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/315/1995/11/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/315/1995/11/28/p/dre
+- type: cites
+  target: pt:dre:283086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626594:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:572446:por
+  label: "Revogado a partir de 15.04.2014 o Dec Lei 315/95, de 28-nov, retificado pelo presente diploma, pelo DEC LEI.23/2014.14.02.2014.PCM,\
+    \ DR.IS [32] de 14.02.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2014-572446
+  date: '2014-02-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:46:24Z'
   warnings: []
   errors: []
 ---

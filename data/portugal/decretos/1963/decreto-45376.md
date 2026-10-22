@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 274/1963, 1º Suplemento, Série I de 1963-11-22
   number: '274'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1801 - 1801
   pdf_url: https://files.diariodarepublica.pt/1s/1963/11/27401/18011801.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45376-1963-611510
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-11-22T00:00:00Z'
+  retrieved_at: '2026-10-22T19:37:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c01216635e660866ea524463e49fe27e65ea94e4c34a3bb9602712c0eab20f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74054872588c5b21644553aa90a8a19556b5ac3c6b3957d13831fec905f37c98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:37:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:238460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518996:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:37:43Z'
   warnings: []
   errors: []
 ---
@@ -90,17 +98,17 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 ESTATUTO POLÍTICO-ADMINISTRATIVO DA PROVÍNCIA DO ESTADO DA ÍNDIA
 
-###### Artigo 1.º - 1. O Estatuto Político-Administrativo da Província do Estado da Índia, aprovado pelo [Decreto n.º 40216](https://diariodarepublica.pt/dr/detalhe/decreto/40216-1955-238460), de 1 de Julho de 1955, mantém-se em vigor.
+Artigo 1.º - 1. O Estatuto Político-Administrativo da Província do Estado da Índia, aprovado pelo [Decreto n.º 40216](https://diariodarepublica.pt/dr/detalhe/decreto/40216-1955-238460), de 1 de Julho de 1955, mantém-se em vigor.
 
 2. Enquanto o território da província estiver subtraído ao exercício pleno e efectivo da soberania portuguesa, o Governo da província, com os seus órgãos e serviços de administração provincial, continuará a funcionar em Lisboa, nos termos da [Lei n.º 2112](https://diariodarepublica.pt/dr/detalhe/lei/2112-1962-518996), de 17 de Fevereiro de 1962.
 
-###### Art. 2.º Compete ao Ministro do Ultramar, quando não estiverem em funcionamento os órgãos de governo da província, praticar todos os actos da competência do governador-geral, com dispensa da audiência dos órgãos consultivos ou deliberativos.
+Art. 2.º Compete ao Ministro do Ultramar, quando não estiverem em funcionamento os órgãos de governo da província, praticar todos os actos da competência do governador-geral, com dispensa da audiência dos órgãos consultivos ou deliberativos.
 
-###### Art. 3.º A competência prevista no artigo anterior compreende a administração do património de todos os serviços autónomos da província, correndo o expediente pelas direcções-gerais competentes, segundo a natureza dos assuntos.
+Art. 3.º A competência prevista no artigo anterior compreende a administração do património de todos os serviços autónomos da província, correndo o expediente pelas direcções-gerais competentes, segundo a natureza dos assuntos.
 
-###### Art. 4.º Os actos que por lei devam ter publicidade serão publicados na 2.ª série do Diário do Governo e no Boletim Oficial da província ultramarina onde hajam de produzir efeito.
+Art. 4.º Os actos que por lei devam ter publicidade serão publicados na 2.ª série do Diário do Governo e no Boletim Oficial da província ultramarina onde hajam de produzir efeito.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Novembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

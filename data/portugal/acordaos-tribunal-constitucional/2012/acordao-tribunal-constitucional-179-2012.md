@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/179/2012/04/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/179-2012-552810
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-19T00:00:00Z'
+  retrieved_at: '2026-10-22T18:24:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0f525ac430cb65bfd5284e2a50e8a254b6d108455e8f579a0898da6c04066ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d647f1e09e96a49869f49c971a3112ef70c54701551b05980ceda59a157861c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:24:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Código Penal
 - Crime
+- Direito Penal
 - Inconstitucionalidade
 - Prova
-- Código Penal
-- Direito Penal
 - Responsabilidade Criminal
 relationships:
 - type: cites
@@ -82,15 +82,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dec/2008/841/oj
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:24:03Z'
   warnings: []
   errors: []
 ---
@@ -263,7 +263,9 @@ Enriquecimento ilícito por funcionário
 
 ...
 
-###### Artigo 2.º — Quinta alteração à Lei n.º 34/87, de 16 de julho
+Artigo 2.º
+
+Quinta alteração à Lei n.º 34/87, de 16 de julho
 
 É aditado à Lei n.º 34/87, de 16 de julho, alterada pelas Leis n.os 108/2001, de 28 de novembro, 30/2008, de 10 de julho, 41/2010, de 3 de setembro, e 4/2011, de 16 de fevereiro, o artigo 27.º-A, com a seguinte redação:
 
@@ -283,7 +285,9 @@ Enriquecimento ilícito
 
 ...
 
-###### Artigo 10.º — Prova
+Artigo 10.º
+
+Prova
 
 Compete ao Ministério Público, nos termos do Código do Processo Penal, fazer a prova de todos os elementos do crime de enriquecimento ilícito.»
 

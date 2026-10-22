@@ -88,6 +88,12 @@ relationships:
   source: null
 - type: amended_by
   target: pt:dre:1154275219:por
+  label: Alterado, com efeitos no dia 4 de fevereiro de 2026, o artigo 3.º e aditado o artigo 3.º-A pelo(a) Decreto-Lei n.º
+    162/2026 - Diário da República n.º 149/2026, Série I de 2026-08-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/162-2026-1154275219
+  date: '2026-08-03'
+- type: amended_by
+  target: pt:dre:1154275219:por
   label: Adita Artigo 3.º-A; Altera Artigo 3.º
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2026-1154275219
   date: '2026-08-04'
@@ -103,6 +109,18 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/24-a/2026/02/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/24-a/2026/02/05/p/dre
+- type: cites
+  target: pt:dre:1031784677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1031784680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1039064235:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0

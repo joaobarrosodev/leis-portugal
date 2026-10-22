@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/83/2026/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2026-1082345417
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-07T00:00:00Z'
+  retrieved_at: '2026-10-22T18:37:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 536e582e91c211cf85565454d67c95bf3467c05421e90b5fd90a13ac8e015e79
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d06161e8074895a1121c8df4f8ddd0efcaca7334a5666d9097a15c68287f1fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:37:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,14 +71,14 @@ subjects:
 - CAE
 - Cidadão Estrangeiro
 - Comissão de Reconhecimento de Graus Estrangeiros
+- Contraordenação
 - Cooperação
+- Ensino Superior
+- Equivalência de Diplomas
 - Fiscalização
 - Inspecção Geral da Educação e Ciência
-- Equivalência de Diplomas
-- Ensino Superior
-- SUPERVISÃO DE AUDITORIA
-- Contraordenação
 - Instituto para o Ensino Superior
+- SUPERVISÃO DE AUDITORIA
 relationships:
 - type: cites
   target: celex:32000L0031
@@ -120,6 +120,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/110/2015/08/07/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/110/2015/08/07/p/dre
+- type: cites
+  target: pt:dre:116068880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69968700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69968705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:907097147:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32006L0123
   label: null
@@ -127,13 +163,13 @@ relationships:
 article_structure:
   article_count: 14
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:37:29Z'
   warnings: []
   errors: []
 ---
@@ -280,7 +316,7 @@ a) O exercício de atividade abrangida pelo presente decreto-lei sem que tenha s
 
 b) A omissão de informação, a prestação de informação falsa, inexata, incompleta ou enganosa, ou qualquer outra forma de inobservância dos deveres de transparência ou das medidas corretivas determinadas pelo IES, I. P., em violação do disposto no artigo 4.º;
 
-c) A recusa injustificada em colaborar com a supervisão legalmente prevista, em violação do disposto nos n.<sup>os</sup>1 e 2 do artigo 5.º
+c) A recusa injustificada em colaborar com a supervisão legalmente prevista, em violação do disposto nos n.os1 e 2 do artigo 5.º
 
 3 - A negligência e a tentativa são puníveis nos termos previstos no RJCE.
 
@@ -308,7 +344,7 @@ c) A recusa injustificada em colaborar com a supervisão legalmente prevista, em
 
 ###### Artigo 11.º — Cooperação administrativa
 
-1 - O IES, I. P., deve solicitar e prestar às autoridades administrativas competentes dos outros Estados-Membros da União Europeia e dos Estados Partes no Acordo sobre o Espaço Económico Europeu, bem como à Comissão Europeia, a assistência mútua necessária e tomar as medidas adequadas para assegurar uma cooperação eficaz no âmbito dos procedimentos relativos a entidades estabelecidas noutro Estado-Membro da União Europeia ou num Estado Parte no Acordo sobre o Espaço Económico Europeu, nos termos do capítulo vi do [Decreto-Lei n.º 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), de 26 de julho, na sua redação atual, e dos n.<sup>os</sup>2 e 3 do artigo 19.º da [Diretiva n.º 2000/31/CE](https://data.europa.eu/eli/dir/2000/31/oj?locale=pt), do Parlamento Europeu e do Conselho, de 8 de junho de 2000, relativa a certos aspetos legais dos serviços da sociedade de informação, em especial do comércio eletrónico, no mercado interno.
+1 - O IES, I. P., deve solicitar e prestar às autoridades administrativas competentes dos outros Estados-Membros da União Europeia e dos Estados Partes no Acordo sobre o Espaço Económico Europeu, bem como à Comissão Europeia, a assistência mútua necessária e tomar as medidas adequadas para assegurar uma cooperação eficaz no âmbito dos procedimentos relativos a entidades estabelecidas noutro Estado-Membro da União Europeia ou num Estado Parte no Acordo sobre o Espaço Económico Europeu, nos termos do capítulo vi do [Decreto-Lei n.º 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), de 26 de julho, na sua redação atual, e dos n.os2 e 3 do artigo 19.º da [Diretiva n.º 2000/31/CE](https://data.europa.eu/eli/dir/2000/31/oj?locale=pt), do Parlamento Europeu e do Conselho, de 8 de junho de 2000, relativa a certos aspetos legais dos serviços da sociedade de informação, em especial do comércio eletrónico, no mercado interno.
 
 2 - Nos casos de entidade abrangida pelo disposto no n.º 2 do artigo 2.º, o IES, I. P., deve ainda, sem prejuízo do previsto no número anterior, solicitar e prestar às autoridades administrativas competentes do Estado ou território em que a entidade respetiva se encontra estabelecida, bem como à agência de acreditação membro da INQAAHE que a tenha acreditado, a assistência mútua necessária e tomar as medidas adequadas para assegurar uma cooperação eficaz no âmbito dos procedimentos relativos a essa entidade, designadamente através da troca de informações que se revele necessária à aplicação do disposto no presente decreto-lei.
 
@@ -326,12 +362,14 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de fevereiro de 2026. - Luís Montenegro - Emídio Ferreira dos Santos Sousa - Manuel Castro Almeida - Fernando Alexandre.
 
-**Promulgado em 18 de março de 2026.**
+Promulgado em 18 de março de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 23 de março de 2026.**
+Referendado em 23 de março de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119948111

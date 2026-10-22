@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/3/2011/02/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-2011-279851
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-16T00:00:00Z'
+  retrieved_at: '2026-10-22T19:13:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4dfaa652e22a271bbcfd69be541b45a453eded896903c3b654442c6398632f77
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a51e285c272eaf7b179bd2a957899f862c340416e2203500e8368cee3b0c9ec3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:13:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,143 +66,143 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Acumulação de Pensões e Remunerações
 - Administração Fiscal
-- Função Pública
+- Administração Pública
 - ADSE
-- QREN
-- Investigador
-- Proder
+- Apoio ao Investimento
 - Aquisição de Bens e Serviços
 - ÁREA Metropolitana
-- Região Autónoma
 - Assistência Médica
 - Aumento de Capital
-- Garantia
+- Autarquia Local
+- Avaliação do Pessoal
+- Banca
+- Banco de Portugal
+- Benefícios Fiscais
+- BENS Imóveis do Estado
+- Bolsa de Estudos
+- Caixa Geral de Aposentações
 - Cargos Políticos
+- Cobrança de Dívidas
 - Cobrança de Impostos
 - Código de Procedimento e de Processo Tributário
 - Código do Imposto do SELO
 - Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis
+- Código do Imposto Municipal sobre Imóveis
+- Código do Imposto sobre Veículos
 - Código do Imposto Único de Circulação
 - Código do IRC
 - Código do IRS
 - Código do IVA
 - Código dos Impostos Especiais de Consumo
+- Código dos Regimes Contributivos do Sistema Previdêncial de Segurança Social
 - Comissão Nacional de Protecção de Dados
-- Concurso
 - Comissão Permanente de Concertação Social
-- Finanças Locais
+- Concurso
 - Contrato
 - Contrato de Prestação de Serviços
 - Contrato Programa
+- Contribuição para o Audio-visual
 - Contribuições da Segurança Social
+- Contribuições e Impostos
 - Controlo Financeiro
-- Instituição Religiosa
-- REDE Rural Nacional
-- Direcção Geral do Património do Estado
 - Direção Geral do Tesouro e Finanças
+- Direcção Geral do Património do Estado
 - Direcção Geral dos Impostos
 - Dívidas à Segurança Social
 - Dívidas ao Estado
-- Profissão Diplomática
+- Empresa Pública
 - Empresa Pública Municipal
 - Empresa Pública Regional
-- Empresa Pública
-- SELO Fiscal
 - Estatuto
-- Administração Pública
 - Estatuto dos Benefícios Fiscais
 - Estatuto dos Magistrados Judiciais
 - Estatuto dos Militares das Forças Armadas
-- Serviço Nacional de Saúde
-- Fundo Social Municipal
-- Caixa Geral de Aposentações
+- Finanças Locais
 - Fiscalização
-- Setor Empresarial do Estado
-- SIADAP
-- IPSS
+- Forças Armadas
+- Função Pública
+- Funcionário Público
 - Fundo de Emergência Municipal
 - Fundo de Financiamento das Freguesias
-- BENS Imóveis do Estado
-- Banco de Portugal
-- Apoio ao Investimento
+- Fundo para a Modernização da Justiça
+- Fundo Social Municipal
 - Fundos Próprios
-- Recrutamento de Pessoal
+- Garantia
 - Gestão do Património
-- Ministro das Finanças
 - Igreja Católica
 - Imposto de Circulação
 - Imposto do SELO
 - Imposto Municipal sobre as Transmissões Onerosas de Imóveis
-- Código do Imposto Municipal sobre Imóveis
-- Contribuições e Impostos
-- IRS
-- IVA
+- Imposto sobre Veículos
 - Infracção Fiscal
-- Banca
-- Instituto de Turismo de Portugal
+- Instituição Financeira
+- Instituição Religiosa
 - Instituto de Gestão da Tesouraria e do Crédito Público
+- Instituto de Infra-Estruturas Rodoviárias
+- Instituto de Turismo de Portugal
 - Instituto Público
+- Intervenção Operacional Pescas
+- Investigador
+- IPSS
+- IRC
+- IRS
 - Isenção Fiscal
-- Tribunal de Contas
+- IVA
 - Junta Metropolitana
 - JURO de MORA
 - Lei Geral Tributária
-- Veículo
 - Locação Financeira
+- Madeira.região Autónoma
 - Magistrado do Ministério Público
 - Magistrado Judicial
 - Mercado Financeiro
-- Fundo para a Modernização da Justiça
+- Militar
+- Ministério dos Negócios Estrangeiros
+- Ministério Público
+- Ministro da Defesa Nacional
+- Ministro das Finanças
 - Missão Militar
-- Orçamento Geral do Estado
+- Mobilidade de Pessoal
 - Oficial de Ligação
-- Forças Armadas
+- Orçamento Geral do Estado
 - Pagamento de Contribuições
 - Pessoa Colectiva de Direito Público
 - Pessoal Supranumerario
-- IRC
+- Polícia Judiciária
+- Proder
+- Profissão Diplomática
 - Programa
-- Madeira.região Autónoma
+- QREN
 - Receita Própria
-- Cobrança de Dívidas
+- Recrutamento de Pessoal
+- REDE Rural Nacional
+- Região Autónoma
 - Regime Contributivo da Segurança Social
-- Código dos Regimes Contributivos do Sistema Previdêncial de Segurança Social
-- Intervenção Operacional Pescas
 - Regime Fiscal
 - Regime Geral das Infracções Tributárias
 - Regulamento
-- Ministério Público
-- Polícia Judiciária
-- Bolsa de Estudos
 - Remuneração
-- Mobilidade de Pessoal
-- Militar
-- Benefícios Fiscais
 - Restituição de Impostos
-- Ministro da Defesa Nacional
-- Ministério dos Negócios Estrangeiros
-- Setor Empresarial
 - Sector Empresarial Local
-- Setor Público
 - Segurança Social
-- Avaliação do Pessoal
-- Funcionário Público
-- Açores
-- Instituição Financeira
+- SELO Fiscal
+- Serviço Nacional de Saúde
+- Setor Empresarial
+- Setor Empresarial do Estado
+- Setor Público
+- SIADAP
 - Subsídio de Refeição
 - Subsídio por Morte
 - Taxa
 - TAXA de JURO
 - TAXA Euribor
-- Contribuição para o Audio-visual
 - Transferência de Verbas
 - Tribunal Administrativo e Fiscal
-- Autarquia Local
-- Instituto de Infra-Estruturas Rodoviárias
-- Código do Imposto sobre Veículos
-- Imposto sobre Veículos
+- Tribunal de Contas
+- Veículo
 - Veículo do Estado
 - Visto do Tribunal de Contas
 relationships:
@@ -210,16 +210,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/55-a/2010/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/55-a/2010/12/31/p/dre
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:13:23Z'
   warnings: []
   errors: []
 ---

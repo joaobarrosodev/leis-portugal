@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/06/12300/0000900053.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/130/2026/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2026-1139897687
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-29T00:00:00Z'
+  retrieved_at: '2026-10-22T18:45:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f0c5f9c02f8ec4ebf9487a8c9bfc4c01be3266f41a313be732a09563daa8b7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcc20df83a6451fc28a6218ba9a7957ca3cf0ca9d05c2241a8a2c7f4a2b176aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:45:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,29 @@ reuse:
 subjects:
 - Acesso à Informação
 - Aproximação das Legislações
-- Energia Elétrica
 - Consumidor
 - Consumo de Energia
 - Contrato de Aquisição de Energia
 - Deferimento Tácito
+- Direção Geral de Energia e Geologia
+- Energia Elétrica
 - Energia Hidroelétrica
 - Energia Renovável
-- Direção Geral de Energia e Geologia
 - Sistema Elétrico Nacional
 - Zona de Aceleração da Implantação de Energias Renováveis
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:15/2022
+  label: Altera, a partir de 28 de agosto de 2026, nos termos do artigo 9.º do presente diploma, os artigos 3.º, 4.º, 11.º,
+    14.º, 15.º, 16.º, 17.º, 19.º, 20.º, 21.º, 25.º, 33.º, 42.º, 48.º, 50.º, 55.º, 59.º, 62.º, 81.º, 83.º, 84.º, 86.º, 87.º,
+    88.º, 90.º, 100.º, 106.º, 113.º, 115.º, 123.º, 124.º, 136.º, 138.º, 140.º, 148.º, 169.º, 171.º, 172.º, 174.º, 180.º, 181.º,
+    184.º, 185.º, 186.º, 189.º, 195.º, 202.º, 205.º, 206.º, 207.º, 218.º, 246.º, 247.º, 275.º e 277.º e o anexo i, adita os
+    artigos 14.º-A, 14.º-B, 17.º-A, 40.º-A, 40.º-B, 40.º-C, 40.º-D, 42.º-A, 52.º-A, 86.º-A, 88.º-A, 88.º-B, 88.º-C, 101.º-A,
+    136.º-A e 185.º-A e a secção vii ao capítulo ii que integra os artigos 40.º-A a 40.º-E e revoga o n.º 3 do artigo 38.º,
+    o n.º 2 do artigo 51.º, o n.º 2 do artigo 77.º e o n.º 3 do artigo 81.º do Decreto-Lei n.º 15/2022, de 14 de janeiro,
+    Diário da República n.º 10/2022, Série I
+  source: null
+  date: '2022-01-14'
 - type: cites
   target: celex:31998L0070
   label: null
@@ -171,6 +183,98 @@ relationships:
   target: eli:http://data.europa.eu/
   label: null
   source: http://data.europa.eu/
+- type: cites
+  target: pt:dre:1039332368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107987277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122476954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130273580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177634016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66528823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66727183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:857366012:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32018L2001
   label: null
@@ -188,15 +292,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 79
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:45:27Z'
   warnings: []
   errors: []
 ---
@@ -443,7 +547,9 @@ mmmm) «Tempo quase real», no contexto de contadores inteligentes, um curto per
 
 nnnn) «Zona de aceleração da implantação de energia renovável» ou «ZAER», zona específica, em terra, no mar ou em águas interiores, designada, em resultado do procedimento previsto no presente decreto-lei, como particularmente adequada para a implantação de centrais de energia renovável e das infraestruturas de rede ou armazenamento necessárias para integrar a energia renovável no SEN.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -459,7 +565,9 @@ b) [...]
 
 c) Dos planos diretores intermunicipais e municipais, sobrepondo-se ao interesse público de índole regional, municipal ou local.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -491,7 +599,9 @@ b) Os projetos referidos na alínea b) do número anterior com capacidade instal
 
 10 - [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -523,7 +633,9 @@ b) Três anos, para os projetos de energias renováveis offshore, sendo esse pra
 
 13 - Os prazos referidos no n.º 7 iniciam-se com o reconhecimento da completude do primeiro pedido apresentado no procedimento, que deve ser notificado ao requerente pela DGEG, nos termos do artigo seguinte.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Com exceção dos processos de contraordenação, a tramitação dos procedimentos para atribuição das licenças de produção e de exploração, para registo de unidades de produção e para comunicação prévia é realizada informaticamente através de plataforma eletrónica, nos termos a regulamentar por portaria dos membros do Governo responsáveis pelas áreas da reforma do Estado e da energia, sem prejuízo do disposto no n.º 6.
 
@@ -547,7 +659,9 @@ b) Três anos, para os projetos de energias renováveis offshore, sendo esse pra
 
 11 - [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -561,7 +675,9 @@ b) Três anos, para os projetos de energias renováveis offshore, sendo esse pra
 
 6 - Nos procedimentos de controlo prévio de projetos de energias renováveis, o gestor de procedimento acompanha todos os procedimentos aplicáveis ao projeto, servindo como ponto único de contacto do requerente.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -571,7 +687,9 @@ b) Três anos, para os projetos de energias renováveis offshore, sendo esse pra
 
 4 - [...]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]
 
@@ -609,7 +727,9 @@ b) A atribuição de capacidade para consumo depende de validação prévia, pel
 
 16 - Compete à DGEG definir, por regulamento, os critérios técnicos aplicáveis à avaliação da capacidade da rede para efeitos da atribuição do acesso previsto no número anterior, incluindo os procedimentos, cenários de segurança da rede e condições de limitação de potência a aplicar pelos operadores de rede.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -647,7 +767,9 @@ b) A atribuição de capacidade para consumo depende de validação prévia, pel
 
 18 - [...]
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...]
 
@@ -665,7 +787,9 @@ b) A atribuição de capacidade para consumo depende de validação prévia, pel
 
 8 - [...]
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...]
 
@@ -683,7 +807,9 @@ b) A atribuição de capacidade para consumo depende de validação prévia, pel
 
 8 - [...]
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - [...]
 
@@ -703,7 +829,9 @@ b) A atribuição de capacidade para consumo depende de validação prévia, pel
 
 9 - Com o pedido de vistoria, a DGEG emite licença de exploração provisória que habilita o centro eletroprodutor, a UPAC ou a instalação de armazenamento a entrar em funcionamento.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - [...]
 
@@ -729,7 +857,9 @@ b) Sejam suscetíveis de provocar impactes significativos no ambiente de outro E
 
 4 - [...]
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 3 do presente artigo e na alínea g) do n.º 1 do artigo 6.º-A do Regime Jurídico da Urbanização e da Edificação (RJUE), aprovado pelo [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, a instalação de centros eletroprodutores de fontes de energia renovável, de instalações de armazenamento e de UPAC está sujeita a comunicação prévia, nos termos do RJUE.
 
@@ -757,7 +887,9 @@ b) A cércea e a área de implantação do equipamento;
 
 c) O termo de responsabilidade, em que se declare conhecer e cumprir as regras legais e regulamentares aplicáveis à instalação das estruturas.
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - [...]
 
@@ -771,7 +903,9 @@ a) O cumprimento das regras específicas constantes dos regulamentos referidos n
 
 b) A manutenção da aptidão agrícola do terreno, através, entre outros meios, da remoção, parcial ou integral, do sistema agrovoltaico.
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - [...]
 
@@ -809,7 +943,9 @@ c) De dois anos, para o reequipamento dos projetos de energias renováveis offsh
 
 15 - [...]
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - [...]
 
@@ -833,7 +969,9 @@ c) De dois anos, para o reequipamento dos projetos de energias renováveis offsh
 
 11 - [Anterior n.º 10.]
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - [...]
 
@@ -849,7 +987,9 @@ c) De dois anos, para o reequipamento dos projetos de energias renováveis offsh
 
 7 - [Anterior n.º 6.]
 
-###### Artigo 81.º — [...]
+Artigo 81.º
+
+[...]
 
 1 - As UPAC, individuais ou coletivas, estão sujeitas aos procedimentos de controlo prévio previstos no artigo 11.º
 
@@ -863,7 +1003,9 @@ c) De dois anos, para o reequipamento dos projetos de energias renováveis offsh
 
 6 - A dispensa prevista nos números anteriores, quando a injeção de potência na RESP ocorra na RND ou RNT, está condicionada ao cumprimento do [Regulamento (UE) n.º 2016/631](https://data.europa.eu/eli/reg/2016/631/oj?locale=pt), da Comissão, de 14 de abril de 2016, e da [Portaria n.º 73/2020](https://diariodarepublica.pt/dr/detalhe/portaria/73-2020-130273580), de 16 de março.
 
-###### Artigo 83.º — [...]
+Artigo 83.º
+
+[...]
 
 1 - [...]
 
@@ -881,7 +1023,9 @@ c) Quando não estejam ligadas na mesma subestação, não ultrapassem a distân
 
 5 - Para efeitos do presente artigo, considera-se UPAC principal aquela que seja como tal designada pela EGAC ou pelo autoconsumidor, no caso de ACI.
 
-###### Artigo 84.º — [...]
+Artigo 84.º
+
+[...]
 
 1 - A instalação de UPAC com potência instalada superior a 800 W é obrigatoriamente executada por entidade instaladora de instalações elétricas de serviço particular ou técnicos responsáveis pela execução de instalações elétricas, nos termos da [Lei n.º 14/2015](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), de 16 de fevereiro, e do [Decreto-Lei n.º 96/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2017-107987277), de 10 de agosto.
 
@@ -895,7 +1039,9 @@ c) Quando não estejam ligadas na mesma subestação, não ultrapassem a distân
 
 6 - [...]
 
-###### Artigo 86.º — [...]
+Artigo 86.º
+
+[...]
 
 1 - Os autoconsumidores que participem num ACC têm um regulamento interno que é carregado na plataforma eletrónica prevista no artigo 15.º, no prazo máximo de três meses após a entrada em funcionamento da UPAC, e que define, pelo menos, os requisitos de acesso de novos membros e saída de participantes existentes, as maiorias deliberativas exigíveis, o modo de partilha da energia elétrica produzida para autoconsumo e o pagamento das tarifas devidas, bem como o destino dos excedentes do autoconsumo, a política de relacionamento comercial a adotar e, se for caso disso, a aplicação da respetiva receita.
 
@@ -913,7 +1059,9 @@ c) Quando não estejam ligadas na mesma subestação, não ultrapassem a distân
 
 8 - A EGAC está sujeita, com as necessárias adaptações, às obrigações previstas no artigo 136.º quando a energia renovável seja partilhada entre agregados familiares com uma capacidade instalada superior a 30 kW, para habitações unifamiliares, e superior a 100 kW, para blocos de apartamentos.
 
-###### Artigo 87.º — [...]
+Artigo 87.º
+
+[...]
 
 1 - [...]
 
@@ -941,7 +1089,9 @@ c) Quando não estejam ligadas na mesma subestação, não ultrapassem a distân
 
 13 - À partilha de energia é aplicável, quando estejam em causa litígios de consumo, o disposto no n.º 8 do artigo 185.º
 
-###### Artigo 88.º — [...]
+Artigo 88.º
+
+[...]
 
 1 - [...]
 
@@ -951,7 +1101,9 @@ c) Quando não estejam ligadas na mesma subestação, não ultrapassem a distân
 
 4 - A propriedade ou a gestão da instalação nos termos do número anterior não implica a qualificação dos terceiros como autoconsumidores.
 
-###### Artigo 90.º — [...]
+Artigo 90.º
+
+[...]
 
 1 - [...]
 
@@ -971,7 +1123,9 @@ c) [...]
 
 d) Disponibiliza modelos voluntários de contratos com termos e condições justos, transparentes e não discriminatórios para os acordos de partilha de energia.
 
-###### Artigo 100.º — [...]
+Artigo 100.º
+
+[...]
 
 1 - [...]
 
@@ -983,7 +1137,9 @@ d) Disponibiliza modelos voluntários de contratos com termos e condições just
 
 5 - A DGEG, após proposta do operador da RNT e ouvida a ERSE, define a norma de fiabilidade, que deve indicar de forma transparente o nível necessário de segurança de abastecimento e as condições de aplicação da metodologia de avaliação europeia de adequação de recursos no âmbito nacional e a sua aplicação à justificação da necessidade de mecanismos de capacidade em respeito dos princípios constantes do [Regulamento (UE) 2019/943](https://data.europa.eu/eli/reg/2019/943/oj?locale=pt), do Parlamento Europeu e do Conselho, de 5 de junho de 2019.
 
-###### Artigo 106.º — [...]
+Artigo 106.º
+
+[...]
 
 1 - [...]
 
@@ -1019,7 +1175,9 @@ n) [...]
 
 o) Publicar dados sobre a quota de eletricidade produzida a partir de fonte renovável e o teor de emissões de gases com efeito de estufa do total da respetiva eletricidade produzida, com base em fatores de emissão padrão, em cada zona de ofertas ou áreas de preços e em intervalos equivalentes à frequência de ajustamento do mercado.
 
-###### Artigo 113.º — [...]
+Artigo 113.º
+
+[...]
 
 1 - [...]
 
@@ -1057,7 +1215,9 @@ d) Atualizar a informação prestada ao abrigo da alínea anterior com uma perio
 
 6 - [Anterior n.º 3.]
 
-###### Artigo 115.º — [...]
+Artigo 115.º
+
+[...]
 
 1 - [...]
 
@@ -1067,11 +1227,13 @@ d) Atualizar a informação prestada ao abrigo da alínea anterior com uma perio
 
 4 - [...]
 
-5 - É aplicável aos operadores das redes de distribuição em BT o disposto na alínea c) do n.º 1 e nos n.<sup>os</sup>2 a 4 do artigo 113.º
+5 - É aplicável aos operadores das redes de distribuição em BT o disposto na alínea c) do n.º 1 e nos n.os2 a 4 do artigo 113.º
 
-6 - Os operadores das redes de distribuição em BT que abasteçam um número de clientes inferior a 100 000 ficam dispensados do cumprimento da obrigação de informação constante da alínea c) do n.º 1 e dos n.<sup>os</sup>2 e 3 do artigo 113.º
+6 - Os operadores das redes de distribuição em BT que abasteçam um número de clientes inferior a 100 000 ficam dispensados do cumprimento da obrigação de informação constante da alínea c) do n.º 1 e dos n.os2 e 3 do artigo 113.º
 
-###### Artigo 123.º — [...]
+Artigo 123.º
+
+[...]
 
 1 - [...]
 
@@ -1081,11 +1243,13 @@ d) Atualizar a informação prestada ao abrigo da alínea anterior com uma perio
 
 4 - [...]
 
-5 - No planeamento das redes, os novos investimentos em infraestruturas de rede dependem de uma análise de custo e benefício face a outras alternativas viáveis, designadamente o recurso à contratação em mercado de flexibilidade de recursos distribuídos, nomeadamente o armazenamento, as medidas de resposta da procura e da produção de eletricidade, quando estas assegurem os objetivos referidos nos n.<sup>os</sup>1 e 2.
+5 - No planeamento das redes, os novos investimentos em infraestruturas de rede dependem de uma análise de custo e benefício face a outras alternativas viáveis, designadamente o recurso à contratação em mercado de flexibilidade de recursos distribuídos, nomeadamente o armazenamento, as medidas de resposta da procura e da produção de eletricidade, quando estas assegurem os objetivos referidos nos n.os1 e 2.
 
 6 - [...]
 
-###### Artigo 124.º — [...]
+Artigo 124.º
+
+[...]
 
 1 - [...]
 
@@ -1113,7 +1277,9 @@ e) [...]
 
 f) Uma análise da RNT no quadro da sua segurança operacional, com a definição de medidas preventivas e corretivas destinadas a assegurar a sua estabilidade operacional.
 
-###### Artigo 136.º — [...]
+Artigo 136.º
+
+[...]
 
 1 - [...]
 
@@ -1181,7 +1347,9 @@ cc) Disponibilizar contratos de fornecimento de eletricidade a prazo fixo e a pr
 
 dd) Cumprir as obrigações de gestão de riscos referidas no artigo seguinte.
 
-###### Artigo 138.º — [...]
+Artigo 138.º
+
+[...]
 
 1 - [...]
 
@@ -1189,7 +1357,9 @@ dd) Cumprir as obrigações de gestão de riscos referidas no artigo seguinte.
 
 3 - [...]
 
-###### Artigo 140.º — [...]
+Artigo 140.º
+
+[...]
 
 1 - [...]
 
@@ -1203,7 +1373,7 @@ b) [...]
 
 c) [...]
 
-d) Fornecer eletricidade aos clientes cujo comercializador tenha cessado ou ficado impedido de exercer a atividade de comercializador de eletricidade, nos termos dos n.<sup>os</sup>6 a 8;
+d) Fornecer eletricidade aos clientes cujo comercializador tenha cessado ou ficado impedido de exercer a atividade de comercializador de eletricidade, nos termos dos n.os6 a 8;
 
 e) [...]
 
@@ -1235,7 +1405,9 @@ c) A menção de que os clientes finais devem, até ao final do período referid
 
 10 - [Anterior n.º 9.]
 
-###### Artigo 148.º — [...]
+Artigo 148.º
+
+[...]
 
 1 - [...]
 
@@ -1243,13 +1415,17 @@ c) A menção de que os clientes finais devem, até ao final do período referid
 
 3 - Nos casos previstos no número anterior, os produtores de eletricidade a partir de fontes de energia renováveis e os autoconsumidores devem, no prazo máximo de seis meses, contratualizar com um agregador registado a aquisição de eletricidade, de acordo com regras definidas na regulamentação da ERSE.
 
-###### Artigo 169.º — [...]
+Artigo 169.º
+
+[...]
 
 1 - [...]
 
 2 - Os comercializadores ou agentes de mercado prestam garantias tendo em consideração a gestão integrada dos riscos referidos no número anterior e, quando aplicável, no artigo 136.º-A.
 
-###### Artigo 171.º — [...]
+Artigo 171.º
+
+[...]
 
 [...]
 
@@ -1265,7 +1441,9 @@ e) [...]
 
 f) [...]
 
-###### Artigo 172.º — [...]
+Artigo 172.º
+
+[...]
 
 1 - [...]
 
@@ -1273,7 +1451,9 @@ f) [...]
 
 3 - A regulamentação prevista no presente artigo pode, ainda, conter disposições cautelares complementares visando evitar ou mitigar os riscos para o SEN, bem como mecanismos de regulação assimétrica que assegurem a promoção da concorrência e condições propícias para garantir a acessibilidade dos produtos de cobertura às comunidades de cidadãos para a energia e às CER.
 
-###### Artigo 174.º — [...]
+Artigo 174.º
+
+[...]
 
 1 - [...]
 
@@ -1283,7 +1463,9 @@ f) [...]
 
 4 - O modo de exercício das funções da EEGO e o procedimento aplicável ao registo dos produtores consta de um manual de procedimentos por esta elaborado, cumprindo com os requisitos da norma CEN-EN 16325, e aprovado pela ERSE no prazo de 90 dias após a atribuição da licença prevista no artigo seguinte.
 
-###### Artigo 180.º — [...]
+Artigo 180.º
+
+[...]
 
 1 - No exercício das atividades abrangidas pelo presente decreto-lei é assegurada a proteção dos consumidores, nomeadamente quanto à prestação e continuidade do serviço, ao exercício do direito à informação, à qualidade da prestação do serviço, informação adequada quanto a tarifas e preços e à resolução de litígios, de acordo com o previsto na [Lei n.º 23/96](https://diariodarepublica.pt/dr/detalhe/lei/23-1996-408366), de 26 de julho, e na [Lei n.º 24/96](https://diariodarepublica.pt/dr/detalhe/lei/24-1996-406882), de 31 de julho.
 
@@ -1291,7 +1473,9 @@ f) [...]
 
 3 - [...]
 
-###### Artigo 181.º — [...]
+Artigo 181.º
+
+[...]
 
 1 - [...]
 
@@ -1327,7 +1511,9 @@ d) A aquisição, instalação, exploração e manutenção dos contadores refer
 
 e) O operador da rede a que a instalação se encontra ligada tem direito a aceder aos contadores referidos nas alíneas anteriores, para o exercício das suas atribuições, mediante solicitação.
 
-###### Artigo 184.º — [...]
+Artigo 184.º
+
+[...]
 
 1 - [...]
 
@@ -1363,7 +1549,9 @@ c) Diferenciar claramente a ferramenta de comparação de preços de outros serv
 
 8 - A atividade das ferramentas de comparação de preços está sujeita supervisão da ERSE e ao regime sancionatório legalmente aplicável ao setor energético.
 
-###### Artigo 185.º — [...]
+Artigo 185.º
+
+[...]
 
 1 - [...]
 
@@ -1385,7 +1573,9 @@ c) Diferenciar claramente a ferramenta de comparação de preços de outros serv
 
 10 - [Anterior n.º 6.]
 
-###### Artigo 186.º — [...]
+Artigo 186.º
+
+[...]
 
 1 - [...]
 
@@ -1405,7 +1595,9 @@ d) Às comunidades de energia, incluindo as detidas por entidades públicas.
 
 5 - Nos períodos críticos, em que ocorram picos elevados de consumo de energia, nomeadamente nas estações de verão e de inverno, as interrupções para os clientes finais economicamente vulneráveis são limitadas, nos termos a regulamentar pela ERSE.
 
-###### Artigo 189.º — [...]
+Artigo 189.º
+
+[...]
 
 1 - A CER é uma pessoa coletiva autónoma, constituída nos termos do presente decreto-lei, mediante adesão aberta e voluntária dos seus membros, sócios ou acionistas, os quais podem ser pessoas singulares ou coletivas, de natureza pública ou privada, incluindo, nomeadamente, autarquias locais ou pequenas e médias empresas, por estes controlada e que, cumulativamente:
 
@@ -1429,7 +1621,9 @@ d) A participação na CER não constitua a principal atividade comercial ou pro
 
 7 - [...]
 
-###### Artigo 195.º — [...]
+Artigo 195.º
+
+[...]
 
 1 - [...]
 
@@ -1451,7 +1645,9 @@ d) [...]
 
 6 - [...]
 
-###### Artigo 202.º — [...]
+Artigo 202.º
+
+[...]
 
 1 - [...]
 
@@ -1459,7 +1655,9 @@ d) [...]
 
 3 - O cliente economicamente vulnerável que beneficie da tarifa social de eletricidade à data da mudança de comercializador de eletricidade mantém esse benefício após a respetiva mudança, sem necessidade de novo pedido ou de aguardar pelo resultado do processamento referido no artigo 201.º
 
-###### Artigo 205.º — [...]
+Artigo 205.º
+
+[...]
 
 [...]
 
@@ -1485,7 +1683,9 @@ j) [...]
 
 k) [...]
 
-###### Artigo 206.º — [...]
+Artigo 206.º
+
+[...]
 
 1 - [...]
 
@@ -1513,7 +1713,9 @@ j) Assegurar, em estreita coordenação com as restantes entidades reguladoras a
 
 k) Monitorizar o investimento em capacidades de produção e de armazenamento de eletricidade, tendo por objetivo assegurar a segurança do abastecimento.
 
-###### Artigo 207.º — [...]
+Artigo 207.º
+
+[...]
 
 1 - [...]
 
@@ -1541,7 +1743,9 @@ k) Aplicação do princípio da prioridade à eficiência energética, salvaguar
 
 2 - [...]
 
-###### Artigo 218.º — [...]
+Artigo 218.º
+
+[...]
 
 1 - [...]
 
@@ -1551,9 +1755,11 @@ k) Aplicação do princípio da prioridade à eficiência energética, salvaguar
 
 4 - Nos termos do número anterior, admite-se a extensão da referida ZLT e a criação de outras ZLT em outras áreas com aptidão para as atividades agrícolas.
 
-5 - A delimitação da ZLT referida nos n.<sup>os</sup>3 e 4 é efetuada por portaria dos membros do Governo responsáveis pelas áreas da energia e da agricultura, mediante proposta apresentada conjuntamente pela DGEG e pela Direção-Geral de Agricultura e Desenvolvimento Rural (DGADR) e elaborada em colaboração com os operadores da RNT e da RND.
+5 - A delimitação da ZLT referida nos n.os3 e 4 é efetuada por portaria dos membros do Governo responsáveis pelas áreas da energia e da agricultura, mediante proposta apresentada conjuntamente pela DGEG e pela Direção-Geral de Agricultura e Desenvolvimento Rural (DGADR) e elaborada em colaboração com os operadores da RNT e da RND.
 
-###### Artigo 246.º — [...]
+Artigo 246.º
+
+[...]
 
 1 - [...]
 
@@ -1561,9 +1767,11 @@ k) Aplicação do princípio da prioridade à eficiência energética, salvaguar
 
 3 - O Regulamento Técnico das Instalações no Autoconsumo e o Regulamento de Inspeção e Certificação no Autoconsumo são aprovados pela DGEG, sem prejuízo da necessária articulação com a DGADR no âmbito dos sistemas agrovoltaicos.
 
-4 - A aplicação dos regulamentos referidos nos n.<sup>os</sup>2 e 3 é da competência da DGEG.
+4 - A aplicação dos regulamentos referidos nos n.os2 e 3 é da competência da DGEG.
 
-###### Artigo 247.º — [...]
+Artigo 247.º
+
+[...]
 
 1 - [...]
 
@@ -1597,7 +1805,9 @@ g) A análise de segurança operacional do SEN ao nível da identificação das 
 
 9 - [...]
 
-###### Artigo 275.º — [...]
+Artigo 275.º
+
+[...]
 
 1 - Pelos atos previstos no presente decreto-lei relativos aos procedimentos de controlo prévio, respetivas alterações ou averbamentos, a autorizações e a licenças, registos e concessões são devidas taxas, a estabelecer por portaria dos membros do Governo responsáveis pelas áreas das finanças e da energia, com base nos princípios da transparência e da proporcionalidade.
 
@@ -1613,7 +1823,9 @@ g) A análise de segurança operacional do SEN ao nível da identificação das 
 
 7 - [...]
 
-###### Artigo 277.º — [...]
+Artigo 277.º
+
+[...]
 
 1 - [...]
 
@@ -1649,7 +1861,9 @@ b) Solicitar ao requerente, de uma única vez, a apresentação, num prazo razo�
 
 4 - Na modalidade de procedimento concorrencial para a obtenção de título de reserva de capacidade de injeção na RESP, considera-se o pedido completo após verificação de que foram submetidos todos os elementos necessários ou decorrido o prazo fixado pela DGEG nas peças do procedimento.
 
-###### Artigo 14.º-B — Deferimento tácito em procedimentos de controlo prévio de energias renováveis
+Artigo 14.º-B
+
+Deferimento tácito em procedimentos de controlo prévio de energias renováveis
 
 1 - Para efeitos do disposto no artigo 130.º do CPA, no âmbito de procedimentos de controlo prévio de energias renováveis, a ausência de notificação da decisão relativa ao pedido de atribuição de licença de produção no prazo legal estabelecido para o efeito tem o valor de deferimento.
 
@@ -1659,11 +1873,15 @@ b) Solicitar ao requerente, de uma única vez, a apresentação, num prazo razo�
 
 4 - O disposto no presente artigo não prejudica o exercício dos poderes de fiscalização e sancionatórios das entidades competentes, nos termos da lei e dos regulamentos aplicáveis.
 
-###### Artigo 17.º-A — Participação e envolvimento do público nos projetos de energias renováveis
+Artigo 17.º-A
+
+Participação e envolvimento do público nos projetos de energias renováveis
 
 Com a submissão do pedido de obtenção do título de controlo prévio, o promotor do projeto de energias renováveis deve apresentar um plano de medidas destinadas a promover a participação e envolvimento das comunidades no projeto e a aceitação pública do projeto, cujos critérios e operacionalização são definidos por portaria do membro do Governo responsável pela área da energia.
 
-###### Artigo 40.º-A — Zonas de aceleração da implantação de energia renovável
+Artigo 40.º-A
+
+Zonas de aceleração da implantação de energia renovável
 
 1 - As ZAER são definidas através de programa setorial de âmbito nacional, nos termos do [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio.
 
@@ -1679,7 +1897,9 @@ a) Se encontrem integralmente localizados na área geográfica da ZAER; e
 
 b) Cumpram os demais critérios de elegibilidade dos projetos de energias renováveis definidos para a ZAER em causa.
 
-###### Artigo 40.º-B — Critérios de definição das zonas de aceleração da implantação de energia renovável
+Artigo 40.º-B
+
+Critérios de definição das zonas de aceleração da implantação de energia renovável
 
 1 - Sem prejuízo do disposto nos artigos 40.º e 41.º do [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio, o programa setorial que define as ZAER deve:
 
@@ -1729,7 +1949,9 @@ c) Utilizar todos os instrumentos e conjuntos de dados adequados e proporcionais
 
 d) Utilizar todos os instrumentos e conjuntos de dados adequados e proporcionais para identificar as zonas em que as centrais de energia renovável não têm um impacte ambiental sobre bens imóveis classificados ou em vias de classificação, incluindo o património arqueológico inventariado integrante do sistema de informação e gestão arqueológica e do sistema de informação geográfica associado da administração do património cultural, e sobre as áreas referidas nas cartas de condicionantes e de ordenamento integrantes dos instrumentos de gestão e de planeamento territorial.
 
-###### Artigo 40.º-C — Elaboração do programa setorial
+Artigo 40.º-C
+
+Elaboração do programa setorial
 
 1 - O programa setorial que define as ZAER é elaborado pela Estrutura de Missão para o Licenciamento de Projetos de Energias Renováveis (EMER 2030), conforme previsto na alínea f) do n.º 3 da [Resolução do Conselho de Ministros n.º 50/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/50-2024-857366012), de 26 de março, e pela DGEG, que sucede nessa competência, quando a EMER 2030 for extinta.
 
@@ -1753,7 +1975,9 @@ d) Utilizar todos os instrumentos e conjuntos de dados adequados e proporcionais
 
 11 - O programa setorial que define as ZAER deve ser revisto periodicamente, tendo em conta os relatórios sobre o estado do ordenamento do território, em função da necessidade da sua adequação à evolução das condições económicas, sociais, ambientais, patrimoniais e culturais subjacentes à sua elaboração, designadamente no contexto da revisão do Plano Nacional de Energia e Clima.
 
-###### Artigo 40.º-D — Comissão consultiva
+Artigo 40.º-D
+
+Comissão consultiva
 
 1 - A comissão consultiva acompanha o desenvolvimento do programa setorial que define as ZAER e a respetiva avaliação ambiental, competindo-lhe emitir parecer sobre:
 
@@ -1781,7 +2005,9 @@ e) As conclusões e recomendações da comissão consultiva, designadamente as r
 
 5 - Os membros da comissão consultiva não auferem qualquer remuneração, incluindo senhas de presença, ou ajudas de custo.
 
-###### Artigo 42.º-A — Apreciação da conformidade ambiental dos projetos localizados em zonas de aceleração da implantação de energia renovável
+Artigo 42.º-A
+
+Apreciação da conformidade ambiental dos projetos localizados em zonas de aceleração da implantação de energia renovável
 
 1 - Nos projetos localizados em ZAER, o requerente deve apresentar, com a submissão do pedido para a obtenção de título de controlo prévio nos termos do artigo 11.º:
 
@@ -1817,7 +2043,9 @@ b) A avaliação de impacte ambiental e, se aplicável, a avaliação de incidê
 
 11 - Caso os efeitos adversos no ambiente referidos no número anterior incluam a desproteção das espécies e ecossistemas, o requerente deve pagar uma compensação monetária para programas de proteção de espécies e ecossistemas ao longo de todo o período de funcionamento do centro eletroprodutor.
 
-###### Artigo 52.º-A — Acesso com restrições
+Artigo 52.º-A
+
+Acesso com restrições
 
 1 - O acesso à RESP pode ser conferido com restrições, nos termos a regulamentar pela ERSE.
 
@@ -1839,7 +2067,9 @@ b) As tarifas de acesso às redes aplicáveis à capacidade firme e à capacidad
 
 c) A duração da atribuição de capacidade com restrições e a data prevista para a conversão da capacidade com restrições em capacidade firme.
 
-###### Artigo 86.º-A — Princípios orientadores do autoconsumo coletivo
+Artigo 86.º-A
+
+Princípios orientadores do autoconsumo coletivo
 
 1 - O ACC rege-se pelos princípios enunciados no presente artigo, os quais orientam a interpretação e a aplicação da regulamentação aplicável.
 
@@ -1865,7 +2095,9 @@ i) Adaptabilidade, devendo permitir a evolução dos respetivos modelos de organ
 
 3 - Na aplicação do presente decreto-lei e da respetiva regulamentação, os princípios previstos no número anterior devem ser ponderados de forma sistemática, privilegiando soluções proporcionais, tecnicamente eficientes e baseadas em mecanismos de controlo posterior, sem prejuízo da segurança do SEN.
 
-###### Artigo 88.º-A — Direitos e deveres do operador de rede
+Artigo 88.º-A
+
+Direitos e deveres do operador de rede
 
 1 - No âmbito do ACC, o operador de rede tem o dever de:
 
@@ -1887,7 +2119,9 @@ a) Solicitar esclarecimentos ou correções aos documentos submetidos;
 
 b) Recusar a ativação do ACC em caso de incumprimento técnico ou documental.
 
-###### Artigo 88.º-B — Direitos e deveres da entidade gestora do autoconsumo coletivo
+Artigo 88.º-B
+
+Direitos e deveres da entidade gestora do autoconsumo coletivo
 
 1 - A EGAC é a representante dos autoconsumidores no âmbito do ACC, com poderes para:
 
@@ -1919,7 +2153,9 @@ f) Respeitar os limites de representação definidos no mandato ou autorização
 
 g) Assegurar a confidencialidade dos dados dos consumidores.
 
-###### Artigo 88.º-C — Competências da Direção-Geral de Energia e Geologia
+Artigo 88.º-C
+
+Competências da Direção-Geral de Energia e Geologia
 
 Compete à DGEG, no âmbito do ACC:
 
@@ -1929,7 +2165,9 @@ b) Promover campanhas de informação e formação sobre ACC;
 
 c) Publicar anualmente dados estatísticos sobre a evolução do ACC em Portugal.
 
-###### Artigo 101.º-A — Crise de preços na eletricidade
+Artigo 101.º-A
+
+Crise de preços na eletricidade
 
 1 - Caso o Conselho delibere, por meio de uma decisão de execução, declarar uma crise dos preços de eletricidade a nível regional ou na União, com fundamento no artigo 66.º-A da Diretiva (UE) [2019/944](https://data.europa.eu/eli/dir/2019/944/oj?locale=pt), do Parlamento Europeu e do Conselho, de 5 de junho de 2019, pode o Governo estabelecer, mediante resolução do Conselho de Ministros, ouvida a ERSE, medidas especialmente orientadas para a proteção de consumidores domésticos e de pequenas e médias empresas em matéria de fixação de preços da eletricidade.
 
@@ -1941,7 +2179,7 @@ b) No caso das pequenas e médias empresas, as medidas podem abranger, no máxim
 
 c) Incorporar incentivos adequados à redução do consumo das pequenas e médias empresas, desde que esses incentivos não se traduzam numa proibição de consumo ou afetem gravemente as atividades das referidas empresas;
 
-d) Cumprir com as condições previstas nos n.<sup>os</sup>4 e 7 do artigo 5.º da Diretiva (UE) [2019/944](https://data.europa.eu/eli/dir/2019/944/oj?locale=pt), do Parlamento Europeu e do Conselho, de 5 de junho de 2019;
+d) Cumprir com as condições previstas nos n.os4 e 7 do artigo 5.º da Diretiva (UE) [2019/944](https://data.europa.eu/eli/dir/2019/944/oj?locale=pt), do Parlamento Europeu e do Conselho, de 5 de junho de 2019;
 
 e) Ser elaboradas de modo a minimizar qualquer fragmentação negativa do mercado interno.
 
@@ -1959,7 +2197,9 @@ e) Os comercializadores são compensados pelo fornecimento de eletricidade com p
 
 f) Os comercializadores que optem por aderir ao regime de preço abaixo do custo devem praticar os mesmos preços para cada tipologia de fornecimento, não podendo praticar qualquer ato que distorça a concorrência do mercado interno de eletricidade.
 
-###### Artigo 136.º-A — Gestão de riscos dos comercializadores de eletricidade
+Artigo 136.º-A
+
+Gestão de riscos dos comercializadores de eletricidade
 
 1 - Tendo em consideração a sua dimensão e a estrutura do mercado, os comercializadores devem:
 
@@ -1971,7 +2211,9 @@ b) Adotar todas as medidas razoáveis para limitar o risco de descontinuidade do
 
 3 - A ERSE acompanha e fiscaliza o cumprimento do disposto no presente artigo, podendo, para o efeito, realizar testes de esforço.
 
-###### Artigo 185.º-A — Planos de pagamento
+Artigo 185.º-A
+
+Planos de pagamento
 
 1 - Em caso de mora no pagamento superior a 60 dias, os comercializadores devem apresentar aos consumidores um plano de pagamento dos valores em dívida, nos termos a regulamentar pela ERSE.
 
@@ -2025,13 +2267,13 @@ O presente decreto-lei entra em vigor 60 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de março de 2026. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - José Maria Gonçalves Pereira Brandão de Brito - Manuel Castro Almeida - Gonçalo Nuno da Cruz Saraiva Matias - Maria da Graça Carvalho - Margarida Balseiro Lopes - José Manuel Fernandes.
 
-**Promulgado em 5 de junho de 2026.**
+Promulgado em 5 de junho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 6 de junho de 2026.**
+Referendado em 6 de junho de 2026.
 
 Pelo Primeiro-Ministro, Paulo Artur dos Santos de Castro de Campos Rangel, Ministro de Estado e dos Negócios Estrangeiros.
 
@@ -2067,4 +2309,6 @@ b) Os elementos que demonstrem que o projeto se encontra localizado em ZAER, nos
 
 c) As informações referidas no n.º 1 do artigo 42.º-A, com o grau de detalhe referido no n.º 2 do mesmo artigo, bem como os respetivos elementos de suporte.
 
-11 - Ao pedido de atribuição de licença de produção a projetos de energias renováveis localizados em ZAER é aplicável o disposto nos n.<sup>os</sup>3 a 7.»
+11 - Ao pedido de atribuição de licença de produção a projetos de energias renováveis localizados em ZAER é aplicável o disposto nos n.os3 a 7.»
+
+119948883

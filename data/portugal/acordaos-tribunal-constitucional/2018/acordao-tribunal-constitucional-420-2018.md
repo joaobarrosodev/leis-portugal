@@ -31,7 +31,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/10/20000/0500305020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -53,18 +53,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/420/2018/10/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/420-2018-116698946
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-10-17T00:00:00Z'
+  retrieved_at: '2026-10-22T18:24:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 181bc25e8940cb032e2fc205f76276455788acf3d019021da64362fee24ad764
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 58dcd542695d2963b73db8d8b64bc251eb2a890da858c7f1b40f7a199a05abbd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:24:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,22 +72,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
 - Água
+- Assembleia Legislativa
+- Bombeiro
+- Competência Própria
+- Diploma Legal
 - Distribuição de Energia Elétrica
 - Energia Elétrica
-- Competência Própria
 - Estatuto
 - Fiscalização
 - Inconstitucionalidade
 - Interpretação do Direito
-- Bombeiro
-- Assembleia Legislativa
-- Preço
 - Madeira.região Autónoma
-- Diploma Legal
-- Regime Jurídico
+- Preço
 - Processo Legislativo
-- Abastecimento de Água
+- Regime Jurídico
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei
@@ -129,16 +129,164 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/48/2009/08/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/48/2009/08/04/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106960762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107458721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114303791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58895505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65891078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70262477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73841183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75662182:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:24:53Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +315,9 @@ Os artigos 4.º e 6.º do [Decreto Legislativo Regional n.º 21/2010/M](https://
 
 [...]
 
-###### Artigo 6.º — Benefício de tarifas sociais
+Artigo 6.º
+
+Benefício de tarifas sociais
 
 Aos direitos definidos no artigo 5.º do [Decreto-Lei n.º 241/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-2007-639318), de 21 de junho, na sua atual redação, é aditado o direito às tarifas sociais na água e eletricidade, de forma direta e inegável, relativamente aos bombeiros do quadro de ativos."»
 
@@ -598,3 +748,5 @@ III - Decisão
 20 - Pelos fundamentos expostos, o Tribunal decide pronunciar-se pela inconstitucionalidade da norma constante do artigo 2.º do decreto legislativo regional intitulado «Estatuto Social do Bombeiro da Região Autónoma da Madeira», na parte em que modifica a redação do artigo 6.º do [Decreto Legislativo Regional n.º 21/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2010-343453), de 20 de agosto, alterado pelo [Decreto Legislativo Regional n.º 12/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2016-73841183), de 10 de março, aprovado pela Assembleia Legislativa da Região Autónoma da Madeira, em sessão plenária do dia 5 de julho de 2018, com a delimitação supra enunciada em II, B), 8., que foi enviado ao Representante da República para a Região Autónoma da Madeira para assinatura como decreto legislativo regional, por violação da alínea q) do n.º 1 do artigo 165.º, da alínea a) do n.º 1 do artigo 227.º e do n.º 1 do artigo 228.º, todos da Constituição da República Portuguesa.
 
 Lisboa, 9 de agosto de 2018. - Maria José Rangel de Mesquita - José Teles Pereira - Lino Rodrigues Ribeiro - Fernando Vaz Ventura - Catarina Sarmento e Castro - Lino Rodrigues Ribeiro - Joana Fernandes Costa - Claudio Monteiro - Maria Clara Sottomayor - Pedro Machete - Maria de Fátima Mata-Mouros - Gonçalo de Almeida Ribeiro - Manuel da Costa Andrade. Tem voto de conformidade do conselheiro Vice-Presidente João Caupers que não assina por não se encontrar presente.
+
+111625852

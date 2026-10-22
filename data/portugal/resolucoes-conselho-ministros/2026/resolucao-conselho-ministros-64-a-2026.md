@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/64-a/2026/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/64-a-2026-1080481227
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:37:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7aae67a85128a10a27233f014b58a79517368ac5e45f9475887a75e58fe099e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 40a46489d06a99eb7f3de51133cfb5e4e2a7412caa52cfb655ccc7189eae490b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:37:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Deficiente
-- Proteção ao Deficiente
-- Instituto Nacional para a Reabilitação
 - Direitos das Pessoas com Deficiência
+- Instituto Nacional para a Reabilitação
+- Proteção ao Deficiente
 relationships:
 - type: cites
   target: celex:32016L2012
@@ -94,16 +94,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/56/2009/07/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/56/2009/07/30/p/dre
+- type: cites
+  target: pt:dre:117663335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493187:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:37:04Z'
   warnings: []
   errors: []
 ---
@@ -298,9 +318,9 @@ Eixo de Impacto 1 - Territórios, Habitação e Mobilidade Inclusivos
 
 Em 2030, as pessoas com deficiência vivem de forma autónoma e participam plenamente na comunidade, apoiadas por serviços acessíveis, habitação adaptada e transportes inclusivos que garantem mobilidade, segurança e autodeterminação.
 
-| Linhas de Ação prioritárias | Linhas de Ação prioritárias |
+| Linhas de Ação prioritárias |  |
 | --- | --- |
-| 1 - Acessibilidade universal como motor de competitividade territorial2 - Mobilidade e energia sustentável ao serviço da inclusão3 - Turismo acessível como vetor de desenvolvimento económico e social4 - Cooperação Estado-Municípios na implementação das medidas | 1 - Acessibilidade universal como motor de competitividade territorial2 - Mobilidade e energia sustentável ao serviço da inclusão3 - Turismo acessível como vetor de desenvolvimento económico e social4 - Cooperação Estado-Municípios na implementação das medidas |
+| 1 - Acessibilidade universal como motor de competitividade territorial2 - Mobilidade e energia sustentável ao serviço da inclusão3 - Turismo acessível como vetor de desenvolvimento económico e social4 - Cooperação Estado-Municípios na implementação das medidas |  |
 | Resultados Esperados até 2030 | Entidade responsável |
 | Integração da perspetiva da deficiência nas estratégias de desenvolvimento local e nos planos de coesão territorial de todos os municípios | Municípios |
 | Aplicação, em todos os Municípios, de normas de acessibilidade nos espaços e edifícios públicos, nos transportes e nos serviços digitais | Municípios |
@@ -325,9 +345,9 @@ Eixo de Impacto 2 - Participação Plena e Vida Independente
 
 Em 2030, as pessoas com deficiência exercem a sua cidadania, participando na vida política, cívica e cultural em igualdade de condições. Dispõem de acesso a processos eleitorais, sistemas de justiça e mecanismos de proteção inclusivos, bem como a oportunidades iguais na cultura, no desporto, no lazer e no turismo, contribuindo para uma sociedade mais justa, participativa e progressivamente livre de barreiras.
 
-| Linhas de Ação prioritárias | Linhas de Ação prioritárias |
+| Linhas de Ação prioritárias |  |
 | --- | --- |
-| 1 - Acessibilidade digital e tecnológica2 - Vida independente e autonomia3 - Inclusão no sistema de justiça e da comunicação acessível4 - Participação cívica e cidadania ativa | 1 - Acessibilidade digital e tecnológica2 - Vida independente e autonomia3 - Inclusão no sistema de justiça e da comunicação acessível4 - Participação cívica e cidadania ativa |
+| 1 - Acessibilidade digital e tecnológica2 - Vida independente e autonomia3 - Inclusão no sistema de justiça e da comunicação acessível4 - Participação cívica e cidadania ativa |  |
 | Resultados Esperados até 2030 | Entidade responsável |
 | Revisão da Lei de Bases da Prevenção, Reabilitação e Integração das Pessoas com Deficiência | MTSSS |
 | Implementação do regime jurídico das acessibilidades | MTSSSMunicípios |
@@ -354,9 +374,9 @@ Eixo de Impacto 3 - Educação Inclusiva e Aprendizagem ao Longo da Vida.
 
 Em 2030, as pessoas com deficiência têm acesso a uma educação inclusiva e a oportunidades de aprendizagem contínua, que lhes permitem desenvolver competências, alcançar o seu potencial e participar ativamente na sociedade e na economia do conhecimento.
 
-| Linhas de Ação prioritárias | Linhas de Ação prioritárias |
+| Linhas de Ação prioritárias |  |
 | --- | --- |
-| 1 - Acesso equitativo a uma educação inclusiva até ao final da escolaridade obrigatória2 - Formação contínua dos profissionais da educação, com vista a ação educativa inclusiva3 - Melhoria das condições e dos mecanismos de transição para a vida pós-escolaridade obrigatória4 - Acesso equitativo a uma educação inclusiva no ensino superior5 - Produção e divulgação de conhecimento que sustente políticas públicas | 1 - Acesso equitativo a uma educação inclusiva até ao final da escolaridade obrigatória2 - Formação contínua dos profissionais da educação, com vista a ação educativa inclusiva3 - Melhoria das condições e dos mecanismos de transição para a vida pós-escolaridade obrigatória4 - Acesso equitativo a uma educação inclusiva no ensino superior5 - Produção e divulgação de conhecimento que sustente políticas públicas |
+| 1 - Acesso equitativo a uma educação inclusiva até ao final da escolaridade obrigatória2 - Formação contínua dos profissionais da educação, com vista a ação educativa inclusiva3 - Melhoria das condições e dos mecanismos de transição para a vida pós-escolaridade obrigatória4 - Acesso equitativo a uma educação inclusiva no ensino superior5 - Produção e divulgação de conhecimento que sustente políticas públicas |  |
 | Resultados Esperados até 2030 | Entidade responsável |
 | Implementação de planos de acessibilidade e inclusão em todos os estabelecimentos de ensino básico e secundário, incluindo adaptações curriculares, pedagógicas e físicas, em articulação com as famílias e os serviços sociais competentes | MECI |
 | Implementação de planos individuais de transição, antes da conclusão da escolaridade obrigatória, para todos os alunos com deficiência | MECI |
@@ -376,9 +396,9 @@ Eixo de Impacto 4 - Igualdade no trabalho e Empoderamento Económico
 
 Em 2030, as pessoas com deficiência participam em condições de igualdade de oportunidades no mercado de trabalho, contribuindo para o crescimento económico e social, e beneficiando de rendimentos, estabilidade laboral e reconhecimento justos.
 
-| Linhas de Ação prioritárias | Linhas de Ação prioritárias |
+| Linhas de Ação prioritárias |  |
 | --- | --- |
-| 1 - Criação de condições promotoras da empregabilidade das pessoas com deficiência2 - Reforço da formação e sensibilização de técnicos e empregadores3 - Desenvolvimento de plataformas transversais de dados e de indicadores sobre emprego inclusivo4 - Promoção de campanhas de informação e programas de mentoria5 - Empreendedorismo e emprego inclusivo no turismo acessível6 - Trabalho interinstitucional e coerência técnica e uniformização terminológica | 1 - Criação de condições promotoras da empregabilidade das pessoas com deficiência2 - Reforço da formação e sensibilização de técnicos e empregadores3 - Desenvolvimento de plataformas transversais de dados e de indicadores sobre emprego inclusivo4 - Promoção de campanhas de informação e programas de mentoria5 - Empreendedorismo e emprego inclusivo no turismo acessível6 - Trabalho interinstitucional e coerência técnica e uniformização terminológica |
+| 1 - Criação de condições promotoras da empregabilidade das pessoas com deficiência2 - Reforço da formação e sensibilização de técnicos e empregadores3 - Desenvolvimento de plataformas transversais de dados e de indicadores sobre emprego inclusivo4 - Promoção de campanhas de informação e programas de mentoria5 - Empreendedorismo e emprego inclusivo no turismo acessível6 - Trabalho interinstitucional e coerência técnica e uniformização terminológica |  |
 | Resultados Esperados até 2030 | Entidade responsável |
 | Reforço das condições de acessibilidade à oferta formativa, abrangendo 61 000 pessoas com deficiência na formação profissional | MTSSS |
 | Revisão do [Decreto-Lei n.º 290/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-2009-491685), de 12 de outubro, permitindo abranger 207 000 pessoas com deficiência | MTSSS |
@@ -401,9 +421,9 @@ Eixo de Impacto 5 - Saúde, Reabilitação e Bem-Estar
 
 Em 2030, as pessoas com deficiência têm acesso equitativo a cuidados de saúde de qualidade, a serviços de reabilitação adequados e a tecnologias de apoio, permitindo-lhes uma vida mais saudável, ativa e autónoma ao longo do ciclo de vida e em todo o território nacional.
 
-| Linhas de Ação prioritárias | Linhas de Ação prioritárias |
+| Linhas de Ação prioritárias |  |
 | --- | --- |
-| 1 - Comunicação acessível e sistemas de informação inclusivos2 - Formação e capacitação dos profissionais de saúde para uma resposta inclusiva3 - Melhoria dos processos de avaliação de incapacidade e do funcionamento das juntas médicas4 - Cuidados integrados e de continuidade ao longo do ciclo de vida5 - Promoção da saúde e prevenção da doença6 - Desenvolvimento de parcerias estratégicas com universidades e centros de investigação | 1 - Comunicação acessível e sistemas de informação inclusivos2 - Formação e capacitação dos profissionais de saúde para uma resposta inclusiva3 - Melhoria dos processos de avaliação de incapacidade e do funcionamento das juntas médicas4 - Cuidados integrados e de continuidade ao longo do ciclo de vida5 - Promoção da saúde e prevenção da doença6 - Desenvolvimento de parcerias estratégicas com universidades e centros de investigação |
+| 1 - Comunicação acessível e sistemas de informação inclusivos2 - Formação e capacitação dos profissionais de saúde para uma resposta inclusiva3 - Melhoria dos processos de avaliação de incapacidade e do funcionamento das juntas médicas4 - Cuidados integrados e de continuidade ao longo do ciclo de vida5 - Promoção da saúde e prevenção da doença6 - Desenvolvimento de parcerias estratégicas com universidades e centros de investigação |  |
 | Resultados Esperados até 2030 | Entidade responsável |
 | Garantia de trajetórias de apoio e cuidados integrados, ao longo de todo o ciclo de vida, para todas as pessoas com deficiência | MS |
 | Incremento da qualidade do atendimento, através da formação contínua de todos os profissionais de saúde em práticas inclusivas, comunicação acessível e direitos das pessoas com deficiência | MSMTSSS |
@@ -424,9 +444,9 @@ Eixo Transversal de Impacto 6 - Governação, Dados e Participação Social
 
 Em 2030, Portugal dispõe de uma governação participativa, transparente e baseada em dados fiáveis, assegurando a corresponsabilidade das pessoas com deficiência e das suas organizações representativas na formulação, execução e monitorização das políticas públicas.
 
-| Linhas de Ação prioritárias | Linhas de Ação prioritárias |
+| Linhas de Ação prioritárias |  |
 | --- | --- |
-| 1 - Harmonização, atualização e interoperabilidade de dados estatísticos desagregados2 - Monitorização contínua e avaliação sistemática, baseadas em evidência3 - Participação sistemática das pessoas com deficiência e das suas organizações representativas na conceção, implementação e avaliação das políticas públicas | 1 - Harmonização, atualização e interoperabilidade de dados estatísticos desagregados2 - Monitorização contínua e avaliação sistemática, baseadas em evidência3 - Participação sistemática das pessoas com deficiência e das suas organizações representativas na conceção, implementação e avaliação das políticas públicas |
+| 1 - Harmonização, atualização e interoperabilidade de dados estatísticos desagregados2 - Monitorização contínua e avaliação sistemática, baseadas em evidência3 - Participação sistemática das pessoas com deficiência e das suas organizações representativas na conceção, implementação e avaliação das políticas públicas |  |
 | Resultados Esperados até 2030 | Entidade responsável |
 | Reforço das atribuições do Observatório da Deficiência e Direitos Humanos, enquanto organismo permanente e independente, responsável pela publicação anual de indicadores | MTSSSODDH |
 | Integração das Avaliações de Impacto na Deficiência em todas as novas políticas públicas e instrumentos orçamentos nacionais | MTSSS |
@@ -446,3 +466,7 @@ Está prevista a elaboração de:
 3 - Avaliação final independente em 2030, garantindo transparência, prestação de contas e aprendizagem institucional;
 
 Os dados recolhidos deverão ser sistematicamente desagregados por tipo de deficiência, género, idade e distribuição geográfica, permitindo análises comparativas e a adaptação contínua das políticas públicas com base em evidência.
+
+119948134
+
+.Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { min-height:66px; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl7 { text-align:center; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl9 { min-height:29px; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl12 { text-align:justify; text-align-last:justify; } .Tbl13 { min-height:34px; } .Tbl14 { min-height:39px; } .Tbl15 { min-height:50px; } .Tbl16 { min-height:49px; } .Tbl17 { min-height:19px; } .Tbl18 { min-height:78px; } .Tbl19 { min-height:37px; } .Tbl20 { min-height:27px; } .Tbl21 { min-height:18px; } .Tbl22 { min-height:103px; } .Tbl23 { min-height:31px; } .Tbl24 { min-height:20px; } .Tbl25 { min-height:109px; } .Tbl26 { min-height:33px; } .Tbl27 { min-height:38px; } .Tbl28 { min-height:21px; } .Tbl29 { min-height:58px; } .Tbl30 { min-height:28px; } .Tbl31 { min-height:47px; }

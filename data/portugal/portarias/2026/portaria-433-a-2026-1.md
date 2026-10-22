@@ -48,25 +48,32 @@ source:
   metadata_url: https://data.dre.pt/eli/port/433-a/2026/09/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/433-a-2026-1172329723
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-21T00:00:00Z'
+  retrieved_at: '2026-10-22T18:53:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c75f5df8d714a53d2af690e9b41e3a0bf86b347bdaf610df19ac1617a08c6761
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: acb6eb9d24c357a6dc49e3d0334bf6098bbcbb10e5a9322399a95279f5a932f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:53:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direção Geral de Energia e Geologia
+- Distribuição de Energia Elétrica
+- Energia Elétrica
+- Operador de Energia Elétrica
+- Prazo
+- Rede Elétrica de Serviço Público
+- Sistema Elétrico Nacional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/100/2026/05/22/p/dre
@@ -80,16 +87,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/58/2026/02/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/58/2026/02/20/p/dre
+- type: cites
+  target: pt:dre:1055043916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1125313599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177634016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928479766:por
+  label: null
+  source: null
 article_structure:
   article_count: 27
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:53:35Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +129,7 @@ Através da presente portaria, definem-se, assim, as regras procedimentais e os 
 
 O projeto da presente portaria foi objeto de consulta pública, nos termos do artigo 101.º do Código do Procedimento Administrativo.
 
-Assim, nos termos conjugados do disposto dos n.<sup>os</sup>1 e 2 do artigo 4.º do [Decreto-Lei n.º 100/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2026-1125313599), de 22 de maio, manda o Governo, pelo Secretário de Estado Adjunto e da Energia, no uso dos poderes delegados pela alínea b) do n.º 1 do [Despacho n.º 9524/2025](https://diariodarepublica.pt/dr/detalhe/despacho/9524-2025-928479766), da Ministra do Ambiente e Energia, de 4 de agosto, publicado no Diário da República, 2.ª série, n.º 153, de 11 de agosto de 2025, o seguinte:
+Assim, nos termos conjugados do disposto dos n.os1 e 2 do artigo 4.º do [Decreto-Lei n.º 100/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2026-1125313599), de 22 de maio, manda o Governo, pelo Secretário de Estado Adjunto e da Energia, no uso dos poderes delegados pela alínea b) do n.º 1 do [Despacho n.º 9524/2025](https://diariodarepublica.pt/dr/detalhe/despacho/9524-2025-928479766), da Ministra do Ambiente e Energia, de 4 de agosto, publicado no Diário da República, 2.ª série, n.º 153, de 11 de agosto de 2025, o seguinte:
 
 ### CAPÍTULO I — DISPOSIÇÕES GERAIS
 
@@ -506,4 +529,6 @@ As referências à DGEG constantes da presente portaria consideram-se feitas à 
 
 2 - A cessação da vigência do [Decreto-Lei n.º 100/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2026-1125313599), de 22 de maio, não prejudica os procedimentos pendentes nessa data, os quais continuam a ser tramitados e decididos nos termos do referido decreto-lei e da presente portaria, incluindo no que respeita a prazos e à apresentação de requerimentos.
 
-**O Secretário de Estado Adjunto e da Energia, Jean Paulo Gil Barroca, em 18 de setembro de 2026.**
+O Secretário de Estado Adjunto e da Energia, Jean Paulo Gil Barroca, em 18 de setembro de 2026.
+
+119949624

@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 301/1992, 8º Suplemento, Série I-A de 1992-12-31
   number: '301'
   series: I
-  supplement: 8º Suplemento
+  supplement: null
   pages: 6056-(60) a 6056-(60)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/12/301a08/00600060.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/208/1992/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/208-1992-449954
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:34:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dba6fb891038cddd3d0a6fcbf291bff618e908654b32de0a6f98f3c604943bb2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e2c52f67af30fbce8052fe44fe60e02b9abd788d6f1218bfdff2206726a0c3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:34:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,31 +69,35 @@ reuse:
 subjects:
 - Casa Degradada
 - Comparticipação do Estado
-- Obras de Conservação e Restauro
-- Renovação Urbana
-- Instituto de Gestão e Alienação do Património Habitacional do Estado
 - Conservação e Restauro
+- Instituto de Gestão e Alienação do Património Habitacional do Estado
+- Obras de Conservação e Restauro
 - Programa Recria
+- Renovação Urbana
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/197/1992/09/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/197/1992/09/22/p/dre
+- type: cites
+  target: pt:dre:231141:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:34:30Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 208/92
+# Declaração de rectificação n.º 208/92
 
 Para os devidos efeitos se declara que o [Decreto-Lei n.º 197/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1992-231141), publicado no Diário da República, n.º 219, de 22 de Setembro de 1992, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
 

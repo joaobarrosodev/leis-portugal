@@ -26,9 +26,7 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -49,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/110-a/2026/06/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-2026-1129893852
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-26T00:00:00Z'
+  retrieved_at: '2026-10-22T18:43:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73edc904ae69db7c14e6e70120f4e00c76dd41d3f58dc7ac950a61982d7c503f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4e40b395c60518a9e60c63ba3943b04650270bc227bd5f815a326c22b56ae63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:43:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contribuições da Segurança Social
-- Combustível
 - Auxílio de Minimis
-- Pagamento
+- Combustível
+- Contribuições da Segurança Social
 - Instituto da Mobilidade e dos Transportes
-- Transporte de Mercadorias
+- Pagamento
 - Preço
+- Programa Incentiva +TP
 - Prorrogação de Prazo
 - Regime de Apoio
 - Regulamento CE
 - Subsídio não Reembolsável
-- Programa Incentiva +TP
+- Transporte de Mercadorias
 relationships:
 - type: amended_by
   target: pt:dre:1139191712:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:21/2024
+  label: Altera, com efeitos a partir de 1 de abril de 2026, o artigo 4.º do Decreto-Lei n.º 21/2024, de 19 de março, Diário
+    da República n.º 56/2024, Série I
+  source: null
+  date: '2024-03-19'
 - type: cites
   target: celex:32023R2831
   label: null
@@ -109,16 +113,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/298/2019/09/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/298/2019/09/09/p/dre
+- type: cites
+  target: pt:dre:1080481232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117008017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124539914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:856211138:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1139191712:por
+  label: Retificados os n.ºs 2 (prazo) e 3 do artigo 3.º, o n.º 2 do artigo 4.º e o n.º 4 do artigo 7.º pelo(a) Declaração
+    de Retificação n.º 23/2026/1 - Diário da República n.º 122/2026, Série I de 2026-06-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/23-2026-1139191712
+  date: '2026-06-26'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:43:01Z'
   warnings: []
   errors: []
 ---
@@ -191,9 +221,9 @@ f) A empresas de produção de aquacultura.
 
 ###### Artigo 4.º — Financiamento
 
-1 - O apoio financeiro extraordinário previsto nos n.<sup>os</sup>1 a 5 do artigo anterior é financiado por verbas do IMT, I. P.
+1 - O apoio financeiro extraordinário previsto nos n.os1 a 5 do artigo anterior é financiado por verbas do IMT, I. P.
 
-2 - A dotação orçamental disponível para o apoio referido nos n.<sup>os</sup>1 a 6 do artigo anterior é fixada em 30 milhões de euros.
+2 - A dotação orçamental disponível para o apoio referido nos n.os1 a 6 do artigo anterior é fixada em 30 milhões de euros.
 
 3 - O apoio extraordinário previsto no n.º 6 do artigo anterior é assegurado pela dotação centralizada do Ministério das Finanças, através de verbas a inscrever no orçamento do IFAP, I. P., no montante máximo de 500 000,00 €.
 
@@ -227,7 +257,7 @@ O artigo 4.º do [Decreto-Lei n.º 21/2024](https://diariodarepublica.pt/dr/deta
 
 1 - [...]
 
-2 - O montante das receitas que resultem do adicionamento sobre as emissões de CO<sub>2</sub>, previsto no artigo 92.º-A do Código dos Impostos Especiais de Consumo, aprovado em anexo ao [Decreto-Lei n.º 73/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2010-335474), de 21 de junho, anualmente consignadas ao Fundo Ambiental para o Incentiva+TP é fixado por portaria dos membros do Governo responsáveis pelas áreas das finanças, da mobilidade e do ambiente.
+2 - O montante das receitas que resultem do adicionamento sobre as emissões de CO2, previsto no artigo 92.º-A do Código dos Impostos Especiais de Consumo, aprovado em anexo ao [Decreto-Lei n.º 73/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2010-335474), de 21 de junho, anualmente consignadas ao Fundo Ambiental para o Incentiva+TP é fixado por portaria dos membros do Governo responsáveis pelas áreas das finanças, da mobilidade e do ambiente.
 
 3 - [...]
 
@@ -235,11 +265,11 @@ O artigo 4.º do [Decreto-Lei n.º 21/2024](https://diariodarepublica.pt/dr/deta
 
 5 - Um montante de até 5 % do montante transferido no ano anterior pode ser, extraordinariamente, atribuído para apoios temporários em casos de disrupção do mercado que afetem a prestação dos serviços de transporte ou para financiamento de ações associadas ao restabelecimento da normalidade em casos de disrupção na prestação dos serviços de transporte.
 
-6 - A atribuição do montante referido no número anterior provém das receitas que resultem do adicionamento sobre as emissões de CO<sub>2</sub>, previsto no artigo 92.º-A do Código dos Impostos Especiais de Consumo, aprovado em anexo ao [Decreto-Lei n.º 73/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2010-335474), de 21 de junho, na sua redação atual, consignadas ao Fundo Ambiental para o Incentiva+TP e depende de portaria dos membros do Governo responsáveis pelas áreas das finanças, da mobilidade e do ambiente, que define o fundamento excecional da medida, os beneficiários, a dotação a atribuir e as regras de atribuição.
+6 - A atribuição do montante referido no número anterior provém das receitas que resultem do adicionamento sobre as emissões de CO2, previsto no artigo 92.º-A do Código dos Impostos Especiais de Consumo, aprovado em anexo ao [Decreto-Lei n.º 73/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2010-335474), de 21 de junho, na sua redação atual, consignadas ao Fundo Ambiental para o Incentiva+TP e depende de portaria dos membros do Governo responsáveis pelas áreas das finanças, da mobilidade e do ambiente, que define o fundamento excecional da medida, os beneficiários, a dotação a atribuir e as regras de atribuição.
 
 7 - Caso o montante de receitas a consignar nos termos do n.º 2 exceda o valor global a transferir para as AM e CIM de acordo com o disposto no n.º 4, ou o montante a consignar nos termos do n.º 6 exceda o valor dos apoios a atribuir nos termos do n.º 5, o excedente integra os saldos do Fundo Ambiental, ficando a sua utilização condicionada aos objetivos do Incentiva+TP.
 
-8 - O montante das receitas a consignar nos termos dos n.<sup>os</sup>2 e 6 inclui o excedente que integra os saldos do Fundo Ambiental previsto no número anterior.
+8 - O montante das receitas a consignar nos termos dos n.os2 e 6 inclui o excedente que integra os saldos do Fundo Ambiental previsto no número anterior.
 
 9 - [Anterior n.º 7.]
 
@@ -251,15 +281,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e p
 
 Visto e aprovado em Conselho de Ministros de 16 de abril de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Manuel Castro Almeida - Miguel Martinez de Castro Pinto Luz - Rosário Palma Ramalho - Maria da Graça Carvalho.
 
-**Promulgado em 8 de maio de 2026.**
+Promulgado em 8 de maio de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 13 de maio de 2026.**
+Referendado em 13 de maio de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 3.º)
 
@@ -280,3 +310,7 @@ Líquido de controlo de emissões poluentes (AdBlue)
 | 3 500 kg < × <= 7 500 kg | 36 | 0,30 € | 10,80 € |
 | 7 500 kg < × < 35 000 kg | 54 | 0,30 € | 16,20 € |
 | >= 35 000 kg | 126 | 0,30 € | 37,80 € |
+
+119948733
+
+.Tbl1 { margin-left:auto; margin-right:auto; } .Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:18px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl9 { text-align:left; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; }

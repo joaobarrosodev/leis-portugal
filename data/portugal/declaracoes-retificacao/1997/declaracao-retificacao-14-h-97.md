@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 175/1997, 4º Suplemento, Série I-B de 1997-07-31
   number: '175'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 4008-(24) a 4008-(24)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/07/175b04/00240024.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/14-h/1997/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-h-1997-139223
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:48:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0dea4172787e5b17bccdead1ee9ed5fa087b50e0d2f5331db45672c6ea977e89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57974d89588ed93545f2eb565388974594e6cc9ac18a163c7217369b50790574
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:48:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,31 +68,35 @@ reuse:
 subjects:
 - Abono Complementar a Crianças e Jovens Deficientes
 - Deficiente
-- Subsídio Familiar a Crianças e Jovens
 - Função Pública
-- Proteção ao Deficiente
 - Prestações da Segurança Social
 - Prestações Familiares
+- Proteção ao Deficiente
 - Regime Contributivo da Segurança Social
 - Regime de Protecção Social dos Funcionários e Agentes da Administração Pública
 - Segurança Social
 - Subsídio de Funeral
+- Subsídio Familiar a Crianças e Jovens
 - Subsídio por Assistência de Terceira Pessoa
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/491-a/1997/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/491-a/1997/07/15/p/dre
+- type: cites
+  target: pt:dre:230685:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:48:39Z'
   warnings: []
   errors: []
 ---

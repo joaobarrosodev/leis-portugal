@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/8/2026/01/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/8-2026-1014316395
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-19T00:00:00Z'
+  retrieved_at: '2026-10-22T18:29:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 906d44af41c61d44af9e81d33a9c010b850ba04129493c64eb7f7162746367f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78dc07ce4216738c5c5f059487874f6c3d4359ef6b6a4a8848a92e6492f66124
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:29:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects:
 - Autorização de Despesas
 - Contrato de Concessão
-- Transporte Ferroviário
 - Despesas Públicas
+- Infraestruturas de Portugal
 - Lisboa
 - Obras Públicas
 - Parceria Público-Privada
+- Porto
 - Rede Ferroviária
 - Rede Ferroviária Portuguesa de Alta Velocidade
-- Porto
-- Infraestruturas de Portugal
+- Transporte Ferroviário
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/111/2012/05/23/p/dre
@@ -111,16 +111,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/90-c/2024/07/22/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/90-c/2024/07/22/p/dre
+- type: cites
+  target: pt:dre:177863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3201635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835674297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:872998636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:915239713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:920673536:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:resolucao-conselho-ministros:90-C/2024
+  label: Revoga, com efeitos a 17 de dezembro de 2025, a Resolução do Conselho de Ministros n.º 90-C/2024, de 22 de julho,
+    Diário da República n.º 140/2024, Suplemento, Série I
+  source: null
+  date: '2024-07-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:29:22Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +203,7 @@ Em sequência, por despacho do Secretário de Estado do Tesouro e Finanças e do
 
 Assim, e em execução do mandato atribuído à Equipa de Projeto, foi submetido, em 27 de maio de 2025, um novo relatório devidamente fundamentado, referente ao estudo e lançamento da parceria público-privada relativa à conceção, projeto, construção, financiamento, manutenção e disponibilização das infraestruturas ferroviárias do troço Oiã-Soure (PPP2), nos termos da Proposta Fundamentada Atualizada.
 
-Nos termos e para os efeitos previstos nos n.<sup>os</sup>3 e 4 do artigo 14.º do [Decreto-Lei n.º 111/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), de 23 de maio, na sua redação atual, foi aprovado em 3 de junho de 2025, através do [Despacho n.º 6387/2025](https://diariodarepublica.pt/dr/detalhe/despacho/6387-2025-920673536), publicado no Diário da República, 2.ª série, n.º 109, de 6 de junho, o lançamento da PPP2, nos termos previstos no novo relatório da Equipa de Projeto.
+Nos termos e para os efeitos previstos nos n.os3 e 4 do artigo 14.º do [Decreto-Lei n.º 111/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), de 23 de maio, na sua redação atual, foi aprovado em 3 de junho de 2025, através do [Despacho n.º 6387/2025](https://diariodarepublica.pt/dr/detalhe/despacho/6387-2025-920673536), publicado no Diário da República, 2.ª série, n.º 109, de 6 de junho, o lançamento da PPP2, nos termos previstos no novo relatório da Equipa de Projeto.
 
 De referir que, no âmbito da Call 2023 do Programa «Connecting Europe Facility for Transport 2» (CEF 2), foi aprovado um montante de financiamento de € 365 806 171,16 milhões de euros a alocar à PPP2. Adicionalmente, está prevista a alocação de 234 milhões de euros à PPP2 provenientes de outras fontes de financiamento comunitário, nomeadamente através de outras candidaturas a submeter pela IP, S. A.
 
@@ -171,7 +217,7 @@ Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º d
 
 2 - Determinar que, no âmbito do contrato referido no número anterior, autoriza a IP, S. A., a realizar a despesa adicional e a assumir os inerentes encargos plurianuais no montante máximo de € 600 000 000,00, expresso a preços correntes, ao qual acresce, se aplicável, o IVA à taxa legal em vigor, associado à execução dos projetos, expropriações, montagem e manutenção de estaleiros, serviços de fiscalização e das obras que sejam objeto das candidaturas a programas de fundos comunitários.
 
-3 - Determinar que, sem prejuízo do disposto nos n.<sup>os</sup>5 a 7, os montantes referidos no n.º 1 não podem exceder, em cada ano económico compreendido entre o ano de início da construção da nova infraestrutura ferroviária e o ano final do período de disponibilidade, os seguintes montantes, expressos a preços correntes, aos quais acresce, se aplicável, o IVA à taxa legal em vigor:
+3 - Determinar que, sem prejuízo do disposto nos n.os5 a 7, os montantes referidos no n.º 1 não podem exceder, em cada ano económico compreendido entre o ano de início da construção da nova infraestrutura ferroviária e o ano final do período de disponibilidade, os seguintes montantes, expressos a preços correntes, aos quais acresce, se aplicável, o IVA à taxa legal em vigor:
 
 a) 2026 - € 1 950 000,00;
 
@@ -235,7 +281,7 @@ dd) 2055 - € 62 319 328,78;
 
 ee) 2056 - € 46 060 465,23.
 
-4 - Determinar que, sem prejuízo do disposto nos n.<sup>os</sup> 5 e 7, o montante referido no n.º 2 não pode exceder, em cada ano económico, os seguintes montantes, expressos a preços correntes, aos quais, se aplicável, acresce o IVA à taxa legal em vigor:
+4 - Determinar que, sem prejuízo do disposto nos n.os 5 e 7, o montante referido no n.º 2 não pode exceder, em cada ano económico, os seguintes montantes, expressos a preços correntes, aos quais, se aplicável, acresce o IVA à taxa legal em vigor:
 
 a) 2026 - € 15 700 967,20;
 
@@ -266,3 +312,5 @@ b) A soma dos pagamentos a que se refere o n.º 4, expressos a preços correntes
 12 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 17 de dezembro de 2025. - O Primeiro-Ministro, Luís Montenegro.
+
+119947297

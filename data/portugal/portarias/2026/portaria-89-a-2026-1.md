@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/89-a/2026/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/89-a-2026-1058799978
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-23T00:00:00Z'
+  retrieved_at: '2026-10-22T18:33:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 081bff7348b0d179dbb56fe68e002d0fa14332c91b68a9cbf3ed33f0f1355adf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dfca3cd9f84c090e101b1858dd025655134041c62fb330403add3139d4d885db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:33:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vida Selvagem
-- Ordenamento do Território
-- Proteção dos Animais
-- Regulamentação de Atos Legislativos
-- Proteção do Ambiente
 - Diversidade Biológica
 - Espécie Protegida
+- Ordenamento do Território
+- Proteção do Ambiente
+- Proteção dos Animais
 - Recursos Naturais
-- Ria Formosa
 - Rede Natura 2000
+- Regulamentação de Atos Legislativos
+- Ria Formosa
+- Vida Selvagem
 - Zona de Protecção Especial da Ria Formosa
 - ZONA de Protecção Especial dos Sapais de Castro Marim
 - Zona Especial de Conservação
@@ -108,16 +108,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
+- type: cites
+  target: pt:dre:1027770660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130273578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:33:08Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +154,7 @@ validation:
 
 de 23 de fevereiro
 
-O [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, procedeu à designação como Zona Especial de Conservação (ZEC) do Sítio de Importância Comunitária (SIC) Ria Formosa/Castro Marim (PTCON0013), identificando a respetiva área e coordenadas geográficas, assim como a sua localização e limites geográficos. O referido diploma determinou, ainda, que as medidas e ações complementares de conservação de habitats e espécies são definidas em planos de gestão, a aprovar por portaria nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.<sup>os</sup>[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro.
+O [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, procedeu à designação como Zona Especial de Conservação (ZEC) do Sítio de Importância Comunitária (SIC) Ria Formosa/Castro Marim (PTCON0013), identificando a respetiva área e coordenadas geográficas, assim como a sua localização e limites geográficos. O referido diploma determinou, ainda, que as medidas e ações complementares de conservação de habitats e espécies são definidas em planos de gestão, a aprovar por portaria nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.os[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro.
 
 Paralelamente, ao abrigo da Diretiva Aves e conforme previsto no artigo 6.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, na sua redação original, então vigente, o [Decreto-Lei n.º 384-B/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-b-1999-154987), de 23 de setembro, procedeu à classificação da Zona de Proteção Especial (ZPE) Ria Formosa (PTZPE0017) e da ZPE Sapais de Castro Marim (PTZPE0018), cujas áreas, delimitadas nos termos do artigo 2.º e dos anexos xvi e xvii, respetivamente, do referido decreto-lei, na sua redação atual, se sobrepõem parcialmente à da ZEC Ria Formosa/Castro Marim.
 
@@ -136,7 +164,7 @@ Com vista à prossecução dos objetivos fixados, o referido decreto-lei definiu
 
 Neste contexto, cumpre agora aprovar o plano de gestão da ZEC Ria Formosa/Castro Marim, da ZPE Ria Formosa e da ZPE Sapais de Castro Marim, numa abordagem integrada que dê resposta às exigências ecológicas específicas da ZEC e das ZPE, procedendo à identificação dos tipos de habitat naturais e seminaturais e das espécies da flora e fauna selvagens com presença significativa na sua área e que justificaram o seu reconhecimento como SIC pela Comissão Europeia e a sua subsequente classificação como ZEC, incluindo as tendências populacionais favoráveis das espécies de aves com ocorrência regular nas ZPE, bem como adotando um conjunto de medidas e ações de conservação complementares, designadamente medidas de gestão ativa e de suporte, conforme o disposto no artigo 13.º do [Decreto-Lei n.º 24/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2026-1027770660), de 28 de janeiro. O plano de gestão da ZEC Ria Formosa/Castro Marim, da ZPE Ria Formosa e da ZPE Sapais de Castro Marim tem também por função estabelecer as prioridades de conservação da zona, identificando as espécies e os tipos de habitat protegidos com presença significativa na ZEC e nas ZPE em relação aos quais se impõem medidas mais urgentes.
 
-Assim, ao abrigo do disposto na alínea a) do n.º 3 do artigo 7.º e nos n.<sup>os</sup>1 e 2 do artigo 7.º-B do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, na sua redação atual, do artigo 5.º do [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, e do artigo 13.º do [Decreto-Lei n.º 24/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2026-1027770660), de 28 de janeiro, em conjugação com os artigos 15.º, 25.º e 27.º do [Decreto-Lei n.º 87-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2025-926483751), de 25 de julho, na sua redação atual, que aprova o regime de organização e funcionamento do XXV Governo Constitucional, manda o Governo, pelo Ministro da Economia e da Coesão Territorial, pela Ministra do Ambiente e Energia e pelo Ministro da Agricultura e Mar, o seguinte:
+Assim, ao abrigo do disposto na alínea a) do n.º 3 do artigo 7.º e nos n.os1 e 2 do artigo 7.º-B do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, na sua redação atual, do artigo 5.º do [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, e do artigo 13.º do [Decreto-Lei n.º 24/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2026-1027770660), de 28 de janeiro, em conjugação com os artigos 15.º, 25.º e 27.º do [Decreto-Lei n.º 87-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2025-926483751), de 25 de julho, na sua redação atual, que aprova o regime de organização e funcionamento do XXV Governo Constitucional, manda o Governo, pelo Ministro da Economia e da Coesão Territorial, pela Ministra do Ambiente e Energia e pelo Ministro da Agricultura e Mar, o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -154,7 +182,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 20 de fevereiro de 2026.
 
-**O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho. - O Ministro da Agricultura e Mar, José Manuel Fernandes.**
+O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho. - O Ministro da Agricultura e Mar, José Manuel Fernandes.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -162,19 +190,21 @@ PLANO DE GESTÃO DA ZEC RIA FORMOSA/CASTRO MARIM (PTCON0013), DA ZPE RIA FORMOSA
 
 LOCALIZAÇÃO
 
-A ZEC Ria Formosa/Castro Marim e as ZPE Ria Formosa e Sapais de Castro Marim, com uma área total aproximada de 18953 ha em meio terrestre e de 82 km<sup>2</sup> em meio marinho, localizam-se nos concelhos de Loulé, Faro, Olhão, Tavira, Castro Marim e Vila Real de Santo António, todos no distrito de Faro, conforme se apresenta no Quadro 1. A área marinha abrangida pela ZPE Ria Formosa equivale a 35 % da sua área. A localização encontra-se representada cartograficamente na Figura 1, estando os seus limites disponíveis no geocatálogo da Autoridade Nacional da Conservação da Natureza e Biodiversidade.
+A ZEC Ria Formosa/Castro Marim e as ZPE Ria Formosa e Sapais de Castro Marim, com uma área total aproximada de 18953 ha em meio terrestre e de 82 km2 em meio marinho, localizam-se nos concelhos de Loulé, Faro, Olhão, Tavira, Castro Marim e Vila Real de Santo António, todos no distrito de Faro, conforme se apresenta no Quadro 1. A área marinha abrangida pela ZPE Ria Formosa equivale a 35 % da sua área. A localização encontra-se representada cartograficamente na Figura 1, estando os seus limites disponíveis no geocatálogo da Autoridade Nacional da Conservação da Natureza e Biodiversidade.
 
 QUADRO 1
 
 Unidades territoriais abrangidas pela ZEC Ria Formosa/Castro Marim, ZPE Ria Formosa e ZPE Sapais de Castro Marim
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058500855.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058500855.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058500856.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058500856.png) |
+| --- |
 
 CARACTERIZAÇÃO
 
-As ZEC Ria Formosa/Castro Marim e as ZPE Ria Formosa e Sapais de Castro Marim abrangem uma área total de 27 162 ha que integra a área lagunar denominada Ria Formosa, o Sapal de Castro Marim e a mata litoral de Vila Real de Santo António, e ainda uma faixa marinha da ZPE Ria Formosa com 8 208 ha (82,07 km<sup>2</sup>).
+As ZEC Ria Formosa/Castro Marim e as ZPE Ria Formosa e Sapais de Castro Marim abrangem uma área total de 27 162 ha que integra a área lagunar denominada Ria Formosa, o Sapal de Castro Marim e a mata litoral de Vila Real de Santo António, e ainda uma faixa marinha da ZPE Ria Formosa com 8 208 ha (82,07 km2).
 
 Uma longa faixa de ilhas barreira com aproximadamente 50 km, descontínua e dinâmica, limita a área a Sul e o cordão dunar estende-se depois para nascente, junto à costa até à Barra do Guadiana.
 
@@ -220,13 +250,15 @@ QUADRO 2
 
 Tipos de habitat do anexo I da Diretiva Habitats com presença significativa na ZEC
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058500857.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058500857.png) |
+| --- |
 
 QUADRO 3
 
 Espécies do anexo II da Diretiva Habitats com presença significativa na ZEC
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058500858.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058500858.png) |
+| --- |
 
 As ZPE Ria Formosa e ZPE Sapais de Castro Marim, com um extenso elenco de espécies de aves protegidas (do anexo I da Diretiva Aves e espécies migradoras não incluídas nesse anexo, com ocorrência regular) com presença significativa, são no seu conjunto consideradas especialmente relevantes para 22 espécies e para os grupos de Passeriformes migradores de matos e bosques e Passeriformes migradores paludícolas (valores alvo assinalados com um # e a negrito no Quadro 4).
 
@@ -234,7 +266,8 @@ QUADRO 4
 
 Espécies de aves do anexo I da Diretiva Aves e espécies migradoras não incluídas nesse anexo e de ocorrência regular, com presença significativa especialmente relevante nas ZPE
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058500859.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058500859.png) |
+| --- |
 
 OBJETIVOS DE CONSERVAÇÃO
 
@@ -248,13 +281,17 @@ QUADRO 5
 
 Objetivos de conservação para a gestão das ZEC e ZPE
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058500860.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058500860.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058500861.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058500861.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058500862.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058500862.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058500863.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058500863.png) |
+| --- |
 
 MEDIDAS DE CONSERVAÇÃO COMPLEMENTARES
 
@@ -268,13 +305,17 @@ QUADRO 6
 
 Quadro operacional das medidas de conservação complementares
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058500864.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058500864.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058500865.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058500865.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058500866.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058500866.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058500867.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058500867.png) |
+| --- |
 
 MEDIDAS DE CONSERVAÇÃO REGULAMENTARES
 
@@ -302,7 +343,8 @@ QUADRO 7
 
 Modelo de matriz de avaliação final da implementação do plano de gestão
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058500868.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058500868.png) |
+| --- |
 
 FICHAS DE MEDIDAS DE CONSERVAÇÃO COMPLEMENTARES
 
@@ -322,50 +364,76 @@ OE - Orçamento de Estado;
 
 PNA-PNGIFR - Programa Nacional de Ação do Plano Nacional de Gestão Integrada de Fogos Rurais.
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058500869.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058500869.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058500870.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058500870.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058500871.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058500871.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058500872.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058500872.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058500873.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058500873.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058500874.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058500874.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058800075.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058800075.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058800076.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058800076.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058800077.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058800077.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058800078.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058800078.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058800079.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058800079.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058800080.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058800080.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058800081.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058800081.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058800082.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058800082.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058800083.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058800083.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058800084.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058800084.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058800085.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058800085.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058800086.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058800086.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058800087.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058800087.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058800088.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058800088.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058800089.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058800089.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058800090.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058800090.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058800091.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058800091.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058799978/1058800092.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799978/1058800092.png) |
+| --- |
+
+119947754

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/4/2026/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2026-1006464118
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-14T00:00:00Z'
+  retrieved_at: '2026-10-22T18:28:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65792fe515d937ac48ecb5ef39c4fe04c30ed789f8947c1aaa0883729de3db50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68597a4314f6b192fcc843d2384ebcbb97972ffa3211acb7ba32a358c98b8ccd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:28:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Serviço Postal
+- Concorrência
 - Contra-ordenação
 - CTT
-- Concorrência
 - Fiscalização
 - Fundo de Compensação
 - Instituto das Comunicações de Portugal
 - Prestação de Serviços
 - Regulamento do Serviço Público de Correios
+- Serviço Postal
 - Serviço Postal Universal
 - Taxa
 relationships:
+- type: amends
+  target: pt:numero:lei:17/2012
+  label: Altera, a partir de 15 de janeiro de 2026, nos termos dos artigos 6.º e 7.º do presente diploma, os artigos 26.º,
+    37.º, 44.º e 53.º e os anexos i e ii, altera sistematicamente a secção i do capítulo vii, que passa a ter a epígrafe "Taxas
+    e contribuição financeira", e o capítulo vii que passa a ter a epígrafe "Taxas, contribuição financeira, supervisão e
+    fiscalização", e adita o artigo 44.º-A à Lei n.º 17/2012, de 26 de abril, Diário da República n.º 82/2012, Série I
+  source: null
+  date: '2012-04-26'
 - type: cites
   target: celex:32008L0006
   label: null
@@ -95,20 +103,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/18/2023/04/17/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/18/2023/04/17/p/dre
+- type: cites
+  target: pt:dre:211844895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:900840740:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32008L0006
   label: null
   source: null
 article_structure:
-  article_count: 11
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:28:47Z'
   warnings: []
   errors: []
 ---
@@ -149,7 +169,9 @@ Os artigos 26.º, 37.º, 44.º e 53.º da [Lei n.º 17/2012](https://diariodarep
 
 2 - Em caso de impossibilidade de notificação dos prestadores de serviços postais por prazo superior a 90 dias por causa a estes imputável, a ANACOM pode promover a suspensão da inscrição do prestador no registo, sem prejuízo da liquidação e cobrança imediata das taxas e da contribuição financeira que forem devidas, bem como da aplicação da coima a que houver lugar.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - [...]
 
@@ -185,7 +207,9 @@ m) [...]
 
 4 - [...]
 
-###### Artigo 44.º — Taxas e contribuição financeira
+Artigo 44.º
+
+Taxas e contribuição financeira
 
 1 - [...]
 
@@ -195,7 +219,7 @@ m) [...]
 
 4 - O montante da contribuição financeira anual a que se refere o n.º 2 é calculado com base no valor dos rendimentos relevantes diretamente conexos com a atividade de prestação de serviços postais, de acordo com os escalões indicados na tabela do anexo i da presente lei e da qual faz parte integrante.
 
-5 - O valor da percentagem contributiva t<sub>2</sub>, resultante da aplicação da fórmula para o escalão 2, cuja fórmula de cálculo consta do anexo ii da presente lei e da qual faz parte integrante, é liquidado em novembro do ano seguinte com base no total de custos (gastos) administrativos [C (ano n)] e do montante total de rendimentos relevantes das entidades abrangidas pelo escalão 2 [∑R<sub>2</sub> (ano n)].
+5 - O valor da percentagem contributiva t2, resultante da aplicação da fórmula para o escalão 2, cuja fórmula de cálculo consta do anexo ii da presente lei e da qual faz parte integrante, é liquidado em novembro do ano seguinte com base no total de custos (gastos) administrativos [C (ano n)] e do montante total de rendimentos relevantes das entidades abrangidas pelo escalão 2 [∑R2 (ano n)].
 
 6 - Para efeitos da liquidação da contribuição financeira, as empresas referidas no n.º 2 devem remeter à ANACOM, até 30 de junho de cada ano civil, declaração assinada por entidade com poderes para vincular a pessoa coletiva, como tal reconhecida na qualidade, com indicação do montante dos rendimentos relevantes diretamente conexos com a atividade de serviços postais obtidos no ano civil anterior.
 
@@ -203,15 +227,17 @@ m) [...]
 
 8 - Os rendimentos relevantes devem ser calculados antes da aplicação do imposto sobre o valor acrescentado, quando aplicável, e não devem incluir as receitas do prestador de serviços postais provenientes de outras atividades, nem as receitas das transações entre entidades do mesmo grupo nos termos do Código das Sociedades Comerciais.
 
-9 - O valor da percentagem contributiva t<sub>2</sub> e o total de custos (gastos) administrativos referidos no n.º 5 são fixados anualmente e publicitados pela ANACOM no seu sítio na Internet.
+9 - O valor da percentagem contributiva t2 e o total de custos (gastos) administrativos referidos no n.º 5 são fixados anualmente e publicitados pela ANACOM no seu sítio na Internet.
 
 10 - Os montantes das taxas e da contribuição financeira referidas nos números anteriores constituem receita da ANACOM.
 
 11 - Os montantes das taxas referidas no n.º 1 e os procedimentos relativos ao apuramento dos rendimentos relevantes para efeitos do cálculo do montante da contribuição financeira referida no n.º 5 são fixados, ouvida a ANACOM, por portaria dos membros do Governo responsáveis pelas áreas das finanças e das comunicações.
 
-12 - Pode ser estabelecido um limite máximo da percentagem contributiva referida nos n.<sup>os</sup>4 e 5 por portaria dos membros do Governo responsáveis pelas áreas das finanças e das comunicações, ouvida a ANACOM, considerando a salvaguarda da capacidade financeira da entidade reguladora e o respetivo financiamento, o cumprimento de princípios de eficiência económica no que se refere à sua gestão, bem como a necessidade e a proporcionalidade dos encargos impostos às entidades reguladas.
+12 - Pode ser estabelecido um limite máximo da percentagem contributiva referida nos n.os4 e 5 por portaria dos membros do Governo responsáveis pelas áreas das finanças e das comunicações, ouvida a ANACOM, considerando a salvaguarda da capacidade financeira da entidade reguladora e o respetivo financiamento, o cumprimento de princípios de eficiência económica no que se refere à sua gestão, bem como a necessidade e a proporcionalidade dos encargos impostos às entidades reguladas.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - [...]
 
@@ -253,7 +279,7 @@ b) Até ao dia 30 de novembro do ano seguinte, pela diferença que existir entre
 
 2 - Há lugar a reembolso quando o montante do pagamento por conta efetuado no ano anterior seja superior ao montante da contribuição financeira liquidada nos termos do artigo anterior, o qual deve ser efetuado até ao fim do mês de novembro.
 
-3 - O pagamento previsto na alínea a) do n.º 1 é calculado com base na estimativa do total de custos (gastos) administrativos [C (ano n)] e do montante total de rendimentos relevantes das entidades abrangidas pelo escalão 2 apurado relativamente ao ano anterior [∑R<sub>2</sub> (ano n-1)], sendo efetuado por autoliquidação.»
+3 - O pagamento previsto na alínea a) do n.º 1 é calculado com base na estimativa do total de custos (gastos) administrativos [C (ano n)] e do montante total de rendimentos relevantes das entidades abrangidas pelo escalão 2 apurado relativamente ao ano anterior [∑R2 (ano n-1)], sendo efetuado por autoliquidação.»
 
 ###### Artigo 4.º — Alteração dos anexos i e ii da [Lei n.º 17/2012](https://diariodarepublica.pt/dr/detalhe/lei/17-2012-553038), de 26 de abril
 
@@ -281,13 +307,13 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de dezembro de 2025. - Luís Montenegro - Marisa da Luz Bento Garrido Marques Oliveira - Miguel Martinez de Castro Pinto Luz.
 
-**Promulgado em 22 de dezembro de 2025.**
+Promulgado em 22 de dezembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de dezembro de 2025.**
+Referendado em 29 de dezembro de 2025.
 
 Pelo Primeiro-Ministro, Paulo Artur dos Santos de Castro de Campos Rangel, Ministro de Estado e dos Negócios Estrangeiros.
 
@@ -301,21 +327,27 @@ Escalões de rendimentos relevantes
 
 | Código da contribuição financeira | Escalões | De … euros | a … euros | Contribuição financeira T(euros) |
 | --- | --- | --- | --- | --- |
-| 192201 | 0 | 0 | 250 000 | T<sub>0</sub> = 0 |
-| 192202 | 1 | 250 001 | 1 500 000 | T<sub>1</sub> = 2 500 |
-| 192203 | 2 | 1 500 001 | Sem limite | T<sub>2</sub> |
+| 192201 | 0 | 0 | 250 000 | T0 = 0 |
+| 192202 | 1 | 250 001 | 1 500 000 | T1 = 2 500 |
+| 192203 | 2 | 1 500 001 | Sem limite | T2 |
 
-## ANEXO II — (a que se refere o n.º 5 do artigo 44.º)
+ANEXO II
 
-| Fórmula de cálculo da contribuição financeira T<sub>2</sub> | Fórmula de cálculo da contribuição financeira T<sub>2</sub> | Fórmula de cálculo da contribuição financeira T<sub>2</sub> | Fórmula de cálculo da contribuição financeira T<sub>2</sub> |
-| --- | --- | --- | --- |
-| T<sub>i</sub> <sub>(Ano</sub>n<sub>)</sub>= | Contribuição financeira devida pelas entidades do escalão i (i = 0, 1, 2) no Ano n. | Contribuição financeira devida pelas entidades do escalão i (i = 0, 1, 2) no Ano n. | Contribuição financeira devida pelas entidades do escalão i (i = 0, 1, 2) no Ano n. |
-| n<sub>i</sub> <sub>(Ano</sub>n<sub>)</sub> = | Número de entidades do escalão i (i = 0, 1, 2) no Ano n. | Número de entidades do escalão i (i = 0, 1, 2) no Ano n. | Número de entidades do escalão i (i = 0, 1, 2) no Ano n. |
-| R<sub>i (Ano</sub>n<sub>)</sub>= | Rendimentos relevantes conexos com a atividade de prestador de serviços postais das entidades do escalão i (i = 0, 1, 2) relativos ao Ano n, a remeter à ANACOM. | Rendimentos relevantes conexos com a atividade de prestador de serviços postais das entidades do escalão i (i = 0, 1, 2) relativos ao Ano n, a remeter à ANACOM. | Rendimentos relevantes conexos com a atividade de prestador de serviços postais das entidades do escalão i (i = 0, 1, 2) relativos ao Ano n, a remeter à ANACOM. |
-| ∑R<sub>i (Ano</sub>n<sub>)</sub> = | Total de rendimentos relevantes das entidades do escalão i (i = 0, 1, 2) relativos ao Ano n. | Total de rendimentos relevantes das entidades do escalão i (i = 0, 1, 2) relativos ao Ano n. | Total de rendimentos relevantes das entidades do escalão i (i = 0, 1, 2) relativos ao Ano n. |
-| C <sub>(Ano</sub>n<sub>)</sub>= | Total de custos (gastos) administrativos da ANACOM a considerar para o ano n, correspondente ao valor médio dos últimos três exercícios da componente de custos (gastos) sem provisões, imparidades ou outros custos referentes a pagamentos de indemnizações ou restituições, incluindo juros, decorrentes de processos judiciais associados ao setor postal. | Total de custos (gastos) administrativos da ANACOM a considerar para o ano n, correspondente ao valor médio dos últimos três exercícios da componente de custos (gastos) sem provisões, imparidades ou outros custos referentes a pagamentos de indemnizações ou restituições, incluindo juros, decorrentes de processos judiciais associados ao setor postal. | Total de custos (gastos) administrativos da ANACOM a considerar para o ano n, correspondente ao valor médio dos últimos três exercícios da componente de custos (gastos) sem provisões, imparidades ou outros custos referentes a pagamentos de indemnizações ou restituições, incluindo juros, decorrentes de processos judiciais associados ao setor postal. |
-| R<sub>2 (Ano</sub>n<sub>)</sub>= | Rendimentos relevantes de entidade do escalão 2 no Ano (n). | Rendimentos relevantes de entidade do escalão 2 no Ano (n). | Rendimentos relevantes de entidade do escalão 2 no Ano (n). |
-| t<sub>2 (Ano</sub>n<sub>)</sub> = | (C <sub>(Ano</sub>n<sub>)</sub> - T<sub>1 (Ano</sub>n<sub>)</sub>n<sub>1 (Ano</sub>n<sub>)</sub>)/∑R<sub>2</sub> <sub>(Ano</sub>n<sub>)</sub> | Percentagem contributiva (%) das entidades do escalão 2 no Ano n. | Percentagem contributiva (%) das entidades do escalão 2 no Ano n. |
-| T<sub>2</sub> <sub>(Ano</sub>n<sub>)</sub>= | t<sub>2 (Ano</sub>n<sub>)</sub>× R<sub>2 (Ano</sub>n<sub>)</sub>-a<sub>2</sub> | t<sub>2 (Ano</sub>n<sub>)</sub>× R<sub>2 (Ano</sub>n<sub>)</sub>-a<sub>2</sub> | t<sub>2 (Ano</sub>n<sub>)</sub>× R<sub>2 (Ano</sub>n<sub>)</sub>-a<sub>2</sub> |
-| a<sub>2 (Ano</sub>n<sub>)</sub> | Parcela a abater no cálculo da taxa das entidades do escalão 2a<sub>2</sub>= t<sub>2 (Ano</sub>n<sub>)</sub>×R<sup>LI</sup><sub>2</sub>-T<sub>1 (Ano</sub>n<sub>)</sub> | Parcela a abater no cálculo da taxa das entidades do escalão 2a<sub>2</sub>= t<sub>2 (Ano</sub>n<sub>)</sub>×R<sup>LI</sup><sub>2</sub>-T<sub>1 (Ano</sub>n<sub>)</sub> | Parcela a abater no cálculo da taxa das entidades do escalão 2a<sub>2</sub>= t<sub>2 (Ano</sub>n<sub>)</sub>×R<sup>LI</sup><sub>2</sub>-T<sub>1 (Ano</sub>n<sub>)</sub> |
-| R <sup>LI</sup><sub>2</sub> | Limite inferior do escalão de rendimentos das entidades do escalão 2. | Limite inferior do escalão de rendimentos das entidades do escalão 2. | » |
+(a que se refere o n.º 5 do artigo 44.º)
+
+| Fórmula de cálculo da contribuição financeira T2 |  |  |
+| --- | --- | --- |
+| Ti (Anon)= | Contribuição financeira devida pelas entidades do escalão i (i = 0, 1, 2) no Ano n. |  |
+| ni (Anon) = | Número de entidades do escalão i (i = 0, 1, 2) no Ano n. |  |
+| Ri (Anon)= | Rendimentos relevantes conexos com a atividade de prestador de serviços postais das entidades do escalão i (i = 0, 1, 2) relativos ao Ano n, a remeter à ANACOM. |  |
+| ∑Ri (Anon) = | Total de rendimentos relevantes das entidades do escalão i (i = 0, 1, 2) relativos ao Ano n. |  |
+| C (Anon)= | Total de custos (gastos) administrativos da ANACOM a considerar para o ano n, correspondente ao valor médio dos últimos três exercícios da componente de custos (gastos) sem provisões, imparidades ou outros custos referentes a pagamentos de indemnizações ou restituições, incluindo juros, decorrentes de processos judiciais associados ao setor postal. |  |
+| R2 (Anon)= | Rendimentos relevantes de entidade do escalão 2 no Ano (n). |  |
+| t2 (Anon) = | (C (Anon) - T1 (Anon)n1 (Anon))/∑R2 (Anon) | Percentagem contributiva (%) das entidades do escalão 2 no Ano n. |
+| T2 (Anon)= | t2 (Anon)× R2 (Anon)-a2 |  |
+| a2 (Anon) | Parcela a abater no cálculo da taxa das entidades do escalão 2a2= t2 (Anon)×RLI2-T1 (Anon) |  |
+| R LI2 | Limite inferior do escalão de rendimentos das entidades do escalão 2. | » |
+
+119947205
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:18px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:top; } .Tbl12 { min-height:26px; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl15 { min-height:28px; } .Tbl16 { min-height:47px; } .Tbl17 { min-height:33px; } .Tbl18 { border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl19 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:none; border-left-style:none; vertical-align:bottom; } .Tbl20 { text-align:right; }

@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 6/2007, 1º Suplemento, Série I de 2007-01-09
   number: '6'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 246-(2) a 246-(35)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/01/00601/00020035.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/4-a/2007/01/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-a-2007-349478
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-09T00:00:00Z'
+  retrieved_at: '2026-10-22T19:08:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67e3a5f6280931012db1a7af2232128a3874ef0ce479ea7cc51a9a2a153aba85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd22441f5de6f767cd284adf7602c0a213eeb998b0aa8238389cb0370a03d46c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:08:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Auto-estrada
 - Auto-estrada da Grande Lisboa
 - Contrato de Concessão
-- Auto-estrada
 relationships:
 - type: cites
   target: celex:31993L0037
@@ -84,16 +84,22 @@ relationships:
   target: celex:32004L0052
   label: null
   source: http://data.europa.eu/eli/dir/2004/52/oj
+- type: corrects
+  target: pt:numero:resolucao-conselho-ministros:171/2006
+  label: "Rectifica a Resolução do Conselho de Ministros n.º 171/2006, de 29 de Dezembro, DR.IS [249], republicando-a na íntegra\0\
+    \0"
+  source: null
+  date: '2006-12-29'
 article_structure:
   article_count: 0
   section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:08:11Z'
   warnings: []
   errors: []
 ---
@@ -262,47 +268,47 @@ Vocabulário de Estradas e Aeródromos - Designa a publicação, de 1962, do Lab
 
 Fazem parte integrante do Contrato de Concessão, para todos os efeitos legais e contratuais, os seus seguintes anexos e respectivos apêndices:
 
-## ANEXO 1 - Lista dos Contratos do Projecto;
+ANEXO 1 - Lista dos Contratos do Projecto;
 
-## ANEXO 2 - Estrutura Accionista da Concessionária;
+ANEXO 2 - Estrutura Accionista da Concessionária;
 
-## ANEXO 3 - Programa de Trabalhos;
+ANEXO 3 - Programa de Trabalhos;
 
-## ANEXO 4 - Declaração dos Accionistas;
+ANEXO 4 - Declaração dos Accionistas;
 
 ## ANEXO 5 - Caso Base;
 
-## ANEXO 6 - Acordo Directos referentes ao Contrato de Projecto e Construção e ao Contrato de Condução e Realização de Processos de Expropriação;
+ANEXO 6 - Acordo Directos referentes ao Contrato de Projecto e Construção e ao Contrato de Condução e Realização de Processos de Expropriação;
 
-## ANEXO 7 - Acordo Directo com os Bancos Financiadores;
+ANEXO 7 - Acordo Directo com os Bancos Financiadores;
 
-## ANEXO 8 - Definição dos Lanços e Sublanços;
+ANEXO 8 - Definição dos Lanços e Sublanços;
 
-## ANEXO 9 - Critérios Chave;
+ANEXO 9 - Critérios Chave;
 
-## ANEXO 10 - Acordo Directo referente ao Contrato de Operação e Manutenção;
+ANEXO 10 - Acordo Directo referente ao Contrato de Operação e Manutenção;
 
-## ANEXO 11 - Minuta de Garantia Bancária referente à Caução;
+ANEXO 11 - Minuta de Garantia Bancária referente à Caução;
 
-## ANEXO 12 - Limites da Concessão;
+ANEXO 12 - Limites da Concessão;
 
-## ANEXO 13 - Contrato de Projecto e Construção e Contrato de Condução e Realização de Processos de Expropriação;
+ANEXO 13 - Contrato de Projecto e Construção e Contrato de Condução e Realização de Processos de Expropriação;
 
-## ANEXO 14 - Contratos de Financiamento;
+ANEXO 14 - Contratos de Financiamento;
 
 ## ANEXO 15 - Estatutos;
 
-## ANEXO 16 - Acordo de Subscrição e Realização de Fundos Próprios;
+ANEXO 16 - Acordo de Subscrição e Realização de Fundos Próprios;
 
-## ANEXO 17 - Acordo Parassocial;
+ANEXO 17 - Acordo Parassocial;
 
-## ANEXO 18 - Minuta de Garantia Bancária referente aos fundos próprios da Concessionária;
+ANEXO 18 - Minuta de Garantia Bancária referente aos fundos próprios da Concessionária;
 
-## ANEXO 19 - Programa de Seguros;
+ANEXO 19 - Programa de Seguros;
 
-## ANEXO 20 - Contrato de Operação e Manutenção;
+ANEXO 20 - Contrato de Operação e Manutenção;
 
-## ANEXO 21 - Pagamentos ao Concedente.
+ANEXO 21 - Pagamentos ao Concedente.
 
 3 - Epígrafes e Remissões
 
@@ -664,7 +670,7 @@ b) A apresentação ao Concedente, nos prazos previstos no Programa de Trabalhos
 
 29.1 - A construção dos Lanços de Auto-estrada referidos nos números 6.1 e 6.2 do Contrato de Concessão obedecerá ao Programa de Trabalhos que constitui o Anexo 3 ao Contrato de Concessão, no respeito pelas seguintes datas de início da construção e de entrada em serviço:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/00601/00020035.pdf))](https://files.diariodarepublica.pt/1s/2007/01/00601/00020035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/00601/00020035.pdf)
 
 29.2 - As datas de entrada em serviço e bem assim as datas de início da construção de cada um dos Lanços referidos no número anterior constam do Programa de Trabalhos anexo ao presente Contrato.
 
@@ -1158,7 +1164,7 @@ e) Outros parâmetros que se considerem necessários para alcançar a classifica
 
 52.1 - Os equipamentos de classificação e contagem descritos na cláusula 51 deverão classificar os veículos nas seguintes classes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/00601/00020035.pdf))](https://files.diariodarepublica.pt/1s/2007/01/00601/00020035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/00601/00020035.pdf)
 
 52.2 - Os limites de erro absoluto aceitáveis para os equipamentos referidos no número anterior serão os seguintes:
 
@@ -1172,7 +1178,7 @@ c) Erro na classificação entre as classes: (igual ou menor que) 8%.
 
 As seguintes classes de veículos, por ordem crescente do respectivo valor tarifário:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/00601/00020035.pdf))](https://files.diariodarepublica.pt/1s/2007/01/00601/00020035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/00601/00020035.pdf)
 
 A relação entre o valor das tarifas de portagem das classes 2, 3 e 4 e a tarifa da classe 1 não poderá ser superior, respectivamente, a 1,75, a 2,25 e 2,5.
 
@@ -1290,7 +1296,7 @@ L = Extensão total, em quilómetros, dos Lanços em serviço;
 
 TMDA(índice t) = TMDA registado na Concessão no ano t;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/00601/00020035.pdf))](https://files.diariodarepublica.pt/1s/2007/01/00601/00020035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/00601/00020035.pdf)
 
 IS(índice t - 1) (ponderado) = 60% x Is(índice t - 1) (Conc) + 40% x Is(índice t - 1)(CONPOR)
 
@@ -1896,7 +1902,7 @@ O Contrato de Concessão caduca quando se verificar o fim do prazo da Concessão
 
 85.4 - No termo da Concessão cessam para a Concessionária todos os direitos relativos aos Lanços identificados na cláusula 6., sendo entregues ao Concedente todos os bens que integram os Lanços referidos nos números 6.1 a 6.3 em estado que satisfaça as seguintes condições:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/00601/00020035.pdf))](https://files.diariodarepublica.pt/1s/2007/01/00601/00020035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/00601/00020035.pdf)
 
 Todos os bens não contemplados no quadro anterior deverão ser entregues em estado que garanta 50% da vida útil de cada um dos seus componentes.
 
@@ -2028,7 +2034,7 @@ O Contrato de Concessão entrará em vigor às 24 (vinte e quatro) horas do dia 
 
 92.1 - A Concessionária terá de pagar anualmente à EP uma taxa de gestão do Contrato, para suporte das despesas da EP com o acompanhamento, gestão e fiscalização da Concessão, calculada de acordo com a expressão seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/00601/00020035.pdf))](https://files.diariodarepublica.pt/1s/2007/01/00601/00020035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/00601/00020035.pdf)
 
 92.2 - A taxa de gestão referida no número anterior deverá ser paga pela Concessionária até ao dia 31 de Janeiro do ano seguinte a que se refere, utilizando o TMDA real verificado no ano a que se reporta.
 

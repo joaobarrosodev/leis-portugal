@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/18/2004/02/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/18-2004-591325
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-03T00:00:00Z'
+  retrieved_at: '2026-10-22T19:03:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7baecc8917ac07cffa44c56b20050c1bfefcfd274755002cdf7e66ce667184d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e53bb19862dd60c34f33a76ed017fdc5dd852f25b6d6d9786572fcb98b855cb4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:03:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Agrícola
 - Actualização de Pensões
-- Pescador
+- Atividade Agrícola
 - Cálculo de Pensões
 - Centro Nacional de Pensões
 - Complemento por Dependência
 - Complemento Social de Pensão
-- Pensão por Incapacidade Permanente para o Trabalho
-- Trabalhador Rural
+- Doença Profissional
 - Pensão de Invalidez
 - Pensão de Velhice
-- Doença Profissional
+- Pensão por Incapacidade Permanente para o Trabalho
 - Pensão por Morte
 - Pensão Social
 - Pensão Unificada
 - Pensionista
 - Pensões
+- Pescador
 - Proteção Social
 - Regime Contributivo da Segurança Social
 - Regime Especial de Segurança Social
@@ -91,21 +90,26 @@ subjects:
 - Regime não Contributivo da Segurança Social
 - Segurança Social
 - Subsídio Complementar
+- Trabalhador Rural
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1362/2003/12/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1362/2003/12/15/p/dre
+- type: cites
+  target: pt:dre:430417:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:03:10Z'
   warnings: []
   errors: []
 ---

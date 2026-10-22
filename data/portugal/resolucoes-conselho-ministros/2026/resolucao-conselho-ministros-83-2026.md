@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/83/2026/05/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/83-2026-1124493229
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-20T00:00:00Z'
+  retrieved_at: '2026-10-22T18:41:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0462a356cebec24547dfefe46d781549d6ab97683006b13ea8ee88470f69d17a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3bfa75eeaa6965d31547493a6f5f6b25e1e55d039fabbcde723fc63ebf295eef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:41:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autorização de Despesas
-- Financiamento
 - Despesas Públicas
-- Mobilidade Elétrica
-- Veículo Elétrico
-- Transporte de Passageiros
+- Financiamento
 - Fundo Ambiental
-- Roteiro para a Neutralidade Carbónica 2050
-- Programa de incentivo ao abate de veículos ligeiros
+- Mobilidade Elétrica
 - Mobilidade Verde-Passageiros
+- Programa de incentivo ao abate de veículos ligeiros
+- Roteiro para a Neutralidade Carbónica 2050
+- Transporte de Passageiros
+- Veículo Elétrico
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:134-C/2024
+  label: Altera, com efeitos a partir de 30 de abril de 2026, nos termos do n.º 2 do presente diploma, o n.º 1 da Resolução
+    do Conselho de Ministros n.º 134-C/2024, de 11 de outubro, Diário da República n.º 198/2024, Suplemento, Série I
+  source: null
+  date: '2024-10-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/134-c/2024/10/11/p/dre
   label: null
@@ -85,16 +91,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/28/2026/02/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/28/2026/02/10/p/dre
+- type: cites
+  target: pt:dre:1043405188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:890820678:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:41:20Z'
   warnings: []
   errors: []
 ---
@@ -142,3 +156,5 @@ i) [...]»
 3 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 30 de abril de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119948539

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44449-1962-163050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-07-04T00:00:00Z'
+  retrieved_at: '2026-10-22T19:30:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de1ef99ab99fdd09a88676bb1a896d94babaec17256c8a4f8ac9a54b91546a3b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 485a1a2bf359da59914beee5079eac25d0c63563f8cd46ac51c6f9a2367498bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:30:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:384414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595296:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:30:06Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +111,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º As disposições adiante indicadas do [Decreto n.º 36875](https://diariodarepublica.pt/dr/detalhe/decreto/36875-1948-388630), de 17 de Maio de 1948 (Regulamento de Admissão e Promoção do Pessoal dos Correios, Telégrafos e Telefones), modificado pelos Decretos n.os 37324, 39154, 40372 e 41082, de 5 de Março de 1949, 1 de Abril de 1953, 7 de Novembro de 1955 e 23 de Abril de 1957, respectivamente, passam a ter a redacção que segue:
+Artigo 1.º As disposições adiante indicadas do [Decreto n.º 36875](https://diariodarepublica.pt/dr/detalhe/decreto/36875-1948-388630), de 17 de Maio de 1948 (Regulamento de Admissão e Promoção do Pessoal dos Correios, Telégrafos e Telefones), modificado pelos Decretos n.os 37324, 39154, 40372 e 41082, de 5 de Março de 1949, 1 de Abril de 1953, 7 de Novembro de 1955 e 23 de Abril de 1957, respectivamente, passam a ter a redacção que segue:
 
-###### Art. 15.º Há concursos de admissão sem estágio para as seguintes categorias e classes referidas no artigo 5.º do [Decreto-Lei n.º 36155](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36155-1947-414196), de 10 de Fevereiro de 1947:
+Art. 15.º Há concursos de admissão sem estágio para as seguintes categorias e classes referidas no artigo 5.º do [Decreto-Lei n.º 36155](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36155-1947-414196), de 10 de Fevereiro de 1947:
 
 Grupo 4 - Engenheiro electrotécnico de 3.ª classe.
 
@@ -143,7 +159,7 @@ Grupo 26 - Dactilógrafo.
 
 Quadro do pessoal de reserva - motorista de reserva.
 
-###### Art. 16.º Há concursos de admissão com estágio para as seguintes categorias e classes:
+Art. 16.º Há concursos de admissão com estágio para as seguintes categorias e classes:
 
 Grupo 3 - Telefonista internacional de 2.ª classe.
 
@@ -161,7 +177,7 @@ Guarda-fios de reserva.
 
 ...
 
-###### Art. 35.º ...
+Art. 35.º ...
 
 ...
 
@@ -169,7 +185,7 @@ Guarda-fios de reserva.
 
 ...
 
-###### Art. 67.º São documentais as seguintes provas:
+Art. 67.º São documentais as seguintes provas:
 
 a) As dos concursos de admissão para engenheiros, arquitectos e condutores de 3.ª classe, subinspector de serviço financeiro, assessor jurídico de 3.ª classe e médico, dos grupos 4, 5, 6, 7, 8, 9, 10, 11, 17, 19 e 21.
 
@@ -223,7 +239,7 @@ f) As dos concursos de promoção de engenheiros e arquitectos dos grupos 4, 5, 
 
 ...
 
-###### Art. 114.º ...
+Art. 114.º ...
 
 Condições especiais:
 
@@ -235,14 +251,14 @@ Condições especiais:
 
 ...
 
-###### Art. 115.º ...
+Art. 115.º ...
 
 ...
 
 § 4.º Nos casos referidos nas alíneas b), c) e e) do artigo 67.º as listas de classificações das provas documentais poderão ser publicadas no Diário do Governo independentemente das respeitantes às classificações das provas de exame.
 
-###### Art. 2.º Estas disposições são aplicáveis aos concursos que se encontram em expediente, salvo se à data da publicação do presente decreto estiverem já publicadas as listas definitivas dos concorrentes.
+Art. 2.º Estas disposições são aplicáveis aos concursos que se encontram em expediente, salvo se à data da publicação do presente decreto estiverem já publicadas as listas definitivas dos concorrentes.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Julho de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Carlos Gomes da Silva Ribeiro.

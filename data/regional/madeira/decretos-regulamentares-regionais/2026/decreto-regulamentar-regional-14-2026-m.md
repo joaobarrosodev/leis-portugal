@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/14/2026/07/20/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2026-1149265701
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-20T00:00:00Z'
+  retrieved_at: '2026-10-22T18:47:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 866d72e51dba080ed6502758289691d73e1da0f4956d49d03f0ef22eb9f3bf21
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2421edaaa8d79a0683899a0bb6f9f3648f1577f2d225b56897aa5f719e287ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:47:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
-- Turismo
-- Pessoal Dirigente
-- Governo Regional
-- Definição de Competências
-- Regulamentação de Atos Legislativos
-- Diretor Regional
-- Lei Orgânica
 - Arquipélago da Madeira
-- Orgânica
-- Política do Ambiente
+- Definição de Competências
 - Direção Regional do Ambiente e Mar
-- Secretaria Regional de Turismo
-- Ambiente e Cultura
+- Diretor Regional
+- Governo Regional
+- Lei Orgânica
+- Orgânica
+- Pessoal Dirigente
+- Política do Ambiente
+- Região Autónoma
+- Regulamentação de Atos Legislativos
+- Secretaria Regional de Turismo, Ambiente e Cultura
+- Turismo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
@@ -104,16 +103,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:890674844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:927416006:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:24/2024/M
+  label: Revoga, a partir de 21 de julho de 2026, nos termos do artigo 11.º do presente diploma, o Decreto Regulamentar Regional
+    n.º 24/2024/M, de 11 de outubro, Diário da República n.º 198/2024, Série I
+  source: null
+  date: '2024-10-11'
 article_structure:
   article_count: 12
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:47:07Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +153,7 @@ O [Decreto Regulamentar Regional n.º 9/2025/M](https://diariodarepublica.pt/dr/
 
 À DRAM são cometidas, entre outras, atribuições nas áreas da administração, gestão e regulação da qualidade do ambiente e economia circular, dos recursos hídricos, do litoral, da sustentabilidade e ação climática, e do mar e economia azul, integrando funções de inspeção e fiscalização ambiental.
 
-Assim, nos termos da alínea e) do n.º 1 do artigo 7.º, dos artigos 16.º e 26.º do [Decreto Regulamentar Regional n.º 9/2025/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2025-927416006), de 1 de agosto, e ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, e do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, na sua redação atual, o Governo Regional da Madeira decreta o seguinte:
+Assim, nos termos da alínea e) do n.º 1 do artigo 7.º, dos artigos 16.º e 26.º do [Decreto Regulamentar Regional n.º 9/2025/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2025-927416006), de 1 de agosto, e ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, e do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, na sua redação atual, o Governo Regional da Madeira decreta o seguinte:
 
 ### CAPÍTULO I — NATUREZA, MISSÃO, ATRIBUIÇÕES E ÓRGÃOS
 
@@ -300,10 +329,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 9 de julho de 2026.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 15 de julho de 2026.**
+Assinado em 15 de julho de 2026.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Paulo Duarte Barreto Ferreira.
+
+119949068

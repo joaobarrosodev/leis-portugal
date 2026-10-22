@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/56/2006/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/56-2006-540798
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:06:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d53a7813fe87466a06c2dd23bf26bd28e680ea42e448174ef21662d7c865947b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa78dadd0fff770d89e0038cd52d2c0025fcf8967b35b4654beea55ca036f3cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:06:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,28 +72,28 @@ subjects:
 - Adjudicação por Concurso Público
 - Adjudicação sem Concurso Público
 - Administração Central
+- Administração Local
+- Administração Regional
+- Agricultura
 - Ajuste Direto
 - Aproximação das Legislações
-- Garantia
 - Caderno de Encargos
-- Desenvolvimento Rural
 - Comissão de Acompanhamento
 - Concurso Público
 - Contrato
 - Contrato de Concessão
 - Controlo Orçamental
+- Desenvolvimento Rural
 - Empreitada de Obras Públicas
 - Empreiteiro de Obras Públicas
 - Fiscalização
-- Projeto de Investimento
+- Garantia
 - Jovem Agricultor
 - Obras Públicas
-- QCA III
 - Projecto Agrícola
-- Administração Local
+- Projeto de Investimento
+- QCA III
 - Regime Jurídico
-- Agricultura
-- Administração Regional
 relationships:
 - type: cites
   target: celex:32004L0018
@@ -114,13 +114,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:06:40Z'
   warnings: []
   errors: []
 ---

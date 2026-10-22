@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/05/09900/0005000051.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/94/2026/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/94-2026-1125313605
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-22T00:00:00Z'
+  retrieved_at: '2026-10-22T18:41:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 537387aa923f7b1f7e635f57fff033c03e3869f7d44feff7ef066c2f3a42d8cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9cb17a830efa450aa46f221f0fc43060976fbf8a61c254a99be6ffdc393895eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:41:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fundação
+- Cultura
 - Despesas Públicas
+- Fundação
 - Fundação Casa da Música
 - Fundação Centro Cultural de Belém
 - Fundação de Serralves
 - Fundo de Fomento Cultural
-- Cultura
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:64/2025
+  label: Altera, com efeitos a partir de 7 de maio de 2026, o n.º 1 e adita as subalíneas i) e ii) à alínea a) do n.º 1 da
+    Resolução do Conselho de Ministros n.º 64/2025, de 18 de março, Diário da República n.º 54/2025, Série I
+  source: null
+  date: '2025-03-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/2006/01/26/p/dre
   label: null
@@ -98,16 +104,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/64/2025/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/64/2025/03/18/p/dre
+- type: cites
+  target: pt:dre:175573:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:293718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:911303073:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:41:41Z'
   warnings: []
   errors: []
 ---
@@ -155,3 +189,5 @@ c) [...]
 4 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 7 de maio de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119948573

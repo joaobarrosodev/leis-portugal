@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45093-1963-693234
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-06-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:35:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57e834bdd4d014a52688b9296e59b496fd7e3f9945c655526346eacd91aaee8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96432f9fd1dd83fecbc33bdbee2ab0a2b254f5798d553f329c7b093e23cbedc1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:35:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586797:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:35:20Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +97,7 @@ Considerando o disposto na [Lei n.º 2078](https://diariodarepublica.pt/dr/detal
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Fica sujeita a servidão militar a área confinante com as instalações do Comando Naval de Angola, na ilha de Luanda, assim delimitada:
+Artigo 1.º Fica sujeita a servidão militar a área confinante com as instalações do Comando Naval de Angola, na ilha de Luanda, assim delimitada:
 
 a) A sudoeste, pela linha que une os vértices A e B, no azimute de 318º 01' 44'', de B para A;
 
@@ -101,9 +109,9 @@ d) A sueste, na baía, pela linha paralela à da máxima baixa-mar de águas viv
 
 § único. Os vértices A, B, C e D, devidamente assinalados no terreno, são definidos pelas seguintes coordenadas rectangulares, com origem no vértice do Observatório Astronómico de Luanda:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/06/15200/08030804.pdf))](https://files.diariodarepublica.pt/1s/1963/06/15200/08030804.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/06/15200/08030804.pdf)
 
-###### Art. 2.º Nos termos do disposto no artigo 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), na área sujeita a servidão militar são proibidos, sem prévia licença da autoridade militar competente, os trabalhos e actividades seguintes:
+Art. 2.º Nos termos do disposto no artigo 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), na área sujeita a servidão militar são proibidos, sem prévia licença da autoridade militar competente, os trabalhos e actividades seguintes:
 
 a) Movimento ou permanência de peões, semoventes e veículos nas áreas terrestres e movimento ou permanência de embarcações ou lançamento de redes ou outros equipamentos nas áreas marítimas, nas condições e durante os períodos de tempo considerados necessários;
 
@@ -125,7 +133,7 @@ g) Outros trabalhos ou actividades que possam inequìvocamente prejudicar a segu
 
 § 3.º As autarquias locais e as autoridades administrativas não poderão executar nem conceder licença para qualquer obra antes de ter sido dada a necessária autorização pela autoridade militar competente, salvo quando se trate de obras de reparação ou de simples conservação que não envolvam alteração de dimensões ou da configuração exterior.
 
-###### Art. 3.º As zonas indicadas no artigo 1.º serão demarcadas no plano hidrográfico do porto de Luanda (n.º 360), da Missão Hidrográfica de Angola e S. Tomé, na escala de 1/15000, sendo destinados exemplares às seguintes entidades:
+Art. 3.º As zonas indicadas no artigo 1.º serão demarcadas no plano hidrográfico do porto de Luanda (n.º 360), da Missão Hidrográfica de Angola e S. Tomé, na escala de 1/15000, sendo destinados exemplares às seguintes entidades:
 
 a) Secretariado-Geral da Defesa Nacional;
 
@@ -133,11 +141,11 @@ b) Ministério da Marinha;
 
 c) Ministério do Ultramar.
 
-###### Art. 4.º Compete ao Ministério da Marinha, pelo Comando Naval de Angola, ouvido o Estado-Maior da Armada, a concessão das licenças referidas no artigo 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070) e no artigo 2.º do presente decreto, ficando a cargo daquele Comando a fiscalização do exacto cumprimento da lei e da rigorosa observância das condições impostas nas licenças concedidas.
+Art. 4.º Compete ao Ministério da Marinha, pelo Comando Naval de Angola, ouvido o Estado-Maior da Armada, a concessão das licenças referidas no artigo 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070) e no artigo 2.º do presente decreto, ficando a cargo daquele Comando a fiscalização do exacto cumprimento da lei e da rigorosa observância das condições impostas nas licenças concedidas.
 
 § único. Das decisões tomadas ao abrigo deste artigo poderão os interessados recorrer para o Ministro da Defesa Nacional.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Junho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Fernando Quintanilha Mendonça Dias - António Augusto Peixoto Correia.
 

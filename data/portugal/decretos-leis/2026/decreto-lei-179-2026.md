@@ -46,26 +46,39 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/179/2026/09/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2026-1167595460
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-07T00:00:00Z'
+  retrieved_at: '2026-10-22T18:52:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4e8a5aad313e6f8af361626bc84e44d60f9d62b6feb6a7219b45a5390e7d763
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f28ef9367371147972eeb37859330ea280bbb98d7220ed5d1f315248decebec5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:52:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Diretivo
+- Definição de Competências
+- Instituto da Mobilidade e dos Transportes
+- Integração de Trabalhadores
+- Lei Geral do Trabalho em Funções Públicas
+- Orgânica
+- Sistema de Incentivos a Qualidade
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:78/2014
+  label: Altera, a partir de 01 de outubro de 2026, o artigo 5.º dos Estatutos da Autoridade da Mobilidade e dos Transportes
+    , aprovados em anexo ao Decreto-Lei n.º 78/2014, de 14 de maio, Diário da República n.º 92/2014, Série I
+  source: null
+  date: '2014-05-13'
 - type: cites
   target: celex:32016L0798
   label: null
@@ -118,16 +131,74 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:137444365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145102352:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145875116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204552603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66384004:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:236/2012
+  label: Revoga, a partir de 01 de outubro de 2026, nos termos do artigo 11.º do presente diploma o Decreto-Lei n.º 236/2012,
+    de 31 de outubro, Diário da República n.º 211/2012, Série I
+  source: null
+  date: '2012-10-31'
 article_structure:
   article_count: 28
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:52:23Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +221,7 @@ Face a este quadro crescente de responsabilidades, torna-se imprescindível capa
 
 Neste contexto, revela-se fundamental estabelecer uma nova orgânica para o IMT, I. P., e a sua capacidade, para cumprimento e desenvolvimento das suas atribuições, conferindo-lhe uma organização mais apta a apoiar o desenvolvimento de um sistema de infraestruturas, transportes e mobilidade mais intermodal, descarbonizado, digitalizado e financeiramente sustentável, em consonância com as transformações globais do setor.
 
-Tendo como desiderato assegurar a necessária capacidade organizativa da autoridade nacional de segurança, tal como exigido pela [Diretiva (UE) 2016/798](https://data.europa.eu/eli/dir/2016/798/oj?locale=pt) do Parlamento Europeu e do Conselho, de 11 de maio de 2016, relativa à segurança ferroviária, e pelo [Regulamento Delegado (UE) 2018/761](https://data.europa.eu/eli/reg/2018/761/oj?locale=pt) da Comissão, de 16 de fevereiro de 2018, que estabelece métodos comuns de segurança para a supervisão por autoridades nacionais após a emissão de certificados ou autorizações de segurança ferroviária, as competências atribuídas ao IMT, I. P., pelos Decretos-Leis n.<sup>os</sup>[85/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2020-145102352), de 13 de outubro, [91/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2020-145875116), de 20 de outubro, e [34/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2020-137444365), de 9 de julho, enquanto organismo nacional do Estado responsável pelas tarefas relacionadas com a segurança ferroviária e outros sistemas guiados, são transferidas para a Autoridade da Mobilidade e dos Transportes (AMT), com exceção do licenciamento do acesso à prestação de serviços de transporte ferroviário ou outros sistemas guiados pelos respetivos operadores.
+Tendo como desiderato assegurar a necessária capacidade organizativa da autoridade nacional de segurança, tal como exigido pela [Diretiva (UE) 2016/798](https://data.europa.eu/eli/dir/2016/798/oj?locale=pt) do Parlamento Europeu e do Conselho, de 11 de maio de 2016, relativa à segurança ferroviária, e pelo [Regulamento Delegado (UE) 2018/761](https://data.europa.eu/eli/reg/2018/761/oj?locale=pt) da Comissão, de 16 de fevereiro de 2018, que estabelece métodos comuns de segurança para a supervisão por autoridades nacionais após a emissão de certificados ou autorizações de segurança ferroviária, as competências atribuídas ao IMT, I. P., pelos Decretos-Leis n.os[85/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2020-145102352), de 13 de outubro, [91/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2020-145875116), de 20 de outubro, e [34/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2020-137444365), de 9 de julho, enquanto organismo nacional do Estado responsável pelas tarefas relacionadas com a segurança ferroviária e outros sistemas guiados, são transferidas para a Autoridade da Mobilidade e dos Transportes (AMT), com exceção do licenciamento do acesso à prestação de serviços de transporte ferroviário ou outros sistemas guiados pelos respetivos operadores.
 
 Em coerência com esta transferência de competências, procede-se ainda a um ajustamento pontual aos estatutos da AMT, aprovados pelo [Decreto-Lei n.º 78/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2014-25344768), de 14 de maio, assegurando a necessária correspondência formal entre o respetivo regime estatutário e o novo quadro de atribuições desta autoridade.
 
@@ -162,7 +233,7 @@ Ao abrigo do disposto no n.º 1 do artigo 16.º da [Lei n.º 3/2004](https://dia
 
 1 - O presente decreto-lei procede à reestruturação do Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), bem como à aprovação da respetiva orgânica.
 
-2 - O presente decreto-lei procede ainda à terceira alteração ao [Decreto-Lei n.º 78/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2014-25344768), de 14 de maio, alterado pelos Decretos-Leis n.<sup>os</sup>[18/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2015-66384004), de 2 de fevereiro, e [84-C/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), de 9 de dezembro, que aprova os estatutos da Autoridade da Mobilidade e dos Transportes (AMT).
+2 - O presente decreto-lei procede ainda à terceira alteração ao [Decreto-Lei n.º 78/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2014-25344768), de 14 de maio, alterado pelos Decretos-Leis n.os[18/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2015-66384004), de 2 de fevereiro, e [84-C/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), de 9 de dezembro, que aprova os estatutos da Autoridade da Mobilidade e dos Transportes (AMT).
 
 ###### Artigo 2.º — Reestruturação do Instituto da Mobilidade e dos Transportes, I. P.
 
@@ -170,7 +241,7 @@ Ao abrigo do disposto no n.º 1 do artigo 16.º da [Lei n.º 3/2004](https://dia
 
 ###### Artigo 3.º — Transferência de competências
 
-Com exceção das matérias atinentes ao planeamento e ao licenciamento do acesso à prestação de serviços de transporte ferroviário e outros sistemas guiados pelos respetivos operadores, as competências atribuídas ao IMT, I. P., pelos Decretos-Leis n.<sup>os</sup>[85/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2020-145102352), de 13 de outubro, [91/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2020-145875116), de 20 de outubro, e [34/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2020-137444365), de 9 de julho, enquanto organismo nacional do Estado responsável pelas tarefas relacionadas com a segurança ferroviária e outros sistemas guiados, são transferidas para a AMT.
+Com exceção das matérias atinentes ao planeamento e ao licenciamento do acesso à prestação de serviços de transporte ferroviário e outros sistemas guiados pelos respetivos operadores, as competências atribuídas ao IMT, I. P., pelos Decretos-Leis n.os[85/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2020-145102352), de 13 de outubro, [91/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2020-145875116), de 20 de outubro, e [34/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2020-137444365), de 9 de julho, enquanto organismo nacional do Estado responsável pelas tarefas relacionadas com a segurança ferroviária e outros sistemas guiados, são transferidas para a AMT.
 
 ###### Artigo 4.º — Processo de transição
 
@@ -314,15 +385,15 @@ O presente decreto-lei entra em vigor no primeiro dia útil do mês seguinte ao 
 
 Visto e aprovado em Conselho de Ministros de 9 de julho de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro - Miguel Martinez de Castro Pinto Luz.
 
-**Promulgado em 28 de agosto de 2026.**
+Promulgado em 28 de agosto de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 31 de agosto de 2026.**
+Referendado em 31 de agosto de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -510,7 +581,7 @@ f) Fiscalizar a aplicação das leis e regulamentos e demais normas aplicáveis 
 
 4 - O pessoal do IMT, I. P., e os agentes por este credenciados, titulares das prerrogativas previstas no n.º 2, devem exibir, no exercício das suas funções, um documento de identificação próprio, emitido de acordo com modelo aprovado pelo membro do Governo responsável pela área dos transportes.
 
-5 - Constitui contraordenação, punida com coima de montante não inferior a 1000,00 €, e com o máximo previsto na lei geral, a resistência a ações de fiscalização referidas nos n.<sup>os</sup>2 e 3.
+5 - Constitui contraordenação, punida com coima de montante não inferior a 1000,00 €, e com o máximo previsto na lei geral, a resistência a ações de fiscalização referidas nos n.os2 e 3.
 
 6 - O IMT, I. P., procede à publicação, na sua página eletrónica, das sanções aplicadas no âmbito dos procedimentos a que se refere o número anterior.
 
@@ -673,3 +744,5 @@ j) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outr
 ###### Artigo 15.º — Património
 
 O património do IMT, I. P., é constituído pela universalidade de bens, direitos e obrigações de que é titular.
+
+119949518

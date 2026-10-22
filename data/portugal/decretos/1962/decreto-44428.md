@@ -46,40 +46,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44428-1962-164590
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-11-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:29:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10c43490f21deffcac3b4087e0844dca30c028e65572f7fc0f7a66f4c1403634
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48cc1150df9395c0eb8e5bc4ae78610f5d4557f8388348891d85ca37f6a2f966
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:29:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cidadão Nacional
+- Circulação de Pessoas
+- Definição de Competências
+- Diretor
+- Emigração
+- Emigrante
+- Junta da Emigração
+- Menoridade
+- Mulher
+- Multa
+- Passaporte
+- PIDE
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:357279:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:194237:por
+  label: "Tornado extensivo às províncias ultramarinas, pela PORT.19756.12.03.1963.MU, DG.IS [60] de 12.03.1963, nos termos\
+    \ do nº II) da sua al. b).\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/19756-1963-194237
+  date: '1963-03-12'
+- type: amended_by
+  target: pt:dre:407354:por
+  label: "Dada nova redacção aos arts. 4º, 6º, 7º, 8º e 9º , e revogado o art. 10º pelo DEC.35/74.05.02.1974.PC, DG.IS [30]\
+    \ de 05.02.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/35-1974-407354
+  date: '1974-02-05'
+- type: amended_by
+  target: pt:dre:326372:por
+  label: "Aditado um novo art. 10º [em substituição do revogado pelo Dec 35/74 de 05-Fev] e dada nova redacção ao art. 13º\
+    \ pelo DR.45/78.23.11.1978.MAI, DR.IS [270] de 23.11.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/45-1978-326372
+  date: '1978-11-23'
+- type: cites
+  target: pt:dre:164589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638114:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:141616:por
+  label: "Revogados os §§ 1º, 2º, 3º, 4º e 5º do art. 10º pelo DEC LEI.347/70.25.07.1970.PC, DG.IS [172] de 25.07.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/347-1970-141616
+  date: '1970-07-25'
+- type: repealed_by
+  target: pt:dre:357279:por
+  label: "Revogados os arts. 4.º a 21.º (e suas alterações) pelo DEC LEI.438/88.29.11.1988.MAI, DR.IS [276] de 29.11.1988\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/438-1988-357279
+  date: '1988-11-29'
 article_structure:
-  article_count: 1
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:29:56Z'
   warnings: []
   errors: []
 ---
@@ -88,13 +142,13 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-## TÍTULO I
+TÍTULO I
 
 Do regime da emigração
 
 ### CAPÍTULO I — Disposições preliminares
 
-###### Artigo 1.º De harmonia com o artigo 3.º do [Decreto-Lei n.º 44427](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44427-1962-164589), desta data, consideram-se emigrantes:
+Artigo 1.º De harmonia com o artigo 3.º do [Decreto-Lei n.º 44427](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44427-1962-164589), desta data, consideram-se emigrantes:
 
 a) Os portugueses que saiam do território nacional para trabalharem em país estrangeiro;
 
@@ -106,7 +160,7 @@ d) Os portugueses que transfiram a sua residência para país estrangeiro em que
 
 § único. A acção tutelar do Estado em matéria de emigração exerce-se desde que o emigrante inicia os actos preparatórios da sua saída do território nacional até que regressa definitivamente ao País.
 
-###### Art. 2.º Não são considerados emigrantes:
+Art. 2.º Não são considerados emigrantes:
 
 a) Os indivíduos que se ausentarem para o estrangeiro em missão de estudo ou de serviço oficial;
 
@@ -126,7 +180,7 @@ h) Os indivíduos que ao serviço de entidades, patronais estabelecidas em terri
 
 ### CAPÍTULO II — Do recrutamento de emigrantes
 
-###### Art. 3.º O recrutamento no País de indivíduos de nacionalidade portuguesa para trabalharem no estrangeiro depende de autorização da Junta da Emigração, mediante parecer favorável da Direcção-Geral do Trabalho e Corporações.
+Art. 3.º O recrutamento no País de indivíduos de nacionalidade portuguesa para trabalharem no estrangeiro depende de autorização da Junta da Emigração, mediante parecer favorável da Direcção-Geral do Trabalho e Corporações.
 
 § 1.º Para efeitos do disposto neste artigo, a Junta da Emigração exigirá a prova da idoneidade e capacidade das entidades interessadas em cada recrutamento, bem como dos respectivos representantes.
 
@@ -134,13 +188,13 @@ h) Os indivíduos que ao serviço de entidades, patronais estabelecidas em terri
 
 § 3.º Nos contratos de trabalho respeitantes a recrutamentos efectuados pela Junta da Emigração, quando aqueles tenham merecido a aprovação das autoridades competentes do país de destino, poderá ser dispensada a sua legalização nos consulados de Portugal.
 
-## TÍTULO II
+TÍTULO II
 
 Dos passaportes para emigrantes
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Art. 4.º A concessão de passaporte de emigrante é pedida por meio de requerimento no qual o impetrante declare o país onde pretende estabelecer-se, e que será instruído com documentos destinados a provar:
+Art. 4.º A concessão de passaporte de emigrante é pedida por meio de requerimento no qual o impetrante declare o país onde pretende estabelecer-se, e que será instruído com documentos destinados a provar:
 
 1.º A sua identidade;
 
@@ -174,7 +228,7 @@ Dos passaportes para emigrantes
 
 § 6.º Em casos devidamente justificados poderá o Ministro do Interior permitir a concessão de passaporte de emigrante com dispensa dos requisitos a que se referem os n.os 7.º e 9.º deste artigo.
 
-###### Art. 5.º São competentes para a concessão de passaportes de emigrante:
+Art. 5.º São competentes para a concessão de passaportes de emigrante:
 
 No continente, o presidente da Junta da Emigração;
 
@@ -182,7 +236,7 @@ Nas ilhas adjacentes, os governadores dos respectivos distritos autónomos ou o 
 
 Nas províncias ultramarinas, os respectivos governadores.
 
-###### Art. 6.º São causas de indeferimento dos pedidos de concessão de passaporte de emigrante:
+Art. 6.º São causas de indeferimento dos pedidos de concessão de passaporte de emigrante:
 
 1.º A falta de qualquer dos requisitos referidos no artigo 4.º, sem prejuízo do, disposto nos §§ 4.º, 5.º e 6.º daquele artigo;
 
@@ -194,17 +248,17 @@ Nas províncias ultramarinas, os respectivos governadores.
 
 § único. O despacho que recusar a concessão de passaporte de emigrante será fundamentado. Deste despacho cabe recurso para o Ministro do Interior ou o do Ultramar, consoante os casos.
 
-###### Art. 7.º O passaporte para emigrante pode ser individual ou familiar.
+Art. 7.º O passaporte para emigrante pode ser individual ou familiar.
 
 § único. O passaporte familiar pode abranger o marido, a mulher e filhos menores de 14 anos, ou a mãe e filhos até àquela idade.
 
-###### Art. 8.º O passaporte de emigrante é válido para o país onde o titular pretende estabelecer-se, devendo nele averbar-se os países por onde o mesmo haja de transitar.
+Art. 8.º O passaporte de emigrante é válido para o país onde o titular pretende estabelecer-se, devendo nele averbar-se os países por onde o mesmo haja de transitar.
 
 § único. Os averbamentos em passaportes de emigrante ou ordinários emitidos a favor de indivíduos legalmente residentes no estrangeiro, quando os seus titulares se encontrem no País, são da competência das entidades referidas no artigo 5.º deste diploma.
 
-###### Art. 9.º O passaporte para emigrante, concedido nos termos do artigo 4.º deste decreto, é válido por quatro anos, improrrogáveis, e pode ser utilizado em número ilimitado de viagens.
+Art. 9.º O passaporte para emigrante, concedido nos termos do artigo 4.º deste decreto, é válido por quatro anos, improrrogáveis, e pode ser utilizado em número ilimitado de viagens.
 
-###### Art. 10.º O passaporte concedido a indivíduos que pretendam trabalhar temporàriamente em país estrangeiro terá o prazo de validade nele fixado, até ao limite de um ano, podendo, satisfeitas as condições legais, ser prorrogada a sua validade por uma ou mais vezes, até ao máximo de quatro anos.
+Art. 10.º O passaporte concedido a indivíduos que pretendam trabalhar temporàriamente em país estrangeiro terá o prazo de validade nele fixado, até ao limite de um ano, podendo, satisfeitas as condições legais, ser prorrogada a sua validade por uma ou mais vezes, até ao máximo de quatro anos.
 
 § 1.º A prorrogação do prazo de validade é da competência da autoridade que tiver concedido o passaporte; quando os interessados se encontrem no estrangeiro, deverá o pedido de prorrogação ser dirigido àquela entidade por intermédio da autoridade consular competente. Em qualquer caso porém, o respectivo pedido só poderá obter deferimento quando formulado antes de findo o prazo inicial ou já prorrogado.
 
@@ -218,11 +272,11 @@ Nas províncias ultramarinas, os respectivos governadores.
 
 ### CAPÍTULO II — Disposições especiais
 
-###### Art. 11.º Nos passaportes para emigrantes a emitir pelas autoridades das províncias ultramarinas observar-se-á, em tudo o que não seja incompatível com o estabelecido na legislação que nelas vigora, o disposto neste diploma relativamente a passaportes para emigrantes.
+Art. 11.º Nos passaportes para emigrantes a emitir pelas autoridades das províncias ultramarinas observar-se-á, em tudo o que não seja incompatível com o estabelecido na legislação que nelas vigora, o disposto neste diploma relativamente a passaportes para emigrantes.
 
 § único. A competência atribuída ao Ministro do Interior no § 6.º do artigo 4.º deste diploma pertence ao Ministro do Ultramar quando respeite a indivíduos residentes nas províncias ultramarinas.
 
-###### Art. 12.º A concessão de passaportes pelas autoridades consulares a favor de nacionais residentes nas respectivas áreas continua a fazer-se nos termos do Regulamento Consular e demais legislação aplicável.
+Art. 12.º A concessão de passaportes pelas autoridades consulares a favor de nacionais residentes nas respectivas áreas continua a fazer-se nos termos do Regulamento Consular e demais legislação aplicável.
 
 § 1.º Os passaportes concedidos pelas autoridades consulares permitem a entrada no País e o regresso ao lugar da residência, sem prejuízo do disposto nos n.os 6.º e 7.º do artigo 4.º deste diploma.
 
@@ -230,9 +284,9 @@ Nas províncias ultramarinas, os respectivos governadores.
 
 ### CAPÍTULO III — Do preenchimento do impresso do passaporte para emigrantes
 
-###### Art. 13.º Para os passaportes destinados a emigrantes que pretendam estabelecer-se definitivamente no estrangeiro será utilizado o impresso de passaporte ordinário, levando aposta na parte superior da primeira página e do lado direito, por baixo da numeração da série, em carimbo de tinta a óleo, a letra E, com as dimensões de 0,010 m x 0,010 m; nos passaportes emitidos a favor dos nacionais que pretendam apenas trabalhar temporàriamente no estrangeiro será aposta a letra T, com as dimensões e no local referidos.
+Art. 13.º Para os passaportes destinados a emigrantes que pretendam estabelecer-se definitivamente no estrangeiro será utilizado o impresso de passaporte ordinário, levando aposta na parte superior da primeira página e do lado direito, por baixo da numeração da série, em carimbo de tinta a óleo, a letra E, com as dimensões de 0,010 m x 0,010 m; nos passaportes emitidos a favor dos nacionais que pretendam apenas trabalhar temporàriamente no estrangeiro será aposta a letra T, com as dimensões e no local referidos.
 
-###### Art. 14.º O passaporte para emigrante só é válido quando as indicações respeitantes à entidade que o emitir e os espaços reservados à identificação do portador estiverem devidamente preenchidos, a parte manuscrita seja bem legível, não contenha rasuras ou emendas que suscitem dúvidas, as impressões digitais se apresentem nítidas, as fotografias possam reputar-se actualizadas, sem retoques ou modificações capazes de induzir em erro, e tenham sido, bem como a assinatura da autoridade que o emitir, autenticadas com respectivo selo branco.
+Art. 14.º O passaporte para emigrante só é válido quando as indicações respeitantes à entidade que o emitir e os espaços reservados à identificação do portador estiverem devidamente preenchidos, a parte manuscrita seja bem legível, não contenha rasuras ou emendas que suscitem dúvidas, as impressões digitais se apresentem nítidas, as fotografias possam reputar-se actualizadas, sem retoques ou modificações capazes de induzir em erro, e tenham sido, bem como a assinatura da autoridade que o emitir, autenticadas com respectivo selo branco.
 
 § 1.º Na indicação da autoridade que emite o passaporte é proibido o uso de carimbo circular.
 
@@ -240,36 +294,36 @@ Nas províncias ultramarinas, os respectivos governadores.
 
 ### CAPÍTULO IV — Das formalidades a que estão sujeitos os titulares de passaportes de emigrantes para poderem transpor as fronteiras
 
-###### Art. 15.º Os titulares de passaportes para emigrante só poderão sair do País ou a ele regressar pelos postos de fronteira oficialmente estabelecidos.
+Art. 15.º Os titulares de passaportes para emigrante só poderão sair do País ou a ele regressar pelos postos de fronteira oficialmente estabelecidos.
 
-###### Art. 16.º Os titulares de passaporte para emigrante em idade militar não poderão sair do território português sem exibir documento comprovativo da respectiva licença, quando a ela sujeitos, ou o que for exigível por lei.
+Art. 16.º Os titulares de passaporte para emigrante em idade militar não poderão sair do território português sem exibir documento comprovativo da respectiva licença, quando a ela sujeitos, ou o que for exigível por lei.
 
-###### Art. 17.º Os funcionários civis não aposentados nem na situação de licença ilimitada e os militares em qualquer situação quando portadores de passaporte para emigrante, não poderão transpor as fronteiras do território português sem exibirem a autorização do superior competente de que dependam.
+Art. 17.º Os funcionários civis não aposentados nem na situação de licença ilimitada e os militares em qualquer situação quando portadores de passaporte para emigrante, não poderão transpor as fronteiras do território português sem exibirem a autorização do superior competente de que dependam.
 
-###### Art. 18.º Quando, na concessão de passaportes a favor de famílias emigrantes, sejam emitidos em separado passaportes para o marido e sua mulher, ou para esta e filhos menores, neles será mencionado, por averbamento, que os seus titulares seguem na companhia, respectivamente, do cônjuge e do pai ou da mãe.
+Art. 18.º Quando, na concessão de passaportes a favor de famílias emigrantes, sejam emitidos em separado passaportes para o marido e sua mulher, ou para esta e filhos menores, neles será mencionado, por averbamento, que os seus titulares seguem na companhia, respectivamente, do cônjuge e do pai ou da mãe.
 
 § único. No caso de, após a emissão de passaportes nas circunstâncias previstas neste artigo, se verificar o impedimento de algum dos componentes do agregado familiar, as autoridades da fronteira não autorizarão a saída do País dos restantes familiares sem que seja convenientemente averbada a alteração havida em relação ao pedido.
 
 ### CAPÍTULO V — Da distribuição dos passaportes para emigrantes e fiscalização da sua emissão
 
-###### Art. 19.º Compete à Secretaria-Geral do Ministério do Interior a distribuição dos impressos de passaportes para emigrantes, pela Junta da Emigração e pelos governos dos distritos autónomos.
+Art. 19.º Compete à Secretaria-Geral do Ministério do Interior a distribuição dos impressos de passaportes para emigrantes, pela Junta da Emigração e pelos governos dos distritos autónomos.
 
-###### Art. 20.º A Junta da Emigração e os governos dos distritos autónomos enviarão directamente à Polícia Internacional e de Defesa do Estado, até ao dia 10 de cada mês, relação dos passaportes emitidos no mês anterior, utilizando para esse efeito o impresso do modelo anexo a este decreto.
+Art. 20.º A Junta da Emigração e os governos dos distritos autónomos enviarão directamente à Polícia Internacional e de Defesa do Estado, até ao dia 10 de cada mês, relação dos passaportes emitidos no mês anterior, utilizando para esse efeito o impresso do modelo anexo a este decreto.
 
-###### Art. 21.º No caso de inutilização de qualquer impresso de passaporte para emigrante, a entidade emissora enviará a primeira folha à Polícia Internacional e de Defesa do Estado para efeito de ser dada baixa nas relações dos impressos distribuídos e dos passaportes concedidos.
+Art. 21.º No caso de inutilização de qualquer impresso de passaporte para emigrante, a entidade emissora enviará a primeira folha à Polícia Internacional e de Defesa do Estado para efeito de ser dada baixa nas relações dos impressos distribuídos e dos passaportes concedidos.
 
 ### CAPÍTULO VI — Da estatística do movimento emigratório
 
-###### Art. 22.º Compete à Junta da Emigração proceder à recolha dos elementos estatísticos do movimento emigratório do continente e ilhas adjacentes, a. remeter ao Instituto Nacional de Estatística, de harmonia com a lei e com as instruções de, ordem técnica emanadas deste organismo.
+Art. 22.º Compete à Junta da Emigração proceder à recolha dos elementos estatísticos do movimento emigratório do continente e ilhas adjacentes, a. remeter ao Instituto Nacional de Estatística, de harmonia com a lei e com as instruções de, ordem técnica emanadas deste organismo.
 
 ### CAPÍTULO VII — Disposição final
 
-###### Art. 23.º Os casos omissos neste diploma e as dúvidas suscitadas na sua aplicação serão resolvidos por despacho do Ministro do Interior, sob proposta fundamentada da Junta da Emigração.
+Art. 23.º Os casos omissos neste diploma e as dúvidas suscitadas na sua aplicação serão resolvidos por despacho do Ministro do Interior, sob proposta fundamentada da Junta da Emigração.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Junho de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - Alberto Marciano Gorjão Franco Nogueira - Adriano José Alves Moreira - José João Gonçalves de Proença.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/06/14700/08900893.pdf))](https://files.diariodarepublica.pt/1s/1962/06/14700/08900893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/06/14700/08900893.pdf)
 
 Ministério do Interior, 29 de Junho de 1962. - O Ministro do Interior, Alfredo Rodrigues dos Santos Júnior.

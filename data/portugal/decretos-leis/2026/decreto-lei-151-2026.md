@@ -47,40 +47,53 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/151/2026/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2026-1153221700
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:48:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80b95b7829ad03662afcc2d5c4385516366aff293d406e06b3714f0dd78c2a39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54d9ad75ad8f828c0b0ce4cbb3ea538959b1f60f1e46a7bf1df7264b41a3d941
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:48:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Alojamento local
+- Associação de Municípios
+- Autarquia Local
+- Madeira.região Autónoma
+- Município
+- Prazo
+- Regulamento
+- Suspensão de Prazo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/128/2014/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/128/2014/08/29/p/dre
+- type: cites
+  target: pt:dre:56384880:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:48:28Z'
   warnings: []
   errors: []
 ---
@@ -151,12 +164,14 @@ d) Cessação do prazo limite a que se referem o n.º 2 do artigo 3.º e o n.º 
 
 Visto e aprovado em Conselho de Ministros de 11 de junho de 2026. - Luís Montenegro - Manuel Castro Almeida - Hugo Morato Alface do Espírito Santo.
 
-**Promulgado em 15 de julho de 2026.**
+Promulgado em 15 de julho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 16 de julho de 2026.**
+Referendado em 16 de julho de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119949201

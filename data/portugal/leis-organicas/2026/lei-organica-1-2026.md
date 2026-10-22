@@ -102,6 +102,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/97/2017/08/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/97/2017/08/23/p/dre
+- type: cites
+  target: pt:dre:108041476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581619:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1123539997:por
+  label: Retificado (n.º 11 do artigo 6.º da Lei da Nacionalidade, aprovada pela Lei n.º 37/81, de 3 de outubro) o artigo
+    2.º constante da republicação em anexo à presente Lei, pelo(a) Declaração de Retificação n.º 17/2026/1 - Diário da República
+    n.º 95/2026, Série I de 2026-05-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/17-2026-1123539997
+  date: '2026-05-18'
 article_structure:
   article_count: 51
   section_count: 16

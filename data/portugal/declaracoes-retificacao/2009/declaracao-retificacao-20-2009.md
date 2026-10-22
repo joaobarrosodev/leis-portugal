@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/20/2009/03/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2009-605319
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-05T00:00:00Z'
+  retrieved_at: '2026-10-22T19:11:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8ae33833560c6ffc707a6f02cefa43ef8b64885cec2d523eeae322e5e085fe3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3c46c70daf3d8b91233b5c7ad78244efa3c6ac6c3c9a21581cc32beec4dc2c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:11:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Incêndio
-- Prevenção de Incêndios
-- Financiamento
+- Autoridade Florestal Nacional
+- Autoridade Nacional de Protecção Civil
 - Definição de Competências
-- Proteção da Floresta
+- Equipamento de Combate a Incêndios
+- Exploração Florestal
+- Financiamento
 - Fiscalização
+- Incêndio
 - Ordenamento Florestal
 - Plano Municipal de Defesa da Floresta contra Incêndios
 - Plano Nacional de Defesa da Floresta contra Incêndios
-- Exploração Florestal
-- Autoridade Florestal Nacional
 - Política Florestal
-- Autoridade Nacional de Protecção Civil
-- Equipamento de Combate a Incêndios
+- Prevenção de Incêndios
+- Proteção da Floresta
 relationships:
 - type: amended_by
   target: pt:dre:2119899:por
@@ -103,16 +103,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/14/2004/05/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/14/2004/05/08/p/dre
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:17/2009
+  label: "Rectifica o Decreto-Lei n.º 17/2009, de 14 de Janeiro, DR.IS [9], que altera o Decreto-Lei n.º 124/2006, de 28 de\
+    \ Junho, e procede à sua republicação\0\0"
+  source: null
+  date: '2009-01-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:11:12Z'
   warnings: []
   errors: []
 ---

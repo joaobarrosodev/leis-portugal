@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/04/07800/0000300034.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/2/2024/04/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/2-2024-861658956
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-04-19T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 707719fa4db5674849986f81efb6dc8dfd2ad263309405bfe025c413d418c575
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f81fff158b7a31475ef0308a69510efc8a0eca8c6fe9aeb54adc0f177f3df79b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Processo Penal
 - Código de Processo Penal
 - Código do Processo Civil
 - Interpretação do Direito
 - Jurisprudencia
-- Supremo Tribunal de Justiça
 - Principio NE BIS IN IDEM
+- Processo Penal
+- Recurso
+- Supremo Tribunal de Justiça
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/20/2013/02/21/p/dre
@@ -104,16 +104,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiconst/1/1997/09/20/p/dre
   label: null
   source: http://data.dre.pt/eli/leiconst/1/1997/09/20/p/dre
+- type: cites
+  target: pt:dre:1099516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176235804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662562:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:11Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +194,7 @@ Assegurado o contraditório, não houve resposta ao parecer.
 
 2 - No modesto, mas firme entendimento da arguida/recorrente, os presentes autos configuram e evidenciam, um complexo de situações que se enquadram na figura da violação da excepção de caso julgado, na sua dupla vertente, logo e em primeira linha por força da contraposição com a citada douta Sentença proferida no Tribunal Criminal de Braga (Proc. n.º 333/05.OIDBRG), a qual transitou em julgado em 31/01/2018 - cuja certidão judicial se encontra junta a fls._ autos -,
 
-3 - E, por outro lado, configuram também e evidenciam uma situação de violação flagrante da excepção de Autoridade de caso julgado, quanto à factualidade respeitante à pretensa emissão e, ou, utilização de faturas falsas, quer pela sociedade L..., L.<sup>da</sup>, quer pela sociedade R..., L.<sup>da</sup>, quer no que ao caso mais interessa, pela arguida/Recorrente, AA, a qual em qualquer das anteriores decisões judiciais, já transitadas em julgado, foi sempre absolvida da imputação do exercício da gerência de facto, quer de uma, quer de outra das sociedades comerciais.
+3 - E, por outro lado, configuram também e evidenciam uma situação de violação flagrante da excepção de Autoridade de caso julgado, quanto à factualidade respeitante à pretensa emissão e, ou, utilização de faturas falsas, quer pela sociedade L..., L.da, quer pela sociedade R..., L.da, quer no que ao caso mais interessa, pela arguida/Recorrente, AA, a qual em qualquer das anteriores decisões judiciais, já transitadas em julgado, foi sempre absolvida da imputação do exercício da gerência de facto, quer de uma, quer de outra das sociedades comerciais.
 
 Sucede que,
 
@@ -212,7 +252,7 @@ Acresce dizer,
 
 12 - O caso julgado pressupõe a identidade do objecto do processo, tendo por referência os poderes de cognição do tribunal e os factos que constituem “o mesmo crime”, na acepção jurídico-penal.
 
-13 - Os presentes autos para além de configurarem, como supra já se explicou, uma situação de violação da excepção de caso julgado, proveniente da supracitada e douta Sentença proferida no Tribunal criminal de Braga, a qual transitou em julgado em 31/01/2018, configuram também e evidenciam uma situação de violação flagrante da excepção de Autoridade de caso julgado, quanto à factualidade respeitante à pretensa emissão e, ou, utilização de faturas falsas, quer pela sociedade L..., L.<sup>da</sup>, quer pela sociedade R..., L.<sup>da</sup>, quer no que ao caso mais interessa, pela arguida/Recorrente BB.
+13 - Os presentes autos para além de configurarem, como supra já se explicou, uma situação de violação da excepção de caso julgado, proveniente da supracitada e douta Sentença proferida no Tribunal criminal de Braga, a qual transitou em julgado em 31/01/2018, configuram também e evidenciam uma situação de violação flagrante da excepção de Autoridade de caso julgado, quanto à factualidade respeitante à pretensa emissão e, ou, utilização de faturas falsas, quer pela sociedade L..., L.da, quer pela sociedade R..., L.da, quer no que ao caso mais interessa, pela arguida/Recorrente BB.
 
 14 - Pelo que, tudo visto, é manifesto que o douto Acórdão do Tribunal da Relação, recorrido violou a força e a autoridade do caso julgado decorrente de tudo quanto foi decidido, quer no que diz respeito à questão de facto, quer no que diz respeito à questão de direito, decididas na douta Sentença absolutória, já transitada em julgado, e proferida no supra citado processo n.º 333/05.0IDBRG - aplicação conjugada do disposto nos arts. 2.º, 29.º, n.º 5 e 32.º da CRP e arts. 576.º, 577.º, al i), 578.º, 580.º, 581.º, 619.º e 620.º C.P. Civil - ver doc. n.º 1 - (Sentido em que deve ser fixada a jurisprudência (n.º 2 do art. 442.º do CPP):
 
@@ -288,7 +328,7 @@ Do acórdão do Tribunal da Relação, confirmativo de decisão da primeira inst
 
 2.1 - Da oposição de julgados
 
-Nos termos do art. 440.º, n.<sup>os</sup>3 e 4 do CPP, compete à conferência decidir sobre a admissibilidade do recurso extraordinário de fixação de jurisprudência, aferindo dos respectivos pressupostos formais e materiais, enunciados nos arts. 437.º e 438.º do CPP.
+Nos termos do art. 440.º, n.os3 e 4 do CPP, compete à conferência decidir sobre a admissibilidade do recurso extraordinário de fixação de jurisprudência, aferindo dos respectivos pressupostos formais e materiais, enunciados nos arts. 437.º e 438.º do CPP.
 
 Para tanto, foi proferido o acórdão de 16.03.2022, que, tendo-se decidido pela verificação da oposição prevista no art. 437.º do CPP, determinou o prosseguimento do processo. No entanto, esta decisão não vincula o Pleno das Secções Criminais, pelo que cumpre começar por saber se se verificam realmente os pressupostos do recurso de fixação de jurisprudência.
 
@@ -334,7 +374,7 @@ Deste modo, também a essa luz, sempre o vertente recurso das arguidas teria de 
 
 Conclui-se, por isso, pela inadmissibilidade legal do recurso das arguidas na parte em que visam o reexame da respetiva condenação penal. Com a consequente rejeição em obediência ao disposto nos artigos 432.º n.º 1 al.ª b) e 400.º n.º 1 al.ª e) do CPP - cfr arts. 420.º n,º 1 al.ª b) e 414.º n.º 2 da mesma compilação normativa.”
 
-Neste processo, a arguida/recorrente fora condenada por um crime de fraude fiscal qualificado na forma continuada, e defendera em recurso que, tendo sido acusada por crime de fraude fiscal qualificada dos mesmos arts. 103.º e 104.º n.<sup>os</sup>1 e 2 do RGIT noutro processo, do qual fora anteriormente absolvida por acórdão transitado em julgado, ocorreria violação de caso julgado (material) por os factos novos integrarem a mesma continuação criminosa já conhecida naquele primeiro processo. Tese que não logrou obter vencimento, na Relação.
+Neste processo, a arguida/recorrente fora condenada por um crime de fraude fiscal qualificado na forma continuada, e defendera em recurso que, tendo sido acusada por crime de fraude fiscal qualificada dos mesmos arts. 103.º e 104.º n.os1 e 2 do RGIT noutro processo, do qual fora anteriormente absolvida por acórdão transitado em julgado, ocorreria violação de caso julgado (material) por os factos novos integrarem a mesma continuação criminosa já conhecida naquele primeiro processo. Tese que não logrou obter vencimento, na Relação.
 
 Já no acórdão fundamento considerou-se:
 
@@ -412,7 +452,7 @@ Os pontos 70 a 75 do n.º 2 do artigo 2.º da lei de autorização (sentido e ex
 
 Por seu lado, a nota preambular do CPP/87, aprovado pelo [Decreto-Lei n.º 78/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1987-662562), de 17 de Fevereiro, qualifica o regime de recursos como "inovador", estabelecido na perspectiva da obtenção de um amplo efeito ("potenciar a economia processual numa óptica de celeridade e eficiência e, ao mesmo tempo, emprestar efectividade à garantia contida num duplo grau de jurisdição autêntico"), assim autonomizado como modelo próprio para realizar finalidades específicas do processo penal.
 
-A intenção e a autonomia do modelo mantêm-se após a reformulação do regime de recursos na reforma de 1998 ([Lei n.º 58/98](https://diariodarepublica.pt/dr/detalhe/lei/58-1998-437233), de 25 de Agosto), a formulação reguladora das diversas modulações nos recursos (tribunal singular, tribunal colectivo e tribunal do júri; matéria de facto e matéria de direito; tribunais da relação e Supremo Tribunal de Justiça; oralidade e audiência no tribunal de recurso) continua a constituir um sistema com regras próprias e específicas do processo penal (cf. a exposição de motivos da proposta de Lei n.º 157/VII, n.<sup>os</sup>15 e 16).
+A intenção e a autonomia do modelo mantêm-se após a reformulação do regime de recursos na reforma de 1998 ([Lei n.º 58/98](https://diariodarepublica.pt/dr/detalhe/lei/58-1998-437233), de 25 de Agosto), a formulação reguladora das diversas modulações nos recursos (tribunal singular, tribunal colectivo e tribunal do júri; matéria de facto e matéria de direito; tribunais da relação e Supremo Tribunal de Justiça; oralidade e audiência no tribunal de recurso) continua a constituir um sistema com regras próprias e específicas do processo penal (cf. a exposição de motivos da proposta de Lei n.º 157/VII, n.os15 e 16).
 
 A autonomia do modelo e das soluções processuais que contempla coloca-o a par dos regimes de recursos de outras modalidades de processo, independente e com vocação de completude, com soluções que pretendem responder, por inteiro e sem espaços vazios, às diversas hipóteses que prevê”.
 
@@ -668,7 +708,7 @@ E resulta incontroverso que a autonomia total do modelo e regime dos recursos em
 
 Mantém-se, com o sentido conhecido dado pela jurisprudência do Supremo Tribunal de Justiça, sempre sem censura de constitucionalidade (veja-se o acórdão do TC n.º 76/2023, de 14-03-2023), e em interpretação necessariamente sabida e conhecida, e até agora não contrariada, pelo legislador.
 
-Na verdade, não ocorreu alteração legislativa nesta parte nas grandes reformas operadas pelas Leis n.<sup>os</sup>48/2007, de 29 de Agosto, e 20/2013, de 21 de Fevereiro, nem na recente [Lei n.º 94/2021](https://diariodarepublica.pt/dr/detalhe/lei/94-2021-176235804), de 21 de Dezembro, que introduziu igualmente alterações em matéria de recursos. O que podia ter sido feito, se essa fosse a intenção do legislador, tanto mais que, repete-se, é conhecida a jurisprudência do Supremo Tribunal de Justiça a este propósito, bem como a ausência de censura por parte do Tribunal Constitucional à interpretação maioritariamente seguida.
+Na verdade, não ocorreu alteração legislativa nesta parte nas grandes reformas operadas pelas Leis n.os48/2007, de 29 de Agosto, e 20/2013, de 21 de Fevereiro, nem na recente [Lei n.º 94/2021](https://diariodarepublica.pt/dr/detalhe/lei/94-2021-176235804), de 21 de Dezembro, que introduziu igualmente alterações em matéria de recursos. O que podia ter sido feito, se essa fosse a intenção do legislador, tanto mais que, repete-se, é conhecida a jurisprudência do Supremo Tribunal de Justiça a este propósito, bem como a ausência de censura por parte do Tribunal Constitucional à interpretação maioritariamente seguida.
 
 O art. 432.º do CPP delimita os casos de recurso para o Supremo Tribunal de Justiça, a lei processual penal contempla taxativamente os recursos extraordinários previstos - que são o recurso para fixação de jurisprudência, o recurso interposto de decisão proferida contra jurisprudência fixada pelo Supremo Tribunal de Justiça (artigos 437.º e 446.º do CPP) e o recurso de revisão (artigo 449.º do CPP) - e não prevê a revista excepcional sobre objecto penal, como se notou no acórdão do STJ de 04.12.2019, já citado.
 
@@ -869,3 +909,5 @@ Só assim a interpretação das regras processuais penais em matéria de recurso
 Tal como escreve Cunha Rodrigues “Quando os modelos organizativos envelhecem, compete ao juiz encontrar no sistema de normas espaços de intervenção que o habilitem a fazer valer os valores da justiça” (Recursos, Jornadas de Direito Processual Penal - O novo Código de Processo Penal, Coimbra: Almedina, 1991, p. 383).
 
 Supremo Tribunal de Justiça, 31 de janeiro de 2024. - Helena Moniz.
+
+117608375

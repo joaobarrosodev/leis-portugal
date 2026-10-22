@@ -47,26 +47,37 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/180/2026/09/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-2026-1168451281
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-09T00:00:00Z'
+  retrieved_at: '2026-10-22T18:52:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40d10e9c4bb8709ea86738acb73baea49dfc0017c62b7221da4586f9faf45d2a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0bc13458f76c0f4a2bea0dcf8f6908ae51c19e9962eb8a834b970d0077ca321b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:52:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código Comercial
+- Gestão Orçamental
+- Juros
+- Orçamento do Estado
+- Pagamento em Atraso
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:127/2012
+  label: Altera, a partir de 10 de setembro de 2026, os artigos 4.º, 5.º, 7.º e 14.º Decreto-Lei n.º 127/2012, de 21 de junho,
+    Diário da República n.º 119/2012, Série I
+  source: null
+  date: '2012-06-20'
 - type: cites
   target: celex:32011L0007
   label: null
@@ -107,20 +118,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:1128264721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66773610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67356343:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32011L0007
   label: null
   source: null
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:52:45Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +202,9 @@ Os artigos 4.º, 5.º, 7.º e 14.º [Decreto-Lei n.º 127/2012](https://diarioda
 
 2 - [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -181,7 +230,9 @@ g) [...]
 
 5 - [Anterior n.º 4.]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Até ao 5.º dia útil de cada mês, deve a entidade coordenadora do programa proceder à fixação dos fundos disponíveis das entidades do programa, a partir da comunicação mensal da Entidade Orçamental, prevista no n.º 4 do artigo 5.º, dando indicação sobre o limite a considerar no que respeita às alíneas a), b) e d) do n.º 1 do artigo 5.º relativamente a cada programa.
 
@@ -205,11 +256,13 @@ e) [...]
 
 6 - [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [Anterior corpo do artigo.]
 
-2 - Após o termo do prazo fixado nos n.<sup>os</sup>1 a 3 do artigo 5.º do [Decreto-Lei n.º 62/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2013-261160), de 10 de maio, o credor tem direito aos juros de mora legais pelo período correspondente à mora, sem necessidade de interpelação, conforme previsto no n.º 4 do artigo 5.º do referido decreto-lei.
+2 - Após o termo do prazo fixado nos n.os1 a 3 do artigo 5.º do [Decreto-Lei n.º 62/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2013-261160), de 10 de maio, o credor tem direito aos juros de mora legais pelo período correspondente à mora, sem necessidade de interpelação, conforme previsto no n.º 4 do artigo 5.º do referido decreto-lei.
 
 3 - Os juros de mora legais aplicáveis aos atrasos de pagamentos das transações comerciais entre empresas e entidades públicas são os estabelecidos no Código Comercial.»
 
@@ -219,12 +272,14 @@ O presente decreto-lei entra e vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de julho de 2026. - Luís Montenegro - Joaquim Miranda Sarmento.
 
-**Promulgado em 2 de setembro de 2026.**
+Promulgado em 2 de setembro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 4 de setembro de 2026.**
+Referendado em 4 de setembro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119949549

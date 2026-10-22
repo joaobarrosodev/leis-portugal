@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/105/2026/06/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/105-2026-1128264727
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-01T00:00:00Z'
+  retrieved_at: '2026-10-22T18:42:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8ffa119f9612ed579c418e2461809735142ae2d71bd59f33d48d34c32a3a9fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6cc78c447524866708b56ccee45fb714513f77b5c532a7bafd75ab621e9fcca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:42:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Unidade Local de Saúde da Região de Leiria
 - Conselho de Administração
 - Conselho de Ministros
 - Nomeação
 - Vogal
-- Unidade Local de Saúde da Região de Leiria
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133/2013/10/03/p/dre
@@ -91,16 +91,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:837096671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:905291929:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:42:40Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +139,7 @@ Tendo em vista melhorar a prestação de cuidados de saúde e reforçar o acesso
 
 Para se alcançar este desiderato, ou seja, fortalecer a capacidade de resposta das entidades integradas no SNS, é necessário que a respetiva gestão seja assegurada por um conselho de administração capaz de adotar estratégias eficazes, quer de planeamento quer de gestão eficiente dos recursos disponíveis.
 
-Atendendo à vacatura do cargo de vogal executivo com o pelouro financeiro, por renúncia da anterior titular, procede-se à designação de um novo titular para este cargo, para completar o mandato em curso do atual conselho de administração da Unidade Local de Saúde da Região de Leiria, E. P. E., designado pelos Despachos n.<sup>os</sup> [523/2024](https://diariodarepublica.pt/dr/detalhe/despacho/523-2024-837096671), publicado no Diário da República, 2.ª série, n.º 13, de 18 de janeiro de 2024, e [1305/2025](https://diariodarepublica.pt/dr/detalhe/despacho/1305-2025-905291929), publicado no Diário da República, 2.ª série, n.º 20, de 29 de janeiro de 2025, ambos do Diretor Executivo do Serviço Nacional de Saúde.
+Atendendo à vacatura do cargo de vogal executivo com o pelouro financeiro, por renúncia da anterior titular, procede-se à designação de um novo titular para este cargo, para completar o mandato em curso do atual conselho de administração da Unidade Local de Saúde da Região de Leiria, E. P. E., designado pelos Despachos n.os [523/2024](https://diariodarepublica.pt/dr/detalhe/despacho/523-2024-837096671), publicado no Diário da República, 2.ª série, n.º 13, de 18 de janeiro de 2024, e [1305/2025](https://diariodarepublica.pt/dr/detalhe/despacho/1305-2025-905291929), publicado no Diário da República, 2.ª série, n.º 20, de 29 de janeiro de 2025, ambos do Diretor Executivo do Serviço Nacional de Saúde.
 
 A remuneração dos membros do conselho de administração da Unidade Local de Saúde da Região de Leiria, E. P. E., obedece ao disposto no n.º 5 da [Resolução do Conselho de Ministros n.º 18/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/18-2012-542993), de 21 de fevereiro, e à classificação atribuída pela [Resolução do Conselho de Ministros n.º 36/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/36-2012-553924), de 26 de março, na sua redação atual.
 
@@ -119,7 +147,7 @@ Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](h
 
 Assim:
 
-Nos termos dos n.<sup>os</sup>2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, do artigo 12.º, dos n.<sup>os</sup>1 a 3 e 5 do artigo 13.º, do artigo 15.º e da alínea c) do n.º 3 do artigo 20.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos dos n.os2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, do artigo 12.º, dos n.os1 a 3 e 5 do artigo 13.º, do artigo 15.º e da alínea c) do n.º 3 do artigo 20.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Designar, para exercer funções como vogal executiva no conselho de administração da Unidade Local de Saúde da Região de Leiria, E. P. E., Graciete Maria Coelho Raposo Campos, cuja idoneidade, experiência e competências profissionais para o desempenho do cargo são evidenciadas na respetiva nota curricular, que consta do anexo à presente resolução e da qual faz parte integrante.
 
@@ -206,3 +234,5 @@ Diretora de serviços da Direção de Serviços de Gestão Financeira do Institu
 Chefe de divisão da Divisão Financeira do Município de Leiria, de 1 de maio de 2016 a 30 de abril de 2020;
 
 Coordenadora de serviços da Divisão Financeira do Município de Leiria, de 15 de julho de 2014 a 30 de abril de 2016.
+
+119948652

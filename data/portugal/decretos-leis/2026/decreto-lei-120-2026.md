@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/120/2026/06/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2026-1135578392
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-23T00:00:00Z'
+  retrieved_at: '2026-10-22T18:44:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df5c3e26de30d454435c45d3c6df862a6a250b0dab5756bf99945408c9ed6a76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 031748be3d1ef09a389f568c294251ec10295e531f4f695e41572abb465e18ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:44:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Embarcação
-- CE Países
-- Tráfego Marítimo
 - Autoridade Marítima Nacional
+- CE Países
+- Embarcação
 - Equipamento Eletrónico
-- União Europeia
 - Fiscalização
 - Normas de Segurança
 - Proteção do Ambiente
 - Segurança da Navegação
 - Segurança Marítima
+- Tráfego Marítimo
+- União Europeia
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:180/2004
+  label: Altera, a partir de 24 de junho de 2026, o anexo i do Decreto-Lei n.º 180/2004, de 27 de julho, Diário da República
+    n.º 175/2004, Série I-A
+  source: null
+  date: '2004-07-27'
 - type: cites
   target: celex:32002L0059
   label: null
@@ -115,6 +121,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/62/2015/06/12/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/62/2015/06/12/p/dre
+- type: cites
+  target: pt:dre:108052024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67468087:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32002L0059
   label: null
@@ -126,13 +164,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:44:36Z'
   warnings: []
   errors: []
 ---
@@ -169,15 +207,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de abril de 2026. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - José Manuel Fernandes.
 
-**Promulgado em 15 de junho de 2026.**
+Promulgado em 15 de junho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 16 de junho de 2026.**
+Referendado em 16 de junho de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -228,3 +266,5 @@ A Convenção Internacional sobre a Responsabilidade Civil por Danos Resultantes
 A Convenção Internacional de Nairóbi sobre a Remoção de Destroços de 2007, incorporada na ordem jurídica interna através do [Decreto n.º 28/2017](https://diariodarepublica.pt/dr/detalhe/decreto/28-2017-108052024), de 25 de agosto.
 
 6 - [...]»
+
+119948839

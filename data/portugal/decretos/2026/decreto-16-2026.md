@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/06/10900/0009500106.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/16/2026/06/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/16-2026-1130121311
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-08T00:00:00Z'
+  retrieved_at: '2026-10-22T18:43:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e68d6bb8a0d5c402464fc80134597f285962344bf82a1d99e7d142b22f1b63e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16c9dbfcf7e4910d12a1c1b8c2e7dd17116bf39c4e670bcebdf8573cf1d393f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:43:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Cinema
 - Convenção
+- França
+- Indústria Cinematográfica
+- Porto
 - Portugal
 - Produção Cinematográfica
-- Cinema
-- Indústria Cinematográfica
-- França
-- Porto
 relationships:
 - type: cites
   target: celex:32014R0651
@@ -81,13 +81,13 @@ relationships:
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:43:16Z'
   warnings: []
   errors: []
 ---
@@ -106,15 +106,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 23 de abril de 2026. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Fernando Alexandre - Margarida Balseiro Lopes.
 
-**Assinado em 28 de maio de 2026.**
+Assinado em 28 de maio de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 29 de maio de 2026.**
+Referendado em 29 de maio de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ACORDO RELATIVO À COPRODUÇÃO CINEMATOGRÁFICA ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA FRANCESA
 
@@ -176,13 +176,13 @@ b) Para a República Portuguesa, o Instituto do Cinema e do Audiovisual.
 
 3 - As pessoas que não tenham a nacionalidade dos Estados acima referidos, mas sejam titulares de autorização de residência portuguesa ou francesa, ou de documento equivalente emitido por um Estado-Membro da União Europeia ou por outro Estado Parte no Acordo relativo ao Espaço Económico Europeu, são assimiladas, para este efeito, aos nacionais da República Portuguesa ou da República Francesa.
 
-4 - Excecionalmente, as autoridades competentes de ambas as Partes podem admitir, de comum acordo, a participação de colaboradores artísticos e técnicos que não reúnam as condições de nacionalidade ou residência descritas nos n.<sup>os</sup> 2 e 3 supra.
+4 - Excecionalmente, as autoridades competentes de ambas as Partes podem admitir, de comum acordo, a participação de colaboradores artísticos e técnicos que não reúnam as condições de nacionalidade ou residência descritas nos n.os 2 e 3 supra.
 
 5 - As filmagens de estúdio devem ser realizadas nos territórios dos Estados dos coprodutores.
 
 6 - Excecionalmente, as autoridades competentes das duas Partes podem permitir, de comum acordo, que as filmagens de exteriores sejam efetuadas no território de um Estado não parte no presente Acordo, se o argumento da obra cinematográfica assim o exigir.
 
-7 - Os n.<sup>os</sup> 5 e 6 do presente artigo aplicam-se em conformidade com as regras da União Europeia relativas ao direito dos auxílios estatais aplicáveis no domínio do cinema, nomeadamente as previstas na Comunicação da Comissão sobre auxílios estatais a obras cinematográficas e outras obras audiovisuais (2013/C 332/01) publicada no Jornal Oficial da União Europeia em 15 de novembro de 2013, ou no [Regulamento (UE) n.º 651/2014](https://data.europa.eu/eli/reg/2014/651/oj?locale=pt) da Comissão, de 16 de junho de 2014, que declara certas categorias de auxílio compatíveis com o mercado interno, em aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia (TFUE).
+7 - Os n.os 5 e 6 do presente artigo aplicam-se em conformidade com as regras da União Europeia relativas ao direito dos auxílios estatais aplicáveis no domínio do cinema, nomeadamente as previstas na Comunicação da Comissão sobre auxílios estatais a obras cinematográficas e outras obras audiovisuais (2013/C 332/01) publicada no Jornal Oficial da União Europeia em 15 de novembro de 2013, ou no [Regulamento (UE) n.º 651/2014](https://data.europa.eu/eli/reg/2014/651/oj?locale=pt) da Comissão, de 16 de junho de 2014, que declara certas categorias de auxílio compatíveis com o mercado interno, em aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia (TFUE).
 
 ###### Artigo 4.º — Contribuições financeiras
 
@@ -318,7 +318,7 @@ Considérant la nécessité d’actualiser le cadre juridique de leur coopérati
 
 sont convenues ce qui suit:
 
-Article 1<sup>er</sup>
+Article 1er
 
 Définitions
 
@@ -521,3 +521,5 @@ Le contrat de coproduction conclu entre les coproducteurs. Ce contrat doit compo
 La demande et les autres documents seront présentés dans la langue des autorités compétentes auxquelles l’œuvre cinématographique est soumise.
 
 L’autorité compétente de la Partie à participation minoritaire ne donne son approbation qu’après avoir reçu l’avis de l’autorité compétente de la Partie à participation majoritaire.
+
+119948693

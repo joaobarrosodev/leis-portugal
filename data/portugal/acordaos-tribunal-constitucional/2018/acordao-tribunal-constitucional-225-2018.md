@@ -36,7 +36,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/05/08700/0188501979.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -58,18 +58,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/225/2018/05/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/225-2018-115226940
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-07T00:00:00Z'
+  retrieved_at: '2026-10-22T18:24:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df602697873a9d0f1bc2f97b51cee8224477565eb9c147b775da75d84cf03023
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28aa4a486e9fe3065f01fb6decc806a1a2c2cc22a5b75c63afe4b863faa80dbe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:24:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,14 +77,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Conselho Nacional de Procriação Medicamente Assistida
+- Doação de Órgãos
+- Gestação de Substituição
 - Inconstitucionalidade
 - Maternidade
 - Paternidade
 - Procriação Medicamente Assistida
-- Conselho Nacional de Procriação Medicamente Assistida
 - Reprodução Humana
-- Doação de Órgãos
-- Gestação de Substituição
 relationships:
 - type: cites
   target: celex:31992L0085
@@ -141,13 +141,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:24:48Z'
   warnings: []
   errors: []
 ---
@@ -2255,3 +2255,5 @@ Acresce que, ao assumir que a consideração do projeto parental, alternativo e 
 Apesar de considerar constitucionalmente imperativa tanto a consideração do projeto de parentalidade supervenientemente assumido pela gestante, como a possibilidade da sua prevalência sobre o projeto parental protagonizado pelo casal de beneficiários, a posição que obteve vencimento não perspetiva, muito menos em toda a sua previsível extensão, as consequências previsivelmente determinadas por uma tal solução: vingando o projeto de parentalidade da gestante, o título da sua maternidade fundar-se-á no disposto no n.º 1 do artigo 1796.º do Código Civil ou será constituído por via judicial? Sendo a gestante casada, o estabelecimento da maternidade a seu favor desencadeará o funcionamento da presunção estabelecida no n.º 2 do referido artigo, sendo considerado pai da criança o cônjuge respetivo? Não sendo a gestante casada, somente a maternidade poderá ser judicialmente reconhecida - hipótese em que a criança, filha genética do casal de beneficiários, será privada de um pai - ou a paternidade, carecendo de ser igualmente estabelecida, poderá ou deverá ser atribuída ao pai biológico? Nesta última hipótese, será aceitável impor ao progenitor biológico a paternidade de uma criança que terá como mãe mulher diferente daquela que, numa manifestação nuclear da sua liberdade de autodeterminação, aquele escolheu para partilhar consigo a parentalidade de um filho que se quis comum?
 
 Todo este conjunto de interrogações, a que a posição que fez vencimento abre inevitavelmente a porta, torna, no mínimo, altamente questionável que na tutela dos direitos da criança nascida e no dever da sua proteção pelo Estado possa buscar-se o apoio necessário para concluir pela imperatividade de uma solução que, perante um conflito entre projetos parentais concorrentes, imponha a substituição do modelo de reconhecimento legal da parentalidade a favor dos «pais intencionais e genéticos» por um modelo judicial de estabelecimento da filiação baseado numa valoração casuística - e, por isso, contingente e disputável - das circunstâncias do caso, ainda que norteada, neste como em todos os outros conflitos a dirimir no âmbito da jurisdição de menores, pelo superior interesse da criança. - Fernando Ventura - Lino Ribeiro - Joana Fernandes Costa - Cláudio Monteiro.
+
+111303252

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/256/2010/09/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/256-2010-344211
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-09T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06ce3bc44d31e0bcb0c724a33dcf1eb978af6fef9d8a49b2527e6eafc43b3c1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 071638eb3309bfd0dd99e085559f21c1d6b1d25c7de3e40c55ebca67edd86fd1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
-- Regime do Contrato de Trabalho em Funções Públicas
-- Comissão de Serviço
-- Contrato Administrativo
+- Administração Local
 - Administração Pública
-- Recrutamento de Pessoal
+- Administração Regional
+- Comissão de Serviço
+- Contratação Pública
+- Contrato Administrativo
+- Contrato de Trabalho
+- Estágio de Formação
+- Função Pública
+- Funcionário Público
 - Interpretação do Direito
 - Legalidade
-- Nomeação
-- Estágio de Formação
 - Madeira.região Autónoma
-- Administração Local
-- Contrato de Trabalho
+- Nomeação
+- Recrutamento de Pessoal
+- Regime do Contrato de Trabalho em Funções Públicas
 - Regime Jurídico
-- Funcionário Público
-- Administração Regional
 - Trabalhador com Contrato de Trabalho em Funções Públicas
-- Contratação Pública
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/ac/1/1991/02/28/p/
@@ -125,16 +125,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:53Z'
   warnings: []
   errors: []
 ---
@@ -257,7 +297,9 @@ Manutenção e conversão da relação jurídica de emprego público
 
 ...
 
-###### Artigo 5.º — Concursos, reclassificações e reconversões
+Artigo 5.º
+
+Concursos, reclassificações e reconversões
 
 São válidos os procedimentos relativos a concursos de recrutamento e selecção, reclassificação e reconversões profissionais de pessoal pendentes à data da entrada em vigor do presente diploma ou do RCTFP.»
 
@@ -275,7 +317,9 @@ Transição de modalidade de constituição da relação jurídica de emprego p�
 
 4 - Os actuais trabalhadores nomeados definitivamente que exercem funções em condições diferentes das referidas no artigo 10.º mantêm os regimes de cessação da relação jurídica de emprego público e de reorganização de serviços e colocação de pessoal em situação de mobilidade especial próprios da nomeação definitiva e transitam, sem outras formalidades, para a modalidade de contrato por tempo indeterminado.
 
-###### Artigo 89.º — Conversão das nomeações provisórias e das comissões de serviço durante o período probatório
+Artigo 89.º
+
+Conversão das nomeações provisórias e das comissões de serviço durante o período probatório
 
 1 - Os actuais trabalhadores provisoriamente nomeados e em comissão de serviço durante o período probatório transitam, nos condicionalismos previstos nos n.os 1 e 4 do artigo anterior, conforme os casos:
 
@@ -285,7 +329,9 @@ b) Para a modalidade de contrato por tempo indeterminado, em período experiment
 
 ...
 
-###### Artigo 90.º — Conversão das comissões de serviço extraordinárias e de outras comissões de serviço
+Artigo 90.º
+
+Conversão das comissões de serviço extraordinárias e de outras comissões de serviço
 
 1 - Os actuais trabalhadores em comissão de serviço extraordinária para a realização do estágio transitam, nos condicionalismos previstos nos n.os 1 e 4 do artigo 88.º, conforme os casos:
 
@@ -295,7 +341,9 @@ b) Para a modalidade de contrato por tempo indeterminado, em período experiment
 
 ...
 
-###### Artigo 91.º — Conversão dos contratos administrativos de provimento
+Artigo 91.º
+
+Conversão dos contratos administrativos de provimento
 
 1 - Sem prejuízo do disposto no artigo 108.º, os actuais trabalhadores em contrato administrativo de provimento transitam, em conformidade com a natureza das funções exercidas e com a previsível duração do contrato:
 
@@ -309,7 +357,9 @@ d) Para a modalidade de contrato a termo resolutivo certo ou incerto.
 
 ...
 
-###### Artigo 110.º — Concursos de recrutamento e selecção de pessoal
+Artigo 110.º
+
+Concursos de recrutamento e selecção de pessoal
 
 1 - As relações jurídicas de emprego público decorrentes de concursos de recrutamento e selecção concluídos e válidos à data de entrada em vigor do RCTFF constituem-se com observância das regras previstas no presente título.
 
@@ -317,7 +367,9 @@ d) Para a modalidade de contrato a termo resolutivo certo ou incerto.
 
 3 - Caducam os restantes concursos de recrutamento e selecção de pessoal pendentes na data referida no número anterior, independentemente da sua modalidade e situação.
 
-###### Artigo 111.º — Procedimentos em curso relativos a pessoal
+Artigo 111.º
+
+Procedimentos em curso relativos a pessoal
 
 1 - Caducam os procedimentos em curso tendentes à prática de actos de administração e de gestão de pessoal que, face ao disposto na presente lei, tenham desaparecido da ordem jurídica.
 

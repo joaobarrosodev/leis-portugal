@@ -23,7 +23,7 @@ publication:
   reference: Diário da República n.º 76/1998, 3º Suplemento, Série I-A de 1998-03-31
   number: '76'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 1420-(13) a 1420-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/03/076a03/00130013.pdf
 entry_into_force_dates: []
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/7-d/1998/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-d-1998-276177
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:52:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fed2de558df7dcf1f6c701c03b9ad778f4b40eb2348c4a31fa2af96bc85c3180
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc79427a95e95cd3d722fcf8dfefd63bc20e835b5aeb8abcfc555700e88a5f7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:52:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,35 +70,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Telefone
 - Atribuição de Frequências
-- Sociedade Comercial
-- Multa
+- Comunicação por Satélite
+- Comunicações
 - Comunicações Nacionais
+- Concorrência
+- Confidencialidade
 - Contra-ordenação
 - Contrato de Concessão
-- Serviços de Segurança
-- Concorrência
 - Equipamento
 - Fiscalização
 - Fixação de Preços
-- Portugal Telecom
-- Comunicação por Satélite
-- Instituto das Comunicações de Portugal
-- Ilícito de MERA Ordenação Social
-- Licenciamento
 - Forças Armadas
-- Radiodifusão
+- Ilícito de MERA Ordenação Social
+- Instituto das Comunicações de Portugal
+- Licenciamento
+- Multa
+- Portugal Telecom
 - Preço
-- Serviço Público
 - Prestação de Serviços
-- Confidencialidade
 - Proteção do Consumidor
-- Comunicações
+- Radiodifusão
 - Regime de Prescrição
 - Segredo Profissional
+- Serviço Público
+- Serviços de Segurança
 - Servidão Radioelétrica
+- Sociedade Comercial
 - Taxa
+- Telefone
 - Televisão
 - Televisão por CABO
 - Telex
@@ -119,16 +119,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/381-a/1997/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/381-a/1997/12/30/p/dre
+- type: cites
+  target: pt:dre:581376:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:52:10Z'
   warnings: []
   errors: []
 ---

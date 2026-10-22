@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/6/2012/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/6-2012-178499
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-25T00:00:00Z'
+  retrieved_at: '2026-10-22T17:53:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67981d85e82901c4e54a15bafc891de6fe6975ad0d6208bf8fb567b4825a753c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0091e9f8866a1c94c6a6e1cb9c1cc616b3c1573dfcc9fe2daf4fbb790c2b99cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:53:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Duração do Trabalho
+- Horário de Trabalho
 - Horas Extraordinárias
 - Interpretação do Direito
 - Isenção de Horário de Trabalho
 - Jurisprudencia
 - Período Normal de Trabalho
-- Duração do Trabalho
-- Horário de Trabalho
 - Trabalhador
 relationships:
 - type: cites
@@ -102,16 +102,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
+- type: cites
+  target: pt:dre:203848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640911:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:53:09Z'
   warnings: []
   errors: []
 ---
@@ -420,55 +460,55 @@ Esc.: 74 254$00 no mês de Dezembro, conforme documento constante de fl. 277 a f
 
 44) No ano de 1999, a parte variável das remunerações mensais auferidas pelo A. ascendeu a:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/12100/0319703211.pdf))](https://files.diariodarepublica.pt/1s/2012/06/12100/0319703211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/12100/0319703211.pdf)
 
 conforme documento constante de fl. 280 a fl. 282 cujo teor se dá aqui por integralmente reproduzido - cf. alínea VV) dos factos admitidos por acordo;
 
 45) No ano de 2000, a parte variável das remunerações mensais auferidas pelo A. ascendeu a:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/12100/0319703211.pdf))](https://files.diariodarepublica.pt/1s/2012/06/12100/0319703211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/12100/0319703211.pdf)
 
 conforme documento constante de fl. 283 a fl. 285 cujo teor se dá aqui por integralmente reproduzido - cf. alínea XX) dos factos admitidos por acordo;
 
 46) No ano de 2001, a parte variável das remunerações mensais auferidas pelo A. ascendeu a:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/12100/0319703211.pdf))](https://files.diariodarepublica.pt/1s/2012/06/12100/0319703211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/12100/0319703211.pdf)
 
 conforme documento constante de fl. 286 a fl. 288 cujo teor se dá aqui por integralmente reproduzido - cf. alínea ZZ) dos factos admitidos por acordo;
 
 47) No ano de 2002, a parte variável das remunerações mensais auferidas pelo A. ascendeu a:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/12100/0319703211.pdf))](https://files.diariodarepublica.pt/1s/2012/06/12100/0319703211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/12100/0319703211.pdf)
 
 conforme documento constante de fl. 289 a fl. 291 cujo teor se dá aqui por integralmente reproduzido - cf. alínea AAA) dos factos admitidos por acordo;
 
 48) No ano de 2003, a parte variável das remunerações mensais auferidas pelo A. ascendeu a:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/12100/0319703211.pdf))](https://files.diariodarepublica.pt/1s/2012/06/12100/0319703211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/12100/0319703211.pdf)
 
 conforme documento constante de fls. 292 e 293 cujo teor se dá aqui por integralmente reproduzido - cf. alínea BBB) dos factos admitidos por acordo;
 
 49) No ano de 2004, a parte variável das remunerações mensais auferidas pelo A. ascendeu a:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/12100/0319703211.pdf))](https://files.diariodarepublica.pt/1s/2012/06/12100/0319703211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/12100/0319703211.pdf)
 
 conforme documento constante de fl. 295 a fl. 297 cujo teor se dá aqui por integralmente reproduzido - cf. alínea CCC) dos factos admitidos por acordo;
 
 50) No ano de 2005, a parte variável das remunerações mensais auferidas pelo A. ascendeu a:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/12100/0319703211.pdf))](https://files.diariodarepublica.pt/1s/2012/06/12100/0319703211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/12100/0319703211.pdf)
 
 conforme documento constante de fl. 298 a fl. 300 cujo teor se dá aqui por integralmente reproduzido - cf. alínea DDD) dos factos admitidos por acordo;
 
 51 - No ano de 2006, a parte variável das remunerações mensais auferidas pelo A. ascendeu a:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/12100/0319703211.pdf))](https://files.diariodarepublica.pt/1s/2012/06/12100/0319703211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/12100/0319703211.pdf)
 
 cf. alínea EEE) dos factos admitidos por acordo;
 
 52) No ano de 2007, a parte variável das remunerações mensais auferidas pelo A. ascendeu a:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/12100/0319703211.pdf))](https://files.diariodarepublica.pt/1s/2012/06/12100/0319703211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/12100/0319703211.pdf)
 
 cf. alínea FFF) dos factos admitidos por acordo;
 

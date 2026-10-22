@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/118/2026/06/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2026-1133485780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-17T00:00:00Z'
+  retrieved_at: '2026-10-22T18:44:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba0188b826edfafbc71c7a51e7db6e3b5e6d135409f27a2c5012dd73497941e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7584f27086bdba449362829dace4bf28e742aafdfa8dabd610e70453f732e92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:44:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,17 @@ reuse:
 subjects:
 - Assistência Medicamentosa
 - BOAS Práticas Farmacológicas
-- Infarmed
+- Comissão de Avaliação de Tecnologias de Saúde
 - Contra-ordenação
+- Infarmed
+- Medicamento
 - Mudança Tecnológica
 - Política de Saúde
-- Serviço Nacional de Saúde
-- Medicamento
-- Sistema de Informação
 - Preço de Referência
 - Preço de Venda
+- Serviço Nacional de Saúde
+- Sistema de Informação
 - SISTEMA NACIONAL DE AVALIAÇÃO DE TECNOLOGIAS DE SAÚDE
-- Comissão de Avaliação de Tecnologias de Saúde
 relationships:
 - type: cites
   target: celex:32001L0083
@@ -124,16 +124,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/95/2019/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/95/2019/09/04/p/dre
+- type: cites
+  target: pt:dre:105711790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124417108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67356991:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:97/2015
+  label: Revoga, a partir de 1 de julho de 2026, nos termos do artigo 61.º do presente diploma, o Decreto-Lei n.º 97/2015,
+    de 1 de junho, Diário da República n.º 105/2015, Série I, com exceção do disposto no artigo 38.º
+  source: null
+  date: '2015-06-01'
 article_structure:
   article_count: 63
   section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:44:06Z'
   warnings: []
   errors: []
 ---
@@ -834,7 +868,7 @@ d) O escalão D é de 15 % do PVP dos medicamentos ou do preço de referência, 
 
 5 - Os beneficiários do regime especial de comparticipação referidos no número anterior devem fazer prova da sua qualidade através de documento emitido pelos serviços oficiais competentes, em termos a definir por portaria do membro do Governo responsável pela área da saúde.
 
-6 - O rendimento referido nos n.<sup>os</sup>3 e 4 corresponde ao resultado da divisão do rendimento do agregado familiar pelo número de membros desse agregado, nos termos previsto no [Decreto-Lei n.º 70/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2010-335683), de 16 de junho, e em consonância com o [Decreto-Lei n.º 232/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-2005-469064), de 29 de dezembro.
+6 - O rendimento referido nos n.os3 e 4 corresponde ao resultado da divisão do rendimento do agregado familiar pelo número de membros desse agregado, nos termos previsto no [Decreto-Lei n.º 70/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2010-335683), de 16 de junho, e em consonância com o [Decreto-Lei n.º 232/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-2005-469064), de 29 de dezembro.
 
 7 - O quinto preço mais baixo referido no n.º 2 é atualizado trimestralmente pelo INFARMED, I. P., após a aprovação dos preços de referência dos grupos homogéneos, e produz efeitos em simultâneo com estes.
 
@@ -1224,7 +1258,7 @@ e) O incumprimento das condições de prescrição e dispensa estabelecidos na p
 
 f) A prática de preços superiores aos preços máximos aprovados pelo INFARMED, I. P., para as tecnologias de saúde financiadas de acordo com o disposto no capítulo v;
 
-g) O incumprimento das condições especiais previstas nos n.<sup>os</sup>1 e 2 do artigo 30.º;
+g) O incumprimento das condições especiais previstas nos n.os1 e 2 do artigo 30.º;
 
 h) O incumprimento do envio de dados ao INFARMED, I. P., quando solicitado, nos termos do artigo 9.º;
 
@@ -1284,12 +1318,14 @@ O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua
 
 Visto e aprovado em Conselho de Ministros de 9 de abril de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Ana Paula Martins.
 
-**Promulgado em 3 de junho de 2026.**
+Promulgado em 3 de junho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 6 de junho de 2026.**
+Referendado em 6 de junho de 2026.
 
 Pelo Primeiro-Ministro, Paulo Artur dos Santos de Castro de Campos Rangel, Ministro de Estado e dos Negócios Estrangeiros.
+
+119948776

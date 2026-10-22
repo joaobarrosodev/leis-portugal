@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/106/2026/05/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2026-1126675657
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-27T00:00:00Z'
+  retrieved_at: '2026-10-22T18:42:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f60933263d8706fdd66c3a4591985adaa0c7e0c5687aa7bb8802d15bbeb637eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4e33c717a35572607eac07a86a3ff12065f6df58be6c3c5a09f3500dc3faaeb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:42:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Metropolitano de Lisboa
 - ÁREA Metropolitana
+- Autoridade Competente
 - Contrato de Concessão
 - Costa de Caparica
 - Estatuto
 - Lisboa
 - Metropolitano
+- Metropolitano de Lisboa
 - Transporte de Passageiros
 - Transporte Público
-- Autoridade Competente
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:148-A/2009
+  label: Altera, a partir de 1 de junho de 2026, o artigo 2.º do Decreto-Lei n.º 148-A/2009, de 26 de junho, Diário da República
+    n.º 122/2009, 1º Suplemento, Série I, e o artigo 2.º dos Estatutos do Metropolitano de Lisboa, E. P. E., anexos
+  source: null
+  date: '2009-06-26'
+- type: amends
+  target: pt:numero:decreto-lei:175/2014
+  label: Altera, a partir de 1 de junho de 2026, os artigos 1.º e 2.º do Decreto-Lei n.º 175/2014, de 5 de dezembro, Diário
+    da República n.º 236/2014, Série I
+  source: null
+  date: '2014-12-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106/2026/05/27/p/dre
   label: null
@@ -117,16 +129,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/75-a/2014/09/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/75-a/2014/09/30/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168697991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57701290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:61725766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67442930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:913048489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:952096394:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:42:10Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +193,7 @@ Por forma a que o ML, E. P. E., introduza no seu objeto social a possibilidade d
 
 Ademais, tendo em conta a reconhecida experiência nacional e internacional que o ML, E. P. E., detém na matéria, importa prever a possibilidade de o Estado delegar no ML, E. P. E., a construção, a instalação, a renovação, a manutenção e a gestão de infraestruturas ferroviárias, de sistemas de transporte coletivo em sítio próprio de elevada capacidade, bem como do respetivo material circulante, que não estejam nem venham a estar afetas à sua atividade.
 
-Por fim, e de forma a garantir o cumprimento da obrigação legal prevista no artigo 73.º do regime jurídico do setor público empresarial, aprovado pelo [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, alterado pelas Leis n.<sup>os</sup>[75-A/2014](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2014-57701290), de 30 de setembro, e [42/2016](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), de 28 de dezembro, e pelo [Decreto-Lei n.º 56/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2025-913048489), de 31 de março, o XXV Governo Constitucional procede igualmente à adaptação dos Estatutos do ML, E. P. E.
+Por fim, e de forma a garantir o cumprimento da obrigação legal prevista no artigo 73.º do regime jurídico do setor público empresarial, aprovado pelo [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, alterado pelas Leis n.os[75-A/2014](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2014-57701290), de 30 de setembro, e [42/2016](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), de 28 de dezembro, e pelo [Decreto-Lei n.º 56/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2025-913048489), de 31 de março, o XXV Governo Constitucional procede igualmente à adaptação dos Estatutos do ML, E. P. E.
 
 Foram ouvidos o Instituto da Mobilidade e dos Transportes, I. P., a Autoridade da Mobilidade e dos Transportes, a Associação Nacional dos Municípios Portugueses e Área Metropolitana de Lisboa.
 
@@ -175,7 +223,9 @@ Os artigos 1.º e 2.º do [Decreto-Lei n.º 175/2014](https://diariodarepublica.
 
 2 - [...]
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...]
 
@@ -205,7 +255,7 @@ O artigo 2.º do [Decreto-Lei n.º 148-A/2009](https://diariodarepublica.pt/dr/d
 
 1 - [...]
 
-2 - O ML, E. P. E., rege-se pelo disposto no presente decreto-lei e nos seus Estatutos, pelos regulamentos internos, pelo disposto no regime jurídico do setor público empresarial, aprovado pelo [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, alterado pelas Leis n.<sup>os</sup>[75-A/2014](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2014-57701290), de 30 de setembro, [42/2016](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), de 28 de dezembro, e pelo [Decreto-Lei n.º 124/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2025-952096394), de 25 de novembro, bem como pelas normas legais que lhe sejam especialmente aplicáveis.»
+2 - O ML, E. P. E., rege-se pelo disposto no presente decreto-lei e nos seus Estatutos, pelos regulamentos internos, pelo disposto no regime jurídico do setor público empresarial, aprovado pelo [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, alterado pelas Leis n.os[75-A/2014](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2014-57701290), de 30 de setembro, [42/2016](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), de 28 de dezembro, e pelo [Decreto-Lei n.º 124/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2025-952096394), de 25 de novembro, bem como pelas normas legais que lhe sejam especialmente aplicáveis.»
 
 ###### Artigo 4.º — Alteração ao anexo I ao [Decreto-Lei n.º 148-A/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-a-2009-199077), de 26 de junho
 
@@ -237,12 +287,14 @@ Nos termos e para os efeitos do disposto na alínea d) do n.º 1 do artigo 5.º 
 
 Visto e aprovado em Conselho de Ministros de 9 de abril de 2026. - Luís Montenegro - José Maria Gonçalves Pereira Brandão de Brito - Miguel Martinez de Castro Pinto Luz.
 
-**Promulgado em 11 de maio de 2026.**
+Promulgado em 11 de maio de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 13 de maio de 2026.**
+Referendado em 13 de maio de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119948553

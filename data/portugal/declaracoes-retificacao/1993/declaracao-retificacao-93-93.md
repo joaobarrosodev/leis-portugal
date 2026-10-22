@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 126/1993, 4º Suplemento, Série I-B de 1993-05-31
   number: '126'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 2944-(9) a 2944-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/05/126b04/00090009.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/93/1993/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/93-1993-593679
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-05-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:39:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c686cea4be0871b993b51cdfbbf571165216de14f10342e5c7ace733e03ac8b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c79fc6107eb8fcda452eb9a6a9d4fcc58fd0f888a1e526f87cb05537565bf094
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:39:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,21 +80,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/344/1993/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/344/1993/03/23/p/dre
+- type: cites
+  target: pt:dre:373453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638917:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:39:42Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 93/93
+# Declaração de rectificação n.º 93/93
 
 Segundo comunicação do Ministério do Emprego e da Segurança Social, a [Portaria n.º 344/93](https://diariodarepublica.pt/dr/detalhe/portaria/344-1993-638917), publicada no Diário da República, 1.ª série, n.º 69, de 23 de Março de 1993, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 

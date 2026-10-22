@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45162-1963-693626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-11T00:00:00Z'
+  retrieved_at: '2026-10-22T19:35:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f0f9a7f1bd9a9ec4e63bd668c4202e865a7f9dc1d2578eb3b2f134c2e06cc5e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15aebcedc9a8b725ecb89b9de53652b48a57cc7acf4029fd5fdb9d06124470df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:35:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,15 +72,15 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:35:58Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +91,7 @@ Considerando a conveniência de actualizar as tabelas de inaptidão e de incapac
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São aprovadas e postas em execução pelo presente diploma as tabelas de inaptidão e de incapacidade para o serviço da Armada, as quais englobam:
+Artigo 1.º São aprovadas e postas em execução pelo presente diploma as tabelas de inaptidão e de incapacidade para o serviço da Armada, as quais englobam:
 
 a) Tabela A - Causas de inaptidão para a admissão nos quadros do pessoal do activo;
 
@@ -99,25 +99,25 @@ b) Tabela B - Causas de inaptidão para o ingresso nos quadros do pessoal das re
 
 c) Tabela C - Causas de incapacidade para prestação de serviço nos quadros do activo e para prestação de serviço efectivo nas unidades e serviços da Armada nos quadros das reservas naval, marítima e legionária.
 
-###### Art. 2.º A tabela B referida no artigo anterior também é aplicável aos indivíduos que como civis concorram aos serviços do Ministério da Marinha.
+Art. 2.º A tabela B referida no artigo anterior também é aplicável aos indivíduos que como civis concorram aos serviços do Ministério da Marinha.
 
 § único. Na aplicação do disposto no corpo deste artigo as juntas médicas não se devem cingir rigorosamente ao que na tabela B fica estabelecido, devendo tomá-la como simples conjunto de normas orientadoras, tendo em vista as exigências do serviço, idade e sexo dos inspeccionados.
 
-###### Art. 3.º Por despacho do Ministro da Marinha serão fixadas, quando necessárias, as condições especiais de aptidão e as causas especiais de inaptidão para as diversas classes e especialidades da Armada.
+Art. 3.º Por despacho do Ministro da Marinha serão fixadas, quando necessárias, as condições especiais de aptidão e as causas especiais de inaptidão para as diversas classes e especialidades da Armada.
 
-###### Art. 4.º Os reservistas da reserva M provenientes da Escola Náutica e da Escola de Marinheiros e Mecânicos da Marinha Mercante não são inspeccionados na data do seu alistamento na mesma reserva. Se na ocasião do referido alistamento ou durante a instrução militar a aptidão física daqueles indivíduos for posta em dúvida, serão os mesmos presentes, por proposta dos chefes dos serviços de saúde das unidades, à Junta de Saúde Naval, sendo-lhes aplicadas as tabelas fixadas para a admissão nas suas escolas e a tabela B referida no artigo 2.º, esta obrigatòriamente na parte em que for menos exigente que as outras.
+Art. 4.º Os reservistas da reserva M provenientes da Escola Náutica e da Escola de Marinheiros e Mecânicos da Marinha Mercante não são inspeccionados na data do seu alistamento na mesma reserva. Se na ocasião do referido alistamento ou durante a instrução militar a aptidão física daqueles indivíduos for posta em dúvida, serão os mesmos presentes, por proposta dos chefes dos serviços de saúde das unidades, à Junta de Saúde Naval, sendo-lhes aplicadas as tabelas fixadas para a admissão nas suas escolas e a tabela B referida no artigo 2.º, esta obrigatòriamente na parte em que for menos exigente que as outras.
 
-###### Art. 5.º A um terço do número de grumetes admitidos no activo poderão ser aplicadas as condições sensoriais correspondentes ao grupo B do quadro das mesmas condições anexo às tabelas aprovadas por este diploma.
+Art. 5.º A um terço do número de grumetes admitidos no activo poderão ser aplicadas as condições sensoriais correspondentes ao grupo B do quadro das mesmas condições anexo às tabelas aprovadas por este diploma.
 
 § único. O número de grumetes a que é aplicável o disposto no corpo deste artigo pode ser alterado por portaria do Ministro da Marinha.
 
-###### Art. 6.º A altura referida no n.º 1 das tabelas A e B poderá ser reduzida por portaria do Ministro da Marinha quando as conveniências do serviço o recomendem.
+Art. 6.º A altura referida no n.º 1 das tabelas A e B poderá ser reduzida por portaria do Ministro da Marinha quando as conveniências do serviço o recomendem.
 
-###### Art. 7.º Por portaria do Ministro da Marinha poderão ser modificadas as condições fixadas no quadro de condições sensoriais anexo às tabelas aprovadas por este diploma.
+Art. 7.º Por portaria do Ministro da Marinha poderão ser modificadas as condições fixadas no quadro de condições sensoriais anexo às tabelas aprovadas por este diploma.
 
-###### Art. 8.º Ficam revogados os Decretos n.os 42193, 43539 e 44076, de, respectivamente, 26 de Março de 1959, 15 de Março de 1961 e 6 de Dezembro de 1961.
+Art. 8.º Ficam revogados os Decretos n.os 42193, 43539 e 44076, de, respectivamente, 26 de Março de 1959, 15 de Março de 1961 e 6 de Dezembro de 1961.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Julho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Fernando Quintanilha Mendonça Dias.
 
@@ -1157,6 +1157,6 @@ Ministério da Marinha, 27 de Julho de 1963. - O Ministro da Marinha, Fernando Q
 
 Quadro de condições sensoriais a exigir para a admissão de pessoal (militar e civil) do Ministério da Marinha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/07/17600/10111019.pdf))](https://files.diariodarepublica.pt/1s/1963/07/17600/10111019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/07/17600/10111019.pdf)
 
 Ministério da Marinha, 27 de Julho de 1963. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

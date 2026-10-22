@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44431-1962-164593
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-06-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:29:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2756c7cabfa006cc82b693973cc435def493e7ca165952b8e3b585ec2d027324
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb80c0ea5b9e0e707f76181e24f1e0e20f5489b0675bb94689340a1433d1c5b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:29:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:148061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636887:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:29:58Z'
   warnings: []
   errors: []
 ---
@@ -92,8 +112,8 @@ Sendo análogas nos dois departamentos as circunstâncias que determinaram a pro
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Sem prejuízo das disposições especiais dos respectivos serviços, continua a ser aplicável ao Ministério das Comunicações o [Decreto n.º 30341](https://diariodarepublica.pt/dr/detalhe/decreto/30341-1940-195378), de 30 de Março de 1940, com a redacção dada pelo [Decreto n.º 42822](https://diariodarepublica.pt/dr/detalhe/decreto/42822-1960-279274), de 27 de Janeiro de 1960.
+Artigo único. Sem prejuízo das disposições especiais dos respectivos serviços, continua a ser aplicável ao Ministério das Comunicações o [Decreto n.º 30341](https://diariodarepublica.pt/dr/detalhe/decreto/30341-1940-195378), de 30 de Março de 1940, com a redacção dada pelo [Decreto n.º 42822](https://diariodarepublica.pt/dr/detalhe/decreto/42822-1960-279274), de 27 de Janeiro de 1960.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Junho de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Carlos Gomes da Silva Ribeiro.

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45043-1963-627644
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-05-23T00:00:00Z'
+  retrieved_at: '2026-10-22T19:34:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b56ac35b7c7efbce79fca2cd19742af928877f3f4447e01793c736dfc96bf2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc30682b97554fe94c02a6f9753f9c804d48a3965c8fd310462ae54bbf2020c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:34:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:613178:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:34:55Z'
   warnings: []
   errors: []
 ---
@@ -110,11 +114,11 @@ Nestes termos, e ouvida a Comissão Permanente das Organizações Circum-Escolar
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O Ministro da Educação Nacional dará cumprimento ao disposto no artigo 20.º do [Decreto-Lei n.º 44632](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44632-1962-613178), de 15 de Outubro de 1962, em relação a cada uma das organizações circum-escolares legalmente constituídas, através de portaria onde aprove os seus estatutos com as adaptações impostas pelo referido diploma e tendo em conta também o preceituado no artigo 13.º do mesmo diploma.
+Artigo 1.º O Ministro da Educação Nacional dará cumprimento ao disposto no artigo 20.º do [Decreto-Lei n.º 44632](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44632-1962-613178), de 15 de Outubro de 1962, em relação a cada uma das organizações circum-escolares legalmente constituídas, através de portaria onde aprove os seus estatutos com as adaptações impostas pelo referido diploma e tendo em conta também o preceituado no artigo 13.º do mesmo diploma.
 
-###### Art. 2.º As eleições dos corpos gerentes das aludidas organizações efectuar-se-ão de harmonia com a lei e os estatutos aprovados nos termos do artigo anterior.
+Art. 2.º As eleições dos corpos gerentes das aludidas organizações efectuar-se-ão de harmonia com a lei e os estatutos aprovados nos termos do artigo anterior.
 
-###### Art. 3.º Quanto às organizações cujos corpos gerentes foram suspensos pelo despacho ministerial de 13 de Abril de 1962, publicado no Diário do Governo, 2.ª série, de 18 do mesmo mês e ano, os actos respeitantes às eleições dos corpos gerentes para o ano lectivo de 1963-1964 serão praticados por uma comissão de três alunos, constituída por um presidente e dois secretários, designados por escrito pelo reitor da Universidade ou pelo director da escola, de preferência entre estudantes que tenham desempenhado funções em corpos gerentes de organizações circum-escolares do ensino superior.
+Art. 3.º Quanto às organizações cujos corpos gerentes foram suspensos pelo despacho ministerial de 13 de Abril de 1962, publicado no Diário do Governo, 2.ª série, de 18 do mesmo mês e ano, os actos respeitantes às eleições dos corpos gerentes para o ano lectivo de 1963-1964 serão praticados por uma comissão de três alunos, constituída por um presidente e dois secretários, designados por escrito pelo reitor da Universidade ou pelo director da escola, de preferência entre estudantes que tenham desempenhado funções em corpos gerentes de organizações circum-escolares do ensino superior.
 
 § 1.º A designação será feita pelo reitor ou pelo director, conforme a organização se destine a alunos de mais de uma escola ou de uma escola só.
 
@@ -124,16 +128,16 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 § 4.º A comissão poderá ser substituída por outra, designada nos mesmos termos, se as eleições não se mostrarem concluídas, e feita a comunicação a que se refere o § único do artigo 14.º do [Decreto-Lei n.º 44632](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44632-1962-613178), dentro do prazo de 30 dias, a contar da data em que a respectiva assembleia geral poderia iniciar-se segundo a lei e os estatutos.
 
-###### Art. 4.º De futuro, as eleições dos corpos gerentes das organizações circum-escolares referentes a determinado ano lectivo não poderão realizar-se antes de 15 de Novembro desse ano lectivo nem depois de Abril do ano lectivo anterior; e em caso algum poderão efectuar-se em férias escolares ou nos oito dias que as antecederem.
+Art. 4.º De futuro, as eleições dos corpos gerentes das organizações circum-escolares referentes a determinado ano lectivo não poderão realizar-se antes de 15 de Novembro desse ano lectivo nem depois de Abril do ano lectivo anterior; e em caso algum poderão efectuar-se em férias escolares ou nos oito dias que as antecederem.
 
 § único. As eleições respeitantes a 1963-1964 terão todas elas lugar no começo desse ano lectivo, em conformidade com o disposto no corpo do presente artigo.
 
-###### Art. 5.º As assembleias gerais das organizações circum-escolares não podem reunir-se em sessão ou sessões com duração superior, cada uma delas, a três horas, nem com início antes das 9 ou termo para além das 20, e não haverá mais de uma sessão por dia, considerando-se nulas quaisquer deliberações tomadas com desrespeito desta disposição.
+Art. 5.º As assembleias gerais das organizações circum-escolares não podem reunir-se em sessão ou sessões com duração superior, cada uma delas, a três horas, nem com início antes das 9 ou termo para além das 20, e não haverá mais de uma sessão por dia, considerando-se nulas quaisquer deliberações tomadas com desrespeito desta disposição.
 
-###### Art. 6.º O preceituado no artigo 14.º do [Decreto-Lei n.º 44632](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44632-1962-613178) é aplicável a todos aqueles que forem eleitos ou nomeados para exercer quaisquer funções de direcção, orientação ou chefia nas organizações circum-escolares, seja qual for a sua designação.
+Art. 6.º O preceituado no artigo 14.º do [Decreto-Lei n.º 44632](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44632-1962-613178) é aplicável a todos aqueles que forem eleitos ou nomeados para exercer quaisquer funções de direcção, orientação ou chefia nas organizações circum-escolares, seja qual for a sua designação.
 
-###### Art. 7.º As cláusulas dos estatutos das organizações circum-escolares devem sempre entender-se e executar-se com inteiro respeito do disposto no [Decreto-Lei n.º 44632](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44632-1962-613178), no presente decreto e na mais legislação aplicável.
+Art. 7.º As cláusulas dos estatutos das organizações circum-escolares devem sempre entender-se e executar-se com inteiro respeito do disposto no [Decreto-Lei n.º 44632](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44632-1962-613178), no presente decreto e na mais legislação aplicável.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Maio de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Inocêncio Galvão Teles.

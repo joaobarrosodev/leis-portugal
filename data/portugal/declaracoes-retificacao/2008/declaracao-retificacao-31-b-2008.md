@@ -23,7 +23,7 @@ publication:
   reference: Diário da República n.º 105/2008, 1º Suplemento, Série I de 2008-06-02
   number: '105'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3096-(2) a 3096-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf
 entry_into_force_dates: []
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/31-b/2008/06/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/31-b-2008-302167
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-02T00:00:00Z'
+  retrieved_at: '2026-10-22T19:10:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4bce9357c0d42f1f92ee6180191820dd9abc604a3ad4e4c962411cc5609242e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e71fd8cd840b7b34c71c526f2d1f52cbced904c4532947250f96288f8dce13fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:10:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -95,16 +95,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/63-a/2008/04/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/63-a/2008/04/03/p/dre
+- type: cites
+  target: pt:dre:167823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:63-A/2008
+  label: "Rectifica o Decreto-Lei n.º 63-A/2008, de 3 de Abril, DR.IS [66]Supl\0\0"
+  source: null
+  date: '2008-04-03'
 article_structure:
   article_count: 0
-  section_count: 56
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:10:01Z'
   warnings: []
   errors: []
 ---
@@ -115,21 +132,21 @@ Ao abrigo da alínea h) do n.º 1 e do n.º 2 do artigo 4.º do [Decreto-Lei n.�
 
 1 - No parágrafo 1.1.2.2 do anexo i do [Decreto-Lei n.º 170-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-a-2007-167823), de 4 de Maio, onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
 2 - O parágrafo que se segue ao parágrafo 1.1.4.2.2 do anexo i do [Decreto-Lei n.º 170-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-a-2007-167823), de 4 de Maio, numerado como «3.3.3.3» deve ser numerado como «1.1.4.2.3».
 
 3 - No parágrafo 2.1.3.5.4 do anexo i do [Decreto-Lei n.º 170-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-a-2007-167823), de 4 de Maio, onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
 4 - No 4.º travessão do parágrafo 2.2.2.2.2 do anexo i do [Decreto-Lei n.º 170-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-a-2007-167823), de 4 de Maio, onde se lê:
 
@@ -163,7 +180,7 @@ Onde se lê:
 
 «ANEXO I
 
-# Parte 1
+Parte 1
 
 [...]»
 
@@ -177,261 +194,357 @@ Nota geral. - As disposições do presente Regulamento têm a mesma redacção q
 
 Quadro das matérias
 
-# Parte 1
+Parte 1
 
 Disposições gerais
 
-### Capítulo 1.1 — Campo de aplicação e aplicabilidade
+Capítulo 1.1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+Campo de aplicação e aplicabilidade
 
-### Capítulo 1.2 — Definições e unidades de medida
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+Capítulo 1.2
 
-### Capítulo 1.3 — Formação das pessoas intervenientes no transporte de mercadorias perigosas
+Definições e unidades de medida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
-### Capítulo 1.4 — Obrigações de segurança dos intervenientes
+Capítulo 1.3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+Formação das pessoas intervenientes no transporte de mercadorias perigosas
 
-### Capítulo 1.5 — Derrogações
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+Capítulo 1.4
 
-### Capítulo 1.6 — Medidas transitórias
+Obrigações de segurança dos intervenientes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
-### Capítulo 1.7 — Prescrições gerais relativas à classe 7
+Capítulo 1.5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+Derrogações
 
-### Capítulo 1.8 — Medidas de controlo e de apoio ao cumprimento das prescrições de segurança
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+Capítulo 1.6
 
-### Capítulo 1.9 — Restrições ao transporte estabelecidas pelas autoridades competentes
+Medidas transitórias
 
-### Capítulo 1.10 — Prescrições relativas à segurança pública
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+Capítulo 1.7
 
-# Parte 2
+Prescrições gerais relativas à classe 7
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+
+Capítulo 1.8
+
+Medidas de controlo e de apoio ao cumprimento das prescrições de segurança
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+
+Capítulo 1.9
+
+Restrições ao transporte estabelecidas pelas autoridades competentes
+
+Capítulo 1.10
+
+Prescrições relativas à segurança pública
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+
+Parte 2
 
 Classificação
 
-### Capítulo 2.1 — Disposições gerais
+Capítulo 2.1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+Disposições gerais
 
-### Capítulo 2.2 — Disposições específicas de cada classe
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+Capítulo 2.2
 
-### Capítulo 2.3 — Métodos de ensaio
+Disposições específicas de cada classe
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
-# Parte 3
+Capítulo 2.3
+
+Métodos de ensaio
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+
+Parte 3
 
 Lista das mercadorias perigosas, disposições especiais e isenções relativas ao transporte de mercadorias perigosas embaladas em quantidades limitadas
 
-### Capítulo 3.1 — Generalidades
+Capítulo 3.1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+Generalidades
 
-### Capítulo 3.2 — Lista das mercadorias perigosas
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+Capítulo 3.2
 
-### Capítulo 3.3 — Disposições especiais aplicáveis a certas matérias ou objectos
+Lista das mercadorias perigosas
 
-### Capítulo 3.4 — Isenções relativas ao transporte de mercadorias perigosas embaladas em quantidades limitadas
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
-# Parte 4
+Capítulo 3.3
+
+Disposições especiais aplicáveis a certas matérias ou objectos
+
+Capítulo 3.4
+
+Isenções relativas ao transporte de mercadorias perigosas embaladas em quantidades limitadas
+
+Parte 4
 
 Disposições relativas à utilização das embalagens e das cisternas
 
-### Capítulo 4.1 — Utilização das embalagens, dos grandes recipientes para granel (GRG) e das grandes embalagens
+Capítulo 4.1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+Utilização das embalagens, dos grandes recipientes para granel (GRG) e das grandes embalagens
 
-### Capítulo 4.2 — Utilização das cisternas móveis e dos contentores para gás de elementos múltiplos (CGEM) 'UN'
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+Capítulo 4.2
 
-### Capítulo 4.3
+Utilização das cisternas móveis e dos contentores para gás de elementos múltiplos (CGEM) 'UN'
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+
+Capítulo 4.3
 
 Utilização de cisternas fixas (veículos-cisternas), cisternas desmontáveis, contentores-cisternas e caixas móveis cisternas cujos reservatórios são construídos de materiais metálicos, bem como de veículos-baterias e contentores para gás de elementos múltiplos (CGEM)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
-### Capítulo 4.4
+Capítulo 4.4
 
 Utilização de cisternas fixas (veículos-cisternas), cisternas desmontáveis, contentores-cisternas e caixas móveis cisternas de matéria plástica reforçada com fibras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
-### Capítulo 4.5 — Utilização de cisternas para resíduos operadas sob vácuo
+Capítulo 4.5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+Utilização de cisternas para resíduos operadas sob vácuo
 
-# Parte 5
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+
+Parte 5
 
 Procedimentos de expedição
 
-### Capítulo 5.1 — Disposições gerais
+Capítulo 5.1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+Disposições gerais
 
-### Capítulo 5.2 — Marcação e etiquetagem
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+Capítulo 5.2
 
-### Capítulo 5.3 — Sinalização e painéis laranja de contentores, CGEM, contentores-cisternas, cisternas móveis e veículos
+Marcação e etiquetagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
-### Capítulo 5.4 — Documentação
+Capítulo 5.3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+Sinalização e painéis laranja de contentores, CGEM, contentores-cisternas, cisternas móveis e veículos
 
-### Capítulo 5.5 — Disposições especiais
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+Capítulo 5.4
 
-# Parte 6
+Documentação
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+
+Capítulo 5.5
+
+Disposições especiais
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+
+Parte 6
 
 Prescrições relativas à construção das embalagens, dos grandes recipientes para granel (GRG), das grandes embalagens e das cisternas e aos ensaios a que devem ser submetidos
 
-### Capítulo 6.1 — Prescrições relativas à construção das embalagens e aos ensaios a que devem ser submetidas
+Capítulo 6.1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+Prescrições relativas à construção das embalagens e aos ensaios a que devem ser submetidas
 
-### Capítulo 6.2
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+
+Capítulo 6.2
 
 Prescrições relativas à construção e aos ensaios sobre os recipientes de gás, geradores de aerossóis e recipientes de baixa capacidade contendo gás (cartuchos de gás)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
-### Capítulo 6.3 — Prescrições relativas à construção das embalagens para as matérias da classe 6.2 e aos ensaios a que devem ser submetidas
+Capítulo 6.3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+Prescrições relativas à construção das embalagens para as matérias da classe 6.2 e aos ensaios a que devem ser submetidas
 
-### Capítulo 6.4 — Prescrições relativas à construção dos pacotes para as matérias da classe 7, aos ensaios a que devem ser submetidos, à sua aprovação e à aprovação destas matérias
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+Capítulo 6.4
 
-### Capítulo 6.5 — Prescrições relativas à construção dos grandes recipientes para granel (GRG) e aos ensaios a que devem ser submetidos
+Prescrições relativas à construção dos pacotes para as matérias da classe 7, aos ensaios a que devem ser submetidos, à sua aprovação e à aprovação destas matérias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
-### Capítulo 6.6 — Prescrições relativas à construção das grandes embalagens e aos ensaios a que devem ser submetidas
+Capítulo 6.5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+Prescrições relativas à construção dos grandes recipientes para granel (GRG) e aos ensaios a que devem ser submetidos
 
-### Capítulo 6.7
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+
+Capítulo 6.6
+
+Prescrições relativas à construção das grandes embalagens e aos ensaios a que devem ser submetidas
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+
+Capítulo 6.7
 
 Prescrições relativas à concepção e construção das cisternas móveis e dos contentores para gás de elementos múltiplos (CGEM) 'UN' e às inspecções e ensaios a que devem ser submetidos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
-### Capítulo 6.8
+Capítulo 6.8
 
 Prescrições relativas à construção, aos equipamentos, à aprovação de tipo, às inspecções e ensaios e à marcação das cisternas fixas (veículos-cisternas), cisternas desmontáveis, contentores-cisternas e caixas móveis cisternas cujos reservatórios são construídos de materiais metálicos, bem como de veículos-baterias e contentores para gás de elementos múltiplos (CGEM).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
-### Capítulo 6.9
+Capítulo 6.9
 
 Prescrições relativas à concepção, à construção, aos equipamentos, à aprovação de tipo, aos ensaios e à marcação das cisternas fixas (veículos-cisternas), cisternas desmontáveis, contentores-cisternas e caixas móveis cisternas de matéria plástica reforçada com fibras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
-### Capítulo 6.10 — Prescrições relativas à construção, ao equipamento, à aprovação de tipo, às inspecções e à marcação das cisternas para resíduos operadas sob vácuo
+Capítulo 6.10
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+Prescrições relativas à construção, ao equipamento, à aprovação de tipo, às inspecções e à marcação das cisternas para resíduos operadas sob vácuo
 
-### Capítulo 6.11 — Prescrições relativas à concepção e construção dos contentores para granel e às inspecções e ensaios a que devem ser submetidos
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+Capítulo 6.11
 
-# Parte 7
+Prescrições relativas à concepção e construção dos contentores para granel e às inspecções e ensaios a que devem ser submetidos
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+
+Parte 7
 
 Disposições relativas às condições de transporte, carga, descarga e manuseamento
 
-### Capítulo 7.1 — Disposições gerais
+Capítulo 7.1
 
-### Capítulo 7.2 — Disposições relativas ao transporte em volumes
+Disposições gerais
 
-### Capítulo 7.3 — Disposições relativas ao transporte a granel
+Capítulo 7.2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+Disposições relativas ao transporte em volumes
 
-### Capítulo 7.4 — Disposições relativas ao transporte em cisternas
+Capítulo 7.3
 
-### Capítulo 7.5 — Disposições relativas à carga, à descarga e ao manuseamento
+Disposições relativas ao transporte a granel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
-# Parte 8
+Capítulo 7.4
+
+Disposições relativas ao transporte em cisternas
+
+Capítulo 7.5
+
+Disposições relativas à carga, à descarga e ao manuseamento
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+
+Parte 8
 
 Prescrições relativas à tripulação, ao equipamento, à operação e à documentação dos veículos
 
-### Capítulo 8.1 — Prescrições gerais relativas às unidades de transporte e ao equipamento de bordo
+Capítulo 8.1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+Prescrições gerais relativas às unidades de transporte e ao equipamento de bordo
 
-### Capítulo 8.2 — Prescrições relativas à formação da tripulação dos veículos
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+Capítulo 8.2
 
-### Capítulo 8.3 — Prescrições diversas a cumprir pela tripulação dos veículos
+Prescrições relativas à formação da tripulação dos veículos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
-### Capítulo 8.4 — Prescrições relativas à vigilância dos veículos
+Capítulo 8.3
 
-### Capítulo 8.5 — Prescrições adicionais relativas a certas classes ou mercadorias
+Prescrições diversas a cumprir pela tripulação dos veículos
 
-### Capítulo 8.6 — Restrições à circulação de veículos que transportem mercadorias perigosas em túneis rodoviários
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+Capítulo 8.4
 
-# Parte 9
+Prescrições relativas à vigilância dos veículos
+
+Capítulo 8.5
+
+Prescrições adicionais relativas a certas classes ou mercadorias
+
+Capítulo 8.6
+
+Restrições à circulação de veículos que transportem mercadorias perigosas em túneis rodoviários
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+
+Parte 9
 
 Prescrições relativas à construção e aprovação dos veículos
 
-### Capítulo 9.1 — Prescrições gerais relativas à construção e aprovação dos veículos
+Capítulo 9.1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+Prescrições gerais relativas à construção e aprovação dos veículos
 
-### Capítulo 9.2 — Prescrições relativas à construção do veículo de base
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+Capítulo 9.2
 
-### Capítulo 9.3 — Prescrições adicionais relativas a veículos EX/II e EX/III completos ou completados
+Prescrições relativas à construção do veículo de base
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
-### Capítulo 9.4
+Capítulo 9.3
+
+Prescrições adicionais relativas a veículos EX/II e EX/III completos ou completados
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+
+Capítulo 9.4
 
 Prescrições adicionais relativas à construção da caixa dos veículos completos ou completados (que não veículos EX/II e EX/III) destinados ao transporte de mercadorias perigosas em volumes
 
-### Capítulo 9.5 — Prescrições adicionais relativas à construção da caixa dos veículos completos ou completados destinados ao transporte de mercadorias perigosas sólidas a granel
+Capítulo 9.5
 
-### Capítulo 9.6 — Prescrições adicionais relativas a veículos completos ou completados destinados ao transporte de matérias sob regulação de temperatura
+Prescrições adicionais relativas à construção da caixa dos veículos completos ou completados destinados ao transporte de mercadorias perigosas sólidas a granel
 
-### Capítulo 9.7
+Capítulo 9.6
+
+Prescrições adicionais relativas a veículos completos ou completados destinados ao transporte de matérias sob regulação de temperatura
+
+Capítulo 9.7
 
 Prescrições adicionais relativas a veículos-cisternas (cisternas fixas), veículos-baterias e veículos completos ou completados utilizados no transporte de mercadorias perigosas em cisternas desmontáveis com capacidade superior a 1 m3 ou em contentores-cisternas, cisternas móveis ou CGEM com capacidade superior a 3 m3 (veículos EX/III, FL, OX e AT).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10501/0000200012.pdf)
 
-# Parte 1
+Parte 1
 
 [...]»
 

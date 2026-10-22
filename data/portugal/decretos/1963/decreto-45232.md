@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45232-1963-686264
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-09-06T00:00:00Z'
+  retrieved_at: '2026-10-22T19:36:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5230275a9581cd2f276a73d3bc1423d2bf4daf3a23607eef43de7e8b971b40d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4fc97b8b564562df1a3b8542406ba5843b12fcf0fd956dc790a18788b2202bd9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:36:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516684:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:36:33Z'
   warnings: []
   errors: []
 ---
@@ -96,27 +108,27 @@ Disposições especiais
 
 A) Cabo Verde
 
-###### Artigo 1.º É criado na Junta de Comércio Externo da província o lugar de vice-presidente, com a categoria correspondente à letra F do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Artigo 1.º É criado na Junta de Comércio Externo da província o lugar de vice-presidente, com a categoria correspondente à letra F do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
 § único. O lugar criado pelo corpo do artigo é de livre escolha do Ministro do Ultramar, de entre pessoas que tenham revelado qualidades para o exercício do cargo, de preferência diplomados com curso superior, e será provido, normalmente, por nomeação, podendo também ser exercido em comissão ordinária nos termos do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 2.º Fica o governo da província autorizado a abrir um crédito especial de 1200 contos, a adicionar à tabela de despesa ordinária do orçamento geral em vigor, destinado a suportar os encargos com a exploração do navio Santo Antão, tomando como contrapartida o saldo das contas de exercícios findos.
+Art. 2.º Fica o governo da província autorizado a abrir um crédito especial de 1200 contos, a adicionar à tabela de despesa ordinária do orçamento geral em vigor, destinado a suportar os encargos com a exploração do navio Santo Antão, tomando como contrapartida o saldo das contas de exercícios findos.
 
 B) Guiné
 
-###### Art. 3.º São tornadas extensivas à província as disposições do Diploma Legislativo Ministerial n.º 29, de 19 de Maio de 1961, publicado em Angola, com a alteração dos artigos 3.º e 4.º, que passam a ter a seguinte redacção:
+Art. 3.º São tornadas extensivas à província as disposições do Diploma Legislativo Ministerial n.º 29, de 19 de Maio de 1961, publicado em Angola, com a alteração dos artigos 3.º e 4.º, que passam a ter a seguinte redacção:
 
-###### Art. 3.º A classificação dos candidatos será feita pelo Conselho Superior de Disciplina do Ultramar, em presença dos processos individuais de cada um dos candidatos à promoção.
+Art. 3.º A classificação dos candidatos será feita pelo Conselho Superior de Disciplina do Ultramar, em presença dos processos individuais de cada um dos candidatos à promoção.
 
-###### Art. 4.º Feita a classificação referida no artigo anterior, pela forma indicada no artigo 2.º, será comunicada ao Governo da província para efeitos de nomeação dos classificados de Muito bom e de Bom.
+Art. 4.º Feita a classificação referida no artigo anterior, pela forma indicada no artigo 2.º, será comunicada ao Governo da província para efeitos de nomeação dos classificados de Muito bom e de Bom.
 
 C) S. Tomé e Príncipe
 
-###### Art. 4.º Nos serviços de Fazenda e contabilidade é criado um lugar privativo de oficial de diligências das execuções fiscais no quadro de pessoal contratado.
+Art. 4.º Nos serviços de Fazenda e contabilidade é criado um lugar privativo de oficial de diligências das execuções fiscais no quadro de pessoal contratado.
 
 D) Angola
 
-###### Art. 5.º Nos serviços de obras públicas e transportes são introduzidas as seguintes alterações:
+Art. 5.º Nos serviços de obras públicas e transportes são introduzidas as seguintes alterações:
 
 A) Eliminação de lugares:
 
@@ -136,21 +148,21 @@ B) Criação de lugares:
 
 § único. Os funcionários que actualmente desempenham as funções de segundo-oficial e arquivista no quadro do pessoal contratado transitarão, sem mais formalidades, para os lugares criados no quadro do pessoal de nomeação.
 
-###### Art. 6.º É atribuída aos engenheiros geógrafos encarregados da fiscalização do levantamento cartográfico do leste da província, como remuneração pelos serviços de gabinete realizados na metrópole, a gratificação especial mensal de 1500$00, correndo o respectivo encargo por conta da dotação do Plano de Fomento consignada ao «Conhecimento científico do território - Revisão da cartografia geral».
+Art. 6.º É atribuída aos engenheiros geógrafos encarregados da fiscalização do levantamento cartográfico do leste da província, como remuneração pelos serviços de gabinete realizados na metrópole, a gratificação especial mensal de 1500$00, correndo o respectivo encargo por conta da dotação do Plano de Fomento consignada ao «Conhecimento científico do território - Revisão da cartografia geral».
 
 § único. O abono da gratificação referida no corpo deste artigo só se efectuará quando se verifique o exercício das funções de fiscalização e cessará com o termo dos trabalhos relativos ao mencionado levantamento cartográfico.
 
-###### Art. 7.º É autorizado o conselho de administração dos serviços autónomos dos portos, caminhos de ferro e transportes a contrair no Banco de Angola um empréstimo de 41000 contos, com a concessão do aval da província, ao juro anual de 4 por cento, amortizável em seis anuidades iguais, com início em 30 de Junho de 1967.
+Art. 7.º É autorizado o conselho de administração dos serviços autónomos dos portos, caminhos de ferro e transportes a contrair no Banco de Angola um empréstimo de 41000 contos, com a concessão do aval da província, ao juro anual de 4 por cento, amortizável em seis anuidades iguais, com início em 30 de Junho de 1967.
 
 § único. As cláusulas e condições que forem ajustadas para a realização do empréstimo referido no corpo do artigo entre o Banco de Angola e os serviços autónomos dos portos, caminhos de ferro e transportes serão prèviamente aprovadas pelo Governo-Geral da província.
 
-###### Art. 8.º É autorizada a Junta Provincial de Electrificação a contrair no Banco de Angola um empréstimo de 20000 contos, ao juro de 4 por cento ao ano, amortizável em quinze anuidades de capital e juro, com início quatro anos após a assinatura do contrato.
+Art. 8.º É autorizada a Junta Provincial de Electrificação a contrair no Banco de Angola um empréstimo de 20000 contos, ao juro de 4 por cento ao ano, amortizável em quinze anuidades de capital e juro, com início quatro anos após a assinatura do contrato.
 
 § único. As cláusulas e condições que forem ajustadas entre o Banco de Angola e a Junta para a concessão do empréstimo referido no corpo do artigo serão prèviamente aprovadas pelo Governo-Geral da província.
 
 E) Moçambique
 
-###### Art. 9.º É aditada ao mapa VI anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, a seguinte gratificação mensal:
+Art. 9.º É aditada ao mapa VI anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, a seguinte gratificação mensal:
 
 Serviços de saúde:
 
@@ -158,23 +170,23 @@ Pessoal no serviço de combate à lepra (em contacto com os leprosos):
 
 Preparador de laboratório de 1.ª classe ... 1500$00
 
-###### Art. 10.º É autorizado o Governo-Geral da província a conceder à Caixa de Crédito Agrícola de Moçambique, mediante as condições que forem ajustadas entre si, um empréstimo até à importância de 3000 contos destinado à concessão de empréstimos a agricultores.
+Art. 10.º É autorizado o Governo-Geral da província a conceder à Caixa de Crédito Agrícola de Moçambique, mediante as condições que forem ajustadas entre si, um empréstimo até à importância de 3000 contos destinado à concessão de empréstimos a agricultores.
 
 § único. Para os efeitos designados no corpo deste artigo fica o Governo-Geral autorizado, observadas as disposições legais em vigor, a abrir o correspondente crédito especial, tomando como contrapartida os saldos das contas de exercícios findos.
 
 F) Macau
 
-###### Art. 11.º É atribuído aos funcionários e empregados, civis e militares, dos serviços públicos de Macau o direito ao subsídio para renda de casa, ficando os órgãos legislativos da província autorizados a fixar os respectivos quantitativos e as condições da sua atribuição.
+Art. 11.º É atribuído aos funcionários e empregados, civis e militares, dos serviços públicos de Macau o direito ao subsídio para renda de casa, ficando os órgãos legislativos da província autorizados a fixar os respectivos quantitativos e as condições da sua atribuição.
 
 II
 
 Disposições comuns e diversas
 
-###### Art. 12.º A alínea d) do artigo 26.º do [Decreto n.º 41203](https://diariodarepublica.pt/dr/detalhe/decreto/41203-1957-279580), de 20 de Julho de 1957, passa a ter a seguinte redacção:
+Art. 12.º A alínea d) do artigo 26.º do [Decreto n.º 41203](https://diariodarepublica.pt/dr/detalhe/decreto/41203-1957-279580), de 20 de Julho de 1957, passa a ter a seguinte redacção:
 
 d) Chefes de secção - por concurso entre diplomados com curso superior em que seja ministrado o ensino de estatística ou se professem cadeiras de Matemática.
 
-###### Art. 13.º Enquanto se mantiver a actual situação do território português do Estado da Índia, a Direcção-Geral de Fazenda do Ministério do Ultramar é autorizada a certificar, designadamente para o efeito de aposentação, o tempo de serviço prestado por funcionários públicos naquele Estado.
+Art. 13.º Enquanto se mantiver a actual situação do território português do Estado da Índia, a Direcção-Geral de Fazenda do Ministério do Ultramar é autorizada a certificar, designadamente para o efeito de aposentação, o tempo de serviço prestado por funcionários públicos naquele Estado.
 
 § 1.º A passagem de certidões fica dependente de processo justificativo especial, organizado nos termos seguintes:
 
@@ -190,9 +202,9 @@ e) O despacho ministerial mandará certificar o tempo de serviço que deva consi
 
 § 2.º A restituição das importâncias descontadas para compensação de aposentação constituirá encargo da conta de depósito do Estado da Índia existente na sede do Banco Nacional Ultramarino.
 
-###### Art. 14.º Fica o Ministro do Ultramar autorizado a despender, por conta do Fundo a que se refere o artigo 17.º do [Decreto n.º 44252](https://diariodarepublica.pt/dr/detalhe/decreto/44252-1962-516684), de 24 de Março de 1962, até à importância de 2500 contos com as despesas derivadas da transferência dos serviços e apetrechamento do novo edifício do Restelo.
+Art. 14.º Fica o Ministro do Ultramar autorizado a despender, por conta do Fundo a que se refere o artigo 17.º do [Decreto n.º 44252](https://diariodarepublica.pt/dr/detalhe/decreto/44252-1962-516684), de 24 de Março de 1962, até à importância de 2500 contos com as despesas derivadas da transferência dos serviços e apetrechamento do novo edifício do Restelo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Setembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

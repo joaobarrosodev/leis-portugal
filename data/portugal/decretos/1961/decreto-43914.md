@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43914-1961-180463
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-09-15T00:00:00Z'
+  retrieved_at: '2026-10-22T19:25:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6030aac28acae389241555ddbb1bac2927123c1ebac3956d726c39201f9445bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50c14a875b9ec6b9183ca48da28870dee1169774e3e3788d996f2148d16a3209
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:25:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:586458:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:25:34Z'
   warnings: []
   errors: []
 ---
@@ -91,25 +95,25 @@ Atendendo, por último, a que o Ministério do Exército dispõe orgânicamente 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São centralizadas na Agência Militar todas as operações que impliquem transferências de fundos entre a metrópole e as províncias ultramarinas, respeitantes aos serviços militares.
+Artigo 1.º São centralizadas na Agência Militar todas as operações que impliquem transferências de fundos entre a metrópole e as províncias ultramarinas, respeitantes aos serviços militares.
 
-###### Art. 2.º Para execução do artigo anterior, os serviços metropolitanos competentes de cada um dos três departamentos das forças armadas depositarão, mensalmente, na Agência Militar, todas as importâncias com que vierem a concorrer, dentro dos limites prèviamente fixados, para o pagamento de pessoal em serviço nas províncias ultramarinas ou de bens de qualquer natureza aí adquiridos.
+Art. 2.º Para execução do artigo anterior, os serviços metropolitanos competentes de cada um dos três departamentos das forças armadas depositarão, mensalmente, na Agência Militar, todas as importâncias com que vierem a concorrer, dentro dos limites prèviamente fixados, para o pagamento de pessoal em serviço nas províncias ultramarinas ou de bens de qualquer natureza aí adquiridos.
 
 § único. A Agência Militar providenciará no sentido de que as despesas acima referidas sejam obrigatòriamente efectuadas na moeda em circulação na respectiva província, podendo, para este efeito, ser utilizadas também eventuais disponibilidades em moeda local de que o Tesouro da metrópole disponha em cada uma das províncias ultramarinas.
 
-###### Art. 3.º De harmonia com o artigo 1.º, os comandos das forças terrestres, navais e aéreas de cada uma das províncias ultramarinas providencarão no sentido de serem enviadas mensalmente à Agência Militar relações discriminativas das transferências a efectuar para a metrópole referentes ao Fundo de Defesa Militar do Ultramar, ao pagamento de parte do vencimento do pessoal militar, nos termos da legislação em vigor, e ainda à aquisição de bens de qualquer natureza efectuada na metrópole e financiada por conta dos orçamentos privativos das forças militares das províncias.
+Art. 3.º De harmonia com o artigo 1.º, os comandos das forças terrestres, navais e aéreas de cada uma das províncias ultramarinas providencarão no sentido de serem enviadas mensalmente à Agência Militar relações discriminativas das transferências a efectuar para a metrópole referentes ao Fundo de Defesa Militar do Ultramar, ao pagamento de parte do vencimento do pessoal militar, nos termos da legislação em vigor, e ainda à aquisição de bens de qualquer natureza efectuada na metrópole e financiada por conta dos orçamentos privativos das forças militares das províncias.
 
-###### Art. 4.º A Agência Militar organizará contas correntes mensais com cada uma das províncias ultramarinas, onde serão registados todos os fundos cuja transferência for ordenada pelos respectivos departamentos metropolitanos e todos os pagamentos a efectuar na metrópole, referidos no artigo anterior.
+Art. 4.º A Agência Militar organizará contas correntes mensais com cada uma das províncias ultramarinas, onde serão registados todos os fundos cuja transferência for ordenada pelos respectivos departamentos metropolitanos e todos os pagamentos a efectuar na metrópole, referidos no artigo anterior.
 
 § 1.º Nos lançamentos relativos ao pagamento de aquisição de bens de qualquer natureza, deverão ser indicados os nomes das entidades intervenientes na operação e descritos convenientemente os bens em causa.
 
 § 2.º A Agência Militar dará mensalmente conhecimento das contas correntes organizadas com cada província ultramarina à Direcção-Geral de Economia do Ministério do Ultramar, que, por sua vez, as comunicará às autoridades cambiais de cada uma das províncias ultramarinas.
 
-###### Art. 5.º Os pagamentos a efectuar na metrópole não poderão exceder, em cada mês, o montante das transferências ordenadas para cada província ultramarina.
+Art. 5.º Os pagamentos a efectuar na metrópole não poderão exceder, em cada mês, o montante das transferências ordenadas para cada província ultramarina.
 
-###### Art. 6.º No caso de as contas correntes mensais organizadas pela Agência Militar, nos termos dos artigos 4.º e 5.º, apresentarem saldos, serão estes aplicados na liquidação das transferências dos serviços militares que eventualmente se encontrem em atraso e os remanescentes apurados serão postos à disposição dos fundos cambiais das províncias ultramarinas, por intermédio da Direcção-Geral de Fazenda do Ministério do Ultramar.
+Art. 6.º No caso de as contas correntes mensais organizadas pela Agência Militar, nos termos dos artigos 4.º e 5.º, apresentarem saldos, serão estes aplicados na liquidação das transferências dos serviços militares que eventualmente se encontrem em atraso e os remanescentes apurados serão postos à disposição dos fundos cambiais das províncias ultramarinas, por intermédio da Direcção-Geral de Fazenda do Ministério do Ultramar.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 15 de Setembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Adriano José Alves Moreira.
 

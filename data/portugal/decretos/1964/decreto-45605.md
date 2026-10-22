@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45605-1964-470034
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-03-09T00:00:00Z'
+  retrieved_at: '2026-10-22T19:39:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a842d93a56088d4bccf6409a4daf86c1fb5f839f9d5867bc1f4285085446e09a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3aec8a9dd0f80defa9e8b8324556fae6aee82d2aa28b43b1b68e82a0de5fcc55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:39:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:140815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:39:42Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +104,7 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição e por mo
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os serviços autónomos, os organismos de coordenação económica e os fundos ou serviços especiais do Estado na província de Moçambique, mesmo quando subsidiados através do orçamento geral da província; ficam obrigados a comparticipar nos encargos de que trata o artigo 1.º do [Decreto-Lei n.º 42559](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42559-1959-429862), de 3 de Outubro de 1959;
+Artigo 1.º Os serviços autónomos, os organismos de coordenação económica e os fundos ou serviços especiais do Estado na província de Moçambique, mesmo quando subsidiados através do orçamento geral da província; ficam obrigados a comparticipar nos encargos de que trata o artigo 1.º do [Decreto-Lei n.º 42559](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42559-1959-429862), de 3 de Outubro de 1959;
 
 § 1.º A comparticipação a que se refere o corpo do artigo será constituída pelas seguintes percentagens mínimas, a incidir sobre as receitas ordinárias previstas para o respectivo ano económico nos orçamentos privativos daqueles organismos:
 
@@ -104,13 +116,13 @@ b) Os restantes organismos designados no corpo do artigo - 6 por cento.
 
 § 3.º Ficam exceptuados de comparticipar para a defesa nacional a Caixa de Crédito Agrícola e o Fundo do Crédito Rural.
 
-###### Art. 2.º Na execução do disposto no artigo anterior são aplicáveis as disposições dos §§ 2.º e 3.º do artigo 1.º do [Decreto n.º 44362](https://diariodarepublica.pt/dr/detalhe/decreto/44362-1962-164406), de 12 de Maio de 1962.
+Art. 2.º Na execução do disposto no artigo anterior são aplicáveis as disposições dos §§ 2.º e 3.º do artigo 1.º do [Decreto n.º 44362](https://diariodarepublica.pt/dr/detalhe/decreto/44362-1962-164406), de 12 de Maio de 1962.
 
 § único (transitório). - No corrente ano económico elaborarão os serviços, organismos e fundos abrangidos por este diploma os competentes orçamentos suplementares, utilizando como contrapartida quaisquer recursos, inclusive os saldos das suas contas de exercícios findos.
 
-###### Art. 3.º A vigência deste diploma é retrotraída a 1 de Janeiro de 1964.
+Art. 3.º A vigência deste diploma é retrotraída a 1 de Janeiro de 1964.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República 9 de Março de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

@@ -55,18 +55,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/58/2009/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/58-2009-493998
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:11:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 701cdcefaa9f49d93920e02d9574629f629e6fcdda7313c59669eec9ab5dbd9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca299fd0a5f847e3b8b3e7d4134075e4a13b216e23298b2af621d66ec451bcbd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:11:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,21 +74,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
-- Desenvolvimento Rural
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
-- Contrato de Financiamento
-- Direcção Regional de Agricultura e Pescas
-- Arborização
-- Proteção da Floresta
-- Formulário Eletrónico
 - Apoio ao Investimento
-- Projeto de Investimento
+- Arborização
+- Contrato de Financiamento
+- Desenvolvimento Rural
+- Direcção Regional de Agricultura e Pescas
+- Exploração Florestal
+- Formulário Eletrónico
 - Homologação
 - IFAP
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Ordenamento Florestal
 - Plano de Gestão Florestal
-- Exploração Florestal
+- Proder
+- Projeto de Investimento
+- Proteção da Floresta
 - Regulamento
 - Regulamento de Aplicação da Acção Nº 2.3.3-valorização Ambiental dos Espaços Florestais
 - ZONA de Intervenção Florestal
@@ -113,16 +113,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/739-b/2009/07/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/739-b/2009/07/09/p/dre
+- type: cites
+  target: pt:dre:220952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:portaria:739-B/2009
+  label: "Rectifica o artigo 3.º da Portaria n.º 739-B/2009, de 9 de Julho, DR.IS [131]Supl, relativo à alteração ao Regulamento\
+    \ de Aplicação da Acção n.º 2.3.3, «Valorização Ambiental dos Espaços Florestais», aprovado pela Portaria n.º 1137-D/2008,\
+    \ de 9 de Outubro, no que respeita à alíena e) do artigo 9.º\0\0"
+  source: null
+  date: '2009-07-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:11:47Z'
   warnings: []
   errors: []
 ---

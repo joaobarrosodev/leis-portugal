@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/353/2012/07/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/353-2012-179500
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-20T00:00:00Z'
+  retrieved_at: '2026-10-22T18:24:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f8e9bf2255eafafacb7b47fc0aa900087c5bbfba6409aae0316863921137f0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 142ff9f8585ba1eaa18f645463c651aac19fa7b97f03e41a12a93ea12e670774
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:24:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -89,13 +89,13 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:24:03Z'
   warnings: []
   errors: []
 ---
@@ -384,7 +384,7 @@ O PAEF impõe um limite para o défice orçamental das Administrações Pública
 
 Para atingir tal objetivo, a proposta de orçamento materializa um esforço de consolidação orçamental com medidas que totalizam um impacto esperado na ordem dos 6 % do PIB quando comparado com um cenário das políticas invariantes, i. e., cerca de 2.4 p. p. acima do previsto no PAEF. A estratégia de consolidação orçamental incorpora, assim, medidas de contenção da despesa que vão além das incluídas no PAEF de forma a compensar, de forma permanente, o desvio de execução orçamental verificado, essencialmente, no primeiro semestre de 2011.
 
-# Parte deste desvio foi já explicado no Documento de Estratégia Orçamental, designadamente no que diz respeito às despesas com o pessoal, ao consumo intermédio, à receita não fiscal, à inclusão de efeitos de natureza temporária, como sejam a assunção da dívida de duas empresas da Região Autónoma da Madeira e a operação relacionada com a privatização do BPN, bem como a medidas incluídas no Orçamento para 2011 cujo impacto estava sobrestimado ou cuja implementação se veio a demonstrar impossível.
+Parte deste desvio foi já explicado no Documento de Estratégia Orçamental, designadamente no que diz respeito às despesas com o pessoal, ao consumo intermédio, à receita não fiscal, à inclusão de efeitos de natureza temporária, como sejam a assunção da dívida de duas empresas da Região Autónoma da Madeira e a operação relacionada com a privatização do BPN, bem como a medidas incluídas no Orçamento para 2011 cujo impacto estava sobrestimado ou cuja implementação se veio a demonstrar impossível.
 
 O trabalho técnico subjacente à preparação da proposta de Orçamento do Estado para 2012 permitiu obter informação significativamente mais detalhada para 2011 referente a todas as entidades incluídas no perímetro das Administrações Públicas. No que se refere, em particular, ao Setor Empresarial do Estado e à Administração Local a referida informação revelou a existência de desvios no primeiro semestre superiores aos reportados no Documento de Estratégia Orçamental.
 

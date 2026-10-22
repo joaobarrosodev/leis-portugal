@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/89-s/2026/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/89-s-2026-1058814981
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-23T00:00:00Z'
+  retrieved_at: '2026-10-22T18:33:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe0dc6ed71a683dc8999ef57fdd3fdd1c1ebda97a17913aa90619f13888b47f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d550e43aef13f44152bc804de413dca6c4d07fc2271fc315778cb5b648fe2af8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:33:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vida Selvagem
-- Ordenamento do Território
-- Proteção dos Animais
-- Regulamentação de Atos Legislativos
 - Avaliação de Impacte Ambiental
-- Instituto da Conservação da Natureza e das Florestas
-- Proteção do Ambiente
+- Contraordenação
 - Diversidade Biológica
 - Espécie Protegida
-- ZONA de Protecção Especial dos Estuarios dos RIOS Minho e Coura
-- RIO Minho
+- Instituto da Conservação da Natureza e das Florestas
+- Ordenamento do Território
+- Proteção do Ambiente
+- Proteção dos Animais
 - Rede Natura 2000
+- Regulamentação de Atos Legislativos
+- RIO Minho
+- Vida Selvagem
+- ZONA de Protecção Especial dos Estuarios dos RIOS Minho e Coura
 - Zona Especial de Conservação
-- Contraordenação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/140/1999/04/24/p/dre
@@ -109,16 +109,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
+- type: cites
+  target: pt:dre:1025550890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130273578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:33:23Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +155,7 @@ validation:
 
 de 23 de fevereiro
 
-O [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, procedeu à designação como Zona Especial de Conservação (ZEC) do Sítio de Importância Comunitária (SIC) Rio Minho (PTCON0019), identificando a respetiva área e coordenadas geográficas, assim como a sua localização e limites geográficos. O referido diploma determinou, ainda, que as medidas e ações complementares de conservação de habitats e espécies são definidas em planos de gestão, a aprovar por portaria nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.<sup>os</sup>[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro.
+O [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, procedeu à designação como Zona Especial de Conservação (ZEC) do Sítio de Importância Comunitária (SIC) Rio Minho (PTCON0019), identificando a respetiva área e coordenadas geográficas, assim como a sua localização e limites geográficos. O referido diploma determinou, ainda, que as medidas e ações complementares de conservação de habitats e espécies são definidas em planos de gestão, a aprovar por portaria nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.os[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro.
 
 Paralelamente, ao abrigo da Diretiva Aves e conforme previsto no artigo 6.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, na sua redação original, então vigente, o [Decreto-Lei n.º 384-B/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-b-1999-154987), de 23 de setembro, procedeu à classificação da Zona de Proteção Especial (ZPE) Estuários dos Rios Minho e Coura (PTZPE0001), cuja área, delimitada nos termos do artigo 2.º e do anexo i do referido decreto-lei, na sua redação atual, se sobrepõe parcialmente à da ZEC Rio Minho.
 
@@ -137,7 +165,7 @@ Com vista à prossecução dos objetivos fixados, o referido decreto-lei definiu
 
 Neste contexto, cumpre agora aprovar o plano de gestão da ZEC Rio Minho e da ZPE Estuários dos Rios Minho e Coura, numa abordagem integrada que dê resposta às exigências ecológicas específicas da ZEC e da ZPE, procedendo à identificação dos tipos de habitat naturais e seminaturais e das espécies da flora e fauna selvagens com presença significativa na sua área e que justificaram o seu reconhecimento como SIC pela Comissão Europeia e a sua subsequente classificação como ZEC, incluindo as tendências populacionais favoráveis das espécies de aves com ocorrência regular na ZPE, bem como adotando um conjunto de medidas e ações de conservação complementares, designadamente medidas de gestão ativa e de suporte, conforme o disposto no artigo 13.º do [Decreto-Lei n.º 19/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2026-1025550890), de 27 de janeiro. O plano de gestão da ZEC Rio Minho e da ZPE Estuários dos Rios Minho e Coura tem também por função estabelecer as prioridades de conservação da zona, identificando as espécies e os tipos de habitat protegidos com presença significativa na ZEC e na ZPE em relação aos quais se impõem medidas mais urgentes.
 
-Assim, ao abrigo do disposto na alínea a) do n.º 3 do artigo 7.º e nos n.<sup>os</sup>1 e 2 do artigo 7.º-B do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, na sua redação atual, no artigo 5.º do [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, e no artigo 13.º do [Decreto-Lei n.º 19/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2026-1025550890), de 27 de janeiro, em conjugação com os artigos 15.º, 25.º e 27.º do [Decreto-Lei n.º 87-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2025-926483751), de 25 de julho, na sua redação atual, que aprova o regime de organização e funcionamento do XXV Governo Constitucional, manda o Governo, pelo Ministro da Economia e da Coesão Territorial, pela Ministra do Ambiente e Energia e pelo Ministro da Agricultura e Mar, o seguinte:
+Assim, ao abrigo do disposto na alínea a) do n.º 3 do artigo 7.º e nos n.os1 e 2 do artigo 7.º-B do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, na sua redação atual, no artigo 5.º do [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, e no artigo 13.º do [Decreto-Lei n.º 19/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2026-1025550890), de 27 de janeiro, em conjugação com os artigos 15.º, 25.º e 27.º do [Decreto-Lei n.º 87-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2025-926483751), de 25 de julho, na sua redação atual, que aprova o regime de organização e funcionamento do XXV Governo Constitucional, manda o Governo, pelo Ministro da Economia e da Coesão Territorial, pela Ministra do Ambiente e Energia e pelo Ministro da Agricultura e Mar, o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -155,7 +183,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 20 de fevereiro de 2026.
 
-**O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho. - O Ministro da Agricultura e Mar, José Manuel Fernandes.**
+O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho. - O Ministro da Agricultura e Mar, José Manuel Fernandes.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -163,15 +191,17 @@ PLANO DE GESTÃO DA ZEC RIO MINHO (PTCON0019) E DA ZPE ESTUÁRIOS DOS RIOS MINHO
 
 LOCALIZAÇÃO
 
-A ZEC Rio Minho e a ZPE Estuários dos Rios Minho e Coura abrangem uma área total aproximada de 5140 ha e a sua área terrestre localiza-se nos concelhos de Caminha, Vila Nova de Cerveira, Valença, Monção e Melgaço, conforme se apresenta no Quadro 1. A ZEC Rio Minho abrange 4371 ha e a ZPE Estuários dos Rios Minho e Coura 3393 ha (incluindo neste caso uma área marinha de 2,4 km<sup>2</sup>, cerca de 5 % da área total destas áreas classificadas), estando os seus limites disponíveis no geocatálogo da Autoridade Nacional da Conservação da Natureza e Biodiversidade.
+A ZEC Rio Minho e a ZPE Estuários dos Rios Minho e Coura abrangem uma área total aproximada de 5140 ha e a sua área terrestre localiza-se nos concelhos de Caminha, Vila Nova de Cerveira, Valença, Monção e Melgaço, conforme se apresenta no Quadro 1. A ZEC Rio Minho abrange 4371 ha e a ZPE Estuários dos Rios Minho e Coura 3393 ha (incluindo neste caso uma área marinha de 2,4 km2, cerca de 5 % da área total destas áreas classificadas), estando os seus limites disponíveis no geocatálogo da Autoridade Nacional da Conservação da Natureza e Biodiversidade.
 
 QUADRO 1
 
 Unidades territoriais abrangidas pelas ZEC Rio Minho e ZPE Estuários dos Rios Minho e Coura
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815287.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815287.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815288.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815288.png) |
+| --- |
 
 CARACTERIZAÇÃO
 
@@ -217,13 +247,15 @@ QUADRO 2
 
 Tipos de habitat do anexo I da Diretiva Habitats com presença significativa na ZEC
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815289.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815289.png) |
+| --- |
 
 QUADRO 3
 
 Espécies do anexo II da Diretiva Habitats com presença significativa na ZEC
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815290.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815290.png) |
+| --- |
 
 Entre um extenso elenco de espécies de aves protegidas (do anexo I da Diretiva Aves e espécies migradoras não incluídas nesse anexo com ocorrência regular) com presença significativa na ZPE Estuários dos Rios Minho e Coura, esta é considerada especialmente relevante para três espécies (valores alvo assinalados com um # e a negrito no Quadro 4) e para os grupos de Passeriformes migradores de matos e bosques e de Passeriformes migradores de caniçais e galerias ripícolas.
 
@@ -231,7 +263,8 @@ QUADRO 4
 
 Espécies de aves do anexo I da Diretiva Aves e espécies migradoras não incluídas nesse anexo e cuja ocorrência seja regular, com presença significativa na ZPE
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815291.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815291.png) |
+| --- |
 
 OBJETIVOS DE CONSERVAÇÃO
 
@@ -245,11 +278,14 @@ QUADRO 5
 
 Objetivos de conservação para a gestão das ZEC e ZPE
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815292.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815292.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815293.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815293.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815294.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815294.png) |
+| --- |
 
 MEDIDAS DE CONSERVAÇÃO COMPLEMENTARES
 
@@ -263,11 +299,14 @@ QUADRO 6
 
 Quadro operacional das medidas de conservação complementares
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815295.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815295.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815296.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815296.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815297.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815297.png) |
+| --- |
 
 MEDIDAS DE CONSERVAÇÃO REGULAMENTARES
 
@@ -295,7 +334,8 @@ QUADRO 7
 
 Modelo de matriz de avaliação final da implementação do plano de gestão
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815298.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815298.png) |
+| --- |
 
 FICHAS DE MEDIDAS DE CONSERVAÇÃO COMPLEMENTARES
 
@@ -321,44 +361,67 @@ OM - Orçamento Municipal;
 
 PNA-PNGIFR - Programa Nacional de Ação do Plano Nacional de Gestão Integrada de Fogos Rurais.
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815299.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815299.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815300.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815300.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815301.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815301.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815302.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815302.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815303.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815303.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815304.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815304.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815305.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815305.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815306.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815306.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815307.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815307.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815308.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815308.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815309.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815309.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815310.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815310.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815311.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815311.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815312.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815312.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815313.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815313.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815314.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815314.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815315.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815315.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815316.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815316.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815317.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815317.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815318.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815318.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1058814981/1058815319.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815319.png) |
+| --- |
+
+119947774

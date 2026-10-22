@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/25/2008/05/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/25-2008-249538
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-03T00:00:00Z'
+  retrieved_at: '2026-10-22T19:09:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b1670298b307c0cd838595ac9e390c64fb92f0065453fb9f69e7eb4b7db5132
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f9ad7a67a5032f8795a8488c0cef619923e1cc33cc47a92958e313dd6861a65
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:09:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,58 +67,64 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo no Espaço Rural
+- Açores
+- Agro-turismo
+- Aldeamento Turístico
 - Alvará
 - Animação Ambiental
 - Apartamento Turístico
-- Livro de Reclamações
-- Garantia
+- ASAE
+- Câmara Municipal
 - Campo de Golfe
-- Estabelecimento de Jogos
-- Turismo
-- Multa
-- Estabelecimento Comercial
-- Reserva Ecológica Nacional
+- CASA de Campo
+- Comissão de Aplicação de Coimas em Matéria de Publicidade
+- Conjunto Turístico
 - Contra-ordenação
 - Definição de Competências
 - Direcção Geral do Consumidor
 - Embargo
 - Enatur
+- Estabelecimento Comercial
+- Estabelecimento de Jogos
 - Estabelecimento de Restauração
 - Estabelecimento Hoteleiro
-- Segurança Pública
+- Estabelecimento Termal
 - Fiscalização
+- Garantia
+- Hotel Rural
+- Infraestrutura Turística
+- Instituto da Conservação da Natureza e da Biodiversidade
 - Instituto de Turismo de Portugal
 - Interesse para o Turismo
-- ASAE
 - Licenciamento
 - Licenciamento de Obras
+- Livro de Reclamações
+- Madeira.região Autónoma
 - Marina
 - Moradia Turística
-- Aldeamento Turístico
-- Prestação de Serviços
-- Madeira.região Autónoma
-- Comissão de Aplicação de Coimas em Matéria de Publicidade
-- Instituto da Conservação da Natureza e da Biodiversidade
-- Câmara Municipal
-- Regime Jurídico
-- Conjunto Turístico
-- Açores
-- Taxa
-- Estabelecimento Termal
-- Agro-turismo
-- CASA de Campo
-- Hotel Rural
+- Multa
 - Parque de Campismo Rural
+- Prestação de Serviços
+- Regime Jurídico
+- Reserva Ecológica Nacional
+- Segurança Pública
+- Taxa
+- Turismo
 - Turismo de Aldeia
 - Turismo de Habitação
+- Turismo no Espaço Rural
 - Turismo Rural
-- Infraestrutura Turística
 relationships:
 - type: amended_by
   target: pt:dre:70179162:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70179162:por
+  label: Alterado o art. 40.º do Dec Lei 39/2008 de 07-mar, retificado pelo presente diploma, pelo(a) Decreto-Lei n.º 186/2015
+    - Diário da República n.º 172/2015, Série I de 2015-09-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-2015-70179162
+  date: '2015-09-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
   label: null
@@ -139,16 +145,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/54/2002/03/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/54/2002/03/11/p/dre
+- type: cites
+  target: pt:dre:156001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:39/2008
+  label: "Rectifica o Decreto-Lei n.º 39/2008, de 7 de Março, DR.IS [48]\0\0"
+  source: null
+  date: '2008-03-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:09:48Z'
   warnings: []
   errors: []
 ---

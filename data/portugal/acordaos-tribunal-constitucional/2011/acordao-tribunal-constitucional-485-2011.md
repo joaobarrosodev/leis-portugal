@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/485/2011/11/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/485-2011-146063
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-09-03T00:00:00Z'
+  retrieved_at: '2026-10-22T18:24:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5af4e886ba097dd0e0958dd8870db1ea4566cfab14a7f2c7873a1f2435d0afb2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9561cb983670ee16210c99a4631615862472412d094a8fa950092fb6903b664c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:24:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Crime
-- Processo Penal
+- Álcool
 - Código da Estrada
 - Código de Processo Penal
-- Álcool
-- Inconstitucionalidade
 - Condutor
-- Prova
-- Direito Penal
 - Controlo Metrológico
+- Crime
+- Direito Penal
+- Inconstitucionalidade
+- Processo Penal
+- Prova
 - Substância Estupefaciente ou Psicotrópica
 - Taxa de Alcoolemia
 relationships:
@@ -84,6 +84,20 @@ relationships:
   target: pt:dre:499526:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:499526:por
+  label: "Dada nova redação ao art. 153º do Código da Estrada, aprovado pelo Dec Lei 114/94 de 03-mai, declarado inconstitucional,\
+    \ com força obrigatória geral, pelo presente diploma pela LEI.72/2013.03.09.2013.AR, DR.IS [169] de 03.09.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/72-2013-499526
+  date: '2013-09-03'
+- type: amends
+  target: pt:numero:lei:44/2005
+  label: "Declara, com força obrigatória geral, a inconstitucionalidade da norma constante do artigo 153.º, n.º 6, do Código\
+    \ da Estrada, aprovado pelo Dec Lei 114/94, de 03-Mai, DR IS-A [102], na redacção do Dec Lei n.º 44/2005, de 23-Fev, na\
+    \ parte em que a contraprova respeita a crime de condução em estado de embriaguez e seja consubstanciada em exame de pesquisa\
+    \ de álcool no ar expirado\0\0"
+  source: null
+  date: '1994-05-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/ac/358/1993/01/26/p/dre
   label: null
@@ -120,16 +134,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53/2004/11/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53/2004/11/04/p/dre
+- type: cites
+  target: pt:dre:172174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3306253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608743:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:24:02Z'
   warnings: []
   errors: []
 ---

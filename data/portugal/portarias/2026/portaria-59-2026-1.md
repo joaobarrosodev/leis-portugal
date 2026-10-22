@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/59/2026/02/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/59-2026-1034985560
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-04T00:00:00Z'
+  retrieved_at: '2026-10-22T18:31:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ffeeb5a912421fa1dd6511fd568c5cd09cefb2718135181212dbd89f04801a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6e793ba9eadbc79bd7317f166cf6d99cdd7ac56431318dcfb9accabf80d1cb8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:31:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
-- Regulamentação de Atos Legislativos
-- Exploração Pecuária
-- Transporte de Resíduos
-- IFAP
-- Exploração Agrícola
-- Proteção do Ambiente
-- Poluição Industrial
-- Prorrogação de Prazo
-- Produção Agrícola
 - Eliminação de Resíduos
+- Exploração Agrícola
+- Exploração Pecuária
+- Gestão de Resíduos
+- IFAP
+- Poluição Industrial
+- Produção Agrícola
+- Prorrogação de Prazo
+- Proteção do Ambiente
+- Regulamentação de Atos Legislativos
+- Transporte de Resíduos
 relationships:
+- type: amends
+  target: pt:numero:portaria:189/2025
+  label: Prorroga, até 31 de dezembro de 2026, o prazo previsto no artigo 1.º da Portaria n.º 189/2025/1, de 15 de abril,
+    Diário da República n.º 74/2025, Série I
+  source: null
+  date: '2025-04-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/81/2013/06/14/p/dre
   label: null
@@ -94,16 +100,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/79/2022/02/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/79/2022/02/03/p/dre
+- type: cites
+  target: pt:dre:178602023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214401960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:915072124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928479767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928659567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:992394047:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:31:18Z'
   warnings: []
   errors: []
 ---
@@ -134,4 +168,6 @@ A presente portaria procede à prorrogação do prazo previsto no artigo 1.º da
 
 A presente portaria entra em vigor no primeiro dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2026.
 
-**O Secretário de Estado do Ambiente, João Manuel do Amaral Esteves, em 30 de janeiro de 2026. - O Secretário de Estado da Agricultura, João Manuel Moura Rodrigues, em 14 de janeiro de 2026.**
+O Secretário de Estado do Ambiente, João Manuel do Amaral Esteves, em 30 de janeiro de 2026. - O Secretário de Estado da Agricultura, João Manuel Moura Rodrigues, em 14 de janeiro de 2026.
+
+119947555

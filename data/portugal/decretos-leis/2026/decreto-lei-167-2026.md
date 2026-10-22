@@ -46,25 +46,32 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/167/2026/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2026-1159105698
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-17T00:00:00Z'
+  retrieved_at: '2026-10-22T18:50:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4db64698d3731303c0ad00e5de530e5d6df2f7ca674a2deb83e1f8be661fc5fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b036b61ea3fc6d7a7c33de26b82e90c23afa98e65d528a9c9461f9fe64f3a28
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:50:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benefícios Fiscais
+- Doação
+- Estatuto dos Benefícios Fiscais
+- Mecenato
+- Plataforma Eletrónica
+- Política Cultural
+- Prestação de Serviços
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/167/2026/08/17/p/dre
@@ -86,16 +93,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/299/2023/10/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/299/2023/10/04/p/dre
+- type: cites
+  target: pt:dre:1131865535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164712112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:167133020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222421861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:50:43Z'
   warnings: []
   errors: []
 ---
@@ -174,7 +201,9 @@ b) No caso de cedência temporária e gratuita de trabalhadores, o valor a consi
 
 c) No caso de prestação de serviços a título gratuito, que se insiram na atividade normal do prestador, o valor normal dos serviços deve ser calculado de acordo com a alínea c) do n.º 2 do artigo 16.º do Código do IVA.
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - [...]
 
@@ -224,9 +253,11 @@ f) [...]
 
 11 - [Revogado.]
 
-12 - Os donativos concedidos nos termos dos n.<sup>os</sup>3 a 8, bem como dos n.<sup>os</sup>3 a 6 do artigo 62.º-A e dos n.<sup>os</sup>15 e 16 do artigo 62.º-B, não podem ultrapassar na sua globalidade 1 % do volume de vendas ou dos serviços prestados realizados pela empresa no exercício.
+12 - Os donativos concedidos nos termos dos n.os3 a 8, bem como dos n.os3 a 6 do artigo 62.º-A e dos n.os15 e 16 do artigo 62.º-B, não podem ultrapassar na sua globalidade 1 % do volume de vendas ou dos serviços prestados realizados pela empresa no exercício.
 
-###### Artigo 62.º-A — [...]
+Artigo 62.º-A
+
+[...]
 
 1 - [...]
 
@@ -248,7 +279,9 @@ f) [...]
 
 10 - [...]
 
-###### Artigo 62.º-B — [...]
+Artigo 62.º-B
+
+[...]
 
 1 - [...]
 
@@ -350,9 +383,9 @@ a) Tenham sido, nos últimos três anos, comprovadamente, objeto de apoios públ
 
 b) Tenham tido, nos últimos três anos, pelo menos uma candidatura admitida para obtenção de apoios ao abrigo do [Decreto-Lei n.º 45/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2021-164712112), de 7 de junho, da [Portaria n.º 146/2021](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), de 13 de julho, ou da [Portaria n.º 299/2023](https://diariodarepublica.pt/dr/detalhe/portaria/299-2023-222421861), de 4 de outubro.
 
-10 - O título de entidade cultural é válido por um período de cinco anos e o título de iniciativa cultural é válido pelo período fixado nos despachos mencionados nos n.<sup>os</sup>6 e 8.
+10 - O título de entidade cultural é válido por um período de cinco anos e o título de iniciativa cultural é válido pelo período fixado nos despachos mencionados nos n.os6 e 8.
 
-11 - A cessação do cumprimento de qualquer dos pressupostos que determinaram o reconhecimento mencionado nos n.<sup>os</sup>5 e 7, bem como a verificação de situação fiscal ou contributiva irregular, determina a perda dos títulos de entidade cultural e de iniciativa cultural.
+11 - A cessação do cumprimento de qualquer dos pressupostos que determinaram o reconhecimento mencionado nos n.os5 e 7, bem como a verificação de situação fiscal ou contributiva irregular, determina a perda dos títulos de entidade cultural e de iniciativa cultural.
 
 12 - Os pedidos de atribuição dos títulos de entidade e de iniciativa cultural devem ser apresentados em plataforma eletrónica própria, nos termos do artigo 3.º do [Decreto-Lei n.º 167/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2026-1159105698), de 17 de agosto.
 
@@ -412,12 +445,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de julho de 2026. - Luís Montenegro - José Maria Gonçalves Pereira Brandão de Brito - António Leitão Amaro - Gonçalo Nuno da Cruz Saraiva Matias - Margarida Balseiro Lopes.
 
-**Promulgado em 7 de agosto de 2026.**
+Promulgado em 7 de agosto de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 10 de agosto de 2026.**
+Referendado em 10 de agosto de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119949326

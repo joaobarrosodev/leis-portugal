@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/29/2010/09/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/29-2010-341578
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-10T00:00:00Z'
+  retrieved_at: '2026-10-22T19:12:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15b8329c559690dfeab6089a5b5578c9658fe92292bccb57d4d2d723d868f0aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42aca03ca0098cc28748d9762a795db6b3af1a782885f2101e87884af6aedbe4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:12:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,11 +72,11 @@ subjects:
 - Amarante
 - Barragem de Alvito
 - Barragem de Fridão
+- Castelo Branco
 - Celorico de Basto
+- Domínio Público Hídrico
 - Recursos Hídricos
 - Zona de Proteção
-- Castelo Branco
-- Domínio Público Hídrico
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
@@ -86,16 +86,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/498/2010/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/498/2010/07/14/p/dre
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:12:44Z'
   warnings: []
   errors: []
 ---

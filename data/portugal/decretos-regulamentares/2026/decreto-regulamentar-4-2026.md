@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/4/2026/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2026-1073606542
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-18T00:00:00Z'
+  retrieved_at: '2026-10-22T18:35:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfe25ec67163aa7ee163212c8f7cb4ed643de178ea5ac5a8360dbfd97e4cc77f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eaab47a9486a79fe0a21ad628be83b49b48e41cf1583a7eea0b4f00938557798
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:35:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
 subjects:
 - Chefe do Estado Maior da Armada
 - Comissão Científica
-- Ensino Superior Militar
 - Conselho Disciplinar
 - Criação de Serviços
 - Definição de Competências
-- Marinha
+- Ensino Superior
+- Ensino Superior Militar
 - Escola Naval
 - Estudante
+- Marinha
 - Orgânica
 - Pessoal Docente
-- Ensino Superior
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/249/2015/10/28/p/dre
@@ -90,16 +90,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/21/2014/01/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/21/2014/01/31/p/dre
+- type: cites
+  target: pt:dre:162244837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570724:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70832992:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:21/2014
+  label: Revoga, a partir de 23 de março de 2026, nos termos do artigo 88.º do presente diploma, a Portaria n.º 21/2014, de
+    31 de janeiro, Diário da República n.º 22/2014, Série I
+  source: null
+  date: '2014-01-31'
 article_structure:
   article_count: 88
-  section_count: 42
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 47
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:35:49Z'
   warnings: []
   errors: []
 ---
@@ -464,7 +482,7 @@ e) Prestar assessoria jurídica, apoio e acompanhamento aos processos administra
 
 ###### Artigo 22.º — Chefia
 
-**O Chefe do Gabinete Jurídico é um oficial, superior ou subalterno, ou um técnico superior do mapa de pessoal civil da Marinha, com formação académica em Direito, na dependência hierárquica do Comandante da EN, sendo por este nomeado e exonerado.**
+O Chefe do Gabinete Jurídico é um oficial, superior ou subalterno, ou um técnico superior do mapa de pessoal civil da Marinha, com formação académica em Direito, na dependência hierárquica do Comandante da EN, sendo por este nomeado e exonerado.
 
 ##### SUBSECÇÃO VI — GABINETE DE APOIO AO COMANDANTE
 
@@ -502,7 +520,7 @@ d) Possibilitar o cumprimento dos deveres de culto aos militares fiéis de confi
 
 ###### Artigo 25.º — Chefia
 
-**O Chefe da Capelania é um oficial capelão nomeado e exonerado pelo Comandante da EN, mediante parecer prévio do Ordinário Castrense.**
+O Chefe da Capelania é um oficial capelão nomeado e exonerado pelo Comandante da EN, mediante parecer prévio do Ordinário Castrense.
 
 #### SECÇÃO IV — ÓRGÃOS DE CONSELHO
 
@@ -1018,7 +1036,7 @@ i) Manter o oficial de dia informado de todo o expediente relacionado com a ativ
 
 ###### Artigo 47.º — Chefia
 
-**O Chefe do Departamento de Serviços Académicos e de Planeamento do Ensino é um oficial superior, nomeado e exonerado pelo Comandante da EN.**
+O Chefe do Departamento de Serviços Académicos e de Planeamento do Ensino é um oficial superior, nomeado e exonerado pelo Comandante da EN.
 
 ###### Artigo 48.º — Estrutura
 
@@ -1032,7 +1050,9 @@ c) A Secção de Docentes;
 
 d) A Secção de Planeamento do Ensino.
 
-###### Artigo 49.º — Secção de Cursos e Admissões
+###### Artigo 49.º
+
+#### Secção de Cursos e Admissões
 
 Compete à Secção de Cursos e Admissões:
 
@@ -1050,7 +1070,9 @@ f) Calcular, no fim de cada ano letivo, as quotas de mérito e as classificaçõ
 
 g) Organizar os livros de classificações dos alunos, por curso.
 
-###### Artigo 50.º — Secção de Mobilidade e Estágios
+###### Artigo 50.º
+
+#### Secção de Mobilidade e Estágios
 
 Compete à Secção de Mobilidade e Estágios:
 
@@ -1062,7 +1084,9 @@ c) Elaborar as propostas para o ingresso dos alunos dos cursos conferentes de gr
 
 d) Preparar e organizar os processos de creditação no âmbito do reconhecimento da formação realizada e das competências adquiridas.
 
-###### Artigo 51.º — Secção de Docentes
+###### Artigo 51.º
+
+#### Secção de Docentes
 
 Compete à Secção de Docentes:
 
@@ -1074,7 +1098,9 @@ c) A organização do processo de cessação e suspensão de contrato dos docent
 
 d) Organizar o processo de avaliação de desempenho.
 
-###### Artigo 52.º — Secção de Planeamento do Ensino
+###### Artigo 52.º
+
+#### Secção de Planeamento do Ensino
 
 Compete à Secção de Planeamento do Ensino:
 
@@ -1350,7 +1376,9 @@ g) Selecionar as equipas com vista à participação em provas desportivas em re
 
 2 - No âmbito do Gabinete de Aplicação de Educação Física funciona uma secção náutica.
 
-###### Artigo 70.º — Secção Náutica
+###### Artigo 70.º
+
+#### Secção Náutica
 
 1 - À Secção Náutica incumbe desenvolver nos alunos o gosto pela prática de atividades desportivas e recreativas ligadas aos desportos náuticos.
 
@@ -1628,12 +1656,14 @@ j) Prestar colaboração aos órgãos e serviços que não disponham de secretar
 
 Visto e aprovado em Conselho de Ministros de 12 de fevereiro de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro - Paulo António Magro da Luz - Nuno Maria Herculano de Carvalho Pinheiro Torres.
 
-**Promulgado em 4 de março de 2026.**
+Promulgado em 4 de março de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 11 de março de 2026.**
+Referendado em 11 de março de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119948001

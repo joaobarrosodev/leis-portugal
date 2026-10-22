@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45953-1964-536780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-02-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:42:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58f8f1dea497d4989fc3ce1fdd08731d2d4274d3b8e45a7571a8172a7df91c9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3982ea3441de5ebad24b219fe86265aac102fa544dc6f911ec51d1053e5f6238
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:42:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,24 @@ relationships:
   target: pt:dre:491433:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:167631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193259:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:42:23Z'
   warnings: []
   errors: []
 ---
@@ -95,13 +103,13 @@ Considerando que o Regulamento de Administração da Fazenda Naval não delimita
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São revogados os artigos 6.º e 19.º do Regulamento de Administração da Fazenda Naval, aprovado e posto em execução pelo [Decreto n.º 31859](https://diariodarepublica.pt/dr/detalhe/decreto/31859-1942-167631), de 17 de Janeiro de 1942.
+Artigo 1.º São revogados os artigos 6.º e 19.º do Regulamento de Administração da Fazenda Naval, aprovado e posto em execução pelo [Decreto n.º 31859](https://diariodarepublica.pt/dr/detalhe/decreto/31859-1942-167631), de 17 de Janeiro de 1942.
 
-###### Art. 2.º São substituídos, no mesmo regulamento, os artigos 4.º, 28.º, 30.º, 31.º, 32.º, 33.º, 34.º, 47.º, 48.º e 350.º e a ele aditados os artigos 4.º-A, 30.º-A, 30.º-B, 47.º-A, 48.º-A e 68.º-A.
+Art. 2.º São substituídos, no mesmo regulamento, os artigos 4.º, 28.º, 30.º, 31.º, 32.º, 33.º, 34.º, 47.º, 48.º e 350.º e a ele aditados os artigos 4.º-A, 30.º-A, 30.º-B, 47.º-A, 48.º-A e 68.º-A.
 
 Os referidos artigos terão a redacção seguinte:
 
-###### Art. 4.º Os conselhos administrativos constituem-se pela forma seguinte:
+Art. 4.º Os conselhos administrativos constituem-se pela forma seguinte:
 
 A) Serviços do Ministério da Marinha, comandos territoriais, unidades em terra e navios armados:
 
@@ -159,7 +167,7 @@ Secretário-tesoureiro - o adjunto do chefe do serviço de abastecimento que se 
 
 § único. Quando não exista oficial de administração naval adjunto do chefe do serviço de abastecimento, este desempenha as funções de secretário-tesoureiro do conselho administrativo, que funcionará sem vogal.
 
-###### Art. 4.º-A Na falta ou impedimento temporário de qualquer membro de um conselho administrativo, com excepção do secretário-tesoureiro, observar-se-á o seguinte:
+Art. 4.º-A Na falta ou impedimento temporário de qualquer membro de um conselho administrativo, com excepção do secretário-tesoureiro, observar-se-á o seguinte:
 
 1.º Quando falte um dos membros por não estar provido o cargo correspondente, esse conselho funciona como se fosse constituído apenas pelos restantes membros;
 
@@ -181,7 +189,7 @@ c) Faltando o vogal que desempenhe as funções de chefe do serviço de abasteci
 
 Do presidente:
 
-###### Art. 28.º Ao presidente compete, em especial:
+Art. 28.º Ao presidente compete, em especial:
 
 1.º Cumprir e fazer cumprir as disposições do presente regulamento;
 
@@ -207,7 +215,7 @@ Do presidente:
 
 Dos vogais:
 
-###### Art. 30.º Ao vogal que desempenhe as funções de imediato compete, em especial:
+Art. 30.º Ao vogal que desempenhe as funções de imediato compete, em especial:
 
 1.º Verificar se o oficial de dia, ou de quarto, deu cumprimento ao disposto no artigo 35.º deste regulamento;
 
@@ -231,7 +239,7 @@ Dos vogais:
 
 11.º Providenciar para que, dos artigos fornecidos a embarcações empregadas em expedições ou a forças de desembarque, sejam elaboradas relações em duplicado, que serão visadas por ele e assinadas pelo chefe do serviço de abastecimento, devendo o original ficar na posse de quem comandar a expedição ou força, e o duplicado, com o recibo deste último, ser arquivado no serviço de abastecimento.
 
-###### Art. 30.º-A. Ao vogal que desempenhar as funções de chefe do serviço de abastecimento compete, em especial:
+Art. 30.º-A. Ao vogal que desempenhar as funções de chefe do serviço de abastecimento compete, em especial:
 
 1.º Apresentar e relatar ao conselho os assuntos que tenham de ser submetidos à sua aprovação e resolução;
 
@@ -263,13 +271,13 @@ Dos vogais:
 
 15.º Elaborar estudos, relatórios e outros documentos administrativos a enviar às entidades competentes, propondo as providências que o conhecimento resultante da prospecção dos mercados e da colheita de elementos logísticos lhe sugerir em relação ao serviço a seu cargo.
 
-###### Art. 30.º-B. Nos conselhos administrativos sem secretário-tesoureiro competem ao vogal-tesoureiro as atribuições e deveres consignados no artigo anterior e ainda as atribuições e deveres inerentes à qualidade de tesoureiro, designadamente os exarados nos n.os 4.º, 6.º e 7.º do artigo 32.º deste regulamento; competem-lhe ainda as atribuições e deveres consignados no artigo 30.º, quando nos referidos conselhos não exista outro vogal.
+Art. 30.º-B. Nos conselhos administrativos sem secretário-tesoureiro competem ao vogal-tesoureiro as atribuições e deveres consignados no artigo anterior e ainda as atribuições e deveres inerentes à qualidade de tesoureiro, designadamente os exarados nos n.os 4.º, 6.º e 7.º do artigo 32.º deste regulamento; competem-lhe ainda as atribuições e deveres consignados no artigo 30.º, quando nos referidos conselhos não exista outro vogal.
 
-###### Art. 31.º As disposições dos artigos anteriores aplicam-se a bordo dos navios. Nas unidades em terra e nos serviços do Ministério da Marinha serão aplicadas tão inteiramente quanto possível.
+Art. 31.º As disposições dos artigos anteriores aplicam-se a bordo dos navios. Nas unidades em terra e nos serviços do Ministério da Marinha serão aplicadas tão inteiramente quanto possível.
 
 Do secretário-tesoureiro:
 
-###### Art. 32.º Ao secretário-tesoureiro compete, em especial:
+Art. 32.º Ao secretário-tesoureiro compete, em especial:
 
 1.º Dirigir o serviço de secretaria e tesouraria do conselho administrativo, cumprindo-lhe classificar os documentos que constituem o arquivo e fazer com que estejam escriturados em devida ordem e nos prazos legais todos os livros e documentos a seu cargo;
 
@@ -287,19 +295,19 @@ Do secretário-tesoureiro:
 
 8.º Exercer a bordo as funções de notário e de oficial do registo civil, e como tal fazer os assentamentos de nascimento, casamento e óbito; escrever o testamento de qualquer pessoa embarcada ou recebê-lo (quando tenha sido escrito pelo testador) na presença do comandante do navio e de testemunhas idóneas, nas condições estabelecidas nos Códigos do Registo Civil e do Notariado.
 
-###### Art. 33.º Nos conselhos administrativos que não disponham de vogal desempenhando as funções de chefe do serviço de abastecimento, ou quando se verifique o seu impedimento, compete ao secretário-tesoureiro, além das atribuições e dos deveres consignados no artigo anterior, o desempenho das funções referidas no artigo 30.º-A, sem prejuízo do disposto no § 4.º do artigo 7.º deste regulamento.
+Art. 33.º Nos conselhos administrativos que não disponham de vogal desempenhando as funções de chefe do serviço de abastecimento, ou quando se verifique o seu impedimento, compete ao secretário-tesoureiro, além das atribuições e dos deveres consignados no artigo anterior, o desempenho das funções referidas no artigo 30.º-A, sem prejuízo do disposto no § 4.º do artigo 7.º deste regulamento.
 
-###### Art. 34.º As disposições dos artigos 32.º e 33.º deste regulamento aplicam-se a bordo dos navios. Nas unidades em terra e nos serviços do Ministério da Marinha serão aplicadas tão inteiramente quanto possível.
+Art. 34.º As disposições dos artigos 32.º e 33.º deste regulamento aplicam-se a bordo dos navios. Nas unidades em terra e nos serviços do Ministério da Marinha serão aplicadas tão inteiramente quanto possível.
 
 ...
 
-###### Art. 47.º O vogal que desempenhe as funções de imediato ou análogas é especialmente responsável:
+Art. 47.º O vogal que desempenhe as funções de imediato ou análogas é especialmente responsável:
 
 1.º Por todas as despesas de material que autorizar ou mandar efectuar;
 
 2.º Pela verificação das mostras de saída.
 
-###### Art. 47.º-A. O vogal que desempenha as funções de chefe do serviço de abastecimento é especialmente responsável:
+Art. 47.º-A. O vogal que desempenha as funções de chefe do serviço de abastecimento é especialmente responsável:
 
 1.º Por todo o material fixo e de consumo da unidade ou serviço, com excepção dos casos previstos no artigo 50.º deste regulamento e seu § 1.º;
 
@@ -307,7 +315,7 @@ Do secretário-tesoureiro:
 
 3.º Pela deterioração dos mesmos artigos, quando causada por falta de cumprimento das prescrições estabelecidas para a sua boa conservação.
 
-###### Art. 48.º O secretário-tesoureiro, nos serviços que lhe cabem desempenhar, é especialmente responsável:
+Art. 48.º O secretário-tesoureiro, nos serviços que lhe cabem desempenhar, é especialmente responsável:
 
 1.º Pelos valores em cofre, por ser o único claviculário;
 
@@ -321,18 +329,18 @@ Do secretário-tesoureiro:
 
 § único. Quando as funções de secretário e de tesoureiro sejam exercidas separadamente, cabe a este a responsabilidade consignada nos n.os 1.º, 2.º e 3.º deste artigo, e a cada um a que, em relação à escrita e serviços que respectivamente lhes competem, está indicada nos restantes números.
 
-###### Art. 48.º-A. Nas unidades ou serviços em que houver mais de um oficial de administração naval, o mais antigo será o chefe do serviço de abastecimento e o encarregado do material, e, por inerência, vogal do conselho administrativo, competindo ao que se lhe seguir em antiguidade o exercício do cargo de secretário-tesoureiro.
+Art. 48.º-A. Nas unidades ou serviços em que houver mais de um oficial de administração naval, o mais antigo será o chefe do serviço de abastecimento e o encarregado do material, e, por inerência, vogal do conselho administrativo, competindo ao que se lhe seguir em antiguidade o exercício do cargo de secretário-tesoureiro.
 
 ...
 
-###### Art. 68.º-A. Nos conselhos administrativos em que exista vogal desempenhando as funções de chefe do serviço de abastecimento e se verifique impedimento legal e demorado do secretário-tesoureiro, o presidente poderá solicitar, na falta de outro oficial de administração naval, a nomeação de um oficial subalterno da classe do serviço especial (abastecimento) para exercício do referido cargo.
+Art. 68.º-A. Nos conselhos administrativos em que exista vogal desempenhando as funções de chefe do serviço de abastecimento e se verifique impedimento legal e demorado do secretário-tesoureiro, o presidente poderá solicitar, na falta de outro oficial de administração naval, a nomeação de um oficial subalterno da classe do serviço especial (abastecimento) para exercício do referido cargo.
 
 ...
 
-###### Art. 350.º Nos mapas de abono diário (modelos n.os 37, 38 e 39) serão mencionadas, pelo oficial que desempenha as funções de imediato ou análogas, todas as alterações que influam nos abonos de alimentação, fardamento e vencimentos do pessoal e não constem de guias de vencimentos. Quando as notas lançadas no mapa de abono o forem por motivo de instruções ou ordens superiores, far-se-á sempre essa referência.
+Art. 350.º Nos mapas de abono diário (modelos n.os 37, 38 e 39) serão mencionadas, pelo oficial que desempenha as funções de imediato ou análogas, todas as alterações que influam nos abonos de alimentação, fardamento e vencimentos do pessoal e não constem de guias de vencimentos. Quando as notas lançadas no mapa de abono o forem por motivo de instruções ou ordens superiores, far-se-á sempre essa referência.
 
 § único. Também serão mencionadas nos mapas de abono todas as indicações relativas aos indivíduos a quem se refere o § único do artigo 346.º deste regulamento.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Outubro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Fernando Quintanilha Mendonça Dias.

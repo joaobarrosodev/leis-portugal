@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/89/2026/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/89-2026-1124570660
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-21T00:00:00Z'
+  retrieved_at: '2026-10-22T18:41:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 00b604feace3d3b99590967f218de9f9fbfed306bd49b37f7df23eab735e640a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 94ee6e9cec25f3ae8a5f7ab114e76618c946d0d8db545f95fbaa2daa457d9f4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:41:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
 subjects:
 - BENS Imóveis
 - Construção Civil
-- Prédio Urbano
 - Estratégia Nacional para a Implementação da Metodologia de Modelação de Informação na Construção
+- Prédio Urbano
 relationships:
 - type: cites
   target: celex:32014L0024
@@ -110,16 +110,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/207/2024/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/207/2024/12/30/p/dre
+- type: cites
+  target: pt:dre:1000882016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216770690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220949537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378285217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70641446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836222484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901536081:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:41:31Z'
   warnings: []
   errors: []
 ---
@@ -319,3 +355,5 @@ f) Ambiente e energia.
 16 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 30 de abril de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119948537

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43525-1961-561040
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-03-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:22:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 888b2b61aa1949987e8cd412ee168f8af894f128043f38aa0b35c6a74735a79d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8301de3df570c1443f0ba7cecff076dd287aac9ba523d244a69d2aa21958bbf9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:22:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:300378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658920:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 30
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:22:28Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +116,15 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 #### SECÇÃO I — Objecto e âmbito
 
-###### Artigo 1.º - 1. O presente decreto regula o arrendamento dos prédios urbanos do ultramar, sem prejuízo das disposições do Código Civil, quer gerais, quer próprias do contrato de locação, que o não contrariem.
+Artigo 1.º - 1. O presente decreto regula o arrendamento dos prédios urbanos do ultramar, sem prejuízo das disposições do Código Civil, quer gerais, quer próprias do contrato de locação, que o não contrariem.
 
 2. Para efeitos de direito locativo, entende-se por prédio urbano o edifício incorporado no solo mais o terreno que lhe sirva de logradouro e não tenha valor venal superior ao daquele.
 
 3. Se em juízo se suscitarem dúvidas a tal respeito, o valor relativo do edifício e do terreno será o que constar da matriz ou, na falta ou insuficiência desta, o que resultar da discriminação de rendas que os contraentes tiverem feito em relação às partes rústica e urbana do prédio. Se a discriminação não estiver expressa na matriz nem no contrato, serão avaliadas as ditas partes proporcionalmente ao valor matricial de todo o prédio ou, na sua falta, à renda global estipulada.
 
-###### Art. 2.º Estão sujeitos às disposições deste diploma os arrendamentos de prédios rústicos que não se destinem a fins produtivos ou em que funcionem, com assentimento do senhorio, estabelecimentos comerciais ou industriais, desde que os respectivos contratos revistam a forma externa que por esses motivos lhes competir segundo o artigo 10.º
+Art. 2.º Estão sujeitos às disposições deste diploma os arrendamentos de prédios rústicos que não se destinem a fins produtivos ou em que funcionem, com assentimento do senhorio, estabelecimentos comerciais ou industriais, desde que os respectivos contratos revistam a forma externa que por esses motivos lhes competir segundo o artigo 10.º
 
-###### Art. 3.º - 1. Será havido exclusivamente como arrendamento o contrato pelo qual o locador, que no prédio, ou em parte dele, explore indústria, comércio ou outra actividade lucrativa, transfere temporária e onerosamente para o locatário, juntamente com a fruição do imóvel, ou daquela sua parte, a dos móveis, utensílios, alfaias, aparelhos ou maquinismos nele existentes com vista a essa exploração e que para tal efeito constituam com o prédio, ou com a dita parte dele, uma unidade económica.
+Art. 3.º - 1. Será havido exclusivamente como arrendamento o contrato pelo qual o locador, que no prédio, ou em parte dele, explore indústria, comércio ou outra actividade lucrativa, transfere temporária e onerosamente para o locatário, juntamente com a fruição do imóvel, ou daquela sua parte, a dos móveis, utensílios, alfaias, aparelhos ou maquinismos nele existentes com vista a essa exploração e que para tal efeito constituam com o prédio, ou com a dita parte dele, uma unidade económica.
 
 2. No caso deste artigo, não obsta à natureza locativa do contrato o fazerem parte da unidade económica os coisas fungíveis ou os produtos consumíveis, naturais ou transformados, a explorar, nem o ser a renda constituída, no todo ou em parte, por uma prestação periódica variável segundo os lucros da exploração.
 
@@ -120,13 +132,13 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 #### SECÇÃO II — Espécies do arrendamento urbano
 
-###### Art. 4.º - 1. O arrendamento urbano pode convencionar-se para habitação, para comércio ou indústria, para o exercício de profissão liberal ou para quaisquer outros fins lícitos.
+Art. 4.º - 1. O arrendamento urbano pode convencionar-se para habitação, para comércio ou indústria, para o exercício de profissão liberal ou para quaisquer outros fins lícitos.
 
 2. Considera-se convencionado para comércio ou indústria, salvo se estiver abrangido na alínea c) do artigo 10.º, o arrendamento tomado para fins directamente relacionados com alguma das actividades sujeitas à contribuição comercial e industrial.
 
-###### Art. 5.º Conforme o fim a que se destine o arrendamento, ser-lhe-ão aplicáveis as disposições especiais respectivas deste diploma, se as houver, além das restantes que por aquelas não sejam contrariadas.
+Art. 5.º Conforme o fim a que se destine o arrendamento, ser-lhe-ão aplicáveis as disposições especiais respectivas deste diploma, se as houver, além das restantes que por aquelas não sejam contrariadas.
 
-###### Art. 6.º - 1. Se o arrendamento for convencionado para diversos fins, sem subordinação de uns a outros e com suficiente discriminação das porções correspondentes do prédio, aplicar-se-á a regra do artigo anterior às porções a que respeite um ou outro uso. Neste caso, as razões de nulidade, anulabilidade ou resolução do contrato relativas a um dos usos não valem para os restantes.
+Art. 6.º - 1. Se o arrendamento for convencionado para diversos fins, sem subordinação de uns a outros e com suficiente discriminação das porções correspondentes do prédio, aplicar-se-á a regra do artigo anterior às porções a que respeite um ou outro uso. Neste caso, as razões de nulidade, anulabilidade ou resolução do contrato relativas a um dos usos não valem para os restantes.
 
 2. Se as partes do prédio afectas aos diversos fins não estiverem discriminadas no contrato, mas o estiverem as respectivas fracções da renda, aplicar-se-á a todo o prédio arrendado o regime jurídico correspondente à mais elevada dessas fracções.
 
@@ -134,13 +146,13 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 4. Se, porém, resultar explìcitamente do contrato que, dos diferentes fins do arrendamento, um é principal e os outros subordinados, prevalecerá o regime correspondente ao fim principal, independentemente dos diversos valores locativos; os outros regimes só se aplicarão na medida em que não contrariem o primeiro e em que essa aplicação se não mostre incompatível com o uso prevalecente.
 
-###### Art. 7.º Gozam dos benefícios concedidos por este diploma aos arrendamentos para habitação, quando por sua natureza lhes não sejam inadaptáveis, os tomados pelo Estado, pelos seus serviços autónomos, pelos organismos corporativos ou de coordenação económica e pelas autarquias locais, quer para instalações dos seus serviços, quer para residência dos seus funcionários.
+Art. 7.º Gozam dos benefícios concedidos por este diploma aos arrendamentos para habitação, quando por sua natureza lhes não sejam inadaptáveis, os tomados pelo Estado, pelos seus serviços autónomos, pelos organismos corporativos ou de coordenação económica e pelas autarquias locais, quer para instalações dos seus serviços, quer para residência dos seus funcionários.
 
 ### CAPÍTULO II — Disposições gerais
 
 #### SECÇÃO I — Formação do contrato
 
-###### Art. 8.º - 1. Salvo o disposto no artigo, 10.º, o arrendamento será feito por escrito com a assinatura do senhorio e do inquilino; se qualquer destes não puder ou não souber escrever, as suas assinaturas serão feitas a rogo, com a assistência e assinatura de duas testemunhas em presença de notário que assim o certifique e reconheça todas as assinaturas.
+Art. 8.º - 1. Salvo o disposto no artigo, 10.º, o arrendamento será feito por escrito com a assinatura do senhorio e do inquilino; se qualquer destes não puder ou não souber escrever, as suas assinaturas serão feitas a rogo, com a assistência e assinatura de duas testemunhas em presença de notário que assim o certifique e reconheça todas as assinaturas.
 
 Continuarão a observar-se na matéria os diplomas actualmente em vigor, na parte não contrariada por este decreto.
 
@@ -156,9 +168,9 @@ Continuarão a observar-se na matéria os diplomas actualmente em vigor, na part
 
 7. As disposições restritivas dos parágrafos anteriores não são aplicáveis aos arrendamentos para habitação, por curtos períodos, em praias, termas ou outros lugares de vilegiatura, nem aos de casa habitada pelo senhorio e arrendada por período correspondente à ausência temporária deste até ao máximo de um ano. Mas o inquilino, quando demandado por falta de pagamento da renda, só o pode comprovar pelo recibo dessa renda passado nos termos previstos neste artigo.
 
-###### Art. 9.º Na hipótese do parágrafo 2 do artigo anterior ou se do título não resultar o fim ou fins a que se destina o prédio, o arrendatário só poderá utilizá-lo para habitação.
+Art. 9.º Na hipótese do parágrafo 2 do artigo anterior ou se do título não resultar o fim ou fins a que se destina o prédio, o arrendatário só poderá utilizá-lo para habitação.
 
-###### Art. 10.º - 1. Devem ser reduzidos a escritura pública:
+Art. 10.º - 1. Devem ser reduzidos a escritura pública:
 
 a) Os arrendamentos sujeitos a registo;
 
@@ -172,15 +184,15 @@ d) Os arrendamentos tomados por quaisquer corporações, fundações, associaç�
 
 3. A falta de título bastante não impede, no caso da alínea a), que o arrendamento, se for para habitação, subsista para todos os efeitos como semestral, desde que conste de escrito particular ou a sua falta seja imputável à parte contrária, nos termos do parágrafo 2 do artigo 8.º; mas nos casos semelhantes torna absolutamente nulo o contrato, que não poderá ser admitido em juízo, nem invocado perante qualquer autoridade ou repartição pública, ainda que essa falta seja exclusivamente imputável a uma das partes.
 
-###### Art. 11.º A forma dos arrendamentos dados ou tomados pelo Estado ou pelos corpos administrativos é regulada pelas competentes leis.
+Art. 11.º A forma dos arrendamentos dados ou tomados pelo Estado ou pelos corpos administrativos é regulada pelas competentes leis.
 
-###### Art. 12.º O arrendamento reduzido a escrito só pode ser modificado por documento, pelo menos, de igual força.
+Art. 12.º O arrendamento reduzido a escrito só pode ser modificado por documento, pelo menos, de igual força.
 
 #### SECÇÃO II — Sujeitos da relação jurídico-localiva
 
-###### Art. 13.º O arrendamento constitui para quem o concede um acto de administração ordinária, mas, se estiver sujeito a registo, o mero administrador por mandato só pode outorgá-lo quando para tanto tenha poderes especiais; na falta destes, será o contrato considerado semestral para todos os efeitos.
+Art. 13.º O arrendamento constitui para quem o concede um acto de administração ordinária, mas, se estiver sujeito a registo, o mero administrador por mandato só pode outorgá-lo quando para tanto tenha poderes especiais; na falta destes, será o contrato considerado semestral para todos os efeitos.
 
-###### Art. 14.º - 1. Se o arrendamento é feito, da parte do locador, por virtude de um direito ou de poderes legais de administração com duração máxima prèviamente determinável, poderá celebrar-se por tempo que não exceda essa duração; e, quando estipulado por mais tempo, ficará reduzido àquele limite.
+Art. 14.º - 1. Se o arrendamento é feito, da parte do locador, por virtude de um direito ou de poderes legais de administração com duração máxima prèviamente determinável, poderá celebrar-se por tempo que não exceda essa duração; e, quando estipulado por mais tempo, ficará reduzido àquele limite.
 
 2. Se a duração dos ditos direitos ou poderes não é prèviamente determinável, o arrendamento findará com a situação jurídica que os originou, seja qual for o prazo locativo estipulado.
 
@@ -188,9 +200,9 @@ d) Os arrendamentos tomados por quaisquer corporações, fundações, associaç�
 
 4. O arrendamento não finda, se foi concedido pelo enfiteuta ou usufrutuário e o domínio se consolida nas sua mão ou ele abandona o seu direito.
 
-###### Art. 15.º O disposto no artigo anterior não prejudica o que na lei se prescreve sobre as condições, forma e prazo do arrendamento de prédios pertencentes a menores ou interditos.
+Art. 15.º O disposto no artigo anterior não prejudica o que na lei se prescreve sobre as condições, forma e prazo do arrendamento de prédios pertencentes a menores ou interditos.
 
-###### Art. 16.º - 1. É válido o arrendamento feito por algum dos comproprietários de prédio indiviso, desde que tenha a maior parte nesse prédio, ou os restantes, que com ele integram essa maior parte, manifestem por qualquer modo o seu assentimento.
+Art. 16.º - 1. É válido o arrendamento feito por algum dos comproprietários de prédio indiviso, desde que tenha a maior parte nesse prédio, ou os restantes, que com ele integram essa maior parte, manifestem por qualquer modo o seu assentimento.
 
 2. Nos casos em que a lei exigir escritura pública ou título particular, o assentimento deve ser prestado por igual forma; mas, se os não intervenientes a ele anuírem nos termos do parágrafo anterior, o contrato considera-se válido para todos os efeitos, salvo que o arrendamento sujeito a registo será considerado semestral.
 
@@ -198,13 +210,13 @@ d) Os arrendamentos tomados por quaisquer corporações, fundações, associaç�
 
 Fica salvo o direito de não permanecer na indivisão.
 
-###### Art. 17.º - 1. O cônjuge administrador dos bens do casal pode, sem outorga do outro cônjuge, dar ou tomar de arrendamento, quando este não esteja sujeito a registo.
+Art. 17.º - 1. O cônjuge administrador dos bens do casal pode, sem outorga do outro cônjuge, dar ou tomar de arrendamento, quando este não esteja sujeito a registo.
 
 2. Se o arrendamento dado pelo cônjuge administrador respeitar a prédio de natureza dotal, findará com a dissolução do casamento ou separação de pessoas e bens, ainda que a mulher o haja outorgado ou nele consentido.
 
-###### Art. 18.º A posição jurídica do arrendatário não se comunica ao seu cônjuge, seja qual for o regime matrimonial.
+Art. 18.º A posição jurídica do arrendatário não se comunica ao seu cônjuge, seja qual for o regime matrimonial.
 
-###### Art. 19.º - 1. Quem tem poderes para dar de arrendamento um prédio alheio não pode, nem pessoalmente, para si ou para outrem, nem por representante ou interposta pessoa, aceitar o arrendamento do dito prédio, ainda que haja substabelecido aqueles poderes ou não intervenha na outorga do contrato.
+Art. 19.º - 1. Quem tem poderes para dar de arrendamento um prédio alheio não pode, nem pessoalmente, para si ou para outrem, nem por representante ou interposta pessoa, aceitar o arrendamento do dito prédio, ainda que haja substabelecido aqueles poderes ou não intervenha na outorga do contrato.
 
 2. A proibição prescrita no parágrafo anterior é aplicável aos juízes, magistrados do Ministério Público, oficiais de justiça, advogados, solicitadores, peritos, testemunhas e outros auxiliares da administração da justiça, relativamente aos prédios a arrendar em processo judicial onde intervenham nas aludidas qualidades.
 
@@ -212,57 +224,57 @@ Fica salvo o direito de não permanecer na indivisão.
 
 4. Podem, porém, os administradores do prédio alheio, assim como os seus cônjuges, tomá-lo de arrendamento, desde que não intervenham no contrato como locadores e a lei lhes conceda direito de preferência.
 
-###### Art. 20.º - 1. Os contratos celebrados contra o preceituado no artigo precedente são de direito nulos quando recaírem sobre bens de pessoas morais ou forem realizados por agentes administrativos que intervenham como tais no arrendamento, ou pelos indivíduos designados no parágrafo 2 do referido artigo, ou ainda pelos cônjuges de uns ou de outros; mas os arrendatários não podem prevalecer-se da nulidade. Nos restantes casos são anuláveis.
+Art. 20.º - 1. Os contratos celebrados contra o preceituado no artigo precedente são de direito nulos quando recaírem sobre bens de pessoas morais ou forem realizados por agentes administrativos que intervenham como tais no arrendamento, ou pelos indivíduos designados no parágrafo 2 do referido artigo, ou ainda pelos cônjuges de uns ou de outros; mas os arrendatários não podem prevalecer-se da nulidade. Nos restantes casos são anuláveis.
 
 2. Os contratos por interposta pessoa são nulos ou anuláveis, nos sobreditos termos, ainda que essa pessoa não chegue a ceder ao interessado a posição jurídica de arrendatário ou a sublocar-lhe o prédio.
 
 #### SECÇÃO III — Prazo do arrendamento
 
-###### Art. 21.º O arrendamento não pode convencionar-se por mais de 30 anos; quando estipulado por tempo superior ou como contrato perpétuo, ficará reduzido àquele prazo.
+Art. 21.º O arrendamento não pode convencionar-se por mais de 30 anos; quando estipulado por tempo superior ou como contrato perpétuo, ficará reduzido àquele prazo.
 
-###### Art. 22.º - 1. O prazo do arrendamento é de seis meses, quando não haja título ou quando este seja omisso sobre a duração do contrato.
+Art. 22.º - 1. O prazo do arrendamento é de seis meses, quando não haja título ou quando este seja omisso sobre a duração do contrato.
 
 2. A disposição que imediatamente antecede não é aplicável aos arrendamentos a que se refere o parágrafo 7 do artigo 8.º
 
 #### SECÇÃO IV — Renda
 
-###### Art. 23.º - 1. A renda consistirá sempre em certa soma de dinheiro em moeda portuguesa corrente na província da situação do prédio.
+Art. 23.º - 1. A renda consistirá sempre em certa soma de dinheiro em moeda portuguesa corrente na província da situação do prédio.
 
 2. É nula, sem prejuízo da validade do contrato, a cláusula pela qual se convencione o pagamento da renda em moeda diferente da designada no parágrafo anterior; neste caso é sempre lícito ao arrendatário satisfazê-la em moeda local, ao câmbio da data do vencimento.
 
 3. Em Macau é, porém, válida a cláusula, verbal ou escrita, sobre o pagamento da renda em moeda estrangeira que tenha curso prático na província.
 
-###### Art. 24.º A renda, mesmo depois de findo ou resolvido o contrato, é sempre devida pelo arrendatário, ou por quem em seu lugar ocupe o prédio, até à efectiva restituição deste.
+Art. 24.º A renda, mesmo depois de findo ou resolvido o contrato, é sempre devida pelo arrendatário, ou por quem em seu lugar ocupe o prédio, até à efectiva restituição deste.
 
-###### Art. 25.º - 1. Salvo estipulação em contrário, se, por alguma razão que não seja relativa à sua própria pessoa ou dos seus familiares, o arrendatário sofrer privação ou diminuição do gozo do prédio, a renda será reduzida proporcionalmente ao tempo da privação ou da diminuição e à extensão destas, desde que o inquilino comunique ao senhorio, por escrito e o mais tardar até 30 dias depois de ter cessado, o motivo da redução, bem como o seu quantitativo.
+Art. 25.º - 1. Salvo estipulação em contrário, se, por alguma razão que não seja relativa à sua própria pessoa ou dos seus familiares, o arrendatário sofrer privação ou diminuição do gozo do prédio, a renda será reduzida proporcionalmente ao tempo da privação ou da diminuição e à extensão destas, desde que o inquilino comunique ao senhorio, por escrito e o mais tardar até 30 dias depois de ter cessado, o motivo da redução, bem como o seu quantitativo.
 
 2. Mas a turbação que não seja imputável ao senhorio só dá direito à dita redução se exceder um sexto do prazo do contrato ou lapso de quinze dias.
 
 3. Fica salvo ao senhorio o direito de discutir a redução ou o seu quantitativo, pelos meios ordinários.
 
-###### Art. 26.º - 1. A menos que haja estipulação em contrário, a renda será paga no domicílio do arrendatário, do primeiro ao quinto dia útil do período mensal a que respeita.
+Art. 26.º - 1. A menos que haja estipulação em contrário, a renda será paga no domicílio do arrendatário, do primeiro ao quinto dia útil do período mensal a que respeita.
 
 2. Os meses computam-se sempre pelo calendário gregoriano, excepto em Macau, onde se computarão pelo calendário lunar chinês, quando as partes assim o aceitem, por convenção escrita ou verbal.
 
-###### Art. 27.º - 1. Não pode estipular-se antecipação de renda superior à correspondente a um mês, nem por tempo também superior a um mês, relativamente ao início do período a que respeita, ficando reduzida a estes limites sempre que os exceda.
+Art. 27.º - 1. Não pode estipular-se antecipação de renda superior à correspondente a um mês, nem por tempo também superior a um mês, relativamente ao início do período a que respeita, ficando reduzida a estes limites sempre que os exceda.
 
 2. Quando se convencione antecipação do pagamento da renda, é nula toda a garantia desta obrigação que não seja a fiança. Em Macau é, porém, lícita tal convenção com o depósito, a título de caução, da importância correspondente a três meses da renda, no máximo.
 
 #### SECÇÃO V — Direitos e obrigações do senhorio e do arrendatário
 
-###### Art. 28.º - 1. Além das obrigações essenciais que lhes incubem por efeito do contrato, senhorio e o arrendatário respondem por todas aquelas a que nele respectivamente se sujeitaram e que não ofendam quaisquer disposições legais da espécie imperativa ou coactiva.
+Art. 28.º - 1. Além das obrigações essenciais que lhes incubem por efeito do contrato, senhorio e o arrendatário respondem por todas aquelas a que nele respectivamente se sujeitaram e que não ofendam quaisquer disposições legais da espécie imperativa ou coactiva.
 
 2. A nulidade de cláusulas acessórias nunca determina a nulidade de todo o contrato.
 
-###### Art. 29.º O senhorio que não fizer entrega do prédio no prazo convencionado responde por perdas e danos, sem prejuízo do direito do arrendatário a rescindir o contrato ou fazê-lo cumprir por aquele.
+Art. 29.º O senhorio que não fizer entrega do prédio no prazo convencionado responde por perdas e danos, sem prejuízo do direito do arrendatário a rescindir o contrato ou fazê-lo cumprir por aquele.
 
-###### Art. 30.º Não obstante estipulação em contrário, os encargos do prédio recaem sobre o locador, a não ser que a lei os imponha ao arrendatário.
+Art. 30.º Não obstante estipulação em contrário, os encargos do prédio recaem sobre o locador, a não ser que a lei os imponha ao arrendatário.
 
-###### Art. 31.º O senhorio responde, no caso de evicção, pelos prejuízos que por causa dela sofrer o arrendatário.
+Art. 31.º O senhorio responde, no caso de evicção, pelos prejuízos que por causa dela sofrer o arrendatário.
 
-###### Art. 32.º O senhorio é igualmente responsável se não tem direito ao gozo do prédio ou se, tendo-o, esse direito está sujeito a ónus ou limite, com excepção dos limites normais inerentes aos direitos da mesma categoria, ou não possui atributo assegurado pelo seu titular, ou cessa por culpa deste, e se de qualquer destas circunstâncias resulta privação, definitiva ou temporária, ou diminuição da fruição do prédio pelo arrendatário.
+Art. 32.º O senhorio é igualmente responsável se não tem direito ao gozo do prédio ou se, tendo-o, esse direito está sujeito a ónus ou limite, com excepção dos limites normais inerentes aos direitos da mesma categoria, ou não possui atributo assegurado pelo seu titular, ou cessa por culpa deste, e se de qualquer destas circunstâncias resulta privação, definitiva ou temporária, ou diminuição da fruição do prédio pelo arrendatário.
 
-###### Art. 33.º - 1. Quando o prédio arrendado apresente vício que lhe não permita realizar cabalmente o fim ou fins a que se destina, ou careça de qualidades necessárias a esses fins ou asseguradas pelo senhorio, este é responsável por falta de cumprimento do contrato:
+Art. 33.º - 1. Quando o prédio arrendado apresente vício que lhe não permita realizar cabalmente o fim ou fins a que se destina, ou careça de qualidades necessárias a esses fins ou asseguradas pelo senhorio, este é responsável por falta de cumprimento do contrato:
 
 a) Se o defeito data, pelo menos, do momento da entrega e o senhorio não prova que o desconhecia sem culpa;
 
@@ -280,17 +292,17 @@ c) Se o defeito é da responsabilidade do arrendatário;
 
 d) Se o arrendatário faltou ao cumprimento da sua obrigação de avisar do defeito o senhorio.
 
-###### Art. 34.º A cláusula pela qual se exclui ou limita a responsabilidade do senhorio é nula no que respeitar a defeitos que ele haja ocultado dolosamente ou que impeçam de modo definitivo ou temporário o gozo do prédio; e é igualmente nula a que excluir ou limitar a sua responsabilidade nos casos dos artigos 31.º e 32.º
+Art. 34.º A cláusula pela qual se exclui ou limita a responsabilidade do senhorio é nula no que respeitar a defeitos que ele haja ocultado dolosamente ou que impeçam de modo definitivo ou temporário o gozo do prédio; e é igualmente nula a que excluir ou limitar a sua responsabilidade nos casos dos artigos 31.º e 32.º
 
-###### Art. 35.º O disposto nos artigos 32.º e 33.º não obsta a que o arrendatário, se assim o preferir, peça a anulação do contrato por erro ou dolo, nos termos gerais de direito.
+Art. 35.º O disposto nos artigos 32.º e 33.º não obsta a que o arrendatário, se assim o preferir, peça a anulação do contrato por erro ou dolo, nos termos gerais de direito.
 
-###### Art. 36.º - 1. Se o senhorio, sendo para tanto solicitado, nào fizer, em prazo razoável consoante a boa fé e as circunstâncias, as reparações exigidas pelo fim ou fins a que o prédio se destina, pode o arrendatário mandar fazê-las por conta daquele, precedendo citação do faltoso, nos termos aplicáveis dos artigos 933.º e seguintes do Código de Processo.
+Art. 36.º - 1. Se o senhorio, sendo para tanto solicitado, nào fizer, em prazo razoável consoante a boa fé e as circunstâncias, as reparações exigidas pelo fim ou fins a que o prédio se destina, pode o arrendatário mandar fazê-las por conta daquele, precedendo citação do faltoso, nos termos aplicáveis dos artigos 933.º e seguintes do Código de Processo.
 
 2. Se as ditas reparações, pela sua extrema, urgência, se não compadecerem com as delongas do procedimento judicial, pode o arrendatário fazê-las extrajudicialmente, com direito ao seu reembolso pelos meios ordinários, ficando livre ao senhorio o direito de discutir a necessidade, a urgência e o custo das obras.
 
 O arrendatário deve avisar o senhorio simultâneamente à efectuação das reparações.
 
-###### Art. 37.º - 1. Fora dos casos previstos no artigo anterior, o arrendatário não tem direito ao reembolso de quaisquer despesas que haja feito no prédio.
+Art. 37.º - 1. Fora dos casos previstos no artigo anterior, o arrendatário não tem direito ao reembolso de quaisquer despesas que haja feito no prédio.
 
 2. Se, porém, o senhorio autorizou por escrito as despesas, é obrigado a pagar uma indemnização igual ao custo delas ou ao benefício que representarem no momento da restituição do prédio, conforme for menor a primeira ou a segunda destas importâncias.
 
@@ -300,9 +312,9 @@ O arrendatário deve avisar o senhorio simultâneamente à efectuação das repa
 
 5. Fica sempre salva estipulação em contrário.
 
-###### Art. 38.º O arrendatário que for ilegalmente perturbado ou esbulhado da posse dos direitos que, por efeito do contrato, tem sobre o prédio arrendado, pode usar, mesmo contra o senhorio, dos meios competentes para a manutenção ou restituição da sua posse, durante o prazo do arrendamento.
+Art. 38.º O arrendatário que for ilegalmente perturbado ou esbulhado da posse dos direitos que, por efeito do contrato, tem sobre o prédio arrendado, pode usar, mesmo contra o senhorio, dos meios competentes para a manutenção ou restituição da sua posse, durante o prazo do arrendamento.
 
-###### Art. 39.º - 1. O arrendatário responde pela manutenção e restituição do prédio no estado em que o recebeu, ressalvadas as deteriorações inerentes a uma prudente utilização, na conformidade do fim ou fins do arrendamento.
+Art. 39.º - 1. O arrendatário responde pela manutenção e restituição do prédio no estado em que o recebeu, ressalvadas as deteriorações inerentes a uma prudente utilização, na conformidade do fim ou fins do arrendamento.
 
 2. Consideram-se inerentes a uma prudente utilização as pequenas danificações que o arrendatário causar no prédio para seu conforto e comodidade, em harmonia com os usos; mas, salvo estipulação em contrário, o inquilino deve repará-las, antes de desocupar o prédio.
 
@@ -310,13 +322,13 @@ O arrendatário deve avisar o senhorio simultâneamente à efectuação das repa
 
 4. Presume-se que o prédio foi entregue ao arrendatário em bom estado de manutenção, quando não exista documento onde as partes tenham descrito o estado dele a esse tempo.
 
-###### Art. 40.º O senhorio pode verificar in loco, quando assim se torne necessário, se a outra parte cumpre as suas obrigações.
+Art. 40.º O senhorio pode verificar in loco, quando assim se torne necessário, se a outra parte cumpre as suas obrigações.
 
-###### Art. 41.º - 1. O arrendatário que se constituir em mora quanto à dívida de rendas pagará, além destas, uma indemnização igual ao dobro das rendas em atraso, salvo se, pela oferta ou depósito da renda, puser termo à mora no prazo de oito dias, a contar do seu começo.
+Art. 41.º - 1. O arrendatário que se constituir em mora quanto à dívida de rendas pagará, além destas, uma indemnização igual ao dobro das rendas em atraso, salvo se, pela oferta ou depósito da renda, puser termo à mora no prazo de oito dias, a contar do seu começo.
 
 2. Deixa de haver direito à indemnização por falta ou mora do pagamento de rendas, quando o senhorio obtiver a rescisão do contrato por esse fundamento.
 
-###### Art. 42.º - 1. É também devida uma indemnização igual a outro tanto da renda, quando o arrendatário ou o seu sucessor, sem causa legítima, deixe de restituir o gozo do prédio, logo que finde o prazo do arrendamento ou se dê a resolução do contrato, salvo, no caso de rescisão, o disposto no parágrafo 2 do artigo anterior.
+Art. 42.º - 1. É também devida uma indemnização igual a outro tanto da renda, quando o arrendatário ou o seu sucessor, sem causa legítima, deixe de restituir o gozo do prédio, logo que finde o prazo do arrendamento ou se dê a resolução do contrato, salvo, no caso de rescisão, o disposto no parágrafo 2 do artigo anterior.
 
 2. A indemnização é devida até à efectiva desocupação do prédio, sem que, todavia, possa exceder seis meses:
 
@@ -330,7 +342,7 @@ d) No caso de caducidade, a partir do termo do prazo a que se refere o artigo 90
 
 3. Fica salvo o direito do senhorio à indemnização dos prejuízos excedentes, se os houver.
 
-###### Art. 43.º - 1. O privilégio prescrito no n.º 4.º do artigo 882.º do Código Civil entende-se estabelecido sobre as coisas móveis existentes no prédio arrendado e que sirvam para tornar possível, mais cómodo ou mais agradável o uso dele; e subsiste ainda durante os três meses seguintes à sua saída do prédio sem autorização do senhorio, embora passem para o domínio ou posse de terceira pessoa.
+Art. 43.º - 1. O privilégio prescrito no n.º 4.º do artigo 882.º do Código Civil entende-se estabelecido sobre as coisas móveis existentes no prédio arrendado e que sirvam para tornar possível, mais cómodo ou mais agradável o uso dele; e subsiste ainda durante os três meses seguintes à sua saída do prédio sem autorização do senhorio, embora passem para o domínio ou posse de terceira pessoa.
 
 2. Este privilégio é extensivo ao crédito por indemnização devida nos termos dos dois artigos anteriores, ou, em geral, pela falta do cumprimento do contrato por parte do arrendatário.
 
@@ -338,7 +350,7 @@ d) No caso de caducidade, a partir do termo do prazo a que se refere o artigo 90
 
 ##### SUBSECÇÃO I — Revogação
 
-###### Art. 44.º - 1. O arrendamento reduzido a escrito só pode ser revogado por documento, pelo menos, de igual força.
+Art. 44.º - 1. O arrendamento reduzido a escrito só pode ser revogado por documento, pelo menos, de igual força.
 
 2. Se, porém, o contrato não estiver sujeito a registo, a revogação será sempre válida, independentemente da forma prescrita no parágrafo anterior, desde que o arrendatário restitua o uso do prédio ao senhorio e este aceite a restituição.
 
@@ -348,9 +360,9 @@ d) No caso de caducidade, a partir do termo do prazo a que se refere o artigo 90
 
 ##### SUBSECÇÃO II — Rescisão
 
-###### Art. 45.º A rescisão do contrato por falta de cumprimento do arrendatário tem de ser decretada pelo tribunal, nos termos deste diploma e na forma da lei de processo.
+Art. 45.º A rescisão do contrato por falta de cumprimento do arrendatário tem de ser decretada pelo tribunal, nos termos deste diploma e na forma da lei de processo.
 
-###### Art. 46.º O senhorio só tem direito à rescisão do contrato quando o arrendatário:
+Art. 46.º O senhorio só tem direito à rescisão do contrato quando o arrendatário:
 
 a) Não pagar a renda no prazo e lugar competentes ou dele não fizer depósito que a lei considere liberatório;
 
@@ -368,9 +380,9 @@ g) Violar o disposto no artigo 70.º;
 
 h) Conservar o prédio que esteja arrendado para comércio ou indústria encerrado por mais de um ano, consecutivamente, salvo caso de força maior ou ausência forçada do arrendatário durante o período do encerramento.
 
-###### Art. 47.º O direito à rescisão do contrato por falta de pagamento de renda caduca logo que cesse a mora do arrendatário, uma vez que este facto se produza pelo pagamento ou depósito da renda ou da renda e indemnização, conforme o caso, até à contestação da acção tendente a fazer valer aquele direito.
+Art. 47.º O direito à rescisão do contrato por falta de pagamento de renda caduca logo que cesse a mora do arrendatário, uma vez que este facto se produza pelo pagamento ou depósito da renda ou da renda e indemnização, conforme o caso, até à contestação da acção tendente a fazer valer aquele direito.
 
-###### Art. 48.º O arrendatário pode rescindir o contrato, independentemente de responsabilidade do senhorio:
+Art. 48.º O arrendatário pode rescindir o contrato, independentemente de responsabilidade do senhorio:
 
 a) Se, por alguma razão estranha à sua própria pessoa ou à dos seus familiares, for privado do gozo do prédio, ainda que só temporàriamente;
 
@@ -378,15 +390,15 @@ b) Se no prédio arrendado existe ou sobrevém defeito que ponha em sério perig
 
 ##### SUBSECÇÃO III — Caducidade
 
-###### Art. 49.º - 1. Verifica-se a caducidade de arrendamento quando ocorrer algum dos eventos por virtude dos quais se deva considerar findo, nos termos dos artigos 14.º e 17.º
+Art. 49.º - 1. Verifica-se a caducidade de arrendamento quando ocorrer algum dos eventos por virtude dos quais se deva considerar findo, nos termos dos artigos 14.º e 17.º
 
 2. O direito à restituição do prédio transmite-se a quem ficar com o gozo dele.
 
-###### Art. 50.º - 1. Salvo estipulação em contrário ou nos casos exceptuados por este diploma, o arrendamento caduca por morte do arrendatário ou pela sua extinção, se for pessoa colectiva.
+Art. 50.º - 1. Salvo estipulação em contrário ou nos casos exceptuados por este diploma, o arrendamento caduca por morte do arrendatário ou pela sua extinção, se for pessoa colectiva.
 
 2. O direito à restituição do prédio exerce-se contra quem o ocupar no lugar do extinto arrendatário e pelos mesmos meios que seriam competentes para o exercer contra este.
 
-###### Art. 51.º - 1. Verifica-se igualmente a caducidade do contrata nos casos de perda do prédio, sua demolição por resolução camarária ou expropriação por utilidade pública, a não ser, neste último caso, que a expropriação, pelo seu fim, se compadeça com a subsistência do arrendamento.
+Art. 51.º - 1. Verifica-se igualmente a caducidade do contrata nos casos de perda do prédio, sua demolição por resolução camarária ou expropriação por utilidade pública, a não ser, neste último caso, que a expropriação, pelo seu fim, se compadeça com a subsistência do arrendamento.
 
 2. O arrendamento também caduca se o prédio tiver de sofrer, por imposição administrativa ou policial, obras de consolidação incompatíveis com a permanência ali do arrendatário; mas este terá direito, findas as obras, a renovar o contrato, mediante renda fixada pela comissão de avaliação prevista no artigo 107.º, se para tanto notificar o senhorio no prazo de quinze dias, a contar da licença para a reocupação.
 
@@ -394,13 +406,13 @@ b) Se no prédio arrendado existe ou sobrevém defeito que ponha em sério perig
 
 ##### SUBSECÇÃO I — Prorrogação
 
-###### Art. 52.º - 1. O arrendamento, chegado o seu termo, considera-se prorrogado sucessivamente se o inquilino se não despedir no tempo e pela forma designada no contrato ou na lei.
+Art. 52.º - 1. O arrendamento, chegado o seu termo, considera-se prorrogado sucessivamente se o inquilino se não despedir no tempo e pela forma designada no contrato ou na lei.
 
 2. Não havendo convenção do prazo para a prorrogação, esta é igual ao período por que tenha sido celebrado o contrato; mas será apenas de um ano se o dito prazo for mais longo.
 
 3. Do disposto nos parágrafos anteriores exceptuam-se os arrendatários do Estado, das autarquias locais ou das restantes entidades mencionadas no artigo 7.º, os quais podem ser sempre despedidos no termo do contrato. Esta excepção é extensiva aos arrendamentos referidos no artigo 3.º e no parágrafo 7 do artigo 8.º
 
-###### Art. 53.º - 1. O senhorio pode, porém, dar por findo o arrendamento no termo do prazo ou da sua prorrogação:
+Art. 53.º - 1. O senhorio pode, porém, dar por findo o arrendamento no termo do prazo ou da sua prorrogação:
 
 a) Se necessita do prédio para ele próprio o ocupar, quer para sua habitação, quer para nele instalar actividade económica que exerça efectivamente por si mesmo, a título profissional exclusivo e em seu nome individual, quer para realização de ambos estes fins, desde que, em todo o caso, se verifiquem conjuntamente os seguintes requisitos:
 
@@ -424,45 +436,45 @@ b) Quando se proponha, com projecto aprovado pela respectiva câmara ou comissã
 
 4. Nos primeiros três anos que se seguirem ao fim do arrendamento nos termos deste artigo não poderá o senhorio exercer no mesmo local donde seja despejado o inquilino comercial ou industrial o mesmo ramo de comércio ou indústria, salvo se há mais de três anos exercesse a mesma actividade. Mas, se entretanto o senhorio ocupar o prédio para fim referido neste parágrafo, pagará ao inquilino despejado uma indemnização suplementar, além da referida no parágrafo 2 do artigo 81.º, correspondente ao montante de três anos da renda que este pagava.
 
-###### Art. 54.º - 1. No caso da alínea a) do artigo anterior, o senhorio que trouxer diversos prédios arrendados na localidade só pode exercer aquele direito relativamente ao que, de entre os adequados ao fim ou fins de ocupação em vista, esteja arrendado há menos tempo.
+Art. 54.º - 1. No caso da alínea a) do artigo anterior, o senhorio que trouxer diversos prédios arrendados na localidade só pode exercer aquele direito relativamente ao que, de entre os adequados ao fim ou fins de ocupação em vista, esteja arrendado há menos tempo.
 
 2. No caso da alínea b) do artigo anterior, o senhorio tomará, no requerimento para notificação do despedimento ou na petição inicial da acção de despejo, um ou outra acompanhado do respectivo projecto, o compromisso de iniciar as obras no prazo de três meses e concluí-las no de doze ou dezoito, a contar da desocupação do prédio, conforme este deva ser ampliado ou inteiramente substituído por outro.
 
 O prazo de conclusão das obras pode, excepcionalmente, ser ampliado pelo prudente arbítrio do juiz, em face da importância do projecto, se o senhorio assim o pedir na acção de despejo.
 
-###### Art. 55.º - 1. No caso da alínea a) do artigo 53.º, o aviso de despedimento deve ser feito com a antecedência de três meses; mas, se faltar menos tempo para o termo do contrato, não se dará a prorrogação e o arrendatário terá de desocupar o prédio naquele prazo, a contar do aviso.
+Art. 55.º - 1. No caso da alínea a) do artigo 53.º, o aviso de despedimento deve ser feito com a antecedência de três meses; mas, se faltar menos tempo para o termo do contrato, não se dará a prorrogação e o arrendatário terá de desocupar o prédio naquele prazo, a contar do aviso.
 
 2. Se o senhorio, devoluto o prédio, não o for ocupar dentro de 30 dias, ou nele se não conservar durante 3 anos, ou, no decurso deste último lapso de tempo, o tiver desocupado 8 meses consecutivos ou consentir que outrem o ocupe, ainda que gratuitamente, o arrendatário despedido terá direito não só a recuperar o prédio mediante a última renda que pagava, como também a uma indemnização igual a 2 anos dessa renda, salvo morte ou deslocação forçada do senhorio não prevista à data do despedimento.
 
 3. Se o senhorio tiver de fazer no prédio simples reparações ou adaptações que não envolvam ampliação, será de três meses o prazo para a ocupação.
 
-###### Art. 56.º - 1. No caso da alínea b) do artigo 53.º, o inquilino tem direito a tomar de arrendamento, mediante a renda estabelecida pela comissão de avaliação referida no artigo 107.º, uma parte do prédio ampliado ou novo tanto quanto possível correspondente à que ocupava no antigo, desde que o declare ao senhorio, por carta registada com aviso de recepção, dentro do prazo de dez dias, a contar da notificação judicial que o senhorio deverá fazer-lhe para o efeito dentro de quinze dias, a contar da licença camarária para a ocupação, sem o que não poderá dar a outrem o prédio de arrendamento. Exceptua-se o caso de se destinar o prédio exclusivamente a ser ocupado pelo senhorio, nos termos da segunda alternativa prevista na referida alínea.
+Art. 56.º - 1. No caso da alínea b) do artigo 53.º, o inquilino tem direito a tomar de arrendamento, mediante a renda estabelecida pela comissão de avaliação referida no artigo 107.º, uma parte do prédio ampliado ou novo tanto quanto possível correspondente à que ocupava no antigo, desde que o declare ao senhorio, por carta registada com aviso de recepção, dentro do prazo de dez dias, a contar da notificação judicial que o senhorio deverá fazer-lhe para o efeito dentro de quinze dias, a contar da licença camarária para a ocupação, sem o que não poderá dar a outrem o prédio de arrendamento. Exceptua-se o caso de se destinar o prédio exclusivamente a ser ocupado pelo senhorio, nos termos da segunda alternativa prevista na referida alínea.
 
 2. Se o senhorio faltar ao compromisso tomado, nos termos do parágrafo 2 do artigo 54.º, pagará ao arrendatário, sem prejuízo dos restantes direitos deste resultantes da desocupação, uma indemnização, por cada mês que estiver em falta quanto ao início ou conclusão das obras, igual ao dobro da última renda até ao máximo de uma ano, salvo se a falta for devida a impossibilidade manifesta ou a facto imputável a outrem e para o qual de nenhum modo haja contribuído. O prazo legal de conclusão das obras entende-se, para os efeitos deste parágrafo, referido ao início efectivo delas.
 
 ##### SUBSECÇÃO II — Renovação
 
-###### Art. 57.º Se, uma vez revogado, rescindido ou caduco o contrato, o arrendatário ou seu sucessor se mantiver no gozo do prédio pelo lapso de um ano, sem oposição da outra parte, o arrendamento considera-se de novo em vigor como se não tivesse findado.
+Art. 57.º Se, uma vez revogado, rescindido ou caduco o contrato, o arrendatário ou seu sucessor se mantiver no gozo do prédio pelo lapso de um ano, sem oposição da outra parte, o arrendamento considera-se de novo em vigor como se não tivesse findado.
 
 #### SECÇÃO VIII — Transmissão do contrato
 
 ##### SUBSECÇÃO I — Transmissão dos direitos e obrigações do senhorio
 
-###### Art. 58.º - 1. Seja qual for a forma do contrato e salvo o disposto no parágrafo 3 do artigo 14.º, os direitos e obrigações do senhorio transmitem-se com a propriedade do prédio ou com o direito ao abrigo do qual o arrendamento foi concedido, quer a sucessão seja negocial, quer judicial, a título singular ou universal.
+Art. 58.º - 1. Seja qual for a forma do contrato e salvo o disposto no parágrafo 3 do artigo 14.º, os direitos e obrigações do senhorio transmitem-se com a propriedade do prédio ou com o direito ao abrigo do qual o arrendamento foi concedido, quer a sucessão seja negocial, quer judicial, a título singular ou universal.
 
 2. A dita transmissão também se dá a favor do proprietário na hipótese de abandono a que se refere o parágrafo 4 do artigo 14.º
 
-###### Art. 59.º É inoponível ao sucessor inter vivos do senhorio a liberação de rendas não vencidas que respeitem a períodos ainda não decorridos à data da sucessão.
+Art. 59.º É inoponível ao sucessor inter vivos do senhorio a liberação de rendas não vencidas que respeitem a períodos ainda não decorridos à data da sucessão.
 
 ##### SUBSECÇÃO II — Transmissão dos direitos e obrigações do arrendatário
 
-###### Art. 60.º A posição jurídica do arrendatário é intransmissível, a não ser que as partes tenham estipulado a não caducidade do arrendamento por morte dele e nos demais casos exceptuados por este decreto.
+Art. 60.º A posição jurídica do arrendatário é intransmissível, a não ser que as partes tenham estipulado a não caducidade do arrendamento por morte dele e nos demais casos exceptuados por este decreto.
 
-###### Art. 61.º Salvo o disposto nos artigos 85.º e 87.º, a cessão da posição jurídica do arrendatário ou a cedência do gozo do prédio por parte deste, total ou parcial, gratuita ou onerosa, provisória ou definitiva, é para todos os efeitos equiparada ao subarrendamento.
+Art. 61.º Salvo o disposto nos artigos 85.º e 87.º, a cessão da posição jurídica do arrendatário ou a cedência do gozo do prédio por parte deste, total ou parcial, gratuita ou onerosa, provisória ou definitiva, é para todos os efeitos equiparada ao subarrendamento.
 
 #### SECÇÃO IX — Subarrendamento
 
-###### Art. 62.º - 1. O subarrendamento só é lícito quando seja autorizado por lei, pelo contrato ou por consentimento posterior do senhorio, dado por escrito de qualquer natureza.
+Art. 62.º - 1. O subarrendamento só é lícito quando seja autorizado por lei, pelo contrato ou por consentimento posterior do senhorio, dado por escrito de qualquer natureza.
 
 2. Se, porém, a sublocação for absolutamente proibida no título, é aplicável ao consentimento posterior o disposto no artigo 12.º
 
@@ -470,9 +482,9 @@ O prazo de conclusão das obras pode, excepcionalmente, ser ampliado pelo pruden
 
 O simples conhecimento de que o prédio foi sublocado não constitui reconhecimento do sublocatário como tal.
 
-###### Art. 63.º Sem prejuízo do disposto no artigo 71.º, o subarrendamento só pode estabelecer-se vàlidamente pela forma designada neste diploma para a constituição do respectivo contrato de arrendamento.
+Art. 63.º Sem prejuízo do disposto no artigo 71.º, o subarrendamento só pode estabelecer-se vàlidamente pela forma designada neste diploma para a constituição do respectivo contrato de arrendamento.
 
-###### Art. 64.º - 1. A sublocação só produz efeito em relação ao senhorio, se lhe for comunicada por escrito ou notificado pelo arrendatário, no prazo de quinze dias.
+Art. 64.º - 1. A sublocação só produz efeito em relação ao senhorio, se lhe for comunicada por escrito ou notificado pelo arrendatário, no prazo de quinze dias.
 
 2. Na falta desta comunicação ou notificação, fará as suas vezes a que o subarrendatário fizer ao senhorio nas mesmas condições e prazo.
 
@@ -480,27 +492,27 @@ O simples conhecimento de que o prédio foi sublocado não constitui reconhecime
 
 4. É dispensada a comunicação ou notificação quando se trate de sublocação especialmente consentida pelo senhorio a favor de determinada pessoa e que se faça, o mais tardar, 90 dias depois de autorizada ou quando o senhorio reconhecer o subarrendatário como tal.
 
-###### Art. 65.º O sublocatário só poderá usar dos meios possessórios ou evitar a execução do mandado de despejo passado contra o sublocador nos termos da lei de processo, se provar por documento, sendo válida a sublocação, que esta foi comunicada ou notificada ao senhorio dentro do prazo legal, ou que o senhorio a autorizou especialmente ou reconheceu o sublocatário como tal.
+Art. 65.º O sublocatário só poderá usar dos meios possessórios ou evitar a execução do mandado de despejo passado contra o sublocador nos termos da lei de processo, se provar por documento, sendo válida a sublocação, que esta foi comunicada ou notificada ao senhorio dentro do prazo legal, ou que o senhorio a autorizou especialmente ou reconheceu o sublocatário como tal.
 
-###### Art. 66.º Se tanto o arrendatário como o subarrendatário estiverem em mora quanto às respectivas dívidas de renda, o senhorio pode exigir do sublocatário o que este dever até ao montante do seu próprio crédito.
+Art. 66.º Se tanto o arrendatário como o subarrendatário estiverem em mora quanto às respectivas dívidas de renda, o senhorio pode exigir do sublocatário o que este dever até ao montante do seu próprio crédito.
 
-###### Art. 67.º Em todos os casos de sublocação total o senhorio tem a faculdade de, mediante notificação judicial, se substituir ao arrendatário, considerando-se resolvido o primitivo arrendamento e passando o sublocatário a arrendatário directo. Para se tornar efectiva a substituição no fim do prazo do arrendamento a notificação deve ser feita ao arrendatário e sublocatário nos prazos do artigo 970.º do Código de Processo.
+Art. 67.º Em todos os casos de sublocação total o senhorio tem a faculdade de, mediante notificação judicial, se substituir ao arrendatário, considerando-se resolvido o primitivo arrendamento e passando o sublocatário a arrendatário directo. Para se tornar efectiva a substituição no fim do prazo do arrendamento a notificação deve ser feita ao arrendatário e sublocatário nos prazos do artigo 970.º do Código de Processo.
 
-###### Art. 68.º - 1. A sublocação caduca com a extinção, por qualquer forma, do arrendamento, sem prejuízo da responsabilidade do sublocador para com o sublocatário, quando o motivo da extinção lhe for imputável.
+Art. 68.º - 1. A sublocação caduca com a extinção, por qualquer forma, do arrendamento, sem prejuízo da responsabilidade do sublocador para com o sublocatário, quando o motivo da extinção lhe for imputável.
 
 2. A sublocação não caduca pelo distrate do arrendamento, nem pela confusão das qualidades de senhorio e de inquilino, sucedendo em tais casos o subarrendatário nos direitos e obrigações do arrendatário.
 
-###### Art. 69.º Se o senhorio receber alguma renda do sublocatário e lhe passar recibo depois da extinção do arrendamento, será o subarrendatário havido como arrendatário directo.
+Art. 69.º Se o senhorio receber alguma renda do sublocatário e lhe passar recibo depois da extinção do arrendamento, será o subarrendatário havido como arrendatário directo.
 
-###### Art. 70.º O arrendatário não pode cobrar do subarrendatário renda superior à devida pelo contrato de arrendamento, acrescida de 20 por cento na sublocação total e 10 por cento na parcial.
+Art. 70.º O arrendatário não pode cobrar do subarrendatário renda superior à devida pelo contrato de arrendamento, acrescida de 20 por cento na sublocação total e 10 por cento na parcial.
 
-###### Art. 71.º A sublocação ilícita ou ineficaz ou nula por falta de forma pode sempre provar-se por qualquer meio admitido em direito; nem o senhorio terá de demonstrar o prazo do subarrendamento ou o quantitativo da renda paga pelo subarrendatário, salvo, quanto a este último elemento, no caso de rescisão do contrato por violação do artigo anterior.
+Art. 71.º A sublocação ilícita ou ineficaz ou nula por falta de forma pode sempre provar-se por qualquer meio admitido em direito; nem o senhorio terá de demonstrar o prazo do subarrendamento ou o quantitativo da renda paga pelo subarrendatário, salvo, quanto a este último elemento, no caso de rescisão do contrato por violação do artigo anterior.
 
 ### CAPÍTULO III — Disposições especiais
 
 #### SECÇÃO I — Arrendamentos para habitação
 
-###### Art. 72.º - 1. Podem residir na casa arrendada, além do arrendatário:
+Art. 72.º - 1. Podem residir na casa arrendada, além do arrendatário:
 
 a) Todos os que vivam com ele em economia comum;
 
@@ -516,19 +528,19 @@ No Estado da Índia, fica também abrangida no conceito de economia comum a soci
 
 Os parentes do arrendatário não designados no período anterior só se reputarão supletivamente como vivendo com ele em economia comum quando se prove que o fazem a título inteiramente gratuito.
 
-###### Art. 73.º - 1. No uso residencial da casa arrendada inclui-se o exercício de qualquer indústria doméstica, ainda que tributada.
+Art. 73.º - 1. No uso residencial da casa arrendada inclui-se o exercício de qualquer indústria doméstica, ainda que tributada.
 
 2. Para os efeitos deste artigo, diz-se indústria doméstica a que é explorada na sua residência pelo arrendatário ou por qualquer dos seus familiares e não ocupe mais de três auxiliares assalariados.
 
-###### Art. 74.º Quando, ao arrendar-se casa para habitação, se aluga também a respectiva mobília ao mesmo locador, considera-se arrendamento todo o contrato, e renda todo o preço locativo. Mas, para os efeitos do artigo 103.º, discriminar-se-á o dito preço relativamente à locação do prédio e à da mobília.
+Art. 74.º Quando, ao arrendar-se casa para habitação, se aluga também a respectiva mobília ao mesmo locador, considera-se arrendamento todo o contrato, e renda todo o preço locativo. Mas, para os efeitos do artigo 103.º, discriminar-se-á o dito preço relativamente à locação do prédio e à da mobília.
 
-###### Art. 75.º - 1. Requerida a separação de pessoas e bens ou o divórcio, podem marido e mulher acordar em que a posição jurídica do arrendatário fique pertencendo ao cônjuge que a não tinha. Na falta de acordo, o juiz, a requerimento de qualquer dos interessados, decidirá a questão na sentença, tendo em conta a situação patrimonial de um ou de outro, as circunstâncias de facto relativas à ocupação da casa, o interesse dos filhos, a culpa do arrendatário na separação ou divórcio e o facto de ser o arrendamento anterior ou posterior ao casamento.
+Art. 75.º - 1. Requerida a separação de pessoas e bens ou o divórcio, podem marido e mulher acordar em que a posição jurídica do arrendatário fique pertencendo ao cônjuge que a não tinha. Na falta de acordo, o juiz, a requerimento de qualquer dos interessados, decidirá a questão na sentença, tendo em conta a situação patrimonial de um ou de outro, as circunstâncias de facto relativas à ocupação da casa, o interesse dos filhos, a culpa do arrendatário na separação ou divórcio e o facto de ser o arrendamento anterior ou posterior ao casamento.
 
 2. O acordo ou a decisão podem também ter lugar na oportunidade e pela forma dos artigos 1452.º e seguintes do Código de Processo, na parte aplicável.
 
 3. A transmissão do direito ao arrendamento para o cônjuge do arrendatário, por acordo ou decisão judicial, só produzirá efeitos em relação ao senhorio se for requerida a sua notificação dentro de 30 dias, a contar do trânsito em julgado da decisão proferida, consoante o caso, na acção de separação ou divórcio ou no processo de jurisdição voluntária.
 
-###### Art. 76.º - 1. O arrendamento não caduca por morte do primitivo arrendatário, se lhe sobreviver cônjuge não separado de pessoas e bens ou de facto, ou descendente ou ascendente que com ele vivesse pelo menos há um ano; mas o sucessor pode renunciar à transmissão, nos termos do artigo 79.º
+Art. 76.º - 1. O arrendamento não caduca por morte do primitivo arrendatário, se lhe sobreviver cônjuge não separado de pessoas e bens ou de facto, ou descendente ou ascendente que com ele vivesse pelo menos há um ano; mas o sucessor pode renunciar à transmissão, nos termos do artigo 79.º
 
 2. A transmissão da posição jurídica do inquilino, estabelecida no parágrafo anterior, defere-se pela ordem seguinte:
 
@@ -542,7 +554,7 @@ c) Aos ascendentes, preferindo os mais próximos.
 
 4. Quando o arrendatário não residir no prédio, mas nele viverem o seu cônjuge, descendentes ou ascendentes, o arrendamento transmite-se, por morte daquele, nos termos dos parágrafos 1 e 2 deste artigo.
 
-###### Art. 77.º - 1. O senhorio pode dar por findo o arrendamento no termo do prazo, originário ou prorrogado, se, ao tempo em que faz valer o despedimento, o inquilino não tem na casa arrendada residência permanente, habite ou não outra casa, própria ou alheia, ou se ao dito tempo a conserva desabitada há mais de um ano, consecutivamente.
+Art. 77.º - 1. O senhorio pode dar por findo o arrendamento no termo do prazo, originário ou prorrogado, se, ao tempo em que faz valer o despedimento, o inquilino não tem na casa arrendada residência permanente, habite ou não outra casa, própria ou alheia, ou se ao dito tempo a conserva desabitada há mais de um ano, consecutivamente.
 
 2. O disposto no parágrafo anterior não se aplica:
 
@@ -550,15 +562,15 @@ c) Aos ascendentes, preferindo os mais próximos.
 
 2.º Se permanecerem na casa as pessoas ou algumas das pessoas que constituem o agregado familiar do inquilino.
 
-###### Art. 78.º Nos arrendamentos para habitação são de direito nulas, salvo se forem explícita ou implìcitamente permitidas por este decreto, as estipulações que inutilizem os benefícios que nele se concedam aos arrendatários ou subarrendatários, ou que exprimam renúncia a esses direitos.
+Art. 78.º Nos arrendamentos para habitação são de direito nulas, salvo se forem explícita ou implìcitamente permitidas por este decreto, as estipulações que inutilizem os benefícios que nele se concedam aos arrendatários ou subarrendatários, ou que exprimam renúncia a esses direitos.
 
 #### SECÇÃO II — Arrendamentos para comércio ou indústria
 
-###### Art. 79.º - 1. O arrendamento não caduca por morte do arrendatário; a sua posição jurídica transmite-se aos seus herdeiros, se estes não comunicarem ao senhorio, no prazo de 30 dias, que renunciam a ela.
+Art. 79.º - 1. O arrendamento não caduca por morte do arrendatário; a sua posição jurídica transmite-se aos seus herdeiros, se estes não comunicarem ao senhorio, no prazo de 30 dias, que renunciam a ela.
 
 2. Produz o mesmo efeito que a renúncia a restituição do uso do prédio, no mesmo prazo, por parte dos herdeiros.
 
-###### Art. 80.º - 1. Poderá o senhorio, ao fim de cada período de cinco anos que durar o arrendamento, aumentar a renda. O quantitativo do aumento será fixado por acordo das partes, ou, na falta dele, por avaliação, nos termos do artigo 107.º
+Art. 80.º - 1. Poderá o senhorio, ao fim de cada período de cinco anos que durar o arrendamento, aumentar a renda. O quantitativo do aumento será fixado por acordo das partes, ou, na falta dele, por avaliação, nos termos do artigo 107.º
 
 2. É facultado ao arrendatário que não aceite o aumento despedir-se no termo desse período, mas sem direito a qualquer compensação ou prorrogação concedida por este decreto.
 
@@ -568,7 +580,7 @@ c) Aos ascendentes, preferindo os mais próximos.
 
 5. O aumento, quando fixado por acordo das partes, será por elas consignado nos títulos em seu poder, os quais serão, em seguida, apresentados, no prazo marcado para o título inicial, na repartição de Fazenda do respectivo concelho, que, depois de averbado o aumento no triplicado do título ou na cópia notarial em seu poder, os devolverá ao apresentante, com a nota respectiva.
 
-###### Art. 81.º - 1. Quando o arrendamento deva e possa legalmente cessar por motivo de caducidade ou, no seu termo, por despedimento do senhorio, terá o arrendatário direito a uma compensação em dinheiro, se por facto seu, em virtude de clientela por ele alcançada, o prédio arrendado se encontrar em circunstâncias de valer maior renda do que valia ao tempo do arrendamento, ainda que não volte a ser arrendado.
+Art. 81.º - 1. Quando o arrendamento deva e possa legalmente cessar por motivo de caducidade ou, no seu termo, por despedimento do senhorio, terá o arrendatário direito a uma compensação em dinheiro, se por facto seu, em virtude de clientela por ele alcançada, o prédio arrendado se encontrar em circunstâncias de valer maior renda do que valia ao tempo do arrendamento, ainda que não volte a ser arrendado.
 
 2. A importância da compensação será fixada, pedindo-a o arrendatário, pelo prudente arbítrio do juiz, conforme as circunstâncias, mas não excederá cinco vezes a renda anual.
 
@@ -576,7 +588,7 @@ Na hipótese prevenida no parágrafo 4 do artigo 53.º haverá ainda lugar ao pa
 
 3. Esta compensação constitui crédito privilegiado sobre o imóvel a que respeita, com classificação em quarto lugar na ordem de graduação do artigo 887.º do Código Civil.
 
-###### Art. 82.º - 1. Quando o arrendamento houver durado um ano ou mais e tiver de cessar pelos motivos referidos no artigo anterior, o arrendatário, se formular tal pedido, terá o direito de não desocupar o prédio senão um ano depois de findo o prazo do contrato ou da prorrogação.
+Art. 82.º - 1. Quando o arrendamento houver durado um ano ou mais e tiver de cessar pelos motivos referidos no artigo anterior, o arrendatário, se formular tal pedido, terá o direito de não desocupar o prédio senão um ano depois de findo o prazo do contrato ou da prorrogação.
 
 2. Se o arrendamento tiver durado dez anos ou mais, a desocupação será diferida, nas mesmas condições do parágrafo anterior, por dois anos.
 
@@ -584,13 +596,13 @@ Na hipótese prevenida no parágrafo 4 do artigo 53.º haverá ainda lugar ao pa
 
 4. Nos casos de desocupação diferida nos termos deste artigo, o arrendamento fica para todos os efeitos prorrogado pelo prazo concedido, ainda que fosse menor o prazo do arrendamento inicial.
 
-###### Art. 83.º Quando o senhorio se proponha algum dos desígnios previstos na alínea b) do artigo 53.º, não haverá lugar ao benefício concedido no artigo 82.º e só haverá direito à compensação do artigo 81.º no caso de se destinar o prédio, ampliado ou novo, exclusivamente a ocupação do senhorio.
+Art. 83.º Quando o senhorio se proponha algum dos desígnios previstos na alínea b) do artigo 53.º, não haverá lugar ao benefício concedido no artigo 82.º e só haverá direito à compensação do artigo 81.º no caso de se destinar o prédio, ampliado ou novo, exclusivamente a ocupação do senhorio.
 
-###### Art. 84.º - 1. Na venda ou dação do prédio em pagamento, os arrendatários que ali exerçam o comércio ou indústria há mais de um ano têm direito de preferência, graduado no último lugar, sucessivamente e por ordem decrescente das rendas.
+Art. 84.º - 1. Na venda ou dação do prédio em pagamento, os arrendatários que ali exerçam o comércio ou indústria há mais de um ano têm direito de preferência, graduado no último lugar, sucessivamente e por ordem decrescente das rendas.
 
 2. É extensivo às preferências prescritas neste artigo, na parte aplicável, o disposto no artigo 2309.º, §§ 4.º e 5.º, do Código Civil.
 
-###### Art. 85.º - 1. Qualquer transmissão por acto inter vivos da posição jurídica do arrendatário, sem autorização do senhorio, só é permitida em caso de traspasse.
+Art. 85.º - 1. Qualquer transmissão por acto inter vivos da posição jurídica do arrendatário, sem autorização do senhorio, só é permitida em caso de traspasse.
 
 2. Entende-se que não há traspasse:
 
@@ -604,9 +616,9 @@ b) Quando a dita transmissão não for acompanhada da transferência, em conjunt
 
 #### SECÇÃO III — Arrendamentos para o exercício de profissão liberal
 
-###### Art. 86.º São aplicáveis, com as necessárias adaptações, os artigos 80.º, 82.º e 84.º
+Art. 86.º São aplicáveis, com as necessárias adaptações, os artigos 80.º, 82.º e 84.º
 
-###### Art. 87.º - 1. Pode transmitir-se a posição jurídica do arrendatário por acto inter vivos, sem autorização do senhorio, desde que no prédio arrendado continue a exercer-se a mesma profissão.
+Art. 87.º - 1. Pode transmitir-se a posição jurídica do arrendatário por acto inter vivos, sem autorização do senhorio, desde que no prédio arrendado continue a exercer-se a mesma profissão.
 
 2. À forma externa desta transmissão é aplicável o que no artigo 63.º ficou disposto para a da sublocação.
 
@@ -614,11 +626,11 @@ b) Quando a dita transmissão não for acompanhada da transferência, em conjunt
 
 #### SECÇÃO I — Despejo
 
-###### Art. 88.º - 1. O despejo, a decretar ou a efectivar nos termos da lei de processo, é o meio judicial, próprio do senhorio contra o arrendatário ou o seu sucessor, para fazer cessar toda a ocupação de um prédio originada em arrendamento invocável em juízo, quer no seu termo, quando for caso disso, quer, antes desse termo, por motivo de revogação, rescisão ou caducidade do contrato.
+Art. 88.º - 1. O despejo, a decretar ou a efectivar nos termos da lei de processo, é o meio judicial, próprio do senhorio contra o arrendatário ou o seu sucessor, para fazer cessar toda a ocupação de um prédio originada em arrendamento invocável em juízo, quer no seu termo, quando for caso disso, quer, antes desse termo, por motivo de revogação, rescisão ou caducidade do contrato.
 
 2. Na acção de despejo podem cumular-se com este pedido os de rendas e de indemnização por perdas e danos, bem como podem pedir-se reconvencionalmente as indemnizações ou compensações concedidas por lei ao arrendatário, salvo as referidas no parágrafo 2 do artigo 55.º e no parágrafo 2 do artigo 56.º
 
-###### Art. 89.º - 1. O despejo no termo do arrendamento ou da sua prorrogação pode requerer-se prèviamente, desde que o inquilino seja avisado do despedimento pela forma e com a antecipação prevista no Código de Processo ou no presente diploma.
+Art. 89.º - 1. O despejo no termo do arrendamento ou da sua prorrogação pode requerer-se prèviamente, desde que o inquilino seja avisado do despedimento pela forma e com a antecipação prevista no Código de Processo ou no presente diploma.
 
 2. Verificando-se na acção de despejo que o aviso foi requerido com a antecedência devida, mas efectuado sem ela, o pedido considera-se formulado para o termo do período seguinte de prorrogação, relativamente ao qual se dê aquela antecedência.
 
@@ -630,7 +642,7 @@ b) Quando a dita transmissão não for acompanhada da transferência, em conjunt
 
 6. Nos restantes casos de recusa do despedimento ou de contestação, com procedência total da acção de despejo no termo do arrendamento ou da prorrogação, serão da responsabilidade do arrendatário, além das custas, os honorários do advogado do senhorio que tiverem sido estipulados ou forem fixados pelo juiz.
 
-###### Art. 90.º - 1. Em todos os casos de caducidade do arrendamento, o despejo só pode tornar-se efectivo passados 90 dias sobre o facto que a determinou.
+Art. 90.º - 1. Em todos os casos de caducidade do arrendamento, o despejo só pode tornar-se efectivo passados 90 dias sobre o facto que a determinou.
 
 2. Nos casos em que a caducidade deve ocorrer em data certa o aviso pode fazer-se e a acção propor-se antes dessa data.
 
@@ -642,15 +654,15 @@ b) Quando a dita transmissão não for acompanhada da transferência, em conjunt
 
 Fica salvo o disposto no artigo 57.º
 
-###### Art. 91.º Nos casos de revogação do contrato ou quando o senhorio tiver direito à sua rescisão pode ele requerer o despejo imediato.
+Art. 91.º Nos casos de revogação do contrato ou quando o senhorio tiver direito à sua rescisão pode ele requerer o despejo imediato.
 
-###### Art. 92.º Há ainda lugar ao despejo, a título especial, nos casos em que a ocupação residencial derive da prestação de serviços pessoais pelo ocupante ao senhorio ou dono do prédio, logo que esses serviços deixem de ser prestados.
+Art. 92.º Há ainda lugar ao despejo, a título especial, nos casos em que a ocupação residencial derive da prestação de serviços pessoais pelo ocupante ao senhorio ou dono do prédio, logo que esses serviços deixem de ser prestados.
 
-###### Art. 93.º - 1. Quando se decrete o despejo, qualquer que seja o seu fundamento, de prédios ocupados por alguma das entidades referidas no artigo 7.º ou ainda por pessoas morais que se proponham fins humanitários ou de beneficência, assistência ou educação, o juiz fixará na sentença um prazo razoável, não excedente a seis meses, para a desocupação do prédio.
+Art. 93.º - 1. Quando se decrete o despejo, qualquer que seja o seu fundamento, de prédios ocupados por alguma das entidades referidas no artigo 7.º ou ainda por pessoas morais que se proponham fins humanitários ou de beneficência, assistência ou educação, o juiz fixará na sentença um prazo razoável, não excedente a seis meses, para a desocupação do prédio.
 
 2. O disposto no parágrafo anterior é aplicável ao despejo decretado nos casos do artigo 92.º, considerando-se de três meses o prazo máximo a que se refere o dito parágrafo.
 
-###### Art. 94.º - 1. As decisões proferidas nas acções de despejo admitem sempre recurso para a Relação. Das decisões deste tribunal haverá ou não recurso, conforme as regras gerais.
+Art. 94.º - 1. As decisões proferidas nas acções de despejo admitem sempre recurso para a Relação. Das decisões deste tribunal haverá ou não recurso, conforme as regras gerais.
 
 2. O disposto no parágrafo anterior é aplicável a quaisquer outras acções em que se discuta a subsistência de um contrato de arrendamento.
 
@@ -658,43 +670,43 @@ Fica salvo o disposto no artigo 57.º
 
 #### SECÇÃO II — Depósito de rendas
 
-###### Art. 95.º - 1. Nos casos do artigo 759.º do Código Civil pode o arrendatário exonerar-se da sua obrigação depositando a prestação de renda devida e as posteriores, nos termos da lei de processo.
+Art. 95.º - 1. Nos casos do artigo 759.º do Código Civil pode o arrendatário exonerar-se da sua obrigação depositando a prestação de renda devida e as posteriores, nos termos da lei de processo.
 
 2. Se o pagamento da renda houvesse de ser feito no domicílio, geral ou particular, do arrendatário ou do seu procurador, presume-se que o senhorio não veio nem mandou recebê-la na data do vencimento.
 
-###### Art. 96.º O arrendatário pode também exonerar-se, no caso de mora sua não excedente a oito dias e que queira fazer cessar na conformidade do parágrafo 1 do artigo 41.º, depositando nesse mesmo prazo a renda em dívida que o senhorio não tenha querido receber.
+Art. 96.º O arrendatário pode também exonerar-se, no caso de mora sua não excedente a oito dias e que queira fazer cessar na conformidade do parágrafo 1 do artigo 41.º, depositando nesse mesmo prazo a renda em dívida que o senhorio não tenha querido receber.
 
-###### Art. 97.º Se a sua mora exceder oito dias, o arrendatário pode ainda livrar-se depositando, além da renda em falta, a indemnização a que se refere o parágrafo 1 do artigo 41.º, contanto que o faça até ao momento indicado no artigo 47.º
+Art. 97.º Se a sua mora exceder oito dias, o arrendatário pode ainda livrar-se depositando, além da renda em falta, a indemnização a que se refere o parágrafo 1 do artigo 41.º, contanto que o faça até ao momento indicado no artigo 47.º
 
-###### Art. 98.º - 1. O depósito só é liberatório, em qualquer dos casos de mora do arrendatário, se este requerer a sua notificação ao senhorio no prazo de cinco dias.
+Art. 98.º - 1. O depósito só é liberatório, em qualquer dos casos de mora do arrendatário, se este requerer a sua notificação ao senhorio no prazo de cinco dias.
 
 2. Produz os mesmos efeitos que a notificação a junção do duplicado da guia de depósito com a contestação da acção de despejo.
 
-###### Art. 99.º - 1. Em ambos os casos de mora o arrendatário, se este depositar a renda, singela ou tríplice, conforme o caso, e requerer a notificação prescrita no parágrafo 1 do artigo anterior, presume-se que ofereceu primeiro o seu pagamento ao senhorio, pondo fim à mora, e que este o recusou.
+Art. 99.º - 1. Em ambos os casos de mora o arrendatário, se este depositar a renda, singela ou tríplice, conforme o caso, e requerer a notificação prescrita no parágrafo 1 do artigo anterior, presume-se que ofereceu primeiro o seu pagamento ao senhorio, pondo fim à mora, e que este o recusou.
 
 2. O depósito e a notificação, porém, não dispensam o inquilino de, sob pena de subsistir a mora, oferecer ao senhorio as rendas simples seguintes, que só em face de recusa deste serão depositadas; em tal caso aplicar-se-á aos depósitos posteriores o disposto no segundo período do artigo 997.º do Código de Processo.
 
 3. Enquanto subsistir a mora do arrendatário, o senhorio tanto pode recusar as rendas seguintes, que também se considerarão em falta, como aceitá-las, sem prejuízo de nenhum dos seus direitos.
 
-###### Art. 100.º A oferta do triplo da renda não implica confissão de mora; mas o depósito nesse triplo envolve o reconhecimento, por parte do arrendatário, de que o atraso no pagamento da renda lhe é imputável, excepto se o tiver feito a título condicional. Neste último caso, o senhorio levantará o depósito total ou só o da renda simples, conforme o fundamento da acção seja ou não julgado procedente.
+Art. 100.º A oferta do triplo da renda não implica confissão de mora; mas o depósito nesse triplo envolve o reconhecimento, por parte do arrendatário, de que o atraso no pagamento da renda lhe é imputável, excepto se o tiver feito a título condicional. Neste último caso, o senhorio levantará o depósito total ou só o da renda simples, conforme o fundamento da acção seja ou não julgado procedente.
 
-###### Art. 101.º - 1. Nas acções de despejo por falta de pagamento da renda, se o fundamento proceder, mas o arrendamento subsistir por virtude do depósito em triplo, caberá ao réu pagar não só as custas e os honorários, a fixar pelo juiz, do mandatário judicial do autor, como ainda as despesas do levantamento do depósito; e, se não satisfizer qualquer destes encargos, passar-se-á mandado de despejo.
+Art. 101.º - 1. Nas acções de despejo por falta de pagamento da renda, se o fundamento proceder, mas o arrendamento subsistir por virtude do depósito em triplo, caberá ao réu pagar não só as custas e os honorários, a fixar pelo juiz, do mandatário judicial do autor, como ainda as despesas do levantamento do depósito; e, se não satisfizer qualquer destes encargos, passar-se-á mandado de despejo.
 
 2. O disposto no parágrafo anterior é aplicável ao caso do depósito em singelo, se a acção de despejo tiver sido proposta antes de oferecida ou depositada a renda.
 
 ### CAPÍTULO V — Disposições fiscais
 
-###### Art. 102.º - 1. Quando o arrendamento for reduzido a escrito particular, deve o senhorio apresentar na respectiva repartição ou delegação de Fazenda os três exemplares referidos no § 3.º do artigo 5.º do [Decreto n.º 30117](https://diariodarepublica.pt/dr/detalhe/decreto/30117-1939-300378), de 8 de Dezembro de 1939, dentro dos dez dias posteriores à data da celebração do contrato, apondo o selo no triplicado.
+Art. 102.º - 1. Quando o arrendamento for reduzido a escrito particular, deve o senhorio apresentar na respectiva repartição ou delegação de Fazenda os três exemplares referidos no § 3.º do artigo 5.º do [Decreto n.º 30117](https://diariodarepublica.pt/dr/detalhe/decreto/30117-1939-300378), de 8 de Dezembro de 1939, dentro dos dez dias posteriores à data da celebração do contrato, apondo o selo no triplicado.
 
 2. Quando o arrendamento for reduzido a escritura pública, o imposto do selo será pago pela forma prescrita na respectiva lei e o notário enviará à Fazenda cópia do contrato, em papel comum, até no dia 10 do mês seguinte ao da sua celebração.
 
-###### Art. 103.º A importância da renda anual servirá de base, nas repartições ou delegações de Fazenda, à fixação do rendimento ilíquido do prédio para o efeito da liquidação, lançamento e cobrança da contribuição predial, salvo se for inferior ao rendimento inscrito na matriz.
+Art. 103.º A importância da renda anual servirá de base, nas repartições ou delegações de Fazenda, à fixação do rendimento ilíquido do prédio para o efeito da liquidação, lançamento e cobrança da contribuição predial, salvo se for inferior ao rendimento inscrito na matriz.
 
 ### CAPÍTULO VI — Disposições penais
 
-###### Art. 104.º A inobservância do preceituado no artigo 102.º será punida nos termos actualmente vigentes.
+Art. 104.º A inobservância do preceituado no artigo 102.º será punida nos termos actualmente vigentes.
 
-###### Art. 105.º Constitui crime de especulação, punível nos termos da legislação respectiva:
+Art. 105.º Constitui crime de especulação, punível nos termos da legislação respectiva:
 
 a) A recusa do recibo da renda paga;
 
@@ -706,7 +718,7 @@ d) A infracção, por parte do arrendatário sublocador, ao disposto no artigo 7
 
 ### CAPÍTULO VII — Disposições avulsas e transitórias
 
-###### Art. 106.º - 1. Nos arrendamentos de pretérito, decorridos que sejam cinco anos sobre o início do contrato, pode o senhorio requerer avaliação fiscal, destinada a corrigir o rendimento ilíquido, seja este superior ou inferior à renda actual.
+Art. 106.º - 1. Nos arrendamentos de pretérito, decorridos que sejam cinco anos sobre o início do contrato, pode o senhorio requerer avaliação fiscal, destinada a corrigir o rendimento ilíquido, seja este superior ou inferior à renda actual.
 
 2. Feita a avaliação, pode o senhorio aumentar a renda de harmonia com o rendimento apurado, quando superior àquela. Mas a nova renda nunca poderá exceder o dobro da actual; e o aumento, dentro desse limite, só poderá ser exigido até 20 por cento, por cada ano ulterior.
 
@@ -716,7 +728,7 @@ d) A infracção, por parte do arrendatário sublocador, ao disposto no artigo 7
 
 5. A nova renda será averbada pela Fazenda nos títulos do contrato em poder das partes, observando-se, para tanto, o disposto no parágrafo 5 do artigo 80.º, na parte aplicável.
 
-###### Art. 107.º No prazo de três meses, os governadores das províncias ultramarinas sob proposta dos serviços de Fazenda e ouvido o consultor jurídico da província, regulamentarão as avaliações previstas neste decreto e o respectivo recurso, observando-se, na parte exequível, o disposto no [Decreto n.º 37021](https://diariodarepublica.pt/dr/detalhe/decreto/37021-1948-384581), de 21 de Agosto de 1948, e no [Decreto n.º 37784](https://diariodarepublica.pt/dr/detalhe/decreto/37784-1950-658920), de 14 de Março de 1950, que modificou aquele diploma, com as seguintes alterações:
+Art. 107.º No prazo de três meses, os governadores das províncias ultramarinas sob proposta dos serviços de Fazenda e ouvido o consultor jurídico da província, regulamentarão as avaliações previstas neste decreto e o respectivo recurso, observando-se, na parte exequível, o disposto no [Decreto n.º 37021](https://diariodarepublica.pt/dr/detalhe/decreto/37021-1948-384581), de 21 de Agosto de 1948, e no [Decreto n.º 37784](https://diariodarepublica.pt/dr/detalhe/decreto/37784-1950-658920), de 14 de Março de 1950, que modificou aquele diploma, com as seguintes alterações:
 
 a) Servirá de presidente da comissão concelhia de avaliação o respectivo secretário ou delegado de Fazenda, sendo os dois restantes louvados nomeados um pelo senhorio e outro pelo inquilino;
 
@@ -726,7 +738,7 @@ c) A avaliação, em grau de recurso, será efectuada por três louvados nomeado
 
 d) Os louvados nomeados pelo juiz ou pelo director distrital deverão ser engenheiros e, na sua falta, agentes técnicos de engenharia ou pessoas de reconhecida idoneidade.
 
-###### Art. 108.º - 1. No Estado da Índia e nas províncias de Cabo Verde, Guiné, S. Tomé e Príncipe, Macau e Timor mantém-se provisòriamente em vigor a legislação local pertinente à limitação, correcção ou fixação obrigatória das rendas, e mais providências correlativas, ficando os respectivos governadores autorizados a suprimi-la logo que cessem as condições económicas e sociais que a necessitaram.
+Art. 108.º - 1. No Estado da Índia e nas províncias de Cabo Verde, Guiné, S. Tomé e Príncipe, Macau e Timor mantém-se provisòriamente em vigor a legislação local pertinente à limitação, correcção ou fixação obrigatória das rendas, e mais providências correlativas, ficando os respectivos governadores autorizados a suprimi-la logo que cessem as condições económicas e sociais que a necessitaram.
 
 2. Fica, porém, estatuído, enquanto subsistir aquela legislação:
 
@@ -742,23 +754,23 @@ Feita a avaliação, o senhorio pode, nos novos contratos, aumentar a renda de h
 
 d) Das decisões dos tribunais administrativos do Estado da Índia e de Cabo Verde, em matéria de fixação das rendas, não há recurso algum.
 
-###### Art. 109.º Fica o governador de Macau autorizado a promulgar um diploma legislativo destinado a alterar e simplificar a forma de processo nas acções de despejo, de valor não superior a 6000$00, por falta de pagamento de renda de casas arrendadas para habitação, desde que o dito diploma se adapte à doutrina do presente decreto e não ofenda nenhuma das suas disposições.
+Art. 109.º Fica o governador de Macau autorizado a promulgar um diploma legislativo destinado a alterar e simplificar a forma de processo nas acções de despejo, de valor não superior a 6000$00, por falta de pagamento de renda de casas arrendadas para habitação, desde que o dito diploma se adapte à doutrina do presente decreto e não ofenda nenhuma das suas disposições.
 
-###### Art. 110.º - 1. Quando o senhorio seja compelido administrativamente a fazer obras não destinadas à conservação do prédio, nem determinadas por defeitos de construção, caso fortuito ou de força maior, terá o direito de exigir do arrendatário ou arrendatários um aumento de renda, na base do juro de 5 por cento sobre a quantia despendida.
+Art. 110.º - 1. Quando o senhorio seja compelido administrativamente a fazer obras não destinadas à conservação do prédio, nem determinadas por defeitos de construção, caso fortuito ou de força maior, terá o direito de exigir do arrendatário ou arrendatários um aumento de renda, na base do juro de 5 por cento sobre a quantia despendida.
 
 2. Na falta de acordo, o senhorio terá de convencer judicialmente o arrendatário da importância que despendeu.
 
-###### Art. 111.º - 1. O presente diploma é aplicável aos arrendamentos de pretérito acerca dos quais não haja acção pendente.
+Art. 111.º - 1. O presente diploma é aplicável aos arrendamentos de pretérito acerca dos quais não haja acção pendente.
 
 2. O disposto no parágrafo anterior não afecta, porém, a validade dos contratos celebrados antes da vigência deste decreto e constantes de título suficiente segundo a lei em vigor à data da celebração.
 
 3. Relativamente aos contratos de pretérito e seja qual for a forma de processo em que se discuta a validade do arrendamento, tanto o senhorio como o arrendatário podem invocar a imputabilidade prevista nos parágrafos 2 e 3 do artigo 8.º do presente decreto.
 
-###### Art. 112.º No caso de caducidade do arrendamento fundada em evento anterior à entrada em vigor do presente diploma, a acção de despejo caduca, se não for intentada dentro de seis meses a contar do dito momento.
+Art. 112.º No caso de caducidade do arrendamento fundada em evento anterior à entrada em vigor do presente diploma, a acção de despejo caduca, se não for intentada dentro de seis meses a contar do dito momento.
 
-###### Art. 113.º Fica revogada a legislação vigente no ultramar que incida sobre matéria regulada no presente decreto e que não deva considerar-se ressalvada por qualquer ou pelo conjunto das suas disposições.
+Art. 113.º Fica revogada a legislação vigente no ultramar que incida sobre matéria regulada no presente decreto e que não deva considerar-se ressalvada por qualquer ou pelo conjunto das suas disposições.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Março de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

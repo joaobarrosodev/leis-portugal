@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45348-1963-688230
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-11-12T00:00:00Z'
+  retrieved_at: '2026-10-22T19:37:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45d1c4ee2306460afd1a5700dadf8282cd8feb6fd57574d70a7860e3ce7d8504
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93fb62a8464470f439d5cd64d181e1f5601ef105317a89da71f76daea72858ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:37:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627387:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:37:28Z'
   warnings: []
   errors: []
 ---
@@ -100,23 +116,23 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 #### SECÇÃO I — Das atribuições e organização dos serviços
 
-###### Artigo 1.º Em substituição da Missão Permanente de Estudo e Combate de Endemias é criada a Missão para a Erradicação do Paludismo de Cabo Verde, com a finalidade, organização e atribuições que constam do presente diploma.
+Artigo 1.º Em substituição da Missão Permanente de Estudo e Combate de Endemias é criada a Missão para a Erradicação do Paludismo de Cabo Verde, com a finalidade, organização e atribuições que constam do presente diploma.
 
-###### Art. 2.º Dispondo de autonomia técnica e administrativa, a Missão para a Erradicação do Paludismo de Cabo Verde fará parte integrante dos serviços de saúde e assistência da província e actuará sob a imediata autoridade do governador.
+Art. 2.º Dispondo de autonomia técnica e administrativa, a Missão para a Erradicação do Paludismo de Cabo Verde fará parte integrante dos serviços de saúde e assistência da província e actuará sob a imediata autoridade do governador.
 
 § único. A sede da Missão será na cidade da Praia.
 
-###### Art. 3.º A Missão terá como actividade principal a continuação do estudo e combate do paludismo na província, com o objectivo final, quanto possível, da erradicação da doença em todas as ilhas do arquipélago.
+Art. 3.º A Missão terá como actividade principal a continuação do estudo e combate do paludismo na província, com o objectivo final, quanto possível, da erradicação da doença em todas as ilhas do arquipélago.
 
 § 1.º Sempre que os serviços de saúde provinciais o entendam, e sem prejuízo da sua actividade específica, poderá a Missão para a Erradicação do Paludismo de Cabo Verde executar outras actividades no campo da saúde, nomeadamente no combate a outras endemias.
 
 § 2.º No campo da investigação a Missão recorrerá, através da Direcção-Geral de Saúde e Assistência do Ultramar, ao Instituto de Medicina Tropical, o qual realizará todas as tarefas que neste domínio interesse executar.
 
-###### Art. 4.º Para a execução e coordenação de todas as suas actividades técnicas e administrativas nas campanhas de erradicação do paludismo são conferidas à Missão todas as prerrogativas de autoridade sanitária.
+Art. 4.º Para a execução e coordenação de todas as suas actividades técnicas e administrativas nas campanhas de erradicação do paludismo são conferidas à Missão todas as prerrogativas de autoridade sanitária.
 
-###### Art. 5.º Compete ao governador da província definir em portaria os territórios que vão sendo abrangidos pelas campanhas de erradicação do paludismo.
+Art. 5.º Compete ao governador da província definir em portaria os territórios que vão sendo abrangidos pelas campanhas de erradicação do paludismo.
 
-###### Art. 6.º Para a consecução dos fins propostos neste diploma serão publicados pelo Governo da província as disposições de natureza regulamentar julgadas necessárias, versando nomeadamente:
+Art. 6.º Para a consecução dos fins propostos neste diploma serão publicados pelo Governo da província as disposições de natureza regulamentar julgadas necessárias, versando nomeadamente:
 
 1.º A forma de cooperação efectiva com a Missão de todos os serviços e organismos públicos, civis ou militares, corporativos e de coordenação económica, entidades particulares e população em geral;
 
@@ -126,23 +142,25 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § único. Os Governos das províncias ultramarinas tomarão, quando conveniente, de acordo com o Governo de Cabo Verde, disposições sanitárias aplicáveis ao tráfego aéreo e marítimo, com o fim de evitar a introdução ou reintrodução do paludismo no arquipélago, por meio de imigrantes ou outro qualquer veículo.
 
-###### Art. 7.º As correspondências postais destinadas à Missão originárias dos territórios declarados sujeitos às campanhas de erradicação do paludismo durante o período da sua duração e que não ultrapassem 10 g gozarão do benefício de isenção do pagamento do porte de franquia postal. De igual forma a Missão beneficiará da isenção do pagamento de taxas de telecomunicações interilhas ou dentro de cada ilha.
+Art. 7.º As correspondências postais destinadas à Missão originárias dos territórios declarados sujeitos às campanhas de erradicação do paludismo durante o período da sua duração e que não ultrapassem 10 g gozarão do benefício de isenção do pagamento do porte de franquia postal. De igual forma a Missão beneficiará da isenção do pagamento de taxas de telecomunicações interilhas ou dentro de cada ilha.
 
-###### Art. 8.º O financiamento das campanhas de erradicação do paludismo será assegurado pelas dotações atribuídas anualmente ao combate da endemia na província nos orçamentos do Instituto de Medicina Tropical e no de Cabo Verde.
+Art. 8.º O financiamento das campanhas de erradicação do paludismo será assegurado pelas dotações atribuídas anualmente ao combate da endemia na província nos orçamentos do Instituto de Medicina Tropical e no de Cabo Verde.
 
 § único. Fica a Missão autorizada a utilizar, no desenvolvimento das campanhas, contribuições em espécie ou sob a forma de serviços e material de quaisquer entidades nacionais, desde que da sua aceitação não resulte para a província qualquer ónus.
 
-###### Art. 9.º A Missão para a Erradicação do Paludismo de Cabo Verde compreende a chefia, os serviços técnicos e administrativos.
+Art. 9.º A Missão para a Erradicação do Paludismo de Cabo Verde compreende a chefia, os serviços técnicos e administrativos.
 
-###### Art. 10.º Os serviços técnicos são constituídos por duas secções de actividades distintas, trabalhando em estreita colaboração: a secção de epidemiologia e educação sanitária e a secção de operações de insecticidas.
+Art. 10.º Os serviços técnicos são constituídos por duas secções de actividades distintas, trabalhando em estreita colaboração: a secção de epidemiologia e educação sanitária e a secção de operações de insecticidas.
 
-###### Art. 11.º Os serviços administrativos dispõem de uma secretaria, por onde correm os assuntos de administração, contabilidade e expediente.
+Art. 11.º Os serviços administrativos dispõem de uma secretaria, por onde correm os assuntos de administração, contabilidade e expediente.
 
-### CAPÍTULO II — SECÇÃO I
+### CAPÍTULO II
+
+#### SECÇÃO I
 
 Da chefia da Missão
 
-###### Art. 12.º Ao chefe da Missão compete:
+Art. 12.º Ao chefe da Missão compete:
 
 a) Dirigir e administrar a Missão;
 
@@ -158,17 +176,17 @@ f) Propor superiormente a nomeação, exoneração ou dispensa do pessoal;
 
 g) Propor superiormente quaisquer medidas que julgar necessárias à realização dos fins essenciais da Missão.
 
-###### Art. 13.º O chefe da Missão será coadjuvado nas suas funções pelo chefe de uma das secções técnicas, o qual o substituirá nas suas ausências ou impedimentos.
+Art. 13.º O chefe da Missão será coadjuvado nas suas funções pelo chefe de uma das secções técnicas, o qual o substituirá nas suas ausências ou impedimentos.
 
-###### Art. 14.º A Missão disporá de uma biblioteca especializada onde se reunirão, convenientemente catalogados, os livros, as revistas, as separatas, publicações, cartas geográficas e outros documentos que à sua actividade interessem.
+Art. 14.º A Missão disporá de uma biblioteca especializada onde se reunirão, convenientemente catalogados, os livros, as revistas, as separatas, publicações, cartas geográficas e outros documentos que à sua actividade interessem.
 
 #### SECÇÃO II — Da secção de epidemiologia e educação sanitária
 
-###### Art. 15.º A secção de epidemiologia e educação sanitária tem como objectivo realizar as operações de avaliação epidemiológica e desenvolver actividades de educação sanitária com o fim de obter a colaboração da população na execução do programa de erradicação do paludismo.
+Art. 15.º A secção de epidemiologia e educação sanitária tem como objectivo realizar as operações de avaliação epidemiológica e desenvolver actividades de educação sanitária com o fim de obter a colaboração da população na execução do programa de erradicação do paludismo.
 
-###### Art. 16.º O pessoal desta secção é composto por um médico (chefe da secção), um preparador de laboratório de 1.ª classe (encarregado da educação sanitária), um preparador de laboratório de 2.ª classe e pelo pessoal técnico auxiliar que for necessário admitir conforme as exigências dos trabalhos.
+Art. 16.º O pessoal desta secção é composto por um médico (chefe da secção), um preparador de laboratório de 1.ª classe (encarregado da educação sanitária), um preparador de laboratório de 2.ª classe e pelo pessoal técnico auxiliar que for necessário admitir conforme as exigências dos trabalhos.
 
-###### Art. 17.º Ao chefe da secção compete:
+Art. 17.º Ao chefe da secção compete:
 
 a) Orientar os trabalhos dentro do programa estabelecido pelo chefe da Missão;
 
@@ -186,11 +204,11 @@ g) Colaborar estreitamente com o chefe da secção de operações de insecticida
 
 #### SECÇÃO III — Da secção de operações de insecticidas
 
-###### Art. 18.º A esta secção compete especialmente a realização de todas as operações relacionadas com a aplicação de insecticidas.
+Art. 18.º A esta secção compete especialmente a realização de todas as operações relacionadas com a aplicação de insecticidas.
 
-###### Art. 19.º O pessoal desta secção é constituído por um médico (chefe de secção) e pelo pessoal técnico auxiliar que for necessário admitir conforme as exigências dos trabalhos.
+Art. 19.º O pessoal desta secção é constituído por um médico (chefe de secção) e pelo pessoal técnico auxiliar que for necessário admitir conforme as exigências dos trabalhos.
 
-###### Art. 20.º Ao chefe da secção compete:
+Art. 20.º Ao chefe da secção compete:
 
 a) Efectuar o trabalho da secção dentro do programa aprovado pelo chefe da Missão;
 
@@ -208,11 +226,11 @@ g) Colaborar estreitamente com o chefe da secção de epidemiologia e educação
 
 #### SECÇÃO IV — Dos serviços administrativos
 
-###### Art. 21.º Pela secretaria correrá todo o expediente relativo aos seguintes serviços: orçamento e sua execução, contabilidade do numerário e património do Estado, contas de responsabilidade e aquisição do material; organização e movimentação dos processos relativos ao provimento e exoneração, aposentação, licenças, situações, transferências, efectividades, registos e cadastro do pessoal, expediente geral da chefia e arquivo.
+Art. 21.º Pela secretaria correrá todo o expediente relativo aos seguintes serviços: orçamento e sua execução, contabilidade do numerário e património do Estado, contas de responsabilidade e aquisição do material; organização e movimentação dos processos relativos ao provimento e exoneração, aposentação, licenças, situações, transferências, efectividades, registos e cadastro do pessoal, expediente geral da chefia e arquivo.
 
-###### Art. 22.º O pessoal desta secção é composto por um terceiro-oficial e um dactilógrafo.
+Art. 22.º O pessoal desta secção é composto por um terceiro-oficial e um dactilógrafo.
 
-###### Art. 23.º Ao terceiro-oficial compete:
+Art. 23.º Ao terceiro-oficial compete:
 
 a) Ordenar, dirigir e fiscalizar sob a sua directa responsabilidade a execução dos serviços administrativos;
 
@@ -224,69 +242,69 @@ c) Submeter ao chefe da Missão todos os assuntos que tenham de ser resolvidos s
 
 #### SECÇÃO I — Dos quadros
 
-###### Art. 24.º Os quadros da Missão para a Erradicação do Paludismo de Cabo Verde abrangem, nos termos do § 3.º do artigo 4.º do Estatuto do Funcionalismo Ultramarino, pessoal dos quadros comuns e dos quadros privativos.
+Art. 24.º Os quadros da Missão para a Erradicação do Paludismo de Cabo Verde abrangem, nos termos do § 3.º do artigo 4.º do Estatuto do Funcionalismo Ultramarino, pessoal dos quadros comuns e dos quadros privativos.
 
-###### Art. 25.º O quadro técnico superior é o constante do mapa I anexo ao presente diploma, constituído pelos funcionários do quadro comum: chefe da Missão, chefe da secção de epidemiologia e educação sanitária e chefe da secção de operações de insecticidas.
+Art. 25.º O quadro técnico superior é o constante do mapa I anexo ao presente diploma, constituído pelos funcionários do quadro comum: chefe da Missão, chefe da secção de epidemiologia e educação sanitária e chefe da secção de operações de insecticidas.
 
-###### Art. 26.º O quadro do pessoal técnico é o constante do mapa II e compreende: um preparador de laboratório de 1.ª classe (encarregado da educação sanitária) e um preparador de laboratório de 2.ª classe.
+Art. 26.º O quadro do pessoal técnico é o constante do mapa II e compreende: um preparador de laboratório de 1.ª classe (encarregado da educação sanitária) e um preparador de laboratório de 2.ª classe.
 
-###### Art. 27.º O quadro do pessoal administrativo é o constante do mapa III e compreende: um terceiro-oficial e um dactilógrafo.
+Art. 27.º O quadro do pessoal administrativo é o constante do mapa III e compreende: um terceiro-oficial e um dactilógrafo.
 
-###### Art. 28.º Os quadros do pessoal técnico, pessoal técnico auxiliar e pessoal administrativo são privativos da província.
+Art. 28.º Os quadros do pessoal técnico, pessoal técnico auxiliar e pessoal administrativo são privativos da província.
 
 § único. O governador da província criará os lugares indispensáveis para o quadro de pessoal técnico auxiliar.
 
 #### SECÇÃO II — Do recrutamento e ingresso nos quadros
 
-###### Art. 29.º O lugar de chefe da Missão será exercido em comissão por um médico com a categoria de médico inspector do quadro médico comum do ultramar habilitado com o curso de Malariologia ou de Erradicação do Paludismo e que por serviços já prestados na Missão ou serviços similares tenha revelado particular capacidade, competência e idoneidade, competindo a sua escolha ao Ministro do Ultramar, ouvida a Direcção-Geral de Saúde e Assistência do Ultramar.
+Art. 29.º O lugar de chefe da Missão será exercido em comissão por um médico com a categoria de médico inspector do quadro médico comum do ultramar habilitado com o curso de Malariologia ou de Erradicação do Paludismo e que por serviços já prestados na Missão ou serviços similares tenha revelado particular capacidade, competência e idoneidade, competindo a sua escolha ao Ministro do Ultramar, ouvida a Direcção-Geral de Saúde e Assistência do Ultramar.
 
 § único. A escolha será feita entre médicos inspectores do quadro comum do ultramar e os chefes de secção da Missão para a Erradicação do Paludismo de Cabo Verde.
 
-###### Art. 30.º Os lugares de chefes de secção serão providos pelo Ministro do Ultramar, sob proposta da Direcção-Geral de Saúde e Assistência do Ultramar, em médicos que contem, pelo menos, três anos de serviço em organismos oficiais com boas informações e preferentemente habilitados com o curso de Malariologia ou de Erradicação do Paludismo.
+Art. 30.º Os lugares de chefes de secção serão providos pelo Ministro do Ultramar, sob proposta da Direcção-Geral de Saúde e Assistência do Ultramar, em médicos que contem, pelo menos, três anos de serviço em organismos oficiais com boas informações e preferentemente habilitados com o curso de Malariologia ou de Erradicação do Paludismo.
 
-###### Art. 31.º O ingresso no quadro técnico superior far-se-á na categoria da letra F para os chefes de secção.
+Art. 31.º O ingresso no quadro técnico superior far-se-á na categoria da letra F para os chefes de secção.
 
-###### Art. 32.º O ingresso no quadro técnico far-se-á por concurso documental, entre indivíduos com o curso de preparador de laboratório de organismos oficiais, com pelo menos cinco anos de serviço da sua categoria.
+Art. 32.º O ingresso no quadro técnico far-se-á por concurso documental, entre indivíduos com o curso de preparador de laboratório de organismos oficiais, com pelo menos cinco anos de serviço da sua categoria.
 
-###### Art. 33.º O lugar de terceiro-oficial dos serviços administrativos será provido, em comissão, por um aspirante dos quadros provinciais, sob proposta do chefe da Missão ao governador da província.
+Art. 33.º O lugar de terceiro-oficial dos serviços administrativos será provido, em comissão, por um aspirante dos quadros provinciais, sob proposta do chefe da Missão ao governador da província.
 
-###### Art. 34.º O lugar de dactilógrafo será provido por concurso de provas práticas, mandado abrir na província por despacho do governador sob proposta do chefe da Missão.
+Art. 34.º O lugar de dactilógrafo será provido por concurso de provas práticas, mandado abrir na província por despacho do governador sob proposta do chefe da Missão.
 
-###### Art. 35.º A Missão admitirá na província, por assalariamento, o pessoal técnico auxiliar que se mostrar necessário para a realização dos trabalhos que lhe forem cometidos, consoante as necessidades do serviço.
+Art. 35.º A Missão admitirá na província, por assalariamento, o pessoal técnico auxiliar que se mostrar necessário para a realização dos trabalhos que lhe forem cometidos, consoante as necessidades do serviço.
 
-###### Art. 36.º Uma vez dada por finda a actividade da Missão, todo o pessoal, com mais de cinco anos de serviço e boas informações, poderá ingressar nas vagas de igual ou correspondente categoria dos quadros de saúde do ultramar, independentemente da idade e sem prejuízo do disposto no artigo 134.º do Estatuto do Funcionalismo Ultramarino, se o requerer e assim convier aos interesses do Estado.
+Art. 36.º Uma vez dada por finda a actividade da Missão, todo o pessoal, com mais de cinco anos de serviço e boas informações, poderá ingressar nas vagas de igual ou correspondente categoria dos quadros de saúde do ultramar, independentemente da idade e sem prejuízo do disposto no artigo 134.º do Estatuto do Funcionalismo Ultramarino, se o requerer e assim convier aos interesses do Estado.
 
 ### CAPÍTULO IV — Disposições transitórias e finais
 
-###### Art. 37.º O actual chefe da Missão Permanente de Estudo e Combate de Endemias de Cabo Verde transita para a chefia da Missão para a Erradicação do Paludismo de Cabo Verde.
+Art. 37.º O actual chefe da Missão Permanente de Estudo e Combate de Endemias de Cabo Verde transita para a chefia da Missão para a Erradicação do Paludismo de Cabo Verde.
 
-###### Art. 38.º O actual médico adjunto da Missão Permanente de Estudo e Combate de Endemias de Cabo Verde transita igualmente para um dos lugares de chefe de secção criados pelo presente diploma.
+Art. 38.º O actual médico adjunto da Missão Permanente de Estudo e Combate de Endemias de Cabo Verde transita igualmente para um dos lugares de chefe de secção criados pelo presente diploma.
 
-###### Art. 39.º O actual preparador da Missão Permanente de Estudo e Combate de Endemias de Cabo Verde transita também para o lugar de preparador de 1.ª classe da secção de epidemiologia e educação sanitária com a categoria da letra L do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 39.º O actual preparador da Missão Permanente de Estudo e Combate de Endemias de Cabo Verde transita também para o lugar de preparador de 1.ª classe da secção de epidemiologia e educação sanitária com a categoria da letra L do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 40.º O actual pessoal assalariado da Missão Permanente de Estudo e Combate de Endemias de Cabo Verde transita para o quadro do pessoal técnico auxiliar da Missão para a Erradicação do Paludismo.
+Art. 40.º O actual pessoal assalariado da Missão Permanente de Estudo e Combate de Endemias de Cabo Verde transita para o quadro do pessoal técnico auxiliar da Missão para a Erradicação do Paludismo.
 
-###### Art. 41.º Ao pessoal técnico superior e pessoal técnico da Missão para a Erradicação do Paludismo de Cabo Verde fica vedado o exercício de qualquer actividade particular, remunerada ou não.
+Art. 41.º Ao pessoal técnico superior e pessoal técnico da Missão para a Erradicação do Paludismo de Cabo Verde fica vedado o exercício de qualquer actividade particular, remunerada ou não.
 
-###### Art. 42.º O pessoal técnico superior e pessoal técnico têm direito aos vencimentos constantes dos mapas anexos a este diploma.
+Art. 42.º O pessoal técnico superior e pessoal técnico têm direito aos vencimentos constantes dos mapas anexos a este diploma.
 
 § 1.º O pessoal técnico superior, pessoal técnico e pessoal técnico auxiliar terão, além dos vencimentos, direito, quando em exercício na província, aos subsídios diário e de campo previstos no artigo 7.º do [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415), de 25 de Maio de 1962, com a redacção que lhe foi dada pelo artigo 32.º do [Decreto n.º 45083](https://diariodarepublica.pt/dr/detalhe/decreto/45083-1963-627387), de 24 de Junho de 1963.
 
 § 2.º Fica o governador de Cabo Verde autorizado a fixar os quantitativos dos subsídios referidos no parágrafo anterior e a regular as condições em que serão abonados.
 
-###### Art. 43.º Com excepção do abono de família, a abonar nos termos legais em vigor na província, o pessoal técnico superior, o pessoal técnico e o pessoal técnico auxiliar não têm direito a quaisquer outros abonos além dos previstos neste decreto.
+Art. 43.º Com excepção do abono de família, a abonar nos termos legais em vigor na província, o pessoal técnico superior, o pessoal técnico e o pessoal técnico auxiliar não têm direito a quaisquer outros abonos além dos previstos neste decreto.
 
-###### Art. 44.º O pessoal administrativo, além dos vencimentos fixados por este decreto, tem direito aos demais abonos que estiverem em vigor para os funcionários da província.
+Art. 44.º O pessoal administrativo, além dos vencimentos fixados por este decreto, tem direito aos demais abonos que estiverem em vigor para os funcionários da província.
 
-###### Art. 45.º O governador da província de Cabo Verde deverá, nos termos do n.º 5.º da base XXIV da Lei Orgânica do Ultramar Português, regulamentar a composição dos quadros privativos, o recrutamento e promoção do pessoal, observadas as disposições do Estatuto do Funcionalismo Ultramarino.
+Art. 45.º O governador da província de Cabo Verde deverá, nos termos do n.º 5.º da base XXIV da Lei Orgânica do Ultramar Português, regulamentar a composição dos quadros privativos, o recrutamento e promoção do pessoal, observadas as disposições do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 46.º No orçamento da despesa ordinária para o ano de 1964 e seguintes serão inscritas as verbas julgadas necessárias ao regular funcionamento da Missão.
+Art. 46.º No orçamento da despesa ordinária para o ano de 1964 e seguintes serão inscritas as verbas julgadas necessárias ao regular funcionamento da Missão.
 
-###### Art. 47.º O governador da província determinará a publicação do regulamento privativo dos serviços a que este diploma se refere.
+Art. 47.º O governador da província determinará a publicação do regulamento privativo dos serviços a que este diploma se refere.
 
-###### Art. 48.º Este decreto entra imediatamente em vigor, ficando revogados a partir da mesma data o [Decreto n.º 40077](https://diariodarepublica.pt/dr/detalhe/decreto/40077-1955-538436), de 4 de Março de 1955, artigos 20.º e 21.º do [Decreto n.º 42703](https://diariodarepublica.pt/dr/detalhe/decreto/42703-1959-442476), de 5 de Dezembro de 1959, e o Diploma Legislativo n.º 1504, de 11 de Outubro de 1962, da província ultramarina de Cabo Verde).
+Art. 48.º Este decreto entra imediatamente em vigor, ficando revogados a partir da mesma data o [Decreto n.º 40077](https://diariodarepublica.pt/dr/detalhe/decreto/40077-1955-538436), de 4 de Março de 1955, artigos 20.º e 21.º do [Decreto n.º 42703](https://diariodarepublica.pt/dr/detalhe/decreto/42703-1959-442476), de 5 de Dezembro de 1959, e o Diploma Legislativo n.º 1504, de 11 de Outubro de 1962, da província ultramarina de Cabo Verde).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Novembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 
@@ -294,6 +312,6 @@ Para ser publicado no Boletim Oficial de Cabo Verde. - Peixoto Correia.
 
 Do MAPA I ao MAPA III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/11/26500/17211724.pdf))](https://files.diariodarepublica.pt/1s/1963/11/26500/17211724.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/11/26500/17211724.pdf)
 
 Ministério do Ultramar, 12 de Novembro de 1963. - O Ministro do Ultramar, António Augusto Peixoto Correia.

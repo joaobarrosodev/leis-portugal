@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/01800/0000900027.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/1/2025/01/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/1-2025-904813370
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-27T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e0396742cfad89f3f563375b1bc49f0c1aa68f1f3f39fbc9407f38160c969d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29a7a0ec283e1f5c7a532425ca983d35cd5d06781cd66dd4c20931c5ac5fe13f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assembleia Municipal
+- Autarquia Local
+- Legalidade
 - Lisboa
 - Petição
-- Legalidade
 - Referendo Local
-- Autarquia Local
 relationships:
 - type: cites
   target: celex:32018R1724
@@ -121,16 +121,88 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/4/2000/08/24/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/4/2000/08/24/p/dre
+- type: cites
+  target: pt:dre:116152179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183230519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222477692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:269871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:349757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:415389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56384880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:892301177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:899582835:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:38Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +241,7 @@ O instituto do referendo local tem, aliás, raízes na história constitucional 
 
 Na [Lei n.º 88](https://diariodarepublica.pt/dr/detalhe/lei/88-1913-591926), de 7 de agosto de 1913, no Capítulo II («Da competência e atribuições das câmaras municipais»), dispunha-se, no artigo 96.º, no § 1.º, o seguinte:
 
-«As deliberações a que se referem os n.<sup>os</sup>11.º, 15.º, 19.º, 20.º, 24.º e 35.º, do artigo 94.º serão submetidas ao referendum dos eleitores do concelho, se a décima parte dos mesmos eleitores assim o requerer».
+«As deliberações a que se referem os n.os11.º, 15.º, 19.º, 20.º, 24.º e 35.º, do artigo 94.º serão submetidas ao referendum dos eleitores do concelho, se a décima parte dos mesmos eleitores assim o requerer».
 
 Esta possibilidade de referendo em determinadas matérias (desde a contração de empréstimos até à venda de carnes verdes, passando pelo lançamento de contribuições diretas ou indiretas, municipalização de serviços locais, organização de serviços no campo das mutualidades, seguros, previdência e crédito e ainda a celebração de acordos com outras câmaras municipais) foi, nas palavras de César Oliveira [“A República e os municípios”, in Idem (Dir.), História dos municípios e do poder local [Dos finais da Idade Média até à União Europeia], Lisboa, Círculo de Leitores, 1996, pp. 243-283, p. 262], «a grande inovação na administração local introduzida pela República, no âmbito da [Lei n.º 88](https://diariodarepublica.pt/dr/detalhe/lei/88-1913-591926), de 7 de Agosto de 1913».
 
@@ -193,9 +265,9 @@ A iniciativa popular que não for objeto de indeferimento liminar será publicad
 
 5 - Compete ao Tribunal Constitucional, em fiscalização preventiva obrigatória, verificar a constitucionalidade e a legalidade do referendo - artigo 223.º, n.º 2, alínea f), da Constituição, artigos 11.º e 105.º da [Lei n.º 28/82](https://diariodarepublica.pt/dr/detalhe/lei/28-1982-377508), de 15 de novembro (Lei do Tribunal Constitucional - LTC), e artigos 25.º e seguintes do RJRL.
 
-A título prévio, cabe-lhe apreciar a regularidade do pedido de fiscalização preventiva para decidir sobre a sua admissão. No caso, a requerente tem legitimidade para o pedido de fiscalização preventiva do referendo local, na qualidade de presidente do órgão assembleia municipal que deliberou a sua realização, o pedido foi apresentado em tempo e o processo mostra-se regularmente instruído (artigos 25.º e 28.º, n.<sup>os</sup>1 e 2, do RJRL), daí que tenha sido ordenada a distribuição do pedido.
+A título prévio, cabe-lhe apreciar a regularidade do pedido de fiscalização preventiva para decidir sobre a sua admissão. No caso, a requerente tem legitimidade para o pedido de fiscalização preventiva do referendo local, na qualidade de presidente do órgão assembleia municipal que deliberou a sua realização, o pedido foi apresentado em tempo e o processo mostra-se regularmente instruído (artigos 25.º e 28.º, n.os1 e 2, do RJRL), daí que tenha sido ordenada a distribuição do pedido.
 
-Distribuído o processo, o Tribunal verifica a constitucionalidade e a legalidade do referendo. Relativamente ao objeto deste controlo, o RJRL fala tanto em «deliberação de realização do referendo» (artigo 25.º, n.º 1) ou «deliberação de referendo» (artigo 27.º, n.º 1) como em «consulta» (cf. o artigo 28.º, n.º 10). Assim, desde logo, o elemento literal permite-nos afirmar que ao Tribunal Constitucional compete controlar não só o teor da consulta propriamente dita, ou seja, as perguntas que a integram (controlo material), mas também os pressupostos da deliberação, incluindo os requisitos da iniciativa popular e as formalidades do procedimento de deliberação (controlo formal) - como exemplos de casos em que o Tribunal procedeu a esta segunda modalidade de controlo, vejam-se os Acórdãos n.<sup>os</sup>391/1998, 694/1999 e 2/2000, todos proferidos em sede de processo de fiscalização preventiva de referendo local [sobre o objeto de controlo em sede referendária, vd., na doutrina, Jorge Miranda, Fiscalização da constitucionalidade, 2.ª ed., Coimbra, Almedina, 2022, p. 319, centrando-se na análise do procedimento referendário nacional, mas sublinhando depois (p. 321) a similitude das regras relativas à fiscalização preventiva dos referendos locais; José Joaquim Gomes Canotilho, Direito constitucional e teoria da constituição, 7.ª ed., Coimbra, Almedina, 2003, pp. 1048-1049; José Manuel Cardoso da Costa, A jurisdição constitucional em Portugal, 3.ª ed., Coimbra, Almedina, 2007, p. 51; Fernando Alves Correia, Justiça constitucional, 2.ª ed., Coimbra, Almedina, 2019, pp. 212-213; Jaime Valle, A fiscalização preventiva no sistema português de controlo, Coimbra, Almedina, 2022, pp. 76-77, p. 89].
+Distribuído o processo, o Tribunal verifica a constitucionalidade e a legalidade do referendo. Relativamente ao objeto deste controlo, o RJRL fala tanto em «deliberação de realização do referendo» (artigo 25.º, n.º 1) ou «deliberação de referendo» (artigo 27.º, n.º 1) como em «consulta» (cf. o artigo 28.º, n.º 10). Assim, desde logo, o elemento literal permite-nos afirmar que ao Tribunal Constitucional compete controlar não só o teor da consulta propriamente dita, ou seja, as perguntas que a integram (controlo material), mas também os pressupostos da deliberação, incluindo os requisitos da iniciativa popular e as formalidades do procedimento de deliberação (controlo formal) - como exemplos de casos em que o Tribunal procedeu a esta segunda modalidade de controlo, vejam-se os Acórdãos n.os391/1998, 694/1999 e 2/2000, todos proferidos em sede de processo de fiscalização preventiva de referendo local [sobre o objeto de controlo em sede referendária, vd., na doutrina, Jorge Miranda, Fiscalização da constitucionalidade, 2.ª ed., Coimbra, Almedina, 2022, p. 319, centrando-se na análise do procedimento referendário nacional, mas sublinhando depois (p. 321) a similitude das regras relativas à fiscalização preventiva dos referendos locais; José Joaquim Gomes Canotilho, Direito constitucional e teoria da constituição, 7.ª ed., Coimbra, Almedina, 2003, pp. 1048-1049; José Manuel Cardoso da Costa, A jurisdição constitucional em Portugal, 3.ª ed., Coimbra, Almedina, 2007, p. 51; Fernando Alves Correia, Justiça constitucional, 2.ª ed., Coimbra, Almedina, 2019, pp. 212-213; Jaime Valle, A fiscalização preventiva no sistema português de controlo, Coimbra, Almedina, 2022, pp. 76-77, p. 89].
 
 Não se diga que obsta ao referido controlo formal a conversão da iniciativa popular em deliberação da assembleia municipal na medida em que esta sanaria eventuais irregularidades procedimentais - a intervenção da assembleia municipal, manifestada em tal conversão, não afasta o carácter popular da iniciativa.
 
@@ -205,7 +277,7 @@ De tudo quanto foi exposto retira-se que a iniciativa popular não é consumida 
 
 5.1 - No caso, a iniciativa referendária foi exercida por um grupo de cidadãos, ao abrigo do disposto no artigo 10.º, n.º 2, do RJRL.
 
-Como referido supra, a iniciativa popular deve ser proposta à assembleia deliberativa por um mínimo de 5000 ou 8 % dos cidadãos eleitores recenseados na respetiva área, consoante o que for menor (artigo 13.º, n.º 1, do RJRL). Note-se que o legislador chegou a ser bastante mais exigente: na referida [Lei n.º 88](https://diariodarepublica.pt/dr/detalhe/lei/88-1913-591926), de 7 de agosto de 1913, no Capítulo II («Da competência e atribuições das câmaras municipais»), previa-se, no artigo 96.º, § 1.º, que «[a]s deliberações a que se referem os n.<sup>os</sup>11, 15, 19, 20, 24 e 35 do artigo 94.º serão submetidas ao referendum dos eleitores do concelho, se a décima parte dos mesmos eleitores assim o requerer»; no que toca às assinaturas, o § 2.º do mesmo preceito estabelecia que elas deviam ser apresentadas no prazo de 20 dias após a deliberação e reconhecidas por notário, sem que houvesse lugar ao pagamento de algum emolumento.
+Como referido supra, a iniciativa popular deve ser proposta à assembleia deliberativa por um mínimo de 5000 ou 8 % dos cidadãos eleitores recenseados na respetiva área, consoante o que for menor (artigo 13.º, n.º 1, do RJRL). Note-se que o legislador chegou a ser bastante mais exigente: na referida [Lei n.º 88](https://diariodarepublica.pt/dr/detalhe/lei/88-1913-591926), de 7 de agosto de 1913, no Capítulo II («Da competência e atribuições das câmaras municipais»), previa-se, no artigo 96.º, § 1.º, que «[a]s deliberações a que se referem os n.os11, 15, 19, 20, 24 e 35 do artigo 94.º serão submetidas ao referendum dos eleitores do concelho, se a décima parte dos mesmos eleitores assim o requerer»; no que toca às assinaturas, o § 2.º do mesmo preceito estabelecia que elas deviam ser apresentadas no prazo de 20 dias após a deliberação e reconhecidas por notário, sem que houvesse lugar ao pagamento de algum emolumento.
 
 A iniciativa referendária popular pressupõe a recolha de um determinado número de assinaturas e a sua verificação destinada a aferir se está preenchido um dos seus requisitos fundamentais - a subscrição da proposta por 5000 eleitores recenseados na respetiva área ou 8 %, consoante o que for menor. Trata-se de uma formalidade essencial, cuja inobservância compromete a própria existência de uma iniciativa popular válida, dando origem a uma ilegalidade relevante, por violação de um preceito previsto no RJRL. Daí que seja também fundamental que se proceda a um controlo efetivo das assinaturas, desde logo antes da deliberação, aspeto relevante no processo de fiscalização preventiva da constitucionalidade e legalidade do referendo.
 
@@ -279,7 +351,7 @@ Só por si, estes vícios obstariam ao sucesso da iniciativa, mas, ainda assim, 
 
 No caso, o referendo versa, indubitavelmente, sobre questões de relevante interesse (também local), verificando-se este limite material positivo [sobre a distinção entre limites materiais positivos e negativos, vd. Maria Benedita Urbano, “Os limites materiais à (ir)realização do referendo de âmbito nacional. Anotação ao [Acórdão do Tribunal Constitucional n.º 704/04](https://diariodarepublica.pt/dr/detalhe/acordao/704-2004-349757)”, Jurisprudência Constitucional (2004/4), pp. 22-29, pp. 22-23]. Apresentando-se como um «referendo pela habitação», as perguntas têm como objeto o alojamento local, revelando uma unidade temática (princípio da unicidade da matéria - artigo 6.º, n.º 1, do RJRL). E, ao contrário do que acontecia aquando da introdução da figura das consultas locais por via da primeira revisão constitucional (1982), o referendo neste nível deixou de estar limitado a «matérias incluídas na [...] competência exclusiva» dos órgãos das autarquias locais, opção que então circunscrevia muito o seu alcance (sobre o alargamento do seu âmbito a matérias que não as de competência exclusiva, dando conta da discussão parlamentar em sede de revisão constitucional, em 1997, vd. António Filipe, O referendo na experiência constitucional portuguesa, pp. 344-345). A lei fundamental passou a falar de «matérias incluídas nas competências dos [...] órgãos [das autarquias locais]» (artigo 240.º, n.º 1, da Constituição). Em termos gerais, quanto às atribuições e competências, o diploma principal é a [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023) (Regime jurídico das autarquias locais - RJAL, de 12 de setembro), assinalando-se, em matéria de atribuições municipais, o artigo 23.º, n.º 2, nomeadamente, no que ora nos importa, as alíneas i) (habitação) e n) (ordenamento do território e urbanismo). No artigo 25.º, n.º 1, alínea r), do RJAL, dispõe-se que é competência da Assembleia Municipal «[a]provar as normas, delimitações, medidas e outros atos previstos nos regimes do ordenamento do território e do urbanismo», que tem, aliás, poder regulamentar («g) [a]provar as posturas e os regulamentos com eficácia externa do município»), cabendo-lhe ainda «h) [a]provar os planos e demais instrumentos estratégicos necessários à prossecução das atribuições do município».
 
-Aliás, é a própria Constituição que, no artigo 65.º (Habitação e urbanismo), n.<sup>os</sup>2 e 4, realça que se está perante «áreas confluentes» de interesses, no caso estaduais e municipais (José de Melo Alexandrino, “Direito das autarquias locais: introdução, princípios e regime comum”, in Tratado de direito administrativo especial, vol. IV, Coimbra, Almedina, 2010, pp. 11-299, p. 128).
+Aliás, é a própria Constituição que, no artigo 65.º (Habitação e urbanismo), n.os2 e 4, realça que se está perante «áreas confluentes» de interesses, no caso estaduais e municipais (José de Melo Alexandrino, “Direito das autarquias locais: introdução, princípios e regime comum”, in Tratado de direito administrativo especial, vol. IV, Coimbra, Almedina, 2010, pp. 11-299, p. 128).
 
 Ainda em termos gerais, logo no Acórdão n.º 492/93 lê-se:
 
@@ -307,7 +379,7 @@ Está-se, pois, no âmbito de um direito de controlo da habitação (Wohnungsauf
 
 Na verdade, um percurso comparado revela a existência de quadros legislativos específicos [na doutrina nacional, considerando em especial a realidade de Espanha (tendo presente o panorama das comunidades autónomas), de Itália, dos Estados Unidos da América e o direito da União Europeia, vd. Pedro Sacchetti de Teixeira de Sousa, Restrições de direito público e de direito privado à exploração de estabelecimentos de alojamento local: o regime jurídico português e a experiência de direito comparado, Coimbra, Almedina, 2020, esp. pp. 29-42] que procuram responder aos desafios de um alojamento local que, num tempo de uma nova digitalização, passa também pela economia de plataformas [com implicações também no plano normativo do direito da União Europeia, vd. especificamente o [Regulamento (UE) 2024/1028](http://data.europa.eu/eli/reg/2024/1028/oj?locale=pt) do Parlamento Europeu e do Conselho, de 11 de abril de 2024, sobre a recolha e a partilha de dados relativos aos serviços de arrendamento para alojamento de curta duração e que altera o [Regulamento (UE) 2018/1724](http://data.europa.eu/eli/reg/2018/1724/oj?locale=pt)].
 
-Entre nós, o direito à habitação inscreve-se nos direitos fundamentais sociais, assumindo uma enorme relevância, sem prejuízo da reserva parlamentar neste domínio se limitar ao «regime geral do arrendamento [...] urbano» (artigo 165.º, n.º 1, alínea h), da Constituição) e às «bases do ordenamento do território e do urbanismo» (artigo 165.º, n.º 1, alínea z), da Constituição). Na verdade, no âmbito dos direitos fundamentais sociais, a regra é a de que caem no campo de competência concorrente entre a Assembleia da República e o Governo (artigo 198.º, n.º 1, alínea a), da Constituição), podendo ambos legislar a igual título (sobre este ponto, vd., contudo, criticamente, Jorge Reis Novais, Manual de direitos fundamentais, Lisboa, AAFDL Editora, 2024, pp. 465-469) e podendo a lei conceder, para além do domínio que se lhe encontra constitucionalmente reservado, uma margem maior ou menor de concretização ao poder regulamentar (sobre o assunto, vd. os Acórdãos n.<sup>os</sup>474/2021, 390/2022 e 197/2023). No entanto, nalguns pontos estamos perante ingerências em direitos, liberdades e garantias ou direitos fundamentais de natureza análoga (artigo 17.º da Constituição). Por exemplo, medidas como a previsão das áreas de contenção, introduzidas por ato legislativo da Assembleia da República ([Lei n.º 62/2018](https://diariodarepublica.pt/dr/detalhe/lei/62-2018-116152179), de 22 de agosto), tocam no direito à liberdade de iniciativa económica privada (artigo 61.º, n.º 1, da Constituição), no direito à propriedade privada (artigo 62.º da Constituição) e ainda na liberdade de exercício de profissão (artigo 47.º, n.º 1). Há aqui um campo de ponderação entre o direito à habitação e as referidas posições jusfundamentais que pressupõe uma intervenção do legislador parlamentar ou, pelo menos, uma autorização por este concedida.
+Entre nós, o direito à habitação inscreve-se nos direitos fundamentais sociais, assumindo uma enorme relevância, sem prejuízo da reserva parlamentar neste domínio se limitar ao «regime geral do arrendamento [...] urbano» (artigo 165.º, n.º 1, alínea h), da Constituição) e às «bases do ordenamento do território e do urbanismo» (artigo 165.º, n.º 1, alínea z), da Constituição). Na verdade, no âmbito dos direitos fundamentais sociais, a regra é a de que caem no campo de competência concorrente entre a Assembleia da República e o Governo (artigo 198.º, n.º 1, alínea a), da Constituição), podendo ambos legislar a igual título (sobre este ponto, vd., contudo, criticamente, Jorge Reis Novais, Manual de direitos fundamentais, Lisboa, AAFDL Editora, 2024, pp. 465-469) e podendo a lei conceder, para além do domínio que se lhe encontra constitucionalmente reservado, uma margem maior ou menor de concretização ao poder regulamentar (sobre o assunto, vd. os Acórdãos n.os474/2021, 390/2022 e 197/2023). No entanto, nalguns pontos estamos perante ingerências em direitos, liberdades e garantias ou direitos fundamentais de natureza análoga (artigo 17.º da Constituição). Por exemplo, medidas como a previsão das áreas de contenção, introduzidas por ato legislativo da Assembleia da República ([Lei n.º 62/2018](https://diariodarepublica.pt/dr/detalhe/lei/62-2018-116152179), de 22 de agosto), tocam no direito à liberdade de iniciativa económica privada (artigo 61.º, n.º 1, da Constituição), no direito à propriedade privada (artigo 62.º da Constituição) e ainda na liberdade de exercício de profissão (artigo 47.º, n.º 1). Há aqui um campo de ponderação entre o direito à habitação e as referidas posições jusfundamentais que pressupõe uma intervenção do legislador parlamentar ou, pelo menos, uma autorização por este concedida.
 
 6.2 - No campo do alojamento local, também em Portugal foi o legislador que, no âmbito de uma ponderação de direitos e bens constitucionalmente protegidos (tendo presentes, nomeadamente, os direitos fundamentais referidos), estabeleceu disciplina normativa, remetendo, em parte, para o exercício do poder regulamentar municipal, mas vinculando-o também.
 
@@ -333,7 +405,7 @@ O alojamento local em frações fica excluído, desde logo se tal constar do tí
 
 No entanto, reconhece-se à assembleia de condóminos (artigo 6.º-B, n.º 4, do RJEEAL), que, em sede de regulamento do condomínio (a criar ou a modificar), proíba o exercício de atividade de alojamento local, desde que para tal concorra uma maioria qualificada («maioria representativa de dois terços da permilagem do prédio e produz[indo] efeitos para futuro, aplicando-se apenas aos pedidos de registo de alojamento local submetidos em data posterior à deliberação» - artigo 6.º-B, n.º 5, do RJEEAL).
 
-Ainda em relação à articulação entre alojamento local e propriedade horizontal, refira-se que na malha de preceitos pertinentes se contam, entre outros: a) a necessidade de autorização dos condóminos em caso de «instalação e exploração de “hostels” em edifícios em propriedade horizontal nos prédios em que coexista habitação» (artigo 4.º, n.º 4 do RJEEAL), devendo a ata comprovativa acompanhar a comunicação prévia ao Presidente da Câmara Municipal (artigo 6.º, n.º 2, alínea f) do RJEEAL); b) a possibilidade de cancelamento do registo pelo Presidente da Câmara, caso a atividade de alojamento local possa ser exercida numa fração autónoma de edifício, ou em parte de prédio suscetível de utilização independente, se a assembleia de condóminos se opuser à prossecução dessa atividade, por meio de «deliberação fundamentada aprovada por mais de metade da permilagem do edifício, com fundamento na prática reiterada e comprovada de atos que perturbem a normal utilização do prédio, bem como de atos que causem incómodo e afetem o descanso dos condóminos» (artigo 9.º, n.<sup>os</sup>2 e 4, do RJEEAL), prevendo-se um procedimento que pode conduzir a um acordo entre os intervenientes (artigo 9.º, n.<sup>os</sup>12 e 13, do RJEEAL); c) a inserção no livro de informações do estabelecimento, no caso de edifícios de habitação coletiva, das «práticas e regras do condomínio que sejam relevantes para o alojamento e para a utilização das partes comuns» (artigo 12.º, n.º 8, do RJEEAL); e d) a possibilidade de ser estabelecida uma contribuição adicional para o condomínio face «às despesas decorrentes da utilização acrescida das partes comuns, com um limite de 30 % do valor anual da quota respetiva» (artigo 20.º-A do RJEEAL).
+Ainda em relação à articulação entre alojamento local e propriedade horizontal, refira-se que na malha de preceitos pertinentes se contam, entre outros: a) a necessidade de autorização dos condóminos em caso de «instalação e exploração de “hostels” em edifícios em propriedade horizontal nos prédios em que coexista habitação» (artigo 4.º, n.º 4 do RJEEAL), devendo a ata comprovativa acompanhar a comunicação prévia ao Presidente da Câmara Municipal (artigo 6.º, n.º 2, alínea f) do RJEEAL); b) a possibilidade de cancelamento do registo pelo Presidente da Câmara, caso a atividade de alojamento local possa ser exercida numa fração autónoma de edifício, ou em parte de prédio suscetível de utilização independente, se a assembleia de condóminos se opuser à prossecução dessa atividade, por meio de «deliberação fundamentada aprovada por mais de metade da permilagem do edifício, com fundamento na prática reiterada e comprovada de atos que perturbem a normal utilização do prédio, bem como de atos que causem incómodo e afetem o descanso dos condóminos» (artigo 9.º, n.os2 e 4, do RJEEAL), prevendo-se um procedimento que pode conduzir a um acordo entre os intervenientes (artigo 9.º, n.os12 e 13, do RJEEAL); c) a inserção no livro de informações do estabelecimento, no caso de edifícios de habitação coletiva, das «práticas e regras do condomínio que sejam relevantes para o alojamento e para a utilização das partes comuns» (artigo 12.º, n.º 8, do RJEEAL); e d) a possibilidade de ser estabelecida uma contribuição adicional para o condomínio face «às despesas decorrentes da utilização acrescida das partes comuns, com um limite de 30 % do valor anual da quota respetiva» (artigo 20.º-A do RJEEAL).
 
 Na avaliação das possibilidades conferidas pelo legislador ao poder local em termos de regulação, deparamo-nos com a remissão para o regulamento no que toca à determinação de «utilizações válidas» - artigo 6.º-B, n.º 1, do RJEEAL. Neste preceito, refere-se o artigo 6.º, n.º 1, alínea a), do mesmo diploma, segundo o qual a comunicação prévia com prazo (sobre esta, vd. Fernanda Paula Oliveira/Dulce Lopes, Alojamento local: regime jurídico comentado e guião prático, pp. 46-48; também, em anotação ao artigo 134.º do Código de Procedimento Administrativo, Luís S. Cabral de Moncada, Código de Procedimento Administrativo Anotado, 4.ª ed., Lisboa, Quid Juris, 2022, pp. 468-472) tendo em vista o registo deve conter informação relativa à «autorização de utilização ou título de utilização válido do imóvel» (artigo 6.º, n.º 1, alínea a), do RJEEAL). Neste controlo, ter-se-á de proceder, desde logo, a uma dupla análise: a) aferir, em abstrato, da adequação de um certo edifício ou fração, em função da autorização da utilização ou do título válido do imóvel; b) verificar se, em concreto, será admissível o exercício de atividade numa certa área (cf. Fernanda Paula Oliveira/Dulce Lopes, Alojamento local: regime jurídico comentado e guião prático, pp. 53-54). Como se concretizará, o legislador permitiu ao poder normativo municipal a possibilidade de estabelecer zonas de contenção, com impacto em relação a novos registos, o que exige um outro passo em sede de controlo.
 
@@ -421,7 +493,7 @@ Nestes termos, decide-se:
 
 a) não dar por verificada a legalidade do referendo local, por iniciativa popular, cuja realização foi deliberada pela Assembleia Municipal de Lisboa, na sua sessão de 3 de dezembro de 2024; e
 
-b) determinar a notificação da Presidente da Assembleia Municipal de Lisboa, nos termos e para os efeitos previstos nos n.<sup>os</sup>1 e 3 do artigo 27.º da [Lei Orgânica n.º 4/2000](https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2000-330217), de 24 de agosto, que aprovou o Regime Jurídico do Referendo Local.
+b) determinar a notificação da Presidente da Assembleia Municipal de Lisboa, nos termos e para os efeitos previstos nos n.os1 e 3 do artigo 27.º da [Lei Orgânica n.º 4/2000](https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2000-330217), de 24 de agosto, que aprovou o Regime Jurídico do Referendo Local.
 
 O relator atesta o voto de conformidade da Senhora Juíza Conselheira Maria Benedita Urbano e do Senhor Juiz Conselheiro Carlos Medeiros de Carvalho, que participaram por via telemática, bem como o voto de conformidade do Senhor Juiz Conselheiro Gonçalo Almeida Ribeiro, que não assinou por não estar presente. João Carlos Loureiro
 
@@ -455,7 +527,7 @@ A competência do Tribunal Constitucional incide, isso sim, sobre o teor da deli
 
 1.2 - Por ser assim, ao estabelecer a fiscalização preventiva dos referendos locais, o legislador determinou que ao Tribunal Constitucional são apenas remetidos o texto da deliberação e a cópia da ata da reunião que a aprovou (acrescendo, nos casos de iniciativa popular, o texto da iniciativa), não tendo o Tribunal acesso à documentação relativa à regularidade procedimental da deliberação (artigo 28.º do RJRL). O que se compreende, já que assim se deixa ao Tribunal Constitucional a sua específica função constitucional: o controlo da constitucionalidade e legalidade do referendo e a garantia do princípio democrático.
 
-De resto, e mesmo que coubesse ao Tribunal Constitucional escrutinar o procedimento administrativo, não creio que os vícios formais detetados pusessem em causa a existência da iniciativa referendária (ponto 5.1. da fundamentação). A transgressão das normas aplicáveis geraria, quando muito, a anulabilidade da deliberação municipal, que produz efeitos até ser anulada (n.<sup>os</sup>1 e 2 do artigo 163.º do CPA) - sendo duvidoso que possa dela conhecer-se oficiosamente.
+De resto, e mesmo que coubesse ao Tribunal Constitucional escrutinar o procedimento administrativo, não creio que os vícios formais detetados pusessem em causa a existência da iniciativa referendária (ponto 5.1. da fundamentação). A transgressão das normas aplicáveis geraria, quando muito, a anulabilidade da deliberação municipal, que produz efeitos até ser anulada (n.os1 e 2 do artigo 163.º do CPA) - sendo duvidoso que possa dela conhecer-se oficiosamente.
 
 2 - Quanto à legalidade do referendo, discordo da conclusão de que incide sobre «matéria expressamente excluída do âmbito do referendo local» (artigo 4.º, n.º 1, alínea b), do RJRL). Em meu juízo, a matéria deste referendo pode ser objeto de referendo local, já que recai sobre questões de relevante interesse local que devem ser decididas pelos órgãos autárquicos municipais - designadamente, no regulamento municipal a que se refere o artigo 4.º do Regime Jurídico da Exploração dos Estabelecimentos de Alojamento Local (RJEEAL).
 
@@ -464,3 +536,5 @@ Não se está em domínio totalmente vinculado, em que não seja cometido às au
 Simplesmente, as perguntas aprovadas não cumprem os requisitos de objetividade, clareza e precisão (n.º 2 do artigo 7.º do RJRL), pois induzem nos eleitores a ideia de que o município pode impedir o registo de novos alojamentos locais em todos os prédios destinados a habitação e decidir o cancelamento dos registos existentes em quaisquer prédios destinados a habitação - quando tal apenas poderia ocorrer nas condições dos artigos 9.º e 15.º-B do RJEEAL.
 
 Residindo a ilegalidade do referendo na formulação das perguntas (e não na circunstância de o seu objeto incidir sobre matéria não referendável), considero que nada obsta a que se proceda à reformulação referida no artigo 27.º do RJRL. - Afonso Patrão.
+
+118599338

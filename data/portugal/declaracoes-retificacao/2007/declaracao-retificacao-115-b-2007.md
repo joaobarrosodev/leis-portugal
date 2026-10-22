@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 247/2007, 2º Suplemento, Série I de 2007-12-24
   number: '247'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 9056-(770) a 9056-(770)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/12/24702/0077000770.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/115-b/2007/12/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/115-b-2007-476929
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:07:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ffbdc5ea3d9e5128cb5e89d54b92146f7fb892ccf4585a5ed1e8bbbc7f8e73c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d28a1aa872ee7443834cddc21caddba0ca57921c7b6e0b75b15655a6ada9875f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:07:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,14 +70,14 @@ subjects:
 - Acidente de Trabalho
 - ADM
 - Beneficiário
-- Ministério da Defesa Nacional
-- Exército
 - Comparticipação do Estado
-- Força Aérea
-- Marinha
-- Forças Armadas
-- Doença Profissional
 - Cuidados Médicos
+- Doença Profissional
+- Exército
+- Força Aérea
+- Forças Armadas
+- Marinha
+- Ministério da Defesa Nacional
 - Protecção na Doença
 - Subsistemas de Saúde
 relationships:
@@ -89,16 +89,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1394/2007/10/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1394/2007/10/25/p/dre
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629091:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:portaria:1394/2007
+  label: "Rectifica a Portaria n.º 1394/2007, de 25 de Outubro, DR.IS [206]\0\0"
+  source: null
+  date: '2007-10-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:07:33Z'
   warnings: []
   errors: []
 ---

@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/6/2026/04/28/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2026-1095232811
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-28T00:00:00Z'
+  retrieved_at: '2026-10-22T18:39:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c35e09972e711316fcf2c3422c540b2fc7d6d600130f68ce7fd68afdd494831
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c703039f8eb901821152fcc06595a3691785f0d204559c8b17ac31f0971fff6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:39:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,14 +69,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
-- Estatuto da Carreira Docente
-- Sistema Retributivo
 - Carreira Profissional
-- Pessoal Docente
+- Estatuto da Carreira Docente
 - Madeira.região Autónoma
+- Pessoal Docente
 - Remuneração
+- Sistema Retributivo
+- Tempo de Serviço
 relationships:
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:23/2018/M
+  label: Altera, a partir de 29 de abril de 2026, o artigo 6.º do Decreto Legislativo Regional n.º 23/2018/M, de 28 de dezembro,
+    Diário da República n.º 250/2018, Série I
+  source: null
+  date: '2018-12-28'
 - type: cites
   target: eli:h
   label: null
@@ -121,23 +127,103 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/83-c/2013/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/83-c/2013/12/31/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115124397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117514522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197490:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216188327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73958532:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:39:49Z'
   warnings: []
   errors: []
 ---
 
 # Decreto Legislativo Regional n.º 6/2026/M
 
-Primeira alteração ao [Decreto Legislativo Regional n.º 23/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2018-117514522), de 28 de dezembro, que define os termos e a forma como se processa a recuperação do tempo de serviço prestado em funções docentes abrangido pelo disposto nas Leis n.<sup>os</sup>[43/2005](https://diariodarepublica.pt/dr/detalhe/lei/43-2005-245295), de 29 de agosto, [53-C/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-c-2006-197490), de 29 de dezembro, [55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro, [64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro, [66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), de 31 de dezembro, [83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), de 31 de dezembro, [82-B/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), de 31 de dezembro, [7-A/2016](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), de 30 de março, e [42/2016](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), de 28 de dezembro.
+Primeira alteração ao [Decreto Legislativo Regional n.º 23/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2018-117514522), de 28 de dezembro, que define os termos e a forma como se processa a recuperação do tempo de serviço prestado em funções docentes abrangido pelo disposto nas Leis n.os[43/2005](https://diariodarepublica.pt/dr/detalhe/lei/43-2005-245295), de 29 de agosto, [53-C/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-c-2006-197490), de 29 de dezembro, [55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro, [64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro, [66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), de 31 de dezembro, [83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), de 31 de dezembro, [82-B/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), de 31 de dezembro, [7-A/2016](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), de 30 de março, e [42/2016](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), de 28 de dezembro.
 
 O [Decreto Legislativo Regional n.º 23/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2018-117514522), de 28 de dezembro, estabeleceu as regras para a recuperação do tempo de serviço docente não contabilizado entre 29 de agosto de 2005 e 31 de dezembro de 2007 e entre 1 de janeiro de 2011 e 31 de dezembro de 2017, ou seja, a totalidade dos 9 anos, 4 meses e 2 dias, que não foram contabilizados para efeitos de progressão na carreira docente, por força das leis do Orçamento do Estado aprovadas durante esse período.
 
@@ -151,11 +237,11 @@ Por último, é considerado, para efeitos de posicionamento e progressão, o tem
 
 Foram observados os procedimentos de auscultação decorrentes da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual.
 
-Assim, a Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo da alínea d) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, conjugada com o artigo 39.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, e com o n.º 3 do artigo 39.º e o artigo 40.º do Estatuto da Carreira Docente da Região Autónoma da Madeira, aprovado em anexo ao [Decreto Legislativo Regional n.º 6/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2008-247713), de 25 de fevereiro, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[17/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2010-343611), de 18 de agosto, [20/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), de 29 de agosto, [7/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2018-115124397), de 17 de abril, e [30/2023/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2023-216188327), de 26 de julho, o seguinte:
+Assim, a Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo da alínea d) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, conjugada com o artigo 39.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, e com o n.º 3 do artigo 39.º e o artigo 40.º do Estatuto da Carreira Docente da Região Autónoma da Madeira, aprovado em anexo ao [Decreto Legislativo Regional n.º 6/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2008-247713), de 25 de fevereiro, alterado pelos Decretos Legislativos Regionais n.os[17/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2010-343611), de 18 de agosto, [20/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), de 29 de agosto, [7/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2018-115124397), de 17 de abril, e [30/2023/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2023-216188327), de 26 de julho, o seguinte:
 
 ###### Artigo 1.º — Objeto
 
-O presente diploma procede à primeira alteração ao [Decreto Legislativo Regional n.º 23/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2018-117514522), de 28 de dezembro, que define os termos e a forma como se processa a recuperação do tempo de serviço prestado em funções docentes abrangido pelo disposto nas Leis n.<sup>os</sup>[43/2005](https://diariodarepublica.pt/dr/detalhe/lei/43-2005-245295), de 29 de agosto, [53-C/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-c-2006-197490), de 29 de dezembro, [55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro, [64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro, [66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), de 31 de dezembro, [83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), de 31 de dezembro, [82-B/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), de 31 de dezembro, [7-A/2016](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), de 30 de março, e [42/2016](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), de 28 de dezembro.
+O presente diploma procede à primeira alteração ao [Decreto Legislativo Regional n.º 23/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2018-117514522), de 28 de dezembro, que define os termos e a forma como se processa a recuperação do tempo de serviço prestado em funções docentes abrangido pelo disposto nas Leis n.os[43/2005](https://diariodarepublica.pt/dr/detalhe/lei/43-2005-245295), de 29 de agosto, [53-C/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-c-2006-197490), de 29 de dezembro, [55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro, [64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro, [66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), de 31 de dezembro, [83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), de 31 de dezembro, [82-B/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), de 31 de dezembro, [7-A/2016](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), de 30 de março, e [42/2016](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), de 28 de dezembro.
 
 ###### Artigo 2.º — Alteração
 
@@ -177,7 +263,7 @@ O artigo 6.º do [Decreto Legislativo Regional n.º 23/2018/M](https://diariodar
 
 6 - [...]
 
-7 - Aos docentes bacharéis identificados no artigo 3.º do [Decreto Legislativo Regional n.º 6/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2008-247713), de 25 de fevereiro, é aplicável o disposto nos n.<sup>os</sup>1 e 2, sendo que a referência para efeitos de aplicação do n.º 2 é de vinte anos de tempo de serviço.»
+7 - Aos docentes bacharéis identificados no artigo 3.º do [Decreto Legislativo Regional n.º 6/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2008-247713), de 25 de fevereiro, é aplicável o disposto nos n.os1 e 2, sendo que a referência para efeitos de aplicação do n.º 2 é de vinte anos de tempo de serviço.»
 
 ###### Artigo 3.º — Recuperação de tempo de serviço docente prestado sem vínculo à SRE
 
@@ -203,10 +289,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 15 de abril de 2026.
 
-**A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.**
+A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.
 
-**Assinado em 24 de abril de 2026.**
+Assinado em 24 de abril de 2026.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+119948366

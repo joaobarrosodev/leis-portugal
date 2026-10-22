@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/130-b/2026/03/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/130-b-2026-1078836906
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-27T00:00:00Z'
+  retrieved_at: '2026-10-22T18:36:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6862c52d59e1100fd5426bd1eb6b28f87de1e22af2a93521c55f9692b507796c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c892ea1bc383826bba6ad6dbf960d49a08c81154cd4aa40cebbcdfcb27edfed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:36:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
+- Administração Pública
+- Avaliação do Pessoal
 - Carreira Médica
 - Carreira Médica Hospitalar
-- Regulamentação de Atos Legislativos
-- Administração Pública
-- SIADAP
 - Conselho Coordenador
-- Avaliação do Pessoal
+- Médico
+- Regulamentação de Atos Legislativos
+- SIADAP
 relationships:
+- type: amends
+  target: pt:numero:portaria:209/2011
+  label: Altera, a partir de 28 de março de 2026, com efeitos a 1 de janeiro de 2026, os artigos 7.º, 11.º, 14.º, 15.º, 17.º
+    e adita o artigo 15-º-A e revoga os n.ºs 6, 7 e 9, todos do artigo 15.º da Portaria n.º 209/2011, de 25 de maio, Diário
+    da República n.º 101/2011, Série I
+  source: null
+  date: '2011-05-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/12/2024/01/10/p/dre
   label: null
@@ -112,16 +119,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/209/2011/05/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/209/2011/05/25/p/dre
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836437684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:36:49Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +175,7 @@ de 27 de março
 
 A [Portaria n.º 209/2011](https://diariodarepublica.pt/dr/detalhe/portaria/209-2011-673415), de 25 de maio, adaptou o subsistema de avaliação do desempenho dos trabalhadores da Administração Pública (SIADAP 3), instituído pela [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de dezembro, aos trabalhadores integrados na carreira especial médica.
 
-Recentemente, o [Decreto-Lei n.º 12/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2024-836437684), de 10 de janeiro, procedeu à quarta alteração à [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de dezembro, já anteriormente alterada pelas Leis n.<sup>os</sup>[64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, [55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro, e [66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), de 31 de dezembro, na sequência da ampla revisão deste instrumento avaliativo.
+Recentemente, o [Decreto-Lei n.º 12/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2024-836437684), de 10 de janeiro, procedeu à quarta alteração à [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de dezembro, já anteriormente alterada pelas Leis n.os[64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, [55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro, e [66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), de 31 de dezembro, na sequência da ampla revisão deste instrumento avaliativo.
 
 Atendendo às alterações entretanto introduzidas desde a data da publicação da [Portaria n.º 209/2011](https://diariodarepublica.pt/dr/detalhe/portaria/209-2011-673415), de 25 de maio, entre as quais se destaca o novo referencial de competências com formação associada, a maior diferenciação de desempenhos e o desenvolvimento mais célere das carreiras, tornou-se necessário proceder à revisão e alteração da citada portaria em convergência com o novo regime jurídico em vigor, sob pena de caducidade.
 
@@ -162,7 +205,9 @@ a) [...]
 
 b) Na ponderação curricular, para efeitos do presente artigo, são considerados os elementos que constam do anexo i da presente portaria e da qual faz parte integrante.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -170,7 +215,9 @@ b) Na ponderação curricular, para efeitos do presente artigo, são considerado
 
 3 - As competências de desempenho a contratualizar devem ter em consideração as funções desenvolvidas pelo avaliado, bem como o conteúdo funcional legalmente fixado para a respetiva categoria.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -186,7 +233,9 @@ e) [...]
 
 2 - [...]
 
-###### Artigo 15.º — Avaliador ou equipa de avaliação
+Artigo 15.º
+
+Avaliador ou equipa de avaliação
 
 1 - A avaliação do desempenho dos trabalhadores médicos é feita por um avaliador, neste caso, o superior hierárquico direto do avaliado ou, mediante opção do médico avaliado, por uma equipa de avaliação, em ambos os casos com as competências e os deveres fixados no artigo 56.º da [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de dezembro, na sua redação atual.
 
@@ -216,7 +265,9 @@ b) [...]
 
 9 - [Revogado.]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -268,7 +319,7 @@ As referências feitas na [Portaria n.º 209/2011](https://diariodarepublica.pt/
 
 ###### Artigo 5.º — Norma revogatória
 
-São revogados os n.<sup>os</sup>6, 7 e 9, todos do artigo 15.º da [Portaria n.º 209/2011](https://diariodarepublica.pt/dr/detalhe/portaria/209-2011-673415), de 25 de maio.
+São revogados os n.os6, 7 e 9, todos do artigo 15.º da [Portaria n.º 209/2011](https://diariodarepublica.pt/dr/detalhe/portaria/209-2011-673415), de 25 de maio.
 
 ###### Artigo 6.º — Entrada em vigor e produção de efeitos
 
@@ -276,7 +327,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação e prod
 
 Em 27 de março de 2026.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento. - A Ministra da Saúde, Ana Paula Martins.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento. - A Ministra da Saúde, Ana Paula Martins.
 
 ## ANEXO I — [a que se refere a alínea b) do artigo 7.º]
 
@@ -603,3 +654,7 @@ Antecipa possíveis dificuldades para a realização do trabalho e a conclusão 
 Direciona os esforços de equipas de constituição diversificada/interdisciplinares em torno de um objetivo comum;
 
 Monitoriza a execução dos trabalhos, fazendo os ajustes necessários à otimização dos resultados e ao cumprimento dos prazos.
+
+119948131
+
+.Tbl2 { height:26px; } .Tbl3 { text-align:center; } .Tbl4 { min-height:18px; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl9 { min-height:21px; } .Tbl10 { min-height:28px; }

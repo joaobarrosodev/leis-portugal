@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/10/18900/0006300085.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/450/2019/10/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/450-2019-125040766
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-02T00:00:00Z'
+  retrieved_at: '2026-10-22T18:24:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40cf8b9ddb211636c9db716c8d683aba6965ed1113723e24676c700a0ba5212c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fbd206397acac9f2ede7df3af7f9e31f1e8a6fe1dc1b404bf2a53bc0e56fb6a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:24:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regime do Contrato de Trabalho em Funções Públicas
+- Administração Local
+- Administração Regional
+- Assembleia da República
 - Competência Própria
+- Funcionário Público
 - Governo Regional
-- Regime Laboral
-- Sistema Retributivo
-- Subsídio de Risco
 - Inconstitucionalidade
 - Interpretação do Direito
-- Assembleia da República
 - Madeira.região Autónoma
-- Administração Local
+- Regime do Contrato de Trabalho em Funções Públicas
 - Regime Jurídico
+- Regime Laboral
 - Remuneração
-- Funcionário Público
-- Administração Regional
-- Trabalhador por Conta de Outrem
 - Secretaria Regional dos Equipamentos e Infraestruturas
+- Sistema Retributivo
+- Subsídio de Risco
 - Trabalhador com Contrato de Trabalho em Funções Públicas
+- Trabalhador por Conta de Outrem
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/ac/415/2005/09/01/p/dre
@@ -130,13 +130,13 @@ relationships:
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:24:58Z'
   warnings: []
   errors: []
 ---
@@ -582,3 +582,5 @@ III. Decisão
 Pelos fundamentos expostos, o Tribunal Constitucional pronuncia-se pela inconstitucionalidade da norma constante do n.º 2 do artigo 1.º do decreto legislativo regional que "Institui e disciplina a atribuição de um suplemento remuneratório aos trabalhadores da Secretaria Regional dos Equipamentos e Infraestruturas que prestem trabalho em condições de risco e penosidade", aprovado pela Assembleia Legislativa da Região Autónoma da Madeira em 3 de julho de 2019, por violação da alínea q) do n.º 1 do artigo 165.º, da alínea a) do n.º 1 do artigo 227.º e do n.º 1 do artigo 228.º, todos da Constituição da República Portuguesa.
 
 Lisboa, 5 de agosto de 2019. - Joana Fernandes Costa - Lino Rodrigues Ribeiro - Pedro Machete - José Teles Pereira - Maria de Fátima Mata-Mouros - Gonçalo Almeida Ribeiro - Maria José Rangel de Mesquita - Fernando Vaz Ventura - Mariana Canotilho - Claudio Monteiro - Manuel da Costa Andrade.
+
+112534194

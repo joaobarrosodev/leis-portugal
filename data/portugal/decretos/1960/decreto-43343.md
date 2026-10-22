@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43343-1960-513010
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-11-22T00:00:00Z'
+  retrieved_at: '2026-10-22T19:21:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4059cd769afdc424a9f025653dd6eaad2ec5dfbd6f6c082e21e43ea38c13d077
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 765884e9063edab14d7a9e75b5ad2424acff12f34f2bdaa070d73a0f164038ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:21:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:514067:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:21:12Z'
   warnings: []
   errors: []
 ---
@@ -85,8 +89,8 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os encargos resultantes da execução do [Decreto n.º 43224](https://diariodarepublica.pt/dr/detalhe/decreto/43224-1960-514067), de 14 de Outubro de 1960, serão satisfeitos, no corrente ano, pelas disponibilidades da verba inscrita no capítulo 3.º, artigo 24.º, n.º 1), alínea b), do actual orçamento do Ministério da Marinha.
+Artigo único. Os encargos resultantes da execução do [Decreto n.º 43224](https://diariodarepublica.pt/dr/detalhe/decreto/43224-1960-514067), de 14 de Outubro de 1960, serão satisfeitos, no corrente ano, pelas disponibilidades da verba inscrita no capítulo 3.º, artigo 24.º, n.º 1), alínea b), do actual orçamento do Ministério da Marinha.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Novembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Júlio Carlos Alves Dias Botelho Moniz - António Manuel Pinto Barbosa - Fernando Quintanilha Mendonça Dias.

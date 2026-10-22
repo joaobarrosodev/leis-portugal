@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/02600/0000300003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/6/2023/02/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/6-2023-207062783
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-06T00:00:00Z'
+  retrieved_at: '2026-10-22T19:14:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 192085c72a19ee217fa8c609afe0bfe9a1b76655d0b7cf1d022719d4ad645e70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46c4252b8b2d861f607d723a5c842f27bf1e0426c827f993f78a87a7f21f0351
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:14:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Avaliação Económica de Medicamentos
-- Farmácia
-- Indústria Farmacêutica
-- Infarmed
+- Comércio
 - Eslovénia
 - Espanha
-- Serviço Nacional de Saúde
+- Farmácia
 - Fixação de Preços
-- Medicamento
+- Indústria Farmacêutica
+- Infarmed
+- Itália
 - Margens de Comercialização
+- Medicamento
 - Medicamento Genérico
 - Prazo
 - Preço
@@ -85,8 +86,7 @@ subjects:
 - Preço de Venda
 - Preço Máximo
 - Receita Médica
-- Comércio
-- Itália
+- Serviço Nacional de Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/20/2021/03/15/p/dre
@@ -108,16 +108,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/35/2023/01/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/35/2023/01/26/p/dre
+- type: cites
+  target: pt:dre:159432383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206564388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67644326:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:14:39Z'
   warnings: []
   errors: []
 ---
@@ -143,3 +167,5 @@ deve ler-se:
 «2 - Mantém-se igualmente suspensa, em 2023, a aplicação do artigo 20.º da [Portaria n.º 195-C/2015](https://diariodarepublica.pt/dr/detalhe/portaria/195-c-2015-67644326), de 30 de junho, na sua atual redação, no que se refere à revisão anual dos preços máximos de aquisição dos medicamentos pelos estabelecimentos e serviços do Serviço Nacional de Saúde.»
 
 Secretaria-Geral, 1 de fevereiro de 2023. - O Secretário-Geral, David Xavier.
+
+116130237

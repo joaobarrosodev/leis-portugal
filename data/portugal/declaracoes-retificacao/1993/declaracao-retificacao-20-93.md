@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 43/1993, 1º Suplemento, Série I-A de 1993-02-20
   number: '43'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 734-(2) a 734-(21)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/02/043a01/00020021.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/20/1993/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-1993-551823
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-20T00:00:00Z'
+  retrieved_at: '2026-10-22T18:37:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b29056c967d83d31e3920060ac040f92a2282d41edfd207f5244dd7d4830f39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d63bbb43624e2503a81eee9b157bfb1feaa59c4ad2491c0935d0d8ca357aa01
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:37:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Infarmed
 - Contra-ordenação
-- Ministério da Justiça
-- Gabinete de Combate à Droga do Ministério da Justiça
 - Droga
-- Toxicodependente
+- Gabinete de Combate à Droga do Ministério da Justiça
+- Infarmed
+- Ministério da Justiça
 - Regime Jurídico
+- Toxicodependente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/15/1993/01/22/p/dre
@@ -85,18 +85,18 @@ relationships:
 article_structure:
   article_count: 76
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:37:36Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 20/93
+# Declaração de rectificação n.º 20/93
 
 Para os devidos efeitos se declara que o Decreto-Lei n.º 15/93, publicado no Diário da República, n.º 18, de 22 de Janeiro de 1993, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com algumas inexactidões, que assim se rectificam, procedendo-se igualmente à publicação integral do texto corrigido:
 
@@ -1006,15 +1006,15 @@ c) O Decreto-Lei n.º 209/91, de 8 de Junho.
 
 Visto e aprovado em Conselho de Ministros de 12 de Novembro de 1992. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - António Fernando Couto dos Santos - Arlindo Gomes de Carvalho - Fernando Manuel Barbosa Faria de Oliveira - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado em 21 de Dezembro de 1992.**
+Promulgado em 21 de Dezembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Dezembro de 1992.**
+Referendado em 23 de Dezembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Tabelas das plantas, substâncias e preparações sujeitas a controlo (artigos 2.º e 3.º do Decreto-Lei n.º 15/93)
 

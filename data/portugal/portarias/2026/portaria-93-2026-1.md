@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/93/2026/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/93-2026-1060523849
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-25T00:00:00Z'
+  retrieved_at: '2026-10-22T18:33:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10d8930279f4c0dc4abc220db2b029643d70266459cfef1f2c8350f0756caecf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 203eec97a14bed31c3852f1ca0f86e984289e9675ebd3c8424313cf83dc6d326
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:33:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Comissão Nacional de Saúde Materna e Infantil
-- Política de Saúde
-- Serviço Nacional de Saúde
 - Administração Central do Sistema de Saúde
-- Serviços Partilhados do Ministério da Saúde
-- REDE de Prestação de Cuidados de Saúde
+- Comissão Nacional de Saúde Materna e Infantil
 - Estabelecimento Hospitalar
-- Serviços de Urgência
 - Obstetrícia e Ginecologia
+- Política de Saúde
+- REDE de Prestação de Cuidados de Saúde
+- Serviço Nacional de Saúde
+- Serviços de Urgência
+- Serviços Partilhados do Ministério da Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/52/2022/08/04/p/dre
@@ -93,16 +93,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/325/2024/12/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/325/2024/12/13/p/dre
+- type: cites
+  target: pt:dre:124417108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:900079878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:33:38Z'
   warnings: []
   errors: []
 ---
@@ -235,7 +251,7 @@ i) Disponibilização de um telefone junto da entrada da urgência de obstetríc
 
 2 - A implementação do disposto na presente portaria é efetuada de forma faseada, nos termos de calendário a definir e a publicitar pela DE-SNS, devendo estar concluída no prazo máximo de 90 dias após a publicação.
 
-**A Ministra da Saúde, Ana Paula Martins, em 20 de fevereiro de 2026.**
+A Ministra da Saúde, Ana Paula Martins, em 20 de fevereiro de 2026.
 
 ## ANEXO I
 
@@ -253,15 +269,15 @@ Prev = Prevenção: está sempre contactável pelo telefone e demora no máximo 
 
 A presença de um único OG em presença física na urgência de obstetrícia e ginecologia/bloco de partos implica assegurar a disponibilidade de um médico de uma especialidade cirúrgica em presença física no hospital, para eventuais cirurgias emergentes do âmbito obstétrico e ginecológico.
 
-| Hospitais de nível i | Hospitais de nível i | Hospitais de nível i | Hospitais de nível i | Hospitais de nível i | Hospitais de nível i | Hospitais de nível i | Hospitais de nível i |
+| Hospitais de nível i |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| < 1200 partos/ano (< 3,4/dia) | < 1200 partos/ano (< 3,4/dia) | 1200-2200 partos/ano (3,4-6,2/dia) | 1200-2200 partos/ano (3,4-6,2/dia) | 1200-2200 partos/ano (3,4-6,2/dia) | > 2200 partos/ano (> 6,2/dia) | > 2200 partos/ano (> 6,2/dia) | > 2200 partos/ano (> 6,2/dia) |
+| < 1200 partos/ano (< 3,4/dia) | 1200-2200 partos/ano (3,4-6,2/dia) | > 2200 partos/ano (> 6,2/dia) |  |  |  |  |  |
 | < 20 ATD | ≥ 20 ATD | < 35 ATD | 35-41 ATD | > 41 ATD | < 38 ATD | 38-47 ATD | > 47 ATD |
 | 1 OG + 1 OG Prev | 2 OG (ou 1 OG + 1 INT 4-6.º A) | 2 OG (ou 1 OG + 1 INT 4-6.º A) | 2 OG (ou 1 OG + 1 INT 4-6.º A) + 1 OG Prev | 3 OG (ou 2 OG + 1 INT 0,5-6.º A) (ou 1 OG + 1 INT 4-6.º A + 1 INT 0,5-6.º A) | 2 OG (ou 1 OG+ 1 INT 4-6.º A) + 1 OG Prev | 3 OG (ou 2 OG + 1 INT 0,5-6.º A) (ou 1 OG + 1 INT 4-6.º A + 1 INT 0,5-6.º A) | 4 OG (ou 3 OG + 1 INT 0,5-6.º A) (ou 2 OG + 1 INT 4-6.º A + 1 INT 0,5-6.º A) |
-| Hospitais de nível ii e iii | Hospitais de nível ii e iii | Hospitais de nível ii e iii | Hospitais de nível ii e iii | Hospitais de nível ii e iii | Hospitais de nível ii e iii | Hospitais de nível ii e iii | Hospitais de nível ii e iii |
-| < 1500 partos/ano (< 4,2/dia) | < 1500 partos/ano (< 4,2/dia) | 1500-2500 partos/ano (4,2-7,0/dia) | 1500-2500 partos/ano (4,2-7,0/dia) | 1500-2500 partos/ano (4,2-7,0/dia) | 2500-3500 partos/ano (> 7,0/dia) | 2500-3500 partos/ano (> 7,0/dia) | 2500-3500 partos/ano (> 7,0/dia) |
+| Hospitais de nível ii e iii |  |  |  |  |  |  |  |
+| < 1500 partos/ano (< 4,2/dia) | 1500-2500 partos/ano (4,2-7,0/dia) | 2500-3500 partos/ano (> 7,0/dia) |  |  |  |  |  |
 | < 35 ATD | ≥ 35 ATD | < 38 ATD | 38-47 ATD | > 47 ATD | < 41 ATD | 41-58 ATD | > 58 ATD |
-| 2 OG (ou 1 OG + 1 INT 4-6.º A) | 2 OG (ou 1 OG + 1 INT 4-6.º A) + 1 OG Prev | 2 OG (ou 1 OG + 1 INT 4-6.º A) + 1 OG Prev | 3 OG (ou 2 OG + 1 INT 0,5-6.º A) (ou 1 OG + 1 INT 4-6.º A + 1 INT 0,5-6.º A) | 4 OG (ou 3 OG + 1 INT 0,5-6.º A) (ou 2 OG + 1 INT 4-6.º A + 1 INT 0,5-6.º A) | 3 OG (ou 2 OG + 1 INT 0,5-6.º A) (ou 1 OG + 1 INT 4-6.º A + 1 INT 0,5-6.º A) | 4 OG (ou 3 OG + 1 INT 0,5-6.º A) (ou 2 OG + 1 INT 4-6.º A + 1 INT 0,5-6.º A) | 5 OG (ou 4 OG + 1 INT 0,5-6.º A) (ou 3 OG + 2 INT 0,5-6.º A) (ou 2 OG + 1 INT 4-6.º A + 2 INT 0,5-6.º A) |
+| 2 OG (ou 1 OG + 1 INT 4-6.º A) | 2 OG (ou 1 OG + 1 INT 4-6.º A) + 1 OG Prev | 2 OG (ou 1 OG + 1 INT 4-6.º A) + 1 OG Prev | 3 OG (ou 2 OG + 1 INT 0,5-6.º A) (ou 1 OG + 1 INT 4-6.º A + 1 INT 0,5-6.º A) | 4 OG (ou 3 OG + 1 INT 0,5-6.º A) (ou 2 OG + 1 INT 4-6.º A + 1 INT 0,5-6.º A) | 3 OG (ou2 OG + 1 INT 0,5-6.º A) (ou 1 OG + 1 INT 4-6.º A + 1 INT 0,5-6.º A) | 4 OG (ou 3 OG + 1 INT 0,5-6.º A) (ou 2 OG + 1 INT 4-6.º A + 1 INT 0,5-6.º A) | 5 OG (ou 4 OG + 1 INT 0,5-6.º A) (ou 3 OG + 2 INT 0,5-6.º A) (ou 2 OG + 1 INT 4-6.º A + 2 INT 0,5-6.º A) |
 
 ## ANEXO II — Níveis de contingência
 
@@ -287,14 +303,14 @@ Nível 3 = Urgência de obstetrícia e ginecologia encerrada (nenhum especialist
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| Hospitais de nível i | Hospitais de nível i | Hospitais de nível i | Hospitais de nível i |
+| Hospitais de nível i |  |  |  |
 |  | < 1200 partos/ano (< 3,4/dia) | 1200-2200 partos/ano (3,4-6,2/dia) | > 2200 partos/ano (> 6,2/dia) |
 | 1A | 2 OG (ou 1 OG + 1 INT 4-6.º A) (se ATD 46-55)1 OG + 1 INT 0,5-3.ºA (se ATD 36-45)1 OG + 1 OG Prev (se ATD 20-30) | 3 OG (ou 2 OG + 1 INT 0,5-6.º A) (ou 1 OG + 1 INT 4-6.º A + 1 INT 0,5-6.º A) (se ATD 56-65)2 OG (ou 1 OG + 1 INT 4-6.º A) + 1 OG Prev (se ATD 42-51)2 OG (ou 1 OG + 1 INT 4-6.º A) (se ATD 35-44)1 OG + 1 INT 0,5-3.ºA (se ATD 25-34) | 4 OG (ou 3 OG + 1 INT 0,5-6.º A) (ou 2 OG + 1 INT 4-6.º A + 1 INT 0,5-6.º A) (se ATD 66-75)2 OG + 2 INT 0,5-3.ºA (se ATD 56-65)3 OG (ou 2 OG + 1 INT 0,5-6.º A) (se ATD 48-57)2 OG + 1 INT 0,5-3.ºA (se ATD 43-52)2 OG (ou 1 OG + 1 INT 0,5-6.º A) + 1 OG Prev (se ATD 38-43)1 OG + 1 INT 4-6.ºA (se ATD < 20)1 OG + 1 INT 0,5-3.ºA (se ATD < 15) |
 | 1B | 2 OG (ou 1 OG + 1 INT 4-6.º A) (se ATD 56-65)1 OG + 1 INT 0,5-3.ºA (se ATD 46-55)1 OG + 1 OG Prev (se ATD 30-40) | 3 OG (ou 2 OG + 1 INT 0,5-6.º A)(ou1 OG + 1 INT 4-6.º A + 1 INT 0,5-6.º A) (se ATD 66-75)2 OG (ou 1 OG + 1 INT 4-6.º A) + 1 OG Prev (se ATD 52-61)2 OG (ou 1 OG + 1 INT 4-6.º A) (se ATD 45-54)1 OG + 1 INT 0,5-3.ºA (se ATD 35-44) | 4 OG (ou 3 OG + 1 INT 0,5-6.º A) (ou 2 OG + 1 INT 4-6.º A + 1 INT 0,5-6.º A) (se ATD 76-85)2 OG + 2 INT 0,5-3.ºA (se ATD 66-75)3 OG (ou 2 OG + 1 INT 0,5-6.º A) (se ATD 58-67)2 OG + 1 INT 0,5-3.ºA (se ATD 53-62)2 OG (ou 1 OG + 1 INT 4-6.º A) + 1 OG Prev (se ATD 44-49)1 OG + 1 INT 4-6.ºA (se ATD 20-25)1 OG + 1 INT 0,5-3.ºA (se ATD 15-20) |
 | 1C | 2 OG (ou 1 OG + 1 INT 4-6.º A) (se ATD > 65)*1 OG + INT 0,5-3.ºA (se ATD > 55)*1 OG + 1 OG Prev (se ATD > 40) | 3 OG (ou 2 OG + 1 INT 0,5-6.º A) (ou 1 OG + 1 INT 4-6.º A + 1 INT 0,5-6.º A) (se ATD > 75)*2 OG (ou 1 OG + 1 INT 4-6.º A) + 1 OG Prev (se ATD > 61)*2 OG (ou 1 OG + 1 INT 4-6.º A) (se ATD > 54)*1 OG + 1 INT 0,5-3.ºA (se ATD > 44) | 4 OG (ou 3 OG + 1 INT 0,5-6.º A) (ou 2 OG + 1 INT 4-6.º A + 1 INT 0,5-6.º A) (se ATD > 85)*2 OG + 2 INT 0,5-3.ºA (se ATD > 75)*3 OG (ou 2 OG + 1 INT 0,5-6.º A) (se ATD > 67)*2 OG + 1 INT 0,5-3.ºA (se ATD > 62)*2 OG (ou 1 OG + 1 INT 4-6.º A) + 1 OG Prev (se ATD > 49)*1 OG + 1 INT 4-6.ºA (se ATD > 25)*1 OG + 1 INT 0,5-3.ºA (se ATD > 20)* |
 | 2 | 1 OG (se ATD > 10) | 1 OG (se ATD > 10) | 1 OG (se ATD > 10) |
 | 3 | 0 OG | 0 OG | 0 OG |
-| Hospitais de nível ii e iii | Hospitais de nível ii e iii | Hospitais de nível ii e iii | Hospitais de nível ii e iii |
+| Hospitais de nível ii e iii |  |  |  |
 |  | < 1500 partos/ano (< 4,2/dia) | 1500-2500 partos/ano (4,2-7,0/dia) | 2500-3500 partos/ano (> 7,0/dia) |
 | 1A | 2 OG (ou 1 OG + 1 INT 4-6.º A) + 1 OG Prev (se ATD 46-55)2 OG (ou 1 OG + 1 INT 4-6.º A) (se ATD 35-44)1 OG + 1 INT 0,5-3.ºA (se ATD 25-34) | 4 OG (ou 3 OG + 1 INT 0,5-6.º A) (ou 2 OG + 1 INT 4-6.º A + 1 INT 0,5-6.º A) (se ATD 66-75)2 OG + 2 INT 0,5-3.ºA (se ATD 56-65)3 OG (ou 2 OG + 1 INT 0,5-6.º A) (se ATD 48-57)2 OG + 1 INT 0,5-3.ºA (se ATD 43-52)2 OG (ou 1 OG + 1 INT 0.5-6.º A) + 1 OG Prev (se ATD 38-43)1 OG + 1 INT 4-6.ºA (se ATD < 20)1 OG + 1 INT 0,5-3.ºA (se ATD < 15) | 5 OG (ou 4 OG + 1 INT 0,5-6.º A) (ou 3 OG + 2 INT 0,5-6.º A) (ou 2 OG + 1 INT 4-6.º A + 2 INT 0,5-6.º A) (se ATD 76-85)4 OG (ou 3 OG + 1 INT 0,5-6.º A) (ou 2 OG + 1 INT 4-6.º A + 1 INT 0,5-6.º A) (se ATD 59-68)2 OG + 2 INT 0,5-3.ºA (se ATD 54-63)3 OG (ou 2 OG + 1 INT 0,5-6.º A) (se ATD 41-50)2 OG + 1 INT 0,5-3.ºA (se ATD 36-45)2 OG (ou 1 OG + 1 INT 0.5-6.º A) + 1 OG Prev (se ATD 31-40)1 OG + 1 INT 4-6.ºA (se ATD < 15)1 OG + 1 INT 0,5-3.ºA (se ATD < 10) |
 | 1B | 2 OG (ou 1 OG + 1 INT 4-6.º A)+ 1 OG Prev (se ATD 56-65)2 OG (ou 1 OG + 1 INT 4-6.º A) (se ATD 45-54)1 OG + 1 INT 0,5-3.ºA (se ATD 35-44) | 4 OG (ou 3 OG + 1 INT 0,5-6.º A) (ou 2 OG + 1 INT 4-6.º A + 1 INT 0,5-6.º A) (se ATD 76-85)2 OG + 2 INT 0,5-3.ºA (se ATD 66-75)3 OG (ou 2 OG + 1 INT 0,5-6.º A) (se ATD 58-67)2 OG + 1 INT 0,5-3.ºA (se ATD 53-62)2 OG (ou 1 OG + 1 INT 4-6.º A) + 1 OG Prev (se ATD 44-49)1 OG + 1 INT 4-6.ºA (se ATD 20-25)1 OG + 1 INT 0,5-3.ºA (se ATD 15-20) | 5 OG (ou 4 OG + 1 INT 0,5-6.º A) (ou 3 OG + 2 INT 0,5-6.º A) (ou 2 OG + 1 INT 4-6.º A + 2 INT 0,5-6.º A) (se ATD 86-95)4 OG (ou 3 OG + 1 INT 0,5-6.º A) (ou 2 OG + 1 INT 4-6.º A + 1 INT 0,5-6.º A) (se ATD 69-78)2 OG + 2 INT 0,5-3.ºA (se ATD 64-73)3 OG (ou 2 OG + 1 INT 0,5-6.º A) (se ATD 51-60)2 OG + 1 INT 0,5-3.ºA (se ATD 46-55)2 OG (ou 1 OG + 1 INT 4-6.º A) + 1 OG Prev (se ATD 41-45)1 OG + 1 INT 4-6.ºA(se ATD 15-20)1 OG + 1 INT 0,5-3.ºA (se ATD 10-15) |
@@ -302,3 +318,7 @@ Nível 3 = Urgência de obstetrícia e ginecologia encerrada (nenhum especialist
 |  |  |  | 1 OG + 1 INT 4-6.ºA (se ATD > 20)*1 OG + 1 INT 0,5-3.ºA (se ATD > 15)* |
 | 2 | 1 OG (se ATD > 10) | 1 OG (se ATD > 10) | 1 OG (se ATD > 10) |
 | 3 | 0 OG | 0 OG | 0 OG |
+
+119947745
+
+.Tbl1 { color:rgb(255,0,0); } .Tbl3 { min-height:21px; } .Tbl4 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(197,197,197); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl5 { text-align:center; color:rgb(255,0,0); } .Tbl6 { min-height:18px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background:none; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { text-align:center; color:rgb(102,147,245); } .Tbl9 { color:rgb(0,0,0); } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background:none; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background:none; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { text-align:center; color:rgb(102,147,245); } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(197,197,197); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl14 { text-align:center; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(197,197,197); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(197,197,197); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl17 { min-height:47px; } .Tbl18 { color:rgb(255,0,0); } .Tbl19 { color:rgb(50,205,50); } .Tbl20 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background:none; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl21 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(197,197,197); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl22 { min-height:57px; } .Tbl23 { color:rgb(50,205,0); } .Tbl24 { height:3px; } .Tbl25 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; background:none; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl26 { min-height:19px; } .Tbl27 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(197,197,197); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; color:rgb(255,0,0); } .Tbl28 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background:none; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl29 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background:none; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl30 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background:none; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl31 { min-height:125px; } .Tbl32 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(197,197,197); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl33 { min-height:146px; } .Tbl34 { min-height:121px; } .Tbl35 { min-height:32px; }

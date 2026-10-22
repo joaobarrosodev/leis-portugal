@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43416-1960-513575
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-12-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:21:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2ef6ac003f977a282a4d9205417ded9dff4c6091fc0b6847d5a9bc16491035e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1309c68d2252a88265d8e15eea05707e823c336165128b85d521eab0cdc591d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:21:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:21:43Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +113,7 @@ Tendo em conta o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o conselho administrativo do batalhão de caçadores pára-quedistas a celebrar contrato, no presente ano económico, com a firma Instalaza, Sociedade Anónima, para o fornecimento do seguinte material:
+Artigo 1.º É autorizado o conselho administrativo do batalhão de caçadores pára-quedistas a celebrar contrato, no presente ano económico, com a firma Instalaza, Sociedade Anónima, para o fornecimento do seguinte material:
 
 4055 granadas contra pessoal, tipo II, explosivas, para espingarda;
 
@@ -129,8 +133,8 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 55 caixas de municiamento para granadas tipo III (5 granadas).
 
-###### Art. 2.º O encargo total deste contrato importa em 3084425$50 e será liquidado nos anos económicos de 1960 e 1961, distribuído como se segue: em 1960, 616885$10, pelos encargos gerais da Nação, e em 1961, 2467540$40, pelos encargos gerais da Nação.
+Art. 2.º O encargo total deste contrato importa em 3084425$50 e será liquidado nos anos económicos de 1960 e 1961, distribuído como se segue: em 1960, 616885$10, pelos encargos gerais da Nação, e em 1961, 2467540$40, pelos encargos gerais da Nação.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Júlio Carlos Alves Dias Botelho Moniz - António Manuel Pinto Barbosa.

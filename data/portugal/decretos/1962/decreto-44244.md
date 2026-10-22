@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44244-1962-516720
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-03-20T00:00:00Z'
+  retrieved_at: '2026-10-22T19:28:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93c0e907efbcf8ac803dedcf4ba52ce6c696eee7ecf26d9f2a2c9d864dcaa840
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e9a1e9befb984f09cb5e4a34fdfcb828097a1e8bae30a19c09c732fe4ab645c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:28:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,15 +70,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:28:30Z'
   warnings: []
   errors: []
 ---
@@ -93,10 +93,10 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os títulos a cobrar por intermédio do correio, eventualmente acompanhados dos respectivos duplicados ou dos seus documentos comprovativos (facturas, conhecimentos, contas de retorno, termos de protesto, etc.), serão aceites para expedição quando remetidos em carta registada endereçada directamente à estação postal encarregada de cobrar as respectivas importâncias.
+Artigo 1.º Os títulos a cobrar por intermédio do correio, eventualmente acompanhados dos respectivos duplicados ou dos seus documentos comprovativos (facturas, conhecimentos, contas de retorno, termos de protesto, etc.), serão aceites para expedição quando remetidos em carta registada endereçada directamente à estação postal encarregada de cobrar as respectivas importâncias.
 
-###### Art. 2.º É revogado o artigo 569.º do Regulamento para o Serviço dos Correios, aprovado por Decreto de 14 de Junho de 1902.
+Art. 2.º É revogado o artigo 569.º do Regulamento para o Serviço dos Correios, aprovado por Decreto de 14 de Junho de 1902.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Março de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Carlos Gomes da Silva Ribeiro.

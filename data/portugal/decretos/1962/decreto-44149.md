@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44149-1962-642682
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-10-17T00:00:00Z'
+  retrieved_at: '2026-10-22T19:27:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a79f32bb31468057291531207c6d50b11ea344ef2db967a61ebe691956683ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3501ea77dd4bcf09e3c085e1c6806673db593b2002b569a32f565473240ada72
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:27:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,28 @@ relationships:
   target: pt:dre:537194:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:246827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656829:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:27:48Z'
   warnings: []
   errors: []
 ---
@@ -91,20 +103,20 @@ Considerando a conveniência, em face das actuais circunstâncias, de modificar 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É adiada a nomeação para a matrícula na Escola Central de Sargentos aos primeiros-sargentos de qualquer arma ou serviço que se encontram nas províncias ultramarinas e aos já nomeados para serviço no ultramar.
+Artigo 1.º É adiada a nomeação para a matrícula na Escola Central de Sargentos aos primeiros-sargentos de qualquer arma ou serviço que se encontram nas províncias ultramarinas e aos já nomeados para serviço no ultramar.
 
 § único. A doutrina do corpo deste artigo é igualmente aplicada, quanto a frequência do curso, aos primeiros-sargentos que, tendo frequentado o 1.º ano do curso, não tenham obtido aproveitamento.
 
-###### Art. 2.º Os primeiros-sargentos nas condições do artigo 1.º e seu parágrafo único serão promovidos a sargento-ajudante na data em que lhes pertenceria se tivessem frequentado normalmente o curso da Escola Central de Sargentos, só podendo, porém, ser promovidos a alferes depois de frequentarem com aproveitamento o referido curso.
+Art. 2.º Os primeiros-sargentos nas condições do artigo 1.º e seu parágrafo único serão promovidos a sargento-ajudante na data em que lhes pertenceria se tivessem frequentado normalmente o curso da Escola Central de Sargentos, só podendo, porém, ser promovidos a alferes depois de frequentarem com aproveitamento o referido curso.
 
 § único. A situação em que ficarão os sargentos-ajudantes promovidos nos termos deste artigo que não obtiverem aproveitamento na frequência do curso será regulada por diploma a publicar oportunamente.
 
-###### Art. 3.º Para a promoção a alferes, os sargentos-ajudantes nas condições do artigo 2.º serão ordenados segundo a classificação obtida no curso da Escola Central de Sargentos, ocupando o seu lugar entre os seus camaradas de curso que frequentaram aquela Escola na altura própria.
+Art. 3.º Para a promoção a alferes, os sargentos-ajudantes nas condições do artigo 2.º serão ordenados segundo a classificação obtida no curso da Escola Central de Sargentos, ocupando o seu lugar entre os seus camaradas de curso que frequentaram aquela Escola na altura própria.
 
-###### Art. 4º O limite de idade fixado na alínea b) do artigo 3.º do [Decreto n.º 40423](https://diariodarepublica.pt/dr/detalhe/decreto/40423-1955-246827), de 6 de Dezembro de 1955, não terá aplicação aos sargentos referidos no artigo 2.º, devendo estes regressar imediatamente após o termo da comissão obrigatória ao ultramar.
+Art. 4º O limite de idade fixado na alínea b) do artigo 3.º do [Decreto n.º 40423](https://diariodarepublica.pt/dr/detalhe/decreto/40423-1955-246827), de 6 de Dezembro de 1955, não terá aplicação aos sargentos referidos no artigo 2.º, devendo estes regressar imediatamente após o termo da comissão obrigatória ao ultramar.
 
-###### Art. 5.º Em consequência, são alterados, transitòriamente, o artigo 5.º do [Decreto n.º 22039](https://diariodarepublica.pt/dr/detalhe/decreto/22039-1932-586846), de 28 de Dezembro de 1932, o artigo 5.º e o § único do artigo 23.º do [Decreto n.º 40423](https://diariodarepublica.pt/dr/detalhe/decreto/40423-1955-246827), de 6 de Dezembro de 1955, e o artigo 17.º do Regulamento para a Promoção aos Postos Inferiores do Exército, aprovado pela [Portaria n.º 6972](https://diariodarepublica.pt/dr/detalhe/portaria/6972-1930-656829), de 26 de Novembro de 1930, com a redacção completada pelo artigo 35.º do [Decreto n.º 40423](https://diariodarepublica.pt/dr/detalhe/decreto/40423-1955-246827), de 6 de Dezembro de 1955, que promulgou o Regulamento da Escola Central de Sargentos.
+Art. 5.º Em consequência, são alterados, transitòriamente, o artigo 5.º do [Decreto n.º 22039](https://diariodarepublica.pt/dr/detalhe/decreto/22039-1932-586846), de 28 de Dezembro de 1932, o artigo 5.º e o § único do artigo 23.º do [Decreto n.º 40423](https://diariodarepublica.pt/dr/detalhe/decreto/40423-1955-246827), de 6 de Dezembro de 1955, e o artigo 17.º do Regulamento para a Promoção aos Postos Inferiores do Exército, aprovado pela [Portaria n.º 6972](https://diariodarepublica.pt/dr/detalhe/portaria/6972-1930-656829), de 26 de Novembro de 1930, com a redacção completada pelo artigo 35.º do [Decreto n.º 40423](https://diariodarepublica.pt/dr/detalhe/decreto/40423-1955-246827), de 6 de Dezembro de 1955, que promulgou o Regulamento da Escola Central de Sargentos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 8 de Janeiro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Mário José Pereira da Silva.

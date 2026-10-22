@@ -29,7 +29,8 @@ entry_into_force_dates:
 - '2006-12-30'
 end_of_validity_date: '2014-06-21'
 legal_status: repealed
-notes: []
+notes:
+- 'Fonte sem texto: o EUR-Lex tem versões consolidadas deste ato, mas nenhuma em português (verificado em 2026-10-22).'
 language: por
 version:
   kind: original

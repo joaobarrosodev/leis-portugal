@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 276/1991, 3º Suplemento, Série I-B de 1991-11-30
   number: '276'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 6274-(10) a 6274-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/11/276b03/00100010.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/258/1991/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/258-1991-238835
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:31:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b79d1f5ba336294b202b332faa21dd5c9c0251610d054a76060616b21c465f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a34f1bea49be2310b4f4fc94d85ee52b97f57750afcf911303293f57d566d6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:31:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,32 +69,36 @@ subjects:
 - Código do Notariado
 - Código do Registo Civil
 - Código do Registo Comercial
-- Serviços de Registo e Notariado
-- Registo Automóvel
 - Emolumento do Notariado
+- Registo Automóvel
 - Registo Civil
-- Registo Predial
 - Registo Comercial
+- Registo Predial
+- Serviços de Registo e Notariado
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1046/1991/10/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1046/1991/10/12/p/dre
+- type: cites
+  target: pt:dre:288404:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:31:05Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 258/91
+# Declaração de rectificação n.º 258/91
 
 Segundo comunicação do Gabinete do Secretário de Estado Adjunto do Ministro da Justiça, a [Portaria n.º 1046/91](https://diariodarepublica.pt/dr/detalhe/portaria/1046-1991-288404), publicada no Diário da República, 1.ª série, n.º 235, de 12 de Outubro de 1991, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 
@@ -108,7 +112,7 @@ a) Para a prática de [...]
 
 No n.º 2.º, na nova redacção do artigo 18.º, onde se lê:
 
-###### Art. 18.º - 1 ...
+Art. 18.º - 1 ...
 
 a) Pelo requerimento [...]
 
@@ -118,13 +122,13 @@ a) Pelo estudo [...]
 
 deve ler-se:
 
-###### Art. 18.º - 1 - a) Pelo requerimento [...]
+Art. 18.º - 1 - a) Pelo requerimento [...]
 
 2 - a) Pelo estudo [...]
 
 No n.º 3.º, na nova redacção do artigo 21.º, onde se lê:
 
-###### Art. 21.º - 1 - ...
+Art. 21.º - 1 - ...
 
 a) Pelo requerimento [...]
 
@@ -134,13 +138,13 @@ a) Pelo estudo [...]
 
 deve ler-se:
 
-###### Art. 21.º - 1 - a) Pelo requerimento [...]
+Art. 21.º - 1 - a) Pelo requerimento [...]
 
 2 - a) Pelo estudo [...]
 
 No n.º 4.º, na nova redacção do artigo 8.º, onde se lê:
 
-###### Art. 8.º - 1 - ...
+Art. 8.º - 1 - ...
 
 a) Pelo requerimento [...]
 
@@ -150,19 +154,19 @@ a) Pelo estudo [...]
 
 deve ler-se:
 
-###### Art. 8.º - 1 - a) Pelo requerimento [...]
+Art. 8.º - 1 - a) Pelo requerimento [...]
 
 2 - a) Pelo estudo [...]
 
 No n.º 5.º, na nova redacção do artigo 23.º, n.º 2, onde se lê:
 
-###### Art. 23.º - 1 - ...
+Art. 23.º - 1 - ...
 
 2 - Ao aumento do número anterior [...]
 
 deve ler-se:
 
-###### Art. 23.º - 1 - ...
+Art. 23.º - 1 - ...
 
 2 - Ao emolumento do número anterior [...]
 

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45840-1964-579328
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-05-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:41:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8ab6d511df13b4637ce0851e25192ef2be9e881d6e6787a8265d29c69220daa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e11d68384fccfaf3770c1bc3d7585e64f3753ef8266437a13a7d3597d16e52d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:41:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,15 +73,15 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:41:20Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +134,7 @@ Finalmente, nota-se que as opções podem originar, em grau que não contraria a
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, o seguinte:
 
-###### Artigo 1.º O quadro das disciplinas das Faculdades de Ciências passa a ser o seguinte:
+Artigo 1.º O quadro das disciplinas das Faculdades de Ciências passa a ser o seguinte:
 
 1.ª Secção - Ciências Matemáticas
 
@@ -386,39 +386,39 @@ Curso de Cartografia Geológica e Fotogeológica - semestral.
 
 § único. O ensino reveste, conforme a índole das disciplinas, carácter teórico e prático, só teórico ou só prático.
 
-###### Art. 2.º As diversas licenciaturas, com uma parte geral constituída pelos três primeiros anos e uma parte complementar formada pelos dois últimos, têm a estruturação que se segue:
+Art. 2.º As diversas licenciaturas, com uma parte geral constituída pelos três primeiros anos e uma parte complementar formada pelos dois últimos, têm a estruturação que se segue:
 
 Licenciatura em Matemática Pura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/07/17900/09530959.pdf))](https://files.diariodarepublica.pt/1s/1964/07/17900/09530959.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/07/17900/09530959.pdf)
 
 Licenciatura em Matemática Aplicada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/07/17900/09530959.pdf))](https://files.diariodarepublica.pt/1s/1964/07/17900/09530959.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/07/17900/09530959.pdf)
 
 Licenciatura em Engenharia Geográfica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/07/17900/09530959.pdf))](https://files.diariodarepublica.pt/1s/1964/07/17900/09530959.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/07/17900/09530959.pdf)
 
 Licenciatura em Física
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/07/17900/09530959.pdf))](https://files.diariodarepublica.pt/1s/1964/07/17900/09530959.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/07/17900/09530959.pdf)
 
 Licenciatura em Química
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/07/17900/09530959.pdf))](https://files.diariodarepublica.pt/1s/1964/07/17900/09530959.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/07/17900/09530959.pdf)
 
 Licenciatura em Geologia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/07/17900/09530959.pdf))](https://files.diariodarepublica.pt/1s/1964/07/17900/09530959.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/07/17900/09530959.pdf)
 
 Licenciatura em Biologia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/07/17900/09530959.pdf))](https://files.diariodarepublica.pt/1s/1964/07/17900/09530959.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/07/17900/09530959.pdf)
 
 § único. Os horários deixarão livre de aulas em cada semana uma tarde, que será destinada às actividades gimnodesportivas dos alunos.
 
-###### Art. 3.º As tabelas das disciplinas de opção serão fixadas por despacho do Ministro da Educação Nacional e poderão incluir disciplinas escolhidas entre as constantes do artigo 1.º ou outras, de carácter não permanente, cuja designação e conteúdo serão propostos pelos conselhos escolares.
+Art. 3.º As tabelas das disciplinas de opção serão fixadas por despacho do Ministro da Educação Nacional e poderão incluir disciplinas escolhidas entre as constantes do artigo 1.º ou outras, de carácter não permanente, cuja designação e conteúdo serão propostos pelos conselhos escolares.
 
 § 1.º Os despachos ministeriais que fixarem as tabelas das disciplinas de opção e a designação e conteúdo das não incluídas no artigo 1.º serão proferidos sobre parecer favorável da Junta Nacional da Educação.
 
@@ -426,39 +426,39 @@ Licenciatura em Biologia
 
 § 3.º As tabelas das disciplinas de opção podem variar de Faculdade para Faculdade.
 
-###### Art. 4.º Os seminários têm por objectivo fundamental desenvolver nos alunos dualidades de iniciativa para o trabalho individual e o gosto pela investigação científica nos que para ela revelem aptidões.
+Art. 4.º Os seminários têm por objectivo fundamental desenvolver nos alunos dualidades de iniciativa para o trabalho individual e o gosto pela investigação científica nos que para ela revelem aptidões.
 
 § 1.º A regulamentação dos seminários será proposta pelas Faculdades de Ciências e aprovada por despacho ministerial, sobre parecer favorável da Junta Nacional da Educação.
 
 § 2.º A apreciação do aproveitamento do aluno no trabalho de seminário é expressa em valores, segundo a escala do artigo 68.º do Estatuto da Instrução Universitária.
 
-###### Art. 5.º Só podem inscrever-se em disciplinas de um ano os alunos a quem não falte aprovação em mais de uma do ano anterior.
+Art. 5.º Só podem inscrever-se em disciplinas de um ano os alunos a quem não falte aprovação em mais de uma do ano anterior.
 
 § único. Não são consentidas inscrições que não respeitem a seguinte tabela de precedências:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/07/17900/09530959.pdf))](https://files.diariodarepublica.pt/1s/1964/07/17900/09530959.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/07/17900/09530959.pdf)
 
-###### Art. 6.º Os programas das disciplinas da parte geral das licenciaturas são comuns às três Faculdades de Ciências.
+Art. 6.º Os programas das disciplinas da parte geral das licenciaturas são comuns às três Faculdades de Ciências.
 
 § 1.º Compete à Direcção-Geral do Ensino Superior e das Belas-Artes promover a organização destes programas, ouvindo para este efeito as Faculdades de Ciências e, na parte que lhes respeita, as Faculdades de Letras, de Engenharia, de Farmácia e de Economia, o Instituto Superior Técnico, as escolas de farmácia e as escolas superiores de belas-artes. É também da competência da mesma Direcção-Geral a publicação destes programas, logo que sejam aprovados por despacho ministerial, sobre parecer favorável da Junta Nacional da Educação.
 
 § 2.º Os programas serão revistos, pelo menos, de três em três anos.
 
-###### Art. 7.º A apreciação do aproveitamento dos alunos nas disciplinas de índole exclusivamente prática é feita no decorrer do ano e, salvo para os cursos de Desenho, expressa simplesmente pela concessão ou denegação de aproveitamento.
+Art. 7.º A apreciação do aproveitamento dos alunos nas disciplinas de índole exclusivamente prática é feita no decorrer do ano e, salvo para os cursos de Desenho, expressa simplesmente pela concessão ou denegação de aproveitamento.
 
-###### Art. 8.º Os exames finais realizam-se nos meses de Junho e Julho imediatos à frequência das respectivas disciplinas.
+Art. 8.º Os exames finais realizam-se nos meses de Junho e Julho imediatos à frequência das respectivas disciplinas.
 
 § único. É permitido aos alunos realizar até dois exames em Outubro, mesmo que deles tenham sido excluídos na época de Junho-Julho. Nesta época há, para cada exame, duas chamadas, separadas por três dias.
 
-###### Art. 9.º As Faculdades de Ciências conferem os graus académicos de licenciado e de doutor em Matemática Pura, em Matemática Aplicada, em Engenharia Geográfica, em Física, em Química, em Geologia e em Biologia.
+Art. 9.º As Faculdades de Ciências conferem os graus académicos de licenciado e de doutor em Matemática Pura, em Matemática Aplicada, em Engenharia Geográfica, em Física, em Química, em Geologia e em Biologia.
 
 § único. Ao grau académico de licenciado corresponde, conforme a licenciatura, o título profissional de matemático, de engenheiro geógrafo, de físico, de químico, de geólogo e de biólogo.
 
-###### Art. 10.º A informação final da licenciatura é votada pelo conselho escolar, com base nas classificações obtidas nas diferentes disciplinas, especialmente nas do grupo respectivo, e na classificação do trabalho de seminário.
+Art. 10.º A informação final da licenciatura é votada pelo conselho escolar, com base nas classificações obtidas nas diferentes disciplinas, especialmente nas do grupo respectivo, e na classificação do trabalho de seminário.
 
 § único. O critério uniforme a seguir pelas três Faculdades para a determinação da informação final da licenciatura será fixado por despacho ministerial, depois de ouvidos os conselhos escolares.
 
-###### Art. 11.º Nos planos de estudos das Faculdades de Letras, de Engenharia, de Farmácia, de Economia, do Instituto Superior Técnico, das escolas de farmácia e das escolas superiores de belas-artes são, para todos os efeitos, introduzidas as substituições das disciplinas que se seguem:
+Art. 11.º Nos planos de estudos das Faculdades de Letras, de Engenharia, de Farmácia, de Economia, do Instituto Superior Técnico, das escolas de farmácia e das escolas superiores de belas-artes são, para todos os efeitos, introduzidas as substituições das disciplinas que se seguem:
 
 a) Faculdade de Letras:
 
@@ -522,7 +522,7 @@ Curso Geral de Física por Física Geral.
 
 Curso Geral de Química por Química Geral.
 
-###### Art. 12.º Os alunos que ingressaram nos cursos das Faculdades de Ciências anteriormente ao ano lectivo de 1964-1965 e obtiveram aprovação numa disciplina, pelo menos, prosseguirão os seus estudos segundo os planos e regime vigentes à data da publicação deste decreto; mas, à medida que entrarem em funcionamento as novas disciplinas, as existentes à data da publicação deste decreto consideram-se extintas e substituídas de acordo com a tabela de equivalências que consta do artigo 11.º e da seguinte tabela:
+Art. 12.º Os alunos que ingressaram nos cursos das Faculdades de Ciências anteriormente ao ano lectivo de 1964-1965 e obtiveram aprovação numa disciplina, pelo menos, prosseguirão os seus estudos segundo os planos e regime vigentes à data da publicação deste decreto; mas, à medida que entrarem em funcionamento as novas disciplinas, as existentes à data da publicação deste decreto consideram-se extintas e substituídas de acordo com a tabela de equivalências que consta do artigo 11.º e da seguinte tabela:
 
 Álgebra Superior por Álgebra.
 
@@ -576,6 +576,6 @@ Desenho Rigoroso por Curso Geral de Desenho.
 
 Desenho de Máquinas por Curso Geral de Desenho.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Julho de 1964. - ANTÓNIO DE OLIVEIRA SALAZAR - Inocêncio Galvão Teles.

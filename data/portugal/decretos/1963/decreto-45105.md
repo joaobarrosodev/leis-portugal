@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45105-1963-693242
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-07-02T00:00:00Z'
+  retrieved_at: '2026-10-22T19:35:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4dd0f74f5ec01066c9a3fc58c56b7ef081014f64c9d3848194fd9b6f4e11fe4b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df1acc5bde8f93bb0cbfea4bc1d31c327fa2a2c07e4fcd82f17ae1f778a1ac2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:35:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586797:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:35:27Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +97,7 @@ Considerando o disposto na [Lei n.º 2078](https://diariodarepublica.pt/dr/detal
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Ficam sujeitas ao regime de servidão militar as áreas confinantes com as centrais emissora e receptora da Estação Radionaval de Luanda que constituem a sua zona de segurança, assim definidas:
+Artigo 1.º Ficam sujeitas ao regime de servidão militar as áreas confinantes com as centrais emissora e receptora da Estação Radionaval de Luanda que constituem a sua zona de segurança, assim definidas:
 
 a) A área compreendida no círculo de 1500 m de raio, com o centro no edifício da recepção da central receptora;
 
@@ -97,9 +105,9 @@ b) A área compreendida no círculo de 800 m de raio, com o centro no edifício 
 
 § único. As centrais receptora e emissora ocupam as áreas delimitadas, respectivamente, pelos vértices 1, 2, 3, 4 e A, B, C, D, devidamente assinalados no terreno, definidos pelas seguintes coordenadas rectangulares, com origem no vértice do observatório de Luanda:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/07/15400/09030904.pdf))](https://files.diariodarepublica.pt/1s/1963/07/15400/09030904.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/07/15400/09030904.pdf)
 
-###### Art. 2.º Nos termos do disposto no artigo 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), na área sujeita a servidão militar são proibidos, sem prévia licença da autoridade militar competente, os trabalhos e actividades seguintes:
+Art. 2.º Nos termos do disposto no artigo 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), na área sujeita a servidão militar são proibidos, sem prévia licença da autoridade militar competente, os trabalhos e actividades seguintes:
 
 a) Construções de qualquer natureza, mesmo que sejam enterradas, subterrâneas ou aquáticas;
 
@@ -123,7 +131,7 @@ h) Outros trabalhos ou actividades que possam inequìvocamente prejudicar a segu
 
 § 3.º As autarquias locais e as autoridades administrativas não poderão executar nem conceder licença para qualquer obra antes de ter sido dada a necessária autorização pela autoridade militar competente, salvo quando se trate de obras de reparação ou de simples conservação que não envolvam alteração de dimensões ou da configuração exterior.
 
-###### Art. 3.º As zonas indicadas no artigo 1.º serão demarcadas na carta n.º 361 da Missão Hidrográfica de Angola e S. Tomé e Príncipe, na escala de 1/50000, sendo destinados exemplares às seguintes entidades:
+Art. 3.º As zonas indicadas no artigo 1.º serão demarcadas na carta n.º 361 da Missão Hidrográfica de Angola e S. Tomé e Príncipe, na escala de 1/50000, sendo destinados exemplares às seguintes entidades:
 
 a) Secretariado-Geral da Defesa Nacional;
 
@@ -133,11 +141,11 @@ c) Ministério do Ultramar;
 
 d) Governo-Geral de Angola.
 
-###### Art. 4.º Compete ao Ministério da Marinha, pelo Comando Naval de Angola, ouvido o Estado-Maior da Armada, a concessão das licenças a que se refere o presente decreto, ficando a cargo daquele Comando a fiscalização do exacto cumprimento da lei e da rigorosa observância das condições impostas nas licenças concedidas.
+Art. 4.º Compete ao Ministério da Marinha, pelo Comando Naval de Angola, ouvido o Estado-Maior da Armada, a concessão das licenças a que se refere o presente decreto, ficando a cargo daquele Comando a fiscalização do exacto cumprimento da lei e da rigorosa observância das condições impostas nas licenças concedidas.
 
 § único. Das decisões tomadas ao abrigo deste artigo, poderão os interessados recorrer para o Ministro da Defesa Nacional.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Julho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Fernando Quintanilha Mendonça Dias - António Augusto Peixoto Correia.
 

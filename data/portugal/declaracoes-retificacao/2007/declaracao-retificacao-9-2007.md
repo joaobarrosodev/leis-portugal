@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/9/2007/01/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-2007-522664
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-23T00:00:00Z'
+  retrieved_at: '2026-10-22T19:09:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 597aa7b49069b1d0d6878c54d105c16e5776873c7dac09c538008c4b994114ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4809b9437d6d607dd2fcf063e6281639745254601b5e25c2e87f7a4541a49d68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:09:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,28 +70,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Controlo de Qualidade
 - ASAE
-- Direcção Geral da Empresa
-- Norma Portuguesa
-- Fertilizante
 - Comércio
+- Controlo de Qualidade
+- Direcção Geral da Empresa
+- Fertilizante
+- Norma Portuguesa
 - Normalização
 relationships:
 - type: cites
   target: celex:32003R2003
   label: null
   source: http://data.europa.eu/eli/reg/2003/2003/oj
+- type: corrects
+  target: pt:numero:portaria:1322/2006
+  label: "Rectifica a Portaria n.º 1322/2006, de 24 de Novembro, DR.IS [227]\0\0"
+  source: null
+  date: '2006-11-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:09:17Z'
   warnings: []
   errors: []
 ---

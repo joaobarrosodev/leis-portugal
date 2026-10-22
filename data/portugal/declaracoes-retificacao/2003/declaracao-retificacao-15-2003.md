@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/15/2003/10/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-2003-466830
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-10-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:02:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5fc00d7902d6a8f65f59cb65c8812803963a608e53e717831aa579bbf462091c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 370b6da5e3c5c1350a36dc86f427b477c0569e2b14cf9e9764788b3b32b8196c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:02:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,86 +65,90 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
 - Acidente de Trabalho
-- Função Pública
-- Protecção da Maternidade
+- Açores
+- Administração Pública
 - Aproximação das Legislações
 - Arbitragem
-- Direito Colectivo
-- Garantia
-- Empresa
-- Formação Profissional
-- Multa
-- Comissão de Serviço
-- Igualdade de Tratamento
-- Conflito de Trabalho
-- Contra-ordenação Laboral
-- Descanso Semanal
-- Regime Laboral
-- Despedimento
 - Associação Patronal
 - Associação Sindical
+- Código do Trabalho
+- Comissão de Serviço
 - Comissão de Trabalhadores
+- Condições de Higiene e Segurança no Trabalho
+- Conflito de Trabalho
 - Conselho de Empresa Europeu
+- Contra-ordenação Laboral
+- Contrato de Trabalho
+- Convenção Coletiva de Trabalho
+- Deficiente
+- Descanso Semanal
+- Despedimento
+- Direito Colectivo
 - Direito de Associação
 - Direito do Trabalho
-- Código do Trabalho
-- Convenção Coletiva de Trabalho
-- Administração Pública
+- Doença Profissional
+- Empresa
+- Faltas
 - Feriado
 - Férias
-- Remuneração Acessória
+- Formação Profissional
+- Função Pública
+- Funcionário Público
+- Garantia
 - Greve
+- Horário de Trabalho
 - Horas Extraordinárias
 - Igualdade de Oportunidades
+- Igualdade de Tratamento
+- Incapacidade Temporária
 - Indemnização
-- Publicitação
-- Faltas
 - Lock-out
+- Madeira.região Autónoma
+- Mobilidade de Pessoal
+- Multa
 - Patronato
-- Sanção Penal
-- Doença Profissional
-- Proteção ao Deficiente
-- Trabalho de Menores
 - Pré-reforma
 - Programa de Ocupação Temporária de Jovens
-- Madeira.região Autónoma
+- Proteção ao Deficiente
+- Protecção da Maternidade
+- Publicitação
 - Reconversão Profissional
 - Reforma
-- Contrato de Trabalho
-- Condições de Higiene e Segurança no Trabalho
-- Horário de Trabalho
-- Teletrabalho
-- Trabalho a Tempo Parcial
-- Trabalho Nocturno
+- Regime Laboral
 - Remuneração
+- Remuneração Acessória
 - Representação dos Trabalhadores
-- Mobilidade de Pessoal
 - Responsabilidade Civil
 - Responsabilidade Criminal
-- Incapacidade Temporária
-- Funcionário Público
-- Açores
+- Sanção Penal
+- Teletrabalho
 - Trabalhador Estrangeiro
 - Trabalhador Estudante
 - Trabalhador Independente
+- Trabalho a Tempo Parcial
+- Trabalho de Menores
+- Trabalho Nocturno
 - Trabalho por Turnos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
+- type: cites
+  target: pt:dre:632906:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:02:14Z'
   warnings: []
   errors: []
 ---

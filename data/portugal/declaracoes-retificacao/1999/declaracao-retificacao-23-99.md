@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/23/1999/12/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/23-1999-661361
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-24T00:00:00Z'
+  retrieved_at: '2026-10-22T18:54:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9c30d6d018ebffb2e8d9a441bdef8cd4d8f16c1c40b27cb05d494517de844bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7cd97cc8829746926e05378b430215e3652dd2d71e54747d15c8a7454b11e521
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:54:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,29 +69,33 @@ subjects:
 - ACTO Extrajudicial
 - ACTO Judicial
 - Convenção
-- Portugal
-- Macau
-- HAIA
-- Direito Comercial
-- Notificação
-- Ministério Público
-- Países Baixos
 - Direito Civil
+- Direito Comercial
+- HAIA
+- Macau
+- Ministério Público
+- Notificação
+- Países Baixos
+- Portugal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/av/126/1999/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/av/126/1999/09/10/p/dre
+- type: cites
+  target: pt:dre:571003:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:54:23Z'
   warnings: []
   errors: []
 ---

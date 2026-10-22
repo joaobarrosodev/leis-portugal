@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1960/09/22200/20412046.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43190-1960-514849
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:19:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3431f2acf4e00aa25275e9a3c2440f7b073de296ea3d4b81b0213805ec9ffa0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5681da285297a3e2d3a17804b91fa4694704565c2dca431f700916d27f86662e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:19:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Actividade Artística
+- Espetáculos e Divertimentos Públicos
+- Profissão Artística
 relationships:
 - type: amended_by
   target: pt:dre:248247:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632765:por
+  label: Alterado o § 2.º do art. 2.º pelo(a) Decreto-Lei n.º 383/71 - Diário do Governo n.º 220/1971, Série I de 1971-09-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/383-1971-632765
+  date: '1971-09-17'
+- type: amended_by
+  target: pt:dre:537249:por
+  label: "Dada nova redacção aos artigos 10.º, 11.º, 14.º, 16.º e 46.º e aditado um artigo 46.º-A do presente diploma, pela\
+    \ LEI.30/2006.11.07.2006.AR, DR.IS [132] de 11.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-2006-537249
+  date: '2006-07-11'
+- type: cites
+  target: pt:dre:187697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514840:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:663325:por
+  label: "Revogados os arts. 18º a 34º e 35º a 45º do regulamento, pelo DEC LEI.38/87.26.01.1987.MTSS, DR.IS [21] de 26.01.1987\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-1987-663325
+  date: '1987-01-26'
+- type: repealed_by
+  target: pt:dre:248247:por
+  label: "Revogado , a partir de 12.02.2008, pela LEI.4/2008.07.02.2008.AR, DR.IS [27] de 07.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/4-2008-248247
+  date: '2008-02-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:19:47Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +129,7 @@ I
 
 Condições gerais do exercício da actividade dos profissionais de espectáculos
 
-###### Artigo 1.º Os profissionais de espectáculos de nacionalidade portuguesa e os de nacionalidade estrangeira com residência em Portugal só podem exercer a profissão desde que:
+Artigo 1.º Os profissionais de espectáculos de nacionalidade portuguesa e os de nacionalidade estrangeira com residência em Portugal só podem exercer a profissão desde que:
 
 1) Se encontrem na posse de carteira profissional válida que, nos termos do [Decreto-Lei n.º 29931](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29931-1939-187697), de 15 de Setembro de 1939, os habilite ao exercício da respectiva actividade, tratando-se de profissões abrangidas por sindicatos, sem prejuízo da actuação dos estagiários nos casos previstos nos despachos em vigor.
 
@@ -102,7 +139,7 @@ Condições gerais do exercício da actividade dos profissionais de espectáculo
 
 § 2.º O disposto neste artigo não afecta, quanto a estrangeiros, a autorização exigida pelos Decretos-Leis n.os 22827 e 29762, respectivamente de 14 de Julho de 1933 e 19 de Julho de 1939.
 
-###### Art. 2.º Os profissionais de espectáculos de nacionalidade estrangeira que não tenham residência em Portugal só podem exibir-se no País depois de obtida autorização nos termos dos Decretos-Leis n.os 22827 e 29762 e de terem pago, no respectivo sindicato, importância igual às quotas relativas a um ano.
+Art. 2.º Os profissionais de espectáculos de nacionalidade estrangeira que não tenham residência em Portugal só podem exibir-se no País depois de obtida autorização nos termos dos Decretos-Leis n.os 22827 e 29762 e de terem pago, no respectivo sindicato, importância igual às quotas relativas a um ano.
 
 § 1.º Os profissionais estrangeiros cuja categoria profissional não tenha representação em qualquer sindicato nacional contribuirão para o fundo de assistência da Caixa de Previdência dos Profissionais de Espectáculos com o montante correspondente a um ano de quotas do sindicato que tiver maior afinidade com a respectiva actividade, independentemente das contribuições devidas ao mesmo fundo por todos os profissionais estrangeiros, nos termos do regulamento daquela Caixa.
 
@@ -112,21 +149,21 @@ Condições gerais do exercício da actividade dos profissionais de espectáculo
 
 § 4.º Considera-se concedida a autorização a que se referem os diplomas indicados no corpo deste artigo sempre que a exibição de companhias estrangeiras tenha sido autorizada por despacho da Presidência do Conselho, ouvido o Instituto Nacional do Trabalho e Previdência, nos termos do artigo 52.º do [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959.
 
-###### Art. 3.º Os profissionais de espectáculos de nacionalidade portuguesa residentes no estrangeiro e que não reúnam as condições legais para o exercício da actividade em Portugal poderão exibir-se nas condições fixadas para os estrangeiros residentes fora do País.
+Art. 3.º Os profissionais de espectáculos de nacionalidade portuguesa residentes no estrangeiro e que não reúnam as condições legais para o exercício da actividade em Portugal poderão exibir-se nas condições fixadas para os estrangeiros residentes fora do País.
 
-###### Art. 4.º São isentos do pagamento das importâncias a que se refere o artigo 2.º os profissionais componentes de grupos corais e de ballet com mais de quinze figuras, e bem assim os componentes de orquestras sinfónicas e companhias de ópera, opereta e teatrais, desde que, em qualquer caso, não realizem mais de dez espectáculos no País.
+Art. 4.º São isentos do pagamento das importâncias a que se refere o artigo 2.º os profissionais componentes de grupos corais e de ballet com mais de quinze figuras, e bem assim os componentes de orquestras sinfónicas e companhias de ópera, opereta e teatrais, desde que, em qualquer caso, não realizem mais de dez espectáculos no País.
 
-###### Art. 5.º A intervenção de menores de 18 anos em espectáculos e divertimentos públicos carece de autorização do Instituto Nacional do Trabalho e Previdência, a qual só poderá ser concedida em casos excepcionais devidamente comprovados, ouvido o sindicato respectivo, e junta declaração de concordância dos responsáveis pela educação do menor.
+Art. 5.º A intervenção de menores de 18 anos em espectáculos e divertimentos públicos carece de autorização do Instituto Nacional do Trabalho e Previdência, a qual só poderá ser concedida em casos excepcionais devidamente comprovados, ouvido o sindicato respectivo, e junta declaração de concordância dos responsáveis pela educação do menor.
 
-###### Art. 6.º O Instituto Nacional do Trabalho e Previdência poderá, a pedido do interessado, autorizar um dos autores das peças teatrais a tomar parte, como amador, no seu desempenho, desde que o pedido seja acompanhado de documento comprovativo da anuência da empresa interessada.
+Art. 6.º O Instituto Nacional do Trabalho e Previdência poderá, a pedido do interessado, autorizar um dos autores das peças teatrais a tomar parte, como amador, no seu desempenho, desde que o pedido seja acompanhado de documento comprovativo da anuência da empresa interessada.
 
-###### Art. 7.º As empresas exploradoras de espectáculos e divertimentos públicos, devidamente registadas, poderão ser autorizadas a apresentar agrupamentos de amadores, no máximo de doze espectáculos anuais por cada empresa.
+Art. 7.º As empresas exploradoras de espectáculos e divertimentos públicos, devidamente registadas, poderão ser autorizadas a apresentar agrupamentos de amadores, no máximo de doze espectáculos anuais por cada empresa.
 
-###### Art. 8.º Para efeitos da autorização da actuação de amadores em espectáculos públicos a realizar por entidades diversas das indicadas no artigo anterior, exigida pelo artigo 50.º do [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959, o Instituto Nacional do Trabalho e Previdência comunicará à Inspecção dos Espectáculos, juntamente com o seu parecer, todos os elementos de que disponha e que possam influir no critério a adoptar na concessão da referida autorização.
+Art. 8.º Para efeitos da autorização da actuação de amadores em espectáculos públicos a realizar por entidades diversas das indicadas no artigo anterior, exigida pelo artigo 50.º do [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959, o Instituto Nacional do Trabalho e Previdência comunicará à Inspecção dos Espectáculos, juntamente com o seu parecer, todos os elementos de que disponha e que possam influir no critério a adoptar na concessão da referida autorização.
 
-###### Art. 9.º A intervenção de amadores em espectáculos organizados pelas empresas a que se refere o artigo 7.º fora dos casos previstos neste diploma, só poderá realizar-se ou ser autorizada quando permitida pelos regulamentos das respectivas profissões ou mediante portaria do Ministro das Corporações e Previdência Social.
+Art. 9.º A intervenção de amadores em espectáculos organizados pelas empresas a que se refere o artigo 7.º fora dos casos previstos neste diploma, só poderá realizar-se ou ser autorizada quando permitida pelos regulamentos das respectivas profissões ou mediante portaria do Ministro das Corporações e Previdência Social.
 
-###### Art. 10.º As empresas ou entidades organizadoras de espectáculos ou divertimentos públicos que permitirem a exibição de profissionais em contravenção ao disposto no presente diploma serão punidas com multa de 200$00 a 1000$00 por cada profissional em relação ao qual se verifique a infracção, sem prejuízo do disposto nos Decretos-Leis n.os 22827 e 29762.
+Art. 10.º As empresas ou entidades organizadoras de espectáculos ou divertimentos públicos que permitirem a exibição de profissionais em contravenção ao disposto no presente diploma serão punidas com multa de 200$00 a 1000$00 por cada profissional em relação ao qual se verifique a infracção, sem prejuízo do disposto nos Decretos-Leis n.os 22827 e 29762.
 
 § 1.º O disposto neste artigo é igualmente aplicável às empresas exploradoras de espectáculos ou divertimentos públicos, devidamente registadas, que permitirem a exibição de amadores em contravenção ao disposto neste mesmo diploma.
 
@@ -136,17 +173,17 @@ II
 
 Dos agentes artísticos
 
-###### Art. 11.º O exercício da actividade de agente artístico depende de licença a conceder pelo Instituto Nacional do Trabalho e Previdência.
+Art. 11.º O exercício da actividade de agente artístico depende de licença a conceder pelo Instituto Nacional do Trabalho e Previdência.
 
 § 1.º Por agente artístico entende-se a pessoa ou empresa que, mediante remuneração, sirva de intermediária entre os profissionais e as entidades que exploram espectáculos ou divertimentos públicos, para efeitos de colocação, incluindo os apoderados tauromáquicos.
 
 § 2.º As infracções ao disposto neste artigo serão punidas com multa de 2000$00 a 8000$00, por cujo pagamento ficam solidàriamente responsáveis as empresas e demais entidades que hajam contratado os artistas.
 
-###### Art. 12.º A licença só poderá ser concedida aos indivíduos de reconhecida idoneidade para o exercício da actividade ou, tratando-se de empresas, cujos administradores ou gerentes possuam idêntico requisito.
+Art. 12.º A licença só poderá ser concedida aos indivíduos de reconhecida idoneidade para o exercício da actividade ou, tratando-se de empresas, cujos administradores ou gerentes possuam idêntico requisito.
 
 § único. Para concessão da licença deverá o requerente prestar caução, no montante de 20000$00, destinada a garantir os compromissos decorrentes do exercício da sua actividade.
 
-###### Art. 13.º A licença será solicitada em requerimento dirigido ao director-geral do Trabalho e Corporações, instruído com os seguintes documentos:
+Art. 13.º A licença será solicitada em requerimento dirigido ao director-geral do Trabalho e Corporações, instruído com os seguintes documentos:
 
 1) Certidão de escritura da constituição da sociedade, tratando-se de empresas colectivas, ou minuta da escritura, se a sociedade ainda não estiver constituída;
 
@@ -164,17 +201,17 @@ Dos agentes artísticos
 
 § 4.º A inobservância do disposto no parágrafo antecedente é punida nos termos do § 2.º do artigo 11.º, não se verificando, porém, a responsabilidade da empresa contratante se a mesma provar que desconhecia a irregularidade.
 
-###### Art. 14.º Os agentes artísticos não poderão receber quaisquer importâncias pela colocação de profissionais de espectáculos em estabelecimentos onde, a qualquer título, prestem serviço ou dos quais sejam proprietários, gerentes ou administradores.
+Art. 14.º Os agentes artísticos não poderão receber quaisquer importâncias pela colocação de profissionais de espectáculos em estabelecimentos onde, a qualquer título, prestem serviço ou dos quais sejam proprietários, gerentes ou administradores.
 
 § único. A infracção ao disposto neste artigo será punida coma multa de 1000$00 a 4000$00 e envolve a perda imediata da licença.
 
-###### Art. 15.º Será retirada a licença aos agentes artísticos:
+Art. 15.º Será retirada a licença aos agentes artísticos:
 
 1) Que deixarem de ser considerados pessoas idóneas, ou tiverem sofrido condenação definitiva por crime que para os funcionários públicos implique a demissão;
 
 2) Que não reintegrarem a caução no prazo de dez dias.
 
-###### Art. 16.º Fica suspensa a validade de licenças concedidas a sociedades logo que:
+Art. 16.º Fica suspensa a validade de licenças concedidas a sociedades logo que:
 
 1) O Instituto Nacional do Trabalho e Previdência lhes comunique ter deixado de reconhecer idoneidade a qualquer dos seus administradores ou gerentes;
 
@@ -186,7 +223,7 @@ Dos agentes artísticos
 
 § 3.º As sociedades são obrigadas a comunicar ao Instituto Nacional do Trabalho e Previdência, no prazo de cinco dias, a pronúncia e a condenação proferidas contra os seus administradores ou gerentes, sob pena de multa de 500$00 a 2000$00.
 
-###### Art. 17.º O Instituto Nacional do Trabalho e Previdência poderá suspender a validade das licenças, até à decisão definitiva dos respectivos processos, dos agentes artísticos que tenham sido pronunciados por quaisquer crimes, desde que a pronúncia respeite a factos que indiciem falta da idoneidade exigida.
+Art. 17.º O Instituto Nacional do Trabalho e Previdência poderá suspender a validade das licenças, até à decisão definitiva dos respectivos processos, dos agentes artísticos que tenham sido pronunciados por quaisquer crimes, desde que a pronúncia respeite a factos que indiciem falta da idoneidade exigida.
 
 § 1.º O disposto neste artigo é extensivo às sociedadades cujos administradores ou gerentes tenham sido pronunciados.
 
@@ -196,15 +233,15 @@ III
 
 Dos contratos
 
-###### Art. 18.º Os contratos entre empresas ou entidades que realizem espectáculos ou divertimentos públicos e os profissionais de espectáculos e estagiários serão obrigatòriamente reduzidos a escrito e submetidos à homologação do Instituto Nacional do Trabalho e Previdência.
+Art. 18.º Os contratos entre empresas ou entidades que realizem espectáculos ou divertimentos públicos e os profissionais de espectáculos e estagiários serão obrigatòriamente reduzidos a escrito e submetidos à homologação do Instituto Nacional do Trabalho e Previdência.
 
 § 1.º Para efeitos de autorização da sua exibição no País, os contratos com artistas que se encontrem no estrangeiro poderão ser substituídos pelas respectivas minutas, devendo os originais, legalizados, nos termos do artigo 21.º, ser submetidos ao visto, de conformidade do Instituto Nacional do Trabalho e Previdência, no prazo de três dias, a contar da data do início do contrato, sob pena de se ter por não autorizada a sua actuação.
 
 § 2.º Não ficam abrangidos pelo disposto neste artigo os contratos em que sejam parte os organismos do Estado, as autarquias locais, os organismos corporativos, a Fundação Nacional para a Alegria no Trabalho, os centros de alegria no trabalho e os centros de recreio popular.
 
-###### Art. 19.º O disposto no artigo anterior é aplicável aos contratos celebrados entre empresas produtoras de filmes e profissionais de espectáculos.
+Art. 19.º O disposto no artigo anterior é aplicável aos contratos celebrados entre empresas produtoras de filmes e profissionais de espectáculos.
 
-###### Art. 20.º Dos contratos deverão constar as obrigações assumidas por ambas as partes; nomeadamente o ordenado, a forma do seu pagamento, a data do início da execução do contrato e a do seu termo e as condições das viagens a realizar, quando for caso disso, não podendo os profissionais comprometer-se a actuar gratuitamente, excepto em espectáculos ou divertimentos de beneficência comprovados como tais e sem prejuízo, quanto aos espectáculos tauromáquicos, do disposto no respectivo regulamento.
+Art. 20.º Dos contratos deverão constar as obrigações assumidas por ambas as partes; nomeadamente o ordenado, a forma do seu pagamento, a data do início da execução do contrato e a do seu termo e as condições das viagens a realizar, quando for caso disso, não podendo os profissionais comprometer-se a actuar gratuitamente, excepto em espectáculos ou divertimentos de beneficência comprovados como tais e sem prejuízo, quanto aos espectáculos tauromáquicos, do disposto no respectivo regulamento.
 
 § 1.º Tratando-se de espectáculos tauromáquicos, os contratos serão acompanhados do programa da corrida.
 
@@ -212,11 +249,11 @@ Dos contratos
 
 § 3.º O Instituto Nacional do Trabalho e Previdência poderá fixar um modelo de contrato a adoptar, se assim o reconhecer vantajoso.
 
-###### Art. 21.º Os contratos, redigidos de harmonia com o disposto no artigo anterior, serão entregues em sextuplicado no Instituto Nacional do Trabalho e Previdência, depois de assinados pelos interessados ou pelos seus representantes legais, devendo um dos exemplares ser selado e ter as assinaturas reconhecidas por notário.
+Art. 21.º Os contratos, redigidos de harmonia com o disposto no artigo anterior, serão entregues em sextuplicado no Instituto Nacional do Trabalho e Previdência, depois de assinados pelos interessados ou pelos seus representantes legais, devendo um dos exemplares ser selado e ter as assinaturas reconhecidas por notário.
 
 § único. Os menores de 18 anos não podem intervir directamente nos contratos em que sejam parte.
 
-###### Art. 22.º Homologado o contrato, ficará arquivado no Instituto Nacional do Trabalho e Previdência o exemplar selado, devendo os restantes ser distribuídos pela seguinte forma:
+Art. 22.º Homologado o contrato, ficará arquivado no Instituto Nacional do Trabalho e Previdência o exemplar selado, devendo os restantes ser distribuídos pela seguinte forma:
 
 1) Dois para a empresa, sendo um para ficar em seu poder e destinando-se o outro a ser apresentado na Inspecção dos Espectáculos ou suas delegações, quando for requerido o visto para o espectáculo;
 
@@ -226,7 +263,7 @@ Dos contratos
 
 4) Um para a Caixa de Previdência dos Profissionais de Espectáculos, para conhecimento dos elementos de interesse para a fiscalização da cobrança das contribuições devidas.
 
-###### Art. 23.º O Instituto Nacional do Trabalho e Previdência não pode aprovar contratos em que sejam partes:
+Art. 23.º O Instituto Nacional do Trabalho e Previdência não pode aprovar contratos em que sejam partes:
 
 1) Empresas ou outras entidades que não estejam devidamente registadas na Inspecção dos Espectáculos ou não se encontrem, por outra forma, habilitadas a realizar o espectáculo ou divertimento;
 
@@ -240,7 +277,7 @@ Dos contratos
 
 6) Menores de 18 anos que não estejam devidamente autorizados a trabalhar.
 
-###### Art. 24.º Só podem ser aprovados os contratos para realização de excursões artísticas às ilhas adjacentes, províncias ultramarinas e países estrangeiros desde que:
+Art. 24.º Só podem ser aprovados os contratos para realização de excursões artísticas às ilhas adjacentes, províncias ultramarinas e países estrangeiros desde que:
 
 1) Além dos ordenados esteja ajustada a importância da subvenção diária para hospedagem dos profissionais, quando esta não deva correr por conta do empresário;
 
@@ -250,43 +287,43 @@ Dos contratos
 
 § 2.º A exigência a que se refere o n.º 2) pode ser dispensada pelo Instituto Nacional do Trabalho e Previdência em relação às empresas que apresentem garantias de idoneidade que justifiquem a isenção.
 
-###### Art. 25.º O disposto no n.º 1) e § 1.º do artigo anterior aplica-se igualmente às excursões artísticas realizadas no continente.
+Art. 25.º O disposto no n.º 1) e § 1.º do artigo anterior aplica-se igualmente às excursões artísticas realizadas no continente.
 
-###### Art. 26.º Os profissionais de espectáculos não podem ser obrigados a actuar, por força do contrato, fora do local normal de trabalho para efeitos de radiodifusão sonora ou visual.
+Art. 26.º Os profissionais de espectáculos não podem ser obrigados a actuar, por força do contrato, fora do local normal de trabalho para efeitos de radiodifusão sonora ou visual.
 
 § único. A actuação para os fins indicados neste artigo será sempre objecto de acordo separado.
 
-###### Art. 27.º Os profissionais de espectáculos só podem realizar contratos com duas ou mais empresas, quando devam ser cumpridos simultâneamente, desde que, de forma expressa, assim se permita nos diversos contratos e daí não resulte prejuízo na actuação a que cada um os obrigue.
+Art. 27.º Os profissionais de espectáculos só podem realizar contratos com duas ou mais empresas, quando devam ser cumpridos simultâneamente, desde que, de forma expressa, assim se permita nos diversos contratos e daí não resulte prejuízo na actuação a que cada um os obrigue.
 
 § único. Verificada a impossibilidade de cumprir simultânea e inteiramente todos os contratos, prevalecem os mais antigos.
 
-###### Art. 28.º Os contratos para exploração de espectáculos do género dramático, musicado ou de revista não poderão ser celebrados por tempo inferior a 30 dias.
+Art. 28.º Os contratos para exploração de espectáculos do género dramático, musicado ou de revista não poderão ser celebrados por tempo inferior a 30 dias.
 
 § único. O disposto neste artigo não é aplicável aos contratos para substituição de profissionais durante o seu impedimento.
 
-###### Art. 29.º Salvo disposição expressa em contrário, presume-se que os contratos por 30 dias, quando prorrogados, o foram por igual período.
+Art. 29.º Salvo disposição expressa em contrário, presume-se que os contratos por 30 dias, quando prorrogados, o foram por igual período.
 
 § 1.º Na falta da disposição a que se refere este artigo, e não havendo justa causa, os profissionais contratados não podem ser despedidos nem despedir-se, passados os primeiros 30 dias de vigência do contrato, sem aviso prévio, por escrito, ao outro contratante, feito com a antecedência mínima de 30 dias também, se outro prazo maior não for devido, nos termos da lei geral.
 
 § 2.º O despedimento em contravenção ao disposto neste artigo dá aos profissionais o direito ao vencimento do período contratual em curso e a uma indemnização correspondente ao prazo do aviso prévio e sujeita-os, quando a falta for sua, ao pagamento à empresa de iguais importâncias, não podendo trabalhar para outra empresa enquanto o não tiverem feito.
 
-###### Art. 30.º Os profissionais cujos contratos sejam ao dia, mas automàticamente renováveis por período indeterminado, deverão ser prevenidos pela empresa, em caso de despedimento, com a antecedência mínima de 5 dias, se o seu trabalho tiver durado, pelo menos, 60 dias, ou de 30 dias, se a sua duração exceder 1 ano, devendo prevenir a empresa, com a mesma antecedência, quando pretenderem despedir-se.
+Art. 30.º Os profissionais cujos contratos sejam ao dia, mas automàticamente renováveis por período indeterminado, deverão ser prevenidos pela empresa, em caso de despedimento, com a antecedência mínima de 5 dias, se o seu trabalho tiver durado, pelo menos, 60 dias, ou de 30 dias, se a sua duração exceder 1 ano, devendo prevenir a empresa, com a mesma antecedência, quando pretenderem despedir-se.
 
 § 1.º Quando o trabalho dos profissionais tiver durado mais de três anos, cumprir-se-ão os prazos fixados na lei geral.
 
 § 2.º O despedimento sem justa causa e em contravenção ao disposto neste artigo dá aos profissionais o direito a indemnização correspondente ao prazo do aviso prévio e sujeita-os, quando a falta for sua, ao pagamento à empresa de iguais importâncias, não podendo actuar para outra empresa enquanto o não tiverem feito.
 
-###### Art. 31.º Os contratos por tempo superior a 30 dias só se renovam automàticamente quando as partes assim o estipularem de forma expressa, aplicando-se-lhes nesse caso o disposto nos parágrafos do artigo 29.º
+Art. 31.º Os contratos por tempo superior a 30 dias só se renovam automàticamente quando as partes assim o estipularem de forma expressa, aplicando-se-lhes nesse caso o disposto nos parágrafos do artigo 29.º
 
-###### Art. 32.º A rescisão dos contratos por acordo só poderá provar-se por documento escrito e assinado por ambas as partes, com as assinaturas reconhecidas por notário.
+Art. 32.º A rescisão dos contratos por acordo só poderá provar-se por documento escrito e assinado por ambas as partes, com as assinaturas reconhecidas por notário.
 
 § único. Quando os contratos ao mês ou por tempo superior forem rescindidos por mútuo acordo antes de findos os primeiros 30 dias, o reconhecimento será sempre presencial, sem o que o documento não terá validade.
 
-###### Art. 33.º A actuação de qualquer profissional no impedimento de outro presume-se, na falta de novo contrato, que é feita nos termos que vigorem em relação ao substituído.
+Art. 33.º A actuação de qualquer profissional no impedimento de outro presume-se, na falta de novo contrato, que é feita nos termos que vigorem em relação ao substituído.
 
 § único. O contrato será sempre exigível se a substituição se prolongar para além de quinze dias.
 
-###### Art. 34.º O visto da Inspecção dos Espectáculos ou suas delegações, para a realização de espectáculos ou divertimentos em que intervenham profissionais de espectáculos, estagiários ou amadores depende da apresentação de documento comprovativo da homologação dos contratos respectivos ou da autorização para actuar, quando devida, conforme os casos.
+Art. 34.º O visto da Inspecção dos Espectáculos ou suas delegações, para a realização de espectáculos ou divertimentos em que intervenham profissionais de espectáculos, estagiários ou amadores depende da apresentação de documento comprovativo da homologação dos contratos respectivos ou da autorização para actuar, quando devida, conforme os casos.
 
 IV
 
@@ -294,27 +331,27 @@ Das garantias das obrigações contratuais
 
 A) Por parte das empresas
 
-###### Art. 35.º As empresas teatrais, de variedades e circo e quaisquer outras registadas na Inspecção dos Espectáculos para a exploração de espectáculos ou divertimentos públicos que utilizem com carácter regular o trabalho de profissionais de espectáculos ou de estagiários devem, para garantia das suas obrigações contratuais e do pagamento das importâncias devidas à Caixa de Previdência dos Profissionais de Espectáculos, prestar caução de montante igual aos encargos médios prováveis, com os respectivos ordenados durante 45 dias de exploração normal e à contribuição para o referido organismo durante o mesmo período.
+Art. 35.º As empresas teatrais, de variedades e circo e quaisquer outras registadas na Inspecção dos Espectáculos para a exploração de espectáculos ou divertimentos públicos que utilizem com carácter regular o trabalho de profissionais de espectáculos ou de estagiários devem, para garantia das suas obrigações contratuais e do pagamento das importâncias devidas à Caixa de Previdência dos Profissionais de Espectáculos, prestar caução de montante igual aos encargos médios prováveis, com os respectivos ordenados durante 45 dias de exploração normal e à contribuição para o referido organismo durante o mesmo período.
 
 § 1.º As empresas tauromáquicas apenas prestarão caução em relação a cada espectáculo que realizem.
 
 § 2.º As sociedades artísticas ficam também sujeitas à prestação de caução na parte relativa aos profissionais contratados.
 
-###### Art. 36.º A caução é igualmente devida pelas empresas produtoras de filmes.
+Art. 36.º A caução é igualmente devida pelas empresas produtoras de filmes.
 
-###### Art. 37.º A fixação da caução será solicitada em requerimento entregue no Instituto Nacional do Trabalho e Previdência, indicando e justificando os prováveis encargos mensais com os profissionais e respectiva caixa.
+Art. 37.º A fixação da caução será solicitada em requerimento entregue no Instituto Nacional do Trabalho e Previdência, indicando e justificando os prováveis encargos mensais com os profissionais e respectiva caixa.
 
 § 1.º As empresas que à data da publicação deste diploma se encontrem no exercício da sua actividade indicarão os encargos que efectivamente tiveram nos últimos seis meses.
 
 § 2.º O Instituto Nacional do Trabalho e Previdência poderá solicitar as informações complementares que houver por convenientes para fixação da caução.
 
-###### Art. 38.º Determinado o montante da caução, será a empresa notificada para, no prazo de dez dias, a contar da recepção da notificação, efectuar a sua prestação.
+Art. 38.º Determinado o montante da caução, será a empresa notificada para, no prazo de dez dias, a contar da recepção da notificação, efectuar a sua prestação.
 
 § 1.º O despacho que fixar a caução será fundamentado.
 
 § 2.º Se a caução não for prestada no prazo acima referido, o processo será arquivado e a prestação da caução ficará dependente da apresentação de novo requerimento.
 
-###### Art. 39.º A caução será prestada por meio de depósito em dinheiro ou de títulos do Estado, seguro ou garantia bancária.
+Art. 39.º A caução será prestada por meio de depósito em dinheiro ou de títulos do Estado, seguro ou garantia bancária.
 
 § 1.º Os depósitos serão feitos na Caixa Geral de Depósitos, Crédito e Previdência, à ordem do Instituto Nacional do Trabalho e Previdência, e o seguro ou garantia bancária prestados a favor do mesmo Instituto.
 
@@ -324,7 +361,7 @@ A) Por parte das empresas
 
 § 4.º O montante da caução poderá ser aumentado ou diminuído de harmonia com a variação dos elementos de que depende a sua fixação.
 
-###### Art. 40.º Se o requerente não se conformar com o montante fixado para a caução, poderá reclamar para o Instituto Nacional do Trabalho e Previdência, no prazo de dez dias, e, se a reclamação for desatendida pelos serviços ou sobre ela não houver decisão no prazo de quinze dias, interpor recurso hierárquico, nos dez dias seguintes, para o Ministro das Corporações e Previdência Social, que resolverá em definitivo.
+Art. 40.º Se o requerente não se conformar com o montante fixado para a caução, poderá reclamar para o Instituto Nacional do Trabalho e Previdência, no prazo de dez dias, e, se a reclamação for desatendida pelos serviços ou sobre ela não houver decisão no prazo de quinze dias, interpor recurso hierárquico, nos dez dias seguintes, para o Ministro das Corporações e Previdência Social, que resolverá em definitivo.
 
 § 1.º A reclamação será acompanhada de depósito de 100$00 a 500$00, segundo tabela a estabelecer pelo Ministro das Corporações e Previdência Social em função do montante da caução, o qual ficará perdido a favor da Caixa de Previdência dos Profissionais de Espectáculos se for desatendida e não houver subsequente recurso hierárquico ou se, interposto este, não obtiver provimento.
 
@@ -332,35 +369,35 @@ A) Por parte das empresas
 
 § 3.º A reclamação e o recurso não impedirão o início ou continuação da actividade da empresa, desde que seja prestada, a título provisório, a caução arbitrada pelo Instituto Nacional do Trabalho e Previdência.
 
-###### Art. 41.º Para realização das excursões a que se refere o artigo 24.º, a caução a prestar pelas empresas deverá cobrir, além dos encargos a que se refere o n.º 1) do mesmo artigo, computados em relação a todo o pessoal, o custo da viagem de regresso do mesmo pessoal ao ponto de partida.
+Art. 41.º Para realização das excursões a que se refere o artigo 24.º, a caução a prestar pelas empresas deverá cobrir, além dos encargos a que se refere o n.º 1) do mesmo artigo, computados em relação a todo o pessoal, o custo da viagem de regresso do mesmo pessoal ao ponto de partida.
 
 § 1.º Poderá ser dispensada a caução em relação à viagem de regresso desde que a empresa apresente no Instituto Nacional do Trabalho e Previdência documento bastante, passado pela empresa transportadora, garantindo o retorno de qualquer ponto do percurso, com expressa menção do mais afastado.
 
 § 2.º Do documento a que se refere o parágrafo anterior devem constar os nomes de todas as pessoas por cujo regresso a empresa transportadora se responsabilize e a indicação da classe em que a viagem é assegurada.
 
-###### Art. 42.º Quando a excursão for realizada por sociedades artísticas, a caução será fixada em relação às despesas de hospedagem e viagem de regresso dos associados e, nos termos do artigo anterior, relativamente aos contratados.
+Art. 42.º Quando a excursão for realizada por sociedades artísticas, a caução será fixada em relação às despesas de hospedagem e viagem de regresso dos associados e, nos termos do artigo anterior, relativamente aos contratados.
 
 § único. Quanto às despesas da viagem de regresso dos associados, será também aplicável o disposto nos parágrafos do artigo anterior.
 
-###### Art. 43.º Nos casos referidos nos artigos 41.º e 42.º cessa a responsabilidade da empresa pela viagem de regresso quando os artistas e demais pessoal não se apresentem na ocasião marcada para o embarque, excepto provando-se impossibilidade por doença ou qualquer outro motivo de força maior.
+Art. 43.º Nos casos referidos nos artigos 41.º e 42.º cessa a responsabilidade da empresa pela viagem de regresso quando os artistas e demais pessoal não se apresentem na ocasião marcada para o embarque, excepto provando-se impossibilidade por doença ou qualquer outro motivo de força maior.
 
 § 1.º No caso previsto no corpo deste artigo, a viagem de regresso efectuar-se-á dentro de quinze dias a partir da data em que os interessados forem considerados aptos.
 
 § 2.º Sendo invocado o motivo de doença que impossibilite o embarque, a empresa tem o direito de fazer examinar o doente por médico por ela designado.
 
-###### Art. 44.º As cauções só poderão ser levantadas passados seis meses do termo do período de garantia, a menos que a empresa faça prova de ter satisfeito todos os encargos por essa forma garantidos.
+Art. 44.º As cauções só poderão ser levantadas passados seis meses do termo do período de garantia, a menos que a empresa faça prova de ter satisfeito todos os encargos por essa forma garantidos.
 
 § único. Tratando-se de empresas tauromáquicas, o prazo a que este artigo se refere será reduzido para oito dias.
 
 B) Por parte dos profissionais
 
-###### Art. 45.º As empresas têm o direito de exigir aos seus contratados prestação de fiança idónea como garantia do cumprimento dos contratos celebrados para a realização de excursões artísticas às ilhas adjacentes, províncias ultramarinas ou países estrangeiros.
+Art. 45.º As empresas têm o direito de exigir aos seus contratados prestação de fiança idónea como garantia do cumprimento dos contratos celebrados para a realização de excursões artísticas às ilhas adjacentes, províncias ultramarinas ou países estrangeiros.
 
 V
 
 Disposições diversas e transitórias
 
-###### Art. 46.º Os ensaios e quaisquer outros trabalhos de preparação só poderão realizar-se dentro do prazo de vigência dos contratos e a remuneração fixada será a mesma tanto para o período só de ensaios como para o de ensaios e espectáculos ou só de espectáculos, incorrendo as empresas infractoras na multa de 400$00 a 2000$00 por cada profissional em relação ao qual se verifique a infracção.
+Art. 46.º Os ensaios e quaisquer outros trabalhos de preparação só poderão realizar-se dentro do prazo de vigência dos contratos e a remuneração fixada será a mesma tanto para o período só de ensaios como para o de ensaios e espectáculos ou só de espectáculos, incorrendo as empresas infractoras na multa de 400$00 a 2000$00 por cada profissional em relação ao qual se verifique a infracção.
 
 § 1.º Poderão realizar-se fora da vigência do contrato os trabalhos de preparação efectuados até ao ensaio geral pelos estagiários e pelas coristas que iniciem a respectiva actividade.
 
@@ -368,19 +405,19 @@ Disposições diversas e transitórias
 
 § 3.º As falsas declarações serão punidas nos termos do artigo 242.º do Código Penal.
 
-###### Art. 47.º As empresas que contratem profissionais de espectáculos estrangeiros ficam responsáveis pelas despesas de repatriação dos mesmos terminado o período de permanência em Portugal.
+Art. 47.º As empresas que contratem profissionais de espectáculos estrangeiros ficam responsáveis pelas despesas de repatriação dos mesmos terminado o período de permanência em Portugal.
 
 § 1.º Quando, durante a sua estada no País, o profissional tiver trabalhado para várias empresas, ficam todas solidàriamente responsáveis pelas despesas de repatriação.
 
 § 2.º A responsabilidade a que este artigo se refere transfere-se para os agentes artísticos quando o contrato for feito por seu intermédio e por estes igualmente assinado.
 
-###### Art. 48.º As faltas dadas pelos profissionais de espectáculos considerar-se-ão justificadas:
+Art. 48.º As faltas dadas pelos profissionais de espectáculos considerar-se-ão justificadas:
 
 1) Quando motivadas por doença, tendo neste caso a entidade contratante o direito de fazer examinar o doente por médico por ela designado;
 
 2) No dia do falecimento do cônjuge ou de parente por consanguinidade até ao segundo grau.
 
-###### Art. 49.º Aos profissionais de espectáculos que, sem justa causa, se eximirem repetidamente aos compromissos assumidos, por forma a causarem graves prejuízos às empresas e aos demais profissionais ou a revelarem falta de compreensão dos seus deveres, será aplicada a pena de suspensão do exercício da profissão até dois anos.
+Art. 49.º Aos profissionais de espectáculos que, sem justa causa, se eximirem repetidamente aos compromissos assumidos, por forma a causarem graves prejuízos às empresas e aos demais profissionais ou a revelarem falta de compreensão dos seus deveres, será aplicada a pena de suspensão do exercício da profissão até dois anos.
 
 § 1.º A pena será aplicada pela comissão corporativa ou pelo conselho a que se refere o artigo 13.º do [Decreto-Lei n.º 43181](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43181-1960-514840), desta data, depois de ouvido o interessado.
 
@@ -390,18 +427,18 @@ Disposições diversas e transitórias
 
 § 4.º A preparação dos processos compete ao Instituto Nacional do Trabalho e Previdência.
 
-###### Art. 50.º Da decisão da comissão ou do conselho cabe recurso para a Junta Disciplinar da Corporação dos Espectáculos.
+Art. 50.º Da decisão da comissão ou do conselho cabe recurso para a Junta Disciplinar da Corporação dos Espectáculos.
 
-###### Art. 51.º Não carecem de registo, para os efeitos do disposto no n.º 2) do artigo 1.º, os profissionais inscritos na Inspecção dos Espectáculos à data da entrada em vigor deste diploma.
+Art. 51.º Não carecem de registo, para os efeitos do disposto no n.º 2) do artigo 1.º, os profissionais inscritos na Inspecção dos Espectáculos à data da entrada em vigor deste diploma.
 
-###### Art. 52.º Os arquivos da Inspecção dos Espectáculos relativos às matérias abrangidas por este diploma serão transferidos para a Direcção-Geral do Trabalho e Corporações, na parte que tenha interesse actual.
+Art. 52.º Os arquivos da Inspecção dos Espectáculos relativos às matérias abrangidas por este diploma serão transferidos para a Direcção-Geral do Trabalho e Corporações, na parte que tenha interesse actual.
 
-###### Art. 53.º Os agentes artísticos inscritos na Inspecção dos Espectáculos à data da entrada em vigor do presente diploma deverão requerer a respectiva licença ao Instituto Nacional do Trabalho e Previdência no prazo de vinte dias.
+Art. 53.º Os agentes artísticos inscritos na Inspecção dos Espectáculos à data da entrada em vigor do presente diploma deverão requerer a respectiva licença ao Instituto Nacional do Trabalho e Previdência no prazo de vinte dias.
 
-###### Art. 54.º Os casos não previstos no presente diploma e as dúvidas que surgirem na sua aplicação serão resolvidos por despacho do Ministro das Corporações e Previdência Social.
+Art. 54.º Os casos não previstos no presente diploma e as dúvidas que surgirem na sua aplicação serão resolvidos por despacho do Ministro das Corporações e Previdência Social.
 
-###### Art. 55.º Este decreto entra em vigor simultâneamente com o [Decreto-Lei n.º 43181](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43181-1960-514840), desta data.
+Art. 55.º Este decreto entra em vigor simultâneamente com o [Decreto-Lei n.º 43181](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43181-1960-514840), desta data.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Setembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Henrique Veiga de Macedo.

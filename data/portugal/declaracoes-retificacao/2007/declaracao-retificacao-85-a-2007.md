@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 188/2007, 1º Suplemento, Série I de 2007-09-28
   number: '188'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6998-(4) a 6998-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/09/18801/0000400004.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/85-a/2007/09/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/85-a-2007-398497
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:09:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a849af48a5f981f5aa06a3e3896fd36c2cc1652dc4d453dffeb3df58d8c0de4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1cb7d3fd0f9ee4994d0a81265f11c8743cbed2117b472f93f740542acd85a597
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:09:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Inspecção Geral das Actividades Culturais
 - Definição de Competências
+- Inspecção Geral das Actividades Culturais
 - Orgânica
-relationships: []
+relationships:
+- type: corrects
+  target: pt:numero:portaria:822/2007
+  label: "Rectifica a Portaria n.º 822/2007, de 31 de Julho, DR.IS [146] \0\0"
+  source: null
+  date: '2007-07-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:09:11Z'
   warnings: []
   errors: []
 ---

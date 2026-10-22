@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43957-1961-183599
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-04-20T00:00:00Z'
+  retrieved_at: '2026-10-22T19:26:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af2d993483057e41a29707329351d27fa0eb1fba1b28853f4d18820e0df10754
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc6e302773373b166bbe27cf955bd0e3ad937281e6347febad95f6153edc4bc1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:26:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Superior de Estudos Ultramarinos
+- Pessoal Docente
+- Plano de Estudos
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:324301:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:159935:por
+  label: "Alterados os quadros do pessoal administrativo e menor do Instituto Superior de Estudos Ultramarinos, referidos\
+    \ no art. 78º, pelo DEC LEI.44582.19.09.1962.MU, DG.IS [216] de 19.09.1962\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44582-1962-159935
+  date: '1962-09-19'
+- type: amended_by
+  target: pt:dre:324301:por
+  label: "Alterado o quadro de professores pela PORT.222/85.20.04.1985.PCM, DR.IS [92] de 20.04.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/222-1985-324301
+  date: '1985-04-20'
+- type: cites
+  target: pt:dre:173148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:368623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669494:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:26:02Z'
   warnings: []
   errors: []
 ---
@@ -107,25 +142,25 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição 
 
 ### CAPÍTULO I — Natureza e fins do Instituto Superior de Estudos Ultramarinos
 
-###### Artigo 1.º O Instituto Superior de Estudos Ultramarinos é um estabelecimento de ensino superior, integrado na Universidade Técnica de Lisboa, que tem por fins:
+Artigo 1.º O Instituto Superior de Estudos Ultramarinos é um estabelecimento de ensino superior, integrado na Universidade Técnica de Lisboa, que tem por fins:
 
 1.º Ministrar o ensino superior das ciências ultramarinas, preparando o pessoal para os quadros da administração ultramarina que não exijam outra qualificação especial;
 
 2.º Cultivar a investigação dos problemas científicos ligados a valorização dos territórios ultramarinos, ao seu povoamento e ao estudo das populações ultramarinas e suas línguas.
 
-###### Art. 2.º O Instituto Superior de Estudos Ultramarinos é pessoa moral, gozando de capacidade jurídica para adquirir, a título gratuito ou oneroso, quaisquer bens e para os administrar, bem como para dispor de todas as receitas que auferir para a realização dos seus fins.
+Art. 2.º O Instituto Superior de Estudos Ultramarinos é pessoa moral, gozando de capacidade jurídica para adquirir, a título gratuito ou oneroso, quaisquer bens e para os administrar, bem como para dispor de todas as receitas que auferir para a realização dos seus fins.
 
-###### Art. 3.º Ficam a cargo da metrópole os vencimentos dos professores e do pessoal da secretaria do Instituto e bem assim as verbas consignadas para despesa de ensino, de propaganda e publicidade. Ficam a cargo dos orçamentos das províncias ultramarinas os vencimentos das pessoas convidadas para reger disciplinas do curso de aperfeiçoamento profissional.
+Art. 3.º Ficam a cargo da metrópole os vencimentos dos professores e do pessoal da secretaria do Instituto e bem assim as verbas consignadas para despesa de ensino, de propaganda e publicidade. Ficam a cargo dos orçamentos das províncias ultramarinas os vencimentos das pessoas convidadas para reger disciplinas do curso de aperfeiçoamento profissional.
 
-###### Art. 4.º O Instituto Superior de Estudos Ultramarinos manterá estreito contacto com os outros organismos dependentes do Ministério do Ultramar destinados a investigação científica ou ao ensino, nomeadamente com a Junta de Investigações do Ultramar e com o Instituto de Medicina Tropical, permutando conhecimentos e conferências públicas e colaborando nas iniciativas de interesse nacional.
+Art. 4.º O Instituto Superior de Estudos Ultramarinos manterá estreito contacto com os outros organismos dependentes do Ministério do Ultramar destinados a investigação científica ou ao ensino, nomeadamente com a Junta de Investigações do Ultramar e com o Instituto de Medicina Tropical, permutando conhecimentos e conferências públicas e colaborando nas iniciativas de interesse nacional.
 
-###### Art. 5.º O Instituto corresponde-se directamente com a Direcção-Geral do Ensino Superior e das Belas-Artes, a qual cabem, em relação a ele, as atribuições que lhe competem quanto às restantes escolas da Universidade Técnica.
+Art. 5.º O Instituto corresponde-se directamente com a Direcção-Geral do Ensino Superior e das Belas-Artes, a qual cabem, em relação a ele, as atribuições que lhe competem quanto às restantes escolas da Universidade Técnica.
 
 § único O director-geral submeterá a despacho do Ministro do Ultramar, do Ministro da Educação Nacional ou de ambos os assuntos que forem, respectivamente, da competência de cada um deles ou da competência conjunta de ambos.
 
 ### CAPÍTULO II — Dos cursos do Instituto Superior de Estudos Ultramarinos e da Investigação e Extensão Cultural
 
-###### Art. 6.º Os cursos professados no Instituto Superior de Estudos Ultramarinos são:
+Art. 6.º Os cursos professados no Instituto Superior de Estudos Ultramarinos são:
 
 1.º Curso de administração ultramarina, destinado à preparação de funcionários da administração ultramarina;
 
@@ -133,11 +168,11 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição 
 
 3.º Curso de aperfeiçoamento profissional.
 
-###### Art. 7.º Em conexão com os cursos, funcionarão no Instituto centros de estudo ou de investigação, destinados a permitir a cooperação de professores e estudantes e de investigadores estranhos ao Instituto na pesquisa aprofundada de matérias professadas nos cursos, ou com eles relacionadas, e ao ensino de disciplinas livres ou de extensão cultural.
+Art. 7.º Em conexão com os cursos, funcionarão no Instituto centros de estudo ou de investigação, destinados a permitir a cooperação de professores e estudantes e de investigadores estranhos ao Instituto na pesquisa aprofundada de matérias professadas nos cursos, ou com eles relacionadas, e ao ensino de disciplinas livres ou de extensão cultural.
 
 § único. A criação dos centros é da competência dos Ministros do Ultramar e da Educação Nacional, sob proposta do conselho escolar.
 
-###### Art. 8.º No curso de administração ultramarina serão professadas as seguintes disciplinas:
+Art. 8.º No curso de administração ultramarina serão professadas as seguintes disciplinas:
 
 Cadeiras anuais:
 
@@ -205,7 +240,7 @@ Cursos práticos anuais:
 
 § 4.º O Instituto procurará facilitar aos alunos do 3.º ano a obtenção da carta de condução de automóveis e a aprendizagem da natação.
 
-###### Art. 9.º O curso complementar de estudos ultramarinos compreenderá novas cadeiras anuais fixas, duas variáveis e duas semestrais.
+Art. 9.º O curso complementar de estudos ultramarinos compreenderá novas cadeiras anuais fixas, duas variáveis e duas semestrais.
 
 § 1.º As cadeiras anuais fixas são:
 
@@ -235,9 +270,9 @@ Cursos práticos anuais:
 
 2. Sociologia da Informação.
 
-###### Art. 10.º O ensino das cadeiras será distribuído por dois anos, segundo o quadro II anexo ao presente decreto, e terá carácter monográfico e analítico, ministrado apenas em aulas teóricas.
+Art. 10.º O ensino das cadeiras será distribuído por dois anos, segundo o quadro II anexo ao presente decreto, e terá carácter monográfico e analítico, ministrado apenas em aulas teóricas.
 
-###### Art. 11.º No curso complementar de estudos ultramarinos funcionarão três seminários, especialmente dedicados ao estudo de métodos de investigação científica, a saber:
+Art. 11.º No curso complementar de estudos ultramarinos funcionarão três seminários, especialmente dedicados ao estudo de métodos de investigação científica, a saber:
 
 a) Seminário de investigação histórico-política;
 
@@ -253,7 +288,7 @@ c) Seminário de investigação económica.
 
 § 4.º As aulas de seminário podem ser frequentadas por alunos do curso de administração ultramarina, como assistentes.
 
-###### Art. 12.º O Instituto organizará anualmente um curso, pelo menos, de extensão da cultura nele professada, o qual será constituído por uma série de lições dos seus professores e colaboradores, destinadas ao público e onde se dê notícia sucinta e clara do estado dos principais problemas políticos, científicos e técnicos, relacionados com a acção ultramarina em geral e com o progresso das províncias ultramarinas portuguesas em especial.
+Art. 12.º O Instituto organizará anualmente um curso, pelo menos, de extensão da cultura nele professada, o qual será constituído por uma série de lições dos seus professores e colaboradores, destinadas ao público e onde se dê notícia sucinta e clara do estado dos principais problemas políticos, científicos e técnicos, relacionados com a acção ultramarina em geral e com o progresso das províncias ultramarinas portuguesas em especial.
 
 § 1.º O local e a hora das lições serão fixados tendo em atenção a comodidade do público a que se destinam.
 
@@ -261,7 +296,7 @@ c) Seminário de investigação económica.
 
 § 3.º O conselho escolar poderá resolver que, algumas das lições sejam proferidas por alunos distintos do Instituto.
 
-###### Art. 13.º O curso de aperfeiçoamento profissional destina-se aos que, não preenchendo as condições legais para frequentar os cursos superiores professados no Instituto, exerçam a sua actividade no ultramar, ou se tenham dedicado ao estudo dos problemas ultramarinos.
+Art. 13.º O curso de aperfeiçoamento profissional destina-se aos que, não preenchendo as condições legais para frequentar os cursos superiores professados no Instituto, exerçam a sua actividade no ultramar, ou se tenham dedicado ao estudo dos problemas ultramarinos.
 
 § 1.º O curso terá a duração de dois anos, devendo o conselho escolar propor anualmente ao Ministro do Ultramar as cadeiras que nele devem ser professadas.
 
@@ -269,7 +304,7 @@ c) Seminário de investigação económica.
 
 ### CAPÍTULO III — Dos professores
 
-###### Art. 14.º Para efeitos de regência, as matérias professadas nos cursos do Instituto Superior de Estudos Ultramarinos distribuem-se pela forma seguinte:
+Art. 14.º Para efeitos de regência, as matérias professadas nos cursos do Instituto Superior de Estudos Ultramarinos distribuem-se pela forma seguinte:
 
 1.º grupo - Ciências Jurídicas e Políticas:
 
@@ -377,9 +412,9 @@ Linguística Geral.
 
 6. Educação Física e Desportos e Campismo.
 
-###### Art. 15.º Para efeitos de recrutamento de pessoal docente, por concurso, o conselho escolar pode propor a subdivisão dos grupos em subgrupos.
+Art. 15.º Para efeitos de recrutamento de pessoal docente, por concurso, o conselho escolar pode propor a subdivisão dos grupos em subgrupos.
 
-###### Art. 16.º Em regra, a cada duas cadeiras corresponde um professor catedrático. Nos grupos com mais de três cadeiras, haverá professores extraordinários, que substituirão os catedráticos nas suas faltas e impedimentos e poderão ser encarregados da regência das cadeiras que o conselho escolar entender, competindo-lhes, quando não lhes sejam atribuídas regências, ministrar o ensino prático. Por exigência de serviço ou de especialização, o conselho escolar pode encarregar um professor da regência da cadeira de grupo diferente daquele a que pertence.
+Art. 16.º Em regra, a cada duas cadeiras corresponde um professor catedrático. Nos grupos com mais de três cadeiras, haverá professores extraordinários, que substituirão os catedráticos nas suas faltas e impedimentos e poderão ser encarregados da regência das cadeiras que o conselho escolar entender, competindo-lhes, quando não lhes sejam atribuídas regências, ministrar o ensino prático. Por exigência de serviço ou de especialização, o conselho escolar pode encarregar um professor da regência da cadeira de grupo diferente daquele a que pertence.
 
 § 1.º Os professores de línguas, quando não forem leitores do Instituto de Línguas Africanas e Orientais, têm a categoria de professores extraordinários. O professor de Inglês poderá ser escolhido, de futuro, mediante concurso documental, por proposta do conselho escolar, de entre pessoas que tenham as habilitações exigidas para o ingresso no respectivo grupo do ensino liceal, sendo preferidos, em igualdade de condições, os professores dos liceus ultramarinos.
 
@@ -387,17 +422,17 @@ Linguística Geral.
 
 § 3.º Os restantes cursos práticos estarão a cargo de chefes de trabalhos práticos, escolhidos pelo conselho escolar.
 
-###### Art. 17.º Ao chefe de trabalhos práticos do curso de saúde pública incumbe prestar assistência médico-escolar aos alunos do curso de administração ultramarina, vigiando especialmente a sua actividade desportiva, em colaboração com o Centro de Medicina Desportiva da Mocidade Portuguesa.
+Art. 17.º Ao chefe de trabalhos práticos do curso de saúde pública incumbe prestar assistência médico-escolar aos alunos do curso de administração ultramarina, vigiando especialmente a sua actividade desportiva, em colaboração com o Centro de Medicina Desportiva da Mocidade Portuguesa.
 
-###### Art. 18.º Podem concorrer ao lugar de professor catedrático do grupo de Ciências Económicas e Povoamento as pessoas à data da publicação deste decreto tiveram mais de três anos de regência da antiga cadeira de Agricultura Tropical e Zootecnia
+Art. 18.º Podem concorrer ao lugar de professor catedrático do grupo de Ciências Económicas e Povoamento as pessoas à data da publicação deste decreto tiveram mais de três anos de regência da antiga cadeira de Agricultura Tropical e Zootecnia
 
-###### Art. 19.º A cadeira de Linguística Geral será regida pelo director do Instituto de Línguas Africanas e Orientais, que terá a categoria de professor catedrático e fará parte do corpo docente e conselho escolar do Instituto
+Art. 19.º A cadeira de Linguística Geral será regida pelo director do Instituto de Línguas Africanas e Orientais, que terá a categoria de professor catedrático e fará parte do corpo docente e conselho escolar do Instituto
 
 § único. O ensino das línguas africanas e orientais estará a cargo de leitores e estagiários do Instituto de Línguas Africanas e Orientais, fazendo os primeiros também parte do corpo docente do Instituto Superior de Estudos Ultramarinos.
 
-###### Art. 20.º Haverá primeiros-assistentes, encarregados da regência de aulas práticas e da eventual substituição dos professores catedráticos e extraordinários, nas faltas e impedimentos destes. Também poderá haver segundos-assistentes, contratados, além do quadro, com funções idênticas às dos primeiros-assistentes. Os assistentes serão contratados em função das necessidades do Instituto e das verbas disponíveis.
+Art. 20.º Haverá primeiros-assistentes, encarregados da regência de aulas práticas e da eventual substituição dos professores catedráticos e extraordinários, nas faltas e impedimentos destes. Também poderá haver segundos-assistentes, contratados, além do quadro, com funções idênticas às dos primeiros-assistentes. Os assistentes serão contratados em função das necessidades do Instituto e das verbas disponíveis.
 
-###### Art. 21.º O quadro docente privativo do Instituto Superior de Estudos Ultramarinos é constituído por 14 professores catedráticos, 7 professores extraordinários, 5 primeiros-assistentes e 2 chefes de trabalhos práticos, assim distribuídos:
+Art. 21.º O quadro docente privativo do Instituto Superior de Estudos Ultramarinos é constituído por 14 professores catedráticos, 7 professores extraordinários, 5 primeiros-assistentes e 2 chefes de trabalhos práticos, assim distribuídos:
 
 1.º grupo:
 
@@ -445,17 +480,17 @@ Cursos práticos anuais:
 
 3 chefes de trabalhos práticos (transitòriamente 2).
 
-###### Art. 22.º O recrutamento dos professores catedráticos e extraordinários poderá ser feito por concurso de provas públicas ou por convite.
+Art. 22.º O recrutamento dos professores catedráticos e extraordinários poderá ser feito por concurso de provas públicas ou por convite.
 
 § 1.º Os primeiros-assistentes serão recrutados por convite feito pelo conselho escolar.
 
 § 2.º Os chefes de trabalhos práticos serão sempre recrutados por convite feito pelo conselho escolar a diplomados com curso superior adequado.
 
-###### Art. 23.º O actual pessoal docente do Instituto Superior de Estudos Ultramarinos transita, sem mais formalidades, para os correspondentes quadros criados por este decreto, conforme portaria a publicar pelos Ministros do Ultramar e da Educação Nacional sujeita a simples anotação do Tribunal de Contas.
+Art. 23.º O actual pessoal docente do Instituto Superior de Estudos Ultramarinos transita, sem mais formalidades, para os correspondentes quadros criados por este decreto, conforme portaria a publicar pelos Ministros do Ultramar e da Educação Nacional sujeita a simples anotação do Tribunal de Contas.
 
-###### Art. 24.º As formalidades do concurso público serão estabelecidas em regulamento aprovado pelo Ministro da Educação Nacional, devendo compreender a apreciação e discussão do curriculum vitae do candidato, uma lição sorteada, uma dissertação, esta dispensável nos concursos para professor catedrático quanto aos concorrentes que sejam professores extraordinários nomeados precedendo concurso.
+Art. 24.º As formalidades do concurso público serão estabelecidas em regulamento aprovado pelo Ministro da Educação Nacional, devendo compreender a apreciação e discussão do curriculum vitae do candidato, uma lição sorteada, uma dissertação, esta dispensável nos concursos para professor catedrático quanto aos concorrentes que sejam professores extraordinários nomeados precedendo concurso.
 
-###### Art. 25.º Podem ser convidados pelo conselho escolar, precedendo deliberação aprovada por maioria de dois terços dos professores catedráticos em efectivo serviço, pessoas que sejam consideradas competentes para o desempenho das funções docentes do Instituto.
+Art. 25.º Podem ser convidados pelo conselho escolar, precedendo deliberação aprovada por maioria de dois terços dos professores catedráticos em efectivo serviço, pessoas que sejam consideradas competentes para o desempenho das funções docentes do Instituto.
 
 § 1.º O provimento das pessoas convidados pode ser feito por nomeação ou por contrato anual, renovável.
 
@@ -467,7 +502,7 @@ Cursos práticos anuais:
 
 5.º Ficam a cargo dos orçamentos das províncias ultramarinas os vencimentos e transportes dos estrangeiros que seja necessário contratar.
 
-###### Art. 26.º São normalmente exigidas para o provimento dos lugares de assistente do Instituto as habilitações seguintes:
+Art. 26.º São normalmente exigidas para o provimento dos lugares de assistente do Instituto as habilitações seguintes:
 
 1.º Para o 1.º grupo: licenciatura em Direito, com a classificação de Bom com distinção;
 
@@ -479,17 +514,17 @@ Cursos práticos anuais:
 
 5.º Para o 5.º grupo: licenciatura pelo Instituto Superior de Estudos Ultramarinos, com a classificação de Bom, com distinção; licenciatura em História, com a classificação de Bom com distinção; ou a licenciatura em História e o curso complementar de estudos ultramarinos, desde que neste último tenha a informação de Bom com distinção.
 
-###### Art. 27.º Aos concursos para professores extraordinários podem concorrer os doutores por escolas nacionais ou estrangeiras, qualificadas, que tenham a licenciatura correspondente ao grupo a que concorrem nos termos do artigo anterior, ou que tenham exercido funções docentes no grupo durante três anos. Em igualdade de condições, terão preferência os que já exerceram funções docentes no Instituto Superior de Estudos Ultramarinos. Aplica-se aos candidatos a professor extraordinário o disposto no artigo 24.º
+Art. 27.º Aos concursos para professores extraordinários podem concorrer os doutores por escolas nacionais ou estrangeiras, qualificadas, que tenham a licenciatura correspondente ao grupo a que concorrem nos termos do artigo anterior, ou que tenham exercido funções docentes no grupo durante três anos. Em igualdade de condições, terão preferência os que já exerceram funções docentes no Instituto Superior de Estudos Ultramarinos. Aplica-se aos candidatos a professor extraordinário o disposto no artigo 24.º
 
-###### Art. 28.º Aos concursos para professores catedráticos podem concorrer os professores extraordinários do Instituto e os doutores que tenham exercido funções docentes no Instituto por mais de seis anos.
+Art. 28.º Aos concursos para professores catedráticos podem concorrer os professores extraordinários do Instituto e os doutores que tenham exercido funções docentes no Instituto por mais de seis anos.
 
-###### Art. 29.º Sempre que fique deserto um concurso para professor catedrático, será aberto novo concurso por iniciativa do conselho escolar do Instituto, ou a requerimento de qualquer interessado, ao qual poderão concorrer os doutores por escolas nacionais ou estrangeiras qualificadas que reúnam as condições previstas no artigo 27.º
+Art. 29.º Sempre que fique deserto um concurso para professor catedrático, será aberto novo concurso por iniciativa do conselho escolar do Instituto, ou a requerimento de qualquer interessado, ao qual poderão concorrer os doutores por escolas nacionais ou estrangeiras qualificadas que reúnam as condições previstas no artigo 27.º
 
-###### Art. 30.º As funções docentes do Instituto Superior de Estudos Ultramarinos podem também ser desempenhadas em acumulação de regências por professores das Universidades portuguesas a convite do conselho escolar, nos termos do artigo 16.º do [Decreto-Lei n.º 31658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31658-1941-368623), de 21 de Novembro de 1941.
+Art. 30.º As funções docentes do Instituto Superior de Estudos Ultramarinos podem também ser desempenhadas em acumulação de regências por professores das Universidades portuguesas a convite do conselho escolar, nos termos do artigo 16.º do [Decreto-Lei n.º 31658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31658-1941-368623), de 21 de Novembro de 1941.
 
 § único. Poderão também ser contratadas, além do quadro, pelas disponibilidades das verbas destinadas ao pessoal docente ou por dotação especial, pessoas de reconhecido mérito, convidadas pelo conselho Escolar, para a regência de disciplinas dos cursos professados no Instituto.
 
-###### Art. 31.º O Instituto tem autonomia pedagógica e administrativa e é dirigido por um director, assistido pelo conselho escolar.
+Art. 31.º O Instituto tem autonomia pedagógica e administrativa e é dirigido por um director, assistido pelo conselho escolar.
 
 § 1.º O director é nomeado por portaria conjunta dos Ministros do Ultramar e da Educação Nacional, de entre professores catedráticos do Instituto.
 
@@ -497,19 +532,19 @@ Cursos práticos anuais:
 
 § 3.º Nas suas faltas e impedimentos, o director será substituído pelo professor catedrático mais antigo em efectivo serviço.
 
-###### Art. 32.º Sob proposta do director, um dos professores catedráticos será nomeado secretário do Instituto, competindo-lhe lavrar as actas do conselho escolar, superintender no serviço da secretaria e desempenhar as demais funções que lhe forem atribuídas.
+Art. 32.º Sob proposta do director, um dos professores catedráticos será nomeado secretário do Instituto, competindo-lhe lavrar as actas do conselho escolar, superintender no serviço da secretaria e desempenhar as demais funções que lhe forem atribuídas.
 
 § único. A mudança de director implica a exoneração do secretário do Instituto.
 
-###### Art. 33.º Sob proposta do conselho escolar, será nomeado um professor catedrático para a direcção da biblioteca do Instituto.
+Art. 33.º Sob proposta do conselho escolar, será nomeado um professor catedrático para a direcção da biblioteca do Instituto.
 
-###### Art. 34.º Os vencimentos do pessoal docente e as gratificações de regência serão os que estiverem estabelecidos na lei. Em nenhum caso poderão ser pagas à mesma pessoa mais de duas gratificações de regência.
+Art. 34.º Os vencimentos do pessoal docente e as gratificações de regência serão os que estiverem estabelecidos na lei. Em nenhum caso poderão ser pagas à mesma pessoa mais de duas gratificações de regência.
 
-###### Art. 35.º O director regerá as suas disciplinas percebendo, além do vencimento, uma gratificação de direcção igual à que estiver estabelecida para os directores dos outros institutos superiores ou Faculdades.
+Art. 35.º O director regerá as suas disciplinas percebendo, além do vencimento, uma gratificação de direcção igual à que estiver estabelecida para os directores dos outros institutos superiores ou Faculdades.
 
 § único. Os professores secretário e director da biblioteca vencerão a gratificação estabelecida por lei para iguais cargos nas Faculdades e institutos superiores.
 
-###### Art. 36.º Da regência das cadeiras variáveis do curso complementar de estudos ultramarinos podem ser encarregados, em cada ano, pelo conselho escolar, professores de outras escolas superiores, nacionais ou estrangeiras, funcionários superiores dos quadros ultramarinos, missionários ou personalidades de mérito revelado em estudos sobre matérias que possam ser objecto de regência.
+Art. 36.º Da regência das cadeiras variáveis do curso complementar de estudos ultramarinos podem ser encarregados, em cada ano, pelo conselho escolar, professores de outras escolas superiores, nacionais ou estrangeiras, funcionários superiores dos quadros ultramarinos, missionários ou personalidades de mérito revelado em estudos sobre matérias que possam ser objecto de regência.
 
 § 1.º Quando a regência da cadeira seja desempenhada por pessoal que exerça outras funções, remuneradas pelo Estado, corresponder-lhe-á gratificação de 12000$00 pelo exercício no ano escolar, paga por uma só vez no final do ano, ou em prestações, consoante for acordado pelo conselho escolar.
 
@@ -517,7 +552,7 @@ Cursos práticos anuais:
 
 § 3.º Nos restantes casos a remuneração será fixada pelo Ministro do Ultramar, sob proposta do conselho escolar.
 
-###### Art. 37.º Aos professores catedráticos e extraordinários que publiquem livros sobre matérias dos grupos a que pertençam e cujo valor científico seja reconhecido pelo conselho escolar, por deliberação superiormente homologada, será atribuído o subsídio literário de 6000$00 em cada um dos três anos seguintes à publicação.
+Art. 37.º Aos professores catedráticos e extraordinários que publiquem livros sobre matérias dos grupos a que pertençam e cujo valor científico seja reconhecido pelo conselho escolar, por deliberação superiormente homologada, será atribuído o subsídio literário de 6000$00 em cada um dos três anos seguintes à publicação.
 
 § 1.º Cada professor não poderá receber mais de um subsídio literário por triénio.
 
@@ -527,7 +562,7 @@ Cursos práticos anuais:
 
 #### SECÇÃO I — Do curso de administração ultramarina
 
-###### Art. 38.º No Instituto Superior de Estudos Ultramarinos são admitidos alunos ordinários e voluntários. Os primeiros frequentam as aulas teóricas e práticas, em regime de obrigatoriedade; os segundos são dispensados de tal frequência.
+Art. 38.º No Instituto Superior de Estudos Ultramarinos são admitidos alunos ordinários e voluntários. Os primeiros frequentam as aulas teóricas e práticas, em regime de obrigatoriedade; os segundos são dispensados de tal frequência.
 
 § 1.º O conselho escolar fixará o número de aulas de cada disciplina por ano escolar.
 
@@ -535,7 +570,7 @@ Cursos práticos anuais:
 
 § 3.º A secretaria afixará mensalmente as faltas dadas por cada aluno nas diversas disciplinas.
 
-###### Art. 39.º Só podem matricular-se como alunos do curso de administração ultramarina os cidadãos portugueses que reúnam as seguintes condições:
+Art. 39.º Só podem matricular-se como alunos do curso de administração ultramarina os cidadãos portugueses que reúnam as seguintes condições:
 
 1.º Ter bom comportamento moral e civil, comprovado pela apresentação do certificado do registo criminal e policial;
 
@@ -543,23 +578,23 @@ Cursos práticos anuais:
 
 § único. Os boletins para a primeira matrícula serão instruídos com os documentos referidos no artigo 59.º do [Decreto n.º 39001](https://diariodarepublica.pt/dr/detalhe/decreto/39001-1952-669494), de 20 de Novembro de 1952.
 
-###### Art. 40.º Ao exame de aptidão a que se refere o artigo anterior serão admitidos os candidatos que possuam o curso complementar dos liceus ou o curso de habilitação dos institutos de ensino técnico médio que habilitem à frequência da Universidade Técnica.
+Art. 40.º Ao exame de aptidão a que se refere o artigo anterior serão admitidos os candidatos que possuam o curso complementar dos liceus ou o curso de habilitação dos institutos de ensino técnico médio que habilitem à frequência da Universidade Técnica.
 
 § único. As provas de exame de aptidão versarão sobre Língua e Literatura Portuguesa, Geografia Geral e Organização Política e Administrativa da Nação, e serão escritas na primeira matéria e orais nas duas últimas.
 
-###### Art. 41.º O júri dos exames de aptidão será composto por três professores catedráticos ou extraordinários do Instituto e por dois professores do liceu, nomeados pelo Ministro da Educação Nacional.
+Art. 41.º O júri dos exames de aptidão será composto por três professores catedráticos ou extraordinários do Instituto e por dois professores do liceu, nomeados pelo Ministro da Educação Nacional.
 
-###### Art. 42.º Sempre que as circunstâncias o aconselhem, poderá o conselho escolar propor que seja fixado o número de alunos a admitir a matrícula no primeiro ano do curso de administração ultramarina.
+Art. 42.º Sempre que as circunstâncias o aconselhem, poderá o conselho escolar propor que seja fixado o número de alunos a admitir a matrícula no primeiro ano do curso de administração ultramarina.
 
 § único. Quando houver necessidade de se limitar a admissão à matrícula, terão preferência os alunos mais classificados nos cursos habilitantes ou no exame de aptidão, os que possuam melhores condições físicas para a actividade no ultramar e os filhos de funcionários ultramarinos.
 
-###### Art. 43.º O aproveitamento dos alunos será verificado mediante exames de frequência e exames finais em cada disciplina, com excepção da de Educação Física e Desportos.
+Art. 43.º O aproveitamento dos alunos será verificado mediante exames de frequência e exames finais em cada disciplina, com excepção da de Educação Física e Desportos.
 
 § 1.º O resultado dos exames será expresso em valores, segundo a seguinte escala: 0 a 6, Mau; 7 a 9, Medíocre; 10 a 13, Suficiente; 14 e 15, Bom; 16 e 17, Bom com distinção; 18 e 19, Muito bom com distinção; 20, Muito bom com distinção e louvor.
 
 § 2.º Os alunos ordinários não poderão apresentar-se a exame final sem a classificação mínima de 10 valores alcançada nas aulas de trabalhos práticos.
 
-###### Art. 44.º Os exames de frequência para os alunos ordinários serão escritos e em número de dois para as disciplinas anuais e de um para as semestrais, não sendo admitido a exame final o aluno que tiver obtido classificação média inferior a 10 valores naqueles exames.
+Art. 44.º Os exames de frequência para os alunos ordinários serão escritos e em número de dois para as disciplinas anuais e de um para as semestrais, não sendo admitido a exame final o aluno que tiver obtido classificação média inferior a 10 valores naqueles exames.
 
 § 1.º Os exames de frequência nas cadeiras anuais realizar-se-ão nos últimos dias do 1.º e 2.º semestres, anunciados com a devida antecedência; nos cursos semestrais realizar-se-ão nos últimos dias do respectivo semestre, também anunciados com a devida antecedência.
 
@@ -567,13 +602,13 @@ Cursos práticos anuais:
 
 § 3.º Os alunos que tiverem faltado a um exame de frequência por motivo justificado poderão realizá-lo em dia que será fixado pelo director do Instituto.
 
-###### Art. 45.º Aos exames de frequência dos alunos voluntários aplica-se o disposto no artigo anterior, mas cada exame constará de uma prova escrita e outra oral ou prática, consoante a natureza das cadeiras.
+Art. 45.º Aos exames de frequência dos alunos voluntários aplica-se o disposto no artigo anterior, mas cada exame constará de uma prova escrita e outra oral ou prática, consoante a natureza das cadeiras.
 
 § único. A prova oral será prestada perante o professor da cadeira. Se a regência da cadeira tiver sido confiada a um assistente, o professor assistirá ao exame.
 
-###### Art. 46.º O julgamento das provas dos exames de frequência compete ao professor da disciplina.
+Art. 46.º O julgamento das provas dos exames de frequência compete ao professor da disciplina.
 
-###### Art. 47.º Os exames finais serão feitos por disciplinas isoladas e constarão de duas provas, uma escrita e outra oral.
+Art. 47.º Os exames finais serão feitos por disciplinas isoladas e constarão de duas provas, uma escrita e outra oral.
 
 § 1.º Os alunos ordinários que nos exames de frequência tiverem obtido média não inferior a 14 valores serão dispensados de exame final, caso não requeiram o contrário.
 
@@ -581,7 +616,7 @@ Cursos práticos anuais:
 
 § 3.º Nas provas orais o interrogatório, com a duração mínima de 15 minutos e máxima de 45 minutos, será feito pelo professor da disciplina, mas os outros membros do júri poderão fazer as perguntas que julgarem convenientes.
 
-###### Art. 48.º As classificações de Mau e Medíocre no exame final equivalem a reprovação. O aluno que no mesmo ano for excluído da frequência, ou de admissão a exame final, ou reprovado em duas disciplinas, terá no ano seguinte de repetir todas as disciplinas desse ano. Se perder uma só disciplina, poderá repeti-la no ano seguinte, conjuntamente com a frequência das disciplinas desse ano.
+Art. 48.º As classificações de Mau e Medíocre no exame final equivalem a reprovação. O aluno que no mesmo ano for excluído da frequência, ou de admissão a exame final, ou reprovado em duas disciplinas, terá no ano seguinte de repetir todas as disciplinas desse ano. Se perder uma só disciplina, poderá repeti-la no ano seguinte, conjuntamente com a frequência das disciplinas desse ano.
 
 § 1.º O aluno que perder três vezes o mesmo ano será excluído da frequência do Instituto.
 
@@ -589,11 +624,11 @@ Cursos práticos anuais:
 
 § 3.º A reprovação na prova escrita exclui o aluno da prestação da prova oral.
 
-###### Art. 49.º Os exames finais realizar-se-ão normalmente nos meses de Junho e Julho, podendo haver duas chamadas, separadas por três dias.
+Art. 49.º Os exames finais realizar-se-ão normalmente nos meses de Junho e Julho, podendo haver duas chamadas, separadas por três dias.
 
 § único. É permitido aos alunos realizar até dois exames em Outubro, mesmo que deles tenham sido excluídos na época de Junho-Julho.
 
-###### Art. 50.º O julgamento das provas de exames finais compete a um júri constituído por três membros do corpo docente, designados pelo director, devendo um deles ser professor da cadeira.
+Art. 50.º O julgamento das provas de exames finais compete a um júri constituído por três membros do corpo docente, designados pelo director, devendo um deles ser professor da cadeira.
 
 § 1.º Presidirá ao júri um professor catedrático e, havendo dois, a presidência caberá ao mais antigo.
 
@@ -601,7 +636,7 @@ Cursos práticos anuais:
 
 § 3.º A título excepcional e sob proposta fundamentada do director, pode o Ministro da Educação Nacional autorizar que os júris sejam constituídos por dois elementos do corpo docente, sendo um deles o professor da cadeira.
 
-###### Art. 51.º No final do ano lectivo os professores que tiverem regido as disciplinas desse ano reunir-se-ão, sob a presidência do director do Instituto, para votarem a informação anual de cada aluno, tendo em atenção a sua vocação para o estudo, as qualidades de idoneidade moral, espírito cívico, aplicação intelectual e aptidão física necessária para o desempenho das funções da administração no ultramar.
+Art. 51.º No final do ano lectivo os professores que tiverem regido as disciplinas desse ano reunir-se-ão, sob a presidência do director do Instituto, para votarem a informação anual de cada aluno, tendo em atenção a sua vocação para o estudo, as qualidades de idoneidade moral, espírito cívico, aplicação intelectual e aptidão física necessária para o desempenho das funções da administração no ultramar.
 
 § 1.º A informação responderá a questionário elaborado pelo conselho escolar e, quando possível, será completada pelo juízo ampliativo do conselho do curso, podendo haver declarações de voto dos professores.
 
@@ -609,21 +644,21 @@ Cursos práticos anuais:
 
 § 3.º O aluno qualificado de Mau num ano será imediatamente excluído da frequência do Instituto; o aluno que tiver a qualificação de Medíocre em dois anos não será admitido nos quadros administrativos do ultramar.
 
-###### Art. 52.º As propinas de matrícula e de inscrição nas disciplinas do curso de administração ultramarina serão iguais às que estiverem fixadas para os outros institutos e faculdades.
+Art. 52.º As propinas de matrícula e de inscrição nas disciplinas do curso de administração ultramarina serão iguais às que estiverem fixadas para os outros institutos e faculdades.
 
-###### Art. 53.º Serão concedidas bolsas de estudo, isenções e reduções de propinas aos alunos do curso de administração ultramarina, nos termos que estiverem estabelecidos na lei geral, fixando-se em cinco o número de bolsas de estudo a conceder aos alunos do Instituto.
+Art. 53.º Serão concedidas bolsas de estudo, isenções e reduções de propinas aos alunos do curso de administração ultramarina, nos termos que estiverem estabelecidos na lei geral, fixando-se em cinco o número de bolsas de estudo a conceder aos alunos do Instituto.
 
 § único. Aos alunos que frequentarem o Instituto com subsídio de estudo na metrópole, pago pelas províncias ultramarinas, será sempre concedida isenção de propinas, independentemente das insenções a conceder a outros alunos, nos termos do corpo do artigo.
 
-###### Art. 54.º Os alunos do curso de administração ultramarina deverão, antes de se inscreverem no 3.º ano, apresentar à secretaria do Instituto documento comprovativo de haverem praticado, com aproveitamento, durante 30 dias, pelo menos, numa estação meteorológica, indicada pela direcção do Serviço Metrológico Nacional.
+Art. 54.º Os alunos do curso de administração ultramarina deverão, antes de se inscreverem no 3.º ano, apresentar à secretaria do Instituto documento comprovativo de haverem praticado, com aproveitamento, durante 30 dias, pelo menos, numa estação meteorológica, indicada pela direcção do Serviço Metrológico Nacional.
 
-###### Art. 55.º Os alunos inscritos no 3.º ano do curso de administração ultramarina que desejarem seguir a carreira administrativa serão, por simples comunicação do director do Instituto a Direcção-Geral de Administração Política e Civil do Ministério do Ultramar, publicada no Diário do Governo, considerados aspirantes estagiários deste Ministério.
+Art. 55.º Os alunos inscritos no 3.º ano do curso de administração ultramarina que desejarem seguir a carreira administrativa serão, por simples comunicação do director do Instituto a Direcção-Geral de Administração Política e Civil do Ministério do Ultramar, publicada no Diário do Governo, considerados aspirantes estagiários deste Ministério.
 
 § 1.º Depois de concluído o curso e enquanto não forem providos nas vagas dos quadros administrativos ultramarinos aspirantes os estagiários podem ser admitidos a prestar serviço nas repartições do Ministério do Ultramar e terão preferência absoluta no provimento interino de lugares de terceiros-oficiais.
 
 § 2.º O tempo de estágio no Ministério ou de exercício interino, quando com boas informações, será contado como tempo de serviço nos quadros administrativos onde os aspirantes venham a ingressar.
 
-###### Art. 56.º O director-geral do Ensino Superior e das Belas-Artes, sob proposta do conselho escolar, poderá autorizar a inscrição, independentemente do pagamento de propinas, nas disciplinas do curso de administração ultramarina dos estudantes das casas de formação missionária indicados pelos procuradores das corporações missionárias reconhecidas.
+Art. 56.º O director-geral do Ensino Superior e das Belas-Artes, sob proposta do conselho escolar, poderá autorizar a inscrição, independentemente do pagamento de propinas, nas disciplinas do curso de administração ultramarina dos estudantes das casas de formação missionária indicados pelos procuradores das corporações missionárias reconhecidas.
 
 § 1.º A frequência das disciplinas em que se inscreverem estes estudantes é obrigatória e será verificada por exames, nos termos estabelecidos para os alunos do curso de administração ultramarina.
 
@@ -631,7 +666,7 @@ Cursos práticos anuais:
 
 #### SECÇÃO II — Do curso complementar de estudos ultramarinos
 
-###### Art. 57.º No curso complementar de estudos ultramarinos haverá também duas classes de alunos: ordinários e voluntários.
+Art. 57.º No curso complementar de estudos ultramarinos haverá também duas classes de alunos: ordinários e voluntários.
 
 § 1.º A frequência das aulas é obrigatória, nos termos estabelecidos no curso de administração ultramarina, para os alunos ordinários e livre para os alunos voluntários.
 
@@ -639,7 +674,7 @@ Cursos práticos anuais:
 
 § 3.º Não haverá restrições no número de alunos admitidos à matrícula.
 
-###### Art. 58.º Podem matricular-se no curso complementar de estudos ultramarinos os que requeiram a matrícula provando:
+Art. 58.º Podem matricular-se no curso complementar de estudos ultramarinos os que requeiram a matrícula provando:
 
 § 1.º Que são diplomados com o curso de administração ultramarina ou qualquer outro curso superior, desde que tenham obtido média não inferior a 12 valores;
 
@@ -647,9 +682,9 @@ Cursos práticos anuais:
 
 § único. Com o boletim de matrícula deverão os candidatos que não forem funcionários apresentar documento comprovativo das suas habilitações, certidão de registo de nascimento, duas fotografias de 35 mm x 30 mm e o bilhete de identidade; os funcionários apresentarão apenas guias do respectivo serviço, donde constem a data do nascimento, categoria, habilitações e tempo de serviço, além do bilhete de identidade e das fotografias.
 
-###### Art. 59.º O regime de exames de frequência e finais, assim como o de propinas, é o que fica estabelecido para o curso de administração ultramarina.
+Art. 59.º O regime de exames de frequência e finais, assim como o de propinas, é o que fica estabelecido para o curso de administração ultramarina.
 
-###### Art. 60.º Os Governos ultramarinos poderão conceder anualmente licença especial para virem frequentar o curso complementar de estudos ultramarinos aos diplomados com o curso de administração ultramarina ou outro curso superior, com dois anos de bom e efectivo serviço, que assim o requeiram. Do indeferimento haverá sempre recurso para o Ministro do Ultramar.
+Art. 60.º Os Governos ultramarinos poderão conceder anualmente licença especial para virem frequentar o curso complementar de estudos ultramarinos aos diplomados com o curso de administração ultramarina ou outro curso superior, com dois anos de bom e efectivo serviço, que assim o requeiram. Do indeferimento haverá sempre recurso para o Ministro do Ultramar.
 
 § 1.º A licença especial de que trata este artigo será concedida, pelo menos, ao seguinte número de funcionários, desde que haja concorrentes:
 
@@ -669,7 +704,7 @@ c) Serão isentos do pagamento de propinas de matrícula e de inscrição no cur
 
 § 4.º As despesas com abonos e vencimentos aos funcionários abrangidos por esta disposição constituem encargo da província ultramarina a que pertençam.
 
-###### Art. 61.º Aos funcionários que, frequentando o curso complementar de estudos ultramarinos, nas condições do artigo anterior, não se apresentem a exame, desistam das provas, delas sejam excluídos ou forem reprovados será imediatamente revogada a licença especial e incorrem na pena disciplinar de três meses de suspensão de exercício e vencimentos, não podendo ser promovidos nos dois anos seguintes.
+Art. 61.º Aos funcionários que, frequentando o curso complementar de estudos ultramarinos, nas condições do artigo anterior, não se apresentem a exame, desistam das provas, delas sejam excluídos ou forem reprovados será imediatamente revogada a licença especial e incorrem na pena disciplinar de três meses de suspensão de exercício e vencimentos, não podendo ser promovidos nos dois anos seguintes.
 
 § 1.º O funcionário que for abrangido pelas disposições deste artigo regressará no primeiro transporte, com passagens à sua custa, à província de origem, incorrendo em demissão, aplicada independentemente de processo disciplinar, caso não embarque no transporte que lhe seja designado.
 
@@ -677,7 +712,7 @@ c) Serão isentos do pagamento de propinas de matrícula e de inscrição no cur
 
 § 3.º O tempo que os funcionários estiverem, com aproveitamento, frequentando o curso complementar de estudos ultramarinos ser-lhes-á contado para todos os efeitos como de efectividade de serviço.
 
-###### Art. 62.º Serão isentos do pagamento de propinas de matrícula e de inscrição, mediante requerimento ao conselho escolar:
+Art. 62.º Serão isentos do pagamento de propinas de matrícula e de inscrição, mediante requerimento ao conselho escolar:
 
 1.º Os funcionários públicos;
 
@@ -687,7 +722,7 @@ c) Serão isentos do pagamento de propinas de matrícula e de inscrição no cur
 
 #### SECÇÃO III — Do curso de aperfeiçoamento profissional
 
-###### Art. 63.º Podem matricular-se no curso de aperfeiçoamento profissional todos os que requeiram a matrícula provando:
+Art. 63.º Podem matricular-se no curso de aperfeiçoamento profissional todos os que requeiram a matrícula provando:
 
 1.º Que exercem há dois anos, pelo menos, as funções de administrador de circunscrição, de primeiro-oficial ou de categoria equivalente em qualquer serviço público ultramarino, com boas informações de comportamento e serviço;
 
@@ -695,35 +730,35 @@ c) Serão isentos do pagamento de propinas de matrícula e de inscrição no cur
 
 § único. O exame de admissão realiza-se na sede do Instituto e constará de provas escritas, elaboradas pelo conselho escolar. As provas poderão ser também prestadas nas províncias respectivas, sob a presidência de um alto funcionário, designado pelo governador, e depois enviadas ao Instituto, para apreciação.
 
-###### Art. 64.º Aos funcionários que estiverem nas condições previstas no n.º 1.º do artigo anterior e os referidos no n.º 2.º, aprovados no exame de admissão e matriculados no curso de aperfeiçoamento profissional, aplicam-se as disposições dos artigos 57.º, 60.º, 61.º e 62.º
+Art. 64.º Aos funcionários que estiverem nas condições previstas no n.º 1.º do artigo anterior e os referidos no n.º 2.º, aprovados no exame de admissão e matriculados no curso de aperfeiçoamento profissional, aplicam-se as disposições dos artigos 57.º, 60.º, 61.º e 62.º
 
 ### CAPÍTULO V — Da licenciatura e do doutoramento
 
-###### Art. 65.º O acto de licenciatura consiste na defesa de uma dissertação sobre qualquer matéria versada nas disciplinas do Instituto. O licenciando na preparação da sua dissertação será orientado por um professor catedrático ou extraordinário, sem cujo consentimento não deverá apresentar-se a acto.
+Art. 65.º O acto de licenciatura consiste na defesa de uma dissertação sobre qualquer matéria versada nas disciplinas do Instituto. O licenciando na preparação da sua dissertação será orientado por um professor catedrático ou extraordinário, sem cujo consentimento não deverá apresentar-se a acto.
 
 § único. O licenciando poderá mudar de assunto de estudo, assim como de professor orientador.
 
-###### Art. 66.º O júri dos exames de licenciatura é constituído por três membros do corpo docente, pelo menos, designados pelo director de entre os professores catedráticos e extraordinários do grupo e sob a sua presidência ou a do professor catedrático mais antigo.
+Art. 66.º O júri dos exames de licenciatura é constituído por três membros do corpo docente, pelo menos, designados pelo director de entre os professores catedráticos e extraordinários do grupo e sob a sua presidência ou a do professor catedrático mais antigo.
 
 § único. A dissertação será discutida e apreciada, ao menos, por um professor arguente, durante o período máximo de uma hora.
 
-###### Art. 67.º Haverá três épocas para os actos de licenciatura: Junho, Outubro e Janeiro.
+Art. 67.º Haverá três épocas para os actos de licenciatura: Junho, Outubro e Janeiro.
 
 § único. A reprovação do licenciando adia para daí a duas épocas, pelo menos, a prestação de novas provas.
 
-###### Art. 68.º O júri, na apreciação da prova, tomará em conta o curriculum vitae do candidato.
+Art. 68.º O júri, na apreciação da prova, tomará em conta o curriculum vitae do candidato.
 
-###### Art. 69.º Os licenciandos deverão requerer o acto de licenciatura 30 dias antes do início de cada época. entregando ao mesmo tempo na secretaria seis exemplares da dissertação, impressos ou dactilografados, destinados ao júri e à biblioteca do Instituto.
+Art. 69.º Os licenciandos deverão requerer o acto de licenciatura 30 dias antes do início de cada época. entregando ao mesmo tempo na secretaria seis exemplares da dissertação, impressos ou dactilografados, destinados ao júri e à biblioteca do Instituto.
 
-###### Art. 70.º A qualificação final da licenciatura é votada pelo conselho escolar com base nas classificações obtidas nas diferentes disciplinas, especialmente nas do grupo respectivo e no acto de licenciatura.
+Art. 70.º A qualificação final da licenciatura é votada pelo conselho escolar com base nas classificações obtidas nas diferentes disciplinas, especialmente nas do grupo respectivo e no acto de licenciatura.
 
-###### Art. 71.º Os indivíduos portadores do diploma de licenciatura podem ser admitidos a doutoramento desde que tenham classificação final não inferior a 16 valores.
+Art. 71.º Os indivíduos portadores do diploma de licenciatura podem ser admitidos a doutoramento desde que tenham classificação final não inferior a 16 valores.
 
 § único. Às provas de doutoramento aplicar-se-á o regulamento das Faculdades de Direito.
 
 ### CAPÍTULO VI — Do Instituto de Línguas Africanas e Orientais
 
-###### Art. 72.º O Instituto de Línguas Africanas e Orientais é um centro de investigação e de ensino destinado a:
+Art. 72.º O Instituto de Línguas Africanas e Orientais é um centro de investigação e de ensino destinado a:
 
 1.º Cultivar os estudos filológicos, com especial aplicação à linguagem dos povos orientais e africanos:
 
@@ -741,7 +776,7 @@ c) Serão isentos do pagamento de propinas de matrícula e de inscrição no cur
 
 8.º Fazer publicações de textos nas línguas estudadas.
 
-###### Art. 73.º O Instituto de Línguas Africanas e Orientais será custeado por dotações do orçamento das províncias interessadas.
+Art. 73.º O Instituto de Línguas Africanas e Orientais será custeado por dotações do orçamento das províncias interessadas.
 
 1.º Constituem encargo do orçamento da metrópole:
 
@@ -759,7 +794,7 @@ b) As despesas com publicações;
 
 c) As despesas com viagens e manutenção na metrópole de informadores nativos.
 
-###### Art. 74.º O quadro do Instituto de Línguas Africanas e Orientais compreenderá:
+Art. 74.º O quadro do Instituto de Línguas Africanas e Orientais compreenderá:
 
 1 director.
 
@@ -777,13 +812,13 @@ c) As despesas com viagens e manutenção na metrópole de informadores nativos.
 
 5.º O director do Instituto Superior de Estudos Ultramarinos superintende no Instituto de Línguas Africanas e Orientais e compete-lhe designar um dos leitores para substituir o director do Instituto de Línguas Africanas e Orientais nas suas faltas e impedimentos.
 
-###### Art. 75.º O actual subdirector do Instituto de Línguas Africanas e Orientais passa a exercer as funções de director do mesmo Instituto sem mais formalidades, contando-se a antiguidade na categoria de professor catedrático da data da designação para subdirector.
+Art. 75.º O actual subdirector do Instituto de Línguas Africanas e Orientais passa a exercer as funções de director do mesmo Instituto sem mais formalidades, contando-se a antiguidade na categoria de professor catedrático da data da designação para subdirector.
 
-###### Art. 76.º Podem inscrever-se nos cursos do Instituto os alunos matriculados no Instituto Superior de Estudos Ultramarinos ou nas Faculdades de Letras, os funcionários dos quadros ultramarinos ou do Ministério do Ultramar, os missionários ou estudantes das casas de formação missionária e quaisquer pessoas consideradas idóneas pela direcção respectiva
+Art. 76.º Podem inscrever-se nos cursos do Instituto os alunos matriculados no Instituto Superior de Estudos Ultramarinos ou nas Faculdades de Letras, os funcionários dos quadros ultramarinos ou do Ministério do Ultramar, os missionários ou estudantes das casas de formação missionária e quaisquer pessoas consideradas idóneas pela direcção respectiva
 
 § único. A propina de inscrição é de 200$00 anuais, paga em duas prestações.
 
-###### Art. 77.º Os leitores do Instituto de Línguas Africanas e Orientais serão recrutados por concurso de provas públicas, observando-se o artigo 24.º deste decreto, na parte aplicável.
+Art. 77.º Os leitores do Instituto de Línguas Africanas e Orientais serão recrutados por concurso de provas públicas, observando-se o artigo 24.º deste decreto, na parte aplicável.
 
 § 1.º O conselho escolar pode usar da faculdade estabelecida no artigo 25.º deste decreto para o provimento dos lugares de leitores.
 
@@ -793,23 +828,23 @@ c) As despesas com viagens e manutenção na metrópole de informadores nativos.
 
 ### CAPÍTULO VII — Da secretaria
 
-###### Art. 78.º O expediente do Instituto Superior de Estudos Ultramarinos e dos seus institutos e centros de investigação correrá pela secretaria, cujo quadro de pessoal terá a composição constante do mapa I anexo a este decreto.
+Art. 78.º O expediente do Instituto Superior de Estudos Ultramarinos e dos seus institutos e centros de investigação correrá pela secretaria, cujo quadro de pessoal terá a composição constante do mapa I anexo a este decreto.
 
 § 1.º O chefe da secretaria será sempre provido em diplomado com o curso de administração ultramarina, de preferência escolhido de entre os administradores de circunscrição ou primeiros-oficiais do quadro da administração civil do Ministério do Ultramar.
 
 § 2.º O pessoal da secretaria e menor será recrutado segundo a forma adoptada para o pessoal de igual categoria do Ministério do Ultramar. Os mesmos princípios se aplicarão pelo que respeita às promoções deste pessoal.
 
-###### Art. 79.º Os funcionários do actual quadro de pessoal da secretaria e menor do Instituto Superior de Estados Ultramarinos, constantes do mapa II, transitam para o novo quadro, segundo a ordem das suas categorias e antiguidades, sem quaisquer outras formalidades.
+Art. 79.º Os funcionários do actual quadro de pessoal da secretaria e menor do Instituto Superior de Estados Ultramarinos, constantes do mapa II, transitam para o novo quadro, segundo a ordem das suas categorias e antiguidades, sem quaisquer outras formalidades.
 
 ### CAPÍTULO VIII — Disposições gerais e transitórias
 
-###### Art. 80.º O ano lectivo do Instituto Superior de Estudos Ultramarinos começa em 15 de Outubro e termina em 30 de Junho, com as férias e feriados que a lei estabelecer para a Universidade Técnica de Lisboa.
+Art. 80.º O ano lectivo do Instituto Superior de Estudos Ultramarinos começa em 15 de Outubro e termina em 30 de Junho, com as férias e feriados que a lei estabelecer para a Universidade Técnica de Lisboa.
 
 § único. Os cursos semestrais serão dados, respectivamente, de 15 de Outubro ao último dia de Fevereiro e de 1 de Março a 31 de Maio de cada ano.
 
-###### Art. 81.º O presidente da comissão executiva da Junta de Investigações do Ultramar poderá ser convidado a tomar parte nas reuniões do conselho escolar do Instituto que tenham por objecto estruturar programas de investigação ou divulgação das matérias nele professadas.
+Art. 81.º O presidente da comissão executiva da Junta de Investigações do Ultramar poderá ser convidado a tomar parte nas reuniões do conselho escolar do Instituto que tenham por objecto estruturar programas de investigação ou divulgação das matérias nele professadas.
 
-###### Art. 82.º As leis gerais e especiais dos quadros da administração ultramarina que não exijam, para o seu pessoal, outra qualificação técnica especial, estabelecerão as vantagens atribuídas aos diplomados pelo Instituto devendo observar os seguintes princípios gerais:
+Art. 82.º As leis gerais e especiais dos quadros da administração ultramarina que não exijam, para o seu pessoal, outra qualificação técnica especial, estabelecerão as vantagens atribuídas aos diplomados pelo Instituto devendo observar os seguintes princípios gerais:
 
 1.º Os diplomados com o curso de administração ultramarina terão preferência nos lugares de entrada nos quadros, quando a nomeação não dependa do concurso de provas públicas;
 
@@ -819,27 +854,27 @@ c) As despesas com viagens e manutenção na metrópole de informadores nativos.
 
 § único. O disposto no n.º 2.º deste artigo é também aplicável aos funcionários dos quadros da administração ultramarina, recrutados entre diplomados pelo Instituto.
 
-###### Art. 83.º O curso de aperfeiçoamento profissional terá início quando o Ministro do Ultramar determinar.
+Art. 83.º O curso de aperfeiçoamento profissional terá início quando o Ministro do Ultramar determinar.
 
-###### Art. 84.º Os diplomados com o antigo curso superior colonial poderão apresentar-se ao acto de licenciatura, desde que preparem uma dissertação, elaborada sob a orientação de um professor do Instituto.
+Art. 84.º Os diplomados com o antigo curso superior colonial poderão apresentar-se ao acto de licenciatura, desde que preparem uma dissertação, elaborada sob a orientação de um professor do Instituto.
 
 § único. Ao acto de licenciatura é aplicável o disposto nos artigos 65.º a 70.º
 
-###### Art. 85.º O quadro de disciplinas professadas no Instituto Superior de Estudos Ultramarinos será, em regra, revisto todos os três anos pelo conselho escolar, sendo as suas propostas sujeitas à aprovação do Ministro da Educação Nacional.
+Art. 85.º O quadro de disciplinas professadas no Instituto Superior de Estudos Ultramarinos será, em regra, revisto todos os três anos pelo conselho escolar, sendo as suas propostas sujeitas à aprovação do Ministro da Educação Nacional.
 
-###### Art. 86.º Consideram-se feitas no 1.º ano do curso de administração ultramarina as matrículas e inscrições apresentadas no ano de 1961-1962, quando os candidatos satisfaçam às condições exigidas pelo artigo 39.º, cancelando-se as restantes.
+Art. 86.º Consideram-se feitas no 1.º ano do curso de administração ultramarina as matrículas e inscrições apresentadas no ano de 1961-1962, quando os candidatos satisfaçam às condições exigidas pelo artigo 39.º, cancelando-se as restantes.
 
 § único. Consideram-se igualmente feitas no 1.º ano do curso complementar de estudos ultramarinos as matrículas e inscrições apresentadas no ano de 1961-1962, quando os candidatos satisfaçam às condições exigidas pelo artigo 58.º
 
-###### Art. 87.º Os alunos que a data do presente decreto se encontrem inscritos nos 2.º e 3.º anos do curso de administração ultramarina, ou no 2.º ano do curso de altos estudos ultramarinos, concluirão os mesmos cursos no regime da legislação anterior.
+Art. 87.º Os alunos que a data do presente decreto se encontrem inscritos nos 2.º e 3.º anos do curso de administração ultramarina, ou no 2.º ano do curso de altos estudos ultramarinos, concluirão os mesmos cursos no regime da legislação anterior.
 
-###### Art. 88.º Em tudo que se coadune com o regime estabelecido para o Instituto são também aplicáveis os Decretos-Leis n.º 31658, de 21 de Novembro de 1941, n.º 35807, de 15 de Agosto de 1946, e [Decreto n.º 39001](https://diariodarepublica.pt/dr/detalhe/decreto/39001-1952-669494), de 20 de Novembro de 1952.
+Art. 88.º Em tudo que se coadune com o regime estabelecido para o Instituto são também aplicáveis os Decretos-Leis n.º 31658, de 21 de Novembro de 1941, n.º 35807, de 15 de Agosto de 1946, e [Decreto n.º 39001](https://diariodarepublica.pt/dr/detalhe/decreto/39001-1952-669494), de 20 de Novembro de 1952.
 
-###### Art. 89.º O regime de inerência previsto nos §§ 2.º e 3.º do artigo 14.º do [Decreto-Lei n.º 35885](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35885-1946-419990), de 30 de Setembro de 1946, considera-se extinto um ano depois de entrar em vigor o presente decreto.
+Art. 89.º O regime de inerência previsto nos §§ 2.º e 3.º do artigo 14.º do [Decreto-Lei n.º 35885](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35885-1946-419990), de 30 de Setembro de 1946, considera-se extinto um ano depois de entrar em vigor o presente decreto.
 
-###### Art. 90.º Os casos omissos serão integrados por despacho ministerial.
+Art. 90.º Os casos omissos serão integrados por despacho ministerial.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Outubro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira - Manuel Lopes de Almeida.
 
@@ -849,13 +884,13 @@ Quadro I a que se refere o § 2.º do artigo 8.º
 
 Curso de administração ultramarina
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/10/23400/12761286.pdf))](https://files.diariodarepublica.pt/1s/1961/10/23400/12761286.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/10/23400/12761286.pdf)
 
 Quadro II a que se refere o artigo 10.º
 
 Curso complementar de estudos ultramarinos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/10/23400/12761286.pdf))](https://files.diariodarepublica.pt/1s/1961/10/23400/12761286.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/10/23400/12761286.pdf)
 
 Ministérios do Ultramar e da Educação Nacional, 9 de Outubro de 1961. - O Ministro do Ultramar, Adriano José Alves Moreira. - O Ministro da Educação Nacional, Manuel Lopes de Almeida.
 

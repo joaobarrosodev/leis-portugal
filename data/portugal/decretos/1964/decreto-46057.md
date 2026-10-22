@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46057-1964-535658
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-12-02T00:00:00Z'
+  retrieved_at: '2026-10-22T19:43:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a645ce5ad0df3b957889bd94742b82e24c122f0cd788265f6cebfac9be128e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85631409c024dad4697696e43b0398e67ff8fb2dfb808623fe2de5d9b780da9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:43:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:43:13Z'
   warnings: []
   errors: []
 ---
@@ -92,31 +96,31 @@ Por motivo de urgência, nos termos do § 1.º do artigo 150.º da Constituiçã
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É delegada nos governadores das províncias ultramarinas a competência atribuída ao Ministro do Ultramar pela alínea e) do artigo 3.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921), de 28 de Fevereiro de 1957.
+Artigo 1.º É delegada nos governadores das províncias ultramarinas a competência atribuída ao Ministro do Ultramar pela alínea e) do artigo 3.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921), de 28 de Fevereiro de 1957.
 
 § 1.º O disposto no corpo do artigo não prejudica a regra do § 2.º do mesmo preceito.
 
 § 2.º As isenções ou reduções de direitos e mais imposições deverão ser graduadas tendo em atenção a interdependência entre a estrutura dos custos de produção e o interesse de ordem geral da política de preços.
 
-###### Art. 2.º Os pedidos de isenção ou redução de direitos e outras imposições a cobrar no despacho aduaneiro das mercadorias referidas na alínea e) do artigo 3.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921) serão apreciados, nas províncias de Angola e Moçambique, por uma comissão constituída pelo director provincial dos serviços das alfândegas, que servirá de presidente, pelo director provincial dos serviços de economia e pelo presidente da Junta de Comércio Externo, e nas restantes províncias pelos chefes dos correspondentes serviços.
+Art. 2.º Os pedidos de isenção ou redução de direitos e outras imposições a cobrar no despacho aduaneiro das mercadorias referidas na alínea e) do artigo 3.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921) serão apreciados, nas províncias de Angola e Moçambique, por uma comissão constituída pelo director provincial dos serviços das alfândegas, que servirá de presidente, pelo director provincial dos serviços de economia e pelo presidente da Junta de Comércio Externo, e nas restantes províncias pelos chefes dos correspondentes serviços.
 
 § único. Tratando-se de mercadorias de origem estrangeira, deverá também ser ouvido o Conselho do Serviço Técnico-Aduaneiro da província.
 
-###### Art. 3.º A apreciação determinada no artigo anterior deverá basear-se, quando se trate de importações do estrangeiro, em parecer dos serviços de economia que indique, fundamentalmente, se existem ou não produtores nacionais dos artigos em causa estabelecidos noutros territórios e as respectivas condições de preço e qualidade.
+Art. 3.º A apreciação determinada no artigo anterior deverá basear-se, quando se trate de importações do estrangeiro, em parecer dos serviços de economia que indique, fundamentalmente, se existem ou não produtores nacionais dos artigos em causa estabelecidos noutros territórios e as respectivas condições de preço e qualidade.
 
 § 1.º Os pedidos serão publicados por aviso inserto no Boletim Oficial da respectiva província, o qual, além da descrição suficientemente precisa da mercadoria, preço C. I. F. de aquisição e país ou território exportador, marcará o prazo de 30 dias para a apresentação de reclamações por qualquer produtor ou vendedor nacional.
 
 § 2.º Enquanto se não verificar a completa eliminação dos direitos de importação, de acordo com o calendário da integração económica nacional, aplicar-se-á o disposto no corpo e no § 1.º deste artigo aos pedidos de importação doutros territórios nacionais respeitantes a mercadorias ainda não liberalizadas.
 
-###### Art. 4.º A prova a que alude o § 1.º do artigo 9.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921) será feita por certidão passada pela Repartição de Indústria da Direcção Provincial dos Serviços de Economia nas províncias de Angola e Moçambique e pelos correspondentes serviços nas restantes províncias ultramarinas.
+Art. 4.º A prova a que alude o § 1.º do artigo 9.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921) será feita por certidão passada pela Repartição de Indústria da Direcção Provincial dos Serviços de Economia nas províncias de Angola e Moçambique e pelos correspondentes serviços nas restantes províncias ultramarinas.
 
 § único. Os serviços competentes diligenciarão reunir os elementos necessários para a passagem da certidão referida no corpo do artigo, podendo, independentemente das informações colhidas em consequência da publicação do aviso citado no artigo anterior, consultar para o efeito quaisquer outros serviços ou organismos.
 
-###### Art. 5.º Logo após a publicação do respectivo despacho no Boletim Oficial, devem os processos relativos aos pedidos a que respeita o presente diploma ser enviados à Inspecção Superior das Alfândegas do Ministério do Ultramar.
+Art. 5.º Logo após a publicação do respectivo despacho no Boletim Oficial, devem os processos relativos aos pedidos a que respeita o presente diploma ser enviados à Inspecção Superior das Alfândegas do Ministério do Ultramar.
 
-###### Art. 6.º O disposto neste diploma poderá aplicar-se a pedidos apresentados anteriormente à sua publicação desde que a comissão referida no artigo 2.º reconheça que os mesmos respeitem a operações que devam ser consideradas de relevante interesse para a economia da província ou do espaço económico português.
+Art. 6.º O disposto neste diploma poderá aplicar-se a pedidos apresentados anteriormente à sua publicação desde que a comissão referida no artigo 2.º reconheça que os mesmos respeitem a operações que devam ser consideradas de relevante interesse para a economia da província ou do espaço económico português.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Dezembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/6/2026/02/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/6-2026-1045423489
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-11T00:00:00Z'
+  retrieved_at: '2026-10-22T18:31:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a96eb8b9fb20af08d191be38ab292e7fa56acb4d6cb1772125bad0683cbb77fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9521f69524963c6f03d84a17ce7bee8494d8be6ca79be0301bbdc158b809bc1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:31:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Assistência Médica
-- Serviço Nacional de Saúde
-- Gestão Hospitalar
 - Administração Central do Sistema de Saúde
-- Cuidados Médicos
+- Assistência Médica
 - Cirurgia
-- Sistema Informático de Apoio à Gestão da Lista de Inscritos
+- Cuidados Médicos
 - Direção Executiva do Serviço Nacional de Saúde
+- Gestão Hospitalar
+- Serviço Nacional de Saúde
+- Sistema Informático de Apoio à Gestão da Lista de Inscritos
 - Sistema Nacional de Acesso a Consulta e Cirurgia
 relationships:
 - type: cites
@@ -84,16 +84,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/43-b/2024/07/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/43-b/2024/07/02/p/dre
+- type: cites
+  target: pt:dre:1019913911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:940951437:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:12/2026
+  label: Retifica alínea c) do artigo 7.º do Decreto-Lei n.º 12/2026, de 22 de janeiro, Diário da República n.º 15/2026, Série
+    I
+  source: null
+  date: '2026-01-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:31:53Z'
   warnings: []
   errors: []
 ---
@@ -111,3 +133,5 @@ deve ler-se:
 «c) Gerem as listas de inscritos para consultas, cirurgias ou procedimentos terapêuticos.»
 
 Secretaria-Geral do Governo, 9 de fevereiro de 2026. - O Secretário-Geral Adjunto, Joaquim Cruz.
+
+119947635

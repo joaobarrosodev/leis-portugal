@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 176/2001, 3º Suplemento, Série I-A de 2001-07-31
   number: '176'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 4690-(26) a 4690-(27)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/07/176a03/00260027.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/14-c/2001/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-c-2001-168629
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-16T00:00:00Z'
+  retrieved_at: '2026-10-22T18:57:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 734e74ff1315e4baa6f3cf6e3e4b138bc732244d228d8d0c8acb9d5fb292a780
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4ca4375592f0e1eb7fcd4f758887f13d9dabf1cafb2b845b414954c2e388ef6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:57:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Benefícios Fiscais
 - Código do IRC
 - Código do IRS
 - Declaração de Rendimentos
 - Estatuto
 - Estatuto dos Benefícios Fiscais
+- Evasão Fiscal
 - Fraude Fiscal
 - IRS
 - Isenção Fiscal
-- Evasão Fiscal
 - Procedimento Tributário
 - Rendimento
-- Benefícios Fiscais
 - Retenção na Fonte
 - Tributação
 relationships:
@@ -87,20 +87,31 @@ relationships:
   target: pt:dre:571007:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:571007:por
+  label: Dada nova redação aos arts. 83.º. 91.º e 95.º do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-nov, revisto
+    e republicado pelo Dec Lei 198/2001 de 03-jul, retificado pelo presente diploma, pela LEI.2/2014.16.01.2014.AR, DR.IS
+    [11] de 16.01.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2014-571007
+  date: '2014-01-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/198/2001/07/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/198/2001/07/03/p/dre
+- type: cites
+  target: pt:dre:347542:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:57:47Z'
   warnings: []
   errors: []
 ---

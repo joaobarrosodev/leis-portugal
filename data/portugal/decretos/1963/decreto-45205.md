@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 196/1963, 1º Suplemento, Série I de 1963-08-21
   number: '196'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1131 - 1389
   pdf_url: https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf
 entry_into_force_dates: []
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45205-1963-148782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-02-02T00:00:00Z'
+  retrieved_at: '2026-10-22T19:36:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5dd6e9d83503bc036a5b11fe465dc7260365082d66a868c37c0852d2821e2109
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7f92c5129d2667e77491c2cf394dd3526c63550d7df421027ce3cb6730fde1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:36:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Portugal
+- Radiocomunicações
+- Regulamento
+- Serviços de Radiocomunicações
 relationships:
 - type: amended_by
   target: pt:dre:552051:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:552051:por
+  label: "Alterada parcialmente o Regulamento das Radiocomunicações pelo DR.10-A/77.02.02.1977.MTC, DR.IS [27-Supl] de 02.02.1977\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/10-a-1977-552051
+  date: '1977-02-02'
+- type: cites
+  target: pt:dre:214494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583407:por
+  label: null
+  source: null
 article_structure:
-  article_count: 63
-  section_count: 312
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 186
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:36:21Z'
   warnings: []
   errors: []
 ---
@@ -88,11 +106,11 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. São aprovados o Regulamento das Radiocomunicações e o Regulamento Adicional das Radiocomunicações, referidos no artigo 14.º da Convenção internacional das telecomunicações, assinada em Genebra em 24 de Dezembro de 1959 e aprovada para ratificação pelo [Decreto-Lei n.º 44839](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44839-1962-214494), de 31 de Dezembro de 1962.
+Artigo único. São aprovados o Regulamento das Radiocomunicações e o Regulamento Adicional das Radiocomunicações, referidos no artigo 14.º da Convenção internacional das telecomunicações, assinada em Genebra em 24 de Dezembro de 1959 e aprovada para ratificação pelo [Decreto-Lei n.º 44839](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44839-1962-214494), de 31 de Dezembro de 1962.
 
 Estes regulamentos, que seguem em anexo ao presente decreto e dele fazem parte integrante, foram assinados em Genebra em 21 de Dezembro de 1959 e substituem os de Atlantic City, assinados em 2 de Outubro de 1947 e aprovados pelo [Decreto n.º 38330](https://diariodarepublica.pt/dr/detalhe/decreto/38330-1951-583407), de 2 de Julho de 1951, que fica revogado.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Agosto de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alberto Marciano Gorjão Franco Nogueira - Carlos Gomes da Silva Ribeiro.
 
@@ -402,7 +420,7 @@ Modulação por impulsos codificados ... G
 
 109 § 4. No quadro seguinte pormenoriza-se a classificação de emissões típicas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 #### SECÇÃO II — Largura de faixa
 
@@ -422,7 +440,7 @@ Em gigahertz acima deste valor e até 3000 GHz, inclusive.
 
 Todavia, nos casos em que a aplicação destas regras ocasionar sérias dificuldades, como, por exemplo, na notificação e registo das frequências, nas questões relativas Às listas de frequências e nas questões conexas, podem aceitar-se afastamentos razoáveis.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 Nota 1. - A «faixa N» vai de 0,3 x 10(elevado a N) a 3 x 10(elevado a N) Hz (c/s).
 
@@ -602,7 +620,7 @@ kHz
 
 10-70
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 157 As administrações que autorizam a utilização de frequências inferiores a 10 kHz para necessidades especiais de carácter nacional devem assegurar-se de que dai não resulte interferência prejudicial aos serviços a que são atribuídas as faixas de frequências superiores a 10 kHz (ver também o artigo 14, n.º 699).
 
@@ -618,7 +636,7 @@ kHz
 
 70-90
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 162 Limitado aos sistemas de ondas persistentes.
 
@@ -632,7 +650,7 @@ kHz
 
 90-110
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 166 O desenvolvimento e o funcionamento dos sistemas de radionavegação a grande distância são autorizados nesta faixa, que será atribuída, na totalidade ou em parte, exclusivamente ao serviço de radionavegação, logo que tenha sido adoptado no plano internacional um qualquer sistema de radionavegação. Em igualdade de considerações, convirá dar preferência ao sistema que exija a faixa de frequências mais estreita para um serviço de utilização mundial e que cause o mínimo de interferência prejudicial aos outros serviços. Se a escolha incidir sobre um sistema de radionavegação por impulsos, a largura de faixa da emissão deve ficar contida nos limites da faixa 90-110 kHz, de maneira a não causar interferência prejudicial no exterior desta faixa às estações que funcionam de acordo com as disposições do presente regulamento. Nas Regiões 1 e 3, durante o período anterior à adopção internacional de um sistema de radionavegação a grande distância, poderão funcionar determinadas estações de radionavegação, sob reserva de acordos entre as administrações cujos serviços, aos quais a faixa está atribuída, são susceptíveis de ser afectados. Uma vez estabelecidas em conformidade com esses acordos, as estações de radionavegação serão protegidas contra as interferências prejudiciais.
 
@@ -642,7 +660,7 @@ kHz
 
 110-130
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 168 As estações aeronáuticas podem utilizar frequências das faixas 110-112 kHz, 115-126 kHz e 129-130 kHz, a título permitido, para as comunicações a grande velocidade destinadas às aeronaves.
 
@@ -654,7 +672,7 @@ kHz
 
 130-160
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 171 A frequência 143 kHz é a frequência de chamada das estações do serviço móvel marítimo que utilizam a faixa 90-160 kHz. As condições de utilização desta frequência estão fixadas no artigo 32.
 
@@ -670,7 +688,7 @@ kHz
 
 160-285
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 176 No Congo Belga e Ruanda Urundi, na Etiópia, nas províncias portuguesas do ultramar da Região 1 ao sul do equador, na Rodésia e Niassalândia e na União da África do Sul e território da África do Sudoeste a faixa 160200 kHz é atribuída ao serviço fixo e a faixa 200-285 kHz é atribuída aos serviços móvel aeronáutico e de radionavegação aeronáutica.
 
@@ -684,7 +702,7 @@ kHz
 
 285-405
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 180 Na U. R. S. S. e nas zonas búlgara, romena e turca do mar Negro a faixa 315-325 kHz é atribuída adicionalmente ao serviço de radionavegação marítima, nas seguintes condições:
 
@@ -700,7 +718,7 @@ kHz
 
 405-510
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 182 A frequência 410 kHz é reservada à radiogoniometria no serviço de radionavegação marítima. Os outros serviços aos quais é atribuída a faixa 405-415 kHz não devem cau sar interferência prejudicial à radiogoniometria. Na faixa 405-415 kHz não é consignada qualquer frequência às estações costeiras.
 
@@ -718,7 +736,7 @@ kHz
 
 510-1605
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 188 Na exploração das estações do serviço de radionavegação aeronáutica, as administrações interessadas devem tomar todas as medidas técnicas necessárias para evitar as interferências prejudiciais ao serviço móvel marítimo.
 
@@ -732,7 +750,7 @@ kHz
 
 1605-2000
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 192 Na Zona tropical da Região 1, com excepção da parte de território da Líbia situada ao norte do paralelo 30º norte, a faixa 1605-1800 kHz é atribuída, adicionalmente, a título secundário, ao serviço de radionavegação aeronáutica (apenas radiofaróis).
 
@@ -758,7 +776,7 @@ kHz
 
 2000-2194
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 200 Na Região 2, serviço limitado às estações de navio que utilizem a radiotelegrafia.
 
@@ -768,7 +786,7 @@ kHz
 
 2194-2625
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 202 Para as condições de utilização desta faixa pelo serviço de radiodifusão, ver os n.os 138, 136 e 423 a 428.
 
@@ -780,7 +798,7 @@ kHz
 
 2625-2850
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 205 Acordos especiais fixarão as condições em que poderão funcionar as estações dos serviços fixo e móvel, de modo a proteger estes serviços contra: as interferências mútuas prejudiciais, tendo especialmente em conta as dificuldades de exploração das estações do serviço móvel marítimo e também as necessidades do serviço fixo em certas zonas.
 
@@ -788,13 +806,13 @@ kHz
 
 2850-3500
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 kHz
 
 3500-4000
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 206 Na Austrália a faixa 3500-3700 kHz é atribuída ao serviço de amador; a faixa 3700-3900 kHz é atribuída aos serviços fixo e móvel.
 
@@ -804,7 +822,7 @@ kHz
 
 4000-4850
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 208 Na U. R. S. S., nas faixas 4063-4133 kHz e 4408-4438 kHz, são autorizadas a funcionar as estações fixas de potência limitada, desde que estejam situadas a mais de 600 km das costas, de modo a reduzir o risco de interferência prejudicial que podem causar ao serviço móvel marítimo. Por estação de potência limitada compreende-se uma estação cuja potência e características de antena sejam tais que o campo produzido num ponto qualquer, em todas as direcções, não ultrapasse o campo produzido por uma antena não direccional a que fosse aplicada uma potência de ponta de 1 kW.
 
@@ -814,7 +832,7 @@ kHz
 
 4850-5480
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 210 A frequência padrão é de 5000 kHz.
 
@@ -822,7 +840,7 @@ kHz
 
 5480-7100
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 211 As frequências compreendidas entre 6200 kHz e 6525 kHz podem ser utilizadas excepcionalmente por estações do serviço fixo de potência média que não ultrapasse 50 W e que comuniquem apenas no interior das fronteiras nacionais, desde que não causem qualquer interferência prejudicial ao serviço móvel marítimo. Quando da notificação dessas frequências chamar-se-á a atenção da Comissão Internacional do Registo de Frequências para os casos especiais.
 
@@ -830,7 +848,7 @@ kHz
 
 7100-9995
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 212 Na União da África do Sul e território da África do Sudoeste a faixa 7100-7150 kHz é atribuída ao serviço de amador.
 
@@ -840,7 +858,7 @@ kHz
 
 9995-12330
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 214 A frequência padrão é 10000 kHz.
 
@@ -852,7 +870,7 @@ kHz
 
 12330-14990
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 217 A frequência a utilizar pelas aplicações industriais, científicas e médicas é 13560 kHz. A energia radioeléctrica emitida por essas aplicações deve ficar contida na faixa que tem por limites (mais ou menos)0,05 por cento daquela frequência. Os serviços de radiocomunicação que desejem funcionar no interior desses limites devem aceitar as interferências prejudiciais que possam produzir-se por virtude daquelas aplicações.
 
@@ -862,7 +880,7 @@ kHz
 
 14990-17900
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 219 A frequência padrão é 15000 kHz.
 
@@ -870,7 +888,7 @@ kHz
 
 17900-21750
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 220 A frequência padrão é 20000 kHz.
 
@@ -880,7 +898,7 @@ kHz
 
 21750-25010
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 222 O serviço móvel marítimo (radiotelegrafia entre navios) pode utilizar as frequências compreendidas entre 23350 kHz e 24000 kHz.
 
@@ -890,7 +908,7 @@ kHz
 
 25010-27500
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 224 Limitado às estações de navio que trabalhem em A1 ou F1.
 
@@ -904,7 +922,7 @@ MHz
 
 27,5-41
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 227 Na Albânia, Bulgária, Hungria, Polónia, Roménia, Suíça, Checoslováquia e U. R. S. S. a faixa 27,5-28 MHz é atribuída, adicionalmente, aos serviços fixo e móvel.
 
@@ -912,7 +930,7 @@ MHz
 
 229 Os sistemas que utilizam a propagação por difusão ionosférica ou outros sistemas do serviço fixo concebidos para assegurar ligações a distâncias que ultrapassem 800 km devem limitar as suas emissões as seguintes faixas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 Aqueles sistemas têm prioridade, na Região 2, nas faixas acima indicadas para esta Região.
 
@@ -934,7 +952,7 @@ MHz
 
 41-68
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 237 São interditos os sistemas que utilizam a propagação por difusão ionosférica e possam causar interferências prejudiciais ao serviço de radiodifusão.
 
@@ -962,7 +980,7 @@ MHz
 
 68-75,4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 248 Na U. R. S. S. as faixas 68-73 MHz e 76-87,5 MHz são atribuídas ao serviço de radiodifusão. Os serviços a que estas faixas são atribuídas noutros países e os serviços de radiodifusão na U. R. S. S. devem ser objecto de acordos locais, a fim de evitar as interferências mútuas prejudiciais.
 
@@ -992,7 +1010,7 @@ MHz
 
 75,2-100
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 260 Na Bélgica, Marrocos e Reino Unido a faixa 78-80 MHz é atribuída, adicionalmente, ao serviço de radionavegação aeronáutica, mas apenas para Os emissores no solo; em França ela é atribuída ao serviço de radionavegação.
 
@@ -1016,7 +1034,7 @@ MHz
 
 100-108
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 269 Nas províncias portuguesas do ultramar da Região 1 ao sul do equador, Rodésia e Niassatândia e na União da África do Sul e território da África do Sudoeste a faixa 100-108 MHz é atribuída ao serviço de radiodifusão.
 
@@ -1030,7 +1048,7 @@ MHz
 
 108-144
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 273 A frequência 121,5 MHz é a frequência aeronáutica de urgência nesta faixa. As estações móveis do serviço móvel marítimo podem comunicar nesta frequência, para fins de segurança, com as estações do serviço móvel aeronáutico.
 
@@ -1060,7 +1078,7 @@ MHz
 
 144-174
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 285 Na Rodésia e Niassalândia e na União da África do Sul e território da África do Sudoeste a faixa 146-174 MHz é atribuída, adicionalmente, ao serviço móvel aeronáutico.
 
@@ -1082,7 +1100,7 @@ MHz
 
 174-235
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 291 Na União da África do Sul e território da África do Sudoeste as faixas 174-181 MHz e 213-216 MHz são atribuídas, adicionalmente, aos serviços fixo e móvel terrestre.
 
@@ -1128,7 +1146,7 @@ MHz
 
 235-401
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 309 A frequência 243 MHz é a frequência a utilizar nesta faixa pelos engenhos de salvamento e pelos dispositivos utilizados para fins de salvamento.
 
@@ -1146,7 +1164,7 @@ MHz
 
 401-420
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 315 Na França a faixa 401-406 MHz é atribuída ao serviço dos auxiliares da meteorologia.
 
@@ -1158,7 +1176,7 @@ MHz
 
 420-470
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 318 Os radioaltímetros podem, adicionalmente, ser utilizados provisoriamente na faixa 420-460 MHz até ao momento em que possam vir a funcionar numa faixa atribuída ao serviço de radionavegação aeronáutica ou até que se tenham tornado inúteis.
 
@@ -1178,13 +1196,13 @@ MHz
 
 470-942
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 MHz
 
 942-960
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 325 No Reino Unido a faixa 582-606 MHz é atribuída, a título primário, ao serviço de radionavegação aeronáutica e, a título secundário, ao serviço de radiolocalização.
 
@@ -1222,7 +1240,7 @@ MHz
 
 960-1350
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 341 As faixas 960-1215 MHz, 1535-1660 MHz, 4200-4400 MHz, 5000-5250 MHz e 15,4-15,7 GHz são reservadas, no Mundo inteiro, para a utilização e desenvolvimento de ajudas electrónicas instaladas a bordo das aeronaves e de instalações terrestres directamente associadas.
 
@@ -1244,7 +1262,7 @@ MHz
 
 1350-1535
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 349 Na Região 2 e na Albânia, Bulgária, Hungria, Polónia, Roménia, Checoslováquia e U. R. S. S. as instalações existentes do serviço de radionavegação podem continuar a funcionar, a título temporário, na faixa 1350-1400 MHz.
 
@@ -1254,7 +1272,7 @@ MHz
 
 1535-1700
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 351 Na Itália a faixa 1535-1600 MHz é atribuída ao serviço fixo. Contudo, quando estiverem desenvolvidos os sistemas de radionavegação aeronáutica nesta faixa, a Itália examinará a possibilidade de alargar a utilização da faixa 15351600 MHz à radionavegação aeronáutica.
 
@@ -1268,7 +1286,7 @@ MHz
 
 1700-2300
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 355 Na Região 1 as faixas 1700-1710 MHz e 2290-2300 MHz são atribuídas aos serviços espaço e terra-espaço, com a condição de não causarem qualquer interferência prejudicial aos outros serviços a que está atribuída esta faixa.
 
@@ -1278,7 +1296,7 @@ MHz
 
 2300-2450
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 357 A frequência a utilizar pelas aplicações industriais, científicas e médicas é de 2450 MHz, excepto na Albânia, Bulgária, Hungria, Polónia, Roménia, Checoslováquia e U. R. S. S., onde é utilizada a frequência 2375 MHz. A energia radioeléctrica emitida por essas aplicações deve estar contida na faixa cujos limites se situam a (mais ou menos)50 MHz das frequências indicadas. Os serviços de radiocomunicação que desejem funcionar no interior desses limites devem aceitar as interferências prejudiciais que se podem produzir por virtude daquelas aplicações.
 
@@ -1292,7 +1310,7 @@ MHz
 
 2450-2700
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 361 Na França e no Reino Unido a faixa 2450-2550 MHz é atribuída, a título primário, ao serviço de radiolocalização e, a título secundário, aos serviços fixo e móvel.
 
@@ -1308,7 +1326,7 @@ MHz
 
 2700-3300
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 366 Os radiodetectores no solo utilizados na faixa 2700-2900 MHz para as necessidades da meteorologia são autorizados a funcionar em base de igualdade com as estações do serviço de radionavegação aeronáutica.
 
@@ -1322,7 +1340,7 @@ MHz
 
 3300-4200
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 370 Na Albânia, Áustria, Bulgária, Hungria, Polónia, Portugal, Roménia, Suíça, Checoslováquia e U. R. S. S. a faixa 3300-3400 MHz é atribuída, adicionalmente, ao serviço de radionavegação.
 
@@ -1350,7 +1368,7 @@ MHz
 
 4200-5000
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 381 Na China e nas Filipinas a faixa 4200-4400 MHz é atribuída, adicionalmente, a título secundário, ao serviço fixo.
 
@@ -1362,7 +1380,7 @@ MHz
 
 5000-5470
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 384 Na Albânia, Áustria, Bulgária, Hungria, Polónia, Roménia, Suécia, Suma, Checoslováquia e U. R. S. S. a faixa 5250-5350 MHz é atribuída, adicionalmente, ao serviço de radionavegação.
 
@@ -1372,7 +1390,7 @@ MHz
 
 5470-5925
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 386 Na Albânia, Bulgária, Hungria, Polónia, Roménia, Checoslováquia e U. R. S. S. a faixa 5470-5650 MHz é atribuída, adicionalmente, ao serviço de radionavegação aeronáutica.
 
@@ -1390,7 +1408,7 @@ MHz
 
 5925-8500
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 392 Na Índia a faixa 6000-6500 MHz é atribuída, adicionalmente, ao serviço de radiolocalização.
 
@@ -1402,7 +1420,7 @@ MHz
 
 8500-9000
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 395 Na Albânia, Áustria, Bulgária, Hungria, Polónia, Roménia, Suécia, Checoslováquia e U. R. S. S. a faixa 8500-8750 MHz é atribuída, adicionalmente, ao serviço de radionavegação.
 
@@ -1416,7 +1434,7 @@ MHz
 
 9000-10500
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 399 Na faixa 9300-9500 MHz o serviço de radionavegação aeronáutica é limitado aos radiodetectores meteorológicos de aeronave e aos radiodetectores em terra. Nesta faixa os radiodetectores no solo utilizados para as necessidades da meteorologia têm prioridade sobre os outros dispositivos de radiolocalização.
 
@@ -1432,7 +1450,7 @@ GHz
 
 10,5-13,25
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 404 Limitado aos sistemas por ondas persistentes.
 
@@ -1442,7 +1460,7 @@ GHz
 
 13,25-15,4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 406 Limitado aos auxiliares à navegação que utilizam o efeito Doppler.
 
@@ -1456,7 +1474,7 @@ GHz
 
 15,4-24,25
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 410 A frequência a utilizar para as aplicações industriais, científicas e médicas é 22,125 GHz. A energia radioeléctrica emitida por essas aplicações deve ficar contida na faixa cujos limites se situam a (mais ou menos)125 MHz dessa frequência. Os serviços de radiocomunicação que desejem funcionar no interior desses limites devem aceitar as interferências prejudiciais que possam produzir-se por virtude de tais aplicações.
 
@@ -1464,7 +1482,7 @@ GHz
 
 24,25-40
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 411 Na faixa 24,25-25,25 GHz apenas são permitidas as ajudas à radionavegação situadas no solo quando o seu funcionamento está associado ao dos dispositivos instalados a bordo de navios ou aeronaves.
 
@@ -2518,7 +2536,7 @@ Procedimento contra as interferências prejudiciais
 
 747 Quadro de atribuição das séries internacionais de indicativos de chamada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 748 § 9. No caso de as disponibilidades deste quadro se esgotarem, poderão atribuir-se novas séries de indicativos de chamada segundo os princípios enunciados na resolução n.º 8 relativa à formação dos indicativos de chamada e à atribuição de novas séries internacionais.
 
@@ -4404,7 +4422,7 @@ Sinais de alarme, de urgência e de segurança
 
 #### SECÇÃO II — Sinal de perigo
 
-1389 § 6. (1) O sinal radiotelegráfico de perigo é constituído pelo grupo ...---... simbolizado por [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf), emitido como um só sinal e no qual se devem acentuar os traços de modo que se distingam nìtidamente dos pontos.
+1389 § 6. (1) O sinal radiotelegráfico de perigo é constituído pelo grupo ...---... simbolizado por [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf), emitido como um só sinal e no qual se devem acentuar os traços de modo que se distingam nìtidamente dos pontos.
 
 1390 (2) O sinal radiotelefónico de perigo é constituído pela palavra MAYDAY, pronunciada como a expressão francesa «m'aider».
 
@@ -4414,7 +4432,7 @@ Sinais de alarme, de urgência e de segurança
 
 1392 § 7. (1) A chamada de perigo emitida em radiotelegrafia compreende:
 
-O sinal de perigo [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (emitido três vezes);
+O sinal de perigo [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (emitido três vezes);
 
 A palavra DE;
 
@@ -4432,7 +4450,7 @@ O indicativo de chamada ou qualquer outra forma de identificação da estação 
 
 1395 § 9. (1) A mensagem radiotelegráfica de perigo compreende:
 
-O sinal de perigo [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf);
+O sinal de perigo [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf);
 
 O nome ou qualquer outra forma de identificação da estação móvel em perigo;
 
@@ -4588,7 +4606,7 @@ A velocidade com que se dirige para a estação móvel em perigo e o espaço de 
 
 1436 § 27. A estação em perigo ou a estação que orienta o tráfego de perigo pode impor o silêncio, quer a todas as estações do serviço móvel da região, quer a uma estação que perturbe o tráfego de perigo. Consoante o caso, dirige essas instruções «a todos» ou sòmente a uma estação. Em ambos os casos, usará:
 
-1437 Em radiotelegrafia, a abreviatura QRT, seguida do sinal de perigo [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf).
+1437 Em radiotelegrafia, a abreviatura QRT, seguida do sinal de perigo [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf).
 
 1438 Em radiotelefonia, o sinal SILANCE MAYDAY, pronunciado como as palavras francesas «silence, m'aider».
 
@@ -4598,7 +4616,7 @@ A velocidade com que se dirige para a estação móvel em perigo e o espaço de 
 
 1441 b) Em radiotelefonia, a palavra SILANCE, pronunciada como a palavra francesa «silence», seguida da palavra PERIGO e do seu indicativo de chamada.
 
-1442 § 29. (1) Em radiotelegrafia; o emprego do sinal QRT [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) deve ficar reservado à estação móvel em perigo e à estação que exerce a orientação do tráfego de perigo.
+1442 § 29. (1) Em radiotelegrafia; o emprego do sinal QRT [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) deve ficar reservado à estação móvel em perigo e à estação que exerce a orientação do tráfego de perigo.
 
 1443 (2) Em radiotelefonia, o emprego do sinal SILANCE MAYDAY fica reservado à estação móvel em perigo e à estação que exerce a orientação do tráfego de perigo.
 
@@ -4618,7 +4636,7 @@ A velocidade com que se dirige para a estação móvel em perigo e o espaço de 
 
 1450 (2) Em radiotelegrafia, essa mensagem apresentará a forma seguinte:
 
-O sinal de perigo [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf);
+O sinal de perigo [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf);
 
 A chamada «a todos» CQ (emitida três vezes);
 
@@ -4666,7 +4684,7 @@ As palavras SILANCE FINI, pronunciadas como as palavras francesas «silence fini
 
 1459 a) Em radiotelegrafia:
 
-O sinal [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf);
+O sinal [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf);
 
 A palavra DE;
 
@@ -4914,7 +4932,7 @@ Pagamento dos saldos
 
 1539 § 19. (1) Quando existam diferenças entre as contas elaboradas por duas administrações ou por duas explorações particulares reconhecidas ou por uma administração e uma exploração particular reconhecida, as contas mensais admitem-se sem revisão quando se verificar um dos casos seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 1540 (2) Começada uma revisão, será suspensa desde que, em seguimento a troca de observações entre as administrações e ou explorações particulares reconhecidas interessadas, se reduza a diferença a um valor que não exceda o máximo fixado no n.º 1539.
 
@@ -5124,7 +5142,9 @@ Pagamento dos saldos
 
 1628 § 14. Ao escolher as características técnicas das emissões de frequências padrão e de sinais horários, as administrações deverão inspirar-se nos pareceres apropriados da C. C. I. R.
 
-### CAPÍTULO XI — ARTIGO 45
+### CAPÍTULO XI
+
+###### ARTIGO 45
 
 Entrada em vigor do Regulamento das radiocomunicações
 
@@ -5568,7 +5588,7 @@ A. Heilmann.
 
 Pela República Federal Popular da Jugoslávia:
 
-M. [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+M. [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 Pela República Socialista Soviética da Ucrânia:
 
@@ -5676,7 +5696,7 @@ Pela África Oriental Britânica:
 
 R. Bolton.
 
-## APÊNDICE 1
+APÊNDICE 1
 
 (Ver o artigo 9)
 
@@ -5762,7 +5782,7 @@ Coluna 8 Potência (em quilowatts).
 
 Coluna 10 Horário máximo (T. M. G.) de funcionamento da ligação para cada localidade ou zona.
 
-#### SECÇÃO D — [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+#### SECÇÃO D — [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 #### SECÇÃO E — Instruções gerais
 
@@ -5952,7 +5972,7 @@ Coluna 11 Ordem de grandeza em megahertz das outras frequências normalmente uti
 
 3. Em casos diferentes dos mencionados nos parágrafos 1 e 2, devem indicar-se as ordens de grandeza das outras frequências normalmente utilizadas para a ligação durante a totalidade de ciclo de actividade solar. Para esse fim, a ordem de grandeza de uma frequência é determinada do seguinte modo, segundo a faixa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 4. Esta informação é uma característica fundamental no caso das estações fixas na faixa de frequências de 4000 kHz a 28000 kHz.
 
@@ -5982,13 +6002,13 @@ Qualquer informação suplementar fornecida pela administração deverá figurar
 
 (nota *) Quando estas informações constarem já do prefácio à Lista internacional das frequências, utilizar o número ou a letra apropriados.
 
-## ANEXO AO APÊNDICE I — [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+## ANEXO AO APÊNDICE I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
-## APÊNDICE 2
+APÊNDICE 2
 
 (Ver o artigo 10)
 
-#### SECÇÃO A — [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+#### SECÇÃO A — [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 #### SECÇÃO B — Instruções gerais
 
@@ -6160,7 +6180,7 @@ TRO Antena para a radiodifusão na zona tropical.
 
 [Exemplo: TRO/4/0,2 significa: antena para a radiodifusão tropical de quatro filas (e 4 dípolos por fila), a uma altura de 0,2 comprimentos de onda acima do solo].
 
-## APÊNDICE 3
+APÊNDICE 3
 
 Quadro das tolerâncias de frequência (ver nota *)
 
@@ -6172,9 +6192,9 @@ Quadro das tolerâncias de frequência (ver nota *)
 
 2. A potência indicada para as diversas categorias de estações é a potência média, tal como definida no artigo 1.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
-## APÊNDICE 4
+APÊNDICE 4
 
 Quadro das tolerâncias para os níveis das radiações não essenciais
 
@@ -6192,9 +6212,9 @@ Quadro das tolerâncias para os níveis das radiações não essenciais
 
 6. Não se indica qualquer tolerância para os emissores que funcionam em frequências fundamentais superiores a 235 MHz. Para esses emissores, os níveis das radiações não essenciais deverão ser tão baixos quanto for possível na prática.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
-## APÊNDICE 5
+APÊNDICE 5
 
 Exemplos de larguras de faixa necessária e de designação das emissões
 
@@ -6230,9 +6250,9 @@ t = Duração do impulso, em segundos.
 
 K = Factor numérico geral que varia segundo a emissão e que depende da distorção admissível do sinal.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
-## APÊNDICE 6
+APÊNDICE 6
 
 Relatórios sobre as observações de fiscalização das emissões
 
@@ -6314,7 +6334,7 @@ k) Observações.
 
 4. Utilizar tanto quanto possível, na transmissão destas informações, os símbolos que figuram no Regulamento das radiocomunicações ou no prefácio à Lista internacional das frequências.
 
-## APÊNDICE 7
+APÊNDICE 7
 
 Relatório sobre uma irregularidade ou uma infracção à Convenção ou aos regulamentos das radiocomunicações
 
@@ -6372,7 +6392,7 @@ Informações relativas à estação cuja emissão é interferida (ver nota 7):
 
 Certifico que o relatório acima é, tanto quanto sei, a descrição completa e fiel do que aconteceu.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 Indicações para preencher esta fórmula
 
@@ -6392,7 +6412,7 @@ Indicações para preencher esta fórmula
 
 (nota 8) No caso de se tratar de uma estação fixa ou terrestre, deverá indicar-se a posição em latitude e longitude (Greenwich).
 
-[(ver nota referente no documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[[(ver nota referente no documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 Para uso exclusivo da administração
 
@@ -6402,7 +6422,7 @@ Para uso exclusivo da administração
 
 3. Medidas tomadas ...
 
-## APÊNDICE 8
+APÊNDICE 8
 
 Relatório de interferência prejudicial
 
@@ -6450,7 +6470,7 @@ Q. Medidas pedidas ...
 
 (Por comodidade e brevidade, os relatórios telegráficos serão semelhantes ao modelo atrás indicado; utilizar-se-ão, pela ordem acima enumerada, as letras que designam cada uma das rubricas em vez das próprias rubricas; inscrever-se-á em seguida a letra «X» se não fornecer qualquer dado relativo à rubrica considerada).
 
-## APÊNDICE 9
+APÊNDICE 9
 
 Documentos de serviço
 
@@ -6460,7 +6480,7 @@ LISTA I
 
 Lista internacional das frequências
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 LISTA II
 
@@ -6470,7 +6490,7 @@ Nomes dos países por ordem alfabética das abreviaturas.
 
 Nomes das estações por ordem alfabética.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 LISTA III-A
 
@@ -6480,7 +6500,7 @@ Nomes dos países por ordem alfabética das abreviaturas.
 
 Nomes das estações por ordem alfabética.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 LISTA III-B
 
@@ -6490,23 +6510,23 @@ Nomes dos países por ordem alfabética das abreviaturas.
 
 Nomes das estações por ordem alfabética.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 LISTA IV
 
 Nomenclatura das estações costeiras
 
-# PARTE A — Índice alfabético das estações costeiras
+## PARTE A — Índice alfabético das estações costeiras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
-# PARTE B — Estados sinaléticos das estações costeiras
+## PARTE B — Estados sinaléticos das estações costeiras
 
 Nomes dos países por ordem alfabética das abreviaturas.
 
 Nomes das estações por ordem alfabética.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 LISTA V
 
@@ -6572,11 +6592,11 @@ Nomenclatura das estações de radiodeterminação e das estações que efectuam
 
 (Para fins da navegação, é conveniente utilizar a presente nomenclatura com precaução. Ver artigo 43 do Regulamento das radiocomunicações, Genebra, 1959).
 
-# PARTE A — Índice alfabético das estações
+## PARTE A — Índice alfabético das estações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
-# PARTE B — Estados sinaléticos das estações
+## PARTE B — Estados sinaléticos das estações
 
 1. Estações radiogoniométricas
 
@@ -6584,7 +6604,7 @@ Nomes dos países por ordem alfabética das abreviaturas.
 
 Nomes das estações por ordem alfabética.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 2. Estações de radiofarol
 
@@ -6592,7 +6612,7 @@ Nomes dos países por ordem alfabética de abreviaturas.
 
 Nomes das estações por ordem alfabética.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 3. Navios-estações oceânicas
 
@@ -6600,7 +6620,7 @@ Regiões oceânicas por ordem alfabética.
 
 Nomes das estações por ordem alfabética.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 4. Estações que emitem sinais para a calibração dos goniómetros
 
@@ -6608,7 +6628,7 @@ Nomes dos países por ordem alfabética das abreviaturas.
 
 Nomes das estações por ordem alfabética.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 5. Estações que emitem sinais horários
 
@@ -6616,7 +6636,7 @@ Nomes dos países por ordem alfabética das abreviaturas.
 
 Nomes das estações por ordem alfabética.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 6. Estações que emitem frequências padrão
 
@@ -6624,7 +6644,7 @@ Nomes dos países por ordem alfabética das abreviaturas.
 
 Nomes das estações por ordem alfabética.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 7. Estações que emitem boletins meteorológicos regulares
 
@@ -6632,7 +6652,7 @@ Nomes dos países por ordem alfabética das abreviaturas.
 
 Nomes das estações por ordem alfabética.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 8. Estações que emitem avisos à navegação
 
@@ -6640,7 +6660,7 @@ Nomes dos países por ordem alfabética das abreviaturas.
 
 Nomes das estações por ordem alfabética.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 9. Estações que emitem pareceres médicos
 
@@ -6648,7 +6668,7 @@ Nomes dos países por ordem alfabética das abreviaturas.
 
 Nomes das estações por ordem alfabética.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 10. Estações que emitem boletins epidemiológicos
 
@@ -6656,7 +6676,7 @@ Nomes dos países por ordem alfabética das abreviaturas.
 
 Nomes das estações por ordem alfabética.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 11. Estações que emitem ursigramas
 
@@ -6664,11 +6684,11 @@ Nomes dos países por ordem alfabética das abreviaturas.
 
 Nomes das estações por ordem alfabética.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 Nota. - O secretário-geral, se considerar necessário, introduzirá nesta nomenclatura secções suplementares relativas aos novos dispositivos, à medida que se expandir o seu emprego.
 
-[(ver nota referente no documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[[(ver nota referente no documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 LISTA VIII
 
@@ -6676,13 +6696,13 @@ Nomenclatura das estações de fiscalização internacional das emissões
 
 (Ver o artigo 13)
 
-# PARTE I — Organismos centralizadores
+## PARTE I — Organismos centralizadores
 
 Nomes dos países por ordem alfabética das abreviaturas.
 
 - Organismo centralizador nacional (endereço postal e telegráfico, número de telefone e outras informações).
 
-# PARTE II — A. Estados sinaléticos das estações de fiscalização que efectuam medidas de frequência
+## PARTE II — A. Estados sinaléticos das estações de fiscalização que efectuam medidas de frequência
 
 Nomes dos países por ordem alfabética das abreviaturas.
 
@@ -6772,27 +6792,27 @@ Nomes das estações por ordem alfabética.
 
 Estatística das radiocomunicações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
-## APÊNDICE 10
+APÊNDICE 10
 
 Notações utilizadas nos documentos de serviço
 
 (Ver o artigo 20 e o apêndice 9)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) Estação a bordo de um navio de guerra ou de uma aeronave do exército ou da marinha («GS»)(ver nota 1).
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) Estação a bordo de um navio de guerra ou de uma aeronave do exército ou da marinha («GS»)(ver nota 1).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) Estação classificada como situada numa região de grande tráfego (artigo 32) («TI»)(ver nota 1).
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) Estação classificada como situada numa região de grande tráfego (artigo 32) («TI»)(ver nota 1).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) De dia («HJ»)(ver nota 1).
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) De dia («HJ»)(ver nota 1).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) De noite («HN»)(ver nota 1).
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) De noite («HN»)(ver nota 1).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) Navio provido de embarcações de salvamento equipadas com aparelhos radioeléctricos; o número entre parêntesis rectos indica a quantidade das embarcações de salvamento («S»)(ver nota 1).
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) Navio provido de embarcações de salvamento equipadas com aparelhos radioeléctricos; o número entre parêntesis rectos indica a quantidade das embarcações de salvamento («S»)(ver nota 1).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) Navio de grande tráfego («HS»)(ver nota 1).
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) Navio de grande tráfego («HS»)(ver nota 1).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) Aparelhos de radiodetecção [«R(»](ver nota 1).
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) Aparelhos de radiodetecção [«R(»](ver nota 1).
 
 AL Estação terrestre de radionavegação aeronáutica.
 
@@ -6904,7 +6924,7 @@ TV Via imagem (televisão).
 
 (nota 1) O símbolo que figura entre parêntesis, curvos ou rectos, pode ser utilizado nas notificações.
 
-## APÊNDICE 11
+APÊNDICE 11
 
 Documentos de que devem estar providas as estações de navio e as estações de aeronave
 
@@ -6996,7 +7016,7 @@ Estas estações devem estar providas:
 
 3. Dos outros documentos que contenham as informações oficiais relativas às estações a que pode recorrer a estação de aeronave para executar o seu serviço.
 
-## APÊNDICE 12
+APÊNDICE 12
 
 Horas de serviço das estações de navio classificadas na 2.ª categoria
 
@@ -7004,11 +7024,11 @@ Horas de serviço das estações de navio classificadas na 2.ª categoria
 
 #### SECÇÃO I — Quadro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
-#### SECÇÃO II. GRÁFICO — [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+#### SECÇÃO II. GRÁFICO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
-## APÊNDICE 13
+APÊNDICE 13
 
 Abreviaturas e sinais diversos a empregar nas comunicações radiotelegráficas
 
@@ -7036,17 +7056,17 @@ Abreviaturas utilizáveis em todos os serviços
 
 A) Lista das abreviaturas por ordem alfabética
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 B) Lista das abreviaturas consoante a natureza das perguntas, respostas ou pareceres
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 #### SECÇÃO II — Abreviaturas e sinais diversos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
-## APÊNDICE 14
+APÊNDICE 14
 
 Códigos SINPO e SINPFEMO
 
@@ -7054,11 +7074,11 @@ Códigos SINPO e SINPFEMO
 
 Código SINPO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 Código SINPFEMO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 Observações especiais:
 
@@ -7072,19 +7092,19 @@ d) A apreciação de conjunto para a radiotelegrafia deve ser interpretada como 
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 e) A apreciação de conjunto para a telefonia deve ser interpretada como se indica no quadro III:
 
 QUADRO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
-## APÊNDICE 15
+APÊNDICE 15
 
 Quadro das frequências a utilizar pelas estações de navio nas faixas atribuídas em exclusivo ao serviço móvel marítimo entre 4 MHz e 27,5 MHz.
 
@@ -7114,15 +7134,15 @@ As frequências de trabalho (onda de suporte) numa determinada faixa
 
 #### SECÇÃO A — Frequências a consignar às estações radiotelegráficas de navio que utilizam as faixas de serviço móvel marítimo compreendidas entre 4 MHz e 27,5 MHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 #### SECÇÃO B
 
 Frequências das ondas de suporte das estações radiotelefónicas de navio que utilizam as faixas do serviço móvel marítimo compreendido entre 4 MHz e 23 MHz.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
-## APÊNDICE 16
+APÊNDICE 16
 
 Quadro de soletração das letras e dos algarismos
 
@@ -7130,11 +7150,11 @@ Quadro de soletração das letras e dos algarismos
 
 1. Quando for necessário soletrar indicativos de chamada, abreviaturas regulamentares ou palavras, utiliza-se o quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 2. Contudo, as estações de um mesmo país podem utilizar, quando comunicam entre si, outro quadro estabelecido pela administração de que dependem.
 
-## APÊNDICE 17
+APÊNDICE 17
 
 Vias radiotelefónicas bilaterais nas faixas do serviço móvel marítimo compreendidas entre 4000 kHz e 23000 kHz
 
@@ -7154,7 +7174,7 @@ Vias radiotelefónicas bilaterais nas faixas do serviço móvel marítimo compre
 
 3.2.2 Uma estação que trabalhe na metade inferior de uma via utiliza a faixa lateral superior, sendo a frequência da onda de suporte inferior à frequência central indicada no quadro da quantidade seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 A frequência consignada a uma tal estação é superior, em 1400 Hz, ao valor acima indicado para a frequência da onda de suporte.
 
@@ -7162,9 +7182,9 @@ A frequência consignada a uma tal estação é superior, em 1400 Hz, ao valor a
 
 Quadro das frequências da emissão (em kHz)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
-## APÊNDICE 18
+APÊNDICE 18
 
 Quadro das frequências de emissão para o serviço móvel marítimo radiotelefónico na faixa 156-174 MHz (ver nota *)
 
@@ -7172,7 +7192,7 @@ Quadro das frequências de emissão para o serviço móvel marítimo radiotelef�
 
 (Ver o artigo 35)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 Notas referentes ao quadro
 
@@ -7190,7 +7210,7 @@ Notas referentes ao quadro
 
 (g) Nos Estados Unidos da América as frequências 156,35 MHz, 156,90 MHz, 156,95 MHz, 157,05 MHz, 157,10 MHz, 157,15 MHz e 157,20 MHz não estão disponíveis para o emprego previsto neste quadro. Estas frequências são aí utilizadas para outros fins no serviço móvel marítimo.
 
-## APÊNDICE 19
+APÊNDICE 19
 
 Características técnicas dos emissores e receptores utilizados no serviço móvel marítimo na faixa 156-174 MHz
 
@@ -7204,7 +7224,7 @@ Características técnicas dos emissores e receptores utilizados no serviço mó
 
 4. A largura da faixa das frequências acústicas não deve exceder 3000 Hz.
 
-## APÊNDICE 20
+APÊNDICE 20
 
 Aparelhos automáticos destinados à recepção dos sinais de alarme radiotelegráfico e radiotelefónico
 
@@ -7230,7 +7250,7 @@ b) O aparelho não deve entrar em funcionamento com parasitas atmosféricos ou c
 
 c) O aparelho deve poder funcionar para além da distância em que a transmissão da palavra é satisfatória. Deve, tanto quanto seja praticável, comportar um dispositivo que sinalize as avarias susceptíveis de impedir o seu funcionamento normal durante os períodos de vigília.
 
-## APÊNDICE 21
+APÊNDICE 21
 
 Modelo de relação para a contabilidade dos radiotelegramas e das comunicações radiotelefónicas
 
@@ -7242,9 +7262,9 @@ Conta de ... comunicações radiotelefónicas
 
 permutados(as) entre um país A e um país B por intermédio das estações costeiras do país A durante o mês de ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
-## APÊNDICE 22
+APÊNDICE 22
 
 Pagamento dos saldos das contas
 
@@ -7292,7 +7312,7 @@ c) Se a moeda de pagamento for uma moeda livre não apreciada em ouro pelo Fundo
 
 (4) Se, por acordo entre as duas administrações ou explorações privadas reconhecidas interessadas, a moeda de pagamento for a indicada na alínea (3), d), do § 2 acima, o saldo em francos-ouro é convertido numa moeda-ouro ou numa moeda livre; o resultado obtido é convertido em moeda do país devedor. Este é seguidamente convertido em moeda do país credor, segundo o câmbio oficial em vigor no país devedor no dia ou na véspera da transferência ou da compra do cheque ou da letra.
 
-## APÊNDICE 23
+APÊNDICE 23
 
 Procedimento de obtenção dos azimutes radiogoniométricos e das posições
 
@@ -7370,7 +7390,7 @@ QUADRO
 
 Classificação dos azimutes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 Obtenção de uma posição determinada por duas ou mais estações radiogoniométricas organizadas em grupo.
 
@@ -7402,15 +7422,15 @@ Obtenção dos azimutes simultâneos de duas ou mais estações radiogoniométri
 
 § 9. A um pedido de azimutes, a estação de comando de um grupo de estações radiogoniométricas procede como se indica no § 8 Transmite em seguida os azimutes tomados por cada estação do grupo, fazendo preceder cada azimute do indicativo de chamada da estação que o determinou.
 
-## Apêndice 24
+Apêndice 24
 
 MAPA DAS REGIÕES PREVISTAS NO QUADRO DA REPARTIÇÃO DAS FAIXAS DE FREQUÊNCIAS
 
 (VÊR OS NÚMEROS 125 A 132 E 135)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
-## APÊNDICE 25
+APÊNDICE 25
 
 Plano de adjudicação de frequências às estações costeiras radiotelefónicas que funcionam nas faixas exclusivas do serviço móvel marítimo entre 4000 kHz e 23000 kHz.
 
@@ -7420,17 +7440,17 @@ Nota 2. - Recomenda-se aos países que desejem pôr em serviço frequências sup
 
 #### SECÇÃO I — Frequências para as quais se deve inserir na col. 2a do Ficheiro de referência internacional das frequências a data de 3 de Dezembro de 1951
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 #### SECÇÃO II — Frequências para as quais deve ser inserida na coluna 2b do Ficheiro de referência internacional das frequências a data de 4 de Dezembro de 1951
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
-## APÊNDICE 26
+APÊNDICE 26
 
 Plano de adjudicação das frequências para o serviço móvel aeronáutico e informações correspondentes
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
 #### SECÇÃO I — Definições
 
@@ -7440,7 +7460,7 @@ Plano que indica as frequências a utilizar numa zona ou por um país, sem preci
 
 2. Significação da terminologia empregada no presente Apêndice para os diferentes métodos de repartição das frequências:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 3. Uma linha aérea mundial principal é uma linha de grande comprimento, compreendendo um ou vários troços, cujo carácter é essencialmente internacional, que se estende por vários países e exije comunicações a longa distância.
 
@@ -7462,7 +7482,7 @@ A. Determinação da largura das vias
 
 Os espaçamentos entre frequências indicados no quadro seguinte permitem o emprego de sistemas de comunicação de rendimento elevado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 a) Supõe-se que, para as emissões da classe A3, as frequências de modulação têm por limite superior 3000 Hz e, para as outras classes de emissões autorizadas, a radiação das faixas laterais não excede a das emissões da classe A3.
 
@@ -7480,7 +7500,7 @@ No quadro seguinte encontra-se a lista das frequências a adjudicar nas faixas e
 
 kHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 3. Vias comuns aos serviços (R) e (OR):
 
@@ -7524,7 +7544,7 @@ As coordenadas geográficas que figuram nos quadros seguintes são dadas em rela
 
 As diferentes curvas foram elaboradas nas condições de partilha de frequências adoptadas pela Conferência Internacional Administrativa das Radiocomunicações Aeronáuticas (C. I. A. R. A., 1948-1949), a saber:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 Curvas suplementares permitem determinar as possibilidades de repetição para utilização diurna das frequências compreendidas nas faixas 3 MHz, 3,5 MHz e 4,7 MHz.
 
@@ -7546,57 +7566,57 @@ A orientação das curvas é tal que são utilizáveis para o hemisfério norte;
 
 3,0 MHz, noite
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 3,5 MHz, noite
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 4,7 MHz, noite
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 5,6 MHz e 6,6 MHz, noite
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 3,0 e 3,5 MHz, dia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 4,7 MHz, dia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 5,6 MHz, dia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 6,6 MHz, dia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 Nota: Para as faixas 3,0-3,5-4,7-5,6 MHz e 6,6 MHz não é necessário indicar pontos intermediários para o traçado das curvas, as quais correspondem aproximadamente a uma circunferência nas condições de propagação diurna.
 
 9,0 MHz, dia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 10,0 MHz, dia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 11,3 MHz, dia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 C. Potência radiada
 
 Salvo indicação contrária figurando nas partes II e IV, supõe-se que as potências de ponta radiadas são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
-# PARTE II — Plano de adjudicação das frequências para o serviço móvel aeronáutico (R) nas suas faixas exclusivas entre 2850 kHz e 17970 kHz
+## PARTE II — Plano de adjudicação das frequências para o serviço móvel aeronáutico (R) nas suas faixas exclusivas entre 2850 kHz e 17970 kHz
 
 #### SECÇÃO I — Descrição dos limites das zonas e subdivisões de zonas (ver nota *)
 
@@ -7726,23 +7746,23 @@ Zona das linhas aéreas regionais e nacionais - 1:
 
 Do pólo norte, ao longo do meridiano 15º W, pelos pontos 72º N 15º W, 40º N 50º W, 30º N 39º W, 30º N 10º W, 31º N 10º W e 31º N 10º E; depois, segue o traçado: fronteira da Líbia com a Tunísia até ao Mediterrâneo, costas da Líbia e do Egipto até Alexandria, em seguida em direcção ao Cairo; daí segue para este, ao longo do paralelo do Cairo até à intersecção com o meridiano 40º E; depois para norte, ao longo desse meridiano até à margem sul do mar Negro, depois ao longo das costas turcas, para oeste, até à intersecção com o meridiano 30º E; ao longo desse meridiano até à fronteira da Roménia com a U. R. S. S., depois as fronteiras da U. R. S. S. com a Roménia, a Hungria, a Checoslováquia, a Polónia; costas soviéticas do Báltico até à fronteira da Finlândia com a U. R. S. S. e, daí, passando pelo ponto 70º N 32º E e seguindo o meridiano, até ao pólo norte.
 
-##### Subdivisão de zona 1A:
+Subdivisão de zona 1A:
 
 Esta subdivisão é delimitada por uma linha que parte do ponto 65º N 26º W, passa pelos pontos situados a 40º N 50º W, 40º N 13º W, 60º N 13º W, 60º N 26º W, até ao ponto 65º N 26º W.
 
-##### Subdivisão de zona 1B:
+Subdivisão de zona 1B:
 
 Esta subdivisão é delimitada por uma linha que parte do pólo norte e segue o meridiano 15º W, passa pelos pontos seguintes: 72º N 15º W, 65º N 26º W, 60º N 26º W, 60º N 13º W e 50º N 13º W, depois se dirige para leste, passando pelas águas territoriais entre as ilhas anglo-normandas e a costa francesa, que alcança no meridiano 03º W, para contornar seguidamente a fronteira nordeste da França com a Bélgica, Luxemburgo e Alemanha; daí segue ao longo da fronteira da Suíça com a Alemanha e da Alemanha com a Áustria. Contorna a seguir a linha de demarcação que separa as zonas de ocupação oriental e ocidental da Alemanha, alcança a fronteira oeste da Checoslováquia em direcção ao mar Báltico, depois dirige-se para oeste, contornando a costa alemã até à fronteira entre a Alemanha e a Dinamarca; contorna depois essa fronteira até ao mar do Norte e daí, ao longo do paralelo 55º N, alcança o ponto 55º N 04º E, para em seguida atingir o pólo norte pelo meridiano 04º E.
 
-##### Subdivisão de zona 1C:
+Subdivisão de zona 1C:
 
 Esta subdivisão é delimitada por uma linha que parte do pólo norte, passa pelo ponto 55º N 04º E, para contornar a seguir o paralelo 55º N em direcção a este da fronteira que separa a Dinamarca da Alemanha, até ao mar Báltico. Contorna a seguir a costa alemã do mar Báltico até à linha de demarcação entre as zonas de ocupação oriental e ocidental da Alemanha; contorna depois essa linha de demarcação e segue as fronteiras ocidentais da Checoslováquia e da Áustria, da Suíça e da Áustria, para se dirigir em seguida para este, contornando as fronteiras meridionais da Áustria e da Hungria até ao ponto de intersecção das fronteiras da Checoslováquia, da Hungria e da Roménia; daí ao longo da fronteira da U. R. S. S. com a Checoslováquia e a Polónia, até às costas do mar Báltico. A seguir contorna as costas soviéticas do mar Báltico e segue-as até à fronteira fino-soviética, para alcançar o pólo norte, passando pelo ponto 70º N 32º E.
 
-##### Subdivisão de zona 1D:
+Subdivisão de zona 1D:
 
 Esta subdivisão é delimitada por uma linha que parte do ponto de intersecção das fronteiras da Checoslováquia, da Hungria e da Roménia para se dirigir para o oeste e contornar as fronteiras meridionais da Hungria e da Áustria até à fronteira da Suíça com a Itália, depois segue a fronteira da França, com a Itália até ao mar Mediterrâneo e daí passa pelos pontos 43º N 10º E, 41º N 10º E e 41º N 07º E; depois segue o meridiano 07º E até à costa do Norte de África, contorna a costa do Norte de África, passando por Tunes, Tripoli e Bengazi até à fronteira da Líbia com o Egipto. Passa então pela costa em direcção a Alexandria, depois em direcção ao Cairo, depois segue o paralelo do Cairo até ao ponto de intersecção com o meridiano 40º E, dirige-se seguidamente para o norte, pelo meridiano 40º E, até às costas meridionais do mar Negro, daí para oeste ao longo da costa turca do mar Negro, para alcançar o meridiano 30º E e segui-lo até à fronteira da Roménia com a Ucrânia; contorna esta fronteira até ao ponto de intersecção das fronteiras da Checoslováquia, da Hungria e da Roménia.
 
-##### Subdivisão de zona 1E:
+Subdivisão de zona 1E:
 
 Esta subdivisão é delimitada por uma linha que parte do ponto 50º N 13º W, passa pelos pontos 40º N 13º W, 40º N 50º W, 30º N 39º W, 30º N 10º W, 31º N 10º W e 31º N 10º E. Em seguida contorna a fronteira da Líbia com a Tunísia até ao Mediterrâneo e depois contorna a costa tunisiana até ao ponto de intersecção com o meridiano 10º E, depois até ao ponto 43º N 10º E. Contorna seguidamente a fronteira franco-italiana e a fronteira ítalo-suíça, depois as fronteiras que separam a Suíça da Áustria e da Alemanha, a França da Alemanha, do Luxemburgo e da Bélgica até às costas da Mancha e depois, seguindo para oeste, atravessa as águas territoriais entre as ilhas da Mancha e a costa francesa para atingir o ponto 50º N 13º W.
 
@@ -7752,15 +7772,15 @@ Zona das linhas aéreas regionais e nacionais - 2:
 
 Esta zona é delimitada por uma linha que parte do pólo norte, passa pelo ponto 70º N 32º E, para contornar depois a fronteira fino-soviética até às costas do mar Báltico, segue depois as águas territoriais soviéticas ao longo das costas do mar Báltico até à fronteira que separa a U. R. S. S. da Polónia, para seguir a fronteira que separa a U. R. S. S. dos países seguintes: Polónia, Checoslováquia, Hungria e Roménia até ao ponto de intersecção da costa do mar Negro com o meridiano 30º E. Segue este meridiano até às costas turcas do mar Negro, contorna esta costa até à intersecção das fronteiras da Turquia e da U. R. S. S. e depois contorna a sua fronteira comum e a fronteira do Irão com a U. R. S. S. até ao mar Cáspio, depois a costa iraniana deste mar. Depois segue a fronteira meridional da U. R. S. S. até ao ponto de intersecção das fronteiras da Mongólia, da China e da U. R. S. S., a cerca de 49º N 88º E, para seguir depois o meridiano 88º E até ao paralelo 55º N e contornar este paralelo até 60º E, seguindo depois o meridiano 60º E até alcançar o pólo norte.
 
-##### Subdivisão de zona 2A:
+Subdivisão de zona 2A:
 
 Esta subdivisão é delimitada por uma linha que parte do pólo norte, segue o meridiano 32º E até ao ponto 70º N 32º E, para seguir a fronteira fino-soviética até às costas do mar Báltico, depois contorna as águas territoriais soviéticas do mar Báltico até ao ponto 55º N 20º E; depois passa por Moscovo e pelo ponto 55º N 60º E, alcançando o pólo norte pelo meridiano 60º E.
 
-##### Subdivisão de zona 2B:
+Subdivisão de zona 2B:
 
 Esta subdivisão é delimitada por uma linha que parte do ponto 55º N 88º E, passa pelos pontos 55º N 60º E, 47º N 53º E, para seguir depois a costa oriental do mar Cáspio até às costas do Irão, daí dirige-se para este, seguindo a fronteira meridional da U. R. S. S. até ao ponto de intersecção das fronteiras da Mongólia, da China e da U. R. S. S., em cerca de 49º N 88º E, e contornar seguidamente o meridiano 88º E até ao ponto situado a 55º N.
 
-##### Subdivisão de zona 2C:
+Subdivisão de zona 2C:
 
 Esta subdivisão é delimitada por uma linha que parte do ponto situado a 55º N 60º E, vai até Moscovo e depois até ao ponto 55º N 20º E, para se dirigir seguidamente para o sul, pela fronteira que separa a U. R. S. S. da Polónia, depois seguindo a fronteira entre a U. R. S. S. e os países seguintes: Polónia, Checoslováquia, Hungria e Roménia, até às costas do mar Negro, no seu ponto de intersecção com o meridiano 30º E. Esta linha segue então o meridiano 30º E até à costa turca do mar Negro e contorna a seguir essa costa até à intersecção das fronteiras da Turquia e da U. R. S. S. e depois contorna a sua fronteira comum e a fronteira do Irão com a U. R. S. S. até ao mar Cáspio; segue a costa meridional do mar Cáspio e dirigi-se para o norte, seguindo a costa oriental desse mar e, passando pelo ponto 47º N 53º E, alcança o ponto 55º N 60º E.
 
@@ -7770,15 +7790,15 @@ Zona das linhas aéreas regionais e nacionais - 3:
 
 Esta zona é delimitada por uma linha que parte do pólo norte, segue o meridiano 60º E até ao ponto 55º N 60º E, para contornar segundamente o paralelo 55º N até 88º E e depois seguir esse meridiano até ao ponto de intersecção das fronteiras da Mongólia, da China e da U. R. S. S. em 49º N 88º E aproximadamente, depois contorna a fronteira que separa a Mongólia da China e a U. R. S. S. da China até à costa. Passa então entre as águas territoriais soviéticas e japonesas e, pelos pontos 43º N 147º E, 50º N 164º E e 65º N 170º W, alcança o pólo norte seguindo o meridiano 170º W.
 
-##### Subdivisão de zona 3A:
+Subdivisão de zona 3A:
 
 Esta subdivisão é delimitada por uma linha que, partindo do pólo norte, segue o meridiano 60º E até ao ponto 55º N 60º E, seguindo o paralelo 55º N até ao ponto de intersecção com o meridiano 88º E e depois, passando pelos pontos 60º N 88º E e 60º N 110º E, alcança o pólo norte, seguindo o meridiano 110º E.
 
-##### Subdivisão de zona 3B:
+Subdivisão de zona 3B:
 
 Esta subdivisão é delimitada por uma linha que parte do pólo norte, segue o meridiano 110º E e passa a seguir pelos pontos 60º N 110º E, 60º N 147º E, 43º N 147º E, 50º N 164º E e 65º N 170º W e alcança o pólo norte, seguindo o meridiano 170º W.
 
-##### Subdivisão de zona 3C:
+Subdivisão de zona 3C:
 
 Esta subdivisão é delimitada por uma linha que parte do ponto 60º N 88º E, alcança o ponto de intersecção das fronteiras entre a Mongólia, a China e a U. R. S. S. a 49º N 88º E, aproximadamente, seguindo a fronteira da Mongólia e China e a fronteira da U. R. S. S. e da China, até à costa. Contorna a seguir as águas territoriais que separam a U. R. S. S. e o Japão e, passando pelos pontos 43º N 147º E, 60º N 147º E, alcança o ponto 60º N 88º E.
 
@@ -7788,11 +7808,11 @@ Zona das linhas aéreas regionais e nacionais - 4:
 
 Esta zona é delimitada por uma linha que, partindo do ponto 30º N 39º W, passa pelos pontos seguintes: 10º N 20º W, 05º S 20º W, 05º S 12º E, depois segue a fronteira setentrional do Congo Belga (excepto o território de Cabinda), contorna a da África Equatorial Francesa e do Sudão, depois dirige-se para o norte ao longo da fronteira ocidental do Sudão. Depois essa linha segue a fronteira ocidental do Egipto, continua para o norte até ao Mediterrâneo e contorna a costa mediterrânica e atlântica do Norte de África até ao ponto situado a 30º N 10º W. Depois segue o paralelo 30º N em direcção a oeste, para alcançar o ponto situado a 30º N 39º W, ponto limite da dita zona.
 
-##### Subdivisão de zona 4A:
+Subdivisão de zona 4A:
 
 Esta subdivisão é delimitada por uma linha que parte do ponto 30º N 39º W, passa pelo ponto 21º N 31º W, depois por Gao e Zinder. A partir daí, contorna a fronteira setentrional da Nigéria até um ponto situado a oeste de Port-Lamy. Contorna então o paralelo de Port-Lamy até um ponto situado a 12º N 22º E. Dirige-se a seguir para o norte, seguindo a fronteira ocidental do Sudão e a fronteira ocidental do Egipto até ao Mediterrâneo, para contornar seguidamente a costa mediterrânica e atlântica do Norte de África até um ponto situado a 30º N 10º W, para seguir depois o paralelo 30º N até ao ponto 30º N 39º W, ponto limite da dita zona.
 
-##### Subdivisão de zona 4B:
+Subdivisão de zona 4B:
 
 Esta subdivisão é delimitada por uma linha que parte do ponto 21º N 31º W, passa pelos pontos 10º N 20º W, 05º S 20º W, 05º S 12º E, e depois contorna a fronteira meridional da África Equatorial Francesa, até ao ponto de intersecção das fronteiras que separam o Congo Belga, o Sudão e a África Equatorial Francesa. Depois contorna a fronteira ocidental do Sudão até ao ponto situado a 12º N 22º E, para contornar em seguida o paralelo de Port-Lamy até à fronteira da Nigéria. Depois dirige-se para oeste, seguindo essa fronteira até Zinder. Desse ponto, regressa ao ponto de partida 21º N 31º W passando por Gao.
 
@@ -7802,19 +7822,19 @@ Zona das linhas aéreas regionais e nacionais - 5:
 
 Esta zona é delimitada por uma linha que parte do ponto 41º N 40º E e passa pelo ponto 37º N 40º E, para contornar a seguir a fronteira que separa a Turquia e a Síria até à costa mediterrânica e depois atingir o ponto em que a fronteira comum da Líbia e do Egipto alcança a costa do Norte de África, ficando Chipre fora da zona. Dirige-se depois para o sul, seguindo a fronteira ocidental do Egipto e do Sudão até à fronteira do Quénia. Daí dirige-se para leste, contornando a fronteira norte do Quénia e, em direcção ao sul, segue a fronteira que separa o Quénia da Somália, para alcançar a costa oriental de África no ponto 02º S 41º E. Continua passando pelos pontos 02º S 73º E e 37º N 73º E e contorna em direcção a leste a fronteira entre o Afeganistão e o Paquistão. Depois, dirigindo-se para oeste, segue a fronteira meridional da U. R. S. S. até ao mar Cáspio. Em seguida, contorna a fronteira norte do Irão e da Turquia até 41º N 40º E.
 
-##### Subdivisão de zona 5A:
+Subdivisão de zona 5A:
 
 Esta subdivisão é delimitada por uma linha que parte do ponto 37º N 40º E, segue a fronteira que separa a Turquia da Síria até à costa mediterrânica e depois alcança o local em que a fronteira comum da Líbia e do Egipto alcança a costa do Norte de África, não passando por Chipre. Depois dirige-se para o sul, contorna a fronteira ocidental do Egipto e, seguindo para leste, alcança o ponto 24º N 37º E, situado na fronteira comum do Egipto e do Sudão. Continua passando pelos pontos 12º N 44º E, 12º N 49º E, 30º N 49º E, e, contornando a fronteira que separa o Irão do Iraque e a fronteira que separa o Iraque da Turquia, atinge finalmente o ponto 37º N 40º E.
 
-##### Subdivisão de zona 5B:
+Subdivisão de zona 5B:
 
 Esta subdivisão é delimitada por uma linha que parte do ponto 41º N 40º E, passa pelo ponto 37º N 40º E; depois dirige-se para leste, contorna a fronteira que separa a Turquia da Síria e do Iraque e a fronteira que separa o Iraque e o Irão, até ao ponto 30º N 49º E; depois corta o golfo Pérsico ao meio, passando por 24º N 60º E, Bombaim e 37º N 73º E, para contornar a seguir, em direcção a leste, a fronteira que separa o Afeganistão do Paquistão e, em direcção a oeste, a fronteira meridional da U. R. S. S., até ao mar Cáspio. Daí segue a fronteira norte do Irão e da Turquia até 41º N 40º E.
 
-##### Subdivisão de zona 5C:
+Subdivisão de zona 5C:
 
 Esta subdivisão é delimitada por uma linha que parte do ponto 30º N 49º E, passa pelos pontos 12º N 49º E, 13º N 54º E, 02º S 54º E, 02º S 73º E, Bombaim, 24º N 60º E e depois corta o golfo Pérsico ao meio e alcança o ponto 30º N 49º E.
 
-##### Subdivisão de zona 5D:
+Subdivisão de zona 5D:
 
 Esta subdivisão é delimitada por uma linha que parte do ponto de encontro das fronteiras do Egipto, Líbia e Sudão, segue a fronteira ocidental do Sudão em direcção ao sul até à fronteira do Quénia, contorna em seguida a fronteira norte do Quénia para se dirigir para o sul seguindo a fronteira que separa o Quénia da Somália, até à costa oriental de África, a um ponto situado a 02º S 42º E, depois passa pelos pontos 02º S 54º E, 13º N 54º E, 12º N 49º E, 12º N 44º E, e dirige-se depois para noroeste, cortando o mar Vermelho ao meio, até ao ponto 24º N 37º E. Depois contorna a fronteira meridional do Egipto, para voltar ao ponto de partida.
 
@@ -7824,27 +7844,27 @@ Zona das linhas aéreas regionais e nacionais - 6:
 
 Esta zona é delimitada por uma linha que parte aproximadamente do ponto 49º N 88.º E, contorna a fronteira que separa a China da U. R. S. S., o Afeganistão do Paquistão, o Irão do Paquistão, até ao ponto 23º N 61º E, depois chega a Bombaim, contorna o meridiano 73º E e passa pelos pontos 02º S 73º E, 02º S 92º E, 10º S 92º E, 10º S 141º E, 00º 141º E, 00º 170º W, 10º N 170º W, 50º N 164º E, 43º N 147º E. Depois passa em direcção a leste, entre as águas territoriais japonesas e soviéticas, segue as fronteiras nordeste e setentrional da China para alcançar o ponto de partida, aproximadamente 49º N 88º E.
 
-##### Subdivisão de zona 6A:
+Subdivisão de zona 6A:
 
 Esta subdivisão de zona é delimitada por uma linha que parte do ponto 37º N 75º E, contorna a fronteira que separa o Paquistão do Afeganistão, o Irão do Paquistão até ao ponto 23º N 61º E e depois continua até Bombaim, depois até ao ponto 24º N 80º E e depois até Calcutá. A seguir contorna a costa do Paquistão e da Birmânia até à fronteira que separa a Birmânia da Tailândia, segue ao longo dessa fronteira e da que separa a Birmânia da Indochina Francesa para continuar para o norte, ao longo da fronteira que separa a China dos seguintes países: Birmânia, Butão, Nepal e Índia, alcançando o ponto 37º N 75º E.
 
-##### Subdivisão de zona 6B:
+Subdivisão de zona 6B:
 
 Esta subdivisão é delimitada por uma linha que parte aproximadamente do ponto 49º N 88º E, contorna a fronteira sino-soviética até ao ponto 37º N 75º E e depois contorna a fronteira que separa a China dos seguintes países: Índia, Nepal, Butão, Índia, Birmânia, Indochina Francesa, até à costa da China Meridional. Depois continua contornando as águas territoriais da ilha de Hainão e passa pelos pontos 20º N 113º E, 20º N 176 W, 50º N 164º E, 43º N 147º E, depois dirige-se para leste, passando entre as águas territoriais japonesas e soviéticas, e contorna a seguir a fronteira que separa a China da U. R. S. S. e a fronteira que separa a China da Mongólia, para alcançar o ponto 49º N 88º E, aproximadamente.
 
-##### Subdivisão de zona 6C:
+Subdivisão de zona 6C:
 
 Esta subdivisão de zona é delimitada por uma linha que parte do ponto 20º N 130º E, passa pelos pontos 04º N 130º E, 04º N 118º E, e depois contorna a fronteira que separa Bornéu do Norte da Indonésia até à costa, para passar a seguir pelos pontos 03º N 109º E, 03º N 106º E, 10º S 106º E, 10º S 141º E, 00º 141º E, 00º 170º W, 10º N 170º W, 20º N 176º W e, deste último ponto, alcançar o ponto 20º N 130º E.
 
-##### Subdivisão de zona 6D:
+Subdivisão de zona 6D:
 
 Esta subdivisão é delimitada por uma linha que parte do ponto de encontro das fronteiras da China, da Índia e da Birmânia, dirige-se para o sul contornando a fronteira que separa a Birmânia da Índia e a Birmânia do Paquistão e alcança o golfo de Bengala; depois, contorna a costa da Birmânia até ao ponto mais meridional, passa seguidamente pelos pontos 02º S 92º E, 10º S 92º E, 10º S 113º E, depois contorna o meridiano 113º E até à fronteira que separa Bornéu do Norte da Indonésia e daí dirige-se para leste, seguindo essa fronteira e depois pelos pontos 04º N 118º E, 04º N 130º E, 20º N 130º E, 20º N 113º E. Dirige-se para o sul, contornando a ilha de Hainão e segue a fronteira que separa a China e a Indochina Francesa e a seguir a fronteira que separa a China da Birmânia, para regressar ao ponto de partida, o ponto de encontro das fronteiras da China, da Índia e da Birmânia.
 
-##### Subdivisão de zona 6E:
+Subdivisão de zona 6E:
 
 Esta subdivisão é delimitada por uma linha que parte do ponto 20º N 73º E, passa pelos pontos 02º S 73º E, 02º S 92º E, 10º N 97ºE, e contorna a seguir a costa da Birmânia, do Paquistão e da Índia e alcança Calcutá, para continuar depois até 24º N 80º E e 20º N 73º E.
 
-##### Subdivisão de zona 6F:
+Subdivisão de zona 6F:
 
 Esta subdivisão é delimitada por uma linha que parte do ponto de encontro das fronteiras da China, da Índia e da Birmânia, dirige-se para nordeste até ao meridiano 100º E. Segue este meridiano até ao limite setentrional da subdivisão de zona 6B, dirige-se a seguir para leste, seguindo este limite até 130º E, depois para sul, seguindo o meridiano 130º E até 04º N. Depois dirige-se primeiro para oeste, depois seguindo o limite da subdivisão de zona 6D até ao ponto de encontro das fronteiras da China, da Índia e da Birmânia.
 
@@ -7854,7 +7874,7 @@ Zona das linhas aéreas regionais e nacionais - 7:
 
 Esta zona é delimitada por uma linha que parte do pólo sul, segue o meridiano 20º W e passa a seguir pelos pontos 05º S 20º W e 05º S 12º E, contorna a seguir a fronteira setentrional do Congo Belga (incluindo o território de Cabinda), a fronteira que separa a Uganda do Sudão e a fronteira que separa o Quénia dos seguintes países: Sudão, Abissínia e Somália; passa pelos pontos 02º S 42º E, 02º S 60º E; finalmente alcança o pólo sul seguindo o meridiano 60º E.
 
-##### Subdivisão de zona 7A:
+Subdivisão de zona 7A:
 
 Esta subdivisão é delimitada por uma linha que parte do pólo sul, segue o meridiano 20º W e passa depois por 05º S 20º W, 05º S 10º E, 40º S 10º E, 40º S 60º E, e alcança o pólo sul seguindo o meridiano 60º E.
 
@@ -7862,15 +7882,15 @@ Sudivisão de zona 7B:
 
 Esta subdivisão de zona é delimitada por uma linha que parte do ponto 05º S 10º E, passa pelo ponto 05º S 12º E para contornar a fronteira setentrional do Congo Belga (incluindo o território de Cabinda) até ao ponto de encontro das fronteiras da Uganda, do Congo Belga e do Sudão, depois segue a fronteira oriental e meridional do Congo Belga (incluindo os territórios de Ruanda-Urundi) e de Angola até à costa do Atlântico Sul, passa pelo ponto 17º S 10º E e alcança o ponto 05º S 10º E.
 
-##### Subdivisão de zona 7C:
+Subdivisão de zona 7C:
 
 Esta subdivisão é delimitada por uma linha que parte do ponto de encontro das fronteiras da Uganda, do Congo Belga e do Sudão, segue a fronteira ocidental da Uganda e do Tanganhica e contorna a seguir a fronteira meridional do Tanganhica até à costa. Depois passa pelos pontos 11º S 41º E, 11º S 60º E, 02º S 60º E, 02º S 41º E, até à costa oriental da África; depois dirige-se para o norte, seguindo a fronteira oriental e setentrional do Quénia, e alcança o ponto de encontro das fronteiras do Congo Belga, Sudão e Uganda.
 
-##### Subdivisão de zona 7D:
+Subdivisão de zona 7D:
 
 Esta subdivisão é delimitada por um linha que parte da fronteira que separa o Tanganhica de Moçambique no lago Niassa, dirige-se para o sul, seguindo em todo o comprimento a fronteira ocidental de Moçambique até às costas orientais da África; passa depois pelos pontos 27º S 33º E, 40º S 33º E, 40º S 60º E, 11º S 60º E, 11º S 41º E, para contornar a costa setentrional de Moçambique até ao lago Niassa.
 
-##### Subdivisão de zona 7E:
+Subdivisão de zona 7E:
 
 Esta subdivisão é delimitada por uma linha que passa pelos pontos 17º S 10º E, 40º S 10º E, 40º S 33º E, 27º S 33º E, depois contorna em todo o comprimento a fronteira ocidental de Moçambique até ao lago Niassa. Depois segue a fronteira que separa a Rodésia do Tanganhica, para contornar seguidamente as fronteiras que separam o Congo Belga da Rodésia, Angola da Rodésia e Angola da União Sul-Africana, até à costa, para alcançar o ponto 17º S 10º E.
 
@@ -7880,7 +7900,7 @@ Zona das linhas aéreas regionais e nacionais - 8:
 
 Esta zona é delimitada por uma linha que parte do pólo sul, segue o meridiano 60º E e passa pelos pontos 02º S 60º E, 02º S 92º E, 10º S 92º E, 10º S 110º E, para alcançar o pólo sul seguindo o meridiano 110º E.
 
-##### Subdivisão de zona 8A:
+Subdivisão de zona 8A:
 
 Esta subdivisão é delimitada por uma linha que parte do pólo sul, segue o meridiano 60º E e passa pelos pontos 02º S 60º E, 02º S 92º E, 10º S 92º E, 10º S 110º E, para alcançar o pólo sul seguindo o meridiano 110º E.
 
@@ -7890,23 +7910,23 @@ Zona das linhas aéreas regionais e nacionais - 9:
 
 Esta zona é delimitada por uma linha que parte do pólo sul, segue o meridiano 110º E e passa pelos pontos 10º S 110º E, 10º S 141º E, 00º 141º E, 00º 170º W, 10º N 170º W, 05º S 120º W, para alcançar o pólo sul seguindo o meridiano 120º W.
 
-##### Subdivisão de zona 9A:
+Subdivisão de zona 9A:
 
 A linha que delimita esta subdivisão é definida pelos pontos 10º S 110º E, 24º S 110º E, 24º S 141º E, 10º S 141º E, 10º S 110º E.
 
-##### Subdivisão de zona 9B:
+Subdivisão de zona 9B:
 
 A linha que delimita esta subdivisão é definida pelos pontos 00º 141º E, 24º S 141º E, 24º S 170º W, 00º 170º W, 00º 141º E.
 
-##### Subdivisão de zona 9C:
+Subdivisão de zona 9C:
 
 A linha que delimita esta subdivisão parte do pólo sul, segue o meridiano 170º W, passa pelos pontos 10º N 170º W, 05º S 120º W, e alcança o pólo sul seguindo o meridiano 120º W.
 
-##### Subdivisão de zona 9D:
+Subdivisão de zona 9D:
 
 A linha que delimita esta subdivisão parte do pólo sul, segue o meridiano 139º E, passa pelos pontos 24º S 139º E, 24º S 170º W, e regressa ao pólo sul seguindo o meridiano 170º W.
 
-##### Subdivisão de zona 9E.
+Subdivisão de zona 9E.
 
 A linha que delimita esta subdivisão parte do pólo sul, segue o meridiano 110º E, passa pelos pontos 24º S 110º E, 24º S 139º E, e regressa ao pólo sul seguindo o meridiano 139º E.
 
@@ -7914,23 +7934,23 @@ Zona das linhas aéreas regionais e nacionais - 10:
 
 (ZLARN-10)
 
-##### Subdivisão de zona 10A:
+Subdivisão de zona 10A:
 
 A linha que delimita esta subdivisão passa pelos pontos 50º N 164º E, 66º N 169º W; depois passa pelo pólo norte, depois pelos pontos 57º N 130º W, 57º N 150º W, 50º N 175º W, para voltar ao ponto de partida 50º N 164º E.
 
-##### Subdivisão de zona 10B:
+Subdivisão de zona 10B:
 
 A linha que delimita esta zona parte do ponto 57º N 140º W, passa pelo pólo norte, depois pelos pontos 48º N 91º W, 48º N 127º W, 57º N 139º W, e volta ao ponto de partida 57º N 140º W.
 
-##### Subdivisão de zona 10C:
+Subdivisão de zona 10C:
 
 A linha que delimita esta subdivisão é definida pelos pontos 57º N 140º W, 60º N 140º W, 60º N 91º W, 48º N 91º W, 48º N 127º W, 57º N 139º W, 57º N 140º W.
 
-##### Subdivisão de zona 10D:
+Subdivisão de zona 10D:
 
 A linha que delimita esta subdivisão parte do ponto 48º N 98º W, depois passa pelo pólo norte pelos pontos 69º N 45º W, 61º N 70º W, 45º N 72º W, 41º N 81º W, 41º N 88º W, 48º N 91º W, 48º N 98º W.
 
-##### Subdivisão de zona 10E:
+Subdivisão de zona 10E:
 
 A linha que delimita esta subdivisão passa pelos pontos 45º N 74º W, 61º N 72º W, 69º N 47º W, depois pelo pólo norte e pelos pontos 72º N 15º W, 40º N 50º W, 40º N 65º W, para voltar ao ponto de partida 45º N 74º W.
 
@@ -7938,39 +7958,39 @@ Zona das linhas aéreas regionais e nacionais - 11:
 
 (ZLARN-11)
 
-##### Subdivisão de zona 11A:
+Subdivisão de zona 11A:
 
 A linha que delimita esta subdivisão parte do ponto 29º N 180º, depois contorna o limite que separa as regiões 2 e 3 da U. I. T., até 50º N 164º E, e depois pelos pontos 50º N 150º W, 57º N 139º W, 50º N 127º W, 33º N 127º W 33º N 153º W, 29º N 153º W, para voltar ao ponto de partida 29º N 180º.
 
-##### Subdivisão de zona 11B:
+Subdivisão de zona 11B:
 
 A linha que delimita esta zona é definida pelos pontos 33º N 127º W, 50º N 127º W, 50º N 104º W, 27º N 104º W e 33º N 119º W, para voltar ao ponto de partida 33º N 127º W.
 
-##### Subdivisão de zona 11C:
+Subdivisão de zona 11C:
 
 A linha que delimita esta zona é definida pelos pontos 29º N 106º W, 50,5º N 106º W, 50,5º N 92º W, 47º N 72º W, 45º N 72º W, 40º N 81º W, 40º N 85º W, 30º N 85º W e 25º N 96º W, para voltar ao ponto de partida 29º N 106º W.
 
-##### Subdivisão de zona 11D:
+Subdivisão de zona 11D:
 
 A linha que delimita esta zona é definida pelos pontos 29º N 90º W, 50º N 90º W, 47º N 64º W, 23º N 78º W e 23º N 83º W, para voltar ao ponto de partida 29º N 90º W.
 
-##### Subdivisão de zona 11E:
+Subdivisão de zona 11E:
 
 A linha que delimita esta subdivisão é definida pelos pontos 39º N 125º W, 50º N 125º W, 50º N 93º W, 46º N 93º W, 42º N 86º W, 36º N 86º W e 36º N 121º W, para voltar ao ponto de partida 39º N 125º W.
 
-##### Subdivisão de zona 11F:
+Subdivisão de zona 11F:
 
 A linha que delimita esta subdivisão é definida pelos pontos 46º N 94º W, 49º N 94º W, 47º N 65º W, 36º N 74º W, 36º N 88º W, 42º N 88º W, para voltar ao ponto de partida 46º N 94º W.
 
-##### Subdivisão de zona 11G:
+Subdivisão de zona 11G:
 
 A linha que delimita esta subdivisão é definida pelos pontos 29º N 95º W, 39º N 95º W, 44º N 66º W, 23º N 77º W, 23º N 83º W, 23º N 91º W, para voltar ao ponto de partida 29º N 95º W.
 
-##### Subdivisão de zona 11H:
+Subdivisão de zona 11H:
 
 A linha que delimita esta subdivisão é definida pelos pontos 33º N 127º W, 40º N 127º W, 40º N 89º W, 29º N 89º W, 25º N 98º W, 33º N 119º W, para voltar ao ponto de partida 33º N 127º W.
 
-##### Subdivisão de zona 11I:
+Subdivisão de zona 11I:
 
 A linha que delimita esta subdivisão passa pelos pontos 25º N 77º W, 42º N 68º W, 40º N 65º W, 40º N 50º W, depois contorna o limite que separa as regiões 1 e 2 da U. I. T. até 25º N 35º W, para voltar ao ponto de partida 25º N 77º W.
 
@@ -7978,43 +7998,43 @@ Zona das linhas aéreas regionais e nacionais - 12:
 
 (ZLARN-12)
 
-##### Subdivisão de zona 12A:
+Subdivisão de zona 12A:
 
 A linha que delimita esta subdivisão parte do ponto situado a 10º N 170º W, depois contorna o limite que separa as regiões 2 e 3 da U. I. T. até ao ponto 29º N 180º e passa pelos pontos 29º N 153º W, 10º N 153º W para voltar ao ponto de partida 10º N 170º W.
 
-##### Subdivisão de zona 12B:
+Subdivisão de zona 12B:
 
 A linha que delimita esta subdivisão parte do ponto 10º N 170º W, depois contorna o limite que separa as regiões 2 e 3 da U. I. T., até 29º N 180º e depois passa por 29º N 153º W, 33º N 153º W, 33º N 120º W, 17º N 115º W, 14º N 93º W, 02º N 86º W, 02º N 93º W, 05º S 93º W, 05º S 120º W, depois enfim contorna o limite entre as regiões 2 e 3 da U. I. T. e volta ao ponto de partida 10º N 170º W.
 
-##### Subdivisão de zona 12C:
+Subdivisão de zona 12C:
 
 A linha que delimita esta subdivisão é definida pelos pontos 33º N 120º W, 35º N 120º W, 32º N 104º W, 25º N 91º W, 23º N 83º W, 22º N 83º W, 13º N 90º W, 16º N 116º W, para voltar ao ponto de partida 33º N 120º W.
 
-##### Subdivisão de zona 12D:
+Subdivisão de zona 12D:
 
 A linha que delimita esta subdivisão passa pelos pontos 20º N 91º W, 26º N 91º W, 26º N 79º W, 27º N 79º W, 27º N 76,5º W, 26º N 73º W, 17º N 58º W, 10º N 58º W e deste último ponto a Balboa (zona do Canal), depois à ilha do Cisne e a Belize, para voltar ao ponto de partida 20º N 91º W.
 
-##### Subdivisão de zona 12E:
+Subdivisão de zona 12E:
 
 A linha que delimita esta subdivisão é definida pelos pontos 15º N 95º W, 23º N 92º W, 23º N 85º W, 19º N 85º W, 09º N 77º W, 02º N 79º W, 02º N 86º W, 14º N 93º W, para voltar ao ponto de partida 15º N 95º W.
 
-##### Subdivisão de zona 12F:
+Subdivisão de zona 12F:
 
 A linha que delimita esta subdivisão passa pelos pontos 04º S 93º W, 02º N 93º W, 02º N 79º W, depois por Balboa (zona do Canal) e pelos pontos 13º N 77º W, 13º N 70º W, 08º N 70º W, 06º N 67º W, 01º N 66º W, 04º S 70º W, depois contorna a fronteira que separa a Colômbia do Perú até ao ponto de encontro das fronteiras da Colômbia, do Perú e do Equador, contorna a fronteira que separa o Peru do Equador, passa pelo ponto 04º S 81º W, para voltar ao ponto de partida 04º S 93º W.
 
-##### Subdivisão de zona 12G:
+Subdivisão de zona 12G:
 
 A linha que delimita esta subdivisão é definida pelos pontos 07º N 73º W, 14º N 73º W, 14º N 58º W, 01º N 58º W, 01º N 68º W, 05º N 69º W, para voltar ao ponto de partida 07º N 73º W.
 
-##### Subdivisão de zona 12H:
+Subdivisão de zona 12H:
 
 A linha que delimita esta subdivisão é definida pelos pontos 04º S 70º W, 05º N 70º W, 05º N 61º 15' W, 08º 45' N 60º W, 08º N 58º W, 08º N 54º W, 00º 44º W, 04º S 44º W, para voltar ao ponto de partida 04º S 70º W.
 
-##### Subdivisão de zona 12I:
+Subdivisão de zona 12I:
 
 A linha que delimita esta subdivisão passa pelos pontos 25º N 70º W, 25º N 35º W, depois contorna o limite que separa as regiões 1 e 2 da U. I. T. até ao ponto 00º 20º W, depois passa pelos pontos 00º 44º W, 08º N 54º W, 08º N 58º W, 17º N 58º W, para voltar ao ponto de partida 25º N 70º W.
 
-##### Subdivisão de zona 12J:
+Subdivisão de zona 12J:
 
 A linha que delimita esta subdivisão é definida pelos pontos 31º N 117º W, 33º N 107º W, 33º N 96º W, 31º N 81º W, 33º N 64º W, 18º N 59º W, 08º N 59º W, 08º N 85º W, 18º N 102º W, para voltar ao ponto de partida 31º N 117º W.
 
@@ -8022,55 +8042,55 @@ Zona das linhas aéreas regionais e nacionais - 13:
 
 (ZLARN-13)
 
-##### Subdivisão de zona 13A:
+Subdivisão de zona 13A:
 
 A linha que delimita esta subdivisão de zona passa pelos pontos 05º S 120º W, 05º S 81º W, 19º S 81º W, 19º S 73º W, 25º S 73º W, 25º S 81º W, 57º S 81º W, 57º S 90º W, depois pelo pólo sul e meridiano 120º W, para voltar ao ponto de partida 05º S 120º W.
 
-##### Subdivisão de zona 13B:
+Subdivisão de zona 13B:
 
 A linha que delimita esta subdivisão é definida pelos pontos 29º S 111º W, 24º S 111º W, 24º S 104º W, 29º S 104º W, para voltar ao ponto de partida 29º S 111º W.
 
-##### Subdivisão de zona 13C:
+Subdivisão de zona 13C:
 
 A linha que delimita esta subdivisão passa pelos pontos 19º S 81º W, 04º S 82º W, 03º S 80º W, depois contorna a fronteira setentrional entre o Peru e o Equador, até ao ponto 00º 75º W, e a seguir a fronteira setentrional entre o Peru e a Colômbia e a fronteira que separa o Brasil da Colômbia; depois passa pelos pontos 00º 69º W, 11º S 69º W, 11º S 67º W, 19º S 67º W e termina no ponto 19º S 81º W.
 
-##### Subdivisão de zona 13D:
+Subdivisão de zona 13D:
 
 A linha que delimita esta subdivisão é definida pelos pontos 19º S 73º W, 15º S 73º W, 15º S 70º W, 09º S 70º W, 09º S 65º W, 18º S 56º W, 21º S 56º W, 24º S 61º W, 24º S 69º W, 19º S 69º W, para voltar ao ponto de partida 19º S 73º W.
 
-##### Subdivisão de zona 13E:
+Subdivisão de zona 13E:
 
 A linha que delimita esta subdivisão passa pelos pontos 57º S 81º W, 25º S 81º W, 25º S 73º W, 16º S 73º W, 16º S 68º W, 22º S 67º W, depois segue a fronteira entre o Chile e a Argentina até 52º S 67º W, depois 57º S 67º W, 57º S 40º W, e segue ao longo do meridiano 40º W até ao pólo sul e ao ponto 57º S 90º W, para voltar ao ponto de partida 57º S 81º W.
 
-##### Subdivisão de zona 13F:
+Subdivisão de zona 13F:
 
 A linha que delimita esta subdivisão passa pelos pontos 57º S 81º W, 32º S 81º W, 32º S 69º W, depois segue a fronteira entre o Chile e a Argentina e passa pelos pontos 52º S 67º W, 57º S 67º W, 57º S 40º W, até ao pólo sul, e atinge o ponto 57º S 90º W, para voltar ao ponto de partida 57º S 81º W.
 
-##### Subdivisão de zona 13G:
+Subdivisão de zona 13G:
 
 A linha que delimita esta subdivisão passa pelos pontos 57º S 90º W, 57º S 70º W, 52º S 70º W, depois segue a fronteira entre a Argentina e o Chile e passa pelos pontos 21º S 68º W, 21º S 62º W, 25º S 56º W, 25º S 53º W, 28º S 53º W, 29º S 56º W, 57º S 56º W, 57º S 40º W, depois passa pelo pólo sul, para voltar ao ponto de partida 57º S 90º W.
 
-##### Subdivisão de zona 13H:
+Subdivisão de zona 13H:
 
 A linha que delimita esta subdivisão passa pelos pontos 57º S 90º W, 57º S 70º W, 52º S 70º W, depois segue a fronteira entre a Argentina e o Chile e passa pelos pontos 32º S 70º W, 34º S 56º W, 57º S 56º W, 57º S 40º W e pólo sul, para voltar ao ponto de partida 57º S 90º W.
 
-##### Subdivisão de zona 13I:
+Subdivisão de zona 13I:
 
 A linha que delimita esta subdivisão é definida pelos pontos 24º S 63º W, 18º S 63º W, 18º S 56º W, 22º S 56º W, 22º S 53º W, 29º S 53º W, 29º S 47º W, 37º S 56º W, 37º S 59º W, 25º S 59º W, para voltar ao ponto de partida 24º S 63º W.
 
-##### Subdivisão de zona 13J:
+Subdivisão de zona 13J:
 
 A linha que delimita esta subdivisão passa pelos pontos 01º S 70º W, 01º S 63º W, 03º N 63º W, 03º N 60º W, 01º S 60º W, 01º S 48º W, 03º S 48º W, 03º S 50º W, 16º S 50º W, 16º S 48º W, 20º S 39º W, 32º S 50º W, 20º S 58º W, 10º S 66º 43' W, depois segue as fronteiras que separam o Brasil, a Bolívia e o Peru e passa pelos pontos 07º 33' S 74º W, 04º S 74º W, para voltar ao ponto de partida 01º S 70º W.
 
-##### Subdivisão de zona 13K:
+Subdivisão de zona 13K:
 
 A linha que delimita esta subdivisão é definida pelos pontos 04º 30' N 52º W, 04º 30' N 51º W, 00º 48º W, 03º S 38º W, 03º S 32º W, 05º S 32º W, 20º S 39º W, 27º S 45º W, 20º S 50º W, 03º S 50º W, 03º S 52º W, para voltar ao ponto de partida 04º 30' N 52º W.
 
-##### Subdivisão de zona 13L:
+Subdivisão de zona 13L:
 
 A linha que delimita esta subdivisão é definida pelos pontos 20º S 58º W, 20º S 53º W, 16º S 53º W, 16º S 48º W, 20º S 39º W, 34º 30' S 52º 40' W, 30º S 58º W, para voltar ao ponto de partida 20º S 58º W.
 
-##### Subdivisão de zona 13M:
+Subdivisão de zona 13M:
 
 A linha que delimita esta subdivisão passa pelos pontos 00º 32º W, 00º 20º W, depois pelo pólo sul e a seguir pelos pontos 57º S 40º W, 57º S 56º W, 37º S 56º W, 20º S 38º W, 40º S 32º W, para voltar ao ponto de partida 00º 32º W.
 
@@ -8082,11 +8102,11 @@ A linha que delimita esta subdivisão passa pelos pontos 00º 32º W, 00º 20º 
 
 Notas:
 
-a) [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) indica uma restrição (no emprego da frequência considerada) cujo sentido serei lido na coluna 3 dos quadros do artigo 2 seguinte.
+a) [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) indica uma restrição (no emprego da frequência considerada) cujo sentido serei lido na coluna 3 dos quadros do artigo 2 seguinte.
 
 b) A lista seguinte não compreende as frequências comuns (no Mundo inteiro) aos serviços móveis aeronáuticos (R) e (OR): 3023,5 kHz e 5680 kHz.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 ###### ARTIGO 2 — Plano de adjudicação das frequências
 
@@ -8114,9 +8134,9 @@ A utilização das frequências adjudicadas a título secundário não deve caus
 
 Plano das frequências (R)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
-# PARTE III — Princípios técnicos e de exploração aplicados na adjudicação das frequências ao serviço móvel aeronáutico (OR)
+## PARTE III — Princípios técnicos e de exploração aplicados na adjudicação das frequências ao serviço móvel aeronáutico (OR)
 
 #### SECÇÃO I — Faixas de frequências e vias disponíveis
 
@@ -8186,7 +8206,7 @@ A distância entre as estações interessadas deve ser pelo menos igual à metad
 
 As administrações interessadas devem estabelecer acordo para reduzir de noite a potência radiada pelas estações aeronáuticas, a fim de poderem utilizar essas frequências durante a noite.
 
-# PARTE IV — Plano de adjudicação das frequências para o serviço móvel aeronáutico (OR) nas faixas compreendidas entre 2505 kHz e 23350 kHz
+## PARTE IV — Plano de adjudicação das frequências para o serviço móvel aeronáutico (OR) nas faixas compreendidas entre 2505 kHz e 23350 kHz
 
 1. No Plano foram utilizadas as seguintes abreviaturas:
 
@@ -8478,13 +8498,13 @@ Exemplo:
 
 (81) significa «Alemanha de Leste».
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) significa «Redes da Comunidade Francesa».
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) significa «Redes da Comunidade Francesa».
 
 2. Plano das frequências (OR)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
-## APÊNDICE A
+APÊNDICE A
 
 Estudo e previsão da propagação e dos ruídos radioeléctricos
 
@@ -9242,7 +9262,7 @@ c) As adjudicações que figuram nos planos contidos nos apêndices 25 e 26 ao R
 
 (Ver o parágrafo 3 da presente resolução)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 ## ANEXO 2 — Faixas atribuídas em exclusivo ao serviço móvel aeronáutico entre 2850 kHz e 18030 kHz
 
@@ -9480,11 +9500,11 @@ e decide:
 
 ## ANEXO 1 — Faixas inferiores a 3950 kHz (4000 kHz na Região 2), com excepção das faixas atribuídas em exclusivo ao serviço móvel aeronáutico acima de 2850 kHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 ## ANEXO 2 — Faixas partilhadas entre 3950 kHz (4000 kHz na Região 2) e 27500 kHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 RESOLUÇÃO N.º 5
 
@@ -9522,7 +9542,7 @@ decide:
 
 que, nos documentos da União onde figuram, os termos enumerados a seguir sejam usados nas diversas línguas de trabalho da União segundo o quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 RESOLUÇÃO N.º 7
 
@@ -10274,9 +10294,9 @@ A Conferência Administrativa das Radiocomunicações, Genebra, 1959, considera 
 
 A Conferência Administrativa das Radiocomunicações aplicou ela própria esses princípios, elaborando modelos de licença que são objecto dos anexos 2 e 3 juntos à presente recomendação.
 
-## ANEXO 2 — [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+## ANEXO 2 — [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
-## ANEXO 3 — [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+## ANEXO 3 — [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 RECOMENDAÇÃO N.º 18
 
@@ -10560,15 +10580,15 @@ Exemplo: «Latitude 43º 52' N Longitude 023º 20' W. Tenho de abandonar o meu n
 
 4.1 Quadro de soletração das letras:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 4.2 Quadro de soletração dos algarismos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 SEGUNDA PARTE
 
-# Parte decifrante — A
+## Parte decifrante — A
 
 AA Azimute (ou marcação verdadeira, rumo verdadeiro, etc.) seguido obrigatòriamente de três algarismos.
 
@@ -10602,9 +10622,9 @@ BD Tenho seguimento a vante.
 
 BJ Continue a marcha a vante.
 
-BKW Interceptei uma mensagem [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) de um navio (indicado) em (ponto indicado) e vou socorrê-lo.
+BKW Interceptei uma mensagem [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) de um navio (indicado) em (ponto indicado) e vou socorrê-lo.
 
-BKX Recebi [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) do (navio indicado) em (ponto indicado), às (horas indicadas), mas não posso socorrê-lo. Poderá ir em seu socorro?
+BKX Recebi [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) do (navio indicado) em (ponto indicado), às (horas indicadas), mas não posso socorrê-lo. Poderá ir em seu socorro?
 
 BM O aparelho (avião ou hidroavião) dado como em perigo está a receber auxílio.
 
@@ -10760,7 +10780,7 @@ LC Fique dentro do alcance visual.
 
 LEW A minha posição estimada é:
 
-LFB A posição indicada pelo navio que lançou o [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) está errada. Tenho o seu azimute obtido por radiogoniómetro e posso trocar azimutes com qualquer outro navio.
+LFB A posição indicada pelo navio que lançou o [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) está errada. Tenho o seu azimute obtido por radiogoniómetro e posso trocar azimutes com qualquer outro navio.
 
 LFX Qual é a sua posição actual?
 
@@ -10788,19 +10808,19 @@ LZ O meu navio está desgovernado.
 
 M
 
-MA A posição indicada com [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) pela aeronave era:
+MA A posição indicada com [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) pela aeronave era:
 
 MB Há um navio em perigo na direcção ou na posição indicada.
 
 MC O navio indicado parece estar em perigo.
 
-MD Ouviu o [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) transmitido por uma aeronave às (horas indicadas)?
+MD Ouviu o [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) transmitido por uma aeronave às (horas indicadas)?
 
 ME Avistou ou ouviu falar de um navio em perigo?
 
 MF O navio (indicado o azimute, eventualmente) está em perigo?
 
-MG Qual era a posição indicada pelo [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) lançado pela aeronave?
+MG Qual era a posição indicada pelo [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) lançado pela aeronave?
 
 MT As máquinas estão paradas.
 
@@ -10810,11 +10830,11 @@ N Numérico, seguido do número de algarismos pretendido.
 
 NC Estou em perigo e necessito socorro imediato.
 
-NSE Interceptei um [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) de um aparelho (avião ou hidroavião), situado em (posição aproximada indicada).
+NSE Interceptei um [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) de um aparelho (avião ou hidroavião), situado em (posição aproximada indicada).
 
-NSF Interceptei um [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) de um navio situado em (posição aproximada indicada).
+NSF Interceptei um [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) de um navio situado em (posição aproximada indicada).
 
-NSG Recebi [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) do (navio indicado) em, a (posição indicada) às (horas indicadas), mas nada mais voltei a ouvir.
+NSG Recebi [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) do (navio indicado) em, a (posição indicada) às (horas indicadas), mas nada mais voltei a ouvir.
 
 NW Estou com fogo a bordo. Envie embarcações para recolher passageiros e tripulação.
 
@@ -10918,7 +10938,7 @@ ZN Quais são a direcção e a força do vento?
 
 TERCEIRA PARTE
 
-# Parte cifrante
+## Parte cifrante
 
 A parte cifrante do presente anexo está dividida em nove secções. Cada título de secção evoca a ideia geral das mensagens nela contidas.
 
@@ -10930,21 +10950,21 @@ Secções
 
 #### Secção 1. - Aeronave.
 
-#### Secção 2. - Avarias.
+Secção 2. - Avarias.
 
-#### Secção 3. - Riscos, urgência, segurança da navegação.
+Secção 3. - Riscos, urgência, segurança da navegação.
 
-#### Secção 4. - Perigo, pedido de socorro ou de assistência.
+Secção 4. - Perigo, pedido de socorro ou de assistência.
 
 #### Secção 5. - Manobras.
 
-#### Secção 6. - Ponto, posição, datas, horas, numérico e diversos.
+Secção 6. - Ponto, posição, datas, horas, numérico e diversos.
 
 #### Secção 7. - Busca.
 
-#### Secção 8. - Reboque. Rebocadores.
+Secção 8. - Reboque. Rebocadores.
 
-#### Secção 9. - Tráfego de perigo e de salvamento.
+Secção 9. - Tráfego de perigo e de salvamento.
 
 #### SECÇÃO 1 — Aeronave
 
@@ -10974,7 +10994,7 @@ AI Não abandonem a aeronave, tentarei rebocá-la.
 
 LY A minha aeronave está em perigo, fique nas minhas proximidades.
 
-MA A posição indicada com [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) pela aeronave era:
+MA A posição indicada com [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) pela aeronave era:
 
 CA Vi um aparelho (avião ou hidrovião) às (horas indicadas) em (posição indicada), navegando ao rumo (rumo indicado).
 
@@ -11100,15 +11120,15 @@ LFX Qual é a sua posição actual?
 
 LEW A minha posição estimada é:
 
-LFB A posição indicada pelo navio que lançou o [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) está errada. Tenho o seu azimute obtido por radiogoniómetro e posso trocar azimutes com qualquer outro navio.
+LFB A posição indicada pelo navio que lançou o [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) está errada. Tenho o seu azimute obtido por radiogoniómetro e posso trocar azimutes com qualquer outro navio.
 
 MB Há um navio em perigo na direcção ou na posição indicada.
 
 A Azimute (ou marcação verdadeira, rumo verdadeiro, etc.) seguido obrigatòriamente de três algarismos.
 
-MG Qual era a posição indicada pelo [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) lançado pela aeronave?
+MG Qual era a posição indicada pelo [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) lançado pela aeronave?
 
-MA A posição indicada com [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (MAYDAY) pela aeronave era:
+MA A posição indicada com [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (MAYDAY) pela aeronave era:
 
 G Longitude, seguida de cinco algarismos e, eventualmente, da palavra Este ou Oeste.
 
@@ -11182,23 +11202,23 @@ BM O aparelho (avião ou hidroavião) dado como em perigo está a receber auxíl
 
 BX Desço para recolher a tripulação da aeronave abandonada em (posição indicada).
 
-MG Qual era a posição indicada pelo [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) lançado pela aeronave?
+MG Qual era a posição indicada pelo [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) lançado pela aeronave?
 
-MA A posição indicada com [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) pela aeronave era:
+MA A posição indicada com [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) pela aeronave era:
 
-MD Ouviu o [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) transmitido por uma aeronave às (horas indicadas)?
+MD Ouviu o [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) transmitido por uma aeronave às (horas indicadas)?
 
-BKX Recebi [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) do (navio indicado) em (ponto indicado), às (horas indicadas), mas não posso socorrê-lo. Poderá ir em seu socorro?
+BKX Recebi [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) do (navio indicado) em (ponto indicado), às (horas indicadas), mas não posso socorrê-lo. Poderá ir em seu socorro?
 
-BKW Interceptei uma mensagem [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) de um navio (indicado) em (ponto indicado) e vou socorrê-lo.
+BKW Interceptei uma mensagem [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) de um navio (indicado) em (ponto indicado) e vou socorrê-lo.
 
-NSF Interceptei um [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) de um navio situado em (posição aproximada indicada).
+NSF Interceptei um [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) de um navio situado em (posição aproximada indicada).
 
-NSE Interceptei um [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) de um aparelho (avião ou hidroavião), situado em (posição aproximada indicada).
+NSE Interceptei um [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) de um aparelho (avião ou hidroavião), situado em (posição aproximada indicada).
 
-NSG Recebi [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) do (navio indicado) em, a (posição indicada) às (horas indicadas), mas nada mais voltei a ouvir.
+NSG Recebi [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) do (navio indicado) em, a (posição indicada) às (horas indicadas), mas nada mais voltei a ouvir.
 
-LFB A posição indicada pelo navio que lançou o [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) está errada. Tenho o seu azimute obtido por radiogoniómetro e posso trocar azimutes com qualquer navio.
+LFB A posição indicada pelo navio que lançou o [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) está errada. Tenho o seu azimute obtido por radiogoniómetro e posso trocar azimutes com qualquer navio.
 
 SC Qual é o nome do seu navio?
 
@@ -11246,9 +11266,9 @@ DS Não posso socorrê-lo (ou socorrer o navio indicado).
 
 NZ O navio indicado está com fogo a bordo.
 
-BKW Interceptei uma mensagem [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) de um navio (indicado) em (ponto indicado) e vou socorrê-lo.
+BKW Interceptei uma mensagem [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) de um navio (indicado) em (ponto indicado) e vou socorrê-lo.
 
-BKX Recebi [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) do (navio indicado) em (ponto indicado) às (horas indicadas), mas não posso socorrê-lo. Poderá ir em seu socorro?
+BKX Recebi [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf) (ou MAYDAY) do (navio indicado) em (ponto indicado) às (horas indicadas), mas não posso socorrê-lo. Poderá ir em seu socorro?
 
 EK Necessita de auxílio de?
 
@@ -11340,7 +11360,7 @@ São indicados no seguinte quadro:
 
 Quadro dos sinais de reboque
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 QUINTA PARTE
 
@@ -11348,9 +11368,9 @@ Sinais de procedimento radiotelefónico
 
 As abreviaturas seguintes tomam a forma de perguntas quando forem seguidas da letra B (ponto de interrogação).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
-## ANEXO 3 — [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+## ANEXO 3 — [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 RECOMENDAÇÃO N.º 23
 
@@ -11598,7 +11618,7 @@ recomenda
 
 3. Que a próxima Conferência Administrativa das Radiocomunicações estude a adopção de um quadro normalizado de soletração dos algarismos para ser usado em todos os serviços radiotelefónicos onde se possam apresentar dificuldades linguísticas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 RECOMENDAÇÃO N.º 31
 
@@ -11796,7 +11816,7 @@ recomenda
 
 do Regulamento das Radiocomunicações, dos apêndices ao Regulamento das Radiocomunicações, do Regulamento Adicional das Radiocomunicações, do Protocolo Adicional ao Regulamento das Radiocomunicações e das Recomendações e Resoluções adoptadas pela Conferência Administrativa das Radiocomunicações, Genebra, 1959
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf))](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/19601/11311389.pdf)
 
 ÍNDICE
 
@@ -11808,477 +11828,477 @@ Regulamento das Radiocomunicações
 
 ### CAPÍTULO I — Terminologia
 
-###### Artigo 1. - Termos e definições ... 1131
+Artigo 1. - Termos e definições ... 1131
 
 Preâmbulo ... 1131
 
-#### Secção I. - Termos gerais ... 1131
+Secção I. - Termos gerais ... 1131
 
-#### Secção II. - Sistemas, serviços e estações radioeléctricas ... 1132
+Secção II. - Sistemas, serviços e estações radioeléctricas ... 1132
 
-#### Secção III. - Características técnicas ... 1134
+Secção III. - Características técnicas ... 1134
 
-###### Artigo 2. - Designação das emissões ... 1135
+Artigo 2. - Designação das emissões ... 1135
 
-#### Secção I. - Classes ... 1135
+Secção I. - Classes ... 1135
 
-#### Secção II. - Largura de faixa ... 1136
+Secção II. - Largura de faixa ... 1136
 
-#### Secção III. - Nomenclatura das faixas de frequências e dos comprimentos de onda empregados em radiocomunicações ... 1136
+Secção III. - Nomenclatura das faixas de frequências e dos comprimentos de onda empregados em radiocomunicações ... 1136
 
 ### CAPÍTULO II — Frequências
 
-###### Artigo 3. - Regras gerais de consignação e de emprego das frequências ... 1137
+Artigo 3. - Regras gerais de consignação e de emprego das frequências ... 1137
 
-###### Artigo 4. - Acordos especiais ... 1137
+Artigo 4. - Acordos especiais ... 1137
 
-###### Artigo 5. - Repartição das faixas de frequências entre 10 kHz e 40 GHz ... 1137
+Artigo 5. - Repartição das faixas de frequências entre 10 kHz e 40 GHz ... 1137
 
-#### Secção I. - Regiões e zonas ... 1137
+Secção I. - Regiões e zonas ... 1137
 
-#### Secção II. - Categorias de serviços e de atribuições ... 1138
+Secção II. - Categorias de serviços e de atribuições ... 1138
 
-#### Secção III. - Disposição do quadro de repartição das faixas de frequências ... 1139
+Secção III. - Disposição do quadro de repartição das faixas de frequências ... 1139
 
-#### Secção IV. - Quadro de repartição das faixas de frequências entre 10 kHz e 40 GHz ... 1139
+Secção IV. - Quadro de repartição das faixas de frequências entre 10 kHz e 40 GHz ... 1139
 
-###### Artigo 6. - Disposições especiais relativas à consignação e ao emprego das frequências ... 1159
+Artigo 6. - Disposições especiais relativas à consignação e ao emprego das frequências ... 1159
 
-###### Artigo 7. - Disposições especiais relativas a certos serviços ... 1160
+Artigo 7. - Disposições especiais relativas a certos serviços ... 1160
 
-#### Secção I. - Serviço de radiodifusão ... 1160
+Secção I. - Serviço de radiodifusão ... 1160
 
-#### Secção II. - Serviço móvel aeronáutico ... 1160
+Secção II. - Serviço móvel aeronáutico ... 1160
 
-#### Secção III. - Radiofaróis aeronáuticos ... 1160
+Secção III. - Radiofaróis aeronáuticos ... 1160
 
-#### Secção IV. - Serviço móvel marítimo ... 1161
+Secção IV. - Serviço móvel marítimo ... 1161
 
-#### Secção V. - Radiofaróis marítimos ... 1162
+Secção V. - Radiofaróis marítimos ... 1162
 
-#### Secção VI. - Serviço fixo ... 1163
+Secção VI. - Serviço fixo ... 1163
 
 ### CAPÍTULO III — Notificação e registo das frequências
 
 Comissão Internacional do Registo de Frequências
 
-###### Artigo 8. - Disposições gerais ... 1163
+Artigo 8. - Disposições gerais ... 1163
 
-###### Artigo 9. - Notificação e inscrição das frequências no Ficheiro de referência internacional das frequências ... 1164
+Artigo 9. - Notificação e inscrição das frequências no Ficheiro de referência internacional das frequências ... 1164
 
-#### Secção I. - Notificação das consignações de frequência ... 1164
+Secção I. - Notificação das consignações de frequência ... 1164
 
-#### Secção II. - Procedimento para o exame das fichas de notificação e inscrição das consignações de frequência no Ficheiro de referência ... 1164
+Secção II. - Procedimento para o exame das fichas de notificação e inscrição das consignações de frequência no Ficheiro de referência ... 1164
 
-#### Secção III. - Inscrição de datas e das conclusões no Ficheiro de referência ... 1169
+Secção III. - Inscrição de datas e das conclusões no Ficheiro de referência ... 1169
 
-#### Secção IV. - Categorias das consignações de frequência ... 1170
+Secção IV. - Categorias das consignações de frequência ... 1170
 
-#### Secção V. - Reexame das conclusões ... 1170
+Secção V. - Reexame das conclusões ... 1170
 
-#### Secção VI. - Modificação, anulação e revisão das inscrições do Ficheiro de referência ... 1171
+Secção VI. - Modificação, anulação e revisão das inscrições do Ficheiro de referência ... 1171
 
-#### Secção VII. - Estudos e recomendações ... 1171
+Secção VII. - Estudos e recomendações ... 1171
 
-#### Secção VIII. - Disposições diversas ... 1172
+Secção VIII. - Disposições diversas ... 1172
 
-###### Artigo 10. - Procedimento relativo às faixas atribuídas em exclusivo ao serviço de radiodifusão entre 5950 kHz e 26100 kHz ... 1172
+Artigo 10. - Procedimento relativo às faixas atribuídas em exclusivo ao serviço de radiodifusão entre 5950 kHz e 26100 kHz ... 1172
 
-#### Secção I. - Apresentação dos horários periódicos de radiodifusão em ondas decamétricas ... 1172
+Secção I. - Apresentação dos horários periódicos de radiodifusão em ondas decamétricas ... 1172
 
-#### Secção II. - Exame preliminar e elaboração do horário provisório de radiodifusão em ondas decamétricas ... 1172
+Secção II. - Exame preliminar e elaboração do horário provisório de radiodifusão em ondas decamétricas ... 1172
 
-#### Secção III. - Exame técnico e revisão do horário provisório ... 1173
+Secção III. - Exame técnico e revisão do horário provisório ... 1173
 
-#### Secção IV. - Publicação do horário de radiodifusão em ondas decamétricas ... 1173
+Secção IV. - Publicação do horário de radiodifusão em ondas decamétricas ... 1173
 
-#### Secção V. - Lista anual das frequências de radiodifusão em ondas decamétricas ... 1173
+Secção V. - Lista anual das frequências de radiodifusão em ondas decamétricas ... 1173
 
-#### Secção VI. - Disposições diversas ... 1173
+Secção VI. - Disposições diversas ... 1173
 
-###### Artigo 11. - Regulamento interno da Comissão Internacional do Registo de Frequências ... 1174
+Artigo 11. - Regulamento interno da Comissão Internacional do Registo de Frequências ... 1174
 
 ### CAPÍTULO IV — Medidas contra as interferências
 
-###### Artigo 12. - Características técnicas dos aparelhos e das emissões ... 1174
+Artigo 12. - Características técnicas dos aparelhos e das emissões ... 1174
 
-###### Artigo 13. - Fiscalização internacional das emissões ... 1174
+Artigo 13. - Fiscalização internacional das emissões ... 1174
 
-###### Artigo 14. - Interferências e ensaios ... 1175
+Artigo 14. - Interferências e ensaios ... 1175
 
-#### Secção I. - Interferências gerais ... 1175
+Secção I. - Interferências gerais ... 1175
 
-#### Secção II. - Interferências industriais ... 1176
+Secção II. - Interferências industriais ... 1176
 
-#### Secção III. - Casos especiais de interferências ... 1176
+Secção III. - Casos especiais de interferências ... 1176
 
-#### Secção IV. - Ensaios ... 1176
+Secção IV. - Ensaios ... 1176
 
-###### Artigo 15. - Procedimento contra as interferências prejudiciais ... 1176
+Artigo 15. - Procedimento contra as interferências prejudiciais ... 1176
 
-###### Artigo 16. - Relatórios sobre infracções ... 1177
+Artigo 16. - Relatórios sobre infracções ... 1177
 
 ### CAPÍTULO V — Disposições administrativas relativas às estações
 
-###### Artigo 17. - Sigilo ... 1177
+Artigo 17. - Sigilo ... 1177
 
-###### Artigo 18. - Licenças ... 1177
+Artigo 18. - Licenças ... 1177
 
-###### Artigo 19. - Identificação das estações ... 1178
+Artigo 19. - Identificação das estações ... 1178
 
-#### Secção I. - Disposições gerais ... 1178
+Secção I. - Disposições gerais ... 1178
 
-#### Secção II. - Atribuição das séries internacionais e consignação dos indicativos de chamada ... 1178
+Secção II. - Atribuição das séries internacionais e consignação dos indicativos de chamada ... 1178
 
-#### Secção III. - Formação dos indicativos de chamada ... 1180
+Secção III. - Formação dos indicativos de chamada ... 1180
 
-#### Secção IV. - Identificação das estações que utilizam a radiotelefonia ... 1181
+Secção IV. - Identificação das estações que utilizam a radiotelefonia ... 1181
 
-#### Secção V. - Disposições especiais ... 1181
+Secção V. - Disposições especiais ... 1181
 
-###### Artigo 20. - Documentos de serviço ... 1182
+Artigo 20. - Documentos de serviço ... 1182
 
-###### Artigo 21. - Inspecção das estações móveis ... 1184
+Artigo 21. - Inspecção das estações móveis ... 1184
 
 ### CAPÍTULO VI — Pessoal das estações do serviço móvel
 
-###### Artigo 22. - Autoridade do comandante ... 1184
+Artigo 22. - Autoridade do comandante ... 1184
 
-###### Artigo 23. - Certificados dos operadores das estações de navio e das estações de aeronave ... 1184
+Artigo 23. - Certificados dos operadores das estações de navio e das estações de aeronave ... 1184
 
-#### Secção I. - Disposições gerais ... 1184
+Secção I. - Disposições gerais ... 1184
 
-#### Secção II. - Classes e categorias de certificados ... 1185
+Secção II. - Classes e categorias de certificados ... 1185
 
-#### Secção III. - Condições para obtenção dos certificados ... 1185
+Secção III. - Condições para obtenção dos certificados ... 1185
 
-#### Secção IV. - Estágios profissionais ... 1187
+Secção IV. - Estágios profissionais ... 1187
 
-###### Artigo 24. - Classe e número mínimo de operadores nas estações de navio e de aeronave ... 1188
+Artigo 24. - Classe e número mínimo de operadores nas estações de navio e de aeronave ... 1188
 
-###### Artigo 25. - Horário de serviço das estações dos serviços móveis marítimo e aeronáutico ... 1188
+Artigo 25. - Horário de serviço das estações dos serviços móveis marítimo e aeronáutico ... 1188
 
-#### Secção I. - Preâmbulo ... 1188
+Secção I. - Preâmbulo ... 1188
 
-#### Secção II. - Estações costeiras ... 1188
+Secção II. - Estações costeiras ... 1188
 
-#### Secção III. - Estações aeronáuticas ... 1188
+Secção III. - Estações aeronáuticas ... 1188
 
-#### Secção IV. - Estações de navio ... 1188
+Secção IV. - Estações de navio ... 1188
 
-#### Secção V. - Estações de aeronave ... 1189
+Secção V. - Estações de aeronave ... 1189
 
-###### Artigo 26. - Pessoal das estações costeiras e aeronáuticas ... 1189
+Artigo 26. - Pessoal das estações costeiras e aeronáuticas ... 1189
 
 ### CAPÍTULO VII — Condições de funcionamento dos serviços móveis
 
-###### Artigo 27. - Estações de aeronave e estações aeronáuticas ... 1189
+Artigo 27. - Estações de aeronave e estações aeronáuticas ... 1189
 
-###### Artigo 28. - Condições a que devem satisfazer as estações móveis ... 1190
+Artigo 28. - Condições a que devem satisfazer as estações móveis ... 1190
 
-#### Secção I. - Disposições gerais ... 1190
+Secção I. - Disposições gerais ... 1190
 
-#### Secção II. - Disposições especiais relativas à segurança ... 1190
+Secção II. - Disposições especiais relativas à segurança ... 1190
 
-#### Secção III. - Estações de navio que utilizam a radiotelegrafia ... 1190
+Secção III. - Estações de navio que utilizam a radiotelegrafia ... 1190
 
-#### Secção IV. - Estações de navio que utilizam a radiotelefonia ... 1191
+Secção IV. - Estações de navio que utilizam a radiotelefonia ... 1191
 
-#### Secção V. - Estações de aeronave ... 1191
+Secção V. - Estações de aeronave ... 1191
 
-#### Secção VI. - Estações de engenho de salvamento ... 1191
+Secção VI. - Estações de engenho de salvamento ... 1191
 
-###### Artigo 29. - Procedimento geral radiotelegráfico nos serviços móveis marítimo e aeronáutico ... 1191
+Artigo 29. - Procedimento geral radiotelegráfico nos serviços móveis marítimo e aeronáutico ... 1191
 
-#### Secção I. - Disposições gerais ... 1191
+Secção I. - Disposições gerais ... 1191
 
-#### Secção II. - Operações preliminares ... 1192
+Secção II. - Operações preliminares ... 1192
 
-#### Secção III. - Chamada, resposta à chamada e sinais preparatórios do tráfego ... 1192
+Secção III. - Chamada, resposta à chamada e sinais preparatórios do tráfego ... 1192
 
-#### Secção IV. - Escoamento do tráfego ... 1193
+Secção IV. - Escoamento do tráfego ... 1193
 
-#### Secção V. - Fim do tráfego e do trabalho ... 1194
+Secção V. - Fim do tráfego e do trabalho ... 1194
 
-#### Secção VI. - Orientação do trabalho ... 1194
+Secção VI. - Orientação do trabalho ... 1194
 
-#### Secção VII. - Ensaios ... 1194
+Secção VII. - Ensaios ... 1194
 
-###### Artigo 30. - Chamadas em radiotelegrafia ... 1194
+Artigo 30. - Chamadas em radiotelegrafia ... 1194
 
-###### Artigo 31. - Chamada a várias estações em radiotelegrafia ... 1195
+Artigo 31. - Chamada a várias estações em radiotelegrafia ... 1195
 
-###### Artigo 32. - Emprego das frequências em radiotelegrafia nos serviços móveis marítimo e aeronáutico ... 1195
+Artigo 32. - Emprego das frequências em radiotelegrafia nos serviços móveis marítimo e aeronáutico ... 1195
 
-#### Secção I. - Faixas compreendidas entre 90 kHz e 160 kHz ... 1195
+Secção I. - Faixas compreendidas entre 90 kHz e 160 kHz ... 1195
 
-#### Secção II. - Faixas compreendidas entre 405 kHz e 535 kHz ... 1196
+Secção II. - Faixas compreendidas entre 405 kHz e 535 kHz ... 1196
 
-#### Secção III. - Faixas compreendidas entre 1605 kHz e 4000 kHz ... 1197
+Secção III. - Faixas compreendidas entre 1605 kHz e 4000 kHz ... 1197
 
-#### Secção IV. - Disposições suplementares aplicáveis apenas à Região 3 ... 1197
+Secção IV. - Disposições suplementares aplicáveis apenas à Região 3 ... 1197
 
-#### Secção V. - Faixas compreendidas entre 4000 kHz e 27500 kHz ... 1198
+Secção V. - Faixas compreendidas entre 4000 kHz e 27500 kHz ... 1198
 
-#### Secção VI. - Serviço móvel aeronáutico ... 1201
+Secção VI. - Serviço móvel aeronáutico ... 1201
 
-###### Artigo 33. - Procedimento geral radiotelefónico no serviço móvel marítimo ... 1201
+Artigo 33. - Procedimento geral radiotelefónico no serviço móvel marítimo ... 1201
 
-#### Secção I. - Disposições gerais ... 1201
+Secção I. - Disposições gerais ... 1201
 
-#### Secção II. - Operações preliminares ... 1201
+Secção II. - Operações preliminares ... 1201
 
-#### Secção III. - Chamada, resposta à chamada e sinais preparatórios do tráfego ... 1202
+Secção III. - Chamada, resposta à chamada e sinais preparatórios do tráfego ... 1202
 
-#### Secção IV. - Escoamento do tráfego ... 1204
+Secção IV. - Escoamento do tráfego ... 1204
 
-#### Secção V. - Duração e orientação do tráfego ... 1205
+Secção V. - Duração e orientação do tráfego ... 1205
 
-#### Secção VI. - Ensaios ... 1205
+Secção VI. - Ensaios ... 1205
 
-###### Artigo 34. - Chamadas em radiotelefonia ... 1205
+Artigo 34. - Chamadas em radiotelefonia ... 1205
 
-###### Artigo 35. - Emprego das frequências em radiotelefonia no serviço móvel marítimo ... 1206
+Artigo 35. - Emprego das frequências em radiotelefonia no serviço móvel marítimo ... 1206
 
-#### Secção I. - Disposições gerais ... 1206
+Secção I. - Disposições gerais ... 1206
 
-#### Secção II. - Faixas compreendidas entre 1605 kHz e 4000 kHz ... 1206
+Secção II. - Faixas compreendidas entre 1605 kHz e 4000 kHz ... 1206
 
-#### Secção III. - Faixas compreendidas entre 4000 kHz e 23000 kHz ... 1207
+Secção III. - Faixas compreendidas entre 4000 kHz e 23000 kHz ... 1207
 
-#### Secção IV. - Faixas compreendidas entre 156 MHz e 174 MHz ... 1208
+Secção IV. - Faixas compreendidas entre 156 MHz e 174 MHz ... 1208
 
 ### CAPÍTULO VIII — Perigo, alarme, urgência e segurança
 
-###### Artigo 36. - Sinal e tráfego de perigo. Sinais de alarme, de urgência e de segurança ... 1209
+Artigo 36. - Sinal e tráfego de perigo. Sinais de alarme, de urgência e de segurança ... 1209
 
-#### Secção I. - Generalidades ... 1209
+Secção I. - Generalidades ... 1209
 
-#### Secção II. - Sinal de perigo ... 1209
+Secção II. - Sinal de perigo ... 1209
 
-#### Secção III. - Chamada e mensagem de perigo ... 1209
+Secção III. - Chamada e mensagem de perigo ... 1209
 
-#### Secção IV. - Procedimento de transmissão das chamadas e das mensagens de perigo ... 1210
+Secção IV. - Procedimento de transmissão das chamadas e das mensagens de perigo ... 1210
 
-#### Secção V. - Entendido de uma mensagem de perigo ... 1210
+Secção V. - Entendido de uma mensagem de perigo ... 1210
 
-#### Secção VI. - Tráfego de perigo ... 1211
+Secção VI. - Tráfego de perigo ... 1211
 
-#### Secção VII. - Transmissão de uma mensagem de perigo por uma estação que não se encontra em perigo ... 1212
+Secção VII. - Transmissão de uma mensagem de perigo por uma estação que não se encontra em perigo ... 1212
 
-#### Secção VIII. - Sinais de alarme radiotelegráfico e radiotelefónico ... 1212
+Secção VIII. - Sinais de alarme radiotelegráfico e radiotelefónico ... 1212
 
-#### Secção IX. - Sinal de urgência ... 1213
+Secção IX. - Sinal de urgência ... 1213
 
-#### Secção X. - Sinal de segurança ... 1213
+Secção X. - Sinal de segurança ... 1213
 
 ### CAPÍTULO IX — Radiotelegramas e conversações telefónicas
 
-###### Artigo 37. - Ordem de prioridade das comunicações no serviço móvel ... 1214
+Artigo 37. - Ordem de prioridade das comunicações no serviço móvel ... 1214
 
-###### Artigo 38. - Indicação da estação de origem dos radiotelegramas ... 1214
+Artigo 38. - Indicação da estação de origem dos radiotelegramas ... 1214
 
-###### Artigo 39. - Encaminhamento dos radiotelegramas ... 1214
+Artigo 39. - Encaminhamento dos radiotelegramas ... 1214
 
-###### Artigo 40. - Contabilidade dos radiotelegramas e das comunicações radiotelefónicas ... 1214
+Artigo 40. - Contabilidade dos radiotelegramas e das comunicações radiotelefónicas ... 1214
 
-#### Secção I. - Generalidades ... 1214
+Secção I. - Generalidades ... 1214
 
-#### Secção II. - Organização das contas relativas aos radiotelegramas ... 1215
+Secção II. - Organização das contas relativas aos radiotelegramas ... 1215
 
-#### Secção III. - Organização das contas relativas às comunicações radiotelefónicas ... 1216
+Secção III. - Organização das contas relativas às comunicações radiotelefónicas ... 1216
 
-#### Secção IV. - Permuta e verificação das contas. Liquidação dos saldos ... 1216
+Secção IV. - Permuta e verificação das contas. Liquidação dos saldos ... 1216
 
-#### Secção V. - Prazo de conservação dos arquivos das contas ... 1218
+Secção V. - Prazo de conservação dos arquivos das contas ... 1218
 
 ### CAPÍTULO X — Estações e serviços diversos
 
-###### Artigo 41. - Estações de amador ... 1218
+Artigo 41. - Estações de amador ... 1218
 
-###### Artigo 42. - Estações experimentais ... 1218
+Artigo 42. - Estações experimentais ... 1218
 
-###### Artigo 43. - Serviço de radiodeterminação ... 1219
+Artigo 43. - Serviço de radiodeterminação ... 1219
 
-#### Secção I. - Disposições gerais ... 1219
+Secção I. - Disposições gerais ... 1219
 
-#### Secção II. - Estações radiogoniométricas ... 1219
+Secção II. - Estações radiogoniométricas ... 1219
 
-#### Secção III. - Estações de radiofarol ... 1219
+Secção III. - Estações de radiofarol ... 1219
 
-###### Artigo 44. - Serviços especiais ... 1219
+Artigo 44. - Serviços especiais ... 1219
 
-#### Secção I. - Meteorologia ... 1219
+Secção I. - Meteorologia ... 1219
 
-#### Secção II. - Avisos à navegação marítima ... 1220
+Secção II. - Avisos à navegação marítima ... 1220
 
-#### Secção III. - Pareceres médicos ... 1220
+Secção III. - Pareceres médicos ... 1220
 
-#### Secção IV. - Frequências-padrão e sinais horários ... 1220
+Secção IV. - Frequências-padrão e sinais horários ... 1220
 
 ### CAPÍTULO XI — Artigo 45. - Entrada em vigor do Regulamento das Radiocomunicações ... 1221
 
 Assinaturas ... 1221
 
-## Apêndice ao Regulamento das Radiocomunicações
+Apêndice ao Regulamento das Radiocomunicações
 
 (Genebra, 1959)
 
 ... Págs.
 
-## APÊNDICE 1
+APÊNDICE 1
 
-#### Secção A. - Características fundamentais a fornecer no caso de uma notificação nos termos do n.º 486 do regulamento ... 1224
+Secção A. - Características fundamentais a fornecer no caso de uma notificação nos termos do n.º 486 do regulamento ... 1224
 
-#### Secção B. - Características fundamentais a fornecer no caso de uma notificação nos termos do n.º 487 do regulamento ... 1224
+Secção B. - Características fundamentais a fornecer no caso de uma notificação nos termos do n.º 487 do regulamento ... 1224
 
-#### Secção C. - Características fundamentais a fornecer no caso de uma notificação nos termos do n.º 490 do regulamento ... 1224
+Secção C. - Características fundamentais a fornecer no caso de uma notificação nos termos do n.º 490 do regulamento ... 1224
 
-#### Secção D. - Modelo de ficha ... 1225
+Secção D. - Modelo de ficha ... 1225
 
-#### Secção E. - Instruções gerais ... 1226
+Secção E. - Instruções gerais ... 1226
 
-## Anexo. - Zonas geográficas para a radiodifusão ... 1229
+Anexo. - Zonas geográficas para a radiodifusão ... 1229
 
-## APÊNDICE 2
+APÊNDICE 2
 
-#### Secção A. - Modelo de ficha ... 1230
+Secção A. - Modelo de ficha ... 1230
 
-#### Secção B. - Instruções gerais ... 1231
+Secção B. - Instruções gerais ... 1231
 
-## APÊNDICE 3
+APÊNDICE 3
 
 Quadro das tolerâncias de frequência ... 1232
 
-## APÊNDICE 4
+APÊNDICE 4
 
 Quadro das tolerâncias para os níveis das radiações não essenciais ... 1235
 
-## APÊNDICE 5
+APÊNDICE 5
 
 Exemplos da largura da faixa necessária e de designação das emissões ... 1235
 
-## APÊNDICE 6
+APÊNDICE 6
 
 Relatórios sobre as observações de fiscalização das emissões ... 1238
 
-## APÊNDICE 7
+APÊNDICE 7
 
 Relatório sobre uma irregularidade ou infracção à Convenção Internacional das Telecomunicações ou aos regulamentos das radiocomunicações ... 1238
 
-## APÊNDICE 8
+APÊNDICE 8
 
 Relatório de interferência prejudicial ... 1239
 
-## APÊNDICE 9
+APÊNDICE 9
 
 Documentos de serviço ... 1239
 
-## APÊNDICE 10
+APÊNDICE 10
 
 Notações utilizadas nos documentos de serviço ... 1245
 
-## APÊNDICE 11
+APÊNDICE 11
 
 Documentos de que devem estar providas as estações de navio e as estações de aeronave ... 1246
 
-#### Secção I. - Estações dos navios obrigatòriamente providos de uma instalação radiotelegráfica em virtude de acordo internacional ... 1246
+Secção I. - Estações dos navios obrigatòriamente providos de uma instalação radiotelegráfica em virtude de acordo internacional ... 1246
 
-#### Secção II. - Outras estações radiotelegráficas de navio ... 1246
+Secção II. - Outras estações radiotelegráficas de navio ... 1246
 
-#### Secção III. - Estações de navio obrigatòriamente providas de uma instalação radiotelefónica em virtude de acordo internacional ... 1246
+Secção III. - Estações de navio obrigatòriamente providas de uma instalação radiotelefónica em virtude de acordo internacional ... 1246
 
-#### Secção IV. - Outras estações radiotelefónicas de navio ... 1246
+Secção IV. - Outras estações radiotelefónicas de navio ... 1246
 
-#### Secção V. - Estações de navio equipadas com várias instalações ... 1246
+Secção V. - Estações de navio equipadas com várias instalações ... 1246
 
-#### Secção VI. - Estações de aeronave ... 1246
+Secção VI. - Estações de aeronave ... 1246
 
-## APÊNDICE 12
+APÊNDICE 12
 
 Horas de serviço das estações de navio classificadas na segunda categoria ... 1247
 
-#### Secção I. - Quadro ... 1247
+Secção I. - Quadro ... 1247
 
-#### Secção II. - Gráfico ... 1248
+Secção II. - Gráfico ... 1248
 
-## APÊNDICE 13
+APÊNDICE 13
 
 Abreviaturas e sinais diversos a empregar nas comunicações radiotelegráficas ... 1248
 
-#### Secção I. - Código Q ... 1248
+Secção I. - Código Q ... 1248
 
-#### Secção II. - Abreviaturas e sinais diversos ... 1255
+Secção II. - Abreviaturas e sinais diversos ... 1255
 
-## APÊNDICE 14
+APÊNDICE 14
 
 Códigos SINPO e SINPFEMO ... 1255
 
-## APÊNDICE 15
+APÊNDICE 15
 
 Quadro das frequências a utilizar pelas estações de navio nas faixas atribuídas em exclusivo ao serviço móvel marítimo entre 4 MHz e 27,5 MHz ... 1256
 
-#### Secção A. - Frequências a consignar às estações radiotelegráficas de navio que utilizam as faixas do serviço móvel marítimo compreendidas entre 4 MHz e 27,5 MHz ... 1257
+Secção A. - Frequências a consignar às estações radiotelegráficas de navio que utilizam as faixas do serviço móvel marítimo compreendidas entre 4 MHz e 27,5 MHz ... 1257
 
-#### Secção B. - Frequências das ondas de suporte das estações radiotelefónicas de navio que utilizam as faixas de serviço móvel marítimo compreendidas entre 4 MHz e 23 MHz ... 1258
+Secção B. - Frequências das ondas de suporte das estações radiotelefónicas de navio que utilizam as faixas de serviço móvel marítimo compreendidas entre 4 MHz e 23 MHz ... 1258
 
-## APÊNDICE 16
+APÊNDICE 16
 
 Quadro de soletração das letras e dos algarismos ... 1258
 
-## APÊNDICE 17
+APÊNDICE 17
 
 Vias radiotelefónicas bilaterais nas faixas do serviço móvel marítimo compreendidas entre 4000 kHz e 23000 kHz ... 1258
 
-## APÊNDICE 18
+APÊNDICE 18
 
 Quadro das frequências de emissão para o serviço móvel marítimo radiotelefónico na faixa 156-174 MHz ... 1259
 
-## APÊNDICE 19
+APÊNDICE 19
 
 Características técnicas dos emissores e receptores utilizados no serviço móvel marítimo na faixa 156-174 MHz ... 1260
 
-## APÊNDICE 20
+APÊNDICE 20
 
 Aparelhos automáticos destinados à recepção dos sinais de alarme radiotelegráfico e radiotelefónico ... 1260
 
-## APÊNDICE 21
+APÊNDICE 21
 
 Modelo de relação para a contabilidade dos radiotelegramas e das comunicações radiotelefónicas ... 1261
 
-## APÊNDICE 22
+APÊNDICE 22
 
 Pagamento dos saldos das contas ... 1261
 
-## APÊNDICE 23
+APÊNDICE 23
 
 Obtenção dos azimutes radiogoniométricos e das posições
 
-#### Secção I. - Instruções gerais ... 1262
+Secção I. - Instruções gerais ... 1262
 
-#### Secção II. - Regras de procedimento ... 1262
+Secção II. - Regras de procedimento ... 1262
 
-## APÊNDICE 24
+APÊNDICE 24
 
 Mapas das regiões previstas no quadro de repartição das faixas de frequências ... 1264
 
-## APÊNDICE 25
+APÊNDICE 25
 
 Plano de adjudicação de frequências às estações costeiras radiotelefónicas que funcionam nas faixas exclusivas do serviço móvel marítimo entre 4000 kHz e 23000 kHz ... 1264
 
-#### Secção I. - Frequências para as quais se deve inserir na coluna 2a do Ficheiro de referência internacional das frequências a data de 3 de Dezembro de 1951 ... 1264
+Secção I. - Frequências para as quais se deve inserir na coluna 2a do Ficheiro de referência internacional das frequências a data de 3 de Dezembro de 1951 ... 1264
 
-#### Secção II. - Frequências para as quais se deve inserir na coluna 2b do Ficheiro de referência internacional das frequências a data de 4 de Dezembro de 1951 ... 1269
+Secção II. - Frequências para as quais se deve inserir na coluna 2b do Ficheiro de referência internacional das frequências a data de 4 de Dezembro de 1951 ... 1269
 
-## APÊNDICE 26
+APÊNDICE 26
 
 Plano de adjudicação das frequências para o serviço móvel aeronáutico e informações correspondentes ... 1270
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
-#### Secção I. - Definições ... 1270
+Secção I. - Definições ... 1270
 
-#### Secção II. - Princípios técnicos e de exploração ... 1270
+Secção II. - Princípios técnicos e de exploração ... 1270
 
 A) Determinação da largura das vias ... 1270
 
@@ -12296,27 +12316,27 @@ Vegetais para utilizar com os mapas citados ... 1323
 
 C) Potência radiada ... 1276
 
-# PARTE II — Plano de adjudicação de frequências para o serviço móvel aeronáutico (R) nas suas faixas exclusivas entre 2850 kHz e 17970 kHz
+## PARTE II — Plano de adjudicação de frequências para o serviço móvel aeronáutico (R) nas suas faixas exclusivas entre 2850 kHz e 17970 kHz
 
-#### Secção I. - Descrição dos limites das zonas e das subdivisões das zonas ... 1276
+Secção I. - Descrição dos limites das zonas e das subdivisões das zonas ... 1276
 
-###### Artigo 1. - Descrição dos limites das zonas de passagem das linhas aéreas mundiais principais (ZLAMP) ... 1276
+Artigo 1. - Descrição dos limites das zonas de passagem das linhas aéreas mundiais principais (ZLAMP) ... 1276
 
-###### Artigo 2. - Descrição dos limites das zonas e subdivisões de zonas das linhas aéreas regionais e nacionais (ZLARN) ... 1278
+Artigo 2. - Descrição dos limites das zonas e subdivisões de zonas das linhas aéreas regionais e nacionais (ZLARN) ... 1278
 
-#### Secção II. - Adjudicação das frequências ao serviço móvel aeronáutico (R) ... 1284
+Secção II. - Adjudicação das frequências ao serviço móvel aeronáutico (R) ... 1284
 
-###### Artigo 1. - Plano de adjudicação das frequências (por zona e subdivisão de zona) ... 1284
+Artigo 1. - Plano de adjudicação das frequências (por zona e subdivisão de zona) ... 1284
 
-###### Artigo 2. - Plano de adjudicação das frequências (por ordem numérica) ... 1288
+Artigo 2. - Plano de adjudicação das frequências (por ordem numérica) ... 1288
 
-# PARTE III — Princípios técnicos e de exploração aplicados na adjudicação das frequências ao serviço móvel aeronáutico (OR)
+## PARTE III — Princípios técnicos e de exploração aplicados na adjudicação das frequências ao serviço móvel aeronáutico (OR)
 
-#### Secção I. - Faixas de frequências e vias disponíveis ... 1299
+Secção I. - Faixas de frequências e vias disponíveis ... 1299
 
-#### Secção II. - Adaptação dos princípios técnicos ... 1299
+Secção II. - Adaptação dos princípios técnicos ... 1299
 
-# PARTE IV — Plano de adjudicação das frequências para o serviço móvel aeronáutico (OR) nas faixas compreendidas entre 2505 kHz e 23350 kHz
+## PARTE IV — Plano de adjudicação das frequências para o serviço móvel aeronáutico (OR) nas faixas compreendidas entre 2505 kHz e 23350 kHz
 
 1. Abreviaturas ... 1300
 
@@ -12334,7 +12354,7 @@ Região 3. 3155-3200 kHz, 3200-3230 kHz e 3900-3950 kHz ... 1314
 
 C) Faixas partilhadas (frequências não adjudicadas) ... 1314
 
-## APÊNDICE A
+APÊNDICE A
 
 Estudo e previsão da propagação e dos ruídos radioeléctricos ... 1324
 
@@ -12342,49 +12362,49 @@ Regulamento adicional das radiocomunicações
 
 ... Págs.
 
-###### Artigo 1. - Aplicação dos regulamentos telegráfico e telefónico às radiocomunicações ... 1324
+Artigo 1. - Aplicação dos regulamentos telegráfico e telefónico às radiocomunicações ... 1324
 
-###### Artigo 2. - Endereço dos radiotelegramas ... 1324
+Artigo 2. - Endereço dos radiotelegramas ... 1324
 
-###### Artigo 3. - Hora de aceitação dos radiotelegramas ... 1324
+Artigo 3. - Hora de aceitação dos radiotelegramas ... 1324
 
-###### Artigo 4. - Taxas dos radiotelegramas ... 1325
+Artigo 4. - Taxas dos radiotelegramas ... 1325
 
-#### Secção I. - Generalidades. Radiotelegramas de tarifa inteira ... 1325
+Secção I. - Generalidades. Radiotelegramas de tarifa inteira ... 1325
 
-#### Secção II. - Radiotelegramas de tarifa reduzida ... 1326
+Secção II. - Radiotelegramas de tarifa reduzida ... 1326
 
-###### Artigo 5. - Taxa das conversações radiotelefónicas nos serviços móveis marítimo e aeronáutico ... 1326
+Artigo 5. - Taxa das conversações radiotelefónicas nos serviços móveis marítimo e aeronáutico ... 1326
 
-#### Secção I. - Taxa de bordo, taxa terrestre, taxa de transmissão pela rede geral ... 1326
+Secção I. - Taxa de bordo, taxa terrestre, taxa de transmissão pela rede geral ... 1326
 
-#### Secção II. - Taxas suplementares ... 1327
+Secção II. - Taxas suplementares ... 1327
 
-###### Artigo 6. - Cartas radiomarítimas e cartas radioaéreas ... 1328
+Artigo 6. - Cartas radiomarítimas e cartas radioaéreas ... 1328
 
-###### Artigo 7. - Radiotelegramas especiais. Indicações de serviço taxadas ... 1328
+Artigo 7. - Radiotelegramas especiais. Indicações de serviço taxadas ... 1328
 
-###### Artigo 8. - Prazo de retenção dos radiotelegramas nas estações terrestres ... 1329
+Artigo 8. - Prazo de retenção dos radiotelegramas nas estações terrestres ... 1329
 
-#### Secção I. - Radiotelegramas destinados a navios no mar ... 1329
+Secção I. - Radiotelegramas destinados a navios no mar ... 1329
 
-#### Secção II. - Radiotelegramas destinados a aeronaves em voo ... 1329
+Secção II. - Radiotelegramas destinados a aeronaves em voo ... 1329
 
-###### Artigo 9. - Recepção duvidosa. Transmissão por «ampliação». Radiocomunicações a grande distância ... 1330
+Artigo 9. - Recepção duvidosa. Transmissão por «ampliação». Radiocomunicações a grande distância ... 1330
 
-###### Artigo 10. - Retransmissão pelas estações móveis ... 1331
+Artigo 10. - Retransmissão pelas estações móveis ... 1331
 
-#### Secção I. - Retransmissão a pedido do expedidor ... 1331
+Secção I. - Retransmissão a pedido do expedidor ... 1331
 
-#### Secção II. - Retransmissão por dever de função ... 1331
+Secção II. - Retransmissão por dever de função ... 1331
 
-###### Artigo 11. - Aviso de não-entrega ... 1331
+Artigo 11. - Aviso de não-entrega ... 1331
 
-###### Artigo 12. - Radiotelegramas originários ou destinados a aeronaves ... 1331
+Artigo 12. - Radiotelegramas originários ou destinados a aeronaves ... 1331
 
-###### Artigo 13. - Radiocomunicações para destinos múltiplos ... 1331
+Artigo 13. - Radiocomunicações para destinos múltiplos ... 1331
 
-###### Artigo 14. - Entrada em vigor do Regulamento adicional das radiocomunicações ... 1331
+Artigo 14. - Entrada em vigor do Regulamento adicional das radiocomunicações ... 1331
 
 Protocolo adicional aos actos da Conferência Administrativa das Radiocomunicações ... 1331
 
@@ -12392,31 +12412,31 @@ Resoluções adoptadas pela Conferência Administrativa das Radiocomunicações,
 
 Resolução n.º 1 relativa à elaboração do Ficheiro de referência internacional das frequências ... 1337
 
-## Anexo 1. - Método de transferência a partir do Ficheiro de referência das frequências ... 1338
+Anexo 1. - Método de transferência a partir do Ficheiro de referência das frequências ... 1338
 
-## Anexo 2. - Faixas atribuídas em exclusivo ao serviço móvel aeronáutico entre 2850 kHz e 18030 kHz ... 1341
+Anexo 2. - Faixas atribuídas em exclusivo ao serviço móvel aeronáutico entre 2850 kHz e 18030 kHz ... 1341
 
-## Anexo 3. - Faixas atribuídas em exclusivo ao serviço móvel marítimo entre 4000 kHz e 23000 kHz para as estações costeiras radiotelefónicas ... 1341
+Anexo 3. - Faixas atribuídas em exclusivo ao serviço móvel marítimo entre 4000 kHz e 23000 kHz para as estações costeiras radiotelefónicas ... 1341
 
-## Anexo 4. - Faixas atribuídas em exclusivo ao serviço móvel marítimo entre 4000 kHz e 23000 kHz para as estações radiotelefónicas de navio ... 1341
+Anexo 4. - Faixas atribuídas em exclusivo ao serviço móvel marítimo entre 4000 kHz e 23000 kHz para as estações radiotelefónicas de navio ... 1341
 
-## Anexo 5. - Faixas compreendidas entre 3950 kHz (4000 kHz na Região 2) e 27500 kHz, diferentes das faixas atribuídas em exclusivo ao serviço móvel aeronáutico, ao serviço móvel marítimo ou ao serviço de amador ... 1341
+Anexo 5. - Faixas compreendidas entre 3950 kHz (4000 kHz na Região 2) e 27500 kHz, diferentes das faixas atribuídas em exclusivo ao serviço móvel aeronáutico, ao serviço móvel marítimo ou ao serviço de amador ... 1341
 
-## Anexo 6. - Faixas de frequências acima de 27500 kHz ... 1342
+Anexo 6. - Faixas de frequências acima de 27500 kHz ... 1342
 
 Resolução n.º 2 relativa à aplicação, entre 1 de Março de 1960 e 31 de Abril de 1961, do procedimento especificado no artigo 10 do Regulamento das radiocomunicações, Genebra, 1959, para as faixas atribuídas em exclusivo ao serviço de radiodifusão entre 5950 kHz e 26100 kHz ... 1343
 
 Resolução n.º 3 relativa ao estudo por um grupo de peritos das medidas a tomar para reduzir o congestionamento nas faixas compreendidas entre 4 MHz e 27,5 MHz ... 1343
 
-## Anexo 1. - Estudo preliminar a fazer antes da reunião do grupo de peritos ... 1344
+Anexo 1. - Estudo preliminar a fazer antes da reunião do grupo de peritos ... 1344
 
-## Anexo 2. - Mandato do grupo de peritos que estudará os meios de reduzir o congestionamento nas faixas compreendidas entre 4 MHz e 27,5 MHz ... 1344
+Anexo 2. - Mandato do grupo de peritos que estudará os meios de reduzir o congestionamento nas faixas compreendidas entre 4 MHz e 27,5 MHz ... 1344
 
 Resolução n.º 4 relativa a certas inscrições do Ficheiro de referência das frequências nas faixas abaixo de 27500 kHz ... 1344
 
-## Anexo 1. - Faixas abaixo de 3950 kHz (4000 kHz na região 2), com excepção das faixas atribuídas em exclusivo ao serviço móvel aeronáutico acima de 2850 kHz ... 1345
+Anexo 1. - Faixas abaixo de 3950 kHz (4000 kHz na região 2), com excepção das faixas atribuídas em exclusivo ao serviço móvel aeronáutico acima de 2850 kHz ... 1345
 
-## Anexo 2. - Faixas partilhadas entre 3950 kHz (4000 kHz na região 2) e 27500 kHz ... 1346
+Anexo 2. - Faixas partilhadas entre 3950 kHz (4000 kHz na região 2) e 27500 kHz ... 1346
 
 Resolução n.º 5 relativa à notificação das consignações de frequência ... 1346
 
@@ -12476,11 +12496,11 @@ Recomendação n.º 16 relativa às medidas a tomar para impedir o funcionamento
 
 Recomendação n.º 17 relativa à adopção de modelos normalizados de licenças concedidas às estações de navios e às estações de aeronaves ... 1356
 
-## Anexo 1. - Princípios a seguir para elaborar modelos normalizados de licenças a conceder às estações de navio e às estações de aeronave ... 1356
+Anexo 1. - Princípios a seguir para elaborar modelos normalizados de licenças a conceder às estações de navio e às estações de aeronave ... 1356
 
-## Anexo 2. - Licenças de estação de navio ... 1357
+Anexo 2. - Licenças de estação de navio ... 1357
 
-## Anexo 3. - Licença de estação de aeronave ... 1357
+Anexo 3. - Licença de estação de aeronave ... 1357
 
 Recomendação n.º 18 relativa aos certificados de operador ... 1357
 
@@ -12492,11 +12512,11 @@ Recomendação n.º 21 relativa às disposições técnicas referentes aos radio
 
 Recomendação n.º 22 à Organização Intergovernamental Consultiva da Navegação Marítima, à Organização da Aviação Civil Internacional e às administrações, relativa a um código radiotelefónico internacional para o serviço móvel marítimo ... 1358
 
-## Anexo 1. - Características fundamentais de um meio de expressão radiotelefónica internacional para o serviço móvel marítimo ... 1359
+Anexo 1. - Características fundamentais de um meio de expressão radiotelefónica internacional para o serviço móvel marítimo ... 1359
 
-## Anexo 2. - Código radiotelefónico internacional para o serviço móvel marítimo ... 1360
+Anexo 2. - Código radiotelefónico internacional para o serviço móvel marítimo ... 1360
 
-## Anexo 3. - Modelo de quadro ... 1368
+Anexo 3. - Modelo de quadro ... 1368
 
 Recomendação n.º 23 à Conferência para a salvaguarda da vida humana no mar, relativamente ao emprego da expressão «socorro (reserva)» ... 1369
 

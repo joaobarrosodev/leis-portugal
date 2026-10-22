@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/80/2026/02/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/80-2026-1051282298
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-16T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e11d78ad9b7515d34c8ffd517e157b9fa0021ba7020d237ff2c2d663b857343e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7aa2f5d98cb00cc70b738edfafb45ce5cc09f96ec730ab0a24e170b0fff43a07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,16 @@ reuse:
 subjects:
 - Cartão de Identificação
 - Cartão Nacional de Dador de Sangue
-- Instituto Português do Sangue e da Transplantação
 - Dador de Sangue
+- Instituto Português do Sangue e da Transplantação
 - Regulamentação de Atos Legislativos
 relationships:
+- type: amends
+  target: pt:numero:portaria:124-A/2013
+  label: Altera, a partir de 17 de maio de 2026, o anexo i à Portaria n.º 124-A/2013, de 27 de março, Diário da República
+    n.º 61/2013, 1º Suplemento, Série I
+  source: null
+  date: '2013-03-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/87-a/2025/07/25/p/dre
   label: null
@@ -84,16 +90,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/124-a/2013/03/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/124-a/2013/03/27/p/dre
+- type: cites
+  target: pt:dre:174551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928659530:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:38Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +148,7 @@ O anexo i à [Portaria n.º 124-A/2013](https://diariodarepublica.pt/dr/detalhe/
 
 A presente portaria entra em vigor 90 dias após a sua publicação.
 
-**A Secretária de Estado da Saúde, Ana Margarida Pinheiro Povo, em 9 de fevereiro de 2026.**
+A Secretária de Estado da Saúde, Ana Margarida Pinheiro Povo, em 9 de fevereiro de 2026.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -136,9 +158,11 @@ A presente portaria entra em vigor 90 dias após a sua publicação.
 
 Modelo do Cartão Nacional de Dador de Sangue
 
-![](https://files.diariodarepublica.pt/images/1051282298/1051282202.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1051282298/1051282202.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1051282298/1051282203.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1051282298/1051282203.png) |
+| --- |
 
 1 - O Cartão Nacional de Dador de Sangue é feito em PVC, com as dimensões de 85,60 mm por 53,98 mm por 0,76 mm, cor de suporte branco opaco, com impressão a três cores no anverso e uma cor no verso.
 
@@ -169,3 +193,5 @@ c) Em rodapé, ao centro: «IPST, I. P. - Instituto Português do Sangue e da Tr
 d) Abaixo da designação «IPST, I. P. - Instituto Português do Sangue e da Transplantação», ao centro: «Parque de Saúde de Lisboa, Av. Do Brasil, n.º 53 - Pav. 17 1749-005 LISBOA»;
 
 e) Abaixo da designação referida na alínea anterior, ao centro: «Tel: [+351] 21 792 10 00».
+
+119947661

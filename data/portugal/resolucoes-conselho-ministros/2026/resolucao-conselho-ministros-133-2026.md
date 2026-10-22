@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/133/2026/06/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/133-2026-1138160260
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-24T00:00:00Z'
+  retrieved_at: '2026-10-22T18:44:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ecf2cbc0c5a26eb81c7be8a3d0e2e6f20607a1dd827aff9e6d806a9366eb07b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 164bb542ec856cc96fb0da009940b759852df4e011fd0870e54baea1a40be1db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:44:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Água
-- Recursos Hídricos
-- Página na Internet
-- Gestão do Ambiente
 - Agência Portuguesa do Ambiente
+- Água
 - Estratégia «Água Que Une»
+- Gestão do Ambiente
+- Página na Internet
+- Recursos Hídricos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/123/2026/06/24/p/dre
@@ -88,16 +88,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/62/2024/04/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/62/2024/04/03/p/dre
+- type: cites
+  target: pt:dre:1138160259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:858631718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:872108077:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:44:56Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +154,7 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Minis
 
 Presidência do Conselho de Ministros, 30 de abril de 2026. - O Primeiro-Ministro, Luís Montenegro.
 
-## ANEXO — (a que se referem os n.<sup>os</sup>1 e 3)
+## ANEXO — (a que se referem os n.os1 e 3)
 
 Estratégia «Água Que Une»
 
@@ -198,13 +218,15 @@ Reforçar a sustentabilidade ambiental:
 
 Reforçar a sustentabilidade ambiental através do restauro fluvial, implementação de caudais ecológicos e garantia do bom estado das massas de água.
 
-![](https://files.diariodarepublica.pt/images/1138160260/1138160142.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138160260/1138160142.png) |
+| --- |
 
 PRINCÍPIOS DE BASE
 
 A Estratégia «Água Que Une» rege-se por um conjunto de princípios que visam facilitar a concretização dos objetivos propostos, tendo como base a gestão integrada dos recursos hídricos:
 
-![](https://files.diariodarepublica.pt/images/1138160260/1138160143.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138160260/1138160143.png) |
+| --- |
 
 DE ONDE PARTIMOS
 
@@ -212,25 +234,29 @@ Para suportar o desenvolvimento da estratégia, com recurso à informação exis
 
 Disponibilidades de água, consumos e escassez hídrica
 
-![](https://files.diariodarepublica.pt/images/1138160260/1138160144.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138160260/1138160144.png) |
+| --- |
 
 As disponibilidades de água 1 em Portugal continental são superiores às necessidades. No entanto, existe uma grande variabilidade regional, sazonal e interanual do regime hidrológico no País, sobretudo nas regiões a sul, Alentejo e Algarve.
 
 As necessidades ecológicas são cerca de 10 % das disponibilidades hídricas.
 
-![](https://files.diariodarepublica.pt/images/1138160260/1138160145.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138160260/1138160145.png) |
+| --- |
 
 Atualmente, as águas subterrâneas representam 12 % da água captada para todos os usos, tendo a restante origem nas águas superficiais.
 
 Destaca-se que 53 % dos volumes captados têm origem em bacias transfronteiriças.
 
-![](https://files.diariodarepublica.pt/images/1138160260/1138160146.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138160260/1138160146.png) |
+| --- |
 
 As projeções associadas ao cenário climático RCP 4.5 apontam para uma redução das disponibilidades médias nacionais em 6 % em 2040. No que respeita aos consumos pelos setores de atividade, as projeções indicam um aumento de 26 %.
 
 Em Portugal continental, 73 % da água captada atualmente destina-se à agricultura. Existem atualmente 357 mil hectares de área de regadio público. Em 2040, prevê-se que a agricultura seja responsável por 75 % dos volumes captados. No gráfico seguinte, são apresentados os volumes captados atuais e futuros (2040) por setor de atividade.
 
-![](https://files.diariodarepublica.pt/images/1138160260/1138160147.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138160260/1138160147.png) |
+| --- |
 
 ** Volumes atuais consumptivos por setor em ano médio - Fontes: (a) Urbano, indústria e pecuária, APA, 3.º ciclo PGRH; agricultura, EDIA/DGADR 2024.
 
@@ -238,7 +264,8 @@ Em Portugal continental, 73 % da água captada atualmente destina-se à agricult
 
 Através da análise do índice de escassez (WEI+) 2, torna-se evidente a assimetria regional da escassez hídrica em Portugal continental. Em algumas regiões, observa-se que, atualmente, mais de 50 % das disponibilidades estão já a ser solicitadas, projetando-se o agravamento da situação, especialmente a sul do Tejo.
 
-![](https://files.diariodarepublica.pt/images/1138160260/1138160148.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138160260/1138160148.png) |
+| --- |
 
 Projeta-se que o índice de escassez tenderá a agravar-se 3 com o efeito conjugado das alterações climáticas e do aumento da procura, como se evidencia na tabela abaixo.
 
@@ -253,11 +280,11 @@ Projeta-se que o índice de escassez tenderá a agravar-se 3 com o efeito conjug
 | RH7 Guadiana | 51% | +33,02% |
 | RH8 Ribeiras Algarve | 66% | +11,77% |
 
-<sup>1</sup> WEI+ no RCP 4.5, para período 2041-2070. Fonte: Roteiro Nacional de Adaptação 2100, APA
+1 WEI+ no RCP 4.5, para período 2041-2070. Fonte: Roteiro Nacional de Adaptação 2100, APA
 
 Armazenamento de água e interligações existentes
 
-Em Portugal continental, existem perto de 13 600 barragens e açudes, das quais 260 são grandes barragens 4. Nas barragens monitorizadas pela Agência Portuguesa do Ambiente, que correspondem a cerca de 30 % do total, a capacidade máxima de armazenamento atual é de 15 118 hm<sup>3</sup>. Nas barragens monitorizadas pela Direção-Geral de Agricultura e Desenvolvimento Rural, a capacidade máxima de armazenamento atual é de 7014 hm<sup>3</sup>.
+Em Portugal continental, existem perto de 13 600 barragens e açudes, das quais 260 são grandes barragens 4. Nas barragens monitorizadas pela Agência Portuguesa do Ambiente, que correspondem a cerca de 30 % do total, a capacidade máxima de armazenamento atual é de 15 118 hm3. Nas barragens monitorizadas pela Direção-Geral de Agricultura e Desenvolvimento Rural, a capacidade máxima de armazenamento atual é de 7014 hm3.
 
 As barragens e interligações desempenham um importante papel de regularização face à variabilidade do regime hidrológico, contribuindo para a resiliência e segurança hídrica. Contudo, muitos dos sistemas existentes necessitam de intervenções profundas, como sistemas de vídeo-alerta, sistemas para a libertação de caudais ecológicos, órgãos de segurança e reforço da integridade estrutural.
 
@@ -271,7 +298,7 @@ Origens de água não convencionais
 
 Em Portugal, apenas 1,2 % de água residual é reutilizada para fins compatíveis como regas e lavagens, apesar dos esforços desenvolvidos nos últimos anos para acelerar a sua utilização.
 
-A primeira estação de dessalinização de água do mar para abastecimento público de água em Portugal continental, a construir no concelho de Albufeira, deverá estar concluída entre final de 2027 e início de 2028, permitindo produzir 16 hm<sup>3</sup>/ano de água potável, com potencial de expansão até 24 hm<sup>3</sup>/ano.
+A primeira estação de dessalinização de água do mar para abastecimento público de água em Portugal continental, a construir no concelho de Albufeira, deverá estar concluída entre final de 2027 e início de 2028, permitindo produzir 16 hm3/ano de água potável, com potencial de expansão até 24 hm3/ano.
 
 Sobre a governança
 
@@ -301,7 +328,8 @@ A estratégia foi elaborada com base em critérios de racionalidade, eficiência
 
 As linhas de orientação consideram três eixos de medidas - eficiência, resiliência e inteligência -agregando 294 medidas, cuja identificação consta em anexo.
 
-![](https://files.diariodarepublica.pt/images/1138160260/1138160149.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138160260/1138160149.png) |
+| --- |
 
 A implementação desta estratégia visa garantir a resiliência hídrica e promover a água como um motor de desenvolvimento sustentável em Portugal, envolvendo ações nacionais e de âmbito regional.
 
@@ -309,7 +337,8 @@ As medidas de âmbito nacional, que representam aproximadamente 14 %, estão mai
 
 Medidas de âmbito regional
 
-![](https://files.diariodarepublica.pt/images/1138160260/1138160150.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1138160260/1138160150.png) |
+| --- |
 
 EIXO DA EFICIÊNCIA
 
@@ -319,11 +348,11 @@ Foco: otimizar recursos existentes.
 
 Em consonância com as prioridades definidas, foram identificadas três tipologias de medidas, redução de perdas de água, promoção da utilização de água residual tratada para usos não potáveis (agricultura, indústria, turismo e usos urbanos) e reabilitação e otimização da exploração das infraestruturas existentes.
 
-Foram identificadas 111 medidas (fundamentalmente de âmbito regional), com investimento de cerca de 1814 milhões de euros até 2035, que irão permitir diminuir as ineficiências hídricas em 328 hm<sup>3</sup> de água, aumentar a segurança hídrica em mais 310 hm<sup>3</sup> e disponibilizar mais 122 hm<sup>3</sup> de água residual tratada.
+Foram identificadas 111 medidas (fundamentalmente de âmbito regional), com investimento de cerca de 1814 milhões de euros até 2035, que irão permitir diminuir as ineficiências hídricas em 328 hm3 de água, aumentar a segurança hídrica em mais 310 hm3 e disponibilizar mais 122 hm3 de água residual tratada.
 
 Neste eixo destaca-se em particular:
 
-Programa de Ação para a Redução de Perdas de Água, com vista ao controlo e redução de perdas nos sistemas em baixa de abastecimento de água potável. Neste programa inserem-se as ações para a reabilitação/otimização dos sistemas de abastecimento (cujas perdas atingem cerca de 81 hm<sup>3</sup>), assim como a promoção de tarifas adequadas que sustentem a viabilidade económica e financeiras das entidades gestoras;
+Programa de Ação para a Redução de Perdas de Água, com vista ao controlo e redução de perdas nos sistemas em baixa de abastecimento de água potável. Neste programa inserem-se as ações para a reabilitação/otimização dos sistemas de abastecimento (cujas perdas atingem cerca de 81 hm3), assim como a promoção de tarifas adequadas que sustentem a viabilidade económica e financeiras das entidades gestoras;
 
 Programa para a Eficiência dos Empreendimentos Hidroagrícolas, que integra diversas medidas de beneficiação e modernização de empreendimentos públicos, provendo uma governança global, mais eficaz, eficiente e resiliente dos recursos hídricos. Destacam-se, em particular, os aproveitamentos do Vale da Vilariça, do Baixo Mondego, de Idanha-a-Nova, do Mira, de Silves-Lagoa-Portimão e do Alvor;
 
@@ -347,7 +376,7 @@ Neste eixo destaca-se:
 
 Programa para o Reforço do Armazenamento de Água, que inclui o aumento da capacidade das barragens existentes e a construção de novas barragens, que permitirá reforçar as disponibilidades hídricas, assegurando a resposta às necessidades de usos consumptivos. Prevê-se o estudo de 14 novas barragens, assim como a intervenção em 12 barragens existentes;
 
-Programa ZILS/H<sub>2</sub>O para a gestão integrada e sustentável do abastecimento ao polo industrial de Sines, que assenta num modelo de operador único público que permita gerir de forma integrada as diversas origens de água disponíveis e garanta a equidade e competitividade nos serviços prestados;
+Programa ZILS/H2O para a gestão integrada e sustentável do abastecimento ao polo industrial de Sines, que assenta num modelo de operador único público que permita gerir de forma integrada as diversas origens de água disponíveis e garanta a equidade e competitividade nos serviços prestados;
 
 Programa para a Resiliência Hídrica do Tejo, que reforça a autonomia nacional e a valorização económica e ambiental da região através de um conjunto de medidas que inclui: a construção da barragem do Alvito e a otimização da exploração das barragens existentes; a promoção da utilização de água residual tratada; a implementação do Programa EPAL 2040, com reforço da captação da Valada e a partilha de infraestruturas para reforço de abastecimento ao regadio;
 
@@ -359,7 +388,7 @@ De forma particular, destacam-se ainda a implementação de interligações entr
 
 Releva-se, também, para o controlo do risco de cheias a necessidade de infraestruturas de proteção e a aplicação de soluções de base natural para a estabilização das margens das linhas de água.
 
-Estão consideradas 139 medidas, com investimento de cerca de 3836 milhões de euros até 2035, que irão permitir aumentar a segurança hídrica em mais 437 hm<sup>3</sup> e disponibilizar mais 966 hm<sup>3</sup> de água para usos consumptivos.
+Estão consideradas 139 medidas, com investimento de cerca de 3836 milhões de euros até 2035, que irão permitir aumentar a segurança hídrica em mais 437 hm3 e disponibilizar mais 966 hm3 de água para usos consumptivos.
 
 EIXO DA INTELIGÊNCIA
 
@@ -436,9 +465,9 @@ Serão desenvolvidos modelos inovadores de gestão dos perímetros hidroagrícol
 
 Será promovida a formação especializada para os setores utilizadores da água, capacitando a administração, empresas, serviços e utilizadores finais.
 
-| Âmbito territorial | Eixo | Promotor | Medida | Prazo | Investimento 2025-2035 |
+| (em milhões de euros) |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| (em milhões de euros) | (em milhões de euros) | (em milhões de euros) | (em milhões de euros) | (em milhões de euros) | (em milhões de euros) |
+| Âmbito territorial | Eixo | Promotor | Medida | Prazo | Investimento 2025-2035 |
 | Alentejo | Eficiência | Grupo AdP | Redução de perdas na rede da Vila Nova de Santo André_AdSA | 2025-2030 | 1,5 |
 | Alentejo | Eficiência | Grupo AdP | Redução de perdas no sistema de abastecimento de água industrial da ZILS_AdSA | 2026-2027 | 1,8 |
 | Alentejo | Eficiência | Grupo AdP | Reabilitação do canal de Ermidas-Sado_AdSA | 2025 | 6,0 |
@@ -734,16 +763,20 @@ Será promovida a formação especializada para os setores utilizadores da água
 | Nacionais | Inteligência | APA | Revisão do [Decreto-Lei n.º 97/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2008-449464) para melhor adequação ao combate à escassez hídrica considerando as conclusões do estudo realizado sobre a fiscalidade verde | 2025-2027 | NA |
 | Nacionais | Resiliência | Setor agrícola | Programa de apoio à construção de charcas, reservatórios e pequenas barragens privadas | 2025-2035 | 250,0 |
 
-<sup>1</sup>Volumes médios nacionais anuais em regime modificado; período histórico 1989-2015.
+1Volumes médios nacionais anuais em regime modificado; período histórico 1989-2015.
 
-<sup>I</sup>Volumes consumptivos por setor e por RH - Fontes: (a) Urbano, indústria e pecuária, APA, 3.º ciclo PGRH; agricultura, EDIA/DGADR 2024. Exclui hidroeletricidade.
+IVolumes consumptivos por setor e por RH - Fontes: (a) Urbano, indústria e pecuária, APA, 3.º ciclo PGRH; agricultura, EDIA/DGADR 2024. Exclui hidroeletricidade.
 
 (a) Média dos volumes anuais captados para consumo pelo setor urbano, pecuária, indústria (dados 3.º ciclo PGRH, APA) e agricultura (dados DGADR) em 2021-2023.
 
 Fontes: (a) Urbano, indústria e pecuária, APA, 3.º ciclo PGRH; Agricultura, EDIA/DGADR 2024. Exclui hidroeletricidade.
 
-<sup>2</sup> O índice de escassez (WEI+) representa o balanço entre a disponibilidade e o consumo. Fonte: WEI+ atual, PGRH do 3.º ciclo, APA, 2024. Os valores do WEI+ serão sujeitos a avaliação e atualização periódicas, conforme previsto no n.º 7 da [Resolução do Conselho de Ministros n.º 62/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/62-2024-858631718), de 3 de abril.
+2 O índice de escassez (WEI+) representa o balanço entre a disponibilidade e o consumo. Fonte: WEI+ atual, PGRH do 3.º ciclo, APA, 2024. Os valores do WEI+ serão sujeitos a avaliação e atualização periódicas, conforme previsto no n.º 7 da [Resolução do Conselho de Ministros n.º 62/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/62-2024-858631718), de 3 de abril.
 
-<sup>3</sup> Os valores do WEI+ serão sujeitos a avaliação e atualização periódicas, conforme previsto no n.º 7 da [Resolução do Conselho de Ministros n.º 62/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/62-2024-858631718), de 3 de abril.
+3 Os valores do WEI+ serão sujeitos a avaliação e atualização periódicas, conforme previsto no n.º 7 da [Resolução do Conselho de Ministros n.º 62/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/62-2024-858631718), de 3 de abril.
 
-<sup>4</sup>Barragens com altura superior a 15 metros ou armazenamento superior a 1 hm<sup>3</sup>.
+4Barragens com altura superior a 15 metros ou armazenamento superior a 1 hm3.
+
+119948844
+
+.Tbl1 { border-collapse:collapse; border-width:1px; border-color:rgb(255,255,255); } .Tbl2 { height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:18px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,242,204); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(191,143,0); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(128,96,0); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(192,0,0); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl14 { min-height:23px; } .Tbl15 { height:14px; } .Tbl16 { margin-top:3px; margin-bottom:3px; text-align:right; } .Tbl17 { min-height:26px; } .Tbl18 { min-height:35px; } .Tbl19 { min-height:37px; } .Tbl20 { min-height:28px; } .Tbl21 { min-height:56px; } .Tbl22 { min-height:47px; } .Tbl23 { min-height:45px; } .Tbl24 { min-height:81px; } .Tbl25 { min-height:36px; } .Tbl26 { min-height:27px; } .Tbl27 { min-height:54px; } .Tbl28 { min-height:63px; } .Tbl29 { min-height:55px; } .Tbl30 { min-height:66px; } .Tbl31 { min-height:46px; } .Tbl32 { min-height:83px; } .Tbl33 { min-height:74px; } .Tbl34 { min-height:65px; } .Tbl35 { min-height:84px; } .Tbl36 { min-height:131px; } .Tbl37 { min-height:80px; } .Tbl38 { text-align:justify; text-align-last:justify; } .Tbl39 { min-height:93px; } .Tbl40 { min-height:114px; } .Tbl41 { min-height:76px; } .Tbl42 { min-height:90px; } .Tbl43 { min-height:75px; } .Tbl44 { min-height:44px; } .Tbl45 { min-height:61px; } .Tbl46 { min-height:17px; } .Tbl47 { min-height:53px; } .Tbl48 { min-height:57px; }

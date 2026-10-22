@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 253/2001, 5º Suplemento, Série I-B de 2001-10-31
   number: '253'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 6990-(37) a 6990-(38)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/10/253b05/00370038.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/20-al/2001/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-al-2001-483470
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-01-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:58:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 748076ab00f026059f1302319dae91b79eb4727db92413056b9ebda22e28a24a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 370ce312bb22be96ac0918ae8ff2535ba955f0d40f52199e683c65d530f104ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:58:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -84,16 +84,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/851/2001/07/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/851/2001/07/26/p/dre
+- type: cites
+  target: pt:dre:437855:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:506217:por
+  label: "Rectificada pela DECL-RECT.3-B/2002.2002.01.31.PCM DR.IS-B [26]4ºSUPL \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/3-b-2002-506217
+  date: '2002-01-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:58:24Z'
   warnings: []
   errors: []
 ---

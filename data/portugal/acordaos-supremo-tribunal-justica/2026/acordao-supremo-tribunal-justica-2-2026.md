@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/2/2026/04/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/2-2026-1086390770
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-17T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d729962c257c8a0592611e9230e25df7d23b0cdd376f6d7e586b2be6479872be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4563f3b92e45c36c26a7e2bbe8eb5091571116681c64ec6346f92334a85701b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código de Processo Penal
+- Comunicação de Irregularidades
 - Interpretação do Direito
 - Jurisprudencia
 - Supremo Tribunal de Justiça
-- Comunicação de Irregularidades
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/15/1993/01/22/p/dre
@@ -101,16 +101,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiconst/1/1997/09/20/p/dre
   label: null
   source: http://data.dre.pt/eli/leiconst/1/1997/09/20/p/dre
+- type: cites
+  target: pt:dre:122373680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176235804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:71020777:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:33Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +183,7 @@ No dia 17/04/2024 foi o Arguido submetido a 1.º interrogatório judicial de Arg
 
 II
 
-O Artigo 147.º<sup>1</sup>, n.º 7 do C.P.P. dispõe que: “O interrogatório do arguido é efectuado, em regra, através de registo áudio ou audiovisual, só podendo ser utilizados outros meio idóneo a assegurar a reprodução integral daquelas, ou a documentação através de auto, quando aqueles meios não estiverem disponíveis, o que deverá ficar a constar do auto.”
+O Artigo 147.º1, n.º 7 do C.P.P. dispõe que: “O interrogatório do arguido é efectuado, em regra, através de registo áudio ou audiovisual, só podendo ser utilizados outros meio idóneo a assegurar a reprodução integral daquelas, ou a documentação através de auto, quando aqueles meios não estiverem disponíveis, o que deverá ficar a constar do auto.”
 
 III
 
@@ -299,7 +347,7 @@ d) Cumpre proceder à sua uniformização, a fim de garantir a unidade do ordena
 
 e) Entendendo o Ministério Público que a situação não se pode integrar na previsão da alínea a) do artigo 410.º, n.º 2, CPP, por não se reconduzir à falta de matéria probatória que fundamenta a aplicação das medidas de coação, mas apenas quanto à não redução a escrito do despacho onde tal matéria é referida;
 
-f) Não podendo igualmente a situação configurar nulidade, atento o princípio da tipicidade legal nessa matéria, por força do disposto no artigo 118.º, n.<sup>os</sup>1 e 2, do CPP);
+f) Não podendo igualmente a situação configurar nulidade, atento o princípio da tipicidade legal nessa matéria, por força do disposto no artigo 118.º, n.os1 e 2, do CPP);
 
 g) E daqui resultando, assim, a verificação de mera irregularidade, nos termos previstos no artigo 123.º do CPP, quando aqui se prevê que qualquer irregularidade do processo só determina a invalidade do ato a que se refere e dos seus termos subsequentes que possa afetar quando tiver sido arguida pelos interessados no próprio ato;
 
@@ -353,9 +401,9 @@ Pelo acórdão proferido a 20 de março de 2025, pela 5.ª Secção do Supremo T
 
 Todavia, uma vez que a referida decisão não vincula o pleno das secções criminais, que pode decidir em sentido contrário ao da conferência da secção (artigo 692.º, n.º 4, do Código de Processo Civil, ex vi artigo 4.º do Código de Processo Penal), importa proceder ao reexame sumário dos pressupostos do presente recurso.
 
-O disposto nos artigos 437.º, n.<sup>os</sup>1, 2 e 3 e 438.º, n.<sup>os</sup>1 e 2, do CPP, estatui, tal como é entendimento pacífico da jurisprudência deste Supremo Tribunal de Justiça, que a admissibilidade do recurso extraordinário para fixação de jurisprudência depende, antes de mais, da verificação dos seguintes requisitos formais:
+O disposto nos artigos 437.º, n.os1, 2 e 3 e 438.º, n.os1 e 2, do CPP, estatui, tal como é entendimento pacífico da jurisprudência deste Supremo Tribunal de Justiça, que a admissibilidade do recurso extraordinário para fixação de jurisprudência depende, antes de mais, da verificação dos seguintes requisitos formais:
 
-i) Os acórdãos em conflito serem de tribunais superiores, ambos do Supremo Tribunal de Justiça, ambos de Tribunal da Relação, ou um [o recorrido] da Relação, mas de que não seja admissível recurso ordinário, e o outro [o fundamento] do Supremo - artigo 437.º, n.<sup>os</sup>1 e 2, do CPP;
+i) Os acórdãos em conflito serem de tribunais superiores, ambos do Supremo Tribunal de Justiça, ambos de Tribunal da Relação, ou um [o recorrido] da Relação, mas de que não seja admissível recurso ordinário, e o outro [o fundamento] do Supremo - artigo 437.º, n.os1 e 2, do CPP;
 
 ii) O trânsito em julgado dos dois acórdãos - artigos 437.º, n.º 4 e 438.º, n.º 1, do CPP;
 
@@ -363,7 +411,7 @@ iii) A interposição do recurso no prazo de 30 dias contados do trânsito em ju
 
 iv) A identificação do aresto com o qual o acórdão recorrido se encontra em oposição (acórdão-fundamento), com menção, caso se encontre publicado, do lugar da publicação - artigo 438.º, n.º 2, do CPP;
 
-v) A indicação de (apenas) um acórdão-fundamento - artigos 437.º, n.<sup>os</sup>1, 2 e 3 e 438.º, n.º 2, do CPP;
+v) A indicação de (apenas) um acórdão-fundamento - artigos 437.º, n.os1, 2 e 3 e 438.º, n.º 2, do CPP;
 
 vi) A legitimidade do recorrente - artigo 437.º n.º 5, do CPP;
 
@@ -383,13 +431,13 @@ Estão em causa dois acórdãos - recorrido e fundamento - da Relação de Lisbo
 
 Verifica-se, assim, estarem preenchidos todos os requisitos de natureza formal.
 
-No que respeita aos requisitos de ordem substancial, tal corresponde à oposição de julgados propriamente dita entre os acórdãos em presença, nos termos previstos no artigo 437.º, n.<sup>os</sup>1 e 3, do CPP.
+No que respeita aos requisitos de ordem substancial, tal corresponde à oposição de julgados propriamente dita entre os acórdãos em presença, nos termos previstos no artigo 437.º, n.os1 e 3, do CPP.
 
 A questão em causa terá de ter sido decidida de modo expresso em ambos os acórdãos e tomada a título principal, pelo que a mera oposição de posições implícitas ou diferente fundamentação não são idóneas para se concluir pela oposição.
 
 Acresce que as situações subjacentes de facto terão de ser substancialmente idênticas, pois só assim se poderá aferir se para a mesma questão jurídica foram adotadas soluções opostas.
 
-Finalmente, impõe-se ainda que a questão sob apreciação não tenha sido objeto de anterior fixação de jurisprudência<sup>2</sup>.
+Finalmente, impõe-se ainda que a questão sob apreciação não tenha sido objeto de anterior fixação de jurisprudência2.
 
 - Estão em causa, um acórdão do Tribunal da Relação de Lisboa - o acórdão-recorrido -, proferido em 26-09-2024, no Proc. n.º 6/23.1PJLRS.-A.L1-A.S1, transitado em julgado em 10-10-2024, e um acórdão do Tribunal da Relação de Lisboa - o acórdão-fundamento -, proferido em 11-09-2019, no Proc. n.º 133/19.0SHLSB-A.L1-3.ª Secção, transitado em julgado em 27-09-2019.
 
@@ -399,7 +447,7 @@ Finalmente, impõe-se ainda que a questão sob apreciação não tenha sido obje
 
 Acórdão-recorrido e acórdão-fundamento foram proferidos no domínio da mesma legislação, debruçando-se sobre a mesma questão de direito, no domínio da mesma legislação, não tendo intercedido entre a sua prolação - entre 11-09-2019 e 26-09-2024 - modificação legislativa que interfira, direta ou indiretamente, na resolução da questão de direito controvertida, nomeadamente no tocante às normas abstratamente convocáveis, concretamente as dos artigos 96.º, n.º 4 e 141.º, n.º 7, do Código de Processo Penal.
 
-A questão a decidir não foi objeto de anterior fixação de jurisprudência<sup>3</sup>.
+A questão a decidir não foi objeto de anterior fixação de jurisprudência3.
 
 II.2 - Da oposição de julgados
 
@@ -461,7 +509,7 @@ Acresce, ainda, que se considerou que a consequência processual da procedência
 
 Todavia, de acordo com o arquétipo legal, a omissão de redução a escrito da matéria de facto “fortemente indiciada” no despacho que aplicou as medidas de coação redundará em mera irregularidade que, não tendo sido suscitada atempadamente, se terá de ter necessariamente por sanada
 
-Há que ressaltar que foi considerado não estar em causa a falta de fundamentação do despacho ou um qualquer desvio legal à obrigação de fundamentação a que alude o citado art. 194.º, n.º 4, do CPP (única suscetível de consubstanciar a nulidade de tal despacho<sup>4</sup>).
+Há que ressaltar que foi considerado não estar em causa a falta de fundamentação do despacho ou um qualquer desvio legal à obrigação de fundamentação a que alude o citado art. 194.º, n.º 4, do CPP (única suscetível de consubstanciar a nulidade de tal despacho4).
 
 Foi, assim, nessa parte, julgado improcedente o recurso do ali arguido, aqui recorrente.
 
@@ -577,21 +625,21 @@ No caso do 1.º interrogatório judicial de arguido detido, o art. 141.º, n.º 
 
 O acórdão-recorrido do TRL decidiu que:
 
-«Todavia, de acordo com o arquétipo legal, tal omissão - de redução a escrito do despacho que aplicou as medidas de coacção - redundará em mera irregularidade que, não tendo sido suscitada atempadamente, se terá de ter necessariamente por sanada<sup>10</sup>.
+«Todavia, de acordo com o arquétipo legal, tal omissão - de redução a escrito do despacho que aplicou as medidas de coacção - redundará em mera irregularidade que, não tendo sido suscitada atempadamente, se terá de ter necessariamente por sanada10.
 
-Na verdade, como tem sido entendido<sup>11</sup>, a possibilidade de conhecimento oficioso, pelo Tribunal ad quem, de irregularidades, deverá cingir-se àquelas que assumem particular gravidade, designadamente as que sejam susceptíveis de afectar direitos fundamentais dos sujeitos processuais, o que, de todo, não é o caso.»
+Na verdade, como tem sido entendido11, a possibilidade de conhecimento oficioso, pelo Tribunal ad quem, de irregularidades, deverá cingir-se àquelas que assumem particular gravidade, designadamente as que sejam susceptíveis de afectar direitos fundamentais dos sujeitos processuais, o que, de todo, não é o caso.»
 
-Sufragam este mesmo entendimento - de se estar perante mera irregularidade -, além do acórdão aqui recorrido<sup>5</sup>, as decisões dos seguintes acórdãos:
+Sufragam este mesmo entendimento - de se estar perante mera irregularidade -, além do acórdão aqui recorrido5, as decisões dos seguintes acórdãos:
 
-- do Tribunal da Relação do Porto, de 24-11-2021, no processo n.º 404/21.5GBPRD-B.P1, relator Desembargador Paulo Costa<sup>6</sup>;
+- do Tribunal da Relação do Porto, de 24-11-2021, no processo n.º 404/21.5GBPRD-B.P1, relator Desembargador Paulo Costa6;
 
-- do Tribunal da Relação de Lisboa, de 07-02-2022, no processo n.º 419/22.6JELSB-B.L1-5, relatora Desembargadora Isilda Pinho<sup>7</sup>;
+- do Tribunal da Relação de Lisboa, de 07-02-2022, no processo n.º 419/22.6JELSB-B.L1-5, relatora Desembargadora Isilda Pinho7;
 
-- do Tribunal da Relação de Évora, de 21-06-2022, no proc. n.º 11/20.0GAETZ-F.E1, relatora Desembargadora Laura Goulart Maurício<sup>8</sup>.
+- do Tribunal da Relação de Évora, de 21-06-2022, no proc. n.º 11/20.0GAETZ-F.E1, relatora Desembargadora Laura Goulart Maurício8.
 
-- do Tribunal da Relação de Lisboa, de 21-12-2023, no processo n.º 6270/22.6T9LSB-A.L1, relator o então Desembargador Antero Luís<sup>9</sup>;
+- do Tribunal da Relação de Lisboa, de 21-12-2023, no processo n.º 6270/22.6T9LSB-A.L1, relator o então Desembargador Antero Luís9;
 
-- do Tribunal da Relação de Lisboa, de 11-01-2024, no processo n.º 511/23.0S6LSB-A.L1-9, relator Desembargador Nuno Matos<sup>10</sup>.
+- do Tribunal da Relação de Lisboa, de 11-01-2024, no processo n.º 511/23.0S6LSB-A.L1-9, relator Desembargador Nuno Matos10.
 
 II.3.2 - Posição do acórdão-fundamento
 
@@ -639,33 +687,33 @@ O acórdão-fundamento do TRL decidiu, de forma expressa, o seguinte:
 
 Perfilhando a mesma solução do acórdão-fundamento, podem recensear-se, entre outros:
 
-- o acórdão do Tribunal da Relação de Lisboa, de 16-03-2022; processo n.º 887/21.3SGLSB-A.L1-3, relator Desembargador Rui Teixeira<sup>11</sup>); e
+- o acórdão do Tribunal da Relação de Lisboa, de 16-03-2022; processo n.º 887/21.3SGLSB-A.L1-3, relator Desembargador Rui Teixeira11); e
 
-- o acórdão do Tribunal da Relação de Évora, de 23-04-2024; processo n.º 2/24.1GAABF-A.E1, relator Desembargador Renato Barroso<sup>12</sup>).
+- o acórdão do Tribunal da Relação de Évora, de 23-04-2024; processo n.º 2/24.1GAABF-A.E1, relator Desembargador Renato Barroso12).
 
 A antecedente exposição permite concluir pela verificação de uma identidade das situações de facto com que foi confrontada a Relação de Lisboa em ambos os acórdãos em oposição.
 
 Em ambas as decisões, foi suscitada a (mesma) questão acima enunciada como sendo a que fixa o objeto do presente recurso de fixação de jurisprudência.
 
-Uma outra posição, que não contende com a decisão aqui a proferir - partindo do pressuposto da desnecessidade de transcrição do teor da decisão judicial proferida após o primeiro interrogatório judicial de arguido detido, e com solução diversa -, é a veiculada pelo acórdão do Tribunal Relação de Lisboa, de 09-03-2023; processo 419/22.6JELSB-E.L1-9<sup>13</sup> (relatora Desembargadora Paula Penha), onde se entendeu que: «O auto de primeiro interrogatório judicial de arguido detido pode conter mera súmula ou tópicos do teor da decisão judicial proferida, sem necessidade da sua transcrição porque a mesma já consta da gravação audio (no sistema ”Citius Media Studio”).
+Uma outra posição, que não contende com a decisão aqui a proferir - partindo do pressuposto da desnecessidade de transcrição do teor da decisão judicial proferida após o primeiro interrogatório judicial de arguido detido, e com solução diversa -, é a veiculada pelo acórdão do Tribunal Relação de Lisboa, de 09-03-2023; processo 419/22.6JELSB-E.L1-913 (relatora Desembargadora Paula Penha), onde se entendeu que: «O auto de primeiro interrogatório judicial de arguido detido pode conter mera súmula ou tópicos do teor da decisão judicial proferida, sem necessidade da sua transcrição porque a mesma já consta da gravação audio (no sistema ”Citius Media Studio”).
 
 Essa decisão de aplicação de medida de coacção, enquanto despacho judicial decisório tem de estar fundamentado, sob cominação de nulidade do acto, mas cuja nulidade está depende da sua arguição tempestiva, pelo interessado aí presente, antes de terminado o respectivo acto judicial.»
 
 II.4 - Aproximação a uma decisão
 
-A doutrina e a jurisprudência nacionais têm sido praticamente unânimes ao sufragar um posicionamento de acordo com o qual, a realização da justiça e a descoberta da verdade material (sendo, em rigor, a segunda, um pressuposto da primeira), constituem a finalidade principal do processo penal<sup>14</sup>. Existindo um poder-dever do juiz - e, no nosso sistema, de qualquer autoridade processual - de alcançar a descoberta da verdade para a boa decisão da causa, através da determinação oficiosa, ou a requerimento, da produção de meios prova necessários e oportunos (artigos 124.º e 340.º do CPP), não pode, porém, a procura da verdade material ser admitida a todo o custo (a qualquer preço), mas sim ser prosseguida de modo processualmente válido, logo, com respeito pelos direitos fundamentais.
+A doutrina e a jurisprudência nacionais têm sido praticamente unânimes ao sufragar um posicionamento de acordo com o qual, a realização da justiça e a descoberta da verdade material (sendo, em rigor, a segunda, um pressuposto da primeira), constituem a finalidade principal do processo penal14. Existindo um poder-dever do juiz - e, no nosso sistema, de qualquer autoridade processual - de alcançar a descoberta da verdade para a boa decisão da causa, através da determinação oficiosa, ou a requerimento, da produção de meios prova necessários e oportunos (artigos 124.º e 340.º do CPP), não pode, porém, a procura da verdade material ser admitida a todo o custo (a qualquer preço), mas sim ser prosseguida de modo processualmente válido, logo, com respeito pelos direitos fundamentais.
 
 Para uma tal compreensão concorre, também, a conceção de um direito processual penal não meramente instrumental e carente de legitimação constitucional. Ao invés, é enformado por um quadro de predeterminações valorativas jusfundamentais que o tornam em direito constitucional aplicado, no dizer de H. Henkel, ou «sismógrafo de valores constitucionais», conforme C. Roxin: contribuindo para a realização das suas finalidades (processuais) - e não apenas, de modo indiferente, para a obtenção de uma decisão condenatória ou absolutória -, concorre para a realização do Direito, em articulação com o direito substantivo.
 
 A consideração do direito processual penal enquanto direito constitucional aplicado, podendo ser um enunciado já algo trivial, continua a ser um pressuposto da arquitetura do nosso ordenamento jurídico-processual penal.
 
-O princípio da legalidade do processo (nulla poena sine processu), que não se confunde com o princípio da legalidade da ação penal, significa que só pode aplicada uma pena ou medida de segurança nos termos de um processo previamente estabelecido em lei ou diploma equivalente aprovado pela entidade competente. Este princípio emerge, desde logo, nos artigos 2.º e 191.º, n.º 1, do CPP, pois, conforme refere João Conde Correia, “A atividade processual penal é uma atividade hiper-regulada, tendo os diversos sujeitos processuais de seguir os procedimentos legalmente previstos, sem grande liberdade de escolha (v.g. art. 405.º CC). Num Estado de direito, não há outra forma de aplicar a lei penal substantiva: a legalidade do procedimento é, ainda, uma forma de a legitimar.” <sup>15</sup>
+O princípio da legalidade do processo (nulla poena sine processu), que não se confunde com o princípio da legalidade da ação penal, significa que só pode aplicada uma pena ou medida de segurança nos termos de um processo previamente estabelecido em lei ou diploma equivalente aprovado pela entidade competente. Este princípio emerge, desde logo, nos artigos 2.º e 191.º, n.º 1, do CPP, pois, conforme refere João Conde Correia, “A atividade processual penal é uma atividade hiper-regulada, tendo os diversos sujeitos processuais de seguir os procedimentos legalmente previstos, sem grande liberdade de escolha (v.g. art. 405.º CC). Num Estado de direito, não há outra forma de aplicar a lei penal substantiva: a legalidade do procedimento é, ainda, uma forma de a legitimar.” 15
 
 Em tal princípio está, também, implícito o dever de aplicação e de estrito respeito das normas processuais, bem como a obrigação de o legislador não criar formas processuais de exceção ou ad hoc.
 
 Constitui, nessa medida, uma garantia de matriz constitucional, mais direta e expressamente inscrita nos artigos 20.º, 27.º e 32.º da CRP; encontra-se igualmente prevista em preceitos de instrumentos jurídicos vinculativos do Estado português - artigos 5.º, §§ 1.º e 6.º I, da CEDH, 14.º do PIDCP e 47.º da CDFUE (assim, Henriques Gaspar, Código de Processo Penal Comentado, A. VV., Coimbra, Almedina, 2021, p. 18).
 
-Avultam, neste contexto, com maior expressão e alcance, as questões da legalidade dos meios de prova. Daí, o cuidado do nosso legislador em reforçar o ensinamento de H. Henkel, no art. 125.º do CPP, reafirmando o princípio da legalidade dos meios de prova - com o seu estatuto de admissibilidade e de eficácia -, relegando para os meios de prova atípicos todos aqueles que não estejam expressamente contemplados naquele diploma<sup>16</sup>.
+Avultam, neste contexto, com maior expressão e alcance, as questões da legalidade dos meios de prova. Daí, o cuidado do nosso legislador em reforçar o ensinamento de H. Henkel, no art. 125.º do CPP, reafirmando o princípio da legalidade dos meios de prova - com o seu estatuto de admissibilidade e de eficácia -, relegando para os meios de prova atípicos todos aqueles que não estejam expressamente contemplados naquele diploma16.
 
 Porém, além dos meios de prova, o processo penal é constituído por todo um feixe de atos, dotados de maior ou menor formalismo, maior ou menor solenidade, mas que devem observar as fórmulas que a lei assinala, sob pena de incorrerem em vícios distintos. No entanto, a previsão de tais fórmulas encerra como ratio legis uma preocupação predominante com a efetivação das garantias processuais dos sujeitos processuais, concretamente com os direitos de defesa processual, no caso do arguido.
 
@@ -677,7 +725,7 @@ A divergência centra-se no despacho judicial que aplicar medidas de coação.
 
 Mas também não existe divergência quanto a tal despacho ter de ser reduzido a escrito - ambas as decisões apontam no sentido dessa necessidade, com amparo nas disposições conjugadas dos art. 96.º, n.º 4 e 141.º, n.º 7 do C.P.P.
 
-A divergência centra-se nas consequências do incumprimento destas normas<sup>17</sup>:
+A divergência centra-se nas consequências do incumprimento destas normas17:
 
 No acórdão recorrido, entendeu-se - em apreciação de recurso interposto pelo arguido - que a omissão de redução a escrito do despacho que aplicou as medidas de coação - redundará em mera irregularidade que, não tendo sido suscitada atempadamente, se terá de ter necessariamente por sanada.
 
@@ -687,7 +735,7 @@ Esta asserção encerra uma síntese da questão a decidir.
 
 As normas imediatamente convocáveis para dirimi-la são as seguintes:
 
-###### Artigo 96.º (Oralidade dos actos)
+Artigo 96.º (Oralidade dos actos)
 
 1 - Salvo quando a lei dispuser de modo diferente, a prestação de quaisquer declarações processa-se por forma oral, não sendo autorizada a leitura de documentos escritos previamente elaborados para aquele efeito.
 
@@ -699,7 +747,7 @@ As normas imediatamente convocáveis para dirimi-la são as seguintes:
 
 5 - O disposto no presente artigo não prejudica as normas relativas às leituras permitidas e proibidas em audiência.
 
-###### Artigo 141.º (Primeiro interrogatório judicial de arguido detido)
+Artigo 141.º (Primeiro interrogatório judicial de arguido detido)
 
 1 - O arguido detido que não deva ser de imediato julgado é interrogado pelo juiz de instrução, no prazo máximo de quarenta e oito horas após a detenção, logo que lhe for presente com a indicação circunstanciada dos motivos da detenção e das provas que a fundamentam.
 
@@ -735,7 +783,7 @@ A versão atual - contendo a disposição do n.º 7 -, vigente nas datas dos ac�
 
 Acrescem, ainda, a título complementar, as seguintes disposições legais:
 
-###### Artigo 194.º (Audição do arguido e despacho de aplicação)
+Artigo 194.º (Audição do arguido e despacho de aplicação)
 
 1 - À exceção do termo de identidade e residência, as medidas de coação e de garantia patrimonial são aplicadas por despacho do juiz, durante o inquérito a requerimento do Ministério Público e depois do inquérito mesmo oficiosamente, ouvido o Ministério Público, sob pena de nulidade.
 
@@ -767,9 +815,9 @@ d) A referência aos factos concretos que preenchem os pressupostos de aplicaç�
 
 11 - Sendo o arguido menor, o despacho referido no n.º 1 é comunicado, de imediato, aos titulares das responsabilidades parentais, ao seu representante legal ou à pessoa que tiver a sua guarda de facto.
 
-Esta disposição não estava em vigor na data da prolação do acórdão-fundamento (uma vez que nessa data, 11-09-2019, se encontrava em vigor a versão conferida pela [Lei n.º 33/2019](https://diariodarepublica.pt/dr/detalhe/lei/33-2019-122373680), de 22-05), pois que a sua redação atual resulta da alteração introduzida pelo art. 11.º da [Lei n.º 94/2021](https://diariodarepublica.pt/dr/detalhe/lei/94-2021-176235804), de 21-12. Em todo o caso, as alterações introduzidas ao preceito por via da [Lei n.º 94/2021](https://diariodarepublica.pt/dr/detalhe/lei/94-2021-176235804), apenas implicaram modificações pontuais nos números 4 e 7<sup>18</sup> (do art. 194.º), sem repercussão para a apreciação da questão material em apreço.
+Esta disposição não estava em vigor na data da prolação do acórdão-fundamento (uma vez que nessa data, 11-09-2019, se encontrava em vigor a versão conferida pela [Lei n.º 33/2019](https://diariodarepublica.pt/dr/detalhe/lei/33-2019-122373680), de 22-05), pois que a sua redação atual resulta da alteração introduzida pelo art. 11.º da [Lei n.º 94/2021](https://diariodarepublica.pt/dr/detalhe/lei/94-2021-176235804), de 21-12. Em todo o caso, as alterações introduzidas ao preceito por via da [Lei n.º 94/2021](https://diariodarepublica.pt/dr/detalhe/lei/94-2021-176235804), apenas implicaram modificações pontuais nos números 4 e 718 (do art. 194.º), sem repercussão para a apreciação da questão material em apreço.
 
-###### Art. 118.º (Princípio da legalidade)
+Art. 118.º (Princípio da legalidade)
 
 1 - A violação ou a inobservância das disposições da lei do processo penal só determina a nulidade do acto quando esta for expressamente cominada na lei.
 
@@ -777,13 +825,13 @@ Esta disposição não estava em vigor na data da prolação do acórdão-fundam
 
 3 - As disposições do presente título não prejudicam as normas deste Código relativas a proibições de prova.
 
-###### Artigo 123.º (Irregularidades)
+Artigo 123.º (Irregularidades)
 
 1 - Qualquer irregularidade do processo só determina a invalidade do acto a que se refere e dos termos subsequentes que possa afectar quando tiver sido arguida pelos interessados no próprio acto ou, se a este não tiverem assistido, nos três dias seguintes a contar daquele em que tiverem sido notificados para qualquer termo do processo ou intervindo em algum acto nele praticado.
 
 2 - Pode ordenar-se oficiosamente a reparação de qualquer irregularidade, no momento em que da mesma se tomar conhecimento, quando ela puder afectar o valor do acto praticado.
 
-###### Artigo 410.º (Fundamentos do recurso)
+Artigo 410.º (Fundamentos do recurso)
 
 1 - Sempre que a lei não restringir a cognição do tribunal ou os respectivos poderes, o recurso pode ter como fundamento quaisquer questões de que pudesse conhecer a decisão recorrida.
 
@@ -797,7 +845,7 @@ c) Erro notório na apreciação da prova.
 
 3 - O recurso pode ainda ter como fundamento, mesmo que a lei restrinja a cognição do tribunal de recurso a matéria de direito, a inobservância de requisito cominado sob pena de nulidade que não deva considerar-se sanada.
 
-Impõe a Convenção Europeia dos Direitos Humanos (doravante, também CEDH) <sup>19</sup>, nos termos do art. 5.º, que
+Impõe a Convenção Europeia dos Direitos Humanos (doravante, também CEDH) 19, nos termos do art. 5.º, que
 
 «2 - Qualquer pessoa presa deve ser informada, no mais breve prazo e em língua que compreenda, das razões da sua prisão e de qualquer acusação formulada contra ela.»,
 
@@ -807,7 +855,7 @@ e
 
 A questão em apreço no presente recurso contende precisamente com a configuração constitucional do estatuto de defesa do arguido em processo penal, designadamente na condição de detido, face à plausibilidade de lhe serem aplicadas medidas cautelares ou coativas, com exceção do termo de identidade e residência.
 
-De acordo com Régis de Gouttes, “o direito de saber porque se foi detido é indubitavelmente um dos direitos primordiais do indivíduo”, pois “saber que não se pode ser detido sem conhecer as respectivas razões é a primeira condição da segurança pessoal, é o teste de que se vive numa sociedade democrática e num verdadeiro Estado de Direito”. Por outro lado, “conhecer os motivos da detenção é também a condição sine qua non de uma verdadeira «igualdade de armas»: para se poder defender, para se poder prevalecer das garantias de um processo equitativo, é preciso primeiro saber as razões pelas quais se foi detido”, sob pena de “não apenas ser negado o princípio da presunção de inocência mas também a faculdade de a pessoa detida contestar o bem fundado das suspeitas que pesam sobre ela e de recorrer para um tribunal superior a fim de ser apreciada a legalidade da sua detenção” <sup>20</sup>.
+De acordo com Régis de Gouttes, “o direito de saber porque se foi detido é indubitavelmente um dos direitos primordiais do indivíduo”, pois “saber que não se pode ser detido sem conhecer as respectivas razões é a primeira condição da segurança pessoal, é o teste de que se vive numa sociedade democrática e num verdadeiro Estado de Direito”. Por outro lado, “conhecer os motivos da detenção é também a condição sine qua non de uma verdadeira «igualdade de armas»: para se poder defender, para se poder prevalecer das garantias de um processo equitativo, é preciso primeiro saber as razões pelas quais se foi detido”, sob pena de “não apenas ser negado o princípio da presunção de inocência mas também a faculdade de a pessoa detida contestar o bem fundado das suspeitas que pesam sobre ela e de recorrer para um tribunal superior a fim de ser apreciada a legalidade da sua detenção” 20.
 
 Embora a obrigação de informação prescrita no n.º 2 do artigo 5.º da CEDH seja menos estrita que a referida no artigo 6.º, n.º 3, alínea a) (relativa à comunicação da acusação, impondo que seja “minuciosa”), e não seja exigível que, no próprio momento da detenção, seja comunicada uma descrição completa das suspeitas que pesam sobre o detido, os factos comunicados devem, contudo, permitir-lhe contestar o bem fundado das suspeitas, sendo o grau de exigência de pormenorização variável consoante o conhecimento que a pessoa detida já tenha, devido a anteriores participações em atos processuais, do conteúdo dessas suspeitas.
 
@@ -827,39 +875,39 @@ d) A referência aos factos concretos que preenchem os pressupostos de aplicaç�
 
 Este é o guião que programaticamente deve nortear o juiz de instrução aquando da necessidade de definir o estatuto coativo do arguido (detido), quando se imponha proferir despacho de aplicação de medidas de coação (artigos 205.º da CRP e 97.º, n.º 5, do CPP).
 
-O recurso aos vícios a que se reporta o n.º 2 do artigo 410.º do CPP configura, como se sabe, uma das modalidades de sindicância da decisão de facto, a que se convencionou chamar de “recurso de revista alargada” (existindo, a par dessa modalidade, a designada impugnação ampla da matéria de facto, a que se refere o artigo 412.º, n.<sup>os</sup>3, 4 e 6, do mesmo diploma).
+O recurso aos vícios a que se reporta o n.º 2 do artigo 410.º do CPP configura, como se sabe, uma das modalidades de sindicância da decisão de facto, a que se convencionou chamar de “recurso de revista alargada” (existindo, a par dessa modalidade, a designada impugnação ampla da matéria de facto, a que se refere o artigo 412.º, n.os3, 4 e 6, do mesmo diploma).
 
-No primeiro caso, estamos perante a arguição dos vícios decisórios previstos nas diversas alíneas do n.º 2 do referido artigo 410.º A sua indagação, como decorre do preceito, tem de resultar da decisão recorrida, por si mesma ou conjugada com as regras da experiência comum, não sendo por isso admissível o recurso a elementos àquela estranhos, para a fundamentar, como, por exemplo, quaisquer dados existentes nos autos, mesmo que provenientes do próprio julgamento<sup>21</sup>.
+No primeiro caso, estamos perante a arguição dos vícios decisórios previstos nas diversas alíneas do n.º 2 do referido artigo 410.º A sua indagação, como decorre do preceito, tem de resultar da decisão recorrida, por si mesma ou conjugada com as regras da experiência comum, não sendo por isso admissível o recurso a elementos àquela estranhos, para a fundamentar, como, por exemplo, quaisquer dados existentes nos autos, mesmo que provenientes do próprio julgamento21.
 
-No segundo caso, a apreciação não se restringe ao texto da decisão, alargando-se à análise do que se contém e pode extrair da prova pessoal (documentada) produzida em audiência, bem como de elementos de prova real, mas sempre dentro dos limites fornecidos pelo recorrente no estrito cumprimento do ónus de especificação imposto pelos n.<sup>os</sup>3 e 4 do artigo 412.º do CPP.
+No segundo caso, a apreciação não se restringe ao texto da decisão, alargando-se à análise do que se contém e pode extrair da prova pessoal (documentada) produzida em audiência, bem como de elementos de prova real, mas sempre dentro dos limites fornecidos pelo recorrente no estrito cumprimento do ónus de especificação imposto pelos n.os3 e 4 do artigo 412.º do CPP.
 
 Quer isto dizer que enquanto os vícios previstos no artigo 410.º, n.º 2, do CPP, são vícios da decisão, evidenciados pelo próprio texto, por si ou em conjugação com as regras da experiência comum, na impugnação ampla temos a alegação de erros de julgamento por invocação de provas produzidas e erroneamente apreciadas pelo tribunal recorrido, que imponham diversa apreciação. Nesta última hipótese, o recorrente pretende que o tribunal de recurso se debruce não apenas sobre o texto da decisão recorrida, mas sobre a prova produzida em 1.ª instância, alegadamente mal apreciada.
 
-Observa Maria João Antunes que “Nesta disposição legal [artigo 410.º, n.º 2, do CPP], estamos em face de vícios da decisão recorrida, umbilicalmente ligados aos requisitos da sentença previstos no artigo 374.º, n.º 2, do CPP, concretamente à exigência da «fundamentação, que consta da enumeração dos factos provados e não provados, bem como de uma exposição tanto quanto possível completa, ainda que concisa, dos motivos, de facto e de direito, que fundamentam a decisão, com indicação das provas que serviram para fundamentar a convicção do Tribunal»”<sup>22</sup>.
+Observa Maria João Antunes que “Nesta disposição legal [artigo 410.º, n.º 2, do CPP], estamos em face de vícios da decisão recorrida, umbilicalmente ligados aos requisitos da sentença previstos no artigo 374.º, n.º 2, do CPP, concretamente à exigência da «fundamentação, que consta da enumeração dos factos provados e não provados, bem como de uma exposição tanto quanto possível completa, ainda que concisa, dos motivos, de facto e de direito, que fundamentam a decisão, com indicação das provas que serviram para fundamentar a convicção do Tribunal»”22.
 
 Prossegue a mesma Autora, afirmando que “O artigo 374.º, n.º 2, impõe a fundamentação das decisões de facto e de direito, sob pena de nulidade da sentença [...], enquanto o artigo 410.º, n.º 2, concede ao tribunal «ad quem» os poderes de cognição em matéria de facto permitidos pelo texto da decisão recorrida, com o objectivo de assim ser controlado o conteúdo da própria fundamentação. O artigo 410.º, n.º 2, não serve, pois, para verificar a existência ou não da fundamentação da sentença, nos termos previstos no artigo 374.º, n.º 2 - isso é feito através do mecanismo da arguição da nulidade -, mas para controlar se a matéria de facto provada é suficiente para a decisão de direito tomada, se não há contradição insanável da fundamentação e se não há erro notório na apreciação da prova, podendo assim dizer-se que estes são requisitos da fundamentação e consequentemente da própria decisão”.
 
-Conclui, depois, que, por serem vícios que contendem diretamente com «a boa decisão da causa», tendo o tribunal de recurso o poder-dever de fundar a «boa decisão de direito» numa «boa decisão de facto», o seu conhecimento é oficioso. O próprio Supremo Tribunal de Justiça não se pode alhear da sua primordial missão, pois seria inaceitável que, na aplicação do direito - ao abrigo do disposto nos artigos 434.º e 432.º, n.º 1, alíneas a) a c), do CPP -, se deixassem persistir aqueles vícios no silogismo judiciário, porque o tribunal de recurso tem o poder-dever de fundar a «boa decisão de direito» numa «boa decisão de facto», que não padeça daqueles vícios<sup>23</sup>.
+Conclui, depois, que, por serem vícios que contendem diretamente com «a boa decisão da causa», tendo o tribunal de recurso o poder-dever de fundar a «boa decisão de direito» numa «boa decisão de facto», o seu conhecimento é oficioso. O próprio Supremo Tribunal de Justiça não se pode alhear da sua primordial missão, pois seria inaceitável que, na aplicação do direito - ao abrigo do disposto nos artigos 434.º e 432.º, n.º 1, alíneas a) a c), do CPP -, se deixassem persistir aqueles vícios no silogismo judiciário, porque o tribunal de recurso tem o poder-dever de fundar a «boa decisão de direito» numa «boa decisão de facto», que não padeça daqueles vícios23.
 
 A questão do escrutínio oficioso da correção das decisões judiciais contende de muito perto com a do dever de fundamentação, de facto e de direito, das decisões jurisdicionais, decorrendo de uma vinculação constitucional (art. 205.º, n.º 1 da CRP). A consagração na Lei Fundamental do dever de fundamentação das decisões judiciais veio a verificar-se com a primeira revisão constitucional operada pela [Lei Constitucional n.º 1/82](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-1982-375254), de 30-09, prescrevendo então o n.º 1 do artigo 210.º que «As decisões dos tribunais são fundamentadas nos casos e nos termos previstos na lei», redação que se manteve no n.º 1 do artigo 208.º na revisão da [Lei Constitucional n.º 1/89](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-1989-496551), de 08-07, bem como na revisão da [Lei Constitucional n.º 1/92](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-1992-174316), de 25-11, sofrendo alteração na 4.ª revisão constitucional ([Lei Constitucional n.º 1/97](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-1997-653562), de 20-09), passando então a dispor o n.º 1 do artigo 205.º que: «As decisões dos tribunais que não sejam de mero expediente são fundamentadas na forma prevista na lei».
 
 Numa vertente endoprocessual, o dever de fundamentação das decisões judiciais contempla uma dimensão de garantia de impugnação e de heterocontrolo: a sindicância a posteriori da decisão parte do princípio da proibição do arbítrio e da necessidade de completa exposição dos seus motivos. Reveste também uma função de garantia de defesa: o juiz, ao justificar as opções tomadas no processo de decisão, delimita o objeto do processo e possibilita, por outro lado, um mecanismo de autocontrolo.
 
-No âmbito extraprocessual, o dever de fundamentação das decisões judiciais comporta uma função legitimadora, no sentido político, da função judicial. São, ainda, apontadas, como corolários de tal dever, as funções de transparência da decisão e do próprio sistema judicial, bem como de prestação de contas (“accountability”) e de responsabilização<sup>24</sup>.
+No âmbito extraprocessual, o dever de fundamentação das decisões judiciais comporta uma função legitimadora, no sentido político, da função judicial. São, ainda, apontadas, como corolários de tal dever, as funções de transparência da decisão e do próprio sistema judicial, bem como de prestação de contas (“accountability”) e de responsabilização24.
 
-No cumprimento da obrigação de “completa” fundamentação, o tribunal há de apresentar uma fundamentação que permita uma avaliação segura e cabal das razões da decisão, com referência ao que foi adquirido e ao que não foi, em termos da factualidade apurada, se possível com explicitação diferenciada do que resultou da acusação, ou do que adveio da contestação e do que emergiu da discussão em audiência, com referência ao modo (lícito) de aquisição, permitindo a “transparência do processo e da decisão”, para utilizar a expressão de Michele Taruffo, em Note sulla garantia constituzionale della motivazione<sup>25</sup>, tendo que deixar bem claro que foram por ele apreciados todos os factos alegados, com interesse para a decisão, incluindo essa apreciação os que não foram considerados provados.
+No cumprimento da obrigação de “completa” fundamentação, o tribunal há de apresentar uma fundamentação que permita uma avaliação segura e cabal das razões da decisão, com referência ao que foi adquirido e ao que não foi, em termos da factualidade apurada, se possível com explicitação diferenciada do que resultou da acusação, ou do que adveio da contestação e do que emergiu da discussão em audiência, com referência ao modo (lícito) de aquisição, permitindo a “transparência do processo e da decisão”, para utilizar a expressão de Michele Taruffo, em Note sulla garantia constituzionale della motivazione25, tendo que deixar bem claro que foram por ele apreciados todos os factos alegados, com interesse para a decisão, incluindo essa apreciação os que não foram considerados provados.
 
 O erro-vício não se confunde com errada apreciação e valoração das provas. Embora em ambos se esteja no domínio da sindicância da matéria de facto, são muito diferentes na sua estrutura, alcance e consequências. Aquele examina-se, indaga-se, através da análise do texto; esta, porque se reconduz a erro de julgamento da matéria de facto, verifica-se em momento anterior à elaboração do texto, na ponderação conjugada e exame crítico das provas admissíveis e produzidas do que resulta a formulação de um juízo, que conduz à fixação de um enunciado factual sobre determinada verdade histórica vertida no texto; daí que a exigência de notoriedade do vício se não estenda ao processo cognoscitivo/valorativo, cujo resultado vem a ser inscrito no texto.
 
 O vício previsto pela alínea a) do n.º 2 do artigo 410.º do CPP só ocorrerá quando da factualidade vertida na decisão se concluir faltarem elementos que, podendo e devendo ser indagados ou descritos, impossibilitem, por sua ausência, um juízo seguro (de direito) de condenação ou de absolvição. Trata-se da formulação incorreta de um juízo: a conclusão extravasa as premissas; a matéria de facto descrita como provada é insuficiente para fundamentar a solução de direito encontrada, tratando-se ainda, de certa forma, de um error in judicando.
 
-Na sequência do que vem entendendo este Supremo Tribunal de Justiça, “a insuficiência da matéria de facto para a decisão (art. 410.º, n.º 2, al. a), do CPP), implica a falta de factos provados que autorizam a ilação jurídica tirada; é uma lacuna de factos que se revela internamente e decorre da circunstância de o tribunal não ter dado como provados ou como não provados todos os factos que, sendo relevantes para a decisão da causa, tenham sido alegados pela acusação e pela defesa ou resultado da discussão, ocorrendo este vício quando, da factualidade vertida na decisão em recurso, se colhe que faltam elementos que, podendo e devendo ser indagados, são necessários para se poder formular um juízo seguro de condenação ou de absolvição” (Acórdão do STJ, de 04-12-2025; Proc. n.º 83/24.8GCAVR.C1.S1 - 5.ª Secção, Relator Conselheiro Pedro Donas Botto) <sup>26</sup>.
+Na sequência do que vem entendendo este Supremo Tribunal de Justiça, “a insuficiência da matéria de facto para a decisão (art. 410.º, n.º 2, al. a), do CPP), implica a falta de factos provados que autorizam a ilação jurídica tirada; é uma lacuna de factos que se revela internamente e decorre da circunstância de o tribunal não ter dado como provados ou como não provados todos os factos que, sendo relevantes para a decisão da causa, tenham sido alegados pela acusação e pela defesa ou resultado da discussão, ocorrendo este vício quando, da factualidade vertida na decisão em recurso, se colhe que faltam elementos que, podendo e devendo ser indagados, são necessários para se poder formular um juízo seguro de condenação ou de absolvição” (Acórdão do STJ, de 04-12-2025; Proc. n.º 83/24.8GCAVR.C1.S1 - 5.ª Secção, Relator Conselheiro Pedro Donas Botto) 26.
 
 Ou ainda, “Para verificação da ocorrência destes vícios, o tribunal de recurso deverá apreciar se do texto da decisão recorrida (ou seja, sem recurso a qualquer outro elemento externo - declarações, depoimentos, etc.), por si só ou conjugada com as regras de experiência comum e de uma forma tão patente que não escape à observação do homem médio, decorre:
 
 a) No caso previsto na alínea a) do n.º 2 do art. 410.º do C.P. Penal (insuficiência da matéria de facto para a decisão):
 
-Que os factos dados como assentes na primitiva decisão são insuficientes para se poder formular um juízo seguro de condenação ou absolvição; ou seja, que os factos provados são escassos para poderem sustentar a decisão recorrida ou que o tribunal recorrido, devendo e podendo fazê-lo, não investigou toda a matéria de facto com relevo para a decisão da causa, o que determina que a matéria dada como assente não permite, dada a sua insuficiência, a aplicação do direito ao caso; [...]” (Acórdão do STJ, de 17-09-2025, Proc. n.º 321/24.7PAVNF.G1.S1 - 3.ª Secção, Relatora Conselheira Maria Margarida Almeida) <sup>27</sup>.
+Que os factos dados como assentes na primitiva decisão são insuficientes para se poder formular um juízo seguro de condenação ou absolvição; ou seja, que os factos provados são escassos para poderem sustentar a decisão recorrida ou que o tribunal recorrido, devendo e podendo fazê-lo, não investigou toda a matéria de facto com relevo para a decisão da causa, o que determina que a matéria dada como assente não permite, dada a sua insuficiência, a aplicação do direito ao caso; [...]” (Acórdão do STJ, de 17-09-2025, Proc. n.º 321/24.7PAVNF.G1.S1 - 3.ª Secção, Relatora Conselheira Maria Margarida Almeida) 27.
 
 Ou, por fim, “Estabelece o art. 410.º n.º 2 do Código de Processo Penal que, mesmo nos casos em que a lei restringe a cognição do tribunal de recurso a matéria de direito, o recurso pode ter como fundamentos, desde que o vício resulte do texto da decisão recorrida, por si só ou conjugada com as regras da experiência comum: a) A insuficiência para a decisão da matéria de facto provada; b) A contradição insanável da fundamentação ou entre a fundamentação e a decisão; c) Erro notório na apreciação da prova.
 
@@ -867,13 +915,13 @@ Decorre da própria letra da lei que o vício deve resultar “do texto de decis
 
 Existe o vício previsto na alínea a) do n.º 2 do art. 410.º do Código de Processo Penal quando a factualidade dada como provada na sentença não permite, por insuficiência, uma decisão de direito ou seja, quando dos factos provados não possam logicamente ser extraídas as ilações do tribunal recorrido. A insuficiência da matéria de facto determina a incorrecta formação de um juízo, porque a conclusão ultrapassa as respectivas premissas.
 
-Dito de outro modo: quando a matéria de facto provada não basta para fundamentar a solução de direito e quando não foi investigada toda a matéria de facto com relevo para a decisão” (Acórdão do STJ, de 30-04-2025 - Proc. n.º 224/18.4T9CNT.C1.S1 - 3.ª Secção, Relator Conselheiro Jorge Raposo)<sup>28</sup>.
+Dito de outro modo: quando a matéria de facto provada não basta para fundamentar a solução de direito e quando não foi investigada toda a matéria de facto com relevo para a decisão” (Acórdão do STJ, de 30-04-2025 - Proc. n.º 224/18.4T9CNT.C1.S1 - 3.ª Secção, Relator Conselheiro Jorge Raposo)28.
 
-Em suma, “este vício consiste numa carência de factos que suportem uma decisão de direito dentro do quadro das soluções plausíveis da causa, conduzindo à impossibilidade de ser proferida uma decisão segura de direito sobre a mesma (cf. Ac. da RL de 18-07-2013, …); numa formulação diversa, mas de idêntico sentido, estaremos perante insuficiência da matéria de facto provada quando há factos importantes para a decisão que ficaram por apurar e que eventualmente poderiam implicar alteração da decisão ou os factos dados como assentes, por insuficientes, não permitem a decisão de condenação” (Acórdão do STJ, de 20-06-2024, Proc. n.º 605/21.6JAPDL.L1.S1, Relator Conselheiro Agostinho Torres) <sup>29</sup>.
+Em suma, “este vício consiste numa carência de factos que suportem uma decisão de direito dentro do quadro das soluções plausíveis da causa, conduzindo à impossibilidade de ser proferida uma decisão segura de direito sobre a mesma (cf. Ac. da RL de 18-07-2013, …); numa formulação diversa, mas de idêntico sentido, estaremos perante insuficiência da matéria de facto provada quando há factos importantes para a decisão que ficaram por apurar e que eventualmente poderiam implicar alteração da decisão ou os factos dados como assentes, por insuficientes, não permitem a decisão de condenação” (Acórdão do STJ, de 20-06-2024, Proc. n.º 605/21.6JAPDL.L1.S1, Relator Conselheiro Agostinho Torres) 29.
 
 Todo este regime parece pressupor a existência de uma “decisão final” - no sentido de conhecer do objeto do processo -, algo que o despacho judicial de aplicação de medidas de coação não é, atento o seu carácter essencialmente modificável, precário e revogável.
 
-É por isso que não se mostra convincente a (tentativa de) analogia com o regime do artigo 389.º-A, n.<sup>os</sup>1, 2 e 5, do CPP - regime da sentença em processo sumário, na qual se aplique pena privativa de liberdade -, uma vez que, desde logo, no despacho de aplicação de medida de coação, podem ser aplicadas medidas detentivas e não detentivas; e, por outro lado, a sentença proferida em processo sumário constitui uma “decisão final”.
+É por isso que não se mostra convincente a (tentativa de) analogia com o regime do artigo 389.º-A, n.os1, 2 e 5, do CPP - regime da sentença em processo sumário, na qual se aplique pena privativa de liberdade -, uma vez que, desde logo, no despacho de aplicação de medida de coação, podem ser aplicadas medidas detentivas e não detentivas; e, por outro lado, a sentença proferida em processo sumário constitui uma “decisão final”.
 
 De igual forma, se afigura inaplicável, na sua integralidade, o regime de fundamentação previsto no artigo 374.º, do CPP, relativamente à sentença.
 
@@ -885,21 +933,21 @@ Em todo o caso, não se divisam exigências que, do ponto de vista da tutela con
 
 Afastada a possibilidade de a omissão em presença se reconduzir à consequência processual do vício previsto na alínea a) do n.º 2 do artigo 410.º, do CPP, importará, como se antecipou, responder à questão sobre se o vício em apreço configura invalidade processual e, em caso afirmativo, qual a espécie - inexistência, nulidade (absoluta ou relativa), irregularidade, ineficácia ou invalidade atípica, daqui se excluindo as proibições de prova - em que se pode classificar, e, subsequentemente, que se declare a verificação da mesma e dos seus inerentes efeitos.
 
-Da economia da presente decisão pode excluir-se a hipótese de uma eventual invalidade consistir em «inexistência»<sup>30</sup>, «ineficácia» ou «invalidade atípica», cabendo reconhecer que, de acordo com a doutrina das invalidades dos atos processuais penais, convenciona distinguir-se a(s) nulidade(s) da(s) irregularidade(s), em função do regime da sua arguição e tempestividade, bem como dos respetivos efeitos nos termos subsequentes do processo.
+Da economia da presente decisão pode excluir-se a hipótese de uma eventual invalidade consistir em «inexistência»30, «ineficácia» ou «invalidade atípica», cabendo reconhecer que, de acordo com a doutrina das invalidades dos atos processuais penais, convenciona distinguir-se a(s) nulidade(s) da(s) irregularidade(s), em função do regime da sua arguição e tempestividade, bem como dos respetivos efeitos nos termos subsequentes do processo.
 
-Segundo João Conde Correia, inválido é todo o ato desconforme ao modelo legalmente previsto<sup>31</sup>. O regime das invalidades processuais penais corresponde à principal e mais eficiente forma de controlo da legalidade do poder estadual exercitado através dos tribunais<sup>32</sup>.
+Segundo João Conde Correia, inválido é todo o ato desconforme ao modelo legalmente previsto31. O regime das invalidades processuais penais corresponde à principal e mais eficiente forma de controlo da legalidade do poder estadual exercitado através dos tribunais32.
 
-Existem invalidades que podem ser conhecidas oficiosamente através do mecanismo processual penal da nulidade insanável e invalidades relativas, que apenas aos interessados cabe arguir, dentro de certo prazo e com o ónus da proibição de venire contra factum proprio. Nessa medida, não se acha muito apropriada a dicotomia ainda acolhida no próprio Código de Processo Penal, no sentido de se distinguirem as nulidades entre sanáveis e insanáveis, uma vez que todas são, num certo sentido, sanáveis em princípio pelo trânsito em julgado da decisão<sup>33</sup>, sendo preferível a distinção entre nulidades absolutas e relativas<sup>34</sup>.
+Existem invalidades que podem ser conhecidas oficiosamente através do mecanismo processual penal da nulidade insanável e invalidades relativas, que apenas aos interessados cabe arguir, dentro de certo prazo e com o ónus da proibição de venire contra factum proprio. Nessa medida, não se acha muito apropriada a dicotomia ainda acolhida no próprio Código de Processo Penal, no sentido de se distinguirem as nulidades entre sanáveis e insanáveis, uma vez que todas são, num certo sentido, sanáveis em princípio pelo trânsito em julgado da decisão33, sendo preferível a distinção entre nulidades absolutas e relativas34.
 
 As nulidades, relativas e absolutas, e seus regimes, encontram-se, em princípio, contempladas na lei - artigos 118.º, n.º 1 e 119.º a 122.º, do CPP (modelo da taxatividade de nulidades).
 
 Já as irregularidades são definidas por exclusão: quando a lei não cominar a nulidade o ato ilegal é irregular - artigos 118.º, n.º 2 e 123.º, do CPP.
 
-O princípio da taxatividade das nulidades conexiona-se estritamente com um processo penal que, embora não seja de partes, atribui a alguns participantes processuais a qualidade de verdadeiros sujeitos, devendo, portanto, zelar pela legalidade processual e assumir as consequências da sua violação<sup>35</sup>.
+O princípio da taxatividade das nulidades conexiona-se estritamente com um processo penal que, embora não seja de partes, atribui a alguns participantes processuais a qualidade de verdadeiros sujeitos, devendo, portanto, zelar pela legalidade processual e assumir as consequências da sua violação35.
 
 Entende João Conde Correia que “Com a redução das nulidades aos casos previstos na lei o legislador faz cair na mera irregularidade os restantes vícios processuais salvo, é claro, quando se tratar de actos inexistentes. Regime que aumenta a sua frequência e sobretudo a sua versatilidade. Se o vício cometido não integrar nenhuma das nulidades enleadas pelo legislador o acto é irregular, mas, apesar disso, pode ficar submetido a um regime de anulação, embora muito limitado. As irregularidades acabam por transformar-se em remédio fácil para eventuais lacunas legais, afastando-se do seu verdadeiro campo de aplicação.
 
-Na realidade, segundo a melhor doutrina, as irregularidades são pequenos defeitos dos actos processuais que, apesar de serem suficientes para o tornar imperfeito, não afectam a sua validade, nem a sua eficácia.” <sup>36</sup>.
+Na realidade, segundo a melhor doutrina, as irregularidades são pequenos defeitos dos actos processuais que, apesar de serem suficientes para o tornar imperfeito, não afectam a sua validade, nem a sua eficácia.” 36.
 
 E, mais adiante:
 
@@ -907,17 +955,17 @@ E, mais adiante:
 
 [...].
 
-O que este consagrou é, na verdade, um modelo misto, que procura conciliar as vantagens dos sistemas de numerus clausus, com os benefícios dos sistemas abertos. Por um lado, indicando taxativamente os vícios mais graves, capazes de provocar maior dano aos interesses tutelados pelas normas processuais violadas, designados nulidades insanáveis e nulidades dependentes de arguição. Por outro lado, formulando uma cláusula geral, aplicável a toda uma categoria de casos, pouco delimitados, na tentativa de evitar eventuais omissões.” <sup>37</sup>.
+O que este consagrou é, na verdade, um modelo misto, que procura conciliar as vantagens dos sistemas de numerus clausus, com os benefícios dos sistemas abertos. Por um lado, indicando taxativamente os vícios mais graves, capazes de provocar maior dano aos interesses tutelados pelas normas processuais violadas, designados nulidades insanáveis e nulidades dependentes de arguição. Por outro lado, formulando uma cláusula geral, aplicável a toda uma categoria de casos, pouco delimitados, na tentativa de evitar eventuais omissões.” 37.
 
 A consequência do vício processual em discussão nos autos não se encontra expressamente prevista em qualquer preceito legal, pelo que se pode excluir, inequivocamente, a hipótese de configurar uma nulidade.
 
 Quanto à observância do dever de fundamentação, o artigo 205.º da Constituição impõe que as decisões dos tribunais que não sejam de mero expediente devam ser fundamentadas na forma prevista na lei.
 
-Como assinalam J. J. Gomes Canotilho e Vital Moreira esse “[...] dever de fundamentação [...] obedece a várias razões extraídas do princípio do Estado de direito, do princípio democrático e da teleologia jurídico-constitucional dos princípios processuais”, e, em função deles, “explica-se pela necessidade de justificação do exercício do poder estadual [...]”, e por “exigências de abertura e transparência da actividade judicial [...]” e “serve para a clarificação e interpretação do conteúdo decisório, favorece o autocontrolo do juiz responsável pela sentença, dá melhor operacionalidade ao heterocontrolo efetuado pelas instâncias judiciais superiores e, em último termo, contribui para a própria justiça material praticada pelos tribunais” <sup>38</sup>.
+Como assinalam J. J. Gomes Canotilho e Vital Moreira esse “[...] dever de fundamentação [...] obedece a várias razões extraídas do princípio do Estado de direito, do princípio democrático e da teleologia jurídico-constitucional dos princípios processuais”, e, em função deles, “explica-se pela necessidade de justificação do exercício do poder estadual [...]”, e por “exigências de abertura e transparência da actividade judicial [...]” e “serve para a clarificação e interpretação do conteúdo decisório, favorece o autocontrolo do juiz responsável pela sentença, dá melhor operacionalidade ao heterocontrolo efetuado pelas instâncias judiciais superiores e, em último termo, contribui para a própria justiça material praticada pelos tribunais” 38.
 
 Dando execução àquele comando constitucional para os atos decisórios nele definidos, dispõe o art. 97.º, n.º 5, do CPP, que os mesmos “[...] são sempre fundamentados, devendo ser especificados os motivos de facto e de direito da decisão”.
 
-Preconiza, por seu turno, Germano Marques da Silva, que “A fundamentação dos atos é imposta pelos sistemas democráticos com finalidades várias. Permite a sindicância da legalidade do ato, por uma parte, e serve para convencer os interessados e os cidadãos em geral acerca da sua correção e justiça, por outra parte, mas é ainda um importante meio para obrigar a autoridade decidente a ponderar os motivos de factos e de direito da sua decisão, atuando por isso como meio de autodisciplina” <sup>39</sup>.
+Preconiza, por seu turno, Germano Marques da Silva, que “A fundamentação dos atos é imposta pelos sistemas democráticos com finalidades várias. Permite a sindicância da legalidade do ato, por uma parte, e serve para convencer os interessados e os cidadãos em geral acerca da sua correção e justiça, por outra parte, mas é ainda um importante meio para obrigar a autoridade decidente a ponderar os motivos de factos e de direito da sua decisão, atuando por isso como meio de autodisciplina” 39.
 
 Como se refere no Acórdão do TC n.º [391/2015](https://diariodarepublica.pt/dr/detalhe/acordao/391-2015-71020777), no qual se apreciou a constitucionalidade de diversas normas do Código de Processo Penal, «[...], o cumprimento do dever de fundamentação das decisões judiciais pode assumir, conforme os casos, uma certa geometria variável, sendo entregue ao legislador ordinário a tarefa de definir as formas e o grau de fundamentação exigível.». Nesse acórdão se decidiu, entre outras questões, «[...] manter a jurisprudência deste Tribunal no sentido de que não viola qualquer parâmetro constitucional, designadamente o princípio da reserva de juiz e o dever de fundamentação das decisões judiciais, a norma constante do artigo 97.º, n.º 5, do Código de Processo Penal, na interpretação segundo a qual a fundamentação da decisão que decreta a medida de prisão preventiva, pode ser feita por remissão para a promoção do Ministério Público, assim improcedendo este fundamento do recurso.»
 
@@ -929,7 +977,7 @@ No acórdão-fundamento sustenta-se que as declarações prestadas pelo arguido 
 
 Por outro lado, o art. 96.º, n.º 4, do CPP, estatui que os despachos e sentenças proferidos oralmente, são consignados no auto.
 
-Esta posição é igualmente sufragada pelo acórdão-recorrido, sendo igualmente exigível que o despacho que determina a aplicação de medidas de coação seja reduzido a escrito, ou seja, transcrito para o auto da diligência. Tal exigência decorre da conjugação dos artigos 96.º, n.º 4, e 141.º, n.º 7, do Código de Processo Penal<sup>40</sup>.
+Esta posição é igualmente sufragada pelo acórdão-recorrido, sendo igualmente exigível que o despacho que determina a aplicação de medidas de coação seja reduzido a escrito, ou seja, transcrito para o auto da diligência. Tal exigência decorre da conjugação dos artigos 96.º, n.º 4, e 141.º, n.º 7, do Código de Processo Penal40.
 
 A discrepância decisória entre ambos os acórdãos em oposição, reside, tão-só, na consequência processual da omissão da redução a escrito (transcrição) no auto do despacho de aplicação de medida de coação, oralmente proferido, quanto à matéria de facto fortemente indiciada e à fundamentação dos motivos de aplicação de medida de coação.
 
@@ -945,9 +993,9 @@ Foi essa a construção empreendida no acórdão-recorrido, no qual se reproduz 
 
 Conclui-se, assim, no referido acórdão(-recorrido), que:
 
-«[...] de acordo com o arquétipo legal, tal omissão - de redução a escrito do despacho que aplicou as medidas de coacção - redundará em mera irregularidade que, não tendo sido suscitada atempadamente, se terá de ter necessariamente por sanada<sup>10</sup>.
+«[...] de acordo com o arquétipo legal, tal omissão - de redução a escrito do despacho que aplicou as medidas de coacção - redundará em mera irregularidade que, não tendo sido suscitada atempadamente, se terá de ter necessariamente por sanada10.
 
-Na verdade, como tem sido entendido<sup>11</sup>, a possibilidade de conhecimento oficioso, pelo Tribunal ad quem, de irregularidades, deverá cingir-se àquelas que assumem particular gravidade, designadamente as que sejam susceptíveis de afectar direitos fundamentais dos sujeitos processuais, o que, de todo, não é o caso.
+Na verdade, como tem sido entendido11, a possibilidade de conhecimento oficioso, pelo Tribunal ad quem, de irregularidades, deverá cingir-se àquelas que assumem particular gravidade, designadamente as que sejam susceptíveis de afectar direitos fundamentais dos sujeitos processuais, o que, de todo, não é o caso.
 
 É que, há que ressaltar, não está em causa a falta de fundamentação do despacho ou um qualquer desvio legal à obrigação de fundamentação a que alude o citado art. 194.º, n.º 4 do C.P.P. (única susceptível de consubstanciar a nulidade de tal despacho).
 
@@ -959,7 +1007,7 @@ Termos em que, também neste segmento, o recurso do arguido terá necessariament
 
 Tal entendimento deve ser acolhido, porquanto distingue adequadamente entre a validade substancial da decisão - dependente da existência de fundamentação concreta, clara e suficiente - e a regularidade formal da sua documentação, evitando a indevida transposição do regime dos vícios da sentença para decisões interlocutórias proferidas em fase de inquérito.
 
-Concretizando a noção de «geometria variável» do dever de fundamentação das decisões, este depende, portanto, “do ato, da complexidade do processo, da decisão em causa e sua relevância” <sup>41</sup>.
+Concretizando a noção de «geometria variável» do dever de fundamentação das decisões, este depende, portanto, “do ato, da complexidade do processo, da decisão em causa e sua relevância” 41.
 
 Mas o que se discute não é, repete-se, uma falta ou omissão de fundamentação da decisão, mas a omissão da consignação em auto da adequada fundamentação de uma decisão oralmente proferida de forma legalmente admissível e que, por recurso aos meios - também legalmente previstos (artigos 101.º, n.º 4 ex vi do artigo 141.º, n.º 9, do CPP) - viabiliza a sua sindicância por instância de recurso.
 
@@ -973,7 +1021,7 @@ Quanto a essa conclusão, como se antecipou, não há divergência nos acórdão
 
 Excluída a possibilidade de tal omissão integrar o vício de insuficiência para a decisão da matéria de facto provada, impõe-se qualificá-la como mera irregularidade, sujeita ao regime dos artigos 118.º e 123.º do Código de Processo Penal, sendo normativamente excessivo sancioná-la com nulidade, face à inexistência de previsão legal expressa, ainda que a título de nulidade relativa. Com efeito, a previsão da alínea d) do n.º 1 do artigo 120.º do CPP - que apenas contempla a insuficiência do inquérito ou de instrução, por não terem sido praticados atos obrigatórios, e a omissão posterior de diligências que pudessem reputar-se essenciais para a descoberta da verdade - não consente o seu alargamento analógico.
 
-Em suma, a omissão em causa é suscetível de suprimento por via do regime da irregularidade, o qual, sendo menos radical, possibilita, nos termos e prazos do artigo 123.º, n.º 1, do Código de Processo Penal, a transcrição do despacho no auto, oficiosamente ou mediante arguição, ou a sua sanação, por não arguição tempestiva<sup>42</sup>.
+Em suma, a omissão em causa é suscetível de suprimento por via do regime da irregularidade, o qual, sendo menos radical, possibilita, nos termos e prazos do artigo 123.º, n.º 1, do Código de Processo Penal, a transcrição do despacho no auto, oficiosamente ou mediante arguição, ou a sua sanação, por não arguição tempestiva42.
 
 II.5 - Solução adotada
 
@@ -995,13 +1043,13 @@ Nesta medida, a omissão em causa reconduz-se a uma irregularidade, nos termos d
 
 Acresce que esta irregularidade não é, em regra, de conhecimento oficioso pelo tribunal ad quem, uma vez que não assume, por si só, a gravidade necessária para afetar direitos fundamentais dos sujeitos processuais (art. 123.º, n.º 2, do CPP). Tal entendimento assenta na ideia de que o simples incumprimento do dever de redução a escrito não equivale, automaticamente, a uma decisão arbitrária, incompreensível ou insindicável.
 
-Importa, neste ponto, estabelecer uma distinção conceptual essencial entre a falta de redução a escrito e a falta de fundamentação. A circunstância de o despacho constar apenas de registo áudio, com remissão no auto para a gravação, não implica, só por si, a inexistência de fundamentação. Se da gravação resultar que o juiz explicitou os factos indiciados, identificou os elementos probatórios que os sustentam, procedeu à respetiva qualificação jurídico-penal, enunciou os perigos processuais concretos e justificou a escolha da medida de coação aplicada, então o dever de fundamentação imposto pelo artigo 205.º, n.º 1, da Constituição da República Portuguesa, bem como pelos artigos 97.º, n.º 5, e 194.º, n.º 4<sup>43</sup>, do Código de Processo Penal, encontra-se materialmente cumprido.
+Importa, neste ponto, estabelecer uma distinção conceptual essencial entre a falta de redução a escrito e a falta de fundamentação. A circunstância de o despacho constar apenas de registo áudio, com remissão no auto para a gravação, não implica, só por si, a inexistência de fundamentação. Se da gravação resultar que o juiz explicitou os factos indiciados, identificou os elementos probatórios que os sustentam, procedeu à respetiva qualificação jurídico-penal, enunciou os perigos processuais concretos e justificou a escolha da medida de coação aplicada, então o dever de fundamentação imposto pelo artigo 205.º, n.º 1, da Constituição da República Portuguesa, bem como pelos artigos 97.º, n.º 5, e 194.º, n.º 443, do Código de Processo Penal, encontra-se materialmente cumprido.
 
 A nulidade prevista no artigo 194.º, n.º 6, do Código de Processo Penal apenas se verifica quando exista uma efetiva omissão ou insuficiência da fundamentação de facto e de direito, e não quando essa fundamentação exista, mas não tenha sido reduzida a escrito. Mesmo naqueles casos, importa sublinhar que se trata de uma nulidade sanável, que deve ser arguida no próprio ato ou no prazo legalmente previsto, sob pena de sanação, em consonância com o regime geral das nulidades processuais.
 
 Em síntese, impõe-se afirmar que:
 
-i) o despacho que aplica medidas de coação deve ser reduzido a escrito e consignado em auto<sup>44</sup>;
+i) o despacho que aplica medidas de coação deve ser reduzido a escrito e consignado em auto44;
 
 ii) a validade substancial do despacho depende da existência de uma fundamentação, de facto e de direito, concreta, clara e suficiente, ainda que esta conste apenas do registo áudio da diligência;
 
@@ -1025,96 +1073,98 @@ Custas pelo arguido-recorrente, fixando-se a taxa de justiça em três (3) UC - 
 
 *
 
-<sup>1</sup> Mantém-se na transcrição o que se presume ter sido lapso na indicação do preceito legal, uma vez que o conteúdo normativo transcrito se reporta ao do n.º 7 do artigo 141.º do CPP (observação extensiva às demais situações idênticas).
+1 Mantém-se na transcrição o que se presume ter sido lapso na indicação do preceito legal, uma vez que o conteúdo normativo transcrito se reporta ao do n.º 7 do artigo 141.º do CPP (observação extensiva às demais situações idênticas).
 
-<sup>2</sup> No que respeita aos pressupostos necessários para se julgar verificada a oposição de julgados, entre muitos outros, os Acórdãos do Supremo Tribunal de Justiça, de 13 de janeiro de 2022, processo n.º 225/18.2PASXL-A.S1, relatado pelo Conselheiro Orlando Gonçalves, e de 28 de abril de 2022, processo n.º 123/16.4SWLSB-F.L1-A.S1, relatado pelo Conselheiro Eduardo Loureiro, disponíveis para consulta, respetivamente, em:
+2 No que respeita aos pressupostos necessários para se julgar verificada a oposição de julgados, entre muitos outros, os Acórdãos do Supremo Tribunal de Justiça, de 13 de janeiro de 2022, processo n.º 225/18.2PASXL-A.S1, relatado pelo Conselheiro Orlando Gonçalves, e de 28 de abril de 2022, processo n.º 123/16.4SWLSB-F.L1-A.S1, relatado pelo Conselheiro Eduardo Loureiro, disponíveis para consulta, respetivamente, em:
 
 http://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/c3231f6420205ed9802587e3003a5f4c?OpenDocument
 
 http://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/4991d44200ecb231802588330030522b?OpenDocument
 
-<sup>3</sup> Regista-se, contudo, ter existido um outro recurso para fixação de jurisprudência interposto neste STJ referente a esta mesma questão, que foi rejeitado pelo facto de o recorrente ter indicado mais do que um (único) acórdão-fundamento, por acórdão de 09-05-2025; processo n.º 6270/22.6T9LSB-A.L1-A.S1 - Rel. Conselheiro Agostinho Torres (acessível em: https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/d0f58d7621d2094680258b1900286847?OpenDocument).
+3 Regista-se, contudo, ter existido um outro recurso para fixação de jurisprudência interposto neste STJ referente a esta mesma questão, que foi rejeitado pelo facto de o recorrente ter indicado mais do que um (único) acórdão-fundamento, por acórdão de 09-05-2025; processo n.º 6270/22.6T9LSB-A.L1-A.S1 - Rel. Conselheiro Agostinho Torres (acessível em: https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/d0f58d7621d2094680258b1900286847?OpenDocument).
 
-<sup>4</sup> Que, segundo doutrina autorizada integra o vício da nulidade sanável (assim, Teresa Beleza, «Prisão preventiva e direitos do arguido», in Que Futuro para o Processo Penal? - Simpósio em Homenagem a Jorge de Figueiredo Dias, por ocasião dos 20 anos do Código de Processo Penal, M. F. Monte, Dir., Coimbra, Coimbra Ed., 2009, p. 682, e Maia Costa in Código de Processo Penal comentado, A. Henriques Gaspar et. al., 4.ª ed. revista, Coimbra, Almedina, 2022, p. 806).
+4 Que, segundo doutrina autorizada integra o vício da nulidade sanável (assim, Teresa Beleza, «Prisão preventiva e direitos do arguido», in Que Futuro para o Processo Penal? - Simpósio em Homenagem a Jorge de Figueiredo Dias, por ocasião dos 20 anos do Código de Processo Penal, M. F. Monte, Dir., Coimbra, Coimbra Ed., 2009, p. 682, e Maia Costa in Código de Processo Penal comentado, A. Henriques Gaspar et. al., 4.ª ed. revista, Coimbra, Almedina, 2022, p. 806).
 
-<sup>5</sup> Do TRL, de 26-09-2024; proc. n.º 6/23.1PJLRS-A.L1-9 - rel. Des. Ana Marisa Arnedo; acessível em: https://www.dgsi.pt/jtrl.nsf/33182fc732316039802565fa00497eec/eff1c9a7e85cc8d380258bce004d0e3d?OpenDocument.
+5 Do TRL, de 26-09-2024; proc. n.º 6/23.1PJLRS-A.L1-9 - rel. Des. Ana Marisa Arnedo; acessível em: https://www.dgsi.pt/jtrl.nsf/33182fc732316039802565fa00497eec/eff1c9a7e85cc8d380258bce004d0e3d?OpenDocument.
 
-<sup>6</sup> Cfr., https://www.dgsi.pt/jtrp.nsf/56a6e7121657f91e80257cda00381fdf/8764c91b70679b18802587ac004ba812?OpenDocument.
+6 Cfr., https://www.dgsi.pt/jtrp.nsf/56a6e7121657f91e80257cda00381fdf/8764c91b70679b18802587ac004ba812?OpenDocument.
 
-<sup>7</sup> Cfr., https://jurisprudencia.pt/acordao/212820/.
+7 Cfr., https://jurisprudencia.pt/acordao/212820/.
 
-<sup>8</sup> Cfr. https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/1a0191c168f0a54b802588750050240b.
+8 Cfr. https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/1a0191c168f0a54b802588750050240b.
 
-<sup>9</sup> Acessível no processo 6270/22.6T9LSB-A.L1.S1 atrás referenciado no texto (no qual foi igualmente formulado pedido de fixação de jurisprudência).
+9 Acessível no processo 6270/22.6T9LSB-A.L1.S1 atrás referenciado no texto (no qual foi igualmente formulado pedido de fixação de jurisprudência).
 
-<sup>10</sup> Cfr., https://www.dgsi.pt/jtrl.nsf/33182fc732316039802565fa00497eec/2af9e0e49479f74280258ab5004efe8d?OpenDocument.
+10 Cfr., https://www.dgsi.pt/jtrl.nsf/33182fc732316039802565fa00497eec/2af9e0e49479f74280258ab5004efe8d?OpenDocument.
 
-<sup>11</sup> Cfr., https://diariodarepublica.pt/dr/detalhe/acordao/887-2022-...75.
+11 Cfr., https://diariodarepublica.pt/dr/detalhe/acordao/887-2022-...75.
 
-<sup>12</sup> Cfr., https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/d627533041f06cc780258b0e003d68f7?OpenDocument. Com voto de vencida da senhora Desembargadora Maria Gomes Perquilhas.
+12 Cfr., https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/d627533041f06cc780258b0e003d68f7?OpenDocument. Com voto de vencida da senhora Desembargadora Maria Gomes Perquilhas.
 
-<sup>13</sup> Cfr., https://www.dgsi.pt/jtrl.nsf/33182fc732316039802565fa00497eec/7ed9f2e4be02ff4a8025897100429cfa?OpenDocument.︎
+13 Cfr., https://www.dgsi.pt/jtrl.nsf/33182fc732316039802565fa00497eec/7ed9f2e4be02ff4a8025897100429cfa?OpenDocument.︎
 
-<sup>14</sup> Costumam assinalar-se ao processo penal quatro finalidades: 1) realização da justiça e a descoberta da verdade material; 2) proteção dos direitos fundamentais das pessoas envolvidas; 3) restabelecimento da paz jurídica e (dado o potencial de conflito entre essas finalidades) 4) concordância prática dessas finalidades, entre si.︎
+14 Costumam assinalar-se ao processo penal quatro finalidades: 1) realização da justiça e a descoberta da verdade material; 2) proteção dos direitos fundamentais das pessoas envolvidas; 3) restabelecimento da paz jurídica e (dado o potencial de conflito entre essas finalidades) 4) concordância prática dessas finalidades, entre si.︎
 
-<sup>15</sup> Comentário Judiciário do Código de Processo Penal - t. I. - artigos 1.º a 123.º, 2.ª ed., A. Gama et. al., Coimbra, Almedina, anot. § 9 ao artigo 2.º, 2022, p. 97, ali se acrescentando: “§ 10. Pela sua importância, a necessidade de legalidade dos procedimentos processuais penais (art. 2.º) é, depois, concretamente reforçada mediante vários afloramentos especiais deste princípio geral: taxatividade das nulidades (art. 118.º/1; na doutrina, João Conde Correia, 1999, pp. 142 e ss.), legalidade da prova (art. 125.º; na doutrina, Rosa Vieira Neves, 2011, pp. 105 e ss.) ou legalidade das medidas de coação ou de garantia patrimonial (art. 191.º/1; na doutrina, Paulo Pinto de Albuquerque, 2007, p. 520). Em todos estes casos especiais, demonstrando a sua importância, o legislador nacional renovou expressamente a exigência de legalidade processual. Para além do princípio geral, reforça, em concreto, a imprescindível exigência de legalidade processual.”
+15 Comentário Judiciário do Código de Processo Penal - t. I. - artigos 1.º a 123.º, 2.ª ed., A. Gama et. al., Coimbra, Almedina, anot. § 9 ao artigo 2.º, 2022, p. 97, ali se acrescentando: “§ 10. Pela sua importância, a necessidade de legalidade dos procedimentos processuais penais (art. 2.º) é, depois, concretamente reforçada mediante vários afloramentos especiais deste princípio geral: taxatividade das nulidades (art. 118.º/1; na doutrina, João Conde Correia, 1999, pp. 142 e ss.), legalidade da prova (art. 125.º; na doutrina, Rosa Vieira Neves, 2011, pp. 105 e ss.) ou legalidade das medidas de coação ou de garantia patrimonial (art. 191.º/1; na doutrina, Paulo Pinto de Albuquerque, 2007, p. 520). Em todos estes casos especiais, demonstrando a sua importância, o legislador nacional renovou expressamente a exigência de legalidade processual. Para além do princípio geral, reforça, em concreto, a imprescindível exigência de legalidade processual.”
 
-<sup>16</sup> Posição que, sendo acolhida na lei alemã, não é pacífica na doutrina e jurisprudência nacionais. Assim, Germano Marques da Silva: «No que às diligências de prova respeita, [o arguido] tem de sujeitar-se a todas as que não foram proibidas por lei (artigo 125.º) e quanto às medidas de coacção e garantia patrimonial apenas às que forem previstas na lei (artigo 191.º)» (Do Processo Penal Preliminar, Lisboa, 1990, p. 444, e também Curso de Direito Processual Penal, I, 4.ª ed., Lisboa, Verbo, 2000, p. 300). No mesmo sentido, Código de Processo Penal - Comentários e notas práticas, Magistrados do Ministério Público do Distrito Judicial do Porto, Coimbra, Coimbra Ed., 2009, p. 154.
+16 Posição que, sendo acolhida na lei alemã, não é pacífica na doutrina e jurisprudência nacionais. Assim, Germano Marques da Silva: «No que às diligências de prova respeita, [o arguido] tem de sujeitar-se a todas as que não foram proibidas por lei (artigo 125.º) e quanto às medidas de coacção e garantia patrimonial apenas às que forem previstas na lei (artigo 191.º)» (Do Processo Penal Preliminar, Lisboa, 1990, p. 444, e também Curso de Direito Processual Penal, I, 4.ª ed., Lisboa, Verbo, 2000, p. 300). No mesmo sentido, Código de Processo Penal - Comentários e notas práticas, Magistrados do Ministério Público do Distrito Judicial do Porto, Coimbra, Coimbra Ed., 2009, p. 154.
 
-<sup>17</sup> Negrito nosso.
+17 Negrito nosso.
 
-<sup>18</sup> Note-se que a remissão para a “audição a que se refere o n.º 4” já carecia de atualização desde a alteração introduzida ao preceito pelo art. 2.º da Le[Lei n.º 20/2013](https://diariodarepublica.pt/dr/detalhe/lei/20-2013-258493)de 21-02, que transformou o anterior n.º 3 em n.º 4, sendo certo que o n.º 7 foi mantido inalterado.
+18 Note-se que a remissão para a “audição a que se refere o n.º 4” já carecia de atualização desde a alteração introduzida ao preceito pelo art. 2.º da Le[Lei n.º 20/2013](https://diariodarepublica.pt/dr/detalhe/lei/20-2013-258493)de 21-02, que transformou o anterior n.º 3 em n.º 4, sendo certo que o n.º 7 foi mantido inalterado.
 
-<sup>19</sup> Aprovada para ratificação pela Le[Lei n.º 65/78](https://diariodarepublica.pt/dr/detalhe/lei/65-1978-328440)de 13-10, a qual, com as sucessivas modificações e seus Protocolos adicionais integram a ordem jurídica nacional (cf.: https://dcjri.ministeriopublico.pt/faq/convencao-europeia-dos-direitos-humanos-e-seus-protocolos-facultativos.
+19 Aprovada para ratificação pela Le[Lei n.º 65/78](https://diariodarepublica.pt/dr/detalhe/lei/65-1978-328440)de 13-10, a qual, com as sucessivas modificações e seus Protocolos adicionais integram a ordem jurídica nacional (cf.: https://dcjri.ministeriopublico.pt/faq/convencao-europeia-dos-direitos-humanos-e-seus-protocolos-facultativos.
 
-<sup>20</sup> La Convention Européenne des Droits de l’Homme - Commentaire article par article, Louis-Edmond Pettiti et. al., Paris, Ed. Economica, 1995, pp. 203-210.
+20 La Convention Européenne des Droits de l’Homme - Commentaire article par article, Louis-Edmond Pettiti et. al., Paris, Ed. Economica, 1995, pp. 203-210.
 
-<sup>21</sup> Cfr., neste sentido, Maia Gonçalves, Código de Processo Penal Anotado, 16.ª ed., p. 873; Germano Marques da Silva, Curso de Processo Penal, Vol. III, 2.ª ed., p. 339; Simas Santos e Leal-Henriques, Recursos em Processo Penal, 6.ª ed., 2007, pp. 77 e ss.; Maria João Antunes, «Conhecimento dos vícios previstos no artigo 410.º, n.º 2, do Código de Processo Penal. Acórdão do Supremo Tribunal de Justiça, de 6 de maio de 1992 - Anotação de jurisprudência», RPCC, Ano 4.º, Fasc. 1 - jan.-mar. 1994, p. 121, em anotação a acórdão do Supremo Tribunal de Justiça, de 6 de maio de 1992, pub. na Colectânea de Jurisprudência, 1992, t. 4, p. 5.
+21 Cfr., neste sentido, Maia Gonçalves, Código de Processo Penal Anotado, 16.ª ed., p. 873; Germano Marques da Silva, Curso de Processo Penal, Vol. III, 2.ª ed., p. 339; Simas Santos e Leal-Henriques, Recursos em Processo Penal, 6.ª ed., 2007, pp. 77 e ss.; Maria João Antunes, «Conhecimento dos vícios previstos no artigo 410.º, n.º 2, do Código de Processo Penal. Acórdão do Supremo Tribunal de Justiça, de 6 de maio de 1992 - Anotação de jurisprudência», RPCC, Ano 4.º, Fasc. 1 - jan.-mar. 1994, p. 121, em anotação a acórdão do Supremo Tribunal de Justiça, de 6 de maio de 1992, pub. na Colectânea de Jurisprudência, 1992, t. 4, p. 5.
 
-<sup>22</sup> «Conhecimento dos vícios previstos no artigo 410.º, n.º 2, do Código de Processo Penal. Acórdão do Supremo Tribunal de Justiça, de 6 de maio de 1992 - Anotação de jurisprudência», Revista Portuguesa de Ciência Criminal, Ano 4.º, Fasc. 1 - jan.- mar. 1994, p. 121-123, em anotação a acórdão do Supremo Tribunal de Justiça, de 6 de maio de 1992, pub. na Colectânea de Jurisprudência, 1992, t. 4, p. 5.
+22 «Conhecimento dos vícios previstos no artigo 410.º, n.º 2, do Código de Processo Penal. Acórdão do Supremo Tribunal de Justiça, de 6 de maio de 1992 - Anotação de jurisprudência», Revista Portuguesa de Ciência Criminal, Ano 4.º, Fasc. 1 - jan.- mar. 1994, p. 121-123, em anotação a acórdão do Supremo Tribunal de Justiça, de 6 de maio de 1992, pub. na Colectânea de Jurisprudência, 1992, t. 4, p. 5.
 
-<sup>23</sup> Assim, Maria João Antunes, loc. cit., pp. 118 e ss. (em anotação ao Acórdão deste STJ, de 6 de maio de 1992).
+23 Assim, Maria João Antunes, loc. cit., pp. 118 e ss. (em anotação ao Acórdão deste STJ, de 6 de maio de 1992).
 
-<sup>24</sup> Neste sentido, cf., desenvolvidamente, José A. Mouraz Lopes, A Fundamentação da Sentença no Sistema Penal Português - Legitimar, Diferenciar, Simplificar, Col. Teses, Coimbra, Almedina, 2011, pp. 131-194.
+24 Neste sentido, cf., desenvolvidamente, José A. Mouraz Lopes, A Fundamentação da Sentença no Sistema Penal Português - Legitimar, Diferenciar, Simplificar, Col. Teses, Coimbra, Almedina, 2011, pp. 131-194.
 
-<sup>25</sup> In BFDUC, volume LV, Ano 1979, Coimbra, p. 31, cit. no acórdão do Tribunal Constitucional n.º 680/98, de 2 de dezembro de 1998, in DR, 2.ª série, de 5 de março de 1999
+25 In BFDUC, volume LV, Ano 1979, Coimbra, p. 31, cit. no acórdão do Tribunal Constitucional n.º 680/98, de 2 de dezembro de 1998, in DR, 2.ª série, de 5 de março de 1999
 
-<sup>26</sup> Cfr., https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/8e7254476074dae080258d63003af7a9?OpenDocument.
+26 Cfr., https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/8e7254476074dae080258d63003af7a9?OpenDocument.
 
-<sup>27</sup> Cfr., https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/7a5ddb3e2191c82a80258d09003c115d?OpenDocument.
+27 Cfr., https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/7a5ddb3e2191c82a80258d09003c115d?OpenDocument.
 
-<sup>28</sup> Cfr., https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/4b55c6790497b60680258c9100332c36?OpenDocument.
+28 Cfr., https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/4b55c6790497b60680258c9100332c36?OpenDocument.
 
-<sup>29</sup> Cfr., https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/9ef78b28f5859ea180258b4300289b77?OpenDocument.
+29 Cfr., https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/9ef78b28f5859ea180258b4300289b77?OpenDocument.
 
-<sup>30</sup> Integrando o conceito de inexistência jurídica decorrente das proibições de prova numa subespécie do conceito unitário das invalidades, cf. João Conde Correia, Contributo para a Análise da Inexistência e das Nulidades Processuais Penais, Studia Ivridica, 44, Coimbra, BFDUC, Coimbra Ed., 1999, p. 102 e Luís P. Martins de Oliveira, «Da Autonomia do Regime das Proibições de Prova», AA. VV. Prova Criminal e Direito de Defesa - Estudos sobre a Teoria da Prova e Garantias de Defesa em Processo Penal (Teresa Pizarro Beleza e Frederico Lacerda da Costa Pinto, coord.), Coimbra, Almedina, 2013, p. 281.
+30 Integrando o conceito de inexistência jurídica decorrente das proibições de prova numa subespécie do conceito unitário das invalidades, cf. João Conde Correia, Contributo para a Análise da Inexistência e das Nulidades Processuais Penais, Studia Ivridica, 44, Coimbra, BFDUC, Coimbra Ed., 1999, p. 102 e Luís P. Martins de Oliveira, «Da Autonomia do Regime das Proibições de Prova», AA. VV. Prova Criminal e Direito de Defesa - Estudos sobre a Teoria da Prova e Garantias de Defesa em Processo Penal (Teresa Pizarro Beleza e Frederico Lacerda da Costa Pinto, coord.), Coimbra, Almedina, 2013, p. 281.
 
-<sup>31</sup> Cfr., Contributo para a Análise da Inexistência e das Nulidades Processuais Penais, cit., p. 87; também assim, José M. Damião da Cunha, «Algumas considerações sobre as invalidades de atos processuais - nulidades e irregularidades: especialmente as “nulidades principais”», RMP, N.º 177, jan.-mar. 2024, p. 13.
+31 Cfr., Contributo para a Análise da Inexistência e das Nulidades Processuais Penais, cit., p. 87; também assim, José M. Damião da Cunha, «Algumas considerações sobre as invalidades de atos processuais - nulidades e irregularidades: especialmente as “nulidades principais”», RMP, N.º 177, jan.-mar. 2024, p. 13.
 
-<sup>32</sup> Assim, João Conde Correia, Comentário Judiciário do Código de Processo Penal, t. 1, A. Gama et al., 2.ª ed., Coimbra, Almedina, 2022, anot. Ao art. 2.º § 21, p. 101.
+32 Assim, João Conde Correia, Comentário Judiciário do Código de Processo Penal, t. 1, A. Gama et al., 2.ª ed., Coimbra, Almedina, 2022, anot. Ao art. 2.º § 21, p. 101.
 
-<sup>33</sup> Sem prejuízo do disposto na alínea e) do n.º 1 do artigo 449.º do CPP, introduzido na Reforma Penal de 2007, que admite a revisão com base na utilização de provas proibidas, nos termos dos n.<sup>os</sup>1 a 3 do art. 126.º.
+33 Sem prejuízo do disposto na alínea e) do n.º 1 do artigo 449.º do CPP, introduzido na Reforma Penal de 2007, que admite a revisão com base na utilização de provas proibidas, nos termos dos n.os1 a 3 do art. 126.º.
 
-<sup>34</sup> Assim, João Conde Correia, Comentário Judiciário do Código de Processo Penal, t. 1, A. Gama et al., 2.ª ed., Coimbra, Almedina, 2022, pp. 1270-1271; também assim, José M. Damião da Cunha, «Algumas considerações sobre as invalidades de atos processuais - nulidades e irregularidades: especialmente as “nulidades principais”», loc. cit., p. 14.
+34 Assim, João Conde Correia, Comentário Judiciário do Código de Processo Penal, t. 1, A. Gama et al., 2.ª ed., Coimbra, Almedina, 2022, pp. 1270-1271; também assim, José M. Damião da Cunha, «Algumas considerações sobre as invalidades de atos processuais - nulidades e irregularidades: especialmente as “nulidades principais”», loc. cit., p. 14.
 
-<sup>35</sup> Cfr., João Conde Correia, Comentário Judiciário do Código de Processo Penal, t. 1, A. Gama et al., 2.ª ed., Coimbra, Almedina, 2022, anot. ao art. 118.º, §§ 2 a 7, pp. 1268-1270.
+35 Cfr., João Conde Correia, Comentário Judiciário do Código de Processo Penal, t. 1, A. Gama et al., 2.ª ed., Coimbra, Almedina, 2022, anot. ao art. 118.º, §§ 2 a 7, pp. 1268-1270.
 
-<sup>36</sup> Contributo para a Análise da Inexistência e das Nulidades Processuais Penais, cit., pp. 110-111.
+36 Contributo para a Análise da Inexistência e das Nulidades Processuais Penais, cit., pp. 110-111.
 
-<sup>37</sup> Idem, pp. 111-112.
+37 Idem, pp. 111-112.
 
-<sup>38</sup> Constituição da República Portuguesa Anotada, Volume II, 4.ª edição revista (reimp.), Coimbra, Coimbra Ed., 2010, Anotação ao artigo 205.º
+38 Constituição da República Portuguesa Anotada, Volume II, 4.ª edição revista (reimp.), Coimbra, Coimbra Ed., 2010, Anotação ao artigo 205.º
 
-<sup>39</sup> Direito Processual Penal Português, Vol. III - Do Procedimento (Marcha do Processo), 4.ª reimpressão, Lisboa, UCP Ed., 2023, p. 274.
+39 Direito Processual Penal Português, Vol. III - Do Procedimento (Marcha do Processo), 4.ª reimpressão, Lisboa, UCP Ed., 2023, p. 274.
 
-<sup>40</sup> Neste sentido, por todos, inequivocamente, Rui Cardoso, Medidas de Coação - Teoria e Prática, Lisboa, UCP Editora, 2024, pp. 522, 523 e 547.
+40 Neste sentido, por todos, inequivocamente, Rui Cardoso, Medidas de Coação - Teoria e Prática, Lisboa, UCP Editora, 2024, pp. 522, 523 e 547.
 
-<sup>41</sup> Assim, Comentário Judiciário do Código de Processo Penal, António Gama et. al., t. 1, Coimbra, Almedina, 2021, p. 1050. Também neste sentido, cf., Paulo P. Albuquerque, Comentário do Código de Processo Penal à luz da Constituição e da Convenção Europeia dos Direitos Humanos, vol. I, 5.ª ed. atualizada, Lisboa, UCP Editora, 2023, p. 392.
+41 Assim, Comentário Judiciário do Código de Processo Penal, António Gama et. al., t. 1, Coimbra, Almedina, 2021, p. 1050. Também neste sentido, cf., Paulo P. Albuquerque, Comentário do Código de Processo Penal à luz da Constituição e da Convenção Europeia dos Direitos Humanos, vol. I, 5.ª ed. atualizada, Lisboa, UCP Editora, 2023, p. 392.
 
-<sup>42</sup> Cfr., de forma convergente, André Teixeira dos Santos, «Do vício da omissão de redução a escrito do despacho de aplicação de medida de coação», RMP, Ano 46, N.º 184, out-dez 2025, p. 115.
+42 Cfr., de forma convergente, André Teixeira dos Santos, «Do vício da omissão de redução a escrito do despacho de aplicação de medida de coação», RMP, Ano 46, N.º 184, out-dez 2025, p. 115.
 
-<sup>43</sup> Cfr., a indicação da sequência e concatenação dos momentos procedimentais do interrogatório judicial de arguido detido, Inês Godinho e Paulo Pinto de Albuquerque, Comentário do Código de Processo Penal à luz da Constituição da República e da Convenção Europeia dos Direitos Humanos, (P. Pinto de Albuquerque, org.), vol. I, 5.ª ed. atualiz., Lisboa, UCP Ed., 2023, pp. 581-583.
+43 Cfr., a indicação da sequência e concatenação dos momentos procedimentais do interrogatório judicial de arguido detido, Inês Godinho e Paulo Pinto de Albuquerque, Comentário do Código de Processo Penal à luz da Constituição da República e da Convenção Europeia dos Direitos Humanos, (P. Pinto de Albuquerque, org.), vol. I, 5.ª ed. atualiz., Lisboa, UCP Ed., 2023, pp. 581-583.
 
-<sup>44</sup> De forma convergente, cf., J. Mouraz Lopes, in Comentário Judiciário do Código de Processo Penal, A. Gama et al., t. II - Artigos 124.º a 190.º, 4.ª ed., Coimbra, Almedina, 2024, p. 311.
+44 De forma convergente, cf., J. Mouraz Lopes, in Comentário Judiciário do Código de Processo Penal, A. Gama et al., t. II - Artigos 124.º a 190.º, 4.ª ed., Coimbra, Almedina, 2024, p. 311.
 
 Lisboa, Supremo Tribunal de Justiça, 12 de março de 2026. - (Texto elaborado e informaticamente editado, integralmente revisto pelo relator, sendo eletronicamente assinado pelo próprio e pelos Senhores Juízes Conselheiros e Juízas Conselheiras da secções criminais - art. 94.º, n.os 2 e 3, do CPP) - Jorge Manuel Almeida dos Reis Bravo (relator) - Celso José das Neves Manata - Antero Luís - Horácio Correia Pinto - António Augusto Manso - José Alberto Vaz Carreto - Carlos Alberto Gameiro de Campos Lobo - Jorge Manuel Ortins de Simões Raposo - Maria Margarida Costa Pereira Ramos de Almeida - Jorge Manuel de Miranda Natividade Jacob - José Joaquim Aniceto Piedade - Ernesto de Jesus Deus Nascimento - Maria da Graça Martins Pontes dos Santos Silva - Adelina da Conceição Cardoso Barradas de Oliveira - Pedro Álvaro de Sousa Donas Botto Fernando - Helena Isabel Gonçalves Moniz Falcão de Oliveira - José Luís Lopes da Mota - Nuno António Gonçalves - Fernando Vaz Ventura - Jorge Manuel Baptista Gonçalves - Heitor Bernardo Cardoso Vasques Osório.
+
+119948235

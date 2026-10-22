@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/36/2025/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/36-2025-928188578
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:16:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8c089d94ce9b744b3977038b3b898141a05efd16db0879479ad3e1ffd23f7b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f172ded781210dcf3d042442bb41035c7e9612b404a85e580427fd7506f7f77f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:16:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,9 @@ reuse:
 subjects:
 - Conselho da União Europeia
 - Governo Regional
-- Primeiro-ministro
-- Nomeação
 - Madeira.região Autónoma
+- Nomeação
+- Primeiro-ministro
 - Secretário Regional das Finanças Planeamento e Administração Pública
 - Substituição de Funções
 relationships:
@@ -91,16 +91,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/108/2025/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/108/2025/07/10/p/dre
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:924201274:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:resolucao-conselho-ministros:108/2025
+  label: Retifica a Resolução do Conselho de Ministros n.º 108/2025, de 10 de julho, Diário da República n.º 131/2025, Série
+    I
+  source: null
+  date: '2025-07-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:16:08Z'
   warnings: []
   errors: []
 ---
@@ -118,3 +144,5 @@ deve ler-se:
 «1 - Propor ao Conselho da União Europeia a substituição de Rogério de Andrade Gouveia, nomeando, para o efeito, como membro suplente do Comité das Regiões da União Europeia Duarte Nuno Nunes de Freitas, Secretário Regional das Finanças, que substituirá o Presidente do Governo Regional da Madeira nas suas faltas ou impedimentos.»
 
 Secretaria-Geral do Governo, 31 de julho de 2025. - A Secretária-Geral Adjunta, Mafalda Lopes dos Santos.
+
+119403091

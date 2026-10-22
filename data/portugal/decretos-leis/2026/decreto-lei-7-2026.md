@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/7/2026/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2026-1006464121
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-14T00:00:00Z'
+  retrieved_at: '2026-10-22T18:28:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17496a349384c46b43479332935a935edff607fce968a3d29e092912383bbe15
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0eac7f3f0a3d61d31cf25d4a17450a87437837efcc11b1b40a7a1ac78e7ba439
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:28:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação da Formação de Professores
-- Formação de Professores
-- Ensino Cooperativo
 - Agência de Avaliação e Acreditação do Ensino Superior
-- Habilitações Literárias
+- Educação Pré-escolar
+- Ensino Básico
+- Ensino Cooperativo
 - Ensino Secundário
+- Formação de Professores
+- Habilitações Literárias
 - Pessoal Docente
 - Qualificação Profissional
-- Ensino Básico
-- Educação Pré-escolar
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:79/2014
+  label: Altera, a partir de 15 de janeiro de 2026, nos termos do n.º 3 do artigo 4.º, os artigos 18.º e 23.º do Decreto-Lei
+    n.º 79/2014, de 14 de maio, Diário da República n.º 92/2014, Série I
+  source: null
+  date: '2014-05-14'
+- type: amends
+  target: pt:numero:decreto-lei:9-A/2025
+  label: Altera, a partir de 15 de janeiro de 2026, com efeitos a 1 de setembro de 2025, o artigo 8.º do Decreto-Lei n.º 9-A/2025,
+    de 14 de fevereiro, Diário da República n.º 32/2025, Suplemento, Série I
+  source: null
+  date: '2025-02-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/112/2023/11/29/p/dre
   label: null
@@ -117,16 +129,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/85/2009/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/85/2009/08/27/p/dre
+- type: cites
+  target: pt:dre:114825662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211573083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224870952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:64297587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:856211140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:907406911:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:28:52Z'
   warnings: []
   errors: []
 ---
@@ -153,13 +217,13 @@ Finalmente, aproveita-se o presente ensejo para, em obediência aos princípios 
 
 Assim:
 
-No desenvolvimento do regime jurídico previsto na [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de outubro, alterada pelas Leis n.<sup>os</sup>[115/97](https://diariodarepublica.pt/dr/detalhe/lei/115-1997-653145), de 19 de setembro, [49/2005](https://diariodarepublica.pt/dr/detalhe/lei/49-2005-245336), de 30 de agosto, [85/2009](https://diariodarepublica.pt/dr/detalhe/lei/85-2009-488826), de 27 de agosto, e [16/2023](https://diariodarepublica.pt/dr/detalhe/lei/16-2023-211573083), de 10 de abril, que estabelece a Lei de Bases do Sistema Educativo, ao abrigo do disposto no n.º 2 do artigo 11.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado em anexo ao [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de abril, na sua redação atual, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+No desenvolvimento do regime jurídico previsto na [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de outubro, alterada pelas Leis n.os[115/97](https://diariodarepublica.pt/dr/detalhe/lei/115-1997-653145), de 19 de setembro, [49/2005](https://diariodarepublica.pt/dr/detalhe/lei/49-2005-245336), de 30 de agosto, [85/2009](https://diariodarepublica.pt/dr/detalhe/lei/85-2009-488826), de 27 de agosto, e [16/2023](https://diariodarepublica.pt/dr/detalhe/lei/16-2023-211573083), de 10 de abril, que estabelece a Lei de Bases do Sistema Educativo, ao abrigo do disposto no n.º 2 do artigo 11.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado em anexo ao [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de abril, na sua redação atual, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
 
 ###### Artigo 1.º — Objeto
 
 O presente decreto-lei procede:
 
-a) À sexta alteração ao [Decreto-Lei n.º 79/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2014-25344769), de 14 de maio, alterado pelos Decretos-Leis n.<sup>os</sup>[176/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2014-64297587), de 12 de dezembro, [16/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2018-114825662), de 7 de março, [112/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2023-224870952), de 29 de novembro, [23/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2024-856211140), de 19 de março, e [9-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-a-2025-907406911), de 14 de fevereiro, que aprova o regime jurídico da habilitação profissional para a docência na educação pré-escolar e nos ensinos básico e secundário;
+a) À sexta alteração ao [Decreto-Lei n.º 79/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2014-25344769), de 14 de maio, alterado pelos Decretos-Leis n.os[176/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2014-64297587), de 12 de dezembro, [16/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2018-114825662), de 7 de março, [112/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2023-224870952), de 29 de novembro, [23/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2024-856211140), de 19 de março, e [9-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-a-2025-907406911), de 14 de fevereiro, que aprova o regime jurídico da habilitação profissional para a docência na educação pré-escolar e nos ensinos básico e secundário;
 
 b) À primeira alteração ao [Decreto-Lei n.º 9-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-a-2025-907406911), de 14 de fevereiro, que altera o [Decreto-Lei n.º 79/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2014-25344769), de 14 de maio, que aprova o regime jurídico da habilitação profissional para a docência na educação pré-escolar e nos ensinos básico e secundário, e o [Decreto-Lei n.º 22/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2014-570766), de 11 de fevereiro, que estabelece o regime jurídico da formação contínua de professores.
 
@@ -189,7 +253,9 @@ Os artigos 18.º e 23.º do [Decreto-Lei n.º 79/2014](https://diariodarepublica
 
 9 - [...]
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]
 
@@ -231,9 +297,9 @@ O artigo 8.º do [Decreto-Lei n.º 9-A/2025](https://diariodarepublica.pt/dr/det
 
 3 - No âmbito dos ciclos de estudos conducentes ao grau de mestre iniciados até ao ano letivo de 2024-2025, inclusive, são atribuídos:
 
-a) Um suplemento remuneratório aos orientadores cooperantes relativo ao acompanhamento de estudantes que for realizado a partir do início do ano letivo de 2025-2026, nos casos em que aqueles não beneficiem da redução da componente letiva do trabalho semanal, nos termos previstos nos n.<sup>os</sup>7, 8 e 9 do artigo 23.º do [Decreto-Lei n.º 79/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2014-25344769), de 14 de maio, com a redação introduzida pelos Decretos-Leis n.<sup>os</sup>[112/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2023-224870952), de 29 de novembro, e [23/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2024-856211140), de 19 de março, e pelo presente decreto-lei, e na respetiva regulamentação; e
+a) Um suplemento remuneratório aos orientadores cooperantes relativo ao acompanhamento de estudantes que for realizado a partir do início do ano letivo de 2025-2026, nos casos em que aqueles não beneficiem da redução da componente letiva do trabalho semanal, nos termos previstos nos n.os7, 8 e 9 do artigo 23.º do [Decreto-Lei n.º 79/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2014-25344769), de 14 de maio, com a redação introduzida pelos Decretos-Leis n.os[112/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2023-224870952), de 29 de novembro, e [23/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2024-856211140), de 19 de março, e pelo presente decreto-lei, e na respetiva regulamentação; e
 
-b) Uma bolsa aos estudantes que, a partir do início do ano letivo de 2025-2026, frequentem os dois últimos semestres, ou o último semestre se for este o caso, do mestrado que coincidam com prática de ensino supervisionada em estabelecimentos de educação pré-escolar e de ensino básico e secundário, nos termos previstos nos n.<sup>os</sup>16 e 17 do artigo 23.º-A do [Decreto-Lei n.º 79/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2014-25344769), de 14 de maio, com a redação introduzida pelos Decretos-Leis n.<sup>os</sup>[112/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2023-224870952), de 29 de novembro, e [23/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2024-856211140), de 19 de março, e pelo presente decreto-lei, e na respetiva regulamentação.
+b) Uma bolsa aos estudantes que, a partir do início do ano letivo de 2025-2026, frequentem os dois últimos semestres, ou o último semestre se for este o caso, do mestrado que coincidam com prática de ensino supervisionada em estabelecimentos de educação pré-escolar e de ensino básico e secundário, nos termos previstos nos n.os16 e 17 do artigo 23.º-A do [Decreto-Lei n.º 79/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2014-25344769), de 14 de maio, com a redação introduzida pelos Decretos-Leis n.os[112/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2023-224870952), de 29 de novembro, e [23/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2024-856211140), de 19 de março, e pelo presente decreto-lei, e na respetiva regulamentação.
 
 4 - (Anterior n.º 3.)»
 
@@ -251,12 +317,14 @@ b) Aos ciclos de estudos conducentes ao grau de mestre iniciados a partir do ano
 
 Visto e aprovado em Conselho de Ministros de 11 de dezembro de 2025. - Luís Montenegro - Marisa da Luz Bento Garrido Marques Oliveira - Fernando Alexandre.
 
-**Promulgado em 2 de janeiro de 2026.**
+Promulgado em 2 de janeiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 5 de janeiro de 2026.**
+Referendado em 5 de janeiro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119947210

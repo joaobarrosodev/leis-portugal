@@ -49,40 +49,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43683-1961-171082
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-03-13T00:00:00Z'
+  retrieved_at: '2026-10-22T19:23:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b316f09946e05c514447633f669a83f5330e7c1a54767f487fbf29aa010541b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eeb3760cc5a0b08314cac93dc76099279e5c00b6e07fda42eb9478fa3565c496
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:23:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caderno de Encargos
+- Normalização
 relationships:
 - type: amended_by
   target: pt:dre:678214:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:678214:por
+  label: "Alterado o caderno de encargos pelo DR.4/80.13.03.1980.MHOP, DR.IS [61] de 13.03.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/4-1980-678214
+  date: '1980-03-13'
+- type: cites
+  target: pt:dre:298620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504317:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:23:48Z'
   warnings: []
   errors: []
 ---
@@ -97,13 +112,13 @@ Ouvida sobre esta proposta a subcomissão encarregada do estado dos regulamentos
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aprovado o caderno de encargos para o fornecimento e recepção de cimento pozolânico normal, que faz parte integrante do presente decreto e com ele baixa assinado pelo Ministro das Obras Públicas.
+Artigo 1.º É aprovado o caderno de encargos para o fornecimento e recepção de cimento pozolânico normal, que faz parte integrante do presente decreto e com ele baixa assinado pelo Ministro das Obras Públicas.
 
-###### Art. 2.º É autorizado o Ministro das Obras Públicas a introduzir no referido caderno de encargos, por simples portaria, mediante parecer da respectiva subcomissão da comissão permanente de revisão e instituição de regulamentos técnicos, criada no Conselho Superior de Obras Públicas por portaria de 23 de Maio de 1951, as alterações que forem julgadas convenientes, desde que não incidam sobre as qualidades do cimento.
+Art. 2.º É autorizado o Ministro das Obras Públicas a introduzir no referido caderno de encargos, por simples portaria, mediante parecer da respectiva subcomissão da comissão permanente de revisão e instituição de regulamentos técnicos, criada no Conselho Superior de Obras Públicas por portaria de 23 de Maio de 1951, as alterações que forem julgadas convenientes, desde que não incidam sobre as qualidades do cimento.
 
-###### Art. 3.º São revogadas as especificações relativas ao cimento portland pozolânico, constantes do capítulo II do caderno de encargos provisório para o fornecimento e recepção de cimentos especiais, aprovado por despacho do Ministro das Obras Públicas e publicado no Diário do Governo n.º 236, 2.ª série, de 10 de Outubro de 1946.
+Art. 3.º São revogadas as especificações relativas ao cimento portland pozolânico, constantes do capítulo II do caderno de encargos provisório para o fornecimento e recepção de cimentos especiais, aprovado por despacho do Ministro das Obras Públicas e publicado no Diário do Governo n.º 236, 2.ª série, de 10 de Outubro de 1946.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 11 de Maio de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Eduardo de Arantes e Oliveira.
 
@@ -199,7 +214,7 @@ QUADRO A
 
 Tensões de rotura de betões com pozolana expressas em percentagem das tensões correspondentes de betão sem pozolana
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/05/11000/05520573.pdf))](https://files.diariodarepublica.pt/1s/1961/05/11000/05520573.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/05/11000/05520573.pdf)
 
 A aplicação destes resultados para a definição dos limites de resistência do cimento pozolânico (pozolana moída conjuntamente com o clínquer) equivale aproximadamente a baixar de 10 por cento o limite estabelecido no caso do cimento portland normal para a tensão de rotura a 7 dias e a manter o limite estabelecido para a tensão de rotura a 28 dias.
 
@@ -287,7 +302,7 @@ As misturas das amostras devem ser feitas no laboratório que procede aos ensaio
 
 Os valores especificados para os resultados dos ensaios realizados como se determina no capítulo II do presente caderno de encargos são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/05/11000/05520573.pdf))](https://files.diariodarepublica.pt/1s/1961/05/11000/05520573.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/05/11000/05520573.pdf)
 
 6 - Colheita de amostras
 
@@ -541,7 +556,7 @@ a) Água potável para amassadura e conservação dos provetes.
 
 b) Areia normal. A areia a utilizar na confecção dos provetes é uma areia siliciosa, bem lavada, seca e com uma composição granulométrica contida dentro dos limites indicados no quadro seguinte ou na fig. 7:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/05/11000/05520573.pdf))](https://files.diariodarepublica.pt/1s/1961/05/11000/05520573.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/05/11000/05520573.pdf)
 
 Nota. - O material de dimensões inferiores a 0,297 mm pode ser obtido por moagem.
 
@@ -571,7 +586,7 @@ Os moldes devem ser tais que os provetes fiquem com as dimensões nominais de 40
 
 As suas características e tolerâncias são as indicadas no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/05/11000/05520573.pdf))](https://files.diariodarepublica.pt/1s/1961/05/11000/05520573.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/05/11000/05520573.pdf)
 
 Os moldes poderão ser agrupados de modo a permitir o fabrico simultâneo de três provetes.
 
@@ -1305,6 +1320,6 @@ Ministério das Obras Públicas, 11 de Maio de 1961. - O Ministro das Obras Púb
 
 Da Fig. 1 à Fig. 15
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/05/11000/05520573.pdf))](https://files.diariodarepublica.pt/1s/1961/05/11000/05520573.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/05/11000/05520573.pdf)
 
 Ministério das Obras Públicas, 11 de Maio de 1961.- O Ministro das Obras Públicas, Eduardo de Arantes e Oliveira.

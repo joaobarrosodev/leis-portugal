@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/91/2026/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/91-2026-1060523847
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-25T00:00:00Z'
+  retrieved_at: '2026-10-22T18:33:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c298f38e1c7b57fef5a5de09ba81329e2da3be9822b7e47b7516f82be99385f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3fb02e09a19e7efb59d91c3266d527aee6300605c02ce02e26208ffc91837e5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:33:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Carreira Profissional
 - Carreira Técnica Superior
 - Formação Profissional
-- Carreira Profissional
 - Formação Regulamentada
 - Ministério das Finanças
 - Quadro de Pessoal
@@ -76,6 +76,13 @@ subjects:
 - Regulamento
 - Remuneração
 relationships:
+- type: amends
+  target: pt:numero:portaria:242/2018
+  label: Altera, a partir de 26 de fevereiro de 2026, os artigos 1.º, 7.º e 8.º e quadro anexo ao Regulamento do curso de
+    formação específico de ingresso na carreira de técnico superior especialista em orçamento e finanças públicas do Ministério
+    das Finanças, aprovado em anexo à Portaria n.º 242/2018, de 3 de setembro, Diário da República n.º 169/2018, Série I
+  source: null
+  date: '2018-09-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/43-b/2024/07/02/p/dre
   label: null
@@ -116,16 +123,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/242/2018/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/242/2018/09/03/p/dre
+- type: cites
+  target: pt:dre:115692917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116237073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200860990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67040487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:912820661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:912820662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:913048489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:918125437:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:33:34Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +209,9 @@ Os artigos 1.º, 7.º e 8.º do regulamento aprovado em anexo à [Portaria n.º 
 
 O presente Regulamento estabelece os termos da organização, duração, conteúdo e avaliação do curso de formação específico para integração na carreira especial de técnico superior especialista em orçamento e finanças públicas do Ministério das Finanças (MF), do Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais (GPEARI), da Entidade Orçamental (EO) e da Entidade do Tesouro e Finanças (ETF), doravante designados por Entidades, e a que se refere o artigo 5.º do [Decreto-Lei n.º 58/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2015-67040487), de 21 de abril.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -180,7 +229,9 @@ O presente Regulamento estabelece os termos da organização, duração, conteú
 
 8 - É aplicável, com as devidas adaptações, o disposto no artigo 46.º da Lei Geral do Trabalho em Funções Públicas, aprovada pela [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, e na [Portaria n.º 233/2022](https://diariodarepublica.pt/dr/detalhe/portaria/233-2022-200860990), de 9 de setembro, que regulamenta a tramitação do procedimento concursal de recrutamento.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A composição, o funcionamento e a competência do júri obedecem, com as devidas adaptações, ao disposto no artigo 46.º da Lei Geral do Trabalho em Funções Públicas, aprovada pela [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, e na [Portaria n.º 233/2022](https://diariodarepublica.pt/dr/detalhe/portaria/233-2022-200860990), de 9 de setembro, que regulamenta a tramitação do procedimento concursal de recrutamento.
 
@@ -256,4 +307,6 @@ c) Entidade do Tesouro e Finanças (ETF)
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 19 de fevereiro de 2026.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 19 de fevereiro de 2026.
+
+119947738

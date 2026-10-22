@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 201/1994, 2º Suplemento, Série I-B de 1994-08-31
   number: '201'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 5058-(8) a 5058-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/08/201b02/00080008.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/123/1994/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/123-1994-305617
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-08-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:40:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a281560788ab575398d69ccbfd09f7a75cf84732dddbf8e741623babd54c1b20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72ff14c2857dd1c1ee34d8063f54d3f9f272f540f1f0d8c7710067cbb6bc58d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:40:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,21 +79,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/722-j5/1992/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/722-j5/1992/07/15/p/dre
+- type: cites
+  target: pt:dre:290626:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:40:16Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 123/94
+# Declaração de rectificação n.º 123/94
 
 Segundo comunicação do Ministério da Agricultura, a [Portaria n.º 410/94](https://diariodarepublica.pt/dr/detalhe/portaria/410-1994-290626), publicada no Diário da República, 1.ª série, n.º 146, de 27 de Junho de 1994, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
 

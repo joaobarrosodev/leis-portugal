@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/asst/2/1999/02/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/assento/2-1999-170171
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-02-11T00:00:00Z'
+  retrieved_at: '2026-10-22T18:28:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27cf0d1e9a5e87e2c78920b1ad4be8386c5bd6c88db4fcc9816a90894fd32dfd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a77e5b04639ca33e7763d94b9d41ea3d73546349a72c12ded5ec3f2313bbf680
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:28:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,33 +67,69 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Crime
-- Processo Penal
 - Código de Processo Penal
-- Interpretação do Direito
-- Sanção Penal
-- Perdão da Pena
-- Recluso
-- Inserção Social
 - Código Penal
+- Crime
 - Direito Penal
-- Tribunal de Execução das Penas
+- Inserção Social
+- Interpretação do Direito
 - Liberdade Condicional
+- Perdão da Pena
+- Processo Penal
+- Recluso
+- Sanção Penal
+- Tribunal de Execução das Penas
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/317/1995/11/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/317/1995/11/28/p/dre
+- type: cites
+  target: pt:dre:361367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681985:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:28:14Z'
   warnings: []
   errors: []
 ---

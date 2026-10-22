@@ -48,40 +48,156 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43340-1960-514185
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-01-23T00:00:00Z'
+  retrieved_at: '2026-10-22T19:21:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c12ae8e5589e83e00896d4a25f7001008bfb25841064945dc72bec82b7abce2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a2f7f3874b678aeb38b3d4f5efac3c8f10616d1e33acc4d4305a018a24d3ff7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:21:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Colonial
+- Administração Ultramarina
+- Ajudas de Custo
+- Angola.Colónia Portuguesa
+- Aposentação
+- Aproveitamento Hidroeléctrico
+- Criação de Lugares
+- Deslocação em Serviço
+- Estado Português da Índia
+- Estatuto
+- Extinção de Lugares
+- Funcionário Público
+- Funcionário Ultramarino
+- Gestão Financeira
+- Gestão Orçamental
+- Gratificação
+- Guarda Fiscal
+- Junta de Investigações Científicas do Ultramar
+- Macau
+- Médico
+- Ministério do Ultramar
+- Moçambique.Colónia Portuguesa
+- Orçamento
+- Pessoal Administrativo
+- Pessoal de Enfermagem
+- Pessoal de Inspecção
+- Pessoal Técnico Superior
+- PIDE
+- Proteção Social
+- Quadro de Pessoal
+- Receita Própria
+- Receita Pública
+- Remuneração
+- Timor.Colónia Portuguesa
 relationships:
 - type: amended_by
   target: pt:dre:469382:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:559427:por
+  label: "Alterado o artigo 38.º pelo DEC.43565.27.03.1961.MU, DG.IS [71] de 27.03.1961\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/43565-1961-559427
+  date: '1961-03-27'
+- type: cites
+  target: pt:dre:150153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682376:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:469382:por
+  label: "Revogados os arts. 2º, 9º, 34º, 35º e 49º pelo DEC.45541.23.01.1964.MU, DG.IS [19] de 23.01.1964\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/45541-1964-469382
+  date: '1964-01-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:21:10Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +218,7 @@ Disposições especiais
 
 A) Guiné
 
-###### Artigo 1.º São extintos o imposto indígena e o adicional de 10 por cento sobre o imposto indígena, sendo criados em sua substituição e regulando-se pela legislação que presentemente regula aqueles a taxa pessoal anual e adicional.
+Artigo 1.º São extintos o imposto indígena e o adicional de 10 por cento sobre o imposto indígena, sendo criados em sua substituição e regulando-se pela legislação que presentemente regula aqueles a taxa pessoal anual e adicional.
 
 § único. Para os efeitos deste artigo, são introduzidas as seguintes alterações na tabela de receita ordinária:
 
@@ -132,7 +248,7 @@ a) Taxa.
 
 b) Adicional.
 
-###### Art. 2.º Nos serviços de saúde e higiene são criados os seguintes lugares:
+Art. 2.º Nos serviços de saúde e higiene são criados os seguintes lugares:
 
 1) Pessoal de nomeação:
 
@@ -152,7 +268,7 @@ Pessoal auxiliar dos serviços gerais:
 
 1 de cozinheiro de 1.ª classe.
 
-###### Art. 3.º No serviço meteorológico são criados os seguintes lugares:
+Art. 3.º No serviço meteorológico são criados os seguintes lugares:
 
 1) Pessoal de nomeação:
 
@@ -166,7 +282,7 @@ b) Pessoal técnico auxiliar:
 
 1 de ajudante de observador.
 
-###### Art. 4.º São fixados nos seguintes quantitativos os encargos com que a província concorre no ano de 1961 para a Junta de Investigações do Ultramar:
+Art. 4.º São fixados nos seguintes quantitativos os encargos com que a província concorre no ano de 1961 para a Junta de Investigações do Ultramar:
 
 a) Despesas com o pessoal, material, pagamento de serviços e diversos encargos para a realização de trabalhos científicos e formação de investigadores, conforme plano a aprovar pelo Ministro do Ultramar ... 519000$00
 
@@ -174,17 +290,17 @@ b) Missão geoidrográfica ... 1800000$00
 
 c) Outras missões e estudos ... 260000$00
 
-###### Art. 5.º Fica o Governo da província da Guiné autorizado a actualizar, por meio de diploma legislativo, tendo em vista os recursos orçamentais disponíveis, as disposições que regulam o quantitativo e condições de atribuição do subsídio de renda de casa ao pessoal de todos os serviços públicos locais, incluindo o dos serviços autónomos.
+Art. 5.º Fica o Governo da província da Guiné autorizado a actualizar, por meio de diploma legislativo, tendo em vista os recursos orçamentais disponíveis, as disposições que regulam o quantitativo e condições de atribuição do subsídio de renda de casa ao pessoal de todos os serviços públicos locais, incluindo o dos serviços autónomos.
 
 B) S. Tomé e Príncipe
 
-###### Art. 6.º Independentemente do acréscimo de que trata o § único do artigo 3.º do [Decreto n.º 43069](https://diariodarepublica.pt/dr/detalhe/decreto/43069-1960-501841), de 13 de Julho de 1960, a dotação do capítulo 3.º da tabela de despesa ordinária para o ano de 1961 será aumentada da importância de 150000$00, destinada a novas pensões de aposentação.
+Art. 6.º Independentemente do acréscimo de que trata o § único do artigo 3.º do [Decreto n.º 43069](https://diariodarepublica.pt/dr/detalhe/decreto/43069-1960-501841), de 13 de Julho de 1960, a dotação do capítulo 3.º da tabela de despesa ordinária para o ano de 1961 será aumentada da importância de 150000$00, destinada a novas pensões de aposentação.
 
-###### Art. 7.º Nos serviços de administração civil é extinta a gratificação especial anual de 3000$00 destinada ao aspirante, como secretário da Administração do concelho do Príncipe.
+Art. 7.º Nos serviços de administração civil é extinta a gratificação especial anual de 3000$00 destinada ao aspirante, como secretário da Administração do concelho do Príncipe.
 
-###### Art. 8.º Para a subdelegação da Polícia Internacional e de Defesa do Estado é criado um lugar de servente de 1.ª classe, assalariado.
+Art. 8.º Para a subdelegação da Polícia Internacional e de Defesa do Estado é criado um lugar de servente de 1.ª classe, assalariado.
 
-###### Art. 9.º O quadro do pessoal contratado dos serviços de saúde e higiene é aumentado com os lugares seguintes:
+Art. 9.º O quadro do pessoal contratado dos serviços de saúde e higiene é aumentado com os lugares seguintes:
 
 1 de médico internista;
 
@@ -192,11 +308,11 @@ B) S. Tomé e Príncipe
 
 que se consideram incluídos no grupo F do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
 
-###### Art. 10.º Nos serviços de Fazenda e contabilidade, o lugar de recebedor de Fazenda de S. Tomé é elevado à 1.ª classe.
+Art. 10.º Nos serviços de Fazenda e contabilidade, o lugar de recebedor de Fazenda de S. Tomé é elevado à 1.ª classe.
 
 § único. Considera-se provido no lugar de recebedor de 1.ª classe, independentemente de nova nomeação, visto e posse, o actual recebedor de S. Tomé.
 
-###### Art. 11.º São fixados nos seguintes quantitativos os encargos com que a província concorre em 1961 para a Junta de Investigações do Ultramar:
+Art. 11.º São fixados nos seguintes quantitativos os encargos com que a província concorre em 1961 para a Junta de Investigações do Ultramar:
 
 a) Despesas com o pessoal, material, pagamento, de serviços e diversos encargos para a realização de trabalhos científicos e formação de investigadores, conforme plano a aprovar pelo Ministro do Ultramar ... 291000$00
 
@@ -206,7 +322,7 @@ c) Outras missões de estudo ... 200000$00
 
 C) Angola
 
-###### Art. 12.º No orçamento geral são criadas as seguintes rubricas:
+Art. 12.º No orçamento geral são criadas as seguintes rubricas:
 
 A) No orçamento da receita ordinária:
 
@@ -230,11 +346,11 @@ Diversas despesas:
 
 Fundo de apoio à pesca.
 
-###### Art. 13.º É fixado em 51000000$00 o total da dotação do capítulo 3.º da tabela de despesa ordinária do orçamento geral para 1961.
+Art. 13.º É fixado em 51000000$00 o total da dotação do capítulo 3.º da tabela de despesa ordinária do orçamento geral para 1961.
 
-###### Art. 14.º Ficam autorizados os órgãos legislativos da província a criar os quadros do pessoal médico, técnico e de secretaria necessários ao funcionamento do Centro Experimental de Medicina Desportiva de Luanda, a que se refere o § único do artigo 16.º do Diploma Legislativo n.º 2786, de 14 de Novembro de 1956, com a composição e remunerações propostas pelo Conselho Provincial de Educação Física, não podendo o encargo anual exceder 243600$00.
+Art. 14.º Ficam autorizados os órgãos legislativos da província a criar os quadros do pessoal médico, técnico e de secretaria necessários ao funcionamento do Centro Experimental de Medicina Desportiva de Luanda, a que se refere o § único do artigo 16.º do Diploma Legislativo n.º 2786, de 14 de Novembro de 1956, com a composição e remunerações propostas pelo Conselho Provincial de Educação Física, não podendo o encargo anual exceder 243600$00.
 
-###### Art. 15.º No quadro do pessoal de nomeação da Guarda Fiscal são criados os seguintes lugares:
+Art. 15.º No quadro do pessoal de nomeação da Guarda Fiscal são criados os seguintes lugares:
 
 1 de comandante de secção (oficial subalterno);
 
@@ -242,7 +358,7 @@ Fundo de apoio à pesca.
 
 15 de guardas.
 
-###### Art. 16.º Nos almoxarifados são eliminados os seguintes lugares:
+Art. 16.º Nos almoxarifados são eliminados os seguintes lugares:
 
 1) No quadro do pessoal de nomeação:
 
@@ -254,7 +370,7 @@ Fundo de apoio à pesca.
 
 § único. Aos almoxarifes, cujos lugares são extintos pelo presente artigo, é aplicável o disposto no artigo 138.º e seus parágrafos do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956.
 
-###### Art. 17.º As funções de almoxarife das residências do Governo-Geral de Luanda e do Lobito serão desempenhadas em regime de acumulação, respectivamente, por um segundo-oficial e um aspirante do quadro privativo dos serviços de Fazenda e contabilidade.
+Art. 17.º As funções de almoxarife das residências do Governo-Geral de Luanda e do Lobito serão desempenhadas em regime de acumulação, respectivamente, por um segundo-oficial e um aspirante do quadro privativo dos serviços de Fazenda e contabilidade.
 
 § único. Para remuneração das funções de almoxarife são fixadas as seguintes gratificações especiais anuais:
 
@@ -262,21 +378,21 @@ Ao segundo-oficial ... 12000$00
 
 Ao aspirante ... 3000$00
 
-###### Art. 18.º O quadro do pessoal de nomeação dos serviços de Fazenda e contabilidade é aumentado dos seguintes lugares:
+Art. 18.º O quadro do pessoal de nomeação dos serviços de Fazenda e contabilidade é aumentado dos seguintes lugares:
 
 1 de segundo-oficial;
 
 1 de aspirante.
 
-###### Art. 19.º Ao quadro do pessoal de nomeação dos serviços de justiça - comarca de Luanda - são aumentados um lugar de carcereiro e outro de ajudante de carcereiro.
+Art. 19.º Ao quadro do pessoal de nomeação dos serviços de justiça - comarca de Luanda - são aumentados um lugar de carcereiro e outro de ajudante de carcereiro.
 
-###### Art. 20.º No quadro do pessoal de nomeação dos serviços de geologia e minas é eliminado um lugar de engenheiro mecânico de 2.ª classe.
+Art. 20.º No quadro do pessoal de nomeação dos serviços de geologia e minas é eliminado um lugar de engenheiro mecânico de 2.ª classe.
 
-###### Art. 21.º É elevada para 3000$00 a gratificação mensal fixada no mapa V anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, para o director do Posto Experimental do Karakul.
+Art. 21.º É elevada para 3000$00 a gratificação mensal fixada no mapa V anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, para o director do Posto Experimental do Karakul.
 
-###### Art. 22.º O chefe de secretaria dos serviços de obras públicas e transportes de Angola considera-se incluído no grupo J a que se refere o artigo 90.º do Estatuto do Funcionalismo Ultramarino.
+Art. 22.º O chefe de secretaria dos serviços de obras públicas e transportes de Angola considera-se incluído no grupo J a que se refere o artigo 90.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 23.º No serviço meteorológico são introduzidas as seguintes alterações:
+Art. 23.º No serviço meteorológico são introduzidas as seguintes alterações:
 
 A) Criação de lugares.
 
@@ -310,11 +426,11 @@ B) Eliminação de lugares:
 
 9 de servente de 1.ª classe.
 
-###### Art. 24.º São atribuídas as gratificações mensais de 150$00 e de 1200$00, respectivamente, ao médico e enfermeiro que prestarem assistência à população do colunato de Cunene e aos funcionários e suas famílias da brigada técnica de fomento e povoamento do Cunene.
+Art. 24.º São atribuídas as gratificações mensais de 150$00 e de 1200$00, respectivamente, ao médico e enfermeiro que prestarem assistência à população do colunato de Cunene e aos funcionários e suas famílias da brigada técnica de fomento e povoamento do Cunene.
 
 § único. As referidas gratificações serão suportadas pelas dotações destinadas no II Plano de Fomento à colonização do Cunene, devendo o seu abono subordinar-se à prestação efectiva de serviço e durar enquanto a execução dos respectivos trabalhos se mantiver.
 
-###### Art. 25.º As despesas com pensões de aposentação do pessoal dos serviços dos correios, telégrafos e telefones passarão, a partir de 1961, a constituir encargo do seu orçamento privativo, nos termos do artigo 2.º do [Decreto n.º 24182](https://diariodarepublica.pt/dr/detalhe/decreto/24182-1934-466461), de 17 de Julho de 1934.
+Art. 25.º As despesas com pensões de aposentação do pessoal dos serviços dos correios, telégrafos e telefones passarão, a partir de 1961, a constituir encargo do seu orçamento privativo, nos termos do artigo 2.º do [Decreto n.º 24182](https://diariodarepublica.pt/dr/detalhe/decreto/24182-1934-466461), de 17 de Julho de 1934.
 
 § único. Para cumprimento do disposto neste artigo é criada a seguinte rubrica no orçamento da receita ordinária:
 
@@ -324,15 +440,15 @@ Reembolso dos encargos com aposentados, jubilados, pensionistas, reformados e si
 
 a) Correios, telégrafos e telefones.
 
-###### Art. 26.º O chefe de armazéns e depósito de material da serviço autónomo de luz e água de Luanda considera-se incluído no grupo K a que se refere o artigo 90.º do Estatuto do Funcionalismo Ultramarino.
+Art. 26.º O chefe de armazéns e depósito de material da serviço autónomo de luz e água de Luanda considera-se incluído no grupo K a que se refere o artigo 90.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 27.º O lugar de maquinista-chefe do serviço autónomo de luz e água de Luanda considera-se incluído no grupo L do mapa I anexo ao Decreto n.º 46672, de 23 de Novembro de 1959.
+Art. 27.º O lugar de maquinista-chefe do serviço autónomo de luz e água de Luanda considera-se incluído no grupo L do mapa I anexo ao Decreto n.º 46672, de 23 de Novembro de 1959.
 
-###### Art. 28.º No ano de 1961, o serviço autónomo de luz e água à cidade de Luanda contribuirá com 20000000$00 para as receitas da província, inscrevendo no seu orçamento privativo a respectiva importância como contrapartida, em partes iguais, no saldo dos exercícios anteriores e no excesso de receitas previstas para 1961.
+Art. 28.º No ano de 1961, o serviço autónomo de luz e água à cidade de Luanda contribuirá com 20000000$00 para as receitas da província, inscrevendo no seu orçamento privativo a respectiva importância como contrapartida, em partes iguais, no saldo dos exercícios anteriores e no excesso de receitas previstas para 1961.
 
 § único. A referida importância de 20000000$00 será prevista como receita extraordinária no orçamento geral da província para o ano de 1961 e servirá de contrapartida a «outras despesas extraordinárias» do mesmo orçamento geral.
 
-###### Art. 29.º São fixados nos seguintes quantitativos os encargos com que a província concorre, no ano de 1961, para a Junta de Investigações do Ultramar:
+Art. 29.º São fixados nos seguintes quantitativos os encargos com que a província concorre, no ano de 1961, para a Junta de Investigações do Ultramar:
 
 a) Despesas com o pessoal, material, pagamento de serviços e diversos encargos para a realização de trabalhos científicos e formação de investigadores, conforme plano a aprovar pelo Ministro do Ultramar ([Decreto n.º 40387](https://diariodarepublica.pt/dr/detalhe/decreto/40387-1955-247253), de 19 de Novembro de 1955) ... 7746800$00
 
@@ -348,15 +464,15 @@ b) Missões:
 
 5) Outras missões e estudos ... 1750000$00
 
-###### Art. 30.º Continua suspensa no ano de 1961 a execução do disposto nos n.os 4.º e 6.º do artigo 10.º do [Decreto n.º 16430](https://diariodarepublica.pt/dr/detalhe/decreto/16430-1929-357142), de 28 de Janeiro de 1929.
+Art. 30.º Continua suspensa no ano de 1961 a execução do disposto nos n.os 4.º e 6.º do artigo 10.º do [Decreto n.º 16430](https://diariodarepublica.pt/dr/detalhe/decreto/16430-1929-357142), de 28 de Janeiro de 1929.
 
-###### Art. 31.º Continuam em vigor no ano de 1961 as isenções de direitos de importação e outras imposições cobradas no despacho aduaneiro, com excepção do imposto do selo, prescritas no artigo 1.º do [Decreto n.º 34074](https://diariodarepublica.pt/dr/detalhe/decreto/34074-1944-563206), de 1 de Novembro de 1944, e no artigo 2.º do [Decreto n.º 35536](https://diariodarepublica.pt/dr/detalhe/decreto/35536-1946-339062), de 18 de Março de 1946, respectivamente, para a farinha de trigo e para o trigo em grão necessários ao abastecimento da província.
+Art. 31.º Continuam em vigor no ano de 1961 as isenções de direitos de importação e outras imposições cobradas no despacho aduaneiro, com excepção do imposto do selo, prescritas no artigo 1.º do [Decreto n.º 34074](https://diariodarepublica.pt/dr/detalhe/decreto/34074-1944-563206), de 1 de Novembro de 1944, e no artigo 2.º do [Decreto n.º 35536](https://diariodarepublica.pt/dr/detalhe/decreto/35536-1946-339062), de 18 de Março de 1946, respectivamente, para a farinha de trigo e para o trigo em grão necessários ao abastecimento da província.
 
 D) Moçambique
 
-###### Art. 32.º Independentemente do acréscimo de que trata o § único do artigo 3.º do [Decreto n.º 43069](https://diariodarepublica.pt/dr/detalhe/decreto/43069-1960-501841), de 13 de Julho de 1960, a dotação do capítulo 3.º da tabela de despesa ordinária para o ano de 1961 será aumentada da importância de 2000000$00, destinada a novas pensões de aposentação.
+Art. 32.º Independentemente do acréscimo de que trata o § único do artigo 3.º do [Decreto n.º 43069](https://diariodarepublica.pt/dr/detalhe/decreto/43069-1960-501841), de 13 de Julho de 1960, a dotação do capítulo 3.º da tabela de despesa ordinária para o ano de 1961 será aumentada da importância de 2000000$00, destinada a novas pensões de aposentação.
 
-###### Art. 33.º Nos serviços de administração civil são criados os seguintes lugares:
+Art. 33.º Nos serviços de administração civil são criados os seguintes lugares:
 
 1 de administrador de 3.ª classe;
 
@@ -366,7 +482,7 @@ D) Moçambique
 
 1 de aspirante.
 
-###### Art. 34.º Nos serviços de saúde e higiene são aumentados os seguintes lugares:
+Art. 34.º Nos serviços de saúde e higiene são aumentados os seguintes lugares:
 
 1) Pessoal contratado:
 
@@ -374,9 +490,9 @@ D) Moçambique
 
 1 de enfermeiro ortopedista.
 
-###### Art. 35.º Passa a ser incluído no grupo E do artigo 90.º do Estatuto do Funcionalismo Ultramarino o médico tisiologista que na província de Moçambique exerce ou exercer as funções de chefe do serviço provincial da luta contra a tuberculose.
+Art. 35.º Passa a ser incluído no grupo E do artigo 90.º do Estatuto do Funcionalismo Ultramarino o médico tisiologista que na província de Moçambique exerce ou exercer as funções de chefe do serviço provincial da luta contra a tuberculose.
 
-###### Art. 36.º No serviço de segurança pública são aumentados os seguintes lugares:
+Art. 36.º No serviço de segurança pública são aumentados os seguintes lugares:
 
 1) Pessoal de nomeação:
 
@@ -400,13 +516,13 @@ D) Moçambique
 
 62 de guarda auxiliar de 2.ª classe.
 
-###### Art. 37.º No quadro do pessoal de nomeação dos serviços de Fazenda e contabilidade são aumentados os seguintes lugares:
+Art. 37.º No quadro do pessoal de nomeação dos serviços de Fazenda e contabilidade são aumentados os seguintes lugares:
 
 4 de segundo-oficial;
 
 16 de terceiro-oficial.
 
-###### Art. 38.º Nos serviços de obras públicas e transportes são criados os seguintes lugares:
+Art. 38.º Nos serviços de obras públicas e transportes são criados os seguintes lugares:
 
 1) Pessoal de nomeação:
 
@@ -416,11 +532,11 @@ D) Moçambique
 
 2 de capataz principal.
 
-###### Art. 39.º No quadro do pessoal de nomeação dos serviços de agricultura e florestas são criados dois lugares de mestre florestal.
+Art. 39.º No quadro do pessoal de nomeação dos serviços de agricultura e florestas são criados dois lugares de mestre florestal.
 
-###### Art. 40.º No quadro do pessoal contratado dos serviços de agrimensura é criado um lugar de capataz de 2.ª classe.
+Art. 40.º No quadro do pessoal contratado dos serviços de agrimensura é criado um lugar de capataz de 2.ª classe.
 
-###### Art. 41.º No serviço meteorológico são criados os seguintes lugares:
+Art. 41.º No serviço meteorológico são criados os seguintes lugares:
 
 1) Pessoal de nomeação:
 
@@ -446,7 +562,7 @@ a) Pessoal técnico auxiliar:
 
 1 de ajudante de observador.
 
-###### Art. 42.º Nos serviços de marinha são criados os seguintes lugares:
+Art. 42.º Nos serviços de marinha são criados os seguintes lugares:
 
 1) Pessoal de nomeação:
 
@@ -464,13 +580,13 @@ a) Pessoal técnico auxiliar:
 
 15 de marinheiro auxiliar de 1.ª classe.
 
-###### Art. 43.º O primeiro provimento dos lugares de chefe de secretaria e analista principal dos serviços de geologia e minas da província de Moçambique, criados pelo artigo 17.º do Diploma Legislativo Ministerial n.º 3, de 13 de Julho de 1959, será feito, respectivamente, por promoção do primeiro-oficial e do analista de 1.ª classe mais antigos nos serviços, desde que tenham boas informações.
+Art. 43.º O primeiro provimento dos lugares de chefe de secretaria e analista principal dos serviços de geologia e minas da província de Moçambique, criados pelo artigo 17.º do Diploma Legislativo Ministerial n.º 3, de 13 de Julho de 1959, será feito, respectivamente, por promoção do primeiro-oficial e do analista de 1.ª classe mais antigos nos serviços, desde que tenham boas informações.
 
 § único. De futuro, o provimento dos lugares a que se refere o corpo deste artigo será efectuado por concurso, nos termos do artigo 16.º do Estatuto do Funcionalismo Ultramarino e conforme for regulamentado pelo governo-geral da província.
 
-###### Art. 44.º Ficam autorizados os órgãos legislativos da província a elevar até 20 por cento, em disposição legal a publicar, os quantitativos das ajudas de custo diárias por deslocação em serviço, fixados pelo Diploma Legislativo n.º 1652, de 1 de Março de 1957, com excepção do que se encontra estabelecido para o governador-geral.
+Art. 44.º Ficam autorizados os órgãos legislativos da província a elevar até 20 por cento, em disposição legal a publicar, os quantitativos das ajudas de custo diárias por deslocação em serviço, fixados pelo Diploma Legislativo n.º 1652, de 1 de Março de 1957, com excepção do que se encontra estabelecido para o governador-geral.
 
-###### Art. 45.º São fixados nos seguintes quantitativos os encargos com que a província concorre no ano de 1961 para a Junta de Investigações do Ultramar.
+Art. 45.º São fixados nos seguintes quantitativos os encargos com que a província concorre no ano de 1961 para a Junta de Investigações do Ultramar.
 
 a) Despesas com o pessoal, material, pagamento de serviços e diversos encargos para a realização de trabalhos científicos e formação de investigadores, conforme plano a aprovar pelo Ministro do Ultramar ... 8420700$00
 
@@ -480,9 +596,9 @@ c) Outras missões e estudos ... 1700000$00
 
 E) Estado da Índia
 
-###### Art. 46.º Fica o Governo-Geral do Estado da Índia autorizado a legislar no sentido de tornar extensivo ao pessoal da Caixa Económica de Goa que tenha prestado serviço ao Estado os benefícios concedidos pelo artigo 97.º da [Portaria n.º 4744](https://diariodarepublica.pt/dr/detalhe/portaria/4744-1926-162115), de 23 de Setembro de 1958, aos funcionários dos correios, telégrafos e telefones.
+Art. 46.º Fica o Governo-Geral do Estado da Índia autorizado a legislar no sentido de tornar extensivo ao pessoal da Caixa Económica de Goa que tenha prestado serviço ao Estado os benefícios concedidos pelo artigo 97.º da [Portaria n.º 4744](https://diariodarepublica.pt/dr/detalhe/portaria/4744-1926-162115), de 23 de Setembro de 1958, aos funcionários dos correios, telégrafos e telefones.
 
-###### Art. 47.º São fixados nos seguintes quantitativos os encargos com que a província concorre no ano de 1961 para a Junta de Investigações do Ultramar:
+Art. 47.º São fixados nos seguintes quantitativos os encargos com que a província concorre no ano de 1961 para a Junta de Investigações do Ultramar:
 
 a) Despesas com o pessoal, material, pagamento de serviços e diversos encargos para a realização de trabalhos científicos e formação de investigadores conforme plano a aprovar pelo Ministro do Ultramar ... 1257700$00
 
@@ -490,11 +606,11 @@ b) Missão hidrográfica ... 700000$00
 
 F) Macau
 
-###### Art. 48.º A dotação global do capítulo 3.º da tabela de despesa ordinária resultante do ajustamento das pensões dos desligados do serviço, a partir de 1 de Julho de 1956, que estão a receber pelo mesmo capítulo, e bem assim da aplicação do disposto no [Decreto n.º 41817](https://diariodarepublica.pt/dr/detalhe/decreto/41817-1958-352081), de 19 de Agosto de 1958, e no § único do artigo 3.º do [Decreto n.º 43069](https://diariodarepublica.pt/dr/detalhe/decreto/43069-1960-501841), de 13 de Julho de 1960, considerar-se-á fixada na importância necessária para os referidos ajustamentos.
+Art. 48.º A dotação global do capítulo 3.º da tabela de despesa ordinária resultante do ajustamento das pensões dos desligados do serviço, a partir de 1 de Julho de 1956, que estão a receber pelo mesmo capítulo, e bem assim da aplicação do disposto no [Decreto n.º 41817](https://diariodarepublica.pt/dr/detalhe/decreto/41817-1958-352081), de 19 de Agosto de 1958, e no § único do artigo 3.º do [Decreto n.º 43069](https://diariodarepublica.pt/dr/detalhe/decreto/43069-1960-501841), de 13 de Julho de 1960, considerar-se-á fixada na importância necessária para os referidos ajustamentos.
 
-###### Art. 49.º No quadro do pessoal contratado dos serviços de saúde e higiene são criados cinco lugares de enfermeira, com vencimento certo igual ao atribuído aos enfermeiros de 3.ª classe.
+Art. 49.º No quadro do pessoal contratado dos serviços de saúde e higiene são criados cinco lugares de enfermeira, com vencimento certo igual ao atribuído aos enfermeiros de 3.ª classe.
 
-###### Art. 50.º Nos serviços de obras públicas, portos e transportes são introduzidas as seguintes alterações:
+Art. 50.º Nos serviços de obras públicas, portos e transportes são introduzidas as seguintes alterações:
 
 1) Pessoal de nomeação:
 
@@ -506,7 +622,7 @@ b) Eliminação de lugares:
 
 1 de auxiliar de obras públicas de 1.ª classe.
 
-###### Art. 51.º Nos serviços de marinha são introduzidas as seguintes alterações:
+Art. 51.º Nos serviços de marinha são introduzidas as seguintes alterações:
 
 1) Pessoal contratado:
 
@@ -524,9 +640,9 @@ b) Eliminação de lugares:
 
 1 de prático, chinês.
 
-###### Art. 52.º O lugar de bibliotecário da Biblioteca Nacional de Macau considera-se incluído no grupo F do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
+Art. 52.º O lugar de bibliotecário da Biblioteca Nacional de Macau considera-se incluído no grupo F do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
 
-###### Art. 53.º O artigo 1.º do [Decreto n.º 42956](https://diariodarepublica.pt/dr/detalhe/decreto/42956-1960-281577), de 28 de Abril de 1960, passa a ter a seguinte redacção:
+Art. 53.º O artigo 1.º do [Decreto n.º 42956](https://diariodarepublica.pt/dr/detalhe/decreto/42956-1960-281577), de 28 de Abril de 1960, passa a ter a seguinte redacção:
 
 O comando do Corpo da Polícia de Segurança Pública da província de Macau será constituído pelos seguintes oficiais do exército metropolitano:
 
@@ -536,17 +652,17 @@ O comando do Corpo da Polícia de Segurança Pública da província de Macau ser
 
 § único. Os oficiais de que trata o corpo deste arigo, embora enquadrados, e para efeitos de categoria civil, respectivamente, nos grupos E e F dos mapas I e X anexos ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, terão os vencimentos que na província corresponderem às suas patentes.
 
-###### Art. 54.º É fixado no seguinte quantitativo o encargo com que a província concorre para a Junta de Investigações do Ultramar:
+Art. 54.º É fixado no seguinte quantitativo o encargo com que a província concorre para a Junta de Investigações do Ultramar:
 
 Despesas com o pessoal, material, pagamento de serviços e diversos encargos para a realização de trabalhos científicos e formação de investigadores, conforme plano a aprovar pelo Ministro do Ultramar ... 514800$00
 
-###### Art. 55.º É mantida para 1961 a autorização concedida pelo artigo 31.º do [Decreto n.º 39958](https://diariodarepublica.pt/dr/detalhe/decreto/39958-1954-624817), de 7 de Dezembro de 1954.
+Art. 55.º É mantida para 1961 a autorização concedida pelo artigo 31.º do [Decreto n.º 39958](https://diariodarepublica.pt/dr/detalhe/decreto/39958-1954-624817), de 7 de Dezembro de 1954.
 
 G) Timor
 
-###### Art. 56.º Independentemente do acréscimo de que trata o § único do artigo 3.º do [Decreto n.º 43069](https://diariodarepublica.pt/dr/detalhe/decreto/43069-1960-501841), de 13 de Julho de 1960, a dotação do capítulo 3.º da tabela de despesa ordinária para o ano de 1961 será aumentada da importância de 50000$00, destinada a novas pensões de aposentação.
+Art. 56.º Independentemente do acréscimo de que trata o § único do artigo 3.º do [Decreto n.º 43069](https://diariodarepublica.pt/dr/detalhe/decreto/43069-1960-501841), de 13 de Julho de 1960, a dotação do capítulo 3.º da tabela de despesa ordinária para o ano de 1961 será aumentada da importância de 50000$00, destinada a novas pensões de aposentação.
 
-###### Art. 57.º É fixado no seguinte quantitativo o encargo com que a província concorre para a Junta de Investigações do Ultramar:
+Art. 57.º É fixado no seguinte quantitativo o encargo com que a província concorre para a Junta de Investigações do Ultramar:
 
 Missão geográfica ... 400000$00
 
@@ -554,13 +670,13 @@ II
 
 Disposições comuns
 
-###### Art. 58.º É aumentado de 4 para 5 o número dos engenheiros directores do quadro comum dos engenheiros dos serviços dos portos, caminhos de ferro e transportes do ultramar a que se refere o artigo 14.º do [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959.
+Art. 58.º É aumentado de 4 para 5 o número dos engenheiros directores do quadro comum dos engenheiros dos serviços dos portos, caminhos de ferro e transportes do ultramar a que se refere o artigo 14.º do [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959.
 
-###### Art. 59.º O engenheiro director criado pelo artigo anterior exercerá as funções de subdirector dos serviços dos portos, caminhos de ferro e transportes de Moçambique, onde passará a haver dois subdirectores.
+Art. 59.º O engenheiro director criado pelo artigo anterior exercerá as funções de subdirector dos serviços dos portos, caminhos de ferro e transportes de Moçambique, onde passará a haver dois subdirectores.
 
-###### Art. 60.º Nos quadros do pessoal inspectivo contabilista das inspecções provinciais, a que se refere o artigo 13.º do [Decreto n.º 42082](https://diariodarepublica.pt/dr/detalhe/decreto/42082-1958-342586), de 31 de Dezembro de 1958, são aumentados dois lugares de inspectores-chefes contabilistas, sendo um para a província de Angola e outro para a província de Moçambique.
+Art. 60.º Nos quadros do pessoal inspectivo contabilista das inspecções provinciais, a que se refere o artigo 13.º do [Decreto n.º 42082](https://diariodarepublica.pt/dr/detalhe/decreto/42082-1958-342586), de 31 de Dezembro de 1958, são aumentados dois lugares de inspectores-chefes contabilistas, sendo um para a província de Angola e outro para a província de Moçambique.
 
-###### Art. 61.º São criados junto de cada direcção provincial dos serviços, em Angola e Moçambique, os lugares de inspector provincial, subordinados directamente ao governador-geral e com a categoria da letra D, em tudo equiparados aos directores de serviços.
+Art. 61.º São criados junto de cada direcção provincial dos serviços, em Angola e Moçambique, os lugares de inspector provincial, subordinados directamente ao governador-geral e com a categoria da letra D, em tudo equiparados aos directores de serviços.
 
 § 1.º Estes lugares, até ao máximo de dois para cada serviço, serão orçamentados e providos à medida das necessidades do serviço.
 
@@ -578,53 +694,53 @@ a) Por transferência, determinada pelo Ministro do Ultramar, do director provin
 
 b) Por nomeação de pessoas que reúnam as condições legalmente exigidas para o provimento do cargo de director dos respectivos serviços.
 
-###### Art. 62.º É substituído pelo seguinte o n.º 31.º do artigo 205.º do Estatuto do Funcionalismo Ultramarino:
+Art. 62.º É substituído pelo seguinte o n.º 31.º do artigo 205.º do Estatuto do Funcionalismo Ultramarino:
 
 31.º Inspectores provinciais, por ordem da sua antiguidade na província.
 
-###### Art. 63.º O lugar de regente agrícola de 3.ª classe considera-se incluído no grupo O do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
+Art. 63.º O lugar de regente agrícola de 3.ª classe considera-se incluído no grupo O do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
 
-###### Art. 64.º É revogado o artigo 9.º do [Decreto n.º 35904](https://diariodarepublica.pt/dr/detalhe/decreto/35904-1946-150153), de 12 de Outubro de 1946.
+Art. 64.º É revogado o artigo 9.º do [Decreto n.º 35904](https://diariodarepublica.pt/dr/detalhe/decreto/35904-1946-150153), de 12 de Outubro de 1946.
 
 III
 
 Disposições diversas e transitórias
 
-###### Art. 65.º São aditados ao § 2.º do artigo 93.º do [Decreto n.º 41482](https://diariodarepublica.pt/dr/detalhe/decreto/41482-1957-251243), de 28 de Dezembro de 1957, os seguintes números:
+Art. 65.º São aditados ao § 2.º do artigo 93.º do [Decreto n.º 41482](https://diariodarepublica.pt/dr/detalhe/decreto/41482-1957-251243), de 28 de Dezembro de 1957, os seguintes números:
 
 7. Os chefes de brigadas técnicas de estudo ou construção actuando a área do núcleo de povoamento, quando tal seja determinado no diploma que as instituiu;
 
 8. Qualquer outra entidade que o governador, em despacho fundamentado, entenda dever pertencer à Junta por interesse do núcleo de povoamento.
 
-###### Art. 66.º Ao artigo 100.º do [Decreto n.º 41482](https://diariodarepublica.pt/dr/detalhe/decreto/41482-1957-251243), de 22 de Dezembro de 1957, é aditado o seguinte:
+Art. 66.º Ao artigo 100.º do [Decreto n.º 41482](https://diariodarepublica.pt/dr/detalhe/decreto/41482-1957-251243), de 22 de Dezembro de 1957, é aditado o seguinte:
 
 § 7.º Independentemente do pessoal do respectivo quadro, as juntas poderão contratar, nos termos do § 2.º do artigo 45.º do Estatuto do Funcionalismo Ultramarino, o pessoal especializado de que careçam para o cabal desempenho da sua missão, devendo tais contratos ser autorizados pelo governador e por ele aprovadas as correspondentes condições.
 
-###### Art. 67.º É substituída pela seguinte a redacção do artigo 35.º do [Decreto n.º 20260](https://diariodarepublica.pt/dr/detalhe/decreto/20260-1931-218326), de 31 de Agosto de 1931:
+Art. 67.º É substituída pela seguinte a redacção do artigo 35.º do [Decreto n.º 20260](https://diariodarepublica.pt/dr/detalhe/decreto/20260-1931-218326), de 31 de Agosto de 1931:
 
-###### Art. 35.º Aos funcionários ou empregados civis dos quadros do Ministério do Ultramar, dos organismos dependentes e dos quadros da metrópole que se desloquem às províncias ultramarinas em comissão eventual de serviço com duração prevista para período inferior a dezoito meses poderá ser permitido, a seu requerimento escrito, deixar uma pensão mensal para sustento de sua família, que será paga em Lisboa por intermédio da Repartição de Contabilidade da Direcção-Geral de Fazenda do Ministério do Ultramar e cujo quantitativo, descontado nos seus vencimentos ultramarinos, não poderá ser superior ao respectivo vencimento mensal atribuído aos seus lugares na metrópole.
+Art. 35.º Aos funcionários ou empregados civis dos quadros do Ministério do Ultramar, dos organismos dependentes e dos quadros da metrópole que se desloquem às províncias ultramarinas em comissão eventual de serviço com duração prevista para período inferior a dezoito meses poderá ser permitido, a seu requerimento escrito, deixar uma pensão mensal para sustento de sua família, que será paga em Lisboa por intermédio da Repartição de Contabilidade da Direcção-Geral de Fazenda do Ministério do Ultramar e cujo quantitativo, descontado nos seus vencimentos ultramarinos, não poderá ser superior ao respectivo vencimento mensal atribuído aos seus lugares na metrópole.
 
 § 1.º Considera-se família, para efeitos do presente artigo, a mulher e pessoas que derem direito ao abono de família.
 
 § 2.º O disposto neste artigo poderá ser aplicado a funcionários ou empregados dos quadros e serviços ultramarinos que, encontrando-se na metrópole em qualquer situação legal acompanhados da sua família, sejam mandados a província ultramarina diferente daquela onde estão colocados, em comissão eventual de serviço.
 
-###### Art. 68.º (transitório). O disposto no artigo 35.º do [Decreto n.º 20260](https://diariodarepublica.pt/dr/detalhe/decreto/20260-1931-218326), de 31 de Agosto de 1931, com a redacção que lhe é dada no artigo antecedente, poderá ser aplicado aos funcionários e empregados que seguiram para as províncias ultramarinas nos últimos seis meses, na situação de comissão eventual de serviço.
+Art. 68.º (transitório). O disposto no artigo 35.º do [Decreto n.º 20260](https://diariodarepublica.pt/dr/detalhe/decreto/20260-1931-218326), de 31 de Agosto de 1931, com a redacção que lhe é dada no artigo antecedente, poderá ser aplicado aos funcionários e empregados que seguiram para as províncias ultramarinas nos últimos seis meses, na situação de comissão eventual de serviço.
 
-###### Art. 69.º Quando as ajudas de custo de que trata o artigo 286.º do Estatuto do Funcionalismo Ultramarino sejam devidas a pessoal dos quadros e serviços metropolitanos que haja de seguir para o ultramar em qualquer das situações previstas no corpo do mesmo artigo, a importância a abonar, tanto na ida como no regresso, poderá ser fixada por despacho do Ministro do Ultramar, não podendo, porém, o seu quantitativo ser superior à importância da alínea a) do n.º 2.º do artigo 5.º do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
+Art. 69.º Quando as ajudas de custo de que trata o artigo 286.º do Estatuto do Funcionalismo Ultramarino sejam devidas a pessoal dos quadros e serviços metropolitanos que haja de seguir para o ultramar em qualquer das situações previstas no corpo do mesmo artigo, a importância a abonar, tanto na ida como no regresso, poderá ser fixada por despacho do Ministro do Ultramar, não podendo, porém, o seu quantitativo ser superior à importância da alínea a) do n.º 2.º do artigo 5.º do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
 
 § único. O disposto no corpo deste artigo é aplicável ao pessoal que tenha seguido para o ultramar depois de 1 de Junho de 1960.
 
-###### Art. 70.º É aplicável aos directores dos institutos de investigação médica o disposto nos artigos 35.º a 44.º do Estatuto do Funcionalismo Ultramarino.
+Art. 70.º É aplicável aos directores dos institutos de investigação médica o disposto nos artigos 35.º a 44.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 71.º No ano de 1961 ficam as províncias de Cabo Verde e Timor dispensadas de concorrer para as despesas que, nos termos legais, devem constituir encargo comum das diversas províncias ultramarinas.
+Art. 71.º No ano de 1961 ficam as províncias de Cabo Verde e Timor dispensadas de concorrer para as despesas que, nos termos legais, devem constituir encargo comum das diversas províncias ultramarinas.
 
-###### Art. 72.º Continuam em vigor no ano de 1961, relativamente ao pessoal não abrangido pelo Estatuto do Funcionalismo Ultramarino e seu diploma complementar e aos aposentados, reformados e desligados do serviço para efeitos de aposentação e reforma ao abrigo do regime anterior àqueles diplomas, o disposto no artigo 86.º do Decerto n.º 38084, de 7 de Dezembro de 1950, e no [Decreto n.º 39890](https://diariodarepublica.pt/dr/detalhe/decreto/39890-1954-682376), de 5 de Novembro de 1954, e as percentagens estabelecidas ao abrigo das Portarias n.os 14468, 14689 e 14788, respectivamente de 23 de Julho de 1953, de 31 de Dezembro de 1953 e de 18 de Março de 1954.
+Art. 72.º Continuam em vigor no ano de 1961, relativamente ao pessoal não abrangido pelo Estatuto do Funcionalismo Ultramarino e seu diploma complementar e aos aposentados, reformados e desligados do serviço para efeitos de aposentação e reforma ao abrigo do regime anterior àqueles diplomas, o disposto no artigo 86.º do Decerto n.º 38084, de 7 de Dezembro de 1950, e no [Decreto n.º 39890](https://diariodarepublica.pt/dr/detalhe/decreto/39890-1954-682376), de 5 de Novembro de 1954, e as percentagens estabelecidas ao abrigo das Portarias n.os 14468, 14689 e 14788, respectivamente de 23 de Julho de 1953, de 31 de Dezembro de 1953 e de 18 de Março de 1954.
 
-###### Art. 73.º De harmonia com o artigo 17.º e seu § único do Decreto n.º 44709, de 31 de Julho de 1956, os vencimentos do pessoal contratado e os salários do pessoal civil cujos lugares hajam sido criados por este decreto e não estejam ou fossem mandados incluir no mapa I anexo àquele diploma serão fixados pelos órgãos legislativos das respectivas províncias.
+Art. 73.º De harmonia com o artigo 17.º e seu § único do Decreto n.º 44709, de 31 de Julho de 1956, os vencimentos do pessoal contratado e os salários do pessoal civil cujos lugares hajam sido criados por este decreto e não estejam ou fossem mandados incluir no mapa I anexo àquele diploma serão fixados pelos órgãos legislativos das respectivas províncias.
 
-###### Art. 74.º Salvo disposição especial em contrário, este diploma entra em vigor em 1 de Janeiro de 1961.
+Art. 74.º Salvo disposição especial em contrário, este diploma entra em vigor em 1 de Janeiro de 1961.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Novembro de 1960 - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 175/1992, 4º Suplemento, Série I-B de 1992-07-31
   number: '175'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 3604-(12) a 3604-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/175b04/00120012.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/123/1992/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/123-1992-276005
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:33:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3836a584ebc7906b1f48c535d9b282a625be51393ee91a78a2116595b94afc69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7373205677bcac2f76ecfa63c9d3394d6a0bd8360b100f711b207cb295f9c527
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:33:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,27 +76,31 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/497/1992/06/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/497/1992/06/17/p/dre
+- type: cites
+  target: pt:dre:301407:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:33:10Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 123/92
+# Declaração de rectificação n.º 123/92
 
 Segundo comunicação do Ministério da Agricultura, a [Portaria n.º 497/92](https://diariodarepublica.pt/dr/detalhe/portaria/497-1992-301407), publicada no Diário da República, 1.ª série, n.º 138, de 17 de Junho de 1992, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 
 A alínea a) do anexo II deverá ter a seguinte disposição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/175b04/00120012.pdf))](https://files.diariodarepublica.pt/1s/1992/07/175b04/00120012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/175b04/00120012.pdf)
 
 Na alínea c) do anexo II, onde se lê «Baulinha» deve ler-se «Baunilha».
 

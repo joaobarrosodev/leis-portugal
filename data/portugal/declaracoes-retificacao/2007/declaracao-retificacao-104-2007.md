@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/104/2007/11/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/104-2007-629446
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-06T00:00:00Z'
+  retrieved_at: '2026-10-22T19:07:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28bba1f941075efcfb4639a0db28666b861326afe62208a86525b0bed0111588
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e424c6d0f219248600945a290d46c12d39a79810f9c9c2084691a7d8cbcef22f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:07:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,38 +68,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Análise Económica
-- Construção Clandestina
-- Multa
-- Ordenamento do Território
+- Autarquia Local
 - Comissão Mista de Coordenação
+- Construção Clandestina
 - Contra-ordenação
-- Política Industrial
 - Desenvolvimento Regional
-- Planeamento Urbano
-- Orla Costeira
-- Política de Saúde
-- Indemnização
 - Direito à Informação
 - Diversidade Biológica
-- Política de Solos
+- Indemnização
+- Madeira.região Autónoma
+- Multa
+- Ordenamento do Território
+- Orla Costeira
+- Planeamento Urbano
 - Plano de Pormenor
 - Plano de Urbanização
 - Plano Regional
+- Plano Regional de Ordenamento do Território
+- Política de Saúde
+- Política de Solos
 - Política do Ambiente
 - Política Económica
+- Política Industrial
 - Política Social
-- Urbanismo
-- Madeira.região Autónoma
-- Plano Regional de Ordenamento do Território
 - Regime Jurídico
-- Açores
-- Autarquia Local
+- Urbanismo
 relationships:
 - type: amended_by
   target: pt:dre:485605:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:602059:por
+  label: "Alterados os art.s 77º, 107º e 148º do Dec Lei 380/99, de 22-Set, na redacção da presente declaração, pelo DEC LEI.46/2009.20.02.2009.MAOTDR,\
+    \ DR.IS [36] de 20.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-2009-602059
+  date: '2009-02-20'
+- type: amended_by
+  target: pt:dre:494006:por
+  label: "Alterados o nº 3 do art. 77º, o nº 2 do art. 85º, a al. b) do nº 4 do art. 107º ( com efeitos desde 24.09.2007 a\
+    \ 25.02.2009 ) as als. j) do nº 2 ( com efeitos desde 24.09.2007 a 25.02.2009 ) e d) do nº 4 do art. 148º e o nº 2 do\
+    \ art. 75º-B, todos do Dec Lei 380/99, de 22-Set, na redacção dos arts. 2º e 3º do Dec Lei 316/2007, de 19-Set, e da presente\
+    \ declaração, pelo DEC LEI.181/2009.07.08.2009.MAOTDR, DR.IS [152] de 07.08.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/181-2009-494006
+  date: '2009-08-07'
+- type: amended_by
+  target: pt:dre:485605:por
+  label: "Alterado o art. 148º do Dec Lei 380/99, de 22-Set, rectificado pela presente declaração, pelo DEC LEI.2/2011.06.01.2011.PCM,\
+    \ DR.IS [4] de 06.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2011-485605
+  date: '2011-01-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
   label: null
@@ -112,16 +132,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642219:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:316/2007
+  label: "Rectifica o Decreto-Lei n.º 316/2007, de 19 de Setembro, DR.IS [181], bem como o respectivo Anexo que republica\
+    \ o Decreto-Lei 380/99, de 22 de Setembro\0\0"
+  source: null
+  date: '2007-09-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:07:21Z'
   warnings: []
   errors: []
 ---

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 26/1991, 1º Suplemento, Série I-B de 1991-01-31
   number: '26'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 512-(8) a 512-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/026b01/00080008.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/12/1991/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/12-1991-444274
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:28:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f7b27be48fb05777793011605d307aa763fc75e3a3da7df75c74115f41ee664
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9897f46257cdbd7de5ca9134c9330b70729469fc601b2067b024c1d3bb8e42b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:28:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alteração Orçamental
-- Ministério da Defesa Nacional
 - Ministério da Administração Interna
-- Ministério da Educação
-- Ministério do Planeamento e da Administração do Território
-- Ministério da Justiça
 - Ministério da Agricultura Pescas e Alimentação
+- Ministério da Defesa Nacional
+- Ministério da Educação
 - Ministério da Indústria e Energia
-- Orçamento
+- Ministério da Justiça
 - Ministério da Saúde
+- Ministério do Planeamento e da Administração do Território
+- Orçamento
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:28:54Z'
   warnings: []
   errors: []
 ---

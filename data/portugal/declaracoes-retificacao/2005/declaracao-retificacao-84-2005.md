@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/84/2005/12/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/84-2005-465190
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-20T00:00:00Z'
+  retrieved_at: '2026-10-22T19:05:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d99774584d8627c5cea97733fbd68b08a6986a7bc46ec20fc6af00b64b82002
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea17b0c8499ba1772013838d9078cb13a563066daad1972e4086efb24dc0b0aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:05:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,25 +71,34 @@ subjects:
 - Ajuda Judicial
 - Arménia
 - Convenção
-- Cooperação Jurídica
-- Estrasburgo
 - Cooperação Judiciária
+- Cooperação Jurídica
 - Direito Penal
+- Estrasburgo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/av/378/2005/10/27/p/dre
   label: null
   source: http://data.dre.pt/eli/av/378/2005/10/27/p/dre
+- type: cites
+  target: pt:dre:595912:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:aviso:378/2005
+  label: "Rectifica o Aviso n.º 378/2005, de 27 de Outubro, DR.IS-A [207]\0\0"
+  source: null
+  date: '2005-10-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:05:47Z'
   warnings: []
   errors: []
 ---

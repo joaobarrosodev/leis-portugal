@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45819-1964-578713
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-07-16T00:00:00Z'
+  retrieved_at: '2026-10-22T19:41:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e614c33ebc9a961bd300993c42f496a1e32ca1cc2ff2cbf8cbbdfe3cafac2892
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09b4edd39943222b058f2ee4e7a42c2ecd268bbc465fc10c50d1e785d4fbdfc5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:41:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:41:14Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +100,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, o seguinte:
 
-###### Artigo 1.º É transferida no orçamento do Ministério das Finanças a seguinte quantia:
+Artigo 1.º É transferida no orçamento do Ministério das Finanças a seguinte quantia:
 
 No capítulo 1.º:
 
@@ -96,12 +108,12 @@ Do artigo 10.º «Dívida flutuante, ...», n.º 2) «Encargos de juros ...» ..
 
 Para o artigo 9.º, n.º 1) «Para pagamento de despesas no País ...» ... +2000000$00
 
-###### Art. 2.º É aberto no Ministério das Finanças, a favor do mesmo Ministério, um crédito especial no montante de 110000$00, devendo a mesma importância ser adicionada à verba descrita no capítulo 3.º, artigo 31.º n.º 1) «Despesas no estrangeiro (comissões de pagamento ...)», do vigente orçamento do aludido Ministério.
+Art. 2.º É aberto no Ministério das Finanças, a favor do mesmo Ministério, um crédito especial no montante de 110000$00, devendo a mesma importância ser adicionada à verba descrita no capítulo 3.º, artigo 31.º n.º 1) «Despesas no estrangeiro (comissões de pagamento ...)», do vigente orçamento do aludido Ministério.
 
-###### Art. 3.º Para contrapartida do crédito aberto no artigo anterior é anulada igual quantia na dotação do capítulo 1.º, artigo 10.º, n.º 2), do referido orçamento.
+Art. 3.º Para contrapartida do crédito aberto no artigo anterior é anulada igual quantia na dotação do capítulo 1.º, artigo 10.º, n.º 2), do referido orçamento.
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Julho de 1964. - ANTÓNIO DE OLIVEIRA SALAZAR - António Manuel Pinto Barbosa.

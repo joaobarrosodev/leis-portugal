@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/09/18700/0001000014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,26 +47,43 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/195/2026/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2026-1173491824
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-25T00:00:00Z'
+  retrieved_at: '2026-10-22T18:53:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fcb22f7a471e379adfdd46af784dd23e9555278a2155014c4c755523111fc5a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af25ed5384b08b4704c4ec603761476a40a3a389b63b78ad1894f684a3d1d1c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:53:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autorização de Circulação
+- Equipamento de Veículo
+- Especificação Técnica
+- Regulamento
+- Regulamento CE
+- Regulamento de Autorizações Especiais de Trânsito
+- Regulamento que FIXA os Pesos e as Dimensões Máximos Autorizados para os Veículos em Circulação
+- Responsabilidade Civil
+- Trânsito
+- Transporte Internacional Rodoviario
+- Veículo
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:132/2017
+  label: Altera com efeitos a 25 de março de 2027, os artigos 3.º, 4.º, 16.º, 17.º, 18.º, 21.º do anexo e adita o artigo 18.º-A
+    ao anexo do Decreto-Lei n.º 132/2017, de 11 de outubro, Diário da República n.º 196/2017, Série I
+  source: null
+  date: '2017-10-10'
 - type: cites
   target: celex:32018R0858
   label: null
@@ -83,16 +100,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/59/2023/07/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/59/2023/07/21/p/dre
+- type: cites
+  target: pt:dre:108284890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1751988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215980342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:53:54Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +194,9 @@ f) [...]
 
 10 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -171,11 +206,13 @@ f) [...]
 
 4 - Nos conjuntos de veículos em configuração Euro-Modular, os raios exterior e interior referidos no n.º 1 podem atingir os valores de 14,50 m e 6,5 m, respetivamente, desde que o itinerário utilizado assegure, comprovadamente, a sua compatibilidade geométrica.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - É permitida a circulação de conjuntos de veículos em configuração Euro-Modular, com um peso máximo até 72,00 t e um comprimento máximo de até 32,00 m.
 
-2 - Os conjuntos de veículos em configuração Euro-Modular com um peso máximo superior a 60,00 t, devem dispor de um comprimento superior a 25,25 m e o respetivo conjunto integrar dois veículos do tipo semirreboque da categoria europeia O<sub>4</sub>, previstos no n.º 7, ligados por um ‘dolly’.
+2 - Os conjuntos de veículos em configuração Euro-Modular com um peso máximo superior a 60,00 t, devem dispor de um comprimento superior a 25,25 m e o respetivo conjunto integrar dois veículos do tipo semirreboque da categoria europeia O4, previstos no n.º 7, ligados por um ‘dolly’.
 
 3 - A circulação dos conjuntos referidos no presente artigo é efetuada através de autorização especial de trânsito, válida pelo período máximo de dois anos, a conceder pelo Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.).
 
@@ -189,7 +226,7 @@ f) [...]
 
 8 - Os pesos brutos máximos por eixo a considerar para efeitos do peso bruto do conjunto em configuração Euro-Modular, são os previstos no artigo 14.º do presente regulamento, para cada eixo motor ou não motor, simples, duplo ou triplo.
 
-9 - Sem prejuízo da utilização de ’dollys’ como elemento de ligação, os conjuntos a que se refere o presente artigo não podem integrar mais de dois veículos rebocados do tipo reboque ou semirreboque, da categoria europeia O<sub>4</sub>, conforme definida no [Regulamento (UE) 2018/858](https://data.europa.eu/eli/reg/2018/858/oj?locale=pt), do Parlamento Europeu e do Conselho, de 30 de maio de 2018.
+9 - Sem prejuízo da utilização de ’dollys’ como elemento de ligação, os conjuntos a que se refere o presente artigo não podem integrar mais de dois veículos rebocados do tipo reboque ou semirreboque, da categoria europeia O4, conforme definida no [Regulamento (UE) 2018/858](https://data.europa.eu/eli/reg/2018/858/oj?locale=pt), do Parlamento Europeu e do Conselho, de 30 de maio de 2018.
 
 10 - [Anterior n.º 4.]
 
@@ -199,7 +236,9 @@ f) [...]
 
 13 - A atribuição pelo IMT, I. P., da autorização especial de trânsito prevista no presente artigo, depende da apresentação de seguro de responsabilidade civil válido para os veículos que integram o conjunto.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Todos os veículos que integram um conjunto de veículos em configuração Euro-Modular devem possuir matrícula válida.
 
@@ -221,9 +260,9 @@ g) Tanto o veículo a motor como os veículos rebocados que exerçam ação de t
 
 3 - [...]
 
-4 - Os veículos novos da categoria europeia O<sub>4</sub>, a utilizar em posições intermédias nos conjuntos a que se refere o presente artigo, devem ser objeto de homologação europeia, homologação de pequena série ou homologação individual, que preveja especificamente a sua utilização na referida condição.
+4 - Os veículos novos da categoria europeia O4, a utilizar em posições intermédias nos conjuntos a que se refere o presente artigo, devem ser objeto de homologação europeia, homologação de pequena série ou homologação individual, que preveja especificamente a sua utilização na referida condição.
 
-5 - Os veículos já matriculados da categoria europeia O<sub>4</sub> a utilizar em posições intermédias nos conjuntos a que se refere o presente artigo, devem ser aprovados em processo de transformação que preveja especificamente a referida utilização.
+5 - Os veículos já matriculados da categoria europeia O4 a utilizar em posições intermédias nos conjuntos a que se refere o presente artigo, devem ser aprovados em processo de transformação que preveja especificamente a referida utilização.
 
 6 - Nos documentos de identificação dos veículos referidos nos números anteriores, será anotada a possibilidade de os mesmos efetuarem tração, bem como o seu valor máximo.
 
@@ -231,7 +270,9 @@ g) Tanto o veículo a motor como os veículos rebocados que exerçam ação de t
 
 8 - O peso bruto no eixo ou eixos motores do veículo trator poderá ser inferior a 25 % do peso bruto do conjunto de veículos em configuração Euro-Modular, sempre que seja garantida uma massa de 11,5 t sobre o eixo motor, para iniciar o movimento em pendentes de 8 %.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - A atribuição da autorização a que se refere o n.º 3 do artigo 16.º depende de parecer prévio favorável dos responsáveis pela gestão das infraestruturas utilizadas que podem estabelecer condições e limitações temporais à validade máxima das autorizações prevista naquela disposição.
 
@@ -245,7 +286,9 @@ g) Tanto o veículo a motor como os veículos rebocados que exerçam ação de t
 
 6 - [Anterior n.º 5.]
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...]
 
@@ -285,12 +328,14 @@ O presente decreto-lei produz efeitos 180 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de agosto de 2026. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Joaquim Miranda Sarmento - Cristina Maria dos Santos Pinto Dias - Luís António Trindade Nunes das Neves.
 
-**Promulgado em 11 de setembro de 2026.**
+Promulgado em 11 de setembro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 14 de setembro de 2026.**
+Referendado em 14 de setembro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119949600

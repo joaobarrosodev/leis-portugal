@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43871-1961-174115
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-08-22T00:00:00Z'
+  retrieved_at: '2026-10-22T19:25:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3f9c7e31d0deb1e33c878ffdf349fd4df0643c0a15ae5314bb505f15a3c0233
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c653b51131152f3f9fca2d895a0d47313185bd94376d604fbdb48569f98cb15
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:25:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:298616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665329:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:25:12Z'
   warnings: []
   errors: []
 ---
@@ -114,9 +130,9 @@ De harmonia com a autorização concedida pelo artigo 6.º da [Lei n.º 2106](ht
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É prorrogado, para aplicação aos investimentos realizados a partir de 1 de Janeiro do ano corrente e a realizar até 31 de Dezembro de 1962, o regime estabelecido no [Decreto n.º 40874](https://diariodarepublica.pt/dr/detalhe/decreto/40874-1956-298616), de 23 de Novembro de 1956, com a seguinte redacção dos artigos 1.º e 6.º:
+Artigo 1.º É prorrogado, para aplicação aos investimentos realizados a partir de 1 de Janeiro do ano corrente e a realizar até 31 de Dezembro de 1962, o regime estabelecido no [Decreto n.º 40874](https://diariodarepublica.pt/dr/detalhe/decreto/40874-1956-298616), de 23 de Novembro de 1956, com a seguinte redacção dos artigos 1.º e 6.º:
 
-###### Artigo 1.º Às empresas que a partir de 1 de Janeiro do corrente ano e até 31 de Dezembro de 1962 tenham procedido ou procedam, em fábricas existentes naquela data. a investimentos produtivos que conduzam a novos processos de fabrico ou à redução de custo ou melhoria de qualidade dos produtos que fabriquem poderá o Ministro das Finanças conceder as seguintes deduções na parte da contribuição industrial respeitante à unidade fabril em que for feito o investimento:
+Artigo 1.º Às empresas que a partir de 1 de Janeiro do corrente ano e até 31 de Dezembro de 1962 tenham procedido ou procedam, em fábricas existentes naquela data. a investimentos produtivos que conduzam a novos processos de fabrico ou à redução de custo ou melhoria de qualidade dos produtos que fabriquem poderá o Ministro das Finanças conceder as seguintes deduções na parte da contribuição industrial respeitante à unidade fabril em que for feito o investimento:
 
 1.º No rendimento tributável fixado para base da contribuição industrial do grupo C, uma importância igual ao produto do valor amortizável pela percentagem que lhe corresponder nos termos do artigo seguinte;
 
@@ -126,7 +142,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 6.º Para a concessão da dedução prevista no artigo 1.º do presente diploma deverão os interessados entregar o respectivo requerimento na Direcção-Geral das Contribuições e Impostos ou na secção de finanças do concelho ou bairro em cuja área esteja situada a respectiva unidade fabril, dentro do prazo de 30 dias, a contar da data em que o investimento foi realizado, nos termos do § 2.º do artigo 3.º
+Art. 6.º Para a concessão da dedução prevista no artigo 1.º do presente diploma deverão os interessados entregar o respectivo requerimento na Direcção-Geral das Contribuições e Impostos ou na secção de finanças do concelho ou bairro em cuja área esteja situada a respectiva unidade fabril, dentro do prazo de 30 dias, a contar da data em que o investimento foi realizado, nos termos do § 2.º do artigo 3.º
 
 § 1.º A entrega do requerimento fora do prazo fixado neste artigo importa, quando efectuada até ao fim do ano seguinte àquele em que o investimento foi realizado, a perda da dedução relativa ao primeiro dos quatro anos a que se refere o artigo 3.º e, quando efectuada depois, a perda da dedução relativa aos anos que tenham decorrido até ao fim daquele em que o requerimento tiver sido entregue.
 
@@ -136,8 +152,8 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 § 4.º A concessão das deduções a título provisório, prevista no parágrafo anterior, não dispensa o requerimento para a concessão definitiva nos termos do corpo deste artigo logo que o investimento seja realizado.
 
-###### Art. 2.º (transitório). Para os investimentos realizados de 1 de Janeiro do corrente ano até à data da entrada em vigor deste diploma o prazo de 30 dias fixado no artigo 6.º do [Decreto n.º 40874](https://diariodarepublica.pt/dr/detalhe/decreto/40874-1956-298616), com a redacção dada pelo presente diploma, conta-se desta última data.
+Art. 2.º (transitório). Para os investimentos realizados de 1 de Janeiro do corrente ano até à data da entrada em vigor deste diploma o prazo de 30 dias fixado no artigo 6.º do [Decreto n.º 40874](https://diariodarepublica.pt/dr/detalhe/decreto/40874-1956-298616), com a redacção dada pelo presente diploma, conta-se desta última data.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Agosto de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - José do Nascimento Ferreira Dias Júnior.

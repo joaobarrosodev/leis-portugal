@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1960/10/25100/23492349.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43275-1960-514466
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-06-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:20:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f242bd801cab83521153f38c7500f149139443461bb012f57eeed211fd63bf8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab2fad9fe16bbbd8d2feafcf15fef9d4feb0d46bc8a99296cbed8a370e188564
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:20:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Despesas Públicas
+- Ministério do Exército
 relationships:
 - type: amended_by
   target: pt:dre:272379:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430036:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:272379:por
+  label: "Revogado, a partir de 12.06.1968, pelo DEC LEI.48422.07.06.1968.MX, DG.IS [136] de 07.06.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48422-1968-272379
+  date: '1968-06-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:20:37Z'
   warnings: []
   errors: []
 ---
@@ -96,14 +113,14 @@ Tendo em vista o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o Ministério do Exército, por intermédio do conselho administrativo da chefia do serviço do orçamento e administração, a celebrar contrato com a Companhia I. B. M. Portuguesa para o fornecimento de equipamento mecanográfico, na importância de 510040$50, no ano económico de 1961.
+Artigo 1.º É autorizado o Ministério do Exército, por intermédio do conselho administrativo da chefia do serviço do orçamento e administração, a celebrar contrato com a Companhia I. B. M. Portuguesa para o fornecimento de equipamento mecanográfico, na importância de 510040$50, no ano económico de 1961.
 
 § único. A quantia mencionada no corpo do artigo corresponde ao somatório das importâncias de 471421$20 e 38619$30, relativas, respectivamente, a doze meses de aluguer do equipamento mecanográfico necessário e à aquisição de fios e painéis de ligação.
 
-###### Art. 2.º É igualmente autorizada a manutenção do regime de aluguer do referido equipamento nos anos económicos de 1962 e seguintes, até ao montante anual de 471421$20.
+Art. 2.º É igualmente autorizada a manutenção do regime de aluguer do referido equipamento nos anos económicos de 1962 e seguintes, até ao montante anual de 471421$20.
 
 § único. Fica o Ministério do Exército autorizado a inscrever anualmente no seu orçamento próprio o crédito necessário para a execução do disposto neste diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Outubro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Júlio Carlos Alves Dias Botelho Moniz - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes.

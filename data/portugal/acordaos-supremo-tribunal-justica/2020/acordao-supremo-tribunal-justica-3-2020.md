@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/05/09600/0000200022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/3/2020/05/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/3-2020-133837481
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-05-18T00:00:00Z'
+  retrieved_at: '2026-10-22T17:54:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e755ea5d454ec025e5e6c1a2828dcb1adc92be88945afa9787214494d2b219c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d24aaf7100cb363272d8335c4316cce69bfcd3356e01ae2a230b49417dd5f01
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:54:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Crime
 - Código de Processo Penal
-- IPSS
-- Interpretação do Direito
-- Organismo do Estado
-- Sanção Penal
-- Pessoa Colectiva de Direito Privado
+- Crime
 - Funcionário Público
+- Interpretação do Direito
+- IPSS
+- Organismo do Estado
+- Pessoa Colectiva de Direito Privado
+- Recurso
+- Sanção Penal
 - Trabalhador por Conta de Outrem
 - Utilidade Pública
 relationships:
@@ -120,15 +120,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/76/2015/07/28/p/dre
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:54:25Z'
   warnings: []
   errors: []
 ---
@@ -531,11 +531,11 @@ Pode dizer-se que o [DL n.º 519-G2/79](https://diariodarepublica.pt/web/guest/p
 
 Importa aqui fazer uma referência expressa ao disposto nos artigos 1.º e 2.º n.º 1 do mencionado estatuto:
 
-###### Artigo 1.º (Definição e objectivo das instituições):
+Artigo 1.º (Definição e objectivo das instituições):
 
 São instituições privadas de solidariedade social as criadas, sem finalidade lucrativa, por iniciativa particular, com o propósito de dar expressão organizada ao dever moral de solidariedade e de justiça entre os indivíduos e com o objectivo de facultar serviços ou prestações de segurança social.
 
-###### Artigo 2.º (Enquadramento e natureza das instituições):
+Artigo 2.º (Enquadramento e natureza das instituições):
 
 1 - Enquanto entidades que facultam serviços ou prestações, as instituições, quando registadas nos termos deste Estatuto, fazem parte do sistema de segurança social referido no artigo 63.º da Constituição, pelo que são reconhecidas, valorizadas e apoiadas pelo Estado que as orienta e tutela, as coordena e subsidia.
 
@@ -668,3 +668,5 @@ Com vista à prossecução de objectivos de solidariedade social têm o apoio do
 Nesse sentido, confirmaria o recurso e fixaria jurisprudências em como a expressão "organismo público" referida na alín. d) do n.º 1 do art.º 386.º do Código Penal abrange as instituições particulares de solidariedade social.
 
 Francisco Manuel Caetano.
+
+113224087

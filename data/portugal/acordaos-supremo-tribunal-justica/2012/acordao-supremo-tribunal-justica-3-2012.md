@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/3/2012/04/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/3-2012-552799
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-18T00:00:00Z'
+  retrieved_at: '2026-10-22T17:53:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4884ee7e939284d3ef90cad7009810c542bb1d26f7d2052ad26e01faf13c6fe3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 878baa1407a0e3974b1fd94337eb28bf43110432796bc8e10e9a3b6efdecb8a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:53:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
 - Impugnação
 - Interpretação do Direito
 - Prova
+- Recurso
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/ac/401/1992/01/08/p/dre
@@ -113,16 +113,196 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/48/2007/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/48/2007/08/29/p/dre
+- type: cites
+  target: pt:dre:1681028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2004945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2788421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3018105:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320971:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3224333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568276:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693853:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:53:09Z'
   warnings: []
   errors: []
 ---
@@ -627,11 +807,11 @@ A modificabilidade da decisão sobre a matéria de facto era possível pela dete
 
 Inserto no título i, «Dos recursos ordinários», do livro ix, «Dos Recursos», no capítulo iii, «Do recurso perante as relações», estabelecia-se, no que ora importa, o seguinte complexo normativo:
 
-###### Artigo 427.º (Recurso para a relação)
+Artigo 427.º (Recurso para a relação)
 
 Exceptuados os casos em que há recurso directo para o Supremo Tribunal de Justiça, o recurso da decisão proferida por tribunal de primeira instância interpõe-se para a relação.
 
-###### Artigo 428.º (Poderes de cognição)
+Artigo 428.º (Poderes de cognição)
 
 1 - As relações conhecem de facto e de direito.
 
@@ -663,7 +843,7 @@ Ainda de acordo com o último acórdão citado, proferido a poucos dias do iníc
 
 Segundo o Acórdão do Tribunal Constitucional n.º 253/92, Diário da República, 2.ª série, de 27 de Outubro de 1992, aquele registo de prova não tinha no sistema do Código de Processo Penal então vigente a finalidade de permitir ao tribunal de recurso o controlo do julgamento de facto, feito pelo tribunal recorrido.
 
-###### Artigo 364.º (Audiência perante tribunal singular)
+Artigo 364.º (Audiência perante tribunal singular)
 
 1 - As declarações prestadas oralmente em audiência que decorrer perante tribunal singular são documentadas na acta sempre que, até ao início das declarações do arguido previstas no artigo 343.º, o Ministério Público, o defensor, ou o advogado do assistente declararem que não prescindem da documentação. A declaração fica a constar da acta e aproveita aos restantes sujeitos processuais.
 
@@ -801,7 +981,7 @@ E o n.º 4: «Quando as provas tenham sido gravadas, as especificações previst
 
 O n.º 3 já não se refere apenas a renovação da prova e o originário foi desdobrado em três alíneas, fazendo especificação do ónus do recorrente, sendo patente a similitude com o disposto no artigo 690.º-A, n.º 1, do CPC, na redacção de 1995 (DL 39/95).
 
-###### Artigo 428.º (Poderes de cognição):
+Artigo 428.º (Poderes de cognição):
 
 1 - As relações conhecem de facto e de direito.
 
@@ -819,7 +999,7 @@ b) Se, havendo documentação da prova, esta tiver sido impugnada nos termos do 
 
 c) Se tiver havido renovação da prova.»
 
-###### Artigo 432.º (Recurso para o STJ):
+Artigo 432.º (Recurso para o STJ):
 
 «Recorre-se para o Supremo Tribunal de Justiça:
 
@@ -849,7 +1029,7 @@ Mantém-se a necessidade de requerimento para documentação no processo especia
 
 Permanecendo intocado o artigo 363.º, o artigo 364.º foi alterado, desde logo na epígrafe, denunciando alargamento das hipóteses de gravação.
 
-###### Artigo 364.º (Audiência perante tribunal singular ou na ausência do arguido)
+Artigo 364.º (Audiência perante tribunal singular ou na ausência do arguido)
 
 1 - As declarações prestadas oralmente em audiência que decorrer perante tribunal singular são documentadas na acta, salvo se, até ao início das declarações do arguido previstas no artigo 343.º, o Ministério Público, o defensor ou o advogado do assistente declararem unanimemente para a acta que prescindem da documentação.
 
@@ -859,7 +1039,7 @@ Permanecendo intocado o artigo 363.º, o artigo 364.º foi alterado, desde logo 
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 334.º (Audiência na ausência do arguido em casos especiais e de notificação edital)
+Artigo 334.º (Audiência na ausência do arguido em casos especiais e de notificação edital)
 
 «1 - ...
 
@@ -973,17 +1153,17 @@ Entretanto, no domínio do processo penal, e a partir de 15 de Setembro de 2007.
 
 A 15.ª alteração do Código de Processo Penal, operada pela [Lei n.º 48/2007](https://diariodarepublica.pt/dr/detalhe/lei/48-2007-641082), de 29 de Agosto (Diário da República, 1.ª série, n.º 166, de 29 de Agosto, rectificada pela [Declaração de Rectificação n.º 100-A/2007](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/100-a-2007-243885), Diário da República, n.º 207, suplemento, de 26 de Outubro, por seu turno, rectificada pela [Declaração de Rectificação n.º 105/2007](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/105-2007-629384), Diário da República, n.º 216, de 9 de Novembro), entrada em vigor no imediato dia 15 de Setembro seguinte (artigo 7.º), procedeu, no que ora interessa, às seguintes modificações:
 
-###### Artigo 363.º (Documentação de declarações orais)
+Artigo 363.º (Documentação de declarações orais)
 
 «As declarações prestadas oralmente na audiência são sempre documentadas na acta, sob pena de nulidade.»
 
-###### Artigo 364.º (Forma de documentação) (agora sem referência a forma de processo)
+Artigo 364.º (Forma de documentação) (agora sem referência a forma de processo)
 
 «1 - A documentação das declarações prestadas oralmente na audiência é efectuada, em regra, através de gravação magnetofónica ou audiovisual, sem prejuízo da utilização de meios estenográficos ou estenotípicos, ou de outros meios técnicos idóneos a assegurar a reprodução integral daquelas. É correspondentemente aplicável o disposto nos n.os 2 e 3 do artigo 101.º
 
 2 - Quando houver lugar a gravação magnetofónica ou audiovisual, deve ser consignado na acta o início e o termo da gravação de cada declaração.»
 
-###### Artigo 412.º (Motivação do recurso e conclusões)
+Artigo 412.º (Motivação do recurso e conclusões)
 
 «...
 
@@ -1005,7 +1185,7 @@ Cotejando a redacção do actual n.º 3, aparentemente inalterado, com a da vers
 
 A aproximação, pelo menos, textual, dos dois regimes não espanta, se tivermos em conta que, independentemente das diferentes «vacatio legis» de um e de outro dos diplomas em causa, as publicações foram muito próximas: o [Decreto-Lei n.º 303/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2007-640911) foi publicado em 24 de Agosto de 2007, entrando em vigor em 1 de Janeiro de 2008, e a [Lei n.º 48/2007](https://diariodarepublica.pt/dr/detalhe/lei/48-2007-641082), publicada em 29 de Agosto de 2007, entrou em vigor em 15 de Setembro de 2007, num registo de aplicação de vigência de inovadora lei, decididamente repentista - apenas dezassete dias depois da publicação feita em férias judiciais - quando o diploma veio a ser rectificado em 26 de Outubro, quando já se encontrava em vigor, sendo rectificado, pela segunda vez, com a rectificação da declaração de rectificação em 9 de Novembro de 2007.
 
-###### Artigo 431.º (Modificabilidade da decisão recorrida)
+Artigo 431.º (Modificabilidade da decisão recorrida)
 
 «Sem prejuízo do disposto no artigo 410.º, a decisão do tribunal de 1.ª instância sobre matéria de facto pode ser modificada:
 

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44533-1962-163638
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-08-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:30:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41a9af4a8990345cd40c7ebb1d7b66711fd6e3ccd0b961aa26bdf64fc027b5ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 615c3759d03364a5d56c79115044a6203e8f7040205bd22c734793b291b67ae7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:30:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:184274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:433006:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:30:49Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +111,9 @@ Tendo em atenção as disposições da [Lei n.º 2025](https://diariodarepublica
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São criadas duas escolas técnicas profissionais, a instalar nos concelhos da Sertã e de Olhão, que se denominarão, respectivamente, Escola Industrial da Sertã e Escola Industrial de Olhão.
+Artigo 1.º São criadas duas escolas técnicas profissionais, a instalar nos concelhos da Sertã e de Olhão, que se denominarão, respectivamente, Escola Industrial da Sertã e Escola Industrial de Olhão.
 
-###### Art. 2.º As escolas a que se refere o artigo anterior são de frequência mista e regulam-se pelas disposições do Decreta n.º 37029, de 25 de Agosto de 1948, e demais legislação aplicável.
+Art. 2.º As escolas a que se refere o artigo anterior são de frequência mista e regulam-se pelas disposições do Decreta n.º 37029, de 25 de Agosto de 1948, e demais legislação aplicável.
 
 § 1.º Na Escola Industrial da Sertã será ministrado o ensino dos cursos de electromecânico e de formação feminina.
 
@@ -113,24 +121,24 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 § 3.º O ensino da técnica de conservas será organizado com a activa cooperação dos organismos representativos da indústria correspondente.
 
-###### Art. 3.º A Escola Industrial da Sertã entrará em funcionamento após a construção do respectivo corpo de oficinas e a empresa proprietária do Centro Liceal e Técnico Santo Condestável fica obrigada a ceder gratuitamente, para instalação parcial da mesma Escola, as demais dependências necessárias, segundo acordo a estabelecer entre a Direcção-Geral do Ensino Técnico Profissional e aquela empresa.
+Art. 3.º A Escola Industrial da Sertã entrará em funcionamento após a construção do respectivo corpo de oficinas e a empresa proprietária do Centro Liceal e Técnico Santo Condestável fica obrigada a ceder gratuitamente, para instalação parcial da mesma Escola, as demais dependências necessárias, segundo acordo a estabelecer entre a Direcção-Geral do Ensino Técnico Profissional e aquela empresa.
 
-###### Art. 4.º Até à construção do edifício próprio, a Escola Industrial de Olhão funcionará em instalação fornecida pela Câmara Municipal, depois de verificado que a mesma satisfaz aos necessários requisitos pedagógicos.
+Art. 4.º Até à construção do edifício próprio, a Escola Industrial de Olhão funcionará em instalação fornecida pela Câmara Municipal, depois de verificado que a mesma satisfaz aos necessários requisitos pedagógicos.
 
-###### Art. 5.º Os quadros de pessoal docente, administrativo e menor das escolas da Sertã e de Olhão são os que constam do mapa anexo ao presente diploma e que dele faz parte integrante.
+Art. 5.º Os quadros de pessoal docente, administrativo e menor das escolas da Sertã e de Olhão são os que constam do mapa anexo ao presente diploma e que dele faz parte integrante.
 
 § único. O provimento dos lugares será feito gradualmente, de acordo com as necessidades do serviço.
 
-###### Art. 6.º Até que sejam constituídos os conselhos administrativos das escolas criadas pelo presente diploma as funções que legalmente lhes competem serão desempenhadas pelos directores.
+Art. 6.º Até que sejam constituídos os conselhos administrativos das escolas criadas pelo presente diploma as funções que legalmente lhes competem serão desempenhadas pelos directores.
 
-###### Art. 7.º No presente ano económico os vencimentos dos funcionários que vierem a ser nomeados para o quadro da Escola Industrial de Olhão serão abonados por conta das disponibilidades da dotação inscrita no artigo 807.º do correspondente orçamento do Ministério da Educação Nacional.
+Art. 7.º No presente ano económico os vencimentos dos funcionários que vierem a ser nomeados para o quadro da Escola Industrial de Olhão serão abonados por conta das disponibilidades da dotação inscrita no artigo 807.º do correspondente orçamento do Ministério da Educação Nacional.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Agosto de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - António Manuel Pinto Barbosa - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior.
 
 Mapa a que se refere o artigo 5.º do Decreto n.º 44533 desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/08/19100/11501151.pdf))](https://files.diariodarepublica.pt/1s/1962/08/19100/11501151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/08/19100/11501151.pdf)
 
 Ministério da Educação Nacional, 21 de Agosto de 1962. - O Ministro da Educação Nacional, Manuel Lopes de Almeida.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/2/2026/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2026-1049254413
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-13T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec0e6b7fd6757540e2ab64c7951c544226e46d61d68d8c756b6f08ead1647348
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c8cce286321171c9abcb108e0ad36ace061bf5f4c663a66da837cc9ed2f0338
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Gestão Financeira
-- Definição de Competências
-- Orgânica
-- Quadro de Pessoal
 - Autoridade para as Condições do Trabalho
+- Definição de Competências
+- Gestão Financeira
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
 relationships:
+- type: amends
+  target: pt:numero:decreto-regulamentar:47/2012
+  label: Altera, a partir de 1 de março de 2026, os artigos 2.º, 4.º, 5.º, 6.º, 7.º, 8.º, 10.º, 11.º, 12.º e o anexo, adita
+    os artigos 2.º-A, 6.º-A, 9.º-A e 9.º-B e revoga os n.ºs 2, 3 e 4 do artigo 2.º do Decreto Regulamentar n.º 47/2012, de
+    31 de julho, Diário da República n.º 147/2012, Série I
+  source: null
+  date: '2012-07-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/43-b/2024/07/02/p/dre
   label: null
@@ -80,16 +87,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/47/2012/07/31/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/47/2012/07/31/p/dre
+- type: cites
+  target: pt:dre:179298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
 article_structure:
-  article_count: 18
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:13Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +143,9 @@ Missão
 
 4 - [Revogado.]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao inspetor-geral superintender toda a atividade da ACT, nomeadamente:
 
@@ -150,7 +167,9 @@ h) Assegurar a execução e a avaliação da Estratégia Nacional para a Saúde 
 
 2 - [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -176,7 +195,9 @@ d) [...]
 
 8 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A ACT dispõe de unidades orgânicas desconcentradas, designadas por centros locais.
 
@@ -194,11 +215,15 @@ d) Unidade de Apoio ao Centro Local do Oeste, situada nas Caldas da Rainha.
 
 4 - É criada a Unidade de Apoio ao Centro Local do Ave, situada em Vila Nova de Famalicão.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 A organização interna da ACT obedece ao modelo estrutural hierárquico.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -208,11 +233,15 @@ A organização interna da ACT obedece ao modelo estrutural hierárquico.
 
 4 - As quantias cobradas pela ACT são fixadas e periodicamente atualizadas por despacho dos membros do Governo responsáveis pelas áreas das finanças e do trabalho, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indiretos de funcionamento.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 Os lugares de direção superior dos 1.º e 2.º graus e de direção intermédia de 1.º, 2.º, 3.º e 4.º graus da ACT constam do mapa anexo ao presente decreto regulamentar e do qual faz parte integrante.
 
-###### Artigo 11.º — Estatuto remuneratório dos chefes de equipa e coordenadores
+Artigo 11.º
+
+Estatuto remuneratório dos chefes de equipa e coordenadores
 
 A remuneração base dos cargos de direção intermédia de 3.º e 4.º graus é determinada em percentagem da remuneração base do dirigente máximo do serviço, nas seguintes proporções:
 
@@ -220,7 +249,9 @@ a) Aos chefes de equipa, dirigentes de 3.º grau, 60 %;
 
 b) Aos coordenadores, dirigentes de 4.º grau, 50 %.
 
-###### Artigo 12.º — Participação em outras entidades
+Artigo 12.º
+
+Participação em outras entidades
 
 Para a prossecução das suas atribuições, a ACT pode, mediante autorização dos membros do Governo responsáveis pelas áreas das finanças e do trabalho, participar em associações e fundações, nacionais e estrangeiras, a fim de promover a investigação nos âmbitos laboral e da segurança e saúde no trabalho.»
 
@@ -292,17 +323,23 @@ x) Prosseguir as demais atribuições que lhe forem conferidas por lei.
 
 4 - A ACT, em articulação com os serviços competentes do Ministério da Educação, Ciência e Inovação, deve ainda participar na elaboração dos conteúdos curriculares, com vista à introdução de matérias sobre a segurança e saúde no trabalho, relativamente a todos os graus de ensino e formação profissional.
 
-###### Artigo 6.º-A — Serviços centrais
+Artigo 6.º-A
+
+Serviços centrais
 
 Os serviços centrais da ACT são constituídos por três direções de serviço e unidades orgânicas flexíveis criadas por despacho do dirigente máximo, conforme portaria.
 
-###### Artigo 9.º-A — Cargos dirigentes intermédios dos serviços centrais
+Artigo 9.º-A
+
+Cargos dirigentes intermédios dos serviços centrais
 
 1 - As direções de serviços são dirigidas por diretores de serviço, cargos de direção intermédia de 1.º grau.
 
 2 - As divisões são chefiadas por chefes de divisão, cargos de direção intermédia de 2.º grau.
 
-###### Artigo 9.º-B — Cargos dirigentes intermédios dos serviços desconcentrados
+Artigo 9.º-B
+
+Cargos dirigentes intermédios dos serviços desconcentrados
 
 1 - Os centros locais são dirigidos por diretores de serviço, cargos de direção intermédia de 1.º grau.
 
@@ -320,7 +357,7 @@ As comissões de serviço dos titulares de cargos dirigentes da ACT cessam autom
 
 ###### Artigo 6.º — Norma revogatória
 
-São revogados os n.<sup>os</sup>2, 3 e 4 do artigo 2.º do [Decreto Regulamentar n.º 47/2012](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/47-2012-179298), de 31 de julho.
+São revogados os n.os2, 3 e 4 do artigo 2.º do [Decreto Regulamentar n.º 47/2012](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/47-2012-179298), de 31 de julho.
 
 ###### Artigo 7.º — Entrada em vigor
 
@@ -328,15 +365,15 @@ O presente decreto regulamentar entra em vigor no primeiro dia do mês seguinte 
 
 Visto e aprovado em Conselho de Ministros de 28 de novembro de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro - Rosário Palma Ramalho.
 
-**Promulgado em 5 de fevereiro de 2026.**
+Promulgado em 5 de fevereiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de fevereiro de 2026.**
+Referendado em 6 de fevereiro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -344,7 +381,7 @@ Visto e aprovado em Conselho de Ministros de 28 de novembro de 2025. - Luís Mon
 
 (mapa a que se refere o artigo 10.º)
 
-| Cargo dirigente/qualificação do cargo | Número de lugares | Número de lugares |
+| Cargo dirigente/qualificação do cargo | Número de lugares |  |
 | --- | --- | --- |
 | Direção superior de 1.º grau |  |  |
 | Inspetor-geral | 1 |  |
@@ -359,3 +396,7 @@ Visto e aprovado em Conselho de Ministros de 28 de novembro de 2025. - Luís Mon
 | Cargos de direção intermédia de 4.º grau |  |  |
 | Coordenador de equipa | 4 |  |
 | Total | 55 | » |
+
+119947654
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { min-height:18px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl11 { text-align:center; margin-left:4px; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl13 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; }

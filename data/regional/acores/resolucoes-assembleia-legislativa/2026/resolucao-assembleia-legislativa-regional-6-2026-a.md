@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalraa/6/2026/02/23/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/6-2026-1057506187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-23T00:00:00Z'
+  retrieved_at: '2026-10-22T18:33:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2212867eea9dba0a6504ff7f8d2fc32e8f0e9f62c8050ef129adab283f43f6e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7db5f2b1f3c13a46e5afda3cc7eb835f2f092ccde69722a5dce705812a7fc7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:33:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Titulo de Transporte
-- Transporte Marítimo
-- Transporte Aéreo
-- Inconstitucionalidade
 - Açores
+- Inconstitucionalidade
 - Subsídio
-- Transporte de Passageiros
 - Subsídio Social de Mobilidade
+- Titulo de Transporte
+- Transporte Aéreo
+- Transporte de Passageiros
+- Transporte Marítimo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1-a/2026/01/06/p/dre
@@ -90,16 +90,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/138/2025/03/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/138/2025/03/28/p/dre
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:912256331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:912820667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:998824792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:998824794:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:33:03Z'
   warnings: []
   errors: []
 ---
@@ -108,11 +128,11 @@ validation:
 
 Pedido de declaração de inconstitucionalidade das alterações ao subsídio social de mobilidade
 
-A Assembleia Legislativa da Região Autónoma dos Açores resolve, nos termos regimentais aplicáveis e ao abrigo do disposto no n.º 3 do artigo 44.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, requerer ao Tribunal Constitucional, ao abrigo do disposto nas alíneas a) do n.º 1 e g) do n.º 2 do artigo 281.º da Constituição da República Portuguesa e do n.º 1 do artigo 51.º e n.º 1 do artigo 62.º da [Lei n.º 28/82](https://diariodarepublica.pt/dr/detalhe/lei/28-1982-377508), de 15 de novembro, a fiscalização abstrata e sucessiva da constitucionalidade das normas constantes dos n.<sup>os</sup>4 e 5 do artigo 3.º da [Portaria n.º 138/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/138-2025-912820667), de 28 de março, na redação conferida pela [Portaria n.º 12-B/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/12-b-2026-998824794), de 6 de janeiro, nos termos constantes do anexo à presente resolução.
+A Assembleia Legislativa da Região Autónoma dos Açores resolve, nos termos regimentais aplicáveis e ao abrigo do disposto no n.º 3 do artigo 44.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, requerer ao Tribunal Constitucional, ao abrigo do disposto nas alíneas a) do n.º 1 e g) do n.º 2 do artigo 281.º da Constituição da República Portuguesa e do n.º 1 do artigo 51.º e n.º 1 do artigo 62.º da [Lei n.º 28/82](https://diariodarepublica.pt/dr/detalhe/lei/28-1982-377508), de 15 de novembro, a fiscalização abstrata e sucessiva da constitucionalidade das normas constantes dos n.os4 e 5 do artigo 3.º da [Portaria n.º 138/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/138-2025-912820667), de 28 de março, na redação conferida pela [Portaria n.º 12-B/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/12-b-2026-998824794), de 6 de janeiro, nos termos constantes do anexo à presente resolução.
 
 Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 13 de janeiro de 2026.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
 ## ANEXO — (a que se refere o termo resolutivo)
 
@@ -124,7 +144,7 @@ Presidente do Tribunal Constitucional
 
 A Assembleia Legislativa da Região Autónoma dos Açores vem, nos termos da presente resolução e ao abrigo do disposto nas alíneas a) do n.º 1 e g) do n.º 2 do artigo 281.º da Constituição da República Portuguesa, requerer a
 
-Fiscalização abstrata e sucessiva da constitucionalidade das normas constantes dos n.<sup>os</sup>4 e 5 do artigo 3.º da [Portaria n.º 138/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/138-2025-912820667), de 28 de março, na redação conferida pela [Portaria n.º 12-B/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/12-b-2026-998824794), de 6 de janeiro, o que faz nos termos e com os fundamentos seguintes:
+Fiscalização abstrata e sucessiva da constitucionalidade das normas constantes dos n.os4 e 5 do artigo 3.º da [Portaria n.º 138/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/138-2025-912820667), de 28 de março, na redação conferida pela [Portaria n.º 12-B/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/12-b-2026-998824794), de 6 de janeiro, o que faz nos termos e com os fundamentos seguintes:
 
 I - Enquadramento
 
@@ -136,7 +156,7 @@ I - Enquadramento
 
 II - Alteração introduzida
 
-1 - A [Portaria n.º 12-B/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/12-b-2026-998824794), de 6 de janeiro, veio introduzir alterações significativas aos n.<sup>os</sup>4 e 5 do artigo 3.º da [Portaria n.º 138/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/138-2025-912820667), de 28 de março.
+1 - A [Portaria n.º 12-B/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/12-b-2026-998824794), de 6 de janeiro, veio introduzir alterações significativas aos n.os4 e 5 do artigo 3.º da [Portaria n.º 138/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/138-2025-912820667), de 28 de março.
 
 2 - Nos termos dessas novas disposições, o pagamento do SSM passou a depender da regularidade contributiva e fiscal dos beneficiários perante a Segurança Social e a Autoridade Tributária e Aduaneira, ficando expressamente vedado enquanto subsistirem dívidas a essas entidades.
 
@@ -176,4 +196,6 @@ VI - Excesso de poder regulamentar
 
 4 - Dada a relevância do SSM para a igualdade material entre cidadãos residentes no arquipélago e a alteração significativa do seu regime, justifica-se a fiscalização sucessiva abstrata das normas em causa.
 
-Nestes termos, e por todo o exposto, a Assembleia Legislativa da Região Autónoma dos Açores vem requerer ao Tribunal Constitucional, ao abrigo do disposto nas alíneas a) do n.º 1 e g) do n.º 2 do artigo 281.º da Constituição da República Portuguesa, que seja declarada a inconstitucionalidade, com força obrigatória geral, das normas constantes dos n.<sup>os</sup>4 e 5 do artigo 3.º da [Portaria n.º 138/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/138-2025-912820667), de 28 de março, na redação conferida pela [Portaria n.º 12-B/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/12-b-2026-998824794), de 6 de janeiro, por violação do disposto nos artigos 6.º, 13.º, 18.º, 112.º, 225.º, 228.º e 229.º da Constituição da República Portuguesa.
+Nestes termos, e por todo o exposto, a Assembleia Legislativa da Região Autónoma dos Açores vem requerer ao Tribunal Constitucional, ao abrigo do disposto nas alíneas a) do n.º 1 e g) do n.º 2 do artigo 281.º da Constituição da República Portuguesa, que seja declarada a inconstitucionalidade, com força obrigatória geral, das normas constantes dos n.os4 e 5 do artigo 3.º da [Portaria n.º 138/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/138-2025-912820667), de 28 de março, na redação conferida pela [Portaria n.º 12-B/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/12-b-2026-998824794), de 6 de janeiro, por violação do disposto nos artigos 6.º, 13.º, 18.º, 112.º, 225.º, 228.º e 229.º da Constituição da República Portuguesa.
+
+119947719

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1962/04/08500/04650466.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44279-1962-516264
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-02-16T00:00:00Z'
+  retrieved_at: '2026-10-22T19:28:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a18b6683882ea399801e97c9558bc4234f17a5cd85168ba2c9ac25ebcdf396a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85e2421fce58ea0f696cd5a52c93c41504f131767880b204348a4b052187ceb2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:28:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Marinha
+- Militar
+- Ministério da Marinha
 relationships:
 - type: amended_by
   target: pt:dre:679446:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:292276:por
+  label: "Dada nova redacção ao parágrafo único do artigo 1.º, pelo DEC.46434.13.07.1965.MMAR, DG.IS [154] de 13.07.1965\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/46434-1965-292276
+  date: '1965-07-13'
+- type: repealed_by
+  target: pt:dre:679446:por
+  label: "Revogado pelo DEC.10/80.16.02.1980.CR, DR.IS [40] de 16.02.1980\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/10-1980-679446
+  date: '1980-02-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:28:50Z'
   warnings: []
   errors: []
 ---
@@ -90,11 +105,11 @@ Considerando a conveniência de centralizar na Direcção do Serviço do Pessoal
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É criada na Direcção do Serviço do Pessoal a 7.ª Repartição (Selecção do Pessoal).
+Artigo 1.º É criada na Direcção do Serviço do Pessoal a 7.ª Repartição (Selecção do Pessoal).
 
 § único. A Repartição referida no corpo deste artigo é chefiada por um capitão-de-fragata da classe de marinha ou de saúde naval.
 
-###### Art. 2.º Compete à 7.ª Repartição da Direcção do Serviço do Pessoal:
+Art. 2.º Compete à 7.ª Repartição da Direcção do Serviço do Pessoal:
 
 a) Propor as normas que devem regular a inspecção médica para efeitos do alistamento do pessoal na Armada e da sua selecção pelas diversas classes e especialidades;
 
@@ -110,14 +125,14 @@ f) Organizar um sistema de informação através do qual os comandos, unidades e
 
 g) Organizar um arquivo de informações de carácter psicológico militar, pelo qual possa ter conhecimento ou acompanhar os índices de quebra de moral que se verifiquem no pessoal das classes ou especialidades para que essa observação seja aconselhada.
 
-###### Art. 3.º É mantido, a título temporário, o Gabinete de Estudos Psicofisiológicos e de Selecção do Pessoal da Armada integrado na Escola Naval, que no aspecto técnico passa a depender da 7.ª Repartição da Direcção do Serviço do Pessoal.
+Art. 3.º É mantido, a título temporário, o Gabinete de Estudos Psicofisiológicos e de Selecção do Pessoal da Armada integrado na Escola Naval, que no aspecto técnico passa a depender da 7.ª Repartição da Direcção do Serviço do Pessoal.
 
 § 1.º Quando for considerado oportuno, o Gabinete de Estudos a que se refere o corpo deste artigo será extinto por despacho do Ministro da Marinha.
 
 § 2.º O pessoal em serviço no Gabinete de Estudos poderá, cumulativamente, desempenhar funções na Repartição da Selecção do Pessoal.
 
-###### Art. 4.º As atribuições da 7.ª Repartição da Direcção do Serviço do Pessoal, referidas no artigo 2.º, e o disposto no § único do artigo 1.º deste diploma, poderão ser modificados por portaria do Ministro da Marinha.
+Art. 4.º As atribuições da 7.ª Repartição da Direcção do Serviço do Pessoal, referidas no artigo 2.º, e o disposto no § único do artigo 1.º deste diploma, poderão ser modificados por portaria do Ministro da Marinha.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Abril de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Fernando Quintanilha Mendonça Dias.

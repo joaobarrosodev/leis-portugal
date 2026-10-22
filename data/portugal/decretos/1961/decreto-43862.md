@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43862-1961-173158
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-08-16T00:00:00Z'
+  retrieved_at: '2026-10-22T19:25:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a05a542d08db4aae94dcb5d510fd6981dc5dadcbe3adc4b7279009f717b68c01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b155960a5ae3cdbc827fed76c4ab6a396f5565e7e1b892b97cb76bceb1190e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:25:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:172902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636687:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:25:07Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +114,11 @@ Espera-se, pois, que o espírito de cooperação de todos os que fiquem obrigado
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento do Imposto sobre Consumos Supérfluos ou de Luso, a que se refere o artigo 18.º do [Decreto-Lei n.º 43764](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43764-1961-172902), de 30 de Junho de 1961, que segue assinado pelo Ministro das Finanças e faz parte integrante do presente diploma, bem como a lista anexa dos produtos e serviços sujeitos ao mesmo imposto e respectivas observações.
+Artigo 1.º É aprovado o Regulamento do Imposto sobre Consumos Supérfluos ou de Luso, a que se refere o artigo 18.º do [Decreto-Lei n.º 43764](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43764-1961-172902), de 30 de Junho de 1961, que segue assinado pelo Ministro das Finanças e faz parte integrante do presente diploma, bem como a lista anexa dos produtos e serviços sujeitos ao mesmo imposto e respectivas observações.
 
-###### Art. 2.º Este decreto entra imediatamente em vigor.
+Art. 2.º Este decreto entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Agosto de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa.
 
@@ -110,17 +126,17 @@ REGULAMENTO DO IMPOSTO SOBRE CONSUMOS SUPÉRFLUOS OU DE LUXO
 
 ### CAPÍTULO I — Incidência e Taxa
 
-###### Artigo 1.º São sujeitas a imposto sobre consumos supérfluos ou de luxo as aquisições, no mercado retalhista, de produtos nacionais ou estrangeiros, ou a utilização de prestações de serviços, constantes da tabela anexa ao presente regulamento, o qual incide sobre o respectivo preço de venda ao público ou da prestação.
+Artigo 1.º São sujeitas a imposto sobre consumos supérfluos ou de luxo as aquisições, no mercado retalhista, de produtos nacionais ou estrangeiros, ou a utilização de prestações de serviços, constantes da tabela anexa ao presente regulamento, o qual incide sobre o respectivo preço de venda ao público ou da prestação.
 
 § único. Considera-se retalhista, para este efeito, todo o comerciante, produtor, importador ou armazenista em relação às vendas que, normal ou acidentalmente, faça directamente ao consumidor.
 
-###### Art. 2.º O preço de venda ao púbico, para efeito deste imposto, é o preço por que o produto seja oferecido ao público, e que será obrigatòriamente afixado nos produtos postos à venda, ilíquido de quaisquer descontos e sem abatimento do valor de coisas aceites pelo vendedor como forma total ou parcial de pagamento.
+Art. 2.º O preço de venda ao púbico, para efeito deste imposto, é o preço por que o produto seja oferecido ao público, e que será obrigatòriamente afixado nos produtos postos à venda, ilíquido de quaisquer descontos e sem abatimento do valor de coisas aceites pelo vendedor como forma total ou parcial de pagamento.
 
-###### Art. 3.º Considera-se como preço dos serviços compreendidos na tabela anexa a este regulamento toda a importância que o consumidor tenha de pagar pela utilização dos serviços prestados e pelo consumo de quaisquer produtos sujeitos ou não a imposto desta natureza, quando integrados no custo geral do serviço ou quando devam ser englobados, segundo o uso corrente, no custo total da prestação.
+Art. 3.º Considera-se como preço dos serviços compreendidos na tabela anexa a este regulamento toda a importância que o consumidor tenha de pagar pela utilização dos serviços prestados e pelo consumo de quaisquer produtos sujeitos ou não a imposto desta natureza, quando integrados no custo geral do serviço ou quando devam ser englobados, segundo o uso corrente, no custo total da prestação.
 
 § único. São excluídos do preceito do corpo deste artigo os produtos sujeitos ao imposto constante deste regulamento por outra verba da lista anexa, ou ao imposto sobre artigos de perfumaria e toucador, quando os tenham efectivamente pago e sejam debitados ao consumidor pelo preço exacto sobre que o imposto incidiu.
 
-###### Art. 4.º Para os efeitos da sujeição ao imposto a que se refere este regulamento, as vendas a prestações ou com espera de preço e os contratos de prestações de serviços são reportados à data da entrega da coisa ou da prestação, ou, quando estas sejam precedidas de pagamentos, embora parciais, à data em que se efectuar o primeiro pagamento.
+Art. 4.º Para os efeitos da sujeição ao imposto a que se refere este regulamento, as vendas a prestações ou com espera de preço e os contratos de prestações de serviços são reportados à data da entrega da coisa ou da prestação, ou, quando estas sejam precedidas de pagamentos, embora parciais, à data em que se efectuar o primeiro pagamento.
 
 § 1.º Nas vendas a prestações ou com espera de preço, o vendedor responde pelo pagamento do imposto desde a data a que se refere o corpo deste artigo, independentemente da efectividade ou escalonamento dos respectivos pagamentos.
 
@@ -128,29 +144,29 @@ REGULAMENTO DO IMPOSTO SOBRE CONSUMOS SUPÉRFLUOS OU DE LUXO
 
 § 3.º Nos serviços prestados em regime de avença o imposto incide sobre a importância efectivamente estabelecida, independentemente da realidade da prestação do serviço, e a obrigação da sua entrega ao Estado e facturação é reportada à data do pagamento da dívida em relação a cada período do respectivo contrato.
 
-###### Art. 5.º A troca de coisa que tenha sido comprada, e por que se tenha cobrado imposto ao comprador, por outra de igual natureza e de preço igual ou superior de venda ao público, quando acordada entre o comprador e o vendedor e realizada no mesmo estabelecimento, dentro de quinze dias posteriores à primeira aquisição, sujeita a imposto apenas pela diferença de preço o produto finalmente vendido, desde que a coisa aceite seja posta à venda pelo mesmo preço que inicialmente tinha.
+Art. 5.º A troca de coisa que tenha sido comprada, e por que se tenha cobrado imposto ao comprador, por outra de igual natureza e de preço igual ou superior de venda ao público, quando acordada entre o comprador e o vendedor e realizada no mesmo estabelecimento, dentro de quinze dias posteriores à primeira aquisição, sujeita a imposto apenas pela diferença de preço o produto finalmente vendido, desde que a coisa aceite seja posta à venda pelo mesmo preço que inicialmente tinha.
 
 § único. A devolução de produtos vendidos, aceite pelo vendedor, embora com restituição total ou parcial do preço da venda, mas sem aquisição, pelo comprador, de outro produto de igual natureza e de preço igual ou superior, não dá lugar à anulação do direito ao imposto em relação ao preço por que o primeiro produto fora posto à venda.
 
-###### Art. 6.º A taxa deste imposto é de 15 por cento.
+Art. 6.º A taxa deste imposto é de 15 por cento.
 
 ### CAPÍTULO II — Isenções
 
-###### Art. 7.º São isentas as aquisições de produtos abrangidos por este diploma quando os mesmos se destinem a constituir o equipamento de estabelecimentos industriais ou comerciais, sejam instrumentos de trabalho profissional ou constituam fornecimento de serviços públicos.
+Art. 7.º São isentas as aquisições de produtos abrangidos por este diploma quando os mesmos se destinem a constituir o equipamento de estabelecimentos industriais ou comerciais, sejam instrumentos de trabalho profissional ou constituam fornecimento de serviços públicos.
 
-###### Art. 8.º Consideram-se aquisições para equipamento de estabelecimentos industriais ou comerciais não ùnicamente os respeitantes a máquinas e utensílios necessários à sua eficiente laboração e os relativos a partes integrantes indispensáveis à respectiva montagem ou funcionamento, mas também as destinadas a satisfazer directa e imediatamente os requisitos de ordem social, higiénica e sanitária nos locais de trabalho.
+Art. 8.º Consideram-se aquisições para equipamento de estabelecimentos industriais ou comerciais não ùnicamente os respeitantes a máquinas e utensílios necessários à sua eficiente laboração e os relativos a partes integrantes indispensáveis à respectiva montagem ou funcionamento, mas também as destinadas a satisfazer directa e imediatamente os requisitos de ordem social, higiénica e sanitária nos locais de trabalho.
 
-###### Art. 9.º Consideram-se instrumentos de trabalho profissional, para efeitos deste imposto, exclusivamente os objectos indispensáveis ao exercício de profissões remuneradas ou à realização de estudos ou investigação científica quando, nestes dois casos, os trabalhos sejam dirigidos ou verificados por estabelecimento público adequado.
+Art. 9.º Consideram-se instrumentos de trabalho profissional, para efeitos deste imposto, exclusivamente os objectos indispensáveis ao exercício de profissões remuneradas ou à realização de estudos ou investigação científica quando, nestes dois casos, os trabalhos sejam dirigidos ou verificados por estabelecimento público adequado.
 
-###### Art. 10.º Consideram-se fornecimentos de serviços públicos ùnicamente os efectuados a estabelecimentos, serviços ou organismos do Estado, autarquias locais, hospitais e misericórdias.
+Art. 10.º Consideram-se fornecimentos de serviços públicos ùnicamente os efectuados a estabelecimentos, serviços ou organismos do Estado, autarquias locais, hospitais e misericórdias.
 
-###### Art. 11.º São igualmente isentas deste imposto as aquisições de produtos não incluídos nas prestações de serviços, quando realizadas por estrangeiros não residentes, desde que se verifique qualquer dos seguintes requisitos:
+Art. 11.º São igualmente isentas deste imposto as aquisições de produtos não incluídos nas prestações de serviços, quando realizadas por estrangeiros não residentes, desde que se verifique qualquer dos seguintes requisitos:
 
 a) Sejam liquidadas em traveller's cheques dos próprios, mediante a apresentação do respectivo passaporte;
 
 b) As entregas dos objectos sejam feitas aos respectivos adquirentes nas estâncias aduaneiras das estações marítimas ou dos aeroportos internacionais no acto da sua saída do País.
 
-###### Art. 12.º As compras de produtos por entidades isentas, nos termos dos artigos 7.º a 10.º deste regulamento, devem ser documentadas pelo adquirente, o qual responderá pelas infracções correspondentes, quando, no período normal de utilização dos produtos, lhes dê um destino diferente daquele para que tenham sido adquiridos.
+Art. 12.º As compras de produtos por entidades isentas, nos termos dos artigos 7.º a 10.º deste regulamento, devem ser documentadas pelo adquirente, o qual responderá pelas infracções correspondentes, quando, no período normal de utilização dos produtos, lhes dê um destino diferente daquele para que tenham sido adquiridos.
 
 § único. O adquirente deverá assinar uma declaração onde indique o fim para que adquire o produto e se comprometa a não lhe dar destino diferente no prazo de três anos. Nos casos previstos na parte final do artigo 9.º e no artigo 10.º, a requisição deverá ser subscrita ou visada pelo chefe do respectivo serviço e devidamente autenticada.
 
@@ -158,29 +174,29 @@ b) As entregas dos objectos sejam feitas aos respectivos adquirentes nas estânc
 
 #### SECÇÃO I — Disposições comuns
 
-###### Art. 13.º Nas liquidações deste imposto, as fracções de escudos serão sempre arredondadas para a unidade imediatamente superior.
+Art. 13.º Nas liquidações deste imposto, as fracções de escudos serão sempre arredondadas para a unidade imediatamente superior.
 
-###### Art. 14.º O imposto será cobrado dos consumidores pelos respectivos vendedores de produtos ou prestadores de serviços, que por ele respondem para com o Estado.
+Art. 14.º O imposto será cobrado dos consumidores pelos respectivos vendedores de produtos ou prestadores de serviços, que por ele respondem para com o Estado.
 
-###### Art. 15.º Para a cobrança do imposto em relação à compra de produtos a ele sujeitos é facultada aos respectivos vendedores a opção por uma de duas modalidades:
+Art. 15.º Para a cobrança do imposto em relação à compra de produtos a ele sujeitos é facultada aos respectivos vendedores a opção por uma de duas modalidades:
 
 a) A modalidade A, que só é admitida nas aquisições de produtos de preço não superior a 1000$00, consiste na sujeição dos produtos ao regime de pagamento do imposto sobre artigos de perfumaria e toucador, estabelecido no [Decreto-Lei n.º 36607](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36607-1947-636687), de 24 de Novembro de 1947, com as alterações constantes do presente diploma;
 
 b) Pela modalidade B os vendedores deverão entregar o imposto nos cofres do Estado, por meio de guia, posteriormente à venda dos produtos, nos termos e com as obrigações constantes do presente regulamento, ou as que forem estabelecidas por acordo especial entre o contribuinte e a administração fiscal.
 
-###### Art. 16.º Os importadores, fabricantes, distribuidores ou armazenistas de produtos abrangidos por este imposto deverão participar essa qualidade à direcção de finanças do respectivo distrito, a fim de serem registados em livro competente.
+Art. 16.º Os importadores, fabricantes, distribuidores ou armazenistas de produtos abrangidos por este imposto deverão participar essa qualidade à direcção de finanças do respectivo distrito, a fim de serem registados em livro competente.
 
 § único. O prazo para o cumprimento do preceituado neste artigo é de 30 dias, a contar, para as empresas existentes, da entrada em vigor deste regulamento e, para as empresas que de futuro se constituírem ou que venham a dedicar-se a actividades sujeitas a este imposto, do começo do respectivo exercício.
 
-###### Art. 17.º As empresas a que se refere o artigo antecedente deverão apresentar trimestralmente na direcção de finanças do distrito onde esteja situado o estabelecimento, para fins de fiscalização deste imposto, uma declaração das transacções para revenda efectuadas no trimestre anterior em relação aos produtos sujeitos a imposto, com discriminada indicação dos destinatários, quantidades, espécies, preço, datas de entrega e número ou identificação da factura. Os produtos devolvidos deverão figurar em relação anexa, com anotação do facto na respectiva relação de fornecimento.
+Art. 17.º As empresas a que se refere o artigo antecedente deverão apresentar trimestralmente na direcção de finanças do distrito onde esteja situado o estabelecimento, para fins de fiscalização deste imposto, uma declaração das transacções para revenda efectuadas no trimestre anterior em relação aos produtos sujeitos a imposto, com discriminada indicação dos destinatários, quantidades, espécies, preço, datas de entrega e número ou identificação da factura. Os produtos devolvidos deverão figurar em relação anexa, com anotação do facto na respectiva relação de fornecimento.
 
 § único. A declaração a que se refere o corpo deste artigo poderá ser simplificada desde que seja acompanhada do duplicado de cada uma das respectivas facturas donde constem os elementos exigidos neste artigo.
 
-###### Art. 18.º Os estabelecimentos ou empresas que habitual ou acidentalmente vendam ao público qualquer dos produtos ou prestem serviços abrangidos por este diploma deverão participar essa qualidade ou ocorrência na secção de finanças do concelho ou bairro da situação do estabelecimento, nos termos e prazos estabelecidos no artigo 16.º, § único, e declarar no primeiro caso qual a modalidade ou modalidades que pretendem adoptar em relação à cobrança e entrega do imposto respeitante aos produtos que se proponham vender. Na falta de opção, a empresa fica sujeita ao regime da modalidade B quanto a todos os produtos.
+Art. 18.º Os estabelecimentos ou empresas que habitual ou acidentalmente vendam ao público qualquer dos produtos ou prestem serviços abrangidos por este diploma deverão participar essa qualidade ou ocorrência na secção de finanças do concelho ou bairro da situação do estabelecimento, nos termos e prazos estabelecidos no artigo 16.º, § único, e declarar no primeiro caso qual a modalidade ou modalidades que pretendem adoptar em relação à cobrança e entrega do imposto respeitante aos produtos que se proponham vender. Na falta de opção, a empresa fica sujeita ao regime da modalidade B quanto a todos os produtos.
 
 § único. A opção por uma das modalidades de cobrança e pagamento do imposto só poderá ser efectuada em Dezembro de cada ano em relação a todo o decurso do ano seguinte.
 
-###### Art. 19.º Para efeitos da isenção a que se refere o artigo 11.º do presente regulamento, observar-se-á o seguinte quanto às aquisições realizadas por estrangeiros não residentes e liquidadas em traveller's cheques:
+Art. 19.º Para efeitos da isenção a que se refere o artigo 11.º do presente regulamento, observar-se-á o seguinte quanto às aquisições realizadas por estrangeiros não residentes e liquidadas em traveller's cheques:
 
 a) Os estabelecimentos vendedores registarão em livro próprio a data da operação, o valor em escudos desta, o número e data do passaporte e o nome e domicílio habitual do respectivo titular adquirente, os números e as importâncias dos traveller's cheques recebidos e sua equivalência em escudos, e ainda a denominação do banco sacado;
 
@@ -192,7 +208,7 @@ c) Quando a equivalência em escudos dos traveller's cheques recebidos for super
 
 #### SECÇÃO II — Da cobrança segundo a modalidade A
 
-###### Art. 20.º A modalidade A de cobrança e pagamento deste imposto regula-se pelos preceitos relativos ao imposto sobre artigos de perfumaria e toucador estabelecidos no [Decreto-Lei n.º 36607](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36607-1947-636687), de 24 de Novembro de 1947, com as seguintes modificações:
+Art. 20.º A modalidade A de cobrança e pagamento deste imposto regula-se pelos preceitos relativos ao imposto sobre artigos de perfumaria e toucador estabelecidos no [Decreto-Lei n.º 36607](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36607-1947-636687), de 24 de Novembro de 1947, com as seguintes modificações:
 
 a) Independentemente dos preceitos contidos nos artigos 16.º a 18.º do presente Regulamento, as obrigações estabelecidas naquele diploma para os fabricantes ou importadores caberão apenas aos estabelecimentos ou empresas que efectuarem a venda ao público e logo que para tal fim adquiram os produtos ou estes venham à sua posse;
 
@@ -224,7 +240,7 @@ De mais de 900$00 até 1000$00 - violeta.
 
 #### SECÇÃO III — Da cobrança segundo a modalidade B
 
-###### Art. 21.º As empresas ou estabelecimentos que optarem pela modalidade B deverão, em relação aos respectivos produtos sujeitos a imposto:
+Art. 21.º As empresas ou estabelecimentos que optarem pela modalidade B deverão, em relação aos respectivos produtos sujeitos a imposto:
 
 a) Escriturar em livro próprio todos os actos de aquisição, com indicação discriminada da sua proveniência, quantidade, espécie e indicação do número da factura. A escrituração deste livro poderá ser simplificada desde que nele se faça referência à factura de aquisição, a qual deve ficar guardada em arquivo próprio e referenciada com o número de ordem que lhe couber naquele livro;
 
@@ -242,9 +258,9 @@ g) Discriminar nos preços de venda ao público dos artigos expostos a parcela c
 
 h) Afixar no estabelecimento, em lugar bem visível para o público, uma lista dos produtos à venda sujeitos ao presente imposto visada pelos serviços de informações fiscais ou de fiscalização.
 
-###### Art. 22.º Os prestadores de serviços sujeitos a este imposto ficam obrigados ao estabelecido no artigo anterior, na parte aplicável, com obrigação de discriminarem em todos os elementos documentativos a importância relativa aos serviços e a correspondente aos produtos a respeito dos quais não seja cobrado o imposto por já o terem pago em conformidade com o artigo 3.º, § único, com indicação do preço por que foi debitado cada um destes produtos.
+Art. 22.º Os prestadores de serviços sujeitos a este imposto ficam obrigados ao estabelecido no artigo anterior, na parte aplicável, com obrigação de discriminarem em todos os elementos documentativos a importância relativa aos serviços e a correspondente aos produtos a respeito dos quais não seja cobrado o imposto por já o terem pago em conformidade com o artigo 3.º, § único, com indicação do preço por que foi debitado cada um destes produtos.
 
-###### Art. 23.º A qualquer das empresas ou estabelecimentos sujeitos à. cobrança deste imposto que não possam, sem grande dificuldade, cumprir alguns dos preceitos do artigo 21.º poderá ser concedida a requerimento dos interessados ou imposta por despacho ministerial, a substituição de algumas daquelas obrigações pelo cumprimento de outras formalidades estabelecidas por acordo entre a Direcção-Geral das Contribuições e Impostos e cada uma das empresas ou o respectivo organismo corporativo de que resulte idêntica segurança quanto à efectiva cobrança do imposto e sua regular entrega nos cofres do Estado.
+Art. 23.º A qualquer das empresas ou estabelecimentos sujeitos à. cobrança deste imposto que não possam, sem grande dificuldade, cumprir alguns dos preceitos do artigo 21.º poderá ser concedida a requerimento dos interessados ou imposta por despacho ministerial, a substituição de algumas daquelas obrigações pelo cumprimento de outras formalidades estabelecidas por acordo entre a Direcção-Geral das Contribuições e Impostos e cada uma das empresas ou o respectivo organismo corporativo de que resulte idêntica segurança quanto à efectiva cobrança do imposto e sua regular entrega nos cofres do Estado.
 
 § 1.º A falta de cumprimento de alguma das formalidades individual ou colectivamente estabelecidas nos termos deste artigo implica, para o infractor, além da sujeição às sanções legais, a perda, de pleno direito, do benefício da concessão desse regime de formalidades simplificadas e o regresso ao regime total do artigo 21.º e à sujeição a todas as consequentes obrigações.
 
@@ -252,11 +268,11 @@ h) Afixar no estabelecimento, em lugar bem visível para o público, uma lista d
 
 ### CAPÍTULO IV — Da qualificação
 
-###### Art. 24.º As observações à lista dos consumos de produtos e serviços sujeitos a este imposto anexa ao presente regulamento valem como interpretação autêntica das respectivas rubricas.
+Art. 24.º As observações à lista dos consumos de produtos e serviços sujeitos a este imposto anexa ao presente regulamento valem como interpretação autêntica das respectivas rubricas.
 
 § único. O Ministro das Finanças poderá também emitir instruções, por portaria publicada no Diário do Governo, para execução e interpretação deste regulamento.
 
-###### Art. 25.º As dúvidas devidamente fundamentadas sobre a qualificação de produtos ou de serviços para efeitos deste imposto e a sua correspondência com os termos da lista anexa serão resolvidas, em cada concelho ou bairro, por uma comissão constituída pelo secretário de finanças ou seu substituto em exercício, que presidirão, por um vogal nomeado pelo director de finanças e por um representante da entidade responsável pela cobrança e pagamento do imposto.
+Art. 25.º As dúvidas devidamente fundamentadas sobre a qualificação de produtos ou de serviços para efeitos deste imposto e a sua correspondência com os termos da lista anexa serão resolvidas, em cada concelho ou bairro, por uma comissão constituída pelo secretário de finanças ou seu substituto em exercício, que presidirão, por um vogal nomeado pelo director de finanças e por um representante da entidade responsável pela cobrança e pagamento do imposto.
 
 § 1.º As deliberações das comissões locais de qualificação deverão ser devidamente fundamentadas e ficam sujeitas a revisão obrigatória por uma comissão funcionando na Direcção-Geral das Contribuições e Impostos e constituída pelo director-geral ou um seu delegado, e por eles presidida, pelo chefe de repartição a que estiver cometido o serviço de impostos sobre o consumo e por um representante da classe, nomeado pela respectiva união de grémios ou outro organismo corporativo ou oficial que superintenda na actividade.
 
@@ -266,45 +282,45 @@ h) Afixar no estabelecimento, em lugar bem visível para o público, uma lista d
 
 § 4.º As deliberações das comissões de qualificação serão tomadas por maioria de votos, tendo o presidente voto de qualidade na falta de um dos vogais.
 
-###### Art. 26.º As qualificações efectuadas pelas comissões locais produzem efeitos logo que sejam proferidas e notificadas ao interessado e enquanto não forem alteradas pela comissão de revisão. A deliberação desta, seja ou não confirmativa, não afecta os casos ocorridos anteriormente a ela que tenham sido efectuados em harmonia com o critério e decisão da comissão local.
+Art. 26.º As qualificações efectuadas pelas comissões locais produzem efeitos logo que sejam proferidas e notificadas ao interessado e enquanto não forem alteradas pela comissão de revisão. A deliberação desta, seja ou não confirmativa, não afecta os casos ocorridos anteriormente a ela que tenham sido efectuados em harmonia com o critério e decisão da comissão local.
 
-###### Art. 27.º Das deliberações de qualquer das comissões a que se referem os artigos anteriores cabe recurso contencioso, ùnicamente com fundamento na preterição 'de formalidades legais que sejam indispensáveis para a respectiva decisão.
+Art. 27.º Das deliberações de qualquer das comissões a que se referem os artigos anteriores cabe recurso contencioso, ùnicamente com fundamento na preterição 'de formalidades legais que sejam indispensáveis para a respectiva decisão.
 
 ### CAPÍTULO V — Prevenção e repressão
 
-###### Art. 28.º A verificação do cumprimento das obrigações deste Regulamento pertence a todos os funcionários da Direcção-Geral das Contribuições e Impostos em relação aos factos de que tenham conhecimento ou que constituam o objecto directo ou dependente do exercício da respectiva função.
+Art. 28.º A verificação do cumprimento das obrigações deste Regulamento pertence a todos os funcionários da Direcção-Geral das Contribuições e Impostos em relação aos factos de que tenham conhecimento ou que constituam o objecto directo ou dependente do exercício da respectiva função.
 
 A prevenção e repressão das infracções e a acção geral de fiscalização só poderão ser exercidas por funcionários de tal incumbidos especialmente ou pertencentes a um quadro privativo da mesma Direcção-Geral.
 
-###### Art. 29.º O funcionário que chefiar o acto de fiscalização do cumprimento das obrigações legais ou a acção geral preventivo-repressiva deverá entregar sempre ao responsável, e mediante recibo deste, uma nota discriminativa da situação que encontrar, das recomendações efectuadas e dos actos de repressão ou de prevenção especial que tiver de efectuar. O duplicado desta nota será remetido à Direcção-Geral, para efeitos de registo do comportamento fiscal dos interessados, devendo uma cópia ficar em poder do funcionário para futura reverificação.
+Art. 29.º O funcionário que chefiar o acto de fiscalização do cumprimento das obrigações legais ou a acção geral preventivo-repressiva deverá entregar sempre ao responsável, e mediante recibo deste, uma nota discriminativa da situação que encontrar, das recomendações efectuadas e dos actos de repressão ou de prevenção especial que tiver de efectuar. O duplicado desta nota será remetido à Direcção-Geral, para efeitos de registo do comportamento fiscal dos interessados, devendo uma cópia ficar em poder do funcionário para futura reverificação.
 
 § único. Os livros que houverem de servir ao registo das importâncias arrecadadas serão rubricados pelo funcionário a que se refere o corpo deste artigo no momento da visita, se já o não tiverem sido, lavrando-se também a competente nota desta ocorrência.
 
-###### Art. 30.º Todos os livros, duplicados das facturas, notas e registos a que se refere o presente regulamento deverão ser conservados pelos responsáveis durante o período de cinco anos e prontamente exibidos ou facultados à fiscalização a que se refere o artigo anterior.
+Art. 30.º Todos os livros, duplicados das facturas, notas e registos a que se refere o presente regulamento deverão ser conservados pelos responsáveis durante o período de cinco anos e prontamente exibidos ou facultados à fiscalização a que se refere o artigo anterior.
 
-###### Art. 31.º As infracções ao disposto no presente regulamento, quando os responsáveis pelo imposto tenham optado pela modalidade A do seu pagamento são punidas com as sanções estabelecidas no [Decreto-Lei n.º 36607](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36607-1947-636687), de 24 de Novembro de 1947.
+Art. 31.º As infracções ao disposto no presente regulamento, quando os responsáveis pelo imposto tenham optado pela modalidade A do seu pagamento são punidas com as sanções estabelecidas no [Decreto-Lei n.º 36607](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36607-1947-636687), de 24 de Novembro de 1947.
 
-###### Art. 32.º A falta não qualificada de pagamento do imposto, quando o responsável tenha optado pela modalidade B, é punida com as sanções estabelecidas nos artigos 236.º e 237.º do Regulamento do Imposto do Selo.
+Art. 32.º A falta não qualificada de pagamento do imposto, quando o responsável tenha optado pela modalidade B, é punida com as sanções estabelecidas nos artigos 236.º e 237.º do Regulamento do Imposto do Selo.
 
-###### Art. 33.º As infracções aos preceitos dos artigos 16.º, 17.º, 18.º, 21.º, alíneas a), b), c), d), f) e g), do presente regulamento são punidas com a multa de 100$00 a 20000$00, quando outra maior não couber nos termos do artigo anterior e, quando a infracção for cometida com dolo, a responsabilidade será agravada entre os limites aqui estabelecidos, mas elevados ao triplo pela primeira infracção e ao quintuplo pelas seguintes.
+Art. 33.º As infracções aos preceitos dos artigos 16.º, 17.º, 18.º, 21.º, alíneas a), b), c), d), f) e g), do presente regulamento são punidas com a multa de 100$00 a 20000$00, quando outra maior não couber nos termos do artigo anterior e, quando a infracção for cometida com dolo, a responsabilidade será agravada entre os limites aqui estabelecidos, mas elevados ao triplo pela primeira infracção e ao quintuplo pelas seguintes.
 
 Ari. 34.º O não cumprimento total ou parcial por mera negligência do preceito do artigo 21.º, alínea e), é punido com a. multa igual ao dobro do quantitativo em falta, acrescendo a esta multa a responsabilidade estabelecida no artigo 453.º do Código Penal, quando a omissão for cometida dolosamente.
 
-###### Art. 35.º As infracções ao preceito do artigo 30.º são puníveis com as penas do artigo 245.º do Regulamento do Imposto do Selo.
+Art. 35.º As infracções ao preceito do artigo 30.º são puníveis com as penas do artigo 245.º do Regulamento do Imposto do Selo.
 
-###### Art. 36.º A falta de correspondência, na nota a que se refere o artigo 21.º, alínea b), entre o número ou quantidades e espécies dos produtos recebidos e o daqueles por que se pagou imposto ou que se encontrem à venda, em depósito ou tenham sido objecto de devolução, isenção, troca ou destruição documentada é considerada como presunção de falta de pagamento de imposto pelo valor correspondente.
+Art. 36.º A falta de correspondência, na nota a que se refere o artigo 21.º, alínea b), entre o número ou quantidades e espécies dos produtos recebidos e o daqueles por que se pagou imposto ou que se encontrem à venda, em depósito ou tenham sido objecto de devolução, isenção, troca ou destruição documentada é considerada como presunção de falta de pagamento de imposto pelo valor correspondente.
 
 § único. É facultado aos responsáveis o pagamento voluntário do imposto sem multa quando antes de qualquer autuação verifiquem a falta de exactidão a que se refere o corpo deste artigo.
 
-###### Art. 37.º As infracções aos preceitos dos artigos 11.º e 19.º deste regulamento são puníveis nos termos dos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959.
+Art. 37.º As infracções aos preceitos dos artigos 11.º e 19.º deste regulamento são puníveis nos termos dos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959.
 
-###### Art. 38.º As condenações por infracção aos preceitos deste diploma, quando de carácter doloso, e sempre que a multa seja igual ou superior a 5000$00, serão publicadas, por extracto, em dois jornais de maior circulação da localidade ou de maior expansão local, à custa do infractor, devendo as respectivas despesas entrar em regra de custas no respectivo processo.
+Art. 38.º As condenações por infracção aos preceitos deste diploma, quando de carácter doloso, e sempre que a multa seja igual ou superior a 5000$00, serão publicadas, por extracto, em dois jornais de maior circulação da localidade ou de maior expansão local, à custa do infractor, devendo as respectivas despesas entrar em regra de custas no respectivo processo.
 
 § único. Quando não houver condenação, por o infractor pagar voluntàriamente a multa antes de julgamento, a Direcção-Geral das Contribuições e Impostos poderá dar publicidade à infracção sempre que se verifique que a forma como foi cometida é manifesta e gravemente reprovável.
 
 ### CAPÍTULO VI — Disposições transitórias
 
-###### Art. 39.º Durante o prazo de um ano, a contar da publicação do presente regulamento, e em relação às empresas ou estabelecimentos que não possam adaptar o seu sistema de vendas, de prestação de serviços ou de contabilidade às exigências legais estabelecidas no presente diploma quanto à liquidação e cobrança poderá o Ministro das Finanças autorizar que o imposto seja pago por meio de estampilhas fiscais apostas nas facturas ou notas e nos respectivos duplicados.
+Art. 39.º Durante o prazo de um ano, a contar da publicação do presente regulamento, e em relação às empresas ou estabelecimentos que não possam adaptar o seu sistema de vendas, de prestação de serviços ou de contabilidade às exigências legais estabelecidas no presente diploma quanto à liquidação e cobrança poderá o Ministro das Finanças autorizar que o imposto seja pago por meio de estampilhas fiscais apostas nas facturas ou notas e nos respectivos duplicados.
 
 § 1.º Nos casos previstos no corpo deste artigo, as estampilhas relativas ao pagamento do imposto deverão ser coladas por forma que a metade inferior acompanhe a factura entregue ao cliente e a metade superior se conserve afixada ou anexa ao duplicado, depois de cortadas a meio. As duas metades deverão, porém, ser datadas e inutilizadas por qualquer dos processos legais, incluindo o carimbo ou datador.
 
@@ -312,19 +328,19 @@ Ari. 34.º O não cumprimento total ou parcial por mera negligência do preceito
 
 § 3.º A violação de qualquer dos preceitos sobre esta forma de pagamento, além da responsabilidade correspondente às respectivas infracções, obriga a empresa ou firma ao cumprimento de todas as obrigações legais respeitantes às formas normais de liquidação e cobrança do imposto.
 
-###### Art. 40.º As infracções cometidas nos primeiros seis meses da aplicação do [Decreto-Lei n.º 43764](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43764-1961-172902), de 30 de Junho de 1961, ou do presente regulamento poderão ser relevadas pelo director-geral das Contribuições e Impostos quando se verifique que o responsável agiu por desconhecimento desculpável das obrigações legais, sem dolo, ou por omissão que não deva ser considerada como falta grave.
+Art. 40.º As infracções cometidas nos primeiros seis meses da aplicação do [Decreto-Lei n.º 43764](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43764-1961-172902), de 30 de Junho de 1961, ou do presente regulamento poderão ser relevadas pelo director-geral das Contribuições e Impostos quando se verifique que o responsável agiu por desconhecimento desculpável das obrigações legais, sem dolo, ou por omissão que não deva ser considerada como falta grave.
 
 § único. O uso desta faculdade é condicionado ao pagamento pelo infractor, por meio de guia, do imposto correspondente aos actos em falta.
 
-###### Art. 41.º Os contratos de prestação de serviços compreendidos na verba n.º 40 da lista anexa celebrados anteriormente a 1 de Julho de 1961 e por um período não excedente a 30 dias não estão sujeitos ao imposto a que se refere o presente regulamento quando o prestador comprove por documento idóneo que o consumidor contratou com base num preço certo por unidade de serviço ou pelo serviço global e este não foi aumentado por motivo algum, em relação ao serviço efectivamente acordado.
+Art. 41.º Os contratos de prestação de serviços compreendidos na verba n.º 40 da lista anexa celebrados anteriormente a 1 de Julho de 1961 e por um período não excedente a 30 dias não estão sujeitos ao imposto a que se refere o presente regulamento quando o prestador comprove por documento idóneo que o consumidor contratou com base num preço certo por unidade de serviço ou pelo serviço global e este não foi aumentado por motivo algum, em relação ao serviço efectivamente acordado.
 
 § 1.º O Ministro das Finanças, em casos inteiramente justificados e a requerimento dos interessados, poderá conceder a aplicação do regime do corpo deste artigo por um período superior a 30 dias.
 
 § 2.º Não se compreendem no disposto no corpo deste artigo os consumos feitos pelo mesmo contratante que não façam parte do objecto do contrato.
 
-###### Art. 42.º Não se consideram também abrangidas pelas disposições do presente regulamento as aquisições de artigos constantes da lista anexa efectuadas a pronto pagamento, a prestações ou com espera de preço, embora a entrega dos artigos ao adquirente e o seu pagamento total ou parcial se tenha verificado posteriormente a 30 de Junho de 1961, desde que o respectivo contrato de venda se tivesse firmado até àquela data e o vendedor o comprove por documento idóneo.
+Art. 42.º Não se consideram também abrangidas pelas disposições do presente regulamento as aquisições de artigos constantes da lista anexa efectuadas a pronto pagamento, a prestações ou com espera de preço, embora a entrega dos artigos ao adquirente e o seu pagamento total ou parcial se tenha verificado posteriormente a 30 de Junho de 1961, desde que o respectivo contrato de venda se tivesse firmado até àquela data e o vendedor o comprove por documento idóneo.
 
-###### Art. 43.º O julgamento da idoneidade do documento a que se referem os artigos 41.º e 42.º é da competência dos órgãos de qualificação previstos no artigo 25.º do presente regulamento, produzindo efeitos a respectiva deliberação, mesmo relativamente aos contratos executados anteriormente, quanto à responsabilidade pelo imposto por parte do prestador do serviço ou vendedor ou quanto à sua restituição, que só se efectuará nos casos em que o consumidor seja conhecido e possa receber o imposto pago.
+Art. 43.º O julgamento da idoneidade do documento a que se referem os artigos 41.º e 42.º é da competência dos órgãos de qualificação previstos no artigo 25.º do presente regulamento, produzindo efeitos a respectiva deliberação, mesmo relativamente aos contratos executados anteriormente, quanto à responsabilidade pelo imposto por parte do prestador do serviço ou vendedor ou quanto à sua restituição, que só se efectuará nos casos em que o consumidor seja conhecido e possa receber o imposto pago.
 
 Ministério das Finanças, 16 de Agosto de 1961. - O Ministro das Finanças, António Manuel Pinto Barbosa.
 
@@ -476,6 +492,6 @@ c) Nos institutos de beleza ou estabelecimentos análogos: os trabalhos de cabel
 
 Ministério das Finanças, 16 de Agosto de 1961. - O Ministro das Finanças, António Manuel Pinto Barbosa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/08/18900/10131019.pdf))](https://files.diariodarepublica.pt/1s/1961/08/18900/10131019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/08/18900/10131019.pdf)
 
 Ministério das Finanças, 16 de Agosto de 1961. - O Ministro das Finanças, António Manuel Pinto Barbosa.

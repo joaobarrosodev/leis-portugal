@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43637-1961-169924
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-05-02T00:00:00Z'
+  retrieved_at: '2026-10-22T19:23:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9db16a79009402dee85ec6093bb52ed7c1300828710bd59059590f9ffb0160d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ef28f17cbac61ec86891648ff71d184528fa260db80d2034f370fb97dab0b2b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:23:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:23:23Z'
   warnings: []
   errors: []
 ---
@@ -89,13 +89,13 @@ Por motivo de urgência;
 
 Usando da faculdade conferida pelo n.º 3.º e seu § 1.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São criados nas províncias ultramarinas os serviços de inspecção do trabalho, aos quais incumbirá, de um modo geral, assegurar a execução das normas da prestação do trabalho e sua remuneração, desenvolvendo uma acção educativa e orientadora junto das empresas, incluindo as que sejam concessionárias ou arrendatárias de serviços públicos, e dos trabalhadores, e uma acção repressiva, com o fim de promoverem a punição das infracções cometidas.
+Artigo 1.º São criados nas províncias ultramarinas os serviços de inspecção do trabalho, aos quais incumbirá, de um modo geral, assegurar a execução das normas da prestação do trabalho e sua remuneração, desenvolvendo uma acção educativa e orientadora junto das empresas, incluindo as que sejam concessionárias ou arrendatárias de serviços públicos, e dos trabalhadores, e uma acção repressiva, com o fim de promoverem a punição das infracções cometidas.
 
-###### Art. 2.º Os serviços de inspecção do trabalho de que trata o artigo anterior ficam directamente subordinados aos governadores-gerais ou de província, por intermédio de inspectores de trabalho privativos, e funcionarão, na província de S. Tomé e Príncipe, junto da Repartição do Trabalho e Previdência, e nas restantes províncias junto dos serviços de administração civil, de quem dependerão apenas para efeitos administrativos de ordem interna.
+Art. 2.º Os serviços de inspecção do trabalho de que trata o artigo anterior ficam directamente subordinados aos governadores-gerais ou de província, por intermédio de inspectores de trabalho privativos, e funcionarão, na província de S. Tomé e Príncipe, junto da Repartição do Trabalho e Previdência, e nas restantes províncias junto dos serviços de administração civil, de quem dependerão apenas para efeitos administrativos de ordem interna.
 
 § único. Sempre que um inspector superior de administração ultramarina se encontre em serviço de inspecção em qualquer província, os inspectores de trabalho colocar-se-ão à sua disposição para o efeito de colaborarem nas inspecções que tiverem de ser realizadas aos locais de trabalho.
 
-###### Art. 3.º São atribuições dos serviços de inspecção do trabalho:
+Art. 3.º São atribuições dos serviços de inspecção do trabalho:
 
 1.º Velar pela observância das leis, regulamentos, determinações do Governo, convenções colectivas de trabalho, contratos de trabalho e, em geral, de quaisquer normas relativas a:
 
@@ -135,15 +135,15 @@ c) Prevenção de acidentes de trabalho e de doenças profissionais.
 
 6.º Executar os restantes serviços que, por lei, regulamento ou determinação superior, lhes sejam cometidos.
 
-###### Art. 4.º Os serviços de inspecção do trabalho são dirigidos, nas províncias de Angola e Moçambique e no Estado da Índia, por um inspector-chefe, coadjuvado por inspectores de trabalho, e nas restantes províncias por um inspector de trabalho, os quais despacharão com o governador.
+Art. 4.º Os serviços de inspecção do trabalho são dirigidos, nas províncias de Angola e Moçambique e no Estado da Índia, por um inspector-chefe, coadjuvado por inspectores de trabalho, e nas restantes províncias por um inspector de trabalho, os quais despacharão com o governador.
 
 § único. Usará a designação de inspector-chefe o inspector de trabalho que contar maior antiguidade nos serviços de administração civil.
 
-###### Art. 5.º Os lugares de inspector de trabalho são exercidos em comissão amovível, renovável, de duração não inferior a dois anos, por funcionários que nos respectivos quadros tiverem a categoria de intendentes administrativos.
+Art. 5.º Os lugares de inspector de trabalho são exercidos em comissão amovível, renovável, de duração não inferior a dois anos, por funcionários que nos respectivos quadros tiverem a categoria de intendentes administrativos.
 
 § único. O número de inspectores de trabalho será de cinco e quatro, respectivamente, nas províncias de Angola e Moçambique, de dois no Estado da Índia, e de um em cada uma das restantes províncias. O Ministro do Ultramar, por portaria, poderá ampliar o quadro de qualquer das províncias.
 
-###### Art. 6.º No desempenho das atribuições conferidas aos serviços de inspecção do trabalho, cumpre aos respectivos inspectores:
+Art. 6.º No desempenho das atribuições conferidas aos serviços de inspecção do trabalho, cumpre aos respectivos inspectores:
 
 1.º Visitar e inspeccionar, por iniciativa própria, em cumprimento de ordens superiores, a requerimento de interessados, a instância de organismos corporativos ou ainda em resultado de denúncia, a qualquer hora do dia ou da noite e sem necessidade de aviso prévio, os locais de trabalho sujeitos a inspecção;
 
@@ -157,43 +157,43 @@ c) Prevenção de acidentes de trabalho e de doenças profissionais.
 
 § único. As amostras a que se refere o número anterior não devem exceder o estritamente necessário e serão examinadas em estabelecimentos apropriados, sendo as despesas custeadas pela empresa, se se confirmarem as suspeitas de nocividade, e pelo Estado, em caso contrário.
 
-###### Art. 7.º Durante as visitas de inspecção será verificada a forma como são observadas todas as normas de carácter social a que estejam sujeitos os estabelecimentos visitados e cuja fiscalização seja da competência dos serviços de inspecção do trabalho.
+Art. 7.º Durante as visitas de inspecção será verificada a forma como são observadas todas as normas de carácter social a que estejam sujeitos os estabelecimentos visitados e cuja fiscalização seja da competência dos serviços de inspecção do trabalho.
 
 § único. Antes de abandonar o local visitado devem os inspectores de trabalho, sempre que lhes seja possível, comunicar à pessoa que nele superintende o objecto da sua visita.
 
-###### Art. 8.º Os inspectores de trabalho são obrigados a guardar rigoroso sigilo profissional, não podendo, em caso algum, revelar segredos de fabricação ou comércio nem, de modo geral, quaisquer processos de exploração económica de que porventura tenham conhecimento no exercício das suas funções.
+Art. 8.º Os inspectores de trabalho são obrigados a guardar rigoroso sigilo profissional, não podendo, em caso algum, revelar segredos de fabricação ou comércio nem, de modo geral, quaisquer processos de exploração económica de que porventura tenham conhecimento no exercício das suas funções.
 
-###### Art. 9.º Nos serviços de inspecção, os inspectores de trabalho devem exercer as suas funções com espírito de justiça e isenção, cumprindo-lhes desenvolver uma acção não apenas repressiva, mas sobretudo educativa e orientadora.
+Art. 9.º Nos serviços de inspecção, os inspectores de trabalho devem exercer as suas funções com espírito de justiça e isenção, cumprindo-lhes desenvolver uma acção não apenas repressiva, mas sobretudo educativa e orientadora.
 
-###### Art. 10.º Toda a reclamação, queixa ou denúncia dirigida aos serviços de inspecção do trabalho deve ser recebida e considerada estritamente confidencial, sendo proibido aos inspectores de trabalho dar a conhecer por qualquer forma que a visita a que procedem é consequência de uma denúncia, queixa ou reclamação.
+Art. 10.º Toda a reclamação, queixa ou denúncia dirigida aos serviços de inspecção do trabalho deve ser recebida e considerada estritamente confidencial, sendo proibido aos inspectores de trabalho dar a conhecer por qualquer forma que a visita a que procedem é consequência de uma denúncia, queixa ou reclamação.
 
-###### Art. 11.º Cometem o crime previsto e punido no artigo 186.º do Código Penal todos aqueles que se oponham à entrada dos inspectores de trabalho, e ao livre exercício das suas funções, nos locais onde vão prestar serviço.
+Art. 11.º Cometem o crime previsto e punido no artigo 186.º do Código Penal todos aqueles que se oponham à entrada dos inspectores de trabalho, e ao livre exercício das suas funções, nos locais onde vão prestar serviço.
 
-###### Art. 12.º Os inspectores de trabalho podem prender em flagrante delito as pessoas que, sem motivo legítimo, procurarem impedir a sua acção, bem como as pessoas que os injuriarem, difamarem, ameaçarem ou agredirem no exercício ou por motivo das suas funções, entregando-as à autoridade mais próxima, com o respectivo auto de notícia, que fará fé em juízo até prova em contrário.
+Art. 12.º Os inspectores de trabalho podem prender em flagrante delito as pessoas que, sem motivo legítimo, procurarem impedir a sua acção, bem como as pessoas que os injuriarem, difamarem, ameaçarem ou agredirem no exercício ou por motivo das suas funções, entregando-as à autoridade mais próxima, com o respectivo auto de notícia, que fará fé em juízo até prova em contrário.
 
-###### Art. 13.º Aqueles que, sem motivo legítimo, se recusarem a prestar aos inspectores de trabalho, no exercício das suas funções, as declarações, informações, depoimentos e outros elementos de informação que lhes forem exigidos nos termos deste diploma, e os que prestarem falsas informações ou declarações, cometem os crimes previstos e punidos nos artigos 188.º e 242.º do Código Penal, respectivamente.
+Art. 13.º Aqueles que, sem motivo legítimo, se recusarem a prestar aos inspectores de trabalho, no exercício das suas funções, as declarações, informações, depoimentos e outros elementos de informação que lhes forem exigidos nos termos deste diploma, e os que prestarem falsas informações ou declarações, cometem os crimes previstos e punidos nos artigos 188.º e 242.º do Código Penal, respectivamente.
 
-###### Art. 14.º Os factos criminosos e as restantes infracções verificadas pelos inspectores de trabalho e relativos a normas cuja fiscalização hão seja de sua competência devem ser imediatamente participados às autoridades competentes.
+Art. 14.º Os factos criminosos e as restantes infracções verificadas pelos inspectores de trabalho e relativos a normas cuja fiscalização hão seja de sua competência devem ser imediatamente participados às autoridades competentes.
 
 § único. Da participação será dado conhecimento superior.
 
-###### Art. 15.º Em matéria de higiene e salubridade dos estabelecimentos industriais e comerciais, segurança dos locais de trabalho, condicionamento de indústrias insalubres, incómodas, perigosas ou tóxicas, prevenção de acidentes de trabalho e doenças profissionais, os serviços de inspecção do trabalho devem comunicar aos serviços competentes as irregularidades verificadas, bem como as medidas tomadas para as prevenir ou fazer cessar, e enviar os autos levantados por infracção de preceitos legais sobre o assunto.
+Art. 15.º Em matéria de higiene e salubridade dos estabelecimentos industriais e comerciais, segurança dos locais de trabalho, condicionamento de indústrias insalubres, incómodas, perigosas ou tóxicas, prevenção de acidentes de trabalho e doenças profissionais, os serviços de inspecção do trabalho devem comunicar aos serviços competentes as irregularidades verificadas, bem como as medidas tomadas para as prevenir ou fazer cessar, e enviar os autos levantados por infracção de preceitos legais sobre o assunto.
 
-###### Art. 16.º Sobre as matérias a que se refere o artigo anterior podem os inspectores-chefes, nas províncias de Angola e Moçambique e no Estado da Índia, e os inspectores de trabalho nas restantes províncias, fixar o número máximo de trabalhadores ocupados em determinado local ou proibir a execução de certos trabalhos, a utilização de locais, máquinas e utensílios ou a aplicação de determinados métodos de trabalho, desde que a entidade responsável não cumpra dentro do prazo que for marcado as condições pelos mesmos fixadas para evitar os inconvenientes verificados.
+Art. 16.º Sobre as matérias a que se refere o artigo anterior podem os inspectores-chefes, nas províncias de Angola e Moçambique e no Estado da Índia, e os inspectores de trabalho nas restantes províncias, fixar o número máximo de trabalhadores ocupados em determinado local ou proibir a execução de certos trabalhos, a utilização de locais, máquinas e utensílios ou a aplicação de determinados métodos de trabalho, desde que a entidade responsável não cumpra dentro do prazo que for marcado as condições pelos mesmos fixadas para evitar os inconvenientes verificados.
 
 § 1.º As determinações dos inspectores-chefes ou dos inspectores do trabalho sobre a matéria deste artigo têm força executiva e sòmente podem ser suspensas por via de recurso para o governador da província, interposto no prazo de vinte dias, a contar da data da notificação.
 
 § 2.º Quando as determinações a que alude o parágrafo anterior se destinem a prevenir perigos iminentes, devidamente verificados, o recurso não tem efeito suspensivo.
 
-###### Art. 17.º Em caso de perigo iminente para a vida ou integridade física dos trabalhadores, podem os inspectores de trabalho tomar medidas de execução imediata destinadas a prevenir esse perigo, submetendo a decisão tomada à confirmação superior no prazo de 24 horas.
+Art. 17.º Em caso de perigo iminente para a vida ou integridade física dos trabalhadores, podem os inspectores de trabalho tomar medidas de execução imediata destinadas a prevenir esse perigo, submetendo a decisão tomada à confirmação superior no prazo de 24 horas.
 
-###### Art. 18.º Os estabelecimentos que não satisfaçam inteiramente sob o ponto de vista da higiene e segurança, bem como aqueles onde se efectuem trabalhos insalubres, incómodos, perigosos ou tóxicos, devem ser visitados duas vezes em cada ano, ou com maior frequência, se for julgado conveniente.
+Art. 18.º Os estabelecimentos que não satisfaçam inteiramente sob o ponto de vista da higiene e segurança, bem como aqueles onde se efectuem trabalhos insalubres, incómodos, perigosos ou tóxicos, devem ser visitados duas vezes em cada ano, ou com maior frequência, se for julgado conveniente.
 
 § 1.º Os restantes estabelecimentos devem ser visitados com a frequência necessária para assegurar a execução efectiva das normas sociais em vigor.
 
 § 2.º Os estabelecimentos em que hajam sido apuradas irregularidades graves devem ser visitados novamente em data próxima, a fim de se verificar se as irregularidades desapareceram.
 
-###### Art. 19.º Uma vez por ano, pelo menos, proceder-se-á, nas empresas que ocupem menores de idade inferior a 18 anos, a uma visita médica, destinada a verificar se a ocupação desses menores é prejudicial à sua saúde ou ao seu desenvolvimento físico.
+Art. 19.º Uma vez por ano, pelo menos, proceder-se-á, nas empresas que ocupem menores de idade inferior a 18 anos, a uma visita médica, destinada a verificar se a ocupação desses menores é prejudicial à sua saúde ou ao seu desenvolvimento físico.
 
 § 1.º O médico encarregado da visita inscreverá para cada menor, num boletim de modelo aprovado e fornecido pelos serviços de inspecção do trabalho, as observações sobre o estado de saúde e desenvolvimento físico, mencionando a data da visita.
 
@@ -201,7 +201,7 @@ c) Prevenção de acidentes de trabalho e de doenças profissionais.
 
 § 3.º As visitas a que se refere este artigo incumbem aos delegados e subdelegados de saúde.
 
-###### Art. 20.º As entidades patronais abrangidas por este diploma são obrigadas a comunicar aos serviços de inspecção do trabalho:
+Art. 20.º As entidades patronais abrangidas por este diploma são obrigadas a comunicar aos serviços de inspecção do trabalho:
 
 1.º A denominação social, ramo de actividade, sede e local ou locais de trabalho, categorias profissionais e número de trabalhadores, bem como as restantes condições de instalação e exploração dos seus estabelecimentos, antes de estes começarem a funcionar;
 
@@ -211,7 +211,7 @@ c) Prevenção de acidentes de trabalho e de doenças profissionais.
 
 § 2.º As infracções ao disposto neste artigo são punidas com multa de 100$00 a 1000$00.
 
-###### Art. 21.º Sempre que se verifiquem, por qualquer forma, infracções de normas cuja fiscalização compete aos serviços de inspecção do trabalho, devem os respectivos inspectores levantar auto de notícia.
+Art. 21.º Sempre que se verifiquem, por qualquer forma, infracções de normas cuja fiscalização compete aos serviços de inspecção do trabalho, devem os respectivos inspectores levantar auto de notícia.
 
 § 1.º O auto de notícia deve conter os elementos mencionados no artigo 166.º do Código de Processo Penal, com dispensa da indicação de testemunhas e da assinatura do infractor, e a sua eficácia depende de confirmação superior.
 
@@ -219,19 +219,19 @@ c) Prevenção de acidentes de trabalho e de doenças profissionais.
 
 § 3.º Os despachos de não confirmação dos autos de notícia devem ser fundamentados e devidamente registados.
 
-###### Art. 22.º Se os autos de notícia disserem respeito a transgressão de preceitos a que corresponda pena de multa, devem os mesmos ser remetidos, bem como as guias para pagamento, no prazo de dez dias, à secretaria da administração do concelho ou de circunscrição do domicílio do transgressor, que notificará este para, em igual prazo, efectuar o pagamento da multa, bem como dos adicionais, quando os haja. Findo este prazo sem ter sido efectuado o pagamento, será o auto devolvido aos serviços de inspecção do trabalho, dentro de cinco dias, a fim de sem remetido para juízo nos dez dias posteriores.
+Art. 22.º Se os autos de notícia disserem respeito a transgressão de preceitos a que corresponda pena de multa, devem os mesmos ser remetidos, bem como as guias para pagamento, no prazo de dez dias, à secretaria da administração do concelho ou de circunscrição do domicílio do transgressor, que notificará este para, em igual prazo, efectuar o pagamento da multa, bem como dos adicionais, quando os haja. Findo este prazo sem ter sido efectuado o pagamento, será o auto devolvido aos serviços de inspecção do trabalho, dentro de cinco dias, a fim de sem remetido para juízo nos dez dias posteriores.
 
 § único. O pagamento deve efectuar-se nas secretarias referidas no parágrafo anterior, e, efectuado o mesmo, juntar-se-á ao auto de notícia o necessário exemplar da guia e em seguida serão estes documentos enviados ao serviços de inspecção do trabalho, para efeitos de arquivo.
 
-###### Art. 23.º O produto das multas aplicadas constitui receita da Fazenda quando, por lei, regulamento ou convenção colectiva de trabalho, não lhe seja dado outro destino.
+Art. 23.º O produto das multas aplicadas constitui receita da Fazenda quando, por lei, regulamento ou convenção colectiva de trabalho, não lhe seja dado outro destino.
 
-###### Art. 24.º Os autos de notícia a que correspondam penalidades não susceptíveis, pela sua natureza ou por força da lei, de pagamento voluntário, serão remetidos para juízo no prazo de dez dias após a data da verificação da infracção.
+Art. 24.º Os autos de notícia a que correspondam penalidades não susceptíveis, pela sua natureza ou por força da lei, de pagamento voluntário, serão remetidos para juízo no prazo de dez dias após a data da verificação da infracção.
 
-###### Art. 25.º Os serviços de inspecção do trabalho podem requisitar o concurso de quaisquer outros serviços e as autoridades administrativas e policiais devem prestar-lhes todo o concurso de que o mesmos necessitem.
+Art. 25.º Os serviços de inspecção do trabalho podem requisitar o concurso de quaisquer outros serviços e as autoridades administrativas e policiais devem prestar-lhes todo o concurso de que o mesmos necessitem.
 
-###### Art. 26.º Compete aos governos das províncias ultramarinas regulamentar, no âmbito da sua competência, o que se dispõe no presente diploma e proceder à abertura dos créditos necessários para fazer face ao aumento de despesa dele resultante, com contrapartida em recursos orçamentais.
+Art. 26.º Compete aos governos das províncias ultramarinas regulamentar, no âmbito da sua competência, o que se dispõe no presente diploma e proceder à abertura dos créditos necessários para fazer face ao aumento de despesa dele resultante, com contrapartida em recursos orçamentais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Maio de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

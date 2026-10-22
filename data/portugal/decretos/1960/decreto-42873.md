@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/42873-1960-281872
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-05-20T00:00:00Z'
+  retrieved_at: '2026-10-22T19:17:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e737071feea46dae2691147c336dbb7131c13d664b16a0ace0bdb86f052837f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24ca36e432cda6a7ef60a4d2e132cb347611db0f992df85ffbdd483bf1430cc3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:17:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,30 @@ relationships:
   target: pt:dre:406495:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:305254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536672:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:406495:por
+  label: "Revogado o Regulamento do Betão Armado, aprovado no Decreto n.º 25948, de 16 de Outubro de 1935, com as alterações\
+    \ introduzidas no presente diploma, pelo DEC.47723.20.05.1967.MOP, DG.IS [119]Supl de 20.05.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/47723-1967-406495
+  date: '1967-05-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:17:26Z'
   warnings: []
   errors: []
 ---
@@ -98,12 +112,12 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. A alínea a) do artigo 47.º do Regulamento do Betão Armado, aprovado pelo [Decreto n.º 25948](https://diariodarepublica.pt/dr/detalhe/decreto/25948-1935-536672), de 16 de Outubro de 1935, passa a ter a seguinte redacção:
+Artigo único. A alínea a) do artigo 47.º do Regulamento do Betão Armado, aprovado pelo [Decreto n.º 25948](https://diariodarepublica.pt/dr/detalhe/decreto/25948-1935-536672), de 16 de Outubro de 1935, passa a ter a seguinte redacção:
 
 a) Pontes de estradas - No cálculo das lajes dos tabuleiros das pontes de estradas, às sobrecargas transmitidas pelas rodas dos veículos convencionais (mas não à sobrecarga linear uniforme, transversal, da faixa de rodagem) poderá aplicar-se o disposto no artigo 28.º, tomando para a(índice 1) e b(índice 1), respectivamente, os valores de a e b prescritos, para cada classe, na alínea a) do artigo 43.º do Regulamento de Pontes Metálicas.
 
 O cálculo das vigas será sempre feito supondo concentradas as sobrecargas transmitidas pelas rodas dos veículos convencionais. No cálculo das abóbadas e na direcção longitudinal da ponte não se suporá distribuição alguma da sobrecarga. Na direcção transversal, a sobrecarga distribuir-se-á uniformemente por toda a largura da abóbada, excepto quando houver linhas de tranvias. Neste último caso far-se-á a distribuição sobre largura da abóbada igual, no máximo, à distância entre o eixo dos carris, acrescida de uma faixa de 2 m de cada lado.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Março de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Eduardo de Arantes e Oliveira.

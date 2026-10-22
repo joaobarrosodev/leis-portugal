@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 227/1995, 1º Suplemento, Série I-A de 1995-09-30
   number: '227'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6080-(2) a 6080-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1995/09/227a01/00020002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/119/1995/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/119-1995-419791
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:44:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d45c8774d2e4ce68d55b2f0b3a8dce3b2aae619cd2c602c603232780e6fb428
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f32c20619a45675010e69eb3bc0a879958a970682c09318b93309db08b50ca8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:44:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,41 +66,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
 - Código da Contribuição Autárquica
 - Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola
-- Política Fiscal
 - Conservatória do Registo Predial
 - Contribuição Autárquica
+- Direcção Geral das Contribuições e Impostos
 - Imposto sobre a Indústria Agrícola
 - Instituto Geográfico e Cadastral
 - Instituto Português de Cartografia e Cadastro
+- Modernização Administrativa
+- Política Fiscal
 - Prédio Rústico
+- Prédio Urbano
 - Registo Predial
 - Regulamento
-- Direcção Geral das Contribuições e Impostos
-- Prédio Urbano
 - Transferência de Competências
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/172/1995/07/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/172/1995/07/18/p/dre
+- type: cites
+  target: pt:dre:462035:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:44:16Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 119/95
+# Declaração de rectificação n.º 119/95
 
 Para os devidos efeitos se declara que o [Decreto-Lei n.º 172/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1995-462035), publicado no Diário da República, n.º 164, de 18 de Julho de 1995, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 

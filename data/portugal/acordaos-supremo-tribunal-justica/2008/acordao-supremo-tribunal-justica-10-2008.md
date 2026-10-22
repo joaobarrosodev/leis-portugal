@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/10/2008/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/10-2008-439848
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-26T00:00:00Z'
+  retrieved_at: '2026-10-22T17:52:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf250dcf6f9bb04971273441dcc67ca38dafca24c0a76f2dd104df34758e65cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fde46ae80406d96be6a6e92bd1358290910fb347d98ead0eb20d81a86fc3071f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:52:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Garantia
-- Instituição de Crédito
 - Código Civil
 - Código do Processo Civil
 - Crédito ao Consumo
-- Registo Automóvel
-- Interpretação do Direito
-- Veículo
-- Propriedade de BENS
 - Execução por Dívidas
+- Financiamento
+- Garantia
+- Instituição de Crédito
+- Interpretação do Direito
 - Processo de Execução
+- Propriedade de BENS
+- Registo Automóvel
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:440308:por
@@ -124,16 +124,73 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/533/1999/12/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/533/1999/12/11/p/dre
+- type: cites
+  target: pt:dre:159492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655966:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:440308:por
+  label: "Rectificado pela DECL-RECT.70/2008.26.11.2008.STJ, DR.IS [230] de 26.11.2008 e republicado em anexo \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/70-2008-440308
+  date: '2008-11-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:52:29Z'
   warnings: []
   errors: []
 ---

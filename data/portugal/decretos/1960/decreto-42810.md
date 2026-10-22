@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/42810-1960-277082
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-01-20T00:00:00Z'
+  retrieved_at: '2026-10-22T19:17:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 476298c275750c1ccd31fd71518a64e49a14dbf3dbeb4d01b012dd81efae6cb0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89b51ec2607fdcbb05d793db0fb81e708a846b22157bbbd132448630a7fb75ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:17:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:431857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654121:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:17:06Z'
   warnings: []
   errors: []
 ---
@@ -99,23 +107,23 @@ Tendo em vista o § 1.º do artigo 150.º da Constituição e por motivos de urg
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º do mesmo diploma, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O Ministro do Ultramar poderá, nos termos estabelecidos no artigo 6.º do [Decreto n.º 41026](https://diariodarepublica.pt/dr/detalhe/decreto/41026-1957-654121), de 9 de Março de 1957, fazer reverter, no todo ou em parte, para fundos de apoio à indústria de pesca e suas derivadas da província de Angola o produto das sobretaxas referidas no mencionado artigo, quando respeitem à exportação de produtos daquelas indústrias ou à importação de mercadorias a elas destinadas.
+Artigo 1.º O Ministro do Ultramar poderá, nos termos estabelecidos no artigo 6.º do [Decreto n.º 41026](https://diariodarepublica.pt/dr/detalhe/decreto/41026-1957-654121), de 9 de Março de 1957, fazer reverter, no todo ou em parte, para fundos de apoio à indústria de pesca e suas derivadas da província de Angola o produto das sobretaxas referidas no mencionado artigo, quando respeitem à exportação de produtos daquelas indústrias ou à importação de mercadorias a elas destinadas.
 
-###### Art. 2.º Os óleos minerais empregados como combustíveis ou carburantes nas indústrias de pesca e suas derivadas, assim como quaisquer outras mercadorias que sejam recebidas pelas respectivas empresas em regime especialmente favorecido de preços de venda, fixados oficialmente, só poderão ser utilizados por elas nas suas actividades próprias, com inclusão da respeitante ao transporte dos respectivos produtos entre as fábricas, seus armazéns, cais e locais de embarque e desembarque.
+Art. 2.º Os óleos minerais empregados como combustíveis ou carburantes nas indústrias de pesca e suas derivadas, assim como quaisquer outras mercadorias que sejam recebidas pelas respectivas empresas em regime especialmente favorecido de preços de venda, fixados oficialmente, só poderão ser utilizados por elas nas suas actividades próprias, com inclusão da respeitante ao transporte dos respectivos produtos entre as fábricas, seus armazéns, cais e locais de embarque e desembarque.
 
 § único. O desvio da aplicação de tais óleos ou mercadorias, assim como a sua venda a entidades diferentes das referidas no artigo anterior, é punido como descaminho de direitos, nos termos do contencioso aduaneiro do ultramar, em relação à diferença entre os preços especiais e normais de venda das quantidades desviadas ou vendidas, sendo os respectivos processos organizados conforme os preceitos daquele diploma.
 
-###### Art. 3.º Quando as circunstâncias o justifiquem pode o Ministro do Ultramar, por meio de portaria, tornar extensivo o disposto nos artigos 1.º e 2.º às indústrias de pesca de outras províncias.
+Art. 3.º Quando as circunstâncias o justifiquem pode o Ministro do Ultramar, por meio de portaria, tornar extensivo o disposto nos artigos 1.º e 2.º às indústrias de pesca de outras províncias.
 
-###### Art. 4.º O artigo 20.º do [Decreto n.º 42401](https://diariodarepublica.pt/dr/detalhe/decreto/42401-1959-431857), de 21 de Julho de 1959, passa a ter a seguinte redacção:
+Art. 4.º O artigo 20.º do [Decreto n.º 42401](https://diariodarepublica.pt/dr/detalhe/decreto/42401-1959-431857), de 21 de Julho de 1959, passa a ter a seguinte redacção:
 
-**O Ministro do Ultramar, ouvidos os respectivos governadores, fixará, por portaria, as quantidades de tabaco manufacturado que em cada província gozam do regime aduaneiro prescrito no artigo 9.º do [Decreto n.º 41026](https://diariodarepublica.pt/dr/detalhe/decreto/41026-1957-654121), de 9 de Março de 1957.**
+O Ministro do Ultramar, ouvidos os respectivos governadores, fixará, por portaria, as quantidades de tabaco manufacturado que em cada província gozam do regime aduaneiro prescrito no artigo 9.º do [Decreto n.º 41026](https://diariodarepublica.pt/dr/detalhe/decreto/41026-1957-654121), de 9 de Março de 1957.
 
 § único. O tabaco abrangido pelo disposto no corpo deste artigo fica cativo na importação em qualquer província ultramarina dos impostos que incidem sobre os tabacos nela produzidos.
 
-###### Art. 5.º Este decreto entra imediatamente em vigor.
+Art. 5.º Este decreto entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Janeiro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

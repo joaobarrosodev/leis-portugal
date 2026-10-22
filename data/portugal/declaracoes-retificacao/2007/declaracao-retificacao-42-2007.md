@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/42/2007/05/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/42-2007-638567
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-25T00:00:00Z'
+  retrieved_at: '2026-10-22T19:08:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a45a911dbb26b84bddde9f44680167fd0dd58c7a1657136ce5e5ba3772a6fea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72c9c41860bcde6c9e9056f7027467950f135d54feb689ddbcbef4e043ac0740
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:08:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,34 +68,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
-- Subsídio Familiar a Crianças e Jovens
+- Abono de Família
 - Criança
+- Deficiente
 - Jovem
-- Proteção ao Deficiente
 - Prestações da Segurança Social
 - Prestações Familiares
+- Proteção ao Deficiente
 - Proteção Social
 - Segurança Social
 - Subsídio de Educação Especial
 - Subsídio de Funeral
-- Abono de Família
+- Subsídio Familiar a Crianças e Jovens
 - Subsídio por Assistência de Terceira Pessoa
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/132/2006/02/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/132/2006/02/16/p/dre
+- type: corrects
+  target: pt:numero:portaria:421/2007
+  label: "Rectifica a Portaria n.º 421/2007, de 16 de Abril, DR.IS [74]\0\0"
+  source: null
+  date: '2007-04-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:08:13Z'
   warnings: []
   errors: []
 ---

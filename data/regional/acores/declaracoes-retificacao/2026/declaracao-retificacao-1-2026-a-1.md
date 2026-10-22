@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/1/2026/06/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1-2026-1138160263
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-24T00:00:00Z'
+  retrieved_at: '2026-10-22T18:45:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0148bc9351faa1f9ae17495f4d321f1c95fc71d56bd7491dde9f9c0ae50765f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d8b74d85538051945e1991d124587427d4902c967c97ca744265631c5b36e7e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:45:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fiscal Único
-- Pessoal Dirigente
-- Definição de Competências
-- Fundo Regional da Ciência e Tecnologia
+- Açores
 - Conselho Diretivo
+- Definição de Competências
+- Fiscal Único
+- Fundo Regional da Ciência e Tecnologia
 - Orgânica
+- Pessoal Dirigente
 - Presidente
 - Quadro de Pessoal
-- Açores
 - Vogal
 relationships:
 - type: cites
@@ -94,16 +94,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
+- type: cites
+  target: pt:dre:1133905365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132965080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169602023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-regulamentar-regional:8/2026/A
+  label: Retifica a epígrafe do artigo 2.º o Decreto Regulamentar Regional n.º 8/2026/A, de 18 de junho, Diário da República
+    n.º 116/2026, Série I
+  source: null
+  date: '2026-06-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:45:02Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +134,7 @@ validation:
 
 O [Decreto Regulamentar Regional n.º 11/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2020-132965080), de 4 de maio, na redação atual conferida pelo [Decreto Regulamentar Regional n.º 8/2026/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2026-1133905365), de 18 de junho, publicado no Diário da República, 1.ª série, n.º 116, de 18 de junho de 2026, carece de correção por erro material proveniente de divergência entre o texto original e o texto editado.
 
-Assim, nos termos dos n.<sup>os</sup>1, 2 e 4 do artigo 5.º da [Lei n.º 74/98](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), de 11 de novembro, na sua redação atual, procede-se à retificação da epígrafe do artigo 2.º do suprarreferido decreto regulamentar regional, nos seguintes termos:
+Assim, nos termos dos n.os1, 2 e 4 do artigo 5.º da [Lei n.º 74/98](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), de 11 de novembro, na sua redação atual, procede-se à retificação da epígrafe do artigo 2.º do suprarreferido decreto regulamentar regional, nos seguintes termos:
 
 Na epígrafe do artigo 2.º do [Decreto Regulamentar Regional n.º 11/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2020-132965080), de 4 de maio, na redação atual conferida pelo [Decreto Regulamentar Regional n.º 8/2026/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2026-1133905365), de 18 de junho, publicado no Diário da República, 1.ª série, n.º 116, de 18 de junho de 2026, onde se lê:
 
@@ -123,3 +145,5 @@ deve ler-se:
 «Alteração ao [Decreto Regulamentar Regional n.º 11/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2020-132965080), de 4 de maio»
 
 Ponta Delgada, 18 de junho de 2026. - O Técnico Superior Especialista, Duarte Pimentel.
+
+119948849

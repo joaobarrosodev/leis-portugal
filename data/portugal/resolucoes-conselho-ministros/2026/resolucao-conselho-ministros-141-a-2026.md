@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/141-a/2026/07/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/141-a-2026-1144096133
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-03T00:00:00Z'
+  retrieved_at: '2026-10-22T18:45:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26604003403bf16b378714f137bd627f210a3a0d9f0de14356a374d99aa0993c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1fcde0375f7200d5ed8a7e2087b19f5cd8a6c6483bc780fd8ff05685cce6d7dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:45:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Dívida Pública
 - Agência de Gestão da Tesouraria e da Dívida Pública
-- Poupança
 - Certificado do Tesouro
+- Dívida Pública
+- Poupança
 - Prazo
 - TAXA de JURO
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:131-B/2021
+  label: Suspende, a partir de 6 de julho de 2026, novas subscrições de Certificados do Tesouro Poupança Valor, criados pela
+    Resolução do Conselho de Ministros n.º 131-B/2021, de 10 de setembro, Diário da República n.º 177/2021, 3º Suplemento,
+    Série I
+  source: null
+  date: '2021-09-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/7/1998/02/03/p/dre
   label: null
@@ -81,16 +88,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/131-b/2021/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/131-b/2021/09/10/p/dre
+- type: cites
+  target: pt:dre:171183645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223628:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:45:55Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +182,7 @@ c) Assegurar que as entidades com as quais celebre acordos ao abrigo da presente
 
 14 - Estabelecer que as emissões de certificados do tesouro «série 5» ficam sujeitas aos limites assinalados em cada exercício orçamental à contração de dívida pública fundada e de dívida pública flutuante direta do Estado.
 
-15 - Estabelecer que, não obstante o disposto nos n.<sup>os</sup>5 e 7, o IGCP, E. P. E., pode, através de instrução e mediante prévia autorização do membro do Governo responsável pela área das finanças, suspender ou estabelecer limites às subscrições caso as taxas de juro de referência não sejam consideradas suficientemente representativas, atendendo aos níveis de liquidez verificados no mercado, ou a outros fatores de perturbação dos mercados considerados relevantes.
+15 - Estabelecer que, não obstante o disposto nos n.os5 e 7, o IGCP, E. P. E., pode, através de instrução e mediante prévia autorização do membro do Governo responsável pela área das finanças, suspender ou estabelecer limites às subscrições caso as taxas de juro de referência não sejam consideradas suficientemente representativas, atendendo aos níveis de liquidez verificados no mercado, ou a outros fatores de perturbação dos mercados considerados relevantes.
 
 16 - Determinar a suspensão de novas subscrições de CTPV, criados pela [Resolução do Conselho de Ministros n.º 131-B/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/131-b-2021-171183645), de 10 de setembro, a partir da data de entrada em vigor da presente resolução.
 
@@ -260,3 +275,5 @@ j) 10.º ano - 3,35 %.
 9.2 - Os certificados do tesouro «série 5» estão isentos do imposto de selo, desde que revertam a favor de herdeiros legitimários.
 
 10 - Garantia de capital: garantia da totalidade do capital investido.
+
+119948984

@@ -50,18 +50,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43567-1961-559429
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-03-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:22:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ef271774ad1e040f4c897fc3f293f150c21cb7ee997189eedfbbbe0afeb5013
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d9db91369b47ffd2c9d604cc3211b9985595d36d6cf8f2c3fef7b07192b91c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:22:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:22:53Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +98,11 @@ Tendo presente a urgência das referidas providências e ao abrigo do que precei
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º e seu § 1.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º As isenções de direitos e de outras imposições, excepto o selo do despacho, respeitantes aos artefactos especificados nas alíneas d) do artigo 1.º e b) do artigo 4.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921), de 28 de Fevereiro de 1957, com inclusão dos aparelhos emissores e receptores de radiodifusão, são extensivas aos mesmos artefactos quando importados pelos centros de informação e turismo ou por outros serviços ou organismos oficiais designados pelo governador e se destinem às redes de radiodifusão oficial.
+Artigo 1.º As isenções de direitos e de outras imposições, excepto o selo do despacho, respeitantes aos artefactos especificados nas alíneas d) do artigo 1.º e b) do artigo 4.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921), de 28 de Fevereiro de 1957, com inclusão dos aparelhos emissores e receptores de radiodifusão, são extensivas aos mesmos artefactos quando importados pelos centros de informação e turismo ou por outros serviços ou organismos oficiais designados pelo governador e se destinem às redes de radiodifusão oficial.
 
-###### Art. 2 º A competência atribuída aos elementos da Guarda Fiscal, pelo contencioso aduaneiro do ultramar, quanto a buscas, vistorias, apreensões, autos de notícia e participações e aos direitos emergentes desses actos, passa a ser extensiva, nos mesmos termos, aos elementos da Polícia do Estado da Índia.
+Art. 2 º A competência atribuída aos elementos da Guarda Fiscal, pelo contencioso aduaneiro do ultramar, quanto a buscas, vistorias, apreensões, autos de notícia e participações e aos direitos emergentes desses actos, passa a ser extensiva, nos mesmos termos, aos elementos da Polícia do Estado da Índia.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Março de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

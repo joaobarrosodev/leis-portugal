@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/92/2007/10/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/92-2007-642004
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:09:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb1b8c9cca019bdad6257b107ca6a0da3294a61df36d4b06d2891e2391285fb0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c29f319d20836460d9e34727fc960e5a987c94050afe78c81ec7fe027207ac9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:09:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Subsídio Familiar a Crianças e Jovens
-- Instituto da Segurança Social
+- Abono de Família
 - Educação
-- Gabinete de Informação e Avaliação do Sistema Educativo
 - Estabelecimento de Ensino
+- Gabinete de Informação e Avaliação do Sistema Educativo
+- Instituto da Segurança Social
 - Protecção à Juventude
 - Prova
-- Abono de Família
+- Subsídio Familiar a Crianças e Jovens
 relationships:
 - type: amended_by
   target: pt:dre:178491:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:482810:por
+  label: "Alterado o art. 1.º da Port 984/2007, de 27-Ago, rectificado pelo presente acto, pela PORT.1316/2009.21.10.2009.MFAP,\
+    \ DR.IS [204] de 21.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1316-2009-482810
+  date: '2009-10-21'
+- type: amended_by
+  target: pt:dre:178491:por
+  label: "Alterado, a partir de 01.07.2012, o art. 1º da Port 984/2007, de 27-ago, retificado pelo presente diploma, pelo\
+    \ DEC LEI.133/2012.27.06.2012.MSSSOC, DR.IS [123] de 27.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-2012-178491
+  date: '2012-06-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
   label: null
@@ -88,16 +100,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/176/2003/08/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/176/2003/08/02/p/dre
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:portaria:984/2007
+  label: "Rectifica a Portaria n.º 984/2007, de 27 de Agosto, DR.IS [164]\0\0"
+  source: null
+  date: '2007-08-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:09:18Z'
   warnings: []
   errors: []
 ---

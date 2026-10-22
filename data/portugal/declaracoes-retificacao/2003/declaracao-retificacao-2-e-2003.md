@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 76/2003, 3º Suplemento, Série I-B de 2003-03-31
   number: '76'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 2080-(14) a 2080-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/2003/03/076b03/00140014.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/2-e/2003/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2-e-2003-684447
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:02:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9ec109290e2ac8beb30954afebbabad8c8a2485e4b6332d07330f8f2e975735
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b5c27a045dd82112d28c09e754fe2e737d5c768b4bd13cb3264c473943e006d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:02:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aluno Militar
+- Avaliação de Conhecimentos
 - Estudante
 - Exame
-- Avaliação de Conhecimentos
 - Regulamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/11/2003/03/03/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/11/2003/03/03/p/dre
+- type: cites
+  target: pt:dre:220344:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:02:26Z'
   warnings: []
   errors: []
 ---

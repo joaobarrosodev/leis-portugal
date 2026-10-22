@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/12/2026/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/12-2026-1071208830
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-12T00:00:00Z'
+  retrieved_at: '2026-10-22T18:35:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41680023d122bb8283d775ca4a34ccc85ba556343f1f8698088b46a7a2684d76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 199e1f05f4cdf8ba4d641d8740343d88a0360f28a1506b34c4e28b358f8f2791
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:35:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,21 @@ reuse:
 subjects:
 - Acesso à Informação
 - Convenção
-- Portugal
 - Documentação Classificada
 - HAIA
 - Países Baixos
+- Portugal
 relationships: []
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:35:33Z'
   warnings: []
   errors: []
 ---
@@ -101,15 +101,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 22 de janeiro de 2026. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - António Leitão Amaro.
 
-**Assinado em 17 de fevereiro de 2026.**
+Assinado em 17 de fevereiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 20 de fevereiro de 2026.**
+Referendado em 20 de fevereiro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 Acordo entre a República Portuguesa e o Reino dos Países Baixos Relativo à Troca e Proteção Mútua de Informação Classificada
 
@@ -705,7 +705,7 @@ Final provisions
 
 In witness whereof the representatives of the Parties, duly authorised thereto, have signed this Agreement.
 
-Done in The Hague, on the 11<sup>th</sup> of December 2024, in two original copies, in the Portuguese, Dutch, and English languages, all texts being equally authentic. In case of divergence of interpretation, the English text shall prevail.
+Done in The Hague, on the 11th of December 2024, in two original copies, in the Portuguese, Dutch, and English languages, all texts being equally authentic. In case of divergence of interpretation, the English text shall prevail.
 
 For the Portuguese Republic:
 
@@ -737,42 +737,66 @@ Directorate-General of Policy
 
 Ministry of Defence
 
-![](https://files.diariodarepublica.pt/images/1071208830/1070768940.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1071208830/1070768940.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1071208830/1070768941.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1071208830/1070768941.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1071208830/1070768942.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1071208830/1070768942.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1071208830/1070768943.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1071208830/1070768943.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1071208830/1070768944.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1071208830/1070768944.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1071208830/1070768945.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1071208830/1070768945.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1071208830/1070768946.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1071208830/1070768946.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1071208830/1070768947.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1071208830/1070768947.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1071208830/1070768948.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1071208830/1070768948.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1071208830/1070768949.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1071208830/1070768949.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1071208830/1070768950.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1071208830/1070768950.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1071208830/1070768951.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1071208830/1070768951.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1071208830/1070768952.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1071208830/1070768952.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1071208830/1070768953.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1071208830/1070768953.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1071208830/1070768954.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1071208830/1070768954.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1071208830/1070768955.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1071208830/1070768955.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1071208830/1070768956.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1071208830/1070768956.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1071208830/1070768957.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1071208830/1070768957.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1071208830/1070768958.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1071208830/1070768958.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1071208830/1070768959.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1071208830/1070768959.png) |
+| --- |
+
+119947952
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:18px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; }

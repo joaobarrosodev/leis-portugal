@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/296-b/2026/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/296-b-2026-1148213690
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-15T00:00:00Z'
+  retrieved_at: '2026-10-22T18:46:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c397f5ecd5e48f05e1a0e70c4b3743f2985082d10550679ec449301c6b96dcf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc47d8ca7537360e65dca6a33bc59c359deda331e2b3e1f63c0fa50bf7ba80d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:46:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Compensação Financeira
-- Regulamentação de Atos Legislativos
 - Apicultura
-- Regime de Apoio
-- Temporal
+- Compensação Financeira
 - Prejuízo Financeiro
+- Regime de Apoio
+- Regulamentação de Atos Legislativos
 - Situação de Calamidade
 - Tempestade Kristin
+- Temporal
 relationships:
+- type: amends
+  target: pt:numero:portaria:86-A/2026
+  label: Altera, a partir de 16 de julho de 2026, os artigos 3.º e 9.º da Portaria n.º 86-A/2026/1, de 20 de fevereiro, Diário
+    da República n.º 36/2026, Suplemento, Série I
+  source: null
+  date: '2026-02-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/86-a/2026/02/20/p/dre
   label: null
@@ -96,16 +102,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/24-a/2026/02/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/24-a/2026/02/05/p/dre
+- type: cites
+  target: pt:dre:1031784677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1031784680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1034985574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1039064235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1057221644:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:46:46Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +170,9 @@ Os artigos 3.º e 9.º da [Portaria n.º 86-A/2026/1](https://diariodarepublica.
 
 4 - Para os beneficiários com atividade no setor apícola, o requisito definido na alínea c) do número anterior pode ser substituído pelo registo de atividade apícola atualizado, pela última declaração anual de existências, no Sistema Nacional de Informação e Registo Animal (SNIRA).
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -166,4 +194,6 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 14 de julho de 2026.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento. - O Ministro da Agricultura e Mar, José Manuel Fernandes.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento. - O Ministro da Agricultura e Mar, José Manuel Fernandes.
+
+119949065

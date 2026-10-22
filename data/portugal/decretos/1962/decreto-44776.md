@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1962/12/28000/16621663.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44776-1962-155211
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-02-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:32:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1a621031baf206c176262a6d121663a1fd20bb2e654e11bd82e90a3e7a18167
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28e0bfc84f44f1a51818f349797032ba2e92a8c08f2d7e97df5c0698ade840bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:32:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Industrial
+- Fabrico Industrial
+- Indústria de Ourivesaria e Relojoaria
+- Joalharia e Ourivesaria
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:261929:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:680592:por
+  label: "Acrescentado o art. 18º ao Regulamento pelo DEC.45471.27.12.1963.MECO, DG.IS [303] de 27.12.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/45471-1963-680592
+  date: '1963-12-27'
+- type: cites
+  target: pt:dre:217898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:433024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:597284:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:261929:por
+  label: "Revogado pelo DEC LEI.75/74.28.02.1974.MECO, DG.IS [50-Supl] de 28.02.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-1974-261929
+  date: '1974-02-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:32:47Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +133,7 @@ Regulamento do Exercício da Indústria de Ourivesaria
 
 ### CAPÍTULO I — Do exercício e da direcção técnica das fábricas e oficinas
 
-###### Artigo 1.º Considera-se a indústria de ourivesaria, para efeito de licenciamento das respectivas instalações e de exercício da correspondente actividade, dividida em dois ramos fundamentais:
+Artigo 1.º Considera-se a indústria de ourivesaria, para efeito de licenciamento das respectivas instalações e de exercício da correspondente actividade, dividida em dois ramos fundamentais:
 
 a) Ourivesaria, joalharia e prataria;
 
@@ -124,11 +151,11 @@ d) Gravura, cinzelagem, esmaltagem e galvanoplastia de artefactos de ourivesaria
 
 e) Conserto e restauro destes artefactos.
 
-###### Art. 2.º Entende-se por fábrica de ourivesaria, joalharia e prataria, ou por oficina das artes e actividades complementares daquelas, todo o local onde se trabalhem metais nobres ou pedras preciosas, quando destinado exclusivamente aos ramos respectivamente indicados na alínea a) ou na alínea b) do corpo do artigo anterior.
+Art. 2.º Entende-se por fábrica de ourivesaria, joalharia e prataria, ou por oficina das artes e actividades complementares daquelas, todo o local onde se trabalhem metais nobres ou pedras preciosas, quando destinado exclusivamente aos ramos respectivamente indicados na alínea a) ou na alínea b) do corpo do artigo anterior.
 
 § único. Consideram-se metais nobres e pedras preciosas os materiais como tal reconhecidos pelos serviços de contrastaria da Casa da Moeda.
 
-###### Art. 3.º As fábricas de ourivesaria, joalharia e prataria e as oficinas das artes e actividades complementares serão dirigidas na parte oficinal, por um ou mais responsáveis, diplomados pelas escolas de artes decorativas com o curso de técnico na especialidade a que respeita a fábrica ou oficina, os quais, se não forem seus sócios ou proprietários, terão de fazer parte do respectivo quadro do pessoal.
+Art. 3.º As fábricas de ourivesaria, joalharia e prataria e as oficinas das artes e actividades complementares serão dirigidas na parte oficinal, por um ou mais responsáveis, diplomados pelas escolas de artes decorativas com o curso de técnico na especialidade a que respeita a fábrica ou oficina, os quais, se não forem seus sócios ou proprietários, terão de fazer parte do respectivo quadro do pessoal.
 
 § 1.º As oficinas de consertos e restauro de artefactos de ourivesaria serão dirigidas por responsáveis que possuam o curso de técnico de ourives-joalheiro ou o de prateiro.
 
@@ -136,17 +163,17 @@ e) Conserto e restauro destes artefactos.
 
 § 3.º Os técnicos diplomados para os efeitos previstos neste regulamento apenas poderão ser considerados responsáveis da direcção técnica de uma só fábrica ou oficina.
 
-###### Art. 4.º No caso de, quando da publicação deste regulamento, não existirem ainda diplomados pelas escolas de artes decorativas existentes com alguns dos cursos técnicos a que se faz referência no corpo do artigo 3.º e seus parágrafos, poderá ser dada equiparação, para os devidos efeitos, aos profissionais da indústria de ourivesaria que possuam habilitações literárias consideradas equivalentes às que são professadas no curso de cinzelagem existente.
+Art. 4.º No caso de, quando da publicação deste regulamento, não existirem ainda diplomados pelas escolas de artes decorativas existentes com alguns dos cursos técnicos a que se faz referência no corpo do artigo 3.º e seus parágrafos, poderá ser dada equiparação, para os devidos efeitos, aos profissionais da indústria de ourivesaria que possuam habilitações literárias consideradas equivalentes às que são professadas no curso de cinzelagem existente.
 
 § único. Além das habilitações referidas no corpo deste artigo, poderá vir a ser exigida aos candidatos a aprovação em exame teórico e prático sobre a especialidade da indústria de ourivesaria em que pretendam especializar-se.
 
-###### Art. 5.º Aos industriais de ourivesaria que à data da publicação deste regulamento dirijam tècnicamente a sua fábrica ou oficina, e como tal estejam devidamente inscritos no respectivo grémio, é dada a equiparação aos técnicos diplomados pelos cursos referidos nos artigos anteriores.
+Art. 5.º Aos industriais de ourivesaria que à data da publicação deste regulamento dirijam tècnicamente a sua fábrica ou oficina, e como tal estejam devidamente inscritos no respectivo grémio, é dada a equiparação aos técnicos diplomados pelos cursos referidos nos artigos anteriores.
 
 Compete aos grémios dos industriais de ourivesaria, mediante pedido dos interessados, a passagem do documento comprovativo da qualidade de director técnico de ourivesaria e da especialidade que exerce, em conformidade com o que constar dos seus registos de inscrição e do cadastro de sócios e contribuintes.
 
 ### CAPÍTULO II — Da Instalação e equipamento das fábricas e oficinas
 
-###### Art. 6.º Não poderão ser licenciadas novas fábricas ou oficinas destinadas ao exercício das actividades referidas nas alíneas a) e b) do artigo 1.º sem que se mostrem cumpridas as prescrições constantes do presente regulamento.
+Art. 6.º Não poderão ser licenciadas novas fábricas ou oficinas destinadas ao exercício das actividades referidas nas alíneas a) e b) do artigo 1.º sem que se mostrem cumpridas as prescrições constantes do presente regulamento.
 
 § 1.º As fábricas e oficinas existentes ou com a laboração suspensa à data da publicação deste regulamento, que não tenham procedido à remodelação das suas instalações e equipamento, nos moldes previstos, ficam sujeitas às disposições mencionadas no corpo do presente artigo em caso de transferência de proprietário por alienação a qualquer título ou pedido de reabertura.
 
@@ -154,7 +181,7 @@ Compete aos grémios dos industriais de ourivesaria, mediante pedido dos interes
 
 § 3.º Para efeitos de registo e cadastro, os serviços competentes darão conhecimento da passagem do respectivo licenciamento ao grémio dos industriais de ourivesaria a que pertencer o requerente.
 
-###### Art. 7.º As fábricas de ourivesaria, joalharia e prataria têm de possuir e manter instalações adequadas à sua laboração, dotadas com, pelo menos, cinco secções, a saber:
+Art. 7.º As fábricas de ourivesaria, joalharia e prataria têm de possuir e manter instalações adequadas à sua laboração, dotadas com, pelo menos, cinco secções, a saber:
 
 a) Bancada;
 
@@ -166,38 +193,38 @@ d) Fundição, recozimento e manipulações químicas;
 
 e) Administração e contrôle.
 
-###### Art. 8.º A secção de bancada tem de dispor de bancadas individuais ou colectivas, com o espaço livre de 80 cm para o trabalho de cada operário, e de bancos de assento regulável.
+Art. 8.º A secção de bancada tem de dispor de bancadas individuais ou colectivas, com o espaço livre de 80 cm para o trabalho de cada operário, e de bancos de assento regulável.
 
 As bancadas, quando equipadas com dispositivos para maçaricos, serão forradas de material incombustível.
 
-###### Art. 9.º A secção de polimento e acabamento tem de ser instalada em compartimento independente e disporá de um dispositivo de filtração de poeiras.
+Art. 9.º A secção de polimento e acabamento tem de ser instalada em compartimento independente e disporá de um dispositivo de filtração de poeiras.
 
 As paredes, o chão e o tecto desse compartimento deverão ser constituídos ou revestidos de material que facilite a sua lavagem e limpeza.
 
 O equipamento mínimo que deve existir nesta secção será o de uma polideira mecânica e lavatórios com escoamento de águas para tanques ou esgotos.
 
-###### Art. 10.º A secção de laminagem terá como equipamento mínimo: laminador mecânico de chapa; laminador mecânico de fio; banco de puxar fio e torno de bancada.
+Art. 10.º A secção de laminagem terá como equipamento mínimo: laminador mecânico de chapa; laminador mecânico de fio; banco de puxar fio e torno de bancada.
 
 § único. Nas fábricas de pratas graúdas, quando se dediquem exclusivamente a esse fabrico, poderá ser dispensada a instalação do laminador mecânico de chapa.
 
-###### Art. 11.º A secção de fundição, recozimento e manipulação química tem de estar isolada das restantes dependências e possuir dispositivos para saída de gases e fumos para o exterior e condições de segurança aconselháveis em função da natureza dos trabalhos a executar.
+Art. 11.º A secção de fundição, recozimento e manipulação química tem de estar isolada das restantes dependências e possuir dispositivos para saída de gases e fumos para o exterior e condições de segurança aconselháveis em função da natureza dos trabalhos a executar.
 
-###### Art. 12.º A secção de administração e contrôle deve estar montada com os necessários apetrechos para o funcionamento regular de um escritório e, dadas as características da indústria, terá de possuir um cofre ou casa-forte para a guarda de valores.
+Art. 12.º A secção de administração e contrôle deve estar montada com os necessários apetrechos para o funcionamento regular de um escritório e, dadas as características da indústria, terá de possuir um cofre ou casa-forte para a guarda de valores.
 
-###### Art. 13.º As fábricas devem também possuir balança aferida para a pesagem de metais preciosos e recipientes para recolha de escovilhas.
+Art. 13.º As fábricas devem também possuir balança aferida para a pesagem de metais preciosos e recipientes para recolha de escovilhas.
 
-###### Art. 14.º A limpeza das fábricas deverá ser feita mecânicamente e as suas instalações terão um compartimento exclusivamente destinado a arrecadações, bem como dependências sanitárias distintas para ambos os sexos.
+Art. 14.º A limpeza das fábricas deverá ser feita mecânicamente e as suas instalações terão um compartimento exclusivamente destinado a arrecadações, bem como dependências sanitárias distintas para ambos os sexos.
 
-###### Art. 15.º Nas instalações das fábricas de ourivesaria, joalharia e prataria, as secções de bancada e laminagem, em conjunto, não poderão ter área inferior a 50 m2.
+Art. 15.º Nas instalações das fábricas de ourivesaria, joalharia e prataria, as secções de bancada e laminagem, em conjunto, não poderão ter área inferior a 50 m2.
 
-###### Art. 16.º As fábricas existentes deverão proceder gradualmente à remodelação das suas instalações e equipamento nos moldes previstos no presente regulamento.
+Art. 16.º As fábricas existentes deverão proceder gradualmente à remodelação das suas instalações e equipamento nos moldes previstos no presente regulamento.
 
 § único. Na aplicação das disposições legais de incentivo e apoio do Estado à industrialização, incluindo as referentes a isenções fiscais e outras formas de estímulo à iniciativa privada, será dada prioridade às instalações que satisfaçam ao disposto neste diploma.
 
-###### Art. 17.º As oficinas das artes e actividades complementares devem possuir o equipamento indispensável para uma eficiente laboração, consoante a sua especialidade.
+Art. 17.º As oficinas das artes e actividades complementares devem possuir o equipamento indispensável para uma eficiente laboração, consoante a sua especialidade.
 
 § único. Quando essas artes ou actividades trabalhem com matérias tóxicas, perigosas ou insalubres, ficam as suas oficinas sujeitas às mesmas disposições por que se regulam nesses aspectos as fábricas de ourivesaria, joalharia e prataria.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Dezembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Edgar Maria da Silva Antunes de Oliveira.

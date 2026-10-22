@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/126/2026/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2026-1139191705
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-26T00:00:00Z'
+  retrieved_at: '2026-10-22T18:45:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc0bc01e73012741789f32b43bc5890fd873d95db96acd86bfb36bf9538fc6d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9f6ca282810033ff7ba461ed9ae8819711d8ae7db76f8a78513986f0fa06a33
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:45:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abate de Árvores
-- Prevenção de Incêndios
-- Património
-- Empreitada de Obras Públicas
-- Proteção da Floresta
 - Administração Pública
+- Autarquia Local
+- Contraordenação
+- Domínio Público Hídrico
+- Empreitada de Obras Públicas
 - Fiscalização
 - Formulário Eletrónico
-- Isenção de Taxas e Emolumentos
-- Tribunal de Contas
 - Instituto da Conservação da Natureza e das Florestas
+- Isenção de Taxas e Emolumentos
+- Património
 - Plano de Gestão Florestal
+- Plano de Recuperação e Resiliência
+- Prejuízo Financeiro
 - Prescrição
+- Prevenção de Incêndios
+- Proteção da Floresta
 - Reabilitação
 - Receita
-- Domínio Público Hídrico
-- Autarquia Local
-- Prejuízo Financeiro
 - Situação de Calamidade
-- Plano de Recuperação e Resiliência
-- Contraordenação
 - Tempestade Kristin
+- Tribunal de Contas
 relationships:
+- type: amends
+  target: pt:numero:lei:9-C/2026
+  label: Altera a partir de 27 de junho de 2026, o artigo 17.º, adita os artigos 17.º-A, 17.º-B, 17.º-C, 17.º-D e 17.º-E,
+    à Lei n.º 9-C/2026, de 12 de março, Diário da República n.º 50/2026, Suplemento, Série I
+  source: null
+  date: '2026-03-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/166/2008/08/22/p/dre
   label: null
@@ -112,16 +118,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/9-c/2026/03/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/9-c/2026/03/12/p/dre
+- type: cites
+  target: pt:dre:1071778652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172745163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669979:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:45:07Z'
   warnings: []
   errors: []
 ---
@@ -186,7 +216,9 @@ Espaços temporários de acondicionamento de material lenhoso
 
 5 - Os encargos com a criação de ETAM são integralmente suportados por investimento privado e por verbas do Plano de Recuperação e Resiliência.
 
-###### Artigo 17.º-B — Procedimento
+Artigo 17.º-B
+
+Procedimento
 
 1 - A criação de ETAM está sujeita a comunicação prévia com prazo a apresentar à câmara municipal territorialmente competente e ao ICNF, I. P., através de formulário disponibilizado pelas entidades competentes.
 
@@ -212,7 +244,9 @@ h) A descrição dos requisitos de segurança referidos no artigo seguinte.
 
 4 - A comunicação prévia prevista no presente artigo dispensa qualquer licença, autorização ou parecer que fosse legalmente exigível para a criação de uma ETAM, sem prejuízo do artigo 17.º-D.
 
-###### Artigo 17.º-C — Requisitos de segurança
+Artigo 17.º-C
+
+Requisitos de segurança
 
 1 - A criação de ETAM deve cumprir as distâncias mínimas de segurança aplicáveis aos carregadouros, nos termos do artigo 47.º do [Decreto-Lei n.º 82/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), de 13 de outubro.
 
@@ -222,13 +256,17 @@ h) A descrição dos requisitos de segurança referidos no artigo seguinte.
 
 4 - Equipara-se à contraordenação prevista na alínea d) do n.º 1 do artigo 72.º do [Decreto-Lei n.º 82/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), de 13 de outubro, a violação do disposto no n.º 1 do presente artigo.
 
-###### Artigo 17.º-D — Ocupação temporária do domínio público e privado das autarquias
+Artigo 17.º-D
+
+Ocupação temporária do domínio público e privado das autarquias
 
 1 - As câmaras municipais podem atribuir a ocupação temporária e privativa dos bens imóveis do domínio público municipal para a constituição de ETAM, nos termos gerais.
 
 2 - As câmaras municipais podem ceder a título gratuito e temporário bens do domínio privado municipal para a constituição de ETAM.
 
-###### Artigo 17.º-E — Encerramento
+Artigo 17.º-E
+
+Encerramento
 
 1 - Do encerramento das ETAM decorrem para os proprietários ou para os responsáveis os seguintes deveres:
 
@@ -244,12 +282,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e c
 
 Visto e aprovado em Conselho de Ministros de 30 de abril de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Maria da Graça Carvalho - José Manuel Fernandes.
 
-**Promulgado em 19 de junho de 2026.**
+Promulgado em 19 de junho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 23 de junho de 2026.**
+Referendado em 23 de junho de 2026.
 
 Pelo Primeiro-Ministro, Joaquim Miranda Sarmento, Ministro de Estado e das Finanças.
+
+119948894

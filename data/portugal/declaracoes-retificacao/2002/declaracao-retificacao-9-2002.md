@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/9/2002/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-2002-253040
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-03-30T00:00:00Z'
+  retrieved_at: '2026-10-22T19:01:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7babfc80afa848c4d3545ed4eb709618a778f2e2f2c5d9878983a7fe7ab0d27d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ecf01464f46649d712b67ed38393e3673e71bee53a6046a83b686282760ad6fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:01:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Local
 - Assembleia de Freguesia
 - Assembleia Municipal
+- Autarquia Local
+- Câmara Municipal
 - Definição de Competências
 - Freguesia
 - Lei das Finanças Locais
 - Mandato Electivo
 - Presidente
-- Administração Local
-- Câmara Municipal
 - Regime Jurídico
-- Autarquia Local
 relationships:
 - type: amended_by
   target: pt:dre:73958532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:73958532:por
+  label: Alterado o art. 27.º da Lei 169/99 de 18-set, na versão republicada pela Lei 5-A/2002 de 11-jan retificada pela Decl-Ret.
+    4/2002 de 06-fev e pela presente Declaração de Retificação, pelo(a) Lei n.º 7-A/2016 - Diário da República n.º 62/2016,
+    1º Suplemento, Série I de 2016-03-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-a-2016-73958532
+  date: '2016-03-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/169/1999/09/18/p/dre
   label: null
@@ -91,16 +98,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5-a/2002/01/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5-a/2002/01/11/p/dre
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:01:23Z'
   warnings: []
   errors: []
 ---

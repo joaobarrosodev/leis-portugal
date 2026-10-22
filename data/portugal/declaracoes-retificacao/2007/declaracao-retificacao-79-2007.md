@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/79/2007/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/79-2007-640657
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:09:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f761d8b86391662370514992ca6a825724ac8c89f4898b9bd51aae2e7d523053
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79c02ed8c6e1198360b8b4b98946f924e8009b41af759421b845f5223bb06dfb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:09:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
+- Açores
+- Conselho Consultivo
 - Conselho de Gestão
 - Contra-ordenação
-- Fiscalização
-- Conselho Consultivo
-- Rede Regional de Áreas Protegidas
-- Proteção do Ambiente
 - Diversidade Biológica
-- Zona de Proteção
-- Património Natural
+- Fiscalização
+- Multa
 - Parque Marinho do Arquipélago dos Açores
 - Parque Natural de Ilha
+- Património Natural
+- Proteção do Ambiente
+- Rede Natura 2000
+- Rede Regional de Áreas Protegidas
 - Reserva Agrícola
 - Reserva Ecológica Regional
 - Reserva Florestal
-- Açores
-- Rede Natura 2000
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/15/1997/07/19/a/dre
@@ -93,16 +93,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/15/2007/06/25/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/15/2007/06/25/a/dre
+- type: cites
+  target: pt:dre:147671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635868:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:09:03Z'
   warnings: []
   errors: []
 ---

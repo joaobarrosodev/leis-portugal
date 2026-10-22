@@ -47,26 +47,44 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/187/2026/09/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2026-1171382774
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-16T00:00:00Z'
+  retrieved_at: '2026-10-22T18:53:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae3a11109b32e63441800d96763bb94e73d31791102369f91693efc7ceb65bc8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70d4d61e63ae83dbef5858312289cdeb85923650b13cbd2d0efa6292f30f3841
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:53:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira de Técnico Superior
+- Carreira Profissional
+- Comissão de Serviço
+- Descrição de Funções
+- Director Adjunto
+- Estabelecimento Prisional
+- Período Experimental
+- Pessoal Dirigente
+- Pessoal Técnico Superior
+- Subsídio de Risco
+- Suplemento Remuneratório
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:215/2012
+  label: Altera, a partir de 21 de setembro de 2026, com efeitos a 1 de julho de 2025, o artigo 19.º e adita os artigos 14.º-A,
+    15.º-A, 21.º-A, 21.º-B, 21.º-C, 26.º-A e 26.º-B ao Decreto-Lei n.º 215/2012, de 28 de setembro, Diário da República n.º
+    189/2012, Série I
+  source: null
+  date: '2012-09-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/204-a/2001/07/26/p/dre
   label: null
@@ -91,16 +109,51 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:175545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:204-A/2001
+  label: Revoga, a partir de 21 de setembro de 2026, com efeitos a 1 de julho de 2025, o artigo 58.º, o n.º 1 do artigo 59.º,
+    os artigos 60.º, 61.º, 62.º, 63.º, 64.º, 65.º, 66.º, 67.º, 68.º, 69.º e 71.º e os anexos ii e iii do Decreto-Lei n.º 204-A/2001,
+    de 26 de julho, Diário da República n.º 172/2001, 1º Suplemento, Série I-A
+  source: null
+  date: '2001-07-25'
 article_structure:
-  article_count: 34
+  article_count: 28
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:53:15Z'
   warnings: []
   errors: []
 ---
@@ -281,9 +334,9 @@ As transições a que se referem os artigos 11.º e 12.º fazem-se por lista nom
 
 3 - Nos casos em que do reposicionamento referido nos números anteriores resultar um acréscimo remuneratório inferior a 28,00 €, o trabalhador é reposicionado na posição remuneratória seguinte.
 
-4 - Aos trabalhadores referidos nos n.<sup>os</sup>1 e 2 e nos artigos 15.º e 16.º acresce um nível remuneratório com efeitos a 1 de janeiro de 2026 e outro nível remuneratório com efeitos a 1 de janeiro de 2027.
+4 - Aos trabalhadores referidos nos n.os1 e 2 e nos artigos 15.º e 16.º acresce um nível remuneratório com efeitos a 1 de janeiro de 2026 e outro nível remuneratório com efeitos a 1 de janeiro de 2027.
 
-5 - Os pontos acumulados como resultado da avaliação do desempenho nas carreiras extintas pelo presente decreto-lei, não relevam para efeitos de futura alteração do posicionamento remuneratório dos trabalhadores reposicionados nos termos dos n.<sup>os</sup>1 e 2 do presente artigo e dos artigos 15.º e 16.º
+5 - Os pontos acumulados como resultado da avaliação do desempenho nas carreiras extintas pelo presente decreto-lei, não relevam para efeitos de futura alteração do posicionamento remuneratório dos trabalhadores reposicionados nos termos dos n.os1 e 2 do presente artigo e dos artigos 15.º e 16.º
 
 ###### Artigo 15.º — Regras especiais de reposicionamento na nova tabela remuneratória de técnico superior de reintegração social
 
@@ -357,7 +410,7 @@ Provimento no cargo de diretor adjunto de estabelecimento prisional
 
 2 - Nos estabelecimentos prisionais em que sejam designados dois ou mais diretores adjuntos de estabelecimento prisional, pelo menos um dos designados deve, ainda, pertencer à carreira especial de técnico superior de reintegração social.
 
-3 - O cargo referido no n.º 1 é exercido em regime de comissão de serviço por um período de três anos, renovável por iguais períodos, sendo-lhe aplicável o disposto nos n.<sup>os</sup>4 e 5 do artigo 5.º»
+3 - O cargo referido no n.º 1 é exercido em regime de comissão de serviço por um período de três anos, renovável por iguais períodos, sendo-lhe aplicável o disposto nos n.os4 e 5 do artigo 5.º»
 
 ###### Artigo 25.º — Aditamento ao [Decreto-Lei n.º 215/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), de 28 de setembro
 
@@ -383,7 +436,9 @@ d) Exercer outras competências de coordenação e gestão, que lhe sejam atribu
 
 4 - Por despacho do diretor-geral de reinserção e serviços prisionais, sob proposta do diretor do estabelecimento prisional, é designado, de entre os diretores adjuntos, o substituto do diretor do estabelecimento prisional nas suas faltas, ausências e impedimentos.
 
-###### Artigo 15.º-A — Cargos de coordenação nas áreas da reintegração social, vigilância eletrónica e centros educativos
+Artigo 15.º-A
+
+Cargos de coordenação nas áreas da reintegração social, vigilância eletrónica e centros educativos
 
 1 - Para efeitos do exercício de funções de coordenação nas áreas da reintegração social, vigilância eletrónica e centros educativos, são criados os seguintes cargos de direção intermédia de 3.º grau:
 
@@ -407,21 +462,29 @@ e) Promover a uniformização de procedimentos, partilha de boas práticas e des
 
 f) Reportar à direção da unidade orgânica e colaborar na implementação das orientações estratégicas definidas superiormente.
 
-###### Artigo 21.º-A — Provimento no cargo de coordenador de equipa e de centro educativo
+Artigo 21.º-A
+
+Provimento no cargo de coordenador de equipa e de centro educativo
 
 1 - Os cargos de coordenador de equipa de reintegração social, de coordenador de equipa de vigilância eletrónica e de coordenador de centro educativo são providos por escolha, por despacho do membro do Governo responsável pela área da justiça, sob proposta não vinculativa do diretor-geral, de entre trabalhadores integrados na carreira especial de técnico superior de reintegração social, que sejam licenciados há, pelo menos, quatro anos e dotados de competência e aptidão para o exercício das funções de coordenação nas áreas da reintegração social, vigilância eletrónica e centros educativos, respetivamente.
 
-2 - Os cargos referidos no número anterior são exercidos em regime de comissão de serviço por um período de três anos, renovável por iguais períodos, sendo-lhe aplicável o disposto nos n.<sup>os</sup>4 e 5 do artigo 5.º
+2 - Os cargos referidos no número anterior são exercidos em regime de comissão de serviço por um período de três anos, renovável por iguais períodos, sendo-lhe aplicável o disposto nos n.os4 e 5 do artigo 5.º
 
-###### Artigo 21.º-B — Remuneração dos cargos de coordenador de equipa e de centro educativo
+Artigo 21.º-B
+
+Remuneração dos cargos de coordenador de equipa e de centro educativo
 
 Os coordenadores, a que se refere artigo 15.º-A, auferem a remuneração base correspondente a 87,5 % da soma da remuneração base e despesas de representação fixadas para o cargo de direção intermédia de 2.º grau.
 
-###### Artigo 21.º-C — Remuneração do cargo de diretor adjunto de estabelecimento prisional
+Artigo 21.º-C
+
+Remuneração do cargo de diretor adjunto de estabelecimento prisional
 
 O diretor adjunto de estabelecimento prisional aufere a remuneração base correspondente a 87,5 % da soma da remuneração base e despesas de representação fixadas para o cargo de direção intermédia de 2.º grau.
 
-###### Artigo 26.º-A — Suplemento remuneratório pelo risco associado ao exercício de cargos dirigentes
+Artigo 26.º-A
+
+Suplemento remuneratório pelo risco associado ao exercício de cargos dirigentes
 
 1 - Pelo exercício de cargos dirigentes na DGRSP é atribuído, nos termos do disposto nos números seguintes, um suplemento remuneratório, pago em 12 meses para compensação do risco inerente ao desempenho dos respetivos cargos.
 
@@ -441,7 +504,9 @@ e) Cargo de direção intermédia de 3.º grau: 50 % do valor atribuído ao carg
 
 4 - O disposto nos números anteriores não prejudica a manutenção do direito dos dirigentes que, à data da entrada em vigor do presente decreto-lei, se encontravam a auferir suplemento de risco ou ónus de função de valor superior, sendo o valor remanescente pago como adicional, enquanto se mantiverem no exercício das respetivas funções.
 
-###### Artigo 26.º-B — Suplemento remuneratório pelo risco associado ao exercício de funções por trabalhadores das carreiras especiais e gerais
+Artigo 26.º-B
+
+Suplemento remuneratório pelo risco associado ao exercício de funções por trabalhadores das carreiras especiais e gerais
 
 1 - Aos trabalhadores integrados em carreiras gerais ou especiais a exercer funções na DGRSP, é atribuído, nos termos do disposto nos números seguintes, um suplemento remuneratório, pago em 12 meses, para compensação do risco inerente ao desempenho das respetivas funções.
 
@@ -483,15 +548,15 @@ O presente decreto-lei produz efeitos a 1 de julho de 2025.
 
 Visto e aprovado em Conselho de Ministros de 23 de julho de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Rita Alarcão Júdice.
 
-**Promulgado em 4 de setembro de 2026.**
+Promulgado em 4 de setembro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 7 de setembro de 2026.**
+Referendado em 7 de setembro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 3.º)
 
@@ -632,3 +697,7 @@ Tabela remuneratória da carreira especial de técnico de reintegração social
 | Níveis remuneratórios da TRU | 11 | 12 | 14 | 17 | 20 | 22 | 24 | 28 | 32 |
 
 * Posição remuneratória transitória, a que se refere o n.º 1 do artigo 16.º
+
+119949582
+
+.Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-indent:0px; text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:18px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { text-indent:0px; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; }

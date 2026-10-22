@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/03/05500/0006100104.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/13/2022/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-2022-180657816
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-03-18T00:00:00Z'
+  retrieved_at: '2026-10-22T19:13:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f586c2d9ce8f7dd44d4cb7427abf78f7b61a40839293edfa6b3045bb6ff1a2a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3df3b6803c493aeaba10715ace634e7a2a59b73dd105c7c84d452fbbfb6a742e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:13:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ajuda Alimentar
-- Pobreza
-- Grupo Desfavorecido
-- Regulamentação de Atos Legislativos
-- Pessoa em Situação de Dependência
 - Ação Social
-- Fundos CE
+- Ajuda Alimentar
 - Assistência Social
+- Fundo Europeu de Apoio aos Carenciados
+- Fundos CE
+- Grupo Desfavorecido
 - Insuficiência Económica
+- Pessoa em Situação de Dependência
+- Pobreza
 - Política Social
-- Regulamento
 - PORTUGAL 2020
 - Programa Operacional de Apoio às Pessoas Mais Carenciadas
-- Fundo Europeu de Apoio aos Carenciados
+- Regulamentação de Atos Legislativos
+- Regulamento
 relationships:
 - type: cites
   target: celex:32014R0223
@@ -142,16 +142,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/51/2017/02/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/51/2017/02/02/p/dre
+- type: cites
+  target: pt:dre:105579672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106388651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116108107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123025742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156547110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159432383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177847670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66702133:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67618691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70462181:por
+  label: null
+  source: null
 article_structure:
   article_count: 115
-  section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 24
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:13:43Z'
   warnings: []
   errors: []
 ---
@@ -208,7 +272,7 @@ Secretaria-Geral, 16 de março de 2022. - A Secretária-Geral Adjunta, Catarina 
 
 Republicação do Regulamento Geral do Fundo de Auxílio Europeu às Pessoas Mais Carenciadas (FEAC) e Regulamento Específico do Programa Operacional de Apoio às Pessoas Mais Carenciadas (POAPMC), anexo à [Portaria n.º 190-B/2015](https://diariodarepublica.pt/dr/detalhe/portaria/190-b-2015-67618691), de 26 de junho, da qual faz parte integrante
 
-# PARTE I — Disposições gerais do Fundo de Auxílio Europeu às Pessoas Mais Carenciadas (FEAC)
+## PARTE I — Disposições gerais do Fundo de Auxílio Europeu às Pessoas Mais Carenciadas (FEAC)
 
 ### CAPÍTULO I — Objeto, âmbito e disposições gerais
 
@@ -798,7 +862,7 @@ d) A interrupção não autorizada da operação por período superior a 60 dias
 
 5 - A revogação do apoio determina a restituição do apoio financeiro recebido, nos termos do artigo 26.º do [Decreto-Lei n.º 159/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2014-58605739), de 27 de outubro, na redação em vigor, aplicável com as necessárias adaptações.
 
-# PARTE II — Regulamento Específico do Programa Operacional de Auxílio às Pessoas Mais Carenciadas (POAPMC)
+## PARTE II — Regulamento Específico do Programa Operacional de Auxílio às Pessoas Mais Carenciadas (POAPMC)
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -1776,7 +1840,7 @@ d) Termos a constar no protocolo de parceria.
 
 4 - O aviso de abertura de concurso ou convite concretiza as especificidades da distribuição indireta enunciadas no número anterior que devem ser consideradas, bem como os aspetos previstos nas alíneas a) a c) do n.º 1.
 
-# PARTE III — Disposições finais e transitórias
+## PARTE III — Disposições finais e transitórias
 
 ### CAPÍTULO I — Disposições finais
 
@@ -1809,3 +1873,5 @@ As despesas autorizadas pelas [Resoluções do Conselho de Ministros n.os 100/20
 2 - Podem ser consideradas elegíveis as despesas realizadas pelos beneficiários, no âmbito da Medida 1, antes da aprovação das candidaturas que as integram, desde que tenham ocorrido a partir de 1 de dezembro de 2013, não se lhes aplicando o disposto no n.º 3 do artigo 58.º e o n.º 7 do artigo 72.º
 
 3 - O disposto no número anterior aplica-se apenas às candidaturas que sejam apresentadas até 31 de dezembro de 2015.
+
+115126689

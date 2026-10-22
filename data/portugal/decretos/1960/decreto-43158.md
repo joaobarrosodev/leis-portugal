@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43158-1960-514633
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-09-08T00:00:00Z'
+  retrieved_at: '2026-10-22T19:19:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd638bdb0f3ea9cd90ebac1d4d3cbe42d01946ce23d4e9ef77837666120e6027
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20a06cc18d9e96564b2dfd8cbe8da46353625e298735a6d5ead20a03981b5b92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:19:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:237406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429442:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:19:37Z'
   warnings: []
   errors: []
 ---
@@ -92,15 +104,15 @@ Verificando-se, nestes casos, a urgência prevista na alínea a) do do n.º IV d
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e em promulgo o seguinte:
 
-###### Artigo 1.º As secções femininas dos liceus do ultramar de frequência superior a 400 alunas terão uma vice-reitora, que será directora de um dos ciclos, por inerência, e uma directora para o outro ciclo.
+Artigo 1.º As secções femininas dos liceus do ultramar de frequência superior a 400 alunas terão uma vice-reitora, que será directora de um dos ciclos, por inerência, e uma directora para o outro ciclo.
 
-###### Art. 2.º Compete aos governadores designar os liceus em cujas secretarias deverão ser arrecadados os livros de termos de exames e passagens por média dos alunos dos institutos cujas habilitações são consideradas oficiais, nos termos do n.º 3.º da [Portaria n.º 12238](https://diariodarepublica.pt/dr/detalhe/portaria/12238-1948-241975), de 9 de Janeiro de 1948.
+Art. 2.º Compete aos governadores designar os liceus em cujas secretarias deverão ser arrecadados os livros de termos de exames e passagens por média dos alunos dos institutos cujas habilitações são consideradas oficiais, nos termos do n.º 3.º da [Portaria n.º 12238](https://diariodarepublica.pt/dr/detalhe/portaria/12238-1948-241975), de 9 de Janeiro de 1948.
 
-###### Art. 3.º Passa a funcionar como liceu, a partir do ano lectivo de 1960-1961, a secção do Liceu Gil Eanes, da cidade da Praia, criada pelo artigo 1.º do [Decreto n.º 40198](https://diariodarepublica.pt/dr/detalhe/decreto/40198-1955-237406), de 22 de Junho de 1955.
+Art. 3.º Passa a funcionar como liceu, a partir do ano lectivo de 1960-1961, a secção do Liceu Gil Eanes, da cidade da Praia, criada pelo artigo 1.º do [Decreto n.º 40198](https://diariodarepublica.pt/dr/detalhe/decreto/40198-1955-237406), de 22 de Junho de 1955.
 
-###### Art. 4.º São criados, no quadro comum dos liceus do ultramar, para serviço na província de Cabo Verde, os seguintes novos lugares, que serão dotados sòmente quando se tornarem necessários, para o funcionamento do 3.º ciclo no Liceu da Praia: um do 2.º grupo, dois do 3.º e um do 7.º
+Art. 4.º São criados, no quadro comum dos liceus do ultramar, para serviço na província de Cabo Verde, os seguintes novos lugares, que serão dotados sòmente quando se tornarem necessários, para o funcionamento do 3.º ciclo no Liceu da Praia: um do 2.º grupo, dois do 3.º e um do 7.º
 
-###### Art. 5.º Aos liceus da província de Cabo Verde compete o seguinte pessoal:
+Art. 5.º Aos liceus da província de Cabo Verde compete o seguinte pessoal:
 
 Liceu da Praia:
 
@@ -118,19 +130,19 @@ Quadro complementar: um professor de Canto Coral, um de Educação Física, uma 
 
 Quadro de secretaria (privativo): um segundo-oficial, um aspirante, um escriturário de 2.ª classe e um dactilógrafo.
 
-###### Art. 6.º São criados quinze lugares de professor de posto escolar na província de Cabo Verde.
+Art. 6.º São criados quinze lugares de professor de posto escolar na província de Cabo Verde.
 
-###### Art. 7.º É prorrogada para o ano lectivo de 1960-1961 a faculdade conferida ao governador da província de S. Tomé e Príncipe pela parte final do n.º 1.º do artigo 6.º do [Decreto-Lei n.º 42512](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42512-1959-429442), de 18 de Setembro de 1959, sobre a admissão à matrícula no Liceu D. João II de alunos inscritos no ensino particular no ano findo.
+Art. 7.º É prorrogada para o ano lectivo de 1960-1961 a faculdade conferida ao governador da província de S. Tomé e Príncipe pela parte final do n.º 1.º do artigo 6.º do [Decreto-Lei n.º 42512](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42512-1959-429442), de 18 de Setembro de 1959, sobre a admissão à matrícula no Liceu D. João II de alunos inscritos no ensino particular no ano findo.
 
-###### Art. 8.º É aumentado de três serventes de 1.ª classe e cinco de 2.ª o quadro do pessoal assalariado dos serviços de instrução da província de S. Tomé e Príncipe.
+Art. 8.º É aumentado de três serventes de 1.ª classe e cinco de 2.ª o quadro do pessoal assalariado dos serviços de instrução da província de S. Tomé e Príncipe.
 
-###### Art. 9.º É criado um segundo lugar de professora de Lavores Femininos na secção feminina do Liceu Salazar, de Lourenço Marques.
+Art. 9.º É criado um segundo lugar de professora de Lavores Femininos na secção feminina do Liceu Salazar, de Lourenço Marques.
 
-###### Art. 10.º São extensivas à cidade de Nova Lisboa, na província de Angola, as disposições dos Decretos n.os 39291, de 24 de Julho de 1953, 39622, de 26 de Abril de 1954, e 40290, de 19 de Agosto de 1955, que permitem realizar no ultramar provas de exame de aptidão e de admissão a diversos graus e ramos de ensino.
+Art. 10.º São extensivas à cidade de Nova Lisboa, na província de Angola, as disposições dos Decretos n.os 39291, de 24 de Julho de 1953, 39622, de 26 de Abril de 1954, e 40290, de 19 de Agosto de 1955, que permitem realizar no ultramar provas de exame de aptidão e de admissão a diversos graus e ramos de ensino.
 
-###### Art. 11.º Ficam autorizados os governadores das províncias a que se refere o presente decreto a abrir, observadas as disposições legais aplicáveis, os créditos especiais necessários para a satisfação dos encargos dele reultantes, servindo de contrapartida disponibilidades ou recursos orçamentais.
+Art. 11.º Ficam autorizados os governadores das províncias a que se refere o presente decreto a abrir, observadas as disposições legais aplicáveis, os créditos especiais necessários para a satisfação dos encargos dele reultantes, servindo de contrapartida disponibilidades ou recursos orçamentais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 8 de Setembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

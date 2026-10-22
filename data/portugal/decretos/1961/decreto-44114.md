@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44114-1961-184560
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-12-23T00:00:00Z'
+  retrieved_at: '2026-10-22T19:27:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b41e922738f98c1b10bfba6868bd73fb6fa717ede75eeb0e40efaed47d11232
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 009b0aa5316a829357c70227c08bbeda7bca752ff24a1e2ee6f2ca0703506255
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:27:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 19
-  section_count: 30
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:27:30Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +112,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
+Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
 
 Encargos gerais da Nação
 
@@ -154,37 +178,37 @@ N.º 2) «Telefones» ... +20000$00
 
 N.º 3) «Transportes» ... +50000$00
 
-###### Art. 2.º São abertos no Ministério das Finanças créditos especiais, no montante de 5952679$20, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças créditos especiais, no montante de 5952679$20, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Encargos gerais da Nação
 
-### Capítulo 2.º «Presidência do Conselho»:
+Capítulo 2.º «Presidência do Conselho»:
 
-###### Artigo 20.º, n.º 1), alínea a) «Veículos com motor: despesas com a reparação ...» ... 50000$00
+Artigo 20.º, n.º 1), alínea a) «Veículos com motor: despesas com a reparação ...» ... 50000$00
 
-### Capítulo 3.º «Representação Nacional»:
+Capítulo 3.º «Representação Nacional»:
 
 Assembleia Nacional e Câmara Corporativa
 
-###### Artigo 68.º, n.º 1) «Transportes ...» .... 500000$00
+Artigo 68.º, n.º 1) «Transportes ...» .... 500000$00
 
 Secretaria da Assembleia Nacional
 
-###### Artigo 76.º, n.º 1) «Luz, ...» ... 70000$00
+Artigo 76.º, n.º 1) «Luz, ...» ... 70000$00
 
-###### Artigo 78.º, n.º 1) «Publicidade ...» ... 65000$00
+Artigo 78.º, n.º 1) «Publicidade ...» ... 65000$00
 
-### Capítulo 4.º «Secretariado Nacional da Informação, Cultura Popular e Turismo»:
+Capítulo 4.º «Secretariado Nacional da Informação, Cultura Popular e Turismo»:
 
-###### Artigo 83.º, n.º 1) «Móveis» ... 1917167$40
+Artigo 83.º, n.º 1) «Móveis» ... 1917167$40
 
-###### Artigo 87.º, n.º 1) «Correios e telégrafos» ... 344110$00
+Artigo 87.º, n.º 1) «Correios e telégrafos» ... 344110$00
 
-### Capítulo 7.º «Secretaria de Estado da Aeronáutica - Gabinete do Secretário de Estado»:
+Capítulo 7.º «Secretaria de Estado da Aeronáutica - Gabinete do Secretário de Estado»:
 
-###### Artigo 130.º, n.º 3) «Subsídios de transporte ...: Paris» ... 27000$00
+Artigo 130.º, n.º 3) «Subsídios de transporte ...: Paris» ... 27000$00
 
-###### Artigo 135.º, n.º 1) «Pagamentos de serviços ...»:
+Artigo 135.º, n.º 1) «Pagamentos de serviços ...»:
 
 Alínea a) «Adido aeronáutico em»:
 
@@ -198,9 +222,9 @@ Paris ... 66000$00
 
 Ministério das Finanças
 
-### Capítulo 7.º «Direcção-Geral da Fazenda Pública - Administração dos Próprios da Fazenda Pública - Palácios nacionais e outros bens»:
+Capítulo 7.º «Direcção-Geral da Fazenda Pública - Administração dos Próprios da Fazenda Pública - Palácios nacionais e outros bens»:
 
-###### Artigo 87.º «Aquisições de utilização permanente»:
+Artigo 87.º «Aquisições de utilização permanente»:
 
 N.º 4) «Semoventes»:
 
@@ -208,15 +232,15 @@ Alínea a) «Viaturas com motores» ... 287100$00
 
 Ministério dos Negócios Estrangeiros
 
-### Capítulo 3.º «Direcção Geral dos Negócios Políticos e da Administração Interna - Serviços externos da Direcção-Geral»:
+Capítulo 3.º «Direcção Geral dos Negócios Políticos e da Administração Interna - Serviços externos da Direcção-Geral»:
 
-###### Artigo 26.º «Construções e obras novas»:
+Artigo 26.º «Construções e obras novas»:
 
 N.º 2) «Edifício da Embaixada no Rio de Janeiro» ... 2000000$00
 
 Ministério da Educação Nacional
 
-### Capítulo 3.º «Direcção-Geral do Ensino Superior e das Belas-Artes»:
+Capítulo 3.º «Direcção-Geral do Ensino Superior e das Belas-Artes»:
 
 Instrução universitária
 
@@ -224,95 +248,95 @@ Universidade de Coimbra
 
 Reitoria, secretaria e tesouraria
 
-###### Artigo 65.º «Material de consumo corrente»:
+Artigo 65.º «Material de consumo corrente»:
 
 N.º 1) «Impressos» ... 10000$00
 
 N.º 2) «Artigos de expediente ...» ... 2500$00
 
-###### Artigo 67.º, n.º 1) «Correios e telégrafos» ... 3780$00
+Artigo 67.º, n.º 1) «Correios e telégrafos» ... 3780$00
 
 Faculdade de Direito
 
-###### Artigo 102.º, n.º 1) «Luz, ...» ... 10000$00
+Artigo 102.º, n.º 1) «Luz, ...» ... 10000$00
 
 Faculdade de Medicina
 
-###### Artigo 111.º, n.º 1) «Luz, ...» ... 70000$00
+Artigo 111.º, n.º 1) «Luz, ...» ... 70000$00
 
-###### Artigo 112.º, n.º 2) «Telefones» ... 11336$80
+Artigo 112.º, n.º 2) «Telefones» ... 11336$80
 
 Instrução artística
 
 Teatro Nacional de S. Carlos
 
-###### Artigo 644.º, n.º 1) «Luz, ...» ... 10000$00
+Artigo 644.º, n.º 1) «Luz, ...» ... 10000$00
 
-### Capítulo 6.º «Direcção-Geral do Ensino Primário - Serviços docentes - Ensino primário»:
+Capítulo 6.º «Direcção-Geral do Ensino Primário - Serviços docentes - Ensino primário»:
 
-###### Artigo 874.º, n.º 1) «Gratificações pela regência de cursos de educação de adultos» ... 200000$00
+Artigo 874.º, n.º 1) «Gratificações pela regência de cursos de educação de adultos» ... 200000$00
 
 ... 317616$80
 
 Ministério da Economia
 
-### Capítulo 19.º «Instituto Nacional de Investigação Industrial»:
+Capítulo 19.º «Instituto Nacional de Investigação Industrial»:
 
-###### Artigo 308.º, n.º 3) «Aplicação das receitas previstas no artigo 8.º do [Decreto-Lei n.º 42120](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42120-1959-592075), ...» ... 300000$00
+Artigo 308.º, n.º 3) «Aplicação das receitas previstas no artigo 8.º do [Decreto-Lei n.º 42120](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42120-1959-592075), ...» ... 300000$00
 
 ... 5952679$20
 
-###### Art. 3.º Como compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+Art. 3.º Como compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 8.º, artigo 243.º «Instituto Nacional de Investigação Industrial» ... 300000$00
+Capítulo 8.º, artigo 243.º «Instituto Nacional de Investigação Industrial» ... 300000$00
 
 Encargos gerais da Nação
 
-### Capítulo 2.º, artigo 17.º, n.º 2) ... 50000$00
+Capítulo 2.º, artigo 17.º, n.º 2) ... 50000$00
 
-### Capítulo 3.º, artigo 70.º, n.º 1) ... 28729$70
+Capítulo 3.º, artigo 70.º, n.º 1) ... 28729$70
 
-### Capítulo 3.º, artigo 70.º, n.º 2), alínea a) ... 14711$00
+Capítulo 3.º, artigo 70.º, n.º 2), alínea a) ... 14711$00
 
-### Capítulo 3.º, artigo 70.º, n.º 2), alínea b) ... 16559$30
+Capítulo 3.º, artigo 70.º, n.º 2), alínea b) ... 16559$30
 
-### Capítulo 3.º, artigo 72.º, n.º 2), alínea a) ... 20000$00
+Capítulo 3.º, artigo 72.º, n.º 2), alínea a) ... 20000$00
 
-### Capítulo 3.º, artigo 73.º, n.º 1) ... 15000$00
+Capítulo 3.º, artigo 73.º, n.º 1) ... 15000$00
 
-### Capítulo 3.º, artigo 74.º, n.º 3) ... 5000$00
+Capítulo 3.º, artigo 74.º, n.º 3) ... 5000$00
 
-### Capítulo 4.º, artigo 80.º, n.º 1), alínea a) ... 50000$00
+Capítulo 4.º, artigo 80.º, n.º 1), alínea a) ... 50000$00
 
-### Capítulo 4.º, artigo 80.º, n.º 2), alínea a) ... 20000$00
+Capítulo 4.º, artigo 80.º, n.º 2), alínea a) ... 20000$00
 
-### Capítulo 4.º, artigo 80.º, n.º 2), alínea d) ... 170000$00
+Capítulo 4.º, artigo 80.º, n.º 2), alínea d) ... 170000$00
 
-### Capítulo 4.º, artigo 80.º, n.º 3), alínea a) ... 50000$00
+Capítulo 4.º, artigo 80.º, n.º 3), alínea a) ... 50000$00
 
-### Capítulo 4.º, artigo 80.º, n.º 4) ... 54110$00
+Capítulo 4.º, artigo 80.º, n.º 4) ... 54110$00
 
-### Capítulo 6.º, artigo 112.º, n.º 1) ... 636685$00
+Capítulo 6.º, artigo 112.º, n.º 1) ... 636685$00
 
 ... 1130795$00
 
 Ministério das Finanças
 
-### Capítulo 6.º, artigo 48.º, n.º 1) ... 2204267$40
+Capítulo 6.º, artigo 48.º, n.º 1) ... 2204267$40
 
 Ministério dos Negócios Estrangeiros
 
-### Capítulo 3.º, artigo 26.º, n.º 1) ... 2000000$00
+Capítulo 3.º, artigo 26.º, n.º 1) ... 2000000$00
 
 Ministério da Educação Nacional
 
-### Capítulo 3.º, artigo 580.º, n.º 1) ... 200000$00
+Capítulo 3.º, artigo 580.º, n.º 1) ... 200000$00
 
-### Capítulo 4.º, artigo 744.º, n.º 1), alínea b) ... 1336$80
+Capítulo 4.º, artigo 744.º, n.º 1), alínea b) ... 1336$80
 
-### Capítulo 5.º, artigo 803.º, n.º 1):
+Capítulo 5.º, artigo 803.º, n.º 1):
 
 Escola Industrial e Comercial de Águeda ... 3780$00
 
@@ -322,15 +346,15 @@ Escola Industrial e Comercial de Vila Real ... 22500$00
 
 ... 36280$00
 
-### Capítulo 5.º, artigo 805.º, n.º 2), alínea b) ... 5000$00
+Capítulo 5.º, artigo 805.º, n.º 2), alínea b) ... 5000$00
 
-### Capítulo 10.º, artigo 923.º ... 75000$00
+Capítulo 10.º, artigo 923.º ... 75000$00
 
 ... 317616$80
 
 ... 5952679$20
 
-###### Art. 4.º É autorizada a seguinte alteração de rubrica no orçamento dos encargos gerais da Nação:
+Art. 4.º É autorizada a seguinte alteração de rubrica no orçamento dos encargos gerais da Nação:
 
 À dotação do capítulo 4.º, artigo 83.º, n.º 1), reforçada por força do artigo 2.º do presente diploma, é aposta a seguinte observação:
 
@@ -338,6 +362,6 @@ Escola Industrial e Comercial de Vila Real ... 22500$00
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Dezembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

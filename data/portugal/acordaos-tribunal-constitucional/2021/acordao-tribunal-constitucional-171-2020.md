@@ -30,7 +30,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/05/10200/0001200062.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -52,18 +52,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/171/2021/05/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/171-2020-164091786
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-26T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6f3675b9b35452e923a51803fc2f475d46fe7687e2981e17f0d8f39e3cdf59a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e76cf06f70b617b69f6e1bf95f9ae3629e6be0ff8e0332cfa78a7542960aa12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,14 +71,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Interpretação do Direito
-- Tribunal Constitucional
-- Legalidade
 - Assembleia Legislativa
-- Plenario
-- Madeira.região Autónoma
-- Regimento
 - Direito de Voto
+- Interpretação do Direito
+- Legalidade
+- Madeira.região Autónoma
+- Plenario
+- Regimento
+- Tribunal Constitucional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/12/2
@@ -120,16 +120,108 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolalram/9/2015/09/15/m/dre
   label: null
   source: http://data.dre.pt/eli/resolalram/9/2015/09/15/m/dre
+- type: cites
+  target: pt:dre:115138846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115991688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130399863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132783836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:137808122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70297427:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:09Z'
   warnings: []
   errors: []
 ---
@@ -310,7 +402,9 @@ Quórum
 
 2 - As comissões funcionarão estando presentes mais de metade dos seus membros.
 
-###### Artigo 104.º — Requisitos da votação
+Artigo 104.º
+
+Requisitos da votação
 
 1 - Salvo nos casos previstos na Constituição, no Estatuto da Região ou no Regimento, todas as deliberações são tomadas à pluralidade de votos, estando presente a maioria do número legal de deputados, na última reunião de cada semana, nos termos do disposto no n.º 3 do artigo 74.º
 
@@ -356,7 +450,9 @@ A [Lei Orgânica n.º 2/2003](https://diariodarepublica.pt/dr/detalhe/lei-organi
 
 O direito de oposição é um elemento garantístico da separação entre o executivo e o legislativo com base na ideia clássica do legislativo como controlo do executivo, tendo em conta que a titularidade do poder político se reconduz a uma maioria governamental e parlamentar e a uma oposição, normalmente, minoritária, com competências de controlo. A constituição institucionalizou o direito de oposição, como contrapeso e limite ao poder da maioria através de uma oposição ativa conducente à possibilidade de contestação das linhas de direção política.
 
-###### Artigo 114.º — (Partidos políticos e direito de oposição)
+Artigo 114.º
+
+(Partidos políticos e direito de oposição)
 
 1 - Os partidos políticos participam nos órgãos baseados no sufrágio universal e directo, de acordo com a sua representatividade eleitoral.
 
@@ -1203,3 +1299,5 @@ Havendo dúvidas sobre as consequências de uma declaração de inconstitucional
 A solução mais correta teria sido, portanto, que se tivesse conhecido do pedido e, sendo a norma em causa declarada inconstitucional, o Tribunal Constitucional tivesse utilizado o poder que tem de limitar efeitos ao abrigo do artigo 282.º, n.º 4, da Constituição no momento e do modo processualmente corretos. - Maria de Fátima Mata-Mouros
 
 Acórdão retificado pelo Acórdão n.º 227/2021.
+
+114235801

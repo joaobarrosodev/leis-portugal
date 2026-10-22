@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45764-1964-577366
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-06-18T00:00:00Z'
+  retrieved_at: '2026-10-22T19:40:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57fd51030ef100f733261948ef79b37936588e0a1151e8321c91e336af656a1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2a23e5c874f89e7a679422ce55f1ea1bb704705f129c830bc927b0688b9ff7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:40:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232336:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:40:54Z'
   warnings: []
   errors: []
 ---
@@ -85,10 +89,10 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. O artigo 23.º do Regulamento da Direcção-Geral dos Registos e do Notariado, aprovado pelo [Decreto n.º 40740](https://diariodarepublica.pt/dr/detalhe/decreto/40740-1956-232336), de 24 de Agosto de 1956, passa a ter a seguinte redacção:
+Artigo único. O artigo 23.º do Regulamento da Direcção-Geral dos Registos e do Notariado, aprovado pelo [Decreto n.º 40740](https://diariodarepublica.pt/dr/detalhe/decreto/40740-1956-232336), de 24 de Agosto de 1956, passa a ter a seguinte redacção:
 
-###### Art. 23.º Os lugares referidos nos artigos antecedentes podem ser desempenhados por conservadores, notários, magistrados judiciais ou do Ministério Público em regime de comissão de serviço, por períodos renováveis de três anos.
+Art. 23.º Os lugares referidos nos artigos antecedentes podem ser desempenhados por conservadores, notários, magistrados judiciais ou do Ministério Público em regime de comissão de serviço, por períodos renováveis de três anos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 18 de Junho de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - João de Matos Antunes Varela.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/05/09000/0001900043.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/9/2026/05/11/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2026-1118713684
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-11T00:00:00Z'
+  retrieved_at: '2026-10-22T18:40:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dda81a0568eb7e042ebe3fac7a43405e95cea0c36e130ee61365cd1b9c2c3a51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e61821804ce34547ca2ec4cb3b5bb9b164b38ffe0fa4263da4e049cb72031516
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:40:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Energia Elétrica
+- Centro Eletroprodutor
+- Comunidade de Energia Renovável
 - Consumo de Energia
 - Contra-ordenação
 - Contrato de Aquisição de Energia
+- Energia Elétrica
 - Energia Renovável
-- Produção de Energia Elétrica
 - Madeira.região Autónoma
-- Sistema Elétrico Nacional
-- Plataforma Eletrónica
-- Centro Eletroprodutor
 - Operador de Energia Elétrica
-- Comunidade de Energia Renovável
+- Plataforma Eletrónica
+- Produção de Energia Elétrica
+- Sistema Elétrico Nacional
 relationships:
 - type: cites
   target: celex:31998L0070
@@ -143,6 +143,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:122777646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125692189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125865392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153013708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177634016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206297249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58406974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66528823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69951097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:898705893:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-legislativo-regional:1/2021/M
+  label: Revoga, a partir de 12 de maio de 2026, nos termos dos artigos 44.º e 45.º do presente diploma, o Decreto Legislativo
+    Regional n.º 1/2021/M, de 6 de janeiro, Diário da República n.º 3/2021, Série I
+  source: null
+  date: '2021-01-06'
 - type: transposes
   target: celex:31998L0070
   label: null
@@ -158,13 +232,13 @@ relationships:
 article_structure:
   article_count: 46
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:40:45Z'
   warnings: []
   errors: []
 ---
@@ -193,7 +267,7 @@ A revisão do quadro legal do autoconsumo é uma ferramenta para alcançar estes
 
 O conceito de «proximidade» tem particular relevância nas regiões insulares e ultraperiféricas como a RAM, onde a dispersão populacional, as características topográficas e a configuração das redes elétricas exigem uma abordagem diferenciada. Esta flexibilidade assegura que a coesão territorial, a justiça energética e a integração regional sejam compatíveis com os princípios de eficiência técnica e de qualidade de serviço. Deste modo, pretende-se assegurar um modelo insular de autoconsumo adaptado à realidade ultraperiférica, promovendo simultaneamente a inovação, a equidade e a sustentabilidade energética.
 
-Assim, a Assembleia Legislativa da Região Autónoma da Madeira, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º, no n.º 1 do artigo 228.º e no n.º 1 do artigo 232.º da Constituição da República Portuguesa, na alínea c) do n.º 1 do artigo 37.º, nas alíneas l) e oo) do artigo 40.º e no n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, e no n.º 2 do artigo 264.º do [Decreto-Lei n.º 15/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), de 14 de janeiro, na sua redação atual, decreta o seguinte:
+Assim, a Assembleia Legislativa da Região Autónoma da Madeira, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º, no n.º 1 do artigo 228.º e no n.º 1 do artigo 232.º da Constituição da República Portuguesa, na alínea c) do n.º 1 do artigo 37.º, nas alíneas l) e oo) do artigo 40.º e no n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, e no n.º 2 do artigo 264.º do [Decreto-Lei n.º 15/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), de 14 de janeiro, na sua redação atual, decreta o seguinte:
 
 ### CAPÍTULO I — DISPOSIÇÕES GERAIS
 
@@ -315,7 +389,7 @@ a) No autoconsumo individual (ACI), ao respetivo autoconsumidor;
 
 b) No autoconsumo coletivo (ACC), ao condomínio representado pelo respetivo administrador, à EGAC em representação dos autoconsumidores ou, caso exista, à CER.
 
-3 - Nos procedimentos de controlo prévio previstos nos n.<sup>os</sup>2, 3 e 5 do artigo seguinte são emitidos os seguintes títulos:
+3 - Nos procedimentos de controlo prévio previstos nos n.os2, 3 e 5 do artigo seguinte são emitidos os seguintes títulos:
 
 a) Comprovativo da apresentação da comunicação prévia que habilita a ligação de UPAC à RESPM e a entrada em exploração da mesma;
 
@@ -343,7 +417,7 @@ c) Certificado de exploração e licença de exploração que habilita a UPAC a 
 
 9 - Estão sujeitos a registo prévio e a certificado de exploração, bem como a registo na DREN, os projetos de investigação e desenvolvimento, demonstração e teste, em ambiente real, de tecnologias, produtos, serviços, processos e modelos inovadores, no âmbito das atividades de produção, armazenamento para autoconsumo com capacidade instalada superior a 30 kW.
 
-10 - A instalação em UPAC já existente de novas unidades de produção que utilizem diversa fonte primária ou de instalações de armazenamento está sujeita ao controlo prévio que lhes seja aplicável nos termos definidos nos n.<sup>os</sup>2 e 3, sendo os respetivos títulos averbados aos títulos preexistentes relativos ao centro eletroprodutor.
+10 - A instalação em UPAC já existente de novas unidades de produção que utilizem diversa fonte primária ou de instalações de armazenamento está sujeita ao controlo prévio que lhes seja aplicável nos termos definidos nos n.os2 e 3, sendo os respetivos títulos averbados aos títulos preexistentes relativos ao centro eletroprodutor.
 
 11 - A integração ou exclusão dos autoconsumidores nos respetivos títulos de controlo prévio, nos casos de ACC ou CER, efetua-se mediante comunicação no Portal e dá lugar a averbamento, a efetuar pela DREN, ao respetivo título.
 
@@ -395,7 +469,7 @@ b) Dados de consumo recolhidos pelos sistemas de telecontagem ou por equipamento
 
 8 - É permitido à UPAC existente a associação de mais capacidade de produção que venha a ser instalada em local distinto da IU, nos termos previstos no presente artigo.
 
-9 - Carece de parecer favorável do operador da RESPM a instalação de unidades de produção nos termos dos n.<sup>os</sup>5 e 8.
+9 - Carece de parecer favorável do operador da RESPM a instalação de unidades de produção nos termos dos n.os5 e 8.
 
 ###### Artigo 8.º — Competência
 
@@ -695,7 +769,7 @@ ii) Nos casos de UPAC com potência instalada superior a 1 MW, desde que a alter
 
 10 - A contagem efetuada nos termos do número anterior deve garantir que não é contabilizada como energia elétrica total consumida pelos autoconsumidores da UPAC a energia consumida pelos clientes não aderentes ao autoconsumo.
 
-11 - Os custos relativos à instalação dos sistemas de contagem em cada IU referidos nos n.<sup>os</sup>7 e 9 são suportados pelo operador da rede e recuperados através das tarifas de uso das redes, nos termos a definir pela ERSE.
+11 - Os custos relativos à instalação dos sistemas de contagem em cada IU referidos nos n.os7 e 9 são suportados pelo operador da rede e recuperados através das tarifas de uso das redes, nos termos a definir pela ERSE.
 
 12 - O equipamento que mede a energia produzida pela UPAC deve permitir a recolha remota do respetivo diagrama de carga, devendo, para qualquer nível de potência instalada, a entrada em exploração da UPAC, para ACC, estar condicionada a testes de comunicação bem-sucedidos para que o operador de rede possa aceder remotamente ao diagrama de carga da energia produzida.
 
@@ -709,7 +783,7 @@ ii) Nos casos de UPAC com potência instalada superior a 1 MW, desde que a alter
 
 4 - Caso não tenham sido estabelecidas e publicadas normas europeias, cada tipo de equipamento deve satisfazer os requisitos das normas internacionais publicadas pela ISO/IEC - International Organization for Standardization e International Electrotechnical Commission.
 
-5 - Quando não existam as normas referidas nos n.<sup>os</sup>3 e 4, os equipamentos devem conformar-se com as normas ou especificações técnicas portuguesas relativas ao equipamento em causa, que estejam publicadas pelo Instituto Português da Qualidade, I. P.
+5 - Quando não existam as normas referidas nos n.os3 e 4, os equipamentos devem conformar-se com as normas ou especificações técnicas portuguesas relativas ao equipamento em causa, que estejam publicadas pelo Instituto Português da Qualidade, I. P.
 
 ###### Artigo 25.º — Entidades instaladoras de Unidade de Produção para Autoconsumo
 
@@ -1015,10 +1089,12 @@ e) O encerramento da UPAC.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 17 de março de 2026.
 
-**A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.**
+A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.
 
-**Assinado em 5 de maio de 2026.**
+Assinado em 5 de maio de 2026.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Paulo Duarte Barreto Ferreira.
+
+119948423

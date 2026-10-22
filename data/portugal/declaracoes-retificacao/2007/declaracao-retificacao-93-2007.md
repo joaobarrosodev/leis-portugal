@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/93/2007/10/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/93-2007-642005
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-18T00:00:00Z'
+  retrieved_at: '2026-10-22T19:09:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e0421b87d446b5d68ba4499ad96e0e68598518f3bcfe92d6bbfd4a13e3ec297
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62e5be29f21bfd3b527227ff2268a5f0f5cb63f2cc5be9fbc34f96f4b6b7d1be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:09:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,36 +67,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Fiscal Único
-- Investigação Científica e Tecnológica
-- Pessoal Dirigente
-- Construção Civil
 - Comissão Paritária
 - Comissão Permanente
 - Conselho Científico
-- Conselho de Orientação
-- Definição de Competências
-- Recrutamento de Pessoal
-- Gestão do Património
-- Conselho Diretivo
 - Conselho Consultivo
-- Propriedade Industrial
-- LNEC
+- Conselho de Orientação
+- Conselho Diretivo
+- Construção Civil
+- Definição de Competências
+- Financiamento
+- Fiscal Único
+- Gestão de Recursos Humanos
+- Gestão do Património
+- Investigação Científica e Tecnológica
 - Laboratório Nacional de Engenharia Civil
+- LNEC
 - Obras Públicas
 - Orgânica
-- Urbanismo
+- Pessoal Dirigente
 - Presidente
+- Propriedade Industrial
+- Recrutamento de Pessoal
 - Regime de Pessoal
 - Remuneração
-- Gestão de Recursos Humanos
+- Urbanismo
 - Vogal
 relationships:
 - type: amended_by
   target: pt:dre:308745:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:308745:por
+  label: "Alterado o art. 21º do Dec Lei 304/2007, de 24-Ago, rectificado pela presente declaração, pelo DEC LEI.125/2010.18.11.2010.MOPTC,\
+    \ DR.IS [224] de 18.11.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2010-308745
+  date: '2010-11-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
   label: null
@@ -109,16 +115,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/422/1999/10/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/422/1999/10/21/p/dre
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667357:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:304/2007
+  label: "Rectifica o Decreto-Lei n.º 304/2007, de 24 de Agosto, DR.IS [163] \0\0"
+  source: null
+  date: '2007-08-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:09:21Z'
   warnings: []
   errors: []
 ---

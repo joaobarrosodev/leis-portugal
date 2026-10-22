@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/21600/0003700043.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/722/2024/11/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/722-2024-895836371
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-07T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 775dfdc311a60994a9ff8e4fe9812df6073abbe31546b01298c6109be3b9ed31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b05c7d3543bb3f92458ead8111e023cb67c3ddf0b8896544b5a45f526ae0a067
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atribuição de Frequências
-- Radiocomunicações
 - Comunicações Eletrónicas
 - Frequências Radiofónicas
 - Inconstitucionalidade
 - Prestação de Serviços
+- Radiocomunicações
 - Taxa
 - TAXA de Utilização
 relationships:
+- type: amends
+  target: pt:numero:portaria:1473-B/2008
+  label: Declara a inconstitucionalidade, com força obrigatória geral, das normas constantes dos n.ºs 2 e 3 do anexo IX da
+    Portaria n.º 1473-B/2008, de 17 de dezembro, Diário da República n.º 243/2008, 1º Suplemento, Série I, na parte em que
+    determinam a incidência objetiva e a taxa a aplicar em relação aos prestadores de serviços postais enquadrados no «escalão
+    2»
+  source: null
+  date: '2008-12-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/17/2012/04/26/p/dre
   label: null
@@ -96,6 +104,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/296-a/2013/10/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/296-a/2013/10/02/p/dre
+- type: cites
+  target: pt:dre:115138846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:244541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553038:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32008L0006
   label: null
@@ -103,13 +131,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:38Z'
   warnings: []
   errors: []
 ---
@@ -122,9 +150,9 @@ Acordam, em Plenário, no Tribunal Constitucional
 
 I. RELATÓRIO
 
-1 - O MINISTÉRIO PÚBLICO requereu, em conformidade com o disposto no artigo 82.º da Lei de Organização, Funcionamento e Processo do Tribunal Constitucional ([Lei n.º 28/82](https://diariodarepublica.pt/dr/detalhe/lei/28-1982-377508), de 15 de novembro, na redação que lhe foi conferida pela [Lei Orgânica n.º 1/2018](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), de 19 de abril, doravante “LTC”), a organização de um processo, a tramitar nos termos do processo de fiscalização abstrata e sucessiva da constitucionalidade, com vista à apreciação, pelo Plenário, da constitucionalidade das normas constantes dos n.<sup>os</sup>2 e 3 do Anexo IX da [Portaria n.º 1473-B/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1473-b-2008-198753), de 17 de dezembro, na redação da [Portaria n.º 296-A/2013](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2013-244541), de 2 de outubro, na parte em que determinam a incidência objetiva a taxa a aplicar em relação aos prestadores de serviços postais enquadrados no respetivo "escalão 2".
+1 - O MINISTÉRIO PÚBLICO requereu, em conformidade com o disposto no artigo 82.º da Lei de Organização, Funcionamento e Processo do Tribunal Constitucional ([Lei n.º 28/82](https://diariodarepublica.pt/dr/detalhe/lei/28-1982-377508), de 15 de novembro, na redação que lhe foi conferida pela [Lei Orgânica n.º 1/2018](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), de 19 de abril, doravante “LTC”), a organização de um processo, a tramitar nos termos do processo de fiscalização abstrata e sucessiva da constitucionalidade, com vista à apreciação, pelo Plenário, da constitucionalidade das normas constantes dos n.os2 e 3 do Anexo IX da [Portaria n.º 1473-B/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1473-b-2008-198753), de 17 de dezembro, na redação da [Portaria n.º 296-A/2013](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2013-244541), de 2 de outubro, na parte em que determinam a incidência objetiva a taxa a aplicar em relação aos prestadores de serviços postais enquadrados no respetivo "escalão 2".
 
-De forma a legitimar o seu pedido, alega o requerente que tais normas foram julgadas inconstitucionais, em mais de três casos concretos, pelo Tribunal Constitucional, nomeadamente, nos Acórdãos n.<sup>os</sup>152/2022, 754/2022, 243/2023 e 348/2023, o que permite ter por verificado o pressuposto previsto no n.º 3 do artigo 281.º da Constituição, já que todas as referidas decisões transitaram em julgado.
+De forma a legitimar o seu pedido, alega o requerente que tais normas foram julgadas inconstitucionais, em mais de três casos concretos, pelo Tribunal Constitucional, nomeadamente, nos Acórdãos n.os152/2022, 754/2022, 243/2023 e 348/2023, o que permite ter por verificado o pressuposto previsto no n.º 3 do artigo 281.º da Constituição, já que todas as referidas decisões transitaram em julgado.
 
 2 - Notificado, nos termos dos artigos 54.º e 55.º, n.º 3, da LTC, para se pronunciar sobre o pedido, o Ministro das Infraestruturas nada disse.
 
@@ -138,9 +166,9 @@ A) Pressupostos de cognição
 
 4 - O artigo 281.º, n.º 3, da Constituição estatui que o Tribunal Constitucional aprecia e declara, com força obrigatória geral, a inconstitucionalidade ou a ilegalidade de normas por ele julgadas inconstitucionais ou ilegais, em três casos concretos. O artigo 82.º da LTC, por seu turno, atribui ao Ministério Público legitimidade para requerer a apreciação abstrata da constitucionalidade ou legalidade de normas julgadas inconstitucionais ou ilegais pelo Tribunal em três casos concretos.
 
-Não se levantam, nesta sede, quaisquer dúvidas sobre a legitimidade ativa do representante do Ministério Público. De igual modo, verifica-se que o pedido de fiscalização abstrata sucessiva da constitucionalidade formulado nos presentes autos tem por base um número superior aos três casos concretos legalmente exigidos. O requerente invoca quatro decisões proferidas em sede de fiscalização concreta da constitucionalidade, correspondendo a primeira ao Acórdão n.º 152/2022, que julgou “inconstitucionais, por violação das disposições conjugadas da alínea i) do n.º 1 do artigo 165.º e do n.º 2 do artigo 266.º da Constituição, as normas constantes dos n.os 2 e 3 do Anexo IX da [Portaria n.º 1473-B/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1473-b-2008-198753), de 17 de dezembro, na redação da [Portaria n.º 296-A/2013](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2013-244541), de 2 de outubro, na parte em que determinam a incidência objetiva e a taxa a aplicar em relação aos prestadores de serviços postais enquadrados no escalão 2’”; o sentido decisório deste aresto foi reiterado nos Acórdãos n.<sup>os</sup>754/2022, 243/2023 e 348/2023, de igual forma invocados no pedido.
+Não se levantam, nesta sede, quaisquer dúvidas sobre a legitimidade ativa do representante do Ministério Público. De igual modo, verifica-se que o pedido de fiscalização abstrata sucessiva da constitucionalidade formulado nos presentes autos tem por base um número superior aos três casos concretos legalmente exigidos. O requerente invoca quatro decisões proferidas em sede de fiscalização concreta da constitucionalidade, correspondendo a primeira ao Acórdão n.º 152/2022, que julgou “inconstitucionais, por violação das disposições conjugadas da alínea i) do n.º 1 do artigo 165.º e do n.º 2 do artigo 266.º da Constituição, as normas constantes dos n.os 2 e 3 do Anexo IX da [Portaria n.º 1473-B/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1473-b-2008-198753), de 17 de dezembro, na redação da [Portaria n.º 296-A/2013](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2013-244541), de 2 de outubro, na parte em que determinam a incidência objetiva e a taxa a aplicar em relação aos prestadores de serviços postais enquadrados no escalão 2’”; o sentido decisório deste aresto foi reiterado nos Acórdãos n.os754/2022, 243/2023 e 348/2023, de igual forma invocados no pedido.
 
-Note-se, ainda, que, sobre a mesma matéria e com decisões de idêntico teor, foram ainda exarados, posteriormente, diversos arestos, designadamente, os Acórdãos n.<sup>os</sup>377/2023, 389/2023, 565/2023, 566/2023, 607/2023, 619/2023, 721/2023 e 913/2023. Nestes termos, é inequívoca a verificação das condições necessárias para a apreciação da citada norma em sede de fiscalização abstrata sucessiva da constitucionalidade.
+Note-se, ainda, que, sobre a mesma matéria e com decisões de idêntico teor, foram ainda exarados, posteriormente, diversos arestos, designadamente, os Acórdãos n.os377/2023, 389/2023, 565/2023, 566/2023, 607/2023, 619/2023, 721/2023 e 913/2023. Nestes termos, é inequívoca a verificação das condições necessárias para a apreciação da citada norma em sede de fiscalização abstrata sucessiva da constitucionalidade.
 
 B) Mérito
 
@@ -151,21 +179,21 @@ B) Mérito
 | Código da taxa | Escalões | De euros | a... euros | Taxa T (euros) |
 | --- | --- | --- | --- | --- |
 | 192201 | 0 | 0 | 250 000 |  |
-| 192202 | 1 | 250 001 | 1 500 000 | T<sub>1</sub>= 2.500 |
-| 192203 | 2 | 1 500 001 | Sem limite | T<sub>2</sub> |
+| 192202 | 1 | 250 001 | 1 500 000 | T1= 2.500 |
+| 192203 | 2 | 1 500 001 | Sem limite | T2 |
 
-| Fórmula de cálculo da taxa T2 | Fórmula de cálculo da taxa T2 | Fórmula de cálculo da taxa T2 |
+| **Fórmula de cálculo da taxa****T2** |  |  |
 | --- | --- | --- |
-| T<sub>i</sub> (Ano n) = | Taxa devida pelas entidades do escalão i (i = 0,1,2) no Ano n. | Taxa devida pelas entidades do escalão i (i = 0,1,2) no Ano n. |
-| Ni (Ano n) = | Número de entidades do escalão i (i = 0,1,2) no Ano n. | Número de entidades do escalão i (i = 0,1,2) no Ano n. |
-| Ri (Ano n-1) = | Rendimentos relevantes conexos com a atividade de prestador de serviços postais das entidades do escalão i (i = 0,1,2) relativos ao Ano n-1, a remeter ao ICP-ANACOM nos termos do artigo 3.º da presente portaria. | Rendimentos relevantes conexos com a atividade de prestador de serviços postais das entidades do escalão i (i = 0,1,2) relativos ao Ano n-1, a remeter ao ICP-ANACOM nos termos do artigo 3.º da presente portaria. |
-| ∑ Ri(Ano n-1) <sup>=</sup> | Total de rendimentos relevantes das entidades do escalão i (i = 0,1,2) relativos ao Ano n-1. | Total de rendimentos relevantes das entidades do escalão i (i = 0,1,2) relativos ao Ano n-1. |
-| C (Ano n) = | Total de custos (gastos) administrativos do ICP-ANACOM, a que se refere o n.º 4 do artigo 44.º da Lei n.º 17/2012, de 26 de abril, a considerar para o Ano n, correspondente ao valor médio dos últimos 3 exercícios da componente de custos (gastos) sem provisões mais o valor médio dos últimos 5 exercícios das provisões para processos judiciais associadas ao setor postal. | Total de custos (gastos) administrativos do ICP-ANACOM, a que se refere o n.º 4 do artigo 44.º da Lei n.º 17/2012, de 26 de abril, a considerar para o Ano n, correspondente ao valor médio dos últimos 3 exercícios da componente de custos (gastos) sem provisões mais o valor médio dos últimos 5 exercícios das provisões para processos judiciais associadas ao setor postal. |
-| R<sub>2</sub>(Ano n-1) = | Rendimentos relevantes de entidade do escalão 2 no Ano (N – 1). | Rendimentos relevantes de entidade do escalão 2 no Ano (N – 1). |
-| t<sub>2</sub> (Ano n) = | (C (Ano n)-T1 (Ano n)n1(Ano n))/ ∑ R<sub>2</sub> (Ano n-1) | Percentagem contributiva (%) das empresas do escalão 2 no Ano n |
-| T<sub>2</sub> (Ano n)<sup>=</sup> | t<sub>2</sub>(Ano n) X R2 (Ano n-1)-a2 | t<sub>2</sub>(Ano n) X R2 (Ano n-1)-a2 |
-| a2 (Ano n) | Parcela a abater no cálculo da taxa das empresas do escalão 2a2= Í2 (Ano n) x R<sup>LI</sup>2 - T1 (Ano n) | Parcela a abater no cálculo da taxa das empresas do escalão 2a2= Í2 (Ano n) x R<sup>LI</sup>2 - T1 (Ano n) |
-| R<sup>LI</sup>2 | Limite inferior do escalão de rendimentos das empresas do escalão 2 | Limite inferior do escalão de rendimentos das empresas do escalão 2 |
+| Ti**(Ano** n) = | Taxa devida pelas entidades do escalão i (i =**0,1,2**) no Ano n. |  |
+| Ni (Ano n) = | Número de entidades do escalão i (i =**0,1,2**) no Ano n. |  |
+| Ri (Ano n-1) = | Rendimentos relevantes conexos com a atividade de prestador de serviços postais das entidades do escalão i (i =**0,1,2**) relativos ao Ano n-**1**, a remeter ao ICP-ANACOM nos termos do artigo 3.º da presente portaria. |  |
+| ∑ Ri(Ano n-1) = | Total de rendimentos relevantes das entidades do escalão i (i =**0,1,2**) relativos ao Ano**n****-1**. |  |
+| **C****(Ano** n) = | Total de custos (gastos) administrativos do ICP-ANACOM, a que se refere o n.º 4 do artigo 44.º da Lei n.º **17/2012,** de**26** de abril, a considerar para o Ano n, correspondente ao valor médio dos últimos 3 exercícios da componente de custos (gastos) sem provisões mais o valor médio dos últimos**5** exercícios das provisões para processos judiciais associadas ao setor postal. |  |
+| R2(Ano n-1) = | Rendimentos relevantes de entidade do escalão**2** no Ano (**N****–****1**)**.** |  |
+| t2 (Ano n) = | (C (Ano n)-T1 (Ano n)n1(Ano n))/ ∑ R2 (Ano n-1) | Percentagem contributiva (%) das empresas do escalão**2** no Ano n |
+| T2**(Ano** n)= | t2(Ano n) **X** R2 (Ano n-1)-a2 |  |
+| a2 (Ano n) | Parcela a abater no cálculo da taxa das empresas do escalão**2**a2=**Í****2** (Ano**n**) x RLI2 - T1 (Ano n) |  |
+| RLI2 | Limite inferior do escalão de rendimentos das empresas do escalão**2** |  |
 
 3 - O valor da percentagem contributiva t2, resultante da aplicação da fórmula para o escalão 2, é fixado anualmente por deliberação do conselho de administração do ICP-ANACOM, a qual é publicitada no seu sítio da Internet, após apuramento e divulgação dos custos (gastos) administrativos (C (ano n)) e do montante total de rendimentos relevantes das empresas abrangidas pelo escalão 2 (∑ R2 (ano n-1))."
 
@@ -191,7 +219,7 @@ d) A substituição da licença ou declaração, em caso de extravio.
 
 4 - Para efeitos do número anterior, as taxas anuais previstas no n.º 2 são suportadas pelos prestadores de serviços postais tendo por base os custos decorrentes da regulação, supervisão e fiscalização das suas atividades".
 
-As normas sobre as quais incide o presente processo já não vigoram no ordenamento jurídico. Com efeito, o artigo 4.º da Lei n.º 18/2023, de 17 de abril - que alterou a Lei n.º 17/2012, de 26 de abril - revogou os n.<sup>os</sup>2 a 6 do Anexo IX da Portaria n.º 1473-B/2008, de 17 de dezembro.
+As normas sobre as quais incide o presente processo já não vigoram no ordenamento jurídico. Com efeito, o artigo 4.º da Lei n.º 18/2023, de 17 de abril - que alterou a Lei n.º 17/2012, de 26 de abril - revogou os n.os2 a 6 do Anexo IX da Portaria n.º 1473-B/2008, de 17 de dezembro.
 
 Contudo, esta circunstância não afasta, só por si, o funcionamento do mecanismo processual previsto no artigo 82.º da LTC, como aliás este Tribunal afirmou já, no Acórdão n.º 367/2018.
 
@@ -199,9 +227,9 @@ Contudo, esta circunstância não afasta, só por si, o funcionamento do mecanis
 
 Pronunciando-se, em primeiro lugar, sobre a natureza da chamada Taxa de Regulação Postal (“TRP”) - aqui em apreço -, afirma-se, nesse aresto o seguinte:
 
-"Como este Tribunal tem repetidamente afirmado, a questão da natureza de um concreto tributo só pode ser esclarecida através a análise do respetivo regime jurídico, sendo para este efeito irrelevante a designação ou qualificação expressa do tributo como "taxa" ou contrapartida pela prestação de um determinado serviço (neste sentido, v. os Acórdãos n.<sup>os</sup>365/2008, 539/2015, 848/2017, 344/2019 e 268/2021).
+"Como este Tribunal tem repetidamente afirmado, a questão da natureza de um concreto tributo só pode ser esclarecida através a análise do respetivo regime jurídico, sendo para este efeito irrelevante a designação ou qualificação expressa do tributo como "taxa" ou contrapartida pela prestação de um determinado serviço (neste sentido, v. os Acórdãos n.os365/2008, 539/2015, 848/2017, 344/2019 e 268/2021).
 
-Ora, ao contrário do que sucede com as "taxas" a que se refere o n.º 1 do artigo 44.º da Lei n.º 17/2012, o facto gerador da TRP não é nenhuma prestação administrativa individualizável, mas sim o conjunto de prestações associadas às atividades de regulação, supervisão e fiscalização das atividades de prestação de serviços postais. É o que resulta dos n.<sup>os</sup>3 e 4 do artigo 44.º da lei que cria o tributo ao qual, segundo o n.º 2, estão sujeitos todos os prestadores de serviços postais que exerçam as atividades reguladas e fiscalizadas. Porém, e como adiante se verá, o n.º 2 do Anexo IX da Portaria reduz o universo de sujeitos passivos, ao isentar do pagamento do tributo todos os operadores que, no ano anterior àquele em que a TRP é devida, não demonstrem ter rendimentos relevantes diretamente conexos com a atividade de serviços postais superiores a 250.000 € (duzentos e cinquenta mil euros).
+Ora, ao contrário do que sucede com as "taxas" a que se refere o n.º 1 do artigo 44.º da Lei n.º 17/2012, o facto gerador da TRP não é nenhuma prestação administrativa individualizável, mas sim o conjunto de prestações associadas às atividades de regulação, supervisão e fiscalização das atividades de prestação de serviços postais. É o que resulta dos n.os3 e 4 do artigo 44.º da lei que cria o tributo ao qual, segundo o n.º 2, estão sujeitos todos os prestadores de serviços postais que exerçam as atividades reguladas e fiscalizadas. Porém, e como adiante se verá, o n.º 2 do Anexo IX da Portaria reduz o universo de sujeitos passivos, ao isentar do pagamento do tributo todos os operadores que, no ano anterior àquele em que a TRP é devida, não demonstrem ter rendimentos relevantes diretamente conexos com a atividade de serviços postais superiores a 250.000 € (duzentos e cinquenta mil euros).
 
 No que respeita à incidência objetiva, os tributos a suportar por estes operadores devem, nos termos do n.º 4 do artigo 44.º da Lei n.º 17/2012, ter por base os custos decorrentes da regulação, supervisão e fiscalização das suas atividades, incluindo-se aí os "custos associados às tarefas administrativas, técnicas e operacionais" (v. o n.º 3). O modo como é apurado o montante total de custos a considerar foi, também, objeto de desenvolvimento no Anexo IX da Portaria, constando do Preâmbulo da Portaria n.º 296-A/2013 o seguinte esclarecimento:
 
@@ -223,7 +251,7 @@ Aspeto igualmente relevante, também assinalado no referido aresto, é o de sabe
 
 Respondendo à questão enunciada, entendeu-se nesse aresto, estabelecendo-se um paralelismo também com a jurisprudência precedente, sobre a "Taxa de Segurança Alimentar Mais" - veja-se, a este respeito, e por exemplo, o teor do Acórdão n.º 539/2015 -, que "[...] o nível de rendimentos relevantes auferidos por um prestador de serviços postais pode, neste contexto, ser tomado como um critério razoável de diferenciação, uma vez que se pode supor que os operadores com maiores rendimentos, por terem um maior volume de negócios e uma posição mais saliente no mercado, geram custos de regulação e supervisão não comparáveis com aqueles que são gerados por prestadores de serviços cuja atividade tem uma expressão menor no setor". Assim, acrescenta-se, e "na medida em que tais rendimentos constituem um indício relevante da participação proporcional que cada operador deve ter na cobertura dos custos a que presumivelmente dá origem, não fica prejudicada a comutatividade característica das contribuições financeiras".
 
-Caraterizadas desta forma as taxas em apreço, o Acórdão n.º 152/2022 começou por clarificar o regime de reserva parlamentar aplicável às contribuições financeiras e o alcance, quanto a elas, do disposto na alínea i) do n.º 1 do artigo 165.º da Constituição, tendo em conta a circunstância de não ter sido aprovado o regime geral das taxas e demais contribuições financeiras a que essa disposição se refere. Assim, estribando-se também já em jurisprudência anterior e, nomeadamente, nos Acórdãos n.<sup>os</sup>268/2021, 539/2015 e 152/2013, ali se explicou o seguinte:
+Caraterizadas desta forma as taxas em apreço, o Acórdão n.º 152/2022 começou por clarificar o regime de reserva parlamentar aplicável às contribuições financeiras e o alcance, quanto a elas, do disposto na alínea i) do n.º 1 do artigo 165.º da Constituição, tendo em conta a circunstância de não ter sido aprovado o regime geral das taxas e demais contribuições financeiras a que essa disposição se refere. Assim, estribando-se também já em jurisprudência anterior e, nomeadamente, nos Acórdãos n.os268/2021, 539/2015 e 152/2013, ali se explicou o seguinte:
 
 "Relembre-se que, na ausência do enquadramento legislativo geral a que se refere a alínea i) do n.º 1 do artigo 165.º, o Tribunal tem reconhecido ao Governo a possibilidade de exercer uma competência concorrente em matéria de contribuições financeiras, mas - como se salvaguardou no Acórdão n.º 539/2015 - "sem prejuízo da Assembleia sempre poder revogar, alterar ou suspender o respetivo diploma, no exercício dos seus poderes constitucionais". Esta salvaguarda aponta para a exigência de que os elementos essenciais das contribuições financeiras sejam definidos por ato legislativo do Parlamento ou do Governo. Com efeito, ao determinar que o regime geral das contribuições financeiras integra a reserva de competência legislativa da Assembleia da República, a Constituição atribui, pelo menos de modo implícito, natureza legislativa a toda a matéria das contribuições na ausência de um regime geral. Esta exigência de que a matéria seja regulada por ato legislativo é da maior relevância, pois não obstante o mesmo órgão - o Governo - ter simultaneamente competência legislativa e regulamentar, há diferenças significativas entre o regime constitucional dos decretos-leis e dos regulamentos, seja qual for a forma que estes revistam. Como se explica no Acórdão n.º 474/2021, a propósito da distinção entre decretos-leis e decretos regulamentares:
 
@@ -231,20 +259,24 @@ Caraterizadas desta forma as taxas em apreço, o Acórdão n.º 152/2022 começo
 
 Foi, pois, fundamentalmente, à luz destas considerações que as normas sindicadas foram, então, julgadas inconstitucionais por este Tribunal, conforme se explicita ainda no mencionado Acórdão n.º 152/2022:
 
-"Ora, as normas do Anexo IX da Portaria n.º 1473-B/2008 aqui em apreço regulamentam, é certo, a Lei n.º 17/2012, mas em termos que, face à delimitação da incidência subjetiva e objetiva que resulta dos n.<sup>os</sup>2 a 4 do artigo 44.º deste diploma, não podem deixar de ser considerados substancialmente inovatórios. No que respeita, em especial, à parte em que é determinada a incidência objetiva e a taxa a aplicar em relação aos prestadores de serviços postais enquadrados no "escalão 2" (única dimensão normativa que constitui o objeto do presente recurso) é a Portaria que cria escalões, que define o universo de sujeitos passivos que integram o "escalão 2" e que elege como critério determinante da repartição dos custos a compensar os rendimentos relevantes diretamente conexos com a atividade de serviços postais apurados no ano anterior àquele a que a taxa se reporta, do qual resulta a taxa concretamente aplicada aos prestadores de serviços postais enquadrados neste escalão.
+"Ora, as normas do Anexo IX da Portaria n.º 1473-B/2008 aqui em apreço regulamentam, é certo, a Lei n.º 17/2012, mas em termos que, face à delimitação da incidência subjetiva e objetiva que resulta dos n.os2 a 4 do artigo 44.º deste diploma, não podem deixar de ser considerados substancialmente inovatórios. No que respeita, em especial, à parte em que é determinada a incidência objetiva e a taxa a aplicar em relação aos prestadores de serviços postais enquadrados no "escalão 2" (única dimensão normativa que constitui o objeto do presente recurso) é a Portaria que cria escalões, que define o universo de sujeitos passivos que integram o "escalão 2" e que elege como critério determinante da repartição dos custos a compensar os rendimentos relevantes diretamente conexos com a atividade de serviços postais apurados no ano anterior àquele a que a taxa se reporta, do qual resulta a taxa concretamente aplicada aos prestadores de serviços postais enquadrados neste escalão.
 
-Assim, forçoso é reconhecer que certos elementos da TRP, determinantes da quantificação do tributo, foram objeto de normação primária por via regulamentar, ou seja, através do exercício da função administrativa. Acontece que esses elementos integram a reserva de função legislativa, reserva essa cujo desiderato, na ausência de um regime geral das contribuições financeiras constante de lei parlamentar ou decreto-lei devidamente autorizado, é o de assegurar um certo nível de coerência, transparência, equidade e legitimidade na criação desses tributos. Claro está que, se a matéria em causa integra o domínio da competência legislativa concorrencial da Assembleia da República e do Governo, não está em causa simplesmente a violação da alínea i) do n.º 1 do artigo 165.º da Constituição, cujo alcance é o de delimitar o domínio reservado ao legislador parlamentar em matéria tributária. Em causa está antes a invasão pelo poder administrativo de um domínio que a ordem constitucional reserva ao poder legislativo, ou seja, em que esta não é indiferente a que a regulação da matéria - os elementos essenciais das contribuições financeiras - conste de decreto-lei ou de mero regulamento. O problema essencial, como é bom de ver, prende-se com a legalidade da Administração Pública, relevando do inciso inicial do n.º 2 do artigo 266.º da Constituição, não na dimensão de preferência de lei - que, por ser uma questão de legalidade, em que o parâmetro imediato de controlo é a lei ordinária, extravasa os poderes de cognição da jurisdição constitucional -, mas na dimensão de reserva de lei - que, por dizer respeito a saber se as normas regulamentares invadem um domínio que a Constituição reserva ao legislador, consubstancia uma questão de constitucionalidade. Ora, as normas constantes dos n.<sup>os</sup>2 e 3 do Anexo IX da Portaria n.º 1473-B/2008, de 17 de dezembro, na redação da Portaria n.º 296-A/2013, de 2 de outubro, ao regularem de forma inovatória elementos essenciais da taxa a aplicar em relação aos prestadores de serviços postais enquadrados no "escalão 2", violam essa reserva de função legislativa que se pode extrair das disposições conjugadas da alínea i) do n.º 1 do artigo 165.º e do n.º 2 do artigo 266.º da Constituição. Essa a razão pela qual, ainda que com fundamentos distintos, cabe negar provimento ao recurso".
+Assim, forçoso é reconhecer que certos elementos da TRP, determinantes da quantificação do tributo, foram objeto de normação primária por via regulamentar, ou seja, através do exercício da função administrativa. Acontece que esses elementos integram a reserva de função legislativa, reserva essa cujo desiderato, na ausência de um regime geral das contribuições financeiras constante de lei parlamentar ou decreto-lei devidamente autorizado, é o de assegurar um certo nível de coerência, transparência, equidade e legitimidade na criação desses tributos. Claro está que, se a matéria em causa integra o domínio da competência legislativa concorrencial da Assembleia da República e do Governo, não está em causa simplesmente a violação da alínea i) do n.º 1 do artigo 165.º da Constituição, cujo alcance é o de delimitar o domínio reservado ao legislador parlamentar em matéria tributária. Em causa está antes a invasão pelo poder administrativo de um domínio que a ordem constitucional reserva ao poder legislativo, ou seja, em que esta não é indiferente a que a regulação da matéria - os elementos essenciais das contribuições financeiras - conste de decreto-lei ou de mero regulamento. O problema essencial, como é bom de ver, prende-se com a legalidade da Administração Pública, relevando do inciso inicial do n.º 2 do artigo 266.º da Constituição, não na dimensão de preferência de lei - que, por ser uma questão de legalidade, em que o parâmetro imediato de controlo é a lei ordinária, extravasa os poderes de cognição da jurisdição constitucional -, mas na dimensão de reserva de lei - que, por dizer respeito a saber se as normas regulamentares invadem um domínio que a Constituição reserva ao legislador, consubstancia uma questão de constitucionalidade. Ora, as normas constantes dos n.os2 e 3 do Anexo IX da Portaria n.º 1473-B/2008, de 17 de dezembro, na redação da Portaria n.º 296-A/2013, de 2 de outubro, ao regularem de forma inovatória elementos essenciais da taxa a aplicar em relação aos prestadores de serviços postais enquadrados no "escalão 2", violam essa reserva de função legislativa que se pode extrair das disposições conjugadas da alínea i) do n.º 1 do artigo 165.º e do n.º 2 do artigo 266.º da Constituição. Essa a razão pela qual, ainda que com fundamentos distintos, cabe negar provimento ao recurso".
 
 Em suma, em face do Acórdão n.º 152/2022, as normas sindicadas foram julgadas inconstitucionais, com base numa argumentação assente nas seguintes premissas: (i) o tributo em causa é qualificável como contribuição financeira e não como imposto; (ii) na ausência de um regime geral relativo a esses tributos, o artigo 165.º, n.º 1, alínea i) da Constituição impõe uma reserva de função legislativa - ainda que não uma reserva de competência legislativa da Assembleia da República quanto a cada uma das contribuições financeiras criadas, e; (iii) a contribuição financeira concretamente em apreço incorreu numa violação dessa reserva de função legislativa, por se ter feito uso da via regulamentar para conformar, inovatoriamente, a incidência objetiva e a taxa a aplicar em relação aos prestadores de serviços postais enquadrados, no “escalão 2” a que aludem as normas sindicadas. Ao proceder-se a essa conformação por via regulamentar, entendeu o Tribunal Constitucional, terem sido violados os parâmetros constitucionais resultantes das disposições conjugadas da alínea i) do n.º 1 do artigo 165.º e do n.º 2 do artigo 266.º, ambos da Constituição.
 
-A jurisprudência subsequente, de que acima se deu nota, não se afastou nem do juízo de inconstitucionalidade, nem, substancialmente, da respetiva fundamentação. Com efeito, nota-se, em todos os restantes Acórdãos mencionados (Acórdãos n.<sup>os</sup>754/2022, 243/2023, 348/2023, 377/2023, 389/2023, 565/2023, 566/2023, 607/2023, 619/2023, 721/2023 e 913/2023), um entendimento essencialmente uniforme no que respeita quer à qualificação do tributo, quer ao enquadramento constitucional atinente às contribuições financeiras, quer, por fim, quanto às consequências desse quadro paramétrico para o juízo de conformidade constitucional das normas ora questionadas.
+A jurisprudência subsequente, de que acima se deu nota, não se afastou nem do juízo de inconstitucionalidade, nem, substancialmente, da respetiva fundamentação. Com efeito, nota-se, em todos os restantes Acórdãos mencionados (Acórdãos n.os754/2022, 243/2023, 348/2023, 377/2023, 389/2023, 565/2023, 566/2023, 607/2023, 619/2023, 721/2023 e 913/2023), um entendimento essencialmente uniforme no que respeita quer à qualificação do tributo, quer ao enquadramento constitucional atinente às contribuições financeiras, quer, por fim, quanto às consequências desse quadro paramétrico para o juízo de conformidade constitucional das normas ora questionadas.
 
-Deste modo, reiterando o sentido daquela jurisprudência, resta proceder à declaração de inconstitucionalidade, com força obrigatória geral, das normas constantes dos n.<sup>os</sup>2 e 3 do Anexo IX da Portaria n.º 1473-B/2008, de 17 de dezembro, na redação da Portaria n.º 296-A/2013, de 2 de outubro.
+Deste modo, reiterando o sentido daquela jurisprudência, resta proceder à declaração de inconstitucionalidade, com força obrigatória geral, das normas constantes dos n.os2 e 3 do Anexo IX da Portaria n.º 1473-B/2008, de 17 de dezembro, na redação da Portaria n.º 296-A/2013, de 2 de outubro.
 
 III - DECISÃO
 
-Nos termos e pelos fundamentos expostos, decide-se declarar a inconstitucionalidade, com força obrigatória geral, das normas constantes dos n.<sup>os</sup>2 e 3 do Anexo IX da Portaria n.º 1473-B/2008, de 17 de dezembro, na redação da Portaria n.º 296-A/2013, de 2 de outubro, na parte em que determinam a incidência objetiva e a taxa a aplicar em relação aos prestadores de serviços postais enquadrados no “escalão 2”, por violação das disposições conjugadas da alínea i) do n.º 1 do artigo 165.º e do n.º 2 do artigo 266.º, ambos da Constituição da República Portuguesa.
+Nos termos e pelos fundamentos expostos, decide-se declarar a inconstitucionalidade, com força obrigatória geral, das normas constantes dos n.os2 e 3 do Anexo IX da Portaria n.º 1473-B/2008, de 17 de dezembro, na redação da Portaria n.º 296-A/2013, de 2 de outubro, na parte em que determinam a incidência objetiva e a taxa a aplicar em relação aos prestadores de serviços postais enquadrados no “escalão 2”, por violação das disposições conjugadas da alínea i) do n.º 1 do artigo 165.º e do n.º 2 do artigo 266.º, ambos da Constituição da República Portuguesa.
 
 Sem custas.
 
 Lisboa, 15 de outubro de 2024. - Mariana Canotilho - Joana Fernandes Costa - Afonso Patrão - António José da Ascensão Ramos - João Carlos Loureiro - José Eduardo Figueiredo Dias - Rui Guerra da Fonseca (remetendo para a minha declaração de voto junta com o Ac. n.º 348/2023) - Maria Benedita Urbano - José Teles Pereira - Carlos Medeiros de Carvalho - Gonçalo Almeida Ribeiro - Dora Lucas Neto - José João Abrantes.
+
+118315772
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { text-decoration:none; text-align:center; } .Tbl8 { min-height:18px; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0<arel='nofollownoopenernoreferrer'target='_blank'href='/dr/detalhe/lei/18-2023-211844895'title='Lein.º18/2023'>Lein.º18/2023</a>width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl13 { text-decoration:none; } .Tbl14 { min-height:37px; } .Tbl15 { min-height:21px; } .Tbl16 { min-height:47px; } .Tbl17 { min-height:30px; } .Tbl19 { min-height:33px; } .Tbl20 { color:rgb(0,0,0); text-decoration:underline; text-align:center; }

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/07/14301/0000200007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/29-a/2026/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/29-a-2026-1152696606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-27T00:00:00Z'
+  retrieved_at: '2026-10-22T18:47:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66ef4959233307d7efd620fdd72e93549b430789d59ee6ce8e785657a7e633bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb9977d39d18fc209133558ca2884fb65505def330a3775f23ce60bfb4a719fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:47:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ÁREA de Reabilitação Urbana
-- Ordenamento do Território
 - Construção Civil
-- Urbanização
-- Renovação Urbana
-- Rectificação de Entidade Emitente
 - Indústria
-- Licenciamento
 - Licença de Utilização
-- Urbanismo
+- Licenciamento
+- Ordenamento do Território
+- Prédio Urbano
+- Rectificação de Entidade Emitente
 - Regime Jurídico
 - Regulamento Geral das Edificações Urbanas
-- Prédio Urbano
+- Renovação Urbana
+- Urbanismo
+- Urbanização
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/2024/01/08/p/dre
@@ -108,16 +108,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
+- type: cites
+  target: pt:dre:1128002421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1128419934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836222484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:108/2026
+  label: Retifica, com efeitos a 3 de agosto de 2026, a alínea d) do artigo 1.º, a alteração e a republicação da alínea c)
+    do n.º 3 do artigo 3.º, do n.º 6 do artigo 9.º, da alínea d) do n.º 2 do artigo 11.º, do n.º 6 do artigo 16.º, do n.º
+    6 do artigo 23.º, do n.º 1 do artigo 25.º, do n.º 5 do artigo 43.º, do n.º 9 do artigo 44.º, do n.º 2 do artigo 48.º,
+    do n.º 10 do artigo 59.º, do n.º 2 do artigo 63.º, retifica a alínea f) do n.º 2 do artigo 4.º da republicação, retifica
+    o n.º 10 do artigo 4.º da republicação, retifica o n.º 5 do artigo 24-A.º da republicação, retifica o n.º 6 do artigo
+    17.º da republicação, retifica o artigo 62.º da republicação, retifica o artigo 62-C.º da republicação, retifica o artigo
+    74.º da republicação, retifica a alínea d) do n.º 2 do artigo 102.º da republicação do Decreto-Lei n.º 555/99, de 16 de
+    dezembro, constante do Decreto-Lei n.º 108/2026, de 29 de maio, Diário da República n.º 104/2026, Série I
+  source: null
+  date: '2026-05-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:47:58Z'
   warnings: []
   errors: []
 ---
@@ -335,3 +383,5 @@ deve ler-se:
 «d) Na legalização das operações urbanísticas;»
 
 Secretaria-Geral do Governo, 24 de julho de 2026. - O Secretário-Geral Adjunto, Joaquim Cruz.
+
+119949195

@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/07/13800/0000200018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/503/2024/07/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/503-2024-872428879
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-18T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc77fb823ee869b5f2a240370fecb1b8381f280fbae1f8ea68b931fa28e720de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8480d141af7a29df47b6877aa224b468bf75e2c1437ecb77c6ca63a1c699e095
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aplicação da Lei
-- Instituição de Crédito
 - Código do Imposto do SELO
 - Inconstitucionalidade
+- Instituição de Crédito
 - Multibanco
 - Tabela Geral do Imposto do SELO
 - TAXA de Realização de Operações
 relationships:
+- type: amends
+  target: pt:numero:lei:7-A/2016
+  label: Declara a inconstitucionalidade, com força obrigatória geral, da norma do artigo 154.º da Lei n.º 7-A/2016, de 30
+    de março, Diário da República n.º 62/2016, 1º Suplemento, Série I, na parte em que, atribuindo caráter interpretativo
+    à redação dada pelo artigo 153.º dessa Lei à Verba 17.3.4 da Tabela Geral do Imposto do Selo, determina que se considerem
+    abrangidas por esta verba as quantias cobradas entre entidades bancárias, em data anterior à entrada em vigor daquela
+    Lei, por operações com cartões em caixas automáticas e a título de taxa multilateral de intercâmbio
+  source: null
+  date: '2016-03-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/3/2010/01/05/p/dre
   label: null
@@ -97,16 +106,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/1/2022/01/04/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/1/2022/01/04/p/dre
+- type: cites
+  target: pt:dre:107061810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141214377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177088811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73958532:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:33Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +154,7 @@ I. RELATÓRIO
 
 1 - O representante do Ministério Público junto do Tribunal Constitucional requereu, nos termos do disposto no artigo 82.º da Lei de Organização, Funcionamento e Processo do Tribunal Constitucional (aprovada pela [Lei n.º 28/82](https://diariodarepublica.pt/dr/detalhe/lei/28-1982-377508), de 15 de novembro, e alterada por último pela [Lei Orgânica n.º 1/2022](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2022-177088811), de 4 de janeiro, adiante designada "LTC"), a organização de um processo, a tramitar nos termos do processo de fiscalização abstrata e sucessiva da constitucionalidade, com vista à apreciação, pelo Plenário, da inconstitucionalidade da norma constante do artigo 154.º da [Lei n.º 7-A/2016](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), de 30 de março, na parte em que atribui natureza interpretativa à redação que o artigo 153.º da mesma lei deu à verba 17.3.4 da Tabela Geral do Imposto do Selo, anexa ao Código do Imposto do Selo.
 
-2 - Para fundamentar o seu pedido, o requerente alega que a referida norma foi julgada inconstitucional nos Acórdãos n.<sup>os</sup>566/2020, 196/2021 e 348/2021 e nas Decisões Sumárias n.<sup>os</sup>330/2021 e 331/2021 (cf. o previsto no n.º 3 do artigo 281.º da Constituição), bem como que todas as referidas decisões transitaram em julgado.
+2 - Para fundamentar o seu pedido, o requerente alega que a referida norma foi julgada inconstitucional nos Acórdãos n.os566/2020, 196/2021 e 348/2021 e nas Decisões Sumárias n.os330/2021 e 331/2021 (cf. o previsto no n.º 3 do artigo 281.º da Constituição), bem como que todas as referidas decisões transitaram em julgado.
 
 3 - Notificado nos termos conjugados do artigo 54.º e do n.º 3 do artigo 55.º ambos da LTC, o Presidente da Assembleia da República ofereceu o merecimento dos autos, enviando uma nota técnica sobre os trabalhos preparatórios conducentes à [Lei n.º 7-A/2016](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), de 30 de março, elaborada pelos serviços de apoio à respetiva Comissão de Orçamento e Finanças.
 
@@ -143,11 +176,11 @@ Por sua vez, a redação da Verba n.º 17.3.4. da Tabela Geral do Imposto do Sel
 
 7 - Esclareça-se, antes de mais, que as decisões em que se baseia o presente pedido, bem como outras que se pronunciaram no mesmo sentido nele não citadas (designadamente, o Acórdão n.º 869/2021 e a Decisão Sumária n.º 54/2022), versaram sobre normas que, embora com formulações aparentemente distintas, são de idêntico sentido e alcance.
 
-7.1 - Com efeito, nos Acórdãos n.º 566/2020 e n.º 196/2021, bem como nas Decisões Sumárias n.<sup>os</sup>330/2021 e 331/2021, foi julgada inconstitucional, por violação da proibição de criação de impostos com natureza retroativa estatuída no artigo 103.º, n.º 3, da Constituição, a norma do artigo 154.º da [Lei n.º 7-A/2016](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), de 30 de março, na medida em que atribui natureza interpretativa à redação que o artigo 153.º da mesma Lei deu à verba 17.3.4 da Tabela Geral do Imposto do Selo (adiante designada "TGIS"), anexa ao Código do Imposto do Selo (doravante designado "CIS").
+7.1 - Com efeito, nos Acórdãos n.º 566/2020 e n.º 196/2021, bem como nas Decisões Sumárias n.os330/2021 e 331/2021, foi julgada inconstitucional, por violação da proibição de criação de impostos com natureza retroativa estatuída no artigo 103.º, n.º 3, da Constituição, a norma do artigo 154.º da [Lei n.º 7-A/2016](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), de 30 de março, na medida em que atribui natureza interpretativa à redação que o artigo 153.º da mesma Lei deu à verba 17.3.4 da Tabela Geral do Imposto do Selo (adiante designada "TGIS"), anexa ao Código do Imposto do Selo (doravante designado "CIS").
 
-7.2 - Enquanto nos Acórdãos n.<sup>os</sup>348/2021 e 869/2021, bem como na Decisão Sumária n.º 54/2022, foi julgada inconstitucional, por violação da proibição de criação de impostos com natureza retroativa estatuída no artigo 103.º, n.º 3, da Constituição, a norma do artigo 154.º da [Lei n.º 7-A/2016](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), de 30 de março, na parte em que, atribuindo caráter interpretativo à redação dada pelo artigo 153.º dessa Lei à verba 17.3.4 da TGIS, determina que se considerem abrangidas por esta verba as quantias cobradas entre entidades bancárias, em data anterior à entrada em vigor daquela Lei, por operações com cartões em caixas automáticas e a título de taxa multilateral de intercâmbio.
+7.2 - Enquanto nos Acórdãos n.os348/2021 e 869/2021, bem como na Decisão Sumária n.º 54/2022, foi julgada inconstitucional, por violação da proibição de criação de impostos com natureza retroativa estatuída no artigo 103.º, n.º 3, da Constituição, a norma do artigo 154.º da [Lei n.º 7-A/2016](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), de 30 de março, na parte em que, atribuindo caráter interpretativo à redação dada pelo artigo 153.º dessa Lei à verba 17.3.4 da TGIS, determina que se considerem abrangidas por esta verba as quantias cobradas entre entidades bancárias, em data anterior à entrada em vigor daquela Lei, por operações com cartões em caixas automáticas e a título de taxa multilateral de intercâmbio.
 
-7.3 - Contudo, analisados, em especial, os Acórdãos n.<sup>os</sup>566/2020, 196/2021 e 348/2021, observa-se que em todos os casos o que estava em causa era a aplicação da nova redação da Verba 17.3.4 da TGIS a quantias cobradas entre entidades bancárias a título de taxa multilateral de intercâmbio e de operações com cartões em caixas automáticas, e não a prestações cobradas pelas entidades bancárias a clientes, como a Taxa de Serviço do Comerciante (adiante designada "TSC"), que como adiante se verá sempre ficou excluída do âmbito de apreciação da alteração legislativa submetida à fiscalização deste Tribunal.
+7.3 - Contudo, analisados, em especial, os Acórdãos n.os566/2020, 196/2021 e 348/2021, observa-se que em todos os casos o que estava em causa era a aplicação da nova redação da Verba 17.3.4 da TGIS a quantias cobradas entre entidades bancárias a título de taxa multilateral de intercâmbio e de operações com cartões em caixas automáticas, e não a prestações cobradas pelas entidades bancárias a clientes, como a Taxa de Serviço do Comerciante (adiante designada "TSC"), que como adiante se verá sempre ficou excluída do âmbito de apreciação da alteração legislativa submetida à fiscalização deste Tribunal.
 
 7.4 - Doravante, optar-se-á, pois, por ter por objeto do presente acórdão a norma do artigo 154.º da [Lei n.º 7-A/2016](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), de 30 de março, na parte em que, atribuindo caráter interpretativo à redação dada pelo artigo 153.º dessa Lei à verba 17.3.4 da TGIS, determina que se considerem abrangidas por esta verba as quantias cobradas entre entidades bancárias, em data anterior à entrada em vigor daquela Lei, por operações com cartões em caixas automáticas e a título de taxa multilateral de intercâmbio.
 
@@ -211,11 +244,11 @@ A Constituição não proíbe, em geral, que as novas escolhas legislativas - to
 
 É, com efeito, evidente que a repercussão sobre o passado das novas escolhas legislativas, qualquer que seja a forma ou o grau de que se revista, diminui ou fragiliza a faculdade, que os cidadãos de um Estado de direito devem ter, de poder saber com o que contam, nas relações que estabelecem com os órgãos de poder estadual. Precisamente por isso, a Constituição proibiu expressamente o recurso, por parte do legislador, à retroatividade forte, sempre que a medida legislativa que a ela recorre implicar intervenções gravosas na liberdade e (ou) no património das pessoas, assim sucedendo quando estejam em causa restrições a direitos, liberdades e garantias (artigo 18.º, n.º 3), a definição de comportamentos criminalmente puníveis (artigo 29.º, n.º 1), ou a criação de impostos ou definição dos seus elementos essenciais (artigo 103.º, n.º 3). A razão pela qual a Constituição exclui a possibilidade de existência de leis retroativas nesses casos reside precisamente na intensidade da condição de insegurança pessoal que do contrário resultaria no quadro de um Estado de direito democrático como é aquele que o artigo 2.º institui."
 
-No respeitante ao domínio fiscal, o Tribunal Constitucional entende que a proibição da retroatividade do artigo 103.º, n.º 3, da Constituição apenas se dirige à retroatividade autêntica, abrangendo por isso tão somente os casos em que o facto tributário que a lei nova pretende regular já tenha produzido todos os seus efeitos ao abrigo da lei antiga, excluindo do seu âmbito aplicativo as situações de retrospetividade ou de retroatividade imprópria, ou seja, aquelas situações em que a lei é aplicada a factos passados mas cujos efeitos ainda perduram no presente, como sucede quando as normas fiscais que produziram um agravamento da posição fiscal dos contribuintes em relação a factos tributários que não ocorreram totalmente no domínio da lei antiga e continuam a formar-se, ainda no decurso do mesmo ano fiscal, na vigência da nova lei (assim, por exemplo, v. os Acórdãos n.<sup>os</sup>617/2012 e 85/2013, que, por sua vez, remetem para os Acórdãos n.<sup>os</sup>128/2009, 85/2010 e 399/2010; o caráter “absoluto” da proibição em apreço foi, todavia, questionado no Acórdão n.º 171/2017).
+No respeitante ao domínio fiscal, o Tribunal Constitucional entende que a proibição da retroatividade do artigo 103.º, n.º 3, da Constituição apenas se dirige à retroatividade autêntica, abrangendo por isso tão somente os casos em que o facto tributário que a lei nova pretende regular já tenha produzido todos os seus efeitos ao abrigo da lei antiga, excluindo do seu âmbito aplicativo as situações de retrospetividade ou de retroatividade imprópria, ou seja, aquelas situações em que a lei é aplicada a factos passados mas cujos efeitos ainda perduram no presente, como sucede quando as normas fiscais que produziram um agravamento da posição fiscal dos contribuintes em relação a factos tributários que não ocorreram totalmente no domínio da lei antiga e continuam a formar-se, ainda no decurso do mesmo ano fiscal, na vigência da nova lei (assim, por exemplo, v. os Acórdãos n.os617/2012 e 85/2013, que, por sua vez, remetem para os Acórdãos n.os128/2009, 85/2010 e 399/2010; o caráter “absoluto” da proibição em apreço foi, todavia, questionado no Acórdão n.º 171/2017).
 
 9 - A mencionada proibição constitucional tem implicações relativamente às leis interpretativas em matéria fiscal.
 
-Como se explicou nos Acórdãos n.<sup>os</sup>267/2017 e 395/2017, devido à integração da lei interpretativa na lei interpretada estatuída no artigo 13.º, n.º 1, do Código Civil, a primeira é necessariamente retroativa, já que a mesma é considerada como “fazendo parte” da segunda.
+Como se explicou nos Acórdãos n.os267/2017 e 395/2017, devido à integração da lei interpretativa na lei interpretada estatuída no artigo 13.º, n.º 1, do Código Civil, a primeira é necessariamente retroativa, já que a mesma é considerada como “fazendo parte” da segunda.
 
 Trata-se, evidentemente, de uma ficção temporal - a ficção de que um facto presente (a entrada em vigor da lei interpretativa) ocorreu no passado (a entrada em vigor da lei interpretada); e a retroatividade das normas interpretativas resulta dessa ficção (assim, v. o Acórdão n.º 395/2017).
 
@@ -241,7 +274,7 @@ Na verdade, pode suceder - e sucede com alguma frequência - que o legislador de
 
 Na jurisprudência do Tribunal Constitucional recente é possível discernir três vias de resposta à questão colocada.
 
-17.1 - A primeira, partindo de uma perspetiva "fundada na diferença constitucional entre a função legislativa e a função jurisdicional", pressupõe que "a interpretação ou esclarecimento formalmente consagrados pela lei nova não podem deixar de revestir uma natureza constitutiva e a retroatividade inerente à mesma lei ter um caráter substancial" (n.º 11 da Fundamentação do Acórdão n.º 267/2017), pelo que deve ser considerada absolutamente vedada pelo n.º 3 do artigo 103.º da Constituição (v., v.g., os Acórdãos n.<sup>os</sup>267/2017, 644/2017 e 92/2018).
+17.1 - A primeira, partindo de uma perspetiva "fundada na diferença constitucional entre a função legislativa e a função jurisdicional", pressupõe que "a interpretação ou esclarecimento formalmente consagrados pela lei nova não podem deixar de revestir uma natureza constitutiva e a retroatividade inerente à mesma lei ter um caráter substancial" (n.º 11 da Fundamentação do Acórdão n.º 267/2017), pelo que deve ser considerada absolutamente vedada pelo n.º 3 do artigo 103.º da Constituição (v., v.g., os Acórdãos n.os267/2017, 644/2017 e 92/2018).
 
 Em linha com esta posição destaca-se, na doutrina, SALDANHA SANCHES, para quem a alteração efetuada, na revisão de 1997, à redação do artigo 103.º, n.º 3, da Constituição "tem de ser interpretada como uma espécie de crítica do legislador à jurisprudência constitucional" (cf. “Lei interpretativa e retroatividade em matéria fiscal”, Fiscalidade, n.º 1, 2000, p. 87), tendo aquela disposição passado a obstar à produção de efeitos retroativos por qualquer norma, verdadeiramente interpretativa ou não.
 
@@ -255,13 +288,13 @@ E por isso não nos parece que a lei interpretativa possa ter lugar em matéria 
 
 Incluindo os provocados por lei retractiva." (cf. “Lei interpretativa... cit., pp. 87 e 88.)
 
-17.2 - A segunda via, explorada nos Acórdãos n.<sup>os</sup>395/2017 e 49/2020, parte das mesmas premissas que a primeira, pelo que pressupõe que qualquer norma interpretativa se encontra, em princípio, abrangida pela proibição da retroatividade consagrada no artigo 103.º, n.º 3, da Constituição. Todavia, admite exceções, ancoradas na compreensão desta proibição constitucional como uma refração do princípio da proteção da confiança. Tal como se afirmou no Acórdão n.º 395/2017 (n.º 9 da Fundamentação):
+17.2 - A segunda via, explorada nos Acórdãos n.os395/2017 e 49/2020, parte das mesmas premissas que a primeira, pelo que pressupõe que qualquer norma interpretativa se encontra, em princípio, abrangida pela proibição da retroatividade consagrada no artigo 103.º, n.º 3, da Constituição. Todavia, admite exceções, ancoradas na compreensão desta proibição constitucional como uma refração do princípio da proteção da confiança. Tal como se afirmou no Acórdão n.º 395/2017 (n.º 9 da Fundamentação):
 
-"É discutível se a proibição constitucional da retroatividade fiscal consubstancia uma regra, tendencialmente absoluta, ou um princípio, aplicável sob reserva de ponderação com valores ou interesses constitucionais de sentido contrário (no primeiro sentido, largamente dominante na jurisprudência do Tribunal Constitucional, v. os Acórdãos n.<sup>os</sup>128/2009, 617/2012 e 85/2013; no segundo sentido, com várias declarações de voto exprimindo reservas nesse ponto, v. o Acórdão n.º 171/2017). Mas já não é de duvidar que a proibição da retroatividade fiscal tem como fundamento a tutela da confiança dos contribuintes, como tem sido reiteradamente afirmado na jurisprudência do Tribunal Constitucional. E daí resulta que as normas fiscais retroativas violam a proibição constitucional da retroatividade apenas nos casos em que frustrem as expectativas legítimas dos contribuintes, razão pela qual o artigo 103.º, n.º 3, não se aplica, por exemplo, às alterações da legislação fiscal que têm um impacto tributário positivo ou neutro."
+"É discutível se a proibição constitucional da retroatividade fiscal consubstancia uma regra, tendencialmente absoluta, ou um princípio, aplicável sob reserva de ponderação com valores ou interesses constitucionais de sentido contrário (no primeiro sentido, largamente dominante na jurisprudência do Tribunal Constitucional, v. os Acórdãos n.os128/2009, 617/2012 e 85/2013; no segundo sentido, com várias declarações de voto exprimindo reservas nesse ponto, v. o Acórdão n.º 171/2017). Mas já não é de duvidar que a proibição da retroatividade fiscal tem como fundamento a tutela da confiança dos contribuintes, como tem sido reiteradamente afirmado na jurisprudência do Tribunal Constitucional. E daí resulta que as normas fiscais retroativas violam a proibição constitucional da retroatividade apenas nos casos em que frustrem as expectativas legítimas dos contribuintes, razão pela qual o artigo 103.º, n.º 3, não se aplica, por exemplo, às alterações da legislação fiscal que têm um impacto tributário positivo ou neutro."
 
 Mas, no entendimento do Acórdão n.º 395/2017 (tal como no do Acórdão n.º 267/17), todas as normas fiscais interpretativas são constitutivas, porque excluem sempre outros sentidos possíveis da norma interpretada, e são substancialmente retroativas, porque impedem que os sentidos excluídos possam ser revelados por posterior interpretação judicial como os mais adequados e válidos. Como tal, afirmar-se que uma lei é "genuinamente" interpretativa não basta para presumir a inexistência de qualquer situação de confiança a proteger, já que "os destinatários das leis têm a expectativa legítima de que estas sejam objeto de uma interpretação jurídica, porque é nesses exatos termos - enquanto sujeitos de direito - que aquelas se lhes dirigem. Ao consagrarem um sentido por razões de ordem política - constitutivas e não declarativas de direito -, as leis interpretativas frustram essa expectativa legítima dos cidadãos na juridicidade, adversariabilidade e justiciabilidade da sua relação com a lei" (v. o n.º 9 da Fundamentação do Acórdão n.º 395/2017).
 
-Assim as exceções a admitir-se devem basear-se seja na existência de uma controvérsia jurisprudencial com um lastro decisório estatisticamente significativo no âmbito de uma determinada ordem jurisdicional, seja na coincidência do sentido fixado pela lei interpretativa com o da jurisprudência dominante relativamente ao entendimento da lei interpretada (como se considerou hipoteticamente, por exemplo, nos Acórdãos n.<sup>os</sup>395/2017 e 107/2018; e se entendeu dever aplicar no caso decidido pelo Acórdão n.º 49/2020).
+Assim as exceções a admitir-se devem basear-se seja na existência de uma controvérsia jurisprudencial com um lastro decisório estatisticamente significativo no âmbito de uma determinada ordem jurisdicional, seja na coincidência do sentido fixado pela lei interpretativa com o da jurisprudência dominante relativamente ao entendimento da lei interpretada (como se considerou hipoteticamente, por exemplo, nos Acórdãos n.os395/2017 e 107/2018; e se entendeu dever aplicar no caso decidido pelo Acórdão n.º 49/2020).
 
 17.3 - Num entendimento aproximado deste, expresso na declaração de voto aposta pelo Conselheiro Lino Ribeiro ao Acórdão n.º 49/2020, parte-se de diferente pressuposto: as leis materialmente interpretativas não se encontram abrangidas pela proibição consagrada no n.º 3 do artigo 103.º da Constituição.
 
@@ -349,11 +382,11 @@ De assinalar que o âmbito da proibição de retroação das normas interpretati
 
 De facto, na jurisprudência constitucional, a proibição de retroação de normas fiscais antes da introdução do artigo 103.º, n.º 3, da CRP dependia que se estivesse perante uma violação grosseira de expectativas fundadas a que se associasse uma situação de lesão ostensiva do particular, ou seja, que se tivesse verificado uma aplicação de recursos orientada pela expectativa (legítima, mas frustrada) que resultasse em prejuízo por força da nova Lei (“a não garantia expressa conferida pela Lei Fundamental à irretroactividade das leis fiscais e a existência de casos em que a irretroactividade é constitucionalmente ilegítima, por ofender, injustificada, arbitrária, intolerável e opressoramente as exigências da protecção da confiança e certeza objectiva e materialmente justificadas dos cidadãos, exigências essas postuladas pelo princípio do Estado de direito democrático”: Acórdão do TC n.º 216/90; v. também, 287/90).
 
-Também na jurisprudência constitucional atual a proibição de retroação imprópria ou retrospetividade de normas fiscais e de retroatividade de outras normas de Direito tributário (que não as referentes a impostos), dependem de requisitos francamente mais importantes sobre a lesão de interesses particulares do que o que fica colocado (sobre outros tributos: acórdãos do TC n.<sup>os</sup>399/2017 e 135/2012; sobre os requisitos de operatividade da proteção da confiança no domínio de retroação imprópria: acórdãos do TC n.<sup>os</sup>128/2009, 285/2010 e 175/2018).
+Também na jurisprudência constitucional atual a proibição de retroação imprópria ou retrospetividade de normas fiscais e de retroatividade de outras normas de Direito tributário (que não as referentes a impostos), dependem de requisitos francamente mais importantes sobre a lesão de interesses particulares do que o que fica colocado (sobre outros tributos: acórdãos do TC n.os399/2017 e 135/2012; sobre os requisitos de operatividade da proteção da confiança no domínio de retroação imprópria: acórdãos do TC n.os128/2009, 285/2010 e 175/2018).
 
 Enfim, a proibição de retroação de normas interpretativas em matéria fiscal ao abrigo do artigo 103.º, n.º 3, da CRP não dependerá daqueles parâmetros no entendimento adotado pelo Acórdão do TC n.º 121/2023: caso a norma interpretativa venha estabelecer outra solução normativa, a interdição operará sem outro requisito que não a estabilidade do sentido interpretativo (diferente ou oposto ao da lei interpretativa) da norma interpretada.
 
-Regressando ao caso, o critério tem por implícita a existência à data da chegada da norma interpretativa ao ordenamento de um sedimento jurisprudencial que haja estabilizado o alcance regulador da norma interpretada (uniformidade de tratamento ou acórdão de uniformização), daqui decorrendo uma expectativa fundada sobre a continuidade dessa solução normativa (extraída da Lei), que pode ser colocada em crise por uma inovação legal ulterior (<sup>1</sup>). Será também no confronto entre o sentido interpretativo sedimentado (e, por isso, expectável) e o sentido interpretativo eleito pela norma nova que se aferirá se esta última é desfavorável ao sujeito passivo, já que, quando o não seja, não se colocará a proibição de retroação.
+Regressando ao caso, o critério tem por implícita a existência à data da chegada da norma interpretativa ao ordenamento de um sedimento jurisprudencial que haja estabilizado o alcance regulador da norma interpretada (uniformidade de tratamento ou acórdão de uniformização), daqui decorrendo uma expectativa fundada sobre a continuidade dessa solução normativa (extraída da Lei), que pode ser colocada em crise por uma inovação legal ulterior (1). Será também no confronto entre o sentido interpretativo sedimentado (e, por isso, expectável) e o sentido interpretativo eleito pela norma nova que se aferirá se esta última é desfavorável ao sujeito passivo, já que, quando o não seja, não se colocará a proibição de retroação.
 
 Assim:
 
@@ -387,7 +420,7 @@ Existe, portanto, um importante acervo jurisprudencial que interpretava a incid�
 
 O acórdão definiu o objeto do processo de fiscalização sucessiva cingindo-o à incidência de IS sobre a TMI, pretendendo, com isso, excluir a regra de incidência de TSC que se debateu neste conjunto de acórdãos e, por inerência, diminuindo a importância do citado acervo jurisprudencial para a apreciação do pedido. É de assinalar, porém, que o requerimento não foi formulado pelo Ministério Público nesses termos circunscritos, pelo que parece evidente que este acórdão incorreu em omissão de pronúncia.
 
-Acresce que, de entre as decisões que fundamentam o pedido de generalização da declaração de inconstitucionalidade (Acórdãos do TC n.<sup>os</sup>566/2020, 196/2021 e 348/2021 e decisões sumárias n.<sup>os</sup>330/2021 e 331/2021), apenas o aresto n.º 348/2021 realiza em dispositivo a delimitação que agora surge, as demais enunciando a final juízo de reprovação constitucional sobre toda a norma do artigo 153.º da [Lei n.º 7-A/2016](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), de 30 de março.
+Acresce que, de entre as decisões que fundamentam o pedido de generalização da declaração de inconstitucionalidade (Acórdãos do TC n.os566/2020, 196/2021 e 348/2021 e decisões sumárias n.os330/2021 e 331/2021), apenas o aresto n.º 348/2021 realiza em dispositivo a delimitação que agora surge, as demais enunciando a final juízo de reprovação constitucional sobre toda a norma do artigo 153.º da [Lei n.º 7-A/2016](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), de 30 de março.
 
 Talvez mais perentório, é de sublinhar que o primeiro Acórdão que fundamenta o pedido de generalização - o que fiscalizou a norma em primeiro lugar (Acórdão do TC n.º 566/2020) e para onde remetem todas as outras decisões -, apreciou a constitucionalidade da norma considerando que abarcava a sujeição a incidência a IS tanto da TMI como da TSC, já que estava em discussão IS referente a ambas na causa principal. O mesmo sucedeu na decisão sumária (de mérito) n.º 331/2021, em que também a TSC era debatida na jurisdição.
 
@@ -401,6 +434,8 @@ O lastro jurisprudencial citado, enfim, depõe também pelo caráter não-inovat
 
 5 - Assim e por tudo, decidiria pela não inconstitucionalidade do disposto no artigo 154.º da [Lei n.º 7-A/2016](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), de 30 de março, na parte em que atribui natureza interpretativa à redação que o artigo 153.º da mesma lei deu à verba 17.3.4 da Tabela Geral do Imposto do Selo, anexa ao Código do Imposto do Selo.
 
-<sup>1</sup> Já se afigura mais duvidoso que a consistência jurisprudencial seja a única forma de geração de uma expectativa jurídica nestes termos. Doutrina administrativa ou pronúncia pela AT em procedimentos de informação vinculativa, por exemplo, poderão também, ao menos em abstrato, ser fonte de expectativas de particulares passíveis de serem violadas por normas fiscais interpretativas. Não é este, porém, o problema que nos ocupa.
+1 Já se afigura mais duvidoso que a consistência jurisprudencial seja a única forma de geração de uma expectativa jurídica nestes termos. Doutrina administrativa ou pronúncia pela AT em procedimentos de informação vinculativa, por exemplo, poderão também, ao menos em abstrato, ser fonte de expectativas de particulares passíveis de serem violadas por normas fiscais interpretativas. Não é este, porém, o problema que nos ocupa.
 
 António Ascensão Ramos
+
+117909355

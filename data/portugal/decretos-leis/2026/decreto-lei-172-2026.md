@@ -47,26 +47,54 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/172/2026/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2026-1164128604
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:52:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f05ed2d654852f63feb52382ad28aaae95292c8d82bdb6624d02d2a67f925be1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6004d7484e6a5373e784e5cefd6f38e06d451ed5bd7b2830fda8e1c23c43a329
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:52:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Administração Pública
+- Arquipélago da Madeira
+- Banco de Portugal
+- Contabilidade
+- Contabilidade Pública
+- Empresa Pública
+- Madeira.região Autónoma
+- Normalização
+- Normas Internacionais de Contabilidade
+- Pequenas e Médias Empresas
+- Plano Oficial de Contabilidade
+- Plano Oficial de Contabilidade Pública
+- PME
+- Prestação de Contas
+- Região Autónoma
+- Regulamento CE
+- Relatório de Actividade
+- Segredo de Estado
+- Sistema de Informações da República Portuguesa
+- Sistema de Normalização Contabilística
+- Sistema Europeu de Contabilidade
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:192/2015
+  label: Altera, a partir de 1 de setembro de 2026, os artigos 3.º e 10.º, adita o artigo 5.º-A e o anexo iv ao Decreto-Lei
+    n.º 192/2015, de 11 de setembro, Diário da República n.º 178/2015, Série I
+  source: null
+  date: '2015-09-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/192/2015/09/11/p/dre
   label: null
@@ -83,16 +111,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/2/2014/08/06/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2014/08/06/p/dre
+- type: cites
+  target: pt:dre:105583346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115312061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55235777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70262478:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:52:05Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +167,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto-lei procede à terceira alteração ao [Decreto-Lei n.º 192/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-2015-70262478), de 11 de setembro, alterado pelos Decretos-Leis n.<sup>os</sup>[85/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2016-105583346), de 21 de dezembro, e [33/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), de 15 de maio, que aprova o Sistema de Normalização Contabilística para as Administrações Públicas.
+O presente decreto-lei procede à terceira alteração ao [Decreto-Lei n.º 192/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-2015-70262478), de 11 de setembro, alterado pelos Decretos-Leis n.os[85/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2016-105583346), de 21 de dezembro, e [33/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), de 15 de maio, que aprova o Sistema de Normalização Contabilística para as Administrações Públicas.
 
 ###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 192/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-2015-70262478), de 11 de setembro
 
@@ -139,7 +187,9 @@ Os artigos 3.º e 10.º do [Decreto-Lei n.º 192/2015](https://diariodarepublica
 
 5 - Aos organismos e entidades previstos na Lei-Quadro do Sistema de Informações da República Portuguesa é aplicável o disposto no artigo 5.º-A e no anexo iv ao presente decreto-lei e que dele faz parte integrante, devendo ser salvaguardado o regime do segredo de Estado, nos termos previstos na [Lei Orgânica n.º 2/2014](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2014-55235777), de 6 de agosto, e na [Lei n.º 30/84](https://diariodarepublica.pt/dr/detalhe/lei/30-1984-373663), de 5 de setembro.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -171,15 +221,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de julho de 2026. - Luís Montenegro - João Alexandre da Silva Lopes.
 
-**Promulgado em 21 de agosto de 2026.**
+Promulgado em 21 de agosto de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 24 de agosto de 2026.**
+Referendado em 24 de agosto de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -236,3 +286,5 @@ f) Perspetivas e declaração de responsabilidade:
 i) Prioridades para o próximo exercício;
 
 ii) Declaração pelo responsável máximo da entidade sobre a veracidade do conteúdo do relatório.»
+
+119949491

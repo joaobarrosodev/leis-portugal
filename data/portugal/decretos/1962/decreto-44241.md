@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-08-12T00:00:00Z'
+  retrieved_at: '2026-10-22T19:28:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8edf65806a579ae4eb60c013591b3b88f423309a4c6c443a40576150e80ee55a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6488e46ae09e551ce7b05156cadf1eaae729d7b7222c061d8d0aae7944898c3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:28:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,32 @@ relationships:
   target: pt:dre:579935:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:200988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479901:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:28:28Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +127,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 Dos quadros da administração civil
 
-###### Artigo 1.º Os serviços de administração civil do ultramar português compreendem os seguintes quadros:
+Artigo 1.º Os serviços de administração civil do ultramar português compreendem os seguintes quadros:
 
 a) Quadro administrativo;
 
@@ -119,7 +135,7 @@ b) Quadro de secretaria.
 
 § único. Todos os lugares dos serviços de administração civil nas províncias ultramarinas são desempenhados por funcionários dos quadros referidos no corpo do artigo, nomeados, colocados e transferidos nos termos deste decreto e com os direitos e obrigações gerais constantes do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 2.º Os funcionários do quadro administrativo estão hieràrquicamente subordinados uns aos outros para o exercício das atribuições que a lei impõe e na forma desta. Os graus da hierarquia administrativa e as categorias a eles atribuídas nos termos do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino são os seguintes:
+Art. 2.º Os funcionários do quadro administrativo estão hieràrquicamente subordinados uns aos outros para o exercício das atribuições que a lei impõe e na forma desta. Os graus da hierarquia administrativa e as categorias a eles atribuídas nos termos do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino são os seguintes:
 
 Inspectores superiores de administração ultramarina ... C
 
@@ -137,15 +153,15 @@ Adjuntos de administradores de posto ... Q
 
 § único. Os administradores de circunscrição e administradores de posto, com mais de cinco anos na categoria, terão, para todos os efeitos legais e respectivamente, as categorias das letras H e M do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 3.º As categorias funcionais mencionadas no artigo anterior constituem uma carreira que, no que respeita às categorias de administrador e inferiores, está dividida em tantos quadros privativos quantas as províncias. As categorias de intendente e superiores formam um quadro comum.
+Art. 3.º As categorias funcionais mencionadas no artigo anterior constituem uma carreira que, no que respeita às categorias de administrador e inferiores, está dividida em tantos quadros privativos quantas as províncias. As categorias de intendente e superiores formam um quadro comum.
 
-###### Art. 4.º Os funcionários do quadro administrativo têm sòmente as atribuições que a lei lhes confere, mas a competência do funcionário superior compreende a do inferior, sem prejuízo das condições e forma legais exigidas para a reforma dos actos praticados.
+Art. 4.º Os funcionários do quadro administrativo têm sòmente as atribuições que a lei lhes confere, mas a competência do funcionário superior compreende a do inferior, sem prejuízo das condições e forma legais exigidas para a reforma dos actos praticados.
 
-###### Art. 5.º Todos os funcionários do quadro administrativo são civil e criminalmente responsáveis, quer perante o Estado, quer perante terceiros, pelos actos que praticarem ou mandarem praticar no exercício das suas atribuições ou fora delas.
+Art. 5.º Todos os funcionários do quadro administrativo são civil e criminalmente responsáveis, quer perante o Estado, quer perante terceiros, pelos actos que praticarem ou mandarem praticar no exercício das suas atribuições ou fora delas.
 
-###### Art. 6.º Os funcionários do quadro administrativo só aos seus substitutos podem cometer o exercício das funções que lhes estão confiadas e apenas nos casos de legítimo impedimento.
+Art. 6.º Os funcionários do quadro administrativo só aos seus substitutos podem cometer o exercício das funções que lhes estão confiadas e apenas nos casos de legítimo impedimento.
 
-###### Art. 7.º Sem prejuízo do que resulta das disposições legais posteriores e enquanto por outra forma não for regulada, a competência dos funcionários do quadro administrativo é a que, para cada grau de hierarquia, se menciona na Reforma Administrativa Ultramarina, observando-se, porém, o seguinte:
+Art. 7.º Sem prejuízo do que resulta das disposições legais posteriores e enquanto por outra forma não for regulada, a competência dos funcionários do quadro administrativo é a que, para cada grau de hierarquia, se menciona na Reforma Administrativa Ultramarina, observando-se, porém, o seguinte:
 
 a) Os adjuntos dos administradores de circunscrição substituirão os administradores de circunscrição nas suas faltas ou impedimentos e terão as atribuições a que se referem os n.os 3.º e 5.º do artigo 63.º e 5.º do artigo 64.º da Reforma Administrativa Ultramarina, desempenhando ainda as demais funções que pelos administradores de circunscrição lhes forem delegadas;
 
@@ -153,7 +169,7 @@ b) Os administradores de posto terão as funções que na Reforma Administrativa
 
 c) Os adjuntos dos administradores de posto substituirão os administradores de posto nas suas faltas e impedimentos, desempenhando ainda as demais funções que pelos administradores de posto lhes forem delegadas.
 
-###### Art. 8.º Os quadros de secretaria de cada província terão as categorias correspondentes às seguintes letras, indicadas no § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino:
+Art. 8.º Os quadros de secretaria de cada província terão as categorias correspondentes às seguintes letras, indicadas no § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino:
 
 Chefe de secretaria distrital ... H
 
@@ -169,13 +185,13 @@ Segundo-escriturário ... T
 
 Terceiro-escriturário ... U
 
-###### Art. 9.º Os governadores gerais e de província, tendo em vista a conveniência dos serviços, organizarão os quadros de secretaria e submeterão à aprovação do Ministro do Ultramar os programas dos concursos de admissão aos lugares de terceiros-oficiais e de promoção a segundos e primeiros-oficiais e a chefe de secretaria distrital.
+Art. 9.º Os governadores gerais e de província, tendo em vista a conveniência dos serviços, organizarão os quadros de secretaria e submeterão à aprovação do Ministro do Ultramar os programas dos concursos de admissão aos lugares de terceiros-oficiais e de promoção a segundos e primeiros-oficiais e a chefe de secretaria distrital.
 
-###### Art. 10.º Os funcionários dos quadros de secretaria poderão ser colocados nos serviços centrais e distritais, nos concelhos, circunscrições e postos. Compete-lhes executar o expediente de secretaria dos vários departamentos, nos termos do regulamento a publicar em cada província pelo respectivo governo.
+Art. 10.º Os funcionários dos quadros de secretaria poderão ser colocados nos serviços centrais e distritais, nos concelhos, circunscrições e postos. Compete-lhes executar o expediente de secretaria dos vários departamentos, nos termos do regulamento a publicar em cada província pelo respectivo governo.
 
 Do provimento das vagas
 
-###### Art. 11.º As vagas que ocorrerem no quadro administrativo de cada província na categoria de adjunto de administrador de posto serão providas pelo respectivo governador por concurso documental entre cidadãos portugueses que possuam o 2.º ciclo liceal ou habilitação equivalente e satisfaçam as seguintes condições gerais:
+Art. 11.º As vagas que ocorrerem no quadro administrativo de cada província na categoria de adjunto de administrador de posto serão providas pelo respectivo governador por concurso documental entre cidadãos portugueses que possuam o 2.º ciclo liceal ou habilitação equivalente e satisfaçam as seguintes condições gerais:
 
 a) Terem menos de 30 anos de idade e mais de 21;
 
@@ -191,13 +207,13 @@ e) Gozarem de saúde e robustez física que permita serviço violento nas proví
 
 § 2.º Sempre que um concurso para o provimento de lugares de adjunto de administrador de posto fique deserto ou o número de concorrentes aprovados não seja suficiente para o preenchimento das vagas existentes, poderá o Ministro do Ultramar nomear para os mesmos lugares, independentemente de concurso, indivíduos que satisfaçam às condições do corpo do artigo.
 
-###### Art. 12.º As vagas que ocorrerem no quadro administrativo de cada província na categoria de administrador de posto serão preenchidas por concurso de provas práticas entre os adjuntos dos administradores de posto do mesmo quadro com, pelo menos, quatro anos de serviço efectivo na categoria e boas informações, pela ordem de classificação obtida no concurso.
+Art. 12.º As vagas que ocorrerem no quadro administrativo de cada província na categoria de administrador de posto serão preenchidas por concurso de provas práticas entre os adjuntos dos administradores de posto do mesmo quadro com, pelo menos, quatro anos de serviço efectivo na categoria e boas informações, pela ordem de classificação obtida no concurso.
 
 § único. Sempre que o número de candidatos aprovados em concurso para administradores de posto não seja suficiente para o preenchimento das vagas existentes, poderá o Ministro do Ultramar, independentemente de concurso, nomear para aquelas funções oficiais ou sargentos milicianos das forças armadas que, no ultramar, tenham prestado serviço militar durante, pelo menos, um ano, desde que obedeçam às restantes condições especificadas no corpo do artigo anterior.
 
-###### Art. 13.º As vagas de adjunto de administrador de circunscrição serão providas por concurso documental entre indivíduos com o curso de Administração Ultramarina, pela ordem da respectiva classificação final do curso, e desde que obedeçam às condições especificadas no corpo do artigo 11.º
+Art. 13.º As vagas de adjunto de administrador de circunscrição serão providas por concurso documental entre indivíduos com o curso de Administração Ultramarina, pela ordem da respectiva classificação final do curso, e desde que obedeçam às condições especificadas no corpo do artigo 11.º
 
-###### Art. 14.º As vagas de administrador de circunscrição serão providas pelos governadores por nomeação de:
+Art. 14.º As vagas de administrador de circunscrição serão providas pelos governadores por nomeação de:
 
 a) Adjuntos de administrador de circunscrição com, pelo menos, três anos de serviço efectivo na categoria e boas informações, pela ordem da sua entrada no quadro;
 
@@ -209,7 +225,7 @@ b) Administradores de posto com, pelo menos, cinco anos de serviço efectivo no 
 
 § 3.º Os administradores de circunscrição dos quadros das províncias de governo simples com mais de quatro anos de permanência na categoria poderão requerer ao Ministro do Ultramar a sua transferência para uma província de governo-geral. A estes funcionários será dada preferência absoluta para a colocação nas províncias de governo-geral dentro de metade das vagas existentes nessa categoria e observado o disposto neste artigo e seus parágrafos.
 
-###### Art. 15.º As vagas de intendente de distrito e de inspector administrativo serão preenchidas, respectivamente, por administradores de circunscrição com mais de cinco anos de serviço efectivo na categoria e boas informações e por intendentes de distrito com, pelo menos, três anos de serviço efectivo na categoria e boas informações.
+Art. 15.º As vagas de intendente de distrito e de inspector administrativo serão preenchidas, respectivamente, por administradores de circunscrição com mais de cinco anos de serviço efectivo na categoria e boas informações e por intendentes de distrito com, pelo menos, três anos de serviço efectivo na categoria e boas informações.
 
 § 1.º Dois terços dos lugares de intendentes de distrito e três quartos dos lugares de inspector administrativo, são obrigatòriamente reservados aos candidatos oriundos da categoria de adjuntos dos administradores de circunscrição, ficando os restantes lugares também obrigatòriamente reservados aos candidatos oriundos da categoria de administradores de posto.
 
@@ -221,19 +237,19 @@ b) Que, pelas informações reunidas, não mostrem ter a idoneidade moral precis
 
 c) Que não tenham revelado capacidade profissional.
 
-###### Art. 16.º A percentagem de lugares de administrador de circunscrição, intendente de distrito e inspector administrativo reservados para os candidatos oriundos de uma ou outra categoria poderá ser revista em portaria do Ministro do Ultramar, ouvidos o Conselho Superior de Disciplina e o Conselho Escolar do Instituto Superior de Estudos Ultramarinos.
+Art. 16.º A percentagem de lugares de administrador de circunscrição, intendente de distrito e inspector administrativo reservados para os candidatos oriundos de uma ou outra categoria poderá ser revista em portaria do Ministro do Ultramar, ouvidos o Conselho Superior de Disciplina e o Conselho Escolar do Instituto Superior de Estudos Ultramarinos.
 
-###### Art. 17.º As vagas de intendente de distrito e de inspector administrativo serão providas pelo Ministro do Ultramar por escolha, ouvido o Conselho Superior de Disciplina do Ultramar e observado o disposto no § 1.º do artigo 15.º
+Art. 17.º As vagas de intendente de distrito e de inspector administrativo serão providas pelo Ministro do Ultramar por escolha, ouvido o Conselho Superior de Disciplina do Ultramar e observado o disposto no § 1.º do artigo 15.º
 
 § 1.º De entre os candidatos com condições de acesso ao posto imediato, o Conselho apresentará ao Ministro a lista dos que julgar mais dignos de serem promovidos, na proporção de três por cada vaga.
 
 § 2.º O mérito será apreciado tendo em conta a folha de serviço, habilitações, antiguidade, louvores, castigos, exercício de cargos superiores ou de elevada responsabilidade e tudo o mais que revele aptidão para o cargo.
 
-###### Art. 18.º As vagas de governador de distrito são preenchidas pelo Ministro do Ultramar por escolha entre intendentes de distrito e inspectores administrativos com um curso superior. Excepcionalmente, quando circunstâncias especiais o aconselhem, poderão ser nomeados indivíduos estranhos ao quadro que possuam também um curso superior e desde que metade dos lugares estejam já preenchidos nas condições normais. O disposto neste artigo não prejudica as nomeações feitas até esta data.
+Art. 18.º As vagas de governador de distrito são preenchidas pelo Ministro do Ultramar por escolha entre intendentes de distrito e inspectores administrativos com um curso superior. Excepcionalmente, quando circunstâncias especiais o aconselhem, poderão ser nomeados indivíduos estranhos ao quadro que possuam também um curso superior e desde que metade dos lugares estejam já preenchidos nas condições normais. O disposto neste artigo não prejudica as nomeações feitas até esta data.
 
 Dos concursos
 
-###### Art. 19.º Os concursos para adjuntos dos administradores de posto dos quadros administrativos das províncias serão documentais e estarão abertos por prazo não inferior a 90 dias. Os concursos para os outros lugares dos mesmos quadros, até à categoria de administrador de circunscrição, inclusive, serão por provas públicas.
+Art. 19.º Os concursos para adjuntos dos administradores de posto dos quadros administrativos das províncias serão documentais e estarão abertos por prazo não inferior a 90 dias. Os concursos para os outros lugares dos mesmos quadros, até à categoria de administrador de circunscrição, inclusive, serão por provas públicas.
 
 § 1.º Os concursos realizar-se-ão, em regra, de dois em dois anos, mas este prazo poderá ser encurtado sempre que, tendo sido colocados todos os candidatos aprovados no último concurso realizado, existam ainda vagas a prover, ou prorrogado quando todos os candidatos aprovados com a classificação de Bom no último concurso não tenham sido ainda colocados.
 
@@ -245,7 +261,7 @@ Dos concursos
 
 § 5.º Os concursos valerão até à abertura de novos concursos para a mesma categoria, nos prazos fixados no § 1.º deste artigo.
 
-###### Art. 20.º Os candidatos aos lugares de adjunto de administrador de posto que pelos documentos apresentados devam ser admitidos à prestação de provas serão examinados por uma junta de três médicos, presidida pelo mais graduado ou antigo, a fim de se verificar se possuem constituição e saúde próprias para o serviço ultramarino.
+Art. 20.º Os candidatos aos lugares de adjunto de administrador de posto que pelos documentos apresentados devam ser admitidos à prestação de provas serão examinados por uma junta de três médicos, presidida pelo mais graduado ou antigo, a fim de se verificar se possuem constituição e saúde próprias para o serviço ultramarino.
 
 § 1.º Os candidatos apurados pela junta médica prestarão em seguida as provas de desembaraço e robustez, fixadas em portaria do governo da província de acordo com as condições de clima e as possibilidades locais.
 
@@ -253,7 +269,7 @@ Dos concursos
 
 § 3.º Prestadas as provas a que se referem os parágrafos anteriores, a direcção ou repartição dos serviços de administração civil organizará uma lista dos candidatos admitidos, atendendo-se ao disposto no § 1.º do artigo 11.º, e outra dos candidatos recusados, indicando as razões da exclusão, para conhecimento dos interessados. Estas listas serão submetidas a despacho do governador, que as mandará publicar no Boletim Oficial depois de alteradas como entender de lei e de justiça.
 
-###### Art. 21.º O Ministro do Ultramar, ouvidos os governos ultramarinos, fixará anualmente o número de lugares de adjuntos de administrador de circunscrição a inscrever nos orçamentos das respectivas províncias.
+Art. 21.º O Ministro do Ultramar, ouvidos os governos ultramarinos, fixará anualmente o número de lugares de adjuntos de administrador de circunscrição a inscrever nos orçamentos das respectivas províncias.
 
 § 1.º Será publicada no Diário do Governo a lista das vagas de adjunto de administrador de circunscrição a prover nos termos do artigo 13.º, abrindo-se para elas concurso documental por 60 dias.
 
@@ -269,13 +285,13 @@ Dos concursos
 
 § 7.º O Ministério indicará aos governos-gerais ou de província., em harmonia com o despacho ministerial que resolver as colocações, os nomes dos candidatos que devem ser nomeados e a ordem que na sua admissão ao serviço deve observar-se.
 
-###### Art. 22.º É obrigatória a apresentação aos concursos de provas práticas para provimento dos lugares do quadro administrativo. Os funcionários que por duas vezes forem reprovados em concurso de provas práticas de promoção para o mesmo cargo e os que, também por duas vezes, nos mesmos concursos, salvo motivos atendíveis, devidamente aceites, faltarem ou, iniciadas as provas, desistirem serão exonerados ou aposentados, se para tanto reunirem as necessárias condições. As faltas e as desistências cujos motivos não forem aceites superiormente consideram-se reprovações para os efeitos deste artigo.
+Art. 22.º É obrigatória a apresentação aos concursos de provas práticas para provimento dos lugares do quadro administrativo. Os funcionários que por duas vezes forem reprovados em concurso de provas práticas de promoção para o mesmo cargo e os que, também por duas vezes, nos mesmos concursos, salvo motivos atendíveis, devidamente aceites, faltarem ou, iniciadas as provas, desistirem serão exonerados ou aposentados, se para tanto reunirem as necessárias condições. As faltas e as desistências cujos motivos não forem aceites superiormente consideram-se reprovações para os efeitos deste artigo.
 
 § 1.º Quando se verificar que o número de opositores obrigatórios a um concurso de promoção não é suficiente para o preenchimento das vagas existentes ou previstas dentro do prazo da sua validade, poderão os governadores permitir que sejam admitidos igualmente à prestação de provas funcionários da mesma categoria dos obrigatórios com, pelo menos, três anos de serviço efectivo nessa categoria. Na lista final de classificação estes candidatos agrupar-se-ão, porém, depois dos obrigatórios.
 
 § 2.º Os adjuntos de administrador de posto que forem nomeados administradores de posto antes de terem obtido a nomeação definitiva para o cargo continuam na situação de provisórios até obterem aquela nomeação, nos termos do presente diploma. Esta disposição aplica-se igualmente às promoções dos adjuntos de administrador de circunscrição e administradores de circunscrição.
 
-###### Art. 23.º É obrigatório o serviço no júri dos concursos a que se referem os artigos antecedentes.
+Art. 23.º É obrigatório o serviço no júri dos concursos a que se referem os artigos antecedentes.
 
 § 1.º Nos concursos para administrador de posto o júri será nomeado pelo governador da província e composto por dois funcionários administrativos de categoria igual ou superior a administrador de circunscrição julgados competentes, por dois membros escolhidos de entre os professores do ensino secundário e pelo director ou chefe dos serviços de administração civil, que será o presidente. Nas províncias de governo simples a presidência poderá também caber a um inspector administrativo, designado pelo Ministro do Ultramar.
 
@@ -283,11 +299,11 @@ Dos concursos
 
 § 3.º Os presidentes do júri elaborarão um relatório sobre a forma como decorreram os trabalhos do concurso, rigor havido nas provas e classificações, preparação dos candidatos e necessidade de modificações dos programas. Este relatório, de carácter confidencial, será entregue ao governador, que o informará, remetendo-o depois ao Ministério do Ultramar. Se o presidente do júri tiver sido nomeado nos termos da parte final do parágrafo antecedente, deverá o relatório ser dirigido ao Ministro do Ultramar, entregando-se uma cópia ao governador.
 
-###### Art. 24.º Os concursos de provas práticas poderão realizar-se simultâneamente na capital da província, nas sedes dos distritos, na metrópole ou noutras províncias onde de momento os opositores se encontrem em situação legal e constarão ùnicamente de provas escritas.
+Art. 24.º Os concursos de provas práticas poderão realizar-se simultâneamente na capital da província, nas sedes dos distritos, na metrópole ou noutras províncias onde de momento os opositores se encontrem em situação legal e constarão ùnicamente de provas escritas.
 
 § único. Sempre que as provas se realizem fora da sede da província respectiva, haverá um júri de fiscalização composto de três membros designados, conforme os casos, pelo governador do distrito ou governador da província onde os candidatos se encontrarem ou pelo Ministro do Ultramar, quando estes se encontrem na metrópole.
 
-###### Art. 25.º As provas serão prestadas por disciplinas nos dias, horas e locais indicados no anúncio do concurso e terão a duração fixada nos programas.
+Art. 25.º As provas serão prestadas por disciplinas nos dias, horas e locais indicados no anúncio do concurso e terão a duração fixada nos programas.
 
 § 1.º Quando as provas do mesmo concurso se realizarem em mais de um local, procurar-se-á, tanto quanto possível, que a hora da prestação coincida em todos os locais. Para o efeito, os pontos escritos serão remetidos em sobrescritos lacrados e com a devida antecedência para os locais onde as provas tenham de realizar-se, dirigidos ao Ministro do Ultramar ou aos governadores de província ou de distrito, consoante os casos. Nos 30 dias seguintes à realização das provas deverão estas ser remetidas ao governo da província respectiva com as mesmas cautelas e devidamente rubricadas pelos membros do júri de fiscalização.
 
@@ -313,7 +329,7 @@ e) Maus: os que tiverem obtido uma valorização inferior a 10.
 
 § 7.º A lista das classificações, será publicada no Boletim Oficial logo que findem os concursos.
 
-###### Art. 26.º Nos 30 dias que se seguirem ao termo do prazo do concurso nas províncias de Angola e de Moçambique, e dentro de 10 dias nas restantes províncias, os serviços centrais da administração civil proporão, justificando-a devidamente, a classificação de todos os candidatos, segundo as informações relativas ao serviço que na classe actual e na anterior tiverem prestado, dividindo-as nas categorias de Muito bom, Bom, Regular e Mau.
+Art. 26.º Nos 30 dias que se seguirem ao termo do prazo do concurso nas províncias de Angola e de Moçambique, e dentro de 10 dias nas restantes províncias, os serviços centrais da administração civil proporão, justificando-a devidamente, a classificação de todos os candidatos, segundo as informações relativas ao serviço que na classe actual e na anterior tiverem prestado, dividindo-as nas categorias de Muito bom, Bom, Regular e Mau.
 
 § 1.º Esta classificação far-se-á tendo em atenção os elementos seguintes:
 
@@ -361,13 +377,13 @@ b) Os candidatos classificados de regulares em ambas as listas.
 
 § 8.º Os candidatos aos lugares de administrador de posto e administrador de circunscrição classificados de maus, segundo as informações relativas ao serviço anterior, serão processados disciplinarmente para o efeito da aplicação da pena que competir.
 
-###### Art. 27.º Se não houver reclamações, os governadores nomearão logo para as vagas existentes os candidatos aprovados, pela ordem da sua classificação final.
+Art. 27.º Se não houver reclamações, os governadores nomearão logo para as vagas existentes os candidatos aprovados, pela ordem da sua classificação final.
 
-###### Art. 28.º Sempre que haja reclamações, ou for invocada e ilegalidade de qualquer acto do concurso, as nomeações a que se refere o artigo anterior considerar-se-ão transitórias e os processos de concurso subirão com elas ao Ministério do Ultramar. O Ministro, ouvido o Conselho Superior de Disciplina do Ultramar, mandará manter ou alterar a classificação final ou a admissão aos concursos estabelecida na província. Havendo alterações a introduzir, será a lista definitiva publicada no Diário do Governo e depois reproduzida no Boletim Oficial, e os governadores rectificarão as nomeações anteriormente feitas que não puderem subsistir. Da decisão do Ministro não há recurso.
+Art. 28.º Sempre que haja reclamações, ou for invocada e ilegalidade de qualquer acto do concurso, as nomeações a que se refere o artigo anterior considerar-se-ão transitórias e os processos de concurso subirão com elas ao Ministério do Ultramar. O Ministro, ouvido o Conselho Superior de Disciplina do Ultramar, mandará manter ou alterar a classificação final ou a admissão aos concursos estabelecida na província. Havendo alterações a introduzir, será a lista definitiva publicada no Diário do Governo e depois reproduzida no Boletim Oficial, e os governadores rectificarão as nomeações anteriormente feitas que não puderem subsistir. Da decisão do Ministro não há recurso.
 
-###### Art. 29.º Os programas dos concursos para administrador de posto e administrador de circunscrição serão aprovados e alterados por portaria do Ministro do Ultramar.
+Art. 29.º Os programas dos concursos para administrador de posto e administrador de circunscrição serão aprovados e alterados por portaria do Ministro do Ultramar.
 
-###### Art. 30.º As vagas que ocorrerem nos quadros de secretaria de cada província na categoria de terceiro-escriturário serão providas pelo respectivo governador por concurso documental entre cidadãos portugueses que possuam a Habilitação do 2.º grau de instrução primária ou equivalente e satisfaçam às seguintes condições:
+Art. 30.º As vagas que ocorrerem nos quadros de secretaria de cada província na categoria de terceiro-escriturário serão providas pelo respectivo governador por concurso documental entre cidadãos portugueses que possuam a Habilitação do 2.º grau de instrução primária ou equivalente e satisfaçam às seguintes condições:
 
 a) Terem menos de 30 anos de idade e mais de 18;
 
@@ -379,9 +395,9 @@ d) Escreverem correctamente à máquina.
 
 § único. Gozam de preferência os candidatos que tenham prestado serviço militar.
 
-###### Art. 31.º Os escriturários dos quadros de secretaria são contratados por períodos de um ano, renováveis, sendo a permanência mínima em cada grau hierárquico de dois anos. A promoção far-se-á por antiguidade com boas informações.
+Art. 31.º Os escriturários dos quadros de secretaria são contratados por períodos de um ano, renováveis, sendo a permanência mínima em cada grau hierárquico de dois anos. A promoção far-se-á por antiguidade com boas informações.
 
-###### Art. 32.º Os lugares dos quadros de secretaria, a partir de terceiro-oficial, inclusive, são de nomeação. O provimento das vagas de terceiro-oficial faz-se por concurso de provas práticas, a que poderão concorrer:
+Art. 32.º Os lugares dos quadros de secretaria, a partir de terceiro-oficial, inclusive, são de nomeação. O provimento das vagas de terceiro-oficial faz-se por concurso de provas práticas, a que poderão concorrer:
 
 1.º Os primeiros-escriturários com, pelo menos, dois anos de serviço e boas informações;
 
@@ -389,13 +405,13 @@ d) Escreverem correctamente à máquina.
 
 § único. As promoções nos quadros de secretaria a partir de terceiro-oficial são igualmente feitas por concurso de provas práticas, ao qual podem concorrer os funcionários da categoria imediatamente anterior com mais de quatro anos de serviço efectivo no cargo.
 
-###### Art. 33.º Se os concursos para os lugares de terceiro-oficial dos quadros de secretaria ficarem desertos ou o número de candidatos aprovados não for suficiente para o preenchimento das vagas existentes, poderá o Ministro do Ultramar nomear para os mesmos lugares, independentemente de concurso, indivíduos que satisfaçam as condições do n.º 2.º do artigo anterior.
+Art. 33.º Se os concursos para os lugares de terceiro-oficial dos quadros de secretaria ficarem desertos ou o número de candidatos aprovados não for suficiente para o preenchimento das vagas existentes, poderá o Ministro do Ultramar nomear para os mesmos lugares, independentemente de concurso, indivíduos que satisfaçam as condições do n.º 2.º do artigo anterior.
 
-###### Art. 34.º É revogado o artigo 12.º da Reforma Administrativa Ultramarina, a subsecção II da secção I do capítulo IV da parte I do mesmo diploma e, bem assim, a secção II, com a redacção que lhe foi dada pelo [Decreto n.º 34171](https://diariodarepublica.pt/dr/detalhe/decreto/34171-1944-200988), de 6 de Dezembro de 1944, ainda do capítulo IV da parte I daquela reforma.
+Art. 34.º É revogado o artigo 12.º da Reforma Administrativa Ultramarina, a subsecção II da secção I do capítulo IV da parte I do mesmo diploma e, bem assim, a secção II, com a redacção que lhe foi dada pelo [Decreto n.º 34171](https://diariodarepublica.pt/dr/detalhe/decreto/34171-1944-200988), de 6 de Dezembro de 1944, ainda do capítulo IV da parte I daquela reforma.
 
 Disposições transitórias
 
-###### Art. 35.º Os actuais funcionários dos quadros administrativos do ultramar transitam para os novos quadros, independentemente de nomeação, visto e posse, nas condições seguintes:
+Art. 35.º Os actuais funcionários dos quadros administrativos do ultramar transitam para os novos quadros, independentemente de nomeação, visto e posse, nas condições seguintes:
 
 a) Os inspectores e intendentes de distrito mantêm-se nas mesmas categorias;
 
@@ -413,7 +429,7 @@ a) Na categoria de administrador de circunscrição os actuais administradores d
 
 b) Nas categorias de adjuntos de administrador de circunscrição e administradores de posto os actuais secretários precedem os chefes de posto.
 
-###### Art. 36.º Os actuais funcionários dos quadros administrativos de cada província poderão transitar para os quadros de secretaria, se assim o requererem até 90 dias após a publicação deste decreto no Boletim Oficial e desde que hajas vagas, nas seguintes condições:
+Art. 36.º Os actuais funcionários dos quadros administrativos de cada província poderão transitar para os quadros de secretaria, se assim o requererem até 90 dias após a publicação deste decreto no Boletim Oficial e desde que hajas vagas, nas seguintes condições:
 
 a) Os administradores de circunscrição transitarão para chefes das secretarias distritais;
 
@@ -423,35 +439,35 @@ c) Os chefes de posto transitarão para segundos-oficiais;
 
 d) Os aspirantes administrativos transitarão para terceiros-oficiais.
 
-###### Art. 37.º O tempo de serviço prestado pelos adjuntos dos administradores de circunscrição nas antigas categorias de secretário de circunscrição e chefe de posto é contado para todos os efeitos legais como de estágio na actual categoria.
+Art. 37.º O tempo de serviço prestado pelos adjuntos dos administradores de circunscrição nas antigas categorias de secretário de circunscrição e chefe de posto é contado para todos os efeitos legais como de estágio na actual categoria.
 
-###### Art. 38.º Os actuais secretários de circunscrição que se mantenham no quadro administrativo como administradores de posto e não tenham vaga nessa categoria continuarão em efectividade de serviço, mantendo todos os seus direitos e obrigações, ficando-lhes reservadas as primeiras vagas que naquela categoria ocorrerem, se, entretanto, não forem promovidos ou passarem a qualquer outra situação.
+Art. 38.º Os actuais secretários de circunscrição que se mantenham no quadro administrativo como administradores de posto e não tenham vaga nessa categoria continuarão em efectividade de serviço, mantendo todos os seus direitos e obrigações, ficando-lhes reservadas as primeiras vagas que naquela categoria ocorrerem, se, entretanto, não forem promovidos ou passarem a qualquer outra situação.
 
-###### Art. 39.º Aos primeiros concursos abertos para administradores de circunscrição, depois da publicação do presente decreto, apenas poderão concorrer os actuais secretários de circunscrição que na categoria de administrador de posto se tenham mantido no quadro administrativo e desde que reúnam as condições legais anteriormente requeridas para a admissão ao concurso, contando-se-lhes para tanto o tempo de serviço prestado na nova categoria.
+Art. 39.º Aos primeiros concursos abertos para administradores de circunscrição, depois da publicação do presente decreto, apenas poderão concorrer os actuais secretários de circunscrição que na categoria de administrador de posto se tenham mantido no quadro administrativo e desde que reúnam as condições legais anteriormente requeridas para a admissão ao concurso, contando-se-lhes para tanto o tempo de serviço prestado na nova categoria.
 
-###### Art. 40.º Os actuais secretários de circunscrição já aprovados em concurso para administradores de circunscrição poderão ser promovidos a esta categoria, e, segundo a ordem da classificação, nas vagas ocorridas até realização dos primeiros concursos que tiverem lugar após a publicação do presente decreto.
+Art. 40.º Os actuais secretários de circunscrição já aprovados em concurso para administradores de circunscrição poderão ser promovidos a esta categoria, e, segundo a ordem da classificação, nas vagas ocorridas até realização dos primeiros concursos que tiverem lugar após a publicação do presente decreto.
 
-###### Art. 41.º Os governadores da província, tendo em conta o que se dispõe no presente decreto, proporão, no prazo de 60 dias, a constituição dos novos quadros.
+Art. 41.º Os governadores da província, tendo em conta o que se dispõe no presente decreto, proporão, no prazo de 60 dias, a constituição dos novos quadros.
 
 § único. O provimento das vagas que forem ocorrendo nas categorias de administrador, intendente de distrito e inspector será feito de modo que as proporções estabelecidas nos artigos 14.º e 15.º se realizem no mais curto prazo de tempo.
 
-###### Art. 42.º Transitòriamente, é mantida na província de Cabo Verde a organização dos quadros tal como vem definida no [Decreto n.º 43462](https://diariodarepublica.pt/dr/detalhe/decreto/43462-1960-479901), de 31 de Dezembro de 1960.
+Art. 42.º Transitòriamente, é mantida na província de Cabo Verde a organização dos quadros tal como vem definida no [Decreto n.º 43462](https://diariodarepublica.pt/dr/detalhe/decreto/43462-1960-479901), de 31 de Dezembro de 1960.
 
 Disposições diversas
 
-###### Art. 43.º Os secretários-gerais e provinciais de Angola e Moçambique terão a categoria correspondente à letra B do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956.
+Art. 43.º Os secretários-gerais e provinciais de Angola e Moçambique terão a categoria correspondente à letra B do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956.
 
 § único. Os mapas dos vencimentos complementares mensais constantes dos artigos 38.º e 43.º do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, são completados no que se refere à letra B, respectivamente, com os quantitativos de 8000$00 e 10000$00.
 
-###### Art. 44.º Ao artigo 12.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956, é aditado o parágrafo seguinte:
+Art. 44.º Ao artigo 12.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956, é aditado o parágrafo seguinte:
 
 § 9.º Nas nomeações feitas pelo Ministro do Ultramar, e sempre que os indivíduos a nomear residam nas províncias ultramarinas, poderá pelo Ministro ser dispensada a apresentação de quaisquer documentos, ficando, porém, a posse dos indivíduos assim nomeados dependente de entrega dos documentos em falta.
 
-###### Art. 45.º Ao corpo do artigo 94.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956, é aditado o número seguinte:
+Art. 45.º Ao corpo do artigo 94.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956, é aditado o número seguinte:
 
 3.º Tiverem sido nomeados para o exercício de funções de delegado do Governo ou administrador por parte do Estado em qualquer sociedade, desde que por despacho do Ministro do Ultramar expressamente se lhes reconheça aquela situação, com fundamento na incompatibilidade do exercício efectivo de ambas as funções.
 
-###### Art. 46.º O artigo 155.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956, passam a ter a seguinte redacção:
+Art. 46.º O artigo 155.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956, passam a ter a seguinte redacção:
 
 Nenhum funcionário ou empregado do Estado, entidades administrativas e organismos corporativos ou de coordenação económica poderá receber pelo exercício de funções remuneradas a qualquer título por força dos respectivos orçamentos importância total superior à fixada para a categoria C, nas províncias de governo-geral ou superior a 95 por cento do vencimento do respectivo governador, nas províncias de governo simples. Consideram-se como vencimentos fixados para a categoria C, nas províncias de governo-geral, e governador, nas províncias de governo simples, todas as importâncias que estiverem orçamentadas a título de «Remunerações certas ao pessoal em exercício».
 
@@ -459,21 +475,21 @@ Nenhum funcionário ou empregado do Estado, entidades administrativas e organism
 
 § 2.º As contravenções ao disposto neste artigo obrigam à reposição da quantia indevidamente recebida.
 
-###### Art. 47.º O § 1.º do artigo 415.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956, passa a ter a redacção seguinte:
+Art. 47.º O § 1.º do artigo 415.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956, passa a ter a redacção seguinte:
 
 § 1.º Sendo a decisão proferida por quaisquer autoridades das províncias ultramarinas que não sejam os governadores-gerais ou de província, o recurso será interposto para estes; das decisões dos governadores, em primeira instância ou em recurso, mas neste caso sòmente das penas previstas nos n.os 5.º e seguintes do artigo 354.º, cabe recurso para o Ministro.
 
-###### Art. 48.º Ao mesmo artigo 415.º do Estatuto do Funcionalismo Ultramarino é aditado o parágrafo seguinte:
+Art. 48.º Ao mesmo artigo 415.º do Estatuto do Funcionalismo Ultramarino é aditado o parágrafo seguinte:
 
 § 6.º Quando nos termos da parte final do § 1.º os governadores-gerais ou de província decidirem dos recursos em última instância, devem sempre ouvir o Conselho Disciplinar Central, se as decisões recorridas tiverem aplicado as penas dos n.os 4.º ou 5.º do artigo 357.º
 
-###### Art. 49.º Quando as funções de presidente do Conselho Superior de Disciplina do Ultramar forem desempenhadas cumulativamente cora outro cargo, os processos serão distribuídos pelos dois vogais em exercício.
+Art. 49.º Quando as funções de presidente do Conselho Superior de Disciplina do Ultramar forem desempenhadas cumulativamente cora outro cargo, os processos serão distribuídos pelos dois vogais em exercício.
 
-###### Art. 50.º Aos funcionários nomeados para o desempenho de comissões ordinárias será contado, como efectivo na sua categoria, o tempo de serviço prestado em comissão, para todos os efeitos legais e, designadamente, para os concursos e as promoções.
+Art. 50.º Aos funcionários nomeados para o desempenho de comissões ordinárias será contado, como efectivo na sua categoria, o tempo de serviço prestado em comissão, para todos os efeitos legais e, designadamente, para os concursos e as promoções.
 
-###### Art. 51.º Aos funcionários em comissão de serviço que forem nomeados definitivamente para a categoria que no quadro corresponder ao cargo assim exercido será contado para todos os efeitos o tempo de serviço na referida categoria, a partir da posse do lugar da comissão.
+Art. 51.º Aos funcionários em comissão de serviço que forem nomeados definitivamente para a categoria que no quadro corresponder ao cargo assim exercido será contado para todos os efeitos o tempo de serviço na referida categoria, a partir da posse do lugar da comissão.
 
-###### Art. 52.º Os funcionários em comissão ordinária de serviço têm direito, se assim o requererem:
+Art. 52.º Os funcionários em comissão ordinária de serviço têm direito, se assim o requererem:
 
 a) À aposentação na categoria dos cargos da comissão, desde que o lugar assim exercido seja imediatamente superior na escala hierárquica ao que tiverem no respectivo quadro;
 
@@ -481,11 +497,11 @@ b) À aposentação na categoria imediatamente superior à que tiverem no seu qu
 
 § único. Em qualquer dos casos previstos nas alíneas a) e b) do corpo do artigo devem os interessados satisfazer também às restantes condições exigidas para a aposentação dos funcionários de nomeação definitiva.
 
-###### Art. 53.º Fica o Ministro do Ultramar autorizado a resolver por portaria as dúvidas suscitadas pela execução deste decreto.
+Art. 53.º Fica o Ministro do Ultramar autorizado a resolver por portaria as dúvidas suscitadas pela execução deste decreto.
 
-###### Art. 54.º Este decreto entra em vigor 60 dias depois da sua publicação no Diário do Governo, ficando os governadores autorizados a abrir os créditos necessários para a sua execução.
+Art. 54.º Este decreto entra em vigor 60 dias depois da sua publicação no Diário do Governo, ficando os governadores autorizados a abrir os créditos necessários para a sua execução.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Março de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

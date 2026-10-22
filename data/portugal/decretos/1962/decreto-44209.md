@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44209-1962-517840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-02-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:28:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24abd4f0613e9e5604d15049f810ad4e1f0b5f69bc8e985cbfcc7fb41561cd87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c27b5a826c9f992cd96837921e3cb4e5d18570f8b0920ce9818e2d7ed26ca1ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:28:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:28:15Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +91,9 @@ Tendo em conta o que já foi estabelecido sobre a matéria para os militares das
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O serviço prestado pelos militares da Armada nos comandos navais e de defesa marítima e nas direcções e repartições provinciais dos serviços de marinha do ultramar é classificado como comissão militar e regulado pelo disposto neste diploma.
+Artigo 1.º O serviço prestado pelos militares da Armada nos comandos navais e de defesa marítima e nas direcções e repartições provinciais dos serviços de marinha do ultramar é classificado como comissão militar e regulado pelo disposto neste diploma.
 
-###### Art. 2.º A nomeação dos militares da Armada para prestar serviço nos comandos e serviços referidos no artigo anterior far-se-á:
+Art. 2.º A nomeação dos militares da Armada para prestar serviço nos comandos e serviços referidos no artigo anterior far-se-á:
 
 a) Por escolha;
 
@@ -109,7 +109,7 @@ c) Por imposição de serviço.
 
 § 4.º Na elaboração das normas referidas nos §§ 2.º e 3.º deste artigo deverá procurar evitar-se a necessidade de vir a aplicar o disposto nas alíneas a) e c) do artigo 13.º e, bem assim, o disposto no artigo 14.º
 
-###### Art. 3.º Nos casos em que as nomeações sejam feitas por portaria, este diploma será:
+Art. 3.º Nos casos em que as nomeações sejam feitas por portaria, este diploma será:
 
 a) Dos Ministros da Marinha e do Ultramar, quando se trate de militares que pertençam conjuntamente às lotações dos comandos e das direcções ou repartições provinciais;
 
@@ -119,7 +119,7 @@ c) Do Ministro do Ultramar, quando se refira a militares que sòmente pertençam
 
 § único. A designação de oficiais para prestar serviço nas direcções e repartições provinciais dos serviços de marinha é sempre precedida de consulta ao Ministro do Ultramar.
 
-###### Art. 4.º O tempo obrigatório das comissões nos referidos comandos e serviços é o seguinte:
+Art. 4.º O tempo obrigatório das comissões nos referidos comandos e serviços é o seguinte:
 
 a) Dois anos, para os nomeados por escolha ou por imposição de serviço;
 
@@ -127,23 +127,23 @@ b) Três anos, para os nomeados por oferecimento.
 
 § único. O tempo de duração da comissão é contado desde a data do desembarque na província ultramarina de destino até à véspera do dia de embarque de regresso à metrópole.
 
-###### Art. 5.º Os militares da Armada nomeados por escolha ou por imposição de serviço podem passar à comissão por oferecimento, em qualquer altura da sua comissão, desde que essa passagem lhe seja concedida.
+Art. 5.º Os militares da Armada nomeados por escolha ou por imposição de serviço podem passar à comissão por oferecimento, em qualquer altura da sua comissão, desde que essa passagem lhe seja concedida.
 
 § único. Aos militares nestas condições a comissão é considerada, para todos os efeitos, como de oferecimento e a data do seu início é contada nas condições fixadas no artigo anterior.
 
-###### Art. 6.º Aos militares da Armada nomeados por oferecimento que terminarem o tempo obrigatório da comissão pode esta ser prorrogada por períodos sucessivos de um ano, até ao máximo de dois, quando o requeiram e lhes seja concedido.
+Art. 6.º Aos militares da Armada nomeados por oferecimento que terminarem o tempo obrigatório da comissão pode esta ser prorrogada por períodos sucessivos de um ano, até ao máximo de dois, quando o requeiram e lhes seja concedido.
 
-###### Art. 7.º Aos militares da Armada nomeados por oferecimento que tenham completado dois anos de comissão pode ser concedida desistência de a continuar, caso seja julgado oportuno, mas perdem o direito às passagens de regresso para as famílias e ao abono de ajudas de custo de embarque de regresso.
+Art. 7.º Aos militares da Armada nomeados por oferecimento que tenham completado dois anos de comissão pode ser concedida desistência de a continuar, caso seja julgado oportuno, mas perdem o direito às passagens de regresso para as famílias e ao abono de ajudas de custo de embarque de regresso.
 
-###### Art. 8.º As concessões referidas nos artigos 5.º, 6.º e 7.º competem ao Ministro da Marinha, que ouvirá o Ministro do Ultramar quando se trate de pessoal pertencente às lotações das direcções e repartições provinciais dos serviços de marinha.
+Art. 8.º As concessões referidas nos artigos 5.º, 6.º e 7.º competem ao Ministro da Marinha, que ouvirá o Ministro do Ultramar quando se trate de pessoal pertencente às lotações das direcções e repartições provinciais dos serviços de marinha.
 
-###### Art. 9.º O Ministro da Marinha pode dar por finda a comissão em qualquer altura da sua duração, sem prejuízo dos direitos consignados neste diploma, aos militares da Armada em serviço nos comandos navais e de defesa marítima. Idêntico procedimento poderá ser tomado em relação ao pessoal da Armada em serviço nas direcções e repartições provinciais dos serviços de marinha, depois de ouvido o Ministro do Ultramar.
+Art. 9.º O Ministro da Marinha pode dar por finda a comissão em qualquer altura da sua duração, sem prejuízo dos direitos consignados neste diploma, aos militares da Armada em serviço nos comandos navais e de defesa marítima. Idêntico procedimento poderá ser tomado em relação ao pessoal da Armada em serviço nas direcções e repartições provinciais dos serviços de marinha, depois de ouvido o Ministro do Ultramar.
 
 § único. Quando a comissão terminar por motivo disciplinar, os militares perdem o direito ao abono de ajudas de custo de regresso e à licença a que se referem os n.os 1.º e 4.º do artigo 11.º
 
-###### Art. 10.º Em caso de emergência ou quando o interesse nacional o determine, pode o Ministro da Marinha suspender o regresso à metrópole dos militares em serviço nos comandos navais e de defesa marítima ou nas direcções e repartições provinciais dos serviços de marinha que tenham terminado as suas comissões, depois de ouvido o Ministro do Ultramar quando pertençam aos referidos serviços.
+Art. 10.º Em caso de emergência ou quando o interesse nacional o determine, pode o Ministro da Marinha suspender o regresso à metrópole dos militares em serviço nos comandos navais e de defesa marítima ou nas direcções e repartições provinciais dos serviços de marinha que tenham terminado as suas comissões, depois de ouvido o Ministro do Ultramar quando pertençam aos referidos serviços.
 
-###### Art. 11.º Os militares da Armada nomeados para prestar serviço nos comandos e serviços indicados no artigo 1.º têm os seguintes direitos:
+Art. 11.º Os militares da Armada nomeados para prestar serviço nos comandos e serviços indicados no artigo 1.º têm os seguintes direitos:
 
 a) Ajudas de custo de embarque, na ida e no regresso, pagas antes do embarque, mediante recibo passado à entidade que deve efectuar o respectivo abono;
 
@@ -159,11 +159,11 @@ e) Contagem, para efeitos de reserva e de reforma, do tempo de serviço no ultra
 
 § único. Aos militares nomeados por escolha ou por oferecimento, além dos direitos consignados no corpo deste artigo, são-lhes também concedidas passagens, por conta do Estado, para a mulher, filhos menores, filhas solteiras e outras pessoas que justifiquem o abono de família, desde que acompanhem o militar ou se lhes vão reunir antes de dezoito meses do final da comissão. Os militares que casem durante a comissão com senhora domiciliada na província onde estejam em serviço têm direito ao transporte de regresso das pessoas atrás referidas, independentemente do tempo de comissão que tenham cumprido depois do casamento.
 
-###### Art. 12.º Os militares da Armada que, nos termos da legislação em vigor, deixarem a efectividade de serviço enquanto prestam serviço no ultramar poderão ser dispensados, pelo Ministro da Marinha, de regressar à metrópole, desde que a fixação de residência na província tenha sido autorizada pelo respectivo governador.
+Art. 12.º Os militares da Armada que, nos termos da legislação em vigor, deixarem a efectividade de serviço enquanto prestam serviço no ultramar poderão ser dispensados, pelo Ministro da Marinha, de regressar à metrópole, desde que a fixação de residência na província tenha sido autorizada pelo respectivo governador.
 
 § único. Os militares a que se refere o corpo deste artigo perdem o direito às passagens de regresso para si e suas famílias e às ajudas de custo de embarque relativas ao regresso.
 
-###### Art. 13.º Aos militares da Armada é dada por finda a comissão nos comandos navais e de defesa marítima e nas direcções e repartições provinciais dos serviços de marinha:
+Art. 13.º Aos militares da Armada é dada por finda a comissão nos comandos navais e de defesa marítima e nas direcções e repartições provinciais dos serviços de marinha:
 
 a) Quando forem promovidos ou transitarem para a reserva e não houver no serviço onde se encontram vaga correspondente ao novo posto ou situação, salvo nos casos previstos no artigo seguinte;
 
@@ -171,27 +171,27 @@ b) Quando, tendo recolhido à metrópole por opinião da junta médica da respec
 
 c) Quando lhes venha a caber a realização, na metrópole, de condições de promoção ao posto imediato.
 
-###### Art. 14.º Aos militares da Armada em serviço nos comandos navais e de defesa marítima e nas direcções e repartições provinciais dos serviços de marinha que, imprevistamente, forem promovidos dentro do período normal da sua comissão, mesmo que no serviço onde se encontram não haja vaga correspondente ao novo posto, poderão terminar esse período desde que a promoção não vá além de capitão-de-mar-e-guerra, tratando-se de oficiais, de sargento-ajudante, tratando-se de sargentos, e de cabo, tratando-se de praças.
+Art. 14.º Aos militares da Armada em serviço nos comandos navais e de defesa marítima e nas direcções e repartições provinciais dos serviços de marinha que, imprevistamente, forem promovidos dentro do período normal da sua comissão, mesmo que no serviço onde se encontram não haja vaga correspondente ao novo posto, poderão terminar esse período desde que a promoção não vá além de capitão-de-mar-e-guerra, tratando-se de oficiais, de sargento-ajudante, tratando-se de sargentos, e de cabo, tratando-se de praças.
 
 § único. A diferença legal de vencimentos, em relação aos inscritos nas tabelas de despesa respectivas, devida aos militares promovidos nas condições deste artigo será coberta por prévio reforço das competentes verbas.
 
-###### Art. 15.º Quando os militares da Armada em comissão nos comandos e serviços referidos no artigo 1.º tenham de deslocar-se à metrópole em consequência de decisão, devidamente homologada, da junta médica da respectiva província, por motivo de doença ou convalescença, de ferimento, desastre ou acidente ocorrido em serviço ou por motivo do mesmo, continuam em comissão militar e as viagens de vinda e de regresso do militar são por conta do Estado.
+Art. 15.º Quando os militares da Armada em comissão nos comandos e serviços referidos no artigo 1.º tenham de deslocar-se à metrópole em consequência de decisão, devidamente homologada, da junta médica da respectiva província, por motivo de doença ou convalescença, de ferimento, desastre ou acidente ocorrido em serviço ou por motivo do mesmo, continuam em comissão militar e as viagens de vinda e de regresso do militar são por conta do Estado.
 
 § único. Os militares referidos no corpo deste artigo baixam ao Hospital da Marinha logo que cheguem à metrópole, a fim de serem presentes à Junta de Saúde Naval, o que deve constar na respectiva guia de marcha. Se forem julgados aptos para o serviço no ultramar, devem continuar a comissão na mesma província, caso tenham cumprido menos de metade do tempo a que os obriga a respectiva comissão. Caso contrário, será o assunto submetido a despacho do Ministro da Marinha, que ouvirá o Ministro do Ultramar quando se trate de pessoal que presta serviço nas direcções e repartições provinciais dos serviços de marinha.
 
-###### Art. 16.º Os militares da Armada nomeados para prestar serviço nos comandos e serviços referidos no artigo 1.º são desligados dos quadros:
+Art. 16.º Os militares da Armada nomeados para prestar serviço nos comandos e serviços referidos no artigo 1.º são desligados dos quadros:
 
 a) Quando recebam guia para o Ministério do Ultramar, no caso de irem prestar serviço nas direcções e repartições provinciais dos serviços de marinha;
 
 b) A contar da data do embarque, desde que não vão exercer funções nas referidas direcções e repartições.
 
-###### Art. 17.º Os militares referidos no artigo anterior, depois de completadas as suas comissões, ingressam nos quadros ou ficam supranumerários:
+Art. 17.º Os militares referidos no artigo anterior, depois de completadas as suas comissões, ingressam nos quadros ou ficam supranumerários:
 
 a) Quando se apresentem no Ministério da Marinha, com guia do Ministério do Ultramar, depois de terem gozado a licença a que se refere o n.º 4.º do artigo 11.º, caso tenham desempenhado cargos fixados na orgânica das direcções e repartições provinciais dos serviços de marinha;
 
 b) A contar da data da sua apresentação na Superintendência dos Serviços da Armada, imediatamente após o seu regresso à metrópole, caso não tenham pertencido às lotações das referidas direcções e repartições provinciais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Fevereiro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Fernando Quintanilha Mendonça Dias - Adriano José Alves Moreira.
 

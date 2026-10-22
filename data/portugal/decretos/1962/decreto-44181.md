@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44181-1962-518407
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-06-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:28:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 557019d46fa81749f0e761600c72b428b79ac5134ddb3437df4314c4448daf9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f747b2b2ec77dd435fc06178c1064cd837f999196a4de4211b1c82f007903fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:28:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cobrança de Impostos
+- Direcção Geral das Contribuições e Impostos
+- Gestão de Recursos Humanos
+- Quadro de Pessoal
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:693236:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:693236:por
+  label: "Mantido em vigor pelo período de seis anos o disposto no art. 2º pelo DEC.45095.29.06.1963.MF, DG.IS [152] de 29.06.1963\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/45095-1963-693236
+  date: '1963-06-29'
+- type: cites
+  target: pt:dre:173157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184478:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:28:05Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +116,7 @@ Assim, e em execução do preceito do artigo 26.º da [Lei n.º 2111](https://di
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os lugares de informadores fiscais actualmente vagos ou que vierem a vagar futuramente, quando não forem preenchidos por falta de requerentes devidamente habilitados ou por força do disposto no [Decreto-Lei n.º 43861](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43861-1961-173157), de 16 de Agosto de 1961, serão substituídos, em igual número, por lugares de escriturário de 2.ª classe, os quais constituirão o quadro de pessoal auxiliar dos serviços da Direcção-Geral, enquanto este não for definitivamente fixado nos termos do artigo 8.º do referido [Decreto-Lei n.º 43861](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43861-1961-173157).
+Artigo 1.º Os lugares de informadores fiscais actualmente vagos ou que vierem a vagar futuramente, quando não forem preenchidos por falta de requerentes devidamente habilitados ou por força do disposto no [Decreto-Lei n.º 43861](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43861-1961-173157), de 16 de Agosto de 1961, serão substituídos, em igual número, por lugares de escriturário de 2.ª classe, os quais constituirão o quadro de pessoal auxiliar dos serviços da Direcção-Geral, enquanto este não for definitivamente fixado nos termos do artigo 8.º do referido [Decreto-Lei n.º 43861](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43861-1961-173157).
 
 § 1.º Os lugares de escriturários mencionados no corpo deste artigo e aqueles que forem fixados nos termos do referido artigo 8.º serão preenchidos por escrivães e oficiais de diligências das execuções fiscais independentemente de idade e habilitações, com preferência dos escrivães e dos oficiais das próprias secções de finanças onde ocorrerem as vagas ou forem fixados os lugares, e em cada uma destas classes, e por sua ordem, dos que possuírem maiores habilitações e forem mais antigos.
 
@@ -105,7 +124,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 § 3.º Nos casos do parágrafo anterior a parte das custas que caberia aos servidores das execuções fiscais concelhias será considerada receita emolumentar do respectivo serviço, com ressalva das importâncias relativas a caminhos que deverão ser abonadas aos funcionários que realizarem as diligências.
 
-###### Art. 2.º Os informadores fiscais com cinco anos de serviço e classificação não inferior a Bom são admitidos a concurso extraordinário para aspirantes de finanças, independentemente da idade e habilitações, segundo programa a fixar em portaria do Ministro das Finanças.
+Art. 2.º Os informadores fiscais com cinco anos de serviço e classificação não inferior a Bom são admitidos a concurso extraordinário para aspirantes de finanças, independentemente da idade e habilitações, segundo programa a fixar em portaria do Ministro das Finanças.
 
 § 1.º O exame constará de uma prova escrita e uma prova oral, organizadas por forma a apurar o grau de cultura dos candidatos, sua inteligência, desembaraço e preparação técnica.
 
@@ -113,10 +132,10 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 § 3.º As nomeações para os lugares de aspirante em resultado do concurso previsto no corpo deste artigo são consideradas provisórias durante dois anos, findos os quais se converterão em definitivas se os respectivos funcionários revelarem, durante esse período, manifesta idoneidade, dedicação e competência para o exercício do cargo. Os funcionários a quem não seja confirmada a nomeação deverão passar ao quadro de escriturários.
 
-###### Art. 3.º As vagas de escriturários de 2.ª classe não requeridas por escrivães ou oficiais de diligências das execuções fiscais ou por informadores fiscais serão providas, mediante concurso, por indivíduos habilitados com o 1.º ciclo dos liceus ou equivalente.
+Art. 3.º As vagas de escriturários de 2.ª classe não requeridas por escrivães ou oficiais de diligências das execuções fiscais ou por informadores fiscais serão providas, mediante concurso, por indivíduos habilitados com o 1.º ciclo dos liceus ou equivalente.
 
-###### Art. 4.º As dúvidas que se oferecerem na execução do presente diploma e as providências necessárias à sua execução serão decididas por despacho do Ministro das Finanças.
+Art. 4.º As dúvidas que se oferecerem na execução do presente diploma e as providências necessárias à sua execução serão decididas por despacho do Ministro das Finanças.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Fevereiro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa.

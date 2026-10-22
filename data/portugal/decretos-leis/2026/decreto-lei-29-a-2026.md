@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/29-a/2026/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-a-2026-1031110272
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:30:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 275c32f5ec3e8f6de032c7aa575bfb8634a8c996ef5b82cc371e992a934fb195
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71a8821eccdac58a5754e3e305ca0aaa6aa4b723c80824f2bf324a173ebd55ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:30:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
+- Administração Pública
 - Ajudas de Custo
 - Coeficiente de Actualização
 - Deslocação ao Estrangeiro
 - Empresa Pública
-- Administração Pública
-- Remuneração Acessória
-- Remuneração
-- Funcionário Público
 - Estatuto Remuneratório
+- Função Pública
+- Funcionário Público
+- Remuneração
+- Remuneração Acessória
 - Tabela Salarial
 - Trabalhador com Contrato de Trabalho em Funções Públicas
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:298/2009
+  label: Atualiza, a partir de 31 de janeiro de 2026, com efeitos a 1 de janeiro de 2026, em 2,15 % o suplemento especial
+    de serviço, o suplemento de escala e o suplemento de comando, aplicáveis aos militares da Guarda Nacional Republicana,
+    previstos no Decreto-Lei n.º 298/2009, de 14 de outubro, Diário da República n.º 199/2009, Série I
+  source: null
+  date: '2009-10-14'
+- type: amends
+  target: pt:numero:decreto-lei:299/2009
+  label: Atualiza, a partir de 31 de janeiro de 2026, com efeitos a 1 de janeiro de 2026, em 2,15 % o suplemento especial
+    de serviço, o suplemento de turno e o suplemento de comando, aplicáveis ao pessoal com funções policiais da Polícia de
+    Segurança Pública, previstos no Decreto-Lei n.º 299/2009, de 14 de outubro, Diário da República n.º 199/2009, Série I
+  source: null
+  date: '2009-10-14'
+- type: amends
+  target: pt:numero:decreto-lei:3/2014
+  label: Atualiza, a partir de 31 de janeiro de 2026, com efeitos a 1 de janeiro de 2026, em 2,15 % o suplemento é aplicável
+    ao suplemento especial de serviço, ao suplemento de turno e ao suplemento de comando dos trabalhadores do Corpo da Guarda
+    Prisional, previstos no Estatuto dos Trabalhadores do Corpo da Guarda Prisional, aprovado em anexo ao Decreto-Lei n.º
+    3/2014, de 9 de janeiro, Diário da República n.º 6/2014, Série I
+  source: null
+  date: '2014-01-09'
+- type: amends
+  target: pt:numero:decreto-lei:1/2025
+  label: Atualiza, a partir de 31 de janeiro de 2026, com efeitos a 1 de janeiro de 2026, o valor dos montantes pecuniários
+    dos níveis remuneratórios da tabela remuneratória única, nos termos das alíneas a) b) e c) do n.º 1 do artigo 3.º do presente
+    diploma, publica em anexo ao presente decreto-lei, a revisão dos montantes pecuniários dos níveis remuneratórios da TRU,
+    e revoga os artigos 2.º, 4.º, 5.º e 6.º do Decreto-Lei n.º 1/2025, de 16 de janeiro, Diário da República n.º 11/2025,
+    Série I
+  source: null
+  date: '2025-01-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1/2025/01/16/p/dre
   label: null
@@ -114,16 +145,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70737912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:903770702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:992879809:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:30:48Z'
   warnings: []
   errors: []
 ---
@@ -214,15 +281,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e p
 
 Visto e aprovado em Conselho de Ministros de 29 de janeiro de 2026. - Joaquim Miranda Sarmento - Joaquim Miranda Sarmento.
 
-**Promulgado em 30 de janeiro de 2026.**
+Promulgado em 30 de janeiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de janeiro de 2026.**
+Referendado em 30 de janeiro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 3.º)
 
@@ -345,3 +412,7 @@ Visto e aprovado em Conselho de Ministros de 29 de janeiro de 2026. - Joaquim Mi
 | 115 | 7 116,20 € |
 
 (a) Base Remuneratória da Administração Pública (BRAP).
+
+119947539
+
+.Tbl2 { height:26px; } .Tbl3 { text-align:center; } .Tbl4 { min-height:18px; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; }

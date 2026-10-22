@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/62/2009/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/62-2009-488286
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:11:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1f4d07f6437c8e8bd326e3385a9bb77f9bb23f460b93140628023f7c1d7c9cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d60cb4ff6219b6155b163ae0df49a5c9033562f37b3d0393230da0e6c5a19255
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:11:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Substancia Cancerigena
-- Qualidade do AR
 - Poluição Atmosférica
-- Proteção do Ambiente
 - Poluição Industrial
+- Proteção do Ambiente
+- Qualidade do AR
+- Substancia Cancerigena
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
@@ -86,16 +86,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/675/2009/06/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/675/2009/06/23/p/dre
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:11:52Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +114,7 @@ Ao abrigo da alínea h) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 162/2007](
 
 Valores limite de emissão gerais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/16200/0549805499.pdf))](https://files.diariodarepublica.pt/1s/2009/08/16200/0549805499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/16200/0549805499.pdf)
 
 Se os efluentes gasosos contiverem mais que um destes poluentes, o valor limite de emissão aplica-se ao somatório dos poluentes presentes.»
 
@@ -120,7 +124,7 @@ deve ler-se:
 
 Valores limite de emissão gerais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/16200/0549805499.pdf))](https://files.diariodarepublica.pt/1s/2009/08/16200/0549805499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/16200/0549805499.pdf)
 
 Se os efluentes gasosos contiverem poluentes dos grupos de metais indicados (metais i, metais ii e metais iii), descritos respectivamente em (1) (2) e (3), o valor limite de emissão aplica-se ao somatório dos poluentes presentes para cada um dos referidos grupos.»
 
@@ -130,7 +134,7 @@ Se os efluentes gasosos contiverem poluentes dos grupos de metais indicados (met
 
 Valor limite de emissão para substâncias cancerígenas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/16200/0549805499.pdf))](https://files.diariodarepublica.pt/1s/2009/08/16200/0549805499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/16200/0549805499.pdf)
 
 deve ler-se:
 
@@ -138,7 +142,7 @@ deve ler-se:
 
 Valores limite de emissão para substâncias cancerígenas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/16200/0549805499.pdf))](https://files.diariodarepublica.pt/1s/2009/08/16200/0549805499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/16200/0549805499.pdf)
 
 3 - No anexo, no quadro n.º 4, «Substâncias cancerígenas», onde se lê:
 
@@ -146,7 +150,7 @@ QUADRO N.º 4
 
 Substâncias cancerígenas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/16200/0549805499.pdf))](https://files.diariodarepublica.pt/1s/2009/08/16200/0549805499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/16200/0549805499.pdf)
 
 deve ler-se:
 
@@ -154,6 +158,6 @@ QUADRO N.º 4
 
 Substâncias cancerígenas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/16200/0549805499.pdf))](https://files.diariodarepublica.pt/1s/2009/08/16200/0549805499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/16200/0549805499.pdf)
 
 Centro Jurídico, 19 de Agosto de 2009. - A Directora, Susana de Meneses Brasil de Brito.

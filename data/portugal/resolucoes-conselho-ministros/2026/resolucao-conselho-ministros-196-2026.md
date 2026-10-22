@@ -46,26 +46,50 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/196/2026/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/196-2026-1178585148
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-10-09T00:00:00Z'
+  retrieved_at: '2026-10-22T18:54:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 605b4502edb192da5c78268549b4b64ad74e5afa8674352eca819cd3d9bc4767
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8597e6632dfb419188516fc4643b0eec9cd7cefb95c18b59ba0a8943bf9db3c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:54:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agência para o Desenvolvimento e Coesão
+- Ajuda Comunitária
+- Comissão CE
+- Coordenador
+- Criação de Serviços
+- Definição de Competências
+- Estrutura de Missão Recuperar Portugal
+- Financiamento
+- Fundos CE
+- Gabinete de Planeamento Estratégia Avaliação e Relações Internacionais
+- Investimento
+- Mecanismo de Recuperação e Resiliência da União Europeia
+- Ministério das Finanças
+- Ministro do Planeamento
+- Plano de Recuperação e Resiliência
+- Presidente
+- União Europeia
+- Vice-presidente
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:46-B/2021
+  label: Altera, a 10 de outubro de 2026, os n.ºs 1, 3 e 27 da Resolução do Conselho de Ministros n.º 46-B/2021, de 4 de maio,
+    Diário da República n.º 86/2021, 1º Suplemento, Série I
+  source: null
+  date: '2021-05-03'
 - type: cites
   target: celex:32021R0241
   label: null
@@ -82,16 +106,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/46-b/2021/05/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/46-b/2021/05/04/p/dre
+- type: cites
+  target: pt:dre:162756795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162756796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:54:36Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +146,7 @@ Assim:
 
 Nos termos do n.º 1 do artigo 28.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de janeiro, do n.º 1 do artigo 6.º do [Decreto-Lei n.º 29-B/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-b-2021-162756795), de 4 de maio, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Alterar os n.<sup>os</sup>1, 3 e 27 da [Resolução do Conselho de Ministros n.º 46-B/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/46-b-2021-162756796), de 4 de maio, que passam a ter a seguinte redação:
+1 - Alterar os n.os1, 3 e 27 da [Resolução do Conselho de Ministros n.º 46-B/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/46-b-2021-162756796), de 4 de maio, que passam a ter a seguinte redação:
 
 «1 - Criar a Estrutura de Missão ‘Recuperar Portugal’, adiante designada por ‘Recuperar Portugal’, enquanto entidade responsável:
 
@@ -155,3 +191,5 @@ n) Assegurar a conservação, integridade, segurança e acessibilidade dos dados
 2 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 1 de outubro de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119949698

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45817-1964-578733
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-07-14T00:00:00Z'
+  retrieved_at: '2026-10-22T19:41:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93246939d5c6dd5115823a305299286d9a6ada05df9f37c2f55de887f514a418
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5459e177f005ce67718b985e08a268ae3435c69048cc5e14071ef67c3b0f9d88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:41:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302689:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:41:13Z'
   warnings: []
   errors: []
 ---
@@ -96,10 +104,10 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 Antigo 1.º Fica a Administração-Geral dos Correios, Telégrafos e Telefones autorizada, nos termos e para os efeitos do artigo 22.º do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957, a celebrar com a firma francesa Compagnie Française Thomson Houston contrato para o fornecimento e montagem do material destinado a uma instalação radioeléctrica transorizonte para ligações a grande distância, seus acessórios e peças sobresselentes. O custo do fornecimento é de 23396871$00, ressalvadas as variações de cotação de matérias-primas e salários, conforme fórmulas de correcção constantes do contrato.
 
-###### Art. 2.º Para o pagamento da importância referida no artigo anterior a efectuar ao fornecedor, por intermédio do Banco Seligman & Co., nos termos com este acordados no âmbito de protocolo de 10 de Maio de 1962, não poderá a Administração-Geral dos Correios, Telégrafos e Telefones, em cada ano económico, despender mais do que as seguintes importâncias: em 1964, 14038122$60; em 1965, 9358748$40, e em 1966, o que restar como saldo das importâncias anteriores.
+Art. 2.º Para o pagamento da importância referida no artigo anterior a efectuar ao fornecedor, por intermédio do Banco Seligman & Co., nos termos com este acordados no âmbito de protocolo de 10 de Maio de 1962, não poderá a Administração-Geral dos Correios, Telégrafos e Telefones, em cada ano económico, despender mais do que as seguintes importâncias: em 1964, 14038122$60; em 1965, 9358748$40, e em 1966, o que restar como saldo das importâncias anteriores.
 
 Estas importâncias serão acrescidas das correspondentes ao agravamento do custo resultante da aplicação das fórmulas de correcção referidas no artigo 1.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Julho de 1964. - ANTÓNIO DE OLIVEIRA SALAZAR - António Manuel Pinto Barbosa - Carlos Gomes da Silva Ribeiro.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44315-1962-516183
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-04-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:29:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74e31eb5562784e5598c87430883ef00dd817aa79a51fd49c4be887e52f8264e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 546c090bbfff0e9127acb189801361d331c6d554e21565cb1b1da93bd9893df1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:29:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:272442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:29:03Z'
   warnings: []
   errors: []
 ---
@@ -97,23 +113,23 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os combustíveis líquidos, de qualquer origem, importados na província de Cabo Verde, classificados pelo artigo 69-d da respectiva pauta de importação, quando destinados à laboração das fábricas conserveiras ou à dos estabelecimentos de frigorificação da província de Cabo Verde, pertencentes à indústria pesqueira, são passíveis do direito de 9$50, por tonelada ou fracção, ficando isentos de quaisquer outras imposições, exceptuado o imposto do selo do bilhete de despacho, devendo ser deduzida, nos respectivos direitos, uma importância igual à que houver sido já cobrada a título de taxa de armazenagem, nos termos do artigo 22.º do [Decreto n.º 43081](https://diariodarepublica.pt/dr/detalhe/decreto/43081-1960-501992), de 19 de Julho de 1960.
+Artigo 1.º Os combustíveis líquidos, de qualquer origem, importados na província de Cabo Verde, classificados pelo artigo 69-d da respectiva pauta de importação, quando destinados à laboração das fábricas conserveiras ou à dos estabelecimentos de frigorificação da província de Cabo Verde, pertencentes à indústria pesqueira, são passíveis do direito de 9$50, por tonelada ou fracção, ficando isentos de quaisquer outras imposições, exceptuado o imposto do selo do bilhete de despacho, devendo ser deduzida, nos respectivos direitos, uma importância igual à que houver sido já cobrada a título de taxa de armazenagem, nos termos do artigo 22.º do [Decreto n.º 43081](https://diariodarepublica.pt/dr/detalhe/decreto/43081-1960-501992), de 19 de Julho de 1960.
 
 § único. O Governo da província fixará, para cada estabelecimento fabril, o quantitativo anual e mandará adoptar as necessárias medidas de fiscalização.
 
-###### Art. 2.º São autorizados os órgãos legislativos das províncias de Angola e Moçambique a expedirem diploma incluindo a matéria prevista no artigo 24.º e seus parágrafos do [Decreto n.º 33532](https://diariodarepublica.pt/dr/detalhe/decreto/33532-1944-272442), de 21 de Fevereiro de 1944.
+Art. 2.º São autorizados os órgãos legislativos das províncias de Angola e Moçambique a expedirem diploma incluindo a matéria prevista no artigo 24.º e seus parágrafos do [Decreto n.º 33532](https://diariodarepublica.pt/dr/detalhe/decreto/33532-1944-272442), de 21 de Fevereiro de 1944.
 
-###### Art. 3.º É extensiva aos materiais destinados a serem incorporados em tanques para armazenagem de melaços residuais do fabrico do açúcar de cana ou de óleos vegetais, a montar ou a construir nos portos ultramarinos, incluindo o equipamento acessório indispensável ao seu funcionamento, a disposição constante do artigo 3.º do Decreto n.º 43181, de 19 de Julho de 1960.
+Art. 3.º É extensiva aos materiais destinados a serem incorporados em tanques para armazenagem de melaços residuais do fabrico do açúcar de cana ou de óleos vegetais, a montar ou a construir nos portos ultramarinos, incluindo o equipamento acessório indispensável ao seu funcionamento, a disposição constante do artigo 3.º do Decreto n.º 43181, de 19 de Julho de 1960.
 
-###### Art. 4.º É isenta de direitos e de outras disposições a cobrar no despacho aduaneiro, com excepção do imposto do selo, a importação nas províncias ultramarinas das mercadorias de qualquer origem destinadas à Organização Nacional da Mocidade Portuguesa, quando importadas pelos respectivos comissários, observados os condicionamentos a que se refere o artigo 9.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921), de 28 de Fevereiro de 1957.
+Art. 4.º É isenta de direitos e de outras disposições a cobrar no despacho aduaneiro, com excepção do imposto do selo, a importação nas províncias ultramarinas das mercadorias de qualquer origem destinadas à Organização Nacional da Mocidade Portuguesa, quando importadas pelos respectivos comissários, observados os condicionamentos a que se refere o artigo 9.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921), de 28 de Fevereiro de 1957.
 
 § único. A concessão do benefício pautal é da competência do Ministro do Ultramar quando se trate de mercadorias de origem estrangeira.
 
-###### Art. 5.º O artigo 848.º do Estatuto Orgânico das Alfândegas do Ultramar, aprovado pelo [Decreto n.º 43199](https://diariodarepublica.pt/dr/detalhe/decreto/43199-1960-514803), de 29 de Setembro de 1960, passa a ter a seguinte redacção:
+Art. 5.º O artigo 848.º do Estatuto Orgânico das Alfândegas do Ultramar, aprovado pelo [Decreto n.º 43199](https://diariodarepublica.pt/dr/detalhe/decreto/43199-1960-514803), de 29 de Setembro de 1960, passa a ter a seguinte redacção:
 
 A conversão dos valores e a contagem dos direitos e outras imposições devidas serão sempre feitas com base nas cotações oficiais do momento da apresentação do pedido de despacho ou do preenchimento da caderneta, mesmo que entre esse momento e o da desalfandegação ocorram variações cambiais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Abril de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

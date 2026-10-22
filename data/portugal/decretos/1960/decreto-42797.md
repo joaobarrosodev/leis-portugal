@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/42797-1960-627251
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-01-04T00:00:00Z'
+  retrieved_at: '2026-10-22T19:17:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb7d250d8512f39aacf65e8d6f0f2f4d4bb5af8d26e50c1d0d6d10600d158d8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06ac16b3c04448e0099c746cf198b2d4c04c588e50987958d1584f785e5466d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:17:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:583859:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:17:01Z'
   warnings: []
   errors: []
 ---
@@ -94,8 +98,8 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Fica o Ministro do Interior autorizado a alterar, por portaria, sob proposta do Conselho Nacional dos Serviços de Incêndios e ouvido o Ministro da Defesa Nacional, as características dos uniformes do pessoal dos corpos de bombeiros voluntários, aprovados pelo [Decreto n.º 38439](https://diariodarepublica.pt/dr/detalhe/decreto/38439-1951-583859), de 27 de Setembro de 1951.
+Artigo único. Fica o Ministro do Interior autorizado a alterar, por portaria, sob proposta do Conselho Nacional dos Serviços de Incêndios e ouvido o Ministro da Defesa Nacional, as características dos uniformes do pessoal dos corpos de bombeiros voluntários, aprovados pelo [Decreto n.º 38439](https://diariodarepublica.pt/dr/detalhe/decreto/38439-1951-583859), de 27 de Setembro de 1951.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Janeiro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz.

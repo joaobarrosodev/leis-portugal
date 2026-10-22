@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/20/2026/02/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/20-2026-1034985557
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-04T00:00:00Z'
+  retrieved_at: '2026-10-22T18:31:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab2683326f393dbe69efa37a256a2f68b556569e44be08ffc34f4d2d1df7fb15
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb13820490e18c4aaf36612e12f93dff9e308f63d4f3376c8dfb2ac4106866a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:31:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Património Cultural Imaterial
-- Língua Portuguesa
-- Património Cultural
-- Gabinete de Estratégia Planeamento e Avaliação Culturais
-- Miranda do Douro
 - Cultura
 - Estrutura de Missão para a Promoção da Língua Mirandesa
+- Gabinete de Estratégia Planeamento e Avaliação Culturais
+- Língua Portuguesa
+- Miranda do Douro
+- Património Cultural
+- Património Cultural Imaterial
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:66/2025
+  label: Altera, a partir de 5 de fevereiro de 2026, o n.º 7 da Resolução do Conselho de Ministros n.º 66/2025, de 18 de março,
+    Diário da República n.º 54/2025, Série I
+  source: null
+  date: '2025-03-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
@@ -82,16 +88,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/66/2025/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/66/2025/03/18/p/dre
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:911349175:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:31:17Z'
   warnings: []
   errors: []
 ---
@@ -135,3 +149,5 @@ l) Academia de Letras de Trás-os-Montes.»
 2 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 22 de janeiro de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119947544

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/28/2026/02/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/28-2026-1058701613
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-24T00:00:00Z'
+  retrieved_at: '2026-10-22T18:33:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1cffe1f1d29aae9063c0cd2d41522300c94ca72d9ef6fda137059e00eeed973a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4ffa41b8dc720654999990366468591c64379f62227d49a5c13e80580affd10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:33:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,34 @@ reuse:
 subjects:
 - Deslocação ao Estrangeiro
 - Espanha
-- Presidente da República
 - Madrid
+- Presidente da República
 - Viagem Oficial
 relationships:
+- type: amends
+  target: pt:numero:resolucao-assembleia-republica:19/2026
+  label: Altera a data da deslocação prevista na Resolução da Assembleia da República n.º 19/2026, de 3 de fevereiro, Diário
+    da República n.º 23/2026, Série I
+  source: null
+  date: '2026-02-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/19/2026/02/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/19/2026/02/03/p/dre
+- type: cites
+  target: pt:dre:1033291307:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:33:24Z'
   warnings: []
   errors: []
 ---
@@ -97,4 +107,6 @@ A Assembleia da República resolve, nos termos da alínea b) do artigo 163.º e 
 
 Aprovada em 13 de fevereiro de 2026.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar Branco.
+
+119947724

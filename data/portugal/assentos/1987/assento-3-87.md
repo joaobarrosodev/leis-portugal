@@ -48,36 +48,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/assento/3-1987-420437
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-07-15T00:00:00Z'
+  retrieved_at: '2026-10-22T18:26:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9b5d890421c4b0b240797c1b8fc4c70cb17dcc40c8f6365041fd5c0f61e6b51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92660f804ae0a32afaa20f075ef0a7397fd27d5ec50a07f6a2ebfe450473366f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:26:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carreira Profissional
+- Ensino Superior
+- Estatuto da Carreira Docente Universitária
+- Interpretação do Direito
+- Investigador
+- Pessoal Docente
+- Regime de Exclusividade
+- Subsídio
+relationships:
+- type: cites
+  target: pt:dre:308522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663332:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:26:54Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +128,7 @@ O recurso, por apresentado em tempo e por quem tinha legitimidade, foi admitido 
 
 Em cumprimento do preceituado no artigo 9.º, n.º 2, da [Lei n.º 8/82](https://diariodarepublica.pt/dr/detalhe/lei/8-1982-392382), de 26 de Maio, foi oficiado ao Ministro das Finanças e ao Secretário de Estado do Orçamento para no prazo de 30 dias tomarem posição, querendo, quanto ao fundo da matéria em apreço.
 
-**O Secretário de Estado do Orçamento remeteu um parecer da Direcção-Geral da Administração e da Função Pública, junto a fl. 34, no qual se conclui «que a mudança de categoria do docente no decurso do ano civil e a correspondente celebração de novo contrato não prejudicam, por si só, a validade da declaração de renúncia apresentada até 31 de Dezembro do ano anterior, a qual se manterá, em princípio, em vigor até ao final do ano seguinte».**
+O Secretário de Estado do Orçamento remeteu um parecer da Direcção-Geral da Administração e da Função Pública, junto a fl. 34, no qual se conclui «que a mudança de categoria do docente no decurso do ano civil e a correspondente celebração de novo contrato não prejudicam, por si só, a validade da declaração de renúncia apresentada até 31 de Dezembro do ano anterior, a qual se manterá, em princípio, em vigor até ao final do ano seguinte».
 
 Na vista que seguidamente teve dos autos, o Exmo. Procurador-Geral-Adjunto, em seu parecer, pronuncia-se no sentido de que deve ser concedido provimento ao recurso interposto, revogando-se a resolução recorrida e concedendo-se os pretendidos vistos, propondo que o assento a tirar apresente a seguinte fórmula:
 

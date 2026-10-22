@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1963/01/01200/00270028.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44852-1963-192834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-11-04T00:00:00Z'
+  retrieved_at: '2026-10-22T19:33:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d042d68ea7d7b327d91234a11e65708ed2ae3e979bfd1ce82f98fb0a52dd40b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ffff7a3029f8673236c4a37ac78e809bf26400cdc87a442f5a649ca15c1361d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:33:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concurso
+- Estágio de Formação
+- Laboratório Nacional de Engenharia Civil
+- LNEC
+- Pessoal Técnico
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:215148:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:520186:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:215148:por
+  label: "Revogado pelo DEC.49354.1969.11.04.MOP DG.IS [258]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/49354-1969-215148
+  date: '1969-11-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:33:25Z'
   warnings: []
   errors: []
 ---
@@ -92,8 +107,8 @@ Reconhecendo-se a conveniência de poderem ser incluídos, nos júris dos concur
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Nos concursos para obtenção do certificado de estágio para especialista é aplicável o disposto no § 1.º do artigo 59.º do Regulamento das Informações de Serviço e dos Concursos do Pessoal Técnico e do Pessoal de Traduções do Laboratório Nacional de Engenharia Civil, que faz parte integrante do [Decreto n.º 44157](https://diariodarepublica.pt/dr/detalhe/decreto/44157-1962-520186), de 17 de Janeiro de 1962.
+Artigo único. Nos concursos para obtenção do certificado de estágio para especialista é aplicável o disposto no § 1.º do artigo 59.º do Regulamento das Informações de Serviço e dos Concursos do Pessoal Técnico e do Pessoal de Traduções do Laboratório Nacional de Engenharia Civil, que faz parte integrante do [Decreto n.º 44157](https://diariodarepublica.pt/dr/detalhe/decreto/44157-1962-520186), de 17 de Janeiro de 1962.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 15 de Janeiro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Eduardo de Arantes e Oliveira.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45332-1963-688044
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-10-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:37:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87a534fc0f77cb7960edbddb3913a50dc3c9059260ec568b38359127765f6a43
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6217ccf5dcd072cfddb8aac229b46c1b595acefa6f0b20079a4e0da1abcbfb2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:37:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:37:18Z'
   warnings: []
   errors: []
 ---
@@ -95,10 +99,10 @@ Nestas circunstâncias e de harmonia com o disposto no artigo 22.º e seu § 1.�
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção-Geral dos Serviços Florestais e Aquícolas a celebrar contrato com Silvestre Anselmo Ferreira para o arrendamento da sua propriedade sita na freguesia de Adão, concelho da Guarda, pela renda anual de 9000$00, e com Arminda Augusta de Almeida Durão Cordeiro para o arrendamento da sua propriedade localizada a 1 km de Castelo de Vide aproximadamente, pela renda anual de 10000$00, e por um período de dez anos renovável por iguais e sucessivos prazos se isso convier às partes contratantes.
+Artigo 1.º É autorizada a Direcção-Geral dos Serviços Florestais e Aquícolas a celebrar contrato com Silvestre Anselmo Ferreira para o arrendamento da sua propriedade sita na freguesia de Adão, concelho da Guarda, pela renda anual de 9000$00, e com Arminda Augusta de Almeida Durão Cordeiro para o arrendamento da sua propriedade localizada a 1 km de Castelo de Vide aproximadamente, pela renda anual de 10000$00, e por um período de dez anos renovável por iguais e sucessivos prazos se isso convier às partes contratantes.
 
-###### Art. 2.º A despesa com os citados arrendamentos não poderá exceder 19000$00 anualmente e constituirá encargo da dotação inscrita na despesa extraordinária do orçamento do Ministério da Economia - II Plano de Fomento - na verba consignada ao «Fomento florestal» e inscrita no corrente ano sob o capítulo 22.º, artigo 324.º
+Art. 2.º A despesa com os citados arrendamentos não poderá exceder 19000$00 anualmente e constituirá encargo da dotação inscrita na despesa extraordinária do orçamento do Ministério da Economia - II Plano de Fomento - na verba consignada ao «Fomento florestal» e inscrita no corrente ano sob o capítulo 22.º, artigo 324.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Outubro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Luís Le Cocq de Albuquerque de Azevedo Coutinho.

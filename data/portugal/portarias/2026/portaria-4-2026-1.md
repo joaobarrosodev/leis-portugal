@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/4/2026/01/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/4-2026-993782275
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-05T00:00:00Z'
+  retrieved_at: '2026-10-22T18:27:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08ed782b7692fa1b99fe5986d136d04210ee9248be4bde17074d3dd816dea160
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03a3017ab85af13e5f212cab086c4a6840dc3f3e8784b106b8b1c8bf74b59fcb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:27:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Turismo
-- Promoção Turística
-- Regulamentação de Atos Legislativos
 - Auxílio de Minimis
-- Incentivos ao Desenvolvimento
-- Instituto de Turismo de Portugal
-- Regulamento
 - Desenvolvimento Local
 - Estratégia para o Turismo 2027
+- Financiamento
+- Incentivos ao Desenvolvimento
+- Instituto de Turismo de Portugal
+- Promoção Turística
+- Regulamentação de Atos Legislativos
+- Regulamento
+- Turismo
 relationships:
+- type: amends
+  target: pt:numero:portaria:101/2023
+  label: Altera, a partir de 6 de janeiro de 2026, os artigos, 3.º, 6.º, 8.º, 11.º, 12.º, 14.º, 17.º, 18.º e 19.º e adita
+    o artigo 13.º-A ao Regulamento Específico do Sistema de Incentivos Portugal Events, publicado em anexo à Portaria n.º
+    101/2023, de 11 de abril, Diário da República n.º 71/2023, Série I, que republica em anexo
+  source: null
+  date: '2023-04-11'
 - type: cites
   target: celex:32014R0651
   label: null
@@ -105,16 +112,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/72/2016/11/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/72/2016/11/24/p/dre
+- type: cites
+  target: pt:dre:211580658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229915933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66108237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75796596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:906727861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928215560:por
+  label: null
+  source: null
 article_structure:
-  article_count: 34
+  article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:27:57Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +190,9 @@ c) Eventos a que se refere a alínea c): € 13 300 000,00 (treze milhões e tre
 
 3 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -171,7 +204,9 @@ c) Eventos de natureza local ou regional, que sejam capazes de dinamizar as econ
 
 2 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -203,7 +238,9 @@ f) [...]
 
 4 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O apoio financeiro é de natureza não reembolsável e não é cumulável com quaisquer outros apoios concedidos pelo Turismo de Portugal, I. P., sendo atribuído a um único evento e não podendo ser utilizado para a realização de edições posteriores do evento apoiado.
 
@@ -235,9 +272,11 @@ b) [...]
 
 8 - O membro do Governo com a tutela do setor do turismo pode, em casos excecionais devidamente justificados, autorizar que o apoio financeiro exceda as taxas de comparticipação e os limites previstos no presente artigo, desde que respeitados os limites dos enquadramentos a que se refere o artigo 20.º do presente Regulamento.
 
-9 - No caso das operações enquadráveis na alínea c) do n.º 1 do artigo 6.º do presente Regulamento, o apoio a conceder aos eventos que integram cada plano anual de eventos, no limite máximo de € 500 000,00 (quinhentos mil euros) por cada uma das entidades regionais de turismo ou secretarias regionais de turismo, corresponde à aplicação da taxa de comparticipação que, nos termos do n.º 2 do presente artigo e dos n.<sup>os</sup>1 e 2 do artigo seguinte, resultar da análise dos critérios de avaliação das operações e respetivo grau de relevância.
+9 - No caso das operações enquadráveis na alínea c) do n.º 1 do artigo 6.º do presente Regulamento, o apoio a conceder aos eventos que integram cada plano anual de eventos, no limite máximo de € 500 000,00 (quinhentos mil euros) por cada uma das entidades regionais de turismo ou secretarias regionais de turismo, corresponde à aplicação da taxa de comparticipação que, nos termos do n.º 2 do presente artigo e dos n.os1 e 2 do artigo seguinte, resultar da análise dos critérios de avaliação das operações e respetivo grau de relevância.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - As operações enquadráveis nas alíneas a) e c) do n.º 1 do artigo 6.º são avaliadas em função dos seguintes critérios:
 
@@ -263,7 +302,9 @@ e) [...]
 
 3 - [Revogado.]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -279,7 +320,9 @@ e) [...]
 
 7 - No que se refere aos eventos incluídos no plano anual de eventos a que se refere o n.º 3 do artigo 5.º do presente Regulamento, a análise referida no n.º 1 do presente artigo integra a avaliação efetuada pelas entidades regionais de turismo ou secretarias regionais de turismo no que diz respeito aos critérios de avaliação das operações e aos graus de relevância previstos no artigo 12.º do presente Regulamento.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -313,7 +356,9 @@ ii) [...]
 
 5 - [...]
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 [...]
 
@@ -321,7 +366,9 @@ a) Permitir o acesso do Turismo Portugal I. P., e, no caso dos eventos a que se 
 
 b) [...]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]
 
@@ -363,7 +410,7 @@ Pedidos de enquadramento no plano anual de eventos
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Turismo, Comércio e Serviços, Pedro Manuel Monteiro Machado, em 29 de dezembro de 2025.**
+O Secretário de Estado do Turismo, Comércio e Serviços, Pedro Manuel Monteiro Machado, em 29 de dezembro de 2025.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -577,7 +624,7 @@ b) 25 %, se o evento for realizado em territórios de baixa densidade.
 
 8 - O membro do Governo com a tutela do setor do turismo pode, em casos excecionais devidamente justificados, autorizar que o apoio financeiro exceda as taxas de comparticipação e os limites previstos no presente artigo, desde que respeitados os limites dos enquadramentos a que se refere o artigo 20.º do presente Regulamento.
 
-9 - No caso das operações enquadráveis na alínea c) do n.º 1 do artigo 6.º do presente Regulamento, o apoio a conceder aos eventos que integram cada plano anual de eventos, no limite máximo de € 500 000,00 (quinhentos mil euros) por cada uma das entidades regionais de turismo ou secretarias regionais de turismo, corresponde à aplicação da taxa de comparticipação que, nos termos do n.º 2 do presente artigo e dos n.<sup>os</sup>1 e 2 do artigo seguinte, resultar da análise dos critérios de avaliação das operações e respetivo grau de relevância.
+9 - No caso das operações enquadráveis na alínea c) do n.º 1 do artigo 6.º do presente Regulamento, o apoio a conceder aos eventos que integram cada plano anual de eventos, no limite máximo de € 500 000,00 (quinhentos mil euros) por cada uma das entidades regionais de turismo ou secretarias regionais de turismo, corresponde à aplicação da taxa de comparticipação que, nos termos do n.º 2 do presente artigo e dos n.os1 e 2 do artigo seguinte, resultar da análise dos critérios de avaliação das operações e respetivo grau de relevância.
 
 ###### Artigo 12.º — Critérios de avaliação das operações
 
@@ -673,7 +720,7 @@ a) Libertação de 50 % com a assinatura do Termo de Aceitação;
 
 b) Libertação de uma parcela adicional de 25 % com a justificação da realização das despesas que justificam a libertação prevista na alínea anterior, se solicitada pela entidade beneficiária;
 
-c) Libertação do valor remanescente após a verificação, pelo Turismo de Portugal, I. P., da conclusão física e financeira da operação, nos termos previstos nos n.<sup>os</sup>1 e 2 do artigo 19.º
+c) Libertação do valor remanescente após a verificação, pelo Turismo de Portugal, I. P., da conclusão física e financeira da operação, nos termos previstos nos n.os1 e 2 do artigo 19.º
 
 1.2 - Para os projetos enquadrados na alínea b) do n.º 1 do artigo 6.º:
 
@@ -724,3 +771,7 @@ b) A verificação física tem por base a realização de visitas aos locais de 
 1 - Para os eventos integrados nas alíneas a) e c) do n.º 1 do artigo 6.º que revistam natureza cultural como tal definida na alínea c) do artigo 2.º, a presente portaria respeita o regime de auxílios de Estado previsto para a categoria «Auxílios à cultura e conservação do património», estabelecido no artigo 53.º do Regime Geral de Isenção por Categoria (RGIC), aprovado pelo [Regulamento (UE) n.º 651/2014](https://data.europa.eu/eli/reg/2014/651/oj?locale=pt), da Comissão, de 16 de junho de 2014.
 
 2 - Para os eventos a que se refere a alínea b) do n.º 1 do artigo 6.º, assim como para os eventos a que se referem as alíneas a) e c) desse mesmo número que não revistam natureza cultural, é aplicável o regime de auxílios de minimis previsto no [Regulamento (UE) n.º 2023/2831](https://data.europa.eu/eli/reg/2023/2831/oj?locale=pt), da Comissão, de 13 de dezembro.
+
+119939029
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:21px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; }

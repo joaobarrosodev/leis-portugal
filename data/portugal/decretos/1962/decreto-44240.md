@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44240-1962-516702
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-09-05T00:00:00Z'
+  retrieved_at: '2026-10-22T19:28:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96238f79bee62bc1170819f6544d347e187b60ba53873d88aff226e84a983c69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ab5700dd5da1efc7fe63c75e45d84119ef4f7c678ea2fdab09b6a2e90766e94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:28:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Angola.Colónia Portuguesa
+- Criação de Serviços
+- Ensino Primário
+- Escola do Magistério Primário
+- Formação de Professores
+- Formas de Provimento
+- Gratificação
+- Moçambique.Colónia Portuguesa
+- Remuneração
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:414041:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:180424:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:28:28Z'
   warnings: []
   errors: []
 ---
@@ -111,13 +125,13 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Haverá no ultramar escolas do magistério primário, destinadas a preparar pessoal docente para o ensino primário comum, nas províncias em que seja reconhecida a sua necessidade para o preenchimento dos quadros oficiais daquele ensino.
+Artigo 1.º Haverá no ultramar escolas do magistério primário, destinadas a preparar pessoal docente para o ensino primário comum, nas províncias em que seja reconhecida a sua necessidade para o preenchimento dos quadros oficiais daquele ensino.
 
-###### Art. 2.º Os estudos feitos nas escolas oficiais do magistério primário do ultramar, e o respectivo Exame de Estado, têm a mesma validade dos realizados nas escolas oficiais da metrópole da mesma categoria.
+Art. 2.º Os estudos feitos nas escolas oficiais do magistério primário do ultramar, e o respectivo Exame de Estado, têm a mesma validade dos realizados nas escolas oficiais da metrópole da mesma categoria.
 
-###### Art. 3.º Será determinada a aplicação ao ultramar, com as convenientes adaptações, dos preceitos reguladores do ensino de preparação para o magistério primário.
+Art. 3.º Será determinada a aplicação ao ultramar, com as convenientes adaptações, dos preceitos reguladores do ensino de preparação para o magistério primário.
 
-###### Art. 4.º Em cada uma das escolas do magistério primário haverá:
+Art. 4.º Em cada uma das escolas do magistério primário haverá:
 
 a) Um professor de Pedagogia, Didáctica Geral e História da Educação, nomeado entre os professores efectivos do ensino liceal ou do 2.º grau do ensino técnico;
 
@@ -157,29 +171,29 @@ i) Um professor e uma professora de Educação Física, nomeados entre professor
 
 § 10.º Às nomeações de professores em comissão aplica-se o § 1.º do artigo 3.º do [Decreto-Lei n.º 43913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43913-1961-180424), de 14 de Setembro de 1961.
 
-###### Art. 5.º A prática pedagógica será realizada em escolas oficiais do ensino primário, as quais poderão ser:
+Art. 5.º A prática pedagógica será realizada em escolas oficiais do ensino primário, as quais poderão ser:
 
 a) Quaisquer da mesma localidade, designadas para o efeito pelo director ou chefe dos serviços de instrução;
 
 b) Anexas às escolas do magistério primário, com a designação de escolas de aplicação, se assim forem classificadas pelo governador, ou pelo mesmo vierem a ser instituídas com tal classificação.
 
-###### Art. 6.º O estágio será realizado em escolas primárias oficiais sob a direcção de professores-orientadores, aos quais será abonada. gratificação enquanto durar o estágio.
+Art. 6.º O estágio será realizado em escolas primárias oficiais sob a direcção de professores-orientadores, aos quais será abonada. gratificação enquanto durar o estágio.
 
-###### Art. 7.º É sempre director da escola o professor de Pedagogia, Didáctica Geral e História da Educação, o qual terá uma gratificação permanente pelo exercício da mesma direcção.
+Art. 7.º É sempre director da escola o professor de Pedagogia, Didáctica Geral e História da Educação, o qual terá uma gratificação permanente pelo exercício da mesma direcção.
 
-###### Art. 8.º E da competência dos órgãos legislativos provinciais a fixação de gratificações previstas no presente decreto, e bem assim as quantias destinadas a remunerar lições.
+Art. 8.º E da competência dos órgãos legislativos provinciais a fixação de gratificações previstas no presente decreto, e bem assim as quantias destinadas a remunerar lições.
 
-###### Art. 9.º Inicialmente, as escolas do magistério primário podem funcionar em instalações liceais ou em escolas primárias oficiais.
+Art. 9.º Inicialmente, as escolas do magistério primário podem funcionar em instalações liceais ou em escolas primárias oficiais.
 
-###### Art. 10.º São desde já criadas duas escolas do magistério primário em Angola e duas em Moçambique, as quais funcionarão nas localidades que para o efeito forem escolhidas pelos respectivos conselhos legislativos.
+Art. 10.º São desde já criadas duas escolas do magistério primário em Angola e duas em Moçambique, as quais funcionarão nas localidades que para o efeito forem escolhidas pelos respectivos conselhos legislativos.
 
 § único. Com vista à dotação destas escolas, será aumentado o quadro burocrático dos serviços de instrução de cada uma das províncias mencionadas com um segundo-oficial e um dactilógrafo e criados dois lugares de contínuo e dois de servente para cada escola, mas o seu provimento não será realizado enquanto efectivamente se não verificar a sua indispensabilidade para o funcionamento das mesmas escolas.
 
-###### Art. 11.º Compete aos governadores das províncias, por diploma legislativo, determinar a sede das escolas previstas neste decreto.
+Art. 11.º Compete aos governadores das províncias, por diploma legislativo, determinar a sede das escolas previstas neste decreto.
 
-###### Art. 12.º Ficam os governos das províncias autorizados a abrir os créditos necessários para a execução deste decreto, com contrapartida em recursos orçamentais.
+Art. 12.º Ficam os governos das províncias autorizados a abrir os créditos necessários para a execução deste decreto, com contrapartida em recursos orçamentais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 17 de Março de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

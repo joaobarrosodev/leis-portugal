@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/03/04800/0144001440.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/10/2008/03/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-2008-247245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-07-06T00:00:00Z'
+  retrieved_at: '2026-10-22T19:09:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90af59805354ecfafa70f7d35eb8ea1fcaae5150c1569466ad4e206bcc6e78d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8aaff4e16c3bbad3f98987b6f179ceb123ca4e96bfc790ff802ad9149de8c075
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:09:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,17 @@ reuse:
 subjects:
 - Acreditação
 - Apoio Pedagógico
-- Educação Especial
 - Deficiente Auditivo
 - Deficiente Visual
+- Educação Especial
+- Educação Pré-escolar
+- Ensino Básico
 - Ensino Cooperativo
 - Ensino Oficial
 - Ensino Particular
 - Igualdade de Oportunidades
-- Proteção ao Deficiente
 - Pessoal Docente
-- Ensino Básico
-- Educação Pré-escolar
+- Proteção ao Deficiente
 relationships:
 - type: amended_by
   target: pt:dre:115652961:por
@@ -117,16 +117,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/611/1993/06/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/611/1993/06/29/p/dre
+- type: cites
+  target: pt:dre:338986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675023:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:despacho-normativo:30/2001
+  label: "Rectifica a norma revogatória (ficando sem efeito a revogação constante da alínea: \"f) Os n.os 51 e 52 do Despacho\
+    \ Normativo n.º 30/2001, de 19 de Julho, DR.IS-B [166]\") do Decreto-Lei n.º 3/2008, de 7 de Janeiro, DR.IS [4]\0\0"
+  source: null
+  date: '2008-01-07'
+- type: repealed_by
+  target: pt:dre:115652961:por
+  label: Revogado, a partir de 11.07.2018 e com efeitos a partir do ano escolar 2018-2019, o Dec Lei 3/2008 de 07-jan, retificado
+    pela presente declaração, pelo(a) Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/54-2018-115652961
+  date: '2018-07-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:09:31Z'
   warnings: []
   errors: []
 ---

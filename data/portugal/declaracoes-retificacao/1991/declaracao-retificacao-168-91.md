@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 174/1991, 3º Suplemento, Série I-B de 1991-07-31
   number: '174'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3774-(11) a 3774-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/07/174b03/00110011.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/168/1991/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/168-1991-521575
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:29:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b52d50f6901ea0e8be6ba8069d9309426754ad556e4a810b79e010f30f20daac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e7531f65672ef618e2d0a08be53d31f04cab60d2f4149efd5505fe33167599b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:29:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,28 +71,32 @@ subjects:
 - Circunscrição Florestal
 - Direcção Geral das Florestas
 - Exploração Florestal
-- Recursos Naturais
 - Guarda
+- Recursos Naturais
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/510/1991/06/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/510/1991/06/06/p/dre
+- type: cites
+  target: pt:dre:633552:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:29:40Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 168/91
+# Declaração de rectificação n.º 168/91
 
 Segundo comunicação do Ministério da Agricultura, Pescas e Alimentação, a [Portaria n.º 510/91](https://diariodarepublica.pt/dr/detalhe/portaria/510-1991-633552), publicada no Diário da República, 1.ª série, n.º 129, de 6 de Junho de 1991, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
 

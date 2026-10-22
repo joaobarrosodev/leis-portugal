@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44415-1962-164471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-06-25T00:00:00Z'
+  retrieved_at: '2026-10-22T19:29:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73b260a7dbc4caee7d8b02e4ec48ca945246070763016a176ded375c85b0cab2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b441d3c8378999bbc7d1f512a1d968b004da348bab7aae55d040d85fb5ceb610
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:29:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:435245:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:29:51Z'
   warnings: []
   errors: []
 ---
@@ -86,14 +90,14 @@ Verificando-se que, em determinadas condições, a aplicação das disposições
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. O artigo 100.º do Estatuto dos Oficiais da Armada, aprovado pelo [Decreto n.º 28211](https://diariodarepublica.pt/dr/detalhe/decreto/28211-1937-435245), de 23 de Novembro de 1937, passa a ter a redacção seguinte:
+Artigo único. O artigo 100.º do Estatuto dos Oficiais da Armada, aprovado pelo [Decreto n.º 28211](https://diariodarepublica.pt/dr/detalhe/decreto/28211-1937-435245), de 23 de Novembro de 1937, passa a ter a redacção seguinte:
 
-###### Art. 100.º Para todos os oficiais da Armada é contado como tempo de navegação o que for feito no mar e aquele que, efectuado dentro de barras, rios ou portos fechados, corresponda a navegação preliminar ou complementar da navegação no mar.
+Art. 100.º Para todos os oficiais da Armada é contado como tempo de navegação o que for feito no mar e aquele que, efectuado dentro de barras, rios ou portos fechados, corresponda a navegação preliminar ou complementar da navegação no mar.
 
 § 1.º Pode o Ministro da Marinha, por despacho publicado na Ordem do Dia à Armada, autorizar que seja contado como tempo de navegação o realizado dentro de barras, rios ou portos fechados, quando se trate de navios que operem normalmente nesses locais e desde que as condições em que a navegação é feita o justifiquem.
 
 § 2.º Para os oficiais engenheiros maquinistas navais e para os do serviço geral provenientes da classe dos sargentos artífices condutores de máquinas, do tempo de navegação referido no corpo deste artigo e parágrafo anterior só é contado aquele em que o navio navegou com as suas máquinas propulsoras.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Junho de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Fernando Quintanilha Mendonça Dias.

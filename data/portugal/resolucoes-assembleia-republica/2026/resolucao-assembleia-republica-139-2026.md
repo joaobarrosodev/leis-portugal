@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/139/2026/06/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/139-2026-1129390705
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-03T00:00:00Z'
+  retrieved_at: '2026-10-22T18:43:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f31ba22c2a9f66dd3cd27e8d46a89ff6e53a9589e85939175ccb454a94497bba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25dcc5e4232764873c13b63bf3455c36dbc5cdb1b72525460496017560e96edb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:43:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
-- Lisboa
 - Brasil
+- Convenção
+- Lisboa
+- Portugal
 - Tratado de Amizade Cooperação e Consulta entre a República Portuguesa e a República Federativa do Brasil
 relationships:
+- type: amended_by
+  target: pt:dre:1129390701:por
+  label: Ratificado o Acordo Complementar ao Tratado de Amizade, Cooperação e Consulta entre a República Portuguesa e a República
+    Federativa do Brasil pelo(a) Decreto do Presidente da República n.º 81/2026 - Diário da República n.º 107/2026, Série
+    I de 2026-06-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/81-2026-1129390701
+  date: '2026-06-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/699/2006/07/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/699/2006/07/12/p/dre
+- type: cites
+  target: pt:dre:537248:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:43:00Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +110,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 8 de maio de 2026.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar-Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar-Branco.
 
 Acordo Complementar ao Tratado de Amizade, Cooperação e Consulta entre a República Portuguesa e a República Federativa do Brasil, assinado em Porto Seguro, em 22 de abril de 2000, sobre a concessão de equivalência de estudos no Brasil (ensino fundamental e médio) e em Portugal (ensino básico e secundário).
 
@@ -213,22 +224,26 @@ Pela República Portuguesa, João Gomes Cravinho, Ministro dos Negócios Estrang
 
 ## ANEXO — Tabela Comparativa
 
-| Idade (de referência) | Tabela comparativa entre os sistemas de ensino Fundamental/Básico e Médio/Secundário (a) | Tabela comparativa entre os sistemas de ensino Fundamental/Básico e Médio/Secundário (a) | Tabela comparativa entre os sistemas de ensino Fundamental/Básico e Médio/Secundário (a) | Tabela comparativa entre os sistemas de ensino Fundamental/Básico e Médio/Secundário (a) | Tabela comparativa entre os sistemas de ensino Fundamental/Básico e Médio/Secundário (a) |
+| Idade (de referência) | Tabela comparativa entre os sistemas de ensino Fundamental/Básico e Médio/Secundário (a) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Idade (de referência) | Brasil(b) | Brasil(b) | Portugal | Portugal | Portugal |
-| 17 | Ensino médio | 3.º ano | Ensino secundário | Ensino secundário | 12.º ano |
-| 16 | Ensino médio | 2.º ano | Ensino secundário | Ensino secundário | 11.º ano |
-| 15 | Ensino médio | 1.º ano | Ensino secundário | Ensino secundário | 10.º ano |
+| Brasil(b) | Portugal |  |  |  |  |
+| 17 | Ensino médio | 3.º ano | Ensino secundário | 12.º ano |  |
+| 16 | 2.º ano | 11.º ano |  |  |  |
+| 15 | 1.º ano | 10.º ano |  |  |  |
 | 14 | Ensino fundamental: anos finais | 9.º ano | Ensino básico | 3.º ciclo | 9.º ano |
-| 13 | Ensino fundamental: anos finais | 8.º ano | Ensino básico | 3.º ciclo | 8.º ano |
-| 12 | Ensino fundamental: anos finais | 7.º ano | Ensino básico | 3.º ciclo | 7.º ano |
-| 11 | Ensino fundamental: anos finais | 6.º ano | Ensino básico | 2.º ciclo | 6.º ano |
-| 10 | Ensino fundamental: anos iniciais | 5.º ano | Ensino básico | 2.º ciclo | 5.º ano |
-| 9 | Ensino fundamental: anos iniciais | 4.º ano | Ensino básico | 1.º ciclo | 4.º ano |
-| 8 | Ensino fundamental: anos iniciais | 3.º ano | Ensino básico | 1.º ciclo | 3.º ano |
-| 7 | Ensino fundamental: anos iniciais | 2.º ano | Ensino básico | 1.º ciclo | 2.º ano |
-| 6 | Ensino fundamental: anos iniciais | 1.º ano | Ensino básico | 1.º ciclo | 1.º ano |
+| 13 | 8.º ano | 8.º ano |  |  |  |
+| 12 | 7.º ano | 7.º ano |  |  |  |
+| 11 | 6.º ano | 2.º ciclo | 6.º ano |  |  |
+| 10 | Ensino fundamental: anos iniciais | 5.º ano | 5.º ano |  |  |
+| 9 | 4.º ano | 1.º ciclo | 4.º ano |  |  |
+| 8 | 3.º ano | 3.º ano |  |  |  |
+| 7 | 2.º ano | 2.º ano |  |  |  |
+| 6 | 1.º ano | 1.º ano |  |  |  |
 
 (a) Aplicável apenas aos requerentes detentores de habilitações obtidas ao abrigo da Lei n.º 9394/1996, de 20 de dezembro de 1996, que estabelece as Diretrizes e Bases da Educação Nacional, com as alterações introduzidas pela Lei n.º 11 274/2006, de 6 de fevereiro, que estabelece as Diretrizes e Bases da Educação Nacional, dispondo sobre a duração de 9 (nove) anos para o ensino fundamental, com matrícula obrigatória a partir dos 6 (seis) anos de idade.
 
 (b) Aos requerentes detentores de habilitações organizadas em séries e obtidas até à publicação da Lei n.º 11 274/2006, de 6 de fevereiro, continua a aplicar-se o disposto na Tabela Comparativa A, do Anexo VI, da [Portaria n.º 699/2006](https://diariodarepublica.pt/dr/detalhe/portaria/699-2006-537248), de 12 de julho.
+
+119948529
+
+.Tbl1 { border-collapse:collapse; border-color:rgb(255,255,255); } .Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(64,64,64); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(64,64,64); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { min-height:17px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl8 { min-height:18px; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl13 { border-bottom-color:rgb(64,64,64); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl14 { border-bottom-color:rgb(64,64,64); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; }

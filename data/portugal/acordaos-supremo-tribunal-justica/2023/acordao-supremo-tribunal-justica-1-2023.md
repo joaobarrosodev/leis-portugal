@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/02300/0000900021.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/1/2023/02/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/1-2023-206800918
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-01T00:00:00Z'
+  retrieved_at: '2026-10-22T17:54:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 933336497301f1416097e86b336f7a6e3740c26f4ecf3591333baa9e0f8dcf95
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d59041b1b4d6f081e85da4225e12532d3a5e880deeae94a0851d359fcfadcb9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:54:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Obrigação Alimentar
-- Pagamento
+- Direito de Família
 - Interpretação do Direito
 - Jurisprudencia
 - Menoridade
+- Obrigação Alimentar
+- Pagamento
 - Prazo
 - Prazo Processual
+- Recurso
 - Supremo Tribunal de Justiça
-- Direito de Família
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/164/1999/05/13/p/dre
@@ -101,16 +101,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/75/1998/11/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/75/1998/11/19/p/dre
+- type: cites
+  target: pt:dre:190201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378943:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70215245:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:54:30Z'
   warnings: []
   errors: []
 ---
@@ -275,7 +307,7 @@ Pelo que, a partir de 01/01/2008, a referência ao recurso de agravo, constante 
 
 E que só surgiu quando, em 2015, pela [Lei n.º 141/2015](https://diariodarepublica.pt/dr/detalhe/lei/141-2015-70215245), de 8/9, foi aprovado o Regime Geral do Processo Tutelar Cível (art. 1.º) e revogada a antiga OTM (art.6.º/a)), RGPTC que estabelece o processo tutelar cível especial de "regulação do exercício das responsabilidades parentais e resolução de questões conexas" (art.34 e segs.) e, dentro deste, o incidente de incumprimento (art.41.º), que abrange todo o tipo de incumprimento relacionado com a criança e ainda o procedimento de efetivação previsto no art.48.º , no âmbito do processo especial de alimentos devidos a menores (art. 45.º e 47.º).
 
-###### Artigo 48.º do RGPTC que contém um mecanismo célere de efetivação da prestação de alimentos - ou seja, um mecanismo inteiramente idêntico ao do anterior art. 189.º OTM - sendo por isso nele (nos autos respeitantes ao art. 48.º do RGPCT) que hoje será requerida a prestação a cargo do FGADM, o mesmo é dizer, devendo a referência, que no art. 1.º da [Lei n.º 75/98](https://diariodarepublica.pt/dr/detalhe/lei/75-1998-230700) é feita ao art. 189.º da OTM, valer e ser entendida, hoje, como respeitando ao art. 48.º do RGPTC (assim como a referência aos "autos de incumprimento" constante do art. 3.º/1/a) da mesma [Lei n.º 75/98](https://diariodarepublica.pt/dr/detalhe/lei/75-1998-230700)).
+Artigo 48.º do RGPTC que contém um mecanismo célere de efetivação da prestação de alimentos - ou seja, um mecanismo inteiramente idêntico ao do anterior art. 189.º OTM - sendo por isso nele (nos autos respeitantes ao art. 48.º do RGPCT) que hoje será requerida a prestação a cargo do FGADM, o mesmo é dizer, devendo a referência, que no art. 1.º da [Lei n.º 75/98](https://diariodarepublica.pt/dr/detalhe/lei/75-1998-230700) é feita ao art. 189.º da OTM, valer e ser entendida, hoje, como respeitando ao art. 48.º do RGPTC (assim como a referência aos "autos de incumprimento" constante do art. 3.º/1/a) da mesma [Lei n.º 75/98](https://diariodarepublica.pt/dr/detalhe/lei/75-1998-230700)).
 
 Por conseguinte, fechando o raciocínio, o procedimento "especialíssimo" previsto no art. 3.º da [Lei n.º 75/98](https://diariodarepublica.pt/dr/detalhe/lei/75-1998-230700) corre, atualmente, os seus termos nos autos respeitantes ao art. 48.º da RGPTC e, por isso, naquilo que não estiver previsto na regulamentação que lhe é dada pelo art. 3.º da [Lei n.º 75/98](https://diariodarepublica.pt/dr/detalhe/lei/75-1998-230700), fica sujeito às regras processuais aplicáveis aos autos onde tal procedimento "especialíssimo" corre.
 
@@ -440,3 +472,5 @@ Por outro lado, ainda que se entenda que o prazo de interposição do recurso de
 Com efeito o artigo 32.º do RGPTC apenas regula os recursos das "decisões que se pronunciem [...] sobre a aplicação, alteração ou cessação de medidas tutelares cíveis" e não já dos recursos dos acórdãos que apreciem aqueles recursos; o que aí está regulado é apenas o recurso de apelação. Na falta de regulamentação específica do recurso de revista este será regido pelas regras do processo civil, em conformidade com o disposto no artigo 33.º do RGPTC. Donde sempre se alcançaria o prazo geral de 30 dias.
 
 23 nov 2022. - Rijo Ferreira.
+
+116107866

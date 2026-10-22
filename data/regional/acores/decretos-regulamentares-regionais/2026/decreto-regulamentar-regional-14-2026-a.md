@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/14/2026/08/05/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2026-1154555180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T18:49:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbd6f9f66d294700cffddb9e5a8b34220a49faee72ee3b777df6b88122501f4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55ced00516ba68c872d523757a50ce46db9212fd081da507d43601ddec61a955
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:49:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
-- Contra-ordenação
-- Definição de Competências
-- Regulamentação de Atos Legislativos
-- Fiscalização
-- Caldeira da Graciosa
-- Parque Natural
-- Parque Natural da Ilha Graciosa
-- Proteção do Ambiente
-- Diversidade Biológica
-- Zona de Proteção
-- Património Natural
-- Regulamento
-- Ilha Graciosa
 - Açores
-- Rede Natura 2000
+- Estatuto Político-administrativo da Região Autónoma dos Açores
+- Governo Regional
+- Ilha Graciosa
+- Parque Natural da Ilha Graciosa
+- Património Natural
+- Plano de Gestão Florestal
+- Proteção do Ambiente
+- Regulamentação de Atos Legislativos
+- Regulamento
+- Relatório
 relationships:
 - type: cites
   target: celex:31991L0676
@@ -134,6 +129,114 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:122373686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207881792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:64797341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70014797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74711478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75170439:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31991L0676
   label: null
@@ -149,13 +252,13 @@ relationships:
 article_structure:
   article_count: 28
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:49:19Z'
   warnings: []
   errors: []
 ---
@@ -232,11 +335,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 13 de maio de 2026.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 8 de julho de 2026.**
+Assinado em Angra do Heroísmo em 8 de julho de 2026.
 
-**Publique-se.**
+Publique-se.
 
 A Representante da República para a Região Autónoma dos Açores, Susana Goulart Costa.
 
@@ -618,13 +721,15 @@ O presente regulamento não prejudica os pedidos de autorização ou licenciamen
 
 Planta de Zonamento
 
-![](https://files.diariodarepublica.pt/images/1154555180/1154555107.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555180/1154555107.png) |
+| --- |
 
 ## ANEXO III — [a que se refere a alínea c) do n.º 1 do artigo 1.º]
 
 Planta de Condicionantes
 
-![](https://files.diariodarepublica.pt/images/1154555180/1154555108.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555180/1154555108.png) |
+| --- |
 
 ## ANEXO IV — [a que se refere a alínea d) do n.º 1 do artigo 1.º]
 
@@ -728,25 +833,29 @@ Anexos
 
 O Arquipélago dos Açores localiza-se no oceano Atlântico norte ocupando uma faixa definida pelas seguintes coordenadas geográficas: 39° 43’ 23’’ (Ponta Norte - ilha do Corvo) e 36° 55’ 43’’ (Ponta do Castelo - ilha de Santa Maria) de latitude norte; 24° 46’ 15’’ (ilhéus das Formigas - ilha de Santa Maria) e 31° 16’ 24’’ (ilhéu de Monchique - ilha das Flores) de longitude oeste.
 
-![](https://files.diariodarepublica.pt/images/1154555180/1154555109.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555180/1154555109.png) |
+| --- |
 
 Figura 1 - Arquipélago dos Açores no mundo
 
 As ilhas encontram-se agrupadas atendendo à proximidade geográfica: Grupo Ocidental (Corvo e Flores); Grupo Central (Terceira, Graciosa, São Jorge, Pico e Faial); Grupo Oriental (São Miguel e Santa Maria). O Grupo Central distancia-se cerca de 150 km e de 240 km dos Grupos Oriental e Ocidental, respetivamente.
 
-![](https://files.diariodarepublica.pt/images/1154555180/1154555110.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555180/1154555110.png) |
+| --- |
 
 Figura 2 - Arquipélago dos Açores e ilha Graciosa
 
 A partir da Carta de Ocupação do Solo da Região Autónoma dos Açores de 2018 (COS.A/2018) pode concluir-se que para a ilha Graciosa os prados/pastagens representam mais de metade da ocupação total (59,97 %) e encontram-se distribuídos por toda a ilha. As florestas de folhosas (16,36 %) concentram-se nos cones de escórias, escoada lávica do pico Timão e a Caldeira da Graciosa.
 
-![](https://files.diariodarepublica.pt/images/1154555180/1154555111.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555180/1154555111.png) |
+| --- |
 
 Figura 3 - Usos do solo a partir da COS.A/2018
 
 Para a adequada gestão dos Parques Naturais de Ilha (PNI) é também fundamental ter conhecimento do regime de propriedade dos terrenos neles integrados. Nos Açores, uma parte substancial dos terrenos públicos estão integrados nos perímetros florestais, sendo que, na ilha Graciosa (figura 4), o perímetro florestal representa cerca de 34 % do respetivo Parque Natural, abrangendo um conjunto de terrenos baldios que foram submetidos ao regime florestal parcial e que se encontram sob gestão da entidade com competência em matéria de recursos florestais. Refira-se, no entanto, que as áreas de perímetro florestal que, entretanto, foram classificadas no âmbito da Rede de Áreas Protegidas dos Açores estão sujeitas ao respetivo regime de classificação e ao regime jurídico da conservação da natureza e da biodiversidade, estabelecido pelo [Decreto Legislativo Regional n.º 15/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2012-553893), de 2 de abril.
 
-![](https://files.diariodarepublica.pt/images/1154555180/1154555112.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555180/1154555112.png) |
+| --- |
 
 Figura 4 - Perímetro florestal e áreas protegidas (perímetro florestal - DRRF, 2014)
 
@@ -754,7 +863,8 @@ O regime jurídico da conservação da natureza e biodiversidade, aprovado pelo 
 
 O conjunto das áreas integradas no Parque Natural de Ilha, Rede Natura 2000 e as áreas de Reserva Ecológica e de Reserva Agrícola conformam a Rede Fundamental da Conservação da Natureza.
 
-![](https://files.diariodarepublica.pt/images/1154555180/1154555113.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555180/1154555113.png) |
+| --- |
 
 Figura 5 - Rede Fundamental da Conservação da Natureza - Integra as áreas protegidas, as áreas da Rede Natura 2000, a Reserva Ecológica e a Reserva Agrícola (IROA 2013)
 
@@ -774,21 +884,22 @@ Este Plano de Gestão contribui para a concretização desses objetivos.
 
 Para a ilha Graciosa são consideradas sete unidades de paisagem, a seguir identificadas com a respetiva denominação e código:
 
-a) Currais da Graciosa (G1) - abrange uma área de, aproximadamente, 5 km<sup>2</sup> do concelho de Santa Cruz da Graciosa e integra os aglomerados urbanos de Dores e Bom Jesus;
+a) Currais da Graciosa (G1) - abrange uma área de, aproximadamente, 5 km2 do concelho de Santa Cruz da Graciosa e integra os aglomerados urbanos de Dores e Bom Jesus;
 
-b) Campos Agrícolas entre Santa Cruz, Guadalupe e Vitória (G2) - abrange uma área de, aproximadamente, 20 km<sup>2</sup> do concelho de Santa Cruz da Graciosa e integra os aglomerados urbanos de Santa Cruz da Graciosa, Funchais, Guadalupe, Almas, Ribeirinha e Vitória;
+b) Campos Agrícolas entre Santa Cruz, Guadalupe e Vitória (G2) - abrange uma área de, aproximadamente, 20 km2 do concelho de Santa Cruz da Graciosa e integra os aglomerados urbanos de Santa Cruz da Graciosa, Funchais, Guadalupe, Almas, Ribeirinha e Vitória;
 
-c) Pastagens da Encosta da Serra Branca (G3) - abrange uma área de, aproximadamente, 7 km<sup>2</sup> do concelho de Santa Cruz da Graciosa e integra os aglomerados urbanos de Fajã e Esperança Velha;
+c) Pastagens da Encosta da Serra Branca (G3) - abrange uma área de, aproximadamente, 7 km2 do concelho de Santa Cruz da Graciosa e integra os aglomerados urbanos de Fajã e Esperança Velha;
 
-d) Maciço Central (Serras Dormida e Fontes) (G4) - abrange uma área de, aproximadamente, 7 km<sup>2</sup> do concelho de Santa Cruz da Graciosa e integra a franja terminal dos povoados de Caminho do Pontal/ Feteira e Caminho de Manuel Gaspar;
+d) Maciço Central (Serras Dormida e Fontes) (G4) - abrange uma área de, aproximadamente, 7 km2 do concelho de Santa Cruz da Graciosa e integra a franja terminal dos povoados de Caminho do Pontal/ Feteira e Caminho de Manuel Gaspar;
 
-e) Vale Praia/Luz (G5) - abrange uma área de, aproximadamente, 15 km<sup>2</sup> do concelho de Santa Cruz da Graciosa e integra os aglomerados urbanos de Praia, Lagoa, Fonte do Mato, Feteira, Canada Longa, Luz e Limeira;
+e) Vale Praia/Luz (G5) - abrange uma área de, aproximadamente, 15 km2 do concelho de Santa Cruz da Graciosa e integra os aglomerados urbanos de Praia, Lagoa, Fonte do Mato, Feteira, Canada Longa, Luz e Limeira;
 
-f) Caldeira do Enxofre (G6) - abrange uma área de, aproximadamente, 1 km<sup>2</sup> do concelho de Santa Cruz da Graciosa e não integra aglomerados urbanos;
+f) Caldeira do Enxofre (G6) - abrange uma área de, aproximadamente, 1 km2 do concelho de Santa Cruz da Graciosa e não integra aglomerados urbanos;
 
-g) Encostas Marítimas da Caldeira do Enxofre (G7) - abrange uma área de, aproximadamente, 7 km<sup>2</sup> do concelho de Santa Cruz da Graciosa e integra os aglomerados urbanos de Fenais e Carapacho.
+g) Encostas Marítimas da Caldeira do Enxofre (G7) - abrange uma área de, aproximadamente, 7 km2 do concelho de Santa Cruz da Graciosa e integra os aglomerados urbanos de Fenais e Carapacho.
 
-![](https://files.diariodarepublica.pt/images/1154555180/1154555114.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555180/1154555114.png) |
+| --- |
 
 Figura 6 - Unidades de Paisagem da ilha Graciosa
 
@@ -812,27 +923,31 @@ Atualmente, nos Açores são conhecidos mais de três centenas de cavidades vulc
 
 Neste contexto, o Plano de Gestão prevê a implementação de medidas de gestão para as cavidades vulcânicas, dando execução ao disposto no [Decreto Legislativo Regional n.º 10/2019/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2019-122373686), de 22 de maio.
 
-![](https://files.diariodarepublica.pt/images/1154555180/1154555115.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555180/1154555115.png) |
+| --- |
 
 Figura 7 - Cavidades Vulcânicas da ilha Graciosa
 
 O Parque Natural da Ilha Graciosa foi criado em 2008, pelo [Decreto Legislativo Regional n.º 45/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-439158), de 5 de novembro. Integram o PNI da Graciosa todas as áreas classificadas da Rede Natura 2000, nomeadamente as Zonas Especiais de Conservação (ZEC) e as Zonas de Proteção Especial (ZPE), e as restantes áreas protegidas classificadas e reclassificadas segundo o referido decreto.
 
-O PNI da Graciosa integra 8 áreas protegidas, das quais 6 apresentam área terrestre com uma área total de 3,53 km<sup>2</sup>, o que corresponde a 5,80 % da superfície da Graciosa, e 4 áreas apresentam área marinha com 7,56 km<sup>2</sup>. Este Plano de Gestão ocupa-se da componente terrestre do Parque Natural.
+O PNI da Graciosa integra 8 áreas protegidas, das quais 6 apresentam área terrestre com uma área total de 3,53 km2, o que corresponde a 5,80 % da superfície da Graciosa, e 4 áreas apresentam área marinha com 7,56 km2. Este Plano de Gestão ocupa-se da componente terrestre do Parque Natural.
 
 Na figura seguinte apresentam-se as áreas protegidas pertencentes ao PNI da Graciosa descriminadas segundo as categorias definidas pela União Internacional para a Conservação da Natureza (IUCN): à categoria I corresponde a designação de Reserva Natural; à categoria III corresponde a designação de Monumento Natural; à categoria IV corresponde à designação de Área Protegida para a Gestão de Habitats e Espécies e à categoria VI a designação de Área Protegida de Gestão de Recursos.
 
-![](https://files.diariodarepublica.pt/images/1154555180/1154555116.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555180/1154555116.png) |
+| --- |
 
 Figura 8 - Áreas protegidas de acordo com as categorias IUCN
 
-![](https://files.diariodarepublica.pt/images/1154555180/1154555117.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555180/1154555117.png) |
+| --- |
 
 Figura 9 - Áreas protegidas do PNI da Graciosa e respetivo código adotado
 
 Na figura 10 mostra-se a relação das áreas terrestres do PNI da Graciosa com as áreas da Rede Natura 2000, concretamente as Zonas Especiais de Conservação (ZEC) e as Zonas de Proteção Especial (ZPE).
 
-![](https://files.diariodarepublica.pt/images/1154555180/1154555118.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555180/1154555118.png) |
+| --- |
 
 Figura 10 - Relação das Zonas Especiais de Conservação (ZEC) e das Zonas de Proteção Especial (ZPE) com as áreas protegidas do PNI
 
@@ -862,7 +977,8 @@ Têm ainda que apresentar um modelo de governação e um plano de ação/gestão
 
 Esta classificação não colide com as Áreas Protegidas ou com a Rede Natura 2000, pois é complementar e beneficia do trabalho que aí se desenvolve, nomeadamente ao nível da conservação da biodiversidade.
 
-![](https://files.diariodarepublica.pt/images/1154555180/1154555119.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555180/1154555119.png) |
+| --- |
 
 Figura 11 - Relação das zonas da Reserva da Biosfera com as áreas protegidas do PNI
 
@@ -875,13 +991,13 @@ A bege-claro, indicam-se as áreas protegidas com componente terrestre, que são
 | Categorias IUCN | Código | Designação | Classificações internacionais |
 | --- | --- | --- | --- |
 | Reserva Natural (I) | GRA01 | Ilhéu de Baixo | ZEC PTGRA0015 - Ilhéu de Baixo e Ponta da RestingaZPE PTZPE0029 - Ilhéu de BaixoIBA PT059 - Ilhéu de Baixo e Costa AdjacenteIBA PTM10 - GraciosaZona Núcleo da Reserva da Biosfera da Ilha GraciosaGeossítio do Açores Geoparque Mundial da UNESCO - Pontas do Carapacho e da Restinga e Ilhéu de Baixo |
-| Reserva Natural (I) | GRA02 | Ilhéu da Praia | ZPE PTZPE0030 - Ilhéu da PraiaIBA PT060 - Ilhéu da PraiaIBA PTM10 - GraciosaZona Núcleo da Reserva da Biosfera da Ilha Graciosa |
+| GRA02 | Ilhéu da Praia | ZPE PTZPE0030 - Ilhéu da PraiaIBA PT060 - Ilhéu da PraiaIBA PTM10 - GraciosaZona Núcleo da Reserva da Biosfera da Ilha Graciosa |  |
 | Monumento Natural (III) | GRA03 | Caldeira da Graciosa | Sítio Ramsar n.º 1798 - Caldeira da Graciosa (Furna do Enxofre)Zona Núcleo da Reserva da Biosfera da Ilha GraciosaGeossítio do Açores Geoparque Mundial da UNESCO - Caldeira e Furna do Enxofre |
 | Área Protegida para a Gestão de Habitats ou Espécies (IV) | GRA04 | Ponta da Restinga | ZEC PTGRA0015 - Ilhéu de Baixo e Ponta da RestingaZPE PTZPE0029 - Ilhéu de BaixoIBA PT059 - Ilhéu de Baixo e Costa AdjacenteZona Núcleo da Reserva da Biosfera da Ilha GraciosaGeossítio do Açores Geoparque Mundial da UNESCO - Pontas do Carapacho e da Restinga e Ilhéu de Baixo |
-| Área Protegida para a Gestão de Habitats ou Espécies (IV) | GRA05 | Ponta Branca | ZEC PTGRA0016 - Ponta BrancaIBA PT062 - Serra BrancaZona Núcleo da Reserva da Biosfera da Ilha GraciosaGeossítio do Açores Geoparque Mundial da UNESCO - Arribas da Serra Branca e Baía do Filipe |
-| Área Protegida para a Gestão de Habitats ou Espécies (IV) | GRA06 | Ponta da Barca | IBA PT061 - Ilhéu da Baleia e Ponta da BarcaZona Núcleo da Reserva da Biosfera da Ilha GraciosaGeossítios do Açores Geoparque Mundial da UNESCO - Ponta da Barca e Ilhéu da Baleia; Baía da Vitória |
+| GRA05 | Ponta Branca | ZEC PTGRA0016 - Ponta BrancaIBA PT062 - Serra BrancaZona Núcleo da Reserva da Biosfera da Ilha GraciosaGeossítio do Açores Geoparque Mundial da UNESCO - Arribas da Serra Branca e Baía do Filipe |  |
+| GRA06 | Ponta da Barca | IBA PT061 - Ilhéu da Baleia e Ponta da BarcaZona Núcleo da Reserva da Biosfera da Ilha GraciosaGeossítios do Açores Geoparque Mundial da UNESCO - Ponta da Barca e Ilhéu da Baleia; Baía da Vitória |  |
 | Área Protegida para a Gestão de Recursos (VI) | GRA07 | Costa Sudeste | ZEC PTGRA0015 - Ilhéu de Baixo e Ponta da RestingaIBA PTM10 - Graciosa |
-| Área Protegida para a Gestão de Recursos (VI) | GRA08 | Costa Noroeste | IBA PTM10 - Graciosa |
+| GRA08 | Costa Noroeste | IBA PTM10 - Graciosa |  |
 
 Este Plano de Gestão ocupa-se unicamente da componente terrestre das áreas protegidas integradas no PNI da Graciosa.
 
@@ -897,11 +1013,12 @@ Os objetivos gerais do Plano de Gestão são balizados pelos objetivos de desenv
 
 A metodologia seguida na elaboração deste Plano de Gestão encontra-se esquematizada na figura 12.
 
-![](https://files.diariodarepublica.pt/images/1154555180/1154555120.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555180/1154555120.png) |
+| --- |
 
 Figura 12 - Metodologia usada na elaboração do Plano de Gestão
 
-Para cada área protegida, houve lugar à elaboração de uma ficha de caracterização que inclui uma caracterização geral, de habitats, flora e fauna protegidos <sup>1</sup>. Os usos do solo e a componente cultural e social da paisagem são também abordados.
+Para cada área protegida, houve lugar à elaboração de uma ficha de caracterização que inclui uma caracterização geral, de habitats, flora e fauna protegidos 1. Os usos do solo e a componente cultural e social da paisagem são também abordados.
 
 Procedeu-se à elaboração de um diagnóstico que incluiu uma análise SWOT, aspetos relativos à vulnerabilidade das áreas protegidas, habitats e espécies e medidas de gestão que se encontram já a ser implementadas ou cuja implementação se verifica necessária.
 
@@ -909,7 +1026,7 @@ Cada área protegida foi objeto de um zonamento em que se procedeu a uma subdivi
 
 Para cada área protegida, estabeleceram-se objetivos e medidas de gestão. Os objetivos abrangem toda a área protegida e decorrem dos decretos legislativos regionais que deram origem ao estabelecimento das mesmas, no entanto são direcionados já aos valores presentes na área protegida em questão. As medidas de gestão são próprias de cada unidade operativa de gestão e estão já direcionadas para a conservação, recuperação e gestão de determinados habitats, espécies, elementos geológicos ou paisagens. Podem ser efetivamente implementadas no terreno e são passíveis de ser avaliadas e monitorizadas. Estes elementos são incluídos em tabelas e constituem o programa de execução para cada área protegida.
 
-<sup>1</sup>Os critérios que presidiram à inclusão dos habitats e espécies nas fichas de caracterização das áreas protegidas são os seguintes: em primeiro lugar teve-se em conta os habitats e espécies integrados nas FDN - Standart Data Form da Rede Natura 2000 - Fichas de caracterização das áreas de Rede Natura 2000 (ZEC e ZPE) regularmente submetidas à Comissão Europeia. Estas fichas são atualizadas com a informação científica mais recente, as que estão a ser utilizadas são na generalidade de 2015; em segundo lugar teve-se em conta os levantamentos bibliográficos e formulários preenchidos pelo pessoal técnico dos PNI respeitantes às áreas protegidas; em terceiro lugar a informação recolhida aquando dos levantamentos de campo.
+1Os critérios que presidiram à inclusão dos habitats e espécies nas fichas de caracterização das áreas protegidas são os seguintes: em primeiro lugar teve-se em conta os habitats e espécies integrados nas FDN - Standart Data Form da Rede Natura 2000 - Fichas de caracterização das áreas de Rede Natura 2000 (ZEC e ZPE) regularmente submetidas à Comissão Europeia. Estas fichas são atualizadas com a informação científica mais recente, as que estão a ser utilizadas são na generalidade de 2015; em segundo lugar teve-se em conta os levantamentos bibliográficos e formulários preenchidos pelo pessoal técnico dos PNI respeitantes às áreas protegidas; em terceiro lugar a informação recolhida aquando dos levantamentos de campo.
 
 3 - Objetivos Estratégicos e Matriz SWOT
 
@@ -990,10 +1107,10 @@ Tabela 5 - Tipos de medidas de gestão e códigos correspondentes
 
 | Tema | Código | Medidas de Gestão |
 | --- | --- | --- |
-|  | M1. | Medidas gerais |
+|  | M1. | **Medidas gerais** |
 | C | M1.1. | Fiscalização de áreas protegidas |
 | A/B/C/D/E | M1.2. | Gestão e monitorização das cavidades vulcânicas protegidas |
-|  | M2. | Medidas relacionadas com a agricultura e habitats abertos |
+|  | M2. | **Medidas relacionadas com****a****agricultura****e****habitats****abertos** |
 | B | M2.1. | Manutenção de pastagens e outros habitats abertos |
 | B | M2.2. | Modificação de práticas culturais |
 | B | M2.3. | Corte/colheita |
@@ -1019,7 +1136,7 @@ Tabela 5 - Tipos de medidas de gestão e códigos correspondentes
 | A/B/C | M2.23. | Manutenção de faixas e manchas de vegetação endémica em vinha |
 | A/B/C | M2.24. | Maneio de gado caprino |
 |  | M2.25. | Outras medidas relacionadas com a agricultura |
-|  | M3. | Medidas relacionadas com florestas e habitats lenhosos |
+|  | M3. | **Medidas relacionadas com florestas****e****habitats****lenhosos** |
 | B/C | M3.1. | Plantação florestal com espécies de produção e nativas |
 | A/C/D/E | M3.2. | Naturalização dos povoamentos florestais |
 | B/C | M3.3. | Desbaste de povoamentos florestais |
@@ -1039,7 +1156,7 @@ Tabela 5 - Tipos de medidas de gestão e códigos correspondentes
 | A/B/C/D/E | M3.17. | Gestão florestal adaptada à conservação da natureza |
 | A/B/C/E | M3.18. | Valorização de caminhos florestais e aceiros para o turismo |
 |  | M3.19. | Outras medidas relacionadas com florestação |
-|  | M4. | Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros |
+|  | M4. | **Medidas relacionadas com zonas húmidas, águas correntes****e****habitats****costeiros** |
 | A/B/C/D/E | M4.1. | Restauro/melhoria do estado das águas |
 | A/B/C | M4.2. | Restauro/melhoria do regime hidrológico |
 | A/C/E | M4.3. | Criação de bacias de retenção de água |
@@ -1063,10 +1180,10 @@ Tabela 5 - Tipos de medidas de gestão e códigos correspondentes
 | A/C | M4.21 | Estabilização da linha de costa |
 | A/C | M4.22 | Obras de proteção costeira |
 |  | M4.23 | Outras medidas relacionadas com zonas húmidas |
-|  | M5. | Medidas relacionadas com habitats marinhos |
+|  | M5. | **Medidas relacionadas com****habitats****marinhos** |
 |  | M5.1. | Restauro de habitats marinhos |
 |  | M5.2. | Outras medidas relacionadas com habitats marinhos |
-|  | M6. | Medidas relacionadas com planeamento espacial |
+|  | M6. | **Medidas relacionadas com planeamento espacial** |
 | A/C | M6.1. | Criação, reclassificação ou alteração de áreas protegidas |
 | A/B/C/E | M6.2. | Estabelecimento de corredores ecológicos |
 | A/B/C/E | M6.3. | Estabelecimento de áreas de continuum naturale |
@@ -1085,7 +1202,7 @@ Tabela 5 - Tipos de medidas de gestão e códigos correspondentes
 | A/B/C | M6.16. | Aquisição de terrenos |
 | A/B/C | M6.17. | Aquisição/adaptação/construção de edifícios de apoio à gestão |
 |  | M6.18. | Outras medidas de planeamento espacial |
-|  | M7. | Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |
+|  | M7. | **Medidas relacionadas com gestão de****habitats****e****espécies, caça, recoleção****e****pesca** |
 | A/B/C | M7.1. | Gestão da caça |
 | A/D | M7.2. | Caracterização de fauna |
 | A/D | M7.3. | Monitorização de fauna |
@@ -1119,7 +1236,7 @@ Tabela 5 - Tipos de medidas de gestão e códigos correspondentes
 | A/E | M7.31. | Campanhas de sensibilização ambiental do público, de entidades e parceiros |
 | A/E | M7.32. | Recolha de sementes em banco de sementes (conservação ex situ) |
 |  | M7.33. | Outras medidas relacionadas com gestão de espécies |
-|  | M8. | Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
+|  | M8. | **Medidas relacionadas com áreas urbanas, indústria, energia, turismo****e****transportes** |
 | B/C | M8.1. | Gestão de urbanização |
 | B/C | M8.2. | Gestão de urbanização de povoamentos lineares |
 | B/C | M8.3. | Gestão de urbanização de povoamentos concentrados |
@@ -1188,7 +1305,7 @@ Tabela 5 - Tipos de medidas de gestão e códigos correspondentes
 | A/B/C/E | M8.66. | Recuperação de elemento arquitetónico de valor cultural |
 |  | M8.67. | Outros impactos de atividades humanas |
 |  | M8.68. | Gestão de tráfego marinho |
-|  | M9. | Medidas relacionadas com uso especial dos recursos |
+|  | M9. | **Medidas relacionadas com uso especial dos recursos** |
 | A/B/C | M9.1. | Regulação/Gestão de exploração de extração de inertes |
 | A/B/C | M9.2. | Regulação/Gestão de exploração de pedreiras |
 | A/C | M9.3. | Regulação/Gestão de exploração de extração de inertes em praias |
@@ -1201,7 +1318,7 @@ Tabela 5 - Tipos de medidas de gestão e códigos correspondentes
 
 5.1 - Proposta de intervenção para a Reserva Natural do Ilhéu de Baixo (GRA01)
 
-| Condicionantes | Condicionantes |
+| Condicionantes |  |
 | --- | --- |
 | Plano de Ordenamento de Orla Costeira | Áreas de proteção e conservação da natureza terrestre |
 |  | Áreas Vulneráveis |
@@ -1218,7 +1335,7 @@ Tabela 5 - Tipos de medidas de gestão e códigos correspondentes
 |  | IBA PT059 - Ilhéu de Baixo e Costa Adjacente |
 |  | Zona Núcleo da Reserva da Biosfera da Ilha Graciosa |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| Unidades Operativas de Gestão |  |
 | --- | --- |
 | GRA01.01 - Ilhéu de Baixo | Área de proteção integral (9,62 ha) |
 
@@ -1240,9 +1357,9 @@ OB7. Definição de limites e condicionamentos ao livre acesso público - proibi
 
 5.1.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão |
+| Medidas de Gestão |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M3 - Medidas relacionadas com florestas e habitats lenhosos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
+| Unidade Operativa de Gestão | M1 - Medidas gerais | M3 - Medidas relacionadas com florestas e habitats lenhosos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |  |  |  |  |  |  |  |
 | GRA01.01 | M1.1. | M3.7. | M4.21. | M7.2. | M7.3. | M7.7. | M7.10 | M7.11. | M7.14. | M7.17. | M7.18. | M7.22. | M7.24. | M7.30. | M7.32. | M8.44. | M8.64. |
 
 5.1.3 - Medidas de gestão
@@ -1269,29 +1386,29 @@ OB7. Definição de limites e condicionamentos ao livre acesso público - proibi
 
 5.2 - Proposta de intervenção para a Reserva Natural do Ilhéu da Praia (GRA02)
 
-| Condicionantes | Condicionantes |
+| Condicionantes |  |
 | --- | --- |
 | Plano de Ordenamento de Orla Costeira | Áreas de proteção e conservação da natureza |
-| Plano de Ordenamento de Orla Costeira | Áreas Vulneráveis |
-| Plano de Ordenamento de Orla Costeira | Domínio Público Marítimo |
-| Plano de Ordenamento de Orla Costeira | Reserva Ecológica Regional - ilhéus e rochedos emersos no mar |
-| Plano de Ordenamento de Orla Costeira | ZPE PTZPE0030 ilhéu da Praia |
-| Plano de Ordenamento de Orla Costeira | Marco geodésico |
+| Áreas Vulneráveis |  |
+| Domínio Público Marítimo |  |
+| Reserva Ecológica Regional - ilhéus e rochedos emersos no mar |  |
+| ZPE PTZPE0030 ilhéu da Praia |  |
+| Marco geodésico |  |
 | Plano Diretor Municipal | Espaços Naturais |
-| Plano Diretor Municipal | Reserva Ecológica Regional - ilhéus e rochedos emersos no mar |
-| Plano Diretor Municipal | Marco geodésico |
+| Reserva Ecológica Regional - ilhéus e rochedos emersos no mar |  |
+| Marco geodésico |  |
 | Conservação da Natureza | ZPE PTZPE0030 Ilhéu da Praia |
-| Conservação da Natureza | IBA PT060 - Ilhéu da Praia |
-| Conservação da Natureza | Zona Núcleo da Reserva da Biosfera da Ilha Graciosa |
+| IBA PT060 - Ilhéu da Praia |  |
+| Zona Núcleo da Reserva da Biosfera da Ilha Graciosa |  |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| Unidades Operativas de Gestão |  |
 | --- | --- |
 | GRA02.01 - ilhéu da Praia - Parte Oeste | Área de proteção integral e área de intervenção específica (4,84 ha) |
 | GRA02.02 - ilhéu da Praia - Parte Leste | Área de proteção parcial e área de intervenção específica (5,08 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| Elementos de fruição da paisagem |  |
 | --- | --- |
-| Trilhos | Trilhos |
+| Trilhos |  |
 | Trilho de Visitação do ilhéu da Praia | Manutenção e beneficiação (localizado em GRA02.02) |
 
 5.2.1 - Objetivos de gestão
@@ -1312,15 +1429,15 @@ OB7. Aferimento dos limites e condicionamentos ao livre acesso público.
 
 5.2.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão |
+| Medidas de Gestão |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M6 - Medidas relacionadas com planeamento espacial | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |
+| Unidade Operativa de Gestão | M1 - Medidas gerais | M6 - Medidas relacionadas com planeamento espacial | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | GRA02.01 | M1.1. | M6.9. | M7.2. | M7.3. | M7.4. | M7.7. | M7.10. | M7.11. | M7.14. | M7.17. | M7.18. | M7.24. | M7.31. | M7.32. | M7.33. |  |
 | GRA02.02 | M1.1. | M6.9. | M7.2. | M7.3. | M7.4. | M7.7. | M7.10. | M7.11. | M7.14. | M7.17. | M7.18. | M7.24. | M7.30. | M7.31 | M7.32. | M7.33. |
 
-| Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão |
+| Medidas de Gestão |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
+| Unidade Operativa de Gestão | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |  |  |
 | GRA02.01 | M8.10. | M8.44. | M8.64. |  |  |  |  |  |
 | GRA02.02 | M8.10. | M8.12. | M8.25. | M8.26. | M8.32. | M8.63. | M8.64. | M8.65. |
 
@@ -1373,33 +1490,33 @@ OB7. Aferimento dos limites e condicionamentos ao livre acesso público.
 
 5.3 - Proposta de intervenção para o Monumento Natural da Caldeira da Graciosa (GRA03)
 
-| Condicionantes | Condicionantes |
+| Condicionantes |  |
 | --- | --- |
 | Plano Diretor Municipal | Espaços Naturais |
-| Plano Diretor Municipal | Lagoas |
-| Plano Diretor Municipal | Reserva Ecológica Regional - Lagoas e respetivas faixas de proteção, áreas com risco de erosão, área de máxima infiltração |
-| Plano Diretor Municipal | Marco geodésico |
+| Lagoas |  |
+| Reserva Ecológica Regional - Lagoas e respetivas faixas de proteção, áreas com risco de erosão, área de máxima infiltração |  |
+| Marco geodésico |  |
 | Perímetro Florestal da Graciosa | Perímetro Florestal da Graciosa |
 | Conservação da Natureza | Sítio Ramsar n.º 1798 - Caldeira da Graciosa (Furna do Enxofre) |
-| Conservação da Natureza | Zona Núcleo da Reserva da Biosfera da ilha Graciosa |
+| Zona Núcleo da Reserva da Biosfera da ilha Graciosa |  |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| Unidades Operativas de Gestão |  |
 | --- | --- |
 | GRA03.01 - Envolvente à Furna do Enxofre | Área de proteção parcial (10,00 ha) |
 | GRA03.02 - Charco da Caldeira | Área de proteção parcial (1,03 ha) |
 | GRA03.03 - Caldeira da Graciosa | Áreas de proteção complementar (108,84 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| Elementos de fruição da paisagem |  |
 | --- | --- |
-| Trilhos | Trilhos |
+| Trilhos |  |
 | PRC05 Subida ao Cume | Existente |
-| Miradouros | Miradouros |
+| Miradouros |  |
 | GRA.M2 - Furna da Maria Encantada | Manutenção e beneficiação |
 | GRA.M3 - Miradouro da Caldeira da Graciosa, Miradouro 1 (Parque Florestal de Recreio) | Existente |
 | GRA.M4 - Miradouro da Caldeira da Graciosa, Miradouro 2 (Parque Florestal de Recreio) | Existente |
 | GRA.M5 - Miradouro da Caldeira da Graciosa, Miradouro 3 (Parque Florestal de Recreio) | Existente |
 | GRA.M6 - Torre de Observação da Caldeira | Manutenção |
-| Centros Ambientais | Centros Ambientais |
+| Centros Ambientais |  |
 | Centro de Visitantes da Furna do Enxofre | Manutenção e beneficiação |
 | Centro de Divulgação Florestal | Existente |
 
@@ -1415,19 +1532,19 @@ OB4. Eliminar ou prevenir tipos de exploração ou ocupação que possam constit
 
 5.3.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial |
-| GRA03.01 | M1.1. | M1.2. | M2.4. | M2.5. | M2.15. | M2.17. |  | M3.9. |  | M4.10. |  |  | M6.9. | M6.10. |  |
-| GRA03.02 | M1.1. |  |  |  |  |  |  |  |  | M4.1. | M4.10. | M4.13. |  |  |  |
-| GRA03.03 | M1.1. | M.1.2. | M2.1. | M2.4. | M2.5. | M2.15. | M2.17. | M3.2. | M3.11. |  |  |  | M6.3. | M6.9. | M6.10. |
+| Medidas de Gestão |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Unidade Operativa de Gestão | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial |  |  |  |  |  |  |  |  |  |
+| GRA03.01 | M1.1. | M1.2. | M2.4. | M2.5. | M2.15. | M2.17. |  | M3.9. |  | M4.10. |  | M6.9. | M6.10. |  |
+| GRA03.02 | M1.1. |  | M4.1. | M4.10. | M4.13. |  |  |  |  |  |  |  |  |  |
+| GRA03.03 | M1.1. | M.1.2. | M2.1. | M2.4. | M2.5. | M2.15. | M2.17. | M3.2. | M3.11. |  | M6.3. | M6.9. | M6.10. |  |
 
-| Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
-| GRA03.01 | M7.2. | M7.3. | M7.10. | M7.11. | M7.13. | M7.15. | M7.17. | M7.18. | M7.31. |  |  | M8.21. | M8.25. | M8.37. | M8.39. | M8.41. | M8.46. | M8.54. | M8.64. |
-| GRA03.02 | M7.2. | M7.3. | M7.10. | M7.11. | M7.17. | M7.18. | M7.24. |  |  |  |  |  |  |  |  |  |  |  |  |
-| GRA03.03 | M7.2. | M7.3. | M7.4. | M7.8. | M7.10. | M7.11. | M7.15. | M7.17. | M7.18. | M7.31. | M7.32. | M8.21. | M8.25. | M8.31. | M8.42. | M8.58. | M8.64. |  |  |
+| Medidas de Gestão |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| GRA03.01 | M7.2. | M7.3. | M7.10. | M7.11. | M7.13. | M7.15. | M7.17. | M7.18. | M7.31. |  | M8.21. | M8.25. | M8.37. | M8.39. | M8.41. | M8.46. | M8.54. | M8.64. |
+| GRA03.02 | M7.2. | M7.3. | M7.10. | M7.11. | M7.17. | M7.18. | M7.24. |  |  |  |  |  |  |  |  |  |  |  |
+| GRA03.03 | M7.2. | M7.3. | M7.4. | M7.8. | M7.10. | M7.11. | M7.15. | M7.17. | M7.18. | M7.31. | M7.32. | M8.21. | M8.25. | M8.31. | M8.42. | M8.58. | M8.64. |  |
 
 5.3.3 - Medidas de gestão
 
@@ -1461,15 +1578,15 @@ OB4. Eliminar ou prevenir tipos de exploração ou ocupação que possam constit
 |  |  | M8.54. | Manutenção e beneficiação do Centro de Visitantes da Furna do Enxofre. |
 |  |  | M8.64. | Gestão dos resíduos provenientes das atividades de remoção das espécies invasoras. |
 | GRA03.02 | Área de proteção parcial | M1.1 | Fiscalização de área protegida pelos vigilantes da natureza. |
-| GRA03.02 | Área de proteção parcial | M4.1. | Restauro/melhoria da qualidade da água do charco da Caldeira. |
-| GRA03.02 | Área de proteção parcial | M4.10. | Restauro/melhoria da Zona Húmida. |
-| GRA03.02 | Área de proteção parcial | M4.13. | Recuperação do assoreamento. |
-| GRA03.02 | Área de proteção parcial | M7.2. | Caracterização de fauna. |
-| GRA03.02 | Área de proteção parcial | M7.3. | Monitorização de fauna. |
-| GRA03.02 | Área de proteção parcial | M7.10. | Caracterização de flora existente no charco. |
-| GRA03.02 | Área de proteção parcial | M7.11. | Monitorização de flora existente no charco. |
-| GRA03.02 | Área de proteção parcial | M7.17. | Erradicação de vegetação invasora por métodos manuais e motomanuais. |
-| GRA03.02 | Área de proteção parcial | M7.18. | Inventariação e erradicação de novas espécies invasoras. |
+| M4.1. | Restauro/melhoria da qualidade da água do charco da Caldeira. |  |  |
+| M4.10. | Restauro/melhoria da Zona Húmida. |  |  |
+| M4.13. | Recuperação do assoreamento. |  |  |
+| M7.2. | Caracterização de fauna. |  |  |
+| M7.3. | Monitorização de fauna. |  |  |
+| M7.10. | Caracterização de flora existente no charco. |  |  |
+| M7.11. | Monitorização de flora existente no charco. |  |  |
+| M7.17. | Erradicação de vegetação invasora por métodos manuais e motomanuais. |  |  |
+| M7.18. | Inventariação e erradicação de novas espécies invasoras. |  |  |
 |  |  | M7.24. | Recuperação dos habitats prioritários charcos temporários mediterrâneos (3170) e charnecas macaronésicas endémicas (4050). |
 | GRA03.03 | Área de uso sustentável dos recursos e área de intervenção específica | M1.1. | Fiscalização de área protegida pelos vigilantes da natureza. |
 |  |  | M1.2. | Gestão e monitorização das cavidades vulcânicas protegidas. |
@@ -1502,7 +1619,7 @@ OB4. Eliminar ou prevenir tipos de exploração ou ocupação que possam constit
 
 5.4 - Proposta de intervenção para a Área Protegida Para a Gestão de Habitats ou Espécies da Ponta da Restinga (GRA04)
 
-| Condicionantes | Condicionantes |
+| Condicionantes |  |
 | --- | --- |
 | Plano de Ordenamento de Orla Costeira | Área agrícola |
 |  | Área de interesse cultural e paisagístico |
@@ -1518,29 +1635,29 @@ OB4. Eliminar ou prevenir tipos de exploração ou ocupação que possam constit
 |  | ZEC PTGRA0015 Ilhéu de Baixo e Ponta da Restinga |
 |  | ZPE PTZPE0029 Ilhéu de Baixo |
 | Plano Diretor Municipal | Reserva agrícola regional |
-| Plano Diretor Municipal | Espaço agrícola não incluído na RAR |
-| Plano Diretor Municipal | Espaços naturais |
-| Plano Diretor Municipal | Espaços urbanizáveis de aptidão turística |
-| Plano Diretor Municipal | Perímetro urbano |
-| Plano Diretor Municipal | Reserva Ecológica Regional - Leitos de cursos de água, margens e zonas inundáveis, arribas ou falésias, faixa de proteção de arribas ou falésias, áreas com risco de erosão, área de máxima infiltração |
-| Plano Diretor Municipal | ZEC PTGRA0015 Ilhéu de Baixo e Ponta da Restinga |
-| Plano Diretor Municipal | ZPE PTZPE0029 Ilhéu de Baixo |
-| Plano Diretor Municipal | Marco geodésico |
+| Espaço agrícola não incluído na RAR |  |
+| Espaços naturais |  |
+| Espaços urbanizáveis de aptidão turística |  |
+| Perímetro urbano |  |
+| Reserva Ecológica Regional - Leitos de cursos de água, margens e zonas inundáveis, arribas ou falésias, faixa de proteção de arribas ou falésias, áreas com risco de erosão, área de máxima infiltração |  |
+| ZEC PTGRA0015 Ilhéu de Baixo e Ponta da Restinga |  |
+| ZPE PTZPE0029 Ilhéu de Baixo |  |
+| Marco geodésico |  |
 | Captações de Água | Nascente de abastecimento público (Fonte nova - Portaria n.º 61/2012, de 31 de maio) |
-| Captações de Água | Zona de proteção imediata à captação de água (Fonte nova - Portaria n.º 61/2012, de 31 de maio) |
-| Captações de Água | Zona de proteção intermédia à captação de água (Fonte nova - Portaria n.º 61/2012, de 31 de maio) |
+| Zona de proteção imediata à captação de água (Fonte nova - Portaria n.º 61/2012, de 31 de maio) |  |
+| Zona de proteção intermédia à captação de água (Fonte nova - Portaria n.º 61/2012, de 31 de maio) |  |
 | Conservação da Natureza | ZEC PTGRA0015 ilhéu de Baixo e Ponta da Restinga |
-| Conservação da Natureza | ZPE PTZPE0029 ilhéu de Baixo |
-| Conservação da Natureza | IBA PT059 - ilhéu de Baixo e Costa Adjacente |
-| Conservação da Natureza | Zona Núcleo da Reserva da Biosfera da ilha Graciosa |
+| ZPE PTZPE0029 ilhéu de Baixo |  |
+| IBA PT059 - ilhéu de Baixo e Costa Adjacente |  |
+| Zona Núcleo da Reserva da Biosfera da ilha Graciosa |  |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| Unidades Operativas de Gestão |  |
 | --- | --- |
 | GRA04.01 - Encostas da Ponta da Restinga | Área prioritária para a conservação (40,94 ha) |
 | GRA04.02 - Portela | Área de uso sustentável dos recursos (25,57 ha) |
 | GRA04.03 - Termas do Carapacho | Área de uso sustentável dos recursos (3,72 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| Elementos de fruição da paisagem |  |
 | --- | --- |
 | Trilhos |  |
 | Rota da Água II | Proposta de percurso pedestre |
@@ -1563,11 +1680,11 @@ OB6. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.4.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão |
+| Medidas de Gestão |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
+| Unidade Operativa de Gestão | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | GRA04.01 | M1.1. | M2.4. | M2.5. | M4.21. | M6.9. | M6.11. | M7.2. | M7.3. | M7.10. | M7.11. | M7.15. | M7.17. | M7.18. | M7.31. | M7.32. | M8.25. | N8.42. | M8.59. | M8.66. |
-| GRA04.02 | M1.1. | M2.4. | M2.5. |  |  |  | M7.3. | M7.10. | M7.11. | M7.18. |  |  |  |  |  |  |  |  |  |
+| GRA04.02 | M1.1. | M2.4. | M2.5. |  | M7.3. | M7.10. | M7.11. | M7.18. |  |  |  |  |  |  |  |  |  |  |  |
 | GRA04.03 | M1.1. | M2.4. | M2.5. | M4.21. | M6.18. |  | M7.3. |  |  |  |  |  |  |  |  |  |  |  |  |
 
 5.4.3 - Medidas de gestão
@@ -1601,39 +1718,39 @@ OB6. Permitir que a população local usufrua de benefícios que resultem da pr�
 |  |  | M7.11. | Monitorização de flora. Georreferenciação. |
 |  |  | M7.18. | Monitorização e gestão de novas espécies invasoras. |
 | GRA04.03 | Área de uso sustentável de recursos | M1.1. | Fiscalização de área protegida pelos vigilantes da natureza. |
-| GRA04.03 | Área de uso sustentável de recursos | M2.4. | Ações de sensibilização para diminuição da utilização de fitoquímicos - herbicidas e pesticidas - nas pastagens e prados naturais existentes na área. |
-| GRA04.03 | Área de uso sustentável de recursos | M2.5. | Ações de sensibilização para diminuição da utilização de fertilizantes químicos |
-| GRA04.03 | Área de uso sustentável de recursos | M6.18. | Outras medidas de planeamento espacial (Termas do Carapacho). |
-| GRA04.03 | Área de uso sustentável de recursos | M7.3. | Monitorização de aves prioritárias. |
+| M2.4. | Ações de sensibilização para diminuição da utilização de fitoquímicos - herbicidas e pesticidas - nas pastagens e prados naturais existentes na área. |  |  |
+| M2.5. | Ações de sensibilização para diminuição da utilização de fertilizantes químicos |  |  |
+| M6.18. | Outras medidas de planeamento espacial (Termas do Carapacho). |  |  |
+| M7.3. | Monitorização de aves prioritárias. |  |  |
 
 5.5 - Proposta de intervenção para a Área Protegida Para a Gestão de Habitats ou Espécies da Ponta Branca (GRA05)
 
-| Condicionantes | Condicionantes |
+| Condicionantes |  |
 | --- | --- |
 | Plano de Ordenamento de Orla Costeira | Áreas de interesse cultural e paisagístico |
-| Plano de Ordenamento de Orla Costeira | Área de Projeto |
-| Plano de Ordenamento de Orla Costeira | Áreas de proteção e conservação da natureza terrestre |
-| Plano de Ordenamento de Orla Costeira | Áreas de vocação recreativa |
-| Plano de Ordenamento de Orla Costeira | Áreas vulneráveis |
-| Plano de Ordenamento de Orla Costeira | Reserva Agrícola Regional |
-| Plano de Ordenamento de Orla Costeira | Domínio Público Marítimo |
-| Plano de Ordenamento de Orla Costeira | Reserva Ecológica Regional - Leitos de cursos de água, margens e zonas inundáveis, arribas ou falésias, faixa de proteção de arribas ou falésias, áreas com risco de erosão, área de máxima infiltração |
-| Plano de Ordenamento de Orla Costeira | PTGRA0016 ZEC da Ponta Branca |
+| Área de Projeto |  |
+| Áreas de proteção e conservação da natureza terrestre |  |
+| Áreas de vocação recreativa |  |
+| Áreas vulneráveis |  |
+| Reserva Agrícola Regional |  |
+| Domínio Público Marítimo |  |
+| Reserva Ecológica Regional - Leitos de cursos de água, margens e zonas inundáveis, arribas ou falésias, faixa de proteção de arribas ou falésias, áreas com risco de erosão, área de máxima infiltração |  |
+| PTGRA0016 ZEC da Ponta Branca |  |
 | Plano Diretor Municipal | Reserva Agrícola Regional |
 |  | Espaços Naturais |
 |  | Reserva Ecológica Regional - Leitos de cursos de água, margens e zonas inundáveis, arribas ou falésias, faixa de proteção de arribas ou falésias, áreas com risco de erosão, área de máxima infiltração |
 |  | PTGRA0016 ZEC da Ponta Branca |
 | Perímetro Florestal da Graciosa | Perímetro Florestal da Graciosa |
 | Conservação da Natureza | PTGRA0016 ZEC da Ponta Branca |
-| Conservação da Natureza | IBA PT062 - Serra Branca |
+| IBA PT062 - Serra Branca |  |
 |  | Zona Núcleo da Reserva da Biosfera da ilha Graciosa |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| Unidades Operativas de Gestão |  |
 | --- | --- |
 | GRA05.01 - Encostas da Ponta Branca | Área prioritária para a conservação (94,38 ha) |
 | GRA05.02 - Casteletes | Área de uso sustentável dos recursos (7,13 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| Elementos de fruição da paisagem |  |
 | --- | --- |
 | Miradouros |  |
 | GRA.M1 - Miradouro da Caldeirinha | Manutenção e beneficiação |
@@ -1654,21 +1771,21 @@ OB6. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.5.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão |
+| Medidas de Gestão |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial |
+| Unidade Operativa de Gestão | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial |  |  |  |  |  |
 | GRA05.01 | M1.1. | M1.2. |  |  | M4.10. | M4.21. | M6.3. | M6.9. | M6.11. |
 | GRA05.02 | M1.1. |  | M2.4. | M2.5. |  |  |  |  |  |
 
-| Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão |
+| Medidas de Gestão |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |
+| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |  |  |  |  |  |  |  |  |  |  |  |
 | GRA05.01 | M7.2. | M7.3. | M7.4. | M7.10. | M7.11. | M7.15. | M7.17. | M7.18. | M7.24. | M7.30 | M7.31. | M7.32. |
 | GRA05.02 | M7.3. | M7.10. | M7.11. | M7.18. |  |  |  |  |  |  |  |  |
 
-| Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão |
+| Medidas de Gestão |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
+| Unidade Operativa de Gestão | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |
 | GRA05.01 | M8.38. | M8.42. | M8.44. | M8.64. |
 | GRA05.02 |  |  |  |  |
 
@@ -1709,32 +1826,32 @@ OB6. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.6 - Proposta de intervenção para a Área Protegida para a Gestão de Habitats ou Espécies da Ponta da Barca (GRA06)
 
-| Condicionantes | Condicionantes |
+| Condicionantes |  |
 | --- | --- |
 | Plano de Ordenamento de Orla Costeira | Área de interesse cultural e paisagístico |
-| Plano de Ordenamento de Orla Costeira | Áreas de proteção e conservação da natureza terrestre |
-| Plano de Ordenamento de Orla Costeira | Áreas vulneráveis |
-| Plano de Ordenamento de Orla Costeira | Domínio público marítimo |
-| Plano de Ordenamento de Orla Costeira | Reserva Ecológica Regional - Ilhéus e rochedos emersos do mar, arribas ou falésias, faixa de proteção de arribas ou falésias, faixa de proteção da zona litoral, área de máxima infiltração |
-| Plano de Ordenamento de Orla Costeira | Aeródromo e Respetivas Zonas de Proteção |
-| Plano de Ordenamento de Orla Costeira | Marco geodésico |
-| Plano de Ordenamento de Orla Costeira | Farol |
+| Áreas de proteção e conservação da natureza terrestre |  |
+| Áreas vulneráveis |  |
+| Domínio público marítimo |  |
+| Reserva Ecológica Regional - Ilhéus e rochedos emersos do mar, arribas ou falésias, faixa de proteção de arribas ou falésias, faixa de proteção da zona litoral, área de máxima infiltração |  |
+| Aeródromo e Respetivas Zonas de Proteção |  |
+| Marco geodésico |  |
+| Farol |  |
 | Plano Diretor Municipal | Espaços florestais de proteção |
-| Plano Diretor Municipal | Espaços naturais |
-| Plano Diretor Municipal | Reserva Ecológica Regional - ilhéus e rochedos emersos do mar, arribas ou falésias, faixa de proteção de arribas ou falésias, faixa de proteção da zona litoral, área de máxima infiltração |
-| Plano Diretor Municipal | Zona de proteção parcial do aeródromo |
-| Plano Diretor Municipal | Marco geodésico |
-| Plano Diretor Municipal | Farol |
+| Espaços naturais |  |
+| Reserva Ecológica Regional - ilhéus e rochedos emersos do mar, arribas ou falésias, faixa de proteção de arribas ou falésias, faixa de proteção da zona litoral, área de máxima infiltração |  |
+| Zona de proteção parcial do aeródromo |  |
+| Marco geodésico |  |
+| Farol |  |
 | Conservação da Natureza | IBA PT061 - ilhéu da Baleia e Ponta da Barca |
-| Conservação da Natureza | Zona Núcleo da Reserva da Biosfera da ilha Graciosa |
+| Zona Núcleo da Reserva da Biosfera da ilha Graciosa |  |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| Unidades Operativas de Gestão |  |
 | --- | --- |
 | GRA06.01 - Ilhéus | Área de proteção integral (2,38 ha) |
 | GRA06.02 - Ponta da Barca | Área prioritária para a conservação (38,94 ha) |
 | GRA06.03 - Farol da Ponta da Barca | Área de uso sustentável dos recursos (0,66 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| Elementos de fruição da paisagem |  |
 | --- | --- |
 | Trilhos |  |
 | PR04 Das Vinhas ao Mar | Existente |
@@ -1755,16 +1872,16 @@ OB6. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.6.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão |
+| Medidas de Gestão |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |
-| GRA06.01 | M1.1. |  |  |  | M7.2. | M7.3. |  |  |  |  |  |  |  |
+| Unidade Operativa de Gestão | M1 - Medidas gerais | M6 - Medidas relacionadas com planeamento espacial | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |  |  |  |  |  |  |  |  |  |  |
+| GRA06.01 | M1.1. |  | M7.2. | M7.3. |  |  |  |  |  |  |  |  |  |
 | GRA06.02 | M1.1. | M6.3. | M6.9. | M6.11. | M7.2. | M7.3. | M7.10. | M7.11. | M7.15. | M7.17. | M7.18. | M7.30 | M7.32. |
 | GRA06.03 | M1.1. |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão |
+| Medidas de Gestão |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
+| Unidade Operativa de Gestão | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |  |
 | GRA06.01 |  |  |  |  |  |  |  |
 | GRA06.02 | M8.20. | M8.33. | M8.39. | M8.44. | M8.59. | M8.64. | M8.66. |
 | GRA06.03 |  |  |  |  |  |  |  |
@@ -1800,7 +1917,7 @@ OB6. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.7 - Proposta de intervenção para a Área Protegida de Gestão de Recursos da Costa Sudeste (GRA07)
 
-| Condicionantes | Condicionantes |
+| Condicionantes |  |
 | --- | --- |
 | Plano de Ordenamento de Orla Costeira | Áreas de proteção e conservação da natureza terrestre |
 |  | Áreas Vulneráveis |
@@ -1814,7 +1931,7 @@ OB6. Permitir que a população local usufrua de benefícios que resultem da pr�
 |  | ZPE PTZPE0029 ilhéu de Baixo |
 |  | Zona Núcleo da Reserva da Biosfera da ilha Graciosa |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| Unidades Operativas de Gestão |  |
 | --- | --- |
 | GRA07.01 - ilhéu de Gaivota e ilhéu do Navio | Área de proteção integral (0,36 ha) |
 
@@ -1826,9 +1943,9 @@ OB2. Promover a gestão efetiva dos recursos visando o seu uso sustentável, por
 
 5.7.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão |
+| Medidas de Gestão |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |
+| Unidade Operativa de Gestão | M1 - Medidas gerais | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |  |  |  |
 | GRA07.01 | M1.1. |  | M7.2. | M7.3. |  |
 
 5.7.3 - Medidas de gestão
@@ -1836,8 +1953,8 @@ OB2. Promover a gestão efetiva dos recursos visando o seu uso sustentável, por
 | Unidade Operativa de Gestão | Regime de proteção | Medidas de gestão | Descrição |
 | --- | --- | --- | --- |
 | GRA07.01 | Área de proteção integral | M1.1. | Fiscalização de área protegida pelos vigilantes da natureza. |
-| GRA07.01 | Área de proteção integral | M7.2. | Caracterização de aves existentes no ilhéu da Gaivota e Ilhéu do Navio. |
-| GRA07.01 | Área de proteção integral | M7.3. | Monitorização de aves prioritárias: Sterna dougallii (garajau-rosado) e Sterna hirundo (garajau-comum). |
+| M7.2. | Caracterização de aves existentes no ilhéu da Gaivota e Ilhéu do Navio. |  |  |
+| M7.3. | Monitorização de aves prioritárias: Sterna dougallii (garajau-rosado) e Sterna hirundo (garajau-comum). |  |  |
 
 5.8 - Gestão e monitorização de cavidades vulcânicas protegidas
 
@@ -1899,7 +2016,8 @@ O resultado das ações de monitorização do grau de concretização do Plano d
 
 Tendo em conta os macro objetivos, domínios e subdomínios definidos para a Região Autónoma dos Açores, o modelo de gestão territorial definido para os Planos de Gestão dos Parques Naturais de Ilha é o seguinte.
 
-![](https://files.diariodarepublica.pt/images/1154555180/1154555121.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555180/1154555121.png) |
+| --- |
 
 6.2 - Indicadores
 
@@ -2327,7 +2445,7 @@ APGRCN - Área Protegida de Gestão de Recursos da Costa Noroeste.
 
 * Espécie prioritária (Diretiva Habitats).
 
-<sup>1</sup> Espécie protegida pela Diretiva Habitats e/ou Convenção de Berna.
+1 Espécie protegida pela Diretiva Habitats e/ou Convenção de Berna.
 
 P Taxon prioritário para a conservação (anexo ii do [Decreto Legislativo Regional n.º 15/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2012-553893), de 2 de abril).
 
@@ -2391,7 +2509,7 @@ APGRCN - Área Protegida de Gestão de Recursos da Costa Noroeste.
 
 * Espécie do anexo I (Diretiva Aves).
 
-<sup>1</sup> Espécie protegida pela Diretiva Aves e/ou Convenção de Berna.
+1 Espécie protegida pela Diretiva Aves e/ou Convenção de Berna.
 
 P Taxon prioritário para a conservação (anexo ii do [Decreto Legislativo Regional n.º 15/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2012-553893), de 2 de abril.
 
@@ -2418,6 +2536,10 @@ APGRCS - Área Protegida de Gestão de Recursos da Costa Sudeste.
 
 APGRCN - Área Protegida de Gestão de Recursos da Costa Noroeste.
 
-<sup>1</sup> Espécie protegida pela Diretiva Habitats e/ou Convenção de Berna.
+1 Espécie protegida pela Diretiva Habitats e/ou Convenção de Berna.
 
 P Taxon prioritário para a conservação (anexo ii do [Decreto Legislativo Regional n.º 15/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2012-553893), de 2 de abril.
+
+119949002
+
+.Tbl1 { border-collapse:collapse; border-width:1px; border-color:rgb(166,166,166); border-style:dotted; } .Tbl2 { height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:104px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(254,254,244); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(254,254,244); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl9 { min-height:64px; } .Tbl10 { min-height:68px; } .Tbl11 { min-height:89px; } .Tbl12 { min-height:74px; } .Tbl13 { min-height:33px; } .Tbl14 { min-height:18px; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl17 { border-collapse:collapse; border-width:1px; border-color:rgb(126,126,126); border-style:dotted; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(236,235,210); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl19 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(236,235,210); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl20 { min-height:302px; } .Tbl21 { text-align:justify; text-align-last:justify; } .Tbl22 { min-height:93px; } .Tbl23 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl24 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl25 { min-height:405px; } .Tbl26 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl27 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl28 { min-height:28px; } .Tbl29 { min-height:62px; } .Tbl30 { min-height:53px; } .Tbl31 { min-height:77px; } .Tbl32 { min-height:43px; } .Tbl33 { min-height:108px; } .Tbl34 { min-height:87px; } .Tbl35 { min-height:102px; } .Tbl36 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(254,253,239); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl37 { min-height:19px; } .Tbl38 { min-height:27px; } .Tbl39 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl40 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(236,235,210); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl41 { height:65px; } .Tbl42 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(236,235,210); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl43 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl44 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(250,191,143); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl45 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(216,228,188); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl46 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(216,228,188); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl47 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl48 { min-height:37px; } .Tbl49 { border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl50 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(194,214,155); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl51 { min-height:42px; } .Tbl52 { min-height:71px; } .Tbl53 { min-height:61px; } .Tbl54 { min-height:52px; } .Tbl55 { min-height:56px; } .Tbl56 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl57 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl58 { height:41px; } .Tbl59 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(218,150,148); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl60 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(217,149,148); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl61 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(217,149,148); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl62 { min-height:26px; } .Tbl63 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(250,191,143); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl64 { min-height:38px; } .Tbl65 { min-height:73px; } .Tbl66 { min-height:48px; } .Tbl67 { min-height:72px; } .Tbl68 { min-height:25px; } .Tbl69 { min-height:39px; } .Tbl70 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(194,214,155); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl71 { min-height:29px; } .Tbl72 { min-height:49px; } .Tbl73 { min-height:70px; } .Tbl74 { min-height:59px; } .Tbl75 { min-height:30px; } .Tbl76 { min-height:83px; } .Tbl77 { min-height:41px; } .Tbl78 { min-height:21px; } .Tbl79 { min-height:54px; } .Tbl80 { min-height:85px; } .Tbl81 { min-height:47px; } .Tbl82 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl83 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl84 { min-height:46px; } .Tbl85 { min-height:141px; } .Tbl86 { border-collapse:collapse; border-width:1px; border-color:rgb(128,128,128); border-style:dotted; } .Tbl87 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(221,217,195); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl88 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl89 { border-collapse:collapse; border-width:1px; border-style:dotted; } .Tbl90 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(236,235,210); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; }

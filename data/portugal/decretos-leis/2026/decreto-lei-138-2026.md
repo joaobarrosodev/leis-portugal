@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/138/2026/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2026-1145969705
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-10T00:00:00Z'
+  retrieved_at: '2026-10-22T18:46:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bcad6a7802d723f2f5fde49cc7679d81c65f0bfa8bdc612aff8981558a0eafe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ced453accada7bb81d8525298ebbff47a073f2b9ef759950354dbb93f40ea5df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:46:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência para a Gestão do Sistema Educativo
 - Agrupamento de Escolas
-- Ensino não Superior
 - Certificação
 - Contra-ordenação
+- Ensino não Superior
+- Estabelecimento de Ensino
 - Frequência Escolar
 - Gestão Escolar
 - Sistema de Informação
-- Estabelecimento de Ensino
-- Agência para a Gestão do Sistema Educativo
 relationships:
 - type: cites
   target: celex:31995L0046
@@ -152,6 +152,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/214/2025/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/214/2025/12/29/p/dre
+- type: cites
+  target: pt:dre:114457664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116029384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:962603401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:992879810:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32018L1972
   label: null
@@ -163,13 +195,13 @@ relationships:
 article_structure:
   article_count: 10
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:46:20Z'
   warnings: []
   errors: []
 ---
@@ -306,12 +338,14 @@ O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua
 
 Visto e aprovado em Conselho de Ministros de 14 de maio de 2026. - Luís Montenegro - Ana Isabel Marques Xavier - Gonçalo Nuno da Cruz Saraiva Matias - Fernando Alexandre.
 
-**Promulgado em 30 de junho de 2026.**
+Promulgado em 30 de junho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 3 de julho de 2026.**
+Referendado em 3 de julho de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119948995

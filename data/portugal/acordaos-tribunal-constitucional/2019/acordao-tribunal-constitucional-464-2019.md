@@ -37,7 +37,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/10/20200/0000500124.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -59,18 +59,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/464/2019/10/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/464-2019-125515884
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-21T00:00:00Z'
+  retrieved_at: '2026-10-22T18:24:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05d33eb024bc2791abd7962aef31efeaf5ba45621c9284ba6ad9abb7addfdab5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22d8c8e82ff74bfe203a81f30bf24a225f492fbab645a302e9c8d08a01fea2f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:24:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,24 +78,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ficheiro Informático
-- Interconexão de Dados
-- Recolha de Dados
+- Base de Dados
+- Comunicações
 - Comunicações Eletrónicas
 - Conselho de Fiscalização
 - Conselho de Fiscalização dos Serviços de Informações
-- Sistema Judicial
-- Segurança Interna
-- Direitos e Liberdades
-- Processamento de Dados
-- Inconstitucionalidade
-- Base de Dados
 - Constituição
+- Direitos e Liberdades
+- Ficheiro Informático
+- Inconstitucionalidade
+- Interconexão de Dados
 - Internet
-- Comunicações
-- Sistema de Informações da República Portuguesa
+- Processamento de Dados
+- Recolha de Dados
+- Segurança Interna
 - Serviço de Informações de Segurança
 - Serviço de Informações Estratégicas de Defesa
+- Sistema de Informações da República Portuguesa
+- Sistema Judicial
 relationships:
 - type: cites
   target: celex:31995L0046
@@ -177,6 +177,158 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/7-a/2015/02/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/7-a/2015/02/20/p/dre
+- type: cites
+  target: pt:dre:105762365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108052020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114303789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116236988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:120108010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56057575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58273512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656128:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66567251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70086390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70300353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75170440:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31995L0046
   label: null
@@ -198,15 +350,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 11
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:24:58Z'
   warnings: []
   errors: []
 ---
@@ -359,7 +511,7 @@ Outra das medidas constantes da nova lei de 2016 prende-se com a exigência de c
 
 Uma descrição detalhada da nova regulamentação da UK Investigatory Powers Act 2016 pode ser consultada nos vários documentos informativos da proposta que lhe deu origem, destacando-se o referente Information Data, Interferência de Equipamento e Interceção de comunicações - e fazendo apelo aos instrumentos de direito internacional e jurisprudência supranacional aplicáveis - o artigo 12.º da Declaração Universal dos Direitos Humanos, em redação retomada pelo artigo 17.º do Pacto Internacional relativo aos Direitos Civis e Políticos; o artigo 8.º da Convenção Europeia dos Direitos Humanos (CEDH), de acordo com cujo n.º 2, «não pode haver ingerência da autoridade pública no exercício deste direito senão quando esta ingerência estiver prevista na lei e constituir uma providência que, numa sociedade democrática, seja necessária para a segurança nacional, para a segurança pública, para o bem-estar económico do país, a defesa da ordem e a prevenção das infrações penais, a proteção da saúde ou da moral, ou a proteção dos direitos e das liberdades de terceiros» e a jurisprudência do Tribunal Europeu dos Direitos do Humanos (TEDH) sobre a proteção do acesso a dados de comunicações, que afirma expressamente que os mesmos se encontram abrangidos pela proteção de «vida privada e familiar» ínsita no n.º 1 do artigo 8.º da CEDH».
 
-**O Presidente da Assembleia da República chama ainda a atenção para as pronúncias escritas sobre as iniciativas legislativas da Comissão Nacional de Proteção de Dados, da Comissão de Fiscalização de Dados dos Serviços de Informações da República Portuguesa, do Secretário-Geral do Sistema de Informações da República Portuguesa, do Conselho de Fiscalização do Sistema de Informações da República Portuguesa e da Procuradoria-Geral da República.**
+O Presidente da Assembleia da República chama ainda a atenção para as pronúncias escritas sobre as iniciativas legislativas da Comissão Nacional de Proteção de Dados, da Comissão de Fiscalização de Dados dos Serviços de Informações da República Portuguesa, do Secretário-Geral do Sistema de Informações da República Portuguesa, do Conselho de Fiscalização do Sistema de Informações da República Portuguesa e da Procuradoria-Geral da República.
 
 Por último, transcreve-se na resposta do órgão autor da norma uma parte do debate parlamentar que precedeu a aprovação da [Lei Orgânica n.º 4/2017](https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2017-108052020).
 
@@ -1413,7 +1565,9 @@ Isolarei de seguida, na crítica à posição da maioria de rejeição do artigo
 
 Confronta-nos esta questão com o contexto histórico que desencadeou o aparecimento na Constituição da República Portuguesa de 1976, desde a versão inicial elaborada pela Assembleia Constituinte - entre 2 de junho de 1975 e 2 de abril de 1976 -, de uma disposição restringindo aos "[...] casos previstos na lei em matéria de processo criminal" a exceção à proibição de "[...] toda a ingerência das autoridades públicas na correspondência e nas telecomunicações [...]", integrada no segmento final seguinte norma:
 
-###### Artigo 34.º — (Inviolabilidade do domicílio e da correspondência)
+Artigo 34.º
+
+(Inviolabilidade do domicílio e da correspondência)
 
 1 - O domicílio e o sigilo da correspondência e dos outros meios de comunicação privada são invioláveis.
 
@@ -1443,7 +1597,7 @@ Com efeito, importa ter presente que uma Constituição, "[...] reflete aconteci
 
 Está em causa a discussão e votação do que correspondeu, nos trabalhos da Assembleia Constituinte, ao artigo 21.º do projeto respeitante ao Título dos Direitos, liberdades e garantias(36), refletindo este o que veio a corresponder, no texto final da Constituição de 1976, exatamente ao artigo 34.º atual [este, ressalvada a alteração de 1997 antes referida (cf. nota 29, supra e texto ao qual se refere), mantém-se desde 2 de abril de 1976]. A redação utilizada como base da discussão então travada, apresentava o seguinte conteúdo:
 
-###### Artigo 21.º
+Artigo 21.º
 
 1 - O domicílio e o sigilo da correspondência e dos outros meios de comunicação privada são invioláveis.
 
@@ -1761,7 +1915,9 @@ c) Declarar a inconstitucionalidade, com força obrigatória geral, da norma con
 
 (4) Esta disposição - que integrava um diploma contendo uma alteração global do Regime Jurídico do Sistema de Informações da República Portuguesa, substituindo as [Leis n.os 30/84](https://diariodarepublica.pt/dr/detalhe/lei/30-1984-373663), de 5 de setembro, e [9/2007](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), de 19 de fevereiro - tinha o seguinte conteúdo:
 
-###### Artigo 78.º — Acesso a dados e informação
+Artigo 78.º
+
+Acesso a dados e informação
 
 1 -
 
@@ -1908,3 +2064,5 @@ Esta perversão é justamente designada, no jargão dos analistas, como a ilusã
 (47) Ibidem, pp. 857/858.
 
 (48) Gonçalo de Almeida Ribeiro, The Decline of Private Law. A Philosophical History of Liberal Legalism, Hart Publishing, Oxford, 2019, p. 267.
+
+112637542

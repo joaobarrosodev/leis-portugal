@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/01/01500/0047300490.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/848/2018/01/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/848-2017-114555190
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-01-22T00:00:00Z'
+  retrieved_at: '2026-10-22T18:24:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c4d571af4e51d1f2874a41977910d0a7a45ba180975ebf1ae2666419dd84651
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 655bc6793091f2a259f52e74c75dd4b62337a2e0e32d18ab502a9c2225b3600b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:24:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,14 +69,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção Civil
-- Lisboa
+- Câmara Municipal
 - Inconstitucionalidade
 - Interpretação do Direito
-- Câmara Municipal
+- Lisboa
+- Proteção Civil
 - Regulamento
 - Taxa
 relationships:
+- type: amends
+  target: pt:numero:aviso:2926/2016
+  label: Declara a inconstitucionalidade, com força obrigatória geral, das normas constantes dos n.ºs 1 e 2 do art. 59.º,
+    dos n.ºs 1 e 2 do art. 60.º, da primeira parte do art. 61.º, dos n.ºs 1 e 2 do art. 63.º e do n.º 1 do art. 64.º, todos
+    do Regulamento Geral de Taxas, Preços e outras Receitas do Município de Lisboa, republicado pelo Aviso n.º 2926/2016 de
+    04-mar DR.IIS [45]
+  source: null
+  date: '2016-03-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/119/2012/06/15/p/dre
   label: null
@@ -117,16 +125,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/9/1991/04/09/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/9/1991/04/09/p/dre
+- type: cites
+  target: pt:dre:178814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629393:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:24:53Z'
   warnings: []
   errors: []
 ---
@@ -531,7 +599,7 @@ Com base neste racional, obteve-se um custo total associado a Proteção Civil d
 
 1 - Custos (Diretos) da Proteção Civil
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/01500/0047300490.pdf))](https://files.diariodarepublica.pt/1s/2018/01/01500/0047300490.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/01500/0047300490.pdf)
 
 2. Taxas a aplicar (valores anuais)
 
@@ -551,7 +619,7 @@ Foi também considerada a isenção de TMPC para os proprietários de prédios u
 
 Atentos os universos considerados a os valores unitários previstos, estima-se uma receita associada à Taxa de Proteção Civil:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/01500/0047300490.pdf))](https://files.diariodarepublica.pt/1s/2018/01/01500/0047300490.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/01500/0047300490.pdf)
 
 4.3 - Conclusão
 
@@ -750,3 +818,5 @@ Se a base de incidência objetiva prevista no n.º 2 do artigo 59.º não me ofe
 Ora, à luz das regras estabelecidas no respetivo código, os prédios que mais pagam IMI são precisamente os prédios que, pela sua idade, qualidade construtiva e localização, menores riscos de segurança oferecem, pelo que o critério adotado na fixação da base de incidência prevista no n.º 1 do artigo 59.º não é idóneo a assegurar plenamente que cada munícipe contribui na medida dos custo ou valor das utilidades prestadas ou geradas pelo Município no domínio da proteção civil, frustrando-se assim a ideia de equivalência que deve presidir à criação de uma taxa.
 
 Neste sentido, ter-me-ia pronunciado pela inconstitucionalidade das normas constantes do n.º 1 do artigo 59.º, do n.º 1 do artigo 60.º e do n.º 1 do artigo 63.º do Regulamento Geral de Taxas, Preços e outras Receitas do Município de Lisboa, mas apenas dessas, e por violação do princípio da igualdade consagrado no artigo 13.º da Constituição, que constitui a base constitucional do princípio da equivalência tributária. - Claudio Monteiro.
+
+111060917

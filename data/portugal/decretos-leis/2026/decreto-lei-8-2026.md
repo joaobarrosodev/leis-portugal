@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/8/2026/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2026-1006464122
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-20T00:00:00Z'
+  retrieved_at: '2026-10-22T18:28:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ee983377ea4ffa8d433c97789a184990038a28a8a4d9b32cac8febc09ca7b35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b0110f0d05dbb8b4d0063e2a73ccf65baac7ed3a6c84bf5622b223d8302f100
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:28:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
 subjects:
 - Editorial do Ministério da Educação e Ciência
 - Imprensa Nacional-Casa da Moeda
+- Instituto de Educação Qualidade e Avaliação
 - Integração de Trabalhadores
+- Júri Nacional de Exames
+- Ministério da Educação Ciência e Inovação
 - Quadro de Pessoal
 - Regime Jurídico
 - Transferência de Pessoal
-- Ministério da Educação Ciência e Inovação
-- Instituto de Educação Qualidade e Avaliação
-- Júri Nacional de Exames
 relationships:
 - type: amended_by
   target: pt:dre:1149477737:por
@@ -91,16 +91,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/55/2018/07/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/55/2018/07/06/p/dre
+- type: cites
+  target: pt:dre:115652962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211393783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73798876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:934454753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:935098429:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 10
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:28:52Z'
   warnings: []
   errors: []
 ---
@@ -239,7 +259,9 @@ Os artigos 4.º e 7.º do [Decreto-Lei n.º 102/2025](https://diariodarepublica.
 
 11 - Os trabalhadores que, nos termos do n.º 6, optem pela celebração de contrato individual de trabalho em regime de direito privado, passam a estar abrangidos pelo regime geral de segurança social.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 Os processos individuais dos trabalhadores transitam para a INCM, S. A., ou para o órgão, serviço ou organismo do Ministério da Educação, Ciência e Inovação, nos termos do artigo 4.º»
 
@@ -251,12 +273,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de dezembro de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro - Fernando Alexandre.
 
-**Promulgado em 31 de dezembro de 2025.**
+Promulgado em 31 de dezembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 5 de janeiro de 2026.**
+Referendado em 5 de janeiro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119947211

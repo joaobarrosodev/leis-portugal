@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45738-1964-576569
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:40:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2700877ba0222f7ce9bc514582624f621cc6464ff4587774cf2b026504407618
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f24836a399cd2824427ece8968282e9411c0b05fc19e4d1686a9ee68e3b6c88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:40:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajudas de Custo
+- Angola.Colónia Portuguesa
+- Cofre Geral dos Tribunais
+- Conselho Administrativo
+- Criação de Serviços
+- Definição de Competências
+- Gestão Administrativa
+- Gestão Financeira
+- Moçambique.Colónia Portuguesa
+- Pessoal de Inspecção
+- Pessoal de Justiça
+- Remuneração
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:40:42Z'
   warnings: []
   errors: []
 ---
@@ -121,25 +133,25 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Nas sedes dos distritos judiciais de Luanda e Lourenço Marques é criado um cofre geral dos tribunais, com jurisdição em todo o distrito.
+Artigo 1.º Nas sedes dos distritos judiciais de Luanda e Lourenço Marques é criado um cofre geral dos tribunais, com jurisdição em todo o distrito.
 
 § único. O cofre do distrito judicial de Luanda compreenderá a comarca de S. Tomé. As comarcas de Barlavento, Sotavento e Guiné poderão, quando as circunstâncias o aconselharem, ser integradas nesse cofre por portaria do Ministro do Ultramar.
 
-###### Art. 2.º A gerência do Cofre é cometida a um conselho administrativo constituído pelo presidente da Relação, que servirá de presidente, por um ajudante do procurador da República, a designar pelo respectivo procurador da República, e pelo distribuidor geral, que terá a seu cargo o serviço de secretaria.
+Art. 2.º A gerência do Cofre é cometida a um conselho administrativo constituído pelo presidente da Relação, que servirá de presidente, por um ajudante do procurador da República, a designar pelo respectivo procurador da República, e pelo distribuidor geral, que terá a seu cargo o serviço de secretaria.
 
-###### Art. 3.º O conselho administrativo reunirá obrigatòriamente duas vezes em cada mês, em sessões ordinárias, podendo o presidente, por iniciativa própria ou proposta de qualquer dos vogais, convocar sessões extraordinárias sempre que a conveniência do serviço o exija.
+Art. 3.º O conselho administrativo reunirá obrigatòriamente duas vezes em cada mês, em sessões ordinárias, podendo o presidente, por iniciativa própria ou proposta de qualquer dos vogais, convocar sessões extraordinárias sempre que a conveniência do serviço o exija.
 
-###### Art. 4.º Os membros do conselho administrativo terão direito a uma senha de presença de harmonia com o quadro anexo.
+Art. 4.º Os membros do conselho administrativo terão direito a uma senha de presença de harmonia com o quadro anexo.
 
-###### Art. 5.º Os serviços do Cofre serão assegurados pelo distribuidor geral, podendo o conselho administrativo contratar o pessoal auxiliar que for reconhecido necessário.
+Art. 5.º Os serviços do Cofre serão assegurados pelo distribuidor geral, podendo o conselho administrativo contratar o pessoal auxiliar que for reconhecido necessário.
 
 § único. O pessoal contratado não poderá ter categoria superior a aspirante e será pago pelas receitas do Cofre.
 
-###### Art. 6.º Constituem receitas do Cofre Geral dos Tribunais todas aquelas que, nos termos do Código das Custas Judiciais do Ultramar, são atribuídas aos cofres dos tribunais de 2.ª e 1.ª instâncias e inferiores.
+Art. 6.º Constituem receitas do Cofre Geral dos Tribunais todas aquelas que, nos termos do Código das Custas Judiciais do Ultramar, são atribuídas aos cofres dos tribunais de 2.ª e 1.ª instâncias e inferiores.
 
-###### Art. 7.º Os depósitos actualmente feitos à ordem dos tribunais referidos no artigo anterior reverterão para o Cofre Geral dos Tribunais.
+Art. 7.º Os depósitos actualmente feitos à ordem dos tribunais referidos no artigo anterior reverterão para o Cofre Geral dos Tribunais.
 
-###### Art. 8.º Além das despesas a que se refere o Código das Custas Judiciais do Ultramar, serão satisfeitas pelo Cofre Geral dos Tribunais:
+Art. 8.º Além das despesas a que se refere o Código das Custas Judiciais do Ultramar, serão satisfeitas pelo Cofre Geral dos Tribunais:
 
 1.º Os vencimentos, ajudas de custo e deslocação dos inspectores-contadores e os vencimentos do pessoal contratado nos termos do artigo 5.º;
 
@@ -149,17 +161,17 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 4.º Quaisquer despesas de manifesta utilidade e especialmente destinadas a dotar os tribunais das condições de conforto necessárias ao bom desempenho de serviço.
 
-###### Art. 9.º O conselho administrativo deverá elaborar até ao dia 15 de Dezembro de cada ano o projecto do orçamento do Cofre Geral, em face dos projectos dos orçamentos dos tribunais integrados no Cofre e tendo em consideração o necessário equilíbrio das receitas e despesas.
+Art. 9.º O conselho administrativo deverá elaborar até ao dia 15 de Dezembro de cada ano o projecto do orçamento do Cofre Geral, em face dos projectos dos orçamentos dos tribunais integrados no Cofre e tendo em consideração o necessário equilíbrio das receitas e despesas.
 
 § 1.º Para os efeitos do disposto no corpo deste artigo, todos os tribunais deverão elaborar até ao dia 1 de Novembro de cada ano e em duplicado o projecto do seu orçamento anual, com começo de vigência em 1 de Janeiro, das despesas a efectuar por conta do Cofre Geral.
 
 § 2.º Os processos de orçamento dos tribunais de 1.ª instância e inferiores serão preparados pelos respectivos juízes com a obrigatória colaboração dos agentes do Ministério Público nos respectivos tribunais e enviados ao presidente da Relação sede do Cofre Geral, o qual, nos quinze dias imediatos, os remeterá ao conselho administrativo, depois de devidamente verificados, corrigidos e organizados em processo único, juntamente com o processo desse tribunal.
 
-###### Art. 10.º Aprovados os orçamentos, o conselho administrativo devolverá aos respectivos tribunais o duplicado do seu orçamento parcelar, até ao dia 31 de Dezembro.
+Art. 10.º Aprovados os orçamentos, o conselho administrativo devolverá aos respectivos tribunais o duplicado do seu orçamento parcelar, até ao dia 31 de Dezembro.
 
-###### Art. 11.º Na elaboração dos orçamentos observar-se-ão as regras estabelecidas para a elaboração dos orçamentos da Fazenda Nacional.
+Art. 11.º Na elaboração dos orçamentos observar-se-ão as regras estabelecidas para a elaboração dos orçamentos da Fazenda Nacional.
 
-###### Art. 12.º As dotações orçamentadas para cada espécie de despesa serão utilizáveis por duodécimos, não podendo realizar-se qualquer despesa que não tenha cabimento nos duodécimos vencidos na verba correspondente.
+Art. 12.º As dotações orçamentadas para cada espécie de despesa serão utilizáveis por duodécimos, não podendo realizar-se qualquer despesa que não tenha cabimento nos duodécimos vencidos na verba correspondente.
 
 § 1.º Os presidentes das Relações poderão autorizar a antecipação dos duodécimos para despesas inadiáveis, comunicando a autorização ao conselho administrativo do Cofre.
 
@@ -167,29 +179,29 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § 3.º Salvo os casos referidos nos parágrafos anteriores, qualquer alteração dos orçamentos aprovados somente poderá ter lugar com autorização do conselho administrativo, mediante proposta fundamentada das entidades referidas no § 1.º
 
-###### Art. 13.º Para efeitos de cobrança das receitas, cada tribunal funcionará como delegação do Cofre Geral dos Tribunais.
+Art. 13.º Para efeitos de cobrança das receitas, cada tribunal funcionará como delegação do Cofre Geral dos Tribunais.
 
-###### Art. 14.º Cada tribunal arrecadará para a respectiva delegação a totalidade das receitas cobradas sob a rubrica «Cofre Geral dos Tribunais», até atingir o montante da despesa anual autorizada pelo respectivo orçamento.
+Art. 14.º Cada tribunal arrecadará para a respectiva delegação a totalidade das receitas cobradas sob a rubrica «Cofre Geral dos Tribunais», até atingir o montante da despesa anual autorizada pelo respectivo orçamento.
 
 § 1.º As receitas excedentes serão depositadas em conta do Cofre Geral dos Tribunais.
 
 § 2.º As importâncias dos cheques prescritos e os juros que forem liquidados acrescem às receitas da «delegação», no caso de não ter ainda atingido o montante da despesa anual orçamental, ou constituirão receita do Cofre Geral, no caso contrário.
 
-###### Art. 15.º Os tribunais cujas receitas não chegarem para fazer face aos encargos que pelo seu orçamento estão autorizados a contrair devem, relativamente a cada trimestre, nos primeiros cinco dias do trimestre imediato, requisitar, por intermédio das Relações, as importâncias que necessitarem para saldar as suas dívidas.
+Art. 15.º Os tribunais cujas receitas não chegarem para fazer face aos encargos que pelo seu orçamento estão autorizados a contrair devem, relativamente a cada trimestre, nos primeiros cinco dias do trimestre imediato, requisitar, por intermédio das Relações, as importâncias que necessitarem para saldar as suas dívidas.
 
 § único. As requisições serão feitas em triplicado, ficando um exemplar arquivado na secretaria da entidade por intermédio da qual for feita a requisição; os outros serão remetidos ao conselho administrativo do Cofre, que, simultâneamente com expedição do competente cheque, devolverá um ao tribunal requisitante.
 
-###### Art. 16.º Todos os tribunais enviarão, trimestralmente, ao conselho administrativo um balancete, em triplicado, mostrando a situação do Cofre e o excesso das receitas sobre as despesas que no fim de cada trimestre se verificar.
+Art. 16.º Todos os tribunais enviarão, trimestralmente, ao conselho administrativo um balancete, em triplicado, mostrando a situação do Cofre e o excesso das receitas sobre as despesas que no fim de cada trimestre se verificar.
 
-###### Art. 17.º Junto de cada um dos conselhos administrativos haverá um inspector-contador, nomeado em comissão de serviço por livre escolha do Ministro do Ultramar, sobre proposta da Direcção-Geral de Justiça.
+Art. 17.º Junto de cada um dos conselhos administrativos haverá um inspector-contador, nomeado em comissão de serviço por livre escolha do Ministro do Ultramar, sobre proposta da Direcção-Geral de Justiça.
 
 § único. Os inspectores-contadores serão escolhidos de entre escrivães de direito ou contadores-distribuidores com pelo menos 10 anos de serviço e classificação de Muito Bom.
 
-###### Art. 18.º Os inspectores-contadores serão, para todos os efeitos, considerados oficiais de justiça e receberão, além dos vencimentos fixados no artigo 20.º e da percentagem designada no artigo 19.º, as ajudas de custo que por lei competirem a funcionários públicos da sua categoria.
+Art. 18.º Os inspectores-contadores serão, para todos os efeitos, considerados oficiais de justiça e receberão, além dos vencimentos fixados no artigo 20.º e da percentagem designada no artigo 19.º, as ajudas de custo que por lei competirem a funcionários públicos da sua categoria.
 
 único. Os vencimentos e ajudas de custo referidos no corpo do artigo constituirão encargo do respectivo Cofre Geral.
 
-###### Art. 19.º Para preenchimento dos vencimentos dos inspectores-contadores serão deduzidas dos emolumentos contados aos contadores-distribuidores e contadores quando preenchidos os limites legais dos seus vencimentos e sobre o excedente, as seguintes percentagens:
+Art. 19.º Para preenchimento dos vencimentos dos inspectores-contadores serão deduzidas dos emolumentos contados aos contadores-distribuidores e contadores quando preenchidos os limites legais dos seus vencimentos e sobre o excedente, as seguintes percentagens:
 
 Nas comarcas de Lourenço Marques e Beira - 10 por cento.
 
@@ -201,11 +213,11 @@ Na comarca de Nova Lisboa - 2 por cento.
 
 Nas Relações de Luanda e Lourenço Marques - 5 por cento.
 
-###### Art. 20.º Os inspectores-contadores terão a categoria e vencimentos correspondentes aos distribuidores-gerais.
+Art. 20.º Os inspectores-contadores terão a categoria e vencimentos correspondentes aos distribuidores-gerais.
 
-###### Art. 21.º Os serviços dos inspectores-contadores funcionarão sob a superintendência do presidente do conselho administrativo do Cofre.
+Art. 21.º Os serviços dos inspectores-contadores funcionarão sob a superintendência do presidente do conselho administrativo do Cofre.
 
-###### Art. 22.º Compete aos inspectores-cantadores:
+Art. 22.º Compete aos inspectores-cantadores:
 
 1) Fiscalizar os serviços de contabilidade e tesouraria nos tribunais de 2.ª e 1.ª instâncias e inferiores.
 
@@ -213,7 +225,7 @@ Nas Relações de Luanda e Lourenço Marques - 5 por cento.
 
 3) Quaisquer outros serviços para que forem especialmente designados pelo Conselho Superior Judiciário e pela Direcção-Geral de Justiça.
 
-###### Art. 23.º As inspecções serão propostas pelo presidente do conselho administrativo dos cofres e terão por base um plano por ele elaborado, que, depois de aprovado pela Direcção-Geral de Justiça, será submetido a decisão do Conselho Superior Judiciário.
+Art. 23.º As inspecções serão propostas pelo presidente do conselho administrativo dos cofres e terão por base um plano por ele elaborado, que, depois de aprovado pela Direcção-Geral de Justiça, será submetido a decisão do Conselho Superior Judiciário.
 
 § 1.º Na elaboração do plano das inspecções deve-se procurar assegurar que os serviços sejam inspeccionados, quanto possível, pelo menos, de dois em dois anos, dando-se prioridade àqueles de que haja conhecimento ou suspeita de não funcionarem regularmente.
 
@@ -223,23 +235,23 @@ Nas Relações de Luanda e Lourenço Marques - 5 por cento.
 
 § 4.º As inspecções extraordinárias referidas no § 2.º deste artigo serão efectuadas dentro do prazo que for fixado, podendo a entidade que houver ordenado tais inspecções ampliá-lo mediante proposta do inspector-contador.
 
-###### Art. 24.º Se no decorrer da inspecção forem notadas faltas de natureza grave, o inspector-contador comunicará o facto ao presidente do conselho administrativo, a fim de este determinar as providências que julgar necessárias, de tudo dando conhecimento imediato à Direcção-Geral de Justiça.
+Art. 24.º Se no decorrer da inspecção forem notadas faltas de natureza grave, o inspector-contador comunicará o facto ao presidente do conselho administrativo, a fim de este determinar as providências que julgar necessárias, de tudo dando conhecimento imediato à Direcção-Geral de Justiça.
 
 § único. Nenhuma interferência podem os inspectores-contadores ter na execução ou ordenamento dos serviços, limitando-se a sua actividade a mera inspecção. Nos seus relatórios, além do relato dos factos, apresentarão as propostas que acharem convenientes.
 
-###### Art. 25.º De cada inspecção será organizado um processo, que terminará por um relatório, elaborado em duplicado, em que se constatará o estado e funcionamento dos serviços.
+Art. 25.º De cada inspecção será organizado um processo, que terminará por um relatório, elaborado em duplicado, em que se constatará o estado e funcionamento dos serviços.
 
 § único. O original do relatório será junto ao processo, que ficará arquivado no conselho administrativo, e o duplicado enviado imediatamente à Direcção-Geral de Justiça para seu conhecimento.
 
-###### Art. 26.º O conselho administrativo remeterá os processos ali arquivados aos inspectores superiores de justiça, quando estes efectuarem inspecções às comarcas, para serem apensados aos processos de inspecção judicial.
+Art. 26.º O conselho administrativo remeterá os processos ali arquivados aos inspectores superiores de justiça, quando estes efectuarem inspecções às comarcas, para serem apensados aos processos de inspecção judicial.
 
-###### Art. 27.º Os inspectores superiores de justiça, quando inspeccionarem as comarcas referidas no artigo anterior, poderão fazer-se acompanhar do inspector-contador, para o que requisitarão a sua presença ao presidente do conselho administrativo.
+Art. 27.º Os inspectores superiores de justiça, quando inspeccionarem as comarcas referidas no artigo anterior, poderão fazer-se acompanhar do inspector-contador, para o que requisitarão a sua presença ao presidente do conselho administrativo.
 
-###### Art. 28.º O Cofre Geral dos Tribunais e suas delegações gozam de isenção de selo e de quaisquer impostos, prémios, descontos ou percentagens pelos depósitos, guarda transferências e levantamentos de dinheiro efectuados na Caixa Económica Postal ou nos bancos.
+Art. 28.º O Cofre Geral dos Tribunais e suas delegações gozam de isenção de selo e de quaisquer impostos, prémios, descontos ou percentagens pelos depósitos, guarda transferências e levantamentos de dinheiro efectuados na Caixa Económica Postal ou nos bancos.
 
-###### Art. 29.º O Cofre Geral pode solicitar dos serviços técnicos da província os estudos e directrizes de que necessitar para as obras de construção e reparação dos edifícios a que se referem os n.os 3.º e 4.º do artigo 8.º deste diploma.
+Art. 29.º O Cofre Geral pode solicitar dos serviços técnicos da província os estudos e directrizes de que necessitar para as obras de construção e reparação dos edifícios a que se referem os n.os 3.º e 4.º do artigo 8.º deste diploma.
 
-**Publique-se e cumpre-se como nele se contém.**
+Publique-se e cumpre-se como nele se contém.
 
 Paços do Governo da República, 29 de Maio de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 
@@ -249,6 +261,6 @@ Tabela de remunerações do conselho administrativo do Cofre Geral dos Tribunais
 
 (Artigo 4.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/05/12700/07330735.pdf))](https://files.diariodarepublica.pt/1s/1964/05/12700/07330735.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/05/12700/07330735.pdf)
 
 Ministério do Ultramar, 29 de Maio de 1964. - O Ministro do Ultramar, António Augusto Peixoto Correia.

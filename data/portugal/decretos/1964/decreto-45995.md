@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45995-1964-536042
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-10-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:42:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68a316076104729f80c0ed2b8ff9d0503a9c6ed33db6a6f508b9d442e17ba37f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ee0cef7aff9652b98525504175f383ad5844c8d4bbb77511cbd8c6598c9e06b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:42:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:577534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686388:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:42:38Z'
   warnings: []
   errors: []
 ---
@@ -86,7 +94,7 @@ Tornando-se conveniente rever algumas das disposições dos Decretos n.os 45240 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São aditados os seguintes parágrafos ao artigo 4.º do [Decreto n.º 45769](https://diariodarepublica.pt/dr/detalhe/decreto/45769-1964-577534), de 19 de Junho de 1964:
+Artigo 1.º São aditados os seguintes parágrafos ao artigo 4.º do [Decreto n.º 45769](https://diariodarepublica.pt/dr/detalhe/decreto/45769-1964-577534), de 19 de Junho de 1964:
 
 ...
 
@@ -96,11 +104,11 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 § 8.º É competente para proceder à execução o juízo das execuções fiscais da capital da província da naturalidade do bolseiro.
 
-###### Art. 2.º As bolsas de estudo previstas na alínea a) do artigo 30.º do [Decreto n.º 45240](https://diariodarepublica.pt/dr/detalhe/decreto/45240-1963-686388), de 11 de Setembro de 1963, e as bolsas-empréstimos previstas no artigo 1.º do [Decreto n.º 45769](https://diariodarepublica.pt/dr/detalhe/decreto/45769-1964-577534), de 19 de Junho de 1964, se forem do montante de 15000$00, poderão ser pagas em dez prestações de 1500$00, de Outubro a Julho, ou em doze de 1250$00, conforme declaração a prestar pelo bolseiro no início do ano lectivo.
+Art. 2.º As bolsas de estudo previstas na alínea a) do artigo 30.º do [Decreto n.º 45240](https://diariodarepublica.pt/dr/detalhe/decreto/45240-1963-686388), de 11 de Setembro de 1963, e as bolsas-empréstimos previstas no artigo 1.º do [Decreto n.º 45769](https://diariodarepublica.pt/dr/detalhe/decreto/45769-1964-577534), de 19 de Junho de 1964, se forem do montante de 15000$00, poderão ser pagas em dez prestações de 1500$00, de Outubro a Julho, ou em doze de 1250$00, conforme declaração a prestar pelo bolseiro no início do ano lectivo.
 
 § único. As bolsas reduzidas a e as bolsas-empréstimos de montante inferior, previstas nos diplomas citados no corpo do artigo, poderão ser pagas em dez ou doze prestações, também de acordo com declaração do bolseiro.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Outubro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

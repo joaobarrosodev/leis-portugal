@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/64/2026/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/64-2026-1043405190
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-10T00:00:00Z'
+  retrieved_at: '2026-10-22T18:31:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7bce064d396f2137e31480fab49c27181c83bb4d054be0cdabf50df5f75b2434
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5dc89ba984b5f9dfa4b838b0f365bdb9737cf1b2fab4b18acf1be2cedc12e415
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:31:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Espetáculos e Divertimentos Públicos
-- Regulamentação de Atos Legislativos
 - GNR
 - Prestação de Serviços
+- PSP
+- Regulamentação de Atos Legislativos
 - Remuneração
 relationships:
+- type: amends
+  target: pt:numero:portaria:298/2016
+  label: Altera, a partir de 25 de fevereiro de 2026, o artigo 3.º e as tabelas A e B do anexo ii e repiblica a Portaria n.º
+    298/2016, de 29 de novembro, Diário da República n.º 229/2016, Série I
+  source: null
+  date: '2016-11-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/191/1999/06/05/p/dre
   label: null
@@ -113,16 +119,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/55/2014/03/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/55/2014/03/06/p/dre
+- type: cites
+  target: pt:dre:105276963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70737912:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:31:48Z'
   warnings: []
   errors: []
 ---
@@ -177,7 +247,7 @@ As tabelas A e B do anexo ii da [Portaria n.º 298/2016](https://diariodarepubli
 
 A presente portaria entra em vigor 15 dias após a sua publicação.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 4 de fevereiro de 2026. - A Ministra da Administração Interna, Maria Lúcia da Conceição Abrantes Amaral, em 19 de janeiro de 2026.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 4 de fevereiro de 2026. - A Ministra da Administração Interna, Maria Lúcia da Conceição Abrantes Amaral, em 19 de janeiro de 2026.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -187,9 +257,9 @@ TABELA A
 
 (a que se refere o artigo 6.º, n.º 1)
 
-| Categoria/carreira | Dias úteis das 8 às 20 horas | Sábados, domingos, feriados e dias úteis das 20 às 8 horas | Dias úteis das 8 às 20 horas | Sábados, domingos, feriados e dias úteis das 20 às 8 horas |
+| Categoria/carreira | Período de quatro horas (por cada elemento) | Por cada hora adicional (por cada elemento) |  |  |
 | --- | --- | --- | --- | --- |
-| Categoria/carreira | Período de quatro horas (por cada elemento) | Período de quatro horas (por cada elemento) | Por cada hora adicional (por cada elemento) | Por cada hora adicional (por cada elemento) |
+| Dias úteis das 8 às 20 horas | Sábados, domingos, feriados e dias úteis das 20 às 8 horas | Dias úteis das 8 às 20 horas | Sábados, domingos, feriados e dias úteis das 20 às 8 horas |  |
 | Oficial | 60,51 € | 85,96 € | 15,84 € | 22,03 € |
 | Sargento/Chefe | 54,34 € | 77,03 € | 14,48 € | 20,67 € |
 | Cabo (*)/Agente Principal (*)/Guarda (*)/Agente (*) | 51,60 € | 74,27 € | 13,11 € | 19,31 € |
@@ -200,9 +270,9 @@ TABELA B
 
 (a que se refere o artigo 6.º, n.º 2)
 
-| Categoria/carreira | Dias úteis das 8 às 20 horas | Sábados, domingos, feriados e dias úteis das 20 às 8 horas | Dias úteis das 8 às 20 horas | Sábados, domingos, feriados e dias úteis das 20 às 8 horas |
+| Categoria/carreira | Período de quatro horas (por cada elemento) | Por cada hora adicional (por cada elemento) |  |  |
 | --- | --- | --- | --- | --- |
-| Categoria/carreira | Período de quatro horas (por cada elemento) | Período de quatro horas (por cada elemento) | Por cada hora adicional (por cada elemento) | Por cada hora adicional (por cada elemento) |
+| Dias úteis das 8 às 20 horas | Sábados, domingos, feriados e dias úteis das 20 às 8 horas | Dias úteis das 8 às 20 horas | Sábados, domingos, feriados e dias úteis das 20 às 8 horas |  |
 | Oficial | 51,60 € | 76,34 € | 15,84 € | 19,99 € |
 | Sargento/Chefe | 41,27 € | 61,21 € | 13,11 € | 17,22 € |
 | Cabo (*)/Agente Principal (*)/Guarda (*)/Agente (*) | 36,46 € | 54,34 € | 10,36 € | 14,48 € |
@@ -215,7 +285,7 @@ Republicação da [Portaria n.º 298/2016](https://diariodarepublica.pt/dr/detal
 
 ###### Artigo 1.º — Objeto
 
-1 - A presente portaria regula o regime dos serviços remunerados, designadamente a sua requisição, autorização, duração, organização e modos de pagamento, bem como os valores devidos pela prestação desses serviços remunerados pelos militares da GNR e pelo pessoal policial da PSP, ao abrigo do disposto no n.º 4 do artigo 16.º e dos n.<sup>os</sup>1 e 3 do artigo 18.º da [Lei n.º 63/2007](https://diariodarepublica.pt/dr/detalhe/lei/63-2007-629449), de 6 de novembro, do n.º 4 do artigo 14.º e dos n.<sup>os</sup>1 e 3 do artigo 16.º da [Lei n.º 53/2007](https://diariodarepublica.pt/dr/detalhe/lei/53-2007-641142), de 31 de agosto, do artigo 31.º do [Decreto-Lei n.º 298/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2009-491436), de 14 de outubro, e do artigo 139.º do [Decreto-Lei n.º 243/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2015-70737912), de 19 de outubro.
+1 - A presente portaria regula o regime dos serviços remunerados, designadamente a sua requisição, autorização, duração, organização e modos de pagamento, bem como os valores devidos pela prestação desses serviços remunerados pelos militares da GNR e pelo pessoal policial da PSP, ao abrigo do disposto no n.º 4 do artigo 16.º e dos n.os1 e 3 do artigo 18.º da [Lei n.º 63/2007](https://diariodarepublica.pt/dr/detalhe/lei/63-2007-629449), de 6 de novembro, do n.º 4 do artigo 14.º e dos n.os1 e 3 do artigo 16.º da [Lei n.º 53/2007](https://diariodarepublica.pt/dr/detalhe/lei/53-2007-641142), de 31 de agosto, do artigo 31.º do [Decreto-Lei n.º 298/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2009-491436), de 14 de outubro, e do artigo 139.º do [Decreto-Lei n.º 243/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2015-70737912), de 19 de outubro.
 
 2 - É criada a taxa que se destina a cobrir parte dos custos administrativos associados ao planeamento, nomeação, controlo, fiscalização, cobrança e pagamento aos respetivos militares e pessoal policial dos serviços remunerados, ao abrigo do disposto no n.º 4 do artigo 53.º da [Lei n.º 63/2007](https://diariodarepublica.pt/dr/detalhe/lei/63-2007-629449), de 6 de novembro, e no n.º 2 do artigo 65.º da [Lei n.º 53/2007](https://diariodarepublica.pt/dr/detalhe/lei/53-2007-641142), de 31 de agosto.
 
@@ -335,15 +405,15 @@ b) Eventos ou jogos de competições desportivas de natureza inferior ao escalã
 
 5 - Considerando as necessidades organizativas e reguladoras atinentes à nomeação dos militares e pessoal policial, a anulação de serviço remunerado requisitado terá de ocorrer com um prazo de 24 horas de antecedência sendo que, após este período, proceder-se-á à sua efetiva cobrança, mesmo que o serviço não se concretize, exceto por caso fortuito ou motivo de força maior.
 
-6 - A falta de pagamento nos prazos previstos nos n.<sup>os</sup>1 e 2 do presente artigo determina a não prestação dos serviços em causa.
+6 - A falta de pagamento nos prazos previstos nos n.os1 e 2 do presente artigo determina a não prestação dos serviços em causa.
 
-7 - Sempre que se verificar o não pagamento, pelas entidades interessadas, dos valores determinados nos termos do artigo 6.º, nos prazos previstos no presente artigo, é extraída certidão de dívida, nos termos do disposto na alínea b) do n.º 1 do artigo 22.º do [Decreto-Lei n.º 191/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1999-310379), de 5 de junho, com as alterações introduzidas pela [Lei n. o 3-B/2000](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), de 4 de abril, e pela [Lei n. o 107-B/2003](https://diariodarepublica.pt/dr/detalhe/lei/107-b-2003-669556), de 31 de dezembro.
+7 - Sempre que se verificar o não pagamento, pelas entidades interessadas, dos valores determinados nos termos do artigo 6.º, nos prazos previstos no presente artigo, é extraída certidão de dívida, nos termos do disposto na alínea b) do n.º 1 do artigo 22.º do [Decreto-Lei n.º 191/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1999-310379), de 5 de junho, com as alterações introduzidas pela [Lei n.o 3-B/2000](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), de 4 de abril, e pela [Lei n.o 107-B/2003](https://diariodarepublica.pt/dr/detalhe/lei/107-b-2003-669556), de 31 de dezembro.
 
 ###### Artigo 8.º — Receitas
 
 1 - Os valores a cobrar pela prestação dos serviços remunerados, fixados no anexo ii, constituem gratificação dos militares e pessoal policial afeto à sua prestação, considerando-se como não atribuída pela respetiva força de segurança, ainda que pagas pelo seu intermédio.
 
-2 - Os valores a cobrar nos termos dos n.<sup>os</sup>3, 6 e 7 do artigo 6.º constituem receita própria da força de segurança respetiva.
+2 - Os valores a cobrar nos termos dos n.os3, 6 e 7 do artigo 6.º constituem receita própria da força de segurança respetiva.
 
 3 - Sempre que o apoio logístico previsto no n.º 5 do artigo 6.º for garantido com meios e instalações da força de segurança, os valores cobrados constituem receita própria da respetiva força de segurança.
 
@@ -369,7 +439,8 @@ A presente portaria entra em vigor no primeiro dia do segundo mês seguinte ao d
 
 ## ANEXO I
 
-![](https://files.diariodarepublica.pt/images/1043405190/1043507975.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1043405190/1043507975.png) |
+| --- |
 
 ## ANEXO II — Tabelas de valores pela prestação de serviços remunerados pela GNR e pela PSP
 
@@ -377,9 +448,9 @@ TABELA A
 
 (a que se refere o artigo 6.º, n.º 1)
 
-| Categoria/carreira | Dias úteis das 8 às 20 horas | Sábados, domingos, feriados e dias úteis das 20 às 8 horas | Dias úteis das 8 às 20 horas | Sábados, domingos, feriados e dias úteis das 20 às 8 horas |
+| Categoria/carreira | Período de quatro horas (por cada elemento) | Por cada hora adicional (por cada elemento) |  |  |
 | --- | --- | --- | --- | --- |
-| Categoria/carreira | Período de quatro horas (por cada elemento) | Período de quatro horas (por cada elemento) | Por cada hora adicional (por cada elemento) | Por cada hora adicional (por cada elemento) |
+| Dias úteis das 8 às 20 horas | Sábados, domingos, feriados e dias úteis das 20 às 8 horas | Dias úteis das 8 às 20 horas | Sábados, domingos, feriados e dias úteis das 20 às 8 horas |  |
 | Oficial | 60,51 € | 85,96 € | 15,84 € | 22,03 € |
 | Sargento/Chefe | 54,34 € | 77,03 € | 14,48 € | 20,67 € |
 | Cabo(*)/Agente Principal (*) Guarda (*)/Agente (*) | 51,60 € | 74,27 € | 13,11 € | 19,31 € |
@@ -390,9 +461,9 @@ TABELA B
 
 (a que se refere o artigo 6.º, n.º 2)
 
-| Categoria/carreira | Dias úteis das 8 às 20 horas | Sábados, domingos, feriados e dias úteis das 20 às 8 horas | Dias úteis das 8 às 20 horas | Sábados, domingos, feriados e dias úteis das 20 às 8 horas |
+| Categoria/carreira | Período de quatro horas (por cada elemento) | Por cada hora adicional (por cada elemento) |  |  |
 | --- | --- | --- | --- | --- |
-| Categoria/carreira | Período de quatro horas (por cada elemento) | Período de quatro horas (por cada elemento) | Por cada hora adicional (por cada elemento) | Por cada hora adicional (por cada elemento) |
+| Dias úteis das 8 às 20 horas | Sábados, domingos, feriados e dias úteis das 20 às 8 horas | Dias úteis das 8 às 20 horas | Sábados, domingos, feriados e dias úteis das 20 às 8 horas |  |
 | Oficial | 51,60 € | 76,34 € | 15,84 € | 19,99 € |
 | Sargento/Chefe | 41,27 € | 61,21 € | 13,11 € | 17,22 € |
 | Cabo (*)/Agente Principal (*)/Guarda (*)/Agente (*) | 36,46 € | 54,34 € | 10,36 € | 14,48 € |
@@ -417,3 +488,7 @@ TABELA B
 | Por cada quilómetro adicional - viaturas ligeiras e motociclos | Unidade (km) | km × 0,65 € |
 | Por cada quilómetro adicional - viatura pesada | Unidade (km) | km × 1,30 € |
 | Grades de ordem pública | Unidade/24 horas | 2,50 € |
+
+119947592
+
+.Tbl1 { border-collapse:collapse; border-color:rgb(0,0,0); } .Tbl2 { min-height:23px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:31px; } .Tbl6 { min-height:18px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl13 { border-collapse:collapse; border-width:1px; } .Tbl14 { min-height:17px; } .Tbl15 { min-height:34px; } .Tbl16 { min-height:26px; }

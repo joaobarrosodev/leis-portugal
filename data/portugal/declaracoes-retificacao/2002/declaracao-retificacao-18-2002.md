@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/18/2002/04/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/18-2002-303196
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-19T00:00:00Z'
+  retrieved_at: '2026-10-22T19:00:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d0301a76b9daf86fbf705f9a8e3baae9359098de7dba9661c7b344afc25c122
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0289cd7fe6d014b8689b4da7ab087a2953dcc20736f020ed3e931576daf5b67
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:00:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,9 +80,9 @@ subjects:
 - Legitimidade
 - Magistrado do Ministério Público
 - Magistrado Judicial
+- Ministério Público
 - Orgânica
 - Proteção do Ambiente
-- Ministério Público
 - Supremo Tribunal Administrativo
 - Tribunal Administrativo de Círculo
 - Tribunal Administrativo e Fiscal
@@ -95,6 +95,12 @@ relationships:
   target: pt:dre:476347:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476347:por
+  label: "Alterados os arts. 5º e 7º da Lei 13/2002 de 19-Fev, rectificados pela presente declaração, pela LEI.4-A/2003.19.02.2003.AR,\
+    \ DR.IS-A [42-Supl] de 19.02.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/4-a-2003-476347
+  date: '2003-02-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/159/2000/07/27/p/dre
   label: null
@@ -123,16 +129,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/168/1999/09/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/168/1999/09/18/p/dre
+- type: cites
+  target: pt:dre:152526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666148:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:00:00Z'
   warnings: []
   errors: []
 ---

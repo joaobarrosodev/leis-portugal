@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/285-a/2026/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/285-a-2026-1143343958
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-02T00:00:00Z'
+  retrieved_at: '2026-10-22T18:45:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab3ec221087adb17761fcb6638e4fe132e0a2552296c5ae9e7f779d86d09a106
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3fff94d03c8f35829f52a0e972ecb08aec3cb661a810c984eb5e6239a0f8119
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:45:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
 - Bailado
 - Colocação de Professores
 - Concurso
-- Regulamentação de Atos Legislativos
+- Ensino Artístico
 - Ensino Oficial
-- Recrutamento de Pessoal
 - Música
 - Pessoal Docente
+- Recrutamento de Pessoal
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/15/2018/03/07/p/dre
@@ -92,16 +92,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/693/1998/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/693/1998/09/03/p/dre
+- type: cites
+  target: pt:dre:114825661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222877158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566825:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:45:50Z'
   warnings: []
   errors: []
 ---
@@ -114,19 +134,19 @@ Nos termos do disposto no artigo 28.º do Estatuto da Carreira dos Educadores de
 
 ###### Artigo 1.º — Objeto
 
-A presente portaria fixa o número de vagas destinadas aos concursos interno e externo para seleção e recrutamento de pessoal docente do ensino artístico especializado da música e da dança dos estabelecimentos públicos de ensino, discriminadas por referência ao respetivo código nos grupos e subgrupos das disciplinas curriculares dos cursos do ensino artístico especializado da música e da dança, definidos nos termos das Portarias n.<sup>os</sup>[693/98](https://diariodarepublica.pt/dr/detalhe/portaria/693-1998-566825), de 3 de setembro, e [192/2002](https://diariodarepublica.pt/dr/detalhe/portaria/192-2002-251445), de 4 de março.
+A presente portaria fixa o número de vagas destinadas aos concursos interno e externo para seleção e recrutamento de pessoal docente do ensino artístico especializado da música e da dança dos estabelecimentos públicos de ensino, discriminadas por referência ao respetivo código nos grupos e subgrupos das disciplinas curriculares dos cursos do ensino artístico especializado da música e da dança, definidos nos termos das Portarias n.os[693/98](https://diariodarepublica.pt/dr/detalhe/portaria/693-1998-566825), de 3 de setembro, e [192/2002](https://diariodarepublica.pt/dr/detalhe/portaria/192-2002-251445), de 4 de março.
 
 ###### Artigo 2.º — Fixação das vagas para o concurso interno
 
 1 - O número de vagas de cada estabelecimento de ensino público para o pessoal docente do ensino artístico especializado da música e da dança, a preencher pelo concurso interno no ano escolar de 2026-2027, regulado pelo Regime de Seleção e Recrutamento de Docentes do Ensino Artístico Especializado da Música, da Dança e das Artes Visuais e dos Audiovisuais nos Estabelecimentos Públicos de Ensino, aprovado em anexo ao [Decreto-Lei n.º 15/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2018-114825661), de 7 de março, na sua redação atual, é o constante do anexo i da presente portaria e da qual faz parte integrante.
 
-2 - As vagas referidas no número anterior são discriminadas por referência ao respetivo código nos grupos e subgrupos das disciplinas curriculares dos cursos do ensino artístico especializado da música e da dança, definidos nos termos das Portarias n.<sup>os</sup>[693/98](https://diariodarepublica.pt/dr/detalhe/portaria/693-1998-566825), de 3 de setembro, e [192/2002](https://diariodarepublica.pt/dr/detalhe/portaria/192-2002-251445), de 4 de março.
+2 - As vagas referidas no número anterior são discriminadas por referência ao respetivo código nos grupos e subgrupos das disciplinas curriculares dos cursos do ensino artístico especializado da música e da dança, definidos nos termos das Portarias n.os[693/98](https://diariodarepublica.pt/dr/detalhe/portaria/693-1998-566825), de 3 de setembro, e [192/2002](https://diariodarepublica.pt/dr/detalhe/portaria/192-2002-251445), de 4 de março.
 
 ###### Artigo 3.º — Fixação das vagas para o concurso externo
 
 1 - O número de vagas de cada estabelecimento de ensino público para o pessoal docente do ensino artístico especializado da música e da dança, a preencher pelo concurso externo no ano escolar de 2026-2027, regulado pelo Regime de Seleção e Recrutamento de Docentes do Ensino Artístico Especializado da Música, da Dança e das Artes Visuais e dos Audiovisuais nos Estabelecimentos Públicos de Ensino, aprovado em anexo ao [Decreto-Lei n.º 15/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2018-114825661), de 7 de março, na sua redação atual, é o constante do anexo ii da presente portaria e da qual faz parte integrante.
 
-2 - As vagas referidas no número anterior são discriminadas por referência ao respetivo código nos grupos e subgrupos das disciplinas curriculares dos cursos do ensino artístico especializado da música e da dança, definidos nos termos das Portarias n.<sup>os</sup>[693/98](https://diariodarepublica.pt/dr/detalhe/portaria/693-1998-566825), de 3 de setembro, e [192/2002](https://diariodarepublica.pt/dr/detalhe/portaria/192-2002-251445), de 4 de março.
+2 - As vagas referidas no número anterior são discriminadas por referência ao respetivo código nos grupos e subgrupos das disciplinas curriculares dos cursos do ensino artístico especializado da música e da dança, definidos nos termos das Portarias n.os[693/98](https://diariodarepublica.pt/dr/detalhe/portaria/693-1998-566825), de 3 de setembro, e [192/2002](https://diariodarepublica.pt/dr/detalhe/portaria/192-2002-251445), de 4 de março.
 
 ###### Artigo 4.º — Ingresso na carreira
 
@@ -144,16 +164,20 @@ Todas as vagas referidas no artigo 3.º consideram-se extintas quando vagarem.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 30 de junho de 2026. - O Ministro da Educação, Ciência e Inovação, Fernando Alexandre, em 2 de julho de 2026.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 30 de junho de 2026. - O Ministro da Educação, Ciência e Inovação, Fernando Alexandre, em 2 de julho de 2026.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 2.º)
 
 Concurso interno - Vagas para o ensino artístico especializado da música e da dança
 
-![](https://files.diariodarepublica.pt/images/1143343958/1143911077.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1143343958/1143911077.png) |
+| --- |
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 3.º)
 
 Concurso externo - Vagas para o ensino artístico especializado da música e da dança
 
-![](https://files.diariodarepublica.pt/images/1143343958/1143911078.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1143343958/1143911078.png) |
+| --- |
+
+119948975

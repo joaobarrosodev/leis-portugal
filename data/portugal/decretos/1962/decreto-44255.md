@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44255-1962-516512
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-03-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:28:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 955bb916c52fd34db76e4c2ea0631cef1ec2ad18260e024193cdf26c93ba1d8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a77d38f5e71675598e87fed85439e775d13d4ddeb8ad2aeba669ed2199fdd46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:28:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:28:35Z'
   warnings: []
   errors: []
 ---
@@ -89,13 +101,13 @@ Com fundamento na alínea a) do artigo 33.º do [Decreto n.º 18381](https://dia
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças, a favor dos Ministérios a seguir designados, créditos especiais no montante de 5375400$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças, a favor dos Ministérios a seguir designados, créditos especiais no montante de 5375400$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Ministério das Finanças
 
-### Capítulo 1.º «Encargos da dívida pública»:
+Capítulo 1.º «Encargos da dívida pública»:
 
-###### Artigo 1.º «Juros», n.º 2) «Empréstimos com aval do Estado», alínea a) «Amortizável interna»:
+Artigo 1.º «Juros», n.º 2) «Empréstimos com aval do Estado», alínea a) «Amortizável interna»:
 
 3 por cento (empréstimo de 1959 de renovação da marinha mercante - II Plano de Fomento, 4.ª série) ... (a) 2000000$00
 
@@ -105,39 +117,39 @@ Ministério das Finanças
 
 Ministério do Exército
 
-### Capítulo 3.º «Serviços de instrução - Instituto Técnico Militar dos Pupilos do Exército (Lisboa)»:
+Capítulo 3.º «Serviços de instrução - Instituto Técnico Militar dos Pupilos do Exército (Lisboa)»:
 
-###### Artigo 155.º, n.º 1) «Pessoal dos quadros ...»:
+Artigo 155.º, n.º 1) «Pessoal dos quadros ...»:
 
 1 director da oficina de óptica, oficial superior ... 2400$00
 
 Ministério da Saúde e Assistência
 
-### Capítulo 4.º «Direcção-Geral da Assistência»:
+Capítulo 4.º «Direcção-Geral da Assistência»:
 
-###### Artigo 65.º, n.º 1) «Subsídios a cofres ...», alínea f) «Assistência à família: comparticipação nos encargos de sustentação do Instituto de Assistência à Família ...» ... 1400000$00
+Artigo 65.º, n.º 1) «Subsídios a cofres ...», alínea f) «Assistência à família: comparticipação nos encargos de sustentação do Instituto de Assistência à Família ...» ... 1400000$00
 
 ... 5375400$00
 
-###### Art. 2.º Como compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações no Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+Art. 2.º Como compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações no Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 7.º, artigo 161.º «Reembolso dos juros e amortização dos empréstimos para o Fundo de Renovação da Marinha Mercante» ... 2000000$00
+Capítulo 7.º, artigo 161.º «Reembolso dos juros e amortização dos empréstimos para o Fundo de Renovação da Marinha Mercante» ... 2000000$00
 
-### Capítulo 7.º, artigo 162.º «Reembolso de juros e amortização dos empréstimos para o Fundo de Renovação e de Apetrechamento da Indústria da Pesca» ... 1973000$00
+Capítulo 7.º, artigo 162.º «Reembolso de juros e amortização dos empréstimos para o Fundo de Renovação e de Apetrechamento da Indústria da Pesca» ... 1973000$00
 
-### Capítulo 8.º, artigo 207.º «Instituto de Assistência à Família» ... 1400000$00
+Capítulo 8.º, artigo 207.º «Instituto de Assistência à Família» ... 1400000$00
 
 ... 5373000$00
 
 Ministério do Exército
 
-### Capítulo 3.º, artigo 155.º, n.º 1) ... 2400$00
+Capítulo 3.º, artigo 155.º, n.º 1) ... 2400$00
 
 ... 5375400$00
 
-###### Art. 3.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério da Saúde e Assistência:
+Art. 3.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério da Saúde e Assistência:
 
 A observação (a) aposta à dotação do capítulo 4.º, artigo 65.º, n.º 1), alínea f), é alterada para:
 
@@ -145,6 +157,6 @@ Sujeita a duplo cabimento a importância de 30000000$00 ...
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Março de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

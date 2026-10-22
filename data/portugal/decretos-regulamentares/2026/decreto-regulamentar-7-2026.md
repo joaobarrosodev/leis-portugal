@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/7/2026/07/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2026-1151816546
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-24T00:00:00Z'
+  retrieved_at: '2026-10-22T18:47:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0427289d7dda0931021635b3f0514ca63e3cad421ea6021542fe2460086ddf0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b4ae2fe7b635304019c941b0b754776f0405c1834add5c624212c1e4928bef7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:47:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- SIADAP
 - Administração Local
 - Avaliação do Pessoal
+- Pessoal Dirigente
+- SIADAP
 - Trabalhador
 relationships:
 - type: cites
@@ -91,16 +91,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/73/2013/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/73/2013/09/03/p/dre
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836437684:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-regulamentar:18/2009
+  label: Revoga, a partir de 27 de julho de 2026, nos termos do artigo 28.º do presente diploma, o Decreto Regulamentar n.º
+    18/2009, de 4 de setembro, Diário da República n.º 172/2009, Série I
+  source: null
+  date: '2009-09-04'
 article_structure:
   article_count: 29
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:47:42Z'
   warnings: []
   errors: []
 ---
@@ -413,7 +439,7 @@ f) Dispensa dos membros das mesas do exercício dos seus deveres funcionais no d
 
 8 - Os vogais efetivos são substituídos pelos vogais suplentes quando tenham de interromper o respetivo mandato ou sempre que a comissão seja chamada a pronunciar-se sobre processos em que aqueles tenham participado como avaliados ou avaliadores.
 
-9 - Quando se verificar a interrupção do mandato de pelo menos metade do número de vogais efetivos e suplentes, representantes da Administração, por um lado, ou eleitos em representação dos avaliados, por outro, os procedimentos previstos nos n.<sup>os</sup>4 e 5 podem ser repetidos, se necessário, por uma única vez e num prazo de cinco dias.
+9 - Quando se verificar a interrupção do mandato de pelo menos metade do número de vogais efetivos e suplentes, representantes da Administração, por um lado, ou eleitos em representação dos avaliados, por outro, os procedimentos previstos nos n.os4 e 5 podem ser repetidos, se necessário, por uma única vez e num prazo de cinco dias.
 
 10 - Nos casos do número anterior, os vogais designados ou eleitos para preenchimento das vagas completam o mandato daqueles que substituem, passando a integrar a comissão até ao termo do período de funcionamento desta.
 
@@ -519,12 +545,14 @@ O presente decreto regulamentar entra em vigor no primeiro dia útil seguinte à
 
 Visto e aprovado em Conselho de Ministros de 29 de maio de 2026. - Luís Montenegro - Cláudia Maria dos Reis Duarte Melo de Carvalho - Hélder Manuel Gomes dos Reis.
 
-**Promulgado em 8 de julho de 2026.**
+Promulgado em 8 de julho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 9 de julho de 2026.**
+Referendado em 9 de julho de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119949045

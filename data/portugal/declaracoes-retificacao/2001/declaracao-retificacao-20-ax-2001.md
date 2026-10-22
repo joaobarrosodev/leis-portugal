@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 278/2001, 4º Suplemento, Série I-B de 2001-11-30
   number: '278'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 7666-(14) a 7666-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/11/278b04/00140014.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/20-ax/2001/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-ax-2001-456826
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:58:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09d20927601aa03c736a7dd10b58bad6448ca75bf999301e5a77552b666e6785
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07f0fc96454a618d741a1dee4e75cca31d54e3d0502c7dfa4d37685ba54a3f96
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:58:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Armador
+- Cessação de Actividade
+- Comunidade Europeia
+- Embarcação de Pesca
 - Financiamento
+- Marrocos
+- Pesca
 - Pescador
 - Pessoal do MAR
-- Comunidade Europeia
-- Cessação de Actividade
-- Pesca
-- Marrocos
 - Prémio de Imobilização
-- Armador
 - Regime de Apoio
 - Regulamento
-- Embarcação de Pesca
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1273/2001/11/13/p/dre
@@ -89,16 +89,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/951/2001/08/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/951/2001/08/06/p/dre
+- type: cites
+  target: pt:dre:603513:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:58:33Z'
   warnings: []
   errors: []
 ---

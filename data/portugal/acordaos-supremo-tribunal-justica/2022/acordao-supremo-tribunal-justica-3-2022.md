@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/04/07300/0000300017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/3/2022/04/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/3-2022-182032089
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-04-13T00:00:00Z'
+  retrieved_at: '2026-10-22T17:54:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91594c227b57b6460cabfe558a33e170dc61b06e411b11aa00060a47fb45693d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62a6b4b629642f1f749e9634fa42611ce17ff500b250591c093e2c5ba23d1868
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:54:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,7 +68,7 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Processo Civil
+- Autoridade para as Condições do Trabalho
 - Código de Processo Penal
 - Contra-ordenação Laboral
 - Impugnação
@@ -76,9 +76,9 @@ subjects:
 - Jurisprudencia
 - Prazo Processual
 - Processo Administrativo
+- Processo Civil
 - Segurança Social
 - Supremo Tribunal da Justiça
-- Autoridade para as Condições do Trabalho
 relationships:
 - type: cites
   target: eli:http://d
@@ -124,16 +124,104 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
+- type: cites
+  target: pt:dre:124457181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124539902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1989267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70237675:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:54:25Z'
   warnings: []
   errors: []
 ---
@@ -316,37 +404,37 @@ c) Legislação relevante para a decisão
 
 1 - [Lei n.º 107/2009](https://diariodarepublica.pt/dr/detalhe/lei/107-2009-489761), de 14 de setembro - Regime Processual Aplicável às Contra-ordenações Laborais e de Segurança Social.
 
-### Capítulo II - Atos processuais na fase administrativa
+Capítulo II - Atos processuais na fase administrativa
 
-###### Artigo 6.º - Contagem dos prazos
+Artigo 6.º - Contagem dos prazos
 
 1 - À contagem dos prazos para a prática de actos processuais previstos na presente lei são aplicáveis as disposições constantes da lei do processo penal.
 
 2 - A contagem referida no número anterior não se suspende durante as férias judiciais.
 
-### Capítulo IV - Tramitação processual
+Capítulo IV - Tramitação processual
 
-#### Secção II - Fase judicial
+Secção II - Fase judicial
 
-###### Artigo 33.º - Forma e prazo
+Artigo 33.º - Forma e prazo
 
 1 - A impugnação judicial é dirigida ao tribunal de trabalho competente e deve conter alegações, conclusões e indicação dos meios de prova a produzir.
 
 2 - A impugnação judicial é apresentada na autoridade administrativa que tenha proferido a decisão de aplicação da coima, no prazo de 20 dias após a sua notificação.
 
-###### Artigo 36.º - Envio dos autos ao Ministério Público
+Artigo 36.º - Envio dos autos ao Ministério Público
 
 1 - Recebida a impugnação judicial e, sendo caso disso, efetuado o depósito referido no artigo anterior, a autoridade administrativa competente envia os autos ao Ministério Público no prazo de 10 dias, podendo, caso o entenda, apresentar alegações.
 
 2 - Até ao envio dos autos, pode a autoridade administrativa competente revogar, total ou parcialmente, a decisão de aplicação da coima ou sanção acessória.
 
-###### Artigo 37.º - Apresentação dos autos ao juiz
+Artigo 37.º - Apresentação dos autos ao juiz
 
 O Ministério Público torna sempre presentes os autos ao juiz, com indicação dos respetivos elementos de prova, valendo este ato como acusação.
 
-### Capítulo VI - Disposições finais
+Capítulo VI - Disposições finais
 
-###### Artigo 60.º - Direito subsidiário
+Artigo 60.º - Direito subsidiário
 
 Sempre que o contrário não resulte da presente lei, são aplicáveis, com as devidas adaptações, os preceitos reguladores do processo de contraordenação previstos no regime geral das contraordenações.
 
@@ -354,17 +442,17 @@ Sempre que o contrário não resulte da presente lei, são aplicáveis, com as d
 
 II Parte - Do processo de contra-ordenação
 
-### Capítulo II - Princípios e disposições gerais
+Capítulo II - Princípios e disposições gerais
 
-###### Artigo 41.º - Direito subsidiário
+Artigo 41.º - Direito subsidiário
 
 1 - Sempre que o contrário não resulte deste diploma, são aplicáveis, devidamente adaptados, os preceitos reguladores do processo criminal.
 
 2 - No processo de aplicação da coima e das sanções acessórias, as autoridades administrativas gozam dos mesmos direitos e estão submetidas aos mesmos deveres das entidades competentes para o processo criminal, sempre que o contrário não resulte do presente diploma.
 
-### Capítulo IV - Recurso e processo judiciais
+Capítulo IV - Recurso e processo judiciais
 
-###### Artigo 59.º - Forma e prazo
+Artigo 59.º - Forma e prazo
 
 1 - A decisão da autoridade administrativa que aplica uma coima é susceptível de impugnação judicial.
 
@@ -372,7 +460,7 @@ II Parte - Do processo de contra-ordenação
 
 3 - O recurso é feito por escrito e apresentado à autoridade administrativa que aplicou a coima, no prazo de 20 dias após o seu conhecimento pelo arguido, devendo constar de alegações e conclusões.
 
-###### Artigo 60.º - Contagem do prazo para impugnação
+Artigo 60.º - Contagem do prazo para impugnação
 
 1 - O prazo para a impugnação da decisão da autoridade administrativa suspende-se aos sábados, domingos e feriados.
 
@@ -380,17 +468,17 @@ II Parte - Do processo de contra-ordenação
 
 3 - Código de Processo Penal
 
-# Livro II - Dos actos processuais
+Livro II - Dos actos processuais
 
-## Título III - Do tempo dos actos e da aceleração do processo
+Título III - Do tempo dos actos e da aceleração do processo
 
-###### Artigo 104.º - Contagem dos prazos de actos processuais
+Artigo 104.º - Contagem dos prazos de actos processuais
 
 1 - Aplicam-se à contagem dos prazos para a prática de actos processuais as disposições da lei do processo civil.
 
 2 - Correm em férias os prazos relativos a processos nos quais devam praticar-se os actos referidos nas alíneas a) a e) do n.º 2 do artigo anterior.
 
-###### Artigo 107.º - Renúncia ao decurso e prática de acto fora do prazo
+Artigo 107.º - Renúncia ao decurso e prática de acto fora do prazo
 
 1 - A pessoa em benefício da qual um prazo for estabelecido pode renunciar ao seu decurso, mediante requerimento endereçado à autoridade judiciária que dirigir a fase do processo a que o acto respeitar, a qual o despacha em vinte e quatro horas.
 
@@ -404,7 +492,7 @@ II Parte - Do processo de contra-ordenação
 
 6 - Quando o procedimento se revelar de excecional complexidade, nos termos da parte final do n.º 3 do artigo 215.º, o juiz, a requerimento do Ministério Público, do assistente, do arguido ou das partes civis, pode prorrogar os prazos previstos nos artigos 78.º, 287.º e 315.º e nos n.os 1 e 3 do artigo 411.º, até ao limite máximo de 30 dias.
 
-###### Artigo 107.º-A - Sanção pela prática extemporânea de actos processuais
+Artigo 107.º-A - Sanção pela prática extemporânea de actos processuais
 
 Sem prejuízo do disposto no artigo anterior, à prática extemporânea de actos processuais penais aplica-se o disposto nos n.os 5 a 7 do artigo 145.º do Código de Processo Civil, com as seguintes alterações:
 
@@ -416,7 +504,7 @@ c) Se o acto for praticado no 3.º dia, a multa é equivalente a 2 UC.
 
 4 - Código de Processo Civil
 
-###### Artigo 139.º - Modalidades do prazo (artigo 145.º do anterior Código de Processo Civil)
+Artigo 139.º - Modalidades do prazo (artigo 145.º do anterior Código de Processo Civil)
 
 1 - O prazo é dilatório ou perentório.
 
@@ -643,3 +731,5 @@ b) Acorda-se na revogação do acórdão recorrido e em considerar tempestiva a 
 Sem custas.
 
 STJ, 10 de março de 2022. - Maria Paula Sá Fernandes - Leonor Cruz Rodrigues - Pedro B. Ferreira Dias - José Luiz Ramalho Pinto (revendo a posição tomada no acórdão recorrido) - Júlio Manuel Vieira Gomes - Joaquim António Chambel Mourisco.
+
+115190054

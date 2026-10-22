@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45868-1964-579936
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-08-12T00:00:00Z'
+  retrieved_at: '2026-10-22T19:41:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c11e45054408b23b5fc12876ecfcb50e241174f32207999b3ed2bb721a6f6f24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86efbe53c03bc541cb17e0205dad8ecbe6563b54d816dd85508040e6af7c016e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:41:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:41:35Z'
   warnings: []
   errors: []
 ---
@@ -90,18 +90,18 @@ Ouvidos os governos das províncias ultramarinas e o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150. da Constituição, o Ministro do Ultramar decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, o seguinte:
 
-###### Artigo único. Os corpos de Polícia de Segurança Pública e as formações especializadas apropriadas a escoltas, como brigadas montadas ou secções motorizadas, existentes nas províncias ultramarinas, usarão, quando em paradas e desfiles, um guião do modelo indicado na figura 1, com as dimensões de 0,70 m x 0,70 m.
+Artigo único. Os corpos de Polícia de Segurança Pública e as formações especializadas apropriadas a escoltas, como brigadas montadas ou secções motorizadas, existentes nas províncias ultramarinas, usarão, quando em paradas e desfiles, um guião do modelo indicado na figura 1, com as dimensões de 0,70 m x 0,70 m.
 
 Os lados exteriores do quadrado são de tecido de seda azul-ferrete, circundado a cordão também de seda dourado, tendo quatro estrelas bordadas a fio de ouro, sobre o fundo de seda branca.
 
 No centro do guião, sobre as cores das bandeiras representativas das câmaras municipais sedes de comando, uma estrela de seis pontas, sendo estas bordadas a fio de ouro. A estrela, ao centro, tem o escudo nacional com esfera armilar, bordada a seda nas respectivas cores.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Agosto de 1964. - ANTÓNIO DE OLIVEIRA SALAZAR.
 
 Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - Oliveira Salazar.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/08/18900/10041004.pdf))](https://files.diariodarepublica.pt/1s/1964/08/18900/10041004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/08/18900/10041004.pdf)
 
 Ministério do Ultramar, 12 de Agosto de 1964. - O Presidente do Conselho, António de Oliveira Salazar.

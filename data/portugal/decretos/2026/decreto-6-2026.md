@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/6/2026/02/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/6-2026-1051282295
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-16T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d5f8c6180d2e62109c2780fd4d224d08f8239e2b915bffe34e60df9826bc80b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6a01aad94b36dfdf12fcba5e7bc0520d7ac971eec93975b2c73e56cf7e5ab63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69935161:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:38Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +114,7 @@ O presente decreto procede à classificação como bens de interesse nacional, c
 
 De acordo com os critérios e os pressupostos de classificação previstos na [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de setembro, na sua redação atual, que estabelece as bases da política e do regime de proteção e valorização cultural, os bens que o Governo classifica como de interesse nacional revestem-se de excecional interesse nacional, pelo que se torna imperativo que se lhes proporcione especial proteção e valorização.
 
-Nos termos dos n.<sup>os</sup>1 a 3 do artigo 3.º do [Decreto-Lei n.º 148/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2015-69935161), de 4 de agosto, os bens ora classificados refletem os critérios constantes do artigo 16.º do mesmo diploma, relativos ao interesse dos bens enquanto testemunhos notáveis de vivências ou factos históricos, ao seu valor estético, técnico ou material intrínseco, ao seu interesse como testemunho simbólico ou religioso, à sua importância na perspetiva da sua investigação histórica e científica, e ao que nele se reflete do ponto de vista de memória coletiva.
+Nos termos dos n.os1 a 3 do artigo 3.º do [Decreto-Lei n.º 148/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2015-69935161), de 4 de agosto, os bens ora classificados refletem os critérios constantes do artigo 16.º do mesmo diploma, relativos ao interesse dos bens enquanto testemunhos notáveis de vivências ou factos históricos, ao seu valor estético, técnico ou material intrínseco, ao seu interesse como testemunho simbólico ou religioso, à sua importância na perspetiva da sua investigação histórica e científica, e ao que nele se reflete do ponto de vista de memória coletiva.
 
 Assim, no que respeita ao modelo em gesso da estátua equestre de D. José I, da autoria de Joaquim Machado de Castro, o Museu Militar de Lisboa preserva esse modelo em gesso em tamanho natural da estátua equestre do rei D. José I, erigida no Terreiro do Paço em Lisboa em 1775, obra-prima do escultor Joaquim Machado de Castro (1731-1822), um dos mais importantes artistas portugueses do século xviii. Em gesso sobre uma estrutura de ferro e madeira, esta escultura mede 693 cm × 214 cm × 483 cm e pesa ca. 20 t.
 
@@ -114,7 +126,7 @@ A nível nacional, este modelo em gesso é fundamental para o conhecimento do pr
 
 Mais do que um simples protótipo, o gesso em questão simboliza o engenho e a visão de artistas e engenheiros que, após o trágico terramoto de 1755, pensaram e moldaram uma nova Lisboa. É, assim, um testemunho material da inovação técnica e estética que marcou uma época de reconstrução e modernidade.
 
-A classificação como bem móvel de interesse nacional (dito «tesouro nacional») do modelo em gesso da estátua equestre de D. José I, Museu Militar de Lisboa/Casa dos Gessos, nos termos da alínea a) do n.º 1 e dos n.<sup>os</sup>2 e 3 do artigo 3.º do [Decreto-Lei n.º 148/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2015-69935161), de 4 de agosto, reflete os critérios constantes do artigo 16.º do mesmo diploma legal, relativos ao caráter matricial do bem, ao génio do respetivo criador, o interesse do bem enquanto testemunho notável de vivências ou factos históricos, o valor estético, técnico e material intrínseco do bem e a importância do bem na perspetiva da sua investigação histórica e científica e o que nela se reflete do ponto de vista de memória coletiva.
+A classificação como bem móvel de interesse nacional (dito «tesouro nacional») do modelo em gesso da estátua equestre de D. José I, Museu Militar de Lisboa/Casa dos Gessos, nos termos da alínea a) do n.º 1 e dos n.os2 e 3 do artigo 3.º do [Decreto-Lei n.º 148/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2015-69935161), de 4 de agosto, reflete os critérios constantes do artigo 16.º do mesmo diploma legal, relativos ao caráter matricial do bem, ao génio do respetivo criador, o interesse do bem enquanto testemunho notável de vivências ou factos históricos, o valor estético, técnico e material intrínseco do bem e a importância do bem na perspetiva da sua investigação histórica e científica e o que nela se reflete do ponto de vista de memória coletiva.
 
 No que concerne à pintura flamenga representando Nossa Senhora numa paisagem orando diante de Cristo Crucificado, provavelmente Escola de Antuérpia, óleo sobre madeira, 1.º terço do século xvi, a importância histórica desta pintura está desde há muito identificada pelo historiador de arte Dagoberto Markl, que, através de um poema de Cornelius Grapheus (1482-1558), a associou a Damião de Góis (1502-1574) e à obra conservada no oratório do Palácio de Immersele, sede da feitoria portuguesa em Antuérpia, tendo depois passado à propriedade de Rui Fernandes de Almada, tesoureiro, escrivão e cônsul de Portugal na Flandres, no reinado de D. Manuel I. Já no século xx, a pintura surge integrada na coleção do banqueiro Ricardo do Espírito Santo Silva.
 
@@ -124,7 +136,7 @@ A Virgem surge em primeiro plano, trajando um amplo manto escuro que lhe cobre t
 
 A paisagem ao fundo, típica da pintura flamenga do século xvi, revela um vasto panorama com colinas verdejantes, árvores esguias e formações rochosas, conduzindo o olhar do observador na direção de uma urbe distante, pintada com grande detalhe. A composição combina a serenidade naturalista da paisagem com a intensidade espiritual da cena, reforçando o sentido devocional da pintura.
 
-A classificação como bem móvel de interesse nacional (dito «tesouro nacional») da pintura flamenga representando Nossa Senhora numa paisagem orando diante de Cristo Crucificado, provavelmente Escola de Antuérpia, a óleo sobre madeira de carvalho, do 1.º terço do século xvi, nos termos da alínea a) do n.º 1 e dos n.<sup>os</sup>2 e 3 do artigo 3.º do [Decreto-Lei n.º 148/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2015-69935161), de 4 de agosto, reflete os critérios constantes do artigo 16.º do mesmo diploma legal, relativos ao caráter matricial do bem, ao génio do respetivo criador, o interesse do bem enquanto testemunho notável de vivências ou factos históricos, o valor estético, técnico e material intrínseco do bem e a importância do bem na perspetiva da sua investigação histórica e científica e o que nela se reflete do ponto de vista de memória coletiva.
+A classificação como bem móvel de interesse nacional (dito «tesouro nacional») da pintura flamenga representando Nossa Senhora numa paisagem orando diante de Cristo Crucificado, provavelmente Escola de Antuérpia, a óleo sobre madeira de carvalho, do 1.º terço do século xvi, nos termos da alínea a) do n.º 1 e dos n.os2 e 3 do artigo 3.º do [Decreto-Lei n.º 148/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2015-69935161), de 4 de agosto, reflete os critérios constantes do artigo 16.º do mesmo diploma legal, relativos ao caráter matricial do bem, ao génio do respetivo criador, o interesse do bem enquanto testemunho notável de vivências ou factos históricos, o valor estético, técnico e material intrínseco do bem e a importância do bem na perspetiva da sua investigação histórica e científica e o que nela se reflete do ponto de vista de memória coletiva.
 
 No que concerne ao espólio dos túmulos do rei D. Dinis e do Infante, importa referir que o Mosteiro de Odivelas, erigido em honra de S. Dinis e S. Bernardo, foi fundado em 1295 por D. Dinis (1261-1325), na sua Quinta de Vale de Flores, em Odivelas.
 
@@ -148,7 +160,7 @@ De acordo com o disposto no n.º 2 do artigo 16.º do [Decreto-Lei n.º 148/2015
 
 Neste contexto, e reconhecendo-se a sua relevância histórica, simbólica e cultural, a classificação do conjunto de fonogramas designado por Senha da Liberdade é uma forma de salvaguardar e valorizar este património fundamental da memória coletiva e da História de Portugal.
 
-Por conseguinte, a classificação como de interesse nacional da Senha da Liberdade, conjunto de dois fonogramas relativos à senha que deu início à Revolução de 25 de Abril de 1974, nos termos da alínea a) do n.º 1 e dos n.<sup>os</sup>2 e 3 do artigo 3.º do [Decreto-Lei n.º 148/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2015-69935161), de 4 de agosto, reflete os critérios constantes do artigo 16.º do mesmo diploma legal, relativos ao caráter matricial dos bens, o interesse dos mesmos enquanto testemunhos notáveis de vivências ou factos históricos, mas também como testemunhos simbólicos, a importância dos bens na perspetiva da sua investigação histórica e científica e o que nela se reflete do ponto de vista de memória coletiva, as circunstâncias suscetíveis de acarretarem diminuição ou perda da perenidade ou da integridade dos bens e a efetiva necessidade de proteção e valorização dos mesmos.
+Por conseguinte, a classificação como de interesse nacional da Senha da Liberdade, conjunto de dois fonogramas relativos à senha que deu início à Revolução de 25 de Abril de 1974, nos termos da alínea a) do n.º 1 e dos n.os2 e 3 do artigo 3.º do [Decreto-Lei n.º 148/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2015-69935161), de 4 de agosto, reflete os critérios constantes do artigo 16.º do mesmo diploma legal, relativos ao caráter matricial dos bens, o interesse dos mesmos enquanto testemunhos notáveis de vivências ou factos históricos, mas também como testemunhos simbólicos, a importância dos bens na perspetiva da sua investigação histórica e científica e o que nela se reflete do ponto de vista de memória coletiva, as circunstâncias suscetíveis de acarretarem diminuição ou perda da perenidade ou da integridade dos bens e a efetiva necessidade de proteção e valorização dos mesmos.
 
 Nos termos do artigo 17.º do [Decreto-Lei n.º 148/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2015-69935161), de 4 de agosto, foram obtidos pareceres favoráveis da Secção dos Museus, da Conservação e Restauro e do Património Cultural Móvel do Conselho Nacional de Cultura, bem como foram cumpridos os procedimentos de audiência prévia previstos no artigo 20.º do mencionado diploma, de acordo com o disposto no Código do Procedimento Administrativo, aprovado em anexo ao [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, na sua redação atual.
 
@@ -178,15 +190,15 @@ O presente decreto entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de dezembro de 2025. - Luís Montenegro - Margarida Balseiro Lopes.
 
-**Assinado em 23 de janeiro de 2026.**
+Assinado em 23 de janeiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de janeiro de 2026.**
+Referendado em 27 de janeiro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO I — [a que se refere a alínea a) do n.º 1 do artigo 1.º]
 
@@ -253,3 +265,5 @@ Dois fonogramas relativos à senha que deu início à Revolução de 25 de Abril
 a) Constituído por uma bobina, de fita-magnética (áudio) em enrolador de 7 polegadas, correspondente à gravação do programa Limite, da Rádio Renascença, que na madrugada de 25 de abril de 1974 deu início às movimentações militares que culminaram no golpe de estado que pôs fim à ditadura;
 
 b) Constituído por duas bobinas, de fita-magnética (áudio) em enroladores de 10,5 polegadas, com a gravação do Primeiro Encontro da Canção Portuguesa, realizado a 29 de março de 1974, no Coliseu dos Recreios, cuja importância reside em contextualizar a escolha de Grândola, Vila Morena, de José Afonso, como senha da Revolução.
+
+119947573

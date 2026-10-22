@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/75-b/2026/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/75-b-2026-1095309096
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-27T00:00:00Z'
+  retrieved_at: '2026-10-22T18:39:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca9c7196a8d47acc38199d1eec6d702db580f37653d48a4e6a3f9d99c329c903
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a29d646e85a997bedded46121c7f658e589d266d9319a61831e339545dd9810
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:39:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
 subjects:
 - Delegação de Competências
 - Empresa Pública
-- Setor Empresarial do Estado
+- Governo XXV
+- Ministro das Infraestruturas e Habitação
+- Ministro de Estado e das Finanças
 - Parpública
 - Privatização
-- Ministro de Estado e das Finanças
+- Setor Empresarial do Estado
 - TAP
-- Ministro das Infraestruturas e Habitação
-- Governo XXV
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/92/2025/08/14/p/dre
@@ -88,16 +88,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/212/2025/12/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/212/2025/12/24/p/dre
+- type: cites
+  target: pt:dre:928937302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:936209684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:992627259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:39:39Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +122,7 @@ Concluída a primeira etapa do processo de venda direta de referência, destinad
 
 A segunda etapa da venda direta de referência compreendeu a possibilidade de apresentação, pelos interessados convidados, de propostas não-vinculativas, nos termos do artigo 12.º do Caderno de Encargos, tendo sido apresentadas, nesse âmbito, propostas não-vinculativas pela Air France-KLM, S. A., e pela Deutsche Lufthansa Aktiengesellschaft.
 
-Nessa sequência, nos termos conjugados dos n.<sup>os</sup>8 e 9 do artigo 12.º do Caderno de Encargos, a PARPÚBLICA elaborou e remeteu aos membros do Governo responsáveis pelas áreas das finanças e do transporte aéreo um relatório que descreve as propostas não-vinculativas e contém uma apreciação das mesmas em função dos critérios de seleção previstos no n.º 6 do artigo 5.º do Caderno de Encargos.
+Nessa sequência, nos termos conjugados dos n.os8 e 9 do artigo 12.º do Caderno de Encargos, a PARPÚBLICA elaborou e remeteu aos membros do Governo responsáveis pelas áreas das finanças e do transporte aéreo um relatório que descreve as propostas não-vinculativas e contém uma apreciação das mesmas em função dos critérios de seleção previstos no n.º 6 do artigo 5.º do Caderno de Encargos.
 
 Determina o n.º 12 do artigo 12.º do Caderno de Encargos que, tendo em consideração o referido relatório, compete ao Conselho de Ministros selecionar os proponentes que devem ser convidados a integrar a terceira etapa da venda direta de referência. Analisado o referido relatório, o Conselho de Ministros conclui no sentido de que ambos os proponentes devem ser convidados a integrar a terceira etapa da venda direta de referência.
 
@@ -143,3 +155,5 @@ f) A competência para decidir sobre as reclamações das minutas dos instrument
 6 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 23 de abril de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119948383

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/64-e/2026/03/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/64-e-2026-1065304313
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-02T00:00:00Z'
+  retrieved_at: '2026-10-22T18:34:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 084c26a819d1503a589cbe6236d7a7ef7ba223f61c2bd521485008d81657561b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50cd50dddc74ede8a3bb76ef95f42030fd03d1cb63c3380e9c29e98c038a6fc9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:34:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/90/2015/05/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/90/2015/05/29/p/dre
+- type: cites
+  target: pt:dre:67348942:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:34:23Z'
   warnings: []
   errors: []
 ---
@@ -94,18 +98,20 @@ validation:
 
 de 2 de março
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea p), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea p), da Constituição, o seguinte:
 
 É nomeado para o cargo de Chefe do Estado-Maior da Força Aérea, sob proposta do Governo, conforme deliberação do Conselho de Ministros de 27 de fevereiro de 2026, e ouvido o Chefe do Estado-Maior-General das Forças Armadas, o Tenente-General Sérgio Roberto Leite da Costa Pereira, bem como a correspondente promoção ao posto de General, conforme disposto no n.º 2 do artigo 197.º do Estatuto dos Militares das Forças Armadas, aprovado em anexo ao [Decreto-Lei n.º 90/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2015-67348942), de 29 de maio, na sua redação atual.
 
 O presente decreto produz efeitos na data da sua publicação.
 
-**Assinado em 2 de março de 2026.**
+Assinado em 2 de março de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 2 de março de 2026.**
+Referendado em 2 de março de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119947895

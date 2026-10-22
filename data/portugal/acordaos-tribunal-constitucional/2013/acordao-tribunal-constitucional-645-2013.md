@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/645/2013/11/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/645-2013-504571
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-06T00:00:00Z'
+  retrieved_at: '2026-10-22T18:24:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60ed1589b1d6f06e6c316e38c02ed7efdf7a79ee37f9e14e7613f9e0b72d057c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 579dd51ef88a3fd38b452dfefcd3cbd398b3879fef4757cee3eb556f2a1485eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:24:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,11 +70,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assembleia Legislativa
 - Inconstitucionalidade
 - Legalidade
-- Assembleia Legislativa
-- Plenario
 - Madeira.região Autónoma
+- Plenario
 - Regimento
 relationships:
 - type: cites
@@ -101,16 +101,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/rgtassrep/1/2010/10/14/p/dre
   label: null
   source: http://data.dre.pt/eli/rgtassrep/1/2010/10/14/p/dre
+- type: cites
+  target: pt:dre:1623509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2066499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2773565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3456455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637190:por
+  label: null
+  source: null
 article_structure:
-  article_count: 22
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:24:18Z'
   warnings: []
   errors: []
 ---
@@ -209,7 +261,9 @@ j) Requerer a constituição de comissões parlamentares eventuais e de inquéri
 
 (...)
 
-###### Artigo 12.º — Poderes e direitos dos grupos parlamentares
+Artigo 12.º
+
+Poderes e direitos dos grupos parlamentares
 
 1 - Constituem poderes de cada grupo parlamentar:
 
@@ -251,7 +305,9 @@ h) Marcar, de acordo com o Governo Regional, as reuniões plenárias em que os s
 
 (...)
 
-###### Artigo 41.º — Competência
+Artigo 41.º
+
+Competência
 
 Compete às comissões especializadas permanentes:
 
@@ -265,7 +321,9 @@ h) Inteirar-se dos problemas políticos e administrativos que sejam do seu âmbi
 
 i) Verificar o cumprimento pelo Governo Regional e pela administração pública regional autónoma das leis e resoluções da Assembleia Legislativa, podendo sugerir a esta as medidas consideradas convenientes;
 
-###### Artigo 67.º — Presença do Governo
+Artigo 67.º
+
+Presença do Governo
 
 1 - Os membros do Governo Regional têm assento nas reuniões da Assembleia Legislativa e o direito ao uso da palavra para efeito de apresentação de comunicação, de intervenção e de prestação de esclarecimentos.
 
@@ -275,7 +333,9 @@ i) Verificar o cumprimento pelo Governo Regional e pela administração pública
 
 4 - O dia e hora das reuniões previstas no número anterior serão fixados por acordo entre o Presidente da Assembleia Legislativa e o Presidente do Governo.
 
-###### Artigo 97.º — Duração do uso da palavra
+Artigo 97.º
+
+Duração do uso da palavra
 
 1 - No período da ordem do dia, o tempo global do uso da palavra para o debate na generalidade do projeto ou proposta de lei ou de decreto legislativo regional, salvo quanto a Conferência dos Representantes dos Grupos Parlamentares dispuser diversamente, não poderá exceder:
 
@@ -291,7 +351,9 @@ d) O Governo dispõe de tempo igual ao do grupo parlamentar com maior representa
 
 (...)
 
-###### Artigo 107.º — Participação de membros do Governo e outras entidades
+Artigo 107.º
+
+Participação de membros do Governo e outras entidades
 
 1 - Os membros do Governo Regional podem participar nos trabalhos das comissões, a solicitação destas, devendo aqueles comparecer quando tal seja requerido ou por sua iniciativa.
 
@@ -301,13 +363,19 @@ d) O Governo dispõe de tempo igual ao do grupo parlamentar com maior representa
 
 24 - Presença e participação do Governo em termos gerais
 
-#### SECÇÃO I — Plano e Orçamento
+SECÇÃO I
 
-###### Artigo 179.º — Agendamento
+Plano e Orçamento
+
+Artigo 179.º
+
+Agendamento
 
 Elaborado o parecer da comissão competente, o Presidente da Assembleia Legislativa acordará com o Governo Regional a marcação dos dias das reuniões plenárias.
 
-###### Artigo 180.º — Debate na generalidade
+Artigo 180.º
+
+Debate na generalidade
 
 1 - O debate na generalidade das propostas tem a duração máxima de três dias, conforme for deliberado e organizado pela Conferência dos Representantes dos Grupos Parlamentares, devendo a última destas reuniões ser exclusivamente destinada ao encerramento.
 
@@ -315,29 +383,41 @@ Elaborado o parecer da comissão competente, o Presidente da Assembleia Legislat
 
 3 - Antes do encerramento do debate usarão da palavra todos os partidos, sendo o tempo distribuído e atribuído na proporção de um minuto por cada deputado, com o mínimo de três minutos para cada um dos deputados que sejam únicos representantes de partido e de cinco minutos para cada um dos grupos parlamentares.
 
-#### SECÇÃO I — Apreciação do Programa de Governo
+SECÇÃO I
 
-###### Artigo 187.º — Reuniões da Assembleia Legislativa
+Apreciação do Programa de Governo
+
+Artigo 187.º
+
+Reuniões da Assembleia Legislativa
 
 1 - As reuniões da Assembleia Legislativa para debate do Programa de Governo, nos termos do artigo 59.º do Estatuto da Região são fixados pelo Presidente da Assembleia Legislativa, de acordo com o Presidente do Governo.
 
 (...)
 
-###### Artigo 188.º — Início do debate
+Artigo 188.º
+
+Início do debate
 
 1 - O Programa de Governo é submetido à apreciação da Assembleia Legislativa mediante uma intervenção do Presidente do Governo.
 
 2 - A Conferência dos Representantes dos Grupos Parlamentares organizará o debate fixando a distribuição do tempo proporcionalmente pelos grupos parlamentares e deputado único representante de partido, em função da sua representatividade.
 
-###### Artigo 189.º — Encerramento do debate
+Artigo 189.º
+
+Encerramento do debate
 
 1 - O debate terminará na última reunião plenária com intervenção de um deputado de cada partido, pela ordem inversa do quantitativo de deputados por que é representado e do Presidente do Governo que o encerrará.
 
 2 - O tempo será distribuído e atribuído na proporção de um minuto por cada deputado, com o mínimo de três minutos para cada um dos deputados que sejam únicos representantes de partido e de cinco minutos para cada um dos grupos parlamentares.
 
-#### SECÇÃO II — Moções de confiança ao Governo
+SECÇÃO II
 
-###### Artigo 192.º — Debate
+Moções de confiança ao Governo
+
+Artigo 192.º
+
+Debate
 
 1 - O debate não poderá exceder três dias, conforme for deliberado e organizado pela Conferência dos Representantes dos Grupos Parlamentares.
 
@@ -347,21 +427,29 @@ Elaborado o parecer da comissão competente, o Presidente da Assembleia Legislat
 
 4 - O tempo de intervenção do Governo será fixado pela Conferência dos Representantes dos Grupos Parlamentares, não podendo ser superior ao tempo de intervenção atribuído ao maior grupo parlamentar.
 
-###### Artigo 193.º — Encerramento do debate
+Artigo 193.º
+
+Encerramento do debate
 
 1 - Após as intervenções previstas no artigo anterior, o debate terminará na última reunião plenária com intervenções de um deputado de cada partido, pela ordem inversa do quantitativo de deputados por que é representado e do Presidente do Governo Regional que o encerrará.
 
 2 - O tempo será distribuído e atribuído na proporção de um minuto por cada deputado, com o mínimo de três minutos para cada um dos deputados que sejam únicos representantes de partido e de cinco minutos para cada um dos grupos parlamentares.
 
-#### SECÇÃO III — Moção de censura ao Governo
+SECÇÃO III
 
-###### Artigo 195.º — Iniciativa
+Moção de censura ao Governo
+
+Artigo 195.º
+
+Iniciativa
 
 1 - Por iniciativa dos grupos parlamentares, pode a Assembleia Legislativa votar moções de censura ao Governo Regional sobre a execução do seu programa ou assunto relevante de interesse regional.
 
 2 - Aplica-se às moções de censura o n.º 2 do artigo 192.º
 
-###### Artigo 196.º — Debate
+Artigo 196.º
+
+Debate
 
 1 - O debate iniciar-se-á no oitavo dia parlamentar subsequente à apresentação da moção de censura, não poderá exceder três dias e será deliberado e organizado pela Conferência dos Representantes dos Grupos Parlamentares.
 
@@ -371,9 +459,13 @@ Elaborado o parecer da comissão competente, o Presidente da Assembleia Legislat
 
 4 - Durante os dias de reunião destinados ao debate, os tempos de intervenção serão os mesmos que os definidos para o debate da moção de confiança.
 
-#### SECÇÃO IV — Perguntas ao Governo
+SECÇÃO IV
 
-###### Artigo 198.º — Formulação de perguntas
+Perguntas ao Governo
+
+Artigo 198.º
+
+Formulação de perguntas
 
 1 - (...)
 
@@ -383,23 +475,33 @@ Elaborado o parecer da comissão competente, o Presidente da Assembleia Legislat
 
 4 - A Sessão Plenária destinada a perguntas ao Governo deverá realizar-se no período de 30 dias a contar da apresentação do requerimento para a realização da sessão.
 
-###### Artigo 199.º — Respostas
+Artigo 199.º
+
+Respostas
 
 1 - Na distribuição das respostas do Governo Regional por reunião plenária destinada a esse efeito, atender-se-á ao critério de duas perguntas por deputado.
 
 2 - O Presidente da Assembleia Legislativa diligenciará junto do Presidente do Governo a respeito das perguntas a que será dada resposta e dará conhecimento dos seus resultados até à última reunião plenária anterior à reunião em que os membros do Governo Regional estarão presentes.
 
-###### Artigo 200.º — Tramitação
+Artigo 200.º
+
+Tramitação
 
 A tramitação da reunião plenária da Assembleia Legislativa será deliberada pela Conferência dos Representantes dos Grupos Parlamentares.
 
-#### SECÇÃO V — Interpelações e debates
+SECÇÃO V
 
-###### Artigo 204.º — Reunião da Assembleia Legislativa
+Interpelações e debates
+
+Artigo 204.º
+
+Reunião da Assembleia Legislativa
 
 No caso de exercício do direito previsto nas alíneas d) e f) do n.º 1 do artigo 12.º, o debate será agendado e organizado pela Conferência dos Representantes dos Grupos Parlamentares.
 
-###### Artigo 205.º — Debates sobre assuntos de política geral ou setorial
+Artigo 205.º
+
+Debates sobre assuntos de política geral ou setorial
 
 1 - O debate será aberto com a intervenção de um representante do grupo parlamentar interpelante e dos membros do Governo por período não superior a quinze minutos cada.
 
@@ -411,7 +513,9 @@ No caso de exercício do direito previsto nas alíneas d) e f) do n.º 1 do arti
 
 5 - O debate termina com as intervenções de um deputado do grupo parlamentar interpelante e do Presidente ou membro do Governo Regional que o encerra, não podendo nenhuma das intervenções exceder quinze minutos cada.
 
-###### Artigo 206.º — Debates sobre questões de interesse público, atual
+Artigo 206.º
+
+Debates sobre questões de interesse público, atual
 
 1 - Os grupos parlamentares e deputados representantes de partido podem requerer, com a presença do Governo Regional, debates sobre questões de interesse público, atual e urgente.
 
@@ -419,15 +523,21 @@ No caso de exercício do direito previsto nas alíneas d) e f) do n.º 1 do arti
 
 3 - O debate será agendado e organizado pela Conferência dos Representantes dos Grupos Parlamentares.
 
-#### SECÇÃO V — Inquéritos
+SECÇÃO V
 
-###### Artigo 217.º — Apreciação
+Inquéritos
+
+Artigo 217.º
+
+Apreciação
 
 1 - A Assembleia Legislativa pronunciar-se-á sobre o requerimento ou a proposta até ao 15.º dia posterior ao da sua publicação no Diário ou à sua distribuição em folhas avulsas.
 
 2 - No debate intervirão um dos requerentes ou proponentes do inquérito, o Presidente do Governo ou outro membro do Governo Regional e um representante de cada partido.
 
-###### Artigo 236.º — Regra supletiva
+Artigo 236.º
+
+Regra supletiva
 
 1 - (...)
 

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/560/2011/12/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/560-2011-145023
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-20T00:00:00Z'
+  retrieved_at: '2026-10-22T18:24:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe967cebbff1db6d27727cf6e50cc87192c5cdbf075b6cf7b45d6a81b0a17000
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74d437906d2d86bf572e736cf86d8748dd82cfdbc8514fa96503a1e84bcc42d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:24:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,14 +70,14 @@ reuse:
 subjects:
 - Advogado
 - Ajuda Judicial
-- Ordem dos Advogados
+- Bombeiro
 - Definição de Competências
 - Direito à Justiça
 - Inconstitucionalidade
 - Interpretação do Direito
-- Bombeiro
-- Processo Judicial
 - Ministério Público
+- Ordem dos Advogados
+- Processo Judicial
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/241/2007/06/21/p/dre
@@ -119,16 +119,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/2007/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/2007/12/31/p/dre
+- type: cites
+  target: pt:dre:222422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641076:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:24:03Z'
   warnings: []
   errors: []
 ---
@@ -187,11 +231,15 @@ Procedimento
 
 4 - ...
 
-###### Artigo 6.º — Competência para a decisão
+Artigo 6.º
+
+Competência para a decisão
 
 A decisão sobre a concessão da protecção jurídica compete ao representante do Ministério Publico do tribunal da comarca com competência para a respectiva acção.
 
-###### Artigo 7.º — Nomeação de patrono
+Artigo 7.º
+
+Nomeação de patrono
 
 1 - A nomeação de patrono, sendo concedida, é da competência da Ordem dos Advogados, após solicitação do Ministério Público.
 
@@ -201,7 +249,9 @@ A decisão sobre a concessão da protecção jurídica compete ao representante 
 
 4 - ...
 
-###### Artigo 8.º — Cancelamento da protecção jurídica
+Artigo 8.º
+
+Cancelamento da protecção jurídica
 
 1 - ...
 

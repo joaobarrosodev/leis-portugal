@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/82/2009/10/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/82-2009-483102
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:12:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c227f687e75881efa1a64c0fefe3f466d3503b02682f95db47e31d7e13ecc99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb31a6c6f72ff8980a17b0ed9f2c09c9fbb60ca3db0d56273c6d8ab84fd26635
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:12:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
-- Armazenagem
 - Aparelho de Medição
-- Transporte de Mercadorias
+- Armazenagem
+- Controlo Metrológico
+- Produto Alimentar
 - Produto Congelado
 - Regulamento
-- Controlo Metrológico
+- Transporte de Mercadorias
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
@@ -88,16 +88,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1150/1997/11/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1150/1997/11/12/p/dre
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:portaria:1129/2009
+  label: "Rectifica os n.ºs 1.º e 3.º da Portaria n.º 1129/2009, de 1 de Outubro, DR.IS [191], o n.º 2 do artigo 1.º e o artigo\
+    \ 4.º do Regulamento anexo \0\0"
+  source: null
+  date: '2009-10-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:12:12Z'
   warnings: []
   errors: []
 ---

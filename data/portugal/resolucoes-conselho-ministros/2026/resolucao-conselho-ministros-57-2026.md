@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/57/2026/03/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/57-2026-1075293617
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-23T00:00:00Z'
+  retrieved_at: '2026-10-22T18:36:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de33f493cb37d0759752bc154b66ec39b95858df290e76c3cd03b191d63320e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5dab28f5c597f4f5cf434e058381f914e655aa0b95de29477538eab128154ca5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:36:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- Região Centro
 - Programa Regional de Ordenamento do Território do Centro
+- Região Centro
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/2023/12/04/p/dre
@@ -97,16 +97,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/68/2024/05/27/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/68/2024/05/27/p/dre
+- type: cites
+  target: pt:dre:176075686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225125603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69951097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836161877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:867194462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:867194464:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:36:17Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +157,7 @@ Assim:
 
 Nos termos do n.º 1 do artigo 60.º do Decreto-Lei n.º [80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Aprovar o Programa Regional de Ordenamento do Território do Centro (PROT-Centro), publicado em anexo à presente resolução e que dela faz parte integrante, com o conteúdo documental a que se refere o n.º 1 do artigo 55.º do Decreto-Lei n.º º [80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio, que aprova a revisão do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), sendo a restante documentação a que se referem os n.<sup>os</sup>2 a 4 do artigo 55.º do RJIGT publicada na plataforma Sistema de Submissão Automática dos Instrumentos de Gestão Territorial da Direção-Geral do Território.
+1 - Aprovar o Programa Regional de Ordenamento do Território do Centro (PROT-Centro), publicado em anexo à presente resolução e que dela faz parte integrante, com o conteúdo documental a que se refere o n.º 1 do artigo 55.º do Decreto-Lei n.º º [80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio, que aprova a revisão do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), sendo a restante documentação a que se referem os n.os2 a 4 do artigo 55.º do RJIGT publicada na plataforma Sistema de Submissão Automática dos Instrumentos de Gestão Territorial da Direção-Geral do Território.
 
 2 - Reconhecer que o PROT-Centro constitui um quadro orientador para a formação de decisões de planeamento na área do ordenamento do território a realizar na NUTS II Centro.
 
@@ -241,7 +269,7 @@ TICE - Tecnologias de Informação, Comunicação e Eletrónica.
 
 Introdução
 
-O Programa Regional de Ordenamento do Território do Centro (PROT Centro) <sup>1</sup> cumpre o estipulado na [Resolução do Conselho de Ministros (RCM) n.º 177/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/177-2021-176075686), atualizada pela RCM n.º [6/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/6-2024-836161877). O PROT Centro define as grandes linhas de orientação estratégica para o desenvolvimento territorial da Região Centro até 2030, considerando o estabelecido no Regime Jurídico dos Instrumentos de Gestão Territorial (Decreto-Lei n.º [80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio) e o impacto regional dos grandes desafios atuais, tanto a nível mundial como nacional. Pela sua natureza mais abrangente, o PROT Centro é complementar, e não alternativo, aos programas e planos das CIM, orientando-se por uma estratégia geral para o território e delegando os detalhes específicos para outras escalas de intervenção. Além disso, a sua concretização requer uma adequada articulação com os mecanismos de financiamento. Dado que o PROT ultrapassa o horizonte temporal do Programa Operacional, é essencial que a execução dos ciclos de financiamento, atuais e futuros, se articule de forma adequada com a Estratégia e as Normas Orientadoras do PROT Centro.
+O Programa Regional de Ordenamento do Território do Centro (PROT Centro) 1 cumpre o estipulado na [Resolução do Conselho de Ministros (RCM) n.º 177/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/177-2021-176075686), atualizada pela RCM n.º [6/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/6-2024-836161877). O PROT Centro define as grandes linhas de orientação estratégica para o desenvolvimento territorial da Região Centro até 2030, considerando o estabelecido no Regime Jurídico dos Instrumentos de Gestão Territorial (Decreto-Lei n.º [80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio) e o impacto regional dos grandes desafios atuais, tanto a nível mundial como nacional. Pela sua natureza mais abrangente, o PROT Centro é complementar, e não alternativo, aos programas e planos das CIM, orientando-se por uma estratégia geral para o território e delegando os detalhes específicos para outras escalas de intervenção. Além disso, a sua concretização requer uma adequada articulação com os mecanismos de financiamento. Dado que o PROT ultrapassa o horizonte temporal do Programa Operacional, é essencial que a execução dos ciclos de financiamento, atuais e futuros, se articule de forma adequada com a Estratégia e as Normas Orientadoras do PROT Centro.
 
 Na elaboração do PROT Centro, a CCDR Centro, teve como objetivo, por um lado, mobilizar e envolver os centros de conhecimento da Região Centro, nomeadamente as universidades e institutos politécnicos, e, por outro, envolver o maior número possível de agentes e entidades da região, através de exercícios formais e informais de participação.
 
@@ -259,13 +287,13 @@ Para o desenvolvimento do PROT Centro foi tratada informação estatística disp
 
 Relativamente à estrutura do PROT Centro, este está organizado da seguinte forma:
 
-# PARTE I — ESTRATÉGIA
+## PARTE I — ESTRATÉGIA
 
 1 - Desafios Transversais e Opções Estratégicas de Base Territorial
 
 2 - Sistemas Territoriais e Modelo Territorial
 
-# PARTE II — OPERACIONALIZAÇÃO DA ESTRATÉGIA
+## PARTE II — OPERACIONALIZAÇÃO DA ESTRATÉGIA
 
 1 - Programa de Execução
 
@@ -339,7 +367,8 @@ iii) De constrangimentos exógenos, tais como as alterações climáticas, a nec
 
 Em seguida, foram identificadas 29 Opções Estratégicas de Base Territorial, organizadas pelas seguintes áreas temáticas: Sistema Económico (SE), Sistema Social (SS), Sistema Natural (SN), Sistema de Mobilidade e Energia (SME) e Sistema Urbano (SU). A explicitação das OEBT foi suportada em cartografia e quadros com informações consideradas relevantes.
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537346.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537346.png) |
+| --- |
 
 Desafios Transversais e Opções Estratégicas de Base Territorial
 
@@ -435,11 +464,13 @@ SU3. Reforçar a integração dos centros urbanos nas redes nacionais e globais
 
 Articulação entre a Estratégia do PROT Centro e os Desafios Territoriais do PNPOT
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537347.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537347.png) |
+| --- |
 
 Articulação entre a Estratégia do PROT Centro e os Objetivos de Desenvolvimento Sustentável (ODS) da ONU
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537348.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537348.png) |
+| --- |
 
 Desafios Transversais
 
@@ -469,7 +500,8 @@ A infraestrutura ferroviária coincide, em parte, com a rede de autoestradas: no
 
 Em síntese, a faixa litoral da Região Centro é o centro de gravidade do eixo urbano que se estende da Galiza a Sines, a partir do qual se desvia um eixo transversal ligando Madrid e a Europa transpirenaica, com ramificações que configuram a conectividade entre o interior da região e as direções norte e sul. O sistema urbano policêntrico da região reflete perfeitamente esta visão estratégica: os aglomerados urbanos Aveiro/Águeda/Ílhavo, Coimbra/Figueira da Foz e Pombal/Leiria/Marinha Grande formam a espinha dorsal da faixa litoral, enquanto os aglomerados Tondela/Viseu/Mangualde e o eixo Guarda/Covilhã/Fundão/Castelo Branco desempenham a função de estruturar as ligações entre o litoral e o interior da RC, e entre a região e a sua vizinhança a norte, a sul e com Espanha. A conectividade física, assegurada pelo sistema viário, deve ser complementada pela conectividade em redes de relações económicas e sociais, tanto entre o sistema urbano acima descrito e o restante território, como deste com o resto do país e do mundo.
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537349.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537349.png) |
+| --- |
 
 Figura 1. Localização Estratégica da Região Centro
 
@@ -517,41 +549,41 @@ Conforme se pode constatar no Quadro 1, num cenário de saldos migratórios nulo
 
 Este cenário foi significativamente alterado por uma poderosa onda de imigração que, não só compensou largamente a emigração, como inverteu a dinâmica de decréscimo da população no seu todo e quase compensou a redução da população em idade ativa.
 
-| Área Geográfica | Grupo Etário | Pop. 2020 | Pop. 2030 | Var. Pop. (%) 2020-2030 | Pop. 2020 | Pop. 2030 | Var. Pop. (%) 2020-2030 | Saldo Mig. 2020-2030 |
+|  | Saldo Migratório Nulo (base 2020) | Projeções até 2030 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | Saldo Migratório Nulo (base 2020) | Saldo Migratório Nulo (base 2020) | Saldo Migratório Nulo (base 2020) | Projeções até 2030 | Projeções até 2030 | Projeções até 2030 | Projeções até 2030 |
+| Área Geográfica | Grupo Etário | Pop. 2020 | Pop. 2030 | Var. Pop. (%) 2020-2030 | Pop. 2020 | Pop. 2030 | Var. Pop. (%) 2020-2030 | Saldo Mig. 2020-2030 |
 | Continente | 0-19 | 1.764.868 | 1.564.683 | -11,3 % | 1.764.868 | 1.921.702 | 8,9 % | 357.020 |
-| Continente | 20-64 | 5.756.571 | 5.256.855 | -8,7 % | 5.756.571 | 5.688.886 | -1,2 % | 432.031 |
-| Continente | 65+ | 2.334.470 | 2.752.265 | 17,9 % | 2.334.470 | 2.905.159 | 24,4 % | 152.894 |
-| Continente | Total | 9.855.909 | 9.573.803 | -2,9 % | 9.855.909 | 10.515.748 | 6,7 % | 941.945 |
+| 20-64 | 5.756.571 | 5.256.855 | -8,7 % | 5.756.571 | 5.688.886 | -1,2 % | 432.031 |  |
+| 65+ | 2.334.470 | 2.752.265 | 17,9 % | 2.334.470 | 2.905.159 | 24,4 % | 152.894 |  |
+| **Total** | **9.855.909** | **9.573.803** | **-2,9 %** | **9.855.909** | **10.515.748** | **6,7 %** | **941.945** |  |
 | Região Centro (77 mun) | 0-19 | 269.306 | 225.667 | -16,2 % | 269.306 | 296.071 | 9,9 % | 70.404 |
-| Região Centro (77 mun) | 20-64 | 930.534 | 821.744 | -11,7 % | 930.534 | 919.768 | -1,2 % | 98.024 |
-| Região Centro (77 mun) | 65+ | 453.355 | 489.290 | 7,9 % | 453.355 | 528.411 | 16,6 % | 39.122 |
-| Região Centro (77 mun) | Total | 1.653.195 | 1.536.701 | -7,0 % | 1.653.195 | 1.744.251 | 5,5 % | 207.550 |
+| 20-64 | 930.534 | 821.744 | -11,7 % | 930.534 | 919.768 | -1,2 % | 98.024 |  |
+| 65+ | 453.355 | 489.290 | 7,9 % | 453.355 | 528.411 | 16,6 % | 39.122 |  |
+| **Total** | **1.653.195** | **1.536.701** | **-7,0 %** | **1.653.195** | **1.744.251** | **5,5 %** | **207.550** |  |
 | Beira Baixa | 0-19 | 14.140 | 11.753 | -16,9 % | 14.140 | 15.720 | 11,2 % | 3.967 |
-| Beira Baixa | 20-64 | 51.671 | 43.695 | -15,4 % | 51.671 | 48.701 | -5,7 % | 5.006 |
-| Beira Baixa | 65+ | 32.988 | 32.735 | -0,8 % | 32.988 | 35.575 | 7,8 % | 2.839 |
-| Beira Baixa | Total | 98.799 | 88.183 | -10,7 % | 98.799 | 99.996 | 1,2 % | 11.813 |
+| 20-64 | 51.671 | 43.695 | -15,4 % | 51.671 | 48.701 | -5,7 % | 5.006 |  |
+| 65+ | 32.988 | 32.735 | -0,8 % | 32.988 | 35.575 | 7,8 % | 2.839 |  |
+| **Total** | **98.799** | **88.183** | **-10,7 %** | **98.799** | **99.996** | **1,2 %** | **11.813** |  |
 | Beiras e Serra da Estrela | 0-19 | 29.382 | 23.556 | -19,8 % | 29.382 | 28.658 | -2,5 % | 5.102 |
-| Beiras e Serra da Estrela | 20-64 | 111.895 | 93.561 | -16,4 % | 111.895 | 100.670 | -10,0 % | 7.109 |
-| Beiras e Serra da Estrela | 65+ | 69.325 | 71.201 | 2,7 % | 69.325 | 75.807 | 9,3 % | 4.606 |
-| Beiras e Serra da Estrela | Total | 210.602 | 188.318 | -10,6 % | 210.602 | 205.135 | -2,6 % | 16.817 |
+| 20-64 | 111.895 | 93.561 | -16,4 % | 111.895 | 100.670 | -10,0 % | 7.109 |  |
+| 65+ | 69.325 | 71.201 | 2,7 % | 69.325 | 75.807 | 9,3 % | 4.606 |  |
+| **Total** | **210.602** | **188.318** | **-10,6 %** | **210.602** | **205.135** | **-2,6 %** | **16.817** |  |
 | Região de Aveiro | 0-19 | 64.470 | 55.687 | -13,6 % | 64.470 | 72.496 | 12,4 % | 16.808 |
-| Região de Aveiro | 20-64 | 216.848 | 195.670 | -9,8 % | 216.848 | 222.851 | 2,8 % | 27.180 |
-| Região de Aveiro | 65+ | 86.085 | 99.551 | 15,6 % | 86.085 | 108.395 | 25,9 % | 8.844 |
-| Região de Aveiro | Total | 367.403 | 350.909 | -4,5 % | 367.403 | 403.741 | 9,9 % | 52.832 |
+| 20-64 | 216.848 | 195.670 | -9,8 % | 216.848 | 222.851 | 2,8 % | 27.180 |  |
+| 65+ | 86.085 | 99.551 | 15,6 % | 86.085 | 108.395 | 25,9 % | 8.844 |  |
+| **Total** | **367.403** | **350.909** | **-4,5 %** | **367.403** | **403.741** | **9,9 %** | **52.832** |  |
 | Região de Coimbra | 0-19 | 69.542 | 58.823 | -15,4 % | 69.542 | 75.178 | 8,1 % | 16.355 |
-| Região de Coimbra | 20-64 | 246.216 | 215.741 | -12,4 % | 246.216 | 238.924 | -3,0 % | 23.183 |
-| Região de Coimbra | 65+ | 121.104 | 129.782 | 7,2 % | 121.104 | 139.483 | 15,2 % | 9.701 |
-| Região de Coimbra | Total | 436.862 | 404.347 | -7,4 % | 436.862 | 453.585 | 3,8 % | 49.239 |
+| 20-64 | 246.216 | 215.741 | -12,4 % | 246.216 | 238.924 | -3,0 % | 23.183 |  |
+| 65+ | 121.104 | 129.782 | 7,2 % | 121.104 | 139.483 | 15,2 % | 9.701 |  |
+| **Total** | **436.862** | **404.347** | **-7,4 %** | **436.862** | **453.585** | **3,8 %** | **49.239** |  |
 | Região de Leiria | 0-19 | 50.065 | 42.476 | -15,2 % | 50.065 | 58.597 | 17,0 % | 16.122 |
-| Região de Leiria | 20-64 | 164.601 | 148.700 | -9,7 % | 164.601 | 169.701 | 3,1 % | 21.001 |
-| Região de Leiria | 65+ | 72.086 | 79.578 | 10,4 % | 72.086 | 87.444 | 21,3 % | 7.866 |
-| Região de Leiria | Total | 286.752 | 270.754 | -5,6 % | 286.752 | 315.743 | 10,1 % | 44.989 |
+| 20-64 | 164.601 | 148.700 | -9,7 % | 164.601 | 169.701 | 3,1 % | 21.001 |  |
+| 65+ | 72.086 | 79.578 | 10,4 % | 72.086 | 87.444 | 21,3 % | 7.866 |  |
+| **Total** | **286.752** | **270.754** | **-5,6 %** | **286.752** | **315.743** | **10,1 %** | **44.989** |  |
 | Viseu Dão Lafões | 0-19 | 41.707 | 33.372 | -20,0 % | 41.707 | 45.422 | 8,9 % | 12.050 |
-| Viseu Dão Lafões | 20-64 | 139.303 | 124.375 | -10,7 % | 139.303 | 138.921 | -0,3 % | 14.545 |
-| Viseu Dão Lafões | 65+ | 71.767 | 76.442 | 6,5 % | 71.767 | 81.708 | 13,9 % | 5.266 |
-| Viseu Dão Lafões | Total | 252.777 | 234.190 | -7,4 % | 252.777 | 266.051 | 5,3 % | 31.861 |
+| 20-64 | 139.303 | 124.375 | -10,7 % | 139.303 | 138.921 | -0,3 % | 14.545 |  |
+| 65+ | 71.767 | 76.442 | 6,5 % | 71.767 | 81.708 | 13,9 % | 5.266 |  |
+| **Total** | **252.777** | **234.190** | **-7,4 %** | **252.777** | **266.051** | **5,3 %** | **31.861** |  |
 
 Quadro 1. Projeções demográficas até 2030
 
@@ -587,7 +619,8 @@ Embora esta problemática seja tratada nas diversas áreas temáticas das OEBT, 
 
 A Figura 2 apresenta as infraestruturas de aproveitamento de energia hídrica existentes ou projetadas na Região Centro, incluindo as barragens de Girabolhos e do Alvito.
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537350.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537350.png) |
+| --- |
 
 Figura 2. Infraestruturas de aproveitamento de energia hídrica da Região Centro
 
@@ -615,7 +648,8 @@ DT6. Fomentar a governação, a descentralização e a participação pública
 
 i) Governação. Um problema básico que se coloca ao país e à RC em particular é a coerência territorial da administração pública. Um processo histórico que demonstra que é bem mais fácil criar novas geografias do que extinguir antigas, associadas a uma organização do aparelho de Estado fortemente verticalizada, permitiu a cada setor definir a sua implantação territorial de forma independente, tendo como resultado o labiríntico mapa administrativo representado na Figura 3: os velhos distritos sobrevivem na segurança social e ainda nos círculos eleitorais, enquanto a educação e o turismo se organizam numa lógica de NUTS II, a saúde em Unidades Locais de Saúde e, na justiça, as Comarcas coincidem com os distritos no que respeita à RC, mas não noutras regiões; no que respeita à Agência Portuguesa do Ambiente, a organização territorial da sua atuação estrutura-se em regiões hidrográficas (as quais não estão representadas no mapa para facilitar a sua leitura).
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537351.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537351.png) |
+| --- |
 
 Figura 3. Divisão administrativa em vigor
 
@@ -635,7 +669,7 @@ ii) Centro, região multicultural. A cultura, para além da sua importância int
 
 Opções Estratégicas de Base Territorial - Sistema Económico
 
-O declínio demográfico <sup>2</sup> não deixa outra via para o crescimento económico do que o progresso técnico e o consequente aumento da produtividade. Estes desígnios devem estar estreitamente associados à RIS3 do Centro, que tem como objetivos específicos:
+O declínio demográfico 2 não deixa outra via para o crescimento económico do que o progresso técnico e o consequente aumento da produtividade. Estes desígnios devem estar estreitamente associados à RIS3 do Centro, que tem como objetivos específicos:
 
 - Desenvolver soluções industriais sustentáveis;
 
@@ -657,13 +691,14 @@ O declínio demográfico <sup>2</sup> não deixa outra via para o crescimento ec
 
 - Promover atividades económicas sustentáveis e competitivas que criem uma base exportadora para os territórios de mais baixa densidade.
 
-Reforço da interação do SCT com o tecido económico e social. O peso relativo de produtos de base tecnológica no total da exportação da Região Centro é de 4,06 % e o valor nacional de 5,04 %<sup>3</sup>. O valor regional, para além de baixo, tem uma distribuição heterogénea em termos de território, setores de atividade e tipologias de empresas. O SCT, embora homogeneamente distribuído pelas principais cidades da região (Figura 4), tem uma ação ainda insuficiente na qualificação tecnológica do tecido produtivo e dos seus recursos humanos (Figura 5).
+Reforço da interação do SCT com o tecido económico e social. O peso relativo de produtos de base tecnológica no total da exportação da Região Centro é de 4,06 % e o valor nacional de 5,04 %3. O valor regional, para além de baixo, tem uma distribuição heterogénea em termos de território, setores de atividade e tipologias de empresas. O SCT, embora homogeneamente distribuído pelas principais cidades da região (Figura 4), tem uma ação ainda insuficiente na qualificação tecnológica do tecido produtivo e dos seus recursos humanos (Figura 5).
 
 Com efeito, se a homogeneidade se revela na dimensão ensino, ela é bem menor no que respeita às atividades de I&D e consequentemente à capacidade de transferência de conhecimento e tecnologia para o tecido produtivo, muito centrada nos intervenientes mais ativos do SCT e enviesada para alguns setores e para grandes empresas, beneficiando claramente o litoral da região.
 
 É fundamental inverter esta situação, estimulando a ligação em rede das instituições do SCT e destas com as empresas, a administração pública e os diversos agentes do setor social, com especial atenção nas PME, nas atividades tradicionais com potencial de modernização e nos novos projetos empresariais, em particular nos setores que se pretende promover. Para isso é necessário criar incentivos para que os membros do meio académico participem em atividades de transferência de tecnologia e motivar o meio empresarial para o desígnio urgente de qualificar tecnologicamente as suas atividades.
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537352.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537352.png) |
+| --- |
 
 Figura 4. Distribuição regional do SCT
 
@@ -671,7 +706,8 @@ Fonte: elaboração própria; fonte dos dados: DGEEC (2022); FCT (2022); IAPMEI 
 
 De igual importância para o aumento da competitividade da região é fundamental reforçar a captação de investimento direto estrangeiro, particularmente de empresas âncora com capacidade de gerar efeitos multiplicadores nas economias locais e de apoiar startups de base tecnológica.
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537353.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537353.png) |
+| --- |
 
 Figura 5. Total de pessoal ao serviço por grau de escolaridade (% com ensino superior)
 
@@ -681,9 +717,10 @@ Apoio à qualificação e à consolidação da capacidade exportadora da base ec
 
 Relativamente à fileira agroflorestal, os ramos com o contributo mais relevante para a exportação são a madeira, a pasta de papel e alguns produtos agrícolas, como o vinho. Em relação ao setor secundário, destacam-se os ramos da metalomecânica, cerâmica e vidro, plásticos, indústrias farmacêuticas e química, assim como a fileira têxtil-vestuário-confeções.
 
-A distribuição geográfica das principais atividades que compõem a base exportadora da região está representada na Figura 6. Para cada ramo estão indicados os concelhos onde há mais de 500 pessoas ao serviço. O mapa deve ser lido com cautela, na medida em que se baseia em valores aproximados, com lacunas resultantes, por um lado, da desagregação disponível da CAE <sup>4</sup> e, por outro, da não coincidência da localização de unidades produtivas com a das sedes, caso em que o respetivo emprego não consta na informação estatística disponibilizada <sup>5</sup>. Estas lacunas foram preenchidas com conhecimento informal da realidade, o que nem sempre garante rigor.
+A distribuição geográfica das principais atividades que compõem a base exportadora da região está representada na Figura 6. Para cada ramo estão indicados os concelhos onde há mais de 500 pessoas ao serviço. O mapa deve ser lido com cautela, na medida em que se baseia em valores aproximados, com lacunas resultantes, por um lado, da desagregação disponível da CAE 4 e, por outro, da não coincidência da localização de unidades produtivas com a das sedes, caso em que o respetivo emprego não consta na informação estatística disponibilizada 5. Estas lacunas foram preenchidas com conhecimento informal da realidade, o que nem sempre garante rigor.
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537354.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537354.png) |
+| --- |
 
 Figura 6. Distribuição geográfica da base económica exportadora da Região Centro
 
@@ -699,7 +736,8 @@ ii) Metalomecânica de base tecnológica. A indústria metalomecânica de base t
 
 iii) Transportes e logística. Dada a localização periférica do país no continente europeu, a afirmação de um sistema de transportes e logística eficiente e de baixo carbono é fundamental para a indústria exportadora. Tal implica, em primeiro lugar, que o sistema de transportes esteja focado nos grandes eixos viários e nos portos da região; é igualmente necessário o desenvolvimento de uma rede de centros logísticos que liguem a faixa litoral ao eixo viário que segue para Espanha e atravessa Castilla y León, em direção a França e ao resto da Europa;
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537355.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537355.png) |
+| --- |
 
 Figura 7. Distribuição geográfica das atividades económicas do futuro
 
@@ -721,7 +759,8 @@ Aumento da competitividade do setor do turismo. A Região Centro tem uma grande 
 
 A região deve aumentar a competitividade do setor através da exploração desses recursos, tirando proveito das TICE, incorporando o conhecimento produzido no SCT, bem como apostando na qualificação dos recursos humanos, na estruturação de produtos e em novas estratégias de diversificação da oferta e aproveitamento do território. Dessa forma, contribuirá para o desenvolvimento do interior, a diminuição das assimetrias regionais e a coesão territorial.
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537356.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537356.png) |
+| --- |
 
 Figura 8. Património cultural e natural
 
@@ -733,13 +772,15 @@ O mar e as áreas costeiras, assim como o património cultural material (arquite
 
 Nos sistemas montanhosos da Região Centro, rios e vales, destaca-se a Serra da Estrela, como elemento de referência estratégico para a dinamização económica do território, através do turismo e dos produtos endógenos que as montanhas da região centro possuem, associadas à valorização e preservação dos valores ambientais e culturais e sociais. As redes das Aldeias de Montanha, Aldeias do Xisto e Aldeias Históricas são um recurso com forte potencial de atratividade turística. Para o desenvolvimento da atividade turística, é ainda importante apoiar a criação e reforço de estruturas de governação que agreguem produtos compósitos e experiências integradas.
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537357.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537357.png) |
+| --- |
 
 Figura 9. Equipamentos, Infraestruturas e Atividades turísticas
 
 Fonte: elaboração própria; fonte dos dados: Turismo de Portugal, IP (TdP) através do SIGTur (2022); IP (2021).
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537358.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537358.png) |
+| --- |
 
 Figura 10. Capacidade de alojamento em empreendimentos turísticos e em estabelecimentos de alojamento local
 
@@ -811,7 +852,8 @@ Os Serviços de Interesse Geral são essenciais para garantir maior qualidade de
 
 O problema demográfico da Região Centro, com especial incidência nos seus territórios do interior, traduz-se progressivamente no grande peso da população idosa não ativa (Figura 11).
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537359.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537359.png) |
+| --- |
 
 Figura 11. Peso da população residente com 65 ou mais anos (2021)
 
@@ -821,15 +863,16 @@ Para reverter esta situação, dado que o acréscimo da natalidade só poderá t
 
 O envelhecimento da população e a consequente necessidade de responder às exigências de qualidade de uma vida mais longa, o despovoamento de uma parte significativa do território, assim como os requisitos de integração dos imigrantes numa sociedade coesa e eficiente, têm impactos em diversos setores de atividade, assim como nos sistemas de ensino, saúde, habitação e assistência social. No caso particular do sistema de ensino é necessário encontrar formas imaginativas de conciliar economias de escala mínimas com a rarefação de alunos nas zonas rurais dos territórios de baixa densidade (Figura 12).
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537360.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537360.png) |
+| --- |
 
 Figura 12. Tempo de percurso até à pré-escola mais próxima (min.)
 
 Fonte: elaboração própria; fonte dos dados: INE (2020).
 
-É ainda necessário atender ao risco iminente de rutura do sistema devido à falta de professores e à elevada média etária dos que restam. A crescente consciência desta dinâmica tem conduzido à adoção de medidas ad hoc, como a integração de licenciados sem formação específica. No entanto, a dinâmica de longo prazo só poderá ter uma perspetiva positiva se houver uma valorização da carreira que conduza ao aumento do número de candidatos aos cursos superiores de formação de professores e induza o sistema de ensino a investir novamente na área (a nível nacional, o número de professores dedicados à formação de professores é escasso) <sup>6</sup>.
+É ainda necessário atender ao risco iminente de rutura do sistema devido à falta de professores e à elevada média etária dos que restam. A crescente consciência desta dinâmica tem conduzido à adoção de medidas ad hoc, como a integração de licenciados sem formação específica. No entanto, a dinâmica de longo prazo só poderá ter uma perspetiva positiva se houver uma valorização da carreira que conduza ao aumento do número de candidatos aos cursos superiores de formação de professores e induza o sistema de ensino a investir novamente na área (a nível nacional, o número de professores dedicados à formação de professores é escasso) 6.
 
-No Sistema de Saúde, a situação é substancialmente diferente <sup>7</sup>. Contra as expectativas atuais, o problema da falta de médicos deverá ser resolvido a médio prazo, caso se mantenham ou até aumentem as vagas nos cursos de medicina, o que fará com que a oferta de novos médicos supere a procura. No entanto, embora a escassez de médicos a nível global seja resolvida, persiste o problema da sua distribuição geográfica e da oferta de especialistas em número adequado, especialmente nos territórios com maior peso da população idosa, o que dependerá da abertura de vagas suficientes. No caso dos enfermeiros e de outras profissões da saúde, a situação é semelhante, embora seja aconselhável que o rácio enfermeiros/habitantes aumente, uma vez que Portugal apresenta um rácio enfermeiros/médicos substancialmente mais baixo do que a maioria dos países europeus.
+No Sistema de Saúde, a situação é substancialmente diferente 7. Contra as expectativas atuais, o problema da falta de médicos deverá ser resolvido a médio prazo, caso se mantenham ou até aumentem as vagas nos cursos de medicina, o que fará com que a oferta de novos médicos supere a procura. No entanto, embora a escassez de médicos a nível global seja resolvida, persiste o problema da sua distribuição geográfica e da oferta de especialistas em número adequado, especialmente nos territórios com maior peso da população idosa, o que dependerá da abertura de vagas suficientes. No caso dos enfermeiros e de outras profissões da saúde, a situação é semelhante, embora seja aconselhável que o rácio enfermeiros/habitantes aumente, uma vez que Portugal apresenta um rácio enfermeiros/médicos substancialmente mais baixo do que a maioria dos países europeus.
 
 Em suma, é urgente pensar de forma prospetiva os efeitos da realidade demográfica no mercado de trabalho, na oferta de serviços e, também, nas necessidades e disponibilidades de profissões, cujos efetivos só podem ser eficientemente planeados no quadro de uma perspetiva temporal alargada. O levantamento das questões sociais mais prementes com que a Região Centro se debate aponta para a necessidade de intervenção nas dimensões que se seguem.
 
@@ -837,7 +880,8 @@ Autonomia e cidadania das pessoas idosas ou em situação de dependência. Esta 
 
 Equidade nas condições de acesso à saúde. Tal implica o equilíbrio entre as economias de escala necessárias e a proximidade dos utentes aos centros prestadores, o que se reflete na hierarquização dos cuidados a prestar (Figura 13). As áreas de baixa densidade populacional e as que têm uma população envelhecida enfrentam dificuldades acrescidas, que devem ser atenuadas através do uso da telemedicina e da prestação de cuidados em regime ambulatório. A oferta de serviços de saúde de qualidade é fundamental para a atração e retenção da população, especialmente a mais qualificada.
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537361.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537361.png) |
+| --- |
 
 Figura 13. Equipamentos de saúde e tempo de percurso até ao hospital ou serviço de urgência mais próximo (min.)
 
@@ -851,7 +895,8 @@ A oferta de habitação de qualidade, enquadrada num espaço público acolhedor 
 
 O cumprimento destes objetivos requer estratégias de planeamento habitacional, tanto quantitativas quanto qualitativas, a nível municipal e também regional, em coordenação com as políticas nacionais para o setor da habitação. Incentivos e apoios públicos, fundamentalmente dirigidos à população mais carenciada e à inserção de imigrantes, devem ser complementados com a mobilização dos agentes privados. Um planeamento bem definido das necessidades de habitação pode conferir segurança aos mercados, em termos de uma procura expectável e de condições estáveis de financiamento.
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537362.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537362.png) |
+| --- |
 
 Figura 14. Necessidades habitacionais 2021 Figura 15. Necessidades habitacionais 2040
 
@@ -951,7 +996,8 @@ Seguem-se, de seguida, os domínios de atuação para alcançar os objetivos de 
 
 Gestão do Solo e dos Recursos Geológicos. O solo, sendo o suporte básico dos ecossistemas naturais, dos recursos agroflorestais e da produção de energias renováveis, está sujeito a pressões ambientais resultantes da expansão urbana, da agricultura e da indústria, mas também dos incêndios florestais, das cheias e inundações, reforçados pelas alterações climáticas.
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537363.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537363.png) |
+| --- |
 
 Figura 16. Ocupação do Solo
 
@@ -961,7 +1007,8 @@ Estes fatores condicionam a regeneração dos solos e a sua capacidade de assegu
 
 O Regulamento Europeu das Matérias-Primas Críticas visa reduzir a dependência da Europa destas, estabelecendo que pelo menos 10 % das matérias-primas estratégicas devem ser extraídas em solo europeu.
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537364.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537364.png) |
+| --- |
 
 Figura 17. Capital Natural: potencial em recursos minerais e hidrogeológicos
 
@@ -969,7 +1016,8 @@ Fonte: elaboração própria; fonte dos dados: LNEG (2023); DGEG (2024).
 
 Conservação da Natureza e Biodiversidade. Conservar, regenerar e valorizar os recursos naturais e a biodiversidade são prioridades da RC, no caminho para uma sociedade ambientalmente sustentável. A conservação da natureza e a biodiversidade não devem ser vistas como barreiras ao desenvolvimento, mas como um ativo materializado na contabilização e pagamento dos serviços prestados pelos ecossistemas, bem como na valorização sustentável das áreas classificadas e das paisagens. A investigação científica e a educação ambiental são dois requisitos essenciais para aprofundar o conhecimento necessário a uma intervenção correta, capaz de abrir novos caminhos para a interação entre o ambiente, as pessoas e a economia, e para aprofundar o respeito dos cidadãos pelos valores em causa.
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537365.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537365.png) |
+| --- |
 
 Figura 18. Capital Natural: Biodiversidade
 
@@ -981,7 +1029,8 @@ De forma a aumentar a resistência aos incêndios florestais deve-se desenvolver
 
 Recursos Hídricos. No domínio dos recursos hídricos, há uma responsabilidade acrescida na sua gestão, considerando tanto a sua quantidade quanto a sua qualidade, numa dupla perspetiva: responder de forma sustentável às necessidades da economia e da sociedade e proteger contra os efeitos das alterações climáticas, das secas, cheias e da poluição. É, por isso, importante redefinir as reservas estratégicas (superficiais e subterrâneas) com uma base plurianual, considerando simultaneamente as necessidades de consumo humano em momentos de maior stress hídrico e a capacidade de amortecimento de cheias. Estas reservas, correspondentes aos sistemas aquíferos da orla sedimentar ocidental, assim como às barragens mais importantes, existentes e a criar, devem ser complementadas com investimentos de menor dimensão, que ajudem a regularizar caudais nas proximidades das cabeceiras e a alimentar sistemas locais de abastecimento. Outro objetivo é conceber uma estratégia de melhoria da qualidade da água, enfrentando os efeitos da pressão urbana e industrial, dos baixos níveis de cobertura dos sistemas de drenagem e tratamento de águas residuais industriais, da agricultura e pecuária intensivas e da baixa eficácia dos serviços de monitorização e controlo da água. Será igualmente necessário elaborar e garantir a execução de um programa regional de manutenção e reabilitação das infraestruturas de captação, armazenamento, distribuição e drenagem, com vista a alargar o seu tempo útil e otimizar o grande investimento efetuado há quarenta anos. Finalmente, num contexto de escassez crescente, é necessário garantir a proteção das áreas estratégicas de recarga de aquíferos e o uso eficiente da água, através da racionalização do desenho e articulação dos sistemas de abastecimento, drenagem e tratamento, com o objetivo de eliminar fatores de insustentabilidade ambiental, técnica e económica.
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537366.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537366.png) |
+| --- |
 
 Figura 19. Capital Natural: Recursos Hídricos
 
@@ -995,7 +1044,8 @@ Paralelamente, a área florestal tem vindo a expandir-se, mas está crescentemen
 
 De modo a mitigar os riscos de incêndio (Figura 20 e Figura 21) e de desertificação, é necessário criar mosaicos florestais com diversas espécies, mais resistentes ao fogo e mais bem adaptadas às alterações climáticas, promovendo uma melhor gestão de combustível.
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537367.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537367.png) |
+| --- |
 
 Figura 20. Perigosidade de incêndio rural (carta estrutural 2020-2030)
 
@@ -1003,7 +1053,8 @@ Fonte: ICNF (2024).
 
 Relativamente aos incêndios rurais, que têm grande expressão na região, um fator muito importante é a evolução da interface urbano-florestal, pois é aí que ocorrem os principais problemas, quer o início de incêndios, quer a destruição de propriedades e a perda de vidas humanas.
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537368.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537368.png) |
+| --- |
 
 Figura 21. Áreas ardidas entre 2000-2023
 
@@ -1013,7 +1064,8 @@ Zonas Costeiras. Será necessário proteger a faixa costeira da região, não s�
 
 Riscos. Os riscos (Figura 22) materializam-se em ações ou processos, naturais ou tecnológicos, que têm relevância socioeconómica e expressão territorial. Uma das funções primordiais do ordenamento do território é diagnosticar e intervir na relação entre os usos do solo e os perigos decorrentes do funcionamento dos diversos sistemas naturais e humanos. A partir daí, deve ser criado um conjunto diversificado de medidas e ações de prevenção, adaptação e mitigação, que reduzam as vulnerabilidades dos territórios da RC face aos riscos decorrentes do funcionamento regular dos sistemas naturais e humanos e de fenómenos extremos. Deve ser dada particular atenção às áreas de risco na zona costeira e aos riscos tecnológicos que possam implicar a contaminação de recursos hídricos superficiais e subterrâneos.
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537369.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537369.png) |
+| --- |
 
 Figura 22. Riscos Naturais e Tecnológicos
 
@@ -1149,7 +1201,8 @@ No que respeita ao transporte de passageiros, as opções estratégicas devem re
 
 Em termos regionais, é fundamental fomentar a utilização de sistemas de transportes sustentáveis nos contextos urbanos e nas inter-relações pendulares, promovendo os transportes coletivos e aumentando os modos partilhados e suaves, contribuindo para a redução do uso do automóvel (seguindo, nomeadamente, os objetivos da Estratégia Nacional para a Mobilidade Ativa Ciclável). A Região Centro, pela sua topografia maioritariamente suave, clima ameno e estrutura urbana policêntrica, reúne condições muito favoráveis à promoção da mobilidade ativa, representando uma oportunidade estratégica para transformar padrões de deslocação e reforçar a sustentabilidade da rede de transportes.
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537370.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537370.png) |
+| --- |
 
 Figura 23. Rede principal de infraestruturas de transportes e logística
 
@@ -1253,7 +1306,8 @@ As características atuais da Região Centro devem ser tidas em conta numa abord
 
 Em 2019, de acordo com dados da Direção-Geral de Energia e Geologia, a Região Centro registava uma participação de pouco mais de 16 % de energias renováveis no consumo final. O ponto de partida considerado no PNEC para 2020 era de 31 %, com uma meta de 49 % em 2030. A diferença entre as distâncias nacional e regional em relação a essa meta é muito ampla.
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537371.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537371.png) |
+| --- |
 
 Figura 24. Aproveitamentos e potencial de energia eólica
 
@@ -1265,7 +1319,8 @@ Estes dois requisitos condicionam as quotas da energia elétrica e das restantes
 
 O PNEC assume limitar a dependência energética a 65 % em 2030. O país registou em 2020 uma dependência de 65,8 % enquanto a região teve, no mesmo ano, uma dependência energética de 82,9 %. Será, portanto, mais difícil à Região Centro do que ao país no seu conjunto assegurar o cumprimento desta meta, embora se deva exigir que a região maximize a sua produção endógena, também como forma de contribuir para o objetivo nacional.
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537372.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537372.png) |
+| --- |
 
 Figura 25. Aproveitamentos e potencial de energia solar
 
@@ -1279,7 +1334,8 @@ Este valor requer um ritmo e um volume de investimento muito elevados, que tirem
 
 A tendência para uma penetração progressiva da mobilidade elétrica pode, subsidiariamente, contribuir para atingir a meta de redução do consumo de energia final, dada a maior eficiência das conversões de energia em comparação com as associadas ao uso de motores de combustão interna. Para tal, é necessário um correspondente crescimento da infraestrutura de carregamento de baterias e, a montante, um reforço da infraestrutura da rede elétrica de distribuição.
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537373.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537373.png) |
+| --- |
 
 Figura 26. Certificação energética dos edifícios
 
@@ -1355,7 +1411,8 @@ Garantir a projeção externa da região e a eficiência sistémica das sub-regi
 
 • Incentivando a conexão de diversos sistemas de informação e a sua otimização por inteligência artificial e técnicas de realidade virtual e realidade aumentada.
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537374.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537374.png) |
+| --- |
 
 Figura 27. População residente por centro urbano e densidade de ocupação urbana
 
@@ -1393,7 +1450,8 @@ Em conclusão, a estratégia territorial da Região Centro deve assentar num con
 
 - Eixo Guarda - Covilhã - Fundão - Castelo Branco
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537375.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537375.png) |
+| --- |
 
 Figura 28. Promover a cooperação urbana e territorial
 
@@ -1421,7 +1479,8 @@ Este objetivo visa a organização do território, com o intuito de afirmar a Re
 
 Tal exige o reforço das principais centralidades e da sua capacidade de estruturar o território regional e projetar a Região Centro externamente. Para melhorar a relevância dos contextos urbanos, é necessário reforçar as infraestruturas e sistemas de comunicação, melhorar a oferta de habitação e serviços de nível superior, promover redes de cooperação e governação inter-regional e intermunicipal, e fomentar dinâmicas de crescimento e transformação a partir de uma presença mais significativa nos mercados e espaços de decisão nacional e supranacional. Isso significa transformar algumas centralidades em rotas de internacionalização, competitividade e coesão territorial.
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537376.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537376.png) |
+| --- |
 
 Figura 29. Sistema urbano regional e polarização metropolitana
 
@@ -1467,7 +1526,8 @@ A concretização do Modelo Territorial da Região Centro segue os DT e as OEBT 
 
 O Modelo Territorial assenta num modelo de desenvolvimento policêntrico, que pretende dinamizar a cooperação espacial, fortalecendo as especificidades territoriais e contrariando as vulnerabilidades críticas. Fomenta trajetórias, estrutura redes e agrega recursos, procurando responder às aspirações locais e regionais e à necessidade de colocar a região numa melhor posição para a internacionalização.
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537377.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537377.png) |
+| --- |
 
 Sistema Económico
 
@@ -1481,7 +1541,8 @@ De outro lado, o Centro Interior, cuja malha urbana característica é assegurad
 
 Sistema Económico da Região Centro
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537378.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537378.png) |
+| --- |
 
 As trajetórias de desenvolvimento futuras devem responder tanto a objetivos de equidade e de reforço da coesão intra e interterritorial, como a objetivos orientados por critérios de eficiência e inovação, que permitam à região, no seu conjunto, incrementar os níveis de competitividade territorial, tanto interna como externa. Esta aposta pressupõe uma mobilização acrescida e sistemática de todos os recursos endógenos regionais, ao mesmo tempo que prevê o reforço da capacidade da região em mobilizar recursos exógenos. Este cenário de reestruturação competitiva das bases da economia deverá, igualmente, assentar na promoção e qualificação da capacidade endógena de inovar e empreender.
 
@@ -1495,19 +1556,25 @@ Neste âmbito, é também essencial promover práticas que contribuam para a tra
 
 Mapas de suporte ao Sistema Económico
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537379.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537379.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537380.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537380.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537381.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537381.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537382.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537382.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537383.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537383.png) |
+| --- |
 
 Produtos de denominação de origem protegida (DOP)
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537384.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537384.png) |
+| --- |
 
 Sistema Social
 
@@ -1523,7 +1590,8 @@ O policentrismo, que caracteriza a Região Centro, deve ser fortalecido através
 
 Sistema Social da Região Centro
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537385.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537385.png) |
+| --- |
 
 Na Região Centro, a educação, a saúde, a habitação, os cuidados sociais e a cultura são domínios prioritários de intervenção, tanto nos territórios do Centro litoral mais pressionados pela procura, como nos territórios do Centro interior com um dinamismo demográfico menos favorável.
 
@@ -1541,11 +1609,14 @@ Relembrando as Opções Estratégicas de Base Territorial, para a concretizaçã
 
 Mapas de suporte ao Sistema Social
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537386.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537386.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537387.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537387.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537388.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537388.png) |
+| --- |
 
 O Sistema Natural da Região Centro assegura a qualidade e a diversidade das espécies, dos habitats, dos ecossistemas e das paisagens, assim como a funcionalidade e a sustentabilidade dos diversos serviços prestados pelos ecossistemas da região (ciclos da água, carbono, azoto, entre outros), que são fundamentais para garantir o funcionamento sustentável dos sistemas humanos existentes na região. Para além destes serviços de suporte e regulação, o sistema natural oferece um conjunto de outros serviços que contribuem de forma substancial para o desenvolvimento da região, desde os menos tangíveis, como a paisagem e o bem-estar, aos recursos minerais, biogenéticos, agroflorestais, marinhos, e à produção de energia verde. Todos eles são peças fundamentais da estratégia de descarbonização da economia nacional, bem como da estratégia de desenvolvimento e coesão territorial.
 
@@ -1571,7 +1642,8 @@ A diversidade de ecossistemas existentes ao longo da faixa costeira oferece uma 
 
 Sistema Natural da Região Centro
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537389.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537389.png) |
+| --- |
 
 A erosão costeira que afeta a Região Centro constitui um dos maiores desafios em termos de gestão integrada de recursos, atividades e minimização de riscos sobre pessoas e bens.
 
@@ -1597,11 +1669,14 @@ Dada a pequena dimensão da propriedade e os níveis de suscetibilidade das áre
 
 Mapas de suporte ao Sistema Natural
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537390.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537390.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537391.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537391.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537392.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537392.png) |
+| --- |
 
 Riscos e Vulnerabilidades
 
@@ -1629,19 +1704,24 @@ Riscos e Vulnerabilidades da Região Centro
 
 Riscos
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537393.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537393.png) |
+| --- |
 
 Vulnerabilidades
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537394.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537394.png) |
+| --- |
 
 Mapas de suporte aos Riscos e Vulnerabilidades
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537395.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537395.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537396.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537396.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537397.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537397.png) |
+| --- |
 
 Sistema de Mobilidade e Energia
 
@@ -1667,7 +1747,8 @@ Neste contexto, as trajetórias de desenvolvimento do sistema de transportes e c
 
 Sistema de Mobilidade da Região Centro
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537398.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537398.png) |
+| --- |
 
 A prossecução destes objetivos estratégicos implica o investimento em novas infraestruturas de transporte e na beneficiação de algumas já existentes, o reforço e melhoria de serviços e os incentivos à mobilidade sustentável. Simultaneamente, está dependente das decisões a tomar relativamente aos dois maiores e mais significativos investimentos na área dos transportes em Portugal. O primeiro diz respeito às novas linhas ferroviárias de alta velocidade, a construir no âmbito da rede TEN-T, atualmente em fase de planeamento. O segundo refere-se ao NAL, que deverá servir não apenas a região de Lisboa, mas todo o país. É fundamental assegurar a integração destas infraestruturas entre si e com o restante sistema de transportes.
 
@@ -1687,15 +1768,18 @@ Mapas de suporte ao Sistema de Mobilidade
 
 Localização estratégica da Região Centro
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537399.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537399.png) |
+| --- |
 
 Rede principal de infraestruturas de transportes e logística
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537400.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537400.png) |
+| --- |
 
 Áreas sem cobertura de redes digitais de elevada capacidade
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537401.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537401.png) |
+| --- |
 
 Sistema de Energia
 
@@ -1709,17 +1793,20 @@ No lado da procura, na dimensão da eficiência energética, há instrumentos de
 
 Sistema de Energia da Região Centro
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537402.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537402.png) |
+| --- |
 
 Mapas de suporte ao Sistema de Energia
 
 Potencial de produção de energia renovável
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537403.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537403.png) |
+| --- |
 
 Infraestruturas de transporte de energia
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537404.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537404.png) |
+| --- |
 
 Sistema Urbano
 
@@ -1751,7 +1838,8 @@ I. É preciso qualificar os sistemas urbanos do litoral, em torno das centralida
 
 Sistema Urbano da Região Centro
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537405.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537405.png) |
+| --- |
 
 II. É preciso estruturar os sistemas urbanos dos territórios de transição, em particular em torno das centralidades de Viseu Dão Lafões, de Tábua-Oliveira do Hospital-Seia-Gouveia, e do Pinhal Interior.
 
@@ -1775,11 +1863,14 @@ Em matéria de eixos urbanos intrarregionais deve-se promover o Eixo Aveiro - Vi
 
 Mapas de suporte ao Sistema Urbano
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537406.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537406.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537407.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537407.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537408.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537408.png) |
+| --- |
 
 MODELO TERRITORIAL
 
@@ -1817,7 +1908,8 @@ II. O reforço das redes horizontais apoia-se em três eixos: Eixo estruturado p
 
 Modelo Territorial da Região Centro
 
-![](https://files.diariodarepublica.pt/images/1075293617/1075537409.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293617/1075537409.png) |
+| --- |
 
 Sistemas de Estruturação Regional
 
@@ -1943,24 +2035,24 @@ Indicadores de monitorização dos desafios transversais
 | --- | --- | --- | --- | --- |
 | Desafios transversais | Projeção global | Investimento direto estrangeiro (M€) | NUTS II | Banco de Portugal |
 |  | Desafios da demografia | Proporção de população dos 0 aos 24 anos, no total de residentes (%) | Concelho | INE |
-|  | Desafios da demografia | Proporção de população dos 25 aos 64 anos, no total de residentes (%) | Concelho | INE |
-|  | Desafios da demografia | Proporção de população com 65 e mais anos, no total de residentes (%) | Concelho | INE |
+|  | Proporção de população dos 25 aos 64 anos, no total de residentes (%) | Concelho | INE |  |
+|  | Proporção de população com 65 e mais anos, no total de residentes (%) | Concelho | INE |  |
 |  | Alterações climáticas | Planos municipais de mitigação/adaptação às alterações climáticas (N.º) | Concelho | CCDRCentro |
 |  | Impulsionar o conhecimento e a economia | Despesa média em I&D nas instituições e empresas com investigação e desenvolvimento (€) | NUTS III | DGEEC, INE |
 |  |  | Proporção regional da despesa em I&D, no total nacional (%) | NUTS III | DGEEC, INE |
 |  | Impulsionar a circularidade | Proporção de recolha seletiva, no total de resíduos urbanos recolhidos (%) | Concelho | INE |
-|  | Impulsionar a circularidade | Proporção de resíduos urbanos preparados para reutilização e reciclagem, no total de resíduos urbanos recolhidos (%) | Concelho | INE |
+|  | Proporção de resíduos urbanos preparados para reutilização e reciclagem, no total de resíduos urbanos recolhidos (%) | Concelho | INE |  |
 |  | Reindustrializar | Emprego na indústria das atividades económicas do futuro (TICE, Metalomecânica de base tecnológica, Saúde e tecnologias da saúde, Economia azul, Transportes e logística, Bioeconomia e Indústrias criativas - N.º) | NUTS III | INE |
-|  | Reindustrializar | VAB na indústria das atividades económicas do futuro (TICE, Metalomecânica de base tecnológica, Saúde e tecnologias da saúde, Economia azul, Transportes e logística, Bioeconomia e Indústrias criativas - €) | NUTS III | INE |
-|  | Reindustrializar | VAB na indústria das atividades económicas do futuro (TICE, Metalomecânica de base tecnológica, Saúde e tecnologias da saúde, Economia azul, Transportes e logística, Bioeconomia e Indústrias criativas - €) | NUTS III | INE |
+|  | VAB na indústria das atividades económicas do futuro (TICE, Metalomecânica de base tecnológica, Saúde e tecnologias da saúde, Economia azul, Transportes e logística, Bioeconomia e Indústrias criativas - €) | NUTS III | INE |  |
+|  |  |  |  |  |
 |  | Promover o digital | Proporção de indivíduos com idade entre 16 e 74 anos com competências digitais ao nível básico ou acima de básico (%) | NUTS II | INE |
 |  |  | Câmaras Municipais que efetuaram Análise de Dados (Data analytics) (N.º) | Concelho | DGEEC, IUTIC |
 |  | Governação | Receitas das câmaras municipais por habitante (€/hab.) | Concelho | INE |
 |  | Participação pública | Taxa de participação nas eleições autárquicas (%) | Concelho | INE |
 |  | Multiculturalismo | Proporção de população estrangeira com estatuto legal de residente, no total de residentes (%) | Concelho | INE |
 |  |  | Proporção de estudantes estrangeiros inscritos no ensino não superior, no total de estudantes (%) | Concelho | DGEEC |
-|  |  | Número de nacionalidades dos estudantes inscritos no ensino não superior (N.º) | Concelho | DGEEC |
-|  |  | Proporção de estudantes estrangeiros inscritos no ensino superior, no total de estudantes (%) | NUTS III | INE |
+|  | Número de nacionalidades dos estudantes inscritos no ensino não superior (N.º) | Concelho | DGEEC |  |
+|  | Proporção de estudantes estrangeiros inscritos no ensino superior, no total de estudantes (%) | NUTS III | INE |  |
 
 Sistema Económico
 
@@ -1995,9 +2087,9 @@ Indicadores de monitorização do Sistema Económico
 |  |  | Capacidade total de alojamento em estabelecimentos de alojamento local (utentes) (N.º) | Concelho | Turismo de Portugal (TdP) - SIGTUR |
 |  |  | Capacidade total de alojamento em empreendimentos turísticos e estabelecimentos de alojamento local por 1.000 habitantes | Concelho | Turismo de Portugal (TdP) - SIGTUR |
 |  |  | Proveitos totais nos estabelecimentos de alojamento turístico (milhares €) | Concelho | INE |
-|  |  | Proporção de hóspedes estrangeiros nos estabelecimentos de alojamento turístico (%) | Concelho | INE |
-|  | Atividades económicas do futuro | Emprego nas atividades económicas do futuro (TICE, Metalomecânica de base tecnológica, Saúde e tecnologias da saúde, Economia azul, Transportes e logística, Bioeconomia e Indústrias criativas - N.º) | NUTS III | INE |
-|  | Atividades económicas do futuro | VAB nas atividades económicas do futuro (TICE, Metalomecânica de base tecnológica, Saúde e tecnologias da saúde, Economia azul, Transportes e logística, Bioeconomia e Indústrias criativas - €) | NUTS III | INE |
+| Proporção de hóspedes estrangeiros nos estabelecimentos de alojamento turístico (%) | Concelho | INE |  |  |
+| Atividades económicas do futuro | Emprego nas atividades económicas do futuro (TICE, Metalomecânica de base tecnológica, Saúde e tecnologias da saúde, Economia azul, Transportes e logística, Bioeconomia e Indústrias criativas - N.º) | NUTS III | INE |  |
+| VAB nas atividades económicas do futuro (TICE, Metalomecânica de base tecnológica, Saúde e tecnologias da saúde, Economia azul, Transportes e logística, Bioeconomia e Indústrias criativas - €) | NUTS III | INE |  |  |
 
 Sistema Social
 
@@ -2023,28 +2115,28 @@ Indicadores de monitorização do Sistema Social
 |  | Equidade na Saúde | Proporção de população a mais de 10 minutos do serviço de urgência mais próximo, em automóvel (%) | Concelho | DGT - i-Território |
 |  |  | Médicas/os por 1000 habitantes (‰) | Concelho | INE |
 |  |  | Enfermeiras/os por 1000 habitantes (‰) | Concelho | INE |
-|  |  | Consultas médicas na unidade de consulta externa dos hospitais por habitante (N.º) | NUTS III | INE |
-|  |  | Pessoal ao serviço nos hospitais (N.º) | NUTS III | DGS/MS |
-|  |  | Tempo médio de percurso de uma Viatura Médica de Emergência e Reanimação (VMER) (min.) | Concelho | Ministério da Saúde |
-|  | Acesso à Habitação | Valor mediano das rendas por m<sup>2</sup> em novos contratos habitacionais (€/m<sup>2</sup>) | Concelho | INE |
-|  | Acesso à Habitação | Valor mediano das vendas por m<sup>2</sup> de alojamentos (€/m<sup>2</sup>) | Concelho | INE |
-|  | Educação e Formação | Proporção de residentes jovens (com menos de 15 anos) a menos de 15 minutos, a pé, da escola com ensino básico mais próxima (%) | Concelho | DGT - i- Território |
-|  | Educação e Formação | Taxa de retenção e desistência no ensino básico (%) | Concelho | INE |
-|  | Educação e Formação | Taxa de transição/conclusão no ensino secundário (%) | Concelho | INE |
+| Consultas médicas na unidade de consulta externa dos hospitais por habitante (N.º) | NUTS III | INE |  |  |
+| Pessoal ao serviço nos hospitais (N.º) | NUTS III | DGS/MS |  |  |
+| Tempo médio de percurso de uma Viatura Médica de Emergência e Reanimação (VMER) (min.) | Concelho | Ministério da Saúde |  |  |
+| Acesso à Habitação | Valor mediano das rendas por m2 em novos contratos habitacionais (€/m2) | Concelho | INE |  |
+| Valor mediano das vendas por m2 de alojamentos (€/m2) | Concelho | INE |  |  |
+| Educação e Formação | Proporção de residentes jovens (com menos de 15 anos) a menos de 15 minutos, a pé, da escola com ensino básico mais próxima (%) | Concelho | DGT - i- Território |  |
+| Taxa de retenção e desistência no ensino básico (%) | Concelho | INE |  |  |
+| Taxa de transição/conclusão no ensino secundário (%) | Concelho | INE |  |  |
 |  |  | Taxa de escolaridade no ensino superior (%) | NUTS III | INE |
-|  |  | Proporção de população com ensino superior (25-64 anos), no total de residentes (%) | Concelho | INE |
-|  |  | Aprendizagem ao longo da vida (%) | NUTS II | INE |
+|  | Proporção de população com ensino superior (25-64 anos), no total de residentes (%) | Concelho | INE |  |
+|  | Aprendizagem ao longo da vida (%) | NUTS II | INE |  |
 |  | Acesso à Cultura | Espetadores de espetáculos ao vivo por habitante (N.º) | Concelho | INE |
-|  | Acesso à Cultura | Despesa das Câmaras Municipais em cultura e desporto por habitante (€) | Concelho | INE |
+|  | Despesa das Câmaras Municipais em cultura e desporto por habitante (€) | Concelho | INE |  |
 |  | Combater a pobreza | Beneficiárias/os do rendimento social de inserção, da segurança social por 1000 habitantes em idade ativa (‰) | Concelho | INE, Segurança Social |
-|  | Combater a pobreza | Beneficiários de abono de família para crianças e jovens da Segurança Social (1.º escalão) por população com menos de 25 anos (%) | Concelho | INE, Segurança Social |
-|  | Combater a pobreza | Taxa de risco de pobreza (após transferências sociais) (%) | NUTS II | INE |
-|  | Combater a pobreza | Desigualdade na distribuição do rendimento bruto declarado deduzido do IRS liquidado dos agregados fiscais (P90/P10) (N.º) | Concelho | INE |
-|  |  | Desigualdade na distribuição do rendimento bruto declarado deduzido do IRS liquidado dos agregados fiscais (P90/P10) (N.º) | Concelho | INE |
+|  | Beneficiários de abono de família para crianças e jovens da Segurança Social (1.º escalão) por população com menos de 25 anos (%) | Concelho | INE, Segurança Social |  |
+|  | Taxa de risco de pobreza (após transferências sociais) (%) | NUTS II | INE |  |
+|  | Desigualdade na distribuição do rendimento bruto declarado deduzido do IRS liquidado dos agregados fiscais (P90/P10) (N.º) | Concelho | INE |  |
+|  |  |  |  |  |
 |  | Qualidade de vida | Poder de compra per capita (N.º) | Concelho | INE |
-|  | Qualidade de vida | Proporção de residentes na região Centro globalmente satisfeitos com a vida que levam (%) | NUTS III | CCDR Centro |
-|  | Qualidade de vida | Esperança de vida à nascença (anos) | NUTS III | INE |
-|  | Qualidade de vida | Valor mediano do rendimento bruto declarado deduzido do IRS liquidado por sujeito passivo (€). | Concelho | INE |
+|  | Proporção de residentes na região Centro globalmente satisfeitos com a vida que levam (%) | NUTS III | CCDR Centro |  |
+|  | Esperança de vida à nascença (anos) | NUTS III | INE |  |
+|  | Valor mediano do rendimento bruto declarado deduzido do IRS liquidado por sujeito passivo (€). | Concelho | INE |  |
 
 Sistema Natural
 
@@ -2067,29 +2159,29 @@ Indicadores de monitorização do Sistema Natural
 | Sistema | OEBT | Indicador | Desagregação territorial | Fonte de informação |
 | --- | --- | --- | --- | --- |
 | Sistema Natural | Gerir o solo e o subsolo | Proporção de solo classificado na Reserva Agrícola Nacional (RAN) (%) | Concelho | DGT |
-| Sistema Natural | Gerir o solo e o subsolo | Proporção de área de RAN ocupada com agricultura (%) | Concelho | DGT |
-| Sistema Natural | Gerir o solo e o subsolo | Proporção de solo classificado na Reserva Ecológica Nacional (REN) (%) | Concelho | DGT |
-| Sistema Natural | Gerir o solo e o subsolo | Proporção de área de REN ocupada por edificações (%) | Concelho | CCDR Centro |
-| Sistema Natural | Gerir o solo e o subsolo | Proporção de superfície de solo rústico face à área total (%) | Concelho | DGT |
-| Sistema Natural | Natureza e biodiversidade | Proporção de áreas protegidas e Rede Natura 2000 (%) | Concelho | INE |
-| Sistema Natural | Natureza e biodiversidade | Superfície ocupada por vegetação arbórea com interesse para a conservação da natureza (ha) | Concelho | DGT |
-| Sistema Natural | Natureza e biodiversidade | Despesas dos municípios em proteção da biodiversidade e paisagem por habitante (€/hab.) | Concelho | INE |
+| Proporção de área de RAN ocupada com agricultura (%) | Concelho | DGT |  |  |
+| Proporção de solo classificado na Reserva Ecológica Nacional (REN) (%) | Concelho | DGT |  |  |
+| Proporção de área de REN ocupada por edificações (%) | Concelho | CCDR Centro |  |  |
+| Proporção de superfície de solo rústico face à área total (%) | Concelho | DGT |  |  |
+| Natureza e biodiversidade | Proporção de áreas protegidas e Rede Natura 2000 (%) | Concelho | INE |  |
+| Superfície ocupada por vegetação arbórea com interesse para a conservação da natureza (ha) | Concelho | DGT |  |  |
+| Despesas dos municípios em proteção da biodiversidade e paisagem por habitante (€/hab.) | Concelho | INE |  |  |
 |  | Gerir recursos hídricos | Índice de escassez por região hidrográfica (%) | Região hidrográfica | APA |
 |  |  | Estado das reservas hídricas, volume de armazenamento por bacia hidrográfica (%) | Bacia hidrográfica | APA |
 |  |  | Perdas anuais de água nos sistemas de abastecimento de água (m³) | Concelho | ERSAR, INE |
 |  |  | Proporção de área das massas de água superficiais com estado global «bom e superior» (%) | Concelho | INE |
 |  | Fortalecer o setor agroflorestal | Área em Zona de Intervenção Florestal (ha) | Concelho | INE, ICNF |
-|  | Fortalecer o setor agroflorestal | Proporção da área ocupada por florestas de eucalipto na área total (%) | Concelho | DGT - COS |
+|  | Proporção da área ocupada por florestas de eucalipto na área total (%) | Concelho | DGT - COS |  |
 |  |  | Proporção de florestas de pinheiro-bravo na área total (%) | Concelho | DGT - COS |
 |  |  | Territórios vulneráveis com gestão ativa (Programa de Transformação da Paisagem) | Concelho | DGT |
 |  |  | Peso do VAB do setor primário no total do VAB (%) | NUTS III | INE |
-|  | Ordenar as zonas costeiras | Área artificializada na faixa costeira (2000 m) (ha) | Concelho | DGT, INE |
-|  | Ordenar as zonas costeiras | População residente em faixas de salvaguarda litoral ao risco costeiro (N.º) | Concelho | DGT, INE |
-|  | Riscos e vulnerabilidades | Superfície ardida (%) | Concelho | ICNF, INE |
-|  | Riscos e vulnerabilidades | População residente em áreas de perigosidade de incêndio alta ou muito alta (N.º) | Concelho | DGT, INE |
-|  | Riscos e vulnerabilidades | Área artificializada em áreas suscetíveis de inundação (ha) | Concelho | DGT, APA |
-|  | Riscos e vulnerabilidades | Área suscetível à desertificação de acordo com o Índice de Aridez (N.º e %) | NUTS III | ICNF |
-|  | Riscos e vulnerabilidades | Estabelecimentos enquadrados no [Decreto-Lei n.º 150/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2015-69951097), de 5 de agosto (N.º) | Concelho | APA |
+| Ordenar as zonas costeiras | Área artificializada na faixa costeira (2000 m) (ha) | Concelho | DGT, INE |  |
+| População residente em faixas de salvaguarda litoral ao risco costeiro (N.º) | Concelho | DGT, INE |  |  |
+| Riscos e vulnerabilidades | Superfície ardida (%) | Concelho | ICNF, INE |  |
+| População residente em áreas de perigosidade de incêndio alta ou muito alta (N.º) | Concelho | DGT, INE |  |  |
+| Área artificializada em áreas suscetíveis de inundação (ha) | Concelho | DGT, APA |  |  |
+| Área suscetível à desertificação de acordo com o Índice de Aridez (N.º e %) | NUTS III | ICNF |  |  |
+| Estabelecimentos enquadrados no [Decreto-Lei n.º 150/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2015-69951097), de 5 de agosto (N.º) | Concelho | APA |  |  |
 |  |  | População residente nas zonas de perigosidade enquadradas no [Decreto-Lei n.º 150/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2015-69951097), de 5 de agosto (N.º) | Concelho | APA, CCDR Centro |
 
 Sistema de Mobilidade
@@ -2113,14 +2205,14 @@ Indicadores de monitorização do Sistema de Mobilidade
 | Sistema de Mobilidade | Transportes de mercadorias | Movimento de mercadorias nos portos (ton.) | Portos | INE |
 |  | Grandes infraestruturas | Extensão da rede nacional rodoviária (rede fundamental/itinerários principais) (km) | NUTS II | IMT, INE |
 |  | Redes intrarregionais | Extensão da rede nacional rodoviária (rede nacional, itinerários complementares e estradas regionais) (km) | NUTS II | IMT, INE |
-|  | Redes intrarregionais | Extensão total das linhas ferroviárias (km) | NUTS II | INE |
+|  | Extensão total das linhas ferroviárias (km) | NUTS II | INE |  |
 |  | Redes intrarregionais | Proporção da rede ferroviária eletrificada (%) | NUTS II | INE |
 |  | Transportes sustentáveis | Passageiros nos transportes públicos (N.º) | Concelho | IMT |
-|  | Transportes sustentáveis | Veículos de transporte individual de passageiros por tipo de combustível (N.º) | Concelho | IMT |
-|  | Transportes sustentáveis | Emissões de gases com efeito de estufa com origem nos transportes (Mt CO2eq) | Concelho | APA |
-|  | Transportes sustentáveis | Consumo de combustível automóvel por habitante (tep/hab.) | Concelho | INE |
+|  | Veículos de transporte individual de passageiros por tipo de combustível (N.º) | Concelho | IMT |  |
+|  | Emissões de gases com efeito de estufa com origem nos transportes (Mt CO2eq) | Concelho | APA |  |
+|  | Consumo de combustível automóvel por habitante (tep/hab.) | Concelho | INE |  |
 |  |  | Atropelamentos de peões e de abalroamentos de ciclistas (N.º) | Concelho | ANSR |
-|  |  | Quilómetros de ciclovias construídas anualmente (km) | Concelho | Relatórios autárquicos e Programa Portugal Ciclável |
+|  | Quilómetros de ciclovias construídas anualmente (km) | Concelho | Relatórios autárquicos e Programa Portugal Ciclável |  |
 |  | Digitalização e integração modal | Proporção do município com acesso muito rápido a serviço de dados com tecnologia 4G (%) | Concelho | ANACOM; DGT |
 |  | Digitalização e integração modal | Acessos à Internet de banda larga em local fixo por 100 habitantes (%) | Concelho | INE |
 
@@ -2143,11 +2235,11 @@ Indicadores de monitorização do Sistema de Energia
 | Sistema | OEBT | Indicador | Desagregação territorial | Fonte de informação |
 | --- | --- | --- | --- | --- |
 | Sistema de Energia | Emissões de gases com efeito de estufa | Emissões de gases com efeito de estufa por setores (Mt CO2eq) | Concelho | APA |
-| Sistema de Energia | Energia renovável | Produção de energia renovável (MWh) | NUTS II | DGEG |
-| Sistema de Energia | Energia renovável | Produção total de eletricidade em aproveitamentos de pequena escala* | Concelho | DGEG* |
-| Sistema de Energia | Diminuir o consumo de energia final | Consumo de energia final por habitante (kWh/hab.) | Concelho | DGEG |
-| Sistema de Energia | Diminuir o consumo de energia final | Consumo de energia final na indústria por VAB (kWh/VAB) | Concelho | DGEG |
-| Sistema de Energia | Pobreza energética | Consumidores com Tarifa Social de Energia (N.º) | Concelho | DGEG |
+| Energia renovável | Produção de energia renovável (MWh) | NUTS II | DGEG |  |
+| Produção total de eletricidade em aproveitamentos de pequena escala* | Concelho | DGEG* |  |  |
+| Diminuir o consumo de energia final | Consumo de energia final por habitante (kWh/hab.) | Concelho | DGEG |  |
+| Consumo de energia final na indústria por VAB (kWh/VAB) | Concelho | DGEG |  |  |
+| Pobreza energética | Consumidores com Tarifa Social de Energia (N.º) | Concelho | DGEG |  |
 
 * Atualmente, esta informação não está disponível em nenhum sistema de informação, mas poderá ser trabalhada e disponibilizada pela DGEG. Para futuro, sugere-se a criação de um projeto-piloto, a desenvolver-se neste âmbito.
 
@@ -2166,15 +2258,15 @@ Indicadores de monitorização do Sistema Urbano
 | Sistema | OEBT | Indicador | Desagregação territorial | Fonte de informação |
 | --- | --- | --- | --- | --- |
 | Sistema Urbano | Sustentabilidade e a qualidade intraurbana | Capitação de espaços verdes disponíveis para fruição em área urbana (m²/hab.) | Concelho | DGT |
-| Sistema Urbano | Sustentabilidade e a qualidade intraurbana | Taxa de artificialização líquida do solo (m<sup>2</sup>/ano.km<sup>2</sup>) | Concelho | DGT |
-| Sistema Urbano | Sustentabilidade e a qualidade intraurbana | Proporção de resíduos urbanos recolhidos seletivamente (%) | Concelho | INE |
-| Sistema Urbano | Sustentabilidade e a qualidade intraurbana | Resíduos urbanos recolhidos por habitante (kg/hab.) | Concelho | INE |
-| Sistema Urbano | Sustentabilidade e a qualidade intraurbana | Emissões de gases com efeito de estufa com origem nos transportes (Mt CO2eq) | Concelho | INE |
+| Taxa de artificialização líquida do solo (m2/ano.km2) | Concelho | DGT |  |  |
+| Proporção de resíduos urbanos recolhidos seletivamente (%) | Concelho | INE |  |  |
+| Resíduos urbanos recolhidos por habitante (kg/hab.) | Concelho | INE |  |  |
+| Emissões de gases com efeito de estufa com origem nos transportes (Mt CO2eq) | Concelho | INE |  |  |
 |  | Cooperação interurbana e rural-urbana | Fundo europeu aprovado em projetos integrados na ITI Redes Urbanas (€) | NUTS III | CCDR Centro |
-|  | Cooperação interurbana e rural-urbana | Projetos de cooperação inter-concelhios financiados (N.º) | NUTS III | CCDR Centro |
-|  | Redes urbanas nacionais e globais | Participação em Redes Nacionais de desenvolvimento urbano (N.º) | Concelho | DGT |
-|  | Redes urbanas nacionais e globais | Participação em Redes internacionais de desenvolvimento urbano (N.º) | Concelho | DGT |
-|  | Redes urbanas nacionais e globais | Participação em projetos no âmbito das cidades inteligentes (transformação organizacional, tecnológica e digital) (N.º) | Concelho | DGT |
+| Projetos de cooperação inter-concelhios financiados (N.º) | NUTS III | CCDR Centro |  |  |
+| Redes urbanas nacionais e globais | Participação em Redes Nacionais de desenvolvimento urbano (N.º) | Concelho | DGT |  |
+| Participação em Redes internacionais de desenvolvimento urbano (N.º) | Concelho | DGT |  |  |
+| Participação em projetos no âmbito das cidades inteligentes (transformação organizacional, tecnológica e digital) (N.º) | Concelho | DGT |  |  |
 
 Instrumentos de Ordenamento do Território e Gestão Territorial
 
@@ -2183,30 +2275,34 @@ Indicadores de monitorização dos Instrumentos de Gestão Territorial
 | IOTGT | Instrumentos | Indicador | Desagregação territorial | Fonte de informação |
 | --- | --- | --- | --- | --- |
 | Instrumentos de Ordenamento do Território e Gestão Territorial (IOTGT) | Programas especiais de ordenamento do território | Programas Especiais de Ordenamento do Território (PEOT) em vigor (N.º) | NUTS II | CCDR Centro |
-| Instrumentos de Ordenamento do Território e Gestão Territorial (IOTGT) | Programas especiais de ordenamento do território | Programas de ordenamento de áreas protegidas (N.º) | NUTS II | CCDR Centro |
+| Programas de ordenamento de áreas protegidas (N.º) | NUTS II | CCDR Centro |  |  |
 |  |  | Programas de ordenamento de albufeiras de águas públicas (N.º) | NUTS II | CCDR Centro |
 |  |  | Programas de ordenamento de estuários (N.º) | NUTS II | CCDR Centro |
 |  |  | Programas de ordenamento da orla costeira (N.º) | NUTS II | CCDR Centro |
 |  |  | Programas de parques arqueológicos (N.º) | NUTS II | CCDR Centro |
 |  | Planos municipais de ordenamento do território: PDM | Tempo de vigência dos PDM (anos) | Concelho | CCDR Centro |
-|  | Planos municipais de ordenamento do território: PDM | Alterações publicadas posteriormente à última publicação ou revisão do PDM (N.º) | Concelho | CCDR Centro |
+|  | Alterações publicadas posteriormente à última publicação ou revisão do PDM (N.º) | Concelho | CCDR Centro |  |
 |  |  | Duração dos processos de revisão dos PDM em curso (anos) | Concelho | CCDR Centro |
-|  |  | PDM com Cartas de Património (N.º) | Concelho | CCDR Centro |
-|  |  | PDM com medidas de proteção, salvaguarda, valorização para o Património Cultural (N.º) | Concelho | CCDR Centro |
-|  | Planos de municipais de ordenamento do território: PU e PP | Planos de urbanização (PU) em vigor (N.º) | Concelho | CCDR Centro |
-|  | Planos de municipais de ordenamento do território: PU e PP | Planos de pormenor (PP) em vigor (N.º) | Concelho | CCDR Centro |
-|  | Planos de municipais de ordenamento do território: PU e PP | Planos de pormenor (PP) de Salvaguarda (N.º) | Concelho | CCDR Centro |
+| PDM com Cartas de Património (N.º) | Concelho | CCDR Centro |  |  |
+| PDM com medidas de proteção, salvaguarda, valorização para o Património Cultural (N.º) | Concelho | CCDR Centro |  |  |
+| Planos de municipais de ordenamento do território: PU e PP | Planos de urbanização (PU) em vigor (N.º) | Concelho | CCDR Centro |  |
+| Planos de pormenor (PP) em vigor (N.º) | Concelho | CCDR Centro |  |  |
+| Planos de pormenor (PP) de Salvaguarda (N.º) | Concelho | CCDR Centro |  |  |
 
-<sup>1</sup> O âmbito territorial do PROT Centro coincide com o território de atuação da Comissão de Coordenação e Desenvolvimento Regional do Centro, I. P. (DL n.º [114/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2023-225125603), de 04/12). Este território abrange as seguintes Comunidades Intermunicipais: Beira Baixa, Região de Aveiro, Região de Coimbra, Região de Leiria, Beiras e Serra da Estrela e Viseu Dão Lafões, perfazendo um total de 77 municípios.
+1 O âmbito territorial do PROT Centro coincide com o território de atuação da Comissão de Coordenação e Desenvolvimento Regional do Centro, I. P. (DL n.º [114/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2023-225125603), de 04/12). Este território abrange as seguintes Comunidades Intermunicipais: Beira Baixa, Região de Aveiro, Região de Coimbra, Região de Leiria, Beiras e Serra da Estrela e Viseu Dão Lafões, perfazendo um total de 77 municípios.
 
-<sup>2</sup> Ver Quadro 1 (Desafios Transversais).
+2 Ver Quadro 1 (Desafios Transversais).
 
-<sup>3</sup> Fonte: INE (2024).
+3 Fonte: INE (2024).
 
-<sup>4</sup> A informação de que dispomos corresponde a uma desagregação das atividades económicas a 3 dígitos.
+4 A informação de que dispomos corresponde a uma desagregação das atividades económicas a 3 dígitos.
 
-<sup>5</sup> Exemplos desta situação: Grupo PSA em Mangualde e indústria da pasta de papel na Figueira da Foz.
+5 Exemplos desta situação: Grupo PSA em Mangualde e indústria da pasta de papel na Figueira da Foz.
 
-<sup>6</sup> Uma análise quantitativa do problema pode ser vista no Diagnóstico Estratégico.
+6 Uma análise quantitativa do problema pode ser vista no Diagnóstico Estratégico.
 
-<sup>7</sup> Uma análise quantitativa do problema pode ser vista no Diagnóstico Estratégico.
+7 Uma análise quantitativa do problema pode ser vista no Diagnóstico Estratégico.
+
+119948057
+
+.Tbl1 { border-collapse:collapse; border-width:1px; border-color:rgb(0,0,0); } .Tbl2 { min-height:17px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl5 { text-align:center; } .Tbl6 { min-height:26px; } .Tbl7 { background-color:rgb(217,217,217); } .Tbl8 { min-height:18px; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(188,214,237); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(188,214,237); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,217,102); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(188,214,237); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(221,235,247); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(221,235,247); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,230,153); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(221,235,247); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl19 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,241,204); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl21 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl22 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl23 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl24 { min-height:27px; } .Tbl25 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl26 { min-height:33px; } .Tbl27 { min-height:37px; } .Tbl28 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl29 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl30 { min-height:65px; } .Tbl31 { min-height:47px; } .Tbl32 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl33 { border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl34 { min-height:46px; } .Tbl35 { min-height:56px; } .Tbl36 { min-height:36px; } .Tbl37 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl38 { min-height:28px; } .Tbl39 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl40 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(217,217,217); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl41 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(217,217,217); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl42 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(217,217,217); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl43 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; }

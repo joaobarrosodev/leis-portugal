@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 246/2023, 3º Suplemento, Série I de 2023-12-22
   number: '246'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 70-(14) a 70-(80)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24603/0001400080.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/33-b/2023/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/33-b-2023-835674277
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-22T00:00:00Z'
+  retrieved_at: '2026-10-22T19:14:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf6205b103dea00a6d59f0a17c349ebcd3ec95a4c80059f738dbd3dc873fb5ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fea93e63577b7a7f2a8a972150d8ac0bc2e6f2df49362f50dac93b60e815fe5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:14:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Rectificação de Entidade Emitente
-- Portal dos Contratos Públicos
 - Código dos Contratos Públicos
 - Contratação Pública
+- Portal dos Contratos Públicos
+- Rectificação de Entidade Emitente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/20/2021/03/15/p/dre
@@ -101,16 +101,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/57/2018/02/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/57/2018/02/26/p/dre
+- type: cites
+  target: pt:dre:159432383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163728569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223338607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67377968:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:14:35Z'
   warnings: []
   errors: []
 ---
@@ -193,9 +221,9 @@ Secretaria-Geral, 22 de dezembro de 2023. - A Secretária-Geral Adjunta, Fátima
 
 [a que se refere a alínea b) do n.º 1 do artigo 7.º]
 
-|  |  |  |  |  |  |  |  |
+| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado<br>por PE/EA |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado por PE/EA |
+|  |  |  |  |  |  |  |  |
 | 1 | Organização | Não | Sim | - | A que se refere a alínea b) do n.º 1 do artigo 7.º | Público | PE ou EA |
 | 1.1 | ID | Não | Sim | Numérico | A que se refere a alínea b) do n.º 1 do artigo 7.º | Privado | PE ou EA |
 | 1.2 | NIPC | Não | Sim | Código | A que se refere a alínea b) do n.º 1 do artigo 7.º | Público | PE ou EA |
@@ -254,9 +282,9 @@ Secretaria-Geral, 22 de dezembro de 2023. - A Secretária-Geral Adjunta, Fátima
 
 [a que se refere a alínea c) do n.º 1 do artigo 7.º]
 
-|  |  |  |  |  |  |  |  |
+| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado<br>por PE/EA * |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado por PE/EA * |
+|  |  |  |  |  |  |  |  |
 | 1 | Número | Não | Sim | Numérico | Todos os Procedimentos | Privado | PE ou EA |
 | 2 | Entidade(s) Adjudicante(s) | Sim | Sim | - | Todos os Procedimentos | Privado | PE ou EA |
 | 2.1 | NIPC | Não | Sim | Código | Todos os Procedimentos | Privado | PE ou EA |
@@ -402,9 +430,9 @@ Secretaria-Geral, 22 de dezembro de 2023. - A Secretária-Geral Adjunta, Fátima
 | 18.1 | Número do procedimento na plataforma eletrónica (se aplicável) | Não | Sim | Numérico | Todos os Procedimentos | Privado | PE ou EA |
 | 18.2 | Descrição do Prazo para Recurso | Não | Sim | Texto | Todos os Procedimentos | Privado | PE ou EA |
 | 19 | Documentos | Sim | Sim | - | - | Privado | PE ou EA |
-| 19.1 | (Se Lotes=Sim) Identificador do Lote | Sim | Sim | Numérico | Procedimentos Concursais | Privado | PE ou EA |
+| 19.1 | (Se Lotes=Sim) Identificador do Lote | Sim | Sim | Numérico | Procedimentos<br>Concursais | Privado | PE ou EA |
 | 19.2 | Link de acesso a Peças do Procedimento | Não | Sim | URL | Todos os Procedimentos | Privado | PE ou EA |
-| 19.3 | Língua Oficial dos Documentos | Sim | Sim | Código | Procedimentos Concursais | Privado | PE ou EA |
+| 19.3 | Língua Oficial dos Documentos | Sim | Sim | Código | Procedimentos<br>Concursais | Privado | PE ou EA |
 | 20 | Condições de Apresentação | Sim | Sim | - | - | Privado | PE ou EA |
 | 20.1 | Apresentação por Via Eletrónica | Não | Sim | Código | Procedimentos Concursais | Privado | PE ou EA |
 | 20.2 | URL para a Apresentação | Não | Sim | URL | Procedimentos Concursais | Privado | PE ou EA |
@@ -476,9 +504,9 @@ Nota. - Todos os procedimentos exceto ajuste direto simplificado.
 
 [a que se refere a alínea d) do n.º 1 do artigo 7.º]
 
-|  |  |  |  |  |  |  |  |
+| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado<br>por PE/EA |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado por PE/EA |
+|  |  |  |  |  |  |  |  |
 | 1 | Entidade(s) Adjudicante(s) | Sim | Sim | - | Emp, Conc | Privado | PE ou EA |
 | 1.1 | NIPC | Não | Sim | Código | Emp, Conc | Privado | PE ou EA |
 | 1.2 | Descrição | Não | Sim | Texto | Emp, Conc | Privado | PE ou EA |
@@ -506,9 +534,9 @@ Emp, Conc: empreitadas, concessão de obras públicas.
 
 [a que se refere a alínea e) do n.º 1 do artigo 7.º]
 
-|  |  |  |  |  |  |  |  |
+| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado<br>por PE/EA * |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado por PE/EA * |
+|  |  |  |  |  |  |  |  |
 | 1 | Data de envio de convites | Não | Sim | Data | A que se refere a alínea e) do n.º 1 do artigo 7.º | Privado | PE ou EA |
 | 2 | Versão | Sim | Sim | Numérico | A que se refere a alínea e) do n.º 1 do artigo 7.º | Privado | PE ou EA |
 | 3 | Convidados | Sim | Sim | -- | A que se refere a alínea e) do n.º 1 do artigo 7.º | Público | PE ou EA |
@@ -521,9 +549,9 @@ Emp, Conc: empreitadas, concessão de obras públicas.
 
 [a que se refere a alínea f) do n.º 1 do artigo 7.º]
 
-|  |  |  |  |  |  |  |  |
+| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado<br>por PE/EA * |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado por PE/EA * |
+|  |  |  |  |  |  |  |  |
 | 1 | Versão | Sim | Sim | Numérico | A que se refere a alínea f) do n.º 1 do artigo 7.º | Privado | PE |
 | 2 | Dados associados ao desenvolvimento do procedimento | Não | - | - | A que se refere a alínea f) do n.º 1 do artigo 7.º | Privado | PE |
 | 2.1 | Data do termo do prazo de apresentação das candidaturas | Não | Sim | Data | A que se refere a alínea f) do n.º 1 do artigo 7.º | Privado | PE |
@@ -544,9 +572,9 @@ Emp, Conc: empreitadas, concessão de obras públicas.
 
 [a que se refere a alínea g) do n.º 1 do artigo 7.º]
 
-|  |  |  |  |  |  |  |  |
+| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado<br>por PE/EA |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado por PE/EA |
+|  |  |  |  |  |  |  |  |
 | 1 | Versão | Sim | Sim | Numérico | A que se refere a alínea g) do n.º 1 do artigo 7.º | Privado | PE |
 | 2 | Dados associados ao desenvolvimento do procedimento | Não | Sim | - | A que se refere a alínea g) do n.º 1 do artigo 7.º | Privado | PE |
 | 2.1 | Data do termo do prazo de apresentação das soluções | Não | Sim | Data | A que se refere a alínea g) do n.º 1 do artigo 7.º | Privado | PE |
@@ -566,9 +594,9 @@ Emp, Conc: empreitadas, concessão de obras públicas.
 
 [a que se refere a alínea h) do n.º 1 do artigo 7.º]
 
-|  |  |  |  |  |  |  |  |
+| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado<br>por PE/EA * |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado por PE/EA * |
+|  |  |  |  |  |  |  |  |
 | 1 | Versão | Sim | Sim | Numérico | A que se refere a alínea h) do n.º 1 do artigo 7.º | Privado | PE ou EA |
 | 2 | Dados associados ao desenvolvimento do procedimento | Não | Sim | - | A que se refere a alínea h) do n.º 1 do artigo 7.º | - | PE ou EA |
 | 2.1 | Data do termo do prazo de apresentação das propostas | Não | Sim | Data | A que se refere a alínea h) do n.º 1 do artigo 7.º | Privado | PE ou EA |
@@ -603,9 +631,9 @@ Emp, Conc: empreitadas, concessão de obras públicas.
 
 [a que se refere a alínea i) do n.º 1 do artigo 7.º]
 
-|  |  |  |  |  |  |  |  |
+| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado<br>por PE/EA |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado por PE/EA |
+|  |  |  |  |  |  |  |  |
 | 1 | Dados associados ao desenvolvimento do procedimento | Não | Sim | - | A que se refere a alínea i) do n.º 1 do artigo 7.º | Privado | PE |
 | 1.1 | Data de apresentação dos documentos de habilitação pelo adjudicatário | Não | Sim | Data | A que se refere a alínea i) do n.º 1 do artigo 7.º | Privado | PE |
 | 1.2 | Data da decisão de adjudicação | Não | Sim | Data | A que se refere a alínea i) do n.º 1 do artigo 7.º | Privado | PE |
@@ -626,9 +654,9 @@ Emp, Conc: empreitadas, concessão de obras públicas.
 
 [a que se refere a alínea j) do n.º 1 do artigo 7.º]
 
-|  |  |  |  |  |  |  |  |
+| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado<br>por PE/EA |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado por PE/EA |
+|  |  |  |  |  |  |  |  |
 | 1 | Identificação do impugnante | Não | Sim | - | A que se refere a alínea j) do n.º 1 do artigo 7.º | Público | PE ou EA |
 | 2 | Identificação do destinatário (administrativo/judicial/arbitragem) | Não | Sim | Texto | A que se refere a alínea j) do n.º 1 do artigo 7.º | Público | PE ou EA |
 | 3 | Objeto da impugnação | Não | Sim | Código | A que se refere a alínea j) do n.º 1 do artigo 7.º | Público | PE ou EA |
@@ -656,9 +684,9 @@ Emp, Conc: empreitadas, concessão de obras públicas.
 
 [a que se refere a alínea k) do n.º 1 do artigo 7.º]
 
-|  |  |  |  |  |  |  |  |
+| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado<br>por PE/EA * |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado por PE/EA * |
+|  |  |  |  |  |  |  |  |
 | 1 | Entidade(s) Adjudicante(s) | Não | Sim | - | Todos os Procedimentos | Público | PE ou EA |
 | 1.1 | NIPC | Não | Sim | Código | Todos os Procedimentos | Público | PE ou EA |
 | 1.2 | Descrição | Não | Sim | Texto | Todos os Procedimentos | Público | PE ou EA |
@@ -885,9 +913,9 @@ Emp, Conc: empreitadas, concessão de obras públicas.
 
 [a que se refere a alínea l) do n.º 1 do artigo 7.º]
 
-|  |  |  |  |  |  |  |  |
+| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado<br>por PE/EA |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado por PE/EA |
+|  |  |  |  |  |  |  |  |
 | 1 | Entidade(s) Adjudicante(s) | Sim | Sim | - | A que se refere a alínea l) do n.º 1 do artigo 7.º | Público | PE ou EA |
 | 1.1 | NIPC | Não | Sim | Código | A que se refere a alínea l) do n.º 1 do artigo 7.º | Público | PE ou EA |
 | 1.2 | Descrição | Não | Sim | Texto | A que se refere a alínea l) do n.º 1 do artigo 7.º | Público | PE ou EA |
@@ -907,9 +935,9 @@ Emp, Conc: empreitadas, concessão de obras públicas.
 
 [a que se refere a alínea m) do n.º 1 do artigo 7.º]
 
-|  |  |  |  |  |  |  |  |
+| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado<br>por PE/EA |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado por PE/EA |
+|  |  |  |  |  |  |  |  |
 | 1 | Entidade(s) Adjudicante(s) | Sim | Sim | - | Todos os Procedimentos | Público | PE ou EA |
 | 1.1 | NIPC | Não | Sim | Código | Todos os Procedimentos | Público | PE ou EA |
 | 1.2 | Descrição | Não | Sim | Texto | Todos os Procedimentos | Público | PE ou EA |
@@ -993,9 +1021,9 @@ Emp, Conc: empreitadas, concessão de obras públicas.
 
 [a que se refere a alínea n) do n.º 1 do artigo 7.º]
 
-|  |  |  |  |  |  |  |  |
+| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado<br>por PE/EA |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado por PE/EA |
+|  |  |  |  |  |  |  |  |
 | 1 | Entidade(s) Adjudicante(s) | Sim | Sim | - | A que se refere a alínea n) do n.º 1 do artigo 7.º | Público | EA |
 | 1.1 | NIPC | Não | Sim | Código | A que se refere a alínea n) do n.º 1 do artigo 7.º | Público | EA |
 | 1.2 | Descrição | Não | Sim | Texto | A que se refere a alínea n) do n.º 1 do artigo 7.º | Público | EA |
@@ -1035,9 +1063,9 @@ Emp, Conc: empreitadas, concessão de obras públicas.
 
 [a que se refere a alínea o) do n.º 1 do artigo 7.º]
 
-|  |  |  |  |  |  |  |  |
+| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado<br>por PE/EA * |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado por PE/EA * |
+|  |  |  |  |  |  |  |  |
 | 1 | Entidade(s) Adjudicante(s) | Sim | Sim | - | Todos os casos | Público | PE ou EA |
 | 1.1 | NIPC | Não | Sim | Código | Todos os casos | Público | PE ou EA |
 | 1.2 | Descrição | Não | Sim | Texto | Todos os casos | Público | PE ou EA |
@@ -1104,9 +1132,9 @@ Emp, Conc: empreitadas, concessão de obras públicas.
 
 [a que se refere a alínea p) do n.º 1 do artigo 7.º]
 
-|  |  |  |  |  |  |  |  |
+| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado<br>por PE/EA |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado por PE/EA |
+|  |  |  |  |  |  |  |  |
 | 1 | Entidade(s) Adjudicante(s) | Sim | Sim | - | Empreitadas e obras públicas | Público | PE ou EA |
 | 1.1 | NIPC | Não | Sim | Código | Empreitadas e obras públicas | Público | PE ou EA |
 | 1.2 | Descrição | Não | Sim | Código | Empreitadas e obras públicas | Público | PE ou EA |
@@ -1180,15 +1208,15 @@ Emp, Conc: empreitadas, concessão de obras públicas.
 
 [a que se refere a alínea q) do n.º 1 do artigo 7.º]
 
-|  |  |  |  |  |  |  |  |
+| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado<br>por PE/EA |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado por PE/EA |
+|  |  |  |  |  |  |  |  |
 | 1 | Entidade(s) Adjudicante(s) | Sim |  |  | Todos os casos | Público | EA |
 | 1.1 | NIPC | Não | Sim | Código | Todos os casos | Público | EA |
 | 1.2 | Descrição | Não | Sim | Código | Todos os casos | Público | EA |
 | 1.3 | País | Não | Sim | Código | Todos os casos | Público | EA |
 | 2 | Identificação do procedimento | Não | Sim | Código | Todos os casos | Privado | EA |
-| 3 | Identificação do concorrente/ candidato | Não | Sim | Código | Todos os casos | Privado | EA |
+| 3 | Identificação do concorrente/<br>candidato | Não | Sim | Código | Todos os casos | Privado | EA |
 | 4 | Identificação do contrato | Não | Sim | Texto | Todos os casos | Privado | EA |
 | 5 | Identificação do adjudicatário | Não | Sim | Código | Todos os casos | Privado | EA |
 | 6 | Descrição da ocorrência | Não | Sim | Texto | Todos os casos | Privado | EA |
@@ -1230,9 +1258,9 @@ Emp, Conc: empreitadas, concessão de obras públicas.
 
 [a que se refere a alínea r) do n.º 1 do artigo 7.º]
 
-|  |  |  |  |  |  |  |  |
+| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado<br>por PE/EA |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado por PE/EA |
+|  |  |  |  |  |  |  |  |
 | 1 | Entidade(s) Adjudicante(s) | Sim | Sim | - | A que se refere a alínea r) do n.º 1 do artigo 7.º | Público | EA |
 | 1.1 | NIPC | Não | Sim | Código | A que se refere a alínea r) do n.º 1 do artigo 7.º | Público | EA |
 | 1.2 | Descrição | Não | Sim | Texto | A que se refere a alínea r) do n.º 1 do artigo 7.º | Público | EA |
@@ -1258,9 +1286,9 @@ Emp, Conc: empreitadas, concessão de obras públicas.
 
 [a que se refere a alínea s) do n.º 1 do artigo 7.º]
 
-|  |  |  |  |  |  |  |  |
+| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado<br>por PE/EA * |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado por PE/EA * |
+|  |  |  |  |  |  |  |  |
 | 1 | Entidade(s) Adjudicante(s) | Sim | Sim | - | Todos os Procedimentos | Público | PE ou EA |
 | 1.1 | NIPC | Não | Sim | Código | Todos os Procedimentos | Público | PE ou EA |
 | 1.2 | Descrição | Não | Sim | Texto | Todos os Procedimentos | Público | PE ou EA |
@@ -1287,9 +1315,9 @@ Emp, Conc: empreitadas, concessão de obras públicas.
 
 [a que se refere a alínea t) do n.º 1 do artigo 7.º]
 
-|  |  |  |  |  |  |  |  |
+| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado<br>por PE/EA |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado por PE/EA |
+|  |  |  |  |  |  |  |  |
 | 1 | Bloco de dados | Sim | Sim | - | Todos os Procedimentos | Público | PE ou EA |
 | 1.1 | Identificador das Secções Alteradas do Anúncio Anterior | Sim | Sim | Código | Todos os Procedimentos | Público | PE ou EA |
 | 1.2 | Identificador da Versão do Anúncio a Alterar | Não | Sim | Código | Todos os Procedimentos | Público | PE ou EA |
@@ -1303,9 +1331,9 @@ Emp, Conc: empreitadas, concessão de obras públicas.
 
 [a que se refere a alínea a) do n.º 2 do artigo 7.º]
 
-|  |  |  |  |  |  |  |  |
+| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado<br>por PE/EA |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado por PE/EA |
+|  |  |  |  |  |  |  |  |
 | 1 | Entidade(s) Adjudicante(s) | Sim | Sim | - | Todos os Procedimentos | Público | PE ou EA |
 | 1.1 | NIPC | Não | Sim | Código | Todos os Procedimentos | Público | PE ou EA |
 | 1.2 | Descrição | Não | Sim | Texto | Todos os Procedimentos | Público | PE ou EA |
@@ -1344,9 +1372,9 @@ Emp, Conc: empreitadas, concessão de obras públicas.
 
 [a que se refere a alínea b) do n.º 2 do artigo 7.º]
 
-|  |  |  |  |  |  |  |  |
+| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado<br>por PE/EA |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado por PE/EA |
+|  |  |  |  |  |  |  |  |
 | 1 | Aviso | Não | Sim | - | Todos os Procedimentos | Público | PE ou EA |
 | 1.1 | Identificador do Processo | Não | Sim | Numérico | Todos os Procedimentos | Público | PE ou EA |
 | 1.2 | Identificador do Anúncio | Não | Sim | Numérico | Procedimentos concursais | Público | PE ou EA |
@@ -1472,9 +1500,9 @@ Emp, Conc: empreitadas, concessão de obras públicas.
 
 [a que se refere a alínea c) do n.º 2 do artigo 7.º]
 
-|  |  |  |  |  |  |  |  |
+| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado<br>por PE/EA |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nível | Elemento | Repetível | Obrigatório | Tipo | Grupo | Público/Privado | Registado por PE/EA |
+|  |  |  |  |  |  |  |  |
 | 1 | Entidade(s) Adjudicante(s) | Sim | Sim | - | Todos os Procedimentos | Público | PE ou EA |
 | 1.1 | NIPC | Não | Sim | Código | Todos os Procedimentos | Público | PE ou EA |
 | 1.2 | Descrição | Não | Sim | Texto | Todos os Procedimentos | Público | PE ou EA |
@@ -1522,3 +1550,5 @@ Registado por Plataforma Eletrónica.
 Registado por Entidade Adjudicante.
 
 Registado por PE/EA* Registado por Plataforma Eletrónica ou software de gestão (p.ex. ERP) ou Electronic Data Interchange, ou pela Entidade Adjudicante.
+
+117197632

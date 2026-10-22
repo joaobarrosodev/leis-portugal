@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43894-1961-180993
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-08-26T00:00:00Z'
+  retrieved_at: '2026-10-22T19:25:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af6038fd914bce6649d014dfb3d33dacaa7478919aa91b4601cab57c83c0c95a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f0a4b60496ec0d0b8627f94bbac7714b914d29f2df855699e10e5f2ff8f99fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:25:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,36 @@ relationships:
   target: pt:dre:469428:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:306194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550220:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 42
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:25:24Z'
   warnings: []
   errors: []
 ---
@@ -166,11 +186,11 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento da Ocupação e Concessão de Terrenos nas Províncias Ultramarinas, que, junto a este decreto, baixa assinado pelo Ministro do Ultramar.
+Artigo 1.º É aprovado o Regulamento da Ocupação e Concessão de Terrenos nas Províncias Ultramarinas, que, junto a este decreto, baixa assinado pelo Ministro do Ultramar.
 
-###### Art. 2.º O regulamento é aplicável às províncias da Guiné, Angola e Moçambique e poderá ser mandado aplicar, por portaria, a outras províncias, conforme as circunstâncias locais recomendarem.
+Art. 2.º O regulamento é aplicável às províncias da Guiné, Angola e Moçambique e poderá ser mandado aplicar, por portaria, a outras províncias, conforme as circunstâncias locais recomendarem.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Setembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 
@@ -182,7 +202,7 @@ Regulamento da Ocupação e Concessão de Terrenos nas Províncias Ultramarinas
 
 ### CAPÍTULO I — Do domínio público do Estado e do património das províncias
 
-###### Artigo 1.º Pertencem ao domínio público do Estado no ultramar, os terrenos adiante enumerados:
+Artigo 1.º Pertencem ao domínio público do Estado no ultramar, os terrenos adiante enumerados:
 
 1.º Os leitos ou álveos das águas marítimas ou interiores referidas nos n.os 2 e 3 do artigo 49.º da Constituição Política;
 
@@ -210,7 +230,7 @@ Regulamento da Ocupação e Concessão de Terrenos nas Províncias Ultramarinas
 
 § 4.º Quando só uma parte da corrente for navegável ou flutuável, só a esta caberá a correspondente classificação.
 
-###### Art. 2.º Constituem património de cada província ultramarina, embora sujeitos a regime especial, os terrenos vagos.
+Art. 2.º Constituem património de cada província ultramarina, embora sujeitos a regime especial, os terrenos vagos.
 
 § 1.º Consideram-se vagos os terrenos que não tenham entrado definitivamente no regime de propriedade privada ou de domínio público.
 
@@ -220,43 +240,43 @@ Regulamento da Ocupação e Concessão de Terrenos nas Províncias Ultramarinas
 
 § 4.º O domínio público referido no § 1.º abrange tanto o domínio público do Estado como o domínio público das autarquias locais.
 
-###### Art. 3.º As províncias podem adquirir para o seu património privado parcelas de terrenos vagos, nos termos e com os efeitos dos artigos 44.º e seguintes.
+Art. 3.º As províncias podem adquirir para o seu património privado parcelas de terrenos vagos, nos termos e com os efeitos dos artigos 44.º e seguintes.
 
 ### CAPÍTULO II — Dos terrenos pertencentes ao domínio público do Estado
 
-###### Art. 4.º Os terrenos pertencentes ao domínio público do Estado só podem ser objecto de uso privativo nos casos e conforme as regras dos artigos seguintes.
+Art. 4.º Os terrenos pertencentes ao domínio público do Estado só podem ser objecto de uso privativo nos casos e conforme as regras dos artigos seguintes.
 
 § único. Sobre terrenos do domínio público do Estado não podem ser adquiridos direitos por meio de prescrição.
 
 #### SECÇÃO I — Do leito do mar na plataforma submarina
 
-###### Art. 5.º A utilização do leito do mar na plataforma submarina definida na [Lei n.º 2080](https://diariodarepublica.pt/dr/detalhe/lei/2080-1956-306194), de 21 de Março de 1916, só por despacho do Conselho de Ministros, sobre proposta do Ministro do Ultramar, pode ser autorizada.
+Art. 5.º A utilização do leito do mar na plataforma submarina definida na [Lei n.º 2080](https://diariodarepublica.pt/dr/detalhe/lei/2080-1956-306194), de 21 de Março de 1916, só por despacho do Conselho de Ministros, sobre proposta do Ministro do Ultramar, pode ser autorizada.
 
-###### Art. 6.º As autorizações são dadas sempre a título precário e ficam sujeitas às condições estabelecidas neste diploma para utilização dos outros terrenos do domínio público do Estado, que sejam compatíveis com a sua natureza, além daquelas que especialmente forem fixadas nos respectivos despachos.
+Art. 6.º As autorizações são dadas sempre a título precário e ficam sujeitas às condições estabelecidas neste diploma para utilização dos outros terrenos do domínio público do Estado, que sejam compatíveis com a sua natureza, além daquelas que especialmente forem fixadas nos respectivos despachos.
 
-###### Art. 7.º Qualquer utilização do leito do mar na plataforma submarina deve observar as condições estabelecidas na base III da [Lei n.º 2080](https://diariodarepublica.pt/dr/detalhe/lei/2080-1956-306194), quanto ao regime de alto mar das águas epicontinentais.
+Art. 7.º Qualquer utilização do leito do mar na plataforma submarina deve observar as condições estabelecidas na base III da [Lei n.º 2080](https://diariodarepublica.pt/dr/detalhe/lei/2080-1956-306194), quanto ao regime de alto mar das águas epicontinentais.
 
 § único. O utente prestará caução para garantir a indemnização de quaisquer perdas e danos emergentes de violação do disposto no corpo do artigo.
 
 #### SECÇÃO II — Dos outros terrenos pertencentes ao domínio público do Estado
 
-###### Art. 8.º Os terrenos pertencentes ao domínio público do Estado podem ser ocupados nos termos e para os fins do artigo 228.º, mas em relação a eles não é aplicável o disposto nos artigos 227.º e 229.º
+Art. 8.º Os terrenos pertencentes ao domínio público do Estado podem ser ocupados nos termos e para os fins do artigo 228.º, mas em relação a eles não é aplicável o disposto nos artigos 227.º e 229.º
 
-###### Art. 9.º Os terrenos do domínio público do Estado referidos nos n.os 3.º, 7.º, 8.º e 9.º do artigo 1.º só podem ser usados ou ocupados a título precário.
+Art. 9.º Os terrenos do domínio público do Estado referidos nos n.os 3.º, 7.º, 8.º e 9.º do artigo 1.º só podem ser usados ou ocupados a título precário.
 
 § único. Os governos das províncias ultramarinas gozarão, a respeito destes terrenos, dos direitos que este diploma lhes atribui relativamente a terrenos do património das províncias que só possam ser usados ou ocupados em idênticas condições.
 
-###### Art. 10.º Os terrenos referidos nos n.os 7.º, 8.º e 9.º do artigo 1.º deste diploma podem ser desintegrados do domínio público do Estado e incluídos no domínio público das autarquias locais, mediante as autorizações exigidas por lei e a sua inclusão em forais.
+Art. 10.º Os terrenos referidos nos n.os 7.º, 8.º e 9.º do artigo 1.º deste diploma podem ser desintegrados do domínio público do Estado e incluídos no domínio público das autarquias locais, mediante as autorizações exigidas por lei e a sua inclusão em forais.
 
-###### Art. 11.º Os terrenos incluídos nos n.os 7.º, 8.º e 9.º do artigo 1.º podem ser incluídos em povoações classificadas, mediante prévia e expressa autorização do Ministro do Ultramar.
+Art. 11.º Os terrenos incluídos nos n.os 7.º, 8.º e 9.º do artigo 1.º podem ser incluídos em povoações classificadas, mediante prévia e expressa autorização do Ministro do Ultramar.
 
 § único. Efectuada a inclusão, ficam os referidos terrenos sujeitos ao regime geral dos terrenos dessa classe, salvo quanto ao disposto no artigo seguinte.
 
-###### Art. 12.º A concessão de terrenos referidos no artigo anterior só é válida se tiver prèviamente sido autorizada pelo Ministro do Ultramar, ouvidas as instâncias competentes.
+Art. 12.º A concessão de terrenos referidos no artigo anterior só é válida se tiver prèviamente sido autorizada pelo Ministro do Ultramar, ouvidas as instâncias competentes.
 
 § único. O Ministro do Ultramar pode delegar nos governadores a competência prevista no corpo do artigo, mas, em cada caso, os governadores indicarão expressamente que a concessão tem por objecto terrenos desta natureza e pode ser efectuada sem prejuízo de interesses públicos.
 
-###### Art. 13.º Nas áreas das povoações marítimas ou nas destinadas à sua natural expansão, as concessões ou subconcessões de terrenos ficam sujeitas às seguintes regras:
+Art. 13.º Nas áreas das povoações marítimas ou nas destinadas à sua natural expansão, as concessões ou subconcessões de terrenos ficam sujeitas às seguintes regras:
 
 a) Não poderão ser feitas a estrangeiros sem aprovação do Conselho de Ministros;
 
@@ -264,17 +284,17 @@ b) Serão condicionadas ao efectivo aproveitamento dos terrenos pelos concession
 
 ### CAPÍTULO III — Das reservas
 
-###### Art. 14.º Denominam-se reservas os tractos de terreno excluídos do regime geral de uso ou ocupação, tendo em vista fins especiais.
+Art. 14.º Denominam-se reservas os tractos de terreno excluídos do regime geral de uso ou ocupação, tendo em vista fins especiais.
 
 § 1.º Dizem-se totais as reservas em que não é permitido qualquer uso ou ocupação por entidades públicas ou particulares, salvos os necessários à conservação das reservas ou à sua exploração para efeitos científicos ou turísticos.
 
 § 2.º Dizem-se parciais as reservas em que só é permitido o uso ou ocupação para os fins visados ao constituí-las.
 
-###### Art. 15.º Na delimitação das reservas podem incluir-se terrenos do domínio público, sem prejuízo do regime especial a que estes estão sujeitos.
+Art. 15.º Na delimitação das reservas podem incluir-se terrenos do domínio público, sem prejuízo do regime especial a que estes estão sujeitos.
 
-###### Art. 16.º São reservas totais os parques nacionais e as reservas naturais integrais, definidas no artigo 31.º do [Decreto n.º 40040](https://diariodarepublica.pt/dr/detalhe/decreto/40040-1955-539198), de 20 de Janeiro de 1955.
+Art. 16.º São reservas totais os parques nacionais e as reservas naturais integrais, definidas no artigo 31.º do [Decreto n.º 40040](https://diariodarepublica.pt/dr/detalhe/decreto/40040-1955-539198), de 20 de Janeiro de 1955.
 
-###### Art. 17.º Podem ser constituídas as seguintes reservas parciais:
+Art. 17.º Podem ser constituídas as seguintes reservas parciais:
 
 1.º Reservas para povoações, nos termos do artigo 34.º deste diploma;
 
@@ -292,41 +312,41 @@ b) Serão condicionadas ao efectivo aproveitamento dos terrenos pelos concession
 
 8.º Reservas para explorações pecuárias, de harmonia com a legislação especial relativa a fomento pecuário. Art. 18.º As reservas de povoamento compreendem as estabelecidas com o fim de modificar ou aumentar o povoamento nas respectivas áreas, nelas se incluindo as zonas de protecção de captação de águas para abastecimento das povoações.
 
-###### Art. 19.º Incluem-se nas reservas para instalação de serviços públicos os terrenos livres que a este fim forem destinados, em povoações classificadas, de harmonia com o artigo 30.º, e nas reservas de povoamento os terrenos livres destinados à habitação de classes menos abastadas, nos termos do mesmo artigo.
+Art. 19.º Incluem-se nas reservas para instalação de serviços públicos os terrenos livres que a este fim forem destinados, em povoações classificadas, de harmonia com o artigo 30.º, e nas reservas de povoamento os terrenos livres destinados à habitação de classes menos abastadas, nos termos do mesmo artigo.
 
 § 1.º As reservas referidas no corpo do artigo consideram-se constituídas pela simples classificação das povoações.
 
 § 2.º Consideram-se como sendo para instalação de serviços públicos as reservas de terrenos destinados à construção de linhas férreas e ao estabelecimento das faixas referidas no n.º 9.º, e no § 1.º do artigo 1.º
 
-###### Art. 20.º Considera-se constituída, por simples efeito da lei, ao longo da fronteira terrestre de cada província, uma reserva de fronteira, com a largura efectiva de 2 km.
+Art. 20.º Considera-se constituída, por simples efeito da lei, ao longo da fronteira terrestre de cada província, uma reserva de fronteira, com a largura efectiva de 2 km.
 
 § 1.º Os governos podem alargar, em toda a província ou em parte dela, a reserva de fronteira até 10 km.
 
 § 2.º A reserva de fronteira não impede o estabelecimento de povoações e a utilização dos terrenos destas, nas formas permitidas por lei.
 
-###### Art. 21.º Com o fim de facilitar a instalação de aproveitamentos hidroeléctricos ou hidroagrícolas, podem ser criadas reservas parciais em terrenos adjacentes aos troços de cursos de água que se mostrem apropriados para esse efeito.
+Art. 21.º Com o fim de facilitar a instalação de aproveitamentos hidroeléctricos ou hidroagrícolas, podem ser criadas reservas parciais em terrenos adjacentes aos troços de cursos de água que se mostrem apropriados para esse efeito.
 
 § 1.º As reservas desta natureza não podem ter largura superior a 6 km para cada um dos lados do curso de água.
 
 § 2.º Os terrenos destas reservas só podem ser ocupados pelos serviços ou empresas a quem for confiada a construção ou utilização do aproveitamento hidroeléctrico.
 
-###### Art. 22.º As reservas podem coexistir quando os seus fins forem compatíveis e segundo as formas de conjugação indicadas nos diplomas que as constituírem.
+Art. 22.º As reservas podem coexistir quando os seus fins forem compatíveis e segundo as formas de conjugação indicadas nos diplomas que as constituírem.
 
-###### Art. 23.º Cada reserva será delimitada geográfica, corográfica e tipogràficamente, conforme os casos e a respectiva área.
+Art. 23.º Cada reserva será delimitada geográfica, corográfica e tipogràficamente, conforme os casos e a respectiva área.
 
-###### Art. 24.º Quando este regulamento não disponha outra coisa, as reservas são constituídas por diploma do governador.
+Art. 24.º Quando este regulamento não disponha outra coisa, as reservas são constituídas por diploma do governador.
 
 § único. As reservas de povoamento podem também ser constituídas pelo Ministro do Ultramar, em portaria.
 
-###### Art. 25.º A constituição de uma reserva não prejudica os direitos constituídos anteriormente, mas faz caducar as autorizações para uso ou ocupação a título precário e faz cessar as demarcações provisórias, salvo expressa indicação genérica ou especial de que são conformes com os fins da reserva.
+Art. 25.º A constituição de uma reserva não prejudica os direitos constituídos anteriormente, mas faz caducar as autorizações para uso ou ocupação a título precário e faz cessar as demarcações provisórias, salvo expressa indicação genérica ou especial de que são conformes com os fins da reserva.
 
-###### Art. 26.º O levantamento das reservas é da competência da, entidade que as constituiu.
+Art. 26.º O levantamento das reservas é da competência da, entidade que as constituiu.
 
 § único. O levantamento de reservas da competência do governador efectua-se por diploma legislativo, no caso de reservas para povoações, de povoamento e para aproveitamentos hidroeléctricos ou hidroagrícolas de interesse público, e por portaria, nos restantes casos.
 
 ### CAPÍTULO IV — Das povoações
 
-###### Art. 27.º As povoações dizem-se classificadas quando são incluídas na Lista de Classificação de Povoações.
+Art. 27.º As povoações dizem-se classificadas quando são incluídas na Lista de Classificação de Povoações.
 
 § 1.º A Lista de Classificação de Povoações é aprovada por diploma do governador e publicada no Boletim Oficial, devendo conter a descrição de cada povoação e seus subúrbios e indicar a respectiva ordem.
 
@@ -334,7 +354,7 @@ b) Serão condicionadas ao efectivo aproveitamento dos terrenos pelos concession
 
 § 3.º A classificação da povoação conta-se da data da publicação no Boletim Oficial do diploma que a mandar incluir na Lista.
 
-###### Art. 28.º A classificação das povoações é feita sobre processo organizado pelos serviços de agrimensura, do qual constem:
+Art. 28.º A classificação das povoações é feita sobre processo organizado pelos serviços de agrimensura, do qual constem:
 
 1.º Proposta de classificação feita pela autoridade administrativa do distrito, concelho ou circunscrição, conforme os casos;
 
@@ -348,27 +368,27 @@ b) Serão condicionadas ao efectivo aproveitamento dos terrenos pelos concession
 
 § 2.º As plantas ou esboços aprovados para povoações classificadas, bem como quaisquer modificações que posteriormente lhes sejam introduzidas, estarão patentes ao público na sede dos serviços de agrimensura, bem como nas suas repartições distritais e nas secretarias dos postos e concelhos ou circunscrições administrativos em cuja área fique situada a povoação, publicando-se no Boletim Oficial aviso deste facto.
 
-###### Art. 29.º As áreas e limites das povoações classificadas e as dos seus subúrbios serão fixadas em cada província, segundo a importância daquelas.
+Art. 29.º As áreas e limites das povoações classificadas e as dos seus subúrbios serão fixadas em cada província, segundo a importância daquelas.
 
-###### Art. 30.º Os governadores não mandarão proceder à classificação de povoações em cujas plantas ou esboços de traçado não figurem terrenos destinados à instalação dos serviços públicos que possam prever-se e à habitação de classes de reconhecida insuficiência de meios, os quais só poderão ser desafectados destes fins por imposições de ordem urbanística e desde que outros terrenos de área equivalente sejam atribuídos a esses mesmos fins.
+Art. 30.º Os governadores não mandarão proceder à classificação de povoações em cujas plantas ou esboços de traçado não figurem terrenos destinados à instalação dos serviços públicos que possam prever-se e à habitação de classes de reconhecida insuficiência de meios, os quais só poderão ser desafectados destes fins por imposições de ordem urbanística e desde que outros terrenos de área equivalente sejam atribuídos a esses mesmos fins.
 
-###### Art. 31.º A planta das povoações classificadas de 1.ª ordem e os esboços dos traçados das povoações classificadas de 2.ª ordem podem ser rectificados ou alterados em qualquer altura, sem prejuízo dos direitos que desde a classificação tenham sido constituídos sobre os respectivos terrenos.
+Art. 31.º A planta das povoações classificadas de 1.ª ordem e os esboços dos traçados das povoações classificadas de 2.ª ordem podem ser rectificados ou alterados em qualquer altura, sem prejuízo dos direitos que desde a classificação tenham sido constituídos sobre os respectivos terrenos.
 
-###### Art. 32.º Classificada a povoação, os serviços procederão à implantação no terreno e às obras necessárias, de conformidade com o projecto aprovado.
+Art. 32.º Classificada a povoação, os serviços procederão à implantação no terreno e às obras necessárias, de conformidade com o projecto aprovado.
 
-###### Art. 33.º As povoações classificadas podem ser de 1.ª ou de 2.ª ordem.
+Art. 33.º As povoações classificadas podem ser de 1.ª ou de 2.ª ordem.
 
 § 1.º É de 1.ª ordem a povoação da qual tenha sido aprovada a planta topográfica, abrangendo os subúrbios e de que tenha sido implantado no terreno o respectivo plano de urbanização ou, na falta deste, o plano de divisão em talhões ou quarteirões.
 
 § 2.º São de 2.ª ordem as povoações de que tenha sido feito um levantamento expedito ou a fotografia aérea vertical e de cujo traçado tenham sido aprovados pelos governadores de distrito ou de província de governo simples esboços para fins de demarcações e concessões.
 
-###### Art. 34.º Os governadores-gerais, de província ou de distrito podem reservar terreno para a criação de povoações.
+Art. 34.º Os governadores-gerais, de província ou de distrito podem reservar terreno para a criação de povoações.
 
 § 1.º A reserva feita pelo governador de distrito deve ser sujeita a confirmação do governador-geral no prazo de seis meses, a qual se considerará negada se o respectivo diploma não for publicado nos seis meses seguintes.
 
 § 2.º O pedido de confirmação da reserva deve ser formulado juntamente com o pedido de classificação da povoação.
 
-###### Art. 35.º A reserva produz os seguintes efeitos:
+Art. 35.º A reserva produz os seguintes efeitos:
 
 1.º Quando necessite de confirmação, exclui os terrenos do regime de concessão de terrenos de 3.ª classe;
 
@@ -378,13 +398,13 @@ b) Serão condicionadas ao efectivo aproveitamento dos terrenos pelos concession
 
 § único. A reserva caduca se a povoação não for classificada até três anos depois da constituição daquela.
 
-###### Art. 36.º Consideram-se povoações comerciais ou de carácter comercial as concentrações populacionais que possuam determinadas características, consignadas em diploma especial, e as povoações sedes de concelho, circunscrição ou posto administrativo, bem como as estabelecidas junto às estações e apeadeiros de caminho de ferro.
+Art. 36.º Consideram-se povoações comerciais ou de carácter comercial as concentrações populacionais que possuam determinadas características, consignadas em diploma especial, e as povoações sedes de concelho, circunscrição ou posto administrativo, bem como as estabelecidas junto às estações e apeadeiros de caminho de ferro.
 
 § único. A designação de uma povoação como comercial produz, sem mais formalidades, a reserva dos respectivos terrenos, nos termos do artigo 34.º, caso estes ainda não se encontrem reservados para o mesmo fim.
 
-###### Art. 37.º As povoações que se formarem nos subúrbios de outras serão consideradas suburbanas e para elas não serão fixados subúrbios.
+Art. 37.º As povoações que se formarem nos subúrbios de outras serão consideradas suburbanas e para elas não serão fixados subúrbios.
 
-###### Art. 38.º Considera-se povoação marítima aquela em que o perímetro confinar com o mar ou com terrenos da faixa marítima em, pelo menos, dois terços da sua extensão.
+Art. 38.º Considera-se povoação marítima aquela em que o perímetro confinar com o mar ou com terrenos da faixa marítima em, pelo menos, dois terços da sua extensão.
 
 § único. Consideram-se faixa marítima os terrenos abrangidos pelo n.º 7.º do artigo 1.º
 
@@ -392,7 +412,7 @@ b) Serão condicionadas ao efectivo aproveitamento dos terrenos pelos concession
 
 ### CAPÍTULO I — Dos direitos sobre terrenos
 
-###### Art. 39.º A província goza, relativamente aos terrenos vagos, dos seguintes direitos:
+Art. 39.º A província goza, relativamente aos terrenos vagos, dos seguintes direitos:
 
 a) Dispor deles, nos termos estabelecidos neste diploma e mais legislação especial;
 
@@ -400,7 +420,7 @@ b) Fazer utilizar pelos seus serviços os terrenos para estes reservados;
 
 c) Aproveitar os produtos dos terrenos, com sujeição aos regulamentos que disciplinarem as várias formas de aproveitamento.
 
-###### Art. 40.º A autorização para utilizar terrenos vagos pode ser dada tanto a serviços públicos dotados de personalidade jurídica como aos restantes e deverá especificar as condições a que fica sujeita, designadamente quanto ao pagamento de taxas, quando a natureza do serviço o permita.
+Art. 40.º A autorização para utilizar terrenos vagos pode ser dada tanto a serviços públicos dotados de personalidade jurídica como aos restantes e deverá especificar as condições a que fica sujeita, designadamente quanto ao pagamento de taxas, quando a natureza do serviço o permita.
 
 § 1.º O disposto no corpo do artigo não impede a concessão de terrenos a serviços públicos dotados de personalidade jurídica.
 
@@ -408,7 +428,7 @@ c) Aproveitar os produtos dos terrenos, com sujeição aos regulamentos que disc
 
 ### CAPÍTULO II — Da classificação dos terrenos
 
-###### Art. 41.º Para efeitos deste diploma, os terrenos vagos classificam-se em três classes.
+Art. 41.º Para efeitos deste diploma, os terrenos vagos classificam-se em três classes.
 
 § 1.º São de 1.ª classe os terrenos abrangidos pelas povoações classificadas, incluindo nestas os subúrbios.
 
@@ -416,9 +436,9 @@ c) Aproveitar os produtos dos terrenos, com sujeição aos regulamentos que disc
 
 § 3.º São de 3.ª classe os terrenos vagos não compreendidos na 1.ª ou na 2.ª classes.
 
-###### Art. 42.º A classificação dos terrenos na 1.ª classe opera-se pela classificação da povoação.
+Art. 42.º A classificação dos terrenos na 1.ª classe opera-se pela classificação da povoação.
 
-###### Art. 43.º A classificação dos terrenos na 2.ª classe efectua-se pela demarcação, de harmonia com os artigos 72.º e seguintes deste diploma.
+Art. 43.º A classificação dos terrenos na 2.ª classe efectua-se pela demarcação, de harmonia com os artigos 72.º e seguintes deste diploma.
 
 § único. Uma vez classificados como de 2.ª classe, os terrenos só podem passar a outra classe por efeito de diploma como legislativo, cuja proposta especifique os fundamentos da mudança, designadamente quanto aos efeitos desta na vida das populações a que os terrenos estavam atribuídos.
 
@@ -426,13 +446,13 @@ c) Aproveitar os produtos dos terrenos, com sujeição aos regulamentos que disc
 
 #### SECÇÃO I — Da disposição a favor do património privado da província
 
-###### Art. 44.º Só podem ser adquiridos para o património privado da província os terrenos vagos:
+Art. 44.º Só podem ser adquiridos para o património privado da província os terrenos vagos:
 
 1.º Destinados à construção de edifícios para instalação de serviços públicos não dotados de personalidade jurídica, incluindo os respectivos logradouros;
 
 2.º Destinados ao funcionamento de serviços públicos não dotados de personalidade jurídica, até ao limite, por cada prédio, de 10 ha, sendo terrenos de 1.ª classe, e 1000 ha, sendo terrenos de 3.ª classe.
 
-###### Art. 45.º O título de aquisição é passado pelos serviços de agrimensura, mediante despacho do governador da província.
+Art. 45.º O título de aquisição é passado pelos serviços de agrimensura, mediante despacho do governador da província.
 
 § 1.º O processo a apresentar pelos serviços de agrimensura ao governador deve conter as informações desses e dos outros serviços interessados que permitam avaliar a necessidade e oportunidade da ocupação do terreno para os fins indicados e os reflexos que a aquisição pela província possa ter relativamente aos interesses de particulares na respectiva área.
 
@@ -442,13 +462,13 @@ c) Aproveitar os produtos dos terrenos, com sujeição aos regulamentos que disc
 
 § 4.º A produção de efeitos da aquisição ou da anulação relativamente a terceiros está sujeita às formalidades do registo predial.
 
-###### Art. 46.º Se os terrenos adquiridos pela província nos termos dos artigos antecedentes deixarem de ser utilizados pelos serviços públicos, os serviços de agrimensura proporão ao governador a sua reversão ao regime de terrenos vagos ou a sua manutenção no regime de propriedade privada, conforme as circunstâncias do terreno e as conveniências da Administração.
+Art. 46.º Se os terrenos adquiridos pela província nos termos dos artigos antecedentes deixarem de ser utilizados pelos serviços públicos, os serviços de agrimensura proporão ao governador a sua reversão ao regime de terrenos vagos ou a sua manutenção no regime de propriedade privada, conforme as circunstâncias do terreno e as conveniências da Administração.
 
 § único. A reversão ao regime de terrenos vagos opera-se por anulação do título de aquisição.
 
 #### SECÇÃO II — Dos forais
 
-###### Art. 47.º Pela concessão do foral a uma câmara municipal são transferidos para o património público da autarquia os terrenos vagos que naquele forem delimitados.
+Art. 47.º Pela concessão do foral a uma câmara municipal são transferidos para o património público da autarquia os terrenos vagos que naquele forem delimitados.
 
 § 1.º A transferência só pode abranger áreas de povoações do concelho, mas dentro do mesmo concelho podem ser incluídas no foral áreas de várias povoações.
 
@@ -466,23 +486,23 @@ c) Mostrarem-se assegurados o abastecimento de água, o fornecimento de energia 
 
 ##### SUBSECÇÃO I — Das espécies de disposição
 
-###### Art. 48.º Sobre terrenos vagos não podem ser adquiridos direitos por meio de prescrição ou de acessão imobiliária.
+Art. 48.º Sobre terrenos vagos não podem ser adquiridos direitos por meio de prescrição ou de acessão imobiliária.
 
-###### Art. 49.º São alienáveis por venda os terrenos de 1.ª classe ocupados por prédios urbanos ou adquiridos para construção deles, conforme definido neste diploma.
+Art. 49.º São alienáveis por venda os terrenos de 1.ª classe ocupados por prédios urbanos ou adquiridos para construção deles, conforme definido neste diploma.
 
 § 1.º A venda a seu favor dos terrenos de 1.ª classe já ocupados por prédios urbanos pode ser requerida pelo proprietário destes.
 
 § 2.º Os governos podem estabelecer que em zonas de povoação ainda não ocupadas por prédios urbanos, a disposição de terrenos para construção destes seja feita por venda.
 
-###### Art. 50.º São concedíveis por aforamento os terrenos de 1.ª classe e os de 3.ª classe destinados a fins agrícolas, agro-pecuários, industriais ou ainda silvícolas, como estiver previsto na legislação florestal para estes últimos.
+Art. 50.º São concedíveis por aforamento os terrenos de 1.ª classe e os de 3.ª classe destinados a fins agrícolas, agro-pecuários, industriais ou ainda silvícolas, como estiver previsto na legislação florestal para estes últimos.
 
 § 1.º Os terrenos de 1.ª classe situados nas povoações devem ser destinados a construção de edifícios para residências, estabelecimentos comerciais ou industriais, incluindo as respectivas dependências e logradouros ou outros fins urbanos, e os situados nos subúrbios das povoações devem destinar-se a hortas, pomares e construções urbanas, não podendo estas cobrir área superior a 1 por cento do terreno concedido, desde que não esteja aprovado o respectivo plano de atalhoamento.
 
 § 2.º Nos terrenos destinados a fins agrícolas, agro-pecuários, industriais ou silvícolas podem fazer-se as construções ou instalações necessárias à exploração.
 
-###### Art. 51.º São concedíveis mediante arrendamento os terrenos de 3.ª classe destinados a criação de gado e indústrias dela derivadas ou a exploração de florestas espontâneas.
+Art. 51.º São concedíveis mediante arrendamento os terrenos de 3.ª classe destinados a criação de gado e indústrias dela derivadas ou a exploração de florestas espontâneas.
 
-###### Art. 52.º Não são alienáveis nem concedíveis:
+Art. 52.º Não são alienáveis nem concedíveis:
 
 1.º Os terrenos que só possam ser ocupados por meio de licença especial;
 
@@ -492,7 +512,7 @@ c) Mostrarem-se assegurados o abastecimento de água, o fornecimento de energia 
 
 § único. Os terrenos de reservas parciais só podem ser vendidos ou concedidos para os fins especiais daquelas.
 
-###### Art. 53.º São ocupáveis mediante licença:
+Art. 53.º São ocupáveis mediante licença:
 
 1.º Os terrenos reservados por força dos n.os 1.º e 5.º do artigo 17.º enquanto não forem aplicados aos fins para que foram reservados;
 
@@ -506,7 +526,7 @@ c) Mostrarem-se assegurados o abastecimento de água, o fornecimento de energia 
 
 ##### SUBSECÇÃO II — Da competência para dispor dos terrenos
 
-###### Art. 54.º Compete ao Ministro do Ultramar, relativamente aos terrenos vagos:
+Art. 54.º Compete ao Ministro do Ultramar, relativamente aos terrenos vagos:
 
 1.º Conceder, mediante aforamento, terrenos de 3.ª classe, de área superior a 5000 ha nas províncias de governo-geral e a 2500 ha nas províncias de governo simples;
 
@@ -514,7 +534,7 @@ c) Mostrarem-se assegurados o abastecimento de água, o fornecimento de energia 
 
 3.º Conceder, por contrato, áreas superiores às referidas no n.º 1.º, até ao limite de 100000 ha e, mediante autorização do Conselho de Ministros, até ao limite máximo de 250000 ha.
 
-###### Art. 55.º Compete aos governadores, relativamente aos terrenos vagos:
+Art. 55.º Compete aos governadores, relativamente aos terrenos vagos:
 
 1.º Alienar terrenos por venda, ou nos termos dos artigos 44.º e seguintes;
 
@@ -528,7 +548,7 @@ c) Mostrarem-se assegurados o abastecimento de água, o fornecimento de energia 
 
 6.º Autorizar o uso ou ocupação de terrenos a título precário.
 
-###### Art. 56.º É obrigatório o parecer do Conselho de Governo ou da Secção Permanente do Conselho de Governo para:
+Art. 56.º É obrigatório o parecer do Conselho de Governo ou da Secção Permanente do Conselho de Governo para:
 
 1.º Alienar terrenos, por venda;
 
@@ -542,23 +562,23 @@ c) Mostrarem-se assegurados o abastecimento de água, o fornecimento de energia 
 
 6.º Autorizar o uso ou ocupação de terrenos a título precário.
 
-###### Art. 57.º Compete aos governadores de distrito conceder por aforamento:
+Art. 57.º Compete aos governadores de distrito conceder por aforamento:
 
 1.º Terrenos de 1.ª classe com área não superior a 4000 m2 ou a 10000 m2, nas povoações ou subúrbios, respectivamente;
 
 2.º Terrenos de 3.ª classe com área não superior a 1000 ha.
 
-###### Art. 58.º Os administradores de concelho ou de circunscrição podem conceder, mediante arrendamento, terrenos até 1000 m2, para fins comerciais em povoações de carácter comercial.
+Art. 58.º Os administradores de concelho ou de circunscrição podem conceder, mediante arrendamento, terrenos até 1000 m2, para fins comerciais em povoações de carácter comercial.
 
-###### Art. 59.º O disposto nos artigos anteriores respeita às concessões provisórias, competindo sempre aos governadores de província a concessão definitiva.
+Art. 59.º O disposto nos artigos anteriores respeita às concessões provisórias, competindo sempre aos governadores de província a concessão definitiva.
 
 § único. A competência atribuída ao Ministro do Ultramar pelo n.º 3.º do artigo 54.º abrange as concessões a título provisório ou definitivo.
 
-###### Art. 60.º Para as regiões onde as circunstâncias o aconselhem, o governador poderá fixar, em portaria, os limites das áreas a conceder, dentro da sua competência, a cada pessoa singular ou colectiva, podendo ainda definir, em função das condições locais, os tipos de propriedade ou exploração técnica e economicamente preferíveis.
+Art. 60.º Para as regiões onde as circunstâncias o aconselhem, o governador poderá fixar, em portaria, os limites das áreas a conceder, dentro da sua competência, a cada pessoa singular ou colectiva, podendo ainda definir, em função das condições locais, os tipos de propriedade ou exploração técnica e economicamente preferíveis.
 
 ##### SUBSECÇÃO III — Da legitimidade para adquirir direitos sobre os terrenos
 
-###### Art. 61.º Podem adquirir direitos sobre terrenos de 1.º ou 3.ª classe, por concessão ou licença:
+Art. 61.º Podem adquirir direitos sobre terrenos de 1.º ou 3.ª classe, por concessão ou licença:
 
 1.º Os portugueses;
 
@@ -574,7 +594,7 @@ c) Mostrarem-se assegurados o abastecimento de água, o fornecimento de energia 
 
 § 2.º Sendo o terreno requerido para fins especiais, deve o requerente estar habilitado para o exercício da respectiva actividade.
 
-###### Art. 62.º Podem receber concessões gratuitas:
+Art. 62.º Podem receber concessões gratuitas:
 
 1.º Os colonos, como tais se considerando os indivíduos estabelecidos em zonas atribuídas a juntas de povoamento agrário ou outras definidas por lei;
 
@@ -586,7 +606,7 @@ c) Mostrarem-se assegurados o abastecimento de água, o fornecimento de energia 
 
 5.º Os organismos corporativos de trabalhadores.
 
-###### Art. 63.º Cada pessoa singular ou colectiva não pode receber numa província a concessão de terrenos que excedam os limites fixados no artigo 67.º, salvo o disposto no § 1.º deste artigo e as concessões realizadas por contrato especial, nos termos do n.º 3.º do artigo 54.º
+Art. 63.º Cada pessoa singular ou colectiva não pode receber numa província a concessão de terrenos que excedam os limites fixados no artigo 67.º, salvo o disposto no § 1.º deste artigo e as concessões realizadas por contrato especial, nos termos do n.º 3.º do artigo 54.º
 
 § 1.º Tratando-se de terrenos referidos no artigo 67.º e verificado o aproveitamento completo deles, podem ser feitas à mesma pessoa, singular ou colectiva, concessões sucessivas, dentro dos limites fixados no mesmo artigo, até ao máximo de 15000 ha nas províncias de governo-geral e 7500 ha nas províncias de governo simples, conforme as províncias, ou 75000 ha e 37500 ha tratando-se de terreno predominantemente destinado à criação de gado e indústrias dela derivadas ou a exploração de florestas espontâneas.
 
@@ -598,13 +618,13 @@ c) Mostrarem-se assegurados o abastecimento de água, o fornecimento de energia 
 
 § 5.º Considera-se aproveitamento completo, para efeitos do § 1.º, o aproveitamento de todo o terreno concedido que seja susceptível de utilização para os fins da concessão já dada ou da pedida.
 
-###### Art. 64.º Nenhuma pessoa singular ou colectiva pode efectuar nova demarcação provisória ou obter outra concessão sem que esteja provado e aceite o aproveitamento da concessão que anteriormente lhe tiver sido feita por igual título e para o mesmo fim.
+Art. 64.º Nenhuma pessoa singular ou colectiva pode efectuar nova demarcação provisória ou obter outra concessão sem que esteja provado e aceite o aproveitamento da concessão que anteriormente lhe tiver sido feita por igual título e para o mesmo fim.
 
 § único. Esta restrição não é aplicável aos terrenos situados em diferentes povoações classificadas ou destinados a entidades de direito público.
 
-###### Art. 65.º As concessões gratuitas a cada missão católica portuguesa em terrenos de 3.ª classe não podem ter área superior a 2000 ha nas províncias de governo-geral e a 1000 ha nas restantes.
+Art. 65.º As concessões gratuitas a cada missão católica portuguesa em terrenos de 3.ª classe não podem ter área superior a 2000 ha nas províncias de governo-geral e a 1000 ha nas restantes.
 
-###### Art. 66.º Os requerentes de concessões superiores a 100 ha devem fazer prova de capacidade financeira para o aproveitamento do terreno.
+Art. 66.º Os requerentes de concessões superiores a 100 ha devem fazer prova de capacidade financeira para o aproveitamento do terreno.
 
 § único. Em cada província será regulamentada a prova de capacidade financeira conforme a extensão e outras circunstâncias da concessão.
 
@@ -612,135 +632,135 @@ c) Mostrarem-se assegurados o abastecimento de água, o fornecimento de energia 
 
 ##### DIVISÃO I — Da área
 
-###### Art. 67.º A área de terreno objecto de cada concessão não pode exceder, nas províncias de governo-geral, 50000 ha ou 5000 ha, conforme se destine a criação de gado e indústrias dela derivadas e exploração de florestas espontâneas ou a outros fins, e, nas províncias de governo simples, 25000 ha ou 2500 ha, nas mesmas condições.
+Art. 67.º A área de terreno objecto de cada concessão não pode exceder, nas províncias de governo-geral, 50000 ha ou 5000 ha, conforme se destine a criação de gado e indústrias dela derivadas e exploração de florestas espontâneas ou a outros fins, e, nas províncias de governo simples, 25000 ha ou 2500 ha, nas mesmas condições.
 
 § único. As concessões feitas pelo Ministro do Ultramar nos termos do n.º 3.º do artigo 54.º terão os limites máximos referidos nesse número.
 
-###### Art. 68.º A área de terrenos ocupáveis mediante licença não excederá, para cada licença, 10 ha, sendo para instalação de salinas, ou 1 ha, sendo para outros fins. Por conveniência para a economia da província poderão as áreas ser alargadas respectivamente até 30 ha e 5 ha.
+Art. 68.º A área de terrenos ocupáveis mediante licença não excederá, para cada licença, 10 ha, sendo para instalação de salinas, ou 1 ha, sendo para outros fins. Por conveniência para a economia da província poderão as áreas ser alargadas respectivamente até 30 ha e 5 ha.
 
-###### Art. 69.º Cada concessão de terrenos de 1.ª classe não poderá ter por objecto área superior a 2 ha na zona urbana das povoações classificadas e 5 ha nos subúrbios destas.
+Art. 69.º Cada concessão de terrenos de 1.ª classe não poderá ter por objecto área superior a 2 ha na zona urbana das povoações classificadas e 5 ha nos subúrbios destas.
 
-###### Art. 70.º Nas concessões de terrenos limítrofes das faixas referidas nos n.os 7.º, 8.º e 9.º do artigo 1.º e no n.º 2.º do artigo 53.º ou contíguos às estradas e caminhos públicos, a dimensão do lado que confronta com a estrada ou caminho não poderá exceder um terço da dimensão segundo a normal a esse lado.
+Art. 70.º Nas concessões de terrenos limítrofes das faixas referidas nos n.os 7.º, 8.º e 9.º do artigo 1.º e no n.º 2.º do artigo 53.º ou contíguos às estradas e caminhos públicos, a dimensão do lado que confronta com a estrada ou caminho não poderá exceder um terço da dimensão segundo a normal a esse lado.
 
 § 1.º A forma dos prédios a conceder em povoações subordinar-se-á ao plano de urbanização ou de divisão em talhões e quarteirões e aos esboços aprovados.
 
 § 2.º Quando se prove a manifesta impossibilidade de aplicar o disposto no corpo do artigo a terrenos de 3.ª classe, o governador poderá aprovar uma conformação diferente, de que não resultem prejuízos para o Estado.
 
-###### Art. 71.º Às parcelas será dada, quando possível, a configuração de polígonos de poucos lados, de preferência quadrilátero, cabendo aos serviços de agrimensura mandar alterar a forma das demarcações que, sem motivo justificável, desobedeçam a este preceito.
+Art. 71.º Às parcelas será dada, quando possível, a configuração de polígonos de poucos lados, de preferência quadrilátero, cabendo aos serviços de agrimensura mandar alterar a forma das demarcações que, sem motivo justificável, desobedeçam a este preceito.
 
 ##### DIVISÃO II — Da demarcação
 
-###### Art. 72.º O objecto da concessão é definido no processo pelo esboço topográfico e pela memória descritiva e é materializado no terreno pela demarcação provisória.
+Art. 72.º O objecto da concessão é definido no processo pelo esboço topográfico e pela memória descritiva e é materializado no terreno pela demarcação provisória.
 
 § único. Havendo divergência entre o esboço, a memória e a demarcação, o processo não terá seguimento.
 
-###### Art. 73.º A demarcação provisória opera-se pela abertura de picadas perimetrais e pela implantação de postes com tabuletas de madeira ou de ferro, à altura de 1,20 m do solo, nos vértices e nos alinhamentos do lado do polígono que define o objecto da concessão.
+Art. 73.º A demarcação provisória opera-se pela abertura de picadas perimetrais e pela implantação de postes com tabuletas de madeira ou de ferro, à altura de 1,20 m do solo, nos vértices e nos alinhamentos do lado do polígono que define o objecto da concessão.
 
 § único. As tabuletas, com indicação do nome do demarcaste e do número e data da licença, serão colocadas por forma que da cada uma delas se veja fàcilmente a antecedente e a seguinte, nunca podendo estar distanciadas mais de 300 m umas das outras.
 
-###### Art. 74.º A definição e a demarcação provisória do objecto da concessão ou ocupação poderão ser efectuadas por diligência particular do pretendente ao terreno ou por via oficial.
+Art. 74.º A definição e a demarcação provisória do objecto da concessão ou ocupação poderão ser efectuadas por diligência particular do pretendente ao terreno ou por via oficial.
 
 § único. O pretendente ao terreno só poderá proceder à sua demarcação provisória quando estiver munido da competente licença e esta tiver sido registada na administração do concelho ou circunscrição onde o terreno estiver situado.
 
-###### Art. 75.º A demarcação provisória oficial será determinada pelo governador, em portaria, para as regiões em que a densidade da ocupação e a frequência ou perigo de conflitos a aconselhem como forma de evitar os problemas suscitados pelas sobreposições de demarcações e concessões e de abreviar os termos do processo.
+Art. 75.º A demarcação provisória oficial será determinada pelo governador, em portaria, para as regiões em que a densidade da ocupação e a frequência ou perigo de conflitos a aconselhem como forma de evitar os problemas suscitados pelas sobreposições de demarcações e concessões e de abreviar os termos do processo.
 
 § único. Também em portaria, o governador pode determinar que a demarcação provisória oficial substitua a demarcação provisória por diligência particular, sempre que seja possível harmonizar o volume das pretensões e os recursos dos serviços de agrimensura.
 
-###### Art. 76.º A demarcação oficial será realizada por brigadas de demarcação e vistorias e, quando eles o desejem, será assistida pelo requerente, pelos indivíduos que tenham requerido concessões na mesma região e por todos os interessados na prova de direitos de propriedade ou de benfeitorias na respectiva zona.
+Art. 76.º A demarcação oficial será realizada por brigadas de demarcação e vistorias e, quando eles o desejem, será assistida pelo requerente, pelos indivíduos que tenham requerido concessões na mesma região e por todos os interessados na prova de direitos de propriedade ou de benfeitorias na respectiva zona.
 
 § único. Os interessados serão convocados por aviso publicado no Boletim Oficial com a antecedência mínima de quinze dias.
 
-###### Art. 77.º A brigada estudará os problemas relacionados com a ocupação que porventura exista no terreno pedido pelo requerente, apreciará a aptidão dos terrenos para os fins pretendidos e demarcará a parcela.
+Art. 77.º A brigada estudará os problemas relacionados com a ocupação que porventura exista no terreno pedido pelo requerente, apreciará a aptidão dos terrenos para os fins pretendidos e demarcará a parcela.
 
 § 1.º A demarcação basear-se-á nas indicações do requerente, mas poderá ser dada à parcela outra forma, extensão ou localização, a fim de acautelar interesses de terceiros ou atender a circunstâncias económicas da exploração prevista.
 
 § 2.º O requerente deverá declarar expressamente e por escrito se se conforma com a demarcação feita pela brigada e pode, até ao termo da demarcação, desistir do pedido por não se conformar com as alterações introduzidas pela brigada.
 
-###### Art. 78.º Realizada a demarcação, a brigada juntará ao pedido a planta perimetral correspondente, a declaração do requerente, as suas informações e a informação da autoridade administrativa local se esta for considerada necessária, remetendo todos os documentos aos serviços de agrimensura nos oito dias seguintes.
+Art. 78.º Realizada a demarcação, a brigada juntará ao pedido a planta perimetral correspondente, a declaração do requerente, as suas informações e a informação da autoridade administrativa local se esta for considerada necessária, remetendo todos os documentos aos serviços de agrimensura nos oito dias seguintes.
 
-###### Art. 79.º No caso de demarcação particular, logo que esta termine, o interessado entregará nos serviços de agrimensura o esboço topográfico e a memória descritiva.
+Art. 79.º No caso de demarcação particular, logo que esta termine, o interessado entregará nos serviços de agrimensura o esboço topográfico e a memória descritiva.
 
-###### Art. 80.º A demarcação provisória caduca logo que o processo termine por qualquer causa ou quando se realize a demarcação definitiva.
+Art. 80.º A demarcação provisória caduca logo que o processo termine por qualquer causa ou quando se realize a demarcação definitiva.
 
 § único. As tabuletas devem ser retiradas pelos serviços oficiais se o interessado não o fizer dentro do prazo que os serviços marcarem.
 
-###### Art. 81.º A outorga das concessões definitivas e das concessões por arrendamento é sempre precedida da demarcação definitiva dos terrenos concedidos e da aprovação do respectivo processo técnico. Art. 82.º A demarcação definitiva consiste na materialização do contorno perimetral da parcela concedida por meio de marcos de cimento, com as dimensões regulamentares para os aforamentos, ou de cantoneiras de ferro encimadas por chapas de zinco ou de ferro a, pelo menos, 1,20 m do solo para os arrendamentos, e na execução das operações topográficas que permitam identificar a parcela quando a localização, forma e área e forneçam elementos para a sua reconstituição quando os marcos ou postes sejam destruídos.
+Art. 81.º A outorga das concessões definitivas e das concessões por arrendamento é sempre precedida da demarcação definitiva dos terrenos concedidos e da aprovação do respectivo processo técnico. Art. 82.º A demarcação definitiva consiste na materialização do contorno perimetral da parcela concedida por meio de marcos de cimento, com as dimensões regulamentares para os aforamentos, ou de cantoneiras de ferro encimadas por chapas de zinco ou de ferro a, pelo menos, 1,20 m do solo para os arrendamentos, e na execução das operações topográficas que permitam identificar a parcela quando a localização, forma e área e forneçam elementos para a sua reconstituição quando os marcos ou postes sejam destruídos.
 
 § 1.º A demarcação definitiva da parcela será baseada na demarcação provisória, ou em reconhecimentos parcelares das zonas de povoamento, ou na definição do objecto que resultar dos títulos e respectivos registos prediais.
 
 § 2.º Além das operações topográficas respeitantes à definição perimetral da parcela, é obrigatório o levantamento topográfico regular da área interior nas concessões por aforamento, ou o levantamento expedito da mesma área, quando se tratar de concessões por arrendamento.
 
-###### Art. 83.º Se no acto da demarcação definitiva ou em qualquer data se verificar que o concessionário ocupa área superior à autorizada ou concedida ou exterior ao limite perimetral desta, com a tolerância de 5 por cento, pagará as multas cominadas na regulamentação complementar.
+Art. 83.º Se no acto da demarcação definitiva ou em qualquer data se verificar que o concessionário ocupa área superior à autorizada ou concedida ou exterior ao limite perimetral desta, com a tolerância de 5 por cento, pagará as multas cominadas na regulamentação complementar.
 
 § único. O concessionário não tem o direito de continuar a ocupar o terreno que se encontrou a mais na sua posse, mas quando nele tenha introduzido benfeitorias, e não se provem direitos anteriores de terceiros, dar-se-lhe-á preferência na futura concessão desse terreno.
 
-###### Art. 84.º Os trabalhos de demarcação definitiva só podem ser iniciados depois da publicação do respectivo aviso no Boletim Oficial e, quando se trate de agrimensores particulares, depois de aprovados os correspondentes contratos celebrados entre estes agentes e os concessionários.
+Art. 84.º Os trabalhos de demarcação definitiva só podem ser iniciados depois da publicação do respectivo aviso no Boletim Oficial e, quando se trate de agrimensores particulares, depois de aprovados os correspondentes contratos celebrados entre estes agentes e os concessionários.
 
 § único. Pode ser autorizada a demarcação definitiva por antecipação, mas são da exclusiva responsabilidade do interessado todos os prejuízos e riscos provenientes da mesma.
 
-###### Art. 85.º As despesas resultantes da execução da demarcação definitiva serão suportadas pelos concessionários excepto quando se trate de concessões gratuitas.
+Art. 85.º As despesas resultantes da execução da demarcação definitiva serão suportadas pelos concessionários excepto quando se trate de concessões gratuitas.
 
 § único. O custo dos trabalhos será calculado, em função da área da parcela, segundo tabela constante da regulamentação complementar das províncias.
 
-###### Art. 86.º Na execução dos trabalhos respeitantes as demarcações definitivas, os agrimensores particulares são obrigados a subordinar-se as instruções emanadas dos serviços de agrimensura.
+Art. 86.º Na execução dos trabalhos respeitantes as demarcações definitivas, os agrimensores particulares são obrigados a subordinar-se as instruções emanadas dos serviços de agrimensura.
 
-###### Art. 87.º Nenhum título será entregue aos interessados sem que estes façam, por escrito, a declaração formal de que conhecem a situação dos marcos de limitação constantes do título e as disposições legais sobre a sua conservação.
+Art. 87.º Nenhum título será entregue aos interessados sem que estes façam, por escrito, a declaração formal de que conhecem a situação dos marcos de limitação constantes do título e as disposições legais sobre a sua conservação.
 
-###### Art. 88.º Os terrenos com o quíntuplo da área ocupada por vizinhos das regedorias e situados dentro das parcelas demarcadas provisòriamente são classificados de 2.ª classe para os efeitos constantes das disposições deste regulamento.
+Art. 88.º Os terrenos com o quíntuplo da área ocupada por vizinhos das regedorias e situados dentro das parcelas demarcadas provisòriamente são classificados de 2.ª classe para os efeitos constantes das disposições deste regulamento.
 
 § único. Os terrenos referidos no corpo do artigo serão delimitados e assinalados no terreno pelo demarcante na data da demarcação provisória e representados no respectivo esboço topográfico.
 
 As brigadas de demarcação e vistoria confirmarão ou corrigirão estas delimitações e a correspondente representação no esboço e estudarão a possibilidade de se conferirem aos ocupantes os títulos a que se refere o artigo 234.º, do que devem prestar informação.
 
-###### Art. 89.º Não é permitido fazer deslocar as populações das regedorias para terrenos diferentes daqueles que ocupam individual ou colectivamente com culturas, pascigos ou habitações, com o fim de englobar estes, no todo ou em parte, nas demarcações provisórias.
+Art. 89.º Não é permitido fazer deslocar as populações das regedorias para terrenos diferentes daqueles que ocupam individual ou colectivamente com culturas, pascigos ou habitações, com o fim de englobar estes, no todo ou em parte, nas demarcações provisórias.
 
 ##### SUBSECÇÃO V — Dos direitos e deveres dos concessionários
 
 ##### DIVISÃO I — Disposições comuns
 
-###### Art. 90.º A demarcação provisória não concede ao demarcante qualquer direito sobre o terreno, mas impede nova demarcação que abranja total ou parcialmente a mesma área.
+Art. 90.º A demarcação provisória não concede ao demarcante qualquer direito sobre o terreno, mas impede nova demarcação que abranja total ou parcialmente a mesma área.
 
-###### Art. 91.º O governador pode autorizar o demarcante de terrenos de 3.ª classe destinados a fins agrícolas a ocupá-los e a explorá-los antes da concessão provisória, sem prejuízo do regular andamento do processo, mas tal autorização não obrigará o Estado à outorga da concessão nem dará ao interessado direito à retenção de benfeitorias que introduza no terreno nem a qualquer indemnização pelos prejuízos que venha a ter, ainda que o terreno não lhe seja concedido.
+Art. 91.º O governador pode autorizar o demarcante de terrenos de 3.ª classe destinados a fins agrícolas a ocupá-los e a explorá-los antes da concessão provisória, sem prejuízo do regular andamento do processo, mas tal autorização não obrigará o Estado à outorga da concessão nem dará ao interessado direito à retenção de benfeitorias que introduza no terreno nem a qualquer indemnização pelos prejuízos que venha a ter, ainda que o terreno não lhe seja concedido.
 
 § 1.º Essa autorização não deverá ser dada, em regra, antes de vistoriada a demarcação.
 
 § 2.º Desde a data da notificação do despacho que autorizar a ocupação dos terrenos até à publicação do despacho da concessão provisória, o demarcante ou detentor do terreno pagará anualmente uma taxa igual à importância do foro correspondente ao terreno.
 
-###### Art. 92.º Não são devidas indemnizações ao concessionário pelo terreno da concessão que venha a ser necessário para a abertura de vias de comunicação e respectivas zonas non aedificandi, bem como para a construção de canais e valas de enxugo que o Governo venha a construir.
+Art. 92.º Não são devidas indemnizações ao concessionário pelo terreno da concessão que venha a ser necessário para a abertura de vias de comunicação e respectivas zonas non aedificandi, bem como para a construção de canais e valas de enxugo que o Governo venha a construir.
 
-###### Art. 93.º O concessionário é obrigado a cumprir, sob pena de anulação da concessão, as condições que expressamente lhe forem impostas para a racional utilização dos recursos naturais e a submeter-se a qualquer programa que para o mesmo efeito venha a ser estabelecido na região onde a parcela concedida se encontra situada. § único. Os direitos dos concessionários e as suas restrições ou condicionamentos, quer relativamente às águas artesianas ou subartesianas, quer relativamente aos outros recursos naturais, serão os fixados na legislação especial.
+Art. 93.º O concessionário é obrigado a cumprir, sob pena de anulação da concessão, as condições que expressamente lhe forem impostas para a racional utilização dos recursos naturais e a submeter-se a qualquer programa que para o mesmo efeito venha a ser estabelecido na região onde a parcela concedida se encontra situada. § único. Os direitos dos concessionários e as suas restrições ou condicionamentos, quer relativamente às águas artesianas ou subartesianas, quer relativamente aos outros recursos naturais, serão os fixados na legislação especial.
 
-###### Art. 94.º O concessionário não poderá, sob pretexto algum, cortar ou destruir árvores que sirvam de pontos de demarcação do seu terreno sem intervenção dos serviços de agrimensura, e é obrigado a conservar em bom estado os marcos perimetrais da sua parcela e respectiva numeração e os marcos de triangulação que porventura nela se encontrem, bem como a manter nos termos regulamentares o contorno da concessão de forma bem visível.
+Art. 94.º O concessionário não poderá, sob pretexto algum, cortar ou destruir árvores que sirvam de pontos de demarcação do seu terreno sem intervenção dos serviços de agrimensura, e é obrigado a conservar em bom estado os marcos perimetrais da sua parcela e respectiva numeração e os marcos de triangulação que porventura nela se encontrem, bem como a manter nos termos regulamentares o contorno da concessão de forma bem visível.
 
-###### Art. 95.º O concessionário é obrigado a permitir a abertura das picadas perimetrais necessárias para a demarcação definitiva das parcelas contíguas, sendo igualmente obrigado a consentir a execução dos actos que visem o apoio indispensável ao levantamento topográfico de terrenos vizinhos ou a trabalhos de cartografia que abranjam a sua concessão.
+Art. 95.º O concessionário é obrigado a permitir a abertura das picadas perimetrais necessárias para a demarcação definitiva das parcelas contíguas, sendo igualmente obrigado a consentir a execução dos actos que visem o apoio indispensável ao levantamento topográfico de terrenos vizinhos ou a trabalhos de cartografia que abranjam a sua concessão.
 
-###### Art. 96.º Os concessionários não têm direito às águas artesianas ou subartesianas, cujo aproveitamento carece de licença do Governo.
+Art. 96.º Os concessionários não têm direito às águas artesianas ou subartesianas, cujo aproveitamento carece de licença do Governo.
 
-###### Art. 97.º Os concessionários de quaisquer terrenos são obrigados a conservar as servidões que neles existam e constem das respectivas plantas ou processos e a dar passagem aos vizinhos para qualquer centro populacional ou vias de comunicação próximas, quando estas não disponham de acesso mais fácil ou cómodo.
+Art. 97.º Os concessionários de quaisquer terrenos são obrigados a conservar as servidões que neles existam e constem das respectivas plantas ou processos e a dar passagem aos vizinhos para qualquer centro populacional ou vias de comunicação próximas, quando estas não disponham de acesso mais fácil ou cómodo.
 
 § único. Pelos prejuízos que porventura esta passagem venha a causar ao concessionário, pagará o usufrutuário da serventia uma indemnização, que será fixada judicialmente no caso de falta de acordo entre as duas partes.
 
-###### Art. 98.º As concessões são dadas inicialmente a título provisório, pelo prazo máximo de cinco anos, e só se converterão em definitivas se no decurso desse prazo forem cumpridas as cláusulas de aproveitamento mínimo prèviamente estabelecidas e se o concessionário, após a aceitação deste aproveitamento, cumprir as formalidades necessárias para a demarcação definitiva.
+Art. 98.º As concessões são dadas inicialmente a título provisório, pelo prazo máximo de cinco anos, e só se converterão em definitivas se no decurso desse prazo forem cumpridas as cláusulas de aproveitamento mínimo prèviamente estabelecidas e se o concessionário, após a aceitação deste aproveitamento, cumprir as formalidades necessárias para a demarcação definitiva.
 
-###### Art. 99.º O prazo de cinco anos para o aproveitamento mínimo do terreno é improrrogável, mas não serão contados nele os anos em que a exploração seja prejudicada por circunstâncias de força maior reconhecidas pela entidade concedente, nos termos do artigo 215.º
+Art. 99.º O prazo de cinco anos para o aproveitamento mínimo do terreno é improrrogável, mas não serão contados nele os anos em que a exploração seja prejudicada por circunstâncias de força maior reconhecidas pela entidade concedente, nos termos do artigo 215.º
 
-###### Art. 100.º O aproveitamento mínimo do terreno, para efeitos deste diploma, consiste na execução integral do plano de exploração aprovado ou, na falta deste, na utilização exigida neste diploma para o respectivo tipo de concessão.
+Art. 100.º O aproveitamento mínimo do terreno, para efeitos deste diploma, consiste na execução integral do plano de exploração aprovado ou, na falta deste, na utilização exigida neste diploma para o respectivo tipo de concessão.
 
 § 1.º Considera-se aproveitamento completo o aproveitamento de todo o terreno concedido que seja susceptível de utilização para os fins da concessão.
 
 § 2.º Para efeito de cumprimento de obrigações legais ou contratuais, só é considerado o aproveitamento realizado pelo concessionário.
 
-###### Art. 101.º O aproveitamento provado e aceite para a concessão se tornar definitiva não pode ser diminuído ou interrompido, durante a vigência desta, por prazo superior a três anos.
+Art. 101.º O aproveitamento provado e aceite para a concessão se tornar definitiva não pode ser diminuído ou interrompido, durante a vigência desta, por prazo superior a três anos.
 
-###### Art. 102.º A anulação da concessão provisória por falta de aproveitamento será parcial, se o interessado o requerer e a utilização do terreno o permitir.
+Art. 102.º A anulação da concessão provisória por falta de aproveitamento será parcial, se o interessado o requerer e a utilização do terreno o permitir.
 
 § único. No caso do corpo do artigo, a concessão poderá ser convertida em definitiva até ao dobro da área cujo aproveitamento for aprovado.
 
-###### Art. 103.º A concessão a serviços públicos dotados de personalidade jurídica é definitiva desde o início, mas é resolúvel a qualquer tempo pela aplicação dos terrenos para fins diversos dos da concessão.
+Art. 103.º A concessão a serviços públicos dotados de personalidade jurídica é definitiva desde o início, mas é resolúvel a qualquer tempo pela aplicação dos terrenos para fins diversos dos da concessão.
 
 § único. A resolução será determinada por despacho do governador, sob proposta dos serviços de agrimensura e ouvido o serviço interessado.
 
-###### Art. 104.º A prova do aproveitamento dos terrenos será feita, a requerimento do interessado dirigido ao director dos serviços de agrimensura, por meio de vistoria efectuada por uma comissão de três membros, dos quais um será logo indicado pelo requerente, outro pelos serviços de agrimensura e o terceiro, de desempate, por acordo com o concessionário, ou, na falta de acordo, nomeado pelo governador.
+Art. 104.º A prova do aproveitamento dos terrenos será feita, a requerimento do interessado dirigido ao director dos serviços de agrimensura, por meio de vistoria efectuada por uma comissão de três membros, dos quais um será logo indicado pelo requerente, outro pelos serviços de agrimensura e o terceiro, de desempate, por acordo com o concessionário, ou, na falta de acordo, nomeado pelo governador.
 
 § 1.º Os peritos por parte do Estado serão de preferência escolhidos entre os funcionários que exerçam funções no concelho ou circunscrição onde o terreno estiver situado, pertencentes a serviço com atribuições de orientação, coordenação ou fiscalização da actividade exercida pelo concessionário.
 
@@ -748,9 +768,9 @@ As brigadas de demarcação e vistoria confirmarão ou corrigirão estas delimit
 
 § 3.º A apreciação do aproveitamento poderá ser sujeita a confirmação pelas brigadas de demarcação e vistorias ou ser feita directamente por estas, mediante acordo do interessado.
 
-###### Art. 105.º Os contratos de concessão celebrados ao abrigo do n.º 3.º do artigo 54.º deste diploma devem conter os elementos essenciais do contrato de aforamento ou do contrato de arrendamento, conforme os casos.
+Art. 105.º Os contratos de concessão celebrados ao abrigo do n.º 3.º do artigo 54.º deste diploma devem conter os elementos essenciais do contrato de aforamento ou do contrato de arrendamento, conforme os casos.
 
-###### Art. 106.º Nos contratos referidos no artigo anterior podem ser estipuladas todas as cláusulas que não forem contrárias ao tipo de contrato escolhido.
+Art. 106.º Nos contratos referidos no artigo anterior podem ser estipuladas todas as cláusulas que não forem contrárias ao tipo de contrato escolhido.
 
 § 1.º As concessões resultantes desses contratos podem ter, desde o início, carácter definitivo.
 
@@ -758,15 +778,17 @@ As brigadas de demarcação e vistoria confirmarão ou corrigirão estas delimit
 
 ##### DIVISÃO III — Das concessões por aforamento
 
-##### SUBDIVISÃO I — Regras gerais
+SUBDIVISÃO I
 
-###### Art. 107.º Os contratos de aforamento são regidos pelas disposições deste diploma e pelos preceitos aplicáveis do Código Civil em tudo o que naquele for omisso.
+Regras gerais
 
-###### Art. 108.º O foro é calculado segundo tabelas fixadas em regulamentação complementar, tendo em atenção a importância e desenvolvimento da ocupação das terras e a conveniência de fomentar o povoamento das várias zonas da província.
+Art. 107.º Os contratos de aforamento são regidos pelas disposições deste diploma e pelos preceitos aplicáveis do Código Civil em tudo o que naquele for omisso.
 
-###### Art. 109.º O foro é pago anual e adiantadamente, a dinheiro, nos cofres da Fazenda Nacional, e é devido a partir da data da concessão provisória.
+Art. 108.º O foro é calculado segundo tabelas fixadas em regulamentação complementar, tendo em atenção a importância e desenvolvimento da ocupação das terras e a conveniência de fomentar o povoamento das várias zonas da província.
 
-###### Art. 110.º O foro pode ser remido, a requerimento do interessado, desde que se verifiquem as seguintes condições:
+Art. 109.º O foro é pago anual e adiantadamente, a dinheiro, nos cofres da Fazenda Nacional, e é devido a partir da data da concessão provisória.
+
+Art. 110.º O foro pode ser remido, a requerimento do interessado, desde que se verifiquem as seguintes condições:
 
 1.º Estar o terreno completamente aproveitado;
 
@@ -776,61 +798,67 @@ As brigadas de demarcação e vistoria confirmarão ou corrigirão estas delimit
 
 § 2.º A remição de foro das concessões feitas a estrangeiros só pode ser autorizada por despacho do Ministro do Ultramar sobre informação do governador.
 
-###### Art. 111.º Nos contratos de aforamento podem introduzir-se quaisquer cláusulas eventuais, com o fim de acautelar os interesses do Estado ou os direitos de terceiros.
+Art. 111.º Nos contratos de aforamento podem introduzir-se quaisquer cláusulas eventuais, com o fim de acautelar os interesses do Estado ou os direitos de terceiros.
 
-##### SUBDIVISÃO II — Dos aforamentos de terrenos de 1.ª classe
+SUBDIVISÃO II
 
-###### Art. 112.º Nos pedidos de concessão por aforamento em povoações classificadas, os interessados deverão especificar os prédios urbanos que pretendam construir no terreno, indicarão o prazo em que os completarão e juntarão o respectivo projecto, que será submetido, para efeitos de parecer, aos serviços de urbanização.
+Dos aforamentos de terrenos de 1.ª classe
+
+Art. 112.º Nos pedidos de concessão por aforamento em povoações classificadas, os interessados deverão especificar os prédios urbanos que pretendam construir no terreno, indicarão o prazo em que os completarão e juntarão o respectivo projecto, que será submetido, para efeitos de parecer, aos serviços de urbanização.
 
 § 1.º Os pretendentes ao mesmo terreno que desejarem concorrer a hasta pública deverão apresentar os seus projectos de aproveitamento até 30 dias antes da data marcada para a sua realização ou declarar, no mesmo prazo, que se sujeitam ao projecto apresentado pelos requerentes.
 
 § 2.º O prazo para completar a construção não será superior a três anos, excepto se for concedido prazo até cinco anos, excepcionalmente, e atendendo à importância do prédio a construir.
 
-###### Art. 113.º Dentro de seis meses, a contar da data do despacho de adjudicação provisória, o concessionário iniciará a construção do edifício.
+Art. 113.º Dentro de seis meses, a contar da data do despacho de adjudicação provisória, o concessionário iniciará a construção do edifício.
 
 § único. A prova do início da construção será feita por meio de certidão passada pela autoridade administrativa e a sua falta causará a anulação da adjudicação, revertendo para a Fazenda os saldos de todos os depósitos.
 
-###### Art. 114.º O terreno só se considera aproveitado para conversão da concessão provisória em definitiva quando, além do completo acabamento exterior e interior das construções constantes do projecto aprovado, o talhão tiver sido vedado com muros.
+Art. 114.º O terreno só se considera aproveitado para conversão da concessão provisória em definitiva quando, além do completo acabamento exterior e interior das construções constantes do projecto aprovado, o talhão tiver sido vedado com muros.
 
 § único. Nas povoações em que se reconheça a necessidade de fomentar uma rápida ocupação, o governador poderá aceitar o aproveitamento incompleto, obrigando-se o concessionário a cumprir o estabelecido no corpo do artigo no prazo improrrogável de um ano e sujeito à penalidade que for estabelecida.
 
-###### Art. 115.º Os terrenos concedidos e aproveitados nos termos dos artigos 113.º e 114.º poderão ser alienados por venda nos termos do artigo 49.º, com dispensa de hasta pública.
+Art. 115.º Os terrenos concedidos e aproveitados nos termos dos artigos 113.º e 114.º poderão ser alienados por venda nos termos do artigo 49.º, com dispensa de hasta pública.
 
-###### Art. 116.º No pedido de concessão por aforamento em subúrbios de povoações classificadas especificar-se-á o aproveitamento a dar ao terreno e juntar-se-á o esboço topográfico, com indicação do local onde se pretende fazer as construções urbanas.
+Art. 116.º No pedido de concessão por aforamento em subúrbios de povoações classificadas especificar-se-á o aproveitamento a dar ao terreno e juntar-se-á o esboço topográfico, com indicação do local onde se pretende fazer as construções urbanas.
 
-###### Art. 117.º Nos terrenos situados nos subúrbios das povoações com área inferior a 3 ha não será permitido fazer qualquer construção urbana de carácter definitivo, salvo nos casos em que já esteja aprovado o respectivo plano de atalhoamento, ao qual aquela deverá obedecer.
+Art. 117.º Nos terrenos situados nos subúrbios das povoações com área inferior a 3 ha não será permitido fazer qualquer construção urbana de carácter definitivo, salvo nos casos em que já esteja aprovado o respectivo plano de atalhoamento, ao qual aquela deverá obedecer.
 
-###### Art. 118.º O terreno nos subúrbios considera-se aproveitado para efeitos de se converter em definitiva a concessão quando no fim de cinco anos, a contar da data da adjudicação provisória, estiver cultivado o mínimo do um terço da área concedida e o seu perímetro for vedado por muro, arame ou sebe viva.
+Art. 118.º O terreno nos subúrbios considera-se aproveitado para efeitos de se converter em definitiva a concessão quando no fim de cinco anos, a contar da data da adjudicação provisória, estiver cultivado o mínimo do um terço da área concedida e o seu perímetro for vedado por muro, arame ou sebe viva.
 
-##### SUBDIVISÃO III — Dos aforamentos de terrenos de 3.ª classe
+SUBDIVISÃO III
+
+Dos aforamentos de terrenos de 3.ª classe
 
 A) Povoações comerciais:
 
-###### Art. 119.º Aos pedidos de concessão, formulados nos termos do artigo 112.º, juntarão os interessados o projecto da construção que se pretende fazer, já aprovado pelo competente corpo administrativo.
+Art. 119.º Aos pedidos de concessão, formulados nos termos do artigo 112.º, juntarão os interessados o projecto da construção que se pretende fazer, já aprovado pelo competente corpo administrativo.
 
-###### Art. 120.º É aplicável às concessões de terrenos de 3.ª classe situados nas povoações comerciais o disposto no § 2.º do artigo 112.º e no artigo 113.º
+Art. 120.º É aplicável às concessões de terrenos de 3.ª classe situados nas povoações comerciais o disposto no § 2.º do artigo 112.º e no artigo 113.º
 
-###### Art. 121.º Considera-se aproveitado o terreno desde que no prazo fixado tenha sido feita a construção constante do projecto aprovado e o talhão esteja vedado por muros.
+Art. 121.º Considera-se aproveitado o terreno desde que no prazo fixado tenha sido feita a construção constante do projecto aprovado e o talhão esteja vedado por muros.
 
 B) Terrenos para fins agrícolas, agro-pecuários ou industriais:
 
-###### Art. 122.º Para ser feita a concessão definitiva de terreno destinado a fins agrícolas é necessário que esteja cultivado pelo menos um terço da área concedida, não se contando para o efeito o terreno meramente desbravado nem a despesa feita com o desbravamento, mas contando área que se encontre em pousio, nas culturas em que este for recomendado, por tempo inferior a três anos.
+Art. 122.º Para ser feita a concessão definitiva de terreno destinado a fins agrícolas é necessário que esteja cultivado pelo menos um terço da área concedida, não se contando para o efeito o terreno meramente desbravado nem a despesa feita com o desbravamento, mas contando área que se encontre em pousio, nas culturas em que este for recomendado, por tempo inferior a três anos.
 
-###### Art. 123.º Os terrenos aforados e destinados a fins agro-pecuários só se consideram aproveitados, para efeitos de a concessão provisória se converter em definitiva, quando no prazo de cinco anos, a contar da data da concessão provisória, pelo menos neles estiver cultivado um sexto da área da concessão e houver um número de cabeças de gado bovino, registado em nome do concessionário, igual ao número de hectares da área mínima que deve ser cultivada.
+Art. 123.º Os terrenos aforados e destinados a fins agro-pecuários só se consideram aproveitados, para efeitos de a concessão provisória se converter em definitiva, quando no prazo de cinco anos, a contar da data da concessão provisória, pelo menos neles estiver cultivado um sexto da área da concessão e houver um número de cabeças de gado bovino, registado em nome do concessionário, igual ao número de hectares da área mínima que deve ser cultivada.
 
 § 1.º Para o efeito do disposto neste diploma considera-se de fins agro-pecuários a concessão que seja objecto de uma exploração pecuária intensiva.
 
 § 2.º Se Houver gado miúdo no terreno concedido, contar-se-ão seis cabeças deste por uma cabeça de gado bovino, para os efeitos do corpo do artigo.
 
-###### Art. 124.º Os terrenos concedidos provisòriamente para fins industriais só se consideram aproveitados quando as construções industriais de carácter definitivo tiverem sido executadas e estiverem em condições de funcionamento de acordo com os planos aprovados.
+Art. 124.º Os terrenos concedidos provisòriamente para fins industriais só se consideram aproveitados quando as construções industriais de carácter definitivo tiverem sido executadas e estiverem em condições de funcionamento de acordo com os planos aprovados.
 
 ##### DIVISÃO IV — Das concessões por arrendamento
 
-##### SUBDIVISÃO I — Regras gerais
+SUBDIVISÃO I
 
-###### Art. 125.º Os contratos de arrendamento dos terrenos vagos são regidos pelas disposições deste diploma e, naquilo em que este for omisso, pela legislação reguladora de arrendamentos de prédios rústicos, conforme os fins a que estes se destinarem.
+Regras gerais
 
-###### Art. 126.º A renda será calculada segundo tabelas fixadas em regulamentação complementar, tendo em atenção as circunstâncias económicas gerais da província e as do tipo de utilização, em particular.
+Art. 125.º Os contratos de arrendamento dos terrenos vagos são regidos pelas disposições deste diploma e, naquilo em que este for omisso, pela legislação reguladora de arrendamentos de prédios rústicos, conforme os fins a que estes se destinarem.
+
+Art. 126.º A renda será calculada segundo tabelas fixadas em regulamentação complementar, tendo em atenção as circunstâncias económicas gerais da província e as do tipo de utilização, em particular.
 
 § 1.º Em todos os arrendamentos a renda pode ser actualizada no fim de cada período de dez anos de vigência do contrato.
 
@@ -844,15 +872,17 @@ B) Terrenos para fins agrícolas, agro-pecuários ou industriais:
 
 § 3.º Na falta de publicação de coeficientes pelos governadores, aplicar-se-ão os estabelecidos no parágrafo anterior.
 
-###### Art. 127.º Nos contratos de arrendamento podem introduzir-se quaisquer cláusulas eventuais com o fim de acautelar os interesses do Estado ou os direitos de terceiros.
+Art. 127.º Nos contratos de arrendamento podem introduzir-se quaisquer cláusulas eventuais com o fim de acautelar os interesses do Estado ou os direitos de terceiros.
 
-##### SUBDIVISÃO II — Dos arrendamentos para fins pecuários
+SUBDIVISÃO II
 
-###### Art. 128.º As concessões de terrenos destinados predominante ou exclusivamente a fins pecuários serão feitas pelo período inicial de 20 anos, automàticamente renovável por períodos consecutivos de 5 anos até ao máximo de 50 anos.
+Dos arrendamentos para fins pecuários
 
-###### Art. 129.º Findo o prazo do arrendamento, poderá o concessionário obter a concessão por aforamento dos terrenos arrendados que tenha aproveitado com culturas anuais e permanentes, mas só até ao limite da área concedível e desde que o terreno seja apto às culturas nele existentes.
+Art. 128.º As concessões de terrenos destinados predominante ou exclusivamente a fins pecuários serão feitas pelo período inicial de 20 anos, automàticamente renovável por períodos consecutivos de 5 anos até ao máximo de 50 anos.
 
-###### Art. 130.º Consideram-se insertas em todos os arrendamentos, salvo expressa cláusula em contrário, e sem prejuízo do mais que for contratado, as seguintes obrigações dos arrendatários:
+Art. 129.º Findo o prazo do arrendamento, poderá o concessionário obter a concessão por aforamento dos terrenos arrendados que tenha aproveitado com culturas anuais e permanentes, mas só até ao limite da área concedível e desde que o terreno seja apto às culturas nele existentes.
+
+Art. 130.º Consideram-se insertas em todos os arrendamentos, salvo expressa cláusula em contrário, e sem prejuízo do mais que for contratado, as seguintes obrigações dos arrendatários:
 
 1.º Instalar no terreno, dentro do prazo de um ano, a contar da data da concessão, um rebanho seleccionado de quantitativo e composição a fixar no contrato, por informação dos serviços de veterinária, em harmonia com as condições ecológicas da região;
 
@@ -880,7 +910,7 @@ d) Vedação dos parques de pastagem por meio de arame ou por outro sistema que 
 
 e) Construção de currais ou estábulos para recolha e abrigo dos gados, adequados ao regime da exploração.
 
-###### Art. 131.º São direitos dos arrendatários:
+Art. 131.º São direitos dos arrendatários:
 
 1.º Só poder ser determinado o despejo com efeito imediato nos casos e pelos factos especificados na lei;
 
@@ -896,7 +926,7 @@ b) O arrendatário não fazer prova do aproveitamento exigido na lei.
 
 § único. No caso da alínea a) do n.º 2.º do corpo do artigo, a rescisão não se produzirá sem o arrendatário ser indemnizado.
 
-###### Art. 132.º O despejo com efeito imediato só pode verificar-se nos seguintes casos:
+Art. 132.º O despejo com efeito imediato só pode verificar-se nos seguintes casos:
 
 1.º Falta de pagamento da renda;
 
@@ -912,13 +942,15 @@ b) O arrendatário não fazer prova do aproveitamento exigido na lei.
 
 § único. No caso do n.º 5.º do corpo do artigo, o arrendatário deverá ser prèviamente notificado para remediar as deficiências em prazo razoável.
 
-###### Art. 133.º O arrendatário não terá o direito de levantar as benfeitorias feitas na vigência do contrato ou a ser indemnizado por elas quando o contrato termine por expiração do prazo ou por despejo com efeito imediato.
+Art. 133.º O arrendatário não terá o direito de levantar as benfeitorias feitas na vigência do contrato ou a ser indemnizado por elas quando o contrato termine por expiração do prazo ou por despejo com efeito imediato.
 
 § único. O arrendatário manterá as benfeitorias existentes em terreno arrendado que posteriormente lhe seja aforado nos termos do artigo 129.º
 
-##### SUBDIVISÃO III — Dos arrendamentos para fins comerciais
+SUBDIVISÃO III
 
-###### Art. 134.º O arrendamento de terrenos destinados a fins comerciais feito pela autoridade administrativa, nos termos do artigo 58.º, terá de sujeitar-se aos planos e esboços aprovados para o parcelamento ou destino dos terrenos.
+Dos arrendamentos para fins comerciais
+
+Art. 134.º O arrendamento de terrenos destinados a fins comerciais feito pela autoridade administrativa, nos termos do artigo 58.º, terá de sujeitar-se aos planos e esboços aprovados para o parcelamento ou destino dos terrenos.
 
 § 1.º As autoridades administrativas deverão comunicar aos serviços de agrimensura os arrendamentos efectuados ao abrigo do corpo do artigo, enviando-lhes cópia do auto de arrendamento e um esboço topográfico do terreno a que respeitam, pelo qual se veja a sua localização, a área e confrontação.
 
@@ -926,17 +958,17 @@ b) O arrendatário não fazer prova do aproveitamento exigido na lei.
 
 § 3.º Para efeito deste artigo incluem-se nos fins comerciais o exercício de pequenas indústrias.
 
-###### Art. 135.º Dos terrenos arrendados nos termos do artigo anterior poderá ser feita a concessão por aforamento ou a venda, antes do termo do arrendamento, desde que se mostrem devidamente aproveitados.
+Art. 135.º Dos terrenos arrendados nos termos do artigo anterior poderá ser feita a concessão por aforamento ou a venda, antes do termo do arrendamento, desde que se mostrem devidamente aproveitados.
 
-###### Art. 136.º Os arrendamentos serão anuais, renováveis por igual prazo, a requerimento do interessado, até ao máximo de vinte anos.
+Art. 136.º Os arrendamentos serão anuais, renováveis por igual prazo, a requerimento do interessado, até ao máximo de vinte anos.
 
 § único. A renovação ao fim do terceiro ano depende de prova do aproveitamento.
 
-###### Art. 137.º Os terrenos serão delimitados pelo interessado na presença de autoridade administrativa por meio de marcos de alvenaria ou cimento, que serão destruídos pelo arrendatário ou à sua custa quando o arrendamento cessar por qualquer causa e a autoridade o determinar.
+Art. 137.º Os terrenos serão delimitados pelo interessado na presença de autoridade administrativa por meio de marcos de alvenaria ou cimento, que serão destruídos pelo arrendatário ou à sua custa quando o arrendamento cessar por qualquer causa e a autoridade o determinar.
 
-###### Art. 138.º As autoridades administrativas darão conhecimento imediato aos serviços de agrimensura das alterações que venham a produzir-se nos arrendamentos.
+Art. 138.º As autoridades administrativas darão conhecimento imediato aos serviços de agrimensura das alterações que venham a produzir-se nos arrendamentos.
 
-###### Art. 139.º O despejo só pode verificar-se nos seguintes casos:
+Art. 139.º O despejo só pode verificar-se nos seguintes casos:
 
 1.º Falta de pagamento da renda;
 
@@ -950,73 +982,79 @@ b) O arrendatário não fazer prova do aproveitamento exigido na lei.
 
 § 2.º Requerida a suspensão, nos termos do parágrafo anterior, o arrendamento manter-se-á enquanto durar o processo para a nova forma de ocupação.
 
-###### Art. 140.º O arrendatário poderá, em qualquer altura, dar por findo o contrato, mediante comunicação, por escrito, à autoridade concedente, que fixará o prazo dentro do qual o terreno deve ser reposto no estado inicial, se assim for julgado necessário.
+Art. 140.º O arrendatário poderá, em qualquer altura, dar por findo o contrato, mediante comunicação, por escrito, à autoridade concedente, que fixará o prazo dentro do qual o terreno deve ser reposto no estado inicial, se assim for julgado necessário.
 
-###### Art. 141.º Findo o contrato por decurso do prazo ou denúncia pelo arrendatário, pode este levantar as benfeitorias, com excepção daquelas que tenham sido necessárias para a conservação do terreno ou que tenham utilidade para mais de um talhão ou parcela.
+Art. 141.º Findo o contrato por decurso do prazo ou denúncia pelo arrendatário, pode este levantar as benfeitorias, com excepção daquelas que tenham sido necessárias para a conservação do terreno ou que tenham utilidade para mais de um talhão ou parcela.
 
 § único. O arrendatário despejado do terreno não tem direito de levantar as benfeitorias ou de ser indemnizado por elas.
 
 ##### DIVISÃO V — Da ocupação por licença
 
-###### Art. 142.º A ocupação por licença baseia-se em contrato de arrendamento, rescindível em qualquer altura por qualquer das partes.
+Art. 142.º A ocupação por licença baseia-se em contrato de arrendamento, rescindível em qualquer altura por qualquer das partes.
 
 § 1.º A rescisão produz-se 60 dias depois de ter sido comunicada por escrito à parte contrária, salvo o caso previsto no parágrafo seguinte.
 
 § 2.º A falta de cumprimento, pelo ocupante, de qualquer das condições legais ou contratuais, habilita o Estado a rescindir imediatamente o contrato.
 
-###### Art. 143.º O arrendamento em regra é feito por períodos de um ano, renováveis tàcitamente, se o contrato não for denunciado.
+Art. 143.º O arrendamento em regra é feito por períodos de um ano, renováveis tàcitamente, se o contrato não for denunciado.
 
-###### Art. 144.º O ocupante não tem direito de levantar as benfeitorias introduzidas no terreno nem a ser indemnizado por elas, qualquer que seja o motivo do termo da ocupação.
+Art. 144.º O ocupante não tem direito de levantar as benfeitorias introduzidas no terreno nem a ser indemnizado por elas, qualquer que seja o motivo do termo da ocupação.
 
 ##### DIVISÃO VI — Das concessões gratuitas
 
-##### SUBDIVISÃO I — Regras gerais
+SUBDIVISÃO I
 
-###### Art. 145.º As concessões gratuitas são contratos especiais, do tipo do aforamento ou do arrendamento em que o ocupante não está sujeito ao pagamento de remuneração, que todavia será fixada, pela ocupação do terreno.
+Regras gerais
+
+Art. 145.º As concessões gratuitas são contratos especiais, do tipo do aforamento ou do arrendamento em que o ocupante não está sujeito ao pagamento de remuneração, que todavia será fixada, pela ocupação do terreno.
 
 § único. Nestas concessões usar-se-á o tipo de aforamento ou o de arrendamento, conforme o destino do terreno, segundo o disposto nos artigos 50.º e 51.º
 
-###### Art. 146.º As concessões gratuitas regem-se pelos preceitos especiais contidos neste diploma e pelos aplicáveis aos contratos de aforamento ou arrendamento que não forem contrariados por aqueles.
+Art. 146.º As concessões gratuitas regem-se pelos preceitos especiais contidos neste diploma e pelos aplicáveis aos contratos de aforamento ou arrendamento que não forem contrariados por aqueles.
 
-###### Art. 147.º Os direitos dos concessionários a título gratuito não podem ser onerados ou alienados sem autorização da autoridade concedente.
+Art. 147.º Os direitos dos concessionários a título gratuito não podem ser onerados ou alienados sem autorização da autoridade concedente.
 
-###### Art. 148.º Quando outra coisa se não disponha neste diploma, o concessionário pode adquirir a propriedade plena sobre o terreno, pagando as importâncias que seriam exigíveis se a concessão não fosse gratuita e o preço dos trabalhos de demarcação, segundo a tabela que vigorar na altura do pedido.
+Art. 148.º Quando outra coisa se não disponha neste diploma, o concessionário pode adquirir a propriedade plena sobre o terreno, pagando as importâncias que seriam exigíveis se a concessão não fosse gratuita e o preço dos trabalhos de demarcação, segundo a tabela que vigorar na altura do pedido.
 
 § único. A faculdade conferida no corpo do artigo só pode ser exercida depois de quinze anos de vigência da concessão e será apreciada discricionàriamente pelo governador.
 
-##### SUBDIVISÃO II — Das concessões gratuitas a colonos
+SUBDIVISÃO II
 
-###### Art. 149.º O aproveitamento deve fazer-se de harmonia com os planos de povoamento agrário da zona ou, não os havendo, nos termos gerais estabelecidos por este diploma.
+Das concessões gratuitas a colonos
+
+Art. 149.º O aproveitamento deve fazer-se de harmonia com os planos de povoamento agrário da zona ou, não os havendo, nos termos gerais estabelecidos por este diploma.
 
 § 1.º A concessão termina, em qualquer tempo, se o concessionário deixar de viver no terreno, com a sua família, por mais de um ano, salvo caso de força maior.
 
 § 2.º A concessão resolve-se também, em qualquer altura, se o aproveitamento for interrompido, por mais de um ano consecutivo, por motivo não justificado.
 
-###### Art. 150.º Os direitos do concessionário sobre o terreno podem ser onerados a favor do Estado ou de instituições de crédito agrícola.
+Art. 150.º Os direitos do concessionário sobre o terreno podem ser onerados a favor do Estado ou de instituições de crédito agrícola.
 
-###### Art. 151.º Passados dois anos sobre o aproveitamento completo do terreno, o concessionário pode requerer a propriedade plena dele, a qual lhe será gratuitamente conferida.
+Art. 151.º Passados dois anos sobre o aproveitamento completo do terreno, o concessionário pode requerer a propriedade plena dele, a qual lhe será gratuitamente conferida.
 
 § único. Tendo a concessão durado vinte anos e estando completo o aproveitamento, será oficiosamente conferida ao concessionário a propriedade plena.
 
-##### SUBDIVISÃO III
+SUBDIVISÃO III
 
 Das concessões gratuitas a corpos administrativos, pessoas colectivas de utilidade pública administrativa, associações desportivas e organismos corporativos de trabalhadores.
 
-###### Art. 152.º As concessões gratuitas a corpos administrativos, pessoas colectivas de utilidade pública administrativa, associações desportivas e organismos corporativos de trabalhadores só podem abranger os terrenos estritamente necessários à realização dos seus fins.
+Art. 152.º As concessões gratuitas a corpos administrativos, pessoas colectivas de utilidade pública administrativa, associações desportivas e organismos corporativos de trabalhadores só podem abranger os terrenos estritamente necessários à realização dos seus fins.
 
-###### Art. 153.º As concessões referidas no artigo anterior são resolúveis desde que a aplicação dos terrenos se afaste dos fins para que eles foram concedidos ou o aproveitamento deixe de fazer-se no prazo estipulado ou legal.
+Art. 153.º As concessões referidas no artigo anterior são resolúveis desde que a aplicação dos terrenos se afaste dos fins para que eles foram concedidos ou o aproveitamento deixe de fazer-se no prazo estipulado ou legal.
 
-##### SUBDIVISÃO IV — Das concessões gratuitas a missões católicas portuguesas
+SUBDIVISÃO IV
 
-###### Art. 154.º As concessões gratuitas a missões católicas portuguesas devem destinar-se à realização das suas actividades religiosas, assistenciais e de ensino e ao sustento da própria missão.
+Das concessões gratuitas a missões católicas portuguesas
 
-###### Art. 155.º As concessões em terrenos de povoações ou seus subúrbios devem destinar-se a igrejas, residências paroquiais ou outros edifícios necessários às actividades referidas no artigo anterior.
+Art. 154.º As concessões gratuitas a missões católicas portuguesas devem destinar-se à realização das suas actividades religiosas, assistenciais e de ensino e ao sustento da própria missão.
+
+Art. 155.º As concessões em terrenos de povoações ou seus subúrbios devem destinar-se a igrejas, residências paroquiais ou outros edifícios necessários às actividades referidas no artigo anterior.
 
 ##### SUBSECÇÃO VI — Do processo de concessão
 
 ##### DIVISÃO I — Do processo comum
 
-###### Art. 156.º O processo de concessão constará dos seguintes termos, segundo a sequência processual adoptada em cada província:
+Art. 156.º O processo de concessão constará dos seguintes termos, segundo a sequência processual adoptada em cada província:
 
 1.º Requerimento de licença de demarcação provisória;
 
@@ -1048,19 +1086,19 @@ Das concessões gratuitas a corpos administrativos, pessoas colectivas de utilid
 
 16.º Requisição do registo da parcela na conservatória do registo predial e na matriz predial da Fazenda, se a houver.
 
-###### Art. 157.º São competentes para outorgar licenças de demarcação provisória:
+Art. 157.º São competentes para outorgar licenças de demarcação provisória:
 
 1.º Os directores de serviços de agrimensura, para áreas até 250 ha ou 50 ha, inclusive, respectivamente nas províncias de governo-geral e nas províncias de governo simples;
 
 2.º Os governadores, que poderão delegar nos directores de serviços de agrimensura, para áreas que não excedam 2000 ha nas províncias de governo-geral e 500 ha nas de governo simples.
 
-###### Art. 158.º A licença é passada pelos serviços de agrimensura, em cumprimento do respectivo despacho, e tem validade por um ano.
+Art. 158.º A licença é passada pelos serviços de agrimensura, em cumprimento do respectivo despacho, e tem validade por um ano.
 
 § único. Sendo a demarcação particular, o interessado deverá comunicar à entidade administrativa, por escrito, o dia em que a inicia. Na falta desta comunicação, entender-se-á que foi iniciada 30 dias antes da entrega do esboço topográfico nos serviços.
 
-###### Art. 159.º A licença deverá ser registada em livro apropriado da autoridade administrativa da zona onde a demarcação for feita.
+Art. 159.º A licença deverá ser registada em livro apropriado da autoridade administrativa da zona onde a demarcação for feita.
 
-###### Art. 160.º Com o requerimento da licença o interessado apresentará a prova da sua capacidade financeira e, quando a área requerida for superior a 100 ha, para fins agrícolas ou agro-pecuários, ou a 2 ha, para fins industriais, entregará também o plano pormenorizado do aproveitamento do terreno.
+Art. 160.º Com o requerimento da licença o interessado apresentará a prova da sua capacidade financeira e, quando a área requerida for superior a 100 ha, para fins agrícolas ou agro-pecuários, ou a 2 ha, para fins industriais, entregará também o plano pormenorizado do aproveitamento do terreno.
 
 § 1.º O plano referido no corpo do artigo, quando o terreno se destinar a fins agrícolas, agro-pecuários ou pecuários, deverá indicar:
 
@@ -1080,7 +1118,7 @@ f) Organização geral que se deseja dar à exploração.
 
 § 3.º Não pode ser aprovado plano que preveja aproveitamento inferior ao estabelecido neste diploma.
 
-###### Art. 161.º Com o requerimento de concessão serão juntos os seguintes documentos:
+Art. 161.º Com o requerimento de concessão serão juntos os seguintes documentos:
 
 1.º A licença de demarcação;
 
@@ -1090,7 +1128,7 @@ f) Organização geral que se deseja dar à exploração.
 
 § único. A identificação do requerente e do seu procurador, havendo-o, deve fazer-se na altura da entrega do pedido de licença ou de concessão, podendo, no entanto, aguardar-se a sua prova durante quinze dias, sob pena de indeferimento imediato do requerimento.
 
-###### Art. 162.º O requerimento a que se refere o artigo anterior conterá, além da identificação do requerente, o seguinte:
+Art. 162.º O requerimento a que se refere o artigo anterior conterá, além da identificação do requerente, o seguinte:
 
 1.º Menção da área demarcada, das confrontações e de quaisquer outras circunstâncias que interessem à identificação do terreno;
 
@@ -1098,21 +1136,21 @@ f) Organização geral que se deseja dar à exploração.
 
 3.º Indicação sobre se o requerente pretende que os trabalhos de demarcação definitiva sejam feitos por topógrafo oficial ou por agrimensor particular.
 
-###### Art. 163.º Os serviços de agrimensura juntarão ao requerimento o esboço topográfico e a memória descritiva relativa à demarcação provisória efectuada e promoverão, no caso de o terreno não ter sido demarcado oficialmente, a vistoria do terreno pela autoridade administrativa, ou por uma brigada de vistorias, se os terrenos se destinarem a fins agrícolas, agro-pecuários ou pecuários e se reconhecer a conveniência da sua intervenção.
+Art. 163.º Os serviços de agrimensura juntarão ao requerimento o esboço topográfico e a memória descritiva relativa à demarcação provisória efectuada e promoverão, no caso de o terreno não ter sido demarcado oficialmente, a vistoria do terreno pela autoridade administrativa, ou por uma brigada de vistorias, se os terrenos se destinarem a fins agrícolas, agro-pecuários ou pecuários e se reconhecer a conveniência da sua intervenção.
 
-###### Art. 164.º Feita a vistoria, se a demarcação provisória for aprovada, será dada publicidade ao pedido.
+Art. 164.º Feita a vistoria, se a demarcação provisória for aprovada, será dada publicidade ao pedido.
 
 § 1.º A publicação do aviso é feita por meio de editais publicados no Boletim Oficial e afixados na sede dos serviços de agrimensura, na repartição distrital dos mesmos serviços por onde o processo correr seus termos, nas secretarias das administrações de concelho ou de circunscrição e dos postos em cuja área o terreno estiver situado, e em sítio bem visível do próprio terreno.
 
 § 2.º Os editais marcarão prazo, não superior a 30 dias, para reclamação por parte de quaisquer terceiros interessados.
 
-###### Art. 165.º O Estado não é responsável pela ofensa de direitos de terceiros sobre terrenos que venha a conceder, quando os interessados não tenham deduzido no processo de concessão as competentes reclamações ou estas tenham sido julgadas improcedentes por despachos já não recorríveis.
+Art. 165.º O Estado não é responsável pela ofensa de direitos de terceiros sobre terrenos que venha a conceder, quando os interessados não tenham deduzido no processo de concessão as competentes reclamações ou estas tenham sido julgadas improcedentes por despachos já não recorríveis.
 
-###### Art. 166.º O requerimento de venda, concessão ou ocupação do terreno deverá dar entrada nos serviços até 60 dias depois de terminada a demarcação provisória.
+Art. 166.º O requerimento de venda, concessão ou ocupação do terreno deverá dar entrada nos serviços até 60 dias depois de terminada a demarcação provisória.
 
 § Único. Tendo a demarcação sido feita oficialmente, a declaração de conformidade do interessado substitui o requerimento de concessão.
 
-###### Art. 167.º Findo o prazo das reclamações, os serviços prestarão a sua informação e submeterão o processo a despacho do governador.
+Art. 167.º Findo o prazo das reclamações, os serviços prestarão a sua informação e submeterão o processo a despacho do governador.
 
 § 1.º A informação especificará todas as circunstâncias relevantes para a decisão e terminará propondo concretamente a forma de julgar as reclamações que tenham sido produzidas e o deferimento ou indeferimento do pedido.
 
@@ -1120,7 +1158,7 @@ f) Organização geral que se deseja dar à exploração.
 
 3.º Ao despacho do governador será dada publicidade por meio de aviso no Boletim Oficial.
 
-###### Art. 168.º Os despachos de venda de terrenos e os de concessão provisória por aforamento de terrenos de 1.ª classe ou de terrenos de 3.ª classe já cadastrados, serão precedidos de hasta pública.
+Art. 168.º Os despachos de venda de terrenos e os de concessão provisória por aforamento de terrenos de 1.ª classe ou de terrenos de 3.ª classe já cadastrados, serão precedidos de hasta pública.
 
 § 1.º A hasta pública poderá ser dispensada:
 
@@ -1132,85 +1170,91 @@ f) Organização geral que se deseja dar à exploração.
 
 § 3.º Para a adjudicação dos terrenos de 1.ª ou de 3.ª classes prèviamente cadastrados, a hasta pública poderá ter lugar nas sedes dos concelhos ou circunscrições perante o respectivo administrador.
 
-###### Art. 169.º A concessão ou ocupação de terrenos adjacentes às reservas referidas no [Decreto n.º 40040](https://diariodarepublica.pt/dr/detalhe/decreto/40040-1955-539198), de 20 de Janeiro de 1955, não podem ser autorizadas sem a aprovação do Conselho de Protecção da Natureza.
+Art. 169.º A concessão ou ocupação de terrenos adjacentes às reservas referidas no [Decreto n.º 40040](https://diariodarepublica.pt/dr/detalhe/decreto/40040-1955-539198), de 20 de Janeiro de 1955, não podem ser autorizadas sem a aprovação do Conselho de Protecção da Natureza.
 
-###### Art. 170.º Nenhuma concessão será outorgada sem que no processo se mostrem devidamente acautelados os interesses das populações locais, no que se refere a direitos de propriedade e a ocupação de terreno com culturas, pastagens para gados e habitações.
+Art. 170.º Nenhuma concessão será outorgada sem que no processo se mostrem devidamente acautelados os interesses das populações locais, no que se refere a direitos de propriedade e a ocupação de terreno com culturas, pastagens para gados e habitações.
 
-###### Art. 171.º Decorrido o prazo da concessão provisória, o concessionário juntará aos autos, dentro de 90 dias, a prova do aproveitamento do terreno.
+Art. 171.º Decorrido o prazo da concessão provisória, o concessionário juntará aos autos, dentro de 90 dias, a prova do aproveitamento do terreno.
 
-###### Art. 172.º O requerente que não resida na província ou que resida em localidade afastada dos meios normais de comunicação deverá constituir procurador que receba os avisos e mais comunicações relativas ao processo.
+Art. 172.º O requerente que não resida na província ou que resida em localidade afastada dos meios normais de comunicação deverá constituir procurador que receba os avisos e mais comunicações relativas ao processo.
 
 § único. Não será admitida justificação, pelo constituinte, de faltas de procuradoria, salvo caso de força maior devidamente comprovado.
 
-###### Art. 173.º Quando o concessionário ou seus representantes se ausentem da província sem comunicarem aos serviços de agrimensura o nome e residência do seu representante legal, os avisos, citações, notificações e intimações respeitantes à sua concessão ou título serão feitos por edital no Boletim Oficial e à sua custa, sendo arquivado o processo se, no fim do prazo que nessa publicação for marcado, não tiver vindo aos autos o interessado ou qualquer seu representante.
+Art. 173.º Quando o concessionário ou seus representantes se ausentem da província sem comunicarem aos serviços de agrimensura o nome e residência do seu representante legal, os avisos, citações, notificações e intimações respeitantes à sua concessão ou título serão feitos por edital no Boletim Oficial e à sua custa, sendo arquivado o processo se, no fim do prazo que nessa publicação for marcado, não tiver vindo aos autos o interessado ou qualquer seu representante.
 
-###### Art. 174.º Os processos de concessão de terrenos do Estado, incluindo os incidentes posteriores, são isentos de pagamento de selos, excepto os requerimentos, as licenças de demarcação, as reclamações e impugnações de quaisquer interessados, bem como os documentos que acompanharem as ditas reclamações e impugnações, e ainda os títulos de concessão, sua apostila e os registos na conservatória.
+Art. 174.º Os processos de concessão de terrenos do Estado, incluindo os incidentes posteriores, são isentos de pagamento de selos, excepto os requerimentos, as licenças de demarcação, as reclamações e impugnações de quaisquer interessados, bem como os documentos que acompanharem as ditas reclamações e impugnações, e ainda os títulos de concessão, sua apostila e os registos na conservatória.
 
 § único. São os mesmos processos e incidentes igualmente isentos do pagamento de custas, com excepção dos trabalhos de campo, quando feitos pelo pessoal dos serviços de agrimensura, dos títulos, da sua apostila e do registo na conservatória.
 
 ##### DIVISÃO II — Dos processos especiais
 
-##### SUBDIVISÃO I — Da concessão por contrato com o Ministro
+SUBDIVISÃO I
 
-###### Art. 175.º O Ministro determinará as cláusulas e o processo a seguir para a elaboração de cada um dos contratos, considerando-se, contudo, essencial a publicidade prévia, nos termos e para os efeitos dos artigos 164.º e 165.º
+Da concessão por contrato com o Ministro
 
-###### Art. 176.º O título será passado na província, seguindo-se as formalidades do registo.
+Art. 175.º O Ministro determinará as cláusulas e o processo a seguir para a elaboração de cada um dos contratos, considerando-se, contudo, essencial a publicidade prévia, nos termos e para os efeitos dos artigos 164.º e 165.º
 
-##### SUBDIVISÃO II — Da ocupação por licença
+Art. 176.º O título será passado na província, seguindo-se as formalidades do registo.
 
-###### Art. 177.º O pedido de licença deve conter o plano de utilização do terreno, ou, quando a importância e natureza desta não o justifique, a indicação do fim a que o terreno é destinado, a descrição pormenorizada do terreno e o respectivo esboço topográfico.
+SUBDIVISÃO II
 
-###### Art. 178.º O interessado será notificado das condições especiais a que a ocupação ficará sujeita e deverá comunicar por escrito a aceitação delas, depositando logo a importância que lhe for indicada para despesas de demarcação.
+Da ocupação por licença
 
-###### Art. 179.º O processo será seguidamente submetido a despacho do governador, com o parecer referido no artigo 167.º, publicando-se o despacho e realizando-se depois a demarcação, se for caso disso.
+Art. 177.º O pedido de licença deve conter o plano de utilização do terreno, ou, quando a importância e natureza desta não o justifique, a indicação do fim a que o terreno é destinado, a descrição pormenorizada do terreno e o respectivo esboço topográfico.
 
-###### Art. 180.º Os processos de ocupação de terrenos situados na faixa referida no n.º 7.º do artigo 1.º correrão também pelos serviços de agrimensura.
+Art. 178.º O interessado será notificado das condições especiais a que a ocupação ficará sujeita e deverá comunicar por escrito a aceitação delas, depositando logo a importância que lhe for indicada para despesas de demarcação.
 
-##### SUBDIVISÃO III — Outros processos especiais
+Art. 179.º O processo será seguidamente submetido a despacho do governador, com o parecer referido no artigo 167.º, publicando-se o despacho e realizando-se depois a demarcação, se for caso disso.
 
-###### Art. 181.º As demarcações definitivas das parcelas concedidas a título gratuito serão feitas por conta do Estado, mas a definição e materialização do terreno concedido serão feitas ou custeadas pela entidade interessada.
+Art. 180.º Os processos de ocupação de terrenos situados na faixa referida no n.º 7.º do artigo 1.º correrão também pelos serviços de agrimensura.
 
-###### Art. 182.º Os requerimentos formulados por corpos e corporações administrativos, instituições nacionais de beneficência, filantropia, desportos, fins científicos e fins de instrução serão acompanhados de cópia autêntica da acta da sessão em que o pedido tenha sido deliberado e de um exemplar dos estatutos, quando se trate de instituições que devam possuí-los.
+SUBDIVISÃO III
 
-###### Art. 183.º O requerimento de concessão gratuita a favor de uma missão católica portuguesa deve ser assinado pelo respectivo superior ou director e ser acompanhado por declaração do ordinário do lugar sobre a necessidade do terreno para os fins previstos no artigo 154.º
+Outros processos especiais
 
-###### Art. 184.º Os processos de concessões gratuitas são isentos do pagamento de selos, custas, anúncios e avisos que tenham de ser publicados no Boletim Oficial, mas as reclamações apresentadas pelas entidades beneficiárias, quando estas não sejam colectividades ou organismos de carácter essencialmente beneficente, serão sujeitas a selo, bem como os documentos que as acompanharem.
+Art. 181.º As demarcações definitivas das parcelas concedidas a título gratuito serão feitas por conta do Estado, mas a definição e materialização do terreno concedido serão feitas ou custeadas pela entidade interessada.
+
+Art. 182.º Os requerimentos formulados por corpos e corporações administrativos, instituições nacionais de beneficência, filantropia, desportos, fins científicos e fins de instrução serão acompanhados de cópia autêntica da acta da sessão em que o pedido tenha sido deliberado e de um exemplar dos estatutos, quando se trate de instituições que devam possuí-los.
+
+Art. 183.º O requerimento de concessão gratuita a favor de uma missão católica portuguesa deve ser assinado pelo respectivo superior ou director e ser acompanhado por declaração do ordinário do lugar sobre a necessidade do terreno para os fins previstos no artigo 154.º
+
+Art. 184.º Os processos de concessões gratuitas são isentos do pagamento de selos, custas, anúncios e avisos que tenham de ser publicados no Boletim Oficial, mas as reclamações apresentadas pelas entidades beneficiárias, quando estas não sejam colectividades ou organismos de carácter essencialmente beneficente, serão sujeitas a selo, bem como os documentos que as acompanharem.
 
 ##### SUBSECÇÃO VII — Do título
 
-###### Art. 185.º As concessões e as vendas serão documentadas por um título de concessão ou de venda, O concessionário que possuir várias concessões contíguas em terrenos da mesma classe poderá obter um único título, que abranja todas, desde que o requeira e faça prova da sua contiguidade e do aproveitamento de cada uma.
+Art. 185.º As concessões e as vendas serão documentadas por um título de concessão ou de venda, O concessionário que possuir várias concessões contíguas em terrenos da mesma classe poderá obter um único título, que abranja todas, desde que o requeira e faça prova da sua contiguidade e do aproveitamento de cada uma.
 
 § único. As licenças de ocupação serão documentadas por alvará e as concessões por arrendamento feitas pelas autoridades administrativas serão tituladas por meio de certidões extraídas dos termos respectivos.
 
-###### Art. 186.º Os títulos de concessão compõem-se de quatro partes, sendo a primeira destinada ao contrato de concessão, a segunda à planta do terreno e diagrama numérico, a terceira à inscrição de todos os actos jurídicos sujeitos a registos que recaiam sobre a propriedade e a quarta aos endossos.
+Art. 186.º Os títulos de concessão compõem-se de quatro partes, sendo a primeira destinada ao contrato de concessão, a segunda à planta do terreno e diagrama numérico, a terceira à inscrição de todos os actos jurídicos sujeitos a registos que recaiam sobre a propriedade e a quarta aos endossos.
 
-###### Art. 187.º Os alvarás referidos no § único do artigo 185.º constarão de duas partes, a primeira das quais conterá a licença de ocupação e a segunda a planta do terreno e os elementos numéricos que identifiquem a situação e a área do terreno.
+Art. 187.º Os alvarás referidos no § único do artigo 185.º constarão de duas partes, a primeira das quais conterá a licença de ocupação e a segunda a planta do terreno e os elementos numéricos que identifiquem a situação e a área do terreno.
 
-###### Art. 188.º Os títulos são assinados pelo director dos serviços de agrimensura.
+Art. 188.º Os títulos são assinados pelo director dos serviços de agrimensura.
 
-###### Art. 189.º Quando haja mais de um concessionário, o título será entregue ao que tiver maior quota de direitos sobre os terrenos concedidos, e sendo as quotas iguais, far-se-á a entrega a todos, em conjunto, ou a qualquer deles.
+Art. 189.º Quando haja mais de um concessionário, o título será entregue ao que tiver maior quota de direitos sobre os terrenos concedidos, e sendo as quotas iguais, far-se-á a entrega a todos, em conjunto, ou a qualquer deles.
 
-###### Art. 190.º Os títulos de concessão, antes da sua entrega aos concessionários, serão enviados oficiosamente aos conservadores de registo predial, que lançarão na terceira parte a nota do registo dos direitos.
+Art. 190.º Os títulos de concessão, antes da sua entrega aos concessionários, serão enviados oficiosamente aos conservadores de registo predial, que lançarão na terceira parte a nota do registo dos direitos.
 
 § único. A nota deverá ser datada, assinada e autenticada com o carimbo ou o selo branco.
 
-###### Art. 191.º Os títulos de concessão farão prova plena, em juízo e fora dele, dos actos que nele estejam inscritos e da identificação do prédio.
+Art. 191.º Os títulos de concessão farão prova plena, em juízo e fora dele, dos actos que nele estejam inscritos e da identificação do prédio.
 
-###### Art. 192.º Quando um título de concessão tenha sido perdido ou destruído, deve o seu proprietário pedir que lhe seja passada uma segunda via, apresentando no requerimento os fundamentos do pedido.
+Art. 192.º Quando um título de concessão tenha sido perdido ou destruído, deve o seu proprietário pedir que lhe seja passada uma segunda via, apresentando no requerimento os fundamentos do pedido.
 
 § 1.º Pela segunda via e respectivo registo pagará o concessionário os emolumentos e taxas devidos pelo título original, bem como as despesas com a respectiva publicidade.
 
 § 2.º O novo título, antes de entregue, será remetido à conservatória para verificação, e o conservador lançará nota desta no fim da terceira parte e, quando haja alterações, mencioná-las-á, datando, assinando e autenticando.
 
-###### Art. 193.º Os títulos presumem-se, até prova em contrário, em poder dos seus proprietários.
+Art. 193.º Os títulos presumem-se, até prova em contrário, em poder dos seus proprietários.
 
-###### Art. 194.º Os concessionários de terrenos podem requerer a substituição dos seus títulos por outros, passados nos termos deste diploma, quando os respectivos terrenos, estando registados na conservatória, se encontrem definitivamente cadastrados e se reconheça a validade das concessões cujos títulos se pretende substituir.
+Art. 194.º Os concessionários de terrenos podem requerer a substituição dos seus títulos por outros, passados nos termos deste diploma, quando os respectivos terrenos, estando registados na conservatória, se encontrem definitivamente cadastrados e se reconheça a validade das concessões cujos títulos se pretende substituir.
 
-###### Art. 195.º A substituição dos títulos só pode ser autorizada quando o requerente entregar o título anterior e o objecto da concessão puder identificar-se, não respondendo o Estado por qualquer prejuízo que para o concessionário possa advir da redução da área ou da impossibilidade de demarcação.
+Art. 195.º A substituição dos títulos só pode ser autorizada quando o requerente entregar o título anterior e o objecto da concessão puder identificar-se, não respondendo o Estado por qualquer prejuízo que para o concessionário possa advir da redução da área ou da impossibilidade de demarcação.
 
-###### Art. 196.º Os conservadores, quando lhes seja entregue ou remetido o novo título, verificarão os registos já feitos e consignarão essa circunstância nas notas do registo que lançarem nesse título, devendo também fazer nos livros da conservatória as anotações ou averbamentos correspondentes.
+Art. 196.º Os conservadores, quando lhes seja entregue ou remetido o novo título, verificarão os registos já feitos e consignarão essa circunstância nas notas do registo que lançarem nesse título, devendo também fazer nos livros da conservatória as anotações ou averbamentos correspondentes.
 
-###### Art. 197.º Aos titulares de propriedade perfeita, não adquirida por concessão do Estado, sobre prédios identificados quanto à localização, área e forma pelos processos de demarcação definitiva, poderá ser passado título.
+Art. 197.º Aos titulares de propriedade perfeita, não adquirida por concessão do Estado, sobre prédios identificados quanto à localização, área e forma pelos processos de demarcação definitiva, poderá ser passado título.
 
 § 1.º O requerimento será instruído com certidão da conservatória do registo predial, de que constem a descrição do prédio, a inscrição da propriedade plena a favor do requerente e todos os actos de aquisição originária ou derivada relativos ao prédio.
 
@@ -1218,7 +1262,7 @@ f) Organização geral que se deseja dar à exploração.
 
 § 3.º Será recusada a passagem de título quando da certidão apresentada resultem dúvidas acerca do direito invocado pelo requerente.
 
-###### Art. 198.º O Estado só reconhece direitos de propriedade territorial devidamente titulados, nos termos deste diploma.
+Art. 198.º O Estado só reconhece direitos de propriedade territorial devidamente titulados, nos termos deste diploma.
 
 § 1.º Quando na execução do cadastro forem invocados direitos não titulados conforme o corpo do artigo, será marcado um prazo para requerer o título.
 
@@ -1230,7 +1274,7 @@ f) Organização geral que se deseja dar à exploração.
 
 ##### SUBSECÇÃO VIII — Da substituição no processo e da transmissão
 
-###### Art. 199.º A substituição no processo e a transmissão de situações resultantes de concessão pode operar-se por efeito de:
+Art. 199.º A substituição no processo e a transmissão de situações resultantes de concessão pode operar-se por efeito de:
 
 a) Associação;
 
@@ -1240,7 +1284,7 @@ c) Execução judicial;
 
 d) Sucessão por morte.
 
-###### Art. 200.º A substituição no processo e a transmissão de situações resultantes de concessões são nulas e de nenhum efeito se não forem autorizadas pela entidade competente para outorgar as respectivas concessões.
+Art. 200.º A substituição no processo e a transmissão de situações resultantes de concessões são nulas e de nenhum efeito se não forem autorizadas pela entidade competente para outorgar as respectivas concessões.
 
 § 1.º Nos processos judiciais de que resulte a substituição ou a transmissão, a sentença não será pronunciada antes de o despacho de autorização ter sido obtido oficiosamente ou a requerimento do interessado.
 
@@ -1250,15 +1294,15 @@ d) Sucessão por morte.
 
 § 4.º No caso de o foro estar remido ou de a concessão ser por venda, só é necessária a autorização para a transmissão quando esta for feita a favor de entidade estrangeira.
 
-###### Art. 201.º É nula e de nenhum efeito a substituição ou a transmissão em que sejam reservados ou de qualquer modo fiquem a pertencer a sujeitos diferentes parte dos direitos, poderes, obrigações ou encargos do primitivo requerente ou concessionário.
+Art. 201.º É nula e de nenhum efeito a substituição ou a transmissão em que sejam reservados ou de qualquer modo fiquem a pertencer a sujeitos diferentes parte dos direitos, poderes, obrigações ou encargos do primitivo requerente ou concessionário.
 
-###### Art. 202.º Excepto nos casos em que a lei expressamente o consentir, são instransmissíveis as concessões gratuitas e as situações resultantes de licenças de ocupação.
+Art. 202.º Excepto nos casos em que a lei expressamente o consentir, são instransmissíveis as concessões gratuitas e as situações resultantes de licenças de ocupação.
 
 § 1.º O titular de uma licença de ocupação pode desistir dela a favor de um terceiro, mas a aceitação deste é discricionàriamente apreciada e a situação do novo titular considerar-se-á originária para todos os efeitos.
 
 § 2.º Nos processos de contrato com o Ministro, nos de concessão gratuita e nos de licença de ocupação não pode haver substituição.
 
-###### Art. 203.º Os requerentes de uma concessão não abrangida pelo § 2.º do artigo anterior podem solicitar a sua substituição, no processo, por uma ou mais pessoas, até ao despacho de concessão provisória.
+Art. 203.º Os requerentes de uma concessão não abrangida pelo § 2.º do artigo anterior podem solicitar a sua substituição, no processo, por uma ou mais pessoas, até ao despacho de concessão provisória.
 
 § 1.º O requerimento é dirigido a entidade concedente, assinado por todos os interessados, e indicará todas as circunstâncias subjectivas e objectivas da substituição.
 
@@ -1266,9 +1310,9 @@ d) Sucessão por morte.
 
 § 3.º Efectuando-se a substituição por virtude de sentença judicial ou de sucessão por morte, o requerimento será apresentado pelo interessado, para os efeitos do artigo 200.º
 
-###### Art. 204.º À legitimidade para a substituição ou transmissão aplica-se o disposto na subsecção III, secção III, capítulo III, título II.
+Art. 204.º À legitimidade para a substituição ou transmissão aplica-se o disposto na subsecção III, secção III, capítulo III, título II.
 
-###### Art. 205.º Os direitos derivados de concessão provisória só podem transmitir-se por acto voluntário entre vivos, a título gratuito ou oneroso, mediante escritura pública.
+Art. 205.º Os direitos derivados de concessão provisória só podem transmitir-se por acto voluntário entre vivos, a título gratuito ou oneroso, mediante escritura pública.
 
 § 1.º Os direitos inerentes ao título de concessão por aforamento transmitem-se por endosso.
 
@@ -1276,7 +1320,7 @@ d) Sucessão por morte.
 
 § 3.º Quando o endosso envolver cláusulas que tornem indispensável a sua redução a escritura pública, deve nele identificar-se o lugar em que esta se tiver lavrado e em que data.
 
-###### Art. 206.º Os terrenos titulados podem ser divididos em glebas para efeitos de transmissão, desde que a área de cada uma não seja inferior a 4 ha nem superior ao máximo concedível pelo governador, que estejam pagos os foros, rendas e impostos à data do pedido e que nenhuma delas se encontre por aproveitar.
+Art. 206.º Os terrenos titulados podem ser divididos em glebas para efeitos de transmissão, desde que a área de cada uma não seja inferior a 4 ha nem superior ao máximo concedível pelo governador, que estejam pagos os foros, rendas e impostos à data do pedido e que nenhuma delas se encontre por aproveitar.
 
 § 1.º A divisão será requerida pelos interessados, que devem instruir o seu pedido com:
 
@@ -1290,19 +1334,19 @@ d) Sucessão por morte.
 
 § 2.º Cada gleba constituirá uma nova concessão, de que será passado, em nome de cada um dos interessados, o correspondente título, ficando arquivado nos serviços de agrimensura o título original, devidamente cancelado.
 
-###### Art. 207.º A sentença judicial que determine ou confirme a transmissão habilita o adquirente a requerer o averbamento do seu nome no processo, a passagem de uma segunda via do título, quando este tiver desaparecido, e o registo provisório de transmissão.
+Art. 207.º A sentença judicial que determine ou confirme a transmissão habilita o adquirente a requerer o averbamento do seu nome no processo, a passagem de uma segunda via do título, quando este tiver desaparecido, e o registo provisório de transmissão.
 
 § 1.º A segunda via do título só poderá passar-se quando no processo se mostrar o desaparecimento do anterior proprietário do título ou a recusa deste em entregá-lo e na sentença ou despacho o mesmo título for julgado de nenhum efeito quanto aos direitos que possa conferir ao seu dono anterior.
 
 § 2.º O registo provisório, referido no corpo do artigo, será convertido em definitivo quando na conservatória for apresentada a segunda via do título para verificação, mas caducará se o processo para a passagem do novo título estiver parado por mais de um ano por culpa do interessado.
 
-###### Art. 208.º Por morte do requerente ou concessionário, os direitos relativos ao terreno são transmitidos para os herdeiros.
+Art. 208.º Por morte do requerente ou concessionário, os direitos relativos ao terreno são transmitidos para os herdeiros.
 
 § 1.º Reverte para o Estado o terreno quando, no prazo de um ano, a contar da morte do concessionário, não for efectuado o registo de transmissão ou requerida a substituição no processo, salvo se se provar a existência de processo judicial relativo à sucessão.
 
 § 2.º O conservador comunicará aos serviços de agrimensura o registo efectuado.
 
-###### Art. 209.º Quando a propriedade titulada tenha de dividir-se entre herdeiros por morte do concessionário, ou se qualquer dos co-titulares pretender essa divisão, observar-se-á o seguinte:
+Art. 209.º Quando a propriedade titulada tenha de dividir-se entre herdeiros por morte do concessionário, ou se qualquer dos co-titulares pretender essa divisão, observar-se-á o seguinte:
 
 1.º Quando os interessados estiverem de acordo e a divisão se puder fazer em substância, será esta requerida à autoridade concedente e será feita nos termos do artigo 206.º e seus parágrafos;
 
@@ -1328,7 +1372,7 @@ g) Feita a divisão e julgada por sentença, requererão os interessados ao gove
 
 § 2.º Se na conferência algum dos interessados fizer questão do domínio ou posse exclusiva, essa circunstância se consignará no auto e o juiz remeterá as partes para os meios ordinários.
 
-###### Art. 210.º Verifica-se a associação quando é criada uma co-titularidade da situação existente, fazendo parte dela o requerente ou concessionário inicial.
+Art. 210.º Verifica-se a associação quando é criada uma co-titularidade da situação existente, fazendo parte dela o requerente ou concessionário inicial.
 
 § 1.º A associação está sujeita aos requisitos formais da substituição ou da transmissão, conforme os casos.
 
@@ -1336,13 +1380,13 @@ g) Feita a divisão e julgada por sentença, requererão os interessados ao gove
 
 § 3.º Nos casos referidos no corpo do artigo e § 2. a Administração apreciará especialmente a conveniência da pluralidade de titulares ou de parcelamento da concessão.
 
-###### Art. 211.º Não pode ser autorizada a substituição ou transmissão enquanto os interessados estiverem em dívida de foros, rendas, taxas ou impostos.
+Art. 211.º Não pode ser autorizada a substituição ou transmissão enquanto os interessados estiverem em dívida de foros, rendas, taxas ou impostos.
 
 § único. O governador não autorizará a substituição ou a transmissão anterior à prova de aproveitamento, quando houver motivos para supor que a concessão foi pedida com fins especulativos.
 
 ##### SUBSECÇÃO IX — Do termo do processo e da concessão
 
-###### Art. 212.º A demarcação provisória caducará e serão arrancados os respectivos postes por diligência da autoridade respectiva, quando:
+Art. 212.º A demarcação provisória caducará e serão arrancados os respectivos postes por diligência da autoridade respectiva, quando:
 
 1.º For realizada sem observância das formalidades exigidas pelos artigos 73.º e 159.º;
 
@@ -1354,11 +1398,11 @@ g) Feita a divisão e julgada por sentença, requererão os interessados ao gove
 
 5.º Não for requerida a concessão do terreno dentro do prazo fixado neste diploma.
 
-###### Art. 213.º É permitida a desistência de qualquer concessão de terrenos ou de pedido de concessão, perdendo o requerente os depósitos em saldo no processo e as benfeitorias introduzidas no terreno, o qual reverterá à posse do Estado.
+Art. 213.º É permitida a desistência de qualquer concessão de terrenos ou de pedido de concessão, perdendo o requerente os depósitos em saldo no processo e as benfeitorias introduzidas no terreno, o qual reverterá à posse do Estado.
 
 § único. Os depósitos feitos para a execução da demarcação definitiva, quando os trabalhos ainda não tiverem sido iniciados, poderão ser devolvidos ao interessado, se este o requerer dentro de 180 dias, a contar da data do despacho que autorizar a desistência.
 
-###### Art. 214.º Serão arquivados os processos de concessão e indeferidos os respectivos pedidos:
+Art. 214.º Serão arquivados os processos de concessão e indeferidos os respectivos pedidos:
 
 1.º Quando os requerentes ou seus representantes legais não tenham dado cumprimento às disposições deste diploma e seus regulamentos; ou não tenham satisfeito, dentro dos prazos estabelecidos ou marcados, as obrigações para cujo cumprimento hajam sido intimados ou notificados;
 
@@ -1368,7 +1412,7 @@ g) Feita a divisão e julgada por sentença, requererão os interessados ao gove
 
 § 2.º No caso do n.º 1.º do corpo do artigo, os saldos dos depósitos existentes reverterão para a Fazenda Nacional e no caso do n.º 2.º poderão ser restituídos, se o interessado o requerer no prazo de 180 dias, a contar do despacho do requerimento, e não se provar que houve dolo na demarcação julgada insubsistente.
 
-###### Art. 215.º Serão declaradas caducas, por despacho do governador a publicar no Boletim Oficial, sem direito a qualquer indemnização, as concessões em que:
+Art. 215.º Serão declaradas caducas, por despacho do governador a publicar no Boletim Oficial, sem direito a qualquer indemnização, as concessões em que:
 
 1.º Sendo gratuitas, os terrenos tenham sido utilizados para fins diferentes dos da concessão ou não tenha sido feito o seu aproveitamento no prazo legal;
 
@@ -1386,65 +1430,65 @@ g) Feita a divisão e julgada por sentença, requererão os interessados ao gove
 
 § 5.º No caso de anulação da concessão definitiva, o concessionário terá direito às benfeitorias que puder levantar, sem detrimento do terreno, no prazo máximo de 90 dias, findo o qual reverterão para o Estado.
 
-###### Art. 216.º Pode ser autorizada a redução da área de uma concessão provisória dentro do prazo de dois anos, a contar da data da sua outorga, devendo, para isso, juntar-se ao pedido um esboço topográfico representativo do terreno a que ficará reduzida a concessão, e, quando o pedido obtiver deferimento, materializar no terreno a demarcação provisória em harmonia com o esboço topográfico acima referido.
+Art. 216.º Pode ser autorizada a redução da área de uma concessão provisória dentro do prazo de dois anos, a contar da data da sua outorga, devendo, para isso, juntar-se ao pedido um esboço topográfico representativo do terreno a que ficará reduzida a concessão, e, quando o pedido obtiver deferimento, materializar no terreno a demarcação provisória em harmonia com o esboço topográfico acima referido.
 
 § único. Não se autorizará qualquer alteração que envolva deslocação do objecto da concessão.
 
-###### Art. 217.º Pode o Estado a todo o tempo expropriar, no todo ou em parte, o terreno objecto da concessão quando fins de utilidade pública assim o determinem.
+Art. 217.º Pode o Estado a todo o tempo expropriar, no todo ou em parte, o terreno objecto da concessão quando fins de utilidade pública assim o determinem.
 
 § 1.º Na expropriação dos terrenos concedidos, da qual o concessionário deverá, em regra, ser prevenido com a antecedência mínima de seis meses, o Governo pagará apenas o valor das benfeitorias não voluptuárias introduzidas pelo concessionário, mas poderá conceder-lhe, sem qualquer encargo para ele, uma parcela de terreno da mesma classe, com igual área e susceptível de aproveitamento similar, se o houver livre.
 
 § 2.º No caso de não se chegar a acordo com o concessionário sobre o valor das benfeitorias não voluptuárias, o Estado ocupará o terreno, precedendo vistoria, e seguindo-se os demais termos de direito para a fixação da indemnização devida.
 
-###### Art. 218.º O processo de concessão será mandado arquivar quando o concessionário não fizer o depósito do custo da demarcação definitiva dentro do prazo que lhe tiver sido fixado ou não juntar, dentro do prazo que se lhe marcar, o contrato celebrado com o agrimensor particular para execução dos mesmos trabalhos, conforme a demarcação deva ser executada por pessoal dos serviços ou por agrimensor particular.
+Art. 218.º O processo de concessão será mandado arquivar quando o concessionário não fizer o depósito do custo da demarcação definitiva dentro do prazo que lhe tiver sido fixado ou não juntar, dentro do prazo que se lhe marcar, o contrato celebrado com o agrimensor particular para execução dos mesmos trabalhos, conforme a demarcação deva ser executada por pessoal dos serviços ou por agrimensor particular.
 
 § único. Neste caso, o concessionário poderá requerer a manutenção da demarcação provisória da parcela e a concessão do mesmo terreno no prazo de 60 dias, a contar da data da publicação do aviso de anulação no Boletim Oficial, findo o qual serão perdidas a favor do Estado as benfeitorias existentes no terreno.
 
 ##### SUBSECÇÃO X — Da venda
 
-###### Art. 219.º Poderão ser vendidos os terrenos destinados a construção de edifícios para fins residenciais, comerciais ou industriais e respectivos logradouros, parques e jardins, até à área máxima de 20000 m2, sem prejuízo dos planos referentes à disciplina urbanística.
+Art. 219.º Poderão ser vendidos os terrenos destinados a construção de edifícios para fins residenciais, comerciais ou industriais e respectivos logradouros, parques e jardins, até à área máxima de 20000 m2, sem prejuízo dos planos referentes à disciplina urbanística.
 
 § único. Nas povoações marítimas ou junto dos portos marítimos ou fluviais será marcada uma zona necessária ao desenvolvimento portuário, cujos terrenos não poderão ser vendidos.
 
-###### Art. 220.º A venda considera-se implìcitamente condicionada à realização da demarcação definitiva do terreno e ao aproveitamento deste no prazo máximo de três anos.
+Art. 220.º A venda considera-se implìcitamente condicionada à realização da demarcação definitiva do terreno e ao aproveitamento deste no prazo máximo de três anos.
 
 § único. Passados os três anos sem terem sido cumpridas as condições referidas no corpo do artigo, o contrato considera-se dissolvido, perdendo o comprador o preço que tiver pago e as benfeitorias que tiver feito no terreno.
 
-###### Art. 221.º O preço da venda será apurado em hasta pública por licitação sobre a importância fixada na regulamentação complementar e será sempre pago em duas prestações, sendo a primeira, igual a 25 por cento do seu quantitativo, depositada nos cofres da Fazenda dentro dos dez dias imediatos ao da praça e a segunda até oito dias antes do termo do prazo para o aproveitamento.
+Art. 221.º O preço da venda será apurado em hasta pública por licitação sobre a importância fixada na regulamentação complementar e será sempre pago em duas prestações, sendo a primeira, igual a 25 por cento do seu quantitativo, depositada nos cofres da Fazenda dentro dos dez dias imediatos ao da praça e a segunda até oito dias antes do termo do prazo para o aproveitamento.
 
 § 1.º A base de licitação nunca será inferior à importância correspondente a 30 anuidades do foro devido no caso de aforamento.
 
 § 2.º Decorrido o prazo para pagamento da segunda prestação sem este ser efectuado, será promovida a cobrança por meio de execução fiscal.
 
-###### Art. 222.º Se o governador não se conformar com o preço obtido em hasta pública, ou ordenará nova praça, fixando a base que julgar conveniente, ou não autorizará a venda.
+Art. 222.º Se o governador não se conformar com o preço obtido em hasta pública, ou ordenará nova praça, fixando a base que julgar conveniente, ou não autorizará a venda.
 
-###### Art. 223.º A venda, nos termos dos artigos 115.º e 135.º, de terrenos anteriormente concedidos por aforamento ou por arrendamento far-se-á com dispensa de hasta pública mediante o pagamento por inteiro de 30 anuidades do foro ou renda devidos na data da venda para terrenos da mesma classificação.
+Art. 223.º A venda, nos termos dos artigos 115.º e 135.º, de terrenos anteriormente concedidos por aforamento ou por arrendamento far-se-á com dispensa de hasta pública mediante o pagamento por inteiro de 30 anuidades do foro ou renda devidos na data da venda para terrenos da mesma classificação.
 
 #### SECÇÃO IV — Da ocupação de terrenos pelas regedorias e seus vizinhos
 
 ##### SUBSECÇÃO I — Da ocupação conjunta de terrenos
 
-###### Art. 224.º Os terrenos de 2.ª classe devem ser ocupados, usados e fruídos, em conjunto e na forma consuetudinária, por populações das regedorias.
+Art. 224.º Os terrenos de 2.ª classe devem ser ocupados, usados e fruídos, em conjunto e na forma consuetudinária, por populações das regedorias.
 
 § único. A ocupação realizada de harmonia com o corpo do artigo não confere direito de propriedade individual e será regulada entre os vizinhos pelos respectivos usos e costumes.
 
-###### Art. 225.º Os indivíduos não legitimados pelo disposto no artigo anterior que, posteriormente à entrada em vigor deste diploma, procederem à ocupação de terrenos de 2.ª classe ou neles se introduzirem para de qualquer forma os explorar, ficam sujeitos à pena do artigo 445.º do Código Penal, desde que tenham procedido com dolo ou má fé.
+Art. 225.º Os indivíduos não legitimados pelo disposto no artigo anterior que, posteriormente à entrada em vigor deste diploma, procederem à ocupação de terrenos de 2.ª classe ou neles se introduzirem para de qualquer forma os explorar, ficam sujeitos à pena do artigo 445.º do Código Penal, desde que tenham procedido com dolo ou má fé.
 
 § único. Presume-se a má fé quando o arguido não tiver consultado a autoridade administrativa sobre a classificação do terreno.
 
-###### Art. 226.º Os terrenos de 2.ª classe podem ser concedidos, nos termos da subsecção II, aos vizinhos da respectiva regedoria, quando o governador de distrito autorizar, a requerimento do regedor com voto concordante dos seus conselheiros, que eles se tornem individualmente apropriáveis, para o que neles devem estar instaladas, com carácter estável, povoações e culturas.
+Art. 226.º Os terrenos de 2.ª classe podem ser concedidos, nos termos da subsecção II, aos vizinhos da respectiva regedoria, quando o governador de distrito autorizar, a requerimento do regedor com voto concordante dos seus conselheiros, que eles se tornem individualmente apropriáveis, para o que neles devem estar instaladas, com carácter estável, povoações e culturas.
 
 ##### SUBSECÇÃO II — Da ocupação individual de terrenos
 
-###### Art. 227.º Independentemente da opção pela lei escrita de direito privado podem os vizinhos das regedorias adquirir direitos sobre terrenos vagos nos termos gerais previstos neste diploma.
+Art. 227.º Independentemente da opção pela lei escrita de direito privado podem os vizinhos das regedorias adquirir direitos sobre terrenos vagos nos termos gerais previstos neste diploma.
 
 § único O disposto nos artigos seguintes não se aplica aos que tenham optado pela referida lei, caso em que as concessões passam a regular-se exclusivamente por ela.
 
-###### Art. 228.º É livre a ocupação por qualquer vizinho das regedorias de terrenos vagos, incultos e devolutos, a fim de neles instalarem as suas habitações e culturas, e, bem assim, é-lhes permitido apascentar os seus gados nos mesmos terrenos.
+Art. 228.º É livre a ocupação por qualquer vizinho das regedorias de terrenos vagos, incultos e devolutos, a fim de neles instalarem as suas habitações e culturas, e, bem assim, é-lhes permitido apascentar os seus gados nos mesmos terrenos.
 
 § único. A ocupação de terrenos de 1.ª classe subordina-se às necessidades de urbanização.
 
-###### Art. 229.º Os vizinhos podem ser foreiros ou arrendatários de terrenos de 1.ª e 3.ª classe, nos termos dos artigos seguintes.
+Art. 229.º Os vizinhos podem ser foreiros ou arrendatários de terrenos de 1.ª e 3.ª classe, nos termos dos artigos seguintes.
 
 § 1.º Os direitos e deveres dos foreiros e arrendatários serão os previstos na subsecção V, secção III, capítulo III, título II, quando não forem contrariados pelo disposto nesta subsecção.
 
@@ -1452,7 +1496,7 @@ g) Feita a divisão e julgada por sentença, requererão os interessados ao gove
 
 § 3.º Não são abrangidos pelo corpo do artigo os terrenos só ocupáveis por licença.
 
-###### Art. 230.º O arrendamento só pode ser constituído por concessão do governo da província.
+Art. 230.º O arrendamento só pode ser constituído por concessão do governo da província.
 
 O aforamento pode ser constituído:
 
@@ -1462,13 +1506,13 @@ b) Por contrato celebrado com um particular;
 
 c) Por posse de boa fé, contínua, pacífica e pública durante dez anos, pelo menos, de terrenos anteriormente vagos ou abandonados, onde se prove tratamento de árvores ou cultura permanente realizados pelo possuidor.
 
-###### Art. 231.º Não podem ser concedidos por aforamento mais de 50 ha, salvo quando se faça prova de recursos e de capacidade de trabalho que justifiquem a pretensão.
+Art. 231.º Não podem ser concedidos por aforamento mais de 50 ha, salvo quando se faça prova de recursos e de capacidade de trabalho que justifiquem a pretensão.
 
 § único. Nas regiões onde estejam em curso programas de desenvolvimento comunitário da agricultura ou de ordenamento agrário, a autoridade administrativa, assistida pelos serviços encarregados da sua execução, proporá as áreas dos terrenos a conceder aos vizinhos interessados.
 
-###### Art. 232.º O foro só poderá ser remido depois de o concessionário optar pela lei escrita de direito privado.
+Art. 232.º O foro só poderá ser remido depois de o concessionário optar pela lei escrita de direito privado.
 
-###### Art. 233.º Nos processos de concessão observar-se-á especialmente o seguinte:
+Art. 233.º Nos processos de concessão observar-se-á especialmente o seguinte:
 
 a) O requerimento, que pode ser verbal e reduzido a auto, será apresentado ao administrador do concelho ou de circunscrição;
 
@@ -1476,7 +1520,7 @@ b) A autoridade que receber o requerimento procederá à sinalização da área 
 
 c) O requerimento, os elementos de identificação do terreno e as informações da autoridade administrativa sobre a conveniência ou inconveniência da concessão serão enviados no prazo de 30 dias aos serviços de agrimensura, que autuarão o processo e promoverão a publicidade do pedido e os demais trâmites nos termos fixados para os processes de concessão por aforamento.
 
-###### Art. 234.º O interessado que pretender demonstrar a aquisição de direito, nos termos da alínea c) do artigo 230.º, justificá-la-á perante o juiz municipal nos termos seguintes:
+Art. 234.º O interessado que pretender demonstrar a aquisição de direito, nos termos da alínea c) do artigo 230.º, justificá-la-á perante o juiz municipal nos termos seguintes:
 
 1.º O pedido verbal do interessado será reduzido a auto, no qual se consignará a descrição, quanto possível exacta, da área possuída e os demais factos alegados pelo justificante;
 
@@ -1484,57 +1528,57 @@ c) O requerimento, os elementos de identificação do terreno e as informações
 
 3.º Os autos, com certidão do registo provisório, serão seguidamente remetidos aos serviços de agrimensura, que promoverão a publicidade do pedido e a demarcação definitiva e emitirão o título definitivo.
 
-###### Art. 235.º As concessões definitivas por aforamento serão resolúveis durante um período de dez anos, desde que não se faça o aproveitamento do terreno, se abandone ou se deixe de cultivar este por dois anos, sem motivo de força maior, ou ainda se o concessionário for justificadamente expulso do agregado social em razão do qual houver recebido a concessão.
+Art. 235.º As concessões definitivas por aforamento serão resolúveis durante um período de dez anos, desde que não se faça o aproveitamento do terreno, se abandone ou se deixe de cultivar este por dois anos, sem motivo de força maior, ou ainda se o concessionário for justificadamente expulso do agregado social em razão do qual houver recebido a concessão.
 
 § único. Os factos mencionados no corpo do artigo serão comunicados pela autoridade administrativa local aos serviços competentes, que decidirão se a concessão deve ser rescindida e, no caso afirmativo, assim promoverão junto dos serviços de agrimensura.
 
-###### Art. 236.º Todas as concessões envolvem para o concessionário a obrigação de manter o terreno permanentemente limpo, de colher os frutos produzidos e de transformar progressivamente a cultura por formas primitivas em cultura ordenada.
+Art. 236.º Todas as concessões envolvem para o concessionário a obrigação de manter o terreno permanentemente limpo, de colher os frutos produzidos e de transformar progressivamente a cultura por formas primitivas em cultura ordenada.
 
-###### Art. 237.º Salvo nos casos previstos para a caducidade das concessões, o foreiro não pode ser privado dos seus direitos sobre o terreno, a não ser por virtude da expropriação por utilidade pública, mediante compensação com outros terrenos disponíveis ou indemnização nos termos legais.
+Art. 237.º Salvo nos casos previstos para a caducidade das concessões, o foreiro não pode ser privado dos seus direitos sobre o terreno, a não ser por virtude da expropriação por utilidade pública, mediante compensação com outros terrenos disponíveis ou indemnização nos termos legais.
 
-###### Art. 238.º As concessões por aforamento podem ser transmitidas, no todo ou em parte, pelos concessionários a vizinhos das regedorias, mas as novas concessões ficarão sujeitas, quanto a aproveitamento e resolubilidade, aos preceitos estabelecidos nos artigos 229.º e 235.º
+Art. 238.º As concessões por aforamento podem ser transmitidas, no todo ou em parte, pelos concessionários a vizinhos das regedorias, mas as novas concessões ficarão sujeitas, quanto a aproveitamento e resolubilidade, aos preceitos estabelecidos nos artigos 229.º e 235.º
 
-###### Art. 239.º Os direitos adquiridos pelos interessados nos termos dos artigos 229.º e 234.º são transmissíveis apenas entre vizinhos das regedorias mediante autorização do governador, que a dará ou negará segundo o que julgar conveniente, nos termos gerais fixados neste diploma.
+Art. 239.º Os direitos adquiridos pelos interessados nos termos dos artigos 229.º e 234.º são transmissíveis apenas entre vizinhos das regedorias mediante autorização do governador, que a dará ou negará segundo o que julgar conveniente, nos termos gerais fixados neste diploma.
 
 § único. Os prédios situados fora das áreas destinadas a fruição conjunta podem ser transmitidos por sucessão legítima a indivíduos que, embora não vizinhos das regedorias, sejam chamados à herança nos termos da lei comum.
 
-###### Art. 240.º Os prédios rústicos e urbanos dos vizinhos das regedorias são impenhoráveis e insusceptíveis de servir de garantia a obrigações, salvo quando estas forem assumidas perante organismos de crédito ou de assistência económica estabelecidos por lei a seu favor.
+Art. 240.º Os prédios rústicos e urbanos dos vizinhos das regedorias são impenhoráveis e insusceptíveis de servir de garantia a obrigações, salvo quando estas forem assumidas perante organismos de crédito ou de assistência económica estabelecidos por lei a seu favor.
 
 § único. No caso de os organismos referidos no corpo do artigo virem a adquirir os prédios dados em garantia dos seus créditos, só poderão aliená-los de novo a vizinhos das regedorias.
 
-###### Art. 241.º São nulos de pleno direito os contratos celebrados pelos concessionários a que se refere esta subsecção através dos quais se alienem troquem, hipotequem, arrendem ou por qualquer forma cedam os terrenos concedidos, devendo os conservadores recusar o registo dos actos respectivos, salvo se o acto for praticado a favor de outro vizinho.
+Art. 241.º São nulos de pleno direito os contratos celebrados pelos concessionários a que se refere esta subsecção através dos quais se alienem troquem, hipotequem, arrendem ou por qualquer forma cedam os terrenos concedidos, devendo os conservadores recusar o registo dos actos respectivos, salvo se o acto for praticado a favor de outro vizinho.
 
 § único. Os concessionários que violarem o disposto no corpo do artigo perdem a favor do Estado os seus direitos sobre os terrenos concedidos e bem assim sobre as benfeitorias que neles existem, recaindo igual consequência sobre as benfeitorias introduzidas pelos adquirentes, aos quais fica absolutamente vedada a justificação de mera posse e a alegação de prescrição.
 
-###### Art. 242.º Os particulares poderão transferir, para indivíduos que não optem pela lei escrita de direito privado, os direitos de que sejam titulares e recaiam sobre terrenos em seu domínio pleno, que se encontrem cadastrados e titulados, quando tais terrenos sejam de 3.ª classe ou pela sua situação assim devessem ser classificados se pertencessem à província.
+Art. 242.º Os particulares poderão transferir, para indivíduos que não optem pela lei escrita de direito privado, os direitos de que sejam titulares e recaiam sobre terrenos em seu domínio pleno, que se encontrem cadastrados e titulados, quando tais terrenos sejam de 3.ª classe ou pela sua situação assim devessem ser classificados se pertencessem à província.
 
-###### Art. 243.º As alienações a favor de vizinhos das regedorias de prédios adquiridos pelos organismos referidos no artigo 240.º submeter-se-ão ao preceituado neste diploma, sem prejuízo da regulamentação especial.
+Art. 243.º As alienações a favor de vizinhos das regedorias de prédios adquiridos pelos organismos referidos no artigo 240.º submeter-se-ão ao preceituado neste diploma, sem prejuízo da regulamentação especial.
 
 ## TÍTULO III — Disposições finais e transitórias
 
 ### CAPÍTULO I — Do cadastro
 
-###### Art. 244.º Na organização do cadastro, todos os proprietários são obrigados não só a mostrar ao pessoal encarregado desse serviço os títulos dos seus prédios e limites destes, mas também a definir os mesmos limites, quando o não estejam, por tabuletas com indicação dos seus nomes na fase do reconhecimento, ou por marcos de material inalterável, nas operações definitivas.
+Art. 244.º Na organização do cadastro, todos os proprietários são obrigados não só a mostrar ao pessoal encarregado desse serviço os títulos dos seus prédios e limites destes, mas também a definir os mesmos limites, quando o não estejam, por tabuletas com indicação dos seus nomes na fase do reconhecimento, ou por marcos de material inalterável, nas operações definitivas.
 
 § único. Os marcos serão implantados pelo pessoal encarregado das operações de cadastro, cabendo ao proprietário do terreno as respectivas despesas.
 
-###### Art. 245.º Se ao proceder-se à demarcação de prédios ou à cadastração de uma dada região forem apresentadas reclamações que se tornem insolúveis entre os litigantes e não for por estes aceite acordo que lhes tenha sido proposto pelo pessoal encarregado destas operações, será todo o processo a que as reclamações derem causa, acompanhado do respectivo auto de ocorrência, enviado à sede dos serviços de agrimensura para estudo e superior resolução.
+Art. 245.º Se ao proceder-se à demarcação de prédios ou à cadastração de uma dada região forem apresentadas reclamações que se tornem insolúveis entre os litigantes e não for por estes aceite acordo que lhes tenha sido proposto pelo pessoal encarregado destas operações, será todo o processo a que as reclamações derem causa, acompanhado do respectivo auto de ocorrência, enviado à sede dos serviços de agrimensura para estudo e superior resolução.
 
 ### CAPÍTULO II — Do registo predial
 
-###### Art. 246.º Nenhum acto sujeito a registo por este diploma produz efeitos contra terceiros senão depois da data do registo respectivo.
+Art. 246.º Nenhum acto sujeito a registo por este diploma produz efeitos contra terceiros senão depois da data do registo respectivo.
 
-###### Art. 247.º De futuro não poderão ser feitas descrições de prédios rústicos sem a apresentação do título passado conforme os artigos 185.º e 197.º
+Art. 247.º De futuro não poderão ser feitas descrições de prédios rústicos sem a apresentação do título passado conforme os artigos 185.º e 197.º
 
-###### Art. 248.º De todos os actos respeitantes ao registo efectuado nas conservatórias darão os conservadores imediato conhecimento oficial aos serviços de agrimensura, para estes fazerem as correspondentes anotações nas cópias dos títulos.
+Art. 248.º De todos os actos respeitantes ao registo efectuado nas conservatórias darão os conservadores imediato conhecimento oficial aos serviços de agrimensura, para estes fazerem as correspondentes anotações nas cópias dos títulos.
 
-###### Art. 249.º Os serviços de agrimensura levarão ao conhecimento das conservatórias as alterações que se operarem nos prédios, devendo ainda fornecer-lhes todos os esclarecimentos que elas porventura solicitem.
+Art. 249.º Os serviços de agrimensura levarão ao conhecimento das conservatórias as alterações que se operarem nos prédios, devendo ainda fornecer-lhes todos os esclarecimentos que elas porventura solicitem.
 
-###### Art. 250.º Além dos registos já mencionados expressamente neste diploma, devem ficar consignados nos títulos todos os demais actos jurídicos que recaiam sobre a propriedade e sejam sujeitos a registo, devendo as notas deste ser descritas, datadas, assinadas e autenticadas pelo conservador.
+Art. 250.º Além dos registos já mencionados expressamente neste diploma, devem ficar consignados nos títulos todos os demais actos jurídicos que recaiam sobre a propriedade e sejam sujeitos a registo, devendo as notas deste ser descritas, datadas, assinadas e autenticadas pelo conservador.
 
 § único. Estando o prédio titulado, os conservadores não procederão a registos sem lhes serem apresentados os títulos, para os efeitos do corpo do artigo, salvo se o detentor do título, não sendo o requerente do acto do registo, se recusar a apresentá-lo, depois de intimado pelo conservador.
 
-###### Art. 251.º O conservador não consentirá no endosso quando:
+Art. 251.º O conservador não consentirá no endosso quando:
 
 1.º Tiver dúvidas sobre a identidade ou capacidade jurídica das partes para o contrato;
 
@@ -1542,7 +1586,7 @@ c) O requerimento, os elementos de identificação do terreno e as informações
 
 3.º Não se mostrar efectuado o pagamento da contribuição do registo e dos selos que seriam devidos pela escritura de transmissão, se esta se fizesse.
 
-###### Art. 252.º O conservador fará o registo de transmissão por endosso e entregará ao adquirente o título com a nota de registo na sua terceira parte, devendo arquivar na conservatória todos os documentos pertinentes ao contrato que, nos termos da lei, não tenham de ser entregues às partes.
+Art. 252.º O conservador fará o registo de transmissão por endosso e entregará ao adquirente o título com a nota de registo na sua terceira parte, devendo arquivar na conservatória todos os documentos pertinentes ao contrato que, nos termos da lei, não tenham de ser entregues às partes.
 
 § 1.º Será recusado o registo de transmissão:
 
@@ -1552,13 +1596,13 @@ c) O requerimento, os elementos de identificação do terreno e as informações
 
 § 2.º Da recusa prevista no n.º 2.º do parágrafo antecedente caberá recurso nos termos legais.
 
-###### Art. 253.º Se a propriedade titulada se transmitir em virtude de acção, de execução, por morte do titular, ou em consequência de outros casos em que o endosso não seja ou não possa ser feito pelo concessionário, deverá o conservador, além de lançar a nota de registo, consignar na quarta parte do título a seguinte declaração, que datará e assinará: «Este título fica pertencendo a ... (nome do novo proprietário), em virtude de ... (motivo da transmissão)».
+Art. 253.º Se a propriedade titulada se transmitir em virtude de acção, de execução, por morte do titular, ou em consequência de outros casos em que o endosso não seja ou não possa ser feito pelo concessionário, deverá o conservador, além de lançar a nota de registo, consignar na quarta parte do título a seguinte declaração, que datará e assinará: «Este título fica pertencendo a ... (nome do novo proprietário), em virtude de ... (motivo da transmissão)».
 
-###### Art. 254.º Sempre que o registo importe o cancelamento de outros anteriores, deve o conservador efectuar esse cancelamento, embora não seja requerido.
+Art. 254.º Sempre que o registo importe o cancelamento de outros anteriores, deve o conservador efectuar esse cancelamento, embora não seja requerido.
 
-###### Art. 255.º É absolutamente proibida a aquisição de terrenos do Estado por justificação de mera posse, a que se refere o artigo 524.º do Código Civil.
+Art. 255.º É absolutamente proibida a aquisição de terrenos do Estado por justificação de mera posse, a que se refere o artigo 524.º do Código Civil.
 
-###### Art. 256.º No juízo municipal e nas conservatórias do registo predial existirão registos especialmente destinados à inscrição dos direitos das pessoas que não tenham optado pela lei escrita de direito privado.
+Art. 256.º No juízo municipal e nas conservatórias do registo predial existirão registos especialmente destinados à inscrição dos direitos das pessoas que não tenham optado pela lei escrita de direito privado.
 
 § 1.º A inscrição dos direitos titulados de harmonia com as alíneas a) e c) do artigo 230.º far-se-á oficiosamente; nos casos de concessão ou subconcessão feita por particulares ou de transmissão a organismos de crédito e assistência, depende de requerimento dos interessados.
 
@@ -1566,7 +1610,7 @@ c) O requerimento, os elementos de identificação do terreno e as informações
 
 ### CAPÍTULO III — Dos órgãos de execução
 
-###### Art. 257.º Nos serviços de agrimensura funcionarão brigadas de demarcação e vistorias, para a constituição das quais serão destacados topógrafos dos mesmos serviços e técnicos dos serviços de agricultura e florestas e dos serviços de veterinária.
+Art. 257.º Nos serviços de agrimensura funcionarão brigadas de demarcação e vistorias, para a constituição das quais serão destacados topógrafos dos mesmos serviços e técnicos dos serviços de agricultura e florestas e dos serviços de veterinária.
 
 § 1.º As brigadas de demarcação e vistoria referidas no corpo do artigo têm por função:
 
@@ -1598,31 +1642,31 @@ d) O aproveitamento que se pretende dar ao terreno.
 
 § 2.º Para o estudo dos planos de exploração referidos no n.º 3.º do parágrafo anterior no que respeita à parte económica, poderá ser destacado para a brigada um técnico competente na repartição de estudos económicos dos serviços de economia.
 
-###### Art. 258.º Nas províncias onde as não houver ou, havendo-as, em que seja necessário actualizá-las, os serviços de agrimensura publicarão instruções regulamentando a execução dos trabalhos cadastrais, da demarcação de concessões e de reconhecimento, fixando os métodos a seguir nos levantamentos, poligonações, triangulações e outros, bem como as tolerâncias admissíveis nesses trabalhos.
+Art. 258.º Nas províncias onde as não houver ou, havendo-as, em que seja necessário actualizá-las, os serviços de agrimensura publicarão instruções regulamentando a execução dos trabalhos cadastrais, da demarcação de concessões e de reconhecimento, fixando os métodos a seguir nos levantamentos, poligonações, triangulações e outros, bem como as tolerâncias admissíveis nesses trabalhos.
 
-###### Art. 259.º Na realização dos trabalhos de campo, quer respeitem ao cadastro, quer a processos de concessão, quer a quaisquer outros incumbidos aos serviços de agrimensura, podem os topógrafos oficiais requisitar da autoridade administrativa local as diligências, esclarecimentos e auxílios de que careçam para exacto cumprimento do seu encargo.
+Art. 259.º Na realização dos trabalhos de campo, quer respeitem ao cadastro, quer a processos de concessão, quer a quaisquer outros incumbidos aos serviços de agrimensura, podem os topógrafos oficiais requisitar da autoridade administrativa local as diligências, esclarecimentos e auxílios de que careçam para exacto cumprimento do seu encargo.
 
 § 1.º Os funcionários indicados no corpo do artigo, no exercício das suas funções, têm competência para levantar autos de corpo de delito contra os que infringirem as suas ordens legítimas, dadas ao abrigo deste diploma. Esses autos serão enviados, por intermédio da autoridade administrativa local, aos respectivos agentes do Ministério Público, ao mesmo tempo que deles é enviada cópia à sede ou secção dos serviços de agrimensura, conforme os casos, para estes procederem, se houver dilação por parte da autoridade administrativa.
 
 § 2.º A doutrina do parágrafo anterior tem aplicação aos agrimensores particulares quando na execução de trabalhos contratados pelos serviços de agrimensura ou por estes autorizados.
 
-###### Art. 260.º Será concedida gratuitamente licença de uso e porte de arma a funcionários de serviços de agrimensura empregados em trabalhos de campo, no exercício da sua profissão. Esta licença só será válida quando os funcionários se encontrarem nos referidos trabalhos e durante o período da sua execução.
+Art. 260.º Será concedida gratuitamente licença de uso e porte de arma a funcionários de serviços de agrimensura empregados em trabalhos de campo, no exercício da sua profissão. Esta licença só será válida quando os funcionários se encontrarem nos referidos trabalhos e durante o período da sua execução.
 
-###### Art. 261.º As autoridades administrativas e os corpos administrativos deverão obstar, por todos os meios legais, a que se exerça ocupação sobre terrenos considerados de domínio público ou pertencentes ao património público ou privado da província sem que prèviamente os seus pretendentes ou ocupantes exibam título ou autorização necessários.
+Art. 261.º As autoridades administrativas e os corpos administrativos deverão obstar, por todos os meios legais, a que se exerça ocupação sobre terrenos considerados de domínio público ou pertencentes ao património público ou privado da província sem que prèviamente os seus pretendentes ou ocupantes exibam título ou autorização necessários.
 
-###### Art. 262.º Os corpos administrativos deverão sempre exigir dos serviços de agrimensura informação quanto à situação legal do terreno antes de permitirem a implantação ou o alinhamento de talhões e de darem licença de construção nos mesmos. Pelos prejuízos causados serão responsáveis as autarquias, que pagarão despesas de demolição e outras, nos termos dos artigos 2398.º, 2399.º e 2400.º do Código Civil.
+Art. 262.º Os corpos administrativos deverão sempre exigir dos serviços de agrimensura informação quanto à situação legal do terreno antes de permitirem a implantação ou o alinhamento de talhões e de darem licença de construção nos mesmos. Pelos prejuízos causados serão responsáveis as autarquias, que pagarão despesas de demolição e outras, nos termos dos artigos 2398.º, 2399.º e 2400.º do Código Civil.
 
-###### Art. 263.º Quando, por efeito de processo de execuções fiscais contra um concessionário de terreno por dívida de foros ou por outra dívida à Fazenda, a respectiva concessão for posta em hasta pública, o agente do Ministério Público exercerá o direito de opção até à importância fixada para abertura da primeira licitação ou outro limite que o governador tenha fixado.
+Art. 263.º Quando, por efeito de processo de execuções fiscais contra um concessionário de terreno por dívida de foros ou por outra dívida à Fazenda, a respectiva concessão for posta em hasta pública, o agente do Ministério Público exercerá o direito de opção até à importância fixada para abertura da primeira licitação ou outro limite que o governador tenha fixado.
 
-###### Art. 264.º A penhora de prédios rústicos ou urbanos será mandada notificar ao agente do Ministério Público junto do tribunal, a fim de este fazer valer no processo os direitos que o Estado tenha sobre os terrenos.
+Art. 264.º A penhora de prédios rústicos ou urbanos será mandada notificar ao agente do Ministério Público junto do tribunal, a fim de este fazer valer no processo os direitos que o Estado tenha sobre os terrenos.
 
 § único. Os serviços de agrimensura fornecerão aos agentes do Ministério Público as informações de que eles necessitem para os efeitos do corpo do artigo.
 
 ### CAPÍTULO IV — Das sanções penais
 
-###### Art. 265.º Aos indivíduos que demarcarem terreno conforme se prevê nos n.os 2.º e 3.º do artigo 212.º serão aplicadas as penalidades dos artigos 445.º e 446.º do Código Penal, respectivamente.
+Art. 265.º Aos indivíduos que demarcarem terreno conforme se prevê nos n.os 2.º e 3.º do artigo 212.º serão aplicadas as penalidades dos artigos 445.º e 446.º do Código Penal, respectivamente.
 
-###### Art. 266.º A falta de observância das disposições do artigo 94.º será punida com multa até 500$00 por cada árvore ou marco destruído, no todo ou em parte, independentemente do pagamento das despesas a fazer com a sua substituição por intermédio dos serviços de agrimensura. A falta de manutenção do contorno da concessão bem materializada no terreno é punida com a multa de 500$00, que, em caso de reincidência, irá de 1000$00 a 10000$00.
+Art. 266.º A falta de observância das disposições do artigo 94.º será punida com multa até 500$00 por cada árvore ou marco destruído, no todo ou em parte, independentemente do pagamento das despesas a fazer com a sua substituição por intermédio dos serviços de agrimensura. A falta de manutenção do contorno da concessão bem materializada no terreno é punida com a multa de 500$00, que, em caso de reincidência, irá de 1000$00 a 10000$00.
 
 § 1.º Os autos de notícia, que poderão ser lavrados pelo pessoal técnico dos serviços de agrimensura e pela autoridade administrativa, deverão ser levantados nos termos e com as formalidades constantes do artigo 166.º do Código de Processo Penal e farão fé em juízo até prova em contrário.
 
@@ -1630,7 +1674,7 @@ d) O aproveitamento que se pretende dar ao terreno.
 
 § 3.º Os proprietários de terrenos adquiridos sem ser por concessão do Estado a quem seja passado título nos termos deste diploma ficam sujeitos às obrigações dos concessionários relativas à conservação de marcos, aplicando-se-lhes o disposto no corpo deste artigo.
 
-###### Art. 267.º Os que levantarem ou desencaminharem dos terrenos concedidos quaisquer valores pertencentes ao Estado, além de indemnização de perdas e danos, incorrerão na sanção do artigo 453.º do Código Penal.
+Art. 267.º Os que levantarem ou desencaminharem dos terrenos concedidos quaisquer valores pertencentes ao Estado, além de indemnização de perdas e danos, incorrerão na sanção do artigo 453.º do Código Penal.
 
 § 1.º Ficam sujeitos à sanção do artigo 472.º do mesmo código, além de indemnização de perdas e danos, os que danificarem ou destruírem esses valores, compreendendo os frutos pendentes no fim da concessão.
 
@@ -1640,19 +1684,19 @@ d) O aproveitamento que se pretende dar ao terreno.
 
 § 4.º Para efeitos deste artigo não poderá ser vedada a entrada nos terrenos arrendados ou aforados ao pessoal das repartições mencionadas no parágrafo anterior.
 
-###### Art. 268.º A resistência ou desobediência às ordens do pessoal dos serviços de agrimensura ou dos agrimensores particulares consequentes de determinações oficiais serão punidas nos termos dos artigos 186.º, 187.º e 188.º do Código Penal.
+Art. 268.º A resistência ou desobediência às ordens do pessoal dos serviços de agrimensura ou dos agrimensores particulares consequentes de determinações oficiais serão punidas nos termos dos artigos 186.º, 187.º e 188.º do Código Penal.
 
-###### Art. 269.º O proprietário de um título que recuse a entrega deste em qualquer dos casos previstos nos artigos 207.º e 250.º incorrerá na pena do artigo 188.º do Código Penal, servindo de corpo de delito a certidão extraída do processo pela qual se certifique a mesma recusa. Essa certidão deve conter o pedido do interessado para o proprietário do título ser intimado a fazer a entrega deste no prazo que lhe for marcado, a certidão de intimação e o despacho ou a sentença em que se apreciar a recusa.
+Art. 269.º O proprietário de um título que recuse a entrega deste em qualquer dos casos previstos nos artigos 207.º e 250.º incorrerá na pena do artigo 188.º do Código Penal, servindo de corpo de delito a certidão extraída do processo pela qual se certifique a mesma recusa. Essa certidão deve conter o pedido do interessado para o proprietário do título ser intimado a fazer a entrega deste no prazo que lhe for marcado, a certidão de intimação e o despacho ou a sentença em que se apreciar a recusa.
 
-###### Art. 270.º O adjudicatário de um terreno em hasta pública deverá fazer prova de ter depositado a importância da licitação, no prazo de quinze dias, sob pena de se remeter toda a documentação respeitante à praça ao juízo das execuções fiscais, para efeitos de cobrança coerciva.
+Art. 270.º O adjudicatário de um terreno em hasta pública deverá fazer prova de ter depositado a importância da licitação, no prazo de quinze dias, sob pena de se remeter toda a documentação respeitante à praça ao juízo das execuções fiscais, para efeitos de cobrança coerciva.
 
 ### CAPÍTULO V — Disposições transitórias
 
-###### Art. 271.º O presente regulamento entrará em vigor no dia 1 de Novembro de 1961.
+Art. 271.º O presente regulamento entrará em vigor no dia 1 de Novembro de 1961.
 
 § único. Os governadores farão publicar os diplomas legislativos que reconheçam necessários para a perfeita execução deste regulamento.
 
-###### Art. 272.º Na aplicação do presente regulamento a situações iniciadas antes da entrada em vigor deste diploma observar-se-á o seguinte:
+Art. 272.º Na aplicação do presente regulamento a situações iniciadas antes da entrada em vigor deste diploma observar-se-á o seguinte:
 
 1.º Nos processos de ocupação por licença e nos de concessão em que não tenha sido ainda feita a concessão provisória, o disposto neste diploma aplicar-se-á a todos os actos a praticar depois da referida data.
 
@@ -1678,6 +1722,6 @@ c) Aplicar-se-á, quanto a prazo, o disposto nas alíneas a) e b) do número ant
 
 d) O aproveitamento dos terrenos definitivamente concedidos fica sujeito às disposições do presente diploma, mas os concessionários disporão de cinco anos, a partir da sua entrada em vigor, para cumprirem essas obrigações e ressalvado sempre o direito de, em qualquer altura, renunciarem a parte do terreno concedido, nos termos do artigo 216.º
 
-###### Art. 273.º Averiguando-se que, sem dolo ou má fé do interessado, um título passado antes da entrada em vigor deste diploma não corresponde à parcela materializada do terreno, pode ser autorizada a rectificação do título, devendo ser executados, por conta do interessado, os trabalhos de campo necessários para o efeito.
+Art. 273.º Averiguando-se que, sem dolo ou má fé do interessado, um título passado antes da entrada em vigor deste diploma não corresponde à parcela materializada do terreno, pode ser autorizada a rectificação do título, devendo ser executados, por conta do interessado, os trabalhos de campo necessários para o efeito.
 
 § único. O requerimento será tornado público pelos meios indicados neste diploma e a autorização só será dada desde que não haja ofensa de direitos de terceiros. Ministério do Ultramar, 6 de Setembro de 1961. - O Ministro do ultramar, Adriano José Alves Moreira.

@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43879-1961-173964
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-08-25T00:00:00Z'
+  retrieved_at: '2026-10-22T19:25:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9a76c12048d43368c6018a24eb2325c983d91533579e67602b145ab8c798d73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87ed3a4f3bfa94385db4aa5af0e61e128f530d6c2dbcda3dbc03ea5cc5a089bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:25:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:277864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298616:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:25:14Z'
   warnings: []
   errors: []
 ---
@@ -113,26 +125,26 @@ Acautelam-se, porém, as situações em que nos laboratórios se exerça uma fun
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Às empresas que tenham despendido importâncias com a realização de trabalhos de investigação, considerados de interesse para o desenvolvimento industrial do País, ou com a instalação e apetrechamento de laboratórios a eles destinados, ou que tenham entregue a favor de organismos oficiais ou de entidades sem fins lucrativos importâncias destinadas àquele fim, poderá o Ministro das Finanças conceder as seguintes deduções na contribuição industrial respeitante à unidade fabril a que tenha sido afecta a despesa:
+Artigo 1.º Às empresas que tenham despendido importâncias com a realização de trabalhos de investigação, considerados de interesse para o desenvolvimento industrial do País, ou com a instalação e apetrechamento de laboratórios a eles destinados, ou que tenham entregue a favor de organismos oficiais ou de entidades sem fins lucrativos importâncias destinadas àquele fim, poderá o Ministro das Finanças conceder as seguintes deduções na contribuição industrial respeitante à unidade fabril a que tenha sido afecta a despesa:
 
 1.º No rendimento tributável fixado para base da contribuição industrial do grupo C, uma importância igual à soma das quantias despendidas ou entregues nos termos do corpo deste artigo no ano anterior àquele em que se proceder à liquidação da contribuição;
 
 2.º Na verba principal da contribuição industrial liquidada pelo sistema do grupo B, uma importância equivalente, em verba principal, calculada pelo sistema do grupo C sobre a mesma soma das importâncias referidas no número anterior.
 
-###### Art. 2.º Tratando-se de sociedades anónimas ou em comandita por acções tributadas em contribuição industrial pelo sistema do grupo B, e que tenham beneficiado da dedução, nos termos do n.º 2.º do artigo 1.º, a matéria colectável da contribuição industrial para efeitos do imposto complementar a liquidar à sociedade será obtida por meio de uma proporção em que entrem como termos: a matéria colectável determinada nos termos do artigo 5.º, n.º 2, alínea b), do regulamento aprovado pelo [Decreto n.º 40788](https://diariodarepublica.pt/dr/detalhe/decreto/40788-1956-297267), de 28 de Setembro de 1956, a contribuição industrial em verba principal calculada sem a dedução e a importância efectivamente liquidada, depois de considerada esta.
+Art. 2.º Tratando-se de sociedades anónimas ou em comandita por acções tributadas em contribuição industrial pelo sistema do grupo B, e que tenham beneficiado da dedução, nos termos do n.º 2.º do artigo 1.º, a matéria colectável da contribuição industrial para efeitos do imposto complementar a liquidar à sociedade será obtida por meio de uma proporção em que entrem como termos: a matéria colectável determinada nos termos do artigo 5.º, n.º 2, alínea b), do regulamento aprovado pelo [Decreto n.º 40788](https://diariodarepublica.pt/dr/detalhe/decreto/40788-1956-297267), de 28 de Setembro de 1956, a contribuição industrial em verba principal calculada sem a dedução e a importância efectivamente liquidada, depois de considerada esta.
 
-###### Art. 3.º A dedução será considerada na liquidação da contribuição a efectuar no ano seguinte àquele em que foram despendidas ou entregues as importâncias.
+Art. 3.º A dedução será considerada na liquidação da contribuição a efectuar no ano seguinte àquele em que foram despendidas ou entregues as importâncias.
 
-###### Art. 4.º Para a concessão das deduções previstas neste diploma deverão os interessados apresentar na Direcção-Geral das Contribuições e Impostos ou na secção de finanças do concelho ou bairro em cuja área esteja situada a respectiva unidade fabril, até ao dia 30 de Abril do ano seguinte àquele em que forem despendidas ou entregues as importâncias, o competente requerimento, acompanhado dos documentos justificativos, no qual serão especificados os laboratórios instalados e os trabalhos de investigação realizados, com indicação das respectivas despesas, bem como os organismos ou entidades beneficiados.
+Art. 4.º Para a concessão das deduções previstas neste diploma deverão os interessados apresentar na Direcção-Geral das Contribuições e Impostos ou na secção de finanças do concelho ou bairro em cuja área esteja situada a respectiva unidade fabril, até ao dia 30 de Abril do ano seguinte àquele em que forem despendidas ou entregues as importâncias, o competente requerimento, acompanhado dos documentos justificativos, no qual serão especificados os laboratórios instalados e os trabalhos de investigação realizados, com indicação das respectivas despesas, bem como os organismos ou entidades beneficiados.
 
 § único. Os requerimentos serão presentes à apreciação do Ministro das Finanças pela Direcção-Geral das Contribuições e Impostos, que os informará depois de ter ouvido o Instituto Nacional de Investigação Industrial sobre o interesse do laboratório e dos trabalhos para o desenvolvimento industrial do País, bem como sobre os fins dos organismos e entidades a quem foram entregues as importâncias.
 
-###### Art. 5.º A falta de entrega, dentro do prazo fixado no artigo anterior, do requerimento e da documentação que o deve acompanhar nos termos do mesmo artigo, importa a impossibilidade da concessão das deduções previstas neste diploma.
+Art. 5.º A falta de entrega, dentro do prazo fixado no artigo anterior, do requerimento e da documentação que o deve acompanhar nos termos do mesmo artigo, importa a impossibilidade da concessão das deduções previstas neste diploma.
 
-###### Art. 6.º Quando no mesmo laboratório se realizem outros trabalhos além dos de investigação considerados de interesse para o desenvolvimento industrial do País deverá a escrita da respectiva empresa ser organizada de forma a mostrar-se quais as importâncias despendidas com estes últimos trabalhos.
+Art. 6.º Quando no mesmo laboratório se realizem outros trabalhos além dos de investigação considerados de interesse para o desenvolvimento industrial do País deverá a escrita da respectiva empresa ser organizada de forma a mostrar-se quais as importâncias despendidas com estes últimos trabalhos.
 
-###### Art. 7.º Este diploma aplica-se às importâncias despendidas ou entregues a partir de 1 de Janeiro do ano de 1961.
+Art. 7.º Este diploma aplica-se às importâncias despendidas ou entregues a partir de 1 de Janeiro do ano de 1961.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Agosto de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - José do Nascimento Ferreira Dias Júnior.

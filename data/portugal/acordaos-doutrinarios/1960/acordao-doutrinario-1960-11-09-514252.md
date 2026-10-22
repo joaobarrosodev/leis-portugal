@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-doutrinario/1960-514252
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-11-09T00:00:00Z'
+  retrieved_at: '2026-10-22T17:51:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13bada42837344ae31b5e2f40f08356ec23bc287fba57e7ba2b73e3cb0c556e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18234dba2f182d2253ed7fc89acc3ea8d48a5ef1ca777a33554cd6b170174bca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:51:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:144595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:51:44Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +174,7 @@ Tudo visto e devidamente considerado, cumpre decidir.
 
 Convém transcrever o artigo 4.º e o seu § 2.º do [Decreto-Lei n.º 34565](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34565-1945-610259):
 
-###### Art. 4.º A cobrança coerciva dos foros de que o Estado seja senhorio directo terá por base a certidão passada nos termos do artigo 35.º do Código das Execuções Fiscais, e a prova do seu domínio directo será feita nos termos gerais de direito, designadamente os do artigo 1960.º do Código Civil, para os emprazamentos de pretérito.
+Art. 4.º A cobrança coerciva dos foros de que o Estado seja senhorio directo terá por base a certidão passada nos termos do artigo 35.º do Código das Execuções Fiscais, e a prova do seu domínio directo será feita nos termos gerais de direito, designadamente os do artigo 1960.º do Código Civil, para os emprazamentos de pretérito.
 
 ...
 

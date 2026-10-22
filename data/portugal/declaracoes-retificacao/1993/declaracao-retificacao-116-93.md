@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 151/1993, 5º Suplemento, Série I-B de 1993-06-30
   number: '151'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 3614-(18) a 3614-(25)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/06/151b05/00180025.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/116/1993/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/116-1993-225405
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-06-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:36:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0f73dc0ce68f7bad6a16e96b541ca89040b2db700df060c07c47869a4813e09
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06bc8988075468f211c5be5da4e9882832233f9ee0f1672162a69cd424bf9854
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:36:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,25 +72,66 @@ subjects:
 - Regulamento
 - são JOÃO da Madeira
 relationships:
+- type: amended_by
+  target: pt:dre:274017:por
+  label: "RES.36/93.04.05.1993.PCM, DR.IS-B [103] de 04.05.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/36-1993-274017
+  date: '1993-05-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/36/1993/05/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/36/1993/05/04/p/dre
+- type: cites
+  target: pt:dre:222460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308276:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662721:por
+  label: null
+  source: null
 article_structure:
   article_count: 35
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:36:16Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 116/93
+# Declaração de rectificação n.º 116/93
 
 Para os devidos efeitos se declara que na [Resolução do Conselho de Ministros n.º 36/93](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/36-1993-274017), publicada no Diário da República, n.º 103, de 4 de Maio de 1993, cujo original se encontra arquivado nesta Secretaria-Geral, não foram, por lapso, publicados o Regulamento do Plano e a planta de síntese, pelo que se procede à sua publicação integral:
 
@@ -534,4 +575,4 @@ O presente Regulamento só pode ser alterado mediante revisão do Plano Director
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 28 de Junho de 1993. - O Secretário-Geral, França Martins.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/151b05/00180025.pdf))](https://files.diariodarepublica.pt/1s/1993/06/151b05/00180025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/151b05/00180025.pdf)

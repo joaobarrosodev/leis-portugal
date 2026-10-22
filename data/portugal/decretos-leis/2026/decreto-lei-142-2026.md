@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/142/2026/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2026-1147043701
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-14T00:00:00Z'
+  retrieved_at: '2026-10-22T18:46:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a56537d1bde38eae0deac85c27a2ceb258ba69e3a59bd9a0816393909976d36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36dd5f278df758872c394d86a6cd9e50c0ee5120a4dfd8d2339831619d51ec93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:46:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carreira Militar
-- Formação Profissional
-- Regulamentação de Atos Legislativos
+- Estado Maior General das Forças Armadas
 - Forças Armadas
+- Formação Profissional
+- Militar
 - Prazo
 - Quadro Permanente das Forças Armadas
-- Militar
-- Estado Maior General das Forças Armadas
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/130/2010/12/14/p/dre
@@ -106,16 +106,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/2/2021/08/09/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2021/08/09/p/dre
+- type: cites
+  target: pt:dre:169256653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177309293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178080766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214042394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836117871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:917593144:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:6/2022
+  label: Revoga, com efeitos a 1 de janeiro de 2026, nos termos do artigo 6.º do presente diploma, o Decreto-Lei n.º 6/2022,
+    de 7 de janeiro, Diário da República n.º 5/2022, Série I
+  source: null
+  date: '2022-01-07'
+- type: repeals
+  target: pt:numero:decreto-lei:77/2025
+  label: Revoga, com efeitos a 1 de janeiro de 2026, nos termos do artigo 6.º do presente diploma, o Decreto-Lei n.º 77/2025,
+    de 12 de maio, Diário da República n.º 90/2025, Série I de 2025-05-12
+  source: null
+  date: '2025-05-12'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:46:38Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +172,7 @@ A Lei Orgânica de Bases da Organização das Forças Armadas, aprovada em anexo
 
 O [Decreto-Lei n.º 77/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2025-917593144), de 12 de maio, aprovado com caráter excecional, autorizou o número máximo de efetivos em formação para ingresso nos quadros das Forças Armadas para o ano de 2025, mantendo inalterados os efetivos máximos fixados no [Decreto-Lei n.º 6/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2022-177309293), de 7 de janeiro, alterado pelo [Decreto-Lei n.º 9/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2024-836117871), de 5 de janeiro, que estabeleceu os efetivos das Forças Armadas, em todas as situações, para o triénio de 2022-2024.
 
-Esgotando-se a aplicação dos Decretos-Leis n.<sup>os</sup>[6/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2022-177309293), de 7 de janeiro, e [77/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2025-917593144), de 12 de maio, é necessário aprovar um novo decreto-lei que fixe os efetivos das Forças Armadas para os anos de 2026, 2027 e 2028, revogando-se aqueles diplomas por razões de certeza e segurança jurídica.
+Esgotando-se a aplicação dos Decretos-Leis n.os[6/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2022-177309293), de 7 de janeiro, e [77/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2025-917593144), de 12 de maio, é necessário aprovar um novo decreto-lei que fixe os efetivos das Forças Armadas para os anos de 2026, 2027 e 2028, revogando-se aqueles diplomas por razões de certeza e segurança jurídica.
 
 O presente decreto-lei observa, assim, a estrutura do anterior decreto-lei trienal de efetivos, mas passa a incluir uma nova tabela, no anexo VI, com os efetivos em Regime de Contrato Especial, requisito que decorre do estabelecido no n.º 1 do artigo 3.º do [Decreto-Lei n.º 130/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2010-307194), de 14 de dezembro.
 
@@ -224,17 +268,17 @@ O presente decreto-lei produz efeitos no dia 1 de janeiro de 2026.
 
 Visto e aprovado em Conselho de Ministros de 18 de junho de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Nuno Maria Herculano de Carvalho Pinheiro Torres.
 
-**Promulgado em 30 de junho de 2026.**
+Promulgado em 30 de junho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 3 de julho de 2026.**
+Referendado em 3 de julho de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
-## ANEXO I — (a que se referem os n.<sup>os</sup>1 e 5 do artigo 2.º, os n.<sup>os</sup>1 e 2 do artigo 3.º e o n.º 1 do artigo 5.º)
+## ANEXO I — (a que se referem os n.os1 e 5 do artigo 2.º, os n.os1 e 2 do artigo 3.º e o n.º 1 do artigo 5.º)
 
 Efetivos militares dos Quadros Permanentes, na situação de ativo, por ramos e postos, na estrutura orgânica das Forças Armadas, incluindo o Estado-Maior-General das Forças Armadas e formação para o ingresso nos Quadros Permanentes
 
@@ -253,13 +297,13 @@ Efetivos militares dos Quadros Permanentes na estrutura orgânicadas Forças Arm
 | Capitão-tenente/Major | 317 | 465 | 359 | 1 141 |
 | Primeiro-tenente/Capitão | 420 | 510 | 580 | 1 510 |
 | Segundo-tenente/Tenente | 396 | 469 | 312 | 1 177 |
-| Guarda-marinha/Subtenente/Alferes | 396 | 469 | 312 | 1 177 |
+| Guarda-marinha/Subtenente/Alferes |  |  |  |  |
 | Sargento-mor | 52 | 72 | 41 | 165 |
 | Sargento-chefe | 161 | 584 | 292 | 1 037 |
 | Sargento-ajudante | 464 | 1 100 | 613 | 2 177 |
 | Primeiro-sargento | 1 190 | 987 | 1 025 | 3 202 |
 | Segundo-sargento | 270 | 295 | 297 | 862 |
-| Subsargento/Furriel | 270 | 295 | 297 | 862 |
+| Subsargento/Furriel |  |  |  |  |
 | Cabo-mor | 205 | 0 | 0 | 205 |
 | Cabo/Cabo-de-secção | 1 800 | 0 | 0 | 1 800 |
 | Primeiro-marinheiro/Cabo-adjunto | 838 | 450 | 115 | 1403 |
@@ -282,13 +326,13 @@ Efetivos militares dos Quadros Permanentes na estrutura orgânicadas Forças Arm
 | Capitão-tenente/Major | 322 | 465 | 359 | 1 146 |
 | Primeiro-tenente/Capitão | 452 | 510 | 580 | 1 542 |
 | Segundo-tenente/Tenente | 416 | 469 | 312 | 1 197 |
-| Guarda-marinha/Subtenente/Alferes | 416 | 469 | 312 | 1 197 |
+| Guarda-marinha/Subtenente/Alferes |  |  |  |  |
 | Sargento-mor | 52 | 72 | 41 | 165 |
 | Sargento-chefe | 161 | 584 | 307 | 1 052 |
 | Sargento-ajudante | 464 | 1 100 | 613 | 2 177 |
 | Primeiro-sargento | 1 190 | 987 | 1 070 | 3 247 |
 | Segundo-sargento | 286 | 291 | 376 | 953 |
-| Subsargento/Furriel | 286 | 291 | 376 | 953 |
+| Subsargento/Furriel |  |  |  |  |
 | Cabo-mor | 190 | 0 | 0 | 190 |
 | Cabo/Cabo-de-secção | 1 792 | 0 | 0 | 1 792 |
 | Primeiro-marinheiro/Cabo-adjunto | 781 | 530 | 140 | 1 451 |
@@ -311,13 +355,13 @@ Efetivos militares dos Quadros Permanentes na estrutura orgânicadas Forças Arm
 | Capitão-tenente/Major | 299 | 465 | 359 | 1 123 |
 | Primeiro-tenente/Capitão | 486 | 510 | 580 | 1 576 |
 | Segundo-tenente/Tenente | 416 | 469 | 312 | 1 197 |
-| Guarda-marinha/Subtenente/Alferes | 416 | 469 | 312 | 1 197 |
+| Guarda-marinha/Subtenente/Alferes |  |  |  |  |
 | Sargento-mor | 52 | 72 | 41 | 165 |
 | Sargento-chefe | 161 | 584 | 307 | 1 052 |
 | Sargento-ajudante | 464 | 1 100 | 613 | 2 177 |
 | Primeiro-sargento | 1 190 | 987 | 1070 | 3 247 |
 | Segundo-sargento | 281 | 372 | 372 | 1 025 |
-| Subsargento/Furriel | 281 | 372 | 372 | 1 025 |
+| Subsargento/Furriel |  |  |  |  |
 | Cabo-mor | 190 | 0 | 0 | 190 |
 | Cabo/cabo-de-secção | 1 792 | 0 | 0 | 1 792 |
 | Primeiro-marinheiro/Cabo-adjunto | 725 | 610 | 165 | 1 500 |
@@ -340,13 +384,13 @@ Efetivos militares dos Quadros Permanentes a desempenhar funções nas estrutura
 | Capitão-tenente/Major | 102 | 134 | 98 | 334 |
 | Primeiro-tenente/Capitão | 91 | 102 | 108 | 301 |
 | Segundo-tenente/Tenente | 24 | 34 | 22 | 80 |
-| Guarda-marinha/Subtenente/Alferes | 24 | 34 | 22 | 80 |
+| Guarda-marinha/Subtenente/Alferes |  |  |  |  |
 | Sargento-mor | 6 | 6 | 5 | 17 |
 | Sargento-chefe | 42 | 113 | 45 | 200 |
 | Sargento-ajudante | 49 | 125 | 61 | 235 |
 | Primeiro-sargento | 42 | 33 | 37 | 112 |
 | Segundo-sargento | 1 | 0 | 1 | 2 |
-| Subsargento/Furriel | 1 | 0 | 1 | 2 |
+| Subsargento/Furriel |  |  |  |  |
 | Cabo-mor | 2 | 0 | 0 | 2 |
 | Cabo/Cabo-de-secção | 85 | 0 | 0 | 85 |
 | Primeiro-marinheiro/Cabo-adjunto | 7 | 11 | 8 | 26 |
@@ -369,13 +413,13 @@ Efetivos militares dos Quadros Permanentes a desempenhar funções nas estrutura
 | Capitão-tenente/Major | 102 | 134 | 98 | 334 |
 | Primeiro-tenente/Capitão | 89 | 102 | 108 | 299 |
 | Segundo-tenente/Tenente | 24 | 34 | 22 | 80 |
-| Guarda-marinha/Subtenente/Alferes | 24 | 34 | 22 | 80 |
+| Guarda-marinha/Subtenente/Alferes |  |  |  |  |
 | Sargento-mor | 6 | 6 | 5 | 17 |
 | Sargento-chefe | 42 | 113 | 45 | 200 |
 | Sargento-ajudante | 49 | 125 | 61 | 235 |
 | Primeiro-sargento | 42 | 33 | 37 | 112 |
 | Segundo-sargento | 1 | 0 | 1 | 2 |
-| Subsargento/Furriel | 1 | 0 | 1 | 2 |
+| Subsargento/Furriel |  |  |  |  |
 | Cabo-mor | 2 | 0 | 0 | 2 |
 | Cabo/Cabo-de-secção | 85 | 0 | 0 | 85 |
 | Primeiro-marinheiro/Cabo-adjunto | 7 | 11 | 8 | 26 |
@@ -398,13 +442,13 @@ Efetivos militares dos Quadros Permanentes a desempenhar funções nas estrutura
 | Capitão-tenente/Major | 102 | 134 | 98 | 334 |
 | Primeiro-tenente/Capitão | 89 | 102 | 108 | 299 |
 | Segundo-tenente/Tenente | 24 | 34 | 22 | 80 |
-| Guarda-marinha/Subtenente/Alferes | 24 | 34 | 22 | 80 |
+| Guarda-marinha/Subtenente/Alferes |  |  |  |  |
 | Sargento-mor | 6 | 6 | 5 | 17 |
 | Sargento-chefe | 42 | 113 | 45 | 200 |
 | Sargento-ajudante | 49 | 125 | 61 | 235 |
 | Primeiro-sargento | 42 | 33 | 37 | 112 |
 | Segundo-sargento | 1 | 0 | 1 | 2 |
-| Subsargento/Furriel | 1 | 0 | 1 | 2 |
+| Subsargento/Furriel |  |  |  |  |
 | Cabo-mor | 2 | 0 | 0 | 2 |
 | Cabo/Cabo-de-secção | 85 | 0 | 0 | 85 |
 | Primeiro-marinheiro/Cabo-adjunto | 7 | 11 | 8 | 26 |
@@ -453,13 +497,13 @@ Efetivos militares dos Quadros Permanentes, na situação de ativo, por Ramos e 
 | Capitão-tenente/Major | 40 | 45 | 19 | 104 |
 | Primeiro-tenente/Capitão | 26 | 14 | 13 | 53 |
 | Segundo-tenente/Tenente | 10 | 5 | 5 | 20 |
-| Guarda-marinha/Subtenente/Alferes | 10 | 5 | 5 | 20 |
+| Guarda-marinha/Subtenente/Alferes |  |  |  |  |
 | Sargento-mor | 43 | 16 | 25 | 84 |
 | Sargento-chefe | 55 | 35 | 27 | 117 |
 | Sargento-ajudante | 43 | 22 | 31 | 96 |
 | Primeiro-sargento | 28 | 12 | 12 | 52 |
 | Segundo-sargento | 1 | 2 | 0 | 3 |
-| Subsargento/Furriel | 1 | 2 | 0 | 3 |
+| Subsargento/Furriel |  |  |  |  |
 | Cabo-mor | 69 | 0 | 0 | 69 |
 | Cabo/Cabo-de-secção | 70 | 0 | 0 | 70 |
 | Primeiro-marinheiro/Cabo-adjunto | 2 | 0 | 0 | 2 |
@@ -480,13 +524,13 @@ Efetivos militares dos Quadros Permanentes, na situação de ativo, por Ramos e 
 | Capitão-tenente/Major | 40 | 45 | 19 | 104 |
 | Primeiro-tenente/Capitão | 26 | 14 | 13 | 53 |
 | Segundo-tenente/Tenente | 10 | 5 | 5 | 20 |
-| Guarda-marinha/Subtenente/Alferes | 10 | 5 | 5 | 20 |
+| Guarda-marinha/Subtenente/Alferes |  |  |  |  |
 | Sargento-mor | 43 | 16 | 25 | 84 |
 | Sargento-chefe | 55 | 35 | 27 | 117 |
 | Sargento-ajudante | 43 | 22 | 31 | 96 |
 | Primeiro-sargento | 28 | 12 | 12 | 52 |
 | Segundo-sargento | 1 | 2 | 0 | 3 |
-| Subsargento/Furriel | 1 | 2 | 0 | 3 |
+| Subsargento/Furriel |  |  |  |  |
 | Cabo-mor | 69 | 0 | 0 | 69 |
 | Cabo/Cabo-de-secção | 70 | 0 | 0 | 70 |
 | Primeiro-marinheiro/Cabo-adjunto | 2 | 0 | 0 | 2 |
@@ -507,13 +551,13 @@ Efetivos militares dos Quadros Permanentes, na situação de ativo, por Ramos e 
 | Capitão-tenente/Major | 40 | 45 | 19 | 104 |
 | Primeiro-tenente/Capitão | 26 | 14 | 13 | 53 |
 | Segundo-tenente/Tenente | 10 | 5 | 5 | 20 |
-| Guarda-marinha/Subtenente/Alferes | 10 | 5 | 5 | 20 |
+| Guarda-marinha/Subtenente/Alferes |  |  |  |  |
 | Sargento-mor | 43 | 16 | 25 | 84 |
 | Sargento-chefe | 55 | 35 | 27 | 117 |
 | Sargento-ajudante | 43 | 22 | 31 | 96 |
 | Primeiro-sargento | 28 | 12 | 12 | 52 |
 | Segundo-sargento | 1 | 2 | 0 | 3 |
-| Subsargento/Furriel | 1 | 2 | 0 | 3 |
+| Subsargento/Furriel |  |  |  |  |
 | Cabo-mor | 69 | 0 | 0 | 69 |
 | Cabo/Cabo-de-secção | 70 | 0 | 0 | 70 |
 | Primeiro-marinheiro/Cabo-adjunto | 2 | 0 | 0 | 2 |
@@ -659,7 +703,7 @@ Efetivos estimados de militares dos Quadros Permanentes, na situação de reserv
 | Praças | 390 | 0 | 0 | 390 |
 | Totais | 967 | 1 163 | 806 | 2 936 |
 
-## ANEXO VI — (a que se referem os n.<sup>os</sup>4 e 5 do artigo 2.º, os n.<sup>os</sup>1, 3, 4 e 6 do artigo 3.º e o n.º 3 do artigo 5.º)
+## ANEXO VI — (a que se referem os n.os4 e 5 do artigo 2.º, os n.os1, 3, 4 e 6 do artigo 3.º e o n.º 3 do artigo 5.º)
 
 Efetivos militares em regime de voluntariado e em regime de contrato, incluindo em regime de contrato especial, por Ramos e categoria, incluindo os que desempenham funções nas estruturas do Estado-Maior-General das Forças Armadas
 
@@ -761,3 +805,7 @@ Efetivos militares em regime de contrato especial, para o ano de 2028
 | Sargentos | 0 | 160 | 68 | 228 |
 | Praças | 0 | 630 | 0 | 630 |
 | Totais | 3 | 830 | 126 | 959 |
+
+119948996
+
+.Tbl2 { height:26px; } .Tbl3 { text-align:center; } .Tbl4 { min-height:18px; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { text-align:right; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl14 { border-collapse:collapse; border-width:1px; } .Tbl15 { min-height:26px; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:middle; } .Tbl19 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl20 { height:18px; }

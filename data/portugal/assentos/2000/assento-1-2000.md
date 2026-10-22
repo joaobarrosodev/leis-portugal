@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/asst/1/2000/01/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/assento/1-2000-510272
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-01-06T00:00:00Z'
+  retrieved_at: '2026-10-22T18:28:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2aa52a75e67a06ec1227d3211fbe30e675f7a0dbbe0290d471fa6711f9e3433
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96ae4cc6f25482588661dbcb8f2c5683ab813e6d2bd666f5389e81277e477cc9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:28:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Crime
 - Código de Processo Penal
+- Crime
 - Interpretação do Direito
 - Ministério Público
 relationships:
@@ -84,16 +84,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/60/1998/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/60/1998/08/27/p/dre
+- type: cites
+  target: pt:dre:221574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662562:por
+  label: null
+  source: null
 article_structure:
-  article_count: 15
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:28:19Z'
   warnings: []
   errors: []
 ---
@@ -170,7 +194,7 @@ O Ministério Público representa o Estado, defende os interesses que a lei dete
 
 É concedida ao Governo autorização para aprovar o novo Código de Processo Penal e revogar a legislação vigente sobre essa matéria.
 
-###### Artigo 2.º
+Artigo 2.º
 
 1 - O Código a elaborar ao abrigo da presente lei observará os princípios constitucionais e as normas constantes de instrumentos internacionais relativos aos direitos da pessoa humana e ao processo penal a que Portugal se encontra vinculado.
 
@@ -192,21 +216,21 @@ Código de Processo Penal [esclarecendo que os dispositivos transcritos são os 
 
 O Ministério Público tem legitimidade para promover o processo penal, com as restrições constantes dos artigos 49.º a 52.º
 
-###### Artigo 49.º
+Artigo 49.º
 
 1 - Quando o procedimento criminal depender de queixa, do ofendido ou de outras pessoas, é necessário que essas pessoas dêem conhecimento do facto ao Ministério Público, para que este promova o processo.
 
-###### Artigo 50.º
+Artigo 50.º
 
 1 - Quando o procedimento criminal depender da acusação particular, do ofendido ou de outras pessoas, é necessário que essas pessoas se queixem, se constituam assistentes e deduzam acusação particular.
 
 2 - O Ministério Público procede oficiosamente a quaisquer diligências que julgar indispensáveis à descoberta da verdade e couberem na sua competência, participa em todos os actos processuais em que intervier a acusação particular, acusa conjuntamente com esta e recorre autonomamente das decisões judiciais.
 
-###### Artigo 52.º
+Artigo 52.º
 
 1 - No caso de concursos de crimes, o Ministério Público promove imediatamente o processo por aqueles para que tiver legitimidade [...]
 
-###### Artigo 53.º
+Artigo 53.º
 
 1 - ...
 
@@ -218,7 +242,7 @@ b) ...
 
 c) Deduzir acusação e sustentá-la efectivamente na instrução e no julgamento.
 
-###### Artigo 69.º
+Artigo 69.º
 
 1 - Os assistentes têm a posição de colaboradores do Ministério Público, a cuja actividade subordinam a sua intervenção no processo, salvas as excepções da lei.
 
@@ -230,13 +254,13 @@ b) Deduzir acusação independente do Ministério Público e, no caso de procedi
 
 c) ...
 
-###### Artigo 118.º
+Artigo 118.º
 
 1 - A violação ou a inobservância das disposições da lei processual penal só determina a nulidade do acto quando esta for expressamente cominada na lei.
 
 2 - Nos casos em que a lei não cominar a nulidade, o acto ilegal é irregular.
 
-###### Artigo 119.º
+Artigo 119.º
 
 1 - Constituem nulidades insanáveis, que devem ser oficiosamente declaradas em qualquer fase do procedimento, além das que como tal forem cominadas em outras disposições legais:
 
@@ -246,7 +270,7 @@ b) A falta de promoção do processo pelo Ministério Público, nos termos do ar
 
 ...
 
-###### Artigo 122.º
+Artigo 122.º
 
 1 - As nulidades tornam inválido o acto em que se verificarem, bem como os que dele dependerem e aquelas puderem afectar.
 
@@ -254,23 +278,23 @@ b) A falta de promoção do processo pelo Ministério Público, nos termos do ar
 
 3 - ...
 
-###### Artigo 123.º
+Artigo 123.º
 
 1 - Qualquer irregularidade do processo só determina a invalidade do acto a que se refere e dos termos subsequentes que possa afectar quando tiver sido arguida pelos interessados no próprio acto ou, se a este não tiverem assistido, nos três dias seguintes a contar daquele em que tiverem sido notificados para qualquer termo do processo ou intervindo em algum acto nele praticado.
 
-###### Artigo 278.º
+Artigo 278.º
 
 No prazo de 30 dias, contado da data do despacho de arquivamento, o imediato superior hierárquico do Ministério Público, se não tiver sido requerida a abertura da instrução, pode determinar que seja formulada acusação ou que as investigações prossigam, indicando, neste caso, as diligências a efectuar e o prazo para o seu cumprimento.
 
 [Na redacção da [Lei n.º 59/98](https://diariodarepublica.pt/dr/detalhe/lei/59-1998-448110): «No prazo de 30 dias, contado da data do despacho de arquivamento ou da notificação deste ao assistente ou ao denunciante com faculdade de se constituir assistente, se a ela houver lugar, o imediato superior hierárquico do Ministério Público, se não tiver sido requerida a abertura da instrução, pode determinar que seja formulada acusação ou que as investigações prossigam, indicando, neste caso, as diligências a efectuar e o prazo para o seu cumprimento.» Foi introduzido o segmento em itálico.]
 
-###### Artigo 283.º
+Artigo 283.º
 
 1 - Se durante o inquérito tiverem sido recolhidos indícios suficientes de se ter verificado crime e de quem foi o seu agente, o Ministério Público deduz acusação contra aquele.
 
 [Na redacção da [Lei n.º 59/98](https://diariodarepublica.pt/dr/detalhe/lei/59-1998-448110): «1 - Se durante o inquérito tiverem sido recolhidos indícios suficientes de se ter verificado crime e de quem foi o seu agente, o Ministério Público, no prazo de 10 dias, deduz acusação contra aquele.» Foi acrescentado o segmento em itálico.]
 
-###### Artigo 284.º
+Artigo 284.º
 
 1 - Até cinco dias após a notificação da acusação do Ministério Público, o assistente pode também deduzir acusação pelos factos acusados pelo Ministério Público, por parte deles ou por outros que não importem uma alteração substancial daqueles.
 
@@ -282,7 +306,7 @@ a) A acusação do assistente pode limitar-se a mera adesão à acusação do Mi
 
 b) Só são indicadas provas a produzir ou a requerer que não constem da acusação do Ministério Público.
 
-###### Artigo 285.º
+Artigo 285.º
 
 1 - Findo o inquérito, quando o procedimento depender de acusação particular, o Ministério Público notifica o assistente para que este deduza em cinco dias, querendo, acusação particular.
 
@@ -292,7 +316,7 @@ b) Só são indicadas provas a produzir ou a requerer que não constem da acusa�
 
 3 - O Ministério Público pode, nos cinco dias posteriores à apresentação da acusação particular, acusar pelos mesmos factos, por parte deles ou por outros que não importem uma alteração substancial daqueles.
 
-###### Artigo 287.º
+Artigo 287.º
 
 1 - A abertura de instrução pode ser requerida, no prazo de 20 dias a contar da notificação da acusação ou do arquivamento:
 

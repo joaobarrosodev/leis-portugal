@@ -37,6 +37,98 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-09-01'
+version_history:
+  file: regulamento-ue-2007-715.versoes.json
+  count: 6
+  source_lastmod: '2020-09-01'
+  versions:
+  - date: '2007-06-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-07-31'
+    amending: null
+    amending_title: Regulamento (CE) n. o 692/2008 da Comissão de 18 de Julho de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Obrigações dos fabricantes
+    - Altera Artigo 5.º — Requisitos e ensaios
+    - Altera Artigo 6.º — Obrigações dos fabricantes
+    - Altera Artigo 10.º — Homologação
+    - Altera Artigo 12.º — Incentivos financeiros
+    - Altera Artigo 13.º — Sanções
+    - Altera Artigo 15.º — Procedimento de comité
+    - Altera Artigo 16.º — Alterações às Directivas 70/156/CEE e 2005/55/CE
+    - Altera Artigo 17.º — Revogação
+    - Altera Artigo 18.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita LIMITES DE EMISSÃO
+    - Adita ANEXO II
+    - Adita Alterações à Directiva 70/156/CEE
+  - date: '2011-06-19'
+    amending: eu:celex:32008R0692:por
+    amending_title: Regulamento (CE) n. o 692/2008 da Comissão de 18 de Julho de 2008; Regulamento (UE) n. o 566/2011 da Comissão
+      de 8 de Junho de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º — Obrigações dos fabricantes
+    - Altera Artigo 7.º — Taxas de acesso à informação relativa à reparação e manutenção de veículos
+    - Altera Artigo 16.º — Alterações às Directivas 70/156/CEE e 2005/55/CE
+    - Altera Artigo 17.º — Revogação
+    - Altera LIMITES DE EMISSÃO
+    - Altera Alterações à Directiva 70/156/CEE
+    - Altera Notas
+  - date: '2012-06-04'
+    amending: eu:celex:32012R0459:por
+    amending_title: Regulamento (UE) n. o 459/2012 da Comissão de 29 de maio de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 6.º — Obrigações dos fabricantes
+    - Altera Artigo 10.º — Homologação
+    - Altera Artigo 16.º — Alterações às Directivas 70/156/CEE e 2005/55/CE
+    - Altera Artigo 17.º — Revogação
+    - Altera LIMITES DE EMISSÃO
+    - Altera Alterações à Directiva 70/156/CEE
+    - Altera Notas
+  - date: '2012-12-31'
+    amending: eu:celex:32009R0595:por
+    amending_title: Regulamento (CE) n. o 595/2009 do Parlamento Europeu e do Conselho de 18 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Requisitos e ensaios
+    - Altera Artigo 6.º — Obrigações dos fabricantes
+    - Altera Artigo 14.º — Redefinição das especificações
+    - Altera Artigo 16.º — Alterações às Directivas 70/156/CEE e 2005/55/CE
+    - Altera Artigo 17.º — Revogação
+    - Altera LIMITES DE EMISSÃO
+    - Altera Alterações à Directiva 70/156/CEE
+    - Altera Notas
+  - date: '2020-09-01'
+    amending: eu:celex:32018R0858:por
+    amending_title: REGULAMENTO (UE) 2018/858 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Obrigações dos fabricantes
+    - Altera Artigo 5.º — Requisitos e ensaios
+    - Altera Artigo 12.º — Incentivos financeiros
+    - Altera Artigo 13.º — Sanções
+    - Altera Artigo 15.º — Procedimento de comité
+    - Altera Artigo 16.º — Alterações às Directivas 70/156/CEE e 2005/55/CE
+    - Altera Artigo 17.º — Revogação
+    - Altera LIMITES DE EMISSÃO
+    - Altera Alterações à Directiva 70/156/CEE
+    - Altera Notas
+    - Suprime CAPÍTULO III
+    - Suprime ACESSO À INFORMAÇÃO RELATIVA À REPARAÇÃO E MANUTENÇÃO DE VEÍCULOS
+    - Suprime Artigo 6.º — Obrigações dos fabricantes
+    - Suprime Artigo 7.º — Taxas de acesso à informação relativa à reparação e manutenção de veículos
+    - Suprime Artigo 8.º — Medidas de execução
+    - Suprime Artigo 9.º — Relatório
 identifiers:
   celex: 32007R0715
   eli: http://data.europa.eu/eli/reg/2007/715/oj
@@ -51,7 +143,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/03e19ce5-448d-43dd-b49a-1c68d75c78f4.0019
   content_url: http://publications.europa.eu/resource/cellar/b0147663-6de9-11ea-b735-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007R0715-20200901
-  retrieved_at: '2026-10-22T02:47:54Z'
+  retrieved_at: '2026-10-22T17:38:56Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-05T00:48:24.771+01:00'
 integrity:
@@ -60,9 +152,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:54Z'
-  notes: Texto consolidado 02007R0715-20200901.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:38:56Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2007-715.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -371,33 +463,19 @@ relationships:
   date: '2004-02-20'
 article_structure:
   article_count: 14
-  section_count: 12
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 13
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:54Z'
+  checked_at: '2026-10-22T17:38:56Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 715/2007 do Parlamento Europeu e do Conselho, de 20 de Junho de 2007
-
-> 02007R0715 — PT — 01.09.2020 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32008R0692) — [REGULAMENTO (CE) N.º 692/2008 DA COMISSÃO de 18 de Julho de 2008](http://publications.europa.eu/resource/celex/32008R0692) — L 199 — 1 — 28.7.2008
-- [►M2](http://publications.europa.eu/resource/celex/32009R0595) — [REGULAMENTO (CE) N.º 595/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009](http://publications.europa.eu/resource/celex/32009R0595) — L 188 — 1 — 18.7.2009
-- [►M3](http://publications.europa.eu/resource/celex/32011R0566) — [REGULAMENTO (UE) N.º 566/2011 DA COMISSÃO de 8 de Junho de 2011](http://publications.europa.eu/resource/celex/32011R0566) — L 158 — 1 — 16.6.2011
-- [►M4](http://publications.europa.eu/resource/celex/32012R0459) — [REGULAMENTO (UE) N.º 459/2012 DA COMISSÃO de 29 de maio de 2012](http://publications.europa.eu/resource/celex/32012R0459) — L 142 — 16 — 1.6.2012
-- [►M5](http://publications.europa.eu/resource/celex/32018R0858) — [REGULAMENTO (UE) 2018/858 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2018](http://publications.europa.eu/resource/celex/32018R0858) — L 151 — 1 — 14.6.2018
-
-## REGULAMENTO (CE) N.º 715/2007 DO PARLAMENTO EUROPEU E DO CONSELHO,
 
 de 20 de junho de 2007,
 

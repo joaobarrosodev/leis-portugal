@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43876-1961-173971
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-08-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:25:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81a0995c3604c4665c4aff9848bb7254b37e4ce401b7c94fc5934026f848db94
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 58cbe3b3fbd358df72000dc4239808ff1922ea5f2553cf721bf38288cb95e7b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:25:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:25:14Z'
   warnings: []
   errors: []
 ---
@@ -86,19 +90,19 @@ Ouvido o Conselho Ultramarino:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É criado o Instituto dos Cereais de Angola, organismo de coordenação económica, com personalidade jurídica e autonomia administrativa e financeira, o qual superintende, coordena e disciplina a acção económica e corporativa dos organismos corporativos, primários ou intermédios, existentes na província neste sector, bem como, através da sua inscrição directa, as actividades que não se encontrem agremiadas.
+Artigo 1.º É criado o Instituto dos Cereais de Angola, organismo de coordenação económica, com personalidade jurídica e autonomia administrativa e financeira, o qual superintende, coordena e disciplina a acção económica e corporativa dos organismos corporativos, primários ou intermédios, existentes na província neste sector, bem como, através da sua inscrição directa, as actividades que não se encontrem agremiadas.
 
 § único. A superintendência e coordenação abrange desde já as actividades ligadas ao milho, trigo, arroz e seus derivados, podendo o Ministro do Ultramar, por portaria, estender a acção de disciplina económica do Instituto a outros cereais e às leguminosas, oleaginosas e gramíneas.
 
-###### Art. 2.º O Instituto dos Cereais de Angola tem a sua sede em Luanda e delegações nas várias regiões da província, de harmonia com o respectivo regulamento.
+Art. 2.º O Instituto dos Cereais de Angola tem a sua sede em Luanda e delegações nas várias regiões da província, de harmonia com o respectivo regulamento.
 
-###### Art. 3.º São obrigatòriamente inscritos no Instituto dos Cereais de Angola os produtores de cereais que exportem directamente, bem como os exportadoers e importadores.
+Art. 3.º São obrigatòriamente inscritos no Instituto dos Cereais de Angola os produtores de cereais que exportem directamente, bem como os exportadoers e importadores.
 
 § único. Só podem ser exportadores ou importadores de cereais, além do próprio Instituto, as entidades nele inscritas.
 
-###### Art. 4.º Estão ainda sujeitos à acção do Instituto dos Cereais de Angola, com a obrigação de manifestar a respectiva produção e acatar as directivas de valorização económica do sector, embora sem a obrigação de se inscreverem, os produtores que não se dediquem à exportação, os comerciantes de cereal, os industriais de moagens e os industriais de panificação.
+Art. 4.º Estão ainda sujeitos à acção do Instituto dos Cereais de Angola, com a obrigação de manifestar a respectiva produção e acatar as directivas de valorização económica do sector, embora sem a obrigação de se inscreverem, os produtores que não se dediquem à exportação, os comerciantes de cereal, os industriais de moagens e os industriais de panificação.
 
-###### Art. 5.º A disciplina económica exercida pelo Instituto dos Cereais de Angola e a sua acção de intervenção incidem:
+Art. 5.º A disciplina económica exercida pelo Instituto dos Cereais de Angola e a sua acção de intervenção incidem:
 
 a) Sobre a produção: promovendo, garantindo e fiscalizando o melhoramento da qualidade e o rendimento cultural através de serviços técnicos, concedendo crédito, adquirindo cereais a preço justo e fixando e tabelando os preços de venda ao comércio;
 
@@ -112,7 +116,7 @@ e) Sobre a indústria de moagem: fiscalizando a indústria moageira de cereais e
 
 f) Sobre a indústria de panificação: fiscalizando as instalações e zelando pelas qualidades e preços das farinhas e do pão.
 
-###### Art. 6.º Para o desempenho das atribuições referidas no artigo anterior compete nomeadamente no Instituto dos Cereais de Angola:
+Art. 6.º Para o desempenho das atribuições referidas no artigo anterior compete nomeadamente no Instituto dos Cereais de Angola:
 
 a) Estudar as condições em que se exerce a produção e comercialização dos cereais, promovendo o possível aperfeiçoamento técnico, económico e social das actividades ligadas ao sector;
 
@@ -138,11 +142,11 @@ l) Velar pelo cumprimento das leis, regulamentos e demais prescrições respeita
 
 m) Dar parecer sobre todos os assuntos relativos à produção e comércio de cereais que lhe forem pedidos pelos serviços centrais do Ministério do Ultramar ou pelo Governo-Geral da província.
 
-###### Art. 7.º O Instituto dos Cereais de Angola será obrigatòriamente consultado pelas instâncias oficiais e por quaisquer organismos públicos quanto aos assuntos que interessem ao exercício das actividades económicas em que superintende ou que estejam relacionados com elas.
+Art. 7.º O Instituto dos Cereais de Angola será obrigatòriamente consultado pelas instâncias oficiais e por quaisquer organismos públicos quanto aos assuntos que interessem ao exercício das actividades económicas em que superintende ou que estejam relacionados com elas.
 
-###### Art. 8.º O Instituto dos Cereais de Angola corresponder-se-á directamente com toda as entidades oficiais, organismos e autoridades da província, a quem solicitará os esclarecimentos, auxílio e demais colaboração de que carecer.
+Art. 8.º O Instituto dos Cereais de Angola corresponder-se-á directamente com toda as entidades oficiais, organismos e autoridades da província, a quem solicitará os esclarecimentos, auxílio e demais colaboração de que carecer.
 
-###### Art. 9.º O governador aprovará por portaria o regulamento do Instituto dos Cereiais de Angola.
+Art. 9.º O governador aprovará por portaria o regulamento do Instituto dos Cereiais de Angola.
 
 § 1.º Do regulamento constarão obrigatòriamente, além do mais, a organização dos serviços, os quadros do pessoal e as normas relativas aos processos de comercialização, venda e pagamento dos cereais produzidos na província, tendo em vista não só as transacções realizadas em Angola, como as que se destinam aos outros territórios portugueses e às exportações para o estrangeiro.
 
@@ -156,7 +160,7 @@ c) Serviços administrativos e de inspecção;
 
 d) Serviços de armazéns gerais.
 
-###### Art. 10.º O Instituto dos Cereais de Angola terá um director e um director adjunto, ambos nomeados pelo Ministro do Ultramar.
+Art. 10.º O Instituto dos Cereais de Angola terá um director e um director adjunto, ambos nomeados pelo Ministro do Ultramar.
 
 § 1.º O director e o director adjunto deverão ser escolhidos entre indivíduos diplomados com um curso superior e cujas aptidões, nos sectores a que se reportam as actividades do Instituto, tenham notória consagração.
 
@@ -164,17 +168,17 @@ d) Serviços de armazéns gerais.
 
 § 3.º Para efeitos de vencimentos, o director e o director adjunto serão considerados como incluídos, respectivamente, nas letras D e E do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 11.º Existirá também um conselho geral, que será constituído pelo director do Instituto, que preside, pelo director adjunto e por três vogais, nomeados pelo governador, por forma que no organismo tenham representação os sectores de produção e exportação de cereais e os serviços económicos da província.
+Art. 11.º Existirá também um conselho geral, que será constituído pelo director do Instituto, que preside, pelo director adjunto e por três vogais, nomeados pelo governador, por forma que no organismo tenham representação os sectores de produção e exportação de cereais e os serviços económicos da província.
 
-###### Art. 12.º O conselho geral reunir-se-á ordinàriamente uma vez por mês e extraordinàriamente quando for convocado por iniciativa do director do Instituto ou a pedido da maioria dos seus membros.
+Art. 12.º O conselho geral reunir-se-á ordinàriamente uma vez por mês e extraordinàriamente quando for convocado por iniciativa do director do Instituto ou a pedido da maioria dos seus membros.
 
-###### Art. 13.º As deliberações do conselho geral serão tomadas por maioria de votos, tendo o presidente voto de qualidade.
+Art. 13.º As deliberações do conselho geral serão tomadas por maioria de votos, tendo o presidente voto de qualidade.
 
-###### Art. 14.º O director do Instituto preside ao organismo, coordena toda a sua actividade e despacha directamente com o governador-geral da província.
+Art. 14.º O director do Instituto preside ao organismo, coordena toda a sua actividade e despacha directamente com o governador-geral da província.
 
 § único. O director adjunto substitui o director nas suas faltas ou impedimentos, competindo-lhe igualmente coadjuvá-lo no desempenho de funções que por este lhe sejam cometidas.
 
-###### Art. 15.º Compete especialmente ao director do Instituto:
+Art. 15.º Compete especialmente ao director do Instituto:
 
 1.º Representar o Instituto em juízo e fora dele;
 
@@ -196,7 +200,7 @@ d) Serviços de armazéns gerais.
 
 10.º Desempenhar os mais serviços, relacionados com a actividade do Instituto, de que for encarregado pelo Ministro do Ultramar ou pelo governador-geral da província.
 
-###### Art. 16.º Incumbe ao conselho geral:
+Art. 16.º Incumbe ao conselho geral:
 
 1.º Propor ao director as medidas consideradas convenientes à boa consecução dos fins do Instituto;
 
@@ -212,15 +216,15 @@ d) Serviços de armazéns gerais.
 
 7.º Informar sobre outros assuntos que sejam submetidos à sua consideração.
 
-###### Art. 17.º O Instituto terá um secretário, nomeado pelo governador-geral de entre indivíduos diplomados com um curso superior ou funcionários de categoria não inferior à letra L do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374).
+Art. 17.º O Instituto terá um secretário, nomeado pelo governador-geral de entre indivíduos diplomados com um curso superior ou funcionários de categoria não inferior à letra L do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374).
 
-###### Art. 18.º O Instituto pode tomar prédios urbanos de arrendamento, montar instalações de armazenamento e beneficiação de cereais, que poderão ser utilizados não só para os cereais pertencentes ao organismo, como para serviço devidamente remunerado dos particulares.
+Art. 18.º O Instituto pode tomar prédios urbanos de arrendamento, montar instalações de armazenamento e beneficiação de cereais, que poderão ser utilizados não só para os cereais pertencentes ao organismo, como para serviço devidamente remunerado dos particulares.
 
-###### Art. 19.º O Instituto poderá ocupar, sem quaisquer formalidades, os terrenos do Estado que na província se reconheçam como necessários ao desempenho das suas funções, mormente para campos experimentais e de demonstração e selecção de sementes.
+Art. 19.º O Instituto poderá ocupar, sem quaisquer formalidades, os terrenos do Estado que na província se reconheçam como necessários ao desempenho das suas funções, mormente para campos experimentais e de demonstração e selecção de sementes.
 
-###### Art. 20.º Ficam isentos de direitos de importação os maquinismos, sementes, insecticidas e adubos importados pelo Instituto quando não se destinem a ser fornecidos a terceiros.
+Art. 20.º Ficam isentos de direitos de importação os maquinismos, sementes, insecticidas e adubos importados pelo Instituto quando não se destinem a ser fornecidos a terceiros.
 
-###### Art. 21.º Constituem receitas próprias do Instituto:
+Art. 21.º Constituem receitas próprias do Instituto:
 
 1.º A taxa de $05 por quilograma de cereais exportados da província;
 
@@ -242,13 +246,13 @@ d) Serviços de armazéns gerais.
 
 § 2.º Todas as importâncias pertencentes ao Instituto dos Cereais de Angola serão depositadas no banco emissor da província, em conta corrente, à sua ordem.
 
-###### Art. 22.º Os empréstimos feitos pelo Instituto dos Cereais de Angola serão reduzidos a contrato particular, sendo o selo devido pago por meio de estampilha inutilizada pela assinatura do mutuante devidamente reconhecida pelo notário.
+Art. 22.º Os empréstimos feitos pelo Instituto dos Cereais de Angola serão reduzidos a contrato particular, sendo o selo devido pago por meio de estampilha inutilizada pela assinatura do mutuante devidamente reconhecida pelo notário.
 
 § único. Os empréstimos concedidos pelo Instituto dos Cereais de Angola não poderão exceder o prazo de doze meses nem 80 por cento do valor do cereal dado em garantia e devem ser liquidados com o produto da venda do cereal.
 
-###### Art. 23.º O selo branco do Instituto dos Cereais de Angola produzirá efeitos idênticos aos dos selos brancos dos serviços públicos do Estado.
+Art. 23.º O selo branco do Instituto dos Cereais de Angola produzirá efeitos idênticos aos dos selos brancos dos serviços públicos do Estado.
 
-###### Art. 24.º O não cumprimento das obrigações impostas por este decreto, regulamento e instruções do Instituto dos Cereais de Angola poderá dar lugar à aplicação das seguintes penalidades:
+Art. 24.º O não cumprimento das obrigações impostas por este decreto, regulamento e instruções do Instituto dos Cereais de Angola poderá dar lugar à aplicação das seguintes penalidades:
 
 1.º Advertência;
 
@@ -268,7 +272,7 @@ d) Serviços de armazéns gerais.
 
 § 4.º No caso de aplicação de multa superior a 5000$00 ou das penalidades referidas nos n.os 4.º e 5.º deste artigo haverá sempre direito de recurso para o Tribunal Administrativo.
 
-###### Art. 25.º As alfândegas da província só correrão despacho de exportação de cereais mediante exibição da autorização de exportação passada pelo Instituto.
+Art. 25.º As alfândegas da província só correrão despacho de exportação de cereais mediante exibição da autorização de exportação passada pelo Instituto.
 
 § 1.º As autorizações de exportação mencionarão sempre:
 
@@ -284,11 +288,11 @@ e) O prazo de validade da autorização.
 
 § 2.º O Instituto não poderá passar autorização com prazo de validade superior a 90 dias. As autorizações não utilizadas dentro do prazo nelas fixado caducam.
 
-###### Art. 26.º O Instituto dos Cereais de Angola, nas autorizações de exportação que passar, terá sempre em vista garantir também o abastecimento dos mercados de Angola, da metrópole e dos outros territórios ultramarinos e, bem assim, a qualidade dos produtos.
+Art. 26.º O Instituto dos Cereais de Angola, nas autorizações de exportação que passar, terá sempre em vista garantir também o abastecimento dos mercados de Angola, da metrópole e dos outros territórios ultramarinos e, bem assim, a qualidade dos produtos.
 
-###### Art. 27.º Este decreto entra em vigor em 1 de Janeiro de 1962.
+Art. 27.º Este decreto entra em vigor em 1 de Janeiro de 1962.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Agosto de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

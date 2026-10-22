@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43523-1961-561014
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-03-06T00:00:00Z'
+  retrieved_at: '2026-10-22T19:22:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f316815cb1f5c44fa385e76e961586b5137ec0016cfbb0ec37b6530fbc15cf5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ca2e68c576af17035136c43b4cbbfdea76b194316088de1c25f988671f1d74c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:22:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:22:28Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +96,9 @@ Tendo em vista o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Junta Autónoma dos Portos do Distrito de Angra do Heroísmo a celebrar contrato com a firma Cimar - Construções Civis e Marítimas, Lda., para a execução da empreitada das obras nos portos de Velas, Calheta, Fajã dos Vimes (ilha de S. Jorge), Santa Cruz, Praia (ilha Graciosa) e S. Mateus (ilha Terceira), pela importância de 13895114$60.
+Artigo 1.º É autorizada a Junta Autónoma dos Portos do Distrito de Angra do Heroísmo a celebrar contrato com a firma Cimar - Construções Civis e Marítimas, Lda., para a execução da empreitada das obras nos portos de Velas, Calheta, Fajã dos Vimes (ilha de S. Jorge), Santa Cruz, Praia (ilha Graciosa) e S. Mateus (ilha Terceira), pela importância de 13895114$60.
 
-###### Art. 2.º Seja qual for o valor dos trabalhos a realizar, não poderá a Junta Autónoma dos Portos do Distrito de Angra do Heroísmo despender com pagamentos relativos às obras executadas, por virtude do contrato, mais de:
+Art. 2.º Seja qual for o valor dos trabalhos a realizar, não poderá a Junta Autónoma dos Portos do Distrito de Angra do Heroísmo despender com pagamentos relativos às obras executadas, por virtude do contrato, mais de:
 
 Em 1961 ... 2500000$00
 
@@ -108,6 +112,6 @@ Em 1965 ... 1895114$60
 
 § único. Às importâncias fixadas para cada ano acrescem os saldos que se apurarem nos anos anteriores.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Março de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Eduardo de Arantes e Oliveira - Carlos Gomes da Silva Ribeiro.

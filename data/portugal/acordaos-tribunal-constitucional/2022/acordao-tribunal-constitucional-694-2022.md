@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/11/22500/0000400008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/694/2022/11/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/694-2022-203729607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-22T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07f021fd01af4e731e8fac214dd76518f653b357963679a082d9dc91f7a77bc5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a4abea69f01064dcb80ae2d9bb2fb4f513af202082fa14df1f72e7ad896f795
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -110,16 +110,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/4/2000/08/24/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/4/2000/08/24/p/dre
+- type: cites
+  target: pt:dre:116068877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116090196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148963302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3259369:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692068:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:24Z'
   warnings: []
   errors: []
 ---
@@ -265,3 +305,5 @@ III - Decisão. - Pelo exposto, o Tribunal Constitucional decide ter por verific
 Atesto o voto de conformidade do Sr. Conselheiro Lino Ribeiro. José João Abrantes.
 
 Lisboa, 25 de outubro de 2022. - José João Abrantes - José Teles Pereira - Mariana Canotilho - Maria Benedita Urbano - António José da Ascensão Ramos - José Eduardo Figueiredo Dias - Pedro Machete - Assunção Raimundo - Joana Fernandes Costa - Gonçalo Almeida Ribeiro - Afonso Patrão - João Pedro Caupers.
+
+115891742

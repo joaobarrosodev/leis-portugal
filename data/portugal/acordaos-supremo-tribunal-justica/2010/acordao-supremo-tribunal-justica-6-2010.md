@@ -54,18 +54,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/6/2010/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/6-2010-614826
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-21T00:00:00Z'
+  retrieved_at: '2026-10-22T17:52:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3a47088ab469e94cc0b2ef3bb8004a3297a827ac18aacc5e0994be771572acb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e35491a46f141f3a4482c456ddd805cab7b90bce98330a68fb6d5f296e0f16c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:52:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,29 +73,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Medidas de Coacção
-- Processo Penal
 - Código de Processo Penal
 - Execução de Penas
-- Interpretação do Direito
 - Execução de Sentença
+- Interpretação do Direito
+- Medidas de Coacção
 - Notificação
+- Processo Penal
 - Sanção Penal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/320-c/2000/12/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/320-c/2000/12/15/p/dre
+- type: cites
+  target: pt:dre:393231:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:52:54Z'
   warnings: []
   errors: []
 ---
@@ -350,7 +354,9 @@ b) Determinar que a Relação, alterando parcialmente a decisão recorrida, admi
 
 (3):
 
-###### Artigo 56.º — Revogação da suspensão
+Artigo 56.º
+
+Revogação da suspensão
 
 1 - A suspensão da execução da pena de prisão é revogada sempre que, no seu decurso, o condenado:
 
@@ -362,7 +368,9 @@ b) Cometer crime pelo qual venha a ser condenado, e revelar que as finalidades q
 
 (4):
 
-###### Artigo 492.º — Modificação dos deveres, regras de conduta e outras obrigações impostos
+Artigo 492.º
+
+Modificação dos deveres, regras de conduta e outras obrigações impostos
 
 1 - A modificação dos deveres, regras de conduta e outras obrigações impostos ao condenado na sentença que tiver decretado a suspensão da execução da prisão é decidida por despacho [...].
 
@@ -370,13 +378,17 @@ b) Cometer crime pelo qual venha a ser condenado, e revelar que as finalidades q
 
 (5):
 
-###### Artigo 406.º — Subida nos autos e em separado
+Artigo 406.º
+
+Subida nos autos e em separado
 
 1 - Sobem nos próprios autos os recursos interpostos de decisões que ponham termo à causa e os que com aqueles deverem subir.
 
 2 - Sobem em separado os recursos não referidos no número anterior que deverem subir imediatamente.
 
-###### Artigo 407.º — Momento da subida
+Artigo 407.º
+
+Momento da subida
 
 1 - Sobem imediatamente os recursos cuja retenção os tornaria absolutamente inúteis.
 
@@ -388,7 +400,9 @@ b) De decisões posteriores às referidas na alínea anterior;
 
 ...
 
-###### Artigo 408. — Recurso com efeito suspensivo
+Artigo 408.
+
+Recurso com efeito suspensivo
 
 1 - Têm efeito suspensivo do processo:
 
@@ -406,7 +420,9 @@ c) O recurso de despacho que ordene a execução da prisão, em caso de não cum
 
 (6):
 
-###### Artigo 113.º — Regras gerais sobre notificações
+Artigo 113.º
+
+Regras gerais sobre notificações
 
 1 - As notificações efectuam-se mediante:
 
@@ -422,7 +438,9 @@ d) Editais e anúncios, nos casos em que a lei expressamente o admitir.
 
 (7):
 
-###### Artigo 214.º — Extinção das medidas
+Artigo 214.º
+
+Extinção das medidas
 
 1 - As medidas de coacção extinguem-se de imediato:
 
@@ -446,7 +464,9 @@ e) Com o trânsito em julgado da sentença condenatória.
 
 (13):
 
-###### Artigo 196.º — Termo de identidade e residência
+Artigo 196.º
+
+Termo de identidade e residência
 
 1 - A autoridade judiciária ou o órgão de polícia criminal sujeitam a termo de identidade e residência lavrado no processo todo aquele que for constituído arguido, ainda que já tenha sido identificado nos termos do artigo 250.º
 
@@ -466,7 +486,9 @@ d) De que o incumprimento do disposto nas alíneas anteriores legitima a sua rep
 
 (15) CPP:
 
-###### Artigo 57.º — Qualidade de arguido
+Artigo 57.º
+
+Qualidade de arguido
 
 ...
 
@@ -480,7 +502,7 @@ d) De que o incumprimento do disposto nas alíneas anteriores legitima a sua rep
 
 Tem voto de conformidade do Exmo. Conselheiro Santos Cabral, que não votou tão-só por não estar presente.
 
-**O Presidente, Luís António Noronha Nascimento.**
+O Presidente, Luís António Noronha Nascimento.
 
 Declaração de voto
 

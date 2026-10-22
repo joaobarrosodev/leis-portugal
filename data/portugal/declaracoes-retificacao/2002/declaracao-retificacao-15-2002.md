@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/15/2002/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-2002-300605
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-26T00:00:00Z'
+  retrieved_at: '2026-10-22T18:59:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78024be077fae3684c6eec552560cf3d65183062442c46376c9a0031a7046db0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73e39ff3f667a3249dc5670217d4cec9f7e6e2b9a9e66844a20a4cd860c9a0b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:59:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,41 +68,53 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Actividade Sindical
-- PSP
-- Eleição
-- Corpos Gerentes
 - Associação Sindical
+- Corpos Gerentes
 - Direito de Associação
 - Direito de Participação
+- Direitos do Indivíduo
 - Direitos e Liberdades
+- Eleição
 - Estatuto
+- Faltas
 - Incompatibilidades
 - Interesse Público
 - Legitimidade
 - Liberdade de Associação
 - Liberdade de Reunião
 - Liberdade Sindical
-- Direitos do Indivíduo
-- Faltas
+- Ministro da Administração Interna
+- PSP
 - Quota Sindical
 - Sede
-- Ministro da Administração Interna
 - Sindicato
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/14/2002/02/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/14/2002/02/19/p/dre
+- type: cites
+  target: pt:dre:278033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572886:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:59:48Z'
   warnings: []
   errors: []
 ---

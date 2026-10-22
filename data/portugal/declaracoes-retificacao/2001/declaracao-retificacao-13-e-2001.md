@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 126/2001, 4º Suplemento, Série I-B de 2001-05-31
   number: '126'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 3278-(20) a 3278-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/05/126b04/00200020.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/13-e/2001/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-e-2001-587975
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:57:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55f83d199cbf3dfd0140e67c016ecb5b6b4d50dce0a31c168bfb8a6fe387865d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63f32963186483b971300896d76f6e03929a39c74a6e1b2689c7b290f0c64c9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:57:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comércio
 - Crustáceo
+- Marisco
 - Pesca
 - Recursos do Mar
-- Marisco
-- Comércio
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/248/2001/03/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/248/2001/03/22/p/dre
+- type: cites
+  target: pt:dre:352707:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:57:28Z'
   warnings: []
   errors: []
 ---

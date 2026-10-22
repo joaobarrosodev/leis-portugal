@@ -47,26 +47,57 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/188/2026/09/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2026-1172217155
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-21T00:00:00Z'
+  retrieved_at: '2026-10-22T18:53:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0dd86f433e1e3bb8b421090c395e7c925e5b35747cc7b2be6ed9ef996f63e798
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b38491bd0bec213c82051ecc80ce727784621aa3bb307ebbbdf36f81b5f3f056
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:53:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Agência de Geologia e Energia
+- Aproximação das Legislações
+- ASAE
+- Biocombustível
+- Combustível
+- Comércio
+- Comissão CE
+- Comissão de Aplicação de Coimas em Matéria Económica
+- Contra-ordenação
+- Definição de Competências
+- Direcção Regional de Economia
+- Especificação Técnica
+- Fiscalização
+- Gás Propano
+- Gasóleo
+- Gasolina
+- Madeira.região Autónoma
+- Petróleo
+- Poluição Atmosférica
+- Proteção do Ambiente
+- Veículo
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:89/2008
+  label: Altera a partir de 1 de outubro de 2026, os artigos 1.º, 2.º, 4.º, 5.º, 7.º, 8.º, 12.º, 13.º, 15.º, 16.º, os anexos
+    i,ii,iii,iv, v, vi , viii e revoga o n.º 4 do artigo 5.º, o artigo 10.º, o n.º 5 do artigo 13.º, o artigo 14.º-A e as
+    alíneas e), i), j) e k) do n.º 1 do artigo 15.º do Decreto-Lei n.º 89/2008, de 30 de maio, Diário da República n.º 104/2008,
+    Série I, e as referências à Direção-Geral de Energia e Geologia, consideram-se feitas à Agência de Geologia e Energia,
+    I. P, nos termos do seu artigo 5.º
+  source: null
+  date: '2008-05-29'
 - type: cites
   target: celex:31987R2687
   label: null
@@ -171,6 +202,52 @@ relationships:
   target: eli:http://data.europa.eu/eli
   label: null
   source: http://data.europa.eu/eli
+- type: cites
+  target: pt:dre:1055043916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107773652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114337041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136678512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222283514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70409927:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1180100663:por
+  label: Retificado o artigo 2.º e o anexo pelo(a) Declaração de Retificação n.º 37/2026/1 - Diário da República n.º 199/2026,
+    Série I de 2026-10-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/37-2026-1180100663
+  date: '2026-10-14'
 - type: transposes
   target: celex:31998L0070
   label: null
@@ -188,15 +265,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 16
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:53:30Z'
   warnings: []
   errors: []
 ---
@@ -231,7 +308,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto-lei procede à quarta alteração ao [Decreto-Lei n.º 89/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2008-448966), de 30 de maio, alterado pelos Decretos-Leis n.<sup>os</sup>[142/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2010-306625), de 31 de dezembro, [214-E/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-e-2015-70409927), de 30 de setembro, e [152-C/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), de 11 de dezembro, transpondo parcialmente a [Diretiva (UE) 2023/2413](https://data.europa.eu/eli/dir/2023/2413/oj?locale=pt), do Parlamento Europeu e do Conselho, de 18 de outubro de 2023, que altera a [Diretiva (UE) 2018/2001](https://data.europa.eu/eli/dir/2018/2001/oj?locale=pt), o [Regulamento (UE) 2018/1999](https://data.europa.eu/eli/reg/2018/1999/oj?locale=pt) e a [Diretiva 98/70/CE](https://data.europa.eu/eli/dir/1998/70/oj?locale=pt), no que respeita à promoção de energia de fontes renováveis, e que revoga a [Diretiva (UE) 2015/652](https://data.europa.eu/eli/dir/2015/652/oj?locale=pt), do Conselho.
+O presente decreto-lei procede à quarta alteração ao [Decreto-Lei n.º 89/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2008-448966), de 30 de maio, alterado pelos Decretos-Leis n.os[142/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2010-306625), de 31 de dezembro, [214-E/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-e-2015-70409927), de 30 de setembro, e [152-C/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), de 11 de dezembro, transpondo parcialmente a [Diretiva (UE) 2023/2413](https://data.europa.eu/eli/dir/2023/2413/oj?locale=pt), do Parlamento Europeu e do Conselho, de 18 de outubro de 2023, que altera a [Diretiva (UE) 2018/2001](https://data.europa.eu/eli/dir/2018/2001/oj?locale=pt), o [Regulamento (UE) 2018/1999](https://data.europa.eu/eli/reg/2018/1999/oj?locale=pt) e a [Diretiva 98/70/CE](https://data.europa.eu/eli/dir/1998/70/oj?locale=pt), no que respeita à promoção de energia de fontes renováveis, e que revoga a [Diretiva (UE) 2015/652](https://data.europa.eu/eli/dir/2015/652/oj?locale=pt), do Conselho.
 
 ###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 89/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2008-448966), de 30 de maio
 
@@ -249,7 +326,9 @@ a) [...]
 
 b) Definir as regras para o controlo de qualidade dos carburantes rodoviários.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 [...]
 
@@ -289,7 +368,9 @@ r) [...]
 
 s) [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -299,7 +380,9 @@ s) [...]
 
 4 - O controlo analítico dos combustíveis mencionados nos números anteriores é feito com base nos métodos referidos nos anexos i e ii ao presente decreto-lei, que dele fazem parte integrante, respetivamente, podendo a Direção-Geral de Energia e Geologia (DGEG) autorizar a utilização de outros métodos analíticos adequados, desde que estes comprovadamente ofereçam, no mínimo, a mesma exatidão e o mesmo nível de precisão que os métodos analíticos substituídos.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -323,7 +406,9 @@ s) [...]
 
 11 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -347,13 +432,17 @@ b) O cumprimento da rotulagem prevista na norma NP EN 16942 e no seu Anexo Nacio
 
 9 - Os combustíveis líquidos que não sejam gasóleo só podem ser utilizados em embarcações de navegação interior ou em embarcações de recreio se o seu teor de enxofre não exceder o limite definido no anexo v do presente decreto-lei, que dele faz parte integrante.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - As especificações do gasóleo de aquecimento, destinado ao mercado interno nacional, são as constantes do anexo vi do presente decreto-lei, que dele faz parte integrante.
 
 2 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -361,7 +450,9 @@ b) O cumprimento da rotulagem prevista na norma NP EN 16942 e no seu Anexo Nacio
 
 3 - As características mais rigorosas a que devem obedecer a gasolina ou o combustível para motores de ignição por compressão, bem como a definição das zonas específicas a que se refere o n.º 1, são estabelecidas, com respeito pelo n.º 2, por portaria dos membros do Governo responsáveis pelas áreas da saúde, do ambiente e da energia, tendo em conta a legislação aplicável, designadamente o [Decreto-Lei n.º 102/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2010-342123), de 23 de setembro.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -381,7 +472,9 @@ b) O cumprimento da rotulagem prevista na norma NP EN 16942 e no seu Anexo Nacio
 
 9 - [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -389,7 +482,7 @@ a) A introdução no consumo ou a comercialização de combustíveis que não cu
 
 b) A falta ou incorreta rotulagem prevista no n.º 3 do artigo 4.º, no n.º 5 do artigo 5.º e na alínea b) do n.º 6 do artigo 7.º;
 
-c) A falta de informação e de disponibilização de informação prevista nos n.<sup>os</sup>8 e 9 do artigo 5.º e na alínea a) do n.º 6 e no n.º 7 do artigo 7.º;
+c) A falta de informação e de disponibilização de informação prevista nos n.os8 e 9 do artigo 5.º e na alínea a) do n.º 6 e no n.º 7 do artigo 7.º;
 
 d) [...]
 
@@ -411,9 +504,11 @@ l) O incumprimento da obrigação de garantir a colocação no mercado de gasól
 
 2 - [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
 
-1 - Sem prejuízo das competências atribuídas à DGEG nos n.<sup>os</sup>1, 2, 3, 4, 6, 7, 8 e 9 do artigo 13.º e no artigo 14.º, bem como das competências próprias de outras entidades, a fiscalização do presente decreto-lei compete à entidade fiscalizadora especializada para o setor energético.
+[...]
+
+1 - Sem prejuízo das competências atribuídas à DGEG nos n.os1, 2, 3, 4, 6, 7, 8 e 9 do artigo 13.º e no artigo 14.º, bem como das competências próprias de outras entidades, a fiscalização do presente decreto-lei compete à entidade fiscalizadora especializada para o setor energético.
 
 2 - A instrução dos processos de contraordenação e a aplicação das coimas e sanções acessórias previstos no presente decreto-lei competem à entidade fiscalizadora especializada para o setor energético.
 
@@ -445,15 +540,15 @@ O presente decreto-lei entra em vigor a 1 de outubro de 2026.
 
 Visto e aprovado em Conselho de Ministros de 9 de julho de 2026. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - José Maria Gonçalves Pereira Brandão de Brito - Manuel Castro Almeida - Ana Paula Martins - Maria da Graça Carvalho.
 
-**Promulgado em 2 de setembro de 2026.**
+Promulgado em 2 de setembro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 4 de setembro de 2026.**
+Referendado em 4 de setembro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -461,11 +556,10 @@ Visto e aprovado em Conselho de Ministros de 9 de julho de 2026. - Luís Montene
 
 Especificações dos gases de petróleo liquefeitos
 
-|  |  |  |  |  |
+| Características | Unidades | Gases de petróleo liquefeito | Método de ensaio |  |
 | --- | --- | --- | --- | --- |
-| Características | Unidades | Gases de petróleo liquefeito | Gases de petróleo liquefeito | Método de ensaio |
-| Características | Unidades | Propano | Butano | Método de ensaio |
-| Massa volúmica a 15˚C | kg/m<sup>3</sup> | A relatar | A relatar | EN ISO 3993; EN ISO 8973 |
+| Propano | Butano |  |  |  |
+| Massa volúmica a 15˚C | kg/m3 | A relatar | A relatar | EN ISO 3993; EN ISO 8973 |
 | Composição: |  |  |  |  |
 | C2 |  | 5 máx. | – |  |
 | C3 |  | 90 min | 20 máx. |  |
@@ -474,67 +568,71 @@ Especificações dos gases de petróleo liquefeitos
 | Insaturados totais |  | 25 máx | 25 máx. |  |
 | Dienos totais (incluindo 1,3-butadieno) |  | 0,5 máx. | 0,5 máx. |  |
 | Resíduo de evaporação | % (v/v) | 0,05 máx. | 0,05 máx. | ASTM D 2158 |
-| Tensão de vapor relativa a 40˚C (<sup>1</sup>) | kPa | 1550 máx. | 520 máx. | EN ISO 4256; EN ISO 8973 e anexo C da EN 589 |
+| Tensão de vapor relativa a 40˚C (1) | kPa | 1550 máx. | 520 máx. | EN ISO 4256; EN ISO 8973 e anexo C da EN 589 |
 | Poder calorífico inferior | Kcal/kg | A relatar | A relatar | ASTM D 3588 |
 | Poder calorífico superior | Kcal/kg | A relatar | A relatar | ASTM D 3588 |
-| Sulfureto de hidrogénio (<sup>2</sup>) | – | Negativo | Negativo | EN ISO 8819 |
-|  | mg/m<sup>3</sup> | 0,75 máx. | 0,75 máx. | Tubos de absorção |
-|  | mg/m<sup>3</sup> | 0,75 máx. | 0,75 máx. | ASTM D 6228 |
+| Sulfureto de hidrogénio (2) | – | Negativo | Negativo | EN ISO 8819 |
+|  | mg/m3 | 0,75 máx. | 0,75 máx. | Tubos de absorção |
+|  | mg/m3 | 0,75 máx. | 0,75 máx. | ASTM D 6228 |
 | Enxofre de mercaptanos ou Etilmercaptano | mg/kg ppmv | 6 mín.12 mín. | 6 mín.12 mín. | NP 4188; IP 272ASTM D 5305 |
-| Teor de enxofre total (após odorização) (<sup>3</sup>) | mg/kg ppmv | 50 máx. | 50 máx. | ASTM D 6667;ASTM D 3246 |
+| Teor de enxofre total (após odorização) (3) | mg/kg ppmv | 50 máx. | 50 máx. | ASTM D 6667;ASTM D 3246 |
 | Corrosão da lâmina de cobre (1h a 40˚C) | Classificação | Classe 1 | Classe 1 | EN ISO 6251 |
 | Amoníaco | ppmv | 1 máx. | 1 máx. | Tubos de absorção |
 | Água separada ou em suspensão | – | Isento | Isento | Inspeção visual |
 | Água dissolvida | – | Passa no ensaio | Não aplicável | ASTM D 2713 |
 
-(<sup>1</sup>) Em caso de litígio relativamente à tensão de vapor deve ser utilizada a EN ISO 4256.
+(1) Em caso de litígio relativamente à tensão de vapor deve ser utilizada a EN ISO 4256.
 
-(<sup>2</sup>) Os métodos de ensaio indicados são alternativos. O produto é considerado conforme desde que respeite um limite por um dos métodos de ensaio.
+(2) Os métodos de ensaio indicados são alternativos. O produto é considerado conforme desde que respeite um limite por um dos métodos de ensaio.
 
-(<sup>3</sup>) Em caso de litígio relativamente ao teor de enxofre total, deve ser usado o ASTM D 6667.
+(3) Em caso de litígio relativamente ao teor de enxofre total, deve ser usado o ASTM D 6667.
 
-## ANEXO II — Especificações do GPL carburante
+ANEXO II
 
-| Característica | Unidades | Limites | Métodos de ensaio (<sup>1</sup>) |
+Especificações do GPL carburante
+
+| Característica | Unidades | Limites | Métodos de ensaio (1) |
 | --- | --- | --- | --- |
 | Índice de octano ‘Motor’ (MON) | – | 89,0 mín. | EN 589, anexo B |
 | Insaturados totais | % (molar) | 25 máx. | EN 27941; ISO 7941 |
 | Dienos totais (incluindo 1,3-butadieno) |  | 0,5 máx. |  |
 | Resíduo de evaporação | mg/kg | 60 máx. | EN 15470; EN 15471 |
-| Tensão de vapor relativa a 40˚C (<sup>2</sup>) | kPa | 1550 máx. | EN ISO 4256; EN ISO 8973 e anexo C da EN 589 |
+| Tensão de vapor relativa a 40˚C (2) | kPa | 1550 máx. | EN ISO 4256; EN ISO 8973 e anexo C da EN 589 |
 | Tensão de vapor relativa a 10˚C, de 1 de dezembro a 31 de março | kPa | 150 min. | EN ISO 8973 e anexo C da EN 589 |
-| Sulfureto de hidrogénio (<sup>3</sup>) | – | Negativo | EN ISO 8819 |
-| Sulfureto de hidrogénio (<sup>3</sup>) | mg/m<sup>3</sup> | 0,75 máx. | Tubos de absorção |
-| Sulfureto de hidrogénio (<sup>3</sup>) | mg/m<sup>3</sup> | 0,75 máx. | ASTM D 6228 |
+| Sulfureto de hidrogénio (3) | – | Negativo | EN ISO 8819 |
+| mg/m3 | 0,75 máx. | Tubos de absorção |  |
+| mg/m3 | 0,75 máx. | ASTM D 6228 |  |
 | Enxofre de mercaptanos | mg/kg | 6 min. | NP 4188; IP 272 |
 | ou |  |  |  |
 | Etilmercaptano | ppmv | 12 min. | ASTM D 5305 |
-| Teor de enxofre total (após odorização) (<sup>4</sup>) | mg/kg | 50 máx. | EN 24260; ASTM D 6667;ASTM D 3246 |
+| Teor de enxofre total (após odorização) (4) | mg/kg | 50 máx. | EN 24260; ASTM D 6667;ASTM D 3246 |
 | Corrosão da lâmina de cobre (1h a 40˚C) | Classificação | Classe 1 | EN ISO 6251 |
 | Amoníaco | ppmv | 1 máx. | Tubos de absorção |
 | Água separada ou em suspensão | – | Isento | Inspeção visual |
 | Água dissolvida | – | Passa no ensaio | ASTM D 2713 |
 
-(<sup>1</sup>) Todos os métodos de ensaio indicados incluem a sua fidelidade. Em caso de litígio os procedimentos aplicados à sua resolução e interpretação dos resultados com base na fidelidade dos métodos de ensaio devem ser os descritos na EN ISO 4259.
+(1) Todos os métodos de ensaio indicados incluem a sua fidelidade. Em caso de litígio os procedimentos aplicados à sua resolução e interpretação dos resultados com base na fidelidade dos métodos de ensaio devem ser os descritos na EN ISO 4259.
 
-(<sup>2</sup>) Em caso de litígio relativamente à tensão de vapor deve ser utilizada a EN ISO 4256.
+(2) Em caso de litígio relativamente à tensão de vapor deve ser utilizada a EN ISO 4256.
 
-(<sup>3</sup>) Os métodos de ensaio indicados são alternativos. O produto é considerado conforme desde que respeite um limite por um dos métodos de ensaio.
+(3) Os métodos de ensaio indicados são alternativos. O produto é considerado conforme desde que respeite um limite por um dos métodos de ensaio.
 
-(<sup>4</sup>) Em caso de litígio relativamente ao teor de enxofre total, deve ser usado o ASTM D 6667.
+(4) Em caso de litígio relativamente ao teor de enxofre total, deve ser usado o ASTM D 6667.
 
-## ANEXO III — Especificações das gasolinas
+ANEXO III
 
-| Característica | Unidade | Mínimo | Máximo | Métodos de ensaio (<sup>2</sup>) |
+Especificações das gasolinas
+
+| Característica | Unidade | Limites (1) | Métodos de ensaio (2) |  |
 | --- | --- | --- | --- | --- |
-| Característica | Unidade | Limites (<sup>1</sup>) | Limites (<sup>1</sup>) | Métodos de ensaio (<sup>2</sup>) |
-| Aspeto (<sup>3</sup>) |  | Límpido e brilhante |  | Inspeção visual |
-| Massa volúmica a 15˚C (<sup>4</sup>) | kg/m<sup>3</sup> | 720,0 | 775,0 | EN ISO 3675EN ISO 12185 |
-| RON, mín. |  | 95 | ¾ | EN ISO 5164 (<sup>5</sup>) |
-| MON, mín. |  | 85 | ¾ | EN ISO 5163 (<sup>5</sup>) |
-| Tensão de vapor |  |  |  | EN 13016-1 (DVPE) (<sup>6</sup>) |
-| - De 1 de maio a 30 de setembro | kPa | 45,0 | 60,0 (<sup>7</sup>) |  |
-| - Meses de outubro e abril | kPa | 45,0 (<sup>8</sup>) | 90,0 (<sup>8</sup>) |  |
+| Mínimo | Máximo |  |  |  |
+| Aspeto (3) |  | Límpido e brilhante |  | Inspeção visual |
+| Massa volúmica a 15˚C (4) | kg/m3 | 720,0 | 775,0 | EN ISO 3675EN ISO 12185 |
+| RON, mín. |  | 95 | ¾ | EN ISO 5164 (5) |
+| MON, mín. |  | 85 | ¾ | EN ISO 5163 (5) |
+| Tensão de vapor |  |  |  | EN 13016-1 (DVPE) (6) |
+| - De 1 de maio a 30 de setembro | kPa | 45,0 | 60,0 (7) |  |
+| - Meses de outubro e abril | kPa | 45,0 (8) | 90,0 (8) |  |
 | - De 1 de novembro a 31 de março | kPa | 50,0 | 90,0 |  |
 | Destilação: |  |  |  | EN ISO 3405 |
 | - Evaporado a 70˚C |  |  |  |  |
@@ -543,74 +641,75 @@ Especificações dos gases de petróleo liquefeitos
 | - De 1 de novembro a 31 de março | % v/v | 22,0 | 52,0 |  |
 | - Evaporado a 100˚C | % v/v | 46,0 | 72,0 |  |
 | - Evaporado a 150˚C | % v/v | 75,0 | ¾ |  |
-| - Ponto final | <sup>o</sup>C | ¾ | 210 |  |
+| - Ponto final | oC | ¾ | 210 |  |
 | - Resíduo | % v/v | ¾ | 2 |  |
-| Análise de hidrocarbonetos: (<sup>9</sup>) |  |  |  | EN ISO 22854EN 15553 |
+| Análise de hidrocarbonetos: (9) |  |  |  | EN ISO 22854EN 15553 |
 | - Olefinas | % v/v | ¾ | 18,0 |  |
 | - Aromáticos | % v/v | ¾ | 35,0 |  |
-| - Benzeno(<sup>10</sup>) | % v/v | ¾ | 1,0 | EN 12177EN 238EN ISO 22854 |
-| Teor de oxigénio(<sup>11</sup>) (<sup>12</sup>) | % m/m | ¾ | 3,7 | EN 1601EN 13132EN ISO 22854 |
-| Compostos oxigenados: (<sup>13</sup>) |  |  |  | EN 1601EN 13132EN ISO 22854 |
-| - Metanol, devem ser adicionados agentes estabilizadores (<sup>14</sup>) | % v/v | ¾ | 3,0 |  |
-| - Etanol, podem ser necessários agentes estabilizadores (<sup>15</sup>) | % v/v | ¾ | 10,0 |  |
+| - Benzeno(10) | % v/v | ¾ | 1,0 | EN 12177EN 238EN ISO 22854 |
+| Teor de oxigénio(11) (12) | % m/m | ¾ | 3,7 | EN 1601EN 13132EN ISO 22854 |
+| Compostos oxigenados: (13) |  |  |  | EN 1601EN 13132EN ISO 22854 |
+| - Metanol, devem ser adicionados agentes estabilizadores (14) | % v/v | ¾ | 3,0 |  |
+| - Etanol, podem ser necessários agentes estabilizadores (15) | % v/v | ¾ | 10,0 |  |
 | - Álcool isopropílico | % v/v | ¾ | 12,0 |  |
 | - Álcool terbutílico | % v/v | ¾ | 15,0 |  |
 | - Álcool isobutílico | % v/v | ¾ | 15,0 |  |
 | - Éteres com 5 ou mais átomos de Carbono por molécula | % v/v | ¾ | 22,0 |  |
-| Outros compostos oxigenados(<sup>16</sup>) | % v/v | ¾ | 15,0 |  |
-| Teor de enxofre (<sup>17</sup>) | mg/kg | ¾ | 10,0 | EN ISO 13032EN ISO 20846EN ISO 20884 |
+| Outros compostos oxigenados(16) | % v/v | ¾ | 15,0 |  |
+| Teor de enxofre (17) | mg/kg | ¾ | 10,0 | EN ISO 13032EN ISO 20846EN ISO 20884 |
 | Teor de chumbo | g/l | ¾ | 0,005 | EN 237 |
 | Estabilidade à oxidação | min | 360 | ¾ | EN ISO 7536 |
 | Gomas existentes (lavadas com solvente) | mg/100ml | ¾ | 5 | EN ISO 6246 |
 | Corrosão da lâmina de cobre (3 h a 50°C) | Classificação | Classe 1 |  | EN ISO 2160 |
-| Aditivos |  | (<sup>18</sup>) (<sup>19</sup>) |  |  |
+| Aditivos |  | (18) (19) |  |  |
 
-(<sup>1</sup>) Os valores indicados na especificação são os ‘valores reais’. Para fixar os seus valores-limite, aplicam-se os termos da norma EN ISO 4259-1:2026 ‘Petroleum and related products - Precision of measurement methods and results - Part 1 - Determination of precision data in relation to methods of test’ e, para fixar um valor mínimo, tomou-se em consideração uma diferença mínima de 2R acima do zero (R = reprodutibilidade). Os resultados das medições individuais são interpretados com base nos critérios constantes da norma EN ISO 4259-2:2026.
+(1) Os valores indicados na especificação são os ‘valores reais’. Para fixar os seus valores-limite, aplicam-se os termos da norma EN ISO 4259-1:2026 ‘Petroleum and related products - Precision of measurement methods and results - Part 1 - Determination of precision data in relation to methods of test’ e, para fixar um valor mínimo, tomou-se em consideração uma diferença mínima de 2R acima do zero (R = reprodutibilidade). Os resultados das medições individuais são interpretados com base nos critérios constantes da norma EN ISO 4259-2:2026.
 
-(<sup>2</sup>) Os métodos de ensaio são os especificados na norma EN 228:2025. A Direção-Geral de Energia e Geologia (DGEG) pode autorizar a utilização de outros métodos analíticos adequados, desde que estes garantam pelo menos a mesma exatidão e o mesmo nível de precisão que o método analítico substituído.
+(2) Os métodos de ensaio são os especificados na norma EN 228:2025. A Direção-Geral de Energia e Geologia (DGEG) pode autorizar a utilização de outros métodos analíticos adequados, desde que estes garantam pelo menos a mesma exatidão e o mesmo nível de precisão que o método analítico substituído.
 
-(<sup>3</sup>) O aspeto visual deve ser determinado à temperatura ambiente.
+(3) O aspeto visual deve ser determinado à temperatura ambiente.
 
-(<sup>4</sup>) Em caso de litígio referente à massa volúmica a 15˚ C, deve ser utilizado o método descrito na EN ISO 12185.
+(4) Em caso de litígio referente à massa volúmica a 15˚ C, deve ser utilizado o método descrito na EN ISO 12185.
 
-(<sup>5</sup>) Para o cálculo do resultado final do RON e do MON, deve ser subtraído ao resultado medido um fator de correção de 0,2, conforme os requisitos da [Diretiva 98/70/CE](https://data.europa.eu/eli/dir/1998/70/oj?locale=pt), do Parlamento Europeu e do Conselho, de 13 de outubro de 1998. Ver pontos 6.6 e 6.7.2 da EN 228:2025 para recomendações sobre a apresentação de resultados.
+(5) Para o cálculo do resultado final do RON e do MON, deve ser subtraído ao resultado medido um fator de correção de 0,2, conforme os requisitos da [Diretiva 98/70/CE](https://data.europa.eu/eli/dir/1998/70/oj?locale=pt), do Parlamento Europeu e do Conselho, de 13 de outubro de 1998. Ver pontos 6.6 e 6.7.2 da EN 228:2025 para recomendações sobre a apresentação de resultados.
 
-(<sup>6</sup>) Deve ser reportada a Tensão de Vapor Seco Equivalente (DVPE).
+(6) Deve ser reportada a Tensão de Vapor Seco Equivalente (DVPE).
 
-(<sup>7</sup>) Caso seja autorizada uma derrogação ao abrigo do n.º 6 do artigo 5.º, relativa à gasolina com etanol, a tensão máxima de vapor é de 60 kPa, à qual se acrescenta a derrogação à tensão de vapor especificada no anexo viii, caso o etanol utilizado seja um biocombustível.
+(7) Caso seja autorizada uma derrogação ao abrigo do n.º 6 do artigo 5.º, relativa à gasolina com etanol, a tensão máxima de vapor é de 60 kPa, à qual se acrescenta a derrogação à tensão de vapor especificada no anexo viii, caso o etanol utilizado seja um biocombustível.
 
-(<sup>8</sup>) Com a condição de a soma de 10 vezes a tensão de vapor (expressa em kPa) e 7 vezes o evaporado a 70<sup>o</sup>C (expresso em % v/v) não exceder 1164 para gasolina com um teor máximo de oxigénio de 3,7 % m/m.
+(8) Com a condição de a soma de 10 vezes a tensão de vapor (expressa em kPa) e 7 vezes o evaporado a 70oC (expresso em % v/v) não exceder 1164 para gasolina com um teor máximo de oxigénio de 3,7 % m/m.
 
-(<sup>9</sup>) Em caso de litígio referente ao teor de hidrocarbonetos, deve ser utilizada a EN ISO 22854.
+(9) Em caso de litígio referente ao teor de hidrocarbonetos, deve ser utilizada a EN ISO 22854.
 
-(<sup>10</sup>) Em caso de litígio referente ao teor de benzeno, a EN 238 não é adequada como método de referência.
+(10) Em caso de litígio referente ao teor de benzeno, a EN 238 não é adequada como método de referência.
 
-(<sup>11</sup>) Em caso de litígio referente ao teor de oxigénio, a EN 13132 não pode ser utilizada como método de referência.
+(11) Em caso de litígio referente ao teor de oxigénio, a EN 13132 não pode ser utilizada como método de referência.
 
-(<sup>12</sup>) Os métodos de ensaio citados não têm uma fidelidade estabelecida para um teor de oxigénio superior a 3 % m/m. Com base em dados de ensaio interlaboratoriais dos últimos seis anos, para teores de oxigénio superiores a 3 %, o CEN/TC 19 aceita para reprodutibilidade média um valor de R = 0.37 para todos os métodos de ensaio.
+(12) Os métodos de ensaio citados não têm uma fidelidade estabelecida para um teor de oxigénio superior a 3 % m/m. Com base em dados de ensaio interlaboratoriais dos últimos seis anos, para teores de oxigénio superiores a 3 %, o CEN/TC 19 aceita para reprodutibilidade média um valor de R = 0.37 para todos os métodos de ensaio.
 
-(<sup>13</sup>) Em caso de litígio referente ao teor de oxigenados, deve ser utilizada a EN ISO 22854.
+(13) Em caso de litígio referente ao teor de oxigenados, deve ser utilizada a EN ISO 22854.
 
-(<sup>14</sup>) Em caso de litígio referente ao teor de metanol, deve ser utilizada a EN 1601. A EN 1601 é aplicável a amostras que contenham um teor de éteres superior a 15 % v/v, desde que seja efetuado um passo de diluição que reduza o teor de éteres para um valor inferior a 15 % v/v.
+(14) Em caso de litígio referente ao teor de metanol, deve ser utilizada a EN 1601. A EN 1601 é aplicável a amostras que contenham um teor de éteres superior a 15 % v/v, desde que seja efetuado um passo de diluição que reduza o teor de éteres para um valor inferior a 15 % v/v.
 
-(<sup>15</sup>) Quando usado como componente da mistura, deve cumprir com a especificação da EN 15376. Ver ponto 6.1 da EN 228:2025.
+(15) Quando usado como componente da mistura, deve cumprir com a especificação da EN 15376. Ver ponto 6.1 da EN 228:2025.
 
-(<sup>16</sup>) Outros mono-álcoois e éteres com um ponto final de destilação não superior a 210˚C.
+(16) Outros mono-álcoois e éteres com um ponto final de destilação não superior a 210˚C.
 
-(<sup>17</sup>) Em caso de litígio referente ao teor de enxofre, deve ser utilizada a EN ISO 20846 ou a EN ISO 20884.
+(17) Em caso de litígio referente ao teor de enxofre, deve ser utilizada a EN ISO 20846 ou a EN ISO 20884.
 
-(<sup>18</sup>) Não é permitido o uso de aditivos contendo fósforo.
+(18) Não é permitido o uso de aditivos contendo fósforo.
 
-(<sup>19</sup>) A utilização do aditivo metálico tricarbonilo metilciclopentadienilo de manganês (MMT) é limitada, desde 1 de janeiro de 2014, a 2 mg de manganês por litro. Métodos de ensaio para a determinação do MMT: EN 16135 e EN 16136.
+(19) A utilização do aditivo metálico tricarbonilo metilciclopentadienilo de manganês (MMT) é limitada, desde 1 de janeiro de 2014, a 2 mg de manganês por litro. Métodos de ensaio para a determinação do MMT: EN 16135 e EN 16136.
 
-## ANEXO IV — Especificações dos petróleos
+ANEXO IV
 
-|  |  |  |  |  |
+Especificações dos petróleos
+
+| Característica | Unidades | Petróleos | Métodos de ensaio |  |
 | --- | --- | --- | --- | --- |
-| Característica | Unidades | Petróleos | Petróleos | Métodos de ensaio |
-| Característica | Unidades | Iluminação | Carburante | Métodos de ensaio |
-| Aspeto | – | Límpido, isento de água separada e de matérias em suspensão. | Límpido, isento de água separada e de matérias em suspensão. | Visual |
-| Massa volúmica a 15˚C | kg/m<sup>3</sup> | A relatar | A relatar | EN ISO 3675; ASTM D 4052; EN ISO 12185 |
+| Iluminação | Carburante |  |  |  |
+| Aspeto | – | Límpido, isento de água separada e de matérias em suspensão. | Visual |  |
+| Massa volúmica a 15˚C | kg/m3 | A relatar | A relatar | EN ISO 3675; ASTM D 4052; EN ISO 12185 |
 | Ponto de inflamação, mín. | °C | 40 | 30 | ASTM D 3828;EN ISO 13736; IP 170 |
 | Corrosão da lâmina de cobre (3h a 50°C), máx. | Classificação | Classe 11 | Classe 11 | EN ISO 2160; ASTM D 130 |
 | Teor de enxofre, máx. | % (m/m) | 0,15 | 0,15 | EN ISO 8754; ASTM D 2622 |
@@ -623,112 +722,117 @@ Especificações dos gases de petróleo liquefeitos
 | Índice de octano (MM), mín | – | – | 50 | EN ISO 5163 |
 | [Revogado.] | [Revogado.] |  |  |  |
 
-## ANEXO V — Especificações dos gasóleos
+ANEXO V
 
-| Característica | Unidade | Mínimo | Máximo | Métodos de ensaio (<sup>2</sup>) (<sup>3</sup>) |
+Especificações dos gasóleos
+
+| Característica | Unidade | Limites (1) | Métodos de ensaio (2) (3) |  |
 | --- | --- | --- | --- | --- |
-| Característica | Unidade | Limites (<sup>1</sup>) | Limites (<sup>1</sup>) | Métodos de ensaio (<sup>2</sup>) (<sup>3</sup>) |
-| Índice de cetano (<sup>4</sup>) |  | 51,0 | – | EN ISO 5165EN 15195EN 16715EN 16906 (<sup>5</sup>)EN 17155 |
-| Índice de cetano calculado (<sup>6</sup>) |  | 46,0 | – | EN ISO 4264 |
-| Massa volúmica a 15°C (<sup>7</sup>) | kg/m<sup>3</sup> | 820,0 | 845,0 | EN ISO 3675EN ISO 12185 |
+| Mínimo | Máximo |  |  |  |
+| Índice de cetano (4) |  | 51,0 | – | EN ISO 5165EN 15195EN 16715EN 16906 (5)EN 17155 |
+| Índice de cetano calculado (6) |  | 46,0 | – | EN ISO 4264 |
+| Massa volúmica a 15°C (7) | kg/m3 | 820,0 | 845,0 | EN ISO 3675EN ISO 12185 |
 | - De 1 de dezembro a 28/29 de fevereiro |  | 815,0 | 845.0 |  |
-| Viscosidade a 40°C (<sup>8</sup>) | mm<sup>2</sup>/s | 2,000 | 4,500 | EN ISO 3104EN ISO 23581 |
-| Destilação: (<sup>9</sup>) (<sup>10</sup>) (<sup>11</sup>) (<sup>12</sup>) |  |  |  | EN ISO 3405 (<sup>12</sup>)EN ISO 3924EN 17306 (<sup>5</sup>) |
+| Viscosidade a 40°C (8) | mm2/s | 2,000 | 4,500 | EN ISO 3104EN ISO 23581 |
+| Destilação: (9) (10) (11) (12) |  |  |  | EN ISO 3405 (12)EN ISO 3924EN 17306 (5) |
 | Recuperado a 250 °C | % v/v | – | < 65 |  |
 | Recuperado a 350 °C | % v/v | 85 | – |  |
 | 95 % de Recuperado | °C | – | 360,0 |  |
-| Hidrocarbonetos aromáticos policíclicos (<sup>13</sup>) | % m/m | – | 8,0 | EN 12916 |
-| Teor de enxofre (<sup>14</sup>) | mg/kg | – | 10,0 | EN ISO 20846EN ISO 20884EN ISO 13032 |
-| Temperatura limite de filtrabilidade (<sup>15</sup>) |  |  |  | EN 116EN 16329 (<sup>5</sup>) |
-| De 1 de abril a 14 de outubro | °C | – | 0 | EN 116EN 16329 (<sup>5</sup>) |
-| De 1 de março a 31 de março e de 15 de outubro a 30 de novembro | °C | – | -5 | EN 116EN 16329 (<sup>5</sup>) |
-| De 1 de dezembro a 28/29 de fevereiro | °C | – | -10 | EN 116EN 16329 (<sup>5</sup>) |
+| Hidrocarbonetos aromáticos policíclicos (13) | % m/m | – | 8,0 | EN 12916 |
+| Teor de enxofre (14) | mg/kg | – | 10,0 | EN ISO 20846EN ISO 20884EN ISO 13032 |
+| Temperatura limite de filtrabilidade (15) |  |  |  | EN 116EN 16329 (5) |
+| De 1 de abril a 14 de outubro | °C | – | 0 |  |
+| De 1 de março a 31 de março e de 15 de outubro a 30 de novembro | °C | – | -5 |  |
+| De 1 de dezembro a 28/29 de fevereiro | °C | – | -10 |  |
 | Ponto de inflamação | °C | > 55 | – | EN ISO 2719 |
-| Resíduo carbonoso (no resíduo 10 % da destilação)(<sup>16</sup>) | % m/m | – | 0,30 | EN ISO 10370 |
+| Resíduo carbonoso (no resíduo 10 % da destilação)(16) | % m/m | – | 0,30 | EN ISO 10370 |
 | Teor de cinzas | % m/m | – | 0,01 | EN ISO 6245 |
 | Teor de água | % (m/m) | – | 0,02 | EN ISO 12937 |
 | Contaminação total | mg/kg | – | 24 | EN 12662-1:2024 |
 | Corrosão da lâmina de cobre (3 h a 50°C) | Classificação | Classe 1 |  | EN ISO 2160 |
-| Estabilidade à oxidação (<sup>17</sup>) | g/m<sup>3</sup> | – | 25 | EN ISO 12205 |
-| Estabilidade à oxidação (para gasóleos com teor de FAME > 2,0 % v/v (<sup>17</sup>) (<sup>18</sup>) | h | 20,0 | – | EN 15751 |
-| Estabilidade à oxidação (para gasóleos com teor de FAME > 2,0 % v/v (<sup>17</sup>) (<sup>18</sup>) | ou | ou |  | ou |
-| Estabilidade à oxidação (para gasóleos com teor de FAME > 2,0 % v/v (<sup>17</sup>) (<sup>18</sup>) | min | 60,0 | – | EN 16091 |
-| Lubrificidade-diâmetro da marca de desgaste (dmd 1,4) a 60 °C | µm | – | 460 | EN ISO 12156-1 (<sup>19</sup>) |
-| FAME (<sup>20</sup>) | % v/v | – | 7,0 (<sup>21</sup>) | EN 14078 |
-|  |  | – | 10,0 (<sup>22</sup>) |  |
-| Teor de manganês | mg/l | – | 2,0(<sup>23</sup>) | EN 16576 |
+| Estabilidade à oxidação (17) | g/m3 | – | 25 | EN ISO 12205 |
+| Estabilidade à oxidação (para gasóleos com teor de FAME > 2,0 % v/v (17) (18) | h | 20,0 | – | EN 15751 |
+| ou | ou |  | ou |  |
+| min | 60,0 | – | EN 16091 |  |
+| Lubrificidade-diâmetro da marca de desgaste (dmd 1,4) a 60 °C | µm | – | 460 | EN ISO 12156-1 (19) |
+| FAME (20) | % v/v | – | 7,0 (21) | EN 14078 |
+|  |  | – | 10,0 (22) |  |
+| Teor de manganês | mg/l | – | 2,0(23) | EN 16576 |
 
-(<sup>1</sup>) Os valores indicados na especificação são os ‘valores reais’. Para fixar os seus valores-limite, aplicam-se os termos da norma EN ISO 4259-1:2026 ‘Petroleum and related products - Precision of measurement methods and results - Part 1 - Determination of precision data in relation to methods of test’ e, para fixar um valor mínimo, tomou-se em consideração uma diferença mínima de 2R acima de zero (R= reprodutibilidade). Os resultados das medições individuais são interpretados com base nos critérios constantes da norma EN ISO 4259-2:2026.
+(1) Os valores indicados na especificação são os ‘valores reais’. Para fixar os seus valores-limite, aplicam-se os termos da norma EN ISO 4259-1:2026 ‘Petroleum and related products - Precision of measurement methods and results - Part 1 - Determination of precision data in relation to methods of test’ e, para fixar um valor mínimo, tomou-se em consideração uma diferença mínima de 2R acima de zero (R= reprodutibilidade). Os resultados das medições individuais são interpretados com base nos critérios constantes da norma EN ISO 4259-2:2026.
 
-(<sup>2</sup>) Os métodos de ensaio são os especificados na norma EN 590:2025, para o gasóleo com um limite máximo de FAME de 7 %, e na norma EN 16734:2022, para o gasóleo com um limite máximo de FAME de 10 %. A Direção-Geral de Energia e Geologia pode autorizar a utilização de outros métodos analíticos adequados, desde que estes garantam pelo menos a mesma exatidão e o mesmo nível de precisão que o método analítico substituído.
+(2) Os métodos de ensaio são os especificados na norma EN 590:2025, para o gasóleo com um limite máximo de FAME de 7 %, e na norma EN 16734:2022, para o gasóleo com um limite máximo de FAME de 10 %. A Direção-Geral de Energia e Geologia pode autorizar a utilização de outros métodos analíticos adequados, desde que estes garantam pelo menos a mesma exatidão e o mesmo nível de precisão que o método analítico substituído.
 
-(<sup>3</sup>) Todos os métodos de ensaio indicados incluem uma referência quanto à sua precisão. Em caso de litígio, os procedimentos a seguir para a sua resolução e para interpretação dos resultados baseados na precisão do método de ensaio devem seguir o estipulado na EN ISO 4259-2.
+(3) Todos os métodos de ensaio indicados incluem uma referência quanto à sua precisão. Em caso de litígio, os procedimentos a seguir para a sua resolução e para interpretação dos resultados baseados na precisão do método de ensaio devem seguir o estipulado na EN ISO 4259-2.
 
-(<sup>4</sup>) Em caso de litígio envolvendo o Índice de Cetano, deve ser utilizado o método descrito na EN ISO 5165:2020.
+(4) Em caso de litígio envolvendo o Índice de Cetano, deve ser utilizado o método descrito na EN ISO 5165:2020.
 
-(<sup>5</sup>) Nos casos em que o método de ensaio inclui uma correção de bias do método de litígio, o resultado corrigido de bias será utilizado para determinar a conformidade com o limite.
+(5) Nos casos em que o método de ensaio inclui uma correção de bias do método de litígio, o resultado corrigido de bias será utilizado para determinar a conformidade com o limite.
 
-(<sup>6</sup>) As misturas de FAME com gasóleo estão fora do escopo da norma EN ISO 4264, pois não foram incluídas no conjunto de dados original usado para estabelecer a correlação do índice de cetano com o número de cetano. No entanto, a avaliação do efeito das características de FAME no cálculo do índice de cetano indica que, em misturas até 10 % v/v de FAME, os efeitos são relativamente pequenos em comparação com a precisão do teste de número de cetano EN ISO 5165:2020.
+(6) As misturas de FAME com gasóleo estão fora do escopo da norma EN ISO 4264, pois não foram incluídas no conjunto de dados original usado para estabelecer a correlação do índice de cetano com o número de cetano. No entanto, a avaliação do efeito das características de FAME no cálculo do índice de cetano indica que, em misturas até 10 % v/v de FAME, os efeitos são relativamente pequenos em comparação com a precisão do teste de número de cetano EN ISO 5165:2020.
 
-(<sup>7</sup>) Em caso de litígio envolvendo a massa volúmica, deve ser usado o método descrito na EN ISO 12185.
+(7) Em caso de litígio envolvendo a massa volúmica, deve ser usado o método descrito na EN ISO 12185.
 
-(<sup>8</sup>) Em caso de litígio envolvendo a viscosidade, deve ser utilizado o método descrito na EN ISO 3104.
+(8) Em caso de litígio envolvendo a viscosidade, deve ser utilizado o método descrito na EN ISO 3104.
 
-(<sup>9</sup>) Para a determinação do Índice de Cetano calculado também são necessários os pontos 10 % v/v, 50 % v/v e 90 % v/v de recuperado.
+(9) Para a determinação do Índice de Cetano calculado também são necessários os pontos 10 % v/v, 50 % v/v e 90 % v/v de recuperado.
 
-(<sup>10</sup>) Os limites de destilação a 250 ºC e 350 ºC são incluídos para o gasóleo de acordo com a ‘EU Common Customs Tariff’.
+(10) Os limites de destilação a 250 ºC e 350 ºC são incluídos para o gasóleo de acordo com a ‘EU Common Customs Tariff’.
 
-(<sup>11</sup>) Em caso de litígio envolvendo a destilação, deve ser usado o método descrito na EN ISO 3405:2019.
+(11) Em caso de litígio envolvendo a destilação, deve ser usado o método descrito na EN ISO 3405:2019.
 
-(<sup>12</sup>) A EN ISO 3924:2019 dá instruções para converter em dados equivalentes aos da EN ISO 3405.
+(12) A EN ISO 3924:2019 dá instruções para converter em dados equivalentes aos da EN ISO 3405.
 
-(<sup>13</sup>) Os hidrocarbonetos aromáticos policíclicos são definidos como o teor total de hidrocarbonetos aromáticos menos o teor de hidrocarbonetos mono-aromáticos, ambos determinados pelo método EN 12 916:2024.
+(13) Os hidrocarbonetos aromáticos policíclicos são definidos como o teor total de hidrocarbonetos aromáticos menos o teor de hidrocarbonetos mono-aromáticos, ambos determinados pelo método EN 12 916:2024.
 
-(<sup>14</sup>) Em caso de litígio envolvendo o teor de enxofre, deve ser utilizado qualquer um dos métodos descritos na EN ISO 20846 ou na EN ISO 20884. Todas as partes devem concordar em utilizar o mesmo método de ensaio para a resolução do litígio.
+(14) Em caso de litígio envolvendo o teor de enxofre, deve ser utilizado qualquer um dos métodos descritos na EN ISO 20846 ou na EN ISO 20884. Todas as partes devem concordar em utilizar o mesmo método de ensaio para a resolução do litígio.
 
-(<sup>15</sup>) Em caso de litígio envolvendo a temperatura limite de filtrabilidade (CFPP), deve ser usado o método descrito na EN 116.
+(15) Em caso de litígio envolvendo a temperatura limite de filtrabilidade (CFPP), deve ser usado o método descrito na EN 116.
 
-(<sup>16</sup>) O valor-limite do resíduo carbonoso refere-se a um produto isento de aditivo melhorador do índice de cetano. Se o gasóleo comercializado tiver um valor superior a esse limite, deve comprovar-se pelo método EN ISO 13759 a presença de nitrato. Se se provar, deste modo, a presença de um aditivo melhorador do índice de cetano, o valor-limite do resíduo carbonoso do produto ensaiado não pode ser tido em conta. O uso de aditivos não isenta o fabricante de se submeter a um valor máximo de 0,30 % (m/m) de resíduo carbonoso, antes da aditivação.
+(16) O valor-limite do resíduo carbonoso refere-se a um produto isento de aditivo melhorador do índice de cetano. Se o gasóleo comercializado tiver um valor superior a esse limite, deve comprovar-se pelo método EN ISO 13759 a presença de nitrato. Se se provar, deste modo, a presença de um aditivo melhorador do índice de cetano, o valor-limite do resíduo carbonoso do produto ensaiado não pode ser tido em conta. O uso de aditivos não isenta o fabricante de se submeter a um valor máximo de 0,30 % (m/m) de resíduo carbonoso, antes da aditivação.
 
-(<sup>17</sup>) A característica da estabilidade à oxidação, utilizando a EN ISO 12205, aplica-se a todos os gasóleos independentemente do teor de FAME. Para gasóleo contendo FAME acima de 2,0 % v/v, existe um requisito adicional para ensaiar a estabilidade à oxidação utilizando a EN 15751 ou a EN 16091.
+(17) A característica da estabilidade à oxidação, utilizando a EN ISO 12205, aplica-se a todos os gasóleos independentemente do teor de FAME. Para gasóleo contendo FAME acima de 2,0 % v/v, existe um requisito adicional para ensaiar a estabilidade à oxidação utilizando a EN 15751 ou a EN 16091.
 
-(<sup>18</sup>) Em caso de litígio envolvendo a estabilidade à oxidação para combustíveis contendo FAME acima de 2,0 % v/v, deve ser utilizado o método descrito na EN 15751.
+(18) Em caso de litígio envolvendo a estabilidade à oxidação para combustíveis contendo FAME acima de 2,0 % v/v, deve ser utilizado o método descrito na EN 15751.
 
-(<sup>19</sup>) A lubricidade de um gasóleo, independentemente do teor de FAME, deve cumprir o limite de HFRR máximo de 460 μm. O gasóleo com um teor de FAME superior a 4,0 % v/v tem geralmente uma boa lubrificidade, com HFRR inferior a 460 μm, e não requer necessariamente um ensaio HFRR, desde que não se conheça experiência adversa.
+(19) A lubricidade de um gasóleo, independentemente do teor de FAME, deve cumprir o limite de HFRR máximo de 460 μm. O gasóleo com um teor de FAME superior a 4,0 % v/v tem geralmente uma boa lubrificidade, com HFRR inferior a 460 μm, e não requer necessariamente um ensaio HFRR, desde que não se conheça experiência adversa.
 
-(<sup>20</sup>) O FAME deve cumprir as especificações da EN 14214:2014+A2:2019. Em Portugal os anexos nacionais constam da NP EN 14214.
+(20) O FAME deve cumprir as especificações da EN 14214:2014+A2:2019. Em Portugal os anexos nacionais constam da NP EN 14214.
 
-(<sup>21</sup>) Para gasóleos com limite máximo de 7 % de teor de FAME, deverá ser consultada a norma EN 590:2025.
+(21) Para gasóleos com limite máximo de 7 % de teor de FAME, deverá ser consultada a norma EN 590:2025.
 
-(<sup>22</sup>) Para gasóleos com limite máximo de 10 % de teor de FAME, deverá ser consultada a norma EN 16734:2022.
+(22) Para gasóleos com limite máximo de 10 % de teor de FAME, deverá ser consultada a norma EN 16734:2022.
 
-(<sup>23</sup>) A utilização do aditivo metálico tricarbonilo metilciclopentadienilo de manganês (MMT) é limitada desde 1 de janeiro de 2014, a 2 mg de manganês por litro. Quando o tricarbonilo metilciclopentadienilo de manganês (MMT) é utilizado, é necessária uma rotulagem específica.
+(23) A utilização do aditivo metálico tricarbonilo metilciclopentadienilo de manganês (MMT) é limitada desde 1 de janeiro de 2014, a 2 mg de manganês por litro. Quando o tricarbonilo metilciclopentadienilo de manganês (MMT) é utilizado, é necessária uma rotulagem específica.
 
-## ANEXO VI — Especificações do gasóleo de aquecimento
+ANEXO VI
 
-| Característica | Unidades | Mínimo | Máximo | Métodos de ensaio |
+Especificações do gasóleo de aquecimento
+
+| Característica | Unidades | Limites | Métodos de ensaio |  |
 | --- | --- | --- | --- | --- |
-| Característica | Unidades | Limites | Limites | Métodos de ensaio |
-| Massa volúmica a 15°C | kg/m<sup>3</sup> | – | 900 | ASTM D 4052; EN ISO 3675; EN ISO 12185 |
-| Viscosidade a 40°C | mm<sup>2</sup>/s | – | 7 | ASTM D 445; EN ISO 3104 |
+| Mínimo | Máximo |  |  |  |
+| Massa volúmica a 15°C | kg/m3 | – | 900 | ASTM D 4052; EN ISO 3675; EN ISO 12185 |
+| Viscosidade a 40°C | mm2/s | – | 7 | ASTM D 445; EN ISO 3104 |
 | Destilação: | °C |  |  | ASTM D 86; EN ISO 3405 |
 | 65 % em volume |  | 250 | – |  |
 | 85 % em volume |  | – | 390 |  |
-| 95 % em volume |  | A relatar | A relatar |  |
+| 95 % em volume |  | A relatar |  |  |
 | Teor de enxofre | % (m/m) | – | 0,10 | IP 336; ASTM D 2622EN ISO 8754 |
 | Temperatura limite de filtrabilidade | °C | – | -6 | IP 309; EN 116 |
 | Ponto de inflamação | °C | 60 | – | ASTM D 93; EN ISO 2719 |
 | Ponto de turvação | °C | - | 4 | ASTM D 2500; ISO 3015; ASTM D 5772; ASTM D 5773 |
 | Resíduo carbonoso [no resíduo 10 % da destilação] | % m/m | – | 0,35 | ASTM D 4530; EN ISO 10370 |
 | Água e sedimentos | % (v/v) | – | 0,1 | ASTM D 2709 |
-| Corrosão da lâmina de cobre (3h a 50°C) | Classificação | Classe 2 | Classe 2 | ASTM D 130; EN ISO 2160 |
+| Corrosão da lâmina de cobre (3h a 50°C) | Classificação | Classe 2 | ASTM D 130; EN ISO 2160 |  |
 | [Revogado.] | [Revogado.] |  |  |  |
 
-## ANEXO VIII — Valores autorizados por derrogação para a tensão de vapor da gasolina que contém bioetanol
+ANEXO VIII
 
-|  |  |
+Valores autorizados por derrogação para a tensão de vapor da gasolina que contém bioetanol
+
+| Teor de bioetanol (% v/v) | Valores autorizados por derrogação para a tensão de vapor (kPa) (1) (2) |
 | --- | --- |
-| Teor de bioetanol (% v/v) | Valores autorizados por derrogação para a tensão de vapor (kPa) (<sup>1</sup>) (<sup>2</sup>) |
 | 0 | 0 |
 | 1 | 3,7 |
 | 2 | 6,0 |
@@ -741,6 +845,10 @@ Especificações dos gases de petróleo liquefeitos
 | 9 | 7,8 |
 | 10 | 7,8 |
 
-(<sup>1</sup>) A determinação do valor autorizado por derrogação para um teor de bioetanol intermédio situado entre dois dos valores indicados é feita por interpolação linear direta entre o teor de bioetanol imediatamente superior e o teor de bioetanol imediatamente inferior ao valor intermédio.
+(1) A determinação do valor autorizado por derrogação para um teor de bioetanol intermédio situado entre dois dos valores indicados é feita por interpolação linear direta entre o teor de bioetanol imediatamente superior e o teor de bioetanol imediatamente inferior ao valor intermédio.
 
-(<sup>2</sup>) Os valores indicados na especificação são os ‘valores reais’. Para fixar os seus valores-limite, aplicam-se os termos da norma EN ISO 4259-1:2026 ‘Petroleum and related products - Precision of measurement methods and results - Part 1 - Determination of precision data in relation to methods of test’ e, para fixar um valor mínimo, tomou-se em consideração uma diferença mínima de 2R acima do zero (R = reprodutibilidade). Os resultados das medições individuais são interpretados com base nos critérios constantes da norma EN ISO 4259-2:2026.»
+(2) Os valores indicados na especificação são os ‘valores reais’. Para fixar os seus valores-limite, aplicam-se os termos da norma EN ISO 4259-1:2026 ‘Petroleum and related products - Precision of measurement methods and results - Part 1 - Determination of precision data in relation to methods of test’ e, para fixar um valor mínimo, tomou-se em consideração uma diferença mínima de 2R acima do zero (R = reprodutibilidade). Os resultados das medições individuais são interpretados com base nos critérios constantes da norma EN ISO 4259-2:2026.»
+
+119949585
+
+.Tbl2 { height:17px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { height:26px; } .Tbl8 { min-height:18px; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl12 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl14 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl15 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:none; border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl16 { border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:none; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl17 { border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:none; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:none; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl19 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:none; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:none; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl21 { min-height:28px; } .Tbl22 { min-height:33px; } .Tbl23 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl24 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl25 { margin-top:9px; } .Tbl26 { border-collapse:collapse; border-width:1px; } .Tbl27 { min-height:34px; } .Tbl28 { min-height:49px; } .Tbl29 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl30 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl31 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl32 { min-height:79px; } .Tbl33 { min-height:53px; } .Tbl34 { min-height:20px; } .Tbl35 { min-height:31px; } .Tbl36 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl37 { text-align:justify; text-align-last:justify; } .Tbl38 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:none; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl39 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl40 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl41 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl42 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl43 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl44 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl45 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; }

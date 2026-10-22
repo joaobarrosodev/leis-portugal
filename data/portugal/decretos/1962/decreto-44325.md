@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44325-1962-140872
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-05-04T00:00:00Z'
+  retrieved_at: '2026-10-22T19:29:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba68fd4112acc703fb1e544f8ae91b01b861f91be1a41c34ad66a3cd35eed212
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa38f8ca21342711d82857a5a354c27d6fcd3269e50886ec218337e75893ee52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:29:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:173132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238411:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:29:10Z'
   warnings: []
   errors: []
 ---
@@ -94,15 +102,15 @@ Por proposta do Governo-Geral dessa província e ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São extintas, na província ultramarina de Angola, a Intendência do Zaire, com sede em Santo António do Zaire, e a Intendência do Cunene, com sede em Forte Roçadas.
+Artigo 1.º São extintas, na província ultramarina de Angola, a Intendência do Zaire, com sede em Santo António do Zaire, e a Intendência do Cunene, com sede em Forte Roçadas.
 
 § único. O governador-geral de Angola providenciará, mediante simples despacho, sobre o destino a dar aos valores das intendências extintas e sobre a colocação do respectivo pessoal.
 
-###### Art. 2.º O artigo 19.º, a alínea f) e o § 2.º do artigo 20.º, o artigo 50.º, o artigo 51.º e o artigo 52.º do Estatuto Político-Administrativo da Província de Angola, aprovado pelo [Decreto n.º 40225](https://diariodarepublica.pt/dr/detalhe/decreto/40225-1955-238411), de 5 de Julho de 1955, passam a ter a seguinte redacção:
+Art. 2.º O artigo 19.º, a alínea f) e o § 2.º do artigo 20.º, o artigo 50.º, o artigo 51.º e o artigo 52.º do Estatuto Político-Administrativo da Província de Angola, aprovado pelo [Decreto n.º 40225](https://diariodarepublica.pt/dr/detalhe/decreto/40225-1955-238411), de 5 de Julho de 1955, passam a ter a seguinte redacção:
 
-###### Art. 19.º O Conselho Legislativo é constituído por 30 vogais, sendo 22 eleitos e 8 nomeados.
+Art. 19.º O Conselho Legislativo é constituído por 30 vogais, sendo 22 eleitos e 8 nomeados.
 
-###### Art. 20.º ...
+Art. 20.º ...
 
 f) Quinze serão eleitos por sufrágio directo dos cidadãos inscritos nos cadernos gerais de recenciamento eleitoral.
 
@@ -142,7 +150,7 @@ f) Quinze serão eleitos por sufrágio directo dos cidadãos inscritos nos cader
 
 ...
 
-###### Art. 50.º O território da província divide-se em concelhos e circunscrições, agrupados em distritos, cujas denominações e sedes são as seguintes:
+Art. 50.º O território da província divide-se em concelhos e circunscrições, agrupados em distritos, cujas denominações e sedes são as seguintes:
 
 1) Distrito de Cabinda, com sede em Cabinda ;
 
@@ -174,7 +182,7 @@ f) Quinze serão eleitos por sufrágio directo dos cidadãos inscritos nos cader
 
 15) Distrito do Cuando-Cubango, com sede em Serpa Pinto.
 
-###### Art. 51.º As áreas dos distritos referidos no artigo anterior abrangerão as dos concelhos e circunscrições a seguir indicados:
+Art. 51.º As áreas dos distritos referidos no artigo anterior abrangerão as dos concelhos e circunscrições a seguir indicados:
 
 1) Distrito de Cabinda: concelho de Cabinda, concelho de Cacongo e circunscrição de Maiombe;
 
@@ -206,9 +214,9 @@ f) Quinze serão eleitos por sufrágio directo dos cidadãos inscritos nos cader
 
 15) Distrito do Cuando-Cubango: concelho de Menongue, circunscrição do Cuito Cuanavale, circunscrição do Baixo Cubango e circunscrição do Cuando.
 
-###### Art. 52.º Na província de Angola existirá a Intendência do Congo, com sede em Maquela do Zombo, abrangendo as áreas não urbanas do concelho do Zombo e das circunscrições do Cuango e de Macocola.
+Art. 52.º Na província de Angola existirá a Intendência do Congo, com sede em Maquela do Zombo, abrangendo as áreas não urbanas do concelho do Zombo e das circunscrições do Cuango e de Macocola.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Maio de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

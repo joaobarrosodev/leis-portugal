@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/09/17300/0000500006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/19/2023/09/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/19-2023-221327584
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-06T00:00:00Z'
+  retrieved_at: '2026-10-22T19:14:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5837e76946690a7b7b9dcaaa122df0e5072f9b9945cb1f4f40eb8ed85e5c3d70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c145ee3fe868494f973bc07b1bad276e060814d2ae10f1d93e234c3cbcd2e8d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:14:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,49 +66,57 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de Imóveis
-- Financiamento
-- Ministério da Defesa Nacional
-- Obras de Conservação e Restauro
-- Recursos Hídricos
+- Avaliação do Património
+- BENS Imóveis do Estado
+- Direção Geral de Recursos da Defesa Nacional
 - Direção Geral do Tesouro e Finanças
 - Domínio Privado do Estado
-- Domínio Público Militar
-- Propriedade do Estado
 - Domínio Público do Estado
+- Domínio Público Militar
 - Emolumento
-- Instalação Militar
-- BENS Imóveis do Estado
+- Estado Maior General das Forças Armadas
+- Financiamento
+- Forças Armadas
 - Gestão do Património
 - Gestão Orçamental
+- Instalação Militar
+- Inventário
 - Investimento
-- Tribunal de Contas
 - Lista
-- Forças Armadas
-- Avaliação do Património
+- Ministério da Defesa Nacional
+- Obras de Conservação e Restauro
 - Património do Estado
 - Programa de Investimento
+- Propriedade do Estado
+- Recursos Hídricos
 - Registo Predial
-- Inventário
 - Relatório
-- Estado Maior General das Forças Armadas
 - Servidão Militar
+- Tribunal de Contas
 - Venda de Imóveis
-- Direção Geral de Recursos da Defesa Nacional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/leiorg/2/2023/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2023/08/18/p/dre
+- type: cites
+  target: pt:dre:124643039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220061174:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:14:20Z'
   warnings: []
   errors: []
 ---
@@ -160,3 +168,5 @@ deve ler-se:
 «O [Despacho n.º 8114/2019](https://diariodarepublica.pt/dr/detalhe/despacho/8114-2019-124643039), de 13 de setembro, mantém-se em vigor enquanto não for aprovado o despacho mencionado no n.º 3 do artigo 1.º»
 
 Assembleia da República, 1 de setembro de 2023. - O Secretário-Geral, Albino de Azevedo Soares.
+
+116821995

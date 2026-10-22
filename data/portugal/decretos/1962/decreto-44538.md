@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1962/08/19300/11571158.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44538-1962-165444
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-11-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:30:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd12bdae3a5af30278744304096f4fff216f98194ca9a3a207c9b3d92114ddf5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3db9108d5eaeaa4ac056fbcebf859971409ddbc6add9c3d98526c29e7aff8f62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:30:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral do Trabalho e Corporações
+- Fundo de Desenvolvimento da Mão-de-obra
+- Instituto de Formação Profissional Acelerada
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:176290:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:239025:por
+  label: "Alterados os arts. 2º e 4º e revogado o art. 6º pelo DEC.46173.23.01.1965.MCPS, DG.IS [19] de 23.01.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/46173-1965-239025
+  date: '1965-01-23'
+- type: cites
+  target: pt:dre:163242:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:488323:por
+  label: "Revogada a al. c) do art. 3º pelo DEC LEI.46872.15.02.1966.MCPS, DG.IS [38] de 15.02.1966\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46872-1966-488323
+  date: '1966-02-15'
+- type: repealed_by
+  target: pt:dre:176290:por
+  label: "Revogado pelo DEC LEI.49409.24.11.1969.MCPS, DG.IS [275] de 24.11.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49409-1969-176290
+  date: '1969-11-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:30:51Z'
   warnings: []
   errors: []
 ---
@@ -110,13 +135,13 @@ Atendendo ao disposto no § 4.º do artigo 2.º e no artigo 15.º do [Decreto-Le
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É criado o Instituto de Formação Profissional Acelerada (I. F. P. A.), o qual se propõe a elevação do nível profissional dos trabalhadores e o estudo dos problemas da adaptação do trabalho ao homem e do homem ao trabalho.
+Artigo 1.º É criado o Instituto de Formação Profissional Acelerada (I. F. P. A.), o qual se propõe a elevação do nível profissional dos trabalhadores e o estudo dos problemas da adaptação do trabalho ao homem e do homem ao trabalho.
 
-###### Art. 2.º O I. F. P. A. fica dependente da Direcção-Geral do Trabalho e Corporações e deve funcionar na mais estreita colaboração com os organismos corporativos representativos das entidades patronais e dos trabalhadores.
+Art. 2.º O I. F. P. A. fica dependente da Direcção-Geral do Trabalho e Corporações e deve funcionar na mais estreita colaboração com os organismos corporativos representativos das entidades patronais e dos trabalhadores.
 
 O I. F. P. A. colaborará igualmente com todos os departamentos oficiais aos quais a sua actividade possa interessar.
 
-###### Art. 3.º No âmbito da sua acção, compete nomeadamente ao I. F. P. A., ponderadas sempre as necessidades das empresas em matéria de mão-de-obra:
+Art. 3.º No âmbito da sua acção, compete nomeadamente ao I. F. P. A., ponderadas sempre as necessidades das empresas em matéria de mão-de-obra:
 
 a) Operar a reconversão profissional dos trabalhadores quando as circunstâncias o justificarem, tendo em conta a vontade dos interessados e as suas possibilidades de reclassificação;
 
@@ -128,30 +153,30 @@ d) Colaborar com as empresas na formação do seu pessoal, utilizando os respect
 
 e) Contribuir para a melhoria da adaptação recíproca entre o homem e o seu trabalho.
 
-###### Art. 4.º Para consecução das suas finalidades, o I. F. P. A. organizará um centro nacional de monitores e centros nacionais ou regionais de formação profissional.
+Art. 4.º Para consecução das suas finalidades, o I. F. P. A. organizará um centro nacional de monitores e centros nacionais ou regionais de formação profissional.
 
 O ensino será ministrado por métodos activos e altamente racionalizados, por forma a permitir a rápida qualificação dos trabalhadores, sem prejuízo do nível qualitativo exigido e com a devida consideração das condições fisiológicas e psicotécnicas de cada profissão.
 
-###### Art. 5.º O I. F. P. A. terá uma direcção constituída por um director e dois ou mais adjuntos, a designar pelo Ministro das Corporações e Previdência Social.
+Art. 5.º O I. F. P. A. terá uma direcção constituída por um director e dois ou mais adjuntos, a designar pelo Ministro das Corporações e Previdência Social.
 
 O restante pessoal será contratado de acordo com as necessidades.
 
-###### Art. 6.º Em colaboração com a direcção funcionará um conselho consultivo, composto por representantes dos Ministérios interessados nas actividades do instituto, bem como por representantes das entidades patronais e dos trabalhadores, nos termos que forem designados em despacho do Ministro das Corporações e Previdência Social.
+Art. 6.º Em colaboração com a direcção funcionará um conselho consultivo, composto por representantes dos Ministérios interessados nas actividades do instituto, bem como por representantes das entidades patronais e dos trabalhadores, nos termos que forem designados em despacho do Ministro das Corporações e Previdência Social.
 
 O conselho consultivo será presidido pelo director-geral do Trabalho e Corporações, que poderá fazer-se representar pelo director do Instituto.
 
-###### Art. 7.º A direcção do I. F. P. A. elaborará os regulamentos internos necessários ao seu bom funcionamento, os quais serão submetidos à aprovação do Ministro das Corporações e Previdência Social, depois de ouvido o conselho consultivo.
+Art. 7.º A direcção do I. F. P. A. elaborará os regulamentos internos necessários ao seu bom funcionamento, os quais serão submetidos à aprovação do Ministro das Corporações e Previdência Social, depois de ouvido o conselho consultivo.
 
-###### Art. 8.º Nos regulamentos estabelecer-se-ão os critérios de admissão dos trabalhadores nos centros de formação profissional, bem como todas as outras condições indispensáveis ao seu funcionamento.
+Art. 8.º Nos regulamentos estabelecer-se-ão os critérios de admissão dos trabalhadores nos centros de formação profissional, bem como todas as outras condições indispensáveis ao seu funcionamento.
 
 Durante a frequência dos cursos poderão ser atribuídos aos trabalhadores subsídios para seu sustento e de suas famílias.
 
-###### Art. 9.º As despesas de instalação e funcionamento do I. F. P. A. ficarão a cargo do Fundo de Desenvolvimento da Mão-de-Obra, instituído pelo [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242), de 10 de Agosto de 1962.
+Art. 9.º As despesas de instalação e funcionamento do I. F. P. A. ficarão a cargo do Fundo de Desenvolvimento da Mão-de-Obra, instituído pelo [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242), de 10 de Agosto de 1962.
 
 O I. F. P. A. poderá ainda utilizar, quando devidamente autorizado, quaisquer outras verbas que lhe sejam destinadas por entidades públicas ou particulares.
 
-###### Art. 10.º Sempre que qualquer empresa ou grupo de empresas pretenda que se organizem cursos especiais para o seu sector, poderá a organização de tais cursos ficar dependente de uma contribuição efectiva por parte das empresas interessadas.
+Art. 10.º Sempre que qualquer empresa ou grupo de empresas pretenda que se organizem cursos especiais para o seu sector, poderá a organização de tais cursos ficar dependente de uma contribuição efectiva por parte das empresas interessadas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Agosto de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José João Gonçalves de Proença.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/08/15700/0013800138.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/21/2022/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/21-2022-187481299
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-08-16T00:00:00Z'
+  retrieved_at: '2026-10-22T19:13:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2fdd6881be92b066a35fa9d03f66d0f59700bbfc028e7728fa5a5e3cca83dab1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b083c595450fa8c0c6ce29e98b4bc0285019c32392a98f3f993c57ffa7729c18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:13:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ação Social
 - Acordo
-- Instituto da Segurança Social
-- Protecção à Família
-- Financiamento
+- Comparticipação Familiar
 - Compensação Financeira
 - Cooperação
-- Regulamentação de Atos Legislativos
-- Comparticipação Familiar
 - Entidade sem FINS Lucrativos
 - Equipamento Social
-- Ação Social
+- Financiamento
+- Instituto da Segurança Social
 - Jardim de Infância
 - Proteção à Infância
+- Protecção à Família
+- Regulamentação de Atos Legislativos
 - Regulamento
 - Segurança Social
 relationships:
@@ -99,16 +99,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/198/2022/07/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/198/2022/07/27/p/dre
+- type: cites
+  target: pt:dre:105579672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159432383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186721643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:13:48Z'
   warnings: []
   errors: []
 ---
@@ -134,3 +154,5 @@ deve ler-se:
 «Sempre que as creches familiares ou amas integrem crianças com deficiência, o valor utente/mês, a pagar pelo ISS, I. P., é majorado em 100 % do valor estabelecido para as crianças sem deficiência, nos termos definidos no Compromisso de Cooperação para o Setor Social e Solidário e adendas respetivas, outorgado pelo Governo e as entidades do setor social e solidário.»
 
 Secretaria-Geral, 10 de agosto de 2022. - A Secretária-Geral Adjunta, Catarina Romão Gonçalves.
+
+115604759

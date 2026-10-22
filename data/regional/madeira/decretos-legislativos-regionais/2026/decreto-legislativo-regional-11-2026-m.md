@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/11/2026/06/18/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2026-1133905358
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-18T00:00:00Z'
+  retrieved_at: '2026-10-22T18:44:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f3a71a8281c45a33c3534375f7e1f9144194c7f951b2ef26611d6615c7e16a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b0be372e1434f637b601cbcc1d7259af32ab0118dad7e92e6d5485a18d2aa28
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:44:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Rede
-- Financiamento
 - Contrato de Financiamento
 - Cuidados de Enfermagem
-- Saúde
-- Desenvolvimento Regional
-- Iasaúde
 - Cuidados Médicos
+- Desenvolvimento Regional
+- Financiamento
+- Iasaúde
 - Madeira.região Autónoma
-- Serviço Regional de Saúde
 - Plano de Recuperação e Resiliência
+- Rede
+- Saúde
+- Serviço Regional de Saúde
 relationships:
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:18/2022/M
+  label: Adita, a partir de 19 de junho de 2026, com efeitos a 5 de outubro de 2024, o artigo 2.º-A ao Decreto Legislativo
+    Regional n.º 18/2022/M, de 5 de agosto, Diário da República n.º 151/2022, Série I
+  source: null
+  date: '2022-08-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/18/2022/08/05/m/dre
   label: null
@@ -95,16 +101,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:187049946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:44:15Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +145,7 @@ Considerando o interesse público inerente à área sectorial da saúde, cuja pr
 
 Neste contexto, o presente diploma visa assegurar que se encontram reunidas todas as condições legais indispensáveis à regular e contínua execução do referido investimento, através, designadamente, da consolidação de um enquadramento normativo coerente e funcional que suporte a adequada implementação das políticas públicas regionais e promova a conclusão eficaz dos projetos em curso.
 
-Assim, a Assembleia Legislativa da Região Autónoma da Madeira, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º e no n.º 1 do artigo 232.º da Constituição da República Portuguesa, na alínea c) do n.º 1 do artigo 37.º, na alínea m) do artigo 40.º e no n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, decreta o seguinte:
+Assim, a Assembleia Legislativa da Região Autónoma da Madeira, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º e no n.º 1 do artigo 232.º da Constituição da República Portuguesa, na alínea c) do n.º 1 do artigo 37.º, na alínea m) do artigo 40.º e no n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, decreta o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -155,10 +177,12 @@ O presente decreto legislativo regional entra em vigor no dia seguinte ao da sua
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 27 de maio de 2026.
 
-**A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.**
+A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.
 
-**Assinado em 12 de junho de 2026.**
+Assinado em 12 de junho de 2026.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Paulo Duarte Barreto Ferreira.
+
+119948802

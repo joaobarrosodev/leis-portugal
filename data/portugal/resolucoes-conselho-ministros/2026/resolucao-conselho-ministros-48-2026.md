@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/48/2026/03/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/48-2026-1068062487
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-06T00:00:00Z'
+  retrieved_at: '2026-10-22T18:35:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bde2ef485c97a5e4d942102317f5c28fea093a4522b119b75742397dc31495e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97544e312b6ec706bbb5f33711222caf7d11adea35c8081aa3393cd4fbc73239
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:35:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Protecção à Vítima
 - Combate à Violência
-- Mulher
-- Violência
-- Direitos do Homem
-- Igualdade de Tratamento
-- Direito Internacional Humanitário
 - Comissão Nacional para os Direitos Humanos
-- ONU
+- Direito Internacional Humanitário
+- Direitos do Homem
+- Direitos do Indivíduo
 - Grupo de Trabalho
 - Igualdade de Oportunidades
-- Direitos do Indivíduo
+- Igualdade de Tratamento
 - Medidas Preventivas
+- Mulher
+- ONU
+- Protecção à Vítima
+- Violência
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/27/2010/04/08/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/27/2010/04/08/p/dre
+- type: cites
+  target: pt:dre:612391:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:35:03Z'
   warnings: []
   errors: []
 ---
@@ -286,3 +290,7 @@ PNA - Plano Nacional de Ação.
 RSCNU - Resolução do Conselho de Segurança das Nações Unidas.
 
 UCAT - Unidade de Coordenação Antiterrorista.
+
+119947830
+
+.Tbl2 { min-height:26px; } .Tbl3 { text-align:center; } .Tbl4 { min-height:83px; } .Tbl5 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl6 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl9 { min-height:68px; } .Tbl10 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { min-height:84px; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl14 { min-height:46px; } .Tbl15 { min-height:62px; } .Tbl16 { min-height:35px; } .Tbl17 { min-height:44px; } .Tbl18 { min-height:53px; } .Tbl19 { min-height:61px; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl21 { min-height:88px; } .Tbl22 { min-height:58px; } .Tbl23 { min-height:81px; } .Tbl24 { min-height:48px; } .Tbl25 { min-height:89px; } .Tbl26 { min-height:47px; } .Tbl27 { min-height:79px; } .Tbl28 { min-height:55px; } .Tbl29 { min-height:56px; } .Tbl30 { min-height:71px; } .Tbl31 { min-height:78px; } .Tbl32 { min-height:64px; }

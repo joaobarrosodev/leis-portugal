@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44952-1963-195581
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-04-01T00:00:00Z'
+  retrieved_at: '2026-10-22T19:34:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01ef8b35490d82b837086484a1151075630c4e0b3bba92062bb373102b337873
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c2da4a6fe7236f9d5fed0215eb6c6b8256f92f9cb9d81589af1ac9c7c3a694b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:34:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637471:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:34:12Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +101,9 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O n.º 3.º do artigo 136.º, o artigo 138.º, o § 2.º do artigo 141.º e o corpo do artigo 172.º e seu § 2.º do Estatuto Orgânico das Alfândegas do Ultramar, aprovado pelo [Decreto n.º 43199](https://diariodarepublica.pt/dr/detalhe/decreto/43199-1960-514803), de 29 de Setembro de 1960, passam a ter as seguintes redacções:
+Artigo 1.º O n.º 3.º do artigo 136.º, o artigo 138.º, o § 2.º do artigo 141.º e o corpo do artigo 172.º e seu § 2.º do Estatuto Orgânico das Alfândegas do Ultramar, aprovado pelo [Decreto n.º 43199](https://diariodarepublica.pt/dr/detalhe/decreto/43199-1960-514803), de 29 de Setembro de 1960, passam a ter as seguintes redacções:
 
-###### Art. 136.º ...
+Art. 136.º ...
 
 ...
 
@@ -99,11 +111,11 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 ...
 
-###### Art. 138.º Se os concursos abertos para provimento dos lugares de oficial estagiário nas províncias de Angola e Moçambique ou em quaisquer outras em que existam escolas técnicas comerciais ou liceus onde se ministre o ensino das disciplinas mencionadas na parte final do § 3.º do artigo 136.º ficarem desertos, abrir-se-á novo concurso naquelas províncias, a que serão admitidos os candidatos nelas domiciliados que possuam as disciplinas de qualquer das alíneas do artigo 5.º do [Decreto-Lei n.º 36507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36507-1947-637471), para provimento do terço das vagas que lhes couberem, conforme as disposições do artigo anterior. Serão também admitidos a este concurso os indivíduos habilitados com o curso geral de comércio e com as duas referidas disciplinas.
+Art. 138.º Se os concursos abertos para provimento dos lugares de oficial estagiário nas províncias de Angola e Moçambique ou em quaisquer outras em que existam escolas técnicas comerciais ou liceus onde se ministre o ensino das disciplinas mencionadas na parte final do § 3.º do artigo 136.º ficarem desertos, abrir-se-á novo concurso naquelas províncias, a que serão admitidos os candidatos nelas domiciliados que possuam as disciplinas de qualquer das alíneas do artigo 5.º do [Decreto-Lei n.º 36507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36507-1947-637471), para provimento do terço das vagas que lhes couberem, conforme as disposições do artigo anterior. Serão também admitidos a este concurso os indivíduos habilitados com o curso geral de comércio e com as duas referidas disciplinas.
 
 ...
 
-###### Art. 141.º ...
+Art. 141.º ...
 
 § 1.º ...
 
@@ -111,7 +123,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 ...
 
-###### Art. 172.º Os fiéis de tesoureiros serão nomeados pelos governadores mediante proposta do respectivo tesoureiro, e por ele livremente escolhidos de entre os oficiais estagiários, escriturários, fiéis de armazém, auxiliares de verificação ou patrões da fiscalização marítima, e, na sua falta, entre indivíduos do sexo masculino estranhos aos quadros aduaneiros, de idade entre 21 e 35 anos, que possuam como habilitações mínimas qualquer dos cursos mencionados no artigo 171.º, com preferência do primeiro.
+Art. 172.º Os fiéis de tesoureiros serão nomeados pelos governadores mediante proposta do respectivo tesoureiro, e por ele livremente escolhidos de entre os oficiais estagiários, escriturários, fiéis de armazém, auxiliares de verificação ou patrões da fiscalização marítima, e, na sua falta, entre indivíduos do sexo masculino estranhos aos quadros aduaneiros, de idade entre 21 e 35 anos, que possuam como habilitações mínimas qualquer dos cursos mencionados no artigo 171.º, com preferência do primeiro.
 
 § 1.º ...
 
@@ -121,11 +133,11 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § 4.º ...
 
-###### Art. 2.º (transitório). Sem prejuízo do disposto no artigo 20.º do [Decreto n.º 44392](https://diariodarepublica.pt/dr/detalhe/decreto/44392-1962-164816), de 8 de Junho de 1962, serão promovidos a verificadores, por ordem da sua antiguidade de serviço, com dispensa da prestação de provas, os funcionários que, à data da publicação do Estatuto Orgânico das Alfândegas do Ultramar, eram aspirantes dos quadros técnico-aduaneiros privativos das províncias ultramarinas, desde que possuam qualquer dos cursos mencionados no n.º 1.º do artigo 136.º do referido estatuto ou tenham sido aprovados em concurso para provimento de lugares da antiga categoria de terceiro-verificador.
+Art. 2.º (transitório). Sem prejuízo do disposto no artigo 20.º do [Decreto n.º 44392](https://diariodarepublica.pt/dr/detalhe/decreto/44392-1962-164816), de 8 de Junho de 1962, serão promovidos a verificadores, por ordem da sua antiguidade de serviço, com dispensa da prestação de provas, os funcionários que, à data da publicação do Estatuto Orgânico das Alfândegas do Ultramar, eram aspirantes dos quadros técnico-aduaneiros privativos das províncias ultramarinas, desde que possuam qualquer dos cursos mencionados no n.º 1.º do artigo 136.º do referido estatuto ou tenham sido aprovados em concurso para provimento de lugares da antiga categoria de terceiro-verificador.
 
-###### Art. 3.º É revogado o artigo 141.º do Estatuto Orgânico das Alfândegas do Ultramar.
+Art. 3.º É revogado o artigo 141.º do Estatuto Orgânico das Alfândegas do Ultramar.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 1 de Abril de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

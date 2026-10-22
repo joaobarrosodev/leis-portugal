@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/42912-1960-281778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-04-08T00:00:00Z'
+  retrieved_at: '2026-10-22T19:17:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae810b52a1344376466b8520c7e0e43e937dba0e4b1935958030f008cec23190
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c6ab05fe9a4479881227d798562e2426bdda31b354f6bc824fdfe42ba0eaea3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:17:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:680391:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:17:41Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +91,7 @@ Tendo em atenção o disposto nos artigos 17.º e 19.º do Decreto de 23 de Deze
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São considerados abrangidos pelas disposições do artigo 17.º do Decreto de 23 de Dezembro de 1899 os produtos fitofarmacêuticos seguintes:
+Artigo 1.º São considerados abrangidos pelas disposições do artigo 17.º do Decreto de 23 de Dezembro de 1899 os produtos fitofarmacêuticos seguintes:
 
 Produtos à base de zineb (zinco etileno-1,2-bisditiocarbamato) com um mínimo de 65 por cento de substância activa;
 
@@ -111,8 +115,8 @@ Dieldrin técnico;
 
 Endrin técnico.
 
-###### Art. 2.º É revogado o que está estabelecido quanto ao clordane técnico no [Decreto n.º 39956](https://diariodarepublica.pt/dr/detalhe/decreto/39956-1954-680391), de 7 de Dezembro de 1954.
+Art. 2.º É revogado o que está estabelecido quanto ao clordane técnico no [Decreto n.º 39956](https://diariodarepublica.pt/dr/detalhe/decreto/39956-1954-680391), de 7 de Dezembro de 1954.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 8 de Abril de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Luís Quartin Graça.

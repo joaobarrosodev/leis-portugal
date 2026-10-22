@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/18/2007/03/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/18-2007-518624
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-16T00:00:00Z'
+  retrieved_at: '2026-10-22T19:07:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 445aa7bc2ea5984ef65586a6174de4cce6cb0a4b62654ad01139ec0fd1530098
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: edb144e082519a915b7dd8eba14e284ebac7382b3fb684dadbf5d31dc50098c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:07:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
-- Espetáculos e Divertimentos Públicos
-- Ordenamento do Território
+- Câmara Municipal
 - Construção Civil
 - Contra-ordenação
-- Direcção Geral de Viação
-- Fiscalização
-- Licenciamento
-- Licença Especial
-- Proteção do Ambiente
-- Equipamento de Veículo
-- Câmara Municipal
-- Regulamento
-- Habitação
 - Controlo Metrológico
+- Direcção Geral de Viação
+- Equipamento de Veículo
+- Espetáculos e Divertimentos Públicos
+- Fiscalização
+- Habitação
+- Licença Especial
+- Licenciamento
+- Ordenamento do Território
 - Poluição Sonora
+- Proteção do Ambiente
+- PSP
+- Regulamento
 - Segurança dos Edifícios
 - Sinalização de Segurança
 - Tráfego Aéreo
@@ -99,16 +99,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/138/2005/02/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/138/2005/02/02/p/dre
+- type: cites
+  target: pt:dre:522807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619755:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:9/2007
+  label: "Rectifica o Decreto-Lei n.º 9/2007, de 17 de Janeiro, DR.IS [12] \0\0"
+  source: null
+  date: '2007-01-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:07:45Z'
   warnings: []
   errors: []
 ---

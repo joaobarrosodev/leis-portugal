@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/10/19500/0002900030.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,26 +47,40 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/195/2026/10/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/195-2026-1178225512
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-10-08T00:00:00Z'
+  retrieved_at: '2026-10-22T18:54:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de04aec0a86af84f1fb22a809a8b1674bc8fece03b19c917f0113455482504b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d7a7cacddbaabd1d3e2b8f7aa549bf1aa4757abfca9b833b7f52af29a1c12b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:54:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Administração
+- Conselho de Ministros
+- Exoneração
+- Governo XXV
+- Nomeação
+- Unidade Local de Saúde do Alentejo Central
+- Vogal
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:173/2025
+  label: Exonera, com efeitos a 01 de outubro de 2026, o vogal executivo, enfermeiro-diretor do conselho de administração
+    da Unidade Local de Saúde do Alentejo Central, E. P. E., Emanuel António Zambujo Boieiro, designado pela Resolução do
+    Conselho de Ministros n.º 173/2025, de 10 de novembro, Diário da República n.º 217/2025, Série I
+  source: null
+  date: '2025-11-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/52/2022/08/04/p/dre
   label: null
@@ -91,16 +105,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201414019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:945116917:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:54:35Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +159,7 @@ Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](h
 
 Assim:
 
-Nos termos do artigo 12.º, dos n.<sup>os</sup>1 a 3 do artigo 13.º, do artigo 15.º, da alínea c) do n.º 3 do artigo 20.º e dos n.<sup>os</sup>1 e 2 do artigo 26.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, dos n.<sup>os</sup>2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, da alínea e) do n.º 4 do artigo 5.º do anexo i ao [Decreto-Lei n.º 61/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), de 23 de setembro, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos do artigo 12.º, dos n.os1 a 3 do artigo 13.º, do artigo 15.º, da alínea c) do n.º 3 do artigo 20.º e dos n.os1 e 2 do artigo 26.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, dos n.os2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, da alínea e) do n.º 4 do artigo 5.º do anexo i ao [Decreto-Lei n.º 61/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), de 23 de setembro, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Exonerar, por proposta do diretor executivo da Direção Executiva do Serviço Nacional de Saúde, I. P., e com fundamento em critérios de mera conveniência, o vogal executivo, enfermeiro-diretor do conselho de administração da Unidade Local de Saúde do Alentejo Central, E. P. E., Emanuel António Zambujo Boieiro, designado pela [Resolução do Conselho de Ministros n.º 173/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/173-2025-945116917), de 10 de novembro.
 
@@ -154,3 +192,5 @@ Desenvolveu atividade docente como professor assistente convidado da Universidad
 No domínio científico e técnico, participa em congressos e eventos nacionais e internacionais como autor, preletor e membro de comissões organizadoras e científicas, sendo igualmente autor de publicações nas áreas da enfermagem, gestão e qualidade em saúde.
 
 É sócio efetivo da Associação Portuguesa de Enfermeiros de Reabilitação (APER) e da Associação Portuguesa de Enfermeiros Gestores e Liderança (APEGEL), exercendo ainda funções como vogal do Grupo Dinamizador do Núcleo de Enfermeiros de Reabilitação da Unidade Local de Saúde do Alentejo Central. É detentor de competências avançadas em gestão e supervisão clínica reconhecidas pela Ordem dos Enfermeiros.
+
+119949700

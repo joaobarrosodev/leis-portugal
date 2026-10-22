@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43189-1960-514848
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-04-12T00:00:00Z'
+  retrieved_at: '2026-10-22T19:19:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e28dd36bcc86e095f410d1def2c73365302f1520b8c0a5f2573a6101e712ea69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d8c18bfa5aed43b0fc97ba0dee089f0bdb88b0aa18db0f447dec13c51822025
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:19:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acidente de Trabalho
+- Doença Profissional
+- Incapacidade Física
+- Tabela Nacional de Incapacidades por Acidentes de Trabalho e Doenças Profissionais
 relationships:
 - type: amended_by
   target: pt:dre:284741:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:167391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:597743:por
+  label: null
+  source: null
 article_structure:
-  article_count: 94
-  section_count: 46
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 27
+  section_count: 37
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:19:45Z'
   warnings: []
   errors: []
 ---
@@ -148,23 +172,23 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aprovada a tabela nacional de incapacidades por acidentes de trabalho e doenças profissionais, anexa ao presente diploma.
+Artigo 1.º É aprovada a tabela nacional de incapacidades por acidentes de trabalho e doenças profissionais, anexa ao presente diploma.
 
-###### Art. 2.º A desvalorização dos sinistrados ou doentes será calculada em conformidade com a tabela nacional de incapacidades, observando-se as instruções que dela fazem parte integrante, sem prejuízo do disposto no artigo 22.º da [Lei n.º 1942](https://diariodarepublica.pt/dr/detalhe/lei/1942-1936-360129).
+Art. 2.º A desvalorização dos sinistrados ou doentes será calculada em conformidade com a tabela nacional de incapacidades, observando-se as instruções que dela fazem parte integrante, sem prejuízo do disposto no artigo 22.º da [Lei n.º 1942](https://diariodarepublica.pt/dr/detalhe/lei/1942-1936-360129).
 
-###### Art. 3.º A tabela aprovada por este diploma é aplicável nos processos pendentes em que ainda não tenha sido efectuado o primeiro exame.
+Art. 3.º A tabela aprovada por este diploma é aplicável nos processos pendentes em que ainda não tenha sido efectuado o primeiro exame.
 
 § único. No caso de revisão de pensões, aplicar-se-á a tabela por que se regulou o estabelecimento da pensão.
 
-###### Art. 4.º Será constituída, mediante portaria do Ministro das Corporações e Previdência Social, uma comissão permanente de revisão da tabela de incapacidades, presidida pelo Inspector Superior dos Tribunais do Trabalho.
+Art. 4.º Será constituída, mediante portaria do Ministro das Corporações e Previdência Social, uma comissão permanente de revisão da tabela de incapacidades, presidida pelo Inspector Superior dos Tribunais do Trabalho.
 
 § 1.º A recolha de todos os elementos necessários à revisão da tabela incumbirá à Inspecção Superior dos Tribunais do Trabalho.
 
 § 2.º A comissão poderá ser consultada pelos juízes sobre dúvidas que se suscitem quanto à interpretação e aplicação da tabela.
 
-###### Art. 5.º A tabela poderá ser alterada por portaria do Ministro das Corporações e Previdência Social, sob proposta da comissão permanente de revisão e ouvido o Conselho Superior da Previdência e da Habitação Económica, devendo as alterações ser nela insertas no lugar próprio.
+Art. 5.º A tabela poderá ser alterada por portaria do Ministro das Corporações e Previdência Social, sob proposta da comissão permanente de revisão e ouvido o Conselho Superior da Previdência e da Habitação Económica, devendo as alterações ser nela insertas no lugar próprio.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Setembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Henrique Veiga de Macedo.
 
@@ -226,347 +250,347 @@ H) Os resultados dos exames constarão de ficha elaborada nos termos do anexo D.
 
 Do Exemplo n.º 1 ao Exemplo n.º 9
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
 
 SUMÁRIO
 
-# PARTE I — Mutilações e deformidades
+## PARTE I — Mutilações e deformidades
 
 ### CAPÍTULO I. - Cabeça:
 
-###### Artigo 1.º Couro cabeludo.
+Artigo 1.º Couro cabeludo.
 
 ###### Artigo 2.º Crânio.
 
-###### Artigo 3.º Face.
+Artigo 3.º Face.
 
 ###### Artigo 4.º Olhos.
 
-###### Artigo 5.º Nariz.
+Artigo 5.º Nariz.
 
 ###### Artigo 6.º Ouvidos.
 
-###### Artigo 7.º Maxilares superiores.
+Artigo 7.º Maxilares superiores.
 
 ###### Artigo 8.º Boca.
 
-###### Artigo 9.º Maxilar inferior.
+Artigo 9.º Maxilar inferior.
 
-### CAPÍTULO II. - Pescoço:
+CAPÍTULO II. - Pescoço:
 
-###### Artigo 10.º Partes moles.
+Artigo 10.º Partes moles.
 
 ###### Artigo 11.º Faringe.
 
-###### Artigo 12.º Laringe.
+Artigo 12.º Laringe.
 
-### CAPÍTULO III. - Ráquis:
+CAPÍTULO III. - Ráquis:
 
 ###### Artigo 13.º Vértebras.
 
-### CAPÍTULO IV. - Tórax:
+CAPÍTULO IV. - Tórax:
 
-###### Artigo 14.º Partes moles das paredes.
+Artigo 14.º Partes moles das paredes.
 
 ###### Artigo 15.º Esqueleto.
 
-###### Artigo 16.º Coração e grandes vasos.
+Artigo 16.º Coração e grandes vasos.
 
-### CAPÍTULO V. - Cintura escapular:
+CAPÍTULO V. - Cintura escapular:
 
-###### Artigo 17.º Partes moles.
+Artigo 17.º Partes moles.
 
 ###### Artigo 18.º Esqueleto.
 
-### CAPÍTULO VI. - Braço:
+CAPÍTULO VI. - Braço:
 
-###### Artigo 19.º Partes moles.
+Artigo 19.º Partes moles.
 
 ###### Artigo 20.º Esqueleto.
 
-###### Artigo 21.º Perda de segmentos.
+Artigo 21.º Perda de segmentos.
 
-### CAPÍTULO VII. - Cotovelo:
+CAPÍTULO VII. - Cotovelo:
 
-###### Artigo 22.º Partes moles.
+Artigo 22.º Partes moles.
 
 ###### Artigo 23.º Esqueleto.
 
-###### Artigo 24.º Perda de segmentos.
+Artigo 24.º Perda de segmentos.
 
-### CAPÍTULO VIII. - Antebraço:
+CAPÍTULO VIII. - Antebraço:
 
-###### Artigo 25.º Partes moles.
+Artigo 25.º Partes moles.
 
 ###### Artigo 26.º Esqueleto.
 
-###### Artigo 27.º Perda de segmentos.
+Artigo 27.º Perda de segmentos.
 
 ### CAPÍTULO IX. - Punho:
 
-###### Artigo 28.º Partes moles.
+Artigo 28.º Partes moles.
 
 ###### Artigo 29.º Esqueleto.
 
-###### Artigo 30.º Perda de segmentos.
+Artigo 30.º Perda de segmentos.
 
 ### CAPÍTULO X. - Mão:
 
-###### Artigo 31.º Partes moles.
+Artigo 31.º Partes moles.
 
 ###### Artigo 32.º Esqueleto.
 
-###### Artigo 33.º Perda de segmentos.
+Artigo 33.º Perda de segmentos.
 
-### CAPÍTULO XI. - Abdómen:
+CAPÍTULO XI. - Abdómen:
 
-###### Artigo 34.º Partes moles das paredes.
+Artigo 34.º Partes moles das paredes.
 
 ###### Artigo 35.º Baço.
 
-###### Artigo 36.º Estômago.
+Artigo 36.º Estômago.
 
-###### Artigo 37.º Intestinos.
+Artigo 37.º Intestinos.
 
 ###### Artigo 38.º Fígado.
 
-###### Artigo 39.º Rins.
+Artigo 39.º Rins.
 
 ### CAPÍTULO XII. - Bacia:
 
-###### Artigo 40.º Partes moles.
+Artigo 40.º Partes moles.
 
-###### Artigo 41.º Órgãos intrapélvicos.
+Artigo 41.º Órgãos intrapélvicos.
 
 ###### Artigo 42.º Esqueleto.
 
-### CAPÍTULO XIII. - Anca:
+CAPÍTULO XIII. - Anca:
 
-###### Artigo 43.º Partes moles.
+Artigo 43.º Partes moles.
 
 ###### Artigo 44.º Esqueleto.
 
-###### Artigo 45.º Perda de segmentos.
+Artigo 45.º Perda de segmentos.
 
 ### CAPÍTULO XIV. - Coxa:
 
-###### Artigo 46.º Partes moles.
+Artigo 46.º Partes moles.
 
 ###### Artigo 47.º Esqueleto.
 
-###### Artigo 48.º Perda de segmentos.
+Artigo 48.º Perda de segmentos.
 
 ### CAPÍTULO XV. - Joelho:
 
-###### Artigo 49.º Partes moles.
+Artigo 49.º Partes moles.
 
 ###### Artigo 50.º Esqueleto.
 
-###### Artigo 51.º Perda de segmentos.
+Artigo 51.º Perda de segmentos.
 
 ### CAPÍTULO XVI. - Perna:
 
-###### Artigo 52.º Partes moles.
+Artigo 52.º Partes moles.
 
 ###### Artigo 53.º Esqueleto.
 
-###### Artigo 54.º Perda de segmentos.
+Artigo 54.º Perda de segmentos.
 
-### CAPÍTULO XVII. - Tornozelo:
+CAPÍTULO XVII. - Tornozelo:
 
-###### Artigo 55.º Partes moles.
+Artigo 55.º Partes moles.
 
 ###### Artigo 56.º Esqueleto.
 
-###### Artigo 57.º Perda de segmentos.
+Artigo 57.º Perda de segmentos.
 
 ### CAPÍTULO XVIII. - Pé:
 
-###### Artigo 58.º Partes moles.
+Artigo 58.º Partes moles.
 
 ###### Artigo 59.º Esqueleto.
 
-###### Artigo 60.º Perda de segmentos.
+Artigo 60.º Perda de segmentos.
 
-# PARTE II — Sequelas de doenças mentais e nervosas
+## PARTE II — Sequelas de doenças mentais e nervosas
 
-### CAPÍTULO I. - Perturbações sensoriais:
+CAPÍTULO I. - Perturbações sensoriais:
 
 ###### Artigo 61.º Agusia.
 
-###### Artigo 62.º Anosmia.
+Artigo 62.º Anosmia.
 
-###### Artigo 63.º Hipoacusia.
+Artigo 63.º Hipoacusia.
 
 ###### Artigo 64.º Hipovisão.
 
-###### Artigo 65.º Alterações do campo visual.
+Artigo 65.º Alterações do campo visual.
 
-###### Artigo 66.º Perda da visão estereoscópica com conservação da visão simultânea.
+Artigo 66.º Perda da visão estereoscópica com conservação da visão simultânea.
 
-###### Artigo 67.º Hemeralopia.
+Artigo 67.º Hemeralopia.
 
-### CAPÍTULO II. - Perturbações motoras:
+CAPÍTULO II. - Perturbações motoras:
 
-###### Artigo 68.º Paralisias.
+Artigo 68.º Paralisias.
 
 ###### Artigo 69.º Ataxia.
 
-### CAPÍTULO III. - Perturbações sensitivas:
+CAPÍTULO III. - Perturbações sensitivas:
 
-###### Artigo 70.º Algias em geral.
+Artigo 70.º Algias em geral.
 
-###### Artigo 71.º Nevralgias.
+Artigo 71.º Nevralgias.
 
-###### Artigo 72.º Hipostesias e parastesias.
+Artigo 72.º Hipostesias e parastesias.
 
-### CAPÍTULO IV. - Perturbações neurotróficas:
+CAPÍTULO IV. - Perturbações neurotróficas:
 
-###### Artigo 73.º Atrofias ou contracturas.
+Artigo 73.º Atrofias ou contracturas.
 
-###### Artigo 74.º Trofoedemas.
+Artigo 74.º Trofoedemas.
 
-###### Artigo 75.º Úlceras crónicas.
+Artigo 75.º Úlceras crónicas.
 
-### CAPÍTULO V. - Perturbações complexas:
+CAPÍTULO V. - Perturbações complexas:
 
 ###### Artigo 76.º Vertigens.
 
-###### Artigo 77.º Afasia, alexia e agrafia.
+Artigo 77.º Afasia, alexia e agrafia.
 
-###### Artigo 78.º Perturbações neuróticas e psíquicas.
+Artigo 78.º Perturbações neuróticas e psíquicas.
 
-# PARTE III — Doenças crónicas
+## PARTE III — Doenças crónicas
 
-###### Artigo 79.º Aparelho respiratório.
+Artigo 79.º Aparelho respiratório.
 
-###### Artigo 80.º Aparelho circulatório.
+Artigo 80.º Aparelho circulatório.
 
-###### Artigo 81.º Aparelho digestivo.
+Artigo 81.º Aparelho digestivo.
 
-###### Artigo 82.º Aparelho urinário e sexual.
+Artigo 82.º Aparelho urinário e sexual.
 
-###### Artigo 83.º Doenças do sangue.
+Artigo 83.º Doenças do sangue.
 
-###### Artigo 84.º Doenças infecciosas.
+Artigo 84.º Doenças infecciosas.
 
-###### Artigo 85.º Doenças da nutrição.
+Artigo 85.º Doenças da nutrição.
 
-###### Artigo 86.º Doenças dos ossos e das articulações.
+Artigo 86.º Doenças dos ossos e das articulações.
 
 ###### Artigo 87.º Tumores.
 
-###### Artigo 88.º Doenças nervosas.
+Artigo 88.º Doenças nervosas.
 
-###### Artigo 89.º Doenças da pele.
+Artigo 89.º Doenças da pele.
 
-###### Artigo 90.º Doenças dos olhos.
+Artigo 90.º Doenças dos olhos.
 
-###### Artigo 91.º Intoxicações crónicas.
+Artigo 91.º Intoxicações crónicas.
 
-###### Artigo 92.º Pneumoconioses.
+Artigo 92.º Pneumoconioses.
 
-###### Artigo 93.º Doenças parasitárias.
+Artigo 93.º Doenças parasitárias.
 
-# PARTE I — Mutilações e deformidades
+## PARTE I — Mutilações e deformidades
 
 ### CAPÍTULO I — Cabeça
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
 
 ### CAPÍTULO II — Pescoço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
 
 ### CAPÍTULO III — Ráquis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
 
 ### CAPÍTULO IV — Tórax
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
 
 ### CAPÍTULO V — Cintura escapular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
 
 ### CAPÍTULO VI — Braço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
 
 ### CAPÍTULO VII — Cotovelo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
 
 ### CAPÍTULO VIII — Antebraço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
 
 ### CAPÍTULO IX — Punho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
 
 ### CAPÍTULO X — Mão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
 
 ### CAPÍTULO XI — Abdómen
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
 
 ### CAPÍTULO XII — Bacia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
 
 ### CAPÍTULO XIII — Anca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
 
 ### CAPÍTULO XIV — Coxa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
 
 ### CAPÍTULO XV — Joelho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
 
 ### CAPÍTULO XVI — Perna
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
 
 ### CAPÍTULO XVII — Tornozelo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
 
 ### CAPÍTULO XVIII — Pé
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
 
-# PARTE II — Sequelas de doenças mentais e nervosas
+## PARTE II — Sequelas de doenças mentais e nervosas
 
 ### CAPÍTULO I — Perturbações sensoriais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
 
 ### CAPÍTULO II — Perturbações motoras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
 
 ### CAPÍTULO III — Perturbações sensitivas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
 
 ### CAPÍTULO IV — Perturbações neurotróficas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
 
 ### CAPÍTULO V — Perturbações complexas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
 
-# PARTE III — Doenças crónicas
+## PARTE III — Doenças crónicas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
 
 ## ANEXO A — Grupos profissionais
 
@@ -602,10 +626,10 @@ O) Profissões que exigem faculdades especiais de equilíbrio.
 
 Lista de profissões, com a indicação dos grupos profissionais a que cada uma pertence.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
 
-## ANEXO C — [([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
+## ANEXO C — [(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
 
-## ANEXO D — [([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
+## ANEXO D — [(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22200/20062041.pdf)
 
 Ministério das Corporações e Previdência Social, 23 de Setembro de 1960. - O Ministro das Corporações e Previdência Social, Henrique Veiga de Macedo.

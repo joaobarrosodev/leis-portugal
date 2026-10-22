@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/73/2026/03/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2026-1068974006
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-09T00:00:00Z'
+  retrieved_at: '2026-10-22T18:35:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e297231289ff90a3caf351a143ea68d70a938bf84aa2e1d59b726920dede76d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 851a66045c1151c0f5c926b7d34a88c0963ac7e9816a6e97381cfb2c61fac078
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:35:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Estatuto
-- Ministério da Justiça
 - Guarda Prisional
+- Ministério da Justiça
 - Progressão na Carreira
 - Quadro de Pessoal
 - Reestruturação de Carreiras
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:3/2014
+  label: Altera, a partir de de 14 de março de 2026, os artigos 36.º e 61.º do Estatuto do Pessoal do Corpo da Guarda Prisional,
+    aprovado em anexo ao Decreto-Lei n.º 3/2014, de 9 de janeiro, Diário da República n.º 6/2014, Série I
+  source: null
+  date: '2014-01-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/3/2014/01/09/p/dre
   label: null
@@ -80,16 +86,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606115:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:35:13Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +158,9 @@ g) [...]
 
 h) [...]
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - [...]
 
@@ -162,12 +178,14 @@ O disposto no artigo 36.º do Estatuto do Pessoal do Corpo da Guarda Prisional, 
 
 Visto e aprovado em Conselho de Ministros de 5 de fevereiro de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Ana Luísa da Silva Gonçalves Machado.
 
-**Promulgado em 3 de março de 2026.**
+Promulgado em 3 de março de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 4 de março de 2026.**
+Referendado em 4 de março de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119947953

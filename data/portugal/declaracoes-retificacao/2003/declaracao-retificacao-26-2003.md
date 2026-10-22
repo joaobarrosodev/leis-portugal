@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/26/2003/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-2003-424104
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-17T00:00:00Z'
+  retrieved_at: '2026-10-22T19:02:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 526c4c1af34e339176178e9036427846821702ef630e6896a2f07ff39f9b7074
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6159dc0a3f56135b3d9cbc3635f0bdebe1921dd4d74bbd32096bad78bb939e20
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:02:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,26 +69,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Financiamento
 - Caminhos de Ferro
-- Multa
 - Contra-ordenação
-- Transporte Ferroviário
+- Financiamento
 - Fiscalização
 - Infraestrutura dos Transportes
 - Instituto Nacional do Transporte Ferroviário
 - Licenciamento
+- Multa
 - Preço
-- Serviço Público
 - Prestação de Serviços
 - Refer
 - Seguro Obrigatório de Responsabilidade Civil
+- Serviço Público
+- Transporte Ferroviário
 - Transporte Público
 relationships:
 - type: amended_by
   target: pt:dre:279843:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:279843:por
+  label: "Alterado, a partir de 22.02.2011, o art. 3º do Dec Lei 270/2003, de 28-Out, rectificado pela presente declaração,\
+    \ pelo DEC LEI.27/2011.17.02.2011.MOPTC, DR.IS [34] de 17.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-2011-279843
+  date: '2011-02-17'
 - type: cites
   target: celex:31970R1108
   label: null
@@ -108,13 +114,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:02:35Z'
   warnings: []
   errors: []
 ---

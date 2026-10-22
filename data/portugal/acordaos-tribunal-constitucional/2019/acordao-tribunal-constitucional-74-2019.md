@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/03/04700/0153301539.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/74/2019/03/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/74-2019-120672709
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-03-07T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89ac453b367386fef6835fa49423f1e6527da95a617fbdbd8febf826b5628a53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a993857e4f40b3013ab858133017343802f26bb1b82808ccd675b497552a188b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -116,13 +116,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:03Z'
   warnings: []
   errors: []
 ---
@@ -296,3 +296,5 @@ Voto o presente acórdão por considerar que a norma objeto de fiscalização vi
 Declaração de voto
 
 Remeto para a declaração de voto por mim apresentada no Acórdão n.º 728/2017, acerca da interpretação normativa extraída do artigo 67.º, n.º 5, do Estatuto da Entidade Reguladora da Saúde, aprovado pelo [Decreto-Lei n.º 126/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/56304800/details/normal?l=1), de 22 de agosto, tal como tem vindo a ser aplicada pelos tribunais comuns, distinta daquela a que se reporta o presente processo de generalização, e que consiste naquela que impõe que o efeito suspensivo da impugnação judicial da decisão da entidade reguladora que aplica uma coima tenha como condição uma obrigação de pagamento de caução equivalente ao valor da coima, sem permitir nem a dispensa da caução, nem a graduação do seu montante, mesmo em situações de insuficiência económica. Apesar de, neste processo, não estar em causa a inconstitucionalidade material, transcrevo a posição por mim defendida em declaração de voto aposta ao Acórdão n.º 728/17, e que mantenho: «[...] consubstanciando a inconstitucionalidade material um vício mais grave do que o da inconstitucionalidade orgânica, não teria conhecido apenas desta, mas também da constitucionalidade material. E tal juízo não seria inútil. É que a inconstitucionalidade orgânica, referindo-se a uma questão de repartição de competências entre Governo e Assembleia da República, invalida a totalidade do preceito legal, invalidade que pode ser sanada por uma posterior lei de autorização. Contudo, a função do Tribunal Constitucional, mais do que fiscalizar a observância das regras de competência dos órgãos de soberania, consiste na proteção dos direitos fundamentais dos cidadãos através de juízos de inconstitucionalidade sobre normas ou interpretações normativas que violem normas ou princípios constitucionais, dos quais se deduzam direitos fundamentais. Importa, portanto, informar os operadores judiciários, e indiretamente o legislador, de dimensões normativas que não podem ser aceites por não serem conformes com a lei fundamental». [...] «A utilidade deste juízo é evidente para que os operadores judiciários conheçam as dimensões normativas inconstitucionais e não as apliquem, e para que a Assembleia da República, ao sanar a inconstitucionalidade orgânica, possa também alterar o conteúdo da norma, tornando-a conforme às normas constitucionais que consagram direitos fundamentais». - Maria Clara Sottomayor.
+
+112084944

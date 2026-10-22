@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45867-1964-579935
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-08-12T00:00:00Z'
+  retrieved_at: '2026-10-22T19:41:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72d61b9585f052e9344e44b9106fe873dba33e94df6c002468bcd2b80ed0aa95
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc00dd90f5c298c03663d4edaef45d13d4d64fe022a4f9e51a2298668447da8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:41:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:156470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516706:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:41:35Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +104,7 @@ Ouvidos o Conselho Ultramarino e o Governo da província interessada;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, o seguinte:
 
-###### Artigo 1.º O quadro administrativo da província de Cabo Verde será constituído pela forma seguinte:
+Artigo 1.º O quadro administrativo da província de Cabo Verde será constituído pela forma seguinte:
 
 1 chefe de serviços.
 
@@ -114,7 +126,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § 3.º As funções de secretário das administrações dos concelhos serão exercidas por segundos ou terceiros-oficiais, de harmonia com as conveniências de serviço.
 
-###### Art. 2.º O provimento dos lugares far-se-á por promoção de funcionários de categoria imediatamente inferior, pela ordem de classificação em concurso de provas práticas.
+Art. 2.º O provimento dos lugares far-se-á por promoção de funcionários de categoria imediatamente inferior, pela ordem de classificação em concurso de provas práticas.
 
 § 1.º Ao concurso de promoção poderão candidatar-se os funcionários que na categoria contem o mínimo de quatro anos de serviço efectivo e boas informações.
 
@@ -132,7 +144,7 @@ e) Gozar de saúde e robustez física.
 
 § 3.º Os lugares de administrador poderão ser preenchidos em comissão até um terço do respectivo número por pessoas estranhas ao quadro habilitadas com o curso de Administração Ultramarina ou de Direito.
 
-###### Art. 3.º Nos concursos de promoção respeitar-se-ão as normas e os programas estabelecidos para os funcionários dos quadros de secretaria dos serviços de administração civil do ultramar, excepto nos concursos para administradores, que obedecerão às normas e programas estabelecidos para esta categoria dos quadros administrativos das restantes províncias ultramarinas.
+Art. 3.º Nos concursos de promoção respeitar-se-ão as normas e os programas estabelecidos para os funcionários dos quadros de secretaria dos serviços de administração civil do ultramar, excepto nos concursos para administradores, que obedecerão às normas e programas estabelecidos para esta categoria dos quadros administrativos das restantes províncias ultramarinas.
 
 § 1.º Na classificação dos candidatos adoptar-se-á a escala académica, sem arredondamentos, sendo posteriormente agrupados, segundo a média de classificação obtida, em quatro categorias:
 
@@ -172,19 +184,19 @@ c) Os que obtiverem nota de Regular em ambas as listas.
 
 § 4.º Serão excluídos os candidatos que não puderem ser incluídos em qualquer dos três grupos referidos no parágrafo anterior.
 
-###### Art. 4.º Se não houver reclamações, o governador nomeará logo para as vagas existentes os candidatos aprovados, pela ordem da sua classificação, conforme a lista dos concorrentes que contenha a classificação final.
+Art. 4.º Se não houver reclamações, o governador nomeará logo para as vagas existentes os candidatos aprovados, pela ordem da sua classificação, conforme a lista dos concorrentes que contenha a classificação final.
 
 § 1.º Quando haja reclamações ou for invocada a ilegalidade de qualquer acto do concurso, as nomeações referidas no corpo do artigo serão consideradas transitórias e os processos de concurso subirão com elas ao Ministro do Ultramar. Depois de ouvido o Conselho Superior de Disciplina do Ultramar, o Ministro mandará manter ou alterar a classificação final ou a admissão aos concursos decidida na província.
 
 Havendo alterações a introduzir, será a lista definitiva publicada no Diário do Governo e depois reproduzida no Boletim Oficial, e o governador rectificará as nomeações anteriormente feitas que não puderem subsistir. Da decisão do Ministro não há recurso.
 
-###### Art. 5.º Os júris dos concursos são nomeados pelo governador da província, sendo obrigatório o respectivo serviço.
+Art. 5.º Os júris dos concursos são nomeados pelo governador da província, sendo obrigatório o respectivo serviço.
 
 § 1.º Nos concursos para administrador o júri será constituído pelo chefe dos serviços de administração civil e mais dois chefes de serviço, um professor liceal e um administrador de concelho de 1.ª classe, livremente escolhidos pelo governador da província. A presidência pertencerá ao primeiro ou, no seu impedimento, ao chefe de serviço designado pelo governador.
 
 § 2.º O júri para os concursos de promoção às restantes categorias será constituído pelo chefe dos serviços de administração civil, que presidirá, e por dois administradores de concelho de 1.ª classe.
 
-###### Art. 6.º Os actuais funcionários do quadro administrativo transitam para o novo quadro, com dispensa de nomeação, visto e posse, nas mesmas categorias que presentemente ocupam por nomeação provisória ou definitiva.
+Art. 6.º Os actuais funcionários do quadro administrativo transitam para o novo quadro, com dispensa de nomeação, visto e posse, nas mesmas categorias que presentemente ocupam por nomeação provisória ou definitiva.
 
 § 1.º Os actuais administradores nomeados em comissão, nos termos do § único do artigo 2.º do [Decreto n.º 43462](https://diariodarepublica.pt/dr/detalhe/decreto/43462-1960-479901), e os que ininterruptamente, há mais de oito anos, vêm desempenhando, interinamente, essas funções, poderão ser nomeados administradores de 3.ª classe, se o merecerem pelas suas informações e assim o requererem ao governador da província no prazo de 90 dias, a contar da publicação deste decreto.
 
@@ -192,11 +204,11 @@ Havendo alterações a introduzir, será a lista definitiva publicada no Diário
 
 § 3.º Os actuais terceiros-oficiais que tenham nesta categoria mais de oito anos de efectivo serviço transitam para segundos-oficias, por despacho do governador, com dispensa de visto e posse.
 
-###### Art. 7.º Os administradores de concelho com mais de cinco anos de serviço efectivo na categoria serão incluídos na lista para efeitos de promoção a intendente de distrito, nos mesmos termos em que o são os das restantes províncias.
+Art. 7.º Os administradores de concelho com mais de cinco anos de serviço efectivo na categoria serão incluídos na lista para efeitos de promoção a intendente de distrito, nos mesmos termos em que o são os das restantes províncias.
 
-###### Art. 8.º São aplicáveis ao quadro administrativo de Cabo Verde o § 3.º do artigo 14.º do [Decreto n.º 44241](https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706) e o artigo 5.º do [Decreto n.º 44651](https://diariodarepublica.pt/dr/detalhe/decreto/44651-1962-156470), respectivamente de 19 de Março e 27 de Outubro de 1962.
+Art. 8.º São aplicáveis ao quadro administrativo de Cabo Verde o § 3.º do artigo 14.º do [Decreto n.º 44241](https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706) e o artigo 5.º do [Decreto n.º 44651](https://diariodarepublica.pt/dr/detalhe/decreto/44651-1962-156470), respectivamente de 19 de Março e 27 de Outubro de 1962.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Agosto de 1964. - ANTÓNIO DE OLIVEIRA SALAZAR.
 

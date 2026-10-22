@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/02/02400/0000400014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/775/2020/02/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/775-2019-128792817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-02-04T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c4175a0d6ca8a68966506f60cbad46c20453d9bac776be957b5e72c9f8712d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d613ad13403517330176f9565437eb1259bf751e7a17d27e14303021a100a287
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção Civil
 - Aveiro
 - Contribuições e Impostos
 - Inconstitucionalidade
+- Proteção Civil
 - Regulamento
 - Taxa
 relationships:
@@ -113,16 +113,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/11/2015/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/11/2015/08/28/p/dre
+- type: cites
+  target: pt:dre:114555190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116698945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70133803:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:08Z'
   warnings: []
   errors: []
 ---
@@ -187,7 +235,9 @@ f) Promoção de ações de proteção civil e de sensibilização para prevenç
 
 [...]
 
-###### Artigo 4.º — Âmbito de aplicação
+Artigo 4.º
+
+Âmbito de aplicação
 
 1 - A presente taxa aplica-se às pessoas singulares que residam na área do Município de Aveiro e às pessoas coletivas que aí tenham sede, agência, sucursal, filial, delegação ou representação ou aí desenvolvam atividade profissional e industrial.
 
@@ -195,7 +245,9 @@ f) Promoção de ações de proteção civil e de sensibilização para prevenç
 
 3 - Consideram-se abrangidos pelo n.º 1 do presente artigo todos os que tenham celebrado com a ADRA - Águas da Região de Aveiro um contrato de execução continuada, designadamente um contrato de fornecimento de água.
 
-###### Artigo 5.º — Liquidação da taxa
+Artigo 5.º
+
+Liquidação da taxa
 
 1 - A TMPC de Aveiro a cobrar pelo Município é anual e consta do Anexo I do presente regulamento.
 
@@ -434,3 +486,5 @@ III - Decisão
 Sem custas.
 
 Lisboa, 17 de dezembro de 2019. - José Teles Pereira - Maria de Fátima Mata-Mouros - Gonçalo Almeida Ribeiro - João Pedro Caupers - Maria José Rangel de Mesquita - Fernando Vaz Ventura - Mariana Canotilho - Claudio Monteiro - Joana Fernandes Costa - Lino Rodrigues Ribeiro - Pedro Machete - Manuel da Costa Andrade.
+
+112948097

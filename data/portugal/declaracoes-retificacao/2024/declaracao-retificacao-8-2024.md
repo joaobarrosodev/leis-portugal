@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/02/02400/0003000030.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/8/2024/02/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/8-2024-840060198
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-02T00:00:00Z'
+  retrieved_at: '2026-10-22T19:15:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 611f30fa661c42a7f92b3f5db5029b6684a3bce4c4dab3761ebfb7f5cbe49222
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 148494d1009bce4e74dc79dd774f2fe5a3e1dc6881ff355105a9cfdca56bdca2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:15:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,11 +70,11 @@ subjects:
 - Carreira de Consultor
 - Carreira de Técnico Verificador
 - Carreira de Técnico Verificador Superior
-- Estatuto
 - Carreira Profissional
-- Tribunal de Contas
+- Estatuto
 - Quadro de Pessoal
 - Serviços de Apoio ao Tribunal de Contas
+- Tribunal de Contas
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/121/2023/12/26/p/dre
@@ -92,16 +92,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835674286:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:121/2023
+  label: Retifica o artigo 2.º (na parte em que altera o n.º 3 do artigo 14.º do Decreto-Lei n.º 440/99, de 2 de novembro)
+    do Decreto-Lei n.º 121/2023, de 26 de dezembro, Diário da República n.º 247/2023, Série I
+  source: null
+  date: '2023-12-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:15:33Z'
   warnings: []
   errors: []
 ---
@@ -119,3 +145,5 @@ deve ler-se:
 «3 - O recrutamento para a categoria de auditor verificador faz-se mediante a aplicação obrigatória de prova de conhecimentos, podendo, ainda, ser aplicados como métodos facultativos outros métodos de seleção previstos na lei.»
 
 Secretaria-Geral, 30 de janeiro de 2024. - A Secretária-Geral Adjunta, Fátima Costa Ferreira.
+
+117308804

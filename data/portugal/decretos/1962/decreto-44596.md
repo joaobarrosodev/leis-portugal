@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44596-1962-160485
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-05-13T00:00:00Z'
+  retrieved_at: '2026-10-22T19:31:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47c689ae3d604e637f7d3a05b81619a94363b51f2b13fb500615bb20c063da2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3cf8c9c6baba974bf68ade7466c11f2e61488ff6f39aee9030edd31150690d0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:31:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,20 @@ relationships:
   target: pt:dre:294148:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:31:11Z'
   warnings: []
   errors: []
 ---
@@ -95,10 +99,10 @@ Tendo em vista o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção-Geral dos Edifícios e Monumentos Nacionais a celebrar contrato com o arquitecto Francisco Blasco Gonçalves para proceder à elaboração do projecto da obra de construção do edifício da Caixa Geral de Depósitos, Crédito e Previdência de Bragança, pela quantia de 80000$00.
+Artigo 1.º É autorizada a Direcção-Geral dos Edifícios e Monumentos Nacionais a celebrar contrato com o arquitecto Francisco Blasco Gonçalves para proceder à elaboração do projecto da obra de construção do edifício da Caixa Geral de Depósitos, Crédito e Previdência de Bragança, pela quantia de 80000$00.
 
-###### Art. 2.º Seja qual for o valor dos estudos a realizar, não poderá a Direcção-Geral dos Edifícios e Monumentos Nacionais despender com pagamentos relativos aos estudos executados, por virtude de contrato, mais de 26666$70 no corrente ano e 53333$30, ou o que se apurar como saldo, no ano de 1963.
+Art. 2.º Seja qual for o valor dos estudos a realizar, não poderá a Direcção-Geral dos Edifícios e Monumentos Nacionais despender com pagamentos relativos aos estudos executados, por virtude de contrato, mais de 26666$70 no corrente ano e 53333$30, ou o que se apurar como saldo, no ano de 1963.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Setembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Eduardo de Arantes e Oliveira.

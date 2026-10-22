@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45734-1964-576705
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:40:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d887759cd7abbebeb9b372b143cdc77bac50b82219e46c7e5c108a37a48841da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c083b00e3cf15b7c7b518b050a2720d01053b032a7d8117e55a3228d90f06d20
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:40:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão
+- Criação de Serviços
+- Definição de Competências
+- Desenvolvimento Rural
+- Ministério das Corporações e Previdência Social
+- Orgânica
+- Previdência Social
+- Trabalhador Rural
 relationships:
 - type: amended_by
   target: pt:dre:256667:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:256667:por
+  label: "Transferida para a Direcção-Geral do Trabalho e Corporações, através do Fundo de Desenvolvimento de Mão-de-Obra,\
+    \ a competência atribuída à Comissão de Política Social Rural no art. 2º e nas als. a) a j) do nº 1 do art. 3º deste diploma,\
+    \ que é revogado, a partir de 05.01.1969, pelo DEC LEI.48824.31.12.1968.MCPS, DG.IS [307] de 31.12.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48824-1968-256667
+  date: '1968-12-31'
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:40:39Z'
   warnings: []
   errors: []
 ---
@@ -115,11 +138,11 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Para cumprimento do disposto na base IV, n.º 3, da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, é instituída no Ministério das Corporações e Previdência Social uma comissão que terá por objectivo o estudo, desenvolvimento e generalização da protecção social aos trabalhadores rurais e suas famílias e será denominada Comissão de Política Social Rural.
+Artigo 1.º Para cumprimento do disposto na base IV, n.º 3, da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, é instituída no Ministério das Corporações e Previdência Social uma comissão que terá por objectivo o estudo, desenvolvimento e generalização da protecção social aos trabalhadores rurais e suas famílias e será denominada Comissão de Política Social Rural.
 
-###### Art. 2.º Incumbe à Comissão ora instituída estudar e propor as providências adequadas à regulamentação social das condições de trabalho nas actividades agrícolas, silvícolas ou pecuárias e à elevação do nível moral, económico e social das populações residentes nas zonas do continente e das ilhas adjacentes em que tais actividades tenham considerável relevância.
+Art. 2.º Incumbe à Comissão ora instituída estudar e propor as providências adequadas à regulamentação social das condições de trabalho nas actividades agrícolas, silvícolas ou pecuárias e à elevação do nível moral, económico e social das populações residentes nas zonas do continente e das ilhas adjacentes em que tais actividades tenham considerável relevância.
 
-###### Art. 3.º Compete em especial à Comissão:
+Art. 3.º Compete em especial à Comissão:
 
 1.º Estudar e propor, em relação aos trabalhadores rurais, normas relativas aos seguintes assuntos:
 
@@ -157,20 +180,20 @@ m) Fomento da habitação económica.
 
 5.º Colaborar com os serviços do Estado e das autarquias locais e as demais entidades legalmente reconhecidas as quais incumbem actividades de promoção do bem-estar das populações rurais, procurando, para o efeito, estabelecer os necessários acordos de cooperação, de modo a assegurar a maior eficiência da acção comum e o mais económico aproveitamento dos recursos próprios de cada uma dessas entidades.
 
-###### Art. 4.º A Comissão será presidida pelo vice-presidente do Conselho Superior da Previdência e da Habitação Económica e será composta de seis vogais, que compreenderão um especialista em assuntos económicos, um actuário, um médico, um funcionário superior do Instituto Nacional do Trabalho e Previdência, um especialista em problemas sociológicos e um representante da organização corporativa da lavoura a designar pela respectiva Corporação.
+Art. 4.º A Comissão será presidida pelo vice-presidente do Conselho Superior da Previdência e da Habitação Económica e será composta de seis vogais, que compreenderão um especialista em assuntos económicos, um actuário, um médico, um funcionário superior do Instituto Nacional do Trabalho e Previdência, um especialista em problemas sociológicos e um representante da organização corporativa da lavoura a designar pela respectiva Corporação.
 
 § 1.º Os vogais da Comissão serão nomeados em portaria do Ministro das Corporações e Previdência Social, que fixará por despacho as suas remunerações.
 
 § 2.º Ao mesmo Ministro competirá a nomeação do pessoal necessário para o bom desempenho das funções incumbidas à Comissão, podendo também, para o efeito, deslocar funcionários dos quadros do Ministério das Corporações e Previdência Social.
 
-###### Art. 5.º Será dada estreita colaboração à Comissão pela Junta Central das Casas do Povo, pelo Centro de Estudos da Junta da Acção Social e pelos serviços do Fundo do Desenvolvimento da Mão-de-Obra.
+Art. 5.º Será dada estreita colaboração à Comissão pela Junta Central das Casas do Povo, pelo Centro de Estudos da Junta da Acção Social e pelos serviços do Fundo do Desenvolvimento da Mão-de-Obra.
 
 § único. A Comissão poderá requisitar dos organismos corporativos e das instituições de previdência social os elementos de que necessite para a prossecução dos seus objectivos.
 
-###### Art. 6.º Os funcionários públicos chamados a desempenhar o lugar de vogal e os nomeados ou deslocados nos termos do disposto no § 2.º do artigo 4.º poderão exercer as suas funções em regime de comissão de serviço.
+Art. 6.º Os funcionários públicos chamados a desempenhar o lugar de vogal e os nomeados ou deslocados nos termos do disposto no § 2.º do artigo 4.º poderão exercer as suas funções em regime de comissão de serviço.
 
-###### Art. 7.º Os encargos derivados do funcionamento da Comissão serão suportados pelo Fundo Nacional do Abono de Família, pelo Fundo Comum das Casas do Povo e pelo Fundo de Desenvolvimento da Mão-de-Obra, nos termos que forem determinados pelo Ministro das Corporações e Previdência social.
+Art. 7.º Os encargos derivados do funcionamento da Comissão serão suportados pelo Fundo Nacional do Abono de Família, pelo Fundo Comum das Casas do Povo e pelo Fundo de Desenvolvimento da Mão-de-Obra, nos termos que forem determinados pelo Ministro das Corporações e Previdência social.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Maio de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José João Gonçalves de Proença.

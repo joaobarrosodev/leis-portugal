@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/01/01700/0006800074.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/1/2026/01/26/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/1-2026-1023994562
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-26T00:00:00Z'
+  retrieved_at: '2026-10-22T18:30:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 977fa4c215a85307c870727c012148fa9f263901a4261e61090f5d64c616cf1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4b61ecba004b3fc6417c10ac074635534bb67620b89dba0d8ecc53da78aa8d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:30:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
-- Transporte Marítimo
-- Transporte Aéreo
-- Iniciativa Legislativa
-- Assembleia da República
 - Açores
-- Subsídio de Apoio Social
-- Transporte de Passageiros
-- Subsídio Social de Mobilidade
+- Assembleia da República
+- Iniciativa Legislativa
+- Região Autónoma
 - Região Autónoma da Madeira
+- Subsídio de Apoio Social
+- Subsídio Social de Mobilidade
+- Transporte Aéreo
+- Transporte de Passageiros
+- Transporte Marítimo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1-a/2026/01/06/p/dre
@@ -119,16 +119,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/138/2025/03/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/138/2025/03/28/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:912256331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:912820667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:998824792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:998824793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:998824794:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:30:07Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +205,7 @@ Neste sentido, é imperativo que se proceda à alteração dos critérios e cond
 
 Não obstante o esforço de correção que este diploma procura introduzir, importa afirmar que este não pode ser considerado o modelo definitivo para a política de mobilidade aérea das Regiões Autónomas. A lógica compensatória que tem orientado o subsídio social de mobilidade revela-se, a prazo, insuficiente para assegurar a obrigação constitucional do Estado em garantir uma verdadeira continuidade territorial, exigindo uma evolução para um regime estruturalmente mais justo, simples e previsível. Findo o período transitório, impõe-se a transformação deste mecanismo numa «tarifa residente insular», assente num preço máximo para os residentes, garantindo transparência, estabilidade e igualdade de acesso ao transporte aéreo. Só através da criação de uma tarifa específica para as Regiões Autónomas será possível consolidar um sistema que não dependa de reembolsos posteriores, que reduza a carga administrativa para os cidadãos e que traduza, de forma efetiva, a obrigação constitucional do Estado com a coesão territorial e com o direito à mobilidade dos Madeirenses, Porto-Santenses e Açorianos.
 
-Assim, nos termos da alínea f) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea b) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, a Assembleia Legislativa da Região Autónoma da Madeira apresenta à Assembleia da República a seguinte proposta de lei:
+Assim, nos termos da alínea f) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea b) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, a Assembleia Legislativa da Região Autónoma da Madeira apresenta à Assembleia da República a seguinte proposta de lei:
 
 ###### Artigo 1.º — Objeto
 
@@ -189,7 +233,9 @@ São alterados os artigos 4.º, 5.º, 6.º, 15.º e 23.º do [Decreto-Lei n.º 3
 
 7 - O valor elegível das diferentes taxas pode, igualmente, ser regulamentado pela portaria referida no n.º 5.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Para efeitos de atribuição do SSM, deve constar na plataforma a que se refere o artigo 6.º a documentação referida no artigo 5.º-A.
 
@@ -203,7 +249,9 @@ São alterados os artigos 4.º, 5.º, 6.º, 15.º e 23.º do [Decreto-Lei n.º 3
 
 6 - A atribuição do SSM tem como pressuposto a elegibilidade dos beneficiários e o cumprimento das condições de atribuição e pagamento previstas exclusivamente no presente artigo, estando impedida a criação de outras por normas regulamentares.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -227,7 +275,9 @@ h) [...]
 
 3 - [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -247,7 +297,9 @@ c) Não realização da viagem por facto imputável ao beneficiário.
 
 6 - Não há lugar à reposição prevista na alínea c) do n.º 1 quando a não realização da viagem resulte de circunstâncias extraordinárias que não poderiam ter sido evitadas, não imputáveis ao beneficiário, objetivamente comprováveis, designadamente emergência médica, internamento ou outro impedimento grave, bem como falecimento de familiar próximo, catástrofe natural, acidente grave, restrições de autoridade pública ou evento excecional que torne impossível a deslocação.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]
 
@@ -273,11 +325,15 @@ b) Apresentar reclamações ou recursos;
 
 c) Obter confirmação de que a documentação foi recebida e se encontra em processamento.
 
-###### Artigo 3.º-B — Limitação da regulamentação administrativa
+Artigo 3.º-B
+
+Limitação da regulamentação administrativa
 
 Não podem ser introduzidos, por via de portaria ou de outro ato regulamentar, quaisquer critérios que limitem o acesso e operacionalidade ao SSM.
 
-###### Artigo 4.º-A — Forma de apuramento
+Artigo 4.º-A
+
+Forma de apuramento
 
 1 - O pagamento do valor variável mencionado no n.º 3 do artigo anterior, consubstancia um subsídio, pago ao beneficiário, que resulta da diferença entre o preço dos bilhetes one-way (OW) e round-trip (RT) pago às transportadoras, agências de viagem, entidades equiparadas ou seus representantes e agentes autorizados, e o montante de referência a suportar pelos beneficiários.
 
@@ -293,7 +349,9 @@ Não podem ser introduzidos, por via de portaria ou de outro ato regulamentar, q
 
 7 - O disposto neste artigo prevalece sobre todas e quaisquer disposições normativas e regulamentares, gerais e especiais, relativas às matérias nele reguladas.
 
-###### Artigo 5.º-A — Documentos comprovativos da elegibilidade
+Artigo 5.º-A
+
+Documentos comprovativos da elegibilidade
 
 1 - A atribuição do SSM obriga a que constem na plataforma a que se refere o artigo 7.º, ao abrigo da interoperabilidade entre esta e as plataformas das entidades públicas e dos operadores económicos, os seguintes documentos:
 
@@ -321,7 +379,7 @@ h) Documento comprovativo da realização da viagem emitido pela transportadora 
 
 5 - Os passageiros estudantes, para além da documentação referida nos números anteriores, devem entregar o documento emitido e autenticado pelo estabelecimento de ensino, que comprove estarem devidamente matriculados no ano letivo em curso e a frequentar o curso ministrado pelo referido estabelecimento de ensino.
 
-6 - Para além da documentação exigida nos n.<sup>os</sup>1 a 4, os passageiros residentes equiparados devem, conforme aplicável:
+6 - Para além da documentação exigida nos n.os1 a 4, os passageiros residentes equiparados devem, conforme aplicável:
 
 a) Apresentar declaração emitida pela entidade pública ou privada onde exercem funções comprovativa da sua situação profissional; ou
 
@@ -331,11 +389,11 @@ b) Apresentar documento comprovativo da residência habitual do progenitor, nos 
 
 8 - Para efeitos do número anterior, considera-se um documento comprovativo do custo do transporte aéreo, nomeadamente, o título de transporte retirado do Sistema de Distribuição Global.
 
-9 - A submissão de todos ou de parte dos documentos referidos nos n.<sup>os</sup>1 a 8 pode ser dispensada, em concretização do princípio de desmaterialização previsto no artigo 6.º, nos termos definidos na portaria a que se refere o artigo 7.º
+9 - A submissão de todos ou de parte dos documentos referidos nos n.os1 a 8 pode ser dispensada, em concretização do princípio de desmaterialização previsto no artigo 6.º, nos termos definidos na portaria a que se refere o artigo 7.º
 
-10 - Até à disponibilização da plataforma a que se refere o artigo 7.º, ou sempre que seja estritamente necessário submeter os documentos por outros meios, o beneficiário deve apresentar o original e entregar a cópia dos documentos identificados nos n.<sup>os</sup>1 a 8 à entidade prestadora do serviço de pagamento.
+10 - Até à disponibilização da plataforma a que se refere o artigo 7.º, ou sempre que seja estritamente necessário submeter os documentos por outros meios, o beneficiário deve apresentar o original e entregar a cópia dos documentos identificados nos n.os1 a 8 à entidade prestadora do serviço de pagamento.
 
-11 - Nos casos em que não seja possível a interoperabilidade entre as plataformas previstas no n.º 1, o beneficiário deve submeter na plataforma a que se refere o artigo 7.º os documentos mencionados nos n.<sup>os</sup>1 a 8.
+11 - Nos casos em que não seja possível a interoperabilidade entre as plataformas previstas no n.º 1, o beneficiário deve submeter na plataforma a que se refere o artigo 7.º os documentos mencionados nos n.os1 a 8.
 
 12 - Não pode ser solicitada a apresentação de documentos adicionais aos referidos no presente artigo, com vista a comprovar a elegibilidade do beneficiário, bem como para efeitos de proceder ao pagamento do subsídio.»
 
@@ -353,4 +411,6 @@ A presente lei entra em vigor no dia seguinte ao da sua aprovação, sem prejuí
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 21 de janeiro de 2026.
 
-**A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.**
+A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.
+
+119947378

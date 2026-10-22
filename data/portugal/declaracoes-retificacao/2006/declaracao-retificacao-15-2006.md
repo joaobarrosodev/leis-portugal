@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/15/2006/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-2006-667149
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-17T00:00:00Z'
+  retrieved_at: '2026-10-22T19:06:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69233b1d38946e0bf1401c0ab0ce5d5643cccf656c852857d007434ddfa3e353
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38c8e58124709a7ea1d08488647646c3ac916a2c1e04230a5e9f43a7978c7acd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:06:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,43 +66,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Alteração Orçamental
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
 - AVAL do Estado
-- Investigação Científica e Tecnológica
+- Benefícios Fiscais
 - Definição de Competências
 - Dívida Pública
-- Empreitada de Obras Públicas
-- União Europeia
-- Projeto de Investimento
-- Gestão Orçamental
-- Pagamento
-- Orçamento Regional
-- Tratamento de Resíduos
 - Embarcação de Pesca
-- Benefícios Fiscais
+- Empreitada de Obras Públicas
+- Gestão Orçamental
+- Infraestrutura Turística
+- Investigação Científica e Tecnológica
+- Orçamento Regional
+- Pagamento
+- Projeto de Investimento
 - Serviço Regional de Saúde
-- Açores
 - Transferência de Verbas
+- Tratamento de Resíduos
 - Turismo de Habitação
 - Turismo Rural
-- Infraestrutura Turística
+- União Europeia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/3/2006/01/16/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/3/2006/01/16/a/dre
+- type: cites
+  target: pt:dre:533643:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-legislativo-regional:3/2006/A
+  label: "Rectifica o Decreto Legislativo Regional n.º 3/2006/A, de 16 de Janeiro, DR.IS-A [11]\0\0"
+  source: null
+  date: '2006-01-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:06:01Z'
   warnings: []
   errors: []
 ---

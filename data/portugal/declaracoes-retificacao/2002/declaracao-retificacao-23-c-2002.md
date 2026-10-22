@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 148/2002, 1º Suplemento, Série I-A de 2002-06-29
   number: '148'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5118-(60) a 5118-(60)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/06/148a01/00600060.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/23-c/2002/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/23-c-2002-527182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-06-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:00:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: efd7e20039ac11e0638a7b7fead070bccae64a0133f9e42966d83c729cc8f508
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a4c3242d6ea876355ecd503f83c18b2a7b1d7bc09adf10b8d3e98c2449dcddcb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:00:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
+- Aviação Civil
 - Definição de Competências
-- Instituto Nacional de Aviação Civil
 - Estatuto
 - Fiscalização
 - Homologação
+- Instituto Nacional de Aviação Civil
 - Instituto Público
 - Licenciamento
 - Ministério do Equipamento Social
+- Normalização
 - Organização Internacional da Aviação Civil
 - Receita
-- Aviação Civil
 - Regulamento
 - Sanção
-- Normalização
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133/1998/05/15/p/dre
@@ -91,16 +91,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/145/2002/05/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/145/2002/05/21/p/dre
+- type: cites
+  target: pt:dre:158618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522380:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:00:24Z'
   warnings: []
   errors: []
 ---

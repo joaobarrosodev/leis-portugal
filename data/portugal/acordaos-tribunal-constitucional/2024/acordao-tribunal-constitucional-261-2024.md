@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/04/08200/0000300012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/261/2024/04/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/261-2024-863010305
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-04-26T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc883e5ba3d015afa99b3c88aefd34e734c944100bb7467c759db6d1704f9bff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99d6762554afedded78ba4b5597cfa544da31900dc73db7318892479e7ddc6c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,15 @@ subjects:
 - Instituto de Gestão Financeira da Segurança Social
 - Tribunal Administrativo e Fiscal
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:42/2001
+  label: Declara inconstitucional, com força obrigatória geral, a norma que resulta da interpretação conjugada dos artigos
+    3.º-A, n.º 3, e 5.º, n.º 1, do Decreto-Lei n.º 42/2001, de 9 de fevereiro, Diário da República n.º 34/2001, Série I-A
+    (na redação introduzida, respetivamente, pela Lei n.º 2/2020, de 31 de março, e pelo Decreto­‑Lei n.º 63/2014, de 28 de
+    abril), segundo a qual a deliberação do conselho diretivo do Instituto de Gestão Financeira da Segurança Social, I. P.,
+    prevista no primeiro dos preceitos, define a competência territorial de um Tribunal Administrativo e Fiscal
+  source: null
+  date: '2001-02-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/42/2001/02/09/p/dre
   label: null
@@ -91,16 +100,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/42/2001/07/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/42/2001/07/12/p/dre
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139679203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442305:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:29Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +148,7 @@ I - Relatório
 
 1 - O representante do Ministério Público junto do Tribunal Constitucional promoveu, ao abrigo do disposto nos artigos 281.º, n.º 3, da Constituição da República Portuguesa e 82.º da Lei n.º 28/82 de 15 de novembro (Lei da Organização, Funcionamento e Processo do Tribunal Constitucional, adiante designada por LTC), a abertura de um processo de fiscalização abstrata sucessiva da constitucionalidade, com vista à apreciação e à declaração, com força obrigatória geral, da inconstitucionalidade da norma que resulta da interpretação conjugada dos artigos 3.º-A, n.º 3, e 5.º, n.º 1, do [Decreto-Lei n.º 42/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2001-319948), de 9 de fevereiro (na redação introduzida, respetivamente, pela [Lei n.º 2/2020](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), de 31 de março, e pelo [Decreto-Lei n.º 63/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2014-25343726), de 28 de abril), segundo a qual a deliberação do conselho diretivo do Instituto de Gestão Financeira da Segurança Social, I. P., prevista no primeiro dos preceitos define a competência territorial de um Tribunal Administrativo e Fiscal.
 
-O requerente fundamenta o seu pedido com a circunstância de a referida norma ter sido julgada inconstitucional em mais de três casos concretos pelo Tribunal Constitucional, especificamente nos Acórdãos n.<sup>os</sup>797/2022, 798/2022, 799/2022 e 179/2023 (2.ª Secção), e ainda no Acórdão n.º 327/2023 (Plenário), retificado pelo Acórdão n.º 394/2023), tendo todas as referidas decisões transitado em julgado. No mesmo sentido foram proferidos os acórdãos n.<sup>os</sup>402/2023 (Plenário), 403/2023 (Plenário), 635/2023 (Plenário), 428/2023 e 650/2023 (da 1.ª Secção), 447/2023, 448/2023 e 577/2023 (todos da 3.ª Secção), tendo todos transitado em julgado.
+O requerente fundamenta o seu pedido com a circunstância de a referida norma ter sido julgada inconstitucional em mais de três casos concretos pelo Tribunal Constitucional, especificamente nos Acórdãos n.os797/2022, 798/2022, 799/2022 e 179/2023 (2.ª Secção), e ainda no Acórdão n.º 327/2023 (Plenário), retificado pelo Acórdão n.º 394/2023), tendo todas as referidas decisões transitado em julgado. No mesmo sentido foram proferidos os acórdãos n.os402/2023 (Plenário), 403/2023 (Plenário), 635/2023 (Plenário), 428/2023 e 650/2023 (da 1.ª Secção), 447/2023, 448/2023 e 577/2023 (todos da 3.ª Secção), tendo todos transitado em julgado.
 
 2 - Notificado para se pronunciar sobre o pedido, nos termos dos artigos 54.º e 55.º, n.º 3, da LTC, o Senhor Primeiro-Ministro veio apresentar resposta a 3 de outubro de 2023, tendo oferecido o merecimento dos autos.
 
@@ -129,7 +162,7 @@ a) Verificação dos pressupostos
 
 4 - A fiscalização abstrata da inconstitucionalidade de uma norma pode ser requerida sempre que a mesma tiver sido julgada inconstitucional em três casos concretos pelo Tribunal Constitucional. Trata-se de um processo de generalização, com fundamento na repetição do julgado (artigo 281.º, n.º 3, da Constituição e artigo 82.º da LTC).
 
-No presente processo, verifica-se que a norma objeto do pedido foi julgada inconstitucional, em sede de fiscalização concreta da constitucionalidade, em mais de três casos. Efetivamente, após o primeiro juízo de inconstitucionalidade proferido no Acórdão n.º 755/2022 (2.ª Secção), a norma foi subsequentemente julgada inconstitucional nos Acórdãos n.<sup>os</sup>797/2022, 798/2022, 799/2022 e 179/2023 (todos da 2.ª Secção), 402/2023 (Plenário), 403/2023 (Plenário), 635/2023 (Plenário), 428/2023 e 650/2023 (da 1.ª Secção), 447/2023, 448/2023 e 577/2023 (todos da 3.ª Secção), bem como no Acórdão n.º 327/2023 (Plenário), retificado pelo Acórdão n.º 394/2023. Este último juízo de inconstitucionalidade foi proferido na sequência de recurso do Ministério Público para o Plenário deste Tribunal ao abrigo do artigo 79.º-D, n.º 1, da LTC, por divergência de decisões entre o Acórdão n.º 755/2022 e a Decisão Sumária n.º 538/2022 (1.ª Secção).
+No presente processo, verifica-se que a norma objeto do pedido foi julgada inconstitucional, em sede de fiscalização concreta da constitucionalidade, em mais de três casos. Efetivamente, após o primeiro juízo de inconstitucionalidade proferido no Acórdão n.º 755/2022 (2.ª Secção), a norma foi subsequentemente julgada inconstitucional nos Acórdãos n.os797/2022, 798/2022, 799/2022 e 179/2023 (todos da 2.ª Secção), 402/2023 (Plenário), 403/2023 (Plenário), 635/2023 (Plenário), 428/2023 e 650/2023 (da 1.ª Secção), 447/2023, 448/2023 e 577/2023 (todos da 3.ª Secção), bem como no Acórdão n.º 327/2023 (Plenário), retificado pelo Acórdão n.º 394/2023. Este último juízo de inconstitucionalidade foi proferido na sequência de recurso do Ministério Público para o Plenário deste Tribunal ao abrigo do artigo 79.º-D, n.º 1, da LTC, por divergência de decisões entre o Acórdão n.º 755/2022 e a Decisão Sumária n.º 538/2022 (1.ª Secção).
 
 O processo foi promovido pelo Ministério Público, que tem legitimidade para tal, nos termos do artigo 82.º da LTC.
 
@@ -211,7 +244,7 @@ Assim, [...] os artigos 3.º-A, n.º 3 e 5.º, n.º 1, ambos do [Decreto-Lei n.�
 
 "8.1 - O princípio do processo justo e equitativo, em especial em matéria administrativa, acha-se agasalhado nos artigos 20.º, n.º 4 e 268.º, n.º 4, ambos da Constituição da República Portuguesa, e, para além do mais, por ele se postula o “direito à igualdade de armas ou direito à igualdade de posições no processo, com proibição de todas as discriminações ou diferenças de tratamento arbitrárias” (v. J. J. GOMES CANOTILHO e VITAL MOREIRA, Constituição da República Portuguesa Anotada, vol. I, Coimbra Ed., 2007, p. 415). O confronto judiciário entre portadores de interesses opostos, seja o caso da administração e de um particular, pois, deverá pautar-se pela paridade de oportunidades de litigância, de direitos conferidos e de ónus impostos (especialmente se cominatórios ou preclusivos do exercício de faculdades processuais), adotando uma fórmula reguladora que garanta a simetria de posições entre demandante e demandado e que impeça a criação de desníveis em favor ou desfavor de qualquer um dos intervenientes em confronto que possam enviesar o procedimento judiciário e constituir, só por si, fator operante da decisão, como tal apto a influenciar o sentido de desfecho da causa.
 
-Em essência, exige o princípio que seja concedida “a possibilidade de as partes exercerem, com igualdade de armas, uma defesa efetiva dos seus direitos ou interesses legalmente protegidos e de, numa base paritária, poderem influenciar a decisão judicial” (v. Acórdão do TC n.º 29/2020; v., também, entre muitos outros, Acórdãos do TC n.<sup>os</sup>147/92, 346/92, 223/95 e 738/2021) e é também neste contexto jurídico-constitucional que importa levar em conta o programa normativo sob fiscalização.
+Em essência, exige o princípio que seja concedida “a possibilidade de as partes exercerem, com igualdade de armas, uma defesa efetiva dos seus direitos ou interesses legalmente protegidos e de, numa base paritária, poderem influenciar a decisão judicial” (v. Acórdão do TC n.º 29/2020; v., também, entre muitos outros, Acórdãos do TC n.os147/92, 346/92, 223/95 e 738/2021) e é também neste contexto jurídico-constitucional que importa levar em conta o programa normativo sob fiscalização.
 
 Na verdade, cabe relembrar que a regulamentação em causa constitui parte integrante da disciplina jurídico-processual de instâncias jurisdicionais (de natureza executiva) em que ISS, IP é parte, ou seja, em que se apresenta como sujeito jurídico de Direito público em exercício de pretensão própria sobre particulares, estando-lhe conferida, por isso, legitimidade ativa na instância.
 
@@ -223,13 +256,13 @@ Veja-se que, por esta via, é possível a ISS, IP gerir a distribuição deste c
 
 A transferência de competências admitirá a ISS, IP, por exemplo, concentrar o julgamento dos incidentes em ações executivas em que demanda em Tribunais que exibam entendimentos mais protetivos dos seus interesses, potenciando maior sucesso na litigância no cômputo global. Pense-se, em incidente de oposição à execução, na controvérsia que existe sobre o padrão probatório apto a ilidir a presunção de culpa sobre gestores, constitutiva de responsabilidade por dívidas contributivas da empresa gerida (artigos 23.º, n.º 1 e 24.º, n.º 1, alínea b), ambos da lei geral tributária e artigos 342.º, n.º 1 e 344.º, n.º 1, ambos do Código Civil [CC]); ou, em incidente para verificação e graduação de créditos, a divisão jurisprudencial que existiu sobre a prevalência do privilégio imobiliário por contribuições a ISS, IP sobre hipotecas (artigos 686.º, n.º 1 e 751.º, ambos do CC e artigo 11.º do [Decreto-Lei n.º 103/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1980-442305), de 9 de Maio). À semelhança destas questões, muitas outras importarão divisão jurisprudencial, especialmente em 1.ª instância, e não há dúvidas de que a proliferação de dado entendimento poderá conferir a uma das partes grande vantagem sobre a outra.
 
-Caso a direção de ISS, IP opte por acumular competências em Tribunais Administrativos e Fiscais que adotem entendimentos mais benignos para a sua pretensão executiva, reduzindo a atividade jurisdicional de Tribunais mais renitentes em adotar leituras pro fisco, é bem possível que essa decisão insufle de forma importante o sucesso global do seu contencioso, especialmente quando se leve em conta o volume deste tipo de litigância estatal e as condições de irrecorribilidade das decisões de 1.ª instância (cf. artigo 280.º, n.<sup>os</sup>1 e 2, do CPPT). Este efeito será obtido do programa normativo sindicado, porém e como fica evidente, com flagrante sacrifício da igualdade processual entre litigantes.
+Caso a direção de ISS, IP opte por acumular competências em Tribunais Administrativos e Fiscais que adotem entendimentos mais benignos para a sua pretensão executiva, reduzindo a atividade jurisdicional de Tribunais mais renitentes em adotar leituras pro fisco, é bem possível que essa decisão insufle de forma importante o sucesso global do seu contencioso, especialmente quando se leve em conta o volume deste tipo de litigância estatal e as condições de irrecorribilidade das decisões de 1.ª instância (cf. artigo 280.º, n.os1 e 2, do CPPT). Este efeito será obtido do programa normativo sindicado, porém e como fica evidente, com flagrante sacrifício da igualdade processual entre litigantes.
 
 Talvez com maior importância prática, as normas sob sindicância permitem a ISS, IP gerar dificuldades acrescidas para executados, seus opositores nas instâncias executivas, pela deslocalização dos processos judiciais em que são demandados, impondo-lhes encargos adicionais que podem significar a inviabilidade económica global do litígio (pense-se em causas de menor valor) e dificultando de forma importante o seu acesso aos autos para consulta e preparação de defesa.
 
 Se se pretender um exemplo concreto que ilustre o que viemos de dizer, veja-se o caso que subjaz ao presente recurso e no que lhe está ínsito: um particular residente em Lisboa, a propósito de uma dívida contributiva associada à sua atividade profissional de € 1.488,96, vê a competência para o julgamento da oposição à ação executiva que lhe foi movida por ISS, IP deslocada, por força de deliberação do órgão diretivo desta entidade, para o Tribunal de Mirandela, Bragança, a cerca de 460 kms da sua residência e a mais de cinco horas de viagem. Enquanto ISS, IP beneficia de um órgão executivo sediado na localidade, José Guilherme Nunes vê-se obrigado a gerir o litígio a grande distância, incorrendo nos custos inerentes, designadamente com deslocações de mandatário, e suportando todo o leque de inconvenientes e dificuldades acrescidas que a circunstância acarreta.
 
-É certo que a atividade administrativa está também vinculada à Constituição da República Portuguesa (artigo 266.º, n.<sup>os</sup>1 e 2 da Lei Fundamental) e que, em princípio, a deliberação do conselho diretivo de ISS, IP teria de levar em conta estes parâmetros. No entanto, como já fez ver a doutrina, “não se pode olvidar que a administração deve sempre, em qualquer caso, prosseguir o interesse público da administração, agindo, nesta perspetiva, com parcialidade, ‘na medida que lhe cumpre defender um interesse [o da administração] que pode estar em conflito com o interesse de um particular’ (cf., sublinhando a diferença BATISTA MACHADO, Introdução ao Direito e ao Discurso Legitimador, págs. 148-149)” (v. JORGE MIRANDA e RUI MEDEIROS, Constituição Portuguesa Anotada, vol. III, Univ. Católica Ed., 2020, p. 40)
+É certo que a atividade administrativa está também vinculada à Constituição da República Portuguesa (artigo 266.º, n.os1 e 2 da Lei Fundamental) e que, em princípio, a deliberação do conselho diretivo de ISS, IP teria de levar em conta estes parâmetros. No entanto, como já fez ver a doutrina, “não se pode olvidar que a administração deve sempre, em qualquer caso, prosseguir o interesse público da administração, agindo, nesta perspetiva, com parcialidade, ‘na medida que lhe cumpre defender um interesse [o da administração] que pode estar em conflito com o interesse de um particular’ (cf., sublinhando a diferença BATISTA MACHADO, Introdução ao Direito e ao Discurso Legitimador, págs. 148-149)” (v. JORGE MIRANDA e RUI MEDEIROS, Constituição Portuguesa Anotada, vol. III, Univ. Católica Ed., 2020, p. 40)
 
 Por outro lado, inserindo-se a decisão num espaço de discricionariedade administrativa e conferindo, por isso, a inerente latitude ao órgão diretivo de ISS, IP, o seu controlo jurisdicional acha-se condicionado. Em qualquer caso e de radical, o simples facto de uma das partes dispor desta prerrogativa, submetendo a outra, que dela não dispõe, temos quanto baste para que se atinja, de forma constitucionalmente incomportável, a necessária equidade do processo judicial-tributário.
 
@@ -257,7 +290,7 @@ Seja como for, não é essa a dimensão normativa do preceito que aqui está em 
 
 Em face do exposto, concluímos que os artigos 3.º-A, n.º 3 e 5.º, n.º 1, ambos do [Decreto-Lei n.º 42/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2001-319948), de 9 de fevereiro, quando interpretados no sentido de permitirem que, por via da deliberação do conselho executivo de ISS, IP referida no primeiro dos dispositivos legais (seja a [Deliberação n.º 793/2020](https://diariodarepublica.pt/dr/detalhe/deliberacao/793-2020-139679203)), se altere o âmbito de competências dos Tribunais Administrativos e Fiscais (seja do TAF de Mirandela), são materialmente inconstitucionais por violação do artigo 203.º da Constituição da República Portuguesa".
 
-8 - Concordando-se com esta decisão e respetiva fundamentação, deve proceder-se à generalização do juízo de inconstitucionalidade peticionada pelo requerente, constante do Acórdão n.º 327/2023 (Plenário), retificado pelo Acórdão n.º 394/2023, antes afirmada pelos Acórdãos do TC n.<sup>os</sup>797/2022, 798/2022, 799/2022 e 179/2023 (todos da 2.ª Secção), bem como pelos acórdãos n.<sup>os</sup>402/2023 (Plenário), 403/2023 (Plenário), 635/2023 (Plenário), 428/2023 e 650/2023 (da 1.ª Secção), 447/2023, 448/2023 e 577/2023 (todos da 3.ª Secção).
+8 - Concordando-se com esta decisão e respetiva fundamentação, deve proceder-se à generalização do juízo de inconstitucionalidade peticionada pelo requerente, constante do Acórdão n.º 327/2023 (Plenário), retificado pelo Acórdão n.º 394/2023, antes afirmada pelos Acórdãos do TC n.os797/2022, 798/2022, 799/2022 e 179/2023 (todos da 2.ª Secção), bem como pelos acórdãos n.os402/2023 (Plenário), 403/2023 (Plenário), 635/2023 (Plenário), 428/2023 e 650/2023 (da 1.ª Secção), 447/2023, 448/2023 e 577/2023 (todos da 3.ª Secção).
 
 Assim, resta concluir pela declaração de inconstitucionalidade, com força obrigatória geral, da norma que resulta da interpretação conjugada dos artigos 3.º-A, n.º 3, e 5.º, n.º 1, do [Decreto-Lei n.º 42/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2001-319948), de 9 de fevereiro (na redação introduzida, respetivamente, pela [Lei n.º 2/2020](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), de 31 de março, e pelo [Decreto-Lei n.º 63/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2014-25343726), de 28 de abril), segundo a qual a deliberação do conselho diretivo do Instituto de Gestão Financeira da Segurança Social, I. P., prevista no primeiro dos preceitos, define a competência territorial de um Tribunal Administrativo e Fiscal, por violação dos artigos 112.º, n.º 5, 165.º, n.º 1, alínea p), e 20.º, n.º 4, da Constituição a República Portuguesa.
 
@@ -268,3 +301,5 @@ Pelo exposto, decide-se declarar inconstitucional, com força obrigatória geral
 Lisboa, 2 de abril de 2024. - António José da Ascensão Ramos - João Carlos Loureiro - José Eduardo Figueiredo Dias - Rui Guerra da Fonseca (remetendo para a minha declaração de voto aposta no Acórdão n.º 402/23) - José Teles Pereira - Carlos Medeiros de Carvalho - Gonçalo Almeida Ribeiro - Dora Lucas Neto - Mariana Canotilho - Joana Fernandes Costa - Afonso Patrão - Maria Benedita Urbano (vencida pelas razões constantes da minha declaração de voto junto ao Acórdão n.º 327/2023) - José João Abrantes.
 
 Acórdão retificado pelo Acórdão n.º 326/24, de 17 de abril de 2024.
+
+117629249

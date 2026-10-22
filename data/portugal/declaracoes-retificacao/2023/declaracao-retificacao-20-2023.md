@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/09/18200/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/20/2023/09/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/20-2023-221797718
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-19T00:00:00Z'
+  retrieved_at: '2026-10-22T19:14:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 914dc9c6a5b881cecce343623a081566d255dcd99203a409cdde981f16cb00cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0079f412e03dd88ea1fbf40034578224172ce1135aabc2f76600bec2cdfae1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:14:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/rgtassrep/1/2023/08/09/p/dre
   label: null
   source: http://data.dre.pt/eli/rgtassrep/1/2023/08/09/p/dre
+- type: cites
+  target: pt:dre:141382322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216846231:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:14:23Z'
   warnings: []
   errors: []
 ---
@@ -138,3 +146,5 @@ deve ler-se:
 «1 - A Assembleia da República elabora, nos termos da lei, relatórios sobre matérias da sua competência legislativa reservada pendentes de decisão em órgãos da União Europeia e sobre as demais iniciativas das instituições europeias, assegurando a análise do seu conteúdo e, quando aplicável, o respeito pelos princípios da subsidiariedade e da proporcionalidade.»
 
 Assembleia da República, 13 de setembro de 2023. - O Secretário-Geral, Albino de Azevedo Soares.
+
+116855172

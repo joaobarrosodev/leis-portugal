@@ -26,9 +26,7 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -49,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/182/2026/09/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2026-1168979172
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-10T00:00:00Z'
+  retrieved_at: '2026-10-22T18:52:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec58cf9deab42319b4e8cd0af67ed9f4c2faa092ca1b729da02242c84c0ded7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3445b6b022daabbf5e7bd3956a8451efbc9f96aa5175a2fdb98d45fef3d3159
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:52:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -161,6 +159,40 @@ relationships:
   target: eli:http://data.europa.eu/eli
   label: null
   source: http://data.europa.eu/eli
+- type: cites
+  target: pt:dre:131124444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:898867717:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1170726646:por
+  label: Retificada a alínea e) do artigo 3.º pelo(a) Declaração de Retificação n.º 33-A/2026/1 - Diário da República n.º
+    178/2026, Suplemento, Série I de 2026-09-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/33-a-2026-1170726646
+  date: '2026-09-13'
 - type: transposes
   target: celex:32003L0087
   label: null
@@ -171,14 +203,14 @@ relationships:
   source: null
 article_structure:
   article_count: 30
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:52:58Z'
   warnings: []
   errors: []
 ---
@@ -257,7 +289,7 @@ i) «Licença de emissão», a licença, transferível em conformidade com as di
 
 j) «Título de emissão de gases com efeito de estufa (título de emissão)», o título emitido de acordo com o disposto no capítulo ii;
 
-k) «Tonelada equivalente de dióxido de carbono», uma tonelada métrica de dióxido de carbono (CO<sub>2</sub>), ou uma quantidade de qualquer outro gás com efeito de estufa referido no anexo ii ao presente decreto-lei, com um potencial de aquecimento global equivalente.
+k) «Tonelada equivalente de dióxido de carbono», uma tonelada métrica de dióxido de carbono (CO2), ou uma quantidade de qualquer outro gás com efeito de estufa referido no anexo ii ao presente decreto-lei, com um potencial de aquecimento global equivalente.
 
 ###### Artigo 4.º — Autoridade nacional competente
 
@@ -313,7 +345,9 @@ b) Coordenar a sua atuação com a da ApC, I. P., para assegurar a necessária a
 
 3 - A ApC, I. P., e a AT, conjuntamente com outras entidades relevantes, cooperam entre si para o estabelecimento de práticas e procedimentos administrativos que possam garantir a eficácia do disposto no presente decreto-lei e no [Regulamento de Execução (UE) 2018/2066](https://data.europa.eu/eli/reg/2018/2066/oj?locale=pt), da Comissão, de 19 de dezembro de 2018.
 
-### CAPÍTULO II — TÍTULO DE EMISSÃO DE GASES COM EFEITO DE ESTUFA
+### CAPÍTULO II
+
+## TÍTULO DE EMISSÃO DE GASES COM EFEITO DE ESTUFA
 
 ###### Artigo 7.º — Obrigatoriedade de existência de título de emissão de gases com efeito de estufa
 
@@ -519,7 +553,7 @@ b) Que sejam consideradas como tendo sido capturadas e utilizadas de tal forma q
 
 ###### Artigo 19.º — Penalização por emissões excedentárias
 
-1 - Sem prejuízo do disposto no artigo 24.º, a partir de 2029, a entidade regulamentada que não devolva, até 31 de maio de cada ano civil, licenças de emissão correspondentes às emissões verificadas no ano anterior, tal como comunicadas nos termos do n.º 3 do artigo 15.º, ou estimadas nos termos do artigo 17.º, fica sujeita ao pagamento de uma penalização pelas emissões excedentárias de 100,00 € por cada tonelada de CO<sub>2</sub>equivalente emitida, relativamente à qual não devolveu licenças.
+1 - Sem prejuízo do disposto no artigo 24.º, a partir de 2029, a entidade regulamentada que não devolva, até 31 de maio de cada ano civil, licenças de emissão correspondentes às emissões verificadas no ano anterior, tal como comunicadas nos termos do n.º 3 do artigo 15.º, ou estimadas nos termos do artigo 17.º, fica sujeita ao pagamento de uma penalização pelas emissões excedentárias de 100,00 € por cada tonelada de CO2equivalente emitida, relativamente à qual não devolveu licenças.
 
 2 - O pagamento da penalização prevista no número anterior não dispensa a entidade regulamentada da obrigação de devolver, aquando da devolução das licenças de emissão relativas ao ano civil subsequente, uma quantidade de licenças de emissão equivalente às emissões excedentárias.
 
@@ -575,7 +609,7 @@ d) A violação da obrigação de envio do relatório de melhoria, nos termos do
 
 4 - A tentativa e a negligência são puníveis nos termos do disposto na lei-quadro das contraordenações ambientais.
 
-5 - Pode ser objeto de publicidade, nos termos do disposto no artigo 38.º da lei-quadro das contraordenações ambientais, a condenação pela prática das infrações muito graves e graves previstas nos n.<sup>os</sup>1 e 2, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstratamente aplicável.
+5 - Pode ser objeto de publicidade, nos termos do disposto no artigo 38.º da lei-quadro das contraordenações ambientais, a condenação pela prática das infrações muito graves e graves previstas nos n.os1 e 2, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstratamente aplicável.
 
 ###### Artigo 21.º — Instrução e decisão dos processos
 
@@ -649,19 +683,19 @@ Para efeitos do previsto no n.º 1 do artigo 6.º e no n.º 3 do artigo 17.º, o
 
 1 - As entidades regulamentadas que desenvolvam a atividade descrita no anexo i ao presente decreto-lei devem apresentar um pedido de atribuição do título de emissão, nos termos do artigo 8.º, no prazo de 30 dias após a entrada em vigor do presente decreto-lei.
 
-2 - No período compreendido entre 1 de janeiro de 2025 e a data de entrada em vigor do presente decreto-lei, para efeitos dos n.<sup>os</sup>1 e 3 do artigo 15.º, a entidade regulamentada que se enquadre na situação prevista no n.º 1, e desde que apresente um pedido de atribuição do título de emissão no prazo aí estipulado, pode recorrer a uma metodologia de monitorização simplificada de acordo com o previsto no [Regulamento de Execução (UE) 2018/2066](https://data.europa.eu/eli/reg/2018/2066/oj?locale=pt), da Comissão, de 19 de outubro de 2018.
+2 - No período compreendido entre 1 de janeiro de 2025 e a data de entrada em vigor do presente decreto-lei, para efeitos dos n.os1 e 3 do artigo 15.º, a entidade regulamentada que se enquadre na situação prevista no n.º 1, e desde que apresente um pedido de atribuição do título de emissão no prazo aí estipulado, pode recorrer a uma metodologia de monitorização simplificada de acordo com o previsto no [Regulamento de Execução (UE) 2018/2066](https://data.europa.eu/eli/reg/2018/2066/oj?locale=pt), da Comissão, de 19 de outubro de 2018.
 
 Visto e aprovado em Conselho de Ministros de 9 de julho de 2026. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - José Maria Gonçalves Pereira Brandão de Brito - Maria da Graça Carvalho.
 
-**Promulgado em 2 de setembro de 2026.**
+Promulgado em 2 de setembro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 4 de setembro de 2026.**
+Referendado em 4 de setembro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO I
 
@@ -688,14 +722,18 @@ Atividade do Comércio Europeu de Licenças de Emissão para os Sectores dos Edi
 
 Gases com efeito de estufa
 
-Dióxido de carbono (CO<sub>2</sub>).
+Dióxido de carbono (CO2).
 
-Metano (CH<sub>4</sub>).
+Metano (CH4).
 
-Óxido nitroso (N<sub>2</sub>O).
+Óxido nitroso (N2O).
 
 Hidrofluorocarbonetos (HFC).
 
 Perfluorocarbonetos (PFC).
 
 Hexafluoreto de enxofre (SF6).
+
+119949550
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:24px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { min-height:63px; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { min-height:15px; } .Tbl12 { min-height:34px; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; }

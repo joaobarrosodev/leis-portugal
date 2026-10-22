@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/31/2026/01/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/31-2026-1022092628
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-23T00:00:00Z'
+  retrieved_at: '2026-10-22T18:29:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b52864fdcc8002d61c6cca8fdfa729de2a107f5c4a6e0f97fc81feaccfe6da14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f8952620b68cd98c6e48f58013f78dafb1d0a498640d3c51027e0e3e25c3882
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:29:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Energia Elétrica
+- Autoridade da Mobilidade e dos Transportes
 - Definição de Competências
-- Regulamentação de Atos Legislativos
-- União Europeia
+- Energia Elétrica
+- Entidade Reguladora dos Serviços Energéticos
 - Mobilidade Elétrica
 - Programa para a Mobilidade Elétrica
-- Veículo Elétrico
-- Entidade Reguladora dos Serviços Energéticos
 - Rede Elétrica de Serviço Público
 - Rede Elétrica Nacional
-- Autoridade da Mobilidade e dos Transportes
+- Regulamentação de Atos Legislativos
+- União Europeia
+- Veículo Elétrico
 relationships:
 - type: cites
   target: celex:32010L0040
@@ -106,16 +106,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/32/2013/05/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/32/2013/05/10/p/dre
+- type: cites
+  target: pt:dre:261161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928937303:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:29:52Z'
   warnings: []
   errors: []
 ---
@@ -176,4 +184,6 @@ Assim, ao abrigo do n.º 2 do artigo 19.º do [Decreto-Lei n.º 93/2025](https:/
 
 2 - A EADME aprova as regras técnicas a que se refere o artigo 2.º no prazo máximo de 60 dias úteis a contar da entrada em vigor da presente portaria.
 
-**O Ministro das Infraestruturas e Habitação, Miguel Martinez de Castro Pinto Luz, em 20 de janeiro de 2026. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 19 de janeiro de 2026.**
+O Ministro das Infraestruturas e Habitação, Miguel Martinez de Castro Pinto Luz, em 20 de janeiro de 2026. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 19 de janeiro de 2026.
+
+119947363

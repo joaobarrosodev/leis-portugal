@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/282-c/2026/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/282-c-2026-1142816978
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:45:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9534d21c818dc9ff4dc4d240a3b56951e7bc52652e526a839e55e26cca1cb610
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8da5da6a0a590680592586af486cd35bf1c567382109eafd6a4c6790136d7b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:45:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Avaliação do Pessoal
 - Centro de Estudos Judiciários
 - Pessoal Dirigente
 - SIADAP
-- Avaliação do Pessoal
 - Trabalhador
 relationships:
 - type: cites
@@ -96,16 +96,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/222/2009/02/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/222/2009/02/26/p/dre
+- type: cites
+  target: pt:dre:1006464123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836437684:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:222/2009
+  label: Revoga, a partir de 1 de julho de 2026, a Portaria n.º 222/2009, de 26 de fevereiro, Diário da República n.º 40/2009,
+    Série I
+  source: null
+  date: '2009-02-26'
 article_structure:
   article_count: 15
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:45:43Z'
   warnings: []
   errors: []
 ---
@@ -206,4 +236,6 @@ A presente portaria pode ser revista decorrido o prazo de dois anos a contar da 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 30 de junho de 2026. - A Ministra da Justiça, Rita Alarcão Júdice, em 29 de junho de 2026.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 30 de junho de 2026. - A Ministra da Justiça, Rita Alarcão Júdice, em 29 de junho de 2026.
+
+119948947

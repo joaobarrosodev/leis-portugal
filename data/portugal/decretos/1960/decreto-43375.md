@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43375-1960-512851
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-12-05T00:00:00Z'
+  retrieved_at: '2026-10-22T19:21:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b0fe1e7f41a45334c9792aaee7b48b58c5063b4cb69539469eed787371ed934
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91dee0c2d1ec159002587d0f4c84cac19a0bb2465606d2a4380b3615f9d22bc3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:21:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477145:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:21:23Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +112,7 @@ Disposições especiais
 
 A) Cabo Verde
 
-###### Artigo 1.º No orçamento da receita ordinária são introduzidas as seguintes alterações:
+Artigo 1.º No orçamento da receita ordinária são introduzidas as seguintes alterações:
 
 A) Criação de rubricas:
 
@@ -128,9 +144,9 @@ Taxas - Rendimentos de diversos serviços:
 
 Propinas do Liceu Gil Eanes e da Escola Industrial e Comercial do Mindelo.
 
-###### Art. 2.º A dotação global do capítulo 3.º da tabela de despesa ordinária do orçamento geral é fixada em 4520000$00.
+Art. 2.º A dotação global do capítulo 3.º da tabela de despesa ordinária do orçamento geral é fixada em 4520000$00.
 
-###### Art. 3.º No quadro do pessoal dos serviços de administração civil são eliminados os seguintes lugares:
+Art. 3.º No quadro do pessoal dos serviços de administração civil são eliminados os seguintes lugares:
 
 a) Pessoal contratado:
 
@@ -140,9 +156,9 @@ b) Pessoal assalariado:
 
 1 de servente.
 
-###### Art. 4.º Nos serviços de estatística é criado um lugar de servente, assalariado.
+Art. 4.º Nos serviços de estatística é criado um lugar de servente, assalariado.
 
-###### Art. 5.º Nos serviços do registo civil são criados os seguintes lugares:
+Art. 5.º Nos serviços do registo civil são criados os seguintes lugares:
 
 a) Pessoal contratado:
 
@@ -154,7 +170,7 @@ b) Pessoal assalariado:
 
 § único. Os lugares criados por este artigo serão providos com dispensa de nova nomeação, visto e posse pelos titulares dos lugares eliminados da administração civil, nos termos do artigo 3.º deste decreto.
 
-###### Art. 6.º Na tabela de despesa ordinária «Serviços de instrução - Ensino liceal» é eliminada a seguinte rubrica:
+Art. 6.º Na tabela de despesa ordinária «Serviços de instrução - Ensino liceal» é eliminada a seguinte rubrica:
 
 Encargos de instalação:
 
@@ -162,17 +178,17 @@ Encargos de instalação:
 
 a) Secção da Praia.
 
-###### Art. 7.º O actual pessoal dos serviços aduaneiros que por insuficiência de habilitações não transite para os lugares dos novos quadros, incluindo os contratados e assalariados a que se refere o § 2.º do artigo 125.º do Estatuto Orgânico das Alfândegas do Ultramar, será pago pela dotação para «Pessoal dos quadros aprovados por lei» dos mesmos serviços.
+Art. 7.º O actual pessoal dos serviços aduaneiros que por insuficiência de habilitações não transite para os lugares dos novos quadros, incluindo os contratados e assalariados a que se refere o § 2.º do artigo 125.º do Estatuto Orgânico das Alfândegas do Ultramar, será pago pela dotação para «Pessoal dos quadros aprovados por lei» dos mesmos serviços.
 
 § único. Igual procedimento se adoptará relativamente ao abono dos vencimentos do demais pessoal dos antigos quadros enquanto não transitar ou for provido em lugares dos novos quadros.
 
-###### Art. 8.º É elevado de 638000$00 para 738000$00 o subsídio dos correios, telégrafos e telefones, fixado pelo artigo 17.º do [Decreto n.º 42703](https://diariodarepublica.pt/dr/detalhe/decreto/42703-1959-442476), de 5 de Dezembro de 1959.
+Art. 8.º É elevado de 638000$00 para 738000$00 o subsídio dos correios, telégrafos e telefones, fixado pelo artigo 17.º do [Decreto n.º 42703](https://diariodarepublica.pt/dr/detalhe/decreto/42703-1959-442476), de 5 de Dezembro de 1959.
 
-###### Art. 9.º É fixado em 25000$00 o subsídio ao Aeroclube, a que se refere o artigo 8.º do [Decreto n.º 40428](https://diariodarepublica.pt/dr/detalhe/decreto/40428-1955-477145), de 7 de Dezembro de 1955.
+Art. 9.º É fixado em 25000$00 o subsídio ao Aeroclube, a que se refere o artigo 8.º do [Decreto n.º 40428](https://diariodarepublica.pt/dr/detalhe/decreto/40428-1955-477145), de 7 de Dezembro de 1955.
 
-###### Art. 10.º É eliminado o subsídio ao Aeroclube para remunerar um piloto e um mecânico, a que se refere o artigo 5.º do [Decreto n.º 40892](https://diariodarepublica.pt/dr/detalhe/decreto/40892-1956-299789), de 7 de Dezembro de 1956.
+Art. 10.º É eliminado o subsídio ao Aeroclube para remunerar um piloto e um mecânico, a que se refere o artigo 5.º do [Decreto n.º 40892](https://diariodarepublica.pt/dr/detalhe/decreto/40892-1956-299789), de 7 de Dezembro de 1956.
 
-###### Art. 11.º No capítulo 10.º «Encargos gerais» são criadas as seguintes rubricas:
+Art. 11.º No capítulo 10.º «Encargos gerais» são criadas as seguintes rubricas:
 
 a) Participação do Sindicato Nacional dos Empregados de Comércio e Ofícios Correlativos em multas;
 
@@ -182,11 +198,11 @@ c) Participação do Sindicato Nacional dos Operários de Construção Civil em 
 
 d) Participação do Sindicato Nacional dos Operários das Empresas Fornecedoras de Combustíveis e Água à Navegação em multas.
 
-###### Art. 12.º É ratificado o Diploma Legislativo n.º 1414, de 22 de Agosto de 1959.
+Art. 12.º É ratificado o Diploma Legislativo n.º 1414, de 22 de Agosto de 1959.
 
 B) Moçambique
 
-###### Art. 13.º Nos serviços autónomos dos correios, telégrafos e telefones são introduzidas as seguintes alterações:
+Art. 13.º Nos serviços autónomos dos correios, telégrafos e telefones são introduzidas as seguintes alterações:
 
 A) Criação de lugares:
 
@@ -222,11 +238,11 @@ II
 
 Disposições comuns
 
-###### Art. 14.º De harmonia com o artigo 17.º e seu § único do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, os vencimentos do pessoal contratado e os salários do pessoal civil cujos lugares hajam sido criados por este decreto e não estejam ou fossem mandados incluir no mapa I anexo àquele diploma serão fixados pelos órgãos legislativos das respectivas províncias.
+Art. 14.º De harmonia com o artigo 17.º e seu § único do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, os vencimentos do pessoal contratado e os salários do pessoal civil cujos lugares hajam sido criados por este decreto e não estejam ou fossem mandados incluir no mapa I anexo àquele diploma serão fixados pelos órgãos legislativos das respectivas províncias.
 
-###### Art. 15.º Salvo disposição em contrário, este diploma entra em vigor em 1 de Janeiro de 1961.
+Art. 15.º Salvo disposição em contrário, este diploma entra em vigor em 1 de Janeiro de 1961.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

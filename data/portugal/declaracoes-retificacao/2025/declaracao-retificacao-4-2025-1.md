@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/01200/0000700007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/4/2025/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/4-2025-903803229
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-17T00:00:00Z'
+  retrieved_at: '2026-10-22T19:16:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6dfeb648a6dde567ec4927260160cb68fa44cfd85d8461ccd1c87c0537a83518
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 607fec3c1cbdca005c5a74e7774f8108e270381f427171e54f4b5b9734881f70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:16:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,23 +72,33 @@ subjects:
 - Interpretação do Direito
 - Jurisprudencia
 - Normas de Segurança
-- Supremo Tribunal de Justiça
 - Responsabilidade Civil
+- Supremo Tribunal de Justiça
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/acstj/6/2024/05/13/p/dre
   label: null
   source: http://data.dre.pt/eli/acstj/6/2024/05/13/p/dre
+- type: cites
+  target: pt:dre:864543698:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:acordao-supremo-tribunal-justica:6/2024
+  label: Retifica o Acórdão do Supremo Tribunal de Justiça n.º 6/2024, de 13 de maio, Diário da República n.º 12/2025, Série
+    I
+  source: null
+  date: '2024-05-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:16:13Z'
   warnings: []
   errors: []
 ---
@@ -100,3 +110,5 @@ Por ter sido publicado com inexatidão o [Acórdão do Supremo Tribunal de Justi
 Assim, em vez de «Custas deste recurso pelo Recorrido» deve constar «Custas deste recurso pelo Recorrente».
 
 Supremo Tribunal de Justiça, 8 de janeiro de 2025. - O Presidente, João Cura Mariano.
+
+118570517

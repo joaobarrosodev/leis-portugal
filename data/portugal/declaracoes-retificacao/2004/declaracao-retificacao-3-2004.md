@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/3/2004/01/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-2004-240659
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-23T00:00:00Z'
+  retrieved_at: '2026-10-22T19:03:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9427a65a698f3b1f2c77567a25fef14e4ca757a942dcec7fb502f4c9ca98deea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8dcab32ea30367a99d6b35ca53b8c3d2c1e4d5172c9ff73fb0c1bd5dd796f7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:03:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,8 +70,8 @@ subjects:
 - Fiscalização
 - Núcleo Local de Inserção
 - Programa de Inserção
-- Rendimento Social de Inserção
 - Regime Jurídico
+- Rendimento Social de Inserção
 - Segurança Social
 - VALE Social
 relationships:
@@ -79,6 +79,16 @@ relationships:
   target: pt:dre:676606:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:676606:por
+  label: "Alterados os arts. 4.º, 5.º, 6.º, 9.º, 10.º, 11.º, 12.º, 14.º, 15.º, 18.º, 21.º, 22.º, 38.º, 40.º, 42.º, 43.º, 46.º,\
+    \ 47.º, 49.º, 51.º, 52.º, 54.º, 59.º, 64.º, 70.º, 71.º, 73.º, 77.º, 79.º e 80.º, aditados os arts. 3º-A, 4º-A, 51º-A e\
+    \ 68º-A, revogado o art. 3º, o nº 6 do art. 5º, o nº 3 do art. 9º, o nº 4 do art. 11º, os arts. 19º, 32º, 33º, 34º e 35º,\
+    \ as als. f) e g) do nº 1 do art. 38º, a al. i) do nº 1 do art. 52º, os arts. 53º e 60º, a al. c) do nº 1 do art. 64º\
+    \ e a al. d) do art. 72º, e republicado em anexo o Dec Lei 283/2003, de 08-Nov, rectificado pela presente declaração,\
+    \ pelo DEC LEI.42/2006.23.02.2006.MTSSO, DR.IS-A [39] de 23.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-2006-676606
+  date: '2006-02-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/283/2003/11/08/p/dre
   label: null
@@ -87,16 +97,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/2003/05/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/2003/05/21/p/dre
+- type: cites
+  target: pt:dre:468986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:03:25Z'
   warnings: []
   errors: []
 ---

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44401-1962-164871
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T19:29:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3fb3c3d6d743aee8dca20c2c1f3aafb04ce7cf335c05fc2477289607fe0e82b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9e72f0eb6f2012d0059eb28a8fd1a02fa1a5cc1212f0a956fc93f351b219957
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:29:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:29:46Z'
   warnings: []
   errors: []
 ---
@@ -92,10 +92,10 @@ Tendo em vista o disposto no n.º 3.º do artigo 12.º do Código Administrativo
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A delimitação entre as freguesias de Loriga e Cabeça, do concelho de Seia, é definida por uma linha que, partindo da linha de cumeada do Cabeço da Mestra Brava, na margem esquerda da ribeira de Loriga, segue pela cumeada do Outeiro Ramiro em direcção à mesma ribeira, que alcança num ponto situado entre os locais denominados «Maxial» e «Malhadinhos»; atravessando seguidamente a referida ribeira de Loriga, prossegue pela linha de cumeada do cerro do Outeiro Grande, em direcção à Fonte da Lasquinha e até atingir a dita fonte; cruza-se neste local com a estrada camarária que o liga à povoação de Cabeça, continua para norte pela linha de cumeada do Outeirão, dirigindo-se daqui ao marco geodésico do Castelo, onde termina.
+Artigo 1.º A delimitação entre as freguesias de Loriga e Cabeça, do concelho de Seia, é definida por uma linha que, partindo da linha de cumeada do Cabeço da Mestra Brava, na margem esquerda da ribeira de Loriga, segue pela cumeada do Outeiro Ramiro em direcção à mesma ribeira, que alcança num ponto situado entre os locais denominados «Maxial» e «Malhadinhos»; atravessando seguidamente a referida ribeira de Loriga, prossegue pela linha de cumeada do cerro do Outeiro Grande, em direcção à Fonte da Lasquinha e até atingir a dita fonte; cruza-se neste local com a estrada camarária que o liga à povoação de Cabeça, continua para norte pela linha de cumeada do Outeirão, dirigindo-se daqui ao marco geodésico do Castelo, onde termina.
 
-###### Art. 2.º A Câmara Municipal de Seia procederá, no prazo de 90 dias, à colocação de marcos onde se tornem necessários, designadamente nos locais assinalados no mapa que se encontra junto ao processo, de modo a que fiquem bem patentes os limites fixados no artigo 1.º deste diploma.
+Art. 2.º A Câmara Municipal de Seia procederá, no prazo de 90 dias, à colocação de marcos onde se tornem necessários, designadamente nos locais assinalados no mapa que se encontra junto ao processo, de modo a que fiquem bem patentes os limites fixados no artigo 1.º deste diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Junho de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior.

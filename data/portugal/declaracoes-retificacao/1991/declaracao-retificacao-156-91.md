@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 147/1991, 2º Suplemento, Série I-B de 1991-06-29
   number: '147'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3342-(12) a 3342-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/06/147b02/00120012.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/156/1991/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/156-1991-245135
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-06-29T00:00:00Z'
+  retrieved_at: '2026-10-22T18:29:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2debb605f1944e10bf53b7f457f2c7236018305c736117d43f876a4aac2337c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8eda1128da3332ed1b34db869802874ebbb69f453bba961dc4f5c6d616a5a3a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:29:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,21 +75,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/decl/93/1991/06/25/p/dre
   label: null
   source: http://data.dre.pt/eli/decl/93/1991/06/25/p/dre
+- type: cites
+  target: pt:dre:647899:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:29:29Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 156/91
+# Declaração de rectificação n.º 156/91
 
 Para os devidos efeitos se declara que a [Declaração n.º 93/91](https://diariodarepublica.pt/dr/detalhe/declaracao/93-1991-647899), publicada no Diário da República, n.º 143, de 25 de Junho de 1991, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
 

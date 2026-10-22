@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 50/2002, 2º Suplemento, Série I-A de 2002-02-28
   number: '50'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1682-(9) a 1682-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/02/050a02/00090009.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/8-f/2002/02/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-f-2002-303472
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-02-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:01:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c03e1bb4ffa4710b109bee544e27a8eaa0f5fea044ae7683339696c3cd87df18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cecb45a30ebc7ed92137746d782bc6eb7b2d45ac12b8559729bfc5ff0c5b886f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:01:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,16 +79,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/26/2002/02/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/26/2002/02/14/p/dre
+- type: cites
+  target: pt:dre:284358:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:01:14Z'
   warnings: []
   errors: []
 ---
@@ -99,11 +103,11 @@ Para os devidos efeitos se declara que o [Decreto-Lei n.º 26/2002](https://diar
 
 No anexo II, «Classificação económica das despesas públicas», onde se lê:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/050a02/00090009.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/050a02/00090009.pdf)](https://files.diariodarepublica.pt/1s/2002/02/050a02/00090009.pdf)
 
 deve ler-se:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/050a02/00090009.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/050a02/00090009.pdf)](https://files.diariodarepublica.pt/1s/2002/02/050a02/00090009.pdf)
 
 No anexo III, onde se lê «01.02.14 - 'Outros abonos em numerário ou espécie tendo uma natureza residual.' - Incluem-se, entre outras, as despesa» deve ler-se «01.02.14 - 'Outros abonos em numerário ou espécie.' - Tendo uma natureza residual, incluem-se, entre outras, as despesas».
 

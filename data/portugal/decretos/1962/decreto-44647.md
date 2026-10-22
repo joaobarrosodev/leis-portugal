@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1962/10/24700/13941399.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44647-1962-156585
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-10-25T00:00:00Z'
+  retrieved_at: '2026-10-22T19:31:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a05ce61d07092c05203ad03a24789624852bb2801d0d030598e9e015c8686b3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b54e8d41dc5f01fc1d4b773315820b5c0bd040651bb47190bac61363208a552
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:31:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Emparcelamento
+- Exploração Agrícola
+- Prédio Rústico
 relationships:
 - type: amended_by
   target: pt:dre:354113:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:163451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512991:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:354113:por
+  label: "Revogado pelo DEC LEI.384/88.25.10.1988.MAPA, DR.IS [247] de 25.10.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/384-1988-354113
+  date: '1988-10-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:31:41Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +111,9 @@ Do emparcelamento da propriedade rústica
 
 #### SECÇÃO I — Das finalidades do emparcelamento
 
-###### Artigo 1.º Nas regiões onde a fragmentação e a dispersão da propriedade rústica determinam inconvenientes de carácter económico-social deverão realizar-se operações de emparcelamento, destinadas a melhorar as condições técnicas e económicas da exploração agrícola.
+Artigo 1.º Nas regiões onde a fragmentação e a dispersão da propriedade rústica determinam inconvenientes de carácter económico-social deverão realizar-se operações de emparcelamento, destinadas a melhorar as condições técnicas e económicas da exploração agrícola.
 
-###### Art. 2.º O emparcelamento visará:
+Art. 2.º O emparcelamento visará:
 
 a) A concentração da área de vários terrenos dispersos, pertencentes ao mesmo proprietário, no menor número aconselhável de prédios;
 
@@ -110,7 +127,7 @@ e) A aproximação, tanto quanto possível, dos novos prédios das sedes das res
 
 f) O reagrupamento, sem prejuízo do disposto na alínea a), de parcelas que, pertencendo embora a diversos proprietários, sejam exploradas em conjunto.
 
-###### Art. 3.º - 1. O Estado promoverá, na zona a emparcelar, a constituição de uma reserva de terras, de que a Junta de Colonização Interna poderá dispor para aumentar a superfície dos terrenos, quando inferior à unidade de cultura, e para melhorar as condições técnicas e económicas das explorações agrícolas de dimensões insuficientes, se os proprietários o pretenderem.
+Art. 3.º - 1. O Estado promoverá, na zona a emparcelar, a constituição de uma reserva de terras, de que a Junta de Colonização Interna poderá dispor para aumentar a superfície dos terrenos, quando inferior à unidade de cultura, e para melhorar as condições técnicas e económicas das explorações agrícolas de dimensões insuficientes, se os proprietários o pretenderem.
 
 2. Os terrenos adquiridos por particulares nos termos do número anterior serão pagos ao Estado segundo o sistema de amortização estabelecido na lei sobre concessão de glebas agrícolas.
 
@@ -120,7 +137,7 @@ a) Incluir na recomposição agrária planeada terrenos do domínio público ou 
 
 b) Comprar terrenos postos à venda nas zonas a emparcelar e adquirir, por compra ou troca, os pertencentes a agricultores que, não dispondo nessas zonas de área suficiente para a constituição de uma exploração agrícola econòmicamente viável, aceitem a transferência para outras regiões em que seja possível reinstalá-los.
 
-###### Art. 4.º Ficam excluídos da recomposição predial, salvo acordo dos interessados e sem prejuízo da rectificação de estremas, os terrenos:
+Art. 4.º Ficam excluídos da recomposição predial, salvo acordo dos interessados e sem prejuízo da rectificação de estremas, os terrenos:
 
 a) Pertencentes ao domínio público;
 
@@ -132,29 +149,29 @@ d) Que, pela sua situação, devam ser considerados terrenos para construção;
 
 e) Afectos à exploração mineira, industrial ou comercial.
 
-###### Art. 5.º - 1. O emparcelamento terá por base uma operação colectiva de trocas e deverá efectuar-se de modo que os terrenos adquiridos por cada proprietário contenham parcelas equivalentes às dos terrenos alienados em qualidade de terra, classe de cultura e valor de rendimento. Para este efeito, tomar-se-á em conta o valor dos terrenos que vierem a ser ocupados por novos caminhos, obras de rega e enxugo ou outras de carácter colectivo e o dos que tenham sido desafectados de tais utilizações.
+Art. 5.º - 1. O emparcelamento terá por base uma operação colectiva de trocas e deverá efectuar-se de modo que os terrenos adquiridos por cada proprietário contenham parcelas equivalentes às dos terrenos alienados em qualidade de terra, classe de cultura e valor de rendimento. Para este efeito, tomar-se-á em conta o valor dos terrenos que vierem a ser ocupados por novos caminhos, obras de rega e enxugo ou outras de carácter colectivo e o dos que tenham sido desafectados de tais utilizações.
 
 2. Só se recorrerá à venda ou deixará de se observar o disposto no número anterior se os interessados nisso convierem.
 
-###### Art. 6.º Para efeitos do disposto nos artigos anteriores, o foreiro, em caso de enfiteuse, e o colono, na ilha da Madeira, serão considerados como proprietários.
+Art. 6.º Para efeitos do disposto nos artigos anteriores, o foreiro, em caso de enfiteuse, e o colono, na ilha da Madeira, serão considerados como proprietários.
 
 #### SECÇÃO II — Dos órgãos administrativos e judiciais
 
 ##### SUBSECÇÃO I — Da Junta de Colonização Interna
 
-###### Art. 7.º - 1. À Junta de Colonização Interna compete a preparação e execução das operações de emparcelamento pela forma e com as atribuições conferidas na lei e neste regulamento.
+Art. 7.º - 1. À Junta de Colonização Interna compete a preparação e execução das operações de emparcelamento pela forma e com as atribuições conferidas na lei e neste regulamento.
 
 2. A Junta de Colonização Interna será coadjuvada na realização das operações de emparcelamento por comissões locais de recomposição predial e por subcomissões de trabalho.
 
-###### Art. 8.º A Junta de Colonização Interna poderá prestar assistência técnica gratuita em operações de simples reagrupamento de prédios quando os proprietários lha solicitem. No pedido descrever-se-ão os prédios que os interessados pretendem sujeitar ao reagrupamento e os objectivos a alcançar.
+Art. 8.º A Junta de Colonização Interna poderá prestar assistência técnica gratuita em operações de simples reagrupamento de prédios quando os proprietários lha solicitem. No pedido descrever-se-ão os prédios que os interessados pretendem sujeitar ao reagrupamento e os objectivos a alcançar.
 
 ##### SUBSECÇÃO II — Das comissões locais de recomposição predial
 
-###### Art. 9.º Decidido o início dos trabalhos, após o despacho que ordene a elaboração de um anteprojecto de emparcelamento, a Junta de Colonização Interna promoverá a criação de uma comissão local de recomposição predial.
+Art. 9.º Decidido o início dos trabalhos, após o despacho que ordene a elaboração de um anteprojecto de emparcelamento, a Junta de Colonização Interna promoverá a criação de uma comissão local de recomposição predial.
 
-###### Art. 10.º - 1. Fazem parte da comissão local:
+Art. 10.º - 1. Fazem parte da comissão local:
 
-**O presidente da câmara municipal, o conservador do registo predial, o notário e o chefe da secção de finanças do concelho onde se situar a zona submetida a emparcelamento;**
+O presidente da câmara municipal, o conservador do registo predial, o notário e o chefe da secção de finanças do concelho onde se situar a zona submetida a emparcelamento;
 
 Dois proprietários de terrenos incluídos na recomposição a efectuar, designados pela direcção o grémio ou grémios da lavoura;
 
@@ -166,7 +183,7 @@ Qualquer outra pessoa de livre escolha do Secretário de Estado da Agricultura.
 
 3. Presidirá à comissão local a pessoa que para tal for designada pelo Secretário de Estado da Agricultura e exercerá as funções de secretário o vogal representante da Junta de Colonização Interna.
 
-###### Art. 11.º Compete à comissão local:
+Art. 11.º Compete à comissão local:
 
 1.º Julgar, em 1.ª instância, as reclamações que lhes sejam dirigidas sobre questões suscitadas pela execução do emparcelamento;
 
@@ -174,11 +191,11 @@ Qualquer outra pessoa de livre escolha do Secretário de Estado da Agricultura.
 
 3.º Coadjuvar a Junta de Colonização Interna, por iniciativa própria ou quando solicitada, na execução das operações de emparcelamento.
 
-###### Art. 12.º A comissão local terá a sua sede, sempre que possível, no grémio da lavoura do concelho em que se situe o perímetro a emparcelar ou a maior parte da área deste e, na sua falta, na câmara municipal.
+Art. 12.º A comissão local terá a sua sede, sempre que possível, no grémio da lavoura do concelho em que se situe o perímetro a emparcelar ou a maior parte da área deste e, na sua falta, na câmara municipal.
 
-###### Art. 13.º A posse dos membros da comissão local será conferida pelo juiz de direito a que se refere o n.º 1 do artigo 22.º, que, para este efeito e por solicitação da Junta de Colonização Interna, ordenará as competentes notificações e requisições.
+Art. 13.º A posse dos membros da comissão local será conferida pelo juiz de direito a que se refere o n.º 1 do artigo 22.º, que, para este efeito e por solicitação da Junta de Colonização Interna, ordenará as competentes notificações e requisições.
 
-###### Art. 14.º - 1. A comissão local reúne mediante convocação do respectivo presidente no dia, local e hora por ele fixados. Para o efeito deverão o seus membros ser convocados com cinco dias, pelo menos, de antecedência e informados dos assuntos a tratar.
+Art. 14.º - 1. A comissão local reúne mediante convocação do respectivo presidente no dia, local e hora por ele fixados. Para o efeito deverão o seus membros ser convocados com cinco dias, pelo menos, de antecedência e informados dos assuntos a tratar.
 
 2. A comissão local só poderá deliberar vàlidamente quando estiverem presentes, pelo menos, o presidente e quatro vogais, sendo dois destes o conservador do registo predial ou o notário e um, pelo menos, dos três engenheiros designados pelos serviços.
 
@@ -196,19 +213,19 @@ Qualquer outra pessoa de livre escolha do Secretário de Estado da Agricultura.
 
 9. O impedimento do presidente, nas condições do artigo anterior, será decidido pelo presidente da Junta de Colonização Interna.
 
-###### Art. 15.º - 1. As faltas às reuniões da comissão local deverão ser justificadas perante o presidente até ao início da sessão ou, quando tal não seja possível, dentro dos cinco dias seguintes.
+Art. 15.º - 1. As faltas às reuniões da comissão local deverão ser justificadas perante o presidente até ao início da sessão ou, quando tal não seja possível, dentro dos cinco dias seguintes.
 
 2. A falta injustificada a três reuniões dará lugar à aplicação, aos vogais funcionários públicos, das sanções disciplinares previstas nas leis em vigor, e será fundamento da destituição imediata dos vogais não funcionários, a declarar pelo presidente da comissão local.
 
 3. A falta do presidente deverá ser comunicada e justificada por este à Junta de Colonização Interna, que, no caso previsto no número anterior, poderá propor ao Secretário de Estado da Agricultura a respectiva destituição.
 
-###### Art. 16.º - 1. A comissão local dissolver-se-á após a conclusão das operações de emparcelamento da zona e a entrega dos novos títulos de propriedade.
+Art. 16.º - 1. A comissão local dissolver-se-á após a conclusão das operações de emparcelamento da zona e a entrega dos novos títulos de propriedade.
 
 2. Toda a documentação da comissão local dissolvida ficará arquivada na Junta de Colonização Interna.
 
 ##### SUBSECÇÃO III — Das subcomissões de trabalho
 
-###### Art. 17.º - 1. Simultâneamente à constituição da comissão local, o presidente da Junta de Colonização Interna nomeará uma subcomissão de trabalho, com a composição seguinte:
+Art. 17.º - 1. Simultâneamente à constituição da comissão local, o presidente da Junta de Colonização Interna nomeará uma subcomissão de trabalho, com a composição seguinte:
 
 a) O chefe da brigada da Junta de Colonização Interna que tenha a seu cargo o emparcelamento da zona e que presidirá à subcomissão;
 
@@ -224,7 +241,7 @@ e) Um funcionário da Junta de Colonização Interna, como secretário e sem dir
 
 3. São considerados proprietários interessados, para os efeitos do n.º 2 deste artigo, todos os que na área abrangida paguem contribuição predial rústica.
 
-###### Art. 18.º Compete à subcomissão de trabalho informar sobre todas as questões emergentes do emparcelamento e, nomeadamente, as referentes a:
+Art. 18.º Compete à subcomissão de trabalho informar sobre todas as questões emergentes do emparcelamento e, nomeadamente, as referentes a:
 
 a) Delimitação do perímetro do emparcelamento;
 
@@ -236,15 +253,15 @@ d) Planos dos melhoramentos de carácter colectivo a realizar na zona;
 
 e) Estabelecimento dos novos lotes de terra.
 
-###### Art. 19.º A subcomissão de trabalho terá a sua sede na junta de freguesia em que se situe o perímetro a emparcelar ou a maior parte da área deste.
+Art. 19.º A subcomissão de trabalho terá a sua sede na junta de freguesia em que se situe o perímetro a emparcelar ou a maior parte da área deste.
 
-###### Art. 20.º É aplicável às subcomissões de trabalho o disposto nos artigos 15.º e 16.º
+Art. 20.º É aplicável às subcomissões de trabalho o disposto nos artigos 15.º e 16.º
 
 ##### SUBSECÇÃO IV — Dos tribunais arbitrais
 
-###### Art. 21.º Constituídas a comissão local de recomposição predial e a subcomissão de trabalho, a Secretaria de Estado da Agricultura promoverá a constituição de um tribunal arbitral na zona submetida ao emparcelamento.
+Art. 21.º Constituídas a comissão local de recomposição predial e a subcomissão de trabalho, a Secretaria de Estado da Agricultura promoverá a constituição de um tribunal arbitral na zona submetida ao emparcelamento.
 
-###### Art. 22.º - 1. O tribunal arbitral será presidido pelo juiz de direito da comarca a que pertencer a zona a emparcelar ou, quando esta se situar na área de diversas comarcas, pelo juiz que for designado pelo Ministro da Justiça, sobre proposta do Conselho Superior Judiciário.
+Art. 22.º - 1. O tribunal arbitral será presidido pelo juiz de direito da comarca a que pertencer a zona a emparcelar ou, quando esta se situar na área de diversas comarcas, pelo juiz que for designado pelo Ministro da Justiça, sobre proposta do Conselho Superior Judiciário.
 
 2. O Ministro da Justiça poderá designar um magistrado judicial sem jurisdição comarcã, se o presumível volume das questões afectas ao tribunal arbitral ou o movimento normal da comarca ou comarcas não permitirem que tais questões sejam prontamente julgadas.
 
@@ -252,19 +269,19 @@ e) Estabelecimento dos novos lotes de terra.
 
 4. Os membros do tribunal arbitral tomarão posse perante o juiz de direito que deva presidir.
 
-###### Art. 23.º Compete ao tribunal arbitral julgar em definitivo os recursos interpostos das decisões proferidas pela comissão local de recomposição predial.
+Art. 23.º Compete ao tribunal arbitral julgar em definitivo os recursos interpostos das decisões proferidas pela comissão local de recomposição predial.
 
-###### Art. 24.º - 1. O tribunal arbitral funcionará junto do tribunal judicial da comarca ou julgado em que exercer jurisdição o juiz presidente ou, quando tiver sido designado um magistrado sem jurisdição comarcã, junto do tribunal da comarca ou julgado que for indicado pelo Ministro da Justiça.
+Art. 24.º - 1. O tribunal arbitral funcionará junto do tribunal judicial da comarca ou julgado em que exercer jurisdição o juiz presidente ou, quando tiver sido designado um magistrado sem jurisdição comarcã, junto do tribunal da comarca ou julgado que for indicado pelo Ministro da Justiça.
 
 2. A Junta de Colonização Interna assegurará todo o expediente do tribunal arbitral e suportará os encargos resultantes do seu funcionamento.
 
-###### Art. 25.º - 1. O tribunal arbitral só poderá deliberar vàlidamente quando estiverem presentes, pelo menos, o presidente e dois vogais, sendo estes um dos engenheiros e um dos delegados dos grémios da lavoura.
+Art. 25.º - 1. O tribunal arbitral só poderá deliberar vàlidamente quando estiverem presentes, pelo menos, o presidente e dois vogais, sendo estes um dos engenheiros e um dos delegados dos grémios da lavoura.
 
 2. É aplicável aos membros do tribunal arbitral o disposto nos n.os 6, 7, 8 e 9 do artigo 14.º, devendo o impedimento do presidente ser decidido pelo presidente do tribunal da Relação competente.
 
-###### Art. 26.º É também aplicável aos membros do tribunal arbitral o disposto no artigo 15.º
+Art. 26.º É também aplicável aos membros do tribunal arbitral o disposto no artigo 15.º
 
-###### Art. 27.º - 1. O tribunal arbitral dissolver-se-á automàticamente com a apreciação do último recurso, ou, no caso de nenhum ter sido interposto, expirado o prazo fixado para recorrer.
+Art. 27.º - 1. O tribunal arbitral dissolver-se-á automàticamente com a apreciação do último recurso, ou, no caso de nenhum ter sido interposto, expirado o prazo fixado para recorrer.
 
 2. Toda a documentação do tribunal arbitral ficará arquivada na Junta de Colonização Interna.
 
@@ -272,9 +289,9 @@ e) Estabelecimento dos novos lotes de terra.
 
 ##### SUBSECÇÃO I — Da iniciativa das operações de emparcelamento
 
-###### Art. 28.º Os trabalhos de reconhecimento e inquérito para fins de emparcelamento iniciar-se-ão por iniciativa da Junta de Colonização Interna, ou a requerimento de qualquer proprietário interessado ou dos organismos representativos da lavoura.
+Art. 28.º Os trabalhos de reconhecimento e inquérito para fins de emparcelamento iniciar-se-ão por iniciativa da Junta de Colonização Interna, ou a requerimento de qualquer proprietário interessado ou dos organismos representativos da lavoura.
 
-###### Art. 29.º O pedido referido no artigo anterior deverá ser dirigido ao presidente da Junta de Colonização Interna, em papel comum, e fornecer, além de outros que o requerente julgue oportuno, os seguintes elementos:
+Art. 29.º O pedido referido no artigo anterior deverá ser dirigido ao presidente da Junta de Colonização Interna, em papel comum, e fornecer, além de outros que o requerente julgue oportuno, os seguintes elementos:
 
 a) Localização da zona a emparcelar - lugar, freguesia e concelho;
 
@@ -288,11 +305,11 @@ e) Número de proprietários interessados no emparcelamento e área aproximada q
 
 f) Justificação sumária da necessidade de se proceder ao emparcelamento.
 
-###### Art. 30.º A Junta de Colonização Interna submeterá a despacho do Secretário de Estado da Agricultura as conclusões dos trabalhos de reconhecimento e inquérito a que tiver procedido.
+Art. 30.º A Junta de Colonização Interna submeterá a despacho do Secretário de Estado da Agricultura as conclusões dos trabalhos de reconhecimento e inquérito a que tiver procedido.
 
 ##### SUBSECÇÃO II — Dos estudos preliminares
 
-###### Art. 31.º - 1. A Junta de Colonização Interna procederá aos estudos preliminares do emparcelamento, determinados em despacho do Secretário de Estado da Agricultura.
+Art. 31.º - 1. A Junta de Colonização Interna procederá aos estudos preliminares do emparcelamento, determinados em despacho do Secretário de Estado da Agricultura.
 
 2. Tais estudos visarão:
 
@@ -306,21 +323,21 @@ d) A determinação do grau de viabilidade técnica e económica do plano em fun
 
 e) O conhecimento das possíveis dificuldades e resistência das populações abrangidas pelo emparcelamento planeado e dos benefícios a conceder ou dos melhoramentos a efectuar na zona, de modo a promover a elevação das condições de vida do meio rural e a obviar a tais dificuldades ou resistências.
 
-###### Art. 32.º - 1. Realizados os estudos preliminares, a Junta de Colonização Interna elaborará um parecer, devidamente fundamentado, que será submetido à apreciação do Secretário de Estado da Agricultura.
+Art. 32.º - 1. Realizados os estudos preliminares, a Junta de Colonização Interna elaborará um parecer, devidamente fundamentado, que será submetido à apreciação do Secretário de Estado da Agricultura.
 
 2. Perante as conclusões do parecer referido no n.º 1, o Secretário de Estado da Agricultura decidirá sobre a elaboração do anteprojecto de emparcelamento da zona estudada, atribuindo prioridade à elaboração dos anteprojectos de emparcelamento solicitado pela maioria dos proprietários, representando a maioria do rendimento colectável da zona a emparcelar.
 
 ##### SUBSECÇÃO III — Do anteprojecto e do projecto
 
-###### Art. 33.º - 1. Ordenada a elaboração de um anteprojecto de emparcelamento, será dada publicidade à decisão, chamando-se a atenção dos interessados para o direito de preferência concedido ao Estado pelo n.º 4 da base XIII da [Lei n.º 2116](https://diariodarepublica.pt/dr/detalhe/lei/2116-1962-163451), de 14 de Agosto de 1962.
+Art. 33.º - 1. Ordenada a elaboração de um anteprojecto de emparcelamento, será dada publicidade à decisão, chamando-se a atenção dos interessados para o direito de preferência concedido ao Estado pelo n.º 4 da base XIII da [Lei n.º 2116](https://diariodarepublica.pt/dr/detalhe/lei/2116-1962-163451), de 14 de Agosto de 1962.
 
 2. Quando a Junta de Colonização Interna iniciar os respectivos trabalhos, em harmonia com a ordem de preferência estabelecida nos termos do artigo anterior, cumprirá o disposto nos artigos 9.º e 17.º, dará publicidade ao facto, chamando a atenção dos interessados para o começo da vigência do regime estabelecido na base XXIII da lei referida no número antecedente e convocará a reunião prevista no n.º 2 do artigo 17.º
 
 3. Os trabalhos iniciais consistirão, especialmente, na exacta delimitação do perímetro e na classificação, avaliação e determinação da situação jurídica dos terrenos.
 
-###### Art. 34.º A classificação e avaliação dos terrenos levar-se-á a cabo tendo em conta o disposto no n.º 1 do artigo 5.º
+Art. 34.º A classificação e avaliação dos terrenos levar-se-á a cabo tendo em conta o disposto no n.º 1 do artigo 5.º
 
-###### Art. 35.º - 1. A determinação da situação jurídica da propriedade compreenderá os seguintes trabalhos:
+Art. 35.º - 1. A determinação da situação jurídica da propriedade compreenderá os seguintes trabalhos:
 
 a) Determinação dos proprietários ou possuidores, por qualquer título, dos terrenos submetidos ao emparcelamento;
 
@@ -332,7 +349,7 @@ b) Determinação dos direitos, ónus e contratos referidos no n.º 2 do artigo 
 
 4. Fica salvo aos interessados o recurso aos tribunais comuns, para a definição dos seus direitos, pela instauração das acções competentes.
 
-###### Art. 36.º - 1. Os elementos resultantes dos trabalhos referidos nos dois artigos anteriores serão postos à apreciação dos interessados, durante o prazo de 30 dias, a contar da publicação do respectivo aviso nos jornais, podendo aqueles apresentar perante a comissão local, por escrito, as observações que entenderem.
+Art. 36.º - 1. Os elementos resultantes dos trabalhos referidos nos dois artigos anteriores serão postos à apreciação dos interessados, durante o prazo de 30 dias, a contar da publicação do respectivo aviso nos jornais, podendo aqueles apresentar perante a comissão local, por escrito, as observações que entenderem.
 
 2. Para este efeito, aqueles elementos constarão de:
 
@@ -348,7 +365,7 @@ e) Memória explicativa, justificando as operações de classificação e avalia
 
 f) Plano das obras e melhoramentos fundiários a levar a efeito no perímetro.
 
-###### Art. 37.º Apreciadas as observações a que se refere o artigo anterior, a Junta de Colonização Interna procederá às respectivas alterações, se houver lugar a elas, e concluirá a elaboração do anteprojecto, do qual constarão os seguintes elementos:
+Art. 37.º Apreciadas as observações a que se refere o artigo anterior, a Junta de Colonização Interna procederá às respectivas alterações, se houver lugar a elas, e concluirá a elaboração do anteprojecto, do qual constarão os seguintes elementos:
 
 1.º O perímetro da zona a emparcelar;
 
@@ -364,15 +381,15 @@ f) Plano das obras e melhoramentos fundiários a levar a efeito no perímetro.
 
 7.º As servidões prediais relativas à nova ordenação da propriedade.
 
-###### Art. 38.º Terminada a elaboração do anteprojecto será este submetido à apreciação dos interessados, que poderão reclamar e recorrer nos prazos e pela forma referidos no artigo 48.º e seguintes.
+Art. 38.º Terminada a elaboração do anteprojecto será este submetido à apreciação dos interessados, que poderão reclamar e recorrer nos prazos e pela forma referidos no artigo 48.º e seguintes.
 
-###### Art. 39.º Decididas as reclamações e recursos e feitas as correcções a que houver lugar, o anteprojecto converter-se-á em projecto de emparcelamento, no caso de ter obtido a aprovação da maioria dos proprietários com maioria do rendimento colectável, entendendo-se que o aprovam os proprietários que expressamente assim o declarem e os que não tenham apresentado qualquer reclamação ou cujas reclamações tenham sido atendidas.
+Art. 39.º Decididas as reclamações e recursos e feitas as correcções a que houver lugar, o anteprojecto converter-se-á em projecto de emparcelamento, no caso de ter obtido a aprovação da maioria dos proprietários com maioria do rendimento colectável, entendendo-se que o aprovam os proprietários que expressamente assim o declarem e os que não tenham apresentado qualquer reclamação ou cujas reclamações tenham sido atendidas.
 
-###### Art. 40.º - 1. Se o anteprojecto não for aprovado, a Junta de Colonização Interna poderá modificá-lo, devendo submetê-lo de novo à apreciação dos interessados, nos termos do artigo 38.º
+Art. 40.º - 1. Se o anteprojecto não for aprovado, a Junta de Colonização Interna poderá modificá-lo, devendo submetê-lo de novo à apreciação dos interessados, nos termos do artigo 38.º
 
 2. Não havendo razões que justifiquem a modificação referida no número anterior ou quando, tendo sido alterado, o anteprojecto for novamente rejeitado, poderá o Secretário de Estado da Agricultura propô-lo, como projecto de emparcelamento, à apreciação do Conselho de Ministros, se considerar, mediante parecer da Junta de Colonização Interna, que a execução do emparcelamento permite eliminar graves inconvenientes de ordem económica e social.
 
-###### Art. 41.º - 1. O projecto de emparcelamento será presente ao Conselho de Ministros acompanhado de informação completa sobre as reclamações e os recursos que não tenham sido atendidos.
+Art. 41.º - 1. O projecto de emparcelamento será presente ao Conselho de Ministros acompanhado de informação completa sobre as reclamações e os recursos que não tenham sido atendidos.
 
 2. Se for aprovado, converter-se-á em plano de recomposição agrária da zona.
 
@@ -380,11 +397,11 @@ f) Plano das obras e melhoramentos fundiários a levar a efeito no perímetro.
 
 ##### SUBSECÇÃO IV — Da execução dos planos de recomposição agrária
 
-###### Art. 42.º - 1. Os proprietários ou possuidores por qualquer título de terreno em que tenha de proceder-se a estudos ou quaisquer trabalhos de emparcelamento ficam obrigados a consentir na ocupação desses terrenos e na passagem através deles enquanto durarem os referidos estudos ou trabalhos.
+Art. 42.º - 1. Os proprietários ou possuidores por qualquer título de terreno em que tenha de proceder-se a estudos ou quaisquer trabalhos de emparcelamento ficam obrigados a consentir na ocupação desses terrenos e na passagem através deles enquanto durarem os referidos estudos ou trabalhos.
 
 2. Os proprietários e possuidores referidos no número anterior têm direito a ser indemnizados pelos prejuízos efectivamente causados por esses estudos e trabalhos.
 
-###### Art. 43.º - 1. Os terrenos adquiridos por cada proprietário ficam sub-rogados no lugar dos terrenos alienados.
+Art. 43.º - 1. Os terrenos adquiridos por cada proprietário ficam sub-rogados no lugar dos terrenos alienados.
 
 2. Os direitos reais de gozo que possam ser transferidos, os direitos reais de garantia, os ónus de que tratam as alíneas m), n) e o) do artigo 2.º do Código de Registo Predial, os arrendamentos, mesmo que não tenham esta qualificação, e as parcerias agrícolas transferem-se dos terrenos alienados para os adquiridos; mas os arrendatários e os parceiros cultivadores podem rescindir os respectivos contratos.
 
@@ -394,27 +411,27 @@ f) Plano das obras e melhoramentos fundiários a levar a efeito no perímetro.
 
 5. A entrega dos novos lotes será feita na altura determinada pela Junta de Colonização Interna, ouvida a subcomissão de trabalho, e deverá ter em conta a época das várias colheitas.
 
-###### Art. 44.º O direito conferido no artigo anterior aos arrendatários e parceiros cultivadores caducará se não for exercido o prazo de 30 dias a contar de data em que lhes for notificada a delimitação dos novos lotes.
+Art. 44.º O direito conferido no artigo anterior aos arrendatários e parceiros cultivadores caducará se não for exercido o prazo de 30 dias a contar de data em que lhes for notificada a delimitação dos novos lotes.
 
 ##### SUBSECÇÃO V — Da titulação dos resultados do emparcelamento
 
-###### Art. 45.º - 1. Concluídos os trabalhos de execução do plano de recomposição agrária, será lavrado pela Junta de Colonização Interna e assinado pelo respectivo presidente um auto relativamente a cada proprietário, em que se fará menção das operações realizadas quanto aos seus bens e descrição pormenorizada, para efeito de inscrição matricial e de registo predial, do prédio ou prédios que lhe ficaram a pertencer e dos termos da transferência dos direitos e encargos que sobre as suas parcelas primitivas incidiam e devam subsistir.
+Art. 45.º - 1. Concluídos os trabalhos de execução do plano de recomposição agrária, será lavrado pela Junta de Colonização Interna e assinado pelo respectivo presidente um auto relativamente a cada proprietário, em que se fará menção das operações realizadas quanto aos seus bens e descrição pormenorizada, para efeito de inscrição matricial e de registo predial, do prédio ou prédios que lhe ficaram a pertencer e dos termos da transferência dos direitos e encargos que sobre as suas parcelas primitivas incidiam e devam subsistir.
 
 2. O auto e as suas certidões ou fotocópias, devidamente autenticadas, constituirão documento bastante para prova dos actos ou factos que dele constem.
 
 3. Consideram-se autenticadas as fotocópias com declaração de conformidade com o original datadas e assinadas pelo funcionário competente e autenticadas com o selo branco da Junta de Colonização Interna.
 
-###### Art. 46.º - 1. Com base no auto serão feitas nas matrizes prediais as inscrições e alterações decorrentes da recomposição agrária e na conservatória do registo predial competente a descrição e o registo da aquisição do prédio ou prédios resultantes do emparcelamento e dos direitos ou encargos que devam ser transferidos das primitivas parcelas.
+Art. 46.º - 1. Com base no auto serão feitas nas matrizes prediais as inscrições e alterações decorrentes da recomposição agrária e na conservatória do registo predial competente a descrição e o registo da aquisição do prédio ou prédios resultantes do emparcelamento e dos direitos ou encargos que devam ser transferidos das primitivas parcelas.
 
 2. Na descrição de cada prédio mencionar-se-ão a unidade de cultura fixada para a zona submetida a emparcelamento e a característica de indivisibilidade dos prédios situados no interior da mesma zona.
 
 3. Os registos serão requeridos pela Junta de Colonização Interna e os respectivos emolumentos serão pagos pelos interessados.
 
-###### Art. 47.º O original do auto referido nos artigos anteriores ficará arquivado na Junta de Colonização Interna, que fornecerá uma certidão ou fotocópia ao interessado.
+Art. 47.º O original do auto referido nos artigos anteriores ficará arquivado na Junta de Colonização Interna, que fornecerá uma certidão ou fotocópia ao interessado.
 
 #### SECÇÃO IV — Das reclamações e recursos
 
-###### Art. 48.º - 1. Os proprietários, bem como os titulares dos direitos e os beneficiários dos ónus referidos no artigo 35.º, poderão apresentar por escrito as reclamações que entenderem sobre o anteprojecto de emparcelamento.
+Art. 48.º - 1. Os proprietários, bem como os titulares dos direitos e os beneficiários dos ónus referidos no artigo 35.º, poderão apresentar por escrito as reclamações que entenderem sobre o anteprojecto de emparcelamento.
 
 2. As reclamações serão dirigidas ao presidente da comissão local de recomposição predial, em papel comum, e devem ser apresentadas no prazo de 30 dias a contar da data em que para o efeito forem notificados.
 
@@ -422,11 +439,11 @@ f) Plano das obras e melhoramentos fundiários a levar a efeito no perímetro.
 
 4. Se o reclamante apresentar a reclamação em duplicado, ser-lhe-á este devolvido com a nota de ter sido recebido o original.
 
-###### Art. 49.º Para os efeitos do artigo anterior, o anteprojecto estará patente aos interessados, para exame, em todos os dias úteis abrangidos no prazo para reclamar.
+Art. 49.º Para os efeitos do artigo anterior, o anteprojecto estará patente aos interessados, para exame, em todos os dias úteis abrangidos no prazo para reclamar.
 
-###### Art. 50.º As comissões locais de recomposição predial decidirão das reclamações no prazo máximo de 30 dias a contar do termo do período de reclamação.
+Art. 50.º As comissões locais de recomposição predial decidirão das reclamações no prazo máximo de 30 dias a contar do termo do período de reclamação.
 
-###### Art. 51.º - 1. Das decisões das comissões locais de recomposição predial cabe recurso para os tribunais arbitrais respectivos, a interpor no prazo de oito dias a contar da notificação da decisão, ou da data desta, se não houver lugar a notificação.
+Art. 51.º - 1. Das decisões das comissões locais de recomposição predial cabe recurso para os tribunais arbitrais respectivos, a interpor no prazo de oito dias a contar da notificação da decisão, ou da data desta, se não houver lugar a notificação.
 
 2. Os requerimentos de recurso serão em papel comum e dirigidos ao presidente do tribunal arbitral, e neles deverão os recorrentes formular concretamente a alteração ou alterações pretendidas, indicando as razões de facto e de direito que fundamentem a pretensão.
 
@@ -446,19 +463,19 @@ Os acórdãos serão lavrados pelo presidente e devidamente fundamentados, deven
 
 8. As decisões serão notificadas aos interessados e comunicadas à comissão local de recomposição predial no prazo de oito dias.
 
-###### Art. 52.º Nos requerimentos de reclamação e de recurso deverão os interessados indicar o seu domicílio na área da comarca da situação da zona a emparcelar, ou, se ali não residirem, escolher domicílio na mesma, para efeitos de notificações, sob pena de estas não lhes serem feitas, considerando-se então publicadas as decisões na data em que forem proferidas.
+Art. 52.º Nos requerimentos de reclamação e de recurso deverão os interessados indicar o seu domicílio na área da comarca da situação da zona a emparcelar, ou, se ali não residirem, escolher domicílio na mesma, para efeitos de notificações, sob pena de estas não lhes serem feitas, considerando-se então publicadas as decisões na data em que forem proferidas.
 
-###### Art. 53.º Se as decisões sobre reclamações ou recursos implicarem alterações do anteprojecto do emparcelamento, far-se-ão as respectivas correcções e notificar-se-ão os que nelas tenham interesse directo, podendo estes reclamar no prazo de oito dias e, oportunamente, recorrer das decisões que forem preferidas.
+Art. 53.º Se as decisões sobre reclamações ou recursos implicarem alterações do anteprojecto do emparcelamento, far-se-ão as respectivas correcções e notificar-se-ão os que nelas tenham interesse directo, podendo estes reclamar no prazo de oito dias e, oportunamente, recorrer das decisões que forem preferidas.
 
 #### SECÇÃO V — Da publicidade das operações de emparcelamento e da comunicação dos respectivos actos
 
-###### Art. 54.º - 1. A todas as decisões com interesse geral para as operações de emparcelamento será dada publicidade por anúncios nos jornais locais da zona a emparcelar e pela afixação de editais nos lugares do costume.
+Art. 54.º - 1. A todas as decisões com interesse geral para as operações de emparcelamento será dada publicidade por anúncios nos jornais locais da zona a emparcelar e pela afixação de editais nos lugares do costume.
 
 2. Se não se publicarem jornais na zona a emparcelar, serão os anúncios publicados num dos jornais mais lidos na mesma.
 
-###### Art. 55.º Todos os actos respeitantes a operações de emparcelamento que interessem individualmente aos proprietários ou titulares de quaisquer direitos sobre os terrenos a emparcelar serão notificados aos interessados.
+Art. 55.º Todos os actos respeitantes a operações de emparcelamento que interessem individualmente aos proprietários ou titulares de quaisquer direitos sobre os terrenos a emparcelar serão notificados aos interessados.
 
-###### Art. 56.º - 1. As notificações podem ser pessoais, por carta ou postal registado com aviso de recepção e editais.
+Art. 56.º - 1. As notificações podem ser pessoais, por carta ou postal registado com aviso de recepção e editais.
 
 2. As primeiras notificações, entendendo-se como tais as feitas nos termos do artigo 38.º, serão sempre efectuadas por carta ou postal registados com aviso de recepção, indicando-se aos interessados o local, os dias e as horas em que poderão examinar o anteprojecto e advertindo-se os mesmos do direito de apresentarem as reclamações que entenderem, no prazo de 30 dias, contados da data da recepção da notificação.
 
@@ -468,13 +485,13 @@ Os acórdãos serão lavrados pelo presidente e devidamente fundamentados, deven
 
 #### SECÇÃO VI — Disposições gerais
 
-###### Art. 57.º Mediante proposta devidamente fundamentada da Junta de Colonização Interna, ouvida a Corporação da Lavoura, o Governo, pelo Secretário de Estado da Agricultura, aprovará em portaria um regulamento especial para cada zona do País em que será fixada a superfície mínima, correspondente à unidade de cultura, de que trata a base I da [Lei n.º 2116](https://diariodarepublica.pt/dr/detalhe/lei/2116-1962-163451), de 14 de Agosto de 1962.
+Art. 57.º Mediante proposta devidamente fundamentada da Junta de Colonização Interna, ouvida a Corporação da Lavoura, o Governo, pelo Secretário de Estado da Agricultura, aprovará em portaria um regulamento especial para cada zona do País em que será fixada a superfície mínima, correspondente à unidade de cultura, de que trata a base I da [Lei n.º 2116](https://diariodarepublica.pt/dr/detalhe/lei/2116-1962-163451), de 14 de Agosto de 1962.
 
-###### Art. 58.º Para pagamento das tornas devidas pela aquisição de prédios indivisos, nos termos da base XI da [Lei n.º 2116](https://diariodarepublica.pt/dr/detalhe/lei/2116-1962-163451), poderá ser concedida assistência financeira do Estado pelo Fundo de Melhoramentos Agrícolas, nos termos do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), de 24 de Novembro de 1960.
+Art. 58.º Para pagamento das tornas devidas pela aquisição de prédios indivisos, nos termos da base XI da [Lei n.º 2116](https://diariodarepublica.pt/dr/detalhe/lei/2116-1962-163451), poderá ser concedida assistência financeira do Estado pelo Fundo de Melhoramentos Agrícolas, nos termos do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), de 24 de Novembro de 1960.
 
-###### Art. 59.º Desde o despacho que ordene os estudos preliminares para fins de emparcelamento até à execução do plano o Estado goza do direito de preferência, em primeiro lugar, na transmissão de terrenos situados na zona a emparcelar.
+Art. 59.º Desde o despacho que ordene os estudos preliminares para fins de emparcelamento até à execução do plano o Estado goza do direito de preferência, em primeiro lugar, na transmissão de terrenos situados na zona a emparcelar.
 
-###### Art. 60.º - 1. Iniciada a elaboração do anteprojecto, são ineficazes, para efeito de emparcelamento, as transmissões entre vivos de terrenos sujeitos à recomposição predial planeada e, para efeito de avaliação, os melhoramentos fundiários realizados sem autorização das comissões locais.
+Art. 60.º - 1. Iniciada a elaboração do anteprojecto, são ineficazes, para efeito de emparcelamento, as transmissões entre vivos de terrenos sujeitos à recomposição predial planeada e, para efeito de avaliação, os melhoramentos fundiários realizados sem autorização das comissões locais.
 
 2. Estas transmissões e melhoramentos poderão ser considerados plenamente eficazes quando a Junta de Colonização Interna reconhecer que não prejudicam a elaboração do anteprojecto de emparcelamento. Serão também considerados eficazes os actos que impliquem a transmissão global das parcelas pertencentes ao mesmo proprietário para um único adquirente.
 
@@ -482,20 +499,20 @@ Os acórdãos serão lavrados pelo presidente e devidamente fundamentados, deven
 
 4. Incumbe aos notários advertir os outorgantes dos actos de transmissão predial de que trata o número anterior.
 
-###### Art. 61.º - 1. Em qualquer fase da elaboração do anteprojecto de emparcelamento ou da execução do plano de recomposição agrária, a Junta de Colonização Interna ou a comissão local de recomposição predial podem notificar os proprietários interessados para prestarem os esclarecimentos necessários à verificação dos direitos e ao conhecimento das realidades em que devem assentar o estudo e a execução do emparcelamento.
+Art. 61.º - 1. Em qualquer fase da elaboração do anteprojecto de emparcelamento ou da execução do plano de recomposição agrária, a Junta de Colonização Interna ou a comissão local de recomposição predial podem notificar os proprietários interessados para prestarem os esclarecimentos necessários à verificação dos direitos e ao conhecimento das realidades em que devem assentar o estudo e a execução do emparcelamento.
 
 2. A notificação pode ser pessoal ou por postal registado com aviso de recepção. Incorrerá na multa de 100$00 a 500$00, a aplicar pelo juiz de direito da comarca da sua residência, o proprietário que não cumprir a notificação que lhe houver sido regularmente feita.
 
 3. Quando o proprietário não residir na zona a emparcelar, poderá ser notificado, na forma e sob a sanção previstas no número anterior, para comparecer perante o presidente da câmara do concelho da sua residência.
 
-###### Art. 62.º Os membros dos tribunais arbitrais têm direito ao pagamento de senhas de presença pelas sessões a que assistirem, do montante que for fixado por despacho do Secretário de Estado da Agricultura, de acordo com o Ministro das Finanças.
+Art. 62.º Os membros dos tribunais arbitrais têm direito ao pagamento de senhas de presença pelas sessões a que assistirem, do montante que for fixado por despacho do Secretário de Estado da Agricultura, de acordo com o Ministro das Finanças.
 
-###### Art. 63.º Aos membros das comissões locais de recomposição predial poderá ser arbitrada uma gratificação mensal durante os períodos de trabalho efectivo.
+Art. 63.º Aos membros das comissões locais de recomposição predial poderá ser arbitrada uma gratificação mensal durante os períodos de trabalho efectivo.
 
-###### Art. 64.º Os membros das comissões locais e dos tribunais arbitrais, incluindo os que não forem funcionários públicos, terão direito ao pagamento das despesas de transporte e ajudas de custo, quando tiverem de se deslocar do local da sua residência.
+Art. 64.º Os membros das comissões locais e dos tribunais arbitrais, incluindo os que não forem funcionários públicos, terão direito ao pagamento das despesas de transporte e ajudas de custo, quando tiverem de se deslocar do local da sua residência.
 
-###### Art. 65.º As gratificações e abonos a que se referem os artigos 63.º e 64.º serão fixados nos termos da parte final do artigo 62.º
+Art. 65.º As gratificações e abonos a que se referem os artigos 63.º e 64.º serão fixados nos termos da parte final do artigo 62.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 26 de Outubro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - João Mota Pereira de Campos.

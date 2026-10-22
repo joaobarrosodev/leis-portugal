@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/1134/2026/01/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/1134-2025-993605129
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-02T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eec88128b682b727f5debf9f6680fda11c2d3986b378cf671ad6644179d5eef9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25b49871b6cc385cb660adcb3132419e47e6d5b8262c627a68673d9334e6dae7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Nacionalidade
+- Código Penal
 - Crime
 - Inconstitucionalidade
-- Código Penal
+- Nacionalidade
 relationships:
 - type: cites
   target: eli:ht
@@ -115,16 +115,152 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/2/2006/04/17/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2006/04/17/p/dre
+- type: cites
+  target: pt:dre:1114610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116407649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163627662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1839479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1936228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213881448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2261401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2280685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2861335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2986994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656128:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67142147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73993294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:802860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:854130977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:856836263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:896173228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:909476478:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:48Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +275,7 @@ I - Relatório
 
 1 - Um grupo de cinquenta Deputados à Assembleia da República vem, ao abrigo do artigo 278.º, n.º 4, da Constituição da República Portuguesa, e dos artigos 51.º, n.º 1, e 57.º, n.º 1, da [Lei n.º 28/82](https://diariodarepublica.pt/dr/detalhe/lei/28-1982-377508), de 15 de novembro (Lei da Organização, Funcionamento e Processo do Tribunal Constitucional - LTC), submeter à apreciação deste Tribunal, em processo de fiscalização preventiva da constitucionalidade, um conjunto de normas constantes do Decreto da Assembleia da República n.º 18/XVII, que altera o Código Penal, criando a pena acessória de perda da nacionalidade. Este Decreto foi aprovado pela Assembleia da República em 28 de outubro de 2025, tendo sido enviado ao Presidente da República para promulgação como lei orgânica em 11 de novembro de 2025.
 
-2 - As normas objeto do pedido são as constantes dos n.<sup>os</sup>1, 2, alínea a), 4, 5 e 6 do artigo 69.º-D, aditado ao Código Penal pelo artigo 2.º do Decreto da Assembleia da República n.º 18/XVII.
+2 - As normas objeto do pedido são as constantes dos n.os1, 2, alínea a), 4, 5 e 6 do artigo 69.º-D, aditado ao Código Penal pelo artigo 2.º do Decreto da Assembleia da República n.º 18/XVII.
 
 3 - As referidas normas têm o seguinte conteúdo:
 
@@ -199,7 +335,7 @@ j) Crimes de tráfico de estupefacientes ou de substâncias psicotrópicas, prev
 
 4 - No essencial, a argumentação apresentada pelos requerentes para fundamentar o seu pedido desenvolve-se em três planos.
 
-Em primeiro lugar, sublinhando a centralidade do direito à cidadania no ordenamento jurídico-constitucional português, as suas caraterísticas diferenciadoras (enquanto «direito a ter direitos») e a gravidade da intervenção restritiva em causa (traduzida numa «privação total do direito à cidadania para o seu titular», acrescida de um «extenso período temporal em que nem sequer se torna possível a sua reaquisição»), os requerentes duvidam que a ponderação alcançada no Decreto da Assembleia da República n.º 18/XVII, maxime nas normas contidas nos n.<sup>os</sup>1 e 4 do artigo 69.º-D, cumpra as exigências colocadas pelo princípio da proporcionalidade (cf. artigo 18.º, n.º 2, da Constituição). Além disso, consideram que o disposto pela alínea a) do n.º 2 do artigo 69.º-D, atenta a excessiva margem de apreciação que confere ao julgador, viola o princípio da legalidade criminal (cf. artigo 29.º, n.º 1, da Constituição). Concretizam nos seguintes termos:
+Em primeiro lugar, sublinhando a centralidade do direito à cidadania no ordenamento jurídico-constitucional português, as suas caraterísticas diferenciadoras (enquanto «direito a ter direitos») e a gravidade da intervenção restritiva em causa (traduzida numa «privação total do direito à cidadania para o seu titular», acrescida de um «extenso período temporal em que nem sequer se torna possível a sua reaquisição»), os requerentes duvidam que a ponderação alcançada no Decreto da Assembleia da República n.º 18/XVII, maxime nas normas contidas nos n.os1 e 4 do artigo 69.º-D, cumpra as exigências colocadas pelo princípio da proporcionalidade (cf. artigo 18.º, n.º 2, da Constituição). Além disso, consideram que o disposto pela alínea a) do n.º 2 do artigo 69.º-D, atenta a excessiva margem de apreciação que confere ao julgador, viola o princípio da legalidade criminal (cf. artigo 29.º, n.º 1, da Constituição). Concretizam nos seguintes termos:
 
 «11.º
 
@@ -243,7 +379,7 @@ Finalmente, no que respeita à ponderação da culpa do agente e da gravidade do
 
 Sem prejuízo da existência de um juízo autónomo quanto à aplicação da sanção (no quadro do qual, fruto da presença intensa de conceitos indeterminados com pouca densidade até se confere alguma margem de apreciação ao julgador - excessiva na ótica do princípio da legalidade penal, em particular o disposto na alínea a) do n.º 2 do artigo 69.º-D), esse juízo não terá como acomodar a menor gravidade do crime em presença ou da conduta do agente».
 
-Em segundo lugar, os requerentes entendem que o disposto nos n.<sup>os</sup>5 e 6 do artigo 69.º-D viola a proibição de penas com carácter perpétuo ou de duração ilimitada ou indefinida (cf. artigo 30.º, n.º 1, da Constituição), com base na seguinte fundamentação:
+Em segundo lugar, os requerentes entendem que o disposto nos n.os5 e 6 do artigo 69.º-D viola a proibição de penas com carácter perpétuo ou de duração ilimitada ou indefinida (cf. artigo 30.º, n.º 1, da Constituição), com base na seguinte fundamentação:
 
 «21.º
 
@@ -261,7 +397,7 @@ No caso vertente, ainda para mais, lidamos com um contexto em que as autoridades
 
 24.º
 
-Consequentemente, os n.<sup>os</sup>5 e 6 do artigo 69.º-D que o Decreto vem aditar ao Código Penal incorrem numa contradição insanável com o postulado na própria Lei da Nacionalidade, admitindo um procedimento de reaquisição que aquela lei expressamente veda. Atenta a formulação do enunciado normativo, nem sequer se aventa como possível tratar-se de um normativo especial, uma vez que quer o n.º 5, quer o n.º 6 expressamente indicam que a reaquisição se faz “nos termos da Lei da Nacionalidade”. Em suma (e conforme indicado também, a título de exemplo, no pareceres remetidos pelos Professores Doutores Jorge Bacelar Gouveia e Inês Ferreira Leite), a fórmula adotada não parece obstar à produção do efeito de perpetuidade, violando o n.º 1 do artigo 30.º da Constituição, condenando primeiro o agente à perda da nacionalidade, e mantendo-o depois num círculo vicioso do qual não logra sair, não podendo readquirir a nacionalidade (atento o facto acrescido de, no caso de entrar em vigor, o Decreto da Assembleia da República n.º 17/XVII passar a determinar que também na aquisição por casamento há que preencher o requisito negativo)».
+Consequentemente, os n.os5 e 6 do artigo 69.º-D que o Decreto vem aditar ao Código Penal incorrem numa contradição insanável com o postulado na própria Lei da Nacionalidade, admitindo um procedimento de reaquisição que aquela lei expressamente veda. Atenta a formulação do enunciado normativo, nem sequer se aventa como possível tratar-se de um normativo especial, uma vez que quer o n.º 5, quer o n.º 6 expressamente indicam que a reaquisição se faz “nos termos da Lei da Nacionalidade”. Em suma (e conforme indicado também, a título de exemplo, no pareceres remetidos pelos Professores Doutores Jorge Bacelar Gouveia e Inês Ferreira Leite), a fórmula adotada não parece obstar à produção do efeito de perpetuidade, violando o n.º 1 do artigo 30.º da Constituição, condenando primeiro o agente à perda da nacionalidade, e mantendo-o depois num círculo vicioso do qual não logra sair, não podendo readquirir a nacionalidade (atento o facto acrescido de, no caso de entrar em vigor, o Decreto da Assembleia da República n.º 17/XVII passar a determinar que também na aquisição por casamento há que preencher o requisito negativo)».
 
 Em terceiro lugar, os requerentes consideram que o disposto no n.º 1 do artigo 69.º-D viola os princípios da universalidade e da igualdade (cf. artigos 12.º e 13.º da Constituição), pelos seguintes motivos:
 
@@ -285,7 +421,7 @@ A Constituição não prevê outra leitura daquele direito fundamental senão aq
 
 Este é também, de resto, o entendimento que subjaz à Convenção Europeia da Nacionalidade, que no n.º 2 do seu artigo 5.º afirma que cada “Estado Parte regular-se-á pelo princípio da não discriminação entre os seus nacionais, independentemente da nacionalidade ter sido adquirida por nascimento ou em qualquer momento subsequente”, e que tem acolhimento no Direito da União Europeia, que reconhece a cidadania da União a qualquer nacional de Estado-membro, independentemente da forma de obtenção».
 
-Em síntese, o grupo de cinquenta Deputados à Assembleia da República requer ao Tribunal Constitucional a fiscalização preventiva da constitucionalidade das normas constantes dos n.<sup>os</sup>1, 2, alínea a), 4, 5 e 6 do artigo 69.º-D, aditado ao Código Penal pelo artigo 2.º do Decreto da Assembleia da República n.º 18/XVII, por violação dos princípios da proporcionalidade, da legalidade criminal, da universalidade e da igualdade, bem como da proibição de penas com carácter perpétuo ou de duração ilimitada ou indefinida, decorrentes dos artigos 12.º, 13.º, 18.º, n.º 2, 29.º e 30.º, n.º 1, todos da Constituição.
+Em síntese, o grupo de cinquenta Deputados à Assembleia da República requer ao Tribunal Constitucional a fiscalização preventiva da constitucionalidade das normas constantes dos n.os1, 2, alínea a), 4, 5 e 6 do artigo 69.º-D, aditado ao Código Penal pelo artigo 2.º do Decreto da Assembleia da República n.º 18/XVII, por violação dos princípios da proporcionalidade, da legalidade criminal, da universalidade e da igualdade, bem como da proibição de penas com carácter perpétuo ou de duração ilimitada ou indefinida, decorrentes dos artigos 12.º, 13.º, 18.º, n.º 2, 29.º e 30.º, n.º 1, todos da Constituição.
 
 5 - Notificado para o efeito previsto no artigo 54.º da LTC, o Presidente da Assembleia da República ofereceu o merecimento dos autos, enviando ainda uma nota técnica sobre os trabalhos preparatórios que precederam a aprovação do Decreto da Assembleia da República n.º 18/XVII, elaborada pelos serviços de apoio à Comissão Parlamentar de Assuntos Constitucionais, Direitos, Liberdades e Garantias.
 
@@ -295,7 +431,7 @@ II - Fundamentação
 
 A. Conhecimento do pedido
 
-7 - Considerada a legitimidade dos requerentes (artigo 278.º, n.º 4, da Constituição), a circunstância de o pedido conter todas as indicações a que se refere o artigo 51.º, n.º 1, da LTC e a observância dos prazos aplicáveis (artigo 278.º, n.º 6, da Constituição e artigos 54.º, 56.º, n.º 4, 57.º, n.<sup>os</sup>1 e 2, e 58.º da LTC), nada obsta ao conhecimento das questões de constitucionalidade formuladas nos presentes autos.
+7 - Considerada a legitimidade dos requerentes (artigo 278.º, n.º 4, da Constituição), a circunstância de o pedido conter todas as indicações a que se refere o artigo 51.º, n.º 1, da LTC e a observância dos prazos aplicáveis (artigo 278.º, n.º 6, da Constituição e artigos 54.º, 56.º, n.º 4, 57.º, n.os1 e 2, e 58.º da LTC), nada obsta ao conhecimento das questões de constitucionalidade formuladas nos presentes autos.
 
 B. Considerações introdutórias
 
@@ -405,7 +541,7 @@ A esta soma-se uma dimensão positiva, que passa por um «direito à nacionalida
 
 2 - Não obstante o disposto no n.º 1 do presente artigo, um indivíduo pode ser privado da nacionalidade de um Estado Contratante quando:
 
-a) Nos termos dos n.<sup>os</sup>4 e 5 do artigo 7.º, a perda da nacionalidade seja admissível;
+a) Nos termos dos n.os4 e 5 do artigo 7.º, a perda da nacionalidade seja admissível;
 
 b) Tenha obtido essa nacionalidade por meio de falsas declarações ou por qualquer outro meio fraudulento.
 
@@ -419,7 +555,7 @@ ii) Tido um comportamento que prejudique seriamente os interesses vitais do Esta
 
 b) Quando um indivíduo tenha prestado juramento ou feito uma declaração formal de fidelidade a um outro Estado, ou tenha de forma inequívoca manifestado a sua determinação em renegar a sua fidelidade ao Estado Contratante.
 
-4 - Um Estado Contratante só pode privar um indivíduo da sua nacionalidade nas condições fixadas nos n.<sup>os</sup>2 e 3 do presente artigo, caso essa faculdade esteja prevista na lei, a qual deverá reconhecer ao indivíduo visado o direito a um processo justo perante um tribunal ou outro órgão independente.»
+4 - Um Estado Contratante só pode privar um indivíduo da sua nacionalidade nas condições fixadas nos n.os2 e 3 do presente artigo, caso essa faculdade esteja prevista na lei, a qual deverá reconhecer ao indivíduo visado o direito a um processo justo perante um tribunal ou outro órgão independente.»
 
 «Artigo 9.º
 
@@ -479,7 +615,7 @@ g) Adopção de um menor, se esse menor adquirir ou possuir a nacionalidade estr
 
 2 - Um Estado Parte poderá prever a perda da sua nacionalidade por menores cujos pais percam tal nacionalidade, salvo nos casos previstos pelas alíneas c) e d) do n.º 1. Contudo, os menores não perderão tal nacionalidade se um dos seus pais a retiver.
 
-3 - O direito interno de um Estado Parte não deverá prever a perda da sua nacionalidade nos termos dos n.<sup>os</sup>1 e 2 do presente artigo se o indivíduo em causa se tornar, consequentemente, um apátrida, com excepção dos casos previstos no n.º 1, alínea b), do presente artigo.»
+3 - O direito interno de um Estado Parte não deverá prever a perda da sua nacionalidade nos termos dos n.os1 e 2 do presente artigo se o indivíduo em causa se tornar, consequentemente, um apátrida, com excepção dos casos previstos no n.º 1, alínea b), do presente artigo.»
 
 O rol de fundamentos para a privação da cidadania constante do referido preceito da CEN é entendido como uma lista máxima, nada impedindo que os Estados Partes, como fez Portugal no quadro da LdN vigente (cf. artigo 8.º), optem por um uso minimalista. Importa ter presente que convergem no preceito situações distintas: enquanto exercício de um direito ancorado em termos jus-internacionais e jusfundamentais de mudar de nacionalidade e também como sanção (cf. José María Espinar Vicente e Montserrat Guzmán Peces, La nacionalidade y la extranjería en el sistema jurídico español, Madrid, Dykinson, 2017, pp. 102-109). Deste elenco, o artigo 7.º, alínea d) - «Conduta que prejudique seriamente os interesses vitais do Estado Parte» - é o que se afigura mais relevante no contexto do caso sub judice, exigindo trabalho de concretização. Tradicionalmente, caem aqui situações como combater ao lado do inimigo contra o próprio Estado nacional, por exemplo. A formulação foi, aliás, acolhida no direito da nacionalidade do Reino Unido («seriously prejudicial to the vital interests» - cf. Nationality, Immigration and Asylum Act 2002). Assinale-se que é precisamente por via desta formulação que se tem tentado alargar, como se densificará, o elenco de crimes mobilizados para a privação da cidadania (v.g., alterações ao quadro normativo dinamarquês: cf., para uma síntese, Christian Prener, Denationalisation and its discontents - citizenship revocation in the 21st century: legal, political and moral implications, Leiden/Boston, Brill Nijhoff, 2023, esp. pp. 224-227).
 
@@ -501,7 +637,7 @@ iii) Uma privação da cidadania pode, em certas circunstâncias, conduzir à vi
 
 Neste sentido apontou, de forma inovadora, o Acórdão Ramadan c. Malta, queixa n.º 76136/12, de 17 de outubro de 2016, relativo a um caso de privação da cidadania maltesa em razão de anulação judicial de matrimónio contraído pelo queixoso de forma fraudulenta, já após este ter renunciado à cidadania egípcia como condição para a aquisição daquela primeira, o que o deixou em situação de apatridia. O Tribunal de Estrasburgo concluiu, por maioria, não ter havido lugar à violação pelo Estado maltês das obrigações resultantes do artigo 8.º da CEDH, considerando que a privação da cidadania foi determinada nos termos da lei, em observância do due process e com garantias de defesa adequadas, realçando ainda que a situação precária de apatridia do queixoso foi consequência do seu comportamento e de escolhas de índole fraudulenta.
 
-Relevantes são, do mesmo modo, o Acórdão K2 c. Reino Unido, queixa n.º 42387/13, de 7 de fevereiro de 2017 (privação da cidadania britânica por parte de indivíduo com dupla cidadania - sudanesa e britânica -, em razão de alegado envolvimento em atividades terroristas), o Acórdão Ghoumid e Outros c. França, queixas n.<sup>os</sup>52273/16, 52285/16, 52290/16, 52294/16 e 52302/16, de 25 de setembro de 2020 (privação da cidadania francesa por parte de cinco indivíduos com dupla cidadania - marroquina e francesa -, em razão de condenação por participação em associação com fins terroristas), o Acórdão Adam Johansen c. Dinamarca, queixa n.º 27801/19, de 1 de fevereiro de 2022 (privação da cidadania dinamarquesa por parte de indivíduo com dupla cidadania - dinamarquesa e tunisina -, em razão de condenação por atividades terroristas ligadas ao denominado Estado Islâmico), o Acórdão Laraba c. Dinamarca, queixa n.º 26781/19, de 22 de março de 2022 (privação da cidadania dinamarquesa por parte de indivíduo com dupla cidadania - dinamarquesa e argelina -, em razão de condenação por atividades terroristas ligadas ao designado Estado Islâmico) e o Acórdão El Aroud e B.S. c. Bélgica, queixas n.<sup>os</sup>25491/18 e 27629/18, de 28 de abril de 2025 (privação da cidadania belga de dois indivíduos com dupla cidadania - belga e marroquina e belga e tunisina, respetivamente -, em razão de condenação por atividades terroristas). Em todos estes casos, o TEDH ou considerou as queixas inadmissíveis por serem «manifestamente mal fundadas» (cf. os referidos Acórdão K2 c. Reino Unido, Acórdão Adam Johansen c. Dinamarca e Acórdão Laraba c. Dinamarca) ou concluiu não ter havido lugar à violação por parte dos respetivos Estados das obrigações resultantes do artigo 8.º da CEDH (cf. os referidos Acórdão Ghoumid e Outros c. França e Acórdão El Aroud e B.S. c. Bélgica), porquanto as autoridades nacionais haviam atuado ao abrigo e em conformidade com a lei, de forma diligente e célere, e respeitando todas as garantias processuais relevantes. Em particular, destacou também que a existência de suspeitas fundadas ou decisões condenatórias face aos indivíduos em causa por atividades terroristas ou participação em associações dessa natureza autoriza os Estados a reavaliar, com maior rigor, se aqueles mantêm um laço de lealdade com o mesmo, alargando de forma relevante a sua margem de apreciação nesta matéria.
+Relevantes são, do mesmo modo, o Acórdão K2 c. Reino Unido, queixa n.º 42387/13, de 7 de fevereiro de 2017 (privação da cidadania britânica por parte de indivíduo com dupla cidadania - sudanesa e britânica -, em razão de alegado envolvimento em atividades terroristas), o Acórdão Ghoumid e Outros c. França, queixas n.os52273/16, 52285/16, 52290/16, 52294/16 e 52302/16, de 25 de setembro de 2020 (privação da cidadania francesa por parte de cinco indivíduos com dupla cidadania - marroquina e francesa -, em razão de condenação por participação em associação com fins terroristas), o Acórdão Adam Johansen c. Dinamarca, queixa n.º 27801/19, de 1 de fevereiro de 2022 (privação da cidadania dinamarquesa por parte de indivíduo com dupla cidadania - dinamarquesa e tunisina -, em razão de condenação por atividades terroristas ligadas ao denominado Estado Islâmico), o Acórdão Laraba c. Dinamarca, queixa n.º 26781/19, de 22 de março de 2022 (privação da cidadania dinamarquesa por parte de indivíduo com dupla cidadania - dinamarquesa e argelina -, em razão de condenação por atividades terroristas ligadas ao designado Estado Islâmico) e o Acórdão El Aroud e B.S. c. Bélgica, queixas n.os25491/18 e 27629/18, de 28 de abril de 2025 (privação da cidadania belga de dois indivíduos com dupla cidadania - belga e marroquina e belga e tunisina, respetivamente -, em razão de condenação por atividades terroristas). Em todos estes casos, o TEDH ou considerou as queixas inadmissíveis por serem «manifestamente mal fundadas» (cf. os referidos Acórdão K2 c. Reino Unido, Acórdão Adam Johansen c. Dinamarca e Acórdão Laraba c. Dinamarca) ou concluiu não ter havido lugar à violação por parte dos respetivos Estados das obrigações resultantes do artigo 8.º da CEDH (cf. os referidos Acórdão Ghoumid e Outros c. França e Acórdão El Aroud e B.S. c. Bélgica), porquanto as autoridades nacionais haviam atuado ao abrigo e em conformidade com a lei, de forma diligente e célere, e respeitando todas as garantias processuais relevantes. Em particular, destacou também que a existência de suspeitas fundadas ou decisões condenatórias face aos indivíduos em causa por atividades terroristas ou participação em associações dessa natureza autoriza os Estados a reavaliar, com maior rigor, se aqueles mantêm um laço de lealdade com o mesmo, alargando de forma relevante a sua margem de apreciação nesta matéria.
 
 Posição distinta foi a adotada pelo Tribunal de Estrasburgo no Acórdão Usmanov c. Rússia, queixa n.º 43936/18, de 22 de março de 2021, onde aquele aproveitou para esclarecer qual a sua posição em relação à privação da cidadania. Neste sentido, referiu que:
 
@@ -517,7 +653,7 @@ c) Se as autoridades nacionais atuaram ou não de maneira diligente e célere.
 
 No caso concreto, seguindo esta metodologia, o Tribunal de Estrasburgo concluiu pela violação das obrigações assumidas pelo Estado russo à luz do artigo 8.º da CEDH.
 
-Esta mesma metodologia tem vindo a ser mobilizada pelo TEDH em casos análogos, como mostra, por exemplo, o Acórdão Emin Huseynov c. Azerbaijão (n.º 2), queixa n.º 1/16, de 13 de outubro de 2023 (privação da cidadania azerbaijana de um indivíduo, jornalista independente e presidente de uma organização não-governamental de proteção de jornalistas, deixando-o em situação de apatridia); e, ainda, em casos de recusa de emissão de documento de identidade (Acórdão Ahmadov c. Azerbaijão, queixa n.º 32538/10, de 30 de maio de 2020 e Acórdão Hashemi e Outros c. Azerbaijão, queixas n.<sup>os</sup>1480/16, 3936/16, 15835/16, 28034/16, 34491/16, 51348/16 e 15904/17, de 13 de abril de 2022).
+Esta mesma metodologia tem vindo a ser mobilizada pelo TEDH em casos análogos, como mostra, por exemplo, o Acórdão Emin Huseynov c. Azerbaijão (n.º 2), queixa n.º 1/16, de 13 de outubro de 2023 (privação da cidadania azerbaijana de um indivíduo, jornalista independente e presidente de uma organização não-governamental de proteção de jornalistas, deixando-o em situação de apatridia); e, ainda, em casos de recusa de emissão de documento de identidade (Acórdão Ahmadov c. Azerbaijão, queixa n.º 32538/10, de 30 de maio de 2020 e Acórdão Hashemi e Outros c. Azerbaijão, queixas n.os1480/16, 3936/16, 15835/16, 28034/16, 34491/16, 51348/16 e 15904/17, de 13 de abril de 2022).
 
 Por fim, é também imprescindível mencionar que o TEDH não considerou a apatridia na sequência da privação da cidadania como suscetível de configurar «tortura» ou uma «pena ou tratamento desumano ou degradante» para os efeitos do disposto no artigo 3.º da CEDH - neste sentido, vd. o Acórdão Makuc e Outros c. Eslovénia, queixa n.º 26828/06, de 31 de maio de 2007, §§198-201.
 
@@ -541,7 +677,7 @@ Note-se, porém, que «o artigo 4.º está longe de constituir uma simples remis
 
 i) Vigora nesta matéria quer uma «reserva de lei da Assembleia» (artigo 164.º, alínea f), da Constituição) quer uma «reserva de tratado ou acordo da Assembleia» (artigo 161.º, alínea i), da Constituição);
 
-ii) Desde a revisão constitucional de 1982 (cf. [Lei Constitucional n.º 1/82](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-1982-375254), de 30 de setembro), o artigo 26.º passou também a consagrar expressamente um direito à cidadania (n.º 1), bem como menção ao facto de que «[a] privação da cidadania e as restrições à capacidade civil só podem efetuar-se nos casos e termos previstos na lei, não podendo ter como fundamento motivos políticos» (n.º 3; hoje, n.º 4). E, note-se, está em causa um «direito, liberdade e garantia», o que, como sintetizou este Tribunal, nomeadamente nos seus Acórdãos n.<sup>os</sup>[599/2005](https://diariodarepublica.pt/dr/detalhe/acordao/599-2005-2280685) e 497/2019, «postula a sua subordinação a alguns corolários garantísticos que constitucionalmente enformam os direitos fundamentais, nomeadamente, aos princípios da sua universalidade e da igualdade, a vocação para a sua aplicabilidade direta, a vinculação de todas as autoridades públicas e privadas e a sujeição das restrições legais ao regime exigente constante dos n.<sup>os</sup>2 e 3 do artigo 18.º da CRP»;
+ii) Desde a revisão constitucional de 1982 (cf. [Lei Constitucional n.º 1/82](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-1982-375254), de 30 de setembro), o artigo 26.º passou também a consagrar expressamente um direito à cidadania (n.º 1), bem como menção ao facto de que «[a] privação da cidadania e as restrições à capacidade civil só podem efetuar-se nos casos e termos previstos na lei, não podendo ter como fundamento motivos políticos» (n.º 3; hoje, n.º 4). E, note-se, está em causa um «direito, liberdade e garantia», o que, como sintetizou este Tribunal, nomeadamente nos seus Acórdãos n.os[599/2005](https://diariodarepublica.pt/dr/detalhe/acordao/599-2005-2280685) e 497/2019, «postula a sua subordinação a alguns corolários garantísticos que constitucionalmente enformam os direitos fundamentais, nomeadamente, aos princípios da sua universalidade e da igualdade, a vocação para a sua aplicabilidade direta, a vinculação de todas as autoridades públicas e privadas e a sujeição das restrições legais ao regime exigente constante dos n.os2 e 3 do artigo 18.º da CRP»;
 
 iii) O direito à cidadania encontra-se abrangido pela «cláusula de intangibilidade» consagrada no artigo 19.º, n.º 6, da Constituição, não podendo ser afetado em caso de «declaração do estado de sítio ou do estado de emergência»;
 
@@ -585,7 +721,7 @@ A Constituição de 1911 vedava o acesso ao cargo de Presidente da República a 
 
 No caso sub judice, o legislador não pôs em causa que todos os cidadãos, independentemente do modo de obtenção da nacionalidade portuguesa, gozam dos mesmos direitos (sem prejuízo da mencionada ressalva constitucional do artigo 122.º da Constituição). Assim, conclui-se pela não violação do princípio da universalidade, consagrado no artigo 12.º da Constituição.
 
-18.3 - No entanto, está em causa uma diferenciação de tratamento, a avaliar em sede de princípio da igualdade (cf. artigo 13.º da Constituição), que, a haver lugar à privação da cidadania, se traduzirá numa perda de direitos. A questão concreta a analisar, por referência ao disposto na alínea a) do n.º 1 do artigo 69.º-D, é a de saber se há fundamento material bastante que justifique a diferenciação de tratamento operada em função do modo de obtenção da cidadania, bem como do (maior ou menor) período transcorrido desde o momento em que tal se concretizou. Por outras palavras, pretende saber-se se tal diferenciação prossegue um fim e sentido legítimos à luz da Constituição, alicerçando-se em argumentos que possam ser considerados sérios e razoáveis. De facto, como notam Gomes Canotilho e Vital Moreira, «quer o fim, quer os critérios do tratamento desigual têm de estar em conformidade com a Constituição. Mas, para além disso, o tratamento desigual deve pautar-se por critérios de justiça, exigindo-se, desta forma, uma correspondência entre a solução desigualitária e o parâmetro de justiça que lhe empresta fundamento material» (cf. Constituição da República Portuguesa Anotada, Vol. I, 4.ª edição, Coimbra, Coimbra Editora, 2014, pp. 340-341; e ainda, essencialmente no mesmo sentido, Jorge Miranda e Rui Medeiros, “Artigo 13.º”, in Idem, Constituição portuguesa anotada, Vol. I, 2.ª edição, Lisboa, Universidade Católica Editora, 2017, pp. 167-179). No mesmo sentido também tem vindo este Tribunal a pronunciar-se de forma reiterada, por exemplo, nos Acórdãos n.<sup>os</sup>[191/88](https://diariodarepublica.pt/dr/detalhe/acordao/191-1988-354767), [231/94](https://diariodarepublica.pt/dr/detalhe/acordao/231-1994-265678), 609/94, [563/96](https://diariodarepublica.pt/dr/detalhe/acordao/563-1996-468674) e [69/2008](https://diariodarepublica.pt/dr/detalhe/acordao/69-2008-1839479) (apenas para mencionar aqueles onde as ideias precedentes estão vincadas de forma mais clara, ainda que no quadro de casos distintos deste).
+18.3 - No entanto, está em causa uma diferenciação de tratamento, a avaliar em sede de princípio da igualdade (cf. artigo 13.º da Constituição), que, a haver lugar à privação da cidadania, se traduzirá numa perda de direitos. A questão concreta a analisar, por referência ao disposto na alínea a) do n.º 1 do artigo 69.º-D, é a de saber se há fundamento material bastante que justifique a diferenciação de tratamento operada em função do modo de obtenção da cidadania, bem como do (maior ou menor) período transcorrido desde o momento em que tal se concretizou. Por outras palavras, pretende saber-se se tal diferenciação prossegue um fim e sentido legítimos à luz da Constituição, alicerçando-se em argumentos que possam ser considerados sérios e razoáveis. De facto, como notam Gomes Canotilho e Vital Moreira, «quer o fim, quer os critérios do tratamento desigual têm de estar em conformidade com a Constituição. Mas, para além disso, o tratamento desigual deve pautar-se por critérios de justiça, exigindo-se, desta forma, uma correspondência entre a solução desigualitária e o parâmetro de justiça que lhe empresta fundamento material» (cf. Constituição da República Portuguesa Anotada, Vol. I, 4.ª edição, Coimbra, Coimbra Editora, 2014, pp. 340-341; e ainda, essencialmente no mesmo sentido, Jorge Miranda e Rui Medeiros, “Artigo 13.º”, in Idem, Constituição portuguesa anotada, Vol. I, 2.ª edição, Lisboa, Universidade Católica Editora, 2017, pp. 167-179). No mesmo sentido também tem vindo este Tribunal a pronunciar-se de forma reiterada, por exemplo, nos Acórdãos n.os[191/88](https://diariodarepublica.pt/dr/detalhe/acordao/191-1988-354767), [231/94](https://diariodarepublica.pt/dr/detalhe/acordao/231-1994-265678), 609/94, [563/96](https://diariodarepublica.pt/dr/detalhe/acordao/563-1996-468674) e [69/2008](https://diariodarepublica.pt/dr/detalhe/acordao/69-2008-1839479) (apenas para mencionar aqueles onde as ideias precedentes estão vincadas de forma mais clara, ainda que no quadro de casos distintos deste).
 
 Note-se que, na tradição constitucional portuguesa e não só, as previsões de privação de cidadania não discriminavam quanto à forma de obtenção da cidadania. Assim, logo na Constituição de 1822, o artigo 23.º estabelecia como causa de «[perda da] qualidade de cidadão Português»:
 
@@ -701,21 +837,21 @@ E, note-se, as críticas até agora tecidas estendem-se também ao modelo tempor
 
 Tudo isto confirmando, como logo se adiantou, não existir fundamento material bastante para a diferenciação de tratamento operada em função do modo de obtenção da cidadania (aquisição da nacionalidade em confronto com atribuição da nacionalidade), bem como do período transcorrido desde o momento em que tal se concretizou (aquisição há menos de 10 anos em confronto com aquisição há mais de 10 anos). Aliás, o alargamento do âmbito subjetivo da pena acessória de perda da nacionalidade portuguesa, operado nos termos referidos supra, face àquele que constava da versão originária - e que, recorde-se, estava limitado aos casos de aquisição por naturalização -, ao tornar possível a aplicação da referida pena acessória a cidadãos que tenham adquirido a nacionalidade por efeito da vontade ou pela adoção, não só não resolveu o problema da diferença injustificada de tratamento face a cidadãos que tenham obtido a nacionalidade portuguesa por atribuição, como abriu a porta a diferenças de tratamento face àqueles que a tenham adquirido por naturalização. Com efeito, o modelo temporalmente dual adotado pode, em certos casos e em relação a determinados destinatários, diminuir ou mesmo afastar a aplicabilidade da pena acessória.
 
-Concluindo este ponto, a norma do n.º 1 do artigo 69.º-D, aditado ao Código Penal pelo artigo 2.º do Decreto da Assembleia da República n.º 18/XVII, viola o princípio da igualdade, decorrente do artigo 13.º da Constituição. Dado o carácter matricial deste n.º 1, a afirmação da sua inconstitucionalidade não pode deixar de se repercutir nas restantes normas objeto do pedido (cf. n.<sup>os</sup>2, alínea a), 4, 5 e 6 daquele artigo), que estão dependentes da própria previsão da pena acessória de perda da nacionalidade portuguesa, desenvolvendo o seu regime. Tanto bastaria para concluir pela inconstitucionalidade das normas fiscalizadas.
+Concluindo este ponto, a norma do n.º 1 do artigo 69.º-D, aditado ao Código Penal pelo artigo 2.º do Decreto da Assembleia da República n.º 18/XVII, viola o princípio da igualdade, decorrente do artigo 13.º da Constituição. Dado o carácter matricial deste n.º 1, a afirmação da sua inconstitucionalidade não pode deixar de se repercutir nas restantes normas objeto do pedido (cf. n.os2, alínea a), 4, 5 e 6 daquele artigo), que estão dependentes da própria previsão da pena acessória de perda da nacionalidade portuguesa, desenvolvendo o seu regime. Tanto bastaria para concluir pela inconstitucionalidade das normas fiscalizadas.
 
 E.1.2. Princípio da proporcionalidade
 
 19 - O Decreto da Assembleia da República n.º 18/XVII, ao criar uma pena acessória de perda da nacionalidade portuguesa, leva inexoravelmente a cabo uma restrição ao já referido direito à cidadania consagrado no artigo 26.º, n.º 1, da Constituição - e, mais do que isso, uma restrição a um «direito, liberdade e garantia», conquanto aquele se encontra formalmente inserido no Capítulo I do Título II da Parte I da Constituição.
 
-Aliás, como sublinham os requerentes, está em causa uma restrição muito intensa do referido direito, não apenas considerando a relevância que a Constituição lhe confere e a sua proximidade à dignidade da pessoa humana, mas também tendo em conta que o resultado da aplicação de tal pena acessória, se e quando a mesma se vier a concretizar, será a privação da cidadania portuguesa (n.º 1 do artigo 69.º-D), acrescida da impossibilidade de requerer a reaquisição da mesma até ao decurso do prazo de cancelamento definitivo da inscrição no registo criminal das penas respetivas (n.º 5 do artigo 69.º-D) ou, em caso de infrações relacionadas com o terrorismo, até 10 anos após essa mesma data (n.º 6 do artigo 69.º-D). Naturalmente, a intensidade desta restrição jusfundamental não pode deixar de ser tida em conta ao escrutinar-se a conformidade da mesma com as regras e princípios constitucionais. O que não significa, note-se, que se deixe de reconhecer a margem de conformação que assiste ao legislador nesta matéria, reservando-se os juízos de censura deste Tribunal para «opções legislativamente manifestamente arbitrárias ou excessivas» (neste sentido, por exemplo, vd. os Acórdãos n.<sup>os</sup>634/93, 274/98, [295/2003](https://diariodarepublica.pt/dr/detalhe/acordao/295-2004-2861335) e 605/2007, e ainda, na doutrina, cf. Maria João Antunes, Constituição, lei penal e controlo de constitucionalidade, Coimbra, Almedina, 2019, p. 84).
+Aliás, como sublinham os requerentes, está em causa uma restrição muito intensa do referido direito, não apenas considerando a relevância que a Constituição lhe confere e a sua proximidade à dignidade da pessoa humana, mas também tendo em conta que o resultado da aplicação de tal pena acessória, se e quando a mesma se vier a concretizar, será a privação da cidadania portuguesa (n.º 1 do artigo 69.º-D), acrescida da impossibilidade de requerer a reaquisição da mesma até ao decurso do prazo de cancelamento definitivo da inscrição no registo criminal das penas respetivas (n.º 5 do artigo 69.º-D) ou, em caso de infrações relacionadas com o terrorismo, até 10 anos após essa mesma data (n.º 6 do artigo 69.º-D). Naturalmente, a intensidade desta restrição jusfundamental não pode deixar de ser tida em conta ao escrutinar-se a conformidade da mesma com as regras e princípios constitucionais. O que não significa, note-se, que se deixe de reconhecer a margem de conformação que assiste ao legislador nesta matéria, reservando-se os juízos de censura deste Tribunal para «opções legislativamente manifestamente arbitrárias ou excessivas» (neste sentido, por exemplo, vd. os Acórdãos n.os634/93, 274/98, [295/2003](https://diariodarepublica.pt/dr/detalhe/acordao/295-2004-2861335) e 605/2007, e ainda, na doutrina, cf. Maria João Antunes, Constituição, lei penal e controlo de constitucionalidade, Coimbra, Almedina, 2019, p. 84).
 
-De facto, se é verdade que o texto constitucional, no seu artigo 26.º, n.º 4, autoriza a lei a estabelecer restrições ao conteúdo juridicamente garantido do direito à cidadania, no quadro de reserva de lei restritiva, não menos certo é que tais restrições, como já se disse, não podem ter como fundamento motivos políticos (artigo 26.º, n.º 4, in fine) e não podem deixar de respeitar os corolários garantísticos que constitucionalmente enformam os direitos fundamentais, em geral, e os direitos, liberdades e garantias, em particular (a este propósito, volte a recordar-se o que foi asseverado por este Tribunal nos Acórdãos n.<sup>os</sup>[599/2005](https://diariodarepublica.pt/dr/detalhe/acordao/599-2005-2280685) e 497/2019).
+De facto, se é verdade que o texto constitucional, no seu artigo 26.º, n.º 4, autoriza a lei a estabelecer restrições ao conteúdo juridicamente garantido do direito à cidadania, no quadro de reserva de lei restritiva, não menos certo é que tais restrições, como já se disse, não podem ter como fundamento motivos políticos (artigo 26.º, n.º 4, in fine) e não podem deixar de respeitar os corolários garantísticos que constitucionalmente enformam os direitos fundamentais, em geral, e os direitos, liberdades e garantias, em particular (a este propósito, volte a recordar-se o que foi asseverado por este Tribunal nos Acórdãos n.os[599/2005](https://diariodarepublica.pt/dr/detalhe/acordao/599-2005-2280685) e 497/2019).
 
 Em particular, torna-se imprescindível aferir se a restrição jusfundamental operada pela introdução de uma pena acessória de perda da nacionalidade portuguesa se limita «ao necessário para salvaguardar outros direitos ou interesses constitucionalmente protegidos», nos termos do disposto no n.º 2 do artigo 18.º, onde está consagrado o princípio da proporcionalidade.
 
 Como é sabido, trata-se de um subprincípio do Estado de Direito, que se desdobra ele próprio em três princípios: «(a) princípio da adequação (também designado por princípio da idoneidade), isto é, as medidas restritivas legalmente previstas devem revelar-se como meio adequado para a prossecução dos fins visados pela lei (salvaguarda de outros direitos ou bens constitucionalmente protegidos); (b) princípio da exigibilidade (também chamado princípio da necessidade ou da indispensabilidade), ou seja, as medidas restritivas previstas na lei devem revelar-se necessárias (tornaram-se exigíveis), porque os fins visados pela lei não podiam ser obtidos por outros meios menos onerosos para os direitos, liberdades e garantias; (c) princípio da proporcionalidade em sentido restrito, que significa que os meios legais restritivos e os fins obtidos devem situar-se numa “justa medida”, impedindo-se a adoção de medidas legais restritivas desproporcionadas, excessivas, em relação aos fins obtidos» (cf. Gomes Canotilho e Vital Moreira, Constituição da República Portuguesa anotada, Vol. I, 4.ª edição, Coimbra, Coimbra Editora, 2014, pp. 392-393).
 
-A fim de se analisar a sua (in)observância no caso sub judice, comecemos por recordar que, nos termos do disposto nos n.<sup>os</sup>1 e 4 do artigo 69.º-D, pode ser aplicada a pena acessória de perda da nacionalidade portuguesa, quando cumulativamente:
+A fim de se analisar a sua (in)observância no caso sub judice, comecemos por recordar que, nos termos do disposto nos n.os1 e 4 do artigo 69.º-D, pode ser aplicada a pena acessória de perda da nacionalidade portuguesa, quando cumulativamente:
 
 i) O agente tenha sido condenado pela prática de: a) crimes contra a vida, previstos nos artigos 131.º e 132.º; b) crimes contra a integridade física, previstos nos artigos 144.º, 144.º-A, 144.º-B, na alínea c) do n.º 1 do 145.º e no artigo 152.º; c) crimes contra a liberdade pessoal, previstos nos artigos 154.º-B, 158.º, 159.º, 160.º, 161.º e 162.º; d) crimes contra a liberdade e autodeterminação sexual, previstos nos artigos 164.º, 165.º, 166.º, 171.º, 172.º e 175.º; e) crime de associação criminosa, previsto no artigo 299.º; f) crimes contra a segurança do Estado, previstos nos artigos 308.º, 316.º, 317.º, 318.º, 319.º, 325.º, 326.º, 327.º, 329.º, 331.º e 333.º; g) crimes de auxílio à imigração ilegal, previstos nos artigos 183.º e 184.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, que aprova o regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional; h) crimes relativos a infrações relacionadas com um grupo terrorista, a infrações terroristas e infrações relacionadas com atividades terroristas e ao financiamento do terrorismo, previstos nos artigos 3.º, 4.º e 5.º-A da Lei de Combate ao Terrorismo, aprovada pela [Lei n.º 52/2003](https://diariodarepublica.pt/dr/detalhe/lei/52-2003-656128), de 22 de agosto; i) crimes de detenção de arma proibida e crime cometido com arma, e de tráfico e mediação de armas, previstos nos artigos 86.º e 87.º da [Lei n.º 5/2006](https://diariodarepublica.pt/dr/detalhe/lei/5-2006-676608), de 23 de fevereiro, que aprova o regime jurídico das armas e suas munições; ou j) crimes de tráfico de estupefacientes ou de substâncias psicotrópicas, previstos nos artigos 21.º, 22.º, 28.º e 30.º do [Decreto-Lei n.º 15/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1993-585178), de 22 de janeiro, que aprova o regime jurídico aplicável ao tráfico e consumo de estupefacientes e substâncias psicotrópicas;
 
@@ -787,13 +923,13 @@ Assim, não só seria manifestamente insuficiente que o legislador se tivesse ba
 
 Por todo o exposto, é de concluir pela inconstitucionalidade das normas do n.º 1 e do n.º 4 - também por referência às alíneas f) e h) - do artigo 69.º-D, aditado pelo artigo 2.º do Decreto da Assembleia da República n.º 18/XVII, por violação do princípio da necessidade penal, consagrado no artigo 18.º, n.º 2, conjugado com o artigo 26.º, n.º 1, ambos da Constituição.
 
-21.4 - Entendem também os requerentes que a natureza binária (como se viu, em termos de “tudo ou nada”) do modo como foi configurada a aplicação desta pena acessória não permite a necessária adequação ao caso concreto, nomeadamente no que respeita à duração da impossibilidade de reaquisição da nacionalidade, a qual só é possível, nos termos dos n.<sup>os</sup>5 e 6 do artigo 69.º-D, «após o decurso do prazo de cancelamento definitivo da inscrição no registo criminal das penas respetivas» ou, no caso de crimes relacionados com o terrorismo, «10 anos pós o decurso do prazo de cancelamento definitivo da inscrição no registo criminal das penas respetivas».
+21.4 - Entendem também os requerentes que a natureza binária (como se viu, em termos de “tudo ou nada”) do modo como foi configurada a aplicação desta pena acessória não permite a necessária adequação ao caso concreto, nomeadamente no que respeita à duração da impossibilidade de reaquisição da nacionalidade, a qual só é possível, nos termos dos n.os5 e 6 do artigo 69.º-D, «após o decurso do prazo de cancelamento definitivo da inscrição no registo criminal das penas respetivas» ou, no caso de crimes relacionados com o terrorismo, «10 anos pós o decurso do prazo de cancelamento definitivo da inscrição no registo criminal das penas respetivas».
 
-De facto, uma vez verificadas as condições previstas n.<sup>os</sup>1 e 4 do artigo 69.º-D, e ponderadas as circunstâncias elencadas no n.º 2 desse mesmo artigo, decidindo-se o juiz pela aplicação da pena acessória de perda da nacionalidade portuguesa resultam, como se viu, dois efeitos para o visado: (1) a privação da cidadania, por força do n.º 1 do artigo 69.º-D e (2) a impossibilidade de requerer a reaquisição da mesma até ao decurso do prazo de cancelamento definitivo da inscrição no registo criminal das penas respetivas (n.º 5 do artigo 69.º-D) ou, em caso de infrações relacionadas com o terrorismo, até 10 anos após essa mesma data (n.º 6 do artigo 69.º-D).
+De facto, uma vez verificadas as condições previstas n.os1 e 4 do artigo 69.º-D, e ponderadas as circunstâncias elencadas no n.º 2 desse mesmo artigo, decidindo-se o juiz pela aplicação da pena acessória de perda da nacionalidade portuguesa resultam, como se viu, dois efeitos para o visado: (1) a privação da cidadania, por força do n.º 1 do artigo 69.º-D e (2) a impossibilidade de requerer a reaquisição da mesma até ao decurso do prazo de cancelamento definitivo da inscrição no registo criminal das penas respetivas (n.º 5 do artigo 69.º-D) ou, em caso de infrações relacionadas com o terrorismo, até 10 anos após essa mesma data (n.º 6 do artigo 69.º-D).
 
 Assim se conclui estar em causa uma pena modelada de forma fixa, sem que o legislador tenha aberto ao juiz a possibilidade de, após levar a cabo a ponderação subjacente à decisão de aplicar a pena, proceder à necessária graduação da mesma, fixando-a entre o mínimo e o máximo que a lei prevê, de acordo com todas as circunstâncias atendíveis (grau de culpa, necessidades de prevenção, entre outras), por forma a punir de modo diferente situações que, sendo aparentemente iguais, são, em si mesmas, diferentes, e de modo também a evitar o risco de aplicar penas desproporcionadas às infrações cometidas, tendo em consideração todo o quadro que envolveu a prática de cada uma delas.
 
-Este tem sido, de resto, o entendimento reiterado do Tribunal Constitucional em vastíssima jurisprudência. Vejam-se, apenas a título de exemplo, os Acórdãos n.<sup>os</sup>202/2000,95/2001, 20/2002, 124/2004 e 5/2007. Este último Acórdão afirma, de modo lapidar, a desconformidade com a Constituição das penas fixas:
+Este tem sido, de resto, o entendimento reiterado do Tribunal Constitucional em vastíssima jurisprudência. Vejam-se, apenas a título de exemplo, os Acórdãos n.os202/2000,95/2001, 20/2002, 124/2004 e 5/2007. Este último Acórdão afirma, de modo lapidar, a desconformidade com a Constituição das penas fixas:
 
 «4.3 - [...] o Direito Penal, no Estado de Direito, tem de edificar-se sobre o homem como ser pessoal e livre, ancorado na dignidade da pessoa humana, que tenha a culpa como fundamento e limite da pena, pois não é admissível pena sem culpa, nem em medida tal que exceda a da culpa. Ou seja: há-de ser um direito penal de culpa. E é - ou deve ser - um Direito Penal que só pode intervir para a protecção de bens jurídicos com dignidade penal (ou, para utilizar uma expressão hoje corrente, com ressonância ética), sendo que uma tal danosidade social, capaz de justificar a imposição de uma punição, há-de ser ajuizada no plano ético-jurídico, e não num plano meramente sociológico.
 
@@ -829,7 +965,7 @@ O juízo de legitimidade constitucional relativamente a cada um destes casos nã
 
 Ora, ainda que se concedesse a bondade desta tese, admitindo-se estarmos, no caso sub judice, perante uma “pena apenas tendencialmente fixa”, a verdade é que nem assim os problemas suscitados se dissipariam, porquanto os institutos da atenuação especial da pena e da dispensa da pena não são sequer aplicáveis às penas acessórias. Portanto, mesmo que fosse líquida a adequação destes institutos de natureza geral para servir de sucedâneos da possibilidade de determinação concreta da pena - o que, repita-se, não é -, nem por isso as normas em apreço poderiam ser tidas conformes à Constituição, porquanto o julgador, no caso, não pode recorrer a nenhum deles para adequar a pena ao grau e à intensidade de culpa do agente.
 
-Assim sendo, é forçoso concluir pela inconstitucionalidade das normas consagradas nos n.<sup>os</sup>1, 5 e 6 do artigo 69.º-D, aditado pelo artigo 2.º do Decreto da Assembleia da República n.º 18/XVII, por violação dos princípios da culpa, da igualdade e da proporcionalidade, consagrados nos artigos 1.º, 13.º, n.º 1, 18.º, n.º 2, este em conjugação com o 26.º, n.º 1, todos da Constituição.
+Assim sendo, é forçoso concluir pela inconstitucionalidade das normas consagradas nos n.os1, 5 e 6 do artigo 69.º-D, aditado pelo artigo 2.º do Decreto da Assembleia da República n.º 18/XVII, por violação dos princípios da culpa, da igualdade e da proporcionalidade, consagrados nos artigos 1.º, 13.º, n.º 1, 18.º, n.º 2, este em conjugação com o 26.º, n.º 1, todos da Constituição.
 
 E.2.2. Princípio da legalidade criminal
 
@@ -851,7 +987,7 @@ c) O grau de inserção familiar e comunitária do arguido;
 
 d) A existência de ligação efetiva do agente ao Estado de que também é nacional.»
 
-Aliás, convém lembrar que a exigência desta ponderação autónoma (n.º 1 do artigo 69.º-D, quando refere «[p]ode ser aplicada») e a identificação das circunstâncias que nela devem ser consideradas (n.º 2 do artigo 69.º-D) afiguram-se essenciais para impedir a violação do disposto no artigo 30.º, n.º 4, da Constituição, que determina que «[n]enhuma pena envolve como efeito necessário a perda de quaisquer direitos civis, profissionais ou políticos». De facto, como observa Francisco Borges, «a intervenção de uma entidade habilitada para decidir no caso concreto, podendo ter uma amplitude maior ou menor, conforme a configuração dos critérios legais que a conformem, permitirá equilibrar de forma razoável, por um lado, a necessidade de assegurar o mandamento político-criminal humanístico de promoção da ressocialização do condenado, e, por outro, a exigência de não desguarnecer de forma significativa a protecção do interesse público e dos valores em cada caso em causa» [cf. “Efeitos automáticos das penas: uma reflexão”, in Pedro Machete et al. (coords.), Estudos em homenagem ao Conselheiro Presidente Manuel da Costa Andrade, Vol. I, Coimbra, Almedina, 2023, pp. 875-909, p. 906]. Neste sentido tem-se reiteradamente pronunciado este Tribunal, maxime nos Acórdãos n.<sup>os</sup>[16/84](https://diariodarepublica.pt/dr/detalhe/acordao/16-1984-1114610), 310/85, 75/86, 94/86, 284/89, [748/93](https://diariodarepublica.pt/dr/detalhe/acordao/748-1993-541443), 522/95, 327/99, [202/2000](https://diariodarepublica.pt/dr/detalhe/acordao/202-2000-2986994), 262/2003, 36/2008, [25/2011](https://diariodarepublica.pt/dr/detalhe/acordao/25-2011-1936228), [311/2012](https://diariodarepublica.pt/dr/detalhe/acordao/311-2012-2261401), 748/2014, [106/2016](https://diariodarepublica.pt/dr/detalhe/acordao/106-2016-73993294), 331/2016, [376/2018](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/376-2018-116407649), [145/2021](https://diariodarepublica.pt/dr/detalhe/acordao-extrato/145-2021-163627662), 354/2021, 348/2022, 722/2022, [927/2023](https://diariodarepublica.pt/dr/detalhe/acordao-extrato/927-2023-856836263), [688/2024](https://diariodarepublica.pt/dr/detalhe/acordao-extrato/688-2024-896173228) e [127/2025](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/127-2025-909476478).
+Aliás, convém lembrar que a exigência desta ponderação autónoma (n.º 1 do artigo 69.º-D, quando refere «[p]ode ser aplicada») e a identificação das circunstâncias que nela devem ser consideradas (n.º 2 do artigo 69.º-D) afiguram-se essenciais para impedir a violação do disposto no artigo 30.º, n.º 4, da Constituição, que determina que «[n]enhuma pena envolve como efeito necessário a perda de quaisquer direitos civis, profissionais ou políticos». De facto, como observa Francisco Borges, «a intervenção de uma entidade habilitada para decidir no caso concreto, podendo ter uma amplitude maior ou menor, conforme a configuração dos critérios legais que a conformem, permitirá equilibrar de forma razoável, por um lado, a necessidade de assegurar o mandamento político-criminal humanístico de promoção da ressocialização do condenado, e, por outro, a exigência de não desguarnecer de forma significativa a protecção do interesse público e dos valores em cada caso em causa» [cf. “Efeitos automáticos das penas: uma reflexão”, in Pedro Machete et al. (coords.), Estudos em homenagem ao Conselheiro Presidente Manuel da Costa Andrade, Vol. I, Coimbra, Almedina, 2023, pp. 875-909, p. 906]. Neste sentido tem-se reiteradamente pronunciado este Tribunal, maxime nos Acórdãos n.os[16/84](https://diariodarepublica.pt/dr/detalhe/acordao/16-1984-1114610), 310/85, 75/86, 94/86, 284/89, [748/93](https://diariodarepublica.pt/dr/detalhe/acordao/748-1993-541443), 522/95, 327/99, [202/2000](https://diariodarepublica.pt/dr/detalhe/acordao/202-2000-2986994), 262/2003, 36/2008, [25/2011](https://diariodarepublica.pt/dr/detalhe/acordao/25-2011-1936228), [311/2012](https://diariodarepublica.pt/dr/detalhe/acordao/311-2012-2261401), 748/2014, [106/2016](https://diariodarepublica.pt/dr/detalhe/acordao/106-2016-73993294), 331/2016, [376/2018](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/376-2018-116407649), [145/2021](https://diariodarepublica.pt/dr/detalhe/acordao-extrato/145-2021-163627662), 354/2021, 348/2022, 722/2022, [927/2023](https://diariodarepublica.pt/dr/detalhe/acordao-extrato/927-2023-856836263), [688/2024](https://diariodarepublica.pt/dr/detalhe/acordao-extrato/688-2024-896173228) e [127/2025](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/127-2025-909476478).
 
 Ora, a precisão supramencionada não é despicienda, porquanto, em tal contexto, a utilização pelo legislador de conceitos indeterminados e com menor densidade é (mais) compreensível e até, em alguns casos, inevitável. De resto, só deste modo logrará conferir ao julgador a margem de que necessita para poder ajuizar da necessidade da pena em concreto, tendo em conta as caraterísticas especiais do crime praticado em conjugação com as circunstâncias especiais do agente. Juízo este que se afigura imprescindível para que a pena acessória possa cumprir a já referida função adjuvante da pena principal na tutela de direitos ou bens previstos e protegidos pela Constituição.
 
@@ -865,9 +1001,9 @@ Assim, tudo ponderado, a norma da alínea a) do n.º 2 do artigo 69.º-D, aditad
 
 E.2.3. Proibição de penas restritivas de liberdade com carácter perpétuo ou de duração ilimitada ou indefinida
 
-23 - Na opinião dos requerentes, as normas dos n.<sup>os</sup>5 e 6 do artigo 69.º-D, aditado pelo artigo 2.º do Decreto da Assembleia da República n.º 18/XVII, violam o disposto no artigo 30.º, n.º 1, da Constituição, onde se lê que «[n]ão pode haver penas nem medidas de segurança privativas ou restritivas da liberdade com carácter perpétuo ou de duração limitada ou indefinida».
+23 - Na opinião dos requerentes, as normas dos n.os5 e 6 do artigo 69.º-D, aditado pelo artigo 2.º do Decreto da Assembleia da República n.º 18/XVII, violam o disposto no artigo 30.º, n.º 1, da Constituição, onde se lê que «[n]ão pode haver penas nem medidas de segurança privativas ou restritivas da liberdade com carácter perpétuo ou de duração limitada ou indefinida».
 
-Baseiam-se no fundamento de que, uma vez aplicada a pena acessória de perda da nacionalidade portuguesa, a reaquisição da mesma em momento posterior, embora aparentemente possível à luz do disposto nos n.<sup>os</sup>5 e 6 do artigo 69.º-D, não se afiguraria praticável de facto, porquanto a alínea d) do n.º 1 do artigo 6.º da LdN estabelece como requisito para a (nova) aquisição da nacionalidade que os requerentes «não tenham sido condenados, com trânsito em julgado da sentença, com pena de prisão igual ou superior a 3 anos, por crime punível segundo a lei portuguesa» (referindo ainda que o Decreto n.º 17/XVII, que altera a LdN, a ser promulgado, virá fixar a referida pena em duração igual ou superior a dois anos, na renumerada alínea f) do n.º 1 do artigo 6.º). E acrescentam: «[o] relevo do registo criminal é meramente probatório, nos termos do n.º 11 do mesmo artigo 6.º da LN [...], não se traduzindo ele mesmo no requisito negativo para a naturalização. Ou seja, a existência de uma condenação com trânsito em julgado em pena de duração superior à prevista na lei pode ser oponível ao requerente, seja no processo de concessão de nacionalidade, seja na fase de oposição à aquisição nos termos do artigo 9.º, não relevando a eventual caducidade da sua inscrição no registo criminal. Esta possibilidade de ser atendida a realidade material, aliás, é tanto mais compreensível quanto a diversidade (ou mesmo disparidade) de critérios disciplinadores do cancelamento de inscrições no registo criminal de Estados terceiros poderia redundar numa aplicação não uniforme (ou até arbitrária) do critério material».
+Baseiam-se no fundamento de que, uma vez aplicada a pena acessória de perda da nacionalidade portuguesa, a reaquisição da mesma em momento posterior, embora aparentemente possível à luz do disposto nos n.os5 e 6 do artigo 69.º-D, não se afiguraria praticável de facto, porquanto a alínea d) do n.º 1 do artigo 6.º da LdN estabelece como requisito para a (nova) aquisição da nacionalidade que os requerentes «não tenham sido condenados, com trânsito em julgado da sentença, com pena de prisão igual ou superior a 3 anos, por crime punível segundo a lei portuguesa» (referindo ainda que o Decreto n.º 17/XVII, que altera a LdN, a ser promulgado, virá fixar a referida pena em duração igual ou superior a dois anos, na renumerada alínea f) do n.º 1 do artigo 6.º). E acrescentam: «[o] relevo do registo criminal é meramente probatório, nos termos do n.º 11 do mesmo artigo 6.º da LN [...], não se traduzindo ele mesmo no requisito negativo para a naturalização. Ou seja, a existência de uma condenação com trânsito em julgado em pena de duração superior à prevista na lei pode ser oponível ao requerente, seja no processo de concessão de nacionalidade, seja na fase de oposição à aquisição nos termos do artigo 9.º, não relevando a eventual caducidade da sua inscrição no registo criminal. Esta possibilidade de ser atendida a realidade material, aliás, é tanto mais compreensível quanto a diversidade (ou mesmo disparidade) de critérios disciplinadores do cancelamento de inscrições no registo criminal de Estados terceiros poderia redundar numa aplicação não uniforme (ou até arbitrária) do critério material».
 
 Vejamos.
 
@@ -891,9 +1027,9 @@ Acontece que, de facto, aquela reaquisição será feita «nos termos da Lei da 
 
 b) Pelos serviços competentes do país do nascimento, do país da nacionalidade e dos países onde tenha tido residência, desde que neles tenha tido residência após completar a idade de imputabilidade penal», conforme resulta expressamente do n.º 11 daquele mesmo artigo.
 
-Em casos de reaquisição da cidadania portuguesa por parte de quem tenha sido privado dela por via da aplicação desta pena acessória, à luz do disposto nos n.<sup>os</sup>5 e 6 do artigo 69.º-D, aquelas normas da LdN não podem deixar de ser razoavelmente interpretadas com recurso aos elementos sistemático e teleológico (desde logo, presumindo-se que o legislador consagrou as soluções mais acertadas e soube exprimir o seu pensamento em termos adequados, como manda o artigo 9.º, n.º 3, do Código Civil), ou seja, no sentido de que, em tais casos, as condenações oponíveis ao requerente, quer no âmbito do processo de (nova) aquisição da nacionalidade (cf. alínea d) do n.º 1 do artigo 6.º) quer na fase de oposição à aquisição (cf. alínea b) do artigo 9.º da LdN), são apenas aquelas ainda inscritas no registo criminal (sob pena de se chegar a um resultado ilógico e contraditório: por um lado, o legislador, nos n.<sup>os</sup>5 e 6 do artigo 69.º-D admitiria a reaquisição da nacionalidade, mas, por outro, a mesma seria impossível por força da alínea d) do n.º 1 do artigo 6.º da LdN). De resto, isso mesmo resulta da conjugação da alínea d) do n.º 1 do artigo 6.º da LdN com o n.º 11 do mesmo artigo, segundo o qual a prova da inexistência - logo, também da existência - de condenação se faz mediante a exibição do certificado de registo criminal.
+Em casos de reaquisição da cidadania portuguesa por parte de quem tenha sido privado dela por via da aplicação desta pena acessória, à luz do disposto nos n.os5 e 6 do artigo 69.º-D, aquelas normas da LdN não podem deixar de ser razoavelmente interpretadas com recurso aos elementos sistemático e teleológico (desde logo, presumindo-se que o legislador consagrou as soluções mais acertadas e soube exprimir o seu pensamento em termos adequados, como manda o artigo 9.º, n.º 3, do Código Civil), ou seja, no sentido de que, em tais casos, as condenações oponíveis ao requerente, quer no âmbito do processo de (nova) aquisição da nacionalidade (cf. alínea d) do n.º 1 do artigo 6.º) quer na fase de oposição à aquisição (cf. alínea b) do artigo 9.º da LdN), são apenas aquelas ainda inscritas no registo criminal (sob pena de se chegar a um resultado ilógico e contraditório: por um lado, o legislador, nos n.os5 e 6 do artigo 69.º-D admitiria a reaquisição da nacionalidade, mas, por outro, a mesma seria impossível por força da alínea d) do n.º 1 do artigo 6.º da LdN). De resto, isso mesmo resulta da conjugação da alínea d) do n.º 1 do artigo 6.º da LdN com o n.º 11 do mesmo artigo, segundo o qual a prova da inexistência - logo, também da existência - de condenação se faz mediante a exibição do certificado de registo criminal.
 
-Acresce que o que consta dos n.<sup>os</sup>5 e 6 do artigo 69.º-D é que «quem for condenado à perda da nacionalidade pode requerer a reaquisição, nos termos da Lei da Nacionalidade, após o decurso do prazo de cancelamento definitivo da inscrição no registo criminal das penas respetivas» (itálico nosso), isto é, da pena principal e da pena acessória de perda da nacionalidade, ambas aplicadas por tribunal português no quadro de processo penal e inscritas no registo criminal, nos termos previstos na lei. Ora, o cancelamento definitivo da inscrição no registo criminal de tais penas ocorrerá nos termos do disposto no artigo 11.º da [Lei n.º 37/2015](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), de 5 de maio. Aí pode ler-se que:
+Acresce que o que consta dos n.os5 e 6 do artigo 69.º-D é que «quem for condenado à perda da nacionalidade pode requerer a reaquisição, nos termos da Lei da Nacionalidade, após o decurso do prazo de cancelamento definitivo da inscrição no registo criminal das penas respetivas» (itálico nosso), isto é, da pena principal e da pena acessória de perda da nacionalidade, ambas aplicadas por tribunal português no quadro de processo penal e inscritas no registo criminal, nos termos previstos na lei. Ora, o cancelamento definitivo da inscrição no registo criminal de tais penas ocorrerá nos termos do disposto no artigo 11.º da [Lei n.º 37/2015](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), de 5 de maio. Aí pode ler-se que:
 
 «1 - As decisões inscritas cessam a sua vigência no registo criminal nos seguintes prazos:
 
@@ -909,16 +1045,18 @@ g) Decisões que tenham aplicado pena acessória, após o decurso do prazo para 
 
 6 - As decisões cuja vigência haja cessado são mantidas em ficheiro informático próprio durante um período máximo de 3 anos, o qual apenas pode ser acedido pelos serviços de identificação criminal para efeito de reposição de registo indevidamente cancelado ou retirado, e findo aquele prazo máximo são canceladas de forma irrevogável.»
 
-Transcorridos os prazos e cumpridas as condições previstas neste preceito legal, as penas em causa (repita-se: a pena principal e a pena acessória de perda da nacionalidade, que são aquelas a que se referem exclusivamente os n.<sup>os</sup>5 e 6 do artigo 69.º-D) cessarão a sua vigência no registo criminal, promovendo-se o cancelamento definitivo da sua inscrição.
+Transcorridos os prazos e cumpridas as condições previstas neste preceito legal, as penas em causa (repita-se: a pena principal e a pena acessória de perda da nacionalidade, que são aquelas a que se referem exclusivamente os n.os5 e 6 do artigo 69.º-D) cessarão a sua vigência no registo criminal, promovendo-se o cancelamento definitivo da sua inscrição.
 
 Operado o cancelamento definitivo da inscrição no registo criminal das penas (n.º 5 do artigo 69.º-D) ou, em caso de infrações relacionadas com o terrorismo, decorridos 10 anos após o prazo para o cancelamento definitivo da inscrição no registo criminal das penas respetivas (n.º 6 do artigo 69.º-D), as mesmas deixam de ser oponíveis ao requerente, não colocando em causa a (nova) aquisição da cidadania portuguesa (que passa então a ser possível de facto), assim assegurando que a pena acessória de perda da nacionalidade portuguesa não se apresenta como uma pena de duração ilimitada ou indefinida.
 
-Em suma, seguindo uma interpretação assente nos elementos sistemático e teleológico do que consta dos artigos 6.º e 11.º da LdN, as normas dos n.<sup>os</sup>5 e 6 do artigo 69.º-D, aditado pelo artigo 2.º do Decreto da Assembleia da República n.º 18/XVII, devidamente articuladas com aquelas, não violam a proibição de penas restritivas de liberdade com carácter perpétuo ou de duração ilimitada ou indefinida, consagrada no artigo 30.º, n.º 1, da Constituição.
+Em suma, seguindo uma interpretação assente nos elementos sistemático e teleológico do que consta dos artigos 6.º e 11.º da LdN, as normas dos n.os5 e 6 do artigo 69.º-D, aditado pelo artigo 2.º do Decreto da Assembleia da República n.º 18/XVII, devidamente articuladas com aquelas, não violam a proibição de penas restritivas de liberdade com carácter perpétuo ou de duração ilimitada ou indefinida, consagrada no artigo 30.º, n.º 1, da Constituição.
 
-Ainda assim, recorde-se que, tal como se concluiu em E.1.1., tendo em conta o carácter matricial do n.º 1 do artigo 69.º-D, a afirmação da sua inconstitucionalidade por violação do princípio da igualdade (pelos motivos ali expostos) não pode deixar de se refletir nas restantes normas objeto do pedido, designadamente as dos n.<sup>os</sup>5 e 6 do mesmo artigo, que estão dependentes da própria previsão da pena acessória de perda da nacionalidade portuguesa, desenvolvendo o seu regime.
+Ainda assim, recorde-se que, tal como se concluiu em E.1.1., tendo em conta o carácter matricial do n.º 1 do artigo 69.º-D, a afirmação da sua inconstitucionalidade por violação do princípio da igualdade (pelos motivos ali expostos) não pode deixar de se refletir nas restantes normas objeto do pedido, designadamente as dos n.os5 e 6 do mesmo artigo, que estão dependentes da própria previsão da pena acessória de perda da nacionalidade portuguesa, desenvolvendo o seu regime.
 
 III - Decisão
 
-Com os fundamentos acima expostos, o Tribunal Constitucional pronuncia-se pela inconstitucionalidade das normas do artigo 69.º-D, n.<sup>os</sup>1, 2, alínea a), 4, 5 e 6, aditado pelo artigo 2.º do Decreto da Assembleia da República n.º 18/XVII, por violação dos princípios da igualdade, da proporcionalidade e da culpa, consagrados nos artigos 1.º, 13.º, n.º 1, e 18.º, n.º 2, este em conjugação com o artigo 26.º, n.º 1, todos da Constituição.
+Com os fundamentos acima expostos, o Tribunal Constitucional pronuncia-se pela inconstitucionalidade das normas do artigo 69.º-D, n.os1, 2, alínea a), 4, 5 e 6, aditado pelo artigo 2.º do Decreto da Assembleia da República n.º 18/XVII, por violação dos princípios da igualdade, da proporcionalidade e da culpa, consagrados nos artigos 1.º, 13.º, n.º 1, e 18.º, n.º 2, este em conjugação com o artigo 26.º, n.º 1, todos da Constituição.
 
 Lisboa, 15 de dezembro de 2025. - João Carlos Loureiro - Joana Fernandes Costa - Carlos Medeiros de Carvalho - José Eduardo Figueiredo Dias - Mariana Canotilho - Rui Guerra da Fonseca - Maria Benedita Urbano - António José da Ascensão Ramos - Afonso Patrão - José João Abrantes.
+
+119939507

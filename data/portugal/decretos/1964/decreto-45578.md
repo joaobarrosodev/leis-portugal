@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1964/02/05000/03610365.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45578-1964-469869
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-06-04T00:00:00Z'
+  retrieved_at: '2026-10-22T19:39:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a31ecde39c8ff0abdca619159e84c78ebc3af4937c5670706b5da709a19391b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea7f8724ef35183ec573bdaa0fbdc59037d57442a85174c7fedc66da762adf95
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:39:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Capitania
+- CASA do POVO
+- CASA dos Pescadores
+- Comissão Central de Pescarias
+- Comissão Permanente de Algologia
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral da Marinha
+- Fiscalização
+- Gestão dos Recursos
+- Licenciamento
+- Ministério da Marinha
+- Ministro da Marinha
+- Multa
+- Planta Marinha
+- Recursos do Mar
+- Regulamento
+- Regulamento da Apanha das Plantas Marinhas no Continente e nas Ilhas Adjacentes
 relationships:
 - type: amended_by
   target: pt:dre:427382:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:209430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279256:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:427382:por
+  label: "Revogado pelo DEC LEI.443/76.1976.06.04.MAP DR.IS [131]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/443-1976-427382
+  date: '1976-06-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:39:32Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +125,11 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 REGULAMENTO DA APANHA DAS PLANTAS MARINHAS NO CONTINENTE E NAS ILHAS ADJACENTES
 
-###### Artigo 1.º A apanha das plantas marinhas no continente e ilhas adjacentes fica sujeita às disposições deste regulamento.
+Artigo 1.º A apanha das plantas marinhas no continente e ilhas adjacentes fica sujeita às disposições deste regulamento.
 
 § único. Na ria de Aveiro a apanha de plantas marinhas é regulada pela legislação especial em vigor.
 
-###### Art. 2.º Para efeitos de aplicação deste regulamento, as plantas marinhas e as de águas interiores sob jurisdição das autoridades marítimas são classificadas em:
+Art. 2.º Para efeitos de aplicação deste regulamento, as plantas marinhas e as de águas interiores sob jurisdição das autoridades marítimas são classificadas em:
 
 Plantas vasculares (normalmente providas de raiz, caule e folhas, com ou sem flores), e
 
@@ -106,9 +137,9 @@ Algas (plantas constituídas por um talo, simples ou mais ou menos ramificado).
 
 § único. No anexo n.º 1 referem-se as plantas marinhas, mais importantes ou mais vulgares, do litoral português.
 
-###### Art. 3.º Com o fim de se assegurar a coordenação de todas as actividades relacionadas com a indústria extractiva e transformadora das plantas marinhas, incluindo investigação científica e tecnológica, é criada no Ministério da Marinha uma comissão consultiva - a Comissão Permanente de Algologia -, cuja constituição e regulamentação serão estabelecidas em portaria conjunta dos Ministérios da Marinha e da Economia.
+Art. 3.º Com o fim de se assegurar a coordenação de todas as actividades relacionadas com a indústria extractiva e transformadora das plantas marinhas, incluindo investigação científica e tecnológica, é criada no Ministério da Marinha uma comissão consultiva - a Comissão Permanente de Algologia -, cuja constituição e regulamentação serão estabelecidas em portaria conjunta dos Ministérios da Marinha e da Economia.
 
-###### Art. 4.º A apanha de quaisquer plantas marinhas, com fins agro-pecuários, comerciais ou industriais, só é permitida a indivíduos munidos de licença passada pelas capitanias dos portos ou suas delegações marítimas.
+Art. 4.º A apanha de quaisquer plantas marinhas, com fins agro-pecuários, comerciais ou industriais, só é permitida a indivíduos munidos de licença passada pelas capitanias dos portos ou suas delegações marítimas.
 
 § 1.º As licenças só serão passadas a indivíduos registados prèviamente como apanhadores nas Casas dos Pescadores ou nas Casas do Povo.
 
@@ -122,11 +153,11 @@ Algas (plantas constituídas por um talo, simples ou mais ou menos ramificado).
 
 § 6.º O Ministro da Marinha, sob proposta do director-geral da Marinha, ouvidas a Comissão Central de Pescarias, a Comissão Permanente de Algologia e demais instâncias para tal competentes dos Ministérios da Marinha e da Economia, poderá limitar provisòriamente áreas do litoral onde a apanha de plantas marinhas fica reservada a pescadores profissionais e familiares que com eles habitem.
 
-###### Art. 5.º As plantas fixas não podem ser apanhadas durante os meses de Dezembro a Março, inclusive, enquanto outros períodos não forem fixados, conforme as espécies e os locais, em portaria do Ministério da Marinha, ouvidas, conforme se justificar, a Comissão Permanente de Algologia e outras instâncias para tal competentes dos Ministérios da Marinha e da Economia.
+Art. 5.º As plantas fixas não podem ser apanhadas durante os meses de Dezembro a Março, inclusive, enquanto outros períodos não forem fixados, conforme as espécies e os locais, em portaria do Ministério da Marinha, ouvidas, conforme se justificar, a Comissão Permanente de Algologia e outras instâncias para tal competentes dos Ministérios da Marinha e da Economia.
 
 § único. Os períodos de defeso serão tornados públicos por meio de editais mandados afixar pelas autoridades marítimas.
 
-###### Art. 6.º As plantas marinhas flutuantes e as naturalmente destacadas dos seus suportes e arrojadas à costa podem ser apanhadas durante todo o ano.
+Art. 6.º As plantas marinhas flutuantes e as naturalmente destacadas dos seus suportes e arrojadas à costa podem ser apanhadas durante todo o ano.
 
 § 1.º As naturalmente depositadas em terrenos do domínio público marítimo pertencem ao primeiro que, munido da respectiva licença, delas se aproprie.
 
@@ -134,29 +165,29 @@ Algas (plantas constituídas por um talo, simples ou mais ou menos ramificado).
 
 § 3.º As naturalmente depositadas em terrenos do domínio público em regime de concessão pertencem aos respectivos concessionários.
 
-###### Art. 7.º Sempre que não haja disposições em contrário, divulgadas em editais, poderão ser utilizados indistintamente os processos de corte ou de arranque na apanha de algas.
+Art. 7.º Sempre que não haja disposições em contrário, divulgadas em editais, poderão ser utilizados indistintamente os processos de corte ou de arranque na apanha de algas.
 
 § único. Exceptuam-se as laminariáceas, que não devem ser arrancadas, mas apanhadas por corte do terço superior das frondes, e as gigartináceas, que não devem ser arrancadas nem apanhadas por forma a alterar o leito das suas jazidas.
 
-###### Art. 8.º Na apanha de algas não é permitido o uso de escafandros, nem a utilização de dragas ou outros engenhos de arrastar, salvo o disposto no artigo 10.º
+Art. 8.º Na apanha de algas não é permitido o uso de escafandros, nem a utilização de dragas ou outros engenhos de arrastar, salvo o disposto no artigo 10.º
 
-###### Art. 9.º As algas soltas só podem ser apanhadas:
+Art. 9.º As algas soltas só podem ser apanhadas:
 
 a) Quando depositadas no solo, à mão ou com auxílio de ancinho, de enchelevar ou de outros instrumentos análogos;
 
 b) Quando flutuantes, à mão ou com auxílio de ancinho, de enchelevar ou de outros instrumentos análogos, ou ainda com redes envolventes superficiais.
 
-###### Art. 10.º O director-geral da Marinha, pela Direcção das Pescarias, ouvidas a Comissão Central de Pescarias, a Comissão Permanente de Algologia e outras instâncias oficiais competentes, poderá interditar ou levantar a interdição do uso de quaisquer instrumentos e permitir o de outros não previstos no presente regulamento.
+Art. 10.º O director-geral da Marinha, pela Direcção das Pescarias, ouvidas a Comissão Central de Pescarias, a Comissão Permanente de Algologia e outras instâncias oficiais competentes, poderá interditar ou levantar a interdição do uso de quaisquer instrumentos e permitir o de outros não previstos no presente regulamento.
 
 § único. A interdição ou levantamento da interdição de quaisquer instrumentos e a autorização de emprego de outros não previstos serão tornados públicos por meio de editais mandados afixar pelas autoridades marítimas.
 
-###### Art. 11.º Salvo autorização concedida pelas autoridades marítimas locais, é proibida a instalação de quaisquer dispositivos que visem a retenção das plantas flutuantes.
+Art. 11.º Salvo autorização concedida pelas autoridades marítimas locais, é proibida a instalação de quaisquer dispositivos que visem a retenção das plantas flutuantes.
 
-###### Art. 12.º Compete às capitanias dos portos ou às suas delegações, quando o julguem necessário, designar os locais e estabelecer turnos para a apanha de plantas marinhas.
+Art. 12.º Compete às capitanias dos portos ou às suas delegações, quando o julguem necessário, designar os locais e estabelecer turnos para a apanha de plantas marinhas.
 
-###### Art. 13.º O director-geral da Marinha, pela Direcção das Pescarias, ouvidas a Comissão Central de Pescarias, Comissão Permanente de Algologia e demais instâncias dos Ministérios da Marinha e da Economia para tal competentes, poderá interditar provisòriamente a apanha de plantas em determinada ou determinadas zonas do litoral, mesmo durante o período legal de apanha.
+Art. 13.º O director-geral da Marinha, pela Direcção das Pescarias, ouvidas a Comissão Central de Pescarias, Comissão Permanente de Algologia e demais instâncias dos Ministérios da Marinha e da Economia para tal competentes, poderá interditar provisòriamente a apanha de plantas em determinada ou determinadas zonas do litoral, mesmo durante o período legal de apanha.
 
-###### Art. 14.º As entidades que venham a constituir-se, para promover a concentração da apanha e a distribuição das plantas marinhas, pela indústria e pelo comércio, devem habilitar a Administração, através das autoridades marítimas respectivas, com mapas mensais das plantas adquiridas nas áreas das referidas capitanias em que a apanha se processou.
+Art. 14.º As entidades que venham a constituir-se, para promover a concentração da apanha e a distribuição das plantas marinhas, pela indústria e pelo comércio, devem habilitar a Administração, através das autoridades marítimas respectivas, com mapas mensais das plantas adquiridas nas áreas das referidas capitanias em que a apanha se processou.
 
 § 1.º Os mapas devem indicar as quantidades, expressas em quilogramas, dos diferentes tipos e qualidades das plantas apanhadas e o destino que lhes foi dado.
 
@@ -164,31 +195,31 @@ b) Quando flutuantes, à mão ou com auxílio de ancinho, de enchelevar ou de ou
 
 § 3.º Enquanto tais entidades se não constituírem, a elaboração dos mapas e a sua entrega às respectivas autoridades marítimas competem aos adquiridores directos: industriais, armazenistas, exportadores.
 
-###### Art. 15.º As infracções às disposições do artigo 4.º serão punidas com multa de 50$00 a 3000$00 e com a apreensão das plantas, sendo ainda os infractores obrigados ao pagamento da licença por inteiro.
+Art. 15.º As infracções às disposições do artigo 4.º serão punidas com multa de 50$00 a 3000$00 e com a apreensão das plantas, sendo ainda os infractores obrigados ao pagamento da licença por inteiro.
 
-###### Art. 16.º As infracções às disposições dos artigos 5.º, 7.º e 8.º serão punidas com a muita de 50$00 a 3000$00 e com a apreensão das plantas apanhadas e do cartão de apanhador durante três meses a dois anos.
+Art. 16.º As infracções às disposições dos artigos 5.º, 7.º e 8.º serão punidas com a muita de 50$00 a 3000$00 e com a apreensão das plantas apanhadas e do cartão de apanhador durante três meses a dois anos.
 
-###### Art. 17.º As infracções às disposições do artigos 9.º, 10.º e 12.º serão punidas com a multa de 500$00 a 5000$00 e sempre com a apreensão dos meios de apanha individualmente usados, que serão confiados à Direcção das Pecarias para lhes dar destino apropriado.
+Art. 17.º As infracções às disposições do artigos 9.º, 10.º e 12.º serão punidas com a multa de 500$00 a 5000$00 e sempre com a apreensão dos meios de apanha individualmente usados, que serão confiados à Direcção das Pecarias para lhes dar destino apropriado.
 
-###### Art. 18.º As infracções ao artigo 14.º, cometidas por comerciantes ou industriais, por motivo de falta de declarações, ou por declarações falsas, serão punidas com multa de 500$00 a 5000$00.
+Art. 18.º As infracções ao artigo 14.º, cometidas por comerciantes ou industriais, por motivo de falta de declarações, ou por declarações falsas, serão punidas com multa de 500$00 a 5000$00.
 
-###### Art. 19.º Em caso de reincidência os limites fixados para as multas serão elevados ao dobro.
+Art. 19.º Em caso de reincidência os limites fixados para as multas serão elevados ao dobro.
 
-###### Art. 20.º Compete ao capitão do porto com jurisdição no local onde se deu a transgressão a aplicação das penas previstas neste regulamento, seguindo-se quanto à forma e trâmites do processo o que se acha prescrito no Regulamento Geral das Capitanias.
+Art. 20.º Compete ao capitão do porto com jurisdição no local onde se deu a transgressão a aplicação das penas previstas neste regulamento, seguindo-se quanto à forma e trâmites do processo o que se acha prescrito no Regulamento Geral das Capitanias.
 
-###### Art. 21.º Na falta de pagamento da multa no prazo indicado na respectiva sentença, o capitão do porto promoverá a cobrança coerciva das respectivas quantias nos termos do disposto no [Decreto n.º 11449](https://diariodarepublica.pt/dr/detalhe/decreto/11449-1926-209430), de 19 de Fevereiro de 1926, depois de apreender a embarcação e os aparelhos de pesca ou quaisquer objectos sobre que verse a questão.
+Art. 21.º Na falta de pagamento da multa no prazo indicado na respectiva sentença, o capitão do porto promoverá a cobrança coerciva das respectivas quantias nos termos do disposto no [Decreto n.º 11449](https://diariodarepublica.pt/dr/detalhe/decreto/11449-1926-209430), de 19 de Fevereiro de 1926, depois de apreender a embarcação e os aparelhos de pesca ou quaisquer objectos sobre que verse a questão.
 
-###### Art. 22.º O produto da cobrança de quaisquer multas reverte a favor dos cofres do Estado.
+Art. 22.º O produto da cobrança de quaisquer multas reverte a favor dos cofres do Estado.
 
-###### Art. 23.º Para que seja possível aprofundar e manter sempre actualizados os conhecimentos sobre bio-ecologia das plantas marinhas de interesse económico e da tecnologia do seu aproveitamento, será criado um fundo para investigação de biologia e tecnologia das plantas marinhas, por meio de uma taxa sobre o preço destas plantas, nos termos a definir em portaria conjunta dos Ministérios da Marinha e da Economia.
+Art. 23.º Para que seja possível aprofundar e manter sempre actualizados os conhecimentos sobre bio-ecologia das plantas marinhas de interesse económico e da tecnologia do seu aproveitamento, será criado um fundo para investigação de biologia e tecnologia das plantas marinhas, por meio de uma taxa sobre o preço destas plantas, nos termos a definir em portaria conjunta dos Ministérios da Marinha e da Economia.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Fevereiro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Fernando Quintanilha Mendonça Dias - Luís Maria Teixeira Pinto.
 
 ## ANEXO N.º 1 — Plantas marinhas mais importantes ou mais vulgares do litoral português
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/02/05000/03610365.pdf))](https://files.diariodarepublica.pt/1s/1964/02/05000/03610365.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/02/05000/03610365.pdf)
 
 Nota. - As plantas referidas são as que mais frequentemente se encontram em locais sob jurisdição das autoridades marítimas. A colecção dos seus nomes vulgares assentou num inquérito promovido em 1936 pelas autoridades marítimas e no efectuado por acção directa ou com intervenção da comissão nomeada pelo Ministério da Economia ([Portaria n.º 17564](https://diariodarepublica.pt/dr/detalhe/portaria/17564-1960-279256), de 30 de Janeiro de 1960) para estudar as possibilidades de exploração das algas agarófitas.
 

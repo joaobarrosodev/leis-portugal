@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1964/09/21700/11831184.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45924-1964-537638
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-12-17T00:00:00Z'
+  retrieved_at: '2026-10-22T19:42:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc0e7a926fe934423a04fab8b944b02731607e54f2840fbf1fffd20481203d5e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ad6d003d868f079cd3ca8c0776faf015d08fe915bc1bd29cb717307e1e60bd1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:42:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,25 @@ relationships:
   target: pt:dre:411291:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:659507:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:411291:por
+  label: "Revogado pelo DEC LEI.669/73.17.12.1973.MCOMN, DG.IS [292] de 17.12.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/669-1973-411291
+  date: '1973-12-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:42:03Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +108,7 @@ Para tal fim, além de outras providências, estabelece-se no presente diploma q
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Compete às juntas autónomas dos portos regular e fiscalizar a exploração dos transportes fluviais nas áreas sob a sua jurisdição e, em especial, fixar as carreiras, tarifas e horários dos transportes colectivos, bem como tomar quaisquer providências destinadas a assegurar a regularidade e eficiência dos mesmos.
+Artigo 1.º Compete às juntas autónomas dos portos regular e fiscalizar a exploração dos transportes fluviais nas áreas sob a sua jurisdição e, em especial, fixar as carreiras, tarifas e horários dos transportes colectivos, bem como tomar quaisquer providências destinadas a assegurar a regularidade e eficiência dos mesmos.
 
 § 1.º Exceptuam-se do disposto no corpo deste artigo, continuando a competir à respectiva autoridade marítima a superintendência a que se refere a legislação vigente, os casos seguintes:
 
@@ -113,9 +122,9 @@ b) Os actuais transportes efectuados por embarcações do tráfego local, do tip
 
 § 4.º Quando a exploração dos transportes fluviais abranger para além das áreas sob jurisdição das juntas autónomas áreas sob a jurisdição de outras entidades, compete à respectiva junta autónoma a concessão da licença de exploração, tomando em consideração os condicionamentos apresentados por essas entidades.
 
-###### Art. 2.º Caducam 30 dias após a publicação do presente decreto todas as concessões, licenças ou autorizações para a exploração de transportes fluviais colectivos na área dos portos sob a jurisdição das juntas autónomas.
+Art. 2.º Caducam 30 dias após a publicação do presente decreto todas as concessões, licenças ou autorizações para a exploração de transportes fluviais colectivos na área dos portos sob a jurisdição das juntas autónomas.
 
-###### Art. 3.º As juntas autónomas concederão às empresas que à data da publicação deste decreto explorem transportes colectivos nas áreas sob a sua jurisdição licenças para continuarem a exploração das carreiras que efectuam, desde que assim o requeiram dentro do prazo de 30 dias após a publicação do presente decreto.
+Art. 3.º As juntas autónomas concederão às empresas que à data da publicação deste decreto explorem transportes colectivos nas áreas sob a sua jurisdição licenças para continuarem a exploração das carreiras que efectuam, desde que assim o requeiram dentro do prazo de 30 dias após a publicação do presente decreto.
 
 § 1.º As licenças mencionadas no corpo deste artigo serão dadas em condições a estabelecer pelas juntas autónomas para as carreiras a que respeitam.
 
@@ -127,14 +136,14 @@ b) Os actuais transportes efectuados por embarcações do tráfego local, do tip
 
 O pagamento será efectuado nas tesourarias das juntas autónomas dentro do prazo de 30 dias contados da data da notificação.
 
-###### Art. 4.º As embarcações destinadas às carreiras de transportes fluviais colectivos deverão possuir os necessários documentos exigidos pelos serviços competentes do Ministério da Marinha.
+Art. 4.º As embarcações destinadas às carreiras de transportes fluviais colectivos deverão possuir os necessários documentos exigidos pelos serviços competentes do Ministério da Marinha.
 
-###### Art. 5.º As juntas autónomas poderão impor a todo o tempo a exploração de carreiras de interesse público às empresas a que foram dadas as licenças referidas no artigo 3.º, sendo fixada pela comissão administrativa da junta autónoma a forma de uma justa compensação, se o novo serviço afectar o equilíbrio económico da empresa a que foi imposto.
+Art. 5.º As juntas autónomas poderão impor a todo o tempo a exploração de carreiras de interesse público às empresas a que foram dadas as licenças referidas no artigo 3.º, sendo fixada pela comissão administrativa da junta autónoma a forma de uma justa compensação, se o novo serviço afectar o equilíbrio económico da empresa a que foi imposto.
 
-###### Art. 6.º Se a regularidade e a eficiência dos transportes fluviais colectivos na área dos portos sob a jurisdição das juntas autónomas o exigirem, a respectiva junta autónoma, devidamente autorizada pelo Governo, poderá proceder transitòriamente à sua exploração, requisitando o material e instalações necessárias.
+Art. 6.º Se a regularidade e a eficiência dos transportes fluviais colectivos na área dos portos sob a jurisdição das juntas autónomas o exigirem, a respectiva junta autónoma, devidamente autorizada pelo Governo, poderá proceder transitòriamente à sua exploração, requisitando o material e instalações necessárias.
 
 Sem prejuízo da imediata utilização do material e instalações requisitados pela junta autónoma, os respectivos proprietários terão direito a uma remuneração nos termos que forem convencionados com a mesma junta autónoma, havendo, na falta de acordo, recurso a um tribunal arbitral presidido por um magistrado, nomeado pelo Ministério da Justiça, e designando cada uma das partes um árbitro.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 15 de Setembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Fernando Quintanilha Mendonça Dias - Carlos Gomes da Silva Ribeiro.

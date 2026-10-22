@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 175/1997, 4º Suplemento, Série I-B de 1997-07-31
   number: '175'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 4008-(24) a 4008-(24)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/07/175b04/00240024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/14-m/1997/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-m-1997-139227
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-12-03T00:00:00Z'
+  retrieved_at: '2026-10-22T18:48:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c310aed7b24388ae374cef525d4cfd581db60baa4691fb9d6c0cb06f953ceca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 018a1129831e7917fcf47a80c486a49af7810f054968d725de8b8b2cba56bdf8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:48:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,11 +69,11 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Caderneta Radiológica
-- Radioprotecção
 - Direção Geral da Saúde
+- Euratom
+- Radioprotecção
 - Saúde Pública
 - Segurança no Trabalho
-- Euratom
 relationships:
 - type: amended_by
   target: pt:dre:117202785:por
@@ -87,16 +87,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/29/1997/07/29/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/29/1997/07/29/p/dre
+- type: cites
+  target: pt:dre:144834:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:117202785:por
+  label: Revogado, a partir de 02.04.2019, o DR 29/97 de 29-jul, retificado pela presente declaração, pelo(a) Decreto-Lei
+    n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2018-117202785
+  date: '2018-12-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:48:41Z'
   warnings: []
   errors: []
 ---

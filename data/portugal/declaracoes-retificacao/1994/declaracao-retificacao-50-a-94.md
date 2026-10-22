@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 76/1994, 4º Suplemento, Série I-B de 1994-03-31
   number: '76'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 1586-(16) a 1586-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/03/076b04/00160016.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/50-a/1994/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/50-a-1994-517463
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:42:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0be9c633752a7b4bd0d8531de18ef050ab6d143ee3250e478a94b5147029434d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7eeac1665faa1d7a83029084134db2c7e8a57e23a0280d67d70e8a2044a3b97b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:42:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,45 +67,49 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alteração Orçamental
-- Ministério da Administração Interna
-- Ministério da Educação
 - Encargos Gerais da Nação
+- Ministério da Administração Interna
 - Ministério da Agricultura
-- Ministério do Planeamento e da Administração do Território
-- Ministério do MAR
-- Ministério das Obras Públicas Transportes e Comunicações
+- Ministério da Educação
 - Ministério da Justiça
+- Ministério das Obras Públicas Transportes e Comunicações
 - Ministério do Comércio e Turismo
+- Ministério do MAR
+- Ministério do Planeamento e da Administração do Território
 - Orçamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decl/5/1994/01/19/p/dre
   label: null
   source: http://data.dre.pt/eli/decl/5/1994/01/19/p/dre
+- type: cites
+  target: pt:dre:511244:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:42:58Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 50-A/94
+# Declaração de rectificação n.º 50-A/94
 
 Segundo comunicação da 14.ª Delegação (PIDDAC) da Direcção-Geral da Contabilidade Pública (Ministério das Finanças) a [Declaração n.º 5/94](https://diariodarepublica.pt/dr/detalhe/declaracao/5-1994-511244), publicada no Diário da República, n.º 15, de 19 de Janeiro de 1994, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 
 Em 11 - Ministério da Agricultura, onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/076b04/00160016.pdf))](https://files.diariodarepublica.pt/1s/1994/03/076b04/00160016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/076b04/00160016.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/076b04/00160016.pdf))](https://files.diariodarepublica.pt/1s/1994/03/076b04/00160016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/076b04/00160016.pdf)
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 31 de Março de 1994. - O Secretário-Geral, França Martins

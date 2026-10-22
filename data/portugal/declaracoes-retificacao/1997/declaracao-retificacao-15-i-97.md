@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 226/1997, 3º Suplemento, Série I-B de 1997-09-30
   number: '226'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 5374-(20) a 5374-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/09/226b03/00200020.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/15-i/1997/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-i-1997-468788
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-09-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:48:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 001a8aa95159a7c3bd402d938a5f1883f1abd51d9e1f49d1fdfd4684b89eb5c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 685008683e4a4bc1a190b31dbfc138830202e54a0ef32b24ee894f23aaac1c64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:48:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,32 +67,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
-- Turismo
 - Apoio ao Investimento
-- Projeto de Investimento
+- Empresa
 - JURO Bonificado
 - Programa Operacional
-- Regime de Apoio à Competitividade das Empresas de Turismo
+- Projeto de Investimento
 - Regime de Apoio
-- Regulamento do Regime de Apoio à Competitividade das Empresas de Turismo
+- Regime de Apoio à Competitividade das Empresas de Turismo
 - Regulamento
+- Regulamento do Regime de Apoio à Competitividade das Empresas de Turismo
 - Subsídio não Reembolsável
+- Turismo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/130/1997/08/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/130/1997/08/01/p/dre
+- type: cites
+  target: pt:dre:141832:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:48:59Z'
   warnings: []
   errors: []
 ---

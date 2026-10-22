@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/40/2026/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/40-2026-1060895764
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T18:33:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bef0138d1d0ed76e0d1d1fd8f21884fa26be142c61b6fd8d802da2fb129ef85a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c973220a2c81ae34cf2c7905691b79af3c1d47d6cd1b6cfdffe548f1dac61e4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:33:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autorização de Despesas
-- Opart
 - Contrato Programa
 - Despesas Públicas
-- Subvenção Pública
 - Indemnização Compensatória
+- Opart
+- Subvenção Pública
 - Teatro Nacional de DONA Maria II
 - Teatro Nacional de são JOÃO
 relationships:
@@ -92,16 +92,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/14-b/2024/01/18/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/14-b/2024/01/18/p/dre
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:837139556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:910323298:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:resolucao-conselho-ministros:14-B/2024
+  label: Revoga, com efeitos a 12 de fevereiro de 2026, a Resolução do Conselho de Ministros n.º 14-B/2024, de 18 de janeiro,
+    Diário da República n.º 13/2024, 1º Suplemento, Série I, sem prejuízo dos efeitos já produzidos e da validade dos atos
+    praticados ao abrigo da autorização de realização de despesas para os anos de 2024 e 2025
+  source: null
+  date: '2024-01-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:33:43Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +183,7 @@ iii) 2028 - 25 367 795,00 €.
 
 4 - Estabelecer que os valores pagos nos termos do número anterior se circunscrevem à autorização da despesa prevista no n.º 1 e aos valores previstos no n.º 2 para o ano de 2026 para cada entidade.
 
-5 - Estabelecer que as transferências a que se referem os n.<sup>os</sup>2 e 3 estão sujeitas ao cumprimento das condições de prestação do serviço público que as justificam, nos termos do disposto nos respetivos estatutos e no artigo 45.º do [Decreto-Lei n.º 13-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), de 10 de março.
+5 - Estabelecer que as transferências a que se referem os n.os2 e 3 estão sujeitas ao cumprimento das condições de prestação do serviço público que as justificam, nos termos do disposto nos respetivos estatutos e no artigo 45.º do [Decreto-Lei n.º 13-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), de 10 de março.
 
 6 - Determinar que os encargos financeiros decorrentes da presente resolução são satisfeitos por verbas inscritas, e no 2026, e a inscrever, nos anos seguintes, no orçamento da entidade contabilística Gestão Administrativa e Financeira do Ministério da Cultura, na fonte de financiamento 311 - receitas de impostos não afetas a projetos cofinanciados.
 
@@ -169,3 +192,5 @@ iii) 2028 - 25 367 795,00 €.
 8 - Estabelecer que a presente resolução produz efeitos na data da sua aprovação.
 
 Presidência do Conselho de Ministros, 12 de fevereiro de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119947825

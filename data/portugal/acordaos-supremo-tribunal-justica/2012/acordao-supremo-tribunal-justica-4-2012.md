@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/4/2012/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/4-2012-552012
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-21T00:00:00Z'
+  retrieved_at: '2026-10-22T17:53:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78204d3399c4ebc5fe18f6600c8414d8a5f91c6cf39b8fbdc02db3fb6f5bc366
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 588265eb254bc5e29ef56f89e0f6cd352e24aa6f6a872ab28b5635daaf646a2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:53:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Código Penal
 - Jurisprudencia
 - Prazo
 - Queixa
-- Código Penal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/ac/2/1992/07/02/p/dre
@@ -97,16 +97,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/59/1998/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/59/1998/08/25/p/dre
+- type: cites
+  target: pt:dre:291843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681984:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:53:09Z'
   warnings: []
   errors: []
 ---
@@ -407,7 +451,9 @@ Denúncia a entidade incompetente para o procedimento
 
 A denúncia feita a entidade diversa do Ministério Público é transmitida a este no mais curto prazo, que não pode exceder 10 dias.
 
-###### Artigo 243.º — Auto de notícia
+Artigo 243.º
+
+Auto de notícia
 
 ...
 
@@ -415,7 +461,9 @@ A denúncia feita a entidade diversa do Ministério Público é transmitida a es
 
 ...
 
-###### Artigo 248.º — Comunicação da notícia do crime
+Artigo 248.º
+
+Comunicação da notícia do crime
 
 1 - Os órgãos de polícia criminal que tiverem notícia de um crime, por conhecimento próprio ou mediante denúncia, transmitem-na ao Ministério Público no mais curto prazo, que não pode exceder 10 dias.
 
@@ -445,7 +493,9 @@ O título iv do livro i do Código Penal apresenta a institucionalização norma
 
 Queixa e acusação particular
 
-###### Artigo 113.º — Titulares do direito de queixa
+Artigo 113.º
+
+Titulares do direito de queixa
 
 1 - Quando o procedimento criminal depender de queixa, tem legitimidade para apresentá-la, salvo disposição em contrário, o ofendido, considerando-se como tal o titular dos interesses que a lei especialmente quis proteger com a incriminação.
 
@@ -467,11 +517,15 @@ b) O direito de queixa não puder ser exercido porque a sua titularidade caberia
 
 6 - Se o direito de queixa não for exercido nos termos do n.º 4 nem for dado início ao procedimento criminal nos termos da alínea a) do número anterior, o ofendido pode exercer aquele direito a partir da data em que perfizer 16 anos.
 
-###### Artigo 114.º — Extensão dos efeitos da queixa
+Artigo 114.º
+
+Extensão dos efeitos da queixa
 
 A apresentação da queixa contra um dos comparticipantes no crime torna o procedimento criminal extensivo aos restantes.
 
-###### Artigo 115.º — Extinção do direito de queixa
+Artigo 115.º
+
+Extinção do direito de queixa
 
 1 - O direito de queixa extingue-se no prazo de seis meses a contar da data em que o titular tiver tido conhecimento do facto e dos seus autores, ou a partir da morte do ofendido, ou da data em que ele se tiver tornado incapaz.
 
@@ -481,7 +535,9 @@ A apresentação da queixa contra um dos comparticipantes no crime torna o proce
 
 4 - Sendo vários os titulares do direito de queixa, o prazo conta-se autonomamente para cada um deles.
 
-###### Artigo 116.º — Renúncia e desistência da queixa
+Artigo 116.º
+
+Renúncia e desistência da queixa
 
 1 - O direito de queixa não pode ser exercido se o titular a ele expressamente tiver renunciado ou tiver praticado factos donde a renúncia necessariamente se deduza.
 
@@ -491,7 +547,9 @@ A apresentação da queixa contra um dos comparticipantes no crime torna o proce
 
 4 - Depois de perfazer 16 anos, o ofendido pode requerer que seja posto termo ao processo, nas condições previstas nos n.os 2 e 3, quando tiver sido exercido o direito de queixa nos termos do n.º 4 do artigo 113.º, ou tiver sido dado início ao procedimento criminal nos termos da alínea a) do n.º 5 do artigo 113.º
 
-###### Artigo 117.º — Acusação particular
+Artigo 117.º
+
+Acusação particular
 
 O disposto nos artigos deste título é correspondentemente aplicável aos casos em que o procedimento criminal depender de acusação particular.»
 
@@ -805,13 +863,13 @@ Também os membros do Conselho da Europa signatários da Convenção Europeia pa
 
 Para efeitos da presente Convenção, as palavras dies a quo, designam o dia a partir do qual o prazo começa a correr e as palavras ad quem o dia onde o prazo expira.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - Os prazos expressos em dias, semanas, meses ou anos, correm a partir da meia-noite do dies a quo até à meia-noite, do dies ad quem.
 
 ...
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - ...
 

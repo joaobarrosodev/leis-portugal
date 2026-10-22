@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/04700/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/16/2024/03/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/16-2024-854169896
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-06T00:00:00Z'
+  retrieved_at: '2026-10-22T19:14:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 085e4c5ebd0a4dd927b8a23fe7ff4c961f072d5695b761332dac1a0fce7e37c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6955904a578456e211b7d9ee074eee7fbbfa50615570e86da7b54457f87c4d2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:14:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso ao Emprego
+- Administração Pública
 - Atleta de ALTA Competição
 - Definição de Competências
 - Desporto de ALTA Competição
 - Desporto Profissional
-- Administração Pública
-- Recrutamento de Pessoal
-- Instituto Português do Desporto e Juventude
 - Ensino Superior
+- Instituto Português do Desporto e Juventude
+- Recrutamento de Pessoal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/272/2009/10/01/p/dre
@@ -89,16 +89,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/2024/01/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/2024/01/19/p/dre
+- type: cites
+  target: pt:dre:490957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:837135333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:852994095:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:declaracao-retificacao:12/2024
+  label: Retifica a Declaração de Retificação n.º 12/2024, de 19 de fevereiro, Diário da República n.º 35/2024, Série I
+  source: null
+  date: '2024-02-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:14:55Z'
   warnings: []
   errors: []
 ---
@@ -144,3 +161,5 @@ deve ler-se:
 b) Caso tenham obtido diploma nos jogos olímpicos, paralímpicos ou surdolímpicos: subvenção mensal correspondente a 1 mês por cada semestre, até ao limite de 24 meses;’
 
 Assembleia da República, 1 de março de 2024. - O Secretário-Geral, Albino de Azevedo Soares.
+
+117421118

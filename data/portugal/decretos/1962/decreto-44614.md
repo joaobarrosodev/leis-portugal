@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44614-1962-160355
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-10-03T00:00:00Z'
+  retrieved_at: '2026-10-22T19:31:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 052cd0b3f6716a74feac4946c5dd5682385fb8fc82c9a61f55586c9dd37c4280
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a8083583b8cf258316c582ead3f3870345c2b750c9af65b1fc8fbf7e813fe38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:31:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:246305:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:31:24Z'
   warnings: []
   errors: []
 ---
@@ -91,11 +95,11 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. O artigo 143.º do Regulamento para a Execução do Serviço de Encomendas Postais nas Províncias Ultramarinas, aprovado pelo [Decreto n.º 40441](https://diariodarepublica.pt/dr/detalhe/decreto/40441-1955-246305), de 20 de Dezembro de 1955, passa a ter a seguinte redacção:
+Artigo único. O artigo 143.º do Regulamento para a Execução do Serviço de Encomendas Postais nas Províncias Ultramarinas, aprovado pelo [Decreto n.º 40441](https://diariodarepublica.pt/dr/detalhe/decreto/40441-1955-246305), de 20 de Dezembro de 1955, passa a ter a seguinte redacção:
 
-###### Art. 143.º A entrega das importâncias na tesouraria da alfândega é realizada normalmente nos próprios dias da apresentação das guias m/ CP 36, podendo, no entanto, por acordo com os serviços aduaneiros, ser transferida para o dia seguinte, nos casos em que o movimento de bilhetes de despacho o justifique.
+Art. 143.º A entrega das importâncias na tesouraria da alfândega é realizada normalmente nos próprios dias da apresentação das guias m/ CP 36, podendo, no entanto, por acordo com os serviços aduaneiros, ser transferida para o dia seguinte, nos casos em que o movimento de bilhetes de despacho o justifique.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 3 de Outubro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

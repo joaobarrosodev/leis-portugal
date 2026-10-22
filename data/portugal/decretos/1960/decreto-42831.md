@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/42831-1960-278711
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-09-30T00:00:00Z'
+  retrieved_at: '2026-10-22T19:17:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca75082aae0e3fe340436255c2619d5e17bc05b79786ab7e67167af53ebe66a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e77b4022fcf50810bd9566c2072e615ffcb0f62d788d82451f342cff0d2af1a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:17:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,26 @@ relationships:
   target: pt:dre:233133:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:678625:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:233133:por
+  label: "Revogado o Decreto n.º 39833, de 1 de Outubro de 1954, na redacção do presente diploma, pelo DEC.47229.30.09.1966.PCM,\
+    \ DG.IS [228]Supl de 30.09.1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/47229-1966-233133
+  date: '1966-09-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:17:14Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +100,9 @@ Convindo harmonizar com os restantes departamentos das forças armadas os distin
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. O artigo 71.º do [Decreto n.º 39833](https://diariodarepublica.pt/dr/detalhe/decreto/39833-1954-678625), de 1 de Outubro de 1954, passa a ter a seguinte redacção:
+Artigo único. O artigo 71.º do [Decreto n.º 39833](https://diariodarepublica.pt/dr/detalhe/decreto/39833-1954-678625), de 1 de Outubro de 1954, passa a ter a seguinte redacção:
 
-###### Art. 71.º O Ministro da Defesa Nacional, quando oficial da Força Aérea e fizer uso do uniforme militar, utilizará os fardamentos correspondentes ao seu quadro com as seguintes alterações:
+Art. 71.º O Ministro da Defesa Nacional, quando oficial da Força Aérea e fizer uso do uniforme militar, utilizará os fardamentos correspondentes ao seu quadro com as seguintes alterações:
 
 a) Barrete igual aos dos oficiais generais para os diferentes tipos de uniforme;
 
@@ -100,6 +110,6 @@ b) Distintivo do cargo, em substituição do distintivo do posto, constituído p
 
 § único. Os uniformes do Subsecretário de Estado da Aeronáutica, quando oficial da Força Aérea, serão semelhantes aos do Ministro, com cinco estrelas prateadas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 8 de Fevereiro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Fernando Quintanilha Mendonça Dias.

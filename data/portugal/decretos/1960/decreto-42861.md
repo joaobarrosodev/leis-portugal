@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/42861-1960-282132
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-02-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:17:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6082f08f37935b9c53c5fa5e89605285b9779b660bc60dfcd1e6838487c4c94
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33c84026a45360ba8167350abf8b60fe276efcf8a6105430ca83309b80fda276
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:17:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429434:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:17:21Z'
   warnings: []
   errors: []
 ---
@@ -89,15 +93,15 @@ Ouvido o Conselho Ultramarino:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O § único do artigo 4.º de cada um dos estatutos político-administrativos das províncias de Angola e Moçambique, aprovados, respectivamente, pelos Decretos n.os 40225 e 40226, de 5 de Julho de 1955, passa a ter a seguinte redacção:
+Artigo 1.º O § único do artigo 4.º de cada um dos estatutos político-administrativos das províncias de Angola e Moçambique, aprovados, respectivamente, pelos Decretos n.os 40225 e 40226, de 5 de Julho de 1955, passa a ter a seguinte redacção:
 
 § único. O governador-geral será coadjuvado no exercício das suas funções executivas pelo secretário-geral e poderá sê-lo também por quatro secretários provinciais.
 
-###### Art. 2.º O corpo do artigo 16.º de cada um dos referidos estatutos político-administrativos das províncias de Angola e Moçambique passa a ter a seguinte redacção:
+Art. 2.º O corpo do artigo 16.º de cada um dos referidos estatutos político-administrativos das províncias de Angola e Moçambique passa a ter a seguinte redacção:
 
-###### Art. 16.º O governador-geral pode propor ao Ministro do Ultramar a nomeação de até quatro secretários provinciais, nos quais poderá delegar as funções executivas que entender, exceptuadas as relativas à administração financeira.
+Art. 16.º O governador-geral pode propor ao Ministro do Ultramar a nomeação de até quatro secretários provinciais, nos quais poderá delegar as funções executivas que entender, exceptuadas as relativas à administração financeira.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Fevereiro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

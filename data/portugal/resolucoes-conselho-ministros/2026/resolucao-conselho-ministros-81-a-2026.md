@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/81-a/2026/05/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/81-a-2026-1123575898
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-08T00:00:00Z'
+  retrieved_at: '2026-10-22T18:41:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f70ae8e5784d41de255a4e8b385b1bba0a2548a0cd486eaea5cca0f677dd7f92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a64759e05b4cb30d359dee521f3c8940d46eb40e69556ae9fd3b576bc1ccf1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:41:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Desenvolvimento Rural
-- Proteção da Floresta
-- Gestão dos Recursos
-- Proteção do Ambiente
 - Gestão do Ambiente
-- Recursos Naturais
+- Gestão dos Recursos
 - Programa de Reordenamento e Gestão da Paisagem
+- Proteção da Floresta
+- Proteção do Ambiente
+- Recursos Naturais
 relationships:
 - type: amended_by
   target: pt:dre:1130121312:por
@@ -117,16 +117,118 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/76/2000/07/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/76/2000/07/05/p/dre
+- type: cites
+  target: pt:dre:119386286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119386289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130273578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:135843143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136476384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136476385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136678483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:167608023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172745163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177901648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221277725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2879023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644352:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:808130315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:853137084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:855590411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:856836225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:898320399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:900347439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901697158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:913567157:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1130121312:por
+  label: Retificada a referência ao «Despacho n.º 4223/2025, de 3 de abril» pelo(a) Declaração de Retificação n.º 18/2026/1
+    - Diário da República n.º 109/2026, Série I de 2026-06-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/18-2026-1130121312
+  date: '2026-06-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:41:05Z'
   warnings: []
   errors: []
 ---
@@ -251,7 +353,8 @@ PRGP SERRA DA MALCATA
 
 O Programa de Reordenamento e Gestão da Paisagem da Serra da Malcata (PRGPSM) abrange uma área de cerca 57.300 hectares, englobando parte dos concelhos da Guarda - nas freguesias de Pega, Santana da Azinha, Vila Fernando (parcial) e Adão, de Penamacor - na freguesia de Meimão - e do Sabugal - nas freguesias de Águas Belas, Aldeia do Bispo, Bendada, Casteleiro, Fóios, Malcata, Quadrazais, Quintas de São Bartolomeu, Sortelha, Vale de Espinho, Vila do Touro, União de Freguesias de Pousafoles do Bispo, Pena Lobo e Lomba, e União das Freguesias de Santo Estevão e Moita (Figura 1). Cerca de 16 158 hectares da área abrangida pelo PRGPSM corresponde à totalidade da Reserva Natural da Serra da Malcata (RNSM). Além disso, a área de intervenção abrange cerca de 30 % da Zona Especial de Conservação (ZEC) da Malcata (PTCON0004), o que representa aproximadamente 24 500 hectares, e inclui a Zona de Proteção Especial (ZPE) da Serra da Malcata (PTZPE0007).
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123575773.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123575773.png) |
+| --- |
 
 2 - Desenho da paisagem do PRGPSM.
 
@@ -293,7 +396,8 @@ Na vertente do património edificado, ocorrem determinados valores patrimoniais 
 
 As opções do desenho da paisagem (Figura 2) permitem, a diferentes níveis, o estabelecimento de estratégias que promovam o reordenamento e a gestão desta paisagem, bem como o desenvolvimento e adaptação do PRGPSM nas várias componentes que o constituem. Na área do PRGPSM está aprovada uma OIGP para a seguinte Área Integrada de Gestão da Paisagem (AIGP) Terras do Lince - Malcata, o desenho da paisagem segue o aprovado pelo [Despacho n.º 3088/2024](https://diariodarepublica.pt/dr/detalhe/despacho/3088-2024-856836225), de 22 de março.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123575774.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123575774.png) |
+| --- |
 
 2.1 - Fundamentação das Opções Tomadas.
 
@@ -377,7 +481,8 @@ As áreas agrícolas e de pastagem, desempenham um papel estruturante na paisage
 
 O Quadro 1 apresenta a quantificação das áreas e respetivas percentagens relativas à área total a ser intervencionada para a concretização dos objetivos do PRGPSM. Neste quadro é feita a distinção entre as áreas de Alteração de Ocupação das áreas de Alteração de Gestão (Regimes de Transição), refletindo as intervenções propostas para transformar a paisagem.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576575.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576575.png) |
+| --- |
 
 A evolução da paisagem na área do PRGPSM consiste, assim, no ajustamento das funções da floresta, determinado por:
 
@@ -423,7 +528,8 @@ Estes regimes são de aplicação transversal nas áreas das macroestruturas e d
 
 Na Figura 3 estão identificadas as áreas prioritárias de intervenção de maior relevância para a transformação da paisagem, considerando que são aquelas que irão gerar um impacto mais significativo na concretização das opções do PRGPSM.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576576.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576576.png) |
+| --- |
 
 4.1.1 - Estrutura de conetividade ecológica - corredores húmidos da rede hidrográfica fundamental.
 
@@ -459,7 +565,8 @@ No âmbito das ações complementares previstas pelo PTP e SGIFR, incluem-se as 
 
 É proposta a constituição de uma Área Piloto de Gestão Agregada, na transição da UGP2 Vales Agrícolas da Cova da Beira e da UGP3 Planalto da Guarda, representado cerca de 3.700ha, ou 6,4 % da área total do PRGP. Este vale que constitui normalmente um corredor de passagem de incêndios e que está frequentemente na base da progressão dos mesmos, potenciando a sua dimensão, representa uma área extremamente importante e estratégica na defesa do território contra os incêndios.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576577.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576577.png) |
+| --- |
 
 4.3.1 - Ações prioritárias nas macroestruturas da paisagem:
 
@@ -501,7 +608,8 @@ O Programa de Reordenamento e Gestão da Paisagem das Serras do Marão, Alvão e
 
 Da área de intervenção do PRGPSMAF, verifica-se que: 7.220,5 hectares (14,6 %) integram o Parque Natural do Alvão; 28 610 hectares (57,9 %) integram a Zona Especial de Conservação (ZEC) Alvão/Marão (PTCON0003); 243,2 hectares (0,2 %) integram o Parque Natural Regional do Vale do Tua (PNRVT); e 917,6 hectares (1,9 %) integram a Zona Especial de Proteção do Alto Douro Vinhateiro (ZEP).
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576578.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576578.png) |
+| --- |
 
 2 - Desenho da paisagem do PRGPSMAF.
 
@@ -509,7 +617,8 @@ O PRGPSMAF está inserido na unidade homogénea “Serras da Falperra e Pardela,
 
 O desenho da paisagem do PRGPSMAF (Figura 2) integra três componentes principais: a macroestrutura da paisagem, os macrossistemas e os elementos singulares que traduzem a realidade territorial da área de intervenção e identifica as Unidades de Gestão da Paisagem.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576579.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576579.png) |
+| --- |
 
 As macroestruturas da paisagem, integram os elementos de carácter estruturador que definem os pilares fundamentais da abordagem territorial ao Desenho da Paisagem. É constituída por:
 
@@ -661,15 +770,18 @@ As áreas de Matos e Áreas Rochosas ou de Vegetação Esparsa, associadas às c
 
 O Quadro 1 apresenta a quantificação das áreas e respetivas percentagens para a transformação no horizonte de 10 anos, as transformações propostas, com as estimativas das áreas a alterar e o total das áreas a manter ou a valorizar.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576580.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576580.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576581.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576581.png) |
+| --- |
 
 4 - Áreas e ações prioritárias de intervenção na Área do PRGPSMAF.
 
 Na Figura 3 estão identificadas as áreas prioritárias de intervenção de maior relevância para a transformação da paisagem, considerando que são aquelas que irão gerar um impacto mais significativo na concretização das opções do PRGPSMAF.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576582.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576582.png) |
+| --- |
 
 4.1 - Áreas prioritárias de intervenção nas Macroestruturas da paisagem.
 
@@ -709,7 +821,8 @@ Tendo em consideração as características das unidades de paisagem e o histór
 
 ▪ Nas Serras da Falperra (e Padrela) como território mais interior, na confluência de importantes eixos viários (A4 e IC5), com aglomerados urbanos importantes, alguma floresta e recorrência de incêndios muito elevada.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576583.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576583.png) |
+| --- |
 
 4.3.1 - Ações prioritárias nas Macroestruturas da Paisagem.
 
@@ -743,7 +856,8 @@ O Programa de Reordenamento e Gestão da Paisagem do Alto Douro e Baixo Sabor (P
 
 A área de intervenção do PRGPADBS é abrangida por um conjunto de espaços que se destacam pelo valor patrimonial e natural, nomeadamente pelo Parque Natural do Douro Internacional, em 15.068 hectares, pela Reserva da Biosfera Transfronteiriça da Meseta Ibérica, em 17.930 hectares e pela Rede Natura 2000, em 17640 hectares e que integram a Zona de Proteção Especial Douro Internacional e Vale do Águeda (PTCON0022), a Zona de Proteção Especial Rios Sabor e Maçãs (PTCON0021), o Sítio de Importância Comunitária Douro Internacional e Vale do Águeda (PTZPE0038) e o Sítio de Importância Comunitária Rios Sabor e Maçãs (PTZPE0037) (Figura 1).
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576584.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576584.png) |
+| --- |
 
 2 - Desenho da Paisagem do PRGPADBS.
 
@@ -751,7 +865,8 @@ O PRGPADBS está inserido na unidade homogénea “Alto Douro e Baixo Sabor” n
 
 O desenho da paisagem do PRGPADBS (Figura 2) integra três componentes principais: as macroestruturas da paisagem, os macrossistemas e os elementos singulares da paisagem.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576585.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576585.png) |
+| --- |
 
 As macroestruturas da paisagem, englobam os elementos estruturantes que definem os pilares fundamentais da abordagem territorial ao Desenho da Paisagem. Esta estrutura é o constituída por:
 
@@ -905,7 +1020,8 @@ A área de culturas temporárias e culturas permanentes será mantida, prevendo-
 
 O Quadro 1 apresenta a quantificação das áreas a ser intervencionadas para a concretização dos objetivos do PRGPADBS, considerando a sua integração, ou não, em estruturas da paisagem.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576586.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576586.png) |
+| --- |
 
 4 - Áreas e ações prioritárias de intervenção na Área do PRGPADBS.
 
@@ -913,7 +1029,8 @@ O Quadro 1 apresenta a quantificação das áreas a ser intervencionadas para a 
 
 Na Figura 3 estão identificadas as áreas prioritárias de intervenção como as de maior relevância para a transformação da paisagem, considerando que são aquelas que irão gerar um impacto mais significativo na concretização das opções do PRGPADBS.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576587.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576587.png) |
+| --- |
 
 4.1.1 - Estrutura de conetividade ecológica - Corredores húmidos da rede hidrográfica fundamental.
 
@@ -943,7 +1060,8 @@ O Quadro 2 sintetiza as áreas prioritárias do PRGPADBS e identifica as ações
 
 De acordo com a natureza das ações propostas, a sua realização pode acontecer ao longo de 10 anos. Estas ações acrescem às estabelecidas na OIGP da ZIF Serra do Picotino, estabelecida pelo [Despacho n.º 7109-A/2021](https://diariodarepublica.pt/dr/detalhe/despacho/7109-a-2021-167608023) de 16 de julho e com OIGP), aprovada pelo [Despacho n.º 14844-A/2024](https://diariodarepublica.pt/dr/detalhe/despacho/14844-a-2024-900347439), de 16 de dezembro, localizada nos concelhos de Mogadouro e Freixo de Espada à Cinta com a área inicial de cerca de 1.470 ha, a qual foi ajustada em sede de OIGP para uma área de cerca de 1.483 ha. Engloba vários prédios rústicos das freguesias de Castelo Branco e Bruçó, do concelho de Mogadouro, e das freguesias de Fornos e Lagoaça, do concelho de Freixo de Espada à Cinta. Tem como entidade gestora APATA - Associação de Produtores Agrícolas Tradicionais e Ambientais, e um montante máximo de financiamento validado para as ações de investimento e uma remuneração anual máxima prevista para os apoios a 20 anos.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576588.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576588.png) |
+| --- |
 
 As ações prioritárias identificadas na área de PRGPADBS deverão ser executadas nas áreas prioritárias anteriormente identificadas.
 
@@ -985,7 +1103,8 @@ O Programa de Reordenamento e Gestão da Paisagem das Serras da Lousã e Açor (
 
 A área de intervenção do PRGPSLA é abrangida por duas Zonas Especiais de Conservação (ZEC) da Rede Natura 2000, nomeadamente Serra da Lousã (PTCON0060) e complexo do Açor (PTCON0051) (Figura 1). A ZEC do complexo do Açor (PTCON0051) é constituída por quatro áreas distintas, mas apenas estão presentes na área do PRGP, a Mata da Margaraça, o Penedo do Fajão na sua totalidade e parcialmente o Picoto de Cebola. Nas Matas da Margaraça sobre encostas xistosas e do Fajão sobre afloramentos quartzíticos de valor geomorfológico e cénico, destacam-se as comunidades vegetais, bosques caducifólios de carácter reliquial, com elevado valor botânico e fitogeográfico.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576589.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576589.png) |
+| --- |
 
 2 - Desenho da paisagem.
 
@@ -995,7 +1114,8 @@ As Serras da Lousã e do Açor surgem no centro do país como um enorme relevo x
 
 O desenho da paisagem (Figura 2) integra três componentes principais: as macroestruturas da paisagem, os macrossistemas e os elementos singulares da paisagem, identificando as Unidades de Gestão da paisagem.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576590.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576590.png) |
+| --- |
 
 As macroestruturas da paisagem englobam os elementos de carácter estruturador que definem os pilares fundamentais da abordagem territorial ao Desenho da Paisagem:
 
@@ -1151,15 +1271,18 @@ A área sujeita a transformação efetiva, é na ordem dos 29 % da área total d
 
 O Quadro 1 apresenta a quantificação das áreas a ser intervencionadas para a concretização dos objetivos do PRGPSLAP, considerando a sua integração, ou não, em estruturas da paisagem.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576591.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576591.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576592.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576592.png) |
+| --- |
 
 4 - Áreas e ações prioritárias de intervenção na Área do PRGPSLA
 
 Na Figura 3 estão identificadas as áreas prioritárias de intervenção de maior relevância para a transformação da paisagem, onde se pretendem realizar ações que, dada a sua natureza, são transversais à área de intervenção e cuja concretização é estruturante para a sustentabilidade e viabilidade da nova paisagem do PRGPSLA.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576593.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576593.png) |
+| --- |
 
 4.1 - Áreas prioritárias de intervenção na Macroestrutura da Paisagem.
 
@@ -1201,7 +1324,8 @@ O Quadro 2 sintetiza as áreas prioritárias do PRGPSLA e aponta as ações prio
 
 De acordo com a natureza das ações, é considerado que a sua realização possa acontecer ao longo de 10 anos. Estas ações acrescem às estabelecidas nas Operações Integradas de Gestão da Paisagem. As transformações na gestão consideradas, serão apoiados no quadro dos sistemas de incentivo associados ao Programa.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576594.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576594.png) |
+| --- |
 
 4.3.1 - Ações prioritárias nas Macroestruturas da Paisagem.
 
@@ -1235,7 +1359,8 @@ PRGP ENTRE MINHO E LIMA
 
 O Programa de Reordenamento e Gestão da Paisagem de Entre Minho e Lima abrange uma área de 42.320,8 hectares inserida em 49 freguesias (total ou parcialmente) dos municípios de Arcos de Valdevez (Cendufe, Miranda, Rio Frio; Senharei), Caminha (Lanhelas, Ribeira de Âncora, Vila Praia de Âncora, Vile, União das Freguesias de Gondar e Orbacém, Dem, União das Freguesias de Venade e Azevedo, União das Freguesias de Arga (Baixo, Cima e São João), Agrela, e Vilar de Mouros), Paredes de Coura (Romarigães, Agualonga, Castanheira, Coura, Cunha, União das Freguesias de Bico e Cristelo, Vascões), Ponte de Lima (São Pedro de Arcos, Arcozelo, Estorãos, Calheiros, Refoios do Lima, Bárrio e Cepões, Cabração e Moreira do Lima, Labruja, Labrujó, Rendufe e Vilar do Monte), Viana do Castelo (Areosa, Perre, Carreço, Outeiro, Afife, União das Freguesias de Nogueira, Meixedo e Vilar de Murteda, Amonde, Freixieiro de Soutelo, Montaria), Vila Nova de Cerveira (Gandarém, Mentestrido, Sopo, Covas, Loivo, União das Freguesias de Candemil e Gondar, União das Freguesias de Reboreda e Nogueira, União das Freguesias de Vila Nova de Cerveira e Lovelhe). A área de intervenção do PRGPEML é abrangida pela ZPE Estuário dos Rios Minho e Coura (PTZPE001); a ZEC da Serra de Arga (PTCON0039); a ZEC Corno do Bico (PTCON0040); a ZEC Rio Minho (PTCON0019); a ZEC Rio Lima (PTCON0020); e a Área Protegida Regional do Corno do Bico (Figura 1).
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576595.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576595.png) |
+| --- |
 
 2 - Desenho da paisagem.
 
@@ -1249,7 +1374,8 @@ A plataforma litoral no setor ocidental, relativamente baixa, culmina na Serra d
 
 O desenho da paisagem (Figura 2) organiza o território em três componentes principais: as macroestruturas da paisagem, os macrossistemas e os elementos singulares da paisagem, identificando as Unidades de Gestão da paisagem.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576596.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576596.png) |
+| --- |
 
 As macroestruturas da paisagem englobam os elementos de carácter estruturador que definem os pilares fundamentais da abordagem territorial ao Desenho da Paisagem:
 
@@ -1387,13 +1513,15 @@ Acresce à transformação referida aquela que se vier a operar nas três Áreas
 
 O Quadro 1 apresenta a quantificação das áreas a ser intervencionadas para a concretização dos objetivos do PRGPEML, considerando a sua integração, ou não, em estruturas da paisagem.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576597.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576597.png) |
+| --- |
 
 4 - Áreas e ações prioritárias de intervenção na Área do PRGPEML.
 
 Na Figura 3 estão identificadas as áreas prioritárias de intervenção como as de maior relevância para a transformação da paisagem, onde se pretendem realizar ações que, dada a sua natureza, são transversais à área de intervenção e cuja concretização é estruturante para a sustentabilidade e viabilidade da nova paisagem do PRGPEML.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576598.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576598.png) |
+| --- |
 
 4.1 - Áreas prioritárias de intervenção nas Macroestruturas da Paisagem
 
@@ -1437,7 +1565,8 @@ As áreas prioritárias nos Macrossistemas da Paisagem são identificadas como M
 
 O Quadro 2 sintetiza as ações prioritárias do PRGPEML que se pretende avançar desde já. De acordo com a natureza das ações, é considerado que a sua realização possa acontecer ao longo de 10 anos.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576599.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576599.png) |
+| --- |
 
 4.3.1 - Ações prioritárias nas Macroestruturas da Paisagem:
 
@@ -1477,7 +1606,8 @@ O Programa de Reordenamento e Gestão da Paisagem do Alva e Mondego (PRGPAM) com
 
 A área de intervenção do PRGPAM é abrangida pelo Sítio de Importância Comunitária (SIC) de Carregal do Sal (PTCON00027), classificado como Zona Especial de Conservação (ZEC) pelo [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março. O PRGPAM abrange de cerca de 7000 ha do SIC, quase 73 % da sua superfície, maioritariamente no concelho de Oliveira do Hospital. Para além deste SIC, contactam com os limites da área de intervenção do PRGPAM ou estão bastante próximas outras áreas classificadas, nomeadamente o SIC Serra da Estrela (PTCON00014), que corresponde sensivelmente ao Parque Natural da Serra da Estrela e o SIC do “Complexo do Açor” (PTCON00051) na Serra do Açor, a sul do PRGPAM, (Figura 1).
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576600.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576600.png) |
+| --- |
 
 2 - Desenho da Paisagem.
 
@@ -1489,7 +1619,8 @@ No vale do Mondego predominam declives fortes a muito fortes, pontualmente com s
 
 O desenho da paisagem (Figura 2) integra três componentes principais: as macroestruturas da paisagem, os macrossistemas e os elementos singulares da paisagem, identificando as Unidades de Gestão da paisagem.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576601.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576601.png) |
+| --- |
 
 As macroestruturas da paisagem englobam os elementos de carácter estruturador que definem os pilares fundamentais da abordagem territorial ao Desenho da Paisagem:
 
@@ -1637,9 +1768,11 @@ iii) Áreas com grande extensão de plantações monoespécie, onde há necessid
 
 O Quadro 1 apresenta a quantificação das áreas a ser intervencionadas para a concretização dos objetivos do PRGPAM, considerando a sua integração, ou não, em estruturas da paisagem.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576602.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576602.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576603.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576603.png) |
+| --- |
 
 A transformação aprovada nas Operações Integradas de Gestão da Paisagem, acresce à transformação referida.
 
@@ -1649,7 +1782,8 @@ Este processo de transformação beneficia do contexto da existência de cadastr
 
 Na Figura 3 estão identificadas as áreas prioritárias de intervenção como as de maior relevância para a transformação da paisagem, onde se pretendem realizar ações que, dada a sua natureza, são transversais à área de intervenção e cuja concretização é estruturante para a sustentabilidade e viabilidade da nova paisagem do PRGPAM.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576604.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576604.png) |
+| --- |
 
 4.1 - Áreas prioritárias de intervenção nas Macroestruturas da Paisagem.
 
@@ -1685,7 +1819,8 @@ As áreas prioritárias nos Macrossistemas da Paisagem são identificadas como M
 
 O Quadro 2 sintetiza as áreas prioritárias do PRGPAM e aponta as ações prioritárias que se pretende avançar desde já. De acordo com a natureza das ações, é considerado que a sua realização possa acontecer ao longo de 10 anos. Estas ações acrescem às estabelecidas nas Operações Integradas de Gestão da Paisagem.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576605.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576605.png) |
+| --- |
 
 4.3.1 - Ações prioritárias nas Macroestruturas da Paisagem:
 
@@ -1719,7 +1854,8 @@ O Programa de Reordenamento e Gestão da Paisagem dos Montes Ocidentais e Beira 
 
 A área de intervenção do PRGPMOBA encontra-se abrangida pela Zona Especial de Conservação (ZEC) da Rede Natura 2000 “Serra da Lousã” (PTCON0060), numa área total de 15.158ha e por áreas afetas a Regime Florestal, (Figura 1).
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576606.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576606.png) |
+| --- |
 
 2 - Desenho da paisagem.
 
@@ -1729,7 +1865,8 @@ Os Montes Ocidentais da Beira Alta e Serras da Lousã inserem-se maioritariament
 
 O desenho da paisagem (Figura 2) integra três componentes principais: as macroestruturas da paisagem, os macrossistemas e os elementos singulares da paisagem, identificando as Unidades de Gestão da paisagem.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576607.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576607.png) |
+| --- |
 
 As macroestruturas da paisagem englobam os elementos de carácter estruturador que definem os pilares fundamentais da abordagem territorial ao Desenho da Paisagem:
 
@@ -1905,17 +2042,21 @@ O PRGPMOBA aponta ainda para a possibilidade de transformação progressiva de c
 
 O Quadro 1 apresenta a quantificação das áreas a ser intervencionadas para a concretização dos objetivos do PRGPMOBA, considerando a sua integração, ou não, em estruturas da paisagem.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576608.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576608.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576609.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576609.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576610.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576610.png) |
+| --- |
 
 4 - Áreas e ações prioritárias para intervenção na Macroestrutura da Paisagem.
 
 Na Figura 3 estão identificadas as áreas prioritárias de intervenção como as de maior relevância para a transformação da paisagem, onde se pretendem realizar ações que, dada a sua natureza, são transversais à área de intervenção e cuja concretização é estruturante para a sustentabilidade e viabilidade da nova paisagem do PRGMOBA.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576611.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576611.png) |
+| --- |
 
 4.1 - Áreas prioritárias de intervenção na Macroestrutura da Paisagem
 
@@ -1953,7 +2094,8 @@ As áreas prioritárias nos Macrossistemas da Paisagem são identificadas como M
 
 O Quadro 2 sintetiza as áreas prioritárias do PRGPMOBA e aponta as ações prioritárias com que se pretende avançar desde já. De acordo com a natureza das ações, é considerado que a sua realização possa acontecer ao longo de 10 anos. Estas ações acrescem às estabelecidas nas Operações Integradas de Gestão da Paisagem.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576612.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576612.png) |
+| --- |
 
 4.3.1 - Ações prioritárias nas macroestruturas da paisagem:
 
@@ -1987,7 +2129,8 @@ O Programa de Reordenamento e Gestão da Paisagem das Serras da Gardunha, Alvelo
 
 A área de intervenção do PRGPSGAM integra duas áreas protegidas, correspondendo 6325.6 hectares à Paisagem Protegida Regional da Serra da Gardunha e ao Sítio PTCON0028 - Serra da Gardunha da Rede Natura 2000, em que estão identificados seis habitats prioritários, que correspondem a uma área de 2879.7 hectares, (Figura 1).
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576613.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576613.png) |
+| --- |
 
 2 - Desenho da paisagem.
 
@@ -1997,7 +2140,8 @@ A área de intervenção apresenta características geomorfológicas distintas a
 
 O desenho da paisagem (Figura 2) organiza o território em três componentes principais: as macroestruturas da paisagem, os macrossistemas e os elementos singulares da paisagem, identificando as Unidades de Gestão da paisagem.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576614.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576614.png) |
+| --- |
 
 As macroestruturas da paisagem englobam os elementos de carácter estruturador que definem os pilares fundamentais da abordagem territorial ao Desenho da Paisagem:
 
@@ -2177,13 +2321,15 @@ A área sujeita a transformação efetiva, é na ordem de cerca de 9.017ha, 21 %
 
 O Quadro 1 apresenta a quantificação das áreas a ser intervencionadas para a concretização dos objetivos do PRGPSSGAM, considerando a sua integração, ou não, em estruturas da paisagem.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576615.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576615.png) |
+| --- |
 
 4 - Áreas e ações prioritárias de intervenção na área do PRGPSGAM.
 
 Na Figura 3 estão identificadas as áreas prioritárias de intervenção como as de maior relevância para a transformação da paisagem, onde se pretendem realizar ações que, dada a sua natureza, são transversais à área de intervenção e cuja concretização é estruturante para a sustentabilidade e viabilidade da nova paisagem do PRGPSGAM.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576616.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576616.png) |
+| --- |
 
 4.1 - Áreas prioritárias na Macroestrutura da Paisagem.
 
@@ -2219,7 +2365,8 @@ As áreas prioritárias nos Macrossistemas da Paisagem são identificadas como M
 
 O Quadro 2 sintetiza as áreas prioritárias do PRGPSGAM e aponta as ações prioritárias com que se pretende avançar desde já. De acordo com a natureza das ações, é considerado que a sua realização possa acontecer ao longo de 10 anos.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576617.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576617.png) |
+| --- |
 
 4.3.1 - Ações prioritárias na Macroestrutura da Paisagem:
 
@@ -2253,7 +2400,8 @@ O Programa de Reordenamento e Gestão da Paisagem da Serra do Caldeirão (PRGPSC
 
 Cerca de 40 % da área total do PRGPSC é abrangida por duas Zonas Especiais de Conservação (ZEC) que integram a Rede Natura 2000, designadamente a ZEC Caldeirão e a ZEC Barrocal. Da Rede Nacional de Áreas Protegidas (RNAP), a área de intervenção integra parte da Paisagem Protegida Local - Rocha da Pena e, quanto a áreas classificadas ao abrigo de compromissos internacionais abrange também, parcialmente, o Sítio Ramsar - Ribeira do Vascão.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576618.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576618.png) |
+| --- |
 
 2 - Desenho da Paisagem do PRGPSC.
 
@@ -2261,7 +2409,8 @@ O PRGPSC está inserido na unidade homogénea “Serra do Caldeirão” nos term
 
 O Desenho da Paisagem no PRGPSC (Figura 2) organiza o território em três componentes principais: as macroestruturas da paisagem, os macrossistemas da paisagem e os elementos singulares da paisagem, identificando as Unidades de Gestão da Paisagem.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576619.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576619.png) |
+| --- |
 
 A macroestrutura da paisagem integra os elementos estruturantes que definem os pilares fundamentais do Desenho da Paisagem, nomeadamente a Estrutura de conetividade ecológica e a Estrutura de resiliência ao fogo:
 
@@ -2419,7 +2568,8 @@ Nas áreas que serão mantidas e valorizadas permanece a ocupação do solo atua
 
 O Quadro 1 apresenta a quantificação das áreas e respetivas percentagens relativas à área total a ser intervencionada para a concretização dos objetivos do PRGPSC. Este quadro distingue as áreas de Alteração de Ocupação das áreas de Alteração de Gestão (Regimes de Transição), refletindo as intervenções propostas para transformar a paisagem.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576620.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576620.png) |
+| --- |
 
 Na maior parte do território, as transformações incidirão principalmente na melhoria da gestão de atividades onde existem disfunções que diminuem a provisão dos serviços dos ecossistemas e que se relacionam com a suscetibilidade ao fogo ou com o impacto dos incêndios rurais.
 
@@ -2447,7 +2597,8 @@ Identificam-se como atores no território já capacitados para promover a transi
 
 Na Figura 3 estão identificadas as áreas prioritárias de intervenção como as de maior relevância para a transformação da paisagem, considerando que são aquelas que irão gerar um impacto mais significativo na concretização das opções do PRGPSC.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576621.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576621.png) |
+| --- |
 
 4.1.1 - Áreas prioritárias nas Macroestruturas da Paisagem.
 
@@ -2487,7 +2638,8 @@ As Áreas Prioritárias de Gestão Agregada (APGA) a constituir estimam-se em ce
 
 É proposta a constituição de três Áreas Piloto de Gestão Agregada, uma na envolvente da aldeia de Cachopo, concelho de Tavira, abrangendo uma maior diversidade de ocupações do solo, tais como matos, florestas de sobreiro, florestas de pinheiro manso e agricultura, que permitem englobar um maior número de intervenções, designadamente no que respeita à constituição de mosaicos agrícola heterogéneos e agrossilvopastoris (APGA A) e outra na envolvente das aldeias de Parizes, Cabanas e Lajes (concelho de São Brás de Alportel), abrangendo aqui essencialmente área de matos e florestas de sobreiro (APGA B). Além destas, foi ainda proposta a constituição de uma outra APGA, designada “APGA ZIF Carrasqueiro”, a localizar no concelho de Loulé, pela Associação de Produtores Florestais da Serra da Caldeirão.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576622.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576622.png) |
+| --- |
 
 4.3.1 - Ações prioritárias nas macroestruturas da paisagem.
 
@@ -2537,7 +2689,8 @@ O Programa de Reordenamento e Gestão da Paisagem da Serra da Estrela (PRGPSE) a
 
 Cerca de 40 % da área total do PRGPSE é abrangida por uma área protegida incluída na Rede Nacional de Áreas Protegidas (RNAP) - Parque Natural da Serra da Estrela (PNSE); uma área da Rede Natura 2000 - Zona Especial de Conservação (ZEC) da Serra da Estrela (PTCON0014); três áreas correspondentes a compromissos internacionais assumidos pelo Estado Português designadamente um Sítio Ramsar, o Planalto Superior da Serra da Estrela e Troço Superior do Rio Zêzere, um Geoparque - Geopark Estrela e uma Reserva Biogenética - Planalto Central da Serra da Estrela, (Figura 1).
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576623.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576623.png) |
+| --- |
 
 2 - Desenho da paisagem.
 
@@ -2545,7 +2698,8 @@ O PRGPSE está inserido na unidade homogénea “Serra da Estrela”, nos termos
 
 O desenho da paisagem (Figura 2) organiza o território em três componentes principais: a macroestrutura da paisagem, os macrossistemas e os elementos singulares da paisagem, identificando as Unidades de Gestão da paisagem.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576624.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576624.png) |
+| --- |
 
 A macroestrutura da paisagem engloba os elementos de carácter estruturador que definem os pilares fundamentais da abordagem territorial ao Desenho da Paisagem. Esta estrutura é constituída por:
 
@@ -2681,7 +2835,8 @@ O Quadro 1 apresenta a quantificação das áreas a ser intervencionadas para a 
 
 A área sujeita a transformação efetiva, é na ordem dos 21 % da área total do PRGPSE, ou seja, cerca, 10.792ha, dos quais 2.255ha correspondem à AIGP de Regadas. O PRGPSE aponta ainda para manutenção ou recuperação/restauro da ocupação e uso do solo em 79 %, ou seja, cerca de 40.564ha da área de intervenção e a aplicação de regimes de gestão em 38 % da área, ou seja, em cerca de 19.431ha.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576625.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576625.png) |
+| --- |
 
 4 - Áreas e Ações Prioritárias de intervenção na área do PRGPSE.
 
@@ -2721,7 +2876,8 @@ As áreas prioritárias nos Macrossistemas da Paisagem são identificadas como M
 
 Foram excluídas desta contabilização as áreas que integram a RPFGC e as OAEGC definidas (2.725ha de 5.159ha totais), por forma e evitar a duplicação das mesmas áreas já contabilizadas no ponto anterior.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576626.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576626.png) |
+| --- |
 
 4.3 - Ações prioritárias do PRGPSE.
 
@@ -2729,7 +2885,8 @@ O Quadro 2 sintetiza as áreas prioritárias do PRGPSE e aponta as ações prior
 
 Foi considerada a proposta de criação duas APGA considerando um valor de referência de aproximadamente 15 % da área total do PRGPSE. Uma vez que nesta AI existe uma AIGP constituída, a área da mesma foi subtraída deste valor de referência. As APGA propostas abrangem uma área total de aproximadamente 8.300ha, sendo que a APGA Norte possui uma área indicativa de 2.100ha localizada no concelho da Guarda e a APGA Sul possui uma área indicativa de 2.700ha localizada no concelho da Covilhã e a APGA Serra de Bois possui uma área indicativa de 3.500ha localizada nos concelhos de Gouveia, Guarda e Manteigas.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576627.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576627.png) |
+| --- |
 
 4.3.1 - Ações prioritárias nas Macroestruturas da Paisagem:
 
@@ -2763,7 +2920,8 @@ O Programa de Reordenamento e Gestão da Paisagem das Serras da Freita, Arada e 
 
 A área de intervenção do PRGP SFABP encontra-se abrangida por três Zonas Especiais de Conservação (ZEC) da Rede Natura 2000 [designadamente pela ZEC “Rio Paiva” (PTCON0059), pela ZEC “Montemuro” (PTCON0025) e pela ZEC “Serras da Freita e Arada” (PTCON0047)], por um Geoparque Mundial da UNESCO e por áreas afetas a Regime Florestal (Figura 1).
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576628.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576628.png) |
+| --- |
 
 2 - Desenho da paisagem.
 
@@ -2773,7 +2931,8 @@ As Serras da Freita e Arada pertencentes ao maciço da Gralheira, situam-se no c
 
 O desenho da paisagem (Figura 2) organiza o território em três componentes principais: as macroestruturas da paisagem, os macrossistemas e os elementos singulares da paisagem, identificando as Unidades de Gestão da paisagem.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576629.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576629.png) |
+| --- |
 
 As macroestruturas da paisagem englobam os elementos de carácter estruturador que definem os pilares fundamentais da abordagem territorial ao Desenho da Paisagem:
 
@@ -2897,17 +3056,21 @@ A área sujeita a transformação efetiva, é na ordem dos 9,7 % da área total 
 
 ▪ A criação de cerca de 700 hectares de áreas de vegetação ripícola.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576630.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576630.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576631.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576631.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576632.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576632.png) |
+| --- |
 
 4 - Áreas e ações prioritárias de intervenção na Área do PRGPSFABP.
 
 Na Figura 3 estão identificadas as áreas prioritárias de intervenção como as de maior relevância para a transformação da paisagem, onde se pretendem realizar ações que, dada a sua natureza, são transversais à área de intervenção e cuja concretização é estruturante para a sustentabilidade e viabilidade da nova paisagem do PRGPSFABP.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576633.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576633.png) |
+| --- |
 
 4.1 - Áreas prioritárias na Macroestrutura da Paisagem.
 
@@ -2945,7 +3108,8 @@ As áreas prioritárias nos Macrossistemas da Paisagem são identificadas como M
 
 O Quadro 2 sintetiza as áreas prioritárias do PRGPSFABP e aponta as ações prioritárias que se pretende avançar desde já. De acordo com a natureza das ações, é considerado que a sua realização possa acontecer ao longo de 10 anos. Foi considerada a criação 2 áreas piloto de gestão agregada (APGA), abrangendo uma área total de aproximadamente 1.0780ha, sendo que a APGA Alvarenga possui uma área indicativa de 1.909ha localizada no concelho Arouca e a APGA Arouca possui uma área indicativa de 8.871ha igualmente localizada no concelho Arouca.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576634.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576634.png) |
+| --- |
 
 4.3.1 - Ações prioritárias nas Macroestruturas da Paisagem:
 
@@ -2975,7 +3139,8 @@ PRGP DAS SERRAS DE LEOMIL, LAPA E ALTO PENEDONO
 
 O Programa de Reordenamento e Gestão da Paisagem das Serras de Leomil, Lapa e Alto Penedono (PRGPSLLAP) abrange uma área de 49.972 hectares inserida em vinte e três freguesias dos municípios de Mêda (Póvoa e Casteição), Moimenta da Beira (Caria, Leomil e União das Freguesias de Pêra Velha, Aldeia de Nacomba e Ariz), Penedono (Beselga, Castainço, Penela da Beira, União das Freguesias de Antas e Ourozinho, União das Freguesias de Penedono e Granja), São João da Pesqueira (Paredes da Beira e Riodades), Sernancelhe (Arnas, Carregal, Chosendo, Cunha, Granjal, Vila da Ponte, União das Freguesias de Ferreirim e Macieira, União das Freguesias de Fonte Arcada e Escurquela, União das Freguesias de Penso e Freixinho, União das Freguesias de Sernancelhe e Sarzeda) e Trancoso (Guilheiro e União das Freguesias de Torre do Terrenho, Sebadelhe da Serra e Terrenho). A área de intervenção do PRGP SLLAP encontra-se abrangida pela Zona Especial de Conservação (ZEC) da Rede Natura 2000 “Rio Paiva” (PTCON0059) classificada pela RCM n.º [76/2000](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/76-2000-301241) de 5 de julho, integrando a região biogeográfica Mediterrânica com uma área de 14.562ha, pela Área Protegida Privada Fraga Viva - Reduto do Batráquio (APPVFRB), criada pelo [Despacho n.º 835/2022](https://diariodarepublica.pt/dr/detalhe/despacho/835-2022-177901648), de 20 de janeiro, que integra a Rede Nacional de Áreas Protegidas (RNAP), e por cinco áreas afetas a Regime Florestal (Figura 1).
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576635.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576635.png) |
+| --- |
 
 2 - Desenho da paisagem.
 
@@ -2985,7 +3150,8 @@ O território em análise regista uma elevada amplitude altimétrica (superior a
 
 O desenho da paisagem organiza o território em três componentes principais: as macroestruturas da paisagem, os macrossistemas e os elementos singulares da paisagem, identificando as Unidades de Gestão da paisagem (Figura 2).
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576636.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576636.png) |
+| --- |
 
 As macroestruturas da paisagem englobam os elementos de carácter estruturador que definem os pilares fundamentais da abordagem territorial ao Desenho da Paisagem:
 
@@ -3093,19 +3259,24 @@ Para a identificação das áreas do território que devem ser objeto de transfo
 
 A transição para sistemas agroflorestais a ocorrer por transformação progressiva de acordo com a dinâmica que se venha a instalar no território de aproximadamente 5,1 % dos sistemas florestais de produção; a expansão dos sistemas agrícolas em cerca de 3.000ha; o aumento dos sistemas agroflorestais em cerca de 2.700ha; a criação de mais de 200ha de áreas de vegetação ripícola.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576637.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576637.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576638.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576638.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576639.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576639.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576640.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576640.png) |
+| --- |
 
 4 - Áreas e ações prioritárias de intervenção na Área do PRGPSLLAP.
 
 Na Figura 3 estão identificadas as áreas prioritárias de intervenção como as de maior relevância para a transformação da paisagem, onde se pretendem realizar ações que, dada a sua natureza, são transversais à área de intervenção e cuja concretização é estruturante para a sustentabilidade e viabilidade da nova paisagem do PRGPSLLAP.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576641.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576641.png) |
+| --- |
 
 4.1 - Áreas prioritárias na Macroestrutura da Paisagem.
 
@@ -3143,7 +3314,8 @@ São indicadas duas potenciais Áreas piloto de gestão agregada (APGA), por se 
 
 O Quadro 2 sintetiza as áreas prioritárias do PRGPSLLAP e aponta as ações prioritárias com que se pretende avançar desde já. De acordo com a natureza das ações, é considerado que a sua realização possa acontecer ao longo de 10 anos.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576642.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576642.png) |
+| --- |
 
 4.3.1 - Ações prioritárias nas Macroestruturas da Paisagem:
 
@@ -3177,7 +3349,8 @@ O Programa de Reordenamento e Gestão da Paisagem da Serra da Cabreira e Serras 
 
 A área de intervenção do PRGP SCLB encontra-se abrangida por uma Área Protegida da Rede Nacional de Áreas Protegidas (RNAP), por uma Zona de Proteção Especial (ZPE) e uma Zona Especial de Conservação (ZEC) da Rede Natura 2000, por uma Área Importante para Aves e Biodiversidade (IBA) e por seis áreas afetas a Regime Florestal. A área de intervenção do PRGP SCLB encontra-se abrangida pela Área Protegida do Parque Nacional da Peneda-Gerês (PNPG), que foi criado pelo [Decreto n.º 187/71](https://diariodarepublica.pt/dr/detalhe/decreto/187-1971-644352), de 8 de maio (Figura 1).
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576643.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576643.png) |
+| --- |
 
 2 - Desenho da paisagem.
 
@@ -3187,7 +3360,8 @@ No território em análise destaca-se o Parque Nacional da Peneda-Gerês (PNPG),
 
 O desenho da paisagem organiza o território em três componentes principais: as macroestruturas da paisagem, os macrossistemas e os elementos singulares da paisagem, identificando as Unidades de Gestão da paisagem (Figura 2).
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576644.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576644.png) |
+| --- |
 
 As macroestruturas da paisagem englobam os elementos de carácter estruturador que definem os pilares fundamentais da abordagem territorial ao Desenho da Paisagem:
 
@@ -3311,17 +3485,21 @@ Para a identificação das áreas do território que devem ser objeto de transfo
 
 ▪ Criação de áreas de vegetação ripícola em mais de 515ha.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576645.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576645.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576646.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576646.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576647.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576647.png) |
+| --- |
 
 4 - Áreas e ações prioritárias de intervenção na Área do PRGPSCSLB
 
 Na Figura 3 estão identificadas as áreas prioritárias de intervenção que são consideradas como as de maior relevância para a transformação da paisagem, onde se pretendem realizar ações que, dada a sua natureza, são transversais à área de intervenção e cuja concretização é estruturante para a sustentabilidade e viabilidade da nova paisagem do PRGPSCSLB.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576648.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576648.png) |
+| --- |
 
 4.1 - Áreas prioritárias na Macroestrutura da Paisagem
 
@@ -3359,7 +3537,8 @@ São indicadas duas potenciais áreas piloto de gestão agregada, por se tratare
 
 O Quadro 2 sintetiza as áreas prioritárias do PRGPSCSLB e aponta as ações prioritárias. De acordo com a natureza das ações, é considerado que a sua realização possa acontecer ao longo de 10 anos.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576649.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576649.png) |
+| --- |
 
 4.3.1 - Ações prioritárias nas Macroestruturas da Paisagem.
 
@@ -3393,7 +3572,8 @@ O Programa de Reordenamento e Gestão da Paisagem da Terra Fria Transmontana (PR
 
 Integram uma área protegida incluída na Rede Nacional de Áreas Protegidas (RNAP) - Parque Natural de Montesinho (PNM); duas áreas da Rede Natura 2000 - Zona de Proteção Especial (ZPE) de Montesinho/Nogueira (PTZPE0003) e Zona Especial de Conservação (ZEC) de Montesinho/Nogueira (PTCON0002); uma área correspondente a compromissos internacionais assumidos pelo Estado Português designadamente um Reserva da Biosfera, a Meseta Ibérica e ainda a Área Importante para as Aves (IBA) - Serras de Montesinho e Nogueira (Figura 1).
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576650.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576650.png) |
+| --- |
 
 2 - Desenho da paisagem
 
@@ -3403,7 +3583,8 @@ A naturalidade e beleza da paisagem decorre da interação das características 
 
 O desenho da paisagem (Figura 2) organiza o território em três componentes principais: as macroestruturas da paisagem, os macrossistemas e os elementos singulares da paisagem, identificando as Unidades de Gestão da paisagem.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576651.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576651.png) |
+| --- |
 
 As macroestruturas da paisagem englobam os elementos de carácter estruturador que definem os pilares fundamentais da abordagem territorial ao Desenho da Paisagem. Esta estrutura é constituída por:
 
@@ -3553,13 +3734,15 @@ A aplicação de regimes de gestão ou a transição para sistemas agroflorestai
 
 A área sujeita a transformação efetiva, é cerca de 22 % do território, apresentando o Quadro 1 a quantificação das áreas a ser intervencionadas para a concretização dos objetivos do PRGPTFT, considerando a sua integração, ou não, em estruturas da paisagem.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576652.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576652.png) |
+| --- |
 
 4 - Áreas e ações prioritárias de intervenção na Área do PRGPTFT.
 
 Na Figura 3 estão identificadas as áreas prioritárias de intervenção como as de maior relevância para a transformação da paisagem, onde se pretendem realizar ações que, dada a sua natureza, são transversais à área de intervenção e cuja concretização é estruturante para a sustentabilidade e viabilidade da nova paisagem do PRGPTFT.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576653.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576653.png) |
+| --- |
 
 4.1 - Áreas prioritárias na Macroestrutura da Paisagem.
 
@@ -3603,7 +3786,8 @@ São indicadas três potenciais Áreas piloto de gestão agregada (APGA), por se
 
 O Quadro 2 sintetiza as áreas prioritárias do PRGPTFT e aponta as ações prioritárias com que se pretende avançar desde já. De acordo com a natureza das ações, é considerado que a sua realização possa acontecer ao longo de 10 anos.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576654.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576654.png) |
+| --- |
 
 4.3.1 - Ações prioritárias nas Macroestruturas da Paisagem.
 
@@ -3639,7 +3823,8 @@ O Programa de Reordenamento e Gestão da Paisagem do Planalto da Beira Transmont
 
 Integram a ZEC da Malcata (PTCON0004), aproximadamente 35 % da área de intervenção. (Figura 1).
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576655.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576655.png) |
+| --- |
 
 2 - Desenho da paisagem.
 
@@ -3649,7 +3834,8 @@ O território em análise marcado pela proximidade à Cordilheira Central, em es
 
 O desenho da paisagem (Figura 2) organiza o território em três componentes principais: as macroestruturas da paisagem, os macrossistemas e os elementos singulares da paisagem, identificando as Unidades de Gestão da paisagem.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576656.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576656.png) |
+| --- |
 
 As macroestruturas da paisagem englobam os elementos de carácter estruturador que definem os pilares fundamentais da abordagem territorial ao Desenho da Paisagem. Esta estrutura é constituída por:
 
@@ -3785,13 +3971,15 @@ Para a identificação das áreas do território que devem ser objeto de transfo
 
 ▪ A criação de Mosaicos de gestão silvopastoril e Matos geridos em cerca de 8.849ha.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576657.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576657.png) |
+| --- |
 
 4 - Áreas e ações prioritárias de intervenção na Área do PRGPPBT.
 
 Na Figura 3 estão identificadas as áreas prioritárias de intervenção como as de maior relevância para a transformação da paisagem, onde se pretendem realizar ações que, dada a sua natureza, são transversais à área de intervenção e cuja concretização é estruturante para a sustentabilidade e viabilidade da nova paisagem do PRGPPBT.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576658.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576658.png) |
+| --- |
 
 4.1 - Áreas prioritárias na Macroestrutura da Paisagem.
 
@@ -3829,7 +4017,8 @@ São indicadas duas potenciais Áreas piloto de gestão agregada (APGA), por se 
 
 O Quadro 2 sintetiza as áreas prioritárias do PRGPPBT e aponta as ações prioritárias com que se pretende avançar desde já. De acordo com a natureza das ações, é considerado que a sua realização possa acontecer ao longo de 10 anos.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576659.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576659.png) |
+| --- |
 
 4.3.1 - Ações prioritárias nas Macroestruturas da Paisagem
 
@@ -3863,7 +4052,8 @@ O Programa de Reordenamento e Gestão da Paisagem das Serras da Peneda e Gerês 
 
 A área de intervenção do PRGP SPG encontra-se abrangida por uma Área Protegida da Rede Nacional de Áreas Protegidas (RNAP) (nomeadamente o Parque Nacional da Peneda-Gerês), por uma Zona de Proteção Especial (ZPE) (designadamente a PTZPE0002 Serra do Gerês), por duas Zonas Especiais de Conservação (ZEC) (particularmente a PTCON0001 Peneda Gerês e a PTCON0020 Rio Lima), por uma Área Importante para Aves e Biodiversidade (IBA) (designadamente a PT002 Serras da Peneda e Gerês) e por diversas áreas afetas a Regime Florestal (figura 1). O Parque Nacional da Peneda-Gerês (PNPG), criado pelo [Decreto n.º 187/71](https://diariodarepublica.pt/dr/detalhe/decreto/187-1971-644352), de 08 de maio, abrange uma área total de 69.592,5 hectares e 22 freguesias distribuídas pelos concelhos de Melgaço, Arcos de Valdevez, Ponte da Barca, Terras de Bouro e Montalegre (Figura 1).
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576660.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576660.png) |
+| --- |
 
 2 - Desenho da paisagem.
 
@@ -3875,7 +4065,8 @@ O território em análise regista, em geral, uma coerência com as suas potencia
 
 O desenho da paisagem (Figura 2) organiza o território em três componentes principais: as macroestruturas da paisagem, os macrossistemas e os elementos singulares da paisagem, identificando as Unidades de Gestão da paisagem.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576661.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576661.png) |
+| --- |
 
 As macroestruturas da paisagem englobam os elementos de carácter estruturador que definem os pilares fundamentais da abordagem territorial ao Desenho da Paisagem. Esta estrutura é constituída por:
 
@@ -4001,17 +4192,21 @@ Para a identificação das áreas do território que devem ser objeto de transfo
 
 ▪ A criação de mais de 1.100ha de áreas de vegetação ripícola.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576662.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576662.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576663.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576663.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576664.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576664.png) |
+| --- |
 
 4 - Áreas e ações prioritárias de intervenção na Área do PRGPSPG.
 
 As áreas prioritárias de intervenção são identificadas como as de maior relevância para a transformação da paisagem, onde se pretendem realizar ações que, dada a sua natureza, são transversais à área de intervenção e cuja concretização é estruturante para a sustentabilidade e viabilidade da nova paisagem do PRGPSPG.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576665.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576665.png) |
+| --- |
 
 4.1 - Áreas prioritárias na Macroestrutura da Paisagem.
 
@@ -4047,7 +4242,8 @@ O Quadro seguinte sintetiza as áreas prioritárias do PRGPSPG e aponta as açõ
 
 Foi considerada a proposta de criação 2 áreas piloto de gestão agregada (APGA), abrangendo uma área total de aproximadamente 5.042ha, sendo que a APGA Gerês - Rio Caldo/Covide/Campo do Gerês possui uma área indicativa de 3.160ha localizada no concelho de Terras do Bouro e a APGA Arcos de Valdevez - São Jorge/Ermelo e Soajo possui uma área indicativa de 1882ha localizada no concelho de Arcos de Valdevez.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576666.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576666.png) |
+| --- |
 
 4.3.1 - Ações prioritárias nas Macroestruturas da Paisagem:
 
@@ -4081,7 +4277,8 @@ O Programa de Reordenamento e Gestão da Paisagem das Serras de Montemuro, Alto 
 
 A área de intervenção do PRGPSMAPV integra parte de três áreas da rede Natura 2000, com maior preponderância para o PTCON059 - Rio Paiva. O Sítio de Importância Comunitária “Rio Paiva” (PTCON0059) possui uma área de 14512,71 hectares que integra a lista nacional da Rede Natura 2000, dos quais 3513,35 hectares (24,21 %) estão integrados na área de intervenção, que inclui também áreas muito reduzidas dos Sítios “Serras da Freita e Arada” (PTCON0047) e “Serra de Montemuro” (PTCON0025), com ocupações de 160,37 hectares e 55,52 hectares, respetivamente, (Figura 1).
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576667.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576667.png) |
+| --- |
 
 2 - Desenho da paisagem.
 
@@ -4093,7 +4290,8 @@ A área de estudo apresenta, ainda, um significativo potencial para erosão híd
 
 O desenho da paisagem assenta na valorização económica e social dos diferentes sistemas, mas, também, na aposta e experimentação de novos modelos económicos rurais tirando partido do binómio “produção/conservação” como componentes fundamentais geradoras de rendimentos capazes de atrair novos investimentos e garantir a qualidade de vida da população. O território é organizado em três componentes principais: as macroestruturas da paisagem, os macrossistemas e os elementos singulares da paisagem, identificando as Unidades de Gestão da paisagem.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576668.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576668.png) |
+| --- |
 
 As macroestruturas da paisagem englobam os elementos de carácter estruturador que definem os pilares fundamentais da abordagem territorial ao Desenho da Paisagem e é constituída por:
 
@@ -4235,15 +4433,18 @@ Para a identificação das áreas do território que devem ser objeto de transfo
 
 ▪ A abertura de faixas de gestão de combustível da rede primária com cerca de 1.387ha.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576669.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576669.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576670.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576670.png) |
+| --- |
 
 4 - Áreas e ações prioritárias de intervenção na Área do PRGPSMAPV
 
 Na Figura 3 estão identificadas as áreas prioritárias de intervenção como as de maior relevância para a transformação da paisagem, onde se pretendem realizar ações que, dada a sua natureza, são transversais à área de intervenção e cuja concretização é estruturante para a sustentabilidade e viabilidade da nova paisagem do PRGPSMAPV.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576671.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576671.png) |
+| --- |
 
 4.1 - Áreas prioritárias na Macroestrutura da Paisagem.
 
@@ -4287,7 +4488,8 @@ Foram identificadas 5 áreas piloto de gestão agregada (APGA), abrangendo uma �
 
 ▪ Perímetro Florestal de S. Matias, com uma área total de cerca de 816ha, localizada no concelho de Sátão, apresenta uma ocupação mais diversificada (50 % da sua área correspondem a povoamentos de pinheiro bravo e 40 % a áreas de matos).
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576672.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576672.png) |
+| --- |
 
 4.3.1 - Ações prioritárias nas Macroestruturas da Paisagem
 
@@ -4325,7 +4527,8 @@ O Programa de Reordenamento e Gestão da Paisagem da Serra de São Mamede e Terr
 
 A área de intervenção do PRGPSSMTN encontra-se abrangida por duas áreas da Rede Natura 2000 (RN2000) - Zona Especial de Conservação (ZEC) São Mamede (PTCON0007) e a ZEC Nisa/Lage da Prata (PTCON0044); duas áreas protegidas da Rede Nacional de Áreas Protegidas (RNAP) - Parque Natural da Serra de São Mamede (PNSSM) e o Monumento Natural das Portas de Ródão (MNPR), um Geoparque - NaturTejo Geopark e uma Área Importante para as Aves (IBA - Important Bird Area) - Portas de Rodão e Vale do Morão, sem estatuto legal. (Figura 1).
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576673.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576673.png) |
+| --- |
 
 2 - Desenho da paisagem.
 
@@ -4339,7 +4542,8 @@ De matriz agrossilvopastoril, a paisagem traduz uma composição de espécies qu
 
 O desenho da paisagem (Figura 2) organiza o território em três componentes principais: as macroestruturas da paisagem, os macrossistemas e os elementos singulares da paisagem, identificando as Unidades de Gestão da paisagem.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576674.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576674.png) |
+| --- |
 
 As macroestruturas da paisagem englobam os elementos de carácter estruturador que definem os pilares fundamentais da abordagem territorial ao Desenho da Paisagem:
 
@@ -4487,13 +4691,15 @@ Para a identificação das áreas do território que devem ser objeto de transfo
 
 ▪ A criação de cerca de 146ha de áreas de vegetação ripícola.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576675.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576675.png) |
+| --- |
 
 4 - Áreas e ações prioritárias de intervenção na Área do PRGPSSMTN.
 
 Na Figura 3 estão identificadas as áreas prioritárias de intervenção como as de maior relevância para a transformação da paisagem, onde se pretendem realizar ações que, dada a sua natureza, são transversais à área de intervenção e cuja concretização é estruturante para a sustentabilidade e viabilidade da nova paisagem do PRGPSSMTN.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576676.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576676.png) |
+| --- |
 
 4.1 - Áreas prioritárias na Macroestrutura da Paisagem.
 
@@ -4525,7 +4731,8 @@ As áreas prioritárias nos Macrossistemas da Paisagem são identificadas como M
 
 O Quadro 2 sintetiza as áreas prioritárias do PRGPSSMTN e aponta as ações prioritárias com que se pretende avançar desde já. De acordo com a natureza das ações, é considerado que a sua realização possa acontecer ao longo de 10 anos. Foi considerada a proposta de criação de quatro APGA tendo como referência aproximadamente 15 % da área total do PRGPSSMTN. As APGA propostas abrangem uma área total de aproximadamente 10.510ha, sendo que a APGA da Ribeira de Figueiró possui uma área de 2.104ha localizada no concelho de Nisa, a APGA das Portas de Ródão possui uma área de 4.313ha localizada no concelho de Nisa, a APGA da Ribeira de São João possui uma área de 1.730ha localizada nos concelhos de Nisa e Castelo de Vide, e a APGA de Póvoa e Meadas possui uma área de 2.362ha localizada nos concelhos de Nisa e Castelo de Vide.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576677.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576677.png) |
+| --- |
 
 4.3.1 - Ações prioritárias nas Macroestruturas da Paisagem:
 
@@ -4563,7 +4770,8 @@ O PRGPSMS abrange uma área de 42.629 hectares, está inserida em seis freguesia
 
 A área de intervenção do PRGPSMS encontra-se abrangida por três áreas da Rede Natura 2000, designadamente a Zona de Proteção Especial (ZPE) de Monchique (PTZPE0037) e as Zonas Especiais de Conservação (ZEC) Monchique (PTCON0037) e ZEC Arade/Odelouca (PTCON0052) (Figura 1).
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576678.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576678.png) |
+| --- |
 
 2 - Desenho da paisagem.
 
@@ -4571,7 +4779,8 @@ O PRGPSMS está inserido na unidade homogénea Serra de Monchique e Envolventes 
 
 O desenho da paisagem (Figura 2) organiza o território em três componentes principais: as macroestruturas da paisagem, os macrossistemas e os elementos singulares da paisagem, identificando as Unidades de Gestão da paisagem.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576679.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576679.png) |
+| --- |
 
 As macroestruturas da paisagem englobam os elementos de carácter estruturador que definem os pilares fundamentais da abordagem territorial ao Desenho da Paisagem:
 
@@ -4733,13 +4942,15 @@ Para a identificação das áreas do território que devem ser objeto de transfo
 
 ▪ A criação de aproximadamente 157ha de áreas de vegetação ripícola.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576680.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576680.png) |
+| --- |
 
 4 - Áreas e ações prioritárias de intervenção na Área do PRGPSMS
 
 Na Figura 3 estão identificadas as áreas prioritárias de intervenção como as de maior relevância para a transformação da paisagem, onde se pretendem realizar ações que, dada a sua natureza, são transversais à área de intervenção e cuja concretização é estruturante para a sustentabilidade e viabilidade da nova paisagem do PRGPSMS.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576681.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576681.png) |
+| --- |
 
 4.1 - Áreas prioritárias na Macroestrutura da Paisagem.
 
@@ -4773,7 +4984,8 @@ O Quadro 2 sintetiza as áreas prioritárias do PRGPSMS e aponta as ações prio
 
 É proposta a criação de duas Áreas Piloto de Gestão Agregada (APGA) que, embora possuam uma localização indicativa, a sua delimitação resultou de contributos das partes interessadas e integrou um conjunto de pressupostos técnicos relevantes para a sua delimitação e propostas de transformação, alinhados com a Proposta do Programa, designadamente a APGA Norte Monchique, com uma área indicativa de 2.700ha localizada no concelho de Monchique e integrando a freguesia de Monchique e a APGA Arade/Funcho, com uma área indicativa de 3.500 ha localizada no concelho de Silves e integrando as freguesias de Silves e São Bartolomeu de Messines.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576682.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576682.png) |
+| --- |
 
 4.3.1 - Ações prioritárias nas Macroestruturas da Paisagem:
 
@@ -4805,7 +5017,8 @@ PRGP DO PINHAL INTERIOR SUL
 
 O Programa de Reordenamento e Gestão da Paisagem do Pinhal Interior Sul (PRGPPIS) abrange uma área de 190 475 hectares inserida em trinta e três freguesias dos municípios de Mação (Amêndoa, Cardigos, Carvoeiro, Envendos, Ortiga e União das freguesias de Mação, Penhascoso e Aboboreira); Oleiros (Álvaro, Cambas, Isna, Madeirã, Mosteiro, Orvalho, Sarnadas de São Simão, Sobral, Estreito-Vilar Barroco e Oleiros-Amieira); Proença-a-Nova (Montes da Senhora, São Pedro do Esteval, União das freguesias de Proença-a-Nova e Peral e União das freguesias de Sobreira Formosa e Alvito da Beira); Sertã (Cabeçudo, Carvalhal, Castelo, Pedrógão Pequeno, Sertã, Troviscal, Várzea dos Cavaleiros, União das freguesias de Cernache do Bonjardim, Nesperal e Palhais, União das freguesias de Cumeada e Marmeleiro e União das freguesias de Ermida e Figueiredo); Vila de Rei (Fundada, São João do Peso e Vila de Rei) - (Figura 1).
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576683.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576683.png) |
+| --- |
 
 2 - Desenho da paisagem.
 
@@ -4817,9 +5030,11 @@ A altitude varia entre cerca de 100 a mais de 1000 m, corresponde uma grande var
 
 A estratégia delineada para o território foi materializada no desenho da paisagem, correspondendo à Matriz de Transição e Transformação da paisagem - Figuras 2 a) e b) -, que organiza o território em macroestruturas da paisagem, correspondendo a elementos estruturantes da paisagem, em áreas com potencial produtivo em termos de produtos e serviços - designadas por Zonas A, B, B1, C e C1, bem como em megaclasses de ocupação do solo (Figura 3). Estas estabelecem-se em função do equilíbrio entre Mosaicos de Gestão de Combustível, que asseguram as descontinuidades e aumentam a resiliência aos fatores abióticos e bióticos; Áreas de Proteção e Conservação, que asseguram a recuperação e restauro de ecossistemas naturais, o incremento da biodiversidade e o reforço do estabelecimento de Mosaicos; e Áreas de Produção Agrícola, Florestal e Pecuária, que serve de alicerce à revitalização das economias locais.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576684.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576684.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576685.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576685.png) |
+| --- |
 
 As macroestruturas da paisagem englobam os elementos de carácter estruturador que definem os pilares fundamentais da abordagem territorial ao Desenho da Paisagem:
 
@@ -4963,13 +5178,17 @@ O Quadro 1 apresenta a evolução/transformação das áreas a ser intervenciona
 
 A reconversão florestal e agroflorestal inclui a transformação progressiva para floresta de proteção, com funções de conservação, defesa contra incêndios e valorização ambiental em áreas caracterizadas por declives acentuados, solos delgados e baixa aptidão agrícola. Estão sobretudo concentradas nas zonas A e C da matriz, definidas respetivamente como zonas de alta montanha e de baixa precipitação, e que, em conjunto, perfazem cerca de 27.500ha. Estas áreas não são consideradas prioritárias para exploração produtiva intensiva, mas são essenciais para garantir a estabilidade ecológica e a conetividade paisagística.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576686.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576686.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576687.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576687.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576688.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576688.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576689.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576689.png) |
+| --- |
 
 Deste total, estima-se que a transformação efetiva da paisagem incidirá sobre cerca de 74 850 hectares, correspondentes às áreas prioritárias de reconversão florestal e agroflorestal, cerca de 39,4 % do total do PRGP-PIS. Esta transformação está associada à introdução de novos sistemas de produção e reconversão do uso do solo, de forma sustentada.
 
@@ -4999,7 +5218,8 @@ Na área do PRGPPIS existem cerca de 588 áreas edificadas com enquadramento no 
 
 b) Pontos Estratégicos de Gestão por prioridade de intervenção - São previstos 443 pontos estratégicos (Figura 4) que devido à sua configuração fisiográfica e aos combustíveis existentes podem potenciar o desenvolvimento e progressão dos incêndios rurais, criando situações desfavoráveis à supressão dos mesmos. Segundo critérios de fisiografia e continuidade de combustível, representam, em termos médios, uma área de intervenção/ocupação com cerca de 20ha por ponto.
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576690.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576690.png) |
+| --- |
 
 4.2 - Ações prioritárias do PRGPPIS.
 
@@ -5027,10 +5247,16 @@ iv) Intervenções na interface de áreas edificadas, em ações de gestão de c
 
 [https://ssaigt.dgterritorio.pt/i/Pecas_graficas_85048_PIS_DP_120K.jpg](https://ssaigt.dgterritorio.pt/i/Pecas_graficas_85048_PIS_DP_120K.jpg)
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576691.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576691.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576692.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576692.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576693.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576693.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1123575898/1123576694.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1123575898/1123576694.png) |
+| --- |
+
+119948509

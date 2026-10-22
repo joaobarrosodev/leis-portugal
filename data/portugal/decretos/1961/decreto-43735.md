@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43735-1961-172077
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-06-17T00:00:00Z'
+  retrieved_at: '2026-10-22T19:24:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d206d15b303876c154ede3229d5f700f9cf7b9dd95afa9ff8cc3ae40a0938ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac478e4d8b7be063f65ec25183e45a73974caf54c8fe847e648e05a13fa9e8b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:24:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:24:14Z'
   warnings: []
   errors: []
 ---
@@ -93,15 +93,15 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o Governo-Geral do Estado da Índia a contrair na Caixa Económica de Goa um empréstimo até à quantia de 65000000$00, ao juro de 3,5 por cento ao ano, destinado à aquisição de três aviões e respectivos sobresselentes para os servidos de transportes aéreos do mesmo Estado.
+Artigo 1.º É autorizado o Governo-Geral do Estado da Índia a contrair na Caixa Económica de Goa um empréstimo até à quantia de 65000000$00, ao juro de 3,5 por cento ao ano, destinado à aquisição de três aviões e respectivos sobresselentes para os servidos de transportes aéreos do mesmo Estado.
 
 § 1.º Do empréstimo referido no corpo do artigo serão levantados 25 por cento até fins de Janeiro de 1961 e os restantes 75 por cento, na proporção de 18,75 por cento, até 31 de Dezembro dos anos de 1961 a 1964.
 
 § 2.º O pagamento dos juros inicia-se em 1961 e a amortização do empréstimo será feita em vinte anuidades a partir de 1966.
 
-###### Art. 2.º No orçamento geral do Estado da Índia serão inscritas em cada ano as verbas necessárias para ocorrer aos encargos com os juros e a amortização.
+Art. 2.º No orçamento geral do Estado da Índia serão inscritas em cada ano as verbas necessárias para ocorrer aos encargos com os juros e a amortização.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 17 de Junho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

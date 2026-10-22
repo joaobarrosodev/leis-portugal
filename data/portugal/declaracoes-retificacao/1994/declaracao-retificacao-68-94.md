@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 126/1994, 3º Suplemento, Série I-B de 1994-05-31
   number: '126'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 2876-(14) a 2876-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/05/126b03/00140015.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/68/1994/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/68-1994-249189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-05-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:43:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e901070a3e8b44a6457fc88a8c5617d164ccd4a144e0a8087d4727e566157016
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee6435f10101b6b322a1e2a1543cc8e43a310f751bbfa08a2c131f8d4e9fc143
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:43:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,42 +68,46 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alteração Orçamental
-- Ministério da Defesa Nacional
-- Ministério da Administração Interna
-- Ministério da Educação
 - Encargos Gerais da Nação
+- Ministério da Administração Interna
 - Ministério da Agricultura
-- Ministério do Planeamento e da Administração do Território
-- Ministério das Obras Públicas Transportes e Comunicações
-- Ministério das Finanças
-- Ministério da Justiça
+- Ministério da Defesa Nacional
+- Ministério da Educação
 - Ministério da Indústria e Energia
+- Ministério da Justiça
+- Ministério da Saúde
+- Ministério das Finanças
+- Ministério das Obras Públicas Transportes e Comunicações
 - Ministério do Ambiente e Recursos Naturais
 - Ministério do Emprego e da Segurança Social
+- Ministério do Planeamento e da Administração do Território
+- Ministério dos Negócios Estrangeiros
 - Orçamento
 - Presidência do Conselho de Ministros
-- Ministério da Saúde
-- Ministério dos Negócios Estrangeiros
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decl/42/1994/04/15/p/dre
   label: null
   source: http://data.dre.pt/eli/decl/42/1994/04/15/p/dre
+- type: cites
+  target: pt:dre:265973:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:43:14Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 68/94
+# Declaração de rectificação n.º 68/94
 
 Segundo comunicação da Direcção-Geral da Contabilidade Pública (Ministério das Finanças), a [Declaração n.º 42/94](https://diariodarepublica.pt/dr/detalhe/declaracao/42-1994-265973), publicada no Diário da República, n.º 88, de 15 de Abril de 1994, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 

@@ -35,6 +35,193 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-06-29'
+version_history:
+  file: regulamento-ue-1997-338.versoes.json
+  count: 13
+  source_lastmod: '2026-06-29'
+  versions:
+  - date: '2005-08-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-04-11'
+    amending: null
+    amending_title: Regulamento (CE) n. o 318/2008 da Comissão de 31 de Março de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Proibições relativas ao comércio interno e à posse
+    - Altera Artigo 15.º — Comunicação das informações
+    - Altera Artigo 18.º
+    - Altera Artigo 21.º
+    - Altera Interpretação dos anexos A, B, C e D
+    - Altera Notas
+  - date: '2009-06-10'
+    amending: eu:celex:31997R0938:por
+    amending_title: M1; M2; M3; M4; M5; M6; M7; M8; Regulamento (CE) n. o 1882/2003 do Parlamento Europeu e do Conselho de
+      29 de Setembro de 2003; M10; M11; M12; M13; Regulamento (CE) n. o 398/2009 do Parlamento Europeu e do Conselho de 23
+      de Abril de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Introdução na Comunidade
+    - Altera Artigo 5.º — Exportação ou reexportação da Comunidade
+    - Altera Artigo 7.º — Excepções
+    - Altera Artigo 8.º — Proibições relativas ao comércio interno e à posse
+    - Altera Artigo 9.º — Deslocação de espécimes vivos
+    - Altera Artigo 11.º — Validade e condições especiais das licenças e certificados
+    - Altera Artigo 12.º — Locais de entrada, saída e trânsito
+    - Altera Artigo 15.º — Comunicação das informações
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 21.º
+    - Altera Interpretação dos anexos A, B, C e D
+    - Altera Notas
+  - date: '2010-08-15'
+    amending: eu:celex:32010R0709:por
+    amending_title: Regulamento (UE) n. o 709/2010 da Comissão de 22 de Julho de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Proibições relativas ao comércio interno e à posse
+    - Altera Artigo 15.º — Comunicação das informações
+    - Altera Artigo 18.º
+    - Altera Artigo 21.º
+    - Altera Interpretação dos anexos A, B, C e D
+    - Altera Notas
+  - date: '2012-02-14'
+    amending: eu:celex:32012R0101:por
+    amending_title: Regulamento (UE) n. o 101/2012 da Comissão de 6 de fevereiro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Proibições relativas ao comércio interno e à posse
+    - Altera Artigo 15.º — Comunicação das informações
+    - Altera Artigo 18.º
+    - Altera Artigo 21.º
+    - Altera Interpretação dos anexos A, B, C e D
+    - Altera Notas
+  - date: '2012-12-15'
+    amending: eu:celex:32012R1158:por
+    amending_title: Regulamento (UE) n. o 1158/2012 da Comissão de 27 de novembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Proibições relativas ao comércio interno e à posse
+    - Altera Artigo 15.º — Comunicação das informações
+    - Altera Artigo 18.º
+    - Altera Artigo 21.º
+    - Altera ANEXO
+    - Altera Notas
+    - Suprime Interpretação dos anexos A, B, C e D
+  - date: '2013-08-10'
+    amending: eu:celex:32013R0750:por
+    amending_title: Regulamento (UE) n. o 750/2013 da Comissão de 29 de julho de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Proibições relativas ao comércio interno e à posse
+    - Altera Artigo 15.º — Comunicação das informações
+    - Altera Artigo 18.º
+    - Altera Artigo 21.º
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2014-12-20'
+    amending: eu:celex:32014R1320:por
+    amending_title: REGULAMENTO (UE) N. o 1320/2014 DA COMISSÃO de 1 de dezembro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Proibições relativas ao comércio interno e à posse
+    - Altera Artigo 15.º — Comunicação das informações
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 21.º
+    - Altera ANEXO
+    - Altera Notas
+    - Adita Interpretação dos anexos A, B, C e D
+    - Adita Extrato
+    - Adita Produtos acabados embalados e prontos para comércio a retalho
+    - Adita Pó
+    - Adita Aparas de madeira
+  - date: '2016-11-26'
+    amending: eu:celex:32016R2029:por
+    amending_title: REGULAMENTO (UE) 2016/2029 DA COMISSÃO de 10 de novembro de 2016; M21
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Proibições relativas ao comércio interno e à posse
+    - Altera Artigo 15.º — Comunicação das informações
+    - Altera Artigo 18.º
+    - Altera Artigo 21.º
+    - Altera Interpretação dos anexos A, B, C e D
+    - Altera Extrato
+    - Altera Notas
+    - Suprime Produtos acabados embalados e prontos para comércio a retalho
+    - Suprime Pó
+    - Suprime Aparas de madeira
+  - date: '2020-01-01'
+    amending: eu:celex:32017R0160:por
+    amending_title: M22; REGULAMENTO (UE) 2019/1010 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de junho de 2019; REGULAMENTO
+      (UE) 2019/2117 DA COMISSÃO de 29 de novembro de 2019
+    changes:
+    - Altera Artigo 4.º — Introdução na Comunidade
+    - Altera Artigo 5.º — Exportação ou reexportação da Comunidade
+    - Altera Artigo 8.º — Proibições relativas ao comércio interno e à posse
+    - Altera Artigo 15.º — Comunicação das informações
+    - Altera Artigo 18.º
+    - Altera Artigo 21.º
+    - Altera Interpretação dos anexos A, B, C e D
+    - Altera Notas
+    - Suprime Extrato
+  - date: '2022-01-19'
+    amending: eu:celex:32021R2280:por
+    amending_title: REGULAMENTO (UE) 2021/2280 DA COMISSÃO de 16 de dezembro de 2021
+    changes:
+    - Altera Artigo 5.º — Exportação ou reexportação da Comunidade
+    - Altera Artigo 6.º — Indeferimento dos pedidos de licenças e certificados mencionados nos artigos 4.º, 5.º e 10.º
+    - Altera Artigo 8.º — Proibições relativas ao comércio interno e à posse
+    - Altera Artigo 11.º — Validade e condições especiais das licenças e certificados
+    - Altera Artigo 13.º — Autoridades administrativas e científicas e outras autoridades competentes
+    - Altera Artigo 14.º — Fiscalização do cumprimento e investigação de infracções
+    - Altera Artigo 15.º — Comunicação das informações
+    - Altera Artigo 17.º — Grupo de análise científica
+    - Altera Artigo 18.º
+    - Altera Artigo 21.º
+    - Altera Interpretação dos anexos A, B, C e D
+    - Altera Notas
+    - Adita Extrato
+    - Adita Instrumentos musicais acabados
+    - Adita Acessórios acabados de instrumentos musicais
+    - Adita Partes acabadas de instrumentos musicais
+    - Adita Produtos acabados embalados e prontos para comércio a retalho
+    - Adita Pó
+    - Adita Remessa
+    - Adita 10 kg por remessa
+    - Adita Madeira transformada
+    - Adita Aparas de madeira
+  - date: '2023-05-20'
+    amending: eu:celex:32023R0966:por
+    amending_title: REGULAMENTO (UE) 2023/966 DA COMISSÃO de 15 de maio de 2023
+    changes:
+    - Altera Artigo 8.º — Proibições relativas ao comércio interno e à posse
+    - Altera Artigo 15.º — Comunicação das informações
+    - Altera Artigo 18.º
+    - Altera Artigo 21.º
+    - Altera Interpretação dos anexos A, B, C e D
+    - Altera Notas
+    - Suprime Extrato
+    - Suprime Instrumentos musicais acabados
+    - Suprime Acessórios acabados de instrumentos musicais
+    - Suprime Partes acabadas de instrumentos musicais
+    - Suprime Produtos acabados embalados e prontos para comércio a retalho
+    - Suprime Pó
+    - Suprime Remessa
+    - Suprime 10 kg por remessa
+    - Suprime Madeira transformada
+    - Suprime Aparas de madeira
+  - date: '2026-06-29'
+    amending: eu:celex:32026R1383:por
+    amending_title: REGULAMENTO (UE) 2026/1383 DA COMISSÃO de 22 de junho de 2026
+    changes:
+    - Altera Artigo 8.º — Proibições relativas ao comércio interno e à posse
+    - Altera Artigo 15.º — Comunicação das informações
+    - Altera Artigo 18.º
+    - Altera Artigo 21.º
+    - Altera Interpretação dos anexos A, B, C e D
+    - Altera Notas
 identifiers:
   celex: 31997R0338
   eli: http://data.europa.eu/eli/reg/1997/338/oj
@@ -49,7 +236,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/84f42716-b5ca-49ef-9bc2-c14b2f2b9331.0011
   content_url: http://publications.europa.eu/resource/cellar/bd647665-7fb2-11f1-bf5e-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997R0338-20260629
-  retrieved_at: '2026-10-22T02:37:26Z'
+  retrieved_at: '2026-10-22T17:38:34Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-12-26T10:29:37.093+01:00'
 integrity:
@@ -58,9 +245,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:26Z'
-  notes: Texto consolidado 01997R0338-20260629.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:38:34Z'
+  notes: 13 versão(ões); histórico completo em regulamento-ue-1997-338.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -397,64 +584,31 @@ relationships:
   date: '1982-12-03'
 article_structure:
   article_count: 22
-  section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 3
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:26Z'
-  warnings: []
+  checked_at: '2026-10-22T17:38:34Z'
+  warnings:
+  - '01997R0338-19970303: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01997R0338-19970601: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01997R0338-19971127: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01997R0338-19981019: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01997R0338-19990429: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01997R0338-20001218: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01997R0338-20010805: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01997R0338-20011221: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01997R0338-20030830: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01997R0338-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01997R0338-20040520: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01997R0338-20170204: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (CE) nº 338/97 do Conselho de 9 de Dezembro de 1996
-
-> 01997R0338 — PT — 29.06.2026 — 024.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/31997R0938) — [REGULAMENTO (CE) N.º 938/97 DA COMISSÃO de 26 de Maio de 1997](http://publications.europa.eu/resource/celex/31997R0938) — L 140 — 1 — 30.5.1997
-- [M2](http://publications.europa.eu/resource/celex/31997R2307) — [REGULAMENTO (CE) N.º 2307/97 DA COMISSÃO de 18 de Novembro de 1997](http://publications.europa.eu/resource/celex/31997R2307) — L 325 — 1 — 27.11.1997
-- [M3](http://publications.europa.eu/resource/celex/31998R2214) — [REGULAMENTO (CE) N.º 2214/98 DA COMISSÃO de 15 de Outubro de 1998](http://publications.europa.eu/resource/celex/31998R2214) — L 279 — 3 — 16.10.1998
-- [M4](http://publications.europa.eu/resource/celex/31999R1476) — [REGULAMENTO (CE) N.º 1476/1999 DA COMISSÃO de 6 de Julho de 1999](http://publications.europa.eu/resource/celex/31999R1476) — L 171 — 5 — 7.7.1999
-- [M5](http://publications.europa.eu/resource/celex/32000R2724) — [REGULAMENTO (CE) N.º 2724/2000 DA COMISSÃO de 30 de Novembro de 2000](http://publications.europa.eu/resource/celex/32000R2724) — L 320 — 1 — 18.12.2000
-- [M6](http://publications.europa.eu/resource/celex/32001R1579) — [REGULAMENTO (CE) N.º 1579/2001 DA COMISSÃO de 1 de Agosto de 2001](http://publications.europa.eu/resource/celex/32001R1579) — L 209 — 14 — 2.8.2001
-- [M7](http://publications.europa.eu/resource/celex/32001R2476) — [REGULAMENTO (CE) N.º 2476/2001 DA COMISSÃO de 17 de Dezembro de 2001](http://publications.europa.eu/resource/celex/32001R2476) — L 334 — 3 — 18.12.2001
-- [M8](http://publications.europa.eu/resource/celex/32003R1497) — [REGULAMENTO (CE) N.º 1497/2003 DA COMISSÃO de 18 de Agosto de 2003](http://publications.europa.eu/resource/celex/32003R1497) — L 215 — 3 — 27.8.2003
-- [►M9](http://publications.europa.eu/resource/celex/32003R1882) — [REGULAMENTO (CE) N.º 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003](http://publications.europa.eu/resource/celex/32003R1882) — L 284 — 1 — 31.10.2003
-- [M10](http://publications.europa.eu/resource/celex/32004R0834) — [REGULAMENTO (CE) N.º 834/2004 DA COMISSÃO de 28 de Abril de 2004](http://publications.europa.eu/resource/celex/32004R0834) — L 127 — 40 — 29.4.2004
-- [M11](http://publications.europa.eu/resource/celex/32005R1332) — [REGULAMENTO (CE) N.º 1332/2005 DA COMISSÃO, de 9 de Agosto de 2005,](http://publications.europa.eu/resource/celex/32005R1332) — L 215 — 1 — 19.8.2005
-- [M12](http://publications.europa.eu/resource/celex/32008R0318) — [REGULAMENTO (CE) N.º 318/2008 DA COMISSÃO de 31 de Março de 2008](http://publications.europa.eu/resource/celex/32008R0318) — L 95 — 3 — 8.4.2008
-- [M13](http://publications.europa.eu/resource/celex/32009R0407) — [REGULAMENTO (CE) N.º 407/2009 DA COMISSÃO de 14 de Maio de 2009](http://publications.europa.eu/resource/celex/32009R0407) — L 123 — 3 — 19.5.2009
-- [►M14](http://publications.europa.eu/resource/celex/32009R0398) — [REGULAMENTO (CE) N.º 398/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de Abril de 2009](http://publications.europa.eu/resource/celex/32009R0398) — L 126 — 5 — 21.5.2009
-- [M15](http://publications.europa.eu/resource/celex/32010R0709) — [REGULAMENTO (UE) N.º 709/2010 DA COMISSÃO de 22 de Julho de 2010](http://publications.europa.eu/resource/celex/32010R0709) — L 212 — 1 — 12.8.2010
-- [M16](http://publications.europa.eu/resource/celex/32012R0101) — [REGULAMENTO (UE) N.º 101/2012 DA COMISSÃO de 6 de fevereiro de 2012](http://publications.europa.eu/resource/celex/32012R0101) — L 39 — 133 — 11.2.2012
-- [M17](http://publications.europa.eu/resource/celex/32012R1158) — [REGULAMENTO (UE) N.º 1158/2012 DA COMISSÃO de 27 de novembro de 2012](http://publications.europa.eu/resource/celex/32012R1158) — L 339 — 1 — 12.12.2012
-- [M18](http://publications.europa.eu/resource/celex/32013R0750) — [REGULAMENTO (UE) N.º 750/2013 DA COMISSÃO de 29 de julho de 2013](http://publications.europa.eu/resource/celex/32013R0750) — L 212 — 1 — 7.8.2013
-- [M19](http://publications.europa.eu/resource/celex/32014R1320) — [REGULAMENTO (UE) N.º 1320/2014 DA COMISSÃO de 1 de dezembro de 2014](http://publications.europa.eu/resource/celex/32014R1320) — L 361 — 1 — 17.12.2014
-- [M20](http://publications.europa.eu/resource/celex/32016R2029) — [REGULAMENTO (UE) 2016/2029 DA COMISSÃO de 10 de novembro de 2016](http://publications.europa.eu/resource/celex/32016R2029) — L 316 — 1 — 23.11.2016
-- [M21](http://publications.europa.eu/resource/celex/32017R0128) — [REGULAMENTO (UE) 2017/128 DA COMISSÃO de 20 de janeiro de 2017](http://publications.europa.eu/resource/celex/32017R0128) — L 21 — 1 — 26.1.2017
-- [M22](http://publications.europa.eu/resource/celex/32017R0160) — [REGULAMENTO (UE) 2017/160 DA COMISSÃO de 20 de janeiro de 2017](http://publications.europa.eu/resource/celex/32017R0160) — L 27 — 1 — 1.2.2017
-- [►M23](http://publications.europa.eu/resource/celex/32019R1010) — [REGULAMENTO (UE) 2019/1010 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1010) — L 170 — 115 — 25.6.2019
-- [M24](http://publications.europa.eu/resource/celex/32019R2117) — [REGULAMENTO (UE) 2019/2117 DA COMISSÃO de 29 de novembro de 2019](http://publications.europa.eu/resource/celex/32019R2117) — L 320 — 13 — 11.12.2019
-- [M25](http://publications.europa.eu/resource/celex/32021R2280) — [REGULAMENTO (UE) 2021/2280 DA COMISSÃO de 16 de dezembro de 2021](http://publications.europa.eu/resource/celex/32021R2280) — L 473 — 1 — 30.12.2021
-- [M26](http://publications.europa.eu/resource/celex/32023R0966) — [REGULAMENTO (UE) 2023/966 DA COMISSÃO de 15 de maio de 2023](http://publications.europa.eu/resource/celex/32023R0966) — L 133 — 1 — 17.5.2023
-- [►M27](http://publications.europa.eu/resource/celex/32026R1383) — [REGULAMENTO (UE) 2026/1383 DA COMISSÃO de 22 de junho de 2026](http://publications.europa.eu/resource/celex/32026R1383) — L 1383 — 1 — 26.6.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/31997R0338R%2803%29) — [Rectificação, JO L 298, 1.11.1997, p. 70 (338/1997)](http://publications.europa.eu/resource/celex/31997R0338R%2803%29)
-- [C2](http://publications.europa.eu/resource/celex/32009R0407R%2801%29) — [Rectificação, JO L 139, 5.6.2009, p. 35 (407/2009)](http://publications.europa.eu/resource/celex/32009R0407R%2801%29)
-- [C3](http://publications.europa.eu/resource/celex/32009R0407R%2803%29) — [Rectificação, JO L 176, 7.7.2009, p. 27 (407/2009)](http://publications.europa.eu/resource/celex/32009R0407R%2803%29)
-- [C4](http://publications.europa.eu/resource/celex/32009R0407R%2804%29) — [Rectificação, JO L 288, 4.11.2009, p. 40 (407/2009)](http://publications.europa.eu/resource/celex/32009R0407R%2804%29)
-- [C5](http://publications.europa.eu/resource/celex/32017R0128R%2801%29) — [Rectificação, JO L 023, 28.1.2017, p. 123 (2017/128)](http://publications.europa.eu/resource/celex/32017R0128R%2801%29)
-- [C6](http://publications.europa.eu/resource/celex/32019R2117R%2802%29) — [Rectificação, JO L 330, 20.12.2019, p. 104 (2019/2117)](http://publications.europa.eu/resource/celex/32019R2117R%2802%29)
-
-## REGULAMENTO (CE) N.º 338/97 DO CONSELHO
 
 de 9 de Dezembro de 1996
 

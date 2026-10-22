@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43232-1960-514175
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-10-14T00:00:00Z'
+  retrieved_at: '2026-10-22T19:20:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06d5da75cb69e19e6dac578cdd086dd5385c0e52dfd1a0161bb83a49006d4e97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36dc16bcb694a9d01f5e7c6d9c90063390147be29f4e3eb91c477ce60f08f554
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:20:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:218084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:20:07Z'
   warnings: []
   errors: []
 ---
@@ -92,10 +100,10 @@ Nestas condições, tendo em vista o disposto no artigo 22.º e seu § 1.º do [
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção-Geral dos Serviços Florestais e Aquícolas a celebrar contratos com Manuel Garcia Reis Moreira e José Jacinto da Luz Brito Pais para o arrendamento, por dez anos, de duas parcelas de terreno, de 2 ha e 5 ha, de propriedades sitas nas freguesias de Santa Clara-a-Velha e de S. Salvador, concelho de Odemira.
+Artigo 1.º É autorizada a Direcção-Geral dos Serviços Florestais e Aquícolas a celebrar contratos com Manuel Garcia Reis Moreira e José Jacinto da Luz Brito Pais para o arrendamento, por dez anos, de duas parcelas de terreno, de 2 ha e 5 ha, de propriedades sitas nas freguesias de Santa Clara-a-Velha e de S. Salvador, concelho de Odemira.
 
-###### Art. 2.º A despesa em cada ano económico com os citados arrendamentos não poderá exceder 9750$00 e constituirá encargo da dotação descrita na despesa extraordinária do orçamento do Ministério da Economia, II Plano de Fomento, na verba consignada ao repovoamento de terrenos particulares e descrita no corrente ano sob o capítulo 23.º, artigo 333.º, n.º 2), alínea b).
+Art. 2.º A despesa em cada ano económico com os citados arrendamentos não poderá exceder 9750$00 e constituirá encargo da dotação descrita na despesa extraordinária do orçamento do Ministério da Economia, II Plano de Fomento, na verba consignada ao repovoamento de terrenos particulares e descrita no corrente ano sob o capítulo 23.º, artigo 333.º, n.º 2), alínea b).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Outubro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Luís Quartin Graça.

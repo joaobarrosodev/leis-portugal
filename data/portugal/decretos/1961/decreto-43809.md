@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43809-1961-172682
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-06-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:24:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c869eb3ca3e123feaefbd71e2c08af9cf210175303e8415988b8f542dcdfed2d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f906f90ba91db8588f542b4a1846e7456804f1990f037cea106be1980494f09b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:24:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Ultramarina
+- Administrador de Falência
+- Cobrança de Dívidas
+- Código das Custas Judiciais do Ultramar
+- Cofre Geral dos Tribunais
+- Custas Judiciais
+- Dívidas ao Estado
+- Emolumento
+- Garantia
+- Imposto de Justiça
+- Inventário
+- Justiça
+- Magistrado Judicial
+- Ministério Público
+- Multa
+- Pagamento
+- Processo Civil
+- Processo Penal
+- Profissão Independente
+- Recurso
+- Remuneração
+- Tribunal de Comarca
+- Tribunal de Menores
+- Tutela de Menores
 relationships:
 - type: amended_by
   target: pt:dre:476144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476144:por
+  label: "Dada nova redacção ao art. 150º do Código pelo DEC LEI.292/74.28.06.1974.MCINT, DG.IS [149] de 28.06.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/292-1974-476144
+  date: '1974-06-28'
+- type: cites
+  target: pt:dre:267589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650688:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
-  section_count: 39
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 41
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:24:44Z'
   warnings: []
   errors: []
 ---
@@ -98,13 +139,13 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aprovado o Código das Custas Judiciais do Ultramar, que faz parte do presente decreto e vai assinado pelo Ministro do Ultramar.
+Artigo 1.º É aprovado o Código das Custas Judiciais do Ultramar, que faz parte do presente decreto e vai assinado pelo Ministro do Ultramar.
 
-###### Art. 2.º O código começará a vigorar em todas as províncias ultramarinas no dia 1 de Outubro do corrente ano.
+Art. 2.º O código começará a vigorar em todas as províncias ultramarinas no dia 1 de Outubro do corrente ano.
 
-###### Art. 3.º A partir do início da sua vigência fica revogada toda a legislação anterior, geral e especial, que tenha por objecto a matéria nele especialmente versada.
+Art. 3.º A partir do início da sua vigência fica revogada toda a legislação anterior, geral e especial, que tenha por objecto a matéria nele especialmente versada.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Julho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 
@@ -114,15 +155,15 @@ Código das Custas Judiciais do Ultramar
 
 I
 
-# Parte cível
+## Parte cível
 
 ## TÍTULO I — Das custas
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º Os processos cíveis estão sujeitos a custas, que compreendem o imposto de justiça, os selos e os encargos.
+Artigo 1.º Os processos cíveis estão sujeitos a custas, que compreendem o imposto de justiça, os selos e os encargos.
 
-###### Art. 2.º São isentos de custas:
+Art. 2.º São isentos de custas:
 
 1) O Estado, as províncias ultramarinas e os corpos administrativos;
 
@@ -140,7 +181,7 @@ I
 
 § 4.º A isenção a favor do Estado não abrange os processos de arrecadação.
 
-###### Art. 3.º Nos inventários orfanológicos a meação e o quinhão hereditário de cada descendente do inventariado gozam dos seguintes benefícios:
+Art. 3.º Nos inventários orfanológicos a meação e o quinhão hereditário de cada descendente do inventariado gozam dos seguintes benefícios:
 
 a) Isenção de custas e selos, quando não excederem 25000$00 ou correspondente valor na moeda local;
 
@@ -148,25 +189,25 @@ b) Isenção do selo e redução de 60 por cento no imposto de justiça, quando 
 
 § único. A isenção prevista na alínea a) não abrange os encargos dos n.os 2) a 8) do artigo 48.º, quando a meação ou o quinhão hereditário forem superiores a 5000$00 ou correspondente valor na moeda local.
 
-###### Art. 4.º São isentos de imposto e encargos, excepto o custo do papel, as arrecadações do espólio de valor não excedente a 25000$00, ou valor equivalente em moeda local, e, bem assim, as interdições a cargo dos interditos e os incidentes e actos a cargo de incapazes e relativos à regência de sua pessoa ou administração dos seus bens, desde que o valor do seu património não exceda a importância de 10000$00, ou valor equivalente na moeda local.
+Art. 4.º São isentos de imposto e encargos, excepto o custo do papel, as arrecadações do espólio de valor não excedente a 25000$00, ou valor equivalente em moeda local, e, bem assim, as interdições a cargo dos interditos e os incidentes e actos a cargo de incapazes e relativos à regência de sua pessoa ou administração dos seus bens, desde que o valor do seu património não exceda a importância de 10000$00, ou valor equivalente na moeda local.
 
 § 1.º Se o valor do processo de arrecadação do espólio exceder 25000$00, a importância das custas não poderá exceder 1/10 de tal valor.
 
 § 2.º Não se consideram abrangidas no disposto neste artigo as custas feitas, nos processos de arrecadação de espólio, no interesse de terceiros, as de processo que declarar vaga a herança para o Estado e as dos termos posteriores à intervenção dos interessados habilitados.
 
-###### Art. 5.º É isenta de custas a parte do processo que tiver de repetir-se em virtude da decisão que, em recurso, julgue procedente qualquer nulidade da sentença ou acórdão, seja qual for o tribunal em que a repetição se der; mas a parte vencida pagará as despesas de deslocação e as remunerações e indemnizações devidas a pessoas estranhas ao tribunal, as quais serão adiantadas pelo cofre do tribunal, salvo no caso de manifesta ilegalidade, em que tais quantias ficam a cargo de quem lhes der causa, sendo nelas condenado pelo juiz.
+Art. 5.º É isenta de custas a parte do processo que tiver de repetir-se em virtude da decisão que, em recurso, julgue procedente qualquer nulidade da sentença ou acórdão, seja qual for o tribunal em que a repetição se der; mas a parte vencida pagará as despesas de deslocação e as remunerações e indemnizações devidas a pessoas estranhas ao tribunal, as quais serão adiantadas pelo cofre do tribunal, salvo no caso de manifesta ilegalidade, em que tais quantias ficam a cargo de quem lhes der causa, sendo nelas condenado pelo juiz.
 
 § 1.º Igual isenção de custas se dará quando se decidam questões ventiladas entre magistrados sem intervenção das partes, em qualquer das instâncias.
 
 § 2.º Ficam também isentas de custas e preparos as reclamações e recursos dos funcionários contra decisões que respeitem aos seus emolumentos, qualquer que seja o valor da causa.
 
-###### Art. 6.º É isento de imposto o processado que seja consequência necessária da falta do cumprimento de disposições legais por parte do funcionário judicial, mas este será condenado em multa e responderá pelos selos e pelos encargos que não sejam destinados aos funcionários.
+Art. 6.º É isento de imposto o processado que seja consequência necessária da falta do cumprimento de disposições legais por parte do funcionário judicial, mas este será condenado em multa e responderá pelos selos e pelos encargos que não sejam destinados aos funcionários.
 
 § único. Se, porém, ocorrerem circunstâncias que atenuem ou justifiquem a falta, pode o tribunal, em decisão fundamentada, isentar o funcionário da multa, ou desta e daqueles encargos, que serão pagos pelo cofre do tribunal, com excepção dos selos e verbas para os cofres, que, nesse caso, não serão exigíveis.
 
 ### CAPÍTULO II — Do valor dos processos
 
-###### Art. 7.º Para efeitos de contagem de custas e salvo o disposto no artigo 8.º os valores serão os que resultam das regras estabelecidas no Código de Processo Civil aplicadas ao processo, a contar, se não forem diferentes dos seguintes:
+Art. 7.º Para efeitos de contagem de custas e salvo o disposto no artigo 8.º os valores serão os que resultam das regras estabelecidas no Código de Processo Civil aplicadas ao processo, a contar, se não forem diferentes dos seguintes:
 
 1) Nos inventários - o dos bens a partilhar sem dedução de legados nem de dívidas passivas;
 
@@ -224,17 +265,17 @@ b) Sejam verificadas pelo juiz nos termos dos artigos 1395.º e 1396.º do Códi
 
 § 2.º Nas acções de interdição não serão levados em conta para a determinação do valor do património do interdito, nos termos do n.º 16), os bens que ele tenha recebido anteriormente em inventário motivado exclusivamente pelo seu estado de incapacidade.
 
-###### Art. 8.º O valor declarado pelas partes será atendido quando não for inferior ao legal, salvo se se tratar de inventário ou de outros processos em que a verificação do valor sòmente resulte da sua sequência.
+Art. 8.º O valor declarado pelas partes será atendido quando não for inferior ao legal, salvo se se tratar de inventário ou de outros processos em que a verificação do valor sòmente resulte da sua sequência.
 
 § 1.º Não se consideram abrangidos na excepção do corpo deste artigo os casos em que há um pedido inicial determinado, embora venha a ser reduzido pelo prudente arbítrio do tribunal, devendo, nesta hipótese, as custas ser calculadas pelo valor daquele pedido e divididas proporcionalmente por ambas as partes.
 
 § 2.º A redução do valor dos bens, por deliberação em inventário, nos termos do artigo 1403.º do Código de Processo Civil, é irrelevante para efeitos de contagem.
 
-###### Art. 9.º Se, em face do processo, o valor for ilíquido, desconhecido ou parecer maior do que o declarado pelas partes, nos casos em que a este deva atender-se, pode o juiz oficiosamente, em virtude de promoção do Ministério Público ou de informação do contador ou escrivão, ordenar que, para efeitos de contagem, se proceda, nos termos do Código de Processo Civil, à verificação do valor.
+Art. 9.º Se, em face do processo, o valor for ilíquido, desconhecido ou parecer maior do que o declarado pelas partes, nos casos em que a este deva atender-se, pode o juiz oficiosamente, em virtude de promoção do Ministério Público ou de informação do contador ou escrivão, ordenar que, para efeitos de contagem, se proceda, nos termos do Código de Processo Civil, à verificação do valor.
 
 § único. Este incidente é isento de custas, mas as despesas de louvação serão sempre pagas pela parte vencida, salvo se esta for isenta.
 
-###### Art. 10.º Nenhuma decisão pode ser efectivada por valor superior àquele por que foi contado o processo em que foi proferida sem que seja rectificada a conta e paga a diferença que resultar da rectificação.
+Art. 10.º Nenhuma decisão pode ser efectivada por valor superior àquele por que foi contado o processo em que foi proferida sem que seja rectificada a conta e paga a diferença que resultar da rectificação.
 
 ### CAPÍTULO III — Do imposto de justiça e encargos
 
@@ -242,7 +283,7 @@ b) Sejam verificadas pelo juiz nos termos dos artigos 1395.º e 1396.º do Códi
 
 ##### SUBSECÇÃO I — Nos tribunais superiores
 
-###### Art. 11.º As taxas do imposto a aplicar nas apelações e agravos de decisões finais são as seguintes:
+Art. 11.º As taxas do imposto a aplicar nas apelações e agravos de decisões finais são as seguintes:
 
 ... Imposto - Por cento
 
@@ -276,13 +317,13 @@ Sobre o acrescido até 2000000$00 ... 0,2
 
 Sobre o acrescido além de 2000000$00 ... 0,15
 
-###### Art. 12.º As taxas a aplicar em cada agravo de despachos ou decisões interlocutórias subindo separadamente serão iguais a um terço das estabelecidas no artigo 11.º, se subirem com a apelação ou com outro agravo, serão iguais a um sexto.
+Art. 12.º As taxas a aplicar em cada agravo de despachos ou decisões interlocutórias subindo separadamente serão iguais a um terço das estabelecidas no artigo 11.º, se subirem com a apelação ou com outro agravo, serão iguais a um sexto.
 
-###### Art. 13.º No recurso de queixa o imposto será igual a um sexto do estabelecido no artigo 11.º, salvo se houver manifesta ilegalidade, porque nesse caso não haverá lugar a custas.
+Art. 13.º No recurso de queixa o imposto será igual a um sexto do estabelecido no artigo 11.º, salvo se houver manifesta ilegalidade, porque nesse caso não haverá lugar a custas.
 
-###### Art. 14.º Nas causas directamente intentadas perante as relações e nos recursos de revisão o imposto será igual ao estabelecido no artigo 16.º
+Art. 14.º Nas causas directamente intentadas perante as relações e nos recursos de revisão o imposto será igual ao estabelecido no artigo 16.º
 
-###### Art. 15.º Se o recurso for julgado deserto no tribunal ad quem, salvo na hipótese do artigo 134.º, ou terminar antes de o processo entrar na fase do julgamento final, o imposto será reduzido a um terço.
+Art. 15.º Se o recurso for julgado deserto no tribunal ad quem, salvo na hipótese do artigo 134.º, ou terminar antes de o processo entrar na fase do julgamento final, o imposto será reduzido a um terço.
 
 § único. Entende-se que o processo entrou na fase do julgamento final logo que seja proferido despacho mandando dar vista aos juízes para o conhecimento do objecto do recurso.
 
@@ -290,7 +331,7 @@ Sobre o acrescido além de 2000000$00 ... 0,15
 
 ##### DIVISÃO I — Processos cíveis
 
-###### Art. 16.º As taxas do imposto de justiça a aplicar nos tribunais de comarca nos processos cíveis, incluindo os inventários que sejam ou passem a inventários de maiores, falências, insolvências, recursos de revisão e de oposição de terceiro, serão as seguintes:
+Art. 16.º As taxas do imposto de justiça a aplicar nos tribunais de comarca nos processos cíveis, incluindo os inventários que sejam ou passem a inventários de maiores, falências, insolvências, recursos de revisão e de oposição de terceiro, serão as seguintes:
 
 A) Nos de valor não superior a 10000$00:
 
@@ -332,61 +373,61 @@ Sobre o acrescido até 2000000$00 ... 0,6
 
 Sobre o acrescido além de 2000000$00 ... 0,3
 
-###### Art. 17.º Nas acções que terminarem antes de proferido despacho que ordene a citação do réu o imposto será reduzido a um sexto; nas que terminarem depois desse despacho, mas antes do trânsito em julgado do despacho saneador, e naquelas que não tiverem oposição, salvo se houver audiência de discussão e julgamento, será reduzido a metade; nas que terminarem depois desse momento, mas antes de proferido despacho que designe dia para o julgamento, será reduzido a dois terços.
+Art. 17.º Nas acções que terminarem antes de proferido despacho que ordene a citação do réu o imposto será reduzido a um sexto; nas que terminarem depois desse despacho, mas antes do trânsito em julgado do despacho saneador, e naquelas que não tiverem oposição, salvo se houver audiência de discussão e julgamento, será reduzido a metade; nas que terminarem depois desse momento, mas antes de proferido despacho que designe dia para o julgamento, será reduzido a dois terços.
 
 § 1.º Se só o Ministério Público contestar, nos termos do artigo 15.º do Código de Processo Civil, e a acção for julgada procedente, manter-se-á a redução determinada neste artigo.
 
 § 2.º Nos processos que não admitam citação do réu, despacho saneador ou audiência de julgamento e não cheguem a final, e nos processos especiais cuja natural simplicidade o justifique, determinará o juiz o grau de redução do imposto, tendo em vista o disposto neste artigo.
 
-###### Art. 18.º Para efeitos de tributação o inventário compreende todos os incidentes processados no seu decurso e cujas custas devam ficar a cargo de todos os interessados.
+Art. 18.º Para efeitos de tributação o inventário compreende todos os incidentes processados no seu decurso e cujas custas devam ficar a cargo de todos os interessados.
 
-###### Art. 19.º Nos inventários o imposto de justiça será reduzido a um sexto, se o processo terminar antes de ordenadas as citações e antes da descrição final dos bens; a dois terços se terminar posteriormente à descrição e antes do despacho determinativo da partilha ou se não houver este despacho; terminando posteriormente, o imposto será pago por inteiro.
+Art. 19.º Nos inventários o imposto de justiça será reduzido a um sexto, se o processo terminar antes de ordenadas as citações e antes da descrição final dos bens; a dois terços se terminar posteriormente à descrição e antes do despacho determinativo da partilha ou se não houver este despacho; terminando posteriormente, o imposto será pago por inteiro.
 
 § único. À partilha adicional a que se proceda depois de contado o inventário será aplicado o imposto correspondente ao valor total da herança, deduzindo-se-lhe, porém, o que já tiver sido contado na primeira conta, desde que esta tenha sido feita nos termos deste código.
 
-###### Art. 20.º Para os efeitos do disposto no artigo 16.º a designação de falências e insolvências abrange o processo principal, a apreensão dos bens, os embargos do falido ou insolvente, ou do seu cônjuge, descendentes, ascendentes, herdeiros, legatários ou representantes, a liquidação do activo, a verificação do passivo, o pagamento aos credores, as contas da administração e quaisquer incidentes, ainda que processados em separado, se as respectivas custas deverem ficar a cargo da massa.
+Art. 20.º Para os efeitos do disposto no artigo 16.º a designação de falências e insolvências abrange o processo principal, a apreensão dos bens, os embargos do falido ou insolvente, ou do seu cônjuge, descendentes, ascendentes, herdeiros, legatários ou representantes, a liquidação do activo, a verificação do passivo, o pagamento aos credores, as contas da administração e quaisquer incidentes, ainda que processados em separado, se as respectivas custas deverem ficar a cargo da massa.
 
 § 1.º Às vendas judiciais para liquidação do activo, referidas nos artigos 1211.º e 1212.º do Código de Processo Civil, é aplicável o disposto nos artigos 26.º e 27.º
 
 § 2.º Os embargos à falência ou insolvência, quando deduzidos por pessoa diversa das indicadas no corpo deste artigo, as acções rescisórias e as acções a que se referem os artigos 1196.º e 1197.º do Código de Processo Civil estão sujeitos ao imposto de justiça estabelecido no artigo 16.º
 
-###### Art. 21.º Se o processo de falência ou insolvência terminar antes do início da audiência de discussão e julgamento, o imposto será reduzido a um sexto; se a falência ou insolvência não forem decretadas, será reduzido a metade; se terminar depois de declarada a falência ou insolvência e antes do início da audiência de discussão e julgamento da verificação de créditos, será reduzido a dois terços; se terminar posteriormente, será pago por inteiro.
+Art. 21.º Se o processo de falência ou insolvência terminar antes do início da audiência de discussão e julgamento, o imposto será reduzido a um sexto; se a falência ou insolvência não forem decretadas, será reduzido a metade; se terminar depois de declarada a falência ou insolvência e antes do início da audiência de discussão e julgamento da verificação de créditos, será reduzido a dois terços; se terminar posteriormente, será pago por inteiro.
 
 § 1.º O imposto estabelecido neste artigo abrange o processado correspondente à concordata homologada, se por esta forma terminou o processo de falência ou insolvência, mas em tal caso não poderá ser inferior a metade do estabelecido no artigo 16.º
 
 § 2.º Se a concordata suspensiva não for recebida ou por qualquer motivo não chegar a ser homologada, ao imposto da falência ou da insolvência acrescerá um adicional relativo à concordata, que o juiz, em seu prudente arbítrio, fixará, tendo em vista a extensão do processo e o valor da concordata.
 
-###### Art. 22.º Nas concordatas preventivas o imposto será de metade do fixado no artigo 16.º
+Art. 22.º Nas concordatas preventivas o imposto será de metade do fixado no artigo 16.º
 
 § único. Se a concordata preventiva não for recebida, o imposto estabelecido neste artigo será reduzido a um terço, e se o processo terminar antes de expirar o prazo para a oposição por embargos será reduzido a metade.
 
-###### Art. 23.º São aplicáveis às moratórias e aos acordos de credores as disposições relativas às concordatas.
+Art. 23.º São aplicáveis às moratórias e aos acordos de credores as disposições relativas às concordatas.
 
-###### Art. 24.º O imposto nas execuções será igual a metade do fixado para as acções do mesmo valor.
+Art. 24.º O imposto nas execuções será igual a metade do fixado para as acções do mesmo valor.
 
-###### Art. 25.º Se a execução findar antes de determinada no processo a forma de liquidação dos bens penhorados, ou de terminados os descontos nos vencimentos do executado, o imposto será reduzido a metade; se terminar posteriormente, pagar-se-á por inteiro.
+Art. 25.º Se a execução findar antes de determinada no processo a forma de liquidação dos bens penhorados, ou de terminados os descontos nos vencimentos do executado, o imposto será reduzido a metade; se terminar posteriormente, pagar-se-á por inteiro.
 
 § 1.º Se à execução for deduzida oposição por embargos do executado ou por simples requerimento, será aplicado a todo o processo de execução, incluindo os embargos, o imposto de justiça fixado no artigo 16.º Quando os embargos de executado ou o requerimento de oposição se não referirem a todo o pedido, o imposto será, quanto ao valor dos embargos, calculado pelas taxas das acções do valor correspondente, aplicando-se, quanto ao valor não impugnado, as taxas correspondentes às execuções.
 
 § 2.º Se só o processo de embargos correr no tribunal comum, o imposto a aplicar será igual a metade do correspondente às acções do mesmo valor.
 
-###### Art. 26.º Nas vendas judiciais, arrematações, adjudicações e remições de bens imobiliários o imposto a pagar pelo comprador, arrematante, adjudicatário ou remidor será de um quarto do estabelecido no artigo 16.º
+Art. 26.º Nas vendas judiciais, arrematações, adjudicações e remições de bens imobiliários o imposto a pagar pelo comprador, arrematante, adjudicatário ou remidor será de um quarto do estabelecido no artigo 16.º
 
 § único. Nas execuções fiscais que sejam remetidas aos tribunais judiciais para efeitos de arrematação será devido, pelos actos que não fiquem a cargo do arrematante, imposto igual ao estabelecido neste artigo, sujeito, nos termos da respectiva legislação, a rateio, que, salvo no caso de pagamento voluntário, será efectuado no tribunal fiscal respectivo.
 
-###### Art. 27.º O comprador, arrematante, adjudicatário ou remidor de bens mobiliários pagará ùnicamente o imposto de 10 por cento do valor da venda, arrematação, adjudicação ou remição, o qual será imediatamente depositado no estabelecimento destinado a depósitos judiciais e lançado no livro de pagamentos. O imposto do selo, incluindo o do auto, o custo do papel, e as despesas de transporte serão contados a final e entrarão em regra de custas.
+Art. 27.º O comprador, arrematante, adjudicatário ou remidor de bens mobiliários pagará ùnicamente o imposto de 10 por cento do valor da venda, arrematação, adjudicação ou remição, o qual será imediatamente depositado no estabelecimento destinado a depósitos judiciais e lançado no livro de pagamentos. O imposto do selo, incluindo o do auto, o custo do papel, e as despesas de transporte serão contados a final e entrarão em regra de custas.
 
-###### Art. 28.º Nos depósitos e levantamentos até ao valor 200$00 são apenas devidos os selos e custo do papel. Nos de valor superior o imposto será de um sexto do estabelecido para as acções equivalentes.
+Art. 28.º Nos depósitos e levantamentos até ao valor 200$00 são apenas devidos os selos e custo do papel. Nos de valor superior o imposto será de um sexto do estabelecido para as acções equivalentes.
 
 § único. Em nenhum dos casos prevenidos no corpo do artigo poderão o imposto, encargos e selos, ou só estes, exceder 15 por cento dos valores a depositar ou a levantar. Não se aplica o disposto neste parágrafo nas execuções em que haja descontos nos ordenados, vencimentos ou salários e em que o exequente, antes de aquelas terminarem, vier requerer, uma ou mais vezes, o levantamento de quantias depositadas.
 
-###### Art. 29.º O imposto a aplicar nos recursos interpostos dos juízos inferiores será de metade do estabelecido para os que sobem aos tribunais superiores.
+Art. 29.º O imposto a aplicar nos recursos interpostos dos juízos inferiores será de metade do estabelecido para os que sobem aos tribunais superiores.
 
 ##### DIVISÃO II — Processos orfanológicos
 
-###### Art. 30.º Consideram-se processos orfanológicos não só os inventários em que são interessados menores ou pessoas equiparadas, mas também as emancipações e interdições, quando as custas devam ficar a cargo do interdito.
+Art. 30.º Consideram-se processos orfanológicos não só os inventários em que são interessados menores ou pessoas equiparadas, mas também as emancipações e interdições, quando as custas devam ficar a cargo do interdito.
 
-###### Art. 31.º As taxas do imposto de justiça a aplicar nestes processos, bem como de arrecadação de espólio, são as seguintes:
+Art. 31.º As taxas do imposto de justiça a aplicar nestes processos, bem como de arrecadação de espólio, são as seguintes:
 
 ... Imposto - Por cento
 
@@ -420,9 +461,9 @@ Sobre o acrescido além de 2000000$00 ... 0,25
 
 § único. Nas emancipações o imposto será reduzido a um décimo, tendo-se em atenção, quanto ao valor, o disposto no n.º 16) do artigo 7.º
 
-###### Art. 32.º É aplicável às interdições o disposto no artigo 17.º e aos inventários orfanológicos o disposto nos artigos 18.º e 19.º
+Art. 32.º É aplicável às interdições o disposto no artigo 17.º e aos inventários orfanológicos o disposto nos artigos 18.º e 19.º
 
-###### Art. 33.º O custo total dos caminhos e das cartas precatórias, excluídos os selos, não poderá exceder as seguintes percentagens do valor do processo:
+Art. 33.º O custo total dos caminhos e das cartas precatórias, excluídos os selos, não poderá exceder as seguintes percentagens do valor do processo:
 
 ... Por cento
 
@@ -432,23 +473,23 @@ Nos de valor superior a 20000$00 ... 5
 
 ##### SUBSECÇÃO III — Nos tribunais inferiores e arbitrais
 
-###### Art. 34.º Aos processos que correm perante os juízes inferiores são aplicáveis as disposições estabelecidas para os tribunais de comarca.
+Art. 34.º Aos processos que correm perante os juízes inferiores são aplicáveis as disposições estabelecidas para os tribunais de comarca.
 
-###### Art. 35.º Nos processos de conciliação, nos termos dos artigos 476.º e seguintes do Código de Processo Civil, o imposto será igual a um oitavo do estabelecido no artigo 16.º; nos actos praticados em juízo inferior, por delegação, determinará quem delegue a parte do imposto do processo destinada àquele juízo.
+Art. 35.º Nos processos de conciliação, nos termos dos artigos 476.º e seguintes do Código de Processo Civil, o imposto será igual a um oitavo do estabelecido no artigo 16.º; nos actos praticados em juízo inferior, por delegação, determinará quem delegue a parte do imposto do processo destinada àquele juízo.
 
 § único. No caso da segunda parte deste artigo o imposto destinado ao juízo inferior será deduzido do total correspondente ao processo.
 
-###### Art. 36.º Nos processos perante os tribunais arbitrais o imposto de justiça será igual ao estabelecido no artigo 16.º
+Art. 36.º Nos processos perante os tribunais arbitrais o imposto de justiça será igual ao estabelecido no artigo 16.º
 
 § único. As partes não podem convencionar, para as pessoas que têm de intervir obrigatòriamente no processo, remunerações inferiores às fixadas neste código.
 
 ##### SUBSECÇÃO IV — Disposições comuns
 
-###### Art. 37.º Nos embargos de terceiro, na oposição ao inventário, nos embargos opostos ao arresto, ao embargo de obra nova, à imposição de selos e ao arrolamento, à posse judicial e às concordatas, na anulação e rescisão de concordatas, na falsidade, na habilitação, na liquidação, tanto durante a acção como posteriormente, nos alimentos provisórios, nas providências cautelares, nas cauções, nos incidentes que forem processados por apenso e nos pedidos de assistência judiciária o imposto será fixado pelo tribunal entre um máximo que não excederá metade do correspondente a uma acção, processo orfanológico ou recurso do mesmo valor e um mínimo que não será inferior a um sexto.
+Art. 37.º Nos embargos de terceiro, na oposição ao inventário, nos embargos opostos ao arresto, ao embargo de obra nova, à imposição de selos e ao arrolamento, à posse judicial e às concordatas, na anulação e rescisão de concordatas, na falsidade, na habilitação, na liquidação, tanto durante a acção como posteriormente, nos alimentos provisórios, nas providências cautelares, nas cauções, nos incidentes que forem processados por apenso e nos pedidos de assistência judiciária o imposto será fixado pelo tribunal entre um máximo que não excederá metade do correspondente a uma acção, processo orfanológico ou recurso do mesmo valor e um mínimo que não será inferior a um sexto.
 
 § único. Excepcionalmente, em vista da invulgar complexidade do incidente ou acto, pode o tribunal fixar o imposto além daquele limite máximo, até ao correspondente a uma acção, processo orfanológico ou recurso do mesmo valor.
 
-###### Art. 38.º Os incidentes e actos não abrangidos no artigo anterior e que não sejam especialmente previstos neste código pagarão imposto fixado pelo tribunal entre o mínimo de um oitavo e o máximo de um quarto do correspondente a uma acção, processo orfanológico ou recurso do mesmo valor:
+Art. 38.º Os incidentes e actos não abrangidos no artigo anterior e que não sejam especialmente previstos neste código pagarão imposto fixado pelo tribunal entre o mínimo de um oitavo e o máximo de um quarto do correspondente a uma acção, processo orfanológico ou recurso do mesmo valor:
 
 1) Os que forem regulados na lei como incidentes ou actos preventivos e conservatórios, com processo próprio;
 
@@ -458,27 +499,27 @@ Nos de valor superior a 20000$00 ... 5
 
 § único. Excepcionalmente pode o tribunal, em decisão fundamentada, baixar o imposto até 50$00 ou elevá-lo até metade do correspondente a uma acção, processo orfanológico ou recurso do mesmo valor quando a simplicidade ou a complexidade do incidente ou acto o justifique.
 
-###### Art. 39.º O imposto nos incidentes de processos orfanológicos cujas custas fiquem a cargo de maiores será determinado, nos termos dos artigos anteriores, com base nas taxas estabelecidas no artigo 16.º; se, porém, houver custas a cargo de menores ou pessoas equiparadas, será determinado, nos mesmos termos, com base nas taxas estabelecidas no artigo 31.º
+Art. 39.º O imposto nos incidentes de processos orfanológicos cujas custas fiquem a cargo de maiores será determinado, nos termos dos artigos anteriores, com base nas taxas estabelecidas no artigo 16.º; se, porém, houver custas a cargo de menores ou pessoas equiparadas, será determinado, nos mesmos termos, com base nas taxas estabelecidas no artigo 31.º
 
 § único. A divisão de coisa comum e as contas de cabeça-de-casal e semelhantes, processadas por dependência, consideram-se incidentes do respectivo processo, sendo-lhes aplicável o disposto no artigo 37.º
 
-###### Art. 40.º A excepção de incompetência relativa dá lugar ao pagamento de imposto variável entre um décimo e um quarto do correspondente ao processo em que foi deduzida. Se for julgada procedente, só esse imposto será pago no tribunal onde se iniciou o processo, pertencendo por inteiro ao tribunal competente o correspondente à causa.
+Art. 40.º A excepção de incompetência relativa dá lugar ao pagamento de imposto variável entre um décimo e um quarto do correspondente ao processo em que foi deduzida. Se for julgada procedente, só esse imposto será pago no tribunal onde se iniciou o processo, pertencendo por inteiro ao tribunal competente o correspondente à causa.
 
-###### Art. 41.º Pela interposição de qualquer recurso ordinário ainda que não chegue a subir ao tribunal superior e quer as partes aleguem no tribunal donde se recorre quer não, pagar-se-á um sexto do imposto que no processo seria devido a final.
+Art. 41.º Pela interposição de qualquer recurso ordinário ainda que não chegue a subir ao tribunal superior e quer as partes aleguem no tribunal donde se recorre quer não, pagar-se-á um sexto do imposto que no processo seria devido a final.
 
 § único. Ainda que no mesmo requerimento se interponha mais de um recurso, será devido apenas um imposto, calculado nos termos deste artigo
 
-###### Art. 42.º Aquele que requerer o prosseguimento de processo parado mais de dois meses por culpa das partes e por tal motivo contado pagará um sexto do imposto correspondente ao processo, o qual será depositado no prazo de 24 horas, a contar da apresentação do requerimento, sob pena de este não ter seguimento, e adicionado ao que for devido em conta posterior.
+Art. 42.º Aquele que requerer o prosseguimento de processo parado mais de dois meses por culpa das partes e por tal motivo contado pagará um sexto do imposto correspondente ao processo, o qual será depositado no prazo de 24 horas, a contar da apresentação do requerimento, sob pena de este não ter seguimento, e adicionado ao que for devido em conta posterior.
 
-###### Art. 43.º As cartas e comunicações equivalentes expedidas para diligências que não sejam simples citações, notificações ou afixações de editais, estão sujeitas a imposto, que variará, conforme a extensão do serviço efectuado, entre um décimo e um quarto do que seria devido a final pelo processo.
+Art. 43.º As cartas e comunicações equivalentes expedidas para diligências que não sejam simples citações, notificações ou afixações de editais, estão sujeitas a imposto, que variará, conforme a extensão do serviço efectuado, entre um décimo e um quarto do que seria devido a final pelo processo.
 
 § 1.º Se a carta chegar a ser distribuída no tribunal deprecado, é nele que se fixa o quantitativo; não chegando a ser distribuída, será calculado pelo mínimo estabelecido neste artigo.
 
 § 2.º Se a parte não vier buscar a carta até 48 horas depois de passada, nos casos em que deva ser-lhe entregue, será logo avisada ou notificada para o fazer nos 5 dias posteriores à data do registo do aviso ou notificação, sob pena de ser condenada em multa e de a carta ser remetida oficialmente.
 
-###### Art. 44.º São isentos de custas os aditamentos ordenados por motivos respeitantes ao próprio tribunal, devendo, porém, ficar constando especificadamente da acta esses motivos. Nos outros adiamentos pagar-se-á pela primeira vez um oitavo e pelas outras um sexto do imposto devido pelo processo em que tiverem lugar, o qual será liquidado imediatamente ou a final, conforme determinação do tribunal.
+Art. 44.º São isentos de custas os aditamentos ordenados por motivos respeitantes ao próprio tribunal, devendo, porém, ficar constando especificadamente da acta esses motivos. Nos outros adiamentos pagar-se-á pela primeira vez um oitavo e pelas outras um sexto do imposto devido pelo processo em que tiverem lugar, o qual será liquidado imediatamente ou a final, conforme determinação do tribunal.
 
-###### Art. 45.º O imposto, em qualquer processo, salvo no caso do artigo 27.º, não será inferior às seguintes importâncias:
+Art. 45.º O imposto, em qualquer processo, salvo no caso do artigo 27.º, não será inferior às seguintes importâncias:
 
 a) Nos tribunais inferiores e de comarca ... 100$00
 
@@ -490,7 +531,7 @@ b) Nas Relações ... 200$00
 
 ##### SUBSECÇÃO V — Do destino do imposto de justiça
 
-###### Art. 46.º O imposto de justiça devido nos termos da parte cível deste código terá o seguinte destino:
+Art. 46.º O imposto de justiça devido nos termos da parte cível deste código terá o seguinte destino:
 
 1) Nas Relações:
 
@@ -574,7 +615,7 @@ Para o escrivão ... 30
 
 Para o oficial de diligências ... 20
 
-###### Art. 47.º A importância devida nos termos do artigo 36.º, nos processos perante os tribunais arbitrais, será dividida da seguinte forma:
+Art. 47.º A importância devida nos termos do artigo 36.º, nos processos perante os tribunais arbitrais, será dividida da seguinte forma:
 
 a) Se o processo for preparado pelo juiz de direito:
 
@@ -616,7 +657,7 @@ Para o oficial de diligências ... 8
 
 ##### SUBSECÇÃO I — Disposições gerais
 
-###### Art. 48.º Os encargos a que se refere o artigo 1.º são, em cada processo:
+Art. 48.º Os encargos a que se refere o artigo 1.º são, em cada processo:
 
 1) Para o cofre do tribunal, 25$00;
 
@@ -642,11 +683,11 @@ Para o oficial de diligências ... 8
 
 12) O custo dos actos e papéis avulsos.
 
-###### Art. 40.º O custo dos anúncios que hajam de ser pagos pelo cofre do tribunal ou que digam respeito a processos orfanológicos e outros promovidos pelo Ministério Público ou de carácter oficioso não poderá exceder 2$50 por linha de corpo 8 a 10 em composição de uma coluna.
+Art. 40.º O custo dos anúncios que hajam de ser pagos pelo cofre do tribunal ou que digam respeito a processos orfanológicos e outros promovidos pelo Ministério Público ou de carácter oficioso não poderá exceder 2$50 por linha de corpo 8 a 10 em composição de uma coluna.
 
 § único. Se os jornais se recusarem a fazer a publicação pelo preço acima indicado afixar-se-ão simplesmente editais.
 
-###### Art. 50.º A procuradoria e as custas de parte serão sempre incluídas na conta feita após o trânsito em julgado de decisão que contenha condenação definitiva em custas, para serem pagas juntamente com as do tribunal.
+Art. 50.º A procuradoria e as custas de parte serão sempre incluídas na conta feita após o trânsito em julgado de decisão que contenha condenação definitiva em custas, para serem pagas juntamente com as do tribunal.
 
 § 1.º Se a parte que deles é credora tiver declarado que as não quer receber, serão contadas a favor do cofre do tribunal.
 
@@ -654,7 +695,7 @@ Para o oficial de diligências ... 8
 
 ##### SUBSECÇÃO II — Da remuneração às pessoas que intervêm acidentalmente nos processos
 
-###### Art. 51.º As pessoas que intervêm acidentalmente nos processos ou coadjuvam em quaisquer diligências receberão emolumentos nos termos seguintes:
+Art. 51.º As pessoas que intervêm acidentalmente nos processos ou coadjuvam em quaisquer diligências receberão emolumentos nos termos seguintes:
 
 1) Os peritos ou louvados, por dia:
 
@@ -680,11 +721,11 @@ Os emolumentos contados aos peritos médicos que aufiram os vencimentos atribuí
 
 § 3.º Quando o emolumento seja fixado por dia e o juiz entenda que a diligência podia ter sido feita em menos tempo do que o declarado, mandará reduzir o emolumento respectivo como lhe parecer de justiça.
 
-###### Art. 52.º A indemnização a arbitrar às testemunhas pode variar entre 15$00 e 150$00 por dia.
+Art. 52.º A indemnização a arbitrar às testemunhas pode variar entre 15$00 e 150$00 por dia.
 
 ##### SUBSECÇÃO III — Dos caminhos e das despesas de deslocação
 
-###### Art. 53.º Os peritos, louvados e técnicos que não sejam de fora da comarca, os juízes inferiores e respectivos funcionários terão direito, além da remuneração que lhes é fixada nos artigos 35.º, 51.º e 66.º, às importâncias seguintes:
+Art. 53.º Os peritos, louvados e técnicos que não sejam de fora da comarca, os juízes inferiores e respectivos funcionários terão direito, além da remuneração que lhes é fixada nos artigos 35.º, 51.º e 66.º, às importâncias seguintes:
 
 Até 15 km, 2$00 por quilómetro;
 
@@ -712,17 +753,17 @@ De 20 km em diante, até ao limite de 100 km, 1$00 por quilómetro.
 
 § único. Em processos orfanológicos ou de arrecadação de espólio os louvados não podem receber, incluindo o emolumento pela avaliação, mais que 50$00 em cada dia nem um total superior a 1 por cento do valor do processo.
 
-###### Art. 54.º Quando o caminho para a prática de várias diligências realizadas no mesmo dia e no mesmo processo não for divergente, só se conta o correspondente à maior distância percorrida.
+Art. 54.º Quando o caminho para a prática de várias diligências realizadas no mesmo dia e no mesmo processo não for divergente, só se conta o correspondente à maior distância percorrida.
 
-###### Art. 55.º Em cada tribunal haverá um mapa da comarca, de edição oficial ou oficializada, em escala suficiente para por ele se poderem apreciar as distâncias dos diversos lugares.
+Art. 55.º Em cada tribunal haverá um mapa da comarca, de edição oficial ou oficializada, em escala suficiente para por ele se poderem apreciar as distâncias dos diversos lugares.
 
 § único. Quando não seja possível a aquisição deste mapa, poderá ele ser substituído por uma tabela de distâncias, compreendendo todos os lugares da comarca, a qual será organizada no cartório e mandada pôr em vigor pelo juiz, depois de se certificar de que ela é, quanto possível, exacta.
 
-###### Art. 56.º Às pessoas de fora da sede da comarca que tenham de ser convocadas para intervir no processo e às testemunhas que forem notificadas serão pagas as despesas de deslocação, que compreendem despesas de transporte e ajudas de custo, conforme determinação do juiz.
+Art. 56.º Às pessoas de fora da sede da comarca que tenham de ser convocadas para intervir no processo e às testemunhas que forem notificadas serão pagas as despesas de deslocação, que compreendem despesas de transporte e ajudas de custo, conforme determinação do juiz.
 
-###### Art. 57.º As testemunhas só terão direito À indemnização referida no artigo 52.º e Às despesas a que alude o artigo anterior se o pedirem. O pedido deve ser feito no acto do depoimento ou no momento em que se lhes der conhecimento de que se prescindiu da sua inquirição; quando esta comunicação não tenha lugar pode o pedido ser feito até à conclusão do processo para sentença.
+Art. 57.º As testemunhas só terão direito À indemnização referida no artigo 52.º e Às despesas a que alude o artigo anterior se o pedirem. O pedido deve ser feito no acto do depoimento ou no momento em que se lhes der conhecimento de que se prescindiu da sua inquirição; quando esta comunicação não tenha lugar pode o pedido ser feito até à conclusão do processo para sentença.
 
-###### Art. 58.º Em quaisquer diligências realizadas fora do tribunal serão pagas as despesas de transporte aos magistrados que nelas intervierem.
+Art. 58.º Em quaisquer diligências realizadas fora do tribunal serão pagas as despesas de transporte aos magistrados que nelas intervierem.
 
 § 1.º Nos actos que não forem presididos pelo juiz só serão pagas aos funcionários as despesas correspondentes aos meios de transporte que o juiz tiver determinado, tendo em atenção as necessidades do serviço e as comodidades dos funcionários.
 
@@ -730,11 +771,11 @@ De 20 km em diante, até ao limite de 100 km, 1$00 por quilómetro.
 
 § 3.º A relação a que se refere o parágrafo anterior será encerrada no fim do mês ou quando tiver atingido quantia que o juiz julgue necessária reembolsar imediatamente e servirá de folha de pagamento, que será feito pelo cofre do tribunal, sendo este reembolsado nos termos do artigo 59.º
 
-###### Art. 59.º À margem do documento que certifica o acto serão anotados, por quem o lavrar, o número de quilómetros percorridos pelas pessoas que têm direito a caminhos e as despesas de deslocação, para serem incluídas na conta as correspondentes importâncias.
+Art. 59.º À margem do documento que certifica o acto serão anotados, por quem o lavrar, o número de quilómetros percorridos pelas pessoas que têm direito a caminhos e as despesas de deslocação, para serem incluídas na conta as correspondentes importâncias.
 
 ##### SUBSECÇÃO IV — Da administração de falências e insolvências
 
-###### Art. 60.º Em todos os processos de falências ou insolvências a administração da massa será remunerada com a importância que resulte da aplicação das taxas a seguir indicadas sobre o valor da falência ou insolvência:
+Art. 60.º Em todos os processos de falências ou insolvências a administração da massa será remunerada com a importância que resulte da aplicação das taxas a seguir indicadas sobre o valor da falência ou insolvência:
 
 ... Por cento
 
@@ -750,13 +791,13 @@ Além de 100000$00 ... 2
 
 § único. Se o processo terminar antes de ser dado parecer sobre a reclamação de créditos, a remuneração será reduzida à quarta parte; se terminar depois desse parecer, mas antes de designado dia para as arrematações, será reduzido a metade; se terminar posteriormente, pagar-se-á por inteiro, salvo se não chegar a haver liquidação judicial dos bens da massa, porque, neste caso, será reduzida a 75 por cento.
 
-###### Art. 61.º As despesas de transporte dos administradores, quando as haja, serão abonadas pelo cofre do tribunal, mas entram em conta da administração.
+Art. 61.º As despesas de transporte dos administradores, quando as haja, serão abonadas pelo cofre do tribunal, mas entram em conta da administração.
 
-###### Art. 62.º As sobras de liquidação da massa que não possam cobrir as despesas de novo rateio constituem receita do cofre do tribunal.
+Art. 62.º As sobras de liquidação da massa que não possam cobrir as despesas de novo rateio constituem receita do cofre do tribunal.
 
 ##### SUBSECÇÃO V — Da procuradoria
 
-###### Art. 63.º A parte vencedora, na proporção em que o seja, terá sempre direito a receber do vencido, desistente ou confidente, em cada instância, uma quantia, a título de procuradoria, a qual entrará em regra de custas.
+Art. 63.º A parte vencedora, na proporção em que o seja, terá sempre direito a receber do vencido, desistente ou confidente, em cada instância, uma quantia, a título de procuradoria, a qual entrará em regra de custas.
 
 § 1.º Se houver mais de uma parte vencedora, essa procuradoria será dividida entre todas, na devida proporção.
 
@@ -766,7 +807,7 @@ Além de 100000$00 ... 2
 
 § 4.º A importância da procuradoria será abatida nas despesas extrajudiciais ou indemnizações, diferença de juro ou pena convencional que, por vir a juízo, o vencedor tenha direito a receber.
 
-###### Art. 64.º A procuradoria será arbitrada pelo tribunal, tendo em atenção o valor da causa e a sua complexidade, dentro dos limites seguintes:
+Art. 64.º A procuradoria será arbitrada pelo tribunal, tendo em atenção o valor da causa e a sua complexidade, dentro dos limites seguintes:
 
 a) Nos processos sumaríssimos ... 100$00 a 500$00
 
@@ -782,17 +823,17 @@ e) Nos de valor superior a 50000$00 além do máximo estabelecido na alínea ant
 
 § 2.º Quando o tribunal não arbitrar procuradoria, contar-se-á o mínimo estabelecido neste artigo.
 
-###### Art. 65.º Os defensores, curadores, advogados e solicitadores oficiosamente nomeados e os agentes especiais do Ministério Público receberão a remuneração que o juiz lhes arbitrar na sentença final, a qual entrará em regra de custas.
+Art. 65.º Os defensores, curadores, advogados e solicitadores oficiosamente nomeados e os agentes especiais do Ministério Público receberão a remuneração que o juiz lhes arbitrar na sentença final, a qual entrará em regra de custas.
 
 ##### SUBSECÇÃO VI — Dos actos avulsos
 
-###### Art. 66.º Nas citações, notificações eu afixações de editais efectuadas em tribunal diferente daquele onde corre o processo e nas notificações ou quaisquer diligências avulsas só serão devidos os selos, as despesas de transporte, as importâncias de caminhos e a quantia de 15$00 por cada diligência, citação, notificação, afixação de editais, ou certidão comprovativa da impossibilidade de as realizar, se realmente se não efectuaram em cumprimento do mesmo despacho.
+Art. 66.º Nas citações, notificações eu afixações de editais efectuadas em tribunal diferente daquele onde corre o processo e nas notificações ou quaisquer diligências avulsas só serão devidos os selos, as despesas de transporte, as importâncias de caminhos e a quantia de 15$00 por cada diligência, citação, notificação, afixação de editais, ou certidão comprovativa da impossibilidade de as realizar, se realmente se não efectuaram em cumprimento do mesmo despacho.
 
 § 1.º Considera-se como uma única citação a de várias pessoas residentes na mesma casa.
 
 § 2.º Não podem contar-se mais de cinco citações ou notificações realizadas na mesma localidade em cumprimento do mesmo despacho.
 
-###### Art. 67.º Nas certidões, cartas de sentença ou de arrematação e nos traslados pagar-se-á a quantia fixa de 5$00.
+Art. 67.º Nas certidões, cartas de sentença ou de arrematação e nos traslados pagar-se-á a quantia fixa de 5$00.
 
 § 1.º Em cada certidão contendo quaisquer narrativas a pedido da parte pagar-se-á, além do estabelecido neste artigo, a quantia de 5$00.
 
@@ -802,17 +843,17 @@ e) Nos de valor superior a 50000$00 além do máximo estabelecido na alínea ant
 
 § 4.º A lauda é de 25 linhas e cada linha deve ter o mínimo de 30 letras quando manuscritas e de 40 quando dactilografadas.
 
-###### Art. 68.º Pelo termo de procuração ou de subestabelecimento exarado nos autos para mandato judicial pagar-se-á a quantia de 5$00.
+Art. 68.º Pelo termo de procuração ou de subestabelecimento exarado nos autos para mandato judicial pagar-se-á a quantia de 5$00.
 
 § 1.º Quando a procuração ou o subestabelecimento forem outorgados por mais de uma pessoa, acrescerá de cada uma, além da primeira, metade da quantia estabelecida neste artigo.
 
 § 2.º Entende-se, para efeito do § 1.º, por uma só pessoa, marido e mulher, pai ou mãe e filhos sob o pátrio poder e os representantes de qualquer sociedade, associação ou corporação.
 
-###### Art. 69.º Pagar-se-á pela busca a quantia de 20$00 se o processo ou acto for anterior aos últimos cinco anos e a de 5$00 se for posterior.
+Art. 69.º Pagar-se-á pela busca a quantia de 20$00 se o processo ou acto for anterior aos últimos cinco anos e a de 5$00 se for posterior.
 
 § único. Não há lugar ao emolumento deste artigo pela busca de processos que não estejam arquivados ou de registos da distribuição dos últimos oito dias.
 
-###### Art. 70.º Pelo averbamento de cada escritura ou testamento, com o respectivo lançamento no índice, pagar-se-á:
+Art. 70.º Pelo averbamento de cada escritura ou testamento, com o respectivo lançamento no índice, pagar-se-á:
 
 Em escrituras de valor até 1000$00 ... 1$00
 
@@ -824,17 +865,17 @@ Em quaisquer outros actos ... 2$50
 
 Por este averbamento será devida a importância mencionada neste artigo, a qual será, no mesmo prazo, enviada ao distribuidor geral, líquida das despesas de transferência.
 
-###### Art. 71.º Por cada rubrica em quaisquer livros que não sejam do tribunal ou do registo civil, quando expressamente exigidas por disposição da lei, pagar-se-á a importância de $30.
+Art. 71.º Por cada rubrica em quaisquer livros que não sejam do tribunal ou do registo civil, quando expressamente exigidas por disposição da lei, pagar-se-á a importância de $30.
 
-###### Art. 72.º Pelos registos dos diplomas da licenciatura em Direito, de provisão para advogar e de solicitador pagar-se-á nas secretarias das Relações, por meio de estampilha inutilizada no próprio acto, as quantias, respectivamente, de 250$00, 150$00 e 150$00.
+Art. 72.º Pelos registos dos diplomas da licenciatura em Direito, de provisão para advogar e de solicitador pagar-se-á nas secretarias das Relações, por meio de estampilha inutilizada no próprio acto, as quantias, respectivamente, de 250$00, 150$00 e 150$00.
 
-###### Art. 73.º Pela confiança do processo, nos termos dos artigos 168.º e 173.º do Código de Processo Civil, cobrar-se-á a importância de 10$00.
+Art. 73.º Pela confiança do processo, nos termos dos artigos 168.º e 173.º do Código de Processo Civil, cobrar-se-á a importância de 10$00.
 
 ### CAPÍTULO IV — Da conta das custas
 
 #### SECÇÃO I — Da remessa à conta
 
-###### Art. 74.º O cartório ou secretaria remeterá à conta, no prazo de cinco dias, todos os processos e actos sujeitos ao pagamento de custas findo o processado que constitua objecto de tributação.
+Art. 74.º O cartório ou secretaria remeterá à conta, no prazo de cinco dias, todos os processos e actos sujeitos ao pagamento de custas findo o processado que constitua objecto de tributação.
 
 Igualmente remeterá à conta os processos parados por culpa da parte, passados que sejam dois meses, aqueles cujo andamento for suspenso, se o juiz assim o determinar, e todos os que tenham de transitar para outro tribunal ou em que haja liquidação a fazer.
 
@@ -842,7 +883,7 @@ Serão também remetidos à conta, no prazo de 24 horas, todos os papéis ou act
 
 § único. Os processos que, por disposição da lei, tenham de correr em parte no julgado municipal e em parte no tribunal da comarca não serão remetidos à conta quando por tal causa transitarem daquele para este.
 
-###### Art. 75.º Antes do termo de remessa à conta o funcionário que o lavrar lançará uma cota no processo, indicando o total das folhas de todos os papéis a esta referentes e que nele não estejam incorporados, e, bem assim, as dos livros em que sejam registadas decisões proferidas no processo.
+Art. 75.º Antes do termo de remessa à conta o funcionário que o lavrar lançará uma cota no processo, indicando o total das folhas de todos os papéis a esta referentes e que nele não estejam incorporados, e, bem assim, as dos livros em que sejam registadas decisões proferidas no processo.
 
 § único. Para esse efeito far-se-ão as necessárias indicações, à margem dos respectivos actos, à medida que estes forem sendo efectuados.
 
@@ -850,7 +891,7 @@ SFCÇÃO II
 
 Da conta
 
-###### Art. 76.º Por cada processo, recurso, incidente, acto ou papel sujeito a custas far-se-á uma conta.
+Art. 76.º Por cada processo, recurso, incidente, acto ou papel sujeito a custas far-se-á uma conta.
 
 § 1.º Nos recursos que tiverem de subir em separado a conta da interposição será feita no processo principal, incluindo-se nela as importâncias de selos e papel do apenso e mencionando-se neste o total despendido por cada parte com o recurso para os efeitos do artigo 50.º e seus parágrafos.
 
@@ -858,17 +899,17 @@ Da conta
 
 § 3.º As custas das deprecadas serão, no tribunal deprecante, incluídas na conta do processo, indicando-se a totalidade do imposto e as quantias destinadas às pessoas que intervierem e ao cofre do tribunal, para serem remetidas ao tribunal deprecado, isto sem prejuízo do disposto no artigo único do Decreto n.º 38834, de 19 de Julho de 1952.
 
-###### Art. 77.º O prazo para a contagem é de 10 dias, salvo tratando-se de arrematações, agravos em separado, papéis avulsos ou actos urgentes, porque em tais casos o prazo será acomodado à urgência e nunca superior a 48 horas.
+Art. 77.º O prazo para a contagem é de 10 dias, salvo tratando-se de arrematações, agravos em separado, papéis avulsos ou actos urgentes, porque em tais casos o prazo será acomodado à urgência e nunca superior a 48 horas.
 
 § único. O contador que sem justa causa exceder em mais de quinze dias o prazo de contagem de qualquer processo ou papel perde automàticamente 25 por cento dos emolumentos que lhe são devidos, cuja dedução oficiosamente fará na respectiva conta.
 
 As importâncias de tais descontos pertencem ao cofre do tribunal, a favor de quem serão contados e pagos.
 
-###### Art. 78.º Quando por acumulação de serviço não possa fazer-se a conta no prazo legal, será pedida no processo prorrogação por igual prazo.
+Art. 78.º Quando por acumulação de serviço não possa fazer-se a conta no prazo legal, será pedida no processo prorrogação por igual prazo.
 
-###### Art. 79.º Quando o contador tiver dúvidas sobre a conta, expô-las-á ao juiz, que, ouvido o Ministério Público, decidirá sem recurso se a causa estiver dentro da alçada.
+Art. 79.º Quando o contador tiver dúvidas sobre a conta, expô-las-á ao juiz, que, ouvido o Ministério Público, decidirá sem recurso se a causa estiver dentro da alçada.
 
-###### Art. 80.º Na elaboração das contas dos processos o contador procederá deste modo:
+Art. 80.º Na elaboração das contas dos processos o contador procederá deste modo:
 
 Indicando o número que a cada conta compete, mencionará o valor do processo e o imposto que lhe corresponde, arredondado para escudos, desprezando as fracções inferiores a $01. Em seguida lançará numa coluna a parte do imposto relativa ao processo ou parte do processo a contar, líquida da que constitui receita do tribunal inferior; determinará os encargos em relação a cada entidade, excepto o Estado e as partes quando ambas sejam vencidas ou haja compensação a considerar, e, deduzindo as tributações fiscais às que a ela estiverem sujeitas, chamará o líquido àquela mesma coluna;
 
@@ -878,17 +919,17 @@ Em seguida indicará em percentagem a relação entre o valor da causa e o custo
 
 Finalmente fechará a conta, com indicação clara e precisa das guias a passar para cada um dos responsáveis, suas importâncias e percentagens para o cofre do tribunal, datando e assinando por extenso.
 
-###### Art. 81.º Nas acções e graduações de créditos, quando o processo for à conta pela primeira vez depois da sentença, far-se-á a liquidação do julgado se depender ùnicamente de operações aritméticas.
+Art. 81.º Nas acções e graduações de créditos, quando o processo for à conta pela primeira vez depois da sentença, far-se-á a liquidação do julgado se depender ùnicamente de operações aritméticas.
 
-###### Art. 82.º As contas de papéis avulsos indicarão claramente a importância devida ao cartório, a parte pertencente ao Estado e, por extenso, o custo total.
+Art. 82.º As contas de papéis avulsos indicarão claramente a importância devida ao cartório, a parte pertencente ao Estado e, por extenso, o custo total.
 
-###### Art. 83.º As importâncias devidas ao Estado a que estão sujeitas as custas atribuídas aos funcionários de justiça, ao cofre do tribunal e outras entidades referidas na lei serão pagas por estampilha nos papéis avulsos e por guia nos outros casos.
+Art. 83.º As importâncias devidas ao Estado a que estão sujeitas as custas atribuídas aos funcionários de justiça, ao cofre do tribunal e outras entidades referidas na lei serão pagas por estampilha nos papéis avulsos e por guia nos outros casos.
 
 § único. O contador ao elaborar a conta verificará nos processos ou papéis se há alguma importância de selo em dívida ao Estado e, se houver, incluí-la-á na conta.
 
 #### SECÇÃO III — Do erro da conta de custas
 
-###### Art. 84.º O juiz, oficiosamente, a requerimento dos interessados ou do Ministério Público, pode mandar reformar a conta, se não estiver feita de harmonia com as disposições legais.
+Art. 84.º O juiz, oficiosamente, a requerimento dos interessados ou do Ministério Público, pode mandar reformar a conta, se não estiver feita de harmonia com as disposições legais.
 
 § 1.º Para o efeito deste artigo, imediatamente ao recebimento do processo com a conta será dada vista ao Ministério Público, para, em três dias, a examinar.
 
@@ -902,7 +943,7 @@ Finalmente fechará a conta, com indicação clara e precisa das guias a passar 
 
 § 6.º As reclamações contra as contas só podem ser apresentadas nos tribunais onde tenham sido elaboradas.
 
-###### Art. 85.º Havendo reclamação, irá o processo ao contador e em seguida ao Ministério Público, se não for o reclamante, pelo prazo de três dias a cada um para se pronunciarem sobre ela, depois do que o juiz resolverá, e do despacho não haverá recurso, se a causa estiver dentro da alçada.
+Art. 85.º Havendo reclamação, irá o processo ao contador e em seguida ao Ministério Público, se não for o reclamante, pelo prazo de três dias a cada um para se pronunciarem sobre ela, depois do que o juiz resolverá, e do despacho não haverá recurso, se a causa estiver dentro da alçada.
 
 § 1.º Se da reforma da conta resultarem reposições por parte do Estado ou de outras entidades que já tenham recebido as custas, será a importância dessas reposições descontada nas quantias que na quinzena seguinte lhes couberem, fazendo-se os necessários lançamentos no livro de pagamentos.
 
@@ -912,11 +953,11 @@ Finalmente fechará a conta, com indicação clara e precisa das guias a passar 
 
 #### SECÇÃO I — Do pagamento voluntário
 
-###### Art. 86.º Enquanto não houver decisão sobre custas será responsável pelas que forem contadas o autor, requerente, recorrente ou cabeça-de-casal, ou quem deu causa à remessa à conta.
+Art. 86.º Enquanto não houver decisão sobre custas será responsável pelas que forem contadas o autor, requerente, recorrente ou cabeça-de-casal, ou quem deu causa à remessa à conta.
 
 § único. Nas acções de destrinça de foros e censos, redução de prestações incertas e certas, divisão de águas, divisão de coisa comum, tombamento e demarcação e outras idênticas as custas serão pagas pelos interessados na proporção das respectivas quotas; mas se houver oposição, as custas desta serão pagas pelo vencido na proporção em que o for.
 
-###### Art. 87.º Após o visto do Ministério Público a que se refere o § 1.º do artigo 84.º será notificado, no prazo de cinco dias, o responsável pelas custas contadas e em dívida, ou, em inventário, o cabeça-de-casal, para vir examinar e impugnar ou pagar a conta.
+Art. 87.º Após o visto do Ministério Público a que se refere o § 1.º do artigo 84.º será notificado, no prazo de cinco dias, o responsável pelas custas contadas e em dívida, ou, em inventário, o cabeça-de-casal, para vir examinar e impugnar ou pagar a conta.
 
 § 1.º Havendo recurso interposto, o prazo da notificação ao recorrente é de 24 horas.
 
@@ -924,7 +965,7 @@ Finalmente fechará a conta, com indicação clara e precisa das guias a passar 
 
 § 3.º Estando verificada no processo a ausência em parte incerta do responsável pelas custas a notificação ser-lhe-á feita por um único edital afixado à porta do tribunal.
 
-###### Art. 88.º O responsável pelo pagamento das custas, esteja ou não representado no processo, será sempre avisado, se residir em local em que haja distribuição domiciliária ou for conhecida a sua caixa postal, e notificado nos outros casos, do montante a pagar e do prazo do pagamento. O aviso será expedido nos prazos estabelecidos no artigo anterior e indicará o local onde o pagamento deve ser efectuado.
+Art. 88.º O responsável pelo pagamento das custas, esteja ou não representado no processo, será sempre avisado, se residir em local em que haja distribuição domiciliária ou for conhecida a sua caixa postal, e notificado nos outros casos, do montante a pagar e do prazo do pagamento. O aviso será expedido nos prazos estabelecidos no artigo anterior e indicará o local onde o pagamento deve ser efectuado.
 
 § 1.º Nos inventários serão enviados avisos, ou feitas as notificações ao cabeça-de-casal pela totalidade das custas e a cada um dos responsáveis pela parte da sua responsabilidade.
 
@@ -932,7 +973,7 @@ Finalmente fechará a conta, com indicação clara e precisa das guias a passar 
 
 § 3.º No caso de o aviso ser feito pelo correio, será junto aos autos o recibo do registo, cujo custo será adiantado pelo cofre do tribunal.
 
-###### Art. 89.º O pagamento voluntário das custas será feito nos processos sumaríssimos, no prazo de dez dias, e nos outros processos no de vinte.
+Art. 89.º O pagamento voluntário das custas será feito nos processos sumaríssimos, no prazo de dez dias, e nos outros processos no de vinte.
 
 § 1.º Os prazos referidos neste artigo começarão a contar-se:
 
@@ -950,45 +991,45 @@ c) 60 dias se residir na metrópole ou noutra província ou no estrangeiro.
 
 § 3.º O pagamento de custas que for condição do seguimento do recurso será feito no prazo de cinco dias, contados da notificação ou, não a havendo, da remessa do aviso, salvo o disposto no artigo 689.º, alínea c), do Código de Processo Civil.
 
-###### Art. 90.º As custas dos actos e diligências avulsas deverão ser pagas no prazo de dez dias, contactos da data do acto.
+Art. 90.º As custas dos actos e diligências avulsas deverão ser pagas no prazo de dez dias, contactos da data do acto.
 
 § único. Nas deprecadas para simples citação ou notificação ou afixação de editais, que sejam remetidas oficialmente, o pagamento far-se-á no tribunal deprecante, juntamente com as restantes custas do processo.
 
-###### Art. 91.º Qualquer pessoa pode fazer o pagamento das custas que a outrem incumbe no último dia do respectivo prazo, ou depois, nas condições em que o devedor o pode fazer, ficando com direito do regresso contra este, salvo se se demonstrar que o pagamento foi feito de má fé.
+Art. 91.º Qualquer pessoa pode fazer o pagamento das custas que a outrem incumbe no último dia do respectivo prazo, ou depois, nas condições em que o devedor o pode fazer, ficando com direito do regresso contra este, salvo se se demonstrar que o pagamento foi feito de má fé.
 
-###### Art. 92.º Tratando-se de responsáveis que litiguem com entidades isentas de custas ou que gozem do benefício da assistência judiciária, as custas contadas antes do trânsito em julgado da decisão serão depositadas para lhes poderem ser restituídas no todo ou em parte, conforme a decisão final.
+Art. 92.º Tratando-se de responsáveis que litiguem com entidades isentas de custas ou que gozem do benefício da assistência judiciária, as custas contadas antes do trânsito em julgado da decisão serão depositadas para lhes poderem ser restituídas no todo ou em parte, conforme a decisão final.
 
 § 1.º Esta disposição não é aplicável nos processos em que haja co-litigante não isento de custas.
 
 § 2.º Serão também pagas e não depositadas as custas em que tenham sido definitivamente condenados no decorrer do processo e as que forem contadas por este estar parado mais de dois meses.
 
-###### Art. 93.º Se o responsável por custas tiver algum depósito à ordem do tribunal, poderá requerer que desse depósito se levante a quantia necessária para o pagamento.
+Art. 93.º Se o responsável por custas tiver algum depósito à ordem do tribunal, poderá requerer que desse depósito se levante a quantia necessária para o pagamento.
 
-###### Art. 94.º Se os preparos efectuados excederem a importância das custas ou se a parte tiver de receber quaisquer quantias será igualmente notificada, nos termos dos artigos 87.º e 88.º, para vir receber, indicando-se, quanto possível, a data em que será passado o respectivo cheque.
+Art. 94.º Se os preparos efectuados excederem a importância das custas ou se a parte tiver de receber quaisquer quantias será igualmente notificada, nos termos dos artigos 87.º e 88.º, para vir receber, indicando-se, quanto possível, a data em que será passado o respectivo cheque.
 
-###### Art. 95.º Nos processos orfanológicos, o meeiro, os herdeiros ou interditos cuja meação, quinhões ou bens não excederem 200000$00 podem requerer o pagamento das custas da sua responsabilidade em prestações oferecendo logo caução idónea.
+Art. 95.º Nos processos orfanológicos, o meeiro, os herdeiros ou interditos cuja meação, quinhões ou bens não excederem 200000$00 podem requerer o pagamento das custas da sua responsabilidade em prestações oferecendo logo caução idónea.
 
 § 1.º A caução pode ser prestada por meio de fiança.
 
 § 2.º Se no quinhão ou bens do requerente se compreenderem imobiliários de valor suficiente para garantia da sua responsabilidade, será dispensada a caução, gozando nesse caso as custas de privilégio imobiliário sobre os bens do devedor, a seguir aos créditos da Fazenda Nacional.
 
-###### Art. 96.º Na hipótese do artigo anterior o juiz, ouvido o Ministério Público e efectuadas as diligências necessárias, decidirá sobre a garantia oferecida ou exigirá a que lhe parecer e estabelecerá o montante das prestações, não podendo o prazo de pagamento exceder dois anos.
+Art. 96.º Na hipótese do artigo anterior o juiz, ouvido o Ministério Público e efectuadas as diligências necessárias, decidirá sobre a garantia oferecida ou exigirá a que lhe parecer e estabelecerá o montante das prestações, não podendo o prazo de pagamento exceder dois anos.
 
-###### Art. 97.º À medida que forem sendo recebidas as prestações proceder-se-á ao rateio, nos termos do artigo 115.º
+Art. 97.º À medida que forem sendo recebidas as prestações proceder-se-á ao rateio, nos termos do artigo 115.º
 
-###### Art. 98.º Todos os actos, incluindo os praticados pelo conservador do registo predial, respeitantes ao incidente do pedido a que se referem os artigos anteriores são isentos de custas.
+Art. 98.º Todos os actos, incluindo os praticados pelo conservador do registo predial, respeitantes ao incidente do pedido a que se referem os artigos anteriores são isentos de custas.
 
 § único. Se, porém, o juiz tiver de indeferir o pedido poderá condenar o requerente a pagar as custas do incidente, no caso de manifesta inviabilidade.
 
-###### Art. 99.º O juiz, logo que esteja paga a última prestação, julgará a causa extinta, independentemente de requerimento e sem que sejam devidas custas.
+Art. 99.º O juiz, logo que esteja paga a última prestação, julgará a causa extinta, independentemente de requerimento e sem que sejam devidas custas.
 
 #### SECÇÃO II — Do pagamento coercivo
 
-###### Art. 100.º Decorrido o prazo do pagamento voluntário sem que este se mostre efectuado far-se-á o processo concluso para o juiz coordenar e ordenar o levantamento da quantia necessária para o pagamento das custas e do incidente, a sair do depósito que o responsável tenha à ordem do tribunal nesse processo, ou mandar proceder ao desconto nos vencimentos, ordenados ou salários do devedor e, quando por essas formas não possa cobrar-se a importância em dívida, observar-se-á o disposto nos artigos 113.º e seguintes e instaurar-se-á execução nos termos subsequentes.
+Art. 100.º Decorrido o prazo do pagamento voluntário sem que este se mostre efectuado far-se-á o processo concluso para o juiz coordenar e ordenar o levantamento da quantia necessária para o pagamento das custas e do incidente, a sair do depósito que o responsável tenha à ordem do tribunal nesse processo, ou mandar proceder ao desconto nos vencimentos, ordenados ou salários do devedor e, quando por essas formas não possa cobrar-se a importância em dívida, observar-se-á o disposto nos artigos 113.º e seguintes e instaurar-se-á execução nos termos subsequentes.
 
-###### Art. 101.º Tratando-se de custas contadas e devidas em 1.ª instância, o escrivão fará os autos com vista ao Ministério Público, que promoverá a citação do executado para os termos da execução, salvo no caso de processo sumaríssimo, em que não haverá citação.
+Art. 101.º Tratando-se de custas contadas e devidas em 1.ª instância, o escrivão fará os autos com vista ao Ministério Público, que promoverá a citação do executado para os termos da execução, salvo no caso de processo sumaríssimo, em que não haverá citação.
 
-###### Art. 102.º As execuções por custas seguirão os termos das execuções por quantia certa, com as modificações seguintes:
+Art. 102.º As execuções por custas seguirão os termos das execuções por quantia certa, com as modificações seguintes:
 
 1) Considera-se logo devolvido ao exequente o direito de nomear bens à penhora;
 
@@ -1006,39 +1047,39 @@ c) 60 dias se residir na metrópole ou noutra província ou no estrangeiro.
 
 § 2.º Se o executado não tiver sido notificado da penhora, nos termos do n.º 3), sê-lo-á posteriormente, nos termos gerais.
 
-###### Art. 103.º Tratando-se de custas contadas e em dívida nos tribunais superiores, a secretaria extrairá, em duplicado, certidão da conta com a identificação do processo e a indicação dos responsáveis pelas custas. Um dos exemplares fica na secretaria para se fazerem por ele os pagamentos ou rateios, outro é entregue ao Ministério Público, que o remeterá à 1.ª instância, onde o respectivo delegado promoverá a citação do executado, seguindo-se os ulteriores termos conforme o disposto no artigo anterior.
+Art. 103.º Tratando-se de custas contadas e em dívida nos tribunais superiores, a secretaria extrairá, em duplicado, certidão da conta com a identificação do processo e a indicação dos responsáveis pelas custas. Um dos exemplares fica na secretaria para se fazerem por ele os pagamentos ou rateios, outro é entregue ao Ministério Público, que o remeterá à 1.ª instância, onde o respectivo delegado promoverá a citação do executado, seguindo-se os ulteriores termos conforme o disposto no artigo anterior.
 
 § único. Mesmo depois de expedida a certidão executiva, podem receber-se no tribunal as custas em dívida, mas deve advertir-se o interessado e consignar-se por escrito no recibo que lhe for entregue, sob pena de responsabilidade por perdas e danos, que tem de requerer no tribunal de 1.ª instância a cessação da execução.
 
-###### Art. 104.º Tratando-se de custas de actos ou papéis avulsos, o secretário ou escrivão entregará ao Ministério Público os próprios papéis ou certidões dos actos praticados para que ele promova a execução.
+Art. 104.º Tratando-se de custas de actos ou papéis avulsos, o secretário ou escrivão entregará ao Ministério Público os próprios papéis ou certidões dos actos praticados para que ele promova a execução.
 
-###### Art. 105.º Sendo vários os responsáveis não solidários, será instaurada uma execução contra cada um deles.
+Art. 105.º Sendo vários os responsáveis não solidários, será instaurada uma execução contra cada um deles.
 
 § único. Pelas custas do inventário, porém, instaurar-se-á contra todos os interessados devedores uma única execução, que só abrangerá os bens da herança.
 
-###### Art. 106.º Instaurar-se-á uma só execução contra o mesmo responsável, ainda que várias sejam as contas em dívida no processo e seus apensos.
+Art. 106.º Instaurar-se-á uma só execução contra o mesmo responsável, ainda que várias sejam as contas em dívida no processo e seus apensos.
 
-###### Art. 107.º O Ministério Público promoverá a execução, ainda que sòmente as custas de parte estejam em dívida.
+Art. 107.º O Ministério Público promoverá a execução, ainda que sòmente as custas de parte estejam em dívida.
 
-###### Art. 108.º Nos processos sumaríssimos o Ministério Público executará o pedido juntamente com as custas desde que o vencedor o requeira nas 24 horas seguintes ao termo do prazo para o pagamento.
+Art. 108.º Nos processos sumaríssimos o Ministério Público executará o pedido juntamente com as custas desde que o vencedor o requeira nas 24 horas seguintes ao termo do prazo para o pagamento.
 
-###### Art. 109.º Nos inventários orfanológicos sòmente poderá ser instaurada execução depois do trânsito da sentença que os julgar, salvo quanto às custas em que antes dela tenha havido condenação.
+Art. 109.º Nos inventários orfanológicos sòmente poderá ser instaurada execução depois do trânsito da sentença que os julgar, salvo quanto às custas em que antes dela tenha havido condenação.
 
-###### Art. 110.º Antes de promovidas à execução ou de iniciados os descontos, embora tenham decorrido os prazos para o pagamento, o responsável pode sempre efectuá-lo, não sendo devidos senão o custo e os selos de papel acrescido, das guias necessárias para o mesmo se realizar e o custo da certidão a que se refere o § 1.º do artigo 102.º
+Art. 110.º Antes de promovidas à execução ou de iniciados os descontos, embora tenham decorrido os prazos para o pagamento, o responsável pode sempre efectuá-lo, não sendo devidos senão o custo e os selos de papel acrescido, das guias necessárias para o mesmo se realizar e o custo da certidão a que se refere o § 1.º do artigo 102.º
 
-###### Art. 111.º Verificando-se que o executado não possui bens alguns, será a execução arquivada, sem prejuízo de poder continuar logo que sejam conhecidos, se ainda não tiver decorrido o prazo da prescrição.
+Art. 111.º Verificando-se que o executado não possui bens alguns, será a execução arquivada, sem prejuízo de poder continuar logo que sejam conhecidos, se ainda não tiver decorrido o prazo da prescrição.
 
-###### Art. 112.º A dívida de custas prescreve no prazo de cinco anos.
+Art. 112.º A dívida de custas prescreve no prazo de cinco anos.
 
 #### SECÇÃO III — Do rateio
 
-###### Art. 113.º Decorrido o prazo do pagamento voluntário sem este se mostrar efectuado o secretário ou escrivão remeterá imediatamente os autos à conta, para em 48 horas serem rateados os preparos depositados e qualquer parte das custas já paga.
+Art. 113.º Decorrido o prazo do pagamento voluntário sem este se mostrar efectuado o secretário ou escrivão remeterá imediatamente os autos à conta, para em 48 horas serem rateados os preparos depositados e qualquer parte das custas já paga.
 
 § único. A remessa à conta determinada neste artigo não prejudicará o cumprimento do disposto no artigo 103.º
 
-###### Art. 114.º Havendo execução, se o seu produto não chegar para pagar a quantia exequenda e o acrescido, proceder-se-á igualmente a rateio do que for apurado, logo que estejam liquidados todos os bens sobre que possa incidir a execução.
+Art. 114.º Havendo execução, se o seu produto não chegar para pagar a quantia exequenda e o acrescido, proceder-se-á igualmente a rateio do que for apurado, logo que estejam liquidados todos os bens sobre que possa incidir a execução.
 
-###### Art. 115.º Quando haja de proceder-se a rateio serão os pagamentos feitos pela ordem seguinte:
+Art. 115.º Quando haja de proceder-se a rateio serão os pagamentos feitos pela ordem seguinte:
 
 a) Os selos do processo, excluindo os de recibo;
 
@@ -1054,13 +1095,13 @@ e) Os selos, despesas e outras quantias referentes à execução, se a houver, p
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 116.º Salvo o disposto no artigo 118.º, nenhum processo pode seguir em recurso ou remetido para outro tribunal, em consequência de qualquer acto da iniciativa das partes, sem estarem pagas ou asseguradas as custas, a não ser que a remessa seja requerida por qualquer entidade delas isenta ou dispensada do seu pagamento.
+Art. 116.º Salvo o disposto no artigo 118.º, nenhum processo pode seguir em recurso ou remetido para outro tribunal, em consequência de qualquer acto da iniciativa das partes, sem estarem pagas ou asseguradas as custas, a não ser que a remessa seja requerida por qualquer entidade delas isenta ou dispensada do seu pagamento.
 
 § 1.º No caso do § 2.º do artigo 111.º do Código de Processo Civil e no de ser anulada a decisão recorrida a fim de se proceder a novo julgamento no tribunal donde o recurso subiu, o processo não será remetido para o tribunal competente sem o prévio pagamento de custas.
 
 § 2.º Havendo mais que um recorrente não se fará divisão de custas, para os efeitos do corpo deste artigo, a não ser que os recursos sejam interpostos por autor e réu, porque, neste caso, cada um pagará metade, e se algum deixar de o fazer será o recurso julgado deserto quanto a ele, devendo o outro perfazer, sob igual pena, a totalidade das custas nos cinco dias posteriores à notificação da deserção.
 
-###### Art. 117.º Quando o processo dimane do contrato e as custas não estejam pagas, só podem extrair-se certidões para registo de penhora ou arresto e, de um modo geral, quaisquer certidões ou documentos que não envolvam cumprimento do julgado ou que não possam servir para a execução ou registo.
+Art. 117.º Quando o processo dimane do contrato e as custas não estejam pagas, só podem extrair-se certidões para registo de penhora ou arresto e, de um modo geral, quaisquer certidões ou documentos que não envolvam cumprimento do julgado ou que não possam servir para a execução ou registo.
 
 § 1.º Carecendo, porém, a parte de quaisquer outras certidões, poderá obtê-las, garantindo as custas por meio de depósito da sua importância provável, se não puder ainda efectuar-se o pagamento.
 
@@ -1072,15 +1113,15 @@ e) Os selos, despesas e outras quantias referentes à execução, se a houver, p
 
 § 5.º Nas certidões referidas no parágrafo anterior mencionar-se-á obrigatòriamente que se destinam a casamento e que as custas estão em dívida.
 
-###### Art. 118.º Quando o processo não dimane de contrato pode subir o recurso nela interposto, executar-se a decisão e extrair-se certidão de qualquer documento, desde que estejam pagas ou garantidas as custas da responsabilidade do recorrente, do vencedor ou de quem requereu a certidão ou documento.
+Art. 118.º Quando o processo não dimane de contrato pode subir o recurso nela interposto, executar-se a decisão e extrair-se certidão de qualquer documento, desde que estejam pagas ou garantidas as custas da responsabilidade do recorrente, do vencedor ou de quem requereu a certidão ou documento.
 
 § único. Nos documentos a que se refere este artigo mencionar-se-ão obrigatòriamente os nomes dos responsáveis pelo pagamento das custas em dívida, a fim de que estes, ou seus representantes, os não possam utilizar para quaisquer actos que envolvam cumprimento, execução ou registo do julgado.
 
-###### Art. 119.º Não serão entregues a quem não esteja isento ou dispensado do pagamento de custas quaisquer certidões ou outros papéis, sem o prévio pagamento do seu custo.
+Art. 119.º Não serão entregues a quem não esteja isento ou dispensado do pagamento de custas quaisquer certidões ou outros papéis, sem o prévio pagamento do seu custo.
 
 #### SECÇÃO II — Das preparos
 
-###### Art. 120.º Nos processos, sempre que possa haver lugar à aplicação do imposto de justiça, haverá preparos, que revestem quatro modalidades: iniciais, subsequentes, para despesas e para julgamento.
+Art. 120.º Nos processos, sempre que possa haver lugar à aplicação do imposto de justiça, haverá preparos, que revestem quatro modalidades: iniciais, subsequentes, para despesas e para julgamento.
 
 § 1.º Exceptuam-se os inventários orfanológicos, os processos de assistência judiciária, a interposição de recursos ordinários e os incidentes abrangidos pelo n.º 3) do artigo 38.º, em que não há preparos.
 
@@ -1088,7 +1129,7 @@ e) Os selos, despesas e outras quantias referentes à execução, se a houver, p
 
 § 3.º Nos actos avulsos poderá ser exigido preparo suficiente para garantir o seu custo, conforme for fixado pelo escrivão ou secretaria.
 
-###### Art. 121.º Preparos iniciais são os que têm lugar no início de qualquer processo ou parte do processo sujeita a tributação especial.
+Art. 121.º Preparos iniciais são os que têm lugar no início de qualquer processo ou parte do processo sujeita a tributação especial.
 
 Preparos subsequentes são os que têm lugar no decurso do processo todas as vezes que o juiz determinar.
 
@@ -1104,7 +1145,7 @@ Preparos para julgamento são os que têm lugar antes da decisão das acções, 
 
 § 4.º Não haverá preparo para julgamento quando se entenda que a notificação para o seu depósito, por motivo do momento em que é feita, pode revelar a forma por que se vai decidir.
 
-###### Art. 122.º O montante de cada preparo inicial e para julgamento é de 10 por cento do imposto de justiça que seria devido a final.
+Art. 122.º O montante de cada preparo inicial e para julgamento é de 10 por cento do imposto de justiça que seria devido a final.
 
 Os preparos subsequentes serão do quantitativo que o juiz determinar, mas totalizarão, por cada parte, 15 por cento daquele imposto.
 
@@ -1122,9 +1163,9 @@ Os preparos para despesas serão indicados pelo escrivão, de harmonia com o mon
 
 § 4.º Os preparos serão sempre arredondados para a dezena de escudos imediatamente superior.
 
-###### Art. 123.º Estão isentos de preparos, além das pessoas e entidades indicadas no artigo 2.º e seu § 1.º, o devedor de ir a juízo declarar-se em estado de falência ou insolvência, as pessoas representadas por defensor oficioso e os funcionários nos recursos de decisões que lhes imponham qualquer penalidade.
+Art. 123.º Estão isentos de preparos, além das pessoas e entidades indicadas no artigo 2.º e seu § 1.º, o devedor de ir a juízo declarar-se em estado de falência ou insolvência, as pessoas representadas por defensor oficioso e os funcionários nos recursos de decisões que lhes imponham qualquer penalidade.
 
-###### Art. 124.º A obrigação de preparar incumbe:
+Art. 124.º A obrigação de preparar incumbe:
 
 1) Nos preparos iniciais, subsequentes e para julgamento, ao autor, recorrente ou requerente, ao réu ou requerido que deduza oposição e ao recorrido que alegue;
 
@@ -1142,13 +1183,13 @@ Por inteiro, se a outra não fez o preparo inicial;
 
 Por metade, se a outra for isenta de preparos.
 
-###### Art. 125.º Quando haja mais de um autor, recorrente ou requerente ou mais de um réu, recorrido ou requerido, e as petições ou oposições forem distintas, cada um deles fará por inteiro os preparos marcados neste código.
+Art. 125.º Quando haja mais de um autor, recorrente ou requerente ou mais de um réu, recorrido ou requerido, e as petições ou oposições forem distintas, cada um deles fará por inteiro os preparos marcados neste código.
 
 § único. Os preparos subsequentes e para julgamento serão, porém, limitados ao necessário para garantir a totalidade das custas.
 
-###### Art. 126.º É aplicável ao depósito de preparos o disposto no artigo 91.º
+Art. 126.º É aplicável ao depósito de preparos o disposto no artigo 91.º
 
-###### Art. 127.º O preparo inicial do autor ou requerente será feito nos cinco dias seguintes à apresentação do seu requerimento em juízo, ou à distribuição, quando a haja; o do réu ou requerido e o do recorrido que alegue no tribunal ad quem nos cinco dias seguintes à apresentação da oposição.
+Art. 127.º O preparo inicial do autor ou requerente será feito nos cinco dias seguintes à apresentação do seu requerimento em juízo, ou à distribuição, quando a haja; o do réu ou requerido e o do recorrido que alegue no tribunal ad quem nos cinco dias seguintes à apresentação da oposição.
 
 § 1.º Nas cartas precatórias o prazo contar-se-á desde a notificação do despacho que as mandou passar.
 
@@ -1158,25 +1199,25 @@ Por metade, se a outra for isenta de preparos.
 
 § 4.º Nos recursos de queixa o preparo será sempre efectuado no prazo em que devem ser pagas as custas da interposição.
 
-###### Art. 128.º Cada preparo subsequente será feito no prazo de cinco dias, a contar da notificação do despacho que o tiver ordenado, mas nos recursos não haverá normalmente lugar a este preparo.
+Art. 128.º Cada preparo subsequente será feito no prazo de cinco dias, a contar da notificação do despacho que o tiver ordenado, mas nos recursos não haverá normalmente lugar a este preparo.
 
-###### Art. 129.º O preparo para despesas será efectuado logo a seguir ao despacho que o fixou ou no prazo de cinco dias, a contar da notificação deste despacho.
+Art. 129.º O preparo para despesas será efectuado logo a seguir ao despacho que o fixou ou no prazo de cinco dias, a contar da notificação deste despacho.
 
 § único. Se as despesas disserem respeito ao julgamento, o preparo para este não pode ser recebido sem o daquelas ou sem o depósito, em dobro, a que se refere a alínea b) do artigo 137.º
 
-###### Art. 130.º Os preparos para julgamento serão feitos antes da decisão, da audiência de discussão e julgamento ou da sessão do tribunal, no prazo que for marcado pelo juiz, em função da urgência, entre 24 horas e 5 dias; quando se tratar de recurso, efectuado o preparo o processo entra imediatamente em tabela.
+Art. 130.º Os preparos para julgamento serão feitos antes da decisão, da audiência de discussão e julgamento ou da sessão do tribunal, no prazo que for marcado pelo juiz, em função da urgência, entre 24 horas e 5 dias; quando se tratar de recurso, efectuado o preparo o processo entra imediatamente em tabela.
 
-###### Art. 131.º Os preparos serão feitos no tribunal onde corre o processo ou incidente ou onde se requer a diligência.
+Art. 131.º Os preparos serão feitos no tribunal onde corre o processo ou incidente ou onde se requer a diligência.
 
 § único. Nas cartas precatórias o preparo é feito no tribunal deprecante.
 
-###### Art. 132.º Nos recursos podem fazer-se os preparos no tribunal a quo, de harmonia com o disposto no § 2.º do artigo 127.º e § único do artigo 130.º
+Art. 132.º Nos recursos podem fazer-se os preparos no tribunal a quo, de harmonia com o disposto no § 2.º do artigo 127.º e § único do artigo 130.º
 
 § único. Os preparos feitos nos termos deste artigo serão oportunamente remetidos ao tribunal superior.
 
-###### Art. 133.º À parte que tenha feito preparos serão estes restituídos por inteiro quando não haja lugar ao pagamento de custas por nenhum dos litigantes e, parcialmente, se excederem a importância das quotas contadas.
+Art. 133.º À parte que tenha feito preparos serão estes restituídos por inteiro quando não haja lugar ao pagamento de custas por nenhum dos litigantes e, parcialmente, se excederem a importância das quotas contadas.
 
-###### Art. 134.º Se o autor recorrente ou requerente não fizer o preparo inicial no prazo legal será, nos termos dos artigos 87.º e 89.º, notificado ou avisado para, em cinco dias, pagar um imposto igual ao preparo e depositar o preparo que deixou de fazer se quiser que prossiga o seu pedido.
+Art. 134.º Se o autor recorrente ou requerente não fizer o preparo inicial no prazo legal será, nos termos dos artigos 87.º e 89.º, notificado ou avisado para, em cinco dias, pagar um imposto igual ao preparo e depositar o preparo que deixou de fazer se quiser que prossiga o seu pedido.
 
 § 1.º Decorrido o prazo fixado neste artigo sem se mostrar feito o preparo e pago o imposto, será extinta a instância e o processo contado nos termos dos artigos 11.º e seguintes.
 
@@ -1184,39 +1225,39 @@ Por metade, se a outra for isenta de preparos.
 
 § 3.º Nas deprecadas a consequência da falta de preparo consistirá ùnicamente em não serem passadas.
 
-###### Art. 135.º Se o réu, recorrido ou requerido deixar de fazer o preparo inicial, considerar-se-á de nenhum efeito ou mandar-se-á desentranhar dos autos a oposição que tiver oferecido, salvo se, nos termos do artigo anterior, fizer o preparo e depositar o imposto ali fixado.
+Art. 135.º Se o réu, recorrido ou requerido deixar de fazer o preparo inicial, considerar-se-á de nenhum efeito ou mandar-se-á desentranhar dos autos a oposição que tiver oferecido, salvo se, nos termos do artigo anterior, fizer o preparo e depositar o imposto ali fixado.
 
-###### Art. 136.º A falta de preparo subsequente importa a obrigação de pagar imposto correspondente a 20 por cento da sua importância, e nunca inferior a 20$00, e a parte que nela tiver incorrido não poderá preparar para julgamento sem depositar o preparo a que faltou e pagar o imposto a que ficou obrigada.
+Art. 136.º A falta de preparo subsequente importa a obrigação de pagar imposto correspondente a 20 por cento da sua importância, e nunca inferior a 20$00, e a parte que nela tiver incorrido não poderá preparar para julgamento sem depositar o preparo a que faltou e pagar o imposto a que ficou obrigada.
 
 § único. É aplicável ao imposto fixado neste artigo o disposto no § 2.º do artigo 134.º
 
-###### Art. 137.º A consequência da falta de preparo para despesas será:
+Art. 137.º A consequência da falta de preparo para despesas será:
 
 a) Não se efectuar a diligência, se foi requerida;
 
 b) Nos outros casos, depositar-se em dobro juntamente com o preparo para julgamento, e sobre a cominação estabelecida para a falta deste, a importância correspondente ao preparo que se deixou de fazer.
 
-###### Art. 138.º A parte que, devidamente notificada, não fizer o preparo para julgamento no prazo legal pagará imposto de justiça igual à sua importância e fica inibida de produzir qualquer espécie de prova, salvo se, antes do início do julgamento, que por esse motivo não será adiado, pagar o imposto e depositar o preparo.
+Art. 138.º A parte que, devidamente notificada, não fizer o preparo para julgamento no prazo legal pagará imposto de justiça igual à sua importância e fica inibida de produzir qualquer espécie de prova, salvo se, antes do início do julgamento, que por esse motivo não será adiado, pagar o imposto e depositar o preparo.
 
 ## TÍTULO II — Das multas
 
-###### Art. 139.º As multas a impor aos litigantes de má fé serão fixadas entre 500$00 e 30000$00 e reverterão em partes iguais para o cofre do tribunal e para a Fazenda da província.
+Art. 139.º As multas a impor aos litigantes de má fé serão fixadas entre 500$00 e 30000$00 e reverterão em partes iguais para o cofre do tribunal e para a Fazenda da província.
 
-###### Art. 140.º Salvo disposição especial em contrário, todas as outras multas a aplicar em processos cíveis serão fixadas pelo tribunal entre 100$00 e 1000$00 e terão o destino indicado no artigo anterior.
+Art. 140.º Salvo disposição especial em contrário, todas as outras multas a aplicar em processos cíveis serão fixadas pelo tribunal entre 100$00 e 1000$00 e terão o destino indicado no artigo anterior.
 
-###### Art. 141.º As multas impostas à parte, quando a lei não estabelecer prazo para o seu pagamento, serão liquidadas quando o processo tiver de ir à conta e em seguida a esta, e os responsáveis serão avisados e efectuarão o pagamento nos termos dos artigos 92.º e seguintes.
+Art. 141.º As multas impostas à parte, quando a lei não estabelecer prazo para o seu pagamento, serão liquidadas quando o processo tiver de ir à conta e em seguida a esta, e os responsáveis serão avisados e efectuarão o pagamento nos termos dos artigos 92.º e seguintes.
 
-###### Art. 142.º As restantes multas serão imediatamente liquidadas e o responsável será notificado para as pagar no prazo de oito dias, salvo se outro estiver estabelecido na lei.
+Art. 142.º As restantes multas serão imediatamente liquidadas e o responsável será notificado para as pagar no prazo de oito dias, salvo se outro estiver estabelecido na lei.
 
-###### Art. 143.º Não sendo pagas no prazo legal, instaurar-se-á a execução juntamente com a execução por custas, se a houver contra o responsável, ou, no caso contrário, com base numa certidão da liquidação, que o escrivão entregará, para esse efeito, ao Ministério Público, no prazo de 24 Horas, seguindo-se os termos prescritos para as execuções por custas.
+Art. 143.º Não sendo pagas no prazo legal, instaurar-se-á a execução juntamente com a execução por custas, se a houver contra o responsável, ou, no caso contrário, com base numa certidão da liquidação, que o escrivão entregará, para esse efeito, ao Ministério Público, no prazo de 24 Horas, seguindo-se os termos prescritos para as execuções por custas.
 
 II
 
-# Parte criminal
+## Parte criminal
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Art. 144.º O réu, no caso de condenação em 1.ª instância e no caso de decair, mesmo em parte, em qualquer recurso, ainda que o não tenha acompanhado e salvos os casos da segunda parte do n.º 1.º do artigo 647.º e do § 1.º do artigo 663.º do Código de Processo Penal, pagará ao Estado um imposto de justiça, que o tribunal arbitrará na decisão final, tendo em atenção a situação material do infractor e os limites estabelecidos para o processo correspondente à infracção mais grave de que foi acusado.
+Art. 144.º O réu, no caso de condenação em 1.ª instância e no caso de decair, mesmo em parte, em qualquer recurso, ainda que o não tenha acompanhado e salvos os casos da segunda parte do n.º 1.º do artigo 647.º e do § 1.º do artigo 663.º do Código de Processo Penal, pagará ao Estado um imposto de justiça, que o tribunal arbitrará na decisão final, tendo em atenção a situação material do infractor e os limites estabelecidos para o processo correspondente à infracção mais grave de que foi acusado.
 
 § 1.º Se vários réus deverem pagar imposto, a cada um será arbitrado o respectivo quantitativo dentro dos limites legais e a sua responsabilidade será limitada ao imposto em que foi individualmente condenado.
 
@@ -1230,13 +1271,13 @@ II
 
 § 6.º Nos recursos de decisões finais o tribunal superior que condene em imposto arbitrará também o respeitante aos tribunais inferiores, se estes o não tiverem fixado.
 
-###### Art. 145.º No caso de o réu ser isento de pena, nos termos do artigo 418.º do Código Penal, será sempre devido o respectivo imposto, o qual ficará inteiramente a cargo do réu, salvo se outra coisa for acordada entre ele e o ofendido.
+Art. 145.º No caso de o réu ser isento de pena, nos termos do artigo 418.º do Código Penal, será sempre devido o respectivo imposto, o qual ficará inteiramente a cargo do réu, salvo se outra coisa for acordada entre ele e o ofendido.
 
-###### Art. 146.º Os impostos pagos no decurso do processo não serão restituídos, salvo nos casos do § 2.º do artigo 698.º do Código de Processo Penal e do § único do artigo 148.º deste diploma. Na indemnização em que for condenada a parte vencida, porém, serão incluídos os impostos e acréscimos que pagou sem condenação.
+Art. 146.º Os impostos pagos no decurso do processo não serão restituídos, salvo nos casos do § 2.º do artigo 698.º do Código de Processo Penal e do § único do artigo 148.º deste diploma. Na indemnização em que for condenada a parte vencida, porém, serão incluídos os impostos e acréscimos que pagou sem condenação.
 
-###### Art. 147.º A suspensão da pena em caso algum abrangerá o imposto.
+Art. 147.º A suspensão da pena em caso algum abrangerá o imposto.
 
-###### Art. 148.º Os recursos interpostos por pessoas que não sejam o Ministério Público ou os réus presos não poderão seguir sem que seja pago o imposto devido pela interposição do recurso.
+Art. 148.º Os recursos interpostos por pessoas que não sejam o Ministério Público ou os réus presos não poderão seguir sem que seja pago o imposto devido pela interposição do recurso.
 
 § único. Nos recursos interpostos de acórdãos da Relação que tenham condenado em imposto, inclusive no respeitante à 1.ª instância, o pagamento do devido pela interposição deverá ser acompanhado do depósito dos impostos, acréscimos e multas em dívida, aos quais será dado destino conforme a resolução dos recursos.
 
@@ -1244,7 +1285,7 @@ II
 
 #### SECÇÃO I — Nos tribunais superiores
 
-###### Art. 149.º Cada recorrente ou requerente que não seja réu preso, ou seu representante, pagará nos prazos e com as cominações estabelecidas para os preparos iniciais dos recursos e incidentes em processos cíveis o seguinte imposto:
+Art. 149.º Cada recorrente ou requerente que não seja réu preso, ou seu representante, pagará nos prazos e com as cominações estabelecidas para os preparos iniciais dos recursos e incidentes em processos cíveis o seguinte imposto:
 
 a) Nos recursos de decisões finais ... 200$00
 
@@ -1252,7 +1293,7 @@ b) Em quaisquer outros recursos e nos pedidos de revisão ... 150$00
 
 c) Em qualquer incidente estranho aos termos regulares do processo ... 100$00
 
-###### Art. 150.º O imposto a aplicar na decisão do recurso ou incidente será variável entre os seguintes limites:
+Art. 150.º O imposto a aplicar na decisão do recurso ou incidente será variável entre os seguintes limites:
 
 A) Em processos de polícia correccional e de transgressão:
 
@@ -1268,7 +1309,7 @@ b) Em quaisquer outros casos ... 300$00 a 10000$00
 
 #### SECÇÃO II — Da 1.ª instância
 
-###### Art. 151.º O imposto de justiça a aplicar na decisão final poderá variar entre os seguintes limites:
+Art. 151.º O imposto de justiça a aplicar na decisão final poderá variar entre os seguintes limites:
 
 1) Em processo de querela ou de classificação de falência ... 2000$00 a 50000$00
 
@@ -1278,7 +1319,7 @@ b) Em quaisquer outros casos ... 300$00 a 10000$00
 
 4) Em quaisquer outros processos ... 100$00 a 3000$00
 
-###### Art. 152.º Será também devido o imposto nos casos e termos seguintes:
+Art. 152.º Será também devido o imposto nos casos e termos seguintes:
 
 A) Nos processos em que haja parte acusadora:
 
@@ -1294,7 +1335,7 @@ C) Nos incidentes de instrução contraditória, 200$00 a 1000$00.
 
 #### SECÇÃO III — Disposições comuns
 
-###### Art. 153.º Em qualquer tribunal pagar-se-á imposto nos casos e termos seguintes:
+Art. 153.º Em qualquer tribunal pagar-se-á imposto nos casos e termos seguintes:
 
 1) Nos processos de caução, conforme o seu valor:
 
@@ -1312,7 +1353,7 @@ d) De mais de 100000$00 acresce à taxa anterior a importância de 50$00 por cad
 
 ### CAPÍTULO III — Dos outros encargos
 
-###### Art. 154.º A cada imposto de justiça acrescem sòmente as verbas seguintes:
+Art. 154.º A cada imposto de justiça acrescem sòmente as verbas seguintes:
 
 1) Para o cofre do tribunal, além das importâncias mencionadas nos n.os 2) e 3) do artigo 48.º e das despesas por ele adiantadas:
 
@@ -1330,33 +1371,33 @@ A importância a que se refere esta alínea será reduzida a metade no caso de a
 
 2) A importância referida no artigo 157.º e a de 20$00 pela captura, a favor do captor, sempre que o imposto seja pago depois de preso o responsável.
 
-###### Art. 155.º Os emolumentos e indemnizações referidas no artigo 157.º do Código de Processo Penal e a procuradoria, quando haja parte acusadora, serão regulados pelo disposto na parte cível deste código.
+Art. 155.º Os emolumentos e indemnizações referidas no artigo 157.º do Código de Processo Penal e a procuradoria, quando haja parte acusadora, serão regulados pelo disposto na parte cível deste código.
 
 § 1.º As remunerações estabelecidas nos n.os 2) e 3) do artigo 51.º serão, porém, reduzidas a metade, salvo se o juiz determinar o contrário, atenta a complexidade do exame.
 
 § 2.º A procuradoria será arbitrada dentro dos limites estabelecidos nas alíneas a), b) e c) do artigo 64.º, conforme se trate de processos de polícia correccional correspondentes ao artigo 65.º do Código de Processo Penal, de idêntica natureza correspondentes ao artigo 64.º do mesmo diploma, ou de querela.
 
-###### Art. 156.º Aos oficiais de diligências será abonada, além das despesas de transporte, a ajuda de custo diária que competir aos funcionários da sua categoria, de acordo com o estipulado na legislação da respectiva província, pela condução de preso ou presos de uma para outra comarca. Na condução de presos, por virtude de prisões efectuadas dentro da área da comarca, os oficiais de diligências receberão uma ajuda de custo de 1$00 por cada quilómetro, até ao limite máximo de 100 km.
+Art. 156.º Aos oficiais de diligências será abonada, além das despesas de transporte, a ajuda de custo diária que competir aos funcionários da sua categoria, de acordo com o estipulado na legislação da respectiva província, pela condução de preso ou presos de uma para outra comarca. Na condução de presos, por virtude de prisões efectuadas dentro da área da comarca, os oficiais de diligências receberão uma ajuda de custo de 1$00 por cada quilómetro, até ao limite máximo de 100 km.
 
-###### Art. 157.º Quando as despesas de transporte e ajudas de custo a que se refere o artigo anterior, e bem assim as despesas de transporte dos próprios presos, forem abonadas pela Direcção dos Serviços de Fazenda e posteriormente for pago o respectivo imposto de justiça, acrescerão a este as verbas abonadas que, para esse efeito, ficarão constando do processo.
+Art. 157.º Quando as despesas de transporte e ajudas de custo a que se refere o artigo anterior, e bem assim as despesas de transporte dos próprios presos, forem abonadas pela Direcção dos Serviços de Fazenda e posteriormente for pago o respectivo imposto de justiça, acrescerão a este as verbas abonadas que, para esse efeito, ficarão constando do processo.
 
-###### Art. 158.º No imposto de justiça não fica compreendido o imposto do selo respeitante ao processo e seus incidentes e os caminhos a que se refere o artigo 53.º deste código.
+Art. 158.º No imposto de justiça não fica compreendido o imposto do selo respeitante ao processo e seus incidentes e os caminhos a que se refere o artigo 53.º deste código.
 
-###### Art. 159.º Pelos serviços de venda dos objectos apreendidos em processos criminais cobrar-se-á 10 por cento das quantias arrecadadas, sendo metade para o Estado e metade para o cofre do tribunal.
+Art. 159.º Pelos serviços de venda dos objectos apreendidos em processos criminais cobrar-se-á 10 por cento das quantias arrecadadas, sendo metade para o Estado e metade para o cofre do tribunal.
 
 ### CAPÍTULO IV
 
-###### Art. 160.º A liquidação do imposto de justiça e encargos será feita pelo contador no prazo de 48 horas.
+Art. 160.º A liquidação do imposto de justiça e encargos será feita pelo contador no prazo de 48 horas.
 
 § único. O custo do papel de quaisquer actos será liquidado a favor do cofre do próprio tribunal, salvo se houver que remeter, para o tribunal que o forneceu, quaisquer outras importâncias.
 
-###### Art. 161.º No caso de condenação em imposto, o pagamento deverá ser feito nos prazos estabelecidos nos artigos 639.º e 643.º do Código de Processo Penal, mesmo nos tribunais superiores.
+Art. 161.º No caso de condenação em imposto, o pagamento deverá ser feito nos prazos estabelecidos nos artigos 639.º e 643.º do Código de Processo Penal, mesmo nos tribunais superiores.
 
 § único. Não havendo condenação, o prazo de pagamento será, salvo disposição especial, de cinco dias após o requerimento ou acto por que o imposto é devido, e, se não for pago nesse prazo, considerar-se-á sem efeito o requerimento, não havendo lugar a execução ou conversão.
 
-###### Art. 162.º O imposto não poderá ser pago sem que se paguem conjuntamente os acréscimos a que se refere o artigo 154.º, mas é independente do pagamento das custas.
+Art. 162.º O imposto não poderá ser pago sem que se paguem conjuntamente os acréscimos a que se refere o artigo 154.º, mas é independente do pagamento das custas.
 
-###### Art. 163.º Se o imposto, acréscimos e custas, ou só estas, não forem pagos no prazo legal, o escrivão informará no processo, no prazo de dez dias, se o devedor possui bens que possam ser executados ou se, não os tendo, poderá, apesar disso, pagar o imposto em dívida.
+Art. 163.º Se o imposto, acréscimos e custas, ou só estas, não forem pagos no prazo legal, o escrivão informará no processo, no prazo de dez dias, se o devedor possui bens que possam ser executados ou se, não os tendo, poderá, apesar disso, pagar o imposto em dívida.
 
 § 1.º Se por esta informação, ou por qualquer outra forma, for conhecida a existência de bens naquelas condições, ou se não for possível obter informações precisas, instaurar-se-á execução nos termos do § 10.º do artigo 639.º do Código de Processo Penal.
 
@@ -1364,21 +1405,21 @@ A importância a que se refere esta alínea será reduzida a metade no caso de a
 
 § 3.º Se, porém, em face das informações do escrivão, da resposta do Ministério Público e de quaisquer outras diligências que parecerem convenientes, o juiz se convencer de que o réu não tem qualquer possibilidade de pagar as quantias em dívida, não efectuará a conversão em prisão.
 
-###### Art. 164.º Quando o condenado em imposto na Relação não satisfizer a sua importância no prazo legal, baixará o processo à 1.ª instância para aí se observar o disposto no artigo anterior.
+Art. 164.º Quando o condenado em imposto na Relação não satisfizer a sua importância no prazo legal, baixará o processo à 1.ª instância para aí se observar o disposto no artigo anterior.
 
 III
 
 Dos processos das tutorias da infância
 
-###### Art. 165.º Nos processos cíveis e criminais da competência das tutorias de infância e tribunais de menores não haverá preparos e as partes poderão requerer em papel comum, quando juntem atestado de pobreza, mas haverá lugar ao pagamento de um imposto de justiça, salvo se a parte vencida for pobre.
+Art. 165.º Nos processos cíveis e criminais da competência das tutorias de infância e tribunais de menores não haverá preparos e as partes poderão requerer em papel comum, quando juntem atestado de pobreza, mas haverá lugar ao pagamento de um imposto de justiça, salvo se a parte vencida for pobre.
 
 § único. Sendo menor a pessoa condenada, o pai ou tutor será responsável pela multa ou imposto, que não poderão ser convertidos em prisão.
 
-###### Art. 166.º O imposto não é acrescido de quaisquer adicionais e será fixado em quantia certa, que a tutoria ou o tribunal de recurso arbitrarão a final, entre 50$00 e 5000$00, tendo em atenção os haveres da parte vencida, a importância da causa e a actividade despendida pelo tribunal.
+Art. 166.º O imposto não é acrescido de quaisquer adicionais e será fixado em quantia certa, que a tutoria ou o tribunal de recurso arbitrarão a final, entre 50$00 e 5000$00, tendo em atenção os haveres da parte vencida, a importância da causa e a actividade despendida pelo tribunal.
 
 § único. Quando o recurso for interposto para os tribunais comuns ser-lhes-ão aplicáveis as taxas estabelecidas nos artigos 11.º e seguintes.
 
-###### Art. 167.º As quantias provenientes do imposto terão o seguinte destino:
+Art. 167.º As quantias provenientes do imposto terão o seguinte destino:
 
 A) No caso de haver recurso:
 
@@ -1416,11 +1457,11 @@ Para os oficiais de diligências ... 10
 
 Para o cofre do tribunal ... 10
 
-###### Art. 168.º As multas ou impostos de justiça que não forem pagos voluntàriamente serão cobrados por meio de desconto dos vencimentos, ordenados ou salários dos devedores ou por meio de execuções da competência dos tribunais comuns, tendo por base uma certidão donde conste a decisão respectiva e que o pagamento se não efectuou no prazo legal.
+Art. 168.º As multas ou impostos de justiça que não forem pagos voluntàriamente serão cobrados por meio de desconto dos vencimentos, ordenados ou salários dos devedores ou por meio de execuções da competência dos tribunais comuns, tendo por base uma certidão donde conste a decisão respectiva e que o pagamento se não efectuou no prazo legal.
 
 § único. Nos processos crimes contra maiores o imposto de justiça em que o réu for condenado pode ser convertido em prisão, nos termos gerais.
 
-###### Art. 169.º À liquidação e pagamento das quantias referidas nos artigos anteriores serão aplicáveis as disposições estabelecidas nas partes cível ou criminal deste código, conforme a natureza do processo.
+Art. 169.º À liquidação e pagamento das quantias referidas nos artigos anteriores serão aplicáveis as disposições estabelecidas nas partes cível ou criminal deste código, conforme a natureza do processo.
 
 IV
 
@@ -1428,9 +1469,9 @@ IV
 
 Dos cofres dos tribunais
 
-###### Art. 170.º Constituem receita do cofre do tribunal da Relação a referida no n.º 1) do artigo 46.º sob a rubrica «Cofre do tribunal» e a alínea A) do artigo 154.º; nos tribunais de 1.ª instância, as referidas nos n.os 2) e 3) do artigo 46.º sob a rubrica «Cofre do tribunal», nos n.os 1), 2) e 3) do artigo 48.º, na alínea B) do artigo 154.º e no artigo 159.º, todas as despesas de processos por eles adiantadas e os juros dos depósitos nos estabelecimentos destinados a tal fim e as demais percentagens referidas neste decreto.
+Art. 170.º Constituem receita do cofre do tribunal da Relação a referida no n.º 1) do artigo 46.º sob a rubrica «Cofre do tribunal» e a alínea A) do artigo 154.º; nos tribunais de 1.ª instância, as referidas nos n.os 2) e 3) do artigo 46.º sob a rubrica «Cofre do tribunal», nos n.os 1), 2) e 3) do artigo 48.º, na alínea B) do artigo 154.º e no artigo 159.º, todas as despesas de processos por eles adiantadas e os juros dos depósitos nos estabelecimentos destinados a tal fim e as demais percentagens referidas neste decreto.
 
-###### Art. 171.º Os cofres dos tribunais terão a seu cargo as seguintes despesas:
+Art. 171.º Os cofres dos tribunais terão a seu cargo as seguintes despesas:
 
 a) No tribunal da Relação, sob a administração do respectivo presidente:
 
@@ -1446,19 +1487,19 @@ b) Nos tribunais de 1.ª instância, sob a administração do respectivo juiz:
 
 4) Quaisquer outras despesas de manifesta utilidade e especialmente destinadas a dotar os tribunais, na medida do possível, de instalações adequadas ao prestígio que devem manter e das condições de conforto necessárias ao bom desempenho do serviço.
 
-###### Art. 172.º As despesas referidas nos n.os 2) e 3) da alínea b) do artigo anterior serão contadas a favor do cofre nos respectivos processos.
+Art. 172.º As despesas referidas nos n.os 2) e 3) da alínea b) do artigo anterior serão contadas a favor do cofre nos respectivos processos.
 
 § único. Se a parte vencida for isenta de custas, as despesas de deslocação do juiz serão pagas pelo cofre e as despesas provocadas por diligências requeridas ou sugeridas pela parte vencedora serão pagas por esta.
 
-###### Art. 173.º Nas comarcas de mais de uma vara haverá um só cofre, cuja administração pertence ao juiz mais antigo, cabendo a cada vara uma verba própria, igual para cada uma, anualmente concedida pelo administrador do cofre conforme as disponibilidades, que será administrada pelo respectivo juiz, com as restrições legais.
+Art. 173.º Nas comarcas de mais de uma vara haverá um só cofre, cuja administração pertence ao juiz mais antigo, cabendo a cada vara uma verba própria, igual para cada uma, anualmente concedida pelo administrador do cofre conforme as disponibilidades, que será administrada pelo respectivo juiz, com as restrições legais.
 
-###### Art. 174.º Os juízes nos primeiros quinze dias de cada trimestre prestarão contas aos presidentes das Relações das despesas efectuadas no trimestre anterior.
+Art. 174.º Os juízes nos primeiros quinze dias de cada trimestre prestarão contas aos presidentes das Relações das despesas efectuadas no trimestre anterior.
 
 § único. Os documentos de despesa ficarão arquivados no cartório de cada tribunal onde não haja contador ou distribuidor geral, e nas contadorias ou repartições de distribuição onde existam, depois de rubricados pelo juiz e pelo delegado, que, na mesma ocasião, aporão no processo de contas a declaração de conformidade dos mesmos documentos com os lançamentos deles constantes. Serão enviados aos presidentes das Relações os duplicados dos documentos de despesas, sendo lícito aos presidentes das Relações expedir instruções na aplicação dos dinheiros do cofre dos tribunais e limitar os montantes a despender sem sua prévia autorização.
 
-###### Art. 175.º O serviço de arrecadação e movimentação das receitas do cofre do tribunal é isento de selos e é feito pelo secretário, distribuidor geral, contador ou escrivão, que receberão a percentagem de 10 por cento sobre a receita.
+Art. 175.º O serviço de arrecadação e movimentação das receitas do cofre do tribunal é isento de selos e é feito pelo secretário, distribuidor geral, contador ou escrivão, que receberão a percentagem de 10 por cento sobre a receita.
 
-###### Art. 176.º As despesas de deslocação do pessoal judiciário e de outras pessoas que intervenham nos processos e das indemnizações e testemunhas quando arbitradas em julgamento, serão pagas no cartório logo que termine aquele e ainda que esteja fechado o estabelecimento destinado a depósitos judiciais, ou no dia seguinte em face de uma relação organizada no próprio acto e assinada pelo juiz, na qual serão passados os recibos. Para esse efeito, o escrivão levantará por cheque da Caixa Económica, antes do julgamento, a importância que for julgada suficiente e depositará, no prazo de 48 horas, o excesso que for verificado e as importâncias que não forem reclamadas.
+Art. 176.º As despesas de deslocação do pessoal judiciário e de outras pessoas que intervenham nos processos e das indemnizações e testemunhas quando arbitradas em julgamento, serão pagas no cartório logo que termine aquele e ainda que esteja fechado o estabelecimento destinado a depósitos judiciais, ou no dia seguinte em face de uma relação organizada no próprio acto e assinada pelo juiz, na qual serão passados os recibos. Para esse efeito, o escrivão levantará por cheque da Caixa Económica, antes do julgamento, a importância que for julgada suficiente e depositará, no prazo de 48 horas, o excesso que for verificado e as importâncias que não forem reclamadas.
 
 V
 
@@ -1466,7 +1507,7 @@ V
 
 Dos depósitos e pagamentos
 
-###### Art. 177.º Em todos os tribunais judiciais os preparos e custas e outras quantias contadas que devem ser pagas com estas serão entregues por meio de guia directamente pelas partes na Caixa Económica Postal ou suas filiais ou delegações, na sede dos tribunais à ordem do presidente do tribunal ou do juiz respectivo.
+Art. 177.º Em todos os tribunais judiciais os preparos e custas e outras quantias contadas que devem ser pagas com estas serão entregues por meio de guia directamente pelas partes na Caixa Económica Postal ou suas filiais ou delegações, na sede dos tribunais à ordem do presidente do tribunal ou do juiz respectivo.
 
 O escrivão passará e entregará às partes, ou a quem as solicitar em seu nome, as guias para depósito de preparos ou pagamento de custas e multas, lavrando termo no processo.
 
@@ -1476,7 +1517,7 @@ O escrivão passará e entregará às partes, ou a quem as solicitar em seu nome
 
 § 3.º Quem receber, nos termos do parágrafo anterior, quaisquer importâncias é considerado para todos os efeitos depositário judicial delas.
 
-###### Art. 178.º Para o efeito do disposto no artigo anterior, os presidentes ou juízes abrirão tantos depósitos quantos os cartórios ou secretarias que compõem os tribunais.
+Art. 178.º Para o efeito do disposto no artigo anterior, os presidentes ou juízes abrirão tantos depósitos quantos os cartórios ou secretarias que compõem os tribunais.
 
 § 1.º Os depósitos serão abertos quando pela primeira vez tiver de ser depositada em relação a cada cartório ou secretaria qualquer importância, preenchendo o escrivão respectivo, para esse efeito, o competente boletim de identidade adoptado no estabelecimento que for competente e a guia do depósito.
 
@@ -1492,23 +1533,23 @@ O escrivão passará e entregará às partes, ou a quem as solicitar em seu nome
 
 § 7.º O talão da guia de depósito, depois de passado o recibo pelo respectivo tesoureiro, será restituído ao depositante para ser junto ao processo a que respeitar o depósito, como documento comprovativo de pagamento da importância devida.
 
-###### Art. 179.º Os levantamentos das quantias depositadas só poderão ser feitos por meio de cheques assinados pelo presidente e secretário ou juiz e escrivão competente e autenticados com o selo branco do tribunal.
+Art. 179.º Os levantamentos das quantias depositadas só poderão ser feitos por meio de cheques assinados pelo presidente e secretário ou juiz e escrivão competente e autenticados com o selo branco do tribunal.
 
 § único. As cadernetas de cheques serão requisitadas ao estabelecimento competente, suas filiais ou delegações, pelo presidente ou juiz e pagas pelo cofre do tribunal, preenchendo-se a requisição adoptada para esse efeito pelo mesmo estabelecimento.
 
-###### Art. 180.º As importâncias devidas ao Estado e o imposto do selo respeitante à parte do imposto de justiça, às percentagens e à comissão sobre as receitas do cofre do tribunal serão pagos até ao dia 5 de cada mês e as relativas às remunerações pelo averbamento de escrituras e testamentos sê-lo-ão até ao dia 13 do mês seguinte àquele em que forem recebidas, por meio de guias, cujos duplicados ficarão arquivados.
+Art. 180.º As importâncias devidas ao Estado e o imposto do selo respeitante à parte do imposto de justiça, às percentagens e à comissão sobre as receitas do cofre do tribunal serão pagos até ao dia 5 de cada mês e as relativas às remunerações pelo averbamento de escrituras e testamentos sê-lo-ão até ao dia 13 do mês seguinte àquele em que forem recebidas, por meio de guias, cujos duplicados ficarão arquivados.
 
-###### Art. 181.º Se da conta se verificar que os preparos depositados excedem as importâncias a pagar no tribunal o secretário ou o escrivão passará cheque para a restituição do que houver a mais a favor da parte, entregando-lhe conjuntamente com as guias para pagamento ao Estado. A entrega das guias e do cheque de restituição constará do termo respectivo.
+Art. 181.º Se da conta se verificar que os preparos depositados excedem as importâncias a pagar no tribunal o secretário ou o escrivão passará cheque para a restituição do que houver a mais a favor da parte, entregando-lhe conjuntamente com as guias para pagamento ao Estado. A entrega das guias e do cheque de restituição constará do termo respectivo.
 
-###### Art. 182.º O pagamento e depósito das importâncias mencionadas nas guias tem de ser feito no prazo de cinco dias, após o seu recebimento da mão do secretário ou do escrivão, e o duplicado da guia e talão do depósito com o recibo têm de ser entregues na respectiva secretaria ou cartório dentro de 48 horas após o pagamento.
+Art. 182.º O pagamento e depósito das importâncias mencionadas nas guias tem de ser feito no prazo de cinco dias, após o seu recebimento da mão do secretário ou do escrivão, e o duplicado da guia e talão do depósito com o recibo têm de ser entregues na respectiva secretaria ou cartório dentro de 48 horas após o pagamento.
 
 § único. Se decorridos os prazos fixados no corpo do artigo não houverem sido entregues no cartório o duplicado e o talão com o recibo, o escrivão fará os autos imediatamente com vista ao Ministério Público para este promover a execução, sendo pelo dobro a da quantia que deixou de mostrar-se paga ao Estado.
 
-###### Art. 183.º Logo que lhe sejam entregues o duplicado e o talão com o recibo, o secretário ou o escrivão juntá-los-á ao processo e continuará dando cumprimento às obrigações que são impostas quanto ao levantamento do que estiver contado.
+Art. 183.º Logo que lhe sejam entregues o duplicado e o talão com o recibo, o secretário ou o escrivão juntá-los-á ao processo e continuará dando cumprimento às obrigações que são impostas quanto ao levantamento do que estiver contado.
 
-###### Art. 184.º Quando a importância das custas houver de ser levantada de qualquer outro estabelecimento, o juiz mandará passar precatório ou mandado da importância em dívida, incluindo as custas do incidente do levantamento, a favor do secretário ou do escrivão, que efectuará o pagamento do que for devido ao Estado e depositará dentro de 24 horas no estabelecimento destinado a esse fim a parte devida em juízo.
+Art. 184.º Quando a importância das custas houver de ser levantada de qualquer outro estabelecimento, o juiz mandará passar precatório ou mandado da importância em dívida, incluindo as custas do incidente do levantamento, a favor do secretário ou do escrivão, que efectuará o pagamento do que for devido ao Estado e depositará dentro de 24 horas no estabelecimento destinado a esse fim a parte devida em juízo.
 
-###### Art. 185.º As importâncias pertencentes a outra comarca ou tribunal e, bem assim, os emolumentos pertencentes a pessoas que intervierem acidentalmente no processo e declararem querer recebê-los em outra comarca serão para essa transferidos no prazo de cinco dias, a favor do escrivão, por meio de cheque gratuito, o qual será enviado ao respectivo agente do Ministério Público com uma nota elucidativa. O talão da requisição do cheque será arquivado com a restante documentação.
+Art. 185.º As importâncias pertencentes a outra comarca ou tribunal e, bem assim, os emolumentos pertencentes a pessoas que intervierem acidentalmente no processo e declararem querer recebê-los em outra comarca serão para essa transferidos no prazo de cinco dias, a favor do escrivão, por meio de cheque gratuito, o qual será enviado ao respectivo agente do Ministério Público com uma nota elucidativa. O talão da requisição do cheque será arquivado com a restante documentação.
 
 § 1.º As despesas de transferências serão calculadas por ocasião da conta e entrarão em regra de custas.
 
@@ -1516,25 +1557,25 @@ O escrivão passará e entregará às partes, ou a quem as solicitar em seu nome
 
 § 3.º Para levantamento das quantias transferidas de outra comarca que hajam de ser pagas a uma só pessoa será passado cheque nominativo, que lhe será entregue nos termos do artigo 188.º
 
-###### Art. 186.º As importâncias devidas à Imprensa Nacional por anúncios publicados no Boletim Oficial serão pagas por meio de cheque a favor do respectivo director, pagável na sede, sem qualquer desconto de prémio ou transferência. O cheque será entregue ao agente do Ministério Público junto do respectivo tribunal onde as custas foram pagas, qual o enviará oficialmente ao director da Imprensa Nacional com indicação do processo a que respeita.
+Art. 186.º As importâncias devidas à Imprensa Nacional por anúncios publicados no Boletim Oficial serão pagas por meio de cheque a favor do respectivo director, pagável na sede, sem qualquer desconto de prémio ou transferência. O cheque será entregue ao agente do Ministério Público junto do respectivo tribunal onde as custas foram pagas, qual o enviará oficialmente ao director da Imprensa Nacional com indicação do processo a que respeita.
 
-###### Art. 187.º Logo que seja junto ao processo um talão com o recibo do estabelecimento competente, o secretário ou o escrivão lançará em livro especial a natureza e o número do processo e o número da conta, e nas respectivas colunas o contado a todas as pessoas ou entidades.
+Art. 187.º Logo que seja junto ao processo um talão com o recibo do estabelecimento competente, o secretário ou o escrivão lançará em livro especial a natureza e o número do processo e o número da conta, e nas respectivas colunas o contado a todas as pessoas ou entidades.
 
 § 1.º Nos dias 1 e 16 de cada mês, ou no imediato, se algum daqueles for feriado, o secretário ou escrivão somará em cada coluna os lançamentos relativos a cada funcionário, passando pela soma os respectivos cheques nominativos, escrevendo os números de cada cheque por baixo da soma respectiva e continuando a passar-se cheques por cada conta às pessoas que não façam parte do pessoal do juízo ou tribunal.
 
 § 2.º As quantias que tenham de ser pagas ao Estado ou levantadas por transferência serão incluídas num cheque único nominativo a favor do escrivão que deva efectuar o pagamento.
 
-###### Art. 188.º O juiz, verificando que estão feitos os respectivos lançamentos e certas as importâncias dos cheques, assinará estes, pondo-lhes o selo do tribunal e rubricando no livro a sua nota de verificação.
+Art. 188.º O juiz, verificando que estão feitos os respectivos lançamentos e certas as importâncias dos cheques, assinará estes, pondo-lhes o selo do tribunal e rubricando no livro a sua nota de verificação.
 
-###### Art. 189.º O secretário ou escrivão, no prazo de três dias a contar da assinatura dos cheques, entregá-los-ão aos interessados, cobrando deles recibo no livro a que se refere o artigo 187.º
+Art. 189.º O secretário ou escrivão, no prazo de três dias a contar da assinatura dos cheques, entregá-los-ão aos interessados, cobrando deles recibo no livro a que se refere o artigo 187.º
 
 § único. Se o secretário ou escrivão não puder satisfazer ao preceituado neste artigo, porque os interessados não estejam na sede do tribunal ou não se apresentem para receber os cheques no prazo de quinze dias, a contar da verificação, darão entrada no cofre do tribunal, confiado ao distribuidor, acompanhados de uma relação para ficar em poder deste funcionário, que passará os competentes recibos com a declaração de «em depósito» e o número de ordem que porá na relação.
 
-###### Art. 190.º Findos todos os pagamentos, o secretário ou o escrivão, dentro de 48 horas, continuarão o processo com vista ao Ministério Público para promover o que tiver por conveniente ou lançar a declaração de estarem cumpridos os preceitos legais quanto à conta, actos posteriores a ela e respectivos pagamentos.
+Art. 190.º Findos todos os pagamentos, o secretário ou o escrivão, dentro de 48 horas, continuarão o processo com vista ao Ministério Público para promover o que tiver por conveniente ou lançar a declaração de estarem cumpridos os preceitos legais quanto à conta, actos posteriores a ela e respectivos pagamentos.
 
-###### Art. 191.º Todas as quantias pertencentes ao cofre do tribunal serão depositadas pelos secretários ou distribuidores no estabelecimento destinado a esse fim ou suas delegações, à ordem do presidente ou juiz do respectivo tribunal, indicando-se no boletim de identidade que o depósito é feito em nome do «cofre do tribunal de ...» ou do «juízo da comarca de ...». Para este efeito será passado um cheque em favor do distribuidor ou secretário, que depositará a importância levantada no cofre do tribunal.
+Art. 191.º Todas as quantias pertencentes ao cofre do tribunal serão depositadas pelos secretários ou distribuidores no estabelecimento destinado a esse fim ou suas delegações, à ordem do presidente ou juiz do respectivo tribunal, indicando-se no boletim de identidade que o depósito é feito em nome do «cofre do tribunal de ...» ou do «juízo da comarca de ...». Para este efeito será passado um cheque em favor do distribuidor ou secretário, que depositará a importância levantada no cofre do tribunal.
 
-###### Art. 192.º No fim de cada mês o distribuidor afixará à porta do tribunal uma relação das pessoas que tenham ainda a receber algum cheque e entregará nos dias de distribuição esses cheques aos interessados que, por si ou por meio do procurador bastante, se apresentem a recebê-los. Nessa relação indicará quais os interessados, qual a quantia que cada um tem a receber, declarará que é nos dias de distribuição que poderão ser entregues os cheques e sòmente no prazo de três meses, a contar da afixação
+Art. 192.º No fim de cada mês o distribuidor afixará à porta do tribunal uma relação das pessoas que tenham ainda a receber algum cheque e entregará nos dias de distribuição esses cheques aos interessados que, por si ou por meio do procurador bastante, se apresentem a recebê-los. Nessa relação indicará quais os interessados, qual a quantia que cada um tem a receber, declarará que é nos dias de distribuição que poderão ser entregues os cheques e sòmente no prazo de três meses, a contar da afixação
 
 § 1.º Passados estes três meses a importância dos cheques não entregues prescreverá ipso facto a favor do cofre do tribunal.
 
@@ -1544,17 +1585,17 @@ O escrivão passará e entregará às partes, ou a quem as solicitar em seu nome
 
 § 4.º Havendo inventário ou habilitação, o prazo de três meses para a prescrição começará a correr do trânsito em julgado da respectiva sentença, se antes estiver concluído o processo da liquidação da contribuição de registo, ou da terminação deste, se for posterior àquele.
 
-###### Art. 193.º Quando as execuções por custas não se ultimarem dentro de seis meses a contar da data da conta e houver preparo feito fica o escrivão obrigado a remeter o processo ao contador para proceder à distribuição e rateio do que estiver recebido, observando em seguida o que fica disposto no artigo 187.º
+Art. 193.º Quando as execuções por custas não se ultimarem dentro de seis meses a contar da data da conta e houver preparo feito fica o escrivão obrigado a remeter o processo ao contador para proceder à distribuição e rateio do que estiver recebido, observando em seguida o que fica disposto no artigo 187.º
 
-###### Art. 194.º Na primeira distribuição de cada trimestre serão, pelo juiz, tomadas as contas aos distribuidores ou escrivães, relativamente ao trimestre findo, com assistência do Ministério Público e estando presentes os escrivães, os quais darão sobre o assunto os esclarecimentos que lhes forem exigidos, lavrando-se termo, de que será enviada cópia ao presidente da Relação, com os documentos referidos no § único do artigo 174.º
+Art. 194.º Na primeira distribuição de cada trimestre serão, pelo juiz, tomadas as contas aos distribuidores ou escrivães, relativamente ao trimestre findo, com assistência do Ministério Público e estando presentes os escrivães, os quais darão sobre o assunto os esclarecimentos que lhes forem exigidos, lavrando-se termo, de que será enviada cópia ao presidente da Relação, com os documentos referidos no § único do artigo 174.º
 
-###### Art. 195.º O estabelecimento competente liquidará juros a favor dos respectivos tribunais das quantias depositadas, à semelhança do que faz com os outros depositantes, para custear as despesas com os livros, cadernetas, cheques, constituindo tais importâncias receita do cofre do tribunal.
+Art. 195.º O estabelecimento competente liquidará juros a favor dos respectivos tribunais das quantias depositadas, à semelhança do que faz com os outros depositantes, para custear as despesas com os livros, cadernetas, cheques, constituindo tais importâncias receita do cofre do tribunal.
 
-###### Art. 196.º Os secretários ou escrivães, desde que continuem os actos do processo ou dêem começo às diligências para que seja preciso preparo prévio ou o pagamento dos custas, sem que do processo conste a entrega das respectivas guias e a ele esteja junto o recibo do estabelecimento competente, ficam responsáveis pelas importâncias do preparo ou pela importância total da diligência.
+Art. 196.º Os secretários ou escrivães, desde que continuem os actos do processo ou dêem começo às diligências para que seja preciso preparo prévio ou o pagamento dos custas, sem que do processo conste a entrega das respectivas guias e a ele esteja junto o recibo do estabelecimento competente, ficam responsáveis pelas importâncias do preparo ou pela importância total da diligência.
 
-###### Art. 197.º Os secretários e os escrivães são considerados, para todos os efeitos, depositários judiciais das quantias que recebam, quer nos termos deste código, quer por cheque para o pagamento ou transferência, enquanto não existir no processo a prova de depósito, pagamento ou transferência e a declaração que os exima desta responsabilidade.
+Art. 197.º Os secretários e os escrivães são considerados, para todos os efeitos, depositários judiciais das quantias que recebam, quer nos termos deste código, quer por cheque para o pagamento ou transferência, enquanto não existir no processo a prova de depósito, pagamento ou transferência e a declaração que os exima desta responsabilidade.
 
-###### Art. 198.º No princípio de cada mês serão as cadernetas dos depósitos remetidas ao estabelecimento destinado a tal fim.
+Art. 198.º No princípio de cada mês serão as cadernetas dos depósitos remetidas ao estabelecimento destinado a tal fim.
 
 § único. Recebidas as cadernetas serão os lançamentos destas conferidos com aqueles que o escrivão respectivo é obrigado a lançar em livro especial.
 
@@ -1564,27 +1605,27 @@ No fim de cada mês o escrivão ou secretário somará as colunas do deve e have
 
 Os lançamentos das guias devem ser feitos logo após o seu recebimento na secretaria ou cartório, não podendo, em momento algum, existir espaços ou linhas em branco anteriores ao último lançamento.
 
-###### Art. 199.º O agente do Ministério Público conferirá, pelo menos quinzenalmente, os lançamentos nos livros dos escrivães, apondo-lhes o seu visto.
+Art. 199.º O agente do Ministério Público conferirá, pelo menos quinzenalmente, os lançamentos nos livros dos escrivães, apondo-lhes o seu visto.
 
-###### Art. 200.º À medida que for verificando as contas, nos termos do artigo 84.º, § 1.º, o agente do Ministério Público lançará em livro próprio o número da conta, o número do processo e a data da verificação. Instaurada a execução ou recebido o processo para o visto do artigo 199.º, aquele magistrado anotará no livro a data correspondente.
+Art. 200.º À medida que for verificando as contas, nos termos do artigo 84.º, § 1.º, o agente do Ministério Público lançará em livro próprio o número da conta, o número do processo e a data da verificação. Instaurada a execução ou recebido o processo para o visto do artigo 199.º, aquele magistrado anotará no livro a data correspondente.
 
 VI
 
 Disposições diversas
 
-###### Art. 201.º Os administradores de falências deverão prestar caução de 10000$00 a 20000$00, antes de tomarem posse ou entrarem em exercício de funções, quando o juiz assim o entender.
+Art. 201.º Os administradores de falências deverão prestar caução de 10000$00 a 20000$00, antes de tomarem posse ou entrarem em exercício de funções, quando o juiz assim o entender.
 
-###### Art. 202.º Os secretários de Fazenda são obrigados, sob pena de responsabilidade disciplinar, a enviar, até ao dia 15 de cada mês, ao agente do Ministério Público da respectiva comarca, ou da 1.ª vara, quando houver mais do que uma:
+Art. 202.º Os secretários de Fazenda são obrigados, sob pena de responsabilidade disciplinar, a enviar, até ao dia 15 de cada mês, ao agente do Ministério Público da respectiva comarca, ou da 1.ª vara, quando houver mais do que uma:
 
 1) Uma relação donde constem os nomes dos autores das heranças e dos herdeiros ou responsáveis pelo pagamento das transmissões liquidadas no mês anterior;
 
 2) Uma relação dos processos de liquidação de imposto sucessório instaurados no mês anterior, com a indicação do nome do autor da herança, data e local do óbito, nomes, idades e moradas das pessoas que lhe sucederem.
 
-###### Art. 203.º Não se publicarão anúncios por conta do cofre do tribunal nas execuções por custas e em todos os casos de diminuta importância em que o juiz os considere dispensáveis.
+Art. 203.º Não se publicarão anúncios por conta do cofre do tribunal nas execuções por custas e em todos os casos de diminuta importância em que o juiz os considere dispensáveis.
 
-###### Art. 204.º As disposições deste código aplicam-se apenas aos processos instaurados após a sua entrada em vigor.
+Art. 204.º As disposições deste código aplicam-se apenas aos processos instaurados após a sua entrada em vigor.
 
-###### Art. 205.º Para efeitos de limite de remunerações serão consideradas em relação aos oficiais de justiça as seguintes categorias:
+Art. 205.º Para efeitos de limite de remunerações serão consideradas em relação aos oficiais de justiça as seguintes categorias:
 
 1) Secretários das Relações ... D
 
@@ -1596,7 +1637,7 @@ Disposições diversas
 
 § 2.º O limite referido no corpo do artigo é considerado em função do vencimento anual, no qual fica incluído o correspondente subsídio de renda de casa.
 
-###### Art. 206.º Logo que entre em vigor este código, apurar-se-ão por cada cartório os saldos do livro de contas correntes com a Caixa Económica Postal.
+Art. 206.º Logo que entre em vigor este código, apurar-se-ão por cada cartório os saldos do livro de contas correntes com a Caixa Económica Postal.
 
 § 1.º Nas comarcas onde se verificar existirem em depósito na caixa económica quantias superiores ao total daquele saldo será o excesso escriturado em livro especial e procurar-se-á determinar a sua proveniência.
 
@@ -1610,6 +1651,6 @@ Do seu montante o administrador do cofre dará anualmente conhecimento ao presid
 
 Esta disposição aplica-se aos depósitos efectuados até à data de publicação do presente código.
 
-###### Art. 207.º (transitório) A escrituração dos encargos judiciais resultantes da aplicação deste código continuará a fazer-se, com as necessárias adaptações, nos livros de modelos actualmente em vigor, até que sejam criados, por portaria ministerial, novos modelos.
+Art. 207.º (transitório) A escrituração dos encargos judiciais resultantes da aplicação deste código continuará a fazer-se, com as necessárias adaptações, nos livros de modelos actualmente em vigor, até que sejam criados, por portaria ministerial, novos modelos.
 
 Ministério do Ultramar, 20 de Julho de 1961. - O Ministro do Ultramar, Adriano José Alves Moreira.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/4/2026/06/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/4-2026-1134835838
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-22T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dac4ed52392be1bf183848058606115514fa07398349eb7d91a254768724ddbf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15aa1fdc57b3f80f68af60aeabd977585f4beb5d87e73fe6123d1d1888e5e3d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Processo Civil
-- Processo Penal
 - Código de Processo Penal
+- Direito Civil
 - Indemnização
 - Interpretação do Direito
 - Jurisprudencia
-- Supremo Tribunal de Justiça
+- Processo Civil
+- Processo Penal
 - Responsabilidade Civil
-- Direito Civil
+- Supremo Tribunal de Justiça
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/23/2018/06/05/p/dre
@@ -84,16 +84,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/83/1995/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/83/1995/08/31/p/dre
+- type: cites
+  target: pt:dre:115456103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662562:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:33Z'
   warnings: []
   errors: []
 ---
@@ -180,7 +196,7 @@ Considerou, por tudo isso, que tais circunstâncias sobrelevam as razões de eco
 
 Além do mais, ainda que assim se não pudesse entender, sempre se imporia concluir, no caso dos autos, pela competência material do Tribunal de que procede o recurso, dada a falta de prova - necessariamente documental - do facto fundamental de que depende a actuação do princípio da adesão: a instauração e a pendência do processo penal, pelos factos, em abstracto, criminalmente puníveis, invocados pela autora como causa de pedir do pedido de indemnização.
 
-Por último, e ainda segundo o Acórdão recorrido, sempre seria de recusar a procedência da excepção da incompetência material, com fundamento na violação do princípio da adesão, no tocante ao pedido de restituição formulado pela autora assente no enriquecimento sem causa, dado que tal pedido não tem natureza ressarcitória, mas antes carácter restituitório e, portanto, não constitui, juntamente com a respectiva causa de pedir, uma acção popular civil que seja admissível enxertar no processo penal (artigos 473.º, n.º 1, e 479.º, n.<sup>os</sup>1 e 2, do Código Civil).
+Por último, e ainda segundo o Acórdão recorrido, sempre seria de recusar a procedência da excepção da incompetência material, com fundamento na violação do princípio da adesão, no tocante ao pedido de restituição formulado pela autora assente no enriquecimento sem causa, dado que tal pedido não tem natureza ressarcitória, mas antes carácter restituitório e, portanto, não constitui, juntamente com a respectiva causa de pedir, uma acção popular civil que seja admissível enxertar no processo penal (artigos 473.º, n.º 1, e 479.º, n.os1 e 2, do Código Civil).
 
 Notificada dessa decisão veio a recorrente, Pingo Doce, Distribuição Alimentar, SA, por requerimento electrónico apresentado no dia 2 de Junho de 2025, interpor deste acórdão recurso extraordinário para uniformização de jurisprudência no qual pede que seja proferido acórdão uniformizador de jurisprudência no sentido do acórdão-fundamento proferido em 12 de Outubro de 2023, no processo 898/22.1T8VRL.S1, estabelecendo-se que o juízo central cível é incompetente em razão da matéria para julgar uma acção popular em que se imputa à ré a prática de ilícitos penais e contraordenacionais, revogando-se o acórdão recorrido e sendo o mesmo substituído por novo acórdão em conformidade com o decidido.
 
@@ -214,9 +230,9 @@ A autora, na resposta, depois de observar que embora a questão suscitada tenha 
 
 2 - Admissibilidade do recurso
 
-Começa por salientar-se que “a natureza extraordinária do recurso e o facto de visar a impugnação de um acórdão do Supremo impõe, naturalmente, que se deva ser rigoroso tanto no cumprimento dos requisitos materiais e formais, como na verificação desse cumprimento. A natureza “extraordinária” do recurso justifica que seja reservado para situação que inequivocamente preencham os pressupostos legais, com especial destaque para a verificação de uma verdadeira contradição jurídica essencial e para a demonstração do acórdão fundamento.” <sup>1</sup>
+Começa por salientar-se que “a natureza extraordinária do recurso e o facto de visar a impugnação de um acórdão do Supremo impõe, naturalmente, que se deva ser rigoroso tanto no cumprimento dos requisitos materiais e formais, como na verificação desse cumprimento. A natureza “extraordinária” do recurso justifica que seja reservado para situação que inequivocamente preencham os pressupostos legais, com especial destaque para a verificação de uma verdadeira contradição jurídica essencial e para a demonstração do acórdão fundamento.” 1
 
-Ora, verificados que estão os pressupostos de admissibilidade formal do presente recurso extraordinário, pois como se afirma no despacho que decidiu pela verificação dos pressupostos de admissibilidade do presente recurso extraordinário de uniformização de jurisprudência, datado de 11-07-2025 (Relator: Juiz Conselheiro Henrique Antunes), é indiscutível a legitimidade da recorrente - dado que ficou vencida no acórdão recorrido, passado em julgado - e a tempestividade da interposição do recurso extraordinário (artigos 138.º, n.os 1 e 2, 139.º, n.os 1 e 3, 247.º, n.º 1, 248.º 1, 629.º, n.º 1, 631.º, n.º 1, 637.º, n.º 1 e 689.º, n.º 1, do CPC), cumpre, ainda assim, por resultar da análise conjugada dos n.<sup>os</sup>3 e 4 do art. 692.º do CPC, que o Pleno pode entender em sentido diverso do despacho do Relator, averiguar se existe ou não contradição de julgados relevante.
+Ora, verificados que estão os pressupostos de admissibilidade formal do presente recurso extraordinário, pois como se afirma no despacho que decidiu pela verificação dos pressupostos de admissibilidade do presente recurso extraordinário de uniformização de jurisprudência, datado de 11-07-2025 (Relator: Juiz Conselheiro Henrique Antunes), é indiscutível a legitimidade da recorrente - dado que ficou vencida no acórdão recorrido, passado em julgado - e a tempestividade da interposição do recurso extraordinário (artigos 138.º, n.os 1 e 2, 139.º, n.os 1 e 3, 247.º, n.º 1, 248.º 1, 629.º, n.º 1, 631.º, n.º 1, 637.º, n.º 1 e 689.º, n.º 1, do CPC), cumpre, ainda assim, por resultar da análise conjugada dos n.os3 e 4 do art. 692.º do CPC, que o Pleno pode entender em sentido diverso do despacho do Relator, averiguar se existe ou não contradição de julgados relevante.
 
 Dispõe o art. 688.º, n.º 1, do CPC, que “as partes podem interpor recurso para o pleno das secções cíveis quando o Supremo Tribunal de Justiça proferir acórdão que esteja em contradição com outro anteriormente proferido pelo mesmo tribunal, no domínio da mesma legislação e sobre a mesma questão fundamental de direito.”.
 
@@ -296,19 +312,19 @@ Em sentido, diferente, o Acórdão do Tribunal da Relação de Coimbra, de 25 de
 
 Por último, no sentido propugnado no Acórdão fundamento, para além deste, o Acórdão do Tribunal da Relação de Coimbra, de 10 de Setembro de 2024, Processo n.º 386/23.9T8CTB.C1, disponível no mesmo sítio dos anteriores.
 
-Apreciando a questão da uniformização jurisprudencial em apreço, tem de ter-se, desde logo, em consideração que o artigo 71.º do Código de Processo Penal, contempla, como regra, o princípio da adesão obrigatória da acção cível ao processo penal e, como exceção, a dedução do pedido civil fora do processo penal, que apenas é permitida nas situações, expressamente, previstas no art. 72.º do CPP. <sup>2</sup>
+Apreciando a questão da uniformização jurisprudencial em apreço, tem de ter-se, desde logo, em consideração que o artigo 71.º do Código de Processo Penal, contempla, como regra, o princípio da adesão obrigatória da acção cível ao processo penal e, como exceção, a dedução do pedido civil fora do processo penal, que apenas é permitida nas situações, expressamente, previstas no art. 72.º do CPP. 2
 
 Trata-se de uma opção de política legislativa que foi consagrada no nosso sistema jurídico-penal, atenta a complexidade do facto material (infração penal) que dá origem à ação penal e à ação cível e a necessidade de assegurar uma posição de equilíbrio entre os interesses públicos, subjacentes ao princípio da adesão obrigatória, e os interesses dos lesados.
 
-Como sublinha Henriques Gaspar<sup>3</sup>, a lei processual acolheu o sistema da interdependência das duas ações ou da adesão, que tem como elemento essencial a obrigatoriedade de juntar a acção civil à acção penal, permitindo que a jurisdição penal se pronuncie sobre o objecto da acção civil, mas cujos objetos, «não obstante a identidade do facto material que constitui a referência dos pressupostos respetivos, mantém-se distintos e autónomos, valendo para cada um as regras substantivas<sup>4</sup> e, mesmo, processuais.
+Como sublinha Henriques Gaspar3, a lei processual acolheu o sistema da interdependência das duas ações ou da adesão, que tem como elemento essencial a obrigatoriedade de juntar a acção civil à acção penal, permitindo que a jurisdição penal se pronuncie sobre o objecto da acção civil, mas cujos objetos, «não obstante a identidade do facto material que constitui a referência dos pressupostos respetivos, mantém-se distintos e autónomos, valendo para cada um as regras substantivas4 e, mesmo, processuais.
 
-A favor do princípio da adesão apontam-se, como realça Henriques Gaspar, “razões práticas de economia processual, radicadas logo na própria natureza consequencialmente complexa do facto material que da origem a ambas as acções: o princípio de economia processual exigirá que no mesmo tribunal e no mesmo processo se decida sobre os danos originados pelo mesmo facto, ainda que eventualmente ocorra decisão absolutória sobre os efeitos penais; a adesão constitui um mecanismo processual apto a promover o resultado de uniformização de julgados, adequar-se-á à ideia de maior rapidez de decisão sobre a reparação devida pelo crime quando em confronto com as puras regras próprias do processo civil, e ainda com as vantagens que possam resultar da própria cooperação dada ao processo penal em função ou por força de interesses privados” <sup>5</sup> (também neste sentido, cf., entre outros, os acórdão do STJ de 15/03/2023<sup>6</sup>, de 23-05-2019<sup>7</sup> e de 07-05-2020<sup>8</sup>).
+A favor do princípio da adesão apontam-se, como realça Henriques Gaspar, “razões práticas de economia processual, radicadas logo na própria natureza consequencialmente complexa do facto material que da origem a ambas as acções: o princípio de economia processual exigirá que no mesmo tribunal e no mesmo processo se decida sobre os danos originados pelo mesmo facto, ainda que eventualmente ocorra decisão absolutória sobre os efeitos penais; a adesão constitui um mecanismo processual apto a promover o resultado de uniformização de julgados, adequar-se-á à ideia de maior rapidez de decisão sobre a reparação devida pelo crime quando em confronto com as puras regras próprias do processo civil, e ainda com as vantagens que possam resultar da própria cooperação dada ao processo penal em função ou por força de interesses privados” 5 (também neste sentido, cf., entre outros, os acórdão do STJ de 15/03/20236, de 23-05-20197 e de 07-05-20208).
 
 Visa-se, desta forma, promover a economia de meios e a celeridade processual, definindo juridicamente no mesmo processo, de forma concentrada e expedita, todas as questões (de natureza cível e criminal) relacionadas com a prática dos factos criminosos pelo lesante, sujeito passivo da obrigação de indemnizar os lesados, privilegiando-se assim a análise global e unitária da matéria em discussão, que será feita perante o mesmo órgão jurisdicional e num único julgamento que congregará ambas as vertentes.
 
 Por essa via, pretende-se, também evitar a eventualidade de uma contradição de julgados (entre as decisões proferidas nas instâncias penal e cível) relativamente aos mesmos factos e sujeitos, o que, a acontecer, constituiria factor de perturbação e instabilidade para a ordem e segurança jurídicas, bem como motivo de desprestígio na administração da Justiça.
 
-A norma do art. 71.º do CPP não constitui, assim, uma norma de competência nem de jurisdição<sup>9</sup>, compreendendo, ao invés, “uma regra processual penal, ao permitir o pedido civil nesse processo, e outra processual civil, ao consagrar uma exceção dilatória inominada de conhecimento oficioso, em conjugação com o disposto nos artigos 278.º, n.º 1, e), 576.º, n.os 1 e 2, e 578.º do Código de Processo Civil (CPC).” <sup>10</sup>
+A norma do art. 71.º do CPP não constitui, assim, uma norma de competência nem de jurisdição9, compreendendo, ao invés, “uma regra processual penal, ao permitir o pedido civil nesse processo, e outra processual civil, ao consagrar uma exceção dilatória inominada de conhecimento oficioso, em conjugação com o disposto nos artigos 278.º, n.º 1, e), 576.º, n.os 1 e 2, e 578.º do Código de Processo Civil (CPC).” 10
 
 E sendo irrecusável a existência de conexão entre as duas acções desde logo imposta pela unidade de causa - ambas se originam em uma e mesma infracção - o certo é que não se confundem, podendo mesmo considerar-se, jurídico-intencionalmente distintas.
 
@@ -316,27 +332,27 @@ Por outro lado, se é certo terem carácter público os interesses que ditaram a
 
 Tratando-se no caso em análise de ação popular, nela, “o autor representa por iniciativa própria, com dispensa de mandato ou autorização expressa, todos os demais titulares dos direitos ou interesses em causa que não tenham exercido o direito de auto-exclusão” (art. 14.º da [Lei n.º 83/95](https://diariodarepublica.pt/dr/detalhe/lei/83-1995-548464), de 31 de agosto, doravante LAP) para “a prevenção, a cessação ou a perseguição judicial das infrações previstas no n.º 3 do artigo 52.º da Constituição” (art. 1.º/1 da LAP).
 
-Como sublinha Jorge Miranda, o direito de ação popular supera a garantia de tutela subjetiva prevista no art. 20.º/1 da CRP, permitindo “a todos os membros de uma comunidade que atuem como «guardiães» de bens jurídicos em que todos são indistintamente interessados apenas pela circunstância de integrarem a comunidade em causa.” <sup>11</sup>
+Como sublinha Jorge Miranda, o direito de ação popular supera a garantia de tutela subjetiva prevista no art. 20.º/1 da CRP, permitindo “a todos os membros de uma comunidade que atuem como «guardiães» de bens jurídicos em que todos são indistintamente interessados apenas pela circunstância de integrarem a comunidade em causa.” 11
 
-Uma das especificidades mais relevantes do regime português de ações populares reside na circunstância de o mesmo assentar num direito constitucional, já que a Constituição não se limita a garantir o direito fundamental de acesso à proteção e de tutela jurisdicional efetiva (art. 20.º /1), consagrando igualmente, de modo expresso, o direito de ação popular, que inequivocamente se extrai do n.º 3 do art. 52.º, na redação conferida pela revisão de 1997<sup>12</sup>.
+Uma das especificidades mais relevantes do regime português de ações populares reside na circunstância de o mesmo assentar num direito constitucional, já que a Constituição não se limita a garantir o direito fundamental de acesso à proteção e de tutela jurisdicional efetiva (art. 20.º /1), consagrando igualmente, de modo expresso, o direito de ação popular, que inequivocamente se extrai do n.º 3 do art. 52.º, na redação conferida pela revisão de 199712.
 
-A jurisprudência do STJ tem realçado que com a acção popular se procuram tutelar “interesses difusos (o que compreende os interesses difusos stricto sensu, os interesses coletivos e os interesses individuais homogéneos), os quais se caraterizam por possuírem uma dimensão individual e supra individual, pela sua titularidade caber a todos e a cada um dos membros de uma classe ou de um grupo (independentemente da sua vontade) e por recaírem sobre bens que podem ser gozados de forma concorrente e não exclusiva” (acórdão de 08-09-2016<sup>13</sup> e, no mesmo sentido, o acórdão de 14-03-2024<sup>14</sup>).
+A jurisprudência do STJ tem realçado que com a acção popular se procuram tutelar “interesses difusos (o que compreende os interesses difusos stricto sensu, os interesses coletivos e os interesses individuais homogéneos), os quais se caraterizam por possuírem uma dimensão individual e supra individual, pela sua titularidade caber a todos e a cada um dos membros de uma classe ou de um grupo (independentemente da sua vontade) e por recaírem sobre bens que podem ser gozados de forma concorrente e não exclusiva” (acórdão de 08-09-201613 e, no mesmo sentido, o acórdão de 14-03-202414).
 
-O regime previsto na LAP é “utilizado para defender interesses abstratos, tais como a saúde pública e o ambiente, e para obter indemnizações para consumidores em situações de danos em massa” <sup>15</sup>, sendo consistentemente afirmado pela jurisprudência portuguesa que a defesa dos interesses individuais homogéneos (de forma típica, o direito a indemnização) só pode ser prosseguido através do mecanismo das ações populares se em causa estiver a proteção de interesses difusos ou coletivos<sup>16</sup>.
+O regime previsto na LAP é “utilizado para defender interesses abstratos, tais como a saúde pública e o ambiente, e para obter indemnizações para consumidores em situações de danos em massa” 15, sendo consistentemente afirmado pela jurisprudência portuguesa que a defesa dos interesses individuais homogéneos (de forma típica, o direito a indemnização) só pode ser prosseguido através do mecanismo das ações populares se em causa estiver a proteção de interesses difusos ou coletivos16.
 
 A LAP (cf. art. 12.º) consagrou duas modalidades de acção popular, tendo em conta o seu objeto ou natureza: uma acção popular administrativa, a instaurar junto dos tribunais administrativos, enquanto expressão de litígios emergentes de relações jurídico-administrativas; e uma acção popular civil.
 
 São titulares do direito procedimental de participação popular e do direito de acção popular quaisquer cidadãos no gozo dos seus direitos civis e políticos e as associações e fundações, independentemente de terem, ou não, interesse direto na demanda e igualmente as autarquias locais, em relação aos interesses de que sejam titulares residentes na área da respetiva circunscrição (art. 2.º da LAP).
 
-De fora do âmbito da acção popular ficam as acções do foro laboral, de natureza fiscal, assim como as acções penais, sem embargo de o legislador prever uma legitimidade popular penal, circunscrita ao direito de denúncia e ao direito de constituição como assistente por parte do titular do direito de acção popular (art. 25.º da LAP) que, por alguns autores, é reconduzida a uma outra modalidade de acção popular, denominada de “quase-ação popular penal.” <sup>17</sup>
+De fora do âmbito da acção popular ficam as acções do foro laboral, de natureza fiscal, assim como as acções penais, sem embargo de o legislador prever uma legitimidade popular penal, circunscrita ao direito de denúncia e ao direito de constituição como assistente por parte do titular do direito de acção popular (art. 25.º da LAP) que, por alguns autores, é reconduzida a uma outra modalidade de acção popular, denominada de “quase-ação popular penal.” 17
 
 A acção popular configura-se, tal como evidencia o acórdão recorrido, logo no plano constitucional, como uma acção principal e instrumento autónomo de defesa preferencial relativamente a outros meios processuais, não tendo, pois, natureza subsidiária nem carácter dependente ou subordinado relativamente de qualquer outra acção ou meio processual, primacialmente ordenado para fim diverso daquele que a caracteriza, que exige, um tratamento especial, por um lado, relativamente à legitimação processual e, por outro, aos efeitos do caso julgado (artigo 59.º da Constituição da República Portuguesa).”
 
 Ou seja, uma correta interpretação do regime da acção popular leva o intérprete a constatar a existência de uma relevante diferença estrutural entre esta e as comuns acções de responsabilidade civil extracontratual, suscetíveis de ser enxertadas no processo penal, nos termos previstos nos arts. 71.º e seguintes do CPP.
 
-Está desde logo em equação uma legitimidade processual alargada, que atende à natureza dos interesses que através dela se visa prosseguir, interesses dotados a um tempo de uma dimensão individual e de uma dimensão supra-individual<sup>18</sup>.
+Está desde logo em equação uma legitimidade processual alargada, que atende à natureza dos interesses que através dela se visa prosseguir, interesses dotados a um tempo de uma dimensão individual e de uma dimensão supra-individual18.
 
-Nesta medida, o autor na acção popular não é titular de um interesse direto e pessoal que lhe confira legitimidade para deduzir pedido de indemnização cível no âmbito do processo-crime (art. 74.º/1 do CPP).<sup>19</sup>
+Nesta medida, o autor na acção popular não é titular de um interesse direto e pessoal que lhe confira legitimidade para deduzir pedido de indemnização cível no âmbito do processo-crime (art. 74.º/1 do CPP).19
 
 Como resulta do acórdão recorrido, “a legitimidade popular penal limita-se ao direito do autor popular de dar notícia do crime ao Ministério Público e de se constituir assistente no processo penal, apesar da legitimidade para a constituição de assistente, exercida embora fora da acção popular, ser ainda, uma legitimidade popular, pertencendo a qualquer titular do direito de acção popular.”
 
@@ -388,19 +404,19 @@ No entanto, não se mostram comprovadas nos autos, através da necessária prova
 
 Nessa medida e como resulta do anteriormente exposto, tem sido entendimento maioritário na Jurisprudência mais recente do STJ, o de que a acção popular não se encontra sujeita à regra da adesão obrigatória ao processo penal, sendo tal perspetiva a que melhor se coaduna com o carácter autónomo da acção popular.
 
-Sendo, assim, de afirmar, com o Acórdão de 13-03-2025<sup>20</sup>, “que a hipótese a que se dirige o artigo 71.º do CPP (princípio de adesão) é a de um pedido de indemnização civil fundado na prática de um crime, enquanto o que está em causa na acção popular (e ainda que o único pedido nela deduzido seja a indemnização baseada na violação dos interesses previstos no n.º 1 da [Lei n.º 83/95](https://diariodarepublica.pt/dr/detalhe/lei/83-1995-548464) que revista natureza penal) é o exercício de um direito de natureza distinta - o direito de acção popular. Este é exercido sempre nos termos daquela lei, correspondendo-lhe uma tramitação própria e, em certa medida, autónoma.”
+Sendo, assim, de afirmar, com o Acórdão de 13-03-202520, “que a hipótese a que se dirige o artigo 71.º do CPP (princípio de adesão) é a de um pedido de indemnização civil fundado na prática de um crime, enquanto o que está em causa na acção popular (e ainda que o único pedido nela deduzido seja a indemnização baseada na violação dos interesses previstos no n.º 1 da [Lei n.º 83/95](https://diariodarepublica.pt/dr/detalhe/lei/83-1995-548464) que revista natureza penal) é o exercício de um direito de natureza distinta - o direito de acção popular. Este é exercido sempre nos termos daquela lei, correspondendo-lhe uma tramitação própria e, em certa medida, autónoma.”
 
 Por tudo isto, tendo-se, embora, quer doutrinaria, quer jurisprudencialmente, por incontroverso que a competência do tribunal é aferida pelo objecto do processo - causa de pedir e pedido - não menos certo se afigura, tal como decorrre do despacho do Senhor Juíz Conselheiro Relator que admitiu liminarmente o presente recurso, que para a questão da determinação da competência releva, ou pode relevar, também, para além do objecto do processo, a natureza ou as especificidades deste último, ponto especialmente relevante no tocante à acção popular, dado que esta se contradistingue do direito de acção judicial comum não tanto pelo seu objecto - mas sobretudo pelo tratamento especial quanto à legitimidade processual e aos efeitos do caso julgado.
 
 E em geral, a circunstância, realçada pela recorrente, de os factos que integram a causa de pedir apresentarem relevância penal ou contraordenacional não constitui obstáculo a que o tribunal cível profira quanto aos mesmos uma decisão, com efeitos naturalmente circunscritos ao plano civil, tanto mais que, como é consabido, o princípio da adesão obrigatória ao processo penal não tem aplicação absoluta, conhecendo as exceções previstas no art. 72.º do CPP.
 
-Neste enquadramento, Cristina Dá Mesquita, alude “a amplitude dos casos em que cessa a obrigatoriedade de adesão e a margem de livre decisão do lesado nessa sede revelam que o ordenamento tem subjacente a suscetibilidade de pendência simultânea de dois processos independentes fundados em factos constitutivos similares, um sobre a responsabilidade criminal e outro relativo à responsabilidade civil” <sup>21</sup>
+Neste enquadramento, Cristina Dá Mesquita, alude “a amplitude dos casos em que cessa a obrigatoriedade de adesão e a margem de livre decisão do lesado nessa sede revelam que o ordenamento tem subjacente a suscetibilidade de pendência simultânea de dois processos independentes fundados em factos constitutivos similares, um sobre a responsabilidade criminal e outro relativo à responsabilidade civil” 21
 
 Por fim, no caso dos autos sempre seria de admitir a competência do Tribunal Cível de onde procede o recurso, perante a falta de prova de um facto fundamental de que depende a actuação do princípio da adesão: a instauração e a pendência do processo penal, pelos factos, em abstracto, criminalmente puníveis, invocados pela autora como causa de pedir do pedido de indemnização.
 
 Efetivamente, uma correta interpretação, que atenda à teleologia da norma do art. 71.º do CPP, imporá, sem hesitações, considerar, que a aplicação do princípio da adesão pressupõe que exista um processo penal pendente, o que sucede com a aquisição da notícia do crime por parte do Ministério Público, enquanto titular da ação penal (art. 241.º do CPP). Apenas neste caso as finalidades que se encontram subjacentes ao princípio da adesão - relacionadas com a segurança e certeza jurídicas, atingíveis com a coerência entre a decisão civil e a decisão penal, e com a economia processual - apresentam justificação material. A existência de duas ações interdependentes, com distintos objetos, que permanecem autónomos (cf. arts. 129.º do CP e 377.º/1 do CPP), mostra-se, neste sentido, subjacente ao mecanismo processual da adesão.
 
-Por último, sempre seria de recusar a procedência da excepção da incompetência material, com fundamento na violação do princípio da adesão, no tocante ao pedido de restituição formulado pela autora assente no enriquecimento sem causa, dado que tal pedido não tem natureza ressarcitória, mas antes carácter restituitório e, portanto, não constitui, juntamente com a respectiva causa de pedir, uma acção popular civil que seja admissível enxertar no processo penal (artigos 473.º, n.º 1, e 479.º, n.<sup>os</sup>1 e 2, do Código Civil).
+Por último, sempre seria de recusar a procedência da excepção da incompetência material, com fundamento na violação do princípio da adesão, no tocante ao pedido de restituição formulado pela autora assente no enriquecimento sem causa, dado que tal pedido não tem natureza ressarcitória, mas antes carácter restituitório e, portanto, não constitui, juntamente com a respectiva causa de pedir, uma acção popular civil que seja admissível enxertar no processo penal (artigos 473.º, n.º 1, e 479.º, n.os1 e 2, do Código Civil).
 
 Em conclusão e em coerência com o anteriormente exposto, tem de se considerar que no âmbito de uma acção popular em que seja deduzido pedido de indemnização, fundado numa causa de pedir que seja integrada por factos qualificados como crime, a mesma não está submetida ao princípio da adesão ou interdependência da acção civil ao processo penal, previsto no artigo 71.º do Código de Processo Penal, competindo, por isso, a respectiva competência material aos tribunais cíveis, em função do que importa julgar improcedente o recurso, confirmando-se o Acórdão recorrido e uniformizando-se a jurisprudência no sentido nele propugnado.
 
@@ -418,47 +434,47 @@ Custas pela recorrente, “Pingo Doce - Distribuição Alimentar, SA”.
 
 Notifique e oportunamente remeta certidão do acórdão para publicação na 1.ª série do Diário da República.
 
-<sup>1</sup> Abrantes Geraldes, Recursos em Processo Civil, 6.ª Edição Atualizada, Almedina, 2020, p. 549.
+1 Abrantes Geraldes, Recursos em Processo Civil, 6.ª Edição Atualizada, Almedina, 2020, p. 549.
 
-<sup>2</sup> O Código de Processo Penal em vigor, aprovado pelo [Decreto-Lei n.º 78/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1987-662562), de 17 de Fevereiro, por influxo da doutrina que vinha sendo defendido acerca desta matéria pelo Prof. Figueiredo Dias, consagrou, como regra, um regime de adesão obrigatória, suprimindo o arbitramento oficioso de indemnização aos ofendidos a que se reportava o artigo 34.º do Código de 1929.
+2 O Código de Processo Penal em vigor, aprovado pelo [Decreto-Lei n.º 78/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1987-662562), de 17 de Fevereiro, por influxo da doutrina que vinha sendo defendido acerca desta matéria pelo Prof. Figueiredo Dias, consagrou, como regra, um regime de adesão obrigatória, suprimindo o arbitramento oficioso de indemnização aos ofendidos a que se reportava o artigo 34.º do Código de 1929.
 
-<sup>3</sup> In “Código de Processo Penal, Anotado”, 2016, 2.ª ed. revista, pág. 228.
+3 In “Código de Processo Penal, Anotado”, 2016, 2.ª ed. revista, pág. 228.
 
-<sup>4</sup> No plano substantivo, a autonomia da ação civil enxertada no processo penal está expressa no art. 129.º do C. Penal, onde se afirma que «A indemnização de perdas e danos emergentes de crime é regulada pela lei civil».
+4 No plano substantivo, a autonomia da ação civil enxertada no processo penal está expressa no art. 129.º do C. Penal, onde se afirma que «A indemnização de perdas e danos emergentes de crime é regulada pela lei civil».
 
-<sup>5</sup> António Henriques Gaspar, Código de Processo Penal Comentado, 4.ª edição, Coimbra, Almedina, 2022, p. 218. Também neste sentido, Germano Marques da Silva, Curso de Processo Penal, volume I, 5.ª edição, Lisboa, Verbo, 2008, p. 128.
+5 António Henriques Gaspar, Código de Processo Penal Comentado, 4.ª edição, Coimbra, Almedina, 2022, p. 218. Também neste sentido, Germano Marques da Silva, Curso de Processo Penal, volume I, 5.ª edição, Lisboa, Verbo, 2008, p. 128.
 
-<sup>6</sup> Processo n.º 4303/20.0T8VIS.C1-A.S1, relatado por Ana Resende, disponível em https://juris.stj.pt/4303 %2F20.0T8VIS.C1-A.S/22XKnewT8cgba4Iq3KWgoDOsADc?search=mSJ5Pjdt13NJUTaI49c.
+6 Processo n.º 4303/20.0T8VIS.C1-A.S1, relatado por Ana Resende, disponível em https://juris.stj.pt/4303 %2F20.0T8VIS.C1-A.S/22XKnewT8cgba4Iq3KWgoDOsADc?search=mSJ5Pjdt13NJUTaI49c.
 
-<sup>7</sup> Processo n.º 9918/15.5T8LRS.L1.S1, relatado por Ilídio Sacarrão Martins, disponível em https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/2dff487bdcb2a771802584030060ea0b?OpenDocument.
+7 Processo n.º 9918/15.5T8LRS.L1.S1, relatado por Ilídio Sacarrão Martins, disponível em https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/2dff487bdcb2a771802584030060ea0b?OpenDocument.
 
-<sup>8</sup> Processo n.º 900/19.4T8CTB-A.C1.S1, relatado por Rosa Tching, inédito.
+8 Processo n.º 900/19.4T8CTB-A.C1.S1, relatado por Rosa Tching, inédito.
 
-<sup>9</sup> Cfr., neste sentido, António Henriques Gaspar, Código de Processo Penal Comentado, 4.ª edição, Coimbra, Almedina, 2022, p. 219.
+9 Cfr., neste sentido, António Henriques Gaspar, Código de Processo Penal Comentado, 4.ª edição, Coimbra, Almedina, 2022, p. 219.
 
-<sup>10</sup> Cristina Dá Mesquita, “Prova na ação de responsabilidade civil fundada na prática de crime e factos provados na fundamentação da sentença penal”, Julgar online, janeiro de 2018, p. 6.
+10 Cristina Dá Mesquita, “Prova na ação de responsabilidade civil fundada na prática de crime e factos provados na fundamentação da sentença penal”, Julgar online, janeiro de 2018, p. 6.
 
-<sup>11</sup> Jorge Miranda, “Associação de consumidores e o direito de ação popular”, O Direito, ano 154.º, IV, 2022, p. 802.
+11 Jorge Miranda, “Associação de consumidores e o direito de ação popular”, O Direito, ano 154.º, IV, 2022, p. 802.
 
-<sup>12</sup> Cfr., neste sentido, Miguel Sousa Ferro, “Ações populares cíveis em Portugal”, Liber amicorum Pedro Pais de Vasconcelos, Coimbra, Almedina, 2022, p. 175.
+12 Cfr., neste sentido, Miguel Sousa Ferro, “Ações populares cíveis em Portugal”, Liber amicorum Pedro Pais de Vasconcelos, Coimbra, Almedina, 2022, p. 175.
 
-<sup>13</sup> Processo n.º 7617/15.T8PRT.S1, relatado por Oliveira Vasconcelos, inédito.
+13 Processo n.º 7617/15.T8PRT.S1, relatado por Oliveira Vasconcelos, inédito.
 
-<sup>14</sup> Processo n.º 30755/22.STBLSB.S1, relatado por Nuno Ataíde das Neves, disponível em https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/45c84b9da4470a3d80258ae1007d51fd?OpenDocument.
+14 Processo n.º 30755/22.STBLSB.S1, relatado por Nuno Ataíde das Neves, disponível em https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/45c84b9da4470a3d80258ae1007d51fd?OpenDocument.
 
-<sup>15</sup> Miguel Sousa Ferro, “Ações populares cíveis em Portugal”, Liber amicorum Pedro Pais de Vasconcelos, Coimbra, Almedina, 2022, p. 175.
+15 Miguel Sousa Ferro, “Ações populares cíveis em Portugal”, Liber amicorum Pedro Pais de Vasconcelos, Coimbra, Almedina, 2022, p. 175.
 
-<sup>16</sup> Miguel Sousa Ferro, “Ações populares cíveis em Portugal”, Liber amicorum Pedro Pais de Vasconcelos, Coimbra, Almedina, 2022, p. 175.
+16 Miguel Sousa Ferro, “Ações populares cíveis em Portugal”, Liber amicorum Pedro Pais de Vasconcelos, Coimbra, Almedina, 2022, p. 175.
 
-<sup>17</sup> Paulo Otero, “A Ação Popular: configuração e valor no atual Direito português”, Revista da Ordem dos Advogados, pp. 881-882.
+17 Paulo Otero, “A Ação Popular: configuração e valor no atual Direito português”, Revista da Ordem dos Advogados, pp. 881-882.
 
-<sup>18</sup> Miguel Teixeira de Sousa, A legitimidade popular na tutela dos interesses difusos, Lisboa, Lex, 2003, pp. 44-45.
+18 Miguel Teixeira de Sousa, A legitimidade popular na tutela dos interesses difusos, Lisboa, Lex, 2003, pp. 44-45.
 
-<sup>19</sup> O pedido de indemnização é deduzido pelo lesado, entendendo-se como tal a pessoa que sofreu danos ocasionados pelo crime, ainda que se não tenha constituído ou não possa constituir-se assistente.
+19 O pedido de indemnização é deduzido pelo lesado, entendendo-se como tal a pessoa que sofreu danos ocasionados pelo crime, ainda que se não tenha constituído ou não possa constituir-se assistente.
 
-<sup>20</sup> Processo n.º 5623/23.7T8BRG.S1, relatado por Catarina Serra, disponível em https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/8112a1991e81f9a280258c4c00611568?OpenDocument.
+20 Processo n.º 5623/23.7T8BRG.S1, relatado por Catarina Serra, disponível em https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/8112a1991e81f9a280258c4c00611568?OpenDocument.
 
-<sup>21</sup> Cristina Dá Mesquita, “Prova na ação de responsabilidade civil fundada na prática de crime e factos provados na fundamentação da sentença penal”, Julgar online, janeiro de 2018, p. 7.
+21 Cristina Dá Mesquita, “Prova na ação de responsabilidade civil fundada na prática de crime e factos provados na fundamentação da sentença penal”, Julgar online, janeiro de 2018, p. 7.
 
 Lisboa, 19 de Maio de 2026. - Arlindo Oliveira (relator) - Isoleta de Almeida Costa - Eduarda Branquinho - Maria Clara Sottomayor - Maria da Graça Trigo (vencida quanto à admissibilidade do recurso nos termos da declaração da Senhora Conselheira Maria dos Prazeres Beleza) - Fátima Gomes - Graça Amaral - António Oliveira Abreu - Maria João Vaz Tomé (votei vencida na admissibilidade do recurso nos termos da declaração apresentada pela Senhora Conselheira Maria dos Prazeres Beleza) - Nuno Pinto Oliveira - Ricardo Costa - A. Barateiro Martins - Fernando Baptista - Luís Espírito Santo - Ana Paula Lobo (tem voto de conformidade da Conselheira Ana Paula Lobo que participou por videoconferência) - Isabel Salgado - Jorge Leal - Emídio Santos - Nelson Borges Carneiro - Luís Correia de Mendonça - Maria do Rosário Gonçalves - Maria de Deus Correia - Carlos Portela - Maria dos Prazeres Beleza (vencida, nos termos da declaração junta).
 
@@ -481,3 +497,5 @@ Não me parece que esteja em causa um “processo ou uma acção penal popular�
 Suponho, todavia, que tais diferenças não impedem o funcionamento do princípio da adesão, nem afastam o seu fundamento - apenas implicam as adaptações necessariamente decorrentes das particularidades definidas para as acções populares de indemnização.
 
 Lisboa, 19 de Maio de 2026. - Maria dos Prazeres Pizarro Beleza.
+
+119948847

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45200-1963-693986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-08-19T00:00:00Z'
+  retrieved_at: '2026-10-22T19:36:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8cdc952910c8f32fdeddbbfbd97430c8a9c7ccdd62965d609e64da8c3c09aa2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6333fc2a514d0fb8ac0e31558741128e4bce9ef2c404ec9e06075ec05a8aaeb8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:36:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:341013:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:36:18Z'
   warnings: []
   errors: []
 ---
@@ -93,13 +97,13 @@ E tendo em vista o preceituado na alínea a) do n.º IV da base X da Lei Orgâni
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. Ao artigo 1.º do [Decreto n.º 42002](https://diariodarepublica.pt/dr/detalhe/decreto/42002-1958-341013), de 5 de Dezembro de 1958, é editado um § único, pelo que o referido artigo passa a ter a seguinte redacção:
+Artigo único. Ao artigo 1.º do [Decreto n.º 42002](https://diariodarepublica.pt/dr/detalhe/decreto/42002-1958-341013), de 5 de Dezembro de 1958, é editado um § único, pelo que o referido artigo passa a ter a seguinte redacção:
 
-###### Artigo 1.º O Ministro do Ultramar pode autorizar, nas condições do presente decreto, a instalação na província de Moçambique da indústria de refinação de petróleos, em regime de exclusivo, pelo prazo de dez anos, contados da data em que for iniciada a laboração.
+Artigo 1.º O Ministro do Ultramar pode autorizar, nas condições do presente decreto, a instalação na província de Moçambique da indústria de refinação de petróleos, em regime de exclusivo, pelo prazo de dez anos, contados da data em que for iniciada a laboração.
 
 § único. A autorização para a instalação das actividades subsidiárias que sejam necessárias para assegurar uma mais eficiente valorização dos produtos da indústria de refinação poderá ser concedida pelo Ministro do Ultramar sem quaisquer formalidades.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Agosto de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

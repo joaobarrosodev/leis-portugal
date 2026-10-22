@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44494-1962-163656
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-08-06T00:00:00Z'
+  retrieved_at: '2026-10-22T19:30:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ccc32b6895aecdbdb9ce58162865df05fb5628e40c5d1bf0805f7fcf05d0845
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bac0d65548602110eae24e6becfe49b8edb04d01245052582173ea8e20fbb48c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:30:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:163657:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:30:29Z'
   warnings: []
   errors: []
 ---
@@ -87,13 +91,13 @@ Com fundamento no disposto no artigo 10.º do [Decreto-Lei n.º 44495](https://d
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças, a favor dos Ministérios a seguir designados, créditos especiais no montante de 35000000$00, destinados a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças, a favor dos Ministérios a seguir designados, créditos especiais no montante de 35000000$00, destinados a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Ministério da Educação Nacional
 
-### Capítulo 7.º «Direcção-Geral da Educação Física, Desportos e Saúde Escolar»:
+Capítulo 7.º «Direcção-Geral da Educação Física, Desportos e Saúde Escolar»:
 
-###### Artigo 916.º «Outros encargos»:
+Artigo 916.º «Outros encargos»:
 
 N.º 2) «Encargos com o fomento da educação física e dos desportos ([Decreto-Lei n.º 44495](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44495-1962-163657), de 6 de Agosto de 1962)» ... (ver nota c) 18000000$00
 
@@ -101,9 +105,9 @@ N.º 2) «Encargos com o fomento da educação física e dos desportos ([Decreto
 
 Ministério da Saúde e Assistência
 
-### Capítulo 4.º «Direcção-Geral da Assistência»:
+Capítulo 4.º «Direcção-Geral da Assistência»:
 
-###### Artigo 65.º «Outros encargos»:
+Artigo 65.º «Outros encargos»:
 
 N.º 5) «Encargos com a assistência a diminuídos físicos ([Decreto-Lei n.º 44495](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44495-1962-163657), de 6 de Agosto de 1962)» ... (ver nota a) 17000000$00
 
@@ -111,20 +115,20 @@ N.º 5) «Encargos com a assistência a diminuídos físicos ([Decreto-Lei n.º 
 
 (nota a) Sujeita a duplo cabimento.
 
-###### Art. 2.º Para compensação do crédito referido no artigo anterior são inscritas as seguintes dotações no actual orçamento das receitas do Estado:
+Art. 2.º Para compensação do crédito referido no artigo anterior são inscritas as seguintes dotações no actual orçamento das receitas do Estado:
 
-### Capítulo 8.º «Consignações de receitas»:
+Capítulo 8.º «Consignações de receitas»:
 
 Despesas com obras de assistência
 
-###### Artigo 207.º-A «Assistência a diminuídos físicos» ... 17000000$00
+Artigo 207.º-A «Assistência a diminuídos físicos» ... 17000000$00
 
 Fundos especiais para fomento
 
-###### Artigo 245.º-A «Fomento da educação física e dos desportos» ... 18000000$00
+Artigo 245.º-A «Fomento da educação física e dos desportos» ... 18000000$00
 
 ... 35000000$00
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Agosto de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Manuel Lopes de Almeida - Henrique de Miranda Vasconcelos Martins de Carvalho.

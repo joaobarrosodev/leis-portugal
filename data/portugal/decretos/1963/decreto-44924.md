@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44924-1963-194031
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-03-19T00:00:00Z'
+  retrieved_at: '2026-10-22T19:33:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e240af534716d052bfd1fe4f3b7788cf9932ea6836a56c27e04a76780d3c372
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d6f41117dc90de96a597ef97fdb7a91165c4a20c2740658b7debe70f74eed9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:33:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:241850:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:33:57Z'
   warnings: []
   errors: []
 ---
@@ -99,11 +103,11 @@ Nestes termos, tendo em atenção o disposto no artigo 48.º do [Decreto-Lei n.�
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. O itinerário da estrada nacional n.º 3, previsto no mapa I anexo ao [Decreto-Lei n.º 34593](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34593-1945-241850), de 11 de Maio de 1945, é substituído pelo indicado no mapa anexo a este decreto, sendo consequentemente alteradas, conforme consta do mesmo mapa, as classificações das vias nacionais afectadas por esta substituição.
+Artigo único. O itinerário da estrada nacional n.º 3, previsto no mapa I anexo ao [Decreto-Lei n.º 34593](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34593-1945-241850), de 11 de Maio de 1945, é substituído pelo indicado no mapa anexo a este decreto, sendo consequentemente alteradas, conforme consta do mesmo mapa, as classificações das vias nacionais afectadas por esta substituição.
 
 § único. O mapa referido, que vai assinado pelo Ministro das Obras Públicas, constituirá aditamento aos publicados com o [Decreto-Lei n.º 34593](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34593-1945-241850), devendo nestes considerar-se eliminadas as estradas alteradas pelo presente diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Março de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Eduardo de Arantes e Oliveira.
 
@@ -111,6 +115,6 @@ Mapa anexo ao Decreto n.º 44924
 
 Estradas nacionais classificadas nos termos do artigo 1.º do [Decreto-Lei n.º 34593](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34593-1945-241850), de 11 de Maio de 1945
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/03/06600/02710272.pdf))](https://files.diariodarepublica.pt/1s/1963/03/06600/02710272.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/03/06600/02710272.pdf)
 
 Ministério das Obras Públicas, 19 de Março de 1963. - O Ministro das Obras Públicas, Eduardo de Arantes e Oliveira.

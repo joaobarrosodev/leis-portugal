@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/2/2026/02/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/2-2026-1039107596
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-06T00:00:00Z'
+  retrieved_at: '2026-10-22T18:31:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25bb75d50e90ea132a17a96ac2c4be47a827af5a5bf7020e6db2ac08d73ca521
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f593bb0747d8089e62f7e78c53f7dacc527e5b69413e2a469eed1c8673f39838
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:31:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
+- Baldio
 - Boticas
 - Circunscrição Florestal
-- Regime Florestal
-- Baldio
-- Autarquia Local
 - Comunidade Local de Compartes
+- Regime Florestal
 relationships: []
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:31:33Z'
   warnings: []
   errors: []
 ---
@@ -131,18 +131,21 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Governo decreta o
 
 Visto e aprovado em Conselho de Ministros de 11 de dezembro de 2025. - Luís Montenegro - Rui Miguel Ladeira Pereira.
 
-**Assinado em 20 de janeiro de 2026.**
+Assinado em 20 de janeiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de janeiro de 2026.**
+Referendado em 27 de janeiro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 1.º e o n.º 2 do artigo 3.º)
 
 Área a excluir do regime florestal parcial e área a submeter ao regime florestal parcial
 
-![](https://files.diariodarepublica.pt/images/1039107596/1038970800.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1039107596/1038970800.png) |
+| --- |
+
+119947572

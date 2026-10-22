@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43437-1960-513406
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-12-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:21:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36a90eb616685fc4b8fce40e1e6694021e64fd29545cb0703a1834b4eba558d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea688cb5acabd45a3c36914cfeb4d6961a7fc86601c22444eb6416340269164d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:21:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:21:53Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +95,9 @@ Tendo em vista o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Material da Força Aérea a celebrar contrato com a fábrica Nordaviation Société Nationale de Constructions Aéronautiques para o fornecimento de seis aviões Noratlas, motores, sobresselentes, equipamentos e ferramentas.
+Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Material da Força Aérea a celebrar contrato com a fábrica Nordaviation Société Nationale de Constructions Aéronautiques para o fornecimento de seis aviões Noratlas, motores, sobresselentes, equipamentos e ferramentas.
 
-###### Art. 2.º O encargo total com o contrato referido no artigo 1.º não pode exceder 120000000$00 e os correspondentes pagamentos não podem ser superiores aos seguintes:
+Art. 2.º O encargo total com o contrato referido no artigo 1.º não pode exceder 120000000$00 e os correspondentes pagamentos não podem ser superiores aos seguintes:
 
 Em 1961 - 14950000$00, pelo Fundo de Defesa Militar do Ultramar;
 
@@ -103,6 +107,6 @@ Em 1963 - 20000000$00, pelo Fundo de Defesa Militar do Ultramar e 24907000$00 pe
 
 Em 1964 - 20150000$00 pelo Fundo de Defesa Militar do Ultramar e 10093000$00, mais o saldo de 1963, se o houver, pelo Orçamento Geral do Estado.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Júlio Carlos Alves Dias Botelho Moniz - António Manuel Pinto Barbosa.

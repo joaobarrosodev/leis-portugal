@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 176/2001, 4º Suplemento, Série I-B de 2001-07-31
   number: '176'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 4690-(30) a 4690-(30)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/07/176b04/00300030.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/14-e/2001/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-e-2001-684804
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:57:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eda3e9c5aa22333dc5f8fac91a625656eedb201a5bc9a6221b26e5d9b3728ba5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe10fccbc61d514b5748ac32459b74c301d7ad76ada86662a1c3a1531d66e2f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:57:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Licenciamento
-- Radiodifusão
-- Preço
 - Comunicações
+- Licenciamento
+- Preço
+- Radiodifusão
 - Serviços de Radiocomunicações
 - TAXA de Prestação de Serviços
 relationships:
@@ -77,16 +77,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/667-a/2001/07/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/667-a/2001/07/02/p/dre
+- type: cites
+  target: pt:dre:154585:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:57:48Z'
   warnings: []
   errors: []
 ---
@@ -95,6 +99,6 @@ validation:
 
 Segundo comunicação do Ministério do Equipamento Social, a [Portaria n.º 667-A/2001](https://diariodarepublica.pt/dr/detalhe/portaria/667-a-2001-154585), publicada no Diário da República, 1.ª série, n.º 151 (suplemento), de 2 de Julho de 2001, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
 
-Imediatamente antes de cada uma das taxas fixadas em euros, onde se lê [([ver documento original](https://files.diariodarepublica.pt/1s/2001/07/176b04/00300030.pdf))](https://files.diariodarepublica.pt/1s/2001/07/176b04/00300030.pdf) deve ler-se [([ver documento original](https://files.diariodarepublica.pt/1s/2001/07/176b04/00300030.pdf))](https://files.diariodarepublica.pt/1s/2001/07/176b04/00300030.pdf)
+Imediatamente antes de cada uma das taxas fixadas em euros, onde se lê [(ver documento original)](https://files.diariodarepublica.pt/1s/2001/07/176b04/00300030.pdf) deve ler-se [(ver documento original)](https://files.diariodarepublica.pt/1s/2001/07/176b04/00300030.pdf)
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 25 de Julho de 2001. - O Secretário-Geral, Alexandre Figueiredo.

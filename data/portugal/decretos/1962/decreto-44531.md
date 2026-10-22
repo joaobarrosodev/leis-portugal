@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44531-1962-163636
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-08-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:30:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1c121e73a5da2edfae36d1abe4c5995d8ec14d2ec6777a5ad5780f4895696d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c65081da0e1246d58a93a9db4062b9d4adda766eb06fadf7b91ef5461dde235a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:30:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549022:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 48
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:30:46Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +109,9 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovado o Regulamento Florestal, que, junto a este decreto, baixa assinado pelo Ministro do Ultramar.
+Artigo único. É aprovado o Regulamento Florestal, que, junto a este decreto, baixa assinado pelo Ministro do Ultramar.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Agosto de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 
@@ -105,23 +121,23 @@ Regulamento Florestal
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º As formações vegetais integram-se no domínio público ou no património de cada província, conforme recaiam sobre terrenos do domínio público ou do património desta, respectivamente.
+Artigo 1.º As formações vegetais integram-se no domínio público ou no património de cada província, conforme recaiam sobre terrenos do domínio público ou do património desta, respectivamente.
 
 § único. As formações vegetais localizadas em terrenos de domínio público sòmente serão alienáveis depois de classificação, nos termos do artigo 5.º deste diploma.
 
-###### Art. 2.º Para efeitos deste regulamento, as formações vegetais dividem-se em naturais e artificiais, compreendendo estas as matas constituídas artificialmente com espécies autóctones ou exóticas e sujeitas normalmente aos métodos de silvicultura intensiva; e aquelas, as florestas naturais e as savanas, em todas as suas gradações, e as estepes.
+Art. 2.º Para efeitos deste regulamento, as formações vegetais dividem-se em naturais e artificiais, compreendendo estas as matas constituídas artificialmente com espécies autóctones ou exóticas e sujeitas normalmente aos métodos de silvicultura intensiva; e aquelas, as florestas naturais e as savanas, em todas as suas gradações, e as estepes.
 
-###### Art. 3.º As formações vegetais naturais situadas em terrenos sob os regimes a seguir indicados pertencem às entidades adiante referidas:
+Art. 3.º As formações vegetais naturais situadas em terrenos sob os regimes a seguir indicados pertencem às entidades adiante referidas:
 
 1) Em simples demarcação para concessão de terreno, em concessão por arrendamento ou por contrato especial deste tipo ou em ocupação por licença, à província respectiva;
 
 2) Noutras formas de concessão e em propriedades adquiridas sem ser por concessão, aos titulares dos respectivos direitos.
 
-###### Art. 4.º Pertence aos serviços de agricultura e florestas, de per si ou em colaboração com outros organismos competentes para o estudo e resolução de problemas fitotécnicos, a proposta e definição das normas e preceitos destinados a regular o reconhecimento, a classificação, a exploração e a conservação racionais das formações vegetais, bem como a promoção e execução das medidas necessárias à realização de tais fins.
+Art. 4.º Pertence aos serviços de agricultura e florestas, de per si ou em colaboração com outros organismos competentes para o estudo e resolução de problemas fitotécnicos, a proposta e definição das normas e preceitos destinados a regular o reconhecimento, a classificação, a exploração e a conservação racionais das formações vegetais, bem como a promoção e execução das medidas necessárias à realização de tais fins.
 
 § único. A colaboração prevista no corpo do artigo é a que resulta das atribuições e competência dos organismos interessados, abrangendo, segundo directrizes superiormente aprovadas, o estudo, planificação e execução de quaisquer providências de ordenamento agro-silvo-pecuário.
 
-###### Art. 5.º A classificação de formações vegetais, e particularmente dos povoamentos florestais, deverá assentar em estudos e reconhecimentos, tanto quanto possível completos, segundo a planificação a estabelecer em cada província e atenderá ao progresso das ciências silvícolas e à sua projecção económico-social, nos aspectos local, regional, provincial e extraprovincial.
+Art. 5.º A classificação de formações vegetais, e particularmente dos povoamentos florestais, deverá assentar em estudos e reconhecimentos, tanto quanto possível completos, segundo a planificação a estabelecer em cada província e atenderá ao progresso das ciências silvícolas e à sua projecção económico-social, nos aspectos local, regional, provincial e extraprovincial.
 
 § 1.º Na classificação deverão especificar-se e definir-se as formações florestais que devem ser sujeitas exclusivamente à exploração silvícola, que podem ser alienadas e que não podem ser concedidas ou exploradas sob qualquer forma ou modalidade.
 
@@ -131,9 +147,9 @@ Regulamento Florestal
 
 ### CAPÍTULO II — Do regime florestal
 
-###### Art. 6.º Regime florestal é o conjunto das normas e medidas que visam assegurar o estudo, a conservação e defesa do revestimento florestal, a orientação. Assistência e fiscalização da exploração florestal, o fomento silvícola de terrenos que haja necessidade de revestir e o equilíbrio dos recursos naturais de produção.
+Art. 6.º Regime florestal é o conjunto das normas e medidas que visam assegurar o estudo, a conservação e defesa do revestimento florestal, a orientação. Assistência e fiscalização da exploração florestal, o fomento silvícola de terrenos que haja necessidade de revestir e o equilíbrio dos recursos naturais de produção.
 
-###### Art. 7.º O regime florestal compreende o regime florestal total, o regime florestal parcial obrigatório e o regime parcial facultativo.
+Art. 7.º O regime florestal compreende o regime florestal total, o regime florestal parcial obrigatório e o regime parcial facultativo.
 
 § 1.º O regime florestal total tem como objectivo o estudo e aplicação dos meios necessários à manutenção integral do eco-sistema da área sobre que recai.
 
@@ -141,11 +157,11 @@ Regulamento Florestal
 
 § 3.º O regime florestal parcial facultativo aplica-se a áreas de propriedade particular que, mediante o cumprimento de certas normas de defesa e conservação do solo e da vegetação, gozarão de benefícios e de regalias expressos nos diplomas que estabeleçam o mesmo regime.
 
-###### Art. 8.º Salvos os casos expressos neste diploma, o regime florestal total e o regime florestal parcial obrigatório constituem-se mediante portaria dos governos provinciais, sobre proposta fundamentada dos serviços de agricultura e florestas, ouvidos os serviços geográficos e cadastrais.
+Art. 8.º Salvos os casos expressos neste diploma, o regime florestal total e o regime florestal parcial obrigatório constituem-se mediante portaria dos governos provinciais, sobre proposta fundamentada dos serviços de agricultura e florestas, ouvidos os serviços geográficos e cadastrais.
 
 § único. O regime florestal parcial facultativo estabelece-se pela forma prevista no corpo do artigo, mas a requerimento dos interessados.
 
-###### Art. 9.º São elementos fundamentais do processo de sujeição ao regime florestal:
+Art. 9.º São elementos fundamentais do processo de sujeição ao regime florestal:
 
 1) Carta topográfica especial da área, com delimitação implantada, ou, na sua falta, carta da região com delimitação adequada da dita área;
 
@@ -155,9 +171,9 @@ Regulamento Florestal
 
 § único. Quando não existam as cartas referidas no número 1) do corpo do artigo, incorporar-se-á no processo esboço topográfico da área que ofereça condições de conveniente identificação e localização.
 
-###### Art. 10.º Organizado e instruído o processo, os serviços de agricultura e florestas submetê-lo-ão a despacho do governo da província, para efeitos de publicação da portaria correspondente, donde constarão os elementos caracterizadores do regime florestal.
+Art. 10.º Organizado e instruído o processo, os serviços de agricultura e florestas submetê-lo-ão a despacho do governo da província, para efeitos de publicação da portaria correspondente, donde constarão os elementos caracterizadores do regime florestal.
 
-###### Art. 11.º Após a publicação da portaria no Boletim Oficial, as entidades públicas ou privadas responsáveis deverão, no prazo de 180 dias:
+Art. 11.º Após a publicação da portaria no Boletim Oficial, as entidades públicas ou privadas responsáveis deverão, no prazo de 180 dias:
 
 a) Demarcar a área sob regime florestal com marcas perimetrais que obedeçam às características estabelecidas para as demarcações definitivas da competência dos serviços geográficos e cadastrais e contenham os sinais identificadores fixados na regulamentação, provincial;
 
@@ -165,7 +181,7 @@ b) Implantar um aceiro perimetral e colocar ao longo dele tabuletas apropriadas,
 
 § único. A delimitação a que se refere o corpo do artigo obedecerá às regras estabelecidas para a demarcação de terrenos destinados a concessão, nos termos do regulamento aprovado pelo [Decreto n.º 43894](https://diariodarepublica.pt/dr/detalhe/decreto/43894-1961-180993), de 6 de Setembro de 1961, e o prazo dele constante pode ser prorrogado até ao máximo de três períodos de 30 dias, desde que haja justificação ponderosa.
 
-###### Art. 12.º As despesas e encargos resultantes da organização do processo para o estabelecimento do regime florestal são suportados pelas entidades e pessoas seguidamente indicadas:
+Art. 12.º As despesas e encargos resultantes da organização do processo para o estabelecimento do regime florestal são suportados pelas entidades e pessoas seguidamente indicadas:
 
 1) Para o regime florestal total: serviços de agricultura e florestas ou outros serviços que superintendam na área;
 
@@ -173,21 +189,21 @@ b) Implantar um aceiro perimetral e colocar ao longo dele tabuletas apropriadas,
 
 3) Para o regime florestal parcial facultativo: requerentes interessados.
 
-###### Art. 13.º Nos serviços de agricultura e florestas será organizado um processo especial de todas as parcelas da província submetidas a qualquer das modalidades do regime florestal, com registo das respectivas plantas ou esboços e de todas as normas definidoras desse regime.
+Art. 13.º Nos serviços de agricultura e florestas será organizado um processo especial de todas as parcelas da província submetidas a qualquer das modalidades do regime florestal, com registo das respectivas plantas ou esboços e de todas as normas definidoras desse regime.
 
-###### Art. 14.º A criação das reservas a que se referem os §§ 1.º e 2.º do artigo 31.º do [Decreto n.º 40040](https://diariodarepublica.pt/dr/detalhe/decreto/40040-1955-539198), de 20 de Janeiro de 1955, determina a sujeição das áreas respectivas ao regime florestal total; e a constituição das reservas previstas nos §§ 3.º e 4.º do mesmo artigo do citado decreto implica a sujeição das áreas reservadas ao regime florestal parcial obrigatório.
+Art. 14.º A criação das reservas a que se referem os §§ 1.º e 2.º do artigo 31.º do [Decreto n.º 40040](https://diariodarepublica.pt/dr/detalhe/decreto/40040-1955-539198), de 20 de Janeiro de 1955, determina a sujeição das áreas respectivas ao regime florestal total; e a constituição das reservas previstas nos §§ 3.º e 4.º do mesmo artigo do citado decreto implica a sujeição das áreas reservadas ao regime florestal parcial obrigatório.
 
 § único. Se os diplomas criadores das reservas do corpo do artigo não disciplinarem a conservação das formações vegetais, e especialmente das formações arbóreas, os serviços de agricultura e florestas promoverão no prazo, de um ano o estudo e publicação dos planos pormenorizados correspondentes, que serão considerados integrantes dos referidos diplomas, uma vez aprovados pelo, governador.
 
-###### Art. 15.º As reservas florestais, estabelecidas ou a estabelecer, ficam submetidas ao regime florestal total, não admitindo qualquer forma de exploração que não seja a do § único deste artigo.
+Art. 15.º As reservas florestais, estabelecidas ou a estabelecer, ficam submetidas ao regime florestal total, não admitindo qualquer forma de exploração que não seja a do § único deste artigo.
 
 § único. Quando razões de ordem técnica e económica aconselharem o aproveitamento de essências que hajam atingido a plenitude do desenvolvimento e quando houver que proceder a tratamentos, desbastes ou cortes culturais destinados a beneficiar as formações vegetais existentes nas reservas, pode o governador autorizar a exploração florestal correspondente, mediante contrato especial em que o concessionário se obrigue a respeitar integralmente as obrigações impostas pelos serviços de agricultura e florestas e a sujeitar-se à sua fiscalização.
 
-###### Art. 16.º Os polígonos e estações florestais, as estações e postos agrícolas, as estações e postos zootécnicos, as granjas administrativas e as estações ou postos dependentes de quaisquer entidades oficiais ficarão sujeitos ao regime florestal parcial obrigatório, admitindo-se neles a exploração florestal, segundo plano de exploração racional devidamente aprovado.
+Art. 16.º Os polígonos e estações florestais, as estações e postos agrícolas, as estações e postos zootécnicos, as granjas administrativas e as estações ou postos dependentes de quaisquer entidades oficiais ficarão sujeitos ao regime florestal parcial obrigatório, admitindo-se neles a exploração florestal, segundo plano de exploração racional devidamente aprovado.
 
 § único. O regime florestal a que se refere o corpo do artigo é também aplicável aos terrenos incluídos em planos regionais de protecção do solo, aprovados conforme o disposto nos artigos 17.º e 19.º do [Decreto n.º 40040](https://diariodarepublica.pt/dr/detalhe/decreto/40040-1955-539198), de 20 de Janeiro de 1955, qualquer que seja o regime jurídico dos referidos terrenos.
 
-###### Art. 17.º Os governadores, sobre proposta dos serviços de agricultura e florestas ou de outros serviços, acompanhada de parecer daqueles, podem sujeitar ao regime florestal terrenos onde se localizem:
+Art. 17.º Os governadores, sobre proposta dos serviços de agricultura e florestas ou de outros serviços, acompanhada de parecer daqueles, podem sujeitar ao regime florestal terrenos onde se localizem:
 
 a) Dunas, medas, encostas abruptas e terrenos fortemente erosionados;
 
@@ -199,11 +215,11 @@ d) Povoamentos vegetais de considerável valor económico, paisagístico ou tur�
 
 e) Povoamentos vegetais ou quaisquer zonas que possam interessar à defesa militar, à defesa sanitária e à conservação dos recursos hídricos.
 
-###### Art. 18.º O exercício da caça e da pesca nas áreas submetidas a regime florestal será definido em regulamentos que especificarão as contravenções e as respectivas penalidades.
+Art. 18.º O exercício da caça e da pesca nas áreas submetidas a regime florestal será definido em regulamentos que especificarão as contravenções e as respectivas penalidades.
 
 § único. As portarias que estabeleçam qualquer forma de regime florestal poderão fixar condições particulares de exercício da caça e da pesca nas áreas abrangidas, regulando ainda as contravenções e as respectivas penalidades, dentro dos limites dos regulamentos mencionados no corpo do artigo.
 
-###### Art. 19.º Constituem obrigações dos interessados, no regime florestal parcial facultativo:
+Art. 19.º Constituem obrigações dos interessados, no regime florestal parcial facultativo:
 
 1) O cumprimento do disposto no artigo 11.º deste diploma;
 
@@ -215,9 +231,9 @@ e) Povoamentos vegetais ou quaisquer zonas que possam interessar à defesa milit
 
 § único. O plano coordenador referido no corpo do artigo limitar-se-á a definir os princípios básicos da conservação e da exploração racionais da área submetida ao regime florestal.
 
-###### Art. 20.º As regalias dos beneficiários do regime florestal parcial facultativo serão estabelecidas na legislação complementar de cada província, que considerará particularmente a exclusividade do exercício da caça e da pesca pelos interessados e quaisquer aspectos de assistência técnica, preferências e isenções justificadas pelas circunstâncias.
+Art. 20.º As regalias dos beneficiários do regime florestal parcial facultativo serão estabelecidas na legislação complementar de cada província, que considerará particularmente a exclusividade do exercício da caça e da pesca pelos interessados e quaisquer aspectos de assistência técnica, preferências e isenções justificadas pelas circunstâncias.
 
-###### Art. 21.º Em todas as áreas submetidas a regime florestal obrigatório e sempre que os interessados não cumpram, por quaisquer motivos, as obrigações decorrentes do regime, adoptar-se-ão as medidas seguintes:
+Art. 21.º Em todas as áreas submetidas a regime florestal obrigatório e sempre que os interessados não cumpram, por quaisquer motivos, as obrigações decorrentes do regime, adoptar-se-ão as medidas seguintes:
 
 I) Para terrenos em propriedade plena, adopção de qualquer das três modalidades abaixo definidas, podendo o Estado preferir a mais conveniente aos fins visados:
 
@@ -229,15 +245,15 @@ I) Para terrenos em propriedade plena, adopção de qualquer das três modalidad
 
 II) Para terrenos em regime de concessão: expropriação por utilidade pública nos termos do artigo 217.º do regulamento aprovado pelo [Decreto n.º 43894](https://diariodarepublica.pt/dr/detalhe/decreto/43894-1961-180993), de 6 de Setembro de 1961.
 
-###### Art. 22.º Os serviços de agricultura e florestas poderão propor, por sua iniciativa ou secundando proposta de outras entidades oficiais ou a requerimento de particulares, a mudança de qualquer das modalidades de regime florestal, quando se patenteie inequìvocamente a vantagem da alteração.
+Art. 22.º Os serviços de agricultura e florestas poderão propor, por sua iniciativa ou secundando proposta de outras entidades oficiais ou a requerimento de particulares, a mudança de qualquer das modalidades de regime florestal, quando se patenteie inequìvocamente a vantagem da alteração.
 
-###### Art. 23.º Quando qualquer pessoa singular ou colectiva se considere lesada pela violação das disposições deste diploma relativas ao regime florestal, pode recorrer para o governo da província, que resolverá, após audição dos serviços de agricultura e florestas e de quaisquer outras entidades que julgue conveniente serem ouvidas.
+Art. 23.º Quando qualquer pessoa singular ou colectiva se considere lesada pela violação das disposições deste diploma relativas ao regime florestal, pode recorrer para o governo da província, que resolverá, após audição dos serviços de agricultura e florestas e de quaisquer outras entidades que julgue conveniente serem ouvidas.
 
 ### CAPÍTULO III — Das reservas florestais
 
-###### Art. 24.º Por meio de portaria, e sobre proposta dos serviços de agricultura e florestas, os governadores podem constituir reservas florestais abrangendo tractos de terreno do património da província ou do domínio público, mesmo que estejam sujeitos a regime florestal.
+Art. 24.º Por meio de portaria, e sobre proposta dos serviços de agricultura e florestas, os governadores podem constituir reservas florestais abrangendo tractos de terreno do património da província ou do domínio público, mesmo que estejam sujeitos a regime florestal.
 
-###### Art. 25.º A constituição das reservas florestais tem, entre outros, os objectivos seguintes:
+Art. 25.º A constituição das reservas florestais tem, entre outros, os objectivos seguintes:
 
 1.º A conservação de florestas ou matas;
 
@@ -247,7 +263,7 @@ II) Para terrenos em regime de concessão: expropriação por utilidade pública
 
 4.º A conservação de povoamentos de composição florística ou fitossociológica de reconhecido valor científico ou de espécies raras ou em vias de desaparecimento.
 
-###### Art. 26.º No processo de constituição de reservas reunir-se-ão as seguintes peças fundamentais, sem prejuízo da incorporação de quaisquer outros elementos que interessem para os fins visados:
+Art. 26.º No processo de constituição de reservas reunir-se-ão as seguintes peças fundamentais, sem prejuízo da incorporação de quaisquer outros elementos que interessem para os fins visados:
 
 1) Carta topográfica, especial ou geral, ou, na sua falta, esboço topográfico da área;
 
@@ -259,7 +275,7 @@ II) Para terrenos em regime de concessão: expropriação por utilidade pública
 
 5) Informação de quaisquer outros serviços que se julgue conveniente ouvir.
 
-###### Art. 27.º Nos três anos imediatos ao estabelecimento da reserva deverão ser executados os seguintes trabalhos:
+Art. 27.º Nos três anos imediatos ao estabelecimento da reserva deverão ser executados os seguintes trabalhos:
 
 1) Levantamento topográfico pelos serviços geográficos e cadastrais na escala adequada a uma eficiente estruturação dos problemas técnicos;2) Estruturação definitiva, assente em estudo e reconhecimento conveniente, da monografia da reserva e do seu plano racional de conservação;
 
@@ -267,45 +283,45 @@ II) Para terrenos em regime de concessão: expropriação por utilidade pública
 
 § único. Na falta de execução oportuna dos trabalhos dos n.os 1) e 2) e mediante proposta, fundamentada em razões ponderosas dos serviços competentes, poderá o governador conceder uma prorrogação de 180 dias, mas se, neste prazo, ainda não ficarem concluídos, a reserva extinguir-se-á.
 
-###### Art. 28.º As reservas florestais, cujos limites devem coincidir tanto quanto possível com acidentes geográficos inconfundíveis, deverão ser delimitadas por aceiros de largura adequada às circunstâncias locais e por marcos com as características dos que são usados pelos serviços geográficos e cadastrais em trabalhos de demarcação definitiva.
+Art. 28.º As reservas florestais, cujos limites devem coincidir tanto quanto possível com acidentes geográficos inconfundíveis, deverão ser delimitadas por aceiros de largura adequada às circunstâncias locais e por marcos com as características dos que são usados pelos serviços geográficos e cadastrais em trabalhos de demarcação definitiva.
 
 § único. Enquanto não se executarem os trabalhos previstos no n.º 1) do artigo anterior, os serviços de agricultura e florestas delimitarão provisòriamente a reserva, orientando-se para o efeito pelo estabelecido no artigo 73.º do regulamento aprovado pelo [Decreto n.º 43894](https://diariodarepublica.pt/dr/detalhe/decreto/43894-1961-180993), de 6 de Setembro de 1961.
 
-###### Art. 29.º As reservas florestais que recaiam sobre terrenos do património da província só podem abranger terrenos de 3 ª classe e, excepcionalmente, mediante parecer favorável da Junta Provincial de Povoamento ou de serviço afim, terrenos de 2.ª classe.
+Art. 29.º As reservas florestais que recaiam sobre terrenos do património da província só podem abranger terrenos de 3 ª classe e, excepcionalmente, mediante parecer favorável da Junta Provincial de Povoamento ou de serviço afim, terrenos de 2.ª classe.
 
 § único. Quando as reservas florestais envolvam terrenos demarcados, concedidos ou de ocupação reconhecida, estes serão excluídos delas, garantindo-se aos interessados as indispensáveis servidões segundo a lei.
 
-###### Art. 30.º Os serviços de agricultura e florestas organizarão os processos de reservas florestais, juntando-lhes todos os elementos de eficiente caracterização, tais como plantas, mosaicos, monografias, planos de conservação e outros:
+Art. 30.º Os serviços de agricultura e florestas organizarão os processos de reservas florestais, juntando-lhes todos os elementos de eficiente caracterização, tais como plantas, mosaicos, monografias, planos de conservação e outros:
 
 § único. Das peças essenciais dos referidos processos remeter-se-ão cópias aos serviços geográficos e cadastrais.
 
-###### Art. 31.º A administração das reservas florestais é da competência dos serviços de agricultura e florestas, cabendo às dependências dos mesmos serviços, com superintendência directa em cada reserva, a obrigação de apresentarem relatório anual sobre a actividade desenvolvida, conforme plano esquemático aprovado pelos ditos serviços.
+Art. 31.º A administração das reservas florestais é da competência dos serviços de agricultura e florestas, cabendo às dependências dos mesmos serviços, com superintendência directa em cada reserva, a obrigação de apresentarem relatório anual sobre a actividade desenvolvida, conforme plano esquemático aprovado pelos ditos serviços.
 
-###### Art. 32.º Os terrenos das reservas florestais não podem ser objecto de concessão, no todo ou em parte, sendo nulas as que se tenham efectuado contràriamente ao disposto neste artigo. A nulidade será declarada por portaria da entidade que tiver feito a concessão.
+Art. 32.º Os terrenos das reservas florestais não podem ser objecto de concessão, no todo ou em parte, sendo nulas as que se tenham efectuado contràriamente ao disposto neste artigo. A nulidade será declarada por portaria da entidade que tiver feito a concessão.
 
 § único. Qualquer desanexação de terreno de reservas florestais, para estabelecimento de habitações isoladas ou de povoações, só poderá operar-se mediante parecer favorável dos serviços de agricultura e florestas.
 
-###### Art. 33.º O governo de cada província, mediante proposta dos serviços de agricultura e florestas ou de outros serviços, acompanhada de parecer daqueles, pode determinar em portaria que certas árvores, em quaisquer condições, sejam consideradas de interesse público, por motivos científicos, históricos, paisagísticos ou outros:
+Art. 33.º O governo de cada província, mediante proposta dos serviços de agricultura e florestas ou de outros serviços, acompanhada de parecer daqueles, pode determinar em portaria que certas árvores, em quaisquer condições, sejam consideradas de interesse público, por motivos científicos, históricos, paisagísticos ou outros:
 
 § único. As árvores referidas no corpo do artigo serão devidamente identificadas no local, segundo normas a estabelecer pelos serviços de agricultura e florestas, que organizarão um registo especial delas com todos os elementos caracterizadores, nomeadamente localização, nome científico, designação vulgar, dados dendrométricos, fotografias e referência às portarias declaratórias do seu interesse público.
 
-###### Art. 34.º As reservas florestais podem ser reduzidas ou anuladas no prazo previsto no artigo 26.º do regulamento aprovado pelo [Decreto n.º 43894](https://diariodarepublica.pt/dr/detalhe/decreto/43894-1961-180993), de 6 de Setembro de 1961.
+Art. 34.º As reservas florestais podem ser reduzidas ou anuladas no prazo previsto no artigo 26.º do regulamento aprovado pelo [Decreto n.º 43894](https://diariodarepublica.pt/dr/detalhe/decreto/43894-1961-180993), de 6 de Setembro de 1961.
 
 ### CAPÍTULO IV — Do fomento florestal
 
 #### SECÇÃO I — Generalidades
 
-###### Art. 35.º Fomento florestal é o conjunto de medidas ou operações cujo objectivo é a valorização qualitativa e quantitativa da produção florestal.
+Art. 35.º Fomento florestal é o conjunto de medidas ou operações cujo objectivo é a valorização qualitativa e quantitativa da produção florestal.
 
 § único. Enquadram-se entre as medidas de valorização quantitativa e qualitativa referidas no corpo do artigo a constituição de matas, com espécies exóticas, ou indígenas, as providências destinadas a favorecer a reconstituição e enriquecimento das formações florestais e a divulgação de estudos e investigações que interessem a uma maior e melhor utilização da madeira e de outros produtos florestais.
 
-###### Art. 36.º Consideram-se meios indirectos de fomento florestal todos aqueles que visem a divulgação por qualquer forma, do valor económico e social das formações florestais.
+Art. 36.º Consideram-se meios indirectos de fomento florestal todos aqueles que visem a divulgação por qualquer forma, do valor económico e social das formações florestais.
 
 § único. Os governos das províncias ultramarinas estabelecerão, por meio de portaria e ouvidos os serviços de instrução e de agricultura e florestas, um dia dedicado à difusão anual de princípios educativos e instrutivos destinados a despertar o interesse e o respeito pela árvore nos estabelecimentos de ensino rudimentar e primário.
 
-###### Art. 37.º Em cada província, os serviços de agricultura e florestas promoverão, dentro das suas possibilidades, a constituição de órgãos incumbidos de planificar e realizar trabalhos de fomento e ainda de dar a estes assistência técnica eficiente.
+Art. 37.º Em cada província, os serviços de agricultura e florestas promoverão, dentro das suas possibilidades, a constituição de órgãos incumbidos de planificar e realizar trabalhos de fomento e ainda de dar a estes assistência técnica eficiente.
 
-###### Art. 38.º Em cada província é criado um fundo de fomento florestal, que se destina a ser integralmente aplicado em trabalhos de fomento e correspondente assistência e cujas receitas provirão de:
+Art. 38.º Em cada província é criado um fundo de fomento florestal, que se destina a ser integralmente aplicado em trabalhos de fomento e correspondente assistência e cujas receitas provirão de:
 
 1) Taxas cobradas pela exploração florestal, sob qualquer forma ou modalidade;
 
@@ -319,31 +335,31 @@ II) Para terrenos em regime de concessão: expropriação por utilidade pública
 
 #### SECÇÃO II — Do plano geral de fomento florestal
 
-###### Art. 39.º Os serviços de agricultura e florestas elaborarão, com base em estudos pormenorizados e na evolução das ciências silvícolas, um plano de fomento florestal, a realizar pelos referidos serviços, de per si ou em colaboração com outras entidades, por um mínimo de seis anos.
+Art. 39.º Os serviços de agricultura e florestas elaborarão, com base em estudos pormenorizados e na evolução das ciências silvícolas, um plano de fomento florestal, a realizar pelos referidos serviços, de per si ou em colaboração com outras entidades, por um mínimo de seis anos.
 
 #### SECÇÃO III — Dos terrenos sob jurisdição dos serviços de agricultura e florestas
 
-###### Art. 40.º Os trabalhos de fomento florestal em terrenos do Estado, sob administração directa dos serviços de agricultura e florestas, são da competência dos mesmos serviços.
+Art. 40.º Os trabalhos de fomento florestal em terrenos do Estado, sob administração directa dos serviços de agricultura e florestas, são da competência dos mesmos serviços.
 
 § único. Os trabalhos referidos no corpo do artigo só podem ser executados mediante planos de fomento superiormente aprovados; e sòmente serão admitidas alterações a estes planos através de despacho do governo da província, fundamentado em proposta dos serviços de agricultura e florestas.
 
-###### Art. 41.º Os polígonos florestais são tractos de terrenos do domínio público ou do património da província afectos aos serviços de agricultura e florestas por portaria, provincial para abastecimento das indústrias e das populações, fixação de dunas, criação de parques e estabelecimento de cortinas de protecção.
+Art. 41.º Os polígonos florestais são tractos de terrenos do domínio público ou do património da província afectos aos serviços de agricultura e florestas por portaria, provincial para abastecimento das indústrias e das populações, fixação de dunas, criação de parques e estabelecimento de cortinas de protecção.
 
 ##### SUBSECÇÃO I — Dos polígonos florestais
 
-###### Art. 42.º Os trabalhos de fomento florestal em polígonos florestais basear-se-ão em projectos adequados, aprovados superiormente e elaborados pelos serviços de agricultura e florestas de acordo com as normas técnico-científicas estabelecidas pela silvicultura e pela economia florestal.
+Art. 42.º Os trabalhos de fomento florestal em polígonos florestais basear-se-ão em projectos adequados, aprovados superiormente e elaborados pelos serviços de agricultura e florestas de acordo com as normas técnico-científicas estabelecidas pela silvicultura e pela economia florestal.
 
 § único. Os serviços de agricultura e florestas farão os reajustamentos ou alterações aos projectos que a prática ou outras circunstâncias aconselhem.
 
 ##### SUBSECÇÃO II — Das reservas florestais
 
-###### Art. 43.º Desde que se considerem necessários trabalhos de fomento em terrenos de reservas florestais serão estes executados na conformidade de projectos superiormente aprovados, devendo os serviços de agricultura e florestas conciliar o disposto nos artigos 29.º e 41.º deste diploma para o efeito.
+Art. 43.º Desde que se considerem necessários trabalhos de fomento em terrenos de reservas florestais serão estes executados na conformidade de projectos superiormente aprovados, devendo os serviços de agricultura e florestas conciliar o disposto nos artigos 29.º e 41.º deste diploma para o efeito.
 
 #### SECÇÃO IV — Dos terrenos sob jurisdição de outros serviços e organismos oficiais e das autarquias locais
 
 ##### SUBSECÇÃO I — Serviços públicos e organismos oficiais
 
-###### Art. 44.º Qualquer serviço público ou organismo oficial que tenha terrenos sob sua jurisdição deve colaborar nos trabalhos de fomento das áreas que um conveniente ordenamento agrário destine a povoamento florestal.
+Art. 44.º Qualquer serviço público ou organismo oficial que tenha terrenos sob sua jurisdição deve colaborar nos trabalhos de fomento das áreas que um conveniente ordenamento agrário destine a povoamento florestal.
 
 § 1.º Os trabalhos de fomento florestal nos terrenos a que se refere o corpo do artigo obedecerão a planos aprovados pelos governadores ou pelos directores dos serviços de agricultura e florestas por delegação daqueles.
 
@@ -351,9 +367,9 @@ II) Para terrenos em regime de concessão: expropriação por utilidade pública
 
 ##### SUBSECÇÃO II — Autarquias locais
 
-###### Art. 45.º Desde que se estabeleçam áreas destinadas a povoamento florestal, para conveniente ordenamento, em terrenos sob jurisdição das autarquias locais, observar-se-á o disposto na subsecção I desta secção.
+Art. 45.º Desde que se estabeleçam áreas destinadas a povoamento florestal, para conveniente ordenamento, em terrenos sob jurisdição das autarquias locais, observar-se-á o disposto na subsecção I desta secção.
 
-###### Art. 46.º Os trabalhos de constituição de parques de turismo, parques públicos, jardins e zonas verdes em terrenos das autarquias serão executados e custeados pelas entidades que promoverem o seu estabelecimento, prestando-lhes os serviços de agricultura e florestas a assistência possível.
+Art. 46.º Os trabalhos de constituição de parques de turismo, parques públicos, jardins e zonas verdes em terrenos das autarquias serão executados e custeados pelas entidades que promoverem o seu estabelecimento, prestando-lhes os serviços de agricultura e florestas a assistência possível.
 
 § 1.º Se as autarquias locais não dispuserem de técnico florestal ou paisagista, poderão solicitar o parecer dos serviços de agricultura e florestas para a constituição dos parques e zonas referidos no corpo do artigo.
 
@@ -363,13 +379,13 @@ II) Para terrenos em regime de concessão: expropriação por utilidade pública
 
 ##### SUBSECÇÃO I — Dos terrenos vagos de 3.ª classe
 
-###### Art. 47.º Todos os trabalhos de fomento florestal em que sejam necessário efectuar em terrenos vagos de 3.ª classe dependem de prévia sujeição dos referidos terrenos ao regime florestal.
+Art. 47.º Todos os trabalhos de fomento florestal em que sejam necessário efectuar em terrenos vagos de 3.ª classe dependem de prévia sujeição dos referidos terrenos ao regime florestal.
 
 § único. Cumprindo as formalidades do artigo 9.º deste diploma, os serviços de agricultura e florestas actuarão conforme o disposto no artigo 42.º
 
 ##### SUBSECÇÃO II — Dos terrenos vagos de 2.ª classe
 
-###### Art. 48.º Quando se reconheça a necessidade de efectuar fomento florestal em terrenos vagos de 2ª classe, poderão tomar-se as providências seguintes, tendo sempre em vista a melhor defesa das populações rurais:
+Art. 48.º Quando se reconheça a necessidade de efectuar fomento florestal em terrenos vagos de 2ª classe, poderão tomar-se as providências seguintes, tendo sempre em vista a melhor defesa das populações rurais:
 
 1.º Constituição de povoamentos florestais comunitários, com o auxílio e apoio dos serviços de agricultura e florestas e de outros serviços;
 
@@ -379,17 +395,17 @@ II) Para terrenos em regime de concessão: expropriação por utilidade pública
 
 #### SECÇÃO VI — Dos terrenos concedidos ou apropriados por outro meio
 
-###### Art. 49.º Os titulares de direitos sobre terrenos sujeitos a regime florestal obrigatório ou a plano aprovado e ordenamento da exploração do solo terão de apresentar projecto de fomento florestal, para aprovação dos serviços de agricultura e florestas, quando a área a arborizar não seja inferior a 100 ha.
+Art. 49.º Os titulares de direitos sobre terrenos sujeitos a regime florestal obrigatório ou a plano aprovado e ordenamento da exploração do solo terão de apresentar projecto de fomento florestal, para aprovação dos serviços de agricultura e florestas, quando a área a arborizar não seja inferior a 100 ha.
 
 ### CAPÍTULO V — Do ordenamento silvícola
 
-###### Art. 50.º Os serviços de agricultura e florestas colaborarão com todos os serviços encarregados de planificar a utilização racional dos recursos naturais, estudando e propondo a fixação das áreas a arborizar, com vista à defesa do solo e à sua valorização económica.
+Art. 50.º Os serviços de agricultura e florestas colaborarão com todos os serviços encarregados de planificar a utilização racional dos recursos naturais, estudando e propondo a fixação das áreas a arborizar, com vista à defesa do solo e à sua valorização económica.
 
-###### Art. 51.º Nos pedidos de novas concessões de terras os serviços de agricultura e florestas indicarão aos serviços geográficos e cadastrais, concretamente ou por referência a uma percentagem, a área destinada a povoamento florestal, com vista à estipulação das cláusulas de aproveitamento, quando se reconheça tal necessidade. Tais indicações serão tidas em conta na apreciação dos pedidos de concessão.
+Art. 51.º Nos pedidos de novas concessões de terras os serviços de agricultura e florestas indicarão aos serviços geográficos e cadastrais, concretamente ou por referência a uma percentagem, a área destinada a povoamento florestal, com vista à estipulação das cláusulas de aproveitamento, quando se reconheça tal necessidade. Tais indicações serão tidas em conta na apreciação dos pedidos de concessão.
 
 § único. A inobservância das cláusulas estabelecidas na conformidade do corpo do artigo determina a aplicação da sanção prevista no corpo, do artigo 17.º do [Decreto n.º 40040](https://diariodarepublica.pt/dr/detalhe/decreto/40040-1955-539198), de 20 de Janeiro de 1955.
 
-###### Art. 52.º A efectivação de derrubas para culturas agrícolas obedece ao seguinte condicionalismo:
+Art. 52.º A efectivação de derrubas para culturas agrícolas obedece ao seguinte condicionalismo:
 
 1.º Concessões provisórias, definitivas por aforamento, e propriedades perfeitas:
 
@@ -405,45 +421,45 @@ b) Sem plano de exploração racional do solo - prévia licença;
 
 § 2.º Enquanto não estiver concluída a classificação referida no artigo 5.º, os serviços de agricultura e florestas não permitirão derrubas para fins agrícolas nos terrenos indicados nos n.os 2.º e 3.º do corpo deste artigo, desde que ali se situem formações vegetais de real valor económico.
 
-###### Art. 53.º A requerimento dos interessados poderá ser levantado o regime florestal que tenha por objecto os terrenos referidos no § único do artigo 16.º, desde que se iniciem ou estejam em curso trabalhos integrados no ordenamento racional de exploração do solo, devidamente aprovado pela autoridade competente.
+Art. 53.º A requerimento dos interessados poderá ser levantado o regime florestal que tenha por objecto os terrenos referidos no § único do artigo 16.º, desde que se iniciem ou estejam em curso trabalhos integrados no ordenamento racional de exploração do solo, devidamente aprovado pela autoridade competente.
 
 ### CAPÍTULO VI — Do ordenamento silvo-pastoril
 
-###### Art. 54.º Os serviços de agricultura e florestas colaborarão com outros serviços ligados à investigação no estudo e pesquisa da manutenção e melhoramento das pastagens naturais com vista ao estabelecimento de planos regionais do ordenamento silvo-pastoril.
+Art. 54.º Os serviços de agricultura e florestas colaborarão com outros serviços ligados à investigação no estudo e pesquisa da manutenção e melhoramento das pastagens naturais com vista ao estabelecimento de planos regionais do ordenamento silvo-pastoril.
 
-###### Art. 55.º Os serviços de agricultura e florestas deverão colaborar com os serviços de veterinária, de saúde, e outros competentes no estudo das biocenoses dos transmissores da tripanossomíase e de outras endemias correlacionadas com as formações florestais, visando a sua erradicação ou debelamento.
+Art. 55.º Os serviços de agricultura e florestas deverão colaborar com os serviços de veterinária, de saúde, e outros competentes no estudo das biocenoses dos transmissores da tripanossomíase e de outras endemias correlacionadas com as formações florestais, visando a sua erradicação ou debelamento.
 
-###### Art. 56.º Compete aos serviços de agricultura e florestas, em colaboração com outros serviços interessados ou entidades afins, a execução dos planos previstos nos artigos anteriores.
+Art. 56.º Compete aos serviços de agricultura e florestas, em colaboração com outros serviços interessados ou entidades afins, a execução dos planos previstos nos artigos anteriores.
 
 ### CAPÍTULO VII — Da protecção da natureza
 
-###### Art. 57.º Os serviços de agricultura e florestas, como órgão executivo do Conselho de Protecção da Natureza, deverão nortear a sua actividade, mormente quanto à conservação e exploração das formações vegetais naturais, dentro dos princípios gerais definidos por aquele Conselho.
+Art. 57.º Os serviços de agricultura e florestas, como órgão executivo do Conselho de Protecção da Natureza, deverão nortear a sua actividade, mormente quanto à conservação e exploração das formações vegetais naturais, dentro dos princípios gerais definidos por aquele Conselho.
 
-###### Art. 58.º Os serviços de agricultura e florestas, na sua actividade de reconhecimento e estudo de extensão, recolherão o maior número de dados silvícolas que possam contribuir para o estabelecimento de planos regionais de protecção do solo considerados pelo [Decreto n.º 40040](https://diariodarepublica.pt/dr/detalhe/decreto/40040-1955-539198), de 20 de Janeiro de 1955.
+Art. 58.º Os serviços de agricultura e florestas, na sua actividade de reconhecimento e estudo de extensão, recolherão o maior número de dados silvícolas que possam contribuir para o estabelecimento de planos regionais de protecção do solo considerados pelo [Decreto n.º 40040](https://diariodarepublica.pt/dr/detalhe/decreto/40040-1955-539198), de 20 de Janeiro de 1955.
 
-###### Art. 59.º Sòmente são permitidas as queimadas restritas e controladas que se reconheçam como necessárias à execução económica de qualquer método de exploração racional da terra.
+Art. 59.º Sòmente são permitidas as queimadas restritas e controladas que se reconheçam como necessárias à execução económica de qualquer método de exploração racional da terra.
 
 § único. Os serviços responsáveis pelo estudo e manutenção da exploração racional do solo deverão promover, em colaboração com a autoridade administrativa, a extinção da prática das queimadas indiscriminadas, podendo instituir prémios para os agricultores que mais se evidenciem no combate a tal prática.
 
-###### Art. 60.º Os funcionários dos serviços de agricultura e florestas, em cargos técnicos e de polícia florestal, são agentes de fiscalização de protecção da flora e da fauna, quer por força deste diploma, quer na execução de medidas do Conselho de Protecção da Natureza. Os fiscais de caça exercerão também funções de agentes de fiscalização e protecção da flora.
+Art. 60.º Os funcionários dos serviços de agricultura e florestas, em cargos técnicos e de polícia florestal, são agentes de fiscalização de protecção da flora e da fauna, quer por força deste diploma, quer na execução de medidas do Conselho de Protecção da Natureza. Os fiscais de caça exercerão também funções de agentes de fiscalização e protecção da flora.
 
-###### Art. 61.º A actividade e a fiscalização da pesca nas águas interiores far-se-á conforme legislação complementar de cada província, mediante proposta do Conselho de Protecção da Natureza ou dos serviços de agricultura e florestas.
+Art. 61.º A actividade e a fiscalização da pesca nas águas interiores far-se-á conforme legislação complementar de cada província, mediante proposta do Conselho de Protecção da Natureza ou dos serviços de agricultura e florestas.
 
 ### CAPÍTULO VIII — Do regime torrencial e da erosão
 
-###### Art. 62.º As bacias hidrográficas de cursos de água sujeitos a torrencialidade ficarão, no todo ou em parte, submetidas ao regime florestal total ou parcial obrigatório, sem prejuízo da disciplina do aproveitamento das águas públicas.
+Art. 62.º As bacias hidrográficas de cursos de água sujeitos a torrencialidade ficarão, no todo ou em parte, submetidas ao regime florestal total ou parcial obrigatório, sem prejuízo da disciplina do aproveitamento das águas públicas.
 
-###### Art. 63.º Os serviços de agricultura e florestas estudarão e coligirão todos os factores determinantes de fenómenos de erosão profunda e da torrencialidade, com vista à publicação de medidas de defesa, preventivas ou correctivas.
+Art. 63.º Os serviços de agricultura e florestas estudarão e coligirão todos os factores determinantes de fenómenos de erosão profunda e da torrencialidade, com vista à publicação de medidas de defesa, preventivas ou correctivas.
 
 § único. Todos os serviços ligados aos problemas do uso do solo e do subsolo colaborarão com os serviços de agricultura e florestas para a consecução dos fins referidos no corpo do artigo.
 
-###### Art. 64.º Os serviços de agricultura e florestas, conhecidas quaisquer medidas que possam impedir ou prejudicar o processo formativo da torrencialidade e da erosão profunda e saiam do seu âmbito normal de actuação, deverão dar conhecimento da existência ao Conselho de Protecção da Natureza, para que se tomem as providências adequadas.
+Art. 64.º Os serviços de agricultura e florestas, conhecidas quaisquer medidas que possam impedir ou prejudicar o processo formativo da torrencialidade e da erosão profunda e saiam do seu âmbito normal de actuação, deverão dar conhecimento da existência ao Conselho de Protecção da Natureza, para que se tomem as providências adequadas.
 
-###### Art. 65.º Os trabalhos de correcção torrencial a executar pelos serviços de agricultura e florestas basear-se-ão em estudos e projectos técnicos devidamente aprovados pelo Governo, depois de sobre os mesmos recair parecer de outros serviços técnicos competentes.
+Art. 65.º Os trabalhos de correcção torrencial a executar pelos serviços de agricultura e florestas basear-se-ão em estudos e projectos técnicos devidamente aprovados pelo Governo, depois de sobre os mesmos recair parecer de outros serviços técnicos competentes.
 
 ### CAPÍTULO IX — Da investigação florestal
 
-###### Art. 66.º A investigação científica de base relacionada com os problemas silvícolas pertence especialmente aos organismos provinciais especializados.
+Art. 66.º A investigação científica de base relacionada com os problemas silvícolas pertence especialmente aos organismos provinciais especializados.
 
 § único. Nas províncias onde não existam tais organismos, a investigação referida no corpo do artigo competirá à Junta de Investigações do Ultramar ou a missões e brigadas constituídas nos termos do [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415), de 25 de Maio de 1962.
 
@@ -453,13 +469,13 @@ b) Sem plano de exploração racional do solo - prévia licença;
 
 ##### SUBSECÇÃO I — Generalidades
 
-###### Art. 67.º Por exploração florestal entende-se todo um conjunto de medidas e operações ligadas à extracção dos produtos florestais para satisfação das necessidades humanas, dentro das melhores normas técnicas de produção e de conservação dos povoamentos silvícolas.
+Art. 67.º Por exploração florestal entende-se todo um conjunto de medidas e operações ligadas à extracção dos produtos florestais para satisfação das necessidades humanas, dentro das melhores normas técnicas de produção e de conservação dos povoamentos silvícolas.
 
 § único. Para os efeitos deste diploma, consideram-se também como inerentes à exploração florestal todas as operações consequentes de melhoramento e preparação dos produtos florestais, desde que não haja transformações tecnológicas.
 
-###### Art. 68.º Para efeitos da exploração, consideram-se como produtos florestais madeira, em toros ou serrada, varas, estacas, postes e esteios, combustíveis vegetais, bordão e fibras espontâneas diversas, cascas tanantes ou produtos de substâncias alcalóides, cortiça, látex borrachífero e outros, resinas e gomas, folhas, flores, frutos e sementes de natureza silvestre, com objectivo comercial e industrial, e quaisquer outros produtos que a evolução da técnica venha a considerar como florestais; e como operações inerentes à exploração florestal todas as modalidades de abate e serragem de material lenhoso, a secagem e preservação das madeiras, a fase inicial de preparação e conservação das cascas e cortiça, resinas e gomas, fibras, folhas, flores, frutos e sementes de natureza silvestre, fabrico de carvão, na área da exploração, e quaisquer outras que a evolução da técnica venha a indicar como tais.
+Art. 68.º Para efeitos da exploração, consideram-se como produtos florestais madeira, em toros ou serrada, varas, estacas, postes e esteios, combustíveis vegetais, bordão e fibras espontâneas diversas, cascas tanantes ou produtos de substâncias alcalóides, cortiça, látex borrachífero e outros, resinas e gomas, folhas, flores, frutos e sementes de natureza silvestre, com objectivo comercial e industrial, e quaisquer outros produtos que a evolução da técnica venha a considerar como florestais; e como operações inerentes à exploração florestal todas as modalidades de abate e serragem de material lenhoso, a secagem e preservação das madeiras, a fase inicial de preparação e conservação das cascas e cortiça, resinas e gomas, fibras, folhas, flores, frutos e sementes de natureza silvestre, fabrico de carvão, na área da exploração, e quaisquer outras que a evolução da técnica venha a indicar como tais.
 
-###### Art. 69.º Os serviços de agricultura e florestas, com a colaboração dos organismos de investigação, organizarão uma lista de classificação, por classes, das espécies vegetais naturais exploráveis, considerando os seguintes aspectos fundamentais:
+Art. 69.º Os serviços de agricultura e florestas, com a colaboração dos organismos de investigação, organizarão uma lista de classificação, por classes, das espécies vegetais naturais exploráveis, considerando os seguintes aspectos fundamentais:
 
 a) Especificação das classes, em função da natureza do produto;
 
@@ -475,23 +491,23 @@ d) Inclusão provisória na classe mais compatível com a sua utilização e na 
 
 § 3.º Para as espécies que estejam nas condições do artigo 87.º, a incluir em mais de uma subclasse, ou classe, deverão especificar-se os elementos fundamentais resultantes do disposto no § 2.º do citado artigo, aplicando-se o estabelecido nas alíneas a), b) e c) deste preceito.
 
-###### Art. 70.º Os serviços de agricultura e florestas elaborarão uma tabela, a publicar em portaria, dos preços de venda dos produtos extraídos das matas em que superintendam, tendo em conta as espécies, a qualidade e a utilidade dos produtos e a natureza da sua proveniência.
+Art. 70.º Os serviços de agricultura e florestas elaborarão uma tabela, a publicar em portaria, dos preços de venda dos produtos extraídos das matas em que superintendam, tendo em conta as espécies, a qualidade e a utilidade dos produtos e a natureza da sua proveniência.
 
 § 1.º Se os serviços referidos no corpo do artigo o julgarem conveniente, poderão vender os produtos em hasta pública, mas a base da licitação não pode ser inferior à estabelecida na rubrica própria da tabela. No caso de praça deserta, os membros do serviço seguirão os trâmites gerais da venda em hasta pública.
 
 § 2.º Os serviços de agricultura e florestas colaborarão com outros serviços públicos interessados, ou organismos de coordenação económica, no tabelamento de preços dos produtos extraídos das matas não compreendidas no corpo do artigo, sempre que as circunstâncias o justifiquem.
 
-###### Art. 71.º A exploração de povoamentos naturais, sob qualquer forma, faz-se mediante licença e de harmonia com os preceitos deste diploma e com as normas técnicas emanadas dos serviços de agricultura e florestas.
+Art. 71.º A exploração de povoamentos naturais, sob qualquer forma, faz-se mediante licença e de harmonia com os preceitos deste diploma e com as normas técnicas emanadas dos serviços de agricultura e florestas.
 
 § único. Os serviços estabelecerão o modelo da cédula da licença, tendo em conta os elementos caracterizadores da exploração.
 
-###### Art. 72.º A exploração florestal em povoamentos naturais faz-se por licença para quantidades e prazos limitados e por concessão para exploração florestal.
+Art. 72.º A exploração florestal em povoamentos naturais faz-se por licença para quantidades e prazos limitados e por concessão para exploração florestal.
 
-###### Art. 73.º A exploração florestal das matas pertencentes a entidades oficiais ou particulares far-se-á mediante simples comunicação por escrito aos serviços de agricultura e florestas, devendo especificar-se qualitativa e quantitativamente o produto, para efeitos de estatística e eficiência da fiscalização florestal.
+Art. 73.º A exploração florestal das matas pertencentes a entidades oficiais ou particulares far-se-á mediante simples comunicação por escrito aos serviços de agricultura e florestas, devendo especificar-se qualitativa e quantitativamente o produto, para efeitos de estatística e eficiência da fiscalização florestal.
 
 § único. Para todos os efeitos, estas entidades deverão obedecer às disposições deste regulamento quanto ao trânsito dos produtos florestais.
 
-###### Art. 74.º Os serviços oficiais e os empreiteiros do Estado são dispensados de qualquer licença de exploração florestal nos povoamentos vegetais naturais situados em terrenos do Estado, para os seguintes trabalhos:
+Art. 74.º Os serviços oficiais e os empreiteiros do Estado são dispensados de qualquer licença de exploração florestal nos povoamentos vegetais naturais situados em terrenos do Estado, para os seguintes trabalhos:
 
 1) Construção de vias férreas, aeródromos e estradas;
 
@@ -517,7 +533,7 @@ d) Inclusão provisória na classe mais compatível com a sua utilização e na 
 
 § 2.º Os serviços de agricultura e florestas determinarão quais as espécies que não podem ser abatidas abaixo do diâmetro mínimo adoptado, salvo casos comprovados em que a interdição afecte a obra, e os produtos florestais assim obtidos reverterão para o Estado, que lhes dará o destino conveniente.
 
-###### Art. 75.º A exploração florestal dos povoamentos vegetais naturais obedece à seguinte disciplina:
+Art. 75.º A exploração florestal dos povoamentos vegetais naturais obedece à seguinte disciplina:
 
 1.º Em terrenos vagos de 3.ª classe:
 
@@ -545,45 +561,45 @@ c) Concessão definitiva por aforamento - os tipos de exploração da alínea c)
 
 d) Propriedade plena adquirida por concessão ou não - os tipos de exploração mencionados na alínea c) do n.º 1.º
 
-###### Art. 76.º A licença de exploração florestal não poderá abranger espécies que pertençam a classes e sub-classes diferentes.
+Art. 76.º A licença de exploração florestal não poderá abranger espécies que pertençam a classes e sub-classes diferentes.
 
 § único. Com fundamento em razões de ordem silvícola e económica, pode autorizar-se, por despacho do governador, sobre proposta dos serviços de agricultura e florestas, a passagem de licença de exploração para uma só espécie, abrangendo total ou parcialmente a província.
 
-###### Art. 77.º Os serviços de agricultura e florestas colaborarão com outros serviços públicos interessados na organização e actualização periódica do cadastro das explorações florestais, tendo em atenção todos os elementos de eficiente caracterização.
+Art. 77.º Os serviços de agricultura e florestas colaborarão com outros serviços públicos interessados na organização e actualização periódica do cadastro das explorações florestais, tendo em atenção todos os elementos de eficiente caracterização.
 
-###### Art. 78.º Os serviços de agricultura e florestas são a entidade competente para passar licenças de exploração florestal.
+Art. 78.º Os serviços de agricultura e florestas são a entidade competente para passar licenças de exploração florestal.
 
-###### Art. 79.º Os serviços de agricultura e florestas poderão suspender qualquer exploração já autorizada, quando para tanto se verifiquem razões ponderosas de ordem técnica ou de outra natureza que a tornem prejudicial ou inconveniente, mas, quando exista saldo na licença, indicarão as condições e locais em que possa esgotar-se a dita licença.
+Art. 79.º Os serviços de agricultura e florestas poderão suspender qualquer exploração já autorizada, quando para tanto se verifiquem razões ponderosas de ordem técnica ou de outra natureza que a tornem prejudicial ou inconveniente, mas, quando exista saldo na licença, indicarão as condições e locais em que possa esgotar-se a dita licença.
 
-###### Art. 80.º Os possuidores de licenças de exploração florestal são os proprietários dos produtos obtidos ao abrigo das mesmas, sem prejuízo do regime de sanções deste diploma.
+Art. 80.º Os possuidores de licenças de exploração florestal são os proprietários dos produtos obtidos ao abrigo das mesmas, sem prejuízo do regime de sanções deste diploma.
 
-###### Art. 81.º As licenças de exploração não se transmitem senão por morte dos respectivos titulares, caso em que beneficiarão delas os herdeiros devidamente habilitados.
+Art. 81.º As licenças de exploração não se transmitem senão por morte dos respectivos titulares, caso em que beneficiarão delas os herdeiros devidamente habilitados.
 
 § único. Quando se trate de licença para quantidades e prazos limitados e haja pluralidade de herdeiros, ficará responsável pela exploração um deles ou representante devidamente constituído por todos. Na falta de acordo no prazo de 90 dias, a licença caducará.
 
-###### Art. 82.º Os interessados na exploração florestal só podem requerer novas licenças quando tenham actualizado até ao mês anterior todo o movimento das licenças válidas.
+Art. 82.º Os interessados na exploração florestal só podem requerer novas licenças quando tenham actualizado até ao mês anterior todo o movimento das licenças válidas.
 
 § único. Os requerimentos que não observem o disposto no corpo do artigo serão imediatamente indeferidos.
 
-###### Art. 83.º As licenças para exploração florestal são válidas para o prazo nelas marcado, nunca podendo ultrapassar um ano.
+Art. 83.º As licenças para exploração florestal são válidas para o prazo nelas marcado, nunca podendo ultrapassar um ano.
 
 § 1.º Em casos excepcionais e devidamente fundamentados poderá ser mantida a validade de uma licença que apresente saldo, desde que o interessado o requeira até dez dias antes da sua caducidade.
 
 § 2.º A revalidação - que não pode fazer-se mais de uma vez - determina o prévio pagamento pelo interessado de 10 por cento da taxa aplicável ao produto para o saldo existente.
 
-###### Art. 84.º Os comerciantes de produtos florestais, dediquem-se ou não à exploração florestal, e os industriais de serração e manufactura de madeiras são obrigados a ter, devidamente actualizado e patente à fiscalização, um livro de registo de entrada e saída dos produtos do modelo aprovado em cada província.
+Art. 84.º Os comerciantes de produtos florestais, dediquem-se ou não à exploração florestal, e os industriais de serração e manufactura de madeiras são obrigados a ter, devidamente actualizado e patente à fiscalização, um livro de registo de entrada e saída dos produtos do modelo aprovado em cada província.
 
-###### Art. 85.º Em cada província e mediante portaria serão determinadas as épocas anuais de corte para as espécies a explorar, devendo ter-se em conta as diferenciações ecológicas.
+Art. 85.º Em cada província e mediante portaria serão determinadas as épocas anuais de corte para as espécies a explorar, devendo ter-se em conta as diferenciações ecológicas.
 
 § único. Se por motivos justificados houver necessidade de alterar as épocas de corte, a alteração poderá ser determinada por despacho do governador sobre proposta dos serviços de agricultura e florestas.
 
-###### Art. 86.º A licença de exploração florestal para madeira não dá qualquer direito ao aproveitamento das lenhas obtidas naquela exploração, salvo para utilização no próprio local de corte e ùnicamente quando aquelas forem provenientes de ramadas que não tenham qualquer outra utilização.
+Art. 86.º A licença de exploração florestal para madeira não dá qualquer direito ao aproveitamento das lenhas obtidas naquela exploração, salvo para utilização no próprio local de corte e ùnicamente quando aquelas forem provenientes de ramadas que não tenham qualquer outra utilização.
 
 § 1.º Os serviços de agricultura e florestas poderão passar licenças para quantidade e prazos limitados a exploradores de combustíveis vegetais interessados nas lenhas referidas no artigo, de harmonia com as normas técnicas estabelecidas ou a estabelecer.
 
 § 2.º Os titulares de exploração de madeiras terão preferência na exploração das lenhas a que se refere o artigo, pagando as taxas correspondentes.
 
-###### Art. 87.º Quando a exploração florestal abranja espécies que possam ser exploradas econòmicamente em mais de um produto, proceder-se-á do modo seguinte:
+Art. 87.º Quando a exploração florestal abranja espécies que possam ser exploradas econòmicamente em mais de um produto, proceder-se-á do modo seguinte:
 
 1.º Autorizar-se-á a exploração exclusiva do produto que não afecte a espécie quanto à outra modalidade de exploração;
 
@@ -591,13 +607,13 @@ d) Propriedade plena adquirida por concessão ou não - os tipos de exploração
 
 § único. O disposto no corpo do artigo só é de aplicar quando não haja inconvenientes de ordem económico-social, e os serviços de agricultura e florestas promoverão o estudo bioeconómico de tais espécies para estabelecimento de normas racionais da sua exploração.
 
-###### Art. 88.º No caso de se ter realizado integralmente a licença de exploração, mas não tenha sido possível transitar o produto para fora do local de corte dentro do prazo de validade, o interessado pode requerer - até dez dias sobre o termo da licença - o certificado do produto em estância.
+Art. 88.º No caso de se ter realizado integralmente a licença de exploração, mas não tenha sido possível transitar o produto para fora do local de corte dentro do prazo de validade, o interessado pode requerer - até dez dias sobre o termo da licença - o certificado do produto em estância.
 
 § único. O requerimento, acompanhado da licença, será dirigido ao funcionário florestal com superintendência na área e, após vistoria obrigatória dos serviços de agricultura e florestas, substituir-se-á a licença pelo certificado, cujo prazo de validade se determinará em função da quantidade do produto em estância, mas não poderá ultrapassar 180 dias.
 
-###### Art. 89.º As licenças de exploração florestal para quantidades e prazos limitados podem conceder-se para consumo próprio ou para venda dos produtos obtidos.
+Art. 89.º As licenças de exploração florestal para quantidades e prazos limitados podem conceder-se para consumo próprio ou para venda dos produtos obtidos.
 
-###### Art. 90.º As licenças, de exploração para consumo próprio, devidamente justificado, em formações vegetais naturais, só podem ser concedidas às entidades e pessoas abaixo indicadas:
+Art. 90.º As licenças, de exploração para consumo próprio, devidamente justificado, em formações vegetais naturais, só podem ser concedidas às entidades e pessoas abaixo indicadas:
 
 1) Serviços e organismos oficiais, autarquias locais e missões religiosas;
 
@@ -605,17 +621,17 @@ d) Propriedade plena adquirida por concessão ou não - os tipos de exploração
 
 3) Concessionários ou titulares de ocupações por licença, quando os terrenos estejam titulados ou, pelo menos, existam esboços devidamente aprovados pelos serviços geográficos e cadastrais.
 
-###### Art. 91.º As pessoas que sejam proprietárias de matas constituídas limitar-se-ão a comunicar por escrito ao órgão local dos serviços de agricultura e florestas o exercício da actividade exploradora, identificando a propriedade e discriminando as espécies e volumes.
+Art. 91.º As pessoas que sejam proprietárias de matas constituídas limitar-se-ão a comunicar por escrito ao órgão local dos serviços de agricultura e florestas o exercício da actividade exploradora, identificando a propriedade e discriminando as espécies e volumes.
 
 § único. Os interessados sujeitar-se-ão às normas estabelecidas, no caso de vigorar regime florestal na área ou de existir um plano regional de protecção do solo.
 
-###### Art. 92.º Deferido um requerimento de exploração florestal, os requerentes deverão munir-se da correspondente licença no prazo máximo de 90 dias, sob pena de caducidade do deferimento.
+Art. 92.º Deferido um requerimento de exploração florestal, os requerentes deverão munir-se da correspondente licença no prazo máximo de 90 dias, sob pena de caducidade do deferimento.
 
-###### Art. 93.º Fora dos casos previstos neste diploma, os encargos de transporte dos agentes dos serviços de agricultura e florestas deslocados em vistoria são suportados pelos interessados.
+Art. 93.º Fora dos casos previstos neste diploma, os encargos de transporte dos agentes dos serviços de agricultura e florestas deslocados em vistoria são suportados pelos interessados.
 
 § único. As despesas de fiscalização e inspecção são suportadas pelo Estado.
 
-###### Art. 94.º Nas povoações classificadas e comerciais, onde não haja comércio organizado de lenhas e combustíveis vegetais, será estabelecida, mediante portaria, uma taxa anual de consumo familiar, que será cobrada pelas autoridades administrativas.
+Art. 94.º Nas povoações classificadas e comerciais, onde não haja comércio organizado de lenhas e combustíveis vegetais, será estabelecida, mediante portaria, uma taxa anual de consumo familiar, que será cobrada pelas autoridades administrativas.
 
 § único. As autoridades referidas no corpo do artigo remeterão semestralmente aos serviços de agricultura e florestas triplicado dos talões de receita.
 
@@ -623,25 +639,29 @@ d) Propriedade plena adquirida por concessão ou não - os tipos de exploração
 
 ##### DIVISÃO I — Das licenças para quantidades e prazos limitados
 
-##### Subdivisão I — Das licenças para consumo próprio
+Subdivisão I
 
-###### Art. 95.º As entidades constantes do n.º 1) do artigo 90.º solicitarão ao órgão local dos serviços de agricultura e florestas a autorização devida, indicando os elementos essenciais previamente determinados por estes serviços para esta espécie de autorização.
+Das licenças para consumo próprio
+
+Art. 95.º As entidades constantes do n.º 1) do artigo 90.º solicitarão ao órgão local dos serviços de agricultura e florestas a autorização devida, indicando os elementos essenciais previamente determinados por estes serviços para esta espécie de autorização.
 
 § único. A exploração só pode iniciar-se depois de autorização dos serviços de agricultura e florestas, devendo ficar expresso qual o agente dos beneficiários encarregado de velar pelo cumprimento das disposições da regulamentação florestal.
 
-###### Art. 96.º As pessoas referidas nos n.os 2) e 3) do artigo 90.º deste diploma apresentarão requerimento devidamente justificado, segundo o esquema a adoptar pelos serviços de agricultura e florestas, juntando-lhe títulos, esboços e certidões passadas pelos serviços geográficos e cadastrais, com vista a preencher os requisitos do dito artigo.
+Art. 96.º As pessoas referidas nos n.os 2) e 3) do artigo 90.º deste diploma apresentarão requerimento devidamente justificado, segundo o esquema a adoptar pelos serviços de agricultura e florestas, juntando-lhe títulos, esboços e certidões passadas pelos serviços geográficos e cadastrais, com vista a preencher os requisitos do dito artigo.
 
-###### Art. 97.º Os serviços de agricultura e florestas, quando não tenham conhecimento directo e actualizado do valor silvícola da área a explorar para consumo próprio, procederão à vistoria do local.
+Art. 97.º Os serviços de agricultura e florestas, quando não tenham conhecimento directo e actualizado do valor silvícola da área a explorar para consumo próprio, procederão à vistoria do local.
 
-###### Art. 98.º Os titulares de licenças ou autorizações de exploração para consumo próprio ficam sujeitos ao estabelecido quanto à estatística de exploração, à fiscalização florestal e ao trânsito dos produtos, quando circulem fora dos terrenos explorados.
+Art. 98.º Os titulares de licenças ou autorizações de exploração para consumo próprio ficam sujeitos ao estabelecido quanto à estatística de exploração, à fiscalização florestal e ao trânsito dos produtos, quando circulem fora dos terrenos explorados.
 
-###### Art. 99.º Para que seja permitida a renovação de uma licença de exploração para consumo próprio, deverão analisar-se as justificações e as necessidades dos requerentes, com base nas permissões anteriores.
+Art. 99.º Para que seja permitida a renovação de uma licença de exploração para consumo próprio, deverão analisar-se as justificações e as necessidades dos requerentes, com base nas permissões anteriores.
 
-###### Art. 100.º Estão dispensados de licença ou certificado de exploração florestal os rurais que vivam fora de povoações comerciais ou classificadas, quando a exploração vise o consumo próprio ou se destine a trabalhos de artesanato.
+Art. 100.º Estão dispensados de licença ou certificado de exploração florestal os rurais que vivam fora de povoações comerciais ou classificadas, quando a exploração vise o consumo próprio ou se destine a trabalhos de artesanato.
 
-##### Subdivisão II — Das licenças para venda
+Subdivisão II
 
-###### Art. 101.º Todas as pessoas que pretendam licenças de exploração florestal para venda de produtos deverão remeter aos serviços de agricultura e florestas os seguintes documentos:
+Das licenças para venda
+
+Art. 101.º Todas as pessoas que pretendam licenças de exploração florestal para venda de produtos deverão remeter aos serviços de agricultura e florestas os seguintes documentos:
 
 1) Requerimento dirigido ao governador da província, contendo todos os elementos essenciais de identificação da área e definição da pretensão, conforme modelo aprovado pelos serviços;
 
@@ -651,7 +671,7 @@ d) Propriedade plena adquirida por concessão ou não - os tipos de exploração
 
 § 2.º Para as explorações anuais de madeira superiores a 500 m3 é obrigatória a instalação do equipamento industrial e mecânico necessário ao completo e integral aproveitamento do material lenhoso abatido.
 
-###### Art. 102.º Os serviços de agricultura e florestas, satisfeitas as condições do artigo anterior, procederão às diligências seguintes:
+Art. 102.º Os serviços de agricultura e florestas, satisfeitas as condições do artigo anterior, procederão às diligências seguintes:
 
 1) Exame de alienabilidade das formações vegetais e da não colisão com interesses legítimos devidamente cadastrados;
 
@@ -663,7 +683,7 @@ d) Propriedade plena adquirida por concessão ou não - os tipos de exploração
 
 § 2.º Para a continuação da exploração, dispensar-se-á exame quando se verifique a permanência da situação do n.º 1), mas a vistoria prevista no n.º 3) deverá ainda analisar o modo como o requerente efectuou a exploração anterior e cumpriu as normas técnicas que lhe foram impostas.
 
-###### Art. 103.º Feitas as diligências do artigo anterior, o técnico florestal responsável informará a pretensão e considerará:
+Art. 103.º Feitas as diligências do artigo anterior, o técnico florestal responsável informará a pretensão e considerará:
 
 a) Para indeferimento, as razões de ordem técnica, económica e social determinantes da posição tomada;
 
@@ -671,15 +691,15 @@ b) Para deferimento, as razões determinantes da informação e as normas a que 
 
 § único. No acto da passagem de licença o interessado deverá não só limitar-se à área que lhe for determinada, como ainda obedecer às normas especiais aprovadas para a exploração.
 
-###### Art. 104.º Desde que as formações florestais classificadas exclusivamente para a exploração silvícola de acordo com o § 1.º do artigo 5.º não apresentem condições económicas para uma concessão de exploração florestal, por motivo de exploração anterior ou outras, podem os serviços de agricultura e florestas conferir licenças de exploração para venda, em quantidade e prazo limitados, conforme o disposto nesta subdivisão.
+Art. 104.º Desde que as formações florestais classificadas exclusivamente para a exploração silvícola de acordo com o § 1.º do artigo 5.º não apresentem condições económicas para uma concessão de exploração florestal, por motivo de exploração anterior ou outras, podem os serviços de agricultura e florestas conferir licenças de exploração para venda, em quantidade e prazo limitados, conforme o disposto nesta subdivisão.
 
 § 1.º Tratando-se de exploração florestal extinta, o ex-concessionário tem preferência sobre outros interessados, desde que nada conste em seu desabono como explorador florestal.
 
 § 2.º Fora do condicionalismo do § 1.º, só poderá obter licença quem já se dedique a exploração e seja considerado explorador idóneo.
 
-###### Art. 105.º Para disciplina da exploração, só excepcionalmente se emitirá nova licença quando o requerente, para o mesmo tipo de produto, tenha movimentado por completo uma licença posterior a uma outra ainda não esgotada.
+Art. 105.º Para disciplina da exploração, só excepcionalmente se emitirá nova licença quando o requerente, para o mesmo tipo de produto, tenha movimentado por completo uma licença posterior a uma outra ainda não esgotada.
 
-###### Art. 106.º Se numa vistoria de inspecção a uma exploração florestal se verificar que o explorador não obedece às normas e directrizes que lhe foram determinadas para a execução do corte e aproveitamento dos produtos, levantar-se-á auto de notícia.
+Art. 106.º Se numa vistoria de inspecção a uma exploração florestal se verificar que o explorador não obedece às normas e directrizes que lhe foram determinadas para a execução do corte e aproveitamento dos produtos, levantar-se-á auto de notícia.
 
 § único. Conforme a gravidade dos factos constantes do auto será determinado:
 
@@ -689,15 +709,15 @@ b) Aplicação da penalidade prevista, sem caducidade de licença, desde que o p
 
 ##### DIVISÃO II — Das licenças de derruba para fins agrícolas
 
-###### Art. 107.º A derruba para cultura agrícola far-se-á de harmonia com o disposto no artigo 52.º deste diploma.
+Art. 107.º A derruba para cultura agrícola far-se-á de harmonia com o disposto no artigo 52.º deste diploma.
 
-###### Art. 108.º No caso de propriedade perfeita, a derruba só poderá efectuar-se se o título identificar os limites.
+Art. 108.º No caso de propriedade perfeita, a derruba só poderá efectuar-se se o título identificar os limites.
 
 § 1.º Enquanto não for aplicado o disposto no artigo 198.º do regulamento aprovado pelo [Decreto n.º 43894](https://diariodarepublica.pt/dr/detalhe/decreto/43894-1961-180993), de 6 de Setembro de 1961, poderão admitir-se, provisória e condicionalmente, esboços e outros documentos pelos quais se patenteiem a presunção de direitos dos interessados e a não litigiosidade efectiva da área em causa.
 
 § 2.º As comunicações e pedidos de licenças especificarão a área a submeter a derruba e a finalidade agrícola visada.
 
-###### Art. 109.º O pedido de licença de derruba para fins agrícolas faz-se do modo seguinte:
+Art. 109.º O pedido de licença de derruba para fins agrícolas faz-se do modo seguinte:
 
 1) Nas condições da alínea b) do n.º 1.º do artigo 52.º - requerimento dirigido ao governador da província, especificando a área e os fins em vista, acompanhado de título ou equivalente e planta ou esboço da área.
 
@@ -705,7 +725,7 @@ b) Aplicação da penalidade prevista, sem caducidade de licença, desde que o p
 
 § único. Os serviços de agricultura e florestas podem proceder a vistoria prévia, mas efectuá-la-ão sempre relativamente aos terrenos demarcados.
 
-###### Art. 110.º Os produtos florestais provenientes da derruba para cultura poderão ter os destinos seguintes:
+Art. 110.º Os produtos florestais provenientes da derruba para cultura poderão ter os destinos seguintes:
 
 1) Consumo próprio, dentro da área de exploração, com dispensa de licença ou autorização;
 
@@ -715,9 +735,9 @@ b) Aplicação da penalidade prevista, sem caducidade de licença, desde que o p
 
 ##### DIVISÃO III — Das concessões para exploração florestal
 
-###### Art. 111.º As formações florestais que em consequência de classificação ficam sujeitas exclusivamente a exploração silvícola ou sejam alienáveis e possuam boa taxa arbórea são destinadas a exploração florestal, em regime de concessão, com a finalidade dominante de aprovisionamento de indústrias devidamente estabelecidas ou de satisfação de necessidades de carácter colectivo.
+Art. 111.º As formações florestais que em consequência de classificação ficam sujeitas exclusivamente a exploração silvícola ou sejam alienáveis e possuam boa taxa arbórea são destinadas a exploração florestal, em regime de concessão, com a finalidade dominante de aprovisionamento de indústrias devidamente estabelecidas ou de satisfação de necessidades de carácter colectivo.
 
-###### Art. 112.º As concessões para exploração florestal fazem-se com observância dos seguintes princípios:
+Art. 112.º As concessões para exploração florestal fazem-se com observância dos seguintes princípios:
 
 1) Concessões por arrendamento, para as formações florestais classificadas para exclusiva exploração silvícola;
 
@@ -725,7 +745,7 @@ b) Aplicação da penalidade prevista, sem caducidade de licença, desde que o p
 
 § único. As concessões referidas no corpo do artigo serão condicionadas por planos regionais de ordenamento agrário.
 
-###### Art. 113.º O processo de concessão por arrendamento para exploração florestal, a organizar pelos serviços de agricultura e florestas, constará, na sua fase inicial, de requerimento dirigido ao governador, segundo modelo adoptado por estes serviços, acompanhado dos documentos seguintes:
+Art. 113.º O processo de concessão por arrendamento para exploração florestal, a organizar pelos serviços de agricultura e florestas, constará, na sua fase inicial, de requerimento dirigido ao governador, segundo modelo adoptado por estes serviços, acompanhado dos documentos seguintes:
 
 1) Em quadruplicado, carta topográfica ou, na sua falta, esboço topográfico da área, onde se registem todos os elementos identificadores de terreno, e, particularmente, os limites, a superfície, os acidente oro-hidrográficos, as estradas e caminhos e as povoações;
 
@@ -737,7 +757,7 @@ b) Aplicação da penalidade prevista, sem caducidade de licença, desde que o p
 
 5) Prova do requisito previsto no n.º 3.º do artigo 61.º do regulamento aprovado pelo [Decreto n.º 43894](https://diariodarepublica.pt/dr/detalhe/decreto/43894-1961-180993), de 6 de Setembro de 1961, quando se trate de sociedades de comércio.
 
-###### Art. 114.º Recebido o requerimento a que se refere o artigo anterior, os serviços de agricultura e florestas promoverão o seguinte:
+Art. 114.º Recebido o requerimento a que se refere o artigo anterior, os serviços de agricultura e florestas promoverão o seguinte:
 
 1) Análise do pedido em relação às explorações existentes em regime de concessão, à natureza, aproveitamento e industrialização dos produtos pretendidos e à influência actual e previsível da exploração pretendida na economia da província;
 
@@ -767,7 +787,7 @@ d) As cláusulas especiais a incluir no contrato.
 
 10) Adesão do requerente às cláusulas e condições fixadas no despacho anterior, no caso de deferimento.
 
-###### Art. 115.º Após a incorporação no processo da declaração prevista no n.º 10.º do artigo antecedente, o interessado apresentará, no prazo máximo de 90 dias:
+Art. 115.º Após a incorporação no processo da declaração prevista no n.º 10.º do artigo antecedente, o interessado apresentará, no prazo máximo de 90 dias:
 
 1) Plano de exploração executado por técnico idóneo, de harmonia com a orientação definida no processo;
 
@@ -781,7 +801,7 @@ d) As cláusulas especiais a incluir no contrato.
 
 § 3.º Em regra, só após um ano de exploração bem executada pode ser autorizada à substituição do depósito por garantia bancária.
 
-###### Art. 116.º Nos pedidos de concessão de terrenos a que seja aplicável o disposto no artigo 4.º da [Lei n.º 2001](https://diariodarepublica.pt/dr/detalhe/lei/2001-1944-549022), de 16 de Maio de 1944, observar-se-á o seguinte:
+Art. 116.º Nos pedidos de concessão de terrenos a que seja aplicável o disposto no artigo 4.º da [Lei n.º 2001](https://diariodarepublica.pt/dr/detalhe/lei/2001-1944-549022), de 16 de Maio de 1944, observar-se-á o seguinte:
 
 1) O processo corre trâmites através dos serviços geográficos e cadastrais;
 
@@ -791,11 +811,11 @@ d) As cláusulas especiais a incluir no contrato.
 
 § 2.º O foro será determinado em harmonia com o disposto neste diploma.
 
-###### Art. 117.º Os serviços geográficos e cadastrais, a Junta Provincial de Povoamento e as administrações de concelho ou de circunscrição das áreas concedidas receberão cópias dos elementos essenciais dos processos de concessão.
+Art. 117.º Os serviços geográficos e cadastrais, a Junta Provincial de Povoamento e as administrações de concelho ou de circunscrição das áreas concedidas receberão cópias dos elementos essenciais dos processos de concessão.
 
-###### Art. 118.º As instalações industriais necessárias à exploração racional da concessão florestal não estão sujeitas a alvará, mas os serviços de agricultura e florestas remeterão aos serviços que superintendem nas actividades industriais, para efeitos de registo, cópias dos projectos e memórias correspondentes.
+Art. 118.º As instalações industriais necessárias à exploração racional da concessão florestal não estão sujeitas a alvará, mas os serviços de agricultura e florestas remeterão aos serviços que superintendem nas actividades industriais, para efeitos de registo, cópias dos projectos e memórias correspondentes.
 
-###### Art. 119.º Não poderá dar-se início à exploração sem que os serviços de agricultura e florestas verifiquem, mediante vistoria:
+Art. 119.º Não poderá dar-se início à exploração sem que os serviços de agricultura e florestas verifiquem, mediante vistoria:
 
 1) A delimitação conveniente da área concedida, por meio de picada perimetral e de tabuletas com forma, dimensões e referências a impor pelos serviços;
 
@@ -803,11 +823,11 @@ d) As cláusulas especiais a incluir no contrato.
 
 3) A instalação dos meios de industrialização e de preservação, parciais ou totais, consoante o estabelecido no contrato de concessão.
 
-###### Art. 120.º A renda das concessões será fixada e actualizada na conformidade do disposto no artigo 126.º do regulamento aprovado pelo [Decreto n.º 43894](https://diariodarepublica.pt/dr/detalhe/decreto/43894-1961-180993), de 6 de Setembro de 1961, tendo em consideração, especialmente, as características e localização geográfica dos terrenos e o potencial qualitativo e quantitativo dos povoamentos florestais.
+Art. 120.º A renda das concessões será fixada e actualizada na conformidade do disposto no artigo 126.º do regulamento aprovado pelo [Decreto n.º 43894](https://diariodarepublica.pt/dr/detalhe/decreto/43894-1961-180993), de 6 de Setembro de 1961, tendo em consideração, especialmente, as características e localização geográfica dos terrenos e o potencial qualitativo e quantitativo dos povoamentos florestais.
 
-###### Art. 121.º O foro das concessões para fins florestais a que seja aplicável o disposto no artigo 4.º da [Lei n.º 2001](https://diariodarepublica.pt/dr/detalhe/lei/2001-1944-549022), de 16 de Maio de 1944, será calculado e actualizado em função das normas e factores do artigo anterior, mas será sempre superior ao da concessão para outros fins.
+Art. 121.º O foro das concessões para fins florestais a que seja aplicável o disposto no artigo 4.º da [Lei n.º 2001](https://diariodarepublica.pt/dr/detalhe/lei/2001-1944-549022), de 16 de Maio de 1944, será calculado e actualizado em função das normas e factores do artigo anterior, mas será sempre superior ao da concessão para outros fins.
 
-###### Art. 122.º O concessionário não necessita de qualquer licença prévia para os seguintes trabalhos, a executar na área concedida e indispensáveis à eficiência da exploração:
+Art. 122.º O concessionário não necessita de qualquer licença prévia para os seguintes trabalhos, a executar na área concedida e indispensáveis à eficiência da exploração:
 
 1) Abertura de picadas perimetrais de penetração e de escoamento, desde que sejam respeitadas as espécies prèviamente consideradas de interesse;
 
@@ -821,7 +841,7 @@ d) As cláusulas especiais a incluir no contrato.
 
 § 2.º A saída dos produtos da concessão, com destino a uso e consumo ou venda, exige licença para quantidades e prazos limitados, aplicando-se as taxas aprovadas.
 
-###### Art. 123.º Serão anuladas as concessões de exploração florestal:
+Art. 123.º Serão anuladas as concessões de exploração florestal:
 
 1) Por arrendamento, quando se verificar o não pagamento da renda, a violação de quaisquer cláusulas contratuais e a aplicação da pena de irradiação, mesmo temporária;
 
@@ -833,19 +853,19 @@ d) As cláusulas especiais a incluir no contrato.
 
 § 2.º Fixar-se-á um prazo ao concessionário para remover toda a maquinaria, material e instalações, não sendo permitida a remoção ou destruição de quaisquer benfeitorias cuja permanência seja necessária à conservação da área, embora não tenha direito a qualquer indemnização.
 
-###### Art. 124.º Numa concessão para exploração florestal não são permitidas a substituição e a transmissão ou endosso, exceptuando o disposto no corpo do artigo 6.º da [Lei n.º 2001](https://diariodarepublica.pt/dr/detalhe/lei/2001-1944-549022), de 16 de Maio de 1944, e ressalvados os casos de decisão judicial ou de sucessão.
+Art. 124.º Numa concessão para exploração florestal não são permitidas a substituição e a transmissão ou endosso, exceptuando o disposto no corpo do artigo 6.º da [Lei n.º 2001](https://diariodarepublica.pt/dr/detalhe/lei/2001-1944-549022), de 16 de Maio de 1944, e ressalvados os casos de decisão judicial ou de sucessão.
 
 § único. As modificações resultantes da aplicação do disposto no corpo deste artigo processam-se nos termos do regulamento aprovado pelo [Decreto n.º 43894](https://diariodarepublica.pt/dr/detalhe/decreto/43894-1961-180993), de 6 de Setembro de 1961, mas não prejudicam a temporalidade contratual de quaisquer concessões.
 
-###### Art. 125.º A requerimento dos interessados, é permitida a associação na concessão, mediante informação prévia dos serviços de agricultura e florestas quanto à idoneidade dos novos associados.
+Art. 125.º A requerimento dos interessados, é permitida a associação na concessão, mediante informação prévia dos serviços de agricultura e florestas quanto à idoneidade dos novos associados.
 
 § único. A desistência do concessionário inicial dentro do prazo do contrato implica a anulação imediata da concessão, com observância do § 1.º do artigo 123.º
 
-###### Art. 126.º À associação prevista no artigo anterior e à desistência dos interessados aplicam-se as disposições correspondentes do regulamento aprovado pelo [Decreto n.º 43894](https://diariodarepublica.pt/dr/detalhe/decreto/43894-1961-180993), de 6 de Setembro de 1961.
+Art. 126.º À associação prevista no artigo anterior e à desistência dos interessados aplicam-se as disposições correspondentes do regulamento aprovado pelo [Decreto n.º 43894](https://diariodarepublica.pt/dr/detalhe/decreto/43894-1961-180993), de 6 de Setembro de 1961.
 
-###### Art. 127.º Nenhuma concessão florestal poderá ser autorizada sem que os serviços de agricultura e florestas possam fiscalizá-la convenientemente, por intermédio de um guarda florestal, cabendo ao concessionário o depósito prévio das importâncias destinadas ao pagamento dos vencimentos ou salários respectivos, através da secretaria da dependência competente na área.
+Art. 127.º Nenhuma concessão florestal poderá ser autorizada sem que os serviços de agricultura e florestas possam fiscalizá-la convenientemente, por intermédio de um guarda florestal, cabendo ao concessionário o depósito prévio das importâncias destinadas ao pagamento dos vencimentos ou salários respectivos, através da secretaria da dependência competente na área.
 
-###### Art. 128.º Terminado o prazo de uma concessão para exploração florestal pode o Estado, se o entender convenientemente, decidir:
+Art. 128.º Terminado o prazo de uma concessão para exploração florestal pode o Estado, se o entender convenientemente, decidir:
 
 1) Pela não renovação, com levantamento do depósito bancário ou anulação da garantia e aplicação do disposto nos §§ 1.º e 2.º do artigo 123.º deste diploma;
 
@@ -861,9 +881,11 @@ d) As cláusulas especiais a incluir no contrato.
 
 ##### DIVISÃO I — Sob jurisdição dos serviços de agricultura e florestas
 
-##### Subdivisão I — Dos polígonos florestais
+Subdivisão I
 
-###### Art. 129.º Nos polígonos florestais, a exploração é da competência dos serviços de agricultura e florestas, que, no entanto, podem proceder do modo seguinte, se o entenderem conveniente:
+Dos polígonos florestais
+
+Art. 129.º Nos polígonos florestais, a exploração é da competência dos serviços de agricultura e florestas, que, no entanto, podem proceder do modo seguinte, se o entenderem conveniente:
 
 1) Em floresta natural - adjudicação, em hasta pública, a pessoa idónea;
 
@@ -871,7 +893,7 @@ d) As cláusulas especiais a incluir no contrato.
 
 § único. As operações culturais ou cortes, de exploração executados, pelos serviços subordinar-se-ão a programa de trabalhos ou a plano de exploração de povoamento superiormente aprovados; e a exploração por particular depende de despacho do director, baseado nos elementos do artigo seguinte.
 
-###### Art. 130.º Os serviços de agricultura e florestas patentearão caderno de encargos de que constarão fundamentalmente:
+Art. 130.º Os serviços de agricultura e florestas patentearão caderno de encargos de que constarão fundamentalmente:
 
 1) Para floresta natural - lista numérica das árvores, prèviamente numeradas e marcadas, especificando o seu nome, o local, a parcela ou talhão, o D. A. P., a altura e o volume aproximados e o volume total do arvoredo sujeito a corte; e ainda normas de exploração, fixando a disciplina das alturas de corte, do aproveitamento, da concentração para medição e escoamento, da fiscalização de saída do polígono e do prazo da exploração;
 
@@ -883,19 +905,21 @@ d) As cláusulas especiais a incluir no contrato.
 
 § 3.º A desistência do adjudicatário, antes da efectivação do depósito a que se refere o § 1.º, é punível nos termos deste diploma.
 
-###### Art. 131.º A venda dos produtos provenientes da exploração feita pelos serviços de agricultura e florestas faz-se de acordo com o disposto no artigo 70.º deste diploma, após a execução dos trabalhos determinados para o estudo bioeconómico dos povoamentos.
+Art. 131.º A venda dos produtos provenientes da exploração feita pelos serviços de agricultura e florestas faz-se de acordo com o disposto no artigo 70.º deste diploma, após a execução dos trabalhos determinados para o estudo bioeconómico dos povoamentos.
 
-##### Subdivisão II — Das reservas florestais
+Subdivisão II
 
-###### Art. 132.º A exploração das reservas florestais pelos serviços de agricultura e florestas faz-se pelo processo da subdivisão anterior e só pode ser entregue a particulares, observando-se rigorosamente o disposto no § único do artigo 15.º deste diploma, com aplicação das taxas em vigor e depósito para pagamento de ajudas de custo de um guarda, quando não exista guarda florestal privativo da reserva e enquanto durar a exploração.
+Das reservas florestais
 
-###### Art. 133.º Não é permitida a saída de madeiras exploradas nas reservas florestais sem que sejam marcadas por guardas florestais, no topo visível à fiscalização, com martelo de marca dos serviços, especial para reservas.
+Art. 132.º A exploração das reservas florestais pelos serviços de agricultura e florestas faz-se pelo processo da subdivisão anterior e só pode ser entregue a particulares, observando-se rigorosamente o disposto no § único do artigo 15.º deste diploma, com aplicação das taxas em vigor e depósito para pagamento de ajudas de custo de um guarda, quando não exista guarda florestal privativo da reserva e enquanto durar a exploração.
+
+Art. 133.º Não é permitida a saída de madeiras exploradas nas reservas florestais sem que sejam marcadas por guardas florestais, no topo visível à fiscalização, com martelo de marca dos serviços, especial para reservas.
 
 ##### DIVISÃO II — Sob jurisdição de outros serviços públicos, organismos oficiais autarquias locais
 
-###### Art. 134.º A exploração florestal nos terrenos sob jurisdição de outros serviços, organismos oficiais e autarquias locais é da competência das entidades responsáveis, observado o disposto neste diploma para disciplina fundamental da exploração.
+Art. 134.º A exploração florestal nos terrenos sob jurisdição de outros serviços, organismos oficiais e autarquias locais é da competência das entidades responsáveis, observado o disposto neste diploma para disciplina fundamental da exploração.
 
-###### Art. 135.º As entidades referidas no artigo anterior podem pedir a exploração por terceiros, através de licenças para quantidades e prazos limitados, nas condições seguintes:
+Art. 135.º As entidades referidas no artigo anterior podem pedir a exploração por terceiros, através de licenças para quantidades e prazos limitados, nas condições seguintes:
 
 1) Proposta fundamentada quanto às razões do pedido, acompanhada de todos os elementos que definam a área e as espécies;
 
@@ -907,33 +931,37 @@ d) As cláusulas especiais a incluir no contrato.
 
 § único. Os serviços de agricultura e florestas e outros directamente interessados podem proceder a estudos bioeconómicos das formações vegetais, sem prejuízo da exploração.
 
-###### Art. 136.º Para efeitos de responsabilidade as entidades interessadas indicarão funcionário ou agente encarregado do disciplinamento da exploração.
+Art. 136.º Para efeitos de responsabilidade as entidades interessadas indicarão funcionário ou agente encarregado do disciplinamento da exploração.
 
 ##### DIVISÃO III — Dos terrenos vagos
 
-##### Subdivisão I — Dos terrenos de 1.ª classe
+Subdivisão I
 
-###### Art. 137.º Nas áreas de foral as autarquias locais podem proceder a pequenos cortes integrados em plano de urbanização, observando o disposto no artigo 33.º deste diploma.
+Dos terrenos de 1.ª classe
+
+Art. 137.º Nas áreas de foral as autarquias locais podem proceder a pequenos cortes integrados em plano de urbanização, observando o disposto no artigo 33.º deste diploma.
 
 § único. Na falta de plano de urbanização a actividade prevista no corpo do artigo carece de vistoria prévia e de orientação dos serviços de agricultura e florestas.
 
-###### Art. 138.º Nos cortes em zonas urbanas sem foral as autarquias locais sujeitar-se-ão ao disposto no § único do artigo anterior para obras de alindamento e urbanização.
+Art. 138.º Nos cortes em zonas urbanas sem foral as autarquias locais sujeitar-se-ão ao disposto no § único do artigo anterior para obras de alindamento e urbanização.
 
-##### Subdivisão II — Dos terrenos de 2.ª classe
+Subdivisão II
 
-###### Art. 139.º Nos terrenos de 2.ª classe observar-se-á o disposto no artigo 100.º deste diploma.
+Dos terrenos de 2.ª classe
+
+Art. 139.º Nos terrenos de 2.ª classe observar-se-á o disposto no artigo 100.º deste diploma.
 
 § 1.º Se existir plano de ordenamento agrário, os interessados deverão sujeitar-se às normas gerais estabelecidas quanto às medidas a seguir na exploração.
 
-###### Art. 140.º Os beneficiários das regalias do artigo anterior não podem transaccionar os produtos, salvo quando industrializados pelo artesanato.
+Art. 140.º Os beneficiários das regalias do artigo anterior não podem transaccionar os produtos, salvo quando industrializados pelo artesanato.
 
-###### Art. 141.º A exploração florestal dos terrenos a que se refere o artigo 227.º do regulamento aprovado pelo [Decreto n.º 43894](https://diariodarepublica.pt/dr/detalhe/decreto/43894-1961-180993), de 6 de Setembro de 1961, é da competência dos interessados e faz-se nas condições seguintes:
+Art. 141.º A exploração florestal dos terrenos a que se refere o artigo 227.º do regulamento aprovado pelo [Decreto n.º 43894](https://diariodarepublica.pt/dr/detalhe/decreto/43894-1961-180993), de 6 de Setembro de 1961, é da competência dos interessados e faz-se nas condições seguintes:
 
 1) Para consumo próprio, nos termos do artigo 96.º deste diploma;
 
 2) Para venda - licença para quantidade e prazos limitados, tendo em consideração o disposto na subdivisão II da divisão I, da subsecção II da secção I deste capítulo, dispensando-se depósito ou garantia bancária quando o corte não exceda 50 m3 de madeira em toros.
 
-###### Art. 142.º Nos termos do n.º 2.º do artigo 75.º pode ser autorizada a exploração de formações vegetais naturais dos terrenos vagos de 2.ª classe nas condições seguintes:
+Art. 142.º Nos termos do n.º 2.º do artigo 75.º pode ser autorizada a exploração de formações vegetais naturais dos terrenos vagos de 2.ª classe nas condições seguintes:
 
 1) Parecer favorável dos regedores e respectivos conselheiros;
 
@@ -943,7 +971,7 @@ d) As cláusulas especiais a incluir no contrato.
 
 § único. As regedorias colaborarão com os serviços de agricultura e florestas na fiscalização do corte e na saída dos produtos.
 
-###### Art. 143.º A exploração dos povoamentos florestais constituídos nos termos do artigo 48.º deste diploma é feita pelas seguintes entidades:
+Art. 143.º A exploração dos povoamentos florestais constituídos nos termos do artigo 48.º deste diploma é feita pelas seguintes entidades:
 
 1) As regedorias, no caso do n.º 1.º do referido artigo;
 
@@ -961,11 +989,13 @@ b) Para venda - hasta pública, com a assistência das autoridades administrativ
 
 § 3.º Desde que o produto principal da exploração não seja o combustível, toda a ramada e desperdícios serão utilizados para consumo das populações, sob a superintendência das regedorias.
 
-##### Subdivisão III — Dos terrenos de 3.ª classe
+Subdivisão III
 
-###### Art. 144.º A exploração dos terrenos vagos de 3.ª classe faz-se conforme a disposição da divisão III da subsecção II da secção I deste capítulo.
+Dos terrenos de 3.ª classe
 
-###### Art. 145.º Em áreas sob exploração florestal, aplicam-se as seguintes disposições, quanto a concessões de terrenos:
+Art. 144.º A exploração dos terrenos vagos de 3.ª classe faz-se conforme a disposição da divisão III da subsecção II da secção I deste capítulo.
+
+Art. 145.º Em áreas sob exploração florestal, aplicam-se as seguintes disposições, quanto a concessões de terrenos:
 
 1) Só após a aplicação do § 2.º do artigo 128.º deste diploma é possível obter a concessão dos terrenos para outros fins;
 
@@ -977,11 +1007,11 @@ b) Para venda - hasta pública, com a assistência das autoridades administrativ
 
 ##### SUBSECÇÃO II — Dos terrenos concedidos ou apropriados por outro meio
 
-###### Art. 146.º A actividade florestal nas concessões de terreno, qualquer que seja a sua natureza e em terrenos adquiridos sem ser por concessão, rege-se pelas disposições apropriadas da exploração florestal para derrubas e de licença para consumo próprio e para quantidades e prazos limitados, conjugados com o preceituado, especial e genèricamente, nos capítulos V, VI, VII e VIII deste diploma.
+Art. 146.º A actividade florestal nas concessões de terreno, qualquer que seja a sua natureza e em terrenos adquiridos sem ser por concessão, rege-se pelas disposições apropriadas da exploração florestal para derrubas e de licença para consumo próprio e para quantidades e prazos limitados, conjugados com o preceituado, especial e genèricamente, nos capítulos V, VI, VII e VIII deste diploma.
 
 #### SECÇÃO III — Da medição dos produtos florestais
 
-###### Art. 147.º Para efeitos de aplicação de taxas e de fiscalização a medição dos produtos florestais faz-se do modo seguinte:
+Art. 147.º Para efeitos de aplicação de taxas e de fiscalização a medição dos produtos florestais faz-se do modo seguinte:
 
 1) Em metros cúbicos, segundo as normas dendrométricas normais - madeira ou varas, estacas, postes e esteios - com diâmetro superior a 20 cm.
 
@@ -993,33 +1023,33 @@ b) Para venda - hasta pública, com a assistência das autoridades administrativ
 
 5) Em hectares - derrubas para cultura agrícola.
 
-###### Art. 148.º Os serviços de agricultura e florestas estudarão e estabelecerão as relações volumétricas e ponderais inerentes à medição dos produtos, quer relacionados entre si, quando afins, quer com a espécie produtora.
+Art. 148.º Os serviços de agricultura e florestas estudarão e estabelecerão as relações volumétricas e ponderais inerentes à medição dos produtos, quer relacionados entre si, quando afins, quer com a espécie produtora.
 
 § único. As relações volumétricas e ponderais, os processos e regras de medição e os diâmetros máximos a estabelecer, conforme as espécies, serão definidos em portaria.
 
 #### SECÇÃO IV — Das taxas de exploração florestal
 
-###### Art. 149.º Os serviços de agricultura e florestas estabelecerão regionalmente as taxas de exploração a aplicar aos produtos, tendo fundamentalmente em consideração a qualidade e utilização destes; os índices de frequência e de regeneração das espécies e a sua taxa de crescimento; o valor real médio do produto, no comércio interno e externo, e as características económicas da drenagem.
+Art. 149.º Os serviços de agricultura e florestas estabelecerão regionalmente as taxas de exploração a aplicar aos produtos, tendo fundamentalmente em consideração a qualidade e utilização destes; os índices de frequência e de regeneração das espécies e a sua taxa de crescimento; o valor real médio do produto, no comércio interno e externo, e as características económicas da drenagem.
 
 § único. As taxas aplicam-se apenas sobre o produto em bruto.
 
 #### SECÇÃO V — Das isenções e reduções de taxas
 
-###### Art. 150.º As isenções e reduções de taxas serão estabelecidas em portaria dos governos das províncias mediante proposta dos serviços de agricultura e florestas.
+Art. 150.º As isenções e reduções de taxas serão estabelecidas em portaria dos governos das províncias mediante proposta dos serviços de agricultura e florestas.
 
 § único. A isenção de taxa não exclui a petição de licença ou de autorização de exploração, conforme os casos, salvo determinação diversa deste diploma ou de outra legislação especial.
 
 #### SECÇÃO VI — Da sobretaxa de repovoamento florestal
 
-###### Art. 151.º Cada província pode estabelecer, em diploma legislativo, uma sobretaxa aplicável à exploração florestal.
+Art. 151.º Cada província pode estabelecer, em diploma legislativo, uma sobretaxa aplicável à exploração florestal.
 
 § único. A sobretaxa do corpo do artigo não poderá exceder 50 por cento da taxa de exploração, respectiva e variará consoante a natureza, das espécies, a escassez ou abundância do produto, o seu valor de transacção e as condições económicas de exploração do local da região.
 
-###### Art. 152.º A administração e aplicação desta sobretaxa far-se-á na conformidade do artigo 38.º deste diploma.
+Art. 152.º A administração e aplicação desta sobretaxa far-se-á na conformidade do artigo 38.º deste diploma.
 
 #### SECÇÃO VII — Do trânsito dos produtos florestais
 
-###### Art. 153.º Nenhum produto florestal, definido nos termos deste diploma, pode transitar por quaisquer vias, terrestres, fluviais, marítimas ou aéreas, sem a respectiva guia de trânsito preenchida e assinada devidamente pelo possuidor da licença ou por quem o represente.
+Art. 153.º Nenhum produto florestal, definido nos termos deste diploma, pode transitar por quaisquer vias, terrestres, fluviais, marítimas ou aéreas, sem a respectiva guia de trânsito preenchida e assinada devidamente pelo possuidor da licença ou por quem o represente.
 
 § 1.º As guias de trânsito, passadas em quadruplicado, segundo modelo aprovado pelos serviços de agricultura e florestas, têm o destino seguinte:
 
@@ -1029,11 +1059,11 @@ b) O duplicado e o triplicado acompanham o produto, sendo o duplicado entregue a
 
 c) O quadruplicado é arquivado pela autoridade administrativa local.
 
-###### Art. 154.º Para o trânsito de produtos florestais dentro de uma área de exploração silvícola, agrícola, pecuária ou outras, ou na mesma localidade, de armazém para armazém ou para estabelecimento de venda, manipulação e aplicação, não é necessária guia de trânsito.
+Art. 154.º Para o trânsito de produtos florestais dentro de uma área de exploração silvícola, agrícola, pecuária ou outras, ou na mesma localidade, de armazém para armazém ou para estabelecimento de venda, manipulação e aplicação, não é necessária guia de trânsito.
 
 § único. Em caso de dúvida, o transportador ficará fiel depositário do produto e a fiscalização procederá às diligências necessárias ao seu esclarecimento.
 
-###### Art. 155.º As guias de trânsito não têm validade desde que não estejam prèviamente numeradas e autenticadas pela dependência dos serviços de agricultura e florestas que superintenda na área onde se efectua a exploração.
+Art. 155.º As guias de trânsito não têm validade desde que não estejam prèviamente numeradas e autenticadas pela dependência dos serviços de agricultura e florestas que superintenda na área onde se efectua a exploração.
 
 § 1.º Os serviços anotarão em. registo especial o movimento das guias de trânsito, e os guardas florestais deverão anotar diàriamente este movimento, em livrete próprio, que os acompanhará sempre na fiscalização.
 
@@ -1043,27 +1073,27 @@ c) O quadruplicado é arquivado pela autoridade administrativa local.
 
 § 4.º Para os efeitos do anterior parágrafo os serviços remeterão guias de trânsito, autenticadas e registadas, às autoridades administrativas, e estas observarão o disposto no § 2.º do artigo 153.º
 
-###### Art. 156.º As guias de trânsito são válidas apenas para o prazo nelas mencionado, devendo atender-se para o efeito à distância que os produtos têm a percorrer, o meio de transporte a utilizar e quaisquer outras circunstâncias ponderáveis, admitindo uma tolerância de 10 por cento relativamente à quantidade expressa.
+Art. 156.º As guias de trânsito são válidas apenas para o prazo nelas mencionado, devendo atender-se para o efeito à distância que os produtos têm a percorrer, o meio de transporte a utilizar e quaisquer outras circunstâncias ponderáveis, admitindo uma tolerância de 10 por cento relativamente à quantidade expressa.
 
 § único. Dentro da tolerância, o funcionário cobrará, mediante recibo, a taxa de exploração devida pelo excesso, acrescida de 10 por cento, e entregará guia complementar, cujo duplicado será remetido à dependência dos serviços de agricultura e florestas que emitiu a licença, para efeitos de registo.
 
-###### Art. 157.º Nas estações de caminho de ferro, alfândegas e postos de despacho não é permitido despacho ou embarque de qualquer produto florestal sem apresentação da guia de trânsito, a devolver após verificação e visto; e também não é permitido o levantamento de produtos florestais sem apresentação de guias de trânsito ou de licença, de importação, conforme provenham do interior ou do exterior da província, e dos documentos que a fiscalização fitossanitária exija.
+Art. 157.º Nas estações de caminho de ferro, alfândegas e postos de despacho não é permitido despacho ou embarque de qualquer produto florestal sem apresentação da guia de trânsito, a devolver após verificação e visto; e também não é permitido o levantamento de produtos florestais sem apresentação de guias de trânsito ou de licença, de importação, conforme provenham do interior ou do exterior da província, e dos documentos que a fiscalização fitossanitária exija.
 
-###### Art. 158.º Nenhum produto florestal pode sair das províncias sem prévia verificação da sua qualidade e estado de conservação.
+Art. 158.º Nenhum produto florestal pode sair das províncias sem prévia verificação da sua qualidade e estado de conservação.
 
 § único. Compete aos serviços de agricultura e florestas a emissão de certificados de qualidade e conservação, para a, qual pode ser solicitada a colaboração de quaisquer órgãos especializados em fitossanidade.
 
-###### Art. 159.º Os serviços aduaneiros remeterão semestralmente aos serviços de agricultura e florestas um mapa, segundo o modelo a adoptar, onde se registará o movimento dos produtos florestais através das suas casas de despacho, quer de cabotagem, quer de importação e exportação.
+Art. 159.º Os serviços aduaneiros remeterão semestralmente aos serviços de agricultura e florestas um mapa, segundo o modelo a adoptar, onde se registará o movimento dos produtos florestais através das suas casas de despacho, quer de cabotagem, quer de importação e exportação.
 
 #### SECÇÃO VIII — Das receitas florestais
 
-###### Art. 160.º O processo de cobrança e depósito das receitas provenientes da aplicação deste diploma e da regulamentação complementar será objecto da disciplina estabelecida ou a estabelecer em cada província.
+Art. 160.º O processo de cobrança e depósito das receitas provenientes da aplicação deste diploma e da regulamentação complementar será objecto da disciplina estabelecida ou a estabelecer em cada província.
 
 § único. As entidades que, por força da lei, cobrem as receitas referidas no corpo do artigo, deverão remeter aos serviços de agricultura e florestas mapas discriminativos das receitas anuais, segundo modelo a adoptar.
 
 #### SECÇÃO IX — Da estatística de exploração
 
-###### Art. 161.º Por força deste diploma, são obrigados a prestar informações de estatística florestal, em modelos a adoptar em cada província, todos os serviços e entidades que exerçam a exploração florestal ou a industrialização florestal; as autoridades administrativas, relativamente ao artigo 94.º; os concessionários da exploração florestal; os industriais de serrações mecânicas e de outras actividades transformadoras dos produtos florestais; e os exportadores e importadores de produtos florestais, em bruto ou industrializados; e quaisquer outras pessoas ou entidades que os serviços de agricultura e florestas entendam deverem prestá-las.
+Art. 161.º Por força deste diploma, são obrigados a prestar informações de estatística florestal, em modelos a adoptar em cada província, todos os serviços e entidades que exerçam a exploração florestal ou a industrialização florestal; as autoridades administrativas, relativamente ao artigo 94.º; os concessionários da exploração florestal; os industriais de serrações mecânicas e de outras actividades transformadoras dos produtos florestais; e os exportadores e importadores de produtos florestais, em bruto ou industrializados; e quaisquer outras pessoas ou entidades que os serviços de agricultura e florestas entendam deverem prestá-las.
 
 § único. Os modelos referidos no corpo do artigo, após o preenchimento, serão remetidos:
 
@@ -1071,19 +1101,19 @@ a) Aos serviços de agricultura e florestas, que os remeterão aos serviços com
 
 b) Aos serviços de estatística, ou à Junta de Comércio Externo, que por sua vez os enviarão aos serviços de agricultura e florestas para registo, verificação e ulterior devolução.
 
-###### Art. 162.º Os serviços de agricultura e florestas remeterão aos organismos competentes todos os elementos recebidos para efeitos de apuramento estatístico e colaborarão ainda com os mesmos organismos na recolha de dados que eventualmente interessem e não constem da estatística florestal corrente.
+Art. 162.º Os serviços de agricultura e florestas remeterão aos organismos competentes todos os elementos recebidos para efeitos de apuramento estatístico e colaborarão ainda com os mesmos organismos na recolha de dados que eventualmente interessem e não constem da estatística florestal corrente.
 
 § único. Os resultados de apuramento de tais dados serão sempre comunicados aos serviços de agricultura e florestas na parte tocante à estatística florestal.
 
-###### Art. 163.º As transgressões ao disposto nesta secção são, reguladas pela legislação estatística, mas sem prejuízo da aplicação das sanções previstas neste diploma para as transgressões de natureza florestal que venham a apurar-se na verificação dos mapas estatísticos.
+Art. 163.º As transgressões ao disposto nesta secção são, reguladas pela legislação estatística, mas sem prejuízo da aplicação das sanções previstas neste diploma para as transgressões de natureza florestal que venham a apurar-se na verificação dos mapas estatísticos.
 
 ### CAPÍTULO XI — Da fiscalização florestal
 
 #### SECÇÃO I — Das suas normas fundamentais
 
-###### Art. 164.º Designa-se por fiscalização florestal o conjunto das medidas e operações que visam disciplinar a exploração e utilização dos produtos florestais e prevenir e reprimir os actos violadores desta finalidade, nos termos deste diploma.
+Art. 164.º Designa-se por fiscalização florestal o conjunto das medidas e operações que visam disciplinar a exploração e utilização dos produtos florestais e prevenir e reprimir os actos violadores desta finalidade, nos termos deste diploma.
 
-###### Art. 165.º O exercício da fiscalização compete essencialmente aos mestres e guardadas florestais, aos técnicos dos serviços de agricultura e florestas, às autoridades administrativas à Guarda Fiscal e aos agentes de segurança pública; e, complementarmente, aos fiscais de caça em serviços e a funcionários dos serviços geográficos e cadastrais em trabalhos de campo.
+Art. 165.º O exercício da fiscalização compete essencialmente aos mestres e guardadas florestais, aos técnicos dos serviços de agricultura e florestas, às autoridades administrativas à Guarda Fiscal e aos agentes de segurança pública; e, complementarmente, aos fiscais de caça em serviços e a funcionários dos serviços geográficos e cadastrais em trabalhos de campo.
 
 § 1.º Os mestres e guardas florestais constituem o corpo de polícia florestal.
 
@@ -1091,15 +1121,15 @@ b) Aos serviços de estatística, ou à Junta de Comércio Externo, que por sua 
 
 § 3.º Em serviço, os agentes do corpo de polícia florestal usarão obrigatòriamente uniforme.
 
-###### Art. 166.º Os funcionários em serviço de fiscalização ou de campo têm direito de uso e porte de arma, sem dependência de licença.
+Art. 166.º Os funcionários em serviço de fiscalização ou de campo têm direito de uso e porte de arma, sem dependência de licença.
 
 § único. Os serviços de agricultura e florestas requisitarão as armas e munições necessárias aos serviços competentes, nos termos da lei.
 
-###### Art. 167.º Nenhum impedimento pode ser oposto ao exercício da fiscalização florestal, devendo todas as autoridades prestar o auxílio necessário à eficiência ao mesmo exercício, quando solicitadas.
+Art. 167.º Nenhum impedimento pode ser oposto ao exercício da fiscalização florestal, devendo todas as autoridades prestar o auxílio necessário à eficiência ao mesmo exercício, quando solicitadas.
 
 § único. Em casos de urgência, os agentes florestais podem requisitar o auxílio da autoridade mais próxima, assumindo a responsabilidade do facto o agente mais graduado ou mais antigo.
 
-###### Art. 168.º A fiscalização em terrenos sujeitos a regime florestal poderá ser exercida mediante assalariamento eventual, por indivíduos que reúnam, além dos requisitos referidos nas alíneas d), e) e f) do artigo 12.º do Estatuto do Funcionalismo Ultramarino, as condições seguintes:
+Art. 168.º A fiscalização em terrenos sujeitos a regime florestal poderá ser exercida mediante assalariamento eventual, por indivíduos que reúnam, além dos requisitos referidos nas alíneas d), e) e f) do artigo 12.º do Estatuto do Funcionalismo Ultramarino, as condições seguintes:
 
 1) Terem prestado serviço militar e não terem idade superior a 35 anos;
 
@@ -1115,7 +1145,7 @@ b) Aos serviços de estatística, ou à Junta de Comércio Externo, que por sua 
 
 #### SECÇÃO II — Das transgressões
 
-###### Art. 169.º As transgressões florestais, a prevenir na legislação provincial, serão enquadradas pela forma seguinte:
+Art. 169.º As transgressões florestais, a prevenir na legislação provincial, serão enquadradas pela forma seguinte:
 
 1) Transgressores sem licença ou autorização, abrangendo os cortes e actos consequentes sem licença ou autorização de exploração ou em local diverso do autorizado; o corte e actos consequentes relativamente a espécies diferentes das autorizadas; o trânsito sem guia, com guia não autenticada e com guia baseada em licença, autorização ou certificado em estância sem validade; o corte ou mutilação de árvores classificadas de interesse público, a utilização de produtos florestais secundários sem licença ou autorização, conforme os casos e salvo o previsto neste diploma, a violação no disposto nos §§ 1.º e 2.º do artigo 122.º e casos afins;
 
@@ -1125,27 +1155,27 @@ b) Aos serviços de estatística, ou à Junta de Comércio Externo, que por sua 
 
 4) Transgressões especiais abrangendo as violações do disposto nos artigos 73.º, 75.º, 91.º, 135.º, 140.º, 157.º e 158.º e casos afins, ou outros não enquadráveis nos tipos anteriores.
 
-###### Art. 170.º Está sujeito às sanções do n.º 1 do artigo anterior todo aquele que adquirir produtos florestais das regedorias, excepto quando se trate de artefactos de artesanato ou de lenhas e combustíveis na falta de comércio organizado.
+Art. 170.º Está sujeito às sanções do n.º 1 do artigo anterior todo aquele que adquirir produtos florestais das regedorias, excepto quando se trate de artefactos de artesanato ou de lenhas e combustíveis na falta de comércio organizado.
 
-###### Art. 171.º Os titulares de licenças ou autorizações de exploração serão responsáveis pelos actos dos seus empregados ou assalariados que constituam violação das disposições deste diploma.
+Art. 171.º Os titulares de licenças ou autorizações de exploração serão responsáveis pelos actos dos seus empregados ou assalariados que constituam violação das disposições deste diploma.
 
-###### Art. 172.º Para os efeitos deste capítulo considera-se reincidente aquele que cometa transgressão florestal do mesmo tipo no prazo de um ano, a contar da data da aplicação da penalidade da última transgressão.
+Art. 172.º Para os efeitos deste capítulo considera-se reincidente aquele que cometa transgressão florestal do mesmo tipo no prazo de um ano, a contar da data da aplicação da penalidade da última transgressão.
 
-###### Art. 173.º Todo aquele que por violência ou ameaça se oponha ao exercício da fiscalização e polícia florestal comete o crime previsto e punido pelo artigo 186.º do Código Penal; e está sujeito ao disposto no artigo 189.º do mesmo código todo aquele que desobedeça às ordens e mandados dos agentes de fiscalização florestal.
+Art. 173.º Todo aquele que por violência ou ameaça se oponha ao exercício da fiscalização e polícia florestal comete o crime previsto e punido pelo artigo 186.º do Código Penal; e está sujeito ao disposto no artigo 189.º do mesmo código todo aquele que desobedeça às ordens e mandados dos agentes de fiscalização florestal.
 
 #### SECÇÃO III — Das sanções
 
-###### Art. 174.º Em cada província, e através de diploma legislativo, fixar-se-ão os quantitativos das multas a aplicar pelas transgressões previstas no artigo 169.º
+Art. 174.º Em cada província, e através de diploma legislativo, fixar-se-ão os quantitativos das multas a aplicar pelas transgressões previstas no artigo 169.º
 
 § único. Na fixação das multas atender-se-á, essencialmente, ao perigo ou dano para a defesa e conservação racionais da riqueza florestal e ao valor social das formações florestais.
 
-###### Art. 175.º A reincidência por transgressão florestal punida com o triplo da multa fixada para a transgressão.
+Art. 175.º A reincidência por transgressão florestal punida com o triplo da multa fixada para a transgressão.
 
-###### Art. 176.º Os funcionários de serviços oficiais e de organismos oficializados e os agentes de outras entidades que sejam responsáveis por qualquer actividade florestal e violem as disposições deste regulamento serão punidos com multa que pode ir até ao triplo do seu vencimento mensal, consoante a gravidade da transgressão.
+Art. 176.º Os funcionários de serviços oficiais e de organismos oficializados e os agentes de outras entidades que sejam responsáveis por qualquer actividade florestal e violem as disposições deste regulamento serão punidos com multa que pode ir até ao triplo do seu vencimento mensal, consoante a gravidade da transgressão.
 
-###### Art. 177.º Em cada província serão regulamentadas, considerando a gravidade das faltas e a sua frequência, a suspensão temporária e a irradiação definitiva dos exploradores que infrinjam as disposições deste diploma e da regulamentação complementar.
+Art. 177.º Em cada província serão regulamentadas, considerando a gravidade das faltas e a sua frequência, a suspensão temporária e a irradiação definitiva dos exploradores que infrinjam as disposições deste diploma e da regulamentação complementar.
 
-###### Art. 178.º Nas transgressões florestais, a apreensão dos produtos faz-se nas condições seguintes:
+Art. 178.º Nas transgressões florestais, a apreensão dos produtos faz-se nas condições seguintes:
 
 a) Apreensão total, quando se verifiquem:
 
@@ -1167,29 +1197,29 @@ a) Apreensão total, quando se verifiquem:
 
 b) Apreensão de excesso, no caso de trânsito com guias excedendo a tolerância legal.
 
-###### Art. 179.º Os produtos apreendidos pertencem ao Estado e serão depositados no local mais conveniente.
+Art. 179.º Os produtos apreendidos pertencem ao Estado e serão depositados no local mais conveniente.
 
 § único. O funcionário que proceder à apreensão nomeará, se assim o julgar preciso, um fiel depositário e lavrará auto de nomeação.
 
-###### Art. 180.º Nos terrenos sob jurisdição directa dos serviços de agricultura e florestas é expressamente proibido o exercício da pastorícia e da caça, a não ser com autorização especial.
+Art. 180.º Nos terrenos sob jurisdição directa dos serviços de agricultura e florestas é expressamente proibido o exercício da pastorícia e da caça, a não ser com autorização especial.
 
 § único. Quanto à caça, os agentes de fiscalização actuarão na conformidade dos regulamentos de caça e quanto à pastorícia cada província estabelecerá as multas a aplicar por cabeça de gado.
 
-###### Art. 181.º Ao funcionário autuante, participante ou apreensor são devidas as comparticipações de 20 por cento em multas e apreensões que aplicarem ou efectuarem.
+Art. 181.º Ao funcionário autuante, participante ou apreensor são devidas as comparticipações de 20 por cento em multas e apreensões que aplicarem ou efectuarem.
 
 #### SECÇÃO IV — Do processo de transgressão
 
-###### Art. 182.º O funcionário que tendo funções de fiscalização florestal presenciar ou tiver conhecimento de qualquer transgressão ao disposto neste diploma levantará o auto de notícia respectivo.
+Art. 182.º O funcionário que tendo funções de fiscalização florestal presenciar ou tiver conhecimento de qualquer transgressão ao disposto neste diploma levantará o auto de notícia respectivo.
 
 § 1.º Qualquer outro funcionário que não esteja nas condições do corpo do artigo participará imediata o circunstancialmente à entidade florestal competente tudo quanto possa servir para definição da transgressão que presenciar ou de que tomar conhecimento.
 
 § 2.º No caso de pluralidade de transgressões por um transgressor ou de uma transgressão com pluralidade de agentes levantar-se-á um só auto.
 
-###### Art. 183.º Os autos de notícia, sem prejuízo da observância dos requisitos legais, deverão registar ainda, quanto possível, o valor dos danos causados e quaisquer outros factos que possam esclarecer a ocorrência.
+Art. 183.º Os autos de notícia, sem prejuízo da observância dos requisitos legais, deverão registar ainda, quanto possível, o valor dos danos causados e quaisquer outros factos que possam esclarecer a ocorrência.
 
 § único. O autuante efectuará as diligências necessárias ao apuramento dos factos.
 
-###### Art. 184.º Observado o disposto no artigo anterior, o auto de notícia será remetido, no prazo de 48 horas, à entidade florestal competente, que actuará como se segue:
+Art. 184.º Observado o disposto no artigo anterior, o auto de notícia será remetido, no prazo de 48 horas, à entidade florestal competente, que actuará como se segue:
 
 1.º Determinação de diligências de instrução, se necessárias;
 
@@ -1199,11 +1229,11 @@ b) Apreensão de excesso, no caso de trânsito com guias excedendo a tolerância
 
 § único. As participações a que se refere o § 1.º do artigo 182.º seguem os trâmites do corpo do artigo.
 
-###### Art. 185.º Os produtos florestais apreendidos, se administrativa ou judicialmente se decidir no sentido absolutório, serão restituídos aos interessados; e, se houver condenação, só poderão ser conforme se julgar conveniente, vendidos em hasta pública, ou utilizados em obras do Estado, ou vendidos a funcionários florestais quando se trate de lenhas ou combustíveis conforme tabela de preços afixada em despacho do governo de cada província.
+Art. 185.º Os produtos florestais apreendidos, se administrativa ou judicialmente se decidir no sentido absolutório, serão restituídos aos interessados; e, se houver condenação, só poderão ser conforme se julgar conveniente, vendidos em hasta pública, ou utilizados em obras do Estado, ou vendidos a funcionários florestais quando se trate de lenhas ou combustíveis conforme tabela de preços afixada em despacho do governo de cada província.
 
 § único. O Estado reserva-se o direito de não adjudicar se o preço não lhe convier.
 
-###### Art. 186.º Quando houver pastorícia não autorizada em terrenos sob jurisdição directa dos serviços de agricultura e florestas, o gado será apreendido e, seguidamente proceder-se-á do modo seguinte:
+Art. 186.º Quando houver pastorícia não autorizada em terrenos sob jurisdição directa dos serviços de agricultura e florestas, o gado será apreendido e, seguidamente proceder-se-á do modo seguinte:
 
 a) Afixação de avisos nos lugares públicos da área, quando se desconheça o proprietário do gado;
 
@@ -1213,7 +1243,7 @@ c) Venda do gado em hasta pública, entrando o preço em receita do Estado, se a
 
 #### SECÇÃO V — Da estatística da fiscalização
 
-###### Art. 187.º As dependências dos serviços de agricultura e florestas terão organizado um cadastro dos actos de fiscalização praticados na área da sua competência, constituído por:
+Art. 187.º As dependências dos serviços de agricultura e florestas terão organizado um cadastro dos actos de fiscalização praticados na área da sua competência, constituído por:
 
 1) Livro de registos de autos de notícia e de participações, segundo modelo a adoptar em cada província, onde constem a data de entrada, o nome do transgressor, o nome do autuante ou do participante, a data da notificação para pagamento de multa e a data do seu pagamento, a data da remessa do processo a juízo e a decisão judicial.
 
@@ -1223,22 +1253,22 @@ c) Venda do gado em hasta pública, entrando o preço em receita do Estado, se a
 
 ### CAPÍTULO XII — Disposições finais e transitórias
 
-###### Art. 188.º Será proibido o corte das espécies melíferas com maior interesse regional, assim como das essências de reconhecida utilidade para as comunidades rurais.
+Art. 188.º Será proibido o corte das espécies melíferas com maior interesse regional, assim como das essências de reconhecida utilidade para as comunidades rurais.
 
 § único. Em cada província serão estabelecidas listas das espécies a que se refere o corpo do artigo.
 
-###### Art. 189.º Ao longo das vias férreas e dentro de uma faixa de 500 m para cada lado constituem-se, por força deste diploma e independentemente de quaisquer outras providências, reservas florestais destinadas exclusivamente à exploração florestal necessária aos caminhos de ferro.
+Art. 189.º Ao longo das vias férreas e dentro de uma faixa de 500 m para cada lado constituem-se, por força deste diploma e independentemente de quaisquer outras providências, reservas florestais destinadas exclusivamente à exploração florestal necessária aos caminhos de ferro.
 
 § 1.º As reservas referidas no corpo do artigo recaem ùnicamente sobre terrenos de 3.ª classe e não prejudicam as propriedades e concessões anteriormente constituídas.
 
 § 2.º Quando circunstâncias especiais o aconselhem, sobre proposta fundamentada dos serviços de caminhos de ferro e com parecer favorável dos serviços de agricultura e florestas, podem os governos das províncias ultramarinas alterar, mediante portaria, as faixas referidas no corpo do artigo.
 
-###### Art. 190.º Os governos das províncias providenciarão no sentido de que no mais curto prazo se elabore a regulamentação necessária à eficiente aplicação das normas e directrizes estabelecidas neste diploma.
+Art. 190.º Os governos das províncias providenciarão no sentido de que no mais curto prazo se elabore a regulamentação necessária à eficiente aplicação das normas e directrizes estabelecidas neste diploma.
 
-###### Art. 191.º Este diploma é aplicável às províncias de Angola, Moçambique e Guiné.
+Art. 191.º Este diploma é aplicável às províncias de Angola, Moçambique e Guiné.
 
-###### Art. 192.º Fica revogada toda a legislação florestal que contrarie as disposições deste diploma.
+Art. 192.º Fica revogada toda a legislação florestal que contrarie as disposições deste diploma.
 
-###### Art. 193.º O presente diploma entra em vigor 30 dias depois de publicado no Diário do Governo.
+Art. 193.º O presente diploma entra em vigor 30 dias depois de publicado no Diário do Governo.
 
 Ministério do Ultramar, 21 de Agosto de 1962. - O Ministro do Ultramar, Adriano José Alves Moreira.

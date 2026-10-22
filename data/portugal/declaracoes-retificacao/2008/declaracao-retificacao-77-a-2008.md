@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 249/2008, 1º Suplemento, Série I de 2008-12-26
   number: '249'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 9046-(5) a 9046-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/12/24901/0000500009.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/77-a/2008/12/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/77-a-2008-331866
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-10T00:00:00Z'
+  retrieved_at: '2026-10-22T19:10:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23b4f1df3014c3851f214ac6c867f5e0cd8ad8dbc1055b37d8183d4b2472f185
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd2e965a146929356498325d5a8c087c89ac5d452c7faea65f975a7299b8b70a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:10:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atividade Industrial
-- Gestão de Resíduos
-- Ordenamento do Território
-- Higiene do Trabalho
 - Definição de Competências
-- Saúde Pública
 - Estabelecimento Industrial
-- Segurança no Trabalho
+- Gestão de Resíduos
+- Higiene do Trabalho
+- Ordenamento do Território
 - Qualidade do Ambiente
 - Saúde no Trabalho
+- Saúde Pública
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:601366:por
@@ -94,16 +94,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/69/2003/04/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/69/2003/04/10/p/dre
+- type: cites
+  target: pt:dre:439091:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:601366:por
+  label: "Rectificada pela DECL-RECT.15/2009.10.02.2009.PCM, DR.IS [28] de 10.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/15-2009-601366
+  date: '2009-02-10'
+- type: corrects
+  target: pt:numero:decreto-lei:209/2008
+  label: "Rectifica o Decreto-Lei n.º 209/2008, de 29 de Outubro, DR.IS [210]\0\0"
+  source: null
+  date: '2008-10-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:10:52Z'
   warnings: []
   errors: []
 ---
@@ -258,10 +276,10 @@ deve ler-se:
 
 17 - No quadro ii do n.º 1 do anexo v, onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/12/24901/0000500009.pdf))](https://files.diariodarepublica.pt/1s/2008/12/24901/0000500009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/12/24901/0000500009.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/12/24901/0000500009.pdf))](https://files.diariodarepublica.pt/1s/2008/12/24901/0000500009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/12/24901/0000500009.pdf)
 
 Centro Jurídico, 26 de Dezembro de 2008. - O Director-Adjunto, Pedro Delgado Alves.

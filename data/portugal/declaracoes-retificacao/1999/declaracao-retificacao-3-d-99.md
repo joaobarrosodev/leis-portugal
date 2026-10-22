@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 25/1999, 2º Suplemento, Série I-A de 1999-01-30
   number: '25'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 596-(6) a 596-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/01/025a02/00060006.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/3-d/1999/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-d-1999-517451
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-29T00:00:00Z'
+  retrieved_at: '2026-10-22T18:54:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb4e8b955b265d1fd5f40aca8c4726c5aa8dfac5647dbb344d1f38a7b1c5d020
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7945cf441b06ecd45a5a8a068e4599571c3453d606eed789943b680fbe8bada0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:54:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,33 +68,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Comercial
+- Açores
 - Capital Social
 - Código Civil
 - Código Cooperativo
 - Código das Sociedades Comerciais
 - Código do Mercado de Valores Mobiliários
-- Finanças Locais
 - Contrato de Mútuo
-- EURO
+- Cooperativa
+- Crédito
 - Dívida Pública
 - Divisa
 - Emissão de Títulos
 - Estabelecimento Mercantil Individual de Responsabilidade Limitada
-- Cooperativa
+- EURO
+- Finanças Locais
 - Finanças Regionais
-- Crédito
+- Madeira.região Autónoma
 - Obrigações
 - Obrigações de Caixa
 - Oferta Pública de Aquisição
 - Operação Cambial
-- Madeira.região Autónoma
-- Açores
+- Sociedade Comercial
 relationships:
 - type: amended_by
   target: pt:dre:620286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:620286:por
+  label: Alterado o art. 390º do Código das Sociedades Comerciais, aprovado pelo Dec Lei 262/86 de 02-Set, na redacção da
+    presente declaração, pelo DEC LEI.76-A/2006.29.03.2006.MFAP, DR.IS-A [63-Supl] de 29.03.2006
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/142-a/1991/04/10/p/dre
   label: null
@@ -103,16 +109,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/343/1998/11/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/343/1998/11/06/p/dre
+- type: cites
+  target: pt:dre:223195:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:54:37Z'
   warnings: []
   errors: []
 ---

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/8/2026/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/8-2026-1060895771
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T18:33:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5bbdbb9dd79e7718b24a4133cb5deb1155738470ba1aca9d27760206b231a1f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9f4753cedaa89336d1b19a8105cdceeaf66a3acbf44543c38b614757edd4943
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:33:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Água
-- Recursos Hídricos
-- Proteção do Ambiente
-- Zona de Proteção
-- Portel
-- Águas Subterrâneas
 - Abastecimento de Água
+- Água
+- Águas Subterrâneas
+- Portel
+- Proteção do Ambiente
+- Recursos Hídricos
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/43-b/2024/07/02/p/dre
@@ -111,22 +111,83 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/407/2025/11/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/407/2025/11/17/p/dre
+- type: cites
+  target: pt:dre:1023994550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1023994553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1025550893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:940951437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:946529347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:946529348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:946529349:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:portaria:32/2026
+  label: Declara nula e sem efeito a Portaria n.º 32/2026/1, de 26 de janeiro, Diário da República n.º 17/2026, Série I
+  source: null
+  date: '2026-01-26'
+- type: corrects
+  target: pt:numero:portaria:35/2026
+  label: Declara nula e sem efeito a Portaria n.º 35/2026/1, de 26 de janeiro, Diário da República n.º 17/2026, Série I
+  source: null
+  date: '2026-01-26'
+- type: corrects
+  target: pt:numero:portaria:39/2026
+  label: Declara nula e sem efeito a Portaria n.º 39/2026/1, de 27 de janeiro, Diário da República n.º 18/2026, Série I
+  source: null
+  date: '2026-01-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:33:49Z'
   warnings: []
   errors: []
 ---
 
 # Declaração de Retificação n.º 8/2026/1
 
-Ao abrigo do disposto na alínea f) do n.º 3 do artigo 5.º do anexo i do [Decreto-Lei n.º 43-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), de 2 de julho, conjugado com o disposto nos n.<sup>os</sup>1 e 5 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, e no artigo 5.º da [Lei n.º 74/98](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), de 11 de novembro, alterada e republicada pela [Lei n.º 43/2014](https://diariodarepublica.pt/dr/detalhe/lei/43-2014-25345900), de 11 de julho, e nos termos do disposto na alínea c) do n.º 5 da delegação de competências conferida pelo [Despacho n.º 12335/2025](https://diariodarepublica.pt/dr/detalhe/despacho/12335-2025-940951437), de 21 de outubro, declaram-se nulas e sem efeito as Portarias n.<sup>os</sup>[32/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/32-2026-1023994550) e [35/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/35-2026-1023994553), de 26 de janeiro, publicadas no Diário da República, 1.ª série, n.º 17, de 26 de janeiro de 2026, e a [Portaria n.º 39/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/39-2026-1025550893), de 27 de janeiro, publicada no Diário da República, 1.ª série, n.º 18, de 27 de janeiro de 2026, por corresponderem à publicação em duplicado dos textos, respetivamente, das Portarias n.<sup>os</sup>[407/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/407-2025-946529349), [405/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/405-2025-946529347) e [406/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/406-2025-946529348), de 17 de novembro, publicadas no Diário da República, 1.ª série, n.º 222, de 17 de novembro de 2025.
+Ao abrigo do disposto na alínea f) do n.º 3 do artigo 5.º do anexo i do [Decreto-Lei n.º 43-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), de 2 de julho, conjugado com o disposto nos n.os1 e 5 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, e no artigo 5.º da [Lei n.º 74/98](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), de 11 de novembro, alterada e republicada pela [Lei n.º 43/2014](https://diariodarepublica.pt/dr/detalhe/lei/43-2014-25345900), de 11 de julho, e nos termos do disposto na alínea c) do n.º 5 da delegação de competências conferida pelo [Despacho n.º 12335/2025](https://diariodarepublica.pt/dr/detalhe/despacho/12335-2025-940951437), de 21 de outubro, declaram-se nulas e sem efeito as Portarias n.os[32/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/32-2026-1023994550) e [35/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/35-2026-1023994553), de 26 de janeiro, publicadas no Diário da República, 1.ª série, n.º 17, de 26 de janeiro de 2026, e a [Portaria n.º 39/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/39-2026-1025550893), de 27 de janeiro, publicada no Diário da República, 1.ª série, n.º 18, de 27 de janeiro de 2026, por corresponderem à publicação em duplicado dos textos, respetivamente, das Portarias n.os[407/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/407-2025-946529349), [405/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/405-2025-946529347) e [406/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/406-2025-946529348), de 17 de novembro, publicadas no Diário da República, 1.ª série, n.º 222, de 17 de novembro de 2025.
 
 Secretaria-Geral do Governo, 16 de fevereiro de 2026. - O Secretário-Geral Adjunto, Joaquim Cruz.
+
+119947796

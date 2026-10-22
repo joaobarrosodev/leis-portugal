@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/9/2008/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/9-2008-438686
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-27T00:00:00Z'
+  retrieved_at: '2026-10-22T17:52:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 381687106add1343696d0e5e43afee633e45757e743d90d94030340a40f8ea0d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34096b6bf2741533a161a26bbed75f9cd707dfb4492cfbaf006180c497ced51d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:52:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Crime
-- Instituição de Crédito
-- Cheque
-- Pagamento
 - Banca
-- Interpretação do Direito
+- Cheque
+- Crime
 - Direito Penal
+- Instituição de Crédito
+- Interpretação do Direito
+- Pagamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/asst/4/2000/02/17/p/dre
@@ -109,16 +109,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/59/2007/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/59/2007/09/04/p/dre
+- type: cites
+  target: pt:dre:185720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694244:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:52:34Z'
   warnings: []
   errors: []
 ---
@@ -361,7 +417,9 @@ se o cheque for apresentado a pagamento nos termos e prazos estabelecidos pela L
 
 6 - Se o montante do cheque for pago, com reparação do dano causado, já depois de decorrido o prazo referido no n.º 5, mas até ao início da audiência de julgamento em 1.ª instância, a pena pode ser especialmente atenuada.
 
-###### Artigo 11.º-A — Queixa
+Artigo 11.º-A
+
+Queixa
 
 1 - O procedimento criminal pelo crime previsto no artigo anterior depende de queixa.
 

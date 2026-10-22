@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/02/03300/0000200028.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/8/2026/02/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/8-2026-1051481675
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-17T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5edfa255f86f47d5e9ea9a6223acd37a50f4040adfcfaaf3c2c778eae9ddfbc3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a83d05a61746316f3665014eac9df33d9ba7264b4ec829c2821b2720cd8f8d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Canadá
 - Convenção
-- Portugal
 - Documentação Classificada
 - Lisboa
-- Canadá
+- Portugal
 relationships: []
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:38Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +100,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 20 de novembro de 2025. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - António Leitão Amaro.
 
-**Assinado em 6 de janeiro de 2026.**
+Assinado em 6 de janeiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 9 de janeiro de 2026.**
+Referendado em 9 de janeiro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 Acordo entre a República Portuguesa e o Canadá sobre a Proteção de Informação Classificada
 
@@ -190,7 +190,7 @@ Ou os seus respetivos sucessores.
 
 Quadro 1: Informação classificada
 
-| Para a República Portuguesa | Para o Canadá | Para o Canadá |
+| Para a República Portuguesa | Para o Canadá |  |
 | --- | --- | --- |
 | Português | Inglês | Francês |
 | MUITO SECRETO | TOP SECRET | TRÈS SECRET |
@@ -203,7 +203,7 @@ Quadro 1: Informação classificada
 
 Quadro 2: Informação protegida canadiana
 
-| Na República Portuguesa | No Canadá | No Canadá |
+| Na República Portuguesa | No Canadá |  |
 | --- | --- | --- |
 | Português | Inglês | Francês |
 | SECRETO | PROTECTED C | PROTÉGÉ C |
@@ -511,7 +511,7 @@ Security Classification Levels
 
 Table 1: Classified Information
 
-| In the Portuguese Republic | In Canada | In Canada |
+| In the Portuguese Republic | In Canada |  |
 | --- | --- | --- |
 | Portuguese | English | French |
 | MUITO SECRETO | TOP SECRET | TRÈS SECRET |
@@ -524,9 +524,9 @@ Table 1: Classified Information
 
 Table 2: Canadian Protected Information
 
-| Portuguese | English | French |
+| In the Portuguese Republic | In Canada |  |
 | --- | --- | --- |
-| In the Portuguese Republic | In Canada | In Canada |
+| Portuguese | English | French |
 | SECRETO | PROTECTED C | PROTÉGÉ C |
 | CONFIDENCIAL | PROTECTED B | PROTÉGÉ B |
 
@@ -870,7 +870,7 @@ Niveaux de classification de sécurité
 
 Tableau 1: Informations classifiées
 
-| En République Portugaise | Au Canada | Au Canada |
+| En République Portugaise | Au Canada |  |
 | --- | --- | --- |
 | Portugais | Français | Anglais |
 | MUITO SECRETO | TRÈS SECRET | TOP SECRET |
@@ -883,7 +883,7 @@ Tableau 1: Informations classifiées
 
 Tableau 2: Informations protégées du Canada
 
-| En République Portugaise | Au Canada | Au Canada |
+| En République Portugaise | Au Canada |  |
 | --- | --- | --- |
 | Portugais | Français | Anglais |
 | SECRETO | PROTÉGÉ C | PROTECTED C |
@@ -1140,3 +1140,7 @@ Fait en double exemplaire à Lisbonne, le 16 septembre 2025, en langues portugai
 Pour la République Portugaise, Helena Malcata, directrice générale des Affaires Étrangères.
 
 Pour le Canada, Élise Racicot, ambassadrice du Canada au Portugal.
+
+119947670
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:17px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { min-height:26px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl8 { min-height:18px; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; }

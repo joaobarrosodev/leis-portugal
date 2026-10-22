@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/263-b/2026/06/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/263-b-2026-1132710910
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-15T00:00:00Z'
+  retrieved_at: '2026-10-22T18:43:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e530cfd760bbfcd245b34def898e97af9a35ba8dba5b0229a84c54c19adce72
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d1b4530de7072ed8f510ddd33772a56f842fbb18fa0cee1c89fd96f21495a70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:43:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regulamentação de Atos Legislativos
 - Fundos CE
 - Imprensa
-- Publicitação
 - Preço
 - Publicação
+- Publicitação
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/31/2024/05/08/p/dre
@@ -93,16 +93,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/98/2007/04/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/98/2007/04/02/p/dre
+- type: cites
+  target: pt:dre:1049254412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206478423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:864060322:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:43:55Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +191,7 @@ b) Que tenham ao seu serviço o número mínimo de trabalhadores, incluindo jorn
 
 7 - Para efeitos da contratação da publicitação prevista no artigo 39.º-A do [Decreto-Lei n.º 5/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2023-206478423), de 25 de janeiro, as entidades proprietárias das publicações periódicas devem declarar, perante a entidade responsável pela aquisição, antes da celebração do contrato:
 
-a) Que a publicação periódica cumpre, consoante lhe seja aplicável, os requisitos previstos nos n.<sup>os</sup> 4 a 6 deste artigo;
+a) Que a publicação periódica cumpre, consoante lhe seja aplicável, os requisitos previstos nos n.os 4 a 6 deste artigo;
 
 b) O número total de trabalhadores ao seu serviço;
 
@@ -217,7 +237,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 15 de junho de 2026.
 
-**O Ministro da Presidência, António Leitão Amaro. - O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida.**
+O Ministro da Presidência, António Leitão Amaro. - O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida.
 
 ## ANEXO — [a que se referem a alínea a) do n.º 1 e o n.º 2 do artigo 3.º]
 
@@ -253,3 +273,7 @@ Para efeitos da presente tabela, entende-se por:
 a) Inserção de base, a publicação do anúncio numa página interior do sítio eletrónico da publicação, sem posicionamento preferencial, com permanência mínima de 15 dias, assegurando a sua acessibilidade a partir de qualquer dispositivo;
 
 b) Inserção de destaque, a publicação do anúncio na página de entrada do sítio eletrónico da publicação ou em posição de destaque numa secção temática relevante, com permanência mínima de 15 dias, assegurando a sua acessibilidade a partir de qualquer dispositivo.
+
+119948809
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:18px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; }

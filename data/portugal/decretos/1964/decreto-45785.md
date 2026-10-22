@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45785-1964-578132
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-06-30T00:00:00Z'
+  retrieved_at: '2026-10-22T19:40:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e84f5bff0a3e4079aeb4bcb5849423627b226ae6b9ead88411d1cdda61926cc5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9b0f59e45cbd2154ed58c369842342f55c0489811e8c33a22e28520e93d80b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:40:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627387:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:40:59Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +124,11 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 #### SECÇÃO I — Das atribuições e organização geral dos serviços
 
-###### Artigo 1.º A Missão Permanente de Estudo e Combate à Doença do Sono e Outras Endemias da Guiné passa a designar-se, nos termos do [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382), de 23 de Janeiro de 1964, «Missão de Combate às Tripanossomíases da Guiné», com as finalidades, organização e atribuições que constam do presente diploma.
+Artigo 1.º A Missão Permanente de Estudo e Combate à Doença do Sono e Outras Endemias da Guiné passa a designar-se, nos termos do [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382), de 23 de Janeiro de 1964, «Missão de Combate às Tripanossomíases da Guiné», com as finalidades, organização e atribuições que constam do presente diploma.
 
-###### Art. 2.º Dispondo de autonomia técnica e administrativa, a Missão de Combate às Tripanossomíases da Guiné terá a sua sede em Bissau e fará parte integrante dos serviços de saúde e assistência da mesma província, actuando, porém, sob a imediata autoridade do governador.
+Art. 2.º Dispondo de autonomia técnica e administrativa, a Missão de Combate às Tripanossomíases da Guiné terá a sua sede em Bissau e fará parte integrante dos serviços de saúde e assistência da mesma província, actuando, porém, sob a imediata autoridade do governador.
 
-###### Art. 3.º A Missão de Combate às Tripanossomíases da Guiné tem como finalidade:
+Art. 3.º A Missão de Combate às Tripanossomíases da Guiné tem como finalidade:
 
 1.º O combate e profilaxia da doença do sono;
 
@@ -112,9 +136,9 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 3.º O combate e a erradicação da mosca tsé-tsé, para recuperação de áreas infestadas e impedir a sua expansão.
 
-###### Art. 4.º No campo da investigação, a Missão recorrerá, através da Direcção-Geral de Saúde e Assistência, ao Instituto de Medicina Tropical, o qual realizará todas as tarefas que neste domínio interesse executar.
+Art. 4.º No campo da investigação, a Missão recorrerá, através da Direcção-Geral de Saúde e Assistência, ao Instituto de Medicina Tropical, o qual realizará todas as tarefas que neste domínio interesse executar.
 
-###### Art. 5.º Para manter a necessária ligação entre a Missão de Combate às Tripanossomíases e os serviços interessados na erradicação da mosca tsé-tsé é criado o Conselho Técnico das Tripanossomíases da Guiné.
+Art. 5.º Para manter a necessária ligação entre a Missão de Combate às Tripanossomíases e os serviços interessados na erradicação da mosca tsé-tsé é criado o Conselho Técnico das Tripanossomíases da Guiné.
 
 § 1.º O Conselho Técnico das Tripanossomíases, presidido pelo governador da província, é constituído pelos chefes dos serviços de saúde, de agricultura e veterinária e de administração civil e ainda pelo chefe da Missão de Combate às Tripanossomíases.
 
@@ -122,7 +146,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § 3.º Às sessões do Conselho Técnico das Tripanossomíases podem assistir, quando o governador o determinar e sem direito a voto, quaisquer entidades para prestarem esclarecimentos sobre assuntos da sua especial competência.
 
-###### Art. 6.º O Conselho Técnico das Tripanossomíases tem como atribuições:
+Art. 6.º O Conselho Técnico das Tripanossomíases tem como atribuições:
 
 a) Emitir parecer sobre quaisquer assuntos respeitantes às tripanossomíases que lhe sejam submetidos por determinação do governador;
 
@@ -134,23 +158,25 @@ d) Incentivar os estudos e trabalhos dos vários serviços em áreas glossinadas
 
 e) Promover a colaboração dos serviços para impedir o avanço do tsé-tsé para áreas de importância económica e livres de flagelo.
 
-###### Art. 7.º A Missão de Combate às Tripanossomíases da Guiné compreende a chefia, os serviços técnicos e os serviços administrativos.
+Art. 7.º A Missão de Combate às Tripanossomíases da Guiné compreende a chefia, os serviços técnicos e os serviços administrativos.
 
-###### Art. 8.º Os serviços técnicos são constituídos por três secções, distintas no seu ramo de actividade, mas trabalhando em estreita colaboração: secção de medicina, secção de veterinária e secção de entomologia.
+Art. 8.º Os serviços técnicos são constituídos por três secções, distintas no seu ramo de actividade, mas trabalhando em estreita colaboração: secção de medicina, secção de veterinária e secção de entomologia.
 
-###### Art. 9.º Os serviços administrativos dispõem de uma secretaria, por onde correm os assuntos de administração, contabilidade e expediente.
+Art. 9.º Os serviços administrativos dispõem de uma secretaria, por onde correm os assuntos de administração, contabilidade e expediente.
 
 #### SECÇÃO II — Da divisão sanitária territorial
 
-###### Art. 10.º As secções de medicina, veterinária e entomologia exercem a sua acção em todas as áreas glossinadas da província e os sectores dependentes da secção de medicina abrangem as áreas mais convenientes sob o aspecto da luta contra a doença do sono, independentemente da divisão administrativa.
+Art. 10.º As secções de medicina, veterinária e entomologia exercem a sua acção em todas as áreas glossinadas da província e os sectores dependentes da secção de medicina abrangem as áreas mais convenientes sob o aspecto da luta contra a doença do sono, independentemente da divisão administrativa.
 
-###### Art. 11.º Após audição do Conselho Técnico das Tripanossomíases, e sob proposta do chefe da Missão de Combate às Tripanossomíases, o governador da província criará e delimitará os sectores que as circunstâncias aconselharem e fixará as respectivas sedes.
+Art. 11.º Após audição do Conselho Técnico das Tripanossomíases, e sob proposta do chefe da Missão de Combate às Tripanossomíases, o governador da província criará e delimitará os sectores que as circunstâncias aconselharem e fixará as respectivas sedes.
 
-### CAPÍTULO II — SECÇÃO I
+### CAPÍTULO II
+
+#### SECÇÃO I
 
 Da chefia da Missão
 
-###### Art. 12.º Ao chefe da Missão de Combate às Tripanossomíases da Guiné compete:
+Art. 12.º Ao chefe da Missão de Combate às Tripanossomíases da Guiné compete:
 
 a) Dirigir e administrar a Missão;
 
@@ -168,21 +194,21 @@ g) Propor superiormente a nomeação, transferência, exoneração ou dispensa d
 
 h) Propor superiormente todas as outras medidas que julgar necessárias à realização dos fins essenciais da Missão.
 
-###### Art. 13.º O chefe da Missão será coadjuvado nas suas funções pelo chefe da secção de medicina, o qual exercerá por inerência as funções de seu adjunto e o substituirá nas suas ausências ou impedimentos.
+Art. 13.º O chefe da Missão será coadjuvado nas suas funções pelo chefe da secção de medicina, o qual exercerá por inerência as funções de seu adjunto e o substituirá nas suas ausências ou impedimentos.
 
-###### Art. 14.º A Missão disporá de uma biblioteca especializada onde se reunirão, convenientemente catalogados, os livros, as revistas, separatas, publicações, cartas geográficas e outros documentos que à sua actividade interessem.
+Art. 14.º A Missão disporá de uma biblioteca especializada onde se reunirão, convenientemente catalogados, os livros, as revistas, separatas, publicações, cartas geográficas e outros documentos que à sua actividade interessem.
 
 #### SECÇÃO II — Da secção de medicina
 
-###### Art. 15.º A secção de medicina tem como objectivo o estudo, reconhecimento, tratamento clínico e profilaxia da doença do sono.
+Art. 15.º A secção de medicina tem como objectivo o estudo, reconhecimento, tratamento clínico e profilaxia da doença do sono.
 
-###### Art. 16.º A área de actividade da secção de medicina sobrepõe-se à província, será dividida nos sectores que as circunstâncias aconselharem e disporá do número de estabelecimentos sanitários julgado conveniente.
+Art. 16.º A área de actividade da secção de medicina sobrepõe-se à província, será dividida nos sectores que as circunstâncias aconselharem e disporá do número de estabelecimentos sanitários julgado conveniente.
 
 § único. Os sectores de medicina, além da sua actividade específica contra a doença do sono, serão encarregados do combate a outras endemias e poderão ainda prestar assistência médica à população nas respectivas áreas, nos termos do n.º 3.º do artigo 28.º do [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382), de 23 de Janeiro de 1964.
 
-###### Art. 17.º O pessoal da secção de medicina é composto por médicos (chefe de secção e chefes de sector) e pelo pessoal de enfermagem e pessoal auxiliar de diagnóstico e terapêutica que for necessário admitir.
+Art. 17.º O pessoal da secção de medicina é composto por médicos (chefe de secção e chefes de sector) e pelo pessoal de enfermagem e pessoal auxiliar de diagnóstico e terapêutica que for necessário admitir.
 
-###### Art. 18.º Ao chefe da secção de medicina compete:
+Art. 18.º Ao chefe da secção de medicina compete:
 
 a) Orientar os trabalhos dentro do programa estabelecido pelo chefe da Missão, substituindo este nas suas ausências ou impedimentos;
 
@@ -202,15 +228,15 @@ h) Colaborar estreitamente com os chefes das outras secções.
 
 #### SECÇÃO III — Da secção de veterinária
 
-###### Art. 19.º À secção de veterinária incumbe o estudo, reconhecimento, combate e profilaxia das tripanossomíases animais e ainda a assistência aos gados das áreas onde actuam, em colaboração com os serviços de agricultura e veterinária.
+Art. 19.º À secção de veterinária incumbe o estudo, reconhecimento, combate e profilaxia das tripanossomíases animais e ainda a assistência aos gados das áreas onde actuam, em colaboração com os serviços de agricultura e veterinária.
 
-###### Art. 20.º A secção de veterinária terá a sede em Bissau e a sua área de actividade corresponderá a toda a província.
+Art. 20.º A secção de veterinária terá a sede em Bissau e a sua área de actividade corresponderá a toda a província.
 
-###### Art. 21.º O pessoal da secção de veterinária é constituído pelo médico veterinário (chefe de secção), auxiliares de veterinária e demais pessoal auxiliar que for necessário admitir.
+Art. 21.º O pessoal da secção de veterinária é constituído pelo médico veterinário (chefe de secção), auxiliares de veterinária e demais pessoal auxiliar que for necessário admitir.
 
 § único. O chefe da secção de veterinária desempenha cumulativamente as funções de chefe de sector.
 
-###### Art. 22.º Ao chefe da secção de veterinária compete:
+Art. 22.º Ao chefe da secção de veterinária compete:
 
 a) Efectuar o trabalho da secção dentro do programa aprovado pelo chefe da Missão;
 
@@ -228,15 +254,15 @@ g) Elaborar relatórios semestrais e um relatório anual circunstanciado.
 
 #### SECÇÃO IV — Da secção de entomologia
 
-###### Art. 23.º A secção de entomologia tem como finalidade o estudo das diferentes espécies de glossinas e dos métodos para as combater, a execução de planos de erradicação do tsé-tsé, para o efeito de impedir a sua expansão, e, ainda, a execução de medidas destinadas à recuperação de áreas infestadas. Cabe-lhe também, acessòriamente, dentro da sua especialidade, colaborar no estudo e combate de outras endemias, em íntima ligação com as restantes secções.
+Art. 23.º A secção de entomologia tem como finalidade o estudo das diferentes espécies de glossinas e dos métodos para as combater, a execução de planos de erradicação do tsé-tsé, para o efeito de impedir a sua expansão, e, ainda, a execução de medidas destinadas à recuperação de áreas infestadas. Cabe-lhe também, acessòriamente, dentro da sua especialidade, colaborar no estudo e combate de outras endemias, em íntima ligação com as restantes secções.
 
-###### Art. 24.º A secção de entomologia terá a sede em Bissau e a sua área de actividade corresponderá a toda a província.
+Art. 24.º A secção de entomologia terá a sede em Bissau e a sua área de actividade corresponderá a toda a província.
 
-###### Art. 25.º O pessoal da secção de entomologia é constituído pelo entomologista (chefe de secção), técnico de entomologia, auxiliares de entomologia e outro pessoal auxiliar que for necessário admitir.
+Art. 25.º O pessoal da secção de entomologia é constituído pelo entomologista (chefe de secção), técnico de entomologia, auxiliares de entomologia e outro pessoal auxiliar que for necessário admitir.
 
 § único. O chefe da secção de entomologia desempenha cumulativamente as funções de chefe de sector.
 
-###### Art. 26.º Compete ao chefe da secção de entomologia:
+Art. 26.º Compete ao chefe da secção de entomologia:
 
 a) Efectuar os trabalhos da secção dentro do programa aprovado pelo chefe da Missão;
 
@@ -258,9 +284,9 @@ i) Proceder ao estudo das glossinas sob os pontos de vista sistemático e bioló
 
 #### SECÇÃO V — Dos serviços administrativos
 
-###### Art. 27.º Pela secretaria correrá todo o expediente relativo aos seguintes serviços: orçamento e sua execução, contabilização do numerário e património do Estado, contas de responsabilidade e aquisição de material; organização e movimentação dos processos relativos ao provimento, exoneração, aposentação, licenças, situações, transferências, efectividades, registos e cadastro do pessoal, expediente geral da chefia e arquivo.
+Art. 27.º Pela secretaria correrá todo o expediente relativo aos seguintes serviços: orçamento e sua execução, contabilização do numerário e património do Estado, contas de responsabilidade e aquisição de material; organização e movimentação dos processos relativos ao provimento, exoneração, aposentação, licenças, situações, transferências, efectividades, registos e cadastro do pessoal, expediente geral da chefia e arquivo.
 
-###### Art. 28.º Ao chefe da secretaria compete:
+Art. 28.º Ao chefe da secretaria compete:
 
 a) Distribuir o serviço pelos funcionários seus subordinados, dando-lhes as instruções que tiver recebido da chefia da Missão, ou, na falta destas, as que entender convenientes;
 
@@ -276,17 +302,17 @@ e) Manter a ordem e a disciplina e verificar a pontualidade e assiduidade dos fu
 
 #### SECÇÃO I — Dos quadros
 
-###### Art. 29.º Os quadros da Missão de Combate às Tripanossomíases da Guiné abrangem, nos termos do § 3.º do artigo 4.º do Estatuto do Funcionalismo Ultramarino, pessoal dos quadros comuns e dos quadros privativos da província.
+Art. 29.º Os quadros da Missão de Combate às Tripanossomíases da Guiné abrangem, nos termos do § 3.º do artigo 4.º do Estatuto do Funcionalismo Ultramarino, pessoal dos quadros comuns e dos quadros privativos da província.
 
-###### Art. 30.º O quadro técnico superior é o constante do mapa I anexo ao presente diploma e é constituído pelos funcionários do quadro comum: chefe da Missão, chefes das secções e chefes de sector da secção de medicina.
+Art. 30.º O quadro técnico superior é o constante do mapa I anexo ao presente diploma e é constituído pelos funcionários do quadro comum: chefe da Missão, chefes das secções e chefes de sector da secção de medicina.
 
-###### Art. 31.º Os quadros do pessoal técnico e pessoal técnico auxiliar incluem o pessoal de gabinete, de laboratório, de enfermagem e de campo dos vários ramos dos serviços técnicos e que não se integram no quadro técnico superior.
+Art. 31.º Os quadros do pessoal técnico e pessoal técnico auxiliar incluem o pessoal de gabinete, de laboratório, de enfermagem e de campo dos vários ramos dos serviços técnicos e que não se integram no quadro técnico superior.
 
-###### Art. 32.º Os quadros do pessoal técnico, pessoal técnico auxiliar e pessoal administrativo são privativos da província.
+Art. 32.º Os quadros do pessoal técnico, pessoal técnico auxiliar e pessoal administrativo são privativos da província.
 
 #### SECÇÃO II — Do recrutamento e ingresso nos quadros
 
-###### Art. 33.º O recrutamento dos chefes das secções de veterinária e entomologia e dos chefes de sector da secção de medicina far-se-á, em regra, por meio de concurso documental, válido por dois anos, aberto no Ministério do Ultramar.
+Art. 33.º O recrutamento dos chefes das secções de veterinária e entomologia e dos chefes de sector da secção de medicina far-se-á, em regra, por meio de concurso documental, válido por dois anos, aberto no Ministério do Ultramar.
 
 § único. Além dos requisitos gerais exigidos por lei para o desempenho de funções públicas, são condições especiais para admissão ao concurso:
 
@@ -300,9 +326,9 @@ e) Manter a ordem e a disciplina e verificar a pontualidade e assiduidade dos fu
 
 5.º Ter mais de 21 e menos de 35 anos de idade.
 
-###### Art. 34.º É condição de preferência a prestação de serviço de, pelo menos, dois anos em organismos oficiais dedicados ao problema das tripanossomíases, com boas informações.
+Art. 34.º É condição de preferência a prestação de serviço de, pelo menos, dois anos em organismos oficiais dedicados ao problema das tripanossomíases, com boas informações.
 
-###### Art. 35.º A classificação far-se-á atendendo sucessivamente:
+Art. 35.º A classificação far-se-á atendendo sucessivamente:
 
 1.º Ao maior tempo de bom e efectivo serviço prestado na situação que dá preferência;
 
@@ -310,63 +336,63 @@ e) Manter a ordem e a disciplina e verificar a pontualidade e assiduidade dos fu
 
 3.º Aos trabalhos científicos publicados, quando se lhes reconheça mérito.
 
-###### Art. 36.º O ingresso no quadro técnico superior far-se-á na categoria da letra F para os chefes das secções e chefes dos sectores da secção de medicina.
+Art. 36.º O ingresso no quadro técnico superior far-se-á na categoria da letra F para os chefes das secções e chefes dos sectores da secção de medicina.
 
-###### Art. 37.º O lugar de chefe da secção de medicina será provido pelo Ministro do Ultramar, sob proposta da Direcção-Geral de Saúde e Assistência do Ultramar, de entre os chefes de sector que contem, pelo menos, cinco anos de serviço naquela categoria, com boas informações.
+Art. 37.º O lugar de chefe da secção de medicina será provido pelo Ministro do Ultramar, sob proposta da Direcção-Geral de Saúde e Assistência do Ultramar, de entre os chefes de sector que contem, pelo menos, cinco anos de serviço naquela categoria, com boas informações.
 
-###### Art. 38.º O lugar de chefe de secretaria será provido em comissão mediante concurso documental entre os primeiros-oficiais dos serviços de saúde e assitência da Guiné.
+Art. 38.º O lugar de chefe de secretaria será provido em comissão mediante concurso documental entre os primeiros-oficiais dos serviços de saúde e assitência da Guiné.
 
-###### Art. 39.º O lugar de chefe da Missão de Combate às Tripanossomíases da Guiné será exercido, em comissão, por um médico com a categoria de médico-inspector do quadro médico comum do ultramar com a experiência dos problemas das tripanossomíases e que tenha demonstrado capacidade directiva, competindo a sua escolha ao Ministro do Ultramar, ouvida a Direcção-Geral de Saúde e Assistência do Ultramar.
+Art. 39.º O lugar de chefe da Missão de Combate às Tripanossomíases da Guiné será exercido, em comissão, por um médico com a categoria de médico-inspector do quadro médico comum do ultramar com a experiência dos problemas das tripanossomíases e que tenha demonstrado capacidade directiva, competindo a sua escolha ao Ministro do Ultramar, ouvida a Direcção-Geral de Saúde e Assistência do Ultramar.
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Art. 40.º O actual chefe da Missão Permanente de Estudo e Combate à Doença do Sono e Outras Endemias da Guiné transita para a chefia da Missão de Combate às Tripanossomíases da Guiné e exercerá o cargo em comissão, nos termos do § 2.º do artigo 37.º do Estatuto do Funcionalismo Ultramarino.
+Art. 40.º O actual chefe da Missão Permanente de Estudo e Combate à Doença do Sono e Outras Endemias da Guiné transita para a chefia da Missão de Combate às Tripanossomíases da Guiné e exercerá o cargo em comissão, nos termos do § 2.º do artigo 37.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 41.º O primeiro provimento do lugar de chefe da secção de medicina será feito por escolha do Ministro do Ultramar, sob proposta do director-geral de Saúde e Assistência do Ultramar, de entre os médicos da actual Missão Permanente de Estudo e Combate da Doença do Sono e Outras Endemias da Guiné que tenham prestado, pelo menos, cinco anos de serviço, com boas informações.
+Art. 41.º O primeiro provimento do lugar de chefe da secção de medicina será feito por escolha do Ministro do Ultramar, sob proposta do director-geral de Saúde e Assistência do Ultramar, de entre os médicos da actual Missão Permanente de Estudo e Combate da Doença do Sono e Outras Endemias da Guiné que tenham prestado, pelo menos, cinco anos de serviço, com boas informações.
 
-###### Art. 42.º Os médicos que transitem da actual Missão Permanente de Estudo e Combate da Doença do Sono e outras Endemias da Guiné para o quadro do pessoal técnico superior da Missão de Combate às Tripanossomíases da Guiné vão ocupar os lugares de chefe da secção de medicina e de chefes de sector.
+Art. 42.º Os médicos que transitem da actual Missão Permanente de Estudo e Combate da Doença do Sono e outras Endemias da Guiné para o quadro do pessoal técnico superior da Missão de Combate às Tripanossomíases da Guiné vão ocupar os lugares de chefe da secção de medicina e de chefes de sector.
 
-###### Art. 43.º O lugar de chefe de secretaria será ocupado pelo chefe de secretaria-tesoureiro da Missão Permanente de Estudo e Combate da Doença do Sono e Outras Endemias da Guiné, agora extinta.
+Art. 43.º O lugar de chefe de secretaria será ocupado pelo chefe de secretaria-tesoureiro da Missão Permanente de Estudo e Combate da Doença do Sono e Outras Endemias da Guiné, agora extinta.
 
-###### Art. 44.º O ajudante de preparador da actual Missão Permanente de Estudo e Combate da Doença do Sono e Outras Endemias da Guiné transita para um dos lugares de auxiliar de entomologia criados por este diploma.
+Art. 44.º O ajudante de preparador da actual Missão Permanente de Estudo e Combate da Doença do Sono e Outras Endemias da Guiné transita para um dos lugares de auxiliar de entomologia criados por este diploma.
 
-###### Art. 45.º O actual auxiliar de laboratório transita sem mais formalidades para um dos lugares de auxiliar de veterinária.
+Art. 45.º O actual auxiliar de laboratório transita sem mais formalidades para um dos lugares de auxiliar de veterinária.
 
-###### Art. 46.º O auxiliar da secção de investigação e os dois auxiliares de secretaria transitam para os lugares de dactilógrafo criados pelo presente diploma.
+Art. 46.º O auxiliar da secção de investigação e os dois auxiliares de secretaria transitam para os lugares de dactilógrafo criados pelo presente diploma.
 
-###### Art. 47.º Os actuais serventuários cuja designação funcional dos cargos que ocupam não foi alterada pelo presente diploma transitam, sem mais formalidades, para os novos lugares criados.
+Art. 47.º Os actuais serventuários cuja designação funcional dos cargos que ocupam não foi alterada pelo presente diploma transitam, sem mais formalidades, para os novos lugares criados.
 
 § 1.º Os seis enfermeiros de 2.ª classe transitam para o quadro da Missão de Combate às Tripanossomíases da Guiné na mesma situação, ficando obrigados a adquirir as habilitações que a lei exige aos enfermeiros com o curso normal, dentro de um prazo de três anos, sem o que, e findo aquele período de tempo, serão integrados na categoria de enfermeiro auxiliar.
 
 § 2.º Ingressam nos serviços de saúde e assistência três médicos, oito enfermeiros auxiliares e dois guardas de tabanca da Missão.
 
-###### Art. 48.º Ao pessoal da Missão de Combate às Tripanossomíases da Guiné fica vedado o exercício de qualquer actividade particular, remunerada ou não.
+Art. 48.º Ao pessoal da Missão de Combate às Tripanossomíases da Guiné fica vedado o exercício de qualquer actividade particular, remunerada ou não.
 
-###### Art. 49.º Todos os serventuários que transitarem da actual Missão Permanente de Estudo e Combate da Doença do Sono e Outras Endemias da Guiné para a Missão de Combate às Tripanossomíases da Guiné serão abonados, a partir da data da entrada em vigor deste diploma, das remunerações nele fixadas.
+Art. 49.º Todos os serventuários que transitarem da actual Missão Permanente de Estudo e Combate da Doença do Sono e Outras Endemias da Guiné para a Missão de Combate às Tripanossomíases da Guiné serão abonados, a partir da data da entrada em vigor deste diploma, das remunerações nele fixadas.
 
-###### Art. 50.º O pessoal da Missão de Combate às Tripanossomíases tem direito aos vencimentos e salários constantes dos mapas anexos a este diploma.
+Art. 50.º O pessoal da Missão de Combate às Tripanossomíases tem direito aos vencimentos e salários constantes dos mapas anexos a este diploma.
 
 § 1.º O pessoal técnico superior, o pessoal técnico e o pessoal técnico auxiliar, além dos vencimentos, terá direito, quando em exercício na província, aos subsídios diário e de campo previstos no artigo 7.º do [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415), de 25 de Maio de 1962, com a redacção que lhe foi dada pelo artigo 32.º do [Decreto n.º 45083](https://diariodarepublica.pt/dr/detalhe/decreto/45083-1963-627387), de 24 de Junho de 1963.
 
 § 2.º Fica o governador da província da Guiné autorizado a fixar os quantitativos dos subsídios referidos no parágrafo anterior e a regular as condições em que são abonados.
 
-###### Art. 51.º Com excepção do abono de família, a abonar nos termos legais em vigor na província, o pessoal técnico superior, o pessoal técnico e o pessoal técnico auxiliar não têm direito a quaisquer outros abonos além dos previstos neste decreto.
+Art. 51.º Com excepção do abono de família, a abonar nos termos legais em vigor na província, o pessoal técnico superior, o pessoal técnico e o pessoal técnico auxiliar não têm direito a quaisquer outros abonos além dos previstos neste decreto.
 
-###### Art. 52.º O pessoal administrativo, além dos vencimentos fixados por este decreto, tem direito aos demais abonos que estiverem em vigor para os funcionários da província.
+Art. 52.º O pessoal administrativo, além dos vencimentos fixados por este decreto, tem direito aos demais abonos que estiverem em vigor para os funcionários da província.
 
-###### Art. 53.º Os chefes de sector da secção de medicina poderão substituir os delegados de saúde das respectivas sedes, nas suas ausências ou impedimentos, ouvido o chefe da Missão.
+Art. 53.º Os chefes de sector da secção de medicina poderão substituir os delegados de saúde das respectivas sedes, nas suas ausências ou impedimentos, ouvido o chefe da Missão.
 
-###### Art. 54.º O governador da província da Guiné deverá, nos termos do n.º V da base XXIV da Lei Orgânica do Ultramar Português, regulamentar a composição dos quadros privativos, o recrutamento e promoção do seu pessoal.
+Art. 54.º O governador da província da Guiné deverá, nos termos do n.º V da base XXIV da Lei Orgânica do Ultramar Português, regulamentar a composição dos quadros privativos, o recrutamento e promoção do seu pessoal.
 
-###### Art. 55.º O governador da província determinará a publicação do regulamento privativo do serviço a que este diploma se refere.
+Art. 55.º O governador da província determinará a publicação do regulamento privativo do serviço a que este diploma se refere.
 
-###### Art. 56.º No orçamento da despesa ordinária para o ano de 1965 e seguintes serão inscritas as verbas julgadas necessárias ao regular funcionamento da Missão, com base nas verbas actualmente atribuídas à Missão Permanente de Estudo e Combate da Doença do Sono e Outras Endemias da Guiné que nele deixam de figurar.
+Art. 56.º No orçamento da despesa ordinária para o ano de 1965 e seguintes serão inscritas as verbas julgadas necessárias ao regular funcionamento da Missão, com base nas verbas actualmente atribuídas à Missão Permanente de Estudo e Combate da Doença do Sono e Outras Endemias da Guiné que nele deixam de figurar.
 
-###### Art. 57.º Durante o ano corrente as despesas com o funcionamento da missão serão suportadas pela dotação atribuída à Missão Permanente de Estudo e Combate da Doença do Sono e Outras Endemias da Guiné.
+Art. 57.º Durante o ano corrente as despesas com o funcionamento da missão serão suportadas pela dotação atribuída à Missão Permanente de Estudo e Combate da Doença do Sono e Outras Endemias da Guiné.
 
-###### Art. 58.º Este decreto entra imediatamente em vigor, ficando revogados os Decretos n.os 34611, de 16 de Maio de 1945, e 40885, de 28 de Novembro de 1956, e os artigos 7.º a 9.º do [Decreto n.º 41388](https://diariodarepublica.pt/dr/detalhe/decreto/41388-1957-251644), de 22 de Novembro de 1957.
+Art. 58.º Este decreto entra imediatamente em vigor, ficando revogados os Decretos n.os 34611, de 16 de Maio de 1945, e 40885, de 28 de Novembro de 1956, e os artigos 7.º a 9.º do [Decreto n.º 41388](https://diariodarepublica.pt/dr/detalhe/decreto/41388-1957-251644), de 22 de Novembro de 1957.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Junho de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 
@@ -376,25 +402,25 @@ MAPA I
 
 Quadro do pessoal técnico superior
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/06/15200/08300834.pdf))](https://files.diariodarepublica.pt/1s/1964/06/15200/08300834.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/06/15200/08300834.pdf)
 
 MAPA II
 
 Quadro do pessoal técnico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/06/15200/08300834.pdf))](https://files.diariodarepublica.pt/1s/1964/06/15200/08300834.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/06/15200/08300834.pdf)
 
 MAPA III
 
 Quadro do pessoal administrativo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/06/15200/08300834.pdf))](https://files.diariodarepublica.pt/1s/1964/06/15200/08300834.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/06/15200/08300834.pdf)
 
 MAPA IV
 
 Quadro do pessoal técnico auxiliar assalariado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/06/15200/08300834.pdf))](https://files.diariodarepublica.pt/1s/1964/06/15200/08300834.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/06/15200/08300834.pdf)
 
 Nota. - A importância relativa aos guardas das tabancas deve entender-se como total individual mensal.
 

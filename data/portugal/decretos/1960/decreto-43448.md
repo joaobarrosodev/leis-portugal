@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43448-1960-479919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-12-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:22:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e649110057febfd433bcef744af95d5026f00adda663e894bf85475fcf645ce1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 487a9c5e1494fa82ad1e0b2de8cf5b3eece3b5b785030e50afffe7cefae91d7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:22:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
-  section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:22:01Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +108,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos dos seguintes Ministérios:
+Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos dos seguintes Ministérios:
 
 Ministério do Ultramar:
 
@@ -114,53 +134,53 @@ Cabo Verde ... -25000$00
 
 Para o artigo 55.º, n.º 2) «Remunerações por trabalhos extraordinários», alínea a) «Pessoal dos serviços permanentes» ... +145000$00
 
-###### Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 23904500$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 23904500$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Encargos gerais da Nação
 
-### Capítulo 4.º «Secretariado Nacional da Informação, Cultura Popular e Turismo»:
+Capítulo 4.º «Secretariado Nacional da Informação, Cultura Popular e Turismo»:
 
-###### Artigo 90.º, n.º 8) «Gastos confidenciais ...», alínea a) «Direcção dos Serviços de Censura» ... 150000$00
+Artigo 90.º, n.º 8) «Gastos confidenciais ...», alínea a) «Direcção dos Serviços de Censura» ... 150000$00
 
 Ministério das Finanças
 
-### Capítulo 9.º «Serviço de contribuições - Direcção-Geral das Contribuições e Impostos»:
+Capítulo 9.º «Serviço de contribuições - Direcção-Geral das Contribuições e Impostos»:
 
-###### Artigo 123.º, n.º 3) «Para pagamento de todos os encargos ...» ... 50000$00
+Artigo 123.º, n.º 3) «Para pagamento de todos os encargos ...» ... 50000$00
 
-### Capítulo 16.º «Abono de família aos funcionários»:
+Capítulo 16.º «Abono de família aos funcionários»:
 
-###### Artigo 276.º «Despesa com o abono de família aos funcionários» ... 900000$00
+Artigo 276.º «Despesa com o abono de família aos funcionários» ... 900000$00
 
-### Capítulo 20.º «Outros investimentos»:
+Capítulo 20.º «Outros investimentos»:
 
-###### Artigo 281.º-A «Para aquisição de acções e obrigações de bancos e companhias» ... 20000000$00
+Artigo 281.º-A «Para aquisição de acções e obrigações de bancos e companhias» ... 20000000$00
 
 ... 20950000$00
 
 Ministério do Exército
 
-### Capítulo 10.º «Abono de família aos funcionários»:
+Capítulo 10.º «Abono de família aos funcionários»:
 
-###### Artigo 376.º «Despesa com o abono de família aos funcionários» ... 1200000$00
+Artigo 376.º «Despesa com o abono de família aos funcionários» ... 1200000$00
 
 Ministério das Obras Públicas
 
-### Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
+Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
 
-###### Artigo 53.º, n.º 2) «De imóveis», alínea q) «Paços dos Duques de Bragança, em Guimarães, ...» ... 1500000$00
+Artigo 53.º, n.º 2) «De imóveis», alínea q) «Paços dos Duques de Bragança, em Guimarães, ...» ... 1500000$00
 
-### Capítulo 7.º «Direcção-Geral dos Serviços de Urbanização»:
+Capítulo 7.º «Direcção-Geral dos Serviços de Urbanização»:
 
-###### Artigo 85.º, n.º 1) «Pessoal dos quadros ...» ... 70500$00
+Artigo 85.º, n.º 1) «Pessoal dos quadros ...» ... 70500$00
 
 ... 1570500$00
 
 Ministério do Ultramar
 
-### Capítulo 10.º-A «Serviços de saúde e assistência - Direcção-Geral de Saúde e Assistência do Ultramar»:
+Capítulo 10.º-A «Serviços de saúde e assistência - Direcção-Geral de Saúde e Assistência do Ultramar»:
 
-###### Artigo 89.º-A «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei»:
+Artigo 89.º-A «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei»:
 
 (1 mês):
 
@@ -174,56 +194,56 @@ Quadro da Direcção-Geral:
 
 Ministério da Educação Nacional
 
-### Capítulo 5.º «Direcção-Geral do Ensino Técnico profissional - Ensino industrial e comercial - Ensino médio - Instituto Comercial de Lisboa»:
+Capítulo 5.º «Direcção-Geral do Ensino Técnico profissional - Ensino industrial e comercial - Ensino médio - Instituto Comercial de Lisboa»:
 
-###### Artigo 751.º, n.º 1) «Rendas de casa» ... 15000$00
+Artigo 751.º, n.º 1) «Rendas de casa» ... 15000$00
 
 ... 23904500$00
 
-###### Art. 3.º Como compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+Art. 3.º Como compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 9.º, artigo 263.º «Produto da venda de títulos ou de empréstimos» ... 20000000$00
+Capítulo 9.º, artigo 263.º «Produto da venda de títulos ou de empréstimos» ... 20000000$00
 
 Ministério das Finanças
 
-### Capítulo 1.º, artigo 8.º, n.º 1) ... 150000$00
+Capítulo 1.º, artigo 8.º, n.º 1) ... 150000$00
 
-### Capítulo 6.º, artigo 47.º, n.º 1) ... 2400000$00
+Capítulo 6.º, artigo 47.º, n.º 1) ... 2400000$00
 
-### Capítulo 9.º, artigo 124.º, n.º 1) ... 50000$00
+Capítulo 9.º, artigo 124.º, n.º 1) ... 50000$00
 
 ... 2600000$00
 
 Ministério do Exército
 
-### Capítulo 8.º, artigo 319.º, n.º 3), alínea a) «28000 praças, ...» ... 1200000$00
+Capítulo 8.º, artigo 319.º, n.º 3), alínea a) «28000 praças, ...» ... 1200000$00
 
 Ministério das Obras Públicas
 
-### Capítulo 7.º, artigo 89.º, n.º 1) ... 20500$00
+Capítulo 7.º, artigo 89.º, n.º 1) ... 20500$00
 
-### Capítulo 7.º, artigo 90.º, n.º 1) ... 50000$00
+Capítulo 7.º, artigo 90.º, n.º 1) ... 50000$00
 
 ... 70500$00
 
 Ministério do Ultramar
 
-### Capítulo 10.º, artigo 89.º, n.º 1) ... 19000$00
+Capítulo 10.º, artigo 89.º, n.º 1) ... 19000$00
 
 Ministério da Educação Nacional
 
-### Capítulo 5.º, artigo 792.º, n.º 1) «Escola Industrial e Comercial de Lagos» ... 15000$00
+Capítulo 5.º, artigo 792.º, n.º 1) «Escola Industrial e Comercial de Lagos» ... 15000$00
 
 ... 23904500$00
 
-###### Art. 4.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério das Comunicações:
+Art. 4.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério das Comunicações:
 
 A observação (a) aposta à dotação do capítulo 4.º, artigo 91.º, n.º 2), alínea a), é eliminada.
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

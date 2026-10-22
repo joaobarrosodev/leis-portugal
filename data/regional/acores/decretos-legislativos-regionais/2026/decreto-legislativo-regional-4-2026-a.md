@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/4/2026/02/04/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2026-1034985561
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-04T00:00:00Z'
+  retrieved_at: '2026-10-22T18:31:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 294e5e1f4f10b1db494703fc8bcc28dbb86be1364da07c505f667bea76aa59e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e62d342e95e93b09321ecb42dcad4204d1a1fd626f40364059f043000c335f59
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:31:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano Regional
 - Açores
+- Plano Regional
 relationships:
 - type: cites
   target: celex:32013R0228
@@ -116,16 +116,128 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2022/1342/oj
   label: null
   source: http://data.europa.eu/eli/reco/2022/1342/oj
+- type: cites
+  target: pt:dre:106803145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224797144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70832993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75712975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870085722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:875899348:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:31:23Z'
   warnings: []
   errors: []
 ---
@@ -146,11 +258,11 @@ A Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 27 de novembro de 2025.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 8 de janeiro de 2026.**
+Assinado em Angra do Heroísmo em 8 de janeiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -294,7 +406,7 @@ Os Açores registam um ligeiro aumento populacional, acompanhado por um aumento 
 
 A evolução da estrutura demográfica dos Açores (Quadro 1) apresenta uma dinâmica populacional que importa ter presente devido, por um lado, aos desafios de sustentabilidade demográfica que daí decorrem e, por outro, pelas respostas e políticas sociais específicas que justificam.
 
-Segundo as estimativas da população residente do Instituto Nacional de Estatística (INE), em 2024, a RAA concentrava 241 718 habitantes (2,2 % do total da população nacional) e apresentava uma densidade populacional de 104,1 habitantes por km<sup>2</sup>, valor inferior à média nacional (116,6 habitantes por km<sup>2</sup>).
+Segundo as estimativas da população residente do Instituto Nacional de Estatística (INE), em 2024, a RAA concentrava 241 718 habitantes (2,2 % do total da população nacional) e apresentava uma densidade populacional de 104,1 habitantes por km2, valor inferior à média nacional (116,6 habitantes por km2).
 
 Verifica-se uma perda de população residente no último período do intercensitário (-3,4 % entre 2011 e 2021), que se continua a destacar em 2024, quando comparado com 2011 (-2,2 %), por oposição à tendência observada a nível nacional (1,8 %). Ainda assim, no período mais recente, entre 2021 e 2024, é possível verificar uma ligeira recuperação de 1,2 % na população residente nos Açores. O índice de envelhecimento da população residente, apesar de apresentar um agravamento em 2024 (128,0), continua inferior ao nacional (192,4).
 
@@ -306,40 +418,40 @@ Os concelhos das Lajes das Flores, Lajes do Pico e Calheta de São Jorge diferen
 
 Quadro 1 - Açores no contexto interno: Os grandes números no domínio da demografia
 
-| Âmbito geográfico | 2024 | 2021-2024 | 2011-2024 | 2024 | 2024 | 2011 |
+| **Âmbito geográfico** | **População residente** | **Densidade populacional** | **Índice de envelhecimento** |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Âmbito geográfico | População residente | População residente | População residente | Densidade populacional | Índice de envelhecimento | Índice de envelhecimento |
-| Âmbito geográfico | N.º habitantes | Tx. variação | Tx. variação | Habitantes/ km2 | N.º | N.º |
-| Portugal | 10 749 635 | 3,2 % | 1,8 % | 116,6 | 192,4 | 128,0 |
-| Continente | 10 248 477 | 3,2 % | 2,0 % | 115,0 | 194,4 | 130,7 |
+| **N.º habitantes** | **Tx. variação** | **Tx. variação** | **Habitantes/ km****2** | **N.º** |  |  |
+| **2024** | **2021-2024** | **2011-2024** | **2024** | **2024** | **2011** |  |
+| **Portugal** | 10 749 635 | 3,2 % | 1,8 % | 116,6 | 192,4 | 128,0 |
+| **Continente** | 10 248 477 | 3,2 % | 2,0 % | 115,0 | 194,4 | 130,7 |
 | Região Autónoma dos Açores | 241 718 | 1,2 % | -2,2 % | 104,1 | 128,0 | 74,5 |
-| Santa Maria | Santa Maria | Santa Maria | Santa Maria | Santa Maria | Santa Maria | Santa Maria |
+| **Santa Maria** |  |  |  |  |  |  |
 | Vila do Porto | 5 504 | 0,4 % | -1,1 % | 56,8 | 139,1 | 76,9 |
-| São Miguel | São Miguel | São Miguel | São Miguel | São Miguel | São Miguel | São Miguel |
+| **São Miguel** |  |  |  |  |  |  |
 | Lagoa | 15 130 | 4,6 % | 5,1 % | 331,9 | 88,4 | 49,4 |
 | Nordeste | 4 439 | 0,0 % | -9,9 % | 43,7 | 176,3 | 104,2 |
 | Ponta Delgada | 69 038 | 1,8 % | 0,0 % | 296,3 | 119,7 | 63,8 |
 | Povoação | 5 883 | 0,1 % | -6,2 % | 55,3 | 151,5 | 81,5 |
 | Ribeira Grande | 32 397 | 2,0 % | 0,3 % | 179,8 | 70,1 | 37,9 |
 | Vila Franca do Campo | 10 368 | 0,1 % | -7,4 % | 133 | 119,8 | 61,1 |
-| Terceira | Terceira | Terceira | Terceira | Terceira | Terceira | Terceira |
+| **Terceira** |  |  |  |  |  |  |
 | Angra do Heroísmo | 33 701 | -0,6 % | -5,2 % | 141 | 163,9 | 93,1 |
 | Praia da Vitória | 19 862 | 1,2 % | -5,3 % | 123,2 | 152 | 83,7 |
-| Graciosa | Graciosa | Graciosa | Graciosa | Graciosa | Graciosa | Graciosa |
+| **Graciosa** |  |  |  |  |  |  |
 | Santa Cruz da Graciosa | 4 070 | -0,9 % | -6,8 % | 67,1 | 155 | 138,5 |
-| São Jorge | São Jorge | São Jorge | São Jorge | São Jorge | São Jorge | São Jorge |
+| **São Jorge** |  |  |  |  |  |  |
 | Calheta | 3 486 | -0,9 % | -6,6 % | 27,6 | 208,4 | 134,3 |
 | Velas | 4 949 | 0,0 % | -8,5 % | 42,2 | 178 | 128,9 |
-| Pico | Pico | Pico | Pico | Pico | Pico | Pico |
+| **Pico** |  |  |  |  |  |  |
 | Lajes do Pico | 4 398 | -0,1 % | -5,9 % | 28,3 | 203,4 | 164,1 |
 | Madalena | 6 559 | 1,8 % | 7,8 % | 44,6 | 144,1 | 129,3 |
 | São Roque do Pico | 3 461 | 5,1 % | 1,8 % | 24,3 | 175,3 | 146,8 |
-| Faial | Faial | Faial | Faial | Faial | Faial | Faial |
+| **Faial** |  |  |  |  |  |  |
 | Horta | 14 466 | 0,3 % | -3,5 % | 83,6 | 164,2 | 97,0 |
-| Flores | Flores | Flores | Flores | Flores | Flores | Flores |
+| **Flores** |  |  |  |  |  |  |
 | Lajes das Flores | 1 456 | 2,8 % | -3,1 % | 20,8 | 200,6 | 147,8 |
 | Santa Cruz das Flores | 2 114 | 1,9 % | -7,4 % | 29,8 | 154,8 | 124,8 |
-| Corvo | Corvo | Corvo | Corvo | Corvo | Corvo | Corvo |
+| **Corvo** |  |  |  |  |  |  |
 | Corvo | 437 | 5,8 % | 7,4 % | 25,5 | 161,5 | 184,4 |
 
 Fonte: INE, Estimativas da População Residente.
@@ -348,7 +460,8 @@ A decomposição da evolução da população residente nos Açores, por via das
 
 Gráfico 1 - Decomposição do crescimento populacional - Taxa de crescimento migratório e natural (%) | 2011-2024
 
-![](https://files.diariodarepublica.pt/images/1034985561/1034986779.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985561/1034986779.png) |
+| --- |
 
 Fonte: INE, Estimativas de População Residente e Indicadores Demográficos.
 
@@ -356,40 +469,40 @@ Como resultado do aumento do índice de envelhecimento e da redução das taxas 
 
 Quadro 2 - Estrutura etária da população residente
 
-| Âmbito geográfico | 2024 | 2021-2024 | 2024 | 2021-2024 | 2024 | 2021-2024 | 2024 | 2021-2024 |
+| **Âmbito geográfico** | **0-14 anos** | **15-24 anos** | **25-64 anos** | **65****e****mais anos** |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Âmbito geográfico | 0-14 anos | 0-14 anos | 15-24 anos | 15-24 anos | 25-64 anos | 25-64 anos | 65 e mais anos | 65 e mais anos |
-| Âmbito geográfico | N.º | Tx. variação | N.º | Tx. variação | N.º | Tx. variação | N.º | Tx. variação |
-| Portugal | 1 359 489 | 0,1 % | 1 098 051 | 0,8 % | 5 676 751 | 3,0 % | 2 615 344 | 6,2 % |
-| Continente | 1 294 739 | 0,6 % | 1 041 416 | 0,8 % | 5 395 569 | 3,1 % | 2 516 753 | 6,2 % |
+| **N.º** | **Tx. variação** | **N.º** | **Tx. variação** | **N.º** | **Tx. variação** | **N.º** | **Tx. variação** |  |
+| **2024** | **2021-2024** | **2024** | **2021-2024** | **2024** | **2021-2024** | **2024** | **2021-2024** |  |
+| **Portugal** | 1 359 489 | 0,1 % | 1 098 051 | 0,8 % | 5 676 751 | 3,0 % | 2 615 344 | 6,2 % |
+| **Continente** | 1 294 739 | 0,6 % | 1 041 416 | 0,8 % | 5 395 569 | 3,1 % | 2 516 753 | 6,2 % |
 | Região Autónoma dos Açores | 33 780 | -4,3 % | 27 962 | -1,1 % | 136 722 | 1,2 % | 43 254 | 7,9 % |
-| Santa Maria | Santa Maria | Santa Maria | Santa Maria | Santa Maria | Santa Maria | Santa Maria | Santa Maria | Santa Maria |
+| **Santa Maria** |  |  |  |  |  |  |  |  |
 | Vila do Porto | 750 | -6,3 % | 672 | -0,2 % | 3 039 | -0,8 % | 1 043 | 10,3 % |
-| São Miguel | São Miguel | São Miguel | São Miguel | São Miguel | São Miguel | São Miguel | São Miguel | São Miguel |
+| **São Miguel** |  |  |  |  |  |  |  |  |
 | Lagoa | 2 348 | -2,8 % | 2 012 | 2,8 % | 8 694 | 5,7 % | 2 076 | 11,5 % |
 | Nordeste | 540 | -7,5 % | 532 | -0,9 % | 2 415 | 1,1 % | 952 | 2,7 % |
 | Ponta Delgada | 9 636 | -2,3 % | 7 867 | -3,9 % | 39 997 | 1,5 % | 11 538 | 11,0 % |
 | Povoação | 724 | -7,3 % | 719 | -2,8 % | 3 343 | 0,9 % | 1 097 | 5,4 % |
 | Ribeira Grande | 5 603 | -6,9 % | 4 626 | 4,0 % | 18 242 | 2,4 % | 3 926 | 13,0 % |
 | Vila Franca do Campo | 1 437 | -6,5 % | 1 245 | -4,8 % | 5 965 | 0,6 % | 1 721 | 8,3 % |
-| Terceira | Terceira | Terceira | Terceira | Terceira | Terceira | Terceira | Terceira | Terceira |
+| **Terceira** |  |  |  |  |  |  |  |  |
 | Angra do Heroísmo | 4 288 | -6,1 % | 3 603 | -3,3 % | 18 781 | -1,1 % | 7 029 | 6,0 % |
 | Praia da Vitória | 2 641 | -3,7 % | 2 062 | -1,0 % | 11 144 | 0,1 % | 4 015 | 9,5 % |
-| Graciosa | Graciosa | Graciosa | Graciosa | Graciosa | Graciosa | Graciosa | Graciosa | Graciosa |
+| **Graciosa** |  |  |  |  |  |  |  |  |
 | Santa Cruz da Graciosa | 585 | -3,2 % | 423 | 0,0 % | 2 155 | -1,0 % | 907 | 0,1 % |
-| São Jorge | São Jorge | São Jorge | São Jorge | São Jorge | São Jorge | São Jorge | São Jorge | São Jorge |
+| **São Jorge** |  |  |  |  |  |  |  |  |
 | Calheta | 407 | -7,3 % | 400 | 3,1 % | 1 831 | -0,1 % | 848 | -1,0 % |
 | Velas | 600 | -4,6 % | 493 | 2,3 % | 2 788 | -0,8 % | 1 068 | 3,8 % |
-| Pico | Pico | Pico | Pico | Pico | Pico | Pico | Pico | Pico |
+| **Pico** |  |  |  |  |  |  |  |  |
 | Lajes do Pico | 531 | -2,6 % | 448 | 2,1 % | 2 339 | 0,1 % | 1 080 | -0,2 % |
 | Madalena | 913 | 0,2 % | 656 | -2,8 % | 3 674 | 2,8 % | 1 316 | 2,6 % |
 | São Roque do Pico | 429 | 2,1 % | 292 | 2,5 % | 1 988 | 5,3 % | 752 | 7,6 % |
-| Faial | Faial | Faial | Faial | Faial | Faial | Faial | Faial | Faial |
+| **Faial** |  |  |  |  |  |  |  |  |
 | Horta | 1 882 | -3,2 % | 1 487 | -2,4 % | 8 007 | -0,3 % | 3 090 | 5,5 % |
-| Flores | Flores | Flores | Flores | Flores | Flores | Flores | Flores | Flores |
+| **Flores** |  |  |  |  |  |  |  |  |
 | Lajes das Flores | 155 | -2,5 % | 159 | 6,7 % | 831 | 2,7 % | 311 | 4,0 % |
 | Santa Cruz das Flores | 259 | -7,2 % | 224 | 6,2 % | 1 230 | 3,5 % | 401 | 1,0 % |
-| Corvo | Corvo | Corvo | Corvo | Corvo | Corvo | Corvo | Corvo | Corvo |
+| **Corvo** |  |  |  |  |  |  |  |  |
 | Corvo | 52 | -1,9 % | 42 | 20,0 % | 259 | 3,6 % | 84 | 12,0 % |
 
 Fonte: INE, Estimativas de População Residente.
@@ -404,40 +517,40 @@ De acordo com os dados censitários (Quadro 3), os Açores apresentam uma evolu�
 
 Quadro 3 - Açores no contexto interno: Nível de escolaridade mais elevado completo da população residente
 
-| Âmbito geográfico | 2021 | 2011-2021 | 2021 | 2011-2021 | 2021 | 2011-2021 | 2021 | 2011-2021 | 2021 | 2011-2021 | 2021 | 2011-2021 |
+| **Âmbito geográfico** | **Nenhum** | **Ensino básico – 1.º ciclo** | **Ensino básico – 2.º ciclo** | **Ensino básico – 3.º ciclo** | **Ensino secundário** | **Ensino superior** |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Âmbito geográfico | Nenhum | Nenhum | Ensino básico – 1.º ciclo | Ensino básico – 1.º ciclo | Ensino básico – 2.º ciclo | Ensino básico – 2.º ciclo | Ensino básico – 3.º ciclo | Ensino básico – 3.º ciclo | Ensino secundário | Ensino secundário | Ensino superior | Ensino superior |
-| Âmbito geográfico | % do total | Variação (p.p.) | % do total | Variação (p.p.) | % do total | Variação (p.p.) | % do total | Variação (p.p.) | % do total | Variação (p.p.) | % do total | Variação (p.p.) |
-| Portugal | 13 % | -6 | 21 % | -4 | 11 % | -2 | 16 % | 0 | 20 % | 7 | 17 % | 5 |
-| Continente | 13 % | -6 | 21 % | -4 | 11 % | -2 | 16 % | 0 | 21 % | 7 | 17 % | 5 |
+| **% do total** | **Variação (p.p.)** | **% do total** | **Variação (p.p.)** | **% do total** | **Variação (p.p.)** | **% do total** | **Variação (p.p.)** | **% do total** | **Variação (p.p.)** | **% do total** | **Variação (p.p.)** |  |
+| **2021** | **2011-2021** | **2021** | **2011-2021** | **2021** | **2011-2021** | **2021** | **2011-2021** | **2021** | **2011-2021** | **2021** | **2011-2021** |  |
+| **Portugal** | 13 % | -6 | 21 % | -4 | 11 % | -2 | 16 % | 0 | 20 % | 7 | 17 % | 5 |
+| **Continente** | 13 % | -6 | 21 % | -4 | 11 % | -2 | 16 % | 0 | 21 % | 7 | 17 % | 5 |
 | RAA | 14 % | -7 | 22 % | -4 | 15 % | -2 | 17 % | 2 | 18 % | 7 | 13 % | 4 |
-| Santa Maria | Santa Maria | Santa Maria | Santa Maria | Santa Maria | Santa Maria | Santa Maria | Santa Maria | Santa Maria | Santa Maria | Santa Maria | Santa Maria | Santa Maria |
+| **Santa Maria** |  |  |  |  |  |  |  |  |  |  |  |  |
 | Vila do Porto | 13 % | -8 | 24 % | -3 | 14 % | -3 | 18 % | 2 | 20 % | 8 | 11 % | 4 |
-| São Miguel | São Miguel | São Miguel | São Miguel | São Miguel | São Miguel | São Miguel | São Miguel | São Miguel | São Miguel | São Miguel | São Miguel | São Miguel |
+| **São Miguel** |  |  |  |  |  |  |  |  |  |  |  |  |
 | Lagoa | 15 % | -7 | 22 % | -6 | 17 % | -2 | 18 % | 3 | 16 % | 8 | 10 % | 4 |
 | Nordeste | 13 % | -8 | 27 % | -4 | 18 % | -2 | 19 % | 3 | 16 % | 7 | 7 % | 3 |
 | Ponta Delgada | 13 % | -7 | 17 % | -4 | 15 % | -3 | 18 % | 1 | 19 % | 8 | 17 % | 5 |
 | Povoação | 14 % | -9 | 28 % | -2 | 17 % | -3 | 17 % | 3 | 16 % | 9 | 8 % | 3 |
 | Ribeira Grande | 17 % | -9 | 22 % | -4 | 18 % | -2 | 18 % | 4 | 15 % | 8 | 9 % | 3 |
 | Vila Franca do Campo | 16 % | -9 | 26 % | -3 | 18 % | -2 | 16 % | 3 | 15 % | 8 | 8 % | 4 |
-| Terceira | Terceira | Terceira | Terceira | Terceira | Terceira | Terceira | Terceira | Terceira | Terceira | Terceira | Terceira | Terceira |
+| **Terceira** |  |  |  |  |  |  |  |  |  |  |  |  |
 | Angra do Heroísmo | 13 % | -6 | 23 % | -5 | 13 % | -3 | 17 % | 2 | 17 % | 7 | 15 % | 5 |
 | Praia da Vitória | 14 % | -6 | 26 % | -4 | 14 % | -2 | 16 % | 1 | 18 % | 7 | 11 % | 4 |
-| Graciosa | Graciosa | Graciosa | Graciosa | Graciosa | Graciosa | Graciosa | Graciosa | Graciosa | Graciosa | Graciosa | Graciosa | Graciosa |
+| **Graciosa** |  |  |  |  |  |  |  |  |  |  |  |  |
 | Santa Cruz | 15 % | -7 | 30 % | -3 | 15 % | -1 | 16 % | 1 | 15 % | 7 | 10 % | 4 |
-| São Jorge | São Jorge | São Jorge | São Jorge | São Jorge | São Jorge | São Jorge | São Jorge | São Jorge | São Jorge | São Jorge | São Jorge | São Jorge |
+| **São Jorge** |  |  |  |  |  |  |  |  |  |  |  |  |
 | Calheta | 14 % | -11 | 32 % | -2 | 14 % | 0 | 16 % | 1 | 14 % | 8 | 9 % | 4 |
 | Velas | 13 % | -6 | 28 % | -5 | 13 % | -2 | 17 % | 0 | 17 % | 8 | 10 % | 4 |
-| Pico | Pico | Pico | Pico | Pico | Pico | Pico | Pico | Pico | Pico | Pico | Pico | Pico |
+| **Pico** |  |  |  |  |  |  |  |  |  |  |  |  |
 | Lajes | 12 % | -5 | 29 % | -6 | 14 % | -1 | 17 % | 2 | 16 % | 6 | 10 % | 4 |
 | Madalena | 14 % | -3 | 26 % | -9 | 12 % | -2 | 17 % | 2 | 19 % | 6 | 11 % | 5 |
 | São Roque | 13 % | -3 | 27 % | -7 | 13 % | -2 | 16 % | 1 | 19 % | 7 | 11 % | 4 |
-| Faial | Faial | Faial | Faial | Faial | Faial | Faial | Faial | Faial | Faial | Faial | Faial | Faial |
+| **Faial** |  |  |  |  |  |  |  |  |  |  |  |  |
 | Horta | 12 % | -5 | 22 % | -5 | 13 % | -3 | 18 % | 1 | 20 % | 7 | 14 % | 4 |
-| Flores | Flores | Flores | Flores | Flores | Flores | Flores | Flores | Flores | Flores | Flores | Flores | Flores |
+| **Flores** |  |  |  |  |  |  |  |  |  |  |  |  |
 | Lajes das Flores | 11 % | -8 | 30 % | -5 | 14 % | 0 | 17 % | 2 | 17 % | 7 | 10 % | 3 |
 | Santa Cruz das Flores | 14 % | -3 | 24 % | -9 | 13 % | -1 | 21 % | 2 | 17 % | 7 | 10 % | 3 |
-| Corvo | Corvo | Corvo | Corvo | Corvo | Corvo | Corvo | Corvo | Corvo | Corvo | Corvo | Corvo | Corvo |
+| **Corvo** |  |  |  |  |  |  |  |  |  |  |  |  |
 | Corvo | 11 % | -9 | 22 % | -11 | 17 % | 1 | 20 % | 7 | 19 % | 9 | 10 % | 4 |
 
 Nota. - «% do total» refere-se ao peso da população residente com determinado nível de escolaridade mais elevado completo face à população residente total para a respetiva geografia; ensino pós-secundário não incluído (representa cerca de 1 % do total).
@@ -450,12 +563,12 @@ Ainda assim, regista-se uma variação positiva das taxas de escolaridade. Nos A
 
 Quadro 4 - Taxa de escolaridade da população residente por nível de ensino
 
-| Âmbito geográfico | 2024 | 2021-2024 | 2024 | 2021-2024 | 2024 | 2021-2024 |
+| **Âmbito geográfico** | **Ensino básico – 3.º Ciclo** | **Ensino secundário** | **Ensino superior** |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Âmbito geográfico | Ensino básico – 3.º Ciclo | Ensino básico – 3.º Ciclo | Ensino secundário | Ensino secundário | Ensino superior | Ensino superior |
-| Âmbito geográfico | Tx. escolaridade | Variação (p.p.) | Tx. escolaridade | Variação (p.p.) | Tx. escolaridade | Variação (p.p.) |
-| Portugal | 80,9 % | 2,7 | 64,0 % | 4,2 | 31,4 % | 2,6 |
-| Continente | 81,6 % | 2,7 | 64,8 % | 4,3 | 32,0 % | 2,8 |
+| **Tx. escolaridade** | **Variação (p.p.)** | **Tx. escolaridade** | **Variação (p.p.)** | **Tx. escolaridade** | **Variação (p.p.)** |  |
+| **2024** | **2021-2024** | **2024** | **2021-2024** | **2024** | **2021-2024** |  |
+| **Portugal** | 80,9 % | 2,7 | 64,0 % | 4,2 | 31,4 % | 2,6 |
+| **Continente** | 81,6 % | 2,7 | 64,8 % | 4,3 | 32,0 % | 2,8 |
 | Região Autónoma dos Açores | 65,9 % | 4,6 | 44,9 % | 4,4 | 17,6 % | 1,7 |
 
 Nota. - A taxa de escolaridade do nível de ensino básico refere-se à população residente com idade entre 20 e 64 anos; o divisor da taxa de escolaridade do nível de ensino secundário refere-se à população residente com idade entre 20 e 64 anos; o divisor da taxa de escolaridade do nível de ensino secundário refere-se à população residente com idade entre 25 e 64 anos.
@@ -466,9 +579,10 @@ Apesar de uma taxa de abandono escolar precoce superior à média nacional, os A
 
 Em 2024, uma proporção de 19,8 % da população residente entre os 18 e os 24 anos de idade e com nível de escolaridade completo até ao 3.º ciclo do ensino básico abandonava a sua educação e formação antes de terminar a escolaridade mínima obrigatória (12.º ano).
 
-Gráfico 2 - Taxa de abandono precoce de educação e formação (NUTS II) | 2011, 2024<sup>1</sup>
+Gráfico 2 - Taxa de abandono precoce de educação e formação (NUTS II) | 2011, 20241
 
-![](https://files.diariodarepublica.pt/images/1034985561/1034986780.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985561/1034986780.png) |
+| --- |
 
 Fonte: INE, Inquérito ao emprego.
 
@@ -478,7 +592,8 @@ Ainda no domínio da educação, os baixos níveis de qualificação da populaç
 
 Gráfico 3 - Taxa de escolaridade do nível de ensino superior (NUTS II) | 2011-2024
 
-![](https://files.diariodarepublica.pt/images/1034985561/1034986781.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985561/1034986781.png) |
+| --- |
 
 Fonte: INE, Inquérito ao emprego.
 
@@ -488,7 +603,8 @@ Assim, tendo em conta o exposto, é importante considerar a evolução do númer
 
 Gráfico 4 - Proporção de população inscrita em áreas de C&T no ensino superior (NUTS II) | 2011-2012, 2023-2024
 
-![](https://files.diariodarepublica.pt/images/1034985561/1034986782.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985561/1034986782.png) |
+| --- |
 
 Fonte: INE, Direção-Geral de Estatísticas da Educação e Ciência.
 
@@ -504,14 +620,14 @@ Quanto aos beneficiários destas prestações nos Açores, regista-se uma quebra
 
 Quadro 5 - Valor das prestações sociais e beneficiários de prestações sociais nos Açores | 2015-2024
 
-|  | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
+|  | **2015** | **2016** | **2017** | **2018** | **2019** | **2020** | **2021** | **2022** | **2023** | **2024** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Prestações (milhares de euros) | Prestações (milhares de euros) | Prestações (milhares de euros) | Prestações (milhares de euros) | Prestações (milhares de euros) | Prestações (milhares de euros) | Prestações (milhares de euros) | Prestações (milhares de euros) | Prestações (milhares de euros) | Prestações (milhares de euros) | Prestações (milhares de euros) |
+| **Prestações (milhares de euros)** |  |  |  |  |  |  |  |  |  |  |
 | RSI | s.i. | s.i. | s.i. | s.i. | 20 462 | 19 072 | 17 463 | 13 863 | 12 622 | 12 120 |
 | Abono de família para crianças e jovens | 18 666 | 19 270 | 20 142 | 20 900 | 22 875 | 23 620 | 21 921 | 23 049 | 35 228 | 37 436 |
 | Subsídio por assistência a terceira pessoa | 496 | 538 | 558 | 572 | 590 | 589 | 573 | 556 | 606 | 592 |
 | Subsídio de doença | 12 645 | 13 135 | 15 412 | 16 086 | 18 989 | 21 893 | 22 577 | 26 939 | 31 434 | 35 407 |
-| Beneficiários (número de indivíduos) | Beneficiários (número de indivíduos) | Beneficiários (número de indivíduos) | Beneficiários (número de indivíduos) | Beneficiários (número de indivíduos) | Beneficiários (número de indivíduos) | Beneficiários (número de indivíduos) | Beneficiários (número de indivíduos) | Beneficiários (número de indivíduos) | Beneficiários (número de indivíduos) | Beneficiários (número de indivíduos) |
+| **Beneficiários (número de indivíduos)** |  |  |  |  |  |  |  |  |  |  |
 | RSI | 23 777 | 23 722 | 23 702 | 22 694 | 20 912 | 18 544 | 17 283 | 14 343 | 11 669 | 10 171 |
 | Abono de família para crianças e jovens | 23 702 | 23 398 | 22 978 | 22 881 | 21 740 | 23 160 | 22 555 | 22 752 | 21 966 | 21 332 |
 | Subsídio por assistência a terceira pessoa | 466 | 455 | 459 | 435 | 438 | 442 | 434 | 419 | 419 | 418 |
@@ -531,7 +647,8 @@ Importa destacar o processo de convergência do PIB per capita regional com o in
 
 Gráfico 5 - Evolução do PIB a preços correntes e do PIB per capita (PT=100) nos Açores | 2011-2023
 
-![](https://files.diariodarepublica.pt/images/1034985561/1034986783.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985561/1034986783.png) |
+| --- |
 
 Nota. - p = dado preliminar.
 
@@ -543,7 +660,8 @@ Com evidentes sinais de recuperação da generalidade dos indicadores económico
 
 Gráfico 6 - Decomposição em fatores do PIB per capita a preços correntes das regiões portuguesas (NUTS II) e nos Açores | 2011, 2019 e 2023
 
-![](https://files.diariodarepublica.pt/images/1034985561/1034986784.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985561/1034986784.png) |
+| --- |
 
 Fonte: INE, Contas económicas regionais.
 
@@ -553,23 +671,23 @@ Ainda que enfrentando um contexto internacional adverso, estima-se que a economi
 
 Quadro 6 - Cenário macroeconómico da RAA
 
-|  | Estimado | Previsto | Previsto | Previsto |
+|  | **2024** | **2025** | **2026** | **2027** |
 | --- | --- | --- | --- | --- |
-|  | 2024 | 2025 | 2026 | 2027 |
-| PIB real e componentes (variação, %) | PIB real e componentes (variação, %) | PIB real e componentes (variação, %) | PIB real e componentes (variação, %) | PIB real e componentes (variação, %) |
+|  | Estimado | Previsto | Previsto | Previsto |
+| **PIB real****e****componentes (variação, %)** |  |  |  |  |
 | PIB (taxa de crescimento real) | 2,4 | 2,1 | 1,9 | 1,7 |
 | Consumo privado | 3,2 | 2,5 | 1,9 | 1,8 |
 | Consumo público | 2,6 | 2,6 | 2,6 | 2,3 |
 | Investimento (FBCF) | 5,0 | 6,6 | 5,2 | 3,3 |
 | Exportações | 4,6 | 2,6 | 2,3 | 1,2 |
 | Importações | 8,5 | 7,8 | 7,3 | 6,2 |
-| Preços (variação, %) | Preços (variação, %) | Preços (variação, %) | Preços (variação, %) | Preços (variação, %) |
+| **Preços (variação, %)** |  |  |  |  |
 | Deflator do PIB | 5,0 | 3,6 | 2,8 | 2,5 |
 | Taxa de inflação (IPC) | 2,0 | 2,1 | 2,0 | 2,0 |
-| PIB nominal | PIB nominal | PIB nominal | PIB nominal | PIB nominal |
+| **PIB nominal** |  |  |  |  |
 | Variação (%) | 7,4 | 5,7 | 4,9 | 4,1 |
 | Nível (milhões de euros) | 5 773,8 | 6 102,9 | 6 402,0 | 6 664,5 |
-| Mercado de trabalho (variação, %) | Mercado de trabalho (variação, %) | Mercado de trabalho (variação, %) | Mercado de trabalho (variação, %) | Mercado de trabalho (variação, %) |
+| **Mercado de trabalho (variação, %)** |  |  |  |  |
 | Emprego | 0,6 | 0,7 | 0,5 | 0,4 |
 | Taxa de desemprego | 5,6 | 5,0 | 5,2 | 5,4 |
 | Produtividade aparente do trabalho | 1,8 | 1,4 | 1,4 | 1,3 |
@@ -593,20 +711,20 @@ Este indicador auxilia a compreensão das dificuldades de convergência do PIB p
 
 Quadro 7 - Açores no contexto das regiões nacionais: Os grandes números no domínio da economia
 
-| Indicador | Indicador | Indicador | PT | RAA | Região Autónoma da Madeira | NUTS II Continente | NUTS II Continente | NUTS II Continente | NUTS II Continente | NUTS II Continente | NUTS II Continente | NUTS II Continente |
+| **Indicador** | **PT** | **RAA** | **Região Autónoma da Madeira** | **NUTS II Continente** |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Indicador | Unidade | Ano | PT | RAA | Região Autónoma da Madeira | Norte | Centro | Oeste e Vale do Tejo | Grande Lisboa | Península de Setúbal | Alentejo | Algarve |
+| **Indicador** | **Unidade** | **Ano** | Norte | Centro | Oeste e Vale do Tejo | Grande Lisboa | Península de Setúbal | Alentejo | Algarve |  |  |  |
 | PIB | € (milhões) | 2023 | 267 384 | 5 376 | 6 989 | 78 660 | 36 631 | 16 560 | 84 363 | 14 154 | 11 327 | 13 143 |
-| PIB | Tx. de variação | 2011/2023 | 51,6 % | 45,1 % | 57,7 % | 57,8 % | 48,4 % | 43,8 % | 48,1 % | 45,9 % | 42,5 % | 78,3 % |
-| PIB | PIB per capita (milhares €) | 2023 | 25,3 | 22,3 | 27,4 | 21,5 | 21,8 | 19,6 | 39,9 | 17,1 | 23,9 | 27,3 |
+| Tx. de variação | 2011/2023 | 51,6 % | 45,1 % | 57,7 % | 57,8 % | 48,4 % | 43,8 % | 48,1 % | 45,9 % | 42,5 % | 78,3 % |  |
+| PIB per capita (milhares €) | 2023 | 25,3 | 22,3 | 27,4 | 21,5 | 21,8 | 19,6 | 39,9 | 17,1 | 23,9 | 27,3 |  |
 | Estabelecimentos | N.º | 2023 | 1 571 274 | 33 385 | 35 820 | 520 037 | 229 248 | 110 372 | 371 103 | 103 641 | 68 927 | 98 741 |
-| Estabelecimentos | % | 2023 | 100,0 % | 2,1 % | 2,3 % | 33,1 % | 14,6 % | 7,0 % | 23,6 % | 6,6 % | 4,4 % | 6,3 % |
-| Estabelecimentos | Tmva<sup>1</sup> | 2011/2023 | 2,5 % | 1,9 % | 4,0 % | 2,7 % | 2,8 % | 1,6 % | 2,8 % | 2,7 % | 1,4 % | 4,0 % |
+| % | 2023 | 100,0 % | 2,1 % | 2,3 % | 33,1 % | 14,6 % | 7,0 % | 23,6 % | 6,6 % | 4,4 % | 6,3 % |  |
+| Tmva1 | 2011/2023 | 2,5 % | 1,9 % | 4,0 % | 2,7 % | 2,8 % | 1,6 % | 2,8 % | 2,7 % | 1,4 % | 4,0 % |  |
 | Pessoal ao serviço nos estabelecimentos | N.º | 2023 | 4 720 987 | 83 560 | 102 359 | 1 618 977 | 663 537 | 313 761 | 1 256 122 | 257 424 | 180 558 | 244 689 |
-| Pessoal ao serviço nos estabelecimentos | % | 2023 | 100,0 % | 1, 8% | 2,2 % | 34,3 % | 14,1 % | 6,6 % | 26,6 % | 5,5 % | 3,8 % | 5,2 % |
-| Pessoal ao serviço nos estabelecimentos | Tmva<sup>1</sup> | 2011/2023 | 2,3 % | 1,7 % | 2,7 % | 2,3 % | 2,6 % | 1,6 % | 2,5 % | 2,0 % | 2,3 % | 3,3 % |
+| % | 2023 | 100,0 % | 1, 8% | 2,2 % | 34,3 % | 14,1 % | 6,6 % | 26,6 % | 5,5 % | 3,8 % | 5,2 % |  |
+| Tmva1 | 2011/2023 | 2,3 % | 1,7 % | 2,7 % | 2,3 % | 2,6 % | 1,6 % | 2,5 % | 2,0 % | 2,3 % | 3,3 % |  |
 
-<sup>1</sup> Taxa média de variação anual.
+1 Taxa média de variação anual.
 
 Fonte: INE, Contas Nacionais Regionais e Sistema de Contas Integradas das Empresas.
 
@@ -614,40 +732,40 @@ A dinâmica do tecido empresarial (Quadro 8) nos municípios da Região revela a
 
 Quadro 8 - Grandes números da situação empresarial na Região Autónoma dos Açores
 
-| Âmbito geográfico | 2023 | 2011-2023 | 2023 | 2011-2023 | 2023 | 2023 |
+| **Âmbito geográfico** | **Estabelecimentos** | **Pessoal ao serviço nos estabelecimentos** | **Estabelecimentos/ 10 mil habitantes** | **Rendimento coletável****per capita** |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Âmbito geográfico | Estabelecimentos | Estabelecimentos | Pessoal ao serviço nos estabelecimentos | Pessoal ao serviço nos estabelecimentos | Estabelecimentos/ 10 mil habitantes | Rendimento coletável per capita |
-| Âmbito geográfico | N.º | Tx. média de variação anual | N.º | Tx. média de variação anual | N.º de estabelecimentos/ 10 mil habitantes | € |
-| Portugal | 1 571 274 | 2,5 % | 4 720 987 | 2,3 % | 1 477 | 8 094 |
-| Continente | 1 502 069 | 2,5 % | 4 535 068 | 2,3 % | 1 481 | 8 121 |
+| **N.º** | **Tx. média de variação anual** | **N.º** | **Tx. média de variação anual** | **N.º de estabelecimentos/ 10 mil habitantes** | **€** |  |
+| **2023** | **2011-2023** | **2023** | **2011-2023** | **2023** | **2023** |  |
+| **Portugal** | 1 571 274 | 2,5 % | 4 720 987 | 2,3 % | 1 477 | 8 094 |
+| **Continente** | 1 502 069 | 2,5 % | 4 535 068 | 2,3 % | 1 481 | 8 121 |
 | Região Autónoma dos Açores | 33 385 | 1,9 % | 83 560 | 1,7 % | 1 385 | 7 692 |
-| Santa Maria | Santa Maria | Santa Maria | Santa Maria | Santa Maria | Santa Maria | Santa Maria |
+| **Santa Maria** |  |  |  |  |  |  |
 | Vila do Porto | 873 | 2,5 % | 1 763 | 1,2 % | 1 587 | 10 281 |
-| São Miguel | São Miguel | São Miguel | São Miguel | São Miguel | São Miguel | São Miguel |
+| **São Miguel** |  |  |  |  |  |  |
 | Lagoa | 1 569 | 2,6 % | 3 977 | 3,9 % | 1 052 | 6 399 |
 | Nordeste | 499 | 1,1 % | 776 | 0,3 % | 1 125 | 4 974 |
 | Ponta Delgada | 9 466 | 2,2 % | 30 630 | 2,3 % | 1 377 | 9 612 |
 | Povoação | 555 | -0,2 % | 1 647 | 3,2 % | 946 | 4 791 |
 | Ribeira Grande | 3 199 | 2,2 % | 9 189 | 0,7 % | 991 | 5 469 |
 | Vila Franca do Campo | 1 199 | 1,4 % | 2 421 | 1,7 % | 1 153 | 5 004 |
-| Terceira | Terceira | Terceira | Terceira | Terceira | Terceira | Terceira |
+| **Terceira** |  |  |  |  |  |  |
 | Angra do Heroísmo | 5 063 | 1,7 % | 11 714 | 1,5 % | 1 499 | 8 416 |
 | Praia da Vitória | 2 735 | 1,7 % | 6 040 | 1,3 % | 1 386 | 7 510 |
-| Graciosa | Graciosa | Graciosa | Graciosa | Graciosa | Graciosa | Graciosa |
+| **Graciosa** |  |  |  |  |  |  |
 | Santa Cruz da Graciosa | 632 | 1,1 % | 1 098 | 0,5 % | 1 541 | 6 314 |
-| São Jorge | São Jorge | São Jorge | São Jorge | São Jorge | São Jorge | São Jorge |
+| **São Jorge** |  |  |  |  |  |  |
 | Calheta | 638 | 3,6 % | 1 162 | 2,1 % | 1 826 | 5 551 |
 | Velas | 875 | 2,4 % | 1 733 | 1,2 % | 1 767 | 6 657 |
-| Pico | Pico | Pico | Pico | Pico | Pico | Pico |
+| **Pico** |  |  |  |  |  |  |
 | Lajes do Pico | 797 | 1,2 % | 1 226 | 0,9 % | 1 810 | 6 196 |
 | Madalena | 1 240 | 2,3 % | 2 591 | 1,6 % | 1 898 | 6 830 |
 | São Roque do Pico | 634 | 2,5 % | 1 129 | 1,3 % | 1 859 | 7 305 |
-| Faial | Faial | Faial | Faial | Faial | Faial | Faial |
+| **Faial** |  |  |  |  |  |  |
 | Horta | 2 613 | 1,5 % | 5 213 | 1,5 % | 1 806 | 8 608 |
-| Flores | Flores | Flores | Flores | Flores | Flores | Flores |
+| **Flores** |  |  |  |  |  |  |
 | Lajes das Flores | 294 | 0,2 % | 429 | 1,3 % | 2 033 | 6 953 |
 | Santa Cruz das Flores | 403 | 1,1 % | 651 | -1,5 % | 1 921 | 7 646 |
-| Corvo | Corvo | Corvo | Corvo | Corvo | Corvo | Corvo |
+| **Corvo** |  |  |  |  |  |  |
 | Corvo | 101 | 1,2 % | 171 | 2,6 % | 2 322 | 9 009 |
 
 Fonte: INE, Estimativas anuais da população residente e Sistema de Contas Integradas das Empresas.
@@ -660,24 +778,25 @@ O perfil produtivo dos Açores apresenta uma tendência de especialização em a
 
 Gráfico 7 - Especialização produtiva dos Açores com base no VAB | 2011, 2023
 
-![](https://files.diariodarepublica.pt/images/1034985561/1034986785.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985561/1034986785.png) |
+| --- |
 
 Nota. - O gráfico apresenta Indicadores de Especialização. Se o indicador tem um valor do Quociente de Localização superior a 1, o território em análise é especializado no setor (peso do VAB no setor naquele território é mais elevado do que o peso do VAB daquele setor no total do VAB do país). A dimensão das bolhas corresponde ao peso do VAB da atividade no total do VAB em 2023. Serviços públicos incluem eletricidade, gás, vapor, água quente e fria e ar frio. Foi utilizada uma agregação de setores com relação entre si, com as seguintes correspondências:
 
-| Correspondência com a Classificação Portuguesa das Atividades Económicas (CAE) | Correspondência com a Classificação Portuguesa das Atividades Económicas (CAE) |
+| **Correspondência com****a****Classificação Portuguesa das Atividades Económicas (CAE)** |  |
 | --- | --- |
-| Primário | Agricultura, produção animal, caça, floresta e pesca; indústrias extrativas |
-| Indústrias transformadoras | Indústrias transformadoras |
-| Utilities/Serviços públicos | Eletricidade, gás, vapor, água quente e fria e ar frio |
-| Construção | Construção |
-| Comércio | Comércio por grosso e a retalho; reparação de veículos |
-| Transportes | Transportes e armazenagem |
-| Turismo | Alojamento, restauração e similares; atividades artísticas, de espetáculos, desportivas e recreativas |
-| Serviços administrativos e de suporte | Atividades de informação e de comunicação; atividades administrativas e dos serviços de apoio |
-| Imobiliário | Atividades imobiliárias |
-| Científicos e técnicos | Atividades de consultoria, científicas, técnicas e similares |
-| Administração Pública, educação e saúde | Educação; atividades de saúde humana e apoio social |
-| Outros serviços | Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição; outras atividades de serviços |
+| **Primário** | Agricultura, produção animal, caça, floresta e pesca; indústrias extrativas |
+| **Indústrias transformadoras** | Indústrias transformadoras |
+| **Utilities****/Serviços públicos** | Eletricidade, gás, vapor, água quente e fria e ar frio |
+| **Construção** | Construção |
+| **Comércio** | Comércio por grosso e a retalho; reparação de veículos |
+| **Transportes** | Transportes e armazenagem |
+| **Turismo** | Alojamento, restauração e similares; atividades artísticas, de espetáculos, desportivas e recreativas |
+| **Serviços administrativos****e****de suporte** | Atividades de informação e de comunicação; atividades administrativas e dos serviços de apoio |
+| **Imobiliário** | Atividades imobiliárias |
+| **Científicos****e****técnicos** | Atividades de consultoria, científicas, técnicas e similares |
+| **Administração Pública, educação****e****saúde** | Educação; atividades de saúde humana e apoio social |
+| **Outros serviços** | Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição; outras atividades de serviços |
 
 Fonte: INE, Sistema de Contas Integradas das Empresas.
 
@@ -689,7 +808,8 @@ Como é possível observar, o peso do turismo no VAB das empresas (Gráfico 8) t
 
 Gráfico 8 - Peso do turismo no VAB e evolução do número de dormidas (2018=100) | 2018-2023
 
-![](https://files.diariodarepublica.pt/images/1034985561/1034986786.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985561/1034986786.png) |
+| --- |
 
 Fonte: INE, Sistema de contas integradas das empresas; INE, Inquérito à permanência de hóspedes na hotelaria e outros alojamentos (nota: não inclui Alojamento Local com menos de 10 camas).
 
@@ -697,7 +817,8 @@ Entre 2018 e 2023, a taxa de crescimento médio da oferta de alojamento nacional
 
 Gráfico 9 - Capacidade de alojamento e dormidas nos estabelecimentos turísticos (PT=100) | 2018, 2024
 
-![](https://files.diariodarepublica.pt/images/1034985561/1034986787.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985561/1034986787.png) |
+| --- |
 
 Fonte: INE, Inquérito à permanência de hóspedes na hotelaria e outros alojamentos (nota: não inclui Alojamento Local com menos de 10 camas).
 
@@ -707,13 +828,14 @@ A crescente especialização das atividades turísticas impõe desafios ao desen
 
 Gráfico 10 - Proveitos totais nos estabelecimentos de alojamento turístico, por número de camas (€/n.º) | 2018-2024
 
-![](https://files.diariodarepublica.pt/images/1034985561/1034986788.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985561/1034986788.png) |
+| --- |
 
 Fonte: INE, Inquérito à permanência de hóspedes na hotelaria e outros alojamentos (nota: não inclui Alojamento Local com menos de 10 camas).
 
 A análise conjunta dos indicadores de natalidade e sobrevivência das empresas revela uma trajétória de resiliência e dinamismo.
 
-Os indicadores da demografia empresarial permitem, em parte, observar a dinâmica empresarial nos Açores, sendo por isso essencial para acompanhar o surgimento de novas empresas e a resiliência destas<sup>2</sup>.
+Os indicadores da demografia empresarial permitem, em parte, observar a dinâmica empresarial nos Açores, sendo por isso essencial para acompanhar o surgimento de novas empresas e a resiliência destas2.
 
 2 Os indicadores sobre a demografia das empresas [«taxa de natalidade das empresas (NUTS II)» e «taxa de sobrevivência das empresas nascidas dois anos antes (NUTS II)»] encontram-se, segundo as NUTS 2013, dada a ausência da série completa, no INE, destes indicadores para NUTS 2024.
 
@@ -723,7 +845,8 @@ A resiliência do tecido empresarial açoriano acompanha a tendência observada 
 
 Gráfico 11 - Taxa de natalidade das empresas (NUTS II) | 2011-2023
 
-![](https://files.diariodarepublica.pt/images/1034985561/1034986789.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985561/1034986789.png) |
+| --- |
 
 Nota. - A taxa de natalidade das empresas corresponde ao quociente entre o número de novas empresas num determinado período e o número de empresas existentes no período anterior.
 
@@ -731,7 +854,8 @@ Fonte: INE, Demografia das Empresas.
 
 Gráfico 12 - Taxa de sobrevivência de empresas nascidas dois anos antes (NUTS II) | 2011-2023
 
-![](https://files.diariodarepublica.pt/images/1034985561/1034986790.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985561/1034986790.png) |
+| --- |
 
 Fonte: INE, Demografia das Empresas.
 
@@ -743,11 +867,11 @@ O incremento dos níveis de introdução de fatores reais de inovação no tecid
 
 Quadro 9 - Indicadores de I&D e Inovação Empresarial | 2020-2023
 
-|  | Despesa em I&D no PIB (%) (2023) | Investigadores (ETI) em I&D na população ativa (‰) (2023) | Empresas com atividade de inovação com 10 e mais pessoas ao serviço (%) (2020-2022) | Empresas com financiamento público para a inovação com 10 e mais pessoas ao serviço (%) (2020-2022) |
+|  | **Despesa em I&****D****no PIB (%) (2023)** | **Investigadores (ETI) em I&****D****na população ativa (‰) (2023)** | **Empresas com atividade de inovação com 10****e****mais pessoas ao serviço (%) (2020-2022)** | **Empresas com financiamento público para****a****inovação com 10****e****mais pessoas ao serviço (%) (2020-2022)** |
 | --- | --- | --- | --- | --- |
-| Portugal | 1,7 % | 14,7 ‰ | 97,3 % | 9,2 % |
-| Continente | 1,8 % | 15,2 ‰ | 97,3 % | 9,2 % |
-| Região Autónoma dos Açores | 0,5 % | 4,1 ‰ | 97,1 % | 13,1 % |
+| **Portugal** | 1,7 % | 14,7 **‰** | 97,3 % | 9,2 % |
+| **Continente** | 1,8 % | 15,2 **‰** | 97,3 % | 9,2 % |
+| **Região Autónoma dos Açores** | 0,5 % | 4,1 ‰ | 97,1 % | 13,1 % |
 
 Fonte: INE, DGEEC, Potencial científico e tecnológico nacional (setor institucional e setor empresas).
 
@@ -759,36 +883,37 @@ A configuração do perfil produtivo dos Açores tem impacto direto na composiç
 
 Gráfico 13 - Pessoal ao serviço dos estabelecimentos por setor de atividade dos Açores | 2011, 2023
 
-![](https://files.diariodarepublica.pt/images/1034985561/1034986791.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985561/1034986791.png) |
+| --- |
 
 Fonte: INE, Sistema de Contas Integradas das Empresas.
 
 Nota. - Foi utilizada uma agregação de setores com relação entre si, com as seguintes correspondências:
 
-| Correspondência com CAE | Correspondência com CAE |
+| **Correspondência com CAE** |  |
 | --- | --- |
-| Primário | Agricultura, produção animal, caça, floresta e pesca; indústrias extrativas |
-| Indústrias transformadoras | Indústrias transformadoras |
-| Utilities/Serviços públicos | Eletricidade, gás, vapor, água quente e fria e ar frio |
-| Construção | Construção |
-| Comércio | Comércio por grosso e a retalho; reparação de veículos |
-| Transportes | Transportes e armazenagem |
-| Turismo | Alojamento, restauração e similares; atividades artísticas, de espetáculos, desportivas e recreativas |
-| Serviços administrativos e de suporte | Atividades de informação e de comunicação; atividades administrativas e dos serviços de apoio |
-| Imobiliário | Atividades imobiliárias |
-| Científicos e técnicos | Atividades de consultoria, científicas, técnicas e similares |
-| Administração Pública, educação e saúde | Educação; atividades de saúde humana e apoio social |
-| Outros serviços | Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição; outras atividades de serviços |
+| **Primário** | Agricultura, produção animal, caça, floresta e pesca; indústrias extrativas |
+| **Indústrias transformadoras** | Indústrias transformadoras |
+| **Utilities****/Serviços públicos** | Eletricidade, gás, vapor, água quente e fria e ar frio |
+| **Construção** | Construção |
+| **Comércio** | Comércio por grosso e a retalho; reparação de veículos |
+| **Transportes** | Transportes e armazenagem |
+| **Turismo** | Alojamento, restauração e similares; atividades artísticas, de espetáculos, desportivas e recreativas |
+| **Serviços administrativos****e****de suporte** | Atividades de informação e de comunicação; atividades administrativas e dos serviços de apoio |
+| **Imobiliário** | Atividades imobiliárias |
+| **Científicos****e****técnicos** | Atividades de consultoria, científicas, técnicas e similares |
+| **Administração Pública, educação****e****saúde** | Educação; atividades de saúde humana e apoio social |
+| **Outros serviços** | Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição; outras atividades de serviços |
 
-A análise das remunerações evidencia um aumento acumulado significativo dos valores nominais na generalidade dos setores económicos dos Açores (Quadro 10). Independentemente do impacto da inflação ocorrida em 2024 (que se fixou nos cerca de 2,0 % nos Açores), a variação do rendimento continua a ser positiva em termos reais na grande maioria das atividades <sup>3</sup>.
+A análise das remunerações evidencia um aumento acumulado significativo dos valores nominais na generalidade dos setores económicos dos Açores (Quadro 10). Independentemente do impacto da inflação ocorrida em 2024 (que se fixou nos cerca de 2,0 % nos Açores), a variação do rendimento continua a ser positiva em termos reais na grande maioria das atividades 3.
 
 3 Por questões de comparabilidade com o RMMG, foi tido em conta o indicador da remuneração bruta base, correspondente apenas ao vencimento base, sem ter em conta outras componentes remuneratórias regulares (como subsídios, diuturnidades ou prémios de antiguidade) ou ainda as componentes devidas pelo trabalho extraordinário ou suplementar.
 
 Quadro 10 - Remuneração bruta base mensal média por setor de atividade, nos Açores, em dezembro de 2024
 
-| Setor de atividade | Remuneração bruta base mensal média dez/2024 (valor €) | Variação dez/2023 – dez/2024 (%) |
+| **Setor de atividade** | **Remuneração bruta base mensal média dez/2024 (valor €)** | **Variação dez/2023 – dez/2024 (%)** |
 | --- | --- | --- |
-| Total | 1 165 | 7,0 |
+| **Total** | **1 165** | **7,0** |
 | Agricultura, produção animal, caça, floresta e pesca | 775 | 8,3 |
 | Indústrias extrativas | 1 014 | -0,8 |
 | Indústrias transformadoras | 1 023 | 7,1 |
@@ -815,20 +940,20 @@ O ritmo de crescimento do salário mínimo, correspondente à retribuição mín
 
 Quadro 11 - Evolução da remuneração bruta base mensal média e RMMG, nos Açores
 
-| Ano | RMMG RAA (valor €) | Variação homóloga (%) | Remuneração bruta base mensal média (valor €) | Variação homóloga (%) | Taxa de inflação RAA (%) |
+| **Ano** | **RMMG RAA (valor €)** | **Variação homóloga (%)** | **Remuneração bruta base mensal média (valor €)** | **Variação homóloga (%)** | **Taxa de inflação RAA (%)** |
 | --- | --- | --- | --- | --- | --- |
-| Dez/2024 | 861,00 | 7,9 | 1 165 | 7,0 | 2,03 |
-| Dez/2023 | 798,00 | 7,8 | 1 089 | 7,2 | 4,85 |
-| Dez/2022 | 740,25 | 6,0 | 1 015 | 4,5 | 5,00 |
-| Dez/2021 | 698,25 | 4,7 | 971 | 1,9 | 0,92 |
-| Dez/2020 | 666,75 | 5,8 | 953 | 3,3 | 0,12 |
-| Dez/2019 | 630,00 | 3,4 | 923 | 2,9 | 0,47 |
+| **Dez/2024** | 861,00 | 7,9 | 1 165 | 7,0 | 2,03 |
+| **Dez/2023** | 798,00 | 7,8 | 1 089 | 7,2 | 4,85 |
+| **Dez/2022** | 740,25 | 6,0 | 1 015 | 4,5 | 5,00 |
+| **Dez/2021** | 698,25 | 4,7 | 971 | 1,9 | 0,92 |
+| **Dez/2020** | 666,75 | 5,8 | 953 | 3,3 | 0,12 |
+| **Dez/2019** | 630,00 | 3,4 | 923 | 2,9 | 0,47 |
 
 Fonte: SREA; DL n.º 117/2018, de 27 de dezembro, DL n.º 167/2019, de 21 de novembro, DL n.º 109-A/2020, de 31 de dezembro, DL n.º 109-B/2021, de 7 de dezembro, DL n.º 85-A/2022, de 22 de dezembro, DLR n.º 8/2002/A, de 10 de abril, e DLR n.º 37/2023/A, de 20 de outubro.
 
 Apesar das dificuldades na internacionalização, a dinâmica de exportações de bens demonstra sinais de recuperação, embora o saldo comercial continue negativo, refletindo limitações estruturais.
 
-A monitorização dos indicadores associados ao comércio externo assume particular relevância na avaliação da capacidade de inserção da economia regional nos mercados internacionais. Faz-se notar, neste contexto, que a economia regional ainda dispõe de um amplo espaço para avançar no domínio das exportações e do seu posicionamento internacional. Apesar de uma variação positiva em 2024 face ao ano anterior, 2023 (+6,1 %), observou-se uma variação de -8,5 % no valor das saídas de bens para o estrangeiro face a 2022 <sup>4</sup>, valor excecional tendo em conta o crescimento verificado nos anos anteriores.
+A monitorização dos indicadores associados ao comércio externo assume particular relevância na avaliação da capacidade de inserção da economia regional nos mercados internacionais. Faz-se notar, neste contexto, que a economia regional ainda dispõe de um amplo espaço para avançar no domínio das exportações e do seu posicionamento internacional. Apesar de uma variação positiva em 2024 face ao ano anterior, 2023 (+6,1 %), observou-se uma variação de -8,5 % no valor das saídas de bens para o estrangeiro face a 2022 4, valor excecional tendo em conta o crescimento verificado nos anos anteriores.
 
 4 A redução no valor das exportações ocorrida entre 2022 e 2023 não decorre de nenhuma alteração significativa na atividade económica da Região, ficando a dever-se apenas aos movimentos de fornecimento de combustíveis à navegação marítima e aérea, que apresentam, de forma recorrente, um comportamento aleatório.
 
@@ -836,9 +961,10 @@ Entre 2023 e 2024, a entrada de bens do estrangeiro aumentou em 16,2 %, valor in
 
 Assinala-se também a recuperação da intensidade exportadora da Região com as exportações de bens a representarem 2,8 % do PIB açoriano em 2023, acima do registado em 2011 (1,4 %). Ainda assim, as dificuldades estruturais da Região no que respeita à internacionalização do seu tecido produtivo persistem, em parte destacadas pela forte resistência à subida deste indicador ao longo da última década.
 
-Gráfico 14 - Importações de bens (2011=100) (NUTS II) | 2011-2024 <sup>5</sup>
+Gráfico 14 - Importações de bens (2011=100) (NUTS II) | 2011-2024 5
 
-![](https://files.diariodarepublica.pt/images/1034985561/1034986792.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985561/1034986792.png) |
+| --- |
 
 Fonte: INE, Estatísticas do comércio internacional de bens.
 
@@ -846,7 +972,8 @@ Fonte: INE, Estatísticas do comércio internacional de bens.
 
 Gráfico 15 - Exportações de bens (2011=100) (NUTS II) | 2011-2024
 
-![](https://files.diariodarepublica.pt/images/1034985561/1034986793.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985561/1034986793.png) |
+| --- |
 
 Fonte: INE, Estatísticas do comércio internacional de bens.
 
@@ -874,9 +1001,9 @@ Projeta-se que a inflação, medida pelo Índice Harmonizado de Preços do Consu
 
 Quadro 12 - Principais indicadores para a economia portuguesa
 
-| Indicador | Unidade | Território | 2024 | 2025p | 2026p | 2027p |
+| **Indicador** | **2024** | **2025****p** | **2026****p** | **2027****p** |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Indicador | Indicador | Indicador | 2024 | 2025p | 2026p | 2027p |
+| **Indicador** | **Unidade** | **Território** |  |  |  |  |
 | PIB | Tx. de variação real | PT Área do euro | 2,1 0,8 | 2,0 0,9 | 2,3 1,1 | 1,71,3 |
 | Consumo privado | Tx. de variação | PT Área do euro | 3,01,0 | 3,41,2 | 2,71,2 | 2,01,2 |
 | Consumo público | Tx. de variação | PT Área do euro | 1,52,6 | 1,51,6 | 1,21,2 | 1,01,2 |
@@ -918,10 +1045,10 @@ Apesar da revisão positiva das previsões, os riscos permanecem assimétricos e
 
 Quadro 13 - Principais indicadores de variação para a economia mundial
 
-| Indicador (tx. variação %) | 2023 | 2024 | 2025 p | 2026 p |
+| **Indicador** | **2023** | **2024** | **2025****p** | **2026****p** |
 | --- | --- | --- | --- | --- |
-| Indicador | 2023 | 2024 | 2025 p | 2026 p |
-| PIB | PIB | PIB | PIB | PIB |
+| **Indicador (tx. variação %)** |  |  |  |  |
+| PIB |  |  |  |  |
 | Economia mundial | 3,5 | 3,3 | 3,0 | 3,1 |
 | Economias avançadas | 1,8 | 1,8 | 1,5 | 1,6 |
 | EUA | 2,9 | 2,8 | 1,9 | 2,0 |
@@ -934,10 +1061,10 @@ Quadro 13 - Principais indicadores de variação para a economia mundial
 | Índia | 9,2 | 6,5 | 6,4 | 6,4 |
 | Brasil | 3,2 | 3,4 | 2,3 | 2,1 |
 | Comércio mundial de bens e serviços | 1,0 | 3,5 | 2,6 | 1,9 |
-| Preços no consumidor | Preços no consumidor | Preços no consumidor | Preços no consumidor | Preços no consumidor |
+| Preços no consumidor |  |  |  |  |
 | Economias avançadas | 4,6 | 2,6 | 2,5 | 2,1 |
 | Economias emergentes e em desenvolvimento | 8,0 | 7,7 | 5,4 | 4,5 |
-| Preços de matérias-primas | Preços de matérias-primas | Preços de matérias-primas | Preços de matérias-primas | Preços de matérias-primas |
+| Preços de matérias-primas |  |  |  |  |
 | Petróleo (brent) | -16,4 | -1,8 | -13,9 | -5,7 |
 | Matérias-primas não energéticas | -5,7 | 3,7 | 7,9 | 2,0 |
 
@@ -953,7 +1080,8 @@ Neste âmbito, destaca-se o máximo empenho na execução integral do PRR, cujo 
 
 Num momento em que começa já a ganhar forma o novo ciclo de programação europeu (2028-2034), a Região pugnará por um envolvimento ativo na salvaguarda dos instrumentos que considerem as singularidades das regiões ultraperiféricas e dos Açores, em particular.
 
-![](https://files.diariodarepublica.pt/images/1034985561/1034986794.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985561/1034986794.png) |
+| --- |
 
 Pelo respetivo impacto no desenvolvimento regional e pela aproximação do prazo de elegibilidade, assume particular relevância e premência no Plano Regional Anual de 2025 a execução dos 19 investimentos do PRR a realizar na RAA, aos quais está associado um envelope financeiro superior a 725 milhões de euros.
 
@@ -963,49 +1091,49 @@ A 30 de setembro de 2025, os fluxos financeiros dos investimentos do PRR-Açores
 
 Quadro 14 - Fluxos financeiros dos investimentos do PRR-Açores
 
-| Adiantamento | Pagamento | Pagamento | Adiantamento | Pagamento | Pagamento | Valor | % |
+| 2021 | 2022 | 2023 | 2024 | 2025 | Total |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021 | 2022 | 2023 | 2024 | 2024 | 2025 | Total | Total |
-| Hospital Digital da Região Autónoma dos Açores (Dotação 30 000 000€) | Hospital Digital da Região Autónoma dos Açores (Dotação 30 000 000€) | Hospital Digital da Região Autónoma dos Açores (Dotação 30 000 000€) | Hospital Digital da Região Autónoma dos Açores (Dotação 30 000 000€) | Hospital Digital da Região Autónoma dos Açores (Dotação 30 000 000€) | Hospital Digital da Região Autónoma dos Açores (Dotação 30 000 000€) | Hospital Digital da Região Autónoma dos Açores (Dotação 30 000 000€) | Hospital Digital da Região Autónoma dos Açores (Dotação 30 000 000€) |
+| Adiantamento | Pagamento | Pagamento | Adiantamento | Pagamento | Pagamento | Valor | % |
+| **Hospital Digital da Região Autónoma dos Açores (Dotação 30 000 000€)** |  |  |  |  |  |  |  |
 | 3 900 000 € | 2 363 737 € | 4 413 115 € | 2 100 000 € | 1 605 440€ | 3 454 138€ | 17 836 430€ | 59,45% |
-| Modernização e requalificação do SRS (Dotação 35 844 518 €) | Modernização e requalificação do SRS (Dotação 35 844 518 €) | Modernização e requalificação do SRS (Dotação 35 844 518 €) | Modernização e requalificação do SRS (Dotação 35 844 518 €) | Modernização e requalificação do SRS (Dotação 35 844 518 €) | Modernização e requalificação do SRS (Dotação 35 844 518 €) | Modernização e requalificação do SRS (Dotação 35 844 518 €) | Modernização e requalificação do SRS (Dotação 35 844 518 €) |
+| **Modernização****e****requalificação do SRS (Dotação 35 844 518 €)** |  |  |  |  |  |  |  |
 | - | - | - | - | - | - | - | - |
-| Aumentar as condições habitacionais do parque habitacional da Região Autónoma dos Açores (Dotação 32 933 366 €) | Aumentar as condições habitacionais do parque habitacional da Região Autónoma dos Açores (Dotação 32 933 366 €) | Aumentar as condições habitacionais do parque habitacional da Região Autónoma dos Açores (Dotação 32 933 366 €) | Aumentar as condições habitacionais do parque habitacional da Região Autónoma dos Açores (Dotação 32 933 366 €) | Aumentar as condições habitacionais do parque habitacional da Região Autónoma dos Açores (Dotação 32 933 366 €) | Aumentar as condições habitacionais do parque habitacional da Região Autónoma dos Açores (Dotação 32 933 366 €) | Aumentar as condições habitacionais do parque habitacional da Região Autónoma dos Açores (Dotação 32 933 366 €) | Aumentar as condições habitacionais do parque habitacional da Região Autónoma dos Açores (Dotação 32 933 366 €) |
+| **Aumentar as condições habitacionais do parque habitacional da Região Autónoma dos Açores (Dotação 32 933 366 €)** |  |  |  |  |  |  |  |
 | 7 800 000 € | 3 411 631 € | 1 344 023 € | 943 785 € | 1 686 160 € | 2 978 338 € | 18 163 937 € | 55,15% |
-| Infraestruturas para parcelas de terreno destinadas à habitação (Dotação 4 300 000 €) | Infraestruturas para parcelas de terreno destinadas à habitação (Dotação 4 300 000 €) | Infraestruturas para parcelas de terreno destinadas à habitação (Dotação 4 300 000 €) | Infraestruturas para parcelas de terreno destinadas à habitação (Dotação 4 300 000 €) | Infraestruturas para parcelas de terreno destinadas à habitação (Dotação 4 300 000 €) | Infraestruturas para parcelas de terreno destinadas à habitação (Dotação 4 300 000 €) | Infraestruturas para parcelas de terreno destinadas à habitação (Dotação 4 300 000 €) | Infraestruturas para parcelas de terreno destinadas à habitação (Dotação 4 300 000 €) |
+| **Infraestruturas para parcelas de terreno destinadas****à****habitação (Dotação 4 300 000 €)** |  |  |  |  |  |  |  |
 | - | - | - | 860 000 € | - | 360 000€ | 1 220 000 € | 28,37% |
-| Reforço do parque habitacional social (Dotação 13 149 545 €) | Reforço do parque habitacional social (Dotação 13 149 545 €) | Reforço do parque habitacional social (Dotação 13 149 545 €) | Reforço do parque habitacional social (Dotação 13 149 545 €) | Reforço do parque habitacional social (Dotação 13 149 545 €) | Reforço do parque habitacional social (Dotação 13 149 545 €) | Reforço do parque habitacional social (Dotação 13 149 545 €) | Reforço do parque habitacional social (Dotação 13 149 545 €) |
+| **Reforço do parque habitacional social (Dotação 13 149 545 €)** |  |  |  |  |  |  |  |
 | - | - | - | 3 896 215 € | - | 1 400 815 € | 5 297 030 € | 40,28% |
-| Implementar a Estratégia Regional de Combate à Pobreza e Exclusão Social - Redes de Apoio Social (Dotação 36 183 162 €) | Implementar a Estratégia Regional de Combate à Pobreza e Exclusão Social - Redes de Apoio Social (Dotação 36 183 162 €) | Implementar a Estratégia Regional de Combate à Pobreza e Exclusão Social - Redes de Apoio Social (Dotação 36 183 162 €) | Implementar a Estratégia Regional de Combate à Pobreza e Exclusão Social - Redes de Apoio Social (Dotação 36 183 162 €) | Implementar a Estratégia Regional de Combate à Pobreza e Exclusão Social - Redes de Apoio Social (Dotação 36 183 162 €) | Implementar a Estratégia Regional de Combate à Pobreza e Exclusão Social - Redes de Apoio Social (Dotação 36 183 162 €) | Implementar a Estratégia Regional de Combate à Pobreza e Exclusão Social - Redes de Apoio Social (Dotação 36 183 162 €) | Implementar a Estratégia Regional de Combate à Pobreza e Exclusão Social - Redes de Apoio Social (Dotação 36 183 162 €) |
+| **Implementar****a****Estratégia Regional de Combate****à****Pobreza****e****Exclusão Social - Redes de Apoio Social (Dotação 36 183 162 €)** |  |  |  |  |  |  |  |
 | 4 550 000 € | 332 394 € | 3 615 934 € | 5 374 987 € | 4 287 848 € | 6 453 504 € | 24 614 667 € | 68,03% |
-| Modernização e expansão da rede de estruturas residenciais para pessoas idosas (ERPI) (Dotação 12 200 000 €) | Modernização e expansão da rede de estruturas residenciais para pessoas idosas (ERPI) (Dotação 12 200 000 €) | Modernização e expansão da rede de estruturas residenciais para pessoas idosas (ERPI) (Dotação 12 200 000 €) | Modernização e expansão da rede de estruturas residenciais para pessoas idosas (ERPI) (Dotação 12 200 000 €) | Modernização e expansão da rede de estruturas residenciais para pessoas idosas (ERPI) (Dotação 12 200 000 €) | Modernização e expansão da rede de estruturas residenciais para pessoas idosas (ERPI) (Dotação 12 200 000 €) | Modernização e expansão da rede de estruturas residenciais para pessoas idosas (ERPI) (Dotação 12 200 000 €) | Modernização e expansão da rede de estruturas residenciais para pessoas idosas (ERPI) (Dotação 12 200 000 €) |
+| **Modernização****e****expansão da rede de estruturas residenciais para pessoas idosas (ERPI) (Dotação 12 200 000 €)** |  |  |  |  |  |  |  |
 | - | - | - | 2 800 000 € | 229 118 € | - | 3 029 118 € | 24,83% |
-| Recapitalizar sistema empresarial dos Açores (Dotação 95 000 000 €) | Recapitalizar sistema empresarial dos Açores (Dotação 95 000 000 €) | Recapitalizar sistema empresarial dos Açores (Dotação 95 000 000 €) | Recapitalizar sistema empresarial dos Açores (Dotação 95 000 000 €) | Recapitalizar sistema empresarial dos Açores (Dotação 95 000 000 €) | Recapitalizar sistema empresarial dos Açores (Dotação 95 000 000 €) | Recapitalizar sistema empresarial dos Açores (Dotação 95 000 000 €) | Recapitalizar sistema empresarial dos Açores (Dotação 95 000 000 €) |
+| **Recapitalizar sistema empresarial dos Açores (Dotação 95 000 000 €)** |  |  |  |  |  |  |  |
 | 16 250 000 € | - | 14 137 500 € | - | - | - | 30 387 500 € | 31,99% |
-| Fundo de capitais para recapitalizar o sistema empresarial dos Açores (Dotação 30 000 000€) | Fundo de capitais para recapitalizar o sistema empresarial dos Açores (Dotação 30 000 000€) | Fundo de capitais para recapitalizar o sistema empresarial dos Açores (Dotação 30 000 000€) | Fundo de capitais para recapitalizar o sistema empresarial dos Açores (Dotação 30 000 000€) | Fundo de capitais para recapitalizar o sistema empresarial dos Açores (Dotação 30 000 000€) | Fundo de capitais para recapitalizar o sistema empresarial dos Açores (Dotação 30 000 000€) | Fundo de capitais para recapitalizar o sistema empresarial dos Açores (Dotação 30 000 000€) | Fundo de capitais para recapitalizar o sistema empresarial dos Açores (Dotação 30 000 000€) |
+| **Fundo de capitais para recapitalizar****o****sistema empresarial dos Açores (Dotação 30 000 000€)** |  |  |  |  |  |  |  |
 | - | - | - | - | - | - | - | - |
-| Relançamento económico da agricultura açoriana (Dotação 33 855 124 €) | Relançamento económico da agricultura açoriana (Dotação 33 855 124 €) | Relançamento económico da agricultura açoriana (Dotação 33 855 124 €) | Relançamento económico da agricultura açoriana (Dotação 33 855 124 €) | Relançamento económico da agricultura açoriana (Dotação 33 855 124 €) | Relançamento económico da agricultura açoriana (Dotação 33 855 124 €) | Relançamento económico da agricultura açoriana (Dotação 33 855 124 €) | Relançamento económico da agricultura açoriana (Dotação 33 855 124 €) |
+| **Relançamento económico da agricultura açoriana (Dotação 33 855 124 €)** |  |  |  |  |  |  |  |
 | 3 900 000 € | 114 705 € | 479 718 € | 3 989 000 € | 1 893 049 € | 2 625 208 € | 13 001 680 € | 38,40% |
-| Qualificação de adultos e aprendizagem ao longo da vida (Dotação 21 521 732 €) | Qualificação de adultos e aprendizagem ao longo da vida (Dotação 21 521 732 €) | Qualificação de adultos e aprendizagem ao longo da vida (Dotação 21 521 732 €) | Qualificação de adultos e aprendizagem ao longo da vida (Dotação 21 521 732 €) | Qualificação de adultos e aprendizagem ao longo da vida (Dotação 21 521 732 €) | Qualificação de adultos e aprendizagem ao longo da vida (Dotação 21 521 732 €) | Qualificação de adultos e aprendizagem ao longo da vida (Dotação 21 521 732 €) | Qualificação de adultos e aprendizagem ao longo da vida (Dotação 21 521 732 €) |
+| **Qualificação de adultos****e****aprendizagem ao longo da vida (Dotação 21 521 732 €)** |  |  |  |  |  |  |  |
 | 3 770 000 € | - | - | 2 030 000 € | 1 311 245 € | 3 809 635 € | 10 920 880 € | 50,74% |
-| Circuitos logísticos - Rede Viária Regional dos Açores (Dotação 92 490 981 €) | Circuitos logísticos - Rede Viária Regional dos Açores (Dotação 92 490 981 €) | Circuitos logísticos - Rede Viária Regional dos Açores (Dotação 92 490 981 €) | Circuitos logísticos - Rede Viária Regional dos Açores (Dotação 92 490 981 €) | Circuitos logísticos - Rede Viária Regional dos Açores (Dotação 92 490 981 €) | Circuitos logísticos - Rede Viária Regional dos Açores (Dotação 92 490 981 €) | Circuitos logísticos - Rede Viária Regional dos Açores (Dotação 92 490 981 €) | Circuitos logísticos - Rede Viária Regional dos Açores (Dotação 92 490 981 €) |
+| **Circuitos logísticos - Rede Viária Regional dos Açores (Dotação 92 490 981 €)** |  |  |  |  |  |  |  |
 | 7 800 000 € | 1 216 219 € | 4 408 564 € | 15 322 745 € | 9 081 471 € | 9 870 638 € | 47 699 637 € | 51,57% |
-| Desenvolvimento do “Cluster do Mar dos Açores” (Dotação 51 700 000 €) | Desenvolvimento do “Cluster do Mar dos Açores” (Dotação 51 700 000 €) | Desenvolvimento do “Cluster do Mar dos Açores” (Dotação 51 700 000 €) | Desenvolvimento do “Cluster do Mar dos Açores” (Dotação 51 700 000 €) | Desenvolvimento do “Cluster do Mar dos Açores” (Dotação 51 700 000 €) | Desenvolvimento do “Cluster do Mar dos Açores” (Dotação 51 700 000 €) | Desenvolvimento do “Cluster do Mar dos Açores” (Dotação 51 700 000 €) | Desenvolvimento do “Cluster do Mar dos Açores” (Dotação 51 700 000 €) |
+| **Desenvolvimento do “****Cluster****do Mar dos Açores” (Dotação 51 700 000 €)** |  |  |  |  |  |  |  |
 | 4 160 000 € | 1 164 182 € | 3 447 758 € | 7 865 000 € | 10 939 669 € | 4 965 373 € | 32 541 982 € | 62,94% |
-| Transição energética, digitalização e redução do impacto ambiental no setor das pescas e da aquicultura (Dotação 5 000 000 €) | Transição energética, digitalização e redução do impacto ambiental no setor das pescas e da aquicultura (Dotação 5 000 000 €) | Transição energética, digitalização e redução do impacto ambiental no setor das pescas e da aquicultura (Dotação 5 000 000 €) | Transição energética, digitalização e redução do impacto ambiental no setor das pescas e da aquicultura (Dotação 5 000 000 €) | Transição energética, digitalização e redução do impacto ambiental no setor das pescas e da aquicultura (Dotação 5 000 000 €) | Transição energética, digitalização e redução do impacto ambiental no setor das pescas e da aquicultura (Dotação 5 000 000 €) | Transição energética, digitalização e redução do impacto ambiental no setor das pescas e da aquicultura (Dotação 5 000 000 €) | Transição energética, digitalização e redução do impacto ambiental no setor das pescas e da aquicultura (Dotação 5 000 000 €) |
+| **Transição energética, digitalização****e****redução do impacto ambiental no setor das pescas****e****da aquicultura (Dotação 5 000 000 €)** |  |  |  |  |  |  |  |
 | - | - | - | 650 000 € | - | - | 650 000 € | 13,00% |
-| Transição energética nos Açores (Dotação 134 500 000 €) | Transição energética nos Açores (Dotação 134 500 000 €) | Transição energética nos Açores (Dotação 134 500 000 €) | Transição energética nos Açores (Dotação 134 500 000 €) | Transição energética nos Açores (Dotação 134 500 000 €) | Transição energética nos Açores (Dotação 134 500 000 €) | Transição energética nos Açores (Dotação 134 500 000 €) | Transição energética nos Açores (Dotação 134 500 000 €) |
+| **Transição energética nos Açores (Dotação 134 500 000 €)** |  |  |  |  |  |  |  |
 | 15 080 000 € | - | 12 269 406 € | 11 600 000 € | 9 652 891 € | 4 353 661 € | 52 955 958 € | 39,37% |
-| Capacitação digital e transformação das empresas (Dotação 22 000 000 €) | Capacitação digital e transformação das empresas (Dotação 22 000 000 €) | Capacitação digital e transformação das empresas (Dotação 22 000 000 €) | Capacitação digital e transformação das empresas (Dotação 22 000 000 €) | Capacitação digital e transformação das empresas (Dotação 22 000 000 €) | Capacitação digital e transformação das empresas (Dotação 22 000 000 €) | Capacitação digital e transformação das empresas (Dotação 22 000 000 €) | Capacitação digital e transformação das empresas (Dotação 22 000 000 €) |
+| **Capacitação digital****e****transformação das empresas (Dotação 22 000 000 €)** |  |  |  |  |  |  |  |
 | - | - | - | 8 800 000 € | - | 1 636 256 € | 10 436 256 € | 47,44% |
-| Modernização e digitalização da Administração Pública (Dotação 30 600 000 €) | Modernização e digitalização da Administração Pública (Dotação 30 600 000 €) | Modernização e digitalização da Administração Pública (Dotação 30 600 000 €) | Modernização e digitalização da Administração Pública (Dotação 30 600 000 €) | Modernização e digitalização da Administração Pública (Dotação 30 600 000 €) | Modernização e digitalização da Administração Pública (Dotação 30 600 000 €) | Modernização e digitalização da Administração Pública (Dotação 30 600 000 €) | Modernização e digitalização da Administração Pública (Dotação 30 600 000 €) |
+| **Modernização****e****digitalização da Administração Pública (Dotação 30 600 000 €)** |  |  |  |  |  |  |  |
 | 3 250 000 € | 1 264 088 € | 1 816 569 € | 2 870 000 € | 3 604 772 € | 3 868 609 € | 16 674 038 € | 54,49% |
-| Educação digital (Dotação 37 812 500 €) | Educação digital (Dotação 37 812 500 €) | Educação digital (Dotação 37 812 500 €) | Educação digital (Dotação 37 812 500 €) | Educação digital (Dotação 37 812 500 €) | Educação digital (Dotação 37 812 500 €) | Educação digital (Dotação 37 812 500 €) | Educação digital (Dotação 37 812 500 €) |
+| **Educação digital (Dotação 37 812 500 €)** |  |  |  |  |  |  |  |
 | 4 940 000 € | 4 666 211 € | 4 973 006 € | 5 860 000 € | 814 023 € | 5 844 914 € | 27 098 154 € | 71,66% |
-| Sistema de incentivos à aquisição e instalação de sistemas de armazenamento de energias renováveis nos Açores (Dotação 6 000 000 €) | Sistema de incentivos à aquisição e instalação de sistemas de armazenamento de energias renováveis nos Açores (Dotação 6 000 000 €) | Sistema de incentivos à aquisição e instalação de sistemas de armazenamento de energias renováveis nos Açores (Dotação 6 000 000 €) | Sistema de incentivos à aquisição e instalação de sistemas de armazenamento de energias renováveis nos Açores (Dotação 6 000 000 €) | Sistema de incentivos à aquisição e instalação de sistemas de armazenamento de energias renováveis nos Açores (Dotação 6 000 000 €) | Sistema de incentivos à aquisição e instalação de sistemas de armazenamento de energias renováveis nos Açores (Dotação 6 000 000 €) | Sistema de incentivos à aquisição e instalação de sistemas de armazenamento de energias renováveis nos Açores (Dotação 6 000 000 €) | Sistema de incentivos à aquisição e instalação de sistemas de armazenamento de energias renováveis nos Açores (Dotação 6 000 000 €) |
+| **Sistema de incentivos****à****aquisição****e****instalação de sistemas de armazenamento de energias renováveis nos Açores (Dotação 6 000 000 €)** |  |  |  |  |  |  |  |
 | - | - | - | 780 000 € | 296 423 € | 1 378 017 € | 2 454 440 € | 40,91% |
-| Totais (Dotação 725 090 928 €) | Totais (Dotação 725 090 928 €) | Totais (Dotação 725 090 928 €) | Totais (Dotação 725 090 928 €) | Totais (Dotação 725 090 928 €) | Totais (Dotação 725 090 928 €) | Totais (Dotação 725 090 928 €) | Totais (Dotação 725 090 928 €) |
-| 75 400 000 € | 14 533 167 € | 50 905 592 € | 75 741 732 € | 45 402 109 € | 52 999 106 € | 314 981 706 € | 43,44% |
+| **Totais (Dotação 725 090 928 €)** |  |  |  |  |  |  |  |
+| **75 400 000 €** | **14 533 167 €** | **50 905 592 €** | **75 741 732 €** | **45 402 109 €** | **52 999 106 €** | **314 981 706 €** | **43,44%** |
 
 Notas:
 
@@ -1019,7 +1147,7 @@ A execução material destes mesmos investimentos, medida pelo cumprimento dos m
 
 Quadro 15 - Execução material dos investimentos do PRR-Açores
 
-| Investimento | Metas Grupo contratualizadas | Completo | Dentro do prazo | Não completo | Atrasado |
+| **Investimento** | **Metas Grupo contratualizadas** | **Completo** | **Dentro do prazo** | **Não completo** | **Atrasado** |
 | --- | --- | --- | --- | --- | --- |
 | Hospital Digital da Região Autónoma dos Açores | 2 | 1 | 1 | - | - |
 | Modernização e requalificação do SRS | 1 | - | 1 | - | - |
@@ -1033,42 +1161,42 @@ Quadro 15 - Execução material dos investimentos do PRR-Açores
 | Relançamento económico da agricultura açoriana | 5 | 3 | 1 | - | 1 |
 | Qualificação de adultos e aprendizagem ao longo da vida | 2 | - | 2 | - | - |
 | Circuitos logísticos - Rede Viária Regional dos Açores | 3 | 2 | - | - | 1 |
-| Desenvolvimento do «Cluster do Mar dos Açores» | 4 | 1 | 3 | - | - |
+| Desenvolvimento do «**Cluster** do Mar dos Açores» | 4 | 1 | 3 | - | - |
 | Transição energética, digitalização e redução do impacto ambiental no setor das pescas e da aquicultura | 1 | - | 1 | - | - |
 | Transição energética nos Açores | 3 | 1 | 2 | - | - |
 | Capacitação digital e transformação das empresas | 2 | - | 2 | - | - |
 | Modernização e digitalização da Administração Pública | 1 | - | 1 | - | - |
 | Educação digital | 4 | 1 | 3 | - | - |
 | Sistema de incentivos à aquisição e instalação de sistemas de armazenamento de energias renováveis nos Açores | 1 | - | 1 | - | - |
-| Total | 47 | 17 | 22 | - | 8 |
+| **Total** | **47** | **17** | **22** | - | **8** |
 
 Os principais resultados alcançados são detalhados na tabela seguinte.
 
 Quadro 16 - Resultados dos investimentos do PRR-Açores
 
-| Investimento | Resultados |
+| Investimento | **Resultados** |
 | --- | --- |
 | Hospital Digital da Região Autónoma dos Açores | 4 322 equipamentos informáticos |
-| Hospital Digital da Região Autónoma dos Açores | 395 equipamentos médico-hospitalares |
-| Hospital Digital da Região Autónoma dos Açores | Modernização das bases de dados dos sistemas clínicos dos hospitais |
-| Hospital Digital da Região Autónoma dos Açores | 186 novos acessos ao MUSA - Portal e App do Utente que se encontra em fase de desenvolvimento e testes. Lançada a versão beta do portal |
-| Hospital Digital da Região Autónoma dos Açores | Software Clinidata em implementação em todos os laboratórios da Região |
-| Hospital Digital da Região Autónoma dos Açores | Desmaterialização de sete valências de meios complementares de diagnóstico e terapêutica |
-| Hospital Digital da Região Autónoma dos Açores | Sistema Computorizado de Gestão da Manutenção de Instalações e Equipamentos |
-| Hospital Digital da Região Autónoma dos Açores | Entrada em produção da plataforma MedEvac |
-| Hospital Digital da Região Autónoma dos Açores | Upgrade do sistema MedicineOne |
-| Hospital Digital da Região Autónoma dos Açores | Sistema Integrado de Referenciação e Gestão de Acesso à Primeira Consulta de Especialidade Hospitalar implementado em todas as Unidades de Saúde, com exceção do Hospital da Horta, onde se encontra em implementação |
+| 395 equipamentos médico-hospitalares |  |
+| Modernização das bases de dados dos sistemas clínicos dos hospitais |  |
+| 186 novos acessos ao MUSA - Portal e App do Utente que se encontra em fase de desenvolvimento e testes. Lançada a versão beta do portal |  |
+| Software Clinidata em implementação em todos os laboratórios da Região |  |
+| Desmaterialização de sete valências de meios complementares de diagnóstico e terapêutica |  |
+| Sistema Computorizado de Gestão da Manutenção de Instalações e Equipamentos |  |
+| Entrada em produção da plataforma MedEvac |  |
+| Upgrade do sistema MedicineOne |  |
+| Sistema Integrado de Referenciação e Gestão de Acesso à Primeira Consulta de Especialidade Hospitalar implementado em todas as Unidades de Saúde, com exceção do Hospital da Horta, onde se encontra em implementação |  |
 | Aumentar as condições habitacionais do parque habitacional da RAA | Construção de 25 novas habitações sociais |
-| Aumentar as condições habitacionais do parque habitacional da RAA | Reabilitadas 110 habitações sociais |
-| Aumentar as condições habitacionais do parque habitacional da RAA | Executadas 42 infraestruturas para construção de moradias (loteamentos de Santa Clara e de São Vicente Ferreira e aldeamento de São Pedro) |
-| Aumentar as condições habitacionais do parque habitacional da RAA | Celebração de contrato para a construção de 4 moradias em Ponta Delgada |
-| Aumentar as condições habitacionais do parque habitacional da RAA | Celebração de contrato e assinatura do auto de consignação para renovação de 36 habitações na Urbanização de Nossa Senhora de Fátima e de 1 moradia no Posto Santo |
-| Aumentar as condições habitacionais do parque habitacional da RAA | Celebração de contrato e assinatura do auto de consignação para a reabilitação de 5 imóveis na Graciosa |
-| Aumentar as condições habitacionais do parque habitacional da RAA | Celebração de contrato e assinatura do auto de consignação para a reabilitação de 9 imóveis na Povoação |
-| Aumentar as condições habitacionais do parque habitacional da RAA | Aquisição de 6 imóveis para renovação para habitação na Ribeira Grande |
-| Aumentar as condições habitacionais do parque habitacional da RAA | Celebração de contrato e assinatura do auto de consignação para construção de 1 moradia na Lagoa |
+| Reabilitadas 110 habitações sociais |  |
+| Executadas 42 infraestruturas para construção de moradias (loteamentos de Santa Clara e de São Vicente Ferreira e aldeamento de São Pedro) |  |
+| Celebração de contrato para a construção de 4 moradias em Ponta Delgada |  |
+| Celebração de contrato e assinatura do auto de consignação para renovação de 36 habitações na Urbanização de Nossa Senhora de Fátima e de 1 moradia no Posto Santo |  |
+| Celebração de contrato e assinatura do auto de consignação para a reabilitação de 5 imóveis na Graciosa |  |
+| Celebração de contrato e assinatura do auto de consignação para a reabilitação de 9 imóveis na Povoação |  |
+| Aquisição de 6 imóveis para renovação para habitação na Ribeira Grande |  |
+| Celebração de contrato e assinatura do auto de consignação para construção de 1 moradia na Lagoa |  |
 | Estratégia Regional de Combate à Pobreza e Exclusão Social | 302 idosos abrangidos pelo Programa «Novos Idosos» |
-| Estratégia Regional de Combate à Pobreza e Exclusão Social | 11 pontos de apoio ao estudo criados, abrangendo um total de 598 crianças e jovens |
+| 11 pontos de apoio ao estudo criados, abrangendo um total de 598 crianças e jovens |  |
 |  | 1 453 participantes, provenientes de famílias carenciadas, em sessões de capacitação |
 |  | 805 novas vagas em creches |
 |  | 11 345 crianças abrangidas com creches gratuitas (até 13.º escalão) |
@@ -1085,9 +1213,9 @@ Quadro 16 - Resultados dos investimentos do PRR-Açores
 |  | Lançamento de concurso público para a empreitada de ampliação de ERPI e criação de Centro de Dia em São Roque do Pico, para criação de 27 vagas |
 |  | Assinatura do contrato de empreitada para a remodelação do antigo edifício do Centro de Saúde de Santa Cruz da Graciosa para ERPI, para criação de 14 vagas |
 | Recapitalizar o Sistema Empresarial dos Açores | Adoção de um ato legislativo relativo ao Instrumento de Recapitalização das Empresas dos Açores |
-| Recapitalizar o Sistema Empresarial dos Açores | Adoção da política de investimento do Instrumento de Recapitalização das Empresas dos Açores |
-| Recapitalizar o Sistema Empresarial dos Açores | Aviso de Candidaturas para o instrumento Capital Participativo Açores I - com 4 intermediários financeiros protocolados e 50 candidaturas submetidas |
-| Recapitalizar o Sistema Empresarial dos Açores | Lançado Aviso de Candidaturas para o instrumento Capital Participativo Açores II - com 4 intermediários financeiros credenciados |
+| Adoção da política de investimento do Instrumento de Recapitalização das Empresas dos Açores |  |
+| Aviso de Candidaturas para o instrumento Capital Participativo Açores I - com 4 intermediários financeiros protocolados e 50 candidaturas submetidas |  |
+| Lançado Aviso de Candidaturas para o instrumento Capital Participativo Açores II - com 4 intermediários financeiros credenciados |  |
 | Relançamento Económico da Agricultura Açoriana | 724 amostras analisadas ao abrigo do contrato de aquisição de serviços de análises de avaliação e diagnóstico de fertilidade de solos agrícolas dos Açores |
 |  | 880 participantes em ações de formação, no âmbito do Programa de Capacitação dos Agricultores e de Promoção da Literacia da População em Produção e Consumo Sustentáveis |
 |  | 40 candidaturas contratadas no âmbito dos «Apoios diretos à recuperação e resiliência das empresas» |
@@ -1116,17 +1244,17 @@ Quadro 16 - Resultados dos investimentos do PRR-Açores
 |  | Lançamento do Aviso n.º 19/C05-i05-RAA/2024 - subação «Realização de Sessões de acompanhamento ou orientação (Coaching) - leite bovino - nas ilhas Graciosa, São Jorge, Pico e Faial» |
 |  | Lançamento do Aviso n.º 20/C05-i05-RAA/2024 - subação «Realização de Sessões de acompanhamento ou orientação (Coaching) - leite bovino - nas ilhas São Miguel e Terceira» |
 | Qualificação de adultos e aprendizagem ao longo da vida | 16 candidaturas contratadas no âmbito do apoio à modernização das Escolas Profissionais com intervenção na Formação e Reconversão Profissional de Adultos dos Açores |
-| Qualificação de adultos e aprendizagem ao longo da vida | 13 candidaturas contratadas no âmbito do Programa Qualifica.In - Formação setorial à medida |
-| Qualificação de adultos e aprendizagem ao longo da vida | 34 apoios atribuídos a participantes no âmbito de cursos pós-secundários de curta duração |
-| Qualificação de adultos e aprendizagem ao longo da vida | 253 pessoas abrangidas em formação em línguas estrangeiras |
-| Qualificação de adultos e aprendizagem ao longo da vida | 985 pessoas abrangidas em formação em competências para a empregabilidade |
-| Qualificação de adultos e aprendizagem ao longo da vida | 619 pessoas abrangidas em formação em competências digitais |
-| Qualificação de adultos e aprendizagem ao longo da vida | 465 apoios a estudantes em pós-graduação |
-| Qualificação de adultos e aprendizagem ao longo da vida | 181 apoios a estudantes em licenciatura |
-| Qualificação de adultos e aprendizagem ao longo da vida | 2 511 utentes desempregados atendidos no âmbito da medida M8 - Orientação ao longo da vida |
-| Qualificação de adultos e aprendizagem ao longo da vida | Em execução a empreitada de beneficiação e requalificação do Centro de Qualificação dos Açores |
+| 13 candidaturas contratadas no âmbito do Programa Qualifica.In - Formação setorial à medida |  |
+| 34 apoios atribuídos a participantes no âmbito de cursos pós-secundários de curta duração |  |
+| 253 pessoas abrangidas em formação em línguas estrangeiras |  |
+| 985 pessoas abrangidas em formação em competências para a empregabilidade |  |
+| 619 pessoas abrangidas em formação em competências digitais |  |
+| 465 apoios a estudantes em pós-graduação |  |
+| 181 apoios a estudantes em licenciatura |  |
+| 2 511 utentes desempregados atendidos no âmbito da medida M8 - Orientação ao longo da vida |  |
+| Em execução a empreitada de beneficiação e requalificação do Centro de Qualificação dos Açores |  |
 | Circuitos logísticos – Rede Viária Regional dos Açores | Início dos trabalhos de empreitada da variante à cidade da Horta |
-| Circuitos logísticos – Rede Viária Regional dos Açores | Conclusão da empreitada de construção da variante Portal do Vento em São Miguel |
+| Conclusão da empreitada de construção da variante Portal do Vento em São Miguel |  |
 |  | Continuação dos trabalhos das empreitadas de melhoria da acessibilidade à freguesia das Furnas/Povoação - 1.º Lanço |
 |  | Conclusão da empreitada de construção da variante de São Roque em São Miguel |
 |  | Início dos trabalhos de empreitada da variante a Vila do Porto |
@@ -1136,20 +1264,20 @@ Quadro 16 - Resultados dos investimentos do PRR-Açores
 |  | Assinatura do contrato e início dos trabalhos de empreitada da variante a Capelas |
 |  | Início dos trabalhos de empreitada da ligação entre a Via Vitorino Nemésio e circular de Angra |
 | Desenvolvimento do «Cluster do Mar dos Açores» | Em curso a construção e armamento do navio de investigação para a Região Autónoma dos Açores |
-| Desenvolvimento do «Cluster do Mar dos Açores» | Em curso a construção do Tecnopolo - MARTEC |
-| Desenvolvimento do «Cluster do Mar dos Açores» | Aquisição de terreno para construção do Tecnopolo MARTEC |
+| Em curso a construção do Tecnopolo - MARTEC |  |
+| Aquisição de terreno para construção do Tecnopolo MARTEC |  |
 | Transição energética, digitalização e redução do impacto ambiental no setor das pescas e da aquicultura | Publicação da Resolução do Conselho do Governo Regional n.º 177-D/2024, de 13 de dezembro, que cria o Sistema de Incentivos à Transição Energética, Digitalização e Redução do Impacto Ambiental no Setor da Pesca e da Aquicultura nos Açores |
 | Transição energética nos Açores | 1 804 candidaturas contratadas no âmbito do Programa SOLENERGE |
-| Transição energética nos Açores | Início da empreitada de fornecimento de aerogeradores para o Parque Eólico do Corvo |
-| Transição energética nos Açores | Conclusão do estudo de dimensionamento do sistema de armazenamento de energia de Santa Maria e aquisição do respetivo terreno |
-| Transição energética nos Açores | Conclusão do estudo de dimensionamento do sistema de armazenamento de energia de São Jorge e aquisição do respetivo terreno |
-| Transição energética nos Açores | Lançamento do concurso público relativo ao contrato de construção e funcionamento do sistema de armazenamento de energia para a ilha do Faial |
-| Transição energética nos Açores | Lançamento do concurso público relativo ao contrato de construção e funcionamento do sistema de armazenamento de energia para a ilha das Flores |
-| Transição energética nos Açores | Lançamento do concurso público relativo ao contrato de construção e funcionamento do sistema de armazenamento de energia para a ilha do Corvo |
-| Transição energética nos Açores | Conclusão dos ensaios dos poços geotérmicos para a central geotérmica do Pico Vermelho (PV12, PV13 e PV14) |
-| Transição energética nos Açores | Conclusão dos ensaios dos poços geotérmicos para a central geotérmica da Ribeira Grande (CL8, CL9 e CL10) |
-| Transição energética nos Açores | Conclusão dos ensaios dos poços geotérmicos para a central geotérmica do Pico Alto (PA5, PA6 e PA7) |
-| Transição energética nos Açores | Início da empreitada de construção civil da fase B do Parque Fotovoltaico da ilha do Corvo |
+| Início da empreitada de fornecimento de aerogeradores para o Parque Eólico do Corvo |  |
+| Conclusão do estudo de dimensionamento do sistema de armazenamento de energia de Santa Maria e aquisição do respetivo terreno |  |
+| Conclusão do estudo de dimensionamento do sistema de armazenamento de energia de São Jorge e aquisição do respetivo terreno |  |
+| Lançamento do concurso público relativo ao contrato de construção e funcionamento do sistema de armazenamento de energia para a ilha do Faial |  |
+| Lançamento do concurso público relativo ao contrato de construção e funcionamento do sistema de armazenamento de energia para a ilha das Flores |  |
+| Lançamento do concurso público relativo ao contrato de construção e funcionamento do sistema de armazenamento de energia para a ilha do Corvo |  |
+| Conclusão dos ensaios dos poços geotérmicos para a central geotérmica do Pico Vermelho (PV12, PV13 e PV14) |  |
+| Conclusão dos ensaios dos poços geotérmicos para a central geotérmica da Ribeira Grande (CL8, CL9 e CL10) |  |
+| Conclusão dos ensaios dos poços geotérmicos para a central geotérmica do Pico Alto (PA5, PA6 e PA7) |  |
+| Início da empreitada de construção civil da fase B do Parque Fotovoltaico da ilha do Corvo |  |
 | Modernização e digitalização da administração pública regional dos Açores | 10 postos de trabalho dotados de equipamentos modernos e adequados às atividades desenvolvidas e a desenvolver pela equipa técnica do Laboratório de Experimentação da Administração Pública Regional dos Açores - Incuba.Açores |
 |  | 122 dirigentes e trabalhadores da administração pública regional capacitados em metodologia de desenho de serviços públicos |
 |  | 14 candidaturas contratualizadas no âmbito do SIMA - Sistema de incentivos à Modernização Administrativa |
@@ -1179,20 +1307,21 @@ Quadro 16 - Resultados dos investimentos do PRR-Açores
 |  | Desenvolvimento do Azor.ID, a plataforma de gestão da identidade dos utilizadores dos serviços digitais da administração pública regional dos Açores |
 |  | Desenvolvimento do Participa Açores, portal agregador das iniciativas de participação cívica do Governo Regional dos Açores |
 | Educação digital Açores | Disponibilizados 18 Massive Online Open Courses |
-| Educação digital Açores | 392 painéis interativos |
-| Educação digital Açores | 1 840 kits de Robótica |
-| Educação digital Açores | 64 kits de realidade virtual (VR) |
-| Educação digital Açores | 5 193 jogos P-COM |
-| Educação digital Açores | 134 impressoras 3D |
-| Educação digital Açores | 25 452 equipamentos digitais móveis para escolas |
-| Educação digital Açores | 951 equipamentos digitais diversos |
-| Educação digital Açores | 981 mesas digitalizadoras |
-| Educação digital Açores | Disponibilizada a Plataforma de Aprendizagem, Colaboração, Partilha e Criação de Recursos Educativos Digitais |
+| 392 painéis interativos |  |
+| 1 840 kits de Robótica |  |
+| 64 kits de realidade virtual (VR) |  |
+| 5 193 jogos P-COM |  |
+| 134 impressoras 3D |  |
+| 25 452 equipamentos digitais móveis para escolas |  |
+| 951 equipamentos digitais diversos |  |
+| 981 mesas digitalizadoras |  |
+| Disponibilizada a Plataforma de Aprendizagem, Colaboração, Partilha e Criação de Recursos Educativos Digitais |  |
 | Capacitação e transformação digital das empresas dos Açores | 483 candidaturas no âmbito do Sistema de Incentivos à Transição Digital das Empresas |
-| Capacitação e transformação digital das empresas dos Açores | Assinatura do contrato da empreitada de ampliação do TERINOV |
+| Assinatura do contrato da empreitada de ampliação do TERINOV |  |
 | Sistema de incentivos à aquisição e instalação de sistemas de armazenamento de energias renováveis nos Açores | 207 candidaturas contratadas no âmbito do lançamento do Aviso n.º 02/C21-i10-RAA/2024 - «Programa de Apoio PROENERGIA - Incentivo ao armazenamento descentralizado de energia elétrica» |
 
-![](https://files.diariodarepublica.pt/images/1034985561/1034986795.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985561/1034986795.png) |
+| --- |
 
 O Açores 2030 é um programa financiado pelos Fundos Europeus Estruturais e de Investimento (FEEI) FEDER e Fundo Social Europeu Mais (FSE+), para o período de programação 2021-2027, assumindo-se como um importante instrumento de intervenção e financiamento europeu na RAA.
 
@@ -1204,7 +1333,7 @@ A 30 de setembro de 2025, o programa registava taxas de compromisso e execução
 
 Quadro 17 - Execução do Açores 2030
 
-| Prioridade | Operações (n.º) | Investimento aprovado | Fundo aprovado | Fundo executado | Pagamentos |
+| **Prioridade** | **Operações (n.º)** | **Investimento aprovado** | **Fundo aprovado** | **Fundo executado** | **Pagamentos** |
 | --- | --- | --- | --- | --- | --- |
 | Região Ultraperiférica | 1 | 139 999 590 € | 58 104 369 € | 58 104 369 € | 51 567 322 € |
 | Competitividade, Investigação, Desenvolvimento e Inovação | 438 | 190 465 086 € | 92 439 146 € | 7 332 577 € | 4 518 420 € |
@@ -1215,9 +1344,10 @@ Quadro 17 - Execução do Açores 2030
 | Apoio aos Jovens | 1 | 27 177 715 € | 23 101 058 € | 21 265 182 € | 20 790 952 € |
 | Valorização Económica e Social no Território | 2 | 165 518 € | 140 690 € | 0 € | 0 € |
 | Acessibilidades | 1 | 2 226 091 € | 1 892 177 € | 0 € | 0 € |
-| Total | 533 | 569 092 624 € | 337 181 572 € | 117 931 678 € | 112 624 653 € |
+| **Total** | **533** | **569 092 624 €** | **337 181 572 €** | **117 931 678 €** | **112 624 653 €** |
 
-![](https://files.diariodarepublica.pt/images/1034985561/1034986796.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985561/1034986796.png) |
+| --- |
 
 O Plano Estratégico da Política Agrícola Comum para Portugal no período 2023-2027 (PEPAC), integra as medidas de apoio para se alcançarem os objetivos específicos da União Europeia para a Política Agrícola Comum (PAC) e assenta nas seguintes prioridades:
 
@@ -1237,11 +1367,12 @@ Com referência a 30 de setembro de 2025, registava-se já a aprovação de 9981
 
 Quadro 18 - Execução do Eixo E do PEPAC
 
-| Projetos aprovados (n.º) | Investimento elegível aprovado | Fundo aprovado | Fundo executado | Pagamentos |
+| **Projetos aprovados (n.º)** | **Investimento elegível aprovado** | **Fundo aprovado** | **Fundo executado** | **Pagamentos** |
 | --- | --- | --- | --- | --- |
 | 9 981 | 42 237 061 € | 35 901 502 € | 34 622 289 € | 40 732 086 € |
 
-![](https://files.diariodarepublica.pt/images/1034985561/1034986797.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985561/1034986797.png) |
+| --- |
 
 O PRORURAL+ (Programa de Desenvolvimento Rural para a RAA 2014-2020) foi, até 31 de dezembro de 2023, alterado nove vezes com o objetivo de reforçar a sua capacidade de resposta às necessidades dos setores que beneficia e potenciar o seu contributo para um crescimento sustentável das atividades agroflorestais e para a dinamização económica e social do espaço rural.
 
@@ -1251,7 +1382,7 @@ A 30 de setembro de 2025, o PRORURAL+ apresentava a execução constante da tabe
 
 Quadro 19 - Execução do PRORURAL+
 
-| Projetos aprovados (n.º) | Investimento Elegível aprovado | Fundo aprovado | Fundo executado | Pagamentos |
+| **Projetos aprovados (n.º)** | **Investimento Elegível aprovado** | **Fundo aprovado** | **Fundo executado** | **Pagamentos** |
 | --- | --- | --- | --- | --- |
 | 25 979 | 545 980 416€ | 416 113 588€ | 314 189 115€ | 429 232 970€ |
 
@@ -1267,7 +1398,8 @@ O orçamento anual do subprograma do POSEI para a RAA proveniente do orçamento 
 
 O financiamento das MAPL pode ser complementado com auxílios estatais nacionais previamente aprovados pela Comissão Europeia. A partir de 2020, os limites daqueles auxílios foram substancialmente aumentados por forma a evitar a penalização dos rendimentos dos agricultores, decorrente da aplicação de rateios no pagamento das ajudas. Nos períodos 2018-2020 e 2021-2023, e 2024-2025, foram pagos auxílios estatais complementares no valor médio anual de, respetivamente, 5,5, 15,3 e 15,7 milhões de euros.
 
-![](https://files.diariodarepublica.pt/images/1034985561/1034986798.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985561/1034986798.png) |
+| --- |
 
 O Programa Mar 2030, cofinanciado pelo Fundo Europeu dos Assuntos Marítimos, das Pescas e Aquicultura (FEAMPA), é um instrumento decisivo na garantia da sustentabilidade e do cumprimento de uma estratégia que promova a competitividade e a resiliência do setor das pescas, da aquicultura e da indústria transformadora, por forma a corresponder às necessidades de abastecimento e segurança alimentar. É, igualmente, determinante no incentivo à inovação e na atratividade de novos e capacitação dos profissionais do setor.
 
@@ -1285,14 +1417,15 @@ Em 30 de setembro de 2025, o MAR 2030 na RAA registava taxas de compromisso e de
 
 Quadro 20 - Projetos dos Açores no Mar 2030
 
-| Fundo/Prioridade | Projetos aprovados (n.º) | Investimento elegível aprovado | Fundo aprovado | Fundo executado | Pagamentos |
+| **Fundo/Prioridade** | **Projetos aprovados (n.º)** | **Investimento elegível aprovado** | **Fundo aprovado** | **Fundo executado** | **Pagamentos** |
 | --- | --- | --- | --- | --- | --- |
 | P1 - Fomentar a pesca sustentável e a restauração e conservação dos recursos biológicos aquáticos | 1 999 | 16 316 773 € | 15 740 451 € | 14 581 916 € | 14 581 916 € |
 | P2 - Fomentar de atividades de aquicultura sustentáveis e da transformação e comercialização de produtos da pesca e da aquicultura, contribuindo assim para a segurança alimentar da União Europeia | 269 | 4 661 126 € | 2 921 832 € | 0 € | 0 € |
 | P3 - Promover uma economia azul sustentável nas regiões costeiras, insulares e interiores e fomento do desenvolvimento de comunidades piscatórias e de aquicultura | 2 | 402 465 € | 281 725 € | 15 515 € | 15 515 € |
-| Total | 2 270 | 21 380 364 € | 18 944 008 € | 14 597 431 € | 14 597 431 € |
+| **Total** | **2 270** | **21 380 364 €** | **18 944 008 €** | **14 597 431 €** | **14 597 431 €** |
 
-![](https://files.diariodarepublica.pt/images/1034985561/1034986799.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985561/1034986799.png) |
+| --- |
 
 No âmbito da Cooperação Territorial, a RAA é, no período de programação 2021-2027, beneficiária do Programa de Cooperação Interreg VI-D Madeira-Açores-Canárias (MAC).
 
@@ -1304,11 +1437,12 @@ A 30 de setembro de 2025, os Açores registavam 23 projetos aprovados com parcei
 
 Quadro 21 - Projetos dos Açores no MAC 2021-27
 
-| Projetos aprovados (n.º) | Investimento elegível aprovado | Fundo aprovado | Fundo executado | Pagamentos |
+| **Projetos aprovados (n.º)** | **Investimento elegível aprovado** | **Fundo aprovado** | **Fundo executado** | **Pagamentos** |
 | --- | --- | --- | --- | --- |
 | 23 | 9 643 368 € | 8 196 863 € | - | - |
 
-![](https://files.diariodarepublica.pt/images/1034985561/1034986800.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985561/1034986800.png) |
+| --- |
 
 O Programa Ação Climática e Sustentabilidade, denominado Sustentável 2030, financiado pelo Fundo de Coesão (FC), é um instrumento de promoção da transição energética e climática, através, entre outros, do reforço da mobilidade urbana sustentável. De âmbito nacional, apoiará o desenvolvimento do sistema de mobilidade regional, reforçando a sua integração, intermodalidade e sustentabilidade.
 
@@ -1322,7 +1456,7 @@ A 30 de setembro de 2025, registavam-se 5 operações deste programa em execuç�
 
 Quadro 22 - Projetos dos Açores no Sustentável 2030
 
-| Projetos aprovados (n.º) | Investimento elegível aprovado | Fundo aprovado | Fundo executado | Pagamentos |
+| **Projetos aprovados (n.º)** | **Investimento elegível aprovado** | **Fundo aprovado** | **Fundo executado** | **Pagamentos** |
 | --- | --- | --- | --- | --- |
 | 5 | 215 877 757 € | 183 373 056 € | 12 134 794 € | 28 697 093 € |
 
@@ -1842,104 +1976,105 @@ As políticas setoriais e domínios de intervenção do objetivo «Por uma Regi�
 
 Repartição do investimento público por objetivos de desenvolvimento
 
-![](https://files.diariodarepublica.pt/images/1034985561/1034986801.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985561/1034986801.png) |
+| --- |
 
 Investimento público 2026 - Desagregação por objetivo
 
-| Objetivo/Programas | Investimento público | Capítulo 50 | Outros fundos |
+| Unidade: euro |  |  |  |
 | --- | --- | --- | --- |
-| Unidade: euro | Unidade: euro | Unidade: euro | Unidade: euro |
-| Total | 1 206 602 859 | 1 001 881 370 | 204 721 489 |
-| Por uma Região com identidade institucional e cultural | 22 711 376 | 22 711 376 |  |
+| Objetivo/Programas | Investimento público | Capítulo 50 | Outros fundos |
+| **Total** | **1 206 602 859** | **1 001 881 370** | **204 721 489** |
+| **Por uma Região com identidade institucional****e****cultural** | **22 711 376** | **22 711 376** |  |
 | 1 - Coesão e representação | 1 200 000 | 1 200 000 |  |
 | 4 - Diáspora e media | 2 000 831 | 2 000 831 |  |
 | 5 - Educação, dinâmica cultural e desporto | 19 511 545 | 19 511 545 |  |
-| Por uma Região solidária e capaz de vencer os desafios societais | 276 872 475 | 208 726 079 | 68 146 396 |
+| **Por uma Região solidária****e****capaz de vencer os desafios societais** | **276 872 475** | **208 726 079** | **68 146 396** |
 | 3 - Finanças, planeamento e competitividade | 11 316 812 | 11 316 812 |  |
 | 5 - Educação, dinâmica cultural e desporto | 30 025 248 | 30 025 248 |  |
 | 6 - Promoção da saúde e economia social | 150 925 030 | 150 925 030 |  |
 | 10 - Juventude, habitação e empregabilidade | 84 605 385 | 16 458 989 | 68 146 396 |
-| Por uma Região resiliente, próspera e competitiva | 431 022 279 | 431 022 279 |  |
+| **Por uma Região resiliente, próspera****e****competitiva** | **431 022 279** | **431 022 279** |  |
 | 2 - Relações externas, ciência e comunicações | 18 689 256 | 18 689 256 |  |
 | 3 - Finanças, planeamento e competitividade | 187 296 650 | 187 296 650 |  |
 | 7 - Economia rural e alimentação | 230 000 | 230 000 |  |
 | 9 - Desenvolvimento turístico, mobilidade e infraestruturas | 223 806 373 | 223 806 373 |  |
 | 10 - Juventude, habitação e empregabilidade | 1 000 000 | 1 000 000 |  |
-| Por uma Região sustentável e coesa territorialmente | 468 825 326 | 332 250 233 | 136 575 093 |
+| **Por uma Região sustentável****e****coesa territorialmente** | **468 825 326** | **332 250 233** | **136 575 093** |
 | 1 - Coesão e representação | 10 490 352 | 10 490 352 |  |
 | 7 - Economia rural e alimentação | 147 668 762 | 71 534 404 | 76 134 358 |
 | 8 - Economia do mar | 37 040 576 | 37 040 576 |  |
 | 9 - Desenvolvimento turístico, mobilidade e infraestruturas | 181 168 890 | 120 728 155 | 60 440 735 |
 | 10 - Juventude, habitação e empregabilidade | 64 816 319 | 64 816 319 |  |
 | 11 - Sustentabilidade, ação climática e gestão de riscos | 27 640 427 | 27 640 427 |  |
-| Por uma Região prestigiada na Europa e no mundo | 7 170 403 | 7 170 403 |  |
+| **Por uma Região prestigiada na Europa****e****no mundo** | **7 170 403** | **7 170 403** |  |
 | 2 - Relações externas, ciência e comunicações | 5 162 096 | 5 162 096 |  |
 | 4 - Diáspora e media | 1 349 272 | 1 349 272 |  |
 | 7 - Economia rural e alimentação | 659 035 | 659 035 |  |
 
 Investimento público 2026 - Desagregação por entidade executora
 
-| Objetivo/Programas | Investimento público | Capítulo 50 | Outros fundos |
+| Unidade: euro |  |  |  |
 | --- | --- | --- | --- |
-| Unidade: euro | Unidade: euro | Unidade: euro | Unidade: euro |
-| Total | 1 206 602 859 | 1 001 881 370 | 204 721 489 |
-| Presidência do Governo Regional | 11 690 352 | 11 690 352 |  |
+| Objetivo/Programas | Investimento público | Capítulo 50 | Outros fundos |
+| **Total** | **1 206 602 859** | **1 001 881 370** | **204 721 489** |
+| **Presidência do Governo Regional** | **11 690 352** | **11 690 352** |  |
 | 1 - Coesão e representação | 11 690 352 | 11 690 352 |  |
-| Vice-Presidência do Governo Regional | 23 851 352 | 23 851 352 |  |
+| **Vice-Presidência do Governo Regional** | **23 851 352** | **23 851 352** |  |
 | 2 - Relações externas, ciência e comunicações | 23 851 352 | 23 851 352 |  |
-| Secretaria Regional das Finanças, Planeamento e Administração Pública | 198 613 462 | 198 613 462 |  |
+| **Secretaria Regional das Finanças, Planeamento****e****Administração Pública** | **198 613 462** | **198 613 462** |  |
 | 3 - Finanças, planeamento e competitividade | 198 613 462 | 198 613 462 |  |
-| Secretaria Regional dos Assuntos Parlamentares e Comunidades | 3 350 103 | 3 350 103 |  |
+| **Secretaria Regional dos Assuntos Parlamentares****e****Comunidades** | **3 350 103** | **3 350 103** |  |
 | 4 - Diáspora e media | 3 350 103 | 3 350 103 |  |
-| Secretaria Regional da Educação, Cultura e Desporto | 49 536 793 | 49 536 793 |  |
+| **Secretaria Regional da Educação, Cultura****e****Desporto** | **49 536 793** | **49 536 793** |  |
 | 5 - Educação, dinâmica cultural e desporto | 49 536 793 | 49 536 793 |  |
-| Secretaria Regional da Saúde e Segurança Social | 150 925 030 | 150 925 030 |  |
+| **Secretaria Regional da Saúde****e****Segurança Social** | **150 925 030** | **150 925 030** |  |
 | 6 - Promoção da saúde e economia social | 150 925 030 | 150 925 030 |  |
-| Secretaria Regional da Agricultura e Alimentação | 148 557 797 | 72 423 439 | 76 134 358 |
+| **Secretaria Regional da Agricultura****e****Alimentação** | **148 557 797** | **72 423 439** | **76 134 358** |
 | 7 - Economia rural e alimentação | 148 557 797 | 72 423 439 | 76 134 358 |
-| Secretaria Regional do Mar e das Pescas | 37 040 576 | 37 040 576 |  |
+| **Secretaria Regional do Mar****e****das Pescas** | **37 040 576** | **37 040 576** |  |
 | 8 - Economia do mar | 37 040 576 | 37 040 576 |  |
-| Secretaria Regional do Turismo, Mobilidade e Infraestruturas | 404 975 263 | 344 534 528 | 60 440 735 |
+| **Secretaria Regional do Turismo, Mobilidade****e****Infraestruturas** | **404 975 263** | **344 534 528** | **60 440 735** |
 | 9 - Desenvolvimento turístico, mobilidade e infraestruturas | 404 975 263 | 344 534 528 | 60 440 735 |
-| Secretaria Regional da Juventude, Habitação e Emprego | 150 421 704 | 82 275 308 | 68 146 396 |
+| **Secretaria Regional da Juventude, Habitação****e****Emprego** | **150 421 704** | **82 275 308** | **68 146 396** |
 | 10 - Juventude, habitação e empregabilidade | 150 421 704 | 82 275 308 | 68 146 396 |
-| Secretaria Regional do Ambiente e Ação Climática | 27 640 427 | 27 640 427 |  |
+| **Secretaria Regional do Ambiente****e****Ação Climática** | **27 640 427** | **27 640 427** |  |
 | 11 - Sustentabilidade, ação climática e gestão de riscos | 27 640 427 | 27 640 427 |  |
 
 Investimento público 2026 - Desagregação por entidade proponente
 
-| Objetivo/Programas | Investimento público | Capítulo 50 | Outros fundos |
+| Unidade: euro |  |  |  |
 | --- | --- | --- | --- |
-| Unidade: euro | Unidade: euro | Unidade: euro | Unidade: euro |
-| Total | 1 206 602 859 | 1 001 881 370 | 204 721 489 |
-| Presidência do Governo Regional | 11 690 352 | 11 690 352 |  |
+| Objetivo/Programas | Investimento público | Capítulo 50 | Outros fundos |
+| **Total** | **1 206 602 859** | **1 001 881 370** | **204 721 489** |
+| **Presidência do Governo Regional** | **11 690 352** | **11 690 352** |  |
 | 1 - Coesão e representação | 11 690 352 | 11 690 352 |  |
-| Vice-Presidência do Governo Regional | 25 827 109 | 25 827 109 |  |
+| **Vice-Presidência do Governo Regional** | **25 827 109** | **25 827 109** |  |
 | 2 - Relações externas, ciência e comunicações | 23 851 352 | 23 851 352 |  |
 | 9 - Desenvolvimento turístico, mobilidade e infraestruturas | 1 975 757 | 1 975 757 |  |
-| Secretaria Regional das Finanças, Planeamento e Administração Pública | 200 613 354 | 200 613 354 |  |
+| **Secretaria Regional das Finanças, Planeamento****e****Administração Pública** | **200 613 354** | **200 613 354** |  |
 | 3 - Finanças, planeamento e competitividade | 198 613 462 | 198 613 462 |  |
 | 9 - Desenvolvimento turístico, mobilidade e infraestruturas | 1 999 892 | 1 999 892 |  |
-| Secretaria Regional dos Assuntos Parlamentares e Comunidades | 3 350 103 | 3 350 103 |  |
+| **Secretaria Regional dos Assuntos Parlamentares****e****Comunidades** | **3 350 103** | **3 350 103** |  |
 | 4 - Diáspora e media | 3 350 103 | 3 350 103 |  |
-| Secretaria Regional da Educação, Cultura e Desporto | 57 593 246 | 57 593 246 |  |
+| **Secretaria Regional da Educação, Cultura****e****Desporto** | **57 593 246** | **57 593 246** |  |
 | 5 - Educação, dinâmica cultural e desporto | 49 536 793 | 49 536 793 |  |
 | 9 - Desenvolvimento turístico, mobilidade e infraestruturas | 8 056 453 | 8 056 453 |  |
-| Secretaria Regional da Saúde e Segurança Social | 156 839 665 | 156 839 665 |  |
+| **Secretaria Regional da Saúde****e****Segurança Social** | **156 839 665** | **156 839 665** |  |
 | 6 - Promoção da saúde e economia social | 150 925 030 | 150 925 030 |  |
 | 9 - Desenvolvimento turístico, mobilidade e infraestruturas | 5 914 635 | 5 914 635 |  |
-| Secretaria Regional da Agricultura e Alimentação | 148 841 190 | 72 706 832 | 76 134 358 |
+| **Secretaria Regional da Agricultura****e****Alimentação** | **148 841 190** | **72 706 832** | **76 134 358** |
 | 7 - Economia rural e alimentação | 148 557 797 | 72 423 439 | 76 134 358 |
 | 9 - Desenvolvimento turístico, mobilidade e infraestruturas | 283 393 | 283 393 |  |
-| Secretaria Regional do Mar e das Pescas | 43 324 817 | 43 324 81 |  |
+| **Secretaria Regional do Mar****e****das Pescas** | **43 324 817** | **43 324 81** |  |
 | 8 - Economia do mar | 37 040 576 | 37 040 576 |  |
 | 9 - Desenvolvimento turístico, mobilidade e infraestruturas | 6 284 241 | 6 284 241 |  |
-| Secretaria Regional do Turismo, Mobilidade e Infraestruturas | 369 724 874 | 309 284 139 | 60 440 735 |
+| **Secretaria Regional do Turismo, Mobilidade****e****Infraestruturas** | **369 724 874** | **309 284 139** | **60 440 735** |
 | 9 - Desenvolvimento turístico, mobilidade e infraestruturas | 369 724 874 | 309 284 139 | 60 440 735 |
-| Secretaria Regional da Juventude, Habitação e Emprego | 158 155 095 | 90 008 699 | 68 146 396 |
+| **Secretaria Regional da Juventude, Habitação****e****Emprego** | **158 155 095** | **90 008 699** | **68 146 396** |
 | 10 - Juventude, habitação e empregabilidade | 150 421 704 | 82 275 308 | 68 146 396 |
 | 9 - Desenvolvimento turístico, mobilidade e infraestruturas | 7 733 391 | 7 733 391 |  |
-| Secretaria Regional do Ambiente e Ação Climática | 30 643 054 | 30 643 054 |  |
+| **Secretaria Regional do Ambiente****e****Ação Climática** | **30 643 054** | **30 643 054** |  |
 | 11 - Sustentabilidade, ação climática e gestão de riscos | 27 640 427 | 27 640 427 |  |
 | 9 - Desenvolvimento turístico, mobilidade e infraestruturas | 3 002 627 | 3 002 627 |  |
 
@@ -1953,24 +2088,24 @@ As transferências do Orçamento do Estado, da União Europeia e de outros fundo
 
 O Plano Regional Anual para o ano de 2026 prevê uma dotação de 1001,9 milhões de euros de investimento direto do Governo Regional.
 
-|  | Valor | % |
+| Unidade: milhões de euro |  |  |
 | --- | --- | --- |
-| Unidade: milhões de euro | Unidade: milhões de euro | Unidade: milhões de euro |
-|  | 2026 | 2026 |
-| Saldo Inicial |  |  |
-| Origem de fundos | 2 348,0 | 100,0 % |
+|  | 2026 |  |
+| Valor | % |  |
+| **Saldo Inicial** |  |  |
+| **Origem de fundos** | **2 348,0** | **100,0 %** |
 | (1) Receitas próprias | 1 017,1 | 43,3 % |
 | (2) Transferências do Orçamento do Estado | 501,2 | 21,3 % |
 | (3) Fundos comunitários | 550,0 | 23,4 % |
 | (4) Outros fundos | 204,7 | 8,7 % |
-| Subtotal | 2 273,0 | 96,8 % |
+| **Subtotal** | **2 273,0** | **96,8 %** |
 | (5) Necessidades de financiamento | 75,0 | 3,2 % |
-| Aplicação de fundos | 2 348,0 | 100,0 % |
+| **Aplicação de fundos** | **2 348,0** | **100,0 %** |
 | (6) Despesas de funcionamento | 1 141,4 | 48,6 % |
 | Juros da dívida | 73,0 | 3,1 % |
 | (7) Investimento público na RAA | 1 206,6 | 51,4 % |
 | Capítulo 50 | 1 001,9 | 42,7 % |
-| Rácio (1)/(6) |  | 89,1 % |
+| **Rácio (1)/(6)** |  | **89,1 %** |
 
 V - Desenvolvimento da programação
 
@@ -1982,10 +2117,10 @@ Programa 1 - Coesão e representação
 
 Programação financeira
 
-| Programa/Projeto | Investimento público | Capítulo 50 | Outros fundos |
+| Unidade: euro |  |  |  |
 | --- | --- | --- | --- |
-| Unidade: euro | Unidade: euro | Unidade: euro | Unidade: euro |
-| 1 - Coesão e representação | 11 690 352 | 11 690 352 |  |
+| Programa/Projeto | Investimento público | Capítulo 50 | Outros fundos |
+| **1 - Coesão****e****representação** | **11 690 352** | **11 690 352** |  |
 | 1.1 - Coordenação da atividade governativa | 1 200 000 | 1 200 000 |  |
 | 1.2 - Cooperação com os municípios | 1 214 765 | 1 214 765 |  |
 | 1.3 - Cooperação com as freguesias | 9 275 587 | 9 275 587 |  |
@@ -2036,10 +2171,10 @@ Programa 2 - Relações externas, ciência e comunicações
 
 Programação financeira
 
-| Programa/Projeto | Investimento público | Capítulo 50 | Outros fundos |
+| Unidade: euro |  |  |  |
 | --- | --- | --- | --- |
-| Unidade: euro | Unidade: euro | Unidade: euro | Unidade: euro |
-| 2 - Relações externas, ciência e comunicações | 23 851 352 | 23 851 352 |  |
+| Programa/Projeto | Investimento público | Capítulo 50 | Outros fundos |
+| **2 - Relações externas, ciência****e****comunicações** | **23 851 352** | **23 851 352** |  |
 | 2.1 - Relações com o Atlântico e territórios de interesse estratégico para os Açores | 266 696 | 266 696 |  |
 | 2.2 - Os Açores no espaço europeu | 305 400 | 305 400 |  |
 | 2.3 - Sistemas de informação e infraestruturas de suporte | 7 005 400 | 7 005 400 |  |
@@ -2209,10 +2344,10 @@ Programa 3 - Finanças, Planeamento e Competitividade
 
 Programação financeira
 
-| Programa/Projeto | Investimento público | Capítulo 50 | Outros fundos |
+| Unidade: euro |  |  |  |
 | --- | --- | --- | --- |
-| Unidade: euro | Unidade: euro | Unidade: euro | Unidade: euro |
-| 3 - Finanças, planeamento e competitividade | 198 613 462 | 198 613 462 |  |
+| Programa/Projeto | Investimento público | Capítulo 50 | Outros fundos |
+| **3 - Finanças, planeamento****e****competitividade** | **198 613 462** | **198 613 462** |  |
 | 3.1 - Competitividade empresarial | 179 154 800 | 179 154 800 |  |
 | 3.3 - Modernização e reestruturação da administração pública regional | 9 316 812 | 9 316 812 |  |
 | 3.4 - Estatística | 74 950 | 74 950 |  |
@@ -2316,10 +2451,10 @@ Programa 4 - Diáspora e media
 
 Programação financeira
 
-| Programa/Projeto | Investimento público | Capítulo 50 | Outros fundos |
+| Unidade: euro |  |  |  |
 | --- | --- | --- | --- |
-| Unidade: euro | Unidade: euro | Unidade: euro | Unidade: euro |
-| 4 - Diáspora e media | 3 350 103 | 3 350 103 |  |
+| Programa/Projeto | Investimento público | Capítulo 50 | Outros fundos |
+| **4 - Diáspora****e****media** | **3 350 103** | **3 350 103** |  |
 | 4.1 - Apoio aos media | 1 785 831 | 1 785 831 |  |
 | 4.2 - Emigrado e regressado | 101 794 | 101 794 |  |
 | 4.3 - Identidade cultural e açorianidade | 416 712 | 416 712 |  |
@@ -2409,10 +2544,10 @@ Programa 5 - Educação, dinâmica cultural e desporto
 
 Programação financeira
 
-| Programa/Projeto | Investimento público | Capítulo 50 | Outros fundos |
+| Unidade: euro |  |  |  |
 | --- | --- | --- | --- |
-| Unidade: euro | Unidade: euro | Unidade: euro | Unidade: euro |
-| 5 - Educação, dinâmica cultural e desporto | 49 536 793 | 49 536 793 |  |
+| Programa/Projeto | Investimento público | Capítulo 50 | Outros fundos |
+| **5 - Educação, dinâmica cultural****e****desporto** | **49 536 793** | **49 536 793** |  |
 | 5.1 - Construções escolares | 705 000 | 705 000 |  |
 | 5.2 - Equipamentos escolares | 2 470 027 | 2 470 027 |  |
 | 5.3 - Apoio social | 15 220 800 | 15 220 800 |  |
@@ -2638,10 +2773,10 @@ Programa 6 - Promoção da saúde e economia social
 
 Programação financeira
 
-| Programa/Projeto | Investimento público | Capítulo 50 | Outros fundos |
+| Unidade: euro |  |  |  |
 | --- | --- | --- | --- |
-| Unidade: euro | Unidade: euro | Unidade: euro | Unidade: euro |
-| 6 - Promoção da saúde e economia social | 150 925 030 | 150 925 030 |  |
+| Programa/Projeto | Investimento público | Capítulo 50 | Outros fundos |
+| **6 - Promoção da saúde****e****economia social** | **150 925 030** | **150 925 030** |  |
 | 6.1 - Parcerias público-privadas | 12 000 000 | 12 000 000 |  |
 | 6.2 - Apetrechamento e modernização | 40 532 043 | 40 532 043 |  |
 | 6.3 - Apoios e acordos | 1 700 000 | 1 700 000 |  |
@@ -3186,10 +3321,10 @@ Programa 7 - Economia rural e alimentação
 
 Programação financeira
 
-| Programa/Projeto | Investimento público | Capítulo 50 | Outros fundos |
+| Unidade: euro |  |  |  |
 | --- | --- | --- | --- |
-| Unidade: euro | Unidade: euro | Unidade: euro | Unidade: euro |
-| 7 - Economia rural e alimentação | 148 557 797 | 72 423 439 | 76 134 358 |
+| Programa/Projeto | Investimento público | Capítulo 50 | Outros fundos |
+| **7 - Economia rural****e****alimentação** | **148 557 797** | **72 423 439** | **76 134 358** |
 | 7.1 - Investigação, inovação, capacitação e competitividade | 68 131 317 | 35 735 957 | 32 395 360 |
 | 7.2 - Desenvolvimento sustentável, biodiversidade e alterações climáticas | 44 982 614 | 15 636 949 | 29 345 665 |
 | 7.3 - Infraestruturas públicas de apoio ao setor produtivo | 34 696 831 | 20 303 498 | 14 393 333 |
@@ -3526,10 +3661,10 @@ Programa 8 - Economia do mar
 
 Programação financeira
 
-| Programa/Projeto | Investimento público | Capítulo 50 | Outros fundos |
+| Unidade: euro |  |  |  |
 | --- | --- | --- | --- |
-| Unidade: euro | Unidade: euro | Unidade: euro | Unidade: euro |
-| 8 - Economia do mar | 37 040 576 | 37 040 576 |  |
+| Programa/Projeto | Investimento público | Capítulo 50 | Outros fundos |
+| **8 - Economia do mar** | **37 040 576** | **37 040 576** |  |
 | 8.1 - Controlo, inspeção e gestão | 27 219 877 | 27 219 877 |  |
 | 8.2 - Infraestruturas de apoio às pescas | 2 376 036 | 2 376 036 |  |
 | 8.3 - Frota e recursos humanos | 5 274 593 | 5 274 593 |  |
@@ -3637,10 +3772,10 @@ Programa 9 - Desenvolvimento turístico, mobilidade e infraestruturas
 
 Programação financeira
 
-| Programa/Projeto | Investimento público | Capítulo 50 | Outros fundos |
+| Unidade: euro |  |  |  |
 | --- | --- | --- | --- |
-| Unidade: euro | Unidade: euro | Unidade: euro | Unidade: euro |
-| 9 - Desenvolvimento turístico, mobilidade e infraestruturas | 404 975 263 | 344 534 528 | 60 440 735 |
+| Programa/Projeto | Investimento público | Capítulo 50 | Outros fundos |
+| **9 - Desenvolvimento turístico, mobilidade****e****infraestruturas** | **404 975 263** | **344 534 528** | **60 440 735** |
 | 9.1 - Eficiência energética e energias renováveis | 66 469 673 | 66 469 673 |  |
 | 9.2 - Serviços energéticos | 1 000 000 | 1 000 000 |  |
 | 9.3 - Mobilidade elétrica | 800 000 | 800 000 |  |
@@ -4179,10 +4314,10 @@ Programa 10 - Juventude, habitação e empregabilidade
 
 Programação financeira
 
-| Programa/Projeto | Investimento público | Capítulo 50 | Outros fundos |
+| Unidade: euro |  |  |  |
 | --- | --- | --- | --- |
-| Unidade: euro | Unidade: euro | Unidade: euro | Unidade: euro |
-| 10 - Juventude, habitação e empregabilidade | 150 421 704 | 82 275 308 | 68 146 396 |
+| Programa/Projeto | Investimento público | Capítulo 50 | Outros fundos |
+| **10 - Juventude, habitação****e****empregabilidade** | **150 421 704** | **82 275 308** | **68 146 396** |
 | 10.1 - Juventude | 2 000 000 | 2 000 000 |  |
 | 10.2 - Qualificação profissional e emprego | 79 443 896 | 11 297 500 | 68 146 396 |
 | 10.3 - Apoio ao desenvolvimento das empresas artesanais | 1 000 000 | 1 000 000 |  |
@@ -4298,10 +4433,10 @@ Programa 11 - Sustentabilidade, ação climática e gestão de riscos
 
 Programação financeira
 
-| Programa/Projeto | Investimento público | Capítulo 50 | Outros fundos |
+| Unidade: euro |  |  |  |
 | --- | --- | --- | --- |
-| Unidade: euro | Unidade: euro | Unidade: euro | Unidade: euro |
-| 11 - Sustentabilidade, ação climática e gestão de riscos | 27 640 427 | 27 640 427 |  |
+| Programa/Projeto | Investimento público | Capítulo 50 | Outros fundos |
+| **11 - Sustentabilidade, ação climática****e****gestão de riscos** | **27 640 427** | **27 640 427** |  |
 | 11.1 - Planeamento, inspeção e promoção ambiental | 5 919 259 | 5 919 259 |  |
 | 11.2 - Qualidade ambiental e alterações climáticas | 3 715 536 | 3 715 536 |  |
 | 11.3 - Conservação da natureza e biodiversidade | 2 677 954 | 2 677 954 |  |
@@ -4644,9 +4779,9 @@ Investimento público 2026
 
 Desagregação por objetivo
 
-| Objetivo/Programa/Projeto/Ação | Investimento | Plano | Outros fundos |
+| (em euros) |  |  |  |
 | --- | --- | --- | --- |
-| (em euros) | (em euros) | (em euros) | (em euros) |
+| Objetivo/Programa/Projeto/Ação | Investimento | Plano | Outros fundos |
 | Por uma Região com identidade institucional e cultural | 22 712 376 | 22 712 376 | 0 |
 | 1 - Coesão e representação | 1 200 000 | 1 200 000 | 0 |
 | 1.1.1 (A0004) - Relações com entidades governamentais externas e com outras entidades | 800 000 | 800 000 | 0 |
@@ -5282,9 +5417,9 @@ Desagregação por objetivo
 
 Desagregação por entidade executora
 
-| Entidade Executora/Programa/Projeto/Ação | Investimento | Plano | Outros fundos |
+| (em euros) |  |  |  |
 | --- | --- | --- | --- |
-| (em euros) | (em euros) | (em euros) | (em euros) |
+| Entidade Executora/Programa/Projeto/Ação | Investimento | Plano | Outros fundos |
 | Presidência do Governo Regional | 11 690 352 | 11 690 352 | 0 |
 | 1 - Coesão e representação | 11 690 352 | 11 690 352 | 0 |
 | 1.1.1 (A0004) - Relações com entidades governamentais externas e com outras entidades | 800 000 | 800 000 | 0 |
@@ -5916,9 +6051,9 @@ Desagregação por entidade executora
 
 Desagregação por entidade proponente
 
-| Entidade Proponente/Programa/Projeto/Ação | Investimento | Plano | Outros fundos |
+| (em euros) |  |  |  |
 | --- | --- | --- | --- |
-| (em euros) | (em euros) | (em euros) | (em euros) |
+| Entidade Proponente/Programa/Projeto/Ação | Investimento | Plano | Outros fundos |
 | Presidência do Governo Regional | 11 690 352 | 11 690 352 | 0 |
 | 1 - Coesão e representação | 11 690 352 | 11 690 352 | 0 |
 | 1.1.1 (A0004) - Relações com entidades governamentais externas e com outras entidades | 800 000 | 800 000 | 0 |
@@ -6558,16 +6693,16 @@ Desagregação por entidade proponente
 
 Desagregação espacial
 
-| Objetivo/Programa/Projeto | SMA | SMG | TER | GRA | SJO | PIC | FAI | FLO | COR | NDE | RAA |
+| (em euros) |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| (em euros) | (em euros) | (em euros) | (em euros) | (em euros) | (em euros) | (em euros) | (em euros) | (em euros) | (em euros) | (em euros) | (em euros) |
-| Por uma Região com identidade institucional e cultural | 551 845 | 7 671 394 | 4 867 841 | 209 619 | 359 593 | 763 422 | 1 122 452 | 163 968 | 42 820 | 6 959 422 | 22 712 376 |
-| 1 - Coesão e representação | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 200 000 | 1 200 000 |
+| Objetivo/Programa/Projeto | SMA | SMG | TER | GRA | SJO | PIC | FAI | FLO | COR | NDE | RAA |
+| **Por uma Região com identidade institucional****e****cultural** | **551 845** | **7 671 394** | **4 867 841** | **209 619** | **359 593** | **763 422** | **1 122 452** | **163 968** | **42 820** | **6 959 422** | **22 712 376** |
+| **1 - Coesão****e****representação** | **0** | **0** | **0** | **0** | **0** | **0** | **0** | **0** | **0** | **1 200 000** | **1 200 000** |
 | 1.1 - Coordenação da atividade governativa | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 200 000 | 1 200 000 |
-| 4 - Diáspora e media | 49 972 | 712 755 | 76 796 | 266 | 25 805 | 78 429 | 56 808 | 0 | 0 | 1 000 000 | 2 000 831 |
+| **4 -****Diáspora****e****media** | **49 972** | **712 755** | **76 796** | **266** | **25 805** | **78 429** | **56 808** | **0** | **0** | **1 000 000** | **2 000 831** |
 | 4.1 - Apoio aos media | 49 972 | 712 755 | 76 796 | 266 | 25 805 | 78 429 | 56 808 | 0 | 0 | 785 000 | 1 785 831 |
 | 4.6 - Estudos e Projetos | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 215 000 | 215 000 |
-| 5 - Educação, dinâmica cultural e desporto | 501 873 | 6 958 639 | 4 791 045 | 209 353 | 333 788 | 684 993 | 1 065 644 | 163 968 | 42 820 | 4 759 422 | 19 511 545 |
+| **5 - Educação, dinâmica cultural****e****desporto** | **501 873** | **6 958 639** | **4 791 045** | **209 353** | **333 788** | **684 993** | **1 065 644** | **163 968** | **42 820** | **4 759 422** | **19 511 545** |
 | 5.8 - Dinamização de atividades culturais | 24 684 | 1 643 818 | 607 125 | 31 958 | 53 303 | 115 097 | 66 054 | 14 412 | 9 029 | 1 117 303 | 3 682 783 |
 | 5.9 - Defesa e valorização do património arquitetónico e cultural | 49 368 | 936 489 | 1 412 397 | 39 600 | 0 | 97 559 | 26 780 | 14 169 | 0 | 2 564 961 | 5 141 323 |
 | 5.10 - Desporto, crianças e jovens | 140 000 | 1 751 675 | 776 850 | 39 325 | 81 150 | 222 825 | 193 550 | 55 075 | 6 625 | 106 200 | 3 373 275 |
@@ -6575,11 +6710,11 @@ Desagregação espacial
 | 5.12 - Atividade física | 1 650 | 80 960 | 46 750 | 7 150 | 8 745 | 7 590 | 11 495 | 2 750 | 0 | 200 000 | 367 090 |
 | 5.13 - Instalações desportivas | 25 851 | 725 477 | 382 503 | 4 700 | 65 180 | 26 202 | 173 645 | 10 932 | 7 166 | 326 007 | 1 747 663 |
 | 5.14 - Iniciativas transversais às diferentes áreas do desporto | 120 | 120 | 120 | 120 | 120 | 120 | 120 | 120 | 0 | 85 951 | 86 911 |
-| Por uma Região solidária e capaz de vencer os desafios societais | 9 179 320 | 105 517 782 | 67 009 120 | 7 314 307 | 13 823 786 | 24 099 847 | 23 146 637 | 8 220 075 | 2 360 834 | 16 200 767 | 276 872 475 |
-| 3 - Finanças, planeamento e competitividade | 199 744 | 2 017 347 | 1 214 271 | 194 761 | 426 657 | 576 188 | 579 418 | 223 096 | 105 048 | 5 780 282 | 11 316 812 |
+| **Por uma Região solidária****e****capaz de vencer os desafios societais** | **9 179 320** | **105 517 782** | **67 009 120** | **7 314 307** | **13 823 786** | **24 099 847** | **23 146 637** | **8 220 075** | **2 360 834** | **16 200 767** | **276 872 475** |
+| **3 - Finanças, planeamento****e****competitividade** | **199 744** | **2 017 347** | **1 214 271** | **194 761** | **426 657** | **576 188** | **579 418** | **223 096** | **105 048** | **5 780 282** | **11 316 812** |
 | 3.3 - Modernização e reestruturação da administração pública regional | 180 744 | 1 566 447 | 843 471 | 160 661 | 281 157 | 361 488 | 441 818 | 120 496 | 60 248 | 5 300 282 | 9 316 812 |
 | 3.5 - Planeamento e finanças | 19 000 | 450 900 | 370 800 | 34 100 | 145 500 | 214 700 | 137 600 | 102 600 | 44 800 | 480 000 | 2 000 000 |
-| 5 - Educação, dinâmica cultural e desporto | 467 104 | 12 266 562 | 11 380 348 | 587 246 | 1 058 092 | 1 581 040 | 1 981 744 | 550 625 | 136 487 | 16 000 | 30 025 248 |
+| **5 - Educação, dinâmica cultural****e****desporto** | **467 104** | **12 266 562** | **11 380 348** | **587 246** | **1 058 092** | **1 581 040** | **1 981 744** | **550 625** | **136 487** | **16 000** | **30 025 248** |
 | 5.1 - Construções escolares | 4 000 | 86 070 | 563 621 | 6 000 | 16 200 | 14 109 | 6 000 | 6 000 | 3 000 | 0 | 705 000 |
 | 5.2 - Equipamentos escolares | 6 000 | 133 000 | 2 271 027 | 5 000 | 16 000 | 17 000 | 14 000 | 5 000 | 3 000 | 0 | 2 470 027 |
 | 5.3 - Apoio social | 234 200 | 7 071 600 | 4 274 649 | 366 824 | 576 393 | 1 059 756 | 1 210 927 | 382 503 | 42 948 | 1 000 | 15 220 800 |
@@ -6587,7 +6722,7 @@ Desagregação espacial
 | 5.5 - Escolas digitais | 216 257 | 1 874 231 | 1 009 201 | 192 229 | 336 400 | 432 515 | 528 630 | 144 172 | 72 086 | 0 | 4 805 721 |
 | 5.6 - Projetos pedagógicos | 6 647 | 361 411 | 1 993 850 | 9 493 | 8 099 | 30 260 | 54 337 | 0 | 5 903 | 15 000 | 2 485 000 |
 | 5.7 - Atividade física desportiva | 0 | 0 | 150 000 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 150 000 |
-| 6 - Promoção da saúde e economia social | 4 528 639 | 56 882 974 | 37 500 754 | 4 136 013 | 7 536 762 | 14 012 279 | 12 652 785 | 3 498 259 | 1 320 380 | 8 856 185 | 150 925 030 |
+| **6 - Promoção da saúde****e****economia social** | **4 528 639** | **56 882 974** | **37 500 754** | **4 136 013** | **7 536 762** | **14 012 279** | **12 652 785** | **3 498 259** | **1 320 380** | **8 856 185** | **150 925 030** |
 | 6.1 - Parcerias público-privadas | 0 | 0 | 12 000 000 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 12 000 000 |
 | 6.2 - Apetrechamento e modernização | 1 373 142 | 20 133 897 | 7 041 329 | 1 231 682 | 2 080 443 | 2 946 284 | 4 012 125 | 1 038 761 | 524 380 | 150 000 | 40 532 043 |
 | 6.3 - Apoios e acordos | 0 | 0 | 1 500 000 | 0 | 0 | 0 | 0 | 0 | 0 | 200 000 | 1 700 000 |
@@ -6601,14 +6736,14 @@ Desagregação espacial
 | 6.11 - Apoio aos públicos com necessidades especiais | 967 500 | 3 935 000 | 1 315 000 | 60 000 | 105 000 | 435 000 | 315 000 | 445 000 | 22 500 | 50 000 | 7 650 000 |
 | 6.12 - Apoio a idosos | 63 000 | 7 203 000 | 1 099 000 | 1 056 000 | 173 000 | 6 626 000 | 209 000 | 42 000 | 21 000 | 75 000 | 16 567 000 |
 | 6.13 - Igualdade de oportunidades, inclusão social e combate à pobreza | 1 398 747 | 12 122 477 | 6 639 988 | 1 243 331 | 2 175 829 | 2 797 495 | 3 419 160 | 932 498 | 466 250 | 4 318 184 | 35 513 959 |
-| 10 - Juventude, habitação e empregabilidade | 3 983 833 | 34 350 899 | 16 913 747 | 2 396 287 | 4 802 275 | 7 930 340 | 7 932 690 | 3 948 095 | 798 919 | 1 548 300 | 84 605 385 |
+| **10 - Juventude, habitação****e****empregabilidade** | **3 983 833** | **34 350 899** | **16 913 747** | **2 396 287** | **4 802 275** | **7 930 340** | **7 932 690** | **3 948 095** | **798 919** | **1 548 300** | **84 605 385** |
 | 10.1 - Juventude | 42 050 | 675 750 | 357 950 | 38 170 | 54 750 | 69 950 | 72 300 | 17 900 | 12 880 | 658 300 | 2 000 000 |
 | 10.2 - Qualificação profissional e emprego | 3 930 195 | 31 691 558 | 15 720 779 | 2 358 117 | 4 716 233 | 7 860 390 | 7 860 390 | 3 930 195 | 786 039 | 590 000 | 79 443 896 |
 | 10.4 - Apoio ao Consumidor | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 160 000 | 160 000 |
 | 10.5 - Adequação dos Serviços e Ações de Divulgação | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 140 000 | 140 000 |
 | 10.6 - Habitação | 11 588 | 1 983 591 | 835 018 | 0 | 31 292 | 0 | 0 | 0 | 0 | 0 | 2 861 489 |
-| Por uma Região resiliente, próspera e competitiva | 16 894 093 | 215 615 290 | 69 228 175 | 8 183 283 | 23 837 761 | 29 980 477 | 47 463 473 | 4 911 489 | 2 116 635 | 12 791 603 | 431 022 279 |
-| 2 - Relações externas, ciência e comunicações | 409 664 | 6 806 924 | 3 396 693 | 364 313 | 640 922 | 844 829 | 1 729 735 | 278 610 | 137 555 | 4 080 011 | 18 689 256 |
+| **Por uma Região resiliente, próspera****e****competitiva** | **16 894 093** | **215 615 290** | **69 228 175** | **8 183 283** | **23 837 761** | **29 980 477** | **47 463 473** | **4 911 489** | **2 116 635** | **12 791 603** | **431 022 279** |
+| **2 - Relações externas, ciência****e****comunicações** | **409 664** | **6 806 924** | **3 396 693** | **364 313** | **640 922** | **844 829** | **1 729 735** | **278 610** | **137 555** | **4 080 011** | **18 689 256** |
 | 2.3 - Sistemas de informação e infraestruturas de suporte | 261 450 | 2 265 900 | 1 220 100 | 232 400 | 406 700 | 522 900 | 639 100 | 174 300 | 87 150 | 1 195 400 | 7 005 400 |
 | 2.4 - Cibersegurança e segurança da informação | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 245 700 | 245 700 |
 | 2.5 - Transição Digital | 146 714 | 1 271 524 | 684 667 | 130 413 | 228 222 | 293 429 | 358 635 | 97 810 | 48 905 | 1 348 400 | 4 608 719 |
@@ -6616,15 +6751,15 @@ Desagregação espacial
 | 2.8 - Apoiar e Dinamizar a Comunidade Regional de Ciência, Investigação e Inovação | 1 500 | 1 433 000 | 838 500 | 1 500 | 6 000 | 28 500 | 181 500 | 1 500 | 1 500 | 396 000 | 2 889 500 |
 | 2.9 - Alavancar o Desenvolvimento Regional com base na RIS3, em projetos europeus de I&I e em Fundos Comunitários | 0 | 1 232 500 | 283 426 | 0 | 0 | 0 | 197 500 | 0 | 0 | 25 000 | 1 738 426 |
 | 2.10 - Reforçar a formação avançada e incentivar o desenvolvimento tripolar e digital da Universidade dos Açores | 0 | 604 000 | 370 000 | 0 | 0 | 0 | 353 000 | 5 000 | 0 | 320 000 | 1 652 000 |
-| 3 - Finanças, planeamento e competitividade | 12 057 666 | 73 219 772 | 36 856 008 | 4 664 592 | 12 783 036 | 19 915 332 | 24 727 628 | 1 998 444 | 999 222 | 74 950 | 187 296 650 |
+| **3 - Finanças, planeamento****e****competitividade** | **12 057 666** | **73 219 772** | **36 856 008** | **4 664 592** | **12 783 036** | **19 915 332** | **24 727 628** | **1 998 444** | **999 222** | **74 950** | **187 296 650** |
 | 3.1 - Competitividade empresarial | 9 801 966 | 69 870 372 | 35 622 508 | 4 526 192 | 12 540 836 | 19 603 932 | 24 347 028 | 1 894 644 | 947 322 | 0 | 179 154 800 |
 | 3.4 - Estatística | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 74 950 | 74 950 |
 | 3.5 - Planeamento e finanças | 2 255 700 | 3 349 400 | 1 233 500 | 138 400 | 242 200 | 311 400 | 380 600 | 103 800 | 51 900 | 0 | 8 066 900 |
-| 7 - Economia rural e alimentação | 0 | 0 | 5 000 | 0 | 0 | 0 | 0 | 0 | 0 | 225 000 | 230 000 |
+| **7 - Economia rural****e****alimentação** | **0** | **0** | **5 000** | **0** | **0** | **0** | **0** | **0** | **0** | **225 000** | **230 000** |
 | 7.1 - Investigação, inovação, capacitação e competitividade | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 10 000 | 10 000 |
 | 7.2 - Desenvolvimento sustentável, biodiversidade e alterações climáticas | 0 | 0 | 5 000 | 0 | 0 | 0 | 0 | 0 | 0 | 214 000 | 219 000 |
 | 7.4 - Ordenamento e gestão do território | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 000 | 1 000 |
-| 9 - Desenvolvimento turístico, mobilidade e infraestruturas | 4 376 763 | 135 388 594 | 28 870 474 | 3 116 378 | 10 336 803 | 9 175 316 | 20 976 110 | 2 614 435 | 974 858 | 7 976 642 | 223 806 373 |
+| **9 - Desenvolvimento turístico, mobilidade****e****infraestruturas** | **4 376 763** | **135 388 594** | **28 870 474** | **3 116 378** | **10 336 803** | **9 175 316** | **20 976 110** | **2 614 435** | **974 858** | **7 976 642** | **223 806 373** |
 | 9.1 - Eficiência energética e energias renováveis | 2 924 766 | 26 444 100 | 14 004 432 | 2 590 698 | 4 549 119 | 5 888 412 | 7 163 650 | 1 947 558 | 956 938 | 0 | 66 469 673 |
 | 9.2 - Serviços energéticos | 22 877 | 563 642 | 225 267 | 17 304 | 35 414 | 58 714 | 60 662 | 14 489 | 1 631 | 0 | 1 000 000 |
 | 9.3 - Mobilidade elétrica | 18 302 | 450 914 | 180 214 | 13 843 | 28 331 | 46 971 | 48 529 | 11 592 | 1 304 | 0 | 800 000 |
@@ -6653,18 +6788,18 @@ Desagregação espacial
 | 9.30 - SRAA - Infraestruturas públicas de apoio ao setor produtivo | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 500 000 | 0 | 283 393 | 783 393 |
 | 9.34 - SRECD - Defesa e valorização do património arquitetónico e cultural | 0 | 0 | 0 | 0 | 0 | 0 | 29 850 | 0 | 0 | 0 | 29 850 |
 | 9.39 - SRJHE - Infraestruturas de apoio à qualificação profissional | 0 | 7 733 391 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 7 733 391 |
-| 10 - Juventude, habitação e empregabilidade | 50 000 | 200 000 | 100 000 | 38 000 | 77 000 | 45 000 | 30 000 | 20 000 | 5 000 | 435 000 | 1 000 000 |
+| **10 - Juventude, habitação****e****empregabilidade** | **50 000** | **200 000** | **100 000** | **38 000** | **77 000** | **45 000** | **30 000** | **20 000** | **5 000** | **435 000** | **1 000 000** |
 | 10.3 - Apoio ao desenvolvimento das empresas artesanais | 50 000 | 200 000 | 100 000 | 38 000 | 77 000 | 45 000 | 30 000 | 20 000 | 5 000 | 435 000 | 1 000 000 |
-| Por uma Região sustentável e coesa territorialmente | 12 794 461 | 117 695 665 | 83 699 821 | 16 396 454 | 28 351 973 | 41 314 592 | 47 892 261 | 56 520 754 | 4 242 613 | 59 916 733 | 468 825 236 |
-| 1 - Coesão e representação | 443 482 | 3 843 508 | 2 069 581 | 394 205 | 689 861 | 886 963 | 1 084 066 | 295 654 | 147 827 | 635 205 | 10 490 352 |
+| **Por uma Região sustentável****e****coesa territorialmente** | **12 794 461** | **117 695 665** | **83 699 821** | **16 396 454** | **28 351 973** | **41 314 592** | **47 892 261** | **56 520 754** | **4 242 613** | **59 916 733** | **468 825 236** |
+| **1 - Coesão****e****representação** | **443 482** | **3 843 508** | **2 069 581** | **394 205** | **689 861** | **886 963** | **1 084 066** | **295 654** | **147 827** | **635 205** | **10 490 352** |
 | 1.2 - Cooperação com os Municípios | 53 385 | 462 671 | 249 130 | 47 453 | 83 044 | 106 770 | 130 497 | 35 590 | 17 795 | 28 430 | 1 214 765 |
 | 1.3 - Cooperação com as Freguesias | 390 097 | 3 380 837 | 1 820 451 | 346 752 | 606 817 | 780 193 | 953 569 | 260 064 | 130 032 | 606 775 | 9 275 587 |
-| 7 - Economia rural e alimentação | 4 362 176 | 42 996 058 | 29 927 180 | 3 820 489 | 16 830 327 | 19 812 275 | 6 843 607 | 3 113 219 | 1 277 650 | 18 685 782 | 147 668 762 |
+| **7 - Economia rural****e****alimentação** | **4 362 176** | **42 996 058** | **29 927 180** | **3 820 489** | **16 830 327** | **19 812 275** | **6 843 607** | **3 113 219** | **1 277 650** | **18 685 782** | **147 668 762** |
 | 7.1 - Investigação, inovação, capacitação e competitividade | 3 002 266 | 24 103 264 | 20 091 561 | 1 576 917 | 4 033 691 | 7 612 970 | 3 913 743 | 1 724 576 | 558 445 | 1 503 882 | 68 121 317 |
 | 7.2 - Desenvolvimento sustentável, biodiversidade e alterações climáticas | 1 288 935 | 15 049 344 | 8 833 079 | 1 336 801 | 2 953 732 | 5 077 011 | 2 733 392 | 1 276 563 | 636 785 | 5 576 973 | 44 762 614 |
 | 7.3 - Infraestruturas públicas de apoio ao setor produtivo | 70 975 | 3 843 450 | 1 002 539 | 906 772 | 9 842 903 | 7 122 294 | 196 471 | 112 080 | 82 420 | 11 516 927 | 34 696 831 |
 | 7.4 - Ordenamento e gestão do território | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 88 000 | 88 000 |
-| 8 - Economia do mar | 47 700 | 302 719 | 86 800 | 53 608 | 52 000 | 27 500 | 27 829 248 | 27 952 | 25 000 | 8 588 049 | 37 040 576 |
+| **8 -****Economia do mar** | **47 700** | **302 719** | **86 800** | **53 608** | **52 000** | **27 500** | **27 829 248** | **27 952** | **25 000** | **8 588 049** | **37 040 576** |
 | 8.1 - Controlo, inspeção e gestão | 0 | 0 | 0 | 0 | 0 | 0 | 27 138 172 | 0 | 0 | 81 705 | 27 219 877 |
 | 8.2 - Infraestruturas de apoio às pescas | 2 700 | 123 126 | 36 800 | 28 608 | 2 000 | 2 500 | 5 350 | 2 952 | 0 | 2 172 000 | 2 376 036 |
 | 8.3 - Frota e recursos humanos | 0 | 4 593 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5 270 000 | 5 274 593 |
@@ -6673,7 +6808,7 @@ Desagregação espacial
 | 8.6 - Monitorização, promoção, fiscalização e ação ambiental marinha | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 346 813 | 346 813 |
 | 8.7 - Escola do Mar dos Açores | 0 | 0 | 0 | 0 | 0 | 0 | 220 000 | 0 | 0 | 0 | 220 000 |
 | 8.9 - Gestão e requalificação da orla costeira | 20 000 | 0 | 0 | 0 | 0 | 0 | 9 000 | 0 | 0 | 77 178 | 106 178 |
-| 9 - Desenvolvimento turístico, mobilidade e infraestruturas | 6 960 846 | 34 270 663 | 23 008 014 | 10 426 186 | 9 411 793 | 17 126 488 | 11 024 290 | 52 555 349 | 2 647 691 | 13 737 570 | 181 168 890 |
+| **9 - Desenvolvimento turístico, mobilidade****e****infraestruturas** | **6 960 846** | **34 270 663** | **23 008 014** | **10 426 186** | **9 411 793** | **17 126 488** | **11 024 290** | **52 555 349** | **2 647 691** | **13 737 570** | **181 168 890** |
 | 9.5 - Promoção e desenvolvimento turístico | 368 846 | 3 196 663 | 1 721 280 | 327 863 | 573 760 | 737 692 | 901 623 | 245 897 | 122 949 | 676 500 | 8 873 073 |
 | 9.6 - Sustentabilidade do destino turístico | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 887 925 | 887 925 |
 | 9.7 - Qualificação do destino | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 944 980 | 1 944 980 |
@@ -6684,9 +6819,9 @@ Desagregação espacial
 | 9.12 - Coesão territorial - Transportes | 3 000 000 | 0 | 0 | 4 000 000 | 1 200 000 | 500 000 | 700 000 | 200 000 | 400 000 | 0 | 10 000 000 |
 | 9.13 - Recuperação dos efeitos da intempérie Lorenzo - Infraestruturas portuárias e de mercadorias | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 48 000 000 | 0 | 1 451 177 | 49 451 177 |
 | 9.20 - Transporte terrestre e segurança rodoviária | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 7 699 246 | 7 699 246 |
-| 10 - Juventude, habitação e empregabilidade | 261 455 | 32 492 149 | 26 804 620 | 1 371 177 | 786 162 | 618 556 | 228 625 | 230 630 | 22 945 | 2 000 000 | 64 816 319 |
+| **10 - Juventude, habitação****e****empregabilidade** | **261 455** | **32 492 149** | **26 804 620** | **1 371 177** | **786 162** | **618 556** | **228 625** | **230 630** | **22 945** | **2 000 000** | **64 816 319** |
 | 10.6 - Habitação | 261 455 | 32 492 149 | 26 804 620 | 1 371 177 | 786 162 | 618 556 | 228 625 | 230 630 | 22 945 | 2 000 000 | 64 816 319 |
-| 11 - Sustentabilidade, ação climática e gestão de riscos | 718 802 | 3 790 568 | 1 803 626 | 330 789 | 581 830 | 2 842 810 | 882 425 | 297 950 | 121 500 | 16 270 127 | 27 640 427 |
+| **11 - Sustentabilidade, ação climática****e****gestão de riscos** | **718 802** | **3 790 568** | **1 803 626** | **330 789** | **581 830** | **2 842 810** | **882 425** | **297 950** | **121 500** | **16 270 127** | **27 640 427** |
 | 11.1 - Planeamento, inspeção e promoção ambiental | 342 302 | 842 501 | 228 626 | 30 789 | 56 830 | 307 810 | 57 325 | 72 950 | 9 000 | 3 971 126 | 5 919 259 |
 | 11.2 - Qualidade ambiental e alterações climáticas | 39 000 | 23 067 | 0 | 0 | 0 | 0 | 100 | 0 | 0 | 3 653 369 | 3 715 536 |
 | 11.3 - Conservação da natureza e biodiversidade | 0 | 0 | 0 | 0 | 0 | 1 860 000 | 0 | 0 | 0 | 817 954 | 2 677 954 |
@@ -6696,17 +6831,21 @@ Desagregação espacial
 | 11.7 - Protocolos e apoios | 337 500 | 2 925 000 | 1 575 000 | 300 000 | 525 000 | 675 000 | 825 000 | 225 000 | 112 500 | 2 235 640 | 9 735 640 |
 | 11.8 - Formação | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 285 000 | 285 000 |
 | 11.9 - Gestão de Riscos, Cartografia e Cadastro | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 852 304 | 852 304 |
-| Por uma Região prestigiada na Europa e no mundo | 772 495 | 205 801 | 4 292 036 | 26 361 | 65 904 | 92 265 | 52 723 | 32 952 | 19 771 | 1 610 096 | 7 170 403 |
-| 2 - Relações externas, ciência e comunicações | 0 | 0 | 4 180 000 | 0 | 0 | 0 | 0 | 0 | 0 | 982 096 | 5 162 096 |
+| **Por uma Região prestigiada na Europa****e****no mundo** | **772 495** | **205 801** | **4 292 036** | **26 361** | **65 904** | **92 265** | **52 723** | **32 952** | **19 771** | **1 610 096** | **7 170 403** |
+| **2 - Relações externas, ciência****e****comunicações** | **0** | **0** | **4 180 000** | **0** | **0** | **0** | **0** | **0** | **0** | **982 096** | **5 162 096** |
 | 2.1 - Relações com o Atlântico e territórios de interesse estratégico para os Açores | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 266 696 | 266 696 |
 | 2.2 - Os Açores no Espaço Europeu | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 305 400 | 305 400 |
 | 2.6 - Aeroporto das Lajes | 0 | 0 | 4 180 000 | 0 | 0 | 0 | 0 | 0 | 0 | 150 000 | 4 330 000 |
 | 2.7 - Cooperação Institucional | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 260 000 | 260 000 |
-| 4 - Diáspora e media | 719 772 | 1 500 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 628 000 | 1 349 272 |
+| **4 - Diáspora****e****media** | **719 772** | **1 500** | **0** | **0** | **0** | **0** | **0** | **0** | **0** | **628 000** | **1 349 272** |
 | 4.2 - Emigrado e Regressado | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 101 794 | 101 794 |
 | 4.3 - Identidade cultural e Açorianidade | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 416 712 | 416 712 |
 | 4.4 - Imigrado e interculturalidade | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 81 494 | 81 494 |
 | 4.5 - Iniciativas, projetos e infraestruturas de base tecnológica | 719 772 | 1 500 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 28 000 | 749 272 |
-| 7 - Economia rural e alimentação | 52 723 | 204 301 | 112 036 | 26 361 | 65 904 | 92 265 | 52 723 | 32 952 | 19 771 | 0 | 659 035 |
+| **7 - Economia rural****e****alimentação** | **52 723** | **204 301** | **112 036** | **26 361** | **65 904** | **92 265** | **52 723** | **32 952** | **19 771** | **0** | **659 035** |
 | 7.5 - Gestão e promoção da «Marca Açores» | 52 723 | 204 301 | 112 036 | 26 361 | 65 904 | 92 265 | 52 723 | 32 952 | 19 771 | 0 | 659 035 |
-| Total geral | 40 192 214 | 446 705 932 | 229 096 992 | 32 130 025 | 66 439 017 | 96 250 603 | 119 677 545 | 69 849 238 | 8 782 673 | 97 478 621 | 1 206 602 859 |
+| **Total geral** | **40 192 214** | **446 705 932** | **229 096 992** | **32 130 025** | **66 439 017** | **96 250 603** | **119 677 545** | **69 849 238** | **8 782 673** | **97 478 621** | **1 206 602 859** |
+
+119947282
+
+.Tbl1 { border-collapse:collapse; border-width:1px; border-color:rgb(0,32,96); } .Tbl2 { min-height:21px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:17px; } .Tbl6 { min-height:26px; } .Tbl7 { min-height:18px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(217,217,217); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(217,217,217); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(217,217,217); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(48,56,128); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(48,56,128); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(48,56,128); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(217,217,217); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl18 { min-height:28px; } .Tbl19 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(217,217,217); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(217,217,217); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl21 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl22 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl23 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(48,56,128); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl24 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(48,56,128); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl25 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl26 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(48,56,128); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl27 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(48,56,128); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl28 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl29 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl30 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl31 { min-height:47px; } .Tbl32 { min-height:43px; } .Tbl33 { margin-top:0px; text-align:center; } .Tbl34 { min-height:20px; } .Tbl35 { border-collapse:collapse; border-width:1px; border-color:rgb(0,0,0); } .Tbl36 { min-height:35px; } .Tbl37 { min-height:37px; } .Tbl38 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl39 { min-height:19px; } .Tbl40 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl41 { min-height:27px; } .Tbl42 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl43 { min-height:57px; } .Tbl44 { text-align:right; } .Tbl45 { margin-left:85px; } .Tbl46 { min-height:15px; } .Tbl47 { margin-left:125px; } .Tbl48 { min-height:29px; } .Tbl49 { text-align:justify; text-align-last:justify; } .Tbl50 { min-height:38px; } .Tbl51 { min-height:39px; } .Tbl52 { min-height:11px; } .Tbl53 { min-height:45px; } .Tbl54 { min-height:36px; } .Tbl55 { margin-left:60px; }

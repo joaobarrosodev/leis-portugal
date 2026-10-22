@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/125/2026/06/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/125-2026-1133485782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-17T00:00:00Z'
+  retrieved_at: '2026-10-22T18:44:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 954f5673ed533b3b0e78781c0e912e90e0cb680d1ea25bd695783ca19fd9f185
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 509b5da7464fb8240d93718bed9d76cfb7ce2f3600b437bda9704d4b30fd2114
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:44:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Definição de Competências
-- Estratégia Nacional de Conservação da Natureza e da Biodiversidade
-- Fundos CE
-- Instituto da Conservação da Natureza e das Florestas
-- Proteção do Ambiente
-- Diversidade Biológica
-- Gestão do Ambiente
-- Política do Ambiente
-- Recursos Naturais
 - Agência para a Gestão Integrada de Fogos Rurais
 - Agência Portuguesa do Ambiente
+- Definição de Competências
+- Diversidade Biológica
+- Estratégia Nacional de Conservação da Natureza e da Biodiversidade
+- Financiamento
+- Fundos CE
+- Gestão do Ambiente
+- Instituto da Conservação da Natureza e das Florestas
+- Política do Ambiente
+- Proteção do Ambiente
+- Recursos Naturais
 relationships:
 - type: cites
   target: celex:31992L0043
@@ -138,16 +138,106 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/55/2018/05/07/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/55/2018/05/07/p/dre
+- type: cites
+  target: pt:dre:105658706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114164014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115226936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123895436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136476384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148444002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162940682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224366836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67552498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69968133:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73807563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75150234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:908074086:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:resolucao-conselho-ministros:55/2018
+  label: Revoga, a partir de 22 de junho de 2026, os n.ºs 1 e 3 da Resolução do Conselho de Ministros n.º 55/2018, de 7 de
+    maio, Diário da República n.º 87/2018, Série I
+  source: null
+  date: '2018-05-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:44:06Z'
   warnings: []
   errors: []
 ---
@@ -198,7 +288,7 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Minis
 
 4 - Estabelecer que a assunção dos compromissos e encargos para a execução das medidas e iniciativas que decorrem do anexo a que se refere o n.º 1 depende da existência de dotação disponível por parte das entidades públicas competentes.
 
-5 - Revogar os n.<sup>os</sup>1 e 3 da [Resolução do Conselho de Ministros n.º 55/2018](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/55-2018-115226936), de 7 de maio.
+5 - Revogar os n.os1 e 3 da [Resolução do Conselho de Ministros n.º 55/2018](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/55-2018-115226936), de 7 de maio.
 
 Presidência do Conselho de Ministros, 30 de abril de 2026. - O Primeiro-Ministro, Luís Montenegro.
 
@@ -220,7 +310,7 @@ Portugal é reconhecidamente um país rico no que toca ao seu património natura
 
 Apresenta cerca de 21 % da sua área territorial terrestre integrada na Rede Natura 2000 (média UE-27: 18 %);
 
-Possui cerca de 18 000 km² que estão classificados como Sítio de Importância Comunitária (Diretiva Habitats) e cerca de 9 % do território continental delimitado como Zona de Proteção Especial (Diretiva Aves). A este valor acrescerão as áreas marinhas de especial valor para a conservação da natureza, que, no futuro, representarão cerca de 23 000 km<sup>2</sup>;
+Possui cerca de 18 000 km² que estão classificados como Sítio de Importância Comunitária (Diretiva Habitats) e cerca de 9 % do território continental delimitado como Zona de Proteção Especial (Diretiva Aves). A este valor acrescerão as áreas marinhas de especial valor para a conservação da natureza, que, no futuro, representarão cerca de 23 000 km2;
 
 Apresenta 381 geossítios identificados e classificados, de valor científico de relevância nacional e internacional, bem como seis Geoparques Mundiais da UNESCO e quatro Sítios de Património Geológico da União Internacional de Ciências Geológicas (IUGS), revelando a sua riqueza em termos de património geológico.
 
@@ -314,7 +404,7 @@ A responsabilidade pela manutenção do adequado estado de conservação dos hab
 
 1.3.2 - O conhecimento
 
-# Parte primordial de uma estratégia bem-sucedida para intervir numa dada área advém do domínio do conhecimento que dela se tem. O conhecimento é, assim, indispensável, ao ser ele que permite proceder à sua caracterização, determinar o propósito a atingir, avaliar e intervir, gizando para o efeito uma estratégia de ação.
+Parte primordial de uma estratégia bem-sucedida para intervir numa dada área advém do domínio do conhecimento que dela se tem. O conhecimento é, assim, indispensável, ao ser ele que permite proceder à sua caracterização, determinar o propósito a atingir, avaliar e intervir, gizando para o efeito uma estratégia de ação.
 
 Conforme o relatório Estado da Conservação da Natureza na UE 2019-2024 (EEA, 2024), o nível atual de conhecimento sobre o património natural ainda apresenta lacunas significativas que afetam a tomada de decisão. Portugal atualizou em 2022 o seu quadro de referência de caracterização dos habitats, mas os instrumentos de monitorização sistemática ainda requerem desenvolvimento, conforme estabelecido pela Lei do Restauro da Natureza.
 
@@ -695,51 +785,51 @@ Relação dos eixos estratégicos da ENCNB 2030 (revista) com as metas da Estrat
 | Eixos | Objetivos/metas |
 | --- | --- |
 | Eixo 1 - Conservação e Restauro de Ecossistemas | Restauro de 25 000 km de rios em toda a UE |
-| Eixo 1 - Conservação e Restauro de Ecossistemas | Proteção de 30 % das áreas terrestres e marítimas da UE |
-| Eixo 1 - Conservação e Restauro de Ecossistemas | 10 % de proteção estrita nas áreas protegidas |
-| Eixo 1 - Conservação e Restauro de Ecossistemas | Criação de indicadores para avaliar o estado dos habitats e espécies |
-| Eixo 1 - Conservação e Restauro de Ecossistemas | Redução em 50 % do uso de pesticidas químicos e perigosos |
-| Eixo 1 - Conservação e Restauro de Ecossistemas | Controlo e gestão de espécies invasoras em áreas prioritárias |
+| Proteção de 30 % das áreas terrestres e marítimas da UE |  |
+| 10 % de proteção estrita nas áreas protegidas |  |
+| Criação de indicadores para avaliar o estado dos habitats e espécies |  |
+| Redução em 50 % do uso de pesticidas químicos e perigosos |  |
+| Controlo e gestão de espécies invasoras em áreas prioritárias |  |
 | Eixo 2 - Gestão Integrada e Sustentável do Território | Integração da Lei do Restauro da Natureza nos instrumentos de ordenamento |
-| Eixo 2 - Gestão Integrada e Sustentável do Território | Integração da biodiversidade nas políticas setoriais e de energia |
-| Eixo 2 - Gestão Integrada e Sustentável do Território | Redução da exploração insustentável de recursos naturais |
-| Eixo 2 - Gestão Integrada e Sustentável do Território | Criação de redes coerentes de áreas protegidas interligadas |
-| Eixo 2 - Gestão Integrada e Sustentável do Território | Promoção de corredores ecológicos urbanos e rurais |
+| Integração da biodiversidade nas políticas setoriais e de energia |  |
+| Redução da exploração insustentável de recursos naturais |  |
+| Criação de redes coerentes de áreas protegidas interligadas |  |
+| Promoção de corredores ecológicos urbanos e rurais |  |
 | Eixo 3 - Valorização Económica e Social da Biodiversidade e da Geodiversidade | Estabelecimento de mecanismos de pagamentos por serviços dos ecossistemas |
-| Eixo 3 - Valorização Económica e Social da Biodiversidade e da Geodiversidade | Alocação de 20 mil milhões de euros anuais na UE para conservação |
-| Eixo 3 - Valorização Económica e Social da Biodiversidade e da Geodiversidade | Estudo/avaliação da criação de incentivos para práticas económicas sustentáveis |
-| Eixo 3 - Valorização Económica e Social da Biodiversidade e da Geodiversidade | Compensação por serviços ambientais prestados por agricultores e gestores |
-| Eixo 3 - Valorização Económica e Social da Biodiversidade e da Geodiversidade | Promoção de novos empregos no setor da bioeconomia e conservação |
+| Alocação de 20 mil milhões de euros anuais na UE para conservação |  |
+| Estudo/avaliação da criação de incentivos para práticas económicas sustentáveis |  |
+| Compensação por serviços ambientais prestados por agricultores e gestores |  |
+| Promoção de novos empregos no setor da bioeconomia e conservação |  |
 | Eixo 4 - Governança e Conhecimento | Fortalecimento dos sistemas de monitorização e relatórios periódicos |
-| Eixo 4 - Governança e Conhecimento | Investimento em tecnologias verdes e inovação para conservação |
-| Eixo 4 - Governança e Conhecimento | Capacitação de autoridades locais e nacionais para implementar a Estratégia |
-| Eixo 4 - Governança e Conhecimento | Reforço da cooperação entre Estados-Membros da UE |
-| Eixo 4 - Governança e Conhecimento | Desenvolvimento de campanhas de educação ambiental |
+| Investimento em tecnologias verdes e inovação para conservação |  |
+| Capacitação de autoridades locais e nacionais para implementar a Estratégia |  |
+| Reforço da cooperação entre Estados-Membros da UE |  |
+| Desenvolvimento de campanhas de educação ambiental |  |
 
 Relação dos eixos estratégicos da ENCNB 2030 (revista) com as metas pertinentes do Quadro Global de Biodiversidade Kunming-Montreal
 
 | Eixos | Objetivo/âmbito | Metas |
 | --- | --- | --- |
 | Eixo 1 - Conservação e Restauro de Ecossistema | Gestão e restauro de habitats e espécies | Restauro de 30 % dos ecossistemas degradados |
-| Eixo 1 - Conservação e Restauro de Ecossistema | Monitorização do estado de conservação | Monitorização contínua e criação de indicadores robustos |
-| Eixo 1 - Conservação e Restauro de Ecossistema | Gestão adaptativa face às alterações climáticas | Integração da resiliência climática nos ecossistemas protegidos |
-| Eixo 1 - Conservação e Restauro de Ecossistema | Controlo de espécies invasoras | Controlo de espécies invasoras em áreas prioritárias |
+| Monitorização do estado de conservação | Monitorização contínua e criação de indicadores robustos |  |
+| Gestão adaptativa face às alterações climáticas | Integração da resiliência climática nos ecossistemas protegidos |  |
+| Controlo de espécies invasoras | Controlo de espécies invasoras em áreas prioritárias |  |
 | Eixo 2 - Gestão Integrada e Sustentável do Território | Ordenamento do espaço marítimo e terrestre | Integração da biodiversidade nos instrumentos |
-| Eixo 2 - Gestão Integrada e Sustentável do Território | Proteção e recuperação de áreas classificadas | Proteção de 30 % das áreas terrestres e marítimas |
-| Eixo 2 - Gestão Integrada e Sustentável do Território | Integração da biodiversidade nas políticas setoriais | Incorporação da biodiversidade em setores como agricultura e energia |
-| Eixo 2 - Gestão Integrada e Sustentável do Território | Gestão sustentável de recursos naturais | Gestão sustentável de recursos como água e solo |
-| Eixo 2 - Gestão Integrada e Sustentável do Território | Coerência territorial da Rede Fundamental de Conservação da Natureza | Conexão de áreas protegidas através de corredores ecológicos |
-| Eixo 2 - Gestão Integrada e Sustentável do Território | Conectividade ecológica | Criação de infraestruturas verdes urbanas e rurais |
+| Proteção e recuperação de áreas classificadas | Proteção de 30 % das áreas terrestres e marítimas |  |
+| Integração da biodiversidade nas políticas setoriais | Incorporação da biodiversidade em setores como agricultura e energia |  |
+| Gestão sustentável de recursos naturais | Gestão sustentável de recursos como água e solo |  |
+| Coerência territorial da Rede Fundamental de Conservação da Natureza | Conexão de áreas protegidas através de corredores ecológicos |  |
+| Conectividade ecológica | Criação de infraestruturas verdes urbanas e rurais |  |
 | Eixo 3 - Valorização Económica e Social da Biodiversidade e da Geodiversidade | Valoração dos serviços dos ecossistemas | Remuneração pelos serviços dos ecossistemas |
-| Eixo 3 - Valorização Económica e Social da Biodiversidade e da Geodiversidade | Instrumentos económicos para a conservação | Redirecionamento de subsídios prejudiciais |
-| Eixo 3 - Valorização Económica e Social da Biodiversidade e da Geodiversidade | Modelos de negócio sustentáveis | Promoção de práticas económicas sustentáveis |
-| Eixo 3 - Valorização Económica e Social da Biodiversidade e da Geodiversidade | Pagamentos por serviços ambientais | Desenvolvimento de mecanismos de pagamentos por serviços ambientais |
-| Eixo 3 - Valorização Económica e Social da Biodiversidade e da Geodiversidade | Emprego verde e bioeconomia | Criação de empregos relacionados à conservação |
+| Instrumentos económicos para a conservação | Redirecionamento de subsídios prejudiciais |  |
+| Modelos de negócio sustentáveis | Promoção de práticas económicas sustentáveis |  |
+| Pagamentos por serviços ambientais | Desenvolvimento de mecanismos de pagamentos por serviços ambientais |  |
+| Emprego verde e bioeconomia | Criação de empregos relacionados à conservação |  |
 | Eixo 4 - Governança e Conhecimento | Sistema de informação e monitorização | Fortalecimento de sistemas de monitorização e dados |
-| Eixo 4 - Governança e Conhecimento | Investigação e inovação | Inovação tecnológica para conservação |
-| Eixo 4 - Governança e Conhecimento | Capacitação técnica e institucional | Formação de técnicos e gestores locais |
-| Eixo 4 - Governança e Conhecimento | Cooperação internacional | Contribuição para metas internacionais de biodiversidade |
-| Eixo 4 - Governança e Conhecimento | Participação pública e envolvimento dos atores | Promoção da participação pública e sensibilização |
+| Investigação e inovação | Inovação tecnológica para conservação |  |
+| Capacitação técnica e institucional | Formação de técnicos e gestores locais |  |
+| Cooperação internacional | Contribuição para metas internacionais de biodiversidade |  |
+| Participação pública e envolvimento dos atores | Promoção da participação pública e sensibilização |  |
 
 4.2 - Eixo 1 - Conservação e Restauro de Ecossistemas
 
@@ -897,9 +987,7 @@ A conservação e valorização dos geossítios, incluindo ações de controlo d
 
 Esta abordagem será aplicada prioritariamente aos geossítios com maior relevância científica, educativa e turística, podendo alargar-se a outros geossítios com relevância local ou regional.
 
-A conservação do património geológico reforça o alinhamento nacional com os compromissos internacionais e europeus, como o Programa Internacional Geociência e Geoparques Mundiais da UNESCO, ao abrigo do qual foram reconhecidos seis territórios portugueses como Geoparques Mundiais, ou o Quadro Global de Biodiversidade Kunming-Montreal, que reconhece o papel da geodiversidade na manutenção de ecossistemas saudáveis e resilientes. De destacar ainda que Portugal, enquanto membro da União Internacional para a Conservação da Natureza (IUCN), deve seguir as recomendações emanadas da sua Assembleia Geral, reunida a cada quatro anos. Referem-se aqui as recomendações mais recentes aprovadas em 2016, 2020 e 2025 relativas à conservação do património geológico: «Preservação do património geológico móvel». Cabe ainda recordar a recomendação do Conselho da Europa sobre Conservação do Património Geológico e
-
-Áreas de Especial Interesse Geológico (Rec2004-3) e a Convenção Europeia da Paisagem.
+A conservação do património geológico reforça o alinhamento nacional com os compromissos internacionais e europeus, como o Programa Internacional Geociência e Geoparques Mundiais da UNESCO, ao abrigo do qual foram reconhecidos seis territórios portugueses como Geoparques Mundiais, ou o Quadro Global de Biodiversidade Kunming-Montreal, que reconhece o papel da geodiversidade na manutenção de ecossistemas saudáveis e resilientes. De destacar ainda que Portugal, enquanto membro da União Internacional para a Conservação da Natureza (IUCN), deve seguir as recomendações emanadas da sua Assembleia Geral, reunida a cada quatro anos. Referem-se aqui as recomendações mais recentes aprovadas em 2016, 2020 e 2025 relativas à conservação do património geológico: «Preservação do património geológico móvel». Cabe ainda recordar a recomendação do Conselho da Europa sobre Conservação do Património Geológico e  Áreas de Especial Interesse Geológico (Rec2004-3) e a Convenção Europeia da Paisagem.
 
 A implementação das medidas previstas permitirá alcançar resultados concretos e duradouros: (i) na preservação de elementos geológicos de elevada relevância científica e educativa; (ii) na valorização do património geológico como suporte ao desenvolvimento local, em particular através do geoturismo, da investigação e da educação ambiental; (iii) no reforço da identidade geológica dos territórios, incluindo a integração do conhecimento geocientífico nos instrumentos de ordenamento e planeamento regional, e (iv) na mobilização das comunidades locais na proteção e promoção deste património, através de parcerias com autarquias, escolas, museus e centros de ciência.
 
@@ -1351,7 +1439,7 @@ A matriz estratégica é, assim, essencial para a definição de uma estrutura d
 
 | Objetivo | Medidas de concretização | Indicadores de resultado | Prioridade | Prazo | Meios de verificação | Instrumentos financeiros e fiscais | Instrumentos de execução (jurídicos e políticos) | Entidades responsáveis | Entidades intervenientes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Eixo 1 - Conservação e Restauro de Ecossistemas | Eixo 1 - Conservação e Restauro de Ecossistemas | Eixo 1 - Conservação e Restauro de Ecossistemas | Eixo 1 - Conservação e Restauro de Ecossistemas | Eixo 1 - Conservação e Restauro de Ecossistemas | Eixo 1 - Conservação e Restauro de Ecossistemas | Eixo 1 - Conservação e Restauro de Ecossistemas | Eixo 1 - Conservação e Restauro de Ecossistemas | Eixo 1 - Conservação e Restauro de Ecossistemas | Eixo 1 - Conservação e Restauro de Ecossistemas |
+| Eixo 1 - Conservação e Restauro de Ecossistemas |  |  |  |  |  |  |  |  |  |
 | Objetivo 1.1 - Garantir a conservação e a recuperação das espécies e habitats protegidos e o restauro ecológico de ecossistemas em todo o território nacional | 1.1.1 - Definir critérios técnicos e científicos para a priorização de áreas e valores naturais a restaurar, garantindo a articulação entre as necessidades ecológicas, as pressões e ameaças, incluindo as vulnerabilidades climáticas, e os benefícios para os serviços dos ecossistemas e o contexto ibérico como unidade biogeográfica | Número de documentos técnicos produzidos | 1 | 2027 | Publicação dos critérios técnicos | Fundos UE, Fundo Ambiental | RJ CNB, RJ RN2000, ENCPE | ICNF, APA | IPMA, Academia, CCDR, Centros de Investigação, ONG |
 |  | 1.1.2 - Criar diretrizes para a definição e implementação de corredores ecológicos entre áreas classificadas, garantindo a permeabilidade da paisagem e o fluxo genético entre populações | Número de documentos técnicos produzidos | 1 | 2027 | Publicação das diretrizes | Fundos UE, Fundo Ambiental | RJ CNB, RJ RN2000, PNPOT, RJIGT | ICNF, CCDR | Academia, APA, Autarquias, DGT, gestores de património florestal e agrícola ONG, proprietários florestais e agrícolas |
 |  | 1.1.3 - Criar diretrizes específicas para o restauro ecológico dos vários tipos de ecossistemas | Número de documentos técnicos produzidos | 1 | 2027 | Publicação das diretrizes | Fundos UE, Fundo Ambiental | RJ CNB, DQA, DQEM, RN2000 | ICNF, APA | Academia, CCDR, DGRM, ONG |
@@ -1376,7 +1464,7 @@ A matriz estratégica é, assim, essencial para a definição de uma estrutura d
 | Objetivo 1.5 - Promover a gestão da geodiversidade e a conservação dos geossítios | 1.5.1 - Delimitar os geossítios incluídos no Inventário Nacional de Património Geológico e incluir esta informação cartográfica em todos os instrumentos de ordenamento do território e nos planos de gestão das áreas protegidas | Percentagem de geossítios delimitados | 1 | 2027 | Base de dados do Inventário Nacional de Património Geológico | Fundos UE, Fundo Ambiental | RJ CNB, PNPOT, RJIGT | ICNF, LNEG | Academia, Geoparques, ONG |
 |  | 1.5.2 - Identificar os geossítios incluídos no Inventário Nacional de Património Geológico que necessitam de medidas de proteção legal e definição de uma estratégia para a sua efetivação | Percentagem de geossítios com proteção legal | 1 | 2027 | Base de dados do Inventário Nacional de Património Geológico | Fundos UE, Fundo Ambiental | RJ CNB, PNPOT, RJIGT | ICNF, LNEG | Academia, Geoparques, ONG |
 |  | 1.5.3 - Estabelecer planos de conservação para geossítios que revelem maior risco de degradação, incluindo medidas de proteção física, monitorização de ameaças e programas de manutenção | Percentagem de geossítios com planos de gestão | 2 | 2029 | Publicação dos planos | Fundos UE, Fundo Ambiental | RJ CNB, PNPOT, RJIGT | ICNF, LNEG | Academia, DGEG, Geoparques, ONG |
-| Eixo 2 - Gestão Integrada e Sustentável do Território | Eixo 2 - Gestão Integrada e Sustentável do Território | Eixo 2 - Gestão Integrada e Sustentável do Território | Eixo 2 - Gestão Integrada e Sustentável do Território | Eixo 2 - Gestão Integrada e Sustentável do Território | Eixo 2 - Gestão Integrada e Sustentável do Território | Eixo 2 - Gestão Integrada e Sustentável do Território | Eixo 2 - Gestão Integrada e Sustentável do Território | Eixo 2 - Gestão Integrada e Sustentável do Território | Eixo 2 - Gestão Integrada e Sustentável do Território |
+| Eixo 2 - Gestão Integrada e Sustentável do Território |  |  |  |  |  |  |  |  |  |
 | Objetivo 2.1 - Reforçar a gestão integrada das áreas protegidas nacionais no SNAC e OECM, promovendo mecanismos de governança participativa com as comunidades e os setores estratégicos | 2.1.1 - Assegurar e avaliar a eficácia de gestão das áreas protegidas nacionais e as áreas da Rede Natura 2000 existentes | Percentagem de habitats/espécies alvo nas AP e RN2000 com estado de conservação estável ou a melhorar | 1 | 2027 | Relatórios de avaliação | Fundos UE, Fundo Ambiental | RJ CNB, RJ RN2000, PRR | ICNF, CCDR | Academia, APA, autarquias, CCDR, ONG |
 |  | 2.1.2 - Elaborar e implementar programas de execução e planos de gestão para todas as áreas protegidas, Rede Natura 2000 e geossítios, assegurando a sua integração nos Instrumentos de Gestão Territorial | Proporção de Áreas Protegidas, Rede Natura 2000 e geossítios com Programas Especiais | 1 | 2027 | Publicação dos planos | Fundos UE, Fundo Ambiental | RJ CNB, RJ RN2000, RJIGT, PNPOT | ICNF, CCDR | Academia, agentes económicos locais, autarquias, CCDR, ONG, proprietários |
 |  | 2.1.3 - Consolidar a rede de áreas marinhas do SNAC, priorizando a proteção dos ecossistemas marinhos vulneráveis | Percentagem da área marinha classificada sob gestão eficaz (com plano de gestão implementado e monitorização) | 1 | 2028 | Diplomas de criação/alargamento de áreas | Fundos UE, FEAMP, Mar 2030 | RJ CNB, DQEM, PSOEM, CDB | ICNF, DGRM | Academia, APA, comunidades piscatórias, IPMA, ONG, operadores marítimo-turísticos |
@@ -1420,7 +1508,7 @@ A matriz estratégica é, assim, essencial para a definição de uma estrutura d
 | Objetivo 2.10 - Promover a melhoria da qualidade e o aumento da quantidade de espaços verdes urbanos, integrando princípios ecológicos no planeamento urbano para garantir a recuperação e manutenção dos serviços dos ecossistemas em ambientes urbanizados | 2.10.1 - Desenvolver metodologias para avaliar a capacidade dos ecossistemas urbanos em fornecer serviços ambientais, como a regulação térmica, o controlo da poluição e a retenção de águas pluviais, facilitando sua consideração nos processos de decisão territorial | Aumento do índice de biodiversidade urbana em áreas intervencionadas | 2 | 2029 | Monitorização de áreas intervencionadas | Fundos UE, Fundo Ambiental | RJIGT, RJ CNB, PNPOT, ENAAC 2030 | ICNF, DGT, CCDR | Academia, ANMP, APA, associações profissionais de urbanismo e arquitetura paisagista, autarquias, CIM/AM, ONG |
 |  | 2.10.2 - Estabelecer diretrizes para a incorporação da conservação da natureza e do restauro ecológico no planeamento urbano, garantindo que os instrumentos de gestão territorial integram os princípios ecológicos, a conectividade dos ecossistemas e a resiliência climática | Número de PMOT que passaram a integrar as diretrizes de biodiversidade urbana | 1 | 2028 | PMOT aprovados | Fundos UE, Fundo Ambiental | RJIGT, RJ CNB, PNPOT. PNRN, ENAAC 2030 | ICNF, DGT, ApC, CCDR | Academia, APA, ANMP, associações profissionais de urbanismo e arquitetura paisagista, autarquias, CIM/AM, ONG |
 |  | 2.10.3 - Reforçar a integração das infraestruturas verdes e das soluções baseadas na natureza nos instrumentos de financiamento e incentivos públicos, promovendo mecanismos para o envolvimento das autarquias e do setor privado na criação e manutenção de espaços verdes urbanos | Volume de investimento mobilizado em infraestruturas verdes urbanas | 1 | 2030 | Análise de programas de financiamento publicados | Fundos UE, Fundo Ambiental | RJIGT, RJ CNB, PNPOT, PNRN, ENAAC 2030 | ICNF, DGT, ApC, CCDR | Academia, APA, ANMP, associações profissionais de urbanismo e arquitetura paisagista, autarquias, CIM/AM, ONG |
-| Eixo 3 - Valorização Económica e Social da Biodiversidade e da Geodiversidade | Eixo 3 - Valorização Económica e Social da Biodiversidade e da Geodiversidade | Eixo 3 - Valorização Económica e Social da Biodiversidade e da Geodiversidade | Eixo 3 - Valorização Económica e Social da Biodiversidade e da Geodiversidade | Eixo 3 - Valorização Económica e Social da Biodiversidade e da Geodiversidade | Eixo 3 - Valorização Económica e Social da Biodiversidade e da Geodiversidade | Eixo 3 - Valorização Económica e Social da Biodiversidade e da Geodiversidade | Eixo 3 - Valorização Económica e Social da Biodiversidade e da Geodiversidade | Eixo 3 - Valorização Económica e Social da Biodiversidade e da Geodiversidade | Eixo 3 - Valorização Económica e Social da Biodiversidade e da Geodiversidade |
+| Eixo 3 - Valorização Económica e Social da Biodiversidade e da Geodiversidade |  |  |  |  |  |  |  |  |  |
 | Objetivo 3.1 - Fomentar modelos económicos sustentáveis que integrem a biodiversidade e a geodiversidade na oferta de produtos e serviços, promovendo a valorização das áreas classificadas e dos setores estratégicos através de certificação, capacitação e incentivos | 3.1.1 - Expandir a abrangência territorial e a operacionalização da certificação Natural.pt, adaptando o modelo às especificidades das Regiões Autónomas e promovendo o desenvolvimento de capacidades locais | Número de áreas classificadas integradas na certificação | 2 | 2028 | Relatórios de implementação | Fundos UE, Fundo Ambiental, PO Regionais | Regulamento Natural.pt | ICNF, Governos Regionais | Associações empresariais, autarquias, CCDR, ONG, produtores locais |
 |  | 3.1.2 - Promover a adesão de novos produtos e serviços à certificação Natural.pt, através da capacitação de produtores, do desenvolvimento de incentivos e da simplificação do processo de reconhecimento | Número de novos produtos/serviços certificados | 2 | 2027 | Registos de certificação | Fundos UE | Regulamento Natural.pt | ICNF | Associações empresariais, autarquias, CCDR, centros de formação, organizações setoriais, produtores locais, empresas de bioeconomia |
 |  | 3.1.3 - Reforçar os canais de comercialização e distribuição dos produtos e serviços certificados Natural.pt, promovendo circuitos curtos de comercialização e valorizando os produtos locais | Número de novos canais de distribuição estabelecidos | 2 | 2028 | Relatórios de vendas | Fundos UE | Regulamento Natural.pt | ICNF | AICEP, associações empresariais, autarquias, CCDR, grandes superfícies comerciais, mercados locais, Turismo de Portugal |
@@ -1437,7 +1525,7 @@ A matriz estratégica é, assim, essencial para a definição de uma estrutura d
 |  | 3.2.5 - Desenvolver um mercado voluntário de carbono azul | Número de projetos-piloto de carbono azul implementados; Fórum Nacional de Carbono Azul em funcionamento; percentagem de projetos de carbono azul certificados com rigor científico e transparência; diversidade e envolvimento dos agentes participantes (público, privado e comunidades locais) na oferta e procura destes créditos | 2 | 2029 | Relatórios do Fórum Nacional de Carbono Azul; registos de transações no mercado voluntário; área com intervenção de restauro | Fundos UE, Fundo Ambiental |  | ICNF; ApC | DGRM, DGPM, IPMA |
 | Objetivo 3.3 - Promover políticas e práticas de consumo e produção sustentáveis, estimulando a redução do desperdício e do consumo excessivo de recursos naturais através de instrumentos de sensibilização, educação e regulação | 3.3.1 - Promover a certificação ecológica de produtos e serviços e da gestão florestal sustentável, a rastreabilidade das cadeias de produção e a redução da pegada ecológica dos bens de consumo | Número de esquemas de certificação apoiados | 1 | 2028 | Registos de certificações | Fundos UE | PAEC, ENCPE, ENCDA | APA, DGEco | Academia, associações de consumidores, associações empresariais, organizações de certificação, ONG |
 |  | 3.3.2 - Desenvolver programas educativos e campanhas nacionais de sensibilização para o consumo responsável, reforçando a literacia sobre ecossistemas, biodiversidade e geodiversidade, promovendo a mudança de padrões de consumo e incentivando a redução dos padrões com impacte ecológico significativo | Número de campanhas realizadas | 2 | 2027 | Relatórios de execução das campanhas | Fundos UE, Fundo Ambiental | ENEA, ENCDA, Estratégia Nacional de Educação para o Desenvolvimento | APA, DGPM | Academia, autarquias, CCDR, escolas, ICNF, IPMA, ME, Media, ONG, organizações de consumidores, DGC, DGRM |
-| Eixo 4 - Governança e Conhecimento | Eixo 4 - Governança e Conhecimento | Eixo 4 - Governança e Conhecimento | Eixo 4 - Governança e Conhecimento | Eixo 4 - Governança e Conhecimento | Eixo 4 - Governança e Conhecimento | Eixo 4 - Governança e Conhecimento | Eixo 4 - Governança e Conhecimento | Eixo 4 - Governança e Conhecimento | Eixo 4 - Governança e Conhecimento |
+| Eixo 4 - Governança e Conhecimento |  |  |  |  |  |  |  |  |  |
 | Objetivo 4.1 - Reforçar a governação participada e colaborativa da conservação da natureza e da biodiversidade, promovendo a corresponsabilização e a valorização do conhecimento local e científico | 4.1.1 - Desenvolver, dinamizar e avaliar modelos de gestão partilhada, participativa e de cogestão nas áreas protegidas, na Rede Natura 2000 e dos recursos pesqueiros, integrando mecanismos de monitorização e avaliação que assegurem a efetividade da cogestão na execução de projetos e investimentos | Número de planos de cogestão operacionalizados/apoiados | 1 | 2027 | Planos de cogestão | Fundos UE, Fundo Ambiental, PRR | RJ CNB, RJ RN2000, Lei de Bases do Ambiente | ICNF, CCDR, DGRM | IPMA, Academia, associações locais, associações de pescadores, autarquias, CIM/AM, CCDR, empresas, agências regionais de desenvolvimento, proprietários, gestores de património florestal e agrícola, ONG |
 |  | 4.1.2 - Estabelecer um modelo de governança para o restauro ecológico, que assegure a participação das entidades gestoras, das comunidades locais, dos setores produtivos e das ONGs na implementação e monitorização das ações e resultados dos projetos | Número de áreas sob restauro com governança participativa | 1 | 2026 | Documento do modelo de governança | Fundos UE, Fundo Ambiental, PRR | RJ CNB, Plano Nacional de Restauro da Natureza | ICNF, APA | Academia, associações locais, associações de pescadores, autarquias, CIM/AM, CCDR, empresas, agências regionais de desenvolvimento, proprietários, gestores de património florestal e agrícola, ONG |
 |  | 4.1.3 - Promover a cogestão e a participação ativa dos pescadores e das partes interessadas na gestão da pesca | Número de acordos de cogestão estabelecidos no setor pesqueiro | 2 | 2028 | Protocolos de cogestão formalizados | FEAMP, Mar 2030 | PCP, Lei da Pesca, regulamentos específicos de cogestão | DGRM, ICNF | Academia, associações de pescadores, IPMA, ONG, indústria de processamento, autarquias costeiras, associações de pescadores |
@@ -2165,3 +2253,7 @@ ZEC - Zonas Especiais de Conservação.
 ZEE - Zona Económica Exclusiva.
 
 ZPE - Zona de Proteção Especial.
+
+119948582
+
+.Tbl1 { border-collapse:collapse; border-width:1px; border-color:rgb(166,166,166); } .Tbl2 { min-height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:18px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { text-align:justify; text-align-last:justify; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl9 { min-height:21px; } .Tbl10 { min-height:31px; } .Tbl11 { min-height:28px; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl15 { border-collapse:collapse; border-width:1px; border-color:rgb(191,191,191); } .Tbl16 { min-height:35px; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl18 { min-height:117px; } .Tbl19 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl20 { min-height:79px; } .Tbl21 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl22 { min-height:50px; } .Tbl23 { min-height:88px; } .Tbl24 { min-height:98px; } .Tbl25 { min-height:57px; } .Tbl26 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl27 { min-height:107px; } .Tbl28 { min-height:59px; } .Tbl29 { min-height:69px; } .Tbl30 { min-height:55px; } .Tbl31 { min-height:62px; } .Tbl32 { min-height:53px; } .Tbl33 { min-height:91px; } .Tbl34 { min-height:66px; } .Tbl35 { min-height:76px; } .Tbl36 { min-height:85px; } .Tbl37 { min-height:81px; } .Tbl38 { min-height:101px; } .Tbl39 { min-height:128px; } .Tbl40 { min-height:70px; } .Tbl41 { min-height:90px; } .Tbl42 { min-height:84px; } .Tbl43 { min-height:65px; } .Tbl44 { min-height:94px; } .Tbl45 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl46 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl47 { min-height:43px; } .Tbl48 { min-height:129px; } .Tbl49 { min-height:135px; } .Tbl50 { min-height:131px; } .Tbl51 { min-height:154px; } .Tbl52 { min-height:110px; } .Tbl53 { min-height:187px; } .Tbl54 { min-height:120px; } .Tbl55 { min-height:64px; } .Tbl56 { min-height:73px; } .Tbl57 { min-height:92px; } .Tbl58 { min-height:112px; } .Tbl59 { min-height:95px; } .Tbl60 { min-height:105px; } .Tbl61 { min-height:38px; } .Tbl62 { min-height:103px; } .Tbl63 { min-height:104px; } .Tbl64 { min-height:219px; } .Tbl65 { min-height:32px; } .Tbl66 { min-height:75px; } .Tbl67 { min-height:113px; } .Tbl68 { min-height:72px; } .Tbl69 { min-height:60px; } .Tbl70 { min-height:114px; }

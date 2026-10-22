@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44555-1962-159687
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-04-23T00:00:00Z'
+  retrieved_at: '2026-10-22T19:31:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed6dcbec2052408105543af12e5d4438f5f5e636f72b969606579249405f5e1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 171d9e6b0b3b2c5c40bbffe393d33ccbd75979648fa42d19c0313c29b18ecb64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:31:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,15 +72,15 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:31:04Z'
   warnings: []
   errors: []
 ---
@@ -99,23 +99,23 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Sempre que a obtenção do bilhete de identidade se mostrar impossível, por não satisfação, pelo requerente, das condições normais para tanto, pode essa falta ser suprida, por iniciativa dos serviços de identificação, pelos meios que se encontrarem mais convenientes.
+Artigo 1.º Sempre que a obtenção do bilhete de identidade se mostrar impossível, por não satisfação, pelo requerente, das condições normais para tanto, pode essa falta ser suprida, por iniciativa dos serviços de identificação, pelos meios que se encontrarem mais convenientes.
 
-###### Art. 2.º Sempre que em acto para que a sua intervenção seja necessária, e enquanto não se mostrarem actualizados os serviços próprios da identificação civil nas províncias ultramarinas, os administradores de concelho e de circunscrição verifiquem a falta do bilhete de identidade por parte dos cidadãos naturais da província e residentes nas respectivas áreas, poderão proceder à passagem desse título, suprindo, por sua iniciativa, a falta de documentos normalmente necessários, pelos meios mais adequados em cada caso.
+Art. 2.º Sempre que em acto para que a sua intervenção seja necessária, e enquanto não se mostrarem actualizados os serviços próprios da identificação civil nas províncias ultramarinas, os administradores de concelho e de circunscrição verifiquem a falta do bilhete de identidade por parte dos cidadãos naturais da província e residentes nas respectivas áreas, poderão proceder à passagem desse título, suprindo, por sua iniciativa, a falta de documentos normalmente necessários, pelos meios mais adequados em cada caso.
 
-###### Art. 3.º O bilhete de identidade a que se refere este diploma será sempre de modelo oficial geral e tem o mesmo valor que os demais.
+Art. 3.º O bilhete de identidade a que se refere este diploma será sempre de modelo oficial geral e tem o mesmo valor que os demais.
 
-###### Art. 4.º Dentro do prazo de três dias após a passagem do bilhete de identidade, o administrador é obrigado, sob pena de responsabilidade disciplinar e civil, a enviar aos serviços centrais de identificação civil todo o processo burocrático referente a cada bilhete e um duplicado deste.
+Art. 4.º Dentro do prazo de três dias após a passagem do bilhete de identidade, o administrador é obrigado, sob pena de responsabilidade disciplinar e civil, a enviar aos serviços centrais de identificação civil todo o processo burocrático referente a cada bilhete e um duplicado deste.
 
 § único. Na secretaria da administração ficará um extracto do processo que serviu de base à passagem do bilhete e um triplicado deste.
 
-###### Art. 5.º Os encargos com a passagem dos bilhetes de identidade referidos neste diploma serão fixados pelos governos das províncias e constituem receita destas.
+Art. 5.º Os encargos com a passagem dos bilhetes de identidade referidos neste diploma serão fixados pelos governos das províncias e constituem receita destas.
 
-###### Art. 6.º A falsidade nas declarações ou fornecimento de elementos para a identificação individual é punida como falsa declaração à autoridade pública nos termos do Código Penal.
+Art. 6.º A falsidade nas declarações ou fornecimento de elementos para a identificação individual é punida como falsa declaração à autoridade pública nos termos do Código Penal.
 
 § único. O não procedimento contra o infractor importa responsabilidade disciplinar para o funcionário responsável, por má compreensão dos deveres profissionais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Setembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

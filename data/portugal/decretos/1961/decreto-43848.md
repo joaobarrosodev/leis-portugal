@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43848-1961-173105
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-08-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:25:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6b09ebf6dae70c15d05791dce6e35b6fc094139a7181637437dcd28f899815d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb71966d12bb6f6a518080e234acda9082bbb67a5df03f07eda6ccd33e6c6905
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:25:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429442:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:25:02Z'
   warnings: []
   errors: []
 ---
@@ -89,17 +93,17 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o governador da província de Cabo Verde a estabelecer a gratificação correspondente ao cargo de reitor do Liceu Nacional da Praia e, bem assim, a rever a do reitor do Liceu Nacional Gil Eanes, do Mindelo, bem como as dos cargos de vice-reitor, secretário, directores de ciclo e de instalações, auxiliares de instalações e chefe do pessoal menor dos dois liceus.
+Artigo 1.º É autorizado o governador da província de Cabo Verde a estabelecer a gratificação correspondente ao cargo de reitor do Liceu Nacional da Praia e, bem assim, a rever a do reitor do Liceu Nacional Gil Eanes, do Mindelo, bem como as dos cargos de vice-reitor, secretário, directores de ciclo e de instalações, auxiliares de instalações e chefe do pessoal menor dos dois liceus.
 
-###### Art. 2.º O primeiro provimento do pessoal de secretaria e menor do Liceu Nacional D. João II, de S. Tomé, pode ser efectuado, com dispensa de concurso, em indivíduos nas condições mencionadas na parte final do artigo 8.º do [Decreto-Lei n.º 42512](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42512-1959-429442), de 18 de Setembro de 1959.
+Art. 2.º O primeiro provimento do pessoal de secretaria e menor do Liceu Nacional D. João II, de S. Tomé, pode ser efectuado, com dispensa de concurso, em indivíduos nas condições mencionadas na parte final do artigo 8.º do [Decreto-Lei n.º 42512](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42512-1959-429442), de 18 de Setembro de 1959.
 
-###### Art. 3.º É autorizado o governador-geral do Estado da Índia a fixar a gratificação correspondente ao cargo de directora da secção feminina do Liceu Afonso de Albuquerque, de Goa.
+Art. 3.º É autorizado o governador-geral do Estado da Índia a fixar a gratificação correspondente ao cargo de directora da secção feminina do Liceu Afonso de Albuquerque, de Goa.
 
-###### Art. 4.º É criado, no quadro complementar do Liceu Nacional Infante D. Henrique, de Macau, um lugar de professora de Educação Física.
+Art. 4.º É criado, no quadro complementar do Liceu Nacional Infante D. Henrique, de Macau, um lugar de professora de Educação Física.
 
-###### Art. 5.º São autorizados os governadores das províncias de Cabo Verde, Estado da Índia e Macau a abrir, observadas as disposições legais aplicáveis, os créditos necessários para suportar os encargos criados pelo presente decreto, servindo de contrapartida disponibilidades orçamentais.
+Art. 5.º São autorizados os governadores das províncias de Cabo Verde, Estado da Índia e Macau a abrir, observadas as disposições legais aplicáveis, os créditos necessários para suportar os encargos criados pelo presente decreto, servindo de contrapartida disponibilidades orçamentais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Agosto de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

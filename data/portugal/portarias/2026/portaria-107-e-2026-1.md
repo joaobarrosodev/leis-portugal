@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/107-e/2026/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/107-e-2026-1068097885
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-05T00:00:00Z'
+  retrieved_at: '2026-10-22T18:34:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab953ada82e9d64558cd6b65cdc484a898352a636571bf4fe7f39ac32073290c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6c6ad6c9c803a1e059d1c6e8991873c4edbf7f062dd03265dfb05315ea1395a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:34:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vida Selvagem
-- Ordenamento do Território
-- Regulamentação de Atos Legislativos
-- Proteção do Ambiente
 - Diversidade Biológica
+- Ordenamento do Território
+- Proteção do Ambiente
 - Rede Natura 2000
+- Regulamentação de Atos Legislativos
+- Vida Selvagem
 - Zona Especial de Conservação Barrinha de Esmoriz
 relationships:
 - type: cites
@@ -97,16 +97,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
+- type: cites
+  target: pt:dre:1051282283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130273578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:34:54Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +139,7 @@ validation:
 
 de 5 de março
 
-O [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, procedeu à designação como Zona Especial de Conservação (ZEC) do Sítio de Importância Comunitária (SIC) Barrinha de Esmoriz (PTCON0018), identificando a respetiva área e coordenadas geográficas, assim como a sua localização e limites geográficos. O referido diploma determinou, ainda, que as medidas e ações complementares de conservação de habitats e espécies são definidas em planos de gestão, a aprovar por portaria nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.<sup>os</sup>[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro.
+O [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, procedeu à designação como Zona Especial de Conservação (ZEC) do Sítio de Importância Comunitária (SIC) Barrinha de Esmoriz (PTCON0018), identificando a respetiva área e coordenadas geográficas, assim como a sua localização e limites geográficos. O referido diploma determinou, ainda, que as medidas e ações complementares de conservação de habitats e espécies são definidas em planos de gestão, a aprovar por portaria nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.os[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro.
 
 Posteriormente, o [Decreto-Lei n.º 45/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2026-1051282283), de 16 de fevereiro, completou o processo de classificação da ZEC Barrinha de Esmoriz, ao contemplar no respetivo plano de gestão a identificação dos tipos de habitat naturais e seminaturais e das espécies da flora e fauna selvagens protegidos, constantes dos anexos i e ii da Diretiva Habitats com presença significativa na sua área, e fixar, em função das características específicas do seu território e das exigências ecológicas desses tipos de habitat e espécies, objetivos de conservação direcionados à manutenção ou ao restabelecimento do seu estado de conservação favorável. Com vista à prossecução dos objetivos fixados, o referido decreto-lei definiu, ainda, medidas de conservação de natureza preventiva e regulamentar, necessárias para evitar a deterioração dos tipos de habitat naturais e seminaturais e dos habitats das espécies protegidas e com presença significativa na ZEC, assim como a perturbação significativa dessas espécies, as quais se tipificam em medidas de ordenamento do território e medidas de gestão.
 
@@ -137,7 +161,7 @@ A presente portaria aprova o plano de gestão da Zona Especial de Conservação 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida, em 4 de março de 2026. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 4 de março de 2026. - O Ministro da Agricultura e Mar, José Manuel Fernandes, em 2 de março de 2026.**
+O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida, em 4 de março de 2026. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 4 de março de 2026. - O Ministro da Agricultura e Mar, José Manuel Fernandes, em 2 de março de 2026.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -151,9 +175,11 @@ QUADRO 1
 
 Unidades territoriais abrangidas pela ZEC Barrinha de Esmoriz
 
-![](https://files.diariodarepublica.pt/images/1068097885/1068099397.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097885/1068099397.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097885/1068099398.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097885/1068099398.png) |
+| --- |
 
 Caracterização
 
@@ -179,13 +205,15 @@ QUADRO 2
 
 Tipos de habitat do anexo I da Diretiva Habitats com presença significativa na ZEC
 
-![](https://files.diariodarepublica.pt/images/1068097885/1068099399.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097885/1068099399.png) |
+| --- |
 
 QUADRO 3
 
 Espécies do anexo II da Diretiva Habitats com presença significativa na ZEC
 
-![](https://files.diariodarepublica.pt/images/1068097885/1068099400.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097885/1068099400.png) |
+| --- |
 
 Objetivos de conservação
 
@@ -197,7 +225,8 @@ QUADRO 4
 
 Objetivos de conservação para a gestão da ZEC
 
-![](https://files.diariodarepublica.pt/images/1068097885/1068099401.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097885/1068099401.png) |
+| --- |
 
 MEDIDAS DE CONSERVAÇÃO COMPLEMENTARES
 
@@ -211,13 +240,17 @@ QUADRO 5
 
 Quadro operacional das medidas de conservação complementares
 
-![](https://files.diariodarepublica.pt/images/1068097885/1068099402.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097885/1068099402.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097885/1068099403.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097885/1068099403.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097885/1068099404.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097885/1068099404.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097885/1068099405.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097885/1068099405.png) |
+| --- |
 
 Medidas de conservação regulamentares
 
@@ -245,7 +278,8 @@ QUADRO 6
 
 Modelo de matriz de avaliação final da implementação do plano de gestão
 
-![](https://files.diariodarepublica.pt/images/1068097885/1068099406.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097885/1068099406.png) |
+| --- |
 
 Ficha de Medidas de conservação COMPLEMENTARES
 
@@ -263,32 +297,49 @@ OE - Orçamento de Estado;
 
 OM - Orçamento Municipal.
 
-![](https://files.diariodarepublica.pt/images/1068097885/1068099407.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097885/1068099407.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097885/1068099408.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097885/1068099408.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097885/1068099409.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097885/1068099409.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097885/1068099410.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097885/1068099410.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097885/1068099411.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097885/1068099411.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097885/1068099412.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097885/1068099412.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097885/1068099413.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097885/1068099413.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097885/1068099414.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097885/1068099414.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097885/1068099415.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097885/1068099415.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097885/1068099416.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097885/1068099416.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097885/1068099417.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097885/1068099417.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097885/1068099418.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097885/1068099418.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097885/1068099419.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097885/1068099419.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097885/1068099420.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097885/1068099420.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1068097885/1068099421.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1068097885/1068099421.png) |
+| --- |
+
+119947918

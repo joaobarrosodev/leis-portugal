@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 99/1991, 2º Suplemento, Série I-B de 1991-04-30
   number: '99'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2388-(3) a 2388-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/099b02/00030004.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/79/1991/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/79-1991-459582
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84ac34916f3a6b7a1261b3279ed5e40e74e30ee05e0bab7eecf324e9d9bab617
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7540b70325dfd121c24cf0621c443f17e403b6ed7783d5398630469c5a13919
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,33 +67,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Produção Cinematográfica
-- Instituto Português de Cinema
-- Regulamento
 - Cinema
+- Financiamento
 - Indústria Cinematográfica
+- Instituto Português de Cinema
+- Produção Cinematográfica
+- Regulamento
 - Subsídio
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/53/1991/03/04/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/53/1991/03/04/p/dre
+- type: cites
+  target: pt:dre:466850:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:30Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 79/91
+# Declaração de rectificação n.º 79/91
 
 Segundo comunicação da Secretaria de Estado da Cultura (Presidência do Conselho de Ministros), o [Despacho Normativo n.º 53/91](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/53-1991-466850), publicado no Diário da República, n.º 52, de 4 de Março de 1991, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 

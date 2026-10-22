@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/42845-1960-278555
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-02-11T00:00:00Z'
+  retrieved_at: '2026-10-22T19:17:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dce6b6db6c69fabd7a67c6f5544bd5250d730578ac86e26839e07738115587ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7852f955bc37beea66a5a66d6704b52847894d15ea9b13ce2ec2ec67c9e30b17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:17:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:304307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634703:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:17:19Z'
   warnings: []
   errors: []
 ---
@@ -93,23 +105,23 @@ Ouvido o Conselho Ultramarino:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É criada na província de S. Tomé e Príncipe, sob a égide do Instituto de Medicina Tropical, a missão de estudo e combate de endemias.
+Artigo 1.º É criada na província de S. Tomé e Príncipe, sob a égide do Instituto de Medicina Tropical, a missão de estudo e combate de endemias.
 
-###### Art. 2.º A acção da missão a que se refere o artigo anterior exerce-se em todo o território da província, pelo que as autoridades e os administradores das explorações agrícolas e industriais das zonas em que trabalhe o pessoal da missão deverão conceder as necessárias facilidades para o bom desempenho dos serviços e eficiência da luta contra as endemias.
+Art. 2.º A acção da missão a que se refere o artigo anterior exerce-se em todo o território da província, pelo que as autoridades e os administradores das explorações agrícolas e industriais das zonas em que trabalhe o pessoal da missão deverão conceder as necessárias facilidades para o bom desempenho dos serviços e eficiência da luta contra as endemias.
 
-###### Art. 3.º A sede da missão será na cidade de S. Tomé, mas poderão ser criados centros de estudo, de carácter permanente ou temporário, em outros locais da província, conforme as exigências dos trabalhos a executar.
+Art. 3.º A sede da missão será na cidade de S. Tomé, mas poderão ser criados centros de estudo, de carácter permanente ou temporário, em outros locais da província, conforme as exigências dos trabalhos a executar.
 
 § único. A criação dos centros de estudo será aprovada pelo governador da província sob proposta do chefe da missão, ouvido o chefe dos serviços de saúde.
 
-###### Art. 4.º Compete à missão realizar o estudo dos problemas sanitários da província, especialmente o do paludismo, e propor as respectivas medidas de combate, de acordo com as normas estabelecidas no presente decreto e sempre de harmonia com o plano geral dos serviços de saúde, devendo as suas actividades, sempre que possível, ser utilizadas para adestramento e melhoria da preparação do pessoal dos mesmos serviços.
+Art. 4.º Compete à missão realizar o estudo dos problemas sanitários da província, especialmente o do paludismo, e propor as respectivas medidas de combate, de acordo com as normas estabelecidas no presente decreto e sempre de harmonia com o plano geral dos serviços de saúde, devendo as suas actividades, sempre que possível, ser utilizadas para adestramento e melhoria da preparação do pessoal dos mesmos serviços.
 
-###### Art. 5.º A missão será orientada pelo conselho escolar do Instituto de Medicina Tropical e pelo chefe dos serviços de saúde da província, que constituirão assim a comissão orientadora da missão.
+Art. 5.º A missão será orientada pelo conselho escolar do Instituto de Medicina Tropical e pelo chefe dos serviços de saúde da província, que constituirão assim a comissão orientadora da missão.
 
 § 1.º O chefe dos serviços de saúde da província emitirá o seu parecer sobre os relatórios do chefe da missão, e através de exposições que julgue oportuno fazer sobre a marcha dos trabalhos em curso ou a realizar, e prestará à missão a colaboração necessária, directamente ou por intermédio dos serviços a seu cargo.
 
 § 2.º Os relatórios e exposições a que se refere o parágrafo anterior devem ser enviados para apreciação do Ministro do Ultramar, por intermédio do conselho escolar do Instituto, depois de informados pelo Governo da província.
 
-###### Art. 6.º À comissão orientadora da missão compete:
+Art. 6.º À comissão orientadora da missão compete:
 
 1.º Orientar as actividades da missão, por meio de instruções e pareceres, sujeitos à sanção do Ministro do Ultramar;
 
@@ -123,13 +135,13 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 6.º Promover, quando for julgado conveniente, a visita à missão de um professor do Instituto de Medicina Tropical, o qual apresentará relatório sumário sobre a situação e progresso dos serviços.
 
-###### Art. 7.º A missão terá pessoal fixo, eventual e assalariado.
+Art. 7.º A missão terá pessoal fixo, eventual e assalariado.
 
-###### Art. 8.º Para cooperar nos trabalhos da missão, a comissão orientadora poderá propor a deslocação à província de missões periódicas, nos termos que a lei autoriza, podendo as despesas ser suportadas pelas dotações do Instituto, pelas da missão ou pelas dos dois organismos.
+Art. 8.º Para cooperar nos trabalhos da missão, a comissão orientadora poderá propor a deslocação à província de missões periódicas, nos termos que a lei autoriza, podendo as despesas ser suportadas pelas dotações do Instituto, pelas da missão ou pelas dos dois organismos.
 
-###### Art. 9.º O Instituto de Investigação Médica de Angola prestará à missão, dentro das suas possibilidades, a colaboração que lhe seja solicitada nos termos do artigo 8.º do [Decreto n.º 41536](https://diariodarepublica.pt/dr/detalhe/decreto/41536-1958-304307), de 24 de Fevereiro de 1958.
+Art. 9.º O Instituto de Investigação Médica de Angola prestará à missão, dentro das suas possibilidades, a colaboração que lhe seja solicitada nos termos do artigo 8.º do [Decreto n.º 41536](https://diariodarepublica.pt/dr/detalhe/decreto/41536-1958-304307), de 24 de Fevereiro de 1958.
 
-###### Art. 10.º Constituem o pessoal fixo da missão:
+Art. 10.º Constituem o pessoal fixo da missão:
 
 a) O chefe da missão;
 
@@ -137,21 +149,21 @@ b) O médico adjunto;
 
 c) Um preparador.
 
-###### Art. 11.º O pessoal referido no artigo anterior será provido por despacho do Ministro do Ultramar, precedido de proposta do conselho escolar do Instituto de Medicina Tropical.
+Art. 11.º O pessoal referido no artigo anterior será provido por despacho do Ministro do Ultramar, precedido de proposta do conselho escolar do Instituto de Medicina Tropical.
 
 § 1.º Os provimentos serão feitos por contrato ou em comissão de serviço quando se trate de funcionários.
 
 § 2.º O pessoal será de preferência escolhido entre o corpo docente e o pessoal técnico auxiliar do Instituto, ou nos quadros do pessoal dos serviços de saúde da província.
 
-###### Art. 12.º O pessoal eventual da missão é constituído por pessoas especializadas, para efeitos de estudo e solução de problemas especiais, conforme as necessidades ocasionais de serviço.
+Art. 12.º O pessoal eventual da missão é constituído por pessoas especializadas, para efeitos de estudo e solução de problemas especiais, conforme as necessidades ocasionais de serviço.
 
 § único. É desde já criado, como eventual, um lugar de enfermeira de saúde pública, a prover por contrato.
 
-###### Art. 13.º O pessoal assalariado é constituído pelos auxiliares recrutados na província, cujo número e aptidões dependerão das exigências dos trabalhos a realizar.
+Art. 13.º O pessoal assalariado é constituído pelos auxiliares recrutados na província, cujo número e aptidões dependerão das exigências dos trabalhos a realizar.
 
-###### Art. 14.º Nos serviços da missão, por determinação do governador da província, efectuarão estágios de adestramento, em regime de horário completo ou parcial, conforme for julgado mais conveniente, as unidades do serviços de saúde (médicos, pessoal de laboratório ou de enfermagem), propostas pelo respectivo chefe de acordo com o chefe da missão.
+Art. 14.º Nos serviços da missão, por determinação do governador da província, efectuarão estágios de adestramento, em regime de horário completo ou parcial, conforme for julgado mais conveniente, as unidades do serviços de saúde (médicos, pessoal de laboratório ou de enfermagem), propostas pelo respectivo chefe de acordo com o chefe da missão.
 
-###### Art. 15.º O pessoal da missão referido no artigo 10º terá os seguintes vencimentos:
+Art. 15.º O pessoal da missão referido no artigo 10º terá os seguintes vencimentos:
 
 Chefe da missão ... 6.500$00
 
@@ -167,15 +179,15 @@ Preparador ... 2.500$00
 
 § 4.º Ao pessoal dos serviços de saúde que trabalhe em regime de horário completo será atribuído o subsídio diário em vigor na província.
 
-###### Art. 16.º O vencimento do pessoal das missões periódicas previstas no artigo 8.º é regulado pela [Portaria n.º 12215](https://diariodarepublica.pt/dr/detalhe/portaria/12215-1947-634703), de 26 de Dezembro de 1947, para cujo efeito se consideram como vencimentos da metrópole os que eram recebidos anteriormente ao abrigo do [Decreto-Lei n.º 42148](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42148-1959-590704), de 11 de Fevereiro de 1959.
+Art. 16.º O vencimento do pessoal das missões periódicas previstas no artigo 8.º é regulado pela [Portaria n.º 12215](https://diariodarepublica.pt/dr/detalhe/portaria/12215-1947-634703), de 26 de Dezembro de 1947, para cujo efeito se consideram como vencimentos da metrópole os que eram recebidos anteriormente ao abrigo do [Decreto-Lei n.º 42148](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42148-1959-590704), de 11 de Fevereiro de 1959.
 
-###### Art. 17.º O pessoal da missão terá direito às licenças que a lei concede, com direito aos vencimentos estipulados no corpo do artigo 15.º e no seu § 1.º
+Art. 17.º O pessoal da missão terá direito às licenças que a lei concede, com direito aos vencimentos estipulados no corpo do artigo 15.º e no seu § 1.º
 
-###### Art. 18.º A comissão orientadora poderá, por motivo fundamentado, propor às autoridades superiores a vinda ao Instituto de Medicina Tropical do pessoal da missão, por período a fixar, para adestramento ou conclusão de trabalhos que não possam ser completados na província.
+Art. 18.º A comissão orientadora poderá, por motivo fundamentado, propor às autoridades superiores a vinda ao Instituto de Medicina Tropical do pessoal da missão, por período a fixar, para adestramento ou conclusão de trabalhos que não possam ser completados na província.
 
-###### Art. 19.º Ao pessoal da missão é vedado exercer na província actividades estranhas à mesma, podendo, porém, em caso de força maior, prestar os serviços que lhe forem reclamados por imposição das regras deontológicas.
+Art. 19.º Ao pessoal da missão é vedado exercer na província actividades estranhas à mesma, podendo, porém, em caso de força maior, prestar os serviços que lhe forem reclamados por imposição das regras deontológicas.
 
-###### Art. 20.º Ao chefe da missão compete:
+Art. 20.º Ao chefe da missão compete:
 
 1.º Executar os trabalhos que a comissão orientadora da missão determinar;
 
@@ -199,9 +211,9 @@ Preparador ... 2.500$00
 
 § único. O projecto dos trabalhos da missão, a que se refere o n.º 4.º, deverá ser elaborado conjuntamente pelo chefe da missão e pelo chefe dos serviços de saúde.
 
-###### Art. 21.º Ao médico adjunto competirá a execução dos trabalhos que lhe forem ordenados pelo chefe da missão.
+Art. 21.º Ao médico adjunto competirá a execução dos trabalhos que lhe forem ordenados pelo chefe da missão.
 
-###### Art. 22.º À enfermeira de saúde pública competirá a execução dos trabalhos que lhe forem ordenados pelo chefe da missão, e nomeadamente:
+Art. 22.º À enfermeira de saúde pública competirá a execução dos trabalhos que lhe forem ordenados pelo chefe da missão, e nomeadamente:
 
 a) A realização de inquéritos entre a população, de carácter social, sanitário e económico;
 
@@ -209,15 +221,15 @@ b) A promoção e organização de campanhas de educação sanitária entre a po
 
 c) A preparação de pessoal, escolhido entre a população local, destinado a coadjuvar os actos de carácter social e de educação sanitária da missão.
 
-###### Art. 23.º O preparador realizará os trabalhos inerentes ao seu cargo, de acordo com o que lhe for ordenado superiormente.
+Art. 23.º O preparador realizará os trabalhos inerentes ao seu cargo, de acordo com o que lhe for ordenado superiormente.
 
-###### Art. 24.º O orçamento da província de S. Tomé e Príncipe inscreverá anualmente a verba necessária para custear os encargos da missão, de acordo com as disposições deste decreto.
+Art. 24.º O orçamento da província de S. Tomé e Príncipe inscreverá anualmente a verba necessária para custear os encargos da missão, de acordo com as disposições deste decreto.
 
-###### Art. 25.º A direcção do Instituto de Medicina Tropical promoverá a constituição da missão para 1960, utilizando as verbas para esse efeito inscritas no orçamento da província.
+Art. 25.º A direcção do Instituto de Medicina Tropical promoverá a constituição da missão para 1960, utilizando as verbas para esse efeito inscritas no orçamento da província.
 
-###### Art. 26.º As tarefas a cargo da missão de combate às glossinas na ilha do Príncipe, o material por ela adquirido e o saldo das respectivas dotações transitarão para a missão de estudo e combate de endemias logo que esta esteja instalada.
+Art. 26.º As tarefas a cargo da missão de combate às glossinas na ilha do Príncipe, o material por ela adquirido e o saldo das respectivas dotações transitarão para a missão de estudo e combate de endemias logo que esta esteja instalada.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 11 de Fevereiro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

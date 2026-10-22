@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 277/1995, 4º Suplemento, Série I-B de 1995-11-30
   number: '277'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 7508-(172) a 7508-(185)
   pdf_url: https://files.diariodarepublica.pt/1s/1995/11/277b04/01720185.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/152/1995/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/152-1995-658576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:44:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8a37177a09965538bb544dc3e6de2e8e14fc1bb8e6a61bf5f95458e0b576f7a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7f96697ed57f775bbc11b700fa3d90235671e56348691416a5c5e5ab4e92806
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:44:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,28 +68,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alteração Orçamental
-- Orçamento
 - Ministério da Saúde
+- Orçamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decl/39/1995/04/06/p/dre
   label: null
   source: http://data.dre.pt/eli/decl/39/1995/04/06/p/dre
+- type: cites
+  target: pt:dre:231082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660512:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:44:48Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 152/95
+# Declaração de rectificação n.º 152/95
 
 Segundo comunicação da 12.ª Delegação da Direcção-Geral da Contabilidade Pública, a [Declaração n.º 39/95](https://diariodarepublica.pt/dr/detalhe/declaracao/39-1995-231082), publicada no Diário da República, 1.ª série, n.º 82, de 6 de Abril de 1995, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com inexactidões, pelo que se procede de novo à sua publicação:
 
@@ -99,7 +107,7 @@ MINISTÉRIO DA SAÚDE - 12.ª Delegação da Direcção-Geral da Contabilidade P
 
 De harmonia com o disposto na parte final do n.º 2 do artigo 6.º do [Decreto-Lei n.º 46/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1984-660512), de 4 de Fevereiro, se publicam as seguintes alterações ao Orçamento do Estado para 1994, autorizadas nos termos dos n.os 2 e 3 do artigo 5.º do mesmo diploma, cujos despachos de autorização constam dos respectivos processos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/277b04/01720185.pdf))](https://files.diariodarepublica.pt/1s/1995/11/277b04/01720185.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/277b04/01720185.pdf)
 
 12.ª Delegação da Direcção-Geral da Contabilidade Pública, 27 de Novembro de 1995. - O Director, José Fernandes Duarte.
 

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43762-1961-171353
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-06-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:24:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f9eead87f43ff18082ac79767494e27045e9e227215464b4cfed078653dedbc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9bf5aa3195fd483d001bf99f7b0c6493f53e16f044ce24c73393a57a173e608
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:24:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:561063:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:24:26Z'
   warnings: []
   errors: []
 ---
@@ -90,13 +94,13 @@ Por motivo de urgência;
 
 Usando da faculdade conferida pelo n.º 3.º e seu § 1.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Ao pessoal das companhias móveis da Polícia de Segurança Pública que se desloque em serviço para as províncias ultramarinas, bem como ao da polícia rural do corpo da Polícia de Segurança Pública da província de S. Tomé e Príncipe, a que se refere o [Decreto n.º 43527](https://diariodarepublica.pt/dr/detalhe/decreto/43527-1961-561063), de 8 de Março do corrente ano, é permitido, enquanto ali permanecer, e a seu requerimento escrito, deixar uma pensão mensal para manutenção da sua família, que será paga em Lisboa por intermédio da Repartição de Contabilidade da Direcção-Geral de Fazenda do Ministério do Ultramar e cujo quantitativo, descontado nos seus vencimentos ultramarinos, não poderá ser superior ao respectivo vencimento mensal atribuído aos seus lugares na metrópole.
+Artigo 1.º Ao pessoal das companhias móveis da Polícia de Segurança Pública que se desloque em serviço para as províncias ultramarinas, bem como ao da polícia rural do corpo da Polícia de Segurança Pública da província de S. Tomé e Príncipe, a que se refere o [Decreto n.º 43527](https://diariodarepublica.pt/dr/detalhe/decreto/43527-1961-561063), de 8 de Março do corrente ano, é permitido, enquanto ali permanecer, e a seu requerimento escrito, deixar uma pensão mensal para manutenção da sua família, que será paga em Lisboa por intermédio da Repartição de Contabilidade da Direcção-Geral de Fazenda do Ministério do Ultramar e cujo quantitativo, descontado nos seus vencimentos ultramarinos, não poderá ser superior ao respectivo vencimento mensal atribuído aos seus lugares na metrópole.
 
 § único. Considera-se família, para efeito do presente artigo, a mulher e pessoas que derem direito ao abono de família.
 
-###### Art. 2.º A faculdade concedida pelo artigo que antecede, quando as circunstâncias o justificarem, poderá ser atribuída por despacho ministerial a outros funcionários que sirvam nas províncias ultramarinas em comissão.
+Art. 2.º A faculdade concedida pelo artigo que antecede, quando as circunstâncias o justificarem, poderá ser atribuída por despacho ministerial a outros funcionários que sirvam nas províncias ultramarinas em comissão.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Junho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

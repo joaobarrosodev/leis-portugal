@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44832-1962-154852
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:33:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 704a9308437776b9c26e696a7b1807c76a229ba0b1bc3854a3bfc9813e9d9e8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1690de7c047cf7d2841809f04d5f4972e467f82571e73f1e7c1787131a361177
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:33:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:184478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516494:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:33:17Z'
   warnings: []
   errors: []
 ---
@@ -86,19 +94,19 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Consideram-se compreendidas nos preceitos do artigo 8.º da [Lei n.º 2111](https://diariodarepublica.pt/dr/detalhe/lei/2111-1961-184478), de 21 de Dezembro de 1961, e do artigo 1.º, alínea c), do regulamento aprovado pelo [Decreto n.º 44267](https://diariodarepublica.pt/dr/detalhe/decreto/44267-1962-516494), de 4 de Abril de 1962, para efeitos da sujeição ao imposto extraordinário para a defesa e valorização do ultramar as actividades constantes da lista anexa a este diploma.
+Artigo 1.º Consideram-se compreendidas nos preceitos do artigo 8.º da [Lei n.º 2111](https://diariodarepublica.pt/dr/detalhe/lei/2111-1961-184478), de 21 de Dezembro de 1961, e do artigo 1.º, alínea c), do regulamento aprovado pelo [Decreto n.º 44267](https://diariodarepublica.pt/dr/detalhe/decreto/44267-1962-516494), de 4 de Abril de 1962, para efeitos da sujeição ao imposto extraordinário para a defesa e valorização do ultramar as actividades constantes da lista anexa a este diploma.
 
-###### Art. 2.º Se em relação às actividades constantes da lista anexa não for possível apurar os lucros imputáveis ao seu exercício de harmonia com o disposto no artigo 2.º do regulamento aprovado pelo [Decreto n.º 44267](https://diariodarepublica.pt/dr/detalhe/decreto/44267-1962-516494), será a matéria colectável determinada nos termos dos artigos 6.º e 7.º do mesmo regulamento, podendo os contribuintes fornecer, para esse efeito, os elementos que julgarem convenientes.
+Art. 2.º Se em relação às actividades constantes da lista anexa não for possível apurar os lucros imputáveis ao seu exercício de harmonia com o disposto no artigo 2.º do regulamento aprovado pelo [Decreto n.º 44267](https://diariodarepublica.pt/dr/detalhe/decreto/44267-1962-516494), será a matéria colectável determinada nos termos dos artigos 6.º e 7.º do mesmo regulamento, podendo os contribuintes fornecer, para esse efeito, os elementos que julgarem convenientes.
 
 § único. O preceituado neste artigo é também aplicável a todas as sociedades ou empresas sujeitas ao imposto de defesa e valorização do ultramar que, embora possuindo escrita devidamente organizada, exerçam actividades que da sua complexidade ou diversidade tornem impraticável a discriminação dos lucros respeitantes a cada uma delas.
 
-###### Art. 3.º Os contribuintes que exerçam actividades constantes da lista anexa apresentarão a declaração modelo n.º 1 e os documentos referidos no artigo 4.º do citado regulamento no prazo de 30 dias, a contar da publicação deste diploma.
+Art. 3.º Os contribuintes que exerçam actividades constantes da lista anexa apresentarão a declaração modelo n.º 1 e os documentos referidos no artigo 4.º do citado regulamento no prazo de 30 dias, a contar da publicação deste diploma.
 
 § único. A determinação da matéria colectável e a liquidação do imposto devido serão feitas nos termos previstos no regulamento, devendo as notas modelo n.º 4 ser remetidas às respectivas secções de finanças à medida que os processos se ultimem para que a cobrança se efectue, por uma só vez, no mês seguinte ao do débito.
 
-###### Art. 4.º Este decreto entra imediatamente em vigor.
+Art. 4.º Este decreto entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Dezembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa.
 

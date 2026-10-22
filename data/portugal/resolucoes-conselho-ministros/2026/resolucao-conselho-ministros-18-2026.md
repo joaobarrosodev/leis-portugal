@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/18/2026/02/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/18-2026-1034985555
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-04T00:00:00Z'
+  retrieved_at: '2026-10-22T18:31:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3a10964f5df22fc8caa50b7a5ae91a9edfb2390166f16d6906b03748a26bfbf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a028c7dbe8867701e22fc29db0e9412cd9647db6bfbc0769bcb0f602f5471f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:31:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Conselho de Ministros
-- Avaliação de Impacte Ambiental
-- Lei de Bases
-- Proteção do Ambiente
-- Gestão do Ambiente
-- Política do Ambiente
 - Agência Portuguesa do Ambiente
+- Avaliação de Impacte Ambiental
+- Conselho de Ministros
 - Estratégia Nacional para o Ruído Ambiente 2025-2030
+- Gestão do Ambiente
+- Lei de Bases
+- Política do Ambiente
+- Proteção do Ambiente
 relationships:
 - type: cites
   target: celex:32002L0049
@@ -126,6 +126,66 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/19/2014/04/14/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/19/2014/04/14/p/dre
+- type: cites
+  target: pt:dre:124457181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124532100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204552601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211443515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639155:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32002L0049
   label: null
@@ -137,13 +197,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:31:17Z'
   warnings: []
   errors: []
 ---
@@ -152,9 +212,9 @@ validation:
 
 A Lei de Bases da Política do Ambiente, aprovada pela [Lei n.º 19/2014](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), de 14 de abril, estabelece como indissociável na realização da política do ambiente, além dos componentes ambientais naturais, os componentes associados a comportamentos humanos, designadamente o ruído, cuja prevenção e controlo da poluição sonora, constitui tarefa fundamental do Estado, visando salvaguardar a qualidade de vida das populações e a saúde humana.
 
-O primeiro Regulamento Geral do Ruído aprovado em 1987, através do [Decreto-Lei n.º 251/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1987-419647), de 24 de junho, constituiu o marco inicial na legislação sobre ruído em Portugal. Foi revisto e seguidamente revogado pelo [Decreto-Lei n.º 292/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-2000-615046), de 14 de novembro, que aprovou o regime legal sobre poluição sonora, que introduziu melhorias ao nível da articulação com o ordenamento do território, reforço na atuação preventiva e enfoque no regime sancionatório. Este diploma foi sucessivamente alterado pelos Decretos-Leis n.<sup>os</sup>[76/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2002-300606), de 26 de março, [259/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-2002-448316), de 23 de novembro, e [293/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-2003-445347), de 19 de novembro.
+O primeiro Regulamento Geral do Ruído aprovado em 1987, através do [Decreto-Lei n.º 251/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1987-419647), de 24 de junho, constituiu o marco inicial na legislação sobre ruído em Portugal. Foi revisto e seguidamente revogado pelo [Decreto-Lei n.º 292/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-2000-615046), de 14 de novembro, que aprovou o regime legal sobre poluição sonora, que introduziu melhorias ao nível da articulação com o ordenamento do território, reforço na atuação preventiva e enfoque no regime sancionatório. Este diploma foi sucessivamente alterado pelos Decretos-Leis n.os[76/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2002-300606), de 26 de março, [259/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-2002-448316), de 23 de novembro, e [293/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-2003-445347), de 19 de novembro.
 
-Foi, entretanto, aprovado o [Decreto-Lei n.º 146/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2006-539393), de 31 de julho, que transpôs a [Diretiva n.º 2002/49/CE](https://data.europa.eu/eli/dir/2002/49/oj?locale=pt), do Parlamento Europeu e do Conselho, de 25 de junho, relativa à avaliação e gestão do ruído ambiente, sucessivamente alterado para acomodar as atualizações, decorrentes da obrigação de transposição de um conjunto alargado de diretivas para o ordenamento jurídico nacional, tendo sido posteriormente alterado pelos Decretos-Leis n.<sup>os</sup>[136-A/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-a-2019-124532100), de 6 de setembro, [84-A/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-a-2022-204552601), de 9 de dezembro, e [23/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2023-211443515), de 5 de abril.
+Foi, entretanto, aprovado o [Decreto-Lei n.º 146/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2006-539393), de 31 de julho, que transpôs a [Diretiva n.º 2002/49/CE](https://data.europa.eu/eli/dir/2002/49/oj?locale=pt), do Parlamento Europeu e do Conselho, de 25 de junho, relativa à avaliação e gestão do ruído ambiente, sucessivamente alterado para acomodar as atualizações, decorrentes da obrigação de transposição de um conjunto alargado de diretivas para o ordenamento jurídico nacional, tendo sido posteriormente alterado pelos Decretos-Leis n.os[136-A/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-a-2019-124532100), de 6 de setembro, [84-A/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-a-2022-204552601), de 9 de dezembro, e [23/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2023-211443515), de 5 de abril.
 
 Esta evolução ditou a necessidade de coerência na aplicação das normas jurídicas, culminando na necessidade de um novo Regulamento Geral do Ruído, aprovado pelo [Decreto-Lei n.º 9/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2007-522807), de 17 de janeiro, alterado pelo [Decreto-Lei n.º 278/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-2007-636389), de 1 de agosto, que harmonizou os indicadores nacionais de ruído ambiente com os da União Europeia e melhorou a articulação com outros regimes jurídicos, designadamente o da urbanização e edificação e o de autorização e licenciamento de atividades.
 
@@ -324,7 +384,8 @@ A evidência dos impactes que causa, bem como a sua magnitude, têm sido apresen
 
 Efeitos no bem-estar emocional, psicológico e social, alterações do sono, doenças cardiovasculares, transtornos metabólicos nos adultos e problemas do desenvolvimento cognitivo nas crianças são alguns dos impactes negativos relacionados com a exposição permanente ou crónica ao ruído excessivo. A crescente perceção e sensibilidade das comunidades às questões associadas ao ruído ambiente têm contribuído para que as comunidades manifestem, cada vez com maior frequência, o seu desconforto e desagrado e reivindiquem os seus direitos em várias instâncias.
 
-![](https://files.diariodarepublica.pt/images/1034985555/1034985653.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985555/1034985653.png) |
+| --- |
 
 Refira-se ainda que a Estratégia Portugal 2030, estabelece no seu domínio «Reduzir os riscos e valorizar os ativos ambientais», a concretização dos instrumentos de gestão do ruído ambiente, de forma a aprofundar o conhecimento e a reduzir o número de pessoas expostas ao ruído ambiente.
 
@@ -395,8 +456,8 @@ Tabela 1 - Enquadramento dos contributos da consulta pública na ENRA
 | Preocupação | Objetivo operacional | Medida |
 | --- | --- | --- |
 | Ruído Temporário - festas/festivais/pirotecnia | 1.1 - Aumentar a literacia sobre o ruído ambiente e a sensibilização para os seus efeitos na saúde | 1.1.1 - Desenvolver e implementar um plano de sensibilização e comunicação, destinado a diferentes públicos-alvo |
-| Ruído Temporário - festas/festivais/pirotecnia | 3.2 - Promover a qualidade do exercício da atividade dos profissionais com intervenção na área do ruído ambiente | 3.2.2 - Capacitar entidades e atores com responsabilidades específicas ao nível do planeamento, do projeto, do licenciamento, da fiscalização e da aplicação de sanções e de regulação |
-| Ruído Temporário - festas/festivais/pirotecnia | 3.3 - Melhorar a capacidade de intervenção | 3.3.3 - Desenvolver e atualizar guias direcionadas à aplicação do RGR, do RAGRA e demais legislação, favorecendo a harmonização de práticas e procedimentos |
+| 3.2 - Promover a qualidade do exercício da atividade dos profissionais com intervenção na área do ruído ambiente | 3.2.2 - Capacitar entidades e atores com responsabilidades específicas ao nível do planeamento, do projeto, do licenciamento, da fiscalização e da aplicação de sanções e de regulação |  |
+| 3.3 - Melhorar a capacidade de intervenção | 3.3.3 - Desenvolver e atualizar guias direcionadas à aplicação do RGR, do RAGRA e demais legislação, favorecendo a harmonização de práticas e procedimentos |  |
 | Proteção da população/proteção da habitação | 2.1 - Promover a articulação com as políticas e instrumentos de ordenamento do território | 2.1.1 - Promover a integração da componente ruído na reabilitação urbana e na qualificação do espaço público para a redução da exposição ao ruído2.1.4 - Promover a criação de projetos de financiamento para a reabilitação de fachadas expostas a ruído ambiente em edificado de uso sensível |
 | Ruído rodoviário | 3.1 - Melhorar a qualidade da resposta aos problemas de ruído ao nível dos instrumentos legais | Todas as medidas do objetivo |
 
@@ -410,7 +471,8 @@ Os efeitos auditivos manifestam-se pelo desgaste da capacidade auditiva, que pod
 
 Por outro lado, os efeitos não auditivos estão mais associados a sintomas físicos como manifestações de incomodidade e/ou de stress, ao desenvolvimento de patologias cardiovasculares, de perturbações do sono e, ainda, de redução das faculdades de compreensão e de desempenho funcional (mais relevantes em crianças e no contexto da aprendizagem). Na figura 1 apresenta-se a adaptação da Agência Europeia do Ambiente (AEA) sobre a gradação desses efeitos com evolução crescente de gravidade sendo que os efeitos menos gravosos são também os mais frequentes (atingindo mais população) e, naturalmente, os mais gravosos são os menos frequentes.
 
-![](https://files.diariodarepublica.pt/images/1034985555/1034985654.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985555/1034985654.png) |
+| --- |
 
 Figura 1 - Pirâmide dos efeitos do ruído ambiente na saúde e qualidade de vida da população. Adaptado de (EEA, 2019)
 
@@ -456,9 +518,11 @@ No que respeita à classificação de zonas mistas e sensíveis, evidenciada ter
 
 Acresce registar a opção de alguns municípios, mesmo em situações não enquadradas pelo RGR, de delimitarem zonas tranquilas no seu território, na aceção da definição constante do RAGRA.
 
-![](https://files.diariodarepublica.pt/images/1034985555/1034985655.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985555/1034985655.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1034985555/1034985656.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985555/1034985656.png) |
+| --- |
 
 Figura 2 - a) Mapa de Ruído, nos municípios portugueses; b) Zonamento Acústico aprovado no âmbito do PDM, segundo o ano de elaboração da edição mais recente (informação recolhida até 17 de agosto de 2021)(1)
 
@@ -472,9 +536,11 @@ A figura 3 reflete a situação atual no que respeita à identificação das Zon
 
 No que respeita aos Planos Municipais de Redução de Ruído [figura 3 b)], concluiu-se que ainda será necessário um extenso trabalho de elaboração e implementação dos mesmos. Ficou patente alguma dificuldade de comunicação entre os diversos atores que têm de congregar esforços na implementação de um PMRR, com verdadeira incidência territorial, cujo objetivo primordial deve ser o cumprimento do RGR. Por fim, não pode deixar de se fazer uma nota sobre a inexistência de informação relativa às zonas de conflito e PMRR numa parte muito considerável dos municípios.
 
-![](https://files.diariodarepublica.pt/images/1034985555/1034985657.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985555/1034985657.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1034985555/1034985658.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985555/1034985658.png) |
+| --- |
 
 Figura 3 - a) Mapa de Conflito, nos municípios portugueses; b) Plano Municipal de Redução de Ruído, segundo o ano de elaboração da edição mais recente (informação recolhida até 17 de agosto de 2021)(2)
 
@@ -520,11 +586,14 @@ Ao nível das Diretrizes de Planeamento e Gestão (DPG) foram identificadas dive
 
 No caso dos indicadores de monitorização (IM) foi possível destacar, pela maior frequência com que foram considerados, as seguintes referências: Reclamações relacionadas com ruído; (Percentagem de) População exposta a determinadas classes de ruído; (Percentagem de) População exposta a níveis de ruído superiores aos limites legais aplicáveis; Zonas de Conflito (percentagem de população em ZC, área das ZC, número de ZC, licenças emitidas em ZC); Proteção ao ruído (medidas implementadas e investimento).
 
-![](https://files.diariodarepublica.pt/images/1034985555/1034985659.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985555/1034985659.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1034985555/1034985660.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985555/1034985660.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1034985555/1034985661.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985555/1034985661.png) |
+| --- |
 
 Figura 4 - a) Relatório do Estado do Ordenamento do Território; b) Avaliação Ambiental Estratégica associada ao PDM; c) Declaração Ambiental decorrente da AAE associada ao PDM, segundo o ano de elaboração da edição mais recente (informação recolhida até 17 de agosto de 2021)
 
@@ -536,13 +605,14 @@ Avaliação e gestão do ruído ambiente
 
 O regime de avaliação e gestão de ruído ambiente (RAGRA), aprovado em 2006 para assegurar a transposição da [Diretiva n.º 2002/49/CE](https://data.europa.eu/eli/dir/2002/49/oj?locale=pt), do Parlamento Europeu e do Conselho, relativa à avaliação e gestão do ruído ambiente, tem vindo a sofrer as alterações necessárias para se adaptar às subsequentes Diretivas que têm sido aprovadas neste domínio.
 
-O RAGRA aplica-se ao ruído ambiente produzido nas aglomerações ou por grandes infraestruturas de transporte rodoviário, ferroviário ou aéreo, com efeitos em zonas com uso habitacional, escolares, hospitalares, em espaços de lazer e em zonas tranquilas (em campo aberto ou dentro de uma aglomeração), sem menosprezar outras zonas com uso sensível ao ruído. Os Mapas Estratégicos de Ruído (MER) são elaborados identificando as várias fontes de ruído provenientes de grandes infraestruturas de transporte (GIT): rodoviário, ferroviário e aéreo. As aglomerações que correspondem, em 2021, a municípios com população superior a 100 000 habitantes e densidade populacional não inferior a 2500 hab/km<sup>2</sup> são: Amadora, Lisboa, Matosinhos, Odivelas, Oeiras e Porto, com um universo de 1 441 299 habitantes, conforme os Censos de 2021, englobam todas as fontes de ruído existentes dentro dos limites territoriais.
+O RAGRA aplica-se ao ruído ambiente produzido nas aglomerações ou por grandes infraestruturas de transporte rodoviário, ferroviário ou aéreo, com efeitos em zonas com uso habitacional, escolares, hospitalares, em espaços de lazer e em zonas tranquilas (em campo aberto ou dentro de uma aglomeração), sem menosprezar outras zonas com uso sensível ao ruído. Os Mapas Estratégicos de Ruído (MER) são elaborados identificando as várias fontes de ruído provenientes de grandes infraestruturas de transporte (GIT): rodoviário, ferroviário e aéreo. As aglomerações que correspondem, em 2021, a municípios com população superior a 100 000 habitantes e densidade populacional não inferior a 2500 hab/km2 são: Amadora, Lisboa, Matosinhos, Odivelas, Oeiras e Porto, com um universo de 1 441 299 habitantes, conforme os Censos de 2021, englobam todas as fontes de ruído existentes dentro dos limites territoriais.
 
 No que respeita às grandes infraestruturas de transporte (GIT), foram considerados, em 2021: GIT aéreo, com mais de 50 mil movimentos anuais, os aeroportos Francisco Sá Carneiro (Porto) e Humberto Delgado (Lisboa); GIT rodoviário, os troços de rede com mais de 3 milhões de passagens de veículos por ano, representados na figura 5-a); e, GIT ferroviário, os troços de rede com mais de 30 mil passagens de comboios por ano, patentes da figura 5-b). Na sua globalidade constata-se que estes troços se localizam, maioritariamente, no litoral e nas zonas mais populosas. A extensão de vias rodoviárias objeto de reporte sofreu uma ligeira redução entre 2012 e 2017, de 3378 km para 3103 km e, no caso das vias ferroviárias, a extensão reportada também reduziu de 507 km para 380 km.
 
 A análise efetuada e que aqui se apresenta desenvolve-se a partir do ano de 2012, ano de reporte de mapas estratégicos de ruído e dos dados de exposição de população a ruído ambiente exterior estimados a partir desses mapas. O reporte é atualizado obrigatoriamente a cada cinco anos, isto é, 2012, 2017, etc. Os dados de tráfego utilizados nesses mapas são referentes ao ano civil anterior, isto é, respetivamente, 2011, 2016, etc.
 
-![](https://files.diariodarepublica.pt/images/1034985555/1034985662.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985555/1034985662.png) |
+| --- |
 
 Figura 5 - a) GIT ferroviária no contexto da Rede Ferroviária Nacional; b) GIT rodoviária no contexto da Rede Rodoviária Nacional (adaptado de EEA)
 
@@ -550,25 +620,26 @@ Mapas estratégicos de ruído
 
 Para as aglomerações e GIT aéreo, ferroviário e rodoviário atrás identificadas foram elaborados os correspondentes mapas estratégicos de ruído (MER) e avaliada a população exposta, por tipo de fonte e por classe de exposição.
 
-Como é possível observar na figura 6, o gráfico a), o número de pessoas expostas a ruído excessivo aumentou, para todos os períodos do dia e para localização, dentro ou fora, das aglomerações. Esta constatação é válida tanto para os limites associados a zona sensível (acréscimo de 19 % para o indicador L<sub>den</sub> e 7 % para o período noturno) como a zona mista (crescimento de 24 % para o indicador L<sub>den</sub> e 17 % em período noturno). Da informação desagregada por tipo de fonte sonora, figura 6-b) e figura 6-c), depreende-se que a contribuição das diferentes fontes para este acréscimo é distinta.
+Como é possível observar na figura 6, o gráfico a), o número de pessoas expostas a ruído excessivo aumentou, para todos os períodos do dia e para localização, dentro ou fora, das aglomerações. Esta constatação é válida tanto para os limites associados a zona sensível (acréscimo de 19 % para o indicador Lden e 7 % para o período noturno) como a zona mista (crescimento de 24 % para o indicador Lden e 17 % em período noturno). Da informação desagregada por tipo de fonte sonora, figura 6-b) e figura 6-c), depreende-se que a contribuição das diferentes fontes para este acréscimo é distinta.
 
 População exposta nas aglomerações
 
-De acordo com a figura 6, nas seis aglomerações com MER, tem ocorrido um acréscimo do número de pessoas expostas a níveis sonoros superiores aos limites impostos para zonas sensíveis [L<sub>den</sub> ≥ 55 dB(A) e L<sub>n</sub> ≥ 45 dB(A)] e para zonas mistas [L<sub>den</sub> ≥ 65 dB(A) e L<sub>n</sub> ≥ 55 dB(A)]. Tal acréscimo dever-se-á, em grande medida, ao tráfego rodoviário, tanto para o período global de 24h (L<sub>den</sub>) como para o período noturno (L<sub>n</sub>), não se devendo ignorar que, ao crescimento do tráfego, também se poderá acrescer um efeito resultante do aumento do número de edificações na proximidade das mesmas.
+De acordo com a figura 6, nas seis aglomerações com MER, tem ocorrido um acréscimo do número de pessoas expostas a níveis sonoros superiores aos limites impostos para zonas sensíveis [Lden ≥ 55 dB(A) e Ln ≥ 45 dB(A)] e para zonas mistas [Lden ≥ 65 dB(A) e Ln ≥ 55 dB(A)]. Tal acréscimo dever-se-á, em grande medida, ao tráfego rodoviário, tanto para o período global de 24h (Lden) como para o período noturno (Ln), não se devendo ignorar que, ao crescimento do tráfego, também se poderá acrescer um efeito resultante do aumento do número de edificações na proximidade das mesmas.
 
 Em relação aos efeitos do tráfego ferroviário também se tem assistido a algum acréscimo de afetação, embora com menor incidência, por comparação com o tráfego rodoviário. Em sentido oposto, e considerando os dados disponíveis, o ruído proveniente de unidades industriais tem registado um decréscimo no número de afetados, devido à criação de zonas industriais à margem dos centros urbanos.
 
 População exposta, na envolvente das grandes infraestruturas de transporte, fora das aglomerações
 
-Constituindo o ruído excessivo proveniente das GIT uma das principais causas de incomodidade e de perturbação do bem-estar e da qualidade de vida da população, considerou-se de particular relevância para a elaboração da ENRA 2025-2030 o conhecimento da dimensão dessa afetação. Na figura 6-b) e figura 6-c) observa-se que a exposição da população a este tipo de fonte é significativa, em particular a exposição associada às vias rodoviárias, responsável por cerca de 80 % da população exposta a mais de 55 dB(A) e por quase 74 % da população exposta a mais de 65 dB(A), no caso do indicador L<sub>de</sub>n. Em relação ao período noturno a preponderância é similar, representando, respetivamente, 81 % e 75 %.
+Constituindo o ruído excessivo proveniente das GIT uma das principais causas de incomodidade e de perturbação do bem-estar e da qualidade de vida da população, considerou-se de particular relevância para a elaboração da ENRA 2025-2030 o conhecimento da dimensão dessa afetação. Na figura 6-b) e figura 6-c) observa-se que a exposição da população a este tipo de fonte é significativa, em particular a exposição associada às vias rodoviárias, responsável por cerca de 80 % da população exposta a mais de 55 dB(A) e por quase 74 % da população exposta a mais de 65 dB(A), no caso do indicador Lden. Em relação ao período noturno a preponderância é similar, representando, respetivamente, 81 % e 75 %.
 
-Genericamente, em relação ao ruído de GIT rodoviário, pode-se constatar que cerca de 14 % da população nacional está exposta a níveis sonoros superiores a 55 dB(A), para o indicador L<sub>den</sub> e, aproximadamente, 4 % da população, em período noturno (L<sub>n</sub>), a níveis superiores a 55 dB(A).
+Genericamente, em relação ao ruído de GIT rodoviário, pode-se constatar que cerca de 14 % da população nacional está exposta a níveis sonoros superiores a 55 dB(A), para o indicador Lden e, aproximadamente, 4 % da população, em período noturno (Ln), a níveis superiores a 55 dB(A).
 
 No que respeita às GIT ferroviário, dos diversos municípios atravessados, o maior número de pessoas expostas a ruído excessivo proveniente de GIT ferroviário encontra-se fora das aglomerações, revelando-se como a terceira maior fonte de ruído.
 
-Quanto às GIT aéreo, e tendo em conta os dados associados à população exposta fora das aglomerações de Lisboa e Porto, o reporte mais recente (2017), para o período global de 24h (L<sub>den</sub>), informa que cerca 15 % da população está sujeita a ruído excessivo e, no período noturno (L<sub>n</sub>), cerca de 30 %, o que representa um acréscimo muito significativo, por comparação com os dados de 2012.
+Quanto às GIT aéreo, e tendo em conta os dados associados à população exposta fora das aglomerações de Lisboa e Porto, o reporte mais recente (2017), para o período global de 24h (Lden), informa que cerca 15 % da população está sujeita a ruído excessivo e, no período noturno (Ln), cerca de 30 %, o que representa um acréscimo muito significativo, por comparação com os dados de 2012.
 
-![](https://files.diariodarepublica.pt/images/1034985555/1034985663.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985555/1034985663.png) |
+| --- |
 
 Figura 6 - a) Exposição da população a ruído ambiente; b) Número de pessoas expostas a ruído excessivo, segundo os limites definidos para zonas sensíveis; c) Número de pessoas expostas a ruído excessivo, segundo os limites definidos para zonas mistas (adaptado de EEA)
 
@@ -576,7 +647,8 @@ Como se pode observar dos resultados dos censos 2021 (figura 7), no que respeita
 
 Em relação à população exposta constata-se que a faixa litoral nacional sofreu algum acréscimo populacional, mais evidente na Área Metropolitana de Lisboa (AML) e no Algarve. Esta situação revela a necessidade de se equacionar a possibilidade de dotar o quadro legal atual de maior eficácia, por exemplo, com a ampliação das atuais zonas non-aedificandi, para que se possam constituir como zonas de servidão acústica, com a definição de valores limite por tipo de fonte e/ou com a introdução de valores-limite de exposição no interior das edificações, minimizando a afetação da saúde e da qualidade de vida da população.
 
-![](https://files.diariodarepublica.pt/images/1034985555/1034985664.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985555/1034985664.png) |
+| --- |
 
 Figura 7 - Resultados definitivos dos censos 2021 no que respeita à variação: a) Do número de edifícios por município; b) Do número de alojamentos por município; e c) Da população por município (INE)
 
@@ -594,7 +666,7 @@ No âmbito do determinado pelo RGR, e no que respeita ao controlo prévio das op
 
 Neste Regulamento são estabelecidos requisitos acústicos para os elementos de separação com o exterior, em função da localização do edifício, da classificação do local onde se insere como Zona Mista ou Zona Sensível e do tipo de função do mesmo.
 
-No caso de edifícios com exigências acústicas acrescidas, relacionadas com a função a que se destinam (como auditórios, salas de conferência e salas polivalentes, salas de cinema, auditórios para música ou salas de espetáculo) existe uma disposição legal que determina que as respetivas fachadas devem assegurar isolamento suficiente para que, no interior do recinto, se verifique a condição L<sub>Aeq</sub> ≤ 30 dB(A), ou seja, quase tão exigente quanto o limiar de L<sub>Aeq</sub> = 27 dB(A) considerado para quartos de dormir ou salas de estar de edifícios com uso habitacional.
+No caso de edifícios com exigências acústicas acrescidas, relacionadas com a função a que se destinam (como auditórios, salas de conferência e salas polivalentes, salas de cinema, auditórios para música ou salas de espetáculo) existe uma disposição legal que determina que as respetivas fachadas devem assegurar isolamento suficiente para que, no interior do recinto, se verifique a condição LAeq ≤ 30 dB(A), ou seja, quase tão exigente quanto o limiar de LAeq = 27 dB(A) considerado para quartos de dormir ou salas de estar de edifícios com uso habitacional.
 
 No caso de edifícios comerciais e de serviços, e partes similares em edifícios industriais, dado que o nível de exigência funcional é inferior ao dos demais edifícios (habitacionais, mistos e unidades hoteleiras; escolares e similares, e de investigação; hospitalares e similares) existe um potencial assinalável de transmissão de ruído para o exterior e, como tal, a possibilidade de incrementar o ruído ambiente.
 
@@ -606,21 +678,23 @@ Da consulta de estudos, recomendações e documentos legais de países da União
 
 No relatório «Overview of critical noise values in the European Region» da EPA Network Interest Group on Noise Abatement (IGNA), publicado em outubro de 2019 é retratado o estado da arte a nível europeu, no que respeita aos instrumentos legais vigentes e à sua relação com as diretrizes da OMS, incluindo o resultado de um inquérito, respondido por 29 países. O relatório conclui que: 90 % dos países europeus, têm valores-limite definidos, sendo necessária a implementação de medidas de minimização para assegurar o cumprimento dos mesmos (Figura 8); cerca de 75 % dos países têm limites específicos associados ao ruído proveniente de infraestruturas rodoviárias, ferroviárias e aéreas, bem como para o ruído de unidades industriais; perto de metade dos países estabeleceram limites para o ruído de turbinas eólicas, embora alguns tenham enquadrado este tipo de ruído no ruído industrial; em outros países, como Portugal, existem valores-limite de exposição, não diretamente relacionados com fontes de ruído específicas, que são aplicados em zonas do território classificadas consoante a sua sensibilidade ao ruído que, no caso nacional, correspondem a zonas mistas e a zonas sensíveis.
 
-![](https://files.diariodarepublica.pt/images/1034985555/1034985665.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985555/1034985665.png) |
+| --- |
 
 Figura 8 - Existência de valores-limite de ruído, aplicáveis a qualquer tipo de fonte ou a ruído ambiente (coluna da esquerda); países com valores-limite por tipo de fonte de ruído (IGNA, 2019)
 
-Quanto aos indicadores de ruído adotados (figura 9), foram encontradas diversas combinações de L<sub>den</sub>, L<sub>d</sub>, L<sub>e</sub> e L<sub>n</sub>, sendo a mais frequente a que engloba L<sub>d</sub> e L<sub>n</sub>, incluindo-se o período do entardecer (L<sub>e</sub>) no período diurno (L<sub>d</sub> estendido entre as 6h às 22h). Estes indicadores são considerados de forma similar para as infraestruturas de transporte rodoviário, ferroviário e aéreo. No caso do ruído industrial e do ruído de turbinas eólicas nota-se menor uniformidade nos indicadores eleitos. Alguns países, como a Alemanha, integram no seu referencial legal, limitações ao número e intensidade de eventos singulares, cumulativamente com os valores limite do Ln.
+Quanto aos indicadores de ruído adotados (figura 9), foram encontradas diversas combinações de Lden, Ld, Le e Ln, sendo a mais frequente a que engloba Ld e Ln, incluindo-se o período do entardecer (Le) no período diurno (Ld estendido entre as 6h às 22h). Estes indicadores são considerados de forma similar para as infraestruturas de transporte rodoviário, ferroviário e aéreo. No caso do ruído industrial e do ruído de turbinas eólicas nota-se menor uniformidade nos indicadores eleitos. Alguns países, como a Alemanha, integram no seu referencial legal, limitações ao número e intensidade de eventos singulares, cumulativamente com os valores limite do Ln.
 
 Nem todos os países consideram os três períodos do dia indicados na DRA, ou o horário fixado para os mesmos por defeito (07:00 - 19:00, 19:00 - 23:00 e 23:00 - 07:00), tendo optado por adequar esses horários à sua realidade nacional. Em Portugal existe um ajuste no período diurno e do entardecer, terminando o primeiro às 20:00 e ficando o segundo entre as 20:00 e as 23:00.
 
-![](https://files.diariodarepublica.pt/images/1034985555/1034985666.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985555/1034985666.png) |
+| --- |
 
 Figura 9 - Indicadores utilizados pelos diferentes países europeus na definição de limites por tipo de fonte de ruído (IGNA, 2019)
 
 Os valores-limite adotados também são muito variáveis entre os 29 países analisados, observando-se intervalos de variação dos mesmos de 18 dB(A), 20 dB(A) e 10 dB(A), respetivamente para infraestruturas de transporte ferroviário, rodoviário e aéreo. A variação no caso do ruído industrial e de aerogeradores em torres eólicas é ainda maior, atingindo mais de 30 dB(A). Constata-se que uma parte significativa dos países tem valores-limite superiores aos recomendados pela OMS para os diferentes tipos de fontes de ruído.
 
-No que se refere ao diferencial entre os valores-limite do período noturno (L<sub>n</sub>) e L<sub>den</sub> ou L<sub>d</sub>, para todas as fontes, exceto turbinas eólicas, é geralmente inferior em 10 dB (situação que ocorre em mais de 65 % dos países).
+No que se refere ao diferencial entre os valores-limite do período noturno (Ln) e Lden ou Ld, para todas as fontes, exceto turbinas eólicas, é geralmente inferior em 10 dB (situação que ocorre em mais de 65 % dos países).
 
 No caso dos países que têm valores-limite diferenciados por tipo de fonte, dos quais Portugal se exclui, tendencialmente essa diferença é zero, embora em cerca de 20 % dos países se verifiquem limites superiores para o ruído ferroviário, em oposição ao retratado pelas mais recentes curvas dose-resposta da OMS (2018) relativas às incomodidades ao ruído. Para o ruído aéreo, cujas curvas dose-resposta de incomodidade e de perturbação do sono evidenciam percentagens significativamente superiores de afetação, também se releva que os valores-limite não apresentam a devida correspondência, existindo apenas 25 % dos países que definiram limites inferiores aos das demais infraestruturas de transporte.
 
@@ -632,7 +706,8 @@ Na sequência dos aspetos anteriormente resumidos, o estudo comparativo da reali
 
 Entre 85 % a 100 % dos países impõe a adoção de medidas «ativas» para todo o tipo de fontes, exceto para o ruído aéreo. A proibição do exercício da atividade também é frequente para ruído industrial e de turbinas eólicas (mais de 75 % dos países), sendo menos usual no caso de infraestruturas de transporte (menos de 20 % dos países). A adoção de medidas «passivas» também é uma exigência comum no caso das infraestruturas de transporte, embora alguns países, entre os quais Portugal, determine que tal só deve ocorrer depois de esgotadas as medidas «ativas». A aplicação de sanções é adotada em relação a todas as fontes de ruído, sendo mais comum no caso do ruído aéreo e industrial do que para ruído rodoviário e ferroviário.
 
-![](https://files.diariodarepublica.pt/images/1034985555/1034985667.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985555/1034985667.png) |
+| --- |
 
 Figura 10 - Tipificação das consequências do incumprimento dos valores-limite aplicáveis por tipo de fonte de ruído (INGA, 2019)
 
@@ -644,13 +719,15 @@ As diferentes entidades identificaram aspetos críticos e dificuldades na implem
 
 Com base nesse diagnóstico, foram identificados os principais problemas, aspetos críticos e constrangimentos que têm impedido ou dificultado a obtenção de melhores resultados na qualidade do ambiente sonoro, assim como um conjunto de oportunidades para facilitar, agilizar ou potenciar os objetivos desta Estratégia. A figura 11 sintetiza e organiza esses constrangimentos e oportunidades:
 
-![](https://files.diariodarepublica.pt/images/1034985555/1041044275.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985555/1041044275.png) |
+| --- |
 
 Figura 11 - Síntese de constrangimentos à eficaz atuação e oportunidades da ENRA 2030
 
 Em complemento desta análise, identificou-se um conjunto de mensagens-chave (figura 12) que permite criar um foco nas questões que, por um lado, se consideraram críticas e que estão no cerne da motivação para esta Estratégia e, por outro lado, nos aspetos ou nas circunstâncias que constituem oportunidades que justificam a valorização do momento atual para intervir no ruído ambiente em Portugal, através da ENRA 2030:
 
-![](https://files.diariodarepublica.pt/images/1034985555/1034985668.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985555/1034985668.png) |
+| --- |
 
 Figura 12 - Conjunto de mensagens-chave
 
@@ -692,11 +769,11 @@ Objetivo estratégico 1
 
 OE 1. Promover o reconhecimento da importância do ruído ambiente na saúde e na qualidade de vida da população
 
-| Objetivos operacionais | Medidas propostas | Medidas propostas |
+| Objetivos operacionais | Medidas propostas |  |
 | --- | --- | --- |
-| 1.1 - Aumentar a literacia sobre o ruído ambiente e a sensibilização para os seus efeitos na saúde. | 1.1.1 - Desenvolver e implementar um Plano de Sensibilização e Comunicação, destinado a diferentes públicos-alvo:• População e decisores;• Públicos específicos (crianças e jovens; trabalhadores de determinados setores da economia); | 1.1.1 - Desenvolver e implementar um Plano de Sensibilização e Comunicação, destinado a diferentes públicos-alvo:• População e decisores;• Públicos específicos (crianças e jovens; trabalhadores de determinados setores da economia); |
+| 1.1 - Aumentar a literacia sobre o ruído ambiente e a sensibilização para os seus efeitos na saúde. | 1.1.1 - Desenvolver e implementar um Plano de Sensibilização e Comunicação, destinado a diferentes públicos-alvo:• População e decisores;• Públicos específicos (crianças e jovens; trabalhadores de determinados setores da economia); |  |
 | Intervenientes:APA; SPA; IGAMAOT; Escolas; CCDR; Municípios/CIM; ONGA; GNR-SEPNA; PSP-BriPA. | Indicadores:• Plano de Sensibilização e Comunicação. | Metas:• Lançamento do Plano de Sensibilização e Comunicação 18 meses após a aprovação da ENRA. |
-| 1.2 - Desenvolver uma infraestrutura digital que permita a centralização de informação sobre ruído ambiente, com o objetivo de facilitar o reporte contínuo e harmonizado e o acesso diferenciado. | 1.2.1 - Conceber, implementar e divulgar o Portal do Ruído;1.2.2 - Formar as entidades com competências e responsabilidades no ruído ambiente para a utilização do Portal do Ruído;1.2.3 - Dinamizar o reporte e a divulgação de indicadores harmonizados de ruído e de informação geográfica relevante no Portal do Ruído. | 1.2.1 - Conceber, implementar e divulgar o Portal do Ruído;1.2.2 - Formar as entidades com competências e responsabilidades no ruído ambiente para a utilização do Portal do Ruído;1.2.3 - Dinamizar o reporte e a divulgação de indicadores harmonizados de ruído e de informação geográfica relevante no Portal do Ruído. |
+| 1.2 - Desenvolver uma infraestrutura digital que permita a centralização de informação sobre ruído ambiente, com o objetivo de facilitar o reporte contínuo e harmonizado e o acesso diferenciado. | 1.2.1 - Conceber, implementar e divulgar o Portal do Ruído;1.2.2 - Formar as entidades com competências e responsabilidades no ruído ambiente para a utilização do Portal do Ruído;1.2.3 - Dinamizar o reporte e a divulgação de indicadores harmonizados de ruído e de informação geográfica relevante no Portal do Ruído. |  |
 | Intervenientes:APA e Pontos Focais; entidades responsáveis por GIT; INE. | Indicadores:• Número de ações de formação e sensibilização para utilização do Portal do Ruído.• Número de funcionalidades desenvolvidas e implementadas no Portal do Ruído. | Metas:• Lançamento do Portal do Ruído 24 meses após aprovação do ENRA. |
 
 OE 2. Planear o território para reduzir a exposição ao ruído
@@ -719,7 +796,7 @@ No âmbito deste objetivo operacional cabem medidas como as que a seguir se prop
 
 Deve salientar-se que, a este nível, é expectável que os municípios, sendo as entidades responsáveis pela elaboração dos Mapas de Ruído, pela classificação, delimitação e disciplina de zonas mistas e sensíveis e pela elaboração e implementação dos Planos Municipais de Redução de Ruído, se devem envolver ativamente na implementação deste objetivo operacional, em colaboração estreita com as restantes entidades, assegurando a produção de informação e reporte da mesma.
 
-Finalmente, ainda no âmbito deste objetivo operacional, são de realçar fortes sinergias com o Programa Nacional da Política de Ordenamento do Território (PNPOT), nomeadamente, no que respeita à medida 1.9(<sup>3</sup>) já define como indicador de monitorização a população exposta ao ruído > a L<sub>den</sub> 65dB(A), por concelho (medida 1.9) e à medida 4.1(<sup>4</sup>) no âmbito da qual um dos indicadores de monitorização definidos foi a percentagem de população exposta ao ruído que, objetivamente, convergem com a Visão, os objetivos e as metas estabelecidas pela ENRA 2030.
+Finalmente, ainda no âmbito deste objetivo operacional, são de realçar fortes sinergias com o Programa Nacional da Política de Ordenamento do Território (PNPOT), nomeadamente, no que respeita à medida 1.9(3) já define como indicador de monitorização a população exposta ao ruído > a Lden 65dB(A), por concelho (medida 1.9) e à medida 4.1(4) no âmbito da qual um dos indicadores de monitorização definidos foi a percentagem de população exposta ao ruído que, objetivamente, convergem com a Visão, os objetivos e as metas estabelecidas pela ENRA 2030.
 
 QUADRO 2
 
@@ -727,13 +804,13 @@ Objetivo estratégico 2
 
 OE 2. Planear o território para prevenir e reduzir a exposição ao ruído
 
-| Objetivos operacionais | Medidas propostas | Medidas propostas |
+| Objetivos operacionais | Medidas propostas |  |
 | --- | --- | --- |
-| 2.1 - Promover a articulação com as políticas e instrumentos de ordenamento do território. | 2.1.1 - Promover a integração do ruído nos processos de planeamento e gestão do território;2.1.2 - Promover a partilha de informação de base territorial para a produção de mapas de ruído harmonizados;2.1.3 - Promover a mobilidade sustentável;2.1.4 - Promover que na reabilitação de edifícios de uso sensível se inclua o isolamento acústico. | 2.1.1 - Promover a integração do ruído nos processos de planeamento e gestão do território;2.1.2 - Promover a partilha de informação de base territorial para a produção de mapas de ruído harmonizados;2.1.3 - Promover a mobilidade sustentável;2.1.4 - Promover que na reabilitação de edifícios de uso sensível se inclua o isolamento acústico. |
+| 2.1 - Promover a articulação com as políticas e instrumentos de ordenamento do território. | 2.1.1 - Promover a integração do ruído nos processos de planeamento e gestão do território;2.1.2 - Promover a partilha de informação de base territorial para a produção de mapas de ruído harmonizados;2.1.3 - Promover a mobilidade sustentável;2.1.4 - Promover que na reabilitação de edifícios de uso sensível se inclua o isolamento acústico. |  |
 | Intervenientes:APA e Pontos Focais; INE; entidades responsáveis por GIT. | Indicadores:• Medidas de redução de ruído integradas em instrumentos de planeamento e/ou planos de redução de ruído aprovados e divulgadas no Portal do Ruído;• Número de edifícios reabilitados com integração da componente acústica. | Metas: (n.a.*) |
-| 2.2 - Promover a eficácia da política de ruído ambiente e sua integração no planeamento municipal. | 2.2.1 - Promover a atualização e harmonização dos Mapas de Ruído municipais e a concretização da classificação, delimitação e disciplina de zonas mistas e sensíveis;2.2.2 - Incrementar a integração da componente ruído no licenciamento e fiscalização municipal das atividades económicas. | 2.2.1 - Promover a atualização e harmonização dos Mapas de Ruído municipais e a concretização da classificação, delimitação e disciplina de zonas mistas e sensíveis;2.2.2 - Incrementar a integração da componente ruído no licenciamento e fiscalização municipal das atividades económicas. |
+| 2.2 - Promover a eficácia da política de ruído ambiente e sua integração no planeamento municipal. | 2.2.1 - Promover a atualização e harmonização dos Mapas de Ruído municipais e a concretização da classificação, delimitação e disciplina de zonas mistas e sensíveis;2.2.2 - Incrementar a integração da componente ruído no licenciamento e fiscalização municipal das atividades económicas. |  |
 | Intervenientes:APA; DGT; IGF; IGAMAOT; CCDR; Municípios/CIM; GNR-SEPNA; PSP-BRiPA; ASAE. | Indicadores:• Número de Mapas de Ruído atualizados com população expostas aos valores limites, no Portal do Ruído:• % de população exposta ao ruído > 65dB(A), por concelho;• Número de documentos de divulgação de boas práticas no Portal do Ruído. | Metas:2027• Disponibilização no Portal do Ruído de Mapas de Ruído e da Carta de Classificação de Zonas aprovados de 25 % dos municípios.2030• Disponibilização no Portal do Ruído de Mapas de Ruído e da Carta de Classificação de Zonas aprovados de 75 % dos municípios. |
-| * n.a - Não aplicável. | * n.a - Não aplicável. | * n.a - Não aplicável. |
+| * n.a - Não aplicável. |  |  |
 
 OE 3. Melhorar a capacidade e qualidade da intervenção
 
@@ -769,13 +846,13 @@ Objetivo estratégico 3
 
 OE 3. Melhorar a capacidade e qualidade da intervenção
 
-| Objetivos operacionais | Medidas propostas | Medidas propostas |
+| Objetivos operacionais | Medidas propostas |  |
 | --- | --- | --- |
-| 3.1 - Melhorar a qualidade da resposta aos problemas de ruído ao nível dos instrumentos legais. | 3.1.1 - Realizar estudos sobre a eficácia da legislação e identificação de propostas de alteração (ex. estabelecimento de valores-limite de emissão sonora por tipo de fonte);3.1.2 - Incentivar o desenvolvimento de metodologias de identificação da contribuição repartida de fontes sonoras múltiplas;3.1.3 - Promover o desenvolvimento de metodologia para a análise custo-eficácia de medidas de redução de ruído. | 3.1.1 - Realizar estudos sobre a eficácia da legislação e identificação de propostas de alteração (ex. estabelecimento de valores-limite de emissão sonora por tipo de fonte);3.1.2 - Incentivar o desenvolvimento de metodologias de identificação da contribuição repartida de fontes sonoras múltiplas;3.1.3 - Promover o desenvolvimento de metodologia para a análise custo-eficácia de medidas de redução de ruído. |
+| 3.1 - Melhorar a qualidade da resposta aos problemas de ruído ao nível dos instrumentos legais. | 3.1.1 - Realizar estudos sobre a eficácia da legislação e identificação de propostas de alteração (ex. estabelecimento de valores-limite de emissão sonora por tipo de fonte);3.1.2 - Incentivar o desenvolvimento de metodologias de identificação da contribuição repartida de fontes sonoras múltiplas;3.1.3 - Promover o desenvolvimento de metodologia para a análise custo-eficácia de medidas de redução de ruído. |  |
 | Intervenientes:Academia; Centros de Investigação; APA; CCDR. | Indicadores:• Estudos realizados até 2030. | Metas: (n.a.) |
-| 3.2. Promover a qualidade do exercício da atividade dos profissionais com intervenção na área do ruído Ambiente. | 3.2.1 - Incentivar a criação de áreas formativas dedicadas ao ruído;3.2.2 - Capacitar entidades e atores com responsabilidades específicas ao nível do planeamento, do projeto, do licenciamento, da fiscalização e da aplicação de sanções e de regulação;3.2.3 - Aumentar as ações de formação de curta duração dirigidos à formação profissional. | 3.2.1 - Incentivar a criação de áreas formativas dedicadas ao ruído;3.2.2 - Capacitar entidades e atores com responsabilidades específicas ao nível do planeamento, do projeto, do licenciamento, da fiscalização e da aplicação de sanções e de regulação;3.2.3 - Aumentar as ações de formação de curta duração dirigidos à formação profissional. |
+| 3.2. Promover a qualidade do exercício da atividade dos profissionais com intervenção na área do ruído Ambiente. | 3.2.1 - Incentivar a criação de áreas formativas dedicadas ao ruído;3.2.2 - Capacitar entidades e atores com responsabilidades específicas ao nível do planeamento, do projeto, do licenciamento, da fiscalização e da aplicação de sanções e de regulação;3.2.3 - Aumentar as ações de formação de curta duração dirigidos à formação profissional. |  |
 | Intervenientes:Academia; Ordens Profissionais; APA; INA; SPA; DGERT; ANQEP. | Indicadores:• Ações de formação realizadas. | Metas: (n.a.) |
-| 3.3 - Melhorar a capacidade de intervenção. | 3.3.1 - Identificar e divulgar redes de partilha e colaboração;3.3.2 - Fomentar a partilha de recursos com base territorial (por exemplo, ao nível do CIM), tendo em conta as existências e as necessidades identificadas;3.3.3 - Desenvolver e atualizar guias direcionadas à aplicação do RGR, do RAGRA e demais legislação, favorecendo a harmonização de práticas e procedimentos. | 3.3.1 - Identificar e divulgar redes de partilha e colaboração;3.3.2 - Fomentar a partilha de recursos com base territorial (por exemplo, ao nível do CIM), tendo em conta as existências e as necessidades identificadas;3.3.3 - Desenvolver e atualizar guias direcionadas à aplicação do RGR, do RAGRA e demais legislação, favorecendo a harmonização de práticas e procedimentos. |
+| 3.3 - Melhorar a capacidade de intervenção. | 3.3.1 - Identificar e divulgar redes de partilha e colaboração;3.3.2 - Fomentar a partilha de recursos com base territorial (por exemplo, ao nível do CIM), tendo em conta as existências e as necessidades identificadas;3.3.3 - Desenvolver e atualizar guias direcionadas à aplicação do RGR, do RAGRA e demais legislação, favorecendo a harmonização de práticas e procedimentos. |  |
 | Intervenientes:APA e Pontos Focais; Entidades responsáveis por GIT. | Indicadores:• Acordos de parceria e de colaboração.• Guias divulgados no Portal do Ruído até 2030. | Metas: (n.a.) |
 
 OE 4. Promover o conhecimento, a inovação e o desenvolvimento tecnológico
@@ -792,7 +869,7 @@ Com este propósito propõem-se duas medidas: melhorar a informação sobre o de
 
 É relevante referir que estas medidas se alinham inteiramente com a tendência plasmada nas atuais políticas públicas (nomeadamente no PNI 2030) que apontam para uma Cidadania ativa na proteção e defesa do ambiente que poderá fomentar a alteração de comportamentos do consumidor face à maior informação e rotulagem ambiental dos produtos e serviços.
 
-• Incentivar o desenvolvimento de soluções tecnológicas e produtos com melhor desempenho acústico, (objetivo operacional 4.3), reconhecendo a devida importância estratégica à produção de respostas e soluções tecnológicas, nomeadamente sob a forma de produtos a introduzir no mercado (da construção civil, dos transportes, ou outros) e que tenham impactes positivos no desempenho acústico ou na redução ou minimização das emissões de ruído. Considera-se que, também a este nível, há um importante trabalho a fazer no sentido de motivar os centros de investigação e as empresas para investirem em aplicação e desenvolvimento do conhecimento científico prévio, produzindo inovação numa lógica de resposta a problemas existentes na sociedade e no mercado, tendo em conta as sensibilidades atuais no que respeita ao crescente reconhecimento da importância do ruído ambiente na saúde e na qualidade de vida da população e na qualidade do ambiente, o que, no caso do mercado imobiliário, pode incrementar o valor dos imóveis por via da qualidade acústica dos mesmos. Salientam-se sinergias com o PNPOT, nomeadamente ao nível da medida 4.1(<sup>5</sup>), que inclui um objetivo operacional (5) destinado a desenvolver e implementar soluções de equipamentos e produtos com menores emissões atmosféricas e menor ruído nos processos produtivos, com claros benefícios para a sociedade.
+• Incentivar o desenvolvimento de soluções tecnológicas e produtos com melhor desempenho acústico, (objetivo operacional 4.3), reconhecendo a devida importância estratégica à produção de respostas e soluções tecnológicas, nomeadamente sob a forma de produtos a introduzir no mercado (da construção civil, dos transportes, ou outros) e que tenham impactes positivos no desempenho acústico ou na redução ou minimização das emissões de ruído. Considera-se que, também a este nível, há um importante trabalho a fazer no sentido de motivar os centros de investigação e as empresas para investirem em aplicação e desenvolvimento do conhecimento científico prévio, produzindo inovação numa lógica de resposta a problemas existentes na sociedade e no mercado, tendo em conta as sensibilidades atuais no que respeita ao crescente reconhecimento da importância do ruído ambiente na saúde e na qualidade de vida da população e na qualidade do ambiente, o que, no caso do mercado imobiliário, pode incrementar o valor dos imóveis por via da qualidade acústica dos mesmos. Salientam-se sinergias com o PNPOT, nomeadamente ao nível da medida 4.1(5), que inclui um objetivo operacional (5) destinado a desenvolver e implementar soluções de equipamentos e produtos com menores emissões atmosféricas e menor ruído nos processos produtivos, com claros benefícios para a sociedade.
 
 Para levar a cabo este objetivo é proposta uma medida de incentivo ao desenvolvimento de projetos-piloto que permitam experimentar, demonstrar e aperfeiçoar soluções inovadoras. O sucesso de uma medida deste tipo, e à imagem de grande parte do trabalho desenvolvido no campo da inovação, encontra-se dependente de incentivos financeiros. Desta forma, com vista ao seu impulsionamento, a estratégia prevê a criação, junto dos vários intervenientes, de prémios de incentivo ao desenvolvimento de soluções tecnológicas/produtos com melhor desempenho acústico.
 
@@ -802,13 +879,13 @@ Objetivo estratégico 4
 
 OE 4. Promover o conhecimento, a inovação e o desenvolvimento tecnológico
 
-| Objetivos operacionais | Medidas propostas | Medidas propostas |
+| Objetivos operacionais | Medidas propostas |  |
 | --- | --- | --- |
-| 4.1 - Incentivar a investigação sobre os efeitos do ruído ambiente na saúde. | 4.1.1 - Promover a realização de estudos para avaliação do impacte na saúde da exposição a ruído excessivo, em particular, de grupos de risco; e da exposição continua ao ruído às infraestruturas de transportes. | 4.1.1 - Promover a realização de estudos para avaliação do impacte na saúde da exposição a ruído excessivo, em particular, de grupos de risco; e da exposição continua ao ruído às infraestruturas de transportes. |
+| 4.1 - Incentivar a investigação sobre os efeitos do ruído ambiente na saúde. | 4.1.1 - Promover a realização de estudos para avaliação do impacte na saúde da exposição a ruído excessivo, em particular, de grupos de risco; e da exposição continua ao ruído às infraestruturas de transportes. |  |
 | Intervenientes:Academia; Centros de investigação; DGS; ARS; SPA; APA. | Indicadores:• Estudos ou artigos científicos/técnicos publicados. | Metas: (n.a.) |
-| 4.2 - Promover informação adequada ao público, às entidades licenciadoras de serviços, sobre o desempenho acústico de equipamentos ou dispositivos. | 4.2.1 - Melhorar a informação sobre o desempenho acústico dos equipamentos ou dispositivos;4.2.2 - Melhorar a informação e a articulação com as entidades licenciadoras para a promoção e adoção de equipamentos ou dispositivos com melhor desempenho acústico nos serviços;4.2.3 - Promover a adoção de novos equipamentos ou tecnologias menos ruidosas;4.2.4 - Promover a integração dos requisitos acústicos no processo de certificação energética. | 4.2.1 - Melhorar a informação sobre o desempenho acústico dos equipamentos ou dispositivos;4.2.2 - Melhorar a informação e a articulação com as entidades licenciadoras para a promoção e adoção de equipamentos ou dispositivos com melhor desempenho acústico nos serviços;4.2.3 - Promover a adoção de novos equipamentos ou tecnologias menos ruidosas;4.2.4 - Promover a integração dos requisitos acústicos no processo de certificação energética. |
+| 4.2 - Promover informação adequada ao público, às entidades licenciadoras de serviços, sobre o desempenho acústico de equipamentos ou dispositivos. | 4.2.1 - Melhorar a informação sobre o desempenho acústico dos equipamentos ou dispositivos;4.2.2 - Melhorar a informação e a articulação com as entidades licenciadoras para a promoção e adoção de equipamentos ou dispositivos com melhor desempenho acústico nos serviços;4.2.3 - Promover a adoção de novos equipamentos ou tecnologias menos ruidosas;4.2.4 - Promover a integração dos requisitos acústicos no processo de certificação energética. |  |
 | Intervenientes:APA, Academia, Centros de investigação; DGC; DGAE; DGEG; DGS; Turismo de Portugal, ADENE; APA. | Indicadores:• Guias produzidos. | Metas: (n.a.) |
-| 4.3 - Incentivar o desenvolvimento de soluções tecnológicas e produtos com melhor desempenho acústico. | 4.3.1 - Incentivar o desenvolvimento de projetos-piloto que permitam experimentar, demonstrar e aperfeiçoar soluções inovadoras;4.3.2 - Promover a criação de prémios de incentivo ao desenvolvimento de soluções tecnológicas/produtos inovadores. | 4.3.1 - Incentivar o desenvolvimento de projetos-piloto que permitam experimentar, demonstrar e aperfeiçoar soluções inovadoras;4.3.2 - Promover a criação de prémios de incentivo ao desenvolvimento de soluções tecnológicas/produtos inovadores. |
+| 4.3 - Incentivar o desenvolvimento de soluções tecnológicas e produtos com melhor desempenho acústico. | 4.3.1 - Incentivar o desenvolvimento de projetos-piloto que permitam experimentar, demonstrar e aperfeiçoar soluções inovadoras;4.3.2 - Promover a criação de prémios de incentivo ao desenvolvimento de soluções tecnológicas/produtos inovadores. |  |
 | Intervenientes:Academia; Centros de investigação; FCT; LNEG; SPA. | Indicadores:• Parcerias realizadas. | Metas: (n.a.) |
 
 Monitorização e calendarização da ENRA 2030
@@ -819,13 +896,15 @@ A informação relativa à monitorização da ENRA 2025-2030 terá uma relação
 
 Na sequência dos reportes previstos de informação e das reuniões de acompanhamento, será produzido um relatório final em 2030.
 
-![](https://files.diariodarepublica.pt/images/1034985555/1034985669.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985555/1034985669.png) |
+| --- |
 
 QUADRO 5
 
 Indicadores de execução e metas
 
-![](https://files.diariodarepublica.pt/images/1034985555/1034985670.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985555/1034985670.png) |
+| --- |
 
 Para além da informação resultante dos indicadores de desempenho (quadro 5), a ENRA será também avaliada através dos seguintes indicadores de impacte:
 
@@ -835,7 +914,8 @@ Para além da informação resultante dos indicadores de desempenho (quadro 5), 
 
 Cronograma de implementação (2025-2030)
 
-![](https://files.diariodarepublica.pt/images/1034985555/1034985671.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985555/1034985671.png) |
+| --- |
 
 Modelo de governação
 
@@ -845,7 +925,8 @@ A ENRA 2025-2030 será implementada e acompanhada por uma estrutura de governaç
 
 2) Fórum para o Ruído Ambiente (FRA): que tem a função de envolver, periodicamente, todas as entidades relevantes do setor público, privado, associativo e sociedade civil, em espaços de debate e consulta sobre o ruído ambiente e temas conexos, bem como sobre a evolução da ENRA 2030, recolhendo contributos úteis e oportunos. Reúne-se, sempre que se considere relevante, sob convocatória da APA, constituído pelas seguintes entidades: as previstas nos pontos focais, Direção-Geral da Saúde, Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território; Autoridade de Segurança Alimentar e Económica; Instituto Nacional de Estatística; Entidades do setor da saúde e da educação; Entidades gestoras de GIT Aeroportuárias, Rodoviárias e Ferroviárias; Entidades gestoras de infraestruturas portuárias, representantes de empresas de transporte [de mercadorias em modo rodoviário e ferroviário, transporte de passageiros (rodoviário e ferroviário)]; Entidades representantes do setor da construção, dos transportes e da energia, Especialistas, Academia e Centros de Investigação; Ordens e Associações Profissionais, Sociedade Portuguesa de Acústica; consultores e laboratórios que atuam no domínio do ruído ambiente; Organizações Não Governamentais de Ambiente e associações de defesa do consumidor.
 
-![](https://files.diariodarepublica.pt/images/1034985555/1034985672.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1034985555/1034985672.png) |
+| --- |
 
 Fontes de financiamento
 
@@ -885,12 +966,16 @@ Referências bibliográficas
 
 • República Portuguesa (2019). Programa Nacional da Política de Ordenamento do Território (PNPOT). Lei n.º 99/2019, de 5 de setembro, Diário da República, 1.ª série, n.º 170, de 5 de setembro de 2019.
 
-(<sup>1</sup>) O mapa de ruído do município de Estarreja foi elaborado em 2011 e o zonamento acústico data de 2013, conforme informação disponibilizada em sede de consulta pública.
+(1) O mapa de ruído do município de Estarreja foi elaborado em 2011 e o zonamento acústico data de 2013, conforme informação disponibilizada em sede de consulta pública.
 
-(<sup>2</sup>) O mapa de conflito do município de Estarreja constitui o anexo 4.1 do relatório técnico do Mapa de Ruído (datado de 2011 e republicado em 2013) e o Plano Municipal de Redução de Ruído foi elaborado em 2015, conforme informação disponibilizada em sede de consulta pública.
+(2) O mapa de conflito do município de Estarreja constitui o anexo 4.1 do relatório técnico do Mapa de Ruído (datado de 2011 e republicado em 2013) e o Plano Municipal de Redução de Ruído foi elaborado em 2015, conforme informação disponibilizada em sede de consulta pública.
 
-(<sup>3</sup>) Promover a reabilitação urbana, qualificar o ambiente urbano e o espaço público.
+(3) Promover a reabilitação urbana, qualificar o ambiente urbano e o espaço público.
 
-(<sup>4</sup>) Otimizar as infraestruturas ambientais e a conectividade ecológica.
+(4) Otimizar as infraestruturas ambientais e a conectividade ecológica.
 
-(<sup>5</sup>) Otimizar as infraestruturas ambientais e de energia.
+(5) Otimizar as infraestruturas ambientais e de energia.
+
+119822761
+
+.Tbl2 { height:26px; } .Tbl3 { text-align:center; } .Tbl4 { min-height:37px; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl8 { min-height:57px; } .Tbl9 { min-height:47px; } .Tbl10 { min-height:91px; } .Tbl11 { min-height:68px; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl13 { min-height:53px; } .Tbl14 { min-height:77px; } .Tbl15 { min-height:93px; } .Tbl16 { min-height:87px; } .Tbl17 { min-height:62px; } .Tbl18 { min-height:137px; } .Tbl19 { min-height:13px; } .Tbl20 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl21 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl22 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl23 { min-height:43px; } .Tbl24 { min-height:58px; } .Tbl25 { min-height:102px; }

@@ -48,26 +48,42 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/190/2026/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2026-1172319750
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-22T00:00:00Z'
+  retrieved_at: '2026-10-22T18:53:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b122bb36dd5cc3610f4526f7b509511db645a058fe5fa82fdc57be0e0c8f46e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be51703307876be463cf8997df069c5a38ed2cbf3b410da5d4833b0620633f4a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:53:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto Remuneratório
+- Instituto do Turismo de Portugal
+- Missão no Estrangeiro
+- Orgânica
+- País Estrangeiro
+- Pessoal Dirigente
+- Recrutamento de Pessoal
+- Regime Jurídico
+- Regulamentação de Atos Legislativos
+- Turismo de Portugal
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:129/2012
+  label: Altera, a partir de 23 de setembro de 2026, o artigo 8.º-A e revoga os n.os 4 e 5 do mesmo artigo 8.º-A do Decreto-Lei
+    n.º 129/2012, de 22 de junho, Diário da República n.º 184/2026, Série I
+  source: null
+  date: '2012-06-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2023/12/26/p/dre
   label: null
@@ -108,16 +124,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/112/2
   label: null
   source: http://data.dre.pt/eli/resolconsmin/112/2
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215085998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224966776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67098359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835674292:por
+  label: null
+  source: null
 article_structure:
   article_count: 26
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:53:40Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +182,7 @@ validation:
 
 de 22 de setembro
 
-Os Decretos-Leis n.<sup>os</sup>[51/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2023-215085998), de 3 de julho, e [127/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2023-835674292), de 26 de dezembro, vieram alterar a orgânica do Instituto do Turismo de Portugal, I. P. (Turismo de Portugal, I. P.), constante do [Decreto-Lei n.º 129/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2012-178510), de 22 de junho, clarificando que este instituto desenvolve a sua ação no exterior, através de uma rede de equipas de turismo no estrangeiro, que atua de forma unificada com os serviços periféricos externos do Ministério dos Negócios Estrangeiros, da respetiva área geográfica e na dependência funcional do chefe de missão diplomática, ou a ele equiparado.
+Os Decretos-Leis n.os[51/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2023-215085998), de 3 de julho, e [127/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2023-835674292), de 26 de dezembro, vieram alterar a orgânica do Instituto do Turismo de Portugal, I. P. (Turismo de Portugal, I. P.), constante do [Decreto-Lei n.º 129/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2012-178510), de 22 de junho, clarificando que este instituto desenvolve a sua ação no exterior, através de uma rede de equipas de turismo no estrangeiro, que atua de forma unificada com os serviços periféricos externos do Ministério dos Negócios Estrangeiros, da respetiva área geográfica e na dependência funcional do chefe de missão diplomática, ou a ele equiparado.
 
 Na contratação das equipas de turismo no estrangeiro do Turismo de Portugal, I. P., este instituto rege-se pelo disposto no regime jurídico aplicável às entidades públicas empresariais, mais se determinando que os diretores das equipas de turismo no estrangeiro são acreditados como conselheiro técnico principal, conselheiro técnico ou adido, junto das missões diplomáticas e postos consulares portugueses, por despacho do membro do Governo responsável pela área dos negócios estrangeiros, sob proposta do membro do Governo responsável pela área do turismo.
 
@@ -144,7 +200,7 @@ O presente decreto-lei:
 
 a) Estabelece o regime jurídico aplicável ao recrutamento, contratação, natureza do vínculo e estatuto remuneratório dos diretores e trabalhadores das equipas de turismo no estrangeiro do Instituto do Turismo de Portugal, I. P. (Turismo de Portugal, I. P.);
 
-b) Procede à quinta alteração ao [Decreto-Lei n.º 129/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2012-178510), de 22 de junho, alterado pelo [Decreto-Lei n.º 66/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2015-67098359), de 29 de abril, pela [Lei n.º 114/2017](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), de 29 de dezembro, pelos Decretos-Leis n.<sup>os</sup>[51/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2023-215085998), de 3 de julho, e [127/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2023-835674292), de 26 de dezembro, que aprova a orgânica do Instituto do Turismo de Portugal, I. P.
+b) Procede à quinta alteração ao [Decreto-Lei n.º 129/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2012-178510), de 22 de junho, alterado pelo [Decreto-Lei n.º 66/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2015-67098359), de 29 de abril, pela [Lei n.º 114/2017](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), de 29 de dezembro, pelos Decretos-Leis n.os[51/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2023-215085998), de 3 de julho, e [127/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2023-835674292), de 26 de dezembro, que aprova a orgânica do Instituto do Turismo de Portugal, I. P.
 
 ###### Artigo 2.º — Regime aplicável às equipas de turismo no estrangeiro do Instituto do Turismo de Portugal, I. P.
 
@@ -170,7 +226,7 @@ O artigo 8.º-A do [Decreto-Lei n.º 129/2012](https://diariodarepublica.pt/dr/d
 
 ###### Artigo 4.º — Norma revogatória
 
-São revogados os n.<sup>os</sup>4 e 5 do artigo 8.º-A do [Decreto-Lei n.º 129/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2012-178510), de 22 de junho.
+São revogados os n.os4 e 5 do artigo 8.º-A do [Decreto-Lei n.º 129/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2012-178510), de 22 de junho.
 
 ###### Artigo 5.º — Entrada em vigor
 
@@ -178,15 +234,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de julho de 2026. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Joaquim Miranda Sarmento - Manuel Castro Almeida.
 
-**Promulgado em 15 de setembro de 2026.**
+Promulgado em 15 de setembro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 16 de setembro de 2026.**
+Referendado em 16 de setembro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -308,7 +364,7 @@ c) Confirmar as informações relativas às pessoas abrangidas pelo seguro e per
 
 ###### Artigo 8.º — Conceito de agregado familiar
 
-Para efeitos do disposto no presente regime, entende-se por agregado familiar do diretor da equipa de turismo o definido nos n.<sup>os</sup>2 e 3 do artigo 2.º da [Portaria n.º 305/2011](https://diariodarepublica.pt/dr/detalhe/portaria/305-2011-145024), de 20 de dezembro.
+Para efeitos do disposto no presente regime, entende-se por agregado familiar do diretor da equipa de turismo o definido nos n.os2 e 3 do artigo 2.º da [Portaria n.º 305/2011](https://diariodarepublica.pt/dr/detalhe/portaria/305-2011-145024), de 20 de dezembro.
 
 ### CAPÍTULO III — TRABALHADORES DAS EQUIPAS DE TURISMO
 
@@ -418,7 +474,7 @@ O cumprimento das obrigações fiscais dos trabalhadores das equipas de turismo 
 
 ###### Artigo 15.º — Trabalhadores em regime de contrato de trabalho em funções públicas, mobilidade ou cedência de interesse público
 
-1 - Aos trabalhadores das equipas de turismo recrutados em regime de contrato de trabalho em funções públicas, em mobilidade ou em cedência de interesse público, com ou sem vínculo de emprego público previamente constituído, é aplicável o regime previsto nos artigos 3.º e 4.º, nos n.<sup>os</sup>4 a 9 e 11 a 13 do artigo 7.º, e no artigo 8.º, com as devidas adaptações.
+1 - Aos trabalhadores das equipas de turismo recrutados em regime de contrato de trabalho em funções públicas, em mobilidade ou em cedência de interesse público, com ou sem vínculo de emprego público previamente constituído, é aplicável o regime previsto nos artigos 3.º e 4.º, nos n.os4 a 9 e 11 a 13 do artigo 7.º, e no artigo 8.º, com as devidas adaptações.
 
 2 - Os trabalhadores recrutados nos termos do número anterior têm ainda direito a receber os seguintes abonos mensais, nos montantes fixados nos quadros i e ii do anexo iv ao presente regime e do qual faz parte integrante:
 
@@ -474,7 +530,7 @@ b) Os trabalhadores das equipas de turismo são equiparados a diretores de servi
 
 3 - Os diretores das equipas de turismo que estejam no exercício de funções em regime de comissão de serviço à data de entrada em vigor do presente regime transitam para a remuneração base do diretor da equipa de turismo fixado nos termos do anexo ii ao presente regime.
 
-4 - Os abonos previstos nos n.<sup>os</sup>3 a 11 do artigo 7.º, e pelos montantes aí fixados, aplicam-se aos diretores das equipas de turismo que estejam no exercício de funções em regime de comissão de serviço à data de entrada em vigor do presente regime.
+4 - Os abonos previstos nos n.os3 a 11 do artigo 7.º, e pelos montantes aí fixados, aplicam-se aos diretores das equipas de turismo que estejam no exercício de funções em regime de comissão de serviço à data de entrada em vigor do presente regime.
 
 5 - As transições previstas nos números anteriores produzem efeitos a partir do dia 1 do mês seguinte ao da entrada em vigor do presente regime.
 
@@ -484,7 +540,7 @@ b) Os trabalhadores das equipas de turismo são equiparados a diretores de servi
 
 As demais matérias relativas à estrutura, competências, regras de funcionamento e organização interna das equipas de turismo que não constem do presente regime são objeto de regulamento interno do Turismo de Portugal, I. P.
 
-## ANEXO I — (a que se referem os n.<sup>os</sup>2 e 3 do artigo 1.º)
+## ANEXO I — (a que se referem os n.os2 e 3 do artigo 1.º)
 
 Lista de mercados e equipas de turismo
 
@@ -600,3 +656,7 @@ Abono de habitação
 | Rússia | 1 685,89 € |
 | Suécia | 2 261,54 € |
 | Suíça | 2 870,45 € |
+
+119949616
+
+.Tbl1 { border-collapse:collapse; border-width:1px; border-style:none; } .Tbl2 { height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:18px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; } .Tbl8 { border-collapse:collapse; border-width:1px; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:top; } .Tbl11 { min-height:20px; } .Tbl12 { min-height:19px; } .Tbl13 { min-height:21px; }

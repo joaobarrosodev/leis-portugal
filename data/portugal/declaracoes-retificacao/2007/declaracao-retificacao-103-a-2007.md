@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 211/2007, 1º Suplemento, Série I de 2007-11-02
   number: '211'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8004-(2) a 8004-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/11/21101/0000200003.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/103-a/2007/11/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/103-a-2007-483610
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-16T00:00:00Z'
+  retrieved_at: '2026-10-22T19:07:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c493f5b3f7583fcc476fa1ff95b0789207f367dd3dd61e09281d56f5daee1bc9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2dc3fb64d8271e841f7600fe7f258f5c8d9493a9a7fc04fe88e00bbe7579e723
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:07:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- Programa Nacional da Política de Ordenamento do Território
 - Política de Solos
+- Programa Nacional da Política de Ordenamento do Território
 relationships:
 - type: amended_by
   target: pt:dre:2224853:por
@@ -77,16 +77,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2007/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2007/09/04/p/dre
+- type: cites
+  target: pt:dre:640143:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:lei:58/2007
+  label: "Rectifica o relatório anexo à Lei n.º 58/2007, de 4 de Setembro, DR.IS [170]\0\0"
+  source: null
+  date: '2007-09-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:07:21Z'
   warnings: []
   errors: []
 ---
@@ -109,4 +118,4 @@ Na figura 32, com a legenda «Ocupação do território nas ilhas da Madeira e D
 
 Assembleia da República, 2 de Novembro de 2007. - Pela Secretária-Geral, a Adjunta, Maria do Rosário Boléo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21101/0000200003.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21101/0000200003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21101/0000200003.pdf)

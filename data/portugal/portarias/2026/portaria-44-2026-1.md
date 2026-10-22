@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/44/2026/01/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/44-2026-1027770662
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-28T00:00:00Z'
+  retrieved_at: '2026-10-22T18:30:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16ca129796bb1848ee59b9a673efcae3665e2f32b4968079b5391621fa41a914
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75015a82df28a0b6cc27a97e99b58e56b2927ba5d900198482cb5c634c2cb150
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:30:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autoridade para as Condições do Trabalho
+- Condições de Higiene e Segurança no Trabalho
 - Direção Geral da Saúde
 - Higiene do Trabalho
-- Segurança no Trabalho
 - Licenciamento
 - Receita Própria
-- Condições de Higiene e Segurança no Trabalho
+- Segurança no Trabalho
 - TAXA de Prestação de Serviços
 - Vistoria
-- Autoridade para as Condições do Trabalho
 relationships:
+- type: amends
+  target: pt:numero:portaria:275/2010
+  label: Altera, a partir de 29 de janeiro de 2026, com efeitos a 1 de janeiro de 2025, nos termos do artigo 3.º, os artigos
+    2.º, 4.º e 5.º, e revoga a alínea c) do artigo 2.º e o n.º 2 do artigo 5.º da Portaria n.º 275/2010, de 19 de maio, Diário
+    da República n.º 97/2010, Série I
+  source: null
+  date: '2010-05-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/54/2024/09/06/p/dre
   label: null
@@ -97,16 +104,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/275/2010/05/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/275/2010/05/19/p/dre
+- type: cites
+  target: pt:dre:490009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67590381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:887091776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:30:27Z'
   warnings: []
   errors: []
 ---
@@ -171,13 +198,17 @@ ii) De saúde no trabalho - € 3225,00;
 
 f) Autorização para funcionamento em atividades e trabalhos de risco elevado, por cada uma das áreas acresce o montante de € 325,00.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [Anterior corpo do artigo.]
 
 2 - As taxas previstas no número anterior são objeto de atualização anual, com base no índice de preços no consumidor, relativo ao ano anterior, apurado pelo Instituto Nacional de Estatística, I. P., procedendo-se ao arredondamento do resultado para a casa decimal imediatamente superior.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -195,4 +226,6 @@ São revogados a alínea c) do artigo 2.º e o n.º 2 do artigo 5.º da [Portari
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2025, sem prejuízo do disposto no artigo 3.º
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 12 de janeiro de 2026. - A Ministra da Saúde, Ana Paula Martins, em 12 de janeiro de 2026. - A Ministra do Trabalho, Solidariedade e Segurança Social, Rosário Palma Ramalho, em 23 de janeiro de 2026.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 12 de janeiro de 2026. - A Ministra da Saúde, Ana Paula Martins, em 12 de janeiro de 2026. - A Ministra do Trabalho, Solidariedade e Segurança Social, Rosário Palma Ramalho, em 23 de janeiro de 2026.
+
+119947416

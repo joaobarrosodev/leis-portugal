@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/06/12100/0000200027.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/8/2024/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/8-2024-869913717
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-06-25T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d820517b99e24c178be435344b7888e36e23465d6ed690b2165e22ac34e5fece
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1683c6998196c951f0d10125a39ca7ed1cb5a001b5fef9af49183a279c8a5de7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
 - Atestado Médico
+- Deficiente
+- Incapacidade Física
 - Interpretação do Direito
 - Junta Médica
 - Jurisprudencia
 - Proteção ao Deficiente
-- Incapacidade Física
 - Tabela Nacional de Incapacidades por Acidentes de Trabalho e Doenças Profissionais
 relationships:
 - type: cites
@@ -118,16 +118,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/38/2004/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/38/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:145186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176907537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223906278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:837022978:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:13Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +224,7 @@ Os Autores apresentaram Réplica, pugnando pela improcedência da reconvenção.
 
 Citada a Interveniente, apresentou articulado próprio.
 
-4 - Foi requerida pela Ré a realização de prova pericial, que foi admitida e realizada pelo "Instituto Nacional de Medicina Legal e Ciências Forenses, I. P.", com relatório do exame médico-legal (“perícia de avaliação do dano corporal em direito cível”) emitido em 7/3/2018 (processo n.º ...64). Apresentada reclamação pela Autora, foi emitido relatório com esclarecimentos em 5/12/2018. (Ref.<sup>as</sup> CITIUS...47 e...83.)
+4 - Foi requerida pela Ré a realização de prova pericial, que foi admitida e realizada pelo "Instituto Nacional de Medicina Legal e Ciências Forenses, I. P.", com relatório do exame médico-legal (“perícia de avaliação do dano corporal em direito cível”) emitido em 7/3/2018 (processo n.º ...64). Apresentada reclamação pela Autora, foi emitido relatório com esclarecimentos em 5/12/2018. (Ref.as CITIUS...47 e...83.)
 
 5 - Proferido despacho saneador e realizada audiência final, o Juiz... do Juízo Central Cível de Sintra proferiu sentença, decidindo o seguinte:
 
@@ -388,13 +440,13 @@ Assente a bondade da decisão de admissão do RUJ, a questão fundamental de dir
 
 CONDIÇÕES GERAIS
 
-###### Art. 2.º - Imposições Fundamentais
+Art. 2.º - Imposições Fundamentais
 
 4 - As omissões e declarações inexactas ou incompletas feitas pelo Tomador de Seguro e/ ou pelas Pessoas Seguras, que alterem apreciação do risco, tornam nulas as garantias do contrato susceptíveis de por elas serem influenciadas. Fica, porém, ressalvado o direito aos valores de resgate sempre previsto nas condições particulares.
 
 [...]
 
-###### Art. 4.º - Riscos Seguráveis
+Art. 4.º - Riscos Seguráveis
 
 O contrato abrangerá, conforme estipulado nas condições Especiais e Particulares:
 
@@ -404,7 +456,7 @@ O contrato abrangerá, conforme estipulado nas condições Especiais e Particula
 
 [...]
 
-###### Art. 9.º - Condições de Exigibilidade das Importâncias Seguras
+Art. 9.º - Condições de Exigibilidade das Importâncias Seguras
 
 Relativamente a cada Pessoa Segura as importâncias seguras só poderão tornar-se exigíveis após a apresentação dos seguintes documentos, além de outros previstos nas Condições Especiais:
 
@@ -438,11 +490,11 @@ COBERTURA COMPLEMENTAR DE INVALIDEZ ABSOLUTA E DEFINITIVA
 
 CONDIÇÕES ESPECIAIS
 
-###### Art. 1.º - Garantia
+Art. 1.º - Garantia
 
 Relativamente a cada Pessoa Segura, a Seguradora garante, em caso de invalidez Absoluta e Definitiva, causada por doença ou acidente, o pagamento do capital desta cobertura complementar, de valor indicado nas Condições Particulares.
 
-###### Art. 2.º - Definições
+Art. 2.º - Definições
 
 Doença - Entende-se por doença toda a alteração involuntária do estado de saúde da Pessoa Segura, não causado por acidente e susceptível de constatação médica objectiva.
 
@@ -574,7 +626,7 @@ No respectivo art. 2.º, 1 (redacção introduzida pelo [DL 291/2009](https://di
 
 "As juntas médicas são constituídas no âmbito das administrações regionais de saúde por autoridades de saúde, sendo nomeadas por despacho do delegado regional de saúde, com a seguinte composição: a) Um presidente, dois vogais efectivos e dois vogais suplentes, sendo o presidente substituído, nas suas faltas e impedimentos, pelo 1.º vogal efectivo."
 
-Depois da entrada em vigor das alterações operadas pelo [DL 15/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2024-837022978), de 17 de Janeiro, este n.º 2 foi revogado e assumiram vigência (1/1/2024) os n.<sup>os</sup> 5 a 12:
+Depois da entrada em vigor das alterações operadas pelo [DL 15/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2024-837022978), de 17 de Janeiro, este n.º 2 foi revogado e assumiram vigência (1/1/2024) os n.os 5 a 12:
 
 "5 - As juntas médicas de avaliação das incapacidades das pessoas com deficiência (JMAI) são criadas por iniciativa das Unidades Locais de Saúde, E. P. E. (ULS, E. P. E.), existindo, pelo menos, uma por cada agrupamento de centros de saúde ou ULS, E. P. E.
 
@@ -654,21 +706,21 @@ Prova documental é a que resulta de documento; diz-se documento qualquer object
 
 3 - Se a falsidade for evidente em face dos sinais exteriores do documento, pode o tribunal, oficiosamente, declará-lo falso.
 
-4.3 - O referido “atestado médido de incapacidade multiuso” consiste em documento na acepção prevista no art. 362.º do CCiv., enquanto escrito que, por regra e enquanto “atestado”, exprime uma declaração de ciência, sob a forma de documento narrativo (narração de factos e descrição de uma situação) <sup>1</sup>.
+4.3 - O referido “atestado médido de incapacidade multiuso” consiste em documento na acepção prevista no art. 362.º do CCiv., enquanto escrito que, por regra e enquanto “atestado”, exprime uma declaração de ciência, sob a forma de documento narrativo (narração de factos e descrição de uma situação) 1.
 
-Configura-se como um documento autêntico na medida em que (a) é exarado de acordo com as prescrições legais de carácter formal ("formalidades legais") e (b) provém de uma "autoridade pública nos limites da sua competência"<sup>2</sup> - arts. 363.º, 2, e 369.º do CCiv., em referência aos arts. 2.º, 1 ("a avaliação das incapacidades das pessoas com deficiência compete a juntas médicas para o efeito constituídas"), e 2, al. a) (à data dos factos relevantes), e 5 a 7 (versão actual), do [DL 202/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1996-226809).
+Configura-se como um documento autêntico na medida em que (a) é exarado de acordo com as prescrições legais de carácter formal ("formalidades legais") e (b) provém de uma "autoridade pública nos limites da sua competência"2 - arts. 363.º, 2, e 369.º do CCiv., em referência aos arts. 2.º, 1 ("a avaliação das incapacidades das pessoas com deficiência compete a juntas médicas para o efeito constituídas"), e 2, al. a) (à data dos factos relevantes), e 5 a 7 (versão actual), do [DL 202/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1996-226809).
 
-“Autoridade pública” será toda a pessoa colectiva que seja titular em nome próprio de poderes (nomeadamente de autoridade) e deveres públicos, no intuito de assegurar a prossecução necessária de interesses públicos<sup>3</sup>, abrangendo todos aqueles (órgãos e pessoas singulares) que nela se integrem ou a representem e exercem as suas funções e competências em referência às atribuições e serviços de administração e gestão pública.
+“Autoridade pública” será toda a pessoa colectiva que seja titular em nome próprio de poderes (nomeadamente de autoridade) e deveres públicos, no intuito de assegurar a prossecução necessária de interesses públicos3, abrangendo todos aqueles (órgãos e pessoas singulares) que nela se integrem ou a representem e exercem as suas funções e competências em referência às atribuições e serviços de administração e gestão pública.
 
 Neste contexto, releva que se possa ver, numa perspectiva institucional, a "entidade documentadora" a que faz referência o art. 371.º, 1, do CCiv. como "autoridade pública", a que se referem tais atribuições e serviços, exercidos em concreto pelo instrumento orgânico-subjectivo predisposto para o efeito de documentação.
 
 Por isso, devemos considerar uma “autoridade pública” a junta médica (e os respectivos membros enquanto titulares de uma função pública), uma vez funcionalmente competente por lei no âmbito de actuação da “entidade” em que se integra, para a emissão do “atestado médico de incapacidade multiuso”, atendendo a ser:
 
-(i) constituída no âmbito da atribuição das administrações regionais de saúde, no regime aplicável à data da emissão dos “atestados médicos”, tendo em conta que a administração regional de saude pertencia à "administração indirecta do Estado" enquanto “organismo periférico”/“instituto público” (v. arts. 1.º, 3.º, 5.º, 2, do [DL 124/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2011-145186), de 29 de Dezembro: lei orgânica do Ministério da Saúde) <sup>4</sup>;
+(i) constituída no âmbito da atribuição das administrações regionais de saúde, no regime aplicável à data da emissão dos “atestados médicos”, tendo em conta que a administração regional de saude pertencia à "administração indirecta do Estado" enquanto “organismo periférico”/“instituto público” (v. arts. 1.º, 3.º, 5.º, 2, do [DL 124/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2011-145186), de 29 de Dezembro: lei orgânica do Ministério da Saúde) 4;
 
 e, agora,
 
-(ii) criada no âmbito da atribuição das “unidades locais de saúde” (arts. 1.º, 1, 10.º, 1 e 4, [DL 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de Agosto: Estatuto do Serviço Nacional de Saúde; arts. 1.º, 1, e 2.º, [DL 102/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2023-223906278), de 7 de Novembro), sendo esta uma “entidade pública empresarial” que constitui uma pessoa colectiva de direito público integrante da “administração indirecta do Estado”: art. 63.º, 1 e 2, [DL 52/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2002-251872), arts. 2.º, 5.º, 2, 56.º e ss, do [DL 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de Outubro<sup>5</sup>; v. também o art. 9.º, 2, do [DL 124/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2011-145186). <sup>6</sup>-<sup>7</sup>
+(ii) criada no âmbito da atribuição das “unidades locais de saúde” (arts. 1.º, 1, 10.º, 1 e 4, [DL 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de Agosto: Estatuto do Serviço Nacional de Saúde; arts. 1.º, 1, e 2.º, [DL 102/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2023-223906278), de 7 de Novembro), sendo esta uma “entidade pública empresarial” que constitui uma pessoa colectiva de direito público integrante da “administração indirecta do Estado”: art. 63.º, 1 e 2, [DL 52/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2002-251872), arts. 2.º, 5.º, 2, 56.º e ss, do [DL 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de Outubro5; v. também o art. 9.º, 2, do [DL 124/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2011-145186). 6-7
 
 4.4 - A força probatória do documento autêntico é determinada pelas regras do art. 371.º do CCiv.:
 
@@ -678,27 +730,27 @@ e, agora,
 
 4.5 - No caso de um “atestado médico de incapacidade multiuso”, com forma, conteúdo e finalidade delimitados pela lei, em que se afirma necessariamente "a percentagem de incapacidade do avaliado", uma vez presumida a sua “autenticidade” (força probatória formal: arts. 370.º, 1 e 2, 372.º (ilidível com base na “falsidade”), CCiv.; 446.º, 1, CPC), configuram-se com propriedade esses dois segmentos que o CCiv. tem em mente:
 
-(i) por um lado, os factos que são praticados e percepcionados (como ocorridos na sua presença ou de que se certificou ou podia certificar-se<sup>8</sup>) pela autoridade pública-junta médica;
+(i) por um lado, os factos que são praticados e percepcionados (como ocorridos na sua presença ou de que se certificou ou podia certificar-se8) pela autoridade pública-junta médica;
 
 (ii) por outro lado, os juízos pessoais, de índole técnica, sobre a avaliação da deficiência e o grau de incapacidade.
 
-Neste último segmento, seja a factualidade relevante de tal avaliação médica relevante para a incapacidade, seja a factualidade relativa à definição de tal “grau de incapacidade” - através de uma percentagem numérica utilizando algarismos -, não constituem factos directamente praticados ou observáveis (estão fora daquilo que se “pode atestar com base em percepções suas” <sup>9</sup>) pela entidade ("documentadora", qualifica o CCiv.).
+Neste último segmento, seja a factualidade relevante de tal avaliação médica relevante para a incapacidade, seja a factualidade relativa à definição de tal “grau de incapacidade” - através de uma percentagem numérica utilizando algarismos -, não constituem factos directamente praticados ou observáveis (estão fora daquilo que se “pode atestar com base em percepções suas” 9) pela entidade ("documentadora", qualifica o CCiv.).
 
 A avaliação médica da incapacidade corresponde a um diagnóstico assente na aplicação de conhecimentos dos membros da “junta médica” à condição de saúde da pessoa analisada, correspondente à formulação de a pessoa avaliada ser “portadora de deficiência”.
 
 A percentagem de incapacidade fixada corresponde à subsunção dos factos resultantes dessa avaliação a determinada tabela de referência e suas instruções (gerais e específicas: anexo I do [DL 352/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-2007-629107), de 23 de Outubro, que aprova a aludida Tabela Nacional de Incapacidades por Acidentes de Trabalho e Doenças Profissionais).
 
-Nesta medida, podemos mesmo considerar que este segmento do documento contém uma decisão da autoridade pública, integrada pelo conteúdo exigido pela lei, e, neste conspecto, configura um documento dispositivo com eficácia jurídica autónoma - incorpora nesta faceta uma declaração de vontade expressa nas circunstâncias legais e destinada a repercutir-se na esfera jurídica da pessoa avaliada<sup>10</sup>.
+Nesta medida, podemos mesmo considerar que este segmento do documento contém uma decisão da autoridade pública, integrada pelo conteúdo exigido pela lei, e, neste conspecto, configura um documento dispositivo com eficácia jurídica autónoma - incorpora nesta faceta uma declaração de vontade expressa nas circunstâncias legais e destinada a repercutir-se na esfera jurídica da pessoa avaliada10.
 
 4.6 - Urge distinguir entre os factos referidos no “atestado médico de incapacidade multiuso” que correspondem à outorga do documento-atestado (à emissão da própria declaração, com aquela forma e com aquele conteúdo) e à percepção factual directa do presidente (quem emite a declaração) e dos membros da “junta médica” (por exemplo, a identificação do processo, o local em que a avaliação médica da pessoa identificada nesse atestado foi realizada, os elementos de identificação da pessoa avaliada, o ou os “atestados” anteriormente realizados) - prova plena nos termos do art. 371.º, 1, 1.ª parte, do CCiv.;
 
-e os factos constantes desse documento que decorrem da apreciação pelos mesmos membros da “junta médica” no âmbito da respectiva competência especializada, ou seja, dos factos decorrentes do diagnóstico (incluindo o tempo de referência para a situação de incapacidade) e da respectiva determinação de um grau de incapacidade, no uso de conhecimentos científicos e, assim sendo, juízos de ordem pessoal assentes num “convencimento lógico-dedutivo” (e decisório, como se viu) susceptível de ser contrariado ou infirmado<sup>11</sup>.
+e os factos constantes desse documento que decorrem da apreciação pelos mesmos membros da “junta médica” no âmbito da respectiva competência especializada, ou seja, dos factos decorrentes do diagnóstico (incluindo o tempo de referência para a situação de incapacidade) e da respectiva determinação de um grau de incapacidade, no uso de conhecimentos científicos e, assim sendo, juízos de ordem pessoal assentes num “convencimento lógico-dedutivo” (e decisório, como se viu) susceptível de ser contrariado ou infirmado11.
 
 De tal sorte que a força probatória material deste documento nesta segunda vertente não pode deixar de estar sujeita à regra do jogo da livre convição judicial da prova imposta pelo art. 371.º, 1, 2.ª parte.
 
-Afirmação esta que é reforçada pela circunstância - de ordem sistemática no conjunto do direito probatório material (conteúdo da prova quanto às declarações constantes) - de tal atestado, nessa parte, corresponder verdadeiramente a uma resposta de sujeitos com "conhecimentos especiais que os julgadores não possuem", isto é, sujeitos actuando como “peritos” para o efeito do art. 388.º do CCiv. Razão pela qual não pode, neste segmento factual, num domínio em que a autoridade pública emissora do documento é simultaneamente detentora de uma qualificação especial em face da lei ("médicos especialistas": como refere agora o art. 2.º, 6, do [DL 202/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1996-226809)), deixar de ser vista como averiguação e apreciação a cargo de peritos com conhecimentos especiais<sup>12</sup>; o que conduz a que as suas "respostas" sejam também objecto de livre apreciação do julgador (arts. 388.º e 389.º do CCiv.). <sup>13</sup>
+Afirmação esta que é reforçada pela circunstância - de ordem sistemática no conjunto do direito probatório material (conteúdo da prova quanto às declarações constantes) - de tal atestado, nessa parte, corresponder verdadeiramente a uma resposta de sujeitos com "conhecimentos especiais que os julgadores não possuem", isto é, sujeitos actuando como “peritos” para o efeito do art. 388.º do CCiv. Razão pela qual não pode, neste segmento factual, num domínio em que a autoridade pública emissora do documento é simultaneamente detentora de uma qualificação especial em face da lei ("médicos especialistas": como refere agora o art. 2.º, 6, do [DL 202/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1996-226809)), deixar de ser vista como averiguação e apreciação a cargo de peritos com conhecimentos especiais12; o que conduz a que as suas "respostas" sejam também objecto de livre apreciação do julgador (arts. 388.º e 389.º do CCiv.). 13
 
-Ou seja: a declaração integrada em documento autêntico como juízo de valor técnico-científico e especializado, comum à declaração da prova constante da “perícia” produzida nos autos (nos termos dos arts. 467.º-489.º do CPC) mas sem o ser enquanto tal, só pode constituir-se com a força probatória relativa que é própria dessa prova pericial<sup>14</sup>; conjugando-se e aplicando-se para um mesmo resultado - documento autêntico com narração vinculativa e juízo pessoal dispositivo da "entidade documentadora" - os arts. 371.º, 1, 2.ª parte, e 389.º do CCiv.
+Ou seja: a declaração integrada em documento autêntico como juízo de valor técnico-científico e especializado, comum à declaração da prova constante da “perícia” produzida nos autos (nos termos dos arts. 467.º-489.º do CPC) mas sem o ser enquanto tal, só pode constituir-se com a força probatória relativa que é própria dessa prova pericial14; conjugando-se e aplicando-se para um mesmo resultado - documento autêntico com narração vinculativa e juízo pessoal dispositivo da "entidade documentadora" - os arts. 371.º, 1, 2.ª parte, e 389.º do CCiv.
 
 4.7 - Em consequência, julgamos adequada a uniformização da jurisprudência nos seguintes termos, tal como será a final decidida:
 
@@ -802,25 +854,25 @@ Começa tal atribuição por estar plasmada na prescrição-matriz da competênc
 
 Esta intervenção começa por ser uma tarefa de reponderação da decisão proferida sobre a factualidade em face dos factos assentes, da prova já produzida e plasmada nos autos e, bem assim, por documentos supervenientes que imponham ou (extensivamente) sejam susceptíveis (pela sua aptidão probatória) de impor uma decisão diversa da obtida em 1.ª instância.
 
-Depois, o n.º 2 do art. 662.º, 2, do CPC estabelece verdadeiros poderes-deveres funcionais e qualificados (a lei diz "deve ainda, mesmo que oficiosamente") sempre que, aquando da reapreciação da prova sujeita à livre apreciação, não resulte uma convicção segura e fundamentada - antes uma dúvida fundada - sobre a prova dos factos, uma vez confrontada com a motivação e a decisão reflectidas na 1.ª instância. Nomeadamente ganham protagonismo as als. a) e b), claramente ordenadas a possibilitar à Relação a resolução de dúvidas que se afiguram perceptíveis quanto ao apuramento da verdade de certos e determinados factos alegados pelas partes, criando, dessa forma, condições de igualdade com a 1.ª instância na observação directa da fonte de prova ou no acesso a novos meios de prova<sup>15</sup> e, assim, fazer verdadeira e autónoma reapreciação do julgado sobre os pontos impugnados e formar a sua própria convicção, em resultado, se for o caso, das provas que lhe for lícito ainda renovar ou produzir, mantendo ou alterando os juízos probatórios em causa<sup>16</sup>; por isso, estamos verdadeiramente perante deveres processuais de carácter vinculado, impostos para “proceder a um (verdadeiro) novo julgamento da matéria de facto, em ordem à formação da sua própria convicção, designadamente verificando se a convicção expressa pelo tribunal “a quo” possuía razoáveis tradução e suporte no material fáctico emergente da gravação da prova (em conjugação com os mais elementos probatórios constantes do processo)” <sup>17</sup>, que não dependem de iniciativa das partes (nem são direito potestativo que lhes assista) <sup>18</sup> - são (ou podem-devem ser) exercidos oficiosamente e aspiram à formulação de um resultado judicativo próprio.
+Depois, o n.º 2 do art. 662.º, 2, do CPC estabelece verdadeiros poderes-deveres funcionais e qualificados (a lei diz "deve ainda, mesmo que oficiosamente") sempre que, aquando da reapreciação da prova sujeita à livre apreciação, não resulte uma convicção segura e fundamentada - antes uma dúvida fundada - sobre a prova dos factos, uma vez confrontada com a motivação e a decisão reflectidas na 1.ª instância. Nomeadamente ganham protagonismo as als. a) e b), claramente ordenadas a possibilitar à Relação a resolução de dúvidas que se afiguram perceptíveis quanto ao apuramento da verdade de certos e determinados factos alegados pelas partes, criando, dessa forma, condições de igualdade com a 1.ª instância na observação directa da fonte de prova ou no acesso a novos meios de prova15 e, assim, fazer verdadeira e autónoma reapreciação do julgado sobre os pontos impugnados e formar a sua própria convicção, em resultado, se for o caso, das provas que lhe for lícito ainda renovar ou produzir, mantendo ou alterando os juízos probatórios em causa16; por isso, estamos verdadeiramente perante deveres processuais de carácter vinculado, impostos para “proceder a um (verdadeiro) novo julgamento da matéria de facto, em ordem à formação da sua própria convicção, designadamente verificando se a convicção expressa pelo tribunal “a quo” possuía razoáveis tradução e suporte no material fáctico emergente da gravação da prova (em conjugação com os mais elementos probatórios constantes do processo)” 17, que não dependem de iniciativa das partes (nem são direito potestativo que lhes assista) 18 - são (ou podem-devem ser) exercidos oficiosamente e aspiram à formulação de um resultado judicativo próprio.
 
-Vista globalmente, esta é uma intervenção que está de acordo com uma filosofia clara e reforçada pelo CPC de 2013, em que, sem abdicar do princípio do dispositivo, “o tribunal também está comprometido com a verdade dos factos e daí que, por força do princípio do inquisitório, alguns desses factos possam vir a ser provados por mor da sua intervenção”, no contexto de um processo “trialógico”, “um processo de partes perante um juiz activo” <sup>19</sup>.
+Vista globalmente, esta é uma intervenção que está de acordo com uma filosofia clara e reforçada pelo CPC de 2013, em que, sem abdicar do princípio do dispositivo, “o tribunal também está comprometido com a verdade dos factos e daí que, por força do princípio do inquisitório, alguns desses factos possam vir a ser provados por mor da sua intervenção”, no contexto de um processo “trialógico”, “um processo de partes perante um juiz activo” 19.
 
 Ora.
 
-O STJ não pode sindicar, em princípio, o uso feito das competências probatórias atribuídas pelo art. 662.º, 1 e 2, tendo em conta a regra de insindicabilidade do n.º 4 do art. 662.º ("Das decisões da Relação previstas nos n.<sup>os</sup> 1 e 2 não cabe recurso para o Supremo Tribunal de Justiça.").
+O STJ não pode sindicar, em princípio, o uso feito das competências probatórias atribuídas pelo art. 662.º, 1 e 2, tendo em conta a regra de insindicabilidade do n.º 4 do art. 662.º ("Das decisões da Relação previstas nos n.os 1 e 2 não cabe recurso para o Supremo Tribunal de Justiça.").
 
 Porém, esta solução não impede, abrigado no fundamento da revista previsto no art. 674.º, 1, b), do CPC, que se verifique se a Relação, ao usar tais poderes, agiu dentro dos limites configurados pela lei para esse exercício e/ou verificar se a Relação omitiu o exercício de tais poderes, que se impunham relativamente a aspectos relevantes para a decisão. Isto é, por um lado, a verificação-censura do mau uso (deficiente ou patológico) desses poderes; por outro lado, a verificação-censura ao não uso dos poderes - tudo conjugado como sindicação de errores in procedendo.
 
-Serão sempre situações manifestas e objectivas de vício processual; mas são situações que, mesmo que residuais e muito limitadas, atentos os poderes do STJ, não podem ser ignorados, se assim for, na sindicabilidade da revista. <sup>20</sup>
+Serão sempre situações manifestas e objectivas de vício processual; mas são situações que, mesmo que residuais e muito limitadas, atentos os poderes do STJ, não podem ser ignorados, se assim for, na sindicabilidade da revista. 20
 
-Por outro lado, o exercício desses poderes legais pode ainda ser sindicado no âmbito do "erro na apreciação das provas e na fixação dos factos materiais da causa", tendo por fundamento "ofensa de uma disposição expressa de lei que exija certa espécie de prova para a existência do facto ou que fixe a força de determinado meio de prova" (errores in judicando relativos à identificação, interpretação e aplicação de normas do direito probatório material) - arts. 674.º, 1, a), 3, 2.ª parte, 682.º, 2.ª parte, CPC<sup>21</sup>.
+Por outro lado, o exercício desses poderes legais pode ainda ser sindicado no âmbito do "erro na apreciação das provas e na fixação dos factos materiais da causa", tendo por fundamento "ofensa de uma disposição expressa de lei que exija certa espécie de prova para a existência do facto ou que fixe a força de determinado meio de prova" (errores in judicando relativos à identificação, interpretação e aplicação de normas do direito probatório material) - arts. 674.º, 1, a), 3, 2.ª parte, 682.º, 2.ª parte, CPC21.
 
 5.4 - É justamente nesta segunda frente de “erro de direito”, alegadamente excludente do art. 662.º, 4, do CPC, que os Recorrentes censuram a convicção do tribunal quanto ao novo facto provado 44., não se conformando com a forma como o tribunal da Relação, ao invés da 1.ª instância, valorou de forma privilegiada a prova constante da avaliação do Instituto Nacional de Medicina Legal e Ciências Forenses (desconsiderada justamente em 1.ª instância), em detrimento da alegada e invocada força probatória plena e vinculada dos “atestados médicos de incapacidade multiuso” emitidos em 2008 e 2009 - em causa está a diferente fixação da percentagem de incapacidade e seu reflexo na qualificação da invalidez - e, nessa senda, optando de forma expressa: “os Serviços de Medicina Legal [...] formularam juízo pericial distinto, em relatório fundamentado, com tal densidade que não se vê empalidecido pelo juízo formulado pela junta médica dos serviços de Segurança Social”.
 
-Neste âmbito, precisemos que o art. 662.º do CPC, consagrando o duplo grau de jurisdição no âmbito da motivação e do julgamento da matéria de facto, estabiliza os poderes da Relação enquanto verdadeiro tribunal de instância, proporcionando a reapreciação do juízo decisório da 1.ª instância para um efectivo e próprio apuramento da verdade material e subsequente decisão de mérito. Por isso a doutrina tem acentuado que, nesse segundo grau de jurisdição, se opera um verdadeiro recurso de reponderação ou de reexame, sempre que do processo constem todos os elementos de prova que serviram de base à decisão da matéria de facto em causa (em especial os depoimentos gravados), que conduzirá a uma decisão de substituição, uma vez decidido que o novo julgamento feito modifica ou altera ou adita a decisão recorrida. <sup>22</sup>
+Neste âmbito, precisemos que o art. 662.º do CPC, consagrando o duplo grau de jurisdição no âmbito da motivação e do julgamento da matéria de facto, estabiliza os poderes da Relação enquanto verdadeiro tribunal de instância, proporcionando a reapreciação do juízo decisório da 1.ª instância para um efectivo e próprio apuramento da verdade material e subsequente decisão de mérito. Por isso a doutrina tem acentuado que, nesse segundo grau de jurisdição, se opera um verdadeiro recurso de reponderação ou de reexame, sempre que do processo constem todos os elementos de prova que serviram de base à decisão da matéria de facto em causa (em especial os depoimentos gravados), que conduzirá a uma decisão de substituição, uma vez decidido que o novo julgamento feito modifica ou altera ou adita a decisão recorrida. 22
 
-Sempre - nunca é demais sublinhar - com a mesma amplitude de poderes de julgamento que se atribui à 1.ª instância (é perfeitamente elucidativa a aludida remissão feita pelo art. 663.º, 2, para o art. 607.º, que abrange os seus n.<sup>os</sup> 4 e 5) e, destarte, sem qualquer subalternização - inerente a uma alegada relação hierárquica entre instâncias de supra e infra-ordenação no julgamento - da 2.ª instância ao decidido pela 1.ª instância quanto ao controlo sobre uma decisão relativa ao julgamento de uma determinada matéria de facto, precipitado numa convicção verdadeira e justificada, dialecticamente construída e, acima de tudo, independente da convicção de 1.ª instância<sup>23</sup>.
+Sempre - nunca é demais sublinhar - com a mesma amplitude de poderes de julgamento que se atribui à 1.ª instância (é perfeitamente elucidativa a aludida remissão feita pelo art. 663.º, 2, para o art. 607.º, que abrange os seus n.os 4 e 5) e, destarte, sem qualquer subalternização - inerente a uma alegada relação hierárquica entre instâncias de supra e infra-ordenação no julgamento - da 2.ª instância ao decidido pela 1.ª instância quanto ao controlo sobre uma decisão relativa ao julgamento de uma determinada matéria de facto, precipitado numa convicção verdadeira e justificada, dialecticamente construída e, acima de tudo, independente da convicção de 1.ª instância23.
 
 Pois bem.
 
@@ -870,56 +922,58 @@ O Sumário a cargo do Relator corresponde ao segmento de uniformização decidid
 
 *
 
-<sup>1</sup> ANTUNES VARELA/J. MIGUEL BEZERRA/SAMPAIO E NORA, Manual de processo civil, 2.ª ed., Coimbra Editora, Coimbra, 1985, págs. 506-507.
+1 ANTUNES VARELA/J. MIGUEL BEZERRA/SAMPAIO E NORA, Manual de processo civil, 2.ª ed., Coimbra Editora, Coimbra, 1985, págs. 506-507.
 
-<sup>2</sup> Requisitos sublinhados por PIRES DE LIMA/ANTUNES VARELA, “Artigo 362.º”, Código Civil anotado, Volume I (Artigos 1.º a 761.º), 4.ª ed., colaboração de M. Henrique Mesquita, Coimbra Editora, Coimbra, 1987, pág. 321.
+2 Requisitos sublinhados por PIRES DE LIMA/ANTUNES VARELA, “Artigo 362.º”, Código Civil anotado, Volume I (Artigos 1.º a 761.º), 4.ª ed., colaboração de M. Henrique Mesquita, Coimbra Editora, Coimbra, 1987, pág. 321.
 
 No direito italiano, em face do congénere art. 2699 ("Atto pubblico") do Codice Civile, v. a mesma saliência de requisitos exposta, exemplificativamente, por PASQUALINA FARINA, La querela civile di falso. II. Profili teorici e attuativi, Roma Tre-Press, Roma, 2018, págs. 109-110.
 
-<sup>3</sup> V. DIOGO FREITAS DO AMARAL, Curso de direito administrativo, Vol. I, 3.ª ed., colaboração de Luís Fábrica/Carla Amado Gomes, Jorge Pereira da Silva, Almedina, Coimbra, 2007, págs. 753 e ss (756, para as “categorias” de pessoas colectivas públicas, incluindo o Estado, os institutos públicos e as “entidades públicas empresariais”), 792 e ss (para os “serviços públicos”) e 359 e ss (para os institutos públicos como entidades da “administração estadual indirecta”.
+3 V. DIOGO FREITAS DO AMARAL, Curso de direito administrativo, Vol. I, 3.ª ed., colaboração de Luís Fábrica/Carla Amado Gomes, Jorge Pereira da Silva, Almedina, Coimbra, 2007, págs. 753 e ss (756, para as “categorias” de pessoas colectivas públicas, incluindo o Estado, os institutos públicos e as “entidades públicas empresariais”), 792 e ss (para os “serviços públicos”) e 359 e ss (para os institutos públicos como entidades da “administração estadual indirecta”.
 
-<sup>4</sup> Sobre esta natureza pública, à luz deste regime, v. o Ac. do STJ de 30/11/2017, processo n.º 1329/14, Rel. ROSA RIBEIRO COELHO, in www.dgsi.pt (“O atestado em causa está previsto no [DL n.º 202/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1996-226809), de 23.10, republicado pelo [DL n.º 291/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-2009-491686), de 12.10 [...]. Como se lê no seu art. 1.º, este diploma rege a avaliação das incapacidades das pessoas com deficiência, para efeitos de acesso às medidas e benefícios previstos na lei, designadamente na [Lei n.º 38/2004](https://diariodarepublica.pt/dr/detalhe/lei/38-2004-480708), de 18.8, para facilitar a sua plena participação na comunidade. As pessoas com deficiência devem apresentar os respetivos requerimentos de avaliação de incapacidade através de estruturas públicas da saúde - nomeadamente o delegado de saúde da sua residência habitual - com vista à sua submissão a uma junta médica, após o que o presidente desta emite o atestado médico de incapacidade multiuso, em que se indica expressamente qual a percentagem de incapacidade do avaliado, tudo isto de acordo com os arts. 3.º e 4.º do diploma referido. Trata-se, pois, de um atestado previsto na lei para um fim vinculado, de interesse público, o que justifica a intervenção de um sector específico da Administração Pública para garantir a eficácia das medidas de apoio a deficientes.”; sublinhado nosso).
+4 Sobre esta natureza pública, à luz deste regime, v. o Ac. do STJ de 30/11/2017, processo n.º 1329/14, Rel. ROSA RIBEIRO COELHO, in www.dgsi.pt (“O atestado em causa está previsto no [DL n.º 202/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1996-226809), de 23.10, republicado pelo [DL n.º 291/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-2009-491686), de 12.10 [...]. Como se lê no seu art. 1.º, este diploma rege a avaliação das incapacidades das pessoas com deficiência, para efeitos de acesso às medidas e benefícios previstos na lei, designadamente na [Lei n.º 38/2004](https://diariodarepublica.pt/dr/detalhe/lei/38-2004-480708), de 18.8, para facilitar a sua plena participação na comunidade. As pessoas com deficiência devem apresentar os respetivos requerimentos de avaliação de incapacidade através de estruturas públicas da saúde - nomeadamente o delegado de saúde da sua residência habitual - com vista à sua submissão a uma junta médica, após o que o presidente desta emite o atestado médico de incapacidade multiuso, em que se indica expressamente qual a percentagem de incapacidade do avaliado, tudo isto de acordo com os arts. 3.º e 4.º do diploma referido. Trata-se, pois, de um atestado previsto na lei para um fim vinculado, de interesse público, o que justifica a intervenção de um sector específico da Administração Pública para garantir a eficácia das medidas de apoio a deficientes.”; sublinhado nosso).
 
-<sup>5</sup> V. COUTINHO DE ABREU, Curso de direito comercial, Volume I, Introdução, atos de comércio, comerciantes, empresas, sinais distintivos, 13.ª ed., Almedina, Coimbra, 2022, págs. 258-259, 262-263, RICARDO COSTA, “Órgãos de empresas públicas: entre o interesse público e o direito societário”, Diálogos com Coutinho de Abreu. Estudos oferecidos no aniversário do Professor, org.: Alexandre de Soveral Martins et alii, Almedina, Coimbra, 2020, págs. 835-836.
+5 V. COUTINHO DE ABREU, Curso de direito comercial, Volume I, Introdução, atos de comércio, comerciantes, empresas, sinais distintivos, 13.ª ed., Almedina, Coimbra, 2022, págs. 258-259, 262-263, RICARDO COSTA, “Órgãos de empresas públicas: entre o interesse público e o direito societário”, Diálogos com Coutinho de Abreu. Estudos oferecidos no aniversário do Professor, org.: Alexandre de Soveral Martins et alii, Almedina, Coimbra, 2020, págs. 835-836.
 
-<sup>6</sup> Sendo o Estado “a pessoa colectiva pública que, no seio da comunidade nacional, desempenha, sob a direcção do Governo, a actividade administrativa” e a administração indirecta do Estado constituída pelo “conjunto das entidades públicas que desenvolvem, com personalidade jurídica própria e autonomia administrativa, ou administrativa e financeira, uma actividade administrativa destinada à realização de fins do Estado”, exercida, portanto, por pessoas colectivas públicas distintas do Estado (v. arts. 182.º e 199.º, d) ("Dirigir os serviços e a atividade da administração direta do Estado, civil e militar, superintender na administração indireta e exercer a tutela sobre esta e sobre a administração autónoma.") da CRP) - DIOGO FREITAS DO AMARAL, Curso de direito administrativo cit., págs. 220-221, 228, 347-350.
+6 Sendo o Estado “a pessoa colectiva pública que, no seio da comunidade nacional, desempenha, sob a direcção do Governo, a actividade administrativa” e a administração indirecta do Estado constituída pelo “conjunto das entidades públicas que desenvolvem, com personalidade jurídica própria e autonomia administrativa, ou administrativa e financeira, uma actividade administrativa destinada à realização de fins do Estado”, exercida, portanto, por pessoas colectivas públicas distintas do Estado (v. arts. 182.º e 199.º, d) ("Dirigir os serviços e a atividade da administração direta do Estado, civil e militar, superintender na administração indireta e exercer a tutela sobre esta e sobre a administração autónoma.") da CRP) - DIOGO FREITAS DO AMARAL, Curso de direito administrativo cit., págs. 220-221, 228, 347-350.
 
-<sup>7</sup> Ainda quanto a direito comparado pertinente, na Ley de Enjuiciamiento Civil (1/2000, de 7 de Janeiro), o art. 317, que elenca os "documentos públicos" para "efeitos de prova no processo", refere expressamente aqueles que, "com referência a arquivos e registos de órgãos do Estado, das Administrações públicas ou de outras entidades de Direito público, sejam emitidos por funcionários habilitados para dar fé de disposições e actuações daqueles órgãos, Administrações ou entidades" (n.º 6.º). E o art. 319, 1, confere-lhes "força probatória plena do facto, acto ou estado de coisas que documentem, da data em que se produz essa documentação e da identidade dos notários e demais pessoas que, se for necessário, nela intervenham". E o art. 1216 do Código Civil refere "documentos públicos" como sendo emitidos por "funcionário público competente, com as solenidades requeridas pela lei". O que conduz a doutrina a asseverar que a lei serve para determinar que os "documentos públicos" no seu âmbito estrito legal são apenas aqueles que são emitidos pelos funcionários enumerados pelo art. 317, “já que, e ainda que um funcionário intervenha[,] não será documento público o emitido por quem não está previsto como tal na norma” (JOSÉ MARÍA ASENCIO MELLADO, “Artículo 317”, Ley de Enjuiciamiento Civil comentada y com jurisprudencia, coord.: José María Asencio Mellado, La Ley/Wolters Kluver, Madrid, 2013, pág. 287, enfatizado nosso).
+7 Ainda quanto a direito comparado pertinente, na Ley de Enjuiciamiento Civil (1/2000, de 7 de Janeiro), o art. 317, que elenca os "documentos públicos" para "efeitos de prova no processo", refere expressamente aqueles que, "com referência a arquivos e registos de órgãos do Estado, das Administrações públicas ou de outras entidades de Direito público, sejam emitidos por funcionários habilitados para dar fé de disposições e actuações daqueles órgãos, Administrações ou entidades" (n.º 6.º). E o art. 319, 1, confere-lhes "força probatória plena do facto, acto ou estado de coisas que documentem, da data em que se produz essa documentação e da identidade dos notários e demais pessoas que, se for necessário, nela intervenham". E o art. 1216 do Código Civil refere "documentos públicos" como sendo emitidos por "funcionário público competente, com as solenidades requeridas pela lei". O que conduz a doutrina a asseverar que a lei serve para determinar que os "documentos públicos" no seu âmbito estrito legal são apenas aqueles que são emitidos pelos funcionários enumerados pelo art. 317, “já que, e ainda que um funcionário intervenha[,] não será documento público o emitido por quem não está previsto como tal na norma” (JOSÉ MARÍA ASENCIO MELLADO, “Artículo 317”, Ley de Enjuiciamiento Civil comentada y com jurisprudencia, coord.: José María Asencio Mellado, La Ley/Wolters Kluver, Madrid, 2013, pág. 287, enfatizado nosso).
 
-<sup>8</sup> JOSÉ ALBERTO DOS REIS, “Artigo 530.º”, Código de Processo Civil anotado, Volume III, Artigos 487.º a 549.º, 4.ª ed., Coimbra Editora, Coimbra, 1985, pág. 364, 366-367, VAZ SERRA, “Provas (Direito probatório material)”, BMJ n.º 111, 1961, págs. 131, 134-136, 138.
+8 JOSÉ ALBERTO DOS REIS, “Artigo 530.º”, Código de Processo Civil anotado, Volume III, Artigos 487.º a 549.º, 4.ª ed., Coimbra Editora, Coimbra, 1985, pág. 364, 366-367, VAZ SERRA, “Provas (Direito probatório material)”, BMJ n.º 111, 1961, págs. 131, 134-136, 138.
 
-<sup>9</sup> VAZ SERRA, “Provas (Direito probatório material)”, loc. cit., pág. 137.
+9 VAZ SERRA, “Provas (Direito probatório material)”, loc. cit., pág. 137.
 
-<sup>10</sup> Com proveito, v., para a distinção narrativo vs. constitutivo-dispositivo, ANTUNES VARELA/J. MIGUEL BEZERRA/SAMPAIO E NORA, Manual de processo civil cit., págs. 506-507, JOSÉ LEBRE DE FREITAS, A ação declarativa comum à luz do Código de Processo Civil de 2013, 4.ª ed., Gestlegal, Coimbra, 2017, págs. 270-272 e nt. 16.
+10 Com proveito, v., para a distinção narrativo vs. constitutivo-dispositivo, ANTUNES VARELA/J. MIGUEL BEZERRA/SAMPAIO E NORA, Manual de processo civil cit., págs. 506-507, JOSÉ LEBRE DE FREITAS, A ação declarativa comum à luz do Código de Processo Civil de 2013, 4.ª ed., Gestlegal, Coimbra, 2017, págs. 270-272 e nt. 16.
 
-<sup>11</sup> Assim, LUÍS PIRES DE SOUSA, Direito probatório material comentado, Almedina, Coimbra, 2020, sub artigo 371.º, págs. 136-137.
+11 Assim, LUÍS PIRES DE SOUSA, Direito probatório material comentado, Almedina, Coimbra, 2020, sub artigo 371.º, págs. 136-137.
 
-<sup>12</sup> MANUEL DE ANDRADE, Noções elementares de processo civil, colaboração de Antunes Varela, revista e actualizada por Herculano Esteves, Coimbra Editora, Coimbra, 1979, págs. 262-263, para a “prova pericial”.
+12 MANUEL DE ANDRADE, Noções elementares de processo civil, colaboração de Antunes Varela, revista e actualizada por Herculano Esteves, Coimbra Editora, Coimbra, 1979, págs. 262-263, para a “prova pericial”.
 
-<sup>13</sup> É neste enquadramento de prova pericial que vemos, com igual conclusão e consequência sobre a livre apreciação judicial, várias pronúncias do STJ, nomeadamente na determinação da incapacidade resultante de acidente de trabalho (mobilizando “laudo” de junta médica para “perícia” diligenciado no processo): Acs. de 8/2/2024, processo n.º 8223/17, Rel. MARIA DOS PRAZERES BELEZA (“atestado médico de incapacidade multiuso” e perícia médico-legal; v. ponto VI. do Sumário), 8/6/2021, processo n.º 3004/16, Rel. LENOR RODRIGUES, 25/11/2020, processo n.º 288/16, Rel. CHAMBEL MOURISCO, 6/5/2020, processo n.º 1085/10, Rel. ANTÓNIO LEONES DANTAS, 6/2/2019, processo n.º 639/13, Rel. JÚLIO GOMES, 26/9/2018, processo n.º 25552/16, Rel. GONÇALVES ROCHA, 12/10/2017, processo n.º 19505/15, Rel. MARIA DA GRAÇA TRIGO (também para a consideração de prova livre do “atestado médico de incapacidade multiuso”), 14/7/2016, processo n.º 605/11, Rel. ANA LUÍSA GERALDES, 28/1/2015, processo n.º 22956/10, Rel. MÁRIO BELO MORGADO, 24/6/2010, processo n.º 600/09, Rel. BETTENCOURT DE FARIA (relatório clínico emanado de um médico em funções num estabelecimento hospitalar público), e 20/5/2003, processo n.º 1149/03, Rel. PONCE DE LEÃO (exame médico do Instituto de Medicina Legal).
+13 É neste enquadramento de prova pericial que vemos, com igual conclusão e consequência sobre a livre apreciação judicial, várias pronúncias do STJ, nomeadamente na determinação da incapacidade resultante de acidente de trabalho (mobilizando “laudo” de junta médica para “perícia” diligenciado no processo): Acs. de 8/2/2024, processo n.º 8223/17, Rel. MARIA DOS PRAZERES BELEZA (“atestado médico de incapacidade multiuso” e perícia médico-legal; v. ponto VI. do Sumário), 8/6/2021, processo n.º 3004/16, Rel. LENOR RODRIGUES, 25/11/2020, processo n.º 288/16, Rel. CHAMBEL MOURISCO, 6/5/2020, processo n.º 1085/10, Rel. ANTÓNIO LEONES DANTAS, 6/2/2019, processo n.º 639/13, Rel. JÚLIO GOMES, 26/9/2018, processo n.º 25552/16, Rel. GONÇALVES ROCHA, 12/10/2017, processo n.º 19505/15, Rel. MARIA DA GRAÇA TRIGO (também para a consideração de prova livre do “atestado médico de incapacidade multiuso”), 14/7/2016, processo n.º 605/11, Rel. ANA LUÍSA GERALDES, 28/1/2015, processo n.º 22956/10, Rel. MÁRIO BELO MORGADO, 24/6/2010, processo n.º 600/09, Rel. BETTENCOURT DE FARIA (relatório clínico emanado de um médico em funções num estabelecimento hospitalar público), e 20/5/2003, processo n.º 1149/03, Rel. PONCE DE LEÃO (exame médico do Instituto de Medicina Legal).
 
-<sup>14</sup> Convergem neste princípio interpretativo de prova de livre apreciação, na aplicação da 2.ª parte do art. 371.º, 1, do CCiv. (“juízos pessoais (simples apreciações) do documentador”), ANTUNES VARELA/J. MIGUEL BEZERRA/SAMPAIO E NORA, Manual de processo civil cit., pág. 522 e nt. (2) - pág. 523: “ao mesmo princípio devem considerar-se sujeitas as declarações emitidas nos documentos por peritos (designadamente médicos) que hajam intervindo na confecção do documento, seja a pedido das partes [...], seja por iniciativa do notário” (sublinhado nosso).
+14 Convergem neste princípio interpretativo de prova de livre apreciação, na aplicação da 2.ª parte do art. 371.º, 1, do CCiv. (“juízos pessoais (simples apreciações) do documentador”), ANTUNES VARELA/J. MIGUEL BEZERRA/SAMPAIO E NORA, Manual de processo civil cit., pág. 522 e nt. (2) - pág. 523: “ao mesmo princípio devem considerar-se sujeitas as declarações emitidas nos documentos por peritos (designadamente médicos) que hajam intervindo na confecção do documento, seja a pedido das partes [...], seja por iniciativa do notário” (sublinhado nosso).
 
 Neste encalce, com clara identidade com o nosso caso, v. o recente Ac. do STJ de 20/6/2023, processo n.º 19606/18, Rel. JORGE LEAL, qualificando o “atestado médico de incapacidade multiuso” como “prova documental emitida por médicos, no exercício das suas habilitações específicas, o que consubstancia prova documental contendo juízo pericial, sujeita a livre apreciação (artigos 362.º, 388.º e 389.º do Código Civil)”. Com proximidade para a qualificação e força probatória gizadas, v. ainda o Ac. do STJ de 24/10/2019, processo n.º 8319/09, Rel. HÉLDER ALMEIDA, in www.dgsi.pt (“Na outorga notarial de uma procuração em que intervieram dois peritos médico-legais que declararam atestar a idoneidade psíquica e mental do uso pleno das suas faculdades por parte do outorgante, apenas estão cobertos pela força probatória plena os factos relativos à referida intervenção dos peritos e as declarações que os mesmos prestaram em tal acto notarial - art. 371.º, n.º 1, do CC; a atestação por parte dos mesmos clínicos está sujeita à livre apreciação do julgador nos termos do disposto no art. 389.º do CC.”: ponto III. do Sumário).
 
-<sup>15</sup> JOSÉ LEBRE DE FREITAS/ARMINDO RIBEIRO MENDES/ISABEL ALEXANDRE, “Artigo 662.º”, Código de Processo Civil anotado, Volume 3.º, Artigos 627.º a 877.º, 3.ª ed., Almedina, Coimbra, 2022, págs. 170-171, 174-175.
+15 JOSÉ LEBRE DE FREITAS/ARMINDO RIBEIRO MENDES/ISABEL ALEXANDRE, “Artigo 662.º”, Código de Processo Civil anotado, Volume 3.º, Artigos 627.º a 877.º, 3.ª ed., Almedina, Coimbra, 2022, págs. 170-171, 174-175.
 
-<sup>16</sup> V. Ac. do STJ de 7/9/2017, processo n.º 959/09.2TVLSB.L1.S1, Rel. TOMÉ GOMES, in www.dgsi.pt.
+16 V. Ac. do STJ de 7/9/2017, processo n.º 959/09.2TVLSB.L1.S1, Rel. TOMÉ GOMES, in www.dgsi.pt.
 
-<sup>17</sup> FRANCISCO FERREIRA DE ALMEIDA, Direito processual civil, Volume II, 2.ª ed., Almedina, Coimbra, 2019, pág. 537, completando: “Foi, assim, arredada a conceção segundo a qual a atividade cognitiva da Relação se deveria confinar, tão-somente, a um mero controlo formal da motivação/fundamentação efetuada em 1.ª instância”.
+17 FRANCISCO FERREIRA DE ALMEIDA, Direito processual civil, Volume II, 2.ª ed., Almedina, Coimbra, 2019, pág. 537, completando: “Foi, assim, arredada a conceção segundo a qual a atividade cognitiva da Relação se deveria confinar, tão-somente, a um mero controlo formal da motivação/fundamentação efetuada em 1.ª instância”.
 
-<sup>18</sup> Por todos, v. ABRANTES GERALDES, “Art. 640.º”, pág. 198, “Art. 662.º”, págs. 341-342, Recursos em processo civil, 7.ª ed., Almedina, Coimbra, 2022.
+18 Por todos, v. ABRANTES GERALDES, “Art. 640.º”, pág. 198, “Art. 662.º”, págs. 341-342, Recursos em processo civil, 7.ª ed., Almedina, Coimbra, 2022.
 
-<sup>19</sup> URBANO LOPES DIAS, “Limites do poder cognitivo do juiz - nas instâncias e no STJ”, Blog do IPPC, 3/4/2017, https://blogippc.blogspot.com/2017/04/limites-do-poder-cognitivo-do-juiz-nas.html, pág. 5.
+19 URBANO LOPES DIAS, “Limites do poder cognitivo do juiz - nas instâncias e no STJ”, Blog do IPPC, 3/4/2017, https://blogippc.blogspot.com/2017/04/limites-do-poder-cognitivo-do-juiz-nas.html, pág. 5.
 
-<sup>20</sup> V., como elucidação significativa, MIGUEL TEIXEIRA DE SOUSA, “Prova, poderes da Relação e convicção: a lição da epistemologia - Acórdão do Supremo Tribunal de Justiça de 24.9.2013”, CDP n.º 44, 2013, págs. 33-34, 36, ID., “Dupla conforme e vícios na formação do acórdão da Relação”, de 1/4/2015, in https://blogippc.blogspot.com/2015/04/dupla-conforme-e-vicios-na-formacao-do.html; ABRANTES GERALDES, “Art. 662.º”, págs. 362-364, “Artigo 674.º”, págs. 474-475, “Art. 682.º”, págs. 507-509, Recursos… cit.; JOSÉ LEBRE DE FREITAS/ARMINDO RIBEIRO MENDES/ISABEL ALEXANDRE, “Art. 662.º”, pág. 177, “Artigo 674.º”, pág. 232, Código de Processo Civil anotado, Volume 3.º cit.
+20 V., como elucidação significativa, MIGUEL TEIXEIRA DE SOUSA, “Prova, poderes da Relação e convicção: a lição da epistemologia - Acórdão do Supremo Tribunal de Justiça de 24.9.2013”, CDP n.º 44, 2013, págs. 33-34, 36, ID., “Dupla conforme e vícios na formação do acórdão da Relação”, de 1/4/2015, in https://blogippc.blogspot.com/2015/04/dupla-conforme-e-vicios-na-formacao-do.html; ABRANTES GERALDES, “Art. 662.º”, págs. 362-364, “Artigo 674.º”, págs. 474-475, “Art. 682.º”, págs. 507-509, Recursos… cit.; JOSÉ LEBRE DE FREITAS/ARMINDO RIBEIRO MENDES/ISABEL ALEXANDRE, “Art. 662.º”, pág. 177, “Artigo 674.º”, pág. 232, Código de Processo Civil anotado, Volume 3.º cit.
 
 Na jurisprudência do STJ, v., exemplificativamente, os Acs. de 11/2/2016, Processo n.º 907/13, Rel. ABRANTES GERALDES, 26/11/2019, processo n.º 431/14, Rel. PEDRO LIMA GONÇALVES, 5/7/2022, processo n.º 400/18, Rel. RICARDO COSTA, 6/9/2022, processo n.º 3714/15.7T8LRA.C1.S1, Rel. GRAÇA AMARAL, e 17/10/2023, processo n.º 1088/12, Rel. LUÍS ESPÍRITO SANTO, sempre in www.dgsi.pt.
 
-<sup>21</sup> V. ABRANTES GERALDES, “Artigo 662.º”, págs. 335-336 (“a Relação tem poderes que tanto podem determinar a assunção de factos segundo regras imperativas de direito probatório, como a desconsideração de factos cuja prova tenha desrespeitado essas mesmas regras”), “Artigo 674.º”, págs. 468-469, “Artigo 682.º”, págs. 503-504, 505, 507-508, Recursos… cit., JOSÉ LEBRE DE FREITAS/ARMINDO RIBEIRO MENDES/ISABEL ALEXANDRE, “Art. 662.º”, pág. 177, “Artigo 674.º”, pág. 232, Código de Processo Civil anotado, Volume 3.º cit.
+21 V. ABRANTES GERALDES, “Artigo 662.º”, págs. 335-336 (“a Relação tem poderes que tanto podem determinar a assunção de factos segundo regras imperativas de direito probatório, como a desconsideração de factos cuja prova tenha desrespeitado essas mesmas regras”), “Artigo 674.º”, págs. 468-469, “Artigo 682.º”, págs. 503-504, 505, 507-508, Recursos… cit., JOSÉ LEBRE DE FREITAS/ARMINDO RIBEIRO MENDES/ISABEL ALEXANDRE, “Art. 662.º”, pág. 177, “Artigo 674.º”, pág. 232, Código de Processo Civil anotado, Volume 3.º cit.
 
-<sup>22</sup> V. MIGUEL TEIXEIRA DE SOUSA, “A impugnação das decisões judiciais”, Estudos sobre o novo processo civil, 2.ª ed., Lex, Lisboa, 1997, págs. 395-396, 399-400, 400, 402-403.
+22 V. MIGUEL TEIXEIRA DE SOUSA, “A impugnação das decisões judiciais”, Estudos sobre o novo processo civil, 2.ª ed., Lex, Lisboa, 1997, págs. 395-396, 399-400, 400, 402-403.
 
-<sup>23</sup> V. MIGUEL TEIXEIRA DE SOUSA, “Prova, poderes da Relação e convicção…”, loc. cit., págs. 33-34, 36, ABRANTES GERALDES, “Artigo 662.º”, Recursos… cit., págs. 333 e ss.
+23 V. MIGUEL TEIXEIRA DE SOUSA, “Prova, poderes da Relação e convicção…”, loc. cit., págs. 33-34, 36, ABRANTES GERALDES, “Artigo 662.º”, Recursos… cit., págs. 333 e ss.
 
 Lisboa, 23 de Maio de 2024. - Ricardo Costa (Relator) - José Ferreira Lopes - João Cura Mariano - António Barateiro Martins - Luís Espírito Santo - Jorge Arcanjo - Nuno Ataíde das Neves - José Luiz Ramalho Pinto - Domingos José Morais - Manuel Aguiar Pereira - Afonso Henrique - Isabel Salgado - Jorge Leal - Maria Amélia Ribeiro - José Eduardo Sapateiro - Emídio Francisco Santos - Nelson Borges Carneiro - Luís Correia de Mendonça - Leonel Serôdio - Maria do Rosário Gonçalves - Paula Mayor de Carvalho - Henrique Antunes - Maria de Deus Damasceno Correia - Maria dos Prazeres Beleza (Não considero todavia, que se trate de um documento autêntico, da autoria de uma autoridade pública.) - Maria Clara Sottomayor - Mário Belo Morgado - Júlio Gomes - Maria da Graça Trigo - Pedro de Lima Gonçalves - José Sousa Lameira - Fátima Gomes - Graça Amaral - Maria Olinda Garcia - Catarina Serra - António Oliveira Abreu - Maria João Vaz Tomé - António Magalhães.
+
+117823373

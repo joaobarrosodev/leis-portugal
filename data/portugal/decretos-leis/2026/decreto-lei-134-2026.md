@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/134/2026/07/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-2026-1145603610
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-09T00:00:00Z'
+  retrieved_at: '2026-10-22T18:46:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d5a889328f131f0300bb3a6a2711bc2c0d47487a5ca11f944c5bf5694e85419
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78b00f2e1183db7838ab6e58b6d95bf5ab263063cf7dc1146ac056790767f069
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:46:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código dos Valores Mobiliários
+- Regime da gestão de ativos
 - Regime Geral das Instituições de Crédito e Sociedades Financeiras
 - Regime Jurídico
 - Regulamento CE
-- Regime da gestão de ativos
 relationships:
+- type: amends
+  target: pt:numero:lei:35/2018
+  label: Altera, a partir de 14 de julho de 2026, os artigos 4.º, 5.º, 10.º, e revoga os n.ºs 3, 6 e 8 do artigo 4.º e a alínea
+    b) do n.º 4 do artigo 5.º do regime jurídico dos pacotes de produtos de investimento de retalho e de produtos de investimento
+    com base em seguros, aprovado no anexo ii da Lei n.º 35/2018, de 20 de julho, Diário da República n.º 139/2018, Série
+    I
+  source: null
+  date: '2018-07-20'
 - type: cites
   target: celex:32014R1286
   label: null
@@ -96,16 +104,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2018/07/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2018/07/20/p/dre
+- type: cites
+  target: pt:dre:115740680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212379454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682983:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:46:17Z'
   warnings: []
   errors: []
 ---
@@ -162,13 +182,15 @@ c) O documento de informação fundamental relativo ao PRIIP a publicitar.
 
 8 - [Revogado.]
 
-9 - O disposto nos n.<sup>os</sup>2, 4, 5 e 7 não se aplica aos OIC que sejam instrumentos financeiros não complexos, nos termos do artigo 314.º-D do Código dos Valores Mobiliários, aprovado pelo [Decreto-Lei n.º 486/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1999-682983), de 13 de novembro, e do artigo 57.º do [Regulamento Delegado (UE) 2017/565](https://data.europa.eu/eli/reg/2017/565/oj?locale=pt) da Comissão, de 25 de abril de 2016.
+9 - O disposto nos n.os2, 4, 5 e 7 não se aplica aos OIC que sejam instrumentos financeiros não complexos, nos termos do artigo 314.º-D do Código dos Valores Mobiliários, aprovado pelo [Decreto-Lei n.º 486/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1999-682983), de 13 de novembro, e do artigo 57.º do [Regulamento Delegado (UE) 2017/565](https://data.europa.eu/eli/reg/2017/565/oj?locale=pt) da Comissão, de 25 de abril de 2016.
 
 10 - [Anterior n.º 9.]
 
 11 - [Anterior n.º 10.]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A disponibilização de PRIIPs em território nacional depende da notificação prévia do respetivo documento de informação fundamental à autoridade competente com, pelo menos, dois dias úteis de antecedência relativamente à data pretendida para a respetiva disponibilização ou com a antecedência prevista em regulamento aprovado pela autoridade competente, a qual não pode ser superior a cinco dias úteis, devendo a obrigação de notificação ser cumprida:
 
@@ -196,7 +218,9 @@ e) [...]
 
 6 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -240,16 +264,18 @@ Os procedimentos de aprovação prévia de publicidade apresentados nos termos d
 
 ###### Artigo 4.º — Norma revogatória
 
-São revogados os n.<sup>os</sup>3, 6 e 8 do artigo 4.º e a alínea b) do n.º 4 do artigo 5.º do regime jurídico dos pacotes de produtos de investimento de retalho e de produtos de investimento com base em seguros, aprovado no anexo ii da [Lei n.º 35/2018](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), de 20 de julho.
+São revogados os n.os3, 6 e 8 do artigo 4.º e a alínea b) do n.º 4 do artigo 5.º do regime jurídico dos pacotes de produtos de investimento de retalho e de produtos de investimento com base em seguros, aprovado no anexo ii da [Lei n.º 35/2018](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), de 20 de julho.
 
 Visto e aprovado em Conselho de Ministros de 14 de maio de 2026. - Luís Montenegro - Ana Isabel Marques Xavier - Joaquim Miranda Sarmento.
 
-**Promulgado em 30 de junho de 2026.**
+Promulgado em 30 de junho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 3 de julho de 2026.**
+Referendado em 3 de julho de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119949000

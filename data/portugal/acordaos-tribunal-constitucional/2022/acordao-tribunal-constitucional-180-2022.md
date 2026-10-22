@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/04/07200/0000400031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/180/2022/04/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/180-2022-181976188
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-04-12T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 875545733de4369fd7c105a15a41c2721f4c594002ccf37d815e1e687295056d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5cc04a8a853ba640dc4d9d59126d4ce14a2e750e2df207f5b28229b58389bf9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Assembleia Legislativa
+- Diploma Legal
 - Governo Regional
 - Inconstitucionalidade
 - Interpretação do Direito
-- Assembleia Legislativa
-- Diploma Legal
-- Açores
 - Transporte de Passageiros
 relationships:
 - type: cites
@@ -131,13 +131,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:19Z'
   warnings: []
   errors: []
 ---
@@ -625,3 +625,5 @@ Sublinha-se, por fim, que o enquadramento de DUE mais amplo, que aqui propugnamo
 [4] Ponto 29 do Acórdão Yellow Cab: "[...] a livre circulação de serviços no domínio dos transportes é regida, não pela disposição do artigo 56.º do TFUE, que diz respeito, em geral, à livre prestação de serviços, mas pela disposição específica do artigo 58.º, n.º 1, do TFUE, nos termos do qual «[a] livre prestação de serviços em matéria de transportes é regulada pelas disposições constantes do título relativo aos transportes» (v., neste sentido, acórdão de 13 de julho de 1989, Lambregts Transportbedrijf, 4/88, Colect., p. 2583, n.º 9).".
 
 J. A. Teles Pereira.
+
+115181785

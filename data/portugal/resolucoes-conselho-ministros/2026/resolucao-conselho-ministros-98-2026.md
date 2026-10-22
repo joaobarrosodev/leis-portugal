@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/98/2026/05/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/98-2026-1125716288
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-25T00:00:00Z'
+  retrieved_at: '2026-10-22T18:41:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0aff970e37b4d5e2e618f3196f989247581475a2d0f1a0284a250748f4d1d37b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc1e15230bfb2677b30409517fe6377bbcc8c00c8ca92bd0a3a533e3e66f66d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:41:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aicep
-- Exoneração
 - Conselho de Administração
 - Conselho de Ministros
 - Estatuto
+- Exoneração
 - Gestor Público
+- Governo XXV
 - Nomeação
 - Remuneração
 - Vogal
-- Governo XXV
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:70/2024
+  label: Exonera, a partir de 26 de maio de 2026, com efeitos a 31 de maio de 2026, Maria Joana da Costa Afonso Lino Gaspar
+    do cargo de vogal executiva do conselho de administração da Agência para o Investimento e Comércio Externo de Portugal,
+    E. P. E., nomeada pela Resolução do Conselho de Ministros n.º 70/2024, de 04 de junho, Diário da República n.º 107/2024,
+    Série I
+  source: null
+  date: '2024-06-04'
 - type: cites
   target: eli:http://da
   label: null
@@ -117,16 +125,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/70/2024/06/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/70/2024/06/04/p/dre
+- type: cites
+  target: pt:dre:145192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165129790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176519578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:867844484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:911303063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:922535861:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:41:55Z'
   warnings: []
   errors: []
 ---
@@ -164,3 +212,5 @@ Presidência do Conselho de Ministros, 7 de maio de 2026. - O Primeiro-Ministro,
 ## ANEXO — (a que se refere o n.º 2)
 
 Bruno Xavier Arrais Beleza Paes Moreira: licenciado em Direito pela Faculdade de Direito da Universidade de Lisboa; aprovado no concurso de admissão aos lugares de adido de embaixada, aberto em 5 de junho de 1997; adido de embaixada, na Secretaria de Estado, em 19 de fevereiro de 1998; terceiro-secretário de embaixada, em 12 de maio de 1999; segundo-secretário de embaixada, em 20 de fevereiro de 2003; na Embaixada em Pequim, em 4 de janeiro de 2004; primeiro-secretário de embaixada, em 20 de fevereiro de 2006; na Embaixada em Buenos Aires, em 2 de maio de 2006; na Embaixada em Dublin, em 7 de setembro de 2010; na Secretaria de Estado, em 1 de agosto de 2013; adjunto do Gabinete do Ministro de Estado e dos Negócios Estrangeiros, em 5 de agosto de 2013; conselheiro de embaixada, em 19 de dezembro de 2014; chefe do Gabinete do Ministro de Estado e dos Negócios Estrangeiros, em 30 de outubro de 2015; na Secretaria de Estado, em 25 de novembro de 2015; presidente da Autoridade Nacional para efeitos do Tratado de Proibição Total de Ensaios Nucleares e de presidente da Autoridade Nacional para a Proibição das Armas Químicas (ANPAQ), em 18 de maio de 2016; diretor de Serviços de Cerimonial, Deslocações, Dispensas e Privilégios, no Protocolo do Estado, em 1 de setembro de 2016; cônsul-geral de Portugal em Genebra, em 1 de setembro de 2018; na Representação Permanente de Portugal junto da União Europeia, em 1 de setembro de 2023. Louvor do Ministro de Estado e dos Negócios Estrangeiros, em 3 de novembro de 2015. Comendador da Ordem de Isabel a Católica, de Espanha; Oficial da Ordem do Cruzeiro do Sul, do Brasil; Oficial da Ordem de Leopoldo II, da Bélgica; Oficial da Ordem da Águia Azteca, do México; Cavaleiro da Legião de Honra, da França; Cavaleiro da Ordem da Fénix, da Grécia.
+
+119948577

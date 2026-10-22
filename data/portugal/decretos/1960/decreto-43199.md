@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43199-1960-514803
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-04-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:19:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81809f5fe07b6be796fc0188c7e3873e779b2d4b7820d6b508d78a4085e988ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc17b59236f56c42102b95a49f506b9393c66bab5b9e86034422c968aff6beee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:19:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,128 @@ relationships:
   target: pt:dre:158404:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:149817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677842:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
-  section_count: 236
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 121
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:19:50Z'
   warnings: []
   errors: []
 ---
@@ -138,29 +250,29 @@ Ouvidos o Conselho Ultramarino e os governos das diversas províncias ultramarin
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150,º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aprovado para ser posto em execução nas diversas províncias ultramarinas o Estatuto Orgânico das Alfândegas do Ultramar, que, junto a este decreto, baixa assinado pelo Ministro do Ultramar.
+Artigo 1.º É aprovado para ser posto em execução nas diversas províncias ultramarinas o Estatuto Orgânico das Alfândegas do Ultramar, que, junto a este decreto, baixa assinado pelo Ministro do Ultramar.
 
-###### Art. 2.º Os funcionários do actual quadro técnico-aduaneiro único das províncias de Angola e de S. Tomé e Príncipe que estejam colocados nesta última província à data da publicação deste decreto no Boletim Oficial poderão ingressar por meio de transferência, que será requerida ao Ministro do Ultramar, no quadro técnico-aduaneiro privativo da província de Angola, à medida que nele forem ocorrendo vagas na respectiva categoria, desde que a requeiram dentro do prazo de 60 dias após a referida publicação.
+Art. 2.º Os funcionários do actual quadro técnico-aduaneiro único das províncias de Angola e de S. Tomé e Príncipe que estejam colocados nesta última província à data da publicação deste decreto no Boletim Oficial poderão ingressar por meio de transferência, que será requerida ao Ministro do Ultramar, no quadro técnico-aduaneiro privativo da província de Angola, à medida que nele forem ocorrendo vagas na respectiva categoria, desde que a requeiram dentro do prazo de 60 dias após a referida publicação.
 
-###### Art. 3.º O provimento das vagas que ocorrerem no quadro técnico-aduaneiro privativo da província de Angola, enquanto existirem funcionários de idêntico quadro da província de S. Tomé e Príncipe que hajam requerido a sua transferência para a de Angola, nos termos do artigo anterior, efectuar-se-á alternadamente em cada categoria de entre os aprovados em concurso nesta província, quer este haja sido realizado antes ou depois da publicação deste decreto, e os que tenham requerido a referida transferência, sem prejuízo, porém, quanto a estes últimos, dos que, estando aprovados em concursos, sejam promovidos, os quais terão preferência para serem transferidos.
+Art. 3.º O provimento das vagas que ocorrerem no quadro técnico-aduaneiro privativo da província de Angola, enquanto existirem funcionários de idêntico quadro da província de S. Tomé e Príncipe que hajam requerido a sua transferência para a de Angola, nos termos do artigo anterior, efectuar-se-á alternadamente em cada categoria de entre os aprovados em concurso nesta província, quer este haja sido realizado antes ou depois da publicação deste decreto, e os que tenham requerido a referida transferência, sem prejuízo, porém, quanto a estes últimos, dos que, estando aprovados em concursos, sejam promovidos, os quais terão preferência para serem transferidos.
 
-###### Art. 4.º O Ministro do Ultramar poderá autorizar a promoção às categorias de oficial, de verificador e de reverificador, com dispensa da prestação das respectivas provas, aos actuais aspirantes, terceiros e segundos-verificadores, respectivamente, do quadro referido no artigo 2.º que estejam colocados na província de S. Tomé e Príncipe e não tenham requerido a sua transferência para a de Angola, desde que possuam boas informações.
+Art. 4.º O Ministro do Ultramar poderá autorizar a promoção às categorias de oficial, de verificador e de reverificador, com dispensa da prestação das respectivas provas, aos actuais aspirantes, terceiros e segundos-verificadores, respectivamente, do quadro referido no artigo 2.º que estejam colocados na província de S. Tomé e Príncipe e não tenham requerido a sua transferência para a de Angola, desde que possuam boas informações.
 
 § único. Não são aplicáveis aos funcionários que beneficiarem da promoção efectuada nas condições prescritas no corpo do artigo as disposições dos artigos 2.º e 3.º deste decreto, os quais só poderão ser transferidos para o quadro técnico-aduaneiro privativo de outra província ultramarina depois de haverem passado três anos sobre a promoção efectuada nas condições prescritas no corpo do artigo, sem prejuízo da observância de outras disposições legais sobre transferências de pessoal.
 
-###### Art. 5.º Sob a imediata responsabilidade do chefe da Repartição das Alfândegas do Ministério do Ultramar será constituído um fundo permanente das quantias que forem fixadas, por despacho do Ministro do Ultramar, para ocorrerem ao pagamento imediato das despesas com os despachos aduaneiros efectuados na Alfândega de Lisboa das mercadorias que venham consignadas aos diversos serviços e organismos daquele Ministério ou por eles expedidas, quando a sua execução esteja a cargo dos serviços daquela Repartição.
+Art. 5.º Sob a imediata responsabilidade do chefe da Repartição das Alfândegas do Ministério do Ultramar será constituído um fundo permanente das quantias que forem fixadas, por despacho do Ministro do Ultramar, para ocorrerem ao pagamento imediato das despesas com os despachos aduaneiros efectuados na Alfândega de Lisboa das mercadorias que venham consignadas aos diversos serviços e organismos daquele Ministério ou por eles expedidas, quando a sua execução esteja a cargo dos serviços daquela Repartição.
 
-###### Art. 6.º Ficam os governadores autorizados a fixar senhas de presença para os membros dos Conselhos do Serviço Técnico-Aduaneiro e dos Tribunais de Arbitramento de Valores, constituídos conforme o preceituado no diploma referido no artigo 1.º deste decreto.
+Art. 6.º Ficam os governadores autorizados a fixar senhas de presença para os membros dos Conselhos do Serviço Técnico-Aduaneiro e dos Tribunais de Arbitramento de Valores, constituídos conforme o preceituado no diploma referido no artigo 1.º deste decreto.
 
-###### Art. 7.º Dos encargos resultantes da execução dos preceitos do diploma referido no artigo 1.º serão distribuídos pelo ano de 1960 os relativos à criação dos lugares do quadro técnico-aduaneiro comum, abrindo-se os créditos necessários para esse fim, e pelo ano de 1961 os restantes, que poderão também abranger o ano de 1962, se o governador da respectiva província julgar da sua conveniência.
+Art. 7.º Dos encargos resultantes da execução dos preceitos do diploma referido no artigo 1.º serão distribuídos pelo ano de 1960 os relativos à criação dos lugares do quadro técnico-aduaneiro comum, abrindo-se os créditos necessários para esse fim, e pelo ano de 1961 os restantes, que poderão também abranger o ano de 1962, se o governador da respectiva província julgar da sua conveniência.
 
-###### Art. 8.º Ao artigo 153.º do Estatuto do Funcionalismo Ultramarino é aditado o seguinte parágrafo:
+Art. 8.º Ao artigo 153.º do Estatuto do Funcionalismo Ultramarino é aditado o seguinte parágrafo:
 
-###### Art. 153.º ...
+Art. 153.º ...
 
 § 9.º As disposições das alíneas b) e c) do § 1.º deste artigo, assim como as do corpo do artigo 154.º, não são aplicáveis aos funcionários dos diversos quadros das alfândegas em relação à participação em emolumentos pessoais cobrados por serviços extraordinários realizados a requerimento de partes, excepto para os chefes de serviço quanto às daquele segundo artigo, não podendo tal participação ser superior, em cada ano e para os funcionários da mesma categoria, a um terço da soma dos seus vencimentos base e complementar.
 
-###### Art. 9.º Ficam revogados os seguintes diplomas:
+Art. 9.º Ficam revogados os seguintes diplomas:
 
 1.º [Decreto n.º 31105](https://diariodarepublica.pt/dr/detalhe/decreto/31105-1941-443696), de 15 de Janeiro de 1941;
 
@@ -168,7 +280,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150,º da Constituição,
 
 3.º [Decreto n.º 35706](https://diariodarepublica.pt/dr/detalhe/decreto/35706-1946-155022), de 18 de Junho de 1946, com excepção do artigo 1.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Setembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 
@@ -176,253 +288,253 @@ Para ser publicado no Boletins Oficial de todas as províncias ultramarinas. - V
 
 ÍNDICE
 
-# LIVRO I — Disposições preliminares
+## LIVRO I — Disposições preliminares
 
-# LIVRO II — Dos serviços e sua distribuição
+## LIVRO II — Dos serviços e sua distribuição
 
-## Título I - Dos serviços centrais de cada província:
+Título I - Dos serviços centrais de cada província:
 
-### Capítulo I - Das direcções e repartições provinciais.
+Capítulo I - Das direcções e repartições provinciais.
 
-### Capítulo II - Da distribuição dos serviços nas direcções e repartições provinciais.
+Capítulo II - Da distribuição dos serviços nas direcções e repartições provinciais.
 
-### Capítulo III - Das inspecções aos serviços das alfândegas.
+Capítulo III - Das inspecções aos serviços das alfândegas.
 
-### Capítulo IV - Dos conselhos administrativos.
+Capítulo IV - Dos conselhos administrativos.
 
-## Título II - Dos tribunais aduaneiros:
+Título II - Dos tribunais aduaneiros:
 
-### Capítulo I - Dos tribunais fiscais.
+Capítulo I - Dos tribunais fiscais.
 
-### Capítulo II - Dos tribunais técnico-aduaneiros:
+Capítulo II - Dos tribunais técnico-aduaneiros:
 
-#### Secção I - Dos Conselhos do Serviço Técnico-Aduaneiro.
+Secção I - Dos Conselhos do Serviço Técnico-Aduaneiro.
 
-#### Secção II - Dos tribunais de arbitramento de valores.
+Secção II - Dos tribunais de arbitramento de valores.
 
-## Título III - Das alfândegas:
+Título III - Das alfândegas:
 
-### Capítulo I - Disposições gerais.
+Capítulo I - Disposições gerais.
 
-### Capítulo II - Da classificação e colocação das circunscrições aduaneiras, suas delegações, postos de despacho e postos fiscais.
+Capítulo II - Da classificação e colocação das circunscrições aduaneiras, suas delegações, postos de despacho e postos fiscais.
 
-### Capítulo III - Das atribuições das várias estâncias aduaneiras e fiscais:
+Capítulo III - Das atribuições das várias estâncias aduaneiras e fiscais:
 
-#### Secção I - Das sedes das alfândegas.
+Secção I - Das sedes das alfândegas.
 
-#### Secção II - Das restantes estâncias aduaneiras.
+Secção II - Das restantes estâncias aduaneiras.
 
-#### Secção III - Das secções.
+Secção III - Das secções.
 
-## Título IV - Do pessoal das alfândegas do ultramar:
+Título IV - Do pessoal das alfândegas do ultramar:
 
-### Capítulo I - Dos diversos quadros aduaneiros.
+Capítulo I - Dos diversos quadros aduaneiros.
 
-### Capítulo II - Do pessoal do quadro técnico:
+Capítulo II - Do pessoal do quadro técnico:
 
-#### Secção I - Da distribuição pelas suas diversas categorias.
+Secção I - Da distribuição pelas suas diversas categorias.
 
-#### Secção II - Das funções do pessoal do quadro técnico.
+Secção II - Das funções do pessoal do quadro técnico.
 
-#### Secção III - Do provimento das diversas categorias do quadro técnico.
+Secção III - Do provimento das diversas categorias do quadro técnico.
 
-### Capítulo III - Do pessoal do quadro auxiliar.
+Capítulo III - Do pessoal do quadro auxiliar.
 
-### Capítulo IV - Do pessoal do quadro dos serviços de tesouraria.
+Capítulo IV - Do pessoal do quadro dos serviços de tesouraria.
 
-### Capítulo V - Do pessoal dos serviços de laboratório.
+Capítulo V - Do pessoal dos serviços de laboratório.
 
-### Capítulo VI - Do quadro do tráfego.
+Capítulo VI - Do quadro do tráfego.
 
-### Capítulo VII - Dos serviços acessórios das alfândegas.
+Capítulo VII - Dos serviços acessórios das alfândegas.
 
-### Capítulo VIII - Do pessoal da fiscalização aduaneira:
+Capítulo VIII - Do pessoal da fiscalização aduaneira:
 
-#### Secção I - Disposições gerais.
+Secção I - Disposições gerais.
 
-#### Secção II - Do pessoal da fiscalização marítima e fluvial.
+Secção II - Do pessoal da fiscalização marítima e fluvial.
 
-#### Secção III - Da Guarda Fiscal.
+Secção III - Da Guarda Fiscal.
 
-### Capítulo IX - Dos concursos:
+Capítulo IX - Dos concursos:
 
-#### Secção I - Disposições gerais.
+Secção I - Disposições gerais.
 
-#### Secção II - Das nomeações e posses.
+Secção II - Das nomeações e posses.
 
-#### Secção III - Dos júris dos concursos.
+Secção III - Dos júris dos concursos.
 
-### Capítulo X - Das situações, disciplina, tempo e qualidade de serviço, prerrogativas, incompatibilidades, dos actos, direitos e deveres dos funcionários dos diversos quadros das alfândegas:
+Capítulo X - Das situações, disciplina, tempo e qualidade de serviço, prerrogativas, incompatibilidades, dos actos, direitos e deveres dos funcionários dos diversos quadros das alfândegas:
 
-#### Secção I - Das situações, disciplina, tempo e qualidade de serviço.
+Secção I - Das situações, disciplina, tempo e qualidade de serviço.
 
-#### Secção II - Das prerrogativas, incompatibilidades, dos actos, direitos e deveres.
+Secção II - Das prerrogativas, incompatibilidades, dos actos, direitos e deveres.
 
-### Capítulo XI - Dos vencimentos e outros abonos e da aposentação dos funcionáros dos diversos quadros das alfândegas:
+Capítulo XI - Dos vencimentos e outros abonos e da aposentação dos funcionáros dos diversos quadros das alfândegas:
 
-#### Secção I - Dos vencimentos e outros abonos.
+Secção I - Dos vencimentos e outros abonos.
 
-#### Secção II - Da aposentação.
+Secção II - Da aposentação.
 
-### Capítulo XII - Das atribuições e outros deveres do pessoal dos diversos quadros das alfândegas do ultramar:
+Capítulo XII - Das atribuições e outros deveres do pessoal dos diversos quadros das alfândegas do ultramar:
 
-#### Secção I - Do pessoal dos serviços aduaneiros do Ministério do Ultramar.
+Secção I - Do pessoal dos serviços aduaneiros do Ministério do Ultramar.
 
-#### Secção II - Dos inspectores e dos funcionários incumbidos do serviço de inspecções.
+Secção II - Dos inspectores e dos funcionários incumbidos do serviço de inspecções.
 
-#### Secção III - Do pessoal das Direcções Provinciais dos Serviços das Alfândegas.
+Secção III - Do pessoal das Direcções Provinciais dos Serviços das Alfândegas.
 
-##### Subsecção I - Dos directores provinciais.
+Subsecção I - Dos directores provinciais.
 
-##### Subsecção II - Do presidente e vogais dos Conselhos do Serviço Técnico-Aduaneiro.
+Subsecção II - Do presidente e vogais dos Conselhos do Serviço Técnico-Aduaneiro.
 
-##### Subsecção III - Dos chefes de repartição.
+Subsecção III - Dos chefes de repartição.
 
-##### Subsecção IV - Dos chefes de secção.
+Subsecção IV - Dos chefes de secção.
 
-##### Subsecção V - Do restante pessoal das direcções provinciais.
+Subsecção V - Do restante pessoal das direcções provinciais.
 
-#### Secção IV - Do pessoal das Repartições Provinciais dos Serviços das Alfândegas e circunscrições aduaneiras:
+Secção IV - Do pessoal das Repartições Provinciais dos Serviços das Alfândegas e circunscrições aduaneiras:
 
-##### Subsecção I - Dos chefes das repartições provinciais.
+Subsecção I - Dos chefes das repartições provinciais.
 
-##### Subsecção II - Dos directores e subdirectores das circunscrições aduaneiras.
+Subsecção II - Dos directores e subdirectores das circunscrições aduaneiras.
 
-##### Subsecção III - Dos chefes de secção.
+Subsecção III - Dos chefes de secção.
 
-##### Subsecção IV - Dos chefes de delegação e postos de despacho.
+Subsecção IV - Dos chefes de delegação e postos de despacho.
 
-##### Subsecção V - Disposições gerais relativas aos funcionários do quadro técnico no desempenho de diversas funções.
+Subsecção V - Disposições gerais relativas aos funcionários do quadro técnico no desempenho de diversas funções.
 
-##### Subsecção VI - Disposições relativas aos funcionários dos restantes quadros aduaneiros.
+Subsecção VI - Disposições relativas aos funcionários dos restantes quadros aduaneiros.
 
-##### Subsecção VII - Do pessoal do tráfego aduaneiro.
+Subsecção VII - Do pessoal do tráfego aduaneiro.
 
-#### Secção V - Do pessoal da fiscalização aduaneira:
+Secção V - Do pessoal da fiscalização aduaneira:
 
-##### Subsecção I - Da fiscalização marítima e fluvial.
+Subsecção I - Da fiscalização marítima e fluvial.
 
-## Título V - Das pessoas competentes para efectuarem despachos aduaneiros:
+Título V - Das pessoas competentes para efectuarem despachos aduaneiros:
 
-### Capítulo I - Disposições gerais.
+Capítulo I - Disposições gerais.
 
-### Capítulo II - Dos despachantes oficiais.
+Capítulo II - Dos despachantes oficiais.
 
-### Capítulo III - Dos ajudantes de despachante e dos caixeiros despachantes.
+Capítulo III - Dos ajudantes de despachante e dos caixeiros despachantes.
 
-## Título VI - Funcionamento e normas nos serviços nas alfândegas:
+Título VI - Funcionamento e normas nos serviços nas alfândegas:
 
-### Capítulo I - Das inspecções:
+Capítulo I - Das inspecções:
 
-#### Secção I - Da conferência dos valores existentes nos cofres das estâncias aduaneiras.
+Secção I - Da conferência dos valores existentes nos cofres das estâncias aduaneiras.
 
-#### Secção II - Do exame à escrituração das tesourarias e serviços de contabilidade aduaneiros.
+Secção II - Do exame à escrituração das tesourarias e serviços de contabilidade aduaneiros.
 
-#### Secção III - Das sindicâncias, inquéritos e processos disciplinares.
+Secção III - Das sindicâncias, inquéritos e processos disciplinares.
 
-#### Secção IV - Dos relatórios das inspecções.
+Secção IV - Dos relatórios das inspecções.
 
-#### Secção V - Disposições especiais.
+Secção V - Disposições especiais.
 
-### Capítulo II - Das direcções provinciais:
+Capítulo II - Das direcções provinciais:
 
-#### Secção I - Disposições comuns a todos os serviços:
+Secção I - Disposições comuns a todos os serviços:
 
-##### Subsecção I - Do tempo de serviço.
+Subsecção I - Do tempo de serviço.
 
-##### Subsecção II - Da correspondência e do expediente.
+Subsecção II - Da correspondência e do expediente.
 
-#### Secção II - Dos serviços nas repartições das direcções provinciais dos serviços das alfândegas:
+Secção II - Dos serviços nas repartições das direcções provinciais dos serviços das alfândegas:
 
-##### Subsecção I - Dos serviços da 1.ª Repartição.
+Subsecção I - Dos serviços da 1.ª Repartição.
 
-##### Subsecção II - Dos serviços da 2.ª Repartição:
+Subsecção II - Dos serviços da 2.ª Repartição:
 
-##### Divisão I - Da contabilidade.
+Divisão I - Da contabilidade.
 
-##### Divisão II - Dos registos do pessoal dos diversos quadros aduaneiros e das pessoas habilitadas a efectuar despachos aduaneiros.
+Divisão II - Dos registos do pessoal dos diversos quadros aduaneiros e das pessoas habilitadas a efectuar despachos aduaneiros.
 
-##### Divisão III - Do expediente geral.
+Divisão III - Do expediente geral.
 
-##### Divisão IV - Das ordens de serviço e do Boletim das Alfândegas.
+Divisão IV - Das ordens de serviço e do Boletim das Alfândegas.
 
-### Capítulo III - Dos serviços anexos às repartições das direcções provinciais dos serviços das alfândegas:
+Capítulo III - Dos serviços anexos às repartições das direcções provinciais dos serviços das alfândegas:
 
-#### Secção I - Dos laboratórios e dos museus de amostras.
+Secção I - Dos laboratórios e dos museus de amostras.
 
-#### Secção II - Dos conselhos administrativos:
+Secção II - Dos conselhos administrativos:
 
-##### Subsecção I - Disposições gerais.
+Subsecção I - Disposições gerais.
 
-##### Subsecção II - Dos impressos em uso nas alfândegas.
+Subsecção II - Dos impressos em uso nas alfândegas.
 
-##### Subsecção III - Dos depósitos de material, de impressos e de artigos de expediente utilizados nas alfândegas.
+Subsecção III - Dos depósitos de material, de impressos e de artigos de expediente utilizados nas alfândegas.
 
-#### Secção III - Do arquivo geral.
+Secção III - Do arquivo geral.
 
-### Capítulo IV - Do Contencioso Técnico-Aduaneiro:
+Capítulo IV - Do Contencioso Técnico-Aduaneiro:
 
-#### Secção I - Disposições gerais.
+Secção I - Disposições gerais.
 
-#### Secção II - Das contestações, divergências ou omissões suscitadas nos despachos de mercadorias.
+Secção II - Das contestações, divergências ou omissões suscitadas nos despachos de mercadorias.
 
-#### Secção III - Das contestações de valor.
+Secção III - Das contestações de valor.
 
-#### Secção IV - Das consultas prévias sobre classificação pautal de mercadorias.
+Secção IV - Das consultas prévias sobre classificação pautal de mercadorias.
 
-### Capítulo V - Dos serviços do cartório dos processos fiscais e administrativos:
+Capítulo V - Dos serviços do cartório dos processos fiscais e administrativos:
 
-#### Secção I - Disposições preliminares.
+Secção I - Disposições preliminares.
 
-#### Secção II - Da venda de mercadorias em hasta pública e das reentradas.
+Secção II - Da venda de mercadorias em hasta pública e das reentradas.
 
-### Capítulo VI - Da entrega das receitas das tesourarias das alfândegas nos bancos emissores ou recebedorias de Fazenda.
+Capítulo VI - Da entrega das receitas das tesourarias das alfândegas nos bancos emissores ou recebedorias de Fazenda.
 
-### Capítulo VII - Dos serviços da fiscalização aduaneira:
+Capítulo VII - Dos serviços da fiscalização aduaneira:
 
-#### Secção I - Disposições prévias.
+Secção I - Disposições prévias.
 
-#### Secção II - Da fiscalização no interior dos edifícios aduaneiros.
+Secção II - Da fiscalização no interior dos edifícios aduaneiros.
 
-#### Secção III - Da fiscalização no exterior dos edifícios aduaneiros:
+Secção III - Da fiscalização no exterior dos edifícios aduaneiros:
 
-##### Subsecção I - Da fiscalização terrestre.
+Subsecção I - Da fiscalização terrestre.
 
-##### Subsecção II - Da fiscalização marítima e fluvial.
+Subsecção II - Da fiscalização marítima e fluvial.
 
-##### Subsecção III - Da fiscalização nos caminhos de ferro.
+Subsecção III - Da fiscalização nos caminhos de ferro.
 
-##### Subsecção IV - Da fiscalização aérea.
+Subsecção IV - Da fiscalização aérea.
 
-### Capítulo VIII - Da armazenagem de mercadorias:
+Capítulo VIII - Da armazenagem de mercadorias:
 
-#### Secção I - Disposições comuns.
+Secção I - Disposições comuns.
 
-#### Secção II - Dos armazéns reais ou aduaneiros pròpriamente ditos.
+Secção II - Dos armazéns reais ou aduaneiros pròpriamente ditos.
 
-#### Secção III - Dos armazéns alfandegados e afiançados.
+Secção III - Dos armazéns alfandegados e afiançados.
 
-#### Secção IV - Dos armazéns de trânsito e de baldeação.
+Secção IV - Dos armazéns de trânsito e de baldeação.
 
-#### Secção V - Dos armazéns especiais.
+Secção V - Dos armazéns especiais.
 
-#### Secção VI - Dos armazéns gerais francos e das zonas francas.
+Secção VI - Dos armazéns gerais francos e das zonas francas.
 
-### Capítulo IX - Do despacho de mercadorias:
+Capítulo IX - Do despacho de mercadorias:
 
-#### Secção I - Disposições comuns.
+Secção I - Disposições comuns.
 
-#### Secção II - Do despacho de importação.
+Secção II - Do despacho de importação.
 
-#### Secção III - Das restantes modalidades de despacho.
+Secção III - Das restantes modalidades de despacho.
 
 ESTATUTO ORGÂNICO DAS ALFÂNDEGAS DO ULTRAMAR
 
-# LIVRO I — Disposições preliminares
+## LIVRO I — Disposições preliminares
 
-###### Artigo 1.º A administração aduaneira de todas as províncias ultramarinas é exercida superiormente pelo Ministro do Ultramar, por intermédio dos serviços aduaneiros do Ministério do Ultramar, sendo da sua competência a criação de quaisquer taxas ou impostos cuja cobrança esteja cometida às alfândegas das diversas províncias ultramarinas.
+Artigo 1.º A administração aduaneira de todas as províncias ultramarinas é exercida superiormente pelo Ministro do Ultramar, por intermédio dos serviços aduaneiros do Ministério do Ultramar, sendo da sua competência a criação de quaisquer taxas ou impostos cuja cobrança esteja cometida às alfândegas das diversas províncias ultramarinas.
 
-###### Art. 2.º A administração aduaneira de cada província ultramarina é exercida superiormente pelo governador, por intermédio da Direcção ou Repartição Provincial dos Serviços das Alfândegas, conforme as províncias.
+Art. 2.º A administração aduaneira de cada província ultramarina é exercida superiormente pelo governador, por intermédio da Direcção ou Repartição Provincial dos Serviços das Alfândegas, conforme as províncias.
 
 Compete-lhe:
 
@@ -438,33 +550,33 @@ Compete-lhe:
 
 6.º Adoptar as providências que julgue necessárias para legítima defesa dos interesses do comércio, da indústria, da agricultura e da Fazenda Nacional, de harmonia com as atribuições e competência que lhe conferem as leis e regulamentos, e ainda mesmo as que excederem essa competência, quando circunstâncias urgentes e inadiáveis o exijam, dando, porém, conta ao Ministro do Ultramar das medidas que tiver adoptado.
 
-###### Art. 3.º As sedes das alfândegas e as diversas estâncias aduaneiras estão imediatamente subordinadas ao governador e receberão dele as devidas ordens e instruções, por intermédio das Direcções ou Repartições Provinciais dos Serviços das Alfândegas, conforme as províncias.
+Art. 3.º As sedes das alfândegas e as diversas estâncias aduaneiras estão imediatamente subordinadas ao governador e receberão dele as devidas ordens e instruções, por intermédio das Direcções ou Repartições Provinciais dos Serviços das Alfândegas, conforme as províncias.
 
 § único. Os governadores de distrito nas províncias de governo-geral poderão determinar às estâncias aduaneiras situadas na área da sua jurisdição o cumprimento e execução de quaisquer ordens ou instruções especiais de reconhecida urgência, dando, porém, imediato conhecimento do facto, com a devida justificação, ao governador-geral.
 
-# LIVRO II — Dos serviços e sua distribuição
+## LIVRO II — Dos serviços e sua distribuição
 
 ## TÍTULO I — Dos serviços centrais de cada província
 
 ### CAPÍTULO I — Das direcções e repartições provinciais
 
-###### Art. 4.º Os serviços das alfândegas não são serviços distritais. Estão cometidos superiormente, nas províncias de governo-geral, a uma direcção provincial e distribuem-se pelas suas repartições e sedes das alfândegas e os destas pelas suas delegações, postos de despacho e postos fiscais.
+Art. 4.º Os serviços das alfândegas não são serviços distritais. Estão cometidos superiormente, nas províncias de governo-geral, a uma direcção provincial e distribuem-se pelas suas repartições e sedes das alfândegas e os destas pelas suas delegações, postos de despacho e postos fiscais.
 
 § 1.º Nas restantes províncias, os serviços das alfândegas ficam cometidos a uma repartição provincial e distribuem-se também pelas sedes das alfândegas, suas delegações, postos de despacho e postos fiscais.
 
 § 2.º Aos postos administrativos das fronteiras, tanto terrestres como marítimas, assim como aos postos fiscais nelas existentes, pode ser conferida pelo governador, sob proposta ou informação do director ou chefe provincial dos serviços das alfândegas, competência para despachar determinadas mercadorias de fácil classificação pautal, de harmonia com os interesses do comércio e com as conveniências fiscais.
 
-###### Art. 5.º As delegações são de 1.ª e 2.ª classes; os postos de despacho podem ter atribuições especiais, tomando, por essa circunstância, a designação de «postos especiais de despacho».
+Art. 5.º As delegações são de 1.ª e 2.ª classes; os postos de despacho podem ter atribuições especiais, tomando, por essa circunstância, a designação de «postos especiais de despacho».
 
 § único. Consideram-se estâncias aduaneiras extra-urbanas aquelas que estão fora da localidade onde funciona a sede da circunscrição aduaneira.
 
 ### CAPÍTULO II — Da distribuição dos serviços nas direcções e repartições provinciais
 
-###### Art. 6.º Os serviços cometidos às Direcções Provinciais dos Serviços das Alfândegas distribuem-se, nas províncias de Angola e de Moçambique, por duas repartições e por uma secretaria.
+Art. 6.º Os serviços cometidos às Direcções Provinciais dos Serviços das Alfândegas distribuem-se, nas províncias de Angola e de Moçambique, por duas repartições e por uma secretaria.
 
 § único. No Estado da Índia, os serviços das alfândegas cometidos à respectiva direcção provincial distribuem-se por uma repartição e por uma secretaria.
 
-###### Art. 7.º Incumbe à 1.ª Repartição da Direcção Provincial dos Serviços das Alfândegas a superintendência sobre os serviços técnico e fiscal. Esta Repartição divide-se em duas secções.
+Art. 7.º Incumbe à 1.ª Repartição da Direcção Provincial dos Serviços das Alfândegas a superintendência sobre os serviços técnico e fiscal. Esta Repartição divide-se em duas secções.
 
 § 1.º À 1.ª secção compete:
 
@@ -504,7 +616,7 @@ Compete-lhe:
 
 8.º Quaisquer outros serviços não especificados de natureza fiscal ou que constem de legislação especial.
 
-###### Art. 8.º O serviço administrativo está a cargo da 2.ª Repartição, que se divide também em duas secções.
+Art. 8.º O serviço administrativo está a cargo da 2.ª Repartição, que se divide também em duas secções.
 
 § 1.º À 1.ª secção compete:
 
@@ -556,11 +668,11 @@ Compete-lhe:
 
 § 4.º Serão enviados para a Inspecção Superior das Alfândegas as notas biográficas e outros documentos respeitantes aos candidatos dos quadros aduaneiros que nela tenham de prestar provas de concurso.
 
-###### Art. 9.º Haverá na 2.ª Repartição os livros e verbetes necessários para o registo biográfico de todos os empregados de nomeação e contratados, dos despachantes e seus ajudantes e dos caixeiros despachantes.
+Art. 9.º Haverá na 2.ª Repartição os livros e verbetes necessários para o registo biográfico de todos os empregados de nomeação e contratados, dos despachantes e seus ajudantes e dos caixeiros despachantes.
 
 § único. Nos livros e verbetes referidos no corpo do artigo registar-se-ão as nomeações, promoções, comissões, louvores, faltas ao serviço, culpas, castigos e informações, assim como as habilitações literárias ou científicas.
 
-###### Art. 10.º As ordens de serviço e circulares serão, em regra, publicadas diàriamente e dactilografadas e conterão as leis, decretos, diplomas legislativos, portarias e avisos de que constem disposições de interesse para os serviços aduaneiros; os acórdãos do Conselho Superior Técnico-Aduaneiro e do Conselho do Serviço Técnico-Aduaneiro da província; os despachos e determinações do Ministro do Ultramar e do governador; as nomeações, promoções, transferências, punições, louvores e licenças do pessoal aduaneiro e despachantes e as determinações ou providências de execução permanente.
+Art. 10.º As ordens de serviço e circulares serão, em regra, publicadas diàriamente e dactilografadas e conterão as leis, decretos, diplomas legislativos, portarias e avisos de que constem disposições de interesse para os serviços aduaneiros; os acórdãos do Conselho Superior Técnico-Aduaneiro e do Conselho do Serviço Técnico-Aduaneiro da província; os despachos e determinações do Ministro do Ultramar e do governador; as nomeações, promoções, transferências, punições, louvores e licenças do pessoal aduaneiro e despachantes e as determinações ou providências de execução permanente.
 
 § 1.º Do boletim, que será impresso, deverão constar, além das ordens de serviço da Direcção ou Repartição Provincial dos Serviços das Alfândegas, as das direcções das alfândegas que contenham determinações ou providências de execução permanente tomadas pelos respectivos directores e os relatórios, dissertações e quaisquer outros trabalhos escritos apresentados pelos funcionários que contenham matéria que mereça divulgação, cuja publicação haja sido autorizada pelo Ministro ou pelo governador.
 
@@ -568,17 +680,17 @@ Compete-lhe:
 
 § 3.º Compete à Direcção ou Repartição Provincial dos Serviços das Alfândegas remeter três exemplares do boletim e três dos das ordens de serviço e das circulares que contenham quaisquer disposições de carácter fiscal, técnico ou administrativo aos serviços aduaneiros do Ministério do Ultramar, para fazerem parte do seu arquivo, e mais três exemplares do boletim à Direcção-Geral das Alfândegas, a fim de fazerem parte do seu arquivo e de cada uma das bibliotecas das Alfândegas de Lisboa e Porto.
 
-###### Art. 11.º A cada uma das repartições da Direcção dos Serviços das Alfândegas incumbe, conforme a natureza dos assuntos, a elaboração e redacção dos projectos de diplomas, portarias, regulamentos, relatórios, propostas, pareceres, ordens de serviço, informações, instruções e quaisquer outros documentos que tenham de ser expedidos por intermédio da mesma Direcção.
+Art. 11.º A cada uma das repartições da Direcção dos Serviços das Alfândegas incumbe, conforme a natureza dos assuntos, a elaboração e redacção dos projectos de diplomas, portarias, regulamentos, relatórios, propostas, pareceres, ordens de serviço, informações, instruções e quaisquer outros documentos que tenham de ser expedidos por intermédio da mesma Direcção.
 
-###### Art. 12.º Compete ainda a cada uma das mencionadas repartições, além da execução dos serviços já especificados, os trabalhos necessários à execução dos assuntos versados nos relatórios e propostas apresentados pelos inspectores e pelos funcionários incumbidos da realização de inspecções, depois de aprovados superiormente, e a execução de qualquer estudo que, por determinação do director dos serviços, ou por efeito de disposições constantes de leis ou regulamentos em vigor, lhes estejam cometidos.
+Art. 12.º Compete ainda a cada uma das mencionadas repartições, além da execução dos serviços já especificados, os trabalhos necessários à execução dos assuntos versados nos relatórios e propostas apresentados pelos inspectores e pelos funcionários incumbidos da realização de inspecções, depois de aprovados superiormente, e a execução de qualquer estudo que, por determinação do director dos serviços, ou por efeito de disposições constantes de leis ou regulamentos em vigor, lhes estejam cometidos.
 
-###### Art. 13.º No Estado da Índia, as atribuições que, nos termos dos artigos 7.º e 8.º estão cometidas à 1.ª e 2.ª Repartições da Direcção dos Serviços nas províncias de Angola e de Moçambique ficam a cargo, respectivamente, da 1.ª e 2.ª secções da Repartição da Direcção Provincial dos Serviços das Alfândegas, os quais se distribuem por duas subsecções, que correspondem, respectivamente, às secções das Repartições das Direcções dos Serviços das Alfândegas das mencionadas províncias.
+Art. 13.º No Estado da Índia, as atribuições que, nos termos dos artigos 7.º e 8.º estão cometidas à 1.ª e 2.ª Repartições da Direcção dos Serviços nas províncias de Angola e de Moçambique ficam a cargo, respectivamente, da 1.ª e 2.ª secções da Repartição da Direcção Provincial dos Serviços das Alfândegas, os quais se distribuem por duas subsecções, que correspondem, respectivamente, às secções das Repartições das Direcções dos Serviços das Alfândegas das mencionadas províncias.
 
-###### Art. 14.º Nas províncias de Cabo Verde, Guiné, S. Tomé e Príncipe e Timor, os serviços da Repartição Provincial são constituídos pelos da alfândega com sede na capital da província, cujo director acumulará essas funções com as de chefe daquela Repartição.
+Art. 14.º Nas províncias de Cabo Verde, Guiné, S. Tomé e Príncipe e Timor, os serviços da Repartição Provincial são constituídos pelos da alfândega com sede na capital da província, cujo director acumulará essas funções com as de chefe daquela Repartição.
 
 § único. A correspondência endereçada às diversas estâncias aduaneiras da província será expedida em nome da sede da alfândega; a que for dirigida a entidades estranhas às alfândegas será expedida em nome da repartição provincial, quando não trate de assuntos exclusivos da sede da alfândega.
 
-###### Art. 15.º À secretaria compete:
+Art. 15.º À secretaria compete:
 
 1.º O expediente dos processos e assuntos a tratar pelo Conselho do Serviço Técnico-Aduaneiro e a organização, conservação e inventário do museu de amostras;
 
@@ -594,11 +706,11 @@ Compete-lhe:
 
 § 3.º Os serviços da secretaria estão a cargo de um funcionário de categoria não superior à de verificador.
 
-###### Art. 16.º Nas províncias mencionadas no artigo 14.º funcionará, junto da Repartição Provincial dos Serviços das Alfândegas, uma secretaria, que terá a seu cargo, além das atribuições especificadas nos n.os 1.º a 4.º do artigo anterior, na parte aplicável, as que estão mencionadas nos artigos 108.º a 110.º deste estatuto.
+Art. 16.º Nas províncias mencionadas no artigo 14.º funcionará, junto da Repartição Provincial dos Serviços das Alfândegas, uma secretaria, que terá a seu cargo, além das atribuições especificadas nos n.os 1.º a 4.º do artigo anterior, na parte aplicável, as que estão mencionadas nos artigos 108.º a 110.º deste estatuto.
 
-###### Art. 17.º A Inspecção Superior das Alfândegas indicará, sempre que o julgue conveniente, os livros que seja necessário adquirir para a secretaria do Conselho do Serviço Técnico-Aduaneiro de cada província, independentemente daqueles que a direcção dos serviços entenda dever adquirir, com autorização do governador.
+Art. 17.º A Inspecção Superior das Alfândegas indicará, sempre que o julgue conveniente, os livros que seja necessário adquirir para a secretaria do Conselho do Serviço Técnico-Aduaneiro de cada província, independentemente daqueles que a direcção dos serviços entenda dever adquirir, com autorização do governador.
 
-###### Art. 18.º Junto da Direcção ou Repartição Provincial dos Serviços das Alfândegas funcionará um laboratório onde serão efectuadas as análises que se tornarem necessárias para instrução dos processos que subirem ao Conselho do Serviço Técnico-Aduaneiro, assim como as que forem requisitadas pelas alfândegas ou por outras entidades oficiais, e ainda as requeridas por particulares, e um museu de amostras.
+Art. 18.º Junto da Direcção ou Repartição Provincial dos Serviços das Alfândegas funcionará um laboratório onde serão efectuadas as análises que se tornarem necessárias para instrução dos processos que subirem ao Conselho do Serviço Técnico-Aduaneiro, assim como as que forem requisitadas pelas alfândegas ou por outras entidades oficiais, e ainda as requeridas por particulares, e um museu de amostras.
 
 § 1.º As análises requeridas por particulares que não sejam partes em processos de contestação serão pagas.
 
@@ -610,17 +722,17 @@ Compete-lhe:
 
 § 5.º Quando as partes indicarem a composição química dos produtos, o resultado das análises deverá ser publicado no prazo de um mês, depois da entrada da amostra no laboratório.
 
-###### Art. 19.º Enquanto não estiver instalado o laboratório referido no artigo anterior, serão as análises nele referidas efectuadas no laboratório oficial da província que for designado pelo governador.
+Art. 19.º Enquanto não estiver instalado o laboratório referido no artigo anterior, serão as análises nele referidas efectuadas no laboratório oficial da província que for designado pelo governador.
 
-###### Art. 20.º O produto das análises realizadas nos laboratórios oficiais das províncias ultramarinas constitui receita da Fazenda Nacional.
+Art. 20.º O produto das análises realizadas nos laboratórios oficiais das províncias ultramarinas constitui receita da Fazenda Nacional.
 
-###### Art. 21.º No museu serão coleccionadas as amostras ou modelos das mercadorias sobre que tenha havido contestação, divergência, consulta prévia ou julgamento de omissão e as fotografias, desenhos ou memórias descritivas, nos casos em que seja impossível ou inconveniente tirar amostras ou apresentar modelos.
+Art. 21.º No museu serão coleccionadas as amostras ou modelos das mercadorias sobre que tenha havido contestação, divergência, consulta prévia ou julgamento de omissão e as fotografias, desenhos ou memórias descritivas, nos casos em que seja impossível ou inconveniente tirar amostras ou apresentar modelos.
 
 § 1.º Das amostras, fotografias, desenhos e memórias descritivas a que se refere este artigo serão remetidos à Inspecção Superior das Alfândegas os exemplares necessários para constituírem os mostruários do respectivo museu.
 
 § 2.º Será facultado aos importadores e exportadores o exame das amostras, modelos, fotografias, desenhos e memórias descritivas existentes nos museus aduaneiros das províncias ultramarinas.
 
-###### Art. 22.º A Inspecção Superior das Alfândegas providenciará para que se distribuam pelos museus das Direcções ou Repartições Provinciais dos Serviços das Alfândegas das diversas províncias as amostras, modelos, desenhos, fotografias ou memórias descritivas referentes às mercadorias de todos os processos técnicos resolvidos ou apreciados pelo Conselho Superior Técnico-Aduaneiro, a fim de figurarem nos respectivos museus.
+Art. 22.º A Inspecção Superior das Alfândegas providenciará para que se distribuam pelos museus das Direcções ou Repartições Provinciais dos Serviços das Alfândegas das diversas províncias as amostras, modelos, desenhos, fotografias ou memórias descritivas referentes às mercadorias de todos os processos técnicos resolvidos ou apreciados pelo Conselho Superior Técnico-Aduaneiro, a fim de figurarem nos respectivos museus.
 
 § 1.º As amostras e modelos de grande volume, peso ou valor não serão, em regra, remetidos ao Ministério do Ultramar nem às outras províncias, devendo ser-lhes enviados, em seu lugar, os desenhos, fotografias ou memórias descritivas que reproduzam, com a maior exactidão, as mercadorias referidas nos competentes processos.
 
@@ -628,13 +740,13 @@ Compete-lhe:
 
 ### CAPÍTULO III — Das inspecções aos serviços das alfândegas
 
-###### Art. 23.º A fim de se uniformizarem os serviços, quando as circunstâncias locais não determinarem diversidade de procedimento fiscal, averiguar como se cumprem as leis e regulamentos, investigar acerca de quaisquer ocorrências extraordinárias que se dêem no expediente das alfândegas ou nas relações entre estas e os particulares e observar a forma como decorrem os serviços de despacho de mercadorias, sem, no entanto, terem neles qualquer intervenção, haverá inspecções ordinárias e extraordinárias.
+Art. 23.º A fim de se uniformizarem os serviços, quando as circunstâncias locais não determinarem diversidade de procedimento fiscal, averiguar como se cumprem as leis e regulamentos, investigar acerca de quaisquer ocorrências extraordinárias que se dêem no expediente das alfândegas ou nas relações entre estas e os particulares e observar a forma como decorrem os serviços de despacho de mercadorias, sem, no entanto, terem neles qualquer intervenção, haverá inspecções ordinárias e extraordinárias.
 
 § 1.º Compete à Inspecção Superior das Alfândegas do Ultramar a fiscalização sobre os serviços da Repartição de Economia da província de Macau, na parte respeitante à emissão de certificados de origem das mercadorias produzidas na província, exigidos na legislação pautal para prova de origens das referidas mercadorias.
 
 § 2.º Observar-se-ão, na parte aplicável, além das disposições deste estatuto sobre matéria de inspecções, inquéritos, sindicâncias e processos disciplinares, as disposições do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 24.º As inspecções ordinárias serão realizadas, por determinação do Ministro do Ultramar, pelo inspector superior das alfândegas e pelos inspectores dos serviços aduaneiros do Ministério do Ultramar, ou do governador-geral, nos casos de inspecções a realizar na respectiva província pelos inspectores colocados nas províncias de Angola e de Moçambique.
+Art. 24.º As inspecções ordinárias serão realizadas, por determinação do Ministro do Ultramar, pelo inspector superior das alfândegas e pelos inspectores dos serviços aduaneiros do Ministério do Ultramar, ou do governador-geral, nos casos de inspecções a realizar na respectiva província pelos inspectores colocados nas províncias de Angola e de Moçambique.
 
 § 1.º As inspecções às Direcções Provinciais dos Serviços das Alfândegas das províncias de Angola e de Moçambique serão realizadas, em regra, pelo inspector superior das Alfândegas. Poderão, no entanto, ser também incumbidos delas, por determinação do Ministro do Ultramar, os inspectores dos serviços aduaneiros do Ministério do Ultramar, quando não seja possível ao inspector superior efectuá-las.
 
@@ -642,31 +754,31 @@ Compete-lhe:
 
 § 3.º Ao inspector colocado na província de Angola, ou ao seu adjunto, fica ainda competindo a realização em cada ano, por um período não superior a dois meses, de uma inspecção às alfândegas da província de S. Tomé e Príncipe, a qual será efectuada durante a época do ano que for acordada entre os respectivos governadores.
 
-###### Art. 25.º As inspecções extraordinárias serão realizadas por determinação do Ministro do Ultramar ou dos governadores, conforme os casos, e delas serão incumbidos o inspector superior ou os inspectores mencionados no corpo do artigo anterior ou seus adjuntos ou ainda outros funcionários do quadro técnico-aduaneiro da província de categoria superior à do chefe da estância aduaneira a inspeccionar.
+Art. 25.º As inspecções extraordinárias serão realizadas por determinação do Ministro do Ultramar ou dos governadores, conforme os casos, e delas serão incumbidos o inspector superior ou os inspectores mencionados no corpo do artigo anterior ou seus adjuntos ou ainda outros funcionários do quadro técnico-aduaneiro da província de categoria superior à do chefe da estância aduaneira a inspeccionar.
 
 § 1.º Podem os directores das alfândegas, em circunstâncias excepcionais de reconhecida urgência, mandar proceder a inspecções extraordinárias às estâncias aduaneiras urbanas, as quais serão efectuadas por funcionário de categoria superior à do chefe da estância aduaneira que tenha de ser inspeccionada. Neste caso, devem aqueles directores comunicar imediatamente à direcção ou à repartição provincial dos serviços das alfândegas a providência tomada, acompanhada de exposição circunstanciada dos factos que a determinaram.
 
 § 2.º Os directores ou chefes provinciais dos serviços das alfândegas poderão também realizar qualquer visita ou inspecção ordinária às estâncias aduaneiras da sua jurisdição sempre que o julguem conveniente e estejam devidamente autorizados pelo governador, ou quando por ele lhes seja determinado.
 
-###### Art. 26.º As inspecções referidas nos artigos anteriores serão efectuadas, sem embargo das que venham a ser realizadas pelos inspectores superiores e pelos inspectores dos serviços de Fazenda e contabilidade, assim como pelos funcionários dos mesmos serviços, incumbidos por lei da realização de inspecções aos cofres das tesourarias e aos livros de escrituração dos serviços de contabilidade, das tesourarias e dos conselhos administrativos das alfândegas, de harmonia com as atribuições que pelas leis e regulamentos vigentes estão conferidas àqueles funcionários em matéria de fiscalização sobre tais cofres e livros e outros documentos aduaneiros.
+Art. 26.º As inspecções referidas nos artigos anteriores serão efectuadas, sem embargo das que venham a ser realizadas pelos inspectores superiores e pelos inspectores dos serviços de Fazenda e contabilidade, assim como pelos funcionários dos mesmos serviços, incumbidos por lei da realização de inspecções aos cofres das tesourarias e aos livros de escrituração dos serviços de contabilidade, das tesourarias e dos conselhos administrativos das alfândegas, de harmonia com as atribuições que pelas leis e regulamentos vigentes estão conferidas àqueles funcionários em matéria de fiscalização sobre tais cofres e livros e outros documentos aduaneiros.
 
-###### Art. 27.º Os inspectores e outros funcionário técnico-aduaneiros incumbidos dos serviços de inspecção dependem, no exercício das suas funções, do governador da província em que estejam a prestar serviço, sem prejuízo, contudo, quanto aos inspectores, do cumprimento das ordens e instruções emanadas do Ministro do Ultramar, através da Inspecção Superior das Alfândegas, acerca da execução dos serviços a seu cargo.
+Art. 27.º Os inspectores e outros funcionário técnico-aduaneiros incumbidos dos serviços de inspecção dependem, no exercício das suas funções, do governador da província em que estejam a prestar serviço, sem prejuízo, contudo, quanto aos inspectores, do cumprimento das ordens e instruções emanadas do Ministro do Ultramar, através da Inspecção Superior das Alfândegas, acerca da execução dos serviços a seu cargo.
 
-###### Art. 28.º Independentemente da fiscalização determinada nos regulamentos próprios e demais legislação vigente, deverão os inspectores e outros funcionários técnico-aduaneiros incumbidos dos serviços de inspecção examinar, sempre que o julguem conveniente, a escrita oficial das fábricas e dos estabelecimentos fabris cujos produtos estejam cativos de impostos ou de taxas cuja cobrança esteja cometida às alfândegas, assim como a daqueles que importem matérias-primas ou artefactos acabados e semiacabados ao abrigo do regime prescrito no artigo 3.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921), de 28 de Fevereiro de 1957.
+Art. 28.º Independentemente da fiscalização determinada nos regulamentos próprios e demais legislação vigente, deverão os inspectores e outros funcionários técnico-aduaneiros incumbidos dos serviços de inspecção examinar, sempre que o julguem conveniente, a escrita oficial das fábricas e dos estabelecimentos fabris cujos produtos estejam cativos de impostos ou de taxas cuja cobrança esteja cometida às alfândegas, assim como a daqueles que importem matérias-primas ou artefactos acabados e semiacabados ao abrigo do regime prescrito no artigo 3.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921), de 28 de Fevereiro de 1957.
 
-###### Art. 29.º O limite de atribuições marcado aos inspectores e aos funcionários incumbidos do serviço de inspecções, tanto nas inspecções ordinárias como nas extraordinárias, não impede que eles descrevam nos seus relatórios quaisquer factos que julguem conveniente comunicar às competentes autoridades superiores.
+Art. 29.º O limite de atribuições marcado aos inspectores e aos funcionários incumbidos do serviço de inspecções, tanto nas inspecções ordinárias como nas extraordinárias, não impede que eles descrevam nos seus relatórios quaisquer factos que julguem conveniente comunicar às competentes autoridades superiores.
 
-###### Art. 30.º Os inspectores e os funcionários técnico-aduaneiros que sejam incumbidos da realização de inspecções, inquéritos, sindicâncias ou de qualquer missão especial de estudo serão coadjuvados no desempenho das funções a elas inerentes por um funcionário do quadro técnico-aduaneiro de categoria não superior à de verificador, que servirá de secretário.
+Art. 30.º Os inspectores e os funcionários técnico-aduaneiros que sejam incumbidos da realização de inspecções, inquéritos, sindicâncias ou de qualquer missão especial de estudo serão coadjuvados no desempenho das funções a elas inerentes por um funcionário do quadro técnico-aduaneiro de categoria não superior à de verificador, que servirá de secretário.
 
 § 1.º O inspector superior das Alfândegas será acompanhado, na realização de qualquer das missões designadas no corpo deste artigo, em qualquer província ultramarina, por um secretário por ele escolhido de entre os oficiais do quadro dos serviços aduaneiros do Ministério do Ultramar.
 
 § 2.º São extensivas ao inspector superior das Alfândegas e aos inspectores as prerrogativas constantes dos artigos 61.º e 62.º do Regulamento das Inspecções Provinciais dos Serviços de Fazenda e Contabilidade e aos adjuntos daqueles inspectores as do artigo 61.º do mesmo regulamento.
 
-###### Art. 31.º Os chefes das diversas estâncias aduaneiras e todas as autoridades públicas em geral fornecerão aos inspectores e aos funcionários incumbidos de qualquer das missões designadas no artigo anterior os esclarecimentos que por estes funcionários forem requisitados, facultando-lhes todos os meios ao seu dispor para o cabal cumprimento do serviço ou da missão de que estejam incumbidos.
+Art. 31.º Os chefes das diversas estâncias aduaneiras e todas as autoridades públicas em geral fornecerão aos inspectores e aos funcionários incumbidos de qualquer das missões designadas no artigo anterior os esclarecimentos que por estes funcionários forem requisitados, facultando-lhes todos os meios ao seu dispor para o cabal cumprimento do serviço ou da missão de que estejam incumbidos.
 
-###### Art. 32.º O expediente das inspecções correrá por uma secretaria nas províncias de Angola e de Moçambique, pela Direcção Provincial dos Serviços das Alfândegas no Estado da Índia e pela Repartição Provincial dos mesmos serviços nas restantes províncias, competindo ao governador da província onde estiver o inspector superior ou os inspectores dos serviços aduaneiros do Ministério do Ultramar e outros funcionários técnico-aduaneiros incumbidos da realização das funções especificadas no artigo 30.º providenciar por forma que os serviços de expediente das inspecções fiquem devida e convenientemente instalados durante o período da realização da inspecção ou de qualquer outra missão de que hajam sido incumbidos aqueles funcionários, quer estejam ou não em serviço permanente na província, e em especial quanto ao inspector superior.
+Art. 32.º O expediente das inspecções correrá por uma secretaria nas províncias de Angola e de Moçambique, pela Direcção Provincial dos Serviços das Alfândegas no Estado da Índia e pela Repartição Provincial dos mesmos serviços nas restantes províncias, competindo ao governador da província onde estiver o inspector superior ou os inspectores dos serviços aduaneiros do Ministério do Ultramar e outros funcionários técnico-aduaneiros incumbidos da realização das funções especificadas no artigo 30.º providenciar por forma que os serviços de expediente das inspecções fiquem devida e convenientemente instalados durante o período da realização da inspecção ou de qualquer outra missão de que hajam sido incumbidos aqueles funcionários, quer estejam ou não em serviço permanente na província, e em especial quanto ao inspector superior.
 
-###### Art. 33.º O pessoal do serviço de inspecções é constituído, nas províncias de Angola e de Moçambique, pelos seguintes funcionários:
+Art. 33.º O pessoal do serviço de inspecções é constituído, nas províncias de Angola e de Moçambique, pelos seguintes funcionários:
 
 a) Inspector, com a categoria de director de serviços, designado normalmente por inspector-chefe;
 
@@ -680,7 +792,7 @@ d) Um escriturário e um dactilógrafo do quadro auxiliar.
 
 ### CAPÍTULO IV — Dos conselhos administrativos
 
-###### Art. 34.º Junto de cada uma das Direcções Provinciais dos Serviços das Alfândegas funcionará um conselho administrativo, constituído pelo director, que servirá de presidente, e pelos chefes das repartições, servindo de secretário o chefe da 1.ª secção da 2.ª repartição.
+Art. 34.º Junto de cada uma das Direcções Provinciais dos Serviços das Alfândegas funcionará um conselho administrativo, constituído pelo director, que servirá de presidente, e pelos chefes das repartições, servindo de secretário o chefe da 1.ª secção da 2.ª repartição.
 
 § 1.º Junto das Repartições Provinciais dos Serviços das Alfândegas funcionará também um conselho administrativo, constituído pelo chefe da repartição, que servirá de presidente, e pelos chefes das secções da respectiva alfândega local.
 
@@ -690,7 +802,7 @@ d) Um escriturário e um dactilógrafo do quadro auxiliar.
 
 § 4.º Na ausência ou impedimento legal dos vogais efectivos dos conselhos administrativos farão parte deles os funcionários que legalmente os devam substituir.
 
-###### Art. 35.º Constituem atribuições dos conselhos administrativos:
+Art. 35.º Constituem atribuições dos conselhos administrativos:
 
 1.º Acompanhar os trabalhos de conservação e reparação dos edifícios, embarcações, máquinas, mobílias e utensílios, quer pertencentes ao serviço interno, quer ao da fiscalização marítima e fluvial ou ao do tráfego;
 
@@ -720,55 +832,55 @@ d) Um escriturário e um dactilógrafo do quadro auxiliar.
 
 § único. Do disposto nos n.os 1.º, 2.º e 3.º deste artigo exceptuam-se os casos de construção, conservação e reparação que estejam a cargo dos serviços das obras públicas ou de outros da província.
 
-###### Art. 36.º As construções e os fornecimentos e respectivos contratos devem obedecer às disposições legais em vigor, e em especial às instruções e preceitos estabelecidos nos regulamentos e instruções dos serviços de Fazenda e contabilidade.
+Art. 36.º As construções e os fornecimentos e respectivos contratos devem obedecer às disposições legais em vigor, e em especial às instruções e preceitos estabelecidos nos regulamentos e instruções dos serviços de Fazenda e contabilidade.
 
-###### Art. 37.º Os directores das alfândegas onde não existam conselhos administrativos, os chefes das secções das outras alfândegas e os das delegações, postos de despacho e postos fiscais fornecerão anualmente aos conselhos administrativos de que dependem, de harmonia com os preceitos legais ou instruções superiores, inventários de todos os móveis e utensílios existentes nas respectivas estâncias aduaneiras e suas dependências, justificando nesses inventários todas as diferenças que se notarem em relação aos imediatamente anteriores e indicando o estado dos edifícios.
+Art. 37.º Os directores das alfândegas onde não existam conselhos administrativos, os chefes das secções das outras alfândegas e os das delegações, postos de despacho e postos fiscais fornecerão anualmente aos conselhos administrativos de que dependem, de harmonia com os preceitos legais ou instruções superiores, inventários de todos os móveis e utensílios existentes nas respectivas estâncias aduaneiras e suas dependências, justificando nesses inventários todas as diferenças que se notarem em relação aos imediatamente anteriores e indicando o estado dos edifícios.
 
 § único. Os móveis, utensílios e os diversos materiais que não estejam utilizados, assim como os impressos, deverão estar guardados em depósitos dependentes directamente dos conselhos administrativos ou dos directores e chefes das estâncias aduaneiras.
 
-###### Art. 38.º Os conselhos administrativos deverão ter, pelo menos, uma sessão mensal, lavrando-se a competente acta em livro próprio.
+Art. 38.º Os conselhos administrativos deverão ter, pelo menos, uma sessão mensal, lavrando-se a competente acta em livro próprio.
 
-###### Art. 39.º No fim de cada ano económico será dado balanço geral aos depósitos de materiais e de impressos e verificado se a escrituração se encontra regularmente feita e em dia, lavrando-se termo de tudo, que será assinado por todos os vogais.
+Art. 39.º No fim de cada ano económico será dado balanço geral aos depósitos de materiais e de impressos e verificado se a escrituração se encontra regularmente feita e em dia, lavrando-se termo de tudo, que será assinado por todos os vogais.
 
 § único. Os balanços às tesourarias das alfândegas abrangerão também a existência dos respectivos impressos, quando a venda dos mesmos esteja a cargo dos tesoureiros.
 
-###### Art. 40.º Os vogais do conselho administrativo não ficam dispensados dos serviços inerentes aos seus cargos e o desempenho das funções do referido conselho não confere direito a remuneração especial.
+Art. 40.º Os vogais do conselho administrativo não ficam dispensados dos serviços inerentes aos seus cargos e o desempenho das funções do referido conselho não confere direito a remuneração especial.
 
-###### Art. 41.º Os serviços do expediente dos conselhos administrativos correrão pela 1.ª secção da 2.ª repartição da respectiva direcção provincial dos serviços ou pela secção de contabilidade da respectiva alfândega, no caso das repartições provinciais, os quais ficam a cargo do vogal secretário. No Estado da índia correrão aqueles serviços pela 2.ª secção da Repartição da Direcção Provincial dos Serviços das Alfândegas.
+Art. 41.º Os serviços do expediente dos conselhos administrativos correrão pela 1.ª secção da 2.ª repartição da respectiva direcção provincial dos serviços ou pela secção de contabilidade da respectiva alfândega, no caso das repartições provinciais, os quais ficam a cargo do vogal secretário. No Estado da índia correrão aqueles serviços pela 2.ª secção da Repartição da Direcção Provincial dos Serviços das Alfândegas.
 
-###### Art. 42.º No expediente das alfândegas só poderão ser empregados os impressos fornecidos pelos conselhos administrativos ou adquiridos com a sua autorização, ficando proibido aos agentes aduaneiros o uso particular de quaisquer impressos que com aqueles se possam confundir.
+Art. 42.º No expediente das alfândegas só poderão ser empregados os impressos fornecidos pelos conselhos administrativos ou adquiridos com a sua autorização, ficando proibido aos agentes aduaneiros o uso particular de quaisquer impressos que com aqueles se possam confundir.
 
-###### Art. 43.º Nas tesourarias das alfândegas de pequeno movimento de despachos de mercadorias serão vendidos os impressos dos modelos aprovados superiormente, ficando o respectivo tesoureiro responsável para com o conselho administrativo pelas quantias resultantes dessa venda.
+Art. 43.º Nas tesourarias das alfândegas de pequeno movimento de despachos de mercadorias serão vendidos os impressos dos modelos aprovados superiormente, ficando o respectivo tesoureiro responsável para com o conselho administrativo pelas quantias resultantes dessa venda.
 
 § único. Nas alfândegas de intenso movimento de despachos do mercadorias e de outro expediente poderão os impressos em uso nas mesmas ser vendidos nos próprios depósitos de impressos da alfândega ou em outros locais, conforme determinação dos respectivos directores.
 
-###### Art. 44.º A Inspecção Superior das Alfândegas providenciará, através dos serviços de inspecção e de harmonia com o que for determinado pelo Ministro do Ultramar, no sentido de se uniformizarem, tanto quanto possível, os diversos modelos de impressos em uso nas alfândegas das diversas províncias ultramarinas.
+Art. 44.º A Inspecção Superior das Alfândegas providenciará, através dos serviços de inspecção e de harmonia com o que for determinado pelo Ministro do Ultramar, no sentido de se uniformizarem, tanto quanto possível, os diversos modelos de impressos em uso nas alfândegas das diversas províncias ultramarinas.
 
-###### Art. 45.º Tanto na secretaria do conselho administrativo como nas tesourarias haverá os livros indispensáveis à escrituração do movimento dos impressos.
+Art. 45.º Tanto na secretaria do conselho administrativo como nas tesourarias haverá os livros indispensáveis à escrituração do movimento dos impressos.
 
-###### Art. 46.º Nenhuma despesa se poderá considerar autorizada pelos conselhos administrativos sem que seja aprovada por maioria de votos. O presidente terá voto de qualidade.
+Art. 46.º Nenhuma despesa se poderá considerar autorizada pelos conselhos administrativos sem que seja aprovada por maioria de votos. O presidente terá voto de qualidade.
 
-###### Art. 47.º As pequenas reparações no material pertencente às alfândegas poderão ser efectuadas em oficinas funcionando junto das sedes das alfândegas e sob a sua directa administração, as quais estarão sob a superintendência técnica dos organismos oficiais que disponham de oficinas. Estes serviços designarão, com autorização do governador, um engenheiro ou agente técnico de engenharia, que ficará adstrito às direcções de serviços, repartições provinciais ou às direcções das alfândegas, conforme os casos, para desempenhar as funções de consultor técnico do respectivo conselho administrativo.
+Art. 47.º As pequenas reparações no material pertencente às alfândegas poderão ser efectuadas em oficinas funcionando junto das sedes das alfândegas e sob a sua directa administração, as quais estarão sob a superintendência técnica dos organismos oficiais que disponham de oficinas. Estes serviços designarão, com autorização do governador, um engenheiro ou agente técnico de engenharia, que ficará adstrito às direcções de serviços, repartições provinciais ou às direcções das alfândegas, conforme os casos, para desempenhar as funções de consultor técnico do respectivo conselho administrativo.
 
-###### Art. 48.º A construção, reparação e a conservação dos edifícios pertencentes às alfândegas ficarão a cargo dos serviços das obras públicas ou de urbanização de cada província, sendo, porém, os competentes projectos elaborados de acordo entre aqueles organismos oficiais e as direcções ou repartições provinciais dos serviços das alfândegas, salvo nos casos em que a elaboração de tais projectos esteja a cargo da Direcção dos Serviços de Urbanismo e Habitação da Direcção-Geral de Obras Públicas e Comunicações do Ministério do Ultramar, sobre os quais elaborará o respectivo plano e emitirá parecer a Inspecção Superior das Alfândegas.
+Art. 48.º A construção, reparação e a conservação dos edifícios pertencentes às alfândegas ficarão a cargo dos serviços das obras públicas ou de urbanização de cada província, sendo, porém, os competentes projectos elaborados de acordo entre aqueles organismos oficiais e as direcções ou repartições provinciais dos serviços das alfândegas, salvo nos casos em que a elaboração de tais projectos esteja a cargo da Direcção dos Serviços de Urbanismo e Habitação da Direcção-Geral de Obras Públicas e Comunicações do Ministério do Ultramar, sobre os quais elaborará o respectivo plano e emitirá parecer a Inspecção Superior das Alfândegas.
 
 ## TÍTULO II — Dos tribunais aduaneiros
 
 ### CAPÍTULO I — Dos tribunais fiscais
 
-###### Art. 49.º A organização e funcionamento dos tribunais fiscais regulam-se pelas disposições dos artigos 1.º a 8.º do [Decreto n.º 33531](https://diariodarepublica.pt/dr/detalhe/decreto/33531-1944-272441), de 21 de Fevereiro de 1944, que aprovou o Contencioso Aduaneiro do Ultramar.
+Art. 49.º A organização e funcionamento dos tribunais fiscais regulam-se pelas disposições dos artigos 1.º a 8.º do [Decreto n.º 33531](https://diariodarepublica.pt/dr/detalhe/decreto/33531-1944-272441), de 21 de Fevereiro de 1944, que aprovou o Contencioso Aduaneiro do Ultramar.
 
 ### CAPÍTULO II — Dos tribunais técnico-aduaneiros
 
 #### SECÇÃO I — Dos Conselhos do Serviço Técnico-Aduaneiro
 
-###### Art. 50.º Os litígios de carácter essencialmente técnico que se suscitarem na desalfandegação de mercadorias nas diversas províncias ultramarinas são resolvidos pelos tribunais técnico-aduaneiros, de harmonia com as disposições deste estatuto e da parte II do Contencioso Aduaneiro do Ultramar.
+Art. 50.º Os litígios de carácter essencialmente técnico que se suscitarem na desalfandegação de mercadorias nas diversas províncias ultramarinas são resolvidos pelos tribunais técnico-aduaneiros, de harmonia com as disposições deste estatuto e da parte II do Contencioso Aduaneiro do Ultramar.
 
-###### Art. 51.º Os tribunais técnico-aduaneiros do ultramar são de 1.ª e de 2.ª instância, sendo os de 1.ª instância constituídos pelos conselhos do serviço técnico-aduaneiro das diversas províncias ultramarinas e pelos tribunais de arbitramento de valores, competindo a estes últimos apenas a resolução em 1.ª instância das contestações sobre valores aduaneiros.
+Art. 51.º Os tribunais técnico-aduaneiros do ultramar são de 1.ª e de 2.ª instância, sendo os de 1.ª instância constituídos pelos conselhos do serviço técnico-aduaneiro das diversas províncias ultramarinas e pelos tribunais de arbitramento de valores, competindo a estes últimos apenas a resolução em 1.ª instância das contestações sobre valores aduaneiros.
 
 § único. O tribunal de 2.ª e última instância é constituído pelo Conselho Superior Técnico-Aduaneiro, órgão dependente do Ministério do Ultramar, conforme o disposto no artigo 6.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957.
 
-###### Art. 52.º Compete ao Conselho do Serviço Técnico-Aduaneiro de cada província:
+Art. 52.º Compete ao Conselho do Serviço Técnico-Aduaneiro de cada província:
 
 a) Como tribunal técnico-aduaneiro:
 
@@ -796,7 +908,7 @@ b) Como órgão de consulta e informação:
 
 § 2.º Quando o conselho tiver de se ocupar de assuntos respeitantes às alterações a introduzir nas pautas, poderá agregar, com autorização do governador, os presidentes das associações económicas da capital da província e os directores ou chefes provinciais, ou seus representantes, dos serviços de agricultura, de obras públicas e de portos e caminhos de ferro e ainda dois indivíduos idóneos de reconhecido mérito e competência em assuntos económicos, nas províncias de governo-geral, e um nas restantes províncias.
 
-###### Art. 53.º O Conselho do Serviço Técnico-Aduaneiro é presidido pelo director dos Serviços das Alfândega, nas províncias de governo-geral e pelo chefe da Repartição Provincial dos mesmos serviços nas províncias de governo simples. Tem como secretário o chefe da secretaria referida nos artigos 15.º ou 16.º deste estatuto, conforme as províncias e a composição a seguir indicada:
+Art. 53.º O Conselho do Serviço Técnico-Aduaneiro é presidido pelo director dos Serviços das Alfândega, nas províncias de governo-geral e pelo chefe da Repartição Provincial dos mesmos serviços nas províncias de governo simples. Tem como secretário o chefe da secretaria referida nos artigos 15.º ou 16.º deste estatuto, conforme as províncias e a composição a seguir indicada:
 
 Nas províncias de governo-geral:
 
@@ -818,9 +930,9 @@ b) Adjunto do director dos Serviços Provinciais de Fazenda e Contabilidade;
 
 c) Um representante das actividades agrícola e industrial e outro da comercial.
 
-###### Art. 54.º O presidente do Conselho do Serviço Técnico-Aduaneiro e os vogais representantes dos serviços oficiais ou dos organismos de coordenação económica são substituídos, na sua ausência ou impedimento, pelos seus substitutos legais nos respectivos serviços ou organismos. Os representantes das actividades económicas terão os seus suplentes.
+Art. 54.º O presidente do Conselho do Serviço Técnico-Aduaneiro e os vogais representantes dos serviços oficiais ou dos organismos de coordenação económica são substituídos, na sua ausência ou impedimento, pelos seus substitutos legais nos respectivos serviços ou organismos. Os representantes das actividades económicas terão os seus suplentes.
 
-###### Art. 55.º Os representantes das actividades económicas designadas no artigo 53.º exercerão as suas funções por um período de dois anos, podendo ser reconduzidos por mais um período, salvo no caso prescrito no § 2.º A nomeação, tanto dos efectivos como dos suplentes, será feita pelo governador de entre os indivíduos cujos nomes constarão de uma lista contendo o mínimo de oito nomes e o máximo de vinte, que será apresentada pela respectiva associação na Direcção ou Repartição Provincial dos Serviços das Alfândegas.
+Art. 55.º Os representantes das actividades económicas designadas no artigo 53.º exercerão as suas funções por um período de dois anos, podendo ser reconduzidos por mais um período, salvo no caso prescrito no § 2.º A nomeação, tanto dos efectivos como dos suplentes, será feita pelo governador de entre os indivíduos cujos nomes constarão de uma lista contendo o mínimo de oito nomes e o máximo de vinte, que será apresentada pela respectiva associação na Direcção ou Repartição Provincial dos Serviços das Alfândegas.
 
 § 1.º Se não existirem na província organismos associativos que representem as mencionadas actividades, serão os seus representantes nomeados pelo governador de entre indivíduos idóneos que se dediquem à respectiva actividade económica.
 
@@ -828,13 +940,13 @@ c) Um representante das actividades agrícola e industrial e outro da comercial.
 
 § 3.º Quando as actividades económicas estiverem organizadas corporativamente numa província, serão os seus representantes nomeados por escolha do governador de entre os presidentes das federações, uniões ou grémios, deixando neste caso de ter representação no Conselho do Serviço Técnico-Aduaneiro as que estão referidas no artigo 53.º deste estatuto.
 
-###### Art. 56.º O Conselho do Serviço Técnico-Aduaneiro considera-se constituído em cada província quando estiver presente a maioria dos seus membros.
+Art. 56.º O Conselho do Serviço Técnico-Aduaneiro considera-se constituído em cada província quando estiver presente a maioria dos seus membros.
 
 #### SECÇÃO II — Dos tribunais de arbitramento de valores
 
-###### Art. 57.º As contestações sobre valores aduaneiros levantadas pelos funcionários das alfândegas nos despachos de mercadorias serão resolvidas em 1.ª instância pelos tribunais de arbitramento de valores, que funcionarão nas sedes das alfândegas.
+Art. 57.º As contestações sobre valores aduaneiros levantadas pelos funcionários das alfândegas nos despachos de mercadorias serão resolvidas em 1.ª instância pelos tribunais de arbitramento de valores, que funcionarão nas sedes das alfândegas.
 
-###### Art. 58.º O tribunal de arbitramento de valores será constituído na sede de cada circunscrição aduaneira pelo chefe do serviço de despacho, que servirá de presidente, e terá a composição a seguir indicada, servindo de secretário o encarregado do museu de amostras:
+Art. 58.º O tribunal de arbitramento de valores será constituído na sede de cada circunscrição aduaneira pelo chefe do serviço de despacho, que servirá de presidente, e terá a composição a seguir indicada, servindo de secretário o encarregado do museu de amostras:
 
 a) Um funcionário técnico-aduaneiro, designado pelo director da alfândega;
 
@@ -846,23 +958,23 @@ d) Um representante das actividades industrial ou agrícola, conforme os casos.
 
 § único. O vogal mencionado na alínea b) será nomeado pelo director da alfândega entre os funcionários constantes de uma lista a enviar anualmente àquele director pelo director distrital de tais serviços; e os vogais referidos nas alíneas c) e d) sendo também nomeados pelo director da alfândega entre os indivíduos mencionados nas listas referidas no artigo seguinte.
 
-###### Art. 59.º Para cumprimento do disposto no artigo anterior os directores das alfândegas solicitarão de cada uma das associações económicas ou dos organismos corporativos ou de coordenação económica existentes na localidade onde estiver situada a sede de cada alfândega a remessa de uma lista contendo os nomes dos indivíduos que hão-de fazer parte do tribunal a que se refere o artigo anterior.
+Art. 59.º Para cumprimento do disposto no artigo anterior os directores das alfândegas solicitarão de cada uma das associações económicas ou dos organismos corporativos ou de coordenação económica existentes na localidade onde estiver situada a sede de cada alfândega a remessa de uma lista contendo os nomes dos indivíduos que hão-de fazer parte do tribunal a que se refere o artigo anterior.
 
 § 1.º A lista referida no corpo deste artigo deverá ser remetida pelos citados organismos antes do dia 31 de Dezembro de cada ano, para entrar em vigor no ano seguinte, e será organizada por forma que dela constem indivíduos pertencentes a todos os ramos especializados dessas actividades.
 
 § 2. Não havendo na localidade nenhum dos organismos referidos neste artigo ou não tendo os mesmos cumprido o disposto no parágrafo anterior, terão os directores das alfândegas inteira liberdade de escolha, nomeando pessoas idóneas para o julgamento de cada processo, preferindo os representantes das actividades económicas.
 
-###### Art. 60.º Quando as actividades económicas das províncias ultramarinas estiverem organizadas corporativamente, deverá cada grémio indicar os nomes de dois dos seus associados para constituírem a lista dos membros do tribunal de arbitramento de valores da localidade.
+Art. 60.º Quando as actividades económicas das províncias ultramarinas estiverem organizadas corporativamente, deverá cada grémio indicar os nomes de dois dos seus associados para constituírem a lista dos membros do tribunal de arbitramento de valores da localidade.
 
-###### Art. 61.º As convocações do tribunal serão intimadas aos vogais, despachantes e funcionários que tiverem impugnado o valor, com a antecedência mínima de três dias úteis.
+Art. 61.º As convocações do tribunal serão intimadas aos vogais, despachantes e funcionários que tiverem impugnado o valor, com a antecedência mínima de três dias úteis.
 
-###### Art. 62.º Quando o tribunal se não puder constituir por falta de qualquer vogal, o presidente participará o facto às associações ou organismos corporativos ou de coordenação económica a que pertencerem os vogais que faltaram, fazendo-se nova convocação com os mesmos ou outros vogais, conforme determinação do director da alfândega, no prazo máximo de oito dias.
+Art. 62.º Quando o tribunal se não puder constituir por falta de qualquer vogal, o presidente participará o facto às associações ou organismos corporativos ou de coordenação económica a que pertencerem os vogais que faltaram, fazendo-se nova convocação com os mesmos ou outros vogais, conforme determinação do director da alfândega, no prazo máximo de oito dias.
 
 § único. Se, feita a segunda convocação, ainda não houver número, o director da alfândega procederá à nomeação de vogais, nos termos do § 2.º do artigo 59.º deste estatuto.
 
-###### Art. 63.º Os interessados e contestantes podem juntar ao processo as alegações e documentos que entenderem e apresentar verbalmente as suas razões, sendo-lhes, porém, vedada a assistência aos debates e votação.
+Art. 63.º Os interessados e contestantes podem juntar ao processo as alegações e documentos que entenderem e apresentar verbalmente as suas razões, sendo-lhes, porém, vedada a assistência aos debates e votação.
 
-###### Art. 64.º O presidente do tribunal de arbitramento de valores terá voto de desempate, cumprindo aos vogais fundamentar devidamente os seus votos.
+Art. 64.º O presidente do tribunal de arbitramento de valores terá voto de desempate, cumprindo aos vogais fundamentar devidamente os seus votos.
 
 § único. A competência dos tribunais de arbitramento de valores abrange todas as contestações de valores aduaneiros de mercadorias sobre que recaiam direitos ou quaisquer imposições cuja cobrança pertença às alfândegas.
 
@@ -870,9 +982,9 @@ d) Um representante das actividades industrial ou agrícola, conforme os casos.
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Art. 65.º As alfândegas são estâncias às quais estão cometidos os serviços externos. que têm essencialmente por objecto arrecadar os direitos devidos pelas mercadorias que entram numa província ou dela saiam, quando estejam cativas dos mesmos, fiscalizar a entrada e saída de todas as mercadorias e cobrar quaisquer outras imposições que estejam a seu cargo.
+Art. 65.º As alfândegas são estâncias às quais estão cometidos os serviços externos. que têm essencialmente por objecto arrecadar os direitos devidos pelas mercadorias que entram numa província ou dela saiam, quando estejam cativas dos mesmos, fiscalizar a entrada e saída de todas as mercadorias e cobrar quaisquer outras imposições que estejam a seu cargo.
 
-###### Art. 66.º A jurisdição das alfândegas exercer-se-á, com carácter habitual ou permanente, sob a sua acção directa ou por intermédio dos seus delegados:
+Art. 66.º A jurisdição das alfândegas exercer-se-á, com carácter habitual ou permanente, sob a sua acção directa ou por intermédio dos seus delegados:
 
 1.º Nos portos, enseadas, rios e ancoradouros;
 
@@ -892,27 +1004,27 @@ d) Um representante das actividades industrial ou agrícola, conforme os casos.
 
 ### CAPÍTULO II — Da classificação e colocação das circunscrições aduaneiras, suas delegações, postos de despacho e postos fiscais
 
-###### Art. 67.º O território aduaneiro da província de Cabo Verde distribui-se por três circunscrições aduaneiras, com sede, respectivamente, nas cidades da Praia e do Mindelo e na vila de Espargos.
+Art. 67.º O território aduaneiro da província de Cabo Verde distribui-se por três circunscrições aduaneiras, com sede, respectivamente, nas cidades da Praia e do Mindelo e na vila de Espargos.
 
-###### Art. 68.º O território aduaneiro da província de Angola distribui-se por quatro circunscrições aduaneiras com sede, respectivamente, em Cabinda, Luanda, Lobito e Moçamêdes.
+Art. 68.º O território aduaneiro da província de Angola distribui-se por quatro circunscrições aduaneiras com sede, respectivamente, em Cabinda, Luanda, Lobito e Moçamêdes.
 
-###### Art. 69.º O território aduaneiro da província de Moçambique distribui-se por cinco circunscrições aduaneiras, com sede, respectivamente, em Lourenço Marques, Leira, Quelimane, Moçambique e Porto Amélia.
+Art. 69.º O território aduaneiro da província de Moçambique distribui-se por cinco circunscrições aduaneiras, com sede, respectivamente, em Lourenço Marques, Leira, Quelimane, Moçambique e Porto Amélia.
 
-###### Art. 70.º O território aduaneiro do Estado da Índia distribui-se também por quatro circunscrições aduaneiras, com sede, respectivamente, em Pangim, Mormugão, Damão e Diu.
+Art. 70.º O território aduaneiro do Estado da Índia distribui-se também por quatro circunscrições aduaneiras, com sede, respectivamente, em Pangim, Mormugão, Damão e Diu.
 
-###### Art. 71.º O território aduaneiro das províncias da Guiné, de S. Tomé e Príncipe e de Timor constitui uma só circunscrição aduaneira, com sede na capital da província.
+Art. 71.º O território aduaneiro das províncias da Guiné, de S. Tomé e Príncipe e de Timor constitui uma só circunscrição aduaneira, com sede na capital da província.
 
-###### Art. 72.º As estâncias aduaneiras existentes nas diversas províncias ultramarinas são as que constam dos quadros I a VII anexos a este estatuto.
+Art. 72.º As estâncias aduaneiras existentes nas diversas províncias ultramarinas são as que constam dos quadros I a VII anexos a este estatuto.
 
-###### Art. 73.º Poderão os governadores, mediante proposta dos directores ou chefes provinciais dos serviços das alfândegas, ampliar ou restringir o número de estâncias aduaneiras estabelecido por este diploma e alterar ou modificar a sua classificação e colocação, segundo as conveniências do serviço público e as necessidades do comércio, com excepção das sedes das alfândegas.
+Art. 73.º Poderão os governadores, mediante proposta dos directores ou chefes provinciais dos serviços das alfândegas, ampliar ou restringir o número de estâncias aduaneiras estabelecido por este diploma e alterar ou modificar a sua classificação e colocação, segundo as conveniências do serviço público e as necessidades do comércio, com excepção das sedes das alfândegas.
 
-###### Art. 74.º O estabelecimento de estâncias aduaneiras habilitadas a dar despacho em localidades do interior de uma província que não sejam servidas por aeródromos abertos à aeronavegação internacional carece de autorização do Ministro do Ultramar, ouvida a Inspecção Superior das Alfândegas.
+Art. 74.º O estabelecimento de estâncias aduaneiras habilitadas a dar despacho em localidades do interior de uma província que não sejam servidas por aeródromos abertos à aeronavegação internacional carece de autorização do Ministro do Ultramar, ouvida a Inspecção Superior das Alfândegas.
 
 ### CAPÍTULO III — Das atribuições das várias estâncias aduaneiras e fiscais
 
 #### SECÇÃO I — Das sedes das alfândegas
 
-###### Art. 75.º São atribuições gerais das alfândegas:
+Art. 75.º São atribuições gerais das alfândegas:
 
 1.º Visitar, quando o entendam conveniente, quaisquer embarcações, com exclusão das de guerra, que se encontrem navegando dentro da zona de respeito, para examinar os manifestos e demais papéis de bordo ou colher quaisquer esclarecimentos que interessem à fiscalização aduaneira;
 
@@ -986,15 +1098,15 @@ d) Um representante das actividades industrial ou agrícola, conforme os casos.
 
 § único. A importação de substâncias explosivas, escorvas para cartuchos e cápsulas detonadoras só poderá efectuar-se, em regra, pelas sedes das alfândegas, nos termos da respectiva legislação especial, salvo tratando-se de importação efectuada pelas empresas mineiras em lavra activa, que poderá ser feita também pela estância aduaneira mais próxima do campo de exploração, quando o explosivo, escorva ou cápsulas detonadoras sejam de tipos conhecidos e se destinem exclusivamente à lavra das referidas empresas.
 
-###### Art. 76.º O despacho de importação de encomendas postais será realizado, nas competentes secções ou estações postais das localidades onde existam sedes das alfândegas, pelos funcionários que para tal fim forem destacados pelos respectivos directores. Pelas aludidas secções ou estações se fará também a expedição das mercadorias submetidas a despacho de trânsito ou de reexportação em regime de encomenda postal ou sujeitas a devolução.
+Art. 76.º O despacho de importação de encomendas postais será realizado, nas competentes secções ou estações postais das localidades onde existam sedes das alfândegas, pelos funcionários que para tal fim forem destacados pelos respectivos directores. Pelas aludidas secções ou estações se fará também a expedição das mercadorias submetidas a despacho de trânsito ou de reexportação em regime de encomenda postal ou sujeitas a devolução.
 
 § único. Poderão os governadores das diversas províncias autorizar em portaria, sob proposta da Direcção ou Repartição Provincial dos Serviços das Alfândegas e ouvida a Direcção ou Repartição Provincial dos Serviços Postais, que nas localidades onde haja estâncias aduaneiras que não sejam sedes de alfândegas as mesmas dêem os despachos especificados no corpo deste artigo, se aqueles serviços puserem à disposição das alfândegas locais instalações adequadas e pessoal suficiente para realizar a abertura e fecho dos respectivos volumes.
 
-###### Art. 77.º As diversas autoridades prestarão aos agentes aduaneiros todo o auxílio que por estes lhes for requisitado a bem do serviço público e para o perfeito desempenho das suas funções.
+Art. 77.º As diversas autoridades prestarão aos agentes aduaneiros todo o auxílio que por estes lhes for requisitado a bem do serviço público e para o perfeito desempenho das suas funções.
 
-###### Art. 78.º Todas as operações aduaneiras devem ser realizadas nos locais para tal efeito designados pelas alfândegas.
+Art. 78.º Todas as operações aduaneiras devem ser realizadas nos locais para tal efeito designados pelas alfândegas.
 
-###### Art. 79.º Dentro da área da jurisdição das alfândegas nenhuma construção poderá ser feita à beira-mar sem prévia autorização do governador da província, ouvidas a Direcção ou Repartição Provincial dos Serviços das Alfândegas, não podendo tais construções, quando permitidas, ficar a distância inferior a 10 m da linha das maiores águas ou marés ou dos cais e muralhas marginais.
+Art. 79.º Dentro da área da jurisdição das alfândegas nenhuma construção poderá ser feita à beira-mar sem prévia autorização do governador da província, ouvidas a Direcção ou Repartição Provincial dos Serviços das Alfândegas, não podendo tais construções, quando permitidas, ficar a distância inferior a 10 m da linha das maiores águas ou marés ou dos cais e muralhas marginais.
 
 § 1.º Exceptuam-se do disposto na parte final deste artigo as pontes, estacarias, guindastes, consertos no cais, aterros e desaterros, canalizações, pavimentos, bombas para abastecimento de óleos, rampas e casas-abrigos para barcos salva-vidas, estaleiros para construções de navios e outras obras que, por sua natureza ou evidente vantagem pública, tenham de ficar a menor distância, quando facultem livre acesso à fiscalização e sejam instalados de forma que esta se possa exercer de modo eficaz.
 
@@ -1004,7 +1116,7 @@ d) Um representante das actividades industrial ou agrícola, conforme os casos.
 
 #### SECÇÃO II — Das restantes estâncias aduaneiras
 
-###### Art. 80.º Às delegações de 1.ª classe incumbe dar despacho:
+Art. 80.º Às delegações de 1.ª classe incumbe dar despacho:
 
 1.º De importação ou de exportação, salvo nos casos em que leis especiais consignem que determinadas mercadorias só possam ser importadas ou exportadas pelas sedes das alfândegas;
 
@@ -1034,15 +1146,15 @@ d) Um representante das actividades industrial ou agrícola, conforme os casos.
 
 3.º Quaisquer outras mercadorias designadas em lei especial ou que constem de lista publicada no Boletim Oficial, aprovada pelo governador, ouvido o director ou o chefe provincial dos serviços das alfândegas, conforme as províncias.
 
-###### Art. 81.º Às delegações de 2.ª classe, marítimas e terrestres, pertencem, respectivamente, as mesmas atribuições que, nos termos deste estatuto, são conferidas às de 1.ª classe, com excepção das respeitantes à lista a que se refere o artigo seguinte.
+Art. 81.º Às delegações de 2.ª classe, marítimas e terrestres, pertencem, respectivamente, as mesmas atribuições que, nos termos deste estatuto, são conferidas às de 1.ª classe, com excepção das respeitantes à lista a que se refere o artigo seguinte.
 
-###### Art. 82.º Os governadores publicarão em portaria, no prazo de um ano após a entrada em vigor deste estatuto e ouvida a Direcção ou Repartição Provincial dos Serviços das Alfândegas, a lista das mercadorias que não poderão ter despacho de importação e de exportação nas delegações de 1.ª ou de 2.ª classe.
+Art. 82.º Os governadores publicarão em portaria, no prazo de um ano após a entrada em vigor deste estatuto e ouvida a Direcção ou Repartição Provincial dos Serviços das Alfândegas, a lista das mercadorias que não poderão ter despacho de importação e de exportação nas delegações de 1.ª ou de 2.ª classe.
 
-###### Art. 83.º As estâncias aduaneiras estabelecidas junto de depósitos gerais francos, zonas francas e dos armazéns especiais referidos na alínea a) do artigo 821.º têm competência para dar despacho de entrada e de saída, segundo as suas respectivas atribuições, às mercadorias que se arrecadarem nos mesmos depósitos.
+Art. 83.º As estâncias aduaneiras estabelecidas junto de depósitos gerais francos, zonas francas e dos armazéns especiais referidos na alínea a) do artigo 821.º têm competência para dar despacho de entrada e de saída, segundo as suas respectivas atribuições, às mercadorias que se arrecadarem nos mesmos depósitos.
 
-###### Art. 84.º As estâncias aduaneiras urbanas, assim como as casas de despacho que funcionam junto das secções ou estações postais, terão a categoria de delegações de 1.ª ou de 2.ª classe, conforme o seu movimento e importância, a qual lhe será conferida por portaria do governador, sob proposta do director ou chefe provincial dos serviços das alfândegas. Nas restantes localidades onde existam delegações aduaneiras constituirão uma subdelegação.
+Art. 84.º As estâncias aduaneiras urbanas, assim como as casas de despacho que funcionam junto das secções ou estações postais, terão a categoria de delegações de 1.ª ou de 2.ª classe, conforme o seu movimento e importância, a qual lhe será conferida por portaria do governador, sob proposta do director ou chefe provincial dos serviços das alfândegas. Nas restantes localidades onde existam delegações aduaneiras constituirão uma subdelegação.
 
-###### Art. 85.º Aos postos de despacho, tanto terrestres como marítimos, incumbe:
+Art. 85.º Aos postos de despacho, tanto terrestres como marítimos, incumbe:
 
 1.º Dar despacho de importação a géneros alimentícios, matérias-primas e outras mercadorias de fácil verificação, incluindo aquelas que sejam provenientes de naufrágio ou de arrojos do mar;
 
@@ -1052,27 +1164,27 @@ d) Um representante das actividades industrial ou agrícola, conforme os casos.
 
 § único. Os postos de despacho marítimos têm também competência para liquidar os impostos a cobrar sobre a navegação.
 
-###### Art. 86.º Os governadores podem atribuir em portaria, sob proposta do director ou do chefe provincial dos serviços das alfândegas e por circunstâncias especiais, competência aos postos de despacho igual à que está atribuída às delegações de 2.ª classe, os quais passarão a designar-se, por essa circunstância, «postos especiais de despacho».
+Art. 86.º Os governadores podem atribuir em portaria, sob proposta do director ou do chefe provincial dos serviços das alfândegas e por circunstâncias especiais, competência aos postos de despacho igual à que está atribuída às delegações de 2.ª classe, os quais passarão a designar-se, por essa circunstância, «postos especiais de despacho».
 
-###### Art. 87.º Aos postos fiscais incumbe essencialmente a fiscalização das zonas ficais das fronteiras terrestre e marítima, assim como as das vias férreas e outras de carácter especial.
+Art. 87.º Aos postos fiscais incumbe essencialmente a fiscalização das zonas ficais das fronteiras terrestre e marítima, assim como as das vias férreas e outras de carácter especial.
 
-###### Art. 88.º Os governadores podem atribuir em portaria competência para despachar mercadorias, sob proposta do director ou do chefe provincial dos serviços das alfândegas, aos postos fiscais e administrativos situados junto das fronteiras.
+Art. 88.º Os governadores podem atribuir em portaria competência para despachar mercadorias, sob proposta do director ou do chefe provincial dos serviços das alfândegas, aos postos fiscais e administrativos situados junto das fronteiras.
 
 § único. Os postos fiscais e os postos administrativos a que haja sido conferida competência para despacho ficam dependentes, em matéria de serviço aduaneiro, das autoridades aduaneiras que superintenderem na área em que estão situados, com as quais se corresponderão directamente em matéria de serviço aduaneiro ou fiscal, salvo nos casos em que, devido a dificuldades de comunicação, fiquem directamente dependentes da sede da respectiva circunscrição aduaneira.
 
-###### Art. 89.º Em casos excepcionais devidamente justificados poderão os governadores autorizar, precedendo informação das direcções ou repartições provinciais dos serviços das alfândegas, que, por quaisquer delegações ou postos de despacho aduaneiros, sejam importadas ou exportadas mercadorias para cujo despacho aquelas estações fiscais não estejam autorizadas por lei.
+Art. 89.º Em casos excepcionais devidamente justificados poderão os governadores autorizar, precedendo informação das direcções ou repartições provinciais dos serviços das alfândegas, que, por quaisquer delegações ou postos de despacho aduaneiros, sejam importadas ou exportadas mercadorias para cujo despacho aquelas estações fiscais não estejam autorizadas por lei.
 
 § único. Quando se trate de mercadorias de difícil classificação ou de grande valor, poderão os serviços de verificação e de reverificação ser efectuados por funcionários competentes, para tal fim especialmente destacados das sedes das alfândegas, com autorização do director ou do chefe provincial dos serviços das alfândegas, sancionada pelo governador, correndo por conta dos interessados as despesas respeitantes aos emolumentos pessoais, ajudas de custo e deslocações ocasionadas pela realização daqueles serviços.
 
-###### Art. 90.º As estâncias aduaneiras, os postos fiscais e os postos administrativos da fronteira terrestre habilitados a despachar têm competência para autorizar a saída e a entrada, nos termos legais e regulamentares, de veículos, cavalgaduras e respectivos arreios, empregados nos transportes de passageiros e de carga e, bem assim, de vasilhame e outras taras de fácil identificação.
+Art. 90.º As estâncias aduaneiras, os postos fiscais e os postos administrativos da fronteira terrestre habilitados a despachar têm competência para autorizar a saída e a entrada, nos termos legais e regulamentares, de veículos, cavalgaduras e respectivos arreios, empregados nos transportes de passageiros e de carga e, bem assim, de vasilhame e outras taras de fácil identificação.
 
-###### Art. 91.º Qualquer estância aduaneira tem competência para dar seguimento, em trânsito interior, a mercadorias a que não possa conceder despacho, para outras estâncias onde esse despacho possa ser efectuado.
+Art. 91.º Qualquer estância aduaneira tem competência para dar seguimento, em trânsito interior, a mercadorias a que não possa conceder despacho, para outras estâncias onde esse despacho possa ser efectuado.
 
-###### Art. 92.º Os governadores publicarão em portaria, no prazo previsto no artigo 82.º, ouvida a Direcção ou Repartição Provincial dos Serviços das Alfândegas, uma lista das mercadorias, com indicação do respectivo artigo pautal, que não podem ter despacho de importação ou de exportação pelos postos de despacho e pelos postos administrativos ou fiscais habilitados para esse fim especial.
+Art. 92.º Os governadores publicarão em portaria, no prazo previsto no artigo 82.º, ouvida a Direcção ou Repartição Provincial dos Serviços das Alfândegas, uma lista das mercadorias, com indicação do respectivo artigo pautal, que não podem ter despacho de importação ou de exportação pelos postos de despacho e pelos postos administrativos ou fiscais habilitados para esse fim especial.
 
-###### Art. 93.º Os postos fiscais, tanto terrestres como marítimos, quando habilitados a despachar, terão as atribuições mencionadas no artigo 85.º deste estatuto, em relação às mercadorias excluídas da lista referida no artigo anterior, que por eles hajam de ser importadas.
+Art. 93.º Os postos fiscais, tanto terrestres como marítimos, quando habilitados a despachar, terão as atribuições mencionadas no artigo 85.º deste estatuto, em relação às mercadorias excluídas da lista referida no artigo anterior, que por eles hajam de ser importadas.
 
-###### Art. 94.º Nas sedes das alfândegas, por ocasião da chegada ou saída dos navios, funcionarão, fora das horas regulamentares do expediente ordinário, estâncias aduaneiras denominadas «piquetes», competindo-lhes o despacho de bagagens e o desempenho dos demais serviços determinados nos regulamentos.
+Art. 94.º Nas sedes das alfândegas, por ocasião da chegada ou saída dos navios, funcionarão, fora das horas regulamentares do expediente ordinário, estâncias aduaneiras denominadas «piquetes», competindo-lhes o despacho de bagagens e o desempenho dos demais serviços determinados nos regulamentos.
 
 § 1.º Os piquetes das sedes das alfândegas mencionadas no artigo 105.º terão atribuições de delegação de 1.ª classe e funcionarão permanentemente do nascer ao pôr do Sol; os das restantes alfândegas, com excepção das mencionadas no § 2.º do artigo 107.º, terão idênticas atribuições, sendo, porém, considerados postos especiais de despacho.
 
@@ -1080,23 +1192,23 @@ d) Um representante das actividades industrial ou agrícola, conforme os casos.
 
 § 3.º Terão também atribuições de delegação de 1 ª classe as casas de despacho que funcionarem junto dos aeroportos.
 
-###### Art. 95.º A verificação das encomendas postais e a liquidação das imposições que sobre elas incidem serão efectuadas nas competentes repartições ou secções do correio, nos termos regulamentares, por pessoal aduaneiro especialmente incumbido daqueles serviços, cabendo ao pessoal dos serviços postais a abertura, movimentação e fecho dos respectivos volumes.
+Art. 95.º A verificação das encomendas postais e a liquidação das imposições que sobre elas incidem serão efectuadas nas competentes repartições ou secções do correio, nos termos regulamentares, por pessoal aduaneiro especialmente incumbido daqueles serviços, cabendo ao pessoal dos serviços postais a abertura, movimentação e fecho dos respectivos volumes.
 
-###### Art. 96.º O despacho de exportação pode realizar-se, em regra, em todas as estâncias aduaneiras e postos fiscais habilitados a despachar, de harmonia com as disposições dos artigos anteriores. Fica, no entanto, sujeito às seguintes restrições:
+Art. 96.º O despacho de exportação pode realizar-se, em regra, em todas as estâncias aduaneiras e postos fiscais habilitados a despachar, de harmonia com as disposições dos artigos anteriores. Fica, no entanto, sujeito às seguintes restrições:
 
 1.º Quando tenha de haver restituição de direitos de entrada, em relação a matérias-primas que façam parte de mercadorias a exportar, a verificação e saída só poderão realizar-se pelas sedes das alfândegas ou pelas delegações a isso autorizadas pela Direcção ou Repartição Provincial dos Serviços das Alfândegas;
 
 2.º Quando se queira aproveitar o benefício de reimportação livre, a exportação só poderá efectuar-se pelas sedes das alfândegas ou por qualquer delegação que esteja habilitada a dar despacho de importação a mercadorias de natureza idêntica à das que foram exportadas.
 
-###### Art. 97.º O despacho de exportação temporária é, em regra, privativo das estâncias aduaneiras que tenham competência para dar despacho de reimportação, entretanto, poderá o governador, ouvido o director ou chefe provincial dos serviços das alfândegas, permitir excepcionalmente e por motivos justificados, que nos postos de despacho se efectuem despachos de exportação temporária e de reimportação.
+Art. 97.º O despacho de exportação temporária é, em regra, privativo das estâncias aduaneiras que tenham competência para dar despacho de reimportação, entretanto, poderá o governador, ouvido o director ou chefe provincial dos serviços das alfândegas, permitir excepcionalmente e por motivos justificados, que nos postos de despacho se efectuem despachos de exportação temporária e de reimportação.
 
-###### Art. 98.º O despacho de reexportação é, em regra, privativo das sedes das alfândegas e das delegações; entretanto poderá o governador, ouvido o director ou o chefe provincial dos serviços das alfândegas, excepcionalmente e por motivos justificados, autorizar que se efectuem despachos de importação temporária e de reexportação pelos postos de despacho.
+Art. 98.º O despacho de reexportação é, em regra, privativo das sedes das alfândegas e das delegações; entretanto poderá o governador, ouvido o director ou o chefe provincial dos serviços das alfândegas, excepcionalmente e por motivos justificados, autorizar que se efectuem despachos de importação temporária e de reexportação pelos postos de despacho.
 
 § 1.º É igualmente permitido o despacho de reexportação pelo serviço de encomendas postais, seguindo os volumes para as secções ou estações postais devidamente etiquetados, acompanhados de fiscalização e das respectivas guias, em cujos talões passará recibo o chefe ou encarregado do serviço das encomendas postais.
 
 § 2.º A disposição do parágrafo anterior é também aplicável aos despachos de transferência quando as mercadorias depositadas em armazéns sob regime aduaneiro ou sob franquia aduaneira sejam remetidas, por via marítima ou aérea, de uma localidade para outra da mesma província onde funcionem casas de despacho de encomendas postais, competindo às autoridades aduaneiras adoptar as providências necessárias por forma que os volumes sejam entregues aos serviços dos correios da localidade do destino, que passarão deles o competente recibo.
 
-###### Art. 99.º A fiscalização de saída das mercadorias pertence às estâncias aduaneiras das fronteiras, competindo àquelas por onde se realizar o efectivo embarque ou a passagem para fora da fronteira comunicar tais factos e devolver os talões das guias de saída, com todas as indicações precisas, às estâncias aduaneiras por onde se haja realizado a entrada.
+Art. 99.º A fiscalização de saída das mercadorias pertence às estâncias aduaneiras das fronteiras, competindo àquelas por onde se realizar o efectivo embarque ou a passagem para fora da fronteira comunicar tais factos e devolver os talões das guias de saída, com todas as indicações precisas, às estâncias aduaneiras por onde se haja realizado a entrada.
 
 § 1.º As estâncias aduaneiras por onde se realizar a saída procederão a rigorosa conferência dos volumes com as competentes guias, nas quais estarão descritos os pesos, quantidade, qualidade e natureza das mercadorias.
 
@@ -1106,11 +1218,11 @@ d) Um representante das actividades industrial ou agrícola, conforme os casos.
 
 § 4.º As disposições contidas neste artigo e seus parágrafos abrangem os casos de exportação, reexportação, trânsito e transferência, na parte aplicável.
 
-###### Art. 100.º Os governos das províncias ultramarinas poderão estabelecer, quando julguem conveniente, quanto ao trânsito, reexportação e transferência de mercadoria por caminho de ferro, que o transporte de volumes de fácil extravio ou substituição se faça em vagões especiais ou em contentores que possam ser fechados por meio de selos de modelo próprio e que satisfaçam completamente às necessárias condições de segurança e de cautelas fiscais.
+Art. 100.º Os governos das províncias ultramarinas poderão estabelecer, quando julguem conveniente, quanto ao trânsito, reexportação e transferência de mercadoria por caminho de ferro, que o transporte de volumes de fácil extravio ou substituição se faça em vagões especiais ou em contentores que possam ser fechados por meio de selos de modelo próprio e que satisfaçam completamente às necessárias condições de segurança e de cautelas fiscais.
 
-###### Art. 101.º As estâncias Aduaneiras do litoral têm competência para arrecadar achados e objectos arrojados pelo mar ou provenientes de naufrágio, devendo proceder-se, em relação a tais achados e objectos, de harmonia com as prescrições estabelecidas nas convenções internacionais e nos regulamentos aduaneiros.
+Art. 101.º As estâncias Aduaneiras do litoral têm competência para arrecadar achados e objectos arrojados pelo mar ou provenientes de naufrágio, devendo proceder-se, em relação a tais achados e objectos, de harmonia com as prescrições estabelecidas nas convenções internacionais e nos regulamentos aduaneiros.
 
-###### Art. 102.º As mercadorias depositadas nas alfândegas ou em armazéns onde estejam cativas de direitos não podem ali ser arrestadas ou detidas senão pela própria administração aduaneira e para garantia de imposições, multas ou dívidas de qualquer outra natureza à Fazenda Nacional.
+Art. 102.º As mercadorias depositadas nas alfândegas ou em armazéns onde estejam cativas de direitos não podem ali ser arrestadas ou detidas senão pela própria administração aduaneira e para garantia de imposições, multas ou dívidas de qualquer outra natureza à Fazenda Nacional.
 
 § 1.º As autoridades judiciais ou quaisquer outras, quando tenham de impor o arresto das mercadorias referidas no corpo do artigo, solicitarão às alfândegas sob cuja acção fiscal estejam tais mercadorias a efectivação daquele arresto.
 
@@ -1120,13 +1232,13 @@ d) Um representante das actividades industrial ou agrícola, conforme os casos.
 
 § 4.º A aplicação do preceito a que alude este artigo é extensiva a quaisquer mercadorias que, por estarem propostas a despacho ou por qualquer outra razão, estejam sob a acção directa das estâncias aduaneiras, embora fora delas.
 
-###### Art. 103.º As mercadorias existentes nas alfândegas ou em armazéns sob regime aduaneiro e as que se encontrarem sob a acção fiscal em quaisquer outros locais respondem para com a Fazenda Nacional pelas importâncias das multas, direitos e mais imposições que a ela sejam devidos pelos seus legítimos donos ou consignatários, gozando estes créditos de privilégio mobiliário especial sobre as mercadorias de que trata este artigo, com preferência sobre qualquer outro.
+Art. 103.º As mercadorias existentes nas alfândegas ou em armazéns sob regime aduaneiro e as que se encontrarem sob a acção fiscal em quaisquer outros locais respondem para com a Fazenda Nacional pelas importâncias das multas, direitos e mais imposições que a ela sejam devidos pelos seus legítimos donos ou consignatários, gozando estes créditos de privilégio mobiliário especial sobre as mercadorias de que trata este artigo, com preferência sobre qualquer outro.
 
-###### Art. 104.º Nenhuma autoridade estranha às alfândegas poderá intervir nos serviços da competência dos funcionários aduaneiros, salvo nos casos em que essa intervenção seja por eles requisitada ou autorizada pelos governadores das respectivas províncias.
+Art. 104.º Nenhuma autoridade estranha às alfândegas poderá intervir nos serviços da competência dos funcionários aduaneiros, salvo nos casos em que essa intervenção seja por eles requisitada ou autorizada pelos governadores das respectivas províncias.
 
 #### SECÇÃO III — Das secções
 
-###### Art. 105.º Os serviços das sedes das Alfândegas de Bissau, na província da Guiné, de Luanda e do Lobito, na de Angola, de Lourenço Marques e da Beira, na de Moçambique, e de Mormugão, no Estado da Índia, distribuem-se em cada uma delas por três secções, por uma secretaria e pela tesouraria.
+Art. 105.º Os serviços das sedes das Alfândegas de Bissau, na província da Guiné, de Luanda e do Lobito, na de Angola, de Lourenço Marques e da Beira, na de Moçambique, e de Mormugão, no Estado da Índia, distribuem-se em cada uma delas por três secções, por uma secretaria e pela tesouraria.
 
 § 1.º A 1.ª secção terá a seu cargo:
 
@@ -1148,9 +1260,9 @@ d) Um representante das actividades industrial ou agrícola, conforme os casos.
 
 3.º Os serviços do arquivo geral.
 
-###### Art. 106.º Cada grupo dos serviços mencionados nos diversos números do artigo anterior forma uma subsecção, que terá um encarregado, subordinado directamente ao chefe de secção.
+Art. 106.º Cada grupo dos serviços mencionados nos diversos números do artigo anterior forma uma subsecção, que terá um encarregado, subordinado directamente ao chefe de secção.
 
-###### Art. 107.º Nas alfândegas não designadas no artigo 105.º, os serviços especificados nos §§ 1.º e 2.º ficam atribuídos a uma só secção (1.ª secção), a qual terá quatro subsecções, correspondendo cada uma ao respectivo grupo de serviços especificados naqueles parágrafos, passando os grupos 1.º a 3.º do § 3.º a constituir a 2.ª secção, com as respectivas subsecções. Nestas alfândegas existirão também, dependentes do respectivo director, os serviços da tesouraria e os da secretaria.
+Art. 107.º Nas alfândegas não designadas no artigo 105.º, os serviços especificados nos §§ 1.º e 2.º ficam atribuídos a uma só secção (1.ª secção), a qual terá quatro subsecções, correspondendo cada uma ao respectivo grupo de serviços especificados naqueles parágrafos, passando os grupos 1.º a 3.º do § 3.º a constituir a 2.ª secção, com as respectivas subsecções. Nestas alfândegas existirão também, dependentes do respectivo director, os serviços da tesouraria e os da secretaria.
 
 § 1.º Nas alfândegas mencionadas no corpo do artigo, os encarregados das subsecções poderão ter a seu cargo a direcção dos serviços de duas ou mais subsecções.
 
@@ -1158,11 +1270,11 @@ d) Um representante das actividades industrial ou agrícola, conforme os casos.
 
 § 3.º A 1.ª subsecção da 2.ª secção das alfândegas mencionadas no artigo 105.º, assim como a 3.ª subsecção da 1.ª secção das alfândegas referidas no corpo deste artigo, constituem a secretaria dos serviços de despacho da sede da circunscrição aduaneira.
 
-###### Art. 108.º A secretaria referida no corpo dos artigos 105.º e 107.º depende directamente do director da alfândega e abrange os serviços respeitantes à prestação de termos de fiança e de responsabilidade, assim como os do cartório dos processos fiscais e administrativos, e estará a cargo de um funcionário técnico-aduaneiro de categoria não inferior à de oficial, ou de um escriturário-chefe do quadro auxiliar, que servirá de escrivão.
+Art. 108.º A secretaria referida no corpo dos artigos 105.º e 107.º depende directamente do director da alfândega e abrange os serviços respeitantes à prestação de termos de fiança e de responsabilidade, assim como os do cartório dos processos fiscais e administrativos, e estará a cargo de um funcionário técnico-aduaneiro de categoria não inferior à de oficial, ou de um escriturário-chefe do quadro auxiliar, que servirá de escrivão.
 
-###### Art. 109.º Na secretaria haverá os livros necessários para neles se lavrarem os termos de fiança e de responsabilidade, para garantia dos direitos e mais imposições devidos pelas mercadorias que estejam sob a acção aduaneira. As cartas de garantia bancária serão arquivadas em pastas por ordem da sua entrada na secretaria.
+Art. 109.º Na secretaria haverá os livros necessários para neles se lavrarem os termos de fiança e de responsabilidade, para garantia dos direitos e mais imposições devidos pelas mercadorias que estejam sob a acção aduaneira. As cartas de garantia bancária serão arquivadas em pastas por ordem da sua entrada na secretaria.
 
-###### Art. 110.º Ao cartório dos processos fiscais e administrativos incumbe não só o registo e organização dos processos instaurados por infracções fiscais, como também o registo e organização dos processos de carácter pròpriamente administrativo e que sejam relativos a mercadorias que se encontrem abrangidas por alguns dos seguintes casos:
+Art. 110.º Ao cartório dos processos fiscais e administrativos incumbe não só o registo e organização dos processos instaurados por infracções fiscais, como também o registo e organização dos processos de carácter pròpriamente administrativo e que sejam relativos a mercadorias que se encontrem abrangidas por alguns dos seguintes casos:
 
 1.º As demoradas além dos prazos legais;
 
@@ -1180,9 +1292,9 @@ d) Um representante das actividades industrial ou agrícola, conforme os casos.
 
 8.º Quaisquer outros indicados na lei.
 
-###### Art. 111.º Os serviços da tesouraria ficam directamente dependentes do director da alfândega e possuirão escrituração própria para o movimento de entrada e saída de fundos, sem embargo daquele que, nos termos das leis e regulamentos vigentes, tem de existir na secção ou serviço de contabilidade da sede da alfândega para registo das receitas cobradas, das despesas pagas e dos depósitos em numerário ou noutros valores que hajam sido depositados na tesouraria.
+Art. 111.º Os serviços da tesouraria ficam directamente dependentes do director da alfândega e possuirão escrituração própria para o movimento de entrada e saída de fundos, sem embargo daquele que, nos termos das leis e regulamentos vigentes, tem de existir na secção ou serviço de contabilidade da sede da alfândega para registo das receitas cobradas, das despesas pagas e dos depósitos em numerário ou noutros valores que hajam sido depositados na tesouraria.
 
-###### Art. 112.º Os serviços das tesourarias das alfândegas são constituídos:
+Art. 112.º Os serviços das tesourarias das alfândegas são constituídos:
 
 a) Pela cobrança e arrecadação de todos os rendimentos liquidados pelas estâncias aduaneiras;
 
@@ -1194,9 +1306,9 @@ d) Pelos pagamentos autorizados pela legislação vigente na província;
 
 e) Por quaisquer outras operações indicadas na lei.
 
-###### Art. 113.º Os serviços de organização dos processos sobre litígios técnico-aduaneiros funcionam junto da 1ª subsecção da 2.ª secção nas alfândegas mencionadas no artigo 105.º e na 3.ª subsecção da 1ª secção nas restantes alfândegas e ficam a cargo do funcionário encarregado dos serviços da subsecção, que superintenderá na guarda, conservação e registos do museu de amostras, além de servir de secretário nas conferências de reverificadores ou de verificadores, conforme as alfândegas.
+Art. 113.º Os serviços de organização dos processos sobre litígios técnico-aduaneiros funcionam junto da 1ª subsecção da 2.ª secção nas alfândegas mencionadas no artigo 105.º e na 3.ª subsecção da 1ª secção nas restantes alfândegas e ficam a cargo do funcionário encarregado dos serviços da subsecção, que superintenderá na guarda, conservação e registos do museu de amostras, além de servir de secretário nas conferências de reverificadores ou de verificadores, conforme as alfândegas.
 
-###### Art. 114.º A conferência final dos bilhetes de despacho e de outros documentos efectuar-se-á na subsecção de conferência geral, à qual incumbe:
+Art. 114.º A conferência final dos bilhetes de despacho e de outros documentos efectuar-se-á na subsecção de conferência geral, à qual incumbe:
 
 1.º A fiscalização das verbas escrituradas nos livros de receita, confrontando-as com as que constam dos diversos documentos receitados nas alfândegas;
 
@@ -1216,21 +1328,21 @@ e) Por quaisquer outras operações indicadas na lei.
 
 9.º Fazer a remessa para o arquivo geral de todos os documentos, depois de revistos ou conferidos.
 
-###### Art. 115.º A conferência final dos diversos bilhetes consiste em verificar se todos os trâmites de despacho foram cumpridos, de harmonia com os preceitos legais ou regulamentares e ainda com as determinações superiores, examinando todos os elementos referentes à tributação, as origens e procedências, os regimes especiais, incluindo as respectivas autorizações e restrições, os adicionais, os impostos especiais e locais, a especificação pautal das mercadorias, a contagem dos respectivos direitos, e observar a existência de quaisquer alterações ou rasuras não ressalvadas.
+Art. 115.º A conferência final dos diversos bilhetes consiste em verificar se todos os trâmites de despacho foram cumpridos, de harmonia com os preceitos legais ou regulamentares e ainda com as determinações superiores, examinando todos os elementos referentes à tributação, as origens e procedências, os regimes especiais, incluindo as respectivas autorizações e restrições, os adicionais, os impostos especiais e locais, a especificação pautal das mercadorias, a contagem dos respectivos direitos, e observar a existência de quaisquer alterações ou rasuras não ressalvadas.
 
 § 1.º Depois de terminada a conferência do bilhete, o funcionário dela incumbido datará e aporá a sua rubrica no local para esse fim designado.
 
 § 2.º Todos os bilhetes ou outros documentos conferidos pelos funcionários em cada dia serão relacionados por números de receita e remetidos ao arquivo.
 
-###### Art. 116.º Para cumprimento das disposições contidas nos artigos 114.º e 115.º, a subsecção de conferência geral poderá requisitar ou examinar nas diversas secções ou serviços quaisquer documentos de que necessite. Quando se trate de documentos de natureza confidencial, só poderão ser facultados quando o director da alfândega conceda a devida autorização.
+Art. 116.º Para cumprimento das disposições contidas nos artigos 114.º e 115.º, a subsecção de conferência geral poderá requisitar ou examinar nas diversas secções ou serviços quaisquer documentos de que necessite. Quando se trate de documentos de natureza confidencial, só poderão ser facultados quando o director da alfândega conceda a devida autorização.
 
-###### Art. 117.º As direcções ou repartições provinciais dos serviços das alfândegas estabelecerão, em ordem de serviço, a forma por que devem ser enviados à subsecção de conferência geral os bilhetes de despacho e os demais documentos que tenham de ser submetidos ao seu exame e que hajam sido processados nas sedes das alfândegas.
+Art. 117.º As direcções ou repartições provinciais dos serviços das alfândegas estabelecerão, em ordem de serviço, a forma por que devem ser enviados à subsecção de conferência geral os bilhetes de despacho e os demais documentos que tenham de ser submetidos ao seu exame e que hajam sido processados nas sedes das alfândegas.
 
-###### Art. 118.º Os bilhetes e outros documentos de receita processados nas delegações e postos de despacho serão conferidos na subsecção de conferência geral da sede da respectiva alfândega, para onde serão remetidos nos períodos que forem fixados pelo director ou chefe provincial dos serviços das alfândegas, sem prejuízo das conferências acidentais que possam ser feitas pelos funcionários incumbidos do serviço de inspecções.
+Art. 118.º Os bilhetes e outros documentos de receita processados nas delegações e postos de despacho serão conferidos na subsecção de conferência geral da sede da respectiva alfândega, para onde serão remetidos nos períodos que forem fixados pelo director ou chefe provincial dos serviços das alfândegas, sem prejuízo das conferências acidentais que possam ser feitas pelos funcionários incumbidos do serviço de inspecções.
 
-###### Art. 119.º Os funcionários que desempenhem as funções de reverificação, verificação, contador ou conferente preencherão uma nota de serviço diário prestado conforme os modelos prescritos na [Portaria n.º 9867](https://diariodarepublica.pt/dr/detalhe/portaria/9867-1941-356902), de 25 de Agosto de 1941, a qual será remetida à subsecção de conferência geral para efeitos do n.º 7.º do artigo 114.º deste estatuto.
+Art. 119.º Os funcionários que desempenhem as funções de reverificação, verificação, contador ou conferente preencherão uma nota de serviço diário prestado conforme os modelos prescritos na [Portaria n.º 9867](https://diariodarepublica.pt/dr/detalhe/portaria/9867-1941-356902), de 25 de Agosto de 1941, a qual será remetida à subsecção de conferência geral para efeitos do n.º 7.º do artigo 114.º deste estatuto.
 
-###### Art. 120.º Da direcção dos serviços da subsecção de conferência geral será encarregado, em regra, um funcionário em serviço de reverificação, o qual será coadjuvado na execução desses serviços pelos funcionários que os directores das alfândegas designem especialmente para esse fim.
+Art. 120.º Da direcção dos serviços da subsecção de conferência geral será encarregado, em regra, um funcionário em serviço de reverificação, o qual será coadjuvado na execução desses serviços pelos funcionários que os directores das alfândegas designem especialmente para esse fim.
 
 § único. Nas alfândegas onde não existam funcionários incumbidos exclusivamente do serviço de reverificação será encarregado dos serviços da subsecção de conferência geral um funcionário técnico-aduaneiro designado pelo respectivo director.
 
@@ -1238,7 +1350,7 @@ e) Por quaisquer outras operações indicadas na lei.
 
 ### CAPÍTULO I — Dos diversos quadros aduaneiros
 
-###### Art. 121.º O pessoal dos serviços das alfândegas do ultramar distribui-se pelos quadros seguintes:
+Art. 121.º O pessoal dos serviços das alfândegas do ultramar distribui-se pelos quadros seguintes:
 
 1.º Quadro técnico;
 
@@ -1260,17 +1372,17 @@ a) Fiscalização marítima e fluvial;
 
 b) Guarda Fiscal.
 
-###### Art. 122.º Os quadros do pessoal mencionados no artigo anterior são privativos de cada província, excepto o quadro técnico, que é comum a todas as províncias nas categorias superiores à de reverificador, assim como no quadro dos serviços de laboratório os respectivos chefes.
+Art. 122.º Os quadros do pessoal mencionados no artigo anterior são privativos de cada província, excepto o quadro técnico, que é comum a todas as províncias nas categorias superiores à de reverificador, assim como no quadro dos serviços de laboratório os respectivos chefes.
 
 § único. Pertencem ao quadro técnico-aduaneiro comum do ultramar os funcionários mencionados nas alínea a) a c) do corpo do artigo 126.º e aos quadros privativos de cada província os mencionados nas alíneas d) a g) do mesmo artigo.
 
-###### Art. 123.º Todo o pessoal dos quadros mencionados no artigo 121.º pertence ao sexo masculino, excepto o dos serviços de selagem e as apalpadeiras. Podem pertencer também ao sexo feminino os chefes, os analistas e preparadores de laboratório, o pessoal de dactilografia e de estenodactilografia, assim como os escriturários das direcções provinciais em número não superior a dois terços do fixado no respectivo quadro para aquelas direcções e de um terço para as sedes das alfândegas.
+Art. 123.º Todo o pessoal dos quadros mencionados no artigo 121.º pertence ao sexo masculino, excepto o dos serviços de selagem e as apalpadeiras. Podem pertencer também ao sexo feminino os chefes, os analistas e preparadores de laboratório, o pessoal de dactilografia e de estenodactilografia, assim como os escriturários das direcções provinciais em número não superior a dois terços do fixado no respectivo quadro para aquelas direcções e de um terço para as sedes das alfândegas.
 
-###### Art. 124.º Aos concursos para ingresso nos quadros aduaneiros privativos, exceptuado o técnico, abertos em cada província só poderão ser admitidos indivíduos nelas domiciliados, salvo nos casos prescritos neste estatuto.
+Art. 124.º Aos concursos para ingresso nos quadros aduaneiros privativos, exceptuado o técnico, abertos em cada província só poderão ser admitidos indivíduos nelas domiciliados, salvo nos casos prescritos neste estatuto.
 
 § único. Em igualdade de valorização nos concursos de ingresso, documentais ou de provas práticas, terão preferência os candidatos que sejam naturais da respectiva província.
 
-###### Art. 125.º O pessoal dos quadros referidos no artigo 121.º é de nomeação, excepto os trabalhadores do quadro do tráfego, os remadores da fiscalização marítima e fluvial e o dos serviços acessórios, que são contratados ou assalariados, conforme os casos previstos no Estatuto do Funcionalismo Ultramarino.
+Art. 125.º O pessoal dos quadros referidos no artigo 121.º é de nomeação, excepto os trabalhadores do quadro do tráfego, os remadores da fiscalização marítima e fluvial e o dos serviços acessórios, que são contratados ou assalariados, conforme os casos previstos no Estatuto do Funcionalismo Ultramarino.
 
 § 1.º Passam a ser de nomeação os maquinistas, motoristas e auxiliares de verificação do quadro do tráfego, assim como os patrões, maquinistas, motoristas e fogueiros do quadro da fiscalização marítima e fluvial que à data da publicação deste estatuto estejam na situação de contratados ou de assalariados, desde que possuam como habilitações mínimas o exame da 4.ª classe da instrução primária ou equivalente.
 
@@ -1280,7 +1392,7 @@ b) Guarda Fiscal.
 
 #### SECÇÃO I — Da distribuição pelas suas diversas categorias
 
-###### Art. 126.º As diversas categorias do pessoal do quadro ténico-aduaneiro do ultramar distribuem-se por dois grupos, formando o primeiro o quadro comum a todas as províncias e o segundo os quadros privativos de cada província, e terão as designações seguintes:
+Art. 126.º As diversas categorias do pessoal do quadro ténico-aduaneiro do ultramar distribuem-se por dois grupos, formando o primeiro o quadro comum a todas as províncias e o segundo os quadros privativos de cada província, e terão as designações seguintes:
 
 a) Director de serviços;
 
@@ -1298,15 +1410,15 @@ g) Oficial estagiário.
 
 § único. Os directores de serviços colocados nos serviços aduaneiros do Ministério do Ultramar são funcionários do Ministério, embora pertencendo ao quadro técnico-aduaneiro comum, nos termos do artigo 133.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957. Quando em serviço de inspecção em qualquer província ultramarina, têm a categoria constante da letra D do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
 
-###### Art. 127.º Ingressam na categoria de oficial estagiário, de oficial, de verificador, de reverificador e de reverificador-chefe os actuais aspirantes, terceiros, segundos, primeiros-verificadores e chefes de serviço, respectivamente.
+Art. 127.º Ingressam na categoria de oficial estagiário, de oficial, de verificador, de reverificador e de reverificador-chefe os actuais aspirantes, terceiros, segundos, primeiros-verificadores e chefes de serviço, respectivamente.
 
 § único. Ingressam também na categoria de oficial estagiário os actuais aspirantes de nomeação interina, assim como os escriturários do quadro auxiliai que já tenham sido reconduzidos, desde que qualquer deles possua como habilitações mínimas o 3.º ciclo do ensino liceal e boas informações.
 
-###### Art. 128.º O pessoal do quadro técnico-aduaneiro do ultramar é o que consta do quadro VIII anexo a este estatuto.
+Art. 128.º O pessoal do quadro técnico-aduaneiro do ultramar é o que consta do quadro VIII anexo a este estatuto.
 
 #### SECÇÃO II — Das funções do pessoal do quadro técnico
 
-###### Art. 129.º As funções que incumbem às diversas categorias do quadro técnico, salvo as que estão atribuídas ao inspector superior e que constam do artigo 51.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, e de leis especiais, são as que a seguir vão designadas e são inerentes aos respectivos cargos:
+Art. 129.º As funções que incumbem às diversas categorias do quadro técnico, salvo as que estão atribuídas ao inspector superior e que constam do artigo 51.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, e de leis especiais, são as que a seguir vão designadas e são inerentes aos respectivos cargos:
 
 1.º Aos directores de serviços:
 
@@ -1374,17 +1486,17 @@ c) De verificação.
 
 § 3.º As funções atribuídas aos oficiais serão desempenhadas, na falta destes, por oficiais estagiários, sem prejuízo das disposições do artigo 147.º, e, na falta ou impedimento destes, por escriturários-chefe ou de 1.ª classe do quadro auxiliar.
 
-###### Art. 130.º Os directores dos Serviços das Alfândegas são substituídos, nas províncias de Angola e de Moçambique, durante a sua ausência ou impedimento legal, pelo respectivo adjunto, e, na ausência ou impedimento legal deste, pelo director da alfândega local. No Estado da Índia, o director dos Serviços é substituído pelo director da Alfândega de Mormugão e, na falta deste, pelo chefe da Repartição da Direcção Provincial dos Serviços das Alfândegas.
+Art. 130.º Os directores dos Serviços das Alfândegas são substituídos, nas províncias de Angola e de Moçambique, durante a sua ausência ou impedimento legal, pelo respectivo adjunto, e, na ausência ou impedimento legal deste, pelo director da alfândega local. No Estado da Índia, o director dos Serviços é substituído pelo director da Alfândega de Mormugão e, na falta deste, pelo chefe da Repartição da Direcção Provincial dos Serviços das Alfândegas.
 
 § 1.º Nas províncias de governo simples, o chefe da Repartição Provincial dos Serviços das Alfândegas é substituído pelo subdirector da alfândega local. Na de Cabo Verde, o chefe da Repartição é substituído, no caso de ausência do território da província, pelo director da Alfândega do Mindelo, se este tiver a categoria de reverificador-chefe.
 
 § 2.º Nas alfândegas mencionadas no artigo 105.º, o subdirector será substituído, na sua ausência ou impedimento legal, por um reverificador em serviço de reverificação, nomeado pelo governador, sob proposta do director ou chefe provincial dos serviços, conforme as províncias.
 
-###### Art. 131.º O exercício dos cargos referidos no n.º 1.º e nas alíneas a) dos n.os 2.º e 3.º do artigo 129.º são considerados como comissão ordinária para os efeitos prescritos no Estatuto do Funcionalismo Ultramarino, sendo da competência do Ministro do Ultramar a nomeação dos funcionários para tais cargos.
+Art. 131.º O exercício dos cargos referidos no n.º 1.º e nas alíneas a) dos n.os 2.º e 3.º do artigo 129.º são considerados como comissão ordinária para os efeitos prescritos no Estatuto do Funcionalismo Ultramarino, sendo da competência do Ministro do Ultramar a nomeação dos funcionários para tais cargos.
 
-###### Art. 132.º Os cargos ou funções prescritos nas restantes alíneas dos n.os 2.º e 3.º do artigo 129.º, assim como os mencionados nas alíneas a) a c) do n.º 4.º do mesmo artigo e ainda as funções de chefe de uma estância aduaneira extra-urbana, serão exercidos em comissão de dois anos, prorrogável se os respectivos funcionários tiverem boas informações.
+Art. 132.º Os cargos ou funções prescritos nas restantes alíneas dos n.os 2.º e 3.º do artigo 129.º, assim como os mencionados nas alíneas a) a c) do n.º 4.º do mesmo artigo e ainda as funções de chefe de uma estância aduaneira extra-urbana, serão exercidos em comissão de dois anos, prorrogável se os respectivos funcionários tiverem boas informações.
 
-###### Art. 133.º As nomeações dos funcionários para o desempenho das restantes funções especificadas no artigo 129.º competem:
+Art. 133.º As nomeações dos funcionários para o desempenho das restantes funções especificadas no artigo 129.º competem:
 
 a) Ao governador, todas as mencionadas naquele artigo, com excepção das referidas no artigo 131.º e nas alíneas seguintes;
 
@@ -1396,11 +1508,11 @@ d) Aos chefes das repartições da direcção provincial dos serviços, aos chef
 
 § único. A colocação do pessoal dos diversos quadros aduaneiros em cargos ou funções que impliquem deslocações de que resultem quaisquer despesas a satisfazer pelas verbas do orçamento da província será efectuada pelo governador, sob proposta do director ou chefe provincial dos serviços das alfândegas.
 
-###### Art. 134.º Não podem ser colocados em qualquer secção das Direcções Provinciais dos Serviços das Alfândegas, ou das sedes das circunscrições aduaneiras, assim como em qualquer estância aduaneira, funcionários de categoria superior a do respectivo chefe, embora possam ser colocados outros mais antigos de igual categoria.
+Art. 134.º Não podem ser colocados em qualquer secção das Direcções Provinciais dos Serviços das Alfândegas, ou das sedes das circunscrições aduaneiras, assim como em qualquer estância aduaneira, funcionários de categoria superior a do respectivo chefe, embora possam ser colocados outros mais antigos de igual categoria.
 
 § único. A disposição do corpo do artigo não é aplicável aos funcionários incumbidos dos serviços de reverificação, que dependem, tanto nas sedes das alfândegas como nas estâncias aduaneiras urbanas, do chefe do serviço de despacho.
 
-###### Art. 135.º As funções inerentes ao serviço de reverificação nas casas de despacho e delegações urbanas serão desempenhadas, normalmente, por funcionários da categoria de reverificador, sem embargo daquelas que, no uso das suas atribuições, podem também ser exercidas pelo chefe do serviço do despacho das sedes das alfândegas mencionadas nos artigos 105.º e 107.º deste estatuto ou pelo seu substituto legal, assim como pelos directores das alfândegas mencionadas naqueles artigos, quando se verifiquem as circunstâncias prescritas no § 2.º do artigo 288.º deste estatuto.
+Art. 135.º As funções inerentes ao serviço de reverificação nas casas de despacho e delegações urbanas serão desempenhadas, normalmente, por funcionários da categoria de reverificador, sem embargo daquelas que, no uso das suas atribuições, podem também ser exercidas pelo chefe do serviço do despacho das sedes das alfândegas mencionadas nos artigos 105.º e 107.º deste estatuto ou pelo seu substituto legal, assim como pelos directores das alfândegas mencionadas naqueles artigos, quando se verifiquem as circunstâncias prescritas no § 2.º do artigo 288.º deste estatuto.
 
 § 1.º Exercerão também funções de reverificação os directores das alfândegas mencionadas no § 2.º do artigo 107.º, assim como os reverificadores e verificadores que estejam substituindo os directores ou subdirectores de quaisquer alfândegas, ou desempenhem as funções de chefe de uma casa de despacho urbana, quando não existam reverificadores designados para estas casas de despacho.
 
@@ -1410,7 +1522,7 @@ d) Aos chefes das repartições da direcção provincial dos serviços, aos chef
 
 #### SECÇÃO III — Do provimento das diversas categorias do quadro técnico
 
-###### Art. 136.º O provimento dos lugares de oficial estagiário será efectuado por meio de concurso documental, aberto no Ministério do Ultramar e na respectiva província ultramarina, a que serão admitidos os indivíduos que possuam qualquer das seguintes habilitações:
+Art. 136.º O provimento dos lugares de oficial estagiário será efectuado por meio de concurso documental, aberto no Ministério do Ultramar e na respectiva província ultramarina, a que serão admitidos os indivíduos que possuam qualquer das seguintes habilitações:
 
 1.º Diplomados com qualquer dos cursos do Instituto Superior de Estudos Ultramarinos, os licenciados em Economia pelo Instituto Superior de Ciências Económicas e Financeiras, os licenciados em Ciências Físico-Químicas, Geofísicas ou Geológicas pelas Faculdades de Ciências e os licenciados em Direito;
 
@@ -1428,23 +1540,23 @@ d) Aos chefes das repartições da direcção provincial dos serviços, aos chef
 
 § 5.º Os requerimentos de admissão ao concurso aberto nas províncias ultramarinas serão entregues pelos candidatos referidos no parágrafo anterior, dentro do prazo fixado no respectivo aviso, na Direcção ou Repartição Provincial dos Serviços das Alfândegas, conforme as províncias.
 
-###### Art. 137.º A classificação dos candidatos aos lugares de oficial estagiário será efectuada separadamente para cada um dos grupos mencionados no corpo do artigo anterior e conforme a valorização que constar da sua carta de curso ou da certidão das habilitações literárias ou científicas que tiverem apresentado para efeito de admissão a concurso, tendo preferência, em igualdade de classificação quanto aos candidatos do primeiro grupo, os que possuírem qualquer dos cursos do Instituto Superior de Estudos Ultramarinos. A classificação dos candidatos referidos no § 1.º do artigo anterior será efectuada pelo júri referido no artigo 258.º, sendo as respectivas listas de classificação enviadas ao governo da respectiva província e sendo-lhes também extensivas as disposições do § 2.º do artigo 246.º deste estatuto, na parte aplicável.
+Art. 137.º A classificação dos candidatos aos lugares de oficial estagiário será efectuada separadamente para cada um dos grupos mencionados no corpo do artigo anterior e conforme a valorização que constar da sua carta de curso ou da certidão das habilitações literárias ou científicas que tiverem apresentado para efeito de admissão a concurso, tendo preferência, em igualdade de classificação quanto aos candidatos do primeiro grupo, os que possuírem qualquer dos cursos do Instituto Superior de Estudos Ultramarinos. A classificação dos candidatos referidos no § 1.º do artigo anterior será efectuada pelo júri referido no artigo 258.º, sendo as respectivas listas de classificação enviadas ao governo da respectiva província e sendo-lhes também extensivas as disposições do § 2.º do artigo 246.º deste estatuto, na parte aplicável.
 
 § 1.º A nomeação dos candidatos far-se-á alternadamente pela ordem dos grupos estabelecida no corpo do artigo anterior e, dentro de cada grupo, conforme a ordem da respectiva classificação.
 
 § 2.º Se não existirem candidatos num dos grupos ou se a respectiva lista se esgotar antes do termo da validade do concurso, serão as vagas que deveriam competir aos candidatos desse grupo providas alternadamente nos candidatos dos outros dois grupos. Se antes do termo de validade do concurso se esgotar a lista de um dos dois grupos restantes, serão as vagas que deveriam competir aos candidatos desse grupo providas pelos do grupo cuja lista ainda se não haja esgotado antes do termo da validade do concurso.
 
-###### Art. 138.º Se os concursos abertos para provimento dos lugares de oficial estagiário nas províncias de Angola e de Moçambique ou em quaisquer outras em que existam escolas técnicas comerciais ou liceus onde se ministre o ensino das disciplinas mencionadas na parte final do § 3.º do artigo 136.º ficarem desertos, abrir-se-á novo concurso naquelas províncias, a que serão admitidos os candidatos nelas domiciliados que possuam as habilitações mencionadas no n.º 3.º do artigo 136.º, para provimento do terço das vagas que lhes couberem, conforme as disposições do artigo anterior. Serão também admitidos a este concurso os indivíduos habilitados com o curso geral de Comércio e com as duas referidas disciplinas.
+Art. 138.º Se os concursos abertos para provimento dos lugares de oficial estagiário nas províncias de Angola e de Moçambique ou em quaisquer outras em que existam escolas técnicas comerciais ou liceus onde se ministre o ensino das disciplinas mencionadas na parte final do § 3.º do artigo 136.º ficarem desertos, abrir-se-á novo concurso naquelas províncias, a que serão admitidos os candidatos nelas domiciliados que possuam as habilitações mencionadas no n.º 3.º do artigo 136.º, para provimento do terço das vagas que lhes couberem, conforme as disposições do artigo anterior. Serão também admitidos a este concurso os indivíduos habilitados com o curso geral de Comércio e com as duas referidas disciplinas.
 
-###### Art. 139.º Enquanto não existir na província de Timor um estabelecimento liceal onde se ministre o ensino do 3.º ciclo, serão admitidos ao concurso para oficial estagiário aberto naquela província indivíduos habilitados com o 2.º ciclo do ensino liceal ou com o curso geral de Comércio, para provimento das vagas nas condições prescritas no artigo 137.º, tendo preferência, em igualdade de valorização, os candidatos que possuam o curso geral de Comércio.
+Art. 139.º Enquanto não existir na província de Timor um estabelecimento liceal onde se ministre o ensino do 3.º ciclo, serão admitidos ao concurso para oficial estagiário aberto naquela província indivíduos habilitados com o 2.º ciclo do ensino liceal ou com o curso geral de Comércio, para provimento das vagas nas condições prescritas no artigo 137.º, tendo preferência, em igualdade de valorização, os candidatos que possuam o curso geral de Comércio.
 
-###### Art. 140.º Serão convocados obrigatòriamente para o concurso de promoção a oficial que seja aberto na respectiva província os oficiais estagiários que tenham desempenhado as funções prescritas no artigo 147.º e hajam obtido a recondução nas condições referidas na alínea b) do artigo 27.º do Estatuto do Funcionalismo Ultramarino.
+Art. 140.º Serão convocados obrigatòriamente para o concurso de promoção a oficial que seja aberto na respectiva província os oficiais estagiários que tenham desempenhado as funções prescritas no artigo 147.º e hajam obtido a recondução nas condições referidas na alínea b) do artigo 27.º do Estatuto do Funcionalismo Ultramarino.
 
 § 1.º As disposições do corpo do artigo são extensivas aos antigos aspirantes de nomeação definitiva que ingressaram na categoria de oficial estagiário, assim como aos que, embora não tenham obtido a sua nomeação definitiva, hajam prestado mais de um ano de serviço com boas informações numa estância aduaneira extra-urbana e tenham sido reconduzidos.
 
 § 2.º Os oficiais estagiários e os antigos aspirantes que ingressaram naquela categoria poderão requerer a sua admissão ao concurso aberto para promoção à categoria de verificador, desde que possuam qualquer dos cursos mencionados no n.º 1.º do artigo 136.º, estejam nas condições prescritas na parte final do corpo do artigo e tenham boas informações.
 
-###### Art. 141.º Serão admitidos ao concurso de promoção à categoria de verificador, de reverificador e de reverificador-chefe, respectivamente, os oficiais, verificadores e reverificadores que hajam desempenhado as funções a seguir especificadas durante, pelo menos, um ano em cada uma delas, embora com carácter interino.
+Art. 141.º Serão admitidos ao concurso de promoção à categoria de verificador, de reverificador e de reverificador-chefe, respectivamente, os oficiais, verificadores e reverificadores que hajam desempenhado as funções a seguir especificadas durante, pelo menos, um ano em cada uma delas, embora com carácter interino.
 
 1.º Para a categoria de verificador:
 
@@ -1474,13 +1586,13 @@ b) De reverificação numa casa de despacho urbana.
 
 Na província de S. Tomé e Princípe, as funções de chefe da estância aduaneira do Príncipe serão exercidas anualmente, por escala, por um oficial.
 
-###### Art. 142.º São convocados obrigatòriamente para concurso de promoção à categoria imediata os oficiais verificadores e reverificadores que hajam completado cinco anos de serviço na respectiva categoria, quer hajam ou não satisfeito às condições prescritas no artigo anterior.
+Art. 142.º São convocados obrigatòriamente para concurso de promoção à categoria imediata os oficiais verificadores e reverificadores que hajam completado cinco anos de serviço na respectiva categoria, quer hajam ou não satisfeito às condições prescritas no artigo anterior.
 
 § 1.º Não serão convocados para os concursos de promoção aos lugares de reverificador-chefe do quadro técnico-aduaneiro comum do ultramar os reverificadores dos quadros privativos das diversas províncias ultramarinas que não possuam um curso superior, salvo nos casos de haverem ingressado no quadro técnico-aduaneiro antes da entrada em vigor do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956.
 
 § 2.º Aos concursos para promoção no quadro técnico-aduaneiro são aplicáveis as disposições dos artigos 68.º a 70.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 143.º Os terceiros-oficiais do quadro dos serviços aduaneiros do Ministério do Ultramar diplomados com um curso superior que possuam mais de dois anos de efectivo serviço com boas informações e tenham desempenhado as funções de caixeiro-despachante junto da Alfândega de Lisboa, ou realizado o estágio prescrito no artigo 52.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, podem requerer a admissão ao concurso para promoção à categoria de verificador do quadro privativo de qualquer província que nela haja sido aberto.
+Art. 143.º Os terceiros-oficiais do quadro dos serviços aduaneiros do Ministério do Ultramar diplomados com um curso superior que possuam mais de dois anos de efectivo serviço com boas informações e tenham desempenhado as funções de caixeiro-despachante junto da Alfândega de Lisboa, ou realizado o estágio prescrito no artigo 52.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, podem requerer a admissão ao concurso para promoção à categoria de verificador do quadro privativo de qualquer província que nela haja sido aberto.
 
 § 1.º A disposição do corpo do artigo é extensiva aos segundos-oficiais dos referidos serviços com mais de dois anos de bom e efectivo serviço, assim como aos primeiros-oficiais com qualquer tempo de serviço, para efeito de admissão aos concursos para promoção à categoria de reverificador, desde que possuam iguais habilitações e as restantes condições nele prescritas, os quais serão incluídos, quando aprovados, na lista referida no artigo 246.º, de harmonia com a classificarão que lhes houver sido atribuída no respectivo concurso.
 
@@ -1488,11 +1600,11 @@ Na província de S. Tomé e Princípe, as funções de chefe da estância aduane
 
 § 3.º Os actuais terceiros, segundos e primeiros-verificadores do quadro técnico-aduaneiro privativo de qualquer província que estejam prestando eventualmente serviço na Comissão Revisora das Pautas Aduaneiras do Ultramar podem ingressar nas vagas que existam no quadro dos serviços aduaneiros do Ministério do Ultramar correspondentes às categorias que possuam à data da publicação deste estatuto, salvo no caso de terem sido aprovados em concurso para promoção à categoria imediata no quadro da província a que pertencem, os quais poderão ingressar na categoria correspondente àquela para que concorreram antes da publicação daquele diploma.
 
-###### Art. 144.º Os funcionários que aproveitarem das disposições do artigo anterior prestarão as suas provas perante o júri referido no artigo 258.º e serão transferidos para as respectivas províncias logo que sejam promovidos.
+Art. 144.º Os funcionários que aproveitarem das disposições do artigo anterior prestarão as suas provas perante o júri referido no artigo 258.º e serão transferidos para as respectivas províncias logo que sejam promovidos.
 
 § único. Para cumprimento da disposição deste artigo será dado conhecimento ao Ministério da portaria de nomeação, para efeitos da transferência referida no corpo do artigo.
 
-###### Art. 145.º Os lugares de chefes de serviço são providos, sem prejuízo do disposto na parte final da regra 1.ª do n.º V da base XLI da Lei Orgânica do Ultramar e sob parecer do júri referido no artigo 258.º, constituído em comissão consultiva, por reverificadores-chefes que, tendo mais de três anos de serviço nesta categoria, hajam desempenhado, com boas informações reveladoras de muita competência, confirmadas em louvores ou nos relatórios dos inspectores, durante um ano, embora interinamente, o cargo referido na alínea b) do artigo 33.º, ou o de director ou de subdirector de uma das alfândegas mencionadas no corpo dos artigos 105.º e 107.º Terão preferência, pela respectiva ordem, os que:
+Art. 145.º Os lugares de chefes de serviço são providos, sem prejuízo do disposto na parte final da regra 1.ª do n.º V da base XLI da Lei Orgânica do Ultramar e sob parecer do júri referido no artigo 258.º, constituído em comissão consultiva, por reverificadores-chefes que, tendo mais de três anos de serviço nesta categoria, hajam desempenhado, com boas informações reveladoras de muita competência, confirmadas em louvores ou nos relatórios dos inspectores, durante um ano, embora interinamente, o cargo referido na alínea b) do artigo 33.º, ou o de director ou de subdirector de uma das alfândegas mencionadas no corpo dos artigos 105.º e 107.º Terão preferência, pela respectiva ordem, os que:
 
 a) Hajam servido em mais de uma província, ou, dentro da mesma província, num maior número de estâncias aduaneiras extra-urbanas, preferindo os que tenham mais tempo de permanência nestas, ou ainda nas sedes das alfândegas que não sejam a da capital da província, quanto ao Estado da Índia e província de Cabo Verde;
 
@@ -1506,7 +1618,7 @@ d) Possuam maior número de habilitações adequadas ao exercício de funções 
 
 § 2.º Poderá o Ministro do Ultramar reduzir para um ano o prazo prescrito no corpo do artigo em relação aos reverificadores-chefes promovidos ao abrigo das condições prescritas no artigo 149.º, quando no decurso daquele período hajam exercido com boas informações qualquer dos cargos especificados no n.º 3.º do artigo 129.º Poderá também promover à categoria de chefe de serviço os antigos primeiros-verificadores que à data da publicação deste estatuto tenham mais de três anos de serviço nesta categoria, a classificação de Bom no concurso para a mesma e hajam desempenhado com boas informações, além dos cargos referidos neste artigo, o de chefe de uma estância aduaneira extra-urbana em qualquer das categorias do quadro técnico, durante pelo menos um ano, tendo preferência pela respectiva ordem os que hajam efectuado o estágio nas alfândegas metropolitanas ou possuam as condições prescritas nas diversas alíneas deste artigo.
 
-###### Art. 146.º Os lugares de director de serviços são providos, sem prejuízo do disposto na parte final da regra 1.ª do n.º V da base XLI da Lei Orgânica do Ultramar, em chefes de serviços que tenham mais de três anos de bom e efectivo serviço na respectiva categoria, sob parecer do júri referido no artigo 258.º, constituído em comissão consultiva, tomando-se em consideração, para fundamento dos respectivos pareceres, não só as preferencias referidas no artigo anterior que concorram naqueles funcionários como também o facto de terem servido em mais de uma província ou no quadro técnico-aduaneiro metropolitano.
+Art. 146.º Os lugares de director de serviços são providos, sem prejuízo do disposto na parte final da regra 1.ª do n.º V da base XLI da Lei Orgânica do Ultramar, em chefes de serviços que tenham mais de três anos de bom e efectivo serviço na respectiva categoria, sob parecer do júri referido no artigo 258.º, constituído em comissão consultiva, tomando-se em consideração, para fundamento dos respectivos pareceres, não só as preferencias referidas no artigo anterior que concorram naqueles funcionários como também o facto de terem servido em mais de uma província ou no quadro técnico-aduaneiro metropolitano.
 
 § 1.º O primeiro provimento dos lugares de director de serviços criados por este estatuto poderá recair, sem prejuízo das disposições da regra 1.ª do n.º V da base XLI da Lei Orgânica do Ultramar, no actual chefe da Repartição das Alfândegas e nos actuais inspectores, assim como nos actuais chefes de serviço que tenham exercido durante mais de dois anos, com boas informações, qualquer dos seguintes cargos, desde que tal exercício não haja cessado há mais de dois anos:
 
@@ -1518,17 +1630,17 @@ b) Chefe da repartição provincial dos mesmos serviços no Estado da Índia ou 
 
 § 3.º São extensivas ao actual chefe de repartição e aos actuais inspectores do quadro dos serviços aduaneiros do Ministério do Ultramar que forem providos nos lugares de director de serviços ao abrigo das disposições do parágrafo anterior as disposições do § 1.º do artigo 157.º e do § único do artigo 158.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, na parte aplicável.
 
-###### Art. 147.º Os oficiais estagiários só poderão prestar serviço nas sedes das alfândegas ou em delegações de 1.ª classe, não devendo, em regra, ser colocado mais de um estagiário nestas delegações. Durante o primeiro ano de estágio desempenharão todas as funções de carácter fiscal e administrativo, tanto nas sedes das alfândegas como nas delegações, e, durante o segundo ano, as de verificação sendo tais funções exercidas, quanto às sedes das alfândegas, em qualquer casa de despacho ou delegação aduaneira urbana.
+Art. 147.º Os oficiais estagiários só poderão prestar serviço nas sedes das alfândegas ou em delegações de 1.ª classe, não devendo, em regra, ser colocado mais de um estagiário nestas delegações. Durante o primeiro ano de estágio desempenharão todas as funções de carácter fiscal e administrativo, tanto nas sedes das alfândegas como nas delegações, e, durante o segundo ano, as de verificação sendo tais funções exercidas, quanto às sedes das alfândegas, em qualquer casa de despacho ou delegação aduaneira urbana.
 
 § único. As disposições deste artigo são aplicáveis aos actuais aspirantes que transitem para a classe de oficial estagiário, salvo no caso de já terem prestado serviço durante mais de um ano em qualquer estância aduaneira extra-urbana ou na província de S. Tomé e Príncipe.
 
-###### Art. 148.º Os directores e chefes provinciais dos serviços das alfândegas tomarão as providências necessárias a fim de que os oficiais estagiários, os oficiais, verificadores e reverificadores realizem em devido tempo os estágios exigidos nos artigos 141.º e 147.º para admissão aos concursos de promoção às categorias imediatamente superiores. Aos directores das alfândegas e chefes das delegações aduaneiras de 1.ª classe compete providenciar por forma que os oficiais estagiários sejam colocados, durante os períodos indicados no artigo anterior, por todos os diversos serviços, tanto das sedes das alfândegas como daquelas delegações.
+Art. 148.º Os directores e chefes provinciais dos serviços das alfândegas tomarão as providências necessárias a fim de que os oficiais estagiários, os oficiais, verificadores e reverificadores realizem em devido tempo os estágios exigidos nos artigos 141.º e 147.º para admissão aos concursos de promoção às categorias imediatamente superiores. Aos directores das alfândegas e chefes das delegações aduaneiras de 1.ª classe compete providenciar por forma que os oficiais estagiários sejam colocados, durante os períodos indicados no artigo anterior, por todos os diversos serviços, tanto das sedes das alfândegas como daquelas delegações.
 
-###### Art. 149.º Ficam dispensados da prestação de provas de novo concurso a realizar para a promoção à categoria de reverificador-chefe, para provimento das vagas que ocorrerem nesta categoria, os actuais primeiros-verificadores, assim como os actuais segundos-verificadores já aprovados em concurso, durante o seu prazo de validade, ou, passado este prazo, os que tenham a classificação de Bom, enquanto não for aberto novo concurso.
+Art. 149.º Ficam dispensados da prestação de provas de novo concurso a realizar para a promoção à categoria de reverificador-chefe, para provimento das vagas que ocorrerem nesta categoria, os actuais primeiros-verificadores, assim como os actuais segundos-verificadores já aprovados em concurso, durante o seu prazo de validade, ou, passado este prazo, os que tenham a classificação de Bom, enquanto não for aberto novo concurso.
 
 § único. Os antigos primeiros-verificadores que tenham sido promovidos a esta categoria depois da publicação do [Decreto n.º 41187](https://diariodarepublica.pt/dr/detalhe/decreto/41187-1957-279402), de 15 de Julho de 1957, e os novos reverificadores não poderão ser promovidos à categoria de reverificador-chefe sem que tenham exercido em qualquer das categorias do actual ou do anterior quadro técnico, com boas informações, embora interinamente, as funções de chefe de uma estância aduaneira extra-urbana nas províncias de Angola e de Moçambique, ou as de director ou de subdirector de qualquer alfândega nas restantes províncias, por período não inferior a seis meses.
 
-###### Art. 150.º A promoção dos funcionários que estejam nas condições prescritas no corpo do artigo anterior será efectuada, observadas as preferências legais, tomando em consideração as melhores informações e a circunstância de haverem desempenhado, embora com carácter interino, qualquer dos seguintes cargos, tendo preferência, em igualdade de condições, os que possuam melhor classificação no concurso para a antiga categoria de primeiro-verificador:
+Art. 150.º A promoção dos funcionários que estejam nas condições prescritas no corpo do artigo anterior será efectuada, observadas as preferências legais, tomando em consideração as melhores informações e a circunstância de haverem desempenhado, embora com carácter interino, qualquer dos seguintes cargos, tendo preferência, em igualdade de condições, os que possuam melhor classificação no concurso para a antiga categoria de primeiro-verificador:
 
 a) Director ou subdirector de qualquer das alfândegas mencionadas nos artigos 105.º e 107.º;
 
@@ -1536,11 +1648,11 @@ b) Chefe de uma delegação aduaneira de 1.ª classe.
 
 § único. Ficam dispensados do exercício das funções especificadas nas alíneas a) e b) do corpo do artigo os actuais primeiros-verificadores que exerçam há mais de cinco anos com boas informações as funções referidas no artigo 1.º do [Decreto n.º 30329](https://diariodarepublica.pt/dr/detalhe/decreto/30329-1940-195059), de 21 de Março de 1940.
 
-###### Art. 151.º Os reverificadores dispensados da prestação das provas para a categoria de reverificador-chefe, ao abrigo da disposição prescrita no corpo do artigo 149.º, que não hajam obtido a promoção para aquela categoria no decurso do período nele fixado serão intercalados na lista dos candidatos aprovados nos concursos que venham a realizar-se posteriormente para promoção à referida categoria, conforme a valorização que hajam obtido no concurso efectuado para a promoção à antiga categoria de primeiro-verificador, salvo no caso de haverem obtido melhor classificação em novo concurso realizado para promoção à mencionada categoria.
+Art. 151.º Os reverificadores dispensados da prestação das provas para a categoria de reverificador-chefe, ao abrigo da disposição prescrita no corpo do artigo 149.º, que não hajam obtido a promoção para aquela categoria no decurso do período nele fixado serão intercalados na lista dos candidatos aprovados nos concursos que venham a realizar-se posteriormente para promoção à referida categoria, conforme a valorização que hajam obtido no concurso efectuado para a promoção à antiga categoria de primeiro-verificador, salvo no caso de haverem obtido melhor classificação em novo concurso realizado para promoção à mencionada categoria.
 
 ### CAPÍTULO III — Do pessoal do quadro auxiliar
 
-###### Art. 152.º O pessoal do quadro auxilar aduaneiro é constituído pelas categorias a seguir designadas:
+Art. 152.º O pessoal do quadro auxilar aduaneiro é constituído pelas categorias a seguir designadas:
 
 a) Escriturário-chefe;
 
@@ -1556,7 +1668,7 @@ f) Dactilógrafo.
 
 § único. O pessoal do quadro auxiliar aduaneiro é o que consta do quadro IX anexo a este estatuto.
 
-###### Art. 153.º Aos escriturários-chefes compete o desempenho das seguintes funções:
+Art. 153.º Aos escriturários-chefes compete o desempenho das seguintes funções:
 
 a) De chefe da secretaria referida no artigo 108.º;
 
@@ -1568,7 +1680,7 @@ d) Expediente de carácter fiscal e administrativo nas direcções provinciais d
 
 e) De assistência a exames prévios, à abertura ou fecho de armazéns alfandegados ou de outros em que se torne necessária a presença de funcionários aduaneiros e de conferência de volumes em trânsito ou reexportação.
 
-###### Art. 154.º Aos escriturários de 1.ª classe incumbe o desempenho das seguintes funções:
+Art. 154.º Aos escriturários de 1.ª classe incumbe o desempenho das seguintes funções:
 
 a) As que estão especificadas nas alíneas d) e e) do artigo anterior;
 
@@ -1582,11 +1694,11 @@ e) De dactilografia.
 
 § único. Aos escriturários de 2.ª classe incumbe o desempenho das funções especificadas nas alíneas d) e e) do corpo do artigo, as da alínea e) do artigo anterior e, na falta de escriturários de 1.ª classe, também as da alínea c) do corpo do artigo.
 
-###### Art. 155.º O provimento dos lugares de escriturário de 2.ª classe será efectuado por meio de concurso de provas públicas, a que serão admitidos os indivíduos que possuam o curso geral de Comércio.
+Art. 155.º O provimento dos lugares de escriturário de 2.ª classe será efectuado por meio de concurso de provas públicas, a que serão admitidos os indivíduos que possuam o curso geral de Comércio.
 
 § único. Se o concurso de que trata o corpo deste artigo ficar deserto ou o número de candidatos aprovados for insuficiente para preencher o número de vagas, será aberto novo concurso, a que serão admitidos indivíduos habilitados com o 2.º ciclo do ensino liceal. Nas províncias onde não existam escolas técnicas comerciais, o concurso será aberto para admissão de indivíduos habilitados com o 2.º ciclo do ensino liceal.
 
-###### Art. 156.º Ingressam na categoria de escriturário de 2.ª classe, sem prejuízo das disposições do artigo seguinte, na parte aplicável:
+Art. 156.º Ingressam na categoria de escriturário de 2.ª classe, sem prejuízo das disposições do artigo seguinte, na parte aplicável:
 
 a) Os actuais escriturários do quadro auxiliar do Estado da Índia e das províncias da Guiné, de S. Tomé e Príncipe e de Timor;
 
@@ -1598,41 +1710,41 @@ c) Os actuais fiéis de balança e os guardas fiscais com mais de quinze anos de
 
 § 2.º A nomeação de escriturários de 2.ª classe recairá, depois de colocados no respectivo quadro os actuais escriturários de nomeação interna e enquanto existirem fiéis de balança e guardas fiscais em condições de ascenderem à mesma classe de escriturários, alternadamente nos candidatos aprovados em concurso, nos fiéis de balança e nos guardas fiscais, conforme a ordem de colocação nas respectivas listas e até estas se esgotarem.
 
-###### Art. 157.º O provimento dos lugares de escriturário de 1.ª classe recairá, por proposta do director ou chefe provincial dos serviços das alfândegas, nos escriturários de 2.ª classe que tenham obtido a sua nomeação definitiva, possuam boas informações e tenham demonstrado zelo, dedicação e competência no exercício das funções especificadas no artigo 154.º deste estatuto.
+Art. 157.º O provimento dos lugares de escriturário de 1.ª classe recairá, por proposta do director ou chefe provincial dos serviços das alfândegas, nos escriturários de 2.ª classe que tenham obtido a sua nomeação definitiva, possuam boas informações e tenham demonstrado zelo, dedicação e competência no exercício das funções especificadas no artigo 154.º deste estatuto.
 
 § 1.º Ingressam na categoria de escriturário de 1.ª classe os actuais escriturários do quadro auxiliar das províncias de Cabo Verde, de Angola e de Moçambique e os aspirantes de nomeação interina.
 
 § 2.º Serão eliminados, à medida que ocorrerem as respectivas vagas, três lugares de escriturário de 1.ª classe do quadro auxiliar aduaneiro da província de Cabo Verde, sendo criado igual número de lugares de escriturário de 2.ª classe no mesmo quadro em substituição daqueles.
 
-###### Art. 158.º O provimento dos lugares de escriturário-chefe será efectuado por concurso de provas públicas, a que serão admitidos os escriturários de 1.ª classe com mais de três anos de serviço efectivo, e os estenodactilógrafos de nomeação definitiva, com boas informações.
+Art. 158.º O provimento dos lugares de escriturário-chefe será efectuado por concurso de provas públicas, a que serão admitidos os escriturários de 1.ª classe com mais de três anos de serviço efectivo, e os estenodactilógrafos de nomeação definitiva, com boas informações.
 
 § 1.º Ingressam na categoria de escriturário-chefe os actuais escriturários com mais de dez anos de serviço que possuam o 2.º ciclo do ensino liceal, ou habilitações equivalentes, assim como os que embora não possuam tais habilitações hajam, no entanto, desempenhado, com boas informações, as funções de chefe de um posto de despacho ou de encarregado de uma subsecção ou de verificação durante dois anos.
 
 § 2.º As vagas de escriturário-chefe que não forem preenchidas nos termos do parágrafo anterior serão providas por meio de concurso de provas públicas, a que serão admitidos, no primeiro que se realizar após a publicação deste estatuto, os actuais escriturários de nomeação definitiva que possuam boas informações.
 
-###### Art. 159.º Aos fiéis de armazém incumbe a guarda e conservação de todos os volumes arrecadados nos armazéns reais, as dos impressos arrecadados nos respectivos depósitos e sua venda ao público e o expediente e escrituração respeitantes a todo o movimento de entrada e de saída dos volumes e impressos dos referidos armazéns.
+Art. 159.º Aos fiéis de armazém incumbe a guarda e conservação de todos os volumes arrecadados nos armazéns reais, as dos impressos arrecadados nos respectivos depósitos e sua venda ao público e o expediente e escrituração respeitantes a todo o movimento de entrada e de saída dos volumes e impressos dos referidos armazéns.
 
-###### Art. 160.º O provimento dos lugares de fiel de armazém será efectuado por concurso de provas práticas, aberto e realizado na respectiva província, a que serão admitidos os indivíduos nela domiciliados que possuam o 1.º ciclo do ensino liceal ou habilitações equivalentes e os auxiliares de verificação de 1.ª classe com mais de dez anos de serviço que possuam boas informações.
+Art. 160.º O provimento dos lugares de fiel de armazém será efectuado por concurso de provas práticas, aberto e realizado na respectiva província, a que serão admitidos os indivíduos nela domiciliados que possuam o 1.º ciclo do ensino liceal ou habilitações equivalentes e os auxiliares de verificação de 1.ª classe com mais de dez anos de serviço que possuam boas informações.
 
-###### Art. 161.º Aos estenodactilógrafos incumbe o desempenho das funções de dactilografia e de expediente fiscal administrativo das direcções provinciais dos Serviços das Alfândegas, assim como a do registo das sessões do Conselho do Serviço Técnico-Aduaneiro. Aos do sexo masculino incumbe ainda o desempenho das funções especificadas na alínea c) do artigo 153.º
+Art. 161.º Aos estenodactilógrafos incumbe o desempenho das funções de dactilografia e de expediente fiscal administrativo das direcções provinciais dos Serviços das Alfândegas, assim como a do registo das sessões do Conselho do Serviço Técnico-Aduaneiro. Aos do sexo masculino incumbe ainda o desempenho das funções especificadas na alínea c) do artigo 153.º
 
 § único. O provimento dos lugares de estenodactilógrafo será efectuado por concurso de provas práticas, a que serão admitidos indivíduos domiciliados na província que possuam, como habilitações mínimas, o curso geral de Comércio.
 
-###### Art. 162.º Aos dactilógrafos incumbe o desempenho das funções de dactilografia e do registo de entrada e saída da correspondência oficial, sendo o provimento dos respectivos lugares efectuado por concurso de provas práticas, a que serão admitidos os indivíduos domiciliados na província que possuam, como habilitações mínimas, o 1.º ciclo do ensino liceal ou equivalentes.
+Art. 162.º Aos dactilógrafos incumbe o desempenho das funções de dactilografia e do registo de entrada e saída da correspondência oficial, sendo o provimento dos respectivos lugares efectuado por concurso de provas práticas, a que serão admitidos os indivíduos domiciliados na província que possuam, como habilitações mínimas, o 1.º ciclo do ensino liceal ou equivalentes.
 
 § 1.º Os dactilógrafos do sexo feminino só podem ser colocados nas direcções provinciais, nas sedes das alfândegas e nas delegações aduaneiras de 1.ª classe.
 
 § 2.º Ingressam na categoria de dactilógrafo os actuais auxiliares do quadro dos serviços de secretaria das alfândegas da província de Angola, o qual é extinto.
 
-###### Art. 163.º Se os concursos abertos nos termos dos artigos 155.º, 160.º, 161.º e 162.º ficarem desertos, poderá o Ministro do Ultramar autorizar que seja aberto novo concurso na metrópole, a que serão admitidos indivíduos que possuam as habilitações referidas naqueles artigos.
+Art. 163.º Se os concursos abertos nos termos dos artigos 155.º, 160.º, 161.º e 162.º ficarem desertos, poderá o Ministro do Ultramar autorizar que seja aberto novo concurso na metrópole, a que serão admitidos indivíduos que possuam as habilitações referidas naqueles artigos.
 
 ### CAPÍTULO IV — Do pessoal do quadro dos serviços de tesouraria
 
-###### Art. 164.º O pessoal do quadro dos serviços de tesouraria é constituído pelos tesoureiros e seus fiéis e pelos substitutos (propostos).
+Art. 164.º O pessoal do quadro dos serviços de tesouraria é constituído pelos tesoureiros e seus fiéis e pelos substitutos (propostos).
 
-###### Art. 165.º O pessoal dos serviços de tesouraria é o que consta do quadro X anexo a este estatuto.
+Art. 165.º O pessoal dos serviços de tesouraria é o que consta do quadro X anexo a este estatuto.
 
-###### Art. 166.º Os tesoureiros distribuem-se por três classes:
+Art. 166.º Os tesoureiros distribuem-se por três classes:
 
 a) Pertencem à 1.ª classe os tesoureiros das Alfândegas de Luanda e do Lobito, na província de Angola, e de Lourenço Marques e da Beira, na província de Moçambique;
 
@@ -1640,19 +1752,19 @@ b) Pertencem à 2.ª classe os das restantes alfândegas, com excepção das ind
 
 c) Pertencem à 3.ª classe os das Alfândegas de Espargos, na província de Cabo Verde, de Cabinda, na província de Angola, e de Damão e Diu, no Estado da Índia.
 
-###### Art. 167.º Os lugares de tesoureiro de 1.ª classe são providos por concurso documental aberto em todas as províncias, a que serão admitidos os tesoureiros de 2.ª classe do quadro das alfândegas de qualquer província que possuam mais de três anos de bom e efectivo serviço nessa categoria, tendo preferência os que tenham mais tempo de serviço como tesoureiro, com boas informações e, em igualdade de condições quanto a tempo de serviço e informações, os que possuírem maior número de habilitações literárias ou científicas adequadas ao exercício das respectivos funções.
+Art. 167.º Os lugares de tesoureiro de 1.ª classe são providos por concurso documental aberto em todas as províncias, a que serão admitidos os tesoureiros de 2.ª classe do quadro das alfândegas de qualquer província que possuam mais de três anos de bom e efectivo serviço nessa categoria, tendo preferência os que tenham mais tempo de serviço como tesoureiro, com boas informações e, em igualdade de condições quanto a tempo de serviço e informações, os que possuírem maior número de habilitações literárias ou científicas adequadas ao exercício das respectivos funções.
 
-###### Art. 168.º Os lugares de tesoureiro de 2.ª classe serão providos por concurso documental aberto na respectiva província, a que serão admitidos os tesoureiros de 3.ª classe, os fiéis de tesoureiro e os substitutos ou propostos dos tesoureiros pertencentes ao quadro da mesma província com mais de três anos de bom e efectivo serviço e os tesoureiros de 2.ª classe dos quadros e de outras províncias, tendo preferência os candidatos que tiverem maior categoria e, em igualdade de categorias, os que tiverem mais tempo de serviço efectivo na função de exactor fiscal.
+Art. 168.º Os lugares de tesoureiro de 2.ª classe serão providos por concurso documental aberto na respectiva província, a que serão admitidos os tesoureiros de 3.ª classe, os fiéis de tesoureiro e os substitutos ou propostos dos tesoureiros pertencentes ao quadro da mesma província com mais de três anos de bom e efectivo serviço e os tesoureiros de 2.ª classe dos quadros e de outras províncias, tendo preferência os candidatos que tiverem maior categoria e, em igualdade de categorias, os que tiverem mais tempo de serviço efectivo na função de exactor fiscal.
 
-###### Art. 169.º Se os concursos para provimento dos lugares de tesoureiro de 1.ª e de 2.ª classes ficarem desertos, será aberto novo concurso documental na respectiva província, a que serão admitidos funcionários do quadro técnico de categoria não superior à de verificador, assim como os escriturários do quadro auxiliar com boas informações, tendo preferência os que possuam maior categoria.
+Art. 169.º Se os concursos para provimento dos lugares de tesoureiro de 1.ª e de 2.ª classes ficarem desertos, será aberto novo concurso documental na respectiva província, a que serão admitidos funcionários do quadro técnico de categoria não superior à de verificador, assim como os escriturários do quadro auxiliar com boas informações, tendo preferência os que possuam maior categoria.
 
-###### Art. 170.º Os lugares de tesoureiro de 3.ª classe serão providos por concurso documental aberto na respectivas província, a que serão admitidos os oficiais e oficiais estagiários do quadro técnico, os fiéis e os substitutos ou propostos dos tesoureiros, assim como os escriturários e fiéis de armazéns do quadro auxiliar de nomeação definitiva, tendo preferência os que tenham mais tempo de serviço como exactores fiscais.
+Art. 170.º Os lugares de tesoureiro de 3.ª classe serão providos por concurso documental aberto na respectivas província, a que serão admitidos os oficiais e oficiais estagiários do quadro técnico, os fiéis e os substitutos ou propostos dos tesoureiros, assim como os escriturários e fiéis de armazéns do quadro auxiliar de nomeação definitiva, tendo preferência os que tenham mais tempo de serviço como exactores fiscais.
 
-###### Art. 171.º Se o concurso aberto nas condições prescritas no artigo anterior ficar deserto, será aberto novo concurso de provas públicas, conforme o programa constante da portaria referida no artigo 238.º, a que seriam admitidos indivíduos estranhos aos quadros aduaneiros que possuam como habilitações mínimas o curso geral de Comércio ou o 2.º ciclo do ensino liceal.
+Art. 171.º Se o concurso aberto nas condições prescritas no artigo anterior ficar deserto, será aberto novo concurso de provas públicas, conforme o programa constante da portaria referida no artigo 238.º, a que seriam admitidos indivíduos estranhos aos quadros aduaneiros que possuam como habilitações mínimas o curso geral de Comércio ou o 2.º ciclo do ensino liceal.
 
 § único. Na falta de candidatos com as habilitações prescritas no corpo do artigo poderá o Ministro do Ultramar autorizar que se abra novo concurso na metrópole, a que serão admitidos indivíduos estranhos aos quadros aduaneiros que possuam as habilitações prescritas no corpo do artigo.
 
-###### Art. 172.º Os fiéis de tesoureiro serão nomeados pelos governadores, mediante proposta do respectivo tesoureiro, e por ele livremente escolhidos entre os oficiais, escriturários, fiéis de armazém, auxiliares de verificação ou patrões da fiscalização marítima, e, na sua falta, entre indivíduos do sexo masculino estranhos aos quadros aduaneiros, de idade entre 21 e 35 anos, e que possuam como habilitações mínimas qualquer dos cursos mencionados no artigo 171.º, com preferência do primeiro.
+Art. 172.º Os fiéis de tesoureiro serão nomeados pelos governadores, mediante proposta do respectivo tesoureiro, e por ele livremente escolhidos entre os oficiais, escriturários, fiéis de armazém, auxiliares de verificação ou patrões da fiscalização marítima, e, na sua falta, entre indivíduos do sexo masculino estranhos aos quadros aduaneiros, de idade entre 21 e 35 anos, e que possuam como habilitações mínimas qualquer dos cursos mencionados no artigo 171.º, com preferência do primeiro.
 
 § 1.º Os fiéis de tesoureiro substituem os respectivos tesoureiros durante as suas ausências ou impedimentos legais e continuam a pertencer ao quadro donde provieram, quando escolhidos entre os empregados aduaneiros, podendo os seus lugares de origem ser providos interinamente, enquanto se verificar a vaga.
 
@@ -1662,9 +1774,9 @@ c) Pertencem à 3.ª classe os das Alfândegas de Espargos, na província de Cab
 
 § 4.º Serão mantidos no exercício das suas funções os actuais fiéis de tesoureiro, embora não possuam as habilitações prescritas no corpo do artigo e estejam desempenhando aquelas funções interinamente.
 
-###### Art. 173.º Os tesoureiros respondem por todos os actos e omissões dos seus fiéis, substitutos ou propostos, nos termos das leis e regulamentos em vigor, e poderão exigir, quanto aos primeiros, uma caução, cujo montante será fixado na portaria de nomeação, prestada nos termos legais, independentemente da responsabilidade civil ou criminal que àqueles fiéis, substitutos ou propostos venha a ser pedida por tais actos ou omissões.
+Art. 173.º Os tesoureiros respondem por todos os actos e omissões dos seus fiéis, substitutos ou propostos, nos termos das leis e regulamentos em vigor, e poderão exigir, quanto aos primeiros, uma caução, cujo montante será fixado na portaria de nomeação, prestada nos termos legais, independentemente da responsabilidade civil ou criminal que àqueles fiéis, substitutos ou propostos venha a ser pedida por tais actos ou omissões.
 
-###### Art. 174.º As cauções a prestar pelos tesoureiros das alfândegas ultramarinas por motivo da sua nomeação são as que a seguir vão indicadas:
+Art. 174.º As cauções a prestar pelos tesoureiros das alfândegas ultramarinas por motivo da sua nomeação são as que a seguir vão indicadas:
 
 1.º Na província de Cabo Verde:
 
@@ -1720,75 +1832,75 @@ Alfândega de Díli ... 15000$00
 
 § único. Aos indivíduos que forem nomeados fiéis de armazém será também exigida uma caução da importância de 3000$00 a 5000$00, a qual será fixada no respectivo diploma de nomeação, tendo em conta o movimento dos respectivos armazéns.
 
-###### Art. 175.º Os indivíduos nomeados para os lugares de tesoureiro e de fiel de armazém das alfândegas ultramarinas só entrarão no exercício das suas funções depois de terem efectuado a caução que lhes é exigida nos termos do artigo anterior.
+Art. 175.º Os indivíduos nomeados para os lugares de tesoureiro e de fiel de armazém das alfândegas ultramarinas só entrarão no exercício das suas funções depois de terem efectuado a caução que lhes é exigida nos termos do artigo anterior.
 
 § único. As cauções de que trata o artigo anterior serão prestadas pelos funcionários nomeados dentro do prazo de 30 dias, contados da data da publicação do diploma de nomeação no Boletim Oficial da província, o qual poderá ser prorrogado por mais 30 dias. Considerar-se-ão novamente vagos os lugares se as cauções não tiverem sido prestadas dentro daqueles prazos.
 
-###### Art. 176.º As cauções referidas no artigo 174.º serão prestadas por qualquer das formas prescritas na legislação vigente na respectiva província e exigidas aos tesoureiros e fiéis de armazém que forem nomeados depois da publicação deste estatuto.
+Art. 176.º As cauções referidas no artigo 174.º serão prestadas por qualquer das formas prescritas na legislação vigente na respectiva província e exigidas aos tesoureiros e fiéis de armazém que forem nomeados depois da publicação deste estatuto.
 
 ### CAPÍTULO V — Do pessoal dos serviços de laboratório
 
-###### Art. 177.º O pessoal do quadro dos serviços de laboratório é constituído pelos chefes dos serviços dos laboratórios, pelos analistas e pelos preparadores.
+Art. 177.º O pessoal do quadro dos serviços de laboratório é constituído pelos chefes dos serviços dos laboratórios, pelos analistas e pelos preparadores.
 
-###### Art. 178.º O pessoal dos serviços de laboratório é o que consta do quadro XI anexo a este estatuto.
+Art. 178.º O pessoal dos serviços de laboratório é o que consta do quadro XI anexo a este estatuto.
 
-###### Art. 179.º Os luares de chefe dos serviços de laboratório são providos por concurso documental, a que serão admitidos engenheiros químicos.
+Art. 179.º Os luares de chefe dos serviços de laboratório são providos por concurso documental, a que serão admitidos engenheiros químicos.
 
-###### Art. 180.º Os lugares de analista serão providos por concurso documental, a que serão admitidos os indivíduos diplomados com o curso de analista dos institutos industriais e, na sua falta, entre indivíduos que possuam a cadeira de Análise Química ou equivalente de um curso superior.
+Art. 180.º Os lugares de analista serão providos por concurso documental, a que serão admitidos os indivíduos diplomados com o curso de analista dos institutos industriais e, na sua falta, entre indivíduos que possuam a cadeira de Análise Química ou equivalente de um curso superior.
 
-###### Art. 181.º Os lugares de preparador serão providos por concurso documental, a que serão admitidos indivíduos habilitados com o curso auxiliar de laboratório químico ou equivalente das escolas técnicas industriais.
+Art. 181.º Os lugares de preparador serão providos por concurso documental, a que serão admitidos indivíduos habilitados com o curso auxiliar de laboratório químico ou equivalente das escolas técnicas industriais.
 
-###### Art. 182.º Os analistas e preparadores atribuídos no quadro XI anexo a este estatuto destinam-se a prestar serviço nos pequenos laboratórios actualmente existentes nas Direcções Provinciais dos Serviços das Alfândegas das províncias de Angola e de Moçambique e a efectuar as análises referidas no artigo 18.º em outros laboratórios da respectiva província que forem designados pelo governador-geral quando as mesmas não possam ser efectuadas nos primeiros.
+Art. 182.º Os analistas e preparadores atribuídos no quadro XI anexo a este estatuto destinam-se a prestar serviço nos pequenos laboratórios actualmente existentes nas Direcções Provinciais dos Serviços das Alfândegas das províncias de Angola e de Moçambique e a efectuar as análises referidas no artigo 18.º em outros laboratórios da respectiva província que forem designados pelo governador-geral quando as mesmas não possam ser efectuadas nos primeiros.
 
-###### Art. 183.º O provimento dos lugares de chefe dos serviços dos laboratórios que funcionem junto da Direcção Provincial dos Serviços das Alfândegas de Angola e de Moçambique só será efectuado quando estiverem instalados os respectivos laboratórios referidos no artigo 18.º deste estatuto.
+Art. 183.º O provimento dos lugares de chefe dos serviços dos laboratórios que funcionem junto da Direcção Provincial dos Serviços das Alfândegas de Angola e de Moçambique só será efectuado quando estiverem instalados os respectivos laboratórios referidos no artigo 18.º deste estatuto.
 
-###### Art. 184.º O primeiro provimento para os lugares de analistas dos serviços das alfândegas das províncias de Angola e de Moçambique poderá recair em funcionários do quadro técnico-aduaneiro que o requeiram, desde que possuam as habilitações prescritas no artigo 180.º, tendo preferência os que tenham prática do serviço de laboratório de análises químicas.
+Art. 184.º O primeiro provimento para os lugares de analistas dos serviços das alfândegas das províncias de Angola e de Moçambique poderá recair em funcionários do quadro técnico-aduaneiro que o requeiram, desde que possuam as habilitações prescritas no artigo 180.º, tendo preferência os que tenham prática do serviço de laboratório de análises químicas.
 
 ### CAPÍTULO VI — Do quadro do tráfego
 
-###### Art. 185.º O pessoal dos serviços do tráfego é constituído por motoristas, maquinistas, auxiliares de verificação, contínuos e trabalhadores.
+Art. 185.º O pessoal dos serviços do tráfego é constituído por motoristas, maquinistas, auxiliares de verificação, contínuos e trabalhadores.
 
-###### Art. 186.º Os auxiliares de verificação distribuem-se por duas classes.
+Art. 186.º Os auxiliares de verificação distribuem-se por duas classes.
 
-###### Art. 187.º O pessoal do quadro do tráfego é o que consta do quadro XII anexo a este estatuto.
+Art. 187.º O pessoal do quadro do tráfego é o que consta do quadro XII anexo a este estatuto.
 
-###### Art. 188.º Os lugares de motorista serão providos, por concurso documental, entre indivíduos que possuam carta de condução de veículos automóveis. Os lugares de motorista e de maquinista de guindastes serão também providos por concurso de provas práticas, a que serão admitidos indivíduos que possuam qualquer curso das escolas técnicas industriais ou de artes e ofícios adequado ao exercício de tais funções e prática de trabalhos com guindastes mecânicos ou motorizados. Poderá ser facultado aos indivíduos que queiram concorrer efectuar um período de estágio para efeito de aprendizagem.
+Art. 188.º Os lugares de motorista serão providos, por concurso documental, entre indivíduos que possuam carta de condução de veículos automóveis. Os lugares de motorista e de maquinista de guindastes serão também providos por concurso de provas práticas, a que serão admitidos indivíduos que possuam qualquer curso das escolas técnicas industriais ou de artes e ofícios adequado ao exercício de tais funções e prática de trabalhos com guindastes mecânicos ou motorizados. Poderá ser facultado aos indivíduos que queiram concorrer efectuar um período de estágio para efeito de aprendizagem.
 
 § único. Na falta de candidatos nas condições prescritas neste artigo serão admitidos indivíduos que possuam prática do serviço de motoristas ou de maquinistas de guindastes e possuam, pelo menos, o exame do 2.º grau do ensino primário ou equivalente.
 
-###### Art. 189.º Os lugares de auxiliar de verificação de 2.ª classe serão providos sob proposta do director ou chefe provincial dos serviços das alfândegas em indivíduos que possuam como habilitações mínimas o 2.º grau do ensino primário ou equivalente.
+Art. 189.º Os lugares de auxiliar de verificação de 2.ª classe serão providos sob proposta do director ou chefe provincial dos serviços das alfândegas em indivíduos que possuam como habilitações mínimas o 2.º grau do ensino primário ou equivalente.
 
-###### Art. 190.º Os lugares de auxiliar de verificação de 1.ª classe serão providos por concurso de provas públicas, a que serão admitidos os auxiliares de verificação de 2.ª classe de nomeação definitiva com boas informações e os guardas fiscais considerados, em virtude das suas Condições físicas, na situação de serviços moderados.
+Art. 190.º Os lugares de auxiliar de verificação de 1.ª classe serão providos por concurso de provas públicas, a que serão admitidos os auxiliares de verificação de 2.ª classe de nomeação definitiva com boas informações e os guardas fiscais considerados, em virtude das suas Condições físicas, na situação de serviços moderados.
 
-###### Art. 191.º Os lugares de contínuo serão providos em indivíduos que possuam o 2.º grau de instrução primária, tendo preferência os que estejam prestando serviço nas alfândegas.
+Art. 191.º Os lugares de contínuo serão providos em indivíduos que possuam o 2.º grau de instrução primária, tendo preferência os que estejam prestando serviço nas alfândegas.
 
-###### Art. 192.º Os trabalhadores destinam-se a desempenhar os serviços de carga, descarga e movimentação de volumes para os armazéns reais, nos cais das estâncias aduaneiras e nas casas de despacho, com excepção dos que funcionem junto das encomendas postais, em que a execução daquele serviço compete ao pessoal dos serviços postais. O pessoal trabalhador é assalariado e em número ajustado às necessidades do serviço aduaneiro.
+Art. 192.º Os trabalhadores destinam-se a desempenhar os serviços de carga, descarga e movimentação de volumes para os armazéns reais, nos cais das estâncias aduaneiras e nas casas de despacho, com excepção dos que funcionem junto das encomendas postais, em que a execução daquele serviço compete ao pessoal dos serviços postais. O pessoal trabalhador é assalariado e em número ajustado às necessidades do serviço aduaneiro.
 
 ### CAPÍTULO VII — Dos serviços acessórios das alfândegas
 
-###### Art. 193.º São considerados serviços acessórios das alfândegas:
+Art. 193.º São considerados serviços acessórios das alfândegas:
 
 a) Os desempenhados pelo pessoal operário especializado nas oficinas dependentes dos conselhos administrativos das alfândegas, incluindo os dos telefones e quaisquer outros serviços que não sejam das atribuições dos restantes quadros aduaneiros;
 
 b) O de selagem de mercadorias e amostras.
 
-###### Art. 194.º A admissão do pessoal de que trata o artigo anterior será feita conforme as necessidades e conveniências dos serviços aduaneiros, tendo em atenção as aptidões dos candidatos e as habilitações profissionais que possuem e observando-se os preceitos estabelecidos no Estatuto do Funcionalismo Ultramarino para a admissão de pessoal contratado ou assalariado.
+Art. 194.º A admissão do pessoal de que trata o artigo anterior será feita conforme as necessidades e conveniências dos serviços aduaneiros, tendo em atenção as aptidões dos candidatos e as habilitações profissionais que possuem e observando-se os preceitos estabelecidos no Estatuto do Funcionalismo Ultramarino para a admissão de pessoal contratado ou assalariado.
 
 ### CAPÍTULO VIII — Do pessoal da fiscalização aduaneira
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 195.º A fiscalização aduaneira destina-se a velar pela observância das disposições legais e regulamentares de natureza fiscal, mediante a polícia e vigilância dos edifícios aduaneiros e das zonas fiscais mencionadas no artigo 715.º deste estatuto.
+Art. 195.º A fiscalização aduaneira destina-se a velar pela observância das disposições legais e regulamentares de natureza fiscal, mediante a polícia e vigilância dos edifícios aduaneiros e das zonas fiscais mencionadas no artigo 715.º deste estatuto.
 
-###### Art. 196.º Os serviços da fiscalização aduaneira em todas as províncias ultramarinas incumbem à Guarda Fiscal, a qual será coadjuvada, na parte referente ao serviço de fiscalização, polícia e vigilância das costas, portos, rios, ancoradouros e enseadas, pelo pessoal da fiscalização marítima e fluvial.
+Art. 196.º Os serviços da fiscalização aduaneira em todas as províncias ultramarinas incumbem à Guarda Fiscal, a qual será coadjuvada, na parte referente ao serviço de fiscalização, polícia e vigilância das costas, portos, rios, ancoradouros e enseadas, pelo pessoal da fiscalização marítima e fluvial.
 
-###### Art. 197.º Os governadores poderão autorizar a admissão de apalpadeiras para as estâncias aduaneiras cujo movimento de passageiros justifique a admissão desse pessoal.
+Art. 197.º Os governadores poderão autorizar a admissão de apalpadeiras para as estâncias aduaneiras cujo movimento de passageiros justifique a admissão desse pessoal.
 
-###### Art. 198.º A admissão do pessoal de que trata o artigo anterior será efectuada conforme as necessidades e conveniências do serviço fiscal e observando-se os preceitos estabelecidos no Estatuto do Funcionalismo Ultramarino para a admissão do pessoal contratado ou assalariado.
+Art. 198.º A admissão do pessoal de que trata o artigo anterior será efectuada conforme as necessidades e conveniências do serviço fiscal e observando-se os preceitos estabelecidos no Estatuto do Funcionalismo Ultramarino para a admissão do pessoal contratado ou assalariado.
 
 #### SECÇÃO II — Do pessoal da fiscalização marítima e fluvial
 
-###### Art. 199.º O pessoal da fiscalização marítima e fluvial de cada província distribui-se pelas seguintes classes:
+Art. 199.º O pessoal da fiscalização marítima e fluvial de cada província distribui-se pelas seguintes classes:
 
 a) Patrões;
 
@@ -1798,25 +1910,25 @@ c) Fogueiros;
 
 d) Remadores.
 
-###### Art. 200.º Os patrões constituem uma só classe.
+Art. 200.º Os patrões constituem uma só classe.
 
-###### Art. 201.º A nomeação de patrões será feita mediante concurso documental entre indivíduos que sejam reconhecidos como aptos pelas capitanias dos portos ou suas delegações marítimas, conforme os casos, para o exercício de tais funções, tendo preferência as praças que tenham servido na marinha de guerra, desde que possuam boas informações.
+Art. 201.º A nomeação de patrões será feita mediante concurso documental entre indivíduos que sejam reconhecidos como aptos pelas capitanias dos portos ou suas delegações marítimas, conforme os casos, para o exercício de tais funções, tendo preferência as praças que tenham servido na marinha de guerra, desde que possuam boas informações.
 
-###### Art. 202.º Os actuais maquinistas que possuírem carta que os autorize a trabalhar com motores de explosão ficam obrigados a fazer serviço da sua competência nas embarcações com motor pertencentes às alfândegas.
+Art. 202.º Os actuais maquinistas que possuírem carta que os autorize a trabalhar com motores de explosão ficam obrigados a fazer serviço da sua competência nas embarcações com motor pertencentes às alfândegas.
 
-###### Art. 203.º Os lugares de motorista do quadro da fiscalização marítima e fluvial serão providos, mediante concurso documental entre indivíduos que possuam carta de motorista marítimo e sejam julgados aptos pelas capitanias ou delegações marítimas para o exercício dessa profissão.
+Art. 203.º Os lugares de motorista do quadro da fiscalização marítima e fluvial serão providos, mediante concurso documental entre indivíduos que possuam carta de motorista marítimo e sejam julgados aptos pelas capitanias ou delegações marítimas para o exercício dessa profissão.
 
-###### Art. 204.º Os lugares de fogueiro do quadro da fiscalização marítima e fluvial serão providos de entre os remadores do mesmo quadro que sejam reconhecidos como aptos pelas capitanias ou delegações marítimas para o exercício destas funções. Observar-se-ão na sua admissão os preceitos estabelecidos no Estatuto do Funcionalismo Ultramarino respeitantes à admissão do pessoal contratado e assalariado.
+Art. 204.º Os lugares de fogueiro do quadro da fiscalização marítima e fluvial serão providos de entre os remadores do mesmo quadro que sejam reconhecidos como aptos pelas capitanias ou delegações marítimas para o exercício destas funções. Observar-se-ão na sua admissão os preceitos estabelecidos no Estatuto do Funcionalismo Ultramarino respeitantes à admissão do pessoal contratado e assalariado.
 
-###### Art. 205.º Os remadores constituem uma só classe.
+Art. 205.º Os remadores constituem uma só classe.
 
-###### Art. 206.º Os remadores serão escolhidos de entre os indivíduos dedicados à vida do mar, tendo preferência os que tenham servido na marinha de guerra, quando tenham bom comportamento, observando-se na sua admissão os preceitos estabelecidos no Estatuto do Funcionalismo Ultramarino respeitantes à admissão do pessoal contratado e assalariado.
+Art. 206.º Os remadores serão escolhidos de entre os indivíduos dedicados à vida do mar, tendo preferência os que tenham servido na marinha de guerra, quando tenham bom comportamento, observando-se na sua admissão os preceitos estabelecidos no Estatuto do Funcionalismo Ultramarino respeitantes à admissão do pessoal contratado e assalariado.
 
-###### Art. 207.º O pessoal do quadro da fiscalização marítima e fluvial é o que consta do quadro XIII anexo a este estatuto.
+Art. 207.º O pessoal do quadro da fiscalização marítima e fluvial é o que consta do quadro XIII anexo a este estatuto.
 
 #### SECÇÃO III — Da Guarda Fiscal
 
-###### Art. 208.º Compete à Guarda Fiscal:
+Art. 208.º Compete à Guarda Fiscal:
 
 1.º O serviço da fiscalização Terrestre nas zonas fiscais da raia e do litoral, e em especial nas vias de comunicação;
 
@@ -1834,27 +1946,27 @@ d) Remadores.
 
 8.º Quaisquer outros serviços da fiscalização que, por lei, regulamentos ou ordens especiais dos governadores, lhe forem incumbidos.
 
-###### Art. 209.º O comando do corpo da Guarda Fiscal de cada província depende directamente de governador em tudo o que diga respeito à administração, armamento, equipamento, uniformes, instrução e disciplina do pessoal.
+Art. 209.º O comando do corpo da Guarda Fiscal de cada província depende directamente de governador em tudo o que diga respeito à administração, armamento, equipamento, uniformes, instrução e disciplina do pessoal.
 
 Os assuntos de carácter aduaneiro ou fiscal serão apresentados ao director ou chefe provincial dos serviços das alfândegas, que decidirá sobre aqueles que estiverem dentro da sua competência e apresentará ao governador, para resolução, os que excederem aquela competência.
 
-###### Art. 210.º O expediente relativo às relações entre as Direcções ou Repartições Provinciais dos, Serviços das Alfândegas e os comandos da Guarda Fiscal correrá pela 2.ª secção da 1.ª Repartição nas Direcções dos Serviços das Alfândegas das províncias de Angola e de Moçambique e pela 1.ª secção nas repartições provinciais dos mesmos serviços nas províncias de governo simples, assim como pela mesma secção da Repartição da Direcção Provincial dos Serviços das Alfândegas do Estado da Índia, em tudo quanto respeite ao serviço aduaneiro e fiscal.
+Art. 210.º O expediente relativo às relações entre as Direcções ou Repartições Provinciais dos, Serviços das Alfândegas e os comandos da Guarda Fiscal correrá pela 2.ª secção da 1.ª Repartição nas Direcções dos Serviços das Alfândegas das províncias de Angola e de Moçambique e pela 1.ª secção nas repartições provinciais dos mesmos serviços nas províncias de governo simples, assim como pela mesma secção da Repartição da Direcção Provincial dos Serviços das Alfândegas do Estado da Índia, em tudo quanto respeite ao serviço aduaneiro e fiscal.
 
 Nas circunscrições aduaneiras o expediente com os comandos das circunscrições ou secções da guarda fiscal correrá pela 1.ª secção da sede da alfândega ou pelas estâncias aduaneiras extra-urbanas, conforme os casos.
 
-###### Art. 211.º Compete aos comandantes dos postos fiscais o exercício das funções de adjunto dos chefes das estâncias aduaneiras locais, incumbindo-lhes, por essa circunstância, a obrigação de os coadjuvar na execução dos serviços das mesmas, de harmonia com os seus conhecimentos e aptidões, quando naquelas estâncias não existam quaisquer outros funcionários dos quadros técnico ou auxiliar aduaneiros.
+Art. 211.º Compete aos comandantes dos postos fiscais o exercício das funções de adjunto dos chefes das estâncias aduaneiras locais, incumbindo-lhes, por essa circunstância, a obrigação de os coadjuvar na execução dos serviços das mesmas, de harmonia com os seus conhecimentos e aptidões, quando naquelas estâncias não existam quaisquer outros funcionários dos quadros técnico ou auxiliar aduaneiros.
 
 § único. Os serviços que poderão ser executados pelo pessoal da Guarda Fiscal, nos termos do corpo deste artigo, constarão de instruções elaboradas pela Direcção ou Repartição Provincial dos Serviços das Alfândegas, ouvido o comando do corpo e aprovadas pelo governador, as quais serão publicadas em ordem de serviço.
 
-###### Art. 212.º Compete aos graduados ou guardas assumir as funções de chefe das estâncias aduaneiras locais na ausência ou impedimento dos respectivos chefes, quando nelas não estejam prestando serviço quaisquer funcionários dos quadros técnico ou auxilar aduaneiros.
+Art. 212.º Compete aos graduados ou guardas assumir as funções de chefe das estâncias aduaneiras locais na ausência ou impedimento dos respectivos chefes, quando nelas não estejam prestando serviço quaisquer funcionários dos quadros técnico ou auxilar aduaneiros.
 
-###### Art. 213.º Os guardas fiscais de qualquer classe dependem superiormente, em cada província, do comando do corpo e, em cada localidade, do comando da secção ou do posto fiscal, aos quais estão directamente subordinados para todos os efeitos, salvo nos casos prescritos no parágrafo seguinte. Todas as determinações ou instruções que as competentes autoridades aduaneiras tenham de lhes transmitir quando eles não estejam directamente subordinados às mesmas serão comunicadas, em regra, por intermédio dos comandos, de harmonia com as disposições do artigo 210.º deste estatuto, sem embargo de os chefes das estâncias aduaneiras e de os funcionários dos serviços de verificação e de reverificação fazerem quaisquer determinações verbais sobre a forma de execução dos serviços correntes de polícia e fiscalização dos edifícios aduaneiros e das mercadorias, e nomeadamente as referidas no artigo 708.º deste estatuto.
+Art. 213.º Os guardas fiscais de qualquer classe dependem superiormente, em cada província, do comando do corpo e, em cada localidade, do comando da secção ou do posto fiscal, aos quais estão directamente subordinados para todos os efeitos, salvo nos casos prescritos no parágrafo seguinte. Todas as determinações ou instruções que as competentes autoridades aduaneiras tenham de lhes transmitir quando eles não estejam directamente subordinados às mesmas serão comunicadas, em regra, por intermédio dos comandos, de harmonia com as disposições do artigo 210.º deste estatuto, sem embargo de os chefes das estâncias aduaneiras e de os funcionários dos serviços de verificação e de reverificação fazerem quaisquer determinações verbais sobre a forma de execução dos serviços correntes de polícia e fiscalização dos edifícios aduaneiros e das mercadorias, e nomeadamente as referidas no artigo 708.º deste estatuto.
 
 § único. Os chefes das estâncias aduaneiras situadas em localidades onde não existam comandos de secção da Guarda Fiscal poderão transmitir directamente aos chefes dos postos fiscais e às praças da mesma Guarda a execução de quaisquer instruções ou diligências que as circunstâncias de momento aconselhem para bem do serviço aduaneiro, cumprindo, porém, àquelas autoridades dar conhecimento dos factos à direcção da circunscrição aduaneira de que dependem e ao comando da respectiva secção da Guarda Fiscal, quando se não trate de instruções ou diligências de execução normal e corrente do serviço de fiscalização.
 
-###### Art. 214.º Fica directamente subordinado às autoridades aduaneiras, incluindo as que desempenhem funções de inspecção, para efeito de execução do serviço de carácter estritamente aduaneiro, o pessoal da Guarda Fiscal que desempenhe as funções de chefe ou de adjunto de qualquer estância aduaneira ou que nela presta serviço.
+Art. 214.º Fica directamente subordinado às autoridades aduaneiras, incluindo as que desempenhem funções de inspecção, para efeito de execução do serviço de carácter estritamente aduaneiro, o pessoal da Guarda Fiscal que desempenhe as funções de chefe ou de adjunto de qualquer estância aduaneira ou que nela presta serviço.
 
-###### Art. 215.º A organização dos corpos da Guarda Fiscal, o funcionamento dos seus serviços em cada província, assim como as condições a que terão de satisfazer os guardas e graduados para promoção às classes superiores constarão de diploma especial.
+Art. 215.º A organização dos corpos da Guarda Fiscal, o funcionamento dos seus serviços em cada província, assim como as condições a que terão de satisfazer os guardas e graduados para promoção às classes superiores constarão de diploma especial.
 
 § único. Enquanto não for publicado o diploma de que trata o corpo deste artigo continuarão em vigor nas diversas províncias ultramarinas os diplomas e mais legislação vigente respeitantes aos corpos da Guarda Fiscal na parte não alterada por este estatuto.
 
@@ -1862,11 +1974,11 @@ Nas circunscrições aduaneiras o expediente com os comandos das circunscriçõe
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 216.º Os concursos para admissão e promoção nos diversos quadros aduaneiros serão abertos por prazo não inferior a 30 dias e constarão de provas escritas, orais e práticas, salvo nos casos em que, por disposição expressa neste estatuto, tais concursos sejam documentais.
+Art. 216.º Os concursos para admissão e promoção nos diversos quadros aduaneiros serão abertos por prazo não inferior a 30 dias e constarão de provas escritas, orais e práticas, salvo nos casos em que, por disposição expressa neste estatuto, tais concursos sejam documentais.
 
 § único. No caso de existirem candidatos que tenham de prestar provas na Inspecção Superior das Alfândegas, o prazo referido neste artigo contar-se-á da data da publicação do aviso no Diário do Governo.
 
-###### Art. 217.º Constarão de provas escritas e orais os concursos:
+Art. 217.º Constarão de provas escritas e orais os concursos:
 
 a) Para promoção no quadro técnico, com excepção do concurso para promoção à categoria de reverificador-chefe, que terá apenas prova escrita;
 
@@ -1876,13 +1988,13 @@ c) Para promoção à categoria de auxiliar de verificação de 1.ª classe.
 
 § único. Os candidatos aos lugares de escriturário de 2.ª classe e de fiel de armazém do quadro auxiliar mencionados na alínea b) do corpo do artigo terão também, além das provas escrita e oral, uma prova prática de dactilografia.
 
-###### Art. 218.º Constarão de provas escritas e de provas práticas os concursos para admissão de dactilógrafos e de estenodactilógrafos.
+Art. 218.º Constarão de provas escritas e de provas práticas os concursos para admissão de dactilógrafos e de estenodactilógrafos.
 
 § único. O concurso para admissão de tesoureiros de 3.ª classe nas condições prescritas no artigo 171.º constará apenas de uma prova escrita.
 
-###### Art. 219.º Os candidatos aos lugares de reverificador-chefe poderão entregar ao presidente do júri referido no artigo 259.º, antes do início da prova escrita, quaisquer estudos, relatórios ou publicações da sua autoria sobre assuntos relacionados com os diversos ramos do serviço aduaneiro, os quais serão remetidos, assim como a respectiva prova, em sobrescrito lacrado e rubricado por todos os seus membros, ao júri referido no artigo 258.º, por intermédio da Direcção ou Repartição Provincial dos Serviços das Alfândegas, para serem por ele apreciados juntamente com as respectivas provas.
+Art. 219.º Os candidatos aos lugares de reverificador-chefe poderão entregar ao presidente do júri referido no artigo 259.º, antes do início da prova escrita, quaisquer estudos, relatórios ou publicações da sua autoria sobre assuntos relacionados com os diversos ramos do serviço aduaneiro, os quais serão remetidos, assim como a respectiva prova, em sobrescrito lacrado e rubricado por todos os seus membros, ao júri referido no artigo 258.º, por intermédio da Direcção ou Repartição Provincial dos Serviços das Alfândegas, para serem por ele apreciados juntamente com as respectivas provas.
 
-###### Art. 220.º Os pontos para as provas escritas serão elaborados:
+Art. 220.º Os pontos para as provas escritas serão elaborados:
 
 a) Pelo júri referido no artigo 258.º para os concursos de promoção no quadro técnico;
 
@@ -1890,69 +2002,69 @@ b) Pelos júris referidos no artigo 259.º para os restantes concursos de admiss
 
 § único. Será elaborada uma série de três pontos diferentes para cada prova escrita. Serão iguais os pontos nos casos em que possam realizar-se provas escritas no mesmo dia em mais de uma província para a mesma categoria de funcionários.
 
-###### Art. 221.º Os pontos elaborados pelo júri referido na alínea a) do artigo anterior serão remetidos aos governos das províncias ultramarinas devidamente lacrados e rubricados por todos os seus membros, ficando uma colecção arquivada na Inspecção Superior das Alfândegas para ser utilizada no caso de nela se realizarem provas escritas.
+Art. 221.º Os pontos elaborados pelo júri referido na alínea a) do artigo anterior serão remetidos aos governos das províncias ultramarinas devidamente lacrados e rubricados por todos os seus membros, ficando uma colecção arquivada na Inspecção Superior das Alfândegas para ser utilizada no caso de nela se realizarem provas escritas.
 
-###### Art. 222.º As provas escritas e orais dos concursos abertos nas províncias ultramarinas para promoção nos diversos quadros aduaneiros serão prestadas nas Direcções ou Repartições Provinciais dos Serviços das Alfândegas, salvo nos casos prescritos no artigo seguinte.
+Art. 222.º As provas escritas e orais dos concursos abertos nas províncias ultramarinas para promoção nos diversos quadros aduaneiros serão prestadas nas Direcções ou Repartições Provinciais dos Serviços das Alfândegas, salvo nos casos prescritos no artigo seguinte.
 
-###### Art. 223.º Nas províncias de governo-geral e na de Cabo Verde poderá o governador autorizar, sob proposta do director ou chefe provincial dos serviços das alfândegas, que as provas escritas para promoção no quadro técnico sejam realizadas nas sedes das circunscrições aduaneiras da província, com excepção das mencionadas no § 2.º do artigo 107.º, na presença da comissão de fiscalização referida no artigo 261.º deste estatuto.
+Art. 223.º Nas províncias de governo-geral e na de Cabo Verde poderá o governador autorizar, sob proposta do director ou chefe provincial dos serviços das alfândegas, que as provas escritas para promoção no quadro técnico sejam realizadas nas sedes das circunscrições aduaneiras da província, com excepção das mencionadas no § 2.º do artigo 107.º, na presença da comissão de fiscalização referida no artigo 261.º deste estatuto.
 
 § único. Quando se verifique o caso prescrito no corpo do artigo, que será comunicado à Inspecção Superior das Alfândegas quando lhe for solicitada a remessa dos pontos, serão elaboradas tantas colecções de pontos quantas as localidades em que hajam de realizar-se provas escritas e mais uma para o caso previsto no artigo 221.º Cada colecção será encerrada em sobrescrito separado para cada uma das referidas localidades, sendo todos os sobrescritos lacrados e rubricados pelo respectivo júri.
 
-###### Art. 224.º Logo que hajam sido recebidas na Direcção ou Repartição Provincial dos Serviços das Alfândegas as colecções dos pontos elaborados na Inspecção Superior das Alfândegas, o respectivo director ou chefe provincial providenciará para que sejam remetidas aos presidentes das comissões de fiscalização referidas no artigo 261.º, depois de marcada a data das provas escritas, e, em devido tempo, as colecções dos pontos respeitantes àquelas provas a realizar nas localidades a que tais colecções de pontos são destinadas.
+Art. 224.º Logo que hajam sido recebidas na Direcção ou Repartição Provincial dos Serviços das Alfândegas as colecções dos pontos elaborados na Inspecção Superior das Alfândegas, o respectivo director ou chefe provincial providenciará para que sejam remetidas aos presidentes das comissões de fiscalização referidas no artigo 261.º, depois de marcada a data das provas escritas, e, em devido tempo, as colecções dos pontos respeitantes àquelas provas a realizar nas localidades a que tais colecções de pontos são destinadas.
 
-###### Art. 225.º O Júri referido no artigo 259.º verificará, antes da remessa para as localidades onde se hão-de realizar as provas escritas, se todos os sobrescritos contendo as colecções dos pontos estão devidamente fechados, lacrados e rubricados pelo júri mencionado no artigo 258.º e marcará o dia em que se hão-de efectuar tais provas, competindo à comissão de fiscalização de cada localidade efectuar igual verificação logo que haja recebido a respectiva colecção e acusar a sua recepção.
+Art. 225.º O Júri referido no artigo 259.º verificará, antes da remessa para as localidades onde se hão-de realizar as provas escritas, se todos os sobrescritos contendo as colecções dos pontos estão devidamente fechados, lacrados e rubricados pelo júri mencionado no artigo 258.º e marcará o dia em que se hão-de efectuar tais provas, competindo à comissão de fiscalização de cada localidade efectuar igual verificação logo que haja recebido a respectiva colecção e acusar a sua recepção.
 
-###### Art. 226.º O presidente do júri referido no artigo 259.º, logo que tenha recebido as comunicações dos presidentes das comissões de fiscalização acusando a recepção das colecções de pontos sem qualquer objecção, fará reunir novamente o júri a que preside, com a antecedência de 48 horas do dia marcado para a prestação das provas, a fim de ser sorteado o ponto que há-de servir de base às aludidas provas, salvo nos casos previstos no artigo 250.º deste estatuto, e comunicará telegràficamente aos presidentes das comissões de fiscalização das localidades onde se realizem provas escritas, o número, por extenso, do ponto que tiver sido sorteado.
+Art. 226.º O presidente do júri referido no artigo 259.º, logo que tenha recebido as comunicações dos presidentes das comissões de fiscalização acusando a recepção das colecções de pontos sem qualquer objecção, fará reunir novamente o júri a que preside, com a antecedência de 48 horas do dia marcado para a prestação das provas, a fim de ser sorteado o ponto que há-de servir de base às aludidas provas, salvo nos casos previstos no artigo 250.º deste estatuto, e comunicará telegràficamente aos presidentes das comissões de fiscalização das localidades onde se realizem provas escritas, o número, por extenso, do ponto que tiver sido sorteado.
 
 De igual modo se procederá quando o ponto tiver sido sorteado na Inspecção Superior das Alfândegas, o qual será sorteado oito dias antes da realização das provas.
 
-###### Art. 227.º A prestação das provas escritas efectuar-se-á durante um período não superior a quatro horas seguidas e constará de quatro quesitos, elaborados com base nas matérias do respectivo programa, para as categorias de oficial, de verificador, de reverificador e de reverificador-chefe.
+Art. 227.º A prestação das provas escritas efectuar-se-á durante um período não superior a quatro horas seguidas e constará de quatro quesitos, elaborados com base nas matérias do respectivo programa, para as categorias de oficial, de verificador, de reverificador e de reverificador-chefe.
 
-###### Art. 228.º O júri providenciará a fim de que, em lugar apropriado, na sala onde se realizarem as provas escritas se encontre a legislação que possa ser necessária para consulta dos candidatos, aos quais será expressamente proibido servirem-se de outros quaisquer livros ou de apontamentos.
+Art. 228.º O júri providenciará a fim de que, em lugar apropriado, na sala onde se realizarem as provas escritas se encontre a legislação que possa ser necessária para consulta dos candidatos, aos quais será expressamente proibido servirem-se de outros quaisquer livros ou de apontamentos.
 
 § único. Os concorrentes que infringirem a disposição da última parte do corpo do artigo ficarão excluídos do concurso, sendo punidos disciplinarmente os que já forem empregados aduaneiros. No caso de se tratar de concursos de admissão, os candidatos excluídos não poderão ser admitidos ao primeiro concurso que se realizar.
 
-###### Art. 229.º Terminada a chamada, o presidente do júri abrirá o sobrescrito dos pontos à sua guarda e extrairá o ponto sorteado, a cuja leitura procederá. Durante a prestação das provas escritas manter-se-á com rigor o isolamento dos candidatos.
+Art. 229.º Terminada a chamada, o presidente do júri abrirá o sobrescrito dos pontos à sua guarda e extrairá o ponto sorteado, a cuja leitura procederá. Durante a prestação das provas escritas manter-se-á com rigor o isolamento dos candidatos.
 
-###### Art. 230.º Quando se trate de provas escritas realizadas em diversas localidades, a comissão de fiscalização que a elas tiver assistido, e logo que as mesmas sejam entregues pelos candidatos, encerrá-las-á, depois de rubricadas todas as suas páginas por todos os seus membros, em sobrescrito fechado, lacrado e também rubricado por todos, lavrando-se de tudo a competente acta, e enviando-as em seguida ao presidente do júri referido no artigo 259.º deste estatuto.
+Art. 230.º Quando se trate de provas escritas realizadas em diversas localidades, a comissão de fiscalização que a elas tiver assistido, e logo que as mesmas sejam entregues pelos candidatos, encerrá-las-á, depois de rubricadas todas as suas páginas por todos os seus membros, em sobrescrito fechado, lacrado e também rubricado por todos, lavrando-se de tudo a competente acta, e enviando-as em seguida ao presidente do júri referido no artigo 259.º deste estatuto.
 
-###### Art. 231.º A prestação das provas orais e práticas será realizada nas Direcções ou Repartições Provinciais dos Serviços das Alfândegas, competindo ao respectivo director ou chefe providenciar por forma que candidatos que tenham prestado as provas escritas em diversas localidades sejam substituídos, nas estâncias aduaneiras onde prestam serviço, por outros, a fim de poderem comparecer à prestação das provas orais. De igual modo se procederá quando os candidatos tiverem de se deslocar para a realização das provas escritas.
+Art. 231.º A prestação das provas orais e práticas será realizada nas Direcções ou Repartições Provinciais dos Serviços das Alfândegas, competindo ao respectivo director ou chefe providenciar por forma que candidatos que tenham prestado as provas escritas em diversas localidades sejam substituídos, nas estâncias aduaneiras onde prestam serviço, por outros, a fim de poderem comparecer à prestação das provas orais. De igual modo se procederá quando os candidatos tiverem de se deslocar para a realização das provas escritas.
 
 § único. As provas orais são públicas, podendo assistir a elas os funcionários que os chefes ou encarregados dos serviços autorizem, sem prejuízo do bom andamento dos mesmos, e serão realizadas por ordem alfabética dos nomes dos candidatos, por sorteio realizado antes de iniciada a prova escrita ou por qualquer outra ordem à escolha do júri, desde que tenha por fim evitar perturbações no serviço aduaneiro, derivadas das deslocações dos candidatos, ordem que constará do respectivo aviso publicado no Boletim Oficial antes da realização da prova oral.
 
-###### Art. 232.º As provas orais para as categorias de oficial e de verificador consistirão, respectivamente, na classificação de uma série de 3 e de 5 amostras de mercadorias, na exposição dos fundamentos da mesma classificação e de um interrogatório, que poderá durar até 45 minutos, sobre o ponto e sobre a parte vaga do respectivo programa, o qual será dividido em 3 períodos, 1 para cada membro do júri, competindo ao presidente indicar de um modo geral as matérias sobre que cada membro do júri deverá interrogar. Não será incluído no período referido neste artigo o tempo gasto pelos candidatos na realização de quaisquer ensaios físicos ou químicos.
+Art. 232.º As provas orais para as categorias de oficial e de verificador consistirão, respectivamente, na classificação de uma série de 3 e de 5 amostras de mercadorias, na exposição dos fundamentos da mesma classificação e de um interrogatório, que poderá durar até 45 minutos, sobre o ponto e sobre a parte vaga do respectivo programa, o qual será dividido em 3 períodos, 1 para cada membro do júri, competindo ao presidente indicar de um modo geral as matérias sobre que cada membro do júri deverá interrogar. Não será incluído no período referido neste artigo o tempo gasto pelos candidatos na realização de quaisquer ensaios físicos ou químicos.
 
 § 1.º As provas orais dos concursos para admissão ou promoção nos outros quadros aduaneiros terão a duração máxima de meia hora.
 
 § 2.º Serão em número de três as séries de amostras para cada candidato, das quais os concorrentes tirarão à sorte as que tiverem de classificar, e estarão sumàriamente referenciadas no respectivo ponto.
 
-###### Art. 233.º A prova oral para a categoria de reverificador consistirá na exposição e crítica, sob os aspectos técnico, económico e fiscal, respeitantes a determinados artigos constantes das instruções preliminares e dos textos das pautas aduaneiras vigentes na província, assim como sobre os respectivos índices remissivos, o que constituirá o respectivo ponto, e de um interrogatório sobre o ponto e a parte vaga do programa, efectuado pelos membros do júri durante o período e condições prescritos na primeira parte do corpo do artigo antecedente.
+Art. 233.º A prova oral para a categoria de reverificador consistirá na exposição e crítica, sob os aspectos técnico, económico e fiscal, respeitantes a determinados artigos constantes das instruções preliminares e dos textos das pautas aduaneiras vigentes na província, assim como sobre os respectivos índices remissivos, o que constituirá o respectivo ponto, e de um interrogatório sobre o ponto e a parte vaga do programa, efectuado pelos membros do júri durante o período e condições prescritos na primeira parte do corpo do artigo antecedente.
 
-###### Art. 234.º Aos candidatos às provas orais referidas nos dois artigos anteriores será concedido o prazo de hora e meia para organizarem a razão de ordem das suas exposições, podendo servir-se durante esse período dos livros e apontamentos que trouxerem e solicitar quaisquer livros ou documentos que careçam de consultar, desde que existam na biblioteca ou nos arquivos da Direcção ou Repartição Provincial dos Serviços ou nos da Inspecção Superior das Alfândegas. Ser-lhes-á também concedido o prazo de meia hora para exporem perante o júri, no início da prova, os fundamentos da classificação das amostras que lhes couberam em sorteio, no caso de concursos para as categorias de oficial e de verificador, e os das respectivas exposição e crítica, no caso de concursos para a categoria de reverificador.
+Art. 234.º Aos candidatos às provas orais referidas nos dois artigos anteriores será concedido o prazo de hora e meia para organizarem a razão de ordem das suas exposições, podendo servir-se durante esse período dos livros e apontamentos que trouxerem e solicitar quaisquer livros ou documentos que careçam de consultar, desde que existam na biblioteca ou nos arquivos da Direcção ou Repartição Provincial dos Serviços ou nos da Inspecção Superior das Alfândegas. Ser-lhes-á também concedido o prazo de meia hora para exporem perante o júri, no início da prova, os fundamentos da classificação das amostras que lhes couberam em sorteio, no caso de concursos para as categorias de oficial e de verificador, e os das respectivas exposição e crítica, no caso de concursos para a categoria de reverificador.
 
 § único. Os candidatos ficarão isolados durante o período a que se refere a primeira parte do corpo deste artigo.
 
-###### Art. 235.º Os candidatos aos concursos para as categorias de oficial e de verificador entregarão uma nota, por eles assinada, sobre a classificação pautal que atribuíram às amostras que lhes couberam em sorteio, que será recolhida pelo secretário do júri meia hora depois de iniciado o período referido na primeira parte do artigo anterior.
+Art. 235.º Os candidatos aos concursos para as categorias de oficial e de verificador entregarão uma nota, por eles assinada, sobre a classificação pautal que atribuíram às amostras que lhes couberam em sorteio, que será recolhida pelo secretário do júri meia hora depois de iniciado o período referido na primeira parte do artigo anterior.
 
-###### Art. 236.º As séries de amostras para as provas orais serão organizadas pelos júris referidos nos artigos 258.º ou 259.º, conforme as provas se realizem na Inspecção Superior das Alfândegas ou nas províncias, em um dos dois últimos dias que precederem o do início das provas, constituindo cada série um ponto da respectiva prova. Serão organizadas tantas séries de amostras, constituindo cada uma um ponto, quantos os candidatos admitidos à prova oral e mais duas, numeradas seguidamente. O ponto que sair no sorteio será substituído, para o candidato seguinte, pelo que tiver o númera imediato da numeração geral.
+Art. 236.º As séries de amostras para as provas orais serão organizadas pelos júris referidos nos artigos 258.º ou 259.º, conforme as provas se realizem na Inspecção Superior das Alfândegas ou nas províncias, em um dos dois últimos dias que precederem o do início das provas, constituindo cada série um ponto da respectiva prova. Serão organizadas tantas séries de amostras, constituindo cada uma um ponto, quantos os candidatos admitidos à prova oral e mais duas, numeradas seguidamente. O ponto que sair no sorteio será substituído, para o candidato seguinte, pelo que tiver o númera imediato da numeração geral.
 
 § único. Os pontos para as provas orais dos concursos para a categoria de reverificador serão elaborados pelo júri referido no artigo 258.º deste estatuto e enviados ao governo da respectiva província em número igual ao dos candidatos e mais dois.
 
-###### Art. 237.º A falta a qualquer acto dos concursos importa exclusão para o candidato.
+Art. 237.º A falta a qualquer acto dos concursos importa exclusão para o candidato.
 
 § 1.º Se a absoluta impossibilidade de comparência for suficientemente justificada perante o júri dentro do prazo por este marcado, de que será feita notificação ao candidato pelo respectivo secretário, poderá aquele ser autorizado a prestar as suas provas.
 
 § 2.º No caso previsto no parágrafo anterior, será sorteado de entre os pontos remanescentes outro ponto para a prova escrita, se for caso disso, na forma prescrita no artigo 226.º deste estatuto.
 
-###### Art. 238.º As matérias sobre que versarão as provas, tanto escritas como orais ou práticas, dos concursos para admissão ou promoção nos diversos quadros aduaneiros constarão de programas aprovados por portaria do Ministro do Ultramar.
+Art. 238.º As matérias sobre que versarão as provas, tanto escritas como orais ou práticas, dos concursos para admissão ou promoção nos diversos quadros aduaneiros constarão de programas aprovados por portaria do Ministro do Ultramar.
 
-###### Art. 239.º Na avaliação das provas, que será feita por votação, mas nunca por escrutínio secreto, atender-se-á principalmente à aptidão, inteligência e conhecimento que os concorrentes tiverem manifestado no desenvolvimento, por escrito, dos pontos que lhes tenham cabido, assim como à firmeza e discernimento que tiverem demonstrado na prova oral. Na classificação das provas escritas deverá atender-se também à redacção e fácil legibilidade.
+Art. 239.º Na avaliação das provas, que será feita por votação, mas nunca por escrutínio secreto, atender-se-á principalmente à aptidão, inteligência e conhecimento que os concorrentes tiverem manifestado no desenvolvimento, por escrito, dos pontos que lhes tenham cabido, assim como à firmeza e discernimento que tiverem demonstrado na prova oral. Na classificação das provas escritas deverá atender-se também à redacção e fácil legibilidade.
 
-###### Art. 240.º A cada prova, assim como na classificação final, será dada a média dos valores que, de 0 a 20, lhe forem atribuídos pelo júri.
+Art. 240.º A cada prova, assim como na classificação final, será dada a média dos valores que, de 0 a 20, lhe forem atribuídos pelo júri.
 
-###### Art. 241.º A classificação da prova escrita será publicada, por meio de edital afixado nos locais onde foi efectuada, antes de realizada a prova oral e é eliminatória para os concorrentes que tenham obtido nela uma valorização inferior a 7 valores.
+Art. 241.º A classificação da prova escrita será publicada, por meio de edital afixado nos locais onde foi efectuada, antes de realizada a prova oral e é eliminatória para os concorrentes que tenham obtido nela uma valorização inferior a 7 valores.
 
-###### Art. 242.º A classificação final de todas as provas será feita pela forma seguinte:
+Art. 242.º A classificação final de todas as provas será feita pela forma seguinte:
 
 a) Muito bom: os que tiverem alcançado uma valorização final igual ou superior a 18 valores;
 
@@ -1962,15 +2074,15 @@ c) Regular: os que tiverem obtido uma média inferior a 14 valores, mas igual ou
 
 § único. São considerados aprovados os candidatos que obtiverem a média final igual ou superior a 10 valores e excluídos os restantes.
 
-###### Art. 243.º Nos concursos para promoção às categorias mencionadas nas alíneas c) a e) do artigo 126.º será atribuída uma valorização de meio valor, que será adicionada à média final resultante da classificação das respectivas provas, às informações dos candidatos de que constem louvores conferidos pelos governadores, inspectores e directores ou chefes provinciais por actos por eles praticados na respectiva categoria, quando os mesmos estejam ìntimamente relacionados com o exercício das funções aduaneiras. Aquela valorização será de 2 valores quando tais louvores evidenciem excepcionais qualidades reveladas no exercício de funções de direcção da sede de uma alfândega ou de chefia de uma repartição, e em especial de uma estância aduaneira extra-urbana, desde que, em qualquer dos casos, os candidatos não tenham sido excluídos.
+Art. 243.º Nos concursos para promoção às categorias mencionadas nas alíneas c) a e) do artigo 126.º será atribuída uma valorização de meio valor, que será adicionada à média final resultante da classificação das respectivas provas, às informações dos candidatos de que constem louvores conferidos pelos governadores, inspectores e directores ou chefes provinciais por actos por eles praticados na respectiva categoria, quando os mesmos estejam ìntimamente relacionados com o exercício das funções aduaneiras. Aquela valorização será de 2 valores quando tais louvores evidenciem excepcionais qualidades reveladas no exercício de funções de direcção da sede de uma alfândega ou de chefia de uma repartição, e em especial de uma estância aduaneira extra-urbana, desde que, em qualquer dos casos, os candidatos não tenham sido excluídos.
 
-###### Art. 244.º A classificação final será a média das classificações obtidas em todas as provas prestadas, adicionada da valorização das informações referidas no artigo anterior. No caso de concursos para a categoria de reverificador-chefe, atender-se-á, na classificação da respectiva prova, ao merecimento dos trabalhos referidos no artigo 219.º que hajam sido apresentados pelos candidatos.
+Art. 244.º A classificação final será a média das classificações obtidas em todas as provas prestadas, adicionada da valorização das informações referidas no artigo anterior. No caso de concursos para a categoria de reverificador-chefe, atender-se-á, na classificação da respectiva prova, ao merecimento dos trabalhos referidos no artigo 219.º que hajam sido apresentados pelos candidatos.
 
 § único. Das actas dos concursos deverão constar pormenorizadamente os fundamentos das valorizações atribuídas aos candidatos, nos termos do corpo deste artigo e dos artigos anteriores, só sendo considerados os louvores conferidos ao candidato na categoria que possua à data do termo das respectivas provas.
 
-###### Art. 245.º De todos os concursos serão lavradas actas, que serão arquivadas em pasta especial, delas constando sucintamente, mas com clareza, todas as resoluções tomadas, os resultados das provas e a discriminação das matérias dos pontos que couberam aos candidatos. Logo que estejam terminadas todas as operações respeitantes aos concursos, serão queimados os pontos que não foram utilizados, de que se lavrará o respectivo auto, que será remetido à Inspecção Superior das Alfândegas, se os pontos tiverem sido elaborados pelo júri que nela funciona.
+Art. 245.º De todos os concursos serão lavradas actas, que serão arquivadas em pasta especial, delas constando sucintamente, mas com clareza, todas as resoluções tomadas, os resultados das provas e a discriminação das matérias dos pontos que couberam aos candidatos. Logo que estejam terminadas todas as operações respeitantes aos concursos, serão queimados os pontos que não foram utilizados, de que se lavrará o respectivo auto, que será remetido à Inspecção Superior das Alfândegas, se os pontos tiverem sido elaborados pelo júri que nela funciona.
 
-###### Art. 246.º Os nomes dos concorrentes aprovados serão dispostos numa lista por ordem da valorização que lhes foi atribuída.
+Art. 246.º Os nomes dos concorrentes aprovados serão dispostos numa lista por ordem da valorização que lhes foi atribuída.
 
 § 1.º Nos concursos de admissão, em igualdade de valorização, preferem, por sua ordem, salvo nos casos prescritos no § único do artigo 124.º e no artigo 137.º, os que tiverem:
 
@@ -1992,17 +2104,17 @@ c) Regular: os que tiverem obtido uma média inferior a 14 valores, mas igual ou
 
 § 3.º A classificação final constará da respectiva lista, por ordem da valorização que foi atribuída aos candidatos, e será publicada no Diário do Governo, nos concursos realizados na Inspecção Superior das Alfândegas, e no Boletim Oficial, nos concursos realizados tanto naquela Inspecção Superior como nas províncias ultramarinas, e ainda por meio de edital afixado na Inspecção Superior das Alfândegas ou na Direcção ou Repartição Provincial dos Serviços das Alfândegas, conforme as províncias.
 
-###### Art. 247.º Os candidatos podem recorrer para o governador acerca de quaisquer irregularidades que tenham ocorrido na realização das respectivas provas e da sua decisão para o Ministro do Ultramar.
+Art. 247.º Os candidatos podem recorrer para o governador acerca de quaisquer irregularidades que tenham ocorrido na realização das respectivas provas e da sua decisão para o Ministro do Ultramar.
 
 Poderão também recorrer para o júri referido no artigo 258.º da classificação das provas escritas, quando estas sejam realizadas na respectiva província, assim como do facto de não terem sido devidamente consideradas na ordem da colocação na lista referida no § 3.º do artigo anterior as preferências especificadas nos §§ 1.º ou 2.º do mesmo artigo de que sejam possuidores.
 
-###### Art. 248.º As provas dos concursos para admissão a os diversos quadros aduaneiros serão realizadas nas Direcções ou Repartições Provinciais dos Serviços das Alfândegas, salvo nos casos em que os concursos hajam também sido abertos na metrópole, cujas provas se realizarão na Inspecção Superior das Alfândegas, e nos prescritos no corpo do artigo 223.º, no parágrafo seguinte e no artigo 250.º deste estatuto.
+Art. 248.º As provas dos concursos para admissão a os diversos quadros aduaneiros serão realizadas nas Direcções ou Repartições Provinciais dos Serviços das Alfândegas, salvo nos casos em que os concursos hajam também sido abertos na metrópole, cujas provas se realizarão na Inspecção Superior das Alfândegas, e nos prescritos no corpo do artigo 223.º, no parágrafo seguinte e no artigo 250.º deste estatuto.
 
 § único. As provas dos candidatos às categorias de reverificados e de reverificador-chefe serão sempre realizadas nas Direcções ou Repartições Provinciais dos Serviços das Alfândegas, salvo no caso de serem realizadas na Inspecção Superior das Alfândegas.
 
-###### Art. 249.º Os funcionários que se deslocarem das localidades onde se encontrarem, dentro da província, são responsáveis pela importância da passagem da ida e do regresso, que pagarão à sua custa, se tiverem desistido de prestar provas, independentemente do procedimento disciplinar a que a falta de comparência possa dar lugar.
+Art. 249.º Os funcionários que se deslocarem das localidades onde se encontrarem, dentro da província, são responsáveis pela importância da passagem da ida e do regresso, que pagarão à sua custa, se tiverem desistido de prestar provas, independentemente do procedimento disciplinar a que a falta de comparência possa dar lugar.
 
-###### Art. 250.º Os funcionários do quadro técnico-aduaneiro do ultramar que se encontrem na metrópole em qualquer situação legal prestarão as suas provas perante o júri referido no artigo 258.º, se tiverem sido convocados na respectiva província para prestação das provas do concurso para promoção à categoria imediata, ou se as houverem requerido por terem satisfeito a todas as condições legais exigidas para a admissão ao respectivo concurso.
+Art. 250.º Os funcionários do quadro técnico-aduaneiro do ultramar que se encontrem na metrópole em qualquer situação legal prestarão as suas provas perante o júri referido no artigo 258.º, se tiverem sido convocados na respectiva província para prestação das provas do concurso para promoção à categoria imediata, ou se as houverem requerido por terem satisfeito a todas as condições legais exigidas para a admissão ao respectivo concurso.
 
 § 1.º Para cumprimento da disposição do corpo do artigo, a Direcção ou Repartição Provincial dos serviços das Alfândegas enviará, por via telegráfica ou aos serviços aduaneiros do Ministério do Ultramar, a lista dos funcionários que foram convocados, cumprindo àqueles serviços remeter aquela lista à 1.ª Repartição da Direcção-Geral de Administração Política e Civil, a fim de a mesma ser publicada no Diário do Governo, com a indicação do prazo para a realização das respectivas provas.
 
@@ -2012,7 +2124,7 @@ Poderão também recorrer para o júri referido no artigo 258.º da classificaç
 
 § 4.º No caso de os pontos haverem sido elaborados pelo júri da respectiva província, por se tratar de funcionários dos quadros mencionados na alínea c) do artigo 217.º que requereram a prestação das provas nos termos do § 2.º, proceder-se-á conforme ficou preceituado no parágrafo anterior por parte da Direcção ou Repartição Provincial dos Serviços das Alfândegas, a qual enviará à Inspecção Superior das mesmas Alfândegas uma colecção dos referidos pontos, sendo, porém, a marcação das respectivas provas efectuadas neste caso, por aquela Inspecção Superior, nas condições prescritas no parágrafo anterior.
 
-###### Art. 251.º As provas escritas prestadas pelos candidatos na Inspecção Superior das Alfândegas serão encerradas em sobrescrito devidamente lacrado e rubricado pelo respectivo júri, que rubricará também todas as páginas das referidas provas, e remetidas imediatamente ao governo da respectiva província, para serem apreciadas e classificadas pelo júri que nela funcionar.
+Art. 251.º As provas escritas prestadas pelos candidatos na Inspecção Superior das Alfândegas serão encerradas em sobrescrito devidamente lacrado e rubricado pelo respectivo júri, que rubricará também todas as páginas das referidas provas, e remetidas imediatamente ao governo da respectiva província, para serem apreciadas e classificadas pelo júri que nela funcionar.
 
 § 1.º Exceptuam-se do disposto no corpo deste artigo as provas prestadas pelos candidatos às categorias de reverificador e de reverificador-chefe, assim como as referidas no § l.º do artigo 136.º, as quais serão classificadas pelo júri referido no artigo 258.º deste estatuto.
 
@@ -2020,31 +2132,31 @@ Poderão também recorrer para o júri referido no artigo 258.º da classificaç
 
 § 3.º O presidente do júri referido no artigo 258.º comunicará imediatamente, por via aérea ou telegráfica, ao Governo da respectiva província, a classificação final atribuída aos candidatos que prestaram provas na Inspecção Superior das Alfândegas, assim como a daquelas que para ela foram remetidas para serem classificadas, a fim de constarem da lista a publicar no Boletim Oficial, a qual será depois disso considerada definitiva.
 
-###### Art. 252.º As Direcções ou Repartições Provinciais dos Serviços das Alfândegas enviarão à Inspecção Superior das Alfândegas, com a devida antecedência, as notas biográficas e outros documentos respeitantes aos candidatos que nela tenham de prestar provas e que se tornam necessários para apreciação e classificação a efectuar pelo júri referido no artigo 258.º deste estatuto.
+Art. 252.º As Direcções ou Repartições Provinciais dos Serviços das Alfândegas enviarão à Inspecção Superior das Alfândegas, com a devida antecedência, as notas biográficas e outros documentos respeitantes aos candidatos que nela tenham de prestar provas e que se tornam necessários para apreciação e classificação a efectuar pelo júri referido no artigo 258.º deste estatuto.
 
-###### Art. 253.º Os concursos para ingresso ou promoção nos diversos quadros aduaneiros terão a validade de três anos, contados da data da publicação da lista definitiva dos candidatos aprovados. Porém, este prazo pode ser prorrogado até serem promovidos os que hajam obtido no respectivo concurso a classificação de Bom, não podendo a prorrogação exceder dois anos.
+Art. 253.º Os concursos para ingresso ou promoção nos diversos quadros aduaneiros terão a validade de três anos, contados da data da publicação da lista definitiva dos candidatos aprovados. Porém, este prazo pode ser prorrogado até serem promovidos os que hajam obtido no respectivo concurso a classificação de Bom, não podendo a prorrogação exceder dois anos.
 
 #### SECÇÃO II — Das nomeações e posses
 
-###### Art. 254.º De entre os concorrentes aprovados serão nomeados ou promovidos, conforme os casos, os que tiverem obtido maior valorização, conforme a ordem constante das respectivas listas e nas condições prescritas nos artigos 137.º, § 2.º do artigo 156.º e artigo 246.º deste estatuto.
+Art. 254.º De entre os concorrentes aprovados serão nomeados ou promovidos, conforme os casos, os que tiverem obtido maior valorização, conforme a ordem constante das respectivas listas e nas condições prescritas nos artigos 137.º, § 2.º do artigo 156.º e artigo 246.º deste estatuto.
 
 § 1.º Nenhuma nomeação ou promoção se fará para os quadros técnico-aduaneiros do ultramar sem que a respectiva junta de saúde declare que o funcionário se encontra fìsicamente capaz de exercer todas as funções inerentes aos cargos correspondentes à sua categoria em quaisquer alfândegas, e designadamente as inerentes aos serviços de verificação e de reverificação.
 
 § 2.º Os funcionários de quaisquer quadros aduaneiros do ultramar que se encontrem fora da respectiva província, quando sejam promovidos à categoria imediata ou nomeados para outros quadros, poderão tomar posse dos respectivos lugares no Ministério do Ultramar, ou perante os governadores civis da metrópole, desde que a requeiram ao Ministro do Ultramar. Poderão também tomar posse perante o secretário-geral de uma província de governo-geral, ou o governador de uma província de governo simples, se a houverem requerido ao governador da província a cujo quadro pertencem, o qual enviará àquele governo a comunicação sobre a decisão que tomou acerca da pretensão do requerente.
 
-###### Art. 255.º Só serão promovidos à categoria de reverificador os verificadores do quadro técnico-aduaneiro privativo das diversas províncias, com excepção da de Timor, que tenham exercido pelo menos durante um ano consecutivo, ou em dois interpoladamente, naquela ou noutras categorias do mesmo quadro, com carácter efectivo ou interino e com boas informações, o cargo do chefe de uma estância aduaneira extra-urbana.
+Art. 255.º Só serão promovidos à categoria de reverificador os verificadores do quadro técnico-aduaneiro privativo das diversas províncias, com excepção da de Timor, que tenham exercido pelo menos durante um ano consecutivo, ou em dois interpoladamente, naquela ou noutras categorias do mesmo quadro, com carácter efectivo ou interino e com boas informações, o cargo do chefe de uma estância aduaneira extra-urbana.
 
 § único. A disposição deste artigo não é aplicável aos antigos segundos-verificadores que tenham beneficiado das disposições do artigo 22.º do [Decreto n.º 41187](https://diariodarepublica.pt/dr/detalhe/decreto/41187-1957-279402) para a sua admissão ao concurso para promoção à antiga categoria de primeiro-verificador, nem aos que hajam exercido com boas informações o cargo de chefe da 1.ª secção de qualquer alfândega durante o mesmo período anteriormente à data da publicação deste estatuto nem aos oficiais referidos no artigo 143.º
 
-###### Art. 256.º Serão promovidos à categoria de oficial e de verificador, nas vagas que ocorrerem até à abertura de novo concurso, os acurais aspirantes e terceiros-verificadores já aprovados em anterior concurso, assim como os actuais segundos-verificadores à nova categoria de reverificador, desde que satisfaçam às condições prescritas no artigo anterior.
+Art. 256.º Serão promovidos à categoria de oficial e de verificador, nas vagas que ocorrerem até à abertura de novo concurso, os acurais aspirantes e terceiros-verificadores já aprovados em anterior concurso, assim como os actuais segundos-verificadores à nova categoria de reverificador, desde que satisfaçam às condições prescritas no artigo anterior.
 
 § único. O prazo para a abertura de novos concursos para promoção a quaisquer dos lugares referidos nas alíneas d) a f) do artigo 126.º, quando a validade dos anteriores já tenha caducado à data da publicação deste estatuto, não poderá exceder três meses depois desta data.
 
-###### Art. 257.º São extensivas, na parte aplicável, aos empregados dos diversos quadros aduaneiros, além dos preceitos deste estatuto, as disposições do Estatuto do Funcionalismo Ultramarino respeitantes a concursos, nomeações, promoções e posses.
+Art. 257.º São extensivas, na parte aplicável, aos empregados dos diversos quadros aduaneiros, além dos preceitos deste estatuto, as disposições do Estatuto do Funcionalismo Ultramarino respeitantes a concursos, nomeações, promoções e posses.
 
 #### SECÇÃO III — Dos júris dos concursos
 
-###### Art. 258.º O júri de assistência e apreciação das provas dos concursos para ingresso e promoção nos diversos quadros aduaneiros do ultramar, a realizar na Inspecção Superior das Alfândegas, terá a composição que a seguir vai indicada:
+Art. 258.º O júri de assistência e apreciação das provas dos concursos para ingresso e promoção nos diversos quadros aduaneiros do ultramar, a realizar na Inspecção Superior das Alfândegas, terá a composição que a seguir vai indicada:
 
 Presidente - O inspector superior das Alfândegas;
 
@@ -2054,7 +2166,7 @@ Secretário - Um dos oficiais do quadro da Repartição das Alfândegas designad
 
 § único. Na falta de um dos vogais poderá ser nomeado o representante da Direcção-Geral das Alfândegas no Conselho Superior Técnico-Aduaneiro, com o acordo do Ministro das Finanças.
 
-###### Art. 259.º Os júris para assistirem e apreciarem as provas para ingresso e promoção no quadro técnico-aduaneiro a realizar nas diversas províncias ultramarinas terão a composição que a seguir vai indicada:
+Art. 259.º Os júris para assistirem e apreciarem as provas para ingresso e promoção no quadro técnico-aduaneiro a realizar nas diversas províncias ultramarinas terão a composição que a seguir vai indicada:
 
 a) Nas províncias de Angola e de Moçambique:
 
@@ -2108,17 +2220,17 @@ Em qualquer dos casos passarão a fazer parte do júri os chefes das Repartiçõ
 
 § 5.º Se existir parentesco até ao segundo grau da linha colateral entre um concorrente e qualquer membro do júri, será este substituído por outro membro designado pelo governador, ouvido o director ou chefe provincial dos Serviços das Alfândegas, cumprindo para o efeito ao referido membro declarar-se impedido.
 
-###### Art. 260.º O júri para promoção de auxiliares de verificação de 1.ª classe será constituído, nas províncias de Angola e de Moçambique, pelo adjunto do director provincial dos Serviços, que será o presidente, e terá como vogais o chefe da 2.ª Repartição da mesma Direcção e um chefe de secção da mesma Repartição, servindo de secretário um funcionário dos quadros técnico ou auxiliar designado pelo director dos Serviços.
+Art. 260.º O júri para promoção de auxiliares de verificação de 1.ª classe será constituído, nas províncias de Angola e de Moçambique, pelo adjunto do director provincial dos Serviços, que será o presidente, e terá como vogais o chefe da 2.ª Repartição da mesma Direcção e um chefe de secção da mesma Repartição, servindo de secretário um funcionário dos quadros técnico ou auxiliar designado pelo director dos Serviços.
 
 § 1.º Na falta ou impedimento do adjunto presidirá ao júri o chefe da 1.ª Repartição da Direcção Provincial dos Serviços das Alfândegas. Nas restantes províncias os júris para a admissão de dactilógrafos e de promoção de auxiliares de verificação serão, respectivamente, os mencionados nas alíneas b) a e) do artigo 259.º deste estatuto.
 
 § 2.º Para admissão às classes de dactilógrafo e de estenodactilógrafo o chefe de secção a que se refere o corpo do artigo será substituído por um mestre especializado do ensino técnico comercial, nomeado pelo governador e designado pelos serviços provinciais de instrução.
 
-###### Art. 261.º A comissão de fiscalização das provas a realizar nas sedes das alfândegas das províncias de governo-geral e na de Cabo Verde, com excepção das mencionadas no § 2.º do artigo 107.º deste estatuto, será constituída pelo director da alfândega, como presidente, e terá como vogais o delegado do procurador da República da comarca local e o subdirector da mesma alfândega, servindo de secretário um funcionário dos quadros técnico ou auxiliar designado pelo presidente.
+Art. 261.º A comissão de fiscalização das provas a realizar nas sedes das alfândegas das províncias de governo-geral e na de Cabo Verde, com excepção das mencionadas no § 2.º do artigo 107.º deste estatuto, será constituída pelo director da alfândega, como presidente, e terá como vogais o delegado do procurador da República da comarca local e o subdirector da mesma alfândega, servindo de secretário um funcionário dos quadros técnico ou auxiliar designado pelo presidente.
 
 § único. Quando os subdirectores das alfândegas mencionadas no corpo deste artigo sejam candidatos aos concursos para promoção à categoria imediata, serão substituídos na comissão pelo director distrital ou chefe dos serviços de Fazenda e contabilidade.
 
-###### Art. 262.º Os candidatos aos lugares de ingresso nos diversos quadros das alfândegas do ultramar apresentarão até ao último dia de validade do prazo de abertura do respectivo concurso, na competente direcção, repartição, secção ou serviço, além dos documentos a seguir indicados, independentemente de outros que sejam exigidos para cumprimento das disposições prescritas na secção I do capítulo II do Estatuto do Funcionalismo Ultramarino:
+Art. 262.º Os candidatos aos lugares de ingresso nos diversos quadros das alfândegas do ultramar apresentarão até ao último dia de validade do prazo de abertura do respectivo concurso, na competente direcção, repartição, secção ou serviço, além dos documentos a seguir indicados, independentemente de outros que sejam exigidos para cumprimento das disposições prescritas na secção I do capítulo II do Estatuto do Funcionalismo Ultramarino:
 
 1.º Carta de curso ou certidão das habilitações adequadas ao exercício das funções especificadas neste estatuto, conforme as categorias, ou suas públicas-formas;
 
@@ -2148,13 +2260,13 @@ Das situações, disciplina, tempo e qualidade de serviço, prerrogativas, incom
 
 #### SECÇÃO I — Das situações, disciplina, tempo e qualidade do serviço
 
-###### Art. 263.º São reguladas conforme os preceitos do Estatuto do Funcionalismo Ultramarino, na parte aplicável, as situações, disciplina, tempo e qualidade de serviço dos funcionários dos diversos quadros das alfândegas.
+Art. 263.º São reguladas conforme os preceitos do Estatuto do Funcionalismo Ultramarino, na parte aplicável, as situações, disciplina, tempo e qualidade de serviço dos funcionários dos diversos quadros das alfândegas.
 
-###### Art. 264.º A colocação dos funcionários dos diversos quadros dos serviços das alfândegas em estâncias aduaneiras situadas em localidades insalubres ou isoladas não excederá, em regra, o período de dois anos consecutivos, podendo, no entanto, essa colocação manter-se com a anuência dos interessados.
+Art. 264.º A colocação dos funcionários dos diversos quadros dos serviços das alfândegas em estâncias aduaneiras situadas em localidades insalubres ou isoladas não excederá, em regra, o período de dois anos consecutivos, podendo, no entanto, essa colocação manter-se com a anuência dos interessados.
 
 #### SECÇÃO II — Das prerrogativas, incompatibilidades, dos actos, direitos e deveres
 
-###### Art. 265.º É vedado a todo o pessoal dos diversos quadros aduaneiros:
+Art. 265.º É vedado a todo o pessoal dos diversos quadros aduaneiros:
 
 1.º Arrematar qualquer objecto ou mercadoria nos leilões realizados nas alfândegas;
 
@@ -2168,29 +2280,29 @@ Das situações, disciplina, tempo e qualidade de serviço, prerrogativas, incom
 
 § único. O preceituado no corpo deste artigo não isenta o pessoal aduaneiro da sujeição a quaisquer outras proibições e incompatibilidades consignadas em leis de carácter geral ou especial.
 
-###### Art. 266.º Os directores das alfândegas e os chefes das diversas estâncias aduaneiras poderão, como medida preventiva e em casos graves e urgentes, desligar do serviço qualquer seu subordinado, dando imediatamente conta do facto superiormente, levantando o competente auto relativo aos factos que deram motivo à desligação do serviço.
+Art. 266.º Os directores das alfândegas e os chefes das diversas estâncias aduaneiras poderão, como medida preventiva e em casos graves e urgentes, desligar do serviço qualquer seu subordinado, dando imediatamente conta do facto superiormente, levantando o competente auto relativo aos factos que deram motivo à desligação do serviço.
 
 § 1.º A desligação será determinada em despacho fundamentado no auto referido no corpo do artigo, ouvido prèviamente o funcionário desligado, devendo o auto de notícia ser submetido à autoridade competente, no prazo de 48 horas, para os fins prescritos no artigo 391.º do Estatuto do Funcionalismo Ultramarino.
 
 § 2.º A desligação a que alude este artigo não será registada, nem produzirá efeitos de perda de antiguidade e de vencimentos, senão quando for devidamente confirmada, observando-se neste caso os preceitos dos artigos 385.º e seguintes do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 267.º Será imposta suspensão de exercício a qualquer funcionário pronunciado em processo criminal, nos termos do corpo do artigo 385.º do Estatuto do Funcionalismo Ultramarino, ou indiciado em processo fiscal por delitos de descaminho ou de contrabando, só terminando essa suspensão por efeito de sentença absolutória, por amnistia ou por indulto.
+Art. 267.º Será imposta suspensão de exercício a qualquer funcionário pronunciado em processo criminal, nos termos do corpo do artigo 385.º do Estatuto do Funcionalismo Ultramarino, ou indiciado em processo fiscal por delitos de descaminho ou de contrabando, só terminando essa suspensão por efeito de sentença absolutória, por amnistia ou por indulto.
 
 § único. A suspensão de exercício poderá ser ou não acompanhada de suspensão total ou parcial de vencimentos.
 
-###### Art. 268.º Ao pessoal dos diversos quadros aduaneiros será sempre aplicada a pena de demissão nos casos de condenação definitiva em qualquer pena por furto, roubo, abuso de confiança, burla, recepção de coisa furtada, roubada, falsidade, contrabando e descaminho de direitos ou de outras imposições cuja cobrança esteja cometida às alfândegas.
+Art. 268.º Ao pessoal dos diversos quadros aduaneiros será sempre aplicada a pena de demissão nos casos de condenação definitiva em qualquer pena por furto, roubo, abuso de confiança, burla, recepção de coisa furtada, roubada, falsidade, contrabando e descaminho de direitos ou de outras imposições cuja cobrança esteja cometida às alfândegas.
 
-###### Art. 269.º A acção penal ou fiscal contra o pessoal aduaneiro não prejudica a responsabilidade disciplinar que lhe possa ser exigida pelas mesmas infracções de que for acusado naquela acção.
+Art. 269.º A acção penal ou fiscal contra o pessoal aduaneiro não prejudica a responsabilidade disciplinar que lhe possa ser exigida pelas mesmas infracções de que for acusado naquela acção.
 
 § 1.º O processo disciplinar seguirá seus termos independentemente do processo penal ou fiscal, salvo quanto à decisão, que poderá aguardar o julgamento deste processo para o tomar em conta.
 
 § 2.º A suspensão prevista no parágrafo antecedente está sujeita às disposições dos diferentes parágrafos do artigo 4.º do Código de Processo Penal.
 
-###### Art. 270.º A todo o pessoal aduaneiro a quem tiver sido imposta demissão em resultado de processos de contrabando ou descaminho de direitos é proibida a entrada nas estâncias aduaneiras.
+Art. 270.º A todo o pessoal aduaneiro a quem tiver sido imposta demissão em resultado de processos de contrabando ou descaminho de direitos é proibida a entrada nas estâncias aduaneiras.
 
-###### Art. 271.º Além das prerrogativas e direitos atribuídos por este estatuto aos funcionários dos quadros técnico e auxiliar aduaneiros e aos agentes da fiscalização aduaneira, usufruem estes funcionários também os que estão especificados nos artigos 18.º a 20.º do [Decreto n.º 33531](https://diariodarepublica.pt/dr/detalhe/decreto/33531-1944-272441), de 21 de Fevereiro de 1944.
+Art. 271.º Além das prerrogativas e direitos atribuídos por este estatuto aos funcionários dos quadros técnico e auxiliar aduaneiros e aos agentes da fiscalização aduaneira, usufruem estes funcionários também os que estão especificados nos artigos 18.º a 20.º do [Decreto n.º 33531](https://diariodarepublica.pt/dr/detalhe/decreto/33531-1944-272441), de 21 de Fevereiro de 1944.
 
-###### Art. 272.º Aos funcionários e agentes referidos no artigo anterior são ainda atribuídas, além das que nele se encontram especificadas, mais as seguintes prerrogativas:
+Art. 272.º Aos funcionários e agentes referidos no artigo anterior são ainda atribuídas, além das que nele se encontram especificadas, mais as seguintes prerrogativas:
 
 1.º Têm direito ao uso e porte de arma, nos termos da legislação aplicável, independentemente de licença, e não são responsáveis pelas consequências que resultem do uso legítimo que fizerem delas, em protecção dos interesses da Fazenda Nacional ou em defesa própria, no exercício das suas funções;
 
@@ -2198,25 +2310,25 @@ Das situações, disciplina, tempo e qualidade de serviço, prerrogativas, incom
 
 § único. São extensivas ao pessoal do quadro dos serviços de tesouraria as disposições do corpo deste artigo.
 
-###### Art. 273.º Ao pessoal civil da fiscalização aduaneira que tiver de desempenhar serviços especiais de acompanhamento de receitas cobradas pelas estâncias fiscais, rondas, vigilância de mercadorias ou outros serviços análogos poderão ser fornecidas as armas e munições necessárias.
+Art. 273.º Ao pessoal civil da fiscalização aduaneira que tiver de desempenhar serviços especiais de acompanhamento de receitas cobradas pelas estâncias fiscais, rondas, vigilância de mercadorias ou outros serviços análogos poderão ser fornecidas as armas e munições necessárias.
 
 § 1.º As armas e munições a que se refere o corpo do artigo ficarão depositadas em arrecadação própria nas estâncias aduaneiras, que à Direcção ou Repartição Provincial dos Serviços das Alfândegas compete determinar, quando por qualquer circunstância tenham de ser retiradas das embarcações ou quando terminem os serviços a que se refere o corpo do artigo.
 
 § 2.º As armas e munições de que os serviços aduaneiros careçam para o desempenho das funções de que trata o corpo do artigo serão por eles adquiridas por conta das verbas inscritas no orçamento para esse fim, se não houverem sido cedidas pelos depósitos de material de guerra.
 
-###### Art. 274.º Todo o pessoal aduaneiro é obrigado a residir na localidade onde desempenhar as suas funções, salvo quando se trate de localidades vizinhas a ela ligadas por carreiras de viação acelerada e nos demais casos em que, existindo motivos ponderosos e não havendo inconveniente para o serviço, for concedida autorização do governador, ouvido o director ou chefe provincial dos serviços das alfândegas.
+Art. 274.º Todo o pessoal aduaneiro é obrigado a residir na localidade onde desempenhar as suas funções, salvo quando se trate de localidades vizinhas a ela ligadas por carreiras de viação acelerada e nos demais casos em que, existindo motivos ponderosos e não havendo inconveniente para o serviço, for concedida autorização do governador, ouvido o director ou chefe provincial dos serviços das alfândegas.
 
-###### Art. 275.º O pessoal dos diversos quadros aduaneiros que preste serviço tanto nas gares marítimas como em outros locais onde tenha lugar a revisão de bagagens de passageiros e, bem assim, nas casas de despacho de mercadorias e nas diversas estâncias aduaneiras apresentar-se-á devidamente uniformizado, conforme os modelos que sejam aprovados por portaria do Ministro do ultramar. O pessoal que tiver de proceder à revisão de bagagens fará uso obrigatòriamente nesse serviço de luvas brancas.
+Art. 275.º O pessoal dos diversos quadros aduaneiros que preste serviço tanto nas gares marítimas como em outros locais onde tenha lugar a revisão de bagagens de passageiros e, bem assim, nas casas de despacho de mercadorias e nas diversas estâncias aduaneiras apresentar-se-á devidamente uniformizado, conforme os modelos que sejam aprovados por portaria do Ministro do ultramar. O pessoal que tiver de proceder à revisão de bagagens fará uso obrigatòriamente nesse serviço de luvas brancas.
 
-###### Art. 276.º São extensivos, na parte aplicável, aos funcionários dos diversos quadros das alfândegas ultramarinas os preceitos do Estatuto do Funcionalismo Ultramarino respeitantes aos actos, prerrogativas, incompatibilidades, direitos e deveres, além dos que constam dos artigos anteriores.
+Art. 276.º São extensivos, na parte aplicável, aos funcionários dos diversos quadros das alfândegas ultramarinas os preceitos do Estatuto do Funcionalismo Ultramarino respeitantes aos actos, prerrogativas, incompatibilidades, direitos e deveres, além dos que constam dos artigos anteriores.
 
 ### CAPÍTULO XI — Dos vencimentos e outros abonos e da aposentação dos funcionários dos diversos quadros das alfândegas
 
 #### SECÇÃO I — Dos vencimentos e outros abonos
 
-###### Art. 277.º Os vencimentos, gratificações e outros abonos a que têm direito os funcionários dos diversos quadros das alfândegas ultramarinas são os que constam do Estatuto do Funcionalismo Ultramarino e do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, do presente estatuto e demais legislação vigente.
+Art. 277.º Os vencimentos, gratificações e outros abonos a que têm direito os funcionários dos diversos quadros das alfândegas ultramarinas são os que constam do Estatuto do Funcionalismo Ultramarino e do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, do presente estatuto e demais legislação vigente.
 
-###### Art. 278.º Os serviços extraordinários efectuados a requerimento de partes antes ou depois das horas do expediente ordinário dentro das casas de despacho, ou fora delas a qualquer hora, serão por elas remunerados por meio de emolumentos pessoais, os quais constarão de tabelas aprovadas por portaria do governo da província, assim como os subsídios de deslocação e ajudas de custo.
+Art. 278.º Os serviços extraordinários efectuados a requerimento de partes antes ou depois das horas do expediente ordinário dentro das casas de despacho, ou fora delas a qualquer hora, serão por elas remunerados por meio de emolumentos pessoais, os quais constarão de tabelas aprovadas por portaria do governo da província, assim como os subsídios de deslocação e ajudas de custo.
 
 § 1.º Os serviços extraordinários a requerimento de partes respeitantes a operações aduaneiras a realizar fora das casas de despacho só em casos excepcionais serão realizados dentro das horas do expediente ordinário.
 
@@ -2224,7 +2336,7 @@ Das situações, disciplina, tempo e qualidade de serviço, prerrogativas, incom
 
 § 3.º As ajudas de custo serão abonadas em condições idênticas às que são devidas pelo exercício de quaisquer funções remuneradas pelas verbas inscritas no orçamento da província.
 
-###### Art. 279.º Os funcionários dos diferentes quadros aduaneiros só poderão cobrar os emolumentos, subsídios de deslocação e as ajudas de custo que constarem das tabelas de que trata o artigo 278.º deste estatuto.
+Art. 279.º Os funcionários dos diferentes quadros aduaneiros só poderão cobrar os emolumentos, subsídios de deslocação e as ajudas de custo que constarem das tabelas de que trata o artigo 278.º deste estatuto.
 
 § 1.º Os subsídios de deslocação nos serviços de conferência, verificação e reverificação de mercadorias e quaisquer outros efectuados em locais dentro da área da povoação onde estiver instalada a estância aduaneira ou casa de despacho só são devidos quando tais serviços forem efectuados a mais de 300 m de distância da casa de despacho onde foi requerida a realização do serviço. Não são devidos aqueles subsídios nos serviços efectuados junto das portas de saída dos armazéns e recintos especificados no § 2.º do artigo 736.º e na alínea a) do artigo 821.º, quando aquelas portas não distem mais de 300 m da casa de despacho.
 
@@ -2234,17 +2346,17 @@ Das situações, disciplina, tempo e qualidade de serviço, prerrogativas, incom
 
 § 4.º Constarão de ordens de serviço da Direcção ou Repartição Provincial dos Serviços das Alfândegas e dependem da aprovação do governador os locais habituais de despacho das sedes e das estâncias aduaneiras onde poderão ser cobrados subsídios de deslocação por serviços neles efectuados a requerimento de partes.
 
-###### Art. 280.º A importância dos subsídios de deslocação é contada desde a casa de despacho onde o funcionário presta serviço até ao local onde se realizar o serviço requerido, sendo devida apenas nos casos em que as partes não ponham à disposição dos funcionários os meios de transporte adequados à sua deslocação. Quando as partes puserem à disposição dos funcionários os meios de transporte, far-se-á menção dessa circunstância na petição constante do bilhete de despacho ou em requerimento.
+Art. 280.º A importância dos subsídios de deslocação é contada desde a casa de despacho onde o funcionário presta serviço até ao local onde se realizar o serviço requerido, sendo devida apenas nos casos em que as partes não ponham à disposição dos funcionários os meios de transporte adequados à sua deslocação. Quando as partes puserem à disposição dos funcionários os meios de transporte, far-se-á menção dessa circunstância na petição constante do bilhete de despacho ou em requerimento.
 
-###### Art. 281.º As imposições de que tratam os artigos anteriores são devidas sòmente quando os serviços que lhes deram origem tenham sido requeridos pelos interessados, excepção feita nos casos especiais de salvamento e de assistência a naufrágios.
+Art. 281.º As imposições de que tratam os artigos anteriores são devidas sòmente quando os serviços que lhes deram origem tenham sido requeridos pelos interessados, excepção feita nos casos especiais de salvamento e de assistência a naufrágios.
 
-###### Art. 282.º A cobrança de emolumentos pessoais por serviços extraordinários requeridos pelas partes só poderá ter lugar quando esses serviços tenham sido efectivamente desempenhados, salvo o disposto no § único do artigo 286.º Os subsídios de deslocação são sempre devidos desde que tenha havido deslocação, nos casos de que trata o 280.º, ou quando não postos à disposição dos funcionários os respectivos meios de transporte; as ajudas de custo só são devidas quando as distâncias e as demoras nos locais justifiquem a sua cobrança.
+Art. 282.º A cobrança de emolumentos pessoais por serviços extraordinários requeridos pelas partes só poderá ter lugar quando esses serviços tenham sido efectivamente desempenhados, salvo o disposto no § único do artigo 286.º Os subsídios de deslocação são sempre devidos desde que tenha havido deslocação, nos casos de que trata o 280.º, ou quando não postos à disposição dos funcionários os respectivos meios de transporte; as ajudas de custo só são devidas quando as distâncias e as demoras nos locais justifiquem a sua cobrança.
 
-###### Art. 283.º Os funcionários que receberem directamente das partes qualquer das imposições de que trata o artigo 278.º, correspondentes aos serviços mencionados nas respectivas tabelas, ficam obrigados à sua reposição, independentemente do procedimento disciplinar a que o caso possa dar lugar.
+Art. 283.º Os funcionários que receberem directamente das partes qualquer das imposições de que trata o artigo 278.º, correspondentes aos serviços mencionados nas respectivas tabelas, ficam obrigados à sua reposição, independentemente do procedimento disciplinar a que o caso possa dar lugar.
 
 § único. São extensivas à reposição de qualquer das imposições de que trata o artigo 278.º, quando indevidamente cobradas, as disposições relativas à reposição de vencimentos e a encontros e restituições de direitos e de outras imposições, na parte aplicável.
 
-###### Art. 284.º Os emolumentos pessoais, ajudas de custo e os subsídios de deslocação devidos por serviços a requerimento de partes serão pagos pelos interessados por meio de guia do modelo aprovado oficialmente, da qual deverão constar:
+Art. 284.º Os emolumentos pessoais, ajudas de custo e os subsídios de deslocação devidos por serviços a requerimento de partes serão pagos pelos interessados por meio de guia do modelo aprovado oficialmente, da qual deverão constar:
 
 a) A natureza do serviço prestado;
 
@@ -2256,19 +2368,19 @@ d) Nomes dos em pregados que os realizaram, com indicação da quantia que a cad
 
 § único. Todas as guias serão assinadas pelos funcionários que as processarem e visadas pelo chefe do serviço de despacho ou da estância aduaneira conforme os casos, os quais serão solidàriamente responsáveis com os respectivos funcionários se a cobrança for considerada menos regular ou ilegal.
 
-###### Art. 285.º Nas sedes das alfândegas e em todas as estâncias aduaneiras da província em que prestem serviço mais de dois funcionários de cada quadro deverão ser organizadas escalas para prestação de serviços extraordinários, os quais serão distribuídos por forma que no decurso de cada ano se não verifiquem diferenças sensíveis de uns para outros em relação aos proventos obtidos.
+Art. 285.º Nas sedes das alfândegas e em todas as estâncias aduaneiras da província em que prestem serviço mais de dois funcionários de cada quadro deverão ser organizadas escalas para prestação de serviços extraordinários, os quais serão distribuídos por forma que no decurso de cada ano se não verifiquem diferenças sensíveis de uns para outros em relação aos proventos obtidos.
 
 § 1.º O pessoal dos diversos quadros aduaneiros em serviço nas direcções provinciais dos serviços ou nas inspecções provinciais de Angola e de Moçambique, com excepção do director provincial, do inspector-chefe e dos seus adjuntos, entrarão nas escalas organizadas na alfândega local para a prestação de serviços extraordinários a requerimento de partes. Serão também incluídos na escala de que trata o corpo deste artigo os funcionários que estiverem prestando serviço nas delegações urbanas, quando nelas se não executem tais serviços.
 
 § 2.º Não farão parte das escalas organizadas para a prestação de serviços extraordinários a requerimento de partes os directores das alfândegas mencionadas no artigo 105.º e no corpo do artigo 107.º deste estatuto, salvo nos casos em que sejam autorizados a prestar serviço de reverificação, os quais desempenharão aqueles serviços nas condições que vierem a ser determinadas superiormente.
 
-###### Art. 286.º A não comparência de qualquer funcionário nos locais onde tenham de ser prestados quaisquer serviços extraordinários a requerimento de partes ou a sua comparência fora das horas em que os mesmos devam ser realizados será considerada infracção disciplinar.
+Art. 286.º A não comparência de qualquer funcionário nos locais onde tenham de ser prestados quaisquer serviços extraordinários a requerimento de partes ou a sua comparência fora das horas em que os mesmos devam ser realizados será considerada infracção disciplinar.
 
 § único. Quando o serviço se não efectuar por culpa dos próprios interessados e não obstante a comparência dos funcionámos, cobrar-se-á metade dos emolumentos que forem devidos, bem como os respectivos subsídios de deslocação e ajudas de custo.
 
-###### Art. 287.º A importância cobrada a título de emolumentos pessoais por cada funcionário do quadro técnico-aduaneiro será dividida em duas partes, sendo uma constituída por 75 por cento daquela importância, a qual constituirá receita do cofre de emolumentos, e sendo os 25 por cento restantes percebidos integralmente pelo funcionário que realizar o serviço que deu lugar à cobrança dos referidos emolumentos.
+Art. 287.º A importância cobrada a título de emolumentos pessoais por cada funcionário do quadro técnico-aduaneiro será dividida em duas partes, sendo uma constituída por 75 por cento daquela importância, a qual constituirá receita do cofre de emolumentos, e sendo os 25 por cento restantes percebidos integralmente pelo funcionário que realizar o serviço que deu lugar à cobrança dos referidos emolumentos.
 
-###### Art. 288.º Da receita total atribuída ao cofre de emolumentos referido no artigo anterior serão deduzidas as importâncias necessárias para pagamento das gratificações referidas no corpo do artigo 296.º e no artigo 297.º, sendo o remanescente distribuído igualmente pelos funcionários do quadro técnico-aduaneiro.
+Art. 288.º Da receita total atribuída ao cofre de emolumentos referido no artigo anterior serão deduzidas as importâncias necessárias para pagamento das gratificações referidas no corpo do artigo 296.º e no artigo 297.º, sendo o remanescente distribuído igualmente pelos funcionários do quadro técnico-aduaneiro.
 
 § 1.º Não partilham da distribuição referida no corpo deste artigo os directores provinciais dos serviços das alfândegas assim como os inspectores dos mesmos serviços e seus adjuntos.
 
@@ -2276,27 +2388,27 @@ d) Nomes dos em pregados que os realizaram, com indicação da quantia que a cad
 
 § 3.º São extensivas, na parte aplicável, aos funcionários de outros quadros aduaneiros as disposições deste artigo quando forem organizados cofres comuns para o pessoal dos respectivos quadros.
 
-###### Art. 289.º Quando não existirem cofres comuns para o pessoal de outros quadros aduaneiros que efectuem serviços que dêem direito à cobrança de emolumentos pessoais, será abonada a importância correspondente a 10 por cento dos emolumentos cobrados, constituindo os restantes 10 por cento receita da Fazenda Nacional.
+Art. 289.º Quando não existirem cofres comuns para o pessoal de outros quadros aduaneiros que efectuem serviços que dêem direito à cobrança de emolumentos pessoais, será abonada a importância correspondente a 10 por cento dos emolumentos cobrados, constituindo os restantes 10 por cento receita da Fazenda Nacional.
 
-###### Art. 290.º A administração dos cofres comuns dos emolumentos dos funcionários dos diversos quadros aduaneiros está a cargo da 1.ª secção da 2.ª Repartição nas Direcções Provinciais dos Serviços das Alfândegas e da 2.ª secção da sede da respectiva alfândega nas repartições provinciais dos mesmos serviços. No Estado da Índia a administração do referido cofre estará a cargo da 2.ª secção da Repartição da Direcção dos Serviços.
+Art. 290.º A administração dos cofres comuns dos emolumentos dos funcionários dos diversos quadros aduaneiros está a cargo da 1.ª secção da 2.ª Repartição nas Direcções Provinciais dos Serviços das Alfândegas e da 2.ª secção da sede da respectiva alfândega nas repartições provinciais dos mesmos serviços. No Estado da Índia a administração do referido cofre estará a cargo da 2.ª secção da Repartição da Direcção dos Serviços.
 
-###### Art. 291.º Não são abrangidos pelas disposições dos artigos 287.º e 288.º os emolumentos pessoais cobrados pela desalfandegação de encomendas postais e os resultantes do serviço de assistência a naufrágios e outros sinistros, os quais serão percebidos integralmente pelos funcionários que executaram os respectivos serviços.
+Art. 291.º Não são abrangidos pelas disposições dos artigos 287.º e 288.º os emolumentos pessoais cobrados pela desalfandegação de encomendas postais e os resultantes do serviço de assistência a naufrágios e outros sinistros, os quais serão percebidos integralmente pelos funcionários que executaram os respectivos serviços.
 
 § único. Continua a reverter para o cofre dos emolumentos referido no artigo 287.º a percentagem de 7,5 por cento dos emolumentos cobrados pelos funcionários que tenham atingido em cada ano os limites prescritos no Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 292.º Não ficam sujeitas aos limites prescritos no Estatuto do Funcionalismo Ultramarino as importâncias recebidas a título de multas. São, porém, extensivas aos funcionários que tenham direito à participação de multas nos processos de contencioso aduaneiro, quanto a limites dessa participação, as disposições dos Decretos n.os 6586, de 28 de Abril de 1920, e 12101, de 12 de Agosto de 1926, na parte aplicável.
+Art. 292.º Não ficam sujeitas aos limites prescritos no Estatuto do Funcionalismo Ultramarino as importâncias recebidas a título de multas. São, porém, extensivas aos funcionários que tenham direito à participação de multas nos processos de contencioso aduaneiro, quanto a limites dessa participação, as disposições dos Decretos n.os 6586, de 28 de Abril de 1920, e 12101, de 12 de Agosto de 1926, na parte aplicável.
 
-###### Art. 293.º Os emolumentos pessoais de qualquer natureza serão pagos mensalmente aos funcionários por meio de folhas, observadas as disposições legais e regulamentares, assim como as instruções dos serviços de Fazenda e contabilidade, incidindo sobre eles o desconto legal para aposentação.
+Art. 293.º Os emolumentos pessoais de qualquer natureza serão pagos mensalmente aos funcionários por meio de folhas, observadas as disposições legais e regulamentares, assim como as instruções dos serviços de Fazenda e contabilidade, incidindo sobre eles o desconto legal para aposentação.
 
 § 1.º As ajudas de custo e os subsídios de deslocação serão recebidos por meio de folha mensal, não lhes sendo aplicáveis as disposições do [Decreto-Lei n.º 23417](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23417-1933-325750), de 28 de Dezembro de 1933, e serão pagos nos termos do artigo 698.º deste estatuto.
 
 § 2.º Quando as verbas da tabela de despesas destinadas ao pagamento dos emolumentos pessoais se mostrarem insuficientes para satisfazer os encargos resultantes desse pagamento, proceder-se-á ao seu reforço, tendo como contrapartida o excesso da cobrança.
 
-###### Art. 294.º Para exacto cumprimento do disposto no artigo anterior deverá existir, na Direcção ou Repartição Provincial dos Serviços das Alfândegas um livro de registo para cada funcionário que tenha direito ao recebimento de emolumentos pessoais, ajudas de custo e subsídios de deslocação.
+Art. 294.º Para exacto cumprimento do disposto no artigo anterior deverá existir, na Direcção ou Repartição Provincial dos Serviços das Alfândegas um livro de registo para cada funcionário que tenha direito ao recebimento de emolumentos pessoais, ajudas de custo e subsídios de deslocação.
 
-###### Art. 295.º As sedes das alfândegas e as restantes estâncias aduaneiras enviarão mensalmente à Direcção ou Repartição Provincial dos Serviços das Alfândegas uma relação devidamente discriminada dos emolumentos pessoais, ajudas de custo e subsídios de deslocação cobradas relativamente a cada funcionário que nelas haja prestado serviço no mês anterior e, bem assim, no fim de cada ano, uma nota global dos mesmos.
+Art. 295.º As sedes das alfândegas e as restantes estâncias aduaneiras enviarão mensalmente à Direcção ou Repartição Provincial dos Serviços das Alfândegas uma relação devidamente discriminada dos emolumentos pessoais, ajudas de custo e subsídios de deslocação cobradas relativamente a cada funcionário que nelas haja prestado serviço no mês anterior e, bem assim, no fim de cada ano, uma nota global dos mesmos.
 
-###### Art. 296.º Aos inspectores dos serviços aduaneiros e seus adjuntos serão abonadas, nas províncias de Angola e de Moçambique, as seguintes gratificações mensais, além das respectivas ajudas de custo, durante os meses em que estiverem em serviço fora da localidade da sede da inspecção, as quais ficam reduzidas a metade quando estiverem em serviço na referida sede:
+Art. 296.º Aos inspectores dos serviços aduaneiros e seus adjuntos serão abonadas, nas províncias de Angola e de Moçambique, as seguintes gratificações mensais, além das respectivas ajudas de custo, durante os meses em que estiverem em serviço fora da localidade da sede da inspecção, as quais ficam reduzidas a metade quando estiverem em serviço na referida sede:
 
 Inspector ... 1500$00
 
@@ -2306,15 +2418,15 @@ Reverificador-chefe ... 1000$00
 
 § 2.º Os governadores poderão estabelecer, em portaria, gratificações, cujo montante não poderá exceder 1000$00 mensais, para os propostos dos tesoureiros referidos no § 2.º do artigo 172.º deste estatuto.
 
-###### Art. 297.º Poderão também ser abonadas gratificações aos adjuntos dos directores provinciais, aos directores das circunscrições aduaneiras mencionadas no artigo 105.º, quando não exerçam funções de reverificação e aos funcionários dos piquetes referidos no artigo 94.º, as quais serão fixadas pelo Ministro do Ultramar, sob proposta do governador, e sairão da receita do cofre dos emolumentos, assim como, as referidas no corpo do artigo anterior.
+Art. 297.º Poderão também ser abonadas gratificações aos adjuntos dos directores provinciais, aos directores das circunscrições aduaneiras mencionadas no artigo 105.º, quando não exerçam funções de reverificação e aos funcionários dos piquetes referidos no artigo 94.º, as quais serão fixadas pelo Ministro do Ultramar, sob proposta do governador, e sairão da receita do cofre dos emolumentos, assim como, as referidas no corpo do artigo anterior.
 
-###### Art. 298.º Aos funcionários que efectuem o primeiro estágio referido no artigo 52.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, serão abonados os subsídios constantes do quadro XIV anexo a este estatuto, conforme as suas categorias.
+Art. 298.º Aos funcionários que efectuem o primeiro estágio referido no artigo 52.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, serão abonados os subsídios constantes do quadro XIV anexo a este estatuto, conforme as suas categorias.
 
 Os funcionários que sejam requisitados para prestar serviço eventualmente na Comissão Revisora das Pautas Aduaneiras do Ultramar poderão também ser abonados dos subsídios constantes daquele quadro, ou de quaisquer outros que o Ministro do Ultramar entenda dever fixar para o mesmo fim, além dos vencimentos-base correspondentes às suas categorias.
 
 #### SECÇÃO II — Da aposentação
 
-###### Art. 299.º A aposentação do pessoal dos diversos quadros das alfândegas regula-se pelas disposições do capítulo VII do Estatuto do Funcionalismo Ultramarino e mais legislação aplicável.
+Art. 299.º A aposentação do pessoal dos diversos quadros das alfândegas regula-se pelas disposições do capítulo VII do Estatuto do Funcionalismo Ultramarino e mais legislação aplicável.
 
 ### CAPÍTULO XII — Das atribuições e outros deveres do pessoal dos diversos quadros das alfândegas do ultramar
 
@@ -2326,7 +2438,7 @@ Do pessoal dos serviços aduaneiros do Ministério do Ultramar Art. 300.º Compe
 
 #### SECÇÃO II — Dos inspectores e dos funcionários incumbidos do serviço de inspecções
 
-###### Art. 301.º Compete aos inspectores e aos funcionários incumbidos dos serviços de inspecção às alfândegas:
+Art. 301.º Compete aos inspectores e aos funcionários incumbidos dos serviços de inspecção às alfândegas:
 
 1.º Conferir, quando se apresentem numa estância aduaneira, os valores existentes no respectivo cofre, verificando se às importâncias cobradas se dá com a devida regularidade o destino que lhes é designado nas leis e regulamentos, assim como a conta corrente dos impressos destinados à venda ao público;
 
@@ -2362,19 +2474,19 @@ Do pessoal dos serviços aduaneiros do Ministério do Ultramar Art. 300.º Compe
 
 § único. Compete ainda aos inspectores, colocados no Ministério do Ultramar, estudar e relatar os assuntos que lhes forem distribuídos pelo inspector superior das alfândegas e desempenhar quaisquer outras funções ou serviços compatíveis com a sua categoria e de que hajam sido incumbidos superiormente.
 
-###### Art. 302.º As informações referidas no n.º 15.º do artigo anterior constarão de um questionário, do modelo aprova do pelo Ministro do Ultramar, que será apresentado aos funcionários das estâncias aduaneiras inspeccionadas, no qual o inspector formulará o respectivo juízo ampliativo, com base nas respostas dadas pelo funcionário e nas observações colhidas no decurso da inspecção.
+Art. 302.º As informações referidas no n.º 15.º do artigo anterior constarão de um questionário, do modelo aprova do pelo Ministro do Ultramar, que será apresentado aos funcionários das estâncias aduaneiras inspeccionadas, no qual o inspector formulará o respectivo juízo ampliativo, com base nas respostas dadas pelo funcionário e nas observações colhidas no decurso da inspecção.
 
 § 1.º Serão enviado um duplicado e um triplicado das informações referidas no corpo do artigo ao Ministério do Ultramar para ficarem arquivados na Repartição do Pessoal Civil e na Inspecção Superior das Alfândegas, se os inspectores os não tiverem entregado directamente ao inspector superior, juntamente com os seus relatórios de inspecção, quando ali fizerem a sua apresentação.
 
 § 2.º As informações prestadas nos termos deste artigo pelos inspectores e por outros funcionárias em serviço de inspecção às diversas estâncias aduaneiras serão consideradas em conjunto com as que são prestadas nos termos do artigo 122.º do Estatuto do Funcionalismo Ultramarino e servirão para os casos de recondução, transferência, promoção ou para a nomeação do funcionário para qualquer comissão de serviço público.
 
-###### Art. 303.º São extensivas às inspecções dos serviços aduaneiros, na parte aplicável, as disposições do Regulamento das Inspecções Provinciais de Fazenda e Contabilidade das províncias de Angola e de Moçambique, aprovadas pelo [Decreto n.º 42082](https://diariodarepublica.pt/dr/detalhe/decreto/42082-1958-342586), de 31 de Dezembro de 1958.
+Art. 303.º São extensivas às inspecções dos serviços aduaneiros, na parte aplicável, as disposições do Regulamento das Inspecções Provinciais de Fazenda e Contabilidade das províncias de Angola e de Moçambique, aprovadas pelo [Decreto n.º 42082](https://diariodarepublica.pt/dr/detalhe/decreto/42082-1958-342586), de 31 de Dezembro de 1958.
 
 #### SECÇÃO III — Do pessoal das Direcções Provinciais dos Serviços das Alfândegas
 
 ##### SUBSECÇÃO I — Dos directores provinciais
 
-###### Art. 304.º Aos directores provinciais dos Serviços das Alfândegas compete:
+Art. 304.º Aos directores provinciais dos Serviços das Alfândegas compete:
 
 1.º Superintender em todos os serviços das alfândegas da província;
 
@@ -2422,11 +2534,11 @@ Do pessoal dos serviços aduaneiros do Ministério do Ultramar Art. 300.º Compe
 
 § 2.º Os directores provinciais poderão delegar nos chefes das repartições da Direcção dos Serviços, nos directores das alfândegas e nos chefes das estâncias aduaneiras algumas das suas atribuições, delegação que constará de ordem de serviço.
 
-###### Art. 305.º Aos adjuntos dos directores provinciais dos Serviços das Alfândegas competem as funções que lhes forem conferidas por aqueles directores em ordem de serviço.
+Art. 305.º Aos adjuntos dos directores provinciais dos Serviços das Alfândegas competem as funções que lhes forem conferidas por aqueles directores em ordem de serviço.
 
 ##### SUBSECÇÃO II — Do presidente e vogais dos Conselhos do Serviço Técnico-Aduaneiro
 
-###### Art. 306.º Ao presidente do Conselho do Serviço Técnico-Aduaneiro compete:
+Art. 306.º Ao presidente do Conselho do Serviço Técnico-Aduaneiro compete:
 
 1.º Mandar convocar o Conselho, marcando prèviamente a ordem dos trabalhos;
 
@@ -2440,7 +2552,7 @@ Do pessoal dos serviços aduaneiros do Ministério do Ultramar Art. 300.º Compe
 
 § único. O presidente terá voto de qualidade.
 
-###### Art. 307.º Aos vogais compete:
+Art. 307.º Aos vogais compete:
 
 1.º Dar parecer sobre os processos que lhes forem distribuídos;
 
@@ -2448,11 +2560,11 @@ Do pessoal dos serviços aduaneiros do Ministério do Ultramar Art. 300.º Compe
 
 3.º Discutir e votar as questões sujeitas à apreciação do Conselho.
 
-###### Art. 308.º Ao secretário compete redigir o livro de lembranças das sessões do Conselho, o qual será assinado pelo presidente e vogais que tiverem assistido à sessão, assim como as respectivas actas, nos casos em que o Conselho se haja ocupado de estudos referidos nos n.os 5.º e 6.º da alínea b) do artigo 52.º deste estatuto.
+Art. 308.º Ao secretário compete redigir o livro de lembranças das sessões do Conselho, o qual será assinado pelo presidente e vogais que tiverem assistido à sessão, assim como as respectivas actas, nos casos em que o Conselho se haja ocupado de estudos referidos nos n.os 5.º e 6.º da alínea b) do artigo 52.º deste estatuto.
 
 ##### SUBSECÇÃO III — Dos chefes de repartição
 
-###### Art. 309.º Aos chefes de repartição da Direcção Provincial dos Serviços das Alfândegas compete:
+Art. 309.º Aos chefes de repartição da Direcção Provincial dos Serviços das Alfândegas compete:
 
 1.º Dirigir o expediente de todos os serviços a cargo das suas repartições, bem como promover, fiscalizar e examinar os trabalhos das mesmas;
 
@@ -2482,13 +2594,13 @@ Do pessoal dos serviços aduaneiros do Ministério do Ultramar Art. 300.º Compe
 
 14.º Exercer as demais atribuições que lhes sejam conferidas pelas leis ou regulamentos.
 
-###### Art. 310.º Ao chefe da 2.ª Repartição compete ainda assinar os documentos respeitantes aos serviços de contabilidade que hajam de produzir efeitos fora da Direcção dos Serviços, manter as relações com os serviços de Fazenda e contabilidade da província e assinar as guias passadas ao pessoal aduaneiro, salvo quando respeitarem a deslocações para fora da província.
+Art. 310.º Ao chefe da 2.ª Repartição compete ainda assinar os documentos respeitantes aos serviços de contabilidade que hajam de produzir efeitos fora da Direcção dos Serviços, manter as relações com os serviços de Fazenda e contabilidade da província e assinar as guias passadas ao pessoal aduaneiro, salvo quando respeitarem a deslocações para fora da província.
 
-###### Art. 311.º Os chefes das repartições são substituídos, nos seus impedimentos legais, pelo chefe de secção mais graduado ou mais antigo em serviço nas mesmas.
+Art. 311.º Os chefes das repartições são substituídos, nos seus impedimentos legais, pelo chefe de secção mais graduado ou mais antigo em serviço nas mesmas.
 
 ##### SUBSECÇÃO IV — Dos chefes de secção
 
-###### Art. 312.º Aos chefes de secção das Repartições das Direcções Provinciais dos Serviços das Alfândegas compete:
+Art. 312.º Aos chefes de secção das Repartições das Direcções Provinciais dos Serviços das Alfândegas compete:
 
 1.º Minutar a correspondência que exceda a competência e conhecimentos dos funcionários seus subordinados;
 
@@ -2506,15 +2618,15 @@ Do pessoal dos serviços aduaneiros do Ministério do Ultramar Art. 300.º Compe
 
 8.º Exercer as demais atribuições que lhes sejam conferidas pelas leis e regulamentos.
 
-###### Art. 313.º Compete ainda ao chefe da 1.ª secção da 2.ª Repartição secretariar o conselho administrativo da Direcção dos Serviços e ao chefe da 2.ª secção da mesma Repartição visar as certidões passadas pelo arquivo geral e secretariar os júris dos concursos para admissão e promoção nos diversos quadros aduaneiros.
+Art. 313.º Compete ainda ao chefe da 1.ª secção da 2.ª Repartição secretariar o conselho administrativo da Direcção dos Serviços e ao chefe da 2.ª secção da mesma Repartição visar as certidões passadas pelo arquivo geral e secretariar os júris dos concursos para admissão e promoção nos diversos quadros aduaneiros.
 
-###### Art. 314.º Os cargos de chefe de secção das repartições da Direcção Provincial dos Serviços das Alfândegas serão desempenhados por funcionários das categorias indicadas nos n.os 4.º e 5.º do artigo 129.º nomeados pelo director provincial dos mesmos serviços, conforme o prescrito no artigo 133.º deste estatuto.
+Art. 314.º Os cargos de chefe de secção das repartições da Direcção Provincial dos Serviços das Alfândegas serão desempenhados por funcionários das categorias indicadas nos n.os 4.º e 5.º do artigo 129.º nomeados pelo director provincial dos mesmos serviços, conforme o prescrito no artigo 133.º deste estatuto.
 
 § único. Na a ausência ou impedimento legal do chefe de qualquer secção exercerá essas funções o funcionário que para tal fim for designado pelo director provincial dos Serviços das Alfândegas.
 
 ##### SUBSECÇÃO V — Do restante pessoal das direcções provinciais
 
-###### Art. 315.º Aos funcionários que desempenharem as funções de chefe de secretaria ou de secretários de quaisquer conselhos ou comissões compete em especial:
+Art. 315.º Aos funcionários que desempenharem as funções de chefe de secretaria ou de secretários de quaisquer conselhos ou comissões compete em especial:
 
 1.º Redigir ou mandar redigir e assinar os avisos convocatórios;
 
@@ -2530,7 +2642,7 @@ Do pessoal dos serviços aduaneiros do Ministério do Ultramar Art. 300.º Compe
 
 § único. Como secretários do Conselho do Serviço Técnico-Aduaneiro compete-lhes redigir o livro de lembranças das sessões do Conselho em que forem apreciados os processos de que tratam a alínea a) e os n.os 1.º a 4.º e 7.º da alínea b) do artigo 52.º, o qual será assinado pelo presidente e vogais que tiverem assistido à sessão, assim como as respectivas actas, nos casos em que o Conselho se haja ocupado dos restantes assuntos referidos na alínea b) do mesmo artigo, com base nas notas tomadas no decurso da sessão ou nos registos estenografados ou gravados em aparelhagem eléctrica ou sonora.
 
-###### Art. 316.º Aos secretários dos inspectores e dos funcionários incumbidos do serviço de inspecções compete:
+Art. 316.º Aos secretários dos inspectores e dos funcionários incumbidos do serviço de inspecções compete:
 
 1.º Promover a execução das ordens e instruções que hajam recebido dos inspectores ou dos funcionários incumbidos do serviço de inspecções;
 
@@ -2542,7 +2654,7 @@ Do pessoal dos serviços aduaneiros do Ministério do Ultramar Art. 300.º Compe
 
 5.º Desempenhar quaisquer outras funções que lhes sejam cometidas pelas leis e regulamentos.
 
-###### Art. 317.º Ao chefe dos serviços do laboratório compete:
+Art. 317.º Ao chefe dos serviços do laboratório compete:
 
 1.º Dirigir os serviços do laboratório de ensaios e análises da Direcção dos Serviços;
 
@@ -2560,7 +2672,7 @@ Do pessoal dos serviços aduaneiros do Ministério do Ultramar Art. 300.º Compe
 
 § único. Aos analistas competem as funções que lhes forem distribuídas pelos chefes dos serviços de laboratório e coadjuvá-los no desempenho das que lhes estão atribuídas. Os analistas substituem os chefes dos serviços do laboratório na sua falta ou impedimento legal, competindo-lhes as atribuições que aos mesmos estão conferidas no corpo deste artigo.
 
-###### Art. 318.º Aos preparadores compete especialmente:
+Art. 318.º Aos preparadores compete especialmente:
 
 1.º Fazer as preparações que lhes forem ordenadas pelo chefe da 2.ª secção da respectiva alfândega ou pedidas directamente pelos funcionários em serviço de verificação e reverificação;
 
@@ -2574,7 +2686,7 @@ Do pessoal dos serviços aduaneiros do Ministério do Ultramar Art. 300.º Compe
 
 6.º Desempenhar as demais atribuições próprias de preparador.
 
-###### Art. 319.º Ao encarregado do museu de amostras compete:
+Art. 319.º Ao encarregado do museu de amostras compete:
 
 1.º Dar expediente a todos os assuntos respeitantes ao museu;
 
@@ -2584,23 +2696,23 @@ Do pessoal dos serviços aduaneiros do Ministério do Ultramar Art. 300.º Compe
 
 4.º Manter convenientemente arrumadas e em ordem as amostras e modelos pertencentes ao museu e devidamente organizados os catálogos de desenhos, fotografias, descrições, assim como os respectivos ficheiros.
 
-###### Art. 320.º Ao restante pessoal das Direcções Provinciais dos Serviços das Alfândegas compete executar os trabalhos de que forem encarregados ou lhes estejam distribuídos, rubricando todo o expediente que executarem.
+Art. 320.º Ao restante pessoal das Direcções Provinciais dos Serviços das Alfândegas compete executar os trabalhos de que forem encarregados ou lhes estejam distribuídos, rubricando todo o expediente que executarem.
 
-###### Art. 321.º Ao pessoal menor colocado nas Direcções Provinciais dos Serviços das Alfândegas compete a execução de todos os serviços de arrumação e limpeza e os demais que lhes forem determinados.
+Art. 321.º Ao pessoal menor colocado nas Direcções Provinciais dos Serviços das Alfândegas compete a execução de todos os serviços de arrumação e limpeza e os demais que lhes forem determinados.
 
 § único. A fiscalização dos serviços referidos no corpo deste artigo estará a cargo do contínuo que para esse fim tiver sido designado pelo director.
 
-###### Art. 322.º O pessoal colocado nas Direcções Provinciais dos Serviços das Alfândegas desempenhará os seus cargos por períodos indeterminados, sem prejuízo, na parte aplicável, dos preceitos estabelecidos nos artigos 147.º e 264.º deste estatuto.
+Art. 322.º O pessoal colocado nas Direcções Provinciais dos Serviços das Alfândegas desempenhará os seus cargos por períodos indeterminados, sem prejuízo, na parte aplicável, dos preceitos estabelecidos nos artigos 147.º e 264.º deste estatuto.
 
 #### SECÇÃO IV — Do pessoal das Repartições Provinciais dos Serviços das Alfândegas e das circunscrições aduaneiras
 
 ##### SUBSECÇÃO I — Dos chefes das repartições provinciais
 
-###### Art. 323.º São extensivas aos chefes das Repartições Provinciais dos Serviços das Alfândegas as atribuições especificadas nos artigos 304.º e 305.º, na parte aplicável, e nomeadamente as dos n.os 17.º, 19.º e 20.º do primeiro daqueles artigos.
+Art. 323.º São extensivas aos chefes das Repartições Provinciais dos Serviços das Alfândegas as atribuições especificadas nos artigos 304.º e 305.º, na parte aplicável, e nomeadamente as dos n.os 17.º, 19.º e 20.º do primeiro daqueles artigos.
 
 ##### SUBSECÇÃO II — Dos directores e subdirectores das circunscrições aduaneiras
 
-###### Art. 324.º O director de cada uma das alfândegas superintende, por intermédio dos chefes das secções, em todos os serviços fiscais, técnicos e administrativos da sua circunscrição, competindo-lhe especialmente:
+Art. 324.º O director de cada uma das alfândegas superintende, por intermédio dos chefes das secções, em todos os serviços fiscais, técnicos e administrativos da sua circunscrição, competindo-lhe especialmente:
 
 1.º Promover a execução das ordens e instruções que receber da Direcção Provincial dos Serviços das Alfândegas e propor a esta as medidas que tiver por convenientes para o bom desempenho dos serviços;
 
@@ -2700,7 +2812,7 @@ Do pessoal dos serviços aduaneiros do Ministério do Ultramar Art. 300.º Compe
 
 § 3.º Os subdirectores têm a competência atribuída neste artigo aos directores das alfândegas, quando os substituam.
 
-###### Art. 325.º Ao subdirector de cada alfândega compete especialmente:
+Art. 325.º Ao subdirector de cada alfândega compete especialmente:
 
 1.º Auxiliar o director, desempenhando as atribuições que pelo mesmo nele forem delegadas, de harmonia com as conveniências do serviço;
 
@@ -2710,7 +2822,7 @@ Do pessoal dos serviços aduaneiros do Ministério do Ultramar Art. 300.º Compe
 
 ##### SUBSECÇÃO III — Dos chefes de secção
 
-###### Art. 326.º Ao chefe da 1.ª secção de cada uma das alfândegas mencionadas no artigo 105.º deste estatuto compete:
+Art. 326.º Ao chefe da 1.ª secção de cada uma das alfândegas mencionadas no artigo 105.º deste estatuto compete:
 
 1.º Superintender em todos os serviços da secção e dirigir, na sede da circunscrição, os respeitantes à fiscalização, tráfego e armazenagem;
 
@@ -2744,7 +2856,7 @@ Do pessoal dos serviços aduaneiros do Ministério do Ultramar Art. 300.º Compe
 
 16.º Providenciar para que semestralmente se proceda a varejo ordinário nos armazéns afiançados, alfandegados e outros sob regime aduaneiro, com excepção dos mencionados nas alíneas a) a f) do artigo 821.º, sem embargo de todos os demais que julgar necessários ou que forem superiormente determinados para estes armazéns.
 
-###### Art. 327.º Ao chefe da 2.ª secção das alfândegas mencionadas no artigo 105.º compete, na sua qualidade de chefe do serviço do despacho:
+Art. 327.º Ao chefe da 2.ª secção das alfândegas mencionadas no artigo 105.º compete, na sua qualidade de chefe do serviço do despacho:
 
 1.º Superintender em todos os serviços da secção;
 
@@ -2798,7 +2910,7 @@ Do pessoal dos serviços aduaneiros do Ministério do Ultramar Art. 300.º Compe
 
 § único. A direcção efectiva do expediente do serviço do despacho, nos termos prescritos nos respectivos números deste artigo, entender-se-á, em regra, apenas as sedes das alfândegas e suas estâncias urbanas, em embargo, porém, de poder ser delegada, em relação aos actos de menor importância, nos chefes das aludidas estâncias.
 
-###### Art. 328.º Ao chefe da 3.ª secção de cada uma das alfândegas mencionadas no artigo 105.º compete:
+Art. 328.º Ao chefe da 3.ª secção de cada uma das alfândegas mencionadas no artigo 105.º compete:
 
 1.º Superintender em todos os serviços a cargo da secção;
 
@@ -2838,13 +2950,13 @@ Do pessoal dos serviços aduaneiros do Ministério do Ultramar Art. 300.º Compe
 
 19.º Quaisquer outras disposições constantes das leis ou regulamentos gerais e ainda as determinações dos Serviços de Fazenda e Contabilidade.
 
-###### Art. 329.º Os chefes das secções das sedes das alfândegas superintendem nos serviços a seu cargo directamente ou por intermédio dos chefes das suas subsecções, nos quais podem delegar parte das suas atribuições, dando deste facto conhecimento ao director da alfândega.
+Art. 329.º Os chefes das secções das sedes das alfândegas superintendem nos serviços a seu cargo directamente ou por intermédio dos chefes das suas subsecções, nos quais podem delegar parte das suas atribuições, dando deste facto conhecimento ao director da alfândega.
 
-###### Art. 330.º Nas alfândegas não mencionadas no corpo do artigo 105.º, as atribuições conferidas nos artigos 326.º e 327.º ficam pertencendo ao chefe da 1.ª secção, que será o chefe do serviço de despacho, e as do artigo 328.º ao chefe da 2.ª secção.
+Art. 330.º Nas alfândegas não mencionadas no corpo do artigo 105.º, as atribuições conferidas nos artigos 326.º e 327.º ficam pertencendo ao chefe da 1.ª secção, que será o chefe do serviço de despacho, e as do artigo 328.º ao chefe da 2.ª secção.
 
 ##### SUBSECÇÃO IV — Dos chefes de delegação e postos de despacho
 
-###### Art. 331.º Aos chefes de delegação compete:
+Art. 331.º Aos chefes de delegação compete:
 
 1.º Dirigir os serviços das respectivas estâncias aduaneiras cumprindo e fazendo cumprir as disposições legais e ordens superiores;
 
@@ -2862,23 +2974,23 @@ Do pessoal dos serviços aduaneiros do Ministério do Ultramar Art. 300.º Compe
 
 8.º Dar balanço diário ao cofre da delegação na ocasião do encerramento da receita diária ou, quando neste momento o não possa fazer, tomar conta de todas as cobranças realizadas até ao momento do balanço.
 
-###### Art. 332.º Aos chefes dos postos de despacho cumpre proceder, dentro das atribuições que lhes são conferidas, de harmonia com os regulamentos e com as instruções que lhes forem dadas pelas estações superiores, cabendo-lhes outrossim, quando não estejam subordinados a qualquer delegação, funções análogas às que pertencem aos chefes das delegações.
+Art. 332.º Aos chefes dos postos de despacho cumpre proceder, dentro das atribuições que lhes são conferidas, de harmonia com os regulamentos e com as instruções que lhes forem dadas pelas estações superiores, cabendo-lhes outrossim, quando não estejam subordinados a qualquer delegação, funções análogas às que pertencem aos chefes das delegações.
 
 § único. Aos chefes dos postos de despacho é aplicável o disposto no n.º 8.º do artigo anterior.
 
-###### Art. 333.º Aos chefes dos postos administrativos e fiscais habilitados a dar despacho de mercadorias são cometidas as atribuições constantes do artigo anterior e seu § único.
+Art. 333.º Aos chefes dos postos administrativos e fiscais habilitados a dar despacho de mercadorias são cometidas as atribuições constantes do artigo anterior e seu § único.
 
-###### Art. 334.º Os chefes das delegações e dos postos de despacho têm ainda a competência que em matéria de contencioso aduaneiro está prescrita no Contencioso Aduaneiro do Ultramar.
+Art. 334.º Os chefes das delegações e dos postos de despacho têm ainda a competência que em matéria de contencioso aduaneiro está prescrita no Contencioso Aduaneiro do Ultramar.
 
-###### Art. 335.º Os chefes das delegações e dos postos de despacho imediatamente dependentes das sedes das circunscrições aduaneiras corresponder-se-ão com o director ou com os chefes das secções da alfândega, conforme a natureza dos assuntos que tenham de tratar.
+Art. 335.º Os chefes das delegações e dos postos de despacho imediatamente dependentes das sedes das circunscrições aduaneiras corresponder-se-ão com o director ou com os chefes das secções da alfândega, conforme a natureza dos assuntos que tenham de tratar.
 
-###### Art. 336.º Aos chefes das estâncias aduaneiras de qualquer categoria incumbe ainda examinar, em cada semestre, o estado do material marítimo e enviar à direcção da alfândega uma breve nota semestral do estado do mesmo material, indicando as reparações mais importantes de que carece, de harmonia com o parecer de que trata o parágrafo seguinte.
+Art. 336.º Aos chefes das estâncias aduaneiras de qualquer categoria incumbe ainda examinar, em cada semestre, o estado do material marítimo e enviar à direcção da alfândega uma breve nota semestral do estado do mesmo material, indicando as reparações mais importantes de que carece, de harmonia com o parecer de que trata o parágrafo seguinte.
 
 § único. Para cabal execução do disposto no corpo deste artigo, poderão os directores das alfândegas e os chefes das estâncias aduaneiras solicitar às capitanias dos portos, das delegações marítimas ou de outros organismos oficiais da localidade a nomeação de técnicos, para a informarem sobre o estado em que se encontra o material marítimo.
 
 ##### SUBSECÇÃO V — Disposições gerais relativas aos funcionários do quadro técnico no desempenho de diversas funções
 
-###### Art. 337.º Aos chefes e encarregados dos diversos serviços em geral compete:
+Art. 337.º Aos chefes e encarregados dos diversos serviços em geral compete:
 
 1.º Cumprir e fazer cumprir as leis, regulamentos e ordens superiores;
 
@@ -2888,7 +3000,7 @@ Do pessoal dos serviços aduaneiros do Ministério do Ultramar Art. 300.º Compe
 
 4.º Manter a necessária ordem e disciplina nos serviços e nos locais onde estes são desempenhados.
 
-###### Art. 338.º Aos funcionários em serviço de reverificação cumpre:
+Art. 338.º Aos funcionários em serviço de reverificação cumpre:
 
 1.º Fazer as reverificações parciais ou totais que julguem convenientes;
 
@@ -2902,7 +3014,7 @@ Do pessoal dos serviços aduaneiros do Ministério do Ultramar Art. 300.º Compe
 
 6.º Dar parecer sobre todos os assuntos em que forem mandados ouvir pelo chefe do serviço do despacho ou pelo director.
 
-###### Art. 339.º É proibido aos reverificadores:
+Art. 339.º É proibido aos reverificadores:
 
 1.º Exercer qualquer acto inerente às atribuições dos verificadores;
 
@@ -2910,15 +3022,15 @@ Do pessoal dos serviços aduaneiros do Ministério do Ultramar Art. 300.º Compe
 
 3.º Mandar emendar qualquer irregularidade ou diferença encontrada nas verificações.
 
-###### Art. 340.º As diferenças encontradas pelos reverificadores nos bilhetes de despacho serão registadas em livro próprio na secretaria do serviço de despacho, declarando-se nas competentes fórmulas que foi efectuado esse registo.
+Art. 340.º As diferenças encontradas pelos reverificadores nos bilhetes de despacho serão registadas em livro próprio na secretaria do serviço de despacho, declarando-se nas competentes fórmulas que foi efectuado esse registo.
 
 § único. Do registo referido no artigo anterior serão elaborados anualmente tantos mapas quantos os verificadores a que dizem respeito tais registos, os quais serão remetidos à Direcção ou Repartição Provincial dos Serviços das Alfândegas e arquivados no processo individual do respectivo funcionário, para com base neles se prestar informação anual sobre a sua competência, zelo e dedicação.
 
-###### Art. 341.º Os verificadores procederão ao exame e verificação das mercadorias nos termos prescritos nos regulamentos e conforme as condições em que são submetidas a despacho.
+Art. 341.º Os verificadores procederão ao exame e verificação das mercadorias nos termos prescritos nos regulamentos e conforme as condições em que são submetidas a despacho.
 
-###### Art. 312.º Os serviços de verificação devem ser, em regra, confiados a funcionários das categorias de verificadores ou de oficiais, só podendo ser desempenhados na sua falta por oficiais estagiários, tendo-se, contudo, em vista que a empregados menos graduados se não entreguem serviços demasiadamente difíceis.
+Art. 312.º Os serviços de verificação devem ser, em regra, confiados a funcionários das categorias de verificadores ou de oficiais, só podendo ser desempenhados na sua falta por oficiais estagiários, tendo-se, contudo, em vista que a empregados menos graduados se não entreguem serviços demasiadamente difíceis.
 
-###### Art. 343.º Aos funcionários do serviço de verificação cumpre:
+Art. 343.º Aos funcionários do serviço de verificação cumpre:
 
 1.º Proceder à conferência de identidade dos volumes que lhes forem apresentados, pelas indicações constantes da respectiva fórmula, devendo, sempre que notarem quaisquer divergências, suspender o andamento do despacho enquanto estas não forem harmonizadas;
 
@@ -2950,7 +3062,7 @@ Do pessoal dos serviços aduaneiros do Ministério do Ultramar Art. 300.º Compe
 
 § único. Quando esteja prestando serviço nas casas de despache mais de um verificador, a execução das disposições de que tratam os n.os 7.º a 9.º deste artigo será da competência do verificador mais antigo, se nelas não houver um chefe privativo.
 
-###### Art. 344.º Ao funcionário encarregado dos serviços da 1.ª subsecção da 1.ª secção de cada alfândega (subsecção dos serviços fiscais e de armazéns) compete:
+Art. 344.º Ao funcionário encarregado dos serviços da 1.ª subsecção da 1.ª secção de cada alfândega (subsecção dos serviços fiscais e de armazéns) compete:
 
 1.º Fiscalizar a escrituração dos livros de contas correntes dos armazéns sob regime aduaneiro, quando a mesma não esteja a seu cargo;
 
@@ -2966,7 +3078,7 @@ Do pessoal dos serviços aduaneiros do Ministério do Ultramar Art. 300.º Compe
 
 7.º Cumprir e ordenar a execução de quaisquer instruções ou ordens especiais recebidas do director da alfândega e do chefe da 1.ª secção, conforme os casos.
 
-###### Art. 345.º Aos funcionários em serviço de piquete compete:
+Art. 345.º Aos funcionários em serviço de piquete compete:
 
 1.º A revisão das bagagens que acompanhem os passageiros ou tripulantes;
 
@@ -2984,7 +3096,7 @@ Do pessoal dos serviços aduaneiros do Ministério do Ultramar Art. 300.º Compe
 
 8.º Todas as demais funções de que, pelo director da alfândega ou pelo chefe da respectiva estância aduaneira, tenham sido especialmente encarregados;
 
-###### Art. 346.º Aos restantes funcionários técnico-aduaneiros compete desempenhar os serviços que lhes forem distribuídos pelos respectivas chefes, de harmonia com a lei, regulamentos e instruções superiores, designadamente os de:
+Art. 346.º Aos restantes funcionários técnico-aduaneiros compete desempenhar os serviços que lhes forem distribuídos pelos respectivas chefes, de harmonia com a lei, regulamentos e instruções superiores, designadamente os de:
 
 a) Conferência da descarga de mercadorias;
 
@@ -3014,7 +3126,7 @@ n) Expediente das secções.
 
 § único. Na distribuição dos serviços a que este artigo se refere será tomada em consideração a categoria dos funcionários, designando-se para os mais graduados as atribuições de maior responsabilidade.
 
-###### Art. 347.º Ao chefe da secretaria referida no artigo 108.º cumpre, como escrivão do contencioso aduaneiro e encarregado do cartório:
+Art. 347.º Ao chefe da secretaria referida no artigo 108.º cumpre, como escrivão do contencioso aduaneiro e encarregado do cartório:
 
 1.º Registar a entrada de todos os autos de notícia, participações, processos e demais documentos com eles relacionados e apresentar diàriamente ao director da alfândega os que careçam de despacho;
 
@@ -3034,7 +3146,7 @@ n) Expediente das secções.
 
 ##### SUBSECÇÃO VI — Disposições relativas aos funcionários dos restantes quadros aduaneiros
 
-###### Art. 348.º Aos tesoureiros compete especialmente:
+Art. 348.º Aos tesoureiros compete especialmente:
 
 1.º Efectuar a cobrança dos direitos e mais rendimentos liquidados nas sedes das alfândegas e estâncias aduaneiras urbanas a seu cargo;
 
@@ -3062,9 +3174,9 @@ n) Expediente das secções.
 
 13.º Exercer as demais atribuições que lhes sejam conferidas pelas leis e regulamentos.
 
-###### Art. 349.º Aos fiéis de tesoureiro compete especialmente proceder às cobranças, efectuar os pagamentos e exercer as demais atribuições que lhes sejam conferidas pelos regulamentos ou distribuídas pelo respectivo tesoureiro.
+Art. 349.º Aos fiéis de tesoureiro compete especialmente proceder às cobranças, efectuar os pagamentos e exercer as demais atribuições que lhes sejam conferidas pelos regulamentos ou distribuídas pelo respectivo tesoureiro.
 
-###### Art. 350.º Aos fiéis de armazém cumpre:
+Art. 350.º Aos fiéis de armazém cumpre:
 
 1.º Mandar proceder à arrumação e guarda de todos os volumes que derem entrada nos armazéns ou depósitos que lhes estejam confiados;
 
@@ -3090,7 +3202,7 @@ n) Expediente das secções.
 
 12.º Assistir ao abrir e fechar dos armazéns a seu cargo, passando-lhes rigorosa busca.
 
-###### Art. 351.º Ao fiel de armazém de leilões cumpre:
+Art. 351.º Ao fiel de armazém de leilões cumpre:
 
 1.º Averbar nos competentes registos os números dos processos e nestes a indicação do fólio em que ficou registada a entrada das mercadorias quando, depois de cumpridas as formalidades prescritas nas leis e regulamentos em vigor, para a sua instrução e julgamento os processos lhe forem remetidos;
 
@@ -3124,13 +3236,13 @@ n) Expediente das secções.
 
 16.º Averbar, nos competentes livros, o número de receita e o dos depósitos.
 
-###### Art. 352.º Aos empregados dos diversos quadros aduaneiros compete ainda desempenhar todos os serviços que lhes forem distribuídos pelos directores ou chefes das estâncias aduaneiras, de harmonia com as suas categorias, conhecimentos e aptidões.
+Art. 352.º Aos empregados dos diversos quadros aduaneiros compete ainda desempenhar todos os serviços que lhes forem distribuídos pelos directores ou chefes das estâncias aduaneiras, de harmonia com as suas categorias, conhecimentos e aptidões.
 
 ##### SUBSECÇÃO VII — Do pessoal do tráfego aduaneiro
 
-###### Art. 353.º O serviço do tráfego será dirigido sob a superintendência do chefe da 1.ª secção, nas alfândegas mencionadas nos artigos 105.º e 107.º, por um encarregado, nomeado pelo governador, sob proposta do director ou chefe provincial dos serviços e escolhido entre os escriturários do quadro auxilar, o qual poderá ser coadjuvado nessas funções por um ajudante nomeado pelo director da respectiva alfândega de entre os auxiliares de verificação de 1.ª classe, coadjuvados pelos capatazes escolhidos entre aqueles auxiliares. Nas restantes alfândegas e nas diversas estâncias aduaneiras o serviço do tráfego executar-se-á conforme as instruções do respectivo director ou chefe.
+Art. 353.º O serviço do tráfego será dirigido sob a superintendência do chefe da 1.ª secção, nas alfândegas mencionadas nos artigos 105.º e 107.º, por um encarregado, nomeado pelo governador, sob proposta do director ou chefe provincial dos serviços e escolhido entre os escriturários do quadro auxilar, o qual poderá ser coadjuvado nessas funções por um ajudante nomeado pelo director da respectiva alfândega de entre os auxiliares de verificação de 1.ª classe, coadjuvados pelos capatazes escolhidos entre aqueles auxiliares. Nas restantes alfândegas e nas diversas estâncias aduaneiras o serviço do tráfego executar-se-á conforme as instruções do respectivo director ou chefe.
 
-###### Art. 354.º O serviço do tráfego compreende:
+Art. 354.º O serviço do tráfego compreende:
 
 1.º A carga e descarga de mercadorias e bagagens;
 
@@ -3160,9 +3272,9 @@ n) Expediente das secções.
 
 § 2.º Quando se verifique a circunstância prescrita na parte final do parágrafo anterior, o pessoal nele referido deve estrita obediência e respeito ao pessoal aduaneiro que neles presta serviço.
 
-###### Art. 355.º O serviço do tráfego aduaneiro é desempenhado pelo pessoal pertencente ao respectivo quadro e pelos trabalhadores.
+Art. 355.º O serviço do tráfego aduaneiro é desempenhado pelo pessoal pertencente ao respectivo quadro e pelos trabalhadores.
 
-###### Art. 356.º Ao funcionário encarregado dos serviços do tráfego incumbe:
+Art. 356.º Ao funcionário encarregado dos serviços do tráfego incumbe:
 
 1.º Superintender em todos os serviços do tráfego a seu cargo;
 
@@ -3192,9 +3304,9 @@ n) Expediente das secções.
 
 14.º Cumprir as ordens e instruções que lhe forem dadas pelo chefe da 1.ª secção.
 
-###### Art. 357.º Os funcionários em serviço de verificação e de reverificação serão coadjuvados, no desempenho das suas funções, por auxiliares de verificação.
+Art. 357.º Os funcionários em serviço de verificação e de reverificação serão coadjuvados, no desempenho das suas funções, por auxiliares de verificação.
 
-###### Art. 358.º Aos auxiliares da verificação e da reverificação cumpre:
+Art. 358.º Aos auxiliares da verificação e da reverificação cumpre:
 
 1.º Requisitar o conserto dos volumes que no acto da descarga, da arrumação ou da verificação se deteriorem e careçam de reparação;
 
@@ -3210,7 +3322,7 @@ n) Expediente das secções.
 
 § único. O auxiliar da verificação só pode retirar as mercadorias da balança depois de assim lhe ter sido determinado pelo verificador ou pelo reverificador e não se pode ausentar sem licença do funcionário que estiver coadjuvando.
 
-###### Art. 359.º A superintendência imediata sobre os trabalhadores, quer nas casas de despacho ou armazéns aduaneiros, quer nos cais, incumbe aos auxiliares da verificação que tenham sido designados para desempenhar as funções de capatazes. Compete-lhes:
+Art. 359.º A superintendência imediata sobre os trabalhadores, quer nas casas de despacho ou armazéns aduaneiros, quer nos cais, incumbe aos auxiliares da verificação que tenham sido designados para desempenhar as funções de capatazes. Compete-lhes:
 
 1.º Dirigir o serviço do tráfego nos armazéns, cais e casas de despacho;
 
@@ -3226,7 +3338,7 @@ n) Expediente das secções.
 
 § único. O encarregado dos serviços do tráfego ou o seu ajudante distribuirão os capatazes pelos locais onde haja maior aglomeração de trabalhadores, e especialmente pelos locais de descarga nos cais, armazéns e casas de despacho.
 
-###### Art. 360.º Aos assalariados cumpre:
+Art. 360.º Aos assalariados cumpre:
 
 1.º Desempenhar ais funções de servente, selador e trabalhador;
 
@@ -3240,19 +3352,19 @@ n) Expediente das secções.
 
 6.º Desempenhar todos os outros serviços do tráfego que forem designados pelos chefes ou capatazes.
 
-###### Art. 361.º Aos restantes empregados do quadro do tráfego não mencionados nos artigos anteriores incumbe a execução dos seus serviços, de harmonia com as ordens e instruções que receberem dos seus competentes chefes.
+Art. 361.º Aos restantes empregados do quadro do tráfego não mencionados nos artigos anteriores incumbe a execução dos seus serviços, de harmonia com as ordens e instruções que receberem dos seus competentes chefes.
 
-###### Art. 362.º Aos assalariados ou contratados que estiverem desempenhando as funções de contínuo nas direcções, repartições, secções, estâncias aduaneiras ou casas de despacho, assim como aos remadores do quadro da fiscalização marítima, será fornecido fardamento por conta da Fazenda Nacional, nas condições que vierem a ser estabelecidas em cada província por portaria do respectivo governo.
+Art. 362.º Aos assalariados ou contratados que estiverem desempenhando as funções de contínuo nas direcções, repartições, secções, estâncias aduaneiras ou casas de despacho, assim como aos remadores do quadro da fiscalização marítima, será fornecido fardamento por conta da Fazenda Nacional, nas condições que vierem a ser estabelecidas em cada província por portaria do respectivo governo.
 
 #### SECÇÃO V — Do pessoal da fiscalização aduaneira
 
 ##### SUBSECÇÃO I — Da fiscalização marítima e fluvial
 
-###### Art. 363.º A fiscalização marítima é a que se exerce dentro da zona marítima de 6 milhas a partir da costa, sob a direcção de funcionários dos quadros técnico ou auxiliar aduaneiros, coadjuvados pela Guarda Fiscal e pelo pessoal da fiscalização marítima e fluvial.
+Art. 363.º A fiscalização marítima é a que se exerce dentro da zona marítima de 6 milhas a partir da costa, sob a direcção de funcionários dos quadros técnico ou auxiliar aduaneiros, coadjuvados pela Guarda Fiscal e pelo pessoal da fiscalização marítima e fluvial.
 
-###### Art. 364.º Nas sedes das alfândegas os directores nomearão um funcionário do quadro técnico ou escriturário do quadro auxiliar, que será o encarregado dos serviços de fiscalização marítima e fluvial, o qual fica directamente subordinado ao chefe da 1.ª secção, de quem receberá as necessárias ordens e instruções para a boa execução dos serviços.
+Art. 364.º Nas sedes das alfândegas os directores nomearão um funcionário do quadro técnico ou escriturário do quadro auxiliar, que será o encarregado dos serviços de fiscalização marítima e fluvial, o qual fica directamente subordinado ao chefe da 1.ª secção, de quem receberá as necessárias ordens e instruções para a boa execução dos serviços.
 
-###### Art. 365.º Ao funcionário encarregado do serviço da fiscalização marítima e fluvial compete:
+Art. 365.º Ao funcionário encarregado do serviço da fiscalização marítima e fluvial compete:
 
 1.º Inventariar todas as embarcações e o seu material;
 
@@ -3282,7 +3394,7 @@ n) Expediente das secções.
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Art. 366.º Em todas as modalidades do despacho de mercadorias, navios e aeronaves só podem intervir:
+Art. 366.º Em todas as modalidades do despacho de mercadorias, navios e aeronaves só podem intervir:
 
 1.º Os donos ou consignatários das mercadorias quando se apresentem pessoalmente e comprovem, sempre que a alfândega o exija, a sua identidade, ou quando se façam representar por seus bastantes procuradores;
 
@@ -3310,23 +3422,23 @@ n) Expediente das secções.
 
 § 9.º O governador poderá estabelecer em portaria, ouvido o director ou chefe provincial dos Serviços das Alfândegas, o limite mínimo de despachos que os caixeiros despachantes são obrigados a processar em cada trimestre, sendo suspensos, por proposta dos referidos director ou chefe, aqueles que em dois trimestres consecutivos não tenham processado o número de despachos fixados pelo governador correspondentes àqueles dois períodos.
 
-###### Art. 367.º A habilitação, para despacho, dos indivíduos indicados nos n.os 1.º a 4.º do artigo o anterior constará de alvará passado pela Direcção ou Repartição Provincial dos Serviços das Alfândegas.
+Art. 367.º A habilitação, para despacho, dos indivíduos indicados nos n.os 1.º a 4.º do artigo o anterior constará de alvará passado pela Direcção ou Repartição Provincial dos Serviços das Alfândegas.
 
 § único. Os indivíduos de que tratam os n.os 2.º a 4.º e os ajudantes de despachante serão empossados nas suas funções nos mesmos termos dos funcionários do Estado.
 
-###### Art. 368.º A todos os indivíduos indicados no artigo 366.º e seus números e aos ajudantes de despachante serão passadas cédulas pelas direcções das alfândegas, das quais deverá constar o número e data do respectivo alvará e a fotografia do detentor, as quais servirão para prova da sua habilitação nas estâncias aduaneiras e para o exercício dos seus direitos.
+Art. 368.º A todos os indivíduos indicados no artigo 366.º e seus números e aos ajudantes de despachante serão passadas cédulas pelas direcções das alfândegas, das quais deverá constar o número e data do respectivo alvará e a fotografia do detentor, as quais servirão para prova da sua habilitação nas estâncias aduaneiras e para o exercício dos seus direitos.
 
 § único. Não serão passadas cédulas aos procuradores dos donos ou dos consignatários das mercadorias que não tenham poderes de administração geral.
 
-###### Art. 369.º As cédulas de habilitação para despacho nas alfândegas constituirão séries distintas, de numeração sucessiva, que serão designadas por letras conforme a qualidade do indivíduo a quem forem passadas.
+Art. 369.º As cédulas de habilitação para despacho nas alfândegas constituirão séries distintas, de numeração sucessiva, que serão designadas por letras conforme a qualidade do indivíduo a quem forem passadas.
 
 § único. Aos indivíduos referidos no n.º 1.º do artigo 366.º serão passadas cédulas da série A; aos dos n.os 2.º e 3.º, as cédulas da série C; aos do n.º 4, as da série B; e aos ajudantes de despachante, as da série D.
 
-###### Art. 370.º Todas as vezes que forem entregues cédulas a qualquer das pessoas a que alude o artigo anterior dar-se-á comunicação de tal facto, em ordem de serviço, a todo o pessoal aduaneiro. Da mesma forma se procederá quando for cassada qualquer cédula por motivo de suspensão temporária ou de proibição definitiva de funções, ou ainda por ausência motivada por licença ou doença.
+Art. 370.º Todas as vezes que forem entregues cédulas a qualquer das pessoas a que alude o artigo anterior dar-se-á comunicação de tal facto, em ordem de serviço, a todo o pessoal aduaneiro. Da mesma forma se procederá quando for cassada qualquer cédula por motivo de suspensão temporária ou de proibição definitiva de funções, ou ainda por ausência motivada por licença ou doença.
 
-###### Art. 371.º As cédulas dos indivíduos habilitados a efectuar despachos nas estâncias aduaneiras serão apresentadas aos funcionários sempre que estes o exijam, e a sua falta importa imediatamente a suspensão no andamento dos despachos ou doutros documentos que estiverem promovendo, ficando o seu mandatário sujeito à pena por transgressão dos regulamentos fiscais, aplicada em processo sumário pelo director ou chefe da estância aduaneira.
+Art. 371.º As cédulas dos indivíduos habilitados a efectuar despachos nas estâncias aduaneiras serão apresentadas aos funcionários sempre que estes o exijam, e a sua falta importa imediatamente a suspensão no andamento dos despachos ou doutros documentos que estiverem promovendo, ficando o seu mandatário sujeito à pena por transgressão dos regulamentos fiscais, aplicada em processo sumário pelo director ou chefe da estância aduaneira.
 
-###### Art. 372.º Quando os donos das mercadorias pretendam, nos termos do n.º 1.º do artigo 366.º, solicitar directamente os despachos das suas mercadorias, deverão apresentar-se sempre munidos da sua cédula. De igual forma deverão proceder os procuradores dos donos das mercadorias, quando tenham poderes de administração geral.
+Art. 372.º Quando os donos das mercadorias pretendam, nos termos do n.º 1.º do artigo 366.º, solicitar directamente os despachos das suas mercadorias, deverão apresentar-se sempre munidos da sua cédula. De igual forma deverão proceder os procuradores dos donos das mercadorias, quando tenham poderes de administração geral.
 
 § 1.º Quando se trate de firmas colectivas só ao sócio gerente serão passados o alvará e a cédula para despacho.
 
@@ -3338,13 +3450,13 @@ n) Expediente das secções.
 
 § 5.º Na procuração deverá o dono da mercadoria declarar que se responsabiliza pela solvabilidade do seu procurador.
 
-###### Art. 373.º Os indivíduos que não tenham estabelecimento conhecido industrial ou comercial, para serem admitidos a despachar como donos de mercadorias terão de fazer prova de não estarem inscritos na respectiva matriz, e dos títulos de propriedade das suas mercadorias deverão constar ou seus nomes como primeiros consignatários.
+Art. 373.º Os indivíduos que não tenham estabelecimento conhecido industrial ou comercial, para serem admitidos a despachar como donos de mercadorias terão de fazer prova de não estarem inscritos na respectiva matriz, e dos títulos de propriedade das suas mercadorias deverão constar ou seus nomes como primeiros consignatários.
 
-###### Art. 374.º Os serviços oficiais de cada província podem habilitar, junto das alfândegas, caixeiros despachantes que sejam funcionários do Estado, aos quais competirá o despacho das mercadorias que vierem directamente consignadas a tais serviços, desde que possuam como habilitações mínimas o 2.º ciclo do ensino liceal ou o curso geral do Comércio e os necessários conhecimentos para o desempenho de tais funções, o que será comprovado por um exame realizado perante o júri referido no artigo 420.º deste estatuto, sendo-lhes também aplicáveis as disposições do § 8.º do artigo 366.º
+Art. 374.º Os serviços oficiais de cada província podem habilitar, junto das alfândegas, caixeiros despachantes que sejam funcionários do Estado, aos quais competirá o despacho das mercadorias que vierem directamente consignadas a tais serviços, desde que possuam como habilitações mínimas o 2.º ciclo do ensino liceal ou o curso geral do Comércio e os necessários conhecimentos para o desempenho de tais funções, o que será comprovado por um exame realizado perante o júri referido no artigo 420.º deste estatuto, sendo-lhes também aplicáveis as disposições do § 8.º do artigo 366.º
 
 § único. A disposição do corpo do artigo não é aplicável aos caixeiros despachantes das forças armadas em relação ao material por elas importado ou exportado.
 
-###### Art. 375.º O despacho de exportação pode ser efectuado por qualquer indivíduo maior de 21 anos, excepto quando tenha de haver restituição de direitos ou a mercadoria se encontre depositada na alfândega ou em qualquer depósito sujeito à fiscalização, ou quando a sua saída da província dependa de autorização especial, casos em que só poderá ser solicitado por indivíduos legalmente habilitados.
+Art. 375.º O despacho de exportação pode ser efectuado por qualquer indivíduo maior de 21 anos, excepto quando tenha de haver restituição de direitos ou a mercadoria se encontre depositada na alfândega ou em qualquer depósito sujeito à fiscalização, ou quando a sua saída da província dependa de autorização especial, casos em que só poderá ser solicitado por indivíduos legalmente habilitados.
 
 § 1.º Em todos os bilhetes de despacho de exportação em que o valor das mercadorias exceda 1000$00 pedidos por entidades diferentes das constantes da parte final deste artigo, as respectivas assinaturas serão abonadas por firma comercial idónea, quando a entidade exportadora não seja conhecida, exigindo-se também a indicação, nos referidos bilhetes, das moradas dos exportadores, qualquer que seja o valor das mercadorias, assim como o número do bilhete de identidade do indivíduo que promoveu o processamento dos bilhetes de despacho.
 
@@ -3352,7 +3464,7 @@ n) Expediente das secções.
 
 § 3.º Só as pessoas domiciliadas na província podem intervir nos despachos de exportação.
 
-###### Art. 376.º Podem ser solicitados pelos próprios condutores ou portadores dos títulos de propriedade:
+Art. 376.º Podem ser solicitados pelos próprios condutores ou portadores dos títulos de propriedade:
 
 a) Os despachos nas delegações e postos de despacho da fronteira terrestre ou marítima onde não haja despachante oficial;
 
@@ -3360,15 +3472,15 @@ b) Os despachos nas delegações marítimas de géneros nacionais ou nacionaliza
 
 c) Todos aqueles em que sejam admissíveis declarações verbais.
 
-###### Art. 377.º Os indivíduos habilitados a despachar que intervierem nos trâmites e formalidades do despacho aduaneiro indicarão, no competente bilhete, assim como em quaisquer documentos apresentados nas alfândegas, junto da sua assinatura, o número da sua cédula e respectiva série, a fim de fàcilmente se reconhecerem tais assinaturas, e aporão o carimbo de que façam uso.
+Art. 377.º Os indivíduos habilitados a despachar que intervierem nos trâmites e formalidades do despacho aduaneiro indicarão, no competente bilhete, assim como em quaisquer documentos apresentados nas alfândegas, junto da sua assinatura, o número da sua cédula e respectiva série, a fim de fàcilmente se reconhecerem tais assinaturas, e aporão o carimbo de que façam uso.
 
 § único. Os indivíduos que estejam nas condições prescritas no § único do artigo 368.º indicarão junto da sua assinatura o número do respectivo bilhete de identidade.
 
 ### CAPÍTULO II — Dos despachantes oficiais
 
-###### Art. 378.º É limitado e constitui quadros separados o número de despachantes oficiais em cada sede de alfândega ou estância aduaneira extra-urbana. Os governadores fixarão em portaria o número de despachantes de cada uma das estâncias aduaneiras e das sedes das alfândegas e poderão alterá-lo se as necessidades de serviço o exigirem, mediante proposta dos directores ou dos chefes provinciais dos Serviços das Alfândegas, conforme as províncias.
+Art. 378.º É limitado e constitui quadros separados o número de despachantes oficiais em cada sede de alfândega ou estância aduaneira extra-urbana. Os governadores fixarão em portaria o número de despachantes de cada uma das estâncias aduaneiras e das sedes das alfândegas e poderão alterá-lo se as necessidades de serviço o exigirem, mediante proposta dos directores ou dos chefes provinciais dos Serviços das Alfândegas, conforme as províncias.
 
-###### Art. 379.º Só os ajudantes de despachante e os caixeiros despachantes podem ser nomeados despachantes oficiais.
+Art. 379.º Só os ajudantes de despachante e os caixeiros despachantes podem ser nomeados despachantes oficiais.
 
 Os ajudantes de despachante e os caixeiros despachantes que pretendam ser nomeados despachantes oficiais deverão requerer ao director ou chefe provincial dos Serviços das Alfândegas a sua admissão ao exame de habilitação, que será realizado na Direcção ou Repartição Provincial dos Serviços das Alfândegas perante um júri com a composição seguinte:
 
@@ -3398,17 +3510,17 @@ Secretário - um escriturário designado pelo referido chefe.
 
 § único. Os exames referidos neste artigo realizar-se-ão de três em três anos e constarão de uma prova escrita e de uma prova oral, as quais versarão sobre as matérias constantes do programa aprovado por portaria do Ministro do Ultramar, sendo-lhes extensivas, na parte aplicável, as disposições da secção I do capítulo IX do título IV do livro II deste estatuto.
 
-###### Art. 380.º Só podem ser admitidos ao exame referido no artigo anterior os ajudantes de despachante que tenham mais de dois anos de serviço efectivo, assim como os caixeiros despachantes com mais de cinco anos do mesmo serviço, uns e outros com boas informações, quer prestem serviço nas sedes das alfândegas, quer nas estâncias aduaneiras extra-urbanas, desde que possuam como habilitações mínimas o 2.º ciclo do ensino liceal ou o curso geral do Comércio. Podem requerer a admissão a novo exame os despachantes oficiais das estâncias aduaneiras extra-urbanas que desejem melhorar a sua classificação, assim como os ajudantes de despachante e caixeiros despachantes, tanto da sede como das estâncias aduaneiras extra-urbanas da respectiva circunscrição, para o mesmo efeito.
+Art. 380.º Só podem ser admitidos ao exame referido no artigo anterior os ajudantes de despachante que tenham mais de dois anos de serviço efectivo, assim como os caixeiros despachantes com mais de cinco anos do mesmo serviço, uns e outros com boas informações, quer prestem serviço nas sedes das alfândegas, quer nas estâncias aduaneiras extra-urbanas, desde que possuam como habilitações mínimas o 2.º ciclo do ensino liceal ou o curso geral do Comércio. Podem requerer a admissão a novo exame os despachantes oficiais das estâncias aduaneiras extra-urbanas que desejem melhorar a sua classificação, assim como os ajudantes de despachante e caixeiros despachantes, tanto da sede como das estâncias aduaneiras extra-urbanas da respectiva circunscrição, para o mesmo efeito.
 
 § único. Poderão também ser admitidos ao exame de que trata o corpo deste artigo os ajudantes de despachante com mais de cinco anos de efectivo serviço e os caixeiros despachantes com mais de dez anos daquele serviço que, embora não possuam as habilitações nele referidas tenham, no entanto, boas informações.
 
-###### Art. 381.º O provimento das vagas de despachante oficial que ocorrerem na sede de uma circunscrição aduaneira será efectuado por meio de concurso documental, aberto pelo prazo de 60 dias, ao qual serão admitidos:
+Art. 381.º O provimento das vagas de despachante oficial que ocorrerem na sede de uma circunscrição aduaneira será efectuado por meio de concurso documental, aberto pelo prazo de 60 dias, ao qual serão admitidos:
 
 1.º Os despachantes oficiais das estâncias aduaneiras extra-urbanas da respectiva circunscrição, assim como os da mesma circunscrição aduaneira que estejam nas condições prescritas no § 1.º do artigo 392.º;
 
 2.º Os ajudantes de despachante e os caixeiros despachantes da respectiva circunscrição aduaneira que possuam o exame referido no artigo 379.º
 
-###### Art. 382.º Os ajudantes de despachante e os caixeiros despachantes que sejam candidatos aos lugares de despachante oficial instruirão os seus requerimentos com os documentos a seguir indicados:
+Art. 382.º Os ajudantes de despachante e os caixeiros despachantes que sejam candidatos aos lugares de despachante oficial instruirão os seus requerimentos com os documentos a seguir indicados:
 
 1.º Certidão do exame de habilitação referido no artigo 379.º;
 
@@ -3420,7 +3532,7 @@ Secretário - um escriturário designado pelo referido chefe.
 
 5.º Prestação de uma caução como garantia do exercício da profissão.
 
-###### Art. 383.º Os concursos para o provimento dos lugares de despachante oficial terão a validade de três anos e as nomeações recairão alternadamente nos candidatos referidos nos n.os 1.º e 2.º do artigo 381.º, os quais constarão de listas separadas, ficando os do n.º 1.º colocados por ordem de antiguidade na respectiva classe, tendo preferência os despachantes das estâncias aduaneiras extra-urbanas com mais tempo de serviço, e nos do n.º 2.º conforme as condições seguintes:
+Art. 383.º Os concursos para o provimento dos lugares de despachante oficial terão a validade de três anos e as nomeações recairão alternadamente nos candidatos referidos nos n.os 1.º e 2.º do artigo 381.º, os quais constarão de listas separadas, ficando os do n.º 1.º colocados por ordem de antiguidade na respectiva classe, tendo preferência os despachantes das estâncias aduaneiras extra-urbanas com mais tempo de serviço, e nos do n.º 2.º conforme as condições seguintes:
 
 a) Maior valorização no exame referido no artigo 379.º deste estatuto;
 
@@ -3438,7 +3550,7 @@ d) Mais idade.
 
 § 4.º A disposição do parágrafo anterior é extensiva ao provimento das vagas de despachante oficial das sedes das alfândegas mencionadas no § 2.º do artigo 107.º deste estatuto.
 
-###### Art. 384.º A caução a que se refere o n.º 5.º do artigo 382.º é fixada nos quantitativos seguintes:
+Art. 384.º A caução a que se refere o n.º 5.º do artigo 382.º é fixada nos quantitativos seguintes:
 
 a) Nas sedes das alfândegas de Angola, com excepção da de Cabinda, de Moçambique, na de Mormugão, no Estado da Índia e na de Bissau, na Guiné ... 10000$00
 
@@ -3454,9 +3566,9 @@ e) Nos postos de despacho ... 2000$00
 
 § 2.º Os governadores das províncias onde funcionem Câmaras de Despachantes Oficiais poderão autorizar estes organismos a prestar uma fiança bancária representativa das garantias prescritas no corpo do artigo para todos os associados, desde que assim haja sido deliberado em assembleia geral, e sendo emitido parecer pelo director ou chefe provincial dos Serviços das Alfândegas sobre tal deliberação.
 
-###### Art. 385.º Quando o fiador ou fiadores tiverem, por qualquer circunstância, deixado de ser considerados pessoas idóneas, os despachantes que estejam ao abrigo das disposições do § 1.º do artigo anterior são obrigados, sob pena de suspensão ou demissão, a participar o facto ao director da alfândega ou ao chefe da estância aduaneira, conforme os casos, no prazo de cinco dias, contados da data em que tenham conhecimento do facto, ou lhes haja sido notificado.
+Art. 385.º Quando o fiador ou fiadores tiverem, por qualquer circunstância, deixado de ser considerados pessoas idóneas, os despachantes que estejam ao abrigo das disposições do § 1.º do artigo anterior são obrigados, sob pena de suspensão ou demissão, a participar o facto ao director da alfândega ou ao chefe da estância aduaneira, conforme os casos, no prazo de cinco dias, contados da data em que tenham conhecimento do facto, ou lhes haja sido notificado.
 
-###### Art. 386.º Constituem deveres do despachante oficial:
+Art. 386.º Constituem deveres do despachante oficial:
 
 1.º Usar da máxima lealdade para com os outros despachantes;
 
@@ -3470,21 +3582,21 @@ e) Nos postos de despacho ... 2000$00
 
 § único. Os despachantes são obrigados a passar recibo das quantias que lhes forem entregues prèviamente pelos seus clientes para pagamento das despesas a realizar com os despachos de que tiverem sido encarregados.
 
-###### Art. 387.º Nas províncias onde estiver a funcionar uma câmara de despachantes oficiais será por ela proposta uma tabela dos honorários a perceber por cada despacho efectuado pelo respectivo despachante, a qual será submetida à aprovação do governador pelo director ou chefe provincial dos Serviços das Alfândegas com pareceres deste funcionário e do delegado do governo da província junto daquela câmara.
+Art. 387.º Nas províncias onde estiver a funcionar uma câmara de despachantes oficiais será por ela proposta uma tabela dos honorários a perceber por cada despacho efectuado pelo respectivo despachante, a qual será submetida à aprovação do governador pelo director ou chefe provincial dos Serviços das Alfândegas com pareceres deste funcionário e do delegado do governo da província junto daquela câmara.
 
 § 1.º Sòmente para casos especiais poderá ser admitida a fixação de honorários em função do valor das mercadorias ou do número de volumes.
 
 § 2.º Nas províncias onde não funcionem câmaras de despachantes oficiais será a tabela elaborada por uma comissão de três despachantes eleita por todos e submetida à aprovação do governador pelo director ou chefe provincial dos Serviços das Alfândegas, com a sua informação ou parecer.
 
-###### Art. 388.º O exercício da profissão de despachante oficial regular-se-á, em tudo o que não estiver previsto neste estatuto, pelas disposições da legislação geral sobre mandato e prestação de serviços no exercício das profissões liberais.
+Art. 388.º O exercício da profissão de despachante oficial regular-se-á, em tudo o que não estiver previsto neste estatuto, pelas disposições da legislação geral sobre mandato e prestação de serviços no exercício das profissões liberais.
 
-###### Art. 389.º É defeso aos despachantes, sob pena de demissão, tomar como ajudantes outros despachantes ou exercerem as suas funções em sociedade com outros despachantes ou com qualquer empresa, individual ou colectiva, que seja simples transitária de mercadorias.
+Art. 389.º É defeso aos despachantes, sob pena de demissão, tomar como ajudantes outros despachantes ou exercerem as suas funções em sociedade com outros despachantes ou com qualquer empresa, individual ou colectiva, que seja simples transitária de mercadorias.
 
-###### Art. 390.º O despachante oficial que permita que, sob as suas ordens, qualquer pessoa sem ter habilitações legais se ocupe do expediente dos seus despachos será punido com a pena prescrita no n.º 3.º do artigo 396.º deste estatuto. Será, igualmente, punido com a mesma pena o despachante oficial que assinar despachos que não sejam os do seu próprio e exclusivo expediente, com agravamento de pena em caso de reincidência.
+Art. 390.º O despachante oficial que permita que, sob as suas ordens, qualquer pessoa sem ter habilitações legais se ocupe do expediente dos seus despachos será punido com a pena prescrita no n.º 3.º do artigo 396.º deste estatuto. Será, igualmente, punido com a mesma pena o despachante oficial que assinar despachos que não sejam os do seu próprio e exclusivo expediente, com agravamento de pena em caso de reincidência.
 
-###### Art. 391.º Os despachantes oficiais não poderão desempenhar nas alfândegas outras funções além das que lhes estão marcadas neste estatuto.
+Art. 391.º Os despachantes oficiais não poderão desempenhar nas alfândegas outras funções além das que lhes estão marcadas neste estatuto.
 
-###### Art. 392.º Os despachantes oficiais que, não sendo por motivo de doença, se ausentarem do serviço por mais de 30 dias, seguidos ou interpolados, em cada ano, sem licença do director da alfândega, e os que no prazo de três meses não agenciarem o número de despachos que for fixado pelo governador serão colocados na situação de inactividade, não podendo nesta situação intervir no andamento de qualquer bilhete de despacho ou de outro assunto aduaneiro.
+Art. 392.º Os despachantes oficiais que, não sendo por motivo de doença, se ausentarem do serviço por mais de 30 dias, seguidos ou interpolados, em cada ano, sem licença do director da alfândega, e os que no prazo de três meses não agenciarem o número de despachos que for fixado pelo governador serão colocados na situação de inactividade, não podendo nesta situação intervir no andamento de qualquer bilhete de despacho ou de outro assunto aduaneiro.
 
 § 1.º A situação de inactividade a que o presente artigo se refere nunca será inferior a cinco anos, finda a qual os despachantes poderão requerer o seu regresso ao respectivo quadro, sendo providos nas condições prescritas nos artigos 381.º a 383.º deste estatuto.
 
@@ -3494,21 +3606,21 @@ e) Nos postos de despacho ... 2000$00
 
 § 4.º O disposto neste artigo não é aplicável aos casos de doença, que, indo além de trinta dias será mensalmente justificada perante o director ou chefe da estância aduaneira por atestado médico.
 
-###### Art. 393.º O despachante oficial ausente poderá escolher de entre os seus ajudantes aquele que julgar mais idóneo para o substituir durante a sua ausência e sob a sua inteira e única responsabilidade.
+Art. 393.º O despachante oficial ausente poderá escolher de entre os seus ajudantes aquele que julgar mais idóneo para o substituir durante a sua ausência e sob a sua inteira e única responsabilidade.
 
 § 1.º A substituição a que o presente artigo se refere nunca poderá recair em outro despachante.
 
 § 2.º No caso previsto neste artigo deverá o despachante declarar, por meio de termo, que a caução prestada de harmonia com o artigo 384.º cobre os actos do ajudante; se a garantia houver sido prestada por meio de fiança, de harmonia com o § 1.º do citado artigo, deverão os ajudantes ser afiançados pelo mesmo termo, assinado pelo fiador do despachante, e quando tal não conste claramente do termo de fiança deverá ser lavrado termo especial com o mesmo fiador.
 
-###### Art. 394.º Os despachantes estão, quanto à forma de processo, sujeitos às disposições do Estatuto do Funcionalismo Ultramarino, na parte aplicável, sem embargo da sujeição a processo de contencioso aduaneiro por infracção das leis e regulamentos fiscais, quando seja caso disso.
+Art. 394.º Os despachantes estão, quanto à forma de processo, sujeitos às disposições do Estatuto do Funcionalismo Ultramarino, na parte aplicável, sem embargo da sujeição a processo de contencioso aduaneiro por infracção das leis e regulamentos fiscais, quando seja caso disso.
 
 § único. O disposto neste artigo aplica-se aos ajudantes pelos actos por eles praticados quando estejam substituindo os respectivos despachantes.
 
-###### Art. 395.º Os directores das alfândegas podem suspender temporàriamente, em relação à faculdade de solicitar despachos, qualquer das pessoas que, nós termos do artigo 366.º, têm essa faculdade, bem como proibir-lhes a entrada nas estâncias aduaneiras, quando tenham sido indiciadas em processo fiscal ou pronunciadas em processo administrativo ou criminal, só terminando essa suspensão por efeitos de sentença absolutória, amnistia ou por indulto, ou ainda pelo cumprimento da pena imposta, se em qualquer dos dois últimos casos não houverem sido ou tenham de ser demitidas.
+Art. 395.º Os directores das alfândegas podem suspender temporàriamente, em relação à faculdade de solicitar despachos, qualquer das pessoas que, nós termos do artigo 366.º, têm essa faculdade, bem como proibir-lhes a entrada nas estâncias aduaneiras, quando tenham sido indiciadas em processo fiscal ou pronunciadas em processo administrativo ou criminal, só terminando essa suspensão por efeitos de sentença absolutória, amnistia ou por indulto, ou ainda pelo cumprimento da pena imposta, se em qualquer dos dois últimos casos não houverem sido ou tenham de ser demitidas.
 
 § único. A condenação em juízo dos indivíduos mencionados nos n.os 1.º a 4.º do artigo 366.º importa proibição de continuar a despachar e de entrar nas estâncias aduaneiras e eliminação do quadro, seguida da cassação do alvará e da respectiva cédula.
 
-###### Art. 396.º Aos despachantes oficiais, quando cometam quaisquer infracções disciplinares que não sejam as especificadas no artigo 390.º, serão aplicadas as seguintes penas:
+Art. 396.º Aos despachantes oficiais, quando cometam quaisquer infracções disciplinares que não sejam as especificadas no artigo 390.º, serão aplicadas as seguintes penas:
 
 1.º Advertência;
 
@@ -3522,55 +3634,55 @@ e) Nos postos de despacho ... 2000$00
 
 § único. A pena do n.º 1.º deste artigo poderá ser aplicada pelos directores das alfândegas ou pelos chefes das delegações aduaneiras nas próprias fórmulas de despacho ou noutros documentos apresentados pelos próprios despachantes e independentemente de organização de processo.
 
-###### Art. 397.º As penas dos n.os 2.º a 5.º do artigo anterior serão aplicadas precedendo organização de processo disciplinar. Constarão também de processo disciplinar organizado nos termos do corpo deste artigo as infracções referidas nos artigos 389.º e 390.º deste estatuto.
+Art. 397.º As penas dos n.os 2.º a 5.º do artigo anterior serão aplicadas precedendo organização de processo disciplinar. Constarão também de processo disciplinar organizado nos termos do corpo deste artigo as infracções referidas nos artigos 389.º e 390.º deste estatuto.
 
 § único. Os processos disciplinares referidos no corpo do artigo serão organizados e julgados conforme os preceitos do Estatuto do Funcionalismo Ultramarino, na parte aplicável.
 
-###### Art. 398.º A competência disciplinar para a aplicação da pena do n.º 2.º do artigo 396.º pertence ao director da alfândega, cumprindo-lhe dar conta do facto superiormente. A aplicação das penas estipuladas nos n.os 3.º e 4.º do mesmo artigo é da competência dos directores ou chefes provinciais dos Serviços das Alfândegas, pertencendo a do n.º 5.º aos governadores.
+Art. 398.º A competência disciplinar para a aplicação da pena do n.º 2.º do artigo 396.º pertence ao director da alfândega, cumprindo-lhe dar conta do facto superiormente. A aplicação das penas estipuladas nos n.os 3.º e 4.º do mesmo artigo é da competência dos directores ou chefes provinciais dos Serviços das Alfândegas, pertencendo a do n.º 5.º aos governadores.
 
-###### Art. 399.º Das decisões dos directores das alfândegas há recurso para os directores ou chefes provinciais dos Serviços das Alfândegas; das que tiverem sido proferidas por estes funcionários haverá recurso para os governadores, e das que houverem sido proferidas por estes haverá ainda recurso para o Conselho Superior de Disciplina, do Ministério do Ultramar.
+Art. 399.º Das decisões dos directores das alfândegas há recurso para os directores ou chefes provinciais dos Serviços das Alfândegas; das que tiverem sido proferidas por estes funcionários haverá recurso para os governadores, e das que houverem sido proferidas por estes haverá ainda recurso para o Conselho Superior de Disciplina, do Ministério do Ultramar.
 
-###### Art. 400.º Serão entregues aos tribunais judiciais os despachantes cuja natureza de delito praticado implique qualquer responsabilidade criminal.
+Art. 400.º Serão entregues aos tribunais judiciais os despachantes cuja natureza de delito praticado implique qualquer responsabilidade criminal.
 
-###### Art. 401.º Os despachantes oficiais a que tiver sido imposta a pena de suspensão por duas vezes, se praticarem depois qualquer acto pelo qual mereçam nova pena, com excepção das dos n.os 1.º e 2.º do artigo 396.º, serão demitidos e inibidos de entrar nas estâncias aduaneiras.
+Art. 401.º Os despachantes oficiais a que tiver sido imposta a pena de suspensão por duas vezes, se praticarem depois qualquer acto pelo qual mereçam nova pena, com excepção das dos n.os 1.º e 2.º do artigo 396.º, serão demitidos e inibidos de entrar nas estâncias aduaneiras.
 
-###### Art. 402.º Os despachantes oficiais que em processo disciplinar tenham sido desligados das suas funções ficam proibidos de entrar nas estâncias aduaneiras até findar o julgamento do respectivo processo.
+Art. 402.º Os despachantes oficiais que em processo disciplinar tenham sido desligados das suas funções ficam proibidos de entrar nas estâncias aduaneiras até findar o julgamento do respectivo processo.
 
-###### Art. 403.º Nas estâncias aduaneiras que não sejam sedes das alfândegas, os chefes poderão usar, em casas urgentes, da faculdade concedida pelo artigo 395.º aos directores, dando a estes imediata conta, para resolução definitiva.
+Art. 403.º Nas estâncias aduaneiras que não sejam sedes das alfândegas, os chefes poderão usar, em casas urgentes, da faculdade concedida pelo artigo 395.º aos directores, dando a estes imediata conta, para resolução definitiva.
 
-###### Art. 404.º Aos despachantes oficiais, caixeiros despachantes e aos ajudantes que forem nomeados funcionários do Estado será cassado o respectivo alvará, excepto nos casos previstos no artigo 374.º deste estatuto.
+Art. 404.º Aos despachantes oficiais, caixeiros despachantes e aos ajudantes que forem nomeados funcionários do Estado será cassado o respectivo alvará, excepto nos casos previstos no artigo 374.º deste estatuto.
 
-###### Art. 405.º Aos despachantes oficiais serão distribuídas, nas mesmas condições em que se procede para com os funcionários, todas as ordens de serviço, dactilografadas, que interessem ao expediente aduaneiro e as resoluções sobre classificação de mercadorias.
+Art. 405.º Aos despachantes oficiais serão distribuídas, nas mesmas condições em que se procede para com os funcionários, todas as ordens de serviço, dactilografadas, que interessem ao expediente aduaneiro e as resoluções sobre classificação de mercadorias.
 
-###### Art. 406.º É lícito aos despachantes oficiais terem nas estâncias aduaneiras carteiras ou bancas para seu uso, desde que nelas haja espaço disponível e lhes seja dada a devida autorização pelos directores ou chefes das estâncias aduaneiras onde trabalham.
+Art. 406.º É lícito aos despachantes oficiais terem nas estâncias aduaneiras carteiras ou bancas para seu uso, desde que nelas haja espaço disponível e lhes seja dada a devida autorização pelos directores ou chefes das estâncias aduaneiras onde trabalham.
 
-###### Art. 407.º Os despachantes oficiais efectuarão diàriamente o registo de todos os bilhetes de despacho por eles promovidos em livro próprio (protocolo), conforme modelo aprovado pelo Ministro do Ultramar, ouvida a Inspecção Superior das Alfândegas.
+Art. 407.º Os despachantes oficiais efectuarão diàriamente o registo de todos os bilhetes de despacho por eles promovidos em livro próprio (protocolo), conforme modelo aprovado pelo Ministro do Ultramar, ouvida a Inspecção Superior das Alfândegas.
 
 § 1.º Em coluna própria do protocolo dos despachantes oficiais serão registados os números das contas respeitantes aos despachos por eles promovidos, em relação a cada cliente, sendo os duplicados dessas contas arquivados em pasta própria ou em livro de carcela, de cujo original constará o competente recibo.
 
 § 2.º A falta de registo dos bilhetes de despacho no protocolo dos despachantes oficiais depois de efectuados os respectivos trâmites e a não apresentação para os fins prescritos no artigo seguinte constituem infracção disciplinar, punível nos termos do n.º 3.º do artigo 396.º deste estatuto.
 
-###### Art. 408.º Os directores das alfândegas determinarão que sejam examinados periòdicamente pela subsecção de conferência geral os protocolos dos despachantes oficiais que exerçam as suas funções na sede da circunscrição aduaneira e nas suas casas de despacho urbanas, adoptando os chefes das estâncias aduaneiras extra-urbanas igual procedimento em relação aos protocolos dos despachantes oficiais que nelas prestem serviço, assim como os funcionários incumbidos dos serviços de inspecções.
+Art. 408.º Os directores das alfândegas determinarão que sejam examinados periòdicamente pela subsecção de conferência geral os protocolos dos despachantes oficiais que exerçam as suas funções na sede da circunscrição aduaneira e nas suas casas de despacho urbanas, adoptando os chefes das estâncias aduaneiras extra-urbanas igual procedimento em relação aos protocolos dos despachantes oficiais que nelas prestem serviço, assim como os funcionários incumbidos dos serviços de inspecções.
 
 § único. São dispensados do exame de que trata o corpo deste artigo e da apresentação dos protocolos exigidos pela parte final do § 2.º do artigo anterior os despachantes oficiais das províncias onde existam câmaras de despachantes oficiais.
 
-###### Art. 409.º Os despachantes oficiais organizarão uma conta para os donos ou consignatários, por cada despacho efectuado, em impresso de modelo estabelecido oficialmente pela respectiva direcção ou repartição provincial dos Serviços das Alfândegas.
+Art. 409.º Os despachantes oficiais organizarão uma conta para os donos ou consignatários, por cada despacho efectuado, em impresso de modelo estabelecido oficialmente pela respectiva direcção ou repartição provincial dos Serviços das Alfândegas.
 
 § 1.º Da conta de que trata este artigo deverão constar, em separado e devidamente discriminadas, as verbas respeitantes às despesas realizadas com as operações de carácter exclusivamente aduaneiro.
 
 § 2.º Os despachantes oficiais deverão sempre passar recibo aos seus clientes pela liquidação das contas que lhes tiverem apresentado.
 
-###### Art. 410.º O exercício das funções de despachante oficial, assim como as de ajudante de despachante e de caixeiro despachante, não tem limite de idade.
+Art. 410.º O exercício das funções de despachante oficial, assim como as de ajudante de despachante e de caixeiro despachante, não tem limite de idade.
 
-###### Art. 411.º São extensivas, na parte aplicável aos despachantes oficiais, aos ajudantes de despachante e aos caixeiros despachantes as disposições do § 2.º do artigo 366.º deste estatuto.
+Art. 411.º São extensivas, na parte aplicável aos despachantes oficiais, aos ajudantes de despachante e aos caixeiros despachantes as disposições do § 2.º do artigo 366.º deste estatuto.
 
 ### CAPÍTULO III — Dos ajudantes de despachante e dos caixeiros despachantes
 
-###### Art. 412.º Os despachantes oficiais poderão ter o número de ajudantes exigido pelas necessidades do seu serviço e que os coadjuvarão, sob sua responsabilidade, no exercício das suas funções.
+Art. 412.º Os despachantes oficiais poderão ter o número de ajudantes exigido pelas necessidades do seu serviço e que os coadjuvarão, sob sua responsabilidade, no exercício das suas funções.
 
 § único. Os directores das alfândegas poderão, porém, exigir dos despachantes oficiais razões justificativas da admissão de novos ajudantes quando julguem excessivo o seu número, informando superiormente dessas razões.
 
-###### Art. 413.º Para ser ajudante de despachante oficial é necessário:
+Art. 413.º Para ser ajudante de despachante oficial é necessário:
 
 1.º Ser cidadão português;
 
@@ -3588,7 +3700,7 @@ e) Nos postos de despacho ... 2000$00
 
 § 4.º São extensivas à nomeação de ajudantes de despachante as disposições do artigo 367.º deste estatuto.
 
-###### Art. 414.º A abonação de que trata o n.º 4.º do artigo anterior consiste num termo lavrado na alfândega, do qual conste, por declaração do abonador:
+Art. 414.º A abonação de que trata o n.º 4.º do artigo anterior consiste num termo lavrado na alfândega, do qual conste, por declaração do abonador:
 
 a) Que o abonado tem as devidas condições de probidade e aptidão;
 
@@ -3600,33 +3712,33 @@ d) Que o abonado não está compreendido em nenhuma das restrições do § 2.º 
 
 § único. Quando o despachante apresentar declaração escrita ao director da alfândega de que deixa de se responsabilizar pelos actos do seu ajudante, tal facto implicará imediata suspensão ou demissão, conforme os casos, do respectivo ajudante e cassação das respectivas cédula e alvará.
 
-###### Art. 415.º Podem continuar a exercer as suas funções, embora não possuam as habilitações referidas no n.º 3.º do artigo 413.º os actuais ajudantes de despachante e caixeiros despachantes.
+Art. 415.º Podem continuar a exercer as suas funções, embora não possuam as habilitações referidas no n.º 3.º do artigo 413.º os actuais ajudantes de despachante e caixeiros despachantes.
 
-###### Art. 416.º Os ajudantes de despachante podem assistir à abertura dos volumes propostos a despacho e acompanhar ou promover outros trâmites do mesmo despacho para cuja realização não seja taxativamente exigida a presença do despachante oficial e auxiliar este em quaisquer diligências aduaneiras.
+Art. 416.º Os ajudantes de despachante podem assistir à abertura dos volumes propostos a despacho e acompanhar ou promover outros trâmites do mesmo despacho para cuja realização não seja taxativamente exigida a presença do despachante oficial e auxiliar este em quaisquer diligências aduaneiras.
 
 § único. É vedado aos ajudantes de despachante assinar quaisquer petições em bilhetes de despacho ou requerimento volante relativos a trâmites de despacho ou outras operações com eles relacionadas, salvo no caso de estarem substituindo o respectivo despachante, nos termos do artigo 393.º deste estatuto.
 
-###### Art. 417.º Poderão ser nomeados ajudantes de despachante ou caixeiros despachantes numa província os indivíduos que já tenham desempenhado aquelas funções, pelo menos, durante dois anos, com boas informações, nas alfândegas da metrópole ou de outras províncias ultramarinas.
+Art. 417.º Poderão ser nomeados ajudantes de despachante ou caixeiros despachantes numa província os indivíduos que já tenham desempenhado aquelas funções, pelo menos, durante dois anos, com boas informações, nas alfândegas da metrópole ou de outras províncias ultramarinas.
 
-###### Art. 418.º São extensivas à nomeação de caixeiros despachantes as condições exigidas no artigo 413.º deste estatuto, na parte aplicável, sendo, porém, a abonação referida no n.º 4.º do mesmo artigo efectuada pelos administradores ou gerentes das respectivas sociedades ou empresas.
+Art. 418.º São extensivas à nomeação de caixeiros despachantes as condições exigidas no artigo 413.º deste estatuto, na parte aplicável, sendo, porém, a abonação referida no n.º 4.º do mesmo artigo efectuada pelos administradores ou gerentes das respectivas sociedades ou empresas.
 
 § 1.º Para a primeira nomeação dos caixeiros despachantes será exigida, além dos documentos mencionados no artigo 413.º, certidão comprovativa de terem desempenhado as funções de ajudante de despachante durante, pelo menos, dois anos.
 
 § 2.º Os directores ou chefes provinciais dos Serviços das Alfândegas poderão dispensar, sempre que o julguem conveniente, na primeira nomeação de caixeiros despachantes, a certidão de que trata o parágrafo anterior, fazendo-a, porém, substituir por um exame realizado na sede das alfândegas, pelo qual se demonstre que o candidato possui conhecimento dos trâmites do despacho e de outras operações aduaneiras.
 
-###### Art. 419.º O exame a que se refere o § 2.º do artigo anterior constará de uma prova escrita e de uma oral e versará sobre as matérias constantes do programa aprovado por portaria do Ministro do Ultramar. Os pontos para a prova escrita serão elaborados pelo júri referido no artigo 259.º deste estatuto, conforme as províncias.
+Art. 419.º O exame a que se refere o § 2.º do artigo anterior constará de uma prova escrita e de uma oral e versará sobre as matérias constantes do programa aprovado por portaria do Ministro do Ultramar. Os pontos para a prova escrita serão elaborados pelo júri referido no artigo 259.º deste estatuto, conforme as províncias.
 
-###### Art. 420.º O júri do exame referido no artigo anterior será presidido pelo subdirector da circunscrição aduaneira e terá como vogais um verificador e um despachante oficial designados pelo director da alfândega.
+Art. 420.º O júri do exame referido no artigo anterior será presidido pelo subdirector da circunscrição aduaneira e terá como vogais um verificador e um despachante oficial designados pelo director da alfândega.
 
-###### Art. 421.º São extensivas aos ajudantes de despachante e aos caixeiros despachantes as disposições dos artigos 396.º e 397.º, na parte aplicável, quando os mesmos deixarem de cumprir as obrigações inerentes às funções que exercem, assim como as disposições dos artigos 401.º e 402.º deste estatuto.
+Art. 421.º São extensivas aos ajudantes de despachante e aos caixeiros despachantes as disposições dos artigos 396.º e 397.º, na parte aplicável, quando os mesmos deixarem de cumprir as obrigações inerentes às funções que exercem, assim como as disposições dos artigos 401.º e 402.º deste estatuto.
 
 § único. São igualmente extensivas aos ajudantes de despachante e aos caixeiros despachantes as disposições legais que na respectiva província regulam a remuneração dos empregados das profissões liberais a que, porventura, sejam equiparados, não podendo a remuneração dos caixeiros despachantes ser inferior à que por lei estiver atribuída aos ajudantes de despachante.
 
-###### Art. 422.º Os ajudantes de despachante e os caixeiros despachantes que tenham de renovar, por qualquer circunstância, a sua habilitação perante as alfândegas são dispensados de apresentar novamente os documentos exigidos no n.º 3.º do artigo 413.º ou de realizar o exame de que trata o § 3.º do mesmo artigo.
+Art. 422.º Os ajudantes de despachante e os caixeiros despachantes que tenham de renovar, por qualquer circunstância, a sua habilitação perante as alfândegas são dispensados de apresentar novamente os documentos exigidos no n.º 3.º do artigo 413.º ou de realizar o exame de que trata o § 3.º do mesmo artigo.
 
-###### Art. 423.º Só pedem exercer funções de ajudante de despachante e de caixeiro despachante indivíduos do sexo masculino, não sendo esta disposição aplicável aos indivíduos nomeados anteriormente à publicação deste estatuto.
+Art. 423.º Só pedem exercer funções de ajudante de despachante e de caixeiro despachante indivíduos do sexo masculino, não sendo esta disposição aplicável aos indivíduos nomeados anteriormente à publicação deste estatuto.
 
-###### Art. 424.º Os funcionários técnico-aduaneiros que forem nomeados despachantes oficiais não poderão regressar à actividade do serviço aduaneiro senão depois de decorridos quinze anos após aquela nomeação, sendo-lhes extensivas, na parte aplicável, as disposições dos artigos 257.º e 258.º do Estatuto do Funcionalismo Ultramarino.
+Art. 424.º Os funcionários técnico-aduaneiros que forem nomeados despachantes oficiais não poderão regressar à actividade do serviço aduaneiro senão depois de decorridos quinze anos após aquela nomeação, sendo-lhes extensivas, na parte aplicável, as disposições dos artigos 257.º e 258.º do Estatuto do Funcionalismo Ultramarino.
 
 § único. A disposição do corpo do artigo é extensiva aos referidos funcionários que forem nomeados ajudantes de despachante ou caixeiros despachantes, os quais só poderão regressar ao serviço aduaneiro depois de decorridos dez anos após aquela nomeação.
 
@@ -3636,7 +3748,7 @@ d) Que o abonado não está compreendido em nenhuma das restrições do § 2.º 
 
 #### SECÇÃO I — Da conferência dos valores existentes nos cofres das estâncias aduaneiras
 
-###### Art. 425.º Os balanços e inspecções aos cofres das estâncias aduaneiras são considerados visitas de surpresa e têm por fim verificar:
+Art. 425.º Os balanços e inspecções aos cofres das estâncias aduaneiras são considerados visitas de surpresa e têm por fim verificar:
 
 1.º O estado da responsabilidade dos exactores ou dos responsáveis pelos fundos, valores e documentos entregues à sua guarda;
 
@@ -3648,9 +3760,9 @@ d) Que o abonado não está compreendido em nenhuma das restrições do § 2.º 
 
 5.º A forma como é exercida a fiscalização dos cofres e executada a escrituração correspondente.
 
-###### Art. 426.º O balanço será iniciado, sempre que seja possível, no próprio dia da chegada do inspector à localidade.
+Art. 426.º O balanço será iniciado, sempre que seja possível, no próprio dia da chegada do inspector à localidade.
 
-###### Art. 427.º Se o exactor ou o responsável pela cobrança estiver ausente e não comparecer, o inspector fará notificar o parente mais próximo dos mesmos, maior do sexo masculino, que residir na localidade, para assistir aos termos de balanço, o qual começará à hora que constar da notificação, embora sem a comparência do notificado. Caso na localidade não haja parente daqueles nas condições deste artigo, proceder-se-á ao termo de balanço à hora marcada.
+Art. 427.º Se o exactor ou o responsável pela cobrança estiver ausente e não comparecer, o inspector fará notificar o parente mais próximo dos mesmos, maior do sexo masculino, que residir na localidade, para assistir aos termos de balanço, o qual começará à hora que constar da notificação, embora sem a comparência do notificado. Caso na localidade não haja parente daqueles nas condições deste artigo, proceder-se-á ao termo de balanço à hora marcada.
 
 § 1.º No caso de se não encontrar alguma chave do cofre, o inspector solicitará ao chefe da estância aduaneira ou ao funcionário que o substituir a indicação do técnico competente para o arrombar, substituir as chaves e mudar o segredo. Se na localidade não houver pessoas habilitadas para o fazer, igual solicitação será feita telegràficamente ao superior hierárquico competente.
 
@@ -3662,19 +3774,19 @@ d) Que o abonado não está compreendido em nenhuma das restrições do § 2.º 
 
 § 5.º Da restituição dos valores será lavrado auto de abertura e conferência.
 
-###### Art. 428.º Os balanços aos cofres das sedes das alfândegas e aos das estâncias aduaneiras serão referidos, em regra, ao dia em que o serviço for iniciado e compreendem as operações de receita e despesa desse mesmo dia, constando os resultados dos termos de balanço, de que se juntará uma cópia ao relatório da inspecção.
+Art. 428.º Os balanços aos cofres das sedes das alfândegas e aos das estâncias aduaneiras serão referidos, em regra, ao dia em que o serviço for iniciado e compreendem as operações de receita e despesa desse mesmo dia, constando os resultados dos termos de balanço, de que se juntará uma cópia ao relatório da inspecção.
 
 § único. Para cumprimento das disposições do corpo deste artigo o chefe da secção de contabilidade, no caso de inspecção à sede da alfândega, e os chefes das estâncias aduaneiras, nos outros casos, entregarão aos inspectores, separadamente, uma nota discriminativa do fecho de contas da tesouraria relativo ao dia anterior e outra do próprio dia, devidamente datada e assinada por eles.
 
-###### Art. 429.º O inspector, antes de iniciar o balanço, exigirá a comparência do director e do chefe da secção de contabilidade, no caso de inspecção à sede da alfândega, procedendo-se, depois disso, à abertura do mesmo cofre e à contagem, relacionamento e conferência do dinheiro, e de outros valores e documentos de despesa nele contidos, a fim de se verificar se o numerário existente, acrescido da soma resultante da receita entrada em cofre nesse dia, e deduzido o montante das despesas também pagas no mesmo dia, confere com o saldo apurado no fecho de contas do dia anterior, acrescido do movimento desse dia.
+Art. 429.º O inspector, antes de iniciar o balanço, exigirá a comparência do director e do chefe da secção de contabilidade, no caso de inspecção à sede da alfândega, procedendo-se, depois disso, à abertura do mesmo cofre e à contagem, relacionamento e conferência do dinheiro, e de outros valores e documentos de despesa nele contidos, a fim de se verificar se o numerário existente, acrescido da soma resultante da receita entrada em cofre nesse dia, e deduzido o montante das despesas também pagas no mesmo dia, confere com o saldo apurado no fecho de contas do dia anterior, acrescido do movimento desse dia.
 
 § 1.º Se nesta contagem se averiguar a existência de dinheiro falso e o exactor ou o responsável pela cobrança o não substituir imediatamente, apreender-se-á esse dinheiro, lavrando-se auto em duplicado da ocorrência, no qual se especificarão as espécies falsificadas e a sua importância. Um exemplar do auto será remetido ao agente do Ministério Público da comarca judicial ou do julgado municipal da área da localidade onde funciona a estância aduaneira e o outro será junto ao termo de balanço.
 
 § 2.º Se as espécies falsas forem de quantia que induza suspeitas de cumplicidade do exactor ou do responsável pela cobrança no seu fabrico ou passagem e este se não justifique, consignar-se-á esta circunstância no auto, ficando os mesmos detidos, para serem entregues com o auto ao agente do Ministério Público da respectiva comarca judicial ou julgado municipal.
 
-###### Art. 430.º Não serão considerados no balanço o dinheiro retirado da circulação ou as moedas com cunhos gastos ou com sinais de terem servido para adorno, devendo o exactor ou o responsável entrar com a sua importância.
+Art. 430.º Não serão considerados no balanço o dinheiro retirado da circulação ou as moedas com cunhos gastos ou com sinais de terem servido para adorno, devendo o exactor ou o responsável entrar com a sua importância.
 
-###### Art. 431.º Havendo documentos de despesa transferidos ou passagens de fundos em dinheiro sem que tenha sido expedido o competente recibo, o inspector averiguará do serviço competente, se for necessário, se aquelas operações efectivamente se realizaram, procedendo de conformidade com a resposta, que juntará ao relatório da inspecção.
+Art. 431.º Havendo documentos de despesa transferidos ou passagens de fundos em dinheiro sem que tenha sido expedido o competente recibo, o inspector averiguará do serviço competente, se for necessário, se aquelas operações efectivamente se realizaram, procedendo de conformidade com a resposta, que juntará ao relatório da inspecção.
 
 § 1.º Serão considerados como dinheiro efectivo a moeda estrangeira com curso legal, que será contada conforme o câmbio estabelecido oficialmente na data do seu recebimento, os cheques dos bancos legalmente estabelecidos na província, ou os cheques por estes visados para pagamento de direitos e quaisquer outros impostos ou entregas em operações de tesouraria.
 
@@ -3688,25 +3800,25 @@ d) Que o abonado não está compreendido em nenhuma das restrições do § 2.º 
 
 § 6.º Quando seja realizada inspecção aos cofres das tesourarias das sedes das alfândegas, os autos e termos serão também assinados pelo director da alfândega, que deverá assistir a todas aquelas diligências.
 
-###### Art. 432.º O inspector, sempre que o julgue conveniente, mandará transferir para a sede, agências ou filiais do banco emissor ou para os cofres das recebedorias da Fazenda os fundos disponíveis.
+Art. 432.º O inspector, sempre que o julgue conveniente, mandará transferir para a sede, agências ou filiais do banco emissor ou para os cofres das recebedorias da Fazenda os fundos disponíveis.
 
-###### Art. 433.º Cumprido o disposto no artigo 429.º e seus parágrafos, proceder-se-á em seguida à contagem, quando for caso disso, dos valores selados, se os houver, e dos impressos de venda ao público.
+Art. 433.º Cumprido o disposto no artigo 429.º e seus parágrafos, proceder-se-á em seguida à contagem, quando for caso disso, dos valores selados, se os houver, e dos impressos de venda ao público.
 
-###### Art. 434.º O balanço aos valores selados e impressos efectuar-se-á por meio de contagem de todas as espécies, cujo resultado se confrontará com os saldos acusados pela contabilidade no último dia do mês anterior, tendo-se em conta as operações de débito e crédito do mês corrente. Considerar-se-ão vendidos os valores que a menos forem apresentados.
+Art. 434.º O balanço aos valores selados e impressos efectuar-se-á por meio de contagem de todas as espécies, cujo resultado se confrontará com os saldos acusados pela contabilidade no último dia do mês anterior, tendo-se em conta as operações de débito e crédito do mês corrente. Considerar-se-ão vendidos os valores que a menos forem apresentados.
 
-###### Art. 435.º Serão apreendidos os valores viciados ou falsos que se encontrarem, levantando-se auto, em duplicado, no qual se especificarão as taxas e espécies falsificadas e sua importância. O responsável será imediatamente detido e entregue ao agente do Ministério Público com o original do auto, ficando o duplicado junto ao processo.
+Art. 435.º Serão apreendidos os valores viciados ou falsos que se encontrarem, levantando-se auto, em duplicado, no qual se especificarão as taxas e espécies falsificadas e sua importância. O responsável será imediatamente detido e entregue ao agente do Ministério Público com o original do auto, ficando o duplicado junto ao processo.
 
 § 1.º Se houver valores selados e impressos devolvidos e deles não exista ainda recibo, o inspector perguntará por telegrama à entidade competente se os recebeu, procedendo de conformidade com a resposta.
 
 § 2.º Não serão considerados no balanço os valores selados e impressos retirados da circulação cujo prazo de devolução tenha decorrido, sendo os mesmos considerados como vendidos, conforme o preceituado na segunda parte do artigo 434.º deste estatuto.
 
-###### Art. 436.º Quando, em resultado final de balanço a cofres das estâncias aduaneiras, se encontrar alguma diferença para menos em relação aos saldos acusados na contabilidade, depois desta conferida e corrigida pelo inspector, se for caso disso, levantar-se-á auto de apuramento de contas, em duplicado, notificando-se o responsável, por escrito, para satisfazer a importância devida. Se o não fizer, observar-se-á, na parte aplicável, o disposto nos §§ 3.º, 4.º e 5.º do artigo 431.º
+Art. 436.º Quando, em resultado final de balanço a cofres das estâncias aduaneiras, se encontrar alguma diferença para menos em relação aos saldos acusados na contabilidade, depois desta conferida e corrigida pelo inspector, se for caso disso, levantar-se-á auto de apuramento de contas, em duplicado, notificando-se o responsável, por escrito, para satisfazer a importância devida. Se o não fizer, observar-se-á, na parte aplicável, o disposto nos §§ 3.º, 4.º e 5.º do artigo 431.º
 
-###### Art. 437.º Com o auto de que trata o artigo anterior o inspector requisitará ao competente agente do Ministério Público o arresto de todos os bens do responsável.
+Art. 437.º Com o auto de que trata o artigo anterior o inspector requisitará ao competente agente do Ministério Público o arresto de todos os bens do responsável.
 
 § único. Concluído o balanço, será extraída conta corrente do alcance e enviada ao agente do Ministério Público, conjuntamente com a certidão de teor do termo do mesmo balanço.
 
-###### Art. 438.º Quando, por virtude de assalto, roubo, furto ou ainda por qualquer circunstância anormal, forem destruídos, arrebatados ou extraviados documentos, valores ou dinheiro dos cofres das estâncias aduaneiras, proceder-se-á simultâneamente a inquérito e a balanço para se apurarem os valores que faltam.
+Art. 438.º Quando, por virtude de assalto, roubo, furto ou ainda por qualquer circunstância anormal, forem destruídos, arrebatados ou extraviados documentos, valores ou dinheiro dos cofres das estâncias aduaneiras, proceder-se-á simultâneamente a inquérito e a balanço para se apurarem os valores que faltam.
 
 § 1.º No inquérito procurar-se-á averiguar se o responsável adoptava as precauções tendentes a acautelar os valores e se foi inteiramente alheio às causas que determinaram o seu descaminho.
 
@@ -3714,13 +3826,13 @@ d) Que o abonado não está compreendido em nenhuma das restrições do § 2.º 
 
 § 3.º Será anulada a importância dos documentos de despesa que não puderem ser substituídos em segunda via.
 
-###### Art. 439.º Os valores ou documentos apreendidos, nos termos do § 1.º do artigo 429.º e artigo 435.º, serão encerrados e lacrados com sinete, sendo o invólucro rubricado pelo inspector, pelo secretario do inspector e pelo responsável ou pessoa que o representar ou, na falta destes, por duas testemunhas.
+Art. 439.º Os valores ou documentos apreendidos, nos termos do § 1.º do artigo 429.º e artigo 435.º, serão encerrados e lacrados com sinete, sendo o invólucro rubricado pelo inspector, pelo secretario do inspector e pelo responsável ou pessoa que o representar ou, na falta destes, por duas testemunhas.
 
 § único. Os referidos valores ou documentos serão depositados nas agências, filiais ou delegações do banco emissor, à ordem do juiz de direito da respectiva comarca ou do juiz do julgado municipal.
 
 #### SECÇÃO II — Do exame à escrituração das tesourarias e serviços de contabilidade aduaneiros
 
-###### Art. 440.º Para cumprimento das disposições do artigo 425.º, compete aos inspectores verificar:
+Art. 440.º Para cumprimento das disposições do artigo 425.º, compete aos inspectores verificar:
 
 a) No caso de balanço ao cofre da tesourara da sede da Alfândega:
 
@@ -3788,21 +3900,21 @@ d) No caso de inspecção às estâncias aduaneiras, além do cumprimento dos pr
 
 #### SECÇÃO III — Das sindicâncias, inquéritos e processos disciplinares
 
-###### Art. 441.º O inspector superior das Alfândegas, assim como os inspectores e outros funcionários técnico-aduaneiros, exercem acção disciplinar em resultado de inspecção, balanço, sindicância, inquérito ou por virtude de verificação directa da infracção.
+Art. 441.º O inspector superior das Alfândegas, assim como os inspectores e outros funcionários técnico-aduaneiros, exercem acção disciplinar em resultado de inspecção, balanço, sindicância, inquérito ou por virtude de verificação directa da infracção.
 
 § único. Os funcionários de que trata o corpo deste artigo gozam de garantia administrativa, nos termos do disposto no artigo 145.º do Estatuto do Funcionalismo Ultramarino, competindo ao Ministro do Ultramar conceder ou denegar a respectiva autorização.
 
-###### Art. 442.º Quando os inspectores presenciarem que algum funcionário sujeito à sua acção disciplinar cometeu infracção, mandarão lavrar imediatamente, perante duas testemunhas, auto de verificação directa do facto, que servirá de base ao respectivo processo disciplinar. Deste auto, que fará fé até prova em contrário, constarão as infracções imputadas ao arguido.
+Art. 442.º Quando os inspectores presenciarem que algum funcionário sujeito à sua acção disciplinar cometeu infracção, mandarão lavrar imediatamente, perante duas testemunhas, auto de verificação directa do facto, que servirá de base ao respectivo processo disciplinar. Deste auto, que fará fé até prova em contrário, constarão as infracções imputadas ao arguido.
 
-###### Art. 443.º No caso de simples inspecção e balanço, o processo disciplinar será instaurado pelo inspector, com base na cópia da parte do relatório em que se descreverem as infracções, independentemente de despacho da autoridade que tenha competência disciplinar sobre os arguidos.
+Art. 443.º No caso de simples inspecção e balanço, o processo disciplinar será instaurado pelo inspector, com base na cópia da parte do relatório em que se descreverem as infracções, independentemente de despacho da autoridade que tenha competência disciplinar sobre os arguidos.
 
-###### Art. 444.º Quando da decisão do Ministro do Ultramar ou do governador da província, proferida em processo de inspecção, resultar procedimento disciplinar, o respectivo processo será instaurado por funcionário nomeado pela autoridade que proferir a decisão.
+Art. 444.º Quando da decisão do Ministro do Ultramar ou do governador da província, proferida em processo de inspecção, resultar procedimento disciplinar, o respectivo processo será instaurado por funcionário nomeado pela autoridade que proferir a decisão.
 
-###### Art. 445.º Na instrução e formação dos processos disciplinares instaurados nos termos dos artigos anteriores, assim como nos inquéritos e sindicâncias pelos inspectores dos serviços aduaneiros, observar-se-ão os preceitos estabelecidos nas secções II e III do capítulo IV do Estatuto do Funcionalismo Ultramarino.
+Art. 445.º Na instrução e formação dos processos disciplinares instaurados nos termos dos artigos anteriores, assim como nos inquéritos e sindicâncias pelos inspectores dos serviços aduaneiros, observar-se-ão os preceitos estabelecidos nas secções II e III do capítulo IV do Estatuto do Funcionalismo Ultramarino.
 
 #### SECÇÃO IV — Dos relatórios das inspecções
 
-###### Art. 446.º Os relatórios dos inspectores e dos funcionários técnico-aduaneiros incumbidos dos serviços de inspecção serão redigidos com a maior concisão e clareza e deverão obedecer, em regra, à seguinte sistematização geral:
+Art. 446.º Os relatórios dos inspectores e dos funcionários técnico-aduaneiros incumbidos dos serviços de inspecção serão redigidos com a maior concisão e clareza e deverão obedecer, em regra, à seguinte sistematização geral:
 
 1.º Serviço fiscal:
 
@@ -3864,11 +3976,11 @@ e) Moeda e crédito.
 
 5.º Quaisquer outros assuntos não especificados nos números anteriores.
 
-###### Art. 447.º Os relatórios dos inspectores serão enviados ao Ministro do Ultramar, pelos governadores, ou apresentados na Inspecção Superior das Alfândegas em prazo não superior a 90 dias depois de terminada a inspecção, observando-se, quanto à sua remessa ao Ministério do Ultramar, o preceituado no § 1.º do artigo 448.º deste estatuto, fazendo-se menção das providências já tomadas pelos governos provinciais em relação aos diversos assuntos especificados naqueles relatórios.
+Art. 447.º Os relatórios dos inspectores serão enviados ao Ministro do Ultramar, pelos governadores, ou apresentados na Inspecção Superior das Alfândegas em prazo não superior a 90 dias depois de terminada a inspecção, observando-se, quanto à sua remessa ao Ministério do Ultramar, o preceituado no § 1.º do artigo 448.º deste estatuto, fazendo-se menção das providências já tomadas pelos governos provinciais em relação aos diversos assuntos especificados naqueles relatórios.
 
 § único. Independentemente dos relatórios devem os inspectores, quando tenham de permanecer numa província por período superior a três meses, elaborar uma nota do serviço efectuado em relação a cada trimestre, a qual será entregue ao governador para ser enviada à Inspecção Superior das Alfândegas.
 
-###### Art. 448.º Os relatórios das inspecções mencionarão circunstanciadamente o estado dos diversos serviços das estâncias aduaneiras, as modificações que se torne conveniente introduzir-lhes, o modo por que os mesmos serviços são desempenhados pelo respectivo pessoal e quaisquer outras considerações que, no interesse da Fazenda Nacional e da regularidade do expediente aduaneiro, julguem conveniente aduzir, sem embargo, porém, de quaisquer comunicações que, pela sua importância e urgência, devam remeter imediatamente ao director ou chefe provincial dos Serviços das Alfândegas. Quando a inspecção tenha sido ordenada pelo Ministro do Ultramar proceder-se-á conforme o preceituado no artigo 447.º, enviando-se um duplicado do relatório ao governador, a fim de que este se pronuncie sobre ele.
+Art. 448.º Os relatórios das inspecções mencionarão circunstanciadamente o estado dos diversos serviços das estâncias aduaneiras, as modificações que se torne conveniente introduzir-lhes, o modo por que os mesmos serviços são desempenhados pelo respectivo pessoal e quaisquer outras considerações que, no interesse da Fazenda Nacional e da regularidade do expediente aduaneiro, julguem conveniente aduzir, sem embargo, porém, de quaisquer comunicações que, pela sua importância e urgência, devam remeter imediatamente ao director ou chefe provincial dos Serviços das Alfândegas. Quando a inspecção tenha sido ordenada pelo Ministro do Ultramar proceder-se-á conforme o preceituado no artigo 447.º, enviando-se um duplicado do relatório ao governador, a fim de que este se pronuncie sobre ele.
 
 § 1.º O relatório de que trata este artigo será enviado, logo que seja possível, ao Ministro do Ultramar, com as observações que o governador da província entenda dever fazer-lhe.
 
@@ -3876,27 +3988,27 @@ e) Moeda e crédito.
 
 #### SECÇÃO V — Disposições especiais
 
-###### Art. 449.º Deverão existir em cada estância aduaneira dois livros especiais, sendo um destinado ao registo dos termos de balanço e o outro ao registo dos termos de inspecção.
+Art. 449.º Deverão existir em cada estância aduaneira dois livros especiais, sendo um destinado ao registo dos termos de balanço e o outro ao registo dos termos de inspecção.
 
 § 1.º No termo da inspecção deverão os inspectores descrever sumàriamente o estado em que se encontram os serviços da estância inspeccionada e determinar a execução de quaisquer preceitos legais, regulamentares, ordens ou instruções superiores a que se tenha deixado de dar cumprimento sem motivo justificado.
 
 § 2.º Os funcionários incumbidos do serviço de inspecções às estâncias aduaneiras enviarão, logo que hajam terminado aquele serviço, cópias dos termos de inspecção à Direcção ou Repartição Provincial dos Serviços das Alfândegas e à direcção da respectiva circunscrição, assim como quaisquer ordens ou instruções urgentes.
 
-###### Art. 450.º Salvo casos em que a urgência e a conveniência do serviço justifiquem o contrário e os inspectores assim o julguem necessário, é-lhes vedado fazer qualquer determinação verbal ou escrita sobre matérias de serviço que não constem de diplomas legais ou regulamentares ou que venham contrariar as ordens ou instruções transmitidas pela Direcção ou Repartição Provincial dos Serviços das Alfândegas.
+Art. 450.º Salvo casos em que a urgência e a conveniência do serviço justifiquem o contrário e os inspectores assim o julguem necessário, é-lhes vedado fazer qualquer determinação verbal ou escrita sobre matérias de serviço que não constem de diplomas legais ou regulamentares ou que venham contrariar as ordens ou instruções transmitidas pela Direcção ou Repartição Provincial dos Serviços das Alfândegas.
 
-###### Art. 451.º Quando os inspectores julguem da conveniência de serem alterados quaisquer preceitos legais ou regulamentares e, bem assim, as normas de serviço ou instruções emanadas da Direcção ou Repartição Provincial dos Serviços das Alfândegas, deverão apresentar as suas propostas fundamentadas ao governador, que sobre elas decidirá, dentro da competência que lhe está conferida pelas leis e regulamentos vigentes, ouvido o director ou o chefe provincial dos Serviços das Alfândegas, sendo vedado a este funcionário tomar decisões que contrariem as instruções dadas pelos inspectores, no exercício de funções de inspecção determinada pelo Ministro do Ultramar, até resolução superior.
+Art. 451.º Quando os inspectores julguem da conveniência de serem alterados quaisquer preceitos legais ou regulamentares e, bem assim, as normas de serviço ou instruções emanadas da Direcção ou Repartição Provincial dos Serviços das Alfândegas, deverão apresentar as suas propostas fundamentadas ao governador, que sobre elas decidirá, dentro da competência que lhe está conferida pelas leis e regulamentos vigentes, ouvido o director ou o chefe provincial dos Serviços das Alfândegas, sendo vedado a este funcionário tomar decisões que contrariem as instruções dadas pelos inspectores, no exercício de funções de inspecção determinada pelo Ministro do Ultramar, até resolução superior.
 
 § único. Se a resolução dos assuntos de que trata o corpo deste artigo exceder a competência do governador, serão os mesmos submetidos à apreciação do Ministro do Ultramar, com as observações que o governador entenda dever fazer.
 
-###### Art. 452.º Sempre que o julgue conveniente, poderá a governador ouvir o inspector superior das Alfândegas e os inspectores e outros funcionários incumbidos dos serviços de inspecção ou de outra missão sobre qualquer assunto relacionado com os seus conhecimentos e aptidões, quando se encontrem nessa província.
+Art. 452.º Sempre que o julgue conveniente, poderá a governador ouvir o inspector superior das Alfândegas e os inspectores e outros funcionários incumbidos dos serviços de inspecção ou de outra missão sobre qualquer assunto relacionado com os seus conhecimentos e aptidões, quando se encontrem nessa província.
 
-###### Art. 453.º Quando os inspectores, ao realizarem uma inspecção, reconhecerem a conveniência de proceder a qualquer inquérito que reputem urgente, deverão efectuá-lo independentemente de ordem superior, dando, porém, conhecimento imediato do facto à autoridade de que dependam, para efeito de ser ou não sancionado o procedimento seguido.
+Art. 453.º Quando os inspectores, ao realizarem uma inspecção, reconhecerem a conveniência de proceder a qualquer inquérito que reputem urgente, deverão efectuá-lo independentemente de ordem superior, dando, porém, conhecimento imediato do facto à autoridade de que dependam, para efeito de ser ou não sancionado o procedimento seguido.
 
-###### Art. 454.º Os inspectores corresponder-se-ão directamente com todas as entidades da província e com o Ministro do Ultramar por intermédio do governador da província e da Inspecção Superior das Alfândegas do Ultramar.
+Art. 454.º Os inspectores corresponder-se-ão directamente com todas as entidades da província e com o Ministro do Ultramar por intermédio do governador da província e da Inspecção Superior das Alfândegas do Ultramar.
 
-###### Art. 455.º No exercício das suas funções devem os inspectores e os funcionários incumbidos do serviço de inspecções ter em atenção que um dos principais fins das inspecções é ensinar e dar conselhos ao pessoal, para o que devem deixar, no livro mencionado no § 1.º do artigo 449.º, observações e indicações aos funcionários inspeccionados, relativas às deficiências que notarem, ficando em seu poder com um duplicado, que juntarão ao respectivo relatório; que, se houver bastantes deficiências, deve o serviço ser novamente inspeccionado passado um certo tempo, a fim de se verificar se o mesmo melhorou; que nunca se deve perder de vista que as inspecções têm um fim educativo e não se limitam nem têm por principal fim descobrir faltas e instaurar processos disciplinares, exceptuando-se, evidentemente, desta regra as faltas de honestidade ou o manifesto desleixo.
+Art. 455.º No exercício das suas funções devem os inspectores e os funcionários incumbidos do serviço de inspecções ter em atenção que um dos principais fins das inspecções é ensinar e dar conselhos ao pessoal, para o que devem deixar, no livro mencionado no § 1.º do artigo 449.º, observações e indicações aos funcionários inspeccionados, relativas às deficiências que notarem, ficando em seu poder com um duplicado, que juntarão ao respectivo relatório; que, se houver bastantes deficiências, deve o serviço ser novamente inspeccionado passado um certo tempo, a fim de se verificar se o mesmo melhorou; que nunca se deve perder de vista que as inspecções têm um fim educativo e não se limitam nem têm por principal fim descobrir faltas e instaurar processos disciplinares, exceptuando-se, evidentemente, desta regra as faltas de honestidade ou o manifesto desleixo.
 
-###### Art. 456.º As atribuições conferidas neste capítulo aos inspectores dos serviços das alfândegas são extensivas, na parte aplicável, ao inspector superior e aos funcionários técnico-aduaneiros que sejam investidos em serviço de inspecções ou incumbidos de qualquer outra missão e abrangem os postos administrativos com competência de despachos e todos os postos fiscais com igual competência.
+Art. 456.º As atribuições conferidas neste capítulo aos inspectores dos serviços das alfândegas são extensivas, na parte aplicável, ao inspector superior e aos funcionários técnico-aduaneiros que sejam investidos em serviço de inspecções ou incumbidos de qualquer outra missão e abrangem os postos administrativos com competência de despachos e todos os postos fiscais com igual competência.
 
 ### CAPÍTULO II — Das direcções provinciais
 
@@ -3904,7 +4016,7 @@ e) Moeda e crédito.
 
 ##### SUBSECÇÃO I — Do tempo de serviço
 
-###### Art. 457.º Os trabalhos e o expediente ordinário das Direcções Provinciais dos Serviços das Alfândegas e os de todas as estâncias aduaneiras de cada província, terão a duração diária que nela estiver fixada legalmente.
+Art. 457.º Os trabalhos e o expediente ordinário das Direcções Provinciais dos Serviços das Alfândegas e os de todas as estâncias aduaneiras de cada província, terão a duração diária que nela estiver fixada legalmente.
 
 § 1.º O horário do expediente para o pessoal em serviço nos cais e armazéns junto aos mesmos cais será fixado de acordo com as Direcções ou Administrações dos Serviços dos Portos, Caminhos de Ferro e Transportes.
 
@@ -3914,9 +4026,9 @@ e) Moeda e crédito.
 
 § 4.º O serviço de revisão de bagagens efectuado durante a noite será sempre requerido pelos representantes das empresas de transportes marítimos de passageiros, ou verbalmente pelos respectivos passageiros, no caso de veículos automóveis ou de aeronaves de turismo.
 
-###### Art. 458.º O começo e o encerramento dos horários de expediente ordinário, assim como os dos serviços de cais e armazéns, poderão ser anunciados por toque de sineta ou por despertadores eléctricos.
+Art. 458.º O começo e o encerramento dos horários de expediente ordinário, assim como os dos serviços de cais e armazéns, poderão ser anunciados por toque de sineta ou por despertadores eléctricos.
 
-###### Art. 459.º Na Direcção Provincial dos Serviços das Alfândegas e em cada uma das estâncias aduaneiras haverá um livro de ponto para todo o pessoal de nomeação ou contratado; o encerramento do ponto deverá efectuar-se quinze minutos depois da hora de entrada pelos funcionários designados no artigo 461.º, conforme os casos, remetendo-se em seguida os livros ao gabinete do director ou chefe.
+Art. 459.º Na Direcção Provincial dos Serviços das Alfândegas e em cada uma das estâncias aduaneiras haverá um livro de ponto para todo o pessoal de nomeação ou contratado; o encerramento do ponto deverá efectuar-se quinze minutos depois da hora de entrada pelos funcionários designados no artigo 461.º, conforme os casos, remetendo-se em seguida os livros ao gabinete do director ou chefe.
 
 § 1.º Nas sedes das alfândegas poderá haver um livro de ponto em cada secção, quando o movimento do pessoal o justifique.
 
@@ -3924,25 +4036,25 @@ e) Moeda e crédito.
 
 § 3.º Nas estâncias aduaneiras onde preste serviço sòmente um funcionário de qualquer dos quadros aduaneiros será dispensada a existência do livro de ponto, competindo, porém, a esse funcionário enviar mensalmente, à sede da alfândega, a nota da sua efectividade de serviço.
 
-###### Art. 460.º Aos funcionários que, por motivo dos serviços extraordinários, não puderem marcar a sua entrada será mencionada essa circunstância nos livros de ponto, por quem os encerrar diàriamente, ou no cartão individual.
+Art. 460.º Aos funcionários que, por motivo dos serviços extraordinários, não puderem marcar a sua entrada será mencionada essa circunstância nos livros de ponto, por quem os encerrar diàriamente, ou no cartão individual.
 
-###### Art. 461.º O encerramento dos livros de ponto é da competência do chefe da 2.ª Repartição, na Direcção Provincial dos Serviços das Alfândegas, dos chefes de secção, nas sedes das alfândegas, e do respectivo chefe, nas restantes estâncias aduaneiras.
+Art. 461.º O encerramento dos livros de ponto é da competência do chefe da 2.ª Repartição, na Direcção Provincial dos Serviços das Alfândegas, dos chefes de secção, nas sedes das alfândegas, e do respectivo chefe, nas restantes estâncias aduaneiras.
 
 § único. Nas sedes das alfândegas o director encarregará um funcionário de efectuar o encerramento do ponto do pessoal dos quadros do tráfego e da fiscalização marítima, nos casos em que, por circunstâncias atendíveis, se tenha adoptado livro de ponto privativo para o pessoal desses quadros.
 
-###### Art. 462.º Depois de encerrado o livro do ponto não será permitido a nenhum funcionário assiná-lo. Nos espaços correspondentes à rubrica dos funcionários ausentes à hora do encerramento será exarada, a tinta de cor diferente, a anotação de «serviço extraordinário», «doente», «dispensado», «licença disciplinar ou de outra natureza», «suspenso», «falta», ou qualquer outra, indicativa da situação do funcionário.
+Art. 462.º Depois de encerrado o livro do ponto não será permitido a nenhum funcionário assiná-lo. Nos espaços correspondentes à rubrica dos funcionários ausentes à hora do encerramento será exarada, a tinta de cor diferente, a anotação de «serviço extraordinário», «doente», «dispensado», «licença disciplinar ou de outra natureza», «suspenso», «falta», ou qualquer outra, indicativa da situação do funcionário.
 
 § único. O director provincial dos Serviços das Alfândegas, os directores das alfândegas e os chefes das estâncias aduaneiras podem relevar qualquer pequeno atraso que tenha dado origem à falta de comparência no serviço à hora do encerramento do ponto, quando este atraso seja convenientemente justificado; neste caso será feita a devida anotação no livro do ponto pelo encarregado do seu encerramento, sendo o serviço do respectivo funcionário considerado, para todos os efeitos, como efectivo.
 
-###### Art. 463.º As entradas depois da hora fixada, quando não sejam motivadas por serviço oficial, serão consideradas como faltas ao serviço no respectivo dia, salvo o caso previsto no § único do artigo anterior. A reincidência, neste último caso, poderá ser considerada, conforme as circunstâncias, como falta ao serviço.
+Art. 463.º As entradas depois da hora fixada, quando não sejam motivadas por serviço oficial, serão consideradas como faltas ao serviço no respectivo dia, salvo o caso previsto no § único do artigo anterior. A reincidência, neste último caso, poderá ser considerada, conforme as circunstâncias, como falta ao serviço.
 
-###### Art. 464.º É expressamente vedado ao pessoal dos diversos quadros aduaneiros abandonar o serviço sem prévia licença do director, do chefe da repartição, da secção ou da estância aduaneira, conforme os casos, salvo quando em objecto de serviço, e, ainda neste caso, não o deverá fazer sem dar conhecimento ao funcionário a que estiver directamente subordinado de que foi autorizado superiormente a ausentar-se, sob pena de procedimento disciplinar.
+Art. 464.º É expressamente vedado ao pessoal dos diversos quadros aduaneiros abandonar o serviço sem prévia licença do director, do chefe da repartição, da secção ou da estância aduaneira, conforme os casos, salvo quando em objecto de serviço, e, ainda neste caso, não o deverá fazer sem dar conhecimento ao funcionário a que estiver directamente subordinado de que foi autorizado superiormente a ausentar-se, sob pena de procedimento disciplinar.
 
-###### Art. 465.º Observar-se-ão, na parte aplicável, além dos preceitos estabelecidos nesta secção, os dos artigos 457.º e 458.º do Estatuto do Funcionalismo Ultramarino.
+Art. 465.º Observar-se-ão, na parte aplicável, além dos preceitos estabelecidos nesta secção, os dos artigos 457.º e 458.º do Estatuto do Funcionalismo Ultramarino.
 
 ##### SUBSECÇÃO II — Da correspondência e do expediente
 
-###### Art. 466.º Existirão na Direcção Provincial dos Serviços das Alfândegas, nas sedes das circunscrições aduaneiras e nas estâncias aduaneiras os seguintes registos, além de quaisquer outros que se tornem necessários:
+Art. 466.º Existirão na Direcção Provincial dos Serviços das Alfândegas, nas sedes das circunscrições aduaneiras e nas estâncias aduaneiras os seguintes registos, além de quaisquer outros que se tornem necessários:
 
 a) Registo de correspondência entrada;
 
@@ -3954,17 +4066,17 @@ d) Colecção por ordem cronológica dos triplicados da correspondência expedid
 
 e) Protocolos de remessa.
 
-###### Art. 467.º A correspondência entrada será registada, por extracto, nos livros mencionados nas alíneas a) e b) do corpo do artigo anterior. Os duplicados da correspondência expedida serão arquivados no respectivo processo, conforme os grupos mencionados no artigo 470.º deste estatuto.
+Art. 467.º A correspondência entrada será registada, por extracto, nos livros mencionados nas alíneas a) e b) do corpo do artigo anterior. Os duplicados da correspondência expedida serão arquivados no respectivo processo, conforme os grupos mencionados no artigo 470.º deste estatuto.
 
 § único. Nas estâncias aduaneiras onde não existam máquinas de escrever a colecção de duplicados da mesma correspondência será substituída pelo registo da correspondência expedida, deixando de cumprir-se, neste caso, o disposto na segunda parte do corpo deste artigo.
 
-###### Art. 468.º O expediente aduaneiro, quando destinado a entidades estranhas às alfândegas, será assinado pelo director dos serviços, podendo, quando destinado às sedes das alfândegas ou a outras estâncias aduaneiras, sê-lo pelos chefes das repartições, que também assinarão a correspondência entre estas.
+Art. 468.º O expediente aduaneiro, quando destinado a entidades estranhas às alfândegas, será assinado pelo director dos serviços, podendo, quando destinado às sedes das alfândegas ou a outras estâncias aduaneiras, sê-lo pelos chefes das repartições, que também assinarão a correspondência entre estas.
 
-###### Art. 469º De todo o expediente saído da Direcção Provincial dos Serviços das Alfândegas, das diversas estâncias aduaneiras e serviços especiais deverão ser organizadas colecções, que, em regra, serão encadernadas por anos civis.
+Art. 469º De todo o expediente saído da Direcção Provincial dos Serviços das Alfândegas, das diversas estâncias aduaneiras e serviços especiais deverão ser organizadas colecções, que, em regra, serão encadernadas por anos civis.
 
-###### Art. 470.º As notas, ofícios, propostas, informações, pareceres e outros documentos, entradas na Direcção Provincial dos Serviços das Alfândegas ou nas estâncias aduaneiras serão arquivados em capas especiais e por assuntos ou entidades, conforme o seu movimento.
+Art. 470.º As notas, ofícios, propostas, informações, pareceres e outros documentos, entradas na Direcção Provincial dos Serviços das Alfândegas ou nas estâncias aduaneiras serão arquivados em capas especiais e por assuntos ou entidades, conforme o seu movimento.
 
-###### Art. 471.º A formação dos processos do expediente tem por base a classificação do documento inicial recebido, conforme as rubricas gerais estabelecidas, o qual receberá em seguida o competente número, que será averbado nos respectivos livros de registo e arquivado numa capa do modelo que tiver sido aprovado, onde será também registado. O documento inicial tomará, dentro de cada processo, o seu número em distribuição parcelar.
+Art. 471.º A formação dos processos do expediente tem por base a classificação do documento inicial recebido, conforme as rubricas gerais estabelecidas, o qual receberá em seguida o competente número, que será averbado nos respectivos livros de registo e arquivado numa capa do modelo que tiver sido aprovado, onde será também registado. O documento inicial tomará, dentro de cada processo, o seu número em distribuição parcelar.
 
 § 1.º Quando para qualquer assunto corrente não haja ainda processo, abrir-se-á um novo de rubrica geral.
 
@@ -3976,9 +4088,9 @@ e) Protocolos de remessa.
 
 § 5.º Anàlogamente se procederá quando a formação do processo de expediente tenha por base documento de iniciativa da própria Direcção dos Serviços ou das próprias estâncias aduaneiras.
 
-###### Art. 472.º Na Direcção ou Repartição Provincial dos Serviços das Alfândegas e em todas as estâncias aduaneiras, o registo, expedição, recepção e arquivo da correspondência estarão, em regra, a cargo de um funcionário designado pelo respectivo director ou chefe.
+Art. 472.º Na Direcção ou Repartição Provincial dos Serviços das Alfândegas e em todas as estâncias aduaneiras, o registo, expedição, recepção e arquivo da correspondência estarão, em regra, a cargo de um funcionário designado pelo respectivo director ou chefe.
 
-###### Art. 473.º Na Direcção Provincial dos Serviços das Alfândegas, nas sedes das alfândegas e nas estâncias aduaneiras da província serão recebidos todos os requerimentos que forem dirigidos ao governador, director dos serviços ou directores das alfândegas, os quais serão registados num livro especial («livro de porta»), descrevendo-se nele, por extracto, os assuntos versados nos mesmos.
+Art. 473.º Na Direcção Provincial dos Serviços das Alfândegas, nas sedes das alfândegas e nas estâncias aduaneiras da província serão recebidos todos os requerimentos que forem dirigidos ao governador, director dos serviços ou directores das alfândegas, os quais serão registados num livro especial («livro de porta»), descrevendo-se nele, por extracto, os assuntos versados nos mesmos.
 
 § 1.º Dos requerimentos entrados entregar-se-á recibo aos interessados sempre que apresentem duplicado da petição, no qual será passado aquele recibo.
 
@@ -3986,9 +4098,9 @@ e) Protocolos de remessa.
 
 § 3.º Os requerimentos remetidos por meio de nota ou ofício serão registados na Direcção Provincial dos Serviços das Alfândegas ou na sede da alfândega, conforme os casos, no «livro de porta», sendo arquivados, depois de proferido o competente despacho, no respectivo processo.
 
-###### Art. 474.º No «livro de porta» deverão ser exarados, por extracto, os despachos que sobre cada requerimento foram proferidos pela competente autoridade.
+Art. 474.º No «livro de porta» deverão ser exarados, por extracto, os despachos que sobre cada requerimento foram proferidos pela competente autoridade.
 
-###### Art. 475.º Nas sedes das alfândegas e nas estâncias aduaneiras observar-se-ão, quanto a requerimentos, os preceitos seguintes:
+Art. 475.º Nas sedes das alfândegas e nas estâncias aduaneiras observar-se-ão, quanto a requerimentos, os preceitos seguintes:
 
 1.º Os que se relacionem com o despacho de mercadorias e tenham de ser decididos pelos directores ou chefes de secção das alfândegas serão entregues directamente aos funcionários aduaneiros que superintendem nos serviços relacionados com os assuntos neles versados (encarregados de subsecção, reverificadores, verificadores ou outros), que prestarão as informações que houverem por convenientes, sendo em seguida entregues aos interessados, que os apresentarão à autoridade que tiver de proferir o competente despacho.
 
@@ -3998,39 +4110,39 @@ e) Protocolos de remessa.
 
 4.º Os requerimentos que não tenham de ficar juntos a bilhetes de despacho serão arquivados, em cada repartição, secção ou estância aduaneira, em pastas especiais e por ordem numérica de entrada em relação a cada ano e com índice em cada uma, organizado por ordem alfabética dos requerentes.
 
-###### Art. 476.º Os emolumentos a cobrar por despachos proferidos sobre quaisquer petições, que não constem dos bilhetes de despacho, pelo governador ou pelo director provincial dos Serviços das Alfândegas são os correspondentes ao dobro da taxa legal do papel selado e serão pagos por meio de estampilha fiscal, que será colada no próprio documento em que foi proferido o despacho e inutilizada, nos termos legais, pelo chefe da secção ou serviço onde ficar arquivado aquele documento.
+Art. 476.º Os emolumentos a cobrar por despachos proferidos sobre quaisquer petições, que não constem dos bilhetes de despacho, pelo governador ou pelo director provincial dos Serviços das Alfândegas são os correspondentes ao dobro da taxa legal do papel selado e serão pagos por meio de estampilha fiscal, que será colada no próprio documento em que foi proferido o despacho e inutilizada, nos termos legais, pelo chefe da secção ou serviço onde ficar arquivado aquele documento.
 
 § único. Serão devolvidas às partes as estampilhas que acompanharem os requerimentos respeitantes a pretensões que não hajam obtido deferimento.
 
-###### Art. 477.º As certidões que sejam requeridas sobre assuntos dependentes da Direcção Provincial dos Serviços das Alfândegas, desde que eles não sejam de carácter confidencial ou secreto e da respectiva expedição não resulte prejuízo para o serviço público, serão passadas por um funcionário da 2.ª Secção da 2.ª Repartição, quando respeitem a documentos arquivados nas repartições, e pelo encarregado do arquivo, quando respeitem a documentos que estejam guardados no arquivo geral, devendo, em qualquer dos casos, ser visadas pelo chefe da mesma secção.
+Art. 477.º As certidões que sejam requeridas sobre assuntos dependentes da Direcção Provincial dos Serviços das Alfândegas, desde que eles não sejam de carácter confidencial ou secreto e da respectiva expedição não resulte prejuízo para o serviço público, serão passadas por um funcionário da 2.ª Secção da 2.ª Repartição, quando respeitem a documentos arquivados nas repartições, e pelo encarregado do arquivo, quando respeitem a documentos que estejam guardados no arquivo geral, devendo, em qualquer dos casos, ser visadas pelo chefe da mesma secção.
 
 § único. Todas as certidões serão passadas, mediante despacho do chefe da 2.ª Repartição, competindo à 2.ª Secção desta Repartição requisitar à 1.ª Repartição ou aos restantes serviços anexos às repartições as informações de que carecer para esse efeito.
 
-###### Art. 478.º Nas sedes das alfândegas a passagem das certidões de que trata o artigo anterior e seu § único estará a cargo da 3.ª secção nas alfândegas mencionadas no artigo 105.º e da 2.ª secção nas restantes alfândegas.
+Art. 478.º Nas sedes das alfândegas a passagem das certidões de que trata o artigo anterior e seu § único estará a cargo da 3.ª secção nas alfândegas mencionadas no artigo 105.º e da 2.ª secção nas restantes alfândegas.
 
-###### Art. 479.º Não poderão ser passadas certidões de assuntos que não interessem directamente aos requerentes.
+Art. 479.º Não poderão ser passadas certidões de assuntos que não interessem directamente aos requerentes.
 
-###### Art. 480.º Pela passagem de certidões são devidos os emolumentos constantes do capítulo III da tabela anexa ao [Decreto n.º 31883](https://diariodarepublica.pt/dr/detalhe/decreto/31883-1942-168646), de 12 de Fevereiro de 1942.
+Art. 480.º Pela passagem de certidões são devidos os emolumentos constantes do capítulo III da tabela anexa ao [Decreto n.º 31883](https://diariodarepublica.pt/dr/detalhe/decreto/31883-1942-168646), de 12 de Fevereiro de 1942.
 
-###### Art. 481.º O pedido de prestação de informações por escrito é cativo da taxa de selo igual à do papel selado, devendo os interessados entregar, na ocasião em que preenchem o respectivo impresso, a competente estampilha fiscal, a qual será colada no original do impresso e inutilizada pelo funcionário informador.
+Art. 481.º O pedido de prestação de informações por escrito é cativo da taxa de selo igual à do papel selado, devendo os interessados entregar, na ocasião em que preenchem o respectivo impresso, a competente estampilha fiscal, a qual será colada no original do impresso e inutilizada pelo funcionário informador.
 
-###### Art. 482.º As informações de interesse exclusivo do pessoal aduaneiro poderão ser requisitadas pelos interessados, verbalmente ou por escrito, mas só poderão ser fornecidas com autorização do chefe da respectiva repartição ou secção, o qual também poderá, excepcionalmente, autorizar que qualquer funcionário consulte o arquivo, sendo a consulta feita na presença do respectivo empregado responsável.
+Art. 482.º As informações de interesse exclusivo do pessoal aduaneiro poderão ser requisitadas pelos interessados, verbalmente ou por escrito, mas só poderão ser fornecidas com autorização do chefe da respectiva repartição ou secção, o qual também poderá, excepcionalmente, autorizar que qualquer funcionário consulte o arquivo, sendo a consulta feita na presença do respectivo empregado responsável.
 
 § único. Em caso algum, e qualquer que seja o pretexto invocado, será permitido retirar, mesmo a título de curta demora, qualquer processo, verbete ou outro documento do arquivo geral ou das repartições ou secções, devendo a consulta a que se refere o corpo deste artigo ser efectuada na própria sala onde o documento se encontrar e respondendo disciplinarmente pelo integral cumprimento desta disposição o funcionário encarregado deste serviço.
 
-###### Art. 483.º As instruções de carácter estritamente fiscal que tenham de ser observadas pelos postos administrativos habilitados a dar despacho aduaneiro ser-lhes-ão transmitidas directamente pelas respectivas estâncias aduaneiras de que dependam, devendo ser-lhes também distribuídas as ordens de serviço e o Boletim das Alfândegas, assim como à Direcção Provincial dos Serviços de Administração Civil.
+Art. 483.º As instruções de carácter estritamente fiscal que tenham de ser observadas pelos postos administrativos habilitados a dar despacho aduaneiro ser-lhes-ão transmitidas directamente pelas respectivas estâncias aduaneiras de que dependam, devendo ser-lhes também distribuídas as ordens de serviço e o Boletim das Alfândegas, assim como à Direcção Provincial dos Serviços de Administração Civil.
 
-###### Art. 484.º Os postos administrativos e os postos fiscais habilitados a dar despacho aduaneiro estão sujeitos, na parte relativa à execução dos serviços de carácter aduaneiro, à acção dos inspectores dos serviços das alfândegas e de Fazenda e contabilidade.
+Art. 484.º Os postos administrativos e os postos fiscais habilitados a dar despacho aduaneiro estão sujeitos, na parte relativa à execução dos serviços de carácter aduaneiro, à acção dos inspectores dos serviços das alfândegas e de Fazenda e contabilidade.
 
-###### Art. 485.º É também aplicável aos serviços das alfândegas, em tudo que não esteja previsto nesta secção, o que a este respeito se encontra disposto nas secções VI e VII do capítulo VIII do Estatuto do Funcionalismo Ultramarino.
+Art. 485.º É também aplicável aos serviços das alfândegas, em tudo que não esteja previsto nesta secção, o que a este respeito se encontra disposto nas secções VI e VII do capítulo VIII do Estatuto do Funcionalismo Ultramarino.
 
 #### SECÇÃO II — Dos serviços nas repartições das Direcções Provinciais dos Serviços das Alfândegas
 
 ##### SUBSECÇÃO I — Dos serviços da 1.ª Repartição
 
-###### Art. 486.º O estudo dos assuntos cometidos à 1.ª Repartição pode ser da sua iniciativa ou ter por base as propostas remetidas pelos directores das alfândegas ou ainda em cumprimento de instruções ou determinações superiores.
+Art. 486.º O estudo dos assuntos cometidos à 1.ª Repartição pode ser da sua iniciativa ou ter por base as propostas remetidas pelos directores das alfândegas ou ainda em cumprimento de instruções ou determinações superiores.
 
-###### Art. 487.º Na 1.ª Secção deverão existir os seguintes registos, além de outros que se tornem necessários:
+Art. 487.º Na 1.ª Secção deverão existir os seguintes registos, além de outros que se tornem necessários:
 
 a) Registo dos bilhetes de despacho de mercadorias sujeitas a regime especial, tanto na importação como na exportação, cuja natureza e movimento convenha tornar conhecidos;
 
@@ -4040,43 +4152,43 @@ c) Registo dos bilhetes de despacho de mercadorias sujeitas a isenções ou redu
 
 d) Registo dos bilhetes de despacho de matérias-primas importadas com os benefícios prescritos no artigo 3.º do decreto citado na alínea anterior, com indicação do estabelecimento industrial a que se destinaram.
 
-###### Art. 488.º Para cumprimento das disposições da alínea b) do artigo anterior existirão em cada fábrica ou estabelecimento, e bem assim na estância aduaneira que tenha a superintendência directa da respectiva fiscalização, os livros para registo das quantidades de produtos laborados e dos respectivos impostos liquidados e arrecadados em relação a cada espécie de produto laborado em cada estabelecimento fabril.
+Art. 488.º Para cumprimento das disposições da alínea b) do artigo anterior existirão em cada fábrica ou estabelecimento, e bem assim na estância aduaneira que tenha a superintendência directa da respectiva fiscalização, os livros para registo das quantidades de produtos laborados e dos respectivos impostos liquidados e arrecadados em relação a cada espécie de produto laborado em cada estabelecimento fabril.
 
-###### Art. 489.º As estâncias aduaneiras remeterão, dentro dos prazos estabelecidos nas leis, regulamentos ou instruções vigentes na província, à direcção da respectiva alfândega e à 1.ª Repartição da Direcção Provincial dos Serviços das Alfândegas, mapas contendo os elementos necessários para os registos de que trata o artigo 487.º
+Art. 489.º As estâncias aduaneiras remeterão, dentro dos prazos estabelecidos nas leis, regulamentos ou instruções vigentes na província, à direcção da respectiva alfândega e à 1.ª Repartição da Direcção Provincial dos Serviços das Alfândegas, mapas contendo os elementos necessários para os registos de que trata o artigo 487.º
 
-###### Art. 490.º No registo mencionado na alínea c) do artigo 487.º serão efectuados os lançamentos, em colunas diferentes, das imposições efectivamente pagas e das que deveriam ser cobradas se não houvesse isenção. Também constarão de colunas diferentes os lançamentos relativos às isenções respeitantes à importação e à exportação.
+Art. 490.º No registo mencionado na alínea c) do artigo 487.º serão efectuados os lançamentos, em colunas diferentes, das imposições efectivamente pagas e das que deveriam ser cobradas se não houvesse isenção. Também constarão de colunas diferentes os lançamentos relativos às isenções respeitantes à importação e à exportação.
 
-###### Art. 491.º O encontro de direitos ou de outras imposições cobrados pelas alfândegas dentro do mesmo ano económico será decidido pelos directores das alfândegas. O encontro de direitos e de outras imposições fora do mesmo ano económico e as restituições de quaisquer rendimentos cobrados pelas alfândegas só poderão ser decididos pelos governadores. Quando se trate de restituições, o despacho do governador recairá sobre a informação prestada pela Direcção ou Repartição Provincial dos Serviços de Fazenda e Contabilidade acerca do cabimento de verba.
+Art. 491.º O encontro de direitos ou de outras imposições cobrados pelas alfândegas dentro do mesmo ano económico será decidido pelos directores das alfândegas. O encontro de direitos e de outras imposições fora do mesmo ano económico e as restituições de quaisquer rendimentos cobrados pelas alfândegas só poderão ser decididos pelos governadores. Quando se trate de restituições, o despacho do governador recairá sobre a informação prestada pela Direcção ou Repartição Provincial dos Serviços de Fazenda e Contabilidade acerca do cabimento de verba.
 
 § 1.º As restituições de direitos só serão autorizadas pelos governadores quando os interessados justifiquem a impossibilidade de poderem utilizar as respectivas quantias, por encontro, em futuros despachos ou de fazer endosso a outros importadores ou exportadores.
 
 § 2.º Em casos especiais, expressamente previstos na lei, poderá ser permitido, no todo ou em parte, o encontro ou restituição de direitos indevidamente pagos, sendo-o, de um modo geral, quanto aos direitos de mercadorias cuja exportação se não tenha chegado a efectuar e aos de mercadorias que, tendo sido efectivamente exportadas, venham de retorno sem terem entrado no consumo do país destinatário e como tais hajam sido reimportadas com isenção de direitos.
 
-###### Art. 492.º Sobre os requerimentos para as restituições ou encontros de quaisquer rendimentos exigir-se-á sempre informação dos funcionários que intervieram no despacho ou noutros documentos acerca da entrada nos cofres públicos da quantia a encontrar ou a restituir. Os despachos que constituírem direitos a tais restituições ou encontros serão devidamente fundamentados.
+Art. 492.º Sobre os requerimentos para as restituições ou encontros de quaisquer rendimentos exigir-se-á sempre informação dos funcionários que intervieram no despacho ou noutros documentos acerca da entrada nos cofres públicos da quantia a encontrar ou a restituir. Os despachos que constituírem direitos a tais restituições ou encontros serão devidamente fundamentados.
 
-###### Art. 493.º As partes podem requerer aos governadores, por intermédio das Direcções ou Repartições Provinciais dos Serviços das Alfândegas, o encontro ou a restituição das quantias cobradas a mais pelas estâncias aduaneiras e que não tenham sido encontradas dentro do respectivo ano económico e ainda a daquelas para que haja sido passado título de encontro e que, por motivo devidamente justificado, não tenha sido possível restituir ou encontrar no referido período.
+Art. 493.º As partes podem requerer aos governadores, por intermédio das Direcções ou Repartições Provinciais dos Serviços das Alfândegas, o encontro ou a restituição das quantias cobradas a mais pelas estâncias aduaneiras e que não tenham sido encontradas dentro do respectivo ano económico e ainda a daquelas para que haja sido passado título de encontro e que, por motivo devidamente justificado, não tenha sido possível restituir ou encontrar no referido período.
 
-###### Art. 494.º Se o indevido pagamento for reconhecido também dentro do prazo de dois anos pela conferência feita pelas alfândegas, os encontros das quantias pagas a mais deverão ser efectuados independentemente de requerimento das partes interessadas, quando digam respeito ao mesmo ano económico.
+Art. 494.º Se o indevido pagamento for reconhecido também dentro do prazo de dois anos pela conferência feita pelas alfândegas, os encontros das quantias pagas a mais deverão ser efectuados independentemente de requerimento das partes interessadas, quando digam respeito ao mesmo ano económico.
 
-###### Art. 495.º O direito à restituição ou ao encontro dos rendimentos, de que tratam os artigos anteriores, prescreve ao fim de dois anos, a contar da data do respectivo pagamento.
+Art. 495.º O direito à restituição ou ao encontro dos rendimentos, de que tratam os artigos anteriores, prescreve ao fim de dois anos, a contar da data do respectivo pagamento.
 
-###### Art. 496.º É igualmente limitado a dois anos o prazo dentro do qual as alfândegas podem exigir dos particulares a entrega de quantias recebidas a menos, salvo nos casos de fraude.
+Art. 496.º É igualmente limitado a dois anos o prazo dentro do qual as alfândegas podem exigir dos particulares a entrega de quantias recebidas a menos, salvo nos casos de fraude.
 
 § único. O disposto neste artigo não abrange os casos em que seja devida a totalidade dos direitos.
 
-###### Art. 497.º Não serão aceites reclamações sobre erros na qualidade e valor das mercadorias depois de elas terem saído das alfândegas ou de se acharem desembaraçadas da acção fiscal, excepto quando tais erros forem comprovados em face de documentos existentes nas alfândegas ou por estas visados, que permitam a identificação de tais mercadorias.
+Art. 497.º Não serão aceites reclamações sobre erros na qualidade e valor das mercadorias depois de elas terem saído das alfândegas ou de se acharem desembaraçadas da acção fiscal, excepto quando tais erros forem comprovados em face de documentos existentes nas alfândegas ou por estas visados, que permitam a identificação de tais mercadorias.
 
-###### Art. 498.º Na organização dos processos para pagamento dos direitos cobrados a menos pelas alfândegas serão sempre apreciadas as circunstâncias em que se deram os erros que motivaram a incompleta cobrança, instaurando-se processo disciplinar aos funcionários presumìvelmente culpados, quando para tal haja fundamento.
+Art. 498.º Na organização dos processos para pagamento dos direitos cobrados a menos pelas alfândegas serão sempre apreciadas as circunstâncias em que se deram os erros que motivaram a incompleta cobrança, instaurando-se processo disciplinar aos funcionários presumìvelmente culpados, quando para tal haja fundamento.
 
-###### Art. 499.º Na instrução dos processos referentes a restituições de direitos e outras imposições indevidamente cobrados, ou daquelas que tenham de ser efectuadas por efeito do cumprimento de disposições legais vigentes, deverão recolher-se todos os elementos necessários ao completo estudo de cada caso e à determinação sobre a legalidade das pretensões.
+Art. 499.º Na instrução dos processos referentes a restituições de direitos e outras imposições indevidamente cobrados, ou daquelas que tenham de ser efectuadas por efeito do cumprimento de disposições legais vigentes, deverão recolher-se todos os elementos necessários ao completo estudo de cada caso e à determinação sobre a legalidade das pretensões.
 
-###### Art. 500.º Os processos de restituição de direitos ou de outras imposições serão remetidos, depois de devidamente instruídos, à 2.ª Repartição, para efeitos de cumprimento da parte final do artigo 491.º deste estatuto.
+Art. 500.º Os processos de restituição de direitos ou de outras imposições serão remetidos, depois de devidamente instruídos, à 2.ª Repartição, para efeitos de cumprimento da parte final do artigo 491.º deste estatuto.
 
-###### Art. 501.º Só serão autorizados encontros ou restituições de direitos ou de imposições cobrados, mas nunca de emolumentos aduaneiros, taxas de tráfego e de armazenagem, por constituírem retribuição de serviços, nem do imposto do selo do despacho, salvo nos casos de ter havido erro na contagem daquelas imposições.
+Art. 501.º Só serão autorizados encontros ou restituições de direitos ou de imposições cobrados, mas nunca de emolumentos aduaneiros, taxas de tráfego e de armazenagem, por constituírem retribuição de serviços, nem do imposto do selo do despacho, salvo nos casos de ter havido erro na contagem daquelas imposições.
 
-###### Art. 502.º Na 2.ª Secção será efectuado, em livro próprio, o registo de todos os processos instaurados nas diversas estâncias aduaneiras por infracções fiscais cometidas na área da sua jurisdição.
+Art. 502.º Na 2.ª Secção será efectuado, em livro próprio, o registo de todos os processos instaurados nas diversas estâncias aduaneiras por infracções fiscais cometidas na área da sua jurisdição.
 
-###### Art. 503.º Para cumprimento da disposição do artigo antecedente deverão os cartórios de contencioso aduaneiro e as estâncias aduaneiras remeter trimestralmente, à Direcção Provincial dos Serviços das Alfândegas, mapas do movimento dos processos fiscais neles instaurados e ainda pendentes de resolução e dos que estão findos, devendo constar desses mapas os elementos seguintes:
+Art. 503.º Para cumprimento da disposição do artigo antecedente deverão os cartórios de contencioso aduaneiro e as estâncias aduaneiras remeter trimestralmente, à Direcção Provincial dos Serviços das Alfândegas, mapas do movimento dos processos fiscais neles instaurados e ainda pendentes de resolução e dos que estão findos, devendo constar desses mapas os elementos seguintes:
 
 a) Nome dos delinquentes;
 
@@ -4094,15 +4206,15 @@ g) Data da remessa do processo às instâncias superiores;
 
 h) Data em que o processo foi arquivado.
 
-###### Art. 504.º Compete ao chefe da 2.ª Secção estudar e propor as medidas que entender necessárias para a repressão dos delitos fiscais em face dos elementos extraídos do registo de que trata o artigo anterior.
+Art. 504.º Compete ao chefe da 2.ª Secção estudar e propor as medidas que entender necessárias para a repressão dos delitos fiscais em face dos elementos extraídos do registo de que trata o artigo anterior.
 
-###### Art. 505.º Deverão existir ainda na secção mencionada os livros e ficheiros que forem julgados necessários para registo e fiscalização do movimento de veículos automóveis realizados através das fronteiras, nos termos dos Decretos n.os 29278, 32113 e 35636, respectivamente, de 23 de Dezembro de 1938, de 1 de Julho de 1942 e de 11 de Maio de 1946, e demais legislação vigente na província, assim como das aeronaves, nos termos do [Decreto n.º 38171](https://diariodarepublica.pt/dr/detalhe/decreto/38171-1951-322878), de 14 de Fevereiro de 1951.
+Art. 505.º Deverão existir ainda na secção mencionada os livros e ficheiros que forem julgados necessários para registo e fiscalização do movimento de veículos automóveis realizados através das fronteiras, nos termos dos Decretos n.os 29278, 32113 e 35636, respectivamente, de 23 de Dezembro de 1938, de 1 de Julho de 1942 e de 11 de Maio de 1946, e demais legislação vigente na província, assim como das aeronaves, nos termos do [Decreto n.º 38171](https://diariodarepublica.pt/dr/detalhe/decreto/38171-1951-322878), de 14 de Fevereiro de 1951.
 
 ##### SUBSECÇÃO II — Dos serviços da 2.ª Repartição
 
 ##### DIVISÃO I — Da contabilidade
 
-###### Art. 506.º Para execução dos diversos serviços a cargo da 1.ª Secção da 2.ª Repartição deverão existir os seguintes registos, independentemente dos livros e registos de carácter auxiliar que se tornem necessários, assim como daqueles que forem determinados pelas Direcções ou Repartições Provinciais dos Serviços de Fazenda e Contabilidade:
+Art. 506.º Para execução dos diversos serviços a cargo da 1.ª Secção da 2.ª Repartição deverão existir os seguintes registos, independentemente dos livros e registos de carácter auxiliar que se tornem necessários, assim como daqueles que forem determinados pelas Direcções ou Repartições Provinciais dos Serviços de Fazenda e Contabilidade:
 
 a) Registo geral dos rendimentos;
 
@@ -4120,13 +4232,13 @@ g) Registo das importâncias referidas no artigo 21.º do [Decreto n.º 41024](h
 
 § único. Nas serdes das alfândegas e nas estâncias aduaneiras extra-urbanas existirão também os livros e registos que forem estabelecidos superiormente, de harmonia com as instruções expedidas pela Direcção ou Repartição Provincial dos Serviços das Alfândegas e com as determinações dos serviços provinciais de Fazenda e contabilidade.
 
-###### Art. 507.º A escrituração do «Registo geral dos rendimentos» será efectuada tomando por base os elementos, depois de conferidos, constantes das tabelas de rendimentos enviadas directamente pelas diversas estâncias aduaneiras no princípio de cada mês em relação ao mês anterior. Daquele registo deverá constar discriminadamente, conforme as diversas rubricas, o movimento de fundos arrecadados durante o referido mês, em cada estância ou circunscrição aduaneira ou distrito administrativo da província.
+Art. 507.º A escrituração do «Registo geral dos rendimentos» será efectuada tomando por base os elementos, depois de conferidos, constantes das tabelas de rendimentos enviadas directamente pelas diversas estâncias aduaneiras no princípio de cada mês em relação ao mês anterior. Daquele registo deverá constar discriminadamente, conforme as diversas rubricas, o movimento de fundos arrecadados durante o referido mês, em cada estância ou circunscrição aduaneira ou distrito administrativo da província.
 
-###### Art. 508.º Do «Registo geral de rendimentos» serão extraídos os elementos para ser elaborada a tabela geral dos rendimentos arrecadados, em cada mês, nas diversas estâncias aduaneiras da província.
+Art. 508.º Do «Registo geral de rendimentos» serão extraídos os elementos para ser elaborada a tabela geral dos rendimentos arrecadados, em cada mês, nas diversas estâncias aduaneiras da província.
 
-###### Art. 509.º Com base nos lançamentos existentes no «Registo geral de rendimentos», será também organizada a estatística mensal comparada dos rendimentos aduaneiros, a qual será publicada no Boletim Oficial da província, sendo remetidos dois exemplares daquela estatística ao Ministério do Ultramar, para ficarem arquivados na Direcção-Geral de Fazenda e na Inspecção Superior das Alfândegas do Ultramar, respectivamente.
+Art. 509.º Com base nos lançamentos existentes no «Registo geral de rendimentos», será também organizada a estatística mensal comparada dos rendimentos aduaneiros, a qual será publicada no Boletim Oficial da província, sendo remetidos dois exemplares daquela estatística ao Ministério do Ultramar, para ficarem arquivados na Direcção-Geral de Fazenda e na Inspecção Superior das Alfândegas do Ultramar, respectivamente.
 
-###### Art. 510.º A organização da estatística de que trata o artigo anterior será efectuada por forma que possam ser fàcilmente observadas:
+Art. 510.º A organização da estatística de que trata o artigo anterior será efectuada por forma que possam ser fàcilmente observadas:
 
 a) A totalidade dos rendimentos de todas as estâncias aduaneiras da província em períodos iguais dos últimos três anos;
 
@@ -4138,73 +4250,73 @@ d) A totalidade de rendimentos arrecadados anualmente em cada estância aduaneir
 
 § único. Para cumprimento do disposto no corpo deste artigo existirão na 1.ª secção os livros auxiliares e mapas que forem julgados necessários para elaboração da mencionada estatística, independentemente da utilização de quaisquer máquinas ou aparelhos apropriados.
 
-###### Art. 511.º A escrituração do registo a que se refere a alínea e) do artigo 506.º será efectuada por forma que possa conhecer-se ràpidamente o saldo existente em cada uma das verbas atribuídas à direcção dos serviços no orçamento geral da província e, bem assim, todos os reforços ou créditos concedidos no decurso do ano económico e ainda os regimes especiais que tenham sido estabelecidos para utilização dessas verbas.
+Art. 511.º A escrituração do registo a que se refere a alínea e) do artigo 506.º será efectuada por forma que possa conhecer-se ràpidamente o saldo existente em cada uma das verbas atribuídas à direcção dos serviços no orçamento geral da província e, bem assim, todos os reforços ou créditos concedidos no decurso do ano económico e ainda os regimes especiais que tenham sido estabelecidos para utilização dessas verbas.
 
-###### Art. 512.º Idêntico registo ao mencionado no artigo anterior será feito pelo vogal secretário do conselho administrativo da Direcção Provincial dos Serviços em relação às despesas nele realizadas, o qual ficará responsável pela estrita observância de todas as disposições contidas neste estatuto.
+Art. 512.º Idêntico registo ao mencionado no artigo anterior será feito pelo vogal secretário do conselho administrativo da Direcção Provincial dos Serviços em relação às despesas nele realizadas, o qual ficará responsável pela estrita observância de todas as disposições contidas neste estatuto.
 
-###### Art. 513.º O registo de que trata a alínea g) do artigo 506.º deste estatuto será efectuado com base nas relações enviadas pelas diversas estâncias aduaneiras conforme as disposições do artigo 21.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921), de 28 de Fevereiro de 1957.
+Art. 513.º O registo de que trata a alínea g) do artigo 506.º deste estatuto será efectuado com base nas relações enviadas pelas diversas estâncias aduaneiras conforme as disposições do artigo 21.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921), de 28 de Fevereiro de 1957.
 
-###### Art. 514.º Na 1.ª Secção será também organizado o expediente respeitante às autorizações a conceder pelo governador-geral para encontro ou restituição das quantias a que se referem a parte final do artigo 491.º e o artigo 493.º deste estatuto, transitando os respectivos processos, para esse efeito, da 1.ª Repartição para aquela secção, devidamente informados.
+Art. 514.º Na 1.ª Secção será também organizado o expediente respeitante às autorizações a conceder pelo governador-geral para encontro ou restituição das quantias a que se referem a parte final do artigo 491.º e o artigo 493.º deste estatuto, transitando os respectivos processos, para esse efeito, da 1.ª Repartição para aquela secção, devidamente informados.
 
-###### Art. 515.º Na concessão de restituições de direitos deverá observar-se o preceito estabelecido no § 1.º do artigo 491.º deste estatuto.
+Art. 515.º Na concessão de restituições de direitos deverá observar-se o preceito estabelecido no § 1.º do artigo 491.º deste estatuto.
 
-###### Art. 516.º Todos os encontros ou restituições de direitos autorizados nos termos do artigo anterior serão registados no livro mencionado na alínea c) do artigo 506.º, devendo fazer-se registo separado para a importação e para a exportação.
+Art. 516.º Todos os encontros ou restituições de direitos autorizados nos termos do artigo anterior serão registados no livro mencionado na alínea c) do artigo 506.º, devendo fazer-se registo separado para a importação e para a exportação.
 
 § único. Para cumprimento das disposições deste artigo serão comunicados à 2.ª Repartição da Direcção Provincial dos Serviços das Alfândegas todos os encontros que hajam sido efectuados nas sedes das alfândegas depois de autorizados pelos respectivos directores, os quais serão escriturados separadamente daqueles de que trata o corpo deste artigo.
 
-###### Art. 517.º Os vencimentos e mais despesas efectuadas com o pessoal dos diversos quadros aduaneiros colocado na Direcção Provincial dos Serviços serão registados em livro especial, do modelo adoptado oficialmente na província, no qual serão também escriturados os descontos que sobre os seus vencimentos tenham de incidir e efectuadas quaisquer observações que interessem ao processamento daqueles vencimentos.
+Art. 517.º Os vencimentos e mais despesas efectuadas com o pessoal dos diversos quadros aduaneiros colocado na Direcção Provincial dos Serviços serão registados em livro especial, do modelo adoptado oficialmente na província, no qual serão também escriturados os descontos que sobre os seus vencimentos tenham de incidir e efectuadas quaisquer observações que interessem ao processamento daqueles vencimentos.
 
-###### Art. 518.º A 1.ª Secção elaborará dentro dos prazos estabelecidos por lei o projecto do orçamento geral dos serviços das alfândegas, tomando por base os elementos e propostas remetidos à Direcção dos Serviços das Alfândegas pelo seu conselho administrativo, pelas sedes das alfândegas e estâncias aduaneiras e ainda aqueles que hajam sido coligidos durante o ano.
+Art. 518.º A 1.ª Secção elaborará dentro dos prazos estabelecidos por lei o projecto do orçamento geral dos serviços das alfândegas, tomando por base os elementos e propostas remetidos à Direcção dos Serviços das Alfândegas pelo seu conselho administrativo, pelas sedes das alfândegas e estâncias aduaneiras e ainda aqueles que hajam sido coligidos durante o ano.
 
 § único. Na elaboração do projecto de que trata o corpo deste artigo serão observadas as disposições legais reguladoras do assunto e, bem assim, as instruções especiais transmitidas pela Direcção Provincial dos Serviços de Fazenda e Contabilidade.
 
-###### Art. 519.º As propostas para abertura de crédito ou de reforço de verbas, quer respeitem ao orçamento privativo da Direcção Provincial dos Serviços, quer ao das sedes das alfândegas ou das estâncias aduaneiras, serão elaboradas na 1.ª secção, podendo ser da sua iniciativa ou solicitadas pelos directores das circunscrições aduaneiras.
+Art. 519.º As propostas para abertura de crédito ou de reforço de verbas, quer respeitem ao orçamento privativo da Direcção Provincial dos Serviços, quer ao das sedes das alfândegas ou das estâncias aduaneiras, serão elaboradas na 1.ª secção, podendo ser da sua iniciativa ou solicitadas pelos directores das circunscrições aduaneiras.
 
-###### Art. 520.º Para efeitos do registo no livro mencionado na alínea f) do artigo 506.º das quantias recebidas por cada funcionário a título de emolumentos pessoais e dos respectivos limites, as sedes das alfândegas remeterão à 1.ª secção uma relação mensal das importâncias que foram liquidadas a cada funcionário em serviço na respectiva circunscrição.
+Art. 520.º Para efeitos do registo no livro mencionado na alínea f) do artigo 506.º das quantias recebidas por cada funcionário a título de emolumentos pessoais e dos respectivos limites, as sedes das alfândegas remeterão à 1.ª secção uma relação mensal das importâncias que foram liquidadas a cada funcionário em serviço na respectiva circunscrição.
 
-###### Art. 521.º As reposições a efectuar por qualquer funcionário, por virtude de terem sido excedidos os limites dos emolumentos pessoais, serão realizadas por meio de guia passada pela estação processadora da respectiva folha na Repartição de Fazenda que efectuou a sua liquidação.
+Art. 521.º As reposições a efectuar por qualquer funcionário, por virtude de terem sido excedidos os limites dos emolumentos pessoais, serão realizadas por meio de guia passada pela estação processadora da respectiva folha na Repartição de Fazenda que efectuou a sua liquidação.
 
 § único. A Direcção Provincial dos Serviços das Alfândegas remeterá anualmente à Direcção Provincial dos Serviços de Fazenda e Contabilidade relação discriminativa das importâncias de emolumentos pessoais que excederem os limites atribuídos a cada funcionário.
 
 ##### DIVISÃO II — Dos registos do pessoal dos diversos quadros aduaneiros e das pessoas habilitadas a efectuar despachos aduaneiros
 
-###### Art. 522.º Na 2.ª Secção serão elaboradas as propostas, portarias, despachos e o expediente relativo a nomeações, promoções, contratos, colocações e transferências que sejam da competência do governador-geral ou do director provincial dos Serviços das Alfândegas, respeitantes ao pessoal dos diversos quadros aduaneiros, aos despachantes e ao assalariamento de pessoal com carácter permanente.
+Art. 522.º Na 2.ª Secção serão elaboradas as propostas, portarias, despachos e o expediente relativo a nomeações, promoções, contratos, colocações e transferências que sejam da competência do governador-geral ou do director provincial dos Serviços das Alfândegas, respeitantes ao pessoal dos diversos quadros aduaneiros, aos despachantes e ao assalariamento de pessoal com carácter permanente.
 
-###### Art. 523.º Deverão existir na mencionada secção livros destinados aos termos de compromisso de honra e autos de posse de todo o pessoal.
+Art. 523.º Deverão existir na mencionada secção livros destinados aos termos de compromisso de honra e autos de posse de todo o pessoal.
 
-###### Art. 524.º A apresentação de qualquer funcionário na Direcção Provincial dos Serviços das Alfândegas será sempre averbada em livro próprio e anotada no livro de registo geral do pessoal do respectivo quadro.
+Art. 524.º A apresentação de qualquer funcionário na Direcção Provincial dos Serviços das Alfândegas será sempre averbada em livro próprio e anotada no livro de registo geral do pessoal do respectivo quadro.
 
-###### Art. 525.º Na organização, arquivo e averbamento dos processos individuais relativos aos funcionários de nomeação vitalícia ou contratados e, bem assim, aos assalariados de carácter permanente, despachantes oficiais e seus ajudantes, caixeiros despachantes e donos de mercadorias ou seus procuradores com poderes de administração geral que possuam alvarás de habilitação para despachar deve observar-se o que a este respeito preceituam os artigos 113.º a 116.º e seus parágrafos do Estatuto do Funcionalismo Ultramarino.
+Art. 525.º Na organização, arquivo e averbamento dos processos individuais relativos aos funcionários de nomeação vitalícia ou contratados e, bem assim, aos assalariados de carácter permanente, despachantes oficiais e seus ajudantes, caixeiros despachantes e donos de mercadorias ou seus procuradores com poderes de administração geral que possuam alvarás de habilitação para despachar deve observar-se o que a este respeito preceituam os artigos 113.º a 116.º e seus parágrafos do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 526.º Na 2.ª Secção deverão existir verbetes coleccionados em ficheiros destinados a facilitar o manuseamento e verificação de todos os documentos, processos e registos biográficos do pessoal dos diversos quadros aduaneiros.
+Art. 526.º Na 2.ª Secção deverão existir verbetes coleccionados em ficheiros destinados a facilitar o manuseamento e verificação de todos os documentos, processos e registos biográficos do pessoal dos diversos quadros aduaneiros.
 
-###### Art. 527.º Os mapas a que se refere o n.º 14.º do artigo 327.º deste estatuto serão organizados em relação a cada verificador pela sede da respectiva alfândega e arquivados no processo individual do funcionário, existente na Direcção Provincial dos Serviços das Alfândegas.
+Art. 527.º Os mapas a que se refere o n.º 14.º do artigo 327.º deste estatuto serão organizados em relação a cada verificador pela sede da respectiva alfândega e arquivados no processo individual do funcionário, existente na Direcção Provincial dos Serviços das Alfândegas.
 
 ##### DIVISÃO III — Do expediente geral
 
-###### Art. 528.º Os documentos entrados serão, após o seu registo, entregues, mediante protocolo ou recibo passado nos próprios livros de registo, aos chefes das repartições ou aos funcionários que para isso tenham recebido delegação daqueles chefes.
+Art. 528.º Os documentos entrados serão, após o seu registo, entregues, mediante protocolo ou recibo passado nos próprios livros de registo, aos chefes das repartições ou aos funcionários que para isso tenham recebido delegação daqueles chefes.
 
-###### Art. 529.º Fica a cargo da 2.ª Secção a compilação de legislação aduaneira, a qual deverá constar de verbetes e será feita por assuntos, que estarão devidamente coleccionados por ordem alfabética dentro de cada agrupamento.
+Art. 529.º Fica a cargo da 2.ª Secção a compilação de legislação aduaneira, a qual deverá constar de verbetes e será feita por assuntos, que estarão devidamente coleccionados por ordem alfabética dentro de cada agrupamento.
 
-###### Art. 530.º Para cumprimento das disposições do artigo anterior darão a 1.ª Repartição e os serviços a ela adstritos conhecimento à 2.ª Repartição de tudo o que se relacionar com a legislação promulgada, os processos técnicos e fiscais instaurados e conclusos em cada mês no Conselho do Serviço Técnico-Aduaneiro e nas diversas estâncias aduaneiras e, bem assim, todos os elementos que hão-de constar daquela compilação. As direcções das alfândegas e as estâncias aduaneiras enviarão àquela Repartição cópia das ordens de serviço, editais, avisos, circulares e outros instrumentos por elas publicados.
+Art. 530.º Para cumprimento das disposições do artigo anterior darão a 1.ª Repartição e os serviços a ela adstritos conhecimento à 2.ª Repartição de tudo o que se relacionar com a legislação promulgada, os processos técnicos e fiscais instaurados e conclusos em cada mês no Conselho do Serviço Técnico-Aduaneiro e nas diversas estâncias aduaneiras e, bem assim, todos os elementos que hão-de constar daquela compilação. As direcções das alfândegas e as estâncias aduaneiras enviarão àquela Repartição cópia das ordens de serviço, editais, avisos, circulares e outros instrumentos por elas publicados.
 
-###### Art. 531.º Cumpre aos encarregados do registo de entrada do expediente anexar aos documentos entrados aqueles já existentes que lhe digam respeito ou a que façam referência.
+Art. 531.º Cumpre aos encarregados do registo de entrada do expediente anexar aos documentos entrados aqueles já existentes que lhe digam respeito ou a que façam referência.
 
 ##### DIVISÃO IV
 
 Das ordens de serviço e do «Boletim das Alfândegas»
 
-###### Art. 532.º Serão dactilografadas as ordens de serviço, as quais deverão conter os textos legais e os assuntos constantes dos documentos ou minutas que hajam sido remetidos à 2.ª Secção para serem transcritos ou publicados.
+Art. 532.º Serão dactilografadas as ordens de serviço, as quais deverão conter os textos legais e os assuntos constantes dos documentos ou minutas que hajam sido remetidos à 2.ª Secção para serem transcritos ou publicados.
 
-###### Art. 533.º As ordens de serviço terão numeração seguida em cada ano civil e levarão, além da indicação do ano respectivo, um título que sintetize o assunto a que dizem respeito, sendo passadas a duplicador depois de assinadas pelo director provincial dos Serviços das Alfândegas. As instruções e normas de serviço de execução permanente constarão sempre de ordens de serviço.
+Art. 533.º As ordens de serviço terão numeração seguida em cada ano civil e levarão, além da indicação do ano respectivo, um título que sintetize o assunto a que dizem respeito, sendo passadas a duplicador depois de assinadas pelo director provincial dos Serviços das Alfândegas. As instruções e normas de serviço de execução permanente constarão sempre de ordens de serviço.
 
-###### Art. 534.º As sedes das alfândegas enviarão directamente à 2.ª Repartição dois exemplares de todas as ordens de serviço que tiverem publicado, para efeitos de inserção no Boletim das Alfândegas.
+Art. 534.º As sedes das alfândegas enviarão directamente à 2.ª Repartição dois exemplares de todas as ordens de serviço que tiverem publicado, para efeitos de inserção no Boletim das Alfândegas.
 
-###### Art. 535.º Com os originais das ordens de serviço assinados pelo director provincial dos Serviços das Alfândegas serão organizados anualmente um ou mais volumes destinados ao arquivo geral.
+Art. 535.º Com os originais das ordens de serviço assinados pelo director provincial dos Serviços das Alfândegas serão organizados anualmente um ou mais volumes destinados ao arquivo geral.
 
-###### Art. 536.º O Boletim das Alfândegas será publicado em fascículos trimestrais, semestrais ou anuais, conforme o volume dos assuntos a inserir, os quais começarão por um sumário desses assuntos, conforme os títulos mencionados no artigo 533.º, com a indicação das respectivas páginas, e devendo ser incluído no último fascículo de cada ano o índice geral.
+Art. 536.º O Boletim das Alfândegas será publicado em fascículos trimestrais, semestrais ou anuais, conforme o volume dos assuntos a inserir, os quais começarão por um sumário desses assuntos, conforme os títulos mencionados no artigo 533.º, com a indicação das respectivas páginas, e devendo ser incluído no último fascículo de cada ano o índice geral.
 
-###### Art. 537.º A publicação no Boletim das Alfândegas dos diplomas legais e de outros assuntos que interessem às alfândegas obedecerá à ordem seguinte:
+Art. 537.º A publicação no Boletim das Alfândegas dos diplomas legais e de outros assuntos que interessem às alfândegas obedecerá à ordem seguinte:
 
 a) Acordos, tratados, convenções ou outros instrumentos diplomáticos;
 
@@ -4230,9 +4342,9 @@ l) Avisos e editais publicados pela Direcção Provincial dos Serviços das Alf�
 
 § único. A publicação dos relatórios e documentos mencionados na alínea i) do corpo deste artigo carece de despacho do Ministro do Ultramar ou do governador, conforme os casos, e pode ser efectuada em separata.
 
-###### Art. 538.º A distribuição do Boletim das Alfândegas e das ordens de serviço estará a cargo da 2.ª Secção, devendo observar-se, além das disposições deste estatuto, o que na província estiver determinado quanto a publicações.
+Art. 538.º A distribuição do Boletim das Alfândegas e das ordens de serviço estará a cargo da 2.ª Secção, devendo observar-se, além das disposições deste estatuto, o que na província estiver determinado quanto a publicações.
 
-###### Art. 539.º Só terão direito à distribuição gratuita do Boletim das Alfândegas os funcionários do quadro técnico-aduaneiro, assim como os dos serviços de tesouraria e do laboratório.
+Art. 539.º Só terão direito à distribuição gratuita do Boletim das Alfândegas os funcionários do quadro técnico-aduaneiro, assim como os dos serviços de tesouraria e do laboratório.
 
 § 1.º No arquivo de qualquer estância aduaneira deverá existir, pelo menos, uma colecção do Boletim das Alfândegas e outra das ordens de serviço.
 
@@ -4240,31 +4352,31 @@ l) Avisos e editais publicados pela Direcção Provincial dos Serviços das Alf�
 
 § 3.º As entidades que não tenham direito à distribuição gratuita do Boletim das Alfândegas poderão adquiri-lo na Imprensa Nacional ou no conselho administrativo da Direcção ou Repartição Provincial dos Serviços das Alfândegas.
 
-### CAPÍTULO III Dos serviços anexos às Repartições das Direcções Provinciais dos Serviços das Alfândegas
+CAPÍTULO III Dos serviços anexos às Repartições das Direcções Provinciais dos Serviços das Alfândegas
 
 #### SECÇÃO I — Dos laboratórios e dos museus de amostras
 
-###### Art. 540.º Enquanto não estiverem instalados laboratórios junto das Direcções Provinciais dos Serviços das Alfândegas ou os mencionados no artigo 14.º do [Decreto n.º 30945](https://diariodarepublica.pt/dr/detalhe/decreto/30945-1940-515200), de 7 de Dezembro de 1940, serão as análises que se tornarem necessárias para a instrução dos processos de contencioso aduaneiro realizadas num dos laboratórios oficiais da província designado pelo governador.
+Art. 540.º Enquanto não estiverem instalados laboratórios junto das Direcções Provinciais dos Serviços das Alfândegas ou os mencionados no artigo 14.º do [Decreto n.º 30945](https://diariodarepublica.pt/dr/detalhe/decreto/30945-1940-515200), de 7 de Dezembro de 1940, serão as análises que se tornarem necessárias para a instrução dos processos de contencioso aduaneiro realizadas num dos laboratórios oficiais da província designado pelo governador.
 
 § único. Essas análises serão efectuadas, em regra, pelo analista da Direcção Provincial dos Serviços das Alfândegas sob a superintendência do director do respectivo laboratório, que visará sempre o competente boletim de análise.
 
-###### Art. 541.º Sem embargo do disposto no artigo anterior, poderá existir junto da Direcção Provincial dos Serviços das Alfândegas um laboratório destinado aos ligeiros ensaios físicos ou químicos para elucidação do pessoal em serviço na verificação e reverificação da sede da alfândega local.
+Art. 541.º Sem embargo do disposto no artigo anterior, poderá existir junto da Direcção Provincial dos Serviços das Alfândegas um laboratório destinado aos ligeiros ensaios físicos ou químicos para elucidação do pessoal em serviço na verificação e reverificação da sede da alfândega local.
 
 § único. Poderão ser instalados idênticos laboratórios nas sedes das alfândegas cujo movimento o justifique.
 
-###### Art. 542.º Nos laboratórios mencionados no artigo anterior deverá existir aparelhagem simples, utensílios, reagentes e outros produtos necessários à realização dos respectivos ensaios e uma câmara escura para verificação de chapas, películas, papéis, cartões e outros artefactos sensibilizados.
+Art. 542.º Nos laboratórios mencionados no artigo anterior deverá existir aparelhagem simples, utensílios, reagentes e outros produtos necessários à realização dos respectivos ensaios e uma câmara escura para verificação de chapas, películas, papéis, cartões e outros artefactos sensibilizados.
 
-###### Art. 543.º Ficarão a cargo do chefe do laboratório ou do analista, conforme os casos, os serviços do laboratório instalado junto da Direcção Provincial dos Serviços das Alfândegas sob a superintendência do chefe da 1.ª Repartição.
+Art. 543.º Ficarão a cargo do chefe do laboratório ou do analista, conforme os casos, os serviços do laboratório instalado junto da Direcção Provincial dos Serviços das Alfândegas sob a superintendência do chefe da 1.ª Repartição.
 
-###### Art. 544.º Os pedidos para análises serão feitos pelos chefes das estâncias aduaneiras ao chefe da 1.ª Repartição da Direcção Provincial dos Serviços das Alfândegas por intermédio da sede da alfândega, que, por sua vez, os fará remeter ao laboratório juntamente com as exposições dos funcionários e com as amostras dos produtos, géneros ou mercadorias a analisar.
+Art. 544.º Os pedidos para análises serão feitos pelos chefes das estâncias aduaneiras ao chefe da 1.ª Repartição da Direcção Provincial dos Serviços das Alfândegas por intermédio da sede da alfândega, que, por sua vez, os fará remeter ao laboratório juntamente com as exposições dos funcionários e com as amostras dos produtos, géneros ou mercadorias a analisar.
 
-###### Art. 545.º Quando o pessoal em serviço na verificação ou reverificação tenha dúvidas sobre a constituição química de qualquer produto ou mercadoria, poderá solicitar, por escrito, do chefe da estância aduaneira que o mesmo seja submetido a análise ou a simples ensaio, conforme os casos, no laboratório. Na sua exposição deverá o funcionário indicar a natureza genérica da mercadoria e quaisquer elementos constantes do manifesto, conhecimento ou factura que possam concorrer para identificar a mercadoria ou produto a analisar.
+Art. 545.º Quando o pessoal em serviço na verificação ou reverificação tenha dúvidas sobre a constituição química de qualquer produto ou mercadoria, poderá solicitar, por escrito, do chefe da estância aduaneira que o mesmo seja submetido a análise ou a simples ensaio, conforme os casos, no laboratório. Na sua exposição deverá o funcionário indicar a natureza genérica da mercadoria e quaisquer elementos constantes do manifesto, conhecimento ou factura que possam concorrer para identificar a mercadoria ou produto a analisar.
 
-###### Art. 546.º O chefe da estância aduaneira, reconhecendo os fundamentos das dúvidas apresentadas, mandará extrair amostras nas quantidades necessárias e fará a sua remessa nos termos do artigo 544.º deste estatuto.
+Art. 546.º O chefe da estância aduaneira, reconhecendo os fundamentos das dúvidas apresentadas, mandará extrair amostras nas quantidades necessárias e fará a sua remessa nos termos do artigo 544.º deste estatuto.
 
-###### Art. 547.º Serão gratuitos os ensaios e as análises que forem solicitados pelas estâncias aduaneiras, funcionários técnico-aduaneiros e agentes da fiscalização aduaneira, para efeitos de despacho aduaneiro ou de processo fiscal.
+Art. 547.º Serão gratuitos os ensaios e as análises que forem solicitados pelas estâncias aduaneiras, funcionários técnico-aduaneiros e agentes da fiscalização aduaneira, para efeitos de despacho aduaneiro ou de processo fiscal.
 
-###### Art. 548.º Os géneros e mercadorias para análise serão remetidos ao laboratório convenientemente embalados e selados, de harmonia com o que a este respeito tiver sido estabelecido, e acompanhados de nota discriminativa do seu conteúdo.
+Art. 548.º Os géneros e mercadorias para análise serão remetidos ao laboratório convenientemente embalados e selados, de harmonia com o que a este respeito tiver sido estabelecido, e acompanhados de nota discriminativa do seu conteúdo.
 
 § 1.º Para análise de aguardentes, álcoois, vinhos, vinagres, licores, óleos minerais e quaisquer produtos líquidos devem ser enviadas vasilhas contendo a quantidade do produto que for julgada necessária para poder ser realizada a respectiva análise.
 
@@ -4272,7 +4384,7 @@ l) Avisos e editais publicados pela Direcção Provincial dos Serviços das Alf�
 
 § 3.º As amostras respeitantes a processos de contencioso técnico ou fiscal aduaneiro que hajam transitado em julgado e não tenham de figurar nos museus de amostras referidos no artigo 18.º serão inutilizadas, lavrando-se deste acto o respectivo auto.
 
-###### Art. 549.º Para serviço de cada laboratório de ensaios deverão existir os seguintes livros e impressos:
+Art. 549.º Para serviço de cada laboratório de ensaios deverão existir os seguintes livros e impressos:
 
 a) Registo dos ensaios de análises, do qual constará a data da entrada da amostra e resultado da análise;
 
@@ -4286,15 +4398,15 @@ e) Boletins de análise e guias de receita.
 
 § único. As guias de receita serão dispostas em cadernetas e constarão de original, duplicado e triplicado.
 
-###### Art. 550.º No laboratório serão examinados e observados os instrumentos utilizados pelo pessoal aduaneiro no serviço de verificação e reverificação de géneros e mercadorias, tais como alcoómetros, termómetros, densímetros, ebuliómetros e outros, os quais serão fornecidos às estâncias aduaneiras depois de verificada a sua exactidão.
+Art. 550.º No laboratório serão examinados e observados os instrumentos utilizados pelo pessoal aduaneiro no serviço de verificação e reverificação de géneros e mercadorias, tais como alcoómetros, termómetros, densímetros, ebuliómetros e outros, os quais serão fornecidos às estâncias aduaneiras depois de verificada a sua exactidão.
 
-###### Art. 551.º Nos museus das alfândegas, as amostras, desenhos, modelos, fotografias e descrições das mercadorias neles arquivados serão dispostos em perfeita ordem, arrumando-se por ordem cronológica das respectivas pautas e, dentro de cada uma, por ordem sucessiva dos respectivos artigos pautais.
+Art. 551.º Nos museus das alfândegas, as amostras, desenhos, modelos, fotografias e descrições das mercadorias neles arquivados serão dispostos em perfeita ordem, arrumando-se por ordem cronológica das respectivas pautas e, dentro de cada uma, por ordem sucessiva dos respectivos artigos pautais.
 
 § 1.º Quando qualquer amostra não possa ter o arrumo prescrito no corpo deste artigo, dar-se-á o mais conveniente, ficando no lugar que lhe caberia a necessária indicação.
 
 § 2.º Nos museus instalados junto da Direcção Provincial dos Serviços das Alfândegas e das sedes das alfândegas poderão ainda existir, em instalações separadas, além das amostras designadas no corpo deste artigo, mostruários de mercadorias, géneros, minérios e artefactos de produção da província que convenha tornar conhecidos do pessoal técnico-aduaneiro.
 
-###### Art. 552.º Todas as amostras, desenhos, modelos, fotografias e descrições a que se refere o artigo anterior terão registo em livro próprio, donde conste:
+Art. 552.º Todas as amostras, desenhos, modelos, fotografias e descrições a que se refere o artigo anterior terão registo em livro próprio, donde conste:
 
 a) Designação da mercadoria a que dizem respeito;
 
@@ -4312,7 +4424,7 @@ e) Indicação do lugar de arrumação.
 
 ##### SUBSECÇÃO I — Disposições gerais
 
-###### Art. 553.º O expediente dos conselhos administrativos compreende, além do serviço relativo às resoluções tomadas pelo próprio conselho de harmonia com a legislação vigente, mais o seguinte:
+Art. 553.º O expediente dos conselhos administrativos compreende, além do serviço relativo às resoluções tomadas pelo próprio conselho de harmonia com a legislação vigente, mais o seguinte:
 
 a) O registo, classificação e arquivo da correspondência entrada e saída;
 
@@ -4330,69 +4442,69 @@ g) A escrituração da conta corrente relativa ao movimento do fundo permanente 
 
 § único. Dos contratos relativos à aquisição de impressos devem constar as características do respectivo papel que deve ser utilizado nos bilhetes de despacho, especialmente na parte respeitante a peso, resistência à dobragem e tracção.
 
-###### Art. 554.º Fica a cargo da secretaria do conselho administrativo da Direcção Provincial dos Serviços das Alfândegas a organização do inventário dos bens imóveis, móveis e semoventes distribuídos à mesma Direcção e, bem assim, a organização e prestação da respectiva cota de responsabilidade anual, segundo os preceitos legais existentes na província.
+Art. 554.º Fica a cargo da secretaria do conselho administrativo da Direcção Provincial dos Serviços das Alfândegas a organização do inventário dos bens imóveis, móveis e semoventes distribuídos à mesma Direcção e, bem assim, a organização e prestação da respectiva cota de responsabilidade anual, segundo os preceitos legais existentes na província.
 
-###### Art. 555.º Nas sedes das alfândegas onde existirem conselhos administrativos fica a cargo do vogal secretário a organização das contas de responsabilidade dos imóveis, móveis e semoventes existentes na sede da alfândega, nas condições do artigo anterior.
+Art. 555.º Nas sedes das alfândegas onde existirem conselhos administrativos fica a cargo do vogal secretário a organização das contas de responsabilidade dos imóveis, móveis e semoventes existentes na sede da alfândega, nas condições do artigo anterior.
 
 § único. Nas estâncias aduaneiras serão os próprios chefes os responsáveis pelos bens referidos neste artigo e pela organização da respectiva conta, que deverá ser conferida pelo conselho administrativo a que se refere o corpo deste artigo.
 
-###### Art. 556.º Na organização e actualização do inventário dos edifícios, mobiliário, utensílios, máquinas e outro material dependente dos conselhos administrativos observar-se-ão, além dos preceitos legais aplicáveis, as instruções para tal fim emanadas da Direcção Provincial dos Serviços das Alfândegas.
+Art. 556.º Na organização e actualização do inventário dos edifícios, mobiliário, utensílios, máquinas e outro material dependente dos conselhos administrativos observar-se-ão, além dos preceitos legais aplicáveis, as instruções para tal fim emanadas da Direcção Provincial dos Serviços das Alfândegas.
 
 § 1.º A organização e actualização do inventário de que trata o corpo deste artigo serão realizadas tomando por base as guias de remessa para as estâncias aduaneiras e os termos de inutilização ou de abates por elas remetidos às sedes das alfândegas, efectuando-se a conferência destes documentos com as cópias das contas de responsabilidade anualmente organizadas pelo próprio conselho administrativo e pelos chefes das aludidas estâncias aduaneiras, que, para esse efeito, lhes enviarão um duplicado das referidas contas.
 
 § 2.º Dos inventários existentes em cada conselho administrativo ou estância aduaneira será extraída anualmente uma cópia, que será remetida ao conselho administrativo da Direcção Provincial dos Serviços das Alfândegas para efeitos de conferência e ajustamento do inventário geral dos serviços das alfândegas da província.
 
-###### Art. 557.º Os simples trabalhos de conservação e reparação dos edifícios e material pertencentes às alfândegas, quando não puderem ser executados pelo pessoal dos serviços acessórios da respectiva alfândega, serão adjudicados à indústria particular, mediante a observância das competentes formalidades legais.
+Art. 557.º Os simples trabalhos de conservação e reparação dos edifícios e material pertencentes às alfândegas, quando não puderem ser executados pelo pessoal dos serviços acessórios da respectiva alfândega, serão adjudicados à indústria particular, mediante a observância das competentes formalidades legais.
 
-###### Art. 558.º Tanto na compra de edifícios para instalação dos serviços das alfândegas como na aquisição de material e de artigos de expediente, com excepção dos impressos em uso nas alfândegas, e bem assim na realização de despesas com a sua conservação e reparação, serão observados os preceitos estabelecidos no capítulo IV do título I do Livro II deste estatuto e mais legislação vigente.
+Art. 558.º Tanto na compra de edifícios para instalação dos serviços das alfândegas como na aquisição de material e de artigos de expediente, com excepção dos impressos em uso nas alfândegas, e bem assim na realização de despesas com a sua conservação e reparação, serão observados os preceitos estabelecidos no capítulo IV do título I do Livro II deste estatuto e mais legislação vigente.
 
-###### Art. 559.º Para pagamento das despesas a realizar com o transporte, guarda e conservação de mercadorias abandonadas, salvadas ou achadas no mar e das arrojadas, assim como com os funcionários incumbidos de as arrolar ou da realização de qualquer outra diligência fiscal urgente, poderá existir, a cargo do conselho administrativo da Direcção Provincial dos Serviços das Alfândegas, um fundo permanente, fixado pelo governador geral, o qual estará depositado no banco emissor e será movimentado por cheques assinados pelos membros do conselho administrativo.
+Art. 559.º Para pagamento das despesas a realizar com o transporte, guarda e conservação de mercadorias abandonadas, salvadas ou achadas no mar e das arrojadas, assim como com os funcionários incumbidos de as arrolar ou da realização de qualquer outra diligência fiscal urgente, poderá existir, a cargo do conselho administrativo da Direcção Provincial dos Serviços das Alfândegas, um fundo permanente, fixado pelo governador geral, o qual estará depositado no banco emissor e será movimentado por cheques assinados pelos membros do conselho administrativo.
 
-###### Art. 560.º O fundo permanente a que se refere o artigo anterior, quando autorizado, fica sujeito às disposições do [Decreto n.º 32853](https://diariodarepublica.pt/dr/detalhe/decreto/32853-1943-397136), de 16 de Junho de 1943, e será impreterìvelmente reposto até ao fim do período complementar de exercício.
+Art. 560.º O fundo permanente a que se refere o artigo anterior, quando autorizado, fica sujeito às disposições do [Decreto n.º 32853](https://diariodarepublica.pt/dr/detalhe/decreto/32853-1943-397136), de 16 de Junho de 1943, e será impreterìvelmente reposto até ao fim do período complementar de exercício.
 
-###### Art. 561.º O encarregado do cartório do contencioso aduaneiro remeterá mensalmente ao conselho administrativo uma nota de todos os processos administrativos liquidados, donde constem quaisquer verbas despendidas por conta do fundo permanente mencionado no artigo 559.º, com indicação das importâncias relativas a cada processo.
+Art. 561.º O encarregado do cartório do contencioso aduaneiro remeterá mensalmente ao conselho administrativo uma nota de todos os processos administrativos liquidados, donde constem quaisquer verbas despendidas por conta do fundo permanente mencionado no artigo 559.º, com indicação das importâncias relativas a cada processo.
 
-###### Art. 562.º O vogal secretário do conselho administrativo organizará, com base nos elementos constantes das notas de que trata o artigo anterior, uma relação das mencionadas verbas, a qual será remetida à Direcção Provincial dos Serviços de Fazenda e Contabilidade para efeitos de liquidação da respectiva conta e despesa, processamento do correspondente título e reconstituição do fundo permanente.
+Art. 562.º O vogal secretário do conselho administrativo organizará, com base nos elementos constantes das notas de que trata o artigo anterior, uma relação das mencionadas verbas, a qual será remetida à Direcção Provincial dos Serviços de Fazenda e Contabilidade para efeitos de liquidação da respectiva conta e despesa, processamento do correspondente título e reconstituição do fundo permanente.
 
 ##### SUBSECÇÃO II — Dos impressos em uso nas alfândegas
 
-###### Art. 563.º O conselho administrativo da Direcção Provincial dos Serviços das Alfândegas fornecerá à mesma direcção e a todas as estâncias aduaneiras da província, mediante requisição, os impressos necessários ao seu expediente e os destinados à venda ao público.
+Art. 563.º O conselho administrativo da Direcção Provincial dos Serviços das Alfândegas fornecerá à mesma direcção e a todas as estâncias aduaneiras da província, mediante requisição, os impressos necessários ao seu expediente e os destinados à venda ao público.
 
-###### Art. 564.º No expediente das alfândegas só poderão ser empregados os impressos dos modelos aprovados superiormente e fornecidos pelos conselhos administrativos, ficando proibido aos agentes aduaneiros o uso particular de quaisquer impressos que com aqueles se possam confundir.
+Art. 564.º No expediente das alfândegas só poderão ser empregados os impressos dos modelos aprovados superiormente e fornecidos pelos conselhos administrativos, ficando proibido aos agentes aduaneiros o uso particular de quaisquer impressos que com aqueles se possam confundir.
 
 § único. Não poderão ter seguimento os casos ou assuntos apresentados em impressos que não sejam dos modelos oficialmente aprovados, ficando responsáveis disciplinarmente os funcionários que tenham aceite ou dado andamento aos que não estejam naquelas condições.
 
-###### Art. 565.º Após a entrada em vigor deste estatuto, o governador fixará o prazo que entender conveniente, ouvida a Direcção Provincial dos Serviços das Alfândegas, dentro do qual será permitida a utilização dos impressos para despacho actualmente em uso, findo o qual não mais poderão ser utilizados impressos que não sejam dos modelos aprovados oficialmente.
+Art. 565.º Após a entrada em vigor deste estatuto, o governador fixará o prazo que entender conveniente, ouvida a Direcção Provincial dos Serviços das Alfândegas, dentro do qual será permitida a utilização dos impressos para despacho actualmente em uso, findo o qual não mais poderão ser utilizados impressos que não sejam dos modelos aprovados oficialmente.
 
-###### Art. 566.º Os preços de venda ao público dos impressos aduaneiros serão fixados pelo governador mediante proposta da Direcção Provincial dos Serviços das Alfândegas e constarão de uma tabela organizada pelo conselho administrativo daquela Direcção.
+Art. 566.º Os preços de venda ao público dos impressos aduaneiros serão fixados pelo governador mediante proposta da Direcção Provincial dos Serviços das Alfândegas e constarão de uma tabela organizada pelo conselho administrativo daquela Direcção.
 
 § único. Na fixação destes preços deverão ter-se em conta as disposições do artigo 22.º do [Decreto n.º 31883](https://diariodarepublica.pt/dr/detalhe/decreto/31883-1942-168646), de 12 de Fevereiro de 1942.
 
-###### Art. 567.º O fornecimento de impressos pelo conselho administrativo da Direcção Provincial dos Serviços das Alfândegas às sedes das circunscrições aduaneiras, e por estas às estâncias aduaneiras delas dependentes, constará de guia de remessa, onde serão mencionadas detalhadamente a qualidade e quantidade de cada um dos impressos fornecidos, e, tratando-se de impressos para a venda ao público, os respectivos preços e o valor da remessa.
+Art. 567.º O fornecimento de impressos pelo conselho administrativo da Direcção Provincial dos Serviços das Alfândegas às sedes das circunscrições aduaneiras, e por estas às estâncias aduaneiras delas dependentes, constará de guia de remessa, onde serão mencionadas detalhadamente a qualidade e quantidade de cada um dos impressos fornecidos, e, tratando-se de impressos para a venda ao público, os respectivos preços e o valor da remessa.
 
 § único. As guias de remessa de que trata o corpo deste artigo constarão de original, duplicado e triplicado e serão dispostas em cadernetas especiais, com numeração própria, bem como as respectivas folhas; o original e duplicado acompanharão a remessa, ficando o original em poder da estância aduaneira que a tiver recebido; o duplicado será devolvido com o respectivo recibo e o triplicado ficará na caderneta para servir de registo do respectivo depósito.
 
-###### Art. 568.º Nos conselhos administrativos serão organizadas contas correntes para cada uma das estâncias aduaneiras que lhes estejam subordinadas, lançando a débito dessa conta o valor dos fornecimentos efectuados e a crédito as importâncias constantes dos mapas a que se refere o artigo 573.º deste estatuto.
+Art. 568.º Nos conselhos administrativos serão organizadas contas correntes para cada uma das estâncias aduaneiras que lhes estejam subordinadas, lançando a débito dessa conta o valor dos fornecimentos efectuados e a crédito as importâncias constantes dos mapas a que se refere o artigo 573.º deste estatuto.
 
-###### Art. 569.º Para a venda de impressos ao público deverão existir, em regra, nas sedes das alfândegas de intenso movimento de despachos, depósitos especiais de venda, que estarão dependentes do respectivo conselho administrativo.
+Art. 569.º Para a venda de impressos ao público deverão existir, em regra, nas sedes das alfândegas de intenso movimento de despachos, depósitos especiais de venda, que estarão dependentes do respectivo conselho administrativo.
 
 § único. O depósito e venda de impressos nas sedes das circunscrições aduaneiras de pequeno movimento de serviço ficarão a cargo do tesoureiro da alfândega; nas outras estâncias aduaneiras tais funções ficarão a cargo dos respectivos chefes quando não houver nelas um encarregado de cobrança.
 
-###### Art. 570.º A venda de impressos ao público será feita por simples solicitação verbal dos interessados e contra pagamento das importâncias relativas àqueles impressos, de que será passada guia de entrega na tesouraria pelo encarregado do depósito, no fim de cada dia, semana ou mês, conforme estiver determinado em relação ao movimento de venda do respectivo depósito de impressos.
+Art. 570.º A venda de impressos ao público será feita por simples solicitação verbal dos interessados e contra pagamento das importâncias relativas àqueles impressos, de que será passada guia de entrega na tesouraria pelo encarregado do depósito, no fim de cada dia, semana ou mês, conforme estiver determinado em relação ao movimento de venda do respectivo depósito de impressos.
 
-###### Art. 571.º As guias de entrega mencionadas no artigo anterior constarão de original, duplicado e triplicado e serão dispostas em cadernetas especiais, com numeração própria, bem como as respectivas folhas; o original constituirá documento de receita, o duplicado ficará junto aos mapas a que se refere o artigo 573.º e o triplicado ficará na própria caderneta, para servir de registo.
+Art. 571.º As guias de entrega mencionadas no artigo anterior constarão de original, duplicado e triplicado e serão dispostas em cadernetas especiais, com numeração própria, bem como as respectivas folhas; o original constituirá documento de receita, o duplicado ficará junto aos mapas a que se refere o artigo 573.º e o triplicado ficará na própria caderneta, para servir de registo.
 
-###### Art. 572.º O produto da venda de impressos constitui receita da Fazenda Nacional e será escriturado sob a respectiva rubrica orçamental.
+Art. 572.º O produto da venda de impressos constitui receita da Fazenda Nacional e será escriturado sob a respectiva rubrica orçamental.
 
-###### Art. 573.º As estâncias aduaneiras, incluindo as sedes das alfândegas, elaborarão mensalmente um mapa do modelo aprovado superiormente, no qual se mencionarão as quantidades dos impressos vendidos de cada modelo, as respectivas importâncias e todos os demais elementos necessários à sua conferência. Os mapas assim elaborados serão enviados à respectiva sede, juntando-se a um deles, como documento comprovativo dos respectivos lançamentos, os duplicados das guias de entrega na tesouraria com os respectivos números de receita que serão também averbados no triplicado.
+Art. 573.º As estâncias aduaneiras, incluindo as sedes das alfândegas, elaborarão mensalmente um mapa do modelo aprovado superiormente, no qual se mencionarão as quantidades dos impressos vendidos de cada modelo, as respectivas importâncias e todos os demais elementos necessários à sua conferência. Os mapas assim elaborados serão enviados à respectiva sede, juntando-se a um deles, como documento comprovativo dos respectivos lançamentos, os duplicados das guias de entrega na tesouraria com os respectivos números de receita que serão também averbados no triplicado.
 
-###### Art. 574.º As sedes das alfândegas onde existam conselhos administrativos elaborarão também em cada mês um outro mapa, além do mencionado no artigo anterior, em que se indicará, em resumo, o movimento geral da venda de impressos de toda a circunscrição.
+Art. 574.º As sedes das alfândegas onde existam conselhos administrativos elaborarão também em cada mês um outro mapa, além do mencionado no artigo anterior, em que se indicará, em resumo, o movimento geral da venda de impressos de toda a circunscrição.
 
-###### Art. 575.º Tanto os mapas mencionados no artigo anterior como aqueles de que trata o artigo 573.º serão enviados ao conselho administrativo da Direcção Provincial dos Serviços das Alfândegas, juntamente com as cópias das guias de venda. Os mapas referidos neste artigo servirão, depois de conferidos, de documento bastante para a escrituração dos créditos das respectivas contas correntes.
+Art. 575.º Tanto os mapas mencionados no artigo anterior como aqueles de que trata o artigo 573.º serão enviados ao conselho administrativo da Direcção Provincial dos Serviços das Alfândegas, juntamente com as cópias das guias de venda. Os mapas referidos neste artigo servirão, depois de conferidos, de documento bastante para a escrituração dos créditos das respectivas contas correntes.
 
-###### Art. 576.º Nos depósitos de impressos deverão existir, além dos livros necessários ao seu expediente privativo, todos os que forem necessários à escrituração do movimento de entrada e saída de impressos, o qual ficará a cargo do funcionário encarregado desses depósitos.
+Art. 576.º Nos depósitos de impressos deverão existir, além dos livros necessários ao seu expediente privativo, todos os que forem necessários à escrituração do movimento de entrada e saída de impressos, o qual ficará a cargo do funcionário encarregado desses depósitos.
 
-###### Art. 577.º Os impressos que, por acção do tempo, ou por qualquer outra circunstância, ou ainda por serem de modelo antiquado, forem reconhecidos como impróprios para venda, e que não possam ter qualquer outra utilização, serão devolvidos aos conselhos administrativos, que procederão à sua inutilização, da qual será lavrado o competente auto, se não for possível ou conveniente a sua venda em hasta pública.
+Art. 577.º Os impressos que, por acção do tempo, ou por qualquer outra circunstância, ou ainda por serem de modelo antiquado, forem reconhecidos como impróprios para venda, e que não possam ter qualquer outra utilização, serão devolvidos aos conselhos administrativos, que procederão à sua inutilização, da qual será lavrado o competente auto, se não for possível ou conveniente a sua venda em hasta pública.
 
 § 1.º Quando os impressos mencionados no corpo deste artigo possam ter qualquer outra utilização será feita a necessária proposta ao conselho administrativo da Direcção Provincial dos Serviços das Alfândegas, para sobre ela resolver o que houver por conveniente, carecendo a resolução que tiver sido aprovada, assim como a referida no corpo do artigo, da homologação do governador.
 
@@ -4400,15 +4512,15 @@ g) A escrituração da conta corrente relativa ao movimento do fundo permanente 
 
 ##### SUBSECÇÃO III — Dos depósitos de material, de impressos e de artigos de expediente utilizados nas alfândegas
 
-###### Art. 578.º Dependentes do conselho administrativo da Direcção Provincial dos Serviços das Alfândegas e sob a directa superintendência do vogal secretário funcionarão depósitos centrais de material aduaneiro, de impressos e de artigos de expediente, os quais se destinam a abastecer os depósitos dos conselhos administrativos das sedes das alfândegas e as estâncias aduaneiras de todos os artigos que devam ser adquiridos em conjunto. Estes depósitos estarão a cargo de fiéis para esse fim escolhidos entre os fiéis de armazem ou entre o pessoal do quadro do tráfego.
+Art. 578.º Dependentes do conselho administrativo da Direcção Provincial dos Serviços das Alfândegas e sob a directa superintendência do vogal secretário funcionarão depósitos centrais de material aduaneiro, de impressos e de artigos de expediente, os quais se destinam a abastecer os depósitos dos conselhos administrativos das sedes das alfândegas e as estâncias aduaneiras de todos os artigos que devam ser adquiridos em conjunto. Estes depósitos estarão a cargo de fiéis para esse fim escolhidos entre os fiéis de armazem ou entre o pessoal do quadro do tráfego.
 
-###### Art. 579.º Haverá, em regra, um fiel para o serviço dos depósitos de material e outro para o de impressos e artigos de expediente aduaneiro.
+Art. 579.º Haverá, em regra, um fiel para o serviço dos depósitos de material e outro para o de impressos e artigos de expediente aduaneiro.
 
 § 1.º Quando o movimento intensivo de venda de impressos o justifique, poderá ser nomeado um ajudante do fiel do depósito de impressos para ficar encarregado exclusivamente da venda ao público dos aludidos impressos.
 
 § 2.º Nas estâncias aduaneiras das fronteiras terrestres e marítimas os auxiliares de verificação que nelas estiverem prestando serviço desempenharão, além das funções mencionadas nos artigos 358.º e 359.º deste estatuto, as de encarregado do material aduaneiro nelas existente e todas as outras compatíveis com os seus conhecimentos e aptidões e que lhes venham a ser cometidas pelos respectivos chefes.
 
-###### Art. 580.º O conselho administrativo da Direcção Provincial dos Serviços das Alfândegas deverá efectuar em conjunto, além de outras que julgue convenientes, as aquisições seguintes:
+Art. 580.º O conselho administrativo da Direcção Provincial dos Serviços das Alfândegas deverá efectuar em conjunto, além de outras que julgue convenientes, as aquisições seguintes:
 
 a) Impressos de venda ao público;
 
@@ -4416,9 +4528,9 @@ b) Impressos de uso interno;
 
 c) Artigos de expediente corrente que não estejam sujeitos a quebras, inutilizações ou derrames.
 
-###### Art. 581.º A aquisição de impressos para o expediente privativo das alfândegas e para a venda ao público regular-se-á pelos preceitos estabelecidos no artigo 36.º deste estatuto e pela legislação vigente na província.
+Art. 581.º A aquisição de impressos para o expediente privativo das alfândegas e para a venda ao público regular-se-á pelos preceitos estabelecidos no artigo 36.º deste estatuto e pela legislação vigente na província.
 
-###### Art. 582.º Nos depósitos dependentes dos conselhos administrativos existirão os seguintes livros de escrituração:
+Art. 582.º Nos depósitos dependentes dos conselhos administrativos existirão os seguintes livros de escrituração:
 
 a) Livro do movimento de impressos de venda ao público;
 
@@ -4436,163 +4548,163 @@ g) Guias de entrega de receita;
 
 h) Livros auxiliares necessários ao movimento dos depósitos.
 
-###### Art. 583.º Os lançamentos nos livros mencionados no artigo anterior serão efectuados com base nos triplicados das facturas dos artigos de expediente e impressos adquiridos e nos duplicados das guias de expedição, nos quais será passado recibo pelas repartições da Direcção Provincial dos Serviços ou pelas sedes das alfândegas e estâncias aduaneiras, conforme os casos, relativamente aos impressos, artigos de expediente e material por elas recebidos.
+Art. 583.º Os lançamentos nos livros mencionados no artigo anterior serão efectuados com base nos triplicados das facturas dos artigos de expediente e impressos adquiridos e nos duplicados das guias de expedição, nos quais será passado recibo pelas repartições da Direcção Provincial dos Serviços ou pelas sedes das alfândegas e estâncias aduaneiras, conforme os casos, relativamente aos impressos, artigos de expediente e material por elas recebidos.
 
 § único. As requisições das repartições da Direcção Provincial dos Serviços das Alfândegas serão assinadas pelo chefe da 1.ª Secção da 2.ª Repartição e visadas pelo director provincial dos mesmos serviços.
 
-###### Art. 584.º Nas estâncias aduaneiras em que não existam depósitos especiais de impressos e artigos de expediente serão igualmente escriturados os livros referidos no artigo 582.º
+Art. 584.º Nas estâncias aduaneiras em que não existam depósitos especiais de impressos e artigos de expediente serão igualmente escriturados os livros referidos no artigo 582.º
 
-###### Art. 585.º Do livro do movimento de impressos de venda ao público constarão os preços por que os mesmos deverão ser vendidos, ficando responsável pelo valor do saldo nele acusado o encarregado do respectivo depósito.
+Art. 585.º Do livro do movimento de impressos de venda ao público constarão os preços por que os mesmos deverão ser vendidos, ficando responsável pelo valor do saldo nele acusado o encarregado do respectivo depósito.
 
-###### Art. 586.º As vendas realizadas a pronto pagamento serão registadas diàriamente num livro denominado «Registo de vendas», discriminando-se, em relação a cada modelo de impressos, as vendas efectuadas.
+Art. 586.º As vendas realizadas a pronto pagamento serão registadas diàriamente num livro denominado «Registo de vendas», discriminando-se, em relação a cada modelo de impressos, as vendas efectuadas.
 
 § único. Para facilitar a escrituração do «Registo de vendas» poderão os fiéis de depósito de venda e os tesoureiros ou encarregados de cobrança socorrer-se de livros ou cadernos auxiliares.
 
-###### Art. 587.º A entrega das importâncias provenientes da venda de impressos será efectuada diária ou semanalmente, conforme o movimento, na tesouraria da respectiva alfândega ou da estância aduaneira, em guias de modelo especial, e a sua escrituração terá por base os elementos constantes do registo de vendas.
+Art. 587.º A entrega das importâncias provenientes da venda de impressos será efectuada diária ou semanalmente, conforme o movimento, na tesouraria da respectiva alfândega ou da estância aduaneira, em guias de modelo especial, e a sua escrituração terá por base os elementos constantes do registo de vendas.
 
-###### Art. 588.º As guias de entrega de receita mencionadas no artigo anterior constarão de original, duplicado e triplicado e serão dispostas em cadernetas com cópias a papel químico, devendo o original servir de documento de receita; o duplicado será enviado ao respectivo conselho administrativo e o triplicado, onde também será averbado o número de receita, ficará na caderneta a servir de registo.
+Art. 588.º As guias de entrega de receita mencionadas no artigo anterior constarão de original, duplicado e triplicado e serão dispostas em cadernetas com cópias a papel químico, devendo o original servir de documento de receita; o duplicado será enviado ao respectivo conselho administrativo e o triplicado, onde também será averbado o número de receita, ficará na caderneta a servir de registo.
 
-###### Art. 589.º Os livros e as cadernetas incluídos no grupo de impressos de venda ao público sairão do grupo devidamente numerados, por folhas ou grupos de folhas, conforme os casos.
+Art. 589.º Os livros e as cadernetas incluídos no grupo de impressos de venda ao público sairão do grupo devidamente numerados, por folhas ou grupos de folhas, conforme os casos.
 
-###### Art. 590.º Será remetido mensalmente ao conselho administrativo da Direcção Provincial dos Serviços das Alfândegas, pelos conselhos administrativos das sedes das alfândegas e pelas estâncias aduaneiras directamente dependentes daquele conselho, um balancete dos impressos e artigos de expediente existentes nos respectivos depósitos. De igual modo procederão as diferentes estâncias aduaneiras para com o conselho administrativo da sede da alfândega de que dependam.
+Art. 590.º Será remetido mensalmente ao conselho administrativo da Direcção Provincial dos Serviços das Alfândegas, pelos conselhos administrativos das sedes das alfândegas e pelas estâncias aduaneiras directamente dependentes daquele conselho, um balancete dos impressos e artigos de expediente existentes nos respectivos depósitos. De igual modo procederão as diferentes estâncias aduaneiras para com o conselho administrativo da sede da alfândega de que dependam.
 
-###### Art. 591.º Os encarregados dos depósitos centrais formularão, em face das existências acusadas pelos balancetes mensais recebidos dos depósitos das sedes das alfândegas e das estâncias aduaneiras e dos saldos neles existentes, as suas requisições ao secretário do conselho administrativo, tendo em atenção o disposto no n.º 8.º do artigo 35.º deste estatuto.
+Art. 591.º Os encarregados dos depósitos centrais formularão, em face das existências acusadas pelos balancetes mensais recebidos dos depósitos das sedes das alfândegas e das estâncias aduaneiras e dos saldos neles existentes, as suas requisições ao secretário do conselho administrativo, tendo em atenção o disposto no n.º 8.º do artigo 35.º deste estatuto.
 
-###### Art. 592.º As armas e munições de que careçam as embarcações, com ou sem motor, ao serviço da fiscalização aduaneira para defesa dos interesses do Estado ficam a cargo da alfândega da área a que pertençam.
+Art. 592.º As armas e munições de que careçam as embarcações, com ou sem motor, ao serviço da fiscalização aduaneira para defesa dos interesses do Estado ficam a cargo da alfândega da área a que pertençam.
 
-###### Art. 593.º A expedição de material, de impressos e de artigos de expediente para os depósitos das sedes das alfândegas e para as estâncias aduaneiras será realizada por meio de guias em triplicado, devendo o original ficar em poder da entidade destinatária, que devolverá o duplicado, devidamente assinado, com as anotações convenientes acerca das faltas encontradas, quando as houver, e o triplicado ficará na caderneta, para servir de registo do respectivo depósito.
+Art. 593.º A expedição de material, de impressos e de artigos de expediente para os depósitos das sedes das alfândegas e para as estâncias aduaneiras será realizada por meio de guias em triplicado, devendo o original ficar em poder da entidade destinatária, que devolverá o duplicado, devidamente assinado, com as anotações convenientes acerca das faltas encontradas, quando as houver, e o triplicado ficará na caderneta, para servir de registo do respectivo depósito.
 
-###### Art. 594.º Além do balanço geral aos depósitos de materiais, de impressos e de artigos de expediente, dependentes dos conselhos administrativos de que trata o artigo 39.º deste estatuto, será dado um balanço ordinário, no primeira dia útil de cada trimestre, pelo respectivo secretário, e todos os balanços extraordinários que forem ordenados pelo presidente.
+Art. 594.º Além do balanço geral aos depósitos de materiais, de impressos e de artigos de expediente, dependentes dos conselhos administrativos de que trata o artigo 39.º deste estatuto, será dado um balanço ordinário, no primeira dia útil de cada trimestre, pelo respectivo secretário, e todos os balanços extraordinários que forem ordenados pelo presidente.
 
 § 1.º Os balanços extraordinários serão presididos pelo chefe da 2.ª Repartição da Direcção Provincial dos Serviços das Alfândegas e a eles assistirá também o secretário, como superintendente directo nos depósitos de que trata o corpo deste artigo.
 
 § 2.º A disposição do corpo deste artigo é extensiva aos depósitos dependentes dos conselhos administrativos das sedes das alfândegas, sendo os balanços extraordinários presididos pelo chefe da secção de contabilidade.
 
-###### Art. 595.º Os termos de balanço ordinário ou extraordinário efectuados nos depósitos gerais de impressos e de artigos de expediente e nos de materiais diversos serão lavrados em livros especiais, devendo haver um em cada espécie de depósitos.
+Art. 595.º Os termos de balanço ordinário ou extraordinário efectuados nos depósitos gerais de impressos e de artigos de expediente e nos de materiais diversos serão lavrados em livros especiais, devendo haver um em cada espécie de depósitos.
 
-###### Art. 596.º As faltas verificadas nos balanços aos depósitos de material, de impressos, e de artigos de expediente, quaisquer que sejam as suas causas ou origens, são da inteira responsabilidade dos fiéis ou encarregados dos mesmos depósitos, os quais indemnizarão a Fazenda Nacional pelas importâncias correspondentes às faltas verificadas, independentemente de procedimento disciplinar, quando for caso disso.
+Art. 596.º As faltas verificadas nos balanços aos depósitos de material, de impressos, e de artigos de expediente, quaisquer que sejam as suas causas ou origens, são da inteira responsabilidade dos fiéis ou encarregados dos mesmos depósitos, os quais indemnizarão a Fazenda Nacional pelas importâncias correspondentes às faltas verificadas, independentemente de procedimento disciplinar, quando for caso disso.
 
 § único. Igual procedimento deverá ser adoptado para com os mesmos funcionários quando se reconhecer que a deterioração de material, de impressos e de artigos de expediente se deve a incúria ou desleixo da sua parte.
 
-###### Art. 597.º Todas as publicações realizadas pela Direcção Provincial dos Serviços das Alfândegas serão pagas por verba para esse fim inscrita no orçamento da província, podendo os funcionários do quadro técnico aduaneiro receber gratuitamente um exemplar de cada uma delas, mediante autorização do governador.
+Art. 597.º Todas as publicações realizadas pela Direcção Provincial dos Serviços das Alfândegas serão pagas por verba para esse fim inscrita no orçamento da província, podendo os funcionários do quadro técnico aduaneiro receber gratuitamente um exemplar de cada uma delas, mediante autorização do governador.
 
-###### Art. 598.º A cobrança das importâncias provenientes da venda de publicações ao público está sujeita aos preceitos estabelecidos neste estatuto para a venda de impressos.
+Art. 598.º A cobrança das importâncias provenientes da venda de publicações ao público está sujeita aos preceitos estabelecidos neste estatuto para a venda de impressos.
 
 #### SECÇÃO III — Do arquivo geral
 
-###### Art. 599.º No arquivo geral da Direcção Provincial dos Serviços das Alfândegas serão guardados, conservados, arrumados e devidamente registados todos os livros, processos e documentos do expediente da mesma Direcção para ali remetidos pelas diferentes repartições.
+Art. 599.º No arquivo geral da Direcção Provincial dos Serviços das Alfândegas serão guardados, conservados, arrumados e devidamente registados todos os livros, processos e documentos do expediente da mesma Direcção para ali remetidos pelas diferentes repartições.
 
 § único. Os processos e documentos avulsos serão guardados em caixas, maços ou pastas especiais e, em regra, conforme a sua natureza.
 
-###### Art. 600.º Os serviços do arquivo estarão a cargo de um funcionário dos quadros técnico ou auxiliar aduaneiros em serviço na 2.ª Repartição, o qual será responsável pela sua guarda, conservação, arrumação e limpeza.
+Art. 600.º Os serviços do arquivo estarão a cargo de um funcionário dos quadros técnico ou auxiliar aduaneiros em serviço na 2.ª Repartição, o qual será responsável pela sua guarda, conservação, arrumação e limpeza.
 
-###### Art. 601.º Os livros, processos ou documentas serão remetidos ao arquivo acompanhados de guia em duplicado, do modelo aprovado superiormente, cumprindo ao funcionário encarregado do mesmo devolver à repartição ou secção remetente um exemplar dessa relação, com recibo por ele assinado e devidamente autenticado.
+Art. 601.º Os livros, processos ou documentas serão remetidos ao arquivo acompanhados de guia em duplicado, do modelo aprovado superiormente, cumprindo ao funcionário encarregado do mesmo devolver à repartição ou secção remetente um exemplar dessa relação, com recibo por ele assinado e devidamente autenticado.
 
 § 1.º As guias de que trata o corpo deste artigo serão dispostas em cadernetas com cópias a papel químico e terão um triplicado, que ficará na caderneta a servir de registo.
 
 § 2.º As guias serão coleccionadas em livro de carcela ou pastas próprias ou ainda coladas no cepo da caderneta no caso dos duplicados devolvidos à repartição ou secção remetente.
 
-###### Art. 602.º Todas as remessas serão ordenadas e discriminadas nas guias, segundo as denominações que os documentos, livros ou processos tiverem, não devendo, em regra, cada guia mencionar mais de uma espécie.
+Art. 602.º Todas as remessas serão ordenadas e discriminadas nas guias, segundo as denominações que os documentos, livros ou processos tiverem, não devendo, em regra, cada guia mencionar mais de uma espécie.
 
-###### Art. 603.º Todas as guias na sua entrada no arquivo serão, depois de conferidas, registadas em livro próprio, recebendo o número de ordem que lhes fica cabendo, e nele se especificará a natureza dos livros, processos ou documentos recebidos, a data da recepção, a entidade remetente, a rubrica da respectiva ficha e o compartimento, estante, prateleira, maço ou pasta onde ficam arrumados.
+Art. 603.º Todas as guias na sua entrada no arquivo serão, depois de conferidas, registadas em livro próprio, recebendo o número de ordem que lhes fica cabendo, e nele se especificará a natureza dos livros, processos ou documentos recebidos, a data da recepção, a entidade remetente, a rubrica da respectiva ficha e o compartimento, estante, prateleira, maço ou pasta onde ficam arrumados.
 
-###### Art. 604.º Nos duplicados das guias, ao ser lançado o recibo passado pelo encarregado do arquivo, será também anotado o número de ordem tomado no livro de entrada.
+Art. 604.º Nos duplicados das guias, ao ser lançado o recibo passado pelo encarregado do arquivo, será também anotado o número de ordem tomado no livro de entrada.
 
-###### Art. 605.º De todos os livros, processos e documentos registados nos termos dos artigos anteriores serão organizadas fichas com rubricas sobre a natureza dos mencionados documentos, dispostos por ordem alfabética, a fim de facilitar a sua pesquisa.
+Art. 605.º De todos os livros, processos e documentos registados nos termos dos artigos anteriores serão organizadas fichas com rubricas sobre a natureza dos mencionados documentos, dispostos por ordem alfabética, a fim de facilitar a sua pesquisa.
 
-###### Art. 606.º Os documentos de contabilidade e outros que, pelo seu número, não possam ser coleccionados nem relacionados sem disjunção dos elementos de conferência de quaisquer mapas ou folhas que os acompanhem darão entrada no arquivo em maços ou pacotes, devendo, porém, constar a sua discriminação no rosto desses maços ou pacotes.
+Art. 606.º Os documentos de contabilidade e outros que, pelo seu número, não possam ser coleccionados nem relacionados sem disjunção dos elementos de conferência de quaisquer mapas ou folhas que os acompanhem darão entrada no arquivo em maços ou pacotes, devendo, porém, constar a sua discriminação no rosto desses maços ou pacotes.
 
-###### Art. 607.º Depois de recebidos no arquivo, nenhum livro, processo ou documento poderá dele ser retirado sem prévia requisição assinada e autorizada, nos termos do artigo 609.º deste estatuto.
+Art. 607.º Depois de recebidos no arquivo, nenhum livro, processo ou documento poderá dele ser retirado sem prévia requisição assinada e autorizada, nos termos do artigo 609.º deste estatuto.
 
-###### Art. 608.º Em cada repartição deverão existir cadernetas de requisições, constituídas por original, duplicado e triplicado, do modelo aprovado superiormente para, por via delas, serem requisitados ao arquivo os livros e documentos necessários a qualquer exame ou consulta nas repartições ou secções. Tanto do original como do duplicado ou do triplicado da requisição deverão constar os motivos que lhe deram origem.
+Art. 608.º Em cada repartição deverão existir cadernetas de requisições, constituídas por original, duplicado e triplicado, do modelo aprovado superiormente para, por via delas, serem requisitados ao arquivo os livros e documentos necessários a qualquer exame ou consulta nas repartições ou secções. Tanto do original como do duplicado ou do triplicado da requisição deverão constar os motivos que lhe deram origem.
 
-###### Art. 609.º As requisições de quaisquer documentos ao arquivo deverão vir devidamente assinadas pelo funcionário competente e visadas pelo chefe da respectiva secção depois de este reconhecer terem fundamento os motivos que originaram a requisição.
+Art. 609.º As requisições de quaisquer documentos ao arquivo deverão vir devidamente assinadas pelo funcionário competente e visadas pelo chefe da respectiva secção depois de este reconhecer terem fundamento os motivos que originaram a requisição.
 
 § 1.º Quando as requisições disserem respeito a documentos que tenham de instruir algum processo de carácter fiscal, disciplinar e de inquérito ou sindicância, assim o deverão mencionar, não podendo, neste caso, ser satisfeitas sem autorização do chefe da repartição.
 
 § 2.º Quando se não torne necessário realizar, para fins processuais, qualquer exame aos documentos de que trata o parágrafo anterior, poderão os mesmos ser substituídos por cópias passadas na 2.ª Secção da 2.ª Repartição da Direcção Provincial dos Serviços das Alfândegas, as quais serão conferidas e autenticadas pelo chefe da secção.
 
-###### Art. 610.º As requisições mencionadas no artigo anterior serão registadas no arquivo em livro próprio e restituídas no acto de devolução dos documentos a que disserem respeito.
+Art. 610.º As requisições mencionadas no artigo anterior serão registadas no arquivo em livro próprio e restituídas no acto de devolução dos documentos a que disserem respeito.
 
-###### Art. 611.º Na ocasião da devolução da requisição deverá fazer-se no livro de que trata o artigo anterior a anotação da data em que foi realizada essa devolução.
+Art. 611.º Na ocasião da devolução da requisição deverá fazer-se no livro de que trata o artigo anterior a anotação da data em que foi realizada essa devolução.
 
-###### Art. 612.º No lugar ocupado pelo livro, processo ou documento requisitado, enquanto não se fizer a devolução, colocar-se-á nota ou ficha indicativa do número da requisição e do serviço ou funcionário requisitante.
+Art. 612.º No lugar ocupado pelo livro, processo ou documento requisitado, enquanto não se fizer a devolução, colocar-se-á nota ou ficha indicativa do número da requisição e do serviço ou funcionário requisitante.
 
-###### Art. 613.º Quando se considere demorada a devolução, será o facto comunicado ao chefe da 2.ª Repartição pelo encarregado do arquivo, a fim de serem tomadas as providências que forem julgadas convenientes.
+Art. 613.º Quando se considere demorada a devolução, será o facto comunicado ao chefe da 2.ª Repartição pelo encarregado do arquivo, a fim de serem tomadas as providências que forem julgadas convenientes.
 
-###### Art. 614.º Os documentos requisitados ao arquivo não poderão permanecer na posse do funcionário requisitante por período superior ao estritamente necessário para o seu exame ou consulta.
+Art. 614.º Os documentos requisitados ao arquivo não poderão permanecer na posse do funcionário requisitante por período superior ao estritamente necessário para o seu exame ou consulta.
 
-###### Art. 615.º A deterioração ou extravio dos documentos requisitados ao arquivo é da exclusiva responsabilidade do funcionário requisitante, durante o período em que esses documentos permanecerem na sua posse.
+Art. 615.º A deterioração ou extravio dos documentos requisitados ao arquivo é da exclusiva responsabilidade do funcionário requisitante, durante o período em que esses documentos permanecerem na sua posse.
 
-###### Art. 616.º O funcionário encarregado do arquivo, ao receber de novo os documentos que lhe tenham sido requisitados, deverá verificar o estudo desses documentos, quando se trate de livros ou processos, e certificar-se de que deles não foi separada ou retirada qualquer folha ou peça.
+Art. 616.º O funcionário encarregado do arquivo, ao receber de novo os documentos que lhe tenham sido requisitados, deverá verificar o estudo desses documentos, quando se trate de livros ou processos, e certificar-se de que deles não foi separada ou retirada qualquer folha ou peça.
 
 § único. A devolução do duplicado da requisição ao funcionário requisitante iliba este da responsabilidade a que se refere o artigo anterior.
 
-###### Art. 617.º O funcionário encarregado do arquivo participará superiormente qualquer inobservância das disposições contidas nos artigos anteriores.
+Art. 617.º O funcionário encarregado do arquivo participará superiormente qualquer inobservância das disposições contidas nos artigos anteriores.
 
-###### Art. 618.º A arrumação dos livros e outros documentos existentes nos arquivos será feita pela natureza dos assuntos e por períodos anuais, por forma a facilitar a realização de qualquer busca ou inspecção.
+Art. 618.º A arrumação dos livros e outros documentos existentes nos arquivos será feita pela natureza dos assuntos e por períodos anuais, por forma a facilitar a realização de qualquer busca ou inspecção.
 
-###### Art. 619.º Os livros, processos e documentos guardados no arquivo serão nele conservados durante o prazo estabelecido pela legislação em vigor na província.
+Art. 619.º Os livros, processos e documentos guardados no arquivo serão nele conservados durante o prazo estabelecido pela legislação em vigor na província.
 
 § único. Exceptuam-se do disposto no corpo deste artigo os livros de registo do pessoal e processos a eles relativos e quaisquer outros livros, processos e documentos que, pela sua natureza, devam ser guardados para além do prazo referido.
 
-###### Art. 620.º Findo o prazo do arquivo, os livros, processos e documentos que não sejam de reconhecido valor histórico para serem enviados ao arquivo histórico da província, se o houver, ou ao Arquivo Histórico Ultramarino, ou que não haja necessidade de manter arquivados por mais tempo, serão vendidos em hasta pública ou inutilizados, segundo as circunstâncias aconselharem.
+Art. 620.º Findo o prazo do arquivo, os livros, processos e documentos que não sejam de reconhecido valor histórico para serem enviados ao arquivo histórico da província, se o houver, ou ao Arquivo Histórico Ultramarino, ou que não haja necessidade de manter arquivados por mais tempo, serão vendidos em hasta pública ou inutilizados, segundo as circunstâncias aconselharem.
 
 § 1.º A venda ou inutilização referidas no corpo deste artigo só se farão depois de autorização concedida pelo governador, ouvida a Direcção Provincial dos Serviços das Alfândegas.
 
 § 2.º No caso de venda, o produto desta dará entrada em receita, por meio de guia, na respectiva estância aduaneira, sob a rubrica mencionada no artigo 572.º deste estatuto. No caso de inutilização, lavrar-se-á o competente auto.
 
-###### Art. 621.º Serão arquivados em processo próprio na 2.ª Secção da 2.ª Repartição uma das cópias da guia e o auto referidos no § 2.º do artigo anterior.
+Art. 621.º Serão arquivados em processo próprio na 2.ª Secção da 2.ª Repartição uma das cópias da guia e o auto referidos no § 2.º do artigo anterior.
 
-###### Art. 622.º É expressamente proibida a entrada no arquivo sem autorização do chefe da repartição a qualquer pessoa estranha ao serviço do mesmo, devendo as consultas de pessoas nessas condições ser efectuadas, depois de autorizadas, na presença do respectivo encarregado ou de empregado por ele designado.
+Art. 622.º É expressamente proibida a entrada no arquivo sem autorização do chefe da repartição a qualquer pessoa estranha ao serviço do mesmo, devendo as consultas de pessoas nessas condições ser efectuadas, depois de autorizadas, na presença do respectivo encarregado ou de empregado por ele designado.
 
-###### Art. 623.º Nenhum funcionário poderá transportar ou fazer transportar para fora das repartições, secções ou estâncias aduaneiras ou do arquivo qualquer livro, processo ou documento pertencente aos respectivos serviços sem licença do respectivo director ou chefe, salvo nos casos de bilhetes de despacho ou outros documentos relativos a serviços externos por ele realizados.
+Art. 623.º Nenhum funcionário poderá transportar ou fazer transportar para fora das repartições, secções ou estâncias aduaneiras ou do arquivo qualquer livro, processo ou documento pertencente aos respectivos serviços sem licença do respectivo director ou chefe, salvo nos casos de bilhetes de despacho ou outros documentos relativos a serviços externos por ele realizados.
 
-###### Art. 624.º Observar-se-ão, na parte aplicável, além das disposições deste estatuto, o preceituado na secção VIII do capítulo VIII do Estatuto do Funcionalismo Ultramarino.
+Art. 624.º Observar-se-ão, na parte aplicável, além das disposições deste estatuto, o preceituado na secção VIII do capítulo VIII do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 625.º As disposições dos capítulos II e III do título VI são extensivas, na parte aplicável, às Repartições Provinciais dos Serviços das Alfândegas e às sedes das circunscrições e outras estâncias aduaneiras.
+Art. 625.º As disposições dos capítulos II e III do título VI são extensivas, na parte aplicável, às Repartições Provinciais dos Serviços das Alfândegas e às sedes das circunscrições e outras estâncias aduaneiras.
 
 ### CAPÍTULO IV — Do contencioso técnico-aduaneiro
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 626.º Os litígios técnico-aduaneiros são resolvidos em conformidade com os preceitos constantes da parte II do Contencioso Aduaneiro do Ultramar, aprovado pelo [Decreto n.º 33531](https://diariodarepublica.pt/dr/detalhe/decreto/33531-1944-272441), de 21 de Fevereiro de 1944, com os deste estatuto e demais legislação aplicável.
+Art. 626.º Os litígios técnico-aduaneiros são resolvidos em conformidade com os preceitos constantes da parte II do Contencioso Aduaneiro do Ultramar, aprovado pelo [Decreto n.º 33531](https://diariodarepublica.pt/dr/detalhe/decreto/33531-1944-272441), de 21 de Fevereiro de 1944, com os deste estatuto e demais legislação aplicável.
 
-###### Art. 627.º As decisões dos Conselhos do Serviço Técnico-Aduaneiro proferidas sobre litígios técnico-aduaneiros são averbadas nos respectivos processos pelo secretário do Conselho, de conformidade com as notas tomadas no respectivo livro de lembranças.
+Art. 627.º As decisões dos Conselhos do Serviço Técnico-Aduaneiro proferidas sobre litígios técnico-aduaneiros são averbadas nos respectivos processos pelo secretário do Conselho, de conformidade com as notas tomadas no respectivo livro de lembranças.
 
-###### Art. 628.º Das decisões de que trata o artigo 627.º têm os donos das mercadorias ou seus representantes o direito de recurso para o Conselho Superior Técnico-Aduaneiro, assim como o presidente do Conselho do Serviço Técnico-Aduaneiro quando reconheça que a decisão é contrária aos interesses da Fazenda Nacional.
+Art. 628.º Das decisões de que trata o artigo 627.º têm os donos das mercadorias ou seus representantes o direito de recurso para o Conselho Superior Técnico-Aduaneiro, assim como o presidente do Conselho do Serviço Técnico-Aduaneiro quando reconheça que a decisão é contrária aos interesses da Fazenda Nacional.
 
 § único. Os recursos devem ser interpostos dentro dos prazos prescritos no artigo seguinte.
 
-###### Art. 629.º Quando os donos das mercadorias queiram usar do direito de recurso referido no artigo anterior, deverão entregar na sede da alfândega, ou na estância aduaneira onde lhes foi notificada a resolução do Conselho do Serviço Técnico-Aduaneiro, no prazo de 15 dias, contado da data da notificação, ou ainda na secretaria do Conselho Superior Técnico-Aduaneiro, no prazo de 30 dias, contados da mesma data, a sua petição ou minuta de recurso, acompanhada dos documentos justificativos que entenderem dever juntar, os quais serão imediatamente remetidos ao presidente daquele Conselho, quer directamente, quando se trate das sedes das alfândegas, quer por intermédio destas, no caso das delegações ou dos postos de despacho.
+Art. 629.º Quando os donos das mercadorias queiram usar do direito de recurso referido no artigo anterior, deverão entregar na sede da alfândega, ou na estância aduaneira onde lhes foi notificada a resolução do Conselho do Serviço Técnico-Aduaneiro, no prazo de 15 dias, contado da data da notificação, ou ainda na secretaria do Conselho Superior Técnico-Aduaneiro, no prazo de 30 dias, contados da mesma data, a sua petição ou minuta de recurso, acompanhada dos documentos justificativos que entenderem dever juntar, os quais serão imediatamente remetidos ao presidente daquele Conselho, quer directamente, quando se trate das sedes das alfândegas, quer por intermédio destas, no caso das delegações ou dos postos de despacho.
 
 § único. As petições de recurso entregues na secretaria do Conselho Superior Técnico-Aduaneiro serão, depois de registadas, presentes ao vice presidente deste Conselho, que as fará remeter, no prazo de dez dias, ao Governo da respectiva província, a fim de serem juntas aos competentes processos e seguirem os trâmites prescritos no título III da parte II do Contencioso Aduaneiro do Ultramar, na parte aplicável.
 
-###### Art. 630.º O presidente do Conselho do Serviço Técnico-Aduaneiro promoverá a remessa ao Ministério do Ultramar (Conselho Superior Técnico-Aduaneiro) por intermédio do governo da província, dos respectivos processos, no prazo máximo de quinze dias, contados da data da entrega das petições ou minutas de recurso, os quais serão acompanhados, além dos documentos referidos no artigo anterior, de um exemplar das amostras, desenhos, fotografias, modelos ou memórias descritivas.
+Art. 630.º O presidente do Conselho do Serviço Técnico-Aduaneiro promoverá a remessa ao Ministério do Ultramar (Conselho Superior Técnico-Aduaneiro) por intermédio do governo da província, dos respectivos processos, no prazo máximo de quinze dias, contados da data da entrega das petições ou minutas de recurso, os quais serão acompanhados, além dos documentos referidos no artigo anterior, de um exemplar das amostras, desenhos, fotografias, modelos ou memórias descritivas.
 
-###### Art. 631.º Se os interessados tiverem grande urgência na resolução dos recursos de que tratam os artigos anteriores, poderá a remessa dos processos de contencioso técnico e das respectivas amostras para o Conselho Superior Técnico-Aduaneiro ser feita por via aérea, desde que os interessados assim o requeiram e paguem o respectivo porte aéreo.
+Art. 631.º Se os interessados tiverem grande urgência na resolução dos recursos de que tratam os artigos anteriores, poderá a remessa dos processos de contencioso técnico e das respectivas amostras para o Conselho Superior Técnico-Aduaneiro ser feita por via aérea, desde que os interessados assim o requeiram e paguem o respectivo porte aéreo.
 
 § único. A disposição deste artigo é ainda aplicável aos casos de omissão ou de consulta prévia e a todos aqueles de que trata o n.º 4.º da alínea b) do artigo 52.º deste estatuto.
 
-###### Art. 632.º As despesas com o transporte de amostras ou modelos, qualquer que seja o meio de transporte utilizado, serão sempre pagas pelos importadores ou exportadores quando decaírem nos processos em que sejam recorrentes ou em que hajam produzido alegações.
+Art. 632.º As despesas com o transporte de amostras ou modelos, qualquer que seja o meio de transporte utilizado, serão sempre pagas pelos importadores ou exportadores quando decaírem nos processos em que sejam recorrentes ou em que hajam produzido alegações.
 
-###### Art. 633.º As decisões dos Conselhos do Serviço Técnico-Aduaneiro de que não haja sido interposto recurso dentro do prazo legal terão força de sentença, sendo desde logo executórias em relação aos casos sujeitos. Aplicar-se-á a doutrina das decisões do Conselho do Serviço Técnico-Aduaneiro a todos os casos idênticos que vierem a ocorrer na respectiva província.
+Art. 633.º As decisões dos Conselhos do Serviço Técnico-Aduaneiro de que não haja sido interposto recurso dentro do prazo legal terão força de sentença, sendo desde logo executórias em relação aos casos sujeitos. Aplicar-se-á a doutrina das decisões do Conselho do Serviço Técnico-Aduaneiro a todos os casos idênticos que vierem a ocorrer na respectiva província.
 
 § único. A doutrina dos acórdãos do Conselho Superior Técnico-Aduaneiro será obrigatòriamente aplicada aos casos idênticos em todas as províncias, até que, por acórdão posterior daquele Conselho Superior ou por disposição legal, seja modificada.
 
-###### Art. 634.º A secretaria do Conselho do Serviço Técnico-Aduaneiro promoverá a remessa ao Conselho Superior Técnico-Aduaneiro do Ministério do Ultramar, dentro do prazo de quinze dias, contados da data da notificação do respectivo acórdão, dos processos de que não haja sido interposto recurso, para efeito de apreciação e resolução por parte daquele Conselho Superior.
+Art. 634.º A secretaria do Conselho do Serviço Técnico-Aduaneiro promoverá a remessa ao Conselho Superior Técnico-Aduaneiro do Ministério do Ultramar, dentro do prazo de quinze dias, contados da data da notificação do respectivo acórdão, dos processos de que não haja sido interposto recurso, para efeito de apreciação e resolução por parte daquele Conselho Superior.
 
 Com os processos serão também remetidas as amostras das mercadorias que foram objecto de tais processos, ou os desenhos, fotografias ou memórias descritivas das mesmas.
 
-###### Art. 635.º Nenhuma restituição de direitos ou exigência do seu pagamento terá lugar quando as resoluções respeitantes aos processos de que trata o artigo anterior sejam alteradas pelo Conselho Superior Técnico-Aduaneiro, se os direitos das respectivas mercadorias se encontrarem já liquidados, embora dessas alterações de classificação pudessem resultar diferenças para menos ou para mais se houvesse de proceder-se a nova liquidação, salvo nos casos em que houver sido interposto recurso pelo presidente do Conselho do Serviço Técnico-Aduaneiro, em que será paga ou restituída a diferença dos direitos e outras imposições resultantes de alteração de regime ou de classificação pautais.
+Art. 635.º Nenhuma restituição de direitos ou exigência do seu pagamento terá lugar quando as resoluções respeitantes aos processos de que trata o artigo anterior sejam alteradas pelo Conselho Superior Técnico-Aduaneiro, se os direitos das respectivas mercadorias se encontrarem já liquidados, embora dessas alterações de classificação pudessem resultar diferenças para menos ou para mais se houvesse de proceder-se a nova liquidação, salvo nos casos em que houver sido interposto recurso pelo presidente do Conselho do Serviço Técnico-Aduaneiro, em que será paga ou restituída a diferença dos direitos e outras imposições resultantes de alteração de regime ou de classificação pautais.
 
-###### Art. 636.º É facultado aos interessados, por si ou seu bastante procurador, poderem defender verbalmente ou por escrito a matéria contestada perante as duas instâncias técnicas, para o que serão devidamente notificados, se do processo constar a respectiva residência, tanto na capital da província como em Lisboa.
+Art. 636.º É facultado aos interessados, por si ou seu bastante procurador, poderem defender verbalmente ou por escrito a matéria contestada perante as duas instâncias técnicas, para o que serão devidamente notificados, se do processo constar a respectiva residência, tanto na capital da província como em Lisboa.
 
-###### Art. 637.º As custas a cobrar nos processos resolvidos pelos Conselhos do Serviço Técnico-Aduaneiro das províncias ultramarinas, quando forem devidas, constarão de tabelas publicadas por meio de portaria, conforme proposta dos directores ou chefes provinciais dos Serviços das Alfândegas.
+Art. 637.º As custas a cobrar nos processos resolvidos pelos Conselhos do Serviço Técnico-Aduaneiro das províncias ultramarinas, quando forem devidas, constarão de tabelas publicadas por meio de portaria, conforme proposta dos directores ou chefes provinciais dos Serviços das Alfândegas.
 
-###### Art. 638.º A organização dos processos de contencioso técnico terá início na secretaria dos serviços do despacho, de harmonia com os preceitos estabelecidos neste estatuto, servindo neles de escrivão o encarregado do museu de amostras.
+Art. 638.º A organização dos processos de contencioso técnico terá início na secretaria dos serviços do despacho, de harmonia com os preceitos estabelecidos neste estatuto, servindo neles de escrivão o encarregado do museu de amostras.
 
-###### Art. 639.º Em regra, em cada uma das sedes das Alfândegas de Luanda e do Lobito, na província de Angola, e de Lourenço Marques e da Beira, na província de Moçambique, haverá um conselho de reverificadores, que será constituído pelo chefe do serviço do despacho, que servirá de presidente, ou pelo seu substituto legal no caso previsto no artigo 644.º, e pelos funcionários que desempenharem as funções de reverificação, ao qual competirá dar parecer sobre os processos de que trata o n.º 1.º da alínea a) do artigo 52.º e sobre os assuntos referidos nos n.os 1.º a 4.º da alínea b) do mesmo artigo. Nas sedes das alfândegas onde existam mais de dois verificadores funcionará um conselho de verificadores, presidido pelo chefe do serviço do despacho.
+Art. 639.º Em regra, em cada uma das sedes das Alfândegas de Luanda e do Lobito, na província de Angola, e de Lourenço Marques e da Beira, na província de Moçambique, haverá um conselho de reverificadores, que será constituído pelo chefe do serviço do despacho, que servirá de presidente, ou pelo seu substituto legal no caso previsto no artigo 644.º, e pelos funcionários que desempenharem as funções de reverificação, ao qual competirá dar parecer sobre os processos de que trata o n.º 1.º da alínea a) do artigo 52.º e sobre os assuntos referidos nos n.os 1.º a 4.º da alínea b) do mesmo artigo. Nas sedes das alfândegas onde existam mais de dois verificadores funcionará um conselho de verificadores, presidido pelo chefe do serviço do despacho.
 
 § 1.º Nas restantes sedes de alfândegas onde não reúnam conselhos de reverificadores ou de verificadores serão os processos sobre litígios técnico-aduaneiros instruídos apenas com os pareceres do verificador, do reverificador e do chefe do serviço do despacho, quando este não fizer parte do Conselho do Serviço Técnico-Aduaneiro.
 
@@ -4600,69 +4712,69 @@ Com os processos serão também remetidas as amostras das mercadorias que foram 
 
 #### SECÇÃO II — Das contestações, divergências ou omissões suscitadas nos despachos de mercadorias
 
-###### Art. 640.º Os processos de contestação, com excepção dós de valores, suscitados entre os donos das mercadorias ou seus agentes e os funcionários das alfândegas, ou os de divergência entre aqueles funcionários, acerca da classificação das mercadorias, taras, aplicação de taxas pautais, de tráfego e de armazenagem, assim como quaisquer outras taxas ou impostos que incidam sobre as mercadorias entradas ou saídas de uma jurisdição aduaneira e, em geral, sobre outros quaisquer actos inerentes à verificação e tributação das mesmas mercadorias, bem como os processos que se referem a mercadorias consideradas omissas nas pautas, serão resolvidos conforme os preceitos estabelecidos nos artigos seguintes.
+Art. 640.º Os processos de contestação, com excepção dós de valores, suscitados entre os donos das mercadorias ou seus agentes e os funcionários das alfândegas, ou os de divergência entre aqueles funcionários, acerca da classificação das mercadorias, taras, aplicação de taxas pautais, de tráfego e de armazenagem, assim como quaisquer outras taxas ou impostos que incidam sobre as mercadorias entradas ou saídas de uma jurisdição aduaneira e, em geral, sobre outros quaisquer actos inerentes à verificação e tributação das mesmas mercadorias, bem como os processos que se referem a mercadorias consideradas omissas nas pautas, serão resolvidos conforme os preceitos estabelecidos nos artigos seguintes.
 
 § único. Do disposto no corpo deste artigo exceptuam-se os casos respeitantes à contagem de prazos para aplicação de disposições legais, que serão resolvidos por via administrativa.
 
-###### Art. 641.º Quando se levantem as contestações sobre os casos de que trata o artigo anterior entre os donos das mercadoriais ou seus agentes e os funcionários aduaneiros devem aqueles apresentar, no caso de terem mantido a declaração para despacho constante do respectivo bilhete, ao chefe do serviço do despacho nas sedes das alfândegas, ou aos chefes das estâncias aduaneiras, no prazo de quinze dias úteis, a contar da data em que lhes foi dado conhecimento da participação dos funcionários aduaneiros que impugnaram a declaração, as suas alegações devidamente fundamentadas. Nestes casos, têm os funcionários aduaneiros de formular, também por escrito, no mesmo prazo, o seu parecer fundamentado.
+Art. 641.º Quando se levantem as contestações sobre os casos de que trata o artigo anterior entre os donos das mercadoriais ou seus agentes e os funcionários aduaneiros devem aqueles apresentar, no caso de terem mantido a declaração para despacho constante do respectivo bilhete, ao chefe do serviço do despacho nas sedes das alfândegas, ou aos chefes das estâncias aduaneiras, no prazo de quinze dias úteis, a contar da data em que lhes foi dado conhecimento da participação dos funcionários aduaneiros que impugnaram a declaração, as suas alegações devidamente fundamentadas. Nestes casos, têm os funcionários aduaneiros de formular, também por escrito, no mesmo prazo, o seu parecer fundamentado.
 
 § único. Quando se trate de divergências entre funcionários, o prazo para apresentarem os seus pareceres será de cinco dias, contados a partir da data em que seja ordenada ao verificador e ao reverificador a sua apresentação.
 
-###### Art. 642.º Por cada processo de contestação, divergência ou omissão instaurados nas alfândegas das diversas províncias ultramarinas serão extraídas, sempre que seja possível, tantas amostras quantas as alfândegas existentes e mais duas, sendo uma destinada ao museu de amostras da Direcção ou Repartição Provincial e a outra ao do Conselho Superior Técnico-Aduaneiro.
+Art. 642.º Por cada processo de contestação, divergência ou omissão instaurados nas alfândegas das diversas províncias ultramarinas serão extraídas, sempre que seja possível, tantas amostras quantas as alfândegas existentes e mais duas, sendo uma destinada ao museu de amostras da Direcção ou Repartição Provincial e a outra ao do Conselho Superior Técnico-Aduaneiro.
 
 § único. Quando a nomenclatura das pautas das diversas províncias ultramarinas for uniforme, serão extraídas amostras destinadas aos museus das Direcções ou Repartições dos Serviços das Alfândegas de outras províncias.
 
-###### Art. 643.º Os requerimentos, acompanhados dos pareceres do conselho de reverificadores ou de verificadores, conforme os casos, e dos do verificador e reverificadador intervenientes no despacho, das cópias das fórmulas do despacho, das amostras das mercadorias, devidamente autenticadas, e de quaisquer outros elementos necessários para a instrução e resolução do processo serão remetidos, dentro dos dez dias seguintes, ao presidente do Conselho do Serviço Técnico-Aduaneiro.
+Art. 643.º Os requerimentos, acompanhados dos pareceres do conselho de reverificadores ou de verificadores, conforme os casos, e dos do verificador e reverificadador intervenientes no despacho, das cópias das fórmulas do despacho, das amostras das mercadorias, devidamente autenticadas, e de quaisquer outros elementos necessários para a instrução e resolução do processo serão remetidos, dentro dos dez dias seguintes, ao presidente do Conselho do Serviço Técnico-Aduaneiro.
 
 § único. Os documentos e outros elementos referidos no corpo do artigo respeitantes a litígios técnico-aduaneiros suscitados nas diversas estâncias aduaneiras serão enviados por estas ao chefe do serviço do despacho da respectiva alfândega, para os efeitos prescritos no artigo 639.º, sendo o respectivo processo remetido, depois de organizado, ao presidente do Conselho do Serviço Técnico-Aduaneiro.
 
-###### Art. 644.º Quando o director da alfândega desempenhar cumulativamente o cargo de chefe da Repartição Provincial dos Serviços das Alfândegas, passarão as atribuições que lhe estão conferidas nos artigos anteriores a ser exercídas pelo subdirector da respectiva alfândega.
+Art. 644.º Quando o director da alfândega desempenhar cumulativamente o cargo de chefe da Repartição Provincial dos Serviços das Alfândegas, passarão as atribuições que lhe estão conferidas nos artigos anteriores a ser exercídas pelo subdirector da respectiva alfândega.
 
-###### Art. 645.º Nos casos de contestação ou omissão relativos a mercadorias vindas como encomenda postal será a mercadoria entregue à estação dos correios, para ser reexpedida dentro do prazo legal, caso não seja requerida pelo interessado a sua transferência para a sede da alfândega, pagas prèviamente as taxas postais devidas. Havendo divergência, quando os recebedores não solicitarem a transferência para a sede da alfândega das mercadorias transportadas por via postal no prazo de quinze dias úteis, a contar da data em que lhes for notificada essa divergência, o despacho seguirá seus trâmites, liquidando-se os direitos pela taxa mais elevada.
+Art. 645.º Nos casos de contestação ou omissão relativos a mercadorias vindas como encomenda postal será a mercadoria entregue à estação dos correios, para ser reexpedida dentro do prazo legal, caso não seja requerida pelo interessado a sua transferência para a sede da alfândega, pagas prèviamente as taxas postais devidas. Havendo divergência, quando os recebedores não solicitarem a transferência para a sede da alfândega das mercadorias transportadas por via postal no prazo de quinze dias úteis, a contar da data em que lhes for notificada essa divergência, o despacho seguirá seus trâmites, liquidando-se os direitos pela taxa mais elevada.
 
-###### Art. 646.º Quando não seja possível enviar amostras, ou os exemplares dos artefactos sejam em número inferior ao fixado no artigo 642.º, podem estas suprir-se por desenhos, modelos, fotografias ou por descrição minuciosa da natureza, forma e aplicação do objecto que originou o processo, não podendo neste caso as mercadorias ser retiradas das estâncias aduaneiras sem que os desenhos, modelos, descrições ou fotografias sejam, pelo director ou chefe provincial dos Serviços das Alfândegas, declarados suficientes para ulterior julgamento do processo. Quando tenha sido necessária a análise química dos produtos em contestação ou divergência, devem os processos ser instruídos com o resultado que constar do respectivo boletim de análise.
+Art. 646.º Quando não seja possível enviar amostras, ou os exemplares dos artefactos sejam em número inferior ao fixado no artigo 642.º, podem estas suprir-se por desenhos, modelos, fotografias ou por descrição minuciosa da natureza, forma e aplicação do objecto que originou o processo, não podendo neste caso as mercadorias ser retiradas das estâncias aduaneiras sem que os desenhos, modelos, descrições ou fotografias sejam, pelo director ou chefe provincial dos Serviços das Alfândegas, declarados suficientes para ulterior julgamento do processo. Quando tenha sido necessária a análise química dos produtos em contestação ou divergência, devem os processos ser instruídos com o resultado que constar do respectivo boletim de análise.
 
-###### Art. 647.º Se o interessado quiser retirar das estâncias aduaneiras, antes de haver resolução superior, os objectos ou mercadorias sobre que versar a contestação ou divergência, ou ainda aqueles que estejam aguardando o resultado da análise, poderá fazê-lo, caucionando a importância correspondente aos direitos mais elevados.
+Art. 647.º Se o interessado quiser retirar das estâncias aduaneiras, antes de haver resolução superior, os objectos ou mercadorias sobre que versar a contestação ou divergência, ou ainda aqueles que estejam aguardando o resultado da análise, poderá fazê-lo, caucionando a importância correspondente aos direitos mais elevados.
 
 § único. Sem embargo do que fica disposto no corpo deste artigo, as mercadorias a respeito das quais se tenha instaurado processo de contencioso técnico ou fiscal poderão conservar-se em depósito nas alfândegas até resolução final, devendo ser retiradas dentro do prazo de quinze dias, a contar da data em que tiver sido notificada à parte essa resolução.
 
-###### Art. 648.º Se houver contestação e esta for resolvida a favor do contestante, não se cobram as despesas do processo. No caso de haver sòmente divergência entre os empregados, a remessa das amostras é feita por conta da Fazenda Nacional, e não há despesas a cobrar.
+Art. 648.º Se houver contestação e esta for resolvida a favor do contestante, não se cobram as despesas do processo. No caso de haver sòmente divergência entre os empregados, a remessa das amostras é feita por conta da Fazenda Nacional, e não há despesas a cobrar.
 
-###### Art. 649.º Quando for apresentada a despacho nas estâncias aduaneiras qualquer mercadoria e o dono ou os funcionários que intervierem na verificação e na reverificação entendam que não está compreendida em alguns dos artigos da pauta, proceder-se-á conforme está preceituado para as contestações e divergências, formando-se um processo de omissão.
+Art. 649.º Quando for apresentada a despacho nas estâncias aduaneiras qualquer mercadoria e o dono ou os funcionários que intervierem na verificação e na reverificação entendam que não está compreendida em alguns dos artigos da pauta, proceder-se-á conforme está preceituado para as contestações e divergências, formando-se um processo de omissão.
 
-###### Art. 650.º As mercadorias que sejam consideradas omissas na pauta, de conformidade com o preceituado no artigo anterior, podem ser retiradas das estâncias aduaneiras pelos interessados, mediante depósito ou fiança dos direitos que lhes sejam arbitrados pelo director da alfândega, o qual dará do caso imediato conhecimento ao director ou ao chefe provincial dos Serviços das Alfândegas, que, por sua vez, confirmará ou mandará reforçar o depósito ou a fiança depois de emitido o parecer a que se refere o n.º 1.º da alínea b) do artigo 52.º deste estatuto.
+Art. 650.º As mercadorias que sejam consideradas omissas na pauta, de conformidade com o preceituado no artigo anterior, podem ser retiradas das estâncias aduaneiras pelos interessados, mediante depósito ou fiança dos direitos que lhes sejam arbitrados pelo director da alfândega, o qual dará do caso imediato conhecimento ao director ou ao chefe provincial dos Serviços das Alfândegas, que, por sua vez, confirmará ou mandará reforçar o depósito ou a fiança depois de emitido o parecer a que se refere o n.º 1.º da alínea b) do artigo 52.º deste estatuto.
 
 § 1.º A liquidação dos direitos devidos pelas mercadorias omissas será efectuada de harmonia com as taxas que tiverem sido fixadas pelo Ministro do Ultramar, sob proposta do Conselho Superior Técnico-Aduaneiro.
 
 § 2.º Ao Conselho Superior referido no parágrafo anterior será enviado, com o respectivo processo de omissão, organizado nos termos dos artigos anteriores e com o parecer do governador sobre os direitos propostos, um exemplar das amostras, modelos, desenhos, fotografias ou das memórias descritivas das mercadorias de que trata o corpo deste artigo.
 
-###### Art. 651.º As direcções das alfândegas têm a faculdade de não admitir, quando assim o entendam, quaisquer divergências em questões pròpriamente de facto, ou quando o assunto já tenha sido superiormente resolvido e haja parecer unânime do conselho de reverificadores ou de verificadores, não votando os funcionários que intervieram no despacho.
+Art. 651.º As direcções das alfândegas têm a faculdade de não admitir, quando assim o entendam, quaisquer divergências em questões pròpriamente de facto, ou quando o assunto já tenha sido superiormente resolvido e haja parecer unânime do conselho de reverificadores ou de verificadores, não votando os funcionários que intervieram no despacho.
 
 § único. A faculdade de que trata o corpo deste artigo é extensiva aos presidentes dos Conselhos do Serviço Técnico-Aduaneiro nas divergências levantadas pelos vogais dos mesmos, sobre casos já por eles resolvidos.
 
-###### Art. 652.º Quando se levantem divergências que não tenham seguimento, por ter o importador preferido pagar o maior direito, dar-se-á do caso conhecimento à Direcção ou à Repartição Provincial dos Serviços das Alfândegas, enviando-se, sempre que seja possível, uma amostra, modelo, desenho, fotografia ou descrição minuciosa da mercadoria, acompanhados dos pareceres dos funcionários que intervieram no despacho e do conselho de verificadores ou de reverificadores, conforme os casos, competindo ao Conselho do Serviço Técnico-Aduaneiro dar parecer sobre estes casos, o qual será remetido à Inspecção Superior das Alfândegas, para sua apreciação e resolução superior.
+Art. 652.º Quando se levantem divergências que não tenham seguimento, por ter o importador preferido pagar o maior direito, dar-se-á do caso conhecimento à Direcção ou à Repartição Provincial dos Serviços das Alfândegas, enviando-se, sempre que seja possível, uma amostra, modelo, desenho, fotografia ou descrição minuciosa da mercadoria, acompanhados dos pareceres dos funcionários que intervieram no despacho e do conselho de verificadores ou de reverificadores, conforme os casos, competindo ao Conselho do Serviço Técnico-Aduaneiro dar parecer sobre estes casos, o qual será remetido à Inspecção Superior das Alfândegas, para sua apreciação e resolução superior.
 
 #### SECÇÃO III — Das contestações de valor
 
-###### Art. 653.º As contestações de valor levantadas pelos funcionários aduaneiros nos despachos de mercadorias serão resolvidas conforme os preceitos estabelecidos nos artigos seguintes.
+Art. 653.º As contestações de valor levantadas pelos funcionários aduaneiros nos despachos de mercadorias serão resolvidas conforme os preceitos estabelecidos nos artigos seguintes.
 
-###### Art. 654.º Os interessados, ao tomarem conhecimento dos valores arbitrados pelos funcionários aduaneiros, quando estes tenham impugnado os que se encontravam declarados no despacho, declararão se se conformam ou não com esses valores arbitrados, seguindo o despacho, no caso afirmativo, os seus trâmites ordinários e procedendo-se, no caso contrário, ao julgamento pelos tribunais de arbitramento de valores referidos na secção II do capítulo II do título II do livro II deste estatuto.
+Art. 654.º Os interessados, ao tomarem conhecimento dos valores arbitrados pelos funcionários aduaneiros, quando estes tenham impugnado os que se encontravam declarados no despacho, declararão se se conformam ou não com esses valores arbitrados, seguindo o despacho, no caso afirmativo, os seus trâmites ordinários e procedendo-se, no caso contrário, ao julgamento pelos tribunais de arbitramento de valores referidos na secção II do capítulo II do título II do livro II deste estatuto.
 
 § único. Quando os interessados se conformem com os valores arbitrados, instaurar-se-á o competente processo fiscal, se for caso disso, a fim de ser definida a sua responsabilidade, procedendo-se da mesma forma quando pelo tribunal de que trata este artigo ou pelo Conselho do Serviço Técnico-Aduaneiro for fixado valor que exceda o declarado pelas partes, sem prejuízo das disposições do artigo 891.º deste estatuto.
 
-###### Art. 655.º As decisões dos tribunais de arbitramento de valores serão intimadas aos declarantes e contestantes, que delas poderão recorrer, no prazo de quine dias úteis, para o Conselho do Serviço Técnico-Aduaneiro da província, que funcionará como tribunal de última instância, salvo nos casos prescritos no artigo seguinte. Para usar deste recurso terão os donos das mercadorias de depositar prèviamente a quantia suficiente para garantir o pagamento dos direitos devidos, multas prováveis, custas e selos, a que fica obrigado se não obtiver provimento.
+Art. 655.º As decisões dos tribunais de arbitramento de valores serão intimadas aos declarantes e contestantes, que delas poderão recorrer, no prazo de quine dias úteis, para o Conselho do Serviço Técnico-Aduaneiro da província, que funcionará como tribunal de última instância, salvo nos casos prescritos no artigo seguinte. Para usar deste recurso terão os donos das mercadorias de depositar prèviamente a quantia suficiente para garantir o pagamento dos direitos devidos, multas prováveis, custas e selos, a que fica obrigado se não obtiver provimento.
 
 § único. Cabe recurso obrigatório do presidente do tribunal do arbitramento de valores para o Conselho do Serviço Técnico-Aduaneiro da província quando das decisões proferidas resulte uma diferença entre os valores arbitrados pelos funcionários e os fixados pelo tribunal a que correspondam direitos superiores a 1000$00 contra a Fazenda Nacional, se o funcionário contestante não tiver interposto recurso da resolução daquele tribunal.
 
-###### Art. 656.º Das decisões do Conselho do Serviço Técnico-Aduaneiro sobre contestações de valor pode haver recurso para o Conselho Superior Técnico-Aduaneiro por parte dos declarantes e contestantes, nos casos em que da diferença entre os valores arbitrados pelo Conselho de Serviço Técnico-Aduaneiro da província e os declarados pela parte nos bilhetes de despacho resulte cobrança de direitos e doutras imposições em quantias superiores a 10000$00.
+Art. 656.º Das decisões do Conselho do Serviço Técnico-Aduaneiro sobre contestações de valor pode haver recurso para o Conselho Superior Técnico-Aduaneiro por parte dos declarantes e contestantes, nos casos em que da diferença entre os valores arbitrados pelo Conselho de Serviço Técnico-Aduaneiro da província e os declarados pela parte nos bilhetes de despacho resulte cobrança de direitos e doutras imposições em quantias superiores a 10000$00.
 
 #### SECÇÃO IV — Das consultas prévias sobre classificação pautal de mercadorias
 
-###### Art. 657.º Quando se suscitem dúvidas, por parte dos interessados, sobre a classificação pautal a aplicar a qualquer mercadoria que se pretenda importar ou exportar e ainda não submetida a despacho, deverão apresentar, nas sedes das alfândegas, requerimento em que fundamentem os motivos das suas dúvidas, acompanhando o requerimento de tantas amostras, desenhos ou fotografias da mesma mercadoria quantas as circunscrições aduaneiras existentes na província, e mais duas, devidamente acondicionadas e com rótulos assinados pelos requerentes.
+Art. 657.º Quando se suscitem dúvidas, por parte dos interessados, sobre a classificação pautal a aplicar a qualquer mercadoria que se pretenda importar ou exportar e ainda não submetida a despacho, deverão apresentar, nas sedes das alfândegas, requerimento em que fundamentem os motivos das suas dúvidas, acompanhando o requerimento de tantas amostras, desenhos ou fotografias da mesma mercadoria quantas as circunscrições aduaneiras existentes na província, e mais duas, devidamente acondicionadas e com rótulos assinados pelos requerentes.
 
 § único. No aludido requerimento deverá designar-se a denominação comercial ou industrial da mercadoria, as matérias-primas que entram na sua composição, as suas aplicações, valor, procedência e local do fabrico ou origem.
 
-###### Art. 658.º Os directores das alfândegas, logo que recebam os requerimentos de que trata o artigo anterior, reconhecendo que são fundamentados os motivos das dúvidas alegadas, mandarão dar parecer sobre os mesmos requerimentos ao conselho de verificadores ou de reverificadores, que para tal fim reunirá em conferência, sob a presidência do chefe do serviço do despacho, servindo de secretário, sem voto, o encarregado do museu de amostras.
+Art. 658.º Os directores das alfândegas, logo que recebam os requerimentos de que trata o artigo anterior, reconhecendo que são fundamentados os motivos das dúvidas alegadas, mandarão dar parecer sobre os mesmos requerimentos ao conselho de verificadores ou de reverificadores, que para tal fim reunirá em conferência, sob a presidência do chefe do serviço do despacho, servindo de secretário, sem voto, o encarregado do museu de amostras.
 
 § 1.º O parecer do conselho de verificadores ou de reverificadores será apresentado no prazo máximo de dez dias úteis, salvo nos casos em que se torne indispensável proceder à análise das amostras, o qual se contará a partir da data da junção ao processo do respectivo boletim.
 
@@ -4670,9 +4782,9 @@ Com os processos serão também remetidas as amostras das mercadorias que foram 
 
 § 3.º Das sessões se lavrará acta, e os pareceres serão assinados pelo presidente e pelos vogais, devendo os vogais vencidos fundamentar, por escrito, os seus votos.
 
-###### Art. 659.º Não são admitidas consultas prévias sobre a classificação de produtos de composição indefinida ou que não possam ser fàcilmente identificados.
+Art. 659.º Não são admitidas consultas prévias sobre a classificação de produtos de composição indefinida ou que não possam ser fàcilmente identificados.
 
-###### Art. 660.º Os pareceres do conselho de verificadores ou de reverificadores serão seguidamente enviados ao Conselho do Serviço Técnico-Aduaneiro da respectiva província, acompanhados das competentes amostras e outros documentos e elementos descritivos ou informativos, ao qual cumprirá emitir também sobre o assunto o seu parecer, no prazo máximo de quinze dias, após a recepção dos processos e amostras, excepto nos casos em que for indispensável a análise laboratorial, em que o prazo será contado pela forma prescrita no § 1.º do artigo 658.º deste estatuto.
+Art. 660.º Os pareceres do conselho de verificadores ou de reverificadores serão seguidamente enviados ao Conselho do Serviço Técnico-Aduaneiro da respectiva província, acompanhados das competentes amostras e outros documentos e elementos descritivos ou informativos, ao qual cumprirá emitir também sobre o assunto o seu parecer, no prazo máximo de quinze dias, após a recepção dos processos e amostras, excepto nos casos em que for indispensável a análise laboratorial, em que o prazo será contado pela forma prescrita no § 1.º do artigo 658.º deste estatuto.
 
 § 1.º Os processos de consultas prévias de mercadorias sobre que haja sido dado parecer favorável pelos Conselhos do Serviço Técnico-Aduaneiro serão enviados ao Conselho Superior Técnico-Aduaneiro, para efeitos de apreciação por parte daquele Conselho e resolução do Ministro do Ultramar.
 
@@ -4682,53 +4794,53 @@ Com os processos serão também remetidas as amostras das mercadorias que foram 
 
 § 4.º A caução será arbitrada pelo valor dos direitos estabelecidos pela resolução do Conselho do Serviço Técnico-Aduaneiro e pelo das imposições devidas.
 
-###### Art. 661.º Se o director da Alfândega reconhecer que as mercadorias sobre cuja classificação se pediam esclarecimentos estão especificadas na pauta ou no índice, ou evidentemente compreendidas nos agrupamentos da mesma pauta, sem que sobre a classificação das aludidas mercadorias se tenha suscitado qualquer dúvida ou contestação, ou que, tendo-se suscitado, esteja devidamente esclarecida ou resolvida por despacho das estações competentes ou acórdão dos tribunais técnicos, indeferirá o requerimento, fundamentando o despacho e fazendo-o comunicar aos interessados, do qual poderão recorrer, no prazo de dez dias depois de notificados, para o Conselho do Serviço Técnico-Aduaneiro e da decisão deste, no prazo de quinze dias, para o Conselho Superior Técnico-Aduaneiro.
+Art. 661.º Se o director da Alfândega reconhecer que as mercadorias sobre cuja classificação se pediam esclarecimentos estão especificadas na pauta ou no índice, ou evidentemente compreendidas nos agrupamentos da mesma pauta, sem que sobre a classificação das aludidas mercadorias se tenha suscitado qualquer dúvida ou contestação, ou que, tendo-se suscitado, esteja devidamente esclarecida ou resolvida por despacho das estações competentes ou acórdão dos tribunais técnicos, indeferirá o requerimento, fundamentando o despacho e fazendo-o comunicar aos interessados, do qual poderão recorrer, no prazo de dez dias depois de notificados, para o Conselho do Serviço Técnico-Aduaneiro e da decisão deste, no prazo de quinze dias, para o Conselho Superior Técnico-Aduaneiro.
 
-###### Art. 662.º Quando a dúvida dos interessados versar sobre a classificação de máquinas, aparelhos ou de quaisquer artefactos de que não seja possível apresentar amostras, deverão os mesmos interessados juntar aos seus requerimentos os desenhos, modelos ou fotografias desses objectos, acompanhados de resenha minuciosa da quantidade e qualidade das peças de que eles se compõem e do fim a que as máquinas ou aparelhos se destinam.
+Art. 662.º Quando a dúvida dos interessados versar sobre a classificação de máquinas, aparelhos ou de quaisquer artefactos de que não seja possível apresentar amostras, deverão os mesmos interessados juntar aos seus requerimentos os desenhos, modelos ou fotografias desses objectos, acompanhados de resenha minuciosa da quantidade e qualidade das peças de que eles se compõem e do fim a que as máquinas ou aparelhos se destinam.
 
 § único. Os trâmites a seguir no caso de que trata este artigo são os mesmos que ficam estabelecidos de um modo geral para os processos em que sejam exigidas amostras para sua resolução.
 
-###### Art. 663.º Quando, em virtude de inserção de nova rubrica, de alteração do índice remissivo, de resolução do Conselho do Serviço Técnico-Aduaneiro da província confirmada pelo Conselho Superior Técnico-Aduaneiro ou de acórdão proferido por este e devidamente homologado pelo Ministro do Ultramar, resultar mudança de classificação fixada por uma consulta prévia, deve manter-se essa classificação para as mercadorias já existentes na província à data da alteração e para as que até essa data estejam em viagem, se não houver mais de um ano de intervalo entre a data da comunicação do resultado da consulta prévia e a da providência que a alterou.
+Art. 663.º Quando, em virtude de inserção de nova rubrica, de alteração do índice remissivo, de resolução do Conselho do Serviço Técnico-Aduaneiro da província confirmada pelo Conselho Superior Técnico-Aduaneiro ou de acórdão proferido por este e devidamente homologado pelo Ministro do Ultramar, resultar mudança de classificação fixada por uma consulta prévia, deve manter-se essa classificação para as mercadorias já existentes na província à data da alteração e para as que até essa data estejam em viagem, se não houver mais de um ano de intervalo entre a data da comunicação do resultado da consulta prévia e a da providência que a alterou.
 
 ### CAPÍTULO V — Dos serviços do cartório dos processos fiscais e administrativos
 
 #### SECÇÃO I — Disposições preliminares
 
-###### Art. 664. Os processos administrativos são resolvidos conforme os preceitos estabelecidos neste estatuto e na parte III do Contencioso Aduaneiro do Ultramar.
+Art. 664. Os processos administrativos são resolvidos conforme os preceitos estabelecidos neste estatuto e na parte III do Contencioso Aduaneiro do Ultramar.
 
-###### Art. 665.º O cartório dos processos fiscais e administrativos de cada Alfândega é considerado, para todos os efeitos, como uma secretaria judicial, sendo escrivão dos respectivos processos o encarregado do cartório ou um escriturário do quadro auxiliar, designado pelo director, quer esteja prestando serviço ou não na secretaria referida no artigo 108.º deste estatuto.
+Art. 665.º O cartório dos processos fiscais e administrativos de cada Alfândega é considerado, para todos os efeitos, como uma secretaria judicial, sendo escrivão dos respectivos processos o encarregado do cartório ou um escriturário do quadro auxiliar, designado pelo director, quer esteja prestando serviço ou não na secretaria referida no artigo 108.º deste estatuto.
 
-###### Art. 666.º Ao cartório referido no artigo anterior incumbe também a organização, instrução e liquidação dos processos administrativos respeitantes à cobrança coerciva de importâncias em dívida às alfândegas, além dos mencionados no artigo 110.º deste estatuto.
+Art. 666.º Ao cartório referido no artigo anterior incumbe também a organização, instrução e liquidação dos processos administrativos respeitantes à cobrança coerciva de importâncias em dívida às alfândegas, além dos mencionados no artigo 110.º deste estatuto.
 
 #### SECÇÃO II — Da venda de mercadorias em hasta pública e das reentradas
 
-###### Art. 667.º Serão vendidas em hasta pública nas estâncias aduaneiras as mercadorias mencionadas no artigo 110.º deste estatuto e as apreendidas ou arrestadas existentes em quaisquer armazéns ou depósitos sob a acção aduaneira ou nos de regime livre prescritos no § 2.º do artigo 736.º, depois de cumpridas as formalidades legais.
+Art. 667.º Serão vendidas em hasta pública nas estâncias aduaneiras as mercadorias mencionadas no artigo 110.º deste estatuto e as apreendidas ou arrestadas existentes em quaisquer armazéns ou depósitos sob a acção aduaneira ou nos de regime livre prescritos no § 2.º do artigo 736.º, depois de cumpridas as formalidades legais.
 
-###### Art. 668.º Não serão postos em praça os valores em espécie, pedras preciosas, jóias e papéis de crédito encontrados nos espólios, os quais serão transferidos para as agências, filiais ou delegações do banco emissor em cada província, onde ficam depositados à ordem do director ou chefe provincial dos Serviços das Alfândegas, até à resolução do respectivo processo de habilitação.
+Art. 668.º Não serão postos em praça os valores em espécie, pedras preciosas, jóias e papéis de crédito encontrados nos espólios, os quais serão transferidos para as agências, filiais ou delegações do banco emissor em cada província, onde ficam depositados à ordem do director ou chefe provincial dos Serviços das Alfândegas, até à resolução do respectivo processo de habilitação.
 
 § 1.º Os valores de que trata o corpo deste artigo só serão entregues a quem forem devidos depois de pagas as despesas de que estejam cativos, sendo livres de direitos.
 
 § 2.º Os objectos mencionados no corpo deste artigo podem ser vendidos com autorização do governador, independentemente de precatório, em hasta pública, passados dez anos sobre a data da constituição do depósito, se não tiver havido reclamação dos interessados, a qual será precedida de éditos de 90 dias. Do produto líquido da venda se fará novo depósito.
 
-###### Art. 669.º Serão também vendidas em hasta pública as mercadorias salvas de naufrágio, se o navio tiver sido abandonado ou quando o capitão requerer a venda delas, tendo-se em vista, porém, o disposto nas convenções com os diversos países.
+Art. 669.º Serão também vendidas em hasta pública as mercadorias salvas de naufrágio, se o navio tiver sido abandonado ou quando o capitão requerer a venda delas, tendo-se em vista, porém, o disposto nas convenções com os diversos países.
 
 § único. Serão ainda postas em praça as mercadorias depositadas nos armazéns ou estâncias aduaneiras e as apreendidas, quando da sua demora nos referidos armazéns ou estâncias resulte a sua deterioração ou qualquer outro dano, ou ainda quando excedam o prazo máximo de armazenagem, ficando depositado o produto da venda até à decisão final que ponha termo ao respectivo processo.
 
-###### Art. 670.º Para os fins do artigo 110.º, as mercadorias que estejam depositadas em armazéns gerais francos, zonas francas ou armazéns especiais referidos na alínea a) do artigo 821,º serão transferidas para a alfândega logo que tenham sido abandonadas ou hajam excedido os prazos legais da armazenagem.
+Art. 670.º Para os fins do artigo 110.º, as mercadorias que estejam depositadas em armazéns gerais francos, zonas francas ou armazéns especiais referidos na alínea a) do artigo 821,º serão transferidas para a alfândega logo que tenham sido abandonadas ou hajam excedido os prazos legais da armazenagem.
 
 § único. As mercadorias depositadas nos armazéns de que trata o corpo deste artigo poderão ser neles vendidas, cumprindo-se os termos regulamentares, de harmonia com as condições que, para esse fim, vierem a ser acordadas entre as Direcções ou Repartições Provinciais dos Serviços das Alfândegas e as direcções ou administrações dos referidos armazéns.
 
-###### Art. 671.º As mercadorias que estejam nas condições prescritas no n.º 1.º do artigo 110.º deste estatuto, assim como as que tenham sido objecto de abandono expresso, só serão anunciadas para venda quando se reconheça não haver conveniência no seu aproveitamento para serviço do Estado ou dos corpos administrativos ou ainda para fins de assistência e beneficência públicas.
+Art. 671.º As mercadorias que estejam nas condições prescritas no n.º 1.º do artigo 110.º deste estatuto, assim como as que tenham sido objecto de abandono expresso, só serão anunciadas para venda quando se reconheça não haver conveniência no seu aproveitamento para serviço do Estado ou dos corpos administrativos ou ainda para fins de assistência e beneficência públicas.
 
-###### Art. 672.º As disposições do artigo anterior são ainda aplicáveis às mercadorias que estejam nas condições prescritas nos n.os 3.º a 5.º do artigo 110.º deste estatuto.
+Art. 672.º As disposições do artigo anterior são ainda aplicáveis às mercadorias que estejam nas condições prescritas nos n.os 3.º a 5.º do artigo 110.º deste estatuto.
 
-###### Art. 673.º Para cumprimento das disposições dos artigos 671.º e 672.º, enviarão as estâncias aduaneiras onde se encontrem mercadorias nas condições neles prescritas listas detalhadas das mesmas à Direcção ou Repartição Provincial dos Serviços das Alfândegas, através das sedes das respectivas circunscrições aduaneiras.
+Art. 673.º Para cumprimento das disposições dos artigos 671.º e 672.º, enviarão as estâncias aduaneiras onde se encontrem mercadorias nas condições neles prescritas listas detalhadas das mesmas à Direcção ou Repartição Provincial dos Serviços das Alfândegas, através das sedes das respectivas circunscrições aduaneiras.
 
-###### Art. 674.º Nas requisições das mercadorias que estejam nas condições prescritas nos artigos 671.º e 672.º e destinadas a alguns dos fins expressos no artigo 671.º observar-se-ão os preceitos do n.os 3.º a 14.º da [Portaria n.º 10393](https://diariodarepublica.pt/dr/detalhe/portaria/10393-1943-595361), de 14 de Maio de 1943, na parte aplicável.
+Art. 674.º Nas requisições das mercadorias que estejam nas condições prescritas nos artigos 671.º e 672.º e destinadas a alguns dos fins expressos no artigo 671.º observar-se-ão os preceitos do n.os 3.º a 14.º da [Portaria n.º 10393](https://diariodarepublica.pt/dr/detalhe/portaria/10393-1943-595361), de 14 de Maio de 1943, na parte aplicável.
 
 § único. As requisições de que trata o corpo deste artigo só poderão ser satisfeitas quando autorizadas pelo governador da província, devendo o pagamento das respectivas mercadorias ser efectuado antes da sua desalfandegação, salvo no caso de tal pagamento estar caucionado ou garantido por qualquer das formas admitidas na legislação aduaneira e conforme os prazos nela prescritos ou de ter sido dispensado pelo governador.
 
-###### Art. 675.º As mercadorias referidas nos n.os 1.º a 5.º do artigo 114.º serão postas em praça pelo valor dos respectivos direitas e de outras imposições aduaneiras, acrescido ainda do valor aduaneiro e de quaisquer despesas de que as mesmas estejam cativas. Poderão, todavia, tais mercadorias ser postas em 1.ª praça apenas pelo valor aduaneiro ou pelo valor que tiver sido arbitrado pelos peritos, se os arrematantes requererem por escrito à autoridade aduaneira que presidir ao leilão, e antes dele realizado, que determinadas mercadorias anunciadas para venda se destinam a ser reexportadas, no caso de serem por eles arrematadas.
+Art. 675.º As mercadorias referidas nos n.os 1.º a 5.º do artigo 114.º serão postas em praça pelo valor dos respectivos direitas e de outras imposições aduaneiras, acrescido ainda do valor aduaneiro e de quaisquer despesas de que as mesmas estejam cativas. Poderão, todavia, tais mercadorias ser postas em 1.ª praça apenas pelo valor aduaneiro ou pelo valor que tiver sido arbitrado pelos peritos, se os arrematantes requererem por escrito à autoridade aduaneira que presidir ao leilão, e antes dele realizado, que determinadas mercadorias anunciadas para venda se destinam a ser reexportadas, no caso de serem por eles arrematadas.
 
 § 1.º Quando as mercadorias submetidas a leilão não tiverem obtido em 1.ª praça lanço que cubra o valor estipulado no corpo deste artigo, serão postas em 2.ª praça noutro leilão, pelo valor dos respectivos direitos e de outras imposições aduaneiras.
 
@@ -4744,9 +4856,9 @@ Com os processos serão também remetidas as amostras das mercadorias que foram 
 
 § 7.º A percentagem referida na parte final do § 2.º e no § 3.º do artigo 258.º do Contencioso Aduaneiro do Ultramar é sempre devida desde o dia imediato ao do termo do prazo de armazenagem das respectivas mercadorias, independentemente da data da participação referida nos artigos 261.º e 262.º daquele diploma.
 
-###### Art. 676.º Para os efeitos do que dispõe o § 3.º do artigo anterior deverão as competentes estâncias aduaneiras elaborar imediatamente listas das mercadorias que não tenham sido vendidas em 2.ª praça, que remeterão às Direcções ou Repartições Provinciais dos Serviços das Alfândegas, por intermédio das sedes das alfândegas e com a informação dos respectivos directores, a fim de ser obtida autorização do governador para a venda em 3.ª praça, se assim convier.
+Art. 676.º Para os efeitos do que dispõe o § 3.º do artigo anterior deverão as competentes estâncias aduaneiras elaborar imediatamente listas das mercadorias que não tenham sido vendidas em 2.ª praça, que remeterão às Direcções ou Repartições Provinciais dos Serviços das Alfândegas, por intermédio das sedes das alfândegas e com a informação dos respectivos directores, a fim de ser obtida autorização do governador para a venda em 3.ª praça, se assim convier.
 
-###### Art. 677.º As mercadorias apreendidas serão postas em 1.ª praça pelo valor fixado no processo pela competente autoridade instrutora ou pelos peritos por ela nomeados.
+Art. 677.º As mercadorias apreendidas serão postas em 1.ª praça pelo valor fixado no processo pela competente autoridade instrutora ou pelos peritos por ela nomeados.
 
 § 1.º Se as mercadorias de que trata o corpo deste artigo não obtiverem em 1.ª praça lanço que cubra o respectivo valor, serão postas em 2.ª praça por metade do seu valor.
 
@@ -4756,27 +4868,27 @@ Com os processos serão também remetidas as amostras das mercadorias que foram 
 
 § 4.º Para os efeitos do que dispõe o parágrafo anterior deverão as autoridades julgadoras proceder de harmonia com o disposto no artigo 676.º deste estatuto.
 
-###### Art. 678.º As estâncias aduaneiras onde tenham sido efectuados leilões de mercadorias que estejam nas condições do § 3.º do artigo 675.º e do § 3.º do artigo anterior elaborarão listas detalhadas das mesmas, que serão remetidas, no mais curto prazo de tempo, à Direcção ou Repartição Provincial dos Serviços das Alfândegas, por intermédio das sedes das respectivas alfândegas, a fim de lhes ser dado qualquer dos destinos prescritos no artigo 681.º, conforme o que for decidido pelo governador.
+Art. 678.º As estâncias aduaneiras onde tenham sido efectuados leilões de mercadorias que estejam nas condições do § 3.º do artigo 675.º e do § 3.º do artigo anterior elaborarão listas detalhadas das mesmas, que serão remetidas, no mais curto prazo de tempo, à Direcção ou Repartição Provincial dos Serviços das Alfândegas, por intermédio das sedes das respectivas alfândegas, a fim de lhes ser dado qualquer dos destinos prescritos no artigo 681.º, conforme o que for decidido pelo governador.
 
-###### Art. 679.º Os leilões dos refugos postais que estejam cativos de direitos e de outros impostos cobrados pelas alfândegas e tiverem de ser vendidos nos termos das convenções internacionais em vigor serão realizados por intermédio das próprias repartições ou secções dos serviços postais, de harmonia com as disposições do capítulo IX do Regulamento para a Execução do Serviço de Encomendas Postais nas Províncias Ultramarinas, aprovado pelo [Decreto n.º 40441](https://diariodarepublica.pt/dr/detalhe/decreto/40441-1955-246305), de 20 de Dezembro de 1955.
+Art. 679.º Os leilões dos refugos postais que estejam cativos de direitos e de outros impostos cobrados pelas alfândegas e tiverem de ser vendidos nos termos das convenções internacionais em vigor serão realizados por intermédio das próprias repartições ou secções dos serviços postais, de harmonia com as disposições do capítulo IX do Regulamento para a Execução do Serviço de Encomendas Postais nas Províncias Ultramarinas, aprovado pelo [Decreto n.º 40441](https://diariodarepublica.pt/dr/detalhe/decreto/40441-1955-246305), de 20 de Dezembro de 1955.
 
-###### Art. 680.º As Direcções ou Repartições Provinciais dos Serviços das Alfândegas poderão ordenar, com autorização do governador e conforme as conveniências e de harmonia com a defesa dos interesses da Fazenda Nacional, que os leilões de mercadorias de grande valor se efectuem nas sedes das alfândegas ou noutras localidades de maior importância comercial, ainda que estas não sejam sedes de alfândega, para onde as mesmas serão remetidas, devendo ser contadas as despesas de transporte na liquidação final do processo.
+Art. 680.º As Direcções ou Repartições Provinciais dos Serviços das Alfândegas poderão ordenar, com autorização do governador e conforme as conveniências e de harmonia com a defesa dos interesses da Fazenda Nacional, que os leilões de mercadorias de grande valor se efectuem nas sedes das alfândegas ou noutras localidades de maior importância comercial, ainda que estas não sejam sedes de alfândega, para onde as mesmas serão remetidas, devendo ser contadas as despesas de transporte na liquidação final do processo.
 
 § único. Para efeitos do que dispõe o corpo deste artigo, solicitarão os chefes das estâncias aduaneiras que não sejam sedes de alfândegas, sempre que hajam de proceder a leilão de quaisquer mercadorias, a devida autorização, para o que enviarão listas detalhadas das referidas mercadorias à Direcção ou Repartição Provincial dos Serviços das Alfândegas, por intermédio da direcção da respectiva alfândega.
 
-###### Art. 681.º Compete aos governadores ordenar a utilização ou a entrega gratuita aos serviços do Estado, corpos administrativos ou a organismos ou a estabelecimentos de assistência pública, conforme os casos, das mercadorias constantes das listas de que trata o artigo 678.º, de harmonia com as necessidades e conveniências daqueles serviços ou estabelecimentos e com os interesses do Estado.
+Art. 681.º Compete aos governadores ordenar a utilização ou a entrega gratuita aos serviços do Estado, corpos administrativos ou a organismos ou a estabelecimentos de assistência pública, conforme os casos, das mercadorias constantes das listas de que trata o artigo 678.º, de harmonia com as necessidades e conveniências daqueles serviços ou estabelecimentos e com os interesses do Estado.
 
 § único. As mercadorias que não sejam objecto de consumo normal serão registadas e incorporadas no património do Estado ou dos corpos administrativos, devendo as outras ser apenas registadas em livros próprios.
 
-###### Art. 682.º Quando se trate de mercadorias arrecadadas nos depósitos gerais francos, nos armazéns dos caminhos de ferro ou nos de outras empresas de transportes terrestres ou marítimos que estejam cativas de despesas com fretes, armazenagem ou quaisquer outras e essas mercadorias tenham de ser submetidas a leilão, terá o produto da arrematação, depois de deduzidos os encargos mencionados nas alíneas a) a d) do artigo 282.º do Contencioso Aduaneiro do Ultramar, o destino marcado no § único do citado artigo.
+Art. 682.º Quando se trate de mercadorias arrecadadas nos depósitos gerais francos, nos armazéns dos caminhos de ferro ou nos de outras empresas de transportes terrestres ou marítimos que estejam cativas de despesas com fretes, armazenagem ou quaisquer outras e essas mercadorias tenham de ser submetidas a leilão, terá o produto da arrematação, depois de deduzidos os encargos mencionados nas alíneas a) a d) do artigo 282.º do Contencioso Aduaneiro do Ultramar, o destino marcado no § único do citado artigo.
 
 § único. Quando pelos regulamentos privativos das administrações dos armazéns referidos no corpo do artigo, aprovados pelo Governo, o produto da venda de mercadorias constitua receita própria, o produto líquido referido na parte final do corpo do artigo a que alude o § único do artigo 282.º do Contencioso Aduaneiro do Ultramar, quando não for reclamado pelo dono dentro de um ano, será entregue às referidas administrações.
 
-###### Art. 683.º Os leilões de mercadorias que se encontram sob a acção fiscal, tanto arrecadadas em estâncias aduaneiras ou em quaisquer armazéns, como noutros locais, com excepção dos refugos postais, serão efectuados pela administração aduaneira.
+Art. 683.º Os leilões de mercadorias que se encontram sob a acção fiscal, tanto arrecadadas em estâncias aduaneiras ou em quaisquer armazéns, como noutros locais, com excepção dos refugos postais, serão efectuados pela administração aduaneira.
 
 § único. Poderão, no entanto, as autoridades judiciais presidir, com autorização do governador, à venda das mercadorias arrestadas, a seu pedido, nos locais em que se encontrem sob a acção aduaneira, observadas as disposições deste estatuto e do Contencioso Aduaneiro do Ultramar, respeitantes à venda de mercadorias em leilão, assim como a legislação vigente sobre desalfandegação de mercadorias sujeitas à acção fiscal.
 
-###### Art. 684.º Os donos das mercadorias depositadas em quaisquer armazéns sob regime aduaneiro ou livre ou nas estâncias aduaneiras podem despachá-las depois de anunciada a sua venda, ou ainda no acto do leilão, antes de terem sido postas em praça, desde que se não trate de mercadorias por eles abandonadas expressamente.
+Art. 684.º Os donos das mercadorias depositadas em quaisquer armazéns sob regime aduaneiro ou livre ou nas estâncias aduaneiras podem despachá-las depois de anunciada a sua venda, ou ainda no acto do leilão, antes de terem sido postas em praça, desde que se não trate de mercadorias por eles abandonadas expressamente.
 
 § 1.º Os interessados que tenham sido autorizados a despachar as mercadorias que estejam nas condições de que trata o corpo deste artigo deverão efectuar imediatamente o depósito da importância dos direitos e mais imposições por elas devidos e o das custas e selos do respectivo processo.
 
@@ -4784,35 +4896,35 @@ Com os processos serão também remetidas as amostras das mercadorias que foram 
 
 § 3.º Logo que tenham sido efectuados os depósitos referidos no parágrafo anterior, serão as mercadorias remetidas, no prazo máximo de três dias, à casa de despacho respectiva.
 
-###### Art. 685.º Aos directores ou chefes provinciais dos Serviços das Alfândegas cumpre designar quais as estâncias das respectivas circunscrições onde deve ser realizada a venda de mercadorias em hasta pública, quando se não trate de sedes de alfândegas.
+Art. 685.º Aos directores ou chefes provinciais dos Serviços das Alfândegas cumpre designar quais as estâncias das respectivas circunscrições onde deve ser realizada a venda de mercadorias em hasta pública, quando se não trate de sedes de alfândegas.
 
-###### Art. 686.º Serão presididas pelos directores das alfândegas as arrematações que se efectuarem nas sedes das circunscrições aduaneiras, podendo também estes funcionários ir presidir às que se realizarem fora das sedes, quando assim lhes for determinado pelo director ou chefe provincial dos Serviços das Alfândegas, com autorização do governador.
+Art. 686.º Serão presididas pelos directores das alfândegas as arrematações que se efectuarem nas sedes das circunscrições aduaneiras, podendo também estes funcionários ir presidir às que se realizarem fora das sedes, quando assim lhes for determinado pelo director ou chefe provincial dos Serviços das Alfândegas, com autorização do governador.
 
-###### Art. 687.º Os géneros e mercadorias provenientes ou não de armazéns aduaneiros, que hajam sido submetidos a qualquer modalidade de despacho dentro das estâncias aduaneiras ou outros locais fiscalizados entrarão para o armazém de reentrados quando tenham excedido os prazos marcados nos regulamentos aduaneiros para o cumprimento das suas diversas formalidades. Haverá neste armazém livros de escrituração para as mercadorias reentradas.
+Art. 687.º Os géneros e mercadorias provenientes ou não de armazéns aduaneiros, que hajam sido submetidos a qualquer modalidade de despacho dentro das estâncias aduaneiras ou outros locais fiscalizados entrarão para o armazém de reentrados quando tenham excedido os prazos marcados nos regulamentos aduaneiros para o cumprimento das suas diversas formalidades. Haverá neste armazém livros de escrituração para as mercadorias reentradas.
 
-###### Art. 688.º As mercadorias reentradas, quando forem novamente submetidas a despacho, pagarão pelo dobro as taxas de tráfego e de armazenagem que forem devidas e uma multa de 100$00 a 1000$00, arbitrada conforme o seu valor, por despacho sumário do director na própria fórmula de despacho, por onde será efectuada também a liquidação daquela multa, sem quaisquer adicionais.
+Art. 688.º As mercadorias reentradas, quando forem novamente submetidas a despacho, pagarão pelo dobro as taxas de tráfego e de armazenagem que forem devidas e uma multa de 100$00 a 1000$00, arbitrada conforme o seu valor, por despacho sumário do director na própria fórmula de despacho, por onde será efectuada também a liquidação daquela multa, sem quaisquer adicionais.
 
 § único. As mercadorias que tenham reentrado por duas vezes serão consideradas, depois da segunda reentrada, como demoradas além dos prazos legais, devendo ser organizado imediatamente o respectivo processo de leilão.
 
-###### Art. 689.º Os géneros e mercadorias de que trata o n.º 1.º do artigo 110.º devem ser remetidos, logo que estejam findos os prazos legais de armazenagem, para os armazéns dos leilões, acompanhados de guias ou relações em duplicado onde se mencionem as contramarcas, marcas, números, quantidade e qualidade dos volumes e a declaração genérica do seu conteúdo, cumprindo aos fiéis dos mesmos armazéns devolver aos remetentes uma destas guias, com o competente recibo.
+Art. 689.º Os géneros e mercadorias de que trata o n.º 1.º do artigo 110.º devem ser remetidos, logo que estejam findos os prazos legais de armazenagem, para os armazéns dos leilões, acompanhados de guias ou relações em duplicado onde se mencionem as contramarcas, marcas, números, quantidade e qualidade dos volumes e a declaração genérica do seu conteúdo, cumprindo aos fiéis dos mesmos armazéns devolver aos remetentes uma destas guias, com o competente recibo.
 
-###### Art. 690.º As mercadorias apreendidas serão escrituradas no acto da entrada nos armazéns em registo separado, averbando-se a data da entrada, a qualidade, quantidade e peso bruto dos volumes, a sua procedência, o nome dos descobridores, o dos apreensores, o dos arguidos e o número do competente processo.
+Art. 690.º As mercadorias apreendidas serão escrituradas no acto da entrada nos armazéns em registo separado, averbando-se a data da entrada, a qualidade, quantidade e peso bruto dos volumes, a sua procedência, o nome dos descobridores, o dos apreensores, o dos arguidos e o número do competente processo.
 
-###### Art. 691.º O registo separado de que trata o artigo anterior será feito em duplicado e em livros próprios, servindo um para a autoridade que presidir à arrematação e outro para o encarregado dos serviços dos armazéns.
+Art. 691.º O registo separado de que trata o artigo anterior será feito em duplicado e em livros próprios, servindo um para a autoridade que presidir à arrematação e outro para o encarregado dos serviços dos armazéns.
 
-###### Art. 692.º A venda de mercadorias em leilão será anunciada no Boletim Oficial da província e por meio de editais afixados à porta das estâncias aduaneiras.
+Art. 692.º A venda de mercadorias em leilão será anunciada no Boletim Oficial da província e por meio de editais afixados à porta das estâncias aduaneiras.
 
 § único. O anúncio a que se refere este artigo poderá também ser publicado num dos jornais de maior circulação na província ou num jornal local, no caso de se tratar de estância aduaneira que não seja a alfândega da capital da província.
 
-###### Art. 693.º Do produto das arrematações deverão deduzir-se os direitos, quando devidos, e mais despesas, e a importância líquida terá o destino marcado nas leis e regulamentos em vigor na província.
+Art. 693.º Do produto das arrematações deverão deduzir-se os direitos, quando devidos, e mais despesas, e a importância líquida terá o destino marcado nas leis e regulamentos em vigor na província.
 
 § único. O produto da venda das mercadorias apreendidas ou arrestadas terá o destino determinado no processo.
 
-###### Art. 694.º Se o produto das vendas a que se refere este capítulo não chegar a cobrir a importância total das despesas, tem, para todos os efeitos, preferência na sua liquidação a Fazenda Nacional.
+Art. 694.º Se o produto das vendas a que se refere este capítulo não chegar a cobrir a importância total das despesas, tem, para todos os efeitos, preferência na sua liquidação a Fazenda Nacional.
 
 ### CAPÍTULO VI — Da entrega de receitas das tesourarias das alfândegas nos bancos emissores ou recebedorias de Fazenda
 
-###### Art. 695.º As quantias arrecadadas diàriamente pelas tesourarias das sedes das alfândegas ultramarinas, com excepção das respeitantes a ajudas de custo e subsídios de deslocação de funcionários, cobradas por serviços a requerimento de partes e das que constituam depósitos de direitos e de outras imposições ou de multas sujeitas a ulterior liquidação serão entregues na manhã do dia seguinte ao da cobrança por meio de guia em quadruplicado, do modelo n.º 11 da [Portaria n.º 9867](https://diariodarepublica.pt/dr/detalhe/portaria/9867-1941-356902), de 25 de Agosto de 1941, nas agências ou filiais dos bancos emissores existentes nas localidades onde funcionarem aquelas alfândegas. De igual modo se procederá nas tesourarias das sedes das alfândegas em relação às quantias que digam respeito a ajudas de custo e subsídios de deslocação de funcionários, cobradas por serviços a requerimento de partes, e das que constituam depósitos de direitos e de outras imposições ou de multas sujeitas a ulterior liquidação, que serão entregues também na manhã do dia seguinte ao da cobrança, por meio da referida guia em quadruplicado nas agências ou filiais dos bancos emissores existentes nas localidades onde funcionarem aquelas alfândegas.
+Art. 695.º As quantias arrecadadas diàriamente pelas tesourarias das sedes das alfândegas ultramarinas, com excepção das respeitantes a ajudas de custo e subsídios de deslocação de funcionários, cobradas por serviços a requerimento de partes e das que constituam depósitos de direitos e de outras imposições ou de multas sujeitas a ulterior liquidação serão entregues na manhã do dia seguinte ao da cobrança por meio de guia em quadruplicado, do modelo n.º 11 da [Portaria n.º 9867](https://diariodarepublica.pt/dr/detalhe/portaria/9867-1941-356902), de 25 de Agosto de 1941, nas agências ou filiais dos bancos emissores existentes nas localidades onde funcionarem aquelas alfândegas. De igual modo se procederá nas tesourarias das sedes das alfândegas em relação às quantias que digam respeito a ajudas de custo e subsídios de deslocação de funcionários, cobradas por serviços a requerimento de partes, e das que constituam depósitos de direitos e de outras imposições ou de multas sujeitas a ulterior liquidação, que serão entregues também na manhã do dia seguinte ao da cobrança, por meio da referida guia em quadruplicado nas agências ou filiais dos bancos emissores existentes nas localidades onde funcionarem aquelas alfândegas.
 
 § 1.º Os originais das guias de que trata o corpo deste artigo ficarão na agência ou filial do banco emissor onde for efectuada a entrega dos rendimentos aduaneiros; os duplicados serão devolvidos ao tesoureiro da alfândega após a realização daquela entrega; os triplicados ficarão arquivados na secção de contabilidade da respectiva alfândega, e os quadruplicados serão remetidos pela direcção da alfândega à Direcção ou Repartição Provincial dos Serviços de Fazenda e Contabilidade, ou à respectiva direcção distrital, nas províncias de governo geral, se assim for determinado pela direcção provincial.
 
@@ -4820,7 +4932,7 @@ Com os processos serão também remetidas as amostras das mercadorias que foram 
 
 § 3.º Os modelos das guias a utilizar na remessa dos fundos que constituam receitas próprias da Fazenda ou consignações de receita serão de cor diferente dos que respeitem a entrega de depósitos sujeitos a ulterior liquidação e a ajudas de custo e subsídios de deslocação.
 
-###### Art. 696.º O pagamento dos direitos e mais imposições efectuar-se-á em moeda corrente ou, com autorização do governador, por meio de cheque bancário sobre o banco emissor e por este visado, sendo esta forma de pagamento apenas admissível nas sedes das alfândegas e suas delegações urbanas onde existam filiais ou agências daquele banco.
+Art. 696.º O pagamento dos direitos e mais imposições efectuar-se-á em moeda corrente ou, com autorização do governador, por meio de cheque bancário sobre o banco emissor e por este visado, sendo esta forma de pagamento apenas admissível nas sedes das alfândegas e suas delegações urbanas onde existam filiais ou agências daquele banco.
 
 § 1.º O cheque será passado à ordem do tesoureiro ou do chefe da respectiva estância aduaneira, com a indicação expressa de que se destina a pagamento de despachos aduaneiros.
 
@@ -4830,7 +4942,7 @@ Com os processos serão também remetidas as amostras das mercadorias que foram 
 
 § 4.º O governador poderá autorizar, ouvida a Direcção ou Repartição Provincial dos Serviços de Fazenda e Contabilidade, que aquele pagamento possa ser efectuado por meio de cheques sobre outros bancos existentes na província.
 
-###### Art. 697.º As agências ou filiais dos bancos emissores escriturarão as quantias recebidas diàriamente das alfândegas que constituam receitas próprias da Fazenda ou consignações de receita numa conta de depósito provisório, que será, em cada mês, simultâneamente levantado e convertido em passagens de fundos, conforme dispõe o artigo 129.º do Regulamento Geral da Administração dos Serviços de Fazenda, de 3 de Outubro de 1901, e sem prejuízo do disposto no artigo 131.º do mesmo regulamento.
+Art. 697.º As agências ou filiais dos bancos emissores escriturarão as quantias recebidas diàriamente das alfândegas que constituam receitas próprias da Fazenda ou consignações de receita numa conta de depósito provisório, que será, em cada mês, simultâneamente levantado e convertido em passagens de fundos, conforme dispõe o artigo 129.º do Regulamento Geral da Administração dos Serviços de Fazenda, de 3 de Outubro de 1901, e sem prejuízo do disposto no artigo 131.º do mesmo regulamento.
 
 § 1.º As referidas agências ou filiais escriturarão também diária e separadamente em contas de depósito provisório, as quantias que não constituam as receitas especificadas no corpo do artigo, as quais ficarão à ordem dos directores ou dos chefes das estâncias aduaneiras, conforme as localidades.
 
@@ -4838,25 +4950,25 @@ Com os processos serão também remetidas as amostras das mercadorias que foram 
 
 § 3.º Os directores e chefes provinciais dos Serviços das Alfândegas fixarão em ordem de serviço os quantitativos dos rendimentos que ficarão depositados em cada dia nos cofres aduaneiros para o fim prescrito no parágrafo anterior, mediante despacho do governador, ouvido o director ou chefe provincial dos Serviços de Fazenda e Contabilidade.
 
-###### Art. 698.º As importâncias depositadas nas filiais ou agências do banco emissor respeitantes a ajudas de custo e subsídios de deslocação serão levantadas por meio de cheque assinado pelo tesoureiro e pelo chefe da secção de contabilidade e visado pelo director, nas sedes das alfândegas, e pelo chefe da estância aduaneira e pelo funcionário referido no artigo 701.º, nos outros casos, a fim de serem pagos aos funcionários que a eles tiverem direito. As importâncias respeitantes a depósitos e a multas serão também levantadas por meio de cheque, sempre que se torne necessário efectuar as respectivas liquidações, procedendo-se, quanto às respeitantes a multas, conforme ficou preceituado no corpo do artigo 697.º deste estatuto.
+Art. 698.º As importâncias depositadas nas filiais ou agências do banco emissor respeitantes a ajudas de custo e subsídios de deslocação serão levantadas por meio de cheque assinado pelo tesoureiro e pelo chefe da secção de contabilidade e visado pelo director, nas sedes das alfândegas, e pelo chefe da estância aduaneira e pelo funcionário referido no artigo 701.º, nos outros casos, a fim de serem pagos aos funcionários que a eles tiverem direito. As importâncias respeitantes a depósitos e a multas serão também levantadas por meio de cheque, sempre que se torne necessário efectuar as respectivas liquidações, procedendo-se, quanto às respeitantes a multas, conforme ficou preceituado no corpo do artigo 697.º deste estatuto.
 
-###### Art. 699.º Nas estâncias aduaneiras das diversas províncias ultramarinas que não sejam sedes de alfândegas serão os rendimentos aduaneiros, sempre que a Direcção ou Repartição Provincial dos Serviços de Fazenda e Contabilidade da respectiva província o julgue conveniente, entregues pela forma estipulada no artigo 695.º e seus parágrafos, nas filiais ou agências dos bancos emissores. Nos locais onde o banco não estiver estabelecido cumprir-se-ão, quanto à entrega de tais rendimentos, as disposições dos §§ 1.º e 2.º do artigo 124.º do regulamento geral mencionado no artigo 697.º deste estatuto.
+Art. 699.º Nas estâncias aduaneiras das diversas províncias ultramarinas que não sejam sedes de alfândegas serão os rendimentos aduaneiros, sempre que a Direcção ou Repartição Provincial dos Serviços de Fazenda e Contabilidade da respectiva província o julgue conveniente, entregues pela forma estipulada no artigo 695.º e seus parágrafos, nas filiais ou agências dos bancos emissores. Nos locais onde o banco não estiver estabelecido cumprir-se-ão, quanto à entrega de tais rendimentos, as disposições dos §§ 1.º e 2.º do artigo 124.º do regulamento geral mencionado no artigo 697.º deste estatuto.
 
-###### Art. 700.º As quantias arrecadadas diàriamente nas estâncias aduaneiras situadas em localidades onde não existem dependências do banco emissor ou recebedorias de Fazenda serão ali guardadas e transferidas periòdicamente para a recebedoria de Fazenda mais próxima, se assim for julgado conveniente, utilizando-se os habituais meios de transporte que as sirvam. Estas entregas serão realizadas de modo a poderem dar entrada nos aludidos cofres até ao último dia do mês a que respeitarem, devendo os chefes das estâncias aduaneiras encerrar, para esse efeito, os períodos mensais de cobrança nas datas que estiverem superiormente fixadas para cada estância aduaneira, tendo-se em conta as distâncias a que as mesmas se encontrem dos locais de entrega dessas receitas.
+Art. 700.º As quantias arrecadadas diàriamente nas estâncias aduaneiras situadas em localidades onde não existem dependências do banco emissor ou recebedorias de Fazenda serão ali guardadas e transferidas periòdicamente para a recebedoria de Fazenda mais próxima, se assim for julgado conveniente, utilizando-se os habituais meios de transporte que as sirvam. Estas entregas serão realizadas de modo a poderem dar entrada nos aludidos cofres até ao último dia do mês a que respeitarem, devendo os chefes das estâncias aduaneiras encerrar, para esse efeito, os períodos mensais de cobrança nas datas que estiverem superiormente fixadas para cada estância aduaneira, tendo-se em conta as distâncias a que as mesmas se encontrem dos locais de entrega dessas receitas.
 
 § 1.º Poderá ser autorizada, mediante despacho do governador, a entrega de receitas no cofre de outra estância aduaneira, às delegações, postos de despacho, postos administrativos e postos fiscais com atribuições de despacho, quando disponham de maiores facilidades de comunicação com essa estância do que com a agência, filial ou delegação do banco emissor ou com a recebedoria de Fazenda. O disposto neste parágrafo é de carácter obrigatório quanto à entrega na tesouraria da sede da alfândega das receitas arrecadadas nas delegações urbanas e nos piquetes.
 
 § 2.º Quando, devido às distâncias que separam as casas fiscais das delegações e repartições de Fazenda, não possam ser cumpridas com regularidade as disposições legais respeitantes a entrega de rendimentos dentro dos prazos estabelecidos, poderão os respectivos chefes, mediante autorização do governador, entregar as suas receitas nas recebedorias de Fazenda da respectiva área, por intermédio do funcionário administrativo que na localidade for encarregado de fazer a entrega do imposto indígena naquelas recebedorias de Fazenda. Para este efeito, os chefes das estâncias aduaneiras entregarão as importâncias cobradas e as guias a elas respeitantes àquele funcionário mediante recibo provisório, que lhe será devolvido logo que ele apresente na casa fiscal os competentes recibos.
 
-###### Art. 701.º Os chefes das estâncias aduaneiras poderão encarregar um funcionário dos quadros técnico ou auxiliar aduaneiros que preste serviço na respectiva estância aduaneira da cobrança dos rendimentos nela liquidados, cuja arrecadação ficará, no entanto, a cargo e à responsabilidade daqueles chefes.
+Art. 701.º Os chefes das estâncias aduaneiras poderão encarregar um funcionário dos quadros técnico ou auxiliar aduaneiros que preste serviço na respectiva estância aduaneira da cobrança dos rendimentos nela liquidados, cuja arrecadação ficará, no entanto, a cargo e à responsabilidade daqueles chefes.
 
 ### CAPÍTULO VII — Dos serviços da fiscalização aduaneira
 
 #### SECÇÃO I — Disposições prévias
 
-###### Art. 702.º A fiscalização aduaneira é superiormente orientada pelas autoridades aduaneiras, estando a sua execução a carga da Guarda Fiscal, à qual competem, além das atribuições prescritas no artigo 208.º e neste capítulo, as dos artigos 20.º e 21.º do [Decreto n.º 33531](https://diariodarepublica.pt/dr/detalhe/decreto/33531-1944-272441), de 21 de Fevereiro de 1944, e do Contencioso Aduaneiro do Ultramar.
+Art. 702.º A fiscalização aduaneira é superiormente orientada pelas autoridades aduaneiras, estando a sua execução a carga da Guarda Fiscal, à qual competem, além das atribuições prescritas no artigo 208.º e neste capítulo, as dos artigos 20.º e 21.º do [Decreto n.º 33531](https://diariodarepublica.pt/dr/detalhe/decreto/33531-1944-272441), de 21 de Fevereiro de 1944, e do Contencioso Aduaneiro do Ultramar.
 
-###### Art. 703.º A fiscalização aduaneira subdivide-se em:
+Art. 703.º A fiscalização aduaneira subdivide-se em:
 
 a) Fiscalização terrestre, compreendendo a polícia e vigilância exercidas no exterior dos edifícios aludidos no artigo anterior e dos depósitos ou armazéns de regime livre, nas zonas fiscais da fronteira terrestre, do litoral e dos caminhos de ferro e nos aeródromos e aeroportos;
 
@@ -4866,17 +4978,17 @@ c) Fiscalização aérea, compreendendo a polícia e vigilância aéreas exercid
 
 § único. Relativamente às embarcações que naveguem nos rios limítrofes, a fiscalização só poderá intervir quando aquelas estejam em contacto com a terra ou tão próximas que se possa prontamente entrar a bordo.
 
-###### Art. 704.º Para o cabal desempenho dos serviços de fiscalização terrestre, marítima, fluvial e aérea mencionados neste estatuto serão fornecidos à alfândega as necessárias embarcações e outros meios de condução.
+Art. 704.º Para o cabal desempenho dos serviços de fiscalização terrestre, marítima, fluvial e aérea mencionados neste estatuto serão fornecidos à alfândega as necessárias embarcações e outros meios de condução.
 
-###### Art. 705.º Os directores das alfândegas e os chefes das estâncias aduaneiras poderão solicitar eventualmente das autoridades administrativas, marítimas, policiais ou militares o auxílio de que careçam para a execução de quaisquer diligências extraordinárias que devam ser levadas a efeito dentro da área da sua jurisdição, sempre que não seja possível realizá-las com os elementos de que disponham ou não seja possível conseguir esse auxílio das autoridades aduaneiras ou fiscais mais próximas do respectivo local onde devam realizar-se aquelas diligências ou ainda quando esse auxílio seja insuficiente.
+Art. 705.º Os directores das alfândegas e os chefes das estâncias aduaneiras poderão solicitar eventualmente das autoridades administrativas, marítimas, policiais ou militares o auxílio de que careçam para a execução de quaisquer diligências extraordinárias que devam ser levadas a efeito dentro da área da sua jurisdição, sempre que não seja possível realizá-las com os elementos de que disponham ou não seja possível conseguir esse auxílio das autoridades aduaneiras ou fiscais mais próximas do respectivo local onde devam realizar-se aquelas diligências ou ainda quando esse auxílio seja insuficiente.
 
-###### Art. 706.º Na zona fiscal da raia e na do litoral fora da sede das circunscrições aduaneiras, os serviços de repressão do contrabando e descaminho serão detalhados e dirigidos pelos chefes das estâncias aduaneiras, conforme as necessidades correntes, cumprindo aos comandos da Guarda Fiscal pôr à sua disposição as praças necessárias para a execução de tais serviços, salvo em caso de guerra ou noutras circunstâncias de emergência.
+Art. 706.º Na zona fiscal da raia e na do litoral fora da sede das circunscrições aduaneiras, os serviços de repressão do contrabando e descaminho serão detalhados e dirigidos pelos chefes das estâncias aduaneiras, conforme as necessidades correntes, cumprindo aos comandos da Guarda Fiscal pôr à sua disposição as praças necessárias para a execução de tais serviços, salvo em caso de guerra ou noutras circunstâncias de emergência.
 
 #### SECÇÃO II — Da fiscalização no interior dos edifícios aduaneiros
 
-###### Art. 707.º Sem embargo da fiscalização inerente ao pessoal técnico-aduaneiro, a fiscalização no interior das estâncias aduaneiras e suas dependências será exercida pela Guarda Fiscal, nos termos da subsecção I da secção imediata, salvo o disposto nos artigos seguintes.
+Art. 707.º Sem embargo da fiscalização inerente ao pessoal técnico-aduaneiro, a fiscalização no interior das estâncias aduaneiras e suas dependências será exercida pela Guarda Fiscal, nos termos da subsecção I da secção imediata, salvo o disposto nos artigos seguintes.
 
-###### Art. 708.º Quando o julguem conveniente e assim o autorize o director ou chefe provincial dos Serviços das Alfândegas, poderão os directores das alfândegas e chefes das estâncias aduaneiras requisitar praças da Guarda Fiscal para serviço especial de polícia e vigilância no interior dos edifícios das respectivas sedes e demais estâncias aduaneiras urbanas.
+Art. 708.º Quando o julguem conveniente e assim o autorize o director ou chefe provincial dos Serviços das Alfândegas, poderão os directores das alfândegas e chefes das estâncias aduaneiras requisitar praças da Guarda Fiscal para serviço especial de polícia e vigilância no interior dos edifícios das respectivas sedes e demais estâncias aduaneiras urbanas.
 
 § 1.º As requisições serão feitas pelos directores das alfândegas ao respectivo comando, podendo ser nominais sempre que os mesmos directores assim o entendam, para bem do serviço.
 
@@ -4884,21 +4996,21 @@ c) Fiscalização aérea, compreendendo a polícia e vigilância aéreas exercid
 
 § 3.º Além da substituição prescrita no corpo deste artigo, as praças serão mudadas frequentemente nas localidades onde existam estâncias aduaneiras urbanas.
 
-###### Art. 709.º Quer no respeitante às necessárias instruções, quer no respeitante à execução, o serviço especial de polícia e vigilância a que o artigo anterior se refere fica subordinado aos directores das alfândegas, por intermédio dos chefes da 1.ª secção.
+Art. 709.º Quer no respeitante às necessárias instruções, quer no respeitante à execução, o serviço especial de polícia e vigilância a que o artigo anterior se refere fica subordinado aos directores das alfândegas, por intermédio dos chefes da 1.ª secção.
 
 #### SECÇÃO III — Da fiscalização no exterior dos edifícios aduaneiros
 
 ##### SUBSECÇÃO I — Da fiscalização terrestre
 
-###### Art. 710.º A fiscalização terrestre será exercida pela Guarda Fiscal, devendo o exterior dos edifícios das estâncias aduaneiras e respectivas dependências, bem como o dos depósitos ou armazéns de regime livre, ser guardado permanentemente, sempre que os efectivos dos corpos da Guarda Fiscal o permitam.
+Art. 710.º A fiscalização terrestre será exercida pela Guarda Fiscal, devendo o exterior dos edifícios das estâncias aduaneiras e respectivas dependências, bem como o dos depósitos ou armazéns de regime livre, ser guardado permanentemente, sempre que os efectivos dos corpos da Guarda Fiscal o permitam.
 
 § único. As forças da Guarda Fiscal em serviço nas circunscrições aduaneiras executarão os serviços de polícia e vigilância de harmonia com a legislação aduaneira e as instruções transmitidas aos comandantes destas forças, nos termos deste estatuto e mais legislação vigente.
 
-###### Art. 711.º Nas zonas fiscais da raia e do litoral deverão realizar-se periòdicamente rondas, devendo conjugar-se aquele serviço, tanto quanto possível, com o das rondas marítimas.
+Art. 711.º Nas zonas fiscais da raia e do litoral deverão realizar-se periòdicamente rondas, devendo conjugar-se aquele serviço, tanto quanto possível, com o das rondas marítimas.
 
 § único. Quando as circunstâncias o aconselhem, poderá estabelecer-se um serviço especial de rondas ao longo das estradas de acesso às fronteiras terrestres, serviço que será regulado pelos directores ou chefes das estâncias aduaneiras em cuja área de jurisdição estejam situadas as estradas a fiscalizar, de acordo com os respectivos comandos da Guarda Fiscal, e de que será dado conhecimento à Direcção ou Repartição Provincial dos Serviços das Alfândegas e ao comandante do corpo da Guarda Fiscal da respectiva província, sem embargo do disposto na parte final do artigo 706.º
 
-###### Art. 712.º Compete aos comandantes da Guarda Fiscal dirigir, no seu pormenor, a execução dos serviços de fiscalização, de harmonia com as instruções recebidas das competentes autoridades aduaneiras.
+Art. 712.º Compete aos comandantes da Guarda Fiscal dirigir, no seu pormenor, a execução dos serviços de fiscalização, de harmonia com as instruções recebidas das competentes autoridades aduaneiras.
 
 § 1.º O disposto no corpo deste artigo não inibe os directores das alfândegas ou os chefes das estâncias aduaneiras, conforme os casos, de requisitarem aos respectivos comandantes as forças da Guarda Fiscal de que necessitem para quaisquer serviços extraordinários de polícia e vigilância.
 
@@ -4906,21 +5018,21 @@ c) Fiscalização aérea, compreendendo a polícia e vigilância aéreas exercid
 
 § 3.º Os preceitos dos parágrafos anteriores são extensivos aos inspectores dos serviços aduaneiros e outros funcionários técnico-aduaneiros incumbidos de qualquer missão especial.
 
-###### Art. 713.º Os comandantes das secções da Guarda Fiscal deverão remeter mensalmente aos directores das alfândegas, por intermédio do chefe da 1.ª secção, relatórios das ocorrências que se derem na execução dos serviços de polícia e vigilância, sem embargo de quaisquer factos extraordinários que convenha comunicar imediatamente.
+Art. 713.º Os comandantes das secções da Guarda Fiscal deverão remeter mensalmente aos directores das alfândegas, por intermédio do chefe da 1.ª secção, relatórios das ocorrências que se derem na execução dos serviços de polícia e vigilância, sem embargo de quaisquer factos extraordinários que convenha comunicar imediatamente.
 
 § único. Os aludidos relatórios serão enviados à Direcção ou Repartição Provincial dos Serviços das Alfândegas, com as observações que os directores das alfândegas entendam dever fazer-lhes.
 
-###### Art. 714.º Na fiscalização dos caminhos de ferro observar-se-ão os preceitos estabelecidos no artigo 732.º deste estatuto.
+Art. 714.º Na fiscalização dos caminhos de ferro observar-se-ão os preceitos estabelecidos no artigo 732.º deste estatuto.
 
-###### Art. 715.º Para efeitos da fiscalização terrestre, cada província é dividida nas zonas referidas no artigo 66.º deste estatuto.
+Art. 715.º Para efeitos da fiscalização terrestre, cada província é dividida nas zonas referidas no artigo 66.º deste estatuto.
 
-###### Art. 716.º Na província de Angola poderá o governador-geral estabelecer, se as circunstâncias o aconselharem e ouvidos o director provincial dos Serviços das Alfândegas e o comandante da Guarda Fiscal, zonas fiscalizadas nas regiões do interior da província que confinarem com as da bacia convencional do Zaire e da Portaria n.º 39, publicada em Luanda em 23 de Outubro de 1945.
+Art. 716.º Na província de Angola poderá o governador-geral estabelecer, se as circunstâncias o aconselharem e ouvidos o director provincial dos Serviços das Alfândegas e o comandante da Guarda Fiscal, zonas fiscalizadas nas regiões do interior da província que confinarem com as da bacia convencional do Zaire e da Portaria n.º 39, publicada em Luanda em 23 de Outubro de 1945.
 
 ##### SUBSECÇÃO II — Da fiscalização marítima e fluvial
 
-###### Art. 717.º Os serviços de fiscalização nos portos, rios, enseadas e ancoradouros serão dirigidos, nas sedes das circunscrições e nas delegações marítimas, exclusivamente pelo pessoal do quadro aduaneiro, segundo as ordens expedidas pelos respectivos directores, por intermédio da 1.ª secção das alfândegas.
+Art. 717.º Os serviços de fiscalização nos portos, rios, enseadas e ancoradouros serão dirigidos, nas sedes das circunscrições e nas delegações marítimas, exclusivamente pelo pessoal do quadro aduaneiro, segundo as ordens expedidas pelos respectivos directores, por intermédio da 1.ª secção das alfândegas.
 
-###### Art. 718.º A fiscalização marítima e fluvial será exercida:
+Art. 718.º A fiscalização marítima e fluvial será exercida:
 
 a) Nos portos, enseadas, ancoradouros e rios, pela Guarda Fiscal, nos termos da secção antecedente, salvo o disposto nos artigos seguintes;
 
@@ -4928,27 +5040,27 @@ b) Na zona marítima de respeito, pelos serviços da marinha da província ou ou
 
 § único. Aos serviços de fiscalização aludidos na alínea b) deste artigo é extensivo, em matéria de fiscalização aduaneira, o disposto nos artigos 710.º e seguintes para a Guarda Fiscal, na parte aplicável.
 
-###### Art. 719.º O serviço de rondas para polícia e vigilância dos portos, enseadas, ancoradouros e rios será exercido por funcionários técnico-aduaneiros, auxiliados pelo pessoal dos serviços marítimo e fluvial e, quando se julgue oportuno, também por praças da Guarda Fiscal, requisitadas nos termos da secção anterior, devendo efectuar-se de harmonia com a legislação aduaneira e as instruções dadas pelos directores das alfândegas, sem embargo do disposto na parte final do artigo 706.º
+Art. 719.º O serviço de rondas para polícia e vigilância dos portos, enseadas, ancoradouros e rios será exercido por funcionários técnico-aduaneiros, auxiliados pelo pessoal dos serviços marítimo e fluvial e, quando se julgue oportuno, também por praças da Guarda Fiscal, requisitadas nos termos da secção anterior, devendo efectuar-se de harmonia com a legislação aduaneira e as instruções dadas pelos directores das alfândegas, sem embargo do disposto na parte final do artigo 706.º
 
-###### Art. 720.º Os funcionários técnico-aduaneiros desempenharão o serviço de rondas, sempre que seja possível, por escala para este fim organizada pelo chefe da 1.ª secção, na sede das alfândegas, e pelos chefes das estâncias aduaneiras, nos outros casos.
+Art. 720.º Os funcionários técnico-aduaneiros desempenharão o serviço de rondas, sempre que seja possível, por escala para este fim organizada pelo chefe da 1.ª secção, na sede das alfândegas, e pelos chefes das estâncias aduaneiras, nos outros casos.
 
 § único. Sempre que as necessidades do serviço o permitam, as horas de ronda poderão ser tomadas em conta no tempo de serviço a prestar na estância aduaneira.
 
-###### Art. 721.º A tripulação das embarcações será escalada pelo encarregado do serviço marítimo e fluvial, na sede da alfândega, e pelo chefe da respectiva estância aduaneira, nos demais casos, de harmonia com as competentes instruções dos directores das alfândegas.
+Art. 721.º A tripulação das embarcações será escalada pelo encarregado do serviço marítimo e fluvial, na sede da alfândega, e pelo chefe da respectiva estância aduaneira, nos demais casos, de harmonia com as competentes instruções dos directores das alfândegas.
 
-###### Art. 722.º As embarcações em serviço de fiscalização aduaneira usarão, como distintivo, um galhardete de cor verde, tendo, ao centro uma estrela branca, de cinco pontas, e nesta a letra A, de cor vermelha.
+Art. 722.º As embarcações em serviço de fiscalização aduaneira usarão, como distintivo, um galhardete de cor verde, tendo, ao centro uma estrela branca, de cinco pontas, e nesta a letra A, de cor vermelha.
 
 § único. O galhardete referido neste artigo só será usado quando houver a bordo um funcionário técnico-aduaneiro ou um oficial da Guarda Fiscal, não podendo, todavia, ser arvorado quando isso for prejudicial à fiscalização.
 
-###### Art. 723.º Se de qualquer diligência fiscal a bordo, por suspeita de fraude, resultar deterioração em embarcações ou em qualquer objecto nelas existentes, o Estado só será responsável pelos prejuízos quando se não prove a fraude.
+Art. 723.º Se de qualquer diligência fiscal a bordo, por suspeita de fraude, resultar deterioração em embarcações ou em qualquer objecto nelas existentes, o Estado só será responsável pelos prejuízos quando se não prove a fraude.
 
-###### Art. 724.º Quando se torne necessário selar quaisquer compartimentos, volumes ou objectos a bordo de embarcações, deverá do facto lavrar-se auto sumaríssimo, assinado pelo capitão ou mestre da embarcação e pelo funcionário incumbido deste serviço, que será arquivado uo processo da mesma embarcação.
+Art. 724.º Quando se torne necessário selar quaisquer compartimentos, volumes ou objectos a bordo de embarcações, deverá do facto lavrar-se auto sumaríssimo, assinado pelo capitão ou mestre da embarcação e pelo funcionário incumbido deste serviço, que será arquivado uo processo da mesma embarcação.
 
 § 1.º Os selos referidos neste artigo só poderão ser destruídos depois de a embarcação ter ultrapassado a zona marítima de respeito.
 
 § 2.º O rompimento dos selos fora das condições previstas no parágrafo anterior, não se provando que foi devido a causa de força maior, dará lugar a procedimento fiscal, independentemente de qualquer outro que possa caber ao responsável.
 
-###### Art. 725.º O registo das embarcações entradas nos portos será realizado tomando-se as seguintes indicações:
+Art. 725.º O registo das embarcações entradas nos portos será realizado tomando-se as seguintes indicações:
 
 a) Nome do navio e sua nacionalidade;
 
@@ -4972,25 +5084,25 @@ j) Nome do consignatário ou agente;
 
 l) Quaisquer outras exigidas pelas leis e regulamentos em vigor.
 
-###### Art. 726.º Nas sedes das alfândegas as visitas fiscais por ocasião da entrada ou da saída de navios serão efectuadas, em regra, pelo funcionário que estiver encarregado da fiscalização marítima e fluvial, podendo, no entanto, os directores das alfândegas designar outros funcionários para desempenharem essas funções, de harmonia com as conveniências do serviço.
+Art. 726.º Nas sedes das alfândegas as visitas fiscais por ocasião da entrada ou da saída de navios serão efectuadas, em regra, pelo funcionário que estiver encarregado da fiscalização marítima e fluvial, podendo, no entanto, os directores das alfândegas designar outros funcionários para desempenharem essas funções, de harmonia com as conveniências do serviço.
 
 Art 727.º A fiscalização nos portos, enseadas e ancoradouros será exercida, nas delegações e postos de despacho marítimos, segundo as ordens expedidas pelos respectivos directores, por intermédio da 1.ª secção das alfândegas.
 
-###### Art. 728.º A fiscalização dos portos será exercida, em regra, por meio de sentinelas de vigilância nas margens e nos locais de desembarque, na extensão julgada suficiente pelas direcções das alfândegas ou pelos chefes das estâncias aduaneiras a cuja área pertençam, quando os efectivos da Guarda Fiscal o permitam.
+Art. 728.º A fiscalização dos portos será exercida, em regra, por meio de sentinelas de vigilância nas margens e nos locais de desembarque, na extensão julgada suficiente pelas direcções das alfândegas ou pelos chefes das estâncias aduaneiras a cuja área pertençam, quando os efectivos da Guarda Fiscal o permitam.
 
 § 1.º A estas sentinelas cumpre receber a documentação das embarcações que transportem mercadorias e atraquem aos locais da descarga, vigiando que nenhuma mercadoria embarque ou desembarque sem ser presente a guia ou documento que autorize essas operações.
 
 § 2.º Também lhes cumpre autorizar o embarque ou desembarque de pequenos volumes de mão que não constituam artigos pròpriamente de comércio.
 
-###### Art. 729.º A vigilância sobre embarcações ancoradas e em trânsito poderá ser exercida pelas rondas realizadas por meio de embarcações fornecidas pela alfândega e tripuladas por pessoal da fiscalização marítima e fluvial, competindo-lhe verificar se todas as embarcações que transitam nos ancoradouros estão devidamente documentadas e seguem o trajecto indicado nessa documentação, procurando reprimir qualquer transgressão ou delito fiscal, fraudes ou subtracção de mercadorias.
+Art. 729.º A vigilância sobre embarcações ancoradas e em trânsito poderá ser exercida pelas rondas realizadas por meio de embarcações fornecidas pela alfândega e tripuladas por pessoal da fiscalização marítima e fluvial, competindo-lhe verificar se todas as embarcações que transitam nos ancoradouros estão devidamente documentadas e seguem o trajecto indicado nessa documentação, procurando reprimir qualquer transgressão ou delito fiscal, fraudes ou subtracção de mercadorias.
 
-###### Art. 730.º Todos os navios ancorados em que se realizem operações de carga ou descarga de mercadorias receberão a bordo agentes da fiscalização aduaneira para vigiar devidamente aquelas operações. Nos casos em que tais operações se não realizem, a fiscalização a bordo será estabelecida quando for necessária.
+Art. 730.º Todos os navios ancorados em que se realizem operações de carga ou descarga de mercadorias receberão a bordo agentes da fiscalização aduaneira para vigiar devidamente aquelas operações. Nos casos em que tais operações se não realizem, a fiscalização a bordo será estabelecida quando for necessária.
 
-###### Art. 731.º No caso de ocorrer algum sinistro em embarcações ou mercadorias sujeitas à acção fiscal, deve o pessoal da fiscalização aduaneira empregar os seus esforços para se efectuar o seu salvamento, participando superiormente o ocorrido.
+Art. 731.º No caso de ocorrer algum sinistro em embarcações ou mercadorias sujeitas à acção fiscal, deve o pessoal da fiscalização aduaneira empregar os seus esforços para se efectuar o seu salvamento, participando superiormente o ocorrido.
 
 ##### SUBSECÇÃO III — Da fiscalização nos caminhos de ferro
 
-###### Art. 732.º A fiscalização nos caminhos de ferro é exercida pela Guarda Fiscal, de harmonia com as condições seguintes:
+Art. 732.º A fiscalização nos caminhos de ferro é exercida pela Guarda Fiscal, de harmonia com as condições seguintes:
 
 1.º Nas estações, pela vigilância sobre as mercadorias em circulação, verificando se elas se encontram em situação legal;
 
@@ -5000,9 +5112,9 @@ Art 727.º A fiscalização nos portos, enseadas e ancoradouros será exercida, 
 
 ##### SUBSECÇÃO IV — Da fiscalização aérea
 
-###### Art. 733.º A fiscalização aérea será exercida, em regra, por aeronaves aduaneiras e, na sua falta, por aeronaves militares ou quaisquer outras pertencentes ao Estado, nos termos que oportunamente o Ministro do Ultramar vier a determinar.
+Art. 733.º A fiscalização aérea será exercida, em regra, por aeronaves aduaneiras e, na sua falta, por aeronaves militares ou quaisquer outras pertencentes ao Estado, nos termos que oportunamente o Ministro do Ultramar vier a determinar.
 
-###### Art. 734.º Nos aeródromos sujeitos à acção aduaneira a Guarda Fiscal exercerá vigilância sobre a chegada e saída de qualquer aeronave.
+Art. 734.º Nos aeródromos sujeitos à acção aduaneira a Guarda Fiscal exercerá vigilância sobre a chegada e saída de qualquer aeronave.
 
 § 1.º Nos casos de aterragem forçada fora dos aeródromos aduaneiros, compete aos agentes da fiscalização e, na sua falta, às autoridades policiais ou administrativas receber do comando da aeronave a devida justificação.
 
@@ -5016,9 +5128,9 @@ Art 727.º A fiscalização nos portos, enseadas e ancoradouros será exercida, 
 
 #### SECÇÃO I — Disposições comuns
 
-###### Art. 735.º Todas as mercadorias procedentes do exterior da província, quando estejam cativas de direitos ou de outros impostos cobrados pelas alfândegas, podem ser arrecadadas em armazéns ou depósitos especialmente destinados a esse fim, salvo as excepções consignadas neste estatuto, e ali permanecerem temporàriamente, até serem desembaraçadas da acção fiscal.
+Art. 735.º Todas as mercadorias procedentes do exterior da província, quando estejam cativas de direitos ou de outros impostos cobrados pelas alfândegas, podem ser arrecadadas em armazéns ou depósitos especialmente destinados a esse fim, salvo as excepções consignadas neste estatuto, e ali permanecerem temporàriamente, até serem desembaraçadas da acção fiscal.
 
-###### Art. 736.º Os armazéns ou depósitos a que se refere o artigo anterior são de regime aduaneiro ou livre.
+Art. 736.º Os armazéns ou depósitos a que se refere o artigo anterior são de regime aduaneiro ou livre.
 
 § 1.º São armazéns de regime aduaneiro:
 
@@ -5038,23 +5150,23 @@ a) Os armazéns gerais francos;
 
 b) As zonas francas.
 
-###### Art. 737.º Os armazéns de regime aduaneiro poderão ser constituídos por um ou mais edifícios contíguos ou separados, mas próximos uns dois outros, considerando-se, neste caso, cada edifício como uma parte do todo e podendo a respectiva escrituração ser comum.
+Art. 737.º Os armazéns de regime aduaneiro poderão ser constituídos por um ou mais edifícios contíguos ou separados, mas próximos uns dois outros, considerando-se, neste caso, cada edifício como uma parte do todo e podendo a respectiva escrituração ser comum.
 
 § único. Não poderão ter escrituração comum nem ser considerados como um só armazém abrangido pela mesma caução, os armazéns sob regimes aduaneiros diferentes, embora pertencendo ao mesmo proprietário, os quais deverão ter uma caução para cada modalidade de depósito, noas casos em que haja de ser exigida.
 
-###### Art. 738.º As disposições que por este estatuto regulam o estabelecimento e funcionamento de depósitos ou armazéns de qualquer espécie são extensivas, na parte aplicável, aos recintos anexos aos mesmos, quando sejam destinados a idênticos fins e se encontrem devidamente vedados.
+Art. 738.º As disposições que por este estatuto regulam o estabelecimento e funcionamento de depósitos ou armazéns de qualquer espécie são extensivas, na parte aplicável, aos recintos anexos aos mesmos, quando sejam destinados a idênticos fins e se encontrem devidamente vedados.
 
-###### Art. 739.º O estabelecimento de armazéns de regime aduaneiro é da competência dos directores das alfândegas, excepto quanto aos de trânsito, baldeação e especiais.
+Art. 739.º O estabelecimento de armazéns de regime aduaneiro é da competência dos directores das alfândegas, excepto quanto aos de trânsito, baldeação e especiais.
 
 § único. Só poderão estabelecer-se armazéns sob regime aduaneiro em localidades onde existam estâncias aduaneiras.
 
-###### Art. 740.º A concessão da licença para o estabelecimento de armazéns sob regime aduaneiro é cativa da taxa anual que estiver inscrita na respectiva tabela em vigor na província.
+Art. 740.º A concessão da licença para o estabelecimento de armazéns sob regime aduaneiro é cativa da taxa anual que estiver inscrita na respectiva tabela em vigor na província.
 
 § único. A taxa da licença mencionada no artigo anterior será estabelecida em função da capacidade dos respectivos armazéns.
 
-###### Art. 741.º Nos armazéns de regime aduaneiro, e salvo as excepções especialmente consignadas na lei, poderão ser arrecadadas mercadorias de qualquer espécie ou natureza, quer se encontrem acondicionadas em volumes, quer a granel.
+Art. 741.º Nos armazéns de regime aduaneiro, e salvo as excepções especialmente consignadas na lei, poderão ser arrecadadas mercadorias de qualquer espécie ou natureza, quer se encontrem acondicionadas em volumes, quer a granel.
 
-###### Art. 742.º Nos armazéns de que tratam as alíneas a) a c) do § 1.º do artigo 736.º é proibido:
+Art. 742.º Nos armazéns de que tratam as alíneas a) a c) do § 1.º do artigo 736.º é proibido:
 
 a) Mudar o envoltório ou vasilhame das mercadorias, salvo nos casos seguintes:
 
@@ -5080,37 +5192,37 @@ b) Transformar, por qualquer modo que seja, a natureza das mercadorias, com exce
 
 § 2.º Os governadores poderão também autorizar, em casos especiais e ouvido o director ou chefe provincial dos Serviços das Alfândegas, que não sejam aplicadas as proibições de que tratam as alíneas a) e b) deste artigo às mercadorias depositadas nos armazéns referidos nas alíneas a) a c) do § 1.º do artigo 736.º deste estatuto.
 
-###### Art. 743.º Nos armazéns reais e nos de regime aduaneiro não poderá dar entrada volume algum arrombado que não se apresente devidamente selado, nem qualquer volume em evidente estado de deterioração, sem que essa circunstância seja devidamente assinalada no respectivo bilhete de despacho ou documento de entrada.
+Art. 743.º Nos armazéns reais e nos de regime aduaneiro não poderá dar entrada volume algum arrombado que não se apresente devidamente selado, nem qualquer volume em evidente estado de deterioração, sem que essa circunstância seja devidamente assinalada no respectivo bilhete de despacho ou documento de entrada.
 
-###### Art. 744.º Às faltas de prévia declaração acerca de os volumes conterem substâncias inflamáveis explosivas ou perigosas, entrados nos armazéns reais ou em outros de regime aduaneiro, com excepção das especiais, são aplicáveis as disposições do § 2.º do artigo 52.º do Contencioso Aduaneiro do Ultramar.
+Art. 744.º Às faltas de prévia declaração acerca de os volumes conterem substâncias inflamáveis explosivas ou perigosas, entrados nos armazéns reais ou em outros de regime aduaneiro, com excepção das especiais, são aplicáveis as disposições do § 2.º do artigo 52.º do Contencioso Aduaneiro do Ultramar.
 
-###### Art. 745.º A entrada e permanência nos armazéns de regime aduaneiro de mercadorias de natureza perigosa, explosiva ou inflamável e ainda as de natureza incómoda ou tóxica para o público, quando esses armazéns sejam situados dentro da área das povoações, carecem de autorização não só das alfândegas como também das autoridades competentes cuja interferência nestes assuntos esteja determinada por lei.
+Art. 745.º A entrada e permanência nos armazéns de regime aduaneiro de mercadorias de natureza perigosa, explosiva ou inflamável e ainda as de natureza incómoda ou tóxica para o público, quando esses armazéns sejam situados dentro da área das povoações, carecem de autorização não só das alfândegas como também das autoridades competentes cuja interferência nestes assuntos esteja determinada por lei.
 
 § único. As mercadorias referidas no corpo do artigo ficarão, quando for autorizada a sua entrada nos mencionados armazéns, em instalações separadas das restantes mercadorias.
 
-###### Art. 746.º Os donos dos armazéns sob regime aduaneiro são obrigados a proceder à arrumação das mercadorias depositadas nos mesmos armazéns, fazendo a separação destas segundo as contramarcas ou bilhetes de despacho de entrada a que as mesmas digam respeito, e sempre por forma que a conferência destas com a respectiva escrituração possa efectuar-se ràpidamente.
+Art. 746.º Os donos dos armazéns sob regime aduaneiro são obrigados a proceder à arrumação das mercadorias depositadas nos mesmos armazéns, fazendo a separação destas segundo as contramarcas ou bilhetes de despacho de entrada a que as mesmas digam respeito, e sempre por forma que a conferência destas com a respectiva escrituração possa efectuar-se ràpidamente.
 
 § único. Independentemente do disposto no corpo deste artigo, deverão os donos dos armazéns colocar em cada um dos volumes recolhidos nos mesmos, ou em cada lote, quando se trate de volumes semelhantes na forma e no conteúdo e pertencentes ao mesmo bilhete de entrada, a indicação da contramarca do navio que os transportou e o número de ordem do bilhete por meio do qual deram entrada no referido armazém.
 
-###### Art. 747.º Quando a extensão dos armazéns o permita ou quando estes sejam constituídos por mais de um edifício, telheiro ou vedação, deverão os mesmos armazéns ser divididos em secções e subsecções, de harmonia com as instruções dadas pela alfândega, as quais serão numeradas ou designadas por letras, fazendo-se menção, nos respectivos livros de escrituração, da secção ou subsecção em que se encontram as mercadorias.
+Art. 747.º Quando a extensão dos armazéns o permita ou quando estes sejam constituídos por mais de um edifício, telheiro ou vedação, deverão os mesmos armazéns ser divididos em secções e subsecções, de harmonia com as instruções dadas pela alfândega, as quais serão numeradas ou designadas por letras, fazendo-se menção, nos respectivos livros de escrituração, da secção ou subsecção em que se encontram as mercadorias.
 
-###### Art. 748.º É expressamente proibido proceder à abertura de quaisquer volumes depositados nos armazéns sob regime aduaneiro, bem como substituir ou alterar marcas, invólucros ou a forma de acondicionamento das mercadorias contidas nos mesmos volumes, sem prévia autorização do chefe da 1.ª Secção ou da respectiva estância aduaneira e sem a presença do pessoal aduaneiro ou da Guarda Fiscal que estiver encarregado da fiscalização do serviço requerido, com excepção dos armazéns afiançados, dos de trânsito e baldeação e dos especiais, onde tais operações podem ser realizadas sem a presença daquele pessoal.
+Art. 748.º É expressamente proibido proceder à abertura de quaisquer volumes depositados nos armazéns sob regime aduaneiro, bem como substituir ou alterar marcas, invólucros ou a forma de acondicionamento das mercadorias contidas nos mesmos volumes, sem prévia autorização do chefe da 1.ª Secção ou da respectiva estância aduaneira e sem a presença do pessoal aduaneiro ou da Guarda Fiscal que estiver encarregado da fiscalização do serviço requerido, com excepção dos armazéns afiançados, dos de trânsito e baldeação e dos especiais, onde tais operações podem ser realizadas sem a presença daquele pessoal.
 
-###### Art. 749.º Quando, por efeito de avaria ou derrame, houver necessidade de substituir invólucros ou taras, transbordar ou beneficiar mercadorias ou proceder a qualquer outra operação semelhante, deverá ser requerida a necessária autorização ao chefe da 1.ª secção da alfândega ou da respectiva estância aduaneira.
+Art. 749.º Quando, por efeito de avaria ou derrame, houver necessidade de substituir invólucros ou taras, transbordar ou beneficiar mercadorias ou proceder a qualquer outra operação semelhante, deverá ser requerida a necessária autorização ao chefe da 1.ª secção da alfândega ou da respectiva estância aduaneira.
 
 § único. Quando houver lugar à substituição de invólucros ou de taras, deverão os novos receber os mesmos números e marcas dos antigos.
 
-###### Art. 750.º O chefe da 1.ª secção ou os das estâncias aduaneiras poderão também permitir que dentro dos armazéns sob regime aduaneiro se proceda à divisão ou separação das mercadorias contidas em cada volume, ou à embalagem de mercadorias a granel existentes nos mesmos armazéns, quando as razões apresentadas sejam atendíveis e não haja inconveniente para o serviço nem prejuízo para a Fazenda Nacional.
+Art. 750.º O chefe da 1.ª secção ou os das estâncias aduaneiras poderão também permitir que dentro dos armazéns sob regime aduaneiro se proceda à divisão ou separação das mercadorias contidas em cada volume, ou à embalagem de mercadorias a granel existentes nos mesmos armazéns, quando as razões apresentadas sejam atendíveis e não haja inconveniente para o serviço nem prejuízo para a Fazenda Nacional.
 
 § 1.º Os volumes obtidos pela divisão ou embalagem a que se refere este artigo receberão a mesma marca do volume a que pertençam as mercadorias cuja embalagem se tenha efectuado, os quais serão também numerados.
 
 § 2.º Nos livros de escrituração dos respectivos armazéns serão anotados os serviços efectuados nos termos deste artigo e feita a necessária menção de quaisquer alterações havidas.
 
-###### Art. 751.º Quando, por motivo de reexportação ou transferência de parte das mercadorias contidas em volumes depositados em armazéns aduaneiros pròpriamente ditos ou com o fim de dar melhor acondicionamento às respectivas mercadorias, tenham os mesmos de ser abertos para se realizar a extracção, deverá interessado fazer o respectivo pedido, que apresentará com o título de propriedade, ao chefe da 1.ª secção ou ao da estância aduaneira, conforme os casos, para ser devidamente autorizado, com pagamento das imposições que forem devidas e fazendo-se as devidas anotações nos livros de contas correntes.
+Art. 751.º Quando, por motivo de reexportação ou transferência de parte das mercadorias contidas em volumes depositados em armazéns aduaneiros pròpriamente ditos ou com o fim de dar melhor acondicionamento às respectivas mercadorias, tenham os mesmos de ser abertos para se realizar a extracção, deverá interessado fazer o respectivo pedido, que apresentará com o título de propriedade, ao chefe da 1.ª secção ou ao da estância aduaneira, conforme os casos, para ser devidamente autorizado, com pagamento das imposições que forem devidas e fazendo-se as devidas anotações nos livros de contas correntes.
 
 § único. Para os efeitos designados no corpo deste artigo será nomeado funcionário assistente e indicado o lugar em que o serviço deve realizar-se, salvo no caso de se tratar de armazéns afiançados ou dos de trânsito.
 
-###### Art. 752.º O funcionário assistente, depois de verificar se o peso do volume confere com o manifesto, anotará o peso da nova tara empregada, o peso bruto e o conteúdo com que ficou cada um dos volumes, a qualidade do novo volume e as marcas ou dizeres de letreiros que, com marca distintiva, nele tenham sido inscritos.
+Art. 752.º O funcionário assistente, depois de verificar se o peso do volume confere com o manifesto, anotará o peso da nova tara empregada, o peso bruto e o conteúdo com que ficou cada um dos volumes, a qualidade do novo volume e as marcas ou dizeres de letreiros que, com marca distintiva, nele tenham sido inscritos.
 
 § 1.º Os volumes serão selados e neles marcados os pesos brutos.
 
@@ -5118,51 +5230,51 @@ b) Transformar, por qualquer modo que seja, a natureza das mercadorias, com exce
 
 § 3.º O fiel de armazém anotará na respectiva escrita o desdobramento do volume, as características dos novos, os pesos brutos e o conteúdo de todos e o respectivo número de receita.
 
-###### Art. 753.º São isentos de direitos as taras e os invólucros das mercadorias que forem objecto da divisão ou separação de que trata o corpo do artigo anterior, no caso de virem a ser importados para consumo, quando não tenham valor comercial para direitos ou quando sejam originários das províncias ultramarinas ou hajam sido nelas nacionalizados.
+Art. 753.º São isentos de direitos as taras e os invólucros das mercadorias que forem objecto da divisão ou separação de que trata o corpo do artigo anterior, no caso de virem a ser importados para consumo, quando não tenham valor comercial para direitos ou quando sejam originários das províncias ultramarinas ou hajam sido nelas nacionalizados.
 
-###### Art. 754.º Quando nos armazéns de regime aduaneiro, com excepção dos especiais, se encontrem mercadorias em mau estado, cuja permanência possa tornar-se prejudicial para a saúde pública ou para as restantes mercadorias, deverá o director da alfândega ou o chefe da estância aduaneira requisitar o exame das mesmas pela autoridade sanitária, procedendo-se nos termos estabelecidos para tais casos, conforme o parecer daquela autoridade. Se as mercadorias forem inutilizadas, lavrar-se-á o competente auto, que ficará arquivado na 1.ª secção ou na estância aduaneira, conforme os casos.
+Art. 754.º Quando nos armazéns de regime aduaneiro, com excepção dos especiais, se encontrem mercadorias em mau estado, cuja permanência possa tornar-se prejudicial para a saúde pública ou para as restantes mercadorias, deverá o director da alfândega ou o chefe da estância aduaneira requisitar o exame das mesmas pela autoridade sanitária, procedendo-se nos termos estabelecidos para tais casos, conforme o parecer daquela autoridade. Se as mercadorias forem inutilizadas, lavrar-se-á o competente auto, que ficará arquivado na 1.ª secção ou na estância aduaneira, conforme os casos.
 
 § 1.º Quando se trate de mercadorias depositadas em zonas francas, armazéns, gerais francos ou armazéns especiais, ficam competindo às respectivas administrações as atribuições fixadas no corpo deste artigo, cumprindo-lhes ainda comunicar às alfândegas o resultado de tais exames, para efeitos do destino a dar às mercadorias que hajam sido encontradas em mau estado.
 
 § 2.º Aos donos ou consignatários das mercadorias parcialmente avariadas é sempre permitido separar a parte boa da parte danificada, nos termos prescritos nas instruções preliminares das pautas e demais legislação aplicável.
 
-###### Art. 755.º O chefe da 1.ª secção ou os das estâncias aduaneiras, conforme os casos, poderão permitir que, dos volumes de mercadorias depositados em qualquer dos armazéns mencionados no artigo 736.º, se proceda, por uma só vez, à extracção de amostras, nos termos e quantidades prescritos nas instruções preliminares das pautas e demais legislação em vigor.
+Art. 755.º O chefe da 1.ª secção ou os das estâncias aduaneiras, conforme os casos, poderão permitir que, dos volumes de mercadorias depositados em qualquer dos armazéns mencionados no artigo 736.º, se proceda, por uma só vez, à extracção de amostras, nos termos e quantidades prescritos nas instruções preliminares das pautas e demais legislação em vigor.
 
 § único. A extracção de amostras de mercadorias depositadas nos armazéns mencionados no § 1.º do artigo 736.º será realizada na presença de funcionários aduaneiros ou de agentes da fiscalização aduaneira, salvo nos casos de se tratar de armazéns afiançados ou de livre de trânsito.
 
-###### Art. 756.º As mercadorias depositadas nos armazéns sob regime aduaneiro que tenham atingido os prazos máximos de armazenagem fixados pela legislação vigente serão removidas para o armazém de leilões, salvo nos casos em que esteja determinado outro procedimento.
+Art. 756.º As mercadorias depositadas nos armazéns sob regime aduaneiro que tenham atingido os prazos máximos de armazenagem fixados pela legislação vigente serão removidas para o armazém de leilões, salvo nos casos em que esteja determinado outro procedimento.
 
 § único. Para as mercadorias que hajam sido removidas para os armazéns de leilões nos termos do corpo deste artigo não será, em regra, permitido efectuar o novo despacho de entrada para armazém de regime aduaneiro, salvo as excepções consignadas nas leis.
 
-###### Art. 757.º As mercadorias saídas dos armazéns de regime aduaneiro, com despacho de reexportação, trânsito ou transferência, mas que, por qualquer motivo, não tenham seguido ao seu destino, poderão voltar novamente para esses armazéns sem necessidade de processamento de novo bilhete de despacho de entrada, devendo, no entanto, fazer-se as devidas anotações nos respectivos livros de escrituração. Na contagem do prazo de armazenagem de tais mercadorias será levado em conta o tempo de armazenagem que já possuíam anteriormente, servindo para a sua escrituração no livro de contas correntes os elementos constantes da fórmula de despacho que tiver sido processado para qualquer daquelas modalidades de despacho.
+Art. 757.º As mercadorias saídas dos armazéns de regime aduaneiro, com despacho de reexportação, trânsito ou transferência, mas que, por qualquer motivo, não tenham seguido ao seu destino, poderão voltar novamente para esses armazéns sem necessidade de processamento de novo bilhete de despacho de entrada, devendo, no entanto, fazer-se as devidas anotações nos respectivos livros de escrituração. Na contagem do prazo de armazenagem de tais mercadorias será levado em conta o tempo de armazenagem que já possuíam anteriormente, servindo para a sua escrituração no livro de contas correntes os elementos constantes da fórmula de despacho que tiver sido processado para qualquer daquelas modalidades de despacho.
 
-###### Art. 758.º As mercadorias que tenham sido transferidas por diversas vezes de uns armazéns para outros não poderão permanecer neles por período de tempo superior, na totalidade, ao que estiver estabelecido por este estatuto para a modalidade de depósito que tiver maior prazo.
+Art. 758.º As mercadorias que tenham sido transferidas por diversas vezes de uns armazéns para outros não poderão permanecer neles por período de tempo superior, na totalidade, ao que estiver estabelecido por este estatuto para a modalidade de depósito que tiver maior prazo.
 
-###### Art. 759.º As alfândegas exigirão sempre a apresentação dos títulos de propriedade das mercadorias que saiam dos armazéns reais para despacho, assim como daquelas que entrem para os armazéns referidos nas alíneas b) e c) do § 1.º do artigo 736.º e nas alíneas f), g) e h) do artigo 821.º É, porém, facultativa a apresentação de tais documentos no caso da entrada para os armazéns mencionados na alínea d) do § 1.º do artigo 736.º e na alínea i) do artigo 821.º, sendo da responsabilidade das empresas proprietárias ou que explorem os referidos armazéns quaisquer reclamações sobre a propriedade das mercadorias neles depositadas.
+Art. 759.º As alfândegas exigirão sempre a apresentação dos títulos de propriedade das mercadorias que saiam dos armazéns reais para despacho, assim como daquelas que entrem para os armazéns referidos nas alíneas b) e c) do § 1.º do artigo 736.º e nas alíneas f), g) e h) do artigo 821.º É, porém, facultativa a apresentação de tais documentos no caso da entrada para os armazéns mencionados na alínea d) do § 1.º do artigo 736.º e na alínea i) do artigo 821.º, sendo da responsabilidade das empresas proprietárias ou que explorem os referidos armazéns quaisquer reclamações sobre a propriedade das mercadorias neles depositadas.
 
 § único. Na transmissão da propriedade das mercadorias depositadas em armazéns sob regime aduaneiro observar-se-ão os preceitos estabelecidos na legislação reguladora da transmissão e endosso dos títulos de propriedade, devendo o bilhete de despacho de saída ser processado em nome do dono ou consignatário mencionado no bilhete de entrada no armazém, fazendo-se naquele bilhete as devidas anotações se a transmissão da propriedade não constar de documento apropriado, que lhe será junto.
 
-###### Art. 760.º Os donos dos armazéns de regime aduaneiro são sempre responsáveis para com a alfândega pelo pagamento de direitos e mais imposições devidos pelas mercadorias neles arrecadadas e, bem assim, por quaisquer multas que lhes sejam impostas, nos termos da legislação vigente, quando se verifique a sua saída dos aludidos armazéns sem prévio processamento do respectivo bilhete de despacho e seu pagamento ou prestação de garantia.
+Art. 760.º Os donos dos armazéns de regime aduaneiro são sempre responsáveis para com a alfândega pelo pagamento de direitos e mais imposições devidos pelas mercadorias neles arrecadadas e, bem assim, por quaisquer multas que lhes sejam impostas, nos termos da legislação vigente, quando se verifique a sua saída dos aludidos armazéns sem prévio processamento do respectivo bilhete de despacho e seu pagamento ou prestação de garantia.
 
 § único. Os donos destes armazéns são ainda responsáveis para com a alfândega pelos direitos e imposições devidos pelas mercadorias roubadas ou furtadas dos mesmos armazéns e pelos daquelas que neles se deteriorem, salvo, quanto a esta última hipótese, quando se verifiquem as circunstâncias prescritas na primeira parte do artigo 795.º deste estatuto.
 
-###### Art. 761.º A reincidência na saída de mercadorias dos armazéns de regime aduaneiro sem prévio processamento do respectivo bilhete de despacho e pagamento dos direitos e outras imposições devidos, ou a sua garantia, poderá ser punida com o encerramento dos respectivos armazéns, além do pagamento da respectiva multa e demais imposições.
+Art. 761.º A reincidência na saída de mercadorias dos armazéns de regime aduaneiro sem prévio processamento do respectivo bilhete de despacho e pagamento dos direitos e outras imposições devidos, ou a sua garantia, poderá ser punida com o encerramento dos respectivos armazéns, além do pagamento da respectiva multa e demais imposições.
 
 § único. Os proprietários de armazéns de regime aduaneiro que tenham sido obrigados ao encerramento dos mesmos, por efeito de processo fiscal, ficarão inibidos, durante o tempo do seu encerramento, de submeter a despacho de entrada para armazéns sob o mesmo regime as mercadorias que lhes venham consignadas ou que sejam sua propriedade.
 
-###### Art. 762.º Aos proprietários de armazéns de regime aduaneiro que tenham sido condenados em processo de contencioso fiscal ao seu encerramento não será concedida licença para a sua reabertura ou para o estabelecimento de novos armazéns sob o mesmo regime, salvo autorização especial do governador, que só a poderá conceder depois de ter decorrido um período mínimo de três anos sobre aquela condenação.
+Art. 762.º Aos proprietários de armazéns de regime aduaneiro que tenham sido condenados em processo de contencioso fiscal ao seu encerramento não será concedida licença para a sua reabertura ou para o estabelecimento de novos armazéns sob o mesmo regime, salvo autorização especial do governador, que só a poderá conceder depois de ter decorrido um período mínimo de três anos sobre aquela condenação.
 
-###### Art. 763.º Quando o proprietário de um armazém de regime aduaneiro pretenda cancelar a garantia prestada em relação ao mesmo, deverá apresentar requerimento ao chefe da 1.ª secção da alfândega ou ao da estância aduaneira, conforme os casos, o qual nomeará um funcionário para proceder a imediata vistoria, a fim de verificar se ainda se encontram no mesmo quaisquer mercadorias cativas de direitos ou de outros impostos cobrados pelas alfândegas, e informar, em face dos elementos existentes nos respectivos livros de escrituração em poder da alfândega, se a responsabilidade do aludido proprietário se encontra liquidada para com a Fazenda Nacional.
+Art. 763.º Quando o proprietário de um armazém de regime aduaneiro pretenda cancelar a garantia prestada em relação ao mesmo, deverá apresentar requerimento ao chefe da 1.ª secção da alfândega ou ao da estância aduaneira, conforme os casos, o qual nomeará um funcionário para proceder a imediata vistoria, a fim de verificar se ainda se encontram no mesmo quaisquer mercadorias cativas de direitos ou de outros impostos cobrados pelas alfândegas, e informar, em face dos elementos existentes nos respectivos livros de escrituração em poder da alfândega, se a responsabilidade do aludido proprietário se encontra liquidada para com a Fazenda Nacional.
 
-###### Art. 764.º O início dos prazos de armazenagem é fixado:
+Art. 764.º O início dos prazos de armazenagem é fixado:
 
 a) Para os armazéns reais, especiais especificados na alínea a) do artigo 821.º, gerais francos, desde a data do início da descarga do meio de transporte para o respectivo armazém;
 
 b) Para os restantes armazéns, desde a data da verificação ou da conferência de entrada, conforme os casos.
 
-###### Art. 765.º Os directores das alfândegas ou os chefes das estâncias aduaneiras poderão reduzir os prazos de armazenagem das mercadorias depositadas nos armazéns reais sempre que o seu estado de conservação não permita a sua permanência neles ou quando tal demora lhes possa ocasionar diminuição ou perda total do valor, notificando dessa decisão os interessados e fixando-lhes um prazo para o seu levantamento, nos termos legais.
+Art. 765.º Os directores das alfândegas ou os chefes das estâncias aduaneiras poderão reduzir os prazos de armazenagem das mercadorias depositadas nos armazéns reais sempre que o seu estado de conservação não permita a sua permanência neles ou quando tal demora lhes possa ocasionar diminuição ou perda total do valor, notificando dessa decisão os interessados e fixando-lhes um prazo para o seu levantamento, nos termos legais.
 
-###### Art. 766.º A saída das mercadorias dos armazéns ou depósitos de regime aduaneiro ou livre pode realizar-se, depois de satisfeitas todas as condições gerais ou especiais prescritas nos regulamentos aduaneiros para:
+Art. 766.º A saída das mercadorias dos armazéns ou depósitos de regime aduaneiro ou livre pode realizar-se, depois de satisfeitas todas as condições gerais ou especiais prescritas nos regulamentos aduaneiros para:
 
 a) Importação;
 
@@ -5180,49 +5292,49 @@ g) Circulação livre, por meio de guia, entre portos das províncias ultramarin
 
 #### SECÇÃO II — Dos armazéns reais ou aduaneiros pròpriamente ditos
 
-###### Art. 767.º As mercadorias procedentes do exterior da província, qualquer que seja o meio de transporte que hajam utilizado, entrarão para os armazéns reais ou para os armazéns especiais especificados na alínea a) do artigo 821.º ou ainda para os armazéns gerais francos ou zonas francas, onde ficarão depositadas até serem submetidas a qualquer modalidade de despacho compatível com o respectivo regime de depósito, se não houverem sido submetidas a despacho de entrada para outros armazéns sob regime aduaneiro.
+Art. 767.º As mercadorias procedentes do exterior da província, qualquer que seja o meio de transporte que hajam utilizado, entrarão para os armazéns reais ou para os armazéns especiais especificados na alínea a) do artigo 821.º ou ainda para os armazéns gerais francos ou zonas francas, onde ficarão depositadas até serem submetidas a qualquer modalidade de despacho compatível com o respectivo regime de depósito, se não houverem sido submetidas a despacho de entrada para outros armazéns sob regime aduaneiro.
 
 § 1.º Não são abrangidas pela disposição do corpo deste artigo as mercadorias excluídas do regime de depósito em armazéns reais, e, bem assim, aquelas que hajam sido submetidas a despacho imediato.
 
 § 2.º O governador publicará em portaria a lista das mercadorias excluídas da armazenagem real.
 
-###### Art. 768.º As mercadorias transportadas pela via marítima e descarregadas para os cais privativos das alfândegas ou outros locais de despacho, ou directamente para os armazéns aduaneiros, deverão ser arrumadas convenientemente pelo pessoal dependente dos capitães dos navios que as tenham conduzido, ou seus agentes, e conforme a indicação do conferente do navio ou de pessoal dele dependente, salvo nos casos em que a descarga e remoção estejam a cargo do pessoal do serviço do tráfego da alfândega ou de empresa que com ela tenha contrato especial para a realização desse serviço.
+Art. 768.º As mercadorias transportadas pela via marítima e descarregadas para os cais privativos das alfândegas ou outros locais de despacho, ou directamente para os armazéns aduaneiros, deverão ser arrumadas convenientemente pelo pessoal dependente dos capitães dos navios que as tenham conduzido, ou seus agentes, e conforme a indicação do conferente do navio ou de pessoal dele dependente, salvo nos casos em que a descarga e remoção estejam a cargo do pessoal do serviço do tráfego da alfândega ou de empresa que com ela tenha contrato especial para a realização desse serviço.
 
 § único. A arrumação das mercadorias transportadas pelo caminho de ferro ou por outros meios de transporte será realizada pelo pessoal pertencente ou dependente das respectivas entidades exploradoras, nos casos em que a alfândega não disponha de pessoal próprio.
 
-###### Art. 769.º A remoção de mercadorias dentro dos armazéns aduaneiros e destes para as casas de despacho será efectuada, quando a alfândega não disponha de pessoal para o serviço de tráfego, ou no caso de este serviço não estar adjudicado a qualquer empresa por meio de contrato especial, pelo pessoal dependente dos respectivos donos ou consignatários.
+Art. 769.º A remoção de mercadorias dentro dos armazéns aduaneiros e destes para as casas de despacho será efectuada, quando a alfândega não disponha de pessoal para o serviço de tráfego, ou no caso de este serviço não estar adjudicado a qualquer empresa por meio de contrato especial, pelo pessoal dependente dos respectivos donos ou consignatários.
 
 § único. A movimentação das mercadorias nos casos prescritos no corpo deste artigo será efectuada a pedido dos interessados, apresentado por meio de requerimento ou no bilhete de despacho ou ainda em guia ou bilhete especial, conforme os casos.
 
-###### Art. 770.º Os serviços dos armazéns reais estarão a cargo de fiéis de armazém, que serão responsáveis pela guarda de todos os volumes que neles estiverem depositados, pela sua arrumação e conferência de entrada e de saída, não podendo permitir a saída de volume algum sem que em seu poder fique documento legal que a autorize.
+Art. 770.º Os serviços dos armazéns reais estarão a cargo de fiéis de armazém, que serão responsáveis pela guarda de todos os volumes que neles estiverem depositados, pela sua arrumação e conferência de entrada e de saída, não podendo permitir a saída de volume algum sem que em seu poder fique documento legal que a autorize.
 
-###### Art. 771.º Todo o pessoal do tráfego pertencente ou não aos quadros aduaneiros, distribuído para serviço nos armazéns aduaneiros ficará sujeito ao respectivo fiel de armazém, a quem deve obediência disciplinar.
+Art. 771.º Todo o pessoal do tráfego pertencente ou não aos quadros aduaneiros, distribuído para serviço nos armazéns aduaneiros ficará sujeito ao respectivo fiel de armazém, a quem deve obediência disciplinar.
 
 § único. Ao pessoal estranho aos quadros do tráfego aduaneiro que haja desobedecido às ordens legítimas dos fiéis dos armazéns ou de outro pessoal aduaneiro não será permitida a entrada nas diversas dependências das alfândegas, independentemente de qualquer procedimento criminal a que o caso possa dar lugar.
 
-###### Art. 772.º Não será permitida a entrada de pessoa alguma nos armazéns reais sem prévio conhecimento do respectivo fiel.
+Art. 772.º Não será permitida a entrada de pessoa alguma nos armazéns reais sem prévio conhecimento do respectivo fiel.
 
-###### Art. 773.º A distribuição das mercadorias pelos armazéns aduaneiros será feita em conformidade com as ordens do chefe da 1.ª secção da alfândega ou da estância aduaneira, tendo-se em consideração a natureza, peso e acondicionamento das mesmas mercadorias e as condições dos armazéns.
+Art. 773.º A distribuição das mercadorias pelos armazéns aduaneiros será feita em conformidade com as ordens do chefe da 1.ª secção da alfândega ou da estância aduaneira, tendo-se em consideração a natureza, peso e acondicionamento das mesmas mercadorias e as condições dos armazéns.
 
-###### Art. 774.º A conferência dos volumes entrados nos armazéns reais será realizada pelos respectivos fiéis em vista das folhas de descarga ou de armazém ou ainda das cópias dos manifestos de carga, conforme os casos, depois do que registarão as entradas no livro de movimento.
+Art. 774.º A conferência dos volumes entrados nos armazéns reais será realizada pelos respectivos fiéis em vista das folhas de descarga ou de armazém ou ainda das cópias dos manifestos de carga, conforme os casos, depois do que registarão as entradas no livro de movimento.
 
-###### Art. 775.º Os volumes entrados nos armazéns aduaneiros que sejam provenientes de outros armazéns serão escriturados depois de conferidos em face do que constar das guias de remessa ou de transferência passadas por estes últimos.
+Art. 775.º Os volumes entrados nos armazéns aduaneiros que sejam provenientes de outros armazéns serão escriturados depois de conferidos em face do que constar das guias de remessa ou de transferência passadas por estes últimos.
 
 § 1.º Estas guias, que serão juntas por contramarcas e colocadas em livro de carcela, constituirão os registos de entrada nos armazéns.
 
 § 2.º Os fiéis de armazém descarregarão os volumes no livro de movimento do armazém, na ocasião da saída, pelos números de ordem escritos nos documentos em que a mesma saída lhes for ordenada.
 
-###### Art. 776.º Os armazéns aduaneiros deverão estar abertos desde o começo até ao fim das operações de descarga, não podendo ficar nem demorar-se no trajecto volume algum sem ser recolhido no armazém ao terminar do serviço.
+Art. 776.º Os armazéns aduaneiros deverão estar abertos desde o começo até ao fim das operações de descarga, não podendo ficar nem demorar-se no trajecto volume algum sem ser recolhido no armazém ao terminar do serviço.
 
 § 1.º À abertura e encerramento devem assistir os respectivos fiéis, ficando as chaves encerradas em cofres para esse fim destinados.
 
 § 2.º Na falta do fiel de armazém ou de empregado autorizado a substituí-lo, não poderá ser aberto armazém algum, salvo no caso de força maior.
 
-###### Art. 777.º Quaisquer volumes que descarreguem com sinais de arrombamento ou que nesse estado dêem entrada nos armazéns reais deverão ser imediatamente pesados e selados, nas condições prescritas no artigo seguinte.
+Art. 777.º Quaisquer volumes que descarreguem com sinais de arrombamento ou que nesse estado dêem entrada nos armazéns reais deverão ser imediatamente pesados e selados, nas condições prescritas no artigo seguinte.
 
 § único. Quando estes volumes sejam posteriormente transferidos para outros armazéns sob regime aduaneiro, deverá constar do respectivo bilhete de transferência o estado em que se encontram e a verificação do seu conteúdo.
 
-###### Art. 778.º Os volumes que apresentem exteriormente vestígios de avaria, de abertura ou de arrombamento serão separados no próprio navio e sòmente descarregados no fim de cada dia.
+Art. 778.º Os volumes que apresentem exteriormente vestígios de avaria, de abertura ou de arrombamento serão separados no próprio navio e sòmente descarregados no fim de cada dia.
 
 § 1.º Os referidos volumes seguirão para os armazéns a que se destinam com fiscalização e acompanhados de folha de descarga em que só eles sejam mencionados, e, uma vez aí chegados, serão consertados, pesados e selados.
 
@@ -5236,47 +5348,47 @@ O transporte desde o navio até aos armazéns reais, especiais mencionados na al
 
 Em caso de desacordo, a praça da Guarda Fiscal em serviço a bordo, se a houver, não permitirá a descarga e fará participação da ocorrência.
 
-###### Art. 779.º Todas as mercadorias, incluindo as bagagens dos passageiros e dos tripulantes, poderão conservar-se nos armazéns aduaneiros durante o período máximo estabelecido pela legislação vigente na província, salvo as excepções consignadas neste estatuto.
+Art. 779.º Todas as mercadorias, incluindo as bagagens dos passageiros e dos tripulantes, poderão conservar-se nos armazéns aduaneiros durante o período máximo estabelecido pela legislação vigente na província, salvo as excepções consignadas neste estatuto.
 
-###### Art. 780.º As mercadorias arrestadas pelas alfândegas e que se encontrem depositadas nos armazéns aduaneiros seguem o regime geral de armazenagem que lhes for aplicável.
+Art. 780.º As mercadorias arrestadas pelas alfândegas e que se encontrem depositadas nos armazéns aduaneiros seguem o regime geral de armazenagem que lhes for aplicável.
 
-###### Art. 781.º Quando existam nos armazéns reais volumes em risco de estrago, com derramamento ou qualquer avaria, o respectivo fiel participá-lo-á ao chefe da 1.ª secção ou ao chefe da estância aduaneira, conforme os casos, devendo estes funcionários mandar ouvir os interessados acerca das providências que lhes convenha serem adoptadas.
+Art. 781.º Quando existam nos armazéns reais volumes em risco de estrago, com derramamento ou qualquer avaria, o respectivo fiel participá-lo-á ao chefe da 1.ª secção ou ao chefe da estância aduaneira, conforme os casos, devendo estes funcionários mandar ouvir os interessados acerca das providências que lhes convenha serem adoptadas.
 
 § 1.º Não sendo conhecidos os interessados, os funcionários referidos na parte final do corpo deste artigo mandarão processar bilhete de cobrança das taxas de tráfego que forem devidas pelas operações realizadas, a que será junta a participação, e ordenarão as cautelas que forem julgadas convenientes, podendo mudar-se os envoltórios em condições idênticas às prescritas nos artigos 750.º a 752.º deste estatuto.
 
 § 2.º No bilhete a que o parágrafo anterior se refere, cujo pagamento ficará suspenso até serem conhecidos os interessados, serão indicados os actos realizados, idênticamente ao disposto nos artigos 750.º a 752.º, devendo as transcrições no título de propriedade efectuar-se só depois de pago o bilhete.
 
-###### Art. 782.º Nas sedes das alfândegas e nas estâncias aduaneiras que forem designadas pelo director ou chefe provincial dos Serviços das Alfândegas serão arrecadados em armazéns próprios denominados «de leilões», os géneros e mercadorias destinados à venda, quer provenientes dos seus armazéns, quer das outras estâncias aduaneiras ou de armazéns sob regime aduaneiro ou livre.
+Art. 782.º Nas sedes das alfândegas e nas estâncias aduaneiras que forem designadas pelo director ou chefe provincial dos Serviços das Alfândegas serão arrecadados em armazéns próprios denominados «de leilões», os géneros e mercadorias destinados à venda, quer provenientes dos seus armazéns, quer das outras estâncias aduaneiras ou de armazéns sob regime aduaneiro ou livre.
 
-###### Art. 783.º Todas as remessas de mercadorias para os armazéns de leilões ou de reentrados serão acompanhadas de guia, em triplicado, onde se mencionem as contramarcas, marcas, números, quantidades e qualidades dos volumes, a designação genérica das mercadorias, seus pesos, valor, procedência e origem, além de quaisquer outros elementos constantes da documentação que tiver acompanhado a mercadoria, número de ordem do respectivo bilhete de despacho, devendo cada guia ser referida a uma só remessa da mesma contramarca ou a um só bilhete de despacho, conforme os casos.
+Art. 783.º Todas as remessas de mercadorias para os armazéns de leilões ou de reentrados serão acompanhadas de guia, em triplicado, onde se mencionem as contramarcas, marcas, números, quantidades e qualidades dos volumes, a designação genérica das mercadorias, seus pesos, valor, procedência e origem, além de quaisquer outros elementos constantes da documentação que tiver acompanhado a mercadoria, número de ordem do respectivo bilhete de despacho, devendo cada guia ser referida a uma só remessa da mesma contramarca ou a um só bilhete de despacho, conforme os casos.
 
 § único. Cumpre aos fiéis de armazém devolver aos remetentes uma das guias com o competente recibo.
 
-###### Art. 784.º Os volumes entrados nos armazéns de leilões serão conferidos na sua entrada pelo respectivo fiel, em face da documentação mencionada no artigo anterior.
+Art. 784.º Os volumes entrados nos armazéns de leilões serão conferidos na sua entrada pelo respectivo fiel, em face da documentação mencionada no artigo anterior.
 
-###### Art. 785.º As mercadorias apreendidas ou arrestadas serão escrituradas no acto da entrada nos armazéns de leilões em registo separado, nos termos prescritos nos artigos 690.º e 691.º deste estatuto.
+Art. 785.º As mercadorias apreendidas ou arrestadas serão escrituradas no acto da entrada nos armazéns de leilões em registo separado, nos termos prescritos nos artigos 690.º e 691.º deste estatuto.
 
-###### Art. 786.º Os géneros e mercadorias provenientes de armazéns aduaneiros que hajam sido submetidos a qualquer modalidade de despacho dentro das estâncias aduaneiras ou noutros locais fiscalizados reentrarão para armazém próprio denominado de «reentrados», quando tenham excedido os prazos marcados nos regulamentos aduaneiros para o cumprimento das diversas formalidades do despacho.
+Art. 786.º Os géneros e mercadorias provenientes de armazéns aduaneiros que hajam sido submetidos a qualquer modalidade de despacho dentro das estâncias aduaneiras ou noutros locais fiscalizados reentrarão para armazém próprio denominado de «reentrados», quando tenham excedido os prazos marcados nos regulamentos aduaneiros para o cumprimento das diversas formalidades do despacho.
 
-###### Art. 787.º O fiel de armazém de reentrados, ao receber os volumes, procederá à sua conferência pela guia que, nos termos deste estatuto, os acompanhe e passará recibo no duplicado e triplicado, que serão remetidos ao encarregado da respectiva subsecção.
+Art. 787.º O fiel de armazém de reentrados, ao receber os volumes, procederá à sua conferência pela guia que, nos termos deste estatuto, os acompanhe e passará recibo no duplicado e triplicado, que serão remetidos ao encarregado da respectiva subsecção.
 
 § 1.º O chefe da 1.ª secção ou da estância aduaneira mandará arquivar o duplicado e entregará ao interessado o triplicado, mediante recibo passado no duplicado, o qual servirá de título de propriedade.
 
 § 2.º O citado fiel escriturará em livro próprio a entrada das mercadorias, mencionando também o destino das mesmas quando saírem do armazém.
 
-###### Art. 788.º As mercadorias depositadas nos armazéns reais são cativas de taxas de armazenagem, as quais serão contadas desde o primeiro dia da sua entrada nesses armazéns.
+Art. 788.º As mercadorias depositadas nos armazéns reais são cativas de taxas de armazenagem, as quais serão contadas desde o primeiro dia da sua entrada nesses armazéns.
 
 § único. O pagamento da taxa a que se refere o corpo deste artigo abrange igualmente as mercadorias arrecadadas ou depositadas nos recintos, dependências ou vedações pertencentes às estâncias aduaneiras, quando não hajam sido despachadas nos prazos legais.
 
-###### Art. 789.º Na contagem do prazo de armazenagem de mercadorias reentradas levar-se-á em conta o tempo de armazenagem que já possuíam antes da reentrada.
+Art. 789.º Na contagem do prazo de armazenagem de mercadorias reentradas levar-se-á em conta o tempo de armazenagem que já possuíam antes da reentrada.
 
-###### Art. 790.º Nas sedes das alfândegas, sempre que a capacidade das respectivas instalações o permita, deverão os armazéns de leilões e de reentrados funcionar em edifício próprio. Quando se não verifique esta circunstância, poderão os referidos armazéns funcionar no mesmo edifício onde estiverem os restantes armazéns aduaneiros, devendo, contudo, a arrumação das mercadorias ser feita em recinto separado, com escrituração própria.
+Art. 790.º Nas sedes das alfândegas, sempre que a capacidade das respectivas instalações o permita, deverão os armazéns de leilões e de reentrados funcionar em edifício próprio. Quando se não verifique esta circunstância, poderão os referidos armazéns funcionar no mesmo edifício onde estiverem os restantes armazéns aduaneiros, devendo, contudo, a arrumação das mercadorias ser feita em recinto separado, com escrituração própria.
 
 § único. Nas restantes estâncias aduaneiras da província, o mesmo edifício servirá, em regra, para o funcionamento de todos os armazéns, observada a condição da parte final do corpo deste artigo.
 
 #### SECÇÃO III — Doa armazéns alfandegados e afiançados
 
-###### Art. 791.º Os armazéns alfandegados são estabelecidos em edifícios propostos pelos donos das mercadorias e aprovados pela alfândega, depois de devidamente vistoriados, devendo obedecer às seguintes condições:
+Art. 791.º Os armazéns alfandegados são estabelecidos em edifícios propostos pelos donos das mercadorias e aprovados pela alfândega, depois de devidamente vistoriados, devendo obedecer às seguintes condições:
 
 a) Serem construídos com materiais de grande resistência e possuírem as condições necessárias ao estabelecimento de um conveniente isolamento fiscal;
 
@@ -5288,107 +5400,107 @@ d) As janelas, frestas, clarabóias e outras aberturas existentes no mesmo edif�
 
 § único. As alfândegas têm a faculdade de, sempre que o entendam conveniente, fazer substituir, à custa dos donos dos armazéns, as chaves a que se refere a alínea c) deste artigo.
 
-###### Art. 792.º O governador publicará em portaria, e conforme proposta da Direcção ou Repartição Provincial dos Serviços das Alfândegas, a lista das mercadorias que não poderão ser arrecadadas em armazéns alfandegados. Esta lista poderá ser alterada à medida que as conveniências dos serviços aduaneiros e do comércio o exijam.
+Art. 792.º O governador publicará em portaria, e conforme proposta da Direcção ou Repartição Provincial dos Serviços das Alfândegas, a lista das mercadorias que não poderão ser arrecadadas em armazéns alfandegados. Esta lista poderá ser alterada à medida que as conveniências dos serviços aduaneiros e do comércio o exijam.
 
-###### Art. 793.º As mercadorias destinadas a armazéns alfandegados serão sempre acompanhadas de fiscalização, devendo proceder-se de igual forma para as que saírem dos mesmos armazéns com qualquer destino que não seja a importação para consumo.
+Art. 793.º As mercadorias destinadas a armazéns alfandegados serão sempre acompanhadas de fiscalização, devendo proceder-se de igual forma para as que saírem dos mesmos armazéns com qualquer destino que não seja a importação para consumo.
 
-###### Art. 794.º A abertura e fecho dos armazéns alfandegados será efectuada na presença dos respectivos donos ou seus representantes e dos funcionários dos quadros das alfândegas nomeados para assistirem às operações aduaneiras a realizar nos aludidos armazéns. Estes devem ficar sob fiscalização enquanto se mantiverem abertos.
+Art. 794.º A abertura e fecho dos armazéns alfandegados será efectuada na presença dos respectivos donos ou seus representantes e dos funcionários dos quadros das alfândegas nomeados para assistirem às operações aduaneiras a realizar nos aludidos armazéns. Estes devem ficar sob fiscalização enquanto se mantiverem abertos.
 
 § 1.º Para os fins indicados no corpo deste artigo deverão os donos dos armazéns alfandegados requisitar à 1.ª secção, por escrito, a comparência do pessoal aduaneiro e à Guarda Fiscal as praças para a vigilância dos armazéns, indicando com precisão o dia e a hora em que a sua presença se torne necessária.
 
 § 2.º Pela prestação dos serviços a que se refere o corpo deste artigo são devidos os emolumentos fixados na respectiva tabela.
 
-###### Art. 795.º Em caso de sinistro ocorrido em armazéns alfandegados, as mercadorias destruídas não serão passíveis de direitos, caso se prove, em processo devidamente organizado e documentado, que o sinistro foi casual e que os direitos das mercadorias se não encontravam seguros contra o sinistro que as destruiu; às mercadorias simplesmente avariadas são aplicáveis as disposições da legislação em vigor sobre avarias, observadas as formalidades indicadas neste artigo para as mercadorias destruídas.
+Art. 795.º Em caso de sinistro ocorrido em armazéns alfandegados, as mercadorias destruídas não serão passíveis de direitos, caso se prove, em processo devidamente organizado e documentado, que o sinistro foi casual e que os direitos das mercadorias se não encontravam seguros contra o sinistro que as destruiu; às mercadorias simplesmente avariadas são aplicáveis as disposições da legislação em vigor sobre avarias, observadas as formalidades indicadas neste artigo para as mercadorias destruídas.
 
-###### Art. 796.º Os armazéns afiançados são constituídos em edifícios ou recintos propostos pelos donos ou consignatários das mercadorias e aprovados pelas alfândegas, com prévia garantia aos direitos e outras imposições devidas, podendo neles ser arrecadadas mercadorias de diferentes qualidades, contanto que sejam de fácil distinção.
+Art. 796.º Os armazéns afiançados são constituídos em edifícios ou recintos propostos pelos donos ou consignatários das mercadorias e aprovados pelas alfândegas, com prévia garantia aos direitos e outras imposições devidas, podendo neles ser arrecadadas mercadorias de diferentes qualidades, contanto que sejam de fácil distinção.
 
 § único. A garantia de que trata o corpo deste artigo pode, quando revestir a modalidade da fiança, ser prestada anualmente em regime de conta corrente.
 
-###### Art. 797.º O prazo máximo de armazenagem para as mercadorias depositadas em armazéns alfandegados e afiançados é de dois anos, podendo ser prorrogado por mais dois períodos de seis meses cada um, por despacho do governador, em casos devidamente justificados.
+Art. 797.º O prazo máximo de armazenagem para as mercadorias depositadas em armazéns alfandegados e afiançados é de dois anos, podendo ser prorrogado por mais dois períodos de seis meses cada um, por despacho do governador, em casos devidamente justificados.
 
-###### Art. 798.º As mercadorias submetidas a despacho de entrada para armazéns alfandegados ou afiançados serão verificadas e reverificadas, conforme os preceitos estabelecidos para o despacho de importação para consumo, e a responsabilidade dos donos ou proprietários dos respectivos armazéns para com a alfândega será determinada com base nessa verificação em relação às mercadorias neles depositadas.
+Art. 798.º As mercadorias submetidas a despacho de entrada para armazéns alfandegados ou afiançados serão verificadas e reverificadas, conforme os preceitos estabelecidos para o despacho de importação para consumo, e a responsabilidade dos donos ou proprietários dos respectivos armazéns para com a alfândega será determinada com base nessa verificação em relação às mercadorias neles depositadas.
 
-###### Art. 799.º A saída de mercadorias dos armazéns afiançados para consumo realizar-se-á depois de ter sido pago o competente bilhete de despacho e sem qualquer intervenção da alfândega, limitando-se o verificador e o reverificador em serviço na respectiva estância aduaneira a conferir os elementos constantes da respectiva fórmula de despacho.
+Art. 799.º A saída de mercadorias dos armazéns afiançados para consumo realizar-se-á depois de ter sido pago o competente bilhete de despacho e sem qualquer intervenção da alfândega, limitando-se o verificador e o reverificador em serviço na respectiva estância aduaneira a conferir os elementos constantes da respectiva fórmula de despacho.
 
 § único. Na saída dos armazéns alfandegados observar-se-ão os preceitos do corpo deste artigo, mas os respectivos volumes só serão, em regra, sujeitos a conferência, se não apresentarem vestígios de arrombamento, caso em que será obrigatória a verificação e a reverificação.
 
-###### Art. 800.º O movimento de entradas e saídas de mercadorias dos armazéns alfandegados e afiançados será escriturado diàriamente, na respectiva estância aduaneira, em livros de contas correntes.
+Art. 800.º O movimento de entradas e saídas de mercadorias dos armazéns alfandegados e afiançados será escriturado diàriamente, na respectiva estância aduaneira, em livros de contas correntes.
 
-###### Art. 801.º Nos livros de contas correntes dos armazéns alfandegados e afiançados serão lançados, pelo funcionário encarregado de tal serviço na 1.ª secção, todos os bilhetes de entrada nos mesmos armazéns, com a discriminação das especificações pautais neles descritas, assim como todos os bilhetes de despacho relativos à saída das respectivas mercadorias, com idêntica discriminação.
+Art. 801.º Nos livros de contas correntes dos armazéns alfandegados e afiançados serão lançados, pelo funcionário encarregado de tal serviço na 1.ª secção, todos os bilhetes de entrada nos mesmos armazéns, com a discriminação das especificações pautais neles descritas, assim como todos os bilhetes de despacho relativos à saída das respectivas mercadorias, com idêntica discriminação.
 
 § único. Todos os bilhetes de despacho, bem como os livros das contas correntes depois de encerrados, serão remetidos à subsecção de conferência geral, nos termos deste estatuto.
 
-###### Art. 802.º Nos armazéns alfandegados e afiançados apenas será permitida a entrada de mercadorias pertencentes aos seus proprietários, ou que a estes estejam consignadas, e, em casos especiais e com autorização do governador, sob proposta do director ou chefe provincial dos Serviços das Alfândegas, quando pertencentes a outros importadores, tornando-se extensivas, por essa circunstância, àqueles proprietários as obrigações prescritas no corpo do artigo 808.º deste estatuto.
+Art. 802.º Nos armazéns alfandegados e afiançados apenas será permitida a entrada de mercadorias pertencentes aos seus proprietários, ou que a estes estejam consignadas, e, em casos especiais e com autorização do governador, sob proposta do director ou chefe provincial dos Serviços das Alfândegas, quando pertencentes a outros importadores, tornando-se extensivas, por essa circunstância, àqueles proprietários as obrigações prescritas no corpo do artigo 808.º deste estatuto.
 
-###### Art. 803.º A fiscalização dos armazéns alfandegados e afiançados realizar-se-á pela verificação de entrada, por meio de varejos e pelo exame dos livros de contas correntes.
+Art. 803.º A fiscalização dos armazéns alfandegados e afiançados realizar-se-á pela verificação de entrada, por meio de varejos e pelo exame dos livros de contas correntes.
 
 #### SECÇÃO IV — Dos armazéns de trânsito e de baldeação
 
-###### Art. 804.º Os armazéns de trânsito destinam-se essencialmente a arrecadar mercadorias em regime de trânsito, podendo, no entanto, ser-lhes permitido o despacho para consumo.
+Art. 804.º Os armazéns de trânsito destinam-se essencialmente a arrecadar mercadorias em regime de trânsito, podendo, no entanto, ser-lhes permitido o despacho para consumo.
 
-###### Art. 805.º Os armazéns de trânsito são constituídos com autorização do governador da província e mediante prévia caução que constará dos respectivos despacho e alvará, em edifícios pertencentes a corporações, associações, empresas de transportes terrestres ou marítimas ou a transitários que explorem o ramo do comércio de trânsito, mediante prévia caução.
+Art. 805.º Os armazéns de trânsito são constituídos com autorização do governador da província e mediante prévia caução que constará dos respectivos despacho e alvará, em edifícios pertencentes a corporações, associações, empresas de transportes terrestres ou marítimas ou a transitários que explorem o ramo do comércio de trânsito, mediante prévia caução.
 
-###### Art. 806.º As entidades possuidoras dos armazéns referidos no artigo anterior podem recolher neles mercadorias pertencentes a outros donos ou consignatários, ficando, porém, desde logo e para todos os efeitos, obrigados perante a alfândega como se elas fossem suas, devendo assinar declaração nesse sentido e passar o respectivo recibo, em devida forma, no documento da entrada em armazém.
+Art. 806.º As entidades possuidoras dos armazéns referidos no artigo anterior podem recolher neles mercadorias pertencentes a outros donos ou consignatários, ficando, porém, desde logo e para todos os efeitos, obrigados perante a alfândega como se elas fossem suas, devendo assinar declaração nesse sentido e passar o respectivo recibo, em devida forma, no documento da entrada em armazém.
 
 § único. Podem recolher-se nestes armazéns mercadorias destinadas à importação para consumo, as quais serão arrumadas em instalações separadas das destinadas a trânsito.
 
-###### Art. 807.º O montante da caução exigida nos termos do artigo 805.º será fixado para as entidades que explorem o ramo de comércio de trânsito, entre 100000$00 e 500000$00, tendo-se em atenção a capacidade dos armazéns, as espécies de mercadorias mais movimentadas e o seu destino mais comum, e poderá, desde que os interesses e as conveniências da Fazenda Nacional o justifiquem, ser reforçada, sob proposta do director ou chefe provincial dos Serviços das Alfândegas, baseada em informação do director da respectiva circunscrição aduaneira, para além do limite referido neste artigo, por despacho do governador da província.
+Art. 807.º O montante da caução exigida nos termos do artigo 805.º será fixado para as entidades que explorem o ramo de comércio de trânsito, entre 100000$00 e 500000$00, tendo-se em atenção a capacidade dos armazéns, as espécies de mercadorias mais movimentadas e o seu destino mais comum, e poderá, desde que os interesses e as conveniências da Fazenda Nacional o justifiquem, ser reforçada, sob proposta do director ou chefe provincial dos Serviços das Alfândegas, baseada em informação do director da respectiva circunscrição aduaneira, para além do limite referido neste artigo, por despacho do governador da província.
 
-###### Art. 808.º As entidades que explorem o ramo de comércio de trânsito respondem integralmente pelas suas obrigações para com as alfândegas até ao valor dos direitos de importação e mais imposições de que estejam cativas as mercadorias depositadas nos seus armazéns, além das multas que lhes vierem a ser impostas por quaisquer faltas.
+Art. 808.º As entidades que explorem o ramo de comércio de trânsito respondem integralmente pelas suas obrigações para com as alfândegas até ao valor dos direitos de importação e mais imposições de que estejam cativas as mercadorias depositadas nos seus armazéns, além das multas que lhes vierem a ser impostas por quaisquer faltas.
 
 § 1.º Além da caução referida no corpo do artigo, prestarão as empresas transitarias na respectiva alfândega um termo de responsabilidade permanente, pelo qual se comprometem a cumprir todas as suas obrigações para com a alfândega e a pagar o que for devido.
 
 § 2.º Nos casos de a caução mencionada no corpo do artigo ter sido prestada por meio de termo de fiança, deverá este ser renovado anualmente.
 
-###### Art. 809.º O prazo de depósito nos armazéns de trânsito referidos no artigo 805.º é de dois anos, prorrogável por mais dois períodos de seis meses cada um, por motivos justificados.
+Art. 809.º O prazo de depósito nos armazéns de trânsito referidos no artigo 805.º é de dois anos, prorrogável por mais dois períodos de seis meses cada um, por motivos justificados.
 
-###### Art. 810.º As mercadorias depositadas nos armazéns de trânsito referidos no artigo 805.º não podem, em regra, ter outro destino que não seja o de trânsito ou de transferência para outra espécie de armazém, salvo no caso de se tratar de mercadorias nas condições prescritas no § único do artigo 806.º, as quais podem ter despacho de importação para consumo.
+Art. 810.º As mercadorias depositadas nos armazéns de trânsito referidos no artigo 805.º não podem, em regra, ter outro destino que não seja o de trânsito ou de transferência para outra espécie de armazém, salvo no caso de se tratar de mercadorias nas condições prescritas no § único do artigo 806.º, as quais podem ter despacho de importação para consumo.
 
-###### Art. 811.º As mercadorias destinadas a baldeação e as procedentes do exterior que se destinem a transbordo para outros portos da província poderão ser recolhidas em armazéns denominados «de baldeação» pertencentes às empresas de navegação marítima ou aérea, mediante prévia caução.
+Art. 811.º As mercadorias destinadas a baldeação e as procedentes do exterior que se destinem a transbordo para outros portos da província poderão ser recolhidas em armazéns denominados «de baldeação» pertencentes às empresas de navegação marítima ou aérea, mediante prévia caução.
 
 § 1.º Poderão também ser recolhidas nos armazéns de baldeação as mercadorias nacionais ou nacionalizadas procedentes de outros portos da província quando venham acompanhadas de guia de exportação com destino ao exterior e tenham de mudar de transporte no respectivo porto, devendo, porém, ser-lhes dada arrumação em separado das mencionadas no corpo deste artigo.
 
 § 2.º O estabelecimento de armazéns de baldeação será autorizado por despacho do director ou chefe provincial dos Serviços das Alfândegas, que nesse despacho fixará, por proposta do director da alfândega ou do chefe da estância aduaneira, o montante da caução referida no corpo do artigo.
 
-###### Art. 812.º O prazo de depósito nos armazéns mencionados no artigo anterior não deverá exceder 60 dias, podendo ser prorrogado por mais dois períodos iguais pelo director ou chefe, provincial dos Serviços das Alfândegas, por motivos justificados. Para além dos prazos fixados neste artigo e no artigo 809.º só poderão ser autorizadas prorrogações por despacho do governador, não podendo estas exceder 2 anos.
+Art. 812.º O prazo de depósito nos armazéns mencionados no artigo anterior não deverá exceder 60 dias, podendo ser prorrogado por mais dois períodos iguais pelo director ou chefe, provincial dos Serviços das Alfândegas, por motivos justificados. Para além dos prazos fixados neste artigo e no artigo 809.º só poderão ser autorizadas prorrogações por despacho do governador, não podendo estas exceder 2 anos.
 
-###### Art. 813.º As mercadorias darão entrada nos armazéns de trânsito, referidos no artigo 805.º, por meio meio de bilhete especial, sendo escrituradas em livro de contas correntes, tanto por parte da alfândega como do seu proprietário. Os volumes serão conferidos ou verificados por ocasião da sua entrada no armazém por funcionários técnico-aduaneiros em presença daqueles bilhetes no caso de armazéns pertencentes a empresas transitárias.
+Art. 813.º As mercadorias darão entrada nos armazéns de trânsito, referidos no artigo 805.º, por meio meio de bilhete especial, sendo escrituradas em livro de contas correntes, tanto por parte da alfândega como do seu proprietário. Os volumes serão conferidos ou verificados por ocasião da sua entrada no armazém por funcionários técnico-aduaneiros em presença daqueles bilhetes no caso de armazéns pertencentes a empresas transitárias.
 
 § 1.º Nos armazéns de trânsito referidos no artigo 805.º e nos de baldeação, as mercadorias darão entrada por meio de folha de descarga ou de armazém ou ainda por meio de cópia do manifesto.
 
 § 2.º Poderão ser aplicadas às mercadorias entradas nos armazéns referidos na parte final do corpo do artigo as disposições do parágrafo anterior, conforme as condições que vierem a ser estabelecidas em despacho do governador.
 
-###### Art. 814.º Os modelos dos livros de contas correntes para a escrituração do movimento de entrada e de saída de mercadorias dos armazéns de trânsito e de baldeação serão estabelecidos pela Direcção ou Repartição Provincial dos Serviços das Alfândegas, adoptando-se nessa escrituração os preceitos que por ela tiverem sido determinados em instruções publicadas em ordem de serviço.
+Art. 814.º Os modelos dos livros de contas correntes para a escrituração do movimento de entrada e de saída de mercadorias dos armazéns de trânsito e de baldeação serão estabelecidos pela Direcção ou Repartição Provincial dos Serviços das Alfândegas, adoptando-se nessa escrituração os preceitos que por ela tiverem sido determinados em instruções publicadas em ordem de serviço.
 
 § único. A escrituração do movimento de mercadorias nos armazéns de trânsito pertencentes a empresas ferroviárias será feita nos livros dos modelos estabelecidos pelas respectivas direcções ou administrações.
 
-###### Art. 815.º A escrituração do movimento dos armazéns mencionados no corpo do artigo anterior deverá ser feita tanto nos livros pertencentes à alfândega como naqueles que estejam a cargo do dono do armazém e terá por base os elementos constantes das folhas de descarga ou de armazém, dos bilhetes de despacho ou de outros documentos respeitantes à entrada e saída de mercadorias.
+Art. 815.º A escrituração do movimento dos armazéns mencionados no corpo do artigo anterior deverá ser feita tanto nos livros pertencentes à alfândega como naqueles que estejam a cargo do dono do armazém e terá por base os elementos constantes das folhas de descarga ou de armazém, dos bilhetes de despacho ou de outros documentos respeitantes à entrada e saída de mercadorias.
 
 § único. Nos livros de que trata o corpo deste artigo serão devidamente anotados os locais dos respectivos armazéns onde se encontrem arrumados os diversos volumes, quando aqueles depósitos se apresentem com várias divisões ou compartimentos.
 
-###### Art. 816.º Os livros destinados à escrituração do movimento dos armazéns de trânsito serão rubricados, em cada página, por chancela do director da respectiva circunscrição aduaneira, terão termo de abertura e de encerramento assinado por aquele funcionário e deverão obedecer às condições que hajam sido estabelecidas pela Direcção ou Repartição Provincial dos Serviços das Alfândegas.
+Art. 816.º Os livros destinados à escrituração do movimento dos armazéns de trânsito serão rubricados, em cada página, por chancela do director da respectiva circunscrição aduaneira, terão termo de abertura e de encerramento assinado por aquele funcionário e deverão obedecer às condições que hajam sido estabelecidas pela Direcção ou Repartição Provincial dos Serviços das Alfândegas.
 
-###### Art. 817.º A escrituração dos livros referidos no artigo anterior deverá estar sempre em dia, sob pena de transgressão, podendo ser ordenado o encerramento dos respectivos armazéns, o qual se manterá até que aquela escrituração se encontre em devida ordem.
+Art. 817.º A escrituração dos livros referidos no artigo anterior deverá estar sempre em dia, sob pena de transgressão, podendo ser ordenado o encerramento dos respectivos armazéns, o qual se manterá até que aquela escrituração se encontre em devida ordem.
 
 § único. As penalidades prescritas no corpo do artigo não são de aplicar nos casos em que a escrituração esteja a cargo dos serviços dependentes das administrações portuárias oficiais.
 
-###### Art. 818.º Nos armazéns de trânsito referidos no artigo 805.º e nos de baldeação poderão ser recebidas mercadorias originárias da província, as quais deverão ficar em instalações separadas das que se destinem à importação para consumo, trânsito, reexportação ou baldeação.
+Art. 818.º Nos armazéns de trânsito referidos no artigo 805.º e nos de baldeação poderão ser recebidas mercadorias originárias da província, as quais deverão ficar em instalações separadas das que se destinem à importação para consumo, trânsito, reexportação ou baldeação.
 
 § único. As mercadorias originárias da província que se destinem a ser recolhidas nos armazéns mencionados no corpo deste artigo deverão ser de fácil distinção e o seu movimento de entrada e de saída será escriturado separadamente do relativo às mercadorias destinadas a trânsito directo ou indirecto.
 
-###### Art. 819.º As empresas que desejem exercer o comercio de trânsito numa província requererão ao governador a sua inscrição nessa actividade comercial e autorização para o estabelecimento de armazéns de trânsito, pretensões que serão decididas por despacho do governador, ouvidos o director ou o chefe provincial dos Serviços das Alfândegas e o competente organismo corporativo ou de coordenação económica, no caso de a respectiva actividade estar organizada corporativamente, ou a direcção da associação comercial ou câmara de comercio da localidade, nos outros casos.
+Art. 819.º As empresas que desejem exercer o comercio de trânsito numa província requererão ao governador a sua inscrição nessa actividade comercial e autorização para o estabelecimento de armazéns de trânsito, pretensões que serão decididas por despacho do governador, ouvidos o director ou o chefe provincial dos Serviços das Alfândegas e o competente organismo corporativo ou de coordenação económica, no caso de a respectiva actividade estar organizada corporativamente, ou a direcção da associação comercial ou câmara de comercio da localidade, nos outros casos.
 
 § 1.º Por cada inscrição será passado um alvará, do modelo que tiver sido aprovado superiormente, o qual será selado com a estampilha da taxa do artigo 1.º da tabela do imposto do selo, aprovada pelo [Decreto n.º 31883](https://diariodarepublica.pt/dr/detalhe/decreto/31883-1942-168646), de 12 de Fevereiro de 1942, e pagará o emolumento constante do artigo 4.º da tabela de emolumentos gerais aprovada pelo mesmo decreto.
 
 § 2.º Não carecem das autorizações a que se refere o corpo deste artigo os transitários que à data da publicação deste estatuto já possuam o respectivo alvará.
 
-###### Art. 820.º A fiscalização dos armazéns de trânsito e de baldeação realiza-se por meio de varejos e pelo exame dos livros de escrituração do movimento das mercadorias entradas e saídas desses armazéns.
+Art. 820.º A fiscalização dos armazéns de trânsito e de baldeação realiza-se por meio de varejos e pelo exame dos livros de escrituração do movimento das mercadorias entradas e saídas desses armazéns.
 
 § único. Podem os funcionários aduaneiros incumbidos da realização de varejos em armazéns de trânsito ou de baldeação ordenar a abertura de quaisquer volumes depositados nesses armazéns sempre que tenham fundadas suspeitas de que o seu conteúdo não corresponde ao indicado nos bilhetes de entrada e nos livros de contas correntes.
 
 #### SECÇÃO V — Dos armazéns especiais
 
-###### Art. 821.º São considerados armazéns especiais:
+Art. 821.º São considerados armazéns especiais:
 
 a) Os armazéns situadas junto dos portos e estações de caminho de ferro administrados pelas respectivas entidades exploradoras;
 
@@ -5426,35 +5538,35 @@ Nos armazéns referidos na alínea g) só é permitida a entrada de mercadorias 
 
 § 6.º É isenta dos emolumentos gerais aduaneiros constantes da tabela anexa ao [Decreto n.º 31883](https://diariodarepublica.pt/dr/detalhe/decreto/31883-1942-168646), de 12 de Fevereiro de 1942, a reexportação de mercadorias depositadas nos armazéns mencionados nas alíneas b) a f) do corpo do artigo, ficando reduzido a 1 por mil ad valorem o emolumento a cobrar em relação às que sejam reexportadas dos armazéns mencionados na alínea h).
 
-###### Art. 822.º O prazo de armazenagem das mercadorias nos casos referidos no corpo do artigo anterior, com excepção dos mencionados na alínea e), que é ilimitado, é de dois anos, prorrogável por despacho do governador por mais dois períodos de um ano cada.
+Art. 822.º O prazo de armazenagem das mercadorias nos casos referidos no corpo do artigo anterior, com excepção dos mencionados na alínea e), que é ilimitado, é de dois anos, prorrogável por despacho do governador por mais dois períodos de um ano cada.
 
 § 1.º O prazo de armazenagem das mercadorias depositadas nos armazéns mencionados na alínea a) do artigo anterior e de cuja documentação conste estarem em regime de trânsito é de 60 dias, prorrogável por mais dois períodos iguais pelo director ou chefe provincial dos Serviços das Alfândegas, por motivos justificados e, para além destes períodos, por despacho do governador.
 
 § 2.º Por cada prorrogação concedida pelo director ou chefe provincial dos Serviços das Alfândegas é devido o emolumento de 50$00 e de 100$00 pelas que forem concedidas pelo governador.
 
-###### Art. 823.º É permitido, mediante prévia autorização da direcção da alfândega, alterar a natureza e a forma de acondicionamento ou fazer a lotagem das mercadorias depositadas nos armazéns especiais mencionados na alínea a) do artigo 821.º, observando-se as cautelas fiscais que tiverem sido estabelecidas, em entendimento recíproco, entre a Direcção ou Repartição Provincial dos Serviços das Alfândegas e as direcções ou administrações dos mencionados armazéns, observadas, porém, as instruções que, quanto a lotações, tenham sido aprovadas pelo Ministro do Ultramar.
+Art. 823.º É permitido, mediante prévia autorização da direcção da alfândega, alterar a natureza e a forma de acondicionamento ou fazer a lotagem das mercadorias depositadas nos armazéns especiais mencionados na alínea a) do artigo 821.º, observando-se as cautelas fiscais que tiverem sido estabelecidas, em entendimento recíproco, entre a Direcção ou Repartição Provincial dos Serviços das Alfândegas e as direcções ou administrações dos mencionados armazéns, observadas, porém, as instruções que, quanto a lotações, tenham sido aprovadas pelo Ministro do Ultramar.
 
 § 1.º Às mercadorias transformadas nos armazéns mencionados no corpo deste artigo e nos da alínea h) do artigo 821.º será dado despacho de reexportação ou de importação para consumo, sendo-lhes aplicável neste caso o regime pautal que estiver estabelecido na lei para as mercadorias que tiverem sido objecto da transformação de que trata o corpo este artigo. No caso de reexportação, serão cativas do emolumento referido no § 6.º do artigo 821.º deste estatuto.
 
 § 2.º Será processado bilhete de despacho de importação para os desperdícios resultantes das transformações a que se refere o corpo deste artigo, os quais podem ser isentos de direitos e de outras imposições cobrados pelas alfândegas quando não tenham valor comercial, levando-se em conta a sua quantidade nos bilhetes a que se refere o § 1.º deste artigo.
 
-###### Art. 824.º Os directores das alfândegas e os chefes das estâncias aduaneiras situadas em localidades que sirvam de testa a caminhos de ferro internacionais e onde existam zonas francas, armazéns gerais francos ou armazéns especiais mencionados na alínea a) do artigo 821.º poderão autorizar, excepcionalmente e por motivos justificados devidamente reconhecidas pelo exame da respectiva documentação apresentada, que sejam consideradas em regime de trânsito as mercadorias que hajam sido descarregadas nos respectivos portos e estejam depositadas naqueles armazéns, quando destinadas a países vizinhos da província, ou sejam deles procedentes com destino ao exterior, ainda mesmo nos casos em que do manifesto do navio ou de documentação dos outros meios de transporte não conste a indicação daquele regime, sem prejuízo, porém, das disposições do § 1.º do artigo 781.º deste estatuto.
+Art. 824.º Os directores das alfândegas e os chefes das estâncias aduaneiras situadas em localidades que sirvam de testa a caminhos de ferro internacionais e onde existam zonas francas, armazéns gerais francos ou armazéns especiais mencionados na alínea a) do artigo 821.º poderão autorizar, excepcionalmente e por motivos justificados devidamente reconhecidas pelo exame da respectiva documentação apresentada, que sejam consideradas em regime de trânsito as mercadorias que hajam sido descarregadas nos respectivos portos e estejam depositadas naqueles armazéns, quando destinadas a países vizinhos da província, ou sejam deles procedentes com destino ao exterior, ainda mesmo nos casos em que do manifesto do navio ou de documentação dos outros meios de transporte não conste a indicação daquele regime, sem prejuízo, porém, das disposições do § 1.º do artigo 781.º deste estatuto.
 
 § único. As disposições do corpo deste artigo são extensivas aos armazéns pertencentes a transitários e aos especificados na alínea g) do artigo 821.º, de harmonia com a legislação especial reguladora do funcionamento de tais armazéns.
 
 #### SECÇÃO VI — Dos armazéns gerais francos e das zonas francas
 
-###### Art. 825.º Os armazéns gerais francos serão estabelecidos, por portaria do Ministro do Ultramar, em recintos pertencentes ao Estado e administrados por ele ou por delegação sua.
+Art. 825.º Os armazéns gerais francos serão estabelecidos, por portaria do Ministro do Ultramar, em recintos pertencentes ao Estado e administrados por ele ou por delegação sua.
 
 § único. As administrações destes armazéns poderão passar conhecimentos de depósitos e warrants transmissíveis por endosso, em relação às mercadorias neles depositadas, de harmonia com as disposições que constarem do diploma regulador da respectiva concessão ou exploração.
 
-###### Art. 826.º Os recintos dos portos onde estejam estabelecidos armazéns gerais francos serão delimitados por meio de convenientes vedações, de modo a evitar que possam ser transportadas para o exterior quaisquer mercadorias neles depositadas e que estejam cativas de direitos ou de outros impostos cobrados pelas alfândegas. Nestes recintos não poderão existir habitações, mas apenas os edifícios ocupados pelas fábricas, oficinas, armazéns, escritórios, secretarias ou outros de utilização semelhante.
+Art. 826.º Os recintos dos portos onde estejam estabelecidos armazéns gerais francos serão delimitados por meio de convenientes vedações, de modo a evitar que possam ser transportadas para o exterior quaisquer mercadorias neles depositadas e que estejam cativas de direitos ou de outros impostos cobrados pelas alfândegas. Nestes recintos não poderão existir habitações, mas apenas os edifícios ocupados pelas fábricas, oficinas, armazéns, escritórios, secretarias ou outros de utilização semelhante.
 
 § 1.º Os recintos de que trata o corpo deste artigo serão fiscalizados externamente, sem prejuízo da faculdade reservada às alfândegas de vigiarem todas as suas dependências, não intervindo, porém, nas operações e trabalhos neles realizados.
 
 § 2.º São extensivas aos recintos ocupados pelos armazéns especiais mencionados no artigo 821.º as disposições do corpo deste artigo.
 
-###### Art. 827.º Poderão ser recebidas nos recintos ocupados pelos armazéns gerais francos mercadorias da produção da própria província, sem perda da sua origem e as nela nacionalizadas, as quais deverão ficar arrecadadas separadamente, sob regime aduaneiro, precedendo autorização do director da respectiva alfândega e conforme as condições legalmente estabelecidas para esse efeito, sem embargo de poderem ser utilizadas em quaisquer operações de lotação ou como matéria-prima das indústrias neles estabelecidas.
+Art. 827.º Poderão ser recebidas nos recintos ocupados pelos armazéns gerais francos mercadorias da produção da própria província, sem perda da sua origem e as nela nacionalizadas, as quais deverão ficar arrecadadas separadamente, sob regime aduaneiro, precedendo autorização do director da respectiva alfândega e conforme as condições legalmente estabelecidas para esse efeito, sem embargo de poderem ser utilizadas em quaisquer operações de lotação ou como matéria-prima das indústrias neles estabelecidas.
 
 § 1.º Na hipótese prevista no corpo deste artigo, as mercadorias darão entrada nos referidos armazéns mediante bilhete, guia especial de entrada ou folha de descarga.
 
@@ -5466,19 +5578,19 @@ Nos armazéns referidos na alínea g) só é permitida a entrada de mercadorias 
 
 § 5.º Os bilhetes ou guias de entrada referidos nos parágrafos anteriores deverão conter todos os elementos mencionados no § único do artigo 832.º, os quais serão reproduzidos no título de propriedade passado pelas direcções ou administrações dos armazéns gerais francos quando ulteriormente as mercadorias forem submetidas a despacho.
 
-###### Art. 828.º São devidos os direitos e demais imposições constantes da legislação que estiver em vigor pelas mercadorias transformadas nos armazéns gerais francos quando saírem deles para consumo da província.
+Art. 828.º São devidos os direitos e demais imposições constantes da legislação que estiver em vigor pelas mercadorias transformadas nos armazéns gerais francos quando saírem deles para consumo da província.
 
 § único. A liquidação e pagamento das imposições devidas pelas mercadorias que hajam sido importadas temporàriamente e que, findos os respectivos prazos de importação temporária, dêem entrada nos armazéns gerais francos serão feitos no bilhete ou guia especial mencionada no § 3.º do artigo anterior.
 
-###### Art. 829.º A saída de mercadorias dos armazéns gerais francos terá lugar por meio do processamento do competente bilhete de despacho, devendo também ser processado na mesma ocasião o bilhete estatístico, sendo isentas do pagamento de direitos e de outras imposições aduaneiras, com excepção do selo, as mercadorias mencionadas no artigo 827.º e seus parágrafos, quando destinadas ao exterior da província, desde que no acto da sua entrada nos armazéns gerais francos se hajam pago todos os impostos de que sejam cativas, nos termos da legislação aduaneira em vigor na província.
+Art. 829.º A saída de mercadorias dos armazéns gerais francos terá lugar por meio do processamento do competente bilhete de despacho, devendo também ser processado na mesma ocasião o bilhete estatístico, sendo isentas do pagamento de direitos e de outras imposições aduaneiras, com excepção do selo, as mercadorias mencionadas no artigo 827.º e seus parágrafos, quando destinadas ao exterior da província, desde que no acto da sua entrada nos armazéns gerais francos se hajam pago todos os impostos de que sejam cativas, nos termos da legislação aduaneira em vigor na província.
 
-###### Art. 830.º A conferência de saída das mercadorias que tenham de seguir em regime de reexportação, trânsito ou transferência será realizada nos próprios cais de embarque pelos funcionários aduaneiros ou pelos agentes da fiscalização aduaneira, devendo ser tomadas as necessárias cautelas fiscais até se efectivar a sua saída.
+Art. 830.º A conferência de saída das mercadorias que tenham de seguir em regime de reexportação, trânsito ou transferência será realizada nos próprios cais de embarque pelos funcionários aduaneiros ou pelos agentes da fiscalização aduaneira, devendo ser tomadas as necessárias cautelas fiscais até se efectivar a sua saída.
 
-###### Art. 831.º A entrega aos seus donos, consignatários ou transitários das mercadorias depositadas nos armazéns gerais francos ou nos armazéns especiais mencionados na alínea a) do artigo 821.º, depois de despachadas pela alfândega, é da responsabilidade das respectivas direcções ou administrações, sem embargo do direito que à alfândega assiste, nos termos prescritos neste estatuto e demais legislação aplicável, de conhecer a sua legítima propriedade e de exigir a competente responsabilidade aos capitães dos navios sobre as diferenças encontradas, para mais ou para menos, na conferência de descarga das mencionadas mercadorias.
+Art. 831.º A entrega aos seus donos, consignatários ou transitários das mercadorias depositadas nos armazéns gerais francos ou nos armazéns especiais mencionados na alínea a) do artigo 821.º, depois de despachadas pela alfândega, é da responsabilidade das respectivas direcções ou administrações, sem embargo do direito que à alfândega assiste, nos termos prescritos neste estatuto e demais legislação aplicável, de conhecer a sua legítima propriedade e de exigir a competente responsabilidade aos capitães dos navios sobre as diferenças encontradas, para mais ou para menos, na conferência de descarga das mencionadas mercadorias.
 
 § único. A disposição do corpo deste artigo não é de aplicar no caso de as aludidas mercadorias terem sido requisitadas para as casas de despacho que funcionem fora dos recintos mencionados no artigo 826.º e seus parágrafos, a fim de serem objecto de despacho aduaneiro.
 
-###### Art. 832.º Só será exigida a apresentação dos títulos de propriedade das mercadorias submetidas a despacho de importação ou de entrada para armazéns de regime aduaneiro e que sejam provenientes de quaisquer dos depósitos mencionados no artigo antecedente nos casos seguintes:
+Art. 832.º Só será exigida a apresentação dos títulos de propriedade das mercadorias submetidas a despacho de importação ou de entrada para armazéns de regime aduaneiro e que sejam provenientes de quaisquer dos depósitos mencionados no artigo antecedente nos casos seguintes:
 
 a) Quando os conhecimentos ou cartas de porte relativos àquelas mercadorias tenham sido endossados ou desdobrados em pertences;
 
@@ -5486,33 +5598,33 @@ b) Quando hajam sofrido quaisquer transformações ou tenha sido alterada a sua 
 
 c) Quando se verifique a condição prescrita no § único do artigo anterior. § único. Nos casos prescritos no corpo deste artigo deverá constar do título de propriedade, passado pela direcção ou administração do armazém geral franco ou do armazém especial, a contramarca, data de entrada, marcas, números, quantidade e qualidade dos volumes, pesos e valor, natureza das mercadorias, procedência e origem, nome do importador, as alterações na forma de acondicionamento dos mesmos ou as transformações por elas sofridas quando se dê a hipótese prevista na última parte do corpo do artigo 827.º, e quaisquer outras indicações que se tornem necessárias para a liquidação dos direitos e outras imposições de que as mercadorias estejam cativas.
 
-###### Art. 833.º Junto dos armazéns gerais francos e dos armazéns especiais mencionados na alínea a) do artigo 821.º existirão estâncias aduaneiras habilitadas a dar despacho a todas as mercadorias neles depositadas, devendo as direcções ou administrações dos respectivos portos pôr à disposição dos serviços aduaneiros, para aquele efeito, as instalações necessárias para o funcionamento das respectivas casas de despacho e dos armazéns especiais de leilões e de reentrados, se aqueles serviços não dispuserem de edifícios próprios junto dos recintos vedados desses portos.
+Art. 833.º Junto dos armazéns gerais francos e dos armazéns especiais mencionados na alínea a) do artigo 821.º existirão estâncias aduaneiras habilitadas a dar despacho a todas as mercadorias neles depositadas, devendo as direcções ou administrações dos respectivos portos pôr à disposição dos serviços aduaneiros, para aquele efeito, as instalações necessárias para o funcionamento das respectivas casas de despacho e dos armazéns especiais de leilões e de reentrados, se aqueles serviços não dispuserem de edifícios próprios junto dos recintos vedados desses portos.
 
 § único. Para as instalações de que trata o corpo deste artigo deverão preferir-se as edificações situadas junto das vedações dos mencionados recintos.
 
-###### Art. 834.º O prazo de depósito nos armazéns gerais francos é de dois anos, salvo se na legislação reguladora da sua exploração outro estiver estabelecido. Aquele prazo poderá ser prorrogado excepcionalmente, por três períodos de um ano, por despacho do governador.
+Art. 834.º O prazo de depósito nos armazéns gerais francos é de dois anos, salvo se na legislação reguladora da sua exploração outro estiver estabelecido. Aquele prazo poderá ser prorrogado excepcionalmente, por três períodos de um ano, por despacho do governador.
 
 § único. O prazo de depósito nas zonas francas não tem, em regra, limitação de prazo.
 
-###### Art. 835.º São extensivas às zonas francas as disposições dos artigos 826.º a 833.º e seus parágrafos, na parte aplicável.
+Art. 835.º São extensivas às zonas francas as disposições dos artigos 826.º a 833.º e seus parágrafos, na parte aplicável.
 
-###### Art. 836.º Os benefícios de ordem pautal a que devem ficar sujeitas as mercadorias importadas para consumo na província e que hajam sido objecto de transformação em portos francos, zonas francas ou nos armazéns gerais francos situados nos portos ultramarinos portugueses ou nos armazéns especiais referidos no artigo 821.º constarão de diploma especial publicado pelo Ministro do Ultramar.
+Art. 836.º Os benefícios de ordem pautal a que devem ficar sujeitas as mercadorias importadas para consumo na província e que hajam sido objecto de transformação em portos francos, zonas francas ou nos armazéns gerais francos situados nos portos ultramarinos portugueses ou nos armazéns especiais referidos no artigo 821.º constarão de diploma especial publicado pelo Ministro do Ultramar.
 
 ### CAPÍTULO IX — Do despacho de mercadorias
 
 #### SECÇÃO I — Disposições comuns
 
-###### Art. 837.º Designa-se por despacho a execução do conjunto de formalidades necessárias para o desembaraço aduaneiro de mercadorias, navios e aeronaves.
+Art. 837.º Designa-se por despacho a execução do conjunto de formalidades necessárias para o desembaraço aduaneiro de mercadorias, navios e aeronaves.
 
-###### Art. 838.º O expediente e formalidades do despacho serão efectuados nas casas ou locais apropriados que forem determinados pelos directores das alfândegas ou pelos chefes das estâncias aduaneiras, de harmonia com as conveniências do serviço aduaneiro, sendo utilizados naquele expediente os impressos fornecidos pelos conselhos administrativos nos termos preceituados neste estatuto.
+Art. 838.º O expediente e formalidades do despacho serão efectuados nas casas ou locais apropriados que forem determinados pelos directores das alfândegas ou pelos chefes das estâncias aduaneiras, de harmonia com as conveniências do serviço aduaneiro, sendo utilizados naquele expediente os impressos fornecidos pelos conselhos administrativos nos termos preceituados neste estatuto.
 
 § único. O despacho das mercadorias de natureza perigosa, explosiva ou inflamável, assim como as de natureza incómoda ou tóxica para o público, será efectuado em locais especiais escolhidos pelos directores das alfândegas ou pelos chefes das estâncias aduaneiras de acordo com as competentes autoridades locais ou à saída dos armazéns onde estiverem depositadas.
 
-###### Art. 839.º Os modelos das fórmulas de despacho, guias e mais documentos referidos neste estatuto serão os aprovados por despacho do Ministro do Ultramar, sob proposta do governo da respectiva província, ouvida a Inspecção Superior das Alfândegas.
+Art. 839.º Os modelos das fórmulas de despacho, guias e mais documentos referidos neste estatuto serão os aprovados por despacho do Ministro do Ultramar, sob proposta do governo da respectiva província, ouvida a Inspecção Superior das Alfândegas.
 
 § único. Enquanto não entrarem em vigor os modelos de impressos aprovados nos termos do corpo deste artigo, continuarão a ser utilizados nas alfândegas de cada província os impressos em uso nas mesmas, com as alterações julgadas necessárias e determinadas por despacho do governador, de harmonia com as conveniências do serviço aduaneiro.
 
-###### Art. 840.º O bilhete de despacho de fórmula volante é constituído, em regra, pelo original e por duas cópias, uma das quais servirá de recibo para o interessado.
+Art. 840.º O bilhete de despacho de fórmula volante é constituído, em regra, pelo original e por duas cópias, uma das quais servirá de recibo para o interessado.
 
 § 1.º Os trâmites do despacho serão realizados por meio do original do bilhete, pelo qual será também dada a saída à mercadoria. A outra cópia servirá de documento de receita.
 
@@ -5520,9 +5632,9 @@ c) Quando se verifique a condição prescrita no § único do artigo anterior. �
 
 § 3.º Conjuntamente com os bilhetes estatísticos serão processados os boletins ou bilhetes para os serviços ou organismos que superintendem no comércio externo e no movimento cambial.
 
-###### Art. 841.º Dos bilhetes de depacho processados em fórmulas de caderneta serão tiradas, em regra, além do original, cinco cópias, destinadas respectivamente aos serviços de estatística, aos organismos referidos no § 3.º do artigo anterior e ao interessado, servindo de recibo das importâncias pagas, e a quinta ficará no cepo da caderneta, a servir de registo.
+Art. 841.º Dos bilhetes de depacho processados em fórmulas de caderneta serão tiradas, em regra, além do original, cinco cópias, destinadas respectivamente aos serviços de estatística, aos organismos referidos no § 3.º do artigo anterior e ao interessado, servindo de recibo das importâncias pagas, e a quinta ficará no cepo da caderneta, a servir de registo.
 
-###### Art. 842.º As indicações relativas ao despacho das mercadorias que se tornem necessárias aos serviços do Estado, autarquias locais e organismos corporativos ou de coordenação económica ser-lhes-ão fornecidas pelas estâncias aduaneiras por qualquer das formas seguintes, e de harmonia com as determinações que vierem a ser estabelecidas por despacho do governador, ouvidos os serviços ou organismos interessados e a Direcção ou Repartição Provincial dos Serviços das Alfândegas:
+Art. 842.º As indicações relativas ao despacho das mercadorias que se tornem necessárias aos serviços do Estado, autarquias locais e organismos corporativos ou de coordenação económica ser-lhes-ão fornecidas pelas estâncias aduaneiras por qualquer das formas seguintes, e de harmonia com as determinações que vierem a ser estabelecidas por despacho do governador, ouvidos os serviços ou organismos interessados e a Direcção ou Repartição Provincial dos Serviços das Alfândegas:
 
 a) Por meio de bilhete ou boletim processado simultâneamente com o respectivo bilhete de despacho;
 
@@ -5532,37 +5644,37 @@ c) Pela recolha dos necessários elementos obtidos pelo exame dos respectivos do
 
 § único. Os impressos mencionados nas alínas a) e b) deste artigo serão fornecidos pelas alfândegas, devendo os respectivos modelos ser elaborados de acordo com os organismos interessados.
 
-###### Art. 843.º O pedido para despacho deverá ser apresentado em impressos dos modelos de que trata o artigo 839.º e seu § único, devidamente preenchidos, conforme os preceitos estabelecidos neste estatuto para as diversas modalidades de despacho.
+Art. 843.º O pedido para despacho deverá ser apresentado em impressos dos modelos de que trata o artigo 839.º e seu § único, devidamente preenchidos, conforme os preceitos estabelecidos neste estatuto para as diversas modalidades de despacho.
 
-###### Art. 844.º Quando o número de verbas respeitantes à designação genérica das mercadorias submetidas a despacho ou o das suas especificações pautais não caiba em uma única fórmula, poderá a sua discriminação ser continuada em folhas suplementares, que serão numeradas e rubricadas pelo conferente do bilhete e pela pessoa habilitada a despachar, devendo fazer-se menção no original do bilhete do número total de folhas suplementares que lhe dizem respeito.
+Art. 844.º Quando o número de verbas respeitantes à designação genérica das mercadorias submetidas a despacho ou o das suas especificações pautais não caiba em uma única fórmula, poderá a sua discriminação ser continuada em folhas suplementares, que serão numeradas e rubricadas pelo conferente do bilhete e pela pessoa habilitada a despachar, devendo fazer-se menção no original do bilhete do número total de folhas suplementares que lhe dizem respeito.
 
 § único. Quando os bilhetes de despacho tenham de abranger mais de uma folha, serão todas essas folhas numeradas sucessivamente, devendo cada uma levar apostos os números de ordem e de receita do respectivo bilhete.
 
-###### Art. 845.º O bilhete de despacho, depois de preenchido com as indicações constantes dos artigos anteriores, será apresentado pelos interessados aos funcionários encarregados dos serviços da conferência de contagem, transitando, depois de feita esta, directamente para o encarregado do livro de registo de movimento de bilhetes, a fim de este proceder à sua numeração e, bem assim, à dos seus duplicados ou cópias, do bilhete estatístico e restante documentação, efectuando seguidamente o competente registo naquele livro.
+Art. 845.º O bilhete de despacho, depois de preenchido com as indicações constantes dos artigos anteriores, será apresentado pelos interessados aos funcionários encarregados dos serviços da conferência de contagem, transitando, depois de feita esta, directamente para o encarregado do livro de registo de movimento de bilhetes, a fim de este proceder à sua numeração e, bem assim, à dos seus duplicados ou cópias, do bilhete estatístico e restante documentação, efectuando seguidamente o competente registo naquele livro.
 
 § único. O original, duplicado e recibo serão datados e rubricados pelo conferente da contagem, podendo ainda, se assim for julgado necessário, este funcionário inscrever as respectivas importâncias totais por picotagem, utilizando-se para esse efeito máquinas adequadas.
 
-###### Art. 846.º Tanto nos bilhetes de despacho como nos seus duplicados relativos a mercadorias que, pela sua origem ou procedência, ou ainda por efeitos de legislação geral ou especial, tenham direito a quaisquer reduções ou isenções de taxas pautais, ou estejam sujeitas a regimes especiais, serão pelos funcionários competentes, mediante pedido formulado nos originais daqueles bilhetes, ou em requerimentos que lhes serão juntos pelos interessados os seus representantes legais e antes do seu pagamento, exaradas as anotações ou efectuados os averbamentos justificativos de tais reduções, isenções ou regimes especiais, com indicação, sempre que se torne necessário, do diploma, despacho ou comunicação que os concederam ou autorizaram, devendo a assinatura ou rubrica do funcionário ser autenticada com carimbo ou selo branco.
+Art. 846.º Tanto nos bilhetes de despacho como nos seus duplicados relativos a mercadorias que, pela sua origem ou procedência, ou ainda por efeitos de legislação geral ou especial, tenham direito a quaisquer reduções ou isenções de taxas pautais, ou estejam sujeitas a regimes especiais, serão pelos funcionários competentes, mediante pedido formulado nos originais daqueles bilhetes, ou em requerimentos que lhes serão juntos pelos interessados os seus representantes legais e antes do seu pagamento, exaradas as anotações ou efectuados os averbamentos justificativos de tais reduções, isenções ou regimes especiais, com indicação, sempre que se torne necessário, do diploma, despacho ou comunicação que os concederam ou autorizaram, devendo a assinatura ou rubrica do funcionário ser autenticada com carimbo ou selo branco.
 
 § único. Nas fórmulas de despacho devem ficar sempre consignadas com a maior clareza as procedências e as origens das mercadorias para efeito da aplicação do regime pautal.
 
-###### Art. 847.º Nos bilhetes de despacho que tenham valores declarados em moeda que não seja a da província deverão ser sempre mencionadas as cotações oficiais que serviram de base não só à conversão dos valores como também à contagem dos direitos e outros impostos a liquidar em moeda estranha à província, e bem assim os respectivos coeficientes empregados naquela conversão.
+Art. 847.º Nos bilhetes de despacho que tenham valores declarados em moeda que não seja a da província deverão ser sempre mencionadas as cotações oficiais que serviram de base não só à conversão dos valores como também à contagem dos direitos e outros impostos a liquidar em moeda estranha à província, e bem assim os respectivos coeficientes empregados naquela conversão.
 
-###### Art. 848.º Quando ocorra qualquer alteração cambial que possa influir na liquidação dos direitos e outras imposições devidas pelas mercadorias constantes de um bilhete de despacho, deverá a diferença ser paga por bilhete de acréscimo, se o bilhete original já tiver sido pago e a mercadoria ainda não estiver desalfandegada.
+Art. 848.º Quando ocorra qualquer alteração cambial que possa influir na liquidação dos direitos e outras imposições devidas pelas mercadorias constantes de um bilhete de despacho, deverá a diferença ser paga por bilhete de acréscimo, se o bilhete original já tiver sido pago e a mercadoria ainda não estiver desalfandegada.
 
-###### Art. 849.º Os bilhetes de despacho, depois de efectuada a conferência de contagem e registados no livro de movimento, serão remetidos directamente à tesouraria, para efeito de pagamento, no prazo de dez dias.
+Art. 849.º Os bilhetes de despacho, depois de efectuada a conferência de contagem e registados no livro de movimento, serão remetidos directamente à tesouraria, para efeito de pagamento, no prazo de dez dias.
 
-###### Art. 850.º O tesoureiro, observando se as importâncias a cobrar estão escritas com clareza e nas condições devidas, procederá à cobrança, passando recibo, depois do que fará remessa de todas as partes componentes da fórmula do despacho ao escriturário da receita para os fins consignados no artigo 853.º deste estatuto.
+Art. 850.º O tesoureiro, observando se as importâncias a cobrar estão escritas com clareza e nas condições devidas, procederá à cobrança, passando recibo, depois do que fará remessa de todas as partes componentes da fórmula do despacho ao escriturário da receita para os fins consignados no artigo 853.º deste estatuto.
 
-###### Art. 851.º É expressamente proibido aos tesoureiros ou aos funcionários que legalmente os substituem aceitar para pagamento quaisquer bilhetes de despacho que não tenham sido devidamente registados no respectivo livro de registo do movimento.
+Art. 851.º É expressamente proibido aos tesoureiros ou aos funcionários que legalmente os substituem aceitar para pagamento quaisquer bilhetes de despacho que não tenham sido devidamente registados no respectivo livro de registo do movimento.
 
-###### Art. 852.º Os bilhetes de despacho cujo pagamento não tenha sido efectuado no prazo de dez dias úteis após a sua entrada na tesouraria serão mandados liquidar pelo triplo da taxa do imposto do selo que for devido.
+Art. 852.º Os bilhetes de despacho cujo pagamento não tenha sido efectuado no prazo de dez dias úteis após a sua entrada na tesouraria serão mandados liquidar pelo triplo da taxa do imposto do selo que for devido.
 
 § único. Este prazo será reduzido a cinco dias quando se trate de animais vivos, géneros frescos ou frigorificados e mercadorias de natureza perigosa ou inflamável, assim como as excluídas de depósito real, quando constem da lista referida no § 2.º do artigo 767.º deste estatuto.
 
-###### Art. 853.º Ao escriturário da receita incumbe efectuar os competentes lançamentos, numerar, datar e assinar todas as partes da fórmula do despacho, remetendo o bilhete e as referidas partes componentes aos destinos indicados neste estatuto.
+Art. 853.º Ao escriturário da receita incumbe efectuar os competentes lançamentos, numerar, datar e assinar todas as partes da fórmula do despacho, remetendo o bilhete e as referidas partes componentes aos destinos indicados neste estatuto.
 
-###### Art. 854.º Quando o pagamento houver de ser adiado por virtude de prestação de garantia, será esta requerida e fundamentada no próprio bilhete de despacho, que, depois de devidamente preenchido, será para tal fim apresentado:
+Art. 854.º Quando o pagamento houver de ser adiado por virtude de prestação de garantia, será esta requerida e fundamentada no próprio bilhete de despacho, que, depois de devidamente preenchido, será para tal fim apresentado:
 
 a) Aos chefes do serviço do despacho, nas sedes das alfândegas, ou aos das estâncias aduaneiras, tratando-se de depósito ou de fiança em conta corrente;
 
@@ -5572,7 +5684,7 @@ b) Aos directores das alfândegas, tratando-se de outras fianças ou de carta de
 
 § 2.º A autorização para garantia aos direitos e mais imposições nos casos que aguardem decisão do Ministro do Ultramar carecem da confirmação do governador, sendo requerida pelos interessados.
 
-###### Art. 855.º Obtida a autorização a que se refere o artigo anterior, na qual será sempre marcado o prazo para a liquidação, se não estiver já fixado em disposição legal, será a fórmula de despacho, no prazo de cinco dias úteis e com a cominação fixada na parte final do artigo 852.º, apresentada:
+Art. 855.º Obtida a autorização a que se refere o artigo anterior, na qual será sempre marcado o prazo para a liquidação, se não estiver já fixado em disposição legal, será a fórmula de despacho, no prazo de cinco dias úteis e com a cominação fixada na parte final do artigo 852.º, apresentada:
 
 a) No caso de garantia por meio de depósito, ao tesoureiro, para receber o depósito e assim o indicar no bilhete, duplicados e na competente guia, e ao escriturário do registo de depósito, para o inscrever no livro respectivo e exarar na fórmula do despacho e na guia o número que lhes couber, devendo o talão da guia ser por ele arrecadado;
 
@@ -5582,45 +5694,45 @@ b) No caso de fiança, carta de garantia bancária ou de termo de responsabilida
 
 § 2.º Quando se realizar o pagamento do bilhete, será ulteriormente feito o averbamento do respectivo número de receita em todas as suas partes componentes.
 
-###### Art. 856.º Os duplicados dos bilhetes de despacho e, bem assim, quaisquer outros documentos pagos na tesouraria, depois de efectuados os respectivos lançamentos no livro de receita, terão o destino indicado no artigo 865.º deste estatuto.
+Art. 856.º Os duplicados dos bilhetes de despacho e, bem assim, quaisquer outros documentos pagos na tesouraria, depois de efectuados os respectivos lançamentos no livro de receita, terão o destino indicado no artigo 865.º deste estatuto.
 
-###### Art. 857.º Os originais dos bilhetes de despacho serão remetidos, depois de efectuados os lançamentos nos livros de receita pelo respectivo escriturário, ao funcionário verificador ou conferente, conforme os casos, em cumprimento do determinado na primeira parte do § 1.º do artigo 840.º deste estatuto.
+Art. 857.º Os originais dos bilhetes de despacho serão remetidos, depois de efectuados os lançamentos nos livros de receita pelo respectivo escriturário, ao funcionário verificador ou conferente, conforme os casos, em cumprimento do determinado na primeira parte do § 1.º do artigo 840.º deste estatuto.
 
-###### Art. 858.º É expressamente proibido aos funcionários de qualquer dos quadros aduaneiros que, pela natureza das suas funções, tenham de intervir nos trâmites dos despachos dar execução a qualquer das formalidades inerentes aos mesmos por documento que não seja o original do respectivo bilhete, salvo nos casos especialmente indicados na lei ou em instruções dimanadas da Direcção ou Repartição Provincial dos Serviços das Alfândegas.
+Art. 858.º É expressamente proibido aos funcionários de qualquer dos quadros aduaneiros que, pela natureza das suas funções, tenham de intervir nos trâmites dos despachos dar execução a qualquer das formalidades inerentes aos mesmos por documento que não seja o original do respectivo bilhete, salvo nos casos especialmente indicados na lei ou em instruções dimanadas da Direcção ou Repartição Provincial dos Serviços das Alfândegas.
 
-###### Art. 859.º A verificação das mercadorias será efectuada conforme os preceitos estabelecidos neste estatuto para as diversas modalidades de despacho e de harmonia com quaisquer instruções especiais que se encontrem publicadas em ordens de serviço.
+Art. 859.º A verificação das mercadorias será efectuada conforme os preceitos estabelecidos neste estatuto para as diversas modalidades de despacho e de harmonia com quaisquer instruções especiais que se encontrem publicadas em ordens de serviço.
 
 § único. Nos casos em que haja lugar a simples conferência, esta será realizada pelos funcionários para esse fim nomeados, que procederão à contagem e identificação dos volumes em face das indicações constantes da fórmula de despacho.
 
-###### Art. 860.º Os bilhetes de despacho, depois de efectuada a verificação, serão remetidos por esta à reverificação em protocolo.
+Art. 860.º Os bilhetes de despacho, depois de efectuada a verificação, serão remetidos por esta à reverificação em protocolo.
 
-###### Art. 861.º O serviço de reverificação será efectuado por forma que as mercadorias não fiquem demoradas nas casas de despacho para o dia imediato ao do pagamento dos direitos ou da sua garantia.
+Art. 861.º O serviço de reverificação será efectuado por forma que as mercadorias não fiquem demoradas nas casas de despacho para o dia imediato ao do pagamento dos direitos ou da sua garantia.
 
-###### Art. 862.º Consideram-se internos, para efeitos deste estatuto, os despachos em que as operações de verificação e de reverificação se efectuem dentro das estâncias aduaneiras ou nos locais habituais do despacho designados em ordem de serviço pelos directores das alfândegas ou pelos chefes das estâncias aduaneiras. São também considerados como internos os despachos sujeitos a simples conferência de volumes, quando essa conferência seja realizada em qualquer dos locais a que se refere a primeira parte deste artigo.
+Art. 862.º Consideram-se internos, para efeitos deste estatuto, os despachos em que as operações de verificação e de reverificação se efectuem dentro das estâncias aduaneiras ou nos locais habituais do despacho designados em ordem de serviço pelos directores das alfândegas ou pelos chefes das estâncias aduaneiras. São também considerados como internos os despachos sujeitos a simples conferência de volumes, quando essa conferência seja realizada em qualquer dos locais a que se refere a primeira parte deste artigo.
 
 § 1.º Consideram-se como externos os despachos em que as operações mencionadas no corpo deste artigo se efectuem fora das estâncias aduaneiras ou dos locais referidos no corpo deste artigo.
 
 § 2.º Não podem entrar nas casas de despacho mercadorias de natureza perigosa ou inflamável e as sujeitas a derrame que possam causar danos ou prejuízos em outras mercadorias, sob pena da aplicação das disposições do § 2.º do artigo 52.º do Contencioso Aduaneiro do Ultramar.
 
-###### Art. 863.º Os bilhetes de despacho internos, depois de reverificados, serão remetidos, juntamente com todos os documentos que os acompanharem, aos chefes das casas de despacho ou a quem as suas vezes fizer, a fim de ser autorizada a saída das mercadorias.
+Art. 863.º Os bilhetes de despacho internos, depois de reverificados, serão remetidos, juntamente com todos os documentos que os acompanharem, aos chefes das casas de despacho ou a quem as suas vezes fizer, a fim de ser autorizada a saída das mercadorias.
 
-###### Art. 864.º Nos despachos externos ter-se-ão em vista as disposições dos artigos 882.º e 884.º e seus parágrafos deste estatuto, salvo no caso de se tratar de animais vivos, géneros frescos ou frigorificados e mercadorias de natureza perigosa ou inflamável.
+Art. 864.º Nos despachos externos ter-se-ão em vista as disposições dos artigos 882.º e 884.º e seus parágrafos deste estatuto, salvo no caso de se tratar de animais vivos, géneros frescos ou frigorificados e mercadorias de natureza perigosa ou inflamável.
 
-###### Art. 865.º Os originais dos bilhetes de despacho serão remetidos, depois de efectuado o desembaraço fiscal da mercadoria, ao serviço onde estiverem os livros de registo do movimento de despachos, a fim de serem efectuadas neles as respectivas anotações, transitando seguidamente para a 1.ª secção da sede da alfândega, a fim de serem dadas as competentes baixas no manifesto, depois do que serão enviados para a subsecção de conferência geral para efeito de conferência final.
+Art. 865.º Os originais dos bilhetes de despacho serão remetidos, depois de efectuado o desembaraço fiscal da mercadoria, ao serviço onde estiverem os livros de registo do movimento de despachos, a fim de serem efectuadas neles as respectivas anotações, transitando seguidamente para a 1.ª secção da sede da alfândega, a fim de serem dadas as competentes baixas no manifesto, depois do que serão enviados para a subsecção de conferência geral para efeito de conferência final.
 
 Os duplicados, depois de escriturados no respectivo livro, serão, conjuntamente com os restantes documentos de receita, enviados também à subsecção de conferência geral.
 
-###### Art. 866.º O extravio de fórmulas de despacho ou o de quaisquer outros documentos aduaneiros ou ainda os destinados a produzir quaisquer efeitos nas alfândegas constitui uma falta grave, que importará para o seu autor ou autores o devido procedimento disciplinar.
+Art. 866.º O extravio de fórmulas de despacho ou o de quaisquer outros documentos aduaneiros ou ainda os destinados a produzir quaisquer efeitos nas alfândegas constitui uma falta grave, que importará para o seu autor ou autores o devido procedimento disciplinar.
 
 § único. O processamento de novas fórmulas ou de segundas vias dos documentos extraviados só poderá ser autorizado pelos directores das alfândegas depois de devidamente constatado tal extravio, ou pelos chefes das estâncias aduaneiras em casos de justificada urgência, dando, porém, conta de cada caso circunstanciadamente àqueles directores.
 
-###### Art. 867.º Quando se acuse o extravio de alguma fórmula de despacho, proceder-se-á a completa indagação acerca do seu desaparecimento, autorizando-se seguidamente a passagem de outra, com ressalva, ficando junto a ela a ordem pela qual se tenha autorizado semelhante facto.
+Art. 867.º Quando se acuse o extravio de alguma fórmula de despacho, proceder-se-á a completa indagação acerca do seu desaparecimento, autorizando-se seguidamente a passagem de outra, com ressalva, ficando junto a ela a ordem pela qual se tenha autorizado semelhante facto.
 
 #### SECÇÃO II — Do despacho de importação
 
-###### Art. 868.º O despacho de importação para consumo realiza-se precedendo declaração das mercadorias a importar feita pelo respectivo proprietário ou seu legítimo representante.
+Art. 868.º O despacho de importação para consumo realiza-se precedendo declaração das mercadorias a importar feita pelo respectivo proprietário ou seu legítimo representante.
 
-###### Art. 869.º A declaração pode ser escrita ou verbal.
+Art. 869.º A declaração pode ser escrita ou verbal.
 
 § 1.º A declaração escrita, que tem de ser apresentada em impressos dos modelos regulamentares, deve oferecer todos os elementos necessários para a conferência das mercadorias e liquidação dos direitos e demais imposições legais que forem devidos.
 
@@ -5636,7 +5748,7 @@ d) De géneros e mercadorias que, embora manifestadas como carga, não ultrapass
 
 e) De géneros e mercadorias solicitadas a despacho nas estâncias aduaneiras onde não haja despachante oficial.
 
-###### Art. 870.º Da declaração escrita deverá constar:
+Art. 870.º Da declaração escrita deverá constar:
 
 1.º O nome do navio ou aeronave, sua procedência e nacionalidade ou designação do transporte, no caso de ser ferroviário ou rodoviário;
 
@@ -5662,29 +5774,29 @@ e) De géneros e mercadorias solicitadas a despacho nas estâncias aduaneiras on
 
 § 2.º Na contagem dos direitos e outras imposições de que trata o n.º 8.º do corpo deste artigo estão abrangidos os impostos municipais e todos os outros de carácter local.
 
-###### Art. 871.º É nula, para todos os efeitos, a declaração que seja apresentada com emendas, entrelinhas ou rasuras não devidamente ressalvadas.
+Art. 871.º É nula, para todos os efeitos, a declaração que seja apresentada com emendas, entrelinhas ou rasuras não devidamente ressalvadas.
 
 § único. Não se consideram como emendas as rectificações feitas com interposição dos dizeres «aliás», «digo» ou outros semelhantes.
 
-###### Art. 872.º A declaração deverá ser apresentada, em regra, em fórmulas volantes, reservando-se para a declaração verbal o uso de fórmulas de caderneta com cópia.
+Art. 872.º A declaração deverá ser apresentada, em regra, em fórmulas volantes, reservando-se para a declaração verbal o uso de fórmulas de caderneta com cópia.
 
 § 1.º No despacho de encomendas postais será também utilizada a fórmula de caderneta.
 
 § 2.º Tanto as fórmulas volantes como as de caderneta terão numeração seguida na mesma estância aduaneira, embora distintas umas das outras, devendo as primeiras ser registadas em livros de movimento do modelo aprovado por portaria assinada pelo Ministro do Ultramar.
 
-###### Art. 873.º O importador que se não ache habilitado a preencher a declaração a que se refere o artigo 870.º, no que respeita à exacta descrição das mercadorias, poderá pedir o seu exame prévio, que realizará mediante as necessárias cautelas fiscais e o pagamento do tráfego que for devido, ficando, para isso, com a faculdade de abrir os volumes e fazer as pesagens que entender convenientes.
+Art. 873.º O importador que se não ache habilitado a preencher a declaração a que se refere o artigo 870.º, no que respeita à exacta descrição das mercadorias, poderá pedir o seu exame prévio, que realizará mediante as necessárias cautelas fiscais e o pagamento do tráfego que for devido, ficando, para isso, com a faculdade de abrir os volumes e fazer as pesagens que entender convenientes.
 
 § 1.º Os exames prévios poderão realizar-se nos armazéns sob regime aduaneiro, casas de despacho, nos cais e noutros locais, com excepção dos domicílios dos importadores, quando se não trate de bagagens.
 
 § 2.º Os Volumes submetidos a exame prévio serão sempre pesados antes da abertura e depois de serem fechados, anotando-se esses pesos no bilhete de despacho.
 
-###### Art. 874.º O exame prévio efectuar-se-á sem intervenção ou assistência dos empregados aduaneiros encarregados da verificação da mercadoria cujo exame prévio é pedido, embora a ele devam assistir oficiais estagiários, escriturários ou ainda, na falta destes funcionários, os agentes da fiscalização aduaneira.
+Art. 874.º O exame prévio efectuar-se-á sem intervenção ou assistência dos empregados aduaneiros encarregados da verificação da mercadoria cujo exame prévio é pedido, embora a ele devam assistir oficiais estagiários, escriturários ou ainda, na falta destes funcionários, os agentes da fiscalização aduaneira.
 
 § 1.º Os exames prévios realizados em armazéns sob regime livre não carecem da assistência de funcionários ou de agentes da fiscalização aduaneira. O exame para fins comerciais pode ser autorizado segundo os preceitos estabelecidos para os exames prévios.
 
 § 2.º Os exames prévios de mercadorias depositadas nos armazéns aduaneiros, nas casas de despacho ou em cais livres deverão ser realizados, em regra, antes ou depois das horas do expediente ordinário.
 
-###### Art. 875.º Na mesma fórmula não serão submetidos a despacho de importação:
+Art. 875.º Na mesma fórmula não serão submetidos a despacho de importação:
 
 a) Mercadorias pertencentes a mais de uma contramarca;
 
@@ -5704,7 +5816,7 @@ h) Mercadorias a importar temporàriamente com outras destinadas a importação 
 
 i) Mercadorias pertencentes a mais de um proprietário ou consignatário.
 
-###### Art. 876.º As formalidades a cumprir no despacho de importação por declaração são as seguintes:
+Art. 876.º As formalidades a cumprir no despacho de importação por declaração são as seguintes:
 
 a) Conferência pelo título de propriedade, quando seja de exigir a sua apresentação;
 
@@ -5724,7 +5836,7 @@ g) Saída das mercadorias.
 
 § 2.º As mercadorias cujo despacho haja sido iniciado nas condições prescritas no parágrafo anterior ficam sujeitas aos direitos que vigorarem no dia em que for efectuado o seu pagamento, o qual só se poderá efectuar depois de conhecido o seu legítimo proprietário, nos casos prescritos na primeira parte do corpo do artigo 759.º, e de estar reconhecida a existência da mercadoria em território nacional ou nas águas do porto.
 
-###### Art. 877.º No despacho externo de mercadorias a granel, ensacadas ou sujeitas a derrame, ou de outras de fácil variação de peso, e em outros casos especiais pode admitir-se a caução aos direitos logo depois de preenchida a declaração.
+Art. 877.º No despacho externo de mercadorias a granel, ensacadas ou sujeitas a derrame, ou de outras de fácil variação de peso, e em outros casos especiais pode admitir-se a caução aos direitos logo depois de preenchida a declaração.
 
 § 1.º Nos casos de importação temporária e mesmo nos de importação definitiva, quando haja urgência na desalfandegação das mercadorias, poderá ser admitida, mediante autorização dos chefes do serviço do despacho ou dos chefes das estâncias aduaneiras extra-urbanas, caução aos direitos e demais imposições nos termos da legislação vigente.
 
@@ -5734,7 +5846,7 @@ g) Saída das mercadorias.
 
 § 4.º O Ministro do Ultramar poderá autorizar excepcionalmente o despacho com garantia prestada por meio de termo de responsabilidade a determinadas entidades não oficiais e nos casos de cortesia internacional, assim como o governador, quanto a estes últimos.
 
-###### Art. 878.º As formalidades a observar no despacho por verificação directa, nos casos em que esta seja permitida, são as seguintes:
+Art. 878.º As formalidades a observar no despacho por verificação directa, nos casos em que esta seja permitida, são as seguintes:
 
 a) Conferência pelo título de propriedade, quando seja de exigir a sua apresentação;
 
@@ -5756,49 +5868,49 @@ h) Saída das mercadorias.
 
 § 2.º A conferência da contagem dos bilhetes de despacho será efectuada por um funcionário técnico-aduaneiro ou por um escriturário do quadro auxiliar designado pelo chefe do serviço de despacho ou da estância aduaneira, depois de os bilhetes haverem sido numerados e registados nos livros do movimento.
 
-###### Art. 879.º A verificação das mercadorias pode ser total ou parcial ou limitar-se à simples conferência da declaração e da qualidade e natureza da mercadoria com os documentos apresentados pelo importador.
+Art. 879.º A verificação das mercadorias pode ser total ou parcial ou limitar-se à simples conferência da declaração e da qualidade e natureza da mercadoria com os documentos apresentados pelo importador.
 
 § 1.º Em nenhum caso, contudo, fica o verificador dispensado do exame completo da declaração e do reconhecimento da exactidão dos cálculos feitos para a liquidação dos direitos e outras imposições.
 
 § 2.º Nos despachos de importação de mercadorias com isenção de direitos, a verificação e a reverificação serão, em regra, completas e obrigatórias.
 
-###### Art. 880.º O valor das mercadorias será determinado de conformidade com as instruções preliminares das pautas e demais legislação vigente.
+Art. 880.º O valor das mercadorias será determinado de conformidade com as instruções preliminares das pautas e demais legislação vigente.
 
-###### Art. 881.º Nos casos de contestação dos valores incumbe a resolução em primeira instância ao Tribunal de Arbitramento de Valores, conforme o disposto na secção III do capítulo IV do título VI deste estatuto.
+Art. 881.º Nos casos de contestação dos valores incumbe a resolução em primeira instância ao Tribunal de Arbitramento de Valores, conforme o disposto na secção III do capítulo IV do título VI deste estatuto.
 
-###### Art. 882.º A reverificação, quando seja possível efectuá-la, será sempre volante e acidental dentro das casas de despacho e obrigatória nos despachos externos processados nas estâncias aduaneiras onde haja mais de um funcionário do quadro técnico além do chefe.
+Art. 882.º A reverificação, quando seja possível efectuá-la, será sempre volante e acidental dentro das casas de despacho e obrigatória nos despachos externos processados nas estâncias aduaneiras onde haja mais de um funcionário do quadro técnico além do chefe.
 
 § único. A entrega das mercadorias é, portanto, autorizada, no primeiro caso, pelo verificador do despacho, se não houver chefe privativo da respectiva casa de despacho, sem embargo de qualquer reverificação que tenha de efectuar-se, e nos despachos externos pelo reverificador, o qual não fica dispensado do exame da declaração, que visará, se não efectuar o exame de qualquer volume dentro da casa de despacho.
 
-###### Art. 883.º É obrigatório o despacho por declaração, nos termos regulamentares, para as mercadorias excluídas de depósito aduaneiro, para as pedidas a despacho nos cais livres ou em outros locais não fiscalizados, para as procedentes de quaisquer armazéns, com excepção dos referidos na alínea a) do § 1.º do artigo 736.º e para as que não constem da lista a que se refere o artigo 885.º deste estatuto.
+Art. 883.º É obrigatório o despacho por declaração, nos termos regulamentares, para as mercadorias excluídas de depósito aduaneiro, para as pedidas a despacho nos cais livres ou em outros locais não fiscalizados, para as procedentes de quaisquer armazéns, com excepção dos referidos na alínea a) do § 1.º do artigo 736.º e para as que não constem da lista a que se refere o artigo 885.º deste estatuto.
 
 § 1.º Em regra, só será permitida a verificação directa das mercadorias tributadas especìficamente e que não sejam de fácil classificação.
 
 § 2.º As mercadorias e bagagens cuja verificação seja realizada em locais não fiscalizados serão acompanhadas de fiscalização até esses locais, a qual se manterá até ao completo desembaraço aduaneiro das mesmas.
 
-###### Art. 884.º O número de especificações pautais, nos despachos externos de importação, não poderá exceder, em regra, três por cada volume e doze na totalidade por cada bilhete de despacho.
+Art. 884.º O número de especificações pautais, nos despachos externos de importação, não poderá exceder, em regra, três por cada volume e doze na totalidade por cada bilhete de despacho.
 
 § único. Os directores das alfândegas e os chefes das delegações aduaneiras de 1.ª classe poderão, em casos especiais e devidamente justificados, autorizar o seguimento de despachos externos com um número de especificações pautais superior aos indicados no corpo deste artigo.
 
-###### Art. 885.º Os governadores farão publicar, conforme proposta da Direcção ou Repartição Provincial dos Serviços das Alfândegas, uma lista das mercadorias, com os correspondentes artigos pautais, que são dispensadas da obrigatoriedade do despacho por declaração.
+Art. 885.º Os governadores farão publicar, conforme proposta da Direcção ou Repartição Provincial dos Serviços das Alfândegas, uma lista das mercadorias, com os correspondentes artigos pautais, que são dispensadas da obrigatoriedade do despacho por declaração.
 
 § único. A lista de que trata este artigo será revista anualmente, introduzindo-se nela as alterações que a prática e as conveniências do serviço aduaneiro aconselharem.
 
-###### Art. 886.º Os despachos por declaração das mercadorias, para que esta não seja obrigatória, terão preferência sobre os outros em todas as operações e expediente aduaneiros.
+Art. 886.º Os despachos por declaração das mercadorias, para que esta não seja obrigatória, terão preferência sobre os outros em todas as operações e expediente aduaneiros.
 
-###### Art. 887.º Quando os volumes submetidos a despacho no mesmo bilhete contiverem mercadorias sujeitas a declaração obrigatória e outras para as quais essa declaração seja facultativa, deverá o importador processar o bilhete adicional para as primeiras, se não preferir fazer a declaração para a totalidade.
+Art. 887.º Quando os volumes submetidos a despacho no mesmo bilhete contiverem mercadorias sujeitas a declaração obrigatória e outras para as quais essa declaração seja facultativa, deverá o importador processar o bilhete adicional para as primeiras, se não preferir fazer a declaração para a totalidade.
 
-###### Art. 888.º Nos casos de mercadorias tributadas especìficamente e para as quais seja obrigatória a declaração, pode o declarante classificar a mercadoria, quando tenha dúvidas, conforme a sua opinião, expondo tais dúvidas e pedindo a verificação prévia, a qual só poderá ser realizada fora das horas de expediente ordinário.
+Art. 888.º Nos casos de mercadorias tributadas especìficamente e para as quais seja obrigatória a declaração, pode o declarante classificar a mercadoria, quando tenha dúvidas, conforme a sua opinião, expondo tais dúvidas e pedindo a verificação prévia, a qual só poderá ser realizada fora das horas de expediente ordinário.
 
 § único. O chefe do serviço de despacho, depois de apreciar os fundamentos expostos, autorizará ou não essa verificação, finda a qual, quando tiver sido autorizada, o bilhete lhe será novamente presente, a fim de ser ordenado o prosseguimento dos restantes trâmites do despacho.
 
-###### Art. 889.º As pequenas encomendas vindas por via marítima e incluídas ou não nos manifestos de carga podem ser despachadas mediante o processamento de bilhetes de caderneta e por declaração verbal, quando o seu peso não for superior a 30 kg ou o valor não exceder 1000$00.
+Art. 889.º As pequenas encomendas vindas por via marítima e incluídas ou não nos manifestos de carga podem ser despachadas mediante o processamento de bilhetes de caderneta e por declaração verbal, quando o seu peso não for superior a 30 kg ou o valor não exceder 1000$00.
 
 § único. Esta concessão é restrita ao caso de os importadores solicitarem directamente a desalfandegação dos volumes, não havendo em tal caso que observar-se as disposições sobre declaração obrigatória das especificações pautais correspondentes às mercadorias.
 
-###### Art. 890.º A conferência geral da fórmula de despacho será feita depois da entrega da mercadoria.
+Art. 890.º A conferência geral da fórmula de despacho será feita depois da entrega da mercadoria.
 
-###### Art. 891.º Salvo nos casos de má fé, as diferenças encontradas nos despachos ou noutros documentos aduaneiros, com excepção do imposto do selo, contra ou a favor da Fazenda Nacional, não excedentes a 10$00, não serão indemnizadas.
+Art. 891.º Salvo nos casos de má fé, as diferenças encontradas nos despachos ou noutros documentos aduaneiros, com excepção do imposto do selo, contra ou a favor da Fazenda Nacional, não excedentes a 10$00, não serão indemnizadas.
 
 § 1.º Quando na verificação forem encontradas diferenças contra a Fazenda Nacional de mais de 10$00 até 500$00 ou, ultrapassando esta quantia, não excedam 10 por cento da totalidade dos direitos e mais imposições, salvo nos casos de provada má fé, os despachos seguirão também sem mais procedimento, fazendo-se, porém, nas fórmulas as necessárias correcções.
 
@@ -5810,15 +5922,15 @@ h) Saída das mercadorias.
 
 § 5.º Para pagamento das diferenças encontradas, nos termos dos parágrafos anteriores, será sempre processado bilhete adicional ou de acréscimo.
 
-###### Art. 892.º As diferenças encontradas nas declarações de que resulte um prejuízo contra a parte superior a 10$00 serão indemnizadas por meio de encontro ou de restituição, nos termos dos artigos 491.º a 501.º deste estatuto.
+Art. 892.º As diferenças encontradas nas declarações de que resulte um prejuízo contra a parte superior a 10$00 serão indemnizadas por meio de encontro ou de restituição, nos termos dos artigos 491.º a 501.º deste estatuto.
 
 #### SECÇÃO III — Das restantes modalidades de despacho
 
-###### Art. 893.º São extensivas, na parte aplicável, aos despachos de reimportação, exportação definitiva, reexportação, trânsito, baldeação, transferência, cabotagem, importação e exportação temporárias as disposições das secções I e II deste capítulo.
+Art. 893.º São extensivas, na parte aplicável, aos despachos de reimportação, exportação definitiva, reexportação, trânsito, baldeação, transferência, cabotagem, importação e exportação temporárias as disposições das secções I e II deste capítulo.
 
-###### Art. 894.º Observar-se-ão no processamento e execução das formalidades das diversas modalidades do despacho aduaneiro as disposições constantes dos regulamentos vigentes, assim como dos despachos dos governadores e das determinações ou instruções constantes das ordens de serviço das alfândegas, na parte não alterada por este estatuto.
+Art. 894.º Observar-se-ão no processamento e execução das formalidades das diversas modalidades do despacho aduaneiro as disposições constantes dos regulamentos vigentes, assim como dos despachos dos governadores e das determinações ou instruções constantes das ordens de serviço das alfândegas, na parte não alterada por este estatuto.
 
-###### Art. 895.º Os directores das alfândegas e os chefes das estâncias aduaneiras poderão prorrogar por mais dez dias e por motivos justificados os prazos prescritos no corpo do artigo 852.º, mediante o pagamento do emolumento de 50$00, que será liquidado no respectivo bilhete de despacho juntamente com o triplo do imposto do selo nele referido.
+Art. 895.º Os directores das alfândegas e os chefes das estâncias aduaneiras poderão prorrogar por mais dez dias e por motivos justificados os prazos prescritos no corpo do artigo 852.º, mediante o pagamento do emolumento de 50$00, que será liquidado no respectivo bilhete de despacho juntamente com o triplo do imposto do selo nele referido.
 
 § único. O emolumento referido no corpo do artigo é também devido pela prorrogação do prazo dos despachos de importação definitiva, concedida nos termos da primeira parte do § 2.º do artigo 877.º
 
@@ -6132,7 +6244,7 @@ Pessoal do quadro técnico-aduaneiro do ultramar e sua distribuição pelas dive
 
 (Artigo 128.º do Estatuto Orgânico das Alfândegas do Ultramar)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22700/20872183.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22700/20872183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22700/20872183.pdf)
 
 QUADRO IX
 
@@ -6140,7 +6252,7 @@ Pessoal do quadro auxiliar aduaneiro do ultramar e sua distribuição pelas dive
 
 (Artigo 152.º do Estatuto Orgânico das Alfândegas do Ultramar)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22700/20872183.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22700/20872183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22700/20872183.pdf)
 
 QUADRO X
 
@@ -6148,7 +6260,7 @@ Pessoal do quadro dos serviços de tesouraria das alfândegas do ultramar e sua 
 
 (Artigo 165.º do Estatuto Orgânico das Alfândegas do Ultramar)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22700/20872183.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22700/20872183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22700/20872183.pdf)
 
 QUADRO XI
 
@@ -6156,7 +6268,7 @@ Pessoal do quadro dos serviços de laboratório das alfândegas do ultramar e su
 
 (Artigo 178.º do Estatuto Orgânico das Alfândegas do Ultramar)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22700/20872183.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22700/20872183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22700/20872183.pdf)
 
 QUADRO XII
 
@@ -6164,7 +6276,7 @@ Pessoal do quadro do tráfego das alfândegas do ultramar e sua distribuição p
 
 (Artigo 187.º do Estatuto Orgânico das Alfândegas do Ultramar)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22700/20872183.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22700/20872183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22700/20872183.pdf)
 
 Nota. - Estão incluídos neste quadro os empregados do quadro do tráfego que à data da publicação deste estatuto se encontram na situação de contratados ou de assalariados.
 
@@ -6174,7 +6286,7 @@ Pessoal do quadro da fiscalização marítima e fluvial das alfândegas do ultra
 
 (Artigo 207.º do Estatuto Orgânico das Alfândegas do Ultramar)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22700/20872183.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22700/20872183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22700/20872183.pdf)
 
 Nota. - Estão incluídos neste quadro os empregados da fiscalização marítima e fluvial que à data da publicação deste estatuto se encontram na situação de contratados ou de assalariados, aos quais são aplicáveis as disposições do artigo 125.º deste estatuto.
 
@@ -6184,6 +6296,6 @@ Subsídio a abonar aos funcionários do quadro técnico-aduaneiro do ultramar qu
 
 (Artigo 298.º do Estatuto Orgânico das Alfândegas do Ultramar)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22700/20872183.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22700/20872183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22700/20872183.pdf)
 
 Ministério do Ultramar, 29 de Setembro de 1960. - O Ministro do Ultramar, Vasco Lopes Alves.

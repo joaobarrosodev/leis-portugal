@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 74/1991, 2º Suplemento, Série I-B de 1991-03-30
   number: '74'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1622-(12) a 1622-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/03/074b02/00120012.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/51/1991/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/51-1991-477093
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-03-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e99ae71913d15f5d21d9a918cab7f42c78708b3d54f1def01f1957bc5e4329f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8d23cefb7aa04f2ffda0103dbb94716084d84be3f3ec19e18d2c068e07dd704
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Pessoal Dirigente
-- Universidade dos Açores
 - Pessoal Técnico Superior
 - Quadro de Pessoal
 - Serviços Sociais Universitários
-- Açores
-relationships: []
+- Universidade dos Açores
+relationships:
+- type: cites
+  target: pt:dre:566189:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:05Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 51/91
+# Declaração de rectificação n.º 51/91
 
 Para os devidos efeitos se declara que o [Decreto Regulamentar n.º 33/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-1990-566189), publicado no Diário da República, n.º 253, de 2 de Novembro de 1990, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
 

@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/172/2014/03/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/172-2014-572432
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-10T00:00:00Z'
+  retrieved_at: '2026-10-22T18:24:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1d384ddddde0d164bcbbce8e3aeb8f6d1611797ab68700d4de7a8cab8ee88ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 692d272a3b66d90cd79f90dbbd880e8ca517a3ff8c73413d0f906167c8a40336
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:24:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,17 +71,17 @@ reuse:
 subjects:
 - Acidente de Trabalho
 - Código do Trabalho
-- Pensão por Incapacidade Permanente para o Trabalho
-- Inconstitucionalidade
-- Tribunal Constitucional
 - Doença Profissional
+- Incapacidade Permanente
+- Inconstitucionalidade
+- Pensão por Incapacidade Permanente para o Trabalho
 - Pensão Vitalícia
 - Pensionista
 - Pensões
 - Proteção Social
 - Remição de Pensões
 - Renda Vitalícia
-- Incapacidade Permanente
+- Tribunal Constitucional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/ac/232/2003/06/17/p/dre
@@ -111,16 +111,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/98/2009/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/98/2009/09/04/p/dre
+- type: cites
+  target: pt:dre:1071519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1338631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1780108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3451012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684202:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:24:23Z'
   warnings: []
   errors: []
 ---
@@ -243,7 +287,7 @@ PS - Favor; PSD - Abstenção; PCP - Contra; CDS-PP - Abstenção; BE - Contra.
 
 'Proposta de alteração:
 
-###### Artigo 74.º
+Artigo 74.º
 
 1 - Só pode ser total ou parcialmente remida, a requerimento do sinistrado ou beneficiário legal maior de idade, a pensão anual vitalícia devida a sinistrado com incapacidade permanente parcial inferior a 30 %, e a pensão anual vitalícia devida a beneficiário legal.
 

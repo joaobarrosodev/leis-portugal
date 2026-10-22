@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/06/11100/0001100027.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/5/2023/06/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/5-2023-214175756
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-06-09T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1ee77cb3645e6c86ad7b43571df53c874b6466035980daa30d4abf898dd6dcf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2d6a9aab4b17fef5ea881f49d8e317dd1ceadd073c945fe40762cd20b1f28dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Crime
-- Processo Penal
-- Código de Processo Penal
 - Arguido
+- Código de Processo Penal
+- Crime
 - Interpretação do Direito
 - Julgamento
 - Processo Judicial
+- Processo Penal
 - Prova
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/20/2013/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/20/2013/02/21/p/dre
+- type: cites
+  target: pt:dre:258493:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:03Z'
   warnings: []
   errors: []
 ---
@@ -224,7 +228,9 @@ C. Breve resenha da evolução legislativa
 
 16 - A Proposta de alteração era a seguinte (em itálico as alterações):
 
-###### Artigo 357.º — Reprodução ou leitura permitidas de declarações do arguido
+Artigo 357.º
+
+Reprodução ou leitura permitidas de declarações do arguido
 
 1 - A reprodução ou leitura de declarações anteriormente feitas pelo arguido no processo só é permitida:
 
@@ -236,7 +242,9 @@ b) Quando tenham sido feitas perante autoridade judiciária com assistência de 
 
 17 - A redação introduzida pela [Lei n.º 20/2013](https://diariodarepublica.pt/dr/detalhe/lei/20-2013-258493), e ainda vigente, veio a consagrar a utilizabilidade das declarações prestadas pelo arguido nas fases preliminares do processo (arts. 141.º, 143.º e 144.º/1/2) nos seguintes termos (realce a negrito dos trechos alterados):
 
-###### Artigo 357.º — Reprodução ou leitura permitidas de declarações do arguido
+Artigo 357.º
+
+Reprodução ou leitura permitidas de declarações do arguido
 
 1 - A reprodução ou leitura de declarações anteriormente feitas pelo arguido no processo só é permitida:
 
@@ -423,3 +431,5 @@ Como referi no voto de vencido no AFJ n.º 8/2017 (DR, Série I, 21.11.2017), a 
 Assim, concordando em que as declarações podem ser valoradas como prova desde que lidas ou reproduzidas em audiência de julgamento, parece-me que, na concretização desta afirmação, se deveria esclarecer ou interpretar esta conclusão no sentido de que podem ser valoradas como prova desde que, durante o julgamento, sendo permitida a leitura ou audição e observado o disposto no artigo 356.º, n.º 9, do CPP, sejam lidas ou ouvidas pelo tribunal e dadas a ler ou proporcionada a sua leitura ou audição aos demais sujeitos processuais.
 
 José Luís Lopes da Mota
+
+116533878

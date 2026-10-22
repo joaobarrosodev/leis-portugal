@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44532-1962-163637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-08-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:30:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d4c9b1c08cecd2cacc39a9223a3707448c465d8f33505c9bb90f9e062f04089
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56dadc067fbb8a449401573567ed3e05ff52d279f68f7ce4c03b844c56669d8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:30:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528599:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:30:49Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +108,11 @@ Nestes termos, ouvido o Governo-Geral de Moçambique e tendo em conta a urgênci
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A Missão de Fotogrametria Aérea de Moçambique é integrada nos serviços geográficos e cadastrais da província de Moçambique.
+Artigo 1.º A Missão de Fotogrametria Aérea de Moçambique é integrada nos serviços geográficos e cadastrais da província de Moçambique.
 
-###### Art. 2.º O artigo 5.º do [Decreto n.º 44239](https://diariodarepublica.pt/dr/detalhe/decreto/44239-1962-518398), de 16 de Março de 1962, passa a ter a seguinte redacção para a província de Moçambique:
+Art. 2.º O artigo 5.º do [Decreto n.º 44239](https://diariodarepublica.pt/dr/detalhe/decreto/44239-1962-518398), de 16 de Março de 1962, passa a ter a seguinte redacção para a província de Moçambique:
 
-###### Art. 5.º A Direcção dos Serviços Geográficos e Cadastrais de Moçambique compreende:
+Art. 5.º A Direcção dos Serviços Geográficos e Cadastrais de Moçambique compreende:
 
 1.º Gabinete de estudos;
 
@@ -112,7 +128,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 7.º Serviços de contencioso.
 
-###### Art. 3.º Compete aos serviços de apoio aéreo:
+Art. 3.º Compete aos serviços de apoio aéreo:
 
 a) Executar os voos de apoio e fotográficos relacionados com operações cartográficas, e em particular com a obtenção da fotografia aérea para a elaboração das cartas, plantas e fotoplanos necessários ao conhecimento do território e nas circunstâncias da sua ocupação urbana e rural ou ao estudo de vias de comunicação e outros melhoramentos públicos;
 
@@ -122,27 +138,27 @@ c) Desempenhar-se de quaisquer outras atribuições que superiormente lhes sejam
 
 § único. No ordenamento das actividades dos serviços de apoio aéreo ter-se-á presente que a sua finalidade primária, de que não devem ser desviados, é a realização dos voos necessários ao levantamento aerofotogramétrico do território, pelo que serão sempre consideradas prioritárias as operações para tal fim requisitadas pelos serviços de fotogrametria, a executar de harmonia com as indicações que por estes sejam dadas e por forma a permitir o cumprimento pontual dos programas cartográficos superiormente aprovados.
 
-###### Art. 4.º Os serviços de apoio aéreo serão chefiados por indivíduo com prática comprovada de trabalhos aerofotogramétricos e que seja engenheiro geógrafo ou piloto aviador com curso de nível universitário e qualificações para comando de aviões plurimotores.
+Art. 4.º Os serviços de apoio aéreo serão chefiados por indivíduo com prática comprovada de trabalhos aerofotogramétricos e que seja engenheiro geógrafo ou piloto aviador com curso de nível universitário e qualificações para comando de aviões plurimotores.
 
-###### Art. 5.º Além de todas as remunerações atribuídas aos funcionários do quadro da Direcção dos Serviços Geográficos e Cadastrais, ao pessoal tripulante de aeronaves será atribuído um subsídio de campo, calculado em função das horas de voo e da área fotografada, segundo tabela aprovada em portaria do Governo-Geral.
+Art. 5.º Além de todas as remunerações atribuídas aos funcionários do quadro da Direcção dos Serviços Geográficos e Cadastrais, ao pessoal tripulante de aeronaves será atribuído um subsídio de campo, calculado em função das horas de voo e da área fotografada, segundo tabela aprovada em portaria do Governo-Geral.
 
 § único. O pessoal de campo e de ar da Direcção dos Serviços Geográficos e Cadastrais sujeito a riscos especiais deverá ser segura de acordo com a legislação que vigorar na província.
 
-###### Art. 6.º Nos quadros da Direcção dos Serviços Geográficos e Cadastrais da província de Moçambique são criados os lugares constantes do mapa I anexo ao presente decreto.
+Art. 6.º Nos quadros da Direcção dos Serviços Geográficos e Cadastrais da província de Moçambique são criados os lugares constantes do mapa I anexo ao presente decreto.
 
 § único. Ficam, os órgãos legislativos da província autorizados a aumentar os quadros privativos, com vista à integração do pessoal assalariado e contratado da Missão de Fotogrametria Aérea de Moçambique.
 
-###### Art. 7.º O pessoal de voo fica abrangido pelo disposto no artigo 75.º do [Decreto n.º 44058](https://diariodarepublica.pt/dr/detalhe/decreto/44058-1961-185326), de 23 de Novembro de 1961.
+Art. 7.º O pessoal de voo fica abrangido pelo disposto no artigo 75.º do [Decreto n.º 44058](https://diariodarepublica.pt/dr/detalhe/decreto/44058-1961-185326), de 23 de Novembro de 1961.
 
-###### Art. 8.º Aos serviços de apoio aéreo será atribuído um fundo de maneio, a sair do fundo permanente da Direcção dos Serviços Geográficos e Cadastrais e fixado no montante requerido pelas exigências de aquisição urgente de materiais, necessária à rapidez e eficiência dos trabalhos que lhes forem cometidos, e bem assim à execução de quaisquer reparações urgentes do material de voo.
+Art. 8.º Aos serviços de apoio aéreo será atribuído um fundo de maneio, a sair do fundo permanente da Direcção dos Serviços Geográficos e Cadastrais e fixado no montante requerido pelas exigências de aquisição urgente de materiais, necessária à rapidez e eficiência dos trabalhos que lhes forem cometidos, e bem assim à execução de quaisquer reparações urgentes do material de voo.
 
-###### Art. 9.º São tornadas extensivas à Direcção dos Serviços Geográficos e Cadastrais, no respeitante aos seus serviços de apoio aéreo, as disposições dos artigos 3.º e 5.º do [Decreto n.º 34657](https://diariodarepublica.pt/dr/detalhe/decreto/34657-1945-528599), de 8 de Junho de 1945.
+Art. 9.º São tornadas extensivas à Direcção dos Serviços Geográficos e Cadastrais, no respeitante aos seus serviços de apoio aéreo, as disposições dos artigos 3.º e 5.º do [Decreto n.º 34657](https://diariodarepublica.pt/dr/detalhe/decreto/34657-1945-528599), de 8 de Junho de 1945.
 
-###### Art. 10.º As instalações, aparelhagem, material e todo o equipamento da Missão passam para o inventário da Direcção dos Serviços Geográficos e Cadastrais.
+Art. 10.º As instalações, aparelhagem, material e todo o equipamento da Missão passam para o inventário da Direcção dos Serviços Geográficos e Cadastrais.
 
-###### Art. 11.º Todas as verbas anteriormente atribuídas à Missão de Fotogrametria Aérea passam para a administração da Direcção dos Serviços Geográficos e Cadastrais.
+Art. 11.º Todas as verbas anteriormente atribuídas à Missão de Fotogrametria Aérea passam para a administração da Direcção dos Serviços Geográficos e Cadastrais.
 
-###### Art. 12.º A colocação nos Serviços Geográficos e Cadastrais do pessoal do quadro A anexo à Portaria Ministerial n.º 15808, de 30 de Março de 1956, e do pessoal contratado fora dos quadros far-se-á, se os interessados o requererem no prazo de 30 dias, pela forma seguinte:
+Art. 12.º A colocação nos Serviços Geográficos e Cadastrais do pessoal do quadro A anexo à Portaria Ministerial n.º 15808, de 30 de Março de 1956, e do pessoal contratado fora dos quadros far-se-á, se os interessados o requererem no prazo de 30 dias, pela forma seguinte:
 
 a) Os actuais adjunto e primeiro-assistente da Missão de Fotogrametria Aérea transitam, sem necessidade de nova nomeação ou visto, respectivamente, para o lugar de chefe dos serviços de apoio aéreo e para um dos lugares de engenheiro geógrafo-chefe criado pelo [Decreto n.º 44239](https://diariodarepublica.pt/dr/detalhe/decreto/44239-1962-518398), de 16 de Março de 1962, mediante declaração publicada no Boletim Oficial;
 
@@ -154,19 +170,19 @@ d) O mecânico de avião e o mecânico principal poderão ser contratados para o
 
 e) O artífice radioelectricista poderá ser contratado para o lugar de artífice radioelectricista principal.
 
-###### Art. 13.º As primeiras nomeações para os lugares criados pelo presente diploma são da competência do Ministro do Ultramar, de preferência por escolha entre os agentes que actualmente prestam serviço na Missão de Fotogrametria Aérea de Moçambique.
+Art. 13.º As primeiras nomeações para os lugares criados pelo presente diploma são da competência do Ministro do Ultramar, de preferência por escolha entre os agentes que actualmente prestam serviço na Missão de Fotogrametria Aérea de Moçambique.
 
-###### Art. 14.º O engenheiro chefe da secção de fotogrametria dos serviços de agrimensura, extintos pelo [Decreto n.º 44239](https://diariodarepublica.pt/dr/detalhe/decreto/44239-1962-518398), de 16 de Março de 1962, ingressa num dos lugares de engenheiro geógrafo-chefe do quadro dos Serviços Geográficos e Cadastrais, sem necessidade de nomeação ou visto, mediante declaração publicada no Boletim Oficial.
+Art. 14.º O engenheiro chefe da secção de fotogrametria dos serviços de agrimensura, extintos pelo [Decreto n.º 44239](https://diariodarepublica.pt/dr/detalhe/decreto/44239-1962-518398), de 16 de Março de 1962, ingressa num dos lugares de engenheiro geógrafo-chefe do quadro dos Serviços Geográficos e Cadastrais, sem necessidade de nomeação ou visto, mediante declaração publicada no Boletim Oficial.
 
-###### Art. 15.º Para a execução deste diploma o governador-geral mandará publicar em regulamento todas as disposições que forem julgadas convenientes.
+Art. 15.º Para a execução deste diploma o governador-geral mandará publicar em regulamento todas as disposições que forem julgadas convenientes.
 
-###### Art. 16.º Fica o Governo-Geral da província de Moçambique autorizado a abrir os créditos necessários à execução do presente diploma e do [Decreto n.º 44239](https://diariodarepublica.pt/dr/detalhe/decreto/44239-1962-518398), de 16 de Março de 1962, à medida que as disponibilidades financeiras o permitam.
+Art. 16.º Fica o Governo-Geral da província de Moçambique autorizado a abrir os créditos necessários à execução do presente diploma e do [Decreto n.º 44239](https://diariodarepublica.pt/dr/detalhe/decreto/44239-1962-518398), de 16 de Março de 1962, à medida que as disponibilidades financeiras o permitam.
 
-###### Art. 17.º Este diploma entrará imediatamente em vigor.
+Art. 17.º Este diploma entrará imediatamente em vigor.
 
-###### Art. 18.º É revogada a Portaria Ministerial n.º 15808, de 30 de Março de 1956.
+Art. 18.º É revogada a Portaria Ministerial n.º 15808, de 30 de Março de 1956.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Agosto de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

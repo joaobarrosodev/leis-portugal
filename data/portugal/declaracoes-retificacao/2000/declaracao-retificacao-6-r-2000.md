@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 126/2000, 3º Suplemento, Série I-B de 2000-05-31
   number: '126'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 2534-(29) a 2534-(30)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/05/126b03/00290030.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/6-r/2000/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/6-r-2000-522264
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:56:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2225f244b923e268b32debe597ac31b5ce7a416f8b2b94bce49501a6c96396c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a3910f36761eb12704070421bc7b664f8853c852bf4eafaa73e5778b30858f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:56:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,59 +67,63 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Região Autónoma
-- ILHA de são Miguel
-- ILHA Terceira
-- Pessoal Dirigente
+- Açores
+- Agricultura
 - Comissão Consultiva da Agricultura Florestas e Pescas
-- Ordenamento do Território
 - Conselho Consultivo Florestal Regional
-- Governo Regional
-- Direcção Regional das Pescas
+- Conselho Regional da Agricultura e Desenvolvimento Rural
 - Conselho Regional das Pescas
 - Criação de Serviços
 - Definição de Competências
+- Direcção Regional das Pescas
+- Direcção Regional de Desenvolvimento Agrário
 - Direcção Regional dos Recursos Florestais
 - Extinção de Serviços
-- Direcção Regional de Desenvolvimento Agrário
-- Recrutamento de Pessoal
-- ILHA das Flores
-- Ilha de São Jorge
-- Ilha do Corvo
-- Integração de Trabalhadores
-- Orgânica
-- ILHA de Santa Maria
-- Ilha do Pico
-- Política do Ambiente
-- Quadro de Pessoal
-- Política Agrícola
-- Pecuária
-- Agricultura
-- Política Florestal
-- Remuneração
-- Ilha Graciosa
-- Secretaria Regional da Agricultura e Pescas
-- Conselho Regional da Agricultura e Desenvolvimento Rural
-- Secretário Regional
-- Gestão de Recursos Humanos
-- Açores
 - Fardamento
+- Gestão de Recursos Humanos
+- Governo Regional
+- ILHA das Flores
+- ILHA de Santa Maria
+- Ilha de São Jorge
+- ILHA de são Miguel
+- Ilha do Corvo
+- Ilha do Pico
+- Ilha Graciosa
+- ILHA Terceira
+- Integração de Trabalhadores
+- Ordenamento do Território
+- Orgânica
+- Pecuária
+- Pessoal Dirigente
+- Política Agrícola
+- Política do Ambiente
+- Política Florestal
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Reestruturação de Serviços
+- Região Autónoma
+- Remuneração
+- Secretaria Regional da Agricultura e Pescas
+- Secretário Regional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/13/2000/05/08/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/13/2000/05/08/a/dre
+- type: cites
+  target: pt:dre:276022:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:56:33Z'
   warnings: []
   errors: []
 ---

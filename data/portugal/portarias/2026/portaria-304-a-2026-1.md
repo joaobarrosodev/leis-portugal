@@ -25,9 +25,7 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -48,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/304-a/2026/07/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/304-a-2026-1149478584
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-20T00:00:00Z'
+  retrieved_at: '2026-10-22T18:47:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cba7d9e77d433269ae4095dcd1a64ad7f7546810bdb7bf75018af2fb56745d4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad4a80537e5ace91444667e74006e5494307678df4440208307c4ec482e453d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:47:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
+- ASAE
+- Controlo Sanitário
 - Definição de Competências
 - Direção Geral de Alimentação e Veterinária
-- Controlo Sanitário
 - Fiscalização
 - Laboratório
-- ASAE
 - Operador Económico
+- Produção Animal
+- Produto Animal
 - Regulamento CE
 - Taxa
-- Produto Animal
 relationships:
 - type: cites
   target: celex:32004R0852
@@ -127,16 +125,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/113/2019/08/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/113/2019/08/19/p/dre
+- type: cites
+  target: pt:dre:1125313602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124044595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928659567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:992394047:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1172319694:por
+  label: Retificadas, as alíneas c), d) e e) do ponto i da parte B do anexo i, a alínea b) do ponto ii da parte B do anexo
+    i, o ponto iii da parte B do anexo i, o ponto v da parte B do anexo i, da presente portaria, pelo(a) Declaração de Retificação
+    n.º 35-B/2026/1 - Diário da República n.º 182/2026, Suplemento, Série I de 2026-09-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/35-b-2026-1172319694
+  date: '2026-09-17'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:47:07Z'
   warnings: []
   errors: []
 ---
@@ -251,7 +272,7 @@ e) As demais atividades oficiais expressamente previstas na presente portaria e 
 
 4 - O apuramento oficioso da taxa ou encargo é calculado com base nos elementos de que a DGAV disponha ou, na sua ausência, com base na média da taxa aplicada ao operador no período correspondente dos 3 anos anteriores.
 
-5 - Após validação dos elementos submetidos nos termos dos n.<sup>os</sup>1 e 2, ou após o apuramento oficioso previsto no número anterior, bem como nas demais situações em que sejam devidas taxas ou encargos ao abrigo da presente portaria, a DGAV procede à emissão da correspondente fatura, nota de débito ou documento equivalente de cobrança.
+5 - Após validação dos elementos submetidos nos termos dos n.os1 e 2, ou após o apuramento oficioso previsto no número anterior, bem como nas demais situações em que sejam devidas taxas ou encargos ao abrigo da presente portaria, a DGAV procede à emissão da correspondente fatura, nota de débito ou documento equivalente de cobrança.
 
 ###### Artigo 9.º — Pagamento das taxas ou encargos
 
@@ -269,7 +290,7 @@ e) As demais atividades oficiais expressamente previstas na presente portaria e 
 
 A presente portaria entra em vigor à data de produção de efeitos do [Decreto-Lei n.º 103/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2026-1125313602), de 22 de maio.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 16 de julho de 2026. - O Secretário de Estado da Agricultura, João Manuel Moura Rodrigues, em 17 de julho de 2026.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 16 de julho de 2026. - O Secretário de Estado da Agricultura, João Manuel Moura Rodrigues, em 17 de julho de 2026.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 2.º)
 
@@ -373,29 +394,29 @@ A presente portaria entra em vigor à data de produção de efeitos do [Decreto-
 
 ## ANEXO II — (a que se referem os n.os 2, 3 e 5 do artigo 2.º)
 
-| Tipo de controlo oficial | Forma de cálculo | Forma de cálculo | Frequência de liquidação |
+| Tipo de controlo oficial | Forma de cálculo | Frequência de liquidação |  |
 | --- | --- | --- | --- |
-| Controlos oficiais de estabelecimentos com atividades abrangidas pelo capítulo ii do anexo iv do [Regulamento (UE) 2017/625](https://data.europa.eu/eli/reg/2017/625/oj?locale=pt) | Valor Base = Quantidade (<sup>1</sup>) × Montante mínimo previsto pelo anexo iv do [Regulamento (UE) 2017/625](https://data.europa.eu/eli/reg/2017/625/oj?locale=pt) | Valor Base = Quantidade (<sup>1</sup>) × Montante mínimo previsto pelo anexo iv do [Regulamento (UE) 2017/625](https://data.europa.eu/eli/reg/2017/625/oj?locale=pt) | Mensal para o anexo iv, capítulo ii eventual para o anexo iv, capítulo i |
-| Controlos oficiais de estabelecimentos com atividades da área alimentar não abrangidas pelo anexo iv do [Regulamento (UE) 2017/625](https://data.europa.eu/eli/reg/2017/625/oj?locale=pt); controlos oficiais de estabelecimentos com atividades abrangidas pelo [Regulamento (CE) n.º 1069/2009](https://data.europa.eu/eli/reg/2009/1069/oj?locale=pt) e de estabelecimentos com atividades abrangidas pelo [Regulamento (CE) n.º 183/2005](https://data.europa.eu/eli/reg/2005/183/oj?locale=pt),[Regulamento (CE) n.º 1935/2004](https://data.europa.eu/eli/reg/2004/1935/oj?locale=pt),[Regulamento (CE) n.º 2023/2006](https://data.europa.eu/eli/reg/2006/2023/oj?locale=pt) e[Regulamento (UE) 2022/1616](https://data.europa.eu/eli/reg/2022/1616/oj?locale=pt) | Risco Estimado do estabelecimento (<sup>2</sup>)Risco 1 | Valor Base51,35€ | Anual, no mês de outubro |
-| Controlos oficiais de estabelecimentos com atividades da área alimentar não abrangidas pelo anexo iv do [Regulamento (UE) 2017/625](https://data.europa.eu/eli/reg/2017/625/oj?locale=pt); controlos oficiais de estabelecimentos com atividades abrangidas pelo [Regulamento (CE) n.º 1069/2009](https://data.europa.eu/eli/reg/2009/1069/oj?locale=pt) e de estabelecimentos com atividades abrangidas pelo [Regulamento (CE) n.º 183/2005](https://data.europa.eu/eli/reg/2005/183/oj?locale=pt),[Regulamento (CE) n.º 1935/2004](https://data.europa.eu/eli/reg/2004/1935/oj?locale=pt),[Regulamento (CE) n.º 2023/2006](https://data.europa.eu/eli/reg/2006/2023/oj?locale=pt) e[Regulamento (UE) 2022/1616](https://data.europa.eu/eli/reg/2022/1616/oj?locale=pt) | Risco 2Risco 3Risco 4Risco 5 | 51,35€102,69€153,85€359,42€ | Trimestral nos meses de abril, julho, outubro e janeiro, referente ao trimestre anterior |
-| Controlos oficiais realizados em território nacional a navios fábrica e congeladores aprovados (<sup>3</sup>) | 308,07 € por processo | 308,07 € por processo | Por ato |
-| Controlos oficiais realizados noutros Estados-Membros ou países terceiros a navios fábrica e congeladores aprovados | 308,07€ por processo, acrescido dos encargos efetivamente suportados pela DGAV com a deslocação, alojamento e ajudas de custo/subsistência dos técnicos intervenientes, quando aplicáveis, nos termos do regime legal em vigor para deslocações em serviço público | 308,07€ por processo, acrescido dos encargos efetivamente suportados pela DGAV com a deslocação, alojamento e ajudas de custo/subsistência dos técnicos intervenientes, quando aplicáveis, nos termos do regime legal em vigor para deslocações em serviço público | Por ato |
-| Controlo oficial a bordo de navio de transporte de gado durante a viagem de certificação | 613,08 € por dia de viagem | 613,08 € por dia de viagem | Eventual (por ato) |
-| Controlos oficiais realizados para efeitos de aprovação de estabelecimento (n.º 5 do artigo 2.º) | 308,07 € por processo | 308,07 € por processo | Eventual (por ato). |
+| Controlos oficiais de estabelecimentos com atividades abrangidas pelo capítulo ii do anexo iv do [Regulamento (UE) 2017/625](https://data.europa.eu/eli/reg/2017/625/oj?locale=pt) | Valor Base = Quantidade (1) × Montante mínimo previsto pelo anexo iv do [Regulamento (UE) 2017/625](https://data.europa.eu/eli/reg/2017/625/oj?locale=pt) | Mensal para o anexo iv, capítulo ii eventual para o anexo iv, capítulo i |  |
+| Controlos oficiais de estabelecimentos com atividades da área alimentar não abrangidas pelo anexo iv do [Regulamento (UE) 2017/625](https://data.europa.eu/eli/reg/2017/625/oj?locale=pt); controlos oficiais de estabelecimentos com atividades abrangidas pelo [Regulamento (CE) n.º 1069/2009](https://data.europa.eu/eli/reg/2009/1069/oj?locale=pt) e de estabelecimentos com atividades abrangidas pelo [Regulamento (CE) n.º 183/2005](https://data.europa.eu/eli/reg/2005/183/oj?locale=pt),[Regulamento (CE) n.º 1935/2004](https://data.europa.eu/eli/reg/2004/1935/oj?locale=pt),[Regulamento (CE) n.º 2023/2006](https://data.europa.eu/eli/reg/2006/2023/oj?locale=pt) e[Regulamento (UE) 2022/1616](https://data.europa.eu/eli/reg/2022/1616/oj?locale=pt) | Risco Estimado do estabelecimento (2)Risco 1 | Valor Base51,35€ | Anual, no mês de outubro |
+| Risco 2Risco 3Risco 4Risco 5 | 51,35€102,69€153,85€359,42€ | Trimestral nos meses de abril, julho, outubro e janeiro, referente ao trimestre anterior |  |
+| Controlos oficiais realizados em território nacional a navios fábrica e congeladores aprovados (3) | 308,07 € por processo | Por ato |  |
+| Controlos oficiais realizados noutros Estados-Membros ou países terceiros a navios fábrica e congeladores aprovados | 308,07€ por processo, acrescido dos encargos efetivamente suportados pela DGAV com a deslocação, alojamento e ajudas de custo/subsistência dos técnicos intervenientes, quando aplicáveis, nos termos do regime legal em vigor para deslocações em serviço público | Por ato |  |
+| Controlo oficial a bordo de navio de transporte de gado durante a viagem de certificação | 613,08 € por dia de viagem | Eventual (por ato) |  |
+| Controlos oficiais realizados para efeitos de aprovação de estabelecimento (n.º 5 do artigo 2.º) | 308,07 € por processo | Eventual (por ato). |  |
 
-(<sup>1</sup>) Quantidade expressa de acordo com a unidade prevista pelo anexo iv do [Regulamento (UE) 2017/625](https://data.europa.eu/eli/reg/2017/625/oj?locale=pt).
+(1) Quantidade expressa de acordo com a unidade prevista pelo anexo iv do [Regulamento (UE) 2017/625](https://data.europa.eu/eli/reg/2017/625/oj?locale=pt).
 
-(<sup>2</sup>) Cálculo automático no +SIPACE de acordo com os critérios de risco definidos em cada plano de controlo oficial da DGAV.
+(2) Cálculo automático no +SIPACE de acordo com os critérios de risco definidos em cada plano de controlo oficial da DGAV.
 
-(<sup>3</sup>) Nos controlos oficiais realizados noutros Estados-Membros ou em países terceiros a navios-fábrica e navios congeladores aprovados, ao valor da taxa fixada acrescem os encargos efetivamente suportados pela DGAV com deslocações, alojamento e ajudas de custo ou subsistência dos técnicos intervenientes, quando aplicáveis, calculados nos termos.
+(3) Nos controlos oficiais realizados noutros Estados-Membros ou em países terceiros a navios-fábrica e navios congeladores aprovados, ao valor da taxa fixada acrescem os encargos efetivamente suportados pela DGAV com deslocações, alojamento e ajudas de custo ou subsistência dos técnicos intervenientes, quando aplicáveis, calculados nos termos.
 
 ## ANEXO III — (a que se referem o n.º 6 do artigo 2.º e o n.º 2 do artigo 3.º)
 
 |  | Valor |
 | --- | --- |
 | A. Controlos e exames periciais aduaneiros (Importação) |  |
-| 1 - Exame pericial no momento do desembaraço aduaneiro por remessa de produtos compostos abrangidos pelos controlos veterinários à importação | 0,091 €/tonelada (<sup>1</sup>) |
-| 2 - Exame pericial no momento do desembaraço aduaneiro por remessa de alimentos de origem não animal destinados à alimentação animal, e por cada documento comum de entrada apresentado | 0,091 €/tonelada (<sup>1</sup>) |
+| 1 - Exame pericial no momento do desembaraço aduaneiro por remessa de produtos compostos abrangidos pelos controlos veterinários à importação | 0,091 €/tonelada (1) |
+| 2 - Exame pericial no momento do desembaraço aduaneiro por remessa de alimentos de origem não animal destinados à alimentação animal, e por cada documento comum de entrada apresentado | 0,091 €/tonelada (1) |
 | 3 - Exame pericial veterinário no momento do desembaraço aduaneiro: |  |
 | 3.1. - De um animal | 43,17 |
 | 3.2. - De dois ou mais animais | 86,34 € |
@@ -413,39 +434,39 @@ A presente portaria entra em vigor à data de produção de efeitos do [Decreto-
 | 13 - Remissão de certificados | 30,31 € |
 | 14 - Colheita de amostras para emissão de certificados de qualidade | 26,61 € |
 | D. Controlo e certificação de navios no âmbito da exportação de animais vivos |  |
-| 15 - Aprovação de navios de transporte de animais vivos antes da viagem (<sup>3</sup>) | 215,86 € |
+| 15 - Aprovação de navios de transporte de animais vivos antes da viagem (3) | 215,86 € |
 | 16 - Certificação de navios de transporte de animais vivos | 1021,80 € |
 | E. Controlos e atividades oficiais adicionais |  |
 | 17 - Avaliações periciais nas contra-análises | 107,93 € |
 | 18 - Vistorias para habilitação, para levantamento de suspensão, para efeitos de alteração das condições de funcionamento dos estabelecimentos ou das atividades nele exercidas | 215,86 € |
 | 19 - Processo de reconhecimento/designação de laboratórios | 153,27 € |
-| 20 - Controlos oficiais não planeados (n.º 2 do artigo 3.º). | 77, 02 € (<sup>2</sup>) |
+| 20 - Controlos oficiais não planeados (n.º 2 do artigo 3.º). | 77, 02 € (2) |
 
-(<sup>1</sup>) Num mínimo de 58,39 € e máximo de 445,85 €.
+(1) Num mínimo de 58,39 € e máximo de 445,85 €.
 
-(<sup>2</sup>) Quando envolva a visita de controlo ao estabelecimento. Ao valor fixado acresce o custo das análises realizadas.
+(2) Quando envolva a visita de controlo ao estabelecimento. Ao valor fixado acresce o custo das análises realizadas.
 
-(<sup>3</sup>) Ao valor fixado acrescem as despesas de deslocação do técnico (15,85 €/h, min. 1h), bem como o custo de quilómetro percorrido (0,53 €/km).
+(3) Ao valor fixado acrescem as despesas de deslocação do técnico (15,85 €/h, min. 1h), bem como o custo de quilómetro percorrido (0,53 €/km).
 
 ## ANEXO IV — (a que se referem os n.os 1 e 2 do artigo 4.º)
 
 Fatores de redução
 
-| Fatores de ponderação | Descrição | Redução | Valor máximo de redução cumulativa | Valor máximo de redução cumulativa | Aplicação |
+| Fatores de ponderação | Descrição | Redução | Valor máximo de redução cumulativa | Aplicação |  |
 | --- | --- | --- | --- | --- | --- |
 | 1 - Apoio à inspeção sanitária. | Disponibilização de condições materiais, técnicas e administrativas de apoio à inspeção sanitária, nos termos dos critérios mínimos e elementos comprovativos publicados no portal da DGAV | 15 % | 20 % | 35 % | Fator aplicável no cálculo mensal. |
-| 1 - Apoio à inspeção sanitária. | Participação em tarefas de inspeção e apoio ao controlo oficial, designadamente as previstas no artigo 18.º, n.<sup>os</sup>3 e 4, e n.º 7, alínea k) do [Regulamento (UE) 2017/625](https://data.europa.eu/eli/reg/2017/625/oj?locale=pt). | 10 % | 20 % | 35 % | Fator aplicável no cálculo mensal. |
-| 2 - Controlo de estabelecimentos. | Estabelecimentos certificados para a produção de produtos DOP (denominação de origem protegida), IGP (indicação geográfica protegida) ou ETG (especialidade tradicional garantida), e desde que pelo menos30 % da sua produção seja de produtos certificados.ouEstabelecimentos aderentes ao sistema complementar de controlo na importação de alimentos para animais | 20 % | 30 % | 35 % | Fator aplicável no cálculo mensal, trimestral e anual |
-| 2 - Controlo de estabelecimentos. | Estabelecimentos que na sequência de controlos oficiais não apresentem incumprimentos em todas as atividades autorizadas ou registadas | 20 % | 30 % | 35 % | Fator aplicável no cálculo mensal, trimestral e anual |
-| 2 - Controlo de estabelecimentos. | Estabelecimento certificado com base na série ISO 22000 ou certificação equivalente | 5 % | 30 % | 35 % | Fator aplicável no cálculo mensal, trimestral e anual |
+| Participação em tarefas de inspeção e apoio ao controlo oficial, designadamente as previstas no artigo 18.º, n.os3 e 4, e n.º 7, alínea k) do [Regulamento (UE) 2017/625](https://data.europa.eu/eli/reg/2017/625/oj?locale=pt). | 10 % |  |  |  |  |
+| 2 - Controlo de estabelecimentos. | Estabelecimentos certificados para a produção de produtos DOP (denominação de origem protegida), IGP (indicação geográfica protegida) ou ETG (especialidade tradicional garantida), e desde que pelo menos30 % da sua produção seja de produtos certificados.ouEstabelecimentos aderentes ao sistema complementar de controlo na importação de alimentos para animais | 20 % | 30 % | Fator aplicável no cálculo mensal, trimestral e anual |  |
+| Estabelecimentos que na sequência de controlos oficiais não apresentem incumprimentos em todas as atividades autorizadas ou registadas | 20 % |  |  |  |  |
+| Estabelecimento certificado com base na série ISO 22000 ou certificação equivalente | 5 % |  |  |  |  |
 
 Fatores de majoração
 
-| Fatores de ponderação | Descrição | Majoração | Valor máximo cumulativo de majoração | Valor máximo cumulativo de majoração | Aplicação |
+| Fatores de ponderação | Descrição | Majoração | Valor máximo cumulativo de majoração | Aplicação |  |
 | --- | --- | --- | --- | --- | --- |
 | 3 - Serviço de inspeção sanitária. | Serviços de inspeção sanitária realizados antes das 7 ou depois das 19 horas. | 30 % no período | 1,75 | 2,00 | Fator aplicável no cálculo mensal |
-| 3 - Serviço de inspeção sanitária. | Serviços de inspeção sanitária realizados em dias feriados, de descanso semanal ou complementar por solicitação do operador. | 50 % no período | 1,75 | 2,00 | Fator aplicável no cálculo mensal |
-| 3 - Serviço de inspeção sanitária. | Serviços de inspeção sanitária solicitados aos serviços da DGAV ou entidades delegadas, com menos de quarenta e oito horas de antecedência. | 50 % no ato de inspeção | NA | 2,00 | Fator aplicável no cálculo mensal |
+| Serviços de inspeção sanitária realizados em dias feriados, de descanso semanal ou complementar por solicitação do operador. | 50 % no período |  |  |  |  |
+| Serviços de inspeção sanitária solicitados aos serviços da DGAV ou entidades delegadas, com menos de quarenta e oito horas de antecedência. | 50 % no ato de inspeção | NA |  |  |  |
 
 Cálculo das taxas
 
@@ -458,3 +479,7 @@ Taxa = Valor base × (Fatores de redução 1 e/ou 2 aplicáveis) × (Fatores de 
 3 - Os fatores de redução 1 e 2 apenas são aplicáveis ao cálculo da taxa no período em que forem observados. No caso de taxas cobradas mensalmente são considerados os fatores de redução aplicáveis no último dia do período em causa; nas taxas trimestrais e anuais a aplicação é efetuada a partir do dia seguinte ao que o respetivo fator for validado na plataforma informática +SIPACE
 
 4 - O fator de ponderação 3 é calculado em proporção das horas laboradas no período, tendo em consideração a proporção dos períodos ou atos definidos, sendo os fatores cumulativos entre si.
+
+119949098
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:26px; } .Tbl3 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl5 { text-align:center; } .Tbl6 { min-height:18px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl9 { min-height:28px; } .Tbl10 { min-height:27px; } .Tbl11 { min-height:37px; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { min-height:33px; } .Tbl14 { min-height:88px; } .Tbl15 { min-height:66px; } .Tbl16 { min-height:57px; } .Tbl17 { min-height:47px; } .Tbl18 { min-height:131px; } .Tbl19 { min-height:31px; } .Tbl20 { min-height:38px; } .Tbl21 { min-height:50px; }

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/18/2025/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/18-2025-992402120
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-23T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d19c677ef74a7586b687cd65d84cb6d95e70cec8337dc7cf7127071e5944c86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b84857b6dd3e487f784546e767734bf5d36e0ecb80180cc245f10ac020d2d75f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Direito Civil
 - Jurisprudencia
 - Propriedade de BENS
-- Direito Civil
 - Usucapiao
 relationships:
 - type: cites
@@ -88,16 +88,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/91/1995/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/91/1995/09/02/p/dre
+- type: cites
+  target: pt:dre:108010871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:23Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +170,7 @@ III. Em síntese, e com relevante interesse para a boa decisão da causa, result
 
 a) a existência de inúmeras divergências relativamente à fração “J”, nomeadamente da descrição constante do registo predial, da escritura de propriedade horizontal e da caderneta predial, sendo certo que, fisicamente só existem 8 espaços destinados a arrumos no 7.º andar do prédio sito na Rua 1, em Fânzeres - Gondomar, ao contrário dos 44 lugares (Reg. Predial) ou dos 14 (Caderneta Predial) - Factos: 2; 3, 6, 25 e 26 da matéria de facto provada.
 
-b) A Câmara Municipal de Gondomar, indeferiu, inicialmente, a emissão das licenças de habitabilidade, à A. (à data BB e CC L.<sup>da</sup>) pelo seguinte motivo: “A compartimentação e o número dos arrumos no último piso não corresponde ao que foi aprovado; há diminuição no número de lugares de garagem, em favor da fração R; a propriedade horizontal não corresponde ao nível da cave e rés-do-chão e arrumos ao projeto aprovado, e, a rede de saneamento não foi executada de acordo com o aprovado” - Facto: 45 da matéria de facto provada.
+b) A Câmara Municipal de Gondomar, indeferiu, inicialmente, a emissão das licenças de habitabilidade, à A. (à data BB e CC L.da) pelo seguinte motivo: “A compartimentação e o número dos arrumos no último piso não corresponde ao que foi aprovado; há diminuição no número de lugares de garagem, em favor da fração R; a propriedade horizontal não corresponde ao nível da cave e rés-do-chão e arrumos ao projeto aprovado, e, a rede de saneamento não foi executada de acordo com o aprovado” - Facto: 45 da matéria de facto provada.
 
 c) As licenças de habitabilidade viriam a ser emitidas unicamente em 18 de dezembro de 1992 - Facto: 46 da matéria de facto provada.
 
@@ -302,7 +322,7 @@ Colhidos os vistos, cumpre deliberar.
 
 Constitui objecto da presente revista ampliada saber se um condómino pode adquirir, por usucapião, a titularidade do direito real de propriedade de um espaço de arrumos de um prédio, constituído em propriedade horizontal.
 
-# Parte-se da resposta a esta questão, para saber se aproveita à autora a presunção de propriedade derivada do registo predial.
+Parte-se da resposta a esta questão, para saber se aproveita à autora a presunção de propriedade derivada do registo predial.
 
 ***
 
@@ -324,7 +344,7 @@ São os seguintes os enunciados de dados de facto considerados assentes nas inst
 
 8 - As Administrações de Condomínio, em concreto a da entrada n.º ... da Rua 1, entendendo que o assunto ultrapassava as suas funções e obrigações, preferiu não identificar qualquer ocupante, informando até que desconhecia quem ocupava qualquer arrumo, sabendo ainda assim que os mesmos eram usados.
 
-9 - Em data não concretamente apurada, a A. procedeu à afixação de comunicado, com data aposta de 19/12/2018, nas portas dos aludidos arrumos (que corresponde ao doc. 4 junto com a p.i.), com o seguinte teor: “A Habiserve Construções, Norte, L.<sup>da</sup>, na qualidade de proprietária da fração letra “J” [...] da qual fazem parte integrante os espaços de arrumo - no 7.º andar, com entrada pelo n.º ..., para notificar V. Exa. - que se encontram a ser ocupados de forma não legitimada, vem com o presente comunicado solicitar a V. Exa. para no prazo de cinco (5) dias, contados da afixação do presente comunicado, entrar em contacto, no sentido de proceder ao arrendamento do espaço, conforme acreditamos ser do interesse de V. Exa.
+9 - Em data não concretamente apurada, a A. procedeu à afixação de comunicado, com data aposta de 19/12/2018, nas portas dos aludidos arrumos (que corresponde ao doc. 4 junto com a p.i.), com o seguinte teor: “A Habiserve Construções, Norte, L.da, na qualidade de proprietária da fração letra “J” [...] da qual fazem parte integrante os espaços de arrumo - no 7.º andar, com entrada pelo n.º ..., para notificar V. Exa. - que se encontram a ser ocupados de forma não legitimada, vem com o presente comunicado solicitar a V. Exa. para no prazo de cinco (5) dias, contados da afixação do presente comunicado, entrar em contacto, no sentido de proceder ao arrendamento do espaço, conforme acreditamos ser do interesse de V. Exa.
 
 Caso não pretenda arrendar o espaço, deverá proceder à entrega do mesmo livre de pessoas e bens, até ao limite do prazo indicado supra, abstendo-se de usar aquele ou qualquer outro espaço propriedade da empresa. Mais acrescento, que todos os espaços de arrumo, de todas as entradas, tanto no 4.º como no 7.º andares do prédio são em exclusivo propriedade da Habiserve Construções Norte, Lda. [...] É intenção regularizar as ocupações verificadas de forma extrajudicial e por acordo, tal como aconteceu com os espaços de estacionamento na cave, no entanto, ultrapassada a data indicada - quer para contacto no sentido do arrendamento do espaço ou entrega do mesmo - caso se verifique a manutenção da situação ou ausência de notícias da sua parte, não deixaremos de deitar mão a todos os meios legais ao nosso alcance para alcançar a desocupação do espaço, algo que acreditamos não ser do interesse de V. Exa., como não é do interesse desta empresa.”
 
@@ -362,9 +382,9 @@ Caso não pretenda arrendar o espaço, deverá proceder à entrega do mesmo livr
 
 26 - Porém, a planta entregue pela A. junto da CM de Gondomar, menciona pelo menos 4 (quatro) lugares de garagem pertencentes à fração “R”.
 
-27 - Por documento particular datado de 20/10/1993, intitulado “contrato promessa de compra e venda”, DD, na qualidade de “promitente vendedora” e AA, aqui R., na qualidade de “promitente compradora”, declararam, respetivamente, prometer vender e comprar, “a fração autónoma, designada pelas letras EF, com tudo o que a compõe correspondente a uma habitação no sexto andar direito traseiras, com arrumo no sétimo andar do mesmo prédio e lugar de garagem com entrada pelo número..., da Rua 1 do prédio em regime de propriedade horizontal sito no gaveto das Rua 1 n.<sup>os</sup> ...-...-...-...-...-... e ... e Rua 2, n.<sup>os</sup>..., ..., ..., ..., ..., ..., ... e ..., freguesia de Fânzeres - concelho de Gondomar, inscrito na matriz urbana sob o artigo..64 e descrito sob o número..07 e fls. 122 do livro 8-9”, pelo preço de 8.500.000$00 (oito milhões e quinhentos mil escudos).
+27 - Por documento particular datado de 20/10/1993, intitulado “contrato promessa de compra e venda”, DD, na qualidade de “promitente vendedora” e AA, aqui R., na qualidade de “promitente compradora”, declararam, respetivamente, prometer vender e comprar, “a fração autónoma, designada pelas letras EF, com tudo o que a compõe correspondente a uma habitação no sexto andar direito traseiras, com arrumo no sétimo andar do mesmo prédio e lugar de garagem com entrada pelo número..., da Rua 1 do prédio em regime de propriedade horizontal sito no gaveto das Rua 1 n.os ...-...-...-...-...-... e ... e Rua 2, n.os..., ..., ..., ..., ..., ..., ... e ..., freguesia de Fânzeres - concelho de Gondomar, inscrito na matriz urbana sob o artigo..64 e descrito sob o número..07 e fls. 122 do livro 8-9”, pelo preço de 8.500.000$00 (oito milhões e quinhentos mil escudos).
 
-28 - Posteriormente, por escritura pública de compra e venda celebrada em 9 de Novembro de 1993, a referida DD e marido EE declararam vender à Ré AA, a fração autónoma designada pelas letras “EF”, correspondente a uma habitação no sexto andar direito traseiras com entrada pelo n.º ... da Rua 1, do prédio urbano em regime de propriedade horizontal, sito na Rua 1 n.os ..., ..., ..., ..., ..., ..., ... e Rua 2, n.<sup>os</sup>..., ..., ..., ..., ..., ..., ... e ... da freguesia de Fânzeres, concelho de Gondomar, inscrita na matriz sob o artigo..64-EF, mais se referindo que o prédio estava descrito no registo predial sob o número..07.
+28 - Posteriormente, por escritura pública de compra e venda celebrada em 9 de Novembro de 1993, a referida DD e marido EE declararam vender à Ré AA, a fração autónoma designada pelas letras “EF”, correspondente a uma habitação no sexto andar direito traseiras com entrada pelo n.º ... da Rua 1, do prédio urbano em regime de propriedade horizontal, sito na Rua 1 n.os ..., ..., ..., ..., ..., ..., ... e Rua 2, n.os..., ..., ..., ..., ..., ..., ... e ... da freguesia de Fânzeres, concelho de Gondomar, inscrita na matriz sob o artigo..64-EF, mais se referindo que o prédio estava descrito no registo predial sob o número..07.
 
 29 - Mostrando-se tal aquisição registada a favor da R.
 
@@ -584,7 +604,7 @@ A resposta quanto a nós deve ser, ao invés, afirmativa. Vejamos.
 
 Manuel Henrique Mesquita explica que «o objectivo daquele preceito é apenas impedir que a posição relativa de cada condómino seja alterada por via negocial, sem o seu consentimento.
 
-Sempre que isso não esteja em causa, já não há motivo para impedir a modificação do título» (A propriedade horizontal no Código Civil Português, separata da Revista de Direito e de Estudos Sociais, Ano XXIII, n.<sup>os</sup>1-2-3-4, Coimbra, 1978:41 e A. Crespo Couto, «Alteração da propriedade horizontal por usucapião: sim ou não?», Propriedade Horizontal, II Jornadas, (coord. Margarida Costa Andrade, Madalena Teixeira e Teresa Santos, Gestlegal, Estoril, 2024:49).
+Sempre que isso não esteja em causa, já não há motivo para impedir a modificação do título» (A propriedade horizontal no Código Civil Português, separata da Revista de Direito e de Estudos Sociais, Ano XXIII, n.os1-2-3-4, Coimbra, 1978:41 e A. Crespo Couto, «Alteração da propriedade horizontal por usucapião: sim ou não?», Propriedade Horizontal, II Jornadas, (coord. Margarida Costa Andrade, Madalena Teixeira e Teresa Santos, Gestlegal, Estoril, 2024:49).
 
 Acrescenta Henrique Mesquita «que nos casos em que um condómino adquira por usucapião parte de uma fracção autónoma ou de uma coisa comum (incluindo, por exemplo, na sua fracção parte de um pátio ou jardim anexo ao edifício: cf. o art. 141,º, n.º 1, al. a)), também terá de haver alteração do título constitutivo e ninguém sustentará, por certo, que esta alteração só pode ser feita com o acordo de todos os condóminos».
 
@@ -785,3 +805,5 @@ Mas, mesmo que tal não se entendesse, para haver uma modificação do título c
 Mostra-se, assim, irrelevante a consideração das características físicas do arrumo e a constatação da existência de um exercício prolongado de uma posse formal sobre o dito arrumo, pois enquanto se mantiver a integração do arrumo “A5” na fração autónoma denominada pela letra “J”, a posse exercida revela-se inidónea para adquirir por usucapião.
 
 Em conclusão: À luz das normas legais imperativas que enformam o regime da propriedade horizontal, nomeadamente, os artigos 1419.º/1, e 1422.º-A/3, ambos do Código Civil, não é admissível, fora das hipóteses aí previstas, a aquisição por usucapião do direito de propriedade sobre um espaço devidamente individualizado, integrante de uma fração autónoma registada a favor de terceiro, ainda que estejam reunidos os demais requisitos de que depende aquela aquisição originária. - Nelson Borges Carneiro (relator vencido).
+
+119908654

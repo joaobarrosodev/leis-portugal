@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/13/2026/06/18/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2026-1133905361
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-18T00:00:00Z'
+  retrieved_at: '2026-10-22T18:44:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be40187755f5b7b092c0088a71cbe9f27973fd037b96ec08468b9c73385b06e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50e948161d46bd948212a7f24912b499554084016ccb25c9e38996c1be536ab0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:44:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
-- Turismo
-- Vinho
+- Açores
 - Governo Regional
+- Instituto da Vinha e do Vinho dos Açores
 - Política do Ambiente
 - Política Económica
-- Açores
+- Região Autónoma
+- Turismo
 - Vinha
-- Instituto da Vinha e do Vinho dos Açores
+- Vinho
 relationships: []
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:44:16Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +150,7 @@ b) Estar certificado pelo IVV Açores, IPRA;
 
 c) Possuir uma produção mínima anual de 500 litros ou 750 garrafas;
 
-d) Deter uma área mínima de exploração de 5000 m<sup>2</sup>.
+d) Deter uma área mínima de exploração de 5000 m2.
 
 ###### Artigo 6.º — Intervenções abrangidas
 
@@ -184,7 +184,7 @@ f) Assegurar que a sua presença não compromete a leitura nem a harmonia da pai
 
 As estruturas fixas devem respeitar as seguintes condições:
 
-a) Ter uma área máxima de implantação de 45 m<sup>2</sup>, no total das estruturas fixas, com um único piso acima da cota da soleira;
+a) Ter uma área máxima de implantação de 45 m2, no total das estruturas fixas, com um único piso acima da cota da soleira;
 
 b) Utilizar materiais compatíveis com a arquitetura tradicional, incluindo pedra, madeira, alumínio e vidro;
 
@@ -238,10 +238,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 21 de maio de 2026.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 11 de junho de 2026.**
+Assinado em Angra do Heroísmo em 11 de junho de 2026.
 
-**Publique-se.**
+Publique-se.
 
 A Representante da República para a Região Autónoma dos Açores, Susana Goulart Costa.
+
+119948792

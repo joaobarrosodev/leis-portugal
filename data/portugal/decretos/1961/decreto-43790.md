@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43790-1961-172696
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-07-13T00:00:00Z'
+  retrieved_at: '2026-10-22T19:24:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22264ba4a88dc56c48d12141843e483985468b5001fdfdb0606ab30ff80491d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef7e287682175565e12a3f3047640ff2383b12fc45cf81cd2554c4d4f3f425ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:24:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:351570:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:24:36Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +96,9 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. É autorizado o Ministro do Ultramar a conceder a transferência para a Pan American International Oil Corporation de todas as obrigações assumidas pela Pan American International Oil Company no contrato e acordo celebrados em 5 de Agosto de 1958 e publicados no Diário do Governo n.º 299, 2.ª série, de 24 de Dezembro do mesmo ano, ao abrigo das autorizações concedidas pelos artigos 1.º e 30.º do [Decreto n.º 41766](https://diariodarepublica.pt/dr/detalhe/decreto/41766-1958-351570), de 31 de Julho de 1958.
+Artigo único. É autorizado o Ministro do Ultramar a conceder a transferência para a Pan American International Oil Corporation de todas as obrigações assumidas pela Pan American International Oil Company no contrato e acordo celebrados em 5 de Agosto de 1958 e publicados no Diário do Governo n.º 299, 2.ª série, de 24 de Dezembro do mesmo ano, ao abrigo das autorizações concedidas pelos artigos 1.º e 30.º do [Decreto n.º 41766](https://diariodarepublica.pt/dr/detalhe/decreto/41766-1958-351570), de 31 de Julho de 1958.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 13 de Julho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

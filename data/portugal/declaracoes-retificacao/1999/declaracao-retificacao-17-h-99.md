@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 254/1999, 2º Suplemento, Série I-B de 1999-10-30
   number: '254'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 7424-(18) a 7424-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/10/254b02/00180020.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/17-h/1999/10/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-h-1999-431673
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:54:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95bf3b6bc233a965d53b026902039f531d9598cb6d78dcc7c3461379b4ac0752
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12ac869f992f16f097acd2ea604e3913fe9866310896e266ae3dc80244a91b50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:54:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal não Docente
-- Estabelecimento de Ensino
-- Ensino Básico
-- Quadro de Pessoal
 - Açores
+- Ensino Básico
+- Estabelecimento de Ensino
+- Pessoal não Docente
+- Quadro de Pessoal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/30-a/1998/12/31/p/dre
@@ -81,16 +81,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/14/1999/09/04/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/14/1999/09/04/a/dre
+- type: cites
+  target: pt:dre:265706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580666:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:54:03Z'
   warnings: []
   errors: []
 ---
@@ -209,11 +217,11 @@ deve ler-se:
 
 No anexo X, «Escola Básica Integrada da Madalena», onde se lê:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/254b02/00180020.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/254b02/00180020.pdf)](https://files.diariodarepublica.pt/1s/1999/10/254b02/00180020.pdf)
 
 deve ler-se:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/254b02/00180020.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/254b02/00180020.pdf)](https://files.diariodarepublica.pt/1s/1999/10/254b02/00180020.pdf)
 
 No anexo XI, «Escola Básica Integrada de São Roque do Pico», onde se lê:
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24500/0000600016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/15/2023/12/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/15-2023-808196036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-21T00:00:00Z'
+  retrieved_at: '2026-10-22T17:54:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a65ddde113f3fdc51dd7b6aa45ed40342d279fdadfce37378b702d05c38a53a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 025797605691c5700c7bd6ac627cbe0e3b624b121836dc805237517cb2259db2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:54:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -86,16 +86,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/41/2013/06/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/41/2013/06/26/p/dre
+- type: cites
+  target: pt:dre:220944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497406:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:54:35Z'
   warnings: []
   errors: []
 ---
@@ -419,3 +435,5 @@ https://repositorio.ul.pt/bitstream/10451/49618/1/ulfd0148996_tese.pdf.
 (18) Cfr. Manuel de Andrade, Sentido e Valor da Jurisprudência, oração de sapiência proferida em 30.10.1953, Boletim da Faculdade de Direito da Universidade de Coimbra, ano XLVIII (1972), P. 275.
 
 Lisboa, 23/11/2023. - Mário Belo Morgado (Relator) - Júlio Manuel Vieira Gomes - Maria da Graça Trigo - Pedro de Lima Gonçalves - Lino José Batista Rodrigues Ribeiro - José António de Sousa Lameira - Fátima Gomes - Graça Amaral - Maria Olinda Garcia - Catarina Serra - Oliveira Abreu - Maria João Vaz Tomé - António Magalhães - Ricardo Alberto Santos Costa - José Maria Ferreira Lopes - João Cura Mariano - Manuel Capelo - António Barateiro Martins - Fernando Batista de Oliveira - Luís Espírito Santo - José Manuel Arcanjo Rodrigues - Nuno Ataíde das Neves - José Luís Ramalho Pinto - Ana Resende - Ana Paula Lobo - Domingos José de Morais - Manuel José Aguiar Pereira - Afonso Henrique - Isabel Salgado - Jorge Leal - Maria Amélia Alves Ribeiro - Emídio Francisco Santos - Nelson Borges Carneiro - Rui Manuel Gonçalves - Luís Fernando dos Santos Correia de Mendonça - Leonel Serôdio - Maria dos Prazeres Couceiro Pizarro Beleza - Maria Clara Sottomayor.
+
+117173331

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/1/2000/01/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-2000-511436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-01-03T00:00:00Z'
+  retrieved_at: '2026-10-22T18:55:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6795ca673c24a7fd7a11b11fdfc69eaf78beae92c9ea6a067ea09779060ec835
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9511d10743edf7b398d8e677d76507a1c66a40a06143ba9ef994d170a56cb86
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:55:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,43 +68,47 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acumulação de Funções
-- Tempo de Serviço
 - Carreira de Informática
+- Carreira Profissional
 - Carreira Técnica de Fazenda
 - Carreira Técnica Superior do Tesouro
 - Concurso
-- Direcção Geral do Tesouro
 - Definição de Competências
+- Direcção Geral do Tesouro
 - Diretor Geral
-- Carreira Profissional
+- Estágio de Formação
 - Formas de Provimento
 - Gabinete para a Análise do Financiamento do Estado e das Empresas Públicas
-- Recrutamento de Pessoal
-- Ministro das Finanças
 - Incompatibilidades
 - Integração de Trabalhadores
-- Estágio de Formação
+- Ministro das Finanças
 - Progressão na Carreira
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Reestruturação de Carreiras
 - Regime de Pessoal
 - Regime Jurídico
 - Remuneração
+- Tempo de Serviço
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/419/1999/10/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/419/1999/10/21/p/dre
+- type: cites
+  target: pt:dre:667351:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:55:01Z'
   warnings: []
   errors: []
 ---

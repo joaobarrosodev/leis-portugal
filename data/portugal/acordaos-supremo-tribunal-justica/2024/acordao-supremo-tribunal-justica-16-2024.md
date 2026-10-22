@@ -29,7 +29,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/24400/0000500013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/16/2024/12/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/16-2024-900224731
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-17T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aeaac11494d7922538065aa15ac1aadca25fad8b3623b0f0dab87f7830947324
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8d0c87ab0f23e7b64a5111e423a2972607e9f8800d9df7a838ed0e6052b99a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -87,16 +87,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/98/2009/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/98/2009/09/04/p/dre
+- type: cites
+  target: pt:dre:489505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75676516:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:08Z'
   warnings: []
   errors: []
 ---
@@ -223,21 +239,21 @@ De Direito
 
 A questão que se coloca no presente recurso é a de saber se o fator de bonificação previsto no n.º 5 a) das Instruções gerais da TNI é automaticamente aplicável quando o sinistrado, que não tinha 50 anos à data da alta médica, tenha 50 anos ou mais à data da revisão da incapacidade.
 
-Ora esta questão de grande sensibilidade social tem sido objeto de respostas contraditórias nos nossos Tribunais (<sup>1</sup>).
+Ora esta questão de grande sensibilidade social tem sido objeto de respostas contraditórias nos nossos Tribunais (1).
 
 Assim, a favor de uma aplicação automática pronunciaram-se, por exemplo, o Acórdão do Tribunal da Relação de Évora de 26-09-2019, proferido no processo 1029/16.2T8STR.E1 - “[...] 3. O fator de bonificação de 1,5 a que se refere a Instrução Geral n.º 5 al. a), segunda parte, da TNI, está apenas dependente de dois critérios objetivos: idade igual ou superior a 50 anos e não ter o sinistrado beneficiado da aplicação desse fator. 4. Não depende de qualquer agravamento, recidiva, recaída ou melhoria da lesão, e deve ser aplicado independentemente de pedido de revisão”) - o Acórdão do Tribunal da Relação do Porto de 01-02-2016, processo n.º 975/08.1TTPNF.P1 (“1. A aplicação do fator 1.5 previsto no n.º 5 das Instruções gerais da TNI aprovada pelo [DL n.º 352/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-2007-629107) de 23.10 - com fundamento na idade do sinistrado - não está dependente de qualquer agravamento, recidiva, recaída ou melhoria da lesão [pressupostos do pedido de revisão] mas apenas e tão só de um elemento: a idade do sinistrado. 2. Por isso, a referida «bonificação» deve ser aplicada ao sinistrado, independente do pedido de revisão, na medida em que a aplicação do fator 1.5 depende apenas do fator idade”).
 
 E contra, designadamente, o Acórdão do Tribunal da Relação de Lisboa de 13-01-2016, processo n.º 1606/12.0TTLSB-L.1-4 (“o fator de bonificação resultante da idade de 50 anos só funciona ou na fixação inicial da incapacidade ou, em caso de revisão (em qualquer das situações tipificadas), desde que médico-legalmente seja verificada alteração da desvalorização anteriormente atribuída”), o Acórdão do Tribunal da Relação de Guimarães de 15-06-2021, processo n.º 141/11.9TTVNF.4.G1 (“A atribuição do fator de bonificação de 1.5 decorrente de o sinistrado ter atingido 50 anos de idade pode também ter lugar em incidente de revisão, desde que se verifique o agravamento das sequelas/disfunções objetivado por perícia médica através do seu diferente enquadramento na TNI ou, caso se mantenham as mesmas rubricas, por atribuição de coeficiente diferente”), o Acórdão do Tribunal da Relação de Coimbra de 12-04-2023, processo n.º 35/03.1TTCVL.4.C1 (“No incidente de revisão da incapacidade para que possa ser aplicado o fator de bonificação 1,5 previsto no ponto 5, a), da TNI, impõe-se a verificação de uma modificação na capacidade de trabalho ou de ganho do sinistrado proveniente de agravamento, recidiva ou recaída da lesão e que origine a alteração da prestação fixada (artigo 70.º da LAT)”).
 
-A Tabela Nacional de Incapacidades por Acidentes de Trabalho e Doenças Profissionais, aprovada pelo [Decreto-Lei n.º 352/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-2007-629107) de 23 de outubro, e que faz parte integrante daquele diploma, constando do seu anexo I, contém nas Instruções Gerais a Instrução 5 a) segundo a qual “[n]a determinação do valor da incapacidade a atribuir devem ser observadas as seguintes normas, para além e sem prejuízo das que são específicas de cada capítulo ou número: a) os coeficientes de incapacidade previstos são bonificados, até ao limite da unidade, com uma multiplicação pelo factor 1.5, segundo a fórmula. IG + (IG x 0.5), se a vítima não for reconvertível em relação ao posto de trabalho ou tiver 50 anos ou mais quando não tiver beneficiado da aplicação desse factor”. Tratou-se neste ponto de uma evolução sensível quanto ao que dispunha a anterior Tabela Nacional de Incapacidades aprovada pelo [Decreto-Lei n.º 341/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-1993-645876) de 30 de setembro, cuja Instrução 5 a), previa que “[n]a determinação do valor final da incapacidade devem ser observadas as seguintes normas, para além e sem prejuízo das que são específicas de cada capítulo ou número: a) sempre que se verifique perda ou diminuição de função inerente ou imprescindível ao desempenho do posto de trabalho que ocupava com carácter permanente, os coeficientes de incapacidade previstos são bonificados com uma multiplicação pelo factor 1.5, se a vítima não for reconvertível em relação ao posto de trabalho ou tiver 50 anos ou mais” (<sup>2</sup>).
+A Tabela Nacional de Incapacidades por Acidentes de Trabalho e Doenças Profissionais, aprovada pelo [Decreto-Lei n.º 352/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-2007-629107) de 23 de outubro, e que faz parte integrante daquele diploma, constando do seu anexo I, contém nas Instruções Gerais a Instrução 5 a) segundo a qual “[n]a determinação do valor da incapacidade a atribuir devem ser observadas as seguintes normas, para além e sem prejuízo das que são específicas de cada capítulo ou número: a) os coeficientes de incapacidade previstos são bonificados, até ao limite da unidade, com uma multiplicação pelo factor 1.5, segundo a fórmula. IG + (IG x 0.5), se a vítima não for reconvertível em relação ao posto de trabalho ou tiver 50 anos ou mais quando não tiver beneficiado da aplicação desse factor”. Tratou-se neste ponto de uma evolução sensível quanto ao que dispunha a anterior Tabela Nacional de Incapacidades aprovada pelo [Decreto-Lei n.º 341/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-1993-645876) de 30 de setembro, cuja Instrução 5 a), previa que “[n]a determinação do valor final da incapacidade devem ser observadas as seguintes normas, para além e sem prejuízo das que são específicas de cada capítulo ou número: a) sempre que se verifique perda ou diminuição de função inerente ou imprescindível ao desempenho do posto de trabalho que ocupava com carácter permanente, os coeficientes de incapacidade previstos são bonificados com uma multiplicação pelo factor 1.5, se a vítima não for reconvertível em relação ao posto de trabalho ou tiver 50 anos ou mais” (2).
 
-Face à nova Tabela de Incapacidades a bonificação é atribuída automaticamente desde que a vítima tenha 50 anos ou mais. A Instrução 5 a) prevê, com efeito, duas situações distintas que considera suficientemente graves para que a bonificação tenha lugar: a circunstância de a vítima não ser reconvertível ao seu posto de trabalho e a sua idade (ter 50 anos ou mais) (<sup>3</sup>). Sendo certo que de um acidente de trabalho resulta uma perda de capacidade de trabalho ou de ganho o legislador considera que essa perda é agravada pela idade do sinistrado. Não se trata de uma presunção (<sup>4</sup>) - seja ela absoluta ou relativa - mas sim do reconhecimento de uma “realidade incontornável” (<sup>5</sup>), como lhe chamou o Acórdão do Tribunal da Relação do Porto de 24-10-2016, que explica esta opção legislativa:
+Face à nova Tabela de Incapacidades a bonificação é atribuída automaticamente desde que a vítima tenha 50 anos ou mais. A Instrução 5 a) prevê, com efeito, duas situações distintas que considera suficientemente graves para que a bonificação tenha lugar: a circunstância de a vítima não ser reconvertível ao seu posto de trabalho e a sua idade (ter 50 anos ou mais) (3). Sendo certo que de um acidente de trabalho resulta uma perda de capacidade de trabalho ou de ganho o legislador considera que essa perda é agravada pela idade do sinistrado. Não se trata de uma presunção (4) - seja ela absoluta ou relativa - mas sim do reconhecimento de uma “realidade incontornável” (5), como lhe chamou o Acórdão do Tribunal da Relação do Porto de 24-10-2016, que explica esta opção legislativa:
 
 “O envelhecimento é um fenómeno universal, irreversível e inevitável em todos os seres vivos. É certo que envelhecer difere de indivíduo para individuo, uma vez que o processo de envelhecimento pode ser acentuado ou retardado em razão de vários factores, entre outros, desde logo os de natureza genética, mas também dos que respeitam às condições e hábitos de vida do indivíduo e dos seus comportamentos [...] Em termos gerais e abstractos, é do conhecimento da ciência médica e, nos dias que correm, com toda a informação disponível e divulgada e com os cuidados de saúde a que se tem acesso, também da generalidade das pessoas que, após os 50 anos há um acentuar desse processo natural, que se vai agravando progressivamente com o aumento da idade. A título de mero exemplo, é consabido que a partir dos 50 anos de idade, independentemente do estado dessaúde do indivíduo, seja homem ou mulher, a medicina recomenda que se observem especiais cuidados preventivos de saúde, sendo aconselhável a realização de determinados exames de diagnóstico que normalmente não são prescritos antes de se atingir essa idade. É na consideração desta realidade incontornável que o legislador entendeu atribuir a bonificação do factor 1.5, reconhecendo que, em termos gerais e abstractos, a vítima de acidente de trabalho que fique com determinada incapacidade permanente terá uma dificuldade acrescida, como consequência natural do organismo, para o desempenho de uma actividade profissional”.
 
 A este propósito importa, também, atender ao que o Tribunal Constitucional afirmou, em uma das várias ocasiões em que foi chamado a pronunciar-se sobre a constitucionalidade da atribuição desta bonificação em razão da idade do sinistrado e em que precisamente se pronunciou no sentido de “não julgar inconstitucional a norma que determina a aplicação do «fator de bonificação de 1,5, em harmonia com a alínea a) do n.º 5 do anexo I do [Decreto-Lei n.º 352/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-2007-629107), de 23 de outubro, (Tabela Nacional de Incapacidades por Acidentes de Trabalho e Doenças Profissionais)» aos coeficientes de incapacidade previstos nesse diploma quando «a vítima [...] tiver 50 anos ou mais”.
 
-Pode, com efeito, ler-se, no n.º 7 da fundamentação do [Acórdão n.º 526/2016](https://diariodarepublica.pt/dr/detalhe/acordao/526-2016-75676516) proferido a 4 de outubro de 2016, no processo n.º 1059/15 (<sup>6</sup>):
+Pode, com efeito, ler-se, no n.º 7 da fundamentação do [Acórdão n.º 526/2016](https://diariodarepublica.pt/dr/detalhe/acordao/526-2016-75676516) proferido a 4 de outubro de 2016, no processo n.º 1059/15 (6):
 
 “Assim, as soluções legais do [Decreto-Lei n.º 352/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-2007-629107), de 23 de outubro, no que diz respeito à Tabela Nacional de Incapacidades por Acidentes de Trabalho e Doenças Profissionais, são justificadas pela consagração de um regime autónomo, distinto do aplicável ao dano civil, especificamente desenhado para o dano laboral que atinge a capacidade de ganho do trabalhador e também a pessoa.
 
@@ -255,17 +271,17 @@ Sendo assim, e se o legislador entendeu que quando o sinistrado tem 50 anos de i
 
 Uma parte da nossa jurisprudência, como vimos, responde afirmativamente.
 
-Invoca-se, sobretudo, que o legislador não previu qualquer mecanismo processual para revisão automática da pensão em função da idade e que a revisão da pensão seria um meio processual inadequado ou mesmo “enviesado” (<sup>7</sup>). Tal “colidiria frontalmente com o princípio estabelecido no artigo 70.º n.º 1 da [Lei n.º 98/2009](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), de onde decorre que no âmbito da revisão da incapacidade, a prestação pode ser alterada, mas desde que se verifique “uma modificação na capacidade de trabalho ou de ganho do sinistrado” (<sup>8</sup>). Acrescenta-se, ainda, que “a TNI tem natureza meramente instrumental em relação ao regime jurídico substantivo da reparação dos danos emergentes de acidente de trabalho” e que “não são mais que um conjunto de regras elucidativas da aplicação prática da mesma, no que toca à determinação do coeficiente de incapacidade a atribuir em cada caso concreto, sem porém concorrerem com conteúdo jurídico relevante no regime da reparação dos acidentes, que é domínio da LAT e do seu regulamento” (<sup>9</sup>).
+Invoca-se, sobretudo, que o legislador não previu qualquer mecanismo processual para revisão automática da pensão em função da idade e que a revisão da pensão seria um meio processual inadequado ou mesmo “enviesado” (7). Tal “colidiria frontalmente com o princípio estabelecido no artigo 70.º n.º 1 da [Lei n.º 98/2009](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), de onde decorre que no âmbito da revisão da incapacidade, a prestação pode ser alterada, mas desde que se verifique “uma modificação na capacidade de trabalho ou de ganho do sinistrado” (8). Acrescenta-se, ainda, que “a TNI tem natureza meramente instrumental em relação ao regime jurídico substantivo da reparação dos danos emergentes de acidente de trabalho” e que “não são mais que um conjunto de regras elucidativas da aplicação prática da mesma, no que toca à determinação do coeficiente de incapacidade a atribuir em cada caso concreto, sem porém concorrerem com conteúdo jurídico relevante no regime da reparação dos acidentes, que é domínio da LAT e do seu regulamento” (9).
 
-Importa, todavia, ter em conta que ao estabelecer em uma norma legal que um sinistrado com 50 anos (ou mais) tem direito a uma bonificação de 1.5 o legislador exprimiu uma opção, a de considerar que a idade representa um agravamento das consequências negativas da perda da capacidade de trabalho ou de ganho decorrente do acidente de trabalho. “Em suma: para o legislador dos acidentes de trabalho a idade do sinistrado - no caso, 50 anos ou mais - é factor relevante, que “acresce” à sua IPP para efeitos de atribuição de incapacidade, factor assente no facto de que a partir dessa idade as condições físicas/psíquicas de qualquer trabalhador se agravam de modo natural” (<sup>10</sup>).
+Importa, todavia, ter em conta que ao estabelecer em uma norma legal que um sinistrado com 50 anos (ou mais) tem direito a uma bonificação de 1.5 o legislador exprimiu uma opção, a de considerar que a idade representa um agravamento das consequências negativas da perda da capacidade de trabalho ou de ganho decorrente do acidente de trabalho. “Em suma: para o legislador dos acidentes de trabalho a idade do sinistrado - no caso, 50 anos ou mais - é factor relevante, que “acresce” à sua IPP para efeitos de atribuição de incapacidade, factor assente no facto de que a partir dessa idade as condições físicas/psíquicas de qualquer trabalhador se agravam de modo natural” (10).
 
 Pode, na realidade, afirmar-se que “[o] fator de bonificação 1,5, ao invés de violar os princípios da justa reparação e da igualdade, previstos, respetivamente, nos artigos 59.º, alínea f) e 13.º da CRP, foi criado no intuito específico de lhes dar integral cumprimento”, como se pode ler no sumário do Acórdão do Tribunal da Relação de Évora de 14-09-2023, Processo n.º 21789/22.0T8SNT.E1.
 
 Tal opção legislativa deve ser interpretada à luz do disposto no artigo 9.º do Código Civil e tendo em conta designadamente, como bem destaca o Acórdão do Tribunal da Relação do Porto de 09-01-2020, processo n.º 587/06.4TUPRT.4.P1, a unidade do sistema jurídico (n.º 1 do artigo 9.º), por um lado, e, por outro, que “na fixação do sentido e alcance da lei, o intérprete presumirá que o legislador consagrou as soluções mais acertadas e soube exprimir o seu pensamento em termos adequados” (n.º 3 do artigo 9.º). Seria arbitrária e conduziria a uma diferença de tratamento sem qualquer justificação uma interpretação que apenas atribuísse a bonificação a um sinistrado com 50 ou mais anos à data do acidente, ou melhor, à data em que fixada a incapacidade, mas já não a um sinistrado que tendo menos de 50 anos nesse momento, venha, no entanto, a atingir essa idade - com efeito, se e quando tiver 50 anos este último estará exatamente na mesma situação de agravamento das consequências negativas que justificou a bonificação de que beneficiou o sinistrado que já tinha 50 anos quando se procedeu à primeira avaliação da incapacidade.
 
-Há, pois, que proceder a uma interpretação teleológica, de resto mais conforme com a tutela constitucional em matéria de acidentes de trabalho, e afirmar que o fator de bonificação deve ser atribuído ao sinistrado com 50 anos ou mais, quer tenha já 50 à data em que é avaliada inicialmente a incapacidade, quer tenha menos idade, mas venha a atingir 50 anos. Se, porventura, fosse exato que o legislador não tinha previsto um mecanismo processual para operar esta atualização e a aplicação da bonificação, tal implicaria a existência de uma lacuna a preencher pelo intérprete, já que o direito adjetivo não deve trair o direito material ou substantivo (<sup>11</sup>).
+Há, pois, que proceder a uma interpretação teleológica, de resto mais conforme com a tutela constitucional em matéria de acidentes de trabalho, e afirmar que o fator de bonificação deve ser atribuído ao sinistrado com 50 anos ou mais, quer tenha já 50 à data em que é avaliada inicialmente a incapacidade, quer tenha menos idade, mas venha a atingir 50 anos. Se, porventura, fosse exato que o legislador não tinha previsto um mecanismo processual para operar esta atualização e a aplicação da bonificação, tal implicaria a existência de uma lacuna a preencher pelo intérprete, já que o direito adjetivo não deve trair o direito material ou substantivo (11).
 
-Mas, na realidade, a situação cabe na previsão do artigo 70.º da LAT se a mesma for objeto de uma interpretação teleológica. Com efeito, o legislador considerou que a idade do sinistrado - ter este 50 ou mais anos de idade - representa, ela própria, um fator que tem impacto na capacidade de trabalho ou de ganho e que representa um agravamento na situação do trabalhador, mormente no mercado de trabalho. Este agravamento pela idade, reconhecido pelo legislador, poderá ser objeto de um pedido de revisão das prestações (<sup>12</sup>).
+Mas, na realidade, a situação cabe na previsão do artigo 70.º da LAT se a mesma for objeto de uma interpretação teleológica. Com efeito, o legislador considerou que a idade do sinistrado - ter este 50 ou mais anos de idade - representa, ela própria, um fator que tem impacto na capacidade de trabalho ou de ganho e que representa um agravamento na situação do trabalhador, mormente no mercado de trabalho. Este agravamento pela idade, reconhecido pelo legislador, poderá ser objeto de um pedido de revisão das prestações (12).
 
 E não se afigura inútil ou “enviesada” a aplicação do mecanismo da revisão das prestações, tanto mais que o sinistrado tanto pode atingir os 50 anos apenas alguns dias, semanas ou meses após a fixação inicial das prestações, como pode vir a perfazer aquela idade anos ou mesmo décadas após tal fixação inicial, sendo conveniente que a bonificação seja aplicada a uma avaliação e a uma prestação atualizadas. Aliás, até pode suceder, por exemplo, que o incidente de revisão de incapacidade seja requerido pela entidade responsável com fundamento da melhoria da situação clínica (cf. artigo 70.º, números 1 e 2 da LAT), melhoria essa que pode vir a ser confirmada pela perícia médico-legal singular ou plural, havendo então que multiplicar essa nova IPP, inferior à originária ou até à atribuída num anterior incidente de revisão, pelo fator de bonificação de 1,5, desde que o sinistrado entretanto tenha atingido os 50 anos de idade.
 
@@ -281,28 +297,30 @@ Custas pelo Recorrido.
 
 Remeta-se certidão para publicação na 1.ª série do Diário da República (artigo 687.º, n.º 5 do Código de Processo Civil) e no Boletim do Trabalho e Emprego.
 
-(<sup>1</sup>) A este respeito vide PAULA LEAL DE CARVALHO, A Incapacidade permanente absoluta para o trabalho habitual e o fator de bonificação 1.5 - Questões Práticas, Prontuário de Direito do Trabalho 2017, n.º 1, pp. 75 e ss., pp. 90 e ss.
+(1) A este respeito vide PAULA LEAL DE CARVALHO, A Incapacidade permanente absoluta para o trabalho habitual e o fator de bonificação 1.5 - Questões Práticas, Prontuário de Direito do Trabalho 2017, n.º 1, pp. 75 e ss., pp. 90 e ss.
 
-(<sup>2</sup>) Sobre este regime cf. ALBERTINA AVEIRO PEREIRA, Acidentes de Trabalho (Os Exames Médicos e a Tabela Nacional de Incapacidades), Prontuário de Direito do Trabalho n.º 70, 2005, pp. 123 e ss., p. 129 que afirmava que “[a] bonificação traduz-se, assim, num factor de correcção, atendendo a casos particularmente gravosos ou injustos para o sinistrado, que não seriam devidamente tutelados com a “pura e simples” atribuição dos coeficientes previstos na TNI. Essas situações prendem-se com a idade do sinistrado (50 anos ou mais) e com a sua reconvertibilidade no posto de trabalho, factores que não resultando da aplicação dos coeficientes em si, a lei não quis deixar de tomar em consideração, face à situação mais penosa desses sinistrados, inserindo, assim, o dito factor de ajustamento ou correcção”.
+(2) Sobre este regime cf. ALBERTINA AVEIRO PEREIRA, Acidentes de Trabalho (Os Exames Médicos e a Tabela Nacional de Incapacidades), Prontuário de Direito do Trabalho n.º 70, 2005, pp. 123 e ss., p. 129 que afirmava que “[a] bonificação traduz-se, assim, num factor de correcção, atendendo a casos particularmente gravosos ou injustos para o sinistrado, que não seriam devidamente tutelados com a “pura e simples” atribuição dos coeficientes previstos na TNI. Essas situações prendem-se com a idade do sinistrado (50 anos ou mais) e com a sua reconvertibilidade no posto de trabalho, factores que não resultando da aplicação dos coeficientes em si, a lei não quis deixar de tomar em consideração, face à situação mais penosa desses sinistrados, inserindo, assim, o dito factor de ajustamento ou correcção”.
 
-(<sup>3</sup>) Sem prejuízo aliás de outra igualmente prevista na lei - veja-se a Instrução 5.b) “quando a lesão implicar alteração visível do aspecto físico (como no caso das disformias ou equivalentes) que afecte, de forma relevante, o desempenho do posto de trabalho”. Note-se que na anterior Tabela Nacional de Incapacidades se previa na Instrução 5 b) que “a incapacidade será igualmente corrigida com a multiplicação pelo factor 1,5 quando a lesão implicar alteração visível do aspecto físico (como no caso das dismorfias ou equivalentes), se a estética for inerente ou indispensável ao desempenho do posto de trabalho e se a vítima não for reconvertível em relação ao posto de trabalho ou tiver 50 anos ou mais (não acumulável com a alínea anterior)”, sendo que da atual desapareceu nesta Instrução a referência a 50 anos ou mais porque hoje qualquer sinistrado que tenha 50 anos ou mais beneficiará desta bonificação por força da atual Instrução 5.a).
+(3) Sem prejuízo aliás de outra igualmente prevista na lei - veja-se a Instrução 5.b) “quando a lesão implicar alteração visível do aspecto físico (como no caso das disformias ou equivalentes) que afecte, de forma relevante, o desempenho do posto de trabalho”. Note-se que na anterior Tabela Nacional de Incapacidades se previa na Instrução 5 b) que “a incapacidade será igualmente corrigida com a multiplicação pelo factor 1,5 quando a lesão implicar alteração visível do aspecto físico (como no caso das dismorfias ou equivalentes), se a estética for inerente ou indispensável ao desempenho do posto de trabalho e se a vítima não for reconvertível em relação ao posto de trabalho ou tiver 50 anos ou mais (não acumulável com a alínea anterior)”, sendo que da atual desapareceu nesta Instrução a referência a 50 anos ou mais porque hoje qualquer sinistrado que tenha 50 anos ou mais beneficiará desta bonificação por força da atual Instrução 5.a).
 
-(<sup>4</sup>) Contra cf. FILIPE ALBUQUERQUE MATOS, A Tabela Nacional das Incapacidades por Acidentes de Trabalho ou Doenças Profissionais e o factor de bonificação em função da idade- anotação ao Ac. do TRP de 09.01.2020, Proc. 587/06.4TUPRT.4.P1, pp. 55 e ss., p. 70, Autor que questiona se a presunção será ilidível ou inilidível. O Autor é também muito crítico em relação à consideração automática da idade do sinistrado.
+(4) Contra cf. FILIPE ALBUQUERQUE MATOS, A Tabela Nacional das Incapacidades por Acidentes de Trabalho ou Doenças Profissionais e o factor de bonificação em função da idade- anotação ao Ac. do TRP de 09.01.2020, Proc. 587/06.4TUPRT.4.P1, pp. 55 e ss., p. 70, Autor que questiona se a presunção será ilidível ou inilidível. O Autor é também muito crítico em relação à consideração automática da idade do sinistrado.
 
-(<sup>5</sup>) Cfr., igualmente, PAULA LEAL DE CARVALHO, ob. cit., p. 89: “É público e notório que a empregabilidade diminui em razão inversa do envelhecimento, apresentando as faixas etárias mais avançadas maior vulnerabilidade”.
+(5) Cfr., igualmente, PAULA LEAL DE CARVALHO, ob. cit., p. 89: “É público e notório que a empregabilidade diminui em razão inversa do envelhecimento, apresentando as faixas etárias mais avançadas maior vulnerabilidade”.
 
-(<sup>6</sup>) Cfr., igualmente, a Decisão Sumária n.º 335/2022, proferida no processo 422/2022, a 2 de maio de 2022, na qual se pode ler que “[a] circunstância de a bonificação operar independentemente do estado de saúde do sinistrado em nada releva, visto que - como se concluiu no acórdão citado -, o envelhecimento apresenta-se como circunstância suficientemente justificadora do tratamento diferente das pessoas com 50 anos ou mais, face às que têm idade inferior”.
+(6) Cfr., igualmente, a Decisão Sumária n.º 335/2022, proferida no processo 422/2022, a 2 de maio de 2022, na qual se pode ler que “[a] circunstância de a bonificação operar independentemente do estado de saúde do sinistrado em nada releva, visto que - como se concluiu no acórdão citado -, o envelhecimento apresenta-se como circunstância suficientemente justificadora do tratamento diferente das pessoas com 50 anos ou mais, face às que têm idade inferior”.
 
-(<sup>7</sup>) Acórdão do Tribunal da Relação de Évora de 28-05-2015, processo n.º 744/09.1TTPTM-B.E1: “forma perfeitamente enviesada”.
+(7) Acórdão do Tribunal da Relação de Évora de 28-05-2015, processo n.º 744/09.1TTPTM-B.E1: “forma perfeitamente enviesada”.
 
-(<sup>8</sup>) Acórdão do Tribunal da Relação do Porto de 24-10-2016, processo n.º 240/08.4TTVNG.5.P1.
+(8) Acórdão do Tribunal da Relação do Porto de 24-10-2016, processo n.º 240/08.4TTVNG.5.P1.
 
-(<sup>9</sup>) Acórdão do Tribunal da Relação de Évora de 28-05-2015.
+(9) Acórdão do Tribunal da Relação de Évora de 28-05-2015.
 
-(<sup>10</sup>) Acórdão do Tribunal da Relação do Porto de 09-01-2020, processo n.º 587/06.4TUPRT.4.P1.
+(10) Acórdão do Tribunal da Relação do Porto de 09-01-2020, processo n.º 587/06.4TUPRT.4.P1.
 
-(<sup>11</sup>) Nas palavras de JOSÉ MANUEL IGREJA MATOS, Acidentes de trabalho - Incapacidades temporárias causadas por recidivas de lesões anteriores, Prontuário de Direito do Trabalho números 74/75, 2006, pp. 328 e ss., p. 330, “[o] processo funda a sua legitimidade na estrita medida em que sirva os interesses substantivos que a lei e o direito entendam dever salvaguardar”.
+(11) Nas palavras de JOSÉ MANUEL IGREJA MATOS, Acidentes de trabalho - Incapacidades temporárias causadas por recidivas de lesões anteriores, Prontuário de Direito do Trabalho números 74/75, 2006, pp. 328 e ss., p. 330, “[o] processo funda a sua legitimidade na estrita medida em que sirva os interesses substantivos que a lei e o direito entendam dever salvaguardar”.
 
-(<sup>12</sup>) Como se pode ler na já citada Decisão Sumária do Tribunal Constitucional n.º 335/2022, “[a] aplicação da norma no incidente de revisão da incapacidade em nada altera os dados do problema”.
+(12) Como se pode ler na já citada Decisão Sumária do Tribunal Constitucional n.º 335/2022, “[a] aplicação da norma no incidente de revisão da incapacidade em nada altera os dados do problema”.
 
 Lisboa, 22 de maio de 2024. - Júlio Gomes (Relator) - Ramalho Pinto - Domingos José de Morais - José Eduardo Sapateiro - Mário Belo Morgado.
+
+118470069

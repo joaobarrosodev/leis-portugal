@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/asst/2/2001/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/assento/2-2001-604215
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-11-14T00:00:00Z'
+  retrieved_at: '2026-10-22T18:28:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4a6d45d0beba7f270ba7ff454f999afe693d9a0003d9dd2d74d2ff3902625a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d189c3ca8202023936ec3c356b086498755a02ab7c2453bb88cb4d3d56a50f29
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:28:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Amnistia
-- Crime
-- Multa
 - Contra-ordenação
 - Contravenção
-- Infracção Disciplinar
-- Ilícito de MERA Ordenação Social
-- Estabelecimento Prisional
-- Interpretação do Direito
-- Sanção Penal
+- Crime
 - Direito Penal
+- Estabelecimento Prisional
+- Ilícito de MERA Ordenação Social
+- Infracção Disciplinar
+- Interpretação do Direito
+- Multa
+- Sanção Penal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/ac/3/1994/11/04/p/dre
@@ -98,16 +98,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/29/1999/05/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/29/1999/05/12/p/dre
+- type: cites
+  target: pt:dre:185720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535799:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:28:29Z'
   warnings: []
   errors: []
 ---
@@ -282,7 +318,9 @@ Por sua vez, dispõe a [Lei n.º 30/87](https://diariodarepublica.pt/dr/detalhe/
 
 O cidadão que não se apresente às provas para classificação e selecção ou reclassificação para que foi convocado e não justifique a falta cometida no prazo de 30 dias, ou se recuse a realizar uma daquelas provas, é notado compelido à prestação do serviço militar, cumprindo todo o serviço efectivo normal, caso seja considerado apto.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - Em tempo de paz, será punido:
 

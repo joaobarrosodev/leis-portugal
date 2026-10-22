@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45412-1963-683829
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-12-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:38:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1133a65b24973a4ebee86590b72a11997b3ad74fa85eb3cbc46e4aa0041b680b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e7dcc6dbeb6acb070d5bd234b17f181ec0cb589b45705d56014f93b9738b5da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:38:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611508:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:38:03Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +133,7 @@ Disposições especiais
 
 A) Cabo Verde
 
-###### Artigo 1.º Nos serviços de instrução são introduzidas as seguintes alterações:
+Artigo 1.º Nos serviços de instrução são introduzidas as seguintes alterações:
 
 A) Criação de lugares:
 
@@ -127,7 +163,7 @@ No Liceu Gil Eanes ... 120500$00
 
 No Liceu Adriano Moreira ... 47100$00
 
-###### Art. 2.º Nos serviços de saúde são criados os seguintes lugares:
+Art. 2.º Nos serviços de saúde são criados os seguintes lugares:
 
 1) Pessoal de nomeação:
 
@@ -135,7 +171,7 @@ No Liceu Adriano Moreira ... 47100$00
 
 a prover nas condições que forem fixadas, em portaria, pelo governador da província.
 
-###### Art. 3.º Nos serviços de Fazenda e contabilidade são criados os seguintes lugares:
+Art. 3.º Nos serviços de Fazenda e contabilidade são criados os seguintes lugares:
 
 1) Pessoal da nomeação:
 
@@ -145,7 +181,7 @@ a prover nas condições que forem fixadas, em portaria, pelo governador da prov
 
 6 de fiscais dos impostos.
 
-###### Art. 4.º Ficam os órgãos legislativos da província autorizados:
+Art. 4.º Ficam os órgãos legislativos da província autorizados:
 
 a) A fixar, dentro dos limites legais estabelecidos para as respectivas categorias, os vencimentos a abonar no ano de 1964 ao pessoal do Corpo de Polícia de Segurança Pública, não podendo, porém, o aumento das despesas resultantes exceder, no referido ano, a importância de 65400$00;
 
@@ -153,23 +189,23 @@ b) A aumentar as importâncias que vêm sendo abonadas a título de abono de fam
 
 § único. No uso da autorização concedida pela alínea b) do presente artigo observar-se-á o disposto no artigo 23.º do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, na redacção dada pelo artigo 3.º do [Decreto n.º 41732](https://diariodarepublica.pt/dr/detalhe/decreto/41732-1958-352695), de 12 de Julho de 1958.
 
-###### Art. 5.º É fixado em 500000$00 o subsídio com que a província concorre no ano de 1964 para as despesas de exploração do N./M. Santo Antão.
+Art. 5.º É fixado em 500000$00 o subsídio com que a província concorre no ano de 1964 para as despesas de exploração do N./M. Santo Antão.
 
 § único. O referido subsídio será pago em duodécimos à Junta Autónoma dos Portos do Arquipélago de Cabo Verde, a cargo da qual ficará, a partir de 1 de Janeiro de 1964, a administração do referido navio.
 
-###### Art. 6.º O Ministro do Ultramar pode, por simples despacho, determinar o aproveitamento da faculdade conferida pelo artigo 2.º do [Decreto n.º 43600](https://diariodarepublica.pt/dr/detalhe/decreto/43600-1961-558262), de 14 de Abril de 1961, para estabelecimento de apoio ao referido na citada disposição. Quaisquer situações já resultantes de aproveitamento anterior são consideradas ao abrigo de idêntica faculdade.
+Art. 6.º O Ministro do Ultramar pode, por simples despacho, determinar o aproveitamento da faculdade conferida pelo artigo 2.º do [Decreto n.º 43600](https://diariodarepublica.pt/dr/detalhe/decreto/43600-1961-558262), de 14 de Abril de 1961, para estabelecimento de apoio ao referido na citada disposição. Quaisquer situações já resultantes de aproveitamento anterior são consideradas ao abrigo de idêntica faculdade.
 
 B) Angola
 
-###### Art. 7.º São atribuídos aos serviços provinciais de Fazenda e contabilidade dezanove lugares de director de 3.ª classe do quadro comum de Fazenda do ultramar, destinando-se cinco à chefia das repartições, incluindo a 1.ª e a de contabilidade da respectiva Direcção dos Serviços, e catorze à chefia das direcções distritais de Fazenda.
+Art. 7.º São atribuídos aos serviços provinciais de Fazenda e contabilidade dezanove lugares de director de 3.ª classe do quadro comum de Fazenda do ultramar, destinando-se cinco à chefia das repartições, incluindo a 1.ª e a de contabilidade da respectiva Direcção dos Serviços, e catorze à chefia das direcções distritais de Fazenda.
 
 § único. A distribuição dos funcionários referidos no corpo do presente artigo far-se-á de conformidade com o disposto na regra 11.ª do artigo 15.º do Estatuto Político-Administrativo, aprovado pelo [Decreto n.º 45374](https://diariodarepublica.pt/dr/detalhe/decreto/45374-1963-611508), de 22 de Novembro de 1963.
 
 C) Moçambique
 
-###### Art. 8.º São criados no quadro do pessoal de nomeação do Corpo de Polícia de Segurança Pública da província de Moçambique um lugar de comissário-chefe e um lugar de chefe de secretaria do comando distrital, destinados a substituir os dois lugares que, com as mesmas categorias, se encontram dotados no orçamento do corrente ano, além dos quadros, nos termos do [Decreto n.º 44660](https://diariodarepublica.pt/dr/detalhe/decreto/44660-1962-156263), de 2 de Novembro de 1962.
+Art. 8.º São criados no quadro do pessoal de nomeação do Corpo de Polícia de Segurança Pública da província de Moçambique um lugar de comissário-chefe e um lugar de chefe de secretaria do comando distrital, destinados a substituir os dois lugares que, com as mesmas categorias, se encontram dotados no orçamento do corrente ano, além dos quadros, nos termos do [Decreto n.º 44660](https://diariodarepublica.pt/dr/detalhe/decreto/44660-1962-156263), de 2 de Novembro de 1962.
 
-###### Art. 9.º É atribuída aos engenheiros dos serviços de obras públicas e transportes que acumularem com o exercício das funções dos seus cargos, e sem prejuízo destas, a fiscalização das empreitadas referentes a obras de construção civil nos aeroportos e aeródromos da província, a gratificação mensal de 2500$00.
+Art. 9.º É atribuída aos engenheiros dos serviços de obras públicas e transportes que acumularem com o exercício das funções dos seus cargos, e sem prejuízo destas, a fiscalização das empreitadas referentes a obras de construção civil nos aeroportos e aeródromos da província, a gratificação mensal de 2500$00.
 
 § 1.º Esta gratificação apenas é abonável enquanto os funcionários se mantiverem no exercício efectivo daquelas funções e cessará logo que as obras se encontrem concluídas.
 
@@ -177,13 +213,13 @@ C) Moçambique
 
 D) Macau
 
-###### Art. 10.º O pessoal referido nos §§ 2.º e 3.º do artigo 2.º do Diploma Legislativo n.º 1587, de 26 de Janeiro de 1963, será admitido por despacho do governador, com dispensa de quaisquer outras formalidades, salvo quando se trate de pessoal para prestar serviço em regime de ocupação exclusiva.
+Art. 10.º O pessoal referido nos §§ 2.º e 3.º do artigo 2.º do Diploma Legislativo n.º 1587, de 26 de Janeiro de 1963, será admitido por despacho do governador, com dispensa de quaisquer outras formalidades, salvo quando se trate de pessoal para prestar serviço em regime de ocupação exclusiva.
 
 II
 
 Disposições comuns
 
-###### Art. 11.º Os §§ 2.º a 4.º do artigo 1.º do [Decreto n.º 43160](https://diariodarepublica.pt/dr/detalhe/decreto/43160-1960-515196), de 12 de Setembro de 1960, passam a ter a seguinte redacção:
+Art. 11.º Os §§ 2.º a 4.º do artigo 1.º do [Decreto n.º 43160](https://diariodarepublica.pt/dr/detalhe/decreto/43160-1960-515196), de 12 de Setembro de 1960, passam a ter a seguinte redacção:
 
 § 2.º Não é permitido aumentar o número de linhas em cada lauda nem escrever fora do espaço entre linhas marginais, salvo as entrelinhas para correcção do texto, as notas de distribuição, os despachos, as contas dos papéis avulsos e os reconhecimentos de assinaturas.
 
@@ -191,17 +227,17 @@ Disposições comuns
 
 § 4.º Poderão ter mais de 25 linhas em cada lauda, mas não exceder as dimensões marcadas no corpo deste artigo, os papéis apresentados para selar a tinta de óleo, e a que corresponda a taxa do papel selado pròpriamente dito; em tal caso pagarão, por cada 50 linhas ou fracção, a taxa estabelecida para cada meia folha de papel selado.
 
-###### Art. 12.º É elevado para o dobro o limite máximo fixado pelo artigo 1.º do [Decreto n.º 44682](https://diariodarepublica.pt/dr/detalhe/decreto/44682-1962-155861), de 13 de Novembro de 1962.
+Art. 12.º É elevado para o dobro o limite máximo fixado pelo artigo 1.º do [Decreto n.º 44682](https://diariodarepublica.pt/dr/detalhe/decreto/44682-1962-155861), de 13 de Novembro de 1962.
 
-###### Art. 13.º É aditada ao artigo 19.º do [Decreto n.º 44227](https://diariodarepublica.pt/dr/detalhe/decreto/44227-1962-518188), de 9 de Março de 1962, a seguinte alínea:
+Art. 13.º É aditada ao artigo 19.º do [Decreto n.º 44227](https://diariodarepublica.pt/dr/detalhe/decreto/44227-1962-518188), de 9 de Março de 1962, a seguinte alínea:
 
 d) O preenchimento feito ao abrigo deste artigo considera-se definitivo, para todos os efeitos legais, desde que à data da nomeação os interessados tenham mais de cinco anos de serviço prestado em brigadas dos serviços dos portos, caminhos de ferro e transportes do ultramar.
 
-###### Art. 14.º Independentemente do recrutamento por concurso, previsto no [Decreto n.º 41365](https://diariodarepublica.pt/dr/detalhe/decreto/41365-1957-253050), de 15 de Novembro de 1957, poderá excepcionalmente ser contratado para os serviços de veterinária do ultramar, mediante despacho fundamentado, pessoal técnico qualificado, de formação universitária ou média, quando imperiosas necessidades de serviço o justifiquem.
+Art. 14.º Independentemente do recrutamento por concurso, previsto no [Decreto n.º 41365](https://diariodarepublica.pt/dr/detalhe/decreto/41365-1957-253050), de 15 de Novembro de 1957, poderá excepcionalmente ser contratado para os serviços de veterinária do ultramar, mediante despacho fundamentado, pessoal técnico qualificado, de formação universitária ou média, quando imperiosas necessidades de serviço o justifiquem.
 
-###### Art. 15.º As disposições do presente decreto entram em vigor em 1 de Janeiro de 1964.
+Art. 15.º As disposições do presente decreto entram em vigor em 1 de Janeiro de 1964.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Dezembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

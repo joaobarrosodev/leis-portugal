@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 253/1997, 3º Suplemento, Série I-A de 1997-10-31
   number: '253'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 5992-(9) a 5992-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/10/253a03/00090009.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/17-f/1997/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-f-1997-437848
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-10-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:49:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6901baa98018ae5c5af2a732c9bdb05d07b297a9602b708a0aacc08d3b995e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d7ea24aab8ae8732e772178b706e80fa58d30d8fe3005f9fce38bdaef72c7b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:49:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,37 +70,37 @@ reuse:
 subjects:
 - Análise Laboratorial
 - Aproximação das Legislações
-- Indústria Farmacêutica
-- Publicidade
-- Multa
+- Comércio
 - Comércio a Retalho
 - Comércio por Grosso
-- Infarmed
-- Ministro da Saúde
 - Comissão Técnica de Medicamentos para USO Veterinário
 - Contra-ordenação
 - Controlo de Qualidade
 - Direção Geral de Veterinária
-- União Europeia
+- Droga
+- Embalagem
 - Etiquetagem
 - Experimentação nos Animais
+- Exportação
 - Farmacêutico
 - Fiscalização
-- Inspecção Geral das Actividades Económicas
 - Importação
-- Embalagem
+- Indústria Farmacêutica
+- Infarmed
+- Inspecção Geral das Actividades Económicas
+- Medicamento Veterinário
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
-- Droga
+- Ministro da Saúde
+- Multa
 - Notificação
-- Exportação
+- Publicidade
 - Receita Médica
 - Regime Jurídico
 - Regulamento de Medicamentos de USO Veterinário
 - Responsabilidade Civil
 - Responsabilidade Criminal
-- Medicamento Veterinário
 - Taxa
-- Comércio
+- União Europeia
 - Veterinário
 relationships:
 - type: cites
@@ -119,16 +119,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/184/1997/07/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/184/1997/07/26/p/dre
+- type: cites
+  target: pt:dre:144639:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:49:09Z'
   warnings: []
   errors: []
 ---

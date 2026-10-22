@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/13500/0001000016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/395/2023/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/395-2023-215603988
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-13T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23cd5bbc23072dc937055547ddc7edaff31ce4e54425735742c4826b888a7f0e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c15eef772e3ace1b00328977068e87313b42739f9159ba58d176a2b60887b682
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assembleia de Freguesia
+- Autarquia Local
 - Inconstitucionalidade
 - Interpretação do Direito
 - Legalidade
 - Monção
 - Referendo Local
-- Autarquia Local
 - Viana do Castelo
 relationships:
 - type: cites
@@ -116,16 +116,112 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/4/2020/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/4/2020/11/11/p/dre
+- type: cites
+  target: pt:dre:116090196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128779781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139679806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:142522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148214576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1584298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165723198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185839058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2413167:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2931886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3156060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3281077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3410567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684261:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:28Z'
   warnings: []
   errors: []
 ---
@@ -285,3 +381,5 @@ III - DECISÃO
 Notifique, nos termos do disposto no artigo 31.º do Regime Jurídico do Referendo Local ([Lei Orgânica n.º 4/2000](https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2000-330217), de 24 de agosto, na redação em vigor).
 
 Lisboa, 14 de junho de 2023. - Rui Guerra da Fonseca - Carlos Medeiros de Carvalho - José Teles Pereira - António José da Ascensão Ramos - João Carlos Loureiro - José Eduardo Figueiredo Dias - Maria Benedita Urbano - Gonçalo Almeida Ribeiro - Mariana Canotilho - Joana Fernandes Costa - Afonso Patrão - José João Abrantes.
+
+116659639

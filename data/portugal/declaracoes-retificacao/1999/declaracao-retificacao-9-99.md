@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/9/1999/03/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-1999-151289
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-16T00:00:00Z'
+  retrieved_at: '2026-10-22T18:54:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4908a3b17dfb8afd6578ebbf335502e95c85869ccacba69bad08f9d9a8b72210
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ea4c363aa07bae7130578e37b266f36e222a9c2b6fdcb1d2bc8628863229a43
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:54:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Director Adjunto
 - ALTA Autoridade para a Comunicação Social
-- Crime
-- Publicidade
 - Código de Processo Penal
-- Multa
-- Jornalista
-- Liberdade de Imprensa
 - Comunicação Social
 - Conselho da Concorrência
 - Conselho de Redacção
 - Contra-ordenação
+- Crime
 - Depósito Legal
-- Diretor
+- Director Adjunto
+- Direito à Informação
 - Direitos e Liberdades
+- Diretor
 - Empresa Editorial
 - Empresa Noticiosa
 - Imprensa
 - Informação
+- Jornalista
 - Lei de Imprensa
-- Direito à Informação
-- Sanção Penal
+- Liberdade de Imprensa
+- Multa
 - Publicação
+- Publicidade
 - Responsabilidade Civil
+- Sanção Penal
 - Subdiretor
 relationships:
 - type: amended_by
@@ -100,16 +100,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/2/1999/01/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/1999/01/13/p/dre
+- type: cites
+  target: pt:dre:196218:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:54:57Z'
   warnings: []
   errors: []
 ---

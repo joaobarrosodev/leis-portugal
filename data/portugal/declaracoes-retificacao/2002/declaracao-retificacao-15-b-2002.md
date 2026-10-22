@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 75/2002, 1º Suplemento, Série I-A de 2002-03-30
   number: '75'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2938-(2) a 2938-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/075a01/00020002.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/15-b/2002/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-b-2002-586863
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:59:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3340c85944756b9a20f3ea585f832422152fcff963a66b1b5b5a8946e0d0d71c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37392439469a50d059a39f7fc90b0bf6872a2dc5391ae35226b5c9cf0603225d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:59:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/35/2002/02/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/35/2002/02/19/p/dre
+- type: cites
+  target: pt:dre:278032:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:59:48Z'
   warnings: []
   errors: []
 ---

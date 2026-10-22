@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45617-1964-470410
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-03-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:39:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6719c75e96276dba7eae63f2ca0617d2fc747daacb3719e7a848b241524de619
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 535e2ff26d30eaf75994b39fb9b20360aa4689257c06ce948c00ac2fe3e35f9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:39:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:39:52Z'
   warnings: []
   errors: []
 ---
@@ -90,10 +90,10 @@ Nos termos do artigo 181.º do Regulamento de Administração da Fazenda Naval;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o Ministério da Marinha, por intermédio do conselho administrativo da Direcção do Serviço de Abastecimentos, a celebrar contrato para a execução dos trabalhos de tipografia e encadernação necessários à publicação da Lista da Armada referida a 31 de Dezembro, dos anos de 1963, de 1964, de 1965, de 1966 e de 1967, pela importância de 540000$00.
+Artigo 1.º É autorizado o Ministério da Marinha, por intermédio do conselho administrativo da Direcção do Serviço de Abastecimentos, a celebrar contrato para a execução dos trabalhos de tipografia e encadernação necessários à publicação da Lista da Armada referida a 31 de Dezembro, dos anos de 1963, de 1964, de 1965, de 1966 e de 1967, pela importância de 540000$00.
 
-###### Art. 2.º A despesa em cada um dos futuros anos económicos não poderá exceder 108000$00 e constituirá encargo da dotação inscrita no orçamento de cada ano sob a rubrica «Edição da Lista da Armada, da Ordem da Armada e de outras publicações».
+Art. 2.º A despesa em cada um dos futuros anos económicos não poderá exceder 108000$00 e constituirá encargo da dotação inscrita no orçamento de cada ano sob a rubrica «Edição da Lista da Armada, da Ordem da Armada e de outras publicações».
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Março de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Fernando Quintanilha Mendonça Dias.

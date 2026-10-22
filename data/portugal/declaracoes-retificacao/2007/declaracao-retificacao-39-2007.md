@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/39/2007/05/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/39-2007-520820
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-16T00:00:00Z'
+  retrieved_at: '2026-10-22T19:08:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e6a518dbe2b3ddf383d356d6940d114c3ceb90714c449e9b679aaaa157504d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5afe9bb878a04e2a7332504f962933252a1d656d041f75130c83585511aeca4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:08:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Escola Superior de Enfermagem
-- Universidade dos Açores
 - Licenciatura
+- Plano de Estudos
 - Ponta Delgada
-relationships: []
+- Universidade dos Açores
+relationships:
+- type: corrects
+  target: pt:numero:portaria:419/2007
+  label: "Rectifica e republica o quadro n.º 2 anexo à Portaria n.º 419/2007, de 13 de Abril, DR.IS [73]\0\0"
+  source: null
+  date: '2007-04-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:08:06Z'
   warnings: []
   errors: []
 ---
@@ -96,6 +101,6 @@ Segundo comunicação do Ministério da Ciência, Tecnologia e Ensino Superior, 
 
 QUADRO N.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543254.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543254.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543254.pdf)
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 7 de Maio de 2007. - O Secretário-Geral, José M. Sousa Rego.

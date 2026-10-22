@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/9/2001/03/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-2001-390239
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-01T00:00:00Z'
+  retrieved_at: '2026-10-22T18:59:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a837d89da9559fe30529fbf1d678b356ba5cb2af7af5548e026d607f7219b7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a6e42fcf6fe03c1d1de2dfaccfe8d6a0049fa62050d843a69d319c97df03770
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:59:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acumulação de Pensões
-- Parlamentar
 - Cargos Políticos
 - Estatuto do Deputado
+- Parlamentar
+- Passaporte
 - Remuneração
 - Subsídio de Reintegração
 - Subvenção Mensal Vitalícia
-- Passaporte
 relationships:
 - type: amended_by
   target: pt:dre:603217:por
@@ -110,16 +110,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/1999/02/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/1999/02/10/p/dre
+- type: cites
+  target: pt:dre:169957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626808:por
+  label: null
+  source: null
 article_structure:
-  article_count: 61
+  article_count: 38
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:59:24Z'
   warnings: []
   errors: []
 ---
@@ -148,13 +208,17 @@ Os artigos 1.º, 2.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 
 
 2 - Os Deputados dispõem de estatuto único, aplicando-se-lhes os mesmos direitos e deveres, salvaguardadas condições específicas do seu exercício e o regime das diferentes funções parlamentares que desempenhem, nos termos da lei.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O mandato dos Deputados inicia-se com a primeira reunião da Assembleia da República após as eleições e cessa com a primeira reunião após as eleições subsequentes, sem prejuízo da suspensão ou da cessação individual do mandato.
 
 2 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -166,7 +230,9 @@ c) A ocorrência das situações referenciadas nas alíneas a), à excepção do
 
 2 - A suspensão do mandato estabelecida no número anterior para os casos da alínea g) do n.º 1 do artigo 20.º só é admissível imediatamente após a verificação de poderes pela Assembleia da República ou no momento da investidura no respectivo cargo autárquico e não pode ocorrer por mais do que um único período não superior a 180 dias.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Os Deputados podem pedir ao Presidente da Assembleia da República, por motivo relevante, a sua substituição por uma ou mais vezes, no decurso da legislatura.
 
@@ -188,7 +254,9 @@ d) Outro motivo invocado perante a Comissão de Ética e por esta considerado ju
 
 6 - A suspensão temporária ao abrigo da alínea d) do n.º 2 não pode ocorrer por período inferior a 50 dias, nem por mais do que uma vez em cada sessão legislativa, até ao máximo de 10 meses por legislatura, sem prejuízo do disposto no n.º 2 do artigo 4.º
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -202,7 +270,9 @@ c) ...
 
 3 - O regresso antecipado do Deputado não pode ocorrer antes de decorridos os 50 dias previstos no n.º 5 do artigo 5.º, sem prejuízo do disposto na alínea b) do n.º 3 do artigo 11.º
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -210,7 +280,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -230,7 +302,9 @@ d) Sejam judicialmente condenados por participação em organizações de ideolo
 
 5 - A não suspensão do mandato, nos termos do artigo 4.º, nos casos aplicáveis do artigo 20.º, e desde que o Deputado não observe o disposto no n.º 7 do artigo 21.º, determina a perda do mandato, nos termos da alínea a) do n.º 1 do artigo 160.º da Constituição, a qual será declarada após verificação pela Assembleia da República, nos termos do Regimento.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -242,11 +316,15 @@ d) Sejam judicialmente condenados por participação em organizações de ideolo
 
 5 - A substituição prevista no presente artigo, bem como o reconhecimento do impedimento temporário de candidato não eleito e do seu termo, depende de requerimento da direcção do respectivo grupo parlamentar, quando o houver, ou do candidato com direito a preencher o lugar vago.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 Os Deputados não respondem civil, criminal ou disciplinarmente pelos votos e opiniões que emitirem no exercício das suas funções e por causa delas.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -274,7 +352,9 @@ d) Em caso de processo sumaríssimo, após o requerimento do Ministério Públic
 
 7 - O prazo de prescrição do procedimento criminal suspende-se a partir da entrada, na Assembleia da República, do pedido de autorização formulado pelo juiz competente, nos termos e para os efeitos decorrentes da alínea a) do n.º 1 do artigo 120.º do Código Penal, mantendo-se a suspensão daquele prazo caso a Assembleia delibere o não levantamento da imunidade e enquanto ao visado assistir tal prerrogativa.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Os Deputados exercem livremente o seu mandato, sendo-lhes garantidas condições adequadas ao eficaz exercício das suas funções, designadamente ao indispensável contacto com os cidadãos eleitores e à sua informação regular.
 
@@ -286,13 +366,17 @@ d) Em caso de processo sumaríssimo, após o requerimento do Ministério Públic
 
 5 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Os Deputados que, no exercício das suas funções ou por causa delas, sejam vítimas de actos que impliquem ofensa à vida, à integridade física ou moral, à liberdade ou a bens patrimoniais têm direito a justa indemnização.
 
 2 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Constituem deveres dos Deputados:
 
@@ -306,7 +390,9 @@ d) Assegurar o indispensável contacto com os eleitores.
 
 2 - O exercício de quaisquer outras actividades, quando legalmente admissível, não pode pôr em causa o regular cumprimento dos deveres previstos no número anterior.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -338,7 +424,9 @@ h) ...
 
 7 - ...
 
-###### Artigo 17.º — Utilização de serviços postais e de comunicações
+Artigo 17.º
+
+Utilização de serviços postais e de comunicações
 
 1 - No exercício das suas funções, os Deputados têm direito a utilizar gratuitamente serviços postais e sistemas de telecomunicações, bem como à utilização da rede informática parlamentar e de outras redes electrónicas de informação.
 
@@ -346,7 +434,9 @@ h) ...
 
 3 - As condições de utilização de cada um dos meios de comunicação são fixadas pelos órgãos competentes da Assembleia da República.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - São incompatíveis com o exercício do mandato de Deputado à Assembleia da República os seguintes cargos ou funções:
 
@@ -382,7 +472,9 @@ o) Membro de conselho de gestão de empresa pública, de empresa de capitais pú
 
 3 - Sem prejuízo do disposto na alínea a) do n.º 1 e no n.º 2 do artigo 4.º, o exercício de cargo ou função incompatível implica a perda do mandato de Deputado, observado o disposto no n.º 7 do artigo 21.º
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Os Deputados carecem de autorização da Assembleia para serem jurados, peritos ou testemunhas.
 
@@ -416,11 +508,15 @@ e) ...
 
 8 - Sem prejuízo da responsabilidade que no caso couber, a infracção ao disposto nos n.os 4, 5 e 6, cumprido o disposto no número anterior, determina advertência e suspensão do mandato enquanto durar o vício, e por período nunca inferior a 50 dias, bem como a obrigatoriedade de reposição da quantia correspondente à totalidade da remuneração que o titular tenha auferido pelo exercício de funções públicas, desde o início da situação de impedimento.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 Os Deputados formularão e depositarão na Comissão de Ética da Assembleia da República declaração de inexistência de incompatibilidade ou impedimento nos 60 dias posteriores à tomada de posse.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - Para efeitos de protocolo, as posições dos Vice-Presidentes da Assembleia da República, dos presidentes dos grupos parlamentares com representação na Mesa da Assembleia da República e dos presidentes das comissões parlamentares permanentes situam-se imediatamente a seguir à de ministro.
 
@@ -428,7 +524,9 @@ Os Deputados formularão e depositarão na Comissão de Ética da Assembleia da 
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -446,7 +544,9 @@ e) Sociedades em cujo capital o titular participe, por si ou pelo cônjuge não 
 
 3 - (Anterior n.º 4.)
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -480,7 +580,9 @@ e) ...
 
 3 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -494,7 +596,9 @@ e) ...
 
 6 - Os restantes Deputados não referidos nos números anteriores têm direito a um abono mensal para despesas de representação no montante de 10% do respectivo vencimento, desde que declarem no registo de interesses que não exercem regularmente qualquer actividade económica, remunerada ou de natureza liberal.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - A subvenção mensal vitalícia referida no n.º 1 do artigo anterior é calculada à razão de 4% do vencimento base correspondente à data da cessação de funções do cargo em cujo desempenho o seu titular mais tempo tiver permanecido, por ano de exercício, até ao limite de 80%.
 
@@ -510,7 +614,9 @@ e) ...
 
 7 - ...
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - Aos titulares de cargos políticos que não tiverem completado 12 anos de exercício das funções referidas no n.º 1 do artigo 24.º é atribuído um subsídio de reintegração, durante tantos meses quantos os semestres em que tiverem exercido esses cargos, de montante igual ao vencimento mensal do cargo à data da cessação de funções.
 
@@ -554,21 +660,21 @@ Nos termos da [Lei n.º 74/98](https://diariodarepublica.pt/dr/detalhe/lei/74-19
 
 Aprovada em 18 de Janeiro de 2001.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
-**Promulgada em 9 de Fevereiro de 2001.**
+Promulgada em 9 de Fevereiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendada em 15 de Fevereiro de 2001.**
+Referendada em 15 de Fevereiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Cartão especial de identificação a que se referem os n.os 4 e 5 do artigo 15.º do Estatuto dos Deputados
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/03/061a00/14041415.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/03/061a00/14041415.pdf)](https://files.diariodarepublica.pt/1s/2001/03/061a00/14041415.pdf)
 
 Observações. - O cartão é de cor branca, com uma faixa diagonal com as cores verde e vermelha no canto superior esquerdo. Será autenticado com a assinatura do Presidente da Assembleia da República e com a aposição de selo branco de forma que este abranja o canto inferior esquerdo da fotografia.
 
@@ -980,7 +1086,7 @@ Os encargos resultantes da aplicação da presente lei são satisfeitos pelo or�
 
 ## ANEXO — Cartão especial de identificação a que se referem os n.os 4 e 5 do artigo 15.º do Estatuto dos Deputados
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/03/061a00/14041415.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/03/061a00/14041415.pdf)](https://files.diariodarepublica.pt/1s/2001/03/061a00/14041415.pdf)
 
 Observações. - O cartão é de cor branca, com uma faixa diagonal com as cores verde e vermelha no canto superior esquerdo. Será autenticado com a assinatura do Presidente da Assembleia da República e com a aposição de selo branco de forma que este abranja o canto inferior esquerdo da fotografia.
 

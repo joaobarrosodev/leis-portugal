@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/09/17800/0001300013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/34/2024/09/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/34-2024-887665683
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-09-13T00:00:00Z'
+  retrieved_at: '2026-10-22T19:15:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b7232d25800725b72a9f02ba3f7f2ba9682da4614ff80f2b1d28e93fb9d6c26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 225e5aa6e9b0b985b448bde7034436b51f43969c9de95c74427340008d6455ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:15:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Rectificação de Entidade Emitente
+- Alojamento local
+- Arrendamento Urbano para Habitação
 - Código do Imposto Municipal sobre Imóveis
 - Contribuições e Impostos
-- Arrendamento Urbano para Habitação
-- Alojamento local
+- Rectificação de Entidade Emitente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/20/2021/03/15/p/dre
@@ -89,16 +89,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
+- type: cites
+  target: pt:dre:159432383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:887319191:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:57/2024
+  label: Retifica o artigo 4.º do Decreto-Lei n.º 57/2024, de 10 de setembro, Diário da República n.º 175/2024, Série I
+  source: null
+  date: '2024-09-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:15:15Z'
   warnings: []
   errors: []
 ---
@@ -116,3 +141,5 @@ deve ler-se:
 "As alíneas a) e b) do artigo anterior produzem efeitos a 31 de dezembro de 2023."
 
 Secretaria-Geral, 12 de setembro de 2024. - A Secretária-Geral Adjunta, Fátima Costa Ferreira.
+
+118111246

@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 277/1994, 4º Suplemento, Série I-B de 1994-11-30
   number: '277'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 7070-(8) a 7070-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/11/277b04/00080009.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/217/1994/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/217-1994-355922
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:41:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebc90ae1d79969ed938f199a92dc2a445c3165cab09991dd7b5b18bc43f458f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93e51005fd3fde65f3ebe336439332ba34e8212e907e94769bc24222ffc936e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:41:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,21 +75,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/decl/103/1994/09/14/p/dre
   label: null
   source: http://data.dre.pt/eli/decl/103/1994/09/14/p/dre
+- type: cites
+  target: pt:dre:590547:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:41:42Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 217/94
+# Declaração de rectificação n.º 217/94
 
 Segundo comunicação da 7.ª Delegação junto do Ministério do Ambiente e Recursos Naturais, a [Declaração n.º 103/94](https://diariodarepublica.pt/dr/detalhe/declaracao/103-1994-590547), publicada no Diário da República, n.º 213, de 14 de Setembro de 1994, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 

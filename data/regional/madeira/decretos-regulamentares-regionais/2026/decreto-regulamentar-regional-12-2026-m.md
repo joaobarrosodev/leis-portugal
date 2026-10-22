@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/12/2026/06/12/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2026-1131612584
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-12T00:00:00Z'
+  retrieved_at: '2026-10-22T18:43:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 246f5ea1a504f03894ed9c8db63d3dce54375a1f713604df93f8c59f0911d3d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f0bf41d05be6d1efb54a1817498f1c0fe9bb070b39964dc44067eb98f7ab6f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:43:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
 subjects:
 - Abono para Falhas
 - Alteração Orçamental
-- Regulamentação de Atos Legislativos
 - Dotação Orçamental
-- Execução do Orçamento
-- Fundo de Maneio
-- Finanças Regionais
-- Sistema de Normalização Contabilística
-- Orçamento Regional
-- Madeira.região Autónoma
-- Unidade de Gestão
 - Entidade Orçamental do Tesouro e Finanças da Região Autónoma da Madeira
+- Execução do Orçamento
+- Finanças Regionais
+- Fundo de Maneio
+- Madeira.região Autónoma
+- Orçamento Regional
+- Regulamentação de Atos Legislativos
+- Sistema de Normalização Contabilística
+- Unidade de Gestão
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/
@@ -118,16 +118,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/2/2013/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2013/09/02/p/dre
+- type: cites
+  target: pt:dre:106522678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115924019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70262478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:993031451:por
+  label: null
+  source: null
 article_structure:
   article_count: 32
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:43:40Z'
   warnings: []
   errors: []
 ---
@@ -220,7 +272,7 @@ Os serviços e organismos da administração pública regional devem registar e 
 
 4 - Para efeitos da aplicação do presente artigo, entende-se por «gestão flexível» as alterações orçamentais entre serviços simples, serviços integrados ou entre serviços e fundos autónomos ou entre aqueles subsetores, no âmbito do artigo 23.º do [Decreto Legislativo Regional n.º 8/2025/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), de 30 de dezembro,
 
-5 - As alterações orçamentais previstas nos n.<sup>os</sup> 2 a 4 do artigo 23.º do [Decreto Legislativo Regional n.º 8/2025/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), de 30 de dezembro, dependem de despacho conjunto dos membros do Governo Regional responsáveis pelas áreas das finanças e pela tutela do setor.
+5 - As alterações orçamentais previstas nos n.os 2 a 4 do artigo 23.º do [Decreto Legislativo Regional n.º 8/2025/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), de 30 de dezembro, dependem de despacho conjunto dos membros do Governo Regional responsáveis pelas áreas das finanças e pela tutela do setor.
 
 ###### Artigo 8.º — Regime aplicável às entidades públicas incluídas no universo das administrações públicas em contas nacionais
 
@@ -256,7 +308,7 @@ c) Pelo reporte à Inspeção-Geral de Finanças das subvenções e benefícios 
 
 4 - A liquidação e autorização de pagamento de despesas com transferências para os serviços com autonomia administrativa e com autonomia administrativa e financeira, cujas requisições estejam em conformidade com os números anteriores do presente artigo, serão efetuadas com dispensa de quaisquer outras formalidades.
 
-5 - O pagamento das requisições de fundos poderá não ser integralmente autorizado no caso de não terem sido cumpridas as formalidades previstas nos n.<sup>os</sup> 1 a 3 do presente artigo.
+5 - O pagamento das requisições de fundos poderá não ser integralmente autorizado no caso de não terem sido cumpridas as formalidades previstas nos n.os 1 a 3 do presente artigo.
 
 ###### Artigo 11.º — Informação a prestar pelos serviços e entidades incluídas no universo das administrações públicas em contas nacionais
 
@@ -368,7 +420,7 @@ c) Afetação a outras finalidades de interesse público, devidamente fundamenta
 
 ###### Artigo 18.º — Abono para falhas
 
-1 - Nos termos dos n.<sup>os</sup>1 e 2 do artigo 2.º do [Decreto Regulamentar Regional n.º 20/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-1989-550046), de 3 de novembro, com a alteração constante do [Decreto Legislativo Regional n.º 12/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), de 6 de agosto, a atribuição de abono para falhas apenas poderá ser concedida a trabalhadores que manuseiem ou tenham à sua guarda, nas áreas de tesouraria ou cobrança, valores, numerário, títulos ou documentos, sendo por eles responsáveis ou corresponsáveis, de valor anual estimado não inferior a 50 000 euros.
+1 - Nos termos dos n.os1 e 2 do artigo 2.º do [Decreto Regulamentar Regional n.º 20/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-1989-550046), de 3 de novembro, com a alteração constante do [Decreto Legislativo Regional n.º 12/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), de 6 de agosto, a atribuição de abono para falhas apenas poderá ser concedida a trabalhadores que manuseiem ou tenham à sua guarda, nas áreas de tesouraria ou cobrança, valores, numerário, títulos ou documentos, sendo por eles responsáveis ou corresponsáveis, de valor anual estimado não inferior a 50 000 euros.
 
 2 - São nulos os atos administrativos celebrados sem observância do disposto no número anterior.
 
@@ -434,7 +486,7 @@ e) Que fazem parte dos equipamentos de diagnóstico de veículos, tal como as re
 
 3 - A celebração ou renovação de contratos de assistência técnica de equipamentos de impressão por serviços da administração direta do Governo Regional depende de parecer prévio favorável do organismo que detém atribuições na área do património.
 
-4 - Ficam dispensados das autorizações e pareceres prévios indicados nos n.<sup>os</sup> 2 e 3, a aquisição e o aluguer de todo o tipo de equipamento de impressão, nomeadamente copiadora e multifuncional, efetuados pela Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira, desde que o mesmo se integre no âmbito das especificidades técnicas exigidas na área tributária, e integrada na rede informática nacional, gerida pela Autoridade Tributária e Aduaneira, denominada de REDE RITTA.
+4 - Ficam dispensados das autorizações e pareceres prévios indicados nos n.os 2 e 3, a aquisição e o aluguer de todo o tipo de equipamento de impressão, nomeadamente copiadora e multifuncional, efetuados pela Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira, desde que o mesmo se integre no âmbito das especificidades técnicas exigidas na área tributária, e integrada na rede informática nacional, gerida pela Autoridade Tributária e Aduaneira, denominada de REDE RITTA.
 
 5 - Ficam também dispensados das autorizações e pareceres prévios indicados nos números anteriores a aquisição, o aluguer e contratos de assistência técnica efetuados pela ARDITI - Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Inovação, desde que cumpridos, de forma cumulativa, os seguintes requisitos:
 
@@ -502,7 +554,7 @@ b) Exigir, se for o caso, a apresentação de certidão comprovativa da situaç�
 
 ###### Artigo 26.º — Transferências e apoios para entidades de direito privado
 
-1 - Sem prejuízo do disposto nos n.<sup>os</sup> 1 e 2 do artigo 40.º e na alínea a) do n.º 12 do artigo 36.º do [Decreto Legislativo Regional n.º 8/2025/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), de 30 de dezembro, os montantes das transferências e apoios para entidades de direito privado no decurso do ano de 2026 não podem ultrapassar os valores globais anteriormente concedidos, acrescidos de 3 %, para a mesma finalidade.
+1 - Sem prejuízo do disposto nos n.os 1 e 2 do artigo 40.º e na alínea a) do n.º 12 do artigo 36.º do [Decreto Legislativo Regional n.º 8/2025/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), de 30 de dezembro, os montantes das transferências e apoios para entidades de direito privado no decurso do ano de 2026 não podem ultrapassar os valores globais anteriormente concedidos, acrescidos de 3 %, para a mesma finalidade.
 
 2 - Para a execução do disposto no artigo 40.º do [Decreto Legislativo Regional n.º 8/2025/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), de 30 de dezembro, aplicam-se as seguintes regras:
 
@@ -624,10 +676,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, produz
 
 Aprovado em Conselho do Governo Regional em 21 de maio de 2026.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 5 de junho de 2026.**
+Assinado em 5 de junho de 2026.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Paulo Duarte Barreto Ferreira.
+
+119948740

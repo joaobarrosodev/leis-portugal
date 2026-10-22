@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/11/2026/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2026-1017369017
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-21T00:00:00Z'
+  retrieved_at: '2026-10-22T18:29:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8905937c8b0bbee6636f981b8104c8956a2ac44a87a07c26aad3f13bfcf3cb68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 827bfd7e1c627ffa0af5697373c065ea49a81aba09141e2840aa26293baa2457
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:29:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
+- CASA PIA de Lisboa
+- Conselho Consultivo
 - Criança
 - Direitos da Criança
 - Jovem
-- Conselho Consultivo
-- CASA PIA de Lisboa
 - Orgânica
+- Pessoal Dirigente
 - Proteção à Infância
+- Reestruturação de Serviços
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:77/2012
+  label: Altera os artigos 1.º, 3.º, 4.º, 5.º, 7.º, 8.º e 10.º, adita os artigos 3.º-A e 9.º-A e revoga a alínea i) do n.º
+    2 do artigo 5.º, a partir de 26 de janeiro de 2026, do Decreto-Lei n.º 77/2012, de 26 de março, Diário da República n.º
+    61/2012, Série I, que é republicado
+  source: null
+  date: '2012-03-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/397-a/2007/12/31/p/dre
   label: null
@@ -95,16 +102,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/121/2025/08/12/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/121/2025/08/12/p/dre
+- type: cites
+  target: pt:dre:529217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928506359:por
+  label: null
+  source: null
 article_structure:
-  article_count: 29
+  article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:29:32Z'
   warnings: []
   errors: []
 ---
@@ -147,11 +174,15 @@ Os artigos 1.º, 3.º, 4.º, 5.º, 7.º, 8.º e 10.º do [Decreto-Lei n.º 77/20
 
 3 - A CPL, I. P., prossegue atribuições do Ministério do Trabalho, Solidariedade e da Segurança Social, sob superintendência e tutela do respetivo ministro.
 
-###### Artigo 3.º — Missão
+Artigo 3.º
+
+Missão
 
 A CPL, I. P., tem por missão a educação, a formação e a proteção de crianças e jovens, especialmente os provenientes de contextos vulneráveis, garantindo-lhes percursos educativos inclusivos e de qualidade, promovendo a plena cidadania, em respeito pelos seus direitos fundamentais.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 [...]
 
@@ -163,7 +194,9 @@ c) [...]
 
 d) O conselho consultivo.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -187,7 +220,9 @@ h) Promover formas alargadas de parceria com outras entidades que prossigam ativ
 
 i) (Revogada.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O conselho institucional é um órgão de consulta, apoio e participação na definição das linhas gerais de atuação da CPL, I. P.
 
@@ -209,7 +244,9 @@ e) Acompanhar a monitorização dos indicadores dos instrumentos de gestão.
 
 5 - O conselho institucional reúne ordinariamente uma vez por mês, com exceção dos meses de agosto e dezembro, e extraordinariamente sempre que o presidente o convoque.
 
-###### Artigo 8.º — Conselho consultivo
+Artigo 8.º
+
+Conselho consultivo
 
 1 - O conselho consultivo é um órgão de consulta e apoio na definição das linhas gerais de atuação da CPL, I. P., competindo-lhe:
 
@@ -237,7 +274,9 @@ c) Os dirigentes máximos dos organismos com atribuições na área da ação so
 
 7 - O conselho consultivo reúne semestralmente.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -285,7 +324,9 @@ h) Colaborar com famílias com crianças e jovens, no sentido de apoiar a preven
 
 i) Promover programas de respostas educativas, formativas e sociais estruturados, integrados e articulados, assentes em modelos inovadores e transformadores.
 
-###### Artigo 9.º-A — Cargos dirigentes intermédios
+Artigo 9.º-A
+
+Cargos dirigentes intermédios
 
 1 - É cargo de direção intermédia de 1.º grau da CPL, I. P., o diretor de departamento e os diretores executivos de nível 1.
 
@@ -313,15 +354,15 @@ As comissões de serviço dos cargos dos dirigentes da CPL, I. P., cessam automa
 
 Visto e aprovado em Conselho de Ministros de 28 de novembro de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro - Rosário Palma Ramalho.
 
-**Promulgado em 3 de janeiro de 2026.**
+Promulgado em 3 de janeiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 9 de janeiro de 2026.**
+Referendado em 9 de janeiro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -510,3 +551,5 @@ O património da CPL, I. P., é constituído pela universalidade de bens, direit
 ###### Artigo 14.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+119947336

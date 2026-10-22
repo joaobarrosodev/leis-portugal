@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 76/1994, 3º Suplemento, Série I-B de 1994-03-31
   number: '76'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 1586-(12) a 1586-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/03/076b03/00120012.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/43/1994/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/43-1994-517462
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:42:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c96917c03251e3febc85113cf9e2586be3886ec913eac95eb0500614d25c766
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6da2d87d4dcac27a6de8bcf9670a2d40a1e5e83ce07239674d09df99783b29b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:42:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,21 +75,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/decl/20/1994/03/02/p/dre
   label: null
   source: http://data.dre.pt/eli/decl/20/1994/03/02/p/dre
+- type: cites
+  target: pt:dre:275866:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:42:52Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 43/94
+# Declaração de rectificação n.º 43/94
 
 Segundo comunicação da 4.ª Delegação da Direcção-Geral da Contabilidade Pública junto do Ministério da Administração Interna, a [Declaração n.º 20/94](https://diariodarepublica.pt/dr/detalhe/declaracao/20-1994-275866), publicada no Diário da República, n.º 51, de 2 de Março de 1994, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
 

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/81/2026/02/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/81-2026-1051479909
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-18T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57fac601680e7252af39b7659b316163feb5767ddd413f6ab86fe078a11cc8d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: edbc90d4a7f0c820421a61b5276173fd012bd26667d0812e55bc58a4775cc344
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultor
+- Agricultura
 - Ajuda Comunitária
-- Financiamento
-- Desenvolvimento Rural
-- Regulamentação de Atos Legislativos
 - Apoio ao Investimento
+- Desenvolvimento Rural
+- Exploração Agrícola
+- Exploração Florestal
+- Financiamento
 - Fundos CE
 - IFAP
 - Investimento
-- Exploração Agrícola
-- Exploração Florestal
-- Agricultor
+- Regulamentação de Atos Legislativos
 - Regulamento
-- Agricultura
 - Subsídio a Agricultores
 relationships:
+- type: amends
+  target: pt:numero:portaria:54-L/2023
+  label: Altera, a partir de 19 de fevereiro de 2026, com efeitos a 1 de janeiro de 2026, o artigo 16.º do Regulamento, aprovado
+    em anexo à Portaria n.º 54-L/2023, de 27 de fevereiro, Diário da República n.º 41/2023, 1º Suplemento, Série I
+  source: null
+  date: '2023-02-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/12/2023/02/24/p/dre
   label: null
@@ -111,16 +117,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/80-b/2024/03/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/80-b/2024/03/04/p/dre
+- type: cites
+  target: pt:dre:207760041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222779384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:854130986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:891867285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:993270163:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:43Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +163,7 @@ validation:
 
 de 18 de fevereiro
 
-O Regulamento dos pedidos de ajuda e de pagamento a apresentar ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), no âmbito das intervenções definidas a nível nacional e europeu para a agricultura, foi aprovado em anexo à [Portaria n.º 54-L/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-l-2023-207942906), de 27 de fevereiro, alterada pelas Portarias n.<sup>os</sup>[308/2023](https://diariodarepublica.pt/dr/detalhe/portaria/308-2023-222779384), de 4 de outubro, [80-B/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/80-b-2024-854130986), de 4 de março, [275/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/275-2024-891867285), de 21 de outubro e [482/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/482-2025-993270163), de 31 de dezembro.
+O Regulamento dos pedidos de ajuda e de pagamento a apresentar ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), no âmbito das intervenções definidas a nível nacional e europeu para a agricultura, foi aprovado em anexo à [Portaria n.º 54-L/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-l-2023-207942906), de 27 de fevereiro, alterada pelas Portarias n.os[308/2023](https://diariodarepublica.pt/dr/detalhe/portaria/308-2023-222779384), de 4 de outubro, [80-B/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/80-b-2024-854130986), de 4 de março, [275/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/275-2024-891867285), de 21 de outubro e [482/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/482-2025-993270163), de 31 de dezembro.
 
 Tendo em conta a importância de salvaguardar o carácter tradicional das atividades de pastoreio nas superfícies de prados e pastagens permanentes, enquanto prática local consolidada nas áreas de baldio, importa clarificar que, no que respeita aos efetivos pecuários de equídeos, apenas são considerados elegíveis os animais pertencentes a raças tradicionalmente exploradas nas regiões de baldio do território continental.
 
@@ -141,7 +175,7 @@ Manda o Governo, pelo Ministro da Agricultura e Mar, ao abrigo da alínea b) do 
 
 ###### Artigo 1.º — Objeto
 
-A presente portaria procede à quinta alteração do Regulamento dos pedidos de ajuda e de pagamento a apresentar ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), no âmbito das intervenções definidas a nível nacional e europeu para a agricultura, aprovado em anexo à [Portaria n.º 54-L/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-l-2023-207942906), de 27 de fevereiro, alterada pelas Portarias n.<sup>os</sup>[308/2023](https://diariodarepublica.pt/dr/detalhe/portaria/308-2023-222779384), de 4 de outubro, [80-B/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/80-b-2024-854130986), de 4 de março, [275/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/275-2024-891867285), de 21 de outubro, e [482/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/482-2025-993270163), de 31 de dezembro.
+A presente portaria procede à quinta alteração do Regulamento dos pedidos de ajuda e de pagamento a apresentar ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), no âmbito das intervenções definidas a nível nacional e europeu para a agricultura, aprovado em anexo à [Portaria n.º 54-L/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-l-2023-207942906), de 27 de fevereiro, alterada pelas Portarias n.os[308/2023](https://diariodarepublica.pt/dr/detalhe/portaria/308-2023-222779384), de 4 de outubro, [80-B/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/80-b-2024-854130986), de 4 de março, [275/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/275-2024-891867285), de 21 de outubro, e [482/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/482-2025-993270163), de 31 de dezembro.
 
 ###### Artigo 2.º — Alteração ao Regulamento aprovado em anexo à [Portaria n.º 54-L/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-l-2023-207942906), de 27 de fevereiro
 
@@ -169,4 +203,6 @@ O artigo 16.º do Regulamento aprovado em anexo à [Portaria n.º 54-L/2023](htt
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2026.
 
-**O Ministro da Agricultura e Mar, José Manuel Fernandes, em 13 de fevereiro de 2026.**
+O Ministro da Agricultura e Mar, José Manuel Fernandes, em 13 de fevereiro de 2026.
+
+119947696

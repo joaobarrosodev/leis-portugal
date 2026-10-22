@@ -31,7 +31,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/02/04000/0001500036.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -53,18 +53,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/2/2025/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/2-2025-908906759
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a153b67aa5342b2461a5154724160dc68a58e0f65b2c91dff0e5607f4a0fba3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9c9addc913007be7816485014c4838d9fa27ccfef78c12ceca55bfd0e96802c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -93,16 +93,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/47/2007/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/47/2007/08/28/p/dre
+- type: cites
+  target: pt:dre:198132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641076:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:23Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +139,7 @@ Acordam, em Pleno das Secções Cíveis, no Supremo Tribunal de Justiça:
 
 I - Relatório.
 
-AA, por si e na qualidade de cabeça de casal da herança aberta e indivisa por óbito de seu pai, BB, instaurou, em 4 de Novembro de 2022, acção declarativa comum contra CC, DD, EE, P..., L.<sup>da</sup>, e FF e mulher, GG, pedindo, além do mais, que seja declarada a nulidade das vendas executivas efetuadas em 5 de Novembro de 2019 e 2 de Abril de 2021, aludidas na petição inicial, com a restituição do imóvel ao acervo hereditário, nos termos das disposições conjugadas dos artigos 892.º, 289.º e 291.º, n.º 2, do Código Civil, e o cancelamento do registo das aludidas transmissões.
+AA, por si e na qualidade de cabeça de casal da herança aberta e indivisa por óbito de seu pai, BB, instaurou, em 4 de Novembro de 2022, acção declarativa comum contra CC, DD, EE, P..., L.da, e FF e mulher, GG, pedindo, além do mais, que seja declarada a nulidade das vendas executivas efetuadas em 5 de Novembro de 2019 e 2 de Abril de 2021, aludidas na petição inicial, com a restituição do imóvel ao acervo hereditário, nos termos das disposições conjugadas dos artigos 892.º, 289.º e 291.º, n.º 2, do Código Civil, e o cancelamento do registo das aludidas transmissões.
 
 Devolvidas as cartas para citação dos Réus CC e DD, foram apresentados dois requerimentos que a agente de execução dirigiu à A. (datados de 5 de Janeiro de 2023 e 6 de Janeiro de 2023) para envio de importâncias a título de provisão (€ 150,06 + € 125,46) e com a advertência contida no artigo 721.º, n.º 3, do Código de Processo Civil.
 
@@ -227,7 +251,7 @@ A flutuação jurisprudencial que se acabou de descrever confere à questão obj
 
 Tudo visto, concluímos pela admissibilidade da revista excecional ao abrigo da alínea a) do n.º 1 do artigo 672.º do Código de Processo Civil, ficando, assim, prejudicada a apreciação do fundamento decorrente das invocadas alíneas b) e c) do mesmo normativo, uma vez que a admissibilidade da revista excecional se basta com o preenchimento de um dos pressupostos contidos na n.º 1 da sobredita disposição.”.
 
-Pelo Juiz Conselheiro relator, ao abrigo do disposto no artigo 686.º, n.<sup>os</sup>1 e 2, do Código de Processo Civil, foi proposto que o julgamento da presente revista se fizesse na forma ampliada, com intervenção do Pleno das Secções Cíveis, o que foi deferido por decisão do Juiz Conselheiro Presidente do Supremo Tribunal de Justiça, datada de 8 de Julho de 2024.
+Pelo Juiz Conselheiro relator, ao abrigo do disposto no artigo 686.º, n.os1 e 2, do Código de Processo Civil, foi proposto que o julgamento da presente revista se fizesse na forma ampliada, com intervenção do Pleno das Secções Cíveis, o que foi deferido por decisão do Juiz Conselheiro Presidente do Supremo Tribunal de Justiça, datada de 8 de Julho de 2024.
 
 Aberta vista ao Ministério Público, foi emitido parecer no qual se concluiu:
 
@@ -331,7 +355,7 @@ Não será ainda despicienda, na análise do caso concreto, a circunstância de 
 
 Importa outrossim salientar que a negligência processual relevante para que possa vir a ser declarada, pelo juiz da causa, a deserção da instância, nos termos do artigo 281.º, n.º 1, do Código de Processo Civil, pressupõe sempre que, no caso concreto, compita exclusivamente à parte o ónus do impulso processual e que o não cumpra pelo período de mais de seis meses consecutivos, com a inerente e consequente paragem dos autos nessas circunstâncias temporais.
 
-Ou seja, é mister que o acto que importa praticar (e que terá sido omitido) não se situe na esfera de competência dos poderes/deveres oficiosos do juiz, designadamente por via do exercício do dever de gestão processual, integrando a obrigação de direcção e condução dos autos de que é o titular (cf. artigo 6.º, n.<sup>os</sup>1 e 2, e 7.º, n.º 1, do Código de Processo Civil), que lhe estão legalmente cometidos, sendo certo que neste último caso a eventual inércia da parte quanto ao impulso processual não relevará para efeitos do funcionamento do instituto da deserção da instância.
+Ou seja, é mister que o acto que importa praticar (e que terá sido omitido) não se situe na esfera de competência dos poderes/deveres oficiosos do juiz, designadamente por via do exercício do dever de gestão processual, integrando a obrigação de direcção e condução dos autos de que é o titular (cf. artigo 6.º, n.os1 e 2, e 7.º, n.º 1, do Código de Processo Civil), que lhe estão legalmente cometidos, sendo certo que neste último caso a eventual inércia da parte quanto ao impulso processual não relevará para efeitos do funcionamento do instituto da deserção da instância.
 
 (Sobre esta temática, e versando uma situação em que, não obstante a notificação da parte nos termos e para os efeitos do artigo 281.º, n.º 1, do Código de Processo Civil, concluiu-se inexistir negligência da parte em promover o impulso processual por competir, ao invés, ao juiz da causa ordenar oficiosamente o seu normal e célere prosseguimento, nos termos gerais do artigo 6.º, n.º 1, do Código de Processo Civil, vide o acórdão do Supremo Tribunal de Justiça de 18 de Junho de 2024 (relator Fernando Baptista), proferido no processo n.º 4141/18.0T8PRT.P1.S1, publicado in www.dgsi.pt.).
 
@@ -549,7 +573,7 @@ Adiantamos, desde já, que se nos afigura assistir inteira razão à recorrente 
 
 Assim, neste especial contexto processual, perante uma A. que beneficiava de apoio judiciário por ser carenciada de meios para satisfazer o pagamento ao agente de execução e que requereu oportunamente que a citação se fizesse por oficial judicial, invocando o alargamento desse seu pedido de apoio judiciário de modo a abranger os encargos com o pagamento do dito agente de execução, competia claramente, nessas concretas circunstâncias, ao tribunal e em termos oficiosos (e sem necessidade de outro tipo de impulso processual da parte interessada) providenciar pela citação dos RR. na modalidade que entendesse adequada.
 
-A este propósito dispõem os n.<sup>os</sup>1 e 9 do artigo 231.º do Código de Processo Civil:
+A este propósito dispõem os n.os1 e 9 do artigo 231.º do Código de Processo Civil:
 
 “1 - Frustrando-se a via postal, a citação é efetuada mediante contacto pessoal do agente de execução com o citando.
 
@@ -665,11 +689,11 @@ Aquela orientação foi recentemente seguida no acórdão da Relação de Lisboa
 
 Tenho reiteradamente posto em destaque que o contraditório não é só um princípio estruturante do processo que deve ser levado a sério. É muito mais do que isso: é uma garantia que pode ser qualificada como direito processual fundamental.
 
-A garantia do contraditório extrai-se da ideia de Estado de Direito democrático (artigo 2.5 CRP) do princípio da igualdade (artigos 113.9 CRP e 4.<sup>9</sup>), dos artigos 20.<sup>9</sup>, 1 e 202.2, 2 CRP, enquanto pressuposto do direito de defesa, do artigo 20.<sup>9</sup>, 4, enquanto vertente do processo equitativo, e do artigo 32.<sup>e</sup>, 5 da CRP, o qual, apesar de referido ao processo criminal, por razões de política legislativa, deve ser transposto para o processo civil, por uma questão de coerência e dimanação do Estado de Direito.
+A garantia do contraditório extrai-se da ideia de Estado de Direito democrático (artigo 2.5 CRP) do princípio da igualdade (artigos 113.9 CRP e 4.9), dos artigos 20.9, 1 e 202.2, 2 CRP, enquanto pressuposto do direito de defesa, do artigo 20.9, 4, enquanto vertente do processo equitativo, e do artigo 32.e, 5 da CRP, o qual, apesar de referido ao processo criminal, por razões de política legislativa, deve ser transposto para o processo civil, por uma questão de coerência e dimanação do Estado de Direito.
 
-No plano convencional destaque ainda para o artigo 6.<sup>9</sup> da Convenção europeia de salvaguarda dos direitos do homem e das liberdades fundamentais e para o artigo 47.<sup>9</sup>da Carta dos direitos fundamentais da unido europeia.
+No plano convencional destaque ainda para o artigo 6.9 da Convenção europeia de salvaguarda dos direitos do homem e das liberdades fundamentais e para o artigo 47.9da Carta dos direitos fundamentais da unido europeia.
 
-Sem mencionar, no plano internacional, os artigos IO.<sup>9</sup> e li.<sup>9</sup> da DUDH e o artigo 14.<sup>9</sup>da PIDCP.
+Sem mencionar, no plano internacional, os artigos IO.9 e li.9 da DUDH e o artigo 14.9da PIDCP.
 
 De resto, não se pode conceber uma tutela jurisdicional sem contraditório.
 
@@ -685,7 +709,7 @@ Resulta que os princípios de economia processual ou do prazo razoável, princí
 
 O contraditório é um valor-fim e não um valor-meio, como o são aqueles valores menores.
 
-Acresce que o despacho em causa não é um despacho qualquer: é um despacho que extingue a instância (artigo 277.2, c)), com importantes consequências quanto à subsistência do direito, não só na contagem do prazo da prescrição, mas também quanto à caducidade (artigo 332.<sup>5</sup> CC).
+Acresce que o despacho em causa não é um despacho qualquer: é um despacho que extingue a instância (artigo 277.2, c)), com importantes consequências quanto à subsistência do direito, não só na contagem do prazo da prescrição, mas também quanto à caducidade (artigo 332.5 CC).
 
 Não por acaso, a maioria dos ordenamentos dos países da nossa família jurídica prevê expressamente, nas hipóteses da perempção, a audiência prévia das partes.
 
@@ -693,17 +717,17 @@ Inclusivamente, no processo canónico, tal acontece.
 
 Por exemplo: em França, o artigo 388 NCP estipula que a perempção deve, sob pena de não ser recebida, ser pedida ou oposta, antes de qualquer outro meio; ela é de direito O juiz pode verificá-la oficiosamente, depois de ter convidado as partes a apresentar as suas observações.
 
-Em Espanha, a falta de impulso do procedimento pelas partes ou interessados não originará a caducidade da instância ou do recurso (artigo 236.<sup>Q</sup> Ley de Enjuiciamiento Civil).
+Em Espanha, a falta de impulso do procedimento pelas partes ou interessados não originará a caducidade da instância ou do recurso (artigo 236.Q Ley de Enjuiciamiento Civil).
 
-O novo código de processo civil romeno de 2010, que contém um artigo, o 14.<sup>9</sup>, que dispõe que o juiz, em qualquer instância, deve submeter à discussão das partes todos os pedidos, as excepções e as circunstâncias, de facto ou de direito, invocadas, distingue dois prazos para a deserção: um prazo de 6 meses por falta de diligência imputável à parte [artigo 416.2, ai. 1)] e de 10 anos na ausência de motivos imputáveis aparte (artigo 423.9).
+O novo código de processo civil romeno de 2010, que contém um artigo, o 14.9, que dispõe que o juiz, em qualquer instância, deve submeter à discussão das partes todos os pedidos, as excepções e as circunstâncias, de facto ou de direito, invocadas, distingue dois prazos para a deserção: um prazo de 6 meses por falta de diligência imputável à parte [artigo 416.2, ai. 1)] e de 10 anos na ausência de motivos imputáveis aparte (artigo 423.9).
 
 No processo canónico matrimonial, o artigo 146.2 da Dígnitas Connubi preceitua que a instância extingue-se se, não acontecendo impedimento, no decurso de seis meses, as partes não tiverem realizado nenhum acto processual; porém, o tribunal não deixa de advertir previamente a parte sobre o acto que deveria realizar.
 
 Não fica por aqui a minha discordância do projecto.
 
-Remete-se para o artigo 195.<sup>9</sup> como referência legal para sindicar uma decisão que viole o contraditório. Esta questão é complexa e tem sido muito discutida, havendo várias posições sobre a matéria [cf. v.g. recentes posições de Lemos Jorge/Ramos de Faria, As outras nulidades da sentença cível in: Julgar on Une e de Miguel Teixeira de Sousa, este no seu Blog IPPC e o meu «O contraditório e a proibição das decisões-surpresa», ROA, Ano 82, (2022):185-239]. Seria preferível não tomar posição num acórdão que não tem esta matéria por objecto.
+Remete-se para o artigo 195.9 como referência legal para sindicar uma decisão que viole o contraditório. Esta questão é complexa e tem sido muito discutida, havendo várias posições sobre a matéria [cf. v.g. recentes posições de Lemos Jorge/Ramos de Faria, As outras nulidades da sentença cível in: Julgar on Une e de Miguel Teixeira de Sousa, este no seu Blog IPPC e o meu «O contraditório e a proibição das decisões-surpresa», ROA, Ano 82, (2022):185-239]. Seria preferível não tomar posição num acórdão que não tem esta matéria por objecto.
 
-Por outro lado, discordo em absoluto que sirva de razão para dispensar a aplicação rigorosa do artigo 3.<sup>9</sup>, 3 a invocação da «livre possibilidade de impugnação judicial por via de recurso nos termos gerais contra os fundamentos (de facto ou de direito) do despacho que declara a deserção da instância» ou o instituto do justo impedimento.
+Por outro lado, discordo em absoluto que sirva de razão para dispensar a aplicação rigorosa do artigo 3.9, 3 a invocação da «livre possibilidade de impugnação judicial por via de recurso nos termos gerais contra os fundamentos (de facto ou de direito) do despacho que declara a deserção da instância» ou o instituto do justo impedimento.
 
 A invocação do justo impedimento tem de ser feita, por via incidental, logo que cessa a sua causa (artigo 140.2, 2). Sendo assim, não vejo como pode a parte servir-se com utilidade da figura para reparar, por via de recurso, a sua falta de impulso processual.
 
@@ -718,3 +742,5 @@ Da pouco clara demarcação das figuras do contraditório e da defesa com a cons
 Na minha opinião a violação do contraditório pelo juiz é, em qualquer caso, um erro de actividade e não de julgamento.
 
 Lisboa, 23 de Janeiro de 2025. - Luís Correia de Mendonça.
+
+118731237

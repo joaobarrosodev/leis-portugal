@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/12-b/2026/01/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/12-b-2026-998824794
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:28:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32bdb1e1735597f62e71ba179bf5fb038a3fd3bdb35627028f817eb8de93147a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0255f15c0d4233bc5a0f9089597432ec1781a4f73820dde3cc32e5c0358bf1ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:28:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Transporte Marítimo
-- Transporte Aéreo
-- Regulamentação de Atos Legislativos
+- Açores
 - Documentação
 - Madeira.região Autónoma
-- Açores
 - Plataforma Eletrónica
+- Regulamentação de Atos Legislativos
 - Subsídio Social de Mobilidade
+- Transporte Aéreo
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:1080123524:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:37-A/2025
+  label: Altera os artigos 3.º (cujos n.ºs 4 e 5 são aplicáveis apenas aos pedidos de subsídio social de mobilidade submetidos
+    através da plataforma a que se refere o artigo 7.º do Decreto-Lei n.º 37-A/2025), 4.º (aplicando-se o seu n.º 4 às viagens
+    que sejam adquiridas a partir do dia 15 de janeiro de 2026) e 5.º e adita o artigo 5.º-A, a partir de 7 de janeiro de
+    2026, à Portaria n.º 138/2025/1, de 28 de março, Diário da República n.º 62/2025, Série I
+  source: null
+  date: '2025-03-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/37-a/2025/03/24/p/dre
   label: null
@@ -88,16 +96,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/138/2025/03/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/138/2025/03/28/p/dre
+- type: cites
+  target: pt:dre:912256331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:912820667:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:28:07Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +134,7 @@ Foram ouvidos os órgãos de governo próprio das Regiões Autónomas, a Autorid
 
 Assim:
 
-Ao abrigo do disposto nos n.<sup>os</sup> 3, 4 e 5 do artigo 4.º do [Decreto-Lei n.º 37-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2025-912256331), de 24 de março, manda o Governo, pelo Ministro de Estado e das Finanças e pelo Secretário de Estado das Infraestruturas, o seguinte:
+Ao abrigo do disposto nos n.os 3, 4 e 5 do artigo 4.º do [Decreto-Lei n.º 37-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2025-912256331), de 24 de março, manda o Governo, pelo Ministro de Estado e das Finanças e pelo Secretário de Estado das Infraestruturas, o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -142,7 +158,9 @@ Os artigos 3.º, 4.º e 5.º passam a ter a seguinte redação:
 
 5 - No caso da existência de dívidas às entidades indicadas no número anterior, não pode ser pago qualquer valor a título de subsídio social de mobilidade enquanto a situação não se encontrar regularizada.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -170,7 +188,9 @@ f) [...]
 
 5 - Sem prejuízo do disposto no número anterior, o beneficiário pode combinar uma viagem de ida (OW) com uma viagem de regresso (OW) entre as mesmas regiões, desde que entre a ida (OW) e o regresso (OW) não decorra um período superior a 12 meses, aplicando-se nesta circunstância os valores indicados no n.º 1, e desde que o somatório de ambos os bilhetes de ida e de regresso (OW) seja superior ao valor de referência a suportar pelo beneficiário, ainda que um deles possa ter valor inferior.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -202,9 +222,9 @@ h) Documento comprovativo da realização da viagem emitido pela transportadora 
 
 7 - (Anterior n.º 6.)
 
-8 - A submissão de todos, ou parte, dos documentos referidos nos n.<sup>os</sup> 1 a 7 pode ser dispensada, em concretização do princípio de desmaterialização previsto no artigo 6.º do [Decreto-Lei n.º 37-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2025-912256331), de 24 de março, nos termos definidos na portaria a que se refere o artigo 7.º do [Decreto-Lei n.º 37-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2025-912256331), de 24 de março.
+8 - A submissão de todos, ou parte, dos documentos referidos nos n.os 1 a 7 pode ser dispensada, em concretização do princípio de desmaterialização previsto no artigo 6.º do [Decreto-Lei n.º 37-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2025-912256331), de 24 de março, nos termos definidos na portaria a que se refere o artigo 7.º do [Decreto-Lei n.º 37-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2025-912256331), de 24 de março.
 
-9 - Até à disponibilização da plataforma a que se refere o artigo 7.º do [Decreto-Lei n.º 37-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2025-912256331), de 24 de março, ou sempre que seja estritamente necessário submeter os documentos por outros meios, o beneficiário deve apresentar o original e entregar a cópia dos documentos identificados nos n.<sup>os</sup>1 a 7 à entidade prestadora do serviço de pagamento.
+9 - Até à disponibilização da plataforma a que se refere o artigo 7.º do [Decreto-Lei n.º 37-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2025-912256331), de 24 de março, ou sempre que seja estritamente necessário submeter os documentos por outros meios, o beneficiário deve apresentar o original e entregar a cópia dos documentos identificados nos n.os1 a 7 à entidade prestadora do serviço de pagamento.
 
 10 - Sem prejuízo do disposto nos números anteriores pode ser solicitada a apresentação de documentos adicionais que permitam esclarecer e comprovar a elegibilidade do beneficiário, bem como proceder ao pagamento do subsídio.»
 
@@ -224,8 +244,10 @@ Para efeitos de processamento do reembolso do subsídio social de mobilidade, o 
 
 2 - O n.º 4 do artigo 4.º da [Portaria n.º 138/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/138-2025-912820667), de 28 de março, aditado pela presente portaria, aplica-se às viagens que sejam adquiridas a partir do dia 15 de janeiro de 2026.
 
-3 - Os n.<sup>os</sup>4 e 5 do artigo 3.º são aplicáveis apenas aos pedidos de subsídio social de mobilidade submetidos através da plataforma a que se refere o artigo 7.º do [Decreto-Lei n.º 37-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2025-912256331), de 24 de março.
+3 - Os n.os4 e 5 do artigo 3.º são aplicáveis apenas aos pedidos de subsídio social de mobilidade submetidos através da plataforma a que se refere o artigo 7.º do [Decreto-Lei n.º 37-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2025-912256331), de 24 de março.
 
 Em 6 de janeiro de 2026.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento. - O Secretário de Estado das Infraestruturas, Hugo Morato Alface do Espírito Santo.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento. - O Secretário de Estado das Infraestruturas, Hugo Morato Alface do Espírito Santo.
+
+119947138

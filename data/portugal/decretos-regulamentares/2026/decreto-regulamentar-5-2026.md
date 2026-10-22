@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/03/05400/0004300081.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/5/2026/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2026-1073606543
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-18T00:00:00Z'
+  retrieved_at: '2026-10-22T18:35:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe613763128661603eb033080a18b745ac2f577a8efd5c263fa41a3d7e32c054
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e76ea22f78d98e411eee13210c291cc3c72276ded8523de4e57ac3393660fc80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:35:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Academia Militar
 - Acesso à Educação
 - Aluno Militar
-- Exército
 - Comissão Científica
-- Ensino Superior Militar
 - Conselho Disciplinar
 - Definição de Competências
-- Academia Militar
+- Ensino Superior Militar
+- Estabelecimento de Ensino
+- Exército
 - GNR
 - Orgânica
-- Estabelecimento de Ensino
 - Pessoal Docente
 relationships:
 - type: cites
@@ -90,16 +90,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/22/2014/01/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/22/2014/01/31/p/dre
+- type: cites
+  target: pt:dre:162244837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70832992:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:22/2014
+  label: Revoga, nos termos dos artigos 85.º e 86.º do presente diploma, a Portaria n.º 22/2014, de 31 de janeiro, Diário
+    da República n.º 22/2014, Série I
+  source: null
+  date: '2014-01-31'
 article_structure:
   article_count: 86
   section_count: 40
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:35:49Z'
   warnings: []
   errors: []
 ---
@@ -394,7 +412,7 @@ c) Elaborar estudos, pareceres e propostas de diplomas normativos e de regulamen
 
 ###### Artigo 16.º — Chefia
 
-**O chefe do GEP é um coronel de qualquer arma ou serviço, nomeado e exonerado pelo comandante da AM.**
+O chefe do GEP é um coronel de qualquer arma ou serviço, nomeado e exonerado pelo comandante da AM.
 
 ##### SUBSECÇÃO III — GABINETE DE AVALIAÇÃO E QUALIDADE
 
@@ -416,7 +434,7 @@ e) Aconselhar nos aspetos relativos ao apoio psicoeducativo dos candidatos e alu
 
 ###### Artigo 18.º — Chefia
 
-**O chefe do GAQ é um coronel de qualquer arma ou serviço, nomeado e exonerado pelo comandante da AM, preferencialmente habilitado com o grau académico de doutor.**
+O chefe do GAQ é um coronel de qualquer arma ou serviço, nomeado e exonerado pelo comandante da AM, preferencialmente habilitado com o grau académico de doutor.
 
 ##### SUBSECÇÃO IV — GABINETE DA GUARDA NACIONAL REPUBLICANA
 
@@ -442,7 +460,7 @@ g) Participar na Comissão de Recrutamento e Admissão da AM, em coordenação c
 
 ###### Artigo 20.º — Chefia
 
-**O chefe do GGNR é um coronel de qualquer arma ou serviço da GNR, nomeado e exonerado pelo comandante-geral da GNR.**
+O chefe do GGNR é um coronel de qualquer arma ou serviço da GNR, nomeado e exonerado pelo comandante-geral da GNR.
 
 ##### SUBSECÇÃO V — GABINETE DE COOPERAÇÃO, INTERCÂMBIOS E PROTOCOLOS
 
@@ -482,7 +500,7 @@ m) Executar outras atividades que lhe sejam cometidas no domínio das relações
 
 ###### Artigo 22.º — Chefia
 
-**O chefe do GCIP é um coronel de qualquer arma ou serviço, nomeado e exonerado pelo comandante da AM.**
+O chefe do GCIP é um coronel de qualquer arma ou serviço, nomeado e exonerado pelo comandante da AM.
 
 #### SECÇÃO IV — ÓRGÃOS DE CONSELHO
 
@@ -1640,7 +1658,7 @@ h) Assegurar o serviço de central telefónica.
 
 ###### Artigo 79.º — Chefia
 
-**O chefe do CCSI é um oficial superior do quadro especial de Transmissões, nomeado e exonerado pelo comandante da AM.**
+O chefe do CCSI é um oficial superior do quadro especial de Transmissões, nomeado e exonerado pelo comandante da AM.
 
 ##### SUBSECÇÃO VI — COMPANHIA DE COMANDO E SERVIÇOS
 
@@ -1694,12 +1712,14 @@ Sem prejuízo do disposto no artigo anterior, é revogada a [Portaria n.º 22/20
 
 Visto e aprovado em Conselho de Ministros de 12 de fevereiro de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro - Paulo António Magro da Luz - Nuno Maria Herculano de Carvalho Pinheiro Torres.
 
-**Promulgado em 4 de março de 2026.**
+Promulgado em 4 de março de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 11 de março de 2026.**
+Referendado em 11 de março de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119948005

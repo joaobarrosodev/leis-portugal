@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44732-1962-155462
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-11-26T00:00:00Z'
+  retrieved_at: '2026-10-22T19:32:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b78acf59d2a9e6f1717ff8d720072fcf1aaae79cfd2e6aaa6eb42bd03f0fab56
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d1241fc69ccc050945f12fe0609fb4cc22e91cc5ebdf710322cfe41f5e21975b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:32:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:32:24Z'
   warnings: []
   errors: []
 ---
@@ -91,41 +91,41 @@ Nestes termos e por motivo de urgência:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Sempre que as circunstâncias o aconselhem, poderá o Ministro do Ultramar mandar abrir concurso documental para a admissão, como tirocinantes na metrópole, dos finalistas dos cursos superiores de Agronomia e de Medicina Veterinária que desejem servir nas províncias ultramarinas e a quem falte o estágio para completarem os respectivos cursos.
+Artigo 1.º Sempre que as circunstâncias o aconselhem, poderá o Ministro do Ultramar mandar abrir concurso documental para a admissão, como tirocinantes na metrópole, dos finalistas dos cursos superiores de Agronomia e de Medicina Veterinária que desejem servir nas províncias ultramarinas e a quem falte o estágio para completarem os respectivos cursos.
 
 § 1.º Para efeitos do disposto no corpo do artigo, as províncias ultramarinas informarão o Ministério do Ultramar, no princípio de cada ano, do número de técnicos e de especialidades em que estão interessadas, com a indicação das disponibilidades orçamentais.
 
 § 2.º O anúncio de abertura de cada concurso deverá indicar expressamente a especialidade a obter com o estágio e o número de estagiários a admitir.
 
-###### Art. 2.º Os indivíduos referidos no artigo anterior pedirão a sua admissão ao concurso em requerimento dirigido ao Ministro do Ultramar donde conste a residência, idade, naturalidade, classificação do último ano e a província onde pretendem servir.
+Art. 2.º Os indivíduos referidos no artigo anterior pedirão a sua admissão ao concurso em requerimento dirigido ao Ministro do Ultramar donde conste a residência, idade, naturalidade, classificação do último ano e a província onde pretendem servir.
 
 § único. O requerimento deverá ser acompanhado de confirmação do director do estabelecimento de ensino onde são finalistas, indicando a média geral do curso, a média do último ano e, quando o possuam, a média do curso especial tropical.
 
-###### Art. 3.º Para a admissão ao estágio, sempre que o número de concorrentes seja superior ao dos estagiários a admitir, terão preferência absoluta os alunos tirocinantes com o curso especial tropical e, de entre estes, os que tenham obtido maior valorização neste curso.
+Art. 3.º Para a admissão ao estágio, sempre que o número de concorrentes seja superior ao dos estagiários a admitir, terão preferência absoluta os alunos tirocinantes com o curso especial tropical e, de entre estes, os que tenham obtido maior valorização neste curso.
 
 § único. A admissão de tirocinantes sem o curso especial tropical, na falta de concorrentes habilitados com este curso, será feita por ordem da classificação obtida no último ano do curso.
 
-###### Art. 4.º Os estágios terão o prazo máximo de dois anos, podendo variar o tempo da sua duração consoante a natureza dos assuntos versados no estágio.
+Art. 4.º Os estágios terão o prazo máximo de dois anos, podendo variar o tempo da sua duração consoante a natureza dos assuntos versados no estágio.
 
 § 1.º A orientação competirá às escolas ou organismos que ministram o estágio de acordo com as directrizes e especialidades preconizadas pelas províncias interessadas.
 
 § 2.º Pelo Ministério do Ultramar, incumbirá à Junta de Investigações do Ultramar garantir a coordenação da actuação entre as províncias ultramarinas e os órgãos metropolitanos.
 
-###### Art. 5.º Durante a frequência do estágio, os estagiários terão direito a uma remuneração correspondente ao vencimento-base da categoria da letra K do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 5.º Durante a frequência do estágio, os estagiários terão direito a uma remuneração correspondente ao vencimento-base da categoria da letra K do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
 § único. As remunerações serão abonadas pela Direcção-Geral de Fazenda, mediante folha de assiduidade passada pelos organismos responsáveis do estágio.
 
-###### Art. 6.º Para ocorrer aos encargos previstos no artigo anterior é criada, no capítulo 10.º da tabela de despesa ordinária dos orçamentos gerais das províncias ultramarinas, em número especial do artigo relativo a diversas despesas, a seguinte rubrica:
+Art. 6.º Para ocorrer aos encargos previstos no artigo anterior é criada, no capítulo 10.º da tabela de despesa ordinária dos orçamentos gerais das províncias ultramarinas, em número especial do artigo relativo a diversas despesas, a seguinte rubrica:
 
 Remunerações a abonar nos termos do Decreto n.º 44732, de 26 de Novembro de 1962.
 
-###### Art. 7.º Terminados os estágios com aproveitamento e obtido o diploma do respectivo curso, serão os concorrentes colocados nas vagas existentes nas províncias ultramarinas como engenheiros agrónomos, engenheiros silvicultores e médicos veterinários de 2.ª classe.
+Art. 7.º Terminados os estágios com aproveitamento e obtido o diploma do respectivo curso, serão os concorrentes colocados nas vagas existentes nas províncias ultramarinas como engenheiros agrónomos, engenheiros silvicultores e médicos veterinários de 2.ª classe.
 
 § 1.º Para efeitos da colocação a que se refere o corpo deste artigo, o estagiário apresentará, em duplicado, na Junta de Investigações do Ultramar, um relatório dos trabalhos efectuados durante o estágio.
 
 § 2.º O estagiário fica obrigado a servir a província que financiou o tirocínio, por um período mínimo de três anos.
 
-###### Art. 8.º Os beneficiários das regalias concedidas por este diploma ficam obrigados a reembolsar as províncias das importâncias despendidas com o estágio quando:
+Art. 8.º Os beneficiários das regalias concedidas por este diploma ficam obrigados a reembolsar as províncias das importâncias despendidas com o estágio quando:
 
 a) Desistam durante o estágio;
 
@@ -133,31 +133,31 @@ b) Não tenham aproveitamento no estágio;
 
 c) Desistam do embarque para o ultramar.
 
-###### Art. 9.º Respondem pelo reembolso referido no artigo anterior os bens dos pais dos beneficiários, sendo eles menores, e os próprios destes.
+Art. 9.º Respondem pelo reembolso referido no artigo anterior os bens dos pais dos beneficiários, sendo eles menores, e os próprios destes.
 
 § 1.º O reembolso será determinado pelo Ministro do Ultramar, mediante informação da Junta de Investigações do Ultramar, devidamente instruída com as justificações e provas que o interessado houver oferecido dentro do prazo que lhe for assinado.
 
 § 2.º O Ministro só poderá dispensar o reembolso em casos muito especiais em que se possam considerar relevantes as justificações e provas produzidas.
 
-###### Art. 10.º Quando houver sido determinado o reembolso, a Junta de Investigações do Ultramar enviará cópia autêntica do respectivo despacho à Direcção-Geral de Fazenda para esta promover a sua efectivação.
+Art. 10.º Quando houver sido determinado o reembolso, a Junta de Investigações do Ultramar enviará cópia autêntica do respectivo despacho à Direcção-Geral de Fazenda para esta promover a sua efectivação.
 
 § 1.º A Direcção-Geral de Fazenda notificará o interessado para, dentro do prazo que lhe for fixado, que não poderá exceder 120 dias, proceder voluntàriamente à sua entrega.
 
 § 2.º Decorrido aquele prazo sem que o reembolso tenha sido efectivado, proceder-se-á à cobrança da dívida pelo processo das execuções fiscais, para o que o despacho proferido nos termos do § 1.º do artigo anterior terá força de sentença com trânsito em julgado.
 
-###### Art. 11.º Os beneficiários deste diploma que forem exonerados ou demitidos dentro do período mínimo de três anos estabelecido no § 2.º do artigo 6.º ficam igualmente obrigados a reembolsar a província, quer das despesas do estágio, quer do custo da passagem de ida para o ultramar.
+Art. 11.º Os beneficiários deste diploma que forem exonerados ou demitidos dentro do período mínimo de três anos estabelecido no § 2.º do artigo 6.º ficam igualmente obrigados a reembolsar a província, quer das despesas do estágio, quer do custo da passagem de ida para o ultramar.
 
 § 1.º Se não efectuarem voluntàriamente o reembolso no prazo de 120 dias, contado da publicação do respectivo diploma de exoneração ou demissão no Diário do Governo ou no Boletim Oficial, conforme estejam na metrópole ou no ultramar, proceder-se-á contra eles, nos termos legais, por dívidas à Fazenda Nacional.
 
 § 2.º Servirá de base à execução, com força de título exequível, certidão passada pela Direcção-Geral de Fazenda ou pelos serviços de Fazenda e contabilidade da respectiva província donde conste a importância da dívida a cobrar.
 
-###### Art. 12.º Os tribunais competentes para a instrução dos processos executivos são os juízos fiscais das sedes das províncias ultramarinas.
+Art. 12.º Os tribunais competentes para a instrução dos processos executivos são os juízos fiscais das sedes das províncias ultramarinas.
 
-###### Art. 13.º Por força do disposto no § 2.º do artigo 4.º, a Junta de Investigações do Ultramar transmitirá aos estabelecimentos de ensino e outros organismos, para conhecimento dos interessados, a abertura dos concursos, com os elementos essenciais mencionados no § 1.º do artigo 1.º
+Art. 13.º Por força do disposto no § 2.º do artigo 4.º, a Junta de Investigações do Ultramar transmitirá aos estabelecimentos de ensino e outros organismos, para conhecimento dos interessados, a abertura dos concursos, com os elementos essenciais mencionados no § 1.º do artigo 1.º
 
-###### Art. 14.º Ficam os governadores-gerais e de província autorizados a abrir, cumpridas as formalidades legais, os créditos necessários para a execução deste diploma, servindo de contrapartida disponibilidades ou recursos orçamentais.
+Art. 14.º Ficam os governadores-gerais e de província autorizados a abrir, cumpridas as formalidades legais, os créditos necessários para a execução deste diploma, servindo de contrapartida disponibilidades ou recursos orçamentais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 26 de Novembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

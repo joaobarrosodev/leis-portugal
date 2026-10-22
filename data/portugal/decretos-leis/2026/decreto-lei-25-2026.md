@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/25/2026/01/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2026-1027770661
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-28T00:00:00Z'
+  retrieved_at: '2026-10-22T18:30:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e527625a26915bb59b4a1b67808607be77a38e7ecf5ac997094d1a203a90deab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 386f426a9aa4d0b5a44d8e3a7cd70f671af1fd7bc5c32304241bdf0c0e497fc8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:30:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Combate ao Terrorismo
-- Contra-ordenação
-- Terrorismo
-- Comunicações
-- Regulamento CE
-- Polícia Judiciária
 - Autoridade Nacional de Comunicações
+- Combate ao Terrorismo
+- Comunicações
 - Conteúdo Digital
+- Contra-ordenação
+- Polícia Judiciária
+- Regulamento CE
+- Terrorismo
 relationships:
+- type: amends
+  target: pt:numero:lei:99/2009
+  label: Altera, a partir de 29 de março de 2026, o artigo 1.º da Lei n.º 99/2009, de 4 de setembro, Diário da República n.º
+    172/2009, Série I
+  source: null
+  date: '2009-09-04'
+- type: amends
+  target: pt:numero:lei:62/2013
+  label: Altera, a partir de 29 de março de 2026, o artigo 120.º da Lei n.º 62/2013, de 26 de agosto, Diário da República
+    n.º 163/2013, Série I
+  source: null
+  date: '2013-08-26'
+- type: amends
+  target: pt:numero:decreto-regulamentar:2/2016
+  label: Altera, a partir de 29 de março de 2026, o artigo 3.º do Decreto Regulamentar n.º 2/2016, de 23 de agosto, Diário
+    da República n.º 161/2016, Série I
+  source: null
+  date: '2016-08-23'
+- type: amends
+  target: pt:numero:lei:68/2019
+  label: Altera, a partir de 29 de março de 2026, o artigo 58.º da Lei n.º 68/2019, de 27 de agosto, Diário da República n.º
+    163/2019, Série I
+  source: null
+  date: '2019-08-27'
 - type: cites
   target: celex:32021R0784
   label: null
@@ -115,16 +139,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/99/2009/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/99/2009/09/04/p/dre
+- type: cites
+  target: pt:dre:124220738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187481298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75170440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926123337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:941547425:por
+  label: null
+  source: null
 article_structure:
-  article_count: 17
+  article_count: 15
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:30:27Z'
   warnings: []
   errors: []
 ---
@@ -161,13 +225,13 @@ a) À designação das autoridades competentes para efeitos do disposto no artig
 
 b) À fixação do regime sancionatório a aplicar em caso de incumprimento do [Regulamento (UE) 2021/784](https://data.europa.eu/eli/reg/2021/784/oj?locale=pt), nos termos do disposto no seu artigo 18.º;
 
-c) À terceira alteração à [Lei n.º 99/2009](https://diariodarepublica.pt/dr/detalhe/lei/99-2009-489497), de 4 de setembro, alterada pelas Leis n.<sup>os</sup>[46/2011](https://diariodarepublica.pt/dr/detalhe/lei/46-2011-670368), de 24 de junho e [16/2022](https://diariodarepublica.pt/dr/detalhe/lei/16-2022-187481298), de 16 de agosto, que aprova o regime quadro das contraordenações do setor das comunicações;
+c) À terceira alteração à [Lei n.º 99/2009](https://diariodarepublica.pt/dr/detalhe/lei/99-2009-489497), de 4 de setembro, alterada pelas Leis n.os[46/2011](https://diariodarepublica.pt/dr/detalhe/lei/46-2011-670368), de 24 de junho e [16/2022](https://diariodarepublica.pt/dr/detalhe/lei/16-2022-187481298), de 16 de agosto, que aprova o regime quadro das contraordenações do setor das comunicações;
 
 d) À décima terceira alteração à [Lei n.º 62/2013](https://diariodarepublica.pt/dr/detalhe/lei/62-2013-499514), de 26 de agosto, na sua redação atual, que estabelece a organização do sistema judiciário;
 
 e) À primeira alteração ao [Decreto Regulamentar n.º 2/2016](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2016-75170440), de 23 de agosto, que estabelece o regime aplicável à organização e funcionamento da Unidade de Coordenação Antiterrorismo;
 
-f) À terceira alteração à [Lei n.º 68/2019](https://diariodarepublica.pt/dr/detalhe/lei/68-2019-124220738), de 27 de agosto, alterada pelas Leis n.<sup>os</sup>[2/2020](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), de 31 de março, e [57/2025](https://diariodarepublica.pt/dr/detalhe/lei/57-2025-926123337), de 24 de julho, que aprova o Estatuto do Ministério Público.
+f) À terceira alteração à [Lei n.º 68/2019](https://diariodarepublica.pt/dr/detalhe/lei/68-2019-124220738), de 27 de agosto, alterada pelas Leis n.os[2/2020](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), de 31 de março, e [57/2025](https://diariodarepublica.pt/dr/detalhe/lei/57-2025-926123337), de 24 de julho, que aprova o Estatuto do Ministério Público.
 
 ### CAPÍTULO II — AUTORIDADES COMPETENTES PARA EFEITOS DO ARTIGO 12.º DO [REGULAMENTO (UE) 2021/784](https://data.europa.eu/eli/reg/2021/784/oj?locale=pt)
 
@@ -229,13 +293,13 @@ h) O incumprimento da obrigação de consagração de mecanismos de reclamação
 
 i) O incumprimento da obrigação de reposição ou de desbloqueio de acesso e da obrigação de informação ao reclamante, nos termos do n.º 2 do artigo 10.º do [Regulamento (UE) 2021/784](https://data.europa.eu/eli/reg/2021/784/oj?locale=pt);
 
-j) O incumprimento da obrigação de prestar informações aos fornecedores de conteúdos, nos termos dos n.<sup>os</sup>1 e 2 do artigo 11.º do [Regulamento (UE) 2021/784](https://data.europa.eu/eli/reg/2021/784/oj?locale=pt), e a prestação das referidas informações em violação de decisão da autoridade competente, nos termos previstos no n.º 3 do artigo 11.º do [Regulamento (UE) 2021/784](https://data.europa.eu/eli/reg/2021/784/oj?locale=pt);
+j) O incumprimento da obrigação de prestar informações aos fornecedores de conteúdos, nos termos dos n.os1 e 2 do artigo 11.º do [Regulamento (UE) 2021/784](https://data.europa.eu/eli/reg/2021/784/oj?locale=pt), e a prestação das referidas informações em violação de decisão da autoridade competente, nos termos previstos no n.º 3 do artigo 11.º do [Regulamento (UE) 2021/784](https://data.europa.eu/eli/reg/2021/784/oj?locale=pt);
 
 k) O incumprimento da obrigação de comunicação imediata às autoridades policiais ou judiciárias de conteúdos terroristas que impliquem uma ameaça iminente à vida, nos termos do n.º 5 do artigo 14.º do [Regulamento (UE) 2021/784](https://data.europa.eu/eli/reg/2021/784/oj?locale=pt);
 
 l) A falta de designação e não disponibilização de informação ao público sobre os pontos de contacto dos prestadores de serviços de alojamento virtual para efeitos de receção das decisões de supressão, nos termos do n.º 1 do artigo 15.º do [Regulamento (UE) 2021/784](https://data.europa.eu/eli/reg/2021/784/oj?locale=pt);
 
-m) A falta de designação e de atribuição de competências aos representantes legais dos prestadores de serviços de alojamento virtual que não tenham um estabelecimento principal na União Europeia, para efeitos de receção, cumprimento e execução das decisões de supressão e das decisões emitidas pelas autoridades competentes, nos termos dos n.<sup>os</sup>1 e 2 do artigo 17.º do [Regulamento (UE) 2021/784](https://data.europa.eu/eli/reg/2021/784/oj?locale=pt);
+m) A falta de designação e de atribuição de competências aos representantes legais dos prestadores de serviços de alojamento virtual que não tenham um estabelecimento principal na União Europeia, para efeitos de receção, cumprimento e execução das decisões de supressão e das decisões emitidas pelas autoridades competentes, nos termos dos n.os1 e 2 do artigo 17.º do [Regulamento (UE) 2021/784](https://data.europa.eu/eli/reg/2021/784/oj?locale=pt);
 
 n) O incumprimento da obrigação de comunicação e de divulgação pública das informações relativas ao representante legal, nos termos previstos no n.º 4 do artigo 17.º do [Regulamento (UE) 2021/784](https://data.europa.eu/eli/reg/2021/784/oj?locale=pt).
 
@@ -441,24 +505,30 @@ O artigo 58.º da [Lei n.º 68/2019](https://diariodarepublica.pt/dr/detalhe/lei
 
 5 - [...]
 
-6 - Compete ainda ao DCIAP apreciar as decisões de supressão ou de bloqueio emitidas pela Polícia Judiciária, ao abrigo do [Regulamento (UE) 2021/784](https://data.europa.eu/eli/reg/2021/784/oj?locale=pt) do Parlamento Europeu e do Conselho, de 29 de abril de 2021, e promover a sua validação junto do juiz de instrução criminal, nos termos dos n.<sup>os</sup>2 e 3 do artigo 3.º do Decreto-Lei n.º 25/2026, de 28 de janeiro.
+6 - Compete ainda ao DCIAP apreciar as decisões de supressão ou de bloqueio emitidas pela Polícia Judiciária, ao abrigo do [Regulamento (UE) 2021/784](https://data.europa.eu/eli/reg/2021/784/oj?locale=pt) do Parlamento Europeu e do Conselho, de 29 de abril de 2021, e promover a sua validação junto do juiz de instrução criminal, nos termos dos n.os2 e 3 do artigo 3.º do Decreto-Lei n.º 25/2026, de 28 de janeiro.
 
-###### Artigo 16.º — Regime aplicável
+Artigo 16.º
+
+Regime aplicável
 
 Em tudo o que não se encontre previsto no presente decreto-lei em matéria contraordenacional, aplica-se o regime quadro das contraordenações no setor das comunicações, aprovado pela [Lei n.º 99/2009](https://diariodarepublica.pt/dr/detalhe/lei/99-2009-489497), de 4 de setembro, na sua redação atual.
 
-###### Artigo 17.º — Entrada em vigor
+Artigo 17.º
+
+Entrada em vigor
 
 O presente decreto-lei entra em vigor 60 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de dezembro de 2025. - Luís Montenegro - Miguel Martinez de Castro Pinto Luz - Rita Alarcão Júdice.
 
-**Promulgado em 14 de janeiro de 2026.**
+Promulgado em 14 de janeiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 19 de janeiro de 2026.**
+Referendado em 19 de janeiro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119947347

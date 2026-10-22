@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44208-1962-517847
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T19:28:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b1b8bf165b2ab6b33220f4ac170c91afeed0f9be69bf73ca613d6eb4519c112
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 151254d0fa71b3bd1621a7dc331f83b7c92ff8c21c85887f001cf4926283762a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:28:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:173489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479936:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:28:13Z'
   warnings: []
   errors: []
 ---
@@ -88,17 +108,17 @@ Com fundamento nas disposições do artigo 35.º e sua alínea a) do Decreto com
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças, a favor dos Ministérios a seguir designados, créditos especiais, no montante de 4003500$00, destinados a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças, a favor dos Ministérios a seguir designados, créditos especiais, no montante de 4003500$00, destinados a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Ministério da Justiça
 
-### Capítulo 3.º «Direcção-Geral da Justiça»:
+Capítulo 3.º «Direcção-Geral da Justiça»:
 
 Polícia Judiciária
 
 Directoria
 
-###### Artigo 102.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei»:
+Artigo 102.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei»:
 
 10 escriturários de 2.ª classe (11 meses) (ver nota a) a 16500$00 ... 165000$00
 
@@ -106,7 +126,7 @@ Directoria
 
 Subdirectoria de Lisboa
 
-###### Artigo 118.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei»:
+Artigo 118.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei»:
 
 1 agente de 2.ª classe (11 meses) (ver nota b) ... 22000$00
 
@@ -120,43 +140,43 @@ Subdirectoria de Lisboa
 
 Ministério das Comunicações
 
-### Capítulo 9.º-A «Gabinete de Estudos e Planeamento de Transportes Terrestres ([Decreto-Lei n.º 43457](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43457-1960-479936), de 30 de Dezembro de 1960, [Portaria n.º 18632](https://diariodarepublica.pt/dr/detalhe/portaria/18632-1961-173489), de 1 de Agosto de 1961, e [Decreto-Lei n.º 44123](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44123-1961-184524), de 27 de Dezembro de 1961)»:
+Capítulo 9.º-A «Gabinete de Estudos e Planeamento de Transportes Terrestres ([Decreto-Lei n.º 43457](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43457-1960-479936), de 30 de Dezembro de 1960, [Portaria n.º 18632](https://diariodarepublica.pt/dr/detalhe/portaria/18632-1961-173489), de 1 de Agosto de 1961, e [Decreto-Lei n.º 44123](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44123-1961-184524), de 27 de Dezembro de 1961)»:
 
-###### Artigo 157.º-A «Despesas com o pessoal» ... 1900500$00
+Artigo 157.º-A «Despesas com o pessoal» ... 1900500$00
 
-###### Artigo 157.º-B «Despesas cana o material» ... 980000$00
+Artigo 157.º-B «Despesas cana o material» ... 980000$00
 
-###### Artigo 157.º-C «Pagamento de serviços e diversos encargos» ... 903500$00
+Artigo 157.º-C «Pagamento de serviços e diversos encargos» ... 903500$00
 
-###### Artigo 157.º-D «Acidentes em serviço» ... 14000$00
+Artigo 157.º-D «Acidentes em serviço» ... 14000$00
 
-###### Artigo 157.º-E «Despesas de anos económicos findos» ... 2000$00
+Artigo 157.º-E «Despesas de anos económicos findos» ... 2000$00
 
 ... (ver nota a) 3800000$00
 
 (nota a) Sujeita a duplo cabimento.
 
-###### Art. 2.º Como compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas do aumento de previsão de receita e de redução em verbas de despesa:
+Art. 2.º Como compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas do aumento de previsão de receita e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 8.º «Consignações de receita»:
+Capítulo 8.º «Consignações de receita»:
 
 Fundos especiais para fomento
 
-###### Artigo 243.º-A «Gabinete de Estudos e Planeamento de Transportes Terrestres» ... 3800000$00
+Artigo 243.º-A «Gabinete de Estudos e Planeamento de Transportes Terrestres» ... 3800000$00
 
 Ministério da Justiça
 
-### Capítulo 3.º, artigo 102.º, n.º 1) ... 165000$00
+Capítulo 3.º, artigo 102.º, n.º 1) ... 165000$00
 
-### Capítulo 3.º, artigo 118.º, n.º 1) ... 38500$00
+Capítulo 3.º, artigo 118.º, n.º 1) ... 38500$00
 
 ... 203500$00
 
 ... 4003500$00
 
-###### Art. 3.º São autorizadas as seguintes alterações de rubrica no orçamento do Ministério da Justiça:
+Art. 3.º São autorizadas as seguintes alterações de rubrica no orçamento do Ministério da Justiça:
 
 À rubrica «30 agentes auxiliares» do n.º 1) do artigo 102.º, capítulo 3.º, é aposta a seguinte observação:
 
@@ -168,6 +188,6 @@ Ministério da Justiça
 
 Estes créditos foram registados na Direcção-Geral da Contabilidade Pública e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o § único do artigo 36.º do Decreto com força de lei n.º 18381, de 24 de Maio de 1930.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 26 de Fevereiro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Carlos Gomes da Silva Ribeiro.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/75/2026/03/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2026-1068974008
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-09T00:00:00Z'
+  retrieved_at: '2026-10-22T18:35:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d44f03b0a009e48f405827e0e290ef5d8d7f56fc8859195cbe7d6e311313fbf6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e3dc379672f2bc6aa23cb285edc4a65abcbf7ce982ff5bb5f33530188d1a440
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:35:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estatuto do Pessoal
-- Carreira Profissional
-- Bombeiro
 - Administração Local
+- Bombeiro
+- Carreira Profissional
+- Estatuto do Pessoal
 - Remuneração
 - Subsídio
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:106/2002
+  label: Altera, com efeitos a 1 de janeiro de 2025, os artigos 18.º, 29.º-A e 30.º do Decreto-Lei n.º 106/2002, de 13 de
+    abril, Diário da República n.º 87/2002, Série I-A
+  source: null
+  date: '2002-04-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106/2002/04/13/p/dre
   label: null
@@ -93,16 +99,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:122857879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224870951:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:912653928:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:35:13Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +153,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto-lei procede à terceira alteração ao estatuto de pessoal dos bombeiros profissionais da administração local, aprovado pelo [Decreto-Lei n.º 106/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2002-303237), de 13 de abril, alterado pelos Decretos-Leis n.<sup>os</sup>[86/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2019-122857879), de 2 de julho, e [51/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2025-912653928), de 27 de março, e objeto de clarificação pelo [Decreto-Lei n.º 111/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2023-224870951), de 29 de novembro.
+O presente decreto-lei procede à terceira alteração ao estatuto de pessoal dos bombeiros profissionais da administração local, aprovado pelo [Decreto-Lei n.º 106/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2002-303237), de 13 de abril, alterado pelos Decretos-Leis n.os[86/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2019-122857879), de 2 de julho, e [51/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2025-912653928), de 27 de março, e objeto de clarificação pelo [Decreto-Lei n.º 111/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2023-224870951), de 29 de novembro.
 
 ###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 106/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2002-303237), de 13 de abril
 
@@ -155,7 +181,9 @@ Os artigos 18.º, 29.º-A e 30.º do [Decreto-Lei n.º 106/2002](https://diariod
 
 9 - [...]
 
-###### Artigo 29.º-A — [...]
+Artigo 29.º-A
+
+[...]
 
 1 - Os bombeiros profissionais têm direito ao suplemento de condição de bombeiro sapador, independentemente do tipo de funções que exercem, pago em 12 meses, que visa cobrir o risco, a insalubridade, a penosidade e a prontidão de comparência inerentes ao exercício de funções.
 
@@ -185,7 +213,9 @@ d) [...]
 
 6 - [...]
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 [...]
 
@@ -201,12 +231,14 @@ O presente decreto-lei produz efeitos a 1 de janeiro de 2025.
 
 Visto e aprovado em Conselho de Ministros de 12 de fevereiro de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Manuel Castro Almeida.
 
-**Promulgado em 3 de março de 2026.**
+Promulgado em 3 de março de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 4 de março de 2026.**
+Referendado em 4 de março de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119947955

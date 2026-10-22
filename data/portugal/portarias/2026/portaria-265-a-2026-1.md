@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/265-a/2026/06/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/265-a-2026-1133905372
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-15T00:00:00Z'
+  retrieved_at: '2026-10-22T18:44:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f43d42cbda5b12d0d3f6c0289bf9675952cd44d5af9d67b34dce12b396cb6926
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 377c16cc14e0d46fc8387819ebf96cbe66cf913b705904da9d917e4ef22a4a68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:44:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Financiamento
-- Instituto do Cinema e do Audiovisual
-- Regulamentação de Atos Legislativos
-- Produção Cinematográfica
 - Formulário Eletrónico
-- Regulamento
-- Subsídio não Reembolsável
+- incentivo financeiro
+- Instituto do Cinema e do Audiovisual
+- Produção Cinematográfica
 - Programa Audiovisual
 - Programa de Financiamento da Indústria do Audiovisual e do Cinema
-- incentivo financeiro
+- Regulamentação de Atos Legislativos
+- Regulamento
+- Subsídio não Reembolsável
 relationships:
 - type: amended_by
   target: pt:dre:1147477300:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1139971701:por
+  label: Alterado, a partir de 27 de junho de 2026, o artigo 9.º do presente diploma, alterados os artigos 9.º, 13.º e 15.º
+    e o anexo i do Regulamento do RIPAC anexo, e republicado o referido Regulamento, pelo(a) Portaria n.º 276-B/2026/1 - Diário
+    da República n.º 122/2026, Suplemento, Série I de 2026-06-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/276-b-2026-1139971701
+  date: '2026-06-26'
 - type: cites
   target: celex:32014R0651
   label: null
@@ -129,16 +136,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/72/2016/11/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/72/2016/11/24/p/dre
+- type: cites
+  target: pt:dre:1053378382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115172414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170175411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75177807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75796596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:858196732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:858196733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928215560:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:124-A/2024
+  label: Revoga, a 18 de junho de 2026, a Portaria n.º 124-A/2024/1, de 28 de março, Diário da República n.º 63/2024, Suplemento,
+    Série I
+  source: null
+  date: '2024-03-28'
+- type: repeals
+  target: pt:numero:portaria:124-B/2024
+  label: Revoga, a 18 de junho de 2026, a Portaria n.º 124-B/2024/1, de 28 de março, Diário da República n.º 63/2024, Suplemento,
+    Série I
+  source: null
+  date: '2024-03-28'
 article_structure:
   article_count: 45
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:44:10Z'
   warnings: []
   errors: []
 ---
@@ -283,7 +350,7 @@ d) Assegurar a promoção nacional e internacional do SCRI.PT, em estreita colab
 
 a) 15 000 000 €, reservados exclusivamente ao incentivo financeiro à produção cinematográfica e audiovisual de médio orçamento, previsto na alínea b) do n.º 2 do artigo 2.º;
 
-b) 20 000 000 €, reservados exclusivamente ao incentivo financeiro à grande produção cinematográfica e audiovisual, previsto na alínea a) do n.º 2 do artigo 2.º, bem como dos n.<sup>os</sup> 11 e 13 do artigo 17.º-A da [Lei n.º 55/2012](https://diariodarepublica.pt/dr/detalhe/lei/55-2012-174871), de 6 de setembro, na sua redação atual;
+b) 20 000 000 €, reservados exclusivamente ao incentivo financeiro à grande produção cinematográfica e audiovisual, previsto na alínea a) do n.º 2 do artigo 2.º, bem como dos n.os 11 e 13 do artigo 17.º-A da [Lei n.º 55/2012](https://diariodarepublica.pt/dr/detalhe/lei/55-2012-174871), de 6 de setembro, na sua redação atual;
 
 c) Os restantes 15 000 000 € são afetos, preferencialmente, ao incentivo financeiro à grande produção cinematográfica e audiovisual e, residualmente, à globalidade do RIPAC.
 
@@ -315,7 +382,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 16 de junho de 2026.
 
-**O Ministro da Presidência, António Leitão Amaro - A Ministra da Cultura, Juventude e Desporto, Margarida Balseiro Lopes - O Secretário de Estado do Turismo, Comércio e Serviços, Pedro Manuel Monteiro Machado.**
+O Ministro da Presidência, António Leitão Amaro - A Ministra da Cultura, Juventude e Desporto, Margarida Balseiro Lopes - O Secretário de Estado do Turismo, Comércio e Serviços, Pedro Manuel Monteiro Machado.
 
 ## ANEXO I — (a que se refere o n.º 3 do artigo 2.º)
 
@@ -403,7 +470,7 @@ d) Obras de produção estrangeira, materializadas:
 
 i) Mediante contratação de produtor executivo local, sendo este o candidato à admissão ao benefício do Incentivo e, se apoiado, seu beneficiário; ou
 
-ii) Nos casos previstos nos n.<sup>os</sup>2 e 3 do artigo 3.º, mediante estabelecimento de sociedade ou sucursal com personalidade tributária em Portugal, sendo admissíveis as pessoas coletivas de objeto específico e duração limitada à produção e gestão de uma ou mais obras («sociedades-veículo»).
+ii) Nos casos previstos nos n.os2 e 3 do artigo 3.º, mediante estabelecimento de sociedade ou sucursal com personalidade tributária em Portugal, sendo admissíveis as pessoas coletivas de objeto específico e duração limitada à produção e gestão de uma ou mais obras («sociedades-veículo»).
 
 2 - Considera-se que há coprodução de facto quando a obra não pode beneficiar de reconhecimento oficial ao abrigo de tratados internacionais, mas há vínculo contratual entre coprodutores e o contrato de coprodução consagra a cotitularidade dos direitos de produção, reprodução e exploração e a compropriedade do negativo ou master da obra e estabelece as proporções das participações de cada parte e o regime de repartição dos direitos de exploração e receitas, bem como a lei aplicável.
 
@@ -505,7 +572,7 @@ b) 3 000 000 € por cada episódio produzido de séries audiovisuais, num máxi
 
 6 - O montante máximo de apoio por projeto no Incentivo Financeiro à Produção Cinematográfica e Audiovisual de Médio Orçamento não pode exceder 1 500 000,00 €.
 
-7 - No âmbito do incentivo à produção cinematográfica e audiovisual de médio orçamento, os incentivos são atribuídos, em cada fase de candidaturas, até metade (1/2) do limite dos montantes anuais definidos nos n.<sup>os</sup>1 e 2 do artigo 10.º da portaria que aprova o presente Regulamento.
+7 - No âmbito do incentivo à produção cinematográfica e audiovisual de médio orçamento, os incentivos são atribuídos, em cada fase de candidaturas, até metade (1/2) do limite dos montantes anuais definidos nos n.os1 e 2 do artigo 10.º da portaria que aprova o presente Regulamento.
 
 8 - Os montantes de incentivo a atribuir a beneficiários ou cobeneficiários que não sejam produtores independentes, ao abrigo da alínea a) do n.º 2 do artigo 6.º, não podem totalizar, em cada ano civil, mais de 15 % da dotação total de cada Incentivo no mesmo ano e estão sujeitos ao limite de apoio público previsto no n.º 8 do artigo 5.º do [Decreto-Lei n.º 74/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2021-170175411).
 
@@ -843,49 +910,49 @@ b) Não sendo possível a reparação imediata da omissão da menção do Incent
 
 ## ANEXO I — Critérios
 
-# PARTE I — TABELA DE AVALIAÇÃO DO VALOR CULTURAL, CINEMATOGRÁFICO/AUDIOVISUAL E PROMOCIONAL DOS PROJETOS
+## PARTE I — TABELA DE AVALIAÇÃO DO VALOR CULTURAL, CINEMATOGRÁFICO/AUDIOVISUAL E PROMOCIONAL DOS PROJETOS
 
 | Parte A | Valor cultural | Pontos |
 | --- | --- | --- |
 | Secção A1 | Conteúdo e natureza cultural |  |
-| A1.1 | «Local da ação (<sup>1</sup>)A ação tem lugar:»Em pelo menos 60 % em Portugal - 7 pontosEm pelo menos 40 % em Portugal - 4 pontosEm pelo menos 10 % em Portugal - 2 pontosEm pelo menos 50 % em outro país europeu (<sup>2</sup>), ou em país lusófono ou comunidade lusófona (<sup>3</sup>), ou nos países coprodutores, no caso de coproduções oficiais ao abrigo de tratados de coprodução em que Portugal seja parte, ou em local indeterminado ou de fantasia - 3 pontosEm pelo menos 20 % em um dos países, comunidades ou locais acima referidos, incluindo local indeterminado ou de fantasia - 2 pontos | 7 |
-| A1.2 | Línguas:Mais de metade dos diálogos originais são em língua portuguesa (<sup>4</sup>) - 6 pontosMais de metade dos diálogos originais são em língua nacional ou regional falada num país europeu ou nos países coprodutores, no caso de coproduções oficiais ao abrigo de tratados de coprodução em que Portugal seja parte, ou em língua crioula de base portuguesa - 3 pontos | 6 |
-| A1.3 | Personagens:A maior parte das personagens principais (<sup>5</sup>) é nacional ou residente num território de língua portuguesa (<sup>6</sup>), europeu ou dos países coprodutores, no caso de coproduções oficiais ao abrigo de tratados de coprodução em que Portugal seja parte - 5 pontosPelo menos uma personagem principal é nacional ou residente num território de língua portuguesa, europeu ou dos países coprodutores, no caso de coproduções oficiais ao abrigo de tratados de coprodução em que Portugal seja parte - 3 pontosPelo menos uma personagem secundária é na cional ou residente num território de língua portuguesa, europeu ou dos países coprodutores, no caso de coproduções oficiais ao abrigo de tratados de coprodução em que Portugal seja parte - 1 ponto | 5 |
-| A1.4 | Argumento:O argumento é um original em língua portuguesa ou uma adaptação de uma obra literária em língua portuguesa - 5 pontosO argumento é baseado em narrativas ou figuras portuguesas, históricas ou atuais, abrangendo tradições locais e obras contemporâneas - 5 pontosO argumento é um original em língua nacional ou regional falada na Europa, ou num país coprodutor, no caso de coproduções oficiais ao abrigo de tratados de coprodução em que Portugal seja parte, ou em língua crioula de base portuguesa - 3 pontosO argumento é uma adaptação de uma obra literária em língua crioula de base portuguesa, ou em língua falada na Europa ou num país coprodutor, no caso de coproduções oficiais ao abrigo de tratados de coprodução em que Portugal seja parte - 3 pontosO argumento é uma adaptação de uma obra relevante da literatura universal (<sup>7</sup>) - 2 pontos | 5 |
+| A1.1 | «Local da ação (1)A ação tem lugar:»Em pelo menos 60 % em Portugal - 7 pontosEm pelo menos 40 % em Portugal - 4 pontosEm pelo menos 10 % em Portugal - 2 pontosEm pelo menos 50 % em outro país europeu (2), ou em país lusófono ou comunidade lusófona (3), ou nos países coprodutores, no caso de coproduções oficiais ao abrigo de tratados de coprodução em que Portugal seja parte, ou em local indeterminado ou de fantasia - 3 pontosEm pelo menos 20 % em um dos países, comunidades ou locais acima referidos, incluindo local indeterminado ou de fantasia - 2 pontos | 7 |
+| A1.2 | Línguas:Mais de metade dos diálogos originais são em língua portuguesa (4) - 6 pontosMais de metade dos diálogos originais são em língua nacional ou regional falada num país europeu ou nos países coprodutores, no caso de coproduções oficiais ao abrigo de tratados de coprodução em que Portugal seja parte, ou em língua crioula de base portuguesa - 3 pontos | 6 |
+| A1.3 | Personagens:A maior parte das personagens principais (5) é nacional ou residente num território de língua portuguesa (6), europeu ou dos países coprodutores, no caso de coproduções oficiais ao abrigo de tratados de coprodução em que Portugal seja parte - 5 pontosPelo menos uma personagem principal é nacional ou residente num território de língua portuguesa, europeu ou dos países coprodutores, no caso de coproduções oficiais ao abrigo de tratados de coprodução em que Portugal seja parte - 3 pontosPelo menos uma personagem secundária é na cional ou residente num território de língua portuguesa, europeu ou dos países coprodutores, no caso de coproduções oficiais ao abrigo de tratados de coprodução em que Portugal seja parte - 1 ponto | 5 |
+| A1.4 | Argumento:O argumento é um original em língua portuguesa ou uma adaptação de uma obra literária em língua portuguesa - 5 pontosO argumento é baseado em narrativas ou figuras portuguesas, históricas ou atuais, abrangendo tradições locais e obras contemporâneas - 5 pontosO argumento é um original em língua nacional ou regional falada na Europa, ou num país coprodutor, no caso de coproduções oficiais ao abrigo de tratados de coprodução em que Portugal seja parte, ou em língua crioula de base portuguesa - 3 pontosO argumento é uma adaptação de uma obra literária em língua crioula de base portuguesa, ou em língua falada na Europa ou num país coprodutor, no caso de coproduções oficiais ao abrigo de tratados de coprodução em que Portugal seja parte - 3 pontosO argumento é uma adaptação de uma obra relevante da literatura universal (7) - 2 pontos | 5 |
 | A1.5 | Obra de animação, obra destinada a públicos infantis ou infantojuvenis, documentário ou obra interativa ou de realidade aumentada ou virtual. | 4 |
 | A1.6 | MúsicaPresença de música (original, gravada ou reinterpretada) cantada em língua portuguesa, ou de autores de língua portuguesa, em pelo menos 20 % relativamente à duração total da componente musical da banda sonora da obra. | 3 |
 |  | Subtotal secção A1 | 30 |
 | Secção A2 | Impacto cultural, circulação e sinergias |  |
-| A.2.1. | «Visibilidade do territórioA obra inclui cenas exteriores em que são visíveis elementos do património natural ou edificado português, identificáveis como tal na ação da obra ou no documentário (<sup>8</sup>), os quais correspondem a:»Pelo menos 50 % das cenas exteriores da obra - 6 pontosPelo menos 20 % das cenas exteriores da obra - 4 pontosPelo menos 10 % das cenas exteriores da obra - 3 pontosPelo menos 5 % das cenas exteriores da obra - 1 ponto | 6 |
+| A.2.1. | «Visibilidade do territórioA obra inclui cenas exteriores em que são visíveis elementos do património natural ou edificado português, identificáveis como tal na ação da obra ou no documentário (8), os quais correspondem a:»Pelo menos 50 % das cenas exteriores da obra - 6 pontosPelo menos 20 % das cenas exteriores da obra - 4 pontosPelo menos 10 % das cenas exteriores da obra - 3 pontosPelo menos 5 % das cenas exteriores da obra - 1 ponto | 6 |
 | A.2.2. | Notoriedade e circulação de obras anteriores«O candidato opta entre um dos dois indicadores a seguir referidos, A ou B, sendo a pontuação atribuída conforme as especificações contidas na parte iii do anexo i ao presente Regulamento:Indicador A - consagração artística de criadores, produtores e atores principais ouIndicador B - circulação internacional de obras anteriores dos mesmos produtores, autores ou atores principais. Circulação internacional em serviços audiovisuais de obra anterior dos mesmos produtores ou autores» | 5 |
-| A2.3 | Promoção da igualdade de géneroA obra inclui, na sua produção, mais de 50 % de mulheres entre os elementos referidos nas rubricas do critério B1 da presente tabela - 2 pontosA obra é realizada por uma mulher ou pelo menos 50 % dos correalizadores são mulheres (aplica-se a obras cinematográficas ou audiovisuais) - 2 pontosNo caso das obras audiovisuais: a obra é criada ou escrita (<sup>9</sup>) por uma mulher ou pelo menos 50 % dos criadores/argumentistas são mulheres - 2 pontosA obra inclui, na sua produção, mais de 40 % de mulheres entre os elementos referidos nas rubricas do critério B1 da presente tabela - 1 ponto | 2 |
+| A2.3 | Promoção da igualdade de géneroA obra inclui, na sua produção, mais de 50 % de mulheres entre os elementos referidos nas rubricas do critério B1 da presente tabela - 2 pontosA obra é realizada por uma mulher ou pelo menos 50 % dos correalizadores são mulheres (aplica-se a obras cinematográficas ou audiovisuais) - 2 pontosNo caso das obras audiovisuais: a obra é criada ou escrita (9) por uma mulher ou pelo menos 50 % dos criadores/argumentistas são mulheres - 2 pontosA obra inclui, na sua produção, mais de 40 % de mulheres entre os elementos referidos nas rubricas do critério B1 da presente tabela - 1 ponto | 2 |
 | A2.4 | Circulação internacional do projetoA pontuação neste critério é atribuída conforme as especificações contidas na parte ii do anexo i ao presente Regulamento. | 8 |
 | A2.5 | CoproduçãoCoprodução internacional reconhecida ao abrigo de acordos bilaterais ou convenções multilaterais de coprodução em que Portugal é Parte ou de acordos referentes ao setor audiovisual, incluindo o setor do cinema, celebrados entre a União Europeia e países terceiros - 4 pontosCoprodução internacional de facto em que a parte do coprodutor estabelecido em Portugal é igual ou superior a 10 % - 3 pontosCoprodução nacional de uma obra de produção independente - 2 pontos | 4 |
-| A2.6 | Sinergias com a distribuição e a comunicação social (<sup>10</sup>)O projeto tem distribuição garantida em órgãos de comunicação social nacional, tendo essa garantia de distribuição a forma de contrato de distribuição ou participação no financiamento da produção quando o respetivo contrato é celebrado com o produtor independente antes do início da rodagem, sendo parte integrante do plano de financiamento da obra, enquanto:1 - Participação na obra através de coprodução;2 - Participação nas receitas da obra, através de associação em participação à produção, sem coprodução;3 - Receita antecipada garantida, através do licenciamento de direitos em fase de projeto, correntemente designado por «pré-venda» ou por «mínimo garantido»;4 - Receita antecipada garantida, através de outros contratos de distribuição assinados.OuA obra tem distribuição ou difusão garantida e/ou financiamento (<sup>11</sup>) por parte de entidades sujeitas a obrigações de investimento em obras cinematográficas ou audiovisuais em Portugal (<sup>12</sup>), incluindo órgãos de comunicação social nos termos da alínea e) do n.º 1 do artigo 2.º do presente Regulamento, e:é uma obra europeia de produção independente originariamente em língua portuguesa (<sup>13</sup>) - 5 pontosé uma obra europeia originariamente em língua portuguesa (<sup>13</sup>) - 3 pontosé uma obra europeia (<sup>13</sup>) - 2 pontos | 5 |
+| A2.6 | Sinergias com a distribuição e a comunicação social (10)O projeto tem distribuição garantida em órgãos de comunicação social nacional, tendo essa garantia de distribuição a forma de contrato de distribuição ou participação no financiamento da produção quando o respetivo contrato é celebrado com o produtor independente antes do início da rodagem, sendo parte integrante do plano de financiamento da obra, enquanto:1 - Participação na obra através de coprodução;2 - Participação nas receitas da obra, através de associação em participação à produção, sem coprodução;3 - Receita antecipada garantida, através do licenciamento de direitos em fase de projeto, correntemente designado por «pré-venda» ou por «mínimo garantido»;4 - Receita antecipada garantida, através de outros contratos de distribuição assinados.OuA obra tem distribuição ou difusão garantida e/ou financiamento (11) por parte de entidades sujeitas a obrigações de investimento em obras cinematográficas ou audiovisuais em Portugal (12), incluindo órgãos de comunicação social nos termos da alínea e) do n.º 1 do artigo 2.º do presente Regulamento, e:é uma obra europeia de produção independente originariamente em língua portuguesa (13) - 5 pontosé uma obra europeia originariamente em língua portuguesa (13) - 3 pontosé uma obra europeia (13) - 2 pontos | 5 |
 |  | Subtotal secção A2 | 30 |
 | Parte B | Cooperação criativa e técnica |  |
 | Secção B1 | Key persons (criativos e técnicos) - participação de colaboradores criativos e técnicos-chave portugueses ou residentes em Portugal ou nacionais ou residentes num Estado-Membro da União Europeia ou num Estado parte no Espaço Económico Europeu. |  |
-| Secção B1 | Realizador ou showrunner (<sup>14</sup>) | 3 |
-| Secção B1 | Produtor (ou produtor executivo, unicamente no caso de produções estrangeiras) | 3 |
-| Secção B1 | Argumentista, autor de adaptação, autor de diálogos, compositor, diretor de fotografia,Em obras de animação: autor do grafismo e/ou da pintura dos personagens e/ou da pintura dos cenários, autor de layouts, autor de storyboards.(1 ponto por cada, até ao máximo de 3 pontos) | 3 |
+| Realizador ou showrunner (14) | 3 |  |
+| Produtor (ou produtor executivo, unicamente no caso de produções estrangeiras) | 3 |  |
+| Argumentista, autor de adaptação, autor de diálogos, compositor, diretor de fotografia,Em obras de animação: autor do grafismo e/ou da pintura dos personagens e/ou da pintura dos cenários, autor de layouts, autor de storyboards.(1 ponto por cada, até ao máximo de 3 pontos) | 3 |  |
 |  | Diretor de arte, diretor de produção, diretor de animação (em animação), diretor de atores/vozes (em animação)Figurinista, montador, maquilhador-chefe, primeiro operador de câmara, diretor de som, chefe de guarda-roupa, primeiro assistente do realizador, chefe de unidade, supervisor de efeitos especiais, lead modeler (em animação), diretor de pesquisa ou perito/consultor principal (para documentários)(1 ponto por cada, até ao máximo de 4 pontos). | 4 |
-|  | Atores/atrizes (no caso das obras de animação, aplica-se às vozes).Mais do que 1 ator/atriz em papel principal (<sup>15</sup>) ou 1 ator/atriz em papel principal e pelo menos 2 atores/atrizes em papéis secundários (<sup>16</sup>) | 2 |
+|  | Atores/atrizes (no caso das obras de animação, aplica-se às vozes).Mais do que 1 ator/atriz em papel principal (15) ou 1 ator/atriz em papel principal e pelo menos 2 atores/atrizes em papéis secundários (16) | 2 |
 |  | 1 ator/atriz em papel principal ou pelo menos 2 atores/atrizes em papéis secundários | 1 |
-| Secção B2 | Participação de outros membros das equipas artística e técnica portugueses ou residentes em Portugal ou nacionais ou residentes num Estado-Membro da UE ou do EEE. (<sup>17</sup>)Pelo menos 50 % ou um mínimo de 40 pessoas - 5 pontosDe 20 % a 49 % ou um mínimo de 15 pessoas - 4 pontosDe 10 % a 19 % ou um mínimo de 8 pessoas - 2 pontos | 5 |
+| Secção B2 | Participação de outros membros das equipas artística e técnica portugueses ou residentes em Portugal ou nacionais ou residentes num Estado-Membro da UE ou do EEE. (17)Pelo menos 50 % ou um mínimo de 40 pessoas - 5 pontosDe 20 % a 49 % ou um mínimo de 15 pessoas - 4 pontosDe 10 % a 19 % ou um mínimo de 8 pessoas - 2 pontos | 5 |
 | Secção B3 | Rodagem em locais ou estúdios em PortugalPercentagem de dias de rodagem em Portugal relativamente ao número total de dias de rodagem, ou, no caso das obras de animação, percentagem de minutos da animação produzidos em estúdios portugueses.”Pelo menos 60 % (ou um mínimo de 30 dias) - 10 pontosPelo menos 30 % em territórios de baixa densidade (com um mínimo de 15 dias) - 6 pontosPelo menos 50 % (ou um mínimo de 20 dias) - 5 pontosDe 10 % a 49 % - 4 pontos | 10 |
 | Secção B4 | Utilização de recursos técnicos-artísticos em PortugalRecurso a prestadores de serviços técnicos, nomeadamente aluguer de equipamento de câmara, iluminação, som e maquinaria, bem como efeitos especiais, efeitos visuais, gravação de banda sonora, pós-produção áudio e pós-produção de imagem em Portugal: serviços prestados por entidades estabelecidas em Portugal, relativamente à totalidade dos serviços prestados durante a produção em Portugal”Pelo menos 70 % - 10 pontosPelo menos 50 % - 5 pontosDe 20 % a 49 % - 3 pontosDe 10 % a 19 % - 2 pontos | 10 |
 |  | Subtotal secção B | 40 |
 | Total |  | 100 |
 
-(<sup>1</sup>) Em fase de admissão ao benefício do Incentivo, afere-se pelo número de cenas/páginas do guião (ou do plano ou tratamento, no caso de um documentário) em que a ação decorre reconhecidamente nos locais em causa; em fase de apuramento definitivo do Incentivo, pelo número de minutos em que a ação decorre reconhecidamente nos locais em causa.
+(1) Em fase de admissão ao benefício do Incentivo, afere-se pelo número de cenas/páginas do guião (ou do plano ou tratamento, no caso de um documentário) em que a ação decorre reconhecidamente nos locais em causa; em fase de apuramento definitivo do Incentivo, pelo número de minutos em que a ação decorre reconhecidamente nos locais em causa.
 
-(<sup>2</sup>) As referências a «Europa» e «europeu» na Secção A1 da tabela referem-se aos Estados-Membros da União Europeia (UE) ou do Espaço Económico Europeu (EEE) ou aos Estados-parte na Convenção Europeia sobre a Televisão Transfronteiras do Conselho da Europa.
+(2) As referências a «Europa» e «europeu» na Secção A1 da tabela referem-se aos Estados-Membros da União Europeia (UE) ou do Espaço Económico Europeu (EEE) ou aos Estados-parte na Convenção Europeia sobre a Televisão Transfronteiras do Conselho da Europa.
 
-(<sup>3</sup>) Por «país lusófono» entende-se um Estado-Membro da Comunidade dos Países de Língua Portuguesa (CPLP). Por «comunidade lusófona» entende-se um contexto territorial e social em que o português é falado, tais como comunidades de emigrantes e/ou lusodescendentes ou comunidades em que o português, ainda que nas suas variantes locais, é língua minoritária (por exemplo: Goa e outros territórios na Índia, Malásia, etc.). Só é atribuída pontuação relativa a uma «comunidade lusófona» enquanto local de ação se as cenas situadas nesses territórios incluírem falas em português (incluindo variantes ou crioulos de base portuguesa).
+(3) Por «país lusófono» entende-se um Estado-Membro da Comunidade dos Países de Língua Portuguesa (CPLP). Por «comunidade lusófona» entende-se um contexto territorial e social em que o português é falado, tais como comunidades de emigrantes e/ou lusodescendentes ou comunidades em que o português, ainda que nas suas variantes locais, é língua minoritária (por exemplo: Goa e outros territórios na Índia, Malásia, etc.). Só é atribuída pontuação relativa a uma «comunidade lusófona» enquanto local de ação se as cenas situadas nesses territórios incluírem falas em português (incluindo variantes ou crioulos de base portuguesa).
 
-(<sup>4</sup>) No caso das obras de animação, este requisito é cumprido se a obra tiver uma versão final dobrada em língua portuguesa.
+(4) No caso das obras de animação, este requisito é cumprido se a obra tiver uma versão final dobrada em língua portuguesa.
 
-(<sup>5</sup>) Afere-se a qualidade de personagem «principal», em fase de admissão ao benefício do Incentivo, pelo número de cenas em que entra, linhas de falas e ações na versão mais recente do guião; em fase de apuramento definitivo do Incentivo, pelo maior dos dois valores seguintes, desde que coerente com o estatuto de papel principal atribuído nas fichas técnicas e no genérico:
+(5) Afere-se a qualidade de personagem «principal», em fase de admissão ao benefício do Incentivo, pelo número de cenas em que entra, linhas de falas e ações na versão mais recente do guião; em fase de apuramento definitivo do Incentivo, pelo maior dos dois valores seguintes, desde que coerente com o estatuto de papel principal atribuído nas fichas técnicas e no genérico:
 
 a) Número de cenas em que entra, linhas de falas e ações na versão final do guião;
 
@@ -893,19 +960,19 @@ b) Número de minutos em que intervém na obra.
 
 Quer no caso a), quer no caso b), é necessário que o valor encontrado corresponda a pelo menos 40 % do total. No caso de documentários, a «personagem» pode ser uma pessoa real retratada ou participante na obra.
 
-(<sup>6</sup>) Aplicado nos termos da nota 3.
+(6) Aplicado nos termos da nota 3.
 
-(<sup>7</sup>) Consideram-se obras «relevantes da literatura universal»: as obras de domínio público; as obras de autores galardoados com grandes prémios internacionais e nacionais (designadamente Nobel, Booker, Hans-Christian-Andersen Prémio Europeu de Literatura, Cervantes, Pessoa, Goncourt, Goethe, Femina, Franz Kafka, America Award, Pulitzer); obras e autores que são objeto de estudo académico, e/ou traduzidos em várias línguas e/ou ensinados nas escolas e/ou objeto de receção crítica na imprensa generalista ou em publicações literárias; e obras incluídas no Plano Nacional de Leitura.
+(7) Consideram-se obras «relevantes da literatura universal»: as obras de domínio público; as obras de autores galardoados com grandes prémios internacionais e nacionais (designadamente Nobel, Booker, Hans-Christian-Andersen Prémio Europeu de Literatura, Cervantes, Pessoa, Goncourt, Goethe, Femina, Franz Kafka, America Award, Pulitzer); obras e autores que são objeto de estudo académico, e/ou traduzidos em várias línguas e/ou ensinados nas escolas e/ou objeto de receção crítica na imprensa generalista ou em publicações literárias; e obras incluídas no Plano Nacional de Leitura.
 
-(<sup>8</sup>) Quaisquer cenários urbanos, rurais ou costeiros no território português.
+(8) Quaisquer cenários urbanos, rurais ou costeiros no território português.
 
 No caso das obras de animação ou de realidade aumentada ou virtual, aplica-se aos cenários que representam os cenários naturais ou edificados acima indicados.
 
-(<sup>9</sup>) Considera-se a argumentista principal, em caso de coautoria, independentemente da designação utilizada nos créditos, conforme os usos da indústria, podendo corresponder, em produções estrangeiras ou internacionais, aos créditos de «created by» ou «written by» ou equivalentes.
+(9) Considera-se a argumentista principal, em caso de coautoria, independentemente da designação utilizada nos créditos, conforme os usos da indústria, podendo corresponder, em produções estrangeiras ou internacionais, aos créditos de «created by» ou «written by» ou equivalentes.
 
-(<sup>10</sup>) Atividades de distribuição cinematográfica, de edição de videogramas, de televisão ou de serviços audiovisuais a pedido. Inclui serviços equivalentes a estes operados por órgãos de comunicação social ou entidades que prossigam atividades de comunicação social, nos termos do artigo 6.º dos Estatutos da ERC, anexos à [Lei n.º 53/2005](https://diariodarepublica.pt/dr/detalhe/lei/53-2005-583192), de 8 de novembro.
+(10) Atividades de distribuição cinematográfica, de edição de videogramas, de televisão ou de serviços audiovisuais a pedido. Inclui serviços equivalentes a estes operados por órgãos de comunicação social ou entidades que prossigam atividades de comunicação social, nos termos do artigo 6.º dos Estatutos da ERC, anexos à [Lei n.º 53/2005](https://diariodarepublica.pt/dr/detalhe/lei/53-2005-583192), de 8 de novembro.
 
-(<sup>11</sup>) Considera-se a distribuição garantida quando é objeto de contrato de licenciamento dos direitos necessários com o produtor.
+(11) Considera-se a distribuição garantida quando é objeto de contrato de licenciamento dos direitos necessários com o produtor.
 
 Considera-se que há financiamento à produção quando são respeitadas as condições previstas no n.º 9 do artigo 24.º do [Decreto-Lei n.º 74/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2021-170175411), isto é, no caso das obras de produção independente, quando o financiamento em causa é objeto de contrato celebrado com o produtor independente antes do início da rodagem, sendo parte integrante do plano de financiamento da obra. O financiamento pode assumir as formas previstas no referido artigo:
 
@@ -915,9 +982,9 @@ b) Participação nas receitas da obra, através de associação em participaç�
 
 c) Receita antecipada garantida, através do licenciamento de direitos em fase de projeto, correntemente designado por «pré-venda» ou por «mínimo garantido».
 
-(<sup>12</sup>) Inclui entidades sujeitas, mas isentas, por terem baixo volume de negócios ou baixas audiências no mercado nacional, nos termos do n.º 4 do artigo 14.º-A da [Lei n.º 55/2012](https://diariodarepublica.pt/dr/detalhe/lei/55-2012-174871) e do artigo 19.º do [Decreto-Lei n.º 74/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2021-170175411).
+(12) Inclui entidades sujeitas, mas isentas, por terem baixo volume de negócios ou baixas audiências no mercado nacional, nos termos do n.º 4 do artigo 14.º-A da [Lei n.º 55/2012](https://diariodarepublica.pt/dr/detalhe/lei/55-2012-174871) e do artigo 19.º do [Decreto-Lei n.º 74/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2021-170175411).
 
-(<sup>13</sup>) Conceitos entendidos na aceção:
+(13) Conceitos entendidos na aceção:
 
 Das alíneas k) e l) do n.º 1 do artigo 2.º da [Lei n.º 55/2012](https://diariodarepublica.pt/dr/detalhe/lei/55-2012-174871); do [Decreto-Lei n.º 74/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2021-170175411) («obra europeia»);
 
@@ -925,15 +992,15 @@ Da alínea j) do n.º 1 do artigo 2.º da [Lei n.º 55/2012](https://diariodarep
 
 Do n.º 4 do artigo 24.º do [Decreto-Lei n.º 74/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2021-170175411) («considera-se que uma obra é realizada originariamente em língua portuguesa quando mais de metade dos diálogos são em língua portuguesa ou em línguas crioulas de base portuguesa»).
 
-(<sup>14</sup>) No caso de obras para televisão ou serviços audiovisuais a pedido, considera-se o responsável criativo máximo, destacado como tal nos créditos, com as designações conformes aos usos da indústria, nomeadamente «showrunner» ou «executive producer» [sem confundir esta designação com a função de «produtor executivo» tal como definida na alínea h) do n.º 1 do artigo 2.º do presente Regulamento].
+(14) No caso de obras para televisão ou serviços audiovisuais a pedido, considera-se o responsável criativo máximo, destacado como tal nos créditos, com as designações conformes aos usos da indústria, nomeadamente «showrunner» ou «executive producer» [sem confundir esta designação com a função de «produtor executivo» tal como definida na alínea h) do n.º 1 do artigo 2.º do presente Regulamento].
 
-(<sup>15</sup>) Afere-se, em fase de admissão ao benefício do Incentivo, pelo número de cenas em que entra, linhas de falas e ações na versão mais recente do guião; em fase de apuramento definitivo do Incentivo, pelo maior dos dois valores seguintes, desde que coerente com o estatuto de papel principal atribuído nas fichas técnicas e no genérico: a) número de cenas em que entra, linhas de falas e ações na versão final do guião; b) número de minutos em que intervém no filme. Quer no caso a), quer no caso b), é necessário que o valor encontrado corresponda a pelo menos 40 % do total. No caso de documentários, aplica-se às pessoas reais participantes na obra.
+(15) Afere-se, em fase de admissão ao benefício do Incentivo, pelo número de cenas em que entra, linhas de falas e ações na versão mais recente do guião; em fase de apuramento definitivo do Incentivo, pelo maior dos dois valores seguintes, desde que coerente com o estatuto de papel principal atribuído nas fichas técnicas e no genérico: a) número de cenas em que entra, linhas de falas e ações na versão final do guião; b) número de minutos em que intervém no filme. Quer no caso a), quer no caso b), é necessário que o valor encontrado corresponda a pelo menos 40 % do total. No caso de documentários, aplica-se às pessoas reais participantes na obra.
 
-(<sup>16</sup>) Consideram -se papéis secundários os que impliquem pelo menos quatro sessões de filmagem, devidamente verificáveis nos documentos e contas e com a devida indicação na ficha técnica e genérico do filme. No caso da animação consideram-se papéis secundários os que participam em pelo menos 10 % do tempo total do filme e incluam linhas de fala.
+(16) Consideram -se papéis secundários os que impliquem pelo menos quatro sessões de filmagem, devidamente verificáveis nos documentos e contas e com a devida indicação na ficha técnica e genérico do filme. No caso da animação consideram-se papéis secundários os que participam em pelo menos 10 % do tempo total do filme e incluam linhas de fala.
 
-(<sup>17</sup>) Relativamente à totalidade do pessoal artístico e técnico participante nas atividades de produção realizadas em Portugal. Aplica-se aos colaboradores que não geraram pontos na secção B1 e aos figurantes.
+(17) Relativamente à totalidade do pessoal artístico e técnico participante nas atividades de produção realizadas em Portugal. Aplica-se aos colaboradores que não geraram pontos na secção B1 e aos figurantes.
 
-# PARTE II — ESPECIFICAÇÕES RELATIVAS À APLICAÇÃO DO CRITÉRIO A2.4 DA TABELA DE ANÁLISE E CLASSIFICAÇÃO
+## PARTE II — ESPECIFICAÇÕES RELATIVAS À APLICAÇÃO DO CRITÉRIO A2.4 DA TABELA DE ANÁLISE E CLASSIFICAÇÃO
 
 1 - Para a determinação dos valores de share de audiência ou de mercado de serviços de televisão ou de serviços audiovisuais a pedido por subscrição (cf. tabelas A e B infra), o ICA, I. P., utiliza dados fornecidos por entidades de referência no domínio da medição de audiências ou de mercados e, com a antecedência possível relativamente à data de abertura de cada fase de candidaturas, torna públicas no seu sítio eletrónico as fontes que utiliza para este efeito, bem como os territórios cobertos por estas.
 
@@ -985,9 +1052,9 @@ TABELA A
 
 Difusão em serviços de televisão (pontuação por território e por share de cada serviço)
 
-| População do território (em milhões) | ≥ 20 % | < 20 % ≥ 10 % | < 10 % ≥ 5 % | < 5 % |
+| População do território (em milhões) | Share médio do serviço de programas no ano anterior |  |  |  |
 | --- | --- | --- | --- | --- |
-| População do território (em milhões) | Share médio do serviço de programas no ano anterior | Share médio do serviço de programas no ano anterior | Share médio do serviço de programas no ano anterior | Share médio do serviço de programas no ano anterior |
+| ≥ 20 % | < 20 % ≥ 10 % | < 10 % ≥ 5 % | < 5 % |  |
 | < 20 | 1,5 | 1 | 0,75 | 0,5 |
 | 20-50 | 2 | 1,5 | 1 | 0,75 |
 | 51-100 | 2,5 | 2 | 1,5 | 1 |
@@ -997,15 +1064,15 @@ TABELA B
 
 Disponibilização em serviços audiovisuais a pedido (pontuação por território e por share de cada serviço)
 
-| População do território (em milhões) | 20 % | < 20 % ≥ 10 % | < 10 % ≥ 5 % | < 5 % |
+| População do território (em milhões) | Serviços audiovisuais a pedido por subscrição (SVoD)1Share médio do serviço no mercado destes serviços, no território em causa, no ano anterior |  |  |  |
 | --- | --- | --- | --- | --- |
-| População do território (em milhões) | Serviços audiovisuais a pedido por subscrição (SVoD)<sup>1</sup>Share médio do serviço no mercado destes serviços, no território em causa, no ano anterior | Serviços audiovisuais a pedido por subscrição (SVoD)<sup>1</sup>Share médio do serviço no mercado destes serviços, no território em causa, no ano anterior | Serviços audiovisuais a pedido por subscrição (SVoD)<sup>1</sup>Share médio do serviço no mercado destes serviços, no território em causa, no ano anterior | Serviços audiovisuais a pedido por subscrição (SVoD)<sup>1</sup>Share médio do serviço no mercado destes serviços, no território em causa, no ano anterior |
+| 20 % | < 20 % ≥ 10 % | < 10 % ≥ 5 % | < 5 % |  |
 | < 20 | 1,5 | 1 | 0,75 | 0,5 |
 | 20-50 | 2 | 1,5 | 1 | 0,75 |
 | 51-100 | 2,5 | 2 | 1,5 | 1 |
 | > 100 | 4 | 2,5 | 2 | 1,5 |
 
-<sup>1</sup> Inclui, por analogia, plataformas de partilha de vídeo ou outras plataformas audiovisuais, desde que tenham controlo editorial efetivo sobre o catálogo.
+1 Inclui, por analogia, plataformas de partilha de vídeo ou outras plataformas audiovisuais, desde que tenham controlo editorial efetivo sobre o catálogo.
 
 5 - Não são considerados válidos para efeitos de contagem dos territórios de exploração de uma obra:
 
@@ -1013,9 +1080,9 @@ a) A difusão ou redifusão em serviços de programas televisivos de âmbito int
 
 b) O mero acesso transfronteiriço a serviços de programas de televisão ou de serviços audiovisuais a pedido, aos quais tenha sido licenciada a difusão da obra, seja por via da portabilidade transfronteiriça de serviços de conteúdos em linha, nos termos do [Regulamento (UE) 2017/1128](https://data.europa.eu/eli/reg/2017/1128/oj?locale=pt) do Parlamento Europeu e do Conselho, de 14 de junho de 2017, seja por se tratar de um serviço acessível global ou regionalmente em redes de comunicações eletrónicas, mas que não vise especificamente o público dos territórios em que tem lugar o referido acesso.
 
-6 - Em caso de dúvida na aplicação do número anterior, aplicam-se, na definição de audiências em território nacional, os critérios previstos nos n.<sup>os</sup>6 a 8 do artigo 9.º do [Decreto-Lei n.º 74/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2021-170175411), de 25 de agosto.
+6 - Em caso de dúvida na aplicação do número anterior, aplicam-se, na definição de audiências em território nacional, os critérios previstos nos n.os6 a 8 do artigo 9.º do [Decreto-Lei n.º 74/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2021-170175411), de 25 de agosto.
 
-# PARTE III
+## PARTE III
 
 Especificações relativas à aplicação do critério A2.2 da tabela de análise e classificação ― Consagração artística/Histórico de internacionalização:
 
@@ -1144,3 +1211,7 @@ c) Montagem financeira final que evidencie as informações relativas às fontes
 3 - O pagamento do apoio financeiro é efetuado contra a demonstração da execução do projeto e após a entrega de contas finais validadas por um contabilista certificado.
 
 4 - Para efeitos de demonstração da execução do projeto, o beneficiário entrega relatório quanto ao resultado da missão de prospeção.
+
+119948834
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { min-height:18px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl10 { min-height:139px; } .Tbl12 { text-align:right; margin-right:10px; } .Tbl13 { min-height:68px; } .Tbl14 { min-height:122px; } .Tbl15 { min-height:157px; } .Tbl16 { min-height:28px; } .Tbl17 { min-height:58px; } .Tbl18 { min-height:114px; } .Tbl19 { min-height:96px; } .Tbl20 { min-height:118px; } .Tbl21 { min-height:43px; } .Tbl22 { min-height:109px; } .Tbl23 { min-height:240px; } .Tbl24 { min-height:38px; } .Tbl25 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl26 { text-align:center; page-break-after:avoid; } .Tbl27 { page-break-after:avoid; } .Tbl28 { text-align:right; page-break-after:avoid; margin-right:10px; } .Tbl29 { min-height:59px; } .Tbl30 { min-height:77px; } .Tbl31 { border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl32 { border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl33 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl34 { min-height:74px; } .Tbl35 { min-height:123px; } .Tbl36 { min-height:26px; } .Tbl37 { min-height:17px; } .Tbl38 { min-height:31px; }

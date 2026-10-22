@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1960/07/15200/16321633.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43044-1960-502409
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-12-02T00:00:00Z'
+  retrieved_at: '2026-10-22T19:18:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42f78e4a11f88810390790b6a30e0a7f0273b9957c40193aac48142ec1b050cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a84b15f3c30284e99ba02bf51ef290ee90901e04a064f87a9ef460674b56bd50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:18:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Inspecção de Jogos
+- Estabelecimento de Jogos
+- Jogos de Fortuna e Azar
+- ZONA de JOGO
 relationships:
 - type: amended_by
   target: pt:dre:550804:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:304752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352076:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:550804:por
+  label: Revogado o Dec 41812 de 09-ago, na redação do presente diploma, pelo(a) Decreto-Lei n.º 422/89 - Diário da República
+    n.º 277/1989, Série I de 1989-12-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/422-1989-550804
+  date: '1989-12-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:18:39Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +107,9 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os artigos 4.º, 5.º, 12.º, 13.º, 19.º, 20.º, 22.º, 26.º, 27.º, 28.º, 31.º, 33.º, 47.º, 49.º, 54.º e 57.º do [Decreto n.º 41812](https://diariodarepublica.pt/dr/detalhe/decreto/41812-1958-352076), de 9 de Agosto de 1958, passam a ter a seguinte redacção:
+Artigo único. Os artigos 4.º, 5.º, 12.º, 13.º, 19.º, 20.º, 22.º, 26.º, 27.º, 28.º, 31.º, 33.º, 47.º, 49.º, 54.º e 57.º do [Decreto n.º 41812](https://diariodarepublica.pt/dr/detalhe/decreto/41812-1958-352076), de 9 de Agosto de 1958, passam a ter a seguinte redacção:
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 5.º ...
 
@@ -103,9 +121,9 @@ Um mapa com indicação dos jogos bancados que funcionaram na véspera, do núme
 
 ...
 
-###### Art. 5.º As empresas concessionárias, anualmente e logo após a realização da respectiva assembleia geral, enviarão ao Conselho de Inspecção de Jogos um exemplar do relatório e das respectivas contas, bem como nota discriminativa da constituição dos corpos gerentes e da direcção do casino.
+Art. 5.º As empresas concessionárias, anualmente e logo após a realização da respectiva assembleia geral, enviarão ao Conselho de Inspecção de Jogos um exemplar do relatório e das respectivas contas, bem como nota discriminativa da constituição dos corpos gerentes e da direcção do casino.
 
-###### Art. 12.º ...
+Art. 12.º ...
 
 § 1.º A inobservância do disposto neste artigo constitui falta disciplinar, a que correspondem as penas seguintes, a aplicar de harmonia com a natureza e gravidade da falta:
 
@@ -121,7 +139,7 @@ Um mapa com indicação dos jogos bancados que funcionaram na véspera, do núme
 
 § 3.º As infracções ao disposto nas alíneas b) e c) serão punidas pela empresa nos termos gerais.
 
-###### Art. 13.º É permitido ao pessoal das salas de jogos aceitar as gratificações que lhe sejam espontâneamente dadas pelos frequentadores, as quais, por despacho do Ministro das Corporações e Previdência Social, poderão ser consideradas como ordenado ou salário, no todo ou em parte, para efeito de previdência e abono de família, respondendo neste caso tais gratificações pela percentagem de 50 por cento dos respectivos encargos patronais.
+Art. 13.º É permitido ao pessoal das salas de jogos aceitar as gratificações que lhe sejam espontâneamente dadas pelos frequentadores, as quais, por despacho do Ministro das Corporações e Previdência Social, poderão ser consideradas como ordenado ou salário, no todo ou em parte, para efeito de previdência e abono de família, respondendo neste caso tais gratificações pela percentagem de 50 por cento dos respectivos encargos patronais.
 
 § 1.º As gratificações a que se refere o corpo deste artigo são obrigatòriamente, logo após o seu recebimento, deitadas em caixas destinadas a esse fim ou trocadas na caixa pagadora e distribuídas de harmonia com as regras que forem aprovadas pelo Ministro das Corporações e Previdência Social.
 
@@ -129,7 +147,7 @@ Um mapa com indicação dos jogos bancados que funcionaram na véspera, do núme
 
 ...
 
-###### Art. 19.º ...
+Art. 19.º ...
 
 1) ...
 
@@ -139,41 +157,41 @@ d) Inserindo a tabela de preços dos cartões e bilhetes de acesso às salas de 
 
 ...
 
-###### Art. 20.º ...
+Art. 20.º ...
 
 § único. O acesso de estrangeiros não domiciliados no País às salas onde se pratique a boule poderá efectuar-se também mediante a apresentação de passaporte ou de qualquer outro documento comprovativo da sua identidade.
 
 ...
 
-###### Art. 22.º Os cartões de acesso às salas de jogos, contendo os elementos referidos nas alíneas a), d), g) e i) do artigo seguinte, terão em cada ano ou época numeração seguida e a cor que for determinada pelo Conselho de Inspecção de Jogos e serão sempre visados pelo funcionário daquele Conselho em serviço no casino. Só poderão ser concedidos a indivíduos de nacionalidade portuguesa e aos estrangeiros que residam ou permaneçam no País por mais de 60 dias em cada ano, a seu pedido, depois de haverem feito prova de que não se encontram abrangidos pelo disposto em qualquer dos números do artigo 24.º do [Decreto-Lei n.º 41562](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41562-1958-304752).
+Art. 22.º Os cartões de acesso às salas de jogos, contendo os elementos referidos nas alíneas a), d), g) e i) do artigo seguinte, terão em cada ano ou época numeração seguida e a cor que for determinada pelo Conselho de Inspecção de Jogos e serão sempre visados pelo funcionário daquele Conselho em serviço no casino. Só poderão ser concedidos a indivíduos de nacionalidade portuguesa e aos estrangeiros que residam ou permaneçam no País por mais de 60 dias em cada ano, a seu pedido, depois de haverem feito prova de que não se encontram abrangidos pelo disposto em qualquer dos números do artigo 24.º do [Decreto-Lei n.º 41562](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41562-1958-304752).
 
 ...
 
-###### Art. 26.º Os bilhetes de acesso às salas de jogos só poderão ser concedidos a estrangeiros cuja permanência no País não exceda 60 dias, depois de haverem provado a sua identidade por qualquer documento de natureza oficial.
+Art. 26.º Os bilhetes de acesso às salas de jogos só poderão ser concedidos a estrangeiros cuja permanência no País não exceda 60 dias, depois de haverem provado a sua identidade por qualquer documento de natureza oficial.
 
 ...
 
-###### Art. 27.º Os bilhetes de estrangeiros de passagem são constituídos por duas partes - um para ser entregue ao interessado e a outra, onde se inscreverão os elementos de identificação do titular do bilhete, será remetida, no dia imediato ao da sua passagem, ao serviço de inspecção - e podem ser concedidos por períodos de 8,15, 30 e 60 dias, prorrogáveis, nos três primeiros casos, até ao máximo de 60 dias. Se, findo esse prazo, os respectivos titulares obtiverem autorização para permanecer no País, poder-lhes-á ser concedido cartão de acesso nos termos do artigo 22.º deste regulamento.
+Art. 27.º Os bilhetes de estrangeiros de passagem são constituídos por duas partes - um para ser entregue ao interessado e a outra, onde se inscreverão os elementos de identificação do titular do bilhete, será remetida, no dia imediato ao da sua passagem, ao serviço de inspecção - e podem ser concedidos por períodos de 8,15, 30 e 60 dias, prorrogáveis, nos três primeiros casos, até ao máximo de 60 dias. Se, findo esse prazo, os respectivos titulares obtiverem autorização para permanecer no País, poder-lhes-á ser concedido cartão de acesso nos termos do artigo 22.º deste regulamento.
 
 § 1.º Se os titulares dos bilhetes a que se refere o corpo deste artigo voltarem ao País no decurso do ano respectivo, ser-lhes-á revalidado o seu bilhete por período não superior a 60 dias, a contar da data em que a revalidação se fizer.
 
 § 2.º O prazo de validade dos bilhetes caducará, em qualquer hipótese, no final da época ou do ano, conforme se trate de zona de jogo temporário ou de zona de jogo permanente.
 
-###### Art. 28.º Os bilhetes de turistas estrangeiros são válidos por dois dias, registando-se em livro próprio o nome, a idade e a nacionalidade do seu titular, com a indicação do número do respectivo bilhete e do documento que serviu de base à identificação.
+Art. 28.º Os bilhetes de turistas estrangeiros são válidos por dois dias, registando-se em livro próprio o nome, a idade e a nacionalidade do seu titular, com a indicação do número do respectivo bilhete e do documento que serviu de base à identificação.
 
 ...
 
-###### Art. 31.º As segundas vias dos bilhetes de estrangeiros serão concedidas pelo serviço de inspecção do Estado a solicitação verbal dos interessados.
+Art. 31.º As segundas vias dos bilhetes de estrangeiros serão concedidas pelo serviço de inspecção do Estado a solicitação verbal dos interessados.
 
 ...
 
-###### Art. 33.º ...
+Art. 33.º ...
 
 § único. Os bilhetes concedidos pelos directores do casino só serão válidos quando chancelados pelo funcionário do Conselho.
 
 ...
 
-###### Art. 47.º Diàriamente, antes da abertura das salas de jogos, será fixado, de acordo com o serviço de inspecção, o número de bancas a funcionar em cada uma dessas salas, bem como o respectivo capital em giro inicial.
+Art. 47.º Diàriamente, antes da abertura das salas de jogos, será fixado, de acordo com o serviço de inspecção, o número de bancas a funcionar em cada uma dessas salas, bem como o respectivo capital em giro inicial.
 
 § 1.º Sempre que os jogadores presentes nas salas de jogos não tenham as condições de comodidade indispensáveis à prática destes, poderá o funcionário em serviço de inspecção permitir ou ordenar a abertura das bancas que forem consideradas necessárias.
 
@@ -181,20 +199,20 @@ d) Inserindo a tabela de preços dos cartões e bilhetes de acesso às salas de 
 
 ...
 
-###### Art. 49.º ...
+Art. 49.º ...
 
 § 2.º A direcção do casino poderá elevar, com a concordância do Conselho de Inspecção de Jogos, os mínimos que hajam sido fixados, desde que aumente proporcionalmente os máximos e o capital em giro inicial das respectivas bancas.
 
 ...
 
-###### Art. 54.º ...
+Art. 54.º ...
 
 5.º Se algum dos dados cair no chão ou adquirir qualquer defeito ao ser lançado, o golpe será nulo, devendo o «jogo de dados» ser substituído.
 
 ...
 
-###### Art. 57.º Os pagadores que estejam a lançar a bola ou os dados ou a efectuar o pagamento de jogos de cartas não podem ser substituídos durante o horário de trabalho fixado ou antes de esgotadas as cartas no respectivo distribuidor sabot, a não ser por motivo de doença ou outro de força maior.
+Art. 57.º Os pagadores que estejam a lançar a bola ou os dados ou a efectuar o pagamento de jogos de cartas não podem ser substituídos durante o horário de trabalho fixado ou antes de esgotadas as cartas no respectivo distribuidor sabot, a não ser por motivo de doença ou outro de força maior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Julho de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Arnaldo Schulz - Henrique Veiga de Macedo.

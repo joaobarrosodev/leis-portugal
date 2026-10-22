@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/12/23800/0574005751.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/595/2018/12/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/595-2018-117343902
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-12-11T00:00:00Z'
+  retrieved_at: '2026-10-22T18:24:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5414f3241f7de45e8eb4090ababa095440d7b1687c96c63208bcfe21bfc30341
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4f704e84a693cd98ccd850fa28f1075e16f0401a651e325a023e22770c4e69e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:24:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Processo Penal
 - Código de Processo Penal
 - Inconstitucionalidade
 - Interpretação do Direito
+- Processo Penal
+- Recurso
 - Sentença Condenatoria
 - Tribunal da Relação
 relationships:
@@ -95,13 +95,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:24:53Z'
   warnings: []
   errors: []
 ---
@@ -361,3 +361,5 @@ Declaração de voto
 Votei a decisão, com que concordo inteiramente. No estádio atual das coisas, não me sobram dúvidas quanto à inconstitucionalidade de uma norma que recusa ao arguido o recurso de decisão da Relação que, revertendo uma sentença absolutória da primeira instância, condena o mesmo arguido numa pena de prisão efetiva. Esta é, de resto, a constelação típica em que o problema ganha uma expressão paradigmática e se reveste de maior e mais óbvio relevo prático-jurídico.
 
 Considero, porém, que, do lado da fundamentação, se adscreve um peso porventura excessivo ao problema de determinação da sanção. Isto à custa de uma relativa subvalorização do direito fundamental ao recurso, consignado no n.º 1 do artigo 32.º da Lei Fundamental, precisamente o comando constitucional que oferece o parâmetro ao juízo de inconstitucionalidade. Nesta linha e vistas as coisas à luz do direito ao recurso - sc. posta em parênteses a questão lógica e normologicamente posterior da determinação da sanção - , não me parece que haja uma diferença decisiva ditada pela natureza da pena, em definitivo aplicada. Do ponto de vista teleológico e político-criminal, em matéria de recurso há uma grande comunicabilidade entre a condenação em prisão efetiva e, por exemplo, a condenação em multa. O que me leva a acreditar - e esperar - que em ulteriores pronunciamentos, o Tribunal Constitucional reequacione o alargamento do alcance do seu exame e dos seus juízos na direção que fica sugerida. Pelo menos, na direção da multa aplicada a pessoa singular. - Manuel da Costa Andrade.
+
+111862697

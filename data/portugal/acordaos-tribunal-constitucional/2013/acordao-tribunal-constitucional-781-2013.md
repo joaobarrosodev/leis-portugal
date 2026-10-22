@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/781/2013/12/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/781-2013-483939
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-16T00:00:00Z'
+  retrieved_at: '2026-10-22T18:24:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2822bf5d1a465ac24e46eccfa2b99853be5ce57e0bf0c36e3e871799e255d023
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa888dc1a49a97372b63c5207134aed6e3a84182dc1ba32476f684b65bf841f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:24:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
 - Arbitragem
-- Tribunal Arbitral do Desporto
-- Inconstitucionalidade
-- Tribunal Arbitral
 - Desporto
+- Inconstitucionalidade
+- Recurso
+- Tribunal Arbitral
+- Tribunal Arbitral do Desporto
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/ac/52/1992/03/14/p/dre
@@ -94,16 +94,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/74/2013/09/06/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/74/2013/09/06/p/dre
+- type: cites
+  target: pt:dre:174785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522787:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:24:23Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +138,7 @@ I. Relatório
 
 1 - Requerente e pedido
 
-**O Presidente da República vem requerer, ao abrigo do disposto na alínea a) do n.º 2 do artigo 281.º da Constituição da República Portuguesa (CRP), bem como do n.º 1 do artigo 51.º e n.º 1 do artigo 62.º da Lei n.º 28/82, de 15 de novembro, a declaração de inconstitucionalidade, com força obrigatória geral, das normas constantes do n.º 1 e do n.º 2 do artigo 8.º, quando conjugadas com as normas dos artigos 4.º e 5.º do Anexo da [Lei n.º 74/2013](https://diariodarepublica.pt/dr/detalhe/lei/74-2013-499251), publicada no Diário da República de 6 de setembro de 2013, com fundamento na violação das normas do n.º 1 do artigo 20.º e do n.º 4 do artigo 268.º, conjugadas com o disposto no n.º 2 do artigo 18.º da CRP, na medida em que as normas impugnadas podem restringir, de forma desproporcional, o direito de acesso aos tribunais e a uma tutela jurisdicional efetiva.**
+O Presidente da República vem requerer, ao abrigo do disposto na alínea a) do n.º 2 do artigo 281.º da Constituição da República Portuguesa (CRP), bem como do n.º 1 do artigo 51.º e n.º 1 do artigo 62.º da Lei n.º 28/82, de 15 de novembro, a declaração de inconstitucionalidade, com força obrigatória geral, das normas constantes do n.º 1 e do n.º 2 do artigo 8.º, quando conjugadas com as normas dos artigos 4.º e 5.º do Anexo da [Lei n.º 74/2013](https://diariodarepublica.pt/dr/detalhe/lei/74-2013-499251), publicada no Diário da República de 6 de setembro de 2013, com fundamento na violação das normas do n.º 1 do artigo 20.º e do n.º 4 do artigo 268.º, conjugadas com o disposto no n.º 2 do artigo 18.º da CRP, na medida em que as normas impugnadas podem restringir, de forma desproporcional, o direito de acesso aos tribunais e a uma tutela jurisdicional efetiva.
 
 2 - Fundamentação do pedido
 
@@ -224,7 +244,7 @@ II. Fundamentação
 
 5 - Explicitação do objeto do pedido
 
-**O Presidente da República requer a declaração de inconstitucionalidade, com força obrigatória geral, das normas constantes do n.º 1 e do n.º 2 do artigo 8.º, quando conjugadas com as normas dos artigos 4.º e 5.º do Anexo da [Lei n.º 74/2013](https://diariodarepublica.pt/dr/detalhe/lei/74-2013-499251), publicada no Diário da República de 6 de setembro de 2013.**
+O Presidente da República requer a declaração de inconstitucionalidade, com força obrigatória geral, das normas constantes do n.º 1 e do n.º 2 do artigo 8.º, quando conjugadas com as normas dos artigos 4.º e 5.º do Anexo da [Lei n.º 74/2013](https://diariodarepublica.pt/dr/detalhe/lei/74-2013-499251), publicada no Diário da República de 6 de setembro de 2013.
 
 A [Lei n.º 74/2013](https://diariodarepublica.pt/dr/detalhe/lei/74-2013-499251), de 6 de setembro, cria o Tribunal Arbitral do Desporto (artigo 1.º) e aprova, em anexo, a Lei do Tribunal Arbitral do Desporto (artigo 2.º). Esta lei, na qual se inserem as normas impugnadas, só entrará em vigor 90 dias após a instalação do Tribunal Arbitral do Desporto, a qual incumbe ao Comité Olímpico de Portugal promover (artigo 5.º da [Lei n.º 74/2013](https://diariodarepublica.pt/dr/detalhe/lei/74-2013-499251) e n.º 4 do artigo 1.º da Lei do Tribunal Arbitral do Desporto), o que não impede, no entanto, a apreciação do pedido porquanto a fiscalização abstrata sucessiva incide sobre normas publicadas, mesmo que estas ainda não tenham entrado em vigor (neste sentido, Jorge Miranda/Rui Medeiros, Constituição Portuguesa Anotada, Tomo III, p. 796-797; Gomes Canotilho/Vital Moreira, Constituição da República Portuguesa Anotada, II vol., 4.ª edição revista, p. 964).
 

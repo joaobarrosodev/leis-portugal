@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/33/2026/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/33-2026-1060895757
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-12T00:00:00Z'
+  retrieved_at: '2026-10-22T18:33:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b06ec6f61b2c4886360dcb5e8ac93d7e02cbfaa972a67104e212d9adb92b88b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3fa78d368a266a48a2928c29635e38fba216f48fa67795c01b7e65f08928012
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:33:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,23 +77,34 @@ relationships:
   target: pt:dre:1071208825:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1071208825:por
+  label: Ratificadas as Decisões n.ºs 1/2022, de 21 de junho de 2022, 1/2023, de 30 de junho de 2023, e 2/2023, de 25 de outubro
+    de 2023, do Comité de Embaixadores ACP-EU, aprovadas para ratificação pela presente Resolução, pelo(a) Decreto do Presidente
+    da República n.º 68/2026 - Diário da República n.º 50/2026, Série I de 2026-03-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/68-2026-1071208825
+  date: '2026-03-12'
+- type: cites
+  target: pt:dre:213166184:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:33:38Z'
   warnings: []
   errors: []
 ---
 
 # Resolução da Assembleia da República n.º 33/2026
 
-Aprova as Decisões n.<sup>os</sup>1/2022, de 21 de junho de 2022, 1/2023, de 30 de junho de 2023, e 2/2023, de 25 de outubro de 2023, do Comité de Embaixadores ACP-UE
+Aprova as Decisões n.os1/2022, de 21 de junho de 2022, 1/2023, de 30 de junho de 2023, e 2/2023, de 25 de outubro de 2023, do Comité de Embaixadores ACP-UE
 
 A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição:
 
@@ -111,35 +122,47 @@ Aprovar a Decisão n.º 2/2023, do Comité de Embaixadores ACP-UE, de 25 de outu
 
 Aprovada em 13 de fevereiro de 2026.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar Branco.
 
 ## ANEXO I
 
-![](https://files.diariodarepublica.pt/images/1060895757/1060878555.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1060895757/1060878555.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1060895757/1060878556.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1060895757/1060878556.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1060895757/1060878557.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1060895757/1060878557.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1060895757/1060878558.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1060895757/1060878558.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1060895757/1060878559.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1060895757/1060878559.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1060895757/1060878560.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1060895757/1060878560.png) |
+| --- |
 
 ## ANEXO II
 
-![](https://files.diariodarepublica.pt/images/1060895757/1060878561.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1060895757/1060878561.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1060895757/1060878562.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1060895757/1060878562.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1060895757/1060878563.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1060895757/1060878563.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1060895757/1060878564.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1060895757/1060878564.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1060895757/1060878565.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1060895757/1060878565.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1060895757/1060878566.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1060895757/1060878566.png) |
+| --- |
 
 Cópia certificada conforme cópia depositada no Arquivo Diplomático.
 
@@ -147,18 +170,26 @@ Lisboa,30 de outubro de 2025. - A Chefe de Divisão de Arquivo e Biblioteca, Mar
 
 ## ANEXO III
 
-![](https://files.diariodarepublica.pt/images/1060895757/1060878567.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1060895757/1060878567.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1060895757/1060878568.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1060895757/1060878568.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1060895757/1060878569.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1060895757/1060878569.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1060895757/1060878570.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1060895757/1060878570.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1060895757/1060878571.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1060895757/1060878571.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1060895757/1060878572.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1060895757/1060878572.png) |
+| --- |
 
 Cópia certificada conforme cópia depositada no Arquivo Diplomático.
 
 Lisboa, 30 de outubro de 2025. - A Chefe de Divisão de Arquivo e Biblioteca, Margarida Maria Gomes Quintão Lages.
+
+119947740

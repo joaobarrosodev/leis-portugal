@@ -48,26 +48,41 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/181/2026/09/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2026-1168451282
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-09T00:00:00Z'
+  retrieved_at: '2026-10-22T18:52:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2291fee358579e504b70a5a22e5cc6999cee2c5c0c1342d3ab2dab718e6f2daa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2c80ba55c161d8f8fa024390ff4fa454040685bfa1aa645b9e91903b04320f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:52:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Mobilidade de Pessoal
+- Oficial de Justiça
+- Período Experimental
+- Pessoal de Justiça
+- Procedimento Concursal
+- Progressão na Carreira
+- Recrutamento de Pessoal
+- Secretário
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:27/2025
+  label: Altera, a partir de 14 de setembro de 2026, os artigos 6.º, 10.º e 26.º, repristina o n.º 4 do artigo 17.º e revoga
+    o n.º 5 do artigo 4.º do Decreto-Lei n.º 27/2025, de 20 de março, Diário da República n.º 56/2025, Série I
+  source: null
+  date: '2025-03-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/27/2025/03/20/p/dre
   label: null
@@ -80,16 +95,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:911648873:por
+  label: null
+  source: null
 article_structure:
-  article_count: 18
+  article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:52:47Z'
   warnings: []
   errors: []
 ---
@@ -310,7 +337,9 @@ Os artigos 6.º, 10.º e 26.º do [Decreto-Lei n.º 27/2025](https://diariodarep
 
 3 - O disposto nos números anteriores não exclui o dever de os oficiais de justiça realizarem trabalho suplementar, nos termos previstos na LTFP, bem como outro trabalho a exercer fora do horário de funcionamento das secretarias que decorra da lei, nomeadamente o serviço de turno e o que resulte do cumprimento das regras relativas a eleições, aplicando-se a estes casos as disposições relativas a trabalho suplementar da LTFP.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -320,7 +349,9 @@ Os artigos 6.º, 10.º e 26.º do [Decreto-Lei n.º 27/2025](https://diariodarep
 
 4 - [...]
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]
 
@@ -354,12 +385,14 @@ b) O n.º 5 do artigo 4.º do [Decreto-Lei n.º 27/2025](https://diariodarepubli
 
 Visto e aprovado em Conselho de Ministros de 23 de julho de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Rita Alarcão Júdice.
 
-**Promulgado em 2 de setembro de 2026.**
+Promulgado em 2 de setembro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 4 de setembro de 2026.**
+Referendado em 4 de setembro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119949548

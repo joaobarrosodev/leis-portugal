@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/125/2026/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2026-1139191704
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-26T00:00:00Z'
+  retrieved_at: '2026-10-22T18:45:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05874d2c72e43b726e7428fff006aafe967c35ebe7fb35f8cdcbe1971d926160
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7782767a5f1a120fa348593f5bdfa15dceef8119434f47110235fccc1935f31e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:45:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,33 +67,43 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- PSP
+- ASAE
+- Autoridade Nacional da Aviação Civil
+- Autoridade Nacional de Comunicações
 - Autoridade Tributária e Aduaneira
 - Certificado de Conformidade
-- Multa
+- Circulação de Mercadorias
 - Comércio Interno
-- Infarmed
-- Instituto Portuário e dos Transportes Marítimos
+- Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade
 - Contra-ordenação
 - Definição de Competências
 - Direção Geral das Atividades Económicas
-- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
-- Fiscalização
-- Instituto da Mobilidade e dos Transportes Terrestres
-- ASAE
-- Mercado Interno
 - Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
-- Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade
+- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
+- Entidade Nacional para o Setor Energético
+- Fiscalização
+- Infarmed
+- Instituto da Mobilidade e dos Transportes Terrestres
+- Instituto Portuário e dos Transportes Marítimos
 - Instituto Português de Acreditação
-- Circulação de Mercadorias
+- Mercado Interno
+- Multa
 - Proteção do Consumidor
+- PSP
+- Regime Jurídico das Contraordenações Económicas
 - Regulamento CE
 - Sanção
-- Autoridade Nacional da Aviação Civil
-- Autoridade Nacional de Comunicações
-- Entidade Nacional para o Setor Energético
-- Regime Jurídico das Contraordenações Económicas
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:23/2011
+  label: Altera, a partir de 27 de junho, os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, adita os artigos 2.º-A, 2.º-B e 2.º-C,
+    altera sistemáticamente «A epígrafe do capítulo iii, que a designar-se «Obrigações dos operadores económicos, fiscalização
+    do mercado e controlo da fronteira externa», e integra os artigos 2.º-A a 5.º; e «A epígrafe do capítulo iv, que passa
+    a designar-se «Regime contraordenacional e aplicação das coimas», e integra os artigos 6.º, 7.º, 8.º,9.º e 10.º, revoga
+    o n.º 2 do artigo 3.º, o n.º 2 do artigo 4.º, o n.º 2 do artigo 5.º, os artigos 7.º, 11.º, 13.º e o anexo, e procede à
+    sua republicação em anexo, ao Decreto-Lei n.º 23/2011, de 11 de fevereiro, Diário da República n.º 30/2011, Série I
+  source: null
+  date: '2011-02-11'
 - type: cites
   target: celex:31993R0339
   label: null
@@ -122,16 +132,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/9/2021/01/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/9/2021/01/29/p/dre
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279775:por
+  label: null
+  source: null
 article_structure:
-  article_count: 31
+  article_count: 24
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:45:07Z'
   warnings: []
   errors: []
 ---
@@ -184,7 +202,9 @@ b) Assegura parcialmente a execução do [Regulamento (UE) 2019/1020](https://da
 
 2 - O estabelecido nos artigos dos capítulos iii e iv do presente decreto-lei aplica-se aos produtos sujeitos à legislação de harmonização da União, nos termos previstos no [Regulamento (UE) 2019/1020](https://data.europa.eu/eli/reg/2019/1020/oj?locale=pt).
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O Instituto Português de Acreditação, I. P. (IPAC, I. P.), é o organismo nacional de acreditação, para efeitos do disposto no [Regulamento (CE) n.º 765/2008](https://data.europa.eu/eli/reg/2008/765/oj?locale=pt).
 
@@ -196,7 +216,9 @@ b) Assegura parcialmente a execução do [Regulamento (UE) 2019/1020](https://da
 
 5 - A acreditação constitui o único mecanismo de reconhecimento da competência técnica de organismos de avaliação da conformidade, para efeitos do disposto no capítulo ii do [Regulamento (CE) n.º 765/2008](https://data.europa.eu/eli/reg/2008/765/oj?locale=pt).
 
-###### Artigo 3.º — Adoção e comunicação de medidas restritivas
+Artigo 3.º
+
+Adoção e comunicação de medidas restritivas
 
 1 - As autoridades de fiscalização do mercado designadas ao abrigo do artigo 2.º-B devem, nos seus respetivos âmbitos de competência, adotar medidas corretivas, no âmbito da fiscalização do mercado, adequadas e proporcionadas para pôr termos à não conformidade ou para eliminar o risco para a saúde e segurança dos utilizadores nos termos do artigo 16.º do [Regulamento (UE) 2019/1020](https://data.europa.eu/eli/reg/2019/1020/oj?locale=pt) ou da legislação de harmonização da União aplicável.
 
@@ -204,7 +226,9 @@ b) Assegura parcialmente a execução do [Regulamento (UE) 2019/1020](https://da
 
 3 - No caso de se tratar de produtos que apresentem um risco grave nos termos do artigo 19.º do [Regulamento (UE) 2019/1020](https://data.europa.eu/eli/reg/2019/1020/oj?locale=pt), as autoridades de fiscalização do mercado devem informar imediatamente a Comissão Europeia de tais medidas, nos termos do artigo 20.º do mesmo regulamento.
 
-###### Artigo 4.º — Disponibilização de informação
+Artigo 4.º
+
+Disponibilização de informação
 
 1 - As autoridades designadas ao abrigo do artigo 2.º-B devem disponibilizar e introduzir no sistema de informação e comunicação previsto no [Regulamento (UE) 2019/1020](https://data.europa.eu/eli/reg/2019/1020/oj?locale=pt) as informações referidas no artigo 34.º do mesmo regulamento.
 
@@ -212,7 +236,9 @@ b) Assegura parcialmente a execução do [Regulamento (UE) 2019/1020](https://da
 
 3 - Para efeitos de elaboração da estratégia nacional geral de fiscalização do mercado, as autoridades designadas ao abrigo do artigo 2.º-B devem disponibilizar ao serviço de ligação único as informações referidas no n.º 2 do artigo 13.º do [Regulamento (UE) 2019/1020](https://data.europa.eu/eli/reg/2019/1020/oj?locale=pt).
 
-###### Artigo 5.º — Controlo na fronteira externa
+Artigo 5.º
+
+Controlo na fronteira externa
 
 1 - Compete à AT suspender a introdução em livre prática e no consumo de produtos, nos termos do disposto nos artigos 25.º a 28.º do [Regulamento (UE) 2019/1020](https://data.europa.eu/eli/reg/2019/1020/oj?locale=pt).
 
@@ -232,7 +258,9 @@ b) Assegura parcialmente a execução do [Regulamento (UE) 2019/1020](https://da
 
 9 - Para os efeitos do disposto no presente artigo, a AT e as autoridades de fiscalização do mercado devem estabelecer mecanismos adequados de cooperação mútua, nomeadamente a celebração de protocolos de cooperação com vista à proteção do mercado interno e à adequada aplicação do [Regulamento (UE) 2019/1020](https://data.europa.eu/eli/reg/2019/1020/oj?locale=pt).
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Sem prejuízo da responsabilidade civil e criminal a que houver lugar, constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), aprovado em anexo ao [Decreto-Lei n.º 9/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), de 29 de janeiro, a violação do disposto no artigo 30.º do [Regulamento (CE) n.º 765/2008](https://data.europa.eu/eli/reg/2008/765/oj?locale=pt), bem como a violação de disposição constante de legislação de harmonização da União que preveja uma marcação, incluindo:
 
@@ -252,7 +280,7 @@ f) A aposição da marcação ‘CE’ ou outra marcação exigida pelo direito 
 
 3 - Sem prejuízo da responsabilidade civil e criminal a que houver lugar, constitui igualmente contraordenação económica grave, punível nos termos do RJCE, o incumprimento, por parte dos operadores económicos tal como definidos no [Regulamento (UE) 2019/1020](https://data.europa.eu/eli/reg/2019/1020/oj?locale=pt), das obrigações previstas no mesmo regulamento, incluindo:
 
-a) O incumprimento das atribuições conferidas aos operadores económicos no que respeita aos produtos sujeitos a determinada legislação de harmonização da União, nos termos previstos nos n.<sup>os</sup>3 e 4 do artigo 4.º do [Regulamento (UE) 2019/1020](https://data.europa.eu/eli/reg/2019/1020/oj?locale=pt);
+a) O incumprimento das atribuições conferidas aos operadores económicos no que respeita aos produtos sujeitos a determinada legislação de harmonização da União, nos termos previstos nos n.os3 e 4 do artigo 4.º do [Regulamento (UE) 2019/1020](https://data.europa.eu/eli/reg/2019/1020/oj?locale=pt);
 
 b) A falta de disponibilização de cópia do mandato, pelo mandatário, às autoridades de fiscalização do mercado, nos termos previstos no n.º 2 do artigo 5.º do [Regulamento (UE) 2019/1020](https://data.europa.eu/eli/reg/2019/1020/oj?locale=pt);
 
@@ -260,7 +288,7 @@ c) A falta de cooperação, pelos operadores económicos, com as autoridades de 
 
 4 - [Anterior n.º 3.]
 
-5 - Sempre que qualquer das condutas descritas nos n.<sup>os</sup>1 e 3 configure uma contraordenação de acordo com a legislação específica aplicável ao produto em causa, o respetivo agente é punido pela prática da contraordenação a que corresponda a coima mais elevada.
+5 - Sempre que qualquer das condutas descritas nos n.os1 e 3 configure uma contraordenação de acordo com a legislação específica aplicável ao produto em causa, o respetivo agente é punido pela prática da contraordenação a que corresponda a coima mais elevada.
 
 6 - É competente para a instrução dos processos de contraordenação a autoridade de fiscalização que levantar o auto de notícia, exceto se a legislação específica aplicável à classe de produto em causa dispuser de forma diferente, caso em que a competência instrutória cabe à entidade nela indicada.»
 
@@ -272,11 +300,13 @@ São aditados ao [Decreto-Lei n.º 23/2011](https://diariodarepublica.pt/dr/deta
 
 Obrigações dos operadores económicos no que respeita aos produtos sujeitos a legislação de harmonização da União
 
-1 - Sem prejuízo das obrigações estabelecidas na legislação de harmonização da União aplicável, um produto sujeito à legislação a que se refere o n.º 5 do artigo 4.º do [Regulamento (UE) 2019/1020](https://data.europa.eu/eli/reg/2019/1020/oj?locale=pt) só pode ser colocado no mercado se existir um operador económico estabelecido na União, nos termos definidos no n.º 2 do mesmo artigo, que cumpra as obrigações estabelecidas nos seus n.<sup>os</sup>3 e 4 e no n.º 1 do artigo 7.º do [Regulamento (UE) 2019/1020](https://data.europa.eu/eli/reg/2019/1020/oj?locale=pt).
+1 - Sem prejuízo das obrigações estabelecidas na legislação de harmonização da União aplicável, um produto sujeito à legislação a que se refere o n.º 5 do artigo 4.º do [Regulamento (UE) 2019/1020](https://data.europa.eu/eli/reg/2019/1020/oj?locale=pt) só pode ser colocado no mercado se existir um operador económico estabelecido na União, nos termos definidos no n.º 2 do mesmo artigo, que cumpra as obrigações estabelecidas nos seus n.os3 e 4 e no n.º 1 do artigo 7.º do [Regulamento (UE) 2019/1020](https://data.europa.eu/eli/reg/2019/1020/oj?locale=pt).
 
 2 - Caso nenhum dos operadores económicos a que se referem as alíneas a) a c) do n.º 2 do artigo 4.º do [Regulamento (UE) 2019/1020](https://data.europa.eu/eli/reg/2019/1020/oj?locale=pt) esteja estabelecido na União, os produtos sujeitos à legislação de harmonização da União referida no n.º 5, podem ser disponibilizados no mercado ou colocados em serviço por um prestador de serviços de execução estabelecido na União, nos termos previstos na alínea d) do n.º 2 do referido artigo.
 
-###### Artigo 2.º-B — Autoridades de fiscalização do mercado e de controlo da fronteira externa
+Artigo 2.º-B
+
+Autoridades de fiscalização do mercado e de controlo da fronteira externa
 
 1 - A fiscalização do mercado nos termos previstos no [Regulamento (UE) 2019/1020](https://data.europa.eu/eli/reg/2019/1020/oj?locale=pt), bem como do cumprimento do artigo 30.º do [Regulamento (CE) n.º 765/2008](https://data.europa.eu/eli/reg/2008/765/oj?locale=pt), ou de outra marcação exigida pela legislação de harmonização da União, compete à Autoridade de Segurança Alimentar e Económica (ASAE) e às seguintes autoridades de fiscalização setorialmente competentes:
 
@@ -300,7 +330,9 @@ b) Autoridade Nacional para a Aviação Civil.
 
 4 - Em caso de não conformidade, as autoridades de fiscalização do mercado podem recuperar, junto do operador económico em causa, a totalidade dos custos das suas atividades, nos termos previstos no artigo 15.º do [Regulamento (UE) 2019/1020](https://data.europa.eu/eli/reg/2019/1020/oj?locale=pt).
 
-###### Artigo 2.º-C — Serviço de ligação único e Comité
+Artigo 2.º-C
+
+Serviço de ligação único e Comité
 
 1 - A ASAE é o serviço de ligação único, para efeitos do disposto no n.º 3 do artigo 10.º do [Regulamento (UE) 2019/1020](https://data.europa.eu/eli/reg/2019/1020/oj?locale=pt).
 
@@ -328,13 +360,13 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de abril de 2026. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Manuel Castro Almeida.
 
-**Promulgado em 19 de junho de 2026.**
+Promulgado em 19 de junho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 23 de junho de 2026.**
+Referendado em 23 de junho de 2026.
 
 Pelo Primeiro-Ministro, Joaquim Miranda Sarmento, Ministro de Estado e das Finanças.
 
@@ -372,7 +404,7 @@ b) Assegura parcialmente a execução do [Regulamento (UE) 2019/1020](https://da
 
 ###### Artigo 2.º-A — Obrigações dos operadores económicos no que respeita aos produtos sujeitos a legislação de harmonização da União
 
-1 - Sem prejuízo das obrigações estabelecidas na legislação de harmonização da União aplicável, um produto sujeito à legislação a que se refere o n.º 5 do artigo 4.º do [Regulamento (UE) 2019/1020](https://data.europa.eu/eli/reg/2019/1020/oj?locale=pt) só pode ser colocado no mercado se existir um operador económico estabelecido na União, nos termos definidos no n.º 2 do mesmo artigo, que cumpra as obrigações estabelecidas nos seus n.<sup>os</sup>3 e 4 e no n.º 1 do artigo 7.º do [Regulamento (UE) 2019/1020](https://data.europa.eu/eli/reg/2019/1020/oj?locale=pt).
+1 - Sem prejuízo das obrigações estabelecidas na legislação de harmonização da União aplicável, um produto sujeito à legislação a que se refere o n.º 5 do artigo 4.º do [Regulamento (UE) 2019/1020](https://data.europa.eu/eli/reg/2019/1020/oj?locale=pt) só pode ser colocado no mercado se existir um operador económico estabelecido na União, nos termos definidos no n.º 2 do mesmo artigo, que cumpra as obrigações estabelecidas nos seus n.os3 e 4 e no n.º 1 do artigo 7.º do [Regulamento (UE) 2019/1020](https://data.europa.eu/eli/reg/2019/1020/oj?locale=pt).
 
 2 - Caso nenhum dos operadores económicos a que se referem as alíneas a) a c) do n.º 2 do artigo 4.º do [Regulamento (UE) 2019/1020](https://data.europa.eu/eli/reg/2019/1020/oj?locale=pt) esteja estabelecido na União, os produtos sujeitos à legislação de harmonização da União referida no n.º 5, podem ser disponibilizados no mercado ou colocados em serviço por um prestador de serviços de execução estabelecido na União, nos termos previstos na alínea d) do n.º 2 do referido artigo.
 
@@ -464,7 +496,7 @@ f) A aposição da marcação «CE» ou outra marcação exigida pelo direito da
 
 3 - Sem prejuízo da responsabilidade civil e criminal a que houver lugar, constitui igualmente contraordenação económica grave, punível nos termos do RJCE, o incumprimento, por parte dos operadores económicos tal como definidos no [Regulamento (UE) 2019/1020](https://data.europa.eu/eli/reg/2019/1020/oj?locale=pt), das obrigações previstas no mesmo regulamento, incluindo:
 
-a) O incumprimento das atribuições conferidas aos operadores económicos no que respeita aos produtos sujeitos a determinada legislação de harmonização da União, nos termos previstos nos n.<sup>os</sup>3 e 4 do artigo 4.º do [Regulamento (UE) 2019/1020](https://data.europa.eu/eli/reg/2019/1020/oj?locale=pt);
+a) O incumprimento das atribuições conferidas aos operadores económicos no que respeita aos produtos sujeitos a determinada legislação de harmonização da União, nos termos previstos nos n.os3 e 4 do artigo 4.º do [Regulamento (UE) 2019/1020](https://data.europa.eu/eli/reg/2019/1020/oj?locale=pt);
 
 b) A falta de disponibilização de cópia do mandato, pelo mandatário, às autoridades de fiscalização do mercado, nos termos previstos no n.º 2 do artigo 5.º do [Regulamento (UE) 2019/1020](https://data.europa.eu/eli/reg/2019/1020/oj?locale=pt);
 
@@ -472,7 +504,7 @@ c) A falta de cooperação, pelos operadores económicos, com as autoridades de 
 
 4 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-5 - Sempre que qualquer das condutas descritas nos n.<sup>os</sup>1 e 3 configure uma contraordenação de acordo com a legislação específica aplicável ao produto em causa, o respetivo agente é punido pela prática da contraordenação a que corresponda a coima mais elevada.
+5 - Sempre que qualquer das condutas descritas nos n.os1 e 3 configure uma contraordenação de acordo com a legislação específica aplicável ao produto em causa, o respetivo agente é punido pela prática da contraordenação a que corresponda a coima mais elevada.
 
 6 - É competente para a instrução dos processos de contraordenação a autoridade de fiscalização que levantar o auto de notícia, exceto se a legislação específica aplicável à classe de produto em causa dispuser de forma diferente, caso em que a competência instrutória cabe à entidade nela indicada.
 
@@ -517,3 +549,5 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 ## ANEXO — Lista de diplomas a que se refere o artigo 13.º
 
 [Revogado.]
+
+119948893

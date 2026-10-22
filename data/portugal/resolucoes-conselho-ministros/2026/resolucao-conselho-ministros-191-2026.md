@@ -47,26 +47,45 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/191/2026/10/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/191-2026-1176351844
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-10-01T00:00:00Z'
+  retrieved_at: '2026-10-22T18:54:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 830bbef5405479be6bd36b71793171c60d7a19d7059945282ec17df220e0f4c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e65553ad01ac804ba5074e2f26ea42efc2147e60ff70424abce453b344cfce11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:54:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio financeiro
+- Eficiência Energética
+- Financiamento
+- Fundo Ambiental
+- Gás
+- Regime de Apoio
 relationships:
+- type: amends
+  target: pt:numero:despacho:1016/2026
+  label: Determina o reforço do montante inicial para o ano de 2026, aprovado pelo Despacho n.º 1016/2026, de 29 de janeiro,
+    Diário da República n.º 20/2026, Série II
+  source: null
+  date: '2026-01-29'
+- type: amends
+  target: pt:numero:despacho:3847-A/2026
+  label: Determina a extensão, até 31 de dezembro de 2026, do regime excecional aprovado pelo Despacho n.º 3847-A/2026, de
+    24 de março, Diário da República n.º 58/2026, Suplemento, Série II, ao Regulamento do Apoio Extraordinário e Excecional
+    «Botija de Gás Solidária»
+  source: null
+  date: '2026-03-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -83,16 +102,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:1028040915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1076916141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1143461644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181368678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75150234:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:54:15Z'
   warnings: []
   errors: []
 ---
@@ -129,10 +180,12 @@ Nos termos da alínea p) do n.º 1 do artigo 3.º e dos artigos 6.º e 7.º do [
 
 3 - Determinar que o valor a que se refere o n.º 1 é suportado por verbas inscritas no orçamento do Fundo Ambiental, na fonte de financiamento 371 - Receitas de impostos consignadas não afetas a projetos cofinanciados, e o montante mencionado no n.º 2 é financiado por receitas próprias do Fundo Ambiental.
 
-4 - Autorizar o Fundo Ambiental a transferir para a Associação Nacional de Freguesias os montantes necessários à operacionalização do apoio, até aos limites previstos nos n.<sup>os</sup>1 e 2.
+4 - Autorizar o Fundo Ambiental a transferir para a Associação Nacional de Freguesias os montantes necessários à operacionalização do apoio, até aos limites previstos nos n.os1 e 2.
 
 5 - Aprovar a extensão do regime excecional aprovado pelo [Despacho n.º 3847-A/2026](https://diariodarepublica.pt/dr/detalhe/despacho/3847-a-2026-1076916141), de 24 de março, ao Regulamento do Apoio Extraordinário e Excecional «Botija de Gás Solidária» até 31 de dezembro de 2026.
 
 6 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 24 de setembro de 2026. - Pelo Primeiro-Ministro, Joaquim Miranda Sarmento, Ministro de Estado e das Finanças.
+
+119949663

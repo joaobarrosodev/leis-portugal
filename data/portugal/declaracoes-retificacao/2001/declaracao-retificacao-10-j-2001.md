@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 100/2001, 4º Suplemento, Série I-B de 2001-04-30
   number: '100'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 2450-(12) a 2450-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/10-j/2001/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-j-2001-617281
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-04-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:57:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96ef9e5970e2466cc3033935d18f5bbad208ab76372f45915809c23c4c02419d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d8bbf457c236e34100d4f50e792d59e1983f23fcbd9134af2c6b9a7ef3fa68a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:57:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Cirurgia
 - Consulta Médica
-- Internamento Hospitalar
-- Saúde
-- Serviço Nacional de Saúde
 - Exame Médico
+- Internamento Hospitalar
 - Preço
 - Regulamento
-- Cirurgia
+- Saúde
+- Serviço Nacional de Saúde
 - Serviços Complementares de Diagnóstico
 - Tabela de Cuidados de Saúde
 - TAXA de Prestação de Serviços
@@ -83,16 +83,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/189/2001/03/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/189/2001/03/09/p/dre
+- type: cites
+  target: pt:dre:401733:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:57:18Z'
   warnings: []
   errors: []
 ---
@@ -141,19 +145,19 @@ No código 16321, na col. «Designação», onde se lê «TC suplemento de contr
 
 Na «Tabela de imuno-alergologia», onde se lê:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)
 
 deve ler-se:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)
 
 Na «Tabela de otorrinolaringologia», onde se lê:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)
 
 deve ler-se:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)
 
 Na «Tabela de patologia clínica»:
 
@@ -161,11 +165,11 @@ No código 25146, na col. «Designação», onde se lê «Cross match antilinfoc
 
 Na «Tabela de psiquiatria», onde se lê:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)
 
 deve ler-se:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)
 
 Na «Tabela de serviços e técnicas especiais»:
 
@@ -173,10 +177,10 @@ No código 99035, na col. «Designação», onde se lê «Oxigenoterapia hiperb�
 
 No anexo III-A, «Tabela de preços de exames e técnicas de diagnóstico e terapêutica», onde se lê:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)
 
 deve ler-se:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)](https://files.diariodarepublica.pt/1s/2001/04/100b04/00120014.pdf)
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Abril de 2001. - O Secretário-Geral, Alexandre Figueiredo.

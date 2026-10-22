@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45389-1963-684046
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-07-15T00:00:00Z'
+  retrieved_at: '2026-10-22T19:37:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d63febf8eedc2d183c0b63af398fcad9ccf91a02143e2b0682db3bf45efcc93b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 552edc60e2e06d49cdb17c868dc2752c16bddea251e820ce137dd350eb5bbdf0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:37:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,20 @@ relationships:
   target: pt:dre:292162:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:37:53Z'
   warnings: []
   errors: []
 ---
@@ -95,12 +99,12 @@ Tendo em vista o disposto no artigo 22.º do [Decreto-Lei n.º 41375](https://di
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção-Geral dos Edifícios e Monumentos Nacionais a celebrar contrato com o empreiteiro Rubens José Soeiro para a execução da empreitada de construção das novas oficinas da Escola Profissional de Santa Clara, em Vila do Conde, pela importância de 2000375$00, a suportar pelo orçamento da Federação Nacional das Instituições de Protecção à Infância.
+Artigo 1.º É autorizada a Direcção-Geral dos Edifícios e Monumentos Nacionais a celebrar contrato com o empreiteiro Rubens José Soeiro para a execução da empreitada de construção das novas oficinas da Escola Profissional de Santa Clara, em Vila do Conde, pela importância de 2000375$00, a suportar pelo orçamento da Federação Nacional das Instituições de Protecção à Infância.
 
-###### Art. 2.º Seja qual for o valor das obras a realizar, não poderá a Direcção-Geral dos Edifícios e Monumentos Nacionais despender com pagamentos relativos às obras executadas mais de 200000$00 no corrente ano, 1367000$00 no ano de 1964 e 433375$00 no ano de 1965.
+Art. 2.º Seja qual for o valor das obras a realizar, não poderá a Direcção-Geral dos Edifícios e Monumentos Nacionais despender com pagamentos relativos às obras executadas mais de 200000$00 no corrente ano, 1367000$00 no ano de 1964 e 433375$00 no ano de 1965.
 
 § único. O saldo de cada ano transitará para o ano seguinte, sendo a sua importância adicionada à respectiva verba fixada no corpo deste artigo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Novembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Eduardo de Arantes e Oliveira.

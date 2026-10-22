@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43352-1960-512988
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-11-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:21:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99ed9fbfb25fc3879a5ea36ea33387aa4ef34a0c6b62260e5807caf3c716d71a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ffa0c68ccc0be17ffe97165f967e85b0e638513bfcc296b8ffe708bf58e8255
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:21:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:330456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690385:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:21:12Z'
   warnings: []
   errors: []
 ---
@@ -116,21 +124,21 @@ GRÉMIO DOS ARMADORES DA PESCA DO ATUM
 
 #### SECÇÃO I — Organização
 
-###### Artigo 1.º É criado o Grémio dos Armadores da Pesca do Atum, constituído obrigatòriamente, de harmonia com o [Decreto-Lei n.º 23049](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23049-1933-330456), de 23 de Setembro de 1933, por todas as entidades singulares ou colectivas que exerçam ou venham a exercer, no continente e nas ilhas adjacentes, a actividade da pesca de tunídeos.
+Artigo 1.º É criado o Grémio dos Armadores da Pesca do Atum, constituído obrigatòriamente, de harmonia com o [Decreto-Lei n.º 23049](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23049-1933-330456), de 23 de Setembro de 1933, por todas as entidades singulares ou colectivas que exerçam ou venham a exercer, no continente e nas ilhas adjacentes, a actividade da pesca de tunídeos.
 
-###### Art. 2.º O Grémio tem a sua sede em Lisboa e delegações onde as necessidades da indústria da pesca o justifiquem.
+Art. 2.º O Grémio tem a sua sede em Lisboa e delegações onde as necessidades da indústria da pesca o justifiquem.
 
 § 1.º A criação de delegações será feita por despacho do Ministro da Marinha.
 
 § 2.º Os sócios do Grémio que pertençam a centros de pesca onde não exista delegação ficarão ligados à delegação mais próxima.
 
-###### Art. 3.º O Grémio é um organismo de carácter corporativo, com personalidade jurídica e funcionamento e administração autónomos, que exerce, nos termos da lei, funções de interesse público, representa todos os elementos que constituem e tutela os respectivos interesses.
+Art. 3.º O Grémio é um organismo de carácter corporativo, com personalidade jurídica e funcionamento e administração autónomos, que exerce, nos termos da lei, funções de interesse público, representa todos os elementos que constituem e tutela os respectivos interesses.
 
-###### Art. 4.º O Grémio exerce a sua acção exclusivamente no plano nacional e no respeito absoluto dos interesses da Nação, sendo-lhe por isso proibida a filiação em quaisquer organizações de carácter internacional e a representação em congressos ou manifestações internacionais sem a prévia autorização do Governo; deve subordinar os seus interesses aos da economia nacional e exercer a sua acção dentro dos princípios consignados no Estatuto do Trabalho Nacional.
+Art. 4.º O Grémio exerce a sua acção exclusivamente no plano nacional e no respeito absoluto dos interesses da Nação, sendo-lhe por isso proibida a filiação em quaisquer organizações de carácter internacional e a representação em congressos ou manifestações internacionais sem a prévia autorização do Governo; deve subordinar os seus interesses aos da economia nacional e exercer a sua acção dentro dos princípios consignados no Estatuto do Trabalho Nacional.
 
 #### SECÇÃO II — Atribuições e fins
 
-###### Art. 5.º Ao Grémio, independentemente das outras funções que lhe venham a ser atribuídas, compete:
+Art. 5.º Ao Grémio, independentemente das outras funções que lhe venham a ser atribuídas, compete:
 
 1.º Exercer as funções políticas conferidas aos organismos corporativos;
 
@@ -156,7 +164,7 @@ GRÉMIO DOS ARMADORES DA PESCA DO ATUM
 
 ### CAPÍTULO II — Dos sócios, seus direitos e deveres
 
-###### Art. 6.º Só podem ser admitidos como sócios do Grémio e conservar essa qualidade, com os direitos e obrigações que dela derivam, as entidades singulares ou colectivas que exerçam ou venham a exercer a pesca do atum:
+Art. 6.º Só podem ser admitidos como sócios do Grémio e conservar essa qualidade, com os direitos e obrigações que dela derivam, as entidades singulares ou colectivas que exerçam ou venham a exercer a pesca do atum:
 
 a) Com embarcações da pesca do alto ou longínqua, devidamente registadas nas capitanias para essa pesca;
 
@@ -164,7 +172,7 @@ b) Com embarcações da pesca costeira devidamente registadas nas capitanias par
 
 c) Com armações fixas.
 
-###### Art. 7.º Não poderão ser admitidos como sócios:
+Art. 7.º Não poderão ser admitidos como sócios:
 
 1.º Os que tenham perdido os direitos de sócios de outros grémios por motivos de qualquer infracção aos respectivos estatutos e regulamentos;
 
@@ -174,9 +182,9 @@ c) Com armações fixas.
 
 4.º Os gerentes, directores ou administradores de sociedades dissolvidas por motivo de falência fraudulenta, salvo se tiverem sido ilibados de qualquer responsabilidade.
 
-###### Art. 8.º Da recusa da inscrição haverá recurso para o Ministro da Marinha.
+Art. 8.º Da recusa da inscrição haverá recurso para o Ministro da Marinha.
 
-###### Art. 9.º São deveres dos sócios:
+Art. 9.º São deveres dos sócios:
 
 1.º Pagar a jóia de inscrição e as quotas;
 
@@ -194,13 +202,13 @@ c) Com armações fixas.
 
 8.º Cumprir todas as demais obrigações que lhes caibam por lei ou que resultem da organização corporativa na sua actividade.
 
-###### Art. 10.º São direitos dos sócios:
+Art. 10.º São direitos dos sócios:
 
 1.º Exercer a sua actividade na pesca do atum de acordo com as disposições que a regulam;
 
 2.º Eleger ou ser eleito para o conselho geral ou para os cargos directivos.
 
-###### Art. 11.º Perdem os direitos de sócios:
+Art. 11.º Perdem os direitos de sócios:
 
 1.º Os que deixarem de satisfazer as condições exigidas para a inscrição no Grémio;
 
@@ -228,13 +236,13 @@ c) Com armações fixas.
 
 ### CAPÍTULO III — Administração e funcionamento
 
-###### Art. 12.º Os órgãos administrativos do Grémio são o conselho geral e a direcção.
+Art. 12.º Os órgãos administrativos do Grémio são o conselho geral e a direcção.
 
-###### Art. 13.º A duração do mandato é pelo tempo de três anos, podendo os escolhidos ser reeleitos.
+Art. 13.º A duração do mandato é pelo tempo de três anos, podendo os escolhidos ser reeleitos.
 
 ### CAPÍTULO IV — Do conselho geral
 
-###### Art. 14.º O organismo superior do Grémio é o conselho geral, que será constituído pelos presidentes das delegações, cuja representação se fará de harmonia com o estabelecido no artigo 42.º
+Art. 14.º O organismo superior do Grémio é o conselho geral, que será constituído pelos presidentes das delegações, cuja representação se fará de harmonia com o estabelecido no artigo 42.º
 
 § 1.º A mesa do conselho geral é constituída por um presidente e por um secretário, eleitos pelo conselho geral de entre os seus membros, com direito a voto, sendo o do presidente de qualidade.
 
@@ -244,7 +252,7 @@ c) Com armações fixas.
 
 § 4.º Os membros do conselho geral terão direito, por cada reunião a que assistam, a uma cédula de presença, estabelecida pelo mesmo conselho, e, quando não residam em Lisboa, a despesas de deslocação e a uma importância de estada, também fixada pelo conselho geral.
 
-###### Art. 15.º Ao conselho geral compete:
+Art. 15.º Ao conselho geral compete:
 
 a) Eleger, entre os seus membros, o presidente e o secretário da mesa e os respectivos substitutos;
 
@@ -264,7 +272,7 @@ h) Aplicar as penalidades disciplinares da sua competência;
 
 i) Dar parecer sobre todos os assuntos que lhe forem presentes pela direcção.
 
-###### Art. 16.º Ao presidente do conselho geral compete:
+Art. 16.º Ao presidente do conselho geral compete:
 
 a) Dar posse aos membros da direcção;
 
@@ -272,21 +280,21 @@ b) Convocar o conselho e dirigir os respectivos trabalhos;
 
 c) Assistir às reuniões da direcção, nos termos do artigo 21.º
 
-###### Art. 17.º A convocação de qualquer reunião do conselho geral será feita pelo presidentes por aviso directo, com antecedência não inferior a oito dias.
+Art. 17.º A convocação de qualquer reunião do conselho geral será feita pelo presidentes por aviso directo, com antecedência não inferior a oito dias.
 
 § único. São nulas todas as deliberações tomadas sobre assunto que não conste dos avisos de convocação, excepto quando se trate de assuntos que mereçam o acordo de toda a assembleia.
 
-###### Art. 18.º Qualquer reunião do conselho geral só poderá funcionar em 1.ª convocação quando se encontre presente ou representada a maioria dos seus membros, considerados todos, para esse efeito, com voto unitário.
+Art. 18.º Qualquer reunião do conselho geral só poderá funcionar em 1.ª convocação quando se encontre presente ou representada a maioria dos seus membros, considerados todos, para esse efeito, com voto unitário.
 
 § 1.º Quando não houver número suficiente, o conselho geral reunirá uma hora depois e deliberará com qualquer número de votos.
 
 § 2.º Os membros do conselho geral que não puderem comparecer a qualquer reunião deverão delegar nos seus substitutos nas direcções das delegações a que presidem, ou noutros membros do conselho geral, por carta dirigida ao presidente do mesmo conselho.
 
-###### Art. 19.º De todas as deliberações do conselho geral há recurso para os Ministros da Marinha e da Economia ou para o das Corporações e Previdência Social, conforme a natureza dos assuntos e a especial competência dos Ministérios respectivos, os quais resolverão em última instância.
+Art. 19.º De todas as deliberações do conselho geral há recurso para os Ministros da Marinha e da Economia ou para o das Corporações e Previdência Social, conforme a natureza dos assuntos e a especial competência dos Ministérios respectivos, os quais resolverão em última instância.
 
 ### CAPÍTULO V — Da direcção
 
-###### Art. 20.º A direcção do Grémio é composta de um presidente, dois vogais efectivos e dois substitutos, todos cidadãos portugueses, eleitos em reunião do conselho geral e todos confirmados pelo Ministro da Marinha.
+Art. 20.º A direcção do Grémio é composta de um presidente, dois vogais efectivos e dois substitutos, todos cidadãos portugueses, eleitos em reunião do conselho geral e todos confirmados pelo Ministro da Marinha.
 
 § 1.º A eleição efectuar-se-á por escrutínio secreto e por maioria relativa de votos, e em caso de empate a sorte decidirá qual o eleito.
 
@@ -300,9 +308,9 @@ c) Assistir às reuniões da direcção, nos termos do artigo 21.º
 
 § 6.º No impedimento do presidente efectivo da direcção do Grémio ocupará este lugar o vogal mais votado, e em igualdade de votos o de mais idade, entrando em exercício um vogal substituto segundo a mesma ordem de procedência.
 
-###### Art. 21.º Às reuniões da direcção poderá assistir o presidente do conselho geral sempre que o julgue conveniente ou quando a direcção o solicite, intervindo na discussão de quaisquer assuntos, mas sem voto.
+Art. 21.º Às reuniões da direcção poderá assistir o presidente do conselho geral sempre que o julgue conveniente ou quando a direcção o solicite, intervindo na discussão de quaisquer assuntos, mas sem voto.
 
-###### Art. 22.º À direcção do Grémio compete:
+Art. 22.º À direcção do Grémio compete:
 
 a) Representar o Grémio em juízo e fora dele;
 
@@ -320,11 +328,11 @@ g) Apresentar anualmente as contas com o relatório da gerência e a proposta or
 
 h) Praticar todos os demais actos conducentes à realização dos fins do Grémio e tomar todas as resoluções necessárias em matérias que não sejam reservadas a outro órgão administrativo ou declaradas da competência privativa do delegado do Governo.
 
-###### Art. 23.º Para obrigar o Grémio são necessárias e bastantes as assinaturas do presidente ou do vogal que o substituir e de outro vogal no desempenho efectivo de funções.
+Art. 23.º Para obrigar o Grémio são necessárias e bastantes as assinaturas do presidente ou do vogal que o substituir e de outro vogal no desempenho efectivo de funções.
 
 ### CAPÍTULO VI — Do delegado do Governo
 
-###### Art. 24.º Junto da direcção e com poder para conhecer toda a actividade do Grémio existirá um delegado do Governo, de nomeação do Ministro da Marinha.
+Art. 24.º Junto da direcção e com poder para conhecer toda a actividade do Grémio existirá um delegado do Governo, de nomeação do Ministro da Marinha.
 
 § 1.º O delegado do Governo fica subordinado aos Ministros da Marinha, da Economia e das Corporações e Previdência Social, conforme a natureza dos assuntos em causa.
 
@@ -334,21 +342,21 @@ h) Praticar todos os demais actos conducentes à realização dos fins do Grémi
 
 § 4.º Ao delegado do Governo poderá ser atribuída remuneração mensal, fixada em despacho do Ministro da Marinha e paga por força das receitas do Grémio.
 
-###### Art. 25.º Incumbe ao delegado do Governo a organização e a direcção efectiva de todos os serviços de fiscalização, de harmonia com o plano e as disposições regulamentares que forem aprovados pelo Ministro da Marinha.
+Art. 25.º Incumbe ao delegado do Governo a organização e a direcção efectiva de todos os serviços de fiscalização, de harmonia com o plano e as disposições regulamentares que forem aprovados pelo Ministro da Marinha.
 
-###### Art. 26.º Ao delegado do Governo é atribuída competência para mandar levantar autos de infracções que verificar e, bem assim, autos de todas as diligências que efectuar no exercício das suas atribuições, podendo tomar e exarar neles as declarações dos infractores e de terceiros.
+Art. 26.º Ao delegado do Governo é atribuída competência para mandar levantar autos de infracções que verificar e, bem assim, autos de todas as diligências que efectuar no exercício das suas atribuições, podendo tomar e exarar neles as declarações dos infractores e de terceiros.
 
-###### Art. 27.º Para o efeito do exercício da fiscalização ficam os agremiados com a obrigação de permitir ao delegado do Governo, ou às pessoas em que ele delegue, a livre entrada, a qualquer hora, a bordo das suas embarcações, nos seus escritórios, armazéns e mais dependências das suas unidades industriais, e de exibir para exame a documentação que lhes for exigida, com excepção dos livros de escrita.
+Art. 27.º Para o efeito do exercício da fiscalização ficam os agremiados com a obrigação de permitir ao delegado do Governo, ou às pessoas em que ele delegue, a livre entrada, a qualquer hora, a bordo das suas embarcações, nos seus escritórios, armazéns e mais dependências das suas unidades industriais, e de exibir para exame a documentação que lhes for exigida, com excepção dos livros de escrita.
 
 § único. A verificação dos documentos relativos ao movimento comercial das empresas será rigorosamente reservada e confidencial, não podendo constar dos processos senão quando dela resultarem elementos de prova de alguma infracção.
 
-###### Art. 28.º O delegado do Governo tem direito a livre entrada nas lotas, cais de carga e descarga e em todos os locais onde se exerça a actividade do Grémio.
+Art. 28.º O delegado do Governo tem direito a livre entrada nas lotas, cais de carga e descarga e em todos os locais onde se exerça a actividade do Grémio.
 
-###### Art. 29.º No caso de o delegado do Governo ser o mesmo de outro ou outros grémios de pesca, poderá o Ministro da Marinha nomear, por despacho, um adjunto, o qual exercerá a sua acção directamente subordinada àquele. A remuneração do adjunto do delegado do Governo será fixada por despacho do Ministro da Marinha e paga por força das receitas do Grémio.
+Art. 29.º No caso de o delegado do Governo ser o mesmo de outro ou outros grémios de pesca, poderá o Ministro da Marinha nomear, por despacho, um adjunto, o qual exercerá a sua acção directamente subordinada àquele. A remuneração do adjunto do delegado do Governo será fixada por despacho do Ministro da Marinha e paga por força das receitas do Grémio.
 
 ### CAPÍTULO VII — Das receitas e despesas
 
-###### Art. 30.º Constituem receitas do Grémio:
+Art. 30.º Constituem receitas do Grémio:
 
 1.º A jóia de inscrição seguinte, paga por uma só vez por cada arte de pesca:
 
@@ -376,7 +384,7 @@ c) Armações fixas, 15$00.
 
 § único. O Ministro da Marinha poderá autorizar e fixar por despacho, mediante proposta do conselho geral do Grémio, a taxa a que se refere o n.º 2.º do artigo 9.º e poderá alterar, sob proposta do mesmo, os quantitativos fixados para jóias e quotas.
 
-###### Art. 31.º As contas do Grémio serão encerradas em 31 de Dezembro de cada ano e o saldo do exercício terá a seguinte aplicação:
+Art. 31.º As contas do Grémio serão encerradas em 31 de Dezembro de cada ano e o saldo do exercício terá a seguinte aplicação:
 
 5 por cento para o fundo de reserva;
 
@@ -388,7 +396,7 @@ c) Armações fixas, 15$00.
 
 ### CAPÍTULO VIII — Da disciplina corporativa
 
-###### Art. 32.º Pela infracção das regras estabelecidas neste decreto ou nos seus regulamentos ou pela desobediência às determinações dos órgãos administrativos do Grémio dentro da sua esfera de competência ficam os agremiados sujeitos à aplicação das seguintes penalidades:
+Art. 32.º Pela infracção das regras estabelecidas neste decreto ou nos seus regulamentos ou pela desobediência às determinações dos órgãos administrativos do Grémio dentro da sua esfera de competência ficam os agremiados sujeitos à aplicação das seguintes penalidades:
 
 1.ª Censura;
 
@@ -400,13 +408,13 @@ c) Armações fixas, 15$00.
 
 § único. Estas penalidades serão impostas aos sócios agremiados ou seus representantes, respondendo aqueles em todos os casos pelas multas aplicadas.
 
-###### Art. 33.º A aplicação das penas de censura, multa e de suspensão estabelecidas no artigo anterior compete à direcção; a de eliminação é da competência do conselho geral, sob proposta da direcção. Das penas de suspensão e multa cabe recurso para o conselho geral.
+Art. 33.º A aplicação das penas de censura, multa e de suspensão estabelecidas no artigo anterior compete à direcção; a de eliminação é da competência do conselho geral, sob proposta da direcção. Das penas de suspensão e multa cabe recurso para o conselho geral.
 
 § único. Das penas impostas ou confirmadas pelo conselho geral cabe ainda recurso, sem efeito suspensivo, para o Ministro da Marinha, que resolverá em última instância.
 
-###### Art. 34.º As penalidades aplicadas poderão ser comunicadas por circular a todos os sócios.
+Art. 34.º As penalidades aplicadas poderão ser comunicadas por circular a todos os sócios.
 
-###### Art. 35.º A nenhum sócio poderá ser imposta qualquer penalidade sem que prèviamente haja sido notificado para, por escrito, apresentar a sua defesa no prazo de dez dias, que em casos excepcionais poderá ser prorrogado.
+Art. 35.º A nenhum sócio poderá ser imposta qualquer penalidade sem que prèviamente haja sido notificado para, por escrito, apresentar a sua defesa no prazo de dez dias, que em casos excepcionais poderá ser prorrogado.
 
 § 1.º É presunção legal de culpa a não apresentação imediata dos documentos requisitados para averiguação dos factos.
 
@@ -414,13 +422,13 @@ c) Armações fixas, 15$00.
 
 § 3.º Quando se trate de multa pecuniária e o sócio deseje recorrer para o conselho geral, nunca o poderá fazer sem que prèviamente haja depositado a importância da multa.
 
-###### Art. 36.º Quando a pena a aplicar for da competência do conselho geral ou este funcionar como instância de recurso, o seu presidente convocá-lo-á extraordinàriamente para apreciação do assunto, dentro de três dias imediatos à comunicação da direcção ou apresentação do recurso, devendo o conselho geral reunir em prazo não superior a quinze dias.
+Art. 36.º Quando a pena a aplicar for da competência do conselho geral ou este funcionar como instância de recurso, o seu presidente convocá-lo-á extraordinàriamente para apreciação do assunto, dentro de três dias imediatos à comunicação da direcção ou apresentação do recurso, devendo o conselho geral reunir em prazo não superior a quinze dias.
 
 ### CAPÍTULO IX — Da junta arbitral
 
-###### Art. 37.º Para julgar as questões levantadas entre sócios do Grémio haverá uma junta arbitral, constituída por três sócios, escolhidos um por cada parte interessada e o terceiro pela direcção do Grémio.
+Art. 37.º Para julgar as questões levantadas entre sócios do Grémio haverá uma junta arbitral, constituída por três sócios, escolhidos um por cada parte interessada e o terceiro pela direcção do Grémio.
 
-###### Art. 38.º As decisões da junta arbitral são obrigatórias:
+Art. 38.º As decisões da junta arbitral são obrigatórias:
 
 a) Quando as partes, por escrito, tenham declarado que a elas se submetem;
 
@@ -432,7 +440,7 @@ b) Quando um dos interessados tenha declarado, por escrito, com conhecimento dos
 
 ### CAPÍTULO X — Das delegações
 
-###### Art. 39.º Às delegações do Grémio, por intermédio das suas direcções e em especial dos seus presidentes, compete:
+Art. 39.º Às delegações do Grémio, por intermédio das suas direcções e em especial dos seus presidentes, compete:
 
 a) Difundir o espírito da disciplina e solidariedade corporativa;
 
@@ -446,15 +454,15 @@ e) Informar o Grémio sobre assuntos ou problemas que interessem aos sócios seu
 
 f) Acatar e fazer cumprir todas as instruções da direcção do Grémio e do conselho geral, nos termos deste decreto e seus regulamentos.
 
-###### Art. 40.º As delegações são regidas por uma direcção, composta por um presidente e dois vogais.
+Art. 40.º As delegações são regidas por uma direcção, composta por um presidente e dois vogais.
 
-###### Art. 41.º A assembleia geral de cada delegação, que é constituída pelos sócios nela inscritos, elegerá de três em três anos a mesa, os membros efectivos da direcção e dois substitutos.
+Art. 41.º A assembleia geral de cada delegação, que é constituída pelos sócios nela inscritos, elegerá de três em três anos a mesa, os membros efectivos da direcção e dois substitutos.
 
-###### Art. 42.º A representação dos armadores inscritos em cada delegação no conselho geral compete ao presidente da direcção e, na sua falta ou impedimento, ao seu substituto, que aí terá um voto por cada grupo de artes nela incrito a que correspondam 50 votos ou fracção, calculados nos termos do artigo 44.º
+Art. 42.º A representação dos armadores inscritos em cada delegação no conselho geral compete ao presidente da direcção e, na sua falta ou impedimento, ao seu substituto, que aí terá um voto por cada grupo de artes nela incrito a que correspondam 50 votos ou fracção, calculados nos termos do artigo 44.º
 
-###### Art. 43.º As assembleias gerais das delegações serão convocadas se a direcção do Grémio o julgar conveniente e para os fins que prèviamente determinar e funcionarão sempre com a assistência do delegado do Governo junto do Grémio ou do seu adjunto.
+Art. 43.º As assembleias gerais das delegações serão convocadas se a direcção do Grémio o julgar conveniente e para os fins que prèviamente determinar e funcionarão sempre com a assistência do delegado do Governo junto do Grémio ou do seu adjunto.
 
-###### Art. 44.º O número de votos atribuído a cada sócio, por cada arte de que sejam proprietários e de que possuam a respectiva licença de pesca em dia, é o seguinte:
+Art. 44.º O número de votos atribuído a cada sócio, por cada arte de que sejam proprietários e de que possuam a respectiva licença de pesca em dia, é o seguinte:
 
 Navios de pesca longínqua e do alto ... 3
 
@@ -466,32 +474,32 @@ Armações fixas ... 3
 
 § 2.º A nenhum sócio poderão ser atribuídos mais do que dez votos, se estiver inscrito numa só delegação, ou de cinco votos por cada delegação em que esteja inscrito, se o estiver em mais do que uma.
 
-###### Art. 45.º O Ministro da Marinha pode destituir as direcções das delegações ou sòmente algum ou alguns dos seus membros, nos termos da [Lei n.º 1936](https://diariodarepublica.pt/dr/detalhe/lei/1936-1936-690385), de 18 de Março de 1936.
+Art. 45.º O Ministro da Marinha pode destituir as direcções das delegações ou sòmente algum ou alguns dos seus membros, nos termos da [Lei n.º 1936](https://diariodarepublica.pt/dr/detalhe/lei/1936-1936-690385), de 18 de Março de 1936.
 
 § 1.º Os membros das direcções das delegações que tiverem sido destituídos não poderão ser reeleitos para o exercício imediato.
 
 § 2.º Salvo a hipótese prevista no parágrafo antecedente, é sempre permitida a recondução dos membros das direcções das delegações.
 
-###### Art. 46.º É aplicável às direcções das delegações o determinado no § 1.º do artigo 20.º relativamente à direcção do Grémio.
+Art. 46.º É aplicável às direcções das delegações o determinado no § 1.º do artigo 20.º relativamente à direcção do Grémio.
 
 ### CAPÍTULO XI — Das disposições gerais e transitórias
 
-###### Art. 47.º O ano social corresponde ao ano civil.
+Art. 47.º O ano social corresponde ao ano civil.
 
-###### Art. 48.º Os agremiados abrangidos pelos n.os 1.º a 9.º do artigo 11.º serão, pelas autoridades marítimas, suspensos do exercício da pesca, depois de confirmada a pena pelo Ministro da Marinha.
+Art. 48.º Os agremiados abrangidos pelos n.os 1.º a 9.º do artigo 11.º serão, pelas autoridades marítimas, suspensos do exercício da pesca, depois de confirmada a pena pelo Ministro da Marinha.
 
-###### Art. 49.º Em tudo o que se relaciona com acordos de trabalho e comparticipação para as instituições de previdência ou de carácter social o Grémio fica subordinado ao Ministério das Corporações e Previdência Social.
+Art. 49.º Em tudo o que se relaciona com acordos de trabalho e comparticipação para as instituições de previdência ou de carácter social o Grémio fica subordinado ao Ministério das Corporações e Previdência Social.
 
-###### Art. 50.º A disciplina do trabalho e o cumprimento da matrícula serão regulados pela Código Penal e Disciplinar da Marinha Mercante e por outras disposições vigentes no Ministério da Marinha.
+Art. 50.º A disciplina do trabalho e o cumprimento da matrícula serão regulados pela Código Penal e Disciplinar da Marinha Mercante e por outras disposições vigentes no Ministério da Marinha.
 
-###### Art. 51.º A dissolução do Grémio só poderá ser decretada pelo Governo.
+Art. 51.º A dissolução do Grémio só poderá ser decretada pelo Governo.
 
 § único. Decretada a dissolução do Grémio, e no caso de não ser substituído por outro organismo de carácter corporativo, os valores existentes reverterão a favor da Junta Central das Casas dos Pescadores.
 
-###### Art. 52.º Provisòriamente, e enquanto for julgado conveniente pelo Ministro da Marinha, as instalações e os serviços de qualquer dos grémios da pesca poderão ser utilizados pelo Grémio dos Armadores da Pesca do Atum mediante contrato a celebrar entre as suas direcções.
+Art. 52.º Provisòriamente, e enquanto for julgado conveniente pelo Ministro da Marinha, as instalações e os serviços de qualquer dos grémios da pesca poderão ser utilizados pelo Grémio dos Armadores da Pesca do Atum mediante contrato a celebrar entre as suas direcções.
 
-###### Art. 53.º Enquanto não se proceder à eleição da direcção do Grémio, os directores serão escolhidos e nomeados pelo Ministro da Marinha.
+Art. 53.º Enquanto não se proceder à eleição da direcção do Grémio, os directores serão escolhidos e nomeados pelo Ministro da Marinha.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Novembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Fernando Quintanilha Mendonça Dias.

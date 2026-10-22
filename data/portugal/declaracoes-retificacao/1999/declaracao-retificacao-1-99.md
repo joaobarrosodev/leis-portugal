@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/1/1999/01/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1999-193798
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-01-16T00:00:00Z'
+  retrieved_at: '2026-10-22T18:52:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4eae423814b3df6dd14af41cce6c27fb1f2e5c7b9ac3f4c79cb3c45df4ef5aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a4116359362e2a670e50eed39967cd8891c2b30b001a2c5d0d3cfde0f7b93c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:52:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,47 +66,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
+- Ação Social
 - Acção Financeira
+- Açores
 - Administração Central
 - Administração do Porto de Lisboa
 - Administração dos Portos de Setúbal e Sesimbra
 - Administração dos Portos do Douro e Leixões
 - ADSE
-- Metropolitano de Lisboa
+- Álcool
 - Alienação de BENS
 - Alienação de Créditos
 - Alienação de Participação Social
 - Alteração Orçamental
+- ANA
 - Aproximação das Legislações
 - Aquisição de Equipamento
 - Aquisição de Imóveis
 - ÁREA Metropolitana
+- Assembleia da República
+- Associação
 - Associação de Municípios
-- Região Autónoma
-- Valores Mobiliários
 - Aumento de Capital
+- Autarquia Local
 - Autorização de Despesas
-- Financiamento
-- Garantia
-- Empresa
 - Bebida Alcoólica
+- Benefícios Fiscais
+- BENS Imóveis do Estado
 - Bolsa de Valores
+- Caixa Geral de Aposentações
 - Caminhos de Ferro Portugueses
-- Lares
-- Turismo
-- Inspeção Geral de Finanças
-- Instituto do Emprego e Formação Profissional
+- Cisão de Empresas
 - Cobrança de Impostos
 - Código da SISA e do Imposto sobre Sucessões e Doações
 - Código de Processo Tributário
 - Código do IRC
 - Código do IRS
 - Código do IVA
-- Imposto sobre Produtos Petrolíferos
+- Comissão Eventual para Acompanhamento da Situação em Timor Leste
 - Companhia Carris de Ferro de Lisboa
 - Companhias Reunidas de Congelados e Bacalhau
-- Finanças Locais
 - Conselho de Mercados de Obras Públicas e Particulares
 - Conta Poupança-condomínio
 - Conta Poupança-emigrante
@@ -117,97 +116,104 @@ subjects:
 - Contribuições da Segurança Social
 - Cooperação Financeira
 - Cooperação Técnica
-- Educação
-- Timor Leste
-- Saúde
+- Cooperativa
 - Defensor do Contribuinte
+- Deficiente
 - Depósito Bancário
 - Despesas Públicas
+- Direito de Petição
 - Direito Público
 - Dívida Flutuante
 - Dívida Pública
 - Dotação Orçamental
-- Álcool
-- Empresa de Electricidade da Madeira
+- Dupla Tributação
+- Educação
 - Electricidade dos Açores
 - Emolumento Cadastral
-- Cisão de Empresas
+- Empresa
+- Empresa de Electricidade da Madeira
 - Entidade Patronal
+- Equipamento Informático
 - Estatuto dos Benefícios Fiscais
-- Cooperativa
-- Serviço Nacional de Saúde
 - EURO 2004
+- Evasão Fiscal
 - Execução do Orçamento
-- Ação Social
-- Fundo de Coesão Municipal
-- Índice de Desenvolvimento Social
-- Caixa Geral de Aposentações
+- Finanças Locais
+- Financiamento
 - Fiscalização
-- Lisboa
+- Forças Armadas
+- FSE
 - Fundação Centro Cultural de Belém
 - Fundação das Descobertas
-- Rendimento Mínimo Garantido
+- Fundo de Coesão Municipal
 - Fundo de Compensação do Seguro de Colheitas
 - Fundo de Estabilização Financeira da Segurança Social
 - Fundo de Financiamento das Freguesias
 - Fundo de Investimento
 - Fundo de Pensões dos Militares das Forças Armadas
 - Fundo de Poupança-reforma
-- BENS Imóveis do Estado
 - Fundo de Regularização da Dívida Pública
 - Fundo de Socorro Social
 - Fundo Geral Municipal
 - Fundo para a Cooperação Económica
 - Fundos Autónomos
 - Fusão de Sociedades
+- Garantia
 - GAT
 - Grémio dos Armadores da Pesca do Arrasto
-- Seguro
-- Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
+- Habitação
+- IAPMEI
+- Imposto Automóvel
 - Imposto de Camionagem
 - Imposto de Circulação
 - Imposto do SELO
 - Imposto Especial sobre o Consumo
 - Imposto Mineiro e de Águas Minerais
-- IRS
-- IVA
+- Imposto sobre Produtos Petrolíferos
 - Imposto sobre Sucessões e Doações
+- Imposto sobre Veículos
 - Impostos Directos
 - Impostos Indirectos
 - Incentivos Fiscais
+- Índice de Desenvolvimento Social
 - Infracção Aduaneira
 - Infracção Fiscal
-- Programa IMIT
-- Instituições de Segurança Social
 - Inofor
+- Inspeção Geral de Finanças
+- Instituições de Segurança Social
+- Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
+- Instituto do Emprego e Formação Profissional
 - Instituto Português da ARTE Cinematográfica e Audiovisual
+- IRC
+- IRS
 - Isenção Fiscal
-- Tribunal de Contas
+- IVA
 - Junta Autónoma das Estradas
 - Junta de Freguesia
 - Junta Metropolitana
+- Lares
 - Lei das Finanças Locais
 - Lei Geral Tributária
-- FSE
+- Lisboa
+- Madeira.região Autónoma
+- Metro do Porto
+- Metropolitano de Lisboa
+- Microempresa
 - Odivelas
-- Orçamento Geral do Estado
-- Forças Armadas
-- Equipamento Informático
 - Operações de Tesouraria
 - OPV
 - Orçamento
+- Orçamento Geral do Estado
 - Organismo Autónomo
-- Tabaco
-- Assembleia da República
 - Parque EXPO 98
+- Pedip II
+- Pensões
 - Piddac
 - Plano de Investimentos
 - Plano Poupança em Acções
+- Porto
 - Porto 2001
-- Dupla Tributação
-- Evasão Fiscal
-- IRC
-- Pensões
+- Prédio Urbano
 - PRID
 - Privatização
 - Processo Tributário
@@ -215,42 +221,36 @@ subjects:
 - Programa Contratos de Modernização Administrativa
 - Programa Energia
 - Programa Formação da Administração Pública II
+- Programa IMIT
 - Programa Melhoria do Impacte Ambiental da Actividade Produtiva
-- Madeira.região Autónoma
 - Receita
-- Direito de Petição
-- ANA
 - Reestruturação de Empresas
 - Refer
-- Microempresa
+- Região Autónoma
 - Regime Fiscal
 - Regime Jurídico das Infracções Fiscais Aduaneiras
-- Habitação
-- Imposto Automóvel
-- Associação
 - Relatório de Actividade
-- Benefícios Fiscais
+- Rendimento Mínimo Garantido
 - Retenção na Fonte
+- Saúde
 - Segurança Social
+- Seguro
+- Serviço Nacional de Saúde
 - Siderurgia Nacional-sgps
-- Pedip II
-- Açores
 - Sistema de Apoio à Jovens Empresários
-- IAPMEI
-- Prédio Urbano
 - Sociedade Corretora
 - Sociedade Financeira de Corretagem
-- Metro do Porto
+- Tabaco
 - Tabela Geral do Imposto do SELO
 - TAXA de Radiodifusão
-- Comissão Eventual para Acompanhamento da Situação em Timor Leste
+- Timor Leste
 - Transferência de Verbas
 - Transporte Escolar
-- Autarquia Local
-- Porto
+- Tribunal de Contas
 - Tributação
 - Trofa
-- Imposto sobre Veículos
+- Turismo
+- Valores Mobiliários
 - Visto do Tribunal de Contas
 - Vizela
 relationships:
@@ -258,16 +258,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/87-b/1998/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/87-b/1998/12/31/p/dre
+- type: cites
+  target: pt:dre:570520:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:52:31Z'
   warnings: []
   errors: []
 ---
@@ -280,7 +284,9 @@ No artigo 82.º onde se lê:
 
 «...
 
-###### Artigo 46.º — Incidência da fiscalização prévia
+Artigo 46.º
+
+Incidência da fiscalização prévia
 
 1 - ...
 
@@ -292,7 +298,9 @@ deve ler-se:
 
 «...
 
-###### Artigo 46.º — Incidência da fiscalização prévia
+Artigo 46.º
+
+Incidência da fiscalização prévia
 
 1 - ...
 

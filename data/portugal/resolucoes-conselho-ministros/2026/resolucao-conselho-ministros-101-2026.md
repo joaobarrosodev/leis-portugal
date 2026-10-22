@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/101/2026/05/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-2026-1126675658
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-27T00:00:00Z'
+  retrieved_at: '2026-10-22T18:42:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c67aaad721febdc7447ba69ba44cc87a112697169277be92a056b6da841555f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: afea92a697994c534c8352db99967f231336ccc47801f01c1d85d094220ddc84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:42:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência para a Gestão Integrada de Fogos Rurais
 - Incêndio
 - Ordenamento do Território
-- Proteção do Ambiente
-- Agência para a Gestão Integrada de Fogos Rurais
-- Sistema de Gestão Integrada de Fogos Rurais
 - Plano Nacional de Qualificação do Sistema de Gestão Integrada de Fogos Rurais
+- Proteção do Ambiente
+- Sistema de Gestão Integrada de Fogos Rurais
 relationships:
 - type: cites
   target: eli:http://da
@@ -112,16 +112,112 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/55/2020/07/31/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/55/2020/07/31/p/dre
+- type: cites
+  target: pt:dre:106380301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114109966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114969817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:135843143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139209032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159841266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:161518656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172745163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205450974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25696052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66702119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:860479489:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:42:11Z'
   warnings: []
   errors: []
 ---
@@ -198,7 +294,7 @@ Para a concretização destas metas, estima-se a necessidade de realização nos
 
 A forma como as qualificações requeridas para o exercício de funções pode influenciar carreiras ou profissões extravasa o âmbito do PNQ_SGIFR, sendo da competência de cada entidade patronal. No entanto, estas necessidades de qualificação agora identificadas devem ser tidas em consideração, por parte das entidades patronais, para a construção dos perfis profissionais dos seus agentes, de forma a contribuir para um ajustamento progressivo entre responsabilidades, funções, cargos e qualificação, e para identificação de necessidades, a médio e longo prazo, de qualificação de novos recursos humanos a recrutar para o SGIFR.
 
-Atuando os diferentes agentes, no âmbito do SGIFR, sob a coordenação de entidades públicas, a validação da aquisição de qualificações para o desempenho de funções e atividades, e das certificações respetivas será, em primeira instância, da responsabilidade interna da própria entidade patronal. Deve ser criada, em 2025, uma plataforma digital, de registo das qualificações e competências SGIFR adquiridas pelos seus agentes, interligado a instrumentos tecnológicos já existentes, nomeadamente através do passaporte qualifica0F(<sup>1</sup>) para as formações de nível profissional não superior, ou de plataforma da DGES, para registo das microcredenciais de nível superior. Esta plataforma deve fazer a ligação automática com a plataforma de registo de intervenções, nomeadamente, nas atividades da fase da supressão e socorro, o registo operacional da atividade por incêndio, de forma que seja facilmente verificável a qualificação dos intervenientes associada ao registo da sua experiência funcional. Com base na plataforma de registo das qualificações e competências SGIFR deverá ser emitido, pela entidade patronal, um cartão de qualificação SGIFR, permanentemente atualizado, em formato preferencialmente virtual, com registo de todas as qualificações, para potencial apresentação por qualquer agente que intervenha na cadeia de processos SGIFR.
+Atuando os diferentes agentes, no âmbito do SGIFR, sob a coordenação de entidades públicas, a validação da aquisição de qualificações para o desempenho de funções e atividades, e das certificações respetivas será, em primeira instância, da responsabilidade interna da própria entidade patronal. Deve ser criada, em 2025, uma plataforma digital, de registo das qualificações e competências SGIFR adquiridas pelos seus agentes, interligado a instrumentos tecnológicos já existentes, nomeadamente através do passaporte qualifica0F(1) para as formações de nível profissional não superior, ou de plataforma da DGES, para registo das microcredenciais de nível superior. Esta plataforma deve fazer a ligação automática com a plataforma de registo de intervenções, nomeadamente, nas atividades da fase da supressão e socorro, o registo operacional da atividade por incêndio, de forma que seja facilmente verificável a qualificação dos intervenientes associada ao registo da sua experiência funcional. Com base na plataforma de registo das qualificações e competências SGIFR deverá ser emitido, pela entidade patronal, um cartão de qualificação SGIFR, permanentemente atualizado, em formato preferencialmente virtual, com registo de todas as qualificações, para potencial apresentação por qualquer agente que intervenha na cadeia de processos SGIFR.
 
 Uma transformação desta natureza e a necessidade do seu acompanhamento, com seriedade, e de forma sustentável no tempo, apela à existência de uma organização colaborativa, com representação permanente das entidades nucleares SGIFR e colaboração estreita das entidades responsáveis pela regulação das atividades formativas aos vários níveis, alcançável nos moldes atuais através da criação de uma Subcomissão para a formação e qualificação (ScQ_SGIFR), a criar no âmbito da Comissão Nacional do SGIFR ([Decreto-Lei n.º 82/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), de 13 de outubro), que impulsione a concretização do Plano de Qualificação nos próximos anos, definindo os mecanismos de regulação e implementação, e consequentes ações de monitorização, avaliação e melhoria contínua.
 
@@ -252,7 +348,8 @@ Os relatórios da CTI1 e 2 recomendaram mudanças sistémicas, incluindo ao nív
 
 O PNGIFR consolida as mudanças sistémicas preconizadas pelos relatórios acima referidos, assentando numa cadeia de processos, composta por 6 fases e 21 processos, com atribuição de responsabilidades em cada processo às entidades, que implicam uma boa preparação dos parceiros para que todos os operacionais e decisores estejam mais bem preparados para agir e decidir, de acordo com a sua especialização (GFR ou PCIR).
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201482.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201482.png) |
+| --- |
 
 A cadeia de processos e respetivas responsabilidades constituíram a referência de base para a estruturação e identificação de funções e de atividades chave desenvolvidas pelos agentes do SGIFR, pelo que se procede à sua apresentação, de forma a facilitar a consulta e a compreensão da estruturação que conduziu à identificação das necessidades de qualificação.
 
@@ -454,7 +551,8 @@ No quadro seguinte resume-se o número de funções e de atividades chave identi
 
 Tabela 1 - Número de funções e atividades chave mapeadas por fase da cadeia de processos
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201483.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201483.png) |
+| --- |
 
 Em anexo são apresentadas fichas individuais para cada função e respetivas necessidades formativas.
 
@@ -474,11 +572,14 @@ São Atividades Chave desenvolvidas recorrentemente, ao longo de todas as fases 
 
 Tabela 2 - Listagem de Funções e Atividades Chave identificadas para a fase do Planeamento (PL)
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201484.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201484.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201485.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201485.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201486.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201486.png) |
+| --- |
 
 Preparação
 
@@ -490,7 +591,8 @@ A fase da Preparação compreende os grandes processos intermédios entre o plan
 
 Tabela 3 - Listagem de Funções e Atividades Chave identificadas para a fase da Preparação (PR)
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201487.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201487.png) |
+| --- |
 
 Prevenção
 
@@ -506,9 +608,11 @@ A Prevenção é a execução de ações que reduzem a exposição e a vulnerabi
 
 Tabela 4 - Listagem de Funções e Atividades Chave identificadas para a fase da Prevenção (PV)
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201488.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201488.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201489.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201489.png) |
+| --- |
 
 Pré-Supressão
 
@@ -522,7 +626,8 @@ A Pré-supressão é um estado de aprontamento, de atenção à necessidade de i
 
 Tabela 5 - Listagem de Funções e Atividades Chave identificadas para a fase da Pré-Supressão (PS)
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201490.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201490.png) |
+| --- |
 
 Supressão e Socorro
 
@@ -540,13 +645,17 @@ A Supressão e Socorro é a fase em que se procura a extinção do incêndio e s
 
 Tabela 6 - Listagem de Funções e Atividades Chave identificadas para a fase da Supressão e Socorro (SC)
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201491.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201491.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201492.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201492.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201493.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201493.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201494.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201494.png) |
+| --- |
 
 Pós-Evento
 
@@ -560,7 +669,8 @@ O Pós-Evento inclui processos que se desenvolvem depois do incêndio, ou durant
 
 Tabela 7 - Listagem de Funções e Atividades Chave identificadas para a fase do Pós-Evento (PE)
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201495.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201495.png) |
+| --- |
 
 3.3 - Quadro de qualificações setoriais SGIFR
 
@@ -576,7 +686,8 @@ Neste sentido, a construção da Bolsa de Certificações ou Credenciações SGI
 
 O Quadro de Qualificações SGIFR encontra-se organizado em função de dois critérios: o nível de qualificação da certificação e a tipologia de competências. Apresenta-se assim em anexo um mapeamento de certificações aplicáveis às funções e atividades chave, de nível intermédio, aplicáveis às qualificações dos níveis, 2, 4 ou 5 do QNQ, inscritas no Catálogo Nacional de Qualificações, e de nível superior, correspondentes ao nível ≥6 do QNQ.
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201496.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201496.png) |
+| --- |
 
 A identificação de necessidades formativas teve em conta as especificidades, níveis de intervenção, de exigência, de conhecimentos e de responsabilidade das atividades, tendo recaído, duma forma geral, sobre formações de nível intermédio profissional para atividades de níveis mais operacionais e locais, e sobre formações de nível superior (nível QNQ ≥6), sobretudo para funções e atividades de níveis estratégicos, de âmbito nacional e regional.
 
@@ -594,17 +705,22 @@ No quadro seguinte apresenta-se a listagem das UFCD identificadas como necessár
 
 Tabela 8 - UFCD existentes no CNQ para o desempenho de funções e atividades chave desenvolvidas pelos agentes do SGIFR
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201497.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201497.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201498.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201498.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201499.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201499.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201500.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201500.png) |
+| --- |
 
 Tabela 9 - Unidades de formação a desenvolver para o desempenho de funções e atividades chave desenvolvidas pelos agentes do SGIFR
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201501.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201501.png) |
+| --- |
 
 Em anexo apresenta-se a matriz de correspondência entre as funções/atividades chave e unidades de formação de nível profissional não superior requeridas para o seu exercício.
 
@@ -618,11 +734,14 @@ Foram recorrentemente identificadas, tal como se poderá constatar na matriz em 
 
 Tabela 10 - Correspondência SGIFR para UFCD de diferentes referenciais
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201502.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201502.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201503.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201503.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201504.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201504.png) |
+| --- |
 
 3.5 - Necessidades de formação de nível superior ou microcredenciais
 
@@ -652,11 +771,14 @@ Apesar do esforço inicial para que as distintas microcredenciais funcionassem d
 
 Tabela 11 - Listagem de microcredenciais de nível superior para o desempenho de funções e atividades SGIFR
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201505.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201505.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201506.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201506.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201507.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201507.png) |
+| --- |
 
 Em anexo apresenta-se a matriz de correspondência entre as funções/atividades chave e microcredenciais de nível superior requeridas para o seu exercício.
 
@@ -676,18 +798,19 @@ O Programa Nacional de Ação (PNA) concretiza, no território continental portu
 
 Para assegurar que o risco é gerido eficientemente, o PNA prevê, na Orientação Estratégica 4 (OE4), que, as instituições sejam reforçadas em recursos humanos qualificados e mecanismos de governança e gestão do risco. O PNQ prevê que em 2028 cerca de 80 % do programa esteja concretizado e 10.000 agentes do SGIFR operem com base em formação revista e certificada. A médio/longo prazo pretende-se que todas as decisões estratégicas à escala nacional, regional e sub-regional, sejam tomadas por agentes com as certificações setoriais específicas identificadas no PNQ_SGIFR. No fim deste período prevê-se a revisão do PNQ_SGIFR entre 2029 e 2030.
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201508.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201508.png) |
+| --- |
 
 | Objetivos estratégicos | Meta | Indicadores de resultados | Indicadores de impacto |
 | --- | --- | --- | --- |
 | Capacitar os agentes que atuam no âmbito do Sistema de Gestão Integrada de Fogos Rurais, dos níveis de ensino superior e profissional não superior, com base nas atividades-chave inscritas na cadeia de processos do PNGIFR | Até 2028, 80 % do programa de qualificação concretizado | % de funções desempenhadas por agentes com formação específica SGIFR | Inexistência de percas de vidas humanas em incêndios rurais |
-| Capacitar os agentes que atuam no âmbito do Sistema de Gestão Integrada de Fogos Rurais, dos níveis de ensino superior e profissional não superior, com base nas atividades-chave inscritas na cadeia de processos do PNGIFR | Até 2028, 80 % do programa de qualificação concretizado | % de microcredenciais SGIFR de nível superior existentes | Inexistência de percas de vidas humanas em incêndios rurais |
-| Capacitar os agentes que atuam no âmbito do Sistema de Gestão Integrada de Fogos Rurais, dos níveis de ensino superior e profissional não superior, com base nas atividades-chave inscritas na cadeia de processos do PNGIFR | Até 2028, 10.000 agentes do SGIFR operam com base em formação setorial SGIFR | N.º de agentes SGIFR com formação setorial específica completa, face à função e atividade | Inexistência de percas de vidas humanas em incêndios rurais |
-| Capacitar os agentes que atuam no âmbito do Sistema de Gestão Integrada de Fogos Rurais, dos níveis de ensino superior e profissional não superior, com base nas atividades-chave inscritas na cadeia de processos do PNGIFR | Em 2028, 80 % dos agentes SGIFR obtiveram as certificações setoriais especificas no PNQ_SGIFR adequadas às funções | % de agentes SGIFR com formação setorial específica completa, face à função e atividade | Inexistência de percas de vidas humanas em incêndios rurais |
-| Implementar Bolsa de unidades de formação específica SGIFR, organizados em Resultados de Aprendizagem, compatíveis com os requisitos nacionais do ensino superior e não superior | Até 2028, oferta formativa de 100 % de formações SGIFR de nível não superior | % de oferta formativa SGIFR de nível não superior | Inexistência de percas de vidas humanas em incêndios rurais |
-| Implementar Bolsa de unidades de formação específica SGIFR, organizados em Resultados de Aprendizagem, compatíveis com os requisitos nacionais do ensino superior e não superior | Até 2028, oferta formativa de 80 % de microcredenciais SGIFR de nível superior | % de oferta formativa SGIFR de nível superior em 2028 | % dos incêndios com mais de 500ha abaixo de 0,3 % do total de incêndios em 2028 |
+| % de microcredenciais SGIFR de nível superior existentes |  |  |  |
+| Até 2028, 10.000 agentes do SGIFR operam com base em formação setorial SGIFR | N.º de agentes SGIFR com formação setorial específica completa, face à função e atividade |  |  |
+| Em 2028, 80 % dos agentes SGIFR obtiveram as certificações setoriais especificas no PNQ_SGIFR adequadas às funções | % de agentes SGIFR com formação setorial específica completa, face à função e atividade |  |  |
+| Implementar Bolsa de unidades de formação específica SGIFR, organizados em Resultados de Aprendizagem, compatíveis com os requisitos nacionais do ensino superior e não superior | Até 2028, oferta formativa de 100 % de formações SGIFR de nível não superior | % de oferta formativa SGIFR de nível não superior |  |
+| Até 2028, oferta formativa de 80 % de microcredenciais SGIFR de nível superior | % de oferta formativa SGIFR de nível superior em 2028 | % dos incêndios com mais de 500ha abaixo de 0,3 % do total de incêndios em 2028 |  |
 | Implementar sistema de certificação setorial especifica SGIFR, aplicável às ações de formação e ativos SGIFR e que garanta a qualidade dos processos formativos, ao nível superior e não superior | Até 2028, 100 % das ações de formação de nível não superior enquadradas em sistema de certificação setorial SGIFR | % de ações de formação SGIFR de nível superior e não superior com certificação SGIFR |  |
-| Implementar sistema de certificação setorial especifica SGIFR, aplicável às ações de formação e ativos SGIFR e que garanta a qualidade dos processos formativos, ao nível superior e não superior | Até 2028, 80 % das ações de formação de nível superior enquadradas em sistema de certificação setorial SGIFR | % de ações de formação SGIFR de nível superior e não superior com certificação SGIFR | Área ardida acumulada na década inferior a 660.000ha |
+| Até 2028, 80 % das ações de formação de nível superior enquadradas em sistema de certificação setorial SGIFR | Área ardida acumulada na década inferior a 660.000ha |  |  |
 
 Prazo para obtenção das qualificações SGIFR
 
@@ -749,7 +872,8 @@ v) A atribuição de equivalências
 
 As entidades e a ScQ_SGIFR podem estipular a necessidade e os valores a cobrar pelos serviços de certificação, acreditação e homologação.
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201509.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201509.png) |
+| --- |
 
 4.1 - Certificação setorial SGIFR das Unidades de Formação Profissional de nível intermédio
 
@@ -765,7 +889,7 @@ As UFCD em causa - identificadas como necessárias para o desempenho de funçõe
 
 Para as novas UF ou UFCD, propostas no atual PNQ ou no futuro, as mesmas deverão ser integradas no Catálogo Nacional de Qualificações (CNQ), através do conselho setorial mais adequado, podendo, quando tal não seja possível, constituir formação profissional específica certificada não inserida em catálogo, e nessa circunstância obter reconhecimento por parte da entidade setorial respetiva.
 
-Propõe-se a utilização, como modelo de referência, do processo de certificação de formação profissional específica setorial da DGADR (Direção-Geral de Agricultura e Desenvolvimento Rural1F(<sup>2</sup>), regulamentado pela [Portaria n.º 354](https://diariodarepublica.pt/dr/detalhe/portaria/354-1915-287805), de 9 de dezembro de 2013, e pelo Despacho n.º 3756, de 26 de maio de 2020. Trata-se de processo, perfeitamente consolidado, que poderá servir de base para a regulamentação específica de formação setorial pelas entidades setoriais SGIFR, nas respetivas AEF. Este procedimento pode inclusivamente ser aplicado diretamente pelo ICNF, no caso do Programa Nacional de Sapadores Florestais, considerando a atribuição constante da leitura conjugada do n.º 1, alínea f), do n.º 2 e n.º 3 da [Portaria n.º 90/2012](https://diariodarepublica.pt/dr/detalhe/portaria/90-2012-553886) de 30 de março, dado que o ICNF é a autoridade nacional competente para proceder ao reconhecimento das qualificações profissionais.
+Propõe-se a utilização, como modelo de referência, do processo de certificação de formação profissional específica setorial da DGADR (Direção-Geral de Agricultura e Desenvolvimento Rural1F(2), regulamentado pela [Portaria n.º 354](https://diariodarepublica.pt/dr/detalhe/portaria/354-1915-287805), de 9 de dezembro de 2013, e pelo Despacho n.º 3756, de 26 de maio de 2020. Trata-se de processo, perfeitamente consolidado, que poderá servir de base para a regulamentação específica de formação setorial pelas entidades setoriais SGIFR, nas respetivas AEF. Este procedimento pode inclusivamente ser aplicado diretamente pelo ICNF, no caso do Programa Nacional de Sapadores Florestais, considerando a atribuição constante da leitura conjugada do n.º 1, alínea f), do n.º 2 e n.º 3 da [Portaria n.º 90/2012](https://diariodarepublica.pt/dr/detalhe/portaria/90-2012-553886) de 30 de março, dado que o ICNF é a autoridade nacional competente para proceder ao reconhecimento das qualificações profissionais.
 
 No caso dos Bombeiros Sapadores Florestais, através da utilização do modelo de referência da DGADR, com base no Artigo 1.º, do Despacho n.º 3756, de 26 de maio de 2020. Para as certificações setoriais SGIFR, da AEF 861 - Proteção de Pessoas e Bens, é necessário o estabelecimento do processo de certificação de formação profissional específica setorial SGIFR, que fica dependente de estabelecimento de regulamento específico por parte da ANEPC, podendo seguir o modelo DGADR sugerido atrás.
 
@@ -777,7 +901,8 @@ No quadro seguinte apresentam-se os pré-requisitos definidos pelo ICNF para cer
 
 Tabela 12 - Pré-requisitos definidos pelo ICNF para certificação setorial das UFCD SGIFR identificadas
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201510.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201510.png) |
+| --- |
 
 Relativamente aos pré-requisitos necessários para certificação setorial específica SGIFR, das UFCD identificadas no âmbito do RF 861361 - Bombeiro/a, da AEF 861 - Proteção de Pessoas e Bens, os mesmos serão desenvolvidos posteriormente.
 
@@ -1243,7 +1368,7 @@ Documentação a entregar para a homologação de novos cursos de formação:
 
 No caso de uma ação de formação à distância, os documentos referidos evidenciar as questões específicas desta modalidade de formação e identificar: i) A plataforma tecnológica a utilizar; ii) As sessões presenciais e à distância, com indicação das sessões síncronas e assíncronas; iii) O sistema de tutoria e de controlo de avaliação dos formandos.
 
-Competências críticas transversais2F(<sup>3</sup>)
+Competências críticas transversais2F(3)
 
 A. Nível Estratégico
 
@@ -1363,11 +1488,11 @@ As unidades de formação de curta duração (UFCD), criadas ou a criar a partir
 
 ● Peer coaching: exercícios com auto-observação e feedback de colegas para ancorar a compreensão da importância da orientação cooperativa na ação.
 
-(<sup>1</sup>) Instrumento tecnológico de registo das qualificações e competências adquiridas ou desenvolvidas ao longo da vida do adulto e de orientação para percursos de aprendizagem
+(1) Instrumento tecnológico de registo das qualificações e competências adquiridas ou desenvolvidas ao longo da vida do adulto e de orientação para percursos de aprendizagem
 
-(<sup>2</sup>) https://www.dgadr.gov.pt/formacao/formacao-especifica-setorial
+(2) https://www.dgadr.gov.pt/formacao/formacao-especifica-setorial
 
-(<sup>3</sup>) Capacitação para o Sistema de Gestão Integrada de Fogos - perfis de competências. DINÂMIA’CET-IUL. novembro de 2018.
+(3) Capacitação para o Sistema de Gestão Integrada de Fogos - perfis de competências. DINÂMIA’CET-IUL. novembro de 2018.
 
 MATRIZES DE CORRESPONDÊNCIA ENTRE AS FUNÇÕES/ATIVIDADES CHAVE/E UNIDADES DE FORMAÇÃO DE NÍVEL NÃO SUPERIOR E SUPERIOR, REQUERIDAS, PARA O SEU EXERCÍCIO NO SGIFR.
 
@@ -1496,13 +1621,16 @@ Tabela 13 - Acrónimos de codificação: Fases da Cadeia de Processo, Processos,
 
 Tabela 14 - Listagem de Unidades de Formação SGIFR de nível profissional intermédio
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201511.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201511.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201512.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201512.png) |
+| --- |
 
 Tabela 15 - Listagem de Unidades de Formação, ou Microcredenciais SGIFR de nível superior
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201513.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201513.png) |
+| --- |
 
 PLANEAMENTO (PL) - MATRIZ DE FUNÇÕES/ATIVIDADES CHAVE E QUALIFICAÇÕES
 
@@ -1514,9 +1642,11 @@ Nível superior - Microcredenciais
 
 Tabela 16 - Matriz de correspondência entre as funções/atividades chave/e microcredenciais de nível superior requeridas para a fase do Planeamento (PL)
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201514.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201514.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201515.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201515.png) |
+| --- |
 
 PREPARAÇÃO (PR) - MATRIZ DE FUNÇÕES E QUALIFICAÇÕES
 
@@ -1524,13 +1654,15 @@ Nível intermédio (formação profissional)
 
 Tabela 17 - Preparação (PR) - Matriz de Funções e Qualificações de Nível Intermédio
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201516.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201516.png) |
+| --- |
 
 Nível superior - Microcredenciais
 
 Tabela 18 - Preparação (PR) - Matriz de Funções e Qualificações de Nível Superior
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201517.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201517.png) |
+| --- |
 
 PREVENÇÃO (PV) - MATRIZ DE FUNÇÕES E QUALIFICAÇÕES
 
@@ -1538,13 +1670,15 @@ Nível intermédio (formação profissional)
 
 Tabela 19 - Prevenção (PV) - Matriz de Funções e Qualificações de Nível Intermédio
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201518.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201518.png) |
+| --- |
 
 Nível superior - Microcredenciais
 
 Tabela 20 - Prevenção (PV) - Matriz de Funções e Qualificações de Nível Superior
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201519.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201519.png) |
+| --- |
 
 PRÉ-SUPRESSÃO (PS) - MATRIZ DE FUNÇÕES E QUALIFICAÇÕES
 
@@ -1552,13 +1686,15 @@ Nível intermédio (formação profissional)
 
 Tabela 21 - Pré-Supressão (PS) - Matriz de Funções e Qualificações de Nível Intermédio
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201520.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201520.png) |
+| --- |
 
 Nível superior - Microcredenciais
 
 Tabela 22 - Pré-Supressão (PS) - Matriz de Funções e Qualificações de Nível Superior
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201521.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201521.png) |
+| --- |
 
 SUPRESSÃO E SOCORRO (SC) - MATRIZ DE FUNÇÕES E QUALIFICAÇÕES
 
@@ -1566,59 +1702,72 @@ Nível intermédio (formação profissional)
 
 Tabela 23 - Supressão e Socorro (SC) - Matriz de Funções e Qualificações de Nível Intermédio
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201522.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201522.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201523.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201523.png) |
+| --- |
 
 Nível superior - Microcredenciais
 
 Tabela 24 - Supressão e Socorro (SC) - Matriz de Funções e Qualificações de Nível Superior
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201524.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201524.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201525.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201525.png) |
+| --- |
 
 Nível intermédio (formação profissional)
 
 Tabela 25 - Pós-Evento (PE) - Matriz de Funções e Qualificações de Nível Intermédio
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201526.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201526.png) |
+| --- |
 
 Nível superior - Microcredenciais
 
 Tabela 26 - Pós-Evento (PE) - Matriz De Funções e Qualificações de Nível Superior
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201527.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201527.png) |
+| --- |
 
 Estimativa do número de agentes a formar, por entidade nas unidades de formação SGIFR nos próximos 5 anos (2024-2028)
 
 Tabela 27 - Estimativa do número de agentes SGIFR a formar por entidade, entre 2024 e 2028, ao nível da formação profissional em UFCD’s existentes no CNQ
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201528.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201528.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201529.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201529.png) |
+| --- |
 
 Tabela 28 - Estimativa do número de agentes SGIFR a formar por entidade, entre 2024 e 2028, ao nível da formação profissional em Unidade de Formação a criar
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201530.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201530.png) |
+| --- |
 
 Tabela 29 - Estimativa do número de formandos, de ações e respetivo investimento, a implementar entre 2024 e 2028 para a formação dos agentes SGIFR ao nível da formação profissional
 
 Valores de referência utilizados: 15 formandos/ação. 1.750 €/ação 25 horas.
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201531.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201531.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201532.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201532.png) |
+| --- |
 
 Tabela 30 - Estimativa do número de agentes SGIFR a formar por entidade, entre 2024 e 2028 nas microcredenciais de nível superior
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201533.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201533.png) |
+| --- |
 
 Tabela 31 - Estimativa do número de formandos, de ações e respetivo investimento, a implementar entre 2024 e 2028 para a formação dos agentes SGIFR ao nível das microcredenciais de nível superior
 
 Pressupostos da estimativa: 15 formandos por ação, e custo de 2.310 €/ação de 28 horas.
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201534.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201534.png) |
+| --- |
 
 PLANOS DE FORMAÇÃO/CONTEÚDOS PROGRAMÁTICOS E PRÉ-REQUISITOS DE CREDENCIAÇÃO DAS MICROCREDENCIAIS SGIFR DE NÍVEL SUPERIOR.
 
@@ -3126,267 +3275,398 @@ Tabelas 32 - Fichas de referenciais de formação/conteúdos programáticos micr
 | Viegas, D.X. (2006b). Modelação do comportamento do fogo. In J.S. Pereira, Pereira, J.M.C., Rego, F.C., Silva, J.M.N., Silva, T.P. (Ed.). Incêndios Florestais em Portugal: Caracterização, Impactes e Prevenção (pp. 288-323). Lisboa:ISAPress. |
 | Viegas, D.X. (2006c). Parametic Study of Eruptive Fire Behaviour Model. International Journal of WilDecreto-Leiand Fire, 15(2), 169-177. |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201535.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201535.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201536.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201536.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201537.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201537.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201538.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201538.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201539.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201539.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201540.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201540.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201541.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201541.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201542.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201542.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201543.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201543.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201544.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201544.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201545.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201545.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201546.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201546.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201547.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201547.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201548.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201548.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201549.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201549.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201550.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201550.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201551.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201551.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201552.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201552.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201553.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201553.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201554.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201554.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201555.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201555.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201556.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201556.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201557.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201557.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201558.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201558.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201559.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201559.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201560.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201560.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201561.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201561.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201562.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201562.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201563.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201563.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201564.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201564.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201565.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201565.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201566.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201566.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201567.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201567.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201568.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201568.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201569.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201569.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201570.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201570.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201571.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201571.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201572.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201572.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201573.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201573.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201574.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201574.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201575.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201575.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201576.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201576.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201577.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201577.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201578.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201578.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201579.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201579.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201580.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201580.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201581.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201581.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201582.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201582.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201583.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201583.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201584.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201584.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201585.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201585.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201586.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201586.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201587.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201587.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201588.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201588.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201589.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201589.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201590.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201590.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201591.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201591.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201592.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201592.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201593.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201593.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201594.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201594.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201595.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201595.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201596.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201596.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201597.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201597.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201598.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201598.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201599.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201599.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201600.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201600.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201601.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201601.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201602.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201602.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201603.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201603.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201604.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201604.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201605.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201605.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201606.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201606.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201607.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201607.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201608.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201608.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201609.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201609.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201610.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201610.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201611.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201611.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201612.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201612.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201613.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201613.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201614.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201614.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201615.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201615.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201616.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201616.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201617.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201617.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201618.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201618.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201619.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201619.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201620.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201620.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201621.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201621.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201622.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201622.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201623.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201623.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201624.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201624.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201625.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201625.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201626.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201626.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201627.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201627.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201628.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201628.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201629.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201629.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201630.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201630.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201631.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201631.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201632.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201632.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201633.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201633.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201634.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201634.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201635.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201635.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201636.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201636.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201637.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201637.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201638.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201638.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201639.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201639.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201640.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201640.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201641.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201641.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201642.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201642.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201643.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201643.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201644.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201644.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201645.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201645.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201646.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201646.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201647.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201647.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201648.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201648.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201649.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201649.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201650.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201650.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201651.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201651.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201652.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201652.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201653.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201653.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201654.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201654.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201655.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201655.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201656.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201656.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201657.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201657.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201658.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201658.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201659.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201659.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201660.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201660.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201661.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201661.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201662.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201662.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201663.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201663.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201664.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201664.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1126675658/1127201665.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1126675658/1127201665.png) |
+| --- |
 
 SIGLAS E ACRÓNIMOS gerais
 
@@ -3565,3 +3845,7 @@ SIGLAS E ACRÓNIMOS tabelas de funções, atividades chave e qualificações
 | vdd | Vigilância, deteção e dissuasão |
 | vp | Vigilância e deteção passiva (sem meios de supressão) |
 | va | Vigilância e deteção ativa com meios de supressão |
+
+119948401
+
+.Tbl2 { min-height:26px; } .Tbl3 { background-color:rgb(134,162,182); } .Tbl4 { text-align:center; } .Tbl5 { min-height:37px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl9 { min-height:28px; } .Tbl10 { min-height:47px; } .Tbl11 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl13 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl14 { min-height:18px; } .Tbl15 { background-color:rgb(134,162,182); vertical-align:top; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(134,162,182); border-bottom-style:solid; vertical-align:top; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl18 { background-color:rgb(134,162,182); border-top-color:rgb(0,0,0); border-top-width:1px; border-top-style:solid; vertical-align:top; } .Tbl19 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(193,207,217); border-bottom-style:solid; vertical-align:top; } .Tbl20 { background-color:rgb(193,207,217); vertical-align:top; } .Tbl21 { min-height:43px; } .Tbl22 { border-bottom-width:0px; border-bottom-style:solid; vertical-align:top; } .Tbl23 { border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl24 { border-top-width:0px; border-top-style:solid; vertical-align:top; } .Tbl25 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(134,162,182); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl26 { min-height:66px; } .Tbl27 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl28 { min-height:15px; } .Tbl29 { min-height:27px; } .Tbl30 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl31 { border-left-width:1px; border-top-width:0px; border-left-style:solid; border-top-style:none; border-left-color:rgb(0,0,0); vertical-align:top; } .Tbl32 { min-height:76px; } .Tbl33 { min-height:57px; } .Tbl34 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(193,207,217); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl35 { min-height:13px; } .Tbl36 { background-color:rgb(193,207,217); border-left-width:1px; border-top-width:0px; border-left-style:solid; border-top-style:none; border-left-color:rgb(0,0,0); vertical-align:top; } .Tbl37 { min-height:25px; } .Tbl38 { min-height:21px; } .Tbl39 { min-height:36px; } .Tbl40 { min-height:19px; } .Tbl41 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl42 { min-height:64px; } .Tbl43 { min-height:17px; } .Tbl44 { min-height:30px; } .Tbl45 { min-height:75px; } .Tbl46 { min-height:56px; } .Tbl47 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; background-color:rgb(134,162,182); border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl48 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; background-color:rgb(193,207,217); border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl49 { min-height:65px; } .Tbl50 { min-height:45px; } .Tbl51 { min-height:74px; } .Tbl52 { min-height:51px; } .Tbl53 { min-height:46px; } .Tbl54 { text-align:justify; text-align-last:justify; } .Tbl55 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl56 { border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; background-color:rgb(193,207,217); border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl57 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(134,162,182); border-bottom-style:solid; border-top-color:rgb(0,0,0); border-top-width:1px; border-top-style:solid; vertical-align:top; } .Tbl58 { min-height:24px; } .Tbl59 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(217,226,243); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl60 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(189,215,238); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl61 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(221,235,247); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl62 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(217,225,242); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl63 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(180,198,231); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl64 { min-height:29px; } .Tbl65 { min-height:39px; } .Tbl66 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(134,162,182); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl67 { border-left-width:1px; border-top-width:1px; border-left-style:solid; border-top-style:solid; border-left-color:rgb(0,0,0); vertical-align:top; } .Tbl68 { min-height:70px; } .Tbl69 { min-height:53px; } .Tbl70 { margin-top:3px; } .Tbl71 { min-height:38px; } .Tbl72 { min-height:73px; } .Tbl73 { min-height:55px; } .Tbl74 { min-height:72px; } .Tbl75 { min-height:54px; } .Tbl76 { min-height:33px; } .Tbl77 { page-break-after:always; } .Tbl78 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(193,207,217); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl79 { background-color:rgb(193,207,217); border-left-width:1px; border-top-width:1px; border-left-style:solid; border-top-style:solid; border-left-color:rgb(0,0,0); vertical-align:top; } .Tbl80 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl81 { background-color:rgb(134,162,182); border-left-width:0px; border-left-style:none; vertical-align:top; } .Tbl82 { min-height:81px; } .Tbl83 { min-height:12px; } .Tbl84 { min-height:16px; } .Tbl85 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(222,234,246); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl86 { border-bottom-width:0px; background-color:rgb(134,162,182); border-bottom-style:none; border-top-color:rgb(0,0,0); border-top-width:1px; border-top-style:solid; vertical-align:top; } .Tbl87 { min-height:82px; } .Tbl88 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); background-color:rgb(134,162,182); border-right-style:none; border-left-style:solid; vertical-align:top; } .Tbl89 { border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; }

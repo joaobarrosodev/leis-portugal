@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/39/2026/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2026-1049254411
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-13T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 521ae524e34ea8c2f8a1258b8624d6d9a5a8210da7ba57bd86bbbc5d01bcf915
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3cfe151dd05e398f40239f4a2774d6fc1d483548ed5dd292c1f795d77a36dcb6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Definição de Competências
 - Conselho Diretivo
+- Definição de Competências
 - Instituto de Informática
 - Orgânica
+- Pessoal Dirigente
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:196/2012
+  label: Altera, a partir de 1 de março de 2026, os artigos 1.º, 3.º, 5.º, 9.º e 13.º, adita os artigos 3.º-A e 14.º-A e revoga
+    o n.º 2 do artigo 3.º e o artigo 7.º do Decreto-Lei n.º 196/2012, de 23 de agosto, Diário da República n.º 163/2012, Série
+    I
+  source: null
+  date: '2012-08-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/196/2012/08/23/p/dre
   label: null
@@ -91,16 +98,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:175335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184108564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:08Z'
   warnings: []
   errors: []
 ---
@@ -139,23 +166,31 @@ Os artigos 1.º, 3.º, 5.º, 9.º e 13.º do [Decreto-Lei n.º 196/2012](https:/
 
 3 - O II, I. P., é equiparado a entidade pública empresarial, no âmbito das suas atribuições de construção, gestão e operação de sistemas aplicacionais e de infraestruturas tecnológicas nas áreas de tecnologias de informação e comunicação dos serviços e organismos da área governativa do trabalho, solidariedade e segurança social, numa lógica de serviços comuns partilhados, para efeitos de recrutamento de trabalhadores que desempenhem funções correspondentes ao conteúdo funcional das carreiras de técnico de informática e especialista de informática.
 
-###### Artigo 3.º — Missão
+Artigo 3.º
+
+Missão
 
 1 - O II, I. P., tem por missão definir e propor as políticas e estratégias de tecnologias de informação e comunicação, garantindo o planeamento, conceção, execução e avaliação das iniciativas de transformação digital dos serviços e organismos do MTSSS, e dos serviços por estes prestados à sociedade.
 
 2 - [Revogado.]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O conselho diretivo é composto por um presidente, um vice-presidente e dois vogais.
 
 2 - [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 Os membros do conselho diretivo são equiparados, para efeitos remuneratórios, a gestor público, tendo por referência as empresas públicas classificadas como grupo A.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -197,7 +232,9 @@ f) Assegurar a interoperabilidade com os organismos com atribuições interminis
 
 g) Prestar serviços a departamentos da área governativa do trabalho, solidariedade e segurança social, bem como a outros departamentos da Administração Pública, a empresas públicas ou a entidades privadas, com base em adequados instrumentos contratuais que determinem, designadamente, os níveis de prestação e respetivas contrapartidas.
 
-###### Artigo 14.º-A — Trabalhadores em cedência de interesse público no Instituto de Informática, I. P.
+Artigo 14.º-A
+
+Trabalhadores em cedência de interesse público no Instituto de Informática, I. P.
 
 1 - Atenta a equiparação a entidade pública empresarial prevista no n.º 3 do artigo 1.º, o II, I. P., pode propor a celebração de acordos de cedência de interesse público a trabalhadores detentores de contrato de trabalho em funções públicas, com ou sem vínculo ao II, I. P., nos termos previstos nos artigos 241.º e seguintes da Lei Geral do Trabalho em Funções Públicas, aprovada pela [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual e demais legislação aplicável, para desempenho de funções em carreira prevista no regulamento de carreiras do II, I. P.
 
@@ -219,12 +256,14 @@ O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua
 
 Visto e aprovado em Conselho de Ministros de 28 de novembro de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro - Rosário Palma Ramalho.
 
-**Promulgado em 4 de fevereiro de 2026.**
+Promulgado em 4 de fevereiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 5 de fevereiro de 2026.**
+Referendado em 5 de fevereiro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119947664

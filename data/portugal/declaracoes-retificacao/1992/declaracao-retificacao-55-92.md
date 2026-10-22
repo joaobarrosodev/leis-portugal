@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 100/1992, 2º Suplemento, Série I-B de 1992-04-30
   number: '100'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2018-(4) a 2018-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/04/100b02/00040005.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/55/1992/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/55-1992-515789
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-04-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:35:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b602f69281efcebd74d1efe096d5f4040e8db245d2e3c3af931b1c05f640e8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bbdc5fe13df9f0817305ee21f77d4885b8ee7a03bc6bcce4ef5af2f87ffcab66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:35:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
-- Direcção Regional da Orientação Pedagógica
-- Direcção Regional dos Assuntos Culturais
+- Açores
 - Direcção Regional da Administração Escolar
 - Direcção Regional da Educação Física e Desporto
+- Direcção Regional da Orientação Pedagógica
+- Direcção Regional dos Assuntos Culturais
 - Gabinete Técnico
-- Secretaria Regional da Educação e Cultura
+- Governo Regional
 - Inspecção Regional de Educação e Ensino
 - Orgânica
 - Quadro de Pessoal
 - Repartição dos Serviços Administrativos
+- Secretaria Regional da Educação e Cultura
 - Secretário Regional da Educação e Cultura
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
@@ -89,21 +89,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/42/1991/12/27/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/42/1991/12/27/a/dre
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:35:12Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 55/92
+# Declaração de rectificação n.º 55/92
 
 Para os devidos efeitos se declara que o [Decreto Regulamentar Regional n.º 42/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/42-1991-376426), publicado no Diário da República, n.º 298, de 27 de Dezembro de 1991, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 

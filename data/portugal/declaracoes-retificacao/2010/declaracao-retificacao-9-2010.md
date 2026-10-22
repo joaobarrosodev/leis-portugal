@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/9/2010/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-2010-611166
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:12:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34b0b17f30dbf340701552cdf4437ba5f1645242f1a8a5791f1d6c6576b1297e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cff53e0ca16addcd4d1959d41a3a2fe992145e9b4c7ee6a5bb9525b4260caaa8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:12:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Desempregado
+- Desemprego
 - Prazo de Garantia
 - Prestações da Segurança Social
 - Prestações de Desemprego
-- Desemprego
 - Proteção Social
 - Segurança Social
 - Subsídio de Desemprego
@@ -92,16 +92,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/324/2009/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/324/2009/12/29/p/dre
+- type: cites
+  target: pt:dre:482153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546202:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:220/2006
+  label: "Rectifica o art. 3º [ na parte que se refere ao Decreto-Lei n.º 220/2006, de 3 de Novembro ] do Dec Lei 324/2009,\
+    \ de 29-Dez DR. IS [250]\0\0"
+  source: null
+  date: '2009-12-29'
+- type: repealed_by
+  target: pt:dre:335209:por
+  label: "Revogado o Dec Lei 324/2009, de 29-Dez, rectificado pela presente declaração, pelo DEC LEI.77/2010.24.06.2010.MTSSO,\
+    \ DR.IS [121] de 24.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-2010-335209
+  date: '2010-06-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:12:59Z'
   warnings: []
   errors: []
 ---

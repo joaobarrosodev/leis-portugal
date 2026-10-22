@@ -27,7 +27,8 @@ entry_into_force_dates:
 - '2010-07-26'
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Fonte sem texto: o EUR-Lex tem versões consolidadas deste ato, mas nenhuma em português (verificado em 2026-10-22).'
 language: por
 version:
   kind: original

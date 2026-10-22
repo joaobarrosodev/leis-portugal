@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44429-1962-164591
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-06-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:29:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9899ffdbe88cb36f5ddb1a4d724c5e52fb2ad70b0baa2a5f2b79551e2c208d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b963acc2290cd817044503ba98d37e6c52f04a863ad1beeef89bfb25be42863
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:29:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479931:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:29:56Z'
   warnings: []
   errors: []
 ---
@@ -89,37 +97,37 @@ O empréstimo desdobrar-se-á em séries de 100000 contos cada uma, devendo toda
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º De harmonia com o disposto no [Decreto-Lei n.º 44361](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44361-1962-164401), de 23 de Maio de 1962, é autorizada a emissão de um empréstimo interno amortizável, denominado «Empréstimo de 2,5 por cento de 1962 - Província de Angola», até ao montante de 1 milhão de contos.
+Artigo 1.º De harmonia com o disposto no [Decreto-Lei n.º 44361](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44361-1962-164401), de 23 de Maio de 1962, é autorizada a emissão de um empréstimo interno amortizável, denominado «Empréstimo de 2,5 por cento de 1962 - Província de Angola», até ao montante de 1 milhão de contos.
 
-###### Art. 2.º O empréstimo será tomado integralmente pelo Banco de Angola, que porá à ordem da província o respectivo contravalor em escudos angolanos, a fim de serem aplicados em obras do II Plano de Fomento, a realizar na referida província de Angola.
+Art. 2.º O empréstimo será tomado integralmente pelo Banco de Angola, que porá à ordem da província o respectivo contravalor em escudos angolanos, a fim de serem aplicados em obras do II Plano de Fomento, a realizar na referida província de Angola.
 
-###### Art. 3.º O empréstimo desdobrar-se-á em séries de 100000 contos e será representado em certificados de dívida inscrita, correspondentes a 5000 obrigações, do valor nominal de 1000$00 cada uma.
+Art. 3.º O empréstimo desdobrar-se-á em séries de 100000 contos e será representado em certificados de dívida inscrita, correspondentes a 5000 obrigações, do valor nominal de 1000$00 cada uma.
 
-###### Art. 4.º Fica desde já autorizada a Direcção-Geral da Fazenda Pública a emitir imediatamente a obrigação geral correspondente à totalidade do empréstimo.
+Art. 4.º Fica desde já autorizada a Direcção-Geral da Fazenda Pública a emitir imediatamente a obrigação geral correspondente à totalidade do empréstimo.
 
-###### Art. 5.º As obrigações do empréstimo vencerão o juro de 2,5 por cento ao ano, pagável aos semestres, em 1 de Junho e 1 de Dezembro.
+Art. 5.º As obrigações do empréstimo vencerão o juro de 2,5 por cento ao ano, pagável aos semestres, em 1 de Junho e 1 de Dezembro.
 
 Nos primeiros juros a pagar observar-se-á o disposto no artigo 9.º do [Decreto-Lei n.º 44361](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44361-1962-164401), de 23 de Maio do corrente ano.
 
-###### Art. 6.º O empréstimo será amortizado em vinte anuidades iguais pelo valor nominal dos certificados, devendo a primeira amortização dos emitidos durante os anos de 1962, 1963 e 1964 efectuar-se, respectivamente, em 1 de Junho de 1967, em 1 de Junho de 1968 e em 1 de Junho de 1969.
+Art. 6.º O empréstimo será amortizado em vinte anuidades iguais pelo valor nominal dos certificados, devendo a primeira amortização dos emitidos durante os anos de 1962, 1963 e 1964 efectuar-se, respectivamente, em 1 de Junho de 1967, em 1 de Junho de 1968 e em 1 de Junho de 1969.
 
-###### Art. 7.º Nas datas fixadas nos artigos 5.º e 6.º, a província de Angola entregará ao Tesouro, em escudos metropolitanos, quantias iguais às despendidas por este para pagamento de juros e amortizações.
+Art. 7.º Nas datas fixadas nos artigos 5.º e 6.º, a província de Angola entregará ao Tesouro, em escudos metropolitanos, quantias iguais às despendidas por este para pagamento de juros e amortizações.
 
 § único. Sempre que o julgar conveniente, pode a província proceder a amortizações antecipadas.
 
 Nesse caso, poderá também o Tesouro, se assim o entender, antecipar as amortizações a que se refere o artigo 6.º
 
-###### Art. 8.º Os certificados representativos das diversas séries do empréstimo serão assentados ao Banco de Angola com a declaração de que constituem parte da reserva monetária do Banco, nos termos do n.º 3.º do artigo 20.º dos seus estatutos, com a redacção que lhe foi dada pelo Decreto-Lei n.º 43963, de 16 de Outubro de 1961.
+Art. 8.º Os certificados representativos das diversas séries do empréstimo serão assentados ao Banco de Angola com a declaração de que constituem parte da reserva monetária do Banco, nos termos do n.º 3.º do artigo 20.º dos seus estatutos, com a redacção que lhe foi dada pelo Decreto-Lei n.º 43963, de 16 de Outubro de 1961.
 
 § único. Quando isso se mostrar necessário ao bom funcionamento da reserva monetária do Banco, poderão os certificados ser utilizados para caucionar créditos concedidos pelo Banco de Portugal ou ser adquiridos por este.
 
-###### Art. 9.º Os certificados representativos do empréstimo gozam dos direitos, isenções e garantias consignados no artigo 22.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960, que lhes forem aplicáveis, assim como da isenção do imposto sobre as sucessões e doações, enquanto se mantiverem na situação indicada no corpo do artigo anterior.
+Art. 9.º Os certificados representativos do empréstimo gozam dos direitos, isenções e garantias consignados no artigo 22.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960, que lhes forem aplicáveis, assim como da isenção do imposto sobre as sucessões e doações, enquanto se mantiverem na situação indicada no corpo do artigo anterior.
 
-###### Art. 10.º Os encargos efectivos do empréstimo, excluídas as despesas da sua representação, não poderão exceder 2,5 por cento.
+Art. 10.º Os encargos efectivos do empréstimo, excluídas as despesas da sua representação, não poderão exceder 2,5 por cento.
 
-###### Art. 11.º No Orçamento Geral do Estado serão inscritas, anualmente, nos termos do artigo 14.º do [Decreto-Lei n.º 44361](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44361-1962-164401), de 23 de Maio de 1962, as verbas necessárias para ocorrer aos encargos deste empréstimo. Em contrapartida, serão inscritas importâncias iguais, a favor do Tesouro, no orçamento da província de Angola.
+Art. 11.º No Orçamento Geral do Estado serão inscritas, anualmente, nos termos do artigo 14.º do [Decreto-Lei n.º 44361](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44361-1962-164401), de 23 de Maio de 1962, as verbas necessárias para ocorrer aos encargos deste empréstimo. Em contrapartida, serão inscritas importâncias iguais, a favor do Tesouro, no orçamento da província de Angola.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Junho de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Adriano José Alves Moreira.
 

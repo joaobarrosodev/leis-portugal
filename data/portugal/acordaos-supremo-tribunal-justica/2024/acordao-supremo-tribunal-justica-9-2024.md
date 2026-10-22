@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/07/13100/0001500046.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/9/2024/07/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/9-2024-871292367
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-09T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d0007db540835d9bb71cab8a42ccef8f2ebe69273b974cc104e73487ab1d31a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2543cc47d28b1573d476aa3295a826164bae5f2b869f2bd7acb366158ab84870
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,10 +69,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Código Penal
 - Interpretação do Direito
 - Jurisprudencia
 - Legitimidade
-- Código Penal
 - Ministério Público
 - Violência Doméstica
 relationships:
@@ -120,16 +120,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/94/2021/12/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/94/2021/12/21/p/dre
+- type: cites
+  target: pt:dre:115946549:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122373680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124220738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169602019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176235804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640142:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:16Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +212,7 @@ Acordam, em conferência, no Pleno das Secções Criminais do Supremo Tribunal d
 
 I. RELATÓRIO
 
-I.1. A Assistente AA, não se conformando com o acórdão proferido em 13 de outubro de 2022 pela Relação de Lisboa, no processo n.º 560/19.2PATVD.L1, 9.ª secção, acórdão recorrido <sup>1</sup>, e invocando o artigo 437.º, n.º 2, do Código de Processo Penal (doravante CPP), veio, em 28 de novembro de 2022, interpor recurso extraordinário para fixação de jurisprudência.
+I.1. A Assistente AA, não se conformando com o acórdão proferido em 13 de outubro de 2022 pela Relação de Lisboa, no processo n.º 560/19.2PATVD.L1, 9.ª secção, acórdão recorrido 1, e invocando o artigo 437.º, n.º 2, do Código de Processo Penal (doravante CPP), veio, em 28 de novembro de 2022, interpor recurso extraordinário para fixação de jurisprudência.
 
 Trouxe como acórdão fundamento o proferido em 25 de setembro de 2017, pelo Tribunal da Relação de Guimarães, no âmbito do proc. n.º 505/15.9GAPTL.G1, publicado in www.dgsi.pt, ambos transitados em julgado.
 
@@ -258,7 +326,7 @@ E, assim, estão verificados todos os pressupostos formais de que depende a admi
 
 Em reapreciação da verificação dos pressupostos substanciais:
 
-Oposição de dois acórdãos de tribunais superiores tirados sob o domínio da mesma legislação (sem ocorrência de alteração no texto da lei que regula a situação controvertida) (art. 437.º, n.<sup>os</sup>1 e 2): A oposição tem de ocorrer entre dois acórdãos do Supremo Tribunal de Justiça (STJ) tirados em processos diferentes, ou um acórdão da Relação que não admite recurso ordinário e que não tenha decidido contra jurisprudência fixada e outro anterior de tribunal da mesma hierarquia ou do STJ.
+Oposição de dois acórdãos de tribunais superiores tirados sob o domínio da mesma legislação (sem ocorrência de alteração no texto da lei que regula a situação controvertida) (art. 437.º, n.os1 e 2): A oposição tem de ocorrer entre dois acórdãos do Supremo Tribunal de Justiça (STJ) tirados em processos diferentes, ou um acórdão da Relação que não admite recurso ordinário e que não tenha decidido contra jurisprudência fixada e outro anterior de tribunal da mesma hierarquia ou do STJ.
 
 Aqui estamos efetivamente na presença de dois acórdãos de diferentes tribunais superiores, o recorrido prolatado pelo Tribunal da Relação de Lisboa, o fundamento proferido pela Tribunal da Relação de Guimarães. A Recorrente descreveu a oposição e delimitou a visada uniformização.
 
@@ -314,7 +382,7 @@ Acórdão da Relação de Évora de 15/12/2016, proc. n.º 33/14.0GBADV.E1, Mari
 
 II.3. Fundamentos e decisão do acórdão fundamento
 
-O acórdão fundamento em “D”, sob o enunciado: “A possibilidade de prosseguimento dos autos, em lugar do imputado crime de violência doméstica, quanto a um crime de injúria p. e p. pelo artigo 181.º do C. Penal”, afirmou o seguinte <sup>2</sup> (transcrição):
+O acórdão fundamento em “D”, sob o enunciado: “A possibilidade de prosseguimento dos autos, em lugar do imputado crime de violência doméstica, quanto a um crime de injúria p. e p. pelo artigo 181.º do C. Penal”, afirmou o seguinte 2 (transcrição):
 
 “Defende a recorrente, a título subsidiário, que, em face da alteração da qualificação jurídica dos factos dados como assentes, deveria o tribunal a quo ter condenado o arguido pela prática de um crime de injúria, porquanto, tratando-se de um minus face ao crime de violência doméstica, não se subsume à previsão das normas dos artigos 358.º e 359.º do Código de Processo Penal e, porquanto, a assistente apresentou queixa e acompanhou a acusação pública.
 
@@ -504,7 +572,7 @@ b) A morte, o agente é punido com pena de prisão de três a dez anos.
 
 O texto original do DL [400/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1982-319744), de 23/09, que aprova o CP sofreu as alterações dos seguintes diplomas: DL [48/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1995-185720), de 15/03; [Lei n.º 65/98](https://diariodarepublica.pt/dr/detalhe/lei/65-1998-566854), de 02/09; [Lei n.º 7/2000](https://diariodarepublica.pt/dr/detalhe/lei/7-2000-291937), de 27/05; [Lei n.º 59/2007](https://diariodarepublica.pt/dr/detalhe/lei/59-2007-640142), de 04/09; [Lei n.º 19/2013](https://diariodarepublica.pt/dr/detalhe/lei/19-2013-258498), de 21/02; [Lei n.º 44/2018](https://diariodarepublica.pt/dr/detalhe/lei/44-2018-115946549), de 09/08; e [Lei n.º 57/2021](https://diariodarepublica.pt/dr/detalhe/lei/57-2021-169602019), de 16/08 (redação atual).
 
-É com a [Lei n.º 59/2007](https://diariodarepublica.pt/dr/detalhe/lei/59-2007-640142) que, que em tutela específica reforçada, se dá a autonomização do crime de violência doméstica perante quer o crime de maus tratos quer o crime de infração de regras de segurança, “em homenagem às variações de bem jurídico protegido” (in Exposição e motivos da Proposta de Lei n.º 98-X”). <sup>3</sup>
+É com a [Lei n.º 59/2007](https://diariodarepublica.pt/dr/detalhe/lei/59-2007-640142) que, que em tutela específica reforçada, se dá a autonomização do crime de violência doméstica perante quer o crime de maus tratos quer o crime de infração de regras de segurança, “em homenagem às variações de bem jurídico protegido” (in Exposição e motivos da Proposta de Lei n.º 98-X”). 3
 
 O crime de violência doméstica é público.
 
@@ -516,7 +584,7 @@ Injúria
 
 1 - Quem injuriar outra pessoa, imputando-lhe factos, mesmo sob a forma de suspeita, ou dirigindo-lhe palavras, ofensivos da sua honra ou consideração, é punido com pena de prisão até 3 meses ou com pena de multa até 120 dias.
 
-2 - Tratando-se da imputação de factos, é correspondentemente aplicável o disposto nos n.<sup>os</sup>2, 3 e 4 do artigo anterior.”
+2 - Tratando-se da imputação de factos, é correspondentemente aplicável o disposto nos n.os2, 3 e 4 do artigo anterior.”
 
 O bem jurídico protegido é a honra, “bem jurídico, necessariamente complexo - como o interesse da estima que cada um tem por si próprio, e simultaneamente, como valor de não desconsideração social.” (in “Comentário do Código Penal”, Pinto de Albuquerque, Universidade Católica Editora, 4.ª edição atualizada, nota ao artigo 181.º)
 
@@ -524,17 +592,17 @@ Assume natureza particular por força do disposto no artigo 188.º, n.º 1, do C
 
 No particular do ilícito penal de violência doméstica, quanto ao bem jurídico protegido, a posição dominante, tanto na doutrina como na jurisprudência, tem sido, até ao presente, a posição sufragada por Taipa de Carvalho (cfr Comentário Conimbricense do Código Penal”, I, 2.ª Edição, Coimbra Editora, 2012, pags 511 e 512). Na ótica do autor, o bem jurídico diretamente tutelado pelo crime de violência doméstica é a saúde, nas suas vertentes física, psíquica e mental, cuja ratio se funda “na proteção da pessoa individual e da sua dignidade humana”
 
-O que não é mais do que a concretização na lei ordinária dos ditames constitucionais dos artigos 1.º e 26.º, n.º 2, da CRP, garantias da dignidade pessoal, e 25.º, inviolabilidade da integridade moral e física das pessoas e proibição de tortura e de tratos ou penas cruéis, degradantes ou desumanos e também dos direitos fundamentais que a denominada Convenção de Istambul quer salvaguardar. <sup>4</sup>
+O que não é mais do que a concretização na lei ordinária dos ditames constitucionais dos artigos 1.º e 26.º, n.º 2, da CRP, garantias da dignidade pessoal, e 25.º, inviolabilidade da integridade moral e física das pessoas e proibição de tortura e de tratos ou penas cruéis, degradantes ou desumanos e também dos direitos fundamentais que a denominada Convenção de Istambul quer salvaguardar. 4
 
 Fala-se, portanto, de um bem jurídico plural ou complexo que poderá ser atingido por uma multiplicidade de condutas previstas na previsão legal.
 
-Na génese de tal incriminação está, assim, de forma decisiva, a tutela da pessoa humana na sua irrenunciável dimensão de liberdade e dignidade. Está, por isso, diretamente abrangida pelo âmbito da proteção dispensada por aquela norma penal, não só a integridade física propriamente dita, mas a saúde da pessoa ofendida, na sua globalidade e, enquanto tal, abrangendo o bem-estar físico, psíquico e mental, enquanto elemento essencial, indispensável à mais livre realização possível da personalidade de cada pessoa na comunidade <sup>5</sup>. No entanto Teresa Féria considera que o bem jurídico tutelado pelo artigo 152.º n.º 1 do Código Penal, não se confina à proteção jurídico-penal da saúde, física ou psíquica, por tal carecer de suficiente apoio constitucional (cf. “O Crime de Violência Doméstica: o antes e o depois da convenção de Istambul” in “Combate à Violência de Género: da Convenção de Istambul à nova legislação penal ” Universidade Católica Editora 2016, pág.185-209).
+Na génese de tal incriminação está, assim, de forma decisiva, a tutela da pessoa humana na sua irrenunciável dimensão de liberdade e dignidade. Está, por isso, diretamente abrangida pelo âmbito da proteção dispensada por aquela norma penal, não só a integridade física propriamente dita, mas a saúde da pessoa ofendida, na sua globalidade e, enquanto tal, abrangendo o bem-estar físico, psíquico e mental, enquanto elemento essencial, indispensável à mais livre realização possível da personalidade de cada pessoa na comunidade 5. No entanto Teresa Féria considera que o bem jurídico tutelado pelo artigo 152.º n.º 1 do Código Penal, não se confina à proteção jurídico-penal da saúde, física ou psíquica, por tal carecer de suficiente apoio constitucional (cf. “O Crime de Violência Doméstica: o antes e o depois da convenção de Istambul” in “Combate à Violência de Género: da Convenção de Istambul à nova legislação penal ” Universidade Católica Editora 2016, pág.185-209).
 
 O crime de violência doméstica é, assim, mais que a soma dos diversos ilícitos que o podem preencher, não sendo as condutas que integram o tipo consideradas autonomamente, mas antes valoradas globalmente na definição e integração de um comportamento revelador daquele ilícito. (cf. Taipa de Carvalho, in Comentário Conimbricense do Código Penal, Coimbra Editora, 2.ª edição, 2012, Tomo I, pág. 512, e ac. do STJ de 05/11/2008, processo n.º 08P2504, Maia Costa)
 
 Múltiplas ações de episódios de maus-tratos reiterados podem enquadrar ofensas à integridade física, sequestros, coações, ameaças, injúrias. Mas, quando praticadas em determinado contexto de relação de proximidade íntima podem configurar crime de violência doméstica.
 
-Daí que tipos penais como as ofensas simples (artigo 143.º, n.º 1, CP), a injúria (artigo 181.º), a ameaça (artigo 153.º), a coação (artigo 154.º), o sequestro simples (artigo 158.º, n.º 1), a devassa da vida privada (artigo 192.º, n.º 1. al. b)), as gravações e fotografias ilícitas (artigo 199.º, n.º 2, al b)) mantenham uma relação de grande proximidade com o tipo violência doméstica. E entre eles podem estabelecer-se relações de concurso: de concurso homogéneo e/ou heterogéneo (em relação de especialidade ou em relação de consunção), e de concurso aparente ou efectivo consoante as circunstâncias de cada caso. Uma decisão definitiva sobre o concurso de crimes pressuporá ainda a avaliação da realidade e das concretas circunstâncias do caso em apreciação <sup>6</sup>.
+Daí que tipos penais como as ofensas simples (artigo 143.º, n.º 1, CP), a injúria (artigo 181.º), a ameaça (artigo 153.º), a coação (artigo 154.º), o sequestro simples (artigo 158.º, n.º 1), a devassa da vida privada (artigo 192.º, n.º 1. al. b)), as gravações e fotografias ilícitas (artigo 199.º, n.º 2, al b)) mantenham uma relação de grande proximidade com o tipo violência doméstica. E entre eles podem estabelecer-se relações de concurso: de concurso homogéneo e/ou heterogéneo (em relação de especialidade ou em relação de consunção), e de concurso aparente ou efectivo consoante as circunstâncias de cada caso. Uma decisão definitiva sobre o concurso de crimes pressuporá ainda a avaliação da realidade e das concretas circunstâncias do caso em apreciação 6.
 
 Materializando-se nessa multiplicidade de comportamentos o crime de violência doméstica, abarca ações que maioritariamente se traduzem em crimes contra a integridade física, contra a liberdade pessoal, contra a reserva da vida privada e contra a honra. E, sendo assim, entre o crime de violência doméstica, art. 152.º, e o crime de injúria, 181.º, depara-se-nos um concurso aparente, só se aplicando, portanto, a pena estabelecida para aquele iniciando-se e prosseguindo o processo com tal desiderato. Não cabe entrar aqui, porém, na qualificação da relação existente, se especialidade, se consunção, já que há divergência na matéria, como bem o assinala Cristina Cardoso, in “O crime de violência doméstica e o concurso de normas e de crimes”, e-book CEJ, em tema de “Violência doméstica e de género e mutilação genital feminina”.
 
@@ -568,9 +636,9 @@ E se, nunca é demais enfatizá-lo, qualquer decisão jurisdicional se há de co
 
 II.7. Da legitimidade do Ministério Público para o exercício da ação penal e da legitimidade do assistente para a prossecução processual; a queixa, condição de procedibilidade, e a acusação particular, condição de prosseguibilidade, como pressupostos positivos da punição
 
-II.7.1. Como se sabe, o princípio da oficialidade do processo consagrado no artigo 219.º, n.º 1, da CRP, refletido nos artigos 48.º do CPP, 2.º e 4.º da L. [68/2019](https://diariodarepublica.pt/dr/detalhe/lei/68-2019-124220738), de 27/08, (EMºPº) e 3.º da L. [62/2013](https://diariodarepublica.pt/dr/detalhe/lei/62-2013-499514), de 26/08,(LOSJ), segundo o qual a promoção processual dos crimes é tarefa estadual a realizar oficiosamente e em completo alheamento da vontade e da atuação dos particulares, atribuindo-se ao MºPº a iniciativa e promoção processuais, não vale para os crimes semipúblicos, cujo procedimento está dependente de prévia queixa, nem para os crimes particulares, cujo procedimento, além da prévia queixa e da prévia constituição como assistente, depende também de dedução de acusação particular. (48.º, 49.º e 50.º CPP). Quer a queixa <sup>7</sup> quer a acusação particular são pressupostos positivos de punição e, nos casos em que o procedimento depende das respetivas pré-existências, sem elas falha a legitimidade do MP para o exercício da ação penal.
+II.7.1. Como se sabe, o princípio da oficialidade do processo consagrado no artigo 219.º, n.º 1, da CRP, refletido nos artigos 48.º do CPP, 2.º e 4.º da L. [68/2019](https://diariodarepublica.pt/dr/detalhe/lei/68-2019-124220738), de 27/08, (EMºPº) e 3.º da L. [62/2013](https://diariodarepublica.pt/dr/detalhe/lei/62-2013-499514), de 26/08,(LOSJ), segundo o qual a promoção processual dos crimes é tarefa estadual a realizar oficiosamente e em completo alheamento da vontade e da atuação dos particulares, atribuindo-se ao MºPº a iniciativa e promoção processuais, não vale para os crimes semipúblicos, cujo procedimento está dependente de prévia queixa, nem para os crimes particulares, cujo procedimento, além da prévia queixa e da prévia constituição como assistente, depende também de dedução de acusação particular. (48.º, 49.º e 50.º CPP). Quer a queixa 7 quer a acusação particular são pressupostos positivos de punição e, nos casos em que o procedimento depende das respetivas pré-existências, sem elas falha a legitimidade do MP para o exercício da ação penal.
 
-Queixa é a manifestação de vontade de procedimento criminal corporizada em qualquer meio capaz de a levar ao conhecimento do Ministério Público em tempo, apresentada pelo respetivo titular do direito, em regra, o ofendido, para que, com os factos relatados, o MP exerça a ação penal contra o autor do crime. (111.º CP e 49.º CPP). Trata-se de um pressuposto processual, um pressuposto positivo de punição, “cujo conteúdo contende com o próprio direito substantivo, na medida em que a sua teleologia e as intenções político-criminais que lhe presidem têm ainda a ver com condições de efetivação da punição, que nesta mesma encontram o seu fundamento e a sua razão de ser” <sup>8</sup> (cfr arts 113.º, 114.º, 115.º e 116.º do CP). Como condição de procedibilidade é conditio sine qua non do início do processo.
+Queixa é a manifestação de vontade de procedimento criminal corporizada em qualquer meio capaz de a levar ao conhecimento do Ministério Público em tempo, apresentada pelo respetivo titular do direito, em regra, o ofendido, para que, com os factos relatados, o MP exerça a ação penal contra o autor do crime. (111.º CP e 49.º CPP). Trata-se de um pressuposto processual, um pressuposto positivo de punição, “cujo conteúdo contende com o próprio direito substantivo, na medida em que a sua teleologia e as intenções político-criminais que lhe presidem têm ainda a ver com condições de efetivação da punição, que nesta mesma encontram o seu fundamento e a sua razão de ser” 8 (cfr arts 113.º, 114.º, 115.º e 116.º do CP). Como condição de procedibilidade é conditio sine qua non do início do processo.
 
 A acusação particular é, nos casos em que desta depende o prosseguimento do processo, a acusação deduzida pelo queixoso, já constituído assistente, findo o inquérito e, depois de notificado para tanto, independentemente do MP e da posição que este venha a tomar na matéria (CPP, art. 285.º). Como condição de prosseguibilidade ou pressuposto de prosseguimento o processo não avança sem a sua dedução.
 
@@ -678,7 +746,7 @@ Esse excesso cautelar seria certamente fulminado logo a seguir com a declaraçã
 
 II.7.7. A conclusão de que seria extemporâneo e absurdo a exigência de dedução de uma formal acusação particular, a decalcar parte da acusação pública já deduzida e em tempo processual correto já acompanhada pelo assistente particular, é também a única solução condizente com a ratio da exigência da acusação particular como condição de prosseguibilidade nos crimes particulares.
 
-Como vimos supra, a existência de crimes particulares funda-se na circunstância de ou se estar perante infrações em que o maior interessado na sua não perseguição pode ser a própria vítima, dada a intimidade ou privacidade do bem jurídico atingido, e o melhor guardião dessa privacidade, sabe-se, é o próprio ofendido, ou se estar perante ilícitos de menor densidade jurídico-penal, bagatelas penais e pequena criminalidade, ou o ocorrerem dentro de relações pessoais de grande proximidade <sup>9</sup>. E com tais fundamentos se coloca na inteira vontade, interesse ou conveniência do ofendido a tutela do seu bem jurídico, conferindo-lhe o legislador a total disponibilidade do processo, por considerá-lo o melhor juiz da sua decisão de promoção ou não promoção processual nesses tipos de ilícito.
+Como vimos supra, a existência de crimes particulares funda-se na circunstância de ou se estar perante infrações em que o maior interessado na sua não perseguição pode ser a própria vítima, dada a intimidade ou privacidade do bem jurídico atingido, e o melhor guardião dessa privacidade, sabe-se, é o próprio ofendido, ou se estar perante ilícitos de menor densidade jurídico-penal, bagatelas penais e pequena criminalidade, ou o ocorrerem dentro de relações pessoais de grande proximidade 9. E com tais fundamentos se coloca na inteira vontade, interesse ou conveniência do ofendido a tutela do seu bem jurídico, conferindo-lhe o legislador a total disponibilidade do processo, por considerá-lo o melhor juiz da sua decisão de promoção ou não promoção processual nesses tipos de ilícito.
 
 O legislador, em sistema unitário, organizado e coerente para todas essas situações, confere ao ofendido inteira disponibilidade mas cobra-lhe correspetivamente um “custo”, o máximo empenhamento no iter processual, dependendo da sua vontade o início, com a queixa, e o andamento subsequente, com a constituição de assistente e com a dedução e sustentação de acusação particular.
 
@@ -732,19 +800,19 @@ Estar a exigir agora e a final uma condição de prosseguibilidade que antes era
 
 Tanto mais incongruente esse desarme quanto os crimes particulares são aqueles onde o legislador maior operacionalidade quer conferir à disponibilidade da vontade do ofendido na perseguição criminal (seja porque se trata de ilícitos de menor gravidade, seja porque se quer evitar a intromissão na esfera das relações pessoais, seja porque deixa ao domínio do ofendido a vontade da reserva da sua vida mais privada, etc), hipóteses em que ao significado pessoal ou criminal relativamente pequeno do crime se liga uma alta medida de disponibilidade do bem jurídico respetivo.
 
-Com a 4.ª Revisão Constitucional, introduzindo-se o n.º 7 ao artigo 32.º da CRP, conferiu-se dignidade constitucional ao direito do ofendido a intervir no processo e, em posição reforçada, como sujeito processual de assistente. Por isso, “O critério que transparece da jurisprudência do Tribunal Constitucional traduz-se na inadmissibilidade de o legislador ordinário restringir o direito de intervenção do ofendido no processo de forma desadequada, desnecessária ou arbitrária” (Acs n.<sup>os</sup>338/06 e 325/06). [...] No que respeita ao exercício dos direitos que a lei processual atribui ao assistente decide-se, de modo idêntico, que o mesmo não pode sofrer restrições excessivas ou desproporcionadas - ou seja, o ofendido não pode ser privado “daqueles poderes processuais que se revelam decisivos para a defesa dos seus interesses. Acs n.<sup>os</sup>205/01 e 464/03 [...].” (in “Constituição Portuguesa Anotada”, Jorge Miranda e Rui Medeiros, I, UCE, 2.ª edição revista)
+Com a 4.ª Revisão Constitucional, introduzindo-se o n.º 7 ao artigo 32.º da CRP, conferiu-se dignidade constitucional ao direito do ofendido a intervir no processo e, em posição reforçada, como sujeito processual de assistente. Por isso, “O critério que transparece da jurisprudência do Tribunal Constitucional traduz-se na inadmissibilidade de o legislador ordinário restringir o direito de intervenção do ofendido no processo de forma desadequada, desnecessária ou arbitrária” (Acs n.os338/06 e 325/06). [...] No que respeita ao exercício dos direitos que a lei processual atribui ao assistente decide-se, de modo idêntico, que o mesmo não pode sofrer restrições excessivas ou desproporcionadas - ou seja, o ofendido não pode ser privado “daqueles poderes processuais que se revelam decisivos para a defesa dos seus interesses. Acs n.os205/01 e 464/03 [...].” (in “Constituição Portuguesa Anotada”, Jorge Miranda e Rui Medeiros, I, UCE, 2.ª edição revista)
 
 E a posição reforçada do assistente como sujeito processual levou já o STJ no seu AFJ n.º 5/2011 a entender que, “Em processo por crime público ou semipúblico, o assistente que não deduziu acusação autónoma nem aderiu à acusação pública pode recorrer da decisão de não pronúncia, em instrução requerida pelo arguido, e da sentença absolutória, mesmo não havendo recurso do Ministério Público.” Porque, como aí se disse, remetendo para Cláudia Santos, in RPCC, 2008, páginas 159 e 160, "o assistente tem um interesse próprio e concreto na resposta punitiva que é paralelo ao interesse comunitário na realização da justiça", sendo nessa "coincidência (ainda que apenas relativa e tendencial)" entre o "interesse da comunidade na administração da justiça penal" e o "interesse concreto do assistente em que a justiça penal encontre uma resposta adequada para a ofensa que lhe foi causada" que deve ser encontrado "o fundamento para a possibilidade de recurso autónomo do assistente em matéria penal" (RPCC, 2008, páginas 159 e 160). E é com a aquisição dessa qualidade que o assistente afirma a pretensão de fazer valer no processo esse interesse próprio.
 
 Taipa de Carvalho, in “Sucessão de Leis Penais”, Coimbra Editora, 1990, pag 245, sobre “o problema quanto ao termo a quo da contagem do prazo para exercer o direito de queixa (ou de acusação particular), quando a L.N., que converte o crime de público em semipúblico, entrar em vigor num momento em que já tenha decorrido o prazo para apresentar queixa (cf CP, 112,1.º) e o Ministério Público ainda não tenha promovido o processo penal” e sobre o problema idêntico que surge “quando a LN que encurta o prazo para exercer o direito de queixa, entre em vigor num momento em que o novo prazo - que não o antigo - já correu”, assinala igualmente que “é preciso ter em conta as especialidades da queixa e da acusação particular” já que “na queixa e na acusação particular, confluem razões (públicas) político-criminais e razões pessoais do ofendido para concluir que “ressalvado o princípio da aplicação retroactiva da lei nova favorável ao infrator, seja razoável consagrar uma solução que também contemple a posição pessoal do ofendido, posição que o legislador também teve em atenção ao estabelecer a exigência da queixa.”
 
-Posição pessoal e processual de um sujeito processual, o assistente, que não pode ser desconsiderada em visão exasperadamente formalista, ao arrepio da razoabilidade e da proporcionalidade, em violação da teleologia da condição de prosseguibilidade e da sua funcionalidade, e em ostensiva quebra da “harmonia e unidade dos vários actos do processo” <sup>10</sup>, ademais quando um tribunal já julgou como provados factos integrantes de um ilícito penal e já emitiu um juízo de culpabilidade.
+Posição pessoal e processual de um sujeito processual, o assistente, que não pode ser desconsiderada em visão exasperadamente formalista, ao arrepio da razoabilidade e da proporcionalidade, em violação da teleologia da condição de prosseguibilidade e da sua funcionalidade, e em ostensiva quebra da “harmonia e unidade dos vários actos do processo” 10, ademais quando um tribunal já julgou como provados factos integrantes de um ilícito penal e já emitiu um juízo de culpabilidade.
 
-Desconsideração ao arrepio do reforço da posição processual do assistente a partir do novo enfoque que se vem emprestando à figura do ofendido/lesado “olhando a outra margem do crime, ao nível do resultado, do ofendido, não apenas do seu autor, mas da vítima” (in ac. do STJ de 20/11/2014, 87/14.9YFLSB, Raul Borges) ou a “outra realidade do crime, a dos interesses da vítima, cuja importância tem vindo a ser reconhecida em crescendo, sendo que, embora a figura da vítima se não confunda com a do assistente (este, enquanto sujeito processual), ambas as figuras coexistem, as mais das vezes, na mesma pessoa” (in AFJ n.º 2/2022, Francisco Caetano); sem chamarmos à colação o direito internacional e europeu <sup>11</sup> que, para sua proteção efetiva e integral, reintegração dos valores ofendidos e evitação de vitimização secundária, tem vindo a dar foros de cidadania à vítima e a relevar e revalorizar o seu direito de participação ativa no processo penal, este com consagração já no n.º 4 do artigo 67.º-A do CPP.
+Desconsideração ao arrepio do reforço da posição processual do assistente a partir do novo enfoque que se vem emprestando à figura do ofendido/lesado “olhando a outra margem do crime, ao nível do resultado, do ofendido, não apenas do seu autor, mas da vítima” (in ac. do STJ de 20/11/2014, 87/14.9YFLSB, Raul Borges) ou a “outra realidade do crime, a dos interesses da vítima, cuja importância tem vindo a ser reconhecida em crescendo, sendo que, embora a figura da vítima se não confunda com a do assistente (este, enquanto sujeito processual), ambas as figuras coexistem, as mais das vezes, na mesma pessoa” (in AFJ n.º 2/2022, Francisco Caetano); sem chamarmos à colação o direito internacional e europeu 11 que, para sua proteção efetiva e integral, reintegração dos valores ofendidos e evitação de vitimização secundária, tem vindo a dar foros de cidadania à vítima e a relevar e revalorizar o seu direito de participação ativa no processo penal, este com consagração já no n.º 4 do artigo 67.º-A do CPP.
 
 No direito ao processo justo cabem igualmente os “direitos do ofendido (eventualmente na condição de assistente) que deve também ser admitido em paridade com o arguido a defender os seus direitos.” (Germano Marques da Silva, “Direito Processual Penal Português”, I, UCE, 2020, pag. 50).
 
-Destarte, também a posição de aceitar a legitimidade do MP e do ofendido/assistente é a que melhor entronca na posição da pessoa do assistente como sujeito processual e no princípio da lealdade processual <sup>12</sup> (cfr acs do TC n.<sup>os</sup>429/95, 39/2004, 44/2004, 159/2004 e 722/2004).
+Destarte, também a posição de aceitar a legitimidade do MP e do ofendido/assistente é a que melhor entronca na posição da pessoa do assistente como sujeito processual e no princípio da lealdade processual 12 (cfr acs do TC n.os429/95, 39/2004, 44/2004, 159/2004 e 722/2004).
 
 Aqui, igualmente postergando uma leitura exasperadamente formalista e privilegiando a substância e a finalidade do processo penal.
 
@@ -772,7 +840,7 @@ Com o que, para célere e equitativa declaração do direito ao caso em realiza�
 
 II.7.10. O artigo 20.º, n.º 1, da Constituição dispõe que “a todos é assegurado o acesso ao direito e aos tribunais para defesa dos seus direitos e interesses legalmente protegidos”, o que, como o Tribunal Constitucional tem entendido, implica o reconhecimento da garantia da via judiciária, a qual se estende necessariamente a todos os direitos e interesses legítimos, ou seja, a todas as situações juridicamente protegidas.
 
-É indiscutível a existência de um legítimo interesse específico do ofendido/assistente ver a sua pretensão conhecida e decidida em tempo útil, em sujeição a julgamento do ou dos autores do crime de que foi vítima. (cfr acs do TC n.<sup>os</sup>24/88 e 690/98). E se assim é nos crimes públicos por maioria de razão o é nos crimes particulares.
+É indiscutível a existência de um legítimo interesse específico do ofendido/assistente ver a sua pretensão conhecida e decidida em tempo útil, em sujeição a julgamento do ou dos autores do crime de que foi vítima. (cfr acs do TC n.os24/88 e 690/98). E se assim é nos crimes públicos por maioria de razão o é nos crimes particulares.
 
 Este interesse já vinha sendo juridicamente protegido através do próprio instituto do assistente e do direito à sua constituição e dos diversos poderes de intervenção e de conformação processual que a lei lhe vinha reconhecendo e continua a reconhecer.
 
@@ -838,26 +906,28 @@ Em face do exposto, o Pleno das Secções Criminais do Supremo Tribunal de Justi
 
 Supremo Tribunal de Justiça, 29 de maio de 2024. - (Processado e revisto pelo relator) - Ernesto Carlos dos Reis Vaz Pereira (Relator) - Agostinho Soares Torres - António Latas - Jorge Gonçalves - João António Gonçalves Fernandes Rato - Heitor Vasques Osório - Jorge Manuel Almeida dos Reis Bravo - Albertina das Dores Nunes Aveiro Pereira - Celso José das Neves Manata - Helena Isabel Gonçalves Moniz Falcão de Oliveira - José Luís Lopes da Mota - Nuno A. Gonçalves - Maria Teresa Féria Gonçalves de Almeida - Ana Maria Barata de Brito - Maria do Carmo da Silva Dias - Pedro B. Ferreira Dias - Leonor Furtado.
 
-<sup>1</sup> Tirado sobre acórdão proferido em 24/05/2022, Juízo Central Criminal de Loures, Juiz 5, Tribunal Judicial da comarca de Lisboa Norte.
+1 Tirado sobre acórdão proferido em 24/05/2022, Juízo Central Criminal de Loures, Juiz 5, Tribunal Judicial da comarca de Lisboa Norte.
 
-<sup>2</sup> Transcrição sem notas de rodapé.
+2 Transcrição sem notas de rodapé.
 
-<sup>3</sup> Pode ver-se uma breve síntese da evolução legislativa do tipo legal de violência doméstica em “Sobre o(s) mau(s) trato(s) punível(eis) no crime de violência doméstica - contributos para a sua compreensão”, MARGARIDA SANTOS, “A Revista” STJ, n.º 4, 173 e segs.
+3 Pode ver-se uma breve síntese da evolução legislativa do tipo legal de violência doméstica em “Sobre o(s) mau(s) trato(s) punível(eis) no crime de violência doméstica - contributos para a sua compreensão”, MARGARIDA SANTOS, “A Revista” STJ, n.º 4, 173 e segs.
 
-<sup>4</sup> Trata-se da “Convenção do Conselho da Europa para a Prevenção e o Combate à Violência contra as Mulheres e a Violência Doméstica”, concluída em Istambul em 11/05/2011, assinada por Portugal nessa data e com início de vigência relativamente a Portugal em 01/08/2014. Foi aprovada pela [Resolução da Assembleia da República n.º 4/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/4-2013-257059), de 21/01 e ratificada pelo [Decreto do Presidente da República n.º 13/2013](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/13-2013-257051), de 21/01.
+4 Trata-se da “Convenção do Conselho da Europa para a Prevenção e o Combate à Violência contra as Mulheres e a Violência Doméstica”, concluída em Istambul em 11/05/2011, assinada por Portugal nessa data e com início de vigência relativamente a Portugal em 01/08/2014. Foi aprovada pela [Resolução da Assembleia da República n.º 4/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/4-2013-257059), de 21/01 e ratificada pelo [Decreto do Presidente da República n.º 13/2013](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/13-2013-257051), de 21/01.
 
-<sup>5</sup> Não cabendo aqui o desenvolvimento da problemática do bem jurídico protegido, remete-se para o exaustivo acórdão do STJ de 30/10/2019, proc. n.º 39/16.4TRGMR.S2, Vinício Ribeiro, onde se esquematizam as várias correntes e se remete para a inúmera doutrina e jurisprudência sobre a matéria.
+5 Não cabendo aqui o desenvolvimento da problemática do bem jurídico protegido, remete-se para o exaustivo acórdão do STJ de 30/10/2019, proc. n.º 39/16.4TRGMR.S2, Vinício Ribeiro, onde se esquematizam as várias correntes e se remete para a inúmera doutrina e jurisprudência sobre a matéria.
 
-<sup>6</sup> Cfr “Concurso de crimes e violência doméstica”, Ana Barata Brito, “Revista do CEJ”, n.º 2, 2018, pags 91-113.
+6 Cfr “Concurso de crimes e violência doméstica”, Ana Barata Brito, “Revista do CEJ”, n.º 2, 2018, pags 91-113.
 
-<sup>7</sup> A queixa não se confunde com a denúncia (cfr 242.º a 244.º do CPP) nem com a participação de autoridade pública (arts 188.º, n.º 1, al.b), 319.º, n.º 2, 324.º, 383.º, n.º 3, do CP).
+7 A queixa não se confunde com a denúncia (cfr 242.º a 244.º do CPP) nem com a participação de autoridade pública (arts 188.º, n.º 1, al.b), 319.º, n.º 2, 324.º, 383.º, n.º 3, do CP).
 
-<sup>8</sup> Figueiredo Dias, “Direito Penal Português, As Consequências Jurídicas do Crime”, 1993, p. 663.
+8 Figueiredo Dias, “Direito Penal Português, As Consequências Jurídicas do Crime”, 1993, p. 663.
 
-<sup>9</sup> Cfr “Direito Penal”, I, 2.ª edição, Simas Santos e Leal Henriques, Rei dos Livros, 798; e também, acentuando o carácter pragmático da distinção da natureza dos crimes, Germano Marques da Silva, “Direito Processual Penal Português”, I, UCE, 2020, pag. 253.
+9 Cfr “Direito Penal”, I, 2.ª edição, Simas Santos e Leal Henriques, Rei dos Livros, 798; e também, acentuando o carácter pragmático da distinção da natureza dos crimes, Germano Marques da Silva, “Direito Processual Penal Português”, I, UCE, 2020, pag. 253.
 
-<sup>10</sup> “Harmonia e unidade dos vários actos do processo” é princípio que o CPP reivindica, a propósito da aplicação da lei processual no tempo, no seu artigo 5.º, n.º 2, al. b).
+10 “Harmonia e unidade dos vários actos do processo” é princípio que o CPP reivindica, a propósito da aplicação da lei processual no tempo, no seu artigo 5.º, n.º 2, al. b).
 
-<sup>11</sup> Em breve síntese, v. “A vítima no Direito Internacional e Europeu dos Direitos Humanos”, in “O papel da vítima no processo penal português”, Filipa Pereira, universidade católica editora, 2019.
+11 Em breve síntese, v. “A vítima no Direito Internacional e Europeu dos Direitos Humanos”, in “O papel da vítima no processo penal português”, Filipa Pereira, universidade católica editora, 2019.
 
-<sup>12</sup> A respeito de um processo leal e respeitador da “confiança legítima” dos cidadãos nas decisões dos tribunais, decorrente do conceito de Estado de Direito, Paulo Pinto de Albuquerque, ibidem, cita o “enfático” acórdão do TEDH Scoppola v. Itália (n.º 2) (GC), de 17/02/2009.
+12 A respeito de um processo leal e respeitador da “confiança legítima” dos cidadãos nas decisões dos tribunais, decorrente do conceito de Estado de Direito, Paulo Pinto de Albuquerque, ibidem, cita o “enfático” acórdão do TEDH Scoppola v. Itália (n.º 2) (GC), de 17/02/2009.
+
+117869528

@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 10/2008, 1º Suplemento, Série I de 2008-01-15
   number: '10'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 542-(2) a 542-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/01/01001/0000200002.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/1-c/2008/01/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-c-2008-437420
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-16T00:00:00Z'
+  retrieved_at: '2026-10-22T19:09:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 941c6f594cc096816e7d004f7c2da2b2398ac263a90c7d9c060f15c7583075b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3c3df33dc4201e0fceb6dea99273670cb946d4f3f66df23361373e73b104aea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:09:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Câmara Municipal
 - Comissão de Acompanhamento
-- Ordenamento do Território
-- Plano Director Municipal
 - Definição de Competências
 - Direcção Geral do Ordenamento do Território
-- Câmara Municipal
+- Ordenamento do Território
+- Plano Director Municipal
 - Regulamento Interno
 relationships:
 - type: amended_by
@@ -92,16 +92,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/290/2003/04/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/290/2003/04/05/p/dre
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628363:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:portaria:1474/2007
+  label: "Rectifica a Portaria n.º 1474/2007, de 16 de Novembro, DR.IS [221], procedendo à publicação do anexo a que se refere\
+    \ a alínea a) do n.º 1 do artigo 7.º \0\0"
+  source: null
+  date: '2007-11-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:09:28Z'
   warnings: []
   errors: []
 ---

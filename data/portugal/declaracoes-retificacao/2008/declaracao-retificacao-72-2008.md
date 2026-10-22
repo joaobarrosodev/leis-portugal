@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/72/2008/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/72-2008-440499
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:10:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed2b8c9cf82b60aa6be8d11f4137649fe034e9c6ff614e7265709f03370bf00b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3e4254a063411b5fb52ef282e8263408ddd9e976092b27233ba709e5eda314d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:10:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,19 +69,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
-- Proteção da Floresta
+- Aproveitamento Agrícola
+- Exploração Florestal
 - Ordenamento Florestal
 - Plano de Gestão Florestal
-- Exploração Florestal
+- Proder
+- Proteção da Floresta
 - Regulamento
 - Regulamento de Aplicação da Acção N.º 2.3.2.-ordenamento e Recuperação de Póvoamentos
-- Aproveitamento Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:343948:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:343948:por
+  label: "Alterado o art. 14º do Regulamento, aprovado pela Port 1137-B/2008, de 09-Out, rectificada pela presente declaração,\
+    \ pela PORT.814/2010.27.08.2010.MADRP, DR.IS [167] de 27.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-2010-343948
+  date: '2010-08-27'
 - type: cites
   target: celex:32003R1782
   label: null
@@ -93,13 +99,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:10:47Z'
   warnings: []
   errors: []
 ---
@@ -126,10 +132,10 @@ deve ler-se:
 
 3 - No quadro do anexo ii, na parte relativa às espécies resinosas, onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/12/23600/0865508656.pdf))](https://files.diariodarepublica.pt/1s/2008/12/23600/0865508656.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/12/23600/0865508656.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/12/23600/0865508656.pdf))](https://files.diariodarepublica.pt/1s/2008/12/23600/0865508656.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/12/23600/0865508656.pdf)
 
 Centro Jurídico, 3 de Dezembro de 2008. - A Directora, Susana de Meneses Brasil de Brito.

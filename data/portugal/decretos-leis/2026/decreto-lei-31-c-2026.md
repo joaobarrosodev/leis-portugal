@@ -25,9 +25,7 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -48,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/31-c/2026/02/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-c-2026-1039107607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-14T00:00:00Z'
+  retrieved_at: '2026-10-22T18:31:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 170fad5a4b962bb2f7e33f52f6f4b0fc3465bb690bc2789283f6ed215ac477ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c283fda71fa06584ed3a0042cae88005a2fb4bf6c27d1626ece6964f0606ac64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:31:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Apoio Extraordinário às Famílias mais Vulneráveis
 - Conselho de Ministros
+- Financiamento
 - Financiamento da Segurança Social
-- Remuneração Acessória
+- Governo
 - LAY OFF
 - Orçamento Geral do Estado
 - Remuneração
-- Governo
-- Violência Doméstica
+- Remuneração Acessória
 - Situação de Calamidade
-- Apoio Extraordinário às Famílias mais Vulneráveis
+- Violência Doméstica
 relationships:
 - type: amended_by
   target: pt:dre:1085638495:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1084346068:por
+  label: Alterado, por apreciação parlamentar, o artigo 22.º e aditados os artigos 22.º-A e 36.º-A, ao presente diploma, pelo(a)
+    Lei n.º 12/2026 - Diário da República n.º 72/2026, Série I de 2026-04-14, com efeitos em que o acréscimo de despesa, nos
+    termos do seu artigo 4.º entra em vigor com o Orçamento do Estado subsequente à sua publicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-2026-1084346068
+  date: '2026-04-14'
 - type: cites
   target: eli:http://data.dre.pt/e
   label: null
@@ -123,16 +128,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/15-c/2026/02/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/15-c/2026/02/01/p/dre
+- type: cites
+  target: pt:dre:1031784677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1031784680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114796179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66325237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66443115:por
+  label: null
+  source: null
 article_structure:
   article_count: 41
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:31:32Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +190,7 @@ validation:
 
 de 5 de fevereiro
 
-Através das Resoluções do Conselho de Ministros n.<sup>o</sup>[15-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-b-2026-1031784677), de 30 de janeiro e n.º [15-C/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-c-2026-1031784680), de 1 de fevereiro, foi declarada e posteriormente prorrogada a situação de calamidade na sequência dos danos causados pela tempestade «Kristin» e dos eventos meteorológicos que se seguiram, sem prejuízo de nova prorrogação em caso de justificada necessidade, ficando igualmente delimitados concelhos abrangidos por essa situação.
+Através das Resoluções do Conselho de Ministros n.o[15-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-b-2026-1031784677), de 30 de janeiro e n.º [15-C/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-c-2026-1031784680), de 1 de fevereiro, foi declarada e posteriormente prorrogada a situação de calamidade na sequência dos danos causados pela tempestade «Kristin» e dos eventos meteorológicos que se seguiram, sem prejuízo de nova prorrogação em caso de justificada necessidade, ficando igualmente delimitados concelhos abrangidos por essa situação.
 
 No âmbito das referidas resoluções do Conselho de Ministros, foram definidas algumas medidas excecionais e apoios a atribuir às populações afetadas, que, face à extensão e gravidade da situação, cumpre atualizar, alargando as medidas e apoios.
 
@@ -269,7 +318,7 @@ A isenção parcial do pagamento de contribuições prevista na alínea b) do ar
 
 ###### Artigo 13.º — Trabalhadores abrangidos
 
-1 - A isenção parcial do pagamento de contribuições à segurança social destina-se à contratação de trabalhadores que se encontrem em situação de desemprego por motivo diretamente causado pela situação de calamidade, identificadas nas Resoluções do Conselho de Ministros n.<sup>os</sup>[15-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-b-2026-1031784677), de 30 de janeiro, e [15-C/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-c-2026-1031784680) de 1 de fevereiro, bem como de eventuais prorrogações e alargamento geográfico.
+1 - A isenção parcial do pagamento de contribuições à segurança social destina-se à contratação de trabalhadores que se encontrem em situação de desemprego por motivo diretamente causado pela situação de calamidade, identificadas nas Resoluções do Conselho de Ministros n.os[15-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-b-2026-1031784677), de 30 de janeiro, e [15-C/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-c-2026-1031784680) de 1 de fevereiro, bem como de eventuais prorrogações e alargamento geográfico.
 
 2 - Para efeitos do disposto no número anterior, são consideradas as contratações efetuadas no período de um ano a contar da data de entrada em vigor do presente decreto-lei, sem prejuízo das contratações efetuadas a partir da data da entrada em vigor da [Resolução do Conselho de Ministros n.º 15-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-b-2026-1031784677), de 30 de janeiro.
 
@@ -537,7 +586,7 @@ b) Proposta de plano de qualificação e formação profissional extraordinário
 
 9 - No caso do apoio aos trabalhadores independentes, o pedido de prorrogação do período de concessão do apoio é apresentado nos termos previstos no n.º 5.
 
-10 - O IEFP, I. P., profere decisão sobre os pedidos de prorrogação do período de concessão do apoio previsto nos n.<sup>os</sup>7 e 9, no prazo máximo de 10 dias úteis, contados a partir da data da sua apresentação, devendo o empregador ou o trabalhador independente remeter um aditamento ao termo de aceitação previsto no n.º 6.
+10 - O IEFP, I. P., profere decisão sobre os pedidos de prorrogação do período de concessão do apoio previsto nos n.os7 e 9, no prazo máximo de 10 dias úteis, contados a partir da data da sua apresentação, devendo o empregador ou o trabalhador independente remeter um aditamento ao termo de aceitação previsto no n.º 6.
 
 ###### Artigo 33.º — Pagamento dos apoios
 
@@ -629,7 +678,7 @@ São desenvolvidas, sob coordenação do membro do Governo responsável pela ár
 
 ###### Artigo 40.º — Financiamento
 
-1 - O financiamento dos subsídios de carácter eventual destinados aos fins previstos no n.º 3 do artigo 2.º é efetuado nos termos da Lei de Bases da Segurança Social e do [Decreto-Lei n.º 367/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/367-2007-629416), de 2 de novembro, alterado pelas Leis n.<sup>os</sup>[3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), de 28 de abril, e [55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro, que estabelece o quadro genérico do financiamento do sistema de segurança social.
+1 - O financiamento dos subsídios de carácter eventual destinados aos fins previstos no n.º 3 do artigo 2.º é efetuado nos termos da Lei de Bases da Segurança Social e do [Decreto-Lei n.º 367/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/367-2007-629416), de 2 de novembro, alterado pelas Leis n.os[3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), de 28 de abril, e [55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro, que estabelece o quadro genérico do financiamento do sistema de segurança social.
 
 2 - O financiamento do regime excecional e temporário de pagamento de contribuições previsto no capítulo iv é efetuado por transferências do Orçamento do Estado, nos termos do n.º 3 do artigo 100.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social.
 
@@ -639,12 +688,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e p
 
 Visto e aprovado em Conselho de Ministros de 1 de fevereiro de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Rosário Palma Ramalho.
 
-**Promulgado em 5 de fevereiro de 2026.**
+Promulgado em 5 de fevereiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 5 de fevereiro de 2026.**
+Referendado em 5 de fevereiro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119947603

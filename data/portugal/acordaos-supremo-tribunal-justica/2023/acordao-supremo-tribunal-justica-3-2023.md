@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/03100/0007900090.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/3/2023/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/3-2023-207332029
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-13T00:00:00Z'
+  retrieved_at: '2026-10-22T17:54:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 922ecaf461b015e2231e7dd1ed04f24649ba74793489ebf250b804b173f16cc1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 884a393d54729128b6ae76b0be874ffc00296d85793fc60ac543e859eb3df735
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:54:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Crime
 - Código de Processo Penal
-- Interpretação do Direito
-- Sanção Penal
-- Prazo
 - Código Penal
+- Crime
+- Interpretação do Direito
+- Prazo
 - Sanção
+- Sanção Penal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/ac/5/2006/06/06/p/dre
@@ -95,16 +95,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/115/2009/10/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/115/2009/10/12/p/dre
+- type: cites
+  target: pt:dre:114682847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3057338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552012:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:54:34Z'
   warnings: []
   errors: []
 ---
@@ -488,3 +516,5 @@ Oportunamente, cumpra-se o disposto no artigo 444.º, n.º 1, do Código de Proc
 (17) Ver ac. do TRC de 10.03.2021, proferido no processo n.º 96/20.9PAACB-A.C1.
 
 Supremo Tribunal de Justiça, 15 de Dezembro de 2022. - Maria do Carmo da Silva Dias (relatora) - Pedro B. Ferreira Dias - Leonor Furtado - Teresa de Almeida - Ernesto Carlos dos Reis Vaz Pereira - Helena Moniz - José Luís Lopes da Mota - Maria da Conceição Simão Gomes - Nuno António Gonçalves - Paulo Jorge Fonseca Ferreira da Cunha - Maria Teresa Féria Gonçalves de Almeida - Eduardo Almeida Loureiro - António Gama - Sénio Alves - João Guerra - Ana Maria Barata de Brito - Orlando M. J. Gonçalves.
+
+116153217

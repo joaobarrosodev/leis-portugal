@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44712-1962-155801
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-11-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:32:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 088ae5373db60619e1cd7ce352ebc34baa283ef223f16a299b064bdd3e47c33a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4be809e0b0425729e81fc428bb9e0001c8eac3481c0dd0eeb2b1ebeabad817f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:32:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:266280:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:32:17Z'
   warnings: []
   errors: []
 ---
@@ -94,8 +102,8 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os professores que, à data da publicação do [Decreto n.º 40714](https://diariodarepublica.pt/dr/detalhe/decreto/40714-1956-232512), de 1 de Agosto de 1956, possuíam a habilitação legal para o ingresso no quadro de professores efectivos do 6.º grupo podem ser providos em lugares do 7.º grupo das escolas técnicas profissionais, envolvendo a nomeação a sua colocação definitiva neste grupo.
+Artigo único. Os professores que, à data da publicação do [Decreto n.º 40714](https://diariodarepublica.pt/dr/detalhe/decreto/40714-1956-232512), de 1 de Agosto de 1956, possuíam a habilitação legal para o ingresso no quadro de professores efectivos do 6.º grupo podem ser providos em lugares do 7.º grupo das escolas técnicas profissionais, envolvendo a nomeação a sua colocação definitiva neste grupo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Novembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Lopes de Almeida.

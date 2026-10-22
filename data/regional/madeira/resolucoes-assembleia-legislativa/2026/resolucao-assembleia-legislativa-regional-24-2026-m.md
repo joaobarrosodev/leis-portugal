@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/07/14300/0004600048.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/24/2026/07/27/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/24-2026-1152409217
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-27T00:00:00Z'
+  retrieved_at: '2026-10-22T18:47:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16ff85031bf6883db24a228fda9f4e2642898dd9a2232ac39a9f421fb56653f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e67de7162662463c172996fa5445792d154ad8b96d6c0410d78a5a5b2ccc073
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:47:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assembleia Legislativa
 - Assembleia Legislativa Regional
-- Recursos Hídricos
 - Domínio Público
 - Estatuto Político-Administrativo da Região Autónoma da Madeira
 - Iniciativa Legislativa
-- Assembleia Legislativa
 - Madeira.região Autónoma
+- Recursos Hídricos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
@@ -106,16 +106,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/2/2023/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2023/08/18/p/dre
+- type: cites
+  target: pt:dre:220061174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75170439:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:47:57Z'
   warnings: []
   errors: []
 ---
@@ -146,11 +178,11 @@ A solução ora concretizada salvaguarda a soberania do Estado, pois a relevânc
 
 Esta alteração permite criar as condições legais necessárias para concretizar o preceito constitucional e, assim, as Regiões Autónomas podem desenvolver mecanismos legislativos próprios para o mar territorial integrado nos respetivos territórios, sempre em conformidade com as especificidades regionais e com as exigências decorrentes da proteção ambiental, da valorização económica sustentável e da salvaguarda do interesse público.
 
-Assim, nos termos da alínea f) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea b) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, a Assembleia Legislativa da Região Autónoma da Madeira apresenta à Assembleia da República a seguinte proposta de lei:
+Assim, nos termos da alínea f) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea b) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, a Assembleia Legislativa da Região Autónoma da Madeira apresenta à Assembleia da República a seguinte proposta de lei:
 
 ###### Artigo 1.º — Alteração à [Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/lei/54-2005-583983), de 15 de novembro
 
-Os artigos 4.º, 13.º e 14.º da [Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/lei/54-2005-583983), de 15 de novembro, alterada pelas Leis n.<sup>os</sup>[78/2013](https://diariodarepublica.pt/dr/detalhe/lei/78-2013-503829), de 21 de novembro, [34/2014](https://diariodarepublica.pt/dr/detalhe/lei/34-2014-25676901), de 19 de junho, [31/2016](https://diariodarepublica.pt/dr/detalhe/lei/31-2016-75170439), de 23 de agosto, e pela [Lei Orgânica n.º 2/2023](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), de 18 de agosto, passam a ter a seguinte redação:
+Os artigos 4.º, 13.º e 14.º da [Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/lei/54-2005-583983), de 15 de novembro, alterada pelas Leis n.os[78/2013](https://diariodarepublica.pt/dr/detalhe/lei/78-2013-503829), de 21 de novembro, [34/2014](https://diariodarepublica.pt/dr/detalhe/lei/34-2014-25676901), de 19 de junho, [31/2016](https://diariodarepublica.pt/dr/detalhe/lei/31-2016-75170439), de 23 de agosto, e pela [Lei Orgânica n.º 2/2023](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), de 18 de agosto, passam a ter a seguinte redação:
 
 «Artigo 4.º
 
@@ -160,11 +192,15 @@ Os artigos 4.º, 13.º e 14.º da [Lei n.º 54/2005](https://diariodarepublica.p
 
 2 - O previsto no número anterior salvaguarda os estatutos político-administrativos das Regiões Autónomas e o princípio da soberania e da unidade do Estado em matéria de segurança e defesa.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 Os leitos dominiais que forem abandonados pelas águas, ou lhes forem conquistados, não acrescem às parcelas privadas da margem que porventura lhes sejam contíguas, continuando integrados no domínio público se não excederem as larguras fixadas no artigo 11.º e entrando automaticamente no domínio privado do Estado ou da respetiva Região Autónoma, no caso contrário.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -176,4 +212,6 @@ A presente lei entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 15 de julho de 2026.
 
-**A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.**
+A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.
+
+119949126

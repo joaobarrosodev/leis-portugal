@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43645-1961-169934
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-05-03T00:00:00Z'
+  retrieved_at: '2026-10-22T19:23:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf7ca0b8938cd0f5ccb5ea87279951b392a1429b73431153f924ae01ab0ac00d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6ef9306233b98f93b8ea72ef7667c3271d60d7db5eadf07c92ef5ec717ecdcb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:23:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:373831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387085:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:23:28Z'
   warnings: []
   errors: []
 ---
@@ -89,22 +97,22 @@ De harmonia com o disposto no artigo 30.º do [Decreto-Lei n.º 36933](https://d
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 3.º e 9.º, alínea b), do regulamento aprovado pelo [Decreto n.º 37034](https://diariodarepublica.pt/dr/detalhe/decreto/37034-1948-373831), de 30 de Agosto de 1948, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º e 9.º, alínea b), do regulamento aprovado pelo [Decreto n.º 37034](https://diariodarepublica.pt/dr/detalhe/decreto/37034-1948-373831), de 30 de Agosto de 1948, passam a ter a seguinte redacção:
 
-###### Art. 3.º Os concursos de admissão serão abertos, mediante aviso publicado no Diário do Governo, por prazo não inferior a 30 dias e a sua validade será de 2 anos, a contar da data em que for tornada pública a ordem de classificação dos candidatos.
+Art. 3.º Os concursos de admissão serão abertos, mediante aviso publicado no Diário do Governo, por prazo não inferior a 30 dias e a sua validade será de 2 anos, a contar da data em que for tornada pública a ordem de classificação dos candidatos.
 
 Nos concursos de promoção aquele prazo não será inferior a 15 dias, sendo de 3 anos a sua validade.
 
 ...
 
-###### Art. 9.º ...
+Art. 9.º ...
 
 ...
 
 b) Certidão de nascimento provando ser cidadão português de idade não inferior a 18 e não superior a 35 anos.
 
-###### Art. 2.º O disposto no artigo 1.º aplica-se a todos os concursos de promoção que não hajam terminado a sua validade à data da publicação do presente decreto.
+Art. 2.º O disposto no artigo 1.º aplica-se a todos os concursos de promoção que não hajam terminado a sua validade à data da publicação do presente decreto.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 3 de Maio de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José do Nascimento Ferreira Dias Júnior.

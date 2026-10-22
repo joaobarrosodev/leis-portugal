@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/02/02200/0033300349.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/3/2016/02/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/3-2016-73399497
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-02-02T00:00:00Z'
+  retrieved_at: '2026-10-22T18:24:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1dbbfc44571df1bcfee16ed2fcbc54d2410d407d744785257025a5ae10efb96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ad62f4381c3ecaa1b6008a70ed6bcaab60964458e97f04f72a609c380dc27eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:24:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assembleia da República
 - Cargo Público
 - Cargos Políticos
+- Carreira Profissional
 - Despesas Públicas
 - Direitos Sociais
 - Estatuto do Deputado
-- Carreira Profissional
-- Subvenção Pública
+- Estatuto Remuneratório
 - Inconstitucionalidade
 - Interpretação do Direito
-- Tribunal Constitucional
 - Orçamento Geral do Estado
-- Assembleia da República
 - Prestação Suplementar a Pensão
-- Estatuto Remuneratório
 - Subvenção Mensal Vitalícia
+- Subvenção Pública
+- Tribunal Constitucional
 relationships:
 - type: cites
   target: celex:32011D0344
@@ -130,16 +130,144 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
+- type: cites
+  target: pt:dre:146061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56396778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56396779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:24:43Z'
   warnings: []
   errors: []
 ---
@@ -320,7 +448,7 @@ Argumenta-se ainda, no pedido, que a lei do OE2015 manteve intactos regimes esta
 
 O primeiro argumento é manifestamente improcedente. De facto, mal se compreende de que forma podem ser consideradas idênticas as situações dos ex-titulares de cargos políticos abrangidos pelo regime jurídico traçado pelas normas sob escrutínio e a dos ex-titulares do cargo de Presidente da República.
 
-**O Presidente da República é, nos termos constitucionais, o Chefe de Estado; representa a República Portuguesa, garante a independência nacional, a unidade do Estado e o regular funcionamento das instituições democráticas e é, por inerência, Comandante Supremo das Forças Armadas (artigo 120.º da CRP). O cargo de Presidente da República tem, assim, um desenho constitucional específico, distinto em vários planos, de forma significativa, dos restantes órgãos de soberania, designadamente da Assembleia da República.**
+O Presidente da República é, nos termos constitucionais, o Chefe de Estado; representa a República Portuguesa, garante a independência nacional, a unidade do Estado e o regular funcionamento das instituições democráticas e é, por inerência, Comandante Supremo das Forças Armadas (artigo 120.º da CRP). O cargo de Presidente da República tem, assim, um desenho constitucional específico, distinto em vários planos, de forma significativa, dos restantes órgãos de soberania, designadamente da Assembleia da República.
 
 Para lá do amplo conjunto de competências que exerce e do regime de incompatibilidades a que está sujeito, apresenta uma especificidade única: o termo do seu mandato não o exonera por completo de prerrogativas e responsabilidades constitucionais. Prova disso é o facto de os antigos presidentes da República integrarem o Conselho de Estado, conforme dispõe a alínea f) do artigo 142.º da CRP.
 

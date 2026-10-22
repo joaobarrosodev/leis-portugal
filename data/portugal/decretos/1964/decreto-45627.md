@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45627-1964-470470
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-03-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:39:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30b4f50d0af2e499e6da121eeb1ab810da33519ccb5c15f4ab23a40daf9c2c8a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77672b3c1f9d7edf294f06add52e14be10d3fb60cc86fb07d0964f5c3daebec4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:39:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:585817:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:39:59Z'
   warnings: []
   errors: []
 ---
@@ -88,9 +92,9 @@ Assim, por motivo de urgência:
 
 Usando da faculdade conferida pelo n.º 3.º e § 1.º do artigo 150.º da Constituição, o Ministro do Ultramar decreto e eu promulgo o seguinte:
 
-###### Artigo único. É alterado o mapa I anexo ao [Decreto n.º 42223](https://diariodarepublica.pt/dr/detalhe/decreto/42223-1959-585817), de 18 de Abril de 1959, na parte respeitante ao comandante e adjunto, que passam a ser desempenhados, respectivamente, por um capitão e um tenente, de qualquer arma ou serviço, do activo ou da reserva.
+Artigo único. É alterado o mapa I anexo ao [Decreto n.º 42223](https://diariodarepublica.pt/dr/detalhe/decreto/42223-1959-585817), de 18 de Abril de 1959, na parte respeitante ao comandante e adjunto, que passam a ser desempenhados, respectivamente, por um capitão e um tenente, de qualquer arma ou serviço, do activo ou da reserva.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Março de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

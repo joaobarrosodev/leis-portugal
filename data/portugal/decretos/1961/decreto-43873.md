@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43873-1961-174117
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-08-22T00:00:00Z'
+  retrieved_at: '2026-10-22T19:25:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33ca74366b87a28854a6be57d9e27062c3526fef2c54e17255c55d1ec740b05b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4751bc7ebeceb86916bcd434b3fc30ff23428d4b571ed446cd7d72f74616634
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:25:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:25:12Z'
   warnings: []
   errors: []
 ---
@@ -90,11 +90,11 @@ Por motivo de urgência;
 
 Usando da faculdade conferida pelo n.º 3.º e seu § 1.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. São autorizados os órgãos legislativos da província de Macau a expedir os necessários diplomas para a extinção de dois lugares de alunos-intérpretes da secção especial do expediente sínico, a cargo da Repartição Provincial dos Serviços de Administração Civil, e para a criação de quatro lugares, no mesmo quadro, de aspirantes e intérpretes, auferindo estes remuneração igual a funcionários desta categoria.
+Artigo único. São autorizados os órgãos legislativos da província de Macau a expedir os necessários diplomas para a extinção de dois lugares de alunos-intérpretes da secção especial do expediente sínico, a cargo da Repartição Provincial dos Serviços de Administração Civil, e para a criação de quatro lugares, no mesmo quadro, de aspirantes e intérpretes, auferindo estes remuneração igual a funcionários desta categoria.
 
 § único. Os diplomas a que se refere o corpo do artigo respeitarão sempre os limites postos pela organização geral do respectivo ramo de serviço e dependerão da confirmação do Ministro do Ultramar.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Agosto de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/60/2008/10/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-2008-452748
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-10T00:00:00Z'
+  retrieved_at: '2026-10-22T19:10:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 008d162475c033a477887748fa26ac5d91a48c3d0dbf6c29d3f7f8504522a13b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 096b7554b69c90c5e703c434fab6e3a62c4782a4a18c6e8efd281eaa398beb87
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:10:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,12 +72,14 @@ subjects:
 - Aproximação das Legislações
 - Aquisição de Bens e Serviços
 - Associação Pública
-- Financiamento
-- Garantia
-- Empresa
 - Código do Procedimento Administrativo
+- Código dos Contratos Públicos
+- Concurso Limitado por Prévia Qualificação
+- Concurso por Negociação
 - Concurso Público
+- Concurso sem Apresentação de Candidaturas
 - Contra-ordenação
+- Contratação Pública
 - Contrato
 - Contrato Administrativo
 - Contrato de Concessão
@@ -85,28 +87,26 @@ subjects:
 - Delegação de Competências
 - Empreitada de Obras Públicas
 - Empreiteiro de Obras Públicas
+- Empresa
+- Financiamento
 - Fiscalização
 - Fundação Pública
+- Garantia
 - Impugnação
 - Indemnização
 - Inspecção Regional das Actividades Económicas
-- Venda em Hasta Pública
+- Inspecção Regional do Trabalho
+- Internet
 - Locação Financeira
-- Concurso Limitado por Prévia Qualificação
-- Concurso por Negociação
-- Concurso sem Apresentação de Candidaturas
+- Madeira.região Autónoma
 - Notificação
 - Obras Públicas
 - Parceria Público-Privada
-- Código dos Contratos Públicos
-- Internet
 - Prestação de Serviços
-- Madeira.região Autónoma
 - Reclamação
-- Inspecção Regional do Trabalho
 - Sesaram
 - Sistema de Incentivos a Utilização da Propriedade Industrial
-- Contratação Pública
+- Venda em Hasta Pública
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
@@ -128,16 +128,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/1/2007/02/19/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/1/2007/02/19/p/dre
+- type: cites
+  target: pt:dre:455615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-legislativo-regional:34/2008/M
+  label: "Rectifica o Decreto Legislativo Regional n.º 34/2008/M, de 14 de Agosto, DR.IS [157]\0\0"
+  source: null
+  date: '2008-08-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:10:32Z'
   warnings: []
   errors: []
 ---

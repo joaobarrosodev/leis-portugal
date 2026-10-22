@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/42894-1960-282341
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-03-30T00:00:00Z'
+  retrieved_at: '2026-10-22T19:17:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3427d4df5552fd74986ef51a93cf457ebd8290039df8fec29bcbfa9ffb8fdc72
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea33805ba4a6ec3361afc2a3a6b9d4e1cfb3db75c8e9ce9636c703cc3e83c841
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:17:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323485:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:17:36Z'
   warnings: []
   errors: []
 ---
@@ -91,10 +99,10 @@ Nessas condições, tendo em vista o disposto no artigo 22.º e seu § 1.º do [
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção-Geral dos Serviços Agrícolas a celebrar contrato com António de Mendonça Lindo para o arrendamento, por três anos, de uma parcela de terreno, com a área de 20000 m2, da propriedade sita no concelho de Tavira, freguesia da Luz, sítio do Pinheiro.
+Artigo 1.º É autorizada a Direcção-Geral dos Serviços Agrícolas a celebrar contrato com António de Mendonça Lindo para o arrendamento, por três anos, de uma parcela de terreno, com a área de 20000 m2, da propriedade sita no concelho de Tavira, freguesia da Luz, sítio do Pinheiro.
 
-###### Art. 2.º A despesa em cada ano económico não poderá exceder 10.000$00 e constituirá encargo da dotação destinada a rendas de casa e de propriedades, inscrita no orçamento da verba de «Instalação e manutenção de serviços da Estação de Melhoramento de Plantas, especialmente de multiplicação de sementes, conforme o artigo 4.º do [Decreto-Lei n.º 38153](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38153-1951-323485), de 18 de Janeiro de 1951».
+Art. 2.º A despesa em cada ano económico não poderá exceder 10.000$00 e constituirá encargo da dotação destinada a rendas de casa e de propriedades, inscrita no orçamento da verba de «Instalação e manutenção de serviços da Estação de Melhoramento de Plantas, especialmente de multiplicação de sementes, conforme o artigo 4.º do [Decreto-Lei n.º 38153](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38153-1951-323485), de 18 de Janeiro de 1951».
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Março de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Luís Quartin Graça.

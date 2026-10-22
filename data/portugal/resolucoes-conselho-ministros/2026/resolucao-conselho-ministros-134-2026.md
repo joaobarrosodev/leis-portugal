@@ -74,8 +74,22 @@ reuse:
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Estrutura de Missão «Agência para o PTRR»
+- Ministro da Coesão Territorial
+- PTRR
 relationships:
+- type: amended_by
+  target: pt:dre:1174343373:por
+  label: Alterados, a partir de 30 de setembro de 2026, os n.ºs 4 e 5 e os n.ºs 6,7,8 e 9 passarem respetivamente a anterior
+    n.º 5, anterior n.º 6, anterior n.º 7, anterior n.º 8, alínea g), o n.º 10 passa a anterior n.º 9, n.º 11, o n.º 12 passa
+    a anterior n.º 11, n.ºs 13,14,15,16, 17, e os n.ºs 18,19,20,21,22,23 e 24, passarem respetivamente a anterior n.º15, anterior
+    n.º16, anterior n.º17, anterior n.º18, anterior n.º19, anterior n.º20, e anterior n.º21, da presente Resolução do Conselho
+    de Ministros, pelo(a) Resolução do Conselho de Ministros n.º 186/2026 - Diário da República n.º 189/2026, Série I de 2026-09-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/186-2026-1174343373
+  date: '2026-09-28'
 - type: amended_by
   target: pt:dre:1174343373:por
   label: null
@@ -97,6 +111,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/17-c/2026/02/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/17-c/2026/02/03/p/dre
+- type: cites
+  target: pt:dre:1034987176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1128669414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213558633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 1

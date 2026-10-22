@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/5/2026/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2026-1006464119
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-14T00:00:00Z'
+  retrieved_at: '2026-10-22T18:28:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a846c4e7ff5d5494dd9f61d586e46e62ce955b76504879e667e7fbc96aaa341
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 423da454d668a8a4745122309710c459725280749574a11746bd0941741f8101
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:28:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Serviço Universal de Telecomunicações
+- Autoridade Nacional de Comunicações
 - Comunicações Eletrónicas
+- Financiamento
 - Política Económica
 - Rendimento
+- Serviço Universal de Telecomunicações
 - Taxa
-- Autoridade Nacional de Comunicações
 relationships:
+- type: amends
+  target: pt:numero:lei:16/2022
+  label: Altera, a partir de 15 de janeiro de 2026, com efeitos nos termos do artigo 4.º do presente diploma, os artigos 167.º,
+    167.º-A e anexo v da Lei das Comunicações Eletrónicas, aprovada em anexo à Lei n.º 16/2022, de 16 de agosto, Diário da
+    República n.º 157/2022, Série I
+  source: null
+  date: '2022-08-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/2024/12/20/p/dre
   label: null
@@ -83,16 +90,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/16/2022/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16/2022/08/16/p/dre
+- type: cites
+  target: pt:dre:187481298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:900840740:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:28:52Z'
   warnings: []
   errors: []
 ---
@@ -149,9 +164,11 @@ Os artigos 167.º e 167.º-A da Lei das Comunicações Eletrónicas, aprovada em
 
 11 - [...]
 
-12 - Pode ser estabelecido um limite máximo da percentagem contributiva referida nos n.<sup>os</sup>4 e 5 por portaria dos membros do Governo responsáveis pela área das comunicações eletrónicas e das finanças, ouvida a ARN, considerando a salvaguarda da capacidade financeira da entidade reguladora e o respetivo financiamento, o cumprimento de princípios de eficiência económica no que se refere à sua gestão, bem como a necessidade e a proporcionalidade dos encargos impostos às entidades reguladas.
+12 - Pode ser estabelecido um limite máximo da percentagem contributiva referida nos n.os4 e 5 por portaria dos membros do Governo responsáveis pela área das comunicações eletrónicas e das finanças, ouvida a ARN, considerando a salvaguarda da capacidade financeira da entidade reguladora e o respetivo financiamento, o cumprimento de princípios de eficiência económica no que se refere à sua gestão, bem como a necessidade e a proporcionalidade dos encargos impostos às entidades reguladas.
 
-###### Artigo 167.º-A — Pagamento da contribuição financeira
+Artigo 167.º-A
+
+Pagamento da contribuição financeira
 
 1 - [...]
 
@@ -177,15 +194,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de dezembro de 2025. - Luís Montenegro - Miguel Martinez de Castro Pinto Luz.
 
-**Promulgado em 30 de dezembro de 2025.**
+Promulgado em 30 de dezembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 5 de janeiro de 2026.**
+Referendado em 5 de janeiro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -195,13 +212,17 @@ Fórmula de cálculo para o escalão 2
 
 (a que se refere o n.º 5 do artigo 167.º)
 
-| Fórmula de cálculo da taxa T<sub>2</sub> | Fórmula de cálculo da taxa T<sub>2</sub> | Fórmula de cálculo da taxa T<sub>2</sub> |  |
+| Fórmula de cálculo da taxa T2 |  |  |  |
 | --- | --- | --- | --- |
-| T<sub>i (ano</sub><sub>n)</sub> = | Taxa devida pelas entidades do escalão i (i = 0, 1, 2) no ano n. | Taxa devida pelas entidades do escalão i (i = 0, 1, 2) no ano n. |  |
-| n<sub>i</sub> <sub>(ano n)</sub>= | Número de entidades do escalão i (i = 0, 1, 2) no ano n. | Número de entidades do escalão i (i = 0, 1, 2) no ano n. |  |
-| R<sub>i (ano n)</sub>= | Rendimentos relevantes das entidades do escalão i (i = 0, 1, 2) relativos ao ano n, a remeter à ARN. | Rendimentos relevantes das entidades do escalão i (i = 0, 1, 2) relativos ao ano n, a remeter à ARN. |  |
-| ∑R<sub>i (ano</sub><sub>n)</sub> = | Total de rendimentos relevantes das entidades do escalão i (i = 0, 1, 2) relativos ao ano n. | Total de rendimentos relevantes das entidades do escalão i (i = 0, 1, 2) relativos ao ano n. |  |
-| C<sub>(ano n)</sub> = | Total de custos (gastos) administrativos da ARN a considerar para o ano n, correspondente ao valor médio dos últimos três exercícios da componente de custos (gastos) sem provisões, imparidades ou outros custos referentes a pagamentos de indemnizações ou restituições, incluindo juros, decorrentes de processos judiciais associados ao setor das comunicações. | Total de custos (gastos) administrativos da ARN a considerar para o ano n, correspondente ao valor médio dos últimos três exercícios da componente de custos (gastos) sem provisões, imparidades ou outros custos referentes a pagamentos de indemnizações ou restituições, incluindo juros, decorrentes de processos judiciais associados ao setor das comunicações. |  |
-| R<sub>2 (ano n)</sub>= | Rendimentos relevantes de entidade do escalão 2 no ano n. | Rendimentos relevantes de entidade do escalão 2 no ano n. |  |
-| t<sub>2 (ano</sub><sub>n)</sub> = | (C <sub>(ano n)</sub> - T<sub>1 (ano n)</sub>n<sub>1 (ano n)</sub>)/∑R<sub>2</sub> <sub>(ano</sub><sub>n)</sub> | Percentagem contributiva (%) das entidades do escalão 2 no ano n. |  |
-| T<sub>2</sub> <sub>(ano n)</sub>= | t<sub>2 (ano n)</sub>× R<sub>2 (ano n)</sub> | t<sub>2 (ano n)</sub>× R<sub>2 (ano n)</sub> | » |
+| Ti (anon) = | Taxa devida pelas entidades do escalão i (i = 0, 1, 2) no ano n. |  |  |
+| ni (ano n)= | Número de entidades do escalão i (i = 0, 1, 2) no ano n. |  |  |
+| Ri (ano n)= | Rendimentos relevantes das entidades do escalão i (i = 0, 1, 2) relativos ao ano n, a remeter à ARN. |  |  |
+| ∑Ri (anon) = | Total de rendimentos relevantes das entidades do escalão i (i = 0, 1, 2) relativos ao ano n. |  |  |
+| C(ano n) = | Total de custos (gastos) administrativos da ARN a considerar para o ano n, correspondente ao valor médio dos últimos três exercícios da componente de custos (gastos) sem provisões, imparidades ou outros custos referentes a pagamentos de indemnizações ou restituições, incluindo juros, decorrentes de processos judiciais associados ao setor das comunicações. |  |  |
+| R2 (ano n)= | Rendimentos relevantes de entidade do escalão 2 no ano n. |  |  |
+| t2 (anon) = | (C (ano n) - T1 (ano n)n1 (ano n))/∑R2 (anon) | Percentagem contributiva (%) das entidades do escalão 2 no ano n. |  |
+| T2 (ano n)= | t2 (ano n)× R2 (ano n) | » |  |
+
+119947212
+
+.Tbl1 { border-collapse:collapse; border-width:1px; border-color:rgb(0,0,0); } .Tbl2 { min-height:26px; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { min-height:18px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { min-height:47px; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; }

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45700-1964-582813
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-04-30T00:00:00Z'
+  retrieved_at: '2026-10-22T19:40:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d27ddec0fc795f8d150404e138467abe158a9d306fa4a23e6a380d2a3e48fe4b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7eee2ff2b84a589c5a136e1c1dbd28cf15b95dec0417c5564b16c8531c0c48f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:40:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:680446:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:40:24Z'
   warnings: []
   errors: []
 ---
@@ -116,15 +120,15 @@ REGULAMENTO DA ACTIVIDADE CONCILIATÓRIA E INSTRUTÓRIA DAS COMISSÕES CORPORATI
 
 ### CAPÍTULO I — Da tentativa de conciliação
 
-###### Artigo 1.º - 1. No pedido para tentativa de conciliação perante as comissões corporativas o requerente, ou o organismo corporativo que o representa, identificará o requerido e fundamentará sumàriamente a sua pretensão.
+Artigo 1.º - 1. No pedido para tentativa de conciliação perante as comissões corporativas o requerente, ou o organismo corporativo que o representa, identificará o requerido e fundamentará sumàriamente a sua pretensão.
 
 2. No pedido para tentativa de conciliação deve o requerente invocar todas as pretensões que tenha em relação ao requerido e que sejam da competência da comissão corporativa.
 
-###### Art. 2.º - 1. O pedido, imediatamente registado, será despachado dentro dos dois dias úteis seguintes, designando-se a tentativa de conciliação observado um prazo não inferior a oito nem superior a vinte dias.
+Art. 2.º - 1. O pedido, imediatamente registado, será despachado dentro dos dois dias úteis seguintes, designando-se a tentativa de conciliação observado um prazo não inferior a oito nem superior a vinte dias.
 
 2. Se o pedido se mostrar manifestamente inviável, o presidente indeferi-lo-á.
 
-**O presidente comunicará ao requerente, para os efeitos do artigo 50.º do Código de Processo do Trabalho, que, em virtude de considerar o pedido manifestamente inviável, não é possível realizar a tentativa de conciliação.**
+O presidente comunicará ao requerente, para os efeitos do artigo 50.º do Código de Processo do Trabalho, que, em virtude de considerar o pedido manifestamente inviável, não é possível realizar a tentativa de conciliação.
 
 3. Se se tratar, porém, de irregularidades ou simples deficiências ou obscuridades do pedido, o presidente convidará o requerente a saná-las, ou a completá-las ou esclarecê-las dentro de quinze dias, sob pena de voltar a correr o prazo de prescrição ou de caducidade, do que será advertido.
 
@@ -132,25 +136,25 @@ REGULAMENTO DA ACTIVIDADE CONCILIATÓRIA E INSTRUTÓRIA DAS COMISSÕES CORPORATI
 
 Recebidos os esclarecimentos ou deferida a reclamação, o presidente, dentro de dois dias, designará a tentativa de conciliação nos termos do n.º 2.
 
-###### Art. 3.º - 1. Nos dois dias seguintes à designação da tentativa de conciliação serão convocados os vogais para a reunião da comissão corporativa e expedidas cartas a notificar os interessados de que devem comparecer pessoalmente na tentativa de conciliação.
+Art. 3.º - 1. Nos dois dias seguintes à designação da tentativa de conciliação serão convocados os vogais para a reunião da comissão corporativa e expedidas cartas a notificar os interessados de que devem comparecer pessoalmente na tentativa de conciliação.
 
 2. As pessoas colectivas serão representadas por um dos seus administradores, gerentes, directores ou chefes do serviço do pessoal, munidos de credencial que contenha poderes expressos para obrigarem as entidades representadas na tentativa de conciliação.
 
 3. As notificações serão feitas por carta registada com aviso de recepção, mas poderão também ser efectuadas pelos serviços das comissões corporativas ou da Inspecção do Trabalho. Neste caso proceder-se-á à notificação num dos três dias seguintes à designação da tentativa de conciliação. Com as notificações os interessados serão advertidos das sanções em que incorrem se não comparecerem.
 
-###### Art. 4.º O presidente pode, a ofício ou a requerimento de qualquer dos interessados, adiar a tentativa de conciliação por motivo ponderoso devidamente comprovado.
+Art. 4.º O presidente pode, a ofício ou a requerimento de qualquer dos interessados, adiar a tentativa de conciliação por motivo ponderoso devidamente comprovado.
 
-###### Art. 5.º - 1. Se a respeito de qualquer dos interessados se provar a impossibilidade de comparecer pessoalmente no dia fixado ou num dia próximo, por motivo ponderoso, o presidente admitirá que o interessado se faça representar na tentativa prévia de conciliação por um seu familiar ou empregado, ou pelo respectivo organismo corporativo, que comparecerão habilitados com credencial ou poderes expressos para se obrigarem na tentativa de conciliação.
+Art. 5.º - 1. Se a respeito de qualquer dos interessados se provar a impossibilidade de comparecer pessoalmente no dia fixado ou num dia próximo, por motivo ponderoso, o presidente admitirá que o interessado se faça representar na tentativa prévia de conciliação por um seu familiar ou empregado, ou pelo respectivo organismo corporativo, que comparecerão habilitados com credencial ou poderes expressos para se obrigarem na tentativa de conciliação.
 
 2. As pessoas que segundo o Código de Processo Civil têm o direito de ser inquiridas como testemunhas na sua própria residência ou na sede dos respectivos serviços podem fazer-se representar por qualquer pessoa munida de credencial nos mesmos termos do número anterior.
 
-###### Art. 6.º - 1. A falta de comparência de qualquer dos interessados à tentativa de conciliação, se não for justificada até 48 horas antes da designação para a reunião, implica a responsabilidade pelo pagamento, àqueles que compareçam, das despesas de deslocação e das indemnizações por perdas de salários ou de tempo de direcção.
+Art. 6.º - 1. A falta de comparência de qualquer dos interessados à tentativa de conciliação, se não for justificada até 48 horas antes da designação para a reunião, implica a responsabilidade pelo pagamento, àqueles que compareçam, das despesas de deslocação e das indemnizações por perdas de salários ou de tempo de direcção.
 
 2. A falta de comparência que não for justificada até à hora designada para a tentativa será punida com a multa de 25$00 a 100$00 ou de 100$00 a 1000$00, conforme se trate, respectivamente, de trabalhadores ou de entidades patronais. A multa aplicada à segunda falta não justificada não poderá ser inferior a metade do máximo previsto. A multa que não é convertível em prisão não isenta do pagamento das indemnizações devidas aos que compareçam.
 
 3. Considera-se faltosa a entidade patronal que, sendo pessoa colectiva, não se fez representar devidamente.
 
-###### Art. 7.º - 1. Se faltar um dos interessados, será designada nova tentativa para um dos dez dias seguintes. Se à segunda tentativa faltar um dos interessados por motivo que a comissão corporativa considere justificado, a reunião será novamente adiada, salvo se esse mesmo interessado tiver faltado injustificadamente à primeira tentativa. Se na terceira reunião, que deverá ser designada para um dos quinze dias seguintes, persistirem os motivos que justificaram os adiamentos, ou surgirem outros que a comissão considere atendíveis, deverá o interessado fazer-se representar nessa reunião por um dos seus familiares ou empregados, ou pelo respectivo organismo corporativo, a quem passará uma credencial com poderes bastantes para a conciliação, que ficará junta ao processo.
+Art. 7.º - 1. Se faltar um dos interessados, será designada nova tentativa para um dos dez dias seguintes. Se à segunda tentativa faltar um dos interessados por motivo que a comissão corporativa considere justificado, a reunião será novamente adiada, salvo se esse mesmo interessado tiver faltado injustificadamente à primeira tentativa. Se na terceira reunião, que deverá ser designada para um dos quinze dias seguintes, persistirem os motivos que justificaram os adiamentos, ou surgirem outros que a comissão considere atendíveis, deverá o interessado fazer-se representar nessa reunião por um dos seus familiares ou empregados, ou pelo respectivo organismo corporativo, a quem passará uma credencial com poderes bastantes para a conciliação, que ficará junta ao processo.
 
 2. Os faltosos serão notificados, por carta registada com aviso de recepção, para no prazo de dez dias efectuarem o pagamento voluntário da multa, demais importâncias previstas neste artigo e de despesas com a notificação, sob pena de execução. O pagamento será efectuado por vale de correio registado, passado a favor do Fundo Comum das Comissões Corporativas.
 
@@ -158,11 +162,11 @@ Recebidos os esclarecimentos ou deferida a reclamação, o presidente, dentro de
 
 4. Não comparecendo os vogais da comissão corporativa ou algum deles, a tentativa de conciliação será realizada pelo presidente ou por este e o vogal presente.
 
-###### Art. 8.º - 1. Faltando um dos interessados e não havendo lugar a adiamento ou não sendo possível realizar a tentativa de conciliação dentro do prazo de 60 dias, arquivar-se-á o processo e notificar-se-á o requerente, por carta registada com aviso de recepção, da impossibilidade dessa realização, para os fins do n.º 3 do artigo 50.º do Código de Processo do Trabalho, salvo se a tentativa de conciliação tiver sido convocada para os efeitos do artigo 85.º do Código de Processo do Trabalho, em que se observará o disposto no n.º 3 do artigo 12.º do presente diploma.
+Art. 8.º - 1. Faltando um dos interessados e não havendo lugar a adiamento ou não sendo possível realizar a tentativa de conciliação dentro do prazo de 60 dias, arquivar-se-á o processo e notificar-se-á o requerente, por carta registada com aviso de recepção, da impossibilidade dessa realização, para os fins do n.º 3 do artigo 50.º do Código de Processo do Trabalho, salvo se a tentativa de conciliação tiver sido convocada para os efeitos do artigo 85.º do Código de Processo do Trabalho, em que se observará o disposto no n.º 3 do artigo 12.º do presente diploma.
 
 2. Não será deferido qualquer pedido para tentativa de conciliação com o mesmo objecto de processo já arquivado.
 
-###### Art. 9.º - 1. Iniciada a reunião, em que só intervirão pessoalmente os interessados, a comissão corporativa tentará a conciliação.
+Art. 9.º - 1. Iniciada a reunião, em que só intervirão pessoalmente os interessados, a comissão corporativa tentará a conciliação.
 
 2. Se os interessados chegarem a acordo, lavrar-se-á um auto de conciliação. Do mesmo auto constará recibo da taxa de 10$00, a pagar pelo requerido, e serão tirados os exemplares necessários para que um fique no processo, outro seja arquivado, seja entregue um a cada um dos interessados e seja enviado outro à instituição de previdência ou de abono de família a que, por virtude do acordo, sejam devidas quaisquer contribuições ou descontos.
 
@@ -170,35 +174,35 @@ Recebidos os esclarecimentos ou deferida a reclamação, o presidente, dentro de
 
 4. Se a tentativa de conciliação se frustrar, lavrar-se-á auto de não conciliação, com indicação dos motivos invocados pelos interessados.
 
-###### Art. 10.º Os autos de conciliação devidamente homologados constituem título exequível perante os tribunais do trabalho e a oposição só poderá ser baseada nos fundamentos estabelecidos no artigo 813.º e no n.º 2 do artigo 815.º do Código de Processo Civil.
+Art. 10.º Os autos de conciliação devidamente homologados constituem título exequível perante os tribunais do trabalho e a oposição só poderá ser baseada nos fundamentos estabelecidos no artigo 813.º e no n.º 2 do artigo 815.º do Código de Processo Civil.
 
-###### Art. 11.º O pedido da intervenção da comissão corporativa interrompe o prazo de prescrição do direito e da caducidade da respectiva acção, que voltarão a correr 30 dias depois da data em que se realizou a tentativa de conciliação ou daquela em que ao requerente foi entregue documento comprovativo da impossibilidade de realização dessa tentativa no prazo legal.
+Art. 11.º O pedido da intervenção da comissão corporativa interrompe o prazo de prescrição do direito e da caducidade da respectiva acção, que voltarão a correr 30 dias depois da data em que se realizou a tentativa de conciliação ou daquela em que ao requerente foi entregue documento comprovativo da impossibilidade de realização dessa tentativa no prazo legal.
 
 ### CAPÍTULO II — Da tentativa de conciliação em processo sumaríssimo
 
-###### Art. 12.º - 1. Nos processos de valor não superior a 10000$00 seguir-se-ão os termos do processo sumaríssimo do Código de Processo do Trabalho, salvo se o autor requerer que a intervenção da comissão corporativa se limite à tentativa de conciliação, para os efeitos dos artigos 50.º e seguintes daquele código.
+Art. 12.º - 1. Nos processos de valor não superior a 10000$00 seguir-se-ão os termos do processo sumaríssimo do Código de Processo do Trabalho, salvo se o autor requerer que a intervenção da comissão corporativa se limite à tentativa de conciliação, para os efeitos dos artigos 50.º e seguintes daquele código.
 
 2. Na tentativa de conciliação em processo sumaríssimo observar-se-á o disposto nos artigos 1.º a 8.º, com as alterações constantes dos artigos seguintes.
 
-###### Art. 13.º - 1. Encontrando-se preenchidas as condições para o requerimento ser despachado, o presidente, dentro dos dois dias úteis seguintes, designará dia para a tentativa de conciliação, seguida de produção de prova, se aquela se frustrar. O prazo previsto no n.º 2 do artigo 1.º poderá, por motivos justificados, ser alargado até 30 dias.
+Art. 13.º - 1. Encontrando-se preenchidas as condições para o requerimento ser despachado, o presidente, dentro dos dois dias úteis seguintes, designará dia para a tentativa de conciliação, seguida de produção de prova, se aquela se frustrar. O prazo previsto no n.º 2 do artigo 1.º poderá, por motivos justificados, ser alargado até 30 dias.
 
 2. A comissão corporativa só poderá apreciar a prova com a presença de todos os seus membros, sem prejuízo do disposto no n.º 4 do artigo 4.º
 
-###### Art. 14.º - 1. Os interessados serão notificados para comparecerem pessoalmente no dia designado para a tentativa, e para aí apresentarem as suas testemunhas, até ao máximo de cinco, e os demais elementos de prova que possuam.
+Art. 14.º - 1. Os interessados serão notificados para comparecerem pessoalmente no dia designado para a tentativa, e para aí apresentarem as suas testemunhas, até ao máximo de cinco, e os demais elementos de prova que possuam.
 
 2. Com a notificação, nos termos do artigo 2.º será dado conhecimento ao requerido da pretensão do requerente e dos seus fundamentos. O requerente será, no mesmo acto, advertido de que se quiser que a intervenção da comissão corporativa se limite à tentativa de conciliação o deverá declarar dentro de cinco dias, sob pena de ser apreciada a prova que eventualmente vier a ser produzida na reunião. Desse requerimento será dado imediato conhecimento ao requerido.
 
-###### Art. 15.º - 1. As testemunhas serão apresentadas pelas partes sem necessidade de notificação.
+Art. 15.º - 1. As testemunhas serão apresentadas pelas partes sem necessidade de notificação.
 
 2. Se, pelo estado de dependência económica de determinada testemunha em relação a qualquer das partes, ou por outro motivo que a comissão considere atendível, se tornar difícil a sua apresentação, pode o presidente ordenar que compareça, mandando-a notificar por carta registada com aviso de recepção, com as cominações previstas no artigo 632.º do Código de Processo Civil, quando se trate de testemunhas que residam no concelho onde tiver lugar a reunião.
 
 3. Se uma das partes faltar à segunda reunião designada sem motivo que a comissão corporativa considere justificado, serão ouvidas apenas as testemunhas apresentadas pelo interessado que compareça. Se houver terceira reunião, o mesmo se observará em relação às testemunhas da parte que faltar injustificadamente ou que não se tenha feito representar nos termos do n.º 2 do artigo 2.º ou da parte final do n.º 1 do artigo 4.º Se faltarem ambas as partes ou não se fizerem representar e o autor o requerer, poderá o processo ser enviado ao tribunal do trabalho competente para os efeitos previstos no n.º 4 do artigo 83.º do Código de Processo do Trabalho.
 
-###### Art. 16.º - 1. Se as partes se conciliarem, observar-se-á o disposto no artigo 6.º Se a tentativa se frustrar, serão inquiridas as testemunhas.
+Art. 16.º - 1. Se as partes se conciliarem, observar-se-á o disposto no artigo 6.º Se a tentativa se frustrar, serão inquiridas as testemunhas.
 
 2. A comissão poderá ordenar ou efectuar quaisquer diligências que julgue indispensáveis para formar a sua convicção, deslocando-se ao local do trabalho ou aonde o entender necessário. Se estas diligências obrigarem a suspender a reunião, será logo designado um dos dez dias seguintes para a sua continuação.
 
-###### Art. 17.º - 1. Finda a produção de prova e as diligências que tiverem sido efectuadas, a comissão corporativa ouvirá as partes e tentará de novo a conciliação.
+Art. 17.º - 1. Finda a produção de prova e as diligências que tiverem sido efectuadas, a comissão corporativa ouvirá as partes e tentará de novo a conciliação.
 
 2. Se as partes chegarem a acordo, lavrar-se-á o respectivo auto nos termos do artigo 6.º e o requerido será notificado imediatamente para no prazo de dez dias enviar à junta administrativa das comissões corporativas do respectivo distrito, por vale de correio registado, uma importância correspondente a 4 por cento das prestações que acordou em pagar ao requerente. Findo este prazo sem ter sido recebida a importância, a comissão corporativa enviará ao tribunal do trabalho, para efeito de execução, uma certidão da dívida do requerido autenticada pelo presidente da comissão. A execução seguirá os termos da execução de custas.
 
@@ -206,10 +210,10 @@ Recebidos os esclarecimentos ou deferida a reclamação, o presidente, dentro de
 
 4. Se o autor o requerer, o processo será enviado dentro de três dias ao tribunal do trabalho competente para os efeitos do n.º 3 do artigo 85.º do Código de Processo do Trabalho. O requerimento pode ser apresentado verbalmente na própria reunião, do que se fará expressa menção na acta.
 
-###### Art. 18.º Em tudo o que não estiver especialmente previsto neste decreto, aplicar-se-ão as disposições do Código de Processo do Trabalho e os princípios gerais do direito processual do trabalho, no que não for incompatível com a índole especial do processo regulado neste diploma.
+Art. 18.º Em tudo o que não estiver especialmente previsto neste decreto, aplicar-se-ão as disposições do Código de Processo do Trabalho e os princípios gerais do direito processual do trabalho, no que não for incompatível com a índole especial do processo regulado neste diploma.
 
-###### Art. 19.º O presente regulamento será revisto no prazo previsto para a revisão do Código de Processo do Trabalho e à Inspecção-Geral dos Tribunais do Trabalho são atribuídas em relação a este regulamento as mesmas funções que o [Decreto-Lei n.º 45497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45497-1963-680446) lhe confere em relação ao Código de Processo do Trabalho.
+Art. 19.º O presente regulamento será revisto no prazo previsto para a revisão do Código de Processo do Trabalho e à Inspecção-Geral dos Tribunais do Trabalho são atribuídas em relação a este regulamento as mesmas funções que o [Decreto-Lei n.º 45497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45497-1963-680446) lhe confere em relação ao Código de Processo do Trabalho.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República 30 de Abril de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José João Gonçalves de Proença.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/09/18000/0000200031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,25 +46,32 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/183/2026/09/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-16T00:00:00Z'
+  retrieved_at: '2026-10-22T18:53:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43617345b2aadb5f3df59494854518e635c3c6e967acd8970d1b3f827e1e1f36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb826f14cf7e7dea060ed343153084c04322c3d10991c2b96ebdefc8cd6b9e7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:53:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contraordenação
+- Gestor
+- Passagem de Nível
+- Rede Ferroviária Nacional
+- Regime Jurídico
+- Regulamento
+- Responsabilidade Civil
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
@@ -90,16 +97,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/73/2013/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/73/2013/09/03/p/dre
+- type: cites
+  target: pt:dre:249571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70476205:por
+  label: null
+  source: null
 article_structure:
   article_count: 58
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:53:13Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +157,7 @@ Adicionalmente, têm ainda sido identificadas situações que carecem de enquadr
 
 Acresce que a necessidade de revisão do atual enquadramento legal e regulamentar das PN, designadamente através da adoção de análises de risco específicas, é suscitada, desde 2016, por diversas recomendações de segurança emitidas pelo extinto Gabinete de Investigação e Segurança de Acidentes Ferroviários e pelo Gabinete de Prevenção e Investigação de Segurança de Acidentes com Aeronaves e de Acidentes Ferroviários, na sequência da investigação de acidentes e incidentes ocorridos em PN.
 
-Neste contexto, procede-se à revogação do [Decreto-Lei n.º 568/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/568-1999-661084), de 23 de dezembro, alterado pelos Decretos-Leis n.<sup>os</sup>[24/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2005-624455), de 26 de janeiro, e [77/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2008-249571), de 29 de abril, e do RPN anexo, bem como à aprovação de um novo regime jurídico aplicável PN, acompanhado de um novo regulamento.
+Neste contexto, procede-se à revogação do [Decreto-Lei n.º 568/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/568-1999-661084), de 23 de dezembro, alterado pelos Decretos-Leis n.os[24/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2005-624455), de 26 de janeiro, e [77/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2008-249571), de 29 de abril, e do RPN anexo, bem como à aprovação de um novo regime jurídico aplicável PN, acompanhado de um novo regulamento.
 
 O novo regime tem em conta a realidade atual da segurança e da operação ferroviária, harmonizando-se com as diretrizes comunitárias e com a legislação rodoviária aplicável, designadamente em matéria de sinalização, infrações e coimas.
 
@@ -226,7 +261,7 @@ c) A relocalização da PN não implicar a sua retirada do programa de supressã
 
 6 - A emissão da licença está ainda sujeita à prestação de caução destinada a assegurar o cumprimento das obrigações previstas na licença, nos termos e montante definidos pelo GIF.
 
-7 - O GIF pode determinar o restabelecimento da circulação na linha férrea a qualquer momento, o que determina a caducidade da licença, com os efeitos previstos nos n.<sup>os</sup>9 e 10.
+7 - O GIF pode determinar o restabelecimento da circulação na linha férrea a qualquer momento, o que determina a caducidade da licença, com os efeitos previstos nos n.os9 e 10.
 
 8 - O GIF pode, em função da gravidade do incumprimento das obrigações previstas na licença, determinar a sua revogação.
 
@@ -258,7 +293,7 @@ g) Se situem a menos de 700 m, medidos sobre o carril da via-férrea no caso de 
 
 4 - As entidades gestoras das infraestruturas devem promover a supressão das PN previstas no programa de supressão de PN com a maior celeridade possível, definindo um horizonte não superior a cinco anos, documentando todas as ações conducentes à supressão e justificando os casos em que a mesma não possa ser concretizada na data prevista no programa como horizonte para a supressão.
 
-5 - Até 31 de janeiro de cada ano, o GIF atualiza o programa de supressão de PN, de acordo com as condições estabelecidas nos n.<sup>os</sup>2 e 3, e envia-o à ANSF, acompanhado das respetivas prioridades, do planeamento para cada supressão e da justificação de eventuais desvios.
+5 - Até 31 de janeiro de cada ano, o GIF atualiza o programa de supressão de PN, de acordo com as condições estabelecidas nos n.os2 e 3, e envia-o à ANSF, acompanhado das respetivas prioridades, do planeamento para cada supressão e da justificação de eventuais desvios.
 
 ###### Artigo 6.º — Responsabilidade e encargos do programa de supressão de passagem de nível
 
@@ -320,15 +355,15 @@ O presente decreto-lei entra em vigor no primeiro dia do sexto mês seguinte ao 
 
 Visto e aprovado em Conselho de Ministros de 21 de maio de 2026. - Luís Montenegro - Manuel Castro Almeida - Hugo Morato Alface do Espírito Santo.
 
-**Promulgado em 3 de agosto de 2026.**
+Promulgado em 3 de agosto de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 4 de agosto de 2026.**
+Referendado em 4 de agosto de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -376,7 +411,7 @@ f) Os locais de atravessamento de ecopistas, caminhos públicos, vias pedestres 
 
 4 - Nos casos previstos nos números anteriores, a decisão de supressão é precedida de prévia notificação dessa intenção pelo GIF ao respetivo GIR, com antecedência não inferior a 30 dias.
 
-5 - Nos casos previstos nos n.<sup>os</sup>2 e 3, a supressão deve ser concretizada no prazo de um ano a contar da notificação para que se proceda à supressão.
+5 - Nos casos previstos nos n.os2 e 3, a supressão deve ser concretizada no prazo de um ano a contar da notificação para que se proceda à supressão.
 
 6 - As PN públicas que tenham passado a servir apenas um prédio devem ser suprimidas.
 
@@ -408,7 +443,7 @@ c) TMDp - número médio diário de peões.
 
 5 - Caso não estejam disponíveis séries temporais de dados obtidos no local, os estudos de tráfego devem ser efetuados com base em, pelo menos, três contagens representativas, realizadas em diferentes dias úteis, abrangendo horários de ponta e diferentes épocas do ano.
 
-6 - A adoção de pressupostos diferentes dos referidos nos n.<sup>os</sup>4 e 5, por força de limitações quer na duração das recolhas de dados, quer devido a casos específicos relacionados com condicionalismos nas proximidades das PN, deve ser devidamente justificada, aplicando-se os fatores de ajustamento adequados.
+6 - A adoção de pressupostos diferentes dos referidos nos n.os4 e 5, por força de limitações quer na duração das recolhas de dados, quer devido a casos específicos relacionados com condicionalismos nas proximidades das PN, deve ser devidamente justificada, aplicando-se os fatores de ajustamento adequados.
 
 7 - Os coeficientes de conversão das diferentes classes e tipos de veículos em UVLE são estabelecidos caso a caso, em função das características geométricas das vias e das características do tráfego, não podendo ser adotados valores inferiores aos seguintes:
 
@@ -596,15 +631,15 @@ g) Outros sinais e placas informativas para controlo dos riscos identificados.
 
 1 - A sinalização de trânsito e o equipamento de segurança por PN deve, no mínimo e consoante o caso, integrar os seguintes elementos:
 
-| PN (Classificação de acordo com o disposto no artigo 11.º) | PN (Classificação de acordo com o disposto no artigo 11.º) | PN rodoviária (Sinalização e equipamento de acordo com o disposto no artigo 13.º) | PN Pedonal (Sinalização e equipamento de acordo com o disposto no artigo 13.º) |
+| PN (Classificação de acordo com o disposto no artigo 11.º) | PN rodoviária (Sinalização e equipamento de acordo com o disposto no artigo 13.º) | PN Pedonal (Sinalização e equipamento de acordo com o disposto no artigo 13.º) |  |
 | --- | --- | --- | --- |
 | Manual | AAPM | Barreiras completas (7)Sinal 2a) e 3a)Placas 3c), 3d) e 3f)(conforme figura 2 constante do anexo ao RPN) | Não aplicável |
-| Manual | SAPM | Barreiras completas (7)Placa 3d) | Não aplicável |
-| Manual | AMSP | Sinais 2b), 2e) e 3a)Placas 3d), 3e) e 3f)----- ou ---Agente (9)Sinais 2e)Placa 3d) | Não aplicável |
+| SAPM | Barreiras completas (7)Placa 3d) | Não aplicável |  |
+| AMSP | Sinais 2b), 2e) e 3a)Placas 3d), 3e) e 3f)----- ou ---Agente (9)Sinais 2e)Placa 3d) | Não aplicável |  |
 | Automática | AAPA | Meias barreiras (7)Sinais 2a) e 3a)Placas 3c), 3d) e 3f)(conforme figura 2 constante do anexo ao RPN e que dele faz parte integrante) | Barreiras completas (7)Sinais 2d) e 3a)Placa 3d)(conforme figura 3 constante do anexo ao RPN e que dele faz parte integrante). |
 |  | AASP | Sinais 2c), 2e) e 3a)Placas 3c), 3d), 3e) e 3f)(conforme figura 4 constante do anexo ao RPN)----- ou -----Em casos muito excecionais, se localizadas em contexto urbano ou em linhas ou ramais exclusivos para transporte de mercadoriasSinais 2b), 2e) e 3a)Placa 3d), 3e) e 3f) | Labirintos (8)Sinais 2d) e 3a)Placas 3d) e 3e)(conforme figura 3 constante do anexo ao RPN) |
 |  | AAPAPC | Barreiras completas (7)Sinais 2a) e 3a)Placas 3c), 3d) e 3f)Sistema para proteção ao comboio a definir pelo GIF | Não aplicável |
-| Passiva | Passiva | Sinais 2e) e 2f) no mesmo suportePlaca 3d)Inscrição «STOP» junto à linha de paragem | Labirintos (8)Placas 3b) e 3d) |
+| Passiva | Sinais 2e) e 2f) no mesmo suportePlaca 3d)Inscrição «STOP» junto à linha de paragem | Labirintos (8)Placas 3b) e 3d) |  |
 
 2 - Em caso de avaria, as PN com dispositivos de segurança de comando automático devem ser guardadas logo que possível.
 
@@ -804,7 +839,9 @@ d) Adotar uma velocidade moderada na aproximação e no atravessamento das PN, r
 
 ### CAPÍTULO IV — DAS PASSAGENS DE NÍVEL PARTICULARES
 
-###### Artigo 27.º — Título constitutivo das passagens de nível particulares
+###### Artigo 27.º
+
+## Título constitutivo das passagens de nível particulares
 
 1 - As PN particulares podem resultar:
 
@@ -858,7 +895,7 @@ h) Prazo, o qual não pode ser superior a cinco anos ou ao prazo especificamente
 
 3 - Nas PN constituídas nos termos da alínea b) do n.º 1 do artigo 27.º, correm por conta e risco do proprietário do prédio dominante todas as obras e trabalhos necessários para garantir a segurança da circulação ferroviária, da infraestrutura ferroviária e de pessoas e bens que o GIF considere necessários à manutenção das utilidades da servidão, nomeadamente todas as obras e trabalhos de manutenção, conservação e reparação da PN e outros que se mostrem necessários em resultado de alterações da situação de facto existente à data da constituição da servidão, de norma legal, regulamentar ou técnica, ou para mitigação de riscos específicos da PN que venham a ser identificados pelo GIF.
 
-4 - As obras e trabalhos referidos nos n.<sup>os</sup>1 e 2 só podem ser executadas por empresa com competência definida pelo GIF e mediante autorização prévia e sob vigilância deste.
+4 - As obras e trabalhos referidos nos n.os1 e 2 só podem ser executadas por empresa com competência definida pelo GIF e mediante autorização prévia e sob vigilância deste.
 
 ###### Artigo 30.º — Extinção das servidões e caducidade das licenças
 
@@ -940,7 +977,7 @@ f) Em caso de a PN se encontrar fechada e ter sido aberta por agente do GIF a pe
 
 5 - Nos casos previstos no número anterior, o GIF é responsável de forma solidária com os respetivos funcionários e agentes, se as ações ou omissões referidas no número anterior tiverem sido cometidas por estes no exercício das suas funções e por causa desse exercício.
 
-6 - O disposto nos n.<sup>os</sup>1, 4 e 5 não obsta ao direito de regresso do GIF, que o pode exercer nos termos gerais.
+6 - O disposto nos n.os1, 4 e 5 não obsta ao direito de regresso do GIF, que o pode exercer nos termos gerais.
 
 7 - Os acidentes ocorridos nas PN são comunicados pelo GIF à ANSF.
 
@@ -966,7 +1003,7 @@ e) A configuração e envolvente da via rodoviária nas imediações da PN não 
 
 5 - Nos casos previstos no número anterior, o GIR é responsável de forma solidária com os respetivos funcionários e agentes, se as ações ou omissões referidas no número anterior tiverem sido cometidas por estes no exercício das suas funções e por causa desse exercício.
 
-6 - O disposto nos n.<sup>os</sup>1, 4 e 5 não obsta ao direito de regresso do GIR, que o pode exercer nos termos gerais.
+6 - O disposto nos n.os1, 4 e 5 não obsta ao direito de regresso do GIR, que o pode exercer nos termos gerais.
 
 ###### Artigo 37.º — Responsabilidade das empresas ferroviárias
 
@@ -992,7 +1029,7 @@ Sem prejuízo da responsabilidade civil, criminal ou contraordenacional a que ho
 
 2 - As entidades fiscalizadoras devem levantar auto de notícia das infrações verificadas e enviá-lo à entidade administrativa competente em razão da matéria, para instrução e decisão, sendo que a competência para a emissão de auto de notícia por infrações rodoviárias detetadas cabe à ANSR.
 
-3 - A instrução e decisão dos processos por contraordenações por violação dos deveres previstos no n.º 3 do artigo 25.º, causadas por veículos rodoviários, e os constantes nos n.<sup>os</sup>1 e 2 do artigo 26.º, são da competência da ANSR.
+3 - A instrução e decisão dos processos por contraordenações por violação dos deveres previstos no n.º 3 do artigo 25.º, causadas por veículos rodoviários, e os constantes nos n.os1 e 2 do artigo 26.º, são da competência da ANSR.
 
 4 - A instrução e decisão dos processos de contraordenações não previstos no número anterior cabem ao IMT, I. P., e à ANSF.
 
@@ -1006,9 +1043,9 @@ Sem prejuízo da responsabilidade civil, criminal ou contraordenacional a que ho
 
 1 - Sem prejuízo do disposto no Código da Estrada e legislação complementar, constituem contraordenações, puníveis com coima de 165,00 € a 3500,00 €, no caso de pessoas singulares, e de 5000,00 € até 40 000,00 €, no caso de pessoas coletivas, a prática dos seguintes atos:
 
-a) A não utilização dos sinais de trânsito e dos sinais e equipamentos de segurança, bem como o incumprimento das regras de instalação dos mesmos, conforme definido nos n.<sup>os</sup>2, 4 a 6 do artigo 13.º;
+a) A não utilização dos sinais de trânsito e dos sinais e equipamentos de segurança, bem como o incumprimento das regras de instalação dos mesmos, conforme definido nos n.os2, 4 a 6 do artigo 13.º;
 
-b) A não utilização dos sinais e equipamentos de segurança, bem como o incumprimento das regras de instalação dos sinais e equipamentos de segurança definidos nos n.<sup>os</sup>3, 4 a 6 do artigo 13.º;
+b) A não utilização dos sinais e equipamentos de segurança, bem como o incumprimento das regras de instalação dos sinais e equipamentos de segurança definidos nos n.os3, 4 a 6 do artigo 13.º;
 
 c) A não utilização dos sinais de trânsito e de segurança definidos no n.º 1 do artigo 14.º;
 
@@ -1018,7 +1055,7 @@ e) A não submissão à aprovação do GIF da sinalização nos termos previstos
 
 f) O incumprimento da antecedência mínima de encerramento das PN automatizadas conforme estabelecido no n.º 1 do artigo 17.º;
 
-g) A não disponibilização de telefones conforme previsto nos n.<sup>os</sup>1 e 2 do artigo 18.º;
+g) A não disponibilização de telefones conforme previsto nos n.os1 e 2 do artigo 18.º;
 
 h) Não indicação dos itinerários alternativos nos termos estabelecidos no artigo 20.º;
 
@@ -1030,7 +1067,7 @@ k) Violação dos deveres da EF e dos seus agentes previstos no artigo 24.º;
 
 l) Violação dos deveres dos utentes estabelecidos nas alíneas f) e k) do n.º 3 e no n.º 5 do artigo 25.º;
 
-m) O atravessamento das PN sem a autorização especial estabelecida nos n.<sup>os</sup> 1 e 2 do artigo 26.º;
+m) O atravessamento das PN sem a autorização especial estabelecida nos n.os 1 e 2 do artigo 26.º;
 
 n) O início de obras e trabalhos sem validação e autorização do GIF ou sob vigilância deste em violação do disposto no n.º 4 do artigo 29.º;
 
@@ -1044,7 +1081,7 @@ o) Violação dos deveres dos utentes das PN particulares estabelecidos no artig
 
 2 - As infrações previstas nas alíneas b), c) e h) do n.º 1 do artigo 41.º são da responsabilidade do GIR.
 
-3 - A responsabilidade pela prática das infrações que decorrerem da violação dos deveres previstos no artigo 24.º e nos n.<sup>os</sup>1 e 2 do artigo 25.º, e que constituem contraordenação ao abrigo das alíneas k) e l) do artigo anterior, cabe às entidades previstas no artigo 135.º do Código da Estrada.
+3 - A responsabilidade pela prática das infrações que decorrerem da violação dos deveres previstos no artigo 24.º e nos n.os1 e 2 do artigo 25.º, e que constituem contraordenação ao abrigo das alíneas k) e l) do artigo anterior, cabe às entidades previstas no artigo 135.º do Código da Estrada.
 
 4 - As infrações previstas na alínea i) do n.º 1 do artigo 41.º são da responsabilidade da EF.
 
@@ -1064,11 +1101,12 @@ c) 10 % para o Fundo Ambiental;
 
 d) 60 % para o Estado.
 
-## Anexo ao Regulamento de Passagens de Nível
+Anexo ao Regulamento de Passagens de Nível
 
 (a que se referem o n.º 6 do artigo 7.º e o n.º 1 do artigo 14.º)
 
-![](https://files.diariodarepublica.pt/images/1171382770/1171382955.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1171382770/1171382955.png) |
+| --- |
 
 Figura 1
 
@@ -1086,7 +1124,8 @@ SDD - Sentido Descendente Direito
 
 d ≥ 5 m (excecionalmente 3,5 m)
 
-![](https://files.diariodarepublica.pt/images/1171382770/1171382956.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1171382770/1171382956.png) |
+| --- |
 
 Figura 2 Figura 3
 
@@ -1102,7 +1141,8 @@ D - Sinal 3a) Artigo 13.º 1 - Foco com figura vermelha, fundo preto
 
 1 - Sinal 2a) Artigo 13.º 2 - Foco com figura verde, fundo preto
 
-![](https://files.diariodarepublica.pt/images/1171382770/1171382957.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1171382770/1171382957.png) |
+| --- |
 
 Figura 4
 
@@ -1118,4 +1158,9 @@ D - Sinal 3a) Artigo 13.º
 
 1 e 2 - Sinal 2c) Artigo 13.º - (1) lente vermelha; (2) lente branca
 
-![](https://files.diariodarepublica.pt/images/1171382770/1171382958.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1171382770/1171382958.png) |
+| --- |
+
+119949457
+
+.Tbl2 { min-height:26px; } .Tbl3 { text-align:center; } .Tbl4 { min-height:56px; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { margin-top:4px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl9 { min-height:29px; } .Tbl10 { min-height:82px; } .Tbl11 { min-height:69px; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { min-height:122px; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl15 { min-height:74px; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl17 { min-height:49px; } .Tbl18 { min-height:18px; }

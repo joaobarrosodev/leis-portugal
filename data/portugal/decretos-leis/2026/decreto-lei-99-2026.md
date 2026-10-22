@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/99/2026/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2026-1125313598
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-22T00:00:00Z'
+  retrieved_at: '2026-10-22T18:41:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 397ee76a0c69068da01e6ed27e2122242d87de5522b157353ef34a5782e8e032
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82c805d1b4e711a3209521c52f4f3f3a197efab208a9bb05a6ac3e03091cec4f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:41:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,14 +69,27 @@ subjects:
 - Aluguer
 - Alvará
 - Contrato de Aluguer
+- Contrato de Sharing
 - Instituto da Mobilidade e dos Transportes
 - Licenciamento
-- Veículo
 - Transporte de Passageiros
+- Veículo
 - Veículo de Aluguer
 - Veículo de Aluguer sem Condutor
-- Contrato de Sharing
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:181/2012
+  label: Altera, a partir de 21 de junho de 2026, nos termos do artigo 4.º do presente diploma, os artigos 1.º, 3.º, 4.º,
+    6.º, 9.º, 9.º-C, 10.º, 12.º e 18.º e revoga o artigo 25.º do Decreto-Lei n.º 181/2012, de 6 de agosto, Diário da República
+    n.º 151/2012, Série I
+  source: null
+  date: '2012-08-06'
+- type: amends
+  target: pt:numero:decreto-lei:92/2023
+  label: Altera, a partir de 21 de junho de 2026, o artigo 6.º do Decreto-Lei n.º 92/2023 de 12 de outubro, Diário da República
+    n.º 198/2023, Série I
+  source: null
+  date: '2023-10-12'
 - type: cites
   target: celex:32006L0123
   label: null
@@ -109,20 +122,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/92/2023/10/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/92/2023/10/12/p/dre
+- type: cites
+  target: pt:dre:115552673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222695020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70373436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:858631715:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32022L0738
   label: null
   source: null
 article_structure:
-  article_count: 14
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:41:35Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +168,7 @@ validation:
 
 de 22 de maio
 
-A [Diretiva n.º 2006/123/CE](https://data.europa.eu/eli/dir/2006/123/oj?locale=pt), do Parlamento Europeu e do Conselho, de 12 de dezembro de 2006, relativa aos serviços no mercado interno, estabelece os princípios e os critérios que devem ser observados pelos regimes de acesso e de exercício de atividades de serviços na União Europeia, tendo sido transposta para a ordem jurídica interna pelo [Decreto-Lei n.º 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), de 26 de julho. Entretanto, revelou-se necessário aprovar o [Decreto-Lei n.º 181/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2012-178993), de 6 de agosto, que passou a regular as condições de acesso e de exercício da atividade de aluguer de veículos de passageiros sem condutor, também designada por atividade de rent-a-car, que foi objeto de subsequentes alterações pelos Decretos-Leis n.<sup>os</sup>[207/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2015-70373436), de 24 de setembro, e [47/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), de 20 de junho.
+A [Diretiva n.º 2006/123/CE](https://data.europa.eu/eli/dir/2006/123/oj?locale=pt), do Parlamento Europeu e do Conselho, de 12 de dezembro de 2006, relativa aos serviços no mercado interno, estabelece os princípios e os critérios que devem ser observados pelos regimes de acesso e de exercício de atividades de serviços na União Europeia, tendo sido transposta para a ordem jurídica interna pelo [Decreto-Lei n.º 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), de 26 de julho. Entretanto, revelou-se necessário aprovar o [Decreto-Lei n.º 181/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2012-178993), de 6 de agosto, que passou a regular as condições de acesso e de exercício da atividade de aluguer de veículos de passageiros sem condutor, também designada por atividade de rent-a-car, que foi objeto de subsequentes alterações pelos Decretos-Leis n.os[207/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2015-70373436), de 24 de setembro, e [47/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), de 20 de junho.
 
 O Programa do XXV Governo Constitucional promove um País mais verde e sustentável, alinhado com as transições energética e ambiental, privilegiando uma economia circular e descarbonizada, constituindo a atividade de rent-a-car uma ferramenta relevante para alcançar estes objetivos.
 
@@ -159,7 +196,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 O presente decreto-lei procede:
 
-a) À terceira alteração ao [Decreto-Lei n.º 181/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2012-178993), de 6 de agosto, alterado pelos Decretos-Leis n.<sup>os</sup>[207/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2015-70373436), de 24 de setembro, e [47/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), de 20 de junho, que regula as condições de acesso e de exercício da atividade de aluguer de veículos de passageiros sem condutor, também designada por atividade de rent-a-car, bem como o aluguer de curta duração de veículos de passageiros sem condutor, com e sem motor, também designado por atividade de sharing;
+a) À terceira alteração ao [Decreto-Lei n.º 181/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2012-178993), de 6 de agosto, alterado pelos Decretos-Leis n.os[207/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2015-70373436), de 24 de setembro, e [47/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), de 20 de junho, que regula as condições de acesso e de exercício da atividade de aluguer de veículos de passageiros sem condutor, também designada por atividade de rent-a-car, bem como o aluguer de curta duração de veículos de passageiros sem condutor, com e sem motor, também designado por atividade de sharing;
 
 b) À primeira alteração ao [Decreto-Lei n.º 92/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2023-222695020), de 12 de outubro, que aprova o regime do acesso e exercício da atividade de aluguer de veículos de mercadorias sem condutor e procede à transposição da [Diretiva (UE) 2022/738](https://data.europa.eu/eli/dir/2022/738/oj?locale=pt) do Parlamento Europeu e do Conselho, de 6 de abril de 2022.
 
@@ -181,7 +218,9 @@ Os artigos 1.º, 3.º, 4.º, 6.º, 9.º, 9.º-C, 10.º, 12.º e 18.º do [Decret
 
 5 - [Anterior n.º 4.]
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O acesso e exercício da atividade de aluguer de veículos sem condutor (rent-a-car) e de partilha de veículos (sharing), com ou sem motor, está sujeito a comunicação prévia com prazo ao IMT, I. P., a efetuar através do Portal Único de Serviços Digitais - o gov.pt.
 
@@ -203,7 +242,9 @@ Os artigos 1.º, 3.º, 4.º, 6.º, 9.º, 9.º-C, 10.º, 12.º e 18.º do [Decret
 
 10 - O IMT, I. P., mantém no seu sítio na Internet, acessível através do Portal Único de Serviços Digitais - o gov.pt, uma lista atualizada dos prestadores autorizados a exercer as atividades reguladas pelo presente decreto-lei.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -219,13 +260,15 @@ b) [...]
 
 5 - Os requisitos de acesso à atividade são de verificação permanente, devendo as entidades autorizadas comprovar o seu cumprimento para acederem à atividade, e sempre que lhes seja solicitado, podendo o conselho diretivo do IMT, I. P., determinar a cessação da atividade, em caso de incumprimento do presente artigo.
 
-6 - Caso se verifique que o interessado preenche todos os requisitos, à exceção do número mínimo de veículos, deve o IMT, I. P., conceder a permissão administrativa, a título provisório, pelo período de nove meses, sendo esta permissão emitida, a título efetivo, após a demonstração do número mínimo de veículos, em conformidade com o disposto nos n.<sup>os</sup>2 e 4 do presente artigo e no artigo 6.º
+6 - Caso se verifique que o interessado preenche todos os requisitos, à exceção do número mínimo de veículos, deve o IMT, I. P., conceder a permissão administrativa, a título provisório, pelo período de nove meses, sendo esta permissão emitida, a título efetivo, após a demonstração do número mínimo de veículos, em conformidade com o disposto nos n.os2 e 4 do presente artigo e no artigo 6.º
 
 7 - [...]
 
 8 - As entidades autorizadas devem comunicar ao IMT, I. P., toda e qualquer alteração relativa à manutenção dos requisitos de verificação permanente, no prazo máximo de 30 dias úteis após a verificação da alteração.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -247,7 +290,9 @@ d) Pelo menos 10 % dos automóveis ligeiros de passageiros afetos ao exercício 
 
 6 - [Anterior n.º 5.]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 10, o contrato de aluguer de veículos de passageiros sem condutor é reduzido a escrito e assinado pelas partes contratantes, devendo existir sempre um exemplar em língua portuguesa.
 
@@ -305,7 +350,9 @@ g) [...]
 
 13 - Na situação prevista no número anterior, deve ser disponibilizado ao locatário, no momento da celebração, o contrato em suporte duradouro, que possa ser guardado e consultado mais tarde, em papel ou em formato digital com assinatura digital certificada, devendo existir sempre um exemplar em língua portuguesa.
 
-###### Artigo 9.º-C — [...]
+Artigo 9.º-C
+
+[...]
 
 1 - [...]
 
@@ -319,7 +366,9 @@ g) [...]
 
 6 - Para efeitos do disposto na parte final no número anterior a plataforma eletrónica do prestador de serviços, pode incluir hiperligação para a plataforma criada e regulada pelo [Decreto-Lei n.º 26/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2024-858631715), de 3 de abril.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Tratando-se de contratos de adesão com recurso a cláusulas contratuais gerais, o locador está obrigado a enviar uma cópia das respetivas minutas à AMT, a efetuar por via do Balcão do Empreendedor, em data prévia ao início da atividade, ou da adoção de novas cláusulas que consubstanciem restrições aos direitos dos consumidores.
 
@@ -337,7 +386,9 @@ g) [...]
 
 8 - Sem prejuízo do referido no disposto no n.º 2, a AMT pode pronunciar-se a todo o tempo sobre a legalidade das cláusulas constantes dos contratos de adesão.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -347,7 +398,9 @@ g) [...]
 
 4 - [Anterior n.º 3.]
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -423,12 +476,14 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de janeiro de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Miguel Martinez de Castro Pinto Luz.
 
-**Promulgado em 4 de maio de 2026.**
+Promulgado em 4 de maio de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 6 de maio de 2026.**
+Referendado em 6 de maio de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119948549

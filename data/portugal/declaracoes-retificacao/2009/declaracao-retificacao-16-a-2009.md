@@ -23,7 +23,7 @@ publication:
   reference: Diário da República n.º 31/2009, 2º Suplemento, Série I de 2009-02-13
   number: '31'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1078-(6) a 1078-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/02/03102/0000600006.pdf
 entry_into_force_dates: []
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/16-a/2009/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-a-2009-181853
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:11:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd9358bcfba26a1ab49bcfdcd298e9b3004c03aaee190546f994caebc3caf7e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d67efea53cfcce4ea5737750297fa6dbb993ea0d562926a0852ddf7a785011d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:11:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atribuição de Frequências
-- Serviço Postal
-- Radiocomunicações
 - Comunicações Eletrónicas
 - Instituto das Comunicações de Portugal
 - Licença de Utilização
 - Radioamador
+- Radiocomunicações
 - Serviço de Telecomunicações Complementares-serviço Móvel Terrestre
+- Serviço Postal
 - Serviços de Radiocomunicações
 - Taxa
 - TAXA de Utilização
@@ -85,6 +85,24 @@ relationships:
   target: pt:dre:164422:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:244541:por
+  label: "Alterado o anexo II (a partir de 01.01.2014) e substituído o anexo IV da Port 296-A/2013 de 02-10, retificada pelo\
+    \ presente diploma, pela PORT.296-A/2013.02.10.2013.MECO, DR.IS [190-Supl] de 02.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/296-a-2013-244541
+  date: '2013-10-02'
+- type: amended_by
+  target: pt:dre:164422:por
+  label: "Alterado o n.º 1.1 do anexo IV da Port 1473-B/2008, de 17-dez, retificado pela presente Declaração, pela PORT.378-D/2013.31.12.2013.MECO,\
+    \ DR.IS [253-3ºSupl] de 31.12.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/378-d-2013-164422
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:106982549:por
+  label: Alterados o n.º 1.1, os n,ºs 1.2.1, 1.2.2 e 1.2.3 e os n.ºs 1.4.1 e 1.4.2 do anexo IV da Port 1473-B/2008, de 17-dez,
+    retificada pelo presente diploma, pelo(a) Portaria n.º 157/2017 - Diário da República n.º 90/2017, Série I de 2017-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/157-2017-106982549
+  date: '2017-05-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
   label: null
@@ -93,16 +111,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1473-b/2008/12/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1473-b/2008/12/17/p/dre
+- type: cites
+  target: pt:dre:198753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:portaria:1473-B/2008
+  label: "Rectifica a Portaria n.º 1473-B/2008, de 17 de Dezembro, DR.IS [243]Supl \0\0"
+  source: null
+  date: '2008-12-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:11:04Z'
   warnings: []
   errors: []
 ---
@@ -113,11 +144,11 @@ Ao abrigo da alínea h) do n.º 1 e do n.º 2 do artigo 4.º do [Decreto-Lei n.�
 
 1 - Na tabela constante do n.º 10.º, onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03102/0000600006.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03102/0000600006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03102/0000600006.pdf)
 
 deve ler -se:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03102/0000600006.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03102/0000600006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03102/0000600006.pdf)
 
 2 - No n.º 2 do anexo ii, onde se lê:
 
@@ -131,24 +162,24 @@ deve ler -se:
 
 1.1.4 - Serviço móvel terrestre - redes privativas - taxa aplicável por cada canal consignado por célula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03102/0000600006.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03102/0000600006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03102/0000600006.pdf)
 
 deve ler-se:
 
 1.1.4 - Serviço móvel terrestre - redes privativas - taxa aplicável por cada canal consignado por célula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03102/0000600006.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03102/0000600006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03102/0000600006.pdf)
 
 4 - No n.º 1 do anexo iv, onde se lê:
 
 1.3.8 - Sistemas de acesso fixo via rádio (FWA) e de acesso de banda larga via rádio (BWA):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03102/0000600006.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03102/0000600006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03102/0000600006.pdf)
 
 deve ler-se:
 
 1.3.8 - Sistemas de acesso fixo via rádio (FWA) e de acesso de banda larga via rádio (BWA):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03102/0000600006.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03102/0000600006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03102/0000600006.pdf)
 
 Centro Jurídico, 13 de Fevereiro de 2009. - O Director-Adjunto, Pedro Delgado Alves.

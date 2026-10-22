@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/11/23000/0001500068.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/7/2019/11/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/7-2019-126731021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-11-29T00:00:00Z'
+  retrieved_at: '2026-10-22T17:54:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac08541f685170e0d3297ade1f001bc546f0f1e231cabfc4691e21937237ee8a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b17a08659a8808677768685973010c3e25d43b242d5ac3baab3887ff5364b631
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:54:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Código Penal
 - Crime
+- Direito Penal
 - Execução de Penas
+- Execução de Sentença
 - Interpretação do Direito
 - Jurisprudencia
-- Execução de Sentença
-- Sanção Penal
-- Código Penal
-- Direito Penal
 - Liberdade Condicional
+- Sanção Penal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/ac/3/2006/01/09/p/dre
@@ -102,16 +102,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/59/2007/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/59/2007/09/04/p/dre
+- type: corrected_by
+  target: pt:dre:127582900:por
+  label: Retificado, por republicação, pelo(a) Declaração de Retificação n.º 61/2019 - Diário da República n.º 249/2019, Série
+    I de 2019-12-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/61-2019-127582900
+  date: '2019-12-27'
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:54:20Z'
   warnings: []
   errors: []
 ---
@@ -640,7 +646,9 @@ III - As normas legais pertinentes
 
 A secção IV do título I do Livro I do Código Penal estabelece as regras legais da liberdade condicional, nas seguintes normas legais:
 
-###### Artigo 61.º — Pressupostos e duração
+Artigo 61.º
+
+Pressupostos e duração
 
 1 - A aplicação da liberdade condicional depende sempre do consentimento do condenado.
 
@@ -656,11 +664,15 @@ b) A libertação se revelar compatível com a defesa da ordem e da paz social.
 
 5 - Em qualquer das modalidades a liberdade condicional tem uma duração igual ao tempo de prisão que falte cumprir, até ao máximo de cinco anos, considerando-se então extinto o excedente da pena.
 
-###### Artigo 62.º — Adaptação à liberdade condicional
+Artigo 62.º
+
+Adaptação à liberdade condicional
 
 Para efeito de adaptação à liberdade condicional, verificados os pressupostos previstos no artigo anterior, a colocação em liberdade condicional pode ser antecipada pelo tribunal, por um período máximo de um ano, ficando o condenado obrigado durante o período da antecipação, para além do cumprimento das demais condições impostas, ao regime de permanência na habitação, com fiscalização por meios técnicos de controlo à distância.
 
-###### Artigo 63.º — Liberdade condicional em caso de execução sucessiva de várias penas
+Artigo 63.º
+
+Liberdade condicional em caso de execução sucessiva de várias penas
 
 1 - Se houver lugar à execução de várias penas de prisão, a execução da pena que deva ser cumprida em primeiro lugar é interrompida quando se encontrar cumprida metade da pena.
 
@@ -670,7 +682,9 @@ Para efeito de adaptação à liberdade condicional, verificados os pressupostos
 
 4 - O disposto nos números anteriores não é aplicável ao caso em que a execução da pena resultar de revogação da liberdade condicional
 
-###### Artigo 64.º — Regime da liberdade condicional
+Artigo 64.º
+
+Regime da liberdade condicional
 
 1 - É correspondentemente aplicável à liberdade condicional o disposto no artigo 52.º, nos n.os 1 e 2 do artigo 53.º, no artigo 54.º, nas alíneas a) a c) do artigo 55.º, no n.º 1 do artigo 56.º e no artigo 57.º
 
@@ -1607,3 +1621,5 @@ Termos em que se conclui que deveria ter sido firmada jurisprudência em sentido
 (63) Jorge de Figueiredo Dias, As Consequências Jurídicas do Crime, Aequitas, Editorial Notícias, 1993, §868, p. 5
 
 (64) Ibidem pag 550.
+
+112781966

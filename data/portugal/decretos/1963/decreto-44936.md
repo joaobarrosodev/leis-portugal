@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44936-1963-195436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-03-26T00:00:00Z'
+  retrieved_at: '2026-10-22T19:34:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a0b4aad3acd2c12c93c03677e279e9ce2cafa8afa0afb2dcf1affc45b089a2c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 851915ea2a4f34715fe55ffe154c1945a5e17a26f4925ef5a6a05e90be57f241
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:34:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:513008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514182:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:34:07Z'
   warnings: []
   errors: []
 ---
@@ -96,22 +104,22 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º De harmonia com o disposto na segunda parte do n.º 1.º do artigo 11.º do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), de 22 de Novembro de 1960, é autorizada a emissão de promissórias, destinadas a substituir parte da importância a entregar por Portugal ao Banco Internacional de Reconstrução e Desenvolvimento, nos termos do Acordo aprovado pelo [Decreto-Lei n.º 43337](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43337-1960-514182), de 21 de Novembro de 1960.
+Artigo 1.º De harmonia com o disposto na segunda parte do n.º 1.º do artigo 11.º do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), de 22 de Novembro de 1960, é autorizada a emissão de promissórias, destinadas a substituir parte da importância a entregar por Portugal ao Banco Internacional de Reconstrução e Desenvolvimento, nos termos do Acordo aprovado pelo [Decreto-Lei n.º 43337](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43337-1960-514182), de 21 de Novembro de 1960.
 
-###### Art. 2.º O serviço da emissão ficará a cargo da Junta do Crédito Público e as promissórias serão entregues ao Banco de Portugal na sua qualidade de depositário das disponibilidades do Banco Internacional de Reconstrução e Desenvolvimento em moeda portuguesa, conforme está previsto no artigo 7.º do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008) e na secção 11 do artigo V do Acordo.
+Art. 2.º O serviço da emissão ficará a cargo da Junta do Crédito Público e as promissórias serão entregues ao Banco de Portugal na sua qualidade de depositário das disponibilidades do Banco Internacional de Reconstrução e Desenvolvimento em moeda portuguesa, conforme está previsto no artigo 7.º do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008) e na secção 11 do artigo V do Acordo.
 
-###### Art. 3.º Haverá duas promissórias do valor nominal de 100000 contos cada uma, duas promissórias do valor nominal de 2000 cada uma, uma promissória do valor nominal de 680 contos e cinco promissórias do valor nominal de 50 contos cada uma, podendo qualquer delas ser desdobrada em promissórias de menor valor, ser substituída por outra de montante diferente, ou proceder-se à integração de duas ou mais promissórias noutra de maior valor.
+Art. 3.º Haverá duas promissórias do valor nominal de 100000 contos cada uma, duas promissórias do valor nominal de 2000 cada uma, uma promissória do valor nominal de 680 contos e cinco promissórias do valor nominal de 50 contos cada uma, podendo qualquer delas ser desdobrada em promissórias de menor valor, ser substituída por outra de montante diferente, ou proceder-se à integração de duas ou mais promissórias noutra de maior valor.
 
-###### Art. 4.º As promissórias a emitir não são negociáveis nem vencem juros e são pagáveis à vista e ao par, creditando a conta do Banco Internacional de Reconstrução e Desenvolvimento no Banco de Portugal.
+Art. 4.º As promissórias a emitir não são negociáveis nem vencem juros e são pagáveis à vista e ao par, creditando a conta do Banco Internacional de Reconstrução e Desenvolvimento no Banco de Portugal.
 
-###### Art. 5.º No caso de ser paga sòmente uma parte da importância representada em qualquer das promissórias, poder-se-á aplicar, total ou parcialmente, à quantia não despendida em nova ou novas promissórias, com as mesmas características, ou incluí-la em promissórias já existentes.
+Art. 5.º No caso de ser paga sòmente uma parte da importância representada em qualquer das promissórias, poder-se-á aplicar, total ou parcialmente, à quantia não despendida em nova ou novas promissórias, com as mesmas características, ou incluí-la em promissórias já existentes.
 
-###### Art. 6.º As promissórias gozam dos direitos, isenções, garantias dos restantes títulos da dívida pública que lhes forem aplicáveis e serão assinadas de chancela pelo Ministro das Finanças e pelo presidente da Junta do Crédito Publico, levando também a assinatura autógrafa de um dos vogais e o selo branco da mesma Junta.
+Art. 6.º As promissórias gozam dos direitos, isenções, garantias dos restantes títulos da dívida pública que lhes forem aplicáveis e serão assinadas de chancela pelo Ministro das Finanças e pelo presidente da Junta do Crédito Publico, levando também a assinatura autógrafa de um dos vogais e o selo branco da mesma Junta.
 
-###### Art. 7.º Das promissórias constará o respectivo número de ordem, o capital nelas representado, a data da emissão e os decretos que autorizaram essa emissão, assim como os direitos, isenções e garantias, de que gozam.
+Art. 7.º Das promissórias constará o respectivo número de ordem, o capital nelas representado, a data da emissão e os decretos que autorizaram essa emissão, assim como os direitos, isenções e garantias, de que gozam.
 
-###### Art. 8.º São aplicáveis as disposições do presente diploma a outras promissórias que, nos termos do Acordo, se torne conveniente emitir em substituição de novas importâncias em moeda que o Governo Português tenha de entregar ao Banco Internacional de Reconstrução e Desenvolvimento.
+Art. 8.º São aplicáveis as disposições do presente diploma a outras promissórias que, nos termos do Acordo, se torne conveniente emitir em substituição de novas importâncias em moeda que o Governo Português tenha de entregar ao Banco Internacional de Reconstrução e Desenvolvimento.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 26 de Março de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa.

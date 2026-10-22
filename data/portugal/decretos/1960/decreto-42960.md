@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/42960-1960-505432
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-05-03T00:00:00Z'
+  retrieved_at: '2026-10-22T19:17:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c9962721082f46f2ef96b0efef8d9e82b442598df7c54af989b4562b32d3375
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 059994f621ae052f51afa09727def5ccd2aff1296db0ba3c432e7d000c457587
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:17:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:272442:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:17:59Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +97,9 @@ Nestes termos, ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo artigo 150.º, n.º 3.º, da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. São aditados ao artigo 8.º do [Decreto n.º 33532](https://diariodarepublica.pt/dr/detalhe/decreto/33532-1944-272442), de 21 de Fevereiro de 1944, os seguintes parágrafos:
+Artigo único. São aditados ao artigo 8.º do [Decreto n.º 33532](https://diariodarepublica.pt/dr/detalhe/decreto/33532-1944-272442), de 21 de Fevereiro de 1944, os seguintes parágrafos:
 
-###### Art. 8.º ...
+Art. 8.º ...
 
 § 1.º ...
 
@@ -105,7 +109,7 @@ Usando da faculdade conferida pelo artigo 150.º, n.º 3.º, da Constituição, 
 
 § 4.º As fábricas de tabaco cuja instalação ou transmissão for condicionada pelo governo-geral à total exportação dos respectivos produtos podem ser propriedade, no todo ou em parte, de empresas estrangeiras.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 3 de Maio de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

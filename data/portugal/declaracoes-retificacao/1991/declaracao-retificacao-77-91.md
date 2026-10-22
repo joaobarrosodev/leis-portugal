@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 99/1991, 2º Suplemento, Série I-B de 1991-04-30
   number: '99'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2388-(3) a 2388-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/099b02/00030003.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/77/1991/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/77-1991-459581
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f9d017ff77bf381cd8310bfad9694d47b7b29a39c39c54c667bf7df7fc5fd45
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7a10e4ca9c8c01840b46d6fc4c3059612611950f878476d18eddfda69a50326
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,18 +77,18 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:30Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 77/91
+# Declaração de rectificação n.º 77/91
 
 Segundo comunicação da 3.ª Delegação da Direcção-Geral da Contabilidade Pública junto do Ministério das Finanças, a DEclaração n.º 37/91, publicada no Diário da República, n.º 62, de 15 de Março de 1991, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
 

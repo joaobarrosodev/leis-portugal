@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 227/1995, 2º Suplemento, Série I-B de 1995-09-30
   number: '227'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 6080-(6) a 6080-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1995/09/227b02/00060006.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/121/1995/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/121-1995-218367
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:44:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59bb88651f5713498918f1257b8dcb473f3e464cca3885fffb543dd71635c2fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc205594950b19e92a694bbef1770d967b77a10c183b30271fc17e8e18820989
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:44:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,21 +74,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/896-b1/1995/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/896-b1/1995/07/15/p/dre
+- type: cites
+  target: pt:dre:211072:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:44:17Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 121/95
+# Declaração de rectificação n.º 121/95
 
 Segundo comunicação do Ministério da Agricultura, a [Portaria n.º 896-B1/95](https://diariodarepublica.pt/dr/detalhe/portaria/896-b1-1995-211072), publicada no Diário da República, 1.ª série, n.º 162 (suplemento), de 15 de Julho de 1995, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 

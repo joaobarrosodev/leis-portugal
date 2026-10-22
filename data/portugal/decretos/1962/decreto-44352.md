@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44352-1962-164394
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-05-16T00:00:00Z'
+  retrieved_at: '2026-10-22T19:29:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a24939d3ecce6b934a9ec131c884c361a2f7575e7b3a985ea739cfe6caaf2330
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a74bf57b2c13f45097cc6438cef524bad952290e7fd7742eb2118c92bb74d954
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:29:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:184478:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:29:20Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +96,7 @@ Nos termos e em execução do preceito do artigo 26.º da [Lei n.º 2111](https:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Nos concursos para as categorias de secretário de finanças de 3.ª classe e de terceiro-oficial e nos concursos extraordinários para aspirante da Direcção-Geral das Contribuições e Impostos, quando for superior a 100 o número de candidatos e se verifique manifesta urgência no preenchimento das vagas, poderá o Ministro das Finanças determinar a distribuição dos candidatos por várias turmas e constituir para cada uma o respectivo júri.
+Artigo 1.º Nos concursos para as categorias de secretário de finanças de 3.ª classe e de terceiro-oficial e nos concursos extraordinários para aspirante da Direcção-Geral das Contribuições e Impostos, quando for superior a 100 o número de candidatos e se verifique manifesta urgência no preenchimento das vagas, poderá o Ministro das Finanças determinar a distribuição dos candidatos por várias turmas e constituir para cada uma o respectivo júri.
 
 § 1.º As provas escritas e orais poderão ser prestadas em Lisboa ou noutras capitais de distrito, devendo, todavia, as escritas ser sempre prestadas simultâneamente e os pontos iguais para todos os candidatos.
 
@@ -100,16 +104,16 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 § 3.º A elaboração dos pontos relativos às provas escritas será feita apenas por um dos júris, designado pelo director-geral e sob a sua presidência.
 
-###### Art. 2.º O director-geral tomará as providências necessárias para que a apreciação do mérito dos candidatos e a sua classificação sejam uniformes, devendo, para tanto, alternar a composição dos júris, transferindo de uns para outros os respectivos membros, de modo a assegurar a unidade dos critérios de valorização.
+Art. 2.º O director-geral tomará as providências necessárias para que a apreciação do mérito dos candidatos e a sua classificação sejam uniformes, devendo, para tanto, alternar a composição dos júris, transferindo de uns para outros os respectivos membros, de modo a assegurar a unidade dos critérios de valorização.
 
-###### Art. 3.º Os pontos práticos das provas escritas para secretário de finanças de 3.ª classe e terceiro-oficial incluirão um problema de aplicação das leis e regulamentos fiscais, a cuja solução se atribuirá a classificação de 0 a 7 valores, e um questionário com quatro perguntas, cujas respostas serão classificadas, cada uma, de 0 a 2 valores, em harmonia com o respectivo grau de certeza.
+Art. 3.º Os pontos práticos das provas escritas para secretário de finanças de 3.ª classe e terceiro-oficial incluirão um problema de aplicação das leis e regulamentos fiscais, a cuja solução se atribuirá a classificação de 0 a 7 valores, e um questionário com quatro perguntas, cujas respostas serão classificadas, cada uma, de 0 a 2 valores, em harmonia com o respectivo grau de certeza.
 
 § único. Para apuramento da classificação geral do ponto, a soma das classificações parciais previstas no corpo deste artigo poderá ser aumentada até mais cinco valores, quando se observe que, tanto na solução como nas respostas, além da exactidão, o candidato revelou excepcionais aptidões e conhecimentos profissionais.
 
-###### Art. 4.º Na elaboração, realização e classificação dos pontos teóricos e respectivas provas seguir-se-ão as mesmas regras do artigo anterior, substituindo-se, no entanto, o problema por um tema sobre matéria do programa, que os candidatos deverão desenvolver.
+Art. 4.º Na elaboração, realização e classificação dos pontos teóricos e respectivas provas seguir-se-ão as mesmas regras do artigo anterior, substituindo-se, no entanto, o problema por um tema sobre matéria do programa, que os candidatos deverão desenvolver.
 
-###### Art. 5.º Este decreto aplica-se aos concursos cujas provas não se tenham ainda iniciado à data da sua publicação.
+Art. 5.º Este decreto aplica-se aos concursos cujas provas não se tenham ainda iniciado à data da sua publicação.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Maio de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa.

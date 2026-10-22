@@ -34,6 +34,155 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2016-10-01'
+version_history:
+  file: regulamento-ue-2000-1150.versoes.json
+  count: 5
+  source_lastmod: '2016-10-01'
+  versions:
+  - date: '2000-05-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-11-28'
+    amending: null
+    amending_title: Regulamento (CE, Euratom) n. o 2028/2004 do Conselho de 16 de Novembro de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 21.º
+    - Altera Artigo 23.º
+    - Adita TÍTULO I
+    - Adita Disposições gerais
+    - Adita TÍTULO II
+    - Adita Contabilização dos recursos próprios
+    - Adita TÍTULO III
+    - Adita Colocação à disposição dos recursos próprios
+    - Adita Artigo 10.ºA
+    - Adita TÍTULO IV
+    - Adita Gestão da tesouraria
+    - Adita TÍTULO VI
+    - Adita Regras de execução do artigo 7.º da Decisão 2000/597/CE, Euratom
+    - Adita TÍTULO VII
+    - Adita Disposições relativas ao controlo
+    - Adita TÍTULO VIII
+    - Adita Disposições relativas ao Comité Consultivo dos Recursos Próprios
+    - Adita TÍTULO IX
+    - Adita Disposições transitórias
+    - Adita Artigo 21.ºA
+    - Adita TÍTULO [►M1](http://publications.europa.eu/resource/celex/304R2028) X◄
+    - Adita Disposições finais
+    - Adita ANEXO
+    - Adita PARTE A
+    - Adita PARTE B
+    - Adita Regulamentos que modificam o Regulamento (CEE, Euratom) n.º 1552/89
+  - date: '2007-01-01'
+    amending: null
+    amending_title: Regulamento (CE, Euratom) n. o 105/2009 do Conselho de 26 de Janeiro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 10.ºA
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 21.ºA
+    - Altera Notas
+    - Adita Regras de execução do artigo 7.º da [►M2](http://publications.europa.eu/resource/celex/309R0105) Decisão 2007/436/CE,
+      Euratom◄
+    - Suprime Regras de execução do artigo 7.º da Decisão 2000/597/CE, Euratom
+  - date: '2014-12-24'
+    amending: eu:celex:32004R2028:por
+    amending_title: REGULAMENTO (CE, EURATOM) N. o 2028/2004 DO CONSELHO de 16 de Novembro de 2004; REGULAMENTO (CE, EURATOM)
+      N. o 105/2009 DO CONSELHO de 26 de Janeiro de 2009; REGULAMENTO DO CONSELHO (UE, Euratom) N. o 1377/2014 de 18 de dezembro
+      de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 10.ºA
+    - Altera Artigo 12.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 21.ºA
+    - Altera Notas
+    - Adita Regras de execução do artigo 7.º da [►M2](http://publications.europa.eu/resource/celex/32009R0105) Decisão 2007/436/CE,
+      Euratom◄
+    - Adita TÍTULO [►M1](http://publications.europa.eu/resource/celex/32004R2028) X◄
+    - Suprime Regras de execução do artigo 7.º da [►M2](http://publications.europa.eu/resource/celex/309R0105) Decisão 2007/436/CE,
+      Euratom◄
+    - Suprime TÍTULO [►M1](http://publications.europa.eu/resource/celex/304R2028) X◄
+  - date: '2016-10-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime Disposições gerais
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime TÍTULO II
+    - Suprime Contabilização dos recursos próprios
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime TÍTULO III
+    - Suprime Colocação à disposição dos recursos próprios
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 10.ºA
+    - Suprime Artigo 11.º
+    - Suprime TÍTULO IV
+    - Suprime Gestão da tesouraria
+    - Suprime Artigo 12.º
+    - Suprime TÍTULO VI
+    - Suprime Regras de execução do artigo 7.º da [►M2](http://publications.europa.eu/resource/celex/32009R0105) Decisão 2007/436/CE,
+      Euratom◄
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime TÍTULO VII
+    - Suprime Disposições relativas ao controlo
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime TÍTULO VIII
+    - Suprime Disposições relativas ao Comité Consultivo dos Recursos Próprios
+    - Suprime Artigo 20.º
+    - Suprime Artigo 21.º
+    - Suprime TÍTULO IX
+    - Suprime Disposições transitórias
+    - Suprime Artigo 21.ºA
+    - Suprime TÍTULO [►M1](http://publications.europa.eu/resource/celex/32004R2028) X◄
+    - Suprime Disposições finais
 identifiers:
   celex: 32000R1150
   eli: http://data.europa.eu/eli/reg/2000/1150/oj
@@ -48,7 +197,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ae58deeb-910d-4a68-9d37-17264a74a210.0009
   content_url: http://publications.europa.eu/resource/cellar/c202d787-b943-4b4a-b73a-d294f91677b9.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000R1150-20161001
-  retrieved_at: '2026-10-22T02:56:57Z'
+  retrieved_at: '2026-10-22T17:38:17Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-10-14T15:41:40.838+02:00'
 integrity:
@@ -57,9 +206,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:56:57Z'
-  notes: Texto consolidado 02000R1150-20161001.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:38:17Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2000-1150.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -206,16 +355,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:56:57Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T17:38:17Z'
+  warnings: []
   errors: []
 ---
 

@@ -36,6 +36,183 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2018-01-03'
+version_history:
+  file: diretiva-ue-2004-39.versoes.json
+  count: 6
+  source_lastmod: '2018-01-03'
+  versions:
+  - date: '2004-04-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-04-28'
+    amending: null
+    amending_title: Directiva 2006/31/CE do Parlamento Europeu e do Conselho Texto relevante para efeitos do EEE de 5 de Abril
+      de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Isenções facultativas
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 11.º — Adesão a um sistema autorizado de indemnização dos investidores
+    - Altera Artigo 25.º — Obrigação de promover a integridade dos mercados, notificar as transacções e manter registos
+    - Altera Artigo 40.o — Admissão de instrumentos financeiros à negociação
+    - Altera Artigo 55.o — Relações com os revisores de contas
+    - Altera Artigo 64.º
+    - Altera Artigo 66.º — Alteração da Directiva 85/611/CEE
+    - Altera Artigo 67.º — Alteração da Directiva 93/6/CEE
+    - Altera Artigo 68.º — Alteração da Directiva 2000/12/CE
+    - Altera Artigo 70.º — Transposição
+    - Altera Artigo 71.º — Disposições transitórias
+    - Altera Notas
+    - Adita Artigo 65.º
+    - Adita Artigo 69.º
+    - Suprime Artigo 65.º — Relatórios e revisão
+    - Suprime Artigo 69.º — Revogação da Directiva 93/22/CEE
+  - date: '2007-09-21'
+    amending: null
+    amending_title: Directiva 2007/44/CE do Parlamento Europeu e do Conselho Texto relevante para efeitos do EEE de 5 de Setembro
+      de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Isenções facultativas
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 10.º — Accionistas e sócios com participações qualificadas
+    - Altera Artigo 11.º — Adesão a um sistema autorizado de indemnização dos investidores
+    - Altera Artigo 25.º — Obrigação de promover a integridade dos mercados, notificar as transacções e manter registos
+    - Altera Artigo 40.o — Admissão de instrumentos financeiros à negociação
+    - Altera Artigo 55.o — Relações com os revisores de contas
+    - Altera Artigo 64.º
+    - Altera Artigo 66.º — Alteração da Directiva 85/611/CEE
+    - Altera Artigo 67.º — Alteração da Directiva 93/6/CEE
+    - Altera Artigo 68.º — Alteração da Directiva 2000/12/CE
+    - Altera Notas
+    - Adita Artigo 10.º-A
+    - Adita Artigo 10.º-B
+  - date: '2008-03-20'
+    amending: null
+    amending_title: Directiva 2008/10/CE do Parlamento Europeu e do Conselho de 11 de Março de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Isenções
+    - Altera Artigo 3.º — Isenções facultativas
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 10.º-A
+    - Altera Artigo 10.º-B
+    - Altera Artigo 11.º — Adesão a um sistema autorizado de indemnização dos investidores
+    - Altera Artigo 13.º — Requisitos em matéria de organização
+    - Altera Artigo 15.º — Relações com países terceiros
+    - Altera Artigo 18.º — Conflitos de interesses
+    - Altera Artigo 19.º — Normas de conduta a seguir na prestação de serviços de investimento aos clientes
+    - Altera Artigo 21.º — Obrigação de executar as ordens nas condições mais favoráveis para o cliente
+    - Altera Artigo 22.º — Regras relativas ao tratamento das ordens dos clientes
+    - Altera Artigo 24.º — Transacções efectuadas com contrapartes elegíveis
+    - Altera Artigo 25.º — Obrigação de promover a integridade dos mercados, notificar as transacções e manter registos
+    - Altera Artigo 27.º — Obrigação de as empresas de investimento divulgarem as ofertas de preços firmes
+    - Altera Artigo 28.º — Informações pós-negociação a prestar pelas empresas de investimento
+    - Altera Artigo 29.o — Requisitos de transparência pré-negociação aplicáveis aos MTF
+    - Altera Artigo 30.o — Requisitos de transparência pós-negociação aplicáveis aos MTF
+    - Altera Artigo 40.o — Admissão de instrumentos financeiros à negociação
+    - Altera Artigo 44.o — Requisitos de transparência pré-negociação aplicáveis aos mercados regulamentados
+    - Altera Artigo 45.o — Requisitos de transparência pós-negociação aplicáveis aos mercados regulamentados
+    - Altera Artigo 55.o — Relações com os revisores de contas
+    - Altera Artigo 56.o — Obrigação de cooperação
+    - Altera Artigo 58.o — Troca de informações
+    - Altera Artigo 64.º
+    - Altera Artigo 66.º — Alteração da Directiva 85/611/CEE
+    - Altera Artigo 67.º — Alteração da Directiva 93/6/CEE
+    - Altera Artigo 68.º — Alteração da Directiva 2000/12/CE
+    - Altera Notas
+  - date: '2011-01-04'
+    amending: eu:celex:32006L0031:por
+    amending_title: Directiva 2006/31/CE do Parlamento Europeu e do Conselho Texto relevante para efeitos do EEE de 5 de Abril
+      de 2006; Directiva 2007/44/CE do Parlamento Europeu e do Conselho Texto relevante para efeitos do EEE de 5 de Setembro
+      de 2007; Directiva 2008/10/CE do Parlamento Europeu e do Conselho de 11 de Março de 2008; Directiva 2010/78/UE do Parlamento
+      Europeu e do Conselho Texto relevante para efeitos do EEE de 24 de Novembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Isenções
+    - Altera Artigo 3.º — Isenções facultativas
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 5.º — Obrigatoriedade da autorização
+    - Altera Artigo 7.º — Processo de concessão ou recusa de pedidos de autorização
+    - Altera Artigo 8.º — Revogação da autorização
+    - Altera Artigo 10.º — Accionistas e sócios com participações qualificadas
+    - Altera Artigo 10.º-A
+    - Altera Artigo 10.º-B
+    - Altera Artigo 11.º — Adesão a um sistema autorizado de indemnização dos investidores
+    - Altera Artigo 13.º — Requisitos em matéria de organização
+    - Altera Artigo 15.º — Relações com países terceiros
+    - Altera Artigo 16.º — Revisão periódica das condições de autorização inicial
+    - Altera Artigo 18.º — Conflitos de interesses
+    - Altera Artigo 19.º — Normas de conduta a seguir na prestação de serviços de investimento aos clientes
+    - Altera Artigo 21.º — Obrigação de executar as ordens nas condições mais favoráveis para o cliente
+    - Altera Artigo 22.º — Regras relativas ao tratamento das ordens dos clientes
+    - Altera Artigo 23.º — Obrigações das empresas de investimento que nomeiam agentes vinculados
+    - Altera Artigo 24.º — Transacções efectuadas com contrapartes elegíveis
+    - Altera Artigo 25.º — Obrigação de promover a integridade dos mercados, notificar as transacções e manter registos
+    - Altera Artigo 27.º — Obrigação de as empresas de investimento divulgarem as ofertas de preços firmes
+    - Altera Artigo 28.º — Informações pós-negociação a prestar pelas empresas de investimento
+    - Altera Artigo 36.º — Autorização e legislação aplicável
+    - Altera Artigo 41.o — Suspensão e retirada de instrumentos da negociação
+    - Altera Artigo 59.º — Recusa de cooperação
+    - Altera Artigo 63.º — Troca de informações com países terceiros
+    - Altera Artigo 64.º
+    - Altera Artigo 66.º — Alteração da Directiva 85/611/CEE
+    - Altera Artigo 67.º — Alteração da Directiva 93/6/CEE
+    - Altera Artigo 68.º — Alteração da Directiva 2000/12/CE
+    - Altera Notas
+    - Adita Artigo 29.º — Requisitos de transparência pré-negociação aplicáveis aos MTF
+    - Adita Artigo 30.º — Requisitos de transparência pós-negociação aplicáveis aos MTF
+    - Adita Artigo 31.º — Liberdade de prestação de serviços e actividades de investimento
+    - Adita Artigo 32.º — Estabelecimento de uma sucursal
+    - Adita Artigo 39.º — Requisitos em matéria de organização
+    - Adita Artigo 40.º — Admissão de instrumentos financeiros à negociação
+    - Adita Artigo 42.º — Acesso ao mercado regulamentado
+  - date: '2018-01-03'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime DEFINIÇÕES E ÂMBITO DE APLICAÇÃO
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Isenções
+    - Suprime Artigo 3.º — Isenções facultativas
+    - Suprime Artigo 4.º — Definições
+    - Suprime TÍTULO II
+    - Suprime CONDIÇÕES DE AUTORIZAÇÃO E DE EXERCÍCIO DA ACTIVIDADE APLICÁVEIS ÀS EMPRESAS DE INVESTIMENTO
+    - Suprime CAPÍTULO 1
+    - Suprime CONDIÇÕES E PROCEDIMENTO DE AUTORIZAÇÃO
+    - Suprime Artigo 5.º — Obrigatoriedade da autorização
+    - Suprime Artigo 6.º — Âmbito da autorização
+    - Suprime Artigo 7.º — Processo de concessão ou recusa de pedidos de autorização
+    - Suprime Artigo 8.º — Revogação da autorização
+    - Suprime Artigo 9.º — Pessoas que dirigem efectivamente a actividade da empresa
+    - Suprime Artigo 10.º — Accionistas e sócios com participações qualificadas
+    - Suprime Artigo 10.º-A
+    - Suprime Artigo 10.º-B
+    - Suprime Artigo 11.º — Adesão a um sistema autorizado de indemnização dos investidores
+    - Suprime Artigo 12.º — Dotação inicial de capital
+    - Suprime Artigo 13.º — Requisitos em matéria de organização
+    - Suprime Artigo 14.º — Processo de negociação e conclusão de transacções num MTF
+    - Suprime Artigo 15.º — Relações com países terceiros
+    - Suprime CAPÍTULO II
+    - Suprime CONDIÇÕES PARA O EXERCÍCIO DA ACTIVIDADE APLICÁVEIS ÀS EMPRESAS DE INVESTIMENTO
+    - Suprime Secção 1
+    - Suprime Disposições gerais
+    - Suprime Artigo 16.º — Revisão periódica das condições de autorização inicial
+    - Suprime Artigo 17.º — Obrigações gerais respeitantes à supervisão contínua
+    - Suprime Artigo 18.º — Conflitos de interesses
+    - Suprime Secção 2
+    - Suprime Disposições destinadas a assegurar a protecção dos investidores
+    - Suprime Artigo 19.º — Normas de conduta a seguir na prestação de serviços de investimento aos clientes
+    - Suprime Artigo 20.º — Prestação de serviços através de outra empresa de investimento
+    - Suprime Artigo 21.º — Obrigação de executar as ordens nas condições mais favoráveis para o cliente
+    - Suprime Artigo 22.º — Regras relativas ao tratamento das ordens dos clientes
+    - Suprime Artigo 23.º — Obrigações das empresas de investimento que nomeiam agentes vinculados
+    - Suprime Artigo 24.º — Transacções efectuadas com contrapartes elegíveis
+    - Suprime Secção 3
 identifiers:
   celex: 32004L0039
   eli: http://data.europa.eu/eli/dir/2004/39/oj
@@ -50,7 +227,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/08909c77-587d-43ec-b894-22c0a250ed89.0010
   content_url: http://publications.europa.eu/resource/cellar/114f0f67-2b50-4fe4-af34-51be8232bc22.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0039-20180103
-  retrieved_at: '2026-10-22T02:35:06Z'
+  retrieved_at: '2026-10-22T17:38:40Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-17T12:43:10.162+02:00'
 integrity:
@@ -59,9 +236,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:06Z'
-  notes: Texto consolidado 02004L0039-20180103.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:38:40Z'
+  notes: 6 versão(ões); histórico completo em diretiva-ue-2004-39.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -527,16 +704,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:06Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T17:38:40Z'
+  warnings: []
   errors: []
 ---
 

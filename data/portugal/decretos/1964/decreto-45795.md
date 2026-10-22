@@ -46,40 +46,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45795-1964-578096
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-06-04T00:00:00Z'
+  retrieved_at: '2026-10-22T19:41:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46ee478eba31f674945539fcd250fa2ba8c4c0caf12f44c6b308c273296b9cbc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 560ce72aeeaef79cbeb17a4ff4ec1173928d25a6174b6873b5935ef43dc178b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:41:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arborização
+- Comissão Consultiva
+- Conselho Administrativo
+- Definição de Competências
+- Exploração Florestal
+- Fundo de Fomento Florestal e Aquícola
+- Presidente
+- Regulamento
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:253242:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:401510:por
+  label: "Alterada para Fundo de Fomento Florestal a designação do Fundo de Fomento Florestal e Aquícola, criado pelo Dec\
+    \ Lei 34394, de 27 de Jan de 1945, e cujo regulamento foi aprovado pelo presente diploma, pelo DEC LEI.48165.27.12.1967.MECO,\
+    \ DG.IS [299] de 27.12.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48165-1967-401510
+  date: '1967-12-27'
+- type: amended_by
+  target: pt:dre:421624:por
+  label: "Reduzidos para dois anos, o prazo a que se refere o art. 29º do presente diploma, pelo DEC LEI.367/73.20.07.1973.MECO,\
+    \ DG.IS [169] de 20.07.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/367-1973-421624
+  date: '1973-07-20'
+- type: amended_by
+  target: pt:dre:141792:por
+  label: "Elevado para 25000$00 o limite da subvenção fixado no art. 35º pelo DR.13/77.18.02.1977.MAP, DR.IS [41] de 18.02.1977\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/13-1977-141792
+  date: '1977-02-18'
+- type: amended_by
+  target: pt:dre:253242:por
+  label: "Alterado o quadro de pessoal constante da tabela anexa ao Regulamento do Fundo de Fomento Florestal pelo DR.37/77.04.06.1977.MAP,\
+    \ DR.IS [130] de 04.06.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/37-1977-253242
+  date: '1977-06-04'
+- type: cites
+  target: pt:dre:163836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683590:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:41:04Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +210,7 @@ REGULAMENTO DO FUNDO DE FOMENTO FLORESTAL E AQUÍCOLA
 
 #### SECÇÃO I — Da competência dos órgãos
 
-###### Artigo 1.º Compete ao conselho administrativo assegurar que as verbas do Fundo de Fomento Florestal e Aquícola se destinem aos fins a que este se propõe, orientar a elaboração e apreciar os orçamentos e as contas de gerência e deliberar sobre todos os assuntos que lhe forem presentes pelo presidente, nomeadamente:
+Artigo 1.º Compete ao conselho administrativo assegurar que as verbas do Fundo de Fomento Florestal e Aquícola se destinem aos fins a que este se propõe, orientar a elaboração e apreciar os orçamentos e as contas de gerência e deliberar sobre todos os assuntos que lhe forem presentes pelo presidente, nomeadamente:
 
 a) A concessão de subvenções e empréstimos;
 
@@ -166,7 +220,7 @@ c) A atribuição, em regime de tarefas, de trabalhos, estudos e investigações
 
 d) A atribuição de prémios de rendimento ao pessoal em serviço do Fundo de Fomento Florestal e Aquícola.
 
-###### Art. 2.º O conselho administrativo reunirá ordinàriamente uma vez em cada mês e, extraordinàriamente, sempre que seja convocado pelo presidente com uma antecedência mínima de cinco dias.
+Art. 2.º O conselho administrativo reunirá ordinàriamente uma vez em cada mês e, extraordinàriamente, sempre que seja convocado pelo presidente com uma antecedência mínima de cinco dias.
 
 § 1.º O conselho administrativo terá competência deliberativa com a presença de, pelo menos, um vogal, além do respectivo presidente ou do vogal em quem este tenha delegado essa qualidade nos seus impedimentos.
 
@@ -174,9 +228,9 @@ d) A atribuição de prémios de rendimento ao pessoal em serviço do Fundo de F
 
 § 3.º O presidente e um vogal do conselho administrativo são bastantes para assinar todos os documentos relativos à movimentação de fundos do Fundo de Fomento Florestal e Aquícola.
 
-###### Art. 3.º O cargo de presidente do conselho administrativo do Fundo de Fomento Florestal e Aquícola será desempenhado por um engenheiro silvicultor.
+Art. 3.º O cargo de presidente do conselho administrativo do Fundo de Fomento Florestal e Aquícola será desempenhado por um engenheiro silvicultor.
 
-###### Art. 4.º Ao presidente do conselho administrativo, que despacha directamente com o Ministro da Economia, compete:
+Art. 4.º Ao presidente do conselho administrativo, que despacha directamente com o Ministro da Economia, compete:
 
 a) Orientar e dirigir superiormente todas as actividades do Fundo de Fomento Florestal e Aquícola;
 
@@ -194,23 +248,23 @@ g) Decidir todas as questões inerentes ao Fundo de Fomento Florestal e Aquícol
 
 § único. Nas suas faltas e impedimentos, o presidente do conselho administrativo poderá sob despacho do Ministro da Economia delegar a sua competência num dos vogais do mesmo conselho.
 
-###### Art. 5.º No exercício das funções de direcção e de fiscalização a que se refere o artigo anterior, o presidente do conselho administrativo será coadjuvado por dois adjuntos, em quem poderá delegar, no âmbito da sua acção executiva, os poderes que entenda convenientes.
+Art. 5.º No exercício das funções de direcção e de fiscalização a que se refere o artigo anterior, o presidente do conselho administrativo será coadjuvado por dois adjuntos, em quem poderá delegar, no âmbito da sua acção executiva, os poderes que entenda convenientes.
 
 § 1.º Os adjuntos serão admitidos sob proposta do presidente do conselho administrativo, sendo um, engenheiro silvicultor, para as questões técnicas e outro, licenciado em Economia ou em Direito, para as questões económicas.
 
 § 2.º No exercício da acção executiva o adjunto para as questões técnicas substituirá o presidente do conselho administrativo nos seus impedimentos.
 
-###### Art. 6.º Compete especialmente aos adjuntos do presidente do conselho administrativo, além das atribuições que por delegação lhes forem conferidas, a elaboração dos projectos de orçamentos do Fundo de Fomento Florestal e Aquícola e do relatório anual das actividades e das contas de gerência.
+Art. 6.º Compete especialmente aos adjuntos do presidente do conselho administrativo, além das atribuições que por delegação lhes forem conferidas, a elaboração dos projectos de orçamentos do Fundo de Fomento Florestal e Aquícola e do relatório anual das actividades e das contas de gerência.
 
-###### Art. 7.º Compete à comissão consultiva dar parecer sobre todas as questões de ordem técnica ou económico-social que, por iniciativa do conselho administrativo ou do seu presidente, forem submetidas à sua apreciação.
+Art. 7.º Compete à comissão consultiva dar parecer sobre todas as questões de ordem técnica ou económico-social que, por iniciativa do conselho administrativo ou do seu presidente, forem submetidas à sua apreciação.
 
-###### Art. 8.º A comissão consultiva reunirá sob convocatória do presidente do conselho administrativo, efectuada com o mínimo de dez dias de antecedência.
+Art. 8.º A comissão consultiva reunirá sob convocatória do presidente do conselho administrativo, efectuada com o mínimo de dez dias de antecedência.
 
-###### Art. 9.º Os adjuntos do presidente poderão participar, sem voto e apenas para apoio e informação deste, das reuniões do conselho administrativo e da comissão consultiva.
+Art. 9.º Os adjuntos do presidente poderão participar, sem voto e apenas para apoio e informação deste, das reuniões do conselho administrativo e da comissão consultiva.
 
 #### SECÇÃO II — Da organização dos serviços
 
-###### Art. 10.º Para execução das tarefas necessárias à prossecução dos seus fins, o Fundo de Fomento Florestal e Aquícola disporá de serviços enquadrados na seguinte estrutura:
+Art. 10.º Para execução das tarefas necessárias à prossecução dos seus fins, o Fundo de Fomento Florestal e Aquícola disporá de serviços enquadrados na seguinte estrutura:
 
 a) Gabinete de planeamento de arborização;
 
@@ -220,9 +274,9 @@ c) Inspecção técnica;
 
 d) Secretaria, contencioso, contabilidade e tesouraria.
 
-###### Art. 11.º A direcção do gabinete de planeamento é da competência de um director, engenheiro silvicultor, devendo os restantes técnicos desse serviço possuir particular competência num dos seguintes sectores: ecologia, silvicultura e regime silvo-pastoril, protecção e obras florestais, economia e planeamento.
+Art. 11.º A direcção do gabinete de planeamento é da competência de um director, engenheiro silvicultor, devendo os restantes técnicos desse serviço possuir particular competência num dos seguintes sectores: ecologia, silvicultura e regime silvo-pastoril, protecção e obras florestais, economia e planeamento.
 
-###### Art. 12.º Compete ao gabinete de planeamento:
+Art. 12.º Compete ao gabinete de planeamento:
 
 a) Elaborar os planos de arborização;
 
@@ -232,13 +286,13 @@ c) Fornecer aos engenheiros silvicultores inscritos no Fundo de Fomento Floresta
 
 d) Estabelecer, nas zonas servidas por planos, as normas de cultura e de exploração dos povoamentos constituídos com auxílio do Fundo de Fomento Florestal e Aquícola.
 
-###### Art. 13.º O número e a composição das brigadas que constituem o respectivo grupo serão estabelecidos, sob proposta do conselho técnico a que se refere o artigo 17.º deste diploma, de harmonia com as necessidades inerentes à execução e desenvolvimento dos trabalhos que lhes competem.
+Art. 13.º O número e a composição das brigadas que constituem o respectivo grupo serão estabelecidos, sob proposta do conselho técnico a que se refere o artigo 17.º deste diploma, de harmonia com as necessidades inerentes à execução e desenvolvimento dos trabalhos que lhes competem.
 
 § 1.º A direcção do grupo de brigadas de arborização é da competência de um director, engenheiro silvicultor, o qual será coadjuvado por um engenheiro silvicultor adjunto.
 
 § 2.º As brigadas de arborização são chefiadas por um engenheiro silvicultor chefe de brigada.
 
-###### Art. 14.º Compete ao grupo de brigadas de arborização:
+Art. 14.º Compete ao grupo de brigadas de arborização:
 
 a) Elaborar os projectos de arborização de prédios incluídos em zonas servidas por planos ou fornecer ao gabinete de planeamento, para esse efeito, os elementos necessários;
 
@@ -250,13 +304,13 @@ d) Colaborar com os serviços de planeamento nos reconhecimentos e inquéritos i
 
 e) Contribuir para a preparação técnica do pessoal auxiliar de arborização e dos trabalhadores rurais, bem como para a divulgação dos preceitos culturais e de exploração.
 
-###### Art. 15.º O número de elementos do corpo de guardas florestais dependerá da extensão dos trabalhos realizados, de tal modo que a cada guarda corresponda uma área não superior a 1500 ha.
+Art. 15.º O número de elementos do corpo de guardas florestais dependerá da extensão dos trabalhos realizados, de tal modo que a cada guarda corresponda uma área não superior a 1500 ha.
 
-###### Art. 16.º Compete especìficamente ao corpo de guardas florestais dependentes do Fundo de Fomento Florestal e Aquícola exercer, de acordo com a legislação geral aplicável, todas as acções de fiscalização e policiamento junto das propriedades submetidas ao regime florestal parcial obrigatório, por virtude de acção do Fundo de Fomento Florestal e Aquícola, no que respeita à instalação, cultura e exploração dos povoamentos, durante o período de tempo em que o Fundo de Fomento Florestal e Aquícola sobre elas mantenha direitos.
+Art. 16.º Compete especìficamente ao corpo de guardas florestais dependentes do Fundo de Fomento Florestal e Aquícola exercer, de acordo com a legislação geral aplicável, todas as acções de fiscalização e policiamento junto das propriedades submetidas ao regime florestal parcial obrigatório, por virtude de acção do Fundo de Fomento Florestal e Aquícola, no que respeita à instalação, cultura e exploração dos povoamentos, durante o período de tempo em que o Fundo de Fomento Florestal e Aquícola sobre elas mantenha direitos.
 
-###### Art. 17.º A inspecção técnica é constituída por um corpo de inspectores-chefes, engenheiros silvicultores, que respondem individual e directamente perante o presidente do conselho administrativo.
+Art. 17.º A inspecção técnica é constituída por um corpo de inspectores-chefes, engenheiros silvicultores, que respondem individual e directamente perante o presidente do conselho administrativo.
 
-###### Art. 18.º Compete à inspecção técnica:
+Art. 18.º Compete à inspecção técnica:
 
 a) Manter o presidente do conselho administrativo no conhecimento permanente dos trabalhos em curso ou já executados, tendo especialmente em vista o apoio financeiro a conceder nos casos em que a arborização decorra por iniciativa do proprietário;
 
@@ -264,9 +318,9 @@ b) Inspeccionar os trabalhos já realizados ou em realização, nos casos em que
 
 c) Executar os demais serviços de inspecção de que seja encarregada pelo presidente do conselho administrativo.
 
-###### Art. 19.º O presidente do conselho administrativo e seus adjuntos, os directores do gabinete de planeamento e do grupo de brigadas de arborização e os inspectores constituem o conselho técnico.
+Art. 19.º O presidente do conselho administrativo e seus adjuntos, os directores do gabinete de planeamento e do grupo de brigadas de arborização e os inspectores constituem o conselho técnico.
 
-###### Art. 20.º Compete ao conselho técnico pronunciar-se sobre:
+Art. 20.º Compete ao conselho técnico pronunciar-se sobre:
 
 a) Os planos e projectos de arborização;
 
@@ -276,31 +330,31 @@ c) As directrizes mais convenientes à divulgação florestal e à preparação 
 
 d) Todas as questões de índole técnica sobre as quais o Fundo de Fomento Florestal e Aquícola tenha de pronunciar-se.
 
-###### Art. 21.º Os serviços de secretaria, contencioso, contabilidade e tesouraria terão a seu cargo, respectivamente, a execução dos trabalhos de organização do expediente geral do Fundo de Fomento Florestal e Aquícola, das questões de natureza jurídica e contenciosa, da contabilidade e movimentação do numerário necessário à satisfação das despesas permanentes dos órgãos e serviços do Fundo de Fomento Florestal e Aquícola.
+Art. 21.º Os serviços de secretaria, contencioso, contabilidade e tesouraria terão a seu cargo, respectivamente, a execução dos trabalhos de organização do expediente geral do Fundo de Fomento Florestal e Aquícola, das questões de natureza jurídica e contenciosa, da contabilidade e movimentação do numerário necessário à satisfação das despesas permanentes dos órgãos e serviços do Fundo de Fomento Florestal e Aquícola.
 
-###### Art. 22.º A organização dos processos de financiamento aos particulares, para arborização e tratamento, bem como a guarda e contabilização dos meios financeiros do Fundo de Fomento Florestal Aquícola, ficarão a cargo dos serviços competentes da Caixa Geral de Depósitos, Crédito e Previdência nas condições que, no interesse do Fundo de Fomento Florestal Aquícola, forem acordadas entre as respectivas administrações.
+Art. 22.º A organização dos processos de financiamento aos particulares, para arborização e tratamento, bem como a guarda e contabilização dos meios financeiros do Fundo de Fomento Florestal Aquícola, ficarão a cargo dos serviços competentes da Caixa Geral de Depósitos, Crédito e Previdência nas condições que, no interesse do Fundo de Fomento Florestal Aquícola, forem acordadas entre as respectivas administrações.
 
-###### Art. 23.º Aos vogais do conselho administrativo será fixada uma gratificação mensal, por despacho do Ministro da Economia, com o acordo do Ministro das Finanças.
+Art. 23.º Aos vogais do conselho administrativo será fixada uma gratificação mensal, por despacho do Ministro da Economia, com o acordo do Ministro das Finanças.
 
-###### Art. 24.º Aos membros da comissão consultiva, exceptuados o presidente e os vogais a que se refere o artigo anterior, serão atribuídas senhas de presença de valor a fixar por despacho do Ministro da Economia, com o acordo do Ministro das Finanças.
+Art. 24.º Aos membros da comissão consultiva, exceptuados o presidente e os vogais a que se refere o artigo anterior, serão atribuídas senhas de presença de valor a fixar por despacho do Ministro da Economia, com o acordo do Ministro das Finanças.
 
-###### Art. 25.º Ao presidente do conselho administrativo e seus adjuntos, bem como aos técnicos e demais pessoal ao serviço do Fundo de Fomento Florestal e Aquícola, será aplicada a tabela de categorias anexa a este diploma, com os direitos e obrigações correspondentes.
+Art. 25.º Ao presidente do conselho administrativo e seus adjuntos, bem como aos técnicos e demais pessoal ao serviço do Fundo de Fomento Florestal e Aquícola, será aplicada a tabela de categorias anexa a este diploma, com os direitos e obrigações correspondentes.
 
 ### CAPÍTULO II — Do funcionamento
 
-###### Art. 26.º O Fundo de Fomento Florestal e Aquícola financiará a arborização dos terrenos de capacidade de uso florestal e agro-florestal do património particular mediante a concessão de subvenções e empréstimos de arborização e de tratamento.
+Art. 26.º O Fundo de Fomento Florestal e Aquícola financiará a arborização dos terrenos de capacidade de uso florestal e agro-florestal do património particular mediante a concessão de subvenções e empréstimos de arborização e de tratamento.
 
-###### Art. 27.º Nos termos do artigo 7.º do [Decreto-Lei n.º 45443](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45443-1963-683441), a acção do Fundo de Fomento Florestal e Aquícola incidirá essencialmente sobre as zonas servidas por planos de arborização.
+Art. 27.º Nos termos do artigo 7.º do [Decreto-Lei n.º 45443](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45443-1963-683441), a acção do Fundo de Fomento Florestal e Aquícola incidirá essencialmente sobre as zonas servidas por planos de arborização.
 
-###### Art. 28.º A entrada em execução dos planos de arborização é anunciada por edital afixado nos lugares do costume e publicado pelo menos em três jornais, um dos quais, sempre que possível, será da imprensa local.
+Art. 28.º A entrada em execução dos planos de arborização é anunciada por edital afixado nos lugares do costume e publicado pelo menos em três jornais, um dos quais, sempre que possível, será da imprensa local.
 
-###### Art. 29.º Durante os primeiros quatro anos, a partir da afixação do edital a que se refere o artigo anterior, os proprietários dos terrenos incluídos em zonas servidas por planos de arborização poderão requerer ao Fundo de Fomento Florestal e Aquícola subvenções e empréstimos destinados à arborização directa dos seus prédios.
+Art. 29.º Durante os primeiros quatro anos, a partir da afixação do edital a que se refere o artigo anterior, os proprietários dos terrenos incluídos em zonas servidas por planos de arborização poderão requerer ao Fundo de Fomento Florestal e Aquícola subvenções e empréstimos destinados à arborização directa dos seus prédios.
 
-###### Art. 30.º Nas zonas e durante o período referidos no artigo anterior, o Fundo de Fomento Florestal e Aquícola poderá, a requerimento do interessado, acordar na execução da arborização do respectivo prédio ou prédios, por intermédio dos seus serviços técnicos.
+Art. 30.º Nas zonas e durante o período referidos no artigo anterior, o Fundo de Fomento Florestal e Aquícola poderá, a requerimento do interessado, acordar na execução da arborização do respectivo prédio ou prédios, por intermédio dos seus serviços técnicos.
 
-###### Art. 31.º Terminado o período de quatro anos a que se refere o artigo 29.º sem que o proprietário tenha tomado a iniciativa de arborização, entender-se-á que optou pela modalidade prevista no artigo anterior, procedendo o Fundo de Fomento Florestal e Aquícola à arborização dos respectivos prédios e debitando aos proprietários os correspondentes encargos, nos termos do artigo seguinte.
+Art. 31.º Terminado o período de quatro anos a que se refere o artigo 29.º sem que o proprietário tenha tomado a iniciativa de arborização, entender-se-á que optou pela modalidade prevista no artigo anterior, procedendo o Fundo de Fomento Florestal e Aquícola à arborização dos respectivos prédios e debitando aos proprietários os correspondentes encargos, nos termos do artigo seguinte.
 
-###### Art. 32.º O montante dos empréstimos ou das despesas debitadas nos termos das disposições anteriores será constituído:
+Art. 32.º O montante dos empréstimos ou das despesas debitadas nos termos das disposições anteriores será constituído:
 
 a) Pelas despesas efectivas da execução;
 
@@ -308,37 +362,37 @@ b) Por uma verba resultante da aplicação da taxa de 5 por cento sobre as despe
 
 c) Por uma quota-parte, proporcional às áreas beneficiadas dos prédios incluídos no projecto de arborização, de um montante, previsto em cada plano de arborização, destinado a encargos com infra-estruturas e com protecção contra fogos, a qual nunca poderá ser superior a 2 por cento do total consignado na alínea a) deste artigo.
 
-###### Art. 33.º Nos termos do § único do artigo 7.º do [Decreto-Lei n.º 45443](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45443-1963-683441), o Fundo de Fomento Florestal e Aquícola poderá também conceder subvenções e empréstimos de arborização e de tratamentos dos terrenos não incluídos em zonas servidas por planos de arborização.
+Art. 33.º Nos termos do § único do artigo 7.º do [Decreto-Lei n.º 45443](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45443-1963-683441), o Fundo de Fomento Florestal e Aquícola poderá também conceder subvenções e empréstimos de arborização e de tratamentos dos terrenos não incluídos em zonas servidas por planos de arborização.
 
 § único. Nos empréstimos concedidos pelo Fundo de Fomento Florestal e Aquícola fora das zonas abrangidas por planos de arborização não serão consideradas as verbas referidas na alínea b) do artigo anterior.
 
-###### Art. 34.º As sociedades de fomento florestal a que se refere o § único do artigo 3.º do [Decreto-Lei n.º 45443](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45443-1963-683441), as associações de proprietários e os possuidores a qualquer título são considerados como proprietários para efeito da prossecução dos fins a que o Fundo de Fomento Florestal e Aquícola se destina, salvo nos casos de incompatibilidade legal.
+Art. 34.º As sociedades de fomento florestal a que se refere o § único do artigo 3.º do [Decreto-Lei n.º 45443](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45443-1963-683441), as associações de proprietários e os possuidores a qualquer título são considerados como proprietários para efeito da prossecução dos fins a que o Fundo de Fomento Florestal e Aquícola se destina, salvo nos casos de incompatibilidade legal.
 
-###### Art. 35.º As subvenções de arborização poderão ser concedidas em natureza, em serviços ou em dinheiro e serão fixadas pelo Fundo de Fomento Florestal e Aquícola, para cada caso, não podendo o seu montante exceder 50 por cento da despesa anual referente à arborização, nem ultrapassar 10000$00 por proprietário.
+Art. 35.º As subvenções de arborização poderão ser concedidas em natureza, em serviços ou em dinheiro e serão fixadas pelo Fundo de Fomento Florestal e Aquícola, para cada caso, não podendo o seu montante exceder 50 por cento da despesa anual referente à arborização, nem ultrapassar 10000$00 por proprietário.
 
 § único. Sempre que as disponibilidades do Fundo de Fomento Florestal e Aquícola o permitam, as subvenções em natureza, até ao limite do valor previsto no corpo deste artigo, poderão ser concedidas com dispensa de projecto de arborização, uma vez que serviços técnicos responsáveis dêem parecer favorável sobre o interesse do trabalho e possam prestar ao mesmo a necessária assistência.
 
-###### Art. 36.º Os empréstimos de arborização poderão cobrir a totalidade dos encargos de instalação, para além das importâncias a atribuir a título de subvenção nos termos do artigo anterior.
+Art. 36.º Os empréstimos de arborização poderão cobrir a totalidade dos encargos de instalação, para além das importâncias a atribuir a título de subvenção nos termos do artigo anterior.
 
-###### Art. 37.º A subvenção de tratamento poderá ser concedida sob a forma de serviços e dinheiro, no segundo e terceiro anos do período de instalação, desde que se trate:
+Art. 37.º A subvenção de tratamento poderá ser concedida sob a forma de serviços e dinheiro, no segundo e terceiro anos do período de instalação, desde que se trate:
 
 a) De casos de reconhecida necessidade;
 
 b) De terrenos incluídos em zonas servidas por planos de arborização.
 
-###### Art. 38.º Em casos de reconhecida necessidade, poderão também ser concedidos empréstimos de tratamento.
+Art. 38.º Em casos de reconhecida necessidade, poderão também ser concedidos empréstimos de tratamento.
 
-###### Art. 39.º Nas zonas servidas por planos de arborização o Fundo de Fomento Florestal e Aquícola poderá financiar trabalhos de recuperação e ordenamento dos povoamentos existentes, desde que orientados ou executados pelos seus serviços.
+Art. 39.º Nas zonas servidas por planos de arborização o Fundo de Fomento Florestal e Aquícola poderá financiar trabalhos de recuperação e ordenamento dos povoamentos existentes, desde que orientados ou executados pelos seus serviços.
 
-###### Art. 40.º Os beneficiários dos empréstimos concedidos pelo Fundo de Fomento Florestal e Aquícola oferecerão, em contrato devidamente legalizado, qualquer das garantias bastantes admitidas em direito que forem exigidas pelo respectivo conselho administrativo, segundo normas sancionadas por despacho do Ministro da Economia.
+Art. 40.º Os beneficiários dos empréstimos concedidos pelo Fundo de Fomento Florestal e Aquícola oferecerão, em contrato devidamente legalizado, qualquer das garantias bastantes admitidas em direito que forem exigidas pelo respectivo conselho administrativo, segundo normas sancionadas por despacho do Ministro da Economia.
 
-###### Art. 41.º A celebração do contrato considerado no artigo anterior será antecedida da assinatura, em impresso de modelo único a aprovar por despacho do Ministro da Economia publicado no Diário do Governo, de um documento - Bases para celebração de contrato - considerado bastante para obrigar ambas as partes.
+Art. 41.º A celebração do contrato considerado no artigo anterior será antecedida da assinatura, em impresso de modelo único a aprovar por despacho do Ministro da Economia publicado no Diário do Governo, de um documento - Bases para celebração de contrato - considerado bastante para obrigar ambas as partes.
 
 § único. Quando a arborização for levada a efeito através dos serviços do Fundo de Fomento Florestal e Aquícola, poderão estes iniciar os trabalhos de execução a partir da assinatura das bases para celebração de contrato a que se refere o corpo deste artigo.
 
-###### Art. 42.º O Fundo de Fomento Florestal e Aquícola poderá recorrer às prerrogativas concedidas pelo artigo 1.º, conjugado com a alínea a) do artigo 4.º, ambos do [Decreto-Lei n.º 45443](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45443-1963-683441), sempre que o proprietário se oponha ou dificulte por qualquer meio a arborização do respectivo prédio ou prédios, nos termos daquele diploma e do que fica expresso no presente regulamento, ou provoque dano nas arborizações em constituição ou já constituídas por acção do Fundo de Fomento Florestal e Aquícola, enquanto este não for integralmente reembolsado de todos os encargos.
+Art. 42.º O Fundo de Fomento Florestal e Aquícola poderá recorrer às prerrogativas concedidas pelo artigo 1.º, conjugado com a alínea a) do artigo 4.º, ambos do [Decreto-Lei n.º 45443](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45443-1963-683441), sempre que o proprietário se oponha ou dificulte por qualquer meio a arborização do respectivo prédio ou prédios, nos termos daquele diploma e do que fica expresso no presente regulamento, ou provoque dano nas arborizações em constituição ou já constituídas por acção do Fundo de Fomento Florestal e Aquícola, enquanto este não for integralmente reembolsado de todos os encargos.
 
-###### Art. 43.º Os empréstimos concedidos pelo Fundo de Fomento Florestal e Aquícola ou as despesas por este realizadas nos trabalhos executados através dos respectivos serviços técnicos, bem como os correspondentes juros, serão reembolsados ao longo de um período máximo de 30 anos, mediante:
+Art. 43.º Os empréstimos concedidos pelo Fundo de Fomento Florestal e Aquícola ou as despesas por este realizadas nos trabalhos executados através dos respectivos serviços técnicos, bem como os correspondentes juros, serão reembolsados ao longo de um período máximo de 30 anos, mediante:
 
 a) Amortização vencida aquando da realização das produções florestais, valendo a quota de amortização 50 por cento dos rendimentos brutos auferidos nas matas constituídas com o auxílio do Fundo de Fomento Florestal e Aquícola;
 
@@ -348,19 +402,19 @@ b) Amortizações vencidas aquando da realização das produções provenientes 
 
 § 2.º A importância e data do início das amortizações previstas nos respectivos projectos de arborização, com base no disposto neste artigo, poderão ser alteradas pelo conselho administrativo do Fundo de Fomento Florestal e Aquícola, a requerimento fundamentado do proprietário.
 
-###### Art. 44.º O Fundo de Fomento Florestal e Aquícola dará prioridade, em matéria de investimento, à arborização de prédios situados em zonas servidas por planos de arborização, a programas anuais de arborização que beneficiem o maior número de proprietários, à arborização dos terrenos para o efeito reunidos mediante a associação dos respectivos proprietários e à arborização facultativa.
+Art. 44.º O Fundo de Fomento Florestal e Aquícola dará prioridade, em matéria de investimento, à arborização de prédios situados em zonas servidas por planos de arborização, a programas anuais de arborização que beneficiem o maior número de proprietários, à arborização dos terrenos para o efeito reunidos mediante a associação dos respectivos proprietários e à arborização facultativa.
 
-###### Art. 45.º Os auxílios a prestar pelo Fundo de Fomento Florestal e Aquícola nas condições estabelecidas no § único do artigo 7.º do [Decreto-Lei n.º 45443](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45443-1963-683441) não podem destinar-se à arborização de áreas inferiores a 50 ha.
+Art. 45.º Os auxílios a prestar pelo Fundo de Fomento Florestal e Aquícola nas condições estabelecidas no § único do artigo 7.º do [Decreto-Lei n.º 45443](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45443-1963-683441) não podem destinar-se à arborização de áreas inferiores a 50 ha.
 
 § 1.º Os engenheiros silvicultores a que se refere a disposição citada no corpo deste artigo ficam responsáveis, perante o Fundo de Fomento Florestal e Aquícola, pela justa aplicação do investimento e pela correcta execução do projecto.
 
 § 2.º O não cumprimento das obrigações decorrentes do disposto no parágrafo anterior compromete a inscrição feita no Fundo de Fomento Florestal e Aquícola.
 
-###### Art. 46.º Os prédios arborizados com auxílio do Fundo de Fomento Florestal e Aquícola que se encontrem fora das zonas servidas por planos de arborização podem beneficiar desde logo, com dispensa de quaisquer outras formalidades, da concessão do regime florestal parcial facultativo.
+Art. 46.º Os prédios arborizados com auxílio do Fundo de Fomento Florestal e Aquícola que se encontrem fora das zonas servidas por planos de arborização podem beneficiar desde logo, com dispensa de quaisquer outras formalidades, da concessão do regime florestal parcial facultativo.
 
-###### Art. 47.º Nas zonas servidas por planos de arborização o Fundo de Fomento Florestal e Aquícola poderá subvencionar, até 60 por cento do respectivo custo, obras de defesa contra fogos, desde que as suas disponibilidades financeiras o permitam.
+Art. 47.º Nas zonas servidas por planos de arborização o Fundo de Fomento Florestal e Aquícola poderá subvencionar, até 60 por cento do respectivo custo, obras de defesa contra fogos, desde que as suas disponibilidades financeiras o permitam.
 
-###### Art. 48.º Dentro de zonas servidas por planos de arborização, e em casos de incêndios de povoamentos constituídos com o auxílio do Fundo de Fomento Florestal e Aquícola, as despesas inerentes à nova instalação, quando se imponha e seja executada em moldes idênticos aos da primeira, ficarão a cargo deste.
+Art. 48.º Dentro de zonas servidas por planos de arborização, e em casos de incêndios de povoamentos constituídos com o auxílio do Fundo de Fomento Florestal e Aquícola, as despesas inerentes à nova instalação, quando se imponha e seja executada em moldes idênticos aos da primeira, ficarão a cargo deste.
 
 § 1.º A verba resultante do material ainda utilizável constitui-se em receita do Fundo de Fomento Florestal e Aquícola e do proprietário, em divisão proporcional aos encargos até à data suportados por ambas as partes.
 
@@ -368,64 +422,64 @@ b) Amortizações vencidas aquando da realização das produções provenientes 
 
 § 3.º Quando o Fundo de Fomento Florestal e Aquícola não proceda a nova instalação, o reembolso das despesas em dívida será feito segundo as condições que o conselho administrativo estabelecer.
 
-###### Art. 49.º O Fundo de Fomento Florestal e Aquícola fomentará os trabalhos de repovoamento piscícola, atribuindo à Direcção-Geral dos Serviços Florestais e Aquícolas uma verba, a fixar anualmente pelo conselho administrativo, igual ou superior ao montante correspondente às receitas anuais provenientes das licenças e rendimentos resultantes da pesca e das multas e indemnizações a ela relativas, de acordo com a legislação já existente, mas no último caso sem prejuízo da obra de florestação, que constitui o seu objectivo essencial.
+Art. 49.º O Fundo de Fomento Florestal e Aquícola fomentará os trabalhos de repovoamento piscícola, atribuindo à Direcção-Geral dos Serviços Florestais e Aquícolas uma verba, a fixar anualmente pelo conselho administrativo, igual ou superior ao montante correspondente às receitas anuais provenientes das licenças e rendimentos resultantes da pesca e das multas e indemnizações a ela relativas, de acordo com a legislação já existente, mas no último caso sem prejuízo da obra de florestação, que constitui o seu objectivo essencial.
 
-###### Art. 50.º Nas zonas servidas por planos de arborização, são considerados abrangidos no âmbito da acção do Fundo de Fomento Florestal e Aquícola os trabalhos decorrentes do ordenamento silvo-pastoril dos terrenos do património particular, nomeadamente os respeitantes à instalação e melhoramento de pastagens que se enquadrem em nítida ambiência florestal, processando-se as subvenções e empréstimos em condições análogas às de arborização.
+Art. 50.º Nas zonas servidas por planos de arborização, são considerados abrangidos no âmbito da acção do Fundo de Fomento Florestal e Aquícola os trabalhos decorrentes do ordenamento silvo-pastoril dos terrenos do património particular, nomeadamente os respeitantes à instalação e melhoramento de pastagens que se enquadrem em nítida ambiência florestal, processando-se as subvenções e empréstimos em condições análogas às de arborização.
 
-###### Art. 51.º Nas zonas servidas por planos de arborização, as normas relativas à caça, no âmbito dos prédios arborizados como auxíliio do Fundo de Fomento Florestal e Aquícola e por toda a vigência da acção deste, ficam expressas nos planos de arborização.
+Art. 51.º Nas zonas servidas por planos de arborização, as normas relativas à caça, no âmbito dos prédios arborizados como auxíliio do Fundo de Fomento Florestal e Aquícola e por toda a vigência da acção deste, ficam expressas nos planos de arborização.
 
 § único. Fora das zonas abrangidas no corpo deste artigo, uma vez concedido o regime florestal parcial facultativo, poderá ser concedida a reserva de caça sem mais formalidades, sempre que se constitua uma unidade superior a 500 ha, pertença de um ou mais proprietários associados para efeitos de arborização, desde que os trabalhos financiados pelo Fundo de Fomento Florestal e Aquícola incidam sobre mais de dois terços da respectiva área e o eixo menor da superfície daquela unidade seja superior a metade do seu eixo maior.
 
 ### CAPÍTULO III — Da coordenação dos meios de actuação
 
-###### Art. 52.º De acordo com o disposto no artigo 14.º do [Decreto-Lei n.º 45443](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45443-1963-683441), transitarão para os serviços do Fundo de Fomento Florestal e Aquícola os planos de arborização aprovados, bem como os projectos de arborização elaborados pela Direcção-Geral dos Serviços Florestais e Aquícolas para as bacias hidrográficas a sul do Tejo.
+Art. 52.º De acordo com o disposto no artigo 14.º do [Decreto-Lei n.º 45443](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45443-1963-683441), transitarão para os serviços do Fundo de Fomento Florestal e Aquícola os planos de arborização aprovados, bem como os projectos de arborização elaborados pela Direcção-Geral dos Serviços Florestais e Aquícolas para as bacias hidrográficas a sul do Tejo.
 
-###### Art. 53.º Os actuais viveiros a cargo da Direcção-Geral dos Serviços Florestais e Aquícolas que por prévio acordo não transitarem para a administração do Fundo de Fomento Florestal e Aquícola fornecerão, a preço de custo, as plantas que por este lhe forem solicitadas, uma vez satisfeitas as necessidades decorrentes dos trabalhos de arborização efectuados nos patrimónios do Estado e das autarquias locais e daqueles cujos fins sejam exclusivamente de protecção.
+Art. 53.º Os actuais viveiros a cargo da Direcção-Geral dos Serviços Florestais e Aquícolas que por prévio acordo não transitarem para a administração do Fundo de Fomento Florestal e Aquícola fornecerão, a preço de custo, as plantas que por este lhe forem solicitadas, uma vez satisfeitas as necessidades decorrentes dos trabalhos de arborização efectuados nos patrimónios do Estado e das autarquias locais e daqueles cujos fins sejam exclusivamente de protecção.
 
 § único. Para aproveitamento da máxima possibilidade dos actuais viveiros, o Fundo de Fomento Florestal e Aquícola poderá financiar a produção de plantas para além das necessidades normais definidas no corpo deste artigo.
 
-###### Art. 54.º Todas as sementes colhidas pela Direcção-Geral dos Serviços Florestais e Aquícolas que não sejam consumidas nas condições previstas no artigo anterior ficarão à disposição do Fundo de Fomento Florestal e Aquícola a preço de custo.
+Art. 54.º Todas as sementes colhidas pela Direcção-Geral dos Serviços Florestais e Aquícolas que não sejam consumidas nas condições previstas no artigo anterior ficarão à disposição do Fundo de Fomento Florestal e Aquícola a preço de custo.
 
 § único. Para aproveitamento das possibilidades de produção de sementes das matas particulares e das matas sob administração directa da Direcção-Geral dos Serviços Florestais e Aquícolas, o Fundo de Fomento Florestal e Aquícola poderá promover e financiar a respectiva colheita.
 
-###### Art. 55.º Nas zonas servidas por planos em execução, a arborização dos terrenos carecidos de beneficiação pela cultura florestal por motivos de fixação e de conservação do solo, isto é, a arborização visando tìpicamente fins de protecção, poderá ser realizada ou orientada pelo Fundo de Fomento Florestal e Aquícola, na medida em que os proprietários o requeiram ou o Secretário de Estado da Agricultura o determine, sempre que a Direcção-Geral dos Serviços Florestais e Aquícolas lhe não possa dar imediata execução.
+Art. 55.º Nas zonas servidas por planos em execução, a arborização dos terrenos carecidos de beneficiação pela cultura florestal por motivos de fixação e de conservação do solo, isto é, a arborização visando tìpicamente fins de protecção, poderá ser realizada ou orientada pelo Fundo de Fomento Florestal e Aquícola, na medida em que os proprietários o requeiram ou o Secretário de Estado da Agricultura o determine, sempre que a Direcção-Geral dos Serviços Florestais e Aquícolas lhe não possa dar imediata execução.
 
 § único O Fundo de Fomento Florestal e Aquícola poderá financiar a arborização dos terrenos considerados no corpo deste artigo, desde que a respectiva orientação seja garantida pelo pessoal técnico das administrações florestais da Direcção-Geral dos Serviços Florestais e Aquícolas.
 
-###### Art. 56.º Fora das zonas abrangidas por planos de arborização, e sem prejuízo da atribuição fundamental de financiar a arborização nos termos dos artigos anteriores, o Fundo de Fomento Florestal e Aquícola poderá prestar auxílio aos proprietários de prédios submetidos ao regime florestal para efeitos de recuperação e ordenamento dos povoamentos existentes, desde que os trabalhos sejam devidamente orientados pelo pessoal técnico das administrações florestais da Direcção-Geral dos Serviços Florestais e Aquícolas.
+Art. 56.º Fora das zonas abrangidas por planos de arborização, e sem prejuízo da atribuição fundamental de financiar a arborização nos termos dos artigos anteriores, o Fundo de Fomento Florestal e Aquícola poderá prestar auxílio aos proprietários de prédios submetidos ao regime florestal para efeitos de recuperação e ordenamento dos povoamentos existentes, desde que os trabalhos sejam devidamente orientados pelo pessoal técnico das administrações florestais da Direcção-Geral dos Serviços Florestais e Aquícolas.
 
-###### Art. 57.º O Fundo de Fomento Florestal e Aquícola poderá financiar trabalhos de experimentação nas matas do Estado e das autarquias locais sob administração directa da Direcção-Geral dos Serviços Florestais e Aquícolas, desde que se tornem úteis aos fins a que o Fundo de Fomento Florestal e Aquícola se destina.
+Art. 57.º O Fundo de Fomento Florestal e Aquícola poderá financiar trabalhos de experimentação nas matas do Estado e das autarquias locais sob administração directa da Direcção-Geral dos Serviços Florestais e Aquícolas, desde que se tornem úteis aos fins a que o Fundo de Fomento Florestal e Aquícola se destina.
 
-###### Art. 58.º O Fundo de Fomento Florestal e Aquícola poderá solicitar a colaboração de outros organismos oficiais, nomeadamente dos diversos departamentos de investigação da Direcção-Geral dos Serviços Florestais e Aquícolas e da Secção Florestal do Instituto Superior de Agronomia, para a resolução de problemas que, por motivos de índole ou de profundidade, ultrapassem o âmbito das atribuições ou das possibilidades dos seus serviços.
+Art. 58.º O Fundo de Fomento Florestal e Aquícola poderá solicitar a colaboração de outros organismos oficiais, nomeadamente dos diversos departamentos de investigação da Direcção-Geral dos Serviços Florestais e Aquícolas e da Secção Florestal do Instituto Superior de Agronomia, para a resolução de problemas que, por motivos de índole ou de profundidade, ultrapassem o âmbito das atribuições ou das possibilidades dos seus serviços.
 
-###### Art. 59.º O Fundo de Fomento Florestal e Aquícola poderá estabelecer relações com os organismos ou os centros de estudo que se dediquem às questões de pastagens e de zootecnia, tendo em vista a resolução das questões de silvo-pastorícia dentro das zonas em que exerce a sua acção.
+Art. 59.º O Fundo de Fomento Florestal e Aquícola poderá estabelecer relações com os organismos ou os centros de estudo que se dediquem às questões de pastagens e de zootecnia, tendo em vista a resolução das questões de silvo-pastorícia dentro das zonas em que exerce a sua acção.
 
-###### Art. 60.º O Fundo de Fomento Florestal e Aquícola deverá manter ligações com os organismos que se ocupam das questões de colonização, em especial com a Junta de Colonização Interna, de modo a que, também neste domínio, se atenda à necessária integração dos problemas rurais.
+Art. 60.º O Fundo de Fomento Florestal e Aquícola deverá manter ligações com os organismos que se ocupam das questões de colonização, em especial com a Junta de Colonização Interna, de modo a que, também neste domínio, se atenda à necessária integração dos problemas rurais.
 
-###### Art. 61.º O Fundo de Fomento Florestal e Aquícola deverá procurar actuar em íntima colaboração com os órgãos de planeamento nacional e regional, existentes ou a criar, por forma que a actividade florestal - da instalação e cultura à exploração - fique perfeitamente integrada nos objectivos do desenvolvimento económico.
+Art. 61.º O Fundo de Fomento Florestal e Aquícola deverá procurar actuar em íntima colaboração com os órgãos de planeamento nacional e regional, existentes ou a criar, por forma que a actividade florestal - da instalação e cultura à exploração - fique perfeitamente integrada nos objectivos do desenvolvimento económico.
 
 § único. Caberá particularmente ao director do gabinete de planeamento e ao adjunto do presidente para os assuntos económicos o estabelecimento dos contactos necessários ao disposto no corpo deste artigo, acordando-se no conselho técnico as fórmulas que convém seguir.
 
-###### Art. 62.º Para efeitos do disposto no artigo 9.º do [Decreto-Lei n.º 45443](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45443-1963-683441), o Fundo de Fomento Florestal e Aquícola emitirá a favor dos proprietários que o requeiram certificados de arborização, os quais constituirão documento bastante junto das respectivas repartições de finanças.
+Art. 62.º Para efeitos do disposto no artigo 9.º do [Decreto-Lei n.º 45443](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45443-1963-683441), o Fundo de Fomento Florestal e Aquícola emitirá a favor dos proprietários que o requeiram certificados de arborização, os quais constituirão documento bastante junto das respectivas repartições de finanças.
 
 § único. O Fundo de Fomento Florestal e Aquícola manterá registo dos certificados referidos no corpo deste artigo, cumprindo-lhe participar à respectiva repartição de finanças a caducidade dos mesmos, quando tenham cessado os motivos que promoveram a sua emissão.
 
 ### CAPÍTULO IV — Disposições gerais e transitórias
 
-###### Art. 63.º As receitas e demais recursos financeiros do Fundo de Fomento Florestal e Aquícola, definidas na base XIV da [Lei n.º 2097](https://diariodarepublica.pt/dr/detalhe/lei/2097-1959-432642), de 6 de Junho de 1959, e no artigo 6.º do [Decreto-Lei n.º 45443](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45443-1963-683441), de 16 de Dezembro de 1963, ficarão, sem mais formalidades, à ordem deste, devendo, para este efeito, ser depositadas na Caixa Geral de Depósitos, Crédito e Previdência e transitando para o ano seguinte quando não aplicadas.
+Art. 63.º As receitas e demais recursos financeiros do Fundo de Fomento Florestal e Aquícola, definidas na base XIV da [Lei n.º 2097](https://diariodarepublica.pt/dr/detalhe/lei/2097-1959-432642), de 6 de Junho de 1959, e no artigo 6.º do [Decreto-Lei n.º 45443](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45443-1963-683441), de 16 de Dezembro de 1963, ficarão, sem mais formalidades, à ordem deste, devendo, para este efeito, ser depositadas na Caixa Geral de Depósitos, Crédito e Previdência e transitando para o ano seguinte quando não aplicadas.
 
-###### Art. 64.º O Fundo de Fomento Florestal e Aquícola visa primordialmente as questões de instalação da cultura florestal, prevendo-se futuros ajustamentos destinados a incrementar o auxílio aos restantes aspectos do fomento florestal.
+Art. 64.º O Fundo de Fomento Florestal e Aquícola visa primordialmente as questões de instalação da cultura florestal, prevendo-se futuros ajustamentos destinados a incrementar o auxílio aos restantes aspectos do fomento florestal.
 
-###### Art. 65.º O Fundo de Fomento Florestal e Aquícola deverá fomentar, especialmente em zonas servidas por planos de arborização, as iniciativas destinadas ao seguro contra fogos, nomeadamente por intermédio da associação de proprietários.
+Art. 65.º O Fundo de Fomento Florestal e Aquícola deverá fomentar, especialmente em zonas servidas por planos de arborização, as iniciativas destinadas ao seguro contra fogos, nomeadamente por intermédio da associação de proprietários.
 
-###### Art. 66.º Os casos omissos e as dúvidas que possam surgir na interpretação e execução deste diploma serão resolvidos por despacho do Ministro da Economia, com o acordo do Ministro das Finanças quando se trate de assuntos de ordem administrativa e financeira.
+Art. 66.º Os casos omissos e as dúvidas que possam surgir na interpretação e execução deste diploma serão resolvidos por despacho do Ministro da Economia, com o acordo do Ministro das Finanças quando se trate de assuntos de ordem administrativa e financeira.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Julho de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Luís Maria Teixeira Pinto - Luís Le Cocq de Albuquerque de Azevedo Coutinho.
 
 Tabela das categorias dos servidores do Fundo de Fomento Florestal e Aquícola e dos respectivos subsídios de campo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/07/15700/08530860.pdf))](https://files.diariodarepublica.pt/1s/1964/07/15700/08530860.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/07/15700/08530860.pdf)
 
 Ministérios das Finanças e da Economia, 6 de Julho de 1964. - O Ministro das Finanças, António Manuel Pinto Barbosa. - O Ministro da Economia, Luís Maria Teixeira Pinto. - O Secretário de Estado da Agricultura, Luís Le Cocq de Albuquerque de Azevedo Coutinho.

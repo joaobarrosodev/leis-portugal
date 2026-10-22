@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 72/2008, 1º Suplemento, Série I de 2008-04-11
   number: '72'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2190-(2) a 2190-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/04/07201/0000200002.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/19-b/2008/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-b-2008-209599
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-04-30T00:00:00Z'
+  retrieved_at: '2026-10-22T19:09:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 497763931eeeb7a0f0bfdaa0d7c6d7eb5fbf491c81ef371031084d0dbba80687
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1e8ad37a5927f8d6f125f67269f06d8f3d09425ccb4d7a7ce8db57c7a474186
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:09:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,30 +68,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- QREN
 - Ajuda Comunitária
-- Financiamento
 - Comissão Directiva
 - Definição de Competências
 - Equipa de Missão
 - FEDER
+- Financiamento
+- FSE
 - Gestor
 - Instituto de Gestão do Fundo Social Europeu
 - Instituto Financeiro para o Desenvolvimento Regional
 - Intervenção Operacional Regional do Alentejo
+- Intervenção Operacional Regional do Algarve
 - Intervenção Operacional Regional do Centro
-- FSE
-- Programa Operacional Potencial Humano
+- Intervenção Operacional Regional do Norte
 - Nomeação
 - Programa Operacional
-- Intervenção Operacional Regional do Algarve
-- Intervenção Operacional Regional do Norte
+- Programa Operacional Potencial Humano
+- QREN
 - Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:249512:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:249512:por
+  label: "Alterado o nº 4 dos anexos i a x da Res 25/2008, de 13-Fev,da PCM, rectificado pelo presente Acto, pela RES.72/2008.30.04.2008.PCM,\
+    \ DR.IS [84] de 30.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/72-2008-249512
+  date: '2008-04-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
   label: null
@@ -108,16 +114,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/25/2008/02/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/25/2008/02/13/p/dre
+- type: cites
+  target: pt:dre:248059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640354:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:resolucao-conselho-ministros:25/2008
+  label: "Rectifica a Resolução do Conselho de Ministros n.º 25/2008, de 13 de Fevereiro, DR.IS [31] \0\0"
+  source: null
+  date: '2008-02-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:09:41Z'
   warnings: []
   errors: []
 ---

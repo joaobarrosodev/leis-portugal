@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/10/2026/04/09/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2026-1082906724
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-09T00:00:00Z'
+  retrieved_at: '2026-10-22T18:37:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15dc4b917daf11df12943f60a15e56265d2d943d98e49dbec471805186e04413
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5e5ff32e22c3f621582d8f295968f6f9c62c412586c3bbe4b0ccfa418315f51
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:37:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Embarcação de Pesca
+- Peixe
+- Pesca
 - Pescador
 - Pessoal do MAR
-- Pesca
 - Recursos do Mar
-- Peixe
-- Embarcação de Pesca
-- Açores
 - ZONA de Pesca
 relationships:
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:29/2010/A
+  label: Altera, a partir de 10 de abril de 2026, o artigo 57.º do Decreto Legislativo Regional n.º 29/2010/A, de 9 de novembro,
+    Diário da República n.º 217/2010, Série I, e procede à sua republicação
+  source: null
+  date: '2010-11-09'
 - type: cites
   target: celex:32008R0517
   label: null
@@ -131,16 +137,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/9/2012/03/20/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/9/2012/03/20/a/dre
+- type: cites
+  target: pt:dre:131338911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618344:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901536098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:993031450:por
+  label: null
+  source: null
 article_structure:
   article_count: 232
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:37:49Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +235,7 @@ Assim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos te
 
 ###### Artigo 1.º — Objeto
 
-O presente diploma procede à quinta alteração ao [Decreto Legislativo Regional n.º 29/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2010-309040), de 9 de novembro, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[31/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2012-178482), de 6 de julho, [11/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2020-131338911), de 13 de abril, [15/2024/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2024-901536098), de 30 de dezembro, e [27/2025/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2025-993031450), de 30 de dezembro, que regulamenta o exercício da pesca e da atividade marítima na pesca e define medidas adequadas às especificidades do território marítimo dos Açores.
+O presente diploma procede à quinta alteração ao [Decreto Legislativo Regional n.º 29/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2010-309040), de 9 de novembro, alterado pelos Decretos Legislativos Regionais n.os[31/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2012-178482), de 6 de julho, [11/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2020-131338911), de 13 de abril, [15/2024/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2024-901536098), de 30 de dezembro, e [27/2025/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2025-993031450), de 30 de dezembro, que regulamenta o exercício da pesca e da atividade marítima na pesca e define medidas adequadas às especificidades do território marítimo dos Açores.
 
 ###### Artigo 2.º — Alteração ao [Decreto Legislativo Regional n.º 29/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2010-309040), de 9 de novembro
 
@@ -171,7 +245,7 @@ O artigo 57.º do [Decreto Legislativo Regional n.º 29/2010/A](https://diarioda
 
 [...]
 
-1 - Os requisitos específicos a que as embarcações regionais de pesca local devem obedecer, sem prejuízo do disposto nos n.<sup>os</sup>2, 3 e 4 do artigo seguinte, são:
+1 - Os requisitos específicos a que as embarcações regionais de pesca local devem obedecer, sem prejuízo do disposto nos n.os2, 3 e 4 do artigo seguinte, são:
 
 a) [...]
 
@@ -199,11 +273,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 27 de fevereiro de 2026.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 6 de abril de 2026.**
+Assinado em Angra do Heroísmo em 6 de abril de 2026.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -755,11 +829,11 @@ i) O histórico da atividade da pesca no Mar dos Açores.
 
 5 - Os documentos comprovativos da atividade desenvolvida nos últimos 12 meses podem ser dispensáveis se já se encontrarem na posse do departamento do Governo Regional responsável pelas pescas.
 
-6 - As licenças referidas nos n.<sup>os</sup>5 e 8 do artigo 42.º podem ser requeridas a todo o tempo.
+6 - As licenças referidas nos n.os5 e 8 do artigo 42.º podem ser requeridas a todo o tempo.
 
 7 - Os requerimentos referidos no n.º 4 poderão ainda ser apresentados nos 30 dias seguintes para além do prazo ali previsto.
 
-8 - O incumprimento dos prazos previstos nos n.<sup>os</sup>4 e 7 determina a extemporaneidade do pedido, pelo que o mesmo será indeferido, salvo justificação apresentada pelo requerente até 15 de dezembro e aceite pelo departamento do Governo Regional responsável pelas pescas.
+8 - O incumprimento dos prazos previstos nos n.os4 e 7 determina a extemporaneidade do pedido, pelo que o mesmo será indeferido, salvo justificação apresentada pelo requerente até 15 de dezembro e aceite pelo departamento do Governo Regional responsável pelas pescas.
 
 9 - O membro do Governo Regional responsável pelas pescas pode estabelecer, por portaria, prazos e procedimentos administrativos para a concessão das licenças para o exercício da apanha de espécies marinhas ou de outras atividades marcadamente sazonais que, como tal, por ele vierem a ser caracterizadas.
 
@@ -769,7 +843,7 @@ i) O histórico da atividade da pesca no Mar dos Açores.
 
 1 - A renovação das licenças de pesca será sempre concedida aos que a tiverem requerido nos termos do artigo anterior, salvo recusa expressa do departamento do Governo Regional responsável pelas pescas, a comunicar ao requerente, até 30 de novembro de cada ano, com fundamento nos critérios e condições fixados no despacho previsto no artigo 43.º
 
-2 - No caso previsto nos n.<sup>os</sup>4 e 7 do artigo anterior, o prazo que o departamento do Governo Regional responsável pelas pescas dispõe para notificar os requerentes é de 90 dias.
+2 - No caso previsto nos n.os4 e 7 do artigo anterior, o prazo que o departamento do Governo Regional responsável pelas pescas dispõe para notificar os requerentes é de 90 dias.
 
 ###### Artigo 46.º — Emissão e formalização das licenças
 
@@ -857,7 +931,7 @@ e) Nos bancos a norte do Mar dos Açores até à latitude de 45º N.;
 
 f) Nos bancos Josephine e Ampere.
 
-2 - Sem prejuízo do disposto nos n.<sup>os</sup>3, 4 e 5, ficam proibidas de operar a menos de 12 milhas de distância à costa as embarcações regionais de pesca costeira que tenham comprimento fora-a-fora igual ou superior a 24 m.
+2 - Sem prejuízo do disposto nos n.os3, 4 e 5, ficam proibidas de operar a menos de 12 milhas de distância à costa as embarcações regionais de pesca costeira que tenham comprimento fora-a-fora igual ou superior a 24 m.
 
 3 - O disposto no número anterior não se aplica às embarcações regionais que se dedicam, exclusiva ou principalmente, à pesca de tunídeos e similares com isco vivo.
 
@@ -869,7 +943,7 @@ f) Nos bancos Josephine e Ampere.
 
 7 - Fora das regiões referidas nos números anteriores, as embarcações regionais de pesca costeira só podem operar a partir de bases, flutuantes ou em terra, de navios-mãe ou em frotas combinadas.
 
-8 - Para o efeito do referido nos n.<sup>os</sup>4, 5 e 6, o departamento do Governo Regional responsável pelas pescas pode recorrer a serviços técnicos externos especializados ou a outras entidades com competência na certificação de segurança das embarcações.
+8 - Para o efeito do referido nos n.os4, 5 e 6, o departamento do Governo Regional responsável pelas pescas pode recorrer a serviços técnicos externos especializados ou a outras entidades com competência na certificação de segurança das embarcações.
 
 ###### Artigo 55.º — Embarcações regionais de pesca do largo
 
@@ -897,7 +971,7 @@ e) Condições e outros fatores de higiene e segurança, nomeadamente os constan
 
 ###### Artigo 57.º — Requisitos das embarcações regionais de pesca local
 
-1 - Os requisitos específicos a que as embarcações regionais de pesca local devem obedecer, sem prejuízo do disposto nos n.<sup>os</sup>2, 3 e 4 do artigo seguinte, são:
+1 - Os requisitos específicos a que as embarcações regionais de pesca local devem obedecer, sem prejuízo do disposto nos n.os2, 3 e 4 do artigo seguinte, são:
 
 a) Comprimento de fora-a-fora - até 9 m;
 
@@ -929,7 +1003,7 @@ c) Autonomia - estabelecida de acordo com a área de operação fixada para a em
 
 3 - O membro do Governo Regional responsável pelas pescas poderá fixar para as embarcações referidas no número anterior áreas de operação mais restritas, atendendo aos requisitos de segurança aplicáveis e habilitação da tripulação.
 
-4 - Para o efeito do referido nos n.<sup>os</sup>2 e 3, o departamento do Governo Regional responsável pelas pescas pode recorrer a serviços técnicos externos especializados ou a outras entidades com competência na certificação de segurança das embarcações.
+4 - Para o efeito do referido nos n.os2 e 3, o departamento do Governo Regional responsável pelas pescas pode recorrer a serviços técnicos externos especializados ou a outras entidades com competência na certificação de segurança das embarcações.
 
 ###### Artigo 59.º — Requisitos das embarcações regionais de pesca do largo
 
@@ -1035,7 +1109,7 @@ d) Facultar cópia do certificado de lotação de segurança às entidades diret
 
 ###### Artigo 68.º — Embarque de indivíduos para além da lotação
 
-Sem prejuízo do disposto nos n.<sup>os</sup>1, 2 e 3 do artigo anterior, o embarque de tripulantes que não constem da lotação de embarcação ou de indivíduos não tripulantes não pode ultrapassar o número máximo de pessoas a embarcar definido no respetivo certificado de lotação de segurança.
+Sem prejuízo do disposto nos n.os1, 2 e 3 do artigo anterior, o embarque de tripulantes que não constem da lotação de embarcação ou de indivíduos não tripulantes não pode ultrapassar o número máximo de pessoas a embarcar definido no respetivo certificado de lotação de segurança.
 
 ###### Artigo 69.º — Revisão das lotações
 
@@ -1293,7 +1367,7 @@ e) Técnico especializado.
 
 4 - O conteúdo funcional e os requisitos de acesso às categorias e funções dos marítimos são aprovados por portaria do membro do Governo Regional com competência em matéria de pescas.
 
-5 - Os escalões de mestrança e marinhagem referidos nos n.<sup>os</sup>1 e 2 são considerados da área marinha regional de pesca.
+5 - Os escalões de mestrança e marinhagem referidos nos n.os1 e 2 são considerados da área marinha regional de pesca.
 
 ###### Artigo 98.º — Mestre do largo pescador
 
@@ -1955,7 +2029,9 @@ Os programas de exames, a serem aprovados pelo membro do Governo Regional respon
 
 3 - Do novo júri não pode fazer parte qualquer membro do júri anterior.
 
-###### Artigo 176.º — Livro de termos de exame
+###### Artigo 176.º
+
+## Livro de termos de exame
 
 1 - Os resultados dos exames são registados em livros de termos de exame.
 
@@ -2191,9 +2267,9 @@ m) Não cumprir com as regras de utilização e de ordenamento fixadas para o po
 
 n) Não retirar a embarcação do porto ou núcleo de pesca após ter sido notificado pela entidade competente para o efeito.
 
-5 - Tratando-se de pessoas coletivas, os limites máximos da coima fixados nos n.<sup>os</sup>1 a 4 do presente artigo são elevados, respetivamente, para € 250 000,00 (duzentos e cinquenta mil euros), € 125 000,00 (cento e vinte cinco mil euros), € 75 000,00 (setenta e cinco mil euros) e € 25 000,00 (vinte e cinco mil euros).
+5 - Tratando-se de pessoas coletivas, os limites máximos da coima fixados nos n.os1 a 4 do presente artigo são elevados, respetivamente, para € 250 000,00 (duzentos e cinquenta mil euros), € 125 000,00 (cento e vinte cinco mil euros), € 75 000,00 (setenta e cinco mil euros) e € 25 000,00 (vinte e cinco mil euros).
 
-6 - Caso as infrações sejam praticadas com navios de convés aberto ou sem auxílio de navios, os limites mínimos e máximos das coimas fixados nos n.<sup>os</sup>1 a 4 são reduzidos a metade.
+6 - Caso as infrações sejam praticadas com navios de convés aberto ou sem auxílio de navios, os limites mínimos e máximos das coimas fixados nos n.os1 a 4 são reduzidos a metade.
 
 7 - Se o mesmo facto constituir simultaneamente crime e contraordenação, o agente é punido a título de crime, sem prejuízo da aplicação das sanções acessórias previstas para a contraordenação ou dos pontos, caso aplicável.
 
@@ -2221,15 +2297,15 @@ b) O exercício de atividade por inscrito marítimo sem estar munido dos certifi
 
 ###### Artigo 187.º — Contraordenações em matéria de lotação das embarcações
 
-1 - O não cumprimento da lotação fixada, salvo nos casos previstos nos n.<sup>os</sup>2, 3 e 4 do artigo 67.º, em violação do disposto no n.º 2 do artigo 60.º, ambos deste diploma, faz incorrer o armador e o responsável pelo governo da embarcação em infração contraordenacional, punível com coima no montante mínimo de € 250,00 (duzentos e cinquenta euros) e máximo de € 3750,00 (três mil, setecentos e cinquenta euros).
+1 - O não cumprimento da lotação fixada, salvo nos casos previstos nos n.os2, 3 e 4 do artigo 67.º, em violação do disposto no n.º 2 do artigo 60.º, ambos deste diploma, faz incorrer o armador e o responsável pelo governo da embarcação em infração contraordenacional, punível com coima no montante mínimo de € 250,00 (duzentos e cinquenta euros) e máximo de € 3750,00 (três mil, setecentos e cinquenta euros).
 
 2 - O embarque de tripulantes ou de não tripulantes, para além dos limites fixados (excesso de lotação) em violação do disposto do n.º 1 do artigo 67.º deste diploma, faz incorrer o armador e o responsável pelo governo da embarcação em infração contraordenacional punível com coima no montante mínimo de € 125,00 (cento e vinte e cinco euros) e máximo de € 2 500,00 (dois mil e quinhentos euros).
 
 3 - A falta, a bordo, do certificado de lotação de segurança, em violação do disposto no n.º 2 do artigo 63.º deste diploma, faz incorrer o armador e o responsável pelo governo da embarcação em infração contraordenacional punível com coima no montante mínimo de € 125,00 (cento e vinte e cinco euros) e máximo de € 1 250,00 (mil duzentos e cinquenta euros).
 
-4 - A falta, a bordo, do rol de tripulação, dos documentos relativos aos tripulantes embarcados, bem como dos documentos e certificados exigíveis aos marítimos, em violação do disposto, respetivamente, nos n.<sup>os</sup>3 e 4 do artigo 114.º e no n.º 2 do artigo 119.º do presente diploma, faz incorrer o armador e o responsável pelo governo da embarcação em infração contraordenacional punível com coima no montante mínimo de € 125,00 (cento e vinte e cinco euros) e máximo de € 2 500,00 (dois mil e quinhentos euros).
+4 - A falta, a bordo, do rol de tripulação, dos documentos relativos aos tripulantes embarcados, bem como dos documentos e certificados exigíveis aos marítimos, em violação do disposto, respetivamente, nos n.os3 e 4 do artigo 114.º e no n.º 2 do artigo 119.º do presente diploma, faz incorrer o armador e o responsável pelo governo da embarcação em infração contraordenacional punível com coima no montante mínimo de € 125,00 (cento e vinte e cinco euros) e máximo de € 2 500,00 (dois mil e quinhentos euros).
 
-5 - Os montantes máximos das coimas, quando aplicáveis a pessoas coletivas, são elevados para o triplo, nos casos dos n.<sup>os</sup>1 e 2, e para o dobro, no caso do n.º 3.
+5 - Os montantes máximos das coimas, quando aplicáveis a pessoas coletivas, são elevados para o triplo, nos casos dos n.os1 e 2, e para o dobro, no caso do n.º 3.
 
 ###### Artigo 188.º — Determinação da medida da coima
 
@@ -2633,7 +2709,7 @@ Constituem garantias de pagamento da coima, custas e demais encargos legais, os 
 
 3 - Os membros do Governo Regional responsáveis pelos transportes marítimos e pelas pescas podem celebrar protocolos, com vista ao estabelecimento de uma eficaz administração e gestão dos núcleos de pesca referidos no número anterior.
 
-4 - O departamento do Governo Regional responsável pelas pescas pode estabelecer por edital regras de utilização e de ordenamento das áreas terrestres e marítimas dos portos de pesca referidos no n.º 1, bem como nos núcleos de pesca referidos nos n.<sup>os</sup>2 e 3.
+4 - O departamento do Governo Regional responsável pelas pescas pode estabelecer por edital regras de utilização e de ordenamento das áreas terrestres e marítimas dos portos de pesca referidos no n.º 1, bem como nos núcleos de pesca referidos nos n.os2 e 3.
 
 5 - É proibido o abandono de qualquer embarcação num porto ou núcleo de pesca, bem como a permanência de embarcação abandonada, após notificação, para a sua retirada, efetuada pelo departamento do Governo Regional responsável pelas pescas ao proprietário ou armador da embarcação.
 
@@ -2687,7 +2763,7 @@ e) [Decreto Legislativo Regional n.º 15/89/A](https://diariodarepublica.pt/dr/d
 
 f) [Decreto Legislativo Regional n.º 24/94/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1994-548626), de 30 de novembro, sem prejuízo das obrigações assumidas durante a sua vigência;
 
-g) [Decreto Regulamentar Regional n.º 7/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1982-599899), de 4 de março, alterado pelas Portarias n.<sup>os</sup>7/94, de 24 de março, e 63/90, de 26 de dezembro, sem prejuízo das obrigações assumidas durante a sua vigência;
+g) [Decreto Regulamentar Regional n.º 7/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1982-599899), de 4 de março, alterado pelas Portarias n.os7/94, de 24 de março, e 63/90, de 26 de dezembro, sem prejuízo das obrigações assumidas durante a sua vigência;
 
 h) [Decreto Regulamentar Regional n.º 10/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1986-196232), de 5 de abril;
 
@@ -2713,3 +2789,7 @@ O presente diploma entra em vigor no prazo de 30 dias a contar da data da sua pu
 | Obstrução da atividade dos agentes no exercício das suas funções de verificação do cumprimento das medidas de conservação e de gestão aplicáveis ou da atividade dos observadores no exercício das suas funções de observação do cumprimento das regras da PCP | Alínea c) do n.º 1 | 7 |
 | Transbordo ou participação em operações de pesca conjuntas com navios de pesca identificados no exercício de pesca INN, nos termos do [Regulamento (CE) n.º 1005/2008](https://data.europa.eu/eli/reg/2008/1005/oj?locale=pt), do Conselho, de 29 de setembro, nomeadamente navios constantes da lista da União dos navios INN ou da lista INN de uma organização regional de gestão das pescas, ou apoio ou reabastecimento de tais navios | Alínea d) do n.º 1 | 7 |
 | Utilização de um navio de pesca sem nacionalidade, sendo, por isso, um navio apátrida nos termos do direito internacional | Alínea e) do n.º 1 | 7 |
+
+119948177
+
+.Tbl1 { border-collapse:collapse; border-width:1px; margin-left:auto; } .Tbl2 { min-height:38px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:37px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { min-height:18px; } .Tbl10 { min-height:28px; } .Tbl11 { min-height:47px; }

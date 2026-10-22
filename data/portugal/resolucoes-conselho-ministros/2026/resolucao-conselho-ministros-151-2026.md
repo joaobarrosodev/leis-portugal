@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/151/2026/07/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/151-2026-1151256047
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-23T00:00:00Z'
+  retrieved_at: '2026-10-22T18:47:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2a142217f0918340089b3c115982ec4608bf16443780ce75288ac4a6feb4ed1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c29cffb5eaf3a31f1b45866f616e9a77e21fffebcce8337eb06c836fcbc2bbea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:47:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,12 +70,12 @@ subjects:
 - Autorização de Despesas
 - Despesas Públicas
 - Inflação
+- Metro do Porto
 - Metropolitano
 - Parceria Público-Privada
-- Metro do Porto
+- Porto
 - Taxa
 - TAXA de Desconto
-- Porto
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/111/2012/05/23/p/dre
@@ -101,16 +101,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:1134399058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3201635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:891145411:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:47:33Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +165,7 @@ Neste âmbito, a equipa de projeto constituída, em cumprimento do exigido pelo 
 
 Durante o procedimento de parecer prévio da Autoridade da Mobilidade e dos Transportes (AMT), a equipa de projeto elaborou dois aditamentos ao relatório suprarreferido, cuja apreciação pela AMT resultou na emissão do parecer positivo sobre as peças do concurso propostas pela equipa.
 
-Assim, nos termos e para os efeitos previstos nos n.<sup>os</sup>3 e 4 do artigo 14.º do [Decreto-Lei n.º 111/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), de 23 de maio, através do [Despacho n.º 7753/2026](https://diariodarepublica.pt/dr/detalhe/despacho/7753-2026-1134399058), publicado no Diário da República, 2.ª série, n.º 118, de 22 de junho de 2026, dos membros do Governo responsáveis pelas áreas das finanças e da mobilidade foi aprovado, em 16 de junho de 2026, o lançamento da parceria público-privada relativa à nova subconcessão da operação e da manutenção do Sistema de Metro Ligeiro da Área Metropolitana do Porto, os termos previstos no relatório fundamentado da equipa de projeto (complementado pelos aditamentos acima referidos), lançamento este cuja efetivação fica sujeita à prévia autorização da despesa inerente.
+Assim, nos termos e para os efeitos previstos nos n.os3 e 4 do artigo 14.º do [Decreto-Lei n.º 111/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), de 23 de maio, através do [Despacho n.º 7753/2026](https://diariodarepublica.pt/dr/detalhe/despacho/7753-2026-1134399058), publicado no Diário da República, 2.ª série, n.º 118, de 22 de junho de 2026, dos membros do Governo responsáveis pelas áreas das finanças e da mobilidade foi aprovado, em 16 de junho de 2026, o lançamento da parceria público-privada relativa à nova subconcessão da operação e da manutenção do Sistema de Metro Ligeiro da Área Metropolitana do Porto, os termos previstos no relatório fundamentado da equipa de projeto (complementado pelos aditamentos acima referidos), lançamento este cuja efetivação fica sujeita à prévia autorização da despesa inerente.
 
 No presente caso, compete à Metro do Porto, S. A., na qualidade de órgão competente para a decisão de contratar, a adoção de todos os atos que, nos termos da lei, se demonstrem necessários ao lançamento do procedimento de concurso público tendente à celebração do novo contrato de subconcessão, em regime de parceria público-privada, da operação e da manutenção do Sistema de Metro Ligeiro da Área Metropolitana do Porto, sem prejuízo da prévia autorização da despesa inerente a esse contrato.
 
@@ -172,3 +208,5 @@ i) 2035: 25 849 436,47 €.
 5 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 17 de julho de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119949131

@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43615-1961-569518
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-12-18T00:00:00Z'
+  retrieved_at: '2026-10-22T19:23:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 320012dc30e139787b1dfb36de42e4b3eb97d6ecbb0a493b3fc9f7f5d6d66b8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a2af6d7d2969aed2b7f7a6783cae476ae1c55695c78b9a2b3249008c3ea639f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:23:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estacionamento
+- Multa
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:468073:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:468073:por
+  label: "Amnistiadas as contravenções previstas no presente diploma, pelo DEC LEI.720/74.18.12.1974.MESA, DG.IS [294] de\
+    \ 18.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/720-1974-468073
+  date: '1974-12-18'
+- type: cites
+  target: pt:dre:354910:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:23:13Z'
   warnings: []
   errors: []
 ---
@@ -97,20 +110,20 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os automóveis de aluguer, quer se destinem ao transporte de passageiros, quer ao de mercadorias, devem encontrar-se à disposição do público nos locais de estacionamento constantes das respectivas licenças, salvo os casos previstos nos §§ 1.º e 2.º do artigo 25.º do [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948.
+Artigo 1.º Os automóveis de aluguer, quer se destinem ao transporte de passageiros, quer ao de mercadorias, devem encontrar-se à disposição do público nos locais de estacionamento constantes das respectivas licenças, salvo os casos previstos nos §§ 1.º e 2.º do artigo 25.º do [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948.
 
 § 1.º A Direcção-Geral de Transportes Terrestres poderá, no entanto, autorizar a alteração temporária do local de estacionamento dos veículos ligeiros de passageiros para outros locais, especialmente nas épocas termais ou balneares e por ocasião de festividades.
 
 § 2.º As autorizações a que se refere o parágrafo anterior para o serviço de praias e termas serão concedidas por prazo não superior a 120 dias; para o serviço de festas serão passadas pelo tempo que estas durarem. Serão sempre ouvidas as câmaras municipais dos conselhos interessados.
 
-###### Art. 2.º A transgressão ao disposto no artigo 1.º será punida:
+Art. 2.º A transgressão ao disposto no artigo 1.º será punida:
 
 a) Com a multa de 200$00, se o veículo se mantiver dentro da localidade onde está autorizado a estacionar;
 
 b) Com o cancelamento da licença de aluguer, se o veículo estacionar em localidade diferente.
 
-###### Art. 3.º Ficam revogados os artigos 23.º e 228.º, na parte aplicável, do [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948.
+Art. 3.º Ficam revogados os artigos 23.º e 228.º, na parte aplicável, do [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Abril de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Carlos Gomes da Silva Ribeiro.

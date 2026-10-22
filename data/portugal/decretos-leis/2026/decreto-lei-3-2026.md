@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/3/2026/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2026-1006464117
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-14T00:00:00Z'
+  retrieved_at: '2026-10-22T18:28:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87ef8da626fb2188b7049978f3f6afb285475e61721081437221d0516119838e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08aee84a8d93a48fa7a0817ab96b04adfa38a4cfec186a0107c4418dfe02cf79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:28:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,10 +69,16 @@ subjects:
 - Concurso
 - Concurso de Acesso
 - Curso de Medicina
-- Prova de Ingresso
 - Licenciatura
 - Numerus Clausus
+- Prova de Ingresso
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:40/2007
+  label: Altera, a partir de 19 de janeiro, o artigo 4.º e revoga os seus n.ºs 2 e 3 do Decreto-Lei n.º 40/2007, de 20 de
+    fevereiro, Diário da República n.º 36/2007, Série I
+  source: null
+  date: '2007-02-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/2023/02/08/p/dre
   label: null
@@ -97,16 +103,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
+- type: cites
+  target: pt:dre:165036155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207177836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211573083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216512899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:28:47Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +151,7 @@ de 14 de janeiro
 
 O [Decreto-Lei n.º 40/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2007-517845), de 20 de fevereiro, alterado pelo [Decreto-Lei n.º 64-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), de 31 de julho, que institui e regula um concurso especial para acesso ao curso de Medicina por titulares do grau de licenciado, estabelece, no n.º 1 do seu artigo 4.º, que as vagas para este concurso especial, para cada curso de Medicina em cada faculdade, são fixadas, anualmente, por despacho do reitor da universidade, sob proposta do órgão legal e estatutariamente competente da faculdade.
 
-Todavia, nos termos dos n.<sup>os</sup>2 e 3 do referido artigo 4.º do [Decreto-Lei n.º 40/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2007-517845), de 20 de fevereiro, foi definida uma percentagem mínima de vagas para este concurso especial para o ingresso nos primeiros quatro anos letivos subsequentes à sua entrada em vigor, de 2007-2008 a 2010-2011, correspondente a 5 % do número de vagas fixado para o concurso nacional de acesso a cada curso em cada faculdade, o qual passou a ser de 15 % para o ingresso a partir do ano letivo de 2011-2012, inclusive.
+Todavia, nos termos dos n.os2 e 3 do referido artigo 4.º do [Decreto-Lei n.º 40/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2007-517845), de 20 de fevereiro, foi definida uma percentagem mínima de vagas para este concurso especial para o ingresso nos primeiros quatro anos letivos subsequentes à sua entrada em vigor, de 2007-2008 a 2010-2011, correspondente a 5 % do número de vagas fixado para o concurso nacional de acesso a cada curso em cada faculdade, o qual passou a ser de 15 % para o ingresso a partir do ano letivo de 2011-2012, inclusive.
 
 No ano letivo de 2024-2025, 29 % das vagas fixadas desta forma para o referido concurso especial ficaram por preencher, verificando-se que, no ano letivo de 2025-2026, esta percentagem foi de 24 %.
 
@@ -163,16 +197,18 @@ O artigo 4.º do [Decreto-Lei n.º 40/2007](https://diariodarepublica.pt/dr/deta
 
 ###### Artigo 3.º — Norma revogatória
 
-São revogados os n.<sup>os</sup> 2 e 3 do artigo 4.º do [Decreto-Lei n.º 40/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2007-517845), de 20 de fevereiro, na sua redação atual.
+São revogados os n.os 2 e 3 do artigo 4.º do [Decreto-Lei n.º 40/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2007-517845), de 20 de fevereiro, na sua redação atual.
 
 Visto e aprovado em Conselho de Ministros de 28 de novembro de 2025. - Luís Montenegro - Fernando Alexandre.
 
-**Promulgado em 5 de janeiro de 2026.**
+Promulgado em 5 de janeiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 9 de janeiro de 2026.**
+Referendado em 9 de janeiro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119947207

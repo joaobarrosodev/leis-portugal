@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 252/1992, 3º Suplemento, Série I-B de 1992-10-31
   number: '252'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 5052-(13) a 5052-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/10/252b03/00130013.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/182/1992/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/182-1992-627608
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:34:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7fe4e8fd2c5a9ac7fdcd68852717f51da2d265cc6dd1e98263b413f6cdd333e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e13b382945264fe304752d924141b1a3f75c31d7d265ad400c5b1dca6a278d7c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:34:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Orgânica
 - Quadro de Pessoal
 - Secretaria Regional do Turismo e Ambiente
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/33/1992/08/04/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/33/1992/08/04/a/dre
+- type: cites
+  target: pt:dre:274465:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:34:06Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 182/92
+# Declaração de rectificação n.º 182/92
 
 Para os devidos efeitos se declara que o [Decreto Regulamentar Regional n.º 33/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-1992-274465), publicado no Diário da República, n.º 178, de 4 de Agosto de 1992, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 

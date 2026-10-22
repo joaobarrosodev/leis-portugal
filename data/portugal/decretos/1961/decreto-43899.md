@@ -46,36 +46,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-09-06T00:00:00Z'
+  retrieved_at: '2026-10-22T19:25:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bbb2e8671a5f248837a813e1c260c97588027490e87e81093a1e2c3dabfb6e8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 58bc2c48212a2a8c6678520446a42ccdc3577277cf9e915b1778adf9a44e3cf6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:25:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Ultramarina
+- Advogado
+- Concurso
+- Conservador
+- Conservatória do Registo Civil
+- Conservatória do Registo Comercial
+- Conservatória do Registo Predial
+- Criação de Serviços
+- Formas de Provimento
+- Lourenço Marques
+- Luanda
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- Registo Automóvel
+- Registos e Notariado
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:156385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678239:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:25:29Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +172,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 ### CAPÍTULO I — Das conservatórias dos registos e autónomas, das secretarias e cartórios notariais, e das delegações
 
-###### Artigo 1.º - 1. Na sede de cada comarca das províncias ultramarinas haverá uma conservatória dos registos e um ou mais cartórios notariais, com competência na respectiva circunscrição judicial.
+Artigo 1.º - 1. Na sede de cada comarca das províncias ultramarinas haverá uma conservatória dos registos e um ou mais cartórios notariais, com competência na respectiva circunscrição judicial.
 
 2. As conservatórias compreenderão os seguintes serviços:
 
@@ -138,7 +186,7 @@ c) Registo civil.
 
 4. Quando o desenvolvimento dos serviços ou outras circunstâncias o exijam, haverá nas sedes das comarcas conservatórias autónomas, com conservadores privativos do registo predial, comercial, civil e automóvel, e nas sedes de conselhos ou circunscrições que não forem sedes de comarcas conservatórias dos registos, ou autónomas, e cartórios notariais.
 
-###### Art. 2.º - 1. Nas sedes dos concelhos ou circunscrições onde não haja conservatórias poderá haver delegações do registo predial, comercial ou civil.
+Art. 2.º - 1. Nas sedes dos concelhos ou circunscrições onde não haja conservatórias poderá haver delegações do registo predial, comercial ou civil.
 
 2. Nas sedes dos postos administrativos ou freguesias não incluídas na área urbana das localidades onde se situarem as conservatórias ou delegações do registo civil poderá haver postos rurais do registo civil.
 
@@ -150,17 +198,17 @@ c) Registo civil.
 
 6. Os postos e delegações pertencem à conservatória da comarca respectiva ou, havendo mais de uma, à conservatória em cuja área de competência territorial estiverem localizados.
 
-###### Art. 3.º - 1. Nas comarcas de Luanda e Lourenço Marques haverá conservatórias autónomas do registo predial, comercial, civil e automóvel.
+Art. 3.º - 1. Nas comarcas de Luanda e Lourenço Marques haverá conservatórias autónomas do registo predial, comercial, civil e automóvel.
 
 2. Nas comarcas de Sotavento, Guiné, S. Tomé, Benguela, Lobito, Nova Lisboa, Beira, Quelimane, ilhas de Goa, Bardez, Salsete, Macau e Timor haverá conservatórias autónomas do registo civil.
 
-###### Art. 4.º - 1. Cada conservatória será chefiada por um conservador. As delegações e postos serão chefiados, respectivamente, por oficiais e ajudantes.
+Art. 4.º - 1. Cada conservatória será chefiada por um conservador. As delegações e postos serão chefiados, respectivamente, por oficiais e ajudantes.
 
 2. As funções de oficial de registo civil serão desempenhadas pelos secretários das administrações dos concelhos ou circunscrições. Porém, quando o movimento dos serviços ou outras circunstâncias o aconselhem, poderão ser nomeados oficiais privativos.
 
 3. As funções de ajudante dos postos rurais serão exercidas pelas autoridades administrativas locais, e as de ajudante dos postos hospitalares pelo chefe da secretaria dos estabelecimentos ou por quem suas vezes fizer.
 
-###### Art. 5.º - 1. Aos oficiais do registo civil compete:
+Art. 5.º - 1. Aos oficiais do registo civil compete:
 
 a) Lavrar os assentos de nascimento e óbito e os averbamentos a eles respeitantes;
 
@@ -180,19 +228,19 @@ g) Praticar todos os demais actos que lhes sejam delegados pelo conservador ou c
 
 3. Os ajudantes dos postos rurais e hospitalares têm a competência que lhes é atribuída no Código de Registo Civil.
 
-###### Art. 6.º Aos conservadores compete fiscalizar e dirigir superiormente os serviços das delegações e postos situados na área da competência territorial da conservatória.
+Art. 6.º Aos conservadores compete fiscalizar e dirigir superiormente os serviços das delegações e postos situados na área da competência territorial da conservatória.
 
-###### Art. 7.º As conservatórias e os cartórios notariais serão divididos, por portaria do Ministro do Ultramar, em duas classes.
+Art. 7.º As conservatórias e os cartórios notariais serão divididos, por portaria do Ministro do Ultramar, em duas classes.
 
-###### Art. 8.º As funções notariais dos secretários de circunscrição passam a ser exercidas, nas localidades onde haja serviços de registo, por quem estiver encarregado destes. Funcionando vários serviços de registo, as funções notariais serão exercidas pelo encarregado dos serviços de registo predial, havendo-o, ou por quem o governador da província designar, no caso contrário.
+Art. 8.º As funções notariais dos secretários de circunscrição passam a ser exercidas, nas localidades onde haja serviços de registo, por quem estiver encarregado destes. Funcionando vários serviços de registo, as funções notariais serão exercidas pelo encarregado dos serviços de registo predial, havendo-o, ou por quem o governador da província designar, no caso contrário.
 
-###### Art. 9.º - 1. Os notários cujos lugares tenham sede na mesma localidade funcionarão obrigatòriamente em conjunto num único cartório, em regime de secretaria.
+Art. 9.º - 1. Os notários cujos lugares tenham sede na mesma localidade funcionarão obrigatòriamente em conjunto num único cartório, em regime de secretaria.
 
 2. As secretarias notariais terão tantas secções quantos os lugares de notário que as constituírem e disporão de instalações e quadro de pessoal auxiliar comuns.
 
-###### Art. 10.º A direcção das secretarias notariais compete a um dos notários, nomeado pelo Ministro do Ultramar, sob proposta da Direcção-Geral de Justiça.
+Art. 10.º A direcção das secretarias notariais compete a um dos notários, nomeado pelo Ministro do Ultramar, sob proposta da Direcção-Geral de Justiça.
 
-###### Art. 11.º Compete ao director da secretaria notarial:
+Art. 11.º Compete ao director da secretaria notarial:
 
 a) Representar a secretaria em todos os actos oficiais e extra-oficiais e corresponder-se, em nome dela, com todas as autoridades e repartições;
 
@@ -216,7 +264,7 @@ j) Rubricar os livros de distribuição e contas da secretaria;
 
 k) Consultar superiormente sobre as dúvidas que se suscitarem na aplicação das leis referentes aos serviços ou na execução dos actos notariais.
 
-###### Art. 12.º - 1. Os serviços de registo e notariado têm o horário das restantes repartições públicas das localidades onde funcionarem.
+Art. 12.º - 1. Os serviços de registo e notariado têm o horário das restantes repartições públicas das localidades onde funcionarem.
 
 2. Fora das horas regulamentares, bem como aos domingos e dias de feriado, poderão os interessados solicitar a comparência dos notários para lavrar testamentos ou outros actos notariais de carácter urgente.
 
@@ -228,7 +276,7 @@ k) Consultar superiormente sobre as dúvidas que se suscitarem na aplicação da
 
 6. Os postos do registo civil funcionarão todos os dias, incluindo domingos e feriados, para todos os serviços da sua competência.
 
-###### Art. 13.º - 1. As despesas para a instalação e funcionamento dos serviços de registo e do notariado, incluindo renda da casa e bem assim as de aquisição, conservação e aproveitamento de móveis, reforma e reparação de livros, serão satisfeitos pelas províncias.
+Art. 13.º - 1. As despesas para a instalação e funcionamento dos serviços de registo e do notariado, incluindo renda da casa e bem assim as de aquisição, conservação e aproveitamento de móveis, reforma e reparação de livros, serão satisfeitos pelas províncias.
 
 2. As despesas com a aquisição de livros, impressos e mais expediente serão pagos pelas taxas de reembolso fixadas nos termos da alínea c) do artigo 89.º
 
@@ -236,19 +284,19 @@ k) Consultar superiormente sobre as dúvidas que se suscitarem na aplicação da
 
 #### SECÇÃO I — Do regime da função
 
-###### Art. 14.º - 1. Os conservadores e notários do ultramar são funcionários públicos, de nomeação do Ministro do Ultramar, e dele dependentes e directamente subordinados ao procurador da República junto da respectiva relação.
+Art. 14.º - 1. Os conservadores e notários do ultramar são funcionários públicos, de nomeação do Ministro do Ultramar, e dele dependentes e directamente subordinados ao procurador da República junto da respectiva relação.
 
 2. Estes funcionários estão sujeitos à jurisdição disciplinar do Conselho Superior Judiciário do Ultramar, sendo-lhes aplicáveis as penalidades estabelecidas no Estatuto do Funcionalismo Ultramarino. A aplicação das penas dos n.os 1.º a 4.º do artigo 354.º do estatuto é, porém, da competência dos procuradores da República, cabendo, da decisão destes, o recurso para o Conselho Superior Judiciário.
 
-###### Art. 15.º Os conservadores e notários exercem as suas atribuições na área da competência das respectivas conservatórias e cartórios.
+Art. 15.º Os conservadores e notários exercem as suas atribuições na área da competência das respectivas conservatórias e cartórios.
 
-###### Art. 16.º A posse dos conservadores e notários é conferida pelo director-geral de Justiça, em Lisboa, pelo procurador da República, nas sedes dos distritos judiciais do ultramar, e pelo juiz da comarca, nas restantes localidades.
+Art. 16.º A posse dos conservadores e notários é conferida pelo director-geral de Justiça, em Lisboa, pelo procurador da República, nas sedes dos distritos judiciais do ultramar, e pelo juiz da comarca, nas restantes localidades.
 
-###### Art. 17. - 1. É aplicável aos conservadores e notários o Estatuto do Funcionalismo Ultramarino, no que não for contrariado pelo presente diploma.
+Art. 17. - 1. É aplicável aos conservadores e notários o Estatuto do Funcionalismo Ultramarino, no que não for contrariado pelo presente diploma.
 
 2. Ficam, porém, sujeitos às normas estatutárias da magistratura judicial ou do Ministério Público quando exercerem funções judiciais ou do Ministério Público, mas sòmente em relação a essas funções.
 
-###### Art. 18.º - 1. O que for provido, definitiva ou interinamente, em lugar de conservador ou notário deverá conferir o inventário da conservatória ou cartório na presença do anterior serventuário, e, não podendo este estar presente, do seu substituto legal.
+Art. 18.º - 1. O que for provido, definitiva ou interinamente, em lugar de conservador ou notário deverá conferir o inventário da conservatória ou cartório na presença do anterior serventuário, e, não podendo este estar presente, do seu substituto legal.
 
 2. No caso de morte, incapacidade ou outro motivo que torne impossível a intervenção do funcionário responsável, a conferência será efectuada, a pedido do interessado, na presença de quem for designado pelo procurador da República, juiz de direito ou juiz municipal, consoante a repartição se situar, respectivamente, em sede de distrito judicial, de comarca que não seja sede de distrito judicial ou de julgado municipal que não seja sede de comarca.
 
@@ -256,7 +304,7 @@ k) Consultar superiormente sobre as dúvidas que se suscitarem na aplicação da
 
 4. Um dos exemplares do auto da conferência ficará arquivado na repartição e o restante será remetido pelo conservador ou notário, no prazo de 30 dias, a contar da posse, à procuradoria da República, acompanhado da informação circunstanciada acerca do estado geral em que foi encontrado o serviço da respectiva repartição.
 
-###### Art. 19.º - 1. O exercício do cargo de conservador ou notário é incompatível:
+Art. 19.º - 1. O exercício do cargo de conservador ou notário é incompatível:
 
 a) Com qualquer outra função pública remunerada salvas as excepções legais;
 
@@ -282,23 +330,23 @@ c) A intervenção fora da comarca nos actos de processo praticados na 1.ª inst
 
 5. Aos notários, ainda que possam exercer a advocacia, nos termos da alínea b) do n.º 2, é vedado aceitar mandato nos pleitos em que se discutirem actos praticados nos próprios cartórios, ou intervir nos pleitos em que por lei lhes for proibido fazê-lo. Em caso algum, e ainda que aposentados, poderão aceitar mandato judicial contra o Estado ou contra as pessoas colectivas de direito público.
 
-###### Art. 20.º - 1. Quando não impedidos em serviço externo, os conservadores e notários devem permanecer nas respectivas conservatórias e cartórios durante as horas regulamentares, dirigindo e fiscalizando pessoalmente todo o trabalho da repartição.
+Art. 20.º - 1. Quando não impedidos em serviço externo, os conservadores e notários devem permanecer nas respectivas conservatórias e cartórios durante as horas regulamentares, dirigindo e fiscalizando pessoalmente todo o trabalho da repartição.
 
 2. Os que estiverem autorizados a exercer a advocacia poderão ausentar-se quando tenham serviço no tribunal ou hajam de assistir a diligências fora dele. Se, para esse efeito, tiverem de sair da sede do seu lugar, deverão, no próprio dia ou na véspera, participar a ausência ao procurador da República para que lhes seja justificada a falta. Poderão ser justificadas nestes termos até cinco faltas em cada mês, mas só duas não darão lugar à perda de vencimentos.
 
 3. Os que, em acumulação com o seu lugar, exerçam comissão de serviço ou função de interesse público poderão ausentar-se da conservatória ou cartório sem prejuízo dos respectivos serviços pelo tempo indispensável para o desempenho do cargo acumulado.
 
-###### Art. 21.º - 1. Haverá no ultramar um quadro de conservadores dos registos, que inclui os conservadores privativos do registo predial, comercial, civil e automóvel, e um quadro de notários.
+Art. 21.º - 1. Haverá no ultramar um quadro de conservadores dos registos, que inclui os conservadores privativos do registo predial, comercial, civil e automóvel, e um quadro de notários.
 
 2. Em cada um dos quadros os funcionários são distribuídos por duas classes, segundo a sua antiguidade e classificação de serviço.
 
 3. O número de funcionários de cada classe será igual ao número de lugares da mesma classe, estabelecido nos termos do artigo 7.º
 
-###### Art. 22.º - 1. A lista de antiguidades dos conservadores e notários será organizada anualmente pela Direcção-Geral de Justiça do Ministério do Ultramar, com referência a 31 de Dezembro de cada ano.
+Art. 22.º - 1. A lista de antiguidades dos conservadores e notários será organizada anualmente pela Direcção-Geral de Justiça do Ministério do Ultramar, com referência a 31 de Dezembro de cada ano.
 
 2. A lista será publicada no Boletim Judiciário do Ultramar.
 
-###### Art. 23.º Os magistrados que forem nomeados conservadores ou notários, ao abrigo do disposto no n.º 2 do artigo 28.º, irão ocupar nos respectivos quadros o lugar correspondente ao tempo de serviço que tiverem nas suas funções de magistrados. Art. 24.º - 1. Os funcionários que se considerem lesados pela graduação que lhes for dada na lista de antiguidades poderão dela reclamar, no prazo de 30 dias, a contar da publicação no Boletim Judiciário.
+Art. 23.º Os magistrados que forem nomeados conservadores ou notários, ao abrigo do disposto no n.º 2 do artigo 28.º, irão ocupar nos respectivos quadros o lugar correspondente ao tempo de serviço que tiverem nas suas funções de magistrados. Art. 24.º - 1. Os funcionários que se considerem lesados pela graduação que lhes for dada na lista de antiguidades poderão dela reclamar, no prazo de 30 dias, a contar da publicação no Boletim Judiciário.
 
 2. A reclamação será dirigida ao director-geral de Justiça, o qual, se verificar ter havido erro na graduação por virtude de inexactidões materiais ou de lapso manifesto mandará fazer a devida correcção, que será publicada no Boletim Judiciário.
 
@@ -310,7 +358,7 @@ c) A intervenção fora da comarca nos actos de processo praticados na 1.ª inst
 
 6. O reclamante que decair poderá ser condenado a pagar, a título de custas, a importância que o despacho fixar, sob proposta do Conselho, até ao limite de 500$00.
 
-###### Art. 25.º - 1. Os conservadores e notários serão promovidos à classe imediata nos termos seguintes: a) O Conselho Superior Judiciário do Ultramar apreciará os funcionários de cada classe, que se encontrem no terço superior da escala de antiguidades do respectivo quadro, e, em deliberação fundamentada, graduará, por mérito, aqueles que, em atenção à sua conduta exemplar, excepcionais qualidades e aptidão reveladas no exercício das respectivas funções através de trabalhos publicados sobre matérias da especialidade, se mostrem merecedores de semelhante distinção, propondo-os à promoção;
+Art. 25.º - 1. Os conservadores e notários serão promovidos à classe imediata nos termos seguintes: a) O Conselho Superior Judiciário do Ultramar apreciará os funcionários de cada classe, que se encontrem no terço superior da escala de antiguidades do respectivo quadro, e, em deliberação fundamentada, graduará, por mérito, aqueles que, em atenção à sua conduta exemplar, excepcionais qualidades e aptidão reveladas no exercício das respectivas funções através de trabalhos publicados sobre matérias da especialidade, se mostrem merecedores de semelhante distinção, propondo-os à promoção;
 
 b) Metade das vagas abertas no quadro serão preenchidas pelos funcionários graduados nos termos da alínea anterior, por escolha ministerial;
 
@@ -332,7 +380,7 @@ d) Se não houver funcionários classificados por mérito em condições de prom
 
 8. À promoção do funcionário de classe imediatamente inferior à daquele cuja graduação foi suspensa nas condições previstas no número anterior, quando retardadas em consequência dessa suspensão, aplicar-se-á o mesmo princípio de retroactividade consignado nesse número.
 
-###### Art. 26.º - 1. Os conservadores e notários não poderão requerer transferência antes de terem servido, pelo menos, dois anos no lugar em que estiverem colocados, mas podem a todo o tempo ser transferidos compulsivamente ou por conveniência de serviço.
+Art. 26.º - 1. Os conservadores e notários não poderão requerer transferência antes de terem servido, pelo menos, dois anos no lugar em que estiverem colocados, mas podem a todo o tempo ser transferidos compulsivamente ou por conveniência de serviço.
 
 2. A proibição estabelecida no número anterior não é aplicável à transferência requerida para lugar de classe pessoal do requerente, quando colocado em lugar de classe inferior, nem à transferência para lugar em que, no impedimento do anterior titular efectivo, o requerente já estiver colocado, interinamente, há mais de seis meses.
 
@@ -340,7 +388,7 @@ d) Se não houver funcionários classificados por mérito em condições de prom
 
 4. A transferência por conveniência de serviço poderá ser determinada pelo Ministro do Ultramar e sob proposta fundamentada da Direcção-Geral de Justiça para lugar de classe não inferior ao daquele em que o funcionário estiver colocado. Não havendo vaga em lugar da mesma classe, poderá a transferência efectuar-se para lugar de classe inferior, sem prejuízo do direito do interessado aos vencimentos que lhe competiam pela categoria da sua classe.
 
-###### Art. 27.º O Ministro do Ultramar poderá autorizar as permutas entre funcionários do mesmo quadro, nas condições seguintes:
+Art. 27.º O Ministro do Ultramar poderá autorizar as permutas entre funcionários do mesmo quadro, nas condições seguintes:
 
 a) Terem ambos os requerentes menos de 57 anos de idade;
 
@@ -352,7 +400,7 @@ d) Serem, pessoalmente, da classe dos seus lugares ou da classe superior;
 
 e) Comprometerem-se a não abandonar antes de três anos e por qualquer motivo, salvo o de força maior, o exercício efectivo dos lugares para onde pretendam ser transferidos.
 
-###### Art. 28.º - 1. Os conservadores e notários do ultramar serão nomeados de entre indivíduos que estiverem nas condições legais para serem nomeados para idênticos lugares na metrópole.
+Art. 28.º - 1. Os conservadores e notários do ultramar serão nomeados de entre indivíduos que estiverem nas condições legais para serem nomeados para idênticos lugares na metrópole.
 
 2. Podem, igualmente, ser nomeados notários e conservadores de 1.ª classe os magistrados judiciais e do Ministério Público do Ultramar com mais de sete anos dê serviço em qualquer das funções.
 
@@ -360,7 +408,7 @@ e) Comprometerem-se a não abandonar antes de três anos e por qualquer motivo, 
 
 4. O Ministro do Ultramar pode também nomear, independentemente de concurso, licenciados em Direito para os lugares de conservador do registo civil.
 
-###### Art. 29.º - 1. Para efeitos de provimento das vagas que ocorrerem de lugares de conservadores e notários será aberto concurso documental, nos termos prescritos para os restantes funcionários públicos.
+Art. 29.º - 1. Para efeitos de provimento das vagas que ocorrerem de lugares de conservadores e notários será aberto concurso documental, nos termos prescritos para os restantes funcionários públicos.
 
 2. Os lugares vagos serão providos em concorrentes da respectiva classe, ou da classe superior, e só na falta desses poderão ser nomeados os da classe inferior.
 
@@ -390,7 +438,7 @@ e) Aprovação em concurso de Habilitação mais antigo.
 
 7. A melhor classificação de serviço deixará de constituir preferência quando seja prejudicada pelo cadastro disciplinar dos concorrentes.
 
-###### Art. 30.º - 1. Se ficar deserto o concurso para qualquer lugar de conservador ou notário, poderá o lugar ser preenchido:
+Art. 30.º - 1. Se ficar deserto o concurso para qualquer lugar de conservador ou notário, poderá o lugar ser preenchido:
 
 a) Pela colocação obrigatória de um conservador ou notário que se encontre na situação de disponibilidade;
 
@@ -404,19 +452,19 @@ c) Pela nomeação interina de qualquer licenciado ou bacharel em Direito ou de 
 
 4. Por conveniência de serviço, o Ministro do Ultramar, sob proposta da Direcção-Geral de Justiça, poderá determinar a promoção independentemente de concurso, tomando em consideração para o efeito as classificações de serviço necessárias à promoção por mérito.
 
-###### Art. 31.º Aos conservadores e notários do quadro da metrópole que sejam nomeados conservadores e notários do ultramar ser-lhes-á contado, para efeitos de antiguidade no quadro do ultramar, o tempo de serviço prestado naquelas funções.
+Art. 31.º Aos conservadores e notários do quadro da metrópole que sejam nomeados conservadores e notários do ultramar ser-lhes-á contado, para efeitos de antiguidade no quadro do ultramar, o tempo de serviço prestado naquelas funções.
 
-###### Art. 32.º - 1. Os conservadores e notários cujos lugares forem extintos ou que terminarem o desempenho de comissões de serviço ou o cumprimento das penas disciplinares, nos casos em que essas comissões ou penas determinam vacatura dos respectivos lugares, ficarão na situação de disponibilidade até nova colocação.
+Art. 32.º - 1. Os conservadores e notários cujos lugares forem extintos ou que terminarem o desempenho de comissões de serviço ou o cumprimento das penas disciplinares, nos casos em que essas comissões ou penas determinam vacatura dos respectivos lugares, ficarão na situação de disponibilidade até nova colocação.
 
 2. Os funcionários na situação do número anterior serão concorrentes obrigatórios em todos os concursos abertos para lugares da sua classe ou da classe dos lugares da sua última colocação.
 
-###### Art. 33.º - 1. Os conservadores e notários deixarão de exercer as suas funções no dia seguinte àquele em que chegar à localidade onde tiverem a sua sede o Boletim Oficial em que venha publicada a sua exoneração, suspensão ou demissão, e no próprio dia em que atingirem o limite de idade ou forem notificados de despacho ou sentença que determina o seu afastamento do serviço.
+Art. 33.º - 1. Os conservadores e notários deixarão de exercer as suas funções no dia seguinte àquele em que chegar à localidade onde tiverem a sua sede o Boletim Oficial em que venha publicada a sua exoneração, suspensão ou demissão, e no próprio dia em que atingirem o limite de idade ou forem notificados de despacho ou sentença que determina o seu afastamento do serviço.
 
 2. Os funcionários nas condições deste artigo antes de abandonarem os lugares deverão notificar os respectivos substitutos legais para entrarem em exercício e conferirem com eles o inventário da repartição nos termos do artigo 18.º
 
 #### SECÇÃO II — Dos substitutos
 
-###### Art. 34.º - 1. Os conservadores e notários serão substituídos nas suas faltas, licenças e impedimentos pelos respectivos ajudantes.
+Art. 34.º - 1. Os conservadores e notários serão substituídos nas suas faltas, licenças e impedimentos pelos respectivos ajudantes.
 
 2. Nas localidades em que houver mais de um conservador, substituir-se-ão recìprocamente, no modo que for determinado pelo procurador da República, e só na falta de todos serão substituídos pelos respectivos ajudantes, ou pelo delegado do procurador da República quando assim for determinado pelo respectivo procurador.
 
@@ -428,23 +476,23 @@ c) Pela nomeação interina de qualquer licenciado ou bacharel em Direito ou de 
 
 6. Se o impedimento for de longa duração, poderá o lugar ser provido interinamente.
 
-###### Art. 35.º - 1. O substituto legal, antes de entrar em exercício, deverá reclamar do funcionário que definitivamente deixou o lugar a conferência do inventário e poderá fazê-lo se a sua ausência tiver carácter temporário.
+Art. 35.º - 1. O substituto legal, antes de entrar em exercício, deverá reclamar do funcionário que definitivamente deixou o lugar a conferência do inventário e poderá fazê-lo se a sua ausência tiver carácter temporário.
 
 2. É aplicável a esta conferência o disposto nos n.os 2, 3 e 4 do artigo 18.º
 
-###### Art. 36.º Quando falecer um conservador ou notário, o seu substituto legal é obrigado a participar o facto à Procuradoria da República, no prazo de três dias.
+Art. 36.º Quando falecer um conservador ou notário, o seu substituto legal é obrigado a participar o facto à Procuradoria da República, no prazo de três dias.
 
 #### SECÇÃO III — Dos direitos e obrigações
 
-###### Art. 37.º Os notários e conservadores do ultramar terão os direitos e obrigações gerais dos funcionários públicos ultramarinos, incluindo o direito à aposentação.
+Art. 37.º Os notários e conservadores do ultramar terão os direitos e obrigações gerais dos funcionários públicos ultramarinos, incluindo o direito à aposentação.
 
-###### Art. 38.º - 1. Os vencimentos dos conservadores de 1.ª e 2.ª classes serão os correspondentes, respectivamente, às letras E e F.
+Art. 38.º - 1. Os vencimentos dos conservadores de 1.ª e 2.ª classes serão os correspondentes, respectivamente, às letras E e F.
 
 2. Os notários de 1.ª e 2.ª classes terão vencimentos de categoria correspondentes, respectivamente, às letras E e F, e como vencimentos de exercício e complementar, a participação emolumentar a que se refere o artigo 40.º
 
 3. No caso de a participação emolumentar, computada anualmente, ser, em relação ao tempo de exercício efectivo das funções, inferior aos vencimentos, de exercício e complementar, relativos ao mesmo período, correspondente às letras E e F, consoante se trate de notários de 1.ª ou 2 ª classes, as províncias pagarão aos notários que não exercerem a advocacia as importâncias necessárias para completar esses vencimentos.
 
-###### Art. 39.º - 1. A participação dos notários de 1.ª e 2.ª classes no rendimento emolumentar será determinada pela aplicação das seguintes percentagens sobre a receita líquida mensal a que se refere o n.º 3 do artigo 73.º:
+Art. 39.º - 1. A participação dos notários de 1.ª e 2.ª classes no rendimento emolumentar será determinada pela aplicação das seguintes percentagens sobre a receita líquida mensal a que se refere o n.º 3 do artigo 73.º:
 
 a) Até 15000$00 na 2.ª classe e 20000$00 na 1.ª classe - 30 por cento;
 
@@ -462,19 +510,19 @@ Em caso algum o vencimento com a participação emolumentar poderá exceder 95 p
 
 Os emolumentos assim percebidos não entram no conjunto dos limites normais das suas remunerações.
 
-###### Art. 40.º - 1. Os conservadores e notários que sirvam em lugares de classe diferente da sua classe pessoal terão o vencimento correspondente à classe do lugar.
+Art. 40.º - 1. Os conservadores e notários que sirvam em lugares de classe diferente da sua classe pessoal terão o vencimento correspondente à classe do lugar.
 
 2. No caso de alteração da classificação dos lugares, os conservadores e notários que neles sirvam terão, enquanto não forem transferidos para lugares da sua classe pessoal, o vencimento correspondente à classe do lugar, excepto se o correspondente à sua classe pessoal for superior.
 
-###### Art. 41.º - 1. Os conservadores quando exercerem as funções de substituição referidas na secção IV terão direito ao seu vencimento pessoal, e, ainda, às gratificações inerentes ao exercício do cargo do substituído, se as houver.
+Art. 41.º - 1. Os conservadores quando exercerem as funções de substituição referidas na secção IV terão direito ao seu vencimento pessoal, e, ainda, às gratificações inerentes ao exercício do cargo do substituído, se as houver.
 
 2. Os notários quando substituírem os delegados perceberão os proventos do seu cargo e, além disso, as gratificações inerentes ao cargo de delegado, se as houver, e o vencimento de exercício do substituído no caso de este não ter direito a ele.
 
-###### Art. 42.º Os conservadores com mais de oito anos de exercício de funções e que tenham exercido, pelo menos, durante dois anos, seguida ou interpoladamente, as funções de juiz de direito, delegado do procurador da República ou juiz municipal, com boas informações e irrepreensível idoneidade moral, serão admitidos aos concursos para juízes de direito do ultramar, se o requererem, entrando com os delegados do procurador da República, para esse efeito, numa só escala por ordem das respectivas antiguidades.
+Art. 42.º Os conservadores com mais de oito anos de exercício de funções e que tenham exercido, pelo menos, durante dois anos, seguida ou interpoladamente, as funções de juiz de direito, delegado do procurador da República ou juiz municipal, com boas informações e irrepreensível idoneidade moral, serão admitidos aos concursos para juízes de direito do ultramar, se o requererem, entrando com os delegados do procurador da República, para esse efeito, numa só escala por ordem das respectivas antiguidades.
 
 #### SECÇÃO IV — Das inerências e funções de substituição dos conservadores e notários
 
-###### Art. 43.º - 1. O conservador dos registos da sede da comarca é o primeiro substituto do juiz de direito.
+Art. 43.º - 1. O conservador dos registos da sede da comarca é o primeiro substituto do juiz de direito.
 
 2. Quando as funções de conservador dos registos forem exercidas, por substituição, pelo conservador do registo civil, será chamado, nas faltas ou impedimentos do juiz de direito, o substituto imediato. A mesma regra se seguirá no caso de o conservador dos registos exercer as funções de juiz municipal.
 
@@ -482,9 +530,9 @@ Os emolumentos assim percebidos não entram no conjunto dos limites normais das 
 
 4. Os conservadores não poderão exercer, cumulativamente com as suas, as funções de juiz de direito por mais de quinze dias, nos termos prescritos no artigo 17.º do decreto referido no número anterior.
 
-###### Art. 44.º Os conservadores poderão exercer, por inerência, as funções de juiz municipal, nos termos da legislação concernente aos julgados municipais do ultramar.
+Art. 44.º Os conservadores poderão exercer, por inerência, as funções de juiz municipal, nos termos da legislação concernente aos julgados municipais do ultramar.
 
-###### Art. 45.º - 1. O notário é o primeiro substituto dos delegados do procurador da República. Havendo mais de um notário, será substituto o que for designado pelo procurador da República.
+Art. 45.º - 1. O notário é o primeiro substituto dos delegados do procurador da República. Havendo mais de um notário, será substituto o que for designado pelo procurador da República.
 
 2. Os notários exercerão, cumulativamente com as suas, as funções de delegado do procurador da República.
 
@@ -498,31 +546,31 @@ Os delegados assim providos sòmente ao fim de seis anos de bom e efectivo servi
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 46.º Os oficiais dos registos exercem as suas atribuições na área da competência das delegações e estão directamente subordinados ao respectivo conservador, perante quem tomam posse.
+Art. 46.º Os oficiais dos registos exercem as suas atribuições na área da competência das delegações e estão directamente subordinados ao respectivo conservador, perante quem tomam posse.
 
-###### Art. 47.º - 1. Os oficiais privativos dos registos são nomeados pelos governadores das províncias de entre indivíduos habilitados com o exame a que se refere a secção seguinte.
+Art. 47.º - 1. Os oficiais privativos dos registos são nomeados pelos governadores das províncias de entre indivíduos habilitados com o exame a que se refere a secção seguinte.
 
 2. Na falta de indivíduos nas condições do número anterior, os lugares de oficiais privativos poderão ser providos pela nomeação interina de ajudantes dos registos e do notariado, de qualquer classe, ou pela nomeação, em comissão, de funcionários administrativos de categoria não inferior à de secretário de circunscrição.
 
-###### Art. 48.º Os oficiais privativos terão vencimentos correspondentes à letra L.
+Art. 48.º Os oficiais privativos terão vencimentos correspondentes à letra L.
 
-###### Art. 49.º A função dos oficiais rege-se, na parte aplicável, pelo disposto na secção I do capítulo II.
+Art. 49.º A função dos oficiais rege-se, na parte aplicável, pelo disposto na secção I do capítulo II.
 
-###### Art. 50.º Os oficiais privativos serão substituídos pelos secretários das administrações dos concelhos ou das circunscrições.
+Art. 50.º Os oficiais privativos serão substituídos pelos secretários das administrações dos concelhos ou das circunscrições.
 
 #### SECÇÃO II — Do exame de habilitação para oficiais privativos dos registos
 
-###### Art. 51.º O exame de habilitação para oficiais privativos dos registos constará de provas práticas, nos termos do regulamento que cada governo provincial publicar.
+Art. 51.º O exame de habilitação para oficiais privativos dos registos constará de provas práticas, nos termos do regulamento que cada governo provincial publicar.
 
-###### Art. 52.º - 1. Nas províncias de governo-geral, o júri será constituído pelo procurador da República, que presidirá, e por dois notários ou conservadores de 1.ª classe, que o procurador designar.
+Art. 52.º - 1. Nas províncias de governo-geral, o júri será constituído pelo procurador da República, que presidirá, e por dois notários ou conservadores de 1.ª classe, que o procurador designar.
 
 2. Nas províncias de governo simples, o júri será constituído pelo juiz de direito da comarca com sede na capital da província e por dois conservadores ou notários que o juiz designar.
 
 3. Os membros do júri terão direito à gratificação que for fixada pelos governadores.
 
-###### Art. 53.º Serão admitidos ao exame de habilitação os ajudantes dos registos e notariado, de qualquer classe, e os indivíduos que possuam os estágios a que se refere o artigo seguinte.
+Art. 53.º Serão admitidos ao exame de habilitação os ajudantes dos registos e notariado, de qualquer classe, e os indivíduos que possuam os estágios a que se refere o artigo seguinte.
 
-###### Art. 54.º - 1. Os estágios para admissão ao exame de habilitação deverão ter a seguinte duração mínima:
+Art. 54.º - 1. Os estágios para admissão ao exame de habilitação deverão ter a seguinte duração mínima:
 
 a) Seis meses em cartório ou secretaria notarial;
 
@@ -548,7 +596,7 @@ c) Documento comprovativo de ter o 3.º ciclo do ensino liceal ou habilitação 
 
 ### CAPÍTULO IV — Do pessoal auxiliar
 
-###### Art. 55.º O pessoal auxiliar das conservatórias, secretarias, cartórios notariais e delegações é constituído pelas seguintes categorias de funcionários:
+Art. 55.º O pessoal auxiliar das conservatórias, secretarias, cartórios notariais e delegações é constituído pelas seguintes categorias de funcionários:
 
 a) Primeiros, segundos e terceiros-ajudantes;
 
@@ -556,31 +604,31 @@ b) Aspirantes;
 
 c) Dactilógrafos.
 
-###### Art. 56.º - 1. As conservatórias, secretarias, cartórios notariais e delegações terão os quadros de pessoal auxiliar que, nos termos da alínea c) do artigo 89.º, for fixado pelos respectivos governadores.
+Art. 56.º - 1. As conservatórias, secretarias, cartórios notariais e delegações terão os quadros de pessoal auxiliar que, nos termos da alínea c) do artigo 89.º, for fixado pelos respectivos governadores.
 
 2. Em todas as conservatórias, secretarias e cartórios de 1.ª e 2.ª classes haverá, pelo menos, um ajudante.
 
 3. Os primeiros-ajudantes só poderão pertencer aos quadros das conservatórias, secretarias e cartórios notariais de 1.ª classe.
 
-###### Art. 57.º Além do pessoal do respectivo quadro, nenhum indivíduo poderá ser admitido a prestar serviço nas repartições indicadas nos artigos anteriores, excepto:
+Art. 57.º Além do pessoal do respectivo quadro, nenhum indivíduo poderá ser admitido a prestar serviço nas repartições indicadas nos artigos anteriores, excepto:
 
 a) Os assalariados a título eventual cuja admissão for autorizada pelos governadores das províncias;
 
 b) Os indivíduos de reconhecida idoneidade que o conservador, notário ou oficial, sob sua responsabilidade, autorizar a frequentarem a repartição como praticantes, para se habilitarem a concorrer aos lugares dos quadros do pessoal auxiliar dos registos e do notariado.
 
-###### Art. 58.º Os funcionários dos quadros do pessoal auxiliar dos registos e do notariado gozam de todos os direitos e regalias e estão sujeitos a todos os deveres e obrigações dos funcionários civis ultramarinos, a cujo estatuto ficam sujeitos.
+Art. 58.º Os funcionários dos quadros do pessoal auxiliar dos registos e do notariado gozam de todos os direitos e regalias e estão sujeitos a todos os deveres e obrigações dos funcionários civis ultramarinos, a cujo estatuto ficam sujeitos.
 
-###### Art. 59.º É aplicável ao pessoal auxiliar o disposto no artigo 26.º
+Art. 59.º É aplicável ao pessoal auxiliar o disposto no artigo 26.º
 
-###### Art. 60.º O pessoal auxiliar de cada conservatória, cartório, secretaria notarial e delegação é hieràrquicamente subordinado aos respectivos conservadores, notários e oficiais, e o de todos os serviços ao procurador da República.
+Art. 60.º O pessoal auxiliar de cada conservatória, cartório, secretaria notarial e delegação é hieràrquicamente subordinado aos respectivos conservadores, notários e oficiais, e o de todos os serviços ao procurador da República.
 
-###### Art. 61.º Os funcionários auxiliares respondem pessoalmente pelos actos que ilìcitamente praticarem ou omitirem no exercício das suas funções, mas os conservadores, notários e oficiais respondem com eles pela falta de vigilância ou de direcção que lhes for imputável como causa dessas acções ou omissões.
+Art. 61.º Os funcionários auxiliares respondem pessoalmente pelos actos que ilìcitamente praticarem ou omitirem no exercício das suas funções, mas os conservadores, notários e oficiais respondem com eles pela falta de vigilância ou de direcção que lhes for imputável como causa dessas acções ou omissões.
 
-###### Art. 62.º Os funcionários auxiliares das conservatórias, secretarias, cartórios notariais e delegações não poderão exercer as profissões de advogado ou solicitador, comerciante ou industrial.
+Art. 62.º Os funcionários auxiliares das conservatórias, secretarias, cartórios notariais e delegações não poderão exercer as profissões de advogado ou solicitador, comerciante ou industrial.
 
-###### Art. 63.º Cumpre ao pessoal auxiliar a execução dos serviços que lhe forem distribuídos pelo respectivo conservador, notário ou oficial, nos limites da sua competência.
+Art. 63.º Cumpre ao pessoal auxiliar a execução dos serviços que lhe forem distribuídos pelo respectivo conservador, notário ou oficial, nos limites da sua competência.
 
-###### Art. 64.º - 1. Os ajudantes poderão, sem prejuízo do disposto no artigo 34.º, desempenhar todas as atribuições dos conservadores, notários e oficiais, exceptuadas as seguintes:
+Art. 64.º - 1. Os ajudantes poderão, sem prejuízo do disposto no artigo 34.º, desempenhar todas as atribuições dos conservadores, notários e oficiais, exceptuadas as seguintes:
 
 a) A assinatura das descrições, matrículas, inscrições e respectivos averbamentos no registo predial, comercial e de automóvel;
 
@@ -592,27 +640,27 @@ d) Quaisquer outras funções excluídas por lei da competência dos ajudantes.
 
 2. Todos os actos assinados pelos conservadores, notários ou oficiais serão da sua inteira responsabilidade, ainda que lavrados pelos ajudantes ou outros auxiliares. Não se exclui, porém, a responsabilidade destes em caso de dolo ou má fé.
 
-###### Art. 65.º Ao restante pessoal auxiliar cabe, de um modo geral, a execução dos serviços auxiliares da repartição, podendo escrever, mas não assinar, todos os registos, notas, autos, certidões, públicas-formas e quaisquer outros termos e documentos.
+Art. 65.º Ao restante pessoal auxiliar cabe, de um modo geral, a execução dos serviços auxiliares da repartição, podendo escrever, mas não assinar, todos os registos, notas, autos, certidões, públicas-formas e quaisquer outros termos e documentos.
 
-###### Art. 66.º - 1. Os lugares de aspirantes e de terceiros-ajudantes serão providos por concurso de provas práticas.
+Art. 66.º - 1. Os lugares de aspirantes e de terceiros-ajudantes serão providos por concurso de provas práticas.
 
 2. Os lugares de primeiros e de segundos-ajudantes serão providos por concurso documental de entre os ajudantes de categoria imediatamente inferior com boas informações de serviço, preferindo-se em primeiro lugar os que pertençam ao quadro em que se verificar a vaga e em segundo lugar os que estejam colocados em conservatória, secretaria ou cartório de classe superior. Poderão concorrer aos lugares de segundos-ajudantes os primeiros-ajudantes, entendendo-se, porém, que, se forem providos, renunciam à sua classe anterior, sem prejuízo dos direitos que nela tiverem adquirido para efeito de concurso a outros lugares.
 
-###### Art. 67.º - 1. Aos concursos para terceiros-ajudantes serão admitidos os aspirantes que satisfaçam às condições gerais exigidas por lei para a nomeação ou promoção para lugares de terceiro-oficial e tenham, pelo menos, três anos de bom e efectivo serviço. Na falta destes, serão admitidos quaisquer indivíduos com o 2.º ciclo liceal, ou habilitação equivalente, desde que satisfaçam às condições gerais de provimento dos cargos públicos.
+Art. 67.º - 1. Aos concursos para terceiros-ajudantes serão admitidos os aspirantes que satisfaçam às condições gerais exigidas por lei para a nomeação ou promoção para lugares de terceiro-oficial e tenham, pelo menos, três anos de bom e efectivo serviço. Na falta destes, serão admitidos quaisquer indivíduos com o 2.º ciclo liceal, ou habilitação equivalente, desde que satisfaçam às condições gerais de provimento dos cargos públicos.
 
 2. Nas Conservatórias de Registo de Propriedade Automóvel de Luanda e Lourenço Marques os actuais terceiros-oficiais transitarão para a categoria de segundos-ajudantes das mesmas Conservatórias.
 
-###### Art. 68.º As vagas que ocorrerem, de aspirantes e terceiros-ajudantes, nos dois anos que se seguirem à abertura dos concursos de provas práticas poderão ser preenchidas, até à abertura de novo concurso, pelos concorrentes classificados, preferindo-se os que ocuparem melhor lugar na classificação.
+Art. 68.º As vagas que ocorrerem, de aspirantes e terceiros-ajudantes, nos dois anos que se seguirem à abertura dos concursos de provas práticas poderão ser preenchidas, até à abertura de novo concurso, pelos concorrentes classificados, preferindo-se os que ocuparem melhor lugar na classificação.
 
-###### Art. 69.º Os licenciados em Direito e os oficiais privativos dos registos poderão ser nomeados primeiros, segundos ou terceiros-ajudantes em conservatórias, secretarias ou cartórios independentemente ente de concurso.
+Art. 69.º Os licenciados em Direito e os oficiais privativos dos registos poderão ser nomeados primeiros, segundos ou terceiros-ajudantes em conservatórias, secretarias ou cartórios independentemente ente de concurso.
 
-###### Art. 70.º O provimento interino por urgente conveniência de serviço dos lugares do pessoal auxiliar dos conservadores e notários será feito pelo procurador da República ou pelos governadores nas províncias de governo simples, nos mesmos termos em que é feito idêntico provimento dos oficiais de justiça.
+Art. 70.º O provimento interino por urgente conveniência de serviço dos lugares do pessoal auxiliar dos conservadores e notários será feito pelo procurador da República ou pelos governadores nas províncias de governo simples, nos mesmos termos em que é feito idêntico provimento dos oficiais de justiça.
 
-###### Art. 71.º - 1. Os primeiros, segundos e terceiros-ajudantes terão os vencimentos correspondentes, respectivamente, às letras L, N e Q.
+Art. 71.º - 1. Os primeiros, segundos e terceiros-ajudantes terão os vencimentos correspondentes, respectivamente, às letras L, N e Q.
 
 2. Os aspirantes e dactilógrafos terão vencimentos iguais aos dos aspirantes e dactilógrafos de todos os serviços.
 
-###### Art. 72.º - 1. Os vencimentos do pessoal auxiliar das secretarias e cartórios notariais serão deduzidos, pelo notário ou director da secretaria, da receita emolumentar apurada em cada mês, depois de subtraídas as importâncias a que se refere o n.º 2 do artigo 82.º
+Art. 72.º - 1. Os vencimentos do pessoal auxiliar das secretarias e cartórios notariais serão deduzidos, pelo notário ou director da secretaria, da receita emolumentar apurada em cada mês, depois de subtraídas as importâncias a que se refere o n.º 2 do artigo 82.º
 
 2. Se a receita emolumentar for, em qualquer mês, insuficiente para integral pagamento dos vencimentos do pessoal auxiliar, será a diferença suportada pela província.
 
@@ -620,15 +668,15 @@ d) Quaisquer outras funções excluídas por lei da competência dos ajudantes.
 
 ### CAPÍTULO V — Dos preparos e dos emolumentos e mais receitas
 
-###### Art. 73.º Pelos actos praticados pelos conservadores, notários e oficiais e seus ajudantes, no exercício das respectivas funções, serão cobrados os emolumentos constantes das respectivas tabelas, aprovadas nos termos da alínea c) do artigo 89.º, pelos governos das províncias.
+Art. 73.º Pelos actos praticados pelos conservadores, notários e oficiais e seus ajudantes, no exercício das respectivas funções, serão cobrados os emolumentos constantes das respectivas tabelas, aprovadas nos termos da alínea c) do artigo 89.º, pelos governos das províncias.
 
-###### Art. 74.º - 1. Os conservadores, notários, oficiais e pessoal auxiliar prestarão gratuitamente às partes os esclarecimentos, que não envolvam prejuízo para terceiros, sobre a documentação necessária para a realização dos actos em que sejam interessados, o montante provável dos emolumentos ou outros encargos legais e todas as outras informações destinadas a facilitar ao público a utilização dos respectivos serviços.
+Art. 74.º - 1. Os conservadores, notários, oficiais e pessoal auxiliar prestarão gratuitamente às partes os esclarecimentos, que não envolvam prejuízo para terceiros, sobre a documentação necessária para a realização dos actos em que sejam interessados, o montante provável dos emolumentos ou outros encargos legais e todas as outras informações destinadas a facilitar ao público a utilização dos respectivos serviços.
 
 2. Os requerimentos legalmente indispensáveis para a realização de qualquer acto de registo e, bem assim, os directamente relacionados com actos de registo ou notariais que devam ser apresentados em outras repartições podem, a pedido dos interessados e sem prejuízo dos demais serviços, ser redigidos nas conservatórias, cartórios, secretarias notariais e delegações pelos respectivos funcionários, mediante o pagamento de uma taxa do valor máximo de 40$00, a qual não excederá 20$00 quando o requerimento se destinar a obter simples certidões. Estas taxas não serão cobradas se os interessados estiverem isentos do pagamento de emolumentos.
 
 3. As taxas referidas no número anterior constarão obrigatòriamente da conta mencionada no artigo 78.º e reverterão, como emolumento de natureza pessoal, sujeito aos descontos legais, em proveito de todos os funcionários auxiliares da repartição, em proporção dos respectivos vencimentos de categoria.
 
-###### Art. 75.º - 1. Os conservadores, notários e oficiais não poderão exigir de preparo mais do que a importância dos emolumentos e selos cujo montante possa precisar-se no momento da requisição do serviço.
+Art. 75.º - 1. Os conservadores, notários e oficiais não poderão exigir de preparo mais do que a importância dos emolumentos e selos cujo montante possa precisar-se no momento da requisição do serviço.
 
 2. Da importância entregue a título de preparo será sempre passado recibo, ainda que a parte o não reclame.
 
@@ -638,7 +686,7 @@ d) Quaisquer outras funções excluídas por lei da competência dos ajudantes.
 
 5. A falta de preparo não constitui fundamento para a recusa de qualquer acto de registo civil nem dos actos notariais ou de registo predial, comercial ou de automóveis, pelos quais sejam devidos emolumentos, quando requisitados por autoridades ou serviços públicos.
 
-###### Art. 76.º - 1. É proibido aos conservadores, notários, oficiais e seus auxiliares, sob pena de incorrerem nas sanções da lei:
+Art. 76.º - 1. É proibido aos conservadores, notários, oficiais e seus auxiliares, sob pena de incorrerem nas sanções da lei:
 
 a) Reclamar ou aceitar das partes emolumentos superiores ou inferiores aos fixados nas respectivas tabelas ou praticar gratuitamente qualquer acto por que seja devido emolumento;
 
@@ -650,27 +698,27 @@ d) Fazer, por qualquer forma, propaganda pessoal ou angariação de serviços.
 
 2. Aos notários, a quem é permitido o exercício de advocacia, é proibido agências procuradorias referente aos actos a praticar em quaisquer serviços relacionados com actos que hajam praticado no exercício das suas funções notariais.
 
-###### Art. 77.º - 1. Todos os emolumentos e taxas recebidos pelos conservadores, notários e oficiais serão obrigatòriamente registados no livro próprio.
+Art. 77.º - 1. Todos os emolumentos e taxas recebidos pelos conservadores, notários e oficiais serão obrigatòriamente registados no livro próprio.
 
 2. Poderá ser autorizada pelas procuradorias da República uma forma resumida de registo dos emolumentos dos reconhecimentos e outros actos de pequeno valor.
 
 3. No caso de omissão do registo de qualquer emolumento, salvo justificação reconhecida como satisfatória, será o funcionários responsável obrigado a depositar a favor da Fazenda Nacional, pela primeira vez, a totalidade do emolumento omitido e, pela segunda e ulteriores vezes, uma multa fixada pelo procurador da República ou inspector que verificar a omissão, entre o dobro e o quíntuplo da importância não registada, sem prejuízo do procedimento disciplinar a que houver lugar.
 
-###### Art. 78.º - 1. Em relação a cada acto efectuado ou documento expedido o conservador, notário, oficial ou ajudante organizará a respectiva conta de emolumentos e demais encargos legais, com a especificação de todas as verbas que a compõem e a declaração, por extenso, da importância total a cobrar. A conta, numerada, datada e rubricada, será lançada no termo do acto ou no documento entregue à parte, de harmonia com a lei.
+Art. 78.º - 1. Em relação a cada acto efectuado ou documento expedido o conservador, notário, oficial ou ajudante organizará a respectiva conta de emolumentos e demais encargos legais, com a especificação de todas as verbas que a compõem e a declaração, por extenso, da importância total a cobrar. A conta, numerada, datada e rubricada, será lançada no termo do acto ou no documento entregue à parte, de harmonia com a lei.
 
 2. A conta lançada em documento entregue ao interessado vale como recibo.
 
 3. Sempre que haja lugar à cobrança de qualquer importância não especificada na conta por despesas, diligências ou pagamento de serviços inerentes ao acto será obrigatòriamente passado recibo, mesmo que a parte o não reclame, no qual se fará, além do lançamento da importância total da conta, organizada nos termos deste artigo, a discriminação pormenorizada das verbas a ela estranhas, com a indicação das despesas, diligências e serviços a que correspondem. O recibo é isento de selo e dele ficará sempre arquivado o duplicado.
 
-###### Art. 79.º - 1. Contra qualquer erro de conta podem os interessados reclamar verbalmente perante o conservador, notário ou oficial antes de efectuar o seu pagamento ou dentro dos oito dias imediatos à realização deste.
+Art. 79.º - 1. Contra qualquer erro de conta podem os interessados reclamar verbalmente perante o conservador, notário ou oficial antes de efectuar o seu pagamento ou dentro dos oito dias imediatos à realização deste.
 
 2. No prazo de oito dias, a contar da data da nota a que se refere o número anterior, poderá o interessado reclamar para o procurador da República ou, se a conta tiver sido feita numa delegação, para o conservador, a fim de se ordenar a sua rectificação. Da decisão do conservador cabe ainda reclamação para o procurador.
 
 3. À apresentação da reclamação e termos ulteriores é aplicável, com as necessárias adaptações, o disposto nos n.os 2 e 3 do artigo 83.º e nos artigos 84.º e 85.º
 
-###### Art. 80.º Sempre que em inspecção, inquérito ou por outra forma se averiguar que algum conservador, notário ou oficial cobrou mais do que o devido ser-lhe-á determinada a restituição do excesso, independentemente das sanções disciplinares a que houver lugar.
+Art. 80.º Sempre que em inspecção, inquérito ou por outra forma se averiguar que algum conservador, notário ou oficial cobrou mais do que o devido ser-lhe-á determinada a restituição do excesso, independentemente das sanções disciplinares a que houver lugar.
 
-###### Art. 81.º - 1. As contas que não forem voluntàriamente pagas são exigíveis pela forma prescrita para a execução por custas judiciais.
+Art. 81.º - 1. As contas que não forem voluntàriamente pagas são exigíveis pela forma prescrita para a execução por custas judiciais.
 
 2. Para a execução é competente o tribunal da circunscrição respectiva.
 
@@ -690,7 +738,7 @@ b) Os requerentes ou declarações, nos actos de registo.
 
 8. Antes de iniciada a execução o responsável será notificado, por carta registada com aviso de recepção, para efectuar o pagamento no prazo de oito dias, devendo a cópia da carta e aviso acompanhar o certificado a que se refere o n.º 3.
 
-###### Art. 82.º - 1. Os conservadores e notários farão mensalmente o apuramento dos emolumentos arrecadados, encerrando no último dia do mês a respectiva conta no livro do registo de emolumentos.
+Art. 82.º - 1. Os conservadores e notários farão mensalmente o apuramento dos emolumentos arrecadados, encerrando no último dia do mês a respectiva conta no livro do registo de emolumentos.
 
 2. Ao total da conta serão subtraídas e escrituradas separadamente, conforme o destino legal, as verbas respeitantes a emolumentos que devam reverter integralmente para os funcionários ou para outras entidades, ou que por qualquer outro título não estejam sujeitas à dedução e partilha referidas nos artigos 39.º e 72.º
 
@@ -698,19 +746,19 @@ b) Os requerentes ou declarações, nos actos de registo.
 
 ### CAPÍTULO VI — Das recusas dos conservadores, notários e oficiais
 
-###### Art. 83.º - 1. Quando o conservador ou notário se recusar a efectuar algum registo nos termos requeridos ou a praticar qualquer acto da sua competência, antes de interporem o recurso que couber para o tribunal da comarca podem os interessados reclamar, por escrito, para o procurador da República, a fim de que este determine a realização do registo ou acto recusado pelo respectivo funcionário.
+Art. 83.º - 1. Quando o conservador ou notário se recusar a efectuar algum registo nos termos requeridos ou a praticar qualquer acto da sua competência, antes de interporem o recurso que couber para o tribunal da comarca podem os interessados reclamar, por escrito, para o procurador da República, a fim de que este determine a realização do registo ou acto recusado pelo respectivo funcionário.
 
 2. A reclamação, dirigida ao procurador, será apresentada ao conservador ou notário recusante com os documentos que o interessado pretenda oferecer.
 
 3. Se não reparar a recusa, dentro do prazo de 48 horas, deverá o funcionário enviar à procuradoria da República a reclamação e os respectivos documentos acompanhados da informação, na qual especificará os motivos da recusa.
 
-###### Art. 84.º - 1. Recebido o processo de reclamação, deverá o procurador decidir dentro de oito dias.
+Art. 84.º - 1. Recebido o processo de reclamação, deverá o procurador decidir dentro de oito dias.
 
 2. A decisão proferida será notificada, por carta registada com aviso de recepção, ao reclamante e comunicada, por ofício, ao respectivo funcionário, que, se a reclamação for atendida, será obrigado a praticar o acto recusado.
 
 3. Do despacho do procurador não haverá recurso algum; mas quando desfavorável ao reclamante, poderá este interpor recurso contencioso, para o tribunal da comarca, do despacho inicial, de recusa, do conservador ou notário, nos termos das disposições legais aplicáveis. Neste caso, o prazo para a interposição do recurso contar-se-á da data da notificação prevista no número anterior.
 
-###### Art. 85.º - 1. Das recusas dos oficiais só há reclamação para os respectivos conservadores e da decisão destes cabe reclamação hierárquica e recurso contencioso.
+Art. 85.º - 1. Das recusas dos oficiais só há reclamação para os respectivos conservadores e da decisão destes cabe reclamação hierárquica e recurso contencioso.
 
 2. A estas reclamações e recursos são aplicáveis, com as necessárias adaptações, as disposições dos artigos anteriores.
 
@@ -718,7 +766,7 @@ b) Os requerentes ou declarações, nos actos de registo.
 
 Da competência do Ministro do Ultramar, Conselho Superior Judiciário do Ultramar, Direcção-Geral de Justiça, governadores das províncias e procuradores da República em assuntos de registo e notariado.
 
-###### Art. 86.º Compete ao Ministro do Ultramar, por intermédio da Direcção-Geral de Justiça:
+Art. 86.º Compete ao Ministro do Ultramar, por intermédio da Direcção-Geral de Justiça:
 
 a) Orientar superiormente os serviços de registo e do notariado;
 
@@ -734,7 +782,7 @@ b) Estatuir, por meio de portaria, sobre a organização dos serviços de regist
 
 c) Nomear, promover, transferir, mandar aposentar, exonerar, os conservadores e notários e conceder-lhes licenças registadas e ilimitadas.
 
-###### Art. 87.º Compete ao Conselho Superior Judiciário do Ultramar:
+Art. 87.º Compete ao Conselho Superior Judiciário do Ultramar:
 
 a) Exercer jurisdição disciplinar sobre conservadores e notários, nos termos deste diploma;
 
@@ -752,7 +800,7 @@ g) Esclarecer as dúvidas que lhe forem propostas pelos procuradores da Repúbli
 
 h) Apresentar ao Ministro do Ultramar as sugestões, estudos e projectos de reforma destinados ao aperfeiçoamento dos serviços de registo e do notariado.
 
-###### Art. 88.º - 1. À Direcção-Geral de Justiça compete:
+Art. 88.º - 1. À Direcção-Geral de Justiça compete:
 
 a) Dar execução às decisões do Ministro do Ultramar sobre os serviços do registo e notariado;
 
@@ -778,7 +826,7 @@ l) Promover o aperfeiçoamento da preparação técnica dos conservadores e not�
 
 m) Passar as certidões superiormente autorizadas de petições, requerimentos e outros documentos juntos aos respectivos processos; n) Dar expediente a quaisquer assuntos não especificados que, por disposição legal ou determinação superior, sejam atribuídos à sua competência.
 
-###### Art. 89.º Compete aos governadores das províncias:
+Art. 89.º Compete aos governadores das províncias:
 
 a) Proceder, por diploma legislativo, e sobre proposta do procurador da República nas províncias de governo-geral e dos conservadores respectivos nas restantes, à criação, anexação e extinção das delegações e postos e a delimitação da respectiva competência territorial, quando não sejam dirigidas por oficiais privativos;
 
@@ -788,7 +836,7 @@ c) Aprovar, por portaria, ouvido o conselho do Governo ou a secção permanente,
 
 d) Nomear, promover, transferir, mandar aposentar e exonerar os oficiais dos registos e o pessoal auxiliar das conservatórias, cartórios, secretarias notariais e delegações e conceder-lhes as licenças previstas na lei.
 
-###### Art. 90.º - 1. Aos procuradores da República compete superintender nos serviços de registo e notariado dos respectivos distritos judiciais e exercer sobre os respectivos funcionários as atribuições que competem aos directores de serviço, ressalvado o disposto no n.º 2 do artigo 14.º
+Art. 90.º - 1. Aos procuradores da República compete superintender nos serviços de registo e notariado dos respectivos distritos judiciais e exercer sobre os respectivos funcionários as atribuições que competem aos directores de serviço, ressalvado o disposto no n.º 2 do artigo 14.º
 
 2. Compete-lhes ainda resolver as dúvidas que lhes forem propostas pelos conservadores e notários ou governadores das províncias sobre assuntos dos serviços ou apresentá-las, para resolução, ao Conselho Superior Judiciário do Ultramar, por intermédio da Direcção-Geral de Justiça ou directamente a esta.
 
@@ -796,17 +844,17 @@ d) Nomear, promover, transferir, mandar aposentar e exonerar os oficiais dos reg
 
 ### CAPÍTULO VIII — Da fiscalização dos serviços
 
-###### Art. 91.º Enquanto não se mostrar conveniente a criação de lugares de inspector superior dos registos e notariado, a inspecção ou serviços dos registos e notariado cabe à Inspecção Superior dos Serviços de Justiça.
+Art. 91.º Enquanto não se mostrar conveniente a criação de lugares de inspector superior dos registos e notariado, a inspecção ou serviços dos registos e notariado cabe à Inspecção Superior dos Serviços de Justiça.
 
-###### Art. 92.º - 1. As inspecções, inquéritos e sindicâncias serão realizadas ordinàriamente pelos inspectores superiores.
+Art. 92.º - 1. As inspecções, inquéritos e sindicâncias serão realizadas ordinàriamente pelos inspectores superiores.
 
 2. Por conveniência de serviço ou por razões de economia o Ministro do Ultramar poderá encarregar de proceder às inspecções, inquéritos e sindicâncias quaisquer magistrados ou funcionários dos registos e do notariado de categoria não inferior à dos funcionários visados.
 
-###### Art. 93.º Sempre que haja notícia de qualquer falta, abuso ou fraude cometida nos serviços de registo e notariado cuja averiguação seja urgente, os governadores da província ou os procuradores da República pedirão à Direcção-Geral de Justiça a nomeação de um magistrado do Ministério Público ou de um funcionário da procuradoria da República de categoria não inferior à do funcionário visado para a efectivação dos inquéritos ou sindicâncias que se mostrarem convenientes.
+Art. 93.º Sempre que haja notícia de qualquer falta, abuso ou fraude cometida nos serviços de registo e notariado cuja averiguação seja urgente, os governadores da província ou os procuradores da República pedirão à Direcção-Geral de Justiça a nomeação de um magistrado do Ministério Público ou de um funcionário da procuradoria da República de categoria não inferior à do funcionário visado para a efectivação dos inquéritos ou sindicâncias que se mostrarem convenientes.
 
-###### Art. 94.º O Ministro do Ultramar poderá designar qualquer funcionário idóneo, de preferência magistrado, para a realização de inspecções especiais com a finalidade principal de orientar os serviços, aperfeiçoar a sua organização e suprir as deficiências que se verificarem.
+Art. 94.º O Ministro do Ultramar poderá designar qualquer funcionário idóneo, de preferência magistrado, para a realização de inspecções especiais com a finalidade principal de orientar os serviços, aperfeiçoar a sua organização e suprir as deficiências que se verificarem.
 
-###### Art. 95.º - 1. Conforme os seus méritos ou deméritos, os funcionários inspeccionados serão classificados com as notas de Muito bom, Bom, Regular, Medíocre e Mau.
+Art. 95.º - 1. Conforme os seus méritos ou deméritos, os funcionários inspeccionados serão classificados com as notas de Muito bom, Bom, Regular, Medíocre e Mau.
 
 2. A nota de Muito bom não poderá ser atribuída a funcionários com menos de cinco anos de serviço nem que há menos de três anos tenham sido classificados com nota inferior à de Bom.
 
@@ -816,55 +864,55 @@ d) Nomear, promover, transferir, mandar aposentar e exonerar os oficiais dos reg
 
 ### CAPÍTULO IX — Disposições diversas
 
-###### Art. 96.º - 1. Os presidentes das relações prestarão informações anuais sobre os serviços dos conservadores nas suas funções de substitutos dos juízes de direito, e os juízes de direito sobre o serviço dos conservadores nas suas funções de juízes municipais.
+Art. 96.º - 1. Os presidentes das relações prestarão informações anuais sobre os serviços dos conservadores nas suas funções de substitutos dos juízes de direito, e os juízes de direito sobre o serviço dos conservadores nas suas funções de juízes municipais.
 
 2. Os procuradores da República, ao prestarem as informações anuais dos notários, classificarão especificadamente o seu serviço como substitutos dos delegados do procurador da República.
 
 3. Nas informações sobre o exercício das funções referidas nos números anteriores declarar-se-á sempre se o conservador ou notário foi zeloso no cumprimento dos prazos processuais.
 
-###### Art. 97.º Aos conservadores e notários compete dar informações anuais sobre o serviço, de registo ou do notariado, dos oficiais da área das respectivas conservatórias e cartórios.
+Art. 97.º Aos conservadores e notários compete dar informações anuais sobre o serviço, de registo ou do notariado, dos oficiais da área das respectivas conservatórias e cartórios.
 
-###### Art. 98.º - 1. Os conservadores, notários e oficiais cujo serviço seja classificado, nas informações anuais, de Mau serão desde logo suspensos e sujeitos a procedimento disciplinar por incompetência para o exercício do cargo.
+Art. 98.º - 1. Os conservadores, notários e oficiais cujo serviço seja classificado, nas informações anuais, de Mau serão desde logo suspensos e sujeitos a procedimento disciplinar por incompetência para o exercício do cargo.
 
 2. O mesmo procedimento será adoptado em relação àqueles que por duas vezes, seguidas ou interpoladas, obtiverem a classificação de Medíocre.
 
-###### Art. 99.º - 1. É obrigatória a existência do selo branco em todas as conservatórias, secretarias ou cartórios notariais e delegações.
+Art. 99.º - 1. É obrigatória a existência do selo branco em todas as conservatórias, secretarias ou cartórios notariais e delegações.
 
 2. O selo será em relevo, de forma circular, e conterá o escudo nacional, a indicação da província e a designação da respectiva repartição.
 
 3. A aposição do selo branco junto da assinatura do conservador, notário, oficial ou ajudante em qualquer documento emanado da respectiva repartição terá o mesmo valor que o reconhecimento notarial.
 
-###### Art. 100.º - 1. Nenhum conservador, notário, oficial ou ajudante pode realizar actos das respectivas funções em que seja parte ou, por seu efeito, adquirente de qualquer direito, tanto ele como o seu cônjuge ou parente, por consanguinidade ou afinidade, em qualquer grau de linha recta ou em segundo grau da linha colateral.
+Art. 100.º - 1. Nenhum conservador, notário, oficial ou ajudante pode realizar actos das respectivas funções em que seja parte ou, por seu efeito, adquirente de qualquer direito, tanto ele como o seu cônjuge ou parente, por consanguinidade ou afinidade, em qualquer grau de linha recta ou em segundo grau da linha colateral.
 
 2. A proibição estende-se ainda aos actos cujas partes ou beneficiários tenham como procurador ou representante legal qualquer das pessoas referidas neste artigo e compreende a passagem de certidões ou de certificados dos actos a que ela se refere.
 
-###### Art. 101.º Os livros e impressos em uso nas conservatórias, secretarias ou cartórios notariais e delegações que obedeçam a modelo imposto por lei só podem ser executados na Imprensa Nacional da respectiva província.
+Art. 101.º Os livros e impressos em uso nas conservatórias, secretarias ou cartórios notariais e delegações que obedeçam a modelo imposto por lei só podem ser executados na Imprensa Nacional da respectiva província.
 
-###### Art. 102.º A Direcção-Geral de Justiça do Ministério do Ultramar promoverá a uniformização dos modelos de impressos usados nos serviços de registo e do notariado.
+Art. 102.º A Direcção-Geral de Justiça do Ministério do Ultramar promoverá a uniformização dos modelos de impressos usados nos serviços de registo e do notariado.
 
-###### Art. 103.º Continua sendo aplicável aos conservadores o disposto no [Decreto n.º 38502](https://diariodarepublica.pt/dr/detalhe/decreto/38502-1951-591093), de 10 de Novembro de 1951.
+Art. 103.º Continua sendo aplicável aos conservadores o disposto no [Decreto n.º 38502](https://diariodarepublica.pt/dr/detalhe/decreto/38502-1951-591093), de 10 de Novembro de 1951.
 
-###### Art. 104.º As remunerações que, nos termos deste diploma, constituem encargo dos orçamentos das províncias ultramarinas serão satisfeitas pela verba de «duplicação de vencimentos» do capítulo 6.º da tabela de despesa ordinária dos mesmos orçamentos.
+Art. 104.º As remunerações que, nos termos deste diploma, constituem encargo dos orçamentos das províncias ultramarinas serão satisfeitas pela verba de «duplicação de vencimentos» do capítulo 6.º da tabela de despesa ordinária dos mesmos orçamentos.
 
-###### Art. 105.º Nas procuradorias da República o expediente dos assuntos relativos aos serviços dos registos e do notariado pertencerá à repartição do arquivo do registo criminal e policial, que passará a denominar-se repartição dos registos e do notariado.
+Art. 105.º Nas procuradorias da República o expediente dos assuntos relativos aos serviços dos registos e do notariado pertencerá à repartição do arquivo do registo criminal e policial, que passará a denominar-se repartição dos registos e do notariado.
 
 ### CAPÍTULO X — Disposições transitórias
 
-###### Art. 106.º - 1. Os actuais notários podem requerer, no prazo de 180 dias, a partir do início da vigência deste diploma, que lhes seja garantido o direito à aposentação.
+Art. 106.º - 1. Os actuais notários podem requerer, no prazo de 180 dias, a partir do início da vigência deste diploma, que lhes seja garantido o direito à aposentação.
 
 2. Será levado em conta o tempo prestado anteriormente à entrada em vigor deste diploma, desde que os notários entreguem, nos termos do § único do artigo 438.º do Estatuto do Funcionalismo Ultramarino, a importância para a compensação que for devida em relação ao tempo da prestação de tal serviço, tomando-se em consideração, para esse efeito, o vencimento, base e complementar, correspondente às letras E ou F, consoante se tratar de notários que, em virtude deste diploma, ingressem na 1.ª ou 2.ª classe. A importância será rateada pelas províncias onde o funcionário tiver prestado serviço, na proporção do tempo em que nelas tiver exercido a sua função.
 
 3. Aos actuais conservadores que tenham sido notários do ultramar será levado em conta o tempo prestado nestas últimas funções, observando-se o disposto no número anterior.
 
-###### Art. 107.º Os actuais notários estão sujeitos ao limite de idade imposto aos funcionários públicos ultramarinos, mas os que à data da publicação deste diploma já tenham atingido 60 anos de idade e não usem da faculdade que lhes é concedida pelo artigo anterior, só serão desligados do serviço quando forem julgados absolutamente incapazes, por junta de saúde a que forem mandados apresentar pelos governadores das províncias, sob proposta dos procuradores da República ou pela Direcção-Geral de Justiça do Ministério do Ultramar.
+Art. 107.º Os actuais notários estão sujeitos ao limite de idade imposto aos funcionários públicos ultramarinos, mas os que à data da publicação deste diploma já tenham atingido 60 anos de idade e não usem da faculdade que lhes é concedida pelo artigo anterior, só serão desligados do serviço quando forem julgados absolutamente incapazes, por junta de saúde a que forem mandados apresentar pelos governadores das províncias, sob proposta dos procuradores da República ou pela Direcção-Geral de Justiça do Ministério do Ultramar.
 
-###### Art. 108.º Os conservadores do registo predial e da propriedade automóvel de 1.ª classe nomeados até à publicação do presente diploma continuarão a ser remunerados pela forma estabelecida pela legislação em vigor, enquanto se mantiverem nos seus actuais lugares.
+Art. 108.º Os conservadores do registo predial e da propriedade automóvel de 1.ª classe nomeados até à publicação do presente diploma continuarão a ser remunerados pela forma estabelecida pela legislação em vigor, enquanto se mantiverem nos seus actuais lugares.
 
-###### Art. 109.º Aos notários de 1.ª classe nomeados até à publicação deste diploma não é aplicável a incompatibilidade prescrita pela alínea c) do n.º 1 do artigo 19.º enquanto se mantiverem nos seus actuais lugares, ficando sujeitos, porém, ao disposto nos n.os 4, 5 e 6 do mesmo artigo.
+Art. 109.º Aos notários de 1.ª classe nomeados até à publicação deste diploma não é aplicável a incompatibilidade prescrita pela alínea c) do n.º 1 do artigo 19.º enquanto se mantiverem nos seus actuais lugares, ficando sujeitos, porém, ao disposto nos n.os 4, 5 e 6 do mesmo artigo.
 
-###### Art. 110.º Ao actual pessoal auxiliar que presentemente não tenha direito à aposentação será contado o tempo de serviço prestado anteriormente à entrada em vigor deste diploma, desde que transite para os quadros a que se refere o artigo 56.º e entregue a importância para compensação de aposentação que for devida em relação ao tempo de prestação de serviço, considerando-se o vencimento que lhe for atribuído.
+Art. 110.º Ao actual pessoal auxiliar que presentemente não tenha direito à aposentação será contado o tempo de serviço prestado anteriormente à entrada em vigor deste diploma, desde que transite para os quadros a que se refere o artigo 56.º e entregue a importância para compensação de aposentação que for devida em relação ao tempo de prestação de serviço, considerando-se o vencimento que lhe for atribuído.
 
-###### Art. 111.º - 1. Considerar-se-ão conservadores e notários de 1.ª classe os actuais conservadores de 1.ª classe e os conservadores e notários que nas respectivas listas de antiguidade ocuparem os primeiros lugares, até ao número de lugares da mesma classe estabelecido em conformidade com o artigo 7.º Todos os restantes pertencerão à 2.ª classe.
+Art. 111.º - 1. Considerar-se-ão conservadores e notários de 1.ª classe os actuais conservadores de 1.ª classe e os conservadores e notários que nas respectivas listas de antiguidade ocuparem os primeiros lugares, até ao número de lugares da mesma classe estabelecido em conformidade com o artigo 7.º Todos os restantes pertencerão à 2.ª classe.
 
 2. Os actuais conservadores do registo predial cujos lugares, por este diploma, forem extintos transitarão, independentemente de qualquer formalidade ou visto, para os lugares de conservadores dos registos das localidades onde têm a sua sede.
 
@@ -874,9 +922,9 @@ d) Nomear, promover, transferir, mandar aposentar e exonerar os oficiais dos reg
 
 5. Os lugares vagos de conservador, não havendo conservadores da mesma classe que os requeiram, poderão ser requeridos por notários da classe do lugar vago, que por força deste artigo passarem a servir em lugares de classe inferior. A mesma faculdade terão os conservadores em relação aos lugares vagos de notários.
 
-###### Art. 112.º Os actuais conservadores do registo civil cujos lugares não forem extintos continuarão a exercer as suas funções e a ser abonados dos vencimentos que lhes são atribuídos pela legislação em vigor, enquanto os respectivos lugares não forem providos, nos termos deste diploma.
+Art. 112.º Os actuais conservadores do registo civil cujos lugares não forem extintos continuarão a exercer as suas funções e a ser abonados dos vencimentos que lhes são atribuídos pela legislação em vigor, enquanto os respectivos lugares não forem providos, nos termos deste diploma.
 
-###### Art. 113.º - 1. O actual pessoal auxiliar privativo dos serviços dos registos e do notariado transitará, por despacho dos governadores, independentemente de qualquer outra formalidade ou visto, para os novos quadros de harmonia com as suas funções e categorias.
+Art. 113.º - 1. O actual pessoal auxiliar privativo dos serviços dos registos e do notariado transitará, por despacho dos governadores, independentemente de qualquer outra formalidade ou visto, para os novos quadros de harmonia com as suas funções e categorias.
 
 2. Enquanto os novos quadros não forem aprovados pelos governadores observar-se-á o seguinte:
 
@@ -888,43 +936,43 @@ b) O actual pessoal auxiliar dos notários será desde já pago pela forma indic
 
 4. O actual pessoal dos cartórios notariais poderá, a seu requerimento, transitar para os lugares correspondentes aos que presentemente desempenha, independentemente de habilitações literárias ou Exame de Estado e limite de idade.
 
-###### Art. 114.º Enquanto os governadores de província não aprovarem as novas tabelas, continuarão a vigorar as actuais, ou, não as havendo, as que vigorarem para a metrópole.
+Art. 114.º Enquanto os governadores de província não aprovarem as novas tabelas, continuarão a vigorar as actuais, ou, não as havendo, as que vigorarem para a metrópole.
 
-###### Art. 115.º - 1. O primeiro lugar de notário que vagar na comarca de Macau considerar-se-á extinto.
+Art. 115.º - 1. O primeiro lugar de notário que vagar na comarca de Macau considerar-se-á extinto.
 
 2. É extinto o lugar de notário de S. Tomé, actualmente vago.
 
 3. É extinto o lugar mais moderno de notário da comarca de Bardez.
 
-###### Art. 116.º Enquanto não forem afixadas, pelos governadores, as taxas de reembolso, os conservadores, notários e oficiais poderão cobrar das partes as importâncias estritamente suficientes para cobrir as despesas com a aquisição de livros, impressos e mais expediente.
+Art. 116.º Enquanto não forem afixadas, pelos governadores, as taxas de reembolso, os conservadores, notários e oficiais poderão cobrar das partes as importâncias estritamente suficientes para cobrir as despesas com a aquisição de livros, impressos e mais expediente.
 
-###### Art. 117.º Os procuradores da República tomarão as medidas necessárias à transferência dos livros, títulos e papéis das actuais conservatórias, delegações e repartições dos registos para as conservatórias e delegações criadas por este diploma.
+Art. 117.º Os procuradores da República tomarão as medidas necessárias à transferência dos livros, títulos e papéis das actuais conservatórias, delegações e repartições dos registos para as conservatórias e delegações criadas por este diploma.
 
-###### Art. 118.º Os governadores das províncias, no prazo de 180 dias, a partir do início da vigência deste diploma, criarão as delegações e postos que julgarem necessários, determinarão as áreas das respectivas competências e aprovarão os quadros do pessoal auxiliar dos serviços de registo e do notariado.
+Art. 118.º Os governadores das províncias, no prazo de 180 dias, a partir do início da vigência deste diploma, criarão as delegações e postos que julgarem necessários, determinarão as áreas das respectivas competências e aprovarão os quadros do pessoal auxiliar dos serviços de registo e do notariado.
 
-###### Art. 119.º Os governos das províncias ultramarinas enviarão ao Ministério do Ultramar, no prazo de 120 dias, os projectos de adaptação, às respectivas províncias, do Código do Registo Civil em vigor na metrópole, aprovado pelo [Decreto-Lei n.º 41967](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41967-1958-339382), de 22 de Novembro de 1958, os quais, depois de apreciados pelo Conselho Superior Judiciário do Ultramar, serão convertidos em diploma legal.
+Art. 119.º Os governos das províncias ultramarinas enviarão ao Ministério do Ultramar, no prazo de 120 dias, os projectos de adaptação, às respectivas províncias, do Código do Registo Civil em vigor na metrópole, aprovado pelo [Decreto-Lei n.º 41967](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41967-1958-339382), de 22 de Novembro de 1958, os quais, depois de apreciados pelo Conselho Superior Judiciário do Ultramar, serão convertidos em diploma legal.
 
 ### CAPÍTULO XI — Disposições finais
 
-###### Art. 120.º Ficam revogados, expressamente, os artigos 1.º, 2.º, 3.º, 6.º, 9.º, 11.º, 13.º, 17.º, 18.º, 19.º, 21.º, 26.º (excepto o § 2.º), 28.º, 29.º, 33.º, 35.º, 38.º, 41.º, 42.º, 43.º, 44.º, 45.º, 46.º, 47.º, 48.º, 49.º, 50.º, 54.º, 198.º, 199.º e 224.º do Código do Registo Predial do Ultramar; 39.º a 45.º, 101.º a 112.º e 147.º da Organização Judiciária do Ultramar; 6.º do [Decreto n.º 14453](https://diariodarepublica.pt/dr/detalhe/decreto/14453-1927-678239), de 20 de Outubro de 1927; 89.º e 91.º do [Decreto n.º 35777](https://diariodarepublica.pt/dr/detalhe/decreto/35777-1946-156385), de 1 de Agosto de 1946; 38.º a 40.º do [Decreto n.º 24970](https://diariodarepublica.pt/dr/detalhe/decreto/24970-1935-376221), de 25 de Janeiro de 1935; 4.º e 6.º do [Decreto n.º 39231](https://diariodarepublica.pt/dr/detalhe/decreto/39231-1953-643736), de 2 de Junho de 1953; 2.º, 3.º, 5.º, 8.º e 9.º do [Decreto n.º 39571](https://diariodarepublica.pt/dr/detalhe/decreto/39571-1954-217168), de 22 de Março de 1954.
+Art. 120.º Ficam revogados, expressamente, os artigos 1.º, 2.º, 3.º, 6.º, 9.º, 11.º, 13.º, 17.º, 18.º, 19.º, 21.º, 26.º (excepto o § 2.º), 28.º, 29.º, 33.º, 35.º, 38.º, 41.º, 42.º, 43.º, 44.º, 45.º, 46.º, 47.º, 48.º, 49.º, 50.º, 54.º, 198.º, 199.º e 224.º do Código do Registo Predial do Ultramar; 39.º a 45.º, 101.º a 112.º e 147.º da Organização Judiciária do Ultramar; 6.º do [Decreto n.º 14453](https://diariodarepublica.pt/dr/detalhe/decreto/14453-1927-678239), de 20 de Outubro de 1927; 89.º e 91.º do [Decreto n.º 35777](https://diariodarepublica.pt/dr/detalhe/decreto/35777-1946-156385), de 1 de Agosto de 1946; 38.º a 40.º do [Decreto n.º 24970](https://diariodarepublica.pt/dr/detalhe/decreto/24970-1935-376221), de 25 de Janeiro de 1935; 4.º e 6.º do [Decreto n.º 39231](https://diariodarepublica.pt/dr/detalhe/decreto/39231-1953-643736), de 2 de Junho de 1953; 2.º, 3.º, 5.º, 8.º e 9.º do [Decreto n.º 39571](https://diariodarepublica.pt/dr/detalhe/decreto/39571-1954-217168), de 22 de Março de 1954.
 
-###### Art. 121.º Nos serviços de justiça, incluindo os serviços anexos, a antiguidade no quadro, na classe e na categoria refere-se à data da publicação dos respectivos diplomas, desde que a posse seja tomada no prazo legal.
+Art. 121.º Nos serviços de justiça, incluindo os serviços anexos, a antiguidade no quadro, na classe e na categoria refere-se à data da publicação dos respectivos diplomas, desde que a posse seja tomada no prazo legal.
 
-###### Art. 122.º (transitório) - 1. São extintos os lugares de conservador geral do Registo Civil de Moçambique e de adjunto do conservador, criados pelo artigo 5.º do Diploma Legislativo Ministerial n.º 3, de 13 de Julho de 1959.
+Art. 122.º (transitório) - 1. São extintos os lugares de conservador geral do Registo Civil de Moçambique e de adjunto do conservador, criados pelo artigo 5.º do Diploma Legislativo Ministerial n.º 3, de 13 de Julho de 1959.
 
 2. Os actuais conservador geral do Registo Civil de Moçambique e adjunto do conservador poderão, se o requererem dentro do prazo de 90 dias a contar da data da entrada em vigor deste diploma, ser nomeados, o primeiro, para lugar de notário, o segundo, para lugar de conservador de 2.ª classe.
 
-###### Art. 123.º (transitório). Em Damão e nos julgados de Mormugão e Pondá, enquanto não forem providos por notários privativos os respectivos lugares, continuam os escrivães de direito a desempenhar aquelas funções nos termos da legislação actualmente em vigor.
+Art. 123.º (transitório). Em Damão e nos julgados de Mormugão e Pondá, enquanto não forem providos por notários privativos os respectivos lugares, continuam os escrivães de direito a desempenhar aquelas funções nos termos da legislação actualmente em vigor.
 
-###### Art. 124.º Todos os reconhecimentos feitos nos cartórios e secretarias notariais serão obrigatòriamente numerados e registados.
+Art. 124.º Todos os reconhecimentos feitos nos cartórios e secretarias notariais serão obrigatòriamente numerados e registados.
 
-###### Art. 125.º Na província de Cabo Verde todos os lugares que vierem a ser criados sòmente serão orçamentados quando for julgado conveniente pelo Governo da província.
+Art. 125.º Na província de Cabo Verde todos os lugares que vierem a ser criados sòmente serão orçamentados quando for julgado conveniente pelo Governo da província.
 
 Entretanto, as funções correspondentes continuarão a ser desempenhadas nos termos actualmente em vigor.
 
-###### Art. 126.º Ficam os governadores das províncias ultramarinas autorizados a abrir, observadas as disposições legais aplicáveis, os créditos especiais necessários para suportar os encargos resultantes da execução deste decreto, servindo de contrapartida as disponibilidades ou recursos orçamentais.
+Art. 126.º Ficam os governadores das províncias ultramarinas autorizados a abrir, observadas as disposições legais aplicáveis, os créditos especiais necessários para suportar os encargos resultantes da execução deste decreto, servindo de contrapartida as disponibilidades ou recursos orçamentais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Setembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

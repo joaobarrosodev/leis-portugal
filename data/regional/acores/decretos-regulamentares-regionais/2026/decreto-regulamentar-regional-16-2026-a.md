@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/16/2026/08/05/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2026-1154555182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T18:49:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 603dd53d5b3337684dcc0d9710a68d51f63964fc06b948d2d4f3c15c3952a0c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7bd0e4c202894a2ed026507a6dd020ba5a0b9773a077b9664c819dd76dc19531
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:49:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
+- Açores
 - Contra-ordenação
-- ILHA das Flores
-- Parque Natural
-- Proteção do Ambiente
 - Espécie Protegida
-- Património Natural
+- ILHA das Flores
+- Ordenamento do Território
+- Parque Natural
 - Parque Natural da Ilha das Flores
 - Parque Natural de Ilha
+- Património Natural
+- Proteção do Ambiente
 - Regulamento
-- Açores
 relationships:
 - type: cites
   target: celex:31991L0676
@@ -129,6 +129,130 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:122373686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207881792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208326768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:64797341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70014797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74711478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75170439:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31991L0676
   label: null
@@ -144,13 +268,13 @@ relationships:
 article_structure:
   article_count: 28
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:49:18Z'
   warnings: []
   errors: []
 ---
@@ -227,11 +351,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 13 de maio de 2026.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 8 de julho de 2026.**
+Assinado em Angra do Heroísmo em 8 de julho de 2026.
 
-**Publique-se.**
+Publique-se.
 
 A Representante da República para a Região Autónoma dos Açores, Susana Goulart Costa.
 
@@ -615,13 +739,15 @@ O presente Regulamento não prejudica os pedidos de autorização ou licenciamen
 
 Planta de zonamento
 
-![](https://files.diariodarepublica.pt/images/1154555182/1154555138.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555182/1154555138.png) |
+| --- |
 
 ## ANEXO III — [a que se refere a alínea c) do n.º 1 do artigo 1.º]
 
 Planta de condicionantes
 
-![](https://files.diariodarepublica.pt/images/1154555182/1154555139.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555182/1154555139.png) |
+| --- |
 
 ## ANEXO IV — [a que se refere a alínea d) do n.º 1 do artigo 1.º]
 
@@ -733,19 +859,22 @@ ANEXOS
 
 O arquipélago dos Açores localiza-se no oceano Atlântico norte, ocupando uma faixa definida pelas seguintes coordenadas geográficas: 39°43’23’’ (Ponta Norte - ilha do Corvo) e 36°55’43’’ (Ponta do Castelo - ilha de Santa Maria) de latitude norte; 24°46’15’’ (ilhéus das Formigas - ilha de Santa Maria) e 31°16’24’’ (ilhéu de Monchique - ilha das Flores) de longitude oeste.
 
-![](https://files.diariodarepublica.pt/images/1154555182/1154555140.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555182/1154555140.png) |
+| --- |
 
 Figura 1 - Arquipélago dos Açores no mundo
 
 As ilhas encontram-se agrupadas atendendo à proximidade geográfica: Grupo Ocidental (Corvo e Flores); Grupo Central (Terceira, Graciosa, São Jorge, Pico e Faial); Grupo Oriental (São Miguel e Santa Maria). O Grupo Central distancia-se cerca de 150 km e de 240 km dos Grupos Oriental e Ocidental, respetivamente.
 
-![](https://files.diariodarepublica.pt/images/1154555182/1154555141.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555182/1154555141.png) |
+| --- |
 
 Figura 2 - Arquipélago dos Açores e ilha das Flores
 
 A partir da Carta de Ocupação do Solo da Região Autónoma dos Açores de 2018 (COS.A/2018) pode concluir-se que os prados/pastagens com 21,43 % e a vegetação herbácea natural com 19,14 % ocupam quase metade da ilha, seguindo-se as zonas apauladas com 16,91 % e a floresta de folhosas com 15,15 %. Importa referir que a ocupação das zonas apauladas (16,91 %), da vegetação esparsa (3,81 %) e dos cursos de água (0,18 %) na ilha das Flores é a mais representativa no contexto da Região.
 
-![](https://files.diariodarepublica.pt/images/1154555182/1154555142.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555182/1154555142.png) |
+| --- |
 
 Figura 3 - Usos do solo a partir da COSA (DRA 2018)
 
@@ -753,7 +882,8 @@ Para a adequada gestão dos Parques Naturais de Ilha (PNI) é fundamental ter co
 
 Nos Açores, uma parte substancial dos terrenos públicos estão integrados nos perímetros florestais, sendo que, na ilha das Flores (figura 4), o perímetro florestal representa cerca de 66 % do respetivo Parque Natural, abrangendo um conjunto de terrenos baldios que foram submetidos ao regime florestal parcial e que se encontram sob gestão da entidade com competência em matéria de recursos florestais. Refira-se, no entanto, que as áreas de perímetro florestal que, entretanto, foram classificadas no âmbito da Rede de Áreas Protegidas dos Açores estão sujeitas ao respetivo regime de classificação e ao regime jurídico da conservação da natureza e da biodiversidade, estabelecido pelo [Decreto Legislativo Regional n.º 15/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2012-553893), de 2 de abril.
 
-![](https://files.diariodarepublica.pt/images/1154555182/1154555143.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555182/1154555143.png) |
+| --- |
 
 Figura 4 - Perímetro florestal e áreas protegidas (perímetro florestal - DRRF, 2014)
 
@@ -761,7 +891,8 @@ O regime jurídico da conservação da natureza e biodiversidade, aprovado pelo 
 
 O conjunto das áreas integradas no Parque Natural de Ilha, Rede Natura 2000 e as áreas de Reserva Ecológica e de Reserva Agrícola conformam a Rede Fundamental da Conservação da Natureza (figura 5).
 
-![](https://files.diariodarepublica.pt/images/1154555182/1154555144.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555182/1154555144.png) |
+| --- |
 
 Figura 5 - Rede Fundamental da Conservação da Natureza - Integra as áreas protegidas, as áreas da Rede Natura 2000, a Reserva Ecológica e a Reserva Agrícola (IROA 2013)
 
@@ -781,21 +912,22 @@ Este Plano de Gestão contribui para a concretização desses objetivos.
 
 Para a ilha das Flores são consideradas sete unidades de paisagem, a seguir identificadas com a respetiva denominação e código:
 
-a) Encosta de Ponta Delgada (FL1) - abrange uma área de, aproximadamente, 19 km<sup>2</sup> do concelho de Santa Cruz das Flores e integra o aglomerado urbano de Ponta Delgada;
+a) Encosta de Ponta Delgada (FL1) - abrange uma área de, aproximadamente, 19 km2 do concelho de Santa Cruz das Flores e integra o aglomerado urbano de Ponta Delgada;
 
-b) Matos de Altitude (FL2) - apresenta uma área de, aproximadamente, 20 km<sup>2</sup>, abrangendo os concelhos de Santa Cruz das Flores e Lajes das Flores, e não integra aglomerados urbanos;
+b) Matos de Altitude (FL2) - apresenta uma área de, aproximadamente, 20 km2, abrangendo os concelhos de Santa Cruz das Flores e Lajes das Flores, e não integra aglomerados urbanos;
 
-c) Encosta de Santa Cruz/Cedros (FL3) - abrange uma área de, aproximadamente, 30 km<sup>2</sup> do concelho de Santa Cruz das Flores e integra os aglomerados urbanos de Caveira, Charneca, Santa Cruz das Flores, Fazenda de Santa Cruz, Cedros e Ponta Ruiva;
+c) Encosta de Santa Cruz/Cedros (FL3) - abrange uma área de, aproximadamente, 30 km2 do concelho de Santa Cruz das Flores e integra os aglomerados urbanos de Caveira, Charneca, Santa Cruz das Flores, Fazenda de Santa Cruz, Cedros e Ponta Ruiva;
 
-d) Fajãs (FL4) - apresenta uma área de, aproximadamente, 9 km<sup>2</sup>, abrangendo os concelhos de Santa Cruz das Flores e Lajes das Flores, e integra os aglomerados urbanos de Fajãzinha, Fajã Grande e Ponta da Fajã;
+d) Fajãs (FL4) - apresenta uma área de, aproximadamente, 9 km2, abrangendo os concelhos de Santa Cruz das Flores e Lajes das Flores, e integra os aglomerados urbanos de Fajãzinha, Fajã Grande e Ponta da Fajã;
 
-e) Planalto com Lagoas (FL5) - apresenta uma área de, aproximadamente, 22 km<sup>2</sup>, abrangendo os concelhos de Santa Cruz das Flores e Lajes das Flores, e não integra aglomerados urbanos;
+e) Planalto com Lagoas (FL5) - apresenta uma área de, aproximadamente, 22 km2, abrangendo os concelhos de Santa Cruz das Flores e Lajes das Flores, e não integra aglomerados urbanos;
 
-f) Encosta do Lajedo/Mosteiro (FL6) - abrange uma área de, aproximadamente, 9 km<sup>2</sup> do concelho das Lajes das Flores e integra os aglomerados urbanos de Lajedo e Mosteiro;
+f) Encosta do Lajedo/Mosteiro (FL6) - abrange uma área de, aproximadamente, 9 km2 do concelho das Lajes das Flores e integra os aglomerados urbanos de Lajedo e Mosteiro;
 
-g) Encosta das Lajes (FL7) - apresenta uma área de, aproximadamente, 34 km<sup>2</sup>, abrangendo os concelhos de Lajes das Flores e Santa Cruz das Flores, e integra os aglomerados urbanos de Costa, Lajes das Flores, Fazenda das Lajes, Ribeirinha e Lomba.
+g) Encosta das Lajes (FL7) - apresenta uma área de, aproximadamente, 34 km2, abrangendo os concelhos de Lajes das Flores e Santa Cruz das Flores, e integra os aglomerados urbanos de Costa, Lajes das Flores, Fazenda das Lajes, Ribeirinha e Lomba.
 
-![](https://files.diariodarepublica.pt/images/1154555182/1154555145.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555182/1154555145.png) |
+| --- |
 
 Figura 6 - Unidades de Paisagem da ilha das Flores
 
@@ -819,27 +951,31 @@ Atualmente, nos Açores são conhecidas mais de três centenas de cavidades vulc
 
 Neste contexto, o Plano de Gestão prevê a implementação de medidas de gestão para as cavidades vulcânicas, dando execução ao disposto no [Decreto Legislativo Regional n.º 10/2019/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2019-122373686), de 22 de maio.
 
-![](https://files.diariodarepublica.pt/images/1154555182/1154555146.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555182/1154555146.png) |
+| --- |
 
 Figura 7 - Cavidades vulcânicas da ilha das Flores.
 
 O PNI das Flores foi criado em 2011, pelo [Decreto Legislativo Regional n.º 8/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2011-278770), de 23 de março. Integram o PNI das Flores todas as áreas protegidas da Rede Natura 2000, nomeadamente as Zonas Especiais de Conservação (ZEC), as Zonas de Proteção Especial (ZPE) e as restantes áreas protegidas classificadas e reclassificadas segundo o referido decreto.
 
-O PNI das Flores integra nove áreas protegidas, das quais oito são terrestres, com uma área total de 60,58 km<sup>2</sup>, o que corresponde a 43 % da superfície da ilha (Carta Administrativa Oficial de Portugal 2018), e uma área marinha, com uma área total de 39,80 km<sup>2</sup>. Este Plano de Gestão ocupa-se da componente terrestre do Parque Natural. Na figura 8 apresentam-se as áreas protegidas do PNI com o respetivo código, atribuído pelo diploma de classificação.
+O PNI das Flores integra nove áreas protegidas, das quais oito são terrestres, com uma área total de 60,58 km2, o que corresponde a 43 % da superfície da ilha (Carta Administrativa Oficial de Portugal 2018), e uma área marinha, com uma área total de 39,80 km2. Este Plano de Gestão ocupa-se da componente terrestre do Parque Natural. Na figura 8 apresentam-se as áreas protegidas do PNI com o respetivo código, atribuído pelo diploma de classificação.
 
-![](https://files.diariodarepublica.pt/images/1154555182/1154555147.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555182/1154555147.png) |
+| --- |
 
 Figura 8 - Áreas protegidas do PNI das Flores e respetivos códigos adotados.
 
 Na figura seguinte apresentam-se as áreas protegidas pertencentes ao PNI das Flores, descriminadas segundo as categorias definidas pela União Internacional para a Conservação da Natureza (IUCN): à categoria I corresponde a designação de Reserva Natural; à categoria III corresponde a designação de Monumento Natural; à categoria IV corresponde a designação de Área Protegida para a Gestão de Habitats ou Espécies; à categoria V corresponde a designação de Área de Paisagem Protegida e à categoria VI a designação de Área Protegida para a Gestão de Recursos.
 
-![](https://files.diariodarepublica.pt/images/1154555182/1154555148.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555182/1154555148.png) |
+| --- |
 
 Figura 9 - Áreas protegidas de acordo com as categorias IUCN
 
 Na figura 10 mostra-se a relação das áreas terrestres do PNI das Flores com as áreas da Rede Natura 2000, concretamente as Zonas Especiais de Conservação (ZEC) e as Zonas de Proteção Especial (ZPE).
 
-![](https://files.diariodarepublica.pt/images/1154555182/1154555149.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555182/1154555149.png) |
+| --- |
 
 Figura 10 - Relação das áreas da Rede Natura 2000 com as áreas terrestres do PNI
 
@@ -869,7 +1005,8 @@ E têm ainda que apresentar um modelo de governação e um plano de ação/gest�
 
 Esta classificação não colide com as Áreas Protegidas ou com a Rede Natura 2000 pois é complementar e beneficia do trabalho que aí se desenvolve, nomeadamente ao nível da conservação da biodiversidade.
 
-![](https://files.diariodarepublica.pt/images/1154555182/1154555150.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555182/1154555150.png) |
+| --- |
 
 Figura 11 - Relação das zonas da Reserva da Biosfera com as áreas protegidas do PNI
 
@@ -882,8 +1019,8 @@ A cor-de-rosa claro indicam-se as áreas protegidas com componente terrestre, qu
 | Categorias IUCN | Código | Designação | Classificações internacionais |
 | --- | --- | --- | --- |
 | Reserva Natural (I) | FLO01 | Ilhéu Maria Vaz | ZEC PTFLO0003 - Costa NordesteZona de Proteção Integral (Lapas) da Baixa da Rosa até Ponta DelgadaIBA PT052 - Costa das FloresZona Núcleo da Reserva da Biosfera das Flores |
-| Reserva Natural (I) | FLO02 | Morro Alto e Pico da Sé | ZEC PTLO0002 - Zona Central Morro AltoSítio Ramsar n.º 1806 - Planalto Central das Flores (Morro Alto)Zona Núcleo da Reserva da Biosfera das FloresGeossítios do Açores Geoparque Mundial da UNESCO (Pico da Sé; Vale das Ribeiras da Badanela e Além Fazenda; Caldeiras Negra, Comprida, Seca e Branca) |
-| Reserva Natural (I) | FLO03 | Caldeiras Funda e Rasa | ZEC PTLO0002 - Zona Central Morro AltoSítio Ramsar n.º 1806 - Planalto Central das Flores (Morro Alto)Zona Tampão da Reserva da Biosfera das FloresGeossítio do Açores Geoparque Mundial da UNESCO (Caldeiras Rasa e Funda das Lajes) |
+| FLO02 | Morro Alto e Pico da Sé | ZEC PTLO0002 - Zona Central Morro AltoSítio Ramsar n.º 1806 - Planalto Central das Flores (Morro Alto)Zona Núcleo da Reserva da Biosfera das FloresGeossítios do Açores Geoparque Mundial da UNESCO (Pico da Sé; Vale das Ribeiras da Badanela e Além Fazenda; Caldeiras Negra, Comprida, Seca e Branca) |  |
+| FLO03 | Caldeiras Funda e Rasa | ZEC PTLO0002 - Zona Central Morro AltoSítio Ramsar n.º 1806 - Planalto Central das Flores (Morro Alto)Zona Tampão da Reserva da Biosfera das FloresGeossítio do Açores Geoparque Mundial da UNESCO (Caldeiras Rasa e Funda das Lajes) |  |
 | Monumento Natural (III) | FLO04 | Rocha dos Bordões | ZEC PTFLO0002 - Zona Central Morro AltoZona Núcleo da Reserva da Biosfera das FloresGeossítio do Açores Geoparque Mundial da UNESCO (Rocha dos Bordões) |
 | Área para a Gestão de Habitats ou Espécies (IV) Protegida | FLO05 | Costa Nordeste | ZEC PTFLO0003 - Costa NordesteZPE PTZPE0022 - Costa NordesteIBA PT052 - Costa das FloresZona Tampão da Reserva da Biosfera das FloresZona de Transição da Reserva da Biosfera das FloresGeossítios do Açores Geoparque Mundial da UNESCO (Costa Nordeste; Ponta do Albernaz - Ponta Delgada; Litoral de Santa Cruz; Vale das Ribeiras da Badanela e Além Fazenda) |
 |  | FLO06 | Ponta da Caveira | IBA PT052 - Costa das FloresZona Tampão da Reserva da Biosfera das FloresGeossítio do Açores Geoparque Mundial da UNESCO (Vale da Ribeira da Cruz e Ponta da Caveira) |
@@ -905,11 +1042,12 @@ Os objetivos gerais do Plano de Gestão são balizados pelos objetivos de desenv
 
 A metodologia seguida na elaboração deste Plano de Gestão encontra-se esquematizada na figura 12.
 
-![](https://files.diariodarepublica.pt/images/1154555182/1154555151.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555182/1154555151.png) |
+| --- |
 
 Figura 12 - Metodologia usada na elaboração do Plano de Gestão
 
-Para cada área protegida, houve lugar à elaboração de uma ficha de caracterização que inclui uma caracterização geral, de habitats, flora e fauna protegidos <sup>1</sup>. Os usos do solo e a componente cultural e social da paisagem são também abordados.
+Para cada área protegida, houve lugar à elaboração de uma ficha de caracterização que inclui uma caracterização geral, de habitats, flora e fauna protegidos 1. Os usos do solo e a componente cultural e social da paisagem são também abordados.
 
 Procedeu-se à elaboração de um diagnóstico que incluiu uma análise SWOT, aspetos relativos à vulnerabilidade das áreas protegidas, habitats e espécies e medidas de gestão que se encontram já a ser implementadas ou cuja implementação se verifica necessária.
 
@@ -917,7 +1055,7 @@ Cada área protegida foi objeto de um zonamento em que se procedeu a uma subdivi
 
 Para cada área protegida, estabeleceram-se objetivos e medidas de gestão. Os objetivos abrangem toda a área protegida e decorrem dos decretos legislativos regionais que deram origem ao estabelecimento das mesmas, no entanto são direcionados já aos valores presentes na área protegida em questão. As medidas de gestão são próprias de cada unidade operativa de gestão e estão já direcionadas para a conservação, recuperação e gestão de determinados habitats, espécies, elementos geológicos ou paisagens. Podem ser efetivamente implementadas no terreno e são passíveis de ser avaliadas e monitorizadas. Estes elementos são incluídos em tabelas e constituem o programa de execução para cada área protegida.
 
-<sup>1</sup> Os critérios que presidiram à inclusão dos habitats e espécies nas fichas de caracterização das áreas protegidas são os seguintes: em primeiro lugar, teve-se em conta os habitats e espécies integrados nas FDN - Standart Data Form da Rede Natura 2000 - Fichas de caracterização das áreas de Rede Natura 2000 (ZEC e ZPE) regularmente submetidas à Comissão Europeia. Estas fichas são atualizadas com a informação científica mais recente, as que estão a ser utilizadas são na generalidade de 2015; em segundo lugar, teve-se em conta os levantamentos bibliográficos e formulários preenchidos pelo pessoal técnico do PNI respeitantes às áreas protegidas; em terceiro lugar, a informação recolhida aquando dos levantamentos de campo.
+1 Os critérios que presidiram à inclusão dos habitats e espécies nas fichas de caracterização das áreas protegidas são os seguintes: em primeiro lugar, teve-se em conta os habitats e espécies integrados nas FDN - Standart Data Form da Rede Natura 2000 - Fichas de caracterização das áreas de Rede Natura 2000 (ZEC e ZPE) regularmente submetidas à Comissão Europeia. Estas fichas são atualizadas com a informação científica mais recente, as que estão a ser utilizadas são na generalidade de 2015; em segundo lugar, teve-se em conta os levantamentos bibliográficos e formulários preenchidos pelo pessoal técnico do PNI respeitantes às áreas protegidas; em terceiro lugar, a informação recolhida aquando dos levantamentos de campo.
 
 3 - Objetivos Estratégicos e Matriz Strenghts, Weaknesses, Opportunities e Threats SWOT
 
@@ -1212,21 +1350,21 @@ Tabela 5 - Tipos de medidas de gestão e códigos correspondentes
 
 5.1 - Proposta de intervenção para a Reserva Natural do Ilhéu Maria Vaz (FLO01)
 
-| Condicionantes | Condicionantes |
+| Condicionantes |  |
 | --- | --- |
 | Plano de Ordenamento da Orla Costeira | Áreas de Proteção e Conservação da Natureza Terrestre |
-| Plano de Ordenamento da Orla Costeira | Áreas Vulneráveis |
-| Plano de Ordenamento da Orla Costeira | Domínio Público Marítimo |
-| Plano de Ordenamento da Orla Costeira | Reserva Ecológica Regional |
-| Plano de Ordenamento da Orla Costeira | Sítio de Importância Comunitária |
-| Plano de Ordenamento da Orla Costeira | Zona Terrestre de Proteção - 500 metros |
+| Áreas Vulneráveis |  |
+| Domínio Público Marítimo |  |
+| Reserva Ecológica Regional |  |
+| Sítio de Importância Comunitária |  |
+| Zona Terrestre de Proteção - 500 metros |  |
 | Plano Diretor Municipal de Santa Cruz das Flores | Sítios de importância comunitária (SIC) |
 | Conservação da Natureza | ZEC PTFLO0003 - Costa Nordeste |
-| Conservação da Natureza | Zona de Proteção Integral da Baixa da Rosa até Ponta Delgada |
-| Conservação da Natureza | IBA PT052 - Costa das Flores |
-| Conservação da Natureza | Zona Núcleo da Reserva da Biosfera da Ilha das Flores |
+| Zona de Proteção Integral da Baixa da Rosa até Ponta Delgada |  |
+| IBA PT052 - Costa das Flores |  |
+| Zona Núcleo da Reserva da Biosfera da Ilha das Flores |  |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| Unidades Operativas de Gestão |  |
 | --- | --- |
 | FLO01.01 - Ilhéu Maria Vaz | Área de proteção integral (9,79 ha) |
 
@@ -1244,9 +1382,9 @@ OB5. Conservação das condições naturais de referência aos trabalhos cientí
 
 5.1.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão |
+| Medidas de Gestão |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
+| Unidade Operativa de Gestão | M1 - Medidas gerais | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |  |  |  |
 | FLO01.01 | M1.1. |  | M7.2. | M7.3. | M7.7. | M7.8. | M7.10. | M7.11. |  | M8.44. |  |
 
 5.1.3 - Medidas de gestão
@@ -1254,17 +1392,17 @@ OB5. Conservação das condições naturais de referência aos trabalhos cientí
 | Unidade Operativa de Gestão | Regime de proteção | Medidas de gestão | Descrição |
 | --- | --- | --- | --- |
 | FLO01.01 | Área de proteção integral | M1.1. | Fiscalização de área protegida pelos vigilantes da natureza. |
-| FLO01.01 | Área de proteção integral | M7.2. | Caracterização de avifauna nidificante. |
-| FLO01.01 | Área de proteção integral | M7.3. | Monitorização de avifauna nidificante. |
-| FLO01.01 | Área de proteção integral | M7.7. | Promoção de condições de nidificação de fauna, através do controlo de espécies predadoras e competidoras. |
-| FLO01.01 | Área de proteção integral | M7.8. | Gestão de espécies de fauna invasora. |
-| FLO01.01 | Área de proteção integral | M7.10. | Caracterização de flora com particular atenção à presença de espécies protegidas, particularmente prioritárias, como a Azorina vidalii. |
-| FLO01.01 | Área de proteção integral | M7.11. | Monitorização de flora em toda a área. |
-| FLO01.01 | Área de proteção integral | M8.44. | Colocação de placards de informação sobre a interdição de visitação do ilhéu Maria Vaz e sensibilização dos valores presentes nesta Reserva. A colocar nos portos mais próximos (Ponta Delgada e Fajã Grande). |
+| M7.2. | Caracterização de avifauna nidificante. |  |  |
+| M7.3. | Monitorização de avifauna nidificante. |  |  |
+| M7.7. | Promoção de condições de nidificação de fauna, através do controlo de espécies predadoras e competidoras. |  |  |
+| M7.8. | Gestão de espécies de fauna invasora. |  |  |
+| M7.10. | Caracterização de flora com particular atenção à presença de espécies protegidas, particularmente prioritárias, como a Azorina vidalii. |  |  |
+| M7.11. | Monitorização de flora em toda a área. |  |  |
+| M8.44. | Colocação de placards de informação sobre a interdição de visitação do ilhéu Maria Vaz e sensibilização dos valores presentes nesta Reserva. A colocar nos portos mais próximos (Ponta Delgada e Fajã Grande). |  |  |
 
 5.2 - Proposta de intervenção para a Reserva Natural do Morro Alto e Pico da Sé (FLO02)
 
-| Condicionantes | Condicionantes |
+| Condicionantes |  |
 | --- | --- |
 | Plano Diretor Municipal de Lajes das Flores | Domínio Hídrico (Leitos dos Cursos de Água) |
 |  | Domínio Hídrico (Lagoas) |
@@ -1277,24 +1415,24 @@ OB5. Conservação das condições naturais de referência aos trabalhos cientí
 |  | Rede Municipal de Estradas e Caminhos |
 |  | Caminhos Florestais |
 | Plano Diretor Municipal de Santa Cruz das Flores | Domínio Hídrico (Leitos dos Cursos de Água) |
-| Plano Diretor Municipal de Santa Cruz das Flores | Domínio Hídrico (Lagoas) |
-| Plano Diretor Municipal de Santa Cruz das Flores | Perímetro Florestal |
-| Plano Diretor Municipal de Santa Cruz das Flores | Reserva Ecológica Regional (RER) |
-| Plano Diretor Municipal de Santa Cruz das Flores | Reserva Florestal Natural |
-| Plano Diretor Municipal de Santa Cruz das Flores | Sítio de Importância Comunitária |
-| Plano Diretor Municipal de Santa Cruz das Flores | Servidão Aeronáutica |
-| Plano Diretor Municipal de Santa Cruz das Flores | Rede Municipal de Estradas e Caminhos |
-| Plano Diretor Municipal de Santa Cruz das Flores | Caminhos Florestais |
-| Plano Diretor Municipal de Santa Cruz das Flores | Marcos Geodésicos |
-| Plano Diretor Municipal de Santa Cruz das Flores | Espaços Naturais |
-| Plano Diretor Municipal de Santa Cruz das Flores | Espaços Florestais de Proteção |
-| Plano Diretor Municipal de Santa Cruz das Flores | Espaços Florestais de Produção |
+| Domínio Hídrico (Lagoas) |  |
+| Perímetro Florestal |  |
+| Reserva Ecológica Regional (RER) |  |
+| Reserva Florestal Natural |  |
+| Sítio de Importância Comunitária |  |
+| Servidão Aeronáutica |  |
+| Rede Municipal de Estradas e Caminhos |  |
+| Caminhos Florestais |  |
+| Marcos Geodésicos |  |
+| Espaços Naturais |  |
+| Espaços Florestais de Proteção |  |
+| Espaços Florestais de Produção |  |
 | Plano de Bacia Hidrográfica das Lagoas | Áreas de Intervenção do Plano de Bacia Hidrográfica das Lagoas Branca, Comprida e Negra |
 | Conservação da Natureza | ZEC PTLO0002 - Zona Central Morro Alto |
-| Conservação da Natureza | Sítio Ramsar n.º 1806 - Planalto Central das Flores (Morro Alto) |
-| Conservação da Natureza | Zona Núcleo da Reserva da Biosfera da Ilha das Flores |
+| Sítio Ramsar n.º 1806 - Planalto Central das Flores (Morro Alto) |  |
+| Zona Núcleo da Reserva da Biosfera da Ilha das Flores |  |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| Unidades Operativas de Gestão |  |
 | --- | --- |
 | FLO02.01 A, B, C e D - Morro Alto e Planalto Central | Área de proteção integral (A - 580,70 ha; B - 288,76 ha; C - 67,75 ha; D - 94,03 ha) |
 | FLO02.02 A e B - Estradas dos Ferros Velhos e Morro Alto | Área de proteção parcial (A - 39,81 ha; B - 2,11 ha) |
@@ -1304,11 +1442,11 @@ OB5. Conservação das condições naturais de referência aos trabalhos cientí
 | FLO02.06 - Morro Alto | Área de uso sustentável dos recursos (0,60 ha) |
 | FLO02.07 - Pico dos Sete Pés | Área de uso sustentável dos recursos (3,11 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| Elementos de fruição da paisagem |  |
 | --- | --- |
-| Trilhos | Trilhos |
+| Trilhos |  |
 | PR03 FLO - Miradouro das Lagoas - Poço do Bacalhau | Manutenção e beneficiação (atravessa FLO02 e FLO08) |
-| Miradouros | Miradouros |
+| Miradouros |  |
 | FLO.M1 - Miradouro das Lagoas Negra e Comprida | Manutenção e beneficiação |
 | FLO.M2 - Miradouro do Morro Alto | Manutenção e beneficiação |
 | FLO.M3 - Miradouro da Lagoa Seca | Manutenção e beneficiação |
@@ -1336,27 +1474,27 @@ OB7. Definição de limites e condicionamentos ao livre acesso público.
 
 5.2.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial |
-| FLO02.01AFLO02.01BFLO02.01CFLO02.01D | M1.1. |  | M2.9. |  |  |  | M4.6. | M4.9. | M4.12. |  | M6.9. |  |
-| FLO02.02AFLO02.02B | M1.1. |  |  |  | M3.16. |  |  |  |  |  |  |  |
-| FLO02.03 | M1.1. |  |  |  | M3.18. |  |  |  |  |  | M6.9. |  |
-| FLO02.04 | M1.1. |  |  |  |  |  |  |  |  |  |  |  |
-| FLO02.05 | M1.1. |  |  |  |  |  | M4.6. |  |  |  |  |  |
-| FLO02.06 | M1.1. |  |  |  |  |  |  |  |  |  |  |  |
-| FLO02.07 | M1.1. |  |  |  |  |  |  |  |  |  |  |  |
+| Medidas de Gestão |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Unidade Operativa de Gestão | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial |  |  |  |  |  |  |
+| FLO02.01AFLO02.01BFLO02.01CFLO02.01D | M1.1. |  | M2.9. |  |  | M4.6. | M4.9. | M4.12. |  | M6.9. |  |
+| FLO02.02AFLO02.02B | M1.1. |  |  | M3.16. |  |  |  |  |  |  |  |
+| FLO02.03 | M1.1. |  |  | M3.18. |  |  | M6.9. |  |  |  |  |
+| FLO02.04 | M1.1. |  |  |  |  |  |  |  |  |  |  |
+| FLO02.05 | M1.1. |  |  |  | M4.6. |  |  |  |  |  |  |
+| FLO02.06 | M1.1. |  |  |  |  |  |  |  |  |  |  |
+| FLO02.07 | M1.1. |  |  |  |  |  |  |  |  |  |  |
 
-| Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
-| FLO02.01AFLO02.01BFLO02.01CFLO02.01D | M7.2. | M7.3. | M7.4. | M7.10. | M7.11. | M7.13. | M7.17. | M7.18. | M7.24. | M7.25. | M7.26. | M7.30. | M7.31. | M7.32. | M8.10. | M8.12. |  |  |
-| FLO02.02AFLO02.02B | M7.13. | M7.17. | M7.18. |  |  |  |  |  |  |  |  |  |  |  | M8.25. | M8.28. | M8.42. |  |
-| FLO02.03 | M7.10. | M7.11. | M7.17. | M7.18. | M7.31. | M7.32. |  |  |  |  |  |  |  |  |  |  |  |  |
-| FLO02.04 | M7.10. | M7.11. | M7.13. | M7.17. | M7.24. | M7.31. | M7.32. |  |  |  |  |  |  |  | M8.25. | M8.42. | M8.60. |  |
-| FLO02.05 | M7.10. | M7.11. | M7.17. | M7.32. |  |  |  |  |  |  |  |  |  |  | M8.43. | M8.44. |  |  |
-| FLO02.06 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | M8.67. |  |  |  |
-| FLO02.07 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | M8.15. | M8.43. | M8.45. |  |
+| Medidas de Gestão |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| FLO02.01AFLO02.01BFLO02.01CFLO02.01D | M7.2. | M7.3. | M7.4. | M7.10. | M7.11. | M7.13. | M7.17. | M7.18. | M7.24. | M7.25. | M7.26. | M7.30. | M7.31. | M7.32. | M8.10. | M8.12. |  |
+| FLO02.02AFLO02.02B | M7.13. | M7.17. | M7.18. |  | M8.25. | M8.28. | M8.42. |  |  |  |  |  |  |  |  |  |  |
+| FLO02.03 | M7.10. | M7.11. | M7.17. | M7.18. | M7.31. | M7.32. |  |  |  |  |  |  |  |  |  |  |  |
+| FLO02.04 | M7.10. | M7.11. | M7.13. | M7.17. | M7.24. | M7.31. | M7.32. |  | M8.25. | M8.42. | M8.60. |  |  |  |  |  |  |
+| FLO02.05 | M7.10. | M7.11. | M7.17. | M7.32. |  | M8.43. | M8.44. |  |  |  |  |  |  |  |  |  |  |
+| FLO02.06 |  | M8.67. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| FLO02.07 |  | M8.15. | M8.43. | M8.45. |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 5.2.3 - Medidas de gestão
 
@@ -1421,41 +1559,41 @@ OB7. Definição de limites e condicionamentos ao livre acesso público.
 |  |  | M8.43. | Criação dos miradouros Chão da Cruzinha (FLO.MP1) e Pico dos Sete Pés (FLO.MP2). |
 |  |  | M8.44. | Colocação de placard de informação de proibição de acesso público à Área de Proteção Integral. |
 | FLO02.06 | Área de uso sustentável dos recursos | M1.1. | Fiscalização de área protegida pelos vigilantes da natureza. |
-| FLO02.06 | Área de uso sustentável dos recursos | M8.67. | Gestão da área onde estão instalados equipamentos e edifícios relacionados com as telecomunicações da responsabilidade de empresas e operadoras de telecomunicações.Remoção de equipamentos e antenas fora de serviço. |
+| M8.67. | Gestão da área onde estão instalados equipamentos e edifícios relacionados com as telecomunicações da responsabilidade de empresas e operadoras de telecomunicações.Remoção de equipamentos e antenas fora de serviço. |  |  |
 | FLO02.07 | Área de uso sustentável dos recursos | M1.1. | Fiscalização de área protegida pelos vigilantes da natureza. |
-| FLO02.07 | Área de uso sustentável dos recursos | M8.15. | Gestão da área onde estão instalados os equipamentos relacionados com a aeronáutica (NAV). |
-| FLO02.07 | Área de uso sustentável dos recursos | M8.43. | Criação do miradouro do Pico dos Sete Pés (FLO.MP2). |
-| FLO02.07 | Área de uso sustentável dos recursos | M8.45. | Criação de estacionamento para o miradouro do Pico dos Sete Pés (FLO.MP2). |
+| M8.15. | Gestão da área onde estão instalados os equipamentos relacionados com a aeronáutica (NAV). |  |  |
+| M8.43. | Criação do miradouro do Pico dos Sete Pés (FLO.MP2). |  |  |
+| M8.45. | Criação de estacionamento para o miradouro do Pico dos Sete Pés (FLO.MP2). |  |  |
 
 5.3 - Proposta de intervenção para a Reserva Natural das Caldeiras Funda e Rasa (FLO03)
 
-| Condicionantes | Condicionantes |
+| Condicionantes |  |
 | --- | --- |
 | Plano Diretor Municipal de Lajes das Flores | Domínio Hídrico (Leitos dos Cursos de Água) |
-| Plano Diretor Municipal de Lajes das Flores | Domínio Hídrico (Lagoas) |
-| Plano Diretor Municipal de Lajes das Flores | Espaços Naturais |
-| Plano Diretor Municipal de Lajes das Flores | Espaços Florestais de Proteção |
-| Plano Diretor Municipal de Lajes das Flores | Sítio de Importância Comunitária |
-| Plano Diretor Municipal de Lajes das Flores | Perímetro Florestal |
-| Plano Diretor Municipal de Lajes das Flores | Reserva Ecológica Regional |
-| Plano Diretor Municipal de Lajes das Flores | Reserva Florestal Natural |
-| Plano Diretor Municipal de Lajes das Flores | Rede Municipal de Estradas e Caminhos |
-| Plano Diretor Municipal de Lajes das Flores | Caminhos Florestais |
-| Plano Diretor Municipal de Lajes das Flores | Marco Geodésico |
+| Domínio Hídrico (Lagoas) |  |
+| Espaços Naturais |  |
+| Espaços Florestais de Proteção |  |
+| Sítio de Importância Comunitária |  |
+| Perímetro Florestal |  |
+| Reserva Ecológica Regional |  |
+| Reserva Florestal Natural |  |
+| Rede Municipal de Estradas e Caminhos |  |
+| Caminhos Florestais |  |
+| Marco Geodésico |  |
 | Plano de Bacia Hidrográfica | Áreas de Intervenção do Plano de Bacia Hidrográfica das Lagoas Funda e Rasa |
 | Conservação da Natureza | ZEC PTLO0002 - Zona Central Morro Alto |
-| Conservação da Natureza | Sítio Ramsar n.º 1806 - Planalto Central das Flores (Morro Alto) |
-| Conservação da Natureza | Zona Tampão da Reserva da Biosfera da Ilha das Flores |
+| Sítio Ramsar n.º 1806 - Planalto Central das Flores (Morro Alto) |  |
+| Zona Tampão da Reserva da Biosfera da Ilha das Flores |  |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| Unidades Operativas de Gestão |  |
 | --- | --- |
 | FLO03.01 - Lagoas Funda e Rasa | Área de proteção parcial e área de intervenção específica (243,13 ha) |
 | FLO03.02 A, B e C - Marcela, Marcela e Picaroto e Ventosa | Área de proteção complementar (A - 25,09 ha; B - 60,95 ha; C - 38,49 ha) |
 | FLO03.03 A e B - Ribeira do Mosteiro e Boca da Baleia | Área de uso sustentável dos recursos e área de intervenção específica (A - 13,01 ha; B - 45,28 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| Elementos de fruição da paisagem |  |
 | --- | --- |
-| Miradouros | Miradouros |
+| Miradouros |  |
 | FLO.M6 - Miradouro da Lagoa Funda | Manutenção e beneficiação |
 
 5.3.1 - Objetivos de gestão
@@ -1476,19 +1614,19 @@ OB7. Definição de limites e condicionamentos ao livre acesso público.
 
 5.3.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão |
+| Medidas de Gestão |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial |
+| Unidade Operativa de Gestão | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial |  |  |  |  |  |  |  |  |  |
 | FLO03.01 | M1.1. |  | M2.9. | M2.16. |  | M3.16. |  | M4.9. | M4.12. |  | M6.5. | M6.9. |  |  |
-| FLO03.02AFLO03.02BFLO03.02C | M1.1 |  | M2.25. |  |  | M3.16. |  | M4.8. | M4.9. |  | M6.3. |  |  |  |
-| FLO03.03AFLO03.03B | M1.1. |  | M2.25. |  |  | M3.18. |  |  |  |  |  |  |  |  |
+| FLO03.02AFLO03.02BFLO03.02C | M1.1 |  | M2.25. |  | M3.16. |  | M4.8. | M4.9. |  | M6.3. |  |  |  |  |
+| FLO03.03AFLO03.03B | M1.1. |  | M2.25. |  | M3.18. |  |  |  |  |  |  |  |  |  |
 
-| Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
-| FLO03.01 | M7.2. | M7.3. | M7.4. | M7.10. | M7.11. | M7.17. | M7.18. | M7.24. | M7.26. | M7.31. | M7.32. |  | M8.12. | M8.19. | M8.19. | M8.42. | M8.44. |  |
-| FLO03.02AFLO03.02BFLO03.02C | M7.3. | M7.17. | M7.18. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| FLO03.03AFLO03.03B | M7.3. | M7.17. | M7.24. |  |  |  |  |  |  |  |  |  | M8.28. | M8.28. |  |  |  |  |
+| Medidas de Gestão |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| FLO03.01 | M7.2. | M7.3. | M7.4. | M7.10. | M7.11. | M7.17. | M7.18. | M7.24. | M7.26. | M7.31. | M7.32. |  | M8.12. | M8.19. | M8.42. | M8.44. |  |
+| FLO03.02AFLO03.02BFLO03.02C | M7.3. | M7.17. | M7.18. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| FLO03.03AFLO03.03B | M7.3. | M7.17. | M7.24. |  | M8.28. |  |  |  |  |  |  |  |  |  |  |  |  |
 
 5.3.3 - Medidas de gestão
 
@@ -1536,25 +1674,25 @@ OB7. Definição de limites e condicionamentos ao livre acesso público.
 
 5.4 - Proposta de intervenção para o Monumento Natural da Rocha dos Bordões (FLO04)
 
-| Condicionantes | Condicionantes |
+| Condicionantes |  |
 | --- | --- |
 | Plano Diretor Municipal das Lajes das Flores | Reserva Ecológica Regional |
-| Plano Diretor Municipal das Lajes das Flores | Perímetro Florestal |
-| Plano Diretor Municipal das Lajes das Flores | Sítios de Importância Comunitária |
-| Plano Diretor Municipal das Lajes das Flores | Domínio Hídrico (Leitos dos Cursos de Água) |
-| Plano Diretor Municipal das Lajes das Flores | Espaços Naturais |
-| Plano Diretor Municipal das Lajes das Flores | Espaços Florestais de Proteção |
+| Perímetro Florestal |  |
+| Sítios de Importância Comunitária |  |
+| Domínio Hídrico (Leitos dos Cursos de Água) |  |
+| Espaços Naturais |  |
+| Espaços Florestais de Proteção |  |
 |  | Estrada Regional |
 | Conservação da Natureza | ZEC PTFLO0002 - Zona Central - Morro Alto |
-| Conservação da Natureza | Zona Núcleo da Reserva da Biosfera da Ilha das Flores |
+| Zona Núcleo da Reserva da Biosfera da Ilha das Flores |  |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| Unidades Operativas de Gestão |  |
 | --- | --- |
 | FLO04.01 - Rocha dos Bordões | Área de proteção parcial (10,29 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| Elementos de fruição da paisagem |  |
 | --- | --- |
-| Miradouros | Miradouros |
+| Miradouros |  |
 | FLO.M7 - Miradouro da Cascata Ribeira de Fundão | Existente |
 
 5.4.1 - Objetivos de gestão
@@ -1573,9 +1711,9 @@ OB6. Conservação de espécies num estado favorável, destacando-se as espécie
 
 5.4.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão |
+| Medidas de Gestão |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas de gestão | M1 - Medidas de gestão | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |
+| Unidade Operativa de Gestão | M1 - Medidas de gestão | M6 - Medidas relacionadas com planeamento espacial | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca |  |  |  |  |  |  |  |  |  |
 | FLO04.01 | M1.1. |  | M6.5. | M6.9. |  | M7.10. | M7.11. | M7.15. | M7.17. | M7.18 | M7.32. |  |
 
 5.4.3 - Medidas de gestão
@@ -1594,7 +1732,7 @@ OB6. Conservação de espécies num estado favorável, destacando-se as espécie
 
 5.5 - Proposta de intervenção para a Área Protegida para a Gestão de Habitats ou Espécies da Costa Nordeste (FLO05)
 
-| Condicionantes | Condicionantes |
+| Condicionantes |  |
 | --- | --- |
 | Plano de Ordenamento de Orla Costeira da Ilha das Flores | Área de Projeto de Santa Cruz das Flores |
 |  | Área de Proteção e Conservação da Natureza Terrestre |
@@ -1616,26 +1754,26 @@ OB6. Conservação de espécies num estado favorável, destacando-se as espécie
 |  | Reserva Agrícola Regional |
 |  | Reserva Integral de Lapas |
 | Plano Diretor Municipal de Santa Cruz das Flores | Espaços Naturais |
-| Plano Diretor Municipal de Santa Cruz das Flores | Espaços Afetos às Instalações de Interesse Público - Portos de Pesca |
-| Plano Diretor Municipal de Santa Cruz das Flores | Espaços Urbanos |
-| Plano Diretor Municipal de Santa Cruz das Flores | Domínio Hídrico (Leitos dos Cursos de Água) |
-| Plano Diretor Municipal de Santa Cruz das Flores | Servidão Aeronáutica |
-| Plano Diretor Municipal de Santa Cruz das Flores | Rede Municipal de Estradas e Caminhos |
-| Plano Diretor Municipal de Santa Cruz das Flores | Área de Maior Risco Estatístico de Acidentes |
-| Plano Diretor Municipal de Santa Cruz das Flores | Espaços Urbanizáveis |
-| Plano Diretor Municipal de Santa Cruz das Flores | Unidades Operativas de Planeamento (PP do Monte) |
-| Plano Diretor Municipal de Santa Cruz das Flores | Espaços Agrícolas não incluídos na Reserva Agrícola Regional |
-| Plano Diretor Municipal de Santa Cruz das Flores | Espaços Florestais de Produção |
-| Plano Diretor Municipal de Santa Cruz das Flores | Unidades Operativas de Planeamento (PP da Alagoa) |
-| Plano Diretor Municipal de Santa Cruz das Flores | Espaços Florestais de Proteção |
-| Plano Diretor Municipal de Santa Cruz das Flores | Espaços Agrícolas incluídos na Reserva Agrícola Regional |
+| Espaços Afetos às Instalações de Interesse Público - Portos de Pesca |  |
+| Espaços Urbanos |  |
+| Domínio Hídrico (Leitos dos Cursos de Água) |  |
+| Servidão Aeronáutica |  |
+| Rede Municipal de Estradas e Caminhos |  |
+| Área de Maior Risco Estatístico de Acidentes |  |
+| Espaços Urbanizáveis |  |
+| Unidades Operativas de Planeamento (PP do Monte) |  |
+| Espaços Agrícolas não incluídos na Reserva Agrícola Regional |  |
+| Espaços Florestais de Produção |  |
+| Unidades Operativas de Planeamento (PP da Alagoa) |  |
+| Espaços Florestais de Proteção |  |
+| Espaços Agrícolas incluídos na Reserva Agrícola Regional |  |
 | Conservação da Natureza | ZEC PTFLO0003 - Costa Nordeste |
-| Conservação da Natureza | ZPE PTZPE0022 - Costa Nordeste |
-| Conservação da Natureza | IBA PT052 - Costa das Flores |
-| Conservação da Natureza | Zona Tampão da Reserva da Biosfera das Flores |
-| Conservação da Natureza | Zona de Transição da Reserva da Biosfera das Flores |
+| ZPE PTZPE0022 - Costa Nordeste |  |
+| IBA PT052 - Costa das Flores |  |
+| Zona Tampão da Reserva da Biosfera das Flores |  |
+| Zona de Transição da Reserva da Biosfera das Flores |  |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| Unidades Operativas de Gestão |  |
 | --- | --- |
 | FLO05.01A e B - Planalto Central | Área de proteção integral (A - 51,23 ha; B - 18,46 ha) |
 | FLO05.02A, B e C - Ponta do Burquilhão e Ilhéus da Alagoa e Baixo do Moinho | Área de proteção integral (A - 1,17 ha; B - 1,09 ha; C - 0,60 ha) |
@@ -1647,11 +1785,11 @@ OB6. Conservação de espécies num estado favorável, destacando-se as espécie
 | FLO05.08A, e B (Ponta Ruiva e Alagoa) | Área de uso sustentável dos recursos (A - 73,06 ha; B - 57,30 ha) |
 | FLO05.09A e B (Porto de Ponta Delgada e Zona Costeira de Santa Cruz) | Área de uso sustentável dos recursos (A - 1,83 ha; B - 4,72 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| Elementos de fruição da paisagem |  |
 | --- | --- |
-| Trilhos | Trilhos |
+| Trilhos |  |
 | GR01 FLO Etapa1 | Manutenção e beneficiação |
-| Miradouros | Miradouros |
+| Miradouros |  |
 | FLO.M8 - Miradouro Ilhéu Maria Vaz | Manutenção e beneficiação |
 | FLO.M9 - Miradouro da Pedrinha (P. Delgada) | Manutenção e beneficiação |
 | FLO.M10 - Miradouro da Ponta Ruiva | Manutenção e beneficiação |
@@ -1676,31 +1814,31 @@ OB6. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.5.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial |
-| FLO05.01AFLO05.01B | M1.1. |  |  |  |  |  |  | M4.9. |  |  |  |
-| FLO05.02AFLO05.02BFLO05.02C | M1.1. |  |  |  |  |  |  |  |  |  |  |
-| FLO05.03 | M1.1. |  | M2.16. |  |  |  |  |  |  | M6.5. |  |
-| FLO05.04 |  |  |  |  |  | M3.16. |  |  |  |  |  |
-| FLO05.05 | M1.1. |  |  |  |  |  |  |  |  |  |  |
-| FLO05.06AFLO05.06BFLO05.06C | M1.1. |  |  |  |  |  |  |  |  |  |  |
-| FLO05.07AFLO05.07BFLO05.07C | M1.1. |  | M2.4. |  |  |  |  |  |  |  |  |
-| FLO05.08AFLO05.08B | M1.1. |  | M2.4. | M2.25. |  |  |  |  |  |  |  |
-| FLO05.09AFLO05.09B | M1.1. |  |  |  |  |  |  | M4.21. |  |  |  |
+| Medidas de Gestão |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Unidade Operativa de Gestão | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial |  |  |  |
+| FLO05.01AFLO05.01B | M1.1. |  |  |  | M4.9. |  |  |  |
+| FLO05.02AFLO05.02BFLO05.02C | M1.1. |  |  |  |  |  |  |  |
+| FLO05.03 | M1.1. |  | M2.16. |  |  |  | M6.5. |  |
+| FLO05.04 |  |  | M3.16. |  |  |  |  |  |
+| FLO05.05 | M1.1. |  |  |  |  |  |  |  |
+| FLO05.06AFLO05.06BFLO05.06C | M1.1. |  |  |  |  |  |  |  |
+| FLO05.07AFLO05.07BFLO05.07C | M1.1. |  | M2.4. |  |  |  |  |  |
+| FLO05.08AFLO05.08B | M1.1. |  | M2.4. | M2.25. |  |  |  |  |
+| FLO05.09AFLO05.09B | M1.1. |  |  |  | M4.21. |  |  |  |
 
-| Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão |
+| Medidas de Gestão |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
+| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |  |  |  |  |  |  |  |
 | FLO05.01AFLO05.01B | M7.10. | M7.11. | M7.17. | M7.18. | M7.25. | M7.30. | M7.32. |  |  |  |  |  |  |  |
 | FLO05.02AFLO05.02BFLO05.02C | M7.2. | M7.3. | M7.7. | M7.8. | M7.10. | M7.13. | M7.17. | M7.18. | M7.30. |  | M8.10. | M8.44. | M8.68. |  |
 | FLO05.03 | M7.2. | M7.3. | M7.7. | M7.8. | M7.10. | M7.13. | M7.14. | M7.17. | M7.24. | M7.31. |  |  |  |  |
 | FLO05.04 | M7.17. | M7.18. | M7.31. |  |  |  |  |  |  |  |  |  |  |  |
-| FLO05.05 | M7.3. | M7.10. | M7.11. | M7.17. | M7.18. | M7.25. | M7.30. | M7.32. |  |  | M8.19. | M8.25. |  |  |
+| FLO05.05 | M7.3. | M7.10. | M7.11. | M7.17. | M7.18. | M7.25. | M7.30. | M7.32. |  | M8.19. | M8.25. |  |  |  |
 | FLO05.06AFLO05.06BFLO05.06C | M7.2. | M7.3. | M7.10. | M7.11. | M7.17. | M7.18. | M7.24. | M7.30. | M7.32. |  |  |  |  |  |
-| FLO05.07AFLO05.07BFLO05.07C | M7.3. | M7.10. |  |  |  |  |  |  |  |  | M8.25. |  |  |  |
-| FLO05.08AFLO05.08B | M7.3. | M7.10. | M7.18. |  |  |  |  |  |  |  | M8.25. | M8.50. |  |  |
-| FLO05.09AFLO05.09B | M7.18. |  |  |  |  |  |  |  |  |  | M8.44. |  |  |  |
+| FLO05.07AFLO05.07BFLO05.07C | M7.3. | M7.10. |  | M8.25. |  |  |  |  |  |  |  |  |  |  |
+| FLO05.08AFLO05.08B | M7.3. | M7.10. | M7.18. |  | M8.25. | M8.50. |  |  |  |  |  |  |  |  |
+| FLO05.09AFLO05.09B | M7.18. |  | M8.44. |  |  |  |  |  |  |  |  |  |  |  |
 
 5.5.3 - Medidas de gestão
 
@@ -1780,21 +1918,21 @@ OB6. Permitir que a população local usufrua de benefícios que resultem da pr�
 |  |  | M8.25. | Manutenção e beneficiação do trilho GR01 FLO Etapa 1. |
 |  |  | M8.50. | Manutenção do parque de merendas da Alagoa (FLO.M14) em colaboração com a autarquia local. |
 | FLO05.09AFLO05.09B | Área de uso sustentável dos recursos | M1.1. | Fiscalização da área protegida pelos vigilantes da natureza. |
-| FLO05.09AFLO05.09B | Área de uso sustentável dos recursos | M4.21. | Monitorização da linha de costa e arriba fóssil. |
-| FLO05.09AFLO05.09B | Área de uso sustentável dos recursos | M7.18. | Monitorização e gestão de novas espécies invasoras. |
-| FLO05.09AFLO05.09B | Área de uso sustentável dos recursos | M8.44. | Colocação de placard com informação, sensibilização dos valores presentes e de interdição de acesso à Ponta do Burquilhão (FLO05.02A), Ilhéus da Alagoa (FLO05.02B) e Ilhéu da Baixa do Moinho (FLO05.02C). |
+| M4.21. | Monitorização da linha de costa e arriba fóssil. |  |  |
+| M7.18. | Monitorização e gestão de novas espécies invasoras. |  |  |
+| M8.44. | Colocação de placard com informação, sensibilização dos valores presentes e de interdição de acesso à Ponta do Burquilhão (FLO05.02A), Ilhéus da Alagoa (FLO05.02B) e Ilhéu da Baixa do Moinho (FLO05.02C). |  |  |
 
 5.6 - Proposta de intervenção para a Área Protegida para Gestão de Habitats e Espécies da Ponta da Caveira (FLO06)
 
-| Condicionantes | Condicionantes |
+| Condicionantes |  |
 | --- | --- |
 | Plano de Ordenamento de Orla Costeira | Áreas Vulneráveis |
-| Plano de Ordenamento de Orla Costeira | Domínio Público Marítimo |
-| Plano de Ordenamento de Orla Costeira | Domínio Público Lacustre e Fluvial/Leitos, Margens e Águas Particulares |
-| Plano de Ordenamento de Orla Costeira | Áreas Florestais |
-| Plano de Ordenamento de Orla Costeira | Áreas de Interesse Cultural e Paisagístico |
-| Plano de Ordenamento de Orla Costeira | Áreas de Proteção e Conservação da Natureza Marítima |
-| Plano de Ordenamento de Orla Costeira | Áreas de Proteção e Conservação da Natureza Terrestre |
+| Domínio Público Marítimo |  |
+| Domínio Público Lacustre e Fluvial/Leitos, Margens e Águas Particulares |  |
+| Áreas Florestais |  |
+| Áreas de Interesse Cultural e Paisagístico |  |
+| Áreas de Proteção e Conservação da Natureza Marítima |  |
+| Áreas de Proteção e Conservação da Natureza Terrestre |  |
 | Plano Diretor Municipal de Santa Cruz das Flores | Reserva Ecológica Regional |
 |  | Espaços Naturais |
 |  | Domínio Hídrico (Leitos dos Cursos de Água) |
@@ -1802,21 +1940,21 @@ OB6. Permitir que a população local usufrua de benefícios que resultem da pr�
 |  | Espaços Florestais de Produção |
 |  | Rede Municipal de Estradas e Caminhos |
 | Plano Diretor Municipal das Lajes das Flores | Reserva Ecológica Regional |
-| Plano Diretor Municipal das Lajes das Flores | Domínio Hídrico (Leitos dos Cursos de Água) |
-| Plano Diretor Municipal das Lajes das Flores | Espaços Florestais de Produção |
-| Plano Diretor Municipal das Lajes das Flores | Espaços Naturais |
-| Plano Diretor Municipal das Lajes das Flores | Rede Municipal de Estradas e Caminhos |
+| Domínio Hídrico (Leitos dos Cursos de Água) |  |
+| Espaços Florestais de Produção |  |
+| Espaços Naturais |  |
+| Rede Municipal de Estradas e Caminhos |  |
 | Conservação da Natureza | IBA PT052 - Costa das Flores |
-| Conservação da Natureza | Zona Tampão da Reserva da Biosfera da Ilha das Flores |
+| Zona Tampão da Reserva da Biosfera da Ilha das Flores |  |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| Unidades Operativas de Gestão |  |
 | --- | --- |
 | FLO06.01 - Ponta Fernão Jorge | Área de proteção integral (0,70 ha) |
 | FLO06.02 - Fajã Pedro Vieira | Área de proteção complementar (30,75 ha) |
 | FLO06.03 - Zona Costeira da Caveira | Área prioritária para a conservação (29,55 ha) |
 | FLO06.04 - Ponta de Caveira | Área de uso sustentável dos recursos (13,05 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| Elementos de fruição da paisagem |  |
 | --- | --- |
 | Miradouros |  |
 | FLO.M15 - Miradouro da Ponta da Caveira | Manutenção e beneficiação |
@@ -1837,13 +1975,13 @@ OB6. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.6.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
-| FLO06.01 | M1.1. |  |  |  |  |  |  |  | M7.2. | M7.3. | M7.7. | M7.10. |  |  |  |  | M8.10. |  |
-| FLO06.02 | M1.1. |  | M2.25. |  | M3.18. |  |  |  | M7.3. | M7.11. | M7.17. | M7.18. |  |  |  |  |  |  |
-| FLO06.03 | M1.1. |  |  |  | M3.14. |  |  |  | M7.2. | M7.3. | M7.10. | M7.11. | M7.17. | M7.18. | M7.32. |  |  |  |
-| FLO06.04 | M1.1. |  | M2.25. |  | M3.16. |  | M6.9. |  | M7.11. | M7.17 | M7.18. | M7.31. |  |  |  |  |  |  |
+| Medidas de Gestão |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Unidade Operativa de Gestão | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M6 - Medidas relacionadas com planeamento espacial | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |  |  |  |  |
+| FLO06.01 | M1.1. |  |  |  |  | M7.2. | M7.3. | M7.7. | M7.10. |  | M8.10. |  |  |  |  |
+| FLO06.02 | M1.1. |  | M2.25. |  | M3.18. |  |  | M7.3. | M7.11. | M7.17. | M7.18. |  |  |  |  |
+| FLO06.03 | M1.1. |  |  | M3.14. |  |  | M7.2. | M7.3. | M7.10. | M7.11. | M7.17. | M7.18. | M7.32. |  |  |
+| FLO06.04 | M1.1. |  | M2.25. |  | M3.16. |  | M6.9. |  | M7.11. | M7.17 | M7.18. | M7.31. |  |  |  |
 
 5.6.3 - Medidas de gestão
 
@@ -1882,51 +2020,51 @@ OB6. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.7 - Proposta de intervenção para a Área Protegida para a Gestão de Habitats ou Espécies da Costa Sul e Sudoeste (FLO07)
 
-| Condicionantes | Condicionantes |
+| Condicionantes |  |
 | --- | --- |
 | Plano de Ordenamento de Orla Costeira da Ilha das Flores | Áreas Vulneráveis |
-| Plano de Ordenamento de Orla Costeira da Ilha das Flores | Áreas de Proteção e Conservação da Natureza Terrestre |
-| Plano de Ordenamento de Orla Costeira da Ilha das Flores | Zona de Proteção Especial |
-| Plano de Ordenamento de Orla Costeira da Ilha das Flores | Área de Jurisdição Portuária |
-| Plano de Ordenamento de Orla Costeira da Ilha das Flores | Área de Projeto das Lajes das Flores |
-| Plano de Ordenamento de Orla Costeira da Ilha das Flores | Frente Urbana Litoral de Lajes das Flores |
-| Plano de Ordenamento de Orla Costeira da Ilha das Flores | Domínio Público Marítimo |
-| Plano de Ordenamento de Orla Costeira da Ilha das Flores | Reserva Ecológica Regional |
-| Plano de Ordenamento de Orla Costeira da Ilha das Flores | Domínio Público Lacustre e Fluvial/Leitos, Margens e Águas Particulares |
-| Plano de Ordenamento de Orla Costeira da Ilha das Flores | Áreas de Vocação Recreativa |
-| Plano de Ordenamento de Orla Costeira da Ilha das Flores | Áreas Florestais |
-| Plano de Ordenamento de Orla Costeira da Ilha das Flores | Áreas Agrícolas |
-| Plano de Ordenamento de Orla Costeira da Ilha das Flores | Áreas de Interesse Cultural e Paisagístico |
-| Plano de Ordenamento de Orla Costeira da Ilha das Flores | Áreas Edificadas |
-| Plano de Ordenamento de Orla Costeira da Ilha das Flores | Imóveis Classificados |
-| Plano de Ordenamento de Orla Costeira da Ilha das Flores | Áreas de Proteção e Conservação da Natureza Marítima |
-| Plano de Ordenamento de Orla Costeira da Ilha das Flores | Áreas de Proteção e Conservação da Natureza Terrestre |
-| Plano de Ordenamento de Orla Costeira da Ilha das Flores | Reserva Integral de Lapas |
+| Áreas de Proteção e Conservação da Natureza Terrestre |  |
+| Zona de Proteção Especial |  |
+| Área de Jurisdição Portuária |  |
+| Área de Projeto das Lajes das Flores |  |
+| Frente Urbana Litoral de Lajes das Flores |  |
+| Domínio Público Marítimo |  |
+| Reserva Ecológica Regional |  |
+| Domínio Público Lacustre e Fluvial/Leitos, Margens e Águas Particulares |  |
+| Áreas de Vocação Recreativa |  |
+| Áreas Florestais |  |
+| Áreas Agrícolas |  |
+| Áreas de Interesse Cultural e Paisagístico |  |
+| Áreas Edificadas |  |
+| Imóveis Classificados |  |
+| Áreas de Proteção e Conservação da Natureza Marítima |  |
+| Áreas de Proteção e Conservação da Natureza Terrestre |  |
+| Reserva Integral de Lapas |  |
 | Plano Diretor Municipal das Lajes das Flores | Espaços Urbanos |
-| Plano Diretor Municipal das Lajes das Flores | Espaços Naturais |
-| Plano Diretor Municipal das Lajes das Flores | Espaços Florestais de Produção |
-| Plano Diretor Municipal das Lajes das Flores | Zona de Proteção Especial |
-| Plano Diretor Municipal das Lajes das Flores | Reserva Ecológica Regional |
-| Plano Diretor Municipal das Lajes das Flores | Sítios de Importância Comunitária |
-| Plano Diretor Municipal das Lajes das Flores | Domínio Hídrico (Leitos dos Cursos de Água) |
-| Plano Diretor Municipal das Lajes das Flores | Espaços Afetos às Instalações de Interesse Público - Portos |
-| Plano Diretor Municipal das Lajes das Flores | Espaços Agrícolas não incluídos na Reserva Agrícola Regional |
-| Plano Diretor Municipal das Lajes das Flores | Perímetro Florestal |
-| Plano Diretor Municipal das Lajes das Flores | Rede Municipal de Estradas e Caminhos |
-| Plano Diretor Municipal das Lajes das Flores | Caminho/Estradas |
+| Espaços Naturais |  |
+| Espaços Florestais de Produção |  |
+| Zona de Proteção Especial |  |
+| Reserva Ecológica Regional |  |
+| Sítios de Importância Comunitária |  |
+| Domínio Hídrico (Leitos dos Cursos de Água) |  |
+| Espaços Afetos às Instalações de Interesse Público - Portos |  |
+| Espaços Agrícolas não incluídos na Reserva Agrícola Regional |  |
+| Perímetro Florestal |  |
+| Rede Municipal de Estradas e Caminhos |  |
+| Caminho/Estradas |  |
 | Conservação da Natureza | PTZPE0021 - Costa Sul e Sudoeste |
-| Conservação da Natureza | IBA PT052 - Costa das Flores |
-| Conservação da Natureza | Zona Tampão da Reserva da Biosfera da Ilha das Flores |
-| Conservação da Natureza | Zona de Transição da Reserva da Biosfera das Flores |
+| IBA PT052 - Costa das Flores |  |
+| Zona Tampão da Reserva da Biosfera da Ilha das Flores |  |
+| Zona de Transição da Reserva da Biosfera das Flores |  |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| Unidades Operativas de Gestão |  |
 | --- | --- |
 | FLO07.01 - Costa Sul e Sudoeste | Área prioritária para a conservação (257,24 ha) |
 | FLO07.02 - Ribeira da Lapa | Área de proteção complementar (14,80 ha) |
 | FLO07.03 A, B, C, D - Zona Agrícola Costa Sul e Sudoeste | Área de uso sustentável dos recursos (A - 36,63 ha; B - 87,69 ha; C - 77,24 ha; D - 21,03 ha) |
 | FLO07.04 - Porto das Lajes | Área de uso sustentável dos recursos (2,23 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| Elementos de fruição da paisagem |  |
 | --- | --- |
 | Trilhos |  |
 | PR02 FLO/GR01 FLO ETAPA2 | Manutenção e beneficiação |
@@ -1953,20 +2091,20 @@ OB6. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.7.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial |
-| FLO07.01 | M1.1. |  |  |  |  |  |  |  |  | M6.9. |  |
-| FLO07.02 | M1.1. |  |  |  | M3.16. |  | M4.6. |  |  |  |  |
-| FLO07.03AFLO07.03BFLO07.03CFLO07.03D | M1.1. |  | M2.25. |  | M3.16. |  |  |  |  | M6.9. |  |
-| FLO07.04 | M1.1. |  |  |  | M3.14. |  | M4.21. | M4.22. |  |  |  |
+| Medidas de Gestão |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Unidade Operativa de Gestão | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial |  |  |  |  |
+| FLO07.01 | M1.1. |  |  |  |  | M6.9. |  |  |  |
+| FLO07.02 | M1.1. |  |  | M3.16. |  | M4.6. |  |  |  |
+| FLO07.03AFLO07.03BFLO07.03CFLO07.03D | M1.1. |  | M2.25. |  | M3.16. |  |  | M6.9. |  |
+| FLO07.04 | M1.1. |  |  | M3.14. |  | M4.21. | M4.22. |  |  |
 
-| Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão |
+| Medidas de Gestão |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |
+| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes |  |  |  |  |  |  |  |  |  |  |  |  |
 | FLO07.01 | M7.2. | M7.3. | M7.7. | M7.10. | M7.11. | M7.17. | M7.18. | M7.24. | M7.30. | M7.32. | M7.33. | M8.25. | M8.28. |  |
-| FLO07.02 | M7.3. | M7.18. |  |  |  |  |  |  |  |  |  | M8.44. |  |  |
-| FLO07.03AFLO07.03BFLO07.03CFLO07.03D | M7.11. | M7.17. | M7.18. | M7.31. |  |  |  |  |  |  |  | M8.25. | M8.28. |  |
+| FLO07.02 | M7.3. | M7.18. |  | M8.44. |  |  |  |  |  |  |  |  |  |  |
+| FLO07.03AFLO07.03BFLO07.03CFLO07.03D | M7.11. | M7.17. | M7.18. | M7.31. |  | M8.25. | M8.28. |  |  |  |  |  |  |  |
 | FLO07.04 | M7.6. | M7.13. | M7.17. | M7.18. | M7.30. |  |  |  |  |  |  |  |  |  |
 
 5.7.3 - Medidas de gestão
@@ -2015,7 +2153,7 @@ OB6. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.8 - Proposta de Intervenção para a Área de Paisagem Protegida da Zona Central e Falésia da Costa Oeste (FLO08)
 
-| Condicionantes | Condicionantes |
+| Condicionantes |  |
 | --- | --- |
 | Plano de Ordenamento de Orla Costeira das Flores | Áreas Agrícolas |
 |  | Áreas de Proteção e Conservação da Natureza Terrestre |
@@ -2067,7 +2205,7 @@ OB6. Permitir que a população local usufrua de benefícios que resultem da pr�
 |  | Zona Tampão da Reserva da Biosfera das Flores |
 |  | Zona de Transição da Reserva da Biosfera das Flores |
 
-| Unidades Operativas de Gestão | Unidades Operativas de Gestão |
+| Unidades Operativas de Gestão |  |
 | --- | --- |
 | FLO08.01 - Rocha Negra | Área de Proteção Parcial e Área de Intervenção Específica (133,73 ha) |
 | FLO08.02 - Falésia da Costa Oeste | Área de Proteção Parcial (239,35 ha) |
@@ -2079,12 +2217,12 @@ OB6. Permitir que a população local usufrua de benefícios que resultem da pr�
 | FLO08.08 - Zona Agrícola da Fajã e Fajãzinha | Área de uso sustentável dos recursos e área de intervenção específica (172,82 ha) |
 | FLO08.09 - Picada e Rochão da Ventosa | Área de uso sustentável dos recursos (349,60 ha) |
 
-| Elementos de fruição da paisagem | Elementos de fruição da paisagem |
+| Elementos de fruição da paisagem |  |
 | --- | --- |
-| Trilhos | Trilhos |
+| Trilhos |  |
 | PR02 FLO/GR01 FLO ETAPA2 | Manutenção e beneficiação |
 | PR03 FLO | Manutenção e beneficiação |
-| Miradouros | Miradouros |
+| Miradouros |  |
 | FLO.M20 - Miradouro da Rocha dos Bordões | Manutenção e beneficiação |
 | FLO.M21 - Miradouro do Portal | Manutenção e beneficiação |
 | FLO.M22 - Miradouro Craveiro Lopes | Manutenção e beneficiação |
@@ -2112,31 +2250,31 @@ OB8. Contribuir para o desenvolvimento da comunidade local através dos benefíc
 
 5.8.2 - Quadro-resumo das medidas de gestão
 
-| Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M1 - Medidas gerais | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M2 - Medidas relacionadas com a agricultura e habitats abertos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial | M6 - Medidas relacionadas com planeamento espacial |
-| FLO08.01 | M1.1. |  |  |  |  |  | M4.9. |  |  |  |  |  |
-| FLO08.02 | M1.1. |  |  |  |  |  | M4.4. | M4.6. | M4.12. | M6.5. | M6.9. |  |
-| FLO08.03 | M1.1. |  |  |  |  |  | M4.6. | M4.9. |  |  |  |  |
-| FLO08.04 | M1.1. |  |  |  | M3.16. |  | M4.9. |  |  |  |  |  |
-| FLO08.05 | M1.1. |  |  |  | M3.16. |  | M4.9. |  |  | M6.17. |  |  |
-| FLO08.06 | M1.1. |  |  |  |  |  |  |  |  |  |  |  |
-| FLO08.07 | M1.1. |  |  |  |  |  |  |  |  |  |  |  |
-| FLO08.08 | M1.1. |  | M2.4. | M2.25. |  |  |  |  |  | M6.9. |  |  |
-| FLO08.09 | M1.1. |  | M2.4. |  |  |  |  |  |  |  |  |  |
+| Medidas de Gestão |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Unidade Operativa de Gestão | M1 - Medidas gerais | M2 - Medidas relacionadas com a agricultura e habitats abertos | M3 - Medidas relacionadas com florestas e habitats lenhosos | M4 - Medidas relacionadas com zonas húmidas, águas correntes e habitats costeiros | M6 - Medidas relacionadas com planeamento espacial |  |  |  |  |  |
+| FLO08.01 | M1.1. |  |  |  | M4.9. |  |  |  |  |  |
+| FLO08.02 | M1.1. |  |  |  | M4.4. | M4.6. | M4.12. | M6.5. | M6.9. |  |
+| FLO08.03 | M1.1. |  |  |  | M4.6. | M4.9. |  |  |  |  |
+| FLO08.04 | M1.1. |  |  | M3.16. |  | M4.9. |  |  |  |  |
+| FLO08.05 | M1.1. |  |  | M3.16. |  | M4.9. |  | M6.17. |  |  |
+| FLO08.06 | M1.1. |  |  |  |  |  |  |  |  |  |
+| FLO08.07 | M1.1. |  |  |  |  |  |  |  |  |  |
+| FLO08.08 | M1.1. |  | M2.4. | M2.25. |  |  | M6.9. |  |  |  |
+| FLO08.09 | M1.1. |  | M2.4. |  |  |  |  |  |  |  |
 
-| Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão | Medidas de Gestão |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M9 - Medidas relacionadas com uso especial dos recursos | M9 - Medidas relacionadas com uso especial dos recursos |
-| FLO08.01 | M7.4. | M7.10. | M7.11. | M7.17. | M7.18. | M7.24. | M7.32. |  |  |  |  |  |  |  |
-| FLO08.02 | M7.3. | M7.10. | M7.11. | M7.17. | M7.30. | M7.32. |  |  | M8.25, | M8.42, | M8.44, |  |  |  |
-| FLO08.03 | M7.3. | M7.10. | M7.11. | M7.17. |  |  |  |  |  |  |  |  | M9.5. |  |
-| FLO08.04 | M7.3. | M7.10. | M7.11. | M7.17. | M7.30. |  |  |  | M8.25. |  |  |  |  |  |
-| FLO08.05 | M7.3. | M7.10. | M7.11. |  |  |  |  |  |  |  |  |  |  |  |
-| FLO08.06 | M7.10. | M7.11. |  |  |  |  |  |  |  |  |  |  |  |  |
-| FLO08.07 | M7.2. | M7.3. | M7.10. | M7.11. |  |  |  |  | M8.25. |  |  |  |  |  |
-| FLO08.08 | M7.3. | M7.11. |  |  |  |  |  |  | M8.25. |  |  |  |  |  |
-| FLO08.09 | M7.11. |  |  |  |  |  |  |  |  |  |  |  | M9.5. |  |
+| Medidas de Gestão |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Unidade Operativa de Gestão | M7 - Medidas relacionadas com gestão de habitats e espécies, caça, recoleção e pesca | M8 - Medidas relacionadas com áreas urbanas, indústria, energia, turismo e transportes | M9 - Medidas relacionadas com uso especial dos recursos |  |  |  |  |  |  |  |  |  |
+| FLO08.01 | M7.4. | M7.10. | M7.11. | M7.17. | M7.18. | M7.24. | M7.32. |  |  |  |  |  |
+| FLO08.02 | M7.3. | M7.10. | M7.11. | M7.17. | M7.30. | M7.32. |  | M8.25, | M8.42, | M8.44, |  |  |
+| FLO08.03 | M7.3. | M7.10. | M7.11. | M7.17. |  |  | M9.5. |  |  |  |  |  |
+| FLO08.04 | M7.3. | M7.10. | M7.11. | M7.17. | M7.30. |  | M8.25. |  |  |  |  |  |
+| FLO08.05 | M7.3. | M7.10. | M7.11. |  |  |  |  |  |  |  |  |  |
+| FLO08.06 | M7.10. | M7.11. |  |  |  |  |  |  |  |  |  |  |
+| FLO08.07 | M7.2. | M7.3. | M7.10. | M7.11. |  | M8.25. |  |  |  |  |  |  |
+| FLO08.08 | M7.3. | M7.11. |  | M8.25. |  |  |  |  |  |  |  |  |
+| FLO08.09 | M7.11. |  |  | M9.5. |  |  |  |  |  |  |  |  |
 
 5.8.3 - Medidas de gestão
 
@@ -2191,8 +2329,8 @@ OB8. Contribuir para o desenvolvimento da comunidade local através dos benefíc
 |  |  | M7.10. | Caracterização das espécies protegidas de flora e das manchas de habitats protegidos. |
 |  |  | M7.11. | Monitorização das espécies de flora e das manchas de habitats protegidos em toda a área. |
 | FLO08.06 | Área de proteção complementar | M1.1. | Fiscalização da área protegida pelos vigilantes da natureza. |
-| FLO08.06 | Área de proteção complementar | M7.10. | Caracterização das espécies protegidas de flora e das manchas de habitats protegidos. |
-| FLO08.06 | Área de proteção complementar | M7.11. | Monitorização das espécies de flora e das manchas de habitats protegidos em toda a área. |
+| M7.10. | Caracterização das espécies protegidas de flora e das manchas de habitats protegidos. |  |  |
+| M7.11. | Monitorização das espécies de flora e das manchas de habitats protegidos em toda a área. |  |  |
 | FLO08.07 | Área prioritária para a conservação | M1.1. | Fiscalização de área protegida pelos vigilantes da natureza. |
 |  |  | M7.2. | Caracterização da avifauna nidificante. |
 |  |  | M7.3. | Monitorização de avifauna nidificante. |
@@ -2207,9 +2345,9 @@ OB8. Contribuir para o desenvolvimento da comunidade local através dos benefíc
 |  |  | M7.11. | Monitorização das espécies de flora e das manchas de habitats protegidos em toda a área. |
 |  |  | M8.25. | Manutenção e beneficiação do trilho PR02 FLO. |
 | FLO08.09 | Área de uso sustentável dos recursos | M1.1. | Fiscalização de área protegida pelos vigilantes da natureza. |
-| FLO08.09 | Área de uso sustentável dos recursos | M2.4. | Ações de sensibilização para diminuição da utilização de fitofarmacêutico - herbicidas e pesticidas - nas pastagens e prados naturais existentes na área. |
-| FLO08.09 | Área de uso sustentável dos recursos | M7.11. | Monitorização das espécies de flora e das manchas de habitats protegidos em toda a área. |
-| FLO08.09 | Área de uso sustentável dos recursos | M9.5. | Recuperação paisagística de zona de extração de inertes (zona de extração de inertes em atividade dos Terreiros). |
+| M2.4. | Ações de sensibilização para diminuição da utilização de fitofarmacêutico - herbicidas e pesticidas - nas pastagens e prados naturais existentes na área. |  |  |
+| M7.11. | Monitorização das espécies de flora e das manchas de habitats protegidos em toda a área. |  |  |
+| M9.5. | Recuperação paisagística de zona de extração de inertes (zona de extração de inertes em atividade dos Terreiros). |  |  |
 
 5.9 - Gestão e monitorização de cavidades vulcânicas protegidas
 
@@ -2273,7 +2411,8 @@ O resultado das ações de monitorização do grau de concretização do Plano d
 
 Tendo em conta os macro objetivos, domínios e subdomínios definidos para a Região Autónoma dos Açores, o modelo de gestão territorial definido para os Planos de Gestão dos Parques Naturais de Ilha é o seguinte:
 
-![](https://files.diariodarepublica.pt/images/1154555182/1154555152.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1154555182/1154555152.png) |
+| --- |
 
 6.2 - Indicadores
 
@@ -2798,3 +2937,7 @@ Tabela 9 - Listagem de espécies de mamíferos por área protegida do PNI das Fl
 1 Espécie protegida pela Diretiva Habitats e/ou Convenção de Berna.
 
 P Taxon prioritário para a conservação (anexo ii do [Decreto Legislativo Regional n.º 15/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2012-553893), de 2 de abril.
+
+119949004
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:83px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(247,229,243); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(247,229,243); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl9 { min-height:105px; } .Tbl10 { min-height:94px; } .Tbl11 { min-height:67px; } .Tbl12 { min-height:139px; } .Tbl13 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl14 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl15 { min-height:103px; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl17 { min-height:77px; } .Tbl18 { text-align:justify; text-align-last:justify; } .Tbl19 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl21 { border-collapse:collapse; border-width:1px; border-color:rgb(126,126,126); } .Tbl22 { min-height:23px; } .Tbl23 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(225,153,206); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl24 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(225,153,206); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl25 { min-height:272px; } .Tbl26 { min-height:72px; } .Tbl27 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl28 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl29 { min-height:84px; } .Tbl30 { border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl31 { border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl32 { min-height:289px; } .Tbl33 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl34 { border-collapse:collapse; border-width:1px; border-color:rgb(166,166,166); } .Tbl35 { min-height:18px; } .Tbl36 { min-height:28px; } .Tbl37 { min-height:62px; } .Tbl38 { min-height:53px; } .Tbl39 { min-height:43px; } .Tbl40 { min-height:108px; } .Tbl41 { min-height:87px; } .Tbl42 { min-height:102px; } .Tbl43 { min-height:68px; } .Tbl44 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,219,224); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl45 { min-height:27px; } .Tbl46 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(225,153,206); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl47 { min-height:19px; } .Tbl48 { min-height:37px; } .Tbl49 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(225,153,206); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl50 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl51 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,211,150); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl52 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(194,214,155); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl53 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(225,153,206); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl54 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(200,217,175); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl55 { border-collapse:collapse; border-width:1px; border-color:rgb(166,166,166); border-style:dotted; } .Tbl56 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl57 { border-bottom-color:rgb(88,88,87); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl58 { min-height:64px; } .Tbl59 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(192,128,146); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl60 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(88,88,87); border-left-style:solid; vertical-align:top; } .Tbl61 { border-bottom-color:rgb(88,88,87); border-top-color:rgb(88,88,87); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(88,88,87); border-bottom-width:1px; background-color:rgb(255,200,124); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(88,88,87); border-left-style:solid; vertical-align:top; } .Tbl62 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(88,88,87); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl63 { min-height:33px; } .Tbl64 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(88,88,87); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl65 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(240,206,154); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl66 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(193,128,146); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl67 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(240,206,159); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl68 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(236,194,135); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl69 { min-height:65px; } .Tbl70 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl71 { min-height:44px; } .Tbl72 { border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl73 { min-height:38px; } .Tbl74 { min-height:29px; } .Tbl75 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl76 { min-height:35px; } .Tbl77 { border-bottom-color:rgb(63,62,62); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(194,214,155); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl78 { min-height:60px; } .Tbl79 { border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(63,62,62); border-left-style:solid; vertical-align:top; } .Tbl80 { border-bottom-color:rgb(63,62,62); border-top-color:rgb(63,62,62); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(63,62,62); border-bottom-width:1px; background-color:rgb(186,114,135); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(63,62,62); border-left-style:solid; vertical-align:top; } .Tbl81 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(63,62,62); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl82 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(63,62,62); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(236,194,135); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl83 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(235,193,134); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl84 { min-height:39px; } .Tbl85 { min-height:70px; } .Tbl86 { min-height:74px; } .Tbl87 { min-height:71px; } .Tbl88 { min-height:54px; } .Tbl89 { min-height:34px; } .Tbl90 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(238,200,147); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl91 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl92 { min-height:49px; } .Tbl93 { margin-top:0px; } .Tbl94 { min-height:40px; } .Tbl95 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl96 { border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl97 { min-height:56px; } .Tbl98 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(196,128,131); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl99 { min-height:50px; } .Tbl100 { min-height:69px; } .Tbl101 { min-height:59px; } .Tbl102 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl103 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl104 { min-height:15px; } .Tbl105 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl106 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl107 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl108 { min-height:57px; } .Tbl109 { min-height:17px; } .Tbl110 { min-height:47px; } .Tbl111 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(189,114,119); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl112 { min-height:31px; } .Tbl113 { margin-top:3px; } .Tbl114 { min-height:58px; } .Tbl115 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(235,193,135); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl116 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(221,140,200); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl117 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(221,140,200); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl118 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(188,113,118); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl119 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:bottom; } .Tbl120 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(188,114,121); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl121 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(200,127,94); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl122 { min-height:36px; } .Tbl123 { min-height:55px; } .Tbl124 { min-height:48px; } .Tbl125 { min-height:66px; } .Tbl126 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(225,153,206); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl127 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl128 { border-collapse:collapse; border-width:1px; border-style:dotted; } .Tbl129 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl130 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl131 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl132 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(217,127,194); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; }

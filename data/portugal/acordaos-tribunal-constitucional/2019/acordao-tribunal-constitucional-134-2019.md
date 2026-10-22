@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/04/06600/0182601835.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/134/2019/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/134-2019-121942396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-03T00:00:00Z'
+  retrieved_at: '2026-10-22T18:24:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb03564e23814e7618874ee06fa4ff01887384c06b6dc906f59773aaf6b1c4d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d02b3f6e452e7773249e2c96b35aaefd14a85632cb813cdcc4c8e76f13c6e10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:24:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -100,13 +100,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:24:54Z'
   warnings: []
   errors: []
 ---
@@ -346,3 +346,5 @@ Acompanhando sem quaisquer reservas a declaração de inconstitucionalidade da n
 Conforme creio resultar da fundamentação sufragada neste último aresto, o problema diretamente colocado pela norma sindicada, para além de assumir uma configuração mais restrita do que aquela que lhe é dada no presente Acórdão, situa-se num momento prévio àquele em que tem lugar a averiguação pressuposta pela resposta à questão de saber se ocorreu uma lesão da tutela da confiança: trata-se não de saber se, ao prescrever que o «regime da aposentação voluntária» se fixa «com base na lei em vigor [...] na data em que se profira despacho a reconhecer o direito à aposentação», o legislador interveio em sentido contrário às expectativas que, com a sua atuação, legitimamente fundara nos respetivos destinatários, mas, previamente a tal, de determinar se, neste como em outros domínios, é de modo a permitir a formulação das expectativas necessárias à elaboração de quaisquer planos de vida, que com o princípio da proteção da confiança se tutelam, a consagração de um critério determinativo da lei aplicável que faça depender o preenchimento dos pressupostos para o reconhecimento de um determinado direito ou as condições da sua efetivação ou exercício do regime que vigorar no exato momento, necessariamente incerto, em que vier a ser praticado determinado ato que apenas ao Estado cabe (decidir) praticar.
 
 É por entender que o princípio do Estado de direito, consagrado no artigo 2.º da Constituição, proíbe que a designação do regime aplicável seja colocada na direta e exclusiva dependência do comportamento dos órgãos da Administração, que não tive dúvidas em considerar violado o primeiro dos parâmetros em que se funda o juízo subjacente à presente declaração de inconstitucionalidade. - Joana Fernandes Costa.
+
+112178986

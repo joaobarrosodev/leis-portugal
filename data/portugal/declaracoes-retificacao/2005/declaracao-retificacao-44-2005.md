@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/06/111a00/36543654.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/44/2005/06/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/44-2005-227413
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-30T00:00:00Z'
+  retrieved_at: '2026-10-22T19:05:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e641e81d15914055ce190d557918bee39e54cb32bc0a39a029ebbedb27fe2a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3633ee7209fa288e496dceebf91dbafd18319f8ab76243664aca296756de998d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:05:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,33 +68,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Açores
+- Águas Residuais
 - Aproximação das Legislações
-- Gestão de Resíduos
-- Incineração
-- Multa
 - Contra-ordenação
 - Controlo de Qualidade
-- Definição de Competências
 - Controlo Sanitário
-- Saúde Pública
+- Definição de Competências
+- Eliminação de Resíduos
 - Fiscalização
-- Seguro
-- Transporte de Resíduos
+- Gestão de Resíduos
+- Incineração
 - Inspecção Geral do Ambiente
 - Instalação de Incineração
-- Publicitação
-- Licenciamento
-- Medidas Preventivas
 - Instituto dos Resíduos
-- Proteção do Ambiente
-- Águas Residuais
+- Licenciamento
 - Madeira.região Autónoma
-- Regime Jurídico
+- Medidas Preventivas
+- Multa
 - Poluição
+- Proteção do Ambiente
+- Publicitação
+- Regime Jurídico
 - Responsabilidade Civil
 - Responsabilidade Extracontratual
-- Açores
-- Eliminação de Resíduos
+- Saúde Pública
+- Seguro
+- Transporte de Resíduos
 relationships:
 - type: amended_by
   target: pt:dre:499546:por
@@ -108,16 +108,31 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/85/2005/04/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/85/2005/04/28/p/dre
+- type: cites
+  target: pt:dre:532798:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:85/2005
+  label: "Rectifica o Decreto-Lei n.º 85/2005, de 28 de Abril, DR.IS-A [82]\0\0"
+  source: null
+  date: '2005-04-28'
+- type: repealed_by
+  target: pt:dre:499546:por
+  label: "Revogado o Dec Lei 85/2005 de 28-abr DR.IS-A [82], retificado pelo presente diploma, pelo DEC LEI.127/2013.30.08.2013.MAMAOT,\
+    \ DR.IS [167] de 30.08.2013 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/127-2013-499546
+  date: '2013-08-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:05:05Z'
   warnings: []
   errors: []
 ---

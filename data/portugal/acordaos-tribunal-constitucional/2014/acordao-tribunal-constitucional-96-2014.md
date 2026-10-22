@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/96/2014/03/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/96-2014-572150
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-06T00:00:00Z'
+  retrieved_at: '2026-10-22T18:24:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b348d8b3b2d44ee706602341538f2135674f7d2156081ccd4701c39d905885d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3260e66d73e6592ac7532d3e07c64eed474c3a2462f51a1c0d6366f73b8eb1ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:24:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Política de Saúde
-- Inconstitucionalidade
-- Tribunal Constitucional
 - Assembleia Legislativa
-- Prestação de Serviços
+- Inconstitucionalidade
 - Madeira.região Autónoma
+- Política de Saúde
+- Prestação de Serviços
 - Serviço Regional de Saúde
 - Serviços de Urgência
 - Taxa
 - TAXA Moderadora
+- Tribunal Constitucional
 - Utente
 relationships:
 - type: cites
@@ -96,16 +96,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/27/2002/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/27/2002/11/08/p/dre
+- type: cites
+  target: pt:dre:146061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:24:34Z'
   warnings: []
   errors: []
 ---
@@ -156,13 +176,17 @@ Objeto
 
 2 - O regime referido no número anterior é aplicável à Região com as adaptações e especificidades decorrentes do artigo seguinte.
 
-###### Artigo 2.º — Taxas moderadoras
+Artigo 2.º
+
+Taxas moderadoras
 
 1 - O acesso à prestação de cuidados de saúde, no âmbito do Serviço Regional de Saúde da Região Autónoma da Madeira, implica o pagamento de taxas moderadoras no serviço de urgência do Hospital Dr. Nélio Mendonça, aos utentes a quem seja atribuído, no âmbito do Sistema de Triagem de Manchester, a prioridade pouco urgente (cor verde) e a prioridade não urgente (cor azul).
 
 2 - Os atos e os valores das taxas moderadoras são os que vigoram para o Serviço Nacional de Saúde.
 
-###### Artigo 3.º — Entrada em vigor
+Artigo 3.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no 1.º dia útil do mês seguinte ao da sua publicação.»
 

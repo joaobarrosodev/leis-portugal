@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 25/2000, 1º Suplemento, Série I-A de 2000-01-31
   number: '25'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 430-(4) a 430-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/01/025a01/00040004.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/4-h/2000/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-h-2000-596730
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-01-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:56:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4369140124a3b81b8a8b9a56989afad59c5dc7d2c68bd3acee43ab75918674a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7e5315a9a9c349f4a76c108bc68e9fdd53b6efd3ac8cdc871f4e0a2de2c3b9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:56:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,18 +69,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Embarcação
-- Transporte Marítimo
+- Comércio
 - Contra-ordenação
-- União Europeia
+- Embarcação
 - Fiscalização
 - Salvação Marítima
 - Salvaguarda da VIDA Humana no MAR
 - Sanção
 - Segurança Marítima
 - Taxa
-- Comércio
 - Transporte de Passageiros
+- Transporte Marítimo
+- União Europeia
 relationships:
 - type: cites
   target: celex:31998L0041
@@ -90,16 +90,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/547/1999/12/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/547/1999/12/14/p/dre
+- type: cites
+  target: pt:dre:633294:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:56:01Z'
   warnings: []
   errors: []
 ---

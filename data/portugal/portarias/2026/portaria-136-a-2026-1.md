@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/136-a/2026/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/136-a-2026-1080481662
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:37:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5526870f59122368f1987722bfd5afd77e295b0196150d75373adf5570e76b6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1738735e33dc7e27d7c18b46373e38ad1a678ef0a7001b9ad414e6667770814
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:37:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
-- Estabelecimento Comercial
-- Regulamentação de Atos Legislativos
-- Direção Geral de Alimentação e Veterinária
-- Produto Agro-alimentar
-- Proteção do Consumidor
-- Taxa de Segurança Alimentar mais
 - Comércio
+- Direção Geral de Alimentação e Veterinária
+- Estabelecimento Comercial
 - Produto Agrícola
+- Produto Agro-alimentar
+- Produto Alimentar
 - Produto Animal
+- Proteção do Consumidor
+- Regulamentação de Atos Legislativos
+- Taxa de Segurança Alimentar mais
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/102/2017/08/23/p/dre
@@ -96,16 +96,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/215/2012/07/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/215/2012/07/17/p/dre
+- type: cites
+  target: pt:dre:108041482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513605:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:37:04Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +136,7 @@ de 31 de março
 
 O [Decreto-Lei n.º 119/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2012-178814), de 15 de junho, alterado pelo [Decreto-Lei n.º 102/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2017-108041482), de 23 de agosto, e [Decreto-Lei n.º 9/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), de 29 de janeiro, criou o Fundo Sanitário e de Segurança Alimentar Mais, com os objetivos fixados no seu artigo 3.º, os quais visam a proteção da segurança alimentar e da saúde do consumidor.
 
-Na prossecução dos objetivos acima enunciados, tendo em vista assegurar a contribuição necessária ao financiamento das ações a desenvolver, foi simultaneamente prevista a «taxa de segurança alimentar mais», regulamentada pelas Portarias n.<sup>os</sup> [215/2012](https://diariodarepublica.pt/dr/detalhe/portaria/215-2012-179537), de 17 de julho, e [200/2013](https://diariodarepublica.pt/dr/detalhe/portaria/200-2013-513605), de 31 de maio, cujo montante é fixado anualmente, por portaria dos membros do Governo responsáveis pelas áreas das finanças e da agricultura.
+Na prossecução dos objetivos acima enunciados, tendo em vista assegurar a contribuição necessária ao financiamento das ações a desenvolver, foi simultaneamente prevista a «taxa de segurança alimentar mais», regulamentada pelas Portarias n.os [215/2012](https://diariodarepublica.pt/dr/detalhe/portaria/215-2012-179537), de 17 de julho, e [200/2013](https://diariodarepublica.pt/dr/detalhe/portaria/200-2013-513605), de 31 de maio, cujo montante é fixado anualmente, por portaria dos membros do Governo responsáveis pelas áreas das finanças e da agricultura.
 
 Nos termos do n.º 1 do artigo 9.º do referido [Decreto-Lei n.º 119/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2012-178814), o valor anual da taxa é fixado entre 5 € e 8 € por metro quadrado de área de venda do estabelecimento.
 
@@ -136,4 +156,6 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação e prod
 
 Em 25 de março de 2026.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento. - O Ministro da Agricultura e Mar, José Manuel Fernandes.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento. - O Ministro da Agricultura e Mar, José Manuel Fernandes.
+
+119948112

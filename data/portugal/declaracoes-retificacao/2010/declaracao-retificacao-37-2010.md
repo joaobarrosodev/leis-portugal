@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/37/2010/12/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/37-2010-306433
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-26T00:00:00Z'
+  retrieved_at: '2026-10-22T19:12:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3cff12342bea0369b39dcd28ebac93e9e7a5afb5df4126a00df92924a3dfa856
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0db43ee4b531a9e1cd773ee1442d55ab42a27f2dc783405cfdf115b2419a31a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:12:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,20 +69,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
 - Aproximação das Legislações
+- Comércio
+- Medicamento Veterinário
+- Produto Químico
 - Proteção dos Animais
-- Saúde Pública
 - Proteção Fitossanitária
 - Regime Jurídico
-- Medicamento Veterinário
-- Comércio
 - Saúde Animal
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:497401:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:259897:por
+  label: "Alterado o anexo I do Dec Lei 121/2002 de 03-mai, com as alterações constantes do Dec Lei 112/2010 de 10-out - retificado\
+    \ pelo presente diploma, pelo DEC LEI.40/2013.18.03.2013.MS, DR.IS [54] de 18.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-2013-259897
+  date: '2013-03-18'
+- type: amended_by
+  target: pt:dre:497401:por
+  label: "Altera, com efeitos a partir de 01.02.2015, o anexo I do Dec Lei 121/2002 de 03-mai, com as alterações introduzidas\
+    \ pelo Dec Lei 112/2010 de 20-out, retificado pelo presente diploma, pelo DEC LEI.85/2013.26.06.2013.MS, DR.IS [121] de\
+    \ 26.06.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/85-2013-497401
+  date: '2013-06-26'
 - type: cites
   target: celex:31998L0008
   label: null
@@ -130,13 +143,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:12:53Z'
   warnings: []
   errors: []
 ---
@@ -165,11 +178,15 @@ Lista de substâncias activas e seus requisitos decididos a nível comunitário 
 
 As substâncias a incluir nesta lista serão indicadas por decisão a nível comunitário, em conformidade com os procedimentos previstos no artigo 28.º da Directiva n.º [98/8/CE](https://data.europa.eu/eli/dir/1998/8/oj?locale=pt), de 16 de Fevereiro.
 
-## ANEXO I-B — Lista de substâncias de base e seus requisitos decididos a nível comunitário
+ANEXO I-B
+
+Lista de substâncias de base e seus requisitos decididos a nível comunitário
 
 As substâncias a incluir nesta lista serão indicadas por decisão a nível comunitário, em conformidade com os procedimentos previstos no artigo 28.º da Directiva n.º [98/8/CE](https://data.europa.eu/eli/dir/1998/8/oj?locale=pt), de 16 de Fevereiro.
 
-## ANEXO II-A — Conjunto de dados genéricos comuns para as substâncias activas
+ANEXO II-A
+
+Conjunto de dados genéricos comuns para as substâncias activas
 
 Substâncias químicas
 
@@ -425,7 +442,9 @@ X - Resumo e avaliação de II a IX.
 
 (5) Se, em casos excepcionais, se alegar que este teste é desnecessário, essa alegação deve ser plenamente comprovada.
 
-## ANEXO II-B — Conjunto de dados genéricos comuns para os produtos biocidas
+ANEXO II-B
+
+Conjunto de dados genéricos comuns para os produtos biocidas
 
 Produtos químicos
 
@@ -609,7 +628,9 @@ X - Resumo e avaliação de II a IX.
 
 (1) Não será necessário proceder a um teste da irritação ocular se tiver sido demonstrado que o produto biocida tem propriedades corrosivas potenciais.
 
-## ANEXO III-A — Dados complementares relativos às substâncias químicas e substâncias activas
+ANEXO III-A
+
+Dados complementares relativos às substâncias químicas e substâncias activas
 
 Substâncias químicas
 
@@ -741,7 +762,9 @@ XIII - Estudos ecotoxicológicos adicionais:
 
 5 - Resumo e avaliação dos n.os 2, 3 e 4.
 
-## ANEXO III-B — Dados complementares relativos aos produtos biocidas
+ANEXO III-B
+
+Dados complementares relativos aos produtos biocidas
 
 Produtos químicos
 
@@ -815,7 +838,9 @@ XII - Estudos ecotoxicológicos adicionais:
 
 4 - Resumo e avaliação dos n.os 1, 2 e 3.
 
-## ANEXO IV-A — Conjunto de dados relativos às substâncias activas
+ANEXO IV-A
+
+Conjunto de dados relativos às substâncias activas
 
 Microrganismos, incluindo vírus e fungos
 
@@ -1059,7 +1084,9 @@ O processo será acompanhado de uma proposta motivada com vista à inclusão do 
 
 X - Resumo e avaliação das rubricas I a XI, incluindo as conclusões da avaliação de risco e recomendações.
 
-## ANEXO IV-B — Conjunto de dados relativos aos produtos biocidas
+ANEXO IV-B
+
+Conjunto de dados relativos aos produtos biocidas
 
 Microrganismos, incluindo vírus e fungos
 
@@ -1275,7 +1302,9 @@ Nos termos do artigo 12.º, devem ser apresentadas propostas que incluam a funda
 
 XII - Resumo e avaliação das rubricas I a XI, incluindo as conclusões da avaliação derisco e recomendações.
 
-## ANEXO V — Tipos de produtos biocidas, na acepção da alínea a) do n.º 1 do artigo 3.º, e respectiva descrição
+ANEXO V
+
+Tipos de produtos biocidas, na acepção da alínea a) do n.º 1 do artigo 3.º, e respectiva descrição
 
 Estes tipos de produtos excluem os produtos abrangidos pelos diplomas referidos no n.º 3 do artigo 2.º e posteriores alterações, para efeitos do disposto nos mesmos.
 
@@ -1335,7 +1364,9 @@ Tipo de produto 22: fluidos de embalsamamento e taxidermia. - Produtos utilizado
 
 Tipo de produto 23: controlo de outros vertebrados. - Produtos utilizados no controlo de outros animais prejudiciais.
 
-## ANEXO VI — Princípios comuns de avaliação dos processos relativos aos produtos biocidas
+ANEXO VI
+
+Princípios comuns de avaliação dos processos relativos aos produtos biocidas
 
 I - Definições
 

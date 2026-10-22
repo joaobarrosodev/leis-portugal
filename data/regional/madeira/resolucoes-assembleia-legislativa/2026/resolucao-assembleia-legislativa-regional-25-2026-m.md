@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/25/2026/07/29/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/25-2026-1152781828
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-29T00:00:00Z'
+  retrieved_at: '2026-10-22T18:48:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1669e178c9570fe80196c6ba4b35d3d0b03ff070f3508b74cd05a7544339f8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5595bcb3fe173ab426eb4104000c714dcc027f52e173bb50b14d9fb9036159df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:48:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Apoio financeiro
+- Centro de Apoio à Vida Independente
 - Deficiente
-- apoio financeiro
 - Governo Regional
 - Madeira.região Autónoma
-- Centro de Apoio à Vida Independente
 - Modelo de Apoio à Vida Independente
 relationships:
 - type: cites
@@ -101,16 +101,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/79/2024/03/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/79/2024/03/04/p/dre
+- type: cites
+  target: pt:dre:108265124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119556793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225397119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:854054398:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:48:20Z'
   warnings: []
   errors: []
 ---
@@ -137,8 +165,10 @@ Na sequência da avaliação do projeto-piloto, tornou-se evidente a valorizaç�
 
 Neste sentido, a avaliação da implementação do MAVI à realidade da Região Autónoma da Madeira assume relevo enquanto medida de apoio às famílias e pessoas com deficiência.
 
-Assim, a Assembleia Legislativa da Região Autónoma da Madeira resolve, nos termos do n.º 3 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, recomendar ao Governo Regional a avaliação da implementação do MAVI à realidade regional, assente na prestação de assistência pessoal individualizada, em articulação com o Centro de Inclusão Social da Madeira e com as entidades da economia social, assegurando a sua natureza técnica, proximidade territorial e orientação para a autodeterminação dos beneficiários.
+Assim, a Assembleia Legislativa da Região Autónoma da Madeira resolve, nos termos do n.º 3 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, recomendar ao Governo Regional a avaliação da implementação do MAVI à realidade regional, assente na prestação de assistência pessoal individualizada, em articulação com o Centro de Inclusão Social da Madeira e com as entidades da economia social, assegurando a sua natureza técnica, proximidade territorial e orientação para a autodeterminação dos beneficiários.
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 15 de julho de 2026.
 
-**A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.**
+A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.
+
+119949180

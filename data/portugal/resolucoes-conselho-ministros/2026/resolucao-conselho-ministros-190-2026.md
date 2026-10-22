@@ -46,25 +46,36 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/190/2026/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/190-2026-1175177138
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:54:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b7e3430961906184de7322b1a7b64207b5660d95fe5d2da6fcbb77c21b1cea9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: adefb379aa422b87b9107a48a09c55f3b27e172c3b594e8b7a8d36f04459aa46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:54:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Algarve
+- Conselho de Administração
+- Conselho de Ministros
+- Definição de Competências
+- Governo XXV
+- Política de Saúde
+- Prazo
+- Presidente
+- Regulamentação de Atos Legislativos
+- Unidade Local de Saúde
+- Vogal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133/2013/10/03/p/dre
@@ -90,16 +101,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:895967342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:934054876:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:54:10Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +159,7 @@ Foi ouvida, quando a estes últimos, nos termos do n.º 3 do artigo 13.º do [De
 
 Assim:
 
-Nos termos dos n.<sup>os</sup>2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, do artigo 12.º, dos n.<sup>os</sup>1 a 3 do artigo 13.º, do artigo 15.º, da alínea c) do n.º 3 do artigo 20.º e do n.º 8 do artigo 28.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos dos n.os2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, do artigo 12.º, dos n.os1 a 3 do artigo 13.º, do artigo 15.º, da alínea c) do n.º 3 do artigo 20.º e do n.º 8 do artigo 28.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Designar, para exercerem funções no conselho de administração da Unidade Local de Saúde do Algarve, E. P. E., o presidente e cinco vogais executivos, incluindo o vogal indicado pela Comunidade Intermunicipal Algarve, para um mandato de três anos, cuja idoneidade, experiência e competências profissionais para o desempenho dos cargos são evidenciadas nas respetivas notas curriculares, que constam do anexo à presente resolução e da qual faz parte integrante:
 
@@ -253,3 +292,5 @@ Enfermeiro com uma longa e consolidada carreira na área da saúde, marcada por 
 Ao longo do seu percurso profissional, desempenhou múltiplas funções de elevada responsabilidade, com destaque para a coordenação e chefia em vários serviços clínicos, a monitorização de formação e, sobretudo, a liderança de unidades hospitalares. Foi enfermeiro-coordenador e enfermeiro-chefe nos serviços de Cirurgia Geral e de Consulta Externa Geral do Hospital de Faro, entre 1995 e 2011. Posteriormente, assumiu funções como adjunto do enfermeiro-diretor, e mais tarde integrou conselhos de administração como enfermeiro-diretor do Hospital de Faro e, após a criação do Centro Hospitalar do Algarve, como enfermeiro-diretor desta nova unidade. Entre 2016 e 2020, assumiu a posição de enfermeiro gestor em funções de direção no Departamento de Urgência, Emergência e Cuidados Intensivos do Centro Hospitalar e Universitário do Algarve, tendo, entre 2020 e 2025, assumido funções de enfermeiro-gestor no Serviço de Psiquiatria da mesma instituição, agora Unidade Local de Saúde do Algarve. Atualmente e desde 2025 desempenha as funções de enfermeiro-diretor na ULS Algarve.
 
 Em paralelo com o exercício profissional, desenvolveu um percurso académico e formativo orientado para a liderança e gestão em saúde. Concluiu o Curso de Enfermagem Geral na Escola de Enfermagem da Armada Portuguesa e obteve a especialização em Enfermagem de Saúde Pública pela Escola Superior de Enfermagem Artur Ravara. Frequentou ainda diversos programas de formação avançada, entre os quais se destacam o Curso de Gestão e Administração da Saúde (Universidade do Algarve), o Curso de Liderança de Elevado Desempenho na Saúde (AESE), o Programa de Formação em Gestão Pública (INA), e formações nas áreas do Balanced Scorecard, gestão de conflitos, liderança em enfermagem e formação pedagógica.
+
+119949665

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/402/2008/08/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/402-2008-455440
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-18T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f3ed92638bccae716695ddef33099117a5d41a3f8ae52772ea3c914590fdeb9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 067d7fb8a481cc04327b1c89d656e996342030abeb66c59cc710a559ab80d216
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estatuto Político-administrativo da Região Autónoma dos Açores
+- Açores
 - Competência Própria
-- Presidente da República
+- Estatuto Político-administrativo da Região Autónoma dos Açores
 - Inconstitucionalidade
 - Órgãos de Soberania
-- Açores
+- Presidente da República
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/el
@@ -118,16 +118,116 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/79/1998/11/24/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/79/1998/11/24/p/dre
+- type: cites
+  target: pt:dre:195175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666494:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:43Z'
   warnings: []
   errors: []
 ---
@@ -746,7 +846,9 @@ Iniciativa legislativa e referendária regional
 
 7 - O presente artigo aplica-se, com as devidas adaptações, aos anteprojectos e antepropostas de lei.
 
-###### Artigo 46.º — Iniciativa legislativa e referendária dos cidadãos
+Artigo 46.º
+
+Iniciativa legislativa e referendária dos cidadãos
 
 1 - Os cidadãos regularmente inscritos no recenseamento eleitoral no território da Região são titulares do direito de iniciativa legislativa, do direito de participação no procedimento legislativo a que derem origem e do direito de iniciativa referendária.
 

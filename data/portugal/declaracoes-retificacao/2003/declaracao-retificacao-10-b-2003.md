@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 175/2003, 1º Suplemento, Série I-A de 2003-07-31
   number: '175'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4530-(2) a 4530-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2003/07/175a01/00020002.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/10-b/2003/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-b-2003-141012
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:01:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67abb698c30447f42acc20d9aed4491c09e898cfa5bf79d9760a6c1f6cf8a6fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f31408dd5c63f8691a651585e960e87f3cf502244173324466c68c6591e6a3c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:01:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,20 +71,20 @@ subjects:
 - Aproximação das Legislações
 - Cidadão Estrangeiro
 - Código do IVA
-- Política Fiscal
+- Comércio Eletrónico
+- Comunicações
 - Comunidade Europeia
 - Direcção Geral dos Impostos
+- Empresa Estrangeira
 - Empresa Europeia
 - Importação
+- Imposto Automóvel
 - Imposto Especial sobre o Consumo
 - IVA
 - Nacional das Comunidades
-- Radiodifusão
+- Política Fiscal
 - Prestação de Serviços
-- Comunicações
-- Imposto Automóvel
-- Comércio Eletrónico
-- Empresa Estrangeira
+- Radiodifusão
 - Televisão
 - Troca Intracomunitária
 relationships:
@@ -95,13 +95,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:01:48Z'
   warnings: []
   errors: []
 ---

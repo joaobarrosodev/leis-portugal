@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44705-1962-155823
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-11-19T00:00:00Z'
+  retrieved_at: '2026-10-22T19:32:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 216332694b306830b9b99fab4242384535fa499dfcd6ee983960b2d8334a3ef8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4ed511c0c801882d34a5d34038f12592430715cfee3abc78f872c53160f8f9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:32:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:32:16Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +95,7 @@ Tendo em vista o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da Faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Material da Força Aérea a celebrar contratos, no corrente ano económico, com as firmas para os materiais e nos montantes seguintes:
+Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Material da Força Aérea a celebrar contratos, no corrente ano económico, com as firmas para os materiais e nos montantes seguintes:
 
 O fornecimento de equipamentos de rádio THC 736 e sobresselentes com a Sociedade Comercial Romar, Lda., com sede em Lisboa, no valor de 4017829$00;
 
@@ -103,8 +107,8 @@ O fornecimento de sobresselentes electrónicos para equipamentos AN/PRC-10 com a
 
 O fornecimento de equipamentos de racliocomunicações AN/CRN-4 e AN/CVX-1 com a Sociedade Comercial Romar, Lda., com sede em Lisboa, no valor de 304700$00.
 
-###### Art. 2.º O encargo total com a celebração destes contratos é de 6627610$20, será liquidado no ano económico de 1963 por conta da verba adequada dos encargos gerais da Nação «Despesa extraordinária - Forças militares extraordinárias no ultramar».
+Art. 2.º O encargo total com a celebração destes contratos é de 6627610$20, será liquidado no ano económico de 1963 por conta da verba adequada dos encargos gerais da Nação «Despesa extraordinária - Forças militares extraordinárias no ultramar».
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Novembro de 1962. - AMERICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Kaulza Oliveira de Arriaga.

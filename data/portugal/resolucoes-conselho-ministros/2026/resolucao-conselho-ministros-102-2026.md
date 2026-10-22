@@ -102,6 +102,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/92/2019/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/92/2019/06/05/p/dre
+- type: cites
+  target: pt:dre:1084345988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122498962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:962603401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:992879810:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1134399000:por
+  label: Retificado o n.º 1 pelo(a) Declaração de Retificação n.º 22/2026/1 - Diário da República n.º 117/2026, Série I de
+    2026-06-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/22-2026-1134399000
+  date: '2026-06-19'
 - type: transposes
   target: celex:32022L2555
   label: null

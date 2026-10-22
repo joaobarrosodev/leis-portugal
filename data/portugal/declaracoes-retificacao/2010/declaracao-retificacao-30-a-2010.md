@@ -24,7 +24,7 @@ publication:
   reference: Diário da República n.º 192/2010, 2º Suplemento, Série I de 2010-10-01
   number: '192'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4372-(8) a 4372-(92)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf
 entry_into_force_dates: []
@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/30-a/2010/10/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/30-a-2010-480969
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-01T00:00:00Z'
+  retrieved_at: '2026-10-22T19:12:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64d5bd31b847493e85189a16356e31fbfcc362f7275f3c725e64a49e37666a7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60ce91f3ff4872cca338a1596396b5c62347380a21bc8f927b4ab7f1927acd77
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:12:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano Regional de Ordenamento do Território do Alentejo
 - Ordenamento do Território
-- Plano Director Municipal
-- Política de Solos
 - Plano de Pormenor
 - Plano de Urbanização
+- Plano Director Municipal
 - Plano Regional de Ordenamento do Território
+- Plano Regional de Ordenamento do Território do Alentejo
+- Política de Solos
 relationships:
 - type: cites
   target: eli:http://data.dre.p
@@ -118,16 +118,160 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/93/2002/05/08/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/93/2002/05/08/p/dre
+- type: cites
+  target: pt:dre:1116545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1142925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2307133:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667544:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:12:47Z'
   warnings: []
   errors: []
 ---
@@ -456,7 +600,7 @@ Uma administração pública mais eficiente e modernizada.
 
 Em termos de policentrismo urbano e coesão territorial, a ENDS realça a necessidade de articular a estrutura do sistema urbano com as redes de transportes e acessibilidades. Tem uma perspectiva integrada de desenvolvimento urbano-rural, em que as tecnologias de informação e comunicação desempenham um papel crítico no desenvolvimento das regiões, pois podem assegurar uma boa conectividade digital numa malha policêntrica e promover o enraizamento local das competências em tecnologias da informação e comunicação (TIC).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf))](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf)
 
 Para a concretização de uma estratégia nacional concebida num quadro das referências e prioridades da Estratégia de Lisboa, o PNACE 2005-2008 surge como uma resposta às suas orientações e no âmbito do qual as políticas de coesão territorial e de sustentabilidade ambiental pressupõem a simplificação e eficiência dos instrumentos de ordenamento do território. No PNACE 2005-2008 são realçadas, numa lógica e numa estratégia de desenvolvimento, as políticas de ambiente, ordenamento do território e coesão territorial enquanto parte integrante de uma abordagem transversal e integrada. As medidas enumeradas no PNACE 2005-2008 são estruturantes para o desenvolvimento sustentável do País tendo em conta o objectivo da coesão regional, contemplando medidas de discriminação positiva a favor de regiões menos desenvolvidas para os projectos com elevado potencial inovador e indutores de progresso tecnológico.
 
@@ -536,7 +680,7 @@ Por fim, o programa do Governo e as Grandes Opções do Plano 2005-2009 (GOP) in
 
 Para além dos trabalhos integrantes dos vários Planos de âmbito regional - Planos Especiais de Ordenamento do Território e anteriores PROT - a elaboração do PROT beneficiou, ainda, de um conjunto de estudos de natureza estratégica realizados recentemente na região e promovidos, nomeadamente, pela Comissão de Coordenação e Desenvolvimento Regional do Alentejo (CCDR Alentejo). O mais recente documento de orientação estratégica regional - Orientações estratégicas regionais - Alentejo 2015 - preparado com vista à fundamentação do Programa Operacional Regional 2006-2013, ao estabelecer os grandes eixos estratégicos de intervenção das políticas públicas de desenvolvimento regional a implementar no horizonte do presente ciclo de programação estrutural constituiu um documento de orientação fundamental para os trabalhos do PROTA.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf))](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf)
 
 Foram ainda utilizados pelos trabalhos de elaboração do PROT, nomeadamente, os seguintes estudos de âmbito regional: Estudo para a Definição da Base Económica Regional, CCRA, 1995; Avaliação das Potencialidades das Infra-estruturas Ferroviárias na Região Alentejo - Vertente turística, CCRA, 1999; Estudo de Transportes da Região Alentejo, CCRA, 2000; Avaliação das Oportunidades de Desenvolvimento Regional, CCRA, 2003; Plano de Desenvolvimento Turístico do Alentejo, ARTA, 2001; Identificação e Reabilitação de Corredores Ecológicos no Alentejo, DRAOT Alentejo e Universidade de Évora, 2004; Plano Regional de Inovação do Alentejo, CCDR Alentejo, 2005, Contributos para a Identificação e Caracterização da Paisagem em Portugal Continental - Vols. 4 e 5, DGOTDU/Universidade de Évora, 2004.
 
@@ -620,7 +764,7 @@ O PROT Alentejo é constituído, ao abrigo do artigo 54.º do [Decreto-Lei n.º 
 
 Tabela resumo dos elementos de Diagnóstico Prospectivo Regional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf))](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf)
 
 2 - Visão e Desígnios Regionais para o Alentejo
 
@@ -964,13 +1108,13 @@ MAPA 1
 
 Modelo Territorial do PROT Alentejo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf))](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf)
 
 MAPA 2
 
 Enquadramento Ibérico do Alentejo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf))](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf)
 
 2.2 - Sistema Ambiental e Riscos
 
@@ -1040,7 +1184,7 @@ No Alentejo a paisagem apresenta uma grande diversidade morfológica, com uma va
 
 Quadro de Correspondência entre Unidades de Paisagem do PROT Alentejo e Unidades de Paisagem do estudo "Contributos para a identificação e caracterização da paisagem em Portugal Continental"
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf))](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf)
 
 Face à crescente procura social da paisagem rural como suporte de bens e serviços, o espaço de produção a que ela corresponde tem vindo a tornar-se também espaço de consumo. Assim, aos sectores agrícola e ambiental, que têm construído e gerido estas paisagens, são agora solicitadas outras funções. Esta perspectiva coloca novas questões ao ordenamento das paisagens, sobretudo de integração com outros sectores e de possível adequação de usos e ocupações do solo, tendo presente as novas procuras da paisagem. De forma a gerir a multifuncionalidade da paisagem rural, tanto do lado da conservação da natureza como do lado do sector agrícola, o ordenamento do território pode contribuir para potenciar as características diferenciadoras de cada paisagem particular.
 
@@ -1068,13 +1212,13 @@ MAPA 3
 
 Unidades de Paisagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf))](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf)
 
 MAPA 4
 
 Estrutura Regional de Protecção e Valorização Ambiental e Litoral
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf))](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf)
 
 2.2-B - Subsistema dos Riscos Naturais e Tecnológicos
 
@@ -1100,7 +1244,7 @@ MAPA 5
 
 Subsistema dos Riscos Naturais e Tecnológicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf))](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf)
 
 2.3 - Sistema da Base Económica Regional
 
@@ -1144,7 +1288,7 @@ a) Instituições de Ensino Superior público e privado (Universidades e Institu
 
 b) Infra-estruturas Tecnológicas de carácter multifuncional ou sectorial (Centros Tecnológicos, Centros de Transferência de Tecnologia, Institutos de Novas Tecnologias e Centros de Engenharia e Desenvolvimento de Produtos), como nível fundamental à mediação e transferência de tecnologia para o tecido empresarial;
 
-c) Infra-estruturas do nível regional do Sistema Regional de Logística Empresarial, como aglomerações empresariais privilegiadas para a criação de instrumentos de interacção entre empresas e entidades de I&D;
+c) Infra-estruturas do nível regional do Sistema Regional de Logística Empresarial, como aglomerações empresariais privilegiadas para a criação de instrumentos de interacção entre empresas e entidades de I&D
 
 d) Entidades de Formação Profissional e Tecnológica de relevância regional;
 
@@ -1166,7 +1310,7 @@ Nível regional - é constituído por infra-estruturas de localização empresar
 
 Sistema Regional de Logística Empresarial - Estrutura e Componentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf))](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf)
 
 O nível municipal/supramunicipal do Sistema Regional de Logística Empresarial consubstancia-se nas redes municipais ou supramunicipais de parques empresariais e logísticos, sendo estas redes constituídas por três tipos de espaços de acolhimento empresarial:
 
@@ -1400,7 +1544,7 @@ MAPA 6
 
 Sistema da Base Económica Regional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf))](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf)
 
 2.4 - Sistema das Actividades Agro-Florestais
 
@@ -1428,7 +1572,7 @@ MAPA 7
 
 Subsistema das Actividades Agro-florestais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf))](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf)
 
 2.4-B - Subsistema de Desenvolvimento Turístico
 
@@ -1542,7 +1686,7 @@ MAPA 8
 
 Subsistema de Desenvolvimento Turístico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf))](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf)
 
 2.5 - Sistema Urbano e de Suporte à Coesão Territorial
 
@@ -1640,7 +1784,7 @@ MAPA 9
 
 Sistema Urbano e de Suporte à Coesão Territorial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf))](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf)
 
 2.6 - Sistema de Acessibilidades e de Conectividade Internacional
 
@@ -1714,7 +1858,7 @@ MAPA 10
 
 Sistema de Acessibilidades e Conectividade Internacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf))](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf)
 
 ### CAPÍTULO IV — Normas Orientadoras e de Natureza Operacional
 
@@ -3502,7 +3646,7 @@ V.3 - Constituição e Funções do Sistema
 
 A CCDR Alentejo é a entidade responsável pela elaboração, monitorização e avaliação do PROT acolhendo a respectiva estrutura orgânica um ajustado conjunto de competências em matérias de definição, acompanhamento e avaliação das políticas de ordenamento do território e de urbanismo. Desta forma, considera-se que a actual estrutura orgânica da CCDR e as competências dos respectivos órgãos e serviços, permitem, com uma adequada eficácia operacional e com uma desejada economia de meios (nomeadamente organizacionais), implementar as funções necessárias à constituição e funcionamento do Sistema de Gestão e Monitorização do PROT. Considera-se, assim, desnecessária a criação de novas unidades orgânicas para o exercício de funções de gestão e de monitorização do PROT. O esquema que se apresenta de seguida explicita a estrutura de se estabelece para o Sistema de Gestão e Monitorização do PROT bem como a sua articulação com os níveis nacional e municipal responsáveis pela monitorização das políticas de ordenamento do território e do urbanismo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf))](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/19202/0000800092.pdf)
 
 Competirá à CCDR, no âmbito da sua própria estrutura orgânica, assegurar a implementação e o funcionamento do Sistema de Gestão e de Monitorização do PROT, garantindo, para tal, o exercício das seguintes Funções:
 

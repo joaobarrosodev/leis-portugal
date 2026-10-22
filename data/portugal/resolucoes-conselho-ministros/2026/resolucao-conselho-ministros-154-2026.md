@@ -47,26 +47,38 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/154/2026/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/154-2026-1152409211
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-27T00:00:00Z'
+  retrieved_at: '2026-10-22T18:47:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61f378204405d5e3bc0d2af2c6dd310e5fa39634a21c4ade7b4bbaa3d8c62d2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e21b3a1408cdd5479b9244e4add1cfe7aae57ed65f3b419588d7e7d91bee0b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:47:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autorização de Despesas
+- Despesas Públicas
+- Infraestruturas de Portugal SA
+- Obras Públicas
+- Plano Rodoviario
+- Rede de Estradas
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:69/2025
+  label: Altera, com efeitos a partir de 17 de julho de 2026, o n.º 11 e o anexo da Resolução do Conselho de Ministros n.º
+    69/2025, de 20 de março, Diário da República n.º 56/2025, Série I
+  source: null
+  date: '2025-03-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -87,16 +99,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/69/2025/03/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/69/2025/03/20/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:911693279:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:47:52Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +161,7 @@ b) EN101/EN14 - no de Infias (Braga);
 
 c) EN341 - Alfarelos (EN342)/Taveiro (acesso ao Terminal Ferroviário de Alfarelos).
 
-Por outro lado os n.<sup>os</sup>10 e 11 do mesmo diploma, autorizam a IP, S. A., a assumir os encargos plurianuais e a realizar a despesa necessária à implementação dos projetos referidos nos n.<sup>os</sup>1 e 2, até ao montante máximo global de 446 710 000,00 €, ao qual acresce, se aplicável, o imposto sobre o valor acrescentado, à taxa legal em vigor, abrangendo os anos de 2025 a 2028.
+Por outro lado os n.os10 e 11 do mesmo diploma, autorizam a IP, S. A., a assumir os encargos plurianuais e a realizar a despesa necessária à implementação dos projetos referidos nos n.os1 e 2, até ao montante máximo global de 446 710 000,00 €, ao qual acresce, se aplicável, o imposto sobre o valor acrescentado, à taxa legal em vigor, abrangendo os anos de 2025 a 2028.
 
 Ora considerando que, para o efeito, a IP, S. A., deu sequência aos procedimentos para a materialização dos projetos, em resultado dos quais, se veio a verificar que os montantes inicialmente considerados carecem de ajustamento em termos de valor e de período, sem alteração do montante global, torna-se necessário proceder à atualização (i) do respetivo cronograma financeiro de encargos plurianuais anteriormente autorizados e (ii) da repartição plurianual, alargando o período temporal até ao ano de 2030.
 
@@ -165,8 +197,12 @@ Presidência do Conselho de Ministros, 17 de julho de 2026. - O Primeiro-Ministr
 
 [a que se referem o n.º 11, a alínea b) do n.º 12 e as alíneas b) e c) do n.º 13]
 
-![](https://files.diariodarepublica.pt/images/1152409211/1152409058.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1152409211/1152409058.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1152409211/1152409059.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1152409211/1152409059.png) |
+| --- |
 
 »
+
+119949136

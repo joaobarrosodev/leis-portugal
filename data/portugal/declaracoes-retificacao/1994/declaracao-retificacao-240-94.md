@@ -23,7 +23,7 @@ publication:
   reference: Diário da República n.º 277/1994, 4º Suplemento, Série I-B de 1994-11-30
   number: '277'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 7070-(13) a 7070-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/11/277b04/00130014.pdf
 entry_into_force_dates: []
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/240/1994/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/240-1994-355906
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:42:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85ab5b28e96102f6bb2af4890a57f8e10a531e73cc580b08844be52f5a84cef3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab96a3c134ee165ceb22199e8dcdf39d98574cbc89036a0412a712de7cec2a7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:42:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,55 +69,67 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
+- Açores
 - Aveiro
 - CABO da ROCA
 - CABO de são Vicente
 - Caminha
+- Cascais
 - Comando de ZONA Marítima
 - Comando Naval
 - Definição de Competências
-- Marinha
 - Esposende
 - Extinção de Serviços
 - Farol do Bugio
+- Figueira da Foz
+- Madeira.região Autónoma
+- Marinha
 - Nazaré
 - Olhão
 - Orgânica
 - Peniche
-- VILA do Conde
-- Figueira da Foz
-- Póvoa de Varzim
-- Madeira.região Autónoma
 - Portos
+- Póvoa de Varzim
+- Reestruturação de Serviços
 - Sesimbra
 - Sines
-- Açores
-- Cascais
 - Transferência de Competências
 - Transferência Patrimonial
 - Viana do Castelo
+- VILA do Conde
 - Vila Real de Santo António
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/39/1994/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/39/1994/09/01/p/dre
+- type: cites
+  target: pt:dre:285292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654536:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:42:07Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 240/94
+# Declaração de rectificação n.º 240/94
 
 Para os devidos efeitos se declara que o [Decreto Regulamentar n.º 39/94](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-1994-654536), publicado no Diário da República, n.º 202, de 1 de Setembro de 1994, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 

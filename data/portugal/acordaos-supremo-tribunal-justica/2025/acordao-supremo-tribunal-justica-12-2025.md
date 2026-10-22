@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/12/2025/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/12-2025-943647418
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dcdd0667771ee2fca628c46bb63ef9fa046b1830d90432090400bc97944620d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4954a24e09636d6995e63cbf2c599601208cbcc012e38ebeb0993b52ff5fb766
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,8 +71,8 @@ subjects:
 - Execução de Penas
 - Interpretação do Direito
 - Jurisprudencia
-- Sanção Penal
 - Perdão da Pena
+- Sanção Penal
 - Supremo Tribunal de Justiça
 relationships:
 - type: cites
@@ -103,16 +103,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/9/2020/04/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/9/2020/04/10/p/dre
+- type: cites
+  target: pt:dre:131338919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216630826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604215:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:18Z'
   warnings: []
   errors: []
 ---
@@ -257,7 +301,7 @@ A questão a decidir respeita unicamente em saber qual o limite máximo de idade
 
 8 - A [Lei n.º 38-A/2023](https://diariodarepublica.pt/dr/detalhe/lei/38-a-2023-216630826), de 2 de Agosto, entrada em vigor no dia 1 de Setembro de 2023, veio estabelecer um perdão de penas e uma amnistia de infrações, abrangendo as sanções penais relativas aos ilícitos praticados até às 00:00 horas de 19 de Junho de 2023, bem como as sanções acessórias atinentes a contra-ordenações e as sanções referentes a infracções disciplinares e infracções disciplinares militares praticadas até àquele limite temporal.
 
-O projeto legislativo foi elaborado por ocasião da Jornada Mundial da Juventude que teve lugar em Portugal, em Agosto de 2023, podendo ler-se, na respetiva Exposição de Motivos<sup>1</sup> que:
+O projeto legislativo foi elaborado por ocasião da Jornada Mundial da Juventude que teve lugar em Portugal, em Agosto de 2023, podendo ler-se, na respetiva Exposição de Motivos1 que:
 
 «Considerando a realização em Portugal da JMJ em agosto de 2023, que conta com a presença de Sua Santidade o Papa Francisco, cujo testemunho de vida e de pontificado está fortemente marcado pela exortação da reinserção social das pessoas em conflito com a lei penal, tomando a experiência pretérita de concessão de perdão e amnistia aquando da visita a Portugal do representante máximo da Igreja Católica Apostólica Romana justifica-se adotar medidas de clemência focadas na faixa etária dos destinatários centrais do evento.
 
@@ -269,21 +313,21 @@ Em conformidade com o disposto no artigo 1.º da referida Lei estabeleceu-se, ex
 
 Perscrutado o contexto histórico no âmbito da aplicação de medidas de clemência, verifica-se que tal iniciativa não é isolada. De facto, já anteriormente, por ocasião de visitas papais, haviam sido estabelecidas medidas com idêntico desígnio.
 
-Assim, em 1967, por ocasião da primeira visita a Portugal do Papa Paulo VI, o [Decreto-Lei n.º 47702](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47702-1967-406286), de 15 de Maio<sup>2</sup>, concedeu a amnistia e perdão a vários crimes e infrações cometidos por delinquentes civis e por delinquentes pertencentes às forças armadas e às forças militarizadas.
+Assim, em 1967, por ocasião da primeira visita a Portugal do Papa Paulo VI, o [Decreto-Lei n.º 47702](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47702-1967-406286), de 15 de Maio2, concedeu a amnistia e perdão a vários crimes e infrações cometidos por delinquentes civis e por delinquentes pertencentes às forças armadas e às forças militarizadas.
 
-Depois, no contexto da visita do Papa João Paulo II a Portugal, a [Lei n.º 17/82](https://diariodarepublica.pt/dr/detalhe/lei/17-1982-394696), de 2 de Julho<sup>3</sup>, amnistiou várias infrações e concedeu o perdão a várias penas, relativamente a factos praticados até ao dia 10 de Maio de 1982.
+Depois, no contexto da visita do Papa João Paulo II a Portugal, a [Lei n.º 17/82](https://diariodarepublica.pt/dr/detalhe/lei/17-1982-394696), de 2 de Julho3, amnistiou várias infrações e concedeu o perdão a várias penas, relativamente a factos praticados até ao dia 10 de Maio de 1982.
 
-Finalmente, em 1991, a [Lei n.º 23/91](https://diariodarepublica.pt/dr/detalhe/lei/23-1991-492471)<sup>4</sup>, de 4 de Julho, determinou a amnistia de diversas infrações, cometidas até ao dia 25 de abril de 1991, e outras medidas de clemência, em decorrência da segunda visita do Papa João Paulo II a Portugal<sup>5</sup>.
+Finalmente, em 1991, a [Lei n.º 23/91](https://diariodarepublica.pt/dr/detalhe/lei/23-1991-492471)4, de 4 de Julho, determinou a amnistia de diversas infrações, cometidas até ao dia 25 de abril de 1991, e outras medidas de clemência, em decorrência da segunda visita do Papa João Paulo II a Portugal5.
 
-9 - No que respeita, concretamente, ao âmbito do perdão de penas e amnistia de infrações de que agora nos ocupamos, o Governo, na Proposta de Lei n.º 97/XV/1. <sup>6</sup>, propôs a seguinte redação para o artigo 2.º:
+9 - No que respeita, concretamente, ao âmbito do perdão de penas e amnistia de infrações de que agora nos ocupamos, o Governo, na Proposta de Lei n.º 97/XV/1. 6, propôs a seguinte redação para o artigo 2.º:
 
 “Estão abrangidas pela presente lei as infrações praticadas até às 00:00 horas de dia 19 de junho de 2023, por pessoas que tenham entre 16 e 30 anos de idade à data da prática do facto.”
 
-Por sua vez, o Grupo Parlamentar do PSD apresentou, a 10 de Julho de 2023, uma proposta de alteração<sup>7</sup>, nos seguintes termos:
+Por sua vez, o Grupo Parlamentar do PSD apresentou, a 10 de Julho de 2023, uma proposta de alteração7, nos seguintes termos:
 
 “Estão abrangidas pela presente lei as infrações praticadas até às 00:00 horas de dia 19 de junho de 2023.”
 
-Em resposta, o Grupo Parlamentar do PS apresentou, a 14 de Julho de 2023, nova proposta<sup>8</sup>, com a seguinte redação:
+Em resposta, o Grupo Parlamentar do PS apresentou, a 14 de Julho de 2023, nova proposta8, com a seguinte redação:
 
 “1. Estão abrangidas pela presente lei as sanções penais relativas aos ilícitos praticados até às 00:00 horas de dia 19 de junho de 2023, por pessoas que tenham entre 16 e 30 anos de idade à data da prática do facto, nos termos definidos nos artigos 3.º e 4.º
 
@@ -293,7 +337,7 @@ a) As sanções acessórias relativas a contraordenações nos termos definidos 
 
 b) As sanções relativas a infrações disciplinares militares, nos termos definidos no artigo 6.º.”
 
-Nesta sequência, efetuada a discussão na generalidade da referida proposta de Lei<sup>9</sup>, a Ex.ma Senhora Ministra da Justiça referiu, nomeadamente, que “[a] clemência, tal como as penas, é instrumento de política criminal. Nas palavras do Prof. Figueiredo Dias, o direito de graça consubstancia a «contraface do direito de punir estadual», cabendo-lhe a tarefa de constituir uma «válvula de segurança» do sistema de justiça penal ou de abrir um caminho para a «socialização do condenado».
+Nesta sequência, efetuada a discussão na generalidade da referida proposta de Lei9, a Ex.ma Senhora Ministra da Justiça referiu, nomeadamente, que “[a] clemência, tal como as penas, é instrumento de política criminal. Nas palavras do Prof. Figueiredo Dias, o direito de graça consubstancia a «contraface do direito de punir estadual», cabendo-lhe a tarefa de constituir uma «válvula de segurança» do sistema de justiça penal ou de abrir um caminho para a «socialização do condenado».
 
 É precisamente com este último propósito de socialização que o Governo apresenta a presente proposta de lei, que estabelece perdão de penas e amnistia de infrações praticadas por jovens.
 
@@ -315,19 +359,19 @@ a) Sanções acessórias relativas a contraordenações praticadas até às 00:0
 
 b) Sanções relativas a infrações disciplinares e infrações disciplinares militares praticadas até às 00:00 horas de 19 de junho de 2023, nos termos definidos no artigo 6.º
 
-10 - A [Lei n.º 38-A/2023](https://diariodarepublica.pt/dr/detalhe/lei/38-a-2023-216630826), de 2 de Agosto, pode classificar-se como amnistia pessoal, atendendo a que são amnistiados factos típicos praticados por certa categoria de agentes - os jovens -, bem como amnistia por magnanimidade, pois são amnistiados factos por bondade, por motivos festivos, atendendo a que resulta da visita do Papa a Portugal<sup>10</sup>.
+10 - A [Lei n.º 38-A/2023](https://diariodarepublica.pt/dr/detalhe/lei/38-a-2023-216630826), de 2 de Agosto, pode classificar-se como amnistia pessoal, atendendo a que são amnistiados factos típicos praticados por certa categoria de agentes - os jovens -, bem como amnistia por magnanimidade, pois são amnistiados factos por bondade, por motivos festivos, atendendo a que resulta da visita do Papa a Portugal10.
 
-O direito de graça, em que se integra a amnistia e o perdão de penas, consubstancia a “contraface do direito de punir estadual”, um caminho “para obviar incorrecções legislativas ou a erros judiciários [...] como para propiciar condições favoráveis a modificações profundas da legislação de carácter penal, ou [...] à socialização do condenado” <sup>11</sup>.
+O direito de graça, em que se integra a amnistia e o perdão de penas, consubstancia a “contraface do direito de punir estadual”, um caminho “para obviar incorrecções legislativas ou a erros judiciários [...] como para propiciar condições favoráveis a modificações profundas da legislação de carácter penal, ou [...] à socialização do condenado” 11.
 
-As medidas de graça ou de clemência são, assim, uma “reminiscência do direito de graça que o soberano detinha quando concentrava em si todos os poderes estatais, incluindo os de castigar e de perdoar”, subvertendo os “princípios estabelecidos num moderno Estado de direito sobre a divisão e interdependência dos poderes estaduais, porquanto permite a intromissão de outros poderes na administração da justiça” <sup>12</sup>.
+As medidas de graça ou de clemência são, assim, uma “reminiscência do direito de graça que o soberano detinha quando concentrava em si todos os poderes estatais, incluindo os de castigar e de perdoar”, subvertendo os “princípios estabelecidos num moderno Estado de direito sobre a divisão e interdependência dos poderes estaduais, porquanto permite a intromissão de outros poderes na administração da justiça” 12.
 
-Os actos de graça compreendem a amnistia, o perdão genérico e o perdão individual ou particular, em que se integram o indulto e a comutação<sup>13</sup>. Por seu turno, a distinção entre as várias medidas de graça efetua-se conforme o acto respeite ao facto praticado ou à pena oncretamente aplicada, bem como consoante abranja um caso concreto ou um grupo de situações, em função das características do facto praticado ou do agente<sup>14</sup>.
+Os actos de graça compreendem a amnistia, o perdão genérico e o perdão individual ou particular, em que se integram o indulto e a comutação13. Por seu turno, a distinção entre as várias medidas de graça efetua-se conforme o acto respeite ao facto praticado ou à pena oncretamente aplicada, bem como consoante abranja um caso concreto ou um grupo de situações, em função das características do facto praticado ou do agente14.
 
-Assim, “[...] o Estado-de-Direito metamorfoseou o direito de graça, passando a encará-lo através de outro prisma, e aproveitou-o como instrumento útil na realização de uma autêntica justiça. Criteriosamente administrado, o direito de graça pode servir para a realização da justiça nos casos em que a aplicação da lei, na sua generalidade a abstracção, dá lugar a decisões concretas materialmente injustas ou político-criminalmente inadequadas” <sup>15</sup>.
+Assim, “[...] o Estado-de-Direito metamorfoseou o direito de graça, passando a encará-lo através de outro prisma, e aproveitou-o como instrumento útil na realização de uma autêntica justiça. Criteriosamente administrado, o direito de graça pode servir para a realização da justiça nos casos em que a aplicação da lei, na sua generalidade a abstracção, dá lugar a decisões concretas materialmente injustas ou político-criminalmente inadequadas” 15.
 
 Contudo, tais medidas de graça não se encontram expressamente previstas na Lei Fundamental, encontrando-se apenas mencionadas aquando da referência aos poderes do Presidente da República (indulto e comutação da pena, nos termos do artigo 134.º, alínea f) da Constituição da República Portuguesa) e do Parlamento (amnistia e perdão genérico, previstos no artigo 161.º, alínea f) da Constituição da República Portuguesa).
 
-Note-se que “[o] que verdadeiramente distingue os institutos é o carácter geral da amnistia (dirigido [...] a grupos de factos ou de agentes, em contraposição ao carácter individual do indulto (dirigido a pessoas concretas)” <sup>16</sup>.
+Note-se que “[o] que verdadeiramente distingue os institutos é o carácter geral da amnistia (dirigido [...] a grupos de factos ou de agentes, em contraposição ao carácter individual do indulto (dirigido a pessoas concretas)” 16.
 
 “A amnistia é, pois, uma instituição de clemência da competência da Assembleia da República. Os seus efeitos podem ser a extinção do processo penal ou, no caso de já existir uma condenação, a extinção da pena e dos respectivos efeitos. No primeiro caso estamos perante uma amnistia própria (em sentido próprio), e no segundo caso perante uma amnistia imprópria (em sentido impróprio).
 
@@ -335,21 +379,21 @@ O perdão genérico é uma figura próxima da amnistia. Trata-se de uma medida d
 
 Designa-se por amnistia a medida de graça, de carácter geral, aplicada em função do tipo de crime, e perdão genérico a medida de graça geral aplicada em função da pena.
 
-Visto que o perdão genérico é, como se disse, aplicado em função da pena, ele tem a particularidade de poder ser total ou parcial, conforme seja perdoada a totalidade ou apenas uma parte da pena” <sup>17</sup>.
+Visto que o perdão genérico é, como se disse, aplicado em função da pena, ele tem a particularidade de poder ser total ou parcial, conforme seja perdoada a totalidade ou apenas uma parte da pena” 17.
 
 Nesta sequência, enquanto a amnistia respeita às infracções abstractamente consideradas, “apagando” a natureza criminal do facto, o perdão implica que a pena ou a medida de segurança não sejam, total ou parcialmente, cumpridas. “A amnistia serve para libertar o agente de um processo penal ainda em curso ou do cumprimento de uma pena, devida à prática de determinado crime. Significa isto que alguns bens jurídicos, protegidos pela legislação penal, são considerados menos importantes, em determinados contextos (por exemplo, em caso de necessidade de pacificação social), razão pela qual a sua protecção pode ser sacrificada retroactivamente. Contudo, tal não significa que a amnistia implique a ausência de dignidade punitiva do acto ilícito.
 
-No caso do perdão genérico, atenta-se apenas na gravidade da pena e no sacrifício que o seu cumprimento implica para o condenado, podendo aquela ser total ou parcialmente perdoada” <sup>18</sup>.
+No caso do perdão genérico, atenta-se apenas na gravidade da pena e no sacrifício que o seu cumprimento implica para o condenado, podendo aquela ser total ou parcialmente perdoada” 18.
 
 Em conformidade, estabelece o artigo 127.º do Código Penal que “a responsabilidade criminal extingue-se ainda pela morte, pela amnistia, pelo perdão genérico e pelo indulto”.
 
 Por sua vez, preceitua o artigo 128.º, n.º 2 do Código Penal que “a amnistia extingue o procedimento criminal e, no caso de ter havido condenação, faz cessar a execução tanto da pena e dos seus efeitos como da medida de segurança” e, no n.º 3, que “o perdão genérico extingue a pena, no todo ou em parte”.
 
-O direito de graça assume, deste modo, uma natureza excecional que, segundo a jurisprudência, não comporta aplicação analógica, interpretação extensiva ou restritiva, devendo as normas que o enformam “ser interpretadas nos exactos termos em que estão redigidas” <sup>19</sup>. Nesta medida, afiguram-se “insusceptíveis de interpretação extensiva (não pode concluir-se que o legislador disse menos do que queria), de interpretação restritiva (entendendo-se que o legislador disse mais do que queria) e afastada em absoluto a possibilidade de recurso à analogia, impõe-se uma interpretação declarativa [...]”<sup>20</sup>.
+O direito de graça assume, deste modo, uma natureza excecional que, segundo a jurisprudência, não comporta aplicação analógica, interpretação extensiva ou restritiva, devendo as normas que o enformam “ser interpretadas nos exactos termos em que estão redigidas” 19. Nesta medida, afiguram-se “insusceptíveis de interpretação extensiva (não pode concluir-se que o legislador disse menos do que queria), de interpretação restritiva (entendendo-se que o legislador disse mais do que queria) e afastada em absoluto a possibilidade de recurso à analogia, impõe-se uma interpretação declarativa [...]”20.
 
-Como tal, atendendo à excecionalidade que caracteriza as leis de amnistia e de perdão, a interpretação das mesmas deverá, pura e simplesmente, conter-se no texto da respetiva lei<sup>21</sup>, adotando-se uma interpretação declarativa em que “não se faz mais do que declarar o sentido linguístico coincidente com o pensar legislativo” <sup>22</sup>.
+Como tal, atendendo à excecionalidade que caracteriza as leis de amnistia e de perdão, a interpretação das mesmas deverá, pura e simplesmente, conter-se no texto da respetiva lei21, adotando-se uma interpretação declarativa em que “não se faz mais do que declarar o sentido linguístico coincidente com o pensar legislativo” 22.
 
-Acresce que o perdão de penas é uma providência que tem apenas efeitos para o passado e nunca para o futuro. O perdão “não pode aplicar-se como fórmula normativa para o futuro, mas incidir sobre o passado. Neste âmbito, não há uma espécie de indulgência plenária de que se pudessem prevalecer os potenciais infratores. O perdão, uma modalidade do chamado Direito de graça ou de clemência, sendo uma das formas de extinção da responsabilidade criminal (art. 127 CP), quando haja de aplicar-se, não é um salvo-conduto, uma carta que livre da prisão para o futuro, um privilégio de imunidade. Exerce-se sobre factos passados” <sup>23</sup>.
+Acresce que o perdão de penas é uma providência que tem apenas efeitos para o passado e nunca para o futuro. O perdão “não pode aplicar-se como fórmula normativa para o futuro, mas incidir sobre o passado. Neste âmbito, não há uma espécie de indulgência plenária de que se pudessem prevalecer os potenciais infratores. O perdão, uma modalidade do chamado Direito de graça ou de clemência, sendo uma das formas de extinção da responsabilidade criminal (art. 127 CP), quando haja de aplicar-se, não é um salvo-conduto, uma carta que livre da prisão para o futuro, um privilégio de imunidade. Exerce-se sobre factos passados” 23.
 
 11 - Regressando à Lei de que nos ocupamos, dispõe o seu artigo 3.º:
 
@@ -379,41 +423,41 @@ O elemento literal da Lei será - pelo menos à primeira vista - ambíguo, poden
 
 A favor da primeira posição, pronunciaram-se os seguintes acórdãos do Tribunal da Relação:
 
-1 - Acórdão do Tribunal da Relação de Coimbra, de 21-02-2024, processo n.º 331/13.0JALRA-A.C1, relatado pelo Juiz Desembargador Pedro Lima<sup>24</sup>, referindo que «[...] para o efeito de beneficiar ou não das medidas de clemência em causa, entre quem à data da prática dos factos criminosos estivesse por hipótese na véspera de concluir os 31 anos de idade, ainda aquelas lhe aproveitando, e quem como ele tinha àquelas datas já 32 anos de idade [...] delas não tirando vantagem; [...]»;
+1 - Acórdão do Tribunal da Relação de Coimbra, de 21-02-2024, processo n.º 331/13.0JALRA-A.C1, relatado pelo Juiz Desembargador Pedro Lima24, referindo que «[...] para o efeito de beneficiar ou não das medidas de clemência em causa, entre quem à data da prática dos factos criminosos estivesse por hipótese na véspera de concluir os 31 anos de idade, ainda aquelas lhe aproveitando, e quem como ele tinha àquelas datas já 32 anos de idade [...] delas não tirando vantagem; [...]»;
 
-2 - Acórdão do Tribunal da Relação de Coimbra, de 25-10-2024, processo n.º 3624/22.1T9CBR-A.C1, relatado pelo Juiz Desembargador Paulo Guerra<sup>25</sup>, concluindo que «[q]uem já completou 30 anos e até atingir os 31 anos, pode, ao abrigo do artigo 2.º, n.º 1, da [Lei n.º 38-A/2023](https://diariodarepublica.pt/dr/detalhe/lei/38-a-2023-216630826) de 2/8, beneficiar da amnistia e do perdão aí concedidos»;
+2 - Acórdão do Tribunal da Relação de Coimbra, de 25-10-2024, processo n.º 3624/22.1T9CBR-A.C1, relatado pelo Juiz Desembargador Paulo Guerra25, concluindo que «[q]uem já completou 30 anos e até atingir os 31 anos, pode, ao abrigo do artigo 2.º, n.º 1, da [Lei n.º 38-A/2023](https://diariodarepublica.pt/dr/detalhe/lei/38-a-2023-216630826) de 2/8, beneficiar da amnistia e do perdão aí concedidos»;
 
-3 - Acórdão do Tribunal da Relação do Porto, de 27-11-2024, processo n.º 424/22.2PTPRT.P1, relatado pela Juíza Desembargadora Liliana de Páris Dias<sup>26</sup>, onde se lê que, «[o] limite etário estabelecido pelo legislador no artigo 2.º, n.º 1 da [Lei n.º 38-A/2023](https://diariodarepublica.pt/dr/detalhe/lei/38-a-2023-216630826), de 2 de agosto, coincide precisamente com o do evento que deu origem à Lei de clemência, evento este que, como se pode ler nas instruções fornecidas para as respetivas inscrições no próprio site oficial da Jornada Mundial da Juventude Lisboa 2023, destinou-se a «peregrinos de todo o mundo com idades entre os 14 e 30 anos de idade», ou seja, para peregrinos cujo limite etário mínimo era os 14 anos de idade e o limite etário máximo os 30 anos (e não 29 anos, antes de perfazer os 30 anos).
+3 - Acórdão do Tribunal da Relação do Porto, de 27-11-2024, processo n.º 424/22.2PTPRT.P1, relatado pela Juíza Desembargadora Liliana de Páris Dias26, onde se lê que, «[o] limite etário estabelecido pelo legislador no artigo 2.º, n.º 1 da [Lei n.º 38-A/2023](https://diariodarepublica.pt/dr/detalhe/lei/38-a-2023-216630826), de 2 de agosto, coincide precisamente com o do evento que deu origem à Lei de clemência, evento este que, como se pode ler nas instruções fornecidas para as respetivas inscrições no próprio site oficial da Jornada Mundial da Juventude Lisboa 2023, destinou-se a «peregrinos de todo o mundo com idades entre os 14 e 30 anos de idade», ou seja, para peregrinos cujo limite etário mínimo era os 14 anos de idade e o limite etário máximo os 30 anos (e não 29 anos, antes de perfazer os 30 anos).
 
 [...] no campo de abrangência do dispositivo em ponderação, cabe o universo de arguidos/condenados que tenham 30 anos, e enquanto os tiverem, à data da prática dos factos.»;
 
-4 - Acórdão do Tribunal da Relação de Guimarães, de 19-03-2024, processo n.º 5030/20.3T8BRG.G1, relatado pela Juíza Desembargadora Fátima Furtado<sup>27</sup>, em que se entendeu que «[o] perdão de penas e a amnistia previstos na [Lei n.º 38-A/2023](https://diariodarepublica.pt/dr/detalhe/lei/38-a-2023-216630826), de 02.08, aplicam-se apenas aos ilícitos praticados até às 00:00 horas de 19.06.2023, por pessoas que tivessem entre 16 e 30 anos de idade à data da prática dos factos, como estabelece o seu artigo 2.º, n.º 1.
+4 - Acórdão do Tribunal da Relação de Guimarães, de 19-03-2024, processo n.º 5030/20.3T8BRG.G1, relatado pela Juíza Desembargadora Fátima Furtado27, em que se entendeu que «[o] perdão de penas e a amnistia previstos na [Lei n.º 38-A/2023](https://diariodarepublica.pt/dr/detalhe/lei/38-a-2023-216630826), de 02.08, aplicam-se apenas aos ilícitos praticados até às 00:00 horas de 19.06.2023, por pessoas que tivessem entre 16 e 30 anos de idade à data da prática dos factos, como estabelece o seu artigo 2.º, n.º 1.
 
 Tal limite etário, no seu máximo, abrange as pessoas que tiverem 30 anos e enquanto os tiverem, como se apreende diretamente da letra da lei, que consigna expressamente «entre 16 e 30 anos de idade» e não até 30.»;
 
-5 - Acórdão do Tribunal da Relação de Évora, de 09-04-2024, processo n.º 190/20.6GAPRD.E1, relatado pelo Juiz Desembargador Nuno Garcia<sup>28</sup>, considerando-se que «[a]o abrigo do artigo 2.º, n.º 1, da [L. 38-A/2023](https://diariodarepublica.pt/dr/detalhe/lei/38-a-2023-216630826) de 2/8 (“…pessoas que tenham entre 16 e 30 anos de idade…”) quem já completou 30 anos de idade pode beneficiar da amnistia, até atingir 31 anos.
+5 - Acórdão do Tribunal da Relação de Évora, de 09-04-2024, processo n.º 190/20.6GAPRD.E1, relatado pelo Juiz Desembargador Nuno Garcia28, considerando-se que «[a]o abrigo do artigo 2.º, n.º 1, da [L. 38-A/2023](https://diariodarepublica.pt/dr/detalhe/lei/38-a-2023-216630826) de 2/8 (“…pessoas que tenham entre 16 e 30 anos de idade…”) quem já completou 30 anos de idade pode beneficiar da amnistia, até atingir 31 anos.
 
 A palavra utilizada - “entre” - só pode significar que se incluem as duas idades mínima e máxima, ou seja, quem já tem 16 anos e enquanto os tiver (até atingir os 17) e quem ainda tem 30 anos, ou seja, quem ainda não os perfez totalmente, atingido os 31 anos»;
 
-6 - Acórdão do Tribunal da Relação de Évora, de 05-03-2024, processo n.º 299/17.3GBASL-I.E1, relatado pela Juíza Desembargadora Margarida Bacelar<sup>29</sup>, onde se decidiu que «[a] aplicação das medidas de clemência previstas na [Lei n.º 38-A/2023](https://diariodarepublica.pt/dr/detalhe/lei/38-a-2023-216630826), de 2 de Agosto (amnistia de infrações e perdão de penas), depende verificação de pressupostos temporais: a lei é aplicável apenas a infrações cometidas até às 00 horas do dia 19/6/2023 (artigo 2.º); étários: a lei apenas é aplicável a pessoas que tenham entre 16 e 30 anos de idade à data da prática do facto (artigo 2.º); e materiais: a lei não é aplicável aos crimes previstos nos § 1.º e 2.º do artigo 7.º
+6 - Acórdão do Tribunal da Relação de Évora, de 05-03-2024, processo n.º 299/17.3GBASL-I.E1, relatado pela Juíza Desembargadora Margarida Bacelar29, onde se decidiu que «[a] aplicação das medidas de clemência previstas na [Lei n.º 38-A/2023](https://diariodarepublica.pt/dr/detalhe/lei/38-a-2023-216630826), de 2 de Agosto (amnistia de infrações e perdão de penas), depende verificação de pressupostos temporais: a lei é aplicável apenas a infrações cometidas até às 00 horas do dia 19/6/2023 (artigo 2.º); étários: a lei apenas é aplicável a pessoas que tenham entre 16 e 30 anos de idade à data da prática do facto (artigo 2.º); e materiais: a lei não é aplicável aos crimes previstos nos § 1.º e 2.º do artigo 7.º
 
 Decorre do artigo 2.º, n.º 1, da [Lei n.º 38-A/2023](https://diariodarepublica.pt/dr/detalhe/lei/38-a-2023-216630826) que o legislador, ao utilizar a expressão entre 16 e 30 anos de idade, inseriu o limite dos 30 anos de idade, limite que só termina no dia em que se perfaz o 31.º aniversário.».
 
 Por sua vez, a favor da corrente defendida no âmbito do acórdão recorrido, pronunciaram-se as seguintes decisões:
 
-1 - Acórdão do Tribunal da Relação de Lisboa, de 23-10-2024, processo n.º 1312/20.2SILSB.L1-3, relatado pela Juíza Desembargadora Cristina Almeida e Sousa<sup>30</sup>, onde se refere que «[o] âmbito de aplicação subjectiva desta lei, tanto em matéria de amnistia, como de perdão genérico é delimitado em função da idade - jovens que até às 00h00 horas de 19 de Junho de 2023, tenham entre 16 e 30 anos.
+1 - Acórdão do Tribunal da Relação de Lisboa, de 23-10-2024, processo n.º 1312/20.2SILSB.L1-3, relatado pela Juíza Desembargadora Cristina Almeida e Sousa30, onde se refere que «[o] âmbito de aplicação subjectiva desta lei, tanto em matéria de amnistia, como de perdão genérico é delimitado em função da idade - jovens que até às 00h00 horas de 19 de Junho de 2023, tenham entre 16 e 30 anos.
 
 Assim sendo, as pessoas que não obstante terem cometido crimes passíveis de amnistia ou perdão, se tiverem 30 anos e um dia ou mais, à data da prática dos factos integradores do crime, já não poderão beneficiar de tais medidas de clemência, como a referência «até perfazerem 30 anos» (contida na exposição de motivos da Proposta de Lei n.º 97/XV/1.ª) claramente revela e como se impõe concluir à luz dos critérios de interpretação contidos no artigo 9.º do Código Civil, da coincidência mínima do sentido da lei com o seu texto e da presunção de que o legislador soube exprimir correctamente o seu pensamento e consagrou as soluções mais acertadas e justas.»;
 
-2 - Acórdão do Tribunal da Relação de Coimbra, de 10-04-2024, processo n.º 1644/15.1PBVIS-A.C1, relatado pela Juíza Desembargadora Maria José Matos<sup>31</sup>, onde se entendeu que «[o] regime de perdão de penas e de amnistia estabelecido pela [Lei n.º 38-A/2023](https://diariodarepublica.pt/dr/detalhe/lei/38-a-2023-216630826) é aplicável aos jovens a partir da maioridade penal e até perfazerem 30 anos, idade limite das JMJ.»;
+2 - Acórdão do Tribunal da Relação de Coimbra, de 10-04-2024, processo n.º 1644/15.1PBVIS-A.C1, relatado pela Juíza Desembargadora Maria José Matos31, onde se entendeu que «[o] regime de perdão de penas e de amnistia estabelecido pela [Lei n.º 38-A/2023](https://diariodarepublica.pt/dr/detalhe/lei/38-a-2023-216630826) é aplicável aos jovens a partir da maioridade penal e até perfazerem 30 anos, idade limite das JMJ.»;
 
-3 - Acórdão do Tribunal da Relação de Coimbra, de 10-04-2024, processo n.º 1299/10.0PBVIS-A.C1, relatado pela Juíza Desembargadora Alexandra Guiné<sup>32</sup>, concluindo que «[o] perdão previsto [Lei n.º 38-A/2023](https://diariodarepublica.pt/dr/detalhe/lei/38-a-2023-216630826) aplica-se a quem tenha entre 16 e 30 anos de idade à data dos factos, considerando-se como último dia abrangido pelo perdão aquele em que o agente completa 30 anos (as 23h59 m e 59ss desse dia)»;
+3 - Acórdão do Tribunal da Relação de Coimbra, de 10-04-2024, processo n.º 1299/10.0PBVIS-A.C1, relatado pela Juíza Desembargadora Alexandra Guiné32, concluindo que «[o] perdão previsto [Lei n.º 38-A/2023](https://diariodarepublica.pt/dr/detalhe/lei/38-a-2023-216630826) aplica-se a quem tenha entre 16 e 30 anos de idade à data dos factos, considerando-se como último dia abrangido pelo perdão aquele em que o agente completa 30 anos (as 23h59 m e 59ss desse dia)»;
 
-4 - Acórdão do Tribunal da Relação de Évora, de 23-04-2024, processo n.º 2128/13.8TASTB-A.E1, relatado pelo Juiz Desembargador Jorge Antunes<sup>33</sup>, onde se decidiu que «[a]s medidas de clemência estabelecidas pela [Lei 38-A/2023](https://diariodarepublica.pt/dr/detalhe/lei/38-a-2023-216630826), de 2 de agosto têm como destinatários apenas os jovens que já tenham completado 16 anos e que ainda não tenham completado 30 anos de idade, pois que, ainda que se quisesse arredar o argumento lógico formal ancorado na literalidade do artigo 2.º n.º 1 da referida lei, a interpretação que pretende incluir no seu campo de aplicação os jovens com 30 anos e que ainda não tenham completado 31 não subsiste à análise da génese da norma em causa.».
+4 - Acórdão do Tribunal da Relação de Évora, de 23-04-2024, processo n.º 2128/13.8TASTB-A.E1, relatado pelo Juiz Desembargador Jorge Antunes33, onde se decidiu que «[a]s medidas de clemência estabelecidas pela [Lei 38-A/2023](https://diariodarepublica.pt/dr/detalhe/lei/38-a-2023-216630826), de 2 de agosto têm como destinatários apenas os jovens que já tenham completado 16 anos e que ainda não tenham completado 30 anos de idade, pois que, ainda que se quisesse arredar o argumento lógico formal ancorado na literalidade do artigo 2.º n.º 1 da referida lei, a interpretação que pretende incluir no seu campo de aplicação os jovens com 30 anos e que ainda não tenham completado 31 não subsiste à análise da génese da norma em causa.».
 
 12 - Atendendo a que a acepção da norma legal em causa não é apreensível de forma imediata, importará compreender o seu sentido através da sua interpretação.
 
-Conforme refere Germano Marques da Silva, a «interpretação das leis penais obedece às regras comuns. O Código Penal não contém nenhuma norma especial sobre interpretação. As especialidades resultantes da natureza do direito penal e impostas pelo princípio da legalidade respeitam apenas à aplicação retroactiva das leis interpretativas e da proibição de analogia relativamente às normas penais positivas»<sup>34</sup>.
+Conforme refere Germano Marques da Silva, a «interpretação das leis penais obedece às regras comuns. O Código Penal não contém nenhuma norma especial sobre interpretação. As especialidades resultantes da natureza do direito penal e impostas pelo princípio da legalidade respeitam apenas à aplicação retroactiva das leis interpretativas e da proibição de analogia relativamente às normas penais positivas»34.
 
 Estabelece, assim, o artigo 9.º do Código Civil:
 
@@ -427,13 +471,13 @@ Assim, em conformidade com o transcrito normativo, a letra é não só o ponto d
 
 Como tal, «[r]esumindo, embora sem grande rigor, o pensamento geral desta disposição, pode dizer-se que o sentido decisivo da lei coincidirá com a vontade real do legislador, sempre que esta seja clara e inequivocamente demonstrada através do texto legal, do relatório do diploma ou dos próprios trabalhos preparatórios da lei.
 
-Quando, porém, assim não suceda, o Código faz apelo franco, como não poderia deixar de ser, a critérios de carácter objectivo, como são os que constam do n.º 3»<sup>35</sup>.
+Quando, porém, assim não suceda, o Código faz apelo franco, como não poderia deixar de ser, a critérios de carácter objectivo, como são os que constam do n.º 3»35.
 
 Também ensina Américo Taipa de Carvalho que «o nosso Código Civil, art. 9.º, indica os critérios ou factores de interpretação. De acordo com este artigo, cujas disposições são válidas não apenas para o direito civil mas para todos os ramos do direito, incluindo o penal, o intérprete-aplicador deve procurar descobrir qual é “o pensamento legislativo”, isto é, qual é a finalidade e o âmbito normativo da lei: as situações fácticas ou os casos concretos abrangidos pela norma jurídica.
 
-Para conseguir este objectivo, o intérprete deve atender quer às circunstâncias históricas em que a lei foi elaborada quer às circunstâncias actuais em que a lei échamada a ser aplicada, bem como à ratio ou teleologia da norma. Mas há um outro factor da interpretação que não pode ser esquecido: o texto legal ou enunciado linguístico, pois que é este o meio de comunicação entre o legislador e os destinatários da norma jurídica, é este o mediador da normatividade jurídica sobre a realidade fáctica. Ora, o Código Civil, art. 9.º, atribui, correctamente, ao texto legal ou teor literal duas funções essenciais: por um lado, e logicamente, o texto legal é o ponto de partida da interpretação (artigo 9.º-1); por outro lado, e também correctamente, o texto legal impede uma interpretação que não tenha na letra da lei um mínimo de correspondência verbal (art. 9.º-2)» <sup>36</sup>.
+Para conseguir este objectivo, o intérprete deve atender quer às circunstâncias históricas em que a lei foi elaborada quer às circunstâncias actuais em que a lei échamada a ser aplicada, bem como à ratio ou teleologia da norma. Mas há um outro factor da interpretação que não pode ser esquecido: o texto legal ou enunciado linguístico, pois que é este o meio de comunicação entre o legislador e os destinatários da norma jurídica, é este o mediador da normatividade jurídica sobre a realidade fáctica. Ora, o Código Civil, art. 9.º, atribui, correctamente, ao texto legal ou teor literal duas funções essenciais: por um lado, e logicamente, o texto legal é o ponto de partida da interpretação (artigo 9.º-1); por outro lado, e também correctamente, o texto legal impede uma interpretação que não tenha na letra da lei um mínimo de correspondência verbal (art. 9.º-2)» 36.
 
-No particular âmbito das medidas de graça, importa reiterar o já afirmado supra no sentido de que se encontra absolutamente vedada a interpretação extensiva ou analógica. Como tal, as normas em causa deverão ser interpretadas nos exatos termos em que se encontram redigidas, fazendo-se coincidir o elemento literal com o pensamento legislativo<sup>37</sup>.
+No particular âmbito das medidas de graça, importa reiterar o já afirmado supra no sentido de que se encontra absolutamente vedada a interpretação extensiva ou analógica. Como tal, as normas em causa deverão ser interpretadas nos exatos termos em que se encontram redigidas, fazendo-se coincidir o elemento literal com o pensamento legislativo37.
 
 A Lei estabelece de forma direta quais os destinatários da norma: apenas quem tenha entre 16 e 30 anos à data da prática dos factos.
 
@@ -443,9 +487,9 @@ Procurando proceder a uma interpretação declarativa e tentando apurar os motiv
 
 É evidente que o legislador pretendeu limitar as medidas de clemência em função da idade dos seus destinatários. Considerando que a aplicação de tais medidas foi determinada por ocasião da Jornada Mundial da Juventude em Portugal que, como a própria designação indica, tinha como protagonistas principais os jovens, sendo estes os destinatários primordiais do acontecimento, o legislador pretendeu fazer equivaler o universo de aplicabilidade das medidas de clemência, precisamente, a esse grupo etário, portanto, desde a maioridade penal - 16 anos, por essa ser a idade em que os menores passam a ser penalmente imputáveis, nos termos do artigo 19.º do Código Penal - e até que estes jovens perfizessem 30 anos, expressão concretamente utilizada no âmbito da referida Exposição de Motivos.
 
-Verifica-se, assim, que decorre do excerto referido, de forma clara e inequívoca, a identificação das pessoas abrangidas pelas medidas de clemência, sendo utilizada a proposição ‘até’ (“até aos 30 anos”), bem como o verbo ‘perfazer’, consignando-se explicitamente que se tratavam de jovens a partir da maioridade penal “e até perfazerem 30 anos”. Tendo presente que o sentido gramatical do referido verbo ‘perfazer’ significa ‘acabar de fazer’, ‘completar’ ou ‘preencher’<sup>38</sup>, resulta manifesto qual o sentido que se pretendeu atribuir, aquando da elaboração do projeto legislativo e respetiva Exposição de Motivos.
+Verifica-se, assim, que decorre do excerto referido, de forma clara e inequívoca, a identificação das pessoas abrangidas pelas medidas de clemência, sendo utilizada a proposição ‘até’ (“até aos 30 anos”), bem como o verbo ‘perfazer’, consignando-se explicitamente que se tratavam de jovens a partir da maioridade penal “e até perfazerem 30 anos”. Tendo presente que o sentido gramatical do referido verbo ‘perfazer’ significa ‘acabar de fazer’, ‘completar’ ou ‘preencher’38, resulta manifesto qual o sentido que se pretendeu atribuir, aquando da elaboração do projeto legislativo e respetiva Exposição de Motivos.
 
-Em função deste desiderato, o legislador redigiu a norma em causa estabelecendo, precisamente, esse intervalo (‘entre [os] 16 e [os] 30 anos’ de idade). A utilização da preposição ‘entre’ pretende justamente estabelecer um intervalo com limites determinados<sup>39</sup>. É certo que poderia ter adotado uma redação mais clara, para que não surgissem dúvidas acerca da sua intencionalidade, à semelhança da que foi adotada no [Decreto-Lei n.º 401/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1982-319742), de 23 de Setembro (Regime Penal aplicável a Jovens Delinquentes), onde, no artigo 1.º, n.º 2, se estabelece que «[é] considerado jovem para efeitos deste diploma o agente que, à data da prática do crime, tiver completado 16 anos sem ter ainda atingido os 21 anos.» (destaque nosso). A letra da Lei poderia, efetivamente, ter sido mais precisa, não deixando margem a dúvidas ou incertezas, caso o legislador tivesse optado por uma formulação semelhante, ou utilizado as expressões ‘até’, ‘incluindo’ ou ‘excluindo’, de modo a que não surgissem diferentes interpretações acerca do seu sentido e intenção<sup>40</sup>.
+Em função deste desiderato, o legislador redigiu a norma em causa estabelecendo, precisamente, esse intervalo (‘entre [os] 16 e [os] 30 anos’ de idade). A utilização da preposição ‘entre’ pretende justamente estabelecer um intervalo com limites determinados39. É certo que poderia ter adotado uma redação mais clara, para que não surgissem dúvidas acerca da sua intencionalidade, à semelhança da que foi adotada no [Decreto-Lei n.º 401/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1982-319742), de 23 de Setembro (Regime Penal aplicável a Jovens Delinquentes), onde, no artigo 1.º, n.º 2, se estabelece que «[é] considerado jovem para efeitos deste diploma o agente que, à data da prática do crime, tiver completado 16 anos sem ter ainda atingido os 21 anos.» (destaque nosso). A letra da Lei poderia, efetivamente, ter sido mais precisa, não deixando margem a dúvidas ou incertezas, caso o legislador tivesse optado por uma formulação semelhante, ou utilizado as expressões ‘até’, ‘incluindo’ ou ‘excluindo’, de modo a que não surgissem diferentes interpretações acerca do seu sentido e intenção40.
 
 Mas a verdade é que também a utilização da preposição ‘entre’ num sentido corrente, como seja um intervalo de horas, não suscita questões acerca da sua intencionalidade, pois, ao estabelecermos que um determinado evento ocorrerá entre as 10 e as 11 horas, a generalidade das pessoas interpretará que o mesmo terminará quando forem 11 horas e não 11 horas e 59 minutos.
 
@@ -473,15 +517,15 @@ b) Na contagem de qualquer prazo não se inclui o dia, nem a hora, se o prazo fo
 
 c) O prazo fixado em semanas, meses ou anos, a contar de certa data, termina às 24 horas do dia que corresponda, dentro da última semana, mês ou ano, a essa data; mas, se no último mês não existir dia correspondente, o prazo finda no último dia desse mês.
 
-Tendo em consideração as referidas regras, a menoridade só terminará às 24 horas do dia correspondente ao do nascimento. Neste sentido, referem Pires de Lima e Antunes Varela, que «[...] o prazo de uma semana que começou numa segunda-feira termina às 24 horas da segunda-feira seguinte, não se contando, portanto, o dia do início do prazo. O mesmo acontece com o prazo de meses ou anos [...] a menoridade só termina às 24 horas do dia correspondente ao do nascimento. Igualmente só se adquire capacidade para fazer testamento, ou para casar, às 24 horas do dia correspondente ao do nascimento no ano respectivo»<sup>41</sup>.
+Tendo em consideração as referidas regras, a menoridade só terminará às 24 horas do dia correspondente ao do nascimento. Neste sentido, referem Pires de Lima e Antunes Varela, que «[...] o prazo de uma semana que começou numa segunda-feira termina às 24 horas da segunda-feira seguinte, não se contando, portanto, o dia do início do prazo. O mesmo acontece com o prazo de meses ou anos [...] a menoridade só termina às 24 horas do dia correspondente ao do nascimento. Igualmente só se adquire capacidade para fazer testamento, ou para casar, às 24 horas do dia correspondente ao do nascimento no ano respectivo»41.
 
 Do mesmo modo, a idade dos 29 anos só terminará às 24 horas do dia correspondente ao do nascimento respetivo.
 
-Verifica-se, ainda, que interpretação idêntica foi adoptada pela Ordem dos Advogados, aquando da emissão de parecer<sup>42</sup> relativamente ao projeto de Lei em causa, aí se podendo ler que «[o] diploma em apreço, abrange um universo de destinatários até aos 30 anos [...] o acto amnistiante proposto é aplicável a todos aqueles que sendo penalmente imputáveis - isto é todos os maiores de 16 anos (cf. artigo 19.º do Código Penal) - não excedam os 30 anos de idade [...] na criação de um beneficio dirigido apenas a quem tem entre 16 e 30 anos no momento da aplicação».
+Verifica-se, ainda, que interpretação idêntica foi adoptada pela Ordem dos Advogados, aquando da emissão de parecer42 relativamente ao projeto de Lei em causa, aí se podendo ler que «[o] diploma em apreço, abrange um universo de destinatários até aos 30 anos [...] o acto amnistiante proposto é aplicável a todos aqueles que sendo penalmente imputáveis - isto é todos os maiores de 16 anos (cf. artigo 19.º do Código Penal) - não excedam os 30 anos de idade [...] na criação de um beneficio dirigido apenas a quem tem entre 16 e 30 anos no momento da aplicação».
 
-Também o Tribunal Constitucional, debruçando-se sobre a eventual inconstitucionalidade da norma contida no artigo 2.º, n.º 1, da [Lei n.º 38-A/2023](https://diariodarepublica.pt/dr/detalhe/lei/38-a-2023-216630826), de 2 de Agosto, ao estabelecer como condição do perdão de penas que o autor da infracção tenha entre 16 e 30 anos de idade à data da prática do facto, entendeu que estavam em causa pessoas até aos 30 anos<sup>43</sup>.
+Também o Tribunal Constitucional, debruçando-se sobre a eventual inconstitucionalidade da norma contida no artigo 2.º, n.º 1, da [Lei n.º 38-A/2023](https://diariodarepublica.pt/dr/detalhe/lei/38-a-2023-216630826), de 2 de Agosto, ao estabelecer como condição do perdão de penas que o autor da infracção tenha entre 16 e 30 anos de idade à data da prática do facto, entendeu que estavam em causa pessoas até aos 30 anos43.
 
-É igualmente esta orientação adoptada no acórdão do Supremo Tribunal de Justiça, de 19 de Fevereiro de 2025, relatado pelo Conselheiro Lopes da Mota<sup>44</sup>, onde se pode ler que «A clareza dos trabalhos preparatórios, não perturbada ou contrariada por qualquer outro elemento e refletida na formulação literal da norma pelo uso da preposição «entre» - a expressar a ideia de uma situação definida pelos limites de 16 e de 30 anos - exprime a anunciada intencionalidade do seu âmbito: um regime de perdão de penas e de amnistia dirigida «especificamente» a «jovens a partir da maioridade penal, e até perfazerem 30 anos».
+É igualmente esta orientação adoptada no acórdão do Supremo Tribunal de Justiça, de 19 de Fevereiro de 2025, relatado pelo Conselheiro Lopes da Mota44, onde se pode ler que «A clareza dos trabalhos preparatórios, não perturbada ou contrariada por qualquer outro elemento e refletida na formulação literal da norma pelo uso da preposição «entre» - a expressar a ideia de uma situação definida pelos limites de 16 e de 30 anos - exprime a anunciada intencionalidade do seu âmbito: um regime de perdão de penas e de amnistia dirigida «especificamente» a «jovens a partir da maioridade penal, e até perfazerem 30 anos».
 
 Idênticas formulações textuais se encontram, por exemplo, no Código Penal, na definição das idades das vítimas de crimes de abuso sexual de menores dependentes ou em situação particularmente vulnerável (artigo 172.º: «menor entre 14 e 18 anos»), de atos sexuais com adolescentes (artigo 173.º: «menor entre 14 e 16 anos»), ou de recurso à prostituição de menores (artigo 174.º: «menor entre 14 e 18 anos»).
 
@@ -539,111 +583,111 @@ Anote-se, ainda, que a leitura aqui ensaiada - abrange apenas quem ainda não te
 
 Por fim, acresce a tudo isto que com a interpretação da norma na linha do que neste inscrito posicionamento se propugna, com suficiente elasticidade para a permitir, não se mostra violado o princípio da legalidade, uma vez que esta interpretação cabendo no sentido ainda possível dos textos legais, sempre conduz a um resultado interpretativo mais favorável ao arguido e, nesse ensejo, está devidamente acobertado pelo afirmado brocardo, que apenas proíbe a analogia malam partem.
 
-<sup>1</sup> https://app.parlamento.pt/webutils/docs/doc.pdf?path=EHLoDSo%252fudVqI8SUSp8tGryQ7bmoF%252f%252b3yMUvOaUt8Q%252fx5FBQ6CdZvPR8evJW7eo9Ldf5dTQS%252fXLaqovfQQclpdly5TFnUdOGMmj7mt4PkS5MUPj8KPDyB3uFRbs44PGQXQjQ1xtmR3uNsiQSig9UQQ6NUE9%252fRF88CA3%252fOLX3yvp1IyVMkSjRpA%252fZZF8j853AY9i8mPqj%252ba2%252buxitAt%252fWi670bT2xSuAJ9IdZR0lJg0yc8nQB13dg3%252bj%252f9bFYTZCAIXJQPXoRoMYdLUrBlLkp7m8OhB931%252b10FpsceXiXH2DEAiE6Y5RZo%252fXyKcbtNC7qJL2qClRK9Y4FJm6aGRA96g%253d%253d&fich=5e692503-5d66-410a-88f8-a9f66e45a7c9.docx&Inline=true
+1 https://app.parlamento.pt/webutils/docs/doc.pdf?path=EHLoDSo%252fudVqI8SUSp8tGryQ7bmoF%252f%252b3yMUvOaUt8Q%252fx5FBQ6CdZvPR8evJW7eo9Ldf5dTQS%252fXLaqovfQQclpdly5TFnUdOGMmj7mt4PkS5MUPj8KPDyB3uFRbs44PGQXQjQ1xtmR3uNsiQSig9UQQ6NUE9%252fRF88CA3%252fOLX3yvp1IyVMkSjRpA%252fZZF8j853AY9i8mPqj%252ba2%252buxitAt%252fWi670bT2xSuAJ9IdZR0lJg0yc8nQB13dg3%252bj%252f9bFYTZCAIXJQPXoRoMYdLUrBlLkp7m8OhB931%252b10FpsceXiXH2DEAiE6Y5RZo%252fXyKcbtNC7qJL2qClRK9Y4FJm6aGRA96g%253d%253d&fich=5e692503-5d66-410a-88f8-a9f66e45a7c9.docx&Inline=true
 
-<sup>2</sup> https://diariodarepublica.pt/dr/detalhe/decreto-lei/47702-406286.
+2 https://diariodarepublica.pt/dr/detalhe/decreto-lei/47702-406286.
 
-<sup>3</sup> https://diariodarepublica.pt/dr/detalhe/lei/17-1982-394696.
+3 https://diariodarepublica.pt/dr/detalhe/lei/17-1982-394696.
 
-<sup>4</sup> https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=322&tabela=leis&ficha=1&pagina=1.
+4 https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=322&tabela=leis&ficha=1&pagina=1.
 
-<sup>5</sup> A par das referidas iniciativas legislativas justificadas por ocasiões religiosas, houve ainda outras situações que motivaram adotação de medidas de clemência, nomeadamente a [Lei n.º 16/86](https://diariodarepublica.pt/dr/detalhe/lei/16-1986-228855), de 11 de Junho [eleição de Mário Soares como Presidente da República], a [Lei n.º 15/94](https://diariodarepublica.pt/dr/detalhe/lei/15-1994-425348), de 11 de Maio [20.º aniversário do 25 de abril de 2074] e a [Lei n.º 29/99](https://diariodarepublica.pt/dr/detalhe/lei/29-1999-321928), de 12 de Maio [25.º aniversário do 25 de abril de 2074] e a [Lei n.º 9/2020](https://diariodarepublica.pt/dr/detalhe/lei/9-2020-131338919), de 10 de abril [no âmbito da pandemia da doença COVID-19].
+5 A par das referidas iniciativas legislativas justificadas por ocasiões religiosas, houve ainda outras situações que motivaram adotação de medidas de clemência, nomeadamente a [Lei n.º 16/86](https://diariodarepublica.pt/dr/detalhe/lei/16-1986-228855), de 11 de Junho [eleição de Mário Soares como Presidente da República], a [Lei n.º 15/94](https://diariodarepublica.pt/dr/detalhe/lei/15-1994-425348), de 11 de Maio [20.º aniversário do 25 de abril de 2074] e a [Lei n.º 29/99](https://diariodarepublica.pt/dr/detalhe/lei/29-1999-321928), de 12 de Maio [25.º aniversário do 25 de abril de 2074] e a [Lei n.º 9/2020](https://diariodarepublica.pt/dr/detalhe/lei/9-2020-131338919), de 10 de abril [no âmbito da pandemia da doença COVID-19].
 
-<sup>6</sup> https://app.parlamento.pt/webutils/docs/doc.pdf?path=EHLoDSo%252fudVqI8SUSp8tGryQ7bmoF%252f%252b3yMUvOaUt8Q%252fx5FBQ6CdZvPR8evJW7eo9Ldf5dTQS%252fXLaqovfQQclpdly5TFnUdOGMmj7mt4PkS5MUPj8KPDyB3uFRbs44PGQXQjQ1xtmR3uNsiQSig9UQQ6NUE9%252fRF88CA3%252fOLX3yvp1IyVMkSjRpA%252fZZF8j853AY9i8mPqj%252ba2%252buxitAt%252fWi670bT2xSuAJ9IdZR0lJg0yc8nQB13dg3%252bj%252f9bFYTZCAIXJQPXoRoMYdLUrBlLkp7m8OhB931%252b10FpsceXiXH2DEAiE6Y5RZo%252fXyKcbtNC7qJL2qClRK9Y4FJm6aGRA96g%253d%253d&fich=5e692503-5d66-410a-88f8-a9f66e45a7c9.docx&Inline=true
+6 https://app.parlamento.pt/webutils/docs/doc.pdf?path=EHLoDSo%252fudVqI8SUSp8tGryQ7bmoF%252f%252b3yMUvOaUt8Q%252fx5FBQ6CdZvPR8evJW7eo9Ldf5dTQS%252fXLaqovfQQclpdly5TFnUdOGMmj7mt4PkS5MUPj8KPDyB3uFRbs44PGQXQjQ1xtmR3uNsiQSig9UQQ6NUE9%252fRF88CA3%252fOLX3yvp1IyVMkSjRpA%252fZZF8j853AY9i8mPqj%252ba2%252buxitAt%252fWi670bT2xSuAJ9IdZR0lJg0yc8nQB13dg3%252bj%252f9bFYTZCAIXJQPXoRoMYdLUrBlLkp7m8OhB931%252b10FpsceXiXH2DEAiE6Y5RZo%252fXyKcbtNC7qJL2qClRK9Y4FJm6aGRA96g%253d%253d&fich=5e692503-5d66-410a-88f8-a9f66e45a7c9.docx&Inline=true
 
-<sup>7</sup> https://app.parlamento.pt/webutils/docs/doc.pdf?path=XsdFzDrh%252fz8uxVl9TNm1jcqF5H4ixXMN4DTpma5b3ebcoCxKdUN2%252fQjA8%252f0Hhwd2vxsrrRejlaFGQO3Z%252fEshCI5oXY1fELBU0LnGThr%252fnA70rEWBxd0O0MNrAKlEBSKrEYOZBlzXNi%252fVNK3Va7C5ExmdSZWceDrajan1P1FlL9Ppg5QBEStDVmNDHcYFOvjj6sOePSAYyjaX1sFiDF355sL0S5LHMoePj235ts75HV1pay%252fTD4Kqm1zlaQUC8c4cw5c6ZC6bIdX9mrKUfDzIXpxMXRFFzr0XxMVCGlaQlNOQua9q1zzqX76f4MbaIxOlY3Fmg7wwI4G3bZ8rlS0m4OhqwunR0isPU1BuhDVZHZIOJrk%252b6yWflb5m7jnCUilD%252fkwJY0DIadUEG0NaLU71lw%253d%253d&fich=ef9a19e6-8fcc-46ea-888d-9f83b38e0eac.pdf&Inline=true.
+7 https://app.parlamento.pt/webutils/docs/doc.pdf?path=XsdFzDrh%252fz8uxVl9TNm1jcqF5H4ixXMN4DTpma5b3ebcoCxKdUN2%252fQjA8%252f0Hhwd2vxsrrRejlaFGQO3Z%252fEshCI5oXY1fELBU0LnGThr%252fnA70rEWBxd0O0MNrAKlEBSKrEYOZBlzXNi%252fVNK3Va7C5ExmdSZWceDrajan1P1FlL9Ppg5QBEStDVmNDHcYFOvjj6sOePSAYyjaX1sFiDF355sL0S5LHMoePj235ts75HV1pay%252fTD4Kqm1zlaQUC8c4cw5c6ZC6bIdX9mrKUfDzIXpxMXRFFzr0XxMVCGlaQlNOQua9q1zzqX76f4MbaIxOlY3Fmg7wwI4G3bZ8rlS0m4OhqwunR0isPU1BuhDVZHZIOJrk%252b6yWflb5m7jnCUilD%252fkwJY0DIadUEG0NaLU71lw%253d%253d&fich=ef9a19e6-8fcc-46ea-888d-9f83b38e0eac.pdf&Inline=true.
 
-<sup>8</sup> https://app.parlamento.pt/webutils/docs/doc.pdf?path=Hj5BNP7CPin76AE0fEYrHDqF8yMvzP7SF2KYchofOty%252fyO%252bsqXQ%252boWUkkq7vc7VaJLF9d3mtkaiCAOLW1vv%252fHFlfw4YaMc7vIv9WZZ0o0eWfAnIDxCEMYtQdSFrlyIm6KWIlu0HEuIaQRWEcfDPmc8uFBUwn1vKhjOn9HQ0RLr7GqGT8alFFony8oIEwrVotsKwRYEPkFndRJ4uyvq9WcK1F7kQeJmM8M3r4u%252fyCVTj5qTiytREcz6zuWcXGN1cbGatfSdWP2peGZA3RWhFDWUPdzk6%252bT4vViALguQ4dXpXcv6lvWpSkmCHu2KnuB%252bDNf2oBwNRQW1m1PjHrkrXiQOnhv%252bAggOxNKSC5vAB4ed16YEOwfGTMl9fdJQZ4mIkO3FkBzdBnq1KN3h8DO%252fTrUQ%253d%253d&fich=559d4969-83c5-4d77-9097-fd317dc56f73.pdf&Inline=true.
+8 https://app.parlamento.pt/webutils/docs/doc.pdf?path=Hj5BNP7CPin76AE0fEYrHDqF8yMvzP7SF2KYchofOty%252fyO%252bsqXQ%252boWUkkq7vc7VaJLF9d3mtkaiCAOLW1vv%252fHFlfw4YaMc7vIv9WZZ0o0eWfAnIDxCEMYtQdSFrlyIm6KWIlu0HEuIaQRWEcfDPmc8uFBUwn1vKhjOn9HQ0RLr7GqGT8alFFony8oIEwrVotsKwRYEPkFndRJ4uyvq9WcK1F7kQeJmM8M3r4u%252fyCVTj5qTiytREcz6zuWcXGN1cbGatfSdWP2peGZA3RWhFDWUPdzk6%252bT4vViALguQ4dXpXcv6lvWpSkmCHu2KnuB%252bDNf2oBwNRQW1m1PjHrkrXiQOnhv%252bAggOxNKSC5vAB4ed16YEOwfGTMl9fdJQZ4mIkO3FkBzdBnq1KN3h8DO%252fTrUQ%253d%253d&fich=559d4969-83c5-4d77-9097-fd317dc56f73.pdf&Inline=true.
 
-<sup>9</sup> https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/149/2023-07-05/36?pgs=36-46&org=PLC.
+9 https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/149/2023-07-05/36?pgs=36-46&org=PLC.
 
-<sup>10</sup> Brito José de Sousa e, “Sobre a Amnistia”, in Revista Jurídica, n.º 6, 1986, págs. 40 e 42.
+10 Brito José de Sousa e, “Sobre a Amnistia”, in Revista Jurídica, n.º 6, 1986, págs. 40 e 42.
 
-<sup>11</sup> Dias, Jorge de Figueiredo, “Direito Penal Português, Parte Geral, As consequências jurídicas do crime”, 1993, Aequitas Editorial Notícias, pág. 685.
+11 Dias, Jorge de Figueiredo, “Direito Penal Português, Parte Geral, As consequências jurídicas do crime”, 1993, Aequitas Editorial Notícias, pág. 685.
 
-<sup>12</sup> [Assento n.º 2/2001](https://diariodarepublica.pt/dr/detalhe/assento/2-2001-604215), de 25 de outubro de 2001, proferido no âmbito do processo n.º 3209/00-3.
+12 [Assento n.º 2/2001](https://diariodarepublica.pt/dr/detalhe/assento/2-2001-604215), de 25 de outubro de 2001, proferido no âmbito do processo n.º 3209/00-3.
 
-<sup>13</sup> Gonçalves, Maia, “As medidas de graça no Código Penal e no projecto de revisão”, in Revista Portuguesa de Ciência Criminal, Aequitas Editorial Notícias, Ano 4, Fasc. 1, janeiro-março 1994, pág. 7.
+13 Gonçalves, Maia, “As medidas de graça no Código Penal e no projecto de revisão”, in Revista Portuguesa de Ciência Criminal, Aequitas Editorial Notícias, Ano 4, Fasc. 1, janeiro-março 1994, pág. 7.
 
-<sup>14</sup> Neste sentido, Dias, Jorge de Figueiredo, op. cit., pág. 687, bem como Acórdão de Fixação de Jurisprudência n.º 2/2023, processo n.º 132/15.0TXEVR-F.E1-A.S1, datado de 15 de dezembro de 2022, relatado pelo Conselheiro Paulo Ferreira da Cunha, disponível em
+14 Neste sentido, Dias, Jorge de Figueiredo, op. cit., pág. 687, bem como Acórdão de Fixação de Jurisprudência n.º 2/2023, processo n.º 132/15.0TXEVR-F.E1-A.S1, datado de 15 de dezembro de 2022, relatado pelo Conselheiro Paulo Ferreira da Cunha, disponível em
 
 https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/2-2023-206800919.
 
-<sup>15</sup> Gonçalves, Maia, op. cit., pág. 10.
+15 Gonçalves, Maia, op. cit., pág. 10.
 
-<sup>16</sup> Dias, Jorge de Figueiredo, op.cit..
+16 Dias, Jorge de Figueiredo, op.cit..
 
-<sup>17</sup> Canotilho, Mariana e Pinto, Ana Luísa, “As medidas de clemência na ordem jurídica portuguesa” in Estudos em Memória do Conselheiro Luís Nunes de Almeida, Coimbra Editora, págs. 336 e 337.
+17 Canotilho, Mariana e Pinto, Ana Luísa, “As medidas de clemência na ordem jurídica portuguesa” in Estudos em Memória do Conselheiro Luís Nunes de Almeida, Coimbra Editora, págs. 336 e 337.
 
-<sup>18</sup> Canotilho, Mariana e Pinto, Ana Luísa, op. cit., pág. 338.
+18 Canotilho, Mariana e Pinto, Ana Luísa, op. cit., pág. 338.
 
-<sup>19</sup> Acórdãos do Supremo Tribunal de Justiça de 7 de dezembro de 1977, in Boletim do Ministério da Justiça, n.º 272, citado no [Assento n.º 2/2001](https://diariodarepublica.pt/dr/detalhe/assento/2-2001-604215), de 25 de outubro de 2001, proferido no âmbito do processo n.º 3209/00-3.
+19 Acórdãos do Supremo Tribunal de Justiça de 7 de dezembro de 1977, in Boletim do Ministério da Justiça, n.º 272, citado no [Assento n.º 2/2001](https://diariodarepublica.pt/dr/detalhe/assento/2-2001-604215), de 25 de outubro de 2001, proferido no âmbito do processo n.º 3209/00-3.
 
-<sup>20</sup> [Assento n.º 2/2001](https://diariodarepublica.pt/dr/detalhe/assento/2-2001-604215), de 25 de outubro de 2001, proferido no âmbito do processo n.º 3209/00-3.
+20 [Assento n.º 2/2001](https://diariodarepublica.pt/dr/detalhe/assento/2-2001-604215), de 25 de outubro de 2001, proferido no âmbito do processo n.º 3209/00-3.
 
-<sup>21</sup> Aguilar, Francisco, “Amnistia e Constituição”, Almedina, 2004, pág. 119, nota de rodapé n.º 557.
+21 Aguilar, Francisco, “Amnistia e Constituição”, Almedina, 2004, pág. 119, nota de rodapé n.º 557.
 
-<sup>22</sup> Ferrara, Francesco, “Interpretação e Aplicação das Leis”, Coimbra, Arménio Amado, 3.ª edição, 1978, pág. 147.
+22 Ferrara, Francesco, “Interpretação e Aplicação das Leis”, Coimbra, Arménio Amado, 3.ª edição, 1978, pág. 147.
 
-<sup>23</sup> Acórdão do Supremo Tribunal de Justiça, de 7 de abril de 2021, processo n.º 628/17.0PYLSBA.S1, relatado pelo Conselheiro Paulo Ferreira da Cunha, disponível em
+23 Acórdão do Supremo Tribunal de Justiça, de 7 de abril de 2021, processo n.º 628/17.0PYLSBA.S1, relatado pelo Conselheiro Paulo Ferreira da Cunha, disponível em
 
 https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/642e0412b766e336802586e1002f55ac?OpenDocument.
 
-<sup>24</sup> Disponível em
+24 Disponível em
 
 https://www.dgsi.pt/jtrc.nsf/c3fb530030ea1c61802568d9005cd5bb/36dca2a9c1a0ee9680258ade00526507?OpenDocument.
 
-<sup>25</sup> Disponível em
+25 Disponível em
 
 https://www.dgsi.pt/jtrc.nsf/c3fb530030ea1c61802568d9005cd5bb/a35d9087b4a83ce380258bce00399174?OpenDocument.
 
-<sup>26</sup> Disponível em
+26 Disponível em
 
 https://www.dgsi.pt/jtrp.nsf/56a6e7121657f91e80257cda00381fdf/5bd2a0d2e216765480258bf200693c88?OpenDocument.
 
-<sup>27</sup> Disponível em
+27 Disponível em
 
 https://www.dgsi.pt/jtrg.nsf/86c25a698e4e7cb7802579ec004d3832/901e9daf3b1a512880258afb00336148?OpenDocument.
 
-<sup>28</sup> Disponível em
+28 Disponível em
 
 https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/dab573c60a05c41f80258b000033757e?OpenDocument.
 
-<sup>29</sup> Disponível em
+29 Disponível em
 
 https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/9aa286335fd114d780258ae400411c96?OpenDocument.
 
-<sup>30</sup> Disponível em
+30 Disponível em
 
 https://www.dgsi.pt/jtrl.nsf/33182fc732316039802565fa00497eec/a3a8b6f44581507780258bce005ac23d?OpenDocument.
 
-<sup>31</sup> Disponível em
+31 Disponível em
 
 https://www.dgsi.pt/jtrc.nsf/c3fb530030ea1c61802568d9005cd5bb/ec89d239e78e191f80258b080048e647?OpenDocument.
 
-<sup>32</sup> Disponível em
+32 Disponível em
 
 https://www.dgsi.pt/jtrc.nsf/c3fb530030ea1c61802568d9005cd5bb/137b3febf4102d2080258b08004645ca?OpenDocument.
 
-<sup>33</sup> Disponível em
+33 Disponível em
 
 https://www.dgsi.pt/jtre.nsf/134973db04f39bf2802579bf005f080b/fa13d0a39fec713880258b11002f7c69?OpenDocument.
 
-<sup>34</sup> “Direito Penal Português”, Parte Geral, I, Introdução e Teoria da Lei Penal, Editorial Verbo, 1997, págs. 248 e 249.
+34 “Direito Penal Português”, Parte Geral, I, Introdução e Teoria da Lei Penal, Editorial Verbo, 1997, págs. 248 e 249.
 
-<sup>35</sup> Lima, Pires de, e Varela, Antunes, “Código Civil Anotado”, Volume I, Coimbra Editora, 1987, anotação ao artigo 9.º, págs. 58 e 59.
+35 Lima, Pires de, e Varela, Antunes, “Código Civil Anotado”, Volume I, Coimbra Editora, 1987, anotação ao artigo 9.º, págs. 58 e 59.
 
-<sup>36</sup> “Direito Penal”, Parte Geral, Questões Fundamentais, Teoria Geral do Crime, 2.ª Edição, Coimbra Editora, 2008, pág. 165.
+36 “Direito Penal”, Parte Geral, Questões Fundamentais, Teoria Geral do Crime, 2.ª Edição, Coimbra Editora, 2008, pág. 165.
 
-<sup>37</sup> Neste sentido, o Acórdão de Fixação de Jurisprudência n.º 2/2001, de 25 de outubro de 2001, proferido no processo n.º 3209/00-3, relatado pelo Conselheiro Luís Flores Ribeiro, disponível em
+37 Neste sentido, o Acórdão de Fixação de Jurisprudência n.º 2/2001, de 25 de outubro de 2001, proferido no processo n.º 3209/00-3, relatado pelo Conselheiro Luís Flores Ribeiro, disponível em
 
 https://files.dre.pt/1s/2001/11/264a00/72207227.pdf.
 
-<sup>38</sup> https://www.infopedia.pt/dicionarios/lingua-portuguesa/perfazer.
+38 https://www.infopedia.pt/dicionarios/lingua-portuguesa/perfazer.
 
-<sup>39</sup> https://www.infopedia.pt/dicionarios/lingua-portuguesa/entre.
+39 https://www.infopedia.pt/dicionarios/lingua-portuguesa/entre.
 
-<sup>40</sup> À semelhança, aliás, da sugestão apresentada pelo Conselho Superior do Ministério Público, no parecer apresentado, onde se pode ler que
+40 À semelhança, aliás, da sugestão apresentada pelo Conselho Superior do Ministério Público, no parecer apresentado, onde se pode ler que
 
 «Por último, observa-se que a manter-se esta opção legislativa, a redação do artigo 2.º deverá precisar, para evitar dúvidas futuras, se a amnistia e o perdão abrangerão aqueles que tenham 30 anos de idade (à data da prática do facto) ou somente até ao dia em que perfaçam 30 anos de idade, não se ultrapassando esta data.
 
@@ -655,14 +699,16 @@ Disponível em
 
 https://app.parlamento.pt/webutils/docs/doc.pdf?path=SbJUplD60Z74Gc3NzhvF2W0EytoKNT3bffK78HuCu5yxlPZbHvadVPPL9 %252fngCpTRNtEQw33QhGf%252fOKD4qsl6xEQs%252f3WIdLuJ5jTxibfigT%252fmgOCg%252bte4J8epbjvBpuSX3wfqPJc%252fGd%252bv4K9U%252bCpgCkvWWo%252blu9406bNIFy7gQMhlBeb0DxhfX%252b9ukxn7X2pTeXUVtAwy6qj4nQP5Fay%252bK%252fncDFO4PUCjMdJ5HKMxL0x%252f1bAojYTUtQAze%252fZn%252bL4h9vbu2 %252fuTCh68m3 %252bICaFkN3REFjXwr0OK5lBQbxba5UeFawV1 %252f2ghf9C3yijddgZnmRLh0lnk04wEUx%252fzL2XuM9ncsjU86I7Ka6LW64rgEkU5TADzhEOuB0tIU6n9EC1htpzGF0oF8R4j6ALYKTIlMg%253d%253d&fich=eebf05ab-39cc-4e02-9d02-1f68b4b3c1db.pdf&Inline=true.
 
-<sup>41</sup> Op. cit., anotação ao artigo 279.º, pág. 256. Do mesmo modo, Cordeiro, António Menezes, “Código Civil Comentado”, Almedina, 2029 anotação ao artigo 279.º, pág. 804, refere que «o prazo fixado em semanas, meses ou anos, a contar de certa data, termina às 24 horas do dia que corresponda, dentro da última semana, mês ou ano, a essa data».
+41 Op. cit., anotação ao artigo 279.º, pág. 256. Do mesmo modo, Cordeiro, António Menezes, “Código Civil Comentado”, Almedina, 2029 anotação ao artigo 279.º, pág. 804, refere que «o prazo fixado em semanas, meses ou anos, a contar de certa data, termina às 24 horas do dia que corresponda, dentro da última semana, mês ou ano, a essa data».
 
-<sup>42</sup> https://app.parlamento.pt/webutils/docs/doc.pdf?path=Du%252bOupZ%252fPQNBir1ZmBxDotpzB%252bs9bGp%252b%252btdD1zOOkkntNwKN3xkcxBILxM6pk%252f3 %252f1CoGINh6xX3gp9oFKWm4WMd%252fF%252bl0aod%252f7upiGHugGx%252bKtYouRk2BlhWekCKaQhQTgaKRYP6VB4Qr94tmrqy7VFYifAcrUMnmLESCBxTS54RDRTvCylH8qN%252fRHxr8JQ2kToh7ZUIliLKL%252fpIDMdORmQS7H40u7im0JVJFFD1CmYMEBA7reFtBLDkBvI4nI7j%252fDtH8RmFk9zZMV%252fwUCPKX%252fN0UmXkwYO2V%252bHxg%252f95COe013jM7ppY98sTnMAZ%252bmzufel6iMDjnBcL0cbv%252fN9fxYKXAuTT0x7ZkixVkkszXIEBss%252bm6WcCTm8TVbgODDp1KOpKZ3UF6ZRY9 %252f8PpZFhRqw%253d%253d&fich=4f2b9f84-b304-4326-8cfe-40ed063f69f4.pdf&Inline=true
+42 https://app.parlamento.pt/webutils/docs/doc.pdf?path=Du%252bOupZ%252fPQNBir1ZmBxDotpzB%252bs9bGp%252b%252btdD1zOOkkntNwKN3xkcxBILxM6pk%252f3 %252f1CoGINh6xX3gp9oFKWm4WMd%252fF%252bl0aod%252f7upiGHugGx%252bKtYouRk2BlhWekCKaQhQTgaKRYP6VB4Qr94tmrqy7VFYifAcrUMnmLESCBxTS54RDRTvCylH8qN%252fRHxr8JQ2kToh7ZUIliLKL%252fpIDMdORmQS7H40u7im0JVJFFD1CmYMEBA7reFtBLDkBvI4nI7j%252fDtH8RmFk9zZMV%252fwUCPKX%252fN0UmXkwYO2V%252bHxg%252f95COe013jM7ppY98sTnMAZ%252bmzufel6iMDjnBcL0cbv%252fN9fxYKXAuTT0x7ZkixVkkszXIEBss%252bm6WcCTm8TVbgODDp1KOpKZ3UF6ZRY9 %252f8PpZFhRqw%253d%253d&fich=4f2b9f84-b304-4326-8cfe-40ed063f69f4.pdf&Inline=true
 
-<sup>43</sup> Entre outros, acórdão do Tribunal Constitucional de 5 de dezembro de 2024, relatado pela Conselheira Joana Fernandes Costa, Processo n.º 859/2024, referindo que «Não cabe ao Tribunal Constitucional apreciar a adequação da qualificação de “jovens” quando aplicada a pessoas até 30 anos [nem em absoluto, nem por comparação com outras normas que regulem quaisquer regimes aplicáveis a “jovens”, em diversos contextos e sentidos, como procuraram fazer a decisão recorrida e, na sequência desta, o arguido recorrido nas suas alegações, exercício que se afigura inútil, dada a enorme flexibilidade e imprecisão do conceito, usado em inúmeras situações incomparáveis, e que só poderia servir para delimitar negativamente extremos que manifestamente não estão aqui em causa, nem tão-pouco apreciar a adequação desta opção no quadro da Jornada Mundial da Juventude [...]», disponível em
+43 Entre outros, acórdão do Tribunal Constitucional de 5 de dezembro de 2024, relatado pela Conselheira Joana Fernandes Costa, Processo n.º 859/2024, referindo que «Não cabe ao Tribunal Constitucional apreciar a adequação da qualificação de “jovens” quando aplicada a pessoas até 30 anos [nem em absoluto, nem por comparação com outras normas que regulem quaisquer regimes aplicáveis a “jovens”, em diversos contextos e sentidos, como procuraram fazer a decisão recorrida e, na sequência desta, o arguido recorrido nas suas alegações, exercício que se afigura inútil, dada a enorme flexibilidade e imprecisão do conceito, usado em inúmeras situações incomparáveis, e que só poderia servir para delimitar negativamente extremos que manifestamente não estão aqui em causa, nem tão-pouco apreciar a adequação desta opção no quadro da Jornada Mundial da Juventude [...]», disponível em
 
 https://www.tribunalconstitucional.pt/tc/acordaos/20240860.html.
 
-<sup>44</sup> Processo n.º 217/22.7PVLSB.L2.S1, disponível em
+44 Processo n.º 217/22.7PVLSB.L2.S1, disponível em
 
 https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/0ed0d010a26a666b80258c370034291b?OpenDocument.
+
+119711078

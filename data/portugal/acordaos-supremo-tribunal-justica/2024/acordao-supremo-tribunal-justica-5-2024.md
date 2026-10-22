@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/05/09000/0000300041.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/5/2024/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/5-2024-864224893
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-05-09T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af9c39b6504df7d06f23b5c8e8af6c06ceff44024541d982aad73be552c6716d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f6d18dbcd859963c4c0b6a979c185d3076e931137d994ec0252aa12d51fbfbb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Código Penal
 - Interpretação do Direito
 - Jurisprudencia
 - Supremo Tribunal de Justiça
-- Código Penal
 relationships:
 - type: cites
   target: celex:32018R1805
@@ -117,20 +117,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/47/2007/09/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/47/2007/09/21/p/dre
+- type: cites
+  target: pt:dre:107094725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70361321:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32014L0042
   label: null
   source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:13Z'
   warnings: []
   errors: []
 ---
@@ -235,7 +291,7 @@ Por outro lado, esta disposição liga-se com o n.º 3 do artigo 445.º do CPP q
 
 Quanto ao regime de interposição, efeito e processamento do recurso, este mostra-se previsto no capítulo “Da fixação de jurisprudência” (Capítulo II, do Título II “Dos recursos extraordinários”, do Livro IX “Dos recursos”) - cf. artigo 437.º e seguintes, do CPP.
 
-E, sendo assim, tem assumido a jurisprudência que, para a admissibilidade deste recurso extraordinário, impõe-se a verificação de determinados pressupostos de natureza formal e substancial (cf. artigos 437.º e 438.º, n.<sup>os</sup>1 e 2, do CPP).
+E, sendo assim, tem assumido a jurisprudência que, para a admissibilidade deste recurso extraordinário, impõe-se a verificação de determinados pressupostos de natureza formal e substancial (cf. artigos 437.º e 438.º, n.os1 e 2, do CPP).
 
 Assim, contam-se como pressupostos de natureza formal:
 
@@ -523,7 +579,7 @@ O normativo em questão, bem como os demais que integravam o capítulo “Perda 
 
 4 - Se a lei não fixar destino especial aos instrumentos perdidos nos termos dos números anteriores, pode o juiz ordenar que sejam total ou parcialmente destruídos ou postos fora do comércio. (...)”
 
-###### Artigo 111.º do Código Penal
+Artigo 111.º do Código Penal
 
 (Instrumentos, produtos ou vantagens pertencentes a terceiro)
 
@@ -543,7 +599,7 @@ c) Os instrumentos, produtos ou vantagens, ou o valor a estes correspondente, ti
 
 Finalmente, os artigos 112.º e 112.º-A, do CP, preveem a forma de pagamento do valor declarado perdido a favor do Estado.
 
-Da alteração legislativa operada constata-se que a anterior redacção do artigo 111.º, n.<sup>os</sup>2 e 4, do CP, equivale à actual redacção do artigo 110.º, n.<sup>os</sup>1, alínea b) e 4, do mesmo diploma legal. Não obstante, uma vez que o objecto da fixação da jurisprudência se refere expressamente à redacção do artigo 111.º, do CP, na redacção introduzida pela [Lei n.º 32/2010](https://diariodarepublica.pt/dr/detalhe/lei/32-2010-344253), de 02/09, será esta a ser tida em conta para efeitos da análise que segue.
+Da alteração legislativa operada constata-se que a anterior redacção do artigo 111.º, n.os2 e 4, do CP, equivale à actual redacção do artigo 110.º, n.os1, alínea b) e 4, do mesmo diploma legal. Não obstante, uma vez que o objecto da fixação da jurisprudência se refere expressamente à redacção do artigo 111.º, do CP, na redacção introduzida pela [Lei n.º 32/2010](https://diariodarepublica.pt/dr/detalhe/lei/32-2010-344253), de 02/09, será esta a ser tida em conta para efeitos da análise que segue.
 
 3 - Das modalidades de perda
 
@@ -693,7 +749,7 @@ Contudo, também não a considera análoga à medida de segurança, pois inexist
 
 6.5 - Também o Tribunal Europeu dos Direitos do Homem (TEDH) já se pronunciou a este respeito. Na verdade, porque pode ser complexa a tarefa de determinar se o regime previsto para um determinado procedimento ablativo (a perda de vantagens) é conciliável com os direitos fundamentais estabelecidos, sentiu aquele tribunal a necessidade de encontrar critérios para determinar previamente se serão aplicáveis as regras estabelecidas na Convenção Europeia dos Direitos Humanos relativas a direitos de natureza penal ou de natureza civil.
 
-Assim, para aferir da compatibilidade do regime previsto para a perda de vantagens nas diversas legislações nacionais com o catálogo das garantias e os direitos fundamentais consagrados nos diplomas que regulam os direitos e liberdades fundamentais, o TEDH criou os parâmetros ou princípios, conhecidos como "Engel criteria", que permitem aferir da natureza penal de uma determinada consequência do facto e determinar quando se devem aplicar as garantias previstas para as penas - princípios criados no Acórdão Engel and others vs. Netherlands - Procs. queixas n.<sup>os</sup>5100/71,5101/71, 5102/71, 5354/72 e 5370/72, de 08-06-1976.
+Assim, para aferir da compatibilidade do regime previsto para a perda de vantagens nas diversas legislações nacionais com o catálogo das garantias e os direitos fundamentais consagrados nos diplomas que regulam os direitos e liberdades fundamentais, o TEDH criou os parâmetros ou princípios, conhecidos como "Engel criteria", que permitem aferir da natureza penal de uma determinada consequência do facto e determinar quando se devem aplicar as garantias previstas para as penas - princípios criados no Acórdão Engel and others vs. Netherlands - Procs. queixas n.os5100/71,5101/71, 5102/71, 5354/72 e 5370/72, de 08-06-1976.
 
 Nestes termos, os princípios "Engel Criteria" consistem: (i) na qualificação formal da infracção no ordenamento jurídico nacional, (ii) na natureza intrínseca da infracção, e (iii) no grau de severidade da sanção que está associada à infracção. Com estes critérios o TEDH não pretendeu substituir-se aos ordenamentos nacionais para determinar a natureza de uma determinada sanção, mas, tão só, reiterar que o conceito de ‘pena’ em ‘matéria penal’, "criminal charge" previsto na Convenção, possui autonomia relativamente à classificação formal dos Estados e é independente para efeitos de aplicação da Convenção.
 
@@ -982,3 +1038,5 @@ Assim, a jurisprudência aqui fixada (no seguinte sentido: “Nos termos do disp
 E é nesse sentido que voto a jurisprudência fixada (e respetiva fundamentação essencial que a suporta), uma vez que entendo que, só assim, pode ter plena eficácia a decisão, como resulta do disposto no art. 445.º do CPP, de acordo com a natureza e finalidade deste recurso excecional, tendo presente que na oposição de julgados em ambos os casos concretos, foi requerida pelo MP a declaração de perda de vantagens, não sendo aplicável o também invocado artigo 130.º do Código Penal.
 
 Maria do Carmo Silva Dias
+
+117666688

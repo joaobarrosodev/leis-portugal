@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/79/2004/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/79-2004-622784
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-26T00:00:00Z'
+  retrieved_at: '2026-10-22T19:04:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 075fe393661e9afe4929f943f70c3bef8219b051a598944e0bce5b31fb70b8c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b84b6edd865b3a1ce2ebbc6ba3039008a1ead1f99f48fdd872b878cd13e22d72
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:04:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,30 +68,41 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Certificação Profissional
-- Plano de Estudos
 - Diploma
+- Educação dos Adultos
 - Ensino Técnico Profissional
 - Escola Profissional
-- Educação dos Adultos
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:147648:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147648:por
+  label: "Extinto o curso profissional de Técnico Mecânica/Manutenção Industrial, criado pela Port 889/2004, de 21-Jul, rectificado\
+    \ pela presente Declaraçã, pela PORT.894/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005, sem prejuízo do disposto no\
+    \ n.º 8.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/894-2005-147648
+  date: '2005-09-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/889/2004/07/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/889/2004/07/21/p/dre
+- type: cites
+  target: pt:dre:505655:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:04:10Z'
   warnings: []
   errors: []
 ---

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/11100/0004600075.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/247/2021/06/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/247-2021-164870238
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-09T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 432ce2aadcadb51155b173d48e7275e6c009314d8234ffd1e429f049b7f58353
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc81cd5156dbf2dec473cb0648fc14154b812149600c6e7dd45ca9d23cc05fef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,16 +69,16 @@ reuse:
 subjects:
 - Assembleia de Freguesia
 - Assembleia Municipal
+- Câmara Municipal
 - Cidadão Nacional
+- Direitos Cívicos
+- Direitos Políticos
 - Eleição Autárquica
 - Eleito Local
 - Inconstitucionalidade
 - Interpretação do Direito
 - Junta de Freguesia
-- Direitos Cívicos
-- Direitos Políticos
 - Sistema Eleitoral
-- Câmara Municipal
 relationships:
 - type: cites
   target: eli:http
@@ -127,13 +127,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:13Z'
   warnings: []
   errors: []
 ---
@@ -631,3 +631,5 @@ Mas ainda que não fosse este o entendimento - isto é, mesmo que se configurass
 Neste quadro, mesmo que se qualificasse como restrição legislativa a limitação do direito de apresentar candidaturas aos órgãos autárquicos da área respeitante ao recenseamento dos proponentes, sempre se teria a medida por adequada ao objetivo: a tutela de interesses próprios da população respetiva. E não é conjeturável outra medida menos restritiva que concorresse igualmente para o objetivo de autogestão de cada comunidade local - o que autoriza a conclusão de que se respeitaria o princípio da proporcionalidade -, não se podendo assacar ao corpo normativo fiscalizado uma violação desproporcionada do direito dos cidadãos a participar na vida política.
 
 Por último, o facto de um GCE não poder concorrer indiretamente a «todos os mandatos» da assembleia municipal, através da eleição dos presidentes das juntas de freguesia, também não constitui qualquer restrição ao direito de participação política. Os presidentes da junta integram a assembleia municipal por «inerência» e não por «eleição» (artigo 251.º da CRP) e, por conseguinte, não são representantes das freguesias junto do município. Ora, se a presença dos presidentes da junta na assembleia municipal pode constituir um fator de distorção na representação proporcional, podendo comprometer a formação de maiorias e perturbar o relacionamento com o executivo, isso resulta da restrição que o artigo 251.º faz ao n.º 2 do artigo 239.º da Constituição, ao impor que a assembleia municipal seja em parte constituída por membros por inerência, e não do modus de formação e expressão da vontade popular previsto na lei. - Lino Rodrigues Ribeiro.
+
+114268501

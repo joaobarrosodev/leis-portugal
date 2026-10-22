@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44191-1962-518995
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:28:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77270ad8b815736aca1f638ba5fc6d1513b7ef67c2ecd82c38d6059c7c6f4959
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8dfdeb966a1b45012fe331747c8892bd2b3ca13a7f436c9d01f3139e0b052841
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:28:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,27 @@ relationships:
   target: pt:dre:256656:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:256656:por
+  label: "Mantido no quinquénio de 1969 a 1973, relativamente à verba destinada a pessoal auxiliar da tesouraria da Fazenda\
+    \ Pública junto do Tribunal de 1.ª Instância da Contribuições e Impostos do Porto, o regime estabelecido pelo art. único\
+    \ deste diploma pelo DEC LEI.48813.31.12.1968.MF, DG.IS [307] de 31.12.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48813-1968-256656
+  date: '1968-12-31'
+- type: cites
+  target: pt:dre:184478:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:28:08Z'
   warnings: []
   errors: []
 ---
@@ -98,8 +109,8 @@ Independentemente da revisão que deverá ser feita no termo do presente quinqu�
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. As verbas anuais atribuídas para pessoal auxiliar das tesourarias da Fazenda Pública junto dos Tribunais Privativos de 1.ª Instância do Contencioso das Contribuições e Impostos de Lisboa e Porto, de harmonia com o artigo 3.º do Decreto-lei n.º 42519, de 22 de Setembro de 1959, e constantes da relação anexa ao mesmo diploma, serão, respectivamente, de 77196$30 e 45195$00 até ao termo do respectivo quinquénio de 1959 a 1963.
+Artigo único. As verbas anuais atribuídas para pessoal auxiliar das tesourarias da Fazenda Pública junto dos Tribunais Privativos de 1.ª Instância do Contencioso das Contribuições e Impostos de Lisboa e Porto, de harmonia com o artigo 3.º do Decreto-lei n.º 42519, de 22 de Setembro de 1959, e constantes da relação anexa ao mesmo diploma, serão, respectivamente, de 77196$30 e 45195$00 até ao termo do respectivo quinquénio de 1959 a 1963.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 17 de Fevereiro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa.

@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 302/1996, 4º Suplemento, Série I-A de 1996-12-31
   number: '302'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 4716-(32) a 4716-(32)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/12/302a04/00320032.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/16-r/1996/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-r-1996-276194
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:47:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afe92eb8f2a9e1d3126c1d570deaf4991912357db451aeca7ec0f21f5110ad36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b118c56908383099787c424c5f0e2012813e30b92c67ae88331a2ff5d0bddddc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:47:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
-- Saneamento Básico
+- Águas Residuais
+- Autarquia Local
 - Contrato de Concessão
+- Gestão de Resíduos
 - Ministro do Ambiente
 - Proteção do Ambiente
-- Águas Residuais
-- Serviço Público
 - Regime Jurídico
-- Autarquia Local
+- Saneamento Básico
+- Serviço Público
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/1996/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/162/1996/09/04/p/dre
+- type: cites
+  target: pt:dre:241638:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:47:39Z'
   warnings: []
   errors: []
 ---

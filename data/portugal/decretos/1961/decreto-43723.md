@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43723-1961-172142
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-06-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:24:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d410749bc6ef19a83f40c7740cd11928550b097daa384a61910382cb77032397
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 463c74c250919f6d49b3b45977e4ef8428e134c5d4d2084d6f0cadecc50cf6f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:24:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:24:08Z'
   warnings: []
   errors: []
 ---
@@ -89,10 +89,10 @@ Considerando que o encargo com a referida aquisição será pago parte no ano de
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Junta de Colonização Interna a contratar com Luís de La Feria Assis e Orta a compra das herdades denominadas «Abóbada», «Sentinela», «Valadas», «Peral» e «Lucas», situadas nas freguesias de Vale de Vargo e Aldeia Nova de S. Bento, concelho de Serpa, pela importância de 18000000$00.
+Artigo 1.º É autorizada a Junta de Colonização Interna a contratar com Luís de La Feria Assis e Orta a compra das herdades denominadas «Abóbada», «Sentinela», «Valadas», «Peral» e «Lucas», situadas nas freguesias de Vale de Vargo e Aldeia Nova de S. Bento, concelho de Serpa, pela importância de 18000000$00.
 
-###### Art. 2.º O pagamento far-se-á em duas prestações, uma de 3000000$00, no ano económico de 1961, e a outra de 15000000$00, no de 1962.
+Art. 2.º O pagamento far-se-á em duas prestações, uma de 3000000$00, no ano económico de 1961, e a outra de 15000000$00, no de 1962.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Junho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - José do Nascimento Ferreira Dias Júnior - João Mota Pereira de Campos.

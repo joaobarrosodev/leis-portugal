@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/602/2013/10/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/602-2013-502979
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-24T00:00:00Z'
+  retrieved_at: '2026-10-22T18:24:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f0294c8e3a5bceb45f60905da5e81cef1d0d2c5d384587297758512630a0d49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 986726be56247a8f72ee55478a0eb8c7d7bd0625ee84ebee4df59609dc03e6ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:24:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo Colectivo de Trabalho
-- Despedimento
-- Direito do Trabalho
 - Código do Trabalho
 - Convenção Coletiva de Trabalho
+- Despedimento
+- Direito do Trabalho
 - Inconstitucionalidade
 relationships:
+- type: amends
+  target: pt:numero:lei:7/2009
+  label: "Declara a inconstitucionalidade, com força obrigatória geral, das normas do artigo 368.º, n.º 2 e nº 4 do Código\
+    \ do Trabalho, aprovado pela Lei n.º 7/2009, de 12-fev, DR IS [30], na redação da Lei 23/2012, de 25-jun\0\0"
+  source: null
+  date: '2009-02-12'
 - type: cites
   target: eli:http://data.dre.
   label: null
@@ -118,16 +124,88 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
+- type: cites
+  target: pt:dre:1697338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1960637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671046:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:24:19Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +240,7 @@ viii) Artigo 368.º, n.os 2 e 4 - os números em causa disciplinam matéria atin
 
 ix) Artigo 375.º, n.os 1, alíneas b), d) (revogada) e e) (revogada), 2, 3, 4, 5, 6, 7 e 8 (anterior n.º 5) - este artigo disciplina matéria atinente ao despedimento por inadaptação [as alíneas d) e e) do n.º 1 foram revogadas pelo artigo 9.º, n.º 2, da [Lei n.º 23/2012](https://diariodarepublica.pt/dr/detalhe/lei/23-2012-178501), de 25 de junho];
 
-###### Artigo 7.º, com a epígrafe "Relações entre fontes de regulação" - trata-se de preceito não do Código do Trabalho, mas da [Lei n.º 23/2012](https://diariodarepublica.pt/dr/detalhe/lei/23-2012-178501), de 25 de junho.
+Artigo 7.º, com a epígrafe "Relações entre fontes de regulação" - trata-se de preceito não do Código do Trabalho, mas da [Lei n.º 23/2012](https://diariodarepublica.pt/dr/detalhe/lei/23-2012-178501), de 25 de junho.
 
 Os requerentes consideram que a Constituição da República Portuguesa "atribui aos trabalhadores um conjunto de direitos fundamentais, individuais e coletivos, garantes da sua dignidade como seres humanos, quer como cidadãos, quer como trabalhadores. Estes direitos fundamentais, nos termos do artigo 18.º da Constituição, impõem-se às entidades públicas e privadas, não podendo a extensão e o alcance do seu conteúdo ser diminuídos pela lei ordinária". Entendem igualmente que os princípios fundamentais do direito do trabalho consignados na Constituição "acolhem um conceito de direito do trabalho como direito de compensação e proteção do trabalhador enquanto contraente mais fraco na relação de trabalho, reconhecendo o manifesto desequilíbrio entre os poderes da entidade patronal e do trabalhador, o que está na base da relevância constitucional dada a estes direitos".
 

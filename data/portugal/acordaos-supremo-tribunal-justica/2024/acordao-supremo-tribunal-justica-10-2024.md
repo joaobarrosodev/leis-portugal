@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/07/13500/0000700039.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/10/2024/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/10-2024-871917724
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-15T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be75c17a9fe50417b4775b2f999609a856744dd12a1f7c208d422c123388dfbd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1418417032256fbde0fbfc43a1a9ee65f4a9d159d01552d5da8d4d3a5e53b491
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acidente de Transporte
+- Companhia de Seguros
+- Condutor
 - Contrato de Seguro
 - Direito de Regresso
-- Indemnização
-- Veículo
 - Exame Médico
-- Condutor
+- Indemnização
 - Prova
 - Reembolso
-- Companhia de Seguros
 - Seguro Automóvel
+- Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/291/2007/08/21/p/dre
@@ -88,13 +88,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:06Z'
   warnings: []
   errors: []
 ---
@@ -187,7 +187,7 @@ Concluiu o R. pela procedência do recurso e, em consequência, pela sua absolvi
 
 8 - Inconformada, veio a Autora interpor recurso de revista para este Supremo Tribunal de Justiça, vindo a ser proferido acórdão que decidiu conceder a revista, revogando o acórdão recorrido e repristinando a sentença da 1.ª instância.
 
-9 - Inconformado com esta decisão, dela veio o R. interpor recurso para uniformização de jurisprudência, invocando contradição entre o acórdão proferido nos presentes autos e o acórdão do S.T.J. de 25-03-2021 - Processo 313/17.2T8AVR.P1.S1 (1.ª secção), transitado em julgado - disponível para consulta em www.dgsi.pt. <sup>1</sup>
+9 - Inconformado com esta decisão, dela veio o R. interpor recurso para uniformização de jurisprudência, invocando contradição entre o acórdão proferido nos presentes autos e o acórdão do S.T.J. de 25-03-2021 - Processo 313/17.2T8AVR.P1.S1 (1.ª secção), transitado em julgado - disponível para consulta em www.dgsi.pt. 1
 
 Propondo que o segmento uniformizador seja conforme ao acórdão fundamento.
 
@@ -339,9 +339,9 @@ III - Fundamentação
 
 A - Da admissibilidade e objecto do presente recurso extraordinário para fixação de jurisprudência.
 
-Sabido que o despacho do Relator não vincula o Pleno das Secções Cíveis, (cf. art. 692.º, n.º 4, do CPC) <sup>2</sup>, cumpre desde já apreciar da admissibilidade do presente recurso extraordinário para fixação de jurisprudência:
+Sabido que o despacho do Relator não vincula o Pleno das Secções Cíveis, (cf. art. 692.º, n.º 4, do CPC) 2, cumpre desde já apreciar da admissibilidade do presente recurso extraordinário para fixação de jurisprudência:
 
-Como escreve Abrantes Geraldes “a natureza extraordinária do recurso e o facto de visar a impugnação de um acórdão do Supremo impõe, naturalmente, que se deva ser rigoroso tanto no cumprimento dos requisitos materiais e formais, como na verificação desse cumprimento. A natureza “extraordinária” do recurso justifica que seja reservado para situação que inequivocamente preencham os pressupostos legais, com especial destaque para a verificação de uma verdadeira contradição jurídica essencial e para a demonstração do acórdão fundamento.” <sup>3</sup>.
+Como escreve Abrantes Geraldes “a natureza extraordinária do recurso e o facto de visar a impugnação de um acórdão do Supremo impõe, naturalmente, que se deva ser rigoroso tanto no cumprimento dos requisitos materiais e formais, como na verificação desse cumprimento. A natureza “extraordinária” do recurso justifica que seja reservado para situação que inequivocamente preencham os pressupostos legais, com especial destaque para a verificação de uma verdadeira contradição jurídica essencial e para a demonstração do acórdão fundamento.” 3.
 
 Dito isto, dispõe o art. 688.º, n.º 1, do CPC, que “as partes podem interpor recurso para o pleno das secções cíveis quando o Supremo Tribunal de Justiça proferir acórdão que esteja em contradição com outro anteriormente proferido pelo mesmo tribunal, no domínio da mesma legislação e sobre a mesma questão fundamental de direito.”.
 
@@ -363,7 +363,7 @@ Quanto aos demais pressupostos, importa tecer os seguintes considerandos:
 
 Como tem sido entendido de forma uniforme pelo STJ, a divergência de entendimento sobre a questão fundamental de direito deve assumir-se como essencial para a solução do caso concreto, configurando a ratio decidendi de ambos os acórdãos em confronto, não sendo de relevar a apreciação dispensada a questões meramente conexas, nem considerações que se assumam, na economia da decisão, como laterais (obiter dictum).
 
-A este propósito o STJ tem vindo a entender, igualmente, que a admissibilidade do recurso extraordinário em análise pressupõe sempre a identidade do núcleo factual essencial<sup>4</sup> considerado em ambas as decisões em confronto, exigindo-se, outrossim, que as decisões em confronto assumam posições diametralmente opostas.
+A este propósito o STJ tem vindo a entender, igualmente, que a admissibilidade do recurso extraordinário em análise pressupõe sempre a identidade do núcleo factual essencial4 considerado em ambas as decisões em confronto, exigindo-se, outrossim, que as decisões em confronto assumam posições diametralmente opostas.
 
 Neste sentido, a mero título de exemplo, pronunciaram-se os Acórdãos do STJ de 06-10-2021 (Recurso para uniformização de jurisprudência n.º 2622/19.7T8VNF-B.G1.S1-A), de 06-10-2020 (Recurso para uniformização de jurisprudência n.º 765/16.8T8AVR.P1.S1-A), de 14-01-2020, (Recurso para Uniformização de Jurisprudência n.º 5633/11.7TBVNG.P2-A.S1-A), de 28-03-2019 (Recurso para uniformização de jurisprudência n.º 60/13.4TBCUB.E1.S1-A), de 29-01-2019 (Recurso para uniformização de jurisprudência n.º 2303/01.8TVLSB.L2.S1-A) e de 10-01-2019 (Recurso para uniformização de jurisprudência n.º 1522/13.9TBGMR.G1.S2-A).
 
@@ -547,7 +547,7 @@ Confrontam-se, assim, as seguintes posições:
 
 - a do acórdão recorrido, nos termos da qual o direito de regresso pela seguradora com fundamento no consumo de substâncias estupefacientes depende apenas da demonstração de que, no momento do acidente, o condutor segurado acusava - no exame de sangue - a presença de substâncias estupefacientes; e
 
-- a do acórdão-fundamento, nos termos da qual o exercício de tal direito depende da demonstração de um estado de influenciação que apenas pode ser realizada através da realização de exame médico e/ou pericial, realizado nos termos previstos no n.º 5 do art. 81.º do CE e estabelecidos em legislação complementar, nomeadamente nos arts. 13.º, n.<sup>os</sup>1 e 3, do Regulamento de Fiscalização da Condução sob Influência do Álcool ou de Substâncias Psicotrópicas, aprovado pela Lei n.º 18/2007, de 17-05, e conforme os procedimentos prescritos na Portaria n.º 902-B/2007, de 13-04.
+- a do acórdão-fundamento, nos termos da qual o exercício de tal direito depende da demonstração de um estado de influenciação que apenas pode ser realizada através da realização de exame médico e/ou pericial, realizado nos termos previstos no n.º 5 do art. 81.º do CE e estabelecidos em legislação complementar, nomeadamente nos arts. 13.º, n.os1 e 3, do Regulamento de Fiscalização da Condução sob Influência do Álcool ou de Substâncias Psicotrópicas, aprovado pela Lei n.º 18/2007, de 17-05, e conforme os procedimentos prescritos na Portaria n.º 902-B/2007, de 13-04.
 
 Por outro lado, a resposta dada à questão de direito em análise nos arestos em confronto foi determinante para o resultado num e noutro caso alcançado, não restando dúvidas quanto à identidade do quadro normativo em que ambos os pleitos se instalam e em que a discussão se inscreve. De facto, em ambas as situações se encontrava em vigor o mesmo regime do seguro obrigatório de responsabilidade civil automóvel, aprovado pelo DL 291/2007, de 21-08, sendo idêntica a questão de direito sujeita à apreciação deste Supremo Tribunal.
 
@@ -599,7 +599,7 @@ No que diz respeito à condução com uma taxa de álcool no sangue superior à 
 
 - 0,90g/l - o risco aumenta 5 vezes
 
-- 1,20g/l - o risco aumenta 16 vezes” - Panfleto “O Álcool e a Condução” <sup>5</sup>.
+- 1,20g/l - o risco aumenta 16 vezes” - Panfleto “O Álcool e a Condução” 5.
 
 Estes conhecimentos científicos suportam a presunção que emerge do disposto no art. 81.º n.º 2 do CE, no sentido de que se considera que o condutor está sob a influência do álcool sempre que apresente uma taxa de álcool no sangue superior a 0,5 g/l.
 
@@ -613,15 +613,15 @@ De facto, de acordo com o quadro n.º 2 do anexo V desta mesma portaria n.º 100
 
 Sucede que esse limite mínimo de estupefacientes no sangue deixou de estar de previsto com a aprovação da Portaria n.º 902-B/2007, de 13-04, atualmente em vigor, que dispõe, tão simplesmente, sob a epígrafe “avaliação do estado de influenciado por substâncias psicotrópicas” (Secção 1, Exame de Rastreio), que:
 
-###### Art. 14.º:
+Art. 14.º:
 
 “Nos exames de rastreio a efectuar, pelas entidades fiscalizadoras, em amostras de saliva, suor ou urina, o agente de autoridade deve utilizar os equipamentos aprovados e usar os procedimentos constantes do despacho de aprovação para cada equipamento.
 
-###### Art. 15.º
+Art. 15.º
 
 Nos exames de rastreio na urina, realizado em estabelecimentos da rede pública de saúde, são utilizados imunoensaios apropriados, tendo em conta as substâncias e concentrações previstas no quadro n.º 2 do anexo v, devendo o agente de autoridade que conduzir o examinando entregar ao médico daquele estabelecimento um impresso do modelo do anexo iv.
 
-###### Art. 16.º
+Art. 16.º
 
 Os exames previstos no número anterior devem ser executados, de acordo com os procedimentos do fabricante ou de validação interna, numa amostra de urina com o volume mínimo de 30 ml, sendo os resultados considerados positivos quando os valores obtidos forem iguais ou superiores às concentrações indicadas no quadro n.º 2 do anexo v.
 
@@ -635,13 +635,15 @@ O quadro 2 do anexo v, que é o seguinte:
 
 VALORES DE CONCENTRAÇÃO PARA EXAME DE RASTREIO NA URINA
 
-![](https://files.diariodarepublica.pt/images/871917724/871917812.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/871917724/871917812.png) |
+| --- |
 
 Ora, tal como resulta do art. 15.º da Portaria n.º 902-B/2007, de 13-04 (que revogou a Portaria n.º 1006/98, de 30 de Novembro), os valores consignados no Quadro 2 para exames de rastreio são valores reportados apenas para a urina, estando na Portaria também fixados, no art. 16.º supra transcrito, os requisitos a que devem obedecer os analisadores quantitativos, o modo como se deve proceder à recolha, acondicionamento e expedição das amostras biológicas destinadas às análises laboratoriais, os procedimentos a aplicar na realização das referidas análises e os tipos de exames médicos a efectuar para detecção dos estados de influenciado por álcool ou por substâncias psicotrópicas.
 
 Já quanto aos exames de rastreio no sangue, determina o art. 17.º da Portaria vigente, que o mesmo é “realizado pelo Instituto Nacional de Medicina Legal, I. P., são utilizados imunoensaios apropriados, tendo em conta as substâncias previstas no quadro n.º 1 do anexo v”, que se expõe:
 
-![](https://files.diariodarepublica.pt/images/871917724/871917813.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/871917724/871917813.png) |
+| --- |
 
 [...]
 
@@ -665,7 +667,7 @@ Vejamos ainda como é tratada esta questão nos ordenamentos dos outros Estados-
 
 A Directiva 2011/82/EU, do Parlamento Europeu e do Conselho, de 25-10-2011, que visa facilitar o intercâmbio transfronteiriço de informações sobre infrações às regras de trânsito relacionadas com a segurança rodoviária, definiu “Condução sob a influência de substâncias psicotrópicas”, a condução sob efeito de substâncias psicotrópicas ou de outras substâncias de efeito semelhante, tal como definida na legislação do Estado-Membro da infração.” - realce nosso.
 
-Neste contexto, as soluções encontradas pelos diversos Estados-Membros são díspares, alguns optando pela não fixação de limite mínimo (Áustria, Croácia, Chipre, Estónia, Finlândia, França, Hungria, Itália, Letónia, Lituânia, Malta, Holanda, Polónia, Portugal, Roménia, Eslováquia, Espanha e Suécia) e outros estabelecendo limites mínimos a partir dos quais a condução de veículos é considerada ilícita (Bélgica, República Checa, Dinamarca, Alemanha, Irlanda, Luxemburgo, Noruega e Reino Unido) <sup>6</sup>.
+Neste contexto, as soluções encontradas pelos diversos Estados-Membros são díspares, alguns optando pela não fixação de limite mínimo (Áustria, Croácia, Chipre, Estónia, Finlândia, França, Hungria, Itália, Letónia, Lituânia, Malta, Holanda, Polónia, Portugal, Roménia, Eslováquia, Espanha e Suécia) e outros estabelecendo limites mínimos a partir dos quais a condução de veículos é considerada ilícita (Bélgica, República Checa, Dinamarca, Alemanha, Irlanda, Luxemburgo, Noruega e Reino Unido) 6.
 
 Na nota explicativa à informação disponibilizada pelo Observatório Europeu da Droga e da Toxicodependência (EMCDDA), consta que “em geral, os países podem operar políticas de “tolerância zero”, nas quais qualquer vestígio de droga encontrado é penalizado, independentemente do efeito sobre o motorista; ou “influenciação”, quando os motoristas serão punidos apenas se suas habilidades de direção forem obviamente afetadas. Tal se deve à falta de acordo científico até agora verificado, sobre quais níveis de concentração da droga no corpo podem apresentar comprometimento, e à falta de equipamento adequado para testes na estrada. À medida que a ciência começou a convergir para níveis aproximados de influenciação, as leis começaram a especificar os níveis de drogas no sangue acima dos quais um motorista será considerado culpado, mas estes ainda podem se encaixar na tipologia existente; um limite baixo pode ser considerado “tolerância zero”, enquanto um limite mais alto pode ser considerado “influenciado”.” - realce nosso. (tradução livre)
 
@@ -675,7 +677,7 @@ Isso resultou em abordagens bastante diferentes em toda a Europa, segundo as qua
 
 A maioria dos países proíbe a condução sob a influência de qualquer substância. No entanto, alguns países referem uma lista de substâncias que os motoristas não podem usar, o que pode excluir algumas substâncias psicoativas, como medicamentos ou novas substâncias psicoativas que ainda não estão sob controlo. Um número crescente de países tem um sistema de dois níveis, proibindo o comprometimento por qualquer droga, mas também estabelecendo limites máximos no sangue para certas substâncias, que podem ser definidos próximos aos níveis de detecção ou perto dos níveis de comprometimento. As leis que controlam os limites de medicamentos no sangue são algumas vezes conhecidas como leis “per se”; um motorista que tiver um nível de droga no sangue acima do permitido estará automaticamente a infringir a lei, sem exigir qualquer prova de embriaguez. Na Noruega, dois limites podem ser especificados, reconhecendo níveis mais baixos e mais altos de intoxicação equivalentes aos limites nacionais de álcool no sangue.”.
 
-Veja-se que, por exemplo, no REINO UNIDO, foram legalmente definidos esses limites mínimos de THC, com suporte na literatura científica, abrangendo muito maior amplitude de substâncias psicotrópicas<sup>7</sup> do que a Lei portuguesa, sendo certo que, por cá, as mesmas se encontram de alguma forma camufladas no art. 23.º da Portaria n.º 902-B/2007, de 13-04 (…ou de outra substância ou produto, com efeito análogo, capaz de perturbar a capacidade física, mental ou psicológica do examinado para exercício da condução de veículo a motor com segurança”).
+Veja-se que, por exemplo, no REINO UNIDO, foram legalmente definidos esses limites mínimos de THC, com suporte na literatura científica, abrangendo muito maior amplitude de substâncias psicotrópicas7 do que a Lei portuguesa, sendo certo que, por cá, as mesmas se encontram de alguma forma camufladas no art. 23.º da Portaria n.º 902-B/2007, de 13-04 (…ou de outra substância ou produto, com efeito análogo, capaz de perturbar a capacidade física, mental ou psicológica do examinado para exercício da condução de veículo a motor com segurança”).
 
 Em face do exposto, parece-nos correcto afirmar que, à medida que os conhecimentos científicos se vão desenvolvendo, os regimes legais vão adoptando o sistema de parametrização dos níveis de estupefacientes no sangue, especificando as quantidades mínimas que, resultantes de exames laboratoriais, possam evidenciar, como elevado grau de probabilidade, que o condutor conduzia sob a influência de substâncias psicotrópicas.
 
@@ -687,11 +689,11 @@ O caso especial do ∆9-Tetrahidrocanabinol (THC)
 
 Referimo-nos, em particular, ao caso do ∆9-Tetrahidrocanabinol (THC), substância cuja capacidade de influenciar o comportamento humano assume importância central no caso dos autos, porquanto fora detectada em ambos os casos.
 
-Como se explica no estudo intitulado “Driving Under the Influence of Drugs, Alcohol and Medicines in Europe - findings from the DRUID project” <sup>8</sup>, relativamente à substância THC: “…algumas substâncias são encontradas em concentrações muito mais altas no fluido oral do que no sangue, considerando que no caso de outros compostos o oposto é verdadeiro. Por exemplo, um dos principais metabolitos da cannabis, THC-COOH, não é detetável no fluido oral quando é detetável no sangue, porque as suas concentrações no fluido oral são extremamente baixas (pg/ml); assim, um resultado de teste de fluido oral seria registado como negativo, quando um exame de sangue do mesmo motorista seria registado como positivo. Por esse motivo em particular, o THC-COOH foi excluído da lista final de testes recomendados substâncias.”. (realce nosso/tradução livre).
+Como se explica no estudo intitulado “Driving Under the Influence of Drugs, Alcohol and Medicines in Europe - findings from the DRUID project” 8, relativamente à substância THC: “…algumas substâncias são encontradas em concentrações muito mais altas no fluido oral do que no sangue, considerando que no caso de outros compostos o oposto é verdadeiro. Por exemplo, um dos principais metabolitos da cannabis, THC-COOH, não é detetável no fluido oral quando é detetável no sangue, porque as suas concentrações no fluido oral são extremamente baixas (pg/ml); assim, um resultado de teste de fluido oral seria registado como negativo, quando um exame de sangue do mesmo motorista seria registado como positivo. Por esse motivo em particular, o THC-COOH foi excluído da lista final de testes recomendados substâncias.”. (realce nosso/tradução livre).
 
-A esta conclusão chegou, igualmente, o estudo intitulado “Drug use, impaired driving and traffic accidents” <sup>9</sup>, onde é referido que “Ao estudar os riscos associados ao uso de cannabis, os resultados podem ser enganosos se as amostras forem analisadas para THC-COOH, pois este é um metabolito inativo da cannabis que pode estar presente no sangue ou na urina, mesmo que o sujeito não se encontre influenciado. Melhor correlação com comprometimento pode ser alcançado testando o THC, o princípio ativo da cannabis (Verstraete, 2004).”. (tradução livre)
+A esta conclusão chegou, igualmente, o estudo intitulado “Drug use, impaired driving and traffic accidents” 9, onde é referido que “Ao estudar os riscos associados ao uso de cannabis, os resultados podem ser enganosos se as amostras forem analisadas para THC-COOH, pois este é um metabolito inativo da cannabis que pode estar presente no sangue ou na urina, mesmo que o sujeito não se encontre influenciado. Melhor correlação com comprometimento pode ser alcançado testando o THC, o princípio ativo da cannabis (Verstraete, 2004).”. (tradução livre)
 
-Como resulta do estudo “Canábis e Condução: perguntas e respostas para a elaboração de políticas, elaborado pelo Observatório Europeu da Droga e da Toxicodependência” <sup>10</sup>, as variáveis a considerar na interpretação do exame de sangue são múltiplas; assim, “Condutor com teste de canábis positivo: alguém que conduz um veículo a motor com níveis detetáveis de THC no sangue, na saliva ou na urina (dependendo da jurisdição). A sua condução pode não ser necessariamente prejudicada pela canábis, por exemplo, se o nível de THC refletir um consumo de canábis que ocorreu no passado mas ainda é detetável. [...]
+Como resulta do estudo “Canábis e Condução: perguntas e respostas para a elaboração de políticas, elaborado pelo Observatório Europeu da Droga e da Toxicodependência” 10, as variáveis a considerar na interpretação do exame de sangue são múltiplas; assim, “Condutor com teste de canábis positivo: alguém que conduz um veículo a motor com níveis detetáveis de THC no sangue, na saliva ou na urina (dependendo da jurisdição). A sua condução pode não ser necessariamente prejudicada pela canábis, por exemplo, se o nível de THC refletir um consumo de canábis que ocorreu no passado mas ainda é detetável. [...]
 
 A avaliação dos riscos inerentes à condução com capacidade diminuída por consumo de canábis é ainda dificultada pelo facto de vários fatores poderem determinar se um dado nível de consumo de canábis está associado a uma diminuição da capacidade de condução. Entre esses fatores inclui-se o método de consumo (inalação ou ingestão) …, a circunstância de o consumidor ser ou não um consumidor habitual e o facto de a canábis ser consumida em conjunto com outras substâncias, como o álcool (Wolff & Johnston, 2014) [...]
 
@@ -701,13 +703,13 @@ O risco acrescido de acidente é menor para quem conduz com capacidade diminuíd
 
 No entanto, os resultados da investigação sobre os riscos associados à canábis e à condução devem ser interpretados com cautela, pelas seguintes razões: 1. Os efeitos pouco significativos do consumo de canábis no comportamento e na coordenação em laboratório podem não ser relevantes para a condução na estrada. 2. Os testes realizados em condutores feridos e mortos podem subestimar o risco, uma vez que detetam concentrações de THC no sangue no momento do teste e não no momento do acidente, que pode ter ocorrido 1 a 2 horas antes. 3. A presença de baixas concentrações de THC no sangue não implica automaticamente o consumo recente de canábis, podendo também ser resultado de um consumo no passado para alguém que consome canábis regularmente e que, assim, pode não ter sofrido diminuição das capacidades. 4. Geralmente, não é possível saber com certeza se a presença de THC indica ter sido esse o principal motivo do acidente.”
 
-Ainda a propósito da interpretação de exames de sangue, Ricardo Dinis Oliveira (in Procedimentos Técnicos, Éticos e Legais da Competência do Médico No Cumprimento da Lei da Fiscalização da Condução Rodoviária sob Influência do Álcool e Substâncias Psicotrópicas, p. 1068<sup>11</sup>), explicou que “Relativamente aos canabinoides a Lei define que se deva procurar o ∆9-Tetrahidrocanabinol (THC) e os seus metabolitos 11-hidroxi-∆9-Tetrahidrocanabinol (THC-OH) e 11-nor-9-carboxy-∆9-Tetrahidrocanabinol (THC-COOH). Enquanto o THC e o THC-OH são activos do ponto de vista farmacológico, o THC-COOH não é”. - realce nosso,
+Ainda a propósito da interpretação de exames de sangue, Ricardo Dinis Oliveira (in Procedimentos Técnicos, Éticos e Legais da Competência do Médico No Cumprimento da Lei da Fiscalização da Condução Rodoviária sob Influência do Álcool e Substâncias Psicotrópicas, p. 106811), explicou que “Relativamente aos canabinoides a Lei define que se deva procurar o ∆9-Tetrahidrocanabinol (THC) e os seus metabolitos 11-hidroxi-∆9-Tetrahidrocanabinol (THC-OH) e 11-nor-9-carboxy-∆9-Tetrahidrocanabinol (THC-COOH). Enquanto o THC e o THC-OH são activos do ponto de vista farmacológico, o THC-COOH não é”. - realce nosso,
 
 De facto, está cientificamente demonstrado que a substância THC-COOH não é um activo do ponto de vista farmacológico, podendo considerar-se um mero “placebo”, o que quer dizer que da sua detecção operada em exames de urina ou de sangue, seja em que quantidade for, não pode retirar-se que a condução automóvel era feita sob influência de estupefacientes.
 
 Ricardo Dinis continua a sua exposição referindo que “No entanto, o metabolito carboxilado é o que apresenta maior tempo de semi-vida, ou seja, é o que pode ser mais frequentemente detectado. Isto significa que a sua detecção, apesar de frequente e perfeitamente consagrada na Lei, não deverá ser tida em conta para avaliação do estado de influência, pela simples razão que não tem afinidade para os receptores dos canabinóides.” (realce nosso) - (Ob. Cit. p. 1068).
 
-A este respeito, no trabalho científico Driving under the Influence of Psychotropic Substances: A Technical Interpretation, Ricardo Jorge Dinis-Oliveira é ainda mais claro, ensinando o seguinte: “Os canabinoides são as substâncias ilícitas mais prevalentes entre os condutores influenciados, e seu efeito é dependente da dose. Em particular, os canabinoides aumentam o risco de acidentes, causam sonolência, euforia ou disforia, alterações na memória, percepção, estabilidade, capacidade de tomada de decisão, tempo de raciocínio e reação, sinestesia, pensamentos desorganizados, confusão, paranoia, agitação, entre outros efeitos no sistema nervoso central [...]”.<sup>12</sup>
+A este respeito, no trabalho científico Driving under the Influence of Psychotropic Substances: A Technical Interpretation, Ricardo Jorge Dinis-Oliveira é ainda mais claro, ensinando o seguinte: “Os canabinoides são as substâncias ilícitas mais prevalentes entre os condutores influenciados, e seu efeito é dependente da dose. Em particular, os canabinoides aumentam o risco de acidentes, causam sonolência, euforia ou disforia, alterações na memória, percepção, estabilidade, capacidade de tomada de decisão, tempo de raciocínio e reação, sinestesia, pensamentos desorganizados, confusão, paranoia, agitação, entre outros efeitos no sistema nervoso central [...]”.12
 
 Prossegue o referido autor, afirmando que “A lei define ∆ 9 -tetrahidrocanabinol (∆ 9-THC) e seus metabolitos 11-hidroxi-∆ 9 -tetrahidrocanabinol (THC-OH) e 11-nor-9-carboxi-∆ 9 -tetrahidrocanabinol (THC-COOH) como substâncias ilícitas.
 
@@ -749,9 +751,9 @@ Ricardo Dinis esclarece, assim, que “Do ponto de vista legal e em geral suport
 
 Adiantando também que “do ponto de vista científico não existe uma explicação cabal para incluir esta substância (THC-COOH) nas análises. Na verdade, até acarreta confusão. A única utilidade é saber que a pessoa é à partida consumidora de substâncias ilícitas, apesar de não estar a conduzir sob influência quando só esta substância está presente. A Lei tenta punir estados de influência, mas depois solicita a análise de substâncias inativas que não influenciam à luz dos conhecimentos atuais” - realce e sublinhado nosso.
 
-Entende este cientista e professor que “em geral o sangue dá-nos com elevado grau de certeza estados de influência, mas apenas para substâncias ativas”. A esta conclusão chegou, igualmente, o estudo intitulado “Drug use, impaired driving and traffic accidents” <sup>13</sup>, “Ao estudar os riscos associados ao uso de cannabis, os resultados podem ser enganosos se as amostras forem analisadas para THC-COOH, pois este é um metabólito inativo da cannabis que pode estar presente no sangue ou na urina, mesmo que o sujeito não se encontre influenciado. Melhor correlação com comprometimento pode ser alcançado testando o THC, o princípio ativo da cannabis (Verstraete, 2004).”
+Entende este cientista e professor que “em geral o sangue dá-nos com elevado grau de certeza estados de influência, mas apenas para substâncias ativas”. A esta conclusão chegou, igualmente, o estudo intitulado “Drug use, impaired driving and traffic accidents” 13, “Ao estudar os riscos associados ao uso de cannabis, os resultados podem ser enganosos se as amostras forem analisadas para THC-COOH, pois este é um metabólito inativo da cannabis que pode estar presente no sangue ou na urina, mesmo que o sujeito não se encontre influenciado. Melhor correlação com comprometimento pode ser alcançado testando o THC, o princípio ativo da cannabis (Verstraete, 2004).”
 
-Maria Teixeira refere, também<sup>14</sup>, a este propósito, que “A presença de Δ9-THC ou de Δ9-THC-OH em sangue serão determinantes para a afirmação de consumo recente e de estado de influenciado, uma vez que estes são os compostos activos.” - realce e sublinhado nosso,
+Maria Teixeira refere, também14, a este propósito, que “A presença de Δ9-THC ou de Δ9-THC-OH em sangue serão determinantes para a afirmação de consumo recente e de estado de influenciado, uma vez que estes são os compostos activos.” - realce e sublinhado nosso,
 
 Sobre a existência científica de algum limiar mensurável (mínimo) de canabinóide para o exame de sangue, de onde possa extrair-se o estado de influenciação, Ricardo Dinis pronunciou-se no sentido de que “com certeza não, mas em geral tudo aponta para que 2 ng/mL seja um valor mais ou menos consensual para THC. Ou seja, será uma boa linha de corte para distinguir e a literatura suporta esta ideia e o que tenho vindo a estudar. Nesta área temos cada vez mais certezas quando começamos a ter experiência e percebemos que caso após caso tudo se vai confirmando.”.
 
@@ -829,19 +831,19 @@ B. Julgar procedente o presente recurso extraordinário de uniformização de ju
 
 Custas pela recorrida.
 
-<sup>1</sup> http://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/6f9c47388c6522ca802586d3003ea7ee?OpenDocument
+1 http://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/6f9c47388c6522ca802586d3003ea7ee?OpenDocument
 
-<sup>2</sup> Neste sentido, veja-se, entre outros, o acórdão deste STJ, de 10-05-2018, no âmbito do recurso para uniformização de jurisprudência n.º 2643/12.0TBPVZ.P1.S1-A, disponível in http://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/991cb9816ba34def80258330004ad01f?OpenDocument;
+2 Neste sentido, veja-se, entre outros, o acórdão deste STJ, de 10-05-2018, no âmbito do recurso para uniformização de jurisprudência n.º 2643/12.0TBPVZ.P1.S1-A, disponível in http://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/991cb9816ba34def80258330004ad01f?OpenDocument;
 
-<sup>3</sup> In Recursos em Processo Civil, 6.ª Edição Atualizada, Almedina, 2020, p. 549, em anexo;
+3 In Recursos em Processo Civil, 6.ª Edição Atualizada, Almedina, 2020, p. 549, em anexo;
 
-<sup>4</sup> Neste sentido, veja-se o Acórdão do STJ de 20-11-2019, Recurso para uniformização de jurisprudência n.º 433/11.7TVPRT.P1.S2-A, onde se afirma o STJ tem vindo a entender, “de forma pacífica e reiterada, que a contradição relevante, neste âmbito, pressupõe ainda a identidade do núcleo essencial das concernentes situações fácticas.” - em anexo;
+4 Neste sentido, veja-se o Acórdão do STJ de 20-11-2019, Recurso para uniformização de jurisprudência n.º 433/11.7TVPRT.P1.S2-A, onde se afirma o STJ tem vindo a entender, “de forma pacífica e reiterada, que a contradição relevante, neste âmbito, pressupõe ainda a identidade do núcleo essencial das concernentes situações fácticas.” - em anexo;
 
-<sup>5</sup> http://www.ansr.pt/SegurancaRodoviaria/Informacao/Documents/Documentos/O%20 %C3 %81LCOOL%20E%20A%20CONDU%C3 %87 %C3 %83O.pdf.
+5 http://www.ansr.pt/SegurancaRodoviaria/Informacao/Documents/Documentos/O%20 %C3 %81LCOOL%20E%20A%20CONDU%C3 %87 %C3 %83O.pdf.
 
-<sup>6</sup> https://www.emcdda.europa.eu/publications/topic-overviews/legal-approaches-to-drugs-and-driving/html_en#panel2
+6 https://www.emcdda.europa.eu/publications/topic-overviews/legal-approaches-to-drugs-and-driving/html_en#panel2
 
-<sup>7</sup><sup>:</sup>
+7:
 
 | Illegal’ drug driving limits (‘accidental exposure’ - zero tolerance approach) | Threshold limit in microgrammesper litre of blood (µg/L) |
 | --- | --- |
@@ -854,19 +856,19 @@ Custas pela recorrida.
 | Methylenedioxymethamphetamine (MDMA) | 10µg/L |
 | 6-monoacetylmorphine (heroin) | 5µg/L |
 
-<sup>8</sup> Disponível em https://www.emcdda.europa.eu/system/files/media/publications/documents/743/TDXA12006ENN_402402.pdf:
+8 Disponível em https://www.emcdda.europa.eu/system/files/media/publications/documents/743/TDXA12006ENN_402402.pdf:
 
-<sup>9</sup> Disponível em https://www.emcdda.europa.eu/system/files/media/publications/documents/849/TDXD14016ENN_474631.pdf:
+9 Disponível em https://www.emcdda.europa.eu/system/files/media/publications/documents/849/TDXD14016ENN_474631.pdf:
 
-<sup>10</sup> (disponível em https://www.emcdda.europa.eu/system/files/publications/8805/20181120_TD0418132PTN_PDF.pdf)
+10 (disponível em https://www.emcdda.europa.eu/system/files/publications/8805/20181120_TD0418132PTN_PDF.pdf)
 
-<sup>11</sup> Em texto disponível em https://www.actamedicaportuguesa.com/revista/index.php/amp/article/viewFile/743/420).
+11 Em texto disponível em https://www.actamedicaportuguesa.com/revista/index.php/amp/article/viewFile/743/420).
 
-<sup>12</sup> Disponível em https://www.mdpi.com/2813-1851/1/1/2.
+12 Disponível em https://www.mdpi.com/2813-1851/1/1/2.
 
-<sup>13</sup> Disponível em https://www.emcdda.europa.eu/system/files/media/publications/documents/849/TDXD14016ENN_474631.pdf:
+13 Disponível em https://www.emcdda.europa.eu/system/files/media/publications/documents/849/TDXD14016ENN_474631.pdf:
 
-<sup>14</sup> Em texto disponível em https://estudogeral.uc.pt/handle/10316/7505?mode=full.
+14 Em texto disponível em https://estudogeral.uc.pt/handle/10316/7505?mode=full.
 
 Lisboa, 23 de Maio de 2024. - Nuno Ataíde das Neves (relator) - Afonso Henrique C. Ferreira - Isabel Maria Manso Salgado - Luís Fernando dos Santos Correia de Mendonça - Leonel Serôdio - Maria do Rosário Gonçalves - Paula A. Carvalho - Maria dos Prazeres Pizarro Beleza - Maria Clara Sottomayor - Maria da Graça Trigo - Pedro de Lima Gonçalves - José Sousa Lameira - Fátima Gomes - Graça Amaral (com declaração de voto) - Maria Olinda Garcia - Catarina Serra - António Oliveira Abreu - José Maria Ferreira Lopes - João Cura Mariano - António Barateiro Martins, com declaração de voto em anexo - Manuel José Aguiar Pereira, votei vencido de acordo com a declaração anexa - Jorge Leal (vencido, nos termos da declaração de voto do Exmº Conselheiro Manuel Aguiar Pereira) - Maria Amélia Ribeiro (vencida, de acordo com a declaração de voto do Exmo. Conselheiro Aguiar Pereira) - Emidio Francisco Santos - vencido conforme declaração que junto - Nelson Borges Carneiro (vencido, nos termos do voto vencido do Exmo. Conselheiro Manuel Aguiar Pereira) - António de Moura Magalhães (vencido, nos termos da declaração do Exmo. Conselheiro Aguiar Pereira) - Ricardo Costa (votei vencido, subscrevendo a declaração de voto do Conselheiro Aguiar Pereira) - Luís Filipe Castelo Branco do Espírito Santo (vencido pelas razões constantes do voto de vencido do Conselheiro Aguiar Pereira, nas quais me louvo) - Jorge Manuel Arcanjo (voto vencido nos termos da declaração do Senhor Conselheiro Manuel Aguiar Pereira).
 
@@ -981,3 +983,5 @@ Uniformizaria jurisprudência nos termos seguintes:
 15) Quanto ao mérito do acórdão recorrido, consideraria a sua manutenção e o reconhecimento do direito de regresso da seguradora uma vez que foi, no caso, realizado o exame pelo Instituto Nacional de Medicina Legal que identificou as substâncias psicotrópicas em causa e seus valores confirmando a presença de substâncias psicotrópicas no sangue do condutor causador do acidente no momento do acidente, não tendo este logrado provar que o facto de ser portador de substâncias psicotrópicas foi indiferente à ocorrência do acidente.
 
 Manuel José Aguiar Pereira
+
+117892612

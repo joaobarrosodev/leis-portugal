@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43808-1961-172681
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-08-18T00:00:00Z'
+  retrieved_at: '2026-10-22T19:24:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 243ec81d696e09f285fb6b7e372887d9d8ffb4dc2790f660f3c74035bcbe4be2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1af571cbe2489b809603d411eab0d8d160a9e1435c34caa385b5ec49f63c983c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:24:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,20 @@ relationships:
   target: pt:dre:173087:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:566238:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:24:44Z'
   warnings: []
   errors: []
 ---
@@ -92,27 +96,27 @@ Convindo adaptar urgentemente às necessidades das províncias ultramarinas o re
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º As escolas civis de pilotagem de aviões e de planadores, as escolas civis de pára-quedismo, os aeroclubes e as organizações civis ou as suas secções que tiverem por finalidade a prática de aeromodelismo, de aviação, com e sem motor, ou de pára-quedismo são consideradas instituições de utilidade pública.
+Artigo 1.º As escolas civis de pilotagem de aviões e de planadores, as escolas civis de pára-quedismo, os aeroclubes e as organizações civis ou as suas secções que tiverem por finalidade a prática de aeromodelismo, de aviação, com e sem motor, ou de pára-quedismo são consideradas instituições de utilidade pública.
 
 § 1.º A constituição dos organismos indicados no corpo deste artigo carece de autorização dos governadores provinciais, que, sem prejuízo do disposto no artigo 23.º da [Lei n.º 2056](https://diariodarepublica.pt/dr/detalhe/lei/2056-1952-566238), de 2 de Junho de 1952, a podem revogar ou transferir.
 
 § 2.º Consideram-se válidas as autorizações concedidas à data da entrada em vigor do presente diploma, devendo contudo os estatutos e regulamentos das organizações a que dizem respeito ser revistos no prazo de um ano, a contar daquela data.
 
-###### Art. 2.º Mediante autorização dos governadores provinciais, poderão constituir-se, em estabelecimentos e instituições oficiais de índole adequada, escolas ou secções de aeromodelismo e de preparação e treino de pilotos ou de pára-quedistas.
+Art. 2.º Mediante autorização dos governadores provinciais, poderão constituir-se, em estabelecimentos e instituições oficiais de índole adequada, escolas ou secções de aeromodelismo e de preparação e treino de pilotos ou de pára-quedistas.
 
-###### Art. 3.º Os governos provinciais poderão organizar e manter, na dependência dos serviços provinciais de aeronáutica civil, cursos de aeromodelismo, de pilotagem e de pára-quedismo, com o objectivo de preparar instrutores e monitores daquelas actividades.
+Art. 3.º Os governos provinciais poderão organizar e manter, na dependência dos serviços provinciais de aeronáutica civil, cursos de aeromodelismo, de pilotagem e de pára-quedismo, com o objectivo de preparar instrutores e monitores daquelas actividades.
 
-###### Art. 4.º Compete aos serviços provinciais de aeronáutica civil superintender nas organizações referidas nos artigos 1.º e 2.º, no que respeita aos aspectos técnicos das suas actividades.
+Art. 4.º Compete aos serviços provinciais de aeronáutica civil superintender nas organizações referidas nos artigos 1.º e 2.º, no que respeita aos aspectos técnicos das suas actividades.
 
 § único. Fica na dependência dos mesmos serviços provinciais a autorização e fiscalização das actividades desportivas das organizações referidas nos artigos 1.º e 2.º
 
-###### Art. 5.º O Ministério do Ultramar e os governos provinciais poderão ceder às organizações referidas no artigo 1.º, através dos serviços provinciais de aeronáutica civil e mediante as condições que forem fixadas pelo Ministro do Ultramar, aeronaves e pára-quedas para instrução e treino, bem como utensílios para aeromodelismo.
+Art. 5.º O Ministério do Ultramar e os governos provinciais poderão ceder às organizações referidas no artigo 1.º, através dos serviços provinciais de aeronáutica civil e mediante as condições que forem fixadas pelo Ministro do Ultramar, aeronaves e pára-quedas para instrução e treino, bem como utensílios para aeromodelismo.
 
 § único. As aeronaves, pára-quedas e utensílios cedidos ao abrigo do corpo deste artigo continuam pertença do Estado, ficando a sua manutenção à responsabilidade e a cargo das organizações beneficiárias.
 
-###### Art. 6.º A Secretaria de Estado da Aeronáutica poderá ceder às organizações referidas nos artigos 1.º e 2.º, através dos serviços provinciais de aeronáutica civil e mediante as condições que forem fixadas pelo respectivo Secretário de Estado, aviões ligeiros que se tornem desnecessários ao seu serviço.
+Art. 6.º A Secretaria de Estado da Aeronáutica poderá ceder às organizações referidas nos artigos 1.º e 2.º, através dos serviços provinciais de aeronáutica civil e mediante as condições que forem fixadas pelo respectivo Secretário de Estado, aviões ligeiros que se tornem desnecessários ao seu serviço.
 
-###### Art. 7.º O Ministério do Ultramar e os governos provinciais poderão conceder às organizações referidas no artigo 1.º, através dos serviços provinciais de aeronáutica civil e mediante as condições que forem fixadas pelo Ministro do Ultramar, subsídios em numerário e material para:
+Art. 7.º O Ministério do Ultramar e os governos provinciais poderão conceder às organizações referidas no artigo 1.º, através dos serviços provinciais de aeronáutica civil e mediante as condições que forem fixadas pelo Ministro do Ultramar, subsídios em numerário e material para:
 
 a) Aquisição e manutenção dos meios materiais e instalações indispensáveis às actividades próprias da sua índole;
 
@@ -128,11 +132,11 @@ e) Publicações e exposições de propaganda e divulgação aeronáuticas.
 
 § 2.º Os serviços provinciais de aeronáutica civil poderão conceder prémios para competições entre as organizações referidas nos artigos 1.º e 2.º
 
-###### Art. 8.º O Ministério do Ultramar e os governos provinciais poderão conceder subsídios aos corpos administrativos, através dos serviços provinciais de aeronáutica civil e mediante as condições que forem fixadas pelo Ministro do Ultramar, para a construção, conservação, ampliação e apetrechamento de aeródromos públicos, designadamente aeródromos desportivos.
+Art. 8.º O Ministério do Ultramar e os governos provinciais poderão conceder subsídios aos corpos administrativos, através dos serviços provinciais de aeronáutica civil e mediante as condições que forem fixadas pelo Ministro do Ultramar, para a construção, conservação, ampliação e apetrechamento de aeródromos públicos, designadamente aeródromos desportivos.
 
 § único. Idênticos subsídios poderão ser concedidos aos particulares que construam aeródromos facultados à utilização pública e que sejam de reconhecido interesse.
 
-###### Art. 9.º A Secretaria de Estado da Aeronáutica poderá conceder anualmente às escolas e organizações civis referidas nos artigos 1.º e 2.º subsídios para custear:
+Art. 9.º A Secretaria de Estado da Aeronáutica poderá conceder anualmente às escolas e organizações civis referidas nos artigos 1.º e 2.º subsídios para custear:
 
 a) A formação de:
 
@@ -154,7 +158,7 @@ de idade inferior a 30 anos, com preferência para os pilotos e pára-quedistas 
 
 § 2.º Os subsídios referidos no corpo deste artigo serão pagos mediante informação dos serviços provinciais de aeronáutica civil donde conste que os interessados reúnem as devidas condições para o efeito.
 
-###### Art. 10.º Os serviços provinciais de aeronáutica civil poderão conceder anualmente às escolas e organizações civis referidas nos artigos 1.º e 2.º subsídios para auxiliar:
+Art. 10.º Os serviços provinciais de aeronáutica civil poderão conceder anualmente às escolas e organizações civis referidas nos artigos 1.º e 2.º subsídios para auxiliar:
 
 a) A formação de:
 
@@ -260,19 +264,19 @@ b) O treino de:
 
 de idade inferior a 40 anos e com as preferências definidas na alínea b) do artigo anterior.
 
-###### Art. 11.º O montante dos subsídios a conceder, nos termos dos artigos 9.º e 10.º, será fixado por portaria expedida pelo Ministro do Ultramar e Secretário de Estado da Aeronáutica.
+Art. 11.º O montante dos subsídios a conceder, nos termos dos artigos 9.º e 10.º, será fixado por portaria expedida pelo Ministro do Ultramar e Secretário de Estado da Aeronáutica.
 
-###### Art. 12.º A Secretaria de Estado da Aeronáutica poderá fornecer, através dos serviços provinciais de aeronáutica civil, a gasolina necessária para a formação e treino dos pilotos e pára-quedistas referidos nos artigos 9.º e 10.º, sendo gratuita a destinada aos abrangidos no artigo 9.º e ao preço do custo e destinada aos abrangidos no artigo 10.º
+Art. 12.º A Secretaria de Estado da Aeronáutica poderá fornecer, através dos serviços provinciais de aeronáutica civil, a gasolina necessária para a formação e treino dos pilotos e pára-quedistas referidos nos artigos 9.º e 10.º, sendo gratuita a destinada aos abrangidos no artigo 9.º e ao preço do custo e destinada aos abrangidos no artigo 10.º
 
 § único. Os quantitativos de gasolina a fornecer ao abrigo do disposto no corpo deste artigo serão anualmente propostos pelos serviços provinciais de aeronáutica civil.
 
-###### Art. 13.º A formação como pilotos de planadores de indivíduos que já o sejam de aviões não dá direito à concessão de quaisquer benefícios. A formação como pilotos de aviões de indivíduos que já o sejam de planadores dará apenas lugar à concessão de metade dos benefícios previstos para aquela formação.
+Art. 13.º A formação como pilotos de planadores de indivíduos que já o sejam de aviões não dá direito à concessão de quaisquer benefícios. A formação como pilotos de aviões de indivíduos que já o sejam de planadores dará apenas lugar à concessão de metade dos benefícios previstos para aquela formação.
 
-###### Art. 14.º A Secretaria de Estado da Aeronáutica poderá conceder facilidades quanto à utilização das suas instalações às organizações referidas nos artigos 1.º e 2.º e quanto ao funcionamento dos cursos previstos no artigo 3.º
+Art. 14.º A Secretaria de Estado da Aeronáutica poderá conceder facilidades quanto à utilização das suas instalações às organizações referidas nos artigos 1.º e 2.º e quanto ao funcionamento dos cursos previstos no artigo 3.º
 
-###### Art. 15.º As organizações referidas no artigo 1.º que utilizem aeronaves só poderão fruir dos auxílios previstos neste diploma quando as tabelas de preços dos seus serviços de voo forem aprovadas pelos serviços provinciais de aeronáutica civil e pelos comandos das regiões ou zonas aéreas.
+Art. 15.º As organizações referidas no artigo 1.º que utilizem aeronaves só poderão fruir dos auxílios previstos neste diploma quando as tabelas de preços dos seus serviços de voo forem aprovadas pelos serviços provinciais de aeronáutica civil e pelos comandos das regiões ou zonas aéreas.
 
-###### Art. 16.º Não serão concedidos os benefícios previstos nos artigos 9.º, 10.º e 12.º deste diploma a:
+Art. 16.º Não serão concedidos os benefícios previstos nos artigos 9.º, 10.º e 12.º deste diploma a:
 
 a) Estrangeiros;
 
@@ -286,33 +290,33 @@ e) Indivíduos condenados pela prática dos actos referidos no artigo 17.º da [
 
 f) Treinos de pilotos e pára-quedistas que não tiverem as suas licenças válidas ou que não se encontrem no pleno uso dos respectivos privilégios.
 
-###### Art. 17.º A Secretaria de Estado da Aeronáutica poderá condicionar os auxílios concedidos, em relação aos indivíduos do sexo masculino referidos no artigo 9.º, à observância de programas especiais de instrução e treino.
+Art. 17.º A Secretaria de Estado da Aeronáutica poderá condicionar os auxílios concedidos, em relação aos indivíduos do sexo masculino referidos no artigo 9.º, à observância de programas especiais de instrução e treino.
 
-###### Art. 18.º Os comandos das regiões ou zonas aéreas e os serviços provinciais de aeronáutica civil estabelecerão, de acordo e sob a forma que julgarem conveniente, a fiscalização das organizações referidas nos artigos 1.º e 2.º, para verificação do modo como utilizem os meios que lhes concederem ao abrigo deste diploma.
+Art. 18.º Os comandos das regiões ou zonas aéreas e os serviços provinciais de aeronáutica civil estabelecerão, de acordo e sob a forma que julgarem conveniente, a fiscalização das organizações referidas nos artigos 1.º e 2.º, para verificação do modo como utilizem os meios que lhes concederem ao abrigo deste diploma.
 
 § único. As organizações referidas no artigo 1.º manterão em dia uma escrita que permita avaliar a sua situação financeira e a utilização dos benefícios que receberem ao abrigo deste diploma, devendo prestar acerca dela os esclarecimentos e informações que lhes forem pedidos pelos serviços provinciais de aeronáutica civil, sob pena de serem excluídas daqueles benefícios.
 
-###### Art. 19.º Sem prejuízo do disposto no artigo 23.º da [Lei n.º 2056](https://diariodarepublica.pt/dr/detalhe/lei/2056-1952-566238), de 2 de Junho de 1952, e na alínea a) do artigo 9.º do presente diploma, a admissão nos cursos de formação de pilotos de planadores, de pilotos de aviões e de pára-quedistas carece de autorização dos serviços provinciais de aeronáutica civil e só será concedida a indivíduos que tenham, no mínimo, 15, 16 e 17 anos, respectivamente, e que possuam o 2.º grau do ensino primário elementar ou habilitações equivalentes. A concessão das licenças aos mesmos indivíduos só poderá fazer-se quando tiverem completado, respectivamente, 16, 17 e 18 anos de idade.
+Art. 19.º Sem prejuízo do disposto no artigo 23.º da [Lei n.º 2056](https://diariodarepublica.pt/dr/detalhe/lei/2056-1952-566238), de 2 de Junho de 1952, e na alínea a) do artigo 9.º do presente diploma, a admissão nos cursos de formação de pilotos de planadores, de pilotos de aviões e de pára-quedistas carece de autorização dos serviços provinciais de aeronáutica civil e só será concedida a indivíduos que tenham, no mínimo, 15, 16 e 17 anos, respectivamente, e que possuam o 2.º grau do ensino primário elementar ou habilitações equivalentes. A concessão das licenças aos mesmos indivíduos só poderá fazer-se quando tiverem completado, respectivamente, 16, 17 e 18 anos de idade.
 
-###### Art. 20.º Os serviços provinciais de aeronáutica civil enviarão aos comandos das regiões ou zonas aéreas, no 1.º trimestre de cada ano, as relações dos organismos constituídos nos termos do artigo 1.º e dos pilotos de aviões e de planadores e dos pára-quedistas que obtiveram licenças civis no ano anterior.
+Art. 20.º Os serviços provinciais de aeronáutica civil enviarão aos comandos das regiões ou zonas aéreas, no 1.º trimestre de cada ano, as relações dos organismos constituídos nos termos do artigo 1.º e dos pilotos de aviões e de planadores e dos pára-quedistas que obtiveram licenças civis no ano anterior.
 
-###### Art. 21.º Serão considerados como serviço prestado na Força Aérea, no que respeita à contagem do tempo de voo e às consequências de acidente, os voos de instrução e os saltos de aeronaves efectuados nas escolas civis de pilotagem e de pára-quedismo pelos pilotos e pára-quedistas militares em serviço activo, quando estiverem autorizados a desempenhar funções de pilotos ou de instrutores naquelas escolas.
+Art. 21.º Serão considerados como serviço prestado na Força Aérea, no que respeita à contagem do tempo de voo e às consequências de acidente, os voos de instrução e os saltos de aeronaves efectuados nas escolas civis de pilotagem e de pára-quedismo pelos pilotos e pára-quedistas militares em serviço activo, quando estiverem autorizados a desempenhar funções de pilotos ou de instrutores naquelas escolas.
 
-###### Art. 22.º Às organizações referidas nos artigos 1.º e 2.º e aos portugueses titulares de licenças civis de pilotos de aviões ou de planadores e de pára-quedistas, salvo se abrangidos na alínea e) do artigo 16.º deste diploma, será concedida a redução de 75 por cento nos direitos aduaneiros de importação de aviões, planadores e pára-quedas e seus sobresselentes de fabrico nacional e a redução de 25 por cento nos direitos aduaneiros de importação dos mesmos materiais de fabrico estrangeiro.
+Art. 22.º Às organizações referidas nos artigos 1.º e 2.º e aos portugueses titulares de licenças civis de pilotos de aviões ou de planadores e de pára-quedistas, salvo se abrangidos na alínea e) do artigo 16.º deste diploma, será concedida a redução de 75 por cento nos direitos aduaneiros de importação de aviões, planadores e pára-quedas e seus sobresselentes de fabrico nacional e a redução de 25 por cento nos direitos aduaneiros de importação dos mesmos materiais de fabrico estrangeiro.
 
 § 1.º As aeronaves e pára-quedas importados ao abrigo das reduções referidas no corpo deste artigo não podem utilizar-se em actividades que não sejam as de instrução e treino de pilotos e pára-quedistas ou as realizadas no desempenho de missões oficiais, sem serem pagos os complementos dos direitos aduaneiros, nem transaccionados sem prévia autorização dos serviços provinciais de aeronáutica civil, a quem compete informar os pedidos das reduções de direitos.
 
 § 2.º Gozará de idênticas reduções de direitos o material importado pelos serviços provinciais de aeronáutica civil para cedência ao abrigo do disposto no artigo 5.º deste diploma.
 
-###### Art. 23.º Nos orçamentos privativos das forças aéreas ultramarinas de cada província ultramarina serão inscritas as dotações necessárias à cobertura dos subsídios estabelecidos pelo disposto no artigo 9.º
+Art. 23.º Nos orçamentos privativos das forças aéreas ultramarinas de cada província ultramarina serão inscritas as dotações necessárias à cobertura dos subsídios estabelecidos pelo disposto no artigo 9.º
 
 Nos orçamentos de cada província ultramarina serão inscritas as dotações necessárias à cobertura das cedências e subsídios previstos pelo disposto nos artigos 5.º, 7.º, 8.º e 10.º
 
-###### Art. 24.º O Ministro do Ultramar e o Secretário de Estado da Aeronáutica fixarão em portaria as normas regulamentares necessárias à execução deste diploma.
+Art. 24.º O Ministro do Ultramar e o Secretário de Estado da Aeronáutica fixarão em portaria as normas regulamentares necessárias à execução deste diploma.
 
-###### Art. 25.º O presente diploma será aplicado nas províncias ultramarinas de Cabo Verde, Guiné, S. Tomé e Príncipe, Angola, Moçambique, Estado da Índia e Timor e entrará em vigor no dia 1 de Janeiro de 1962.
+Art. 25.º O presente diploma será aplicado nas províncias ultramarinas de Cabo Verde, Guiné, S. Tomé e Príncipe, Angola, Moçambique, Estado da Índia e Timor e entrará em vigor no dia 1 de Janeiro de 1962.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Julho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira - Kaulza Oliveira de Arriaga.
 

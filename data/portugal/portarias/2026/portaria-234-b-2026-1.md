@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/234-b/2026/05/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/234-b-2026-1127477514
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-27T00:00:00Z'
+  retrieved_at: '2026-10-22T18:42:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a9bb7b8b24999ac511f90f6dcf9ad8b84833bd45e5a32a620235cb5ed023318
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 800ca5d0292ce44321c509c4a3101ca0191a08d9b97e1f0ff24fd58fab576058
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:42:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vida Selvagem
-- Ordenamento do Território
-- Proteção dos Animais
-- Regulamentação de Atos Legislativos
-- Proteção do Ambiente
 - Diversidade Biológica
 - Espécie Protegida
+- Ordenamento do Território
+- Proteção do Ambiente
+- Proteção dos Animais
 - Recursos Naturais
-- Zona Especial de Conservação
+- Regulamentação de Atos Legislativos
 - Rio Paiva
+- Vida Selvagem
+- Zona Especial de Conservação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/140/1999/04/24/p/dre
@@ -100,16 +100,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
+- type: cites
+  target: pt:dre:1088732649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130273578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:42:16Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +142,7 @@ validation:
 
 de 27 de maio
 
-O [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, procedeu à designação como Zona Especial de Conservação (ZEC) do Sítio de Importância Comunitária (SIC) Rio Paiva (PTCON0059), identificando a respetiva área e coordenadas geográficas, assim como a sua localização e limites geográficos. O referido diploma determinou, ainda, que as medidas e ações complementares de conservação de habitats e espécies são definidas em planos de gestão, a aprovar por portaria nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.<sup>os</sup>[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro.
+O [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, procedeu à designação como Zona Especial de Conservação (ZEC) do Sítio de Importância Comunitária (SIC) Rio Paiva (PTCON0059), identificando a respetiva área e coordenadas geográficas, assim como a sua localização e limites geográficos. O referido diploma determinou, ainda, que as medidas e ações complementares de conservação de habitats e espécies são definidas em planos de gestão, a aprovar por portaria nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.os[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro.
 
 Posteriormente, o [Decreto-Lei n.º 89/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2026-1088732649), de 23 de abril, completou o processo de classificação da ZEC Rio Paiva, ao contemplar no respetivo plano de gestão a identificação dos tipos de habitat naturais e seminaturais e das espécies da flora e fauna selvagens protegidos, constantes dos anexos i e ii da Diretiva Habitats com presença significativa na sua área, e fixar, em função das características específicas do seu território e das exigências ecológicas desses tipos de habitat e espécies, objetivos de conservação direcionados à manutenção ou ao restabelecimento do seu estado de conservação favorável. Com vista à prossecução dos objetivos fixados, o referido decreto-lei definiu, ainda, medidas de conservação de natureza preventiva e regulamentar, necessárias para evitar a deterioração dos tipos de habitat naturais e seminaturais e dos habitats das espécies protegidas e com presença significativa na ZEC, assim como a perturbação significativa dessas espécies, as quais se tipificam em medidas de ordenamento do território e medidas de gestão.
 
@@ -140,7 +164,7 @@ A presente portaria aprova o plano de gestão da Zona Especial de Conservação 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida, em 26 de maio de 2026. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 27 de maio de 2026. - O Ministro da Agricultura e Mar, José Manuel Fernandes, em 24 de maio de 2026.**
+O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida, em 26 de maio de 2026. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 27 de maio de 2026. - O Ministro da Agricultura e Mar, José Manuel Fernandes, em 24 de maio de 2026.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -170,7 +194,8 @@ Unidades territoriais abrangidas pela ZEC Rio Paiva
 
 (Fonte: CAOP 2021.)
 
-![](https://files.diariodarepublica.pt/images/1127477514/1127512323.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1127477514/1127512323.png) |
+| --- |
 
 Figura 1 - Enquadramento territorial da ZEC Rio Paiva
 
@@ -184,7 +209,7 @@ Nas margens do rio Paiva e na parte final dos seus afluentes surgem galerias rib
 
 Em termos de fauna, a ZEC é particularmente relevante para as espécies ripícolas (e das áreas de orlas e prados associadas aos bosques ripícolas), assumindo bastante importância para a conservação da toupeira-de-água (Galemys pyrenaicus), lagarto-de-água (Lacerta schreiberi), salamandra-lusitânica (Chioglossa lusitanica), libélulas (Oxygastra curtisii, Macromia splendens e Gomphus graslinii), e borboletas (Euplagia quadripunctaria e Euphydryas aurinia). É também importante para algumas espécies piscícolas endémicas (Pseudochondrostoma duriense, Achondrostoma oligolepis e Squalius alburnoides), e para uma das raras populações de mexilhão-de-rio (Margaritifera margaritifera). Além das espécies mais tipicamente associadas aos ambientes aquáticos e bosques ripícolas, a ZEC é ainda relevante para duas espécies de invertebrados xilófagos, nomeadamente Lucanus cervus e Cerambyx cerdo, que ocorrem na ZEC associadas geralmente a bosques de carvalhos. Constitui ainda uma área relevante para o lobo (Canis lupus), sendo uma importante zona de ligação entre as Serras de Montemuro, Freita/Arada e Lapa/Leomil.
 
-Está-se na presença de uma ZEC onde se evidenciam grandes heterogeneidades de relevo, na medida em que se podem encontrar cotas que variam entre 20 m, na extremidade ocidental (confluência com o rio Douro); e altitudes superiores a 860 m, na extremidade este, evidenciando-se duas proeminentes cristas montanhosas, o Alto de Alva (873 m) e o Alto da Abelha (818 m). Para estas heterogeneidades de relevo em muito contribui a intrincada rede de linhas de água, sendo que o valor médio de densidade hidrográfica, dado para a região, é de aproximadamente 6,42 linhas de água por km<sup>2</sup>, podendo superar as 11 linhas de água por km<sup>2</sup> (Gonçalves, 2013).
+Está-se na presença de uma ZEC onde se evidenciam grandes heterogeneidades de relevo, na medida em que se podem encontrar cotas que variam entre 20 m, na extremidade ocidental (confluência com o rio Douro); e altitudes superiores a 860 m, na extremidade este, evidenciando-se duas proeminentes cristas montanhosas, o Alto de Alva (873 m) e o Alto da Abelha (818 m). Para estas heterogeneidades de relevo em muito contribui a intrincada rede de linhas de água, sendo que o valor médio de densidade hidrográfica, dado para a região, é de aproximadamente 6,42 linhas de água por km2, podendo superar as 11 linhas de água por km2 (Gonçalves, 2013).
 
 Os índices pluviométricos da região onde se insere a ZEC são consideravelmente elevados para o contexto de Portugal Continental, podendo oscilar entre 1200 e 2000 mm. Considerando os elevados declives da generalidade dos territórios da ZEC, grande parte dessa precipitação traduz-se em circulação superficial (linear), ou seja, subsistem condições pouco favoráveis à infiltração e recarga de aquíferos.
 
@@ -214,44 +239,44 @@ Tipos de habitat do anexo i da Diretiva Habitats com presença significativa na 
 
 | Código | Habitat |
 | --- | --- |
-| 3260 | # Cursos de água dos pisos basal a montano com vegetação da Ranunculion fluitantis e da Callitricho-Batrachion |
+| 3260 | **# Cursos de água dos pisos basal****a****montano com vegetação da****Ranunculion fluitantis****e****da****Callitricho-Batrachion** |
 | 4030 | Charnecas secas europeias |
-| 5230 | # Matagais arborescentes de Laurus nobilis |
+| 5230 | **# Matagais arborescentes de****Laurus nobilis** |
 | 5330 | Matos termomediterrânicos pré-desérticos |
-| 6220 | # Subestepes de gramíneas e anuais da Thero-Brachypodietea |
-| 6410 | # Pradarias com Molinia em solos calcários, turfosos e argilo-limosos (Molinion caeruleae) |
+| 6220 | **# Subestepes de gramíneas****e****anuais da****Thero-Brachypodietea** |
+| 6410 | **# Pradarias com****Molinia****em solos calcários, turfosos****e****argilo-limosos (****Molinion caeruleae****)** |
 | 6430 | Comunidades de ervas altas higrófilas das orlas basais e dos pisos montano a alpino |
-| 6510 | # Prados de feno pobres de baixa altitude (Alopecurus pratensis, Sanguisorba officinalis) |
-| 91E0 | # Florestas aluviais de Alnus glutinosa e Fraxinus excelsior (Alno-Padion, Alnion incanae, Salicion albae) |
-| 9160 | # Carvalhais pedunculados ou florestas mistas de carvalhos e carpas subatlânticas e médio-europeias da Carpinion betuli |
-| 92A0 | # Florestas-galeria de Salix alba e Populus alba |
-| 9230 | # Carvalhais galaico-portugueses de Quercus robur e Quercus pyrenaica |
-| 9260 | # Florestas de Castanea sativa |
-| 9330 | # Florestas de Quercus suber |
+| 6510 | **# Prados de feno pobres de baixa altitude (****Alopecurus pratensis, Sanguisorba officinalis****)** |
+| 91E0 | **# Florestas aluviais de****Alnus glutinosa****e****Fraxinus excelsior****(****Alno-Padion, Alnion incanae, Salicion albae****)** |
+| 9160 | **# Carvalhais pedunculados ou florestas mistas de carvalhos****e****carpas subatlânticas****e****médio-europeias da****Carpinion betuli** |
+| 92A0 | **# Florestas-galeria de****Salix alba****e****Populus alba** |
+| 9230 | **# Carvalhais galaico-portugueses de****Quercus robur****e****Quercus pyrenaica** |
+| 9260 | **# Florestas de****Castanea sativa** |
+| 9330 | **# Florestas de****Quercus suber** |
 
 QUADRO 3
 
 Espécies do anexo II da Diretiva Habitats com presença significativa na ZEC
 
-| Código | Grupo | Espécie |
+| **Código** | **Grupo** | **Espécie** |
 | --- | --- | --- |
-| 6199 | I | # Euplagia quadripunctaria (sin. Callimorpha quadripunctaria) |
-| 1065 | I | # Euphydryas aurinia |
-| 1041 | I | # Oxygastra curtisii |
-| 1046 | I | # Gomphus graslinii |
-| 1036 | I | # Macromia splendens |
-| 1088 | I | # Cerambyx cerdo |
-| 1083 | I | # Lucanus cervus |
-| 1029 | I | # Margaritifera margaritifera |
-| 1172 | A | # Chioglossa lusitanica |
-| 1259 | R | # Lacerta schreiberi |
+| 6199 | I | **# Euplagia quadripunctaria****(sin.****Callimorpha quadripunctaria****)** |
+| 1065 | I | **# Euphydryas aurinia** |
+| 1041 | I | **# Oxygastra curtisii** |
+| 1046 | I | **# Gomphus graslinii** |
+| 1036 | I | **# Macromia splendens** |
+| 1088 | I | **# Cerambyx cerdo** |
+| 1083 | I | **# Lucanus cervus** |
+| 1029 | I | **# Margaritifera margaritifera** |
+| 1172 | A | **# Chioglossa lusitanica** |
+| 1259 | R | **# Lacerta schreiberi** |
 | 1221 | R | Mauremys leprosa |
-| 6156 | P | # Achondrostoma oligolepis (sin. Rutilus macrolepidotus) |
-| 6975 | P | # Squalius alburnoides (sin. Rutilus alburnoides) |
-| 5296 | P | # Pseudochondrostoma duriense (sin. Chondrostoma polylepis) |
+| 6156 | P | **# Achondrostoma oligolepis****(sin.****Rutilus macrolepidotus****)** |
+| 6975 | P | **# Squalius alburnoides****(sin.****Rutilus alburnoides****)** |
+| 5296 | P | **# Pseudochondrostoma duriense****(sin.****Chondrostoma polylepis****)** |
 | 1355 | M | Lutra lutra |
-| 1301 | M | # Galemys pyrenaicus |
-| 1352 | M | # Canis lupus |
+| 1301 | M | **# Galemys pyrenaicus** |
+| 1352 | M | **# Canis lupus** |
 
 Grupo: I - Invertebrado; A - Anfíbio; M - Mamífero; P - Peixe; R - Réptil.
 
@@ -331,44 +356,44 @@ QUADRO 5
 
 Quadro operacional das medidas de conservação complementares
 
-| Medida de Conservação | Relevância* | Indicadores de realização | Metas | Entidade responsável | Entidades envolvidas | Início | Fim |
+| Medida de Conservação | Relevância* | Indicadores de realização | Metas | Entidade responsável | Entidades envolvidas | Calendarização |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Medida de Conservação | Relevância* | Indicadores de realização | Metas | Entidade responsável | Entidades envolvidas | Calendarização | Calendarização |
+| Início | Fim |  |  |  |  |  |  |
 | MC1 - Promover a gestão sustentável de tipos de habitat florestais | 1 | Proporção de área contratualizada para gestão florestal orientada para a conservação dos valores naturais protegidos | 70 % da área elegível | ICNFGPP | Autoridade gestão do PEPACGestores florestais e suas associaçõesCCDR/AgriÓrgãos de gestão de baldiosFreguesiasEntidades gestoras das ZIFEntidades gestoras de AIGP | Ano 1 | Ano 10 |
 | MC2 - Promover a gestão sustentável dos prados e pastagens de solos mesófilos a secos | 1 | Proporção de área contratualizada | 100 % da área elegível | ICNFGPP | Autoridade de gestão do PEPACCCDR/AgriProprietáriosAgricultores e suas associaçõesEntidades gestoras das ZIFEntidades gestoras de AIGP | Ano 1 | Ano 10 |
 | MC3 - Promover a manutenção de pastagens permanentes com alto valor natural | 1 | Proporção de área contratualizada | 100 % da área elegível | ICNFGPP | Autoridade de gestão do PEPACCCDR/AgriProprietáriosAgricultores e suas associaçõesEntidades gestoras das ZIFEntidades gestoras de AIGP | Ano 1 | Ano 10 |
 | MC4 - Restabelecer a composição, estrutura e continuidade do ecossistema fluvial e ribeirinho | 1 | 1 - Proporção de galeria ripícola objeto de projetos de restauro orientado para a promoção dos tipos de habitat alvo | 1 - 25 % da galeria ripícola degradada com ocorrência real ou potencial dos tipos de habitat alvo | ICNFAPAGPP | Autoridade de gestão do PEPACCCDR/AgriFreguesias | Ano 1 | Ano 10 |
 |  |  | 2 - Proporção das estruturas hidráulicas de génese informal e ilegal eliminadas (sujeitas a prévia ponderação) | 2 - 100 % das estruturas assinaladas para eliminação | Municípios | Centros de InvestigaçãoProprietáriosAgricultores, gestores florestais e suas associaçõesEntidades gestoras das ZIFEntidades gestoras de AIGP |  |  |
-|  |  | 3 - Proporção das estruturas hidráulicas com condições de transponibilidade para peixes e outros organismos aquáticos | 3 - 100 % das estruturas hidráulicas transponíveis para peixes e outros organismos aquáticos | Municípios | Centros de InvestigaçãoProprietáriosAgricultores, gestores florestais e suas associaçõesEntidades gestoras das ZIFEntidades gestoras de AIGP |  |  |
+|  |  | 3 - Proporção das estruturas hidráulicas com condições de transponibilidade para peixes e outros organismos aquáticos | 3 - 100 % das estruturas hidráulicas transponíveis para peixes e outros organismos aquáticos |  |  |  |  |
 | MC5 - Ordenar acessibilidades e promover a utilização racional e sustentável dos territórios para o desenvolvimento das atividades desportivas, recreativas e turísticas | 2 | 1 - Estudo de ordenamento de acessibilidades (viárias, cicláveis e pedonais) e estacionamento elaborado | 1 - Estudo nos primeiros 2 anos após a aprovação do plano de gestão | ICNFAPAMunicípios | CCDRAGA - Associação Geoparque AroucaTurismo de Portugal, IPONGCentros de InvestigaçãoFreguesiasProprietários | Ano 1 | Ano 10 |
-| MC5 - Ordenar acessibilidades e promover a utilização racional e sustentável dos territórios para o desenvolvimento das atividades desportivas, recreativas e turísticas | 2 | 2 - Proporção dos acessos indevidos vedados | 2 - 50 % dos acessos indevidos | ICNFAPAMunicípios | CCDRAGA - Associação Geoparque AroucaTurismo de Portugal, IPONGCentros de InvestigaçãoFreguesiasProprietários | Ano 1 | Ano 10 |
-| MC5 - Ordenar acessibilidades e promover a utilização racional e sustentável dos territórios para o desenvolvimento das atividades desportivas, recreativas e turísticas | 2 | 3 - Proporção da rede de percursos com necessidades de reformulação intervencionada | 3 - 50 % da extensão/rede de percursos com necessidades de reformulação intervencionada | ICNFAPAMunicípios | CCDRAGA - Associação Geoparque AroucaTurismo de Portugal, IPONGCentros de InvestigaçãoFreguesiasProprietários | Ano 1 | Ano 10 |
-| MC5 - Ordenar acessibilidades e promover a utilização racional e sustentável dos territórios para o desenvolvimento das atividades desportivas, recreativas e turísticas | 2 | 4 - Outras intervenções previstas no estudo de ordenamento de acessibilidades e estacionamento | 4 - 50 % das intervenções previstas no estudo com prioridade considerada Elevada | ICNFAPAMunicípios | CCDRAGA - Associação Geoparque AroucaTurismo de Portugal, IPONGCentros de InvestigaçãoFreguesiasProprietários | Ano 1 | Ano 10 |
-| MC5 - Ordenar acessibilidades e promover a utilização racional e sustentável dos territórios para o desenvolvimento das atividades desportivas, recreativas e turísticas | 2 | 5 - Número de painéis colocados | 5 - Um painel em cada acesso a zona ribeirinha/outro espaço natural e dois painéis por sede de freguesia | ICNFAPAMunicípios | CCDRAGA - Associação Geoparque AroucaTurismo de Portugal, IPONGCentros de InvestigaçãoFreguesiasProprietários | Ano 1 | Ano 10 |
+| 2 - Proporção dos acessos indevidos vedados | 2 - 50 % dos acessos indevidos |  |  |  |  |  |  |
+| 3 - Proporção da rede de percursos com necessidades de reformulação intervencionada | 3 - 50 % da extensão/rede de percursos com necessidades de reformulação intervencionada |  |  |  |  |  |  |
+| 4 - Outras intervenções previstas no estudo de ordenamento de acessibilidades e estacionamento | 4 - 50 % das intervenções previstas no estudo com prioridade considerada Elevada |  |  |  |  |  |  |
+| 5 - Número de painéis colocados | 5 - Um painel em cada acesso a zona ribeirinha/outro espaço natural e dois painéis por sede de freguesia |  |  |  |  |  |  |
 | MC6 - Adaptar o planeamento e a operacionalização da gestão integrada dos fogos rurais à salvaguarda dos valores naturais protegidos | 2 | 1 - Proporção de planos/programas adaptados e incluindo diretrizes de salvaguarda | 1 - 100 % | ICNFComissões Regionais, Sub-Regionais e Municipais de Gestão Integrada de Fogos RuraisEntidades Gestoras de AIGPComunidades Intermunicipais do Algarve e do AlentejoCCDR/AgriAPA | Autoridade de gestão do PEPACCCDRProprietáriosGestores florestais e suas associaçõesEmpresasComissões IntermunicipaisMunicípiosEntidades gestoras de AIGP | Ano 1 | Ano 10 |
-| MC6 - Adaptar o planeamento e a operacionalização da gestão integrada dos fogos rurais à salvaguarda dos valores naturais protegidos | 2 | 2 - Proporção de planos de recuperação pós-incêndio com medidas orientadas para o restauro e salvaguarda dos valores naturais protegidos | 2 - 100 % | ICNFComissões Regionais, Sub-Regionais e Municipais de Gestão Integrada de Fogos RuraisEntidades Gestoras de AIGPComunidades Intermunicipais do Algarve e do AlentejoCCDR/AgriAPA | Autoridade de gestão do PEPACCCDRProprietáriosGestores florestais e suas associaçõesEmpresasComissões IntermunicipaisMunicípiosEntidades gestoras de AIGP | Ano 1 | Ano 10 |
+| 2 - Proporção de planos de recuperação pós-incêndio com medidas orientadas para o restauro e salvaguarda dos valores naturais protegidos | 2 - 100 % |  |  |  |  |  |  |
 | MC7 - Estabelecer plano de deteção e atuação frente a pragas e doenças | 2 | Data de estabelecimento do plano | Ano 5 após a aprovação do plano de gestão | ICNF | Autoridade de gestão do PEPACCCDR/AgriAPAProprietários, gestores florestais e suas associaçõesMunicípiosCorporações de BombeirosAssociações de desenvolvimento localCentros de investigação | Ano 1 | Ano 10 |
 | MC8 - Prevenir, intervir precocemente ou controlar as populações de espécies de flora e fauna exóticas invasoras | 2 | 1 - Data de elaboração do plano de controlo de espécies exóticas invasoras | 1 - Ano 1 após a aprovação do plano de gestão | ICNFMunicípios | Autoridade de gestão do PEPACCCDR/AgriGestores florestais e suas associaçõesProprietáriosONGACentros de InvestigaçãoEntidades gestoras das ZIFEntidades gestoras de AIGP | Ano 1 | Ano 10 |
-| MC8 - Prevenir, intervir precocemente ou controlar as populações de espécies de flora e fauna exóticas invasoras | 2 | 2 - Proporção das áreas prioritárias para o combate à flora exótica invasora intervencionadas | 2 - 100% das áreas prioritárias | ICNFMunicípios | Autoridade de gestão do PEPACCCDR/AgriGestores florestais e suas associaçõesProprietáriosONGACentros de InvestigaçãoEntidades gestoras das ZIFEntidades gestoras de AIGP | Ano 1 | Ano 10 |
-| MC8 - Prevenir, intervir precocemente ou controlar as populações de espécies de flora e fauna exóticas invasoras | 2 | 3 - Número de amostragens de pesca elétrica realizadas | 3 - Uma por ano | ICNFMunicípios | Autoridade de gestão do PEPACCCDR/AgriGestores florestais e suas associaçõesProprietáriosONGACentros de InvestigaçãoEntidades gestoras das ZIFEntidades gestoras de AIGP | Ano 1 | Ano 10 |
-| MC8 - Prevenir, intervir precocemente ou controlar as populações de espécies de flora e fauna exóticas invasoras | 2 | 4 - Número de campanhas de armadilhagem realizadas | 4 - Uma por ano | ICNFMunicípios | Autoridade de gestão do PEPACCCDR/AgriGestores florestais e suas associaçõesProprietáriosONGACentros de InvestigaçãoEntidades gestoras das ZIFEntidades gestoras de AIGP | Ano 1 | Ano 10 |
+| 2 - Proporção das áreas prioritárias para o combate à flora exótica invasora intervencionadas | 2 - 100% das áreas prioritárias |  |  |  |  |  |  |
+| 3 - Número de amostragens de pesca elétrica realizadas | 3 - Uma por ano |  |  |  |  |  |  |
+| 4 - Número de campanhas de armadilhagem realizadas | 4 - Uma por ano |  |  |  |  |  |  |
 | MC9 - Promover a proteção dos efetivos pecuários | 2 | 1 - Percentagem dos criadores que usam medidas de proteção do efetivo pecuário | 1 - 50 % dos criadores pecuários | ICNFGPP | Autoridade de gestão do PEPACCCDR/AgriDGAVProdutores pecuáriosÓrgãos de gestão de baldiosMunicípiosFreguesias | Ano 1 | Ano 10 |
-| MC9 - Promover a proteção dos efetivos pecuários | 2 | 2 - Percentagem de matilhas controladas | 2 - 50 % das matilhas | ICNFGPP | Autoridade de gestão do PEPACCCDR/AgriDGAVProdutores pecuáriosÓrgãos de gestão de baldiosMunicípiosFreguesias | Ano 1 | Ano 10 |
+| 2 - Percentagem de matilhas controladas | 2 - 50 % das matilhas |  |  |  |  |  |  |
 | MC10 - Criação de um sistema de valorização de produtos pecuários associados à presença de lobo | 3 | Produção do estudo de mercado e plano de comercialização associado | Ano 3 após a aprovação do plano de gestão | ICNF | CCDR/AgriDGADRAssociações de produtores pecuáriosAssociações de desenvolvimento localONGA | Ano 1 | Ano 10 |
 | MC11 - Realização regular de ações de formação dos intervenientes no processo de verificação e atribuição de indemnizações de prejuízos atribuídos ao lobo | 2 | Número de sessões | Duas sessões por ano | ICNF | DGAVAcademiaONGA | Ano 1 | Ano 10 |
 | MC12 - Realização regular de reuniões participativas com criadores de gado e seus representantes para identificação de soluções de compatibilização da atividade pecuária com a presença de lobo | 2 | Número de sessões | Duas sessões por ano | ICNF | Autoridade de gestão do PEPACDGAVCCDR/AgriMunicípiosFreguesiasProdutores pecuáriosAssociações de desenvolvimento localONG | Ano 1 | Ano 10 |
 | MC13 - Promover a permeabilidade das infraestruturas existentes na ZEC e sua envolvente | 3 | 1 - Data de elaboração do estudo de avaliação (diagnóstico) | 1 - Ano 8 após a aprovação do plano de gestão | ICNFInfraestruturas de PortugalMunicípios | APACCDRMunicípiosConcessionários de infraestruturas viárias | Ano 1 | Ano 10 |
-| MC13 - Promover a permeabilidade das infraestruturas existentes na ZEC e sua envolvente | 3 | 2 - Proporção de áreas prioritárias intervencionadas | 2 - 100 % | ICNFInfraestruturas de PortugalMunicípios | APACCDRMunicípiosConcessionários de infraestruturas viárias | Ano 1 | Ano 10 |
+| 2 - Proporção de áreas prioritárias intervencionadas | 2 - 100 % |  |  |  |  |  |  |
 | MC14 - Reforçar a população de mexilhão-de-rio Margaritifera margaritifera | 3 | 1 - Data de elaboração de um plano de recuperação de Margaritifera margaritifa | 1 - Ano 3 após a aprovação do plano de gestão | ICNF | MunicípiosAPACentros de InvestigaçãoEmpresas | Ano 1 | Ano 10 |
-| MC14 - Reforçar a população de mexilhão-de-rio Margaritifera margaritifera | 3 | 2 - Número de ações de repovoamento | 2 - 100 % das intervenções previstas no plano | ICNF | MunicípiosAPACentros de InvestigaçãoEmpresas | Ano 1 | Ano 10 |
+| 2 - Número de ações de repovoamento | 2 - 100 % das intervenções previstas no plano |  |  |  |  |  |  |
 | MC15 - Promover a partilha de informação, formar e apoiar os gestores florestais e agrícolas e sensibilizar os demais agentes, a população local e os visitantes para a conservação dos valores naturais da ZEC | 2 | 1 - Data da criação de conteúdos digitais | 1 - Ano 5 após a aprovação do plano de gestão | ICNFGPPCCDR/AgriOrganizações de agricultores, gestores florestais e da caçaMunicípios | Autoridade de gestão do PEPACCCDRAPATurismo Centro PortugalCentros de InvestigaçãoEscolasAssociações de desenvolvimento localAssociações de pesca e caçaONGAProprietáriosFreguesias | Ano 1 | Ano 10 |
-| MC15 - Promover a partilha de informação, formar e apoiar os gestores florestais e agrícolas e sensibilizar os demais agentes, a população local e os visitantes para a conservação dos valores naturais da ZEC | 2 | 2 - Número de iniciativas | 2 - Uma iniciativa por ano | ICNFGPPCCDR/AgriOrganizações de agricultores, gestores florestais e da caçaMunicípios | Autoridade de gestão do PEPACCCDRAPATurismo Centro PortugalCentros de InvestigaçãoEscolasAssociações de desenvolvimento localAssociações de pesca e caçaONGAProprietáriosFreguesias | Ano 1 | Ano 10 |
+| 2 - Número de iniciativas | 2 - Uma iniciativa por ano |  |  |  |  |  |  |
 | MC16 - Reforçar a fiscalização | 2 | Número de ações de fiscalização por ano | 24 ações (2 ações por mês) | ICNFSEPNA/GNRPSPCCDR | APAMunicípiosEntidades gestoras e proprietários | Ano 1 | Ano 10 |
 | MC17 - Promover/assegurar densidades adequadas de presas selvagens de lobo | 2 | 1 - Data de elaboração de estudo de avaliação da situação populacional das presas selvagens do lobo na ZEC e de identificação medidas a adotar | 1 - Ano 2 após a aprovação do plano de gestão | ICNF | Autoridade de gestão do PEPACOrganizações do setor agrícola, florestal e cinegéticoCentros de InvestigaçãoONGAProprietários | Ano 1 | Ano 10 |
-| MC17 - Promover/assegurar densidades adequadas de presas selvagens de lobo | 2 | 2 - Data de implementação das medidas identificadas | 2 - Ano 4 após a aprovação do plano de gestão | ICNF | Autoridade de gestão do PEPACOrganizações do setor agrícola, florestal e cinegéticoCentros de InvestigaçãoONGAProprietários | Ano 1 | Ano 10 |
+| 2 - Data de implementação das medidas identificadas | 2 - Ano 4 após a aprovação do plano de gestão |  |  |  |  |  |  |
 | MC18 - Colmatar as lacunas de conhecimento sobre a condição ecológica de Lucanus cervus e Cerambyx cerdo na ZEC | 2 | Data de conclusão do estudo | Ano 5 após a aprovação do plano de gestão | ICNF | Centros de investigaçãoONGAEmpresas | Ano 1 | Ano 5 |
-| MC19 - Estabelecer e consolidar os critérios e parâmetros de quantificação e avaliação dos objetivos de conservação, e os recursos necessários para a execução das medidas de conservação | 1 | 1 - Quadro de densificação dos objetivos de conservação, indicadores e metas | Quadros aprovados pela(s) entidade(s) responsável(eis) pelo plano de gestão até ao final do 2.º ano de execução do plano de gestão | ICNF | GPP Norte 2030Centro 2030 | Ano 1 | Ano 2 |
-| MC19 - Estabelecer e consolidar os critérios e parâmetros de quantificação e avaliação dos objetivos de conservação, e os recursos necessários para a execução das medidas de conservação | 1 | 2 - Quadro de estimativa preliminar dos recursos financeiros, humanos e técnicos para os primeiros cinco anos de execução do plano de gestão | Quadros aprovados pela(s) entidade(s) responsável(eis) pelo plano de gestão até ao final do 2.º ano de execução do plano de gestão | ICNF | GPP Norte 2030Centro 2030 | Ano 1 | Ano 2 |
+| MC19 - Estabelecer e consolidar os critérios e parâmetros de quantificação e avaliação dos objetivos de conservação, e os recursos necessários para a execução das medidas de conservação | 1 | 1 - Quadro de densificação dos objetivos de conservação, indicadores e metas | Quadros aprovados pela(s) entidade(s) responsável(eis) pelo plano de gestão até ao final do 2.º ano de execução do plano de gestão | ICNF | GPPNorte 2030Centro 2030 | Ano 1 | Ano 2 |
+| 2 - Quadro de estimativa preliminar dos recursos financeiros, humanos e técnicos para os primeiros cinco anos de execução do plano de gestão |  |  |  |  |  |  |  |
 
 * O campo relevância representa a importância relativa de cada uma das medidas de conservação e encontra-se classificado da seguinte forma: 1 - Muito elevada; 2 - Elevada; 3 - Média.
 
@@ -452,58 +477,90 @@ OM - Orçamento Municipal.
 
 PNA-PNGIFR - Programa Nacional de Ação do Plano Nacional de Gestão Integrada de Fogos Rurais.
 
-![](https://files.diariodarepublica.pt/images/1127477514/1127512324.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1127477514/1127512324.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1127477514/1127512325.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1127477514/1127512325.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1127477514/1127512326.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1127477514/1127512326.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1127477514/1127512327.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1127477514/1127512327.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1127477514/1127512328.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1127477514/1127512328.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1127477514/1127512329.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1127477514/1127512329.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1127477514/1127512330.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1127477514/1127512330.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1127477514/1127512331.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1127477514/1127512331.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1127477514/1127512332.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1127477514/1127512332.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1127477514/1127512333.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1127477514/1127512333.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1127477514/1127512334.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1127477514/1127512334.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1127477514/1127512335.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1127477514/1127512335.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1127477514/1127512336.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1127477514/1127512336.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1127477514/1127512337.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1127477514/1127512337.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1127477514/1127512338.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1127477514/1127512338.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1127477514/1127512339.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1127477514/1127512339.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1127477514/1127512340.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1127477514/1127512340.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1127477514/1127512341.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1127477514/1127512341.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1127477514/1127512342.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1127477514/1127512342.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1127477514/1127512343.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1127477514/1127512343.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1127477514/1127512344.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1127477514/1127512344.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1127477514/1127512345.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1127477514/1127512345.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1127477514/1127512346.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1127477514/1127512346.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1127477514/1127512347.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1127477514/1127512347.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1127477514/1127512348.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1127477514/1127512348.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1127477514/1127512349.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1127477514/1127512349.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1127477514/1127512350.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1127477514/1127512350.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1127477514/1127512351.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1127477514/1127512351.png) |
+| --- |
+
+119948656
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:18px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { text-align:justify; text-align-last:right; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl10 { min-height:19px; } .Tbl11 { min-height:28px; } .Tbl12 { min-height:23px; } .Tbl13 { min-height:45px; } .Tbl14 { min-height:56px; } .Tbl15 { min-height:53px; } .Tbl16 { min-height:58px; } .Tbl17 { min-height:43px; } .Tbl18 { min-height:47px; } .Tbl19 { min-height:57px; } .Tbl20 { min-height:50px; } .Tbl21 { min-height:41px; } .Tbl22 { min-height:54px; } .Tbl23 { text-align:justify; text-align-last:justify; } .Tbl24 { min-height:37px; } .Tbl25 { min-height:17px; } .Tbl26 { min-height:123px; } .Tbl27 { min-height:97px; } .Tbl28 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl29 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl30 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl31 { min-height:36px; } .Tbl32 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl33 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl34 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl35 { min-height:27px; } .Tbl36 { min-height:109px; } .Tbl37 { min-height:152px; } .Tbl38 { min-height:29px; } .Tbl39 { min-height:40px; } .Tbl40 { min-height:76px; } .Tbl41 { min-height:107px; } .Tbl42 { min-height:74px; } .Tbl43 { min-height:146px; } .Tbl44 { min-height:30px; } .Tbl45 { min-height:157px; } .Tbl46 { min-height:66px; } .Tbl47 { min-height:49px; } .Tbl48 { height:34px; } .Tbl49 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl50 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl51 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl52 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl53 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl54 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(217,217,217); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl55 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(217,217,217); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; }

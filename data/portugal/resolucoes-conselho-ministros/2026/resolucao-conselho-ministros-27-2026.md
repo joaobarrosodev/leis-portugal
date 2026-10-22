@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/27/2026/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/27-2026-1043405187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-10T00:00:00Z'
+  retrieved_at: '2026-10-22T18:31:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 217226693a2c29ef95b50b41addc67da27dc0f2908f7f929d9883be068653d10
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13094d1c9be0fc4e0c66d504f677e88b26dab3a6100bcbcc44e18222214ad8e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:31:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Central do Sistema de Saúde
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
-- Ministro da Saúde
 - Conselho de Ministros
 - Delegação de Competências
-- Administração Central do Sistema de Saúde
 - Governo XXV
+- Ministro da Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/111/2012/05/23/p/dre
@@ -95,16 +95,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:177863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201658593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211748636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2122294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3201635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:31:47Z'
   warnings: []
   errors: []
 ---
@@ -127,9 +163,9 @@ O Programa do XXV Governo Constitucional tem como meta a concretização da cons
 
 Por conseguinte, a equipa de projeto, em cumprimento do exigido pelo artigo 14.º do [Decreto-Lei n.º 111/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), de 23 de maio, submeteu, a 16 de dezembro de 2025, à consideração dos membros do Governo responsáveis pelas áreas das finanças e da saúde um relatório fundamentado relativo ao estudo e lançamento da parceria público-privada relativa à conceção, projeto, construção, financiamento, conservação, manutenção e exploração da infraestrutura do Complexo Hospitalar do novo Hospital Central do Algarve propondo, a final, a aprovação do lançamento daquela e do respetivo procedimento de concurso público com publicidade internacional.
 
-Este relatório inclui, em cumprimento dos n.<sup>os</sup>2 e 4 do artigo 14.º do [Decreto-Lei n.º 111/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), de 23 de maio, na sua redação atual, a análise das opções que determinaram a configuração do projeto, a descrição do mesmo e do seu modo de financiamento, a demonstração do seu interesse público, a justificação da opção pelo modelo de parceria, a análise da conformidade do projeto de parceria com os pressupostos de lançamento previstos no n.º 1 do artigo 6.º e no artigo 7.º do referido decreto-lei e as minutas de programa do procedimento e de caderno de encargos a adotar para a contratação da parceria.
+Este relatório inclui, em cumprimento dos n.os2 e 4 do artigo 14.º do [Decreto-Lei n.º 111/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), de 23 de maio, na sua redação atual, a análise das opções que determinaram a configuração do projeto, a descrição do mesmo e do seu modo de financiamento, a demonstração do seu interesse público, a justificação da opção pelo modelo de parceria, a análise da conformidade do projeto de parceria com os pressupostos de lançamento previstos no n.º 1 do artigo 6.º e no artigo 7.º do referido decreto-lei e as minutas de programa do procedimento e de caderno de encargos a adotar para a contratação da parceria.
 
-Assim, nos termos e para os efeitos previstos nos n.<sup>os</sup>3 e 4 do artigo 14.º do [Decreto-Lei n.º 111/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), de 23 de maio, na sua redação atual, foi aprovado em 7 de janeiro de 2026, através do despacho conjunto do Secretário de Estado do Tesouro e das Finanças e do Secretário de Estado da Gestão da Saúde, o lançamento da PPP relativa à conceção, projeto, construção, financiamento, conservação, manutenção e exploração da infraestrutura do Complexo Hospitalar do novo Hospital Central do Algarve, nos termos previstos no relatório da equipa de projeto, com publicação de anúncio no Jornal Oficial da União Europeia, lançamento este cuja efetivação fica sujeita à prévia autorização da despesa inerente a esse contrato.
+Assim, nos termos e para os efeitos previstos nos n.os3 e 4 do artigo 14.º do [Decreto-Lei n.º 111/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), de 23 de maio, na sua redação atual, foi aprovado em 7 de janeiro de 2026, através do despacho conjunto do Secretário de Estado do Tesouro e das Finanças e do Secretário de Estado da Gestão da Saúde, o lançamento da PPP relativa à conceção, projeto, construção, financiamento, conservação, manutenção e exploração da infraestrutura do Complexo Hospitalar do novo Hospital Central do Algarve, nos termos previstos no relatório da equipa de projeto, com publicação de anúncio no Jornal Oficial da União Europeia, lançamento este cuja efetivação fica sujeita à prévia autorização da despesa inerente a esse contrato.
 
 De acordo com o previsto na alínea e) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, considerando o valor dos encargos máximos estimados associados ao contrato a celebrar na sequência do referido procedimento pré-contratual, o órgão competente para autorizar a despesa relativa a esse contrato é o Conselho de Ministros.
 
@@ -206,3 +242,5 @@ aa) 2057 - € 9 044 059,07.
 7 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 9 de janeiro de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119947612

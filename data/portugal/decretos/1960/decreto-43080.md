@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43080-1960-501991
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-07-19T00:00:00Z'
+  retrieved_at: '2026-10-22T19:19:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59fcb65dc625b73d9ab71cb299655fb891d4d326c1f4f2d26f358968dbeca95c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15c5b54bb50dcbed7eac59e9ad1a7071b3fcc9996f2050bc2fc1ff39265d2ae9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:19:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:19:02Z'
   warnings: []
   errors: []
 ---
@@ -88,31 +88,31 @@ Convindo esclarecer com urgência o estatuto jurídico do pessoal da Polícia de
 
 Usando da faculdade conferida pelo n.º 3.º e § 1.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º No Corpo de Polícia de Segurança Pública da província de Angola, directamente dependente do respectivo comandante, é criada uma companhia móvel.
+Artigo 1.º No Corpo de Polícia de Segurança Pública da província de Angola, directamente dependente do respectivo comandante, é criada uma companhia móvel.
 
 § único. Enquanto se não regulamentarem na província as atribuições da companhia móvel, esta exercerá as funções que normalmente competem à Polícia de Segurança Pública e as que lhe forem designadas em instruções do respectivo comandante, aprovadas pelo governador.
 
-###### Art. 2.º Os quadros e os vencimentos do pessoal da companhia móvel são os descritos no mapa I anexo a este diploma.
+Art. 2.º Os quadros e os vencimentos do pessoal da companhia móvel são os descritos no mapa I anexo a este diploma.
 
 § único. Além dos referidos vencimentos, o pessoal da companhia móvel terá os direitos e regalias concedidos aos agentes dos serviços públicos da província de idêntica categoria.
 
-###### Art. 3.º O pessoal da companhia móvel será provido em comissão ordinária de serviço de dois anos, de conformidade com as disposições aplicáveis do artigo 35.º do Estatuto do Funcionalismo Ultramarino ou no regime estabelecido no artigo 27.º do mesmo diploma, mediante concurso de provas públicas.
+Art. 3.º O pessoal da companhia móvel será provido em comissão ordinária de serviço de dois anos, de conformidade com as disposições aplicáveis do artigo 35.º do Estatuto do Funcionalismo Ultramarino ou no regime estabelecido no artigo 27.º do mesmo diploma, mediante concurso de provas públicas.
 
-###### Art. 4.º A escolha do pessoal a prover em comissão ordinária de serviço só poderá recair em pessoal da Polícia de Segurança Pública da metrópole, para tal fim requisitado, de preferência em regime de voluntariado, ao Ministério do Interior.
+Art. 4.º A escolha do pessoal a prover em comissão ordinária de serviço só poderá recair em pessoal da Polícia de Segurança Pública da metrópole, para tal fim requisitado, de preferência em regime de voluntariado, ao Ministério do Interior.
 
-###### Art. 5.º A nomeação do pessoal, quando seja este o regime de provimento escolhido, far-se-á, quer para ingresso no quadro, quer para efeitos de promoção, de entre os candidatos habilitados em concurso, nos termos que forem estabelecidos pelos órgãos legislativos locais.
+Art. 5.º A nomeação do pessoal, quando seja este o regime de provimento escolhido, far-se-á, quer para ingresso no quadro, quer para efeitos de promoção, de entre os candidatos habilitados em concurso, nos termos que forem estabelecidos pelos órgãos legislativos locais.
 
-###### Art. 6.º O Ministro do Ultramar, por despacho sujeito a simples anotação do Tribunal de Contas, aprovará a lista do pessoal que, em comissão de serviço nos termos do artigo 4.º, fica actualmente constituindo a companhia móvel e indicará a data a partir da qual se considera iniciada a comissão.
+Art. 6.º O Ministro do Ultramar, por despacho sujeito a simples anotação do Tribunal de Contas, aprovará a lista do pessoal que, em comissão de serviço nos termos do artigo 4.º, fica actualmente constituindo a companhia móvel e indicará a data a partir da qual se considera iniciada a comissão.
 
-###### Art. 7.º Fica o governador-geral de Angola autorizado no corrente ano:
+Art. 7.º Fica o governador-geral de Angola autorizado no corrente ano:
 
 a) A reforçar as verbas do Corpo de Polícia de Segurança Pública, quer por meio de transferências, quer por meio de abertura de créditos especiais, com as importâncias necessárias ao pagamento de vencimentos e remunerações necessárias do pessoal da companhia móvel, utilizando como contrapartida recursos orçamentais;
 
 b) A abrir os créditos especiais necessários ao pagamento do material da companhia móvel e, bem assim, ao pagamento das demais despesas de instalação dos serviços da Polícia de Segurança Pública, utilizando como contrapartida os saldos de contas de exercícios findos.
 
-###### Art. 8.º Compete ao governador emitir os regulamentos e expedir as instruções necessárias para a boa execução deste diploma.
+Art. 8.º Compete ao governador emitir os regulamentos e expedir as instruções necessárias para a boa execução deste diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Julho de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 
@@ -122,6 +122,6 @@ MAPA I
 
 Do pessoal e vencimentos da companhia móvel do Corpo de Polícia de Segurança Pública da província de Angola
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/07/16600/17561756.pdf))](https://files.diariodarepublica.pt/1s/1960/07/16600/17561756.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/07/16600/17561756.pdf)
 
 Ministério do Ultramar, 19 de Julho de 1960. - O Ministro do Ultramar, Vasco Lopes Alves.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/07/13200/0000900013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/452/2022/07/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/452-2022-185839058
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-07-11T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f45aeb8e1404b3eb125210aecd1ca09b7143634ac5a4c5bdbf7cf6a44e46003
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9350cc2d4eacf781844595d4b86264ac6ebe51627f1aa8387a4e231b4dc162cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,10 +70,10 @@ subjects:
 - Assembleia de Freguesia
 - Inconstitucionalidade
 - Interpretação do Direito
-- Tribunal Constitucional
 - Junta de Freguesia
 - Legalidade
 - Referendo Local
+- Tribunal Constitucional
 - Viana do Castelo
 relationships:
 - type: cites
@@ -116,16 +116,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/4/2020/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/4/2020/11/11/p/dre
+- type: cites
+  target: pt:dre:116090196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139679806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148214576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1584298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165723198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177088811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2413167:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2931886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3156060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3410567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:23Z'
   warnings: []
   errors: []
 ---
@@ -241,3 +305,5 @@ Pelo exposto, o Tribunal Constitucional dá por verificada a constitucionalidade
 Atesto o voto de conformidade dos Senhores Conselheiros Teles Pereira, Maria Benedita Urbano, António Ascensão Ramos e Lino Ribeiro, que participam por videoconferência. Afonso Patrão.
 
 Lisboa, 15 de junho de 2022. - Afonso Patrão - José João Abrantes - Mariana Canotilho - José Eduardo Figueiredo Dias - Pedro Machete - Assunção Raimundo - Joana Fernandes Costa - Gonçalo Almeida Ribeiro - João Pedro Caupers.
+
+115481566

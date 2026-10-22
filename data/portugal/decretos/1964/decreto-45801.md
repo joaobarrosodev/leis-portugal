@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45801-1964-577959
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-07-08T00:00:00Z'
+  retrieved_at: '2026-10-22T19:41:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a15f64132af84e035060760749fb490b23039a1d49d615833702de0a903c5d92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be985126f0913c9ac55a3f45ee9179dec825f3e18e905129aabad1130c395059
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:41:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:646311:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:41:07Z'
   warnings: []
   errors: []
 ---
@@ -91,10 +95,10 @@ Tendo em vista o disposto no n.º 3.º do artigo 12.º do Código Administrativo
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A delimitação entre as freguesias de Alqueidão e Paião, do concelho da Figueira da Foz, junto à povoação do Casal Verde, é definida por uma linha que acompanha a estrada municipal n.º 622, proveniente de Asseiçó, até ao ponto em que a mesma atinge a estrada nacional n.º 341; segue, para poente, pelo eixo desta via até à bifurcação existente junto à frontaria da capela do Casal Verde, que contorna por sudoeste; inflecte, depois, sensìvelmente para nor-nordeste, pelo eixo da estrada municipal para Alqueidão, derivando, percorridos cerca de 100 m, para oes-sudoeste, pelo eixo do caminho que passa junto da casa de Carlos Mendes e segue para a Fonte da Salgueira; daqui continua, acompanhando a linha de água ali existente, em direcção às motas de Paião e da Lezíria.
+Artigo 1.º A delimitação entre as freguesias de Alqueidão e Paião, do concelho da Figueira da Foz, junto à povoação do Casal Verde, é definida por uma linha que acompanha a estrada municipal n.º 622, proveniente de Asseiçó, até ao ponto em que a mesma atinge a estrada nacional n.º 341; segue, para poente, pelo eixo desta via até à bifurcação existente junto à frontaria da capela do Casal Verde, que contorna por sudoeste; inflecte, depois, sensìvelmente para nor-nordeste, pelo eixo da estrada municipal para Alqueidão, derivando, percorridos cerca de 100 m, para oes-sudoeste, pelo eixo do caminho que passa junto da casa de Carlos Mendes e segue para a Fonte da Salgueira; daqui continua, acompanhando a linha de água ali existente, em direcção às motas de Paião e da Lezíria.
 
-###### Art. 2.º A Câmara Municipal da Figueira da Foz procederá, no prazo de 90 dias, à colocação de marcos onde se tornem necessários, de modo ficarem bem patentes os limites fixados no artigo anterior.
+Art. 2.º A Câmara Municipal da Figueira da Foz procederá, no prazo de 90 dias, à colocação de marcos onde se tornem necessários, de modo ficarem bem patentes os limites fixados no artigo anterior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 8 de Julho de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior.

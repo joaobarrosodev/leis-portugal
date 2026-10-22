@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/20/1998/11/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-1998-222613
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-02T00:00:00Z'
+  retrieved_at: '2026-10-22T18:51:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a8912f324febe11dd2f985e7f2f854d14a63997a22e5e638f9e311ceb2cbe1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c370a78decee364ee659ac43e444ede40bf3e750175ebe9bb68c0d3596502380
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:51:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,10 @@ reuse:
 subjects:
 - Acesso à Informação
 - Ajudas de Custo
-- Tempo de Serviço
 - Aposentação
-- Sanção Disciplinar
-- Região Autónoma
 - Auditor Jurídico
-- Eleição
-- Exoneração
-- Pessoal Dirigente
-- Procurador Geral da República
+- Avaliação do Pessoal
+- Conselho Consultivo
 - Conselho Superior do Ministério Público
 - Criação de Serviços
 - Definição de Competências
@@ -84,58 +79,67 @@ subjects:
 - Despesas de Deslocação
 - Despesas de Representação
 - Dispensa de Serviço
+- Eleição
+- Estágio de Formação
 - Estatuto
-- Processo Disciplinar
-- Sistema Retributivo
+- Exoneração
+- Faltas
 - Férias
 - Férias Judiciais
 - Fiscalização
 - Formas de Provimento
 - Gabinete de Documentação e Direito Comparado
-- Recrutamento de Pessoal
-- Remuneração Acessória
+- Gestão de Recursos Humanos
 - Incompatibilidades
-- Conselho Consultivo
-- Faltas
 - Licença sem Vencimento
-- Residência
 - Magistrado do Ministério Público
-- Procuradoria Geral Distrital
+- Ministério Público
 - Núcleo de Assessoria Técnica
 - Orgânica
 - Parecer
+- Pessoal Dirigente
+- Processo Disciplinar
 - Procurador Adjunto
-- Procuradoria da República
-- Procurador Geral Adjunto
 - Procurador da República
-- Estágio de Formação
-- Ministério Público
+- Procurador Geral Adjunto
+- Procurador Geral da República
+- Procuradoria da República
+- Procuradoria Geral da República
+- Procuradoria Geral Distrital
+- Recrutamento de Pessoal
+- Região Autónoma
 - Remuneração
+- Remuneração Acessória
+- Residência
+- Sanção Disciplinar
 - Segredo de Justiça
 - Segredo Profissional
-- Avaliação do Pessoal
-- Gestão de Recursos Humanos
+- Sistema Retributivo
 - Subsídio
 - Subsídio de Fixação
 - Substituição de Funções
 - Suspensão de Funções
+- Tempo de Serviço
 - Tomada de Posse
-- Procuradoria Geral da República
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/60/1998/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/60/1998/08/27/p/dre
+- type: cites
+  target: pt:dre:448680:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:51:37Z'
   warnings: []
   errors: []
 ---

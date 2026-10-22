@@ -23,7 +23,7 @@ publication:
   reference: Diário da República n.º 156/2008, 1º Suplemento, Série I de 2008-08-13
   number: '156'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5618-(2) a 5618-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/08/15601/0000200004.pdf
 entry_into_force_dates: []
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/44-a/2008/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/44-a-2008-495154
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-02-15T00:00:00Z'
+  retrieved_at: '2026-10-22T19:10:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e35a562bbb868e905155c82c659cdbedddb8347bf9efbbe9e48ea0de84690512
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2535ab511f067354411ccafc1dcba5717ea4e6929f867c131b9b137984d1dbe4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:10:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,6 +77,34 @@ relationships:
   target: pt:dre:119622094:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:73958532:por
+  label: Alterados os arts. 9.º (na redação das Leis 64-B/2011 de 30-dez, 66-B/2012 de 31-dez, e 83-C/2013 de 31-dez) e 12.º
+    (na redação da Lei 66-B/2012 de 31-dez), as verbas 1.1.5, 1.1.6, 1.6 (na redação da 82-B/2014 de 31-dez), 1.11 (na redação
+    da Lei 64-B/2011 de 30-dez), 2.5, 3, 3.7, 4 (na redação da Lei 83-C/2013 de 31-dez), 4.2 (aditada pela Lei 66-B/2012 de
+    31-dez), 5.2.8 e 5.2.9 da Lista I anexa, e as verbas 1.8, 3 e 3.1 da Lista II anexa (as três últimas com efeitos a partir
+    de 01.07.2016), aditada a verba 1.6.5 à Lista I anexa e revogada a verba 1.1 da Lista II anexa, todos do Código do Imposto
+    sobre o Valor Acrescentado (Código do IVA), aprovado pelo Dec. Lei 394-B/84 de 26-dez, renumerado e na versão republicada
+    do Código pelo Dec. Lei 102/2008 de 20-jun retificado pela presente Declaração de Retificação, pelo(a) Lei n.º 7-A/2016
+    - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-a-2016-73958532
+  date: '2016-03-30'
+- type: amended_by
+  target: pt:dre:119622094:por
+  label: Alterados, a partir de 16.02.2019, e nos termos do disposto no art. 45.º, os arts. 29.º (anterior art. 28.º, na redação
+    do Dec Lei 102/2008, de 20-jun, 136-A/2009, de 05-jun, 186/2009, de 12-ago, 292/2009, de 13-out, 134/2010, de 27-dez e
+    197/2012, de 24-ago e das Leis 64-B/2011 de 30-dez, 51/2013, de 24-jul, Lei 83-C/2013 de 31-dez e Lei 82-B/2014, de 31-dez
+    ), 36.º (na redação do Dec Lei 102/2008 de 20-jun e do Dec Lei 197/2012, de 24-ago), 40.º (na redação da Lei 67-A/2007,
+    de 31-dez, do Dec Lei 238/2006, de 20-dez, da Lei 30-C/2000, de 29-dez, do Dec Lei 204/97, de 09-ago, da Lei 10-B/96,
+    de 23-mar, dos Dec Lei 166/94, 09-jun, 139/92, de 17-jul, 233/91, de 26-jun, 195/89, de 12-jun, 122/88, de 20-abr, 202/87,
+    de 16-maio, do Dec Lei 102/2008 de 20-jun e da Lei 51/2013, de 24-jul), 52.º(na redação dos Dec Lei 102/2008 de 20-jun,
+    238/2006, de 20-dez, 256/2003, de 21-out, 472/99, de 08-nov e 197/2012, de 24-ago) e 76.º (na redação do Dec Lei 102/2008,
+    de 20-jun), elo , aditado o art. 35.º-A e revogados os n.ºs 18 e 21 do art. 29.º, os n.ºs. 12, 14 e 15 do art. 36.º, o
+    n.º 4 do art. 40.º, os n.ºs. 4 a 7 do art. 52.º e o n.º 3 do art. 76.º do Código do IVA, aprovado pelo Dec Lei 394-B/84
+    de 26-dez, renumerado e na versão republicada do Código pelo Dec Lei 102/2008 de 20-jun retificado pela Decl-Ret 44-A/2008
+    de 13-ago pelo(a) Decreto-Lei n.º 28/2019 - Diário da República n.º 33/2019, Série I de 2019-02-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/28-2019-119622094
+  date: '2019-02-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/102/2008/06/20/p/dre
   label: null
@@ -93,16 +121,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67-a/2007/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67-a/2007/12/31/p/dre
+- type: cites
+  target: pt:dre:449902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:10:16Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +165,7 @@ deve ler-se:
 
 3 - Por ter havido omissões na tabela constante no n.º 1 do artigo 5.º do [Decreto-Lei n.º 102/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), procede-se à sua republicação integral:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15601/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15601/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15601/0000200004.pdf)
 
 4 - Por ter sido omitido o n.º 3 no artigo 5.º do [Decreto-Lei n.º 102/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), procede-se à sua publicação integral:
 

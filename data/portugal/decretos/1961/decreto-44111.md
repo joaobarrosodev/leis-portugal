@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44111-1961-184483
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-12-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:27:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f8598514c4afecb64bdc2e57f8c386ad3e75ba6cd14e6935a84debd3a7c346d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 59e923fdb1586e4ee168aebab31d60c45711216f5df1fddcc2caad7955ba22ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:27:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:169924:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:27:29Z'
   warnings: []
   errors: []
 ---
@@ -101,17 +105,17 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 ### CAPÍTULO I — Dos institutos do trabalho, previdência e acção social
 
-###### Artigo 1.º Os institutos do trabalho, previdência e acção social são órgãos superiores da administração pública ultramarina, destinados a assegurar o estudo, elaboração e execução das normas de natureza social, designadamente em matéria de organização corporativa, trabalho e previdência.
+Artigo 1.º Os institutos do trabalho, previdência e acção social são órgãos superiores da administração pública ultramarina, destinados a assegurar o estudo, elaboração e execução das normas de natureza social, designadamente em matéria de organização corporativa, trabalho e previdência.
 
 § único. Os institutos ficarão na imediata dependência dos governadores-gerais ou de província.
 
-###### Art. 2.º São desde já criados os Institutos do Trabalho, Previdência e Acção Social de Angola e Moçambique.
+Art. 2.º São desde já criados os Institutos do Trabalho, Previdência e Acção Social de Angola e Moçambique.
 
 § único. Nas restantes províncias ultramarinas e no Estado da Índia, os institutos serão criados por portaria ministerial, sob proposta dos respectivos governadores, podendo constituir departamentos autónomos dos serviços de administração civil. Reger-se-ão pelas disposições deste diploma, com as alterações que as circunstâncias especiais do meio impuserem.
 
-###### Art. 3.º Os institutos promoverão o estudo e reforma da legislação sobre as matérias da sua competência, tendo sempre em vista as circunstâncias especiais do meio.
+Art. 3.º Os institutos promoverão o estudo e reforma da legislação sobre as matérias da sua competência, tendo sempre em vista as circunstâncias especiais do meio.
 
-###### Art. 4.º Os serviços dos institutos compreendem normalmente:
+Art. 4.º Os serviços dos institutos compreendem normalmente:
 
 1.º O departamento do trabalho.
 
@@ -123,9 +127,9 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 5.º As delegações, subdelegações e agências.
 
-###### Art. 5.º Os institutos são dirigidos por um presidente, nomeado pelo Ministro do Ultramar, com prévia audição dos governos interessados, de entre indivíduos habilitados com um curso superior e possuindo formação e experiência adequadas ao exercício do cargo.
+Art. 5.º Os institutos são dirigidos por um presidente, nomeado pelo Ministro do Ultramar, com prévia audição dos governos interessados, de entre indivíduos habilitados com um curso superior e possuindo formação e experiência adequadas ao exercício do cargo.
 
-###### Art. 6.º Ao presidente dos institutos compete, nomeadamente:
+Art. 6.º Ao presidente dos institutos compete, nomeadamente:
 
 1.º Dirigir, orientar e fiscalizar a actividade dos serviços dos institutos, propondo superiormente as medidas que se lhe afigurem convenientes para maior rendimento e eficiência dos mesmos serviços;
 
@@ -137,11 +141,11 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § único. O presidente poderá acumular as funções do seu cargo com a chefia do departamento do trabalho ou da previdência, podendo nesse caso atribuir-se-lhe uma gratificação mensal de 1000$00.
 
-###### Art. 7.º Os departamentos dos institutos serão chefiados por indivíduos habilitados com curso superior e possuindo formação e experiência adequadas, nomeados pelo Ministro do Ultramar.
+Art. 7.º Os departamentos dos institutos serão chefiados por indivíduos habilitados com curso superior e possuindo formação e experiência adequadas, nomeados pelo Ministro do Ultramar.
 
 § único. O chefe de departamento com maior antiguidade no cargo substituirá o presidente nas suas faltas, ausências ou impedimento.
 
-###### Art. 8.º O quadro do pessoal dos institutos será fixado em diploma legislativo, sendo o provimento dos lugares feito, em regra, por nomeação.
+Art. 8.º O quadro do pessoal dos institutos será fixado em diploma legislativo, sendo o provimento dos lugares feito, em regra, por nomeação.
 
 § 1.º O pessoal de direcção e chefia poderá ser contratado, destacado de outros serviços públicos ou nomeado em comissão de serviço.
 
@@ -155,19 +159,19 @@ b) Chefes de departamentos e inspector-chefe: letra E.
 
 § 4.º Nas províncias de governo simples, as categorias do pessoal referido nas alíneas anteriores serão fixadas na portaria que criar os respectivos institutos.
 
-###### Art. 9.º Sem prejuízo do preceituado neste diploma, são aplicáveis ao pessoal dos institutos as disposições do Estatuto do Funcionalismo Ultramarino e legislação complementar.
+Art. 9.º Sem prejuízo do preceituado neste diploma, são aplicáveis ao pessoal dos institutos as disposições do Estatuto do Funcionalismo Ultramarino e legislação complementar.
 
-###### Art. 10.º Os serviços públicos das províncias ultramarinas devem prestar aos institutos as informações e a colaboração necessárias ao bom desempenho das suas atribuições. Em especial, as juntas de povoamento e os serviços de administração civil coadjuvarão os institutos no cumprimento dessas atribuições.
+Art. 10.º Os serviços públicos das províncias ultramarinas devem prestar aos institutos as informações e a colaboração necessárias ao bom desempenho das suas atribuições. Em especial, as juntas de povoamento e os serviços de administração civil coadjuvarão os institutos no cumprimento dessas atribuições.
 
-###### Art. 11.º Os organismos patronais e de coordenação económica, profissionais e de cooperação social, especialmente os sindicatos, grémios, Casas do Povo e dos Pescadores, cooperativas e mútuas, ficam subordinados à orientação e fiscalização dos institutos em todos os actos relacionados com o trabalho, cooperação e mutualidade, enquadramento e formação profissional, cultural, física e moral dos respectivos associados ou beneficiários.
+Art. 11.º Os organismos patronais e de coordenação económica, profissionais e de cooperação social, especialmente os sindicatos, grémios, Casas do Povo e dos Pescadores, cooperativas e mútuas, ficam subordinados à orientação e fiscalização dos institutos em todos os actos relacionados com o trabalho, cooperação e mutualidade, enquadramento e formação profissional, cultural, física e moral dos respectivos associados ou beneficiários.
 
-###### Art. 12.º Junto dos institutos poderão ser criados órgãos consultivos e arbitrais em que estejam representados os organismos patronais e de trabalhadores.
+Art. 12.º Junto dos institutos poderão ser criados órgãos consultivos e arbitrais em que estejam representados os organismos patronais e de trabalhadores.
 
 ### CAPÍTULO II — Do departamento do trabalho
 
-###### Art. 13.º O departamento do trabalho compreende duas secções e os serviços de acção social.
+Art. 13.º O departamento do trabalho compreende duas secções e os serviços de acção social.
 
-###### Art. 14.º O chefe do departamento superintende em todos os serviços do departamento, despacha os assuntos que não sejam da competência exclusiva do presidente e submete a despacho deste, com seu parecer, os assuntos que careçam de resolução superior.
+Art. 14.º O chefe do departamento superintende em todos os serviços do departamento, despacha os assuntos que não sejam da competência exclusiva do presidente e submete a despacho deste, com seu parecer, os assuntos que careçam de resolução superior.
 
 § único. Em especial, compete ao chefe do departamento do trabalho:
 
@@ -181,11 +185,11 @@ d) Assegurar as relações entre o instituto e as Universidades e outras entidad
 
 e) Dirigir o serviço de redacção e publicação do boletim do instituto.
 
-###### Art. 15.º O chefe do departamento é substituído nos seus impedimentos pelo funcionário que for designado pelo presidente.
+Art. 15.º O chefe do departamento é substituído nos seus impedimentos pelo funcionário que for designado pelo presidente.
 
 #### SECÇÃO I — Das secções
 
-###### Art. 16.º À 1.ª secção compete estudar e submeter à apreciação superior os assuntos relativos às relações do trabalho, higiene e segurança, designadamente:
+Art. 16.º À 1.ª secção compete estudar e submeter à apreciação superior os assuntos relativos às relações do trabalho, higiene e segurança, designadamente:
 
 a) Horário de trabalho e respectivas isenções;
 
@@ -223,7 +227,7 @@ q) Trabalho de mulheres e de menores;
 
 r) Organização científica do trabalho.
 
-###### Art. 17.º À 2.ª secção incumbe estudar e submeter à apreciação superior os assuntos relativos a artesanato e trabalho domiciliário, formação profissional e emprego, enquadramento corporativo, nomeadamente:
+Art. 17.º À 2.ª secção incumbe estudar e submeter à apreciação superior os assuntos relativos a artesanato e trabalho domiciliário, formação profissional e emprego, enquadramento corporativo, nomeadamente:
 
 a) Protecção e regulamentação do trabalho artesanal;
 
@@ -243,7 +247,7 @@ h) Oferta e procura de mão-de-obra; serviços de colocação; crises de trabalh
 
 i) Trabalho de estrangeiros no País e de nacionais no estrangeiro.
 
-###### Art. 18.º À 2.ª secção compete ainda:
+Art. 18.º À 2.ª secção compete ainda:
 
 1.º Organizar os processos de constituição dos organismos corporativos dependentes dos institutos (grémios, sindicatos, Casas do Povo e dos Pescadores e suas secções, federações e uniões);
 
@@ -257,7 +261,7 @@ i) Trabalho de estrangeiros no País e de nacionais no estrangeiro.
 
 6.º Estudar e submeter à apreciação superior todos os assuntos relativos ao funcionamento, disciplina, vida interna, orçamentos, relatórios e contas de gerência e vida financeira dos organismos corporativos.
 
-###### Art. 19.º Além das atribuições especialmente indicadas nos artigos anteriores, incumbe, de uma maneira geral, às secções:
+Art. 19.º Além das atribuições especialmente indicadas nos artigos anteriores, incumbe, de uma maneira geral, às secções:
 
 1.º Estudar e propor, por iniciativa própria ou em cumprimento de determinação superior, as providências necessárias ao aperfeiçoamento das normas reguladoras das matérias das suas atribuições;
 
@@ -267,7 +271,7 @@ i) Trabalho de estrangeiros no País e de nacionais no estrangeiro.
 
 #### SECÇÃO II — Dos serviços de acção social
 
-###### Art. 20.º Aos serviços de acção social compete realizar e submeter à apreciação superior trabalhos que visem:
+Art. 20.º Aos serviços de acção social compete realizar e submeter à apreciação superior trabalhos que visem:
 
 a) A eficaz e permanente protecção aos trabalhadores, propondo as medidas que reputarem convenientes ao aperfeiçoamento das normas de carácter social em vigor;
 
@@ -277,7 +281,7 @@ c) A difusão dos princípios informadores da legislação social do Estado;
 
 d) O desenvolvimento da organização corporativa de harmonia com o espírito de renovação política, económica e social da Nação.
 
-###### Art. 21.º Para os efeitos do artigo anterior, devem os serviços de acção social:
+Art. 21.º Para os efeitos do artigo anterior, devem os serviços de acção social:
 
 a) Proceder a inquéritos sobre as condições de vida dos trabalhadores e suas famílias;
 
@@ -289,17 +293,17 @@ d) Recolher, ordenar e publicar as disposições legais e regulamentares, portar
 
 e) Realizar os restantes trabalhos e missões de estudo que superiormente lhes forem confiados.
 
-###### Art. 22.º Os serviços de acção social estão a cargo de assistentes.
+Art. 22.º Os serviços de acção social estão a cargo de assistentes.
 
 ### CAPÍTULO III — Do departamento da previdência
 
-###### Art. 23.º O departamento da previdência compreende duas secções e os serviços actuariais.
+Art. 23.º O departamento da previdência compreende duas secções e os serviços actuariais.
 
-###### Art. 24.º É aplicável ao chefe do departamento o disposto no corpo do artigo 14.º e no artigo 15.º
+Art. 24.º É aplicável ao chefe do departamento o disposto no corpo do artigo 14.º e no artigo 15.º
 
 #### SECÇÃO I — Das secções
 
-###### Art. 25.º À 1.ª secção compete o expediente dos assuntos relativos a:
+Art. 25.º À 1.ª secção compete o expediente dos assuntos relativos a:
 
 1.º Organização dos processos de constituição das instituições de previdência dependentes dos institutos (caixas sindicais de previdência, caixas de reforma ou de previdência, associações de socorros mútuos, federações, ligas) e das caixas de abono de família;
 
@@ -319,7 +323,7 @@ e) Realizar os restantes trabalhos e missões de estudo que superiormente lhes f
 
 9.º Questões de ordem geral sobre a aplicação de fundos das instituições.
 
-###### Art. 26.º À 2.ª secção incumbe o expediente dos assuntos relativos à actividade administrativa das instituições de previdência e de abono de família, designadamente no que se refere a:
+Art. 26.º À 2.ª secção incumbe o expediente dos assuntos relativos à actividade administrativa das instituições de previdência e de abono de família, designadamente no que se refere a:
 
 a) Corpos gerentes;
 
@@ -335,27 +339,27 @@ f) Dados estatísticos relativos às instituições;
 
 g) Problemas do funcionamento das instituições que não sejam da competência de outros serviços.
 
-###### Art. 27.º Compete ainda à 2.ª secção o expediente relativo à contabilidade e tesouraria dos fundos provinciais de abono de família e elaboração de consultas e pareceres respeitantes a instituições de previdência e de abono de família, acidentes de trabalho e doenças profissionais.
+Art. 27.º Compete ainda à 2.ª secção o expediente relativo à contabilidade e tesouraria dos fundos provinciais de abono de família e elaboração de consultas e pareceres respeitantes a instituições de previdência e de abono de família, acidentes de trabalho e doenças profissionais.
 
 § único. Por esta secção correrá também o expediente relativo à colaboração que os institutos devem prestar aos organismos ou serviços provinciais a que competir a administração de bairros populares e distribuição de habitações (casas económicas e casas de renda limitada).
 
-###### Art. 28.º É aplicável às secções o disposto no artigo 19.º
+Art. 28.º É aplicável às secções o disposto no artigo 19.º
 
 #### SECÇÃO II — Dos serviços actuariais
 
-###### Art. 29.º Aos serviços actuariais incumbe:
+Art. 29.º Aos serviços actuariais incumbe:
 
 1.º Proceder aos estudos de natureza actuarial que, directa ou indirectamente, interessem à resolução de problemas do seguro social obrigatório e outros análogos, e designadamente relativos a bases técnicas do seguro, estatística actuarial e organização técnica da previdência social.
 
 2.º Examinar e dar parecer sobre os assuntos relativos à orientação e assistência técnica às instituições de previdência dependentes dos institutos, nomeadamente no que se refere a exame actuarial dos estatutos e regulamentos das instituições, transferência de beneficiários e questões similares, aplicação dos fundos das instituições, interpretação de estatutos e regulamentos em matéria actuarial, problemas actuariais das casas económicas e balanços técnicos das instituições e dos fundos das casas económicas.
 
-###### Art. 30.º Os serviços actuariais serão chefiados por um actuário.
+Art. 30.º Os serviços actuariais serão chefiados por um actuário.
 
 § único. Enquanto não forem criados os serviços actuariais, as respectivas atribuições serão confiadas aos serviços de fiscalização técnica da indústria de seguros ou outro órgão da Administração designado pelo governador.
 
 ### CAPÍTULO IV — Da Inspecção do Trabalho e Previdência
 
-###### Art. 31.º Sem prejuízo das atribuições que lhe sejam cometidas por outros diplomas, à inspecção do trabalho e previdência incumbe, de um modo geral:
+Art. 31.º Sem prejuízo das atribuições que lhe sejam cometidas por outros diplomas, à inspecção do trabalho e previdência incumbe, de um modo geral:
 
 a) No domínio do trabalho:
 
@@ -375,19 +379,19 @@ b) No domínio da previdência:
 
 2.º Propor as medidas que reputar convenientes ao bom funcionamento dessas instituições.
 
-###### Art. 32.º A inspecção está a cargo de um inspector-chefe, coadjuvado por inspectores e agentes ou fiscais.
+Art. 32.º A inspecção está a cargo de um inspector-chefe, coadjuvado por inspectores e agentes ou fiscais.
 
-###### Art. 33.º Os delegados, subdelegados e adjuntos dos subdelegados dos institutos exercem, nas áreas da sua jurisdição, funções de inspecção. No exercício destas funções actuarão de conformidade com as instruções que receberem do inspector-chefe.
+Art. 33.º Os delegados, subdelegados e adjuntos dos subdelegados dos institutos exercem, nas áreas da sua jurisdição, funções de inspecção. No exercício destas funções actuarão de conformidade com as instruções que receberem do inspector-chefe.
 
 ### CAPÍTULO V — Da secretaria
 
-###### Art. 34.º À secretaria compete todo o serviço de registo e distribuição de correspondência e mais documentos que derem entrada no instituto, o serviço de expediente e arquivo que não for privativo de outros serviços, incluindo o de recrutamento, situação, cadastro e movimento do pessoal, os serviços de tesouraria e contabilidade pública do instituto, os serviços de organização e movimentação do depósito de material de expediente.
+Art. 34.º À secretaria compete todo o serviço de registo e distribuição de correspondência e mais documentos que derem entrada no instituto, o serviço de expediente e arquivo que não for privativo de outros serviços, incluindo o de recrutamento, situação, cadastro e movimento do pessoal, os serviços de tesouraria e contabilidade pública do instituto, os serviços de organização e movimentação do depósito de material de expediente.
 
-###### Art. 35.º Na secretaria haverá funcionários especialmente encarregados do serviço de cada um dos departamentos e da inspecção.
+Art. 35.º Na secretaria haverá funcionários especialmente encarregados do serviço de cada um dos departamentos e da inspecção.
 
 § único. Da secretaria depende a biblioteca dos institutos, constituída pelo conjunto de obras e publicações que venha a adquirir ou lhe sejam doadas.
 
-###### Art. 36.º Para o desempenho das atribuições confiadas à secretaria, compete ao respectivo chefe:
+Art. 36.º Para o desempenho das atribuições confiadas à secretaria, compete ao respectivo chefe:
 
 1.º Dirigir e organizar os serviços pela forma mais conveniente à obtenção do máximo rendimento e eficiência;
 
@@ -401,11 +405,11 @@ b) No domínio da previdência:
 
 6.º Executar os restantes serviços que por lei, regulamento ou ordem superior lhe sejam cometidos.
 
-###### Art. 37.º O presidente dos institutos pode confiar a um dos chefes de departamento a superintendência nos serviços de secretaria.
+Art. 37.º O presidente dos institutos pode confiar a um dos chefes de departamento a superintendência nos serviços de secretaria.
 
 ### CAPÍTULO VI — Das delegações, subdelegações e agências
 
-###### Art. 38.º Os institutos terão delegações em cada um dos distritos das províncias de Angola e Moçambique, salvo na sede, e subdelegações nos concelhos e circunscrições. Nos postos administrativos o respectivo chefe será adjunto do subdelegado.
+Art. 38.º Os institutos terão delegações em cada um dos distritos das províncias de Angola e Moçambique, salvo na sede, e subdelegações nos concelhos e circunscrições. Nos postos administrativos o respectivo chefe será adjunto do subdelegado.
 
 § 1.º Podem os governadores-gerais alterar, em portaria, a área das delegações e subdelegações, agrupando, para comodidade dos povos e melhor rendimento dos serviços, dois ou mais distritos, concelhos ou circunscrições.
 
@@ -415,9 +419,9 @@ b) No domínio da previdência:
 
 § 4.º Enquanto as delegações não puderem ser organizadas, o desempenho dessas funções ficará a cargo do chefe de repartição distrital dos serviços de administração civil.
 
-###### Art. 39.º Nas restantes províncias, a organização das delegações e subdelegações dependerá do condicionalismo local, sendo essas funções, em regra, desempenhadas pelos administradores de concelho ou de circunscrição.
+Art. 39.º Nas restantes províncias, a organização das delegações e subdelegações dependerá do condicionalismo local, sendo essas funções, em regra, desempenhadas pelos administradores de concelho ou de circunscrição.
 
-###### Art. 40.º Os delegados dos institutos estão directamente subordinados ao presidente e compete-lhes, de uma maneira genérica, dentro da área das respectivas delegações:
+Art. 40.º Os delegados dos institutos estão directamente subordinados ao presidente e compete-lhes, de uma maneira genérica, dentro da área das respectivas delegações:
 
 1.º Assegurar eficaz e permanente protecção aos trabalhadores, inquirindo das suas condições de vida e de trabalho e propondo as medidas que reputarem convenientes ao aperfeiçoamento das normas de carácter social em vigor;
 
@@ -441,7 +445,7 @@ b) No domínio da previdência:
 
 11.º Desempenhar as restantes funções que por lei, regulamento ou determinação superior lhes sejam confiadas.
 
-###### Art. 41.º Aos subdelegados compete, dentro da área da respectiva subdelegação:
+Art. 41.º Aos subdelegados compete, dentro da área da respectiva subdelegação:
 
 1.º Desempenhar os serviços que lhes sejam atribuídos pelos delegados;
 
@@ -449,37 +453,37 @@ b) No domínio da previdência:
 
 3.º Exercer as restantes funções que lhes sejam confiadas por lei, regulamento ou ordem superior.
 
-###### Art. 42.º Aos adjuntos dos subdelegados incumbe, dentro da sua área:
+Art. 42.º Aos adjuntos dos subdelegados incumbe, dentro da sua área:
 
 1.º Desempenhar os serviços que lhes sejam distribuídos pelos subdelegados;
 
 2.º Exercer as restantes funções que lhes sejam confiadas por lei, regulamento ou ordem superior.
 
-###### Art. 43.º Quando uma delegação seja constituída por dois ou mais concelhos ou circunscrições, será nela colocado, em regra, um subdelegado privativo, que, nas suas faltas, ausência ou impedimento, é substituído pelo administrador designado pelo governador-geral, em simples despacho.
+Art. 43.º Quando uma delegação seja constituída por dois ou mais concelhos ou circunscrições, será nela colocado, em regra, um subdelegado privativo, que, nas suas faltas, ausência ou impedimento, é substituído pelo administrador designado pelo governador-geral, em simples despacho.
 
-###### Art. 44.º Os institutos podem ter no estrangeiro delegações e subdelegações ou agências, criadas por portaria ministerial.
+Art. 44.º Os institutos podem ter no estrangeiro delegações e subdelegações ou agências, criadas por portaria ministerial.
 
 § 1.º As curadorias dos indígenas portugueses na União da África do Sul e na Rodésia do Sul passam a funcionar como delegações do Instituto do Trabalho, Previdência e Acção Social de Moçambique, dentro dos limites da competência conferida pelas convenções internacionais aplicáveis.
 
 § 2.º O Governo de Moçambique elaborará e submeterá à aprovação do Ministro do Ultramar, dentro de noventa dias, o regulamento destas delegações.
 
-###### Art. 45.º As delegações no estrangeiro, além de prosseguirem os fins gerais dos institutos, cuidam em especial dos problemas de emigração e imigração e da protecção e assistência ao trabalhador português emigrante, nos termos das convenções, tratados e acordos internacionais celebrados por Portugal.
+Art. 45.º As delegações no estrangeiro, além de prosseguirem os fins gerais dos institutos, cuidam em especial dos problemas de emigração e imigração e da protecção e assistência ao trabalhador português emigrante, nos termos das convenções, tratados e acordos internacionais celebrados por Portugal.
 
 ### CAPÍTULO VII — Das disposições transitórias
 
-###### Art. 46.º São extintas nas províncias de Angola e Moçambique as direcções provinciais dos negócios indígenas, as curadorias dos indígenas portugueses na União da África do Sul e na Rodésia do Sul, bem como a Inspecção de Emigração em Ressano Garcia.
+Art. 46.º São extintas nas províncias de Angola e Moçambique as direcções provinciais dos negócios indígenas, as curadorias dos indígenas portugueses na União da África do Sul e na Rodésia do Sul, bem como a Inspecção de Emigração em Ressano Garcia.
 
 § único. Considerar-se-á automàticamente extinta a Repartição do Trabalho e Previdência da província de S. Tomé e Príncipe, logo que ali seja criado o Instituto do Trabalho, Previdência e Acção Social.
 
-###### Art. 47.º As atribuições exercidas pelos serviços extintos passam para os respectivos institutos e bem assim as cometidas aos serviços de administração civil ou a outros, na parte que àqueles fica competindo.
+Art. 47.º As atribuições exercidas pelos serviços extintos passam para os respectivos institutos e bem assim as cometidas aos serviços de administração civil ou a outros, na parte que àqueles fica competindo.
 
-###### Art. 48.º A Inspecção do Trabalho, criada pelo [Decreto n.º 43637](https://diariodarepublica.pt/dr/detalhe/decreto/43637-1961-169924), de 2 de Maio de 1961, é integrada nos serviços da Inspecção do Trabalho e Previdência dos Institutos de Angola e Moçambique. Nas restantes províncias, integrar-se-á em idênticos serviços quando forem criados os seus institutos.
+Art. 48.º A Inspecção do Trabalho, criada pelo [Decreto n.º 43637](https://diariodarepublica.pt/dr/detalhe/decreto/43637-1961-169924), de 2 de Maio de 1961, é integrada nos serviços da Inspecção do Trabalho e Previdência dos Institutos de Angola e Moçambique. Nas restantes províncias, integrar-se-á em idênticos serviços quando forem criados os seus institutos.
 
-###### Art. 49.º Os funcionários dos serviços extintos transitam para os institutos ou para outros serviços onde haja vaga, por simples despacho e sem quaisquer outras formalidades, nas categorias equivalentes às dos seus cargos, podendo receber os vencimentos pelas verbas dos lugares que desempenhavam até dotação orçamental dos que vão ocupar.
+Art. 49.º Os funcionários dos serviços extintos transitam para os institutos ou para outros serviços onde haja vaga, por simples despacho e sem quaisquer outras formalidades, nas categorias equivalentes às dos seus cargos, podendo receber os vencimentos pelas verbas dos lugares que desempenhavam até dotação orçamental dos que vão ocupar.
 
-###### Art. 50.º Ficam os governadores-gerais de Angola e Moçambique autorizados a abrir os créditos necessários para fazer face aos encargos resultantes da execução deste diploma, com contrapartida em recursos orçamentais.
+Art. 50.º Ficam os governadores-gerais de Angola e Moçambique autorizados a abrir os créditos necessários para fazer face aos encargos resultantes da execução deste diploma, com contrapartida em recursos orçamentais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Dezembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

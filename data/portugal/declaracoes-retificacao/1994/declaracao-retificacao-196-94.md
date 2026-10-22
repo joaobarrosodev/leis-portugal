@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 252/1994, 2º Suplemento, Série I-B de 1994-10-31
   number: '252'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 6554-(8) a 6554-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/10/252b02/00080009.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/196/1994/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/196-1994-533190
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-10-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:41:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6ab5f73e5c2e4f0506703b8b6f3556bfb4ffc38f55618f625f9b7267459e7a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e26b615421955ec5e81390931768bda882564aba568c2fead737f29d5f1a5d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:41:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,33 +67,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Controlo de Qualidade
 - Fruto
+- Limite Máximo de Resíduos
+- Produto Alimentar
+- Produto Fitofarmacêutico
 - Produto Hortícola
 - Proteção do Consumidor
-- Produto Fitofarmacêutico
-- Limite Máximo de Resíduos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/707/1994/08/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/707/1994/08/03/p/dre
+- type: cites
+  target: pt:dre:230953:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:41:22Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 196/94
+# Declaração de rectificação n.º 196/94
 
 Segundo comunicação do Ministério da Agricultura, a [Portaria n.º 707/94](https://diariodarepublica.pt/dr/detalhe/portaria/707-1994-230953), publicada no Diário da República, 1.ª série, n.º 178, de 3 de Agosto de 1994, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 
@@ -101,42 +105,42 @@ No 3.º parágrafo do preâmbulo, onde se lê «alguns produtos farmacêuticos a
 
 No anexo, onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/252b02/00080009.pdf))](https://files.diariodarepublica.pt/1s/1994/10/252b02/00080009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/252b02/00080009.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/252b02/00080009.pdf))](https://files.diariodarepublica.pt/1s/1994/10/252b02/00080009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/252b02/00080009.pdf)
 
 onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/252b02/00080009.pdf))](https://files.diariodarepublica.pt/1s/1994/10/252b02/00080009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/252b02/00080009.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/252b02/00080009.pdf))](https://files.diariodarepublica.pt/1s/1994/10/252b02/00080009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/252b02/00080009.pdf)
 
 onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/252b02/00080009.pdf))](https://files.diariodarepublica.pt/1s/1994/10/252b02/00080009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/252b02/00080009.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/252b02/00080009.pdf))](https://files.diariodarepublica.pt/1s/1994/10/252b02/00080009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/252b02/00080009.pdf)
 
 onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/252b02/00080009.pdf))](https://files.diariodarepublica.pt/1s/1994/10/252b02/00080009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/252b02/00080009.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/252b02/00080009.pdf))](https://files.diariodarepublica.pt/1s/1994/10/252b02/00080009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/252b02/00080009.pdf)
 
 onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/252b02/00080009.pdf))](https://files.diariodarepublica.pt/1s/1994/10/252b02/00080009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/252b02/00080009.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/252b02/00080009.pdf))](https://files.diariodarepublica.pt/1s/1994/10/252b02/00080009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/252b02/00080009.pdf)
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 28 de Outubro de 1994. - O Secretário-Geral, França Martins.

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/59/2007/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/59-2007-635845
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-06-26T00:00:00Z'
+  retrieved_at: '2026-10-22T19:08:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 869deede2f3230b343b9d1d49fd26891b354b3c55190e0e4a533dbcc9d2b504c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1c0cedada9102e0648d6a32adaf6c573d9f7f0cabb3ab385fba19f1fe9d1c35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:08:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,47 +71,56 @@ subjects:
 - Actualização de Pensões
 - Acumulação de Pensões
 - Acumulação de Pensões e Remunerações
-- Tempo de Serviço
 - Aposentação Bonificada
 - Beneficiário
 - Cálculo de Pensões
 - Centro Nacional de Pensões
 - Complemento Social de Pensão
 - Contra-ordenação
-- Serviço Militar
+- Desemprego
+- Doença Profissional
+- Incapacidade Física
+- Incapacidade Permanente
 - Invalidez
-- Reforma Antecipada
 - Pensão de Invalidez
 - Pensão de Velhice
-- Doença Profissional
 - Pessoa a Cargo
-- Proteção na Velhice
 - Prazo de Garantia
 - Prestações da Segurança Social
 - Prestações Pecuniárias
-- Desemprego
-- Incapacidade Física
+- Proteção na Velhice
 - Reembolso
+- Reforma Antecipada
 - Regime Jurídico
 - Remuneração
 - Responsabilidade Civil
 - Segurança Social
-- Incapacidade Permanente
+- Serviço Militar
+- Tempo de Serviço
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/187/2007/05/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/187/2007/05/10/p/dre
+- type: cites
+  target: pt:dre:520669:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:187/2007
+  label: "Rectifica o Decreto-Lei n.º 187/2007, de 10 de Maio, DR.IS [90]\0\0"
+  source: null
+  date: '2007-05-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:08:41Z'
   warnings: []
   errors: []
 ---

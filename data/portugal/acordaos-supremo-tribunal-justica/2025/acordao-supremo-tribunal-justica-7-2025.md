@@ -30,7 +30,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/05/09100/0001000046.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -52,18 +52,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/7/2025/05/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/7-2025-917817253
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-13T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25d56ba4d4ee4e56f2facd2dd627ad0da446d438aa9cda7d391b62bd65922a87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63b2a7d2546f79ab19862613be840829c3dfd7bb468faf838dcb930fde1b43c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -116,16 +116,104 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/757/1993/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/757/1993/08/26/p/dre
+- type: cites
+  target: pt:dre:177869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220172306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669999:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:28Z'
   warnings: []
   errors: []
 ---
@@ -138,7 +226,7 @@ Relatora: Paula Leal de Carvalho
 
 Acordam no Pleno das Secções Cíveis e da Secção Social do Supremo Tribunal de Justiça
 
-I. Relatório <sup>1</sup>
+I. Relatório 1
 
 1 - AA instaurou contra Seguradoras Unidas, S. A., e Rede Nacional de Assistência, S. A. (R.N.A, S. A.) ação declarativa de condenação, sob a forma de processo comum, pedindo a sua condenação solidária no pagamento da quantia global de €39.935,83, acrescida de juros de mora calculados à taxa legal, contados desde a citação até integral pagamento.
 
@@ -238,7 +326,7 @@ II. Questão prévia
 
 Da admissibilidade do recurso de uniformização de jurisprudência
 
-1 - Resulta, da análise conjugada dos n.<sup>os</sup>3 e 4 do art. 692.º do CPC, que o Pleno pode entender em sentido diverso do acórdão da conferência, que decide pela verificação dos pressupostos materiais e formais da admissão do recurso extraordinário de uniformização de jurisprudência.
+1 - Resulta, da análise conjugada dos n.os3 e 4 do art. 692.º do CPC, que o Pleno pode entender em sentido diverso do acórdão da conferência, que decide pela verificação dos pressupostos materiais e formais da admissão do recurso extraordinário de uniformização de jurisprudência.
 
 2 - O requerimento de interposição de recurso mostra-se tempestivo (art. 689.º, n.º 1, do CPC) - tendo sido apresentado no primeiro dia útil subsequente ao termo do prazo de 30 dias, simultaneamente com o pagamento da multa a que alude o art. 139.º, n.º 5, alínea a) do CPC - e foi apresentado por quem dispõe de legitimidade para o efeito (art. 631.º do CPC) e se encontra regularmente patrocinado.
 
@@ -260,7 +348,7 @@ b) que os dois acórdãos tenham sido proferidos no domínio da mesma legislaç�
 
 c) que os dois acórdãos tenham sido proferidos sobre a mesma questão fundamental de direito.
 
-Como tem sido uniformemente observado pelo STJ, a questão fundamental de direito subjacente à alegada contradição deve assumir caráter fundamental para a solução do caso, devendo integrar a verdadeira ratio decidendi dos acórdãos em confronto. Irrelevam, por conseguinte, as hipóteses em que a divergência invocada se traduza em mero obiter dictum ou em simples argumentos laterais, coadjuvantes ou suplementares de uma solução já alcançada por outra via jurídica, à qual os mesmos surjam anódinos, irrelevantes, indiferentes. Também a jurisprudência do STJ afirma, “de forma pacífica e reiterada, que a contradição relevante, neste âmbito, pressupõe ainda a identidade do núcleo essencial das concernentes situações fácticas.” (Acórdão do STJ de 20-11-2019, recurso para uniformização de jurisprudência n.º 433/11.7TVPRT.P1.S2-A) <sup>2</sup>.
+Como tem sido uniformemente observado pelo STJ, a questão fundamental de direito subjacente à alegada contradição deve assumir caráter fundamental para a solução do caso, devendo integrar a verdadeira ratio decidendi dos acórdãos em confronto. Irrelevam, por conseguinte, as hipóteses em que a divergência invocada se traduza em mero obiter dictum ou em simples argumentos laterais, coadjuvantes ou suplementares de uma solução já alcançada por outra via jurídica, à qual os mesmos surjam anódinos, irrelevantes, indiferentes. Também a jurisprudência do STJ afirma, “de forma pacífica e reiterada, que a contradição relevante, neste âmbito, pressupõe ainda a identidade do núcleo essencial das concernentes situações fácticas.” (Acórdão do STJ de 20-11-2019, recurso para uniformização de jurisprudência n.º 433/11.7TVPRT.P1.S2-A) 2.
 
 Neste conspecto, caso se considere, na linha do despacho de admissão, que está em causa a mesma questão fundamental de direito, tratada como questão essencial em ambos os acórdãos, e que se verifica uma situação de oposição, não meramente implícita ou lateral, mas antes decisiva para o resultado dos litígios inerentes aos dois acórdãos em confronto, deverão os autos prosseguir para efeitos de emissão de um juízo uniformizador.
 
@@ -272,7 +360,7 @@ Na situação objeto de apreciação pelo acórdão recorrido, discutiu-se, numa
 
 O acórdão recorrido considerou, não sem antes deixar expressa a dissensão jurisprudencial constatada sobre a matéria, que o lesado deveria receber “um montante pré-determinado que corresponde ao capital contratado ponderado pelo grau de incapacidade fixado” e não “o rendimento perdido ou um capital para compensação do acréscimo dos esforços em resultado da incapacidade, com a limitação máxima do capital contratado.”
 
-Analisando a norma prevista na alínea d) do art. 16.º do [Decreto-Lei n.º 10/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2009-397323), de 12 de janeiro - nos termos da qual “O contrato de seguro a que se refere o n.º 2 do artigo 5.º garante os seguintes montantes mínimos de capital: [...]; d) Invalidez permanente parcial - (euro) 25 000, ponderado pelo grau de incapacidade fixado” - o acórdão recorrido deixou expresso que “a cobertura por invalidez permanente, ao abrigo do seguro desportivo obrigatório, encontra-se configurada como prestação de capital pré-determinada em função exclusiva da natureza dessa lesão, devendo, ainda, a invalidez permanente parcial ser ponderada pelo grau de incapacidade que for fixado”, configurando um seguro de pessoas enquadrável nos arts. 175.º, n.º 2, da LCS<sup>3</sup>, constando do respetivo sumário, que traduz o entendimento perfilhado no acórdão, que: “1. De acordo com o regime jurídico do seguro desportivo obrigatório a indemnização por invalidez permanente parcial é calculada em função do grau de incapacidade, independentemente do valor do dano efectivo (art. 16.º, alínea d) do [DL n.º 10/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2009-397323) de 12.1.); 2. A essa indemnização, assim calculada, não acresce qualquer valor a título de indemnização por danos não patrimoniais” [sublinhados nossos, correspondendo ao objeto da contradição].
+Analisando a norma prevista na alínea d) do art. 16.º do [Decreto-Lei n.º 10/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2009-397323), de 12 de janeiro - nos termos da qual “O contrato de seguro a que se refere o n.º 2 do artigo 5.º garante os seguintes montantes mínimos de capital: [...]; d) Invalidez permanente parcial - (euro) 25 000, ponderado pelo grau de incapacidade fixado” - o acórdão recorrido deixou expresso que “a cobertura por invalidez permanente, ao abrigo do seguro desportivo obrigatório, encontra-se configurada como prestação de capital pré-determinada em função exclusiva da natureza dessa lesão, devendo, ainda, a invalidez permanente parcial ser ponderada pelo grau de incapacidade que for fixado”, configurando um seguro de pessoas enquadrável nos arts. 175.º, n.º 2, da LCS3, constando do respetivo sumário, que traduz o entendimento perfilhado no acórdão, que: “1. De acordo com o regime jurídico do seguro desportivo obrigatório a indemnização por invalidez permanente parcial é calculada em função do grau de incapacidade, independentemente do valor do dano efectivo (art. 16.º, alínea d) do [DL n.º 10/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2009-397323) de 12.1.); 2. A essa indemnização, assim calculada, não acresce qualquer valor a título de indemnização por danos não patrimoniais” [sublinhados nossos, correspondendo ao objeto da contradição].
 
 Por seu turno, no caso objeto de apreciação pelo acórdão fundamento, também estava em causa a celebração de um contrato de seguro desportivo de grupo - cujo âmbito de cobertura englobava os danos sofridos pelas pessoas seguras em consequência de acidentes ocorridos em resultado da prática equestre com um capital máximo de €28.000,00 -, em que a autora (a 10.01.2020 sofreu uma queda de cavalo, da qual resultaram lesões determinantes de Défice Funcional Permanente de Incapacidade Físico-Psíquica fixado em 25 pontos) surge como beneficiária, na qualidade de praticante desportiva, suscitando-se igualmente a aplicação do regime normativo contido no [Decreto-Lei n.º 10/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2009-397323), de 12 de janeiro.
 
@@ -488,19 +576,19 @@ Delimita a questão a decidir, no âmbito do presente recurso de uniformização
 
 Entende que o tratamento das questões controvertidas nos termos levados a cabo pelo acórdão fundamento se impõe, “sob pena de violação dos direitos constitucionalmente protegidos dos praticantes de desporto, nomeadamente o direito à saúde e o direito à integridade física, plasmados no artigo 70.º, n.º 1, do Código Civil, em conjugação com o artigo 25.º, da Constituição da República Portuguesa.”
 
-Remata, pugnando pela revogação do acórdão recorrido e pela sua substituição por outro que atribua ao recorrente a quantia de € 8.120,00, a título de danos patrimoniais<sup>4</sup> e de uma quantia compreendida entre €8.000,00 e €6.000,00, a título de danos não patrimoniais, montantes aos quais faz acrescer os respetivos juros de mora.
+Remata, pugnando pela revogação do acórdão recorrido e pela sua substituição por outro que atribua ao recorrente a quantia de € 8.120,00, a título de danos patrimoniais4 e de uma quantia compreendida entre €8.000,00 e €6.000,00, a título de danos não patrimoniais, montantes aos quais faz acrescer os respetivos juros de mora.
 
 O Exmº Sr. Procurador Geral Adjunto, junto deste Supremo Tribunal de Justiça, emitiu douto parecer no sentido da seguinte uniformização de jurisprudência:
 
 “Em caso de acidente desportivo e face ao disposto no artigo 16.º, alínea d) da Lei de Seguro Desportivo - [Decreto-Lei n.º 10/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2009-397323), de 12/01, a indemnização estabelecida para a invalidez permanente parcial deve ser calculada em função de todos os danos patrimoniais e não patrimoniais sofridos até ao limite do capital garantido.”
 
-2 - Visa-se, com o presente recurso, obter uma resposta uniformizadora acerca do âmbito da prestação a cargo da seguradora, ao abrigo do contrato de seguro desportivo obrigatório, devida por invalidez permanente parcial do lesado praticante de atividade desportiva, nos termos do preceituado pelo art. 16.º, al. d), do Regime Jurídico do Seguro Desportivo Obrigatório, estabelecido pelo [Decreto-Lei n.º 10/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2009-397323), de 12 de janeiro (doravante RJSDO), o aplicável ao caso <sup>5</sup>. Concretamente, saber se, em caso de invalidez permanente parcial, a que se reporta o citado art. 16.º, al. d), o capital devido deve ser calculado apenas em função do grau de incapacidade fixado, multiplicando-o pelo capital mínimo obrigatório previsto em tal diploma para as situações de invalidez permanente absoluta, independentemente do dano efetivo (patrimonial e não patrimonial), ou, ao invés, se deverá ser tido em conta o dano efetivo, com o limite máximo previsto no mencionado preceito para as situações de invalidez permanente absoluta.
+2 - Visa-se, com o presente recurso, obter uma resposta uniformizadora acerca do âmbito da prestação a cargo da seguradora, ao abrigo do contrato de seguro desportivo obrigatório, devida por invalidez permanente parcial do lesado praticante de atividade desportiva, nos termos do preceituado pelo art. 16.º, al. d), do Regime Jurídico do Seguro Desportivo Obrigatório, estabelecido pelo [Decreto-Lei n.º 10/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2009-397323), de 12 de janeiro (doravante RJSDO), o aplicável ao caso 5. Concretamente, saber se, em caso de invalidez permanente parcial, a que se reporta o citado art. 16.º, al. d), o capital devido deve ser calculado apenas em função do grau de incapacidade fixado, multiplicando-o pelo capital mínimo obrigatório previsto em tal diploma para as situações de invalidez permanente absoluta, independentemente do dano efetivo (patrimonial e não patrimonial), ou, ao invés, se deverá ser tido em conta o dano efetivo, com o limite máximo previsto no mencionado preceito para as situações de invalidez permanente absoluta.
 
 2.1 - Em tal diploma (que sucedeu ao [Decreto-Lei n.º 146/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1993-665347), de 26.04 e [Portaria n.º 757/93](https://diariodarepublica.pt/dr/detalhe/portaria/757-1993-632445), de 26.08) estabelece-se o regime jurídico do seguro desportivo obrigatório (art. 1.º), de celebração obrigatória, sendo por ele abrangidos os agentes desportivos (como tal se considerando, nomeadamente, os praticantes desportivos federados, árbitros, juízes e cronometristas, treinadores de desporto e dirigentes desportivos), os praticantes de atividades em infra-estruturas desportivas abertas ao público e os participantes em provas ou manifestações desportivas. A responsabilidade pela celebração do contrato de seguro compete às federações desportivas, às entidades que explorem infra-estruturas desportivas abertas ao público e às entidades que organizem provas ou manifestações desportivas (arts. 2.º e 7.º), nele se prevendo também o seguro do praticante no regime de alto rendimento (arts. 11.º e 17.º). O incumprimento da celebração de tal seguro determina a responsabilidade das entidades que o deveriam celebrar nos mesmos termos em que responderia o segurador, caso o seguro tivesse sido efetuado (art. 20.º) e a prática de contraordenação muito grave (art. 21.º).
 
-Trata-se, ainda, de um seguro de grupo (arts. 8.º a 10.º, 11.º, n.º 2, e 20.º do RJSDO) e contributivo (arts. 9.º, n.<sup>os</sup>2 e 3 do RJSDO, e 77.º, n.º 2, do RJCS), cujo prémio deve ser pago pelo tomador (art. 8.º, n.º 2, do RJCS). Como sublinha Francisco Rodrigues Rocha, “tratando-se de seguro de grupo contributivo são, em princípio, aplicáveis, consoante o conteúdo, do contrato concretamente celebrado e no que não for contrariado pelo regime especial do RJSDO, as regras constantes dos artigos 86.º a 90.º do RJCS. Ao seguro a cuja contratação estão obrigadas as entidades acima referidas, devem “aderir” os agentes desportivos. Em benefício destes é o seguro desportivo contratado.” <sup>6</sup>
+Trata-se, ainda, de um seguro de grupo (arts. 8.º a 10.º, 11.º, n.º 2, e 20.º do RJSDO) e contributivo (arts. 9.º, n.os2 e 3 do RJSDO, e 77.º, n.º 2, do RJCS), cujo prémio deve ser pago pelo tomador (art. 8.º, n.º 2, do RJCS). Como sublinha Francisco Rodrigues Rocha, “tratando-se de seguro de grupo contributivo são, em princípio, aplicáveis, consoante o conteúdo, do contrato concretamente celebrado e no que não for contrariado pelo regime especial do RJSDO, as regras constantes dos artigos 86.º a 90.º do RJCS. Ao seguro a cuja contratação estão obrigadas as entidades acima referidas, devem “aderir” os agentes desportivos. Em benefício destes é o seguro desportivo contratado.” 6
 
-Quanto à cobertura conferida pelo mencionado seguro, relevam os arts. 5.º e 16.º, concretamente a alínea d) deste último, do mencionado diploma, a que está em escrutínio no presente acórdão <sup>7</sup>, preceitos esses que dispõem:
+Quanto à cobertura conferida pelo mencionado seguro, relevam os arts. 5.º e 16.º, concretamente a alínea d) deste último, do mencionado diploma, a que está em escrutínio no presente acórdão 7, preceitos esses que dispõem:
 
 - No art. 5.º, sob a epígrafe Coberturas mínimas, que: “1 - O seguro desportivo cobre os riscos de acidentes pessoais inerentes à respectiva actividade desportiva, nomeadamente os que decorrem dos treinos, das provas desportivas e respectivas deslocações, dentro e fora do território português. 2 - As coberturas mínimas abrangidas pelo seguro desportivo são as seguintes: a) Pagamento de um capital por morte ou invalidez permanente, total ou parcial, por acidente decorrente da actividade desportiva; b) Pagamento de despesas de tratamento, incluindo internamento hospitalar, e de repatriamento. 3 - O seguro desportivo dos praticantes abrangidos pelo regime de alto rendimento tem coberturas e valores mínimos diferenciados, nos termos do disposto no artigo 11.º”
 
@@ -544,7 +632,7 @@ Procede-se também à revisão das coberturas mínimas quer para o seguro despor
 
 [...]”
 
-2.2 - O acórdão do STJ de 07-11-2019<sup>8</sup> deu conta da evolução legislativa que a institucionalização de tal seguro conheceu no nosso ordenamento jurídico nos seguintes moldes:
+2.2 - O acórdão do STJ de 07-11-20198 deu conta da evolução legislativa que a institucionalização de tal seguro conheceu no nosso ordenamento jurídico nos seguintes moldes:
 
 “[...], alguns anos depois de o [Decreto-Lei n.º 205/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1983-451430), de 21-05, ter autorizado o então Ministro da Qualidade de Vida a celebrar com o Instituto de Seguros de Portugal, ou com uma companhia de seguros por este indicada, um contrato instituindo o seguro do desportista amador sem carácter de obrigatoriedade, sobreveio o [Decreto-Lei n.º 162/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1987-666156), de 08/04, a revogar aquele diploma e a tornar obrigatório, nos termos do seu artigo 1.º, o seguro desportivo para todas as pessoas que, como amadores, se inscrevessem nas federações ou associações desportivas para efeitos de participação desportiva, salvo nos casos de modalidades que o não justificassem. E, segundo o respetivo artigo 2.º, o seguro do desportista amador deveria ser concretizado mediante contrato a celebrar entre o Instituto Nacional do Fomento do Desporto e o Instituto de Seguros de Portugal ou entidade seguradora por este indicada.
 
@@ -592,7 +680,7 @@ Neste conspecto, foi aprovado o [Decreto-Lei n.º 10/2009](https://diariodarepub
 
 estão intimamente relacionadas, pelo que serão tratadas em conjunto, sem prejuízo porém do que adicionalmente se dirá, no ponto V.7 do presente acórdão quanto ao dano não patrimonial.
 
-A respeito da interpretação do citado art. 16.º, al. d), que prevê o montante mínimo de capital devido a título de invalidez permanente parcial [“d) Invalidez permanente parcial - (euro) 25 000, ponderado pelo grau de incapacidade fixado” <sup>9</sup>], têm-se firmado duas correntes no seio da jurisprudência do STJ, com refrações ao nível da jurisprudência dos Tribunais da Relação.
+A respeito da interpretação do citado art. 16.º, al. d), que prevê o montante mínimo de capital devido a título de invalidez permanente parcial [“d) Invalidez permanente parcial - (euro) 25 000, ponderado pelo grau de incapacidade fixado” 9], têm-se firmado duas correntes no seio da jurisprudência do STJ, com refrações ao nível da jurisprudência dos Tribunais da Relação.
 
 Segundo uma das correntes, defendida pelo acórdão recorrido, a atribuição patrimonial devida ao segurado em caso de invalidez permanente parcial, ao abrigo do contrato de seguro desportivo, deve ser apurada mediante cálculo aritmético em função do grau de incapacidade fixado, tendo por referência o montante mínimo de capital previsto no art. 16.º, ou superior, se contratualmente previsto, com exclusão, pois, do dano efetivo.
 
@@ -600,7 +688,7 @@ Outra corrente, da qual é representativa o acórdão fundamento, defende que o 
 
 2.3.1 - Os argumentos alinhados pela primeira corrente, no sentido do acórdão recorrido, poderão, de forma tópica, elencar-se do seguinte modo:
 
-i) a natureza do contrato de seguro desportivo obrigatório por acidentes pessoais que, tal como é configurado em sede de coberturas mínimas no artigo 16.º do RJSDO, prevê, para a invalidez permanente, total ou parcial, uma prestação de capital pré-determinada, sem qualquer consideração pelo valor do dano efetivo, constituindo um contrato de seguro de pessoas, visando a cobertura de riscos relativos à vida, à saúde e à integridade física do beneficiário, enquadrável nos art. 175.º, n.<sup>os</sup>1 e 2, e 210.º do [Decreto-Lei n.º 72/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2009-603205), de 16.04<sup>10</sup> e, assim, podendo garantir prestações de valor predeterminado não dependente do efetivo montante do dano;
+i) a natureza do contrato de seguro desportivo obrigatório por acidentes pessoais que, tal como é configurado em sede de coberturas mínimas no artigo 16.º do RJSDO, prevê, para a invalidez permanente, total ou parcial, uma prestação de capital pré-determinada, sem qualquer consideração pelo valor do dano efetivo, constituindo um contrato de seguro de pessoas, visando a cobertura de riscos relativos à vida, à saúde e à integridade física do beneficiário, enquadrável nos art. 175.º, n.os1 e 2, e 210.º do [Decreto-Lei n.º 72/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2009-603205), de 16.0410 e, assim, podendo garantir prestações de valor predeterminado não dependente do efetivo montante do dano;
 
 ii) o artigo 5.º, n.º 2, al. a), do RJSDO, tal como o artigo 4.º, n.º 1, al. a), do antecedente [Decreto-Lei n.º 146/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1993-665347), de 26-04, estabelece a cobertura mínima abrangida pelo seguro desportivo para o pagamento de um capital por morte ou invalidez permanente, total ou parcial, por acidente decorrente da atividade desportiva, o que não equivale, juridicamente, ao pagamento de indemnização propriamente dita em função do dano efetivo ainda que limitada àquele capital;
 
@@ -612,7 +700,7 @@ v) quanto aos danos não patrimoniais, a solução contrária levaria à incongr
 
 FRANCISCO RODRIGUES ROCHA sistematizou os argumentos que têm sido avançados pela jurisprudência para suportar tal entendimento do seguinte modo:
 
-“(i) o artigo 5.º do RJSDO não contemplaria danos não patrimoniais; (ii) as prestações de seguro em causa - designadamente aquelas em que, à falta doutras nos artigos 5.º/1 e 16.º do RJSDO, os danos não patrimoniais caberiam, i. e. as coberturas por invalidez - , seriam predeterminadas independentemente do montante do dano, de maneira que o seu cômputo não seria para o efeito tido em conta; (iii) se trataria de um seguro de pessoas, não de responsabilidade civil, de modo que não seriam de convocar as regras do cálculo de danos destes últimos, podendo até nem sequer estar associada ao sinistro uma situação de responsabilidade civil; (iv) não especificando a lei, ficaria às partes a liberdade de modulação do conteúdo da relação contratual como é regra, nos termos do artigo 405.º do CC; (v) em face do princípio do artigo 405.º/1 do CC, o intérprete apenas deveria concluir pela existência de prescrição legal limitativa quando fosse clara e manifesta. Por isso também, a não previsão numa apólice da indemnização de danos não patrimoniais nos seguros desportivos não contenderia com norma imperativa; (vi) não haveria ambiguidade quando as apólices, ao definirem invalidez permanente, não aludissem a danos não patrimoniais e quando, ao estabelecerem o método de cálculo das prestações a pagar, avançassem um critério puramente aritmético. A opinião contrária levaria à incongruente solução de que o contrato apenas cobrisse a reparação de danos não patrimoniais de menor gravidade em que a invalidez permanente fosse de valor percentual mais baixo, pois o valor do capital disponível diminuiria à medida que subisse o grau de desvalorização; (viii) o RJSDO contém regras próprias para cálculo da prestação do segurador, de modo que não poderiam aplicar-se outras, como a de indemnização devida por incapacidade permanente resultante de acidente de viação.” <sup>11</sup>
+“(i) o artigo 5.º do RJSDO não contemplaria danos não patrimoniais; (ii) as prestações de seguro em causa - designadamente aquelas em que, à falta doutras nos artigos 5.º/1 e 16.º do RJSDO, os danos não patrimoniais caberiam, i. e. as coberturas por invalidez - , seriam predeterminadas independentemente do montante do dano, de maneira que o seu cômputo não seria para o efeito tido em conta; (iii) se trataria de um seguro de pessoas, não de responsabilidade civil, de modo que não seriam de convocar as regras do cálculo de danos destes últimos, podendo até nem sequer estar associada ao sinistro uma situação de responsabilidade civil; (iv) não especificando a lei, ficaria às partes a liberdade de modulação do conteúdo da relação contratual como é regra, nos termos do artigo 405.º do CC; (v) em face do princípio do artigo 405.º/1 do CC, o intérprete apenas deveria concluir pela existência de prescrição legal limitativa quando fosse clara e manifesta. Por isso também, a não previsão numa apólice da indemnização de danos não patrimoniais nos seguros desportivos não contenderia com norma imperativa; (vi) não haveria ambiguidade quando as apólices, ao definirem invalidez permanente, não aludissem a danos não patrimoniais e quando, ao estabelecerem o método de cálculo das prestações a pagar, avançassem um critério puramente aritmético. A opinião contrária levaria à incongruente solução de que o contrato apenas cobrisse a reparação de danos não patrimoniais de menor gravidade em que a invalidez permanente fosse de valor percentual mais baixo, pois o valor do capital disponível diminuiria à medida que subisse o grau de desvalorização; (viii) o RJSDO contém regras próprias para cálculo da prestação do segurador, de modo que não poderiam aplicar-se outras, como a de indemnização devida por incapacidade permanente resultante de acidente de viação.” 11
 
 2.3.2 - Por sua vez, os defensores da segunda tese, plasmada no acórdão fundamento, ancoram o seu entendimento:
 
@@ -620,13 +708,13 @@ i) na ratio dos seguros obrigatórios, cuja criação se liga a um imperativo de
 
 ii) na necessidade de interpretar a norma prevista no art. 16.º, al. d), do RJSDO de modo conforme à Constituição, uma vez que estão em causa direitos fundamentais constitucionalmente protegidos dos praticantes de desporto, designadamente, o direito à saúde, bem como o direito à integridade física e psíquica (artigo 70.º, n.º 1, do Código Civil, em conjugação com o art. 25.º, n.º 1, da CRP).
 
-E, recorrendo ainda a FRANCISCO RODRIGUES ROCHA, o mesmo sistematizou a argumentação, também transcrita no acórdão fundamento, que tem sido avançada pela jurisprudência no sentido do mencionado entendimento, do seguinte modo: “(i) o propósito do RJSDO, manifestado no seu preâmbulo e articulado, foi o de proteger os desportistas quanto a todo o tipo de danos, de modo a que o artigo 5.º/2/a) do RJSDO contemplaria também danos morais emergentes do sinistro; (ii) o preâmbulo do RJSDO refere-se expressamente ao “ressarcimento”, de modo que as prestações a cargo do segurador teriam, neste seguro, a natureza de indemnização; (iii) o legislador no artigo 5.º/2 e 16.º do RJSDO, tendo podido fazê-lo - como fez com respeito à cobertura pelo FGA no artigo 49.º do RSORCA ou nos artigos 23.º e ss. e 47.º e ss. da LAT - , não distinguiu entre danos patrimoniais e não patrimoniais, de modo que não deveria também o intérprete fazê-lo; (iv) da incapacidade não resultam apenas danos patrimoniais; (v) os danos não patrimoniais são indemnizáveis nos termos gerais da responsabilidade civil (artigo 496.º/1 do CC); (vi) o seguro em causa é de pessoas, referente aos riscos relativos à integridade física e da sua lesão, designadamente em caso de incapacidade, decorrem danos patrimoniais como também não patrimoniais, cobertos por este seguro; (vii) quando a lei fala de “capital”, “inclui todos os tipos de danos ou, dito doutro modo, não exclui os danos não patrimoniais”; (viii) o artigo 16.º/ d) do RJSDO, ao estabelecer €25.000 como soma segura, fixa apenas o limite da prestação do segurador, não impondo o cálculo em percentagem da incapacidade, o qual, em consonância com o propósito da instituição deste seguro obrigatório, deveria ser feito nos termos gerais, em função da extensão dos danos, sejam ou não patrimoniais, e não da incapacidade de que decorre o dano. Caso contrário seria incompreensível a fixação do mesmo capital de €25.000 pela invalidez permanente absoluta; (ix) a expressão “cobertura de danos corporais pelas pessoas seguras” contida nas apólices de seguro desportivo, sem exclusão expressa dos morais, abrangê-los-á, como consequência natural dos primeiros; além do mais, nada prevendo a apólice sobre o tipo de danos a ressarcir, valerá a regra in dubio contra stipulatorem; (x) uma cláusula que impeça o ressarcimento de danos não patrimoniais será nula por força do artigo 6.º do RJSDO; (xi) a forma de cálculo da indemnização por dano corporal estaria subtraída à autonomia privada, por força do art, 6.º/1/d) do [DL n.º 352/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-2007-629107); (xii) as cláusulas por que se estipule serem as indemnizações por lesões corporais calculadas sem ser tida em conta a atividade profissional da pessoa segura seriam nulas por força dos arts. 6.º do RJSDO e 294.º do CC.” <sup>12</sup>
+E, recorrendo ainda a FRANCISCO RODRIGUES ROCHA, o mesmo sistematizou a argumentação, também transcrita no acórdão fundamento, que tem sido avançada pela jurisprudência no sentido do mencionado entendimento, do seguinte modo: “(i) o propósito do RJSDO, manifestado no seu preâmbulo e articulado, foi o de proteger os desportistas quanto a todo o tipo de danos, de modo a que o artigo 5.º/2/a) do RJSDO contemplaria também danos morais emergentes do sinistro; (ii) o preâmbulo do RJSDO refere-se expressamente ao “ressarcimento”, de modo que as prestações a cargo do segurador teriam, neste seguro, a natureza de indemnização; (iii) o legislador no artigo 5.º/2 e 16.º do RJSDO, tendo podido fazê-lo - como fez com respeito à cobertura pelo FGA no artigo 49.º do RSORCA ou nos artigos 23.º e ss. e 47.º e ss. da LAT - , não distinguiu entre danos patrimoniais e não patrimoniais, de modo que não deveria também o intérprete fazê-lo; (iv) da incapacidade não resultam apenas danos patrimoniais; (v) os danos não patrimoniais são indemnizáveis nos termos gerais da responsabilidade civil (artigo 496.º/1 do CC); (vi) o seguro em causa é de pessoas, referente aos riscos relativos à integridade física e da sua lesão, designadamente em caso de incapacidade, decorrem danos patrimoniais como também não patrimoniais, cobertos por este seguro; (vii) quando a lei fala de “capital”, “inclui todos os tipos de danos ou, dito doutro modo, não exclui os danos não patrimoniais”; (viii) o artigo 16.º/ d) do RJSDO, ao estabelecer €25.000 como soma segura, fixa apenas o limite da prestação do segurador, não impondo o cálculo em percentagem da incapacidade, o qual, em consonância com o propósito da instituição deste seguro obrigatório, deveria ser feito nos termos gerais, em função da extensão dos danos, sejam ou não patrimoniais, e não da incapacidade de que decorre o dano. Caso contrário seria incompreensível a fixação do mesmo capital de €25.000 pela invalidez permanente absoluta; (ix) a expressão “cobertura de danos corporais pelas pessoas seguras” contida nas apólices de seguro desportivo, sem exclusão expressa dos morais, abrangê-los-á, como consequência natural dos primeiros; além do mais, nada prevendo a apólice sobre o tipo de danos a ressarcir, valerá a regra in dubio contra stipulatorem; (x) uma cláusula que impeça o ressarcimento de danos não patrimoniais será nula por força do artigo 6.º do RJSDO; (xi) a forma de cálculo da indemnização por dano corporal estaria subtraída à autonomia privada, por força do art, 6.º/1/d) do [DL n.º 352/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-2007-629107); (xii) as cláusulas por que se estipule serem as indemnizações por lesões corporais calculadas sem ser tida em conta a atividade profissional da pessoa segura seriam nulas por força dos arts. 6.º do RJSDO e 294.º do CC.” 12
 
 3 - No que toca à jurisprudência:
 
 3.1 - No sentido do acórdão recorrido - de que o capital devido ao segurado por situação de invalidez permanente parcial é determinado em função apenas do grau de incapacidade fixado (multiplicando-o pelo montante de capital legalmente previsto, ou superior, se contratualmente estipulado), sem consideração do dano efetivo - pronunciaram-se os seguintes Acórdãos do Supremo Tribunal de Justiça:
 
-- Acórdão de 08-09-2016, Revista n.º 1311/11.5TJVNF.G1.S1 <sup>13</sup>:
+- Acórdão de 08-09-2016, Revista n.º 1311/11.5TJVNF.G1.S1 13:
 
 “[...]
 
@@ -648,7 +736,7 @@ X - Respeitando a franquia constante do contrato de seguro referido em VI aos si
 
 É de referir que, neste caso, o regime jurídico aplicável foi o contido no [Decreto-Lei n.º 146/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1993-665347), de 26 de abril, mas a argumentação poderá ser transposta para o regime atualmente vigente.
 
-- Acórdão de 06-04-2017, Revista n.º 335/10.4TTOAZ.P1.S1 <sup>14</sup>:
+- Acórdão de 06-04-2017, Revista n.º 335/10.4TTOAZ.P1.S1 14:
 
 “I - Se para fundar a responsabilidade das seguradoras demandadas o autor invocou na petição inicial um contrato de seguro em regime de co-seguro que vincula todas elas, não fazendo a mínima alusão a um outro contrato de seguro, com âmbito de cobertura diferente, que houvesse sido celebrado apenas com uma delas, e não tendo alterado validamente a causa de pedir no decurso da acção, não pode em sede de recurso invocar como fundamento dos seus pedidos a apólice deste último contrato.
 
@@ -658,7 +746,7 @@ Neste caso, estava previsto, nas condições particulares do contrato, para alé
 
 Foi neste contexto factual que o STJ, no mencionado acórdão, sem expressamente se pronunciar sobre a questão decidenda no âmbito do presente RUJ, deixou escrito: “Argumenta ainda que no artigo 37.º da sua petição inicial refere a fórmula de cálculo da indemnização devida por incapacidade permanente resultante dum acidente e que é proposta pela Relação de Coimbra no seu acórdão de 04 de Abril de 1995, publicado na Colectânea de Jurisprudência, ano XX, tomo II, pág. 23. Mas esta argumentação também improcede, pois trata-se de doutrina aplicável em sede de acidente de viação, onde a questão da reparação da incapacidade permanente se coloca em termos muito diferentes. Na verdade, estando-se perante um acidente ocorrido no âmbito da prática desportiva como atleta amador, cuja reparação está definida no [DL n.º 146/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1993-665347), de 26 de Abril, regulamentado pela [Portaria n.º 757/93](https://diariodarepublica.pt/dr/detalhe/portaria/757-1993-632445) de 26 de Agosto, quanto à fixação dos capitais mínimos obrigatórios para o seguro desportivo, nas suas várias modalidades, não pode deixar de se aplicar as regras constantes do contrato de seguro titulado pela apólice de n.º ... que foi celebrado, ao abrigo destes diplomas legais, entre a Associação de Futebol de CC e as seguradoras DD, II, S. A., actual GG, EE-…, e a FF, e que prevê regras próprias para se proceder ao cálculo da indemnização que corresponde a uma incapacidade permanente resultante de um tal acidente. Por isso a mencionada doutrina não pode ser transposta para o presente caso, pelo que improcede esta questão.”
 
-- Acórdão de 07-11-2019, Revista n.º 654/16.6T8ABT.E1.S1 <sup>15</sup>:
+- Acórdão de 07-11-2019, Revista n.º 654/16.6T8ABT.E1.S1 15:
 
 “I - O contrato de seguro desportivo obrigatório regulado no [DL n.º 10/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2009-397323), de 12-01, pelo menos nas vertentes de cobertura do risco por morte e por invalidez permanente, absoluta ou parcial, assume a natureza de um contrato de seguro de acidentes pessoais inerentes a atividade desportiva.
 
@@ -672,15 +760,15 @@ V - Não se afigura, por isso, que as exclusões previstas no art. 6.º desse di
 
 [...]”
 
-Na jurisprudência dos Tribunais da Relação, nesse mesmo sentido, pronunciaram-se diversos arestos<sup>16</sup>, a saber: RP de 07-04-2016, Processo n.º 335/10.4TTOAZ.P1; RP de 12-10-2020, Processo n.º 6075/15.0T8VNG.P1; RG de 08-07-2020, Processo n.º 489/17.9T8AVV.G1; RP de 24-10-2023, Processo n.º 106/14.9TBARC.P1.
+Na jurisprudência dos Tribunais da Relação, nesse mesmo sentido, pronunciaram-se diversos arestos16, a saber: RP de 07-04-2016, Processo n.º 335/10.4TTOAZ.P1; RP de 12-10-2020, Processo n.º 6075/15.0T8VNG.P1; RG de 08-07-2020, Processo n.º 489/17.9T8AVV.G1; RP de 24-10-2023, Processo n.º 106/14.9TBARC.P1.
 
 Ainda, especificamente no sentido de que os danos não patrimoniais não deverão ser considerados na determinação do capital devido ao segurado, pronunciou-se o Supremo Tribunal de Justiça nos Acórdãos acima mencionados.
 
-E na jurisprudência dos Tribunais da Relação, para além dos arestos também já acima citados, pronunciaram-se ainda os seguintes Acórdãos<sup>17</sup>: RL de 12-05-2016, Processo n.º 660/13.2TVLSB.L1-2; RE de 11-04-2019, Processo n.º 654/16.6T8ABT.E1; RL de 25-03-2021, Processo n.º 2490/15.8T8CSC.L1-2.
+E na jurisprudência dos Tribunais da Relação, para além dos arestos também já acima citados, pronunciaram-se ainda os seguintes Acórdãos17: RL de 12-05-2016, Processo n.º 660/13.2TVLSB.L1-2; RE de 11-04-2019, Processo n.º 654/16.6T8ABT.E1; RL de 25-03-2021, Processo n.º 2490/15.8T8CSC.L1-2.
 
 3.2 - Por sua vez, no sentido do acórdão fundamento - de que o capital devido ao segurado em caso de invalidez permanente parcial é determinado em função do valor do dano efetivo sofrido pelo lesado, apresentando como limite o capital mínimo legalmente estipulado (ou o capital convencionado, se superior) - pronunciou-se o Supremo Tribunal de Justiça:
 
-- No Acórdão de 09-05-2019, Revista n.º 1751/14.8TBVCD.P1.S1 <sup>18</sup>:
+- No Acórdão de 09-05-2019, Revista n.º 1751/14.8TBVCD.P1.S1 18:
 
 “I - A alínea d) do art. 16.º do [DL n.º 10/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2009-397323), de 12-12, ao estabelecer como montante mínimo de capital para o caso de invalidez permanente parcial “25000 euros, ponderado pelo grau de incapacidade fixado”, deve interpretar-se no sentido de que determina, tão-só, o montante máximo de capital devido pela seguradora.
 
@@ -688,13 +776,13 @@ II - A compensação devida ao segurado deverá atender aos danos não patrimoni
 
 III - As cláusulas constantes das condições gerais ou das condições particulares de uma apólice de seguro desportivo obrigatório por que se estipule que as indemnizações por lesões corporais serão calculadas sem ser tomada em linha de conta a actividade profissional da pessoa segura são nulas por aplicação conjugada do art. 6.º do [DL n.º 10/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2009-397323), de 12-01, e do art. 294.º do CC.”
 
-Na jurisprudência dos Tribunais da Relação, nesse mesmo sentido, pronunciou-se o Acórdão da RG de 03-10-2019, Processo n.º 225/17.0T8CBC.G1 <sup>19</sup>;
+Na jurisprudência dos Tribunais da Relação, nesse mesmo sentido, pronunciou-se o Acórdão da RG de 03-10-2019, Processo n.º 225/17.0T8CBC.G1 19;
 
 E, no sentido da atendibilidade dos danos não patrimoniais (com o mencionado limite máximo), pronunciaram-se os seguintes Acórdãos do STJ:
 
 - de 09-05-2019, Revista n.º 1751/14.8TBVCD.P1.S1, já acima mencionado e transcrito o respetivo sumário;
 
-- de 04-10-2018, Revista n.º 4575/15.1T8BRG.G1.S1 <sup>20</sup>:
+- de 04-10-2018, Revista n.º 4575/15.1T8BRG.G1.S1 20:
 
 “I - O acidente sofrido pelo autor quando jogava futebol nas instalações da 1.ª ré está coberto pelo contrato de seguro celebrado com a 2.ª ré, cujo objecto abrange a actividade desportiva explorada pela tomadora do seguro nas infra-estruturas públicas - art. 5.º do [DL n.º 1/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2009-396959), de 12-01.
 
@@ -702,15 +790,15 @@ II - O valor de € 12 500 mostra-se adequado a compensar os seguintes danos nã
 
 III - O valor de € 12 713,33 mostra-se adequado a indemnizar os seguintes danos patrimoniais: (i) o autor ficou com défice funcional de 3 pontos; (ii) as sequelas são impeditivas do exercício da sua actividade profissional habitual ou de outra na área de preparação técnico-profissional; (iii) exigem esforços acrescidos em tarefas não laborais; (iv) atenta a sua idade, o autor tem período previsível de vida de cerca de 36 anos; (v) suportou os valores de € 106,18 em medicação, € 60, em consulta de ortopedia, € 8,36 em relatórios clínicos e de alta, € 160,18 em consulta de ortopedia e medicação e € 150 em relatório de avaliação da incapacidade.”
 
-- de 20-06-2017, Revista n.º 343/10.5TBVLN.G2.S1 <sup>21</sup>:
+- de 20-06-2017, Revista n.º 343/10.5TBVLN.G2.S1 21:
 
 “I - Os danos sofridos pelo autor encontram-se incluídos no âmbito de cobertura do contrato de seguro celebrado entre a seguradora e o 2.º réu.
 
 II - A posição da recorrente da exclusão do seguro dos danos sofridos pelo autor não é correcta, não só porque contraria os termos da cobertura do seguro imposta pelo [DL n.º 10/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2009-397323), de 12-01, mas, também, porque dos próprios termos do contrato celebrado pelas partes, a sua responsabilidade não poderá ser excluída, estando, antes, claramente aí incluída.”
 
-- de 29-09-2011, Revista n.º 165/06.8TBGVA.C1.S1 <sup>22</sup> que, num caso de acidente desportivo (basquetebol) ocorrido no âmbito do RJSDO então constante do [Decreto-Lei n.º 146/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1993-665347) e de que resultou uma incapacidade permanente geral de 2 %, considerou ser adequado “o montante indemnizatório de € 5000, a título de danos não patrimoniais.”
+- de 29-09-2011, Revista n.º 165/06.8TBGVA.C1.S1 22 que, num caso de acidente desportivo (basquetebol) ocorrido no âmbito do RJSDO então constante do [Decreto-Lei n.º 146/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1993-665347) e de que resultou uma incapacidade permanente geral de 2 %, considerou ser adequado “o montante indemnizatório de € 5000, a título de danos não patrimoniais.”
 
-Na jurisprudência dos Tribunais da Relação, pronunciaram-se, nesse mesmo sentido, os seguintes Acórdãos <sup>23</sup>: RC de 08-09-2009, Processo n.º 165/06.8TBGVA.C1 (este no âmbito do antecedente [Decreto-Lei n.º 146/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1993-665347)); RL de 09-07-2014, Processo n.º 1118/2002.L1-2 (este no âmbito do antecedente [Decreto-Lei n.º 146/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1993-665347)); RG de 08-10-2015, Processo n.º 1449/11.9TJVNF.G1 (este no âmbito do antecedente [Decreto-Lei n.º 146/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1993-665347)); RE de 22-10-2015, Processo n.º 42/11.0TBFZZ.E1 (este no âmbito do antecedente [Decreto-Lei n.º 146/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1993-665347)); RG de 01-02-2018, Processo n.º 4575/15.1T8BRG.G1; RG de 03-10-2019, Processo n.º 225/17.0T8CBC.G1; RG de 28-11-2019, Processo n.º 2541/17.1T8BCL.G1; RG de 14-05-2020, Processo n.º 641/11.0TBCMN.G1; RE de 30-01-2020, Processo n~8818/17.9T8STB.E1.
+Na jurisprudência dos Tribunais da Relação, pronunciaram-se, nesse mesmo sentido, os seguintes Acórdãos 23: RC de 08-09-2009, Processo n.º 165/06.8TBGVA.C1 (este no âmbito do antecedente [Decreto-Lei n.º 146/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1993-665347)); RL de 09-07-2014, Processo n.º 1118/2002.L1-2 (este no âmbito do antecedente [Decreto-Lei n.º 146/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1993-665347)); RG de 08-10-2015, Processo n.º 1449/11.9TJVNF.G1 (este no âmbito do antecedente [Decreto-Lei n.º 146/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1993-665347)); RE de 22-10-2015, Processo n.º 42/11.0TBFZZ.E1 (este no âmbito do antecedente [Decreto-Lei n.º 146/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1993-665347)); RG de 01-02-2018, Processo n.º 4575/15.1T8BRG.G1; RG de 03-10-2019, Processo n.º 225/17.0T8CBC.G1; RG de 28-11-2019, Processo n.º 2541/17.1T8BCL.G1; RG de 14-05-2020, Processo n.º 641/11.0TBCMN.G1; RE de 30-01-2020, Processo n~8818/17.9T8STB.E1.
 
 4 - Feita a mencionada resenha cumpre apreciar e tomar posição.
 
@@ -718,7 +806,7 @@ Será a prestação garantida pelo art. 16.º, al. d), do [Decreto-Lei n.º 10/2
 
 4.1 - A fixação do sentido e alcance da norma em análise depende necessariamente do resultado da atividade interpretativa desenvolvida a seu respeito.
 
-Para tanto, há que lançar mãos dos fatores hermenêuticos previstos no art. 9.º do CC<sup>24</sup>, apelando aos elementos gramatical, teleológico (consistente no fim visado pelo legislador ao elaborar a norma), sistemático (que compreende a consideração das outras disposições que formam o complexo normativo em que se integra a norma interpretanda) e histórico (que abrange elementos relativos à história do preceito, desde logo a história evolutiva do regime em causa) <sup>25</sup>. De acordo com o comando previsto no art. 9.º do CC, há que partir da letra da lei - do seu enunciado linguístico - para perscrutar o pensamento (espírito) que lhe está subjacente, funcionando o elemento gramatical simultaneamente como limite, uma vez que não pode ser considerado como compreendido entre os sentidos possíveis da lei o pensamento legislativo “que não tenha na letra da lei um mínimo de correspondência verbal, ainda que imperfeitamente expresso” (n.º 2 do art. 9.º do CC) <sup>26</sup>.
+Para tanto, há que lançar mãos dos fatores hermenêuticos previstos no art. 9.º do CC24, apelando aos elementos gramatical, teleológico (consistente no fim visado pelo legislador ao elaborar a norma), sistemático (que compreende a consideração das outras disposições que formam o complexo normativo em que se integra a norma interpretanda) e histórico (que abrange elementos relativos à história do preceito, desde logo a história evolutiva do regime em causa) 25. De acordo com o comando previsto no art. 9.º do CC, há que partir da letra da lei - do seu enunciado linguístico - para perscrutar o pensamento (espírito) que lhe está subjacente, funcionando o elemento gramatical simultaneamente como limite, uma vez que não pode ser considerado como compreendido entre os sentidos possíveis da lei o pensamento legislativo “que não tenha na letra da lei um mínimo de correspondência verbal, ainda que imperfeitamente expresso” (n.º 2 do art. 9.º do CC) 26.
 
 4.2 - No caso, o elemento gramatical da lei, aponta, a nosso ver, e de modo muito incisivo, no sentido da interpretação acolhida no acórdão recorrido, ajustando-se, quanto a nós de forma clara, ao entendimento de que a atribuição patrimonial da seguradora deverá ser calculada tendo por referência um coeficiente numérico - que materializa a ponderação do grau de incapacidade fixado - multiplicado pelo valor do capital garantido pela apólice a que se reporta o art. 16.º (€25.000,00, atualizável nos termos do art. 18.º, ou superior, se convencionalmente acordado).
 
@@ -726,45 +814,45 @@ Com efeito:
 
 Está em causa o sentido a atribuir ao segmento “ponderado pelo grau de incapacidade fixado” a que se reporta a alínea d) do citado art. 16.º
 
-Podemos dizer que, entre outros sentidos que não relevam ao caso, grau é “uma unidade de medida” <sup>27</sup>, ou “cada uma das partes em que se divide uma escala” <sup>28</sup>, ou, em medicina, “a gravidade relativa da lesão” <sup>29</sup>.
+Podemos dizer que, entre outros sentidos que não relevam ao caso, grau é “uma unidade de medida” 27, ou “cada uma das partes em que se divide uma escala” 28, ou, em medicina, “a gravidade relativa da lesão” 29.
 
 O grau de incapacidade, em sentido corrente ou no que a ele, habitualmente, se associa, designadamente pelo cidadão normal, medianamente instruído e sagaz, é a medida da falta de capacidade, medida essa representada por uma expressão numérica.
 
-E é também o que resulta da utilização, pelo art. 16.º do RJCSD, do conceito de “invalidez”, o qual nos remete para o conceito previsto no [Decreto-Lei n.º 187/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), de 10.05 <sup>30</sup>, diploma que define e regulamenta o regime jurídico de proteção nas eventualidades de invalidez e velhice do regime geral de segurança social, em que tal terminologia é utilizada, nele se ponderando os graus de incapacidade em função de um determinado coeficiente numérico, conforme infra melhor se explicitará.
+E é também o que resulta da utilização, pelo art. 16.º do RJCSD, do conceito de “invalidez”, o qual nos remete para o conceito previsto no [Decreto-Lei n.º 187/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), de 10.05 30, diploma que define e regulamenta o regime jurídico de proteção nas eventualidades de invalidez e velhice do regime geral de segurança social, em que tal terminologia é utilizada, nele se ponderando os graus de incapacidade em função de um determinado coeficiente numérico, conforme infra melhor se explicitará.
 
 Por fim, se tivesse sido outro o entendimento do legislador, certamente que outra seria a redação da norma, designadamente dizendo-se que na invalidez permanente parcial a atribuição do capital seria feita em função da ponderação do dano efetivo, sendo certo que dano efetivo e incapacidade são realidades distintas, sendo aquele mais amplo do que esta.
 
 Em suma, afigura-se-nos que o elemento literal - “grau de incapacidade fixado” previsto no art. 16.º, al. d) - não pode deixar de estar associado aos mencionados conceitos de invalidez /incapacidade e a uma representação numérica (grau), numa escala de 0 a 100 (sendo que 100 corresponde à invalidez absoluta), determinando tal preceito que a ponderação seja feita tendo em conta esse coeficiente/grau de incapacidade e, não, outros fatores relativos ao dano efetivo, traduzindo uma ponderação proporcional e objetiva, em função desse concreto grau de incapacidade aplicado ao montante máximo de capital garantido em caso de invalidez absoluta (que é igual ao da morte).
 
-No sentido da interpretação que preconizamos pronuncia-se FRANCISCO RODRIGUES ROCHA <sup>31</sup> ao dizer que “[a] lei é também clara no sentido de que o cálculo do pagamento do capital de €25.000, no caso de invalidez permanente parcial, é feito não em função do efectivo dano, mas do “grau de incapacidade fixado” (artigo 6.º d) do RJSDO), ou seja, por valor predeterminado não dependente do efectivo montante do dano (artigo 175.º/2 do RJCS). À mesma conclusão chegamos em caso de morte ou invalidez permanente absoluta: os capitais são, em ambos os casos, de €25.000 e em nenhum deles se manda ter em conta o montante efectivo do dano: não é necessário o cálculo em função do grau de incapacidade pelo simples facto de estarmos perante eventos que esgotam o capital seguro”.
+No sentido da interpretação que preconizamos pronuncia-se FRANCISCO RODRIGUES ROCHA 31 ao dizer que “[a] lei é também clara no sentido de que o cálculo do pagamento do capital de €25.000, no caso de invalidez permanente parcial, é feito não em função do efectivo dano, mas do “grau de incapacidade fixado” (artigo 6.º d) do RJSDO), ou seja, por valor predeterminado não dependente do efectivo montante do dano (artigo 175.º/2 do RJCS). À mesma conclusão chegamos em caso de morte ou invalidez permanente absoluta: os capitais são, em ambos os casos, de €25.000 e em nenhum deles se manda ter em conta o montante efectivo do dano: não é necessário o cálculo em função do grau de incapacidade pelo simples facto de estarmos perante eventos que esgotam o capital seguro”.
 
-E, ainda de acordo com elemento literal, acompanhamos também o Acórdão do STJ de 07.11.2019 <sup>32</sup>, já acima mencionado, quando diz que é “[d]e salientar que o artigo 5.º, n.º 2, alínea a), do [Decreto-Lei n.º 10/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2009-397323), de 12-01, tal como o artigo 4.º, n.º 1, alínea a), do antecedente [Decreto-Lei n.º 146/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1993-665347), de 26-04, estabelece a cobertura mínima abrangida pelo seguro desportivo para o pagamento de um capital (sublinhado nosso) por morte ou invalidez permanente, total ou parcial, por acidente decorrente da atividade desportiva, o que se afigura não equivaler, juridicamente, a pagamento de indemnização propriamente dita em função do dano efetivo ainda que limitada àquele capital” <sup>33</sup>.
+E, ainda de acordo com elemento literal, acompanhamos também o Acórdão do STJ de 07.11.2019 32, já acima mencionado, quando diz que é “[d]e salientar que o artigo 5.º, n.º 2, alínea a), do [Decreto-Lei n.º 10/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2009-397323), de 12-01, tal como o artigo 4.º, n.º 1, alínea a), do antecedente [Decreto-Lei n.º 146/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1993-665347), de 26-04, estabelece a cobertura mínima abrangida pelo seguro desportivo para o pagamento de um capital (sublinhado nosso) por morte ou invalidez permanente, total ou parcial, por acidente decorrente da atividade desportiva, o que se afigura não equivaler, juridicamente, a pagamento de indemnização propriamente dita em função do dano efetivo ainda que limitada àquele capital” 33.
 
-4.2 - Quanto à específica teleologia do contrato de seguro em apreço, sublinha Ana Brilha “preocupação universal das sucessivas Leis de Bases do Desporto, a institucionalização de um sistema de seguro obrigatório visa cobrir os riscos a que estão sujeitos os praticantes desportivos e os demais agentes desportivos procurando garantir a existência de meios financeiros para que aqueles possam fazer face às despesas em que tenham de incorrer com tratamentos ou facultando o pagamento de um valor relativo a morte ou invalidez permanente, total ou parcial.” <sup>34</sup>
+4.2 - Quanto à específica teleologia do contrato de seguro em apreço, sublinha Ana Brilha “preocupação universal das sucessivas Leis de Bases do Desporto, a institucionalização de um sistema de seguro obrigatório visa cobrir os riscos a que estão sujeitos os praticantes desportivos e os demais agentes desportivos procurando garantir a existência de meios financeiros para que aqueles possam fazer face às despesas em que tenham de incorrer com tratamentos ou facultando o pagamento de um valor relativo a morte ou invalidez permanente, total ou parcial.” 34
 
 Segundo o que dispõe o art. 5.º, n.º 1, do RJSDO, “o seguro desportivo cobre os riscos de acidentes pessoais inerentes à respectiva actividade desportiva, nomeadamente os que decorrem dos treinos, das provas desportivas e respectivas deslocações, dentro e fora do território português.”
 
-Inserindo-se no âmbito não vida, a doutrina não é unânime relativamente à qualificação do seguro desportivo: enquanto ANA BRILHA o configura como um misto de seguro de pessoas e de bens - uma vez que visa cobrir danos provocados por eventos que afetam a vida, a saúde ou a integridade física dos agentes desportivos, mas igualmente os riscos derivados de qualquer evento que provoque danos no património do segurado (como é o caso da cobertura de despesas de tratamento e internamento do agente desportivo<sup>35</sup>) -, PAULO CARDOSO DE MOURA, perspetiva-o como um seguro pessoal ou sobre pessoas. <sup>36</sup> Como sublinha este autor, “os seguros pessoais, também designados como seguros sobre pessoas, têm como objectivo cobrir os riscos que incidam sobre a integridade física ou corporal das pessoas, sendo fundamentalmente seguros de capitais, o que significa que a indemnização não é calculada em função do dano concreto.” <sup>37</sup>
+Inserindo-se no âmbito não vida, a doutrina não é unânime relativamente à qualificação do seguro desportivo: enquanto ANA BRILHA o configura como um misto de seguro de pessoas e de bens - uma vez que visa cobrir danos provocados por eventos que afetam a vida, a saúde ou a integridade física dos agentes desportivos, mas igualmente os riscos derivados de qualquer evento que provoque danos no património do segurado (como é o caso da cobertura de despesas de tratamento e internamento do agente desportivo35) -, PAULO CARDOSO DE MOURA, perspetiva-o como um seguro pessoal ou sobre pessoas. 36 Como sublinha este autor, “os seguros pessoais, também designados como seguros sobre pessoas, têm como objectivo cobrir os riscos que incidam sobre a integridade física ou corporal das pessoas, sendo fundamentalmente seguros de capitais, o que significa que a indemnização não é calculada em função do dano concreto.” 37
 
-FRANCISCO RODRIGUES ROCHA salienta que se trata “de um seguro próximo do de acidentes de trabalho, de tal modo que o artigo 13.º da versão originária do RJSDO previa em relação àquele a sua natureza complementar. Todavia, com ele não se confunde: um agente desportivo (artigo 7.º do RJSDO) não tem de estar ligado ao tomador do seguro desportivo - v. g. uma federação - por um contrato de trabalho e, consequentemente coberto pelo correspondente seguro de acidentes; o mesmo vale para um praticante desportivo no regime de alto rendimento.” <sup>38</sup> <sup>39</sup>
+FRANCISCO RODRIGUES ROCHA salienta que se trata “de um seguro próximo do de acidentes de trabalho, de tal modo que o artigo 13.º da versão originária do RJSDO previa em relação àquele a sua natureza complementar. Todavia, com ele não se confunde: um agente desportivo (artigo 7.º do RJSDO) não tem de estar ligado ao tomador do seguro desportivo - v. g. uma federação - por um contrato de trabalho e, consequentemente coberto pelo correspondente seguro de acidentes; o mesmo vale para um praticante desportivo no regime de alto rendimento.” 38 39
 
-E, segundo o mesmo autor, que alinha pela tese defendida pelo acórdão recorrido, o seguro desportivo assume uma natureza mista ou híbrida, compreendendo, quanto ao capital devido por morte ou invalidez permanente, absoluta ou parcial, de prestações de valor predeterminado, não dependentes do montante efetivo do dano, características dos seguros de capitais e abrangido pelos arts. 175.º e 210.º da LCS, e prestações indemnizatórias, características dos seguros de danos (no caso de despesas de funeral, de tratamento e repatriamento) <sup>40</sup>.
+E, segundo o mesmo autor, que alinha pela tese defendida pelo acórdão recorrido, o seguro desportivo assume uma natureza mista ou híbrida, compreendendo, quanto ao capital devido por morte ou invalidez permanente, absoluta ou parcial, de prestações de valor predeterminado, não dependentes do montante efetivo do dano, características dos seguros de capitais e abrangido pelos arts. 175.º e 210.º da LCS, e prestações indemnizatórias, características dos seguros de danos (no caso de despesas de funeral, de tratamento e repatriamento) 40.
 
-A nosso ver, o elemento teleológico da norma compagina-se com uma e outra tese. Cremos que a justificação social da lei<sup>41</sup> que criou um seguro desportivo, a que acima já se fez referência - e que diretamente se prende com a garantia de meios financeiros ao lesado, através do mecanismo de socialização do risco - admite a liquidação por parte da seguradora de um capital seguro calculado por qualquer uma das formas.
+A nosso ver, o elemento teleológico da norma compagina-se com uma e outra tese. Cremos que a justificação social da lei41 que criou um seguro desportivo, a que acima já se fez referência - e que diretamente se prende com a garantia de meios financeiros ao lesado, através do mecanismo de socialização do risco - admite a liquidação por parte da seguradora de um capital seguro calculado por qualquer uma das formas.
 
 Com efeito, não acompanhamos o argumento, que se encontra subjacente ao acórdão fundamento, de que o elemento teleológico impõe uma interpretação da norma em causa no sentido de que o apuramento do montante de capital devido ao segurado seja determinado pela extensão do dano. E isto porque a interpretação contrária - de que o cálculo daquele montante tem como parâmetro referencial o montante de capital estabelecido para o caso de invalidez permanente parcial - não deixa o lesado numa situação de ausência de tutela. Esta é conferida em função, e de modo proporcional, ao concreto grau de incapacidade tendo como referência o capital máximo previsto para uma situação de invalidez absoluta, ou seja, de incapacidade absoluta, de 100 % (ou morte), não deixando o beneficiário totalmente desprotegido, correspondendo a medida da proteção, de forma objetiva e proporcional, à medida da sua incapacidade tendo como referência o limite do capital máximo que o legislador entendeu ser o devido para os casos de maior gravidade (morte ou invalidez permanente absoluta).
 
 4.3 - Já quanto ao elemento sistemático, assume ele, a par do elemento gramatical, um caráter decisivo na obtenção de um resultado interpretativo útil nesta sede.
 
-Como destaca Oliveira Ascensão, a interpretação deve ter em conta “a unidade do sistema jurídico” (art. 9/1 do Código Civil). Repetidamente acentuámos já que toda a fonte se integra numa ordem, que a regra é modo de expressão dessa ordem global. Por isso a interpretação duma fonte não se faz isoladamente, quiçá atendendo a um texto como se fosse válido fora do tempo e do espaço. Resulta pelo contrário da inserção desse texto num contexto dado.” <sup>42</sup>
+Como destaca Oliveira Ascensão, a interpretação deve ter em conta “a unidade do sistema jurídico” (art. 9/1 do Código Civil). Repetidamente acentuámos já que toda a fonte se integra numa ordem, que a regra é modo de expressão dessa ordem global. Por isso a interpretação duma fonte não se faz isoladamente, quiçá atendendo a um texto como se fosse válido fora do tempo e do espaço. Resulta pelo contrário da inserção desse texto num contexto dado.” 42
 
-Ora, o âmbito das relações que se estabelecem entre as normas, perfilam-se as relações de conexão. Com efeito, “nenhum preceito pode ser interpretado isoladamente do contexto. É natural que cada trecho duma lei surja como um momento do desenrolar lógico dum plano; não se presume colocado casualmente dentro daquele conjunto. Cada número dum artigo só é compreensível se o situarmos perante todo o texto do artigo, cada artigo perante os que o antecedem ou imediatamente o seguem. Atender ao contexto é situar uma disposição.” <sup>43</sup>
+Ora, o âmbito das relações que se estabelecem entre as normas, perfilam-se as relações de conexão. Com efeito, “nenhum preceito pode ser interpretado isoladamente do contexto. É natural que cada trecho duma lei surja como um momento do desenrolar lógico dum plano; não se presume colocado casualmente dentro daquele conjunto. Cada número dum artigo só é compreensível se o situarmos perante todo o texto do artigo, cada artigo perante os que o antecedem ou imediatamente o seguem. Atender ao contexto é situar uma disposição.” 43
 
-PIRES DE LIMA E ANTUNES VARELA salientam o contributo dos “lugares paralelos”, que compreendem as disposições reguladoras de problemas ou institutos afins dos disciplinados pela norma cujo sentido se pretende fixar, afirmando que “sempre que aquelas disposições sejam mais claras e explícitas do que esta norma, nada impede que as utilizemos como elemento de interpretação, pois é de presumir que o legislador seja uma pessoa coerente, que para problemas afins ou análogos, consagre disciplinas afins ou análogas também” <sup>44</sup>.
+PIRES DE LIMA E ANTUNES VARELA salientam o contributo dos “lugares paralelos”, que compreendem as disposições reguladoras de problemas ou institutos afins dos disciplinados pela norma cujo sentido se pretende fixar, afirmando que “sempre que aquelas disposições sejam mais claras e explícitas do que esta norma, nada impede que as utilizemos como elemento de interpretação, pois é de presumir que o legislador seja uma pessoa coerente, que para problemas afins ou análogos, consagre disciplinas afins ou análogas também” 44.
 
 A utilização do termo “invalidez” nas alíneas c) e d) do artigo 16.º do RJCSD não pode, pois, ser interpretada sem ter presente o conceito de invalidez previsto no já acima citado [Decreto-Lei n.º 187/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), de 10.05, que, como vimos, define e regulamenta o regime jurídico de proteção nas eventualidades de invalidez e velhice do regime geral de segurança social, em que tal terminologia é utilizada, e nos termos do qual:
 
-- “Integra a eventualidade invalidez toda a situação incapacitante de causa não profissional determinante de incapacidade física, sensorial ou mental permanente para o trabalho”, considerando-se como “situação incapacitante de causa profissional a que resulta de acidente de trabalho ou de doença profissional (art. 2.º, n.<sup>os</sup>1 e 3) e sendo a situação de invalidez “certificada pelo sistema de verificação de incapacidades em função da incapacidade permanente para o trabalho apresentada pelo beneficiário, nos termos definidos por lei” (art. 17.º, n.º 2).
+- “Integra a eventualidade invalidez toda a situação incapacitante de causa não profissional determinante de incapacidade física, sensorial ou mental permanente para o trabalho”, considerando-se como “situação incapacitante de causa profissional a que resulta de acidente de trabalho ou de doença profissional (art. 2.º, n.os1 e 3) e sendo a situação de invalidez “certificada pelo sistema de verificação de incapacidades em função da incapacidade permanente para o trabalho apresentada pelo beneficiário, nos termos definidos por lei” (art. 17.º, n.º 2).
 
 - A invalidez permanente absoluta ocorre quando se verifica uma situação de “incapacidade permanente e definitiva para toda e qualquer profissão ou trabalho em que o beneficiário não apresente capacidades de ganho remanescentes”, nem se presuma que venha a recuperar, até à idade legal de acesso à pensão de velhice, a capacidade de obter quaisquer meios de subsistência (art. 15.º), correspondendo, pois, a um grau de incapacidade de 100 %. E a invalidez permanente relativa [que corresponde à “invalidez permanente parcial” na terminologia do art. 16.º, al. d), do RJCSD] ocorre quando o beneficiário “em consequência de incapacidade permanente, não possa auferir na sua profissão mais de um terço da remuneração correspondente ao seu exercício normal” (art. 14.º, n.º 1).
 
@@ -778,11 +866,11 @@ Em todos eles, tal como nos regimes que os antecederam, visa-se o risco do exerc
 
 E, também de acordo com a avaliação do dano em direito civil este é, nos termos da respetiva Tabela (Anexo II ao [Decreto-Lei n.º 352/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-2007-629107)), graduado por pontos, ou seja, traduzindo uma representação numérica da incapacidade.
 
-4.4 - Acresce que, neste conspecto, e como fez notar o acórdão do STJ de 07-11-2019 <sup>45</sup>, a interpretação da norma em causa nos moldes defendidos pelo acórdão fundamento redundaria na anulação da diferenciação legalmente estabelecida entre a atribuição patrimonial devida pela seguradora em situação de invalidez permanente absoluta e a devida em caso de invalidez permanente parcial e, no quadro desta, entre as exigíveis em função dos diversos graus de incapacidade fixados.
+4.4 - Acresce que, neste conspecto, e como fez notar o acórdão do STJ de 07-11-2019 45, a interpretação da norma em causa nos moldes defendidos pelo acórdão fundamento redundaria na anulação da diferenciação legalmente estabelecida entre a atribuição patrimonial devida pela seguradora em situação de invalidez permanente absoluta e a devida em caso de invalidez permanente parcial e, no quadro desta, entre as exigíveis em função dos diversos graus de incapacidade fixados.
 
 Com efeito, a adoção de tal entendimento permite que um lesado que apresente uma invalidez permanente absoluta venha a receber da seguradora um capital igual a outro lesado que apresente um grau de invalidez permanente substancialmente mais baixo, determinativo, de forma típica, de um dano patrimonial efetivo inferior.
 
-A interpretação normativa propugnada pelo acórdão fundamento para além de, em nossa perspetiva, desconsiderar a imprescindível unidade do sistema jurídico, poderá bulir com o princípio da igualdade na aplicação do direito, que, como sublinha Gomes Canotilho <sup>46</sup>, é uma das dimensões básicas do princípio da igualdade constitucionalmente garantido (art. 13.º da CRP). Tal entendimento, segundo cremos, não dá cumprimento à exigência de obtenção de uma igualdade material, tratando de forma igual - através da concessão de valores de capital equivalentes - situações de incapacidade permanente desiguais.
+A interpretação normativa propugnada pelo acórdão fundamento para além de, em nossa perspetiva, desconsiderar a imprescindível unidade do sistema jurídico, poderá bulir com o princípio da igualdade na aplicação do direito, que, como sublinha Gomes Canotilho 46, é uma das dimensões básicas do princípio da igualdade constitucionalmente garantido (art. 13.º da CRP). Tal entendimento, segundo cremos, não dá cumprimento à exigência de obtenção de uma igualdade material, tratando de forma igual - através da concessão de valores de capital equivalentes - situações de incapacidade permanente desiguais.
 
 5 - O recorrente argumenta que a solução defendida pelo acórdão recorrido viola “os direitos constitucionalmente protegidos dos praticantes de desporto, nomeadamente o direito à saúde e o direito à integridade física, plasmados no artigo 70.º, n.º 1, do Código Civil, em conjugação com o artigo 25.º, da Constituição da República Portuguesa.”
 
@@ -792,9 +880,9 @@ Ainda que se defenda - não é o nosso caso, como se procurou demonstrar - que a
 
 Sendo insofismável que o direito à integridade física vale contra o Estado, repercutindo-se no plano da legislação, a interpretação normativa que ora se propugna salvaguarda o núcleo irredutível do direito em causa (art. 18.º, n.º 2, da CRP) porque não implica que o praticante desportivo que enfrente uma situação de invalidez permanente parcial fique sem tutela patrimonial. O modo de cálculo de tal tutela, nos termos descritos, ao abstrair-se do quantum do dano efetivamente sofrido, não poderá ser configurado como uma restrição desproporcional ou arbitrária do direito à integridade física do lesado desportivo, tendo em conta que se funda num critério materialmente fundado - supra explicitado - e que a lógica da cobertura em causa escapa ao princípio indemnizatório da ressarcibilidade integral do dano. Isto acontece, de resto, com todos os casos em que, no âmbito do contrato de seguro de pessoas, sejam garantidas prestações de valor predeterminado, não dependentes do efetivo montante do dano, tal como admitido no n.º 2 do art. 175.º do RGCS.
 
-A este propósito, é também de chamar novamente à colação o regime jurídico em matéria de reparação dos danos emergentes de acidente de trabalho, aprovado pela [Lei n.º 98/2009](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), de 04.09, em que, conforme o seu art. 23.º, para além da reparação em espécie (contemplando as prestações necessárias e adequadas ao restabelecimento do estado de saúde e da capacidade de trabalho ou de ganho do sinistrado e da sua recuperação para a vida ativa) <sup>47</sup>, se prevê também a reparação em dinheiro (“indemnização” pelas incapacidades temporárias e “pensão anual e vitalícia” ou correspondente “capital de remição”, pelas incapacidades permanentes), esta, porém, limitada ao dano patrimonial decorrente da perda da capacidade de ganho, calculada mediante a aplicação do coeficiente de desvalorização/grau de incapacidade à remuneração anual do sinistrado, com abstração de outras componentes que poderão integrar o dano efetivo, mormente o habitualmente designado dano biológico e os danos não patrimoniais, como decorre dos arts. 19.º, 20.º, 21.º, 23.º, alínea b) e 48.º da citada Lei.
+A este propósito, é também de chamar novamente à colação o regime jurídico em matéria de reparação dos danos emergentes de acidente de trabalho, aprovado pela [Lei n.º 98/2009](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), de 04.09, em que, conforme o seu art. 23.º, para além da reparação em espécie (contemplando as prestações necessárias e adequadas ao restabelecimento do estado de saúde e da capacidade de trabalho ou de ganho do sinistrado e da sua recuperação para a vida ativa) 47, se prevê também a reparação em dinheiro (“indemnização” pelas incapacidades temporárias e “pensão anual e vitalícia” ou correspondente “capital de remição”, pelas incapacidades permanentes), esta, porém, limitada ao dano patrimonial decorrente da perda da capacidade de ganho, calculada mediante a aplicação do coeficiente de desvalorização/grau de incapacidade à remuneração anual do sinistrado, com abstração de outras componentes que poderão integrar o dano efetivo, mormente o habitualmente designado dano biológico e os danos não patrimoniais, como decorre dos arts. 19.º, 20.º, 21.º, 23.º, alínea b) e 48.º da citada Lei.
 
-E só assim não será nos casos em que, conforme o seu art. 18.º, n.º 1, o acidente de trabalho haja sido provocado pelo empregador (ou demais entidades referidas no preceito) ou resultar de falta de observação, pelos mesmos, das regras sobre segurança e saúde no trabalho, situações em que “a responsabilidade individual ou solidária pela indemnização abrange a totalidade dos prejuízos, patrimoniais e não patrimoniais, sofridos pelo trabalhador e seus familiares, nos termos gerais”, isto é, caindo no âmbito da responsabilidade civil extracontratual por facto ilícito prevista no domínio do Código Civil <sup>48</sup> e na qual não se enquadra o regime previsto no RJSDO.
+E só assim não será nos casos em que, conforme o seu art. 18.º, n.º 1, o acidente de trabalho haja sido provocado pelo empregador (ou demais entidades referidas no preceito) ou resultar de falta de observação, pelos mesmos, das regras sobre segurança e saúde no trabalho, situações em que “a responsabilidade individual ou solidária pela indemnização abrange a totalidade dos prejuízos, patrimoniais e não patrimoniais, sofridos pelo trabalhador e seus familiares, nos termos gerais”, isto é, caindo no âmbito da responsabilidade civil extracontratual por facto ilícito prevista no domínio do Código Civil 48 e na qual não se enquadra o regime previsto no RJSDO.
 
 Igualmente o regime jurídico da reparação dos danos emergentes de acidentes de trabalho dos praticantes desportivos profissionais então constante da [Lei n.º 27/2011](https://diariodarepublica.pt/dr/detalhe/lei/27-2011-669999), de 16.06 (bem como da [Lei n.º 48/2023](https://diariodarepublica.pt/dr/detalhe/lei/48-2023-220172306), de 22.08, que lhe sucedeu), prescindem, no cálculo da reparação, da consideração do dano efetivo, atendendo apenas a fórmulas aritméticas tendo por base o grau/percentagem de incapacidade.
 
@@ -804,13 +892,13 @@ Em suma, serve o referido para salientar, por um lado, que o uso da expressão, 
 
 E serve também para demonstrar que a não atendibilidade, pelo art. 16.º, al. d), do RJSDO, de outras componentes do dano que não o grau de incapacidade em que se traduz a invalidez parcial (na terminologia do citado preceito) não constitui regime estranho à ordem jurídica, vigorando igualmente em sede da reparação devida por acidentes de trabalho. Não se pode, igualmente, deixar de notar a alguma afinidade da reparação existente entre os sinistros sofridos pelo praticante desportivo amador e os acidentes de trabalho, designadamente o acidente de trabalho sofrido pelo praticante desportivo profissional.
 
-É certo que a proteção é maior no que respeita aos trabalhadores abrangidos pelo regime legal dos acidentes de trabalho (quer dos trabalhadores em geral, quer dos praticantes desportivos profissionais), diferença que assenta na ratio subjacente ao regime mencionado [dispensando-nos de aprofundar a sua teleologia, a diversidade dos regimes resulta essencialmente da circunstância de o acidente de trabalho ter por base uma relação de trabalho entre o tomador do seguro/ “empregador” e o “trabalhador” beneficiário <sup>49</sup>].
+É certo que a proteção é maior no que respeita aos trabalhadores abrangidos pelo regime legal dos acidentes de trabalho (quer dos trabalhadores em geral, quer dos praticantes desportivos profissionais), diferença que assenta na ratio subjacente ao regime mencionado [dispensando-nos de aprofundar a sua teleologia, a diversidade dos regimes resulta essencialmente da circunstância de o acidente de trabalho ter por base uma relação de trabalho entre o tomador do seguro/ “empregador” e o “trabalhador” beneficiário 49].
 
 Mas, quer no contrato de seguro desportivo, quer no contrato de seguro de acidentes de trabalho, o legislador entendeu ser de conferir a proteção dos danos decorrentes do sinistro tendo em conta o “grau de incapacidade”.
 
-E, em ambos os casos o legislador abstraiu do dano efetivo, ainda que partindo de bases de cálculo distintas: no RJCSD tendo por base um capital previamente definido (no montante que teve por adequado), e, nos regimes dos acidentes de trabalho, tendo por base a remuneração do trabalhador (e uma dilatação no tempo da reparação por via do estabelecimento de uma pensão vitalícia ou, em substituição, de um capital de remição - cf. arts. 48.º, n.º 3, al. alínea c) e 75.º da [Lei n.º 98/2009](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505) <sup>50</sup>).
+E, em ambos os casos o legislador abstraiu do dano efetivo, ainda que partindo de bases de cálculo distintas: no RJCSD tendo por base um capital previamente definido (no montante que teve por adequado), e, nos regimes dos acidentes de trabalho, tendo por base a remuneração do trabalhador (e uma dilatação no tempo da reparação por via do estabelecimento de uma pensão vitalícia ou, em substituição, de um capital de remição - cf. arts. 48.º, n.º 3, al. alínea c) e 75.º da [Lei n.º 98/2009](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505) 50).
 
-Por fim, pelas mesmas razões, também entendemos que a interpretação em causa não provoca o esvaziamento do objeto do contrato de seguro, vedada pelo art. 6.º do RJSDO, sendo a reparação pela incapacidade maior ou menor em consonância, e de modo objetivamente proporcional, ao grau dessa incapacidade e tendo como referência, em ambos os casos, a situação mais grave, de invalidez permanente absoluta (e morte) <sup>51</sup>.
+Por fim, pelas mesmas razões, também entendemos que a interpretação em causa não provoca o esvaziamento do objeto do contrato de seguro, vedada pelo art. 6.º do RJSDO, sendo a reparação pela incapacidade maior ou menor em consonância, e de modo objetivamente proporcional, ao grau dessa incapacidade e tendo como referência, em ambos os casos, a situação mais grave, de invalidez permanente absoluta (e morte) 51.
 
 6 - Cremos, em suma, que a revelação do sentido da norma constante da alínea d) do art. 16.º do RJSDO, a partir dos elementos de interpretação - especialmente dos seus elementos gramatical e sistemático - aponta para que a atribuição patrimonial a cargo da seguradora seja contabilizada através de um cálculo, de cariz objetivo e desprovido de natureza indemnizatória.
 
@@ -818,7 +906,7 @@ Note-se ainda que, no âmbito do seguro desportivo obrigatório em apreço, a at
 
 O direito ao capital seguro não assenta, pois, na responsabilidade civil extracontratual, de onde decorra a ressarcibilidade do dano efetivo, mas sim na responsabilidade contratual emergente do contrato de seguro (obrigatório), nos moldes neste previstos (sem prejuízo de as entidades obrigadas à contratação do seguro responderem nos moldes previstos no RJCSD em caso de incumprimento dessa contratação - art. 20.º).
 
-A este propósito, são pertinentes as seguintes considerações de Francisco Rodrigues Rocha <sup>52</sup>:
+A este propósito, são pertinentes as seguintes considerações de Francisco Rodrigues Rocha 52:
 
 “[...] no seguro desportivo não é a responsabilidade que é coberta, que pode nem existir. [...]. Contribui, ainda, ao entendimento a que nos opomos a confusão frequente entre responsabilidade civil e seguro. [...]. O problema reside, sim, em transpor-se, sem mais, para o seguro uma regra da responsabilidade civil. O seguro é um contrato, com base no qual, verificado o sinistro, se constitui na esfera do segurador um dever de “realizar a prestação convencionada (artigo 1.º do RJCS), que é um dever primário de prestar, não secundário de indemnizar. [...].
 
@@ -830,7 +918,7 @@ Por outro lado, a exclusão da reparação do dano efetivo não é exclusivo do 
 
 Na verdade, dificilmente se compreenderia que, no âmbito de um acidente de trabalho sofrido por um trabalhador ou, mormente, de um acidente de trabalho desportivo sofrido por desportista profissional, não seja contemplado o dano efetivo (incluindo o dano não patrimonial), mas o seja em acidente desportivo sofrido por desportista amador. Frise-se que, com todo o respeito por entendimento diferente, o eventualmente baixo montante do capital devido em caso de acidente de que resulte uma invalidez permanente parcial, de pequeno grau, não se nos afigura, pelos motivos já expostos, que constitua, à revelia do RJSDO, motivo fundado ou suficiente para diferente interpretação. O baixo montante do capital a receber decorre, como já referido, da menor incapacidade, aliado ao capital mínimo obrigatório previsto no seu art. 16.º para os casos mais graves, sendo-lhe proporcional. Não parece, pois, aceitável que um beneficiário, com uma invalidez permanente parcial menor, pudesse vir a receber, por via da atendibilidade de outros fatores que não o concreto grau de incapacidade, um capital igual ou próximo do capital máximo legalmente previsto àquele que o beneficiário com uma invalidez absoluta, de 100 %, tem direito (sem atendibilidade, pois, de qualquer outro fator que não uma incapacidade de 100 %). E, concretamente no que aos danos não patrimoniais se reporta, que um beneficiário com um grau de incapacidade inferior, possa ser “ressarcido” pelos danos não patrimoniais até ao limite do capital previsto no art. 16.º, mas um beneficiário com uma invalidez permanente absoluta, em que certamente tais danos serão superiores, não o possa ser na medida em que viu atingido o limite máximo desse capital.
 
-Cremos também não ser de acolher o argumento da tese sufragada no acórdão fundamento de que o RJSDO, mormente o citado art. 5.º <sup>53</sup>, não faz a distinção ou restrição quanto à natureza dos danos. A atendibilidade do dano consubstanciado apenas no grau/percentagem de invalidez permanente (absoluta e parcial) nos termos que já apontámos, é feita pela conjugação desse art. 5.º com o art. 16.º, preceito este que expressamente estipula as garantias mínimas previstas que são objeto do contrato de seguro a que o n.º 2 do art. 5.º se reporta.
+Cremos também não ser de acolher o argumento da tese sufragada no acórdão fundamento de que o RJSDO, mormente o citado art. 5.º 53, não faz a distinção ou restrição quanto à natureza dos danos. A atendibilidade do dano consubstanciado apenas no grau/percentagem de invalidez permanente (absoluta e parcial) nos termos que já apontámos, é feita pela conjugação desse art. 5.º com o art. 16.º, preceito este que expressamente estipula as garantias mínimas previstas que são objeto do contrato de seguro a que o n.º 2 do art. 5.º se reporta.
 
 Acresce que se do preâmbulo do [Decreto-Lei n.º 10/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2009-397323) não resulta a inatendibilidade do dano efetivo, dele também não resulta que este deva ser tido em conta. O que dele decorre é que, visando embora “cobrir os riscos através da instituição do seguro obrigatório”, tal cobertura tem, contudo e apenas, a extensão que o diploma fixou no seu texto, concretamente a prevista no seu art. 16.º, do qual resulta, nos termos já apontados, a exclusão da ponderação do dano efetivo.
 
@@ -838,17 +926,17 @@ Aliás, a própria expressão “dano” não é sequer utilizada seja no texto 
 
 O cálculo do capital devido em caso de invalidez parcial deverá, pois, ser unicamente parametrizado pelo montante mínimo de capital previsto no art. 16.º (ou superior, se contratualmente previsto), ponderado o grau de incapacidade fixado ao lesado, sendo-lhe espúria a contabilização do valor do dano patrimonial e não patrimonial efetivo sofrido.
 
-Em suma, acompanhamos o entendimento do Acórdão recorrido e do citado Acórdão do STJ de 07.11.2019 (Processo n.º 654/16) de acordo com o qual a obrigação do pagamento de um capital por morte ou invalidez permanente, total ou parcial, por acidente decorrente da atividade desportiva a que se reportam os arts. 5.º, n.<sup>os</sup>1 e 2, e 16.º, als. a), c) e d), do RJSDO emerge de «um “contrato de seguro de pessoas” que, nos termos conjugados dos artigos 175.º, n.º 1, e 210.º da Lei do Contrato de Seguro (LCS), aprovado pelo [Decreto-Lei n.º 72/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), de 16-04, cobre o risco da verificação de lesão corporal, invalidez, temporária ou permanente, ou morte da pessoa segura, por causa súbita, externa e imprevisível. E, conforme se dispõe o n.º 2 do indicado artigo 175.º, tal contrato pode garantir prestações de valor predeterminado não dependente do efetivo montante do dano e prestações de natureza indemnizatória.»
+Em suma, acompanhamos o entendimento do Acórdão recorrido e do citado Acórdão do STJ de 07.11.2019 (Processo n.º 654/16) de acordo com o qual a obrigação do pagamento de um capital por morte ou invalidez permanente, total ou parcial, por acidente decorrente da atividade desportiva a que se reportam os arts. 5.º, n.os1 e 2, e 16.º, als. a), c) e d), do RJSDO emerge de «um “contrato de seguro de pessoas” que, nos termos conjugados dos artigos 175.º, n.º 1, e 210.º da Lei do Contrato de Seguro (LCS), aprovado pelo [Decreto-Lei n.º 72/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), de 16-04, cobre o risco da verificação de lesão corporal, invalidez, temporária ou permanente, ou morte da pessoa segura, por causa súbita, externa e imprevisível. E, conforme se dispõe o n.º 2 do indicado artigo 175.º, tal contrato pode garantir prestações de valor predeterminado não dependente do efetivo montante do dano e prestações de natureza indemnizatória.»
 
 7 - Especificamente quanto à questão da atendibilidade, ou não, dos danos não patrimoniais e da fixação de uma compensação pelos mesmos, agora autonomizada para efeitos de decisão no presente recurso, foi a mesma e, como se viu, objeto de ampla dissensão jurisprudencial:
 
-No sentido da sua atendibilidade, o acórdão fundamento, na linha do que já havia sido defendido pelo mencionado acórdão do STJ de 09-05-2019<sup>54</sup>, sustentou que a lei não distingue entre o dano patrimonial e o dano não patrimonial e que, reconduzindo-se o seguro desportivo a um seguro de acidentes pessoais, os danos corporais são nesta sede considerados como danos não patrimoniais. Acrescentou o acórdão fundamento que, sendo o contrato de seguro omisso sobre o tipo de danos a ressarcir, deve prevalecer o sentido mais favorável ao aderente (in dubio contra proferentem ou contra stipulatorem), mais transcrevendo, em abono, a síntese feita por Francisco Rodrigues da Rocha e que já acima deixámos consignada (no ponto V.2.3.2. do presente acórdão).
+No sentido da sua atendibilidade, o acórdão fundamento, na linha do que já havia sido defendido pelo mencionado acórdão do STJ de 09-05-201954, sustentou que a lei não distingue entre o dano patrimonial e o dano não patrimonial e que, reconduzindo-se o seguro desportivo a um seguro de acidentes pessoais, os danos corporais são nesta sede considerados como danos não patrimoniais. Acrescentou o acórdão fundamento que, sendo o contrato de seguro omisso sobre o tipo de danos a ressarcir, deve prevalecer o sentido mais favorável ao aderente (in dubio contra proferentem ou contra stipulatorem), mais transcrevendo, em abono, a síntese feita por Francisco Rodrigues da Rocha e que já acima deixámos consignada (no ponto V.2.3.2. do presente acórdão).
 
 Decorre porém do que já acima deixámos exposto, para onde se remete, que a reparação dos danos não patrimoniais não está, ao que cremos, abrangida pela cobertura do contrato de seguro conferida pelos arts. 5.º, n.º 2, e 16.º do RJSDO, apenas se relembrando e salientando, em jeito de síntese:
 
-- que, na linha do acórdão recorrido e dos acórdãos do STJ de 08-09-2016<sup>55</sup> e de 07-11-2019 <sup>56</sup>, já mencionados, com o que se concorda, o entendimento contrário (sufragado pelo acórdão fundamento) importaria a criação de uma situação de antinomia normativa, que concede ao lesado uma compensação por danos não patrimoniais inversamente proporcional ao grau de invalidez sofrido - compensação essa que acaba por não ter lugar nos casos, mais graves e em que presumivelmente mais acentuados são os danos não patrimoniais sofridos, em que o lesado padece de um grau de invalidez de 100 %;
+- que, na linha do acórdão recorrido e dos acórdãos do STJ de 08-09-201655 e de 07-11-2019 56, já mencionados, com o que se concorda, o entendimento contrário (sufragado pelo acórdão fundamento) importaria a criação de uma situação de antinomia normativa, que concede ao lesado uma compensação por danos não patrimoniais inversamente proporcional ao grau de invalidez sofrido - compensação essa que acaba por não ter lugar nos casos, mais graves e em que presumivelmente mais acentuados são os danos não patrimoniais sofridos, em que o lesado padece de um grau de invalidez de 100 %;
 
-- que os elementos literal e sistemático de interpretação normativa opõem-se à atendibilidade dos danos não patrimoniais, acompanhando-se FRANCISCO RODRIGUES ROCHA, que acolhe a orientação perfilhada pelo acórdão recorrido com base na seguinte linha fundamentadora: “o seguro desportivo é, repete-se de pessoas, na modalidade de acidentes pessoais, de maneira que tanto pode compreender, como é o caso, prestações de carácter predeterminado, independentes do valor do dano, quanto indemnizatórias (artigo 175.º/2 do RJCS). A conclusão sobre se sejam de um ou de outro tipo passa pela interpretação das declarações negociais, neste caso balizada pela lei, uma vez que se trata de um seguro obrigatório. Ora, a lei é clara no sentido de que a cobertura por morte e invalidez permanente inclui “o pagamento de um capital” (artigo 5.º/2/a)), não de uma indemnização, diversamente do que sucede com as “despesas” de funeral, tratamento e repatriamento (artigos 5.º/2b) e 16.ºe)). O significado da palavra “capital”, no direito dos seguros, pode ser ambíguo: no RJSDO ela é também usada com o significado de soma segura, mas no artigo 5.º/2 trata-se claramente de prestação de valor predeterminado, também dita de capital, porque antecedida da palavra “pagamento” seguida do artigo indefinido “um”, forma sob a qual raramente aparece com o sentido de forma segura” <sup>57</sup>;
+- que os elementos literal e sistemático de interpretação normativa opõem-se à atendibilidade dos danos não patrimoniais, acompanhando-se FRANCISCO RODRIGUES ROCHA, que acolhe a orientação perfilhada pelo acórdão recorrido com base na seguinte linha fundamentadora: “o seguro desportivo é, repete-se de pessoas, na modalidade de acidentes pessoais, de maneira que tanto pode compreender, como é o caso, prestações de carácter predeterminado, independentes do valor do dano, quanto indemnizatórias (artigo 175.º/2 do RJCS). A conclusão sobre se sejam de um ou de outro tipo passa pela interpretação das declarações negociais, neste caso balizada pela lei, uma vez que se trata de um seguro obrigatório. Ora, a lei é clara no sentido de que a cobertura por morte e invalidez permanente inclui “o pagamento de um capital” (artigo 5.º/2/a)), não de uma indemnização, diversamente do que sucede com as “despesas” de funeral, tratamento e repatriamento (artigos 5.º/2b) e 16.ºe)). O significado da palavra “capital”, no direito dos seguros, pode ser ambíguo: no RJSDO ela é também usada com o significado de soma segura, mas no artigo 5.º/2 trata-se claramente de prestação de valor predeterminado, também dita de capital, porque antecedida da palavra “pagamento” seguida do artigo indefinido “um”, forma sob a qual raramente aparece com o sentido de forma segura” 57;
 
 - que, ainda que o legislador, nos arts. 5.º, n.º 2, e 16.º do RJSDO, não haja feito expressa referência aos danos patrimoniais e não patrimoniais (não tendo aliás feito qualquer referência à expressão “dano”), a exclusão destes decorre do art. 16.º (com o qual deve ser conjugado o citado art. 5.º, n.º 2);
 
@@ -860,7 +948,7 @@ Decorre porém do que já acima deixámos exposto, para onde se remete, que a re
 
 O entendimento propugnado no acórdão recorrido é, assim, o que mais congruente se afirma com uma interpretação normativa adequadamente valorizadora do princípio da unidade e harmonia do sistema jurídico e do princípio da igualdade, não provocando, como já referido, um esvaziamento do objeto do contrato de seguro proscrito pela norma do art. 6.º do RJSDO, sendo o capital devido, em caso de invalidez permanente parcial, objetivamente proporcional ao grau de incapacidade, nem a violação dos direitos à saúde e à integridade física, consagrados nos arts. 25.º, n.º 1, da CRP e 70.º, n.º 1, do Cód. Civil.
 
-Há, pois e também como já dito, que acompanhar o acórdão do STJ de 07-11-2019<sup>58</sup> na seguinte asserção: “Poderá discutir-se, de jure condendo, se não seria mais adequado ou justo atender ao dano efetivo como fator complementar na fixação da prestação devida, mas o certo é que este fator não foi erigido como critério legal, nem era imperioso que o fosse, tanto mais que o contrato de seguro de pessoas pode garantir prestações de valor predeterminado não dependente do efetivo montante do dano, como se preconiza no artigo 175.º, n.º 2, da LCS.”
+Há, pois e também como já dito, que acompanhar o acórdão do STJ de 07-11-201958 na seguinte asserção: “Poderá discutir-se, de jure condendo, se não seria mais adequado ou justo atender ao dano efetivo como fator complementar na fixação da prestação devida, mas o certo é que este fator não foi erigido como critério legal, nem era imperioso que o fosse, tanto mais que o contrato de seguro de pessoas pode garantir prestações de valor predeterminado não dependente do efetivo montante do dano, como se preconiza no artigo 175.º, n.º 2, da LCS.”
 
 8 - Assim, e em face do que ficou exposto, é de uniformizar a jurisprudência no seguinte sentido:
 
@@ -888,133 +976,133 @@ Custas do presente recurso pelo recorrente.
 
 Notifique e, após trânsito em julgado, remeta certidão do acórdão para publicação na 1.ª série do Diário da República.
 
-<sup>1</sup> Observa-se, na redação da autoria da ora relatora, a ortografia constante do novo Acordo Ortográfico.
+1 Observa-se, na redação da autoria da ora relatora, a ortografia constante do novo Acordo Ortográfico.
 
-<sup>2</sup> Pronunciando-se no sentido exposto, vejam-se, a título meramente exemplificativo, os seguintes acórdãos do STJ para uniformização de jurisprudência: de 19-09-2019, Proc. n.º 28438/16.4T8LSB.L1.S1-A; de 12-09-2019, Proc. n.º 2146/16.4T8LRA.C2.S1-A; de 19-03-2019, Proc. n.º 6233/10.4TBCSC.L2.S1-A; de 28-03-2019, Proc. n.º 60/13.4TBCUB.E1.S1-A; de 29-01-2019, Proc. n.º 2303/01.8TVLSB.L2.S1-A; e de 10-01-2019, Proc. n.º 1522/13.9TBGMR.G1.S2-A.
+2 Pronunciando-se no sentido exposto, vejam-se, a título meramente exemplificativo, os seguintes acórdãos do STJ para uniformização de jurisprudência: de 19-09-2019, Proc. n.º 28438/16.4T8LSB.L1.S1-A; de 12-09-2019, Proc. n.º 2146/16.4T8LRA.C2.S1-A; de 19-03-2019, Proc. n.º 6233/10.4TBCSC.L2.S1-A; de 28-03-2019, Proc. n.º 60/13.4TBCUB.E1.S1-A; de 29-01-2019, Proc. n.º 2303/01.8TVLSB.L2.S1-A; e de 10-01-2019, Proc. n.º 1522/13.9TBGMR.G1.S2-A.
 
-<sup>3</sup> Abreviatura de Lei do Contrato de Seguro aprovada pelo [DL 72/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), de 16.04.
+3 Abreviatura de Lei do Contrato de Seguro aprovada pelo [DL 72/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), de 16.04.
 
-<sup>4</sup> E não, como refere, “danos não patrimoniais”, o que decorre de lapso manifesto como se constata do confronto com o acórdão ora recorrido e respetivas alegações de revista.
+4 E não, como refere, “danos não patrimoniais”, o que decorre de lapso manifesto como se constata do confronto com o acórdão ora recorrido e respetivas alegações de revista.
 
-<sup>5</sup> De referir que a reparação dos danos emergentes de acidente de trabalho sofridos por praticantes desportivos profissionais rege-se pelo regime jurídico constante da [Lei n.º 48/2023](https://diariodarepublica.pt/dr/detalhe/lei/48-2023-220172306), de 22.08, que sucedeu à [Lei n.º 27/2011](https://diariodarepublica.pt/dr/detalhe/lei/27-2011-669999), de 16.06.
+5 De referir que a reparação dos danos emergentes de acidente de trabalho sofridos por praticantes desportivos profissionais rege-se pelo regime jurídico constante da [Lei n.º 48/2023](https://diariodarepublica.pt/dr/detalhe/lei/48-2023-220172306), de 22.08, que sucedeu à [Lei n.º 27/2011](https://diariodarepublica.pt/dr/detalhe/lei/27-2011-669999), de 16.06.
 
-<sup>6</sup> Francisco Rodrigues Rocha, “Seguro desportivo. Cobertura de danos não patrimoniais? Sports insurance. Non-financial losses cover?”, Revista da Faculdade de Direito da Universidade de Lisboa, ano LXI, 2020, p. 296.
+6 Francisco Rodrigues Rocha, “Seguro desportivo. Cobertura de danos não patrimoniais? Sports insurance. Non-financial losses cover?”, Revista da Faculdade de Direito da Universidade de Lisboa, ano LXI, 2020, p. 296.
 
-<sup>7</sup> De referir que, no caso, não está em causa o regime dos arts. 11.º e 17.º, relativos ao seguro do praticante desportivo de alto rendimento.
+7 De referir que, no caso, não está em causa o regime dos arts. 11.º e 17.º, relativos ao seguro do praticante desportivo de alto rendimento.
 
-<sup>8</sup> Processo n.º 654/16.6T8ABT.E1.S1, disponível em: https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/c2fc90ada0263e22802584ab005d6442
+8 Processo n.º 654/16.6T8ABT.E1.S1, disponível em: https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/c2fc90ada0263e22802584ab005d6442
 
-<sup>9</sup> Atualizável nos termos já indicados.
+9 Atualizável nos termos já indicados.
 
-<sup>10</sup> Que aprovou o regime jurídico do contrato de seguro, adiante designado por LCS (Lei do Contrato de Seguro).
+10 Que aprovou o regime jurídico do contrato de seguro, adiante designado por LCS (Lei do Contrato de Seguro).
 
-<sup>11</sup> Francisco Rodrigues Rocha, “Seguro desportivo. Cobertura de danos não patrimoniais? Sports insurance. Non-financial losses cover?”, Revista da Faculdade de Direito da Universidade de Lisboa, ano LXI, 2020, pp. 306-307.
+11 Francisco Rodrigues Rocha, “Seguro desportivo. Cobertura de danos não patrimoniais? Sports insurance. Non-financial losses cover?”, Revista da Faculdade de Direito da Universidade de Lisboa, ano LXI, 2020, pp. 306-307.
 
-<sup>12</sup> Francisco Rodrigues Rocha, “Seguro desportivo. Cobertura de danos não patrimoniais? Sports insurance. Non-financial losses cover?”, Revista da Faculdade de Direito da Universidade de Lisboa, ano LXI, 2020, pp. 305-306.
+12 Francisco Rodrigues Rocha, “Seguro desportivo. Cobertura de danos não patrimoniais? Sports insurance. Non-financial losses cover?”, Revista da Faculdade de Direito da Universidade de Lisboa, ano LXI, 2020, pp. 305-306.
 
-<sup>13</sup> Com texto integral disponível em:
+13 Com texto integral disponível em:
 
 https://www.dgsi.pt/jstj.nsf/-/86F72EF448890B838025802C003C4B79
 
-<sup>14</sup> Com texto integral disponível em:
+14 Com texto integral disponível em:
 
 http://www.gde.mj.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/3572ffe2b8215652802581000031d8df?OpenDocument
 
-<sup>15</sup> Com texto integral disponível em:
+15 Com texto integral disponível em:
 
 https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/c2fc90ada0263e22802584ab005d6442
 
-<sup>16</sup> Todos disponíveis em www.dgsi.pt.
+16 Todos disponíveis em www.dgsi.pt.
 
-<sup>17</sup> Todos disponíveis em www.dgsi.pt.
+17 Todos disponíveis em www.dgsi.pt.
 
-<sup>18</sup> Com texto integral disponível em:
+18 Com texto integral disponível em:
 
 https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/38772505767ab0c3802583f5005910ba?OpenDocument
 
-<sup>19</sup> Disponível em www.dgsi.pt.
+19 Disponível em www.dgsi.pt.
 
-<sup>20</sup> Com texto integral disponível em:
+20 Com texto integral disponível em:
 
 https://www.dgsi.pt/jstj.nsf/-/86F72EF448890B838025802C003C4B79
 
-<sup>21</sup> Com texto integral disponível em:
+21 Com texto integral disponível em:
 
 https://www.dgsi.pt/jstj.nsf/-/2FAD0A9BBC6FE3308025814600553BFB
 
-<sup>22</sup> Não publicado.
+22 Não publicado.
 
-<sup>23</sup> Todos disponíveis em www.dgsi.pt.
+23 Todos disponíveis em www.dgsi.pt.
 
-<sup>24</sup> Abreviatura de Código Civil.
+24 Abreviatura de Código Civil.
 
-<sup>25</sup> João Baptista Machado, Introdução ao Direito e ao Discurso Legitimador, Coimbra, Almedina, 1996, pp. 181-184.
+25 João Baptista Machado, Introdução ao Direito e ao Discurso Legitimador, Coimbra, Almedina, 1996, pp. 181-184.
 
-<sup>26</sup> João Baptista Machado, Introdução ao Direito e ao Discurso Legitimador, Coimbra, Almedina, 1996, pp. 188-189.
+26 João Baptista Machado, Introdução ao Direito e ao Discurso Legitimador, Coimbra, Almedina, 1996, pp. 188-189.
 
-<sup>27</sup> Infopédia - Dicionários Porto Editora, In https://www.infopedia.pt/dicionarios/lingua-portuguesa/grau.
+27 Infopédia - Dicionários Porto Editora, In https://www.infopedia.pt/dicionarios/lingua-portuguesa/grau.
 
-<sup>28</sup> In https://dicionario.priberam.org/grau.
+28 In https://dicionario.priberam.org/grau.
 
-<sup>29</sup> In https://dicionario.acad-ciencias.pt/pesquisa/?word=grau.
+29 In https://dicionario.acad-ciencias.pt/pesquisa/?word=grau.
 
-<sup>30</sup> Objeto de alterações posteriores, que ora não relevam.
+30 Objeto de alterações posteriores, que ora não relevam.
 
-<sup>31</sup> “Seguro desportivo. Cobertura de danos não patrimoniais?”, em Revista da Faculdade de Direito da Universidade de Lisboa, Ano LXI, 2020, Número 2, p. 308.
+31 “Seguro desportivo. Cobertura de danos não patrimoniais?”, em Revista da Faculdade de Direito da Universidade de Lisboa, Ano LXI, 2020, Número 2, p. 308.
 
-<sup>32</sup> Processo n.º 654/16.6T8ABT.E1.S1, disponível em https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/c2fc90ada0263e22802584ab005d6442
+32 Processo n.º 654/16.6T8ABT.E1.S1, disponível em https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/c2fc90ada0263e22802584ab005d6442
 
-<sup>33</sup> Sublinhado constante do texto do acórdão.
+33 Sublinhado constante do texto do acórdão.
 
-<sup>34</sup> Ana Brilha, “O novo regime do seguro desportivo - Verdadeira inovação”, Desporto & Direito - Revista Jurídica do Desporto, ano VI, n.º 17, janeiro/abril de 2009, Coimbra, Coimbra Editora, p. 293.
+34 Ana Brilha, “O novo regime do seguro desportivo - Verdadeira inovação”, Desporto & Direito - Revista Jurídica do Desporto, ano VI, n.º 17, janeiro/abril de 2009, Coimbra, Coimbra Editora, p. 293.
 
-<sup>35</sup> Ana Brilha, “O novo regime do seguro desportivo - Verdadeira inovação”, Desporto & Direito - Revista Jurídica do Desporto, ano VI, n.º 17, janeiro/abril de 2009, Coimbra, Coimbra Editora, p. 294.
+35 Ana Brilha, “O novo regime do seguro desportivo - Verdadeira inovação”, Desporto & Direito - Revista Jurídica do Desporto, ano VI, n.º 17, janeiro/abril de 2009, Coimbra, Coimbra Editora, p. 294.
 
-<sup>36</sup> Paulo Cardoso de Moura, “Seguros obrigatórios nas actividades desportivas e de lazer”, Desporto & Direito - Revista Jurídica do Desporto, ano III, n.º 8, janeiro/abril de 2006, Coimbra, Coimbra Editora, p. 226.
+36 Paulo Cardoso de Moura, “Seguros obrigatórios nas actividades desportivas e de lazer”, Desporto & Direito - Revista Jurídica do Desporto, ano III, n.º 8, janeiro/abril de 2006, Coimbra, Coimbra Editora, p. 226.
 
-<sup>37</sup> Paulo Cardoso de Moura, “Seguros obrigatórios nas actividades desportivas e de lazer”, Desporto & Direito - Revista Jurídica do Desporto, ano III, n.º 8, janeiro/abril de 2006, Coimbra, Coimbra Editora, p. 226.
+37 Paulo Cardoso de Moura, “Seguros obrigatórios nas actividades desportivas e de lazer”, Desporto & Direito - Revista Jurídica do Desporto, ano III, n.º 8, janeiro/abril de 2006, Coimbra, Coimbra Editora, p. 226.
 
-<sup>38</sup> Francisco Rodrigues Rocha, “Seguro desportivo. Cobertura de danos não patrimoniais? Sports insurance. Non-financial losses cover?”, Revista da Faculdade de Direito da Universidade de Lisboa, ano LXI, 2020, p. 298.
+38 Francisco Rodrigues Rocha, “Seguro desportivo. Cobertura de danos não patrimoniais? Sports insurance. Non-financial losses cover?”, Revista da Faculdade de Direito da Universidade de Lisboa, ano LXI, 2020, p. 298.
 
-<sup>39</sup> O citado art. 13.º, relativo ao seguro do praticante profissional, dispunha que “O seguro desportivo em favor do praticante profissional tem natureza complementar relativamente ao seguro de acidentes de trabalho”, preceito esse que foi revogado pela [Lei n.º 27/2011](https://diariodarepublica.pt/dr/detalhe/lei/27-2011-669999), de 16.06, que aprovou o regime relativo à reparação dos danos emergentes de acidentes de trabalho dos praticantes desportivos profissionais e revogou a anterior [Lei n.º 8/2003](https://diariodarepublica.pt/dr/detalhe/lei/8-2003-581670), de 12 de Maio.
+39 O citado art. 13.º, relativo ao seguro do praticante profissional, dispunha que “O seguro desportivo em favor do praticante profissional tem natureza complementar relativamente ao seguro de acidentes de trabalho”, preceito esse que foi revogado pela [Lei n.º 27/2011](https://diariodarepublica.pt/dr/detalhe/lei/27-2011-669999), de 16.06, que aprovou o regime relativo à reparação dos danos emergentes de acidentes de trabalho dos praticantes desportivos profissionais e revogou a anterior [Lei n.º 8/2003](https://diariodarepublica.pt/dr/detalhe/lei/8-2003-581670), de 12 de Maio.
 
-<sup>40</sup> Francisco Rodrigues Rocha, “Seguro desportivo. Cobertura de danos não patrimoniais? Sports insurance. Non-financial losses cover?”, Revista da Faculdade de Direito da Universidade de Lisboa, ano LXI, 2020, p. 303.
+40 Francisco Rodrigues Rocha, “Seguro desportivo. Cobertura de danos não patrimoniais? Sports insurance. Non-financial losses cover?”, Revista da Faculdade de Direito da Universidade de Lisboa, ano LXI, 2020, p. 303.
 
-<sup>41</sup> A expressão é de José de Oliveira Ascensão, O Direito - Introdução e Teoria Geral, 13.ª Edição, Coimbra, Almedina, 2020.p. 414.
+41 A expressão é de José de Oliveira Ascensão, O Direito - Introdução e Teoria Geral, 13.ª Edição, Coimbra, Almedina, 2020.p. 414.
 
-<sup>42</sup> José de Oliveira Ascensão, O Direito - Introdução e Teoria Geral, 13.ª Edição, Coimbra, Almedina, 2020, p. 409.
+42 José de Oliveira Ascensão, O Direito - Introdução e Teoria Geral, 13.ª Edição, Coimbra, Almedina, 2020, p. 409.
 
-<sup>43</sup> José de Oliveira Ascensão, O Direito - Introdução e Teoria Geral, 13.ª Edição, Coimbra, Almedina, 2020, p. 410.
+43 José de Oliveira Ascensão, O Direito - Introdução e Teoria Geral, 13.ª Edição, Coimbra, Almedina, 2020, p. 410.
 
-<sup>44</sup> Noções Fundamentais de Direito Civil, Volume I, 6.ª Edição revista e ampliada (reimpressão), Coimbra, 1973, p. 166.
+44 Noções Fundamentais de Direito Civil, Volume I, 6.ª Edição revista e ampliada (reimpressão), Coimbra, 1973, p. 166.
 
-<sup>45</sup> Processo n.º 654/16.6T8ABT.E1.S1, disponível em https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/c2fc90ada0263e22802584ab005d6442
+45 Processo n.º 654/16.6T8ABT.E1.S1, disponível em https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/c2fc90ada0263e22802584ab005d6442
 
-<sup>46</sup> J. J. Gomes Canotilho, Direito Constitucional e Teoria da Constituição, 7.º edição, Coimbra, Almedina, p. 426.
+46 J. J. Gomes Canotilho, Direito Constitucional e Teoria da Constituição, 7.º edição, Coimbra, Almedina, p. 426.
 
-<sup>47</sup> No RJSDO prevê-se, na alínea e) do art. 16.º, o pagamento das despesas de tratamento e repatriamento até limite dele constante, atualizável nos termos do art. 18.º
+47 No RJSDO prevê-se, na alínea e) do art. 16.º, o pagamento das despesas de tratamento e repatriamento até limite dele constante, atualizável nos termos do art. 18.º
 
-<sup>48</sup> E já assim era no domínio da [Lei 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536), de 03.08.65 (cf. Bases IX, XVI e XVII) e da [Lei n.º 100/97](https://diariodarepublica.pt/dr/detalhe/lei/100-1997-648882), de 13.09 (cf. arts. 10.º, 17.º e 18.º), diplomas que precederam a [Lei n.º 98/2009](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505).
+48 E já assim era no domínio da [Lei 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536), de 03.08.65 (cf. Bases IX, XVI e XVII) e da [Lei n.º 100/97](https://diariodarepublica.pt/dr/detalhe/lei/100-1997-648882), de 13.09 (cf. arts. 10.º, 17.º e 18.º), diplomas que precederam a [Lei n.º 98/2009](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505).
 
-<sup>49</sup> Por regra um contrato de trabalho, mas sem prejuízo das demais situações equiparadas previstas na citada [Lei n.º 98/2009](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505) (cf. art. 3.º, n.º 3).
+49 Por regra um contrato de trabalho, mas sem prejuízo das demais situações equiparadas previstas na citada [Lei n.º 98/2009](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505) (cf. art. 3.º, n.º 3).
 
-<sup>50</sup> Assim contemplando, parcialmente, a perda do rendimento futuro.
+50 Assim contemplando, parcialmente, a perda do rendimento futuro.
 
-<sup>51</sup> E, isso, sem prejuízo das garantias previstas nas als. b) e e) do art. 16.º do RJSDO, relativas a despesas de funeral, de tratamento e de repatriamento.
+51 E, isso, sem prejuízo das garantias previstas nas als. b) e e) do art. 16.º do RJSDO, relativas a despesas de funeral, de tratamento e de repatriamento.
 
-<sup>52</sup> In “Seguro Desportivo. Cobertura de danos não patrimoniais?”, ob. cit., pp. 311 a 314.
+52 In “Seguro Desportivo. Cobertura de danos não patrimoniais?”, ob. cit., pp. 311 a 314.
 
-<sup>53</sup> O qual, relembrando, dispõe que: “1. O seguro desportivo cobre os riscos de acidentes pessoais inerentes à respectiva actividade desportiva, nomeadamente os que decorrem dos treinos, das provas desportivas e respectivas deslocações, dentro e fora do território português. 2. As coberturas mínimas abrangidas pelo seguro desportivo são as seguintes: a) Pagamento de um capital por morte ou invalidez permanente, total ou parcial, por acidente decorrente da actividade desportiva; [...]”
+53 O qual, relembrando, dispõe que: “1. O seguro desportivo cobre os riscos de acidentes pessoais inerentes à respectiva actividade desportiva, nomeadamente os que decorrem dos treinos, das provas desportivas e respectivas deslocações, dentro e fora do território português. 2. As coberturas mínimas abrangidas pelo seguro desportivo são as seguintes: a) Pagamento de um capital por morte ou invalidez permanente, total ou parcial, por acidente decorrente da actividade desportiva; [...]”
 
-<sup>54</sup> Processo n.º 1751/14.8TBVCD.P1.S1, disponível em https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/38772505767ab0c3802583f5005910ba?OpenDocument
+54 Processo n.º 1751/14.8TBVCD.P1.S1, disponível em https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/38772505767ab0c3802583f5005910ba?OpenDocument
 
-<sup>55</sup> Processo n.º 1311/11.5TJVNF.G1.S1, disponível em https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/86f72ef448890b838025802c003c4b79?OpenDocument
+55 Processo n.º 1311/11.5TJVNF.G1.S1, disponível em https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/86f72ef448890b838025802c003c4b79?OpenDocument
 
-<sup>56</sup> Processo n.º 654/16.6T8ABT.E1.S1, consultável em https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/c2fc90ada0263e22802584ab005d6442?OpenDocument
+56 Processo n.º 654/16.6T8ABT.E1.S1, consultável em https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/c2fc90ada0263e22802584ab005d6442?OpenDocument
 
-<sup>57</sup> Francisco Rodrigues Rocha, “Seguro desportivo. Cobertura de danos não patrimoniais? Sports insurance. Non-financial losses cover?”, Revista da Faculdade de Direito da Universidade de Lisboa, ano LXI, 2020, pp. 307-308.
+57 Francisco Rodrigues Rocha, “Seguro desportivo. Cobertura de danos não patrimoniais? Sports insurance. Non-financial losses cover?”, Revista da Faculdade de Direito da Universidade de Lisboa, ano LXI, 2020, pp. 307-308.
 
-<sup>58</sup> Processo n.º 654/16.6T8ABT.E1.S1, disponível em https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/c2fc90ada0263e22802584ab005d6442
+58 Processo n.º 654/16.6T8ABT.E1.S1, disponível em https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/c2fc90ada0263e22802584ab005d6442
 
 Lisboa, 19.03.2025. - Paula Leal de Carvalho (relatora) - Henrique Antunes - Anabela Luna de Carvalho - Orlando Nascimento - Cristina Coelho - Rui Machado e Moura - Carlos Portela - Arlindo Oliveira - António Pires Robalo - Mário Belo Morgado - Júlio Gomes - Maria da Graça Trigo - Graça Amaral - Maria Olinda Garcia - António Oliveira Abreu - António Moura de Magalhães - José Maria Ferreira Lopes - António Barateiro Martins - Fernando Baptista - Luís Espírito Santo - Ana Paula Lobo - Domingos Morais - Jorge Leal - José Eduardo Miranda Santos Sapateiro - Emidio Santos - Nelson Borges Carneiro - Luis Fernando dos Santos Correia de Mendonça - Maria do Rosário Gonçalves - Maria de Deus Simão da Cruz Silva Damasceno, vencida pelos motivos do acórdão fundamento - Maria Teresa Albuquerque, votei vencida consoante posição do acórdão fundamento - Maria dos Prazeres Pizarro Beleza - vencida, conforme posição do acórdão de 9 de Maio 2019 (proc. 1751/14.8TBVCD.P1.S1) - Mara Clara Sottomayor, vencida de acordo com declaração que junto - Fátima Gomes, vencida conforme posição do acórdão fundamento - Maria João Vaz Tomé, vencida conforme declaração de voto - Nuno Manuel Pinto Oliveira - vencido, pelas razões deduzidas na fundamentação do acórdão de 9 de Maio de 2019 - processo 1751/14, de que fui relator - Ricardo Costa - votei vencido, subscrevendo as declarações de voto das conselheiras Maria Clara Sottomayor e Maria João Vaz Tomé, na linha do acórdão fundamento.
 
@@ -1028,7 +1116,7 @@ Vencida quanto ao segmento uniformizador e quanto à decisão do acórdão recor
 
 Tendo já aposto ao acórdão recorrido, como Adjunta, um voto de vencida, continuo a manter posição coincidente com a do acórdão fundamento, pelos seguintes motivos:
 
-1 - Relativamente ao contrato de seguro desportivo obrigatório, defendo que se trata de um contrato de natureza híbrida que contém regras dos seguros de pessoas e dos seguros indemnizatórios, figuras mistas que aliás são admitidas pelo artigo 175.º, n.º 2, da LCS, quando afirma no n.º 2, que «O contrato se seguro de pessoas pode garantir prestações de valor predeterminado mão dependente do efetivo montante do dano e prestações de natureza indemnizatória». É de destacar, a este propósito, que é o próprio Preâmbulo da Lei que refere a expressão“ressarcimento” («É certo que um sistema de seguros não evita o risco, mas previne o perigo de as vítimas não obterem o ressarcimento»), atribuindo-lhe uma função indemnizatória e que o contrato de seguro dos autos, conforme ilustra a matéria de facto (factos provados n.<sup>os</sup>30 e 31), nos artigos 2.º e 3.º, n.º 2.5 das Condições Gerais da apólice de seguro utiliza a expressão “pagamento das indemnizações” e “indemnizações”, não sendo portanto correto, na minha perspetiva, excluir a dimensão indemnizatória das quantias a pagar pela seguradora ao lesado, a título de incapacidade ou invalidez permanente parcial ou total, como sustenta o presente Acórdão Uniformizador.
+1 - Relativamente ao contrato de seguro desportivo obrigatório, defendo que se trata de um contrato de natureza híbrida que contém regras dos seguros de pessoas e dos seguros indemnizatórios, figuras mistas que aliás são admitidas pelo artigo 175.º, n.º 2, da LCS, quando afirma no n.º 2, que «O contrato se seguro de pessoas pode garantir prestações de valor predeterminado mão dependente do efetivo montante do dano e prestações de natureza indemnizatória». É de destacar, a este propósito, que é o próprio Preâmbulo da Lei que refere a expressão“ressarcimento” («É certo que um sistema de seguros não evita o risco, mas previne o perigo de as vítimas não obterem o ressarcimento»), atribuindo-lhe uma função indemnizatória e que o contrato de seguro dos autos, conforme ilustra a matéria de facto (factos provados n.os30 e 31), nos artigos 2.º e 3.º, n.º 2.5 das Condições Gerais da apólice de seguro utiliza a expressão “pagamento das indemnizações” e “indemnizações”, não sendo portanto correto, na minha perspetiva, excluir a dimensão indemnizatória das quantias a pagar pela seguradora ao lesado, a título de incapacidade ou invalidez permanente parcial ou total, como sustenta o presente Acórdão Uniformizador.
 
 2 - Em reforço desta tese, não posso deixar de referir o diploma das cláusulas contratuais gerais ([DL n.º 446/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1985-177869), de 25-10) que estabelece uma regra de interpretação das cláusulas ambíguas, de acordo com o sentido mais favorável ao aderente (artigo 11.º, n.º 2, do [DL n.º 446/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1985-177869), 25-10). É o próprio legislador que reconhece que os aderentes beneficiam de uma liberdade contratual meramente formal e não têm poder de negociar previamente as cláusulas do contrato que são fixadas unilateralmente pelo predisponente (in casu, a seguradora), estipulando por isso um conjunto de normas de proteção a favor da parte mais fraca. Ora, no presente caso, o contrato de seguro foi celebrado de acordo com a técnica das cláusulas contratuais gerais, beneficiando o segurado, em relação a cláusulas ambíguas, do sentido mais favorável aos seus interesses, que claramente será o da natureza indemnizatória das prestações a pagar pela seguradora centradas no dano efetivo, seja patrimonial, seja não patrimonial.
 
@@ -1038,7 +1126,7 @@ Tendo já aposto ao acórdão recorrido, como Adjunta, um voto de vencida, conti
 
 5 - Acresce que nada justifica a exclusão da compensação por danos não patrimoniais, que sempre poderia ser graduada, de acordo com o prudente arbítrio do juiz, de forma proporcional ao capital mínimo obrigatório. Imaginemos um jovem estudante que na sequência de acidente desportivo apresenta um grau de incapacidade baixo, mas que ficou com uma cicatriz no rosto. Não poderá ser reparado por este dano estético que afetará a sua auto-estima para o resto da vida? Em que é que o princípio da igualdade pode servir de justificação para a exclusão de qualquer compensação por este dano?
 
-6 - Reportando-me ao caso concreto - um jovem de 21 anos que ficou com uma limitação física no joelho, foi sujeito a uma intervenção cirúrgica, teve de andar de canadianas entre 6 a 8 meses, perdendo a sua liberdade de locomoção numa idade em que ela é tão importante, sofreu dores e ficou com quatro cicatrizes lineares no joelho, sentido tristeza e angústia (factos provados n.<sup>os</sup>2, 14, 22 a 26) - pergunto: que dimensão do princípio da igualdade ou que preceito legislativo ou cláusula contratual impedem uma compensação, proporcional ao capital obrigatório, por estes danos não patrimoniais? Considero que nenhuma norma o impõe. O artigo 5.º do [Decreto-Lei n.º 10/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2009-397323), de 12 de janeiro, deixa margem ao intérprete para incluir na cobertura por invalidez permanente parcial uma compensação pelos danos não patrimoniais. Se o legislador, tendo podido fazê-lo, como fez noutros locais, não estipulou esta exclusão, nem distinguiu os danos patrimoniais dos danos não patrimoniais, não deve ser o intérprete fazê-lo. Aliás, a fronteira entre danos patrimoniais e não patrimoniais é ténue, não sendo os dois conceitos compartimentos estanques.
+6 - Reportando-me ao caso concreto - um jovem de 21 anos que ficou com uma limitação física no joelho, foi sujeito a uma intervenção cirúrgica, teve de andar de canadianas entre 6 a 8 meses, perdendo a sua liberdade de locomoção numa idade em que ela é tão importante, sofreu dores e ficou com quatro cicatrizes lineares no joelho, sentido tristeza e angústia (factos provados n.os2, 14, 22 a 26) - pergunto: que dimensão do princípio da igualdade ou que preceito legislativo ou cláusula contratual impedem uma compensação, proporcional ao capital obrigatório, por estes danos não patrimoniais? Considero que nenhuma norma o impõe. O artigo 5.º do [Decreto-Lei n.º 10/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2009-397323), de 12 de janeiro, deixa margem ao intérprete para incluir na cobertura por invalidez permanente parcial uma compensação pelos danos não patrimoniais. Se o legislador, tendo podido fazê-lo, como fez noutros locais, não estipulou esta exclusão, nem distinguiu os danos patrimoniais dos danos não patrimoniais, não deve ser o intérprete fazê-lo. Aliás, a fronteira entre danos patrimoniais e não patrimoniais é ténue, não sendo os dois conceitos compartimentos estanques.
 
 7 - Afigura-se-me, assim, que a interpretação normativa aplicada pelo acórdão recorrido, que exclui toda e qualquer compensação por danos não patrimoniais ou sequer a possibilidade de ponderação destes danos, não decorre da lei e restringe indevidamente a liberdade do julgador nesta matéria, violando normas e princípios constitucionais (artigo 70, n.º 1, do Código Civil e artigos 1.º, 25.º, 26.º e 18.º, n.º 2, todos da CRP).
 
@@ -1085,3 +1173,5 @@ Com o devido respeito, votei vencida pelas razões mencionadas no acórdão-fund
 - acolheria o segmento uniformizador preconizado pelo Ex.mo Senhor Procurador Geral Adjunto, junto do Supremo Tribunal de Justiça: “Em caso de acidente desportivo e face ao disposto no artigo 16.º, alínea d) da Lei de Seguro Desportivo - [Decreto-Lei n.º 10/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2009-397323), de 12/01, a indemnização estabelecida para a invalidez permanente parcial deve ser calculada em função de todos os danos patrimoniais e não patrimoniais sofridos até ao limite do capital garantido.”; - e revogaria o acórdão recorrido.
 
 Maria João Vaz Tomé
+
+119032402

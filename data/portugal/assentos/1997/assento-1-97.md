@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/asst/1/1997/10/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/assento/1-1997-668108
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-11-14T00:00:00Z'
+  retrieved_at: '2026-10-22T18:28:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c82f2cebffe673454797a2d2fd9523030dab4766929d527cc750bc369d70765
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4411f3037c5d69bfd7c05f2cf1a931f6df9ba32e4cf330464155d7b2fd588924
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:28:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,38 +68,67 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Crime
-- Processo Penal
 - Código de Processo Penal
+- Crime
 - Definição de Competências
+- Direito Penal
+- Direitos do Indivíduo
 - Direitos e Liberdades
+- Execução de Sentença
 - Fiscalização
 - Instrução Processual
 - Interpretação do Direito
 - Julgamento
-- Direitos do Indivíduo
 - Magistrado Judicial
-- Execução de Sentença
-- Sanção Penal
 - Processo Judicial
-- Direito Penal
+- Processo Penal
+- Recurso
+- Sanção Penal
 - Tribunal Judicial
 relationships:
 - type: amended_by
   target: pt:dre:406489:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:2289602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547057:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:406489:por
+  label: "Rectificado pela DECL-RECT.21/97.1997.11.14.STJ, DR.IS-A [275] de 1997.11.27\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/21-1997-406489
+  date: '1997-11-14'
 article_structure:
-  article_count: 17
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:28:09Z'
   warnings: []
   errors: []
 ---
@@ -322,63 +351,63 @@ c) Houver declaração de contumácia, nos termos do artigo 336.º, n.º 2.
 
 3 - O requerimento referido no princípio do número anterior tem lugar nos cinco dias posteriores à notificação do despacho que tiver admitido a intervenção do júri.
 
-###### Artigo 40.º
+Artigo 40.º
 
 Nenhum juiz pode intervir em recurso ou pedido de revisão relativo a uma decisão que tiver proferido ou em que tiver participado, ou no julgamento de um processo a cujo debate instrutório tiver presidido.
 
-###### Artigo 286.º
+Artigo 286.º
 
 1 - A instrução visa a comprovação judicial da decisão de deduzir acusação ou de arquivar o inquérito em ordem a submeter ou não a causa a julgamento.
 
 2 - A instrução tem carácter facultativo e não pode ter lugar nas formas de processo especiais.
 
-###### Artigo 287.º
+Artigo 287.º
 
 ...
 
 3 - O requerimento [para abertura da instrução] não está sujeito a formalidades especiais, mas deve conter, em súmula, as razões de facto e de direito, de discordância relativamente à acusação ou não acusação, bem como, sempre que disso for caso, a indicação dos actos de instrução que o requerente desejaria que o juiz levasse a cabo, dos meios de prova que não tenham sido considerados no inquérito e dos factos que, através de uns e de outros, se espera provar.
 
-###### Artigo 288.º
+Artigo 288.º
 
 ...
 
 4 - O juiz investiga autonomamente o caso submetido a instrução, tendo em conta a indicação, constante do requerimento da abertura de instrução, a que se refere a parte final do n.º 3 do artigo anterior.
 
-###### Artigo 291.º
+Artigo 291.º
 
 ...
 
 2 - Os actos e diligências de prova praticados no inquérito só são repetidos no caso de não terem sido observadas as formalidades legais ou quando a repetição se revelar indispensável à realização das finalidades da instrução.
 
-###### Artigo 298.º
+Artigo 298.º
 
 O debate instrutório visa permitir uma discussão perante o juiz, por forma oral e contraditória, sobre se, do decurso do inquérito e da instrução, resultam indícios de facto e elementos de direito suficientes para justificar a submissão do arguido a julgamento.
 
-###### Artigo 303.º
+Artigo 303.º
 
 1 - Se dos actos de instrução ou do debate instrutório resultar alteração dos factos descritos na acusação do Ministério Público ou do assistente, ou no requerimento para abertura da instrução, o juiz, oficiosamente ou a requerimento, comunica a alteração ao defensor, interroga o arguido sobre ela sempre que possível e concede-lhe, a requerimento, um prazo para preparação da defesa não superior a cinco dias, com o consequente adiamento do debate, se necessário.
 
 ...
 
-###### Artigo 304.º
+Artigo 304.º
 
 1 - Ao debate instrutório é correspondentemente aplicável o disposto no artigo 328.º, n.os 1 e 2.
 
 ...
 
-###### Artigo 308.º
+Artigo 308.º
 
 1 - Se, até ao encerramento da instrução, tiverem sido recolhidos indícios suficientes de se terem verificado os pressupostos de que depende a aplicação ao arguido de uma pena ou de uma medida de segurança, o juiz, por despacho, pronuncia o arguido pelos factos respectivos; caso contrário, profere despacho de não pronúncia.
 
 2 - É correspondentemente aplicável ao despacho referido no número anterior o disposto no artigo 283.º, n.os 2, 3 e 4, sem prejuízo do disposto na segunda parte do n.º 1 do artigo anterior [equivalência da leitura do despacho pelo juiz à notificação dos presentes].
 
-###### Artigo 309.º
+Artigo 309.º
 
 1 - A decisão instrutória é nula na parte em que pronunciar o arguido por factos que constituam alteração substancial dos descritos na acusação do Ministério Público ou do assistente ou no requerimento para abertura da instrução.
 
 2 - A nulidade é arguida no prazo de cinco dias contados desde a data da notificação da decisão.
 
-###### Artigo 311.º
+Artigo 311.º
 
 ...
 
@@ -388,7 +417,7 @@ a) De rejeitar a acusação, se a considerar manifestamente infundada;
 
 b) De não aceitar a acusação do assistente na parte em que ela representa uma alteração substancial da acusação do Ministério Público, nos termos do artigo 284.º, n.º 1.
 
-###### Artigo 313.º
+Artigo 313.º
 
 1 - O despacho que designa dia para a audiência contém, sob pena de nulidade:
 
@@ -396,19 +425,19 @@ a) A indicação dos factos e disposições legais aplicáveis, o que pode ser f
 
 ...
 
-###### Artigo 358.º
+Artigo 358.º
 
 1 - Se no decurso da audiência se verificar uma alteração não substancial dos factos descritos na acusação ou na pronúncia, se a houver, com relevo para a divisão da causa, o presidente, oficiosamente ou a requerimento, comunica a alteração ao arguido e concede-lhe, se ele o requerer, o tempo estritamente necessário para a preparação da defesa.
 
 2 - Ressalva-se do disposto no número anterior o caso de a alteração ter derivado de factos alegados pela defesa.
 
-###### Artigo 359.º
+Artigo 359.º
 
 1 - Uma alteração substancial dos factos descritos na acusação ou na pronúncia, se a houver, não pode ser tomada em conta pelo tribunal para o efeito de condenação no processo em curso; mas a comunicação da alteração ao Ministério Público vale como denúncia para que ele proceda pelos novos factos.
 
 ...
 
-###### Artigo 379.º
+Artigo 379.º
 
 É nula a sentença:
 
@@ -418,7 +447,7 @@ b) Que condenar por factos diversos dos descritos na acusação ou na pronúncia
 
 ...
 
-###### Artigo 403.º
+Artigo 403.º
 
 1 - É admissível a limitação do recurso a uma parte da decisão quando a parte recorrida puder ser separada da parte não recorrida, por forma a tornar possível uma apreciação e uma decisão autónomas.
 
@@ -434,7 +463,7 @@ d) Dentro da questão da determinação da sanção, a cada uma das penas ou med
 
 3 - A limitação do recurso a uma parte da decisão não prejudica o dever de retirar da procedência daquele as consequências legalmente impostas relativamente a toda a decisão recorrida.
 
-###### Artigo 434.º
+Artigo 434.º
 
 1 - No requerimento de interposição do recurso, o recorrente pode requerer que as alegações sejam produzidas por escrito.
 

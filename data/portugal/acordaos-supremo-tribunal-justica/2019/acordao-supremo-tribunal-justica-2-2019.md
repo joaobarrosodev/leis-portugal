@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/05/09500/0249702507.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/2/2019/05/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/2-2019-122332763
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-17T00:00:00Z'
+  retrieved_at: '2026-10-22T17:54:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d94e448b212fb1ab21604ef0f6c820e546cd9bd791c5fbf8555b5e418565f2c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d2a5282466bede1be612de94be54a54f3e01748aeef34a965e2c3ae3641bdb1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:54:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -112,16 +112,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/654/2010/08/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/654/2010/08/11/p/dre
+- type: cites
+  target: pt:dre:145010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641076:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:122419062:por
+  label: Retificado e republicado o presente Acórdão do Supremo Tribunal de Justiça, pelo(a) Declaração de Retificação n.º
+    24/2019 - Diário da República n.º 102/2019, Série I de 2019-05-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/24-2019-122419062
+  date: '2019-05-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:54:14Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +204,9 @@ C.
 
 Que de resto, haverá que ser conjugada, com o art.º. 2.º, da portaria em apreço, em que se verifica a existência de uma norma revogatória, do seguinte teor:
 
-###### Artigo 2.º — Norma revogatória
+Artigo 2.º
+
+Norma revogatória
 
 São revogadas as seguintes disposições:
 
@@ -525,3 +573,5 @@ Num e noutro caso, não estamos perante a satisfação das «mesmas necessidade�
 Caso diferente é o de ter lugar uma sessão na manhã de um dia e na tarde do dia seguinte, caso considerado no texto, mas aí estamos face a prestações em dias diversos, a implicar necessidade de deslocação.
 
 O critério que determine que apenas deve ser contabilizada como uma sessão aquela que decorre em período da manhã e da tarde do mesmo dia, «corresponde a uma possibilidade de conformação do interesse público - neste caso, a gestão eficiente das verbas ou recursos públicos». - Raul Borges.
+
+112282316

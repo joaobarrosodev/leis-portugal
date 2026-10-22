@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/9/2006/02/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-2006-551868
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-06T00:00:00Z'
+  retrieved_at: '2026-10-22T19:07:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c0573dca3816fe8b5ccf0c27369fa5c5321dc165e9506728827760d0e7c3b9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f9ade5d203446739bdc88bb63b66f1c6d9f4a2f2ae397922c3d5faffff14ac0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:07:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
+- Açores
 - Cidadão Estrangeiro
 - Diploma
+- Direcção Geral de Inovação e Desenvolvimento Curricular
+- Ensino Básico
 - Ensino Oficial
 - Ensino Particular
 - Equivalência de Habilitações Literárias
-- Direcção Geral de Inovação e Desenvolvimento Curricular
 - Estabelecimento de Ensino
-- Ensino Básico
 - Madeira.região Autónoma
-- Açores
+- Região Autónoma
 - Sistema Educativo
 relationships:
 - type: cites
@@ -88,16 +88,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/227/2005/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/227/2005/12/28/p/dre
+- type: cites
+  target: pt:dre:469001:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:227/2005
+  label: "Rectifica e republica os anexos I e II do Decreto-Lei n.º 227/2005, de 28 de Dezembro, DR.IS-A [248]\0]\0"
+  source: null
+  date: '2005-12-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:07:15Z'
   warnings: []
   errors: []
 ---
@@ -106,10 +115,10 @@ validation:
 
 Para os devidos feitos se declara que os anexos I e II do [Decreto-Lei n.º 227/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-2005-469001), publicado no Diário da República, 1.ª série, n.º 248, de 28 de Dezembro de 2005, cujo original se encontra arquivado nesta Secretaria-Geral, saíram com inexactidões, pelo que se procede à sua republicação:
 
-## ANEXO I — [(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2006/02/026a00/08570857.pdf)
+## ANEXO I — [[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2006/02/026a00/08570857.pdf)](https://files.diariodarepublica.pt/1s/2006/02/026a00/08570857.pdf)
 
 ## ANEXO II — CERTIFICADO
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2006/02/026a00/08570857.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2006/02/026a00/08570857.pdf)](https://files.diariodarepublica.pt/1s/2006/02/026a00/08570857.pdf)
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 23 de Janeiro de 2006. - O Secretário-Geral, José M. Sousa Rego

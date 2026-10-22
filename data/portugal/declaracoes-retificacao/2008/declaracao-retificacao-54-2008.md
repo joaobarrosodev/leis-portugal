@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/54/2008/10/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/54-2008-452960
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-01T00:00:00Z'
+  retrieved_at: '2026-10-22T19:10:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a43c32989d80f306c9728c34f1fc5872fcc3f6ac27e2a487956b6b784a50ecc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07685e509a16dcb3179a2009546e8d6c2c1ac9609ba10ddfcd8a97c2d7869d9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:10:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
+- Base de Dados
 - Cartão de Cidadão
 - Comissão Recenseadora
-- Recenseamento Eleitoral
-- Base de Dados
-- Segurança da Informação
-- Direcção Geral de Administração Interna
-- Sistema de Informação
 - Confidencialidade
+- Direcção Geral de Administração Interna
+- Modernização Administrativa
 - Recenseamento
+- Recenseamento Eleitoral
 - Regime Jurídico
+- Segurança da Informação
+- Sistema de Informação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/13/1999/03/22/p/dre
@@ -87,16 +87,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/47/2008/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/47/2008/08/27/p/dre
+- type: cites
+  target: pt:dre:150518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453269:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:lei:47/2008
+  label: "Rectifica a Lei n.º 47/2008, de 27 de Agosto, DR.IS [165] \0 \0"
+  source: null
+  date: '2008-08-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:10:27Z'
   warnings: []
   errors: []
 ---

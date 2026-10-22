@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/56/2009/08/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/56-2009-493035
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-03T00:00:00Z'
+  retrieved_at: '2026-10-22T19:11:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64e4948774c037cdc47461b55a7309e54b616fed89b0fd15f08ca099eb20b32a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a129c0639f56b02e41404a5f24b14050b7cc75d0f94ddd317dd8ffb6217110d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:11:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- BENS Imóveis
-- Processo Penal
 - BEM Móvel
 - BENS Corpóreos
+- BENS Imóveis
+- Processo Penal
+- Propriedade de BENS
 - Prova
 - Regime Jurídico
-- Propriedade de BENS
 relationships:
 - type: cites
   target: celex:32003D0577
@@ -83,16 +83,23 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/25/2009/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/25/2009/06/05/p/dre
+- type: corrects
+  target: pt:numero:lei:25/2009
+  label: "Rectifica o proémio e as alíneas a), d), e), f), h), i), j), m), n), o), p), s), v), x), aa), bb), cc), dd), ee),\
+    \ ff), gg) hh) e ii) (atribuindo novas alíneas às últimas 8) do n.º 1 do artigo 3.º, e o Anexo da Lei n.º 25/2009, de\
+    \ 5 de Junho, DR.IS [109) \0 \0"
+  source: null
+  date: '2009-06-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:11:44Z'
   warnings: []
   errors: []
 ---
@@ -233,12 +240,12 @@ No anexo, onde se lê:
 
 ## ANEXO — Certidão a que se refere o artigo 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/14800/0498304985.pdf))](https://files.diariodarepublica.pt/1s/2009/08/14800/0498304985.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/14800/0498304985.pdf)
 
 deve ler-se:
 
 ## ANEXO — Certidão a que se refere o artigo 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/14800/0498304985.pdf))](https://files.diariodarepublica.pt/1s/2009/08/14800/0498304985.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/14800/0498304985.pdf)
 
 Assembleia da República, 28 de Julho de 2009. - Pela Secretária-Geral, a Adjunta, Teresa Xardoné.

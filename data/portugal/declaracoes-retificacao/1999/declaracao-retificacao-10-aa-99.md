@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 101/1999, 2º Suplemento, Série I-B de 1999-04-30
   number: '101'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2342-(11) a 2342-(61)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/10-aa/1999/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-aa-1999-408908
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:52:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d41cd8fe8305376e20281a22a07cdc9a86c93ff407f16ed61155b7c7e9928f33
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e770cf7d0db26169d5c68de3045cbd20a745d5bec4334f34befd70d3bad5d58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:52:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Autoridade Florestal Nacional
 - Definição de Competências
 - Direcção Geral das Florestas
-- Proteção da Floresta
 - Diversidade Biológica
-- Plano de Desenvolvimento
 - Exploração Florestal
-- Autoridade Florestal Nacional
-- Recursos Naturais
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Plano de Desenvolvimento
 - Política Florestal
+- Proteção da Floresta
+- Recursos Naturais
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/256/1997/09/27/p/dre
@@ -98,16 +98,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/27/1999/04/08/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/27/1999/04/08/p/dre
+- type: cites
+  target: pt:dre:218485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691046:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:52:32Z'
   warnings: []
   errors: []
 ---
@@ -228,7 +252,7 @@ QUADRO N.º 1
 
 Empresas e emprego na indústria florestal no continente em 1993-1995 (ver nota 2)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)
 
 (nota 2) CESE, 1995.
 
@@ -254,13 +278,13 @@ QUADRO N.º 2
 
 Evolução da ocupação florestal em Portugal continental
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)
 
 FIGURA N.º 1
 
 Evolução da ocupação florestal em Portugal continental
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)
+[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)
 
 Do ponto de vista da evolução da ocupação florestal portuguesa, são de destacar:
 
@@ -288,7 +312,7 @@ QUADRO N.º 3
 
 Incêndios florestais em Portugal em 1988-1997 (ver nota 9)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)
 
 (nota 9) Direcção-Geral das Florestas.
 
@@ -432,7 +456,7 @@ QUADRO N.º 4
 
 Áreas submetidas a planos específicos de caça (ver nota 12)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)
 
 (nota 12) DGF (1998).
 
@@ -440,7 +464,7 @@ FIGURA N.º 2
 
 Áreas cinegéticas com plano específico de gestão
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)
+[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)
 
 2.2.3 - Princípios gerais de política cinegética
 
@@ -516,7 +540,7 @@ FIGURA N.º 3
 
 Evolução do número de licenças de pesca desportiva - 1980-1995
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)
+[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)
 
 FIGURA N.º 4
 
@@ -524,7 +548,7 @@ Pisciculturas
 
 Comparação entre a produção em projecto e a produção real em 1996
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)
+[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)
 
 No que se refere à pesca comercial, esta actividade perdeu o seu carácter de subsistência, sendo actualmente uma actividade com grande impacte sócio-económico pelos elevados valores que atingem as espécies mais procuradas pelo cada vez maior número de pessoas dispostas a pagar qualquer preço para ter acesso a produtos de elevado interesse gastronómico. O decréscimo de importância em termos do número de pescadores profissionais reflecte, em particular, a redução dos efectivos das espécies mais procuradas e de maior valor económico, redução esta causada por diversos factores, a maior parte deles exteriores à própria actividade da pesca.
 
@@ -722,7 +746,7 @@ Definem-se assim como grandes orientações estratégicas e respectivos objectiv
 
 4.2 - Operacionalização do Plano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)
 
 4.3 - Instrumentos base para o desenvolvimento do Plano
 
@@ -784,7 +808,7 @@ O Código do Imposto sobre o Valor Acrescentado estipula que os produtos florest
 
 Da análise acima resultam que os principais incentivos fiscais deveriam ser os constantes do quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)](https://files.diariodarepublica.pt/1s/1999/04/101b02/00110061.pdf)
 
 4.3.2.2 - Incentivos financeiros
 
@@ -968,9 +992,9 @@ Um forte incremento da cooperação científica ao nível internacional.
 
 Naturalmente, tal desígnio pressupõe a adopção ou criação de instrumentos específicos de política, como sejam:
 
-PNIF, elaborado com a participação obrigatória dos diversos agentes sectoriais e das instituições de I&DE;
+PNIF, elaborado com a participação obrigatória dos diversos agentes sectoriais e das instituições de I&DE
 
-Sistema de incentivos para as acções de investigação, favorecendo as resultantes de parcerias entre os agentes sectoriais e as instituições de I&DE;
+Sistema de incentivos para as acções de investigação, favorecendo as resultantes de parcerias entre os agentes sectoriais e as instituições de I&DE
 
 Sistema de apoios às associações sectoriais para a divulgação e vulgarização dos resultados de I&DE.
 

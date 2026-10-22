@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/18200/0824508279.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/403/2015/09/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/403-2015-70300353
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-17T00:00:00Z'
+  retrieved_at: '2026-10-22T18:24:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a2efddfd6d608577ee418a326400b778d049e60ec34436afffe75df3f1029d40
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e20ff7423ceb6590990f8996d67223848bdcd8fb03f4ce1ca1b34d39b9fdb11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:24:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assembleia da República
 - Carta dos Direitos Fundamentais da União Europeia
 - Cidadão Estrangeiro
 - Cidadão Nacional
 - Combate ao Terrorismo
 - Comissão Nacional de Protecção de Dados
-- REDE Pública de Telecomunicações
+- Comunicações
 - Comunicações Eletrónicas
 - Comunicações Nacionais
+- Constituição
+- Dados Pessoais
 - Direito dos Cidadãos
 - Direitos e Liberdades
-- União Europeia
-- Segurança Pública
 - Fiscalização
 - Inconstitucionalidade
 - Iniciativa Legislativa
-- Tribunal Constitucional
 - Jurisprudencia
-- Constituição
-- Assembleia da República
-- Comunicações
+- REDE Pública de Telecomunicações
 - Regime Jurídico
-- Sistema de Informações da República Portuguesa
+- Segurança Pública
 - Serviço de Informações de Segurança
 - Serviço de Informações Estratégicas de Defesa
 - Sigilo Bancário
-- Dados Pessoais
+- Sistema de Informações da República Portuguesa
+- Tribunal Constitucional
+- União Europeia
 relationships:
 - type: cites
   target: celex:31995L0046
@@ -157,20 +157,132 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/4/2004/11/06/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/4/2004/11/06/p/dre
+- type: cites
+  target: pt:dre:141831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56057576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656128:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66567251:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32002L0058
   label: null
   source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:24:38Z'
   warnings: []
   errors: []
 ---
@@ -241,7 +353,9 @@ b) Que contribuam para garantir as condições de segurança dos cidadãos, bem 
 
 c) Adequadas a prevenir a sabotagem, a espionagem, o terrorismo, e sua proliferação, a criminalidade altamente organizada de natureza transnacional e a prática de atos que, pela sua natureza, possam alterar ou destruir o Estado de Direito democrático constitucionalmente estabelecido.
 
-###### Artigo 20.º — Disposições gerais
+Artigo 20.º
+
+Disposições gerais
 
 Sem prejuízo das atribuições próprias da Assembleia da República e dos demais órgãos de soberania, a atividade do SIRP é objeto de fiscalização externa especializada da competência exclusiva das seguintes entidades independentes:
 
@@ -251,11 +365,15 @@ b) A Comissão de Fiscalização de Dados do SIRP;
 
 c) A Comissão de Controlo Prévio.
 
-###### Artigo 35.º — Comissão de Controlo Prévio
+Artigo 35.º
+
+Comissão de Controlo Prévio
 
 A Comissão de Controlo Prévio é composta por três magistrados judiciais, designados pelo Conselho Superior da Magistratura, de entre juízes conselheiros do Supremo Tribunal de Justiça, com pelo menos três anos de serviço nessa qualidade.
 
-###### Artigo 36.º — Competência
+Artigo 36.º
+
+Competência
 
 1 - A Comissão de Controlo Prévio é a entidade competente para a concessão de autorização prévia de acesso à informação e aos dados previstos no n.º 2 do artigo 78.º
 
@@ -263,7 +381,9 @@ A Comissão de Controlo Prévio é composta por três magistrados judiciais, des
 
 3 - A Comissão de Controlo Prévio elabora anualmente um relatório de atividades, que remete à comissão parlamentar competente para os assuntos constitucionais, direitos, liberdades e garantias e ao Conselho de Fiscalização do SIRP.
 
-###### Artigo 37.º — Procedimento
+Artigo 37.º
+
+Procedimento
 
 1 - O pedido para a concessão da autorização prévia prevista no número anterior é da competência dos diretores do SIS ou do SIED, ou de quem os substitua em caso de ausência ou impedimento, com conhecimento ao Secretário-Geral.
 
@@ -289,7 +409,9 @@ d) Duração das medidas requeridas, que não pode exceder o prazo máximo de tr
 
 8 - Por decisão do coletivo de juízes, pode ser determinado o cancelamento de quaisquer procedimentos de acesso a informação e a dados previstos no n.º 2 do artigo 78.º, bem como participados à Comissão de Fiscalização de Dados do SIRP os elementos conducentes à destruição imediata dos respetivos dados ou informações.
 
-###### Artigo 38.º — Extensão de regime à Comissão de Controlo Prévio
+Artigo 38.º
+
+Extensão de regime à Comissão de Controlo Prévio
 
 Aplica-se à Comissão de Controlo Prévio, com as necessárias adaptações e naquilo que não for incompatível com o Estatuto dos Magistrados Judiciais, o disposto nos artigos 25.º a 27.º, em matéria de imunidades, deveres, direitos e regalias.»
 

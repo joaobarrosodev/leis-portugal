@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45235-1963-686269
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-09-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:36:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4aad3c20738707a5a36343b52182660a12fdbb8279b9d7e6e49a9af735976671
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5bd3df81a157af43ed27e7f7913e6c34fa96e96310eafbdb3f1b3992e374f5da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:36:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516702:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:36:33Z'
   warnings: []
   errors: []
 ---
@@ -97,21 +109,21 @@ Verificando-se a urgência prevista no n.º III, alínea a), da base X da Lei Or
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São criados, na cidade de Luanda, um instituto industrial e um instituto comercial, nos quais começarão a funcionar todos os cursos ministrados nos dois ramos de ensino técnico médio.
+Artigo 1.º São criados, na cidade de Luanda, um instituto industrial e um instituto comercial, nos quais começarão a funcionar todos os cursos ministrados nos dois ramos de ensino técnico médio.
 
-###### Art. 2.º O Instituto Industrial de Luanda e o Instituto Comercial da mesma cidade disporão do pessoal previsto na regra 1.ª da [Portaria n.º 18706](https://diariodarepublica.pt/dr/detalhe/portaria/18706-1961-173953), de 28 de Agosto de 1961.
+Art. 2.º O Instituto Industrial de Luanda e o Instituto Comercial da mesma cidade disporão do pessoal previsto na regra 1.ª da [Portaria n.º 18706](https://diariodarepublica.pt/dr/detalhe/portaria/18706-1961-173953), de 28 de Agosto de 1961.
 
-###### Art. 3.º Os encargos a que der origem o serviço docente em cada um dos Institutos serão orçamentados à medida que seja reconhecida a necessidade da intervenção dos professores e agentes do ensino, segundo a forma de desempenho desse serviço que se venha a adoptar.
+Art. 3.º Os encargos a que der origem o serviço docente em cada um dos Institutos serão orçamentados à medida que seja reconhecida a necessidade da intervenção dos professores e agentes do ensino, segundo a forma de desempenho desse serviço que se venha a adoptar.
 
-###### Art. 4.º É criada na cidade de Sá da Bandeira, da província de Angola, uma escola do magistério primário.
+Art. 4.º É criada na cidade de Sá da Bandeira, da província de Angola, uma escola do magistério primário.
 
-###### Art. 5.º A Escola do Magistério Primário de Sá da Bandeira disporá do pessoal docente relacionado no artigo 4.º do [Decreto n.º 44240](https://diariodarepublica.pt/dr/detalhe/decreto/44240-1962-516702), de 17 de Março de 1962, devendo proceder-se ao seu provimento de harmonia com o que é preceituado no mesmo artigo.
+Art. 5.º A Escola do Magistério Primário de Sá da Bandeira disporá do pessoal docente relacionado no artigo 4.º do [Decreto n.º 44240](https://diariodarepublica.pt/dr/detalhe/decreto/44240-1962-516702), de 17 de Março de 1962, devendo proceder-se ao seu provimento de harmonia com o que é preceituado no mesmo artigo.
 
-###### Art. 6.º Com vista à dotação da escola referida no artigo anterior, será aumentado o quadro burocrático dos serviços de instrução da província de Angola com um segundo-oficial e um dactilógrafo e criados dois lugares de contínuo e dois de servente, mas o seu provimento não será realizado enquanto efectivamente se não verificar a sua indispensabilidade para o funcionamento da escola.
+Art. 6.º Com vista à dotação da escola referida no artigo anterior, será aumentado o quadro burocrático dos serviços de instrução da província de Angola com um segundo-oficial e um dactilógrafo e criados dois lugares de contínuo e dois de servente, mas o seu provimento não será realizado enquanto efectivamente se não verificar a sua indispensabilidade para o funcionamento da escola.
 
-###### Art. 7.º São criadas na província de Angola duas escolas técnicas elementares, uma localizada na cidade de Salazar e a outra em Novo Redondo.
+Art. 7.º São criadas na província de Angola duas escolas técnicas elementares, uma localizada na cidade de Salazar e a outra em Novo Redondo.
 
-###### Art. 8.º O pessoal de cada uma das escolas técnicas elementares agora criadas é o seguinte:
+Art. 8.º O pessoal de cada uma das escolas técnicas elementares agora criadas é o seguinte:
 
 a) Do quadro comum:
 
@@ -137,9 +149,9 @@ f) Pessoal assalariado:
 
 Três serventes, sendo um feminino.
 
-###### Art. 9.º São aplicáveis às Escolas Técnicas Elementares de Salazar e de Novo Redondo as disposições legais vigentes sobre gratificações por exercício dos cargos desempenhados pelos professores dessas Escolas.
+Art. 9.º São aplicáveis às Escolas Técnicas Elementares de Salazar e de Novo Redondo as disposições legais vigentes sobre gratificações por exercício dos cargos desempenhados pelos professores dessas Escolas.
 
-###### Art. 10.º São aumentados os seguintes lugares aos quadros comum, complementar de educação física e privativo do ensino profissional industrial e comercial do ultramar, com destino às Escolas adiante designadas da província de Angola.
+Art. 10.º São aumentados os seguintes lugares aos quadros comum, complementar de educação física e privativo do ensino profissional industrial e comercial do ultramar, com destino às Escolas adiante designadas da província de Angola.
 
 A) Escola Industrial de Luanda:
 
@@ -257,7 +269,7 @@ J) Para cada uma das duas escolas técnicas elementares de Luanda:
 
 a) Doze professores adjuntos, sendo quatro do 5.º grupo, quatro do 8.º e quatro do 11.º
 
-###### Artigo 11.º Com destino aos quadros de secretaria das escolas adiante indicadas, são criados os seguintes lugares:
+Artigo 11.º Com destino aos quadros de secretaria das escolas adiante indicadas, são criados os seguintes lugares:
 
 Escola Industrial de Luanda:
 
@@ -271,7 +283,7 @@ Um segundo-oficial.
 
 Um dactilógrafo.
 
-###### Art. 12.º São criados os seguintes lugares de pessoal menor para as escolas industriais e comerciais adiante designadas da província de Angola:
+Art. 12.º São criados os seguintes lugares de pessoal menor para as escolas industriais e comerciais adiante designadas da província de Angola:
 
 a) Escola Industrial de Luanda:
 
@@ -311,7 +323,7 @@ Dois contínuos de 1.ª classe, sendo um feminino, dois contínuos de 2.ª class
 
 j) Para cada escola técnica elementar de Luanda: Dois contínuos de 1.ª classe, sendo um feminino, e dois contínuos de 2.ª classe, sendo um feminino, quatro serventes de 1.ª classe e três de 2.ª
 
-###### Art. 13.º São aumentados os seguintes lugares aos quados comum, complementares e privativo do ensino profissional industrial e comercial do ultramar, com destino às escolas adiante designadas da província de Moçambique:
+Art. 13.º São aumentados os seguintes lugares aos quados comum, complementares e privativo do ensino profissional industrial e comercial do ultramar, com destino às escolas adiante designadas da província de Moçambique:
 
 A) Escola Industrial de Lourenço Marques:
 
@@ -409,9 +421,9 @@ M) Escola Técnica Elementar de Vila Cabral:
 
 Uma professora de Educação Física.
 
-###### Art. 14.º É dada a classificação de comercial às escolas técnicas elementares de Porto Amélia e de Moçambique, criadas pelo Diploma Legislativo n.º 2110, de 28 de Agosto de 1961.
+Art. 14.º É dada a classificação de comercial às escolas técnicas elementares de Porto Amélia e de Moçambique, criadas pelo Diploma Legislativo n.º 2110, de 28 de Agosto de 1961.
 
-###### Art. 15.º O pessoal da Escola Comercial de Moçambique e da Escola Comercial de Porto Amélia é acrescido, para cada uma, em virtude da sua nova classificação, das seguintes unidades:
+Art. 15.º O pessoal da Escola Comercial de Moçambique e da Escola Comercial de Porto Amélia é acrescido, para cada uma, em virtude da sua nova classificação, das seguintes unidades:
 
 a) Do quadro privativo:
 
@@ -425,7 +437,7 @@ c) Pessoal assalariado:
 
 Dois serventes de 3.ª classe.
 
-###### Art. 16.º São aumentados os seguintes lugares de professores dos quadros comum e complementar dos liceus da província de Angola:
+Art. 16.º São aumentados os seguintes lugares de professores dos quadros comum e complementar dos liceus da província de Angola:
 
 A) Liceu Salvador Correia de Sá, de Luanda:
 
@@ -537,7 +549,7 @@ c) Um professor do 8.º grupo;
 
 d) Um professor do 9.º grupo.
 
-###### Art. 17.º Os quadros comum e complementares do ensino liceal do ultramar são aumentados com os seguintes lugares, destinados à província de Moçambique:
+Art. 17.º Os quadros comum e complementares do ensino liceal do ultramar são aumentados com os seguintes lugares, destinados à província de Moçambique:
 
 A) Liceu Salazar, de Lourenço Marques:
 
@@ -567,13 +579,13 @@ F) Liceu de Nampula:
 
 Uma professora de Educação Física.
 
-###### Art. 18.º O artigo 4.º do [Decreto n.º 44777](https://diariodarepublica.pt/dr/detalhe/decreto/44777-1962-155186), de 7 de Dezembro de 1962, passa a ter a seguinte redacção:
+Art. 18.º O artigo 4.º do [Decreto n.º 44777](https://diariodarepublica.pt/dr/detalhe/decreto/44777-1962-155186), de 7 de Dezembro de 1962, passa a ter a seguinte redacção:
 
 Para efeito da elevação, prevista por lei, de vencimentos, em razão do tempo de serviço prestado, aproveita aos professores de qualquer grau de ensino, bem como aos mestres, contramestres e auxiliares do ensino técnico profissional e regentes de trabalho e internato do ensino agrícola, o tempo que serviram no ensino oficial, na metrópole ou no ultramar, em qualquer situação diversa daquela em que presentemente se encontram.
 
-###### Art. 19.º Ficam os governadores-gerais autorizados a abrir, observadas as disposições legais aplicáveis, os créditos especiais necessários para suportar os novos encargos criados por este decreto, servindo de contrapartida as disponibilidades ou recursos orçamentais.
+Art. 19.º Ficam os governadores-gerais autorizados a abrir, observadas as disposições legais aplicáveis, os créditos especiais necessários para suportar os novos encargos criados por este decreto, servindo de contrapartida as disponibilidades ou recursos orçamentais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Setembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/70/2026/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/70-2026-1049254414
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-13T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f4ab3d95b5a90fcd04580fff97f158b2e2db6a125a037f36a55a560b6be3cad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 94888ca8533faff2ba448ee91df885e1f88843d8b1701b0f432bec7641f9c032
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Portuária Regional
 - Diuturnidades
-- Setor Empresarial do Estado
 - Pessoal de Chefia
 - Pessoal Técnico de Pilotagem
-- Administração Portuária Regional
 - Remuneração
+- Setor Empresarial do Estado
 - Tabela Salarial
 - Trabalhador Portuário
 relationships:
+- type: amends
+  target: pt:numero:portaria:176/2024
+  label: Determina, com efeitos a 1 de janeiro de 2025, a atualização das tabelas dos anexos I, II e III, e adita, com efeitos
+    a 1 de janeiro de 2026, a base de remuneração 30 à tabela de remunerações base incluindo diuturnidades, dos(as) trabalhadores(as)
+    das administrações portuárias, bem como à tabela de remunerações base, incluindo diuturnidades, do pessoal técnico de
+    pilotagem da Portaria n.º 176/2024/1, de 29 de julho, Diário da República n.º 145/2024, Série I
+  source: null
+  date: '2024-07-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133/2013/10/03/p/dre
   label: null
@@ -117,16 +125,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/633/1999/08/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/633/1999/08/11/p/dre
+- type: cites
+  target: pt:dre:223011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:873755643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:904738408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:13Z'
   warnings: []
   errors: []
 ---
@@ -145,9 +221,9 @@ Nos termos do disposto no EPAP e da [Portaria n.º 1098/99](https://diariodarepu
 
 De igual forma, nos termos do disposto na [Portaria n.º 633/99](https://diariodarepublica.pt/dr/detalhe/portaria/633-1999-423068), de 11 de agosto, e ainda atento o teor dos despachos acima mencionados, o mapa de pessoal do pessoal técnico de pilotagem, que constitui o anexo I, a que se refere o n.º 1 do artigo 1.º da [Portaria n.º 633/99](https://diariodarepublica.pt/dr/detalhe/portaria/633-1999-423068), de 11 de agosto, com a redação dada pela [Portaria n.º 344/2001](https://diariodarepublica.pt/dr/detalhe/portaria/344-2001-362330), de 6 de abril, foi alterado mediante a atribuição de mais uma base remuneratória.
 
-Assim, nos termos do disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 421/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/421-1999-667362), de 21 de outubro, e artigo 31.º do EPAP, aprovado por aquele diploma, em conjugação com o disposto no artigo 21.º dos Decretos-Leis n.<sup>os</sup>[335/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1998-223011), [336/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-1998-223015), [337/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1998-223019) e [339/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-1998-223017), no artigo 22.º do [Decreto-Lei n.º 338/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1998-223022), todos de 3 de novembro, na sua redação atual, e no n.º 2 do artigo 8.º do [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), de 22 de novembro, e no artigo 20.º do [Decreto-Lei n.º 210/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2008-439131), de 3 de novembro, ambos na sua redação atual, no n.º 7 do artigo 12.º e no n.º 5 do artigo 19.º ambos do [Decreto-Lei n.º 87-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2025-926483751), de 25 de julho, na sua redação atual, e ouvidos os sindicatos representativos do setor, manda o Governo, pelo Ministro de Estado e das Finanças e pelo Ministro das Infraestruturas e Habitação, o seguinte:
+Assim, nos termos do disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 421/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/421-1999-667362), de 21 de outubro, e artigo 31.º do EPAP, aprovado por aquele diploma, em conjugação com o disposto no artigo 21.º dos Decretos-Leis n.os[335/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1998-223011), [336/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-1998-223015), [337/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1998-223019) e [339/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-1998-223017), no artigo 22.º do [Decreto-Lei n.º 338/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1998-223022), todos de 3 de novembro, na sua redação atual, e no n.º 2 do artigo 8.º do [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), de 22 de novembro, e no artigo 20.º do [Decreto-Lei n.º 210/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2008-439131), de 3 de novembro, ambos na sua redação atual, no n.º 7 do artigo 12.º e no n.º 5 do artigo 19.º ambos do [Decreto-Lei n.º 87-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2025-926483751), de 25 de julho, na sua redação atual, e ouvidos os sindicatos representativos do setor, manda o Governo, pelo Ministro de Estado e das Finanças e pelo Ministro das Infraestruturas e Habitação, o seguinte:
 
-1 - As tabelas de remunerações base, incluindo diuturnidades, dos(as) trabalhadores(as) das administrações portuárias, dos titulares dos cargos de direção e chefia e do pessoal técnico de pilotagem, aprovadas pelos n.<sup>os</sup>1, 2 e 3 da [Portaria n.º 176/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/176-2024-873755643), de 29 de julho, que constituem os anexos I, II e III à mesma, são atualizadas, conforme homologação pelo despacho conjunto do Ministro das Infraestruturas e Habitação e do Secretário de Estado do Tesouro e Finanças, respetivamente, de 30 de abril de 2025 e de 2 de maio de 2025, em conformidade com o [Despacho n.º 1103-B/2025](https://diariodarepublica.pt/dr/detalhe/despacho/1103-b-2025-904738408), de 23 de janeiro, conforme anexos I, II e III à presente portaria, da qual fazem parte integrante.
+1 - As tabelas de remunerações base, incluindo diuturnidades, dos(as) trabalhadores(as) das administrações portuárias, dos titulares dos cargos de direção e chefia e do pessoal técnico de pilotagem, aprovadas pelos n.os1, 2 e 3 da [Portaria n.º 176/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/176-2024-873755643), de 29 de julho, que constituem os anexos I, II e III à mesma, são atualizadas, conforme homologação pelo despacho conjunto do Ministro das Infraestruturas e Habitação e do Secretário de Estado do Tesouro e Finanças, respetivamente, de 30 de abril de 2025 e de 2 de maio de 2025, em conformidade com o [Despacho n.º 1103-B/2025](https://diariodarepublica.pt/dr/detalhe/despacho/1103-b-2025-904738408), de 23 de janeiro, conforme anexos I, II e III à presente portaria, da qual fazem parte integrante.
 
 2 - À tabela de remunerações base incluindo diuturnidades, dos(as) trabalhadores(as) das administrações portuárias, aprovada pelo n.º 1.º da [Portaria n.º 176/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/176-2024-873755643), de 29 de julho, e atualizada nos termos do número anterior, é aditada a base de remuneração 30, cujo montante resulta da variação relativa por comparação com a base de remuneração precedente, conforme anexo I à presente portaria, da qual faz parte integrante.
 
@@ -155,26 +231,26 @@ Assim, nos termos do disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 421/
 
 4 - A atualização prevista no n.º 1 da presente portaria produz efeitos a 1 de janeiro de 2025.
 
-5 - O aditamento da base de remuneração 30 previsto nos n.<sup>os</sup>2 e 3 da presente portaria produz efeitos a 1 de janeiro de 2026.
+5 - O aditamento da base de remuneração 30 previsto nos n.os2 e 3 da presente portaria produz efeitos a 1 de janeiro de 2026.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 5 de fevereiro de 2026. - O Ministro das Infraestruturas e Habitação, Miguel Martinez de Castro Pinto Luz, em 6 de fevereiro de 2026.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 5 de fevereiro de 2026. - O Ministro das Infraestruturas e Habitação, Miguel Martinez de Castro Pinto Luz, em 6 de fevereiro de 2026.
 
 ## ANEXO I — (a que se refere o n.º 1 e o n.º 2)
 
-| BR | N.ºdediuturn. | Remuneraçãobase2025 |  |  | BR | N.ºdiuturn. | Valor |
+| BR | N.ºdediuturn. | Remuneraçãobase2025 |  | Diuturnidades |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| BR | N.ºdediuturn. | Remuneraçãobase2025 |  |  | Diuturnidades | Diuturnidades | Diuturnidades |
+| BR | N.ºdiuturn. | Valor |  |  |  |  |  |
 | 3 | 0 | 708,78 | * |  | 3 | 0 | 0,00 |
-| 3 | 1 | 741,38 | * |  | 3 | 1 | 32,60 |
-| 3 | 2 | 786,38 | * |  | 3 | 2 | 77,60 |
-| 3 | 3 | 814,98 | * |  | 3 | 3 | 106,20 |
-| 3 | 4 | 858,78 | * |  | 3 | 4 | 150,00 |
-| 3 | 5 | 890,68 |  |  | 3 | 5 | 181,90 |
-| 3 | 6 | 907,28 |  |  | 3 | 6 | 198,50 |
-| 3 | 7 | 941,48 |  |  | 3 | 7 | 232,70 |
-| 3 | 8 | 959,08 |  |  | 3 | 8 | 250,30 |
-| 3 | 9 | 977,28 |  |  | 3 | 9 | 268,50 |
-| 3 | 10 | 995,68 |  |  | 3 | 10 | 286,90 |
+| 1 | 741,38 | * |  | 1 | 32,60 |  |  |
+| 2 | 786,38 | * |  | 2 | 77,60 |  |  |
+| 3 | 814,98 | * |  | 3 | 106,20 |  |  |
+| 4 | 858,78 | * |  | 4 | 150,00 |  |  |
+| 5 | 890,68 |  |  | 5 | 181,90 |  |  |
+| 6 | 907,28 |  |  | 6 | 198,50 |  |  |
+| 7 | 941,48 |  |  | 7 | 232,70 |  |  |
+| 8 | 959,08 |  |  | 8 | 250,30 |  |  |
+| 9 | 977,28 |  |  | 9 | 268,50 |  |  |
+| 10 | 995,68 |  |  | 10 | 286,90 |  |  |
 | 4 | 0 | 759,28 | * |  | 4 | 0 | 0,00 |
 |  | 1 | 802,48 | * |  |  | 1 | 43,20 |
 |  | 2 | 832,28 | * |  |  | 2 | 73,00 |
@@ -187,27 +263,27 @@ Assim, nos termos do disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 421/
 |  | 9 | 1 027,18 |  |  |  | 9 | 267,90 |
 |  | 10 | 1 046,58 |  |  |  | 10 | 287,30 |
 | 5 | 0 | 812,38 | * |  | 5 | 0 | 0,00 |
-| 5 | 1 | 842,98 | * |  | 5 | 1 | 30,60 |
-| 5 | 2 | 886,28 |  |  | 5 | 2 | 73,90 |
-| 5 | 3 | 915,88 |  |  | 5 | 3 | 103,50 |
-| 5 | 4 | 947,78 |  |  | 5 | 4 | 135,40 |
-| 5 | 5 | 981,68 |  |  | 5 | 5 | 169,30 |
-| 5 | 6 | 1 000,38 |  |  | 5 | 6 | 188,00 |
-| 5 | 7 | 1 038,08 |  |  | 5 | 7 | 225,70 |
-| 5 | 8 | 1 057,68 |  |  | 5 | 8 | 245,30 |
-| 5 | 9 | 1 077,88 |  |  | 5 | 9 | 265,50 |
-| 5 | 10 | 1 098,38 |  |  | 5 | 10 | 286,00 |
+| 1 | 842,98 | * |  | 1 | 30,60 |  |  |
+| 2 | 886,28 |  |  | 2 | 73,90 |  |  |
+| 3 | 915,88 |  |  | 3 | 103,50 |  |  |
+| 4 | 947,78 |  |  | 4 | 135,40 |  |  |
+| 5 | 981,68 |  |  | 5 | 169,30 |  |  |
+| 6 | 1 000,38 |  |  | 6 | 188,00 |  |  |
+| 7 | 1 038,08 |  |  | 7 | 225,70 |  |  |
+| 8 | 1 057,68 |  |  | 8 | 245,30 |  |  |
+| 9 | 1 077,88 |  |  | 9 | 265,50 |  |  |
+| 10 | 1 098,38 |  |  | 10 | 286,00 |  |  |
 | 6 | 0 | 857,68 | * |  | 6 | 0 | 0,00 |
-| 6 | 1 | 898,68 |  |  | 6 | 1 | 41,00 |
-| 6 | 2 | 931,38 |  |  | 6 | 2 | 73,70 |
-| 6 | 3 | 963,08 |  |  | 6 | 3 | 105,40 |
-| 6 | 4 | 992,98 |  |  | 6 | 4 | 135,30 |
-| 6 | 5 | 1 028,08 |  |  | 6 | 5 | 170,40 |
-| 6 | 6 | 1 047,68 |  |  | 6 | 6 | 190,00 |
-| 6 | 7 | 1 087,28 |  |  | 6 | 7 | 229,60 |
-| 6 | 8 | 1 107,78 |  |  | 6 | 8 | 250,10 |
-| 6 | 9 | 1 128,98 |  |  | 6 | 9 | 271,30 |
-| 6 | 10 | 1 150,48 |  |  | 6 | 10 | 292,80 |
+| 1 | 898,68 |  |  | 1 | 41,00 |  |  |
+| 2 | 931,38 |  |  | 2 | 73,70 |  |  |
+| 3 | 963,08 |  |  | 3 | 105,40 |  |  |
+| 4 | 992,98 |  |  | 4 | 135,30 |  |  |
+| 5 | 1 028,08 |  |  | 5 | 170,40 |  |  |
+| 6 | 1 047,68 |  |  | 6 | 190,00 |  |  |
+| 7 | 1 087,28 |  |  | 7 | 229,60 |  |  |
+| 8 | 1 107,78 |  |  | 8 | 250,10 |  |  |
+| 9 | 1 128,98 |  |  | 9 | 271,30 |  |  |
+| 10 | 1 150,48 |  |  | 10 | 292,80 |  |  |
 | 7 | 0 | 938,48 |  |  | 7 | 0 | 0,00 |
 |  | 1 | 970,98 |  |  |  | 1 | 32,50 |
 |  | 2 | 1 001,48 |  |  |  | 2 | 63,00 |
@@ -220,71 +296,71 @@ Assim, nos termos do disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 421/
 |  | 9 | 1 226,58 |  |  |  | 9 | 288,10 |
 |  | 10 | 1 250,08 |  |  |  | 10 | 311,60 |
 | 8 | 0 | 986,88 |  |  | 8 | 0 | 0,00 |
-| 8 | 1 | 1 020,18 |  |  | 8 | 1 | 33,30 |
-| 8 | 2 | 1 050,78 |  |  | 8 | 2 | 63,90 |
-| 8 | 3 | 1 085,98 |  |  | 8 | 3 | 99,10 |
-| 8 | 4 | 1 135,68 |  |  | 8 | 4 | 148,80 |
-| 8 | 5 | 1 164,98 |  |  | 8 | 5 | 178,10 |
-| 8 | 6 | 1 187,28 |  |  | 8 | 6 | 200,40 |
-| 8 | 7 | 1 232,48 |  |  | 8 | 7 | 245,60 |
-| 8 | 8 | 1 255,98 |  |  | 8 | 8 | 269,10 |
-| 8 | 9 | 1 279,98 |  |  | 8 | 9 | 293,10 |
-| 8 | 10 | 1 304,58 |  |  | 8 | 10 | 317,70 |
+| 1 | 1 020,18 |  |  | 1 | 33,30 |  |  |
+| 2 | 1 050,78 |  |  | 2 | 63,90 |  |  |
+| 3 | 1 085,98 |  |  | 3 | 99,10 |  |  |
+| 4 | 1 135,68 |  |  | 4 | 148,80 |  |  |
+| 5 | 1 164,98 |  |  | 5 | 178,10 |  |  |
+| 6 | 1 187,28 |  |  | 6 | 200,40 |  |  |
+| 7 | 1 232,48 |  |  | 7 | 245,60 |  |  |
+| 8 | 1 255,98 |  |  | 8 | 269,10 |  |  |
+| 9 | 1 279,98 |  |  | 9 | 293,10 |  |  |
+| 10 | 1 304,58 |  |  | 10 | 317,70 |  |  |
 | 9 | 0 | 1 040,38 |  |  | 9 | 0 | 0,00 |
-| 9 | 1 | 1 070,78 |  |  | 9 | 1 | 30,40 |
-| 9 | 2 | 1 123,18 |  |  | 9 | 2 | 82,80 |
-| 9 | 3 | 1 155,18 |  |  | 9 | 3 | 114,80 |
-| 9 | 4 | 1 184,78 |  |  | 9 | 4 | 144,40 |
-| 9 | 5 | 1 218,88 |  |  | 9 | 5 | 178,50 |
-| 9 | 6 | 1 241,98 |  |  | 9 | 6 | 201,60 |
-| 9 | 7 | 1 289,18 |  |  | 9 | 7 | 248,80 |
-| 9 | 8 | 1 314,08 |  |  | 9 | 8 | 273,70 |
-| 9 | 9 | 1 339,28 |  |  | 9 | 9 | 298,90 |
-| 9 | 10 | 1 365,08 |  |  | 9 | 10 | 324,70 |
+| 1 | 1 070,78 |  |  | 1 | 30,40 |  |  |
+| 2 | 1 123,18 |  |  | 2 | 82,80 |  |  |
+| 3 | 1 155,18 |  |  | 3 | 114,80 |  |  |
+| 4 | 1 184,78 |  |  | 4 | 144,40 |  |  |
+| 5 | 1 218,88 |  |  | 5 | 178,50 |  |  |
+| 6 | 1 241,98 |  |  | 6 | 201,60 |  |  |
+| 7 | 1 289,18 |  |  | 7 | 248,80 |  |  |
+| 8 | 1 314,08 |  |  | 8 | 273,70 |  |  |
+| 9 | 1 339,28 |  |  | 9 | 298,90 |  |  |
+| 10 | 1 365,08 |  |  | 10 | 324,70 |  |  |
 | 10 | 0 | 1 092,68 |  |  | 10 | 0 | 0,00 |
-| 10 | 1 | 1 144,28 |  |  | 10 | 1 | 51,60 |
-| 10 | 2 | 1 176,18 |  |  | 10 | 2 | 83,50 |
-| 10 | 3 | 1 206,38 |  |  | 10 | 3 | 113,70 |
-| 10 | 4 | 1 237,48 |  |  | 10 | 4 | 144,80 |
-| 10 | 5 | 1 295,88 |  |  | 10 | 5 | 203,20 |
-| 10 | 6 | 1 320,58 |  |  | 10 | 6 | 227,90 |
-| 10 | 7 | 1 371,18 |  |  | 10 | 7 | 278,50 |
-| 10 | 8 | 1 397,58 |  |  | 10 | 8 | 304,90 |
-| 10 | 9 | 1 424,48 |  |  | 10 | 9 | 331,80 |
-| 10 | 10 | 1 451,78 |  |  | 10 | 10 | 359,10 |
+| 1 | 1 144,28 |  |  | 1 | 51,60 |  |  |
+| 2 | 1 176,18 |  |  | 2 | 83,50 |  |  |
+| 3 | 1 206,38 |  |  | 3 | 113,70 |  |  |
+| 4 | 1 237,48 |  |  | 4 | 144,80 |  |  |
+| 5 | 1 295,88 |  |  | 5 | 203,20 |  |  |
+| 6 | 1 320,58 |  |  | 6 | 227,90 |  |  |
+| 7 | 1 371,18 |  |  | 7 | 278,50 |  |  |
+| 8 | 1 397,58 |  |  | 8 | 304,90 |  |  |
+| 9 | 1 424,48 |  |  | 9 | 331,80 |  |  |
+| 10 | 1 451,78 |  |  | 10 | 359,10 |  |  |
 | 11 | 0 | 1 182,18 |  |  | 11 | 0 | 0,00 |
-| 11 | 1 | 1 216,88 |  |  | 11 | 1 | 34,70 |
-| 11 | 2 | 1 245,48 |  |  | 11 | 2 | 63,30 |
-| 11 | 3 | 1 277,28 |  |  | 11 | 3 | 95,10 |
-| 11 | 4 | 1 314,28 |  |  | 11 | 4 | 132,10 |
-| 11 | 5 | 1 352,28 |  |  | 11 | 5 | 170,10 |
-| 11 | 6 | 1 378,38 |  |  | 11 | 6 | 196,20 |
-| 11 | 7 | 1 431,18 |  |  | 11 | 7 | 249,00 |
-| 11 | 8 | 1 458,68 |  |  | 11 | 8 | 276,50 |
-| 11 | 9 | 1 486,68 |  |  | 11 | 9 | 304,50 |
-| 11 | 10 | 1 515,38 |  |  | 11 | 10 | 333,20 |
+| 1 | 1 216,88 |  |  | 1 | 34,70 |  |  |
+| 2 | 1 245,48 |  |  | 2 | 63,30 |  |  |
+| 3 | 1 277,28 |  |  | 3 | 95,10 |  |  |
+| 4 | 1 314,28 |  |  | 4 | 132,10 |  |  |
+| 5 | 1 352,28 |  |  | 5 | 170,10 |  |  |
+| 6 | 1 378,38 |  |  | 6 | 196,20 |  |  |
+| 7 | 1 431,18 |  |  | 7 | 249,00 |  |  |
+| 8 | 1 458,68 |  |  | 8 | 276,50 |  |  |
+| 9 | 1 486,68 |  |  | 9 | 304,50 |  |  |
+| 10 | 1 515,38 |  |  | 10 | 333,20 |  |  |
 | 12 | 0 | 1 249,98 |  |  | 12 | 0 | 0,00 |
-| 12 | 1 | 1 278,58 |  |  | 12 | 1 | 28,60 |
-| 12 | 2 | 1 314,98 |  |  | 12 | 2 | 65,00 |
-| 12 | 3 | 1 352,28 |  |  | 12 | 3 | 102,30 |
-| 12 | 4 | 1 389,58 |  |  | 12 | 4 | 139,60 |
-| 12 | 5 | 1 427,88 |  |  | 12 | 5 | 177,90 |
-| 12 | 6 | 1 455,48 |  |  | 12 | 6 | 205,50 |
-| 12 | 7 | 1 511,48 |  |  | 12 | 7 | 261,50 |
-| 12 | 8 | 1 540,48 |  |  | 12 | 8 | 290,50 |
-| 12 | 9 | 1 570,18 |  |  | 12 | 9 | 320,20 |
-| 12 | 10 | 1 600,58 |  |  | 12 | 10 | 350,60 |
+| 1 | 1 278,58 |  |  | 1 | 28,60 |  |  |
+| 2 | 1 314,98 |  |  | 2 | 65,00 |  |  |
+| 3 | 1 352,28 |  |  | 3 | 102,30 |  |  |
+| 4 | 1 389,58 |  |  | 4 | 139,60 |  |  |
+| 5 | 1 427,88 |  |  | 5 | 177,90 |  |  |
+| 6 | 1 455,48 |  |  | 6 | 205,50 |  |  |
+| 7 | 1 511,48 |  |  | 7 | 261,50 |  |  |
+| 8 | 1 540,48 |  |  | 8 | 290,50 |  |  |
+| 9 | 1 570,18 |  |  | 9 | 320,20 |  |  |
+| 10 | 1 600,58 |  |  | 10 | 350,60 |  |  |
 | 13 | 0 | 1 311,78 |  |  | 13 | 0 | 0,00 |
-| 13 | 1 | 1 350,18 |  |  | 13 | 1 | 38,40 |
-| 13 | 2 | 1 384,88 |  |  | 13 | 2 | 73,10 |
-| 13 | 3 | 1 424,08 |  |  | 13 | 3 | 112,30 |
-| 13 | 4 | 1 463,98 |  |  | 13 | 4 | 152,20 |
-| 13 | 5 | 1 519,78 |  |  | 13 | 5 | 208,00 |
-| 13 | 6 | 1 548,98 |  |  | 13 | 6 | 237,20 |
-| 13 | 7 | 1 608,68 |  |  | 13 | 7 | 296,90 |
-| 13 | 8 | 1 639,48 |  |  | 13 | 8 | 327,70 |
-| 13 | 9 | 1 671,28 |  |  | 13 | 9 | 359,50 |
-| 13 | 10 | 1 703,58 |  |  | 13 | 10 | 391,80 |
+| 1 | 1 350,18 |  |  | 1 | 38,40 |  |  |
+| 2 | 1 384,88 |  |  | 2 | 73,10 |  |  |
+| 3 | 1 424,08 |  |  | 3 | 112,30 |  |  |
+| 4 | 1 463,98 |  |  | 4 | 152,20 |  |  |
+| 5 | 1 519,78 |  |  | 5 | 208,00 |  |  |
+| 6 | 1 548,98 |  |  | 6 | 237,20 |  |  |
+| 7 | 1 608,68 |  |  | 7 | 296,90 |  |  |
+| 8 | 1 639,48 |  |  | 8 | 327,70 |  |  |
+| 9 | 1 671,28 |  |  | 9 | 359,50 |  |  |
+| 10 | 1 703,58 |  |  | 10 | 391,80 |  |  |
 | 14 | 0 | 1 403,38 |  |  | 14 | 0 | 0,00 |
 |  | 1 | 1 440,68 |  |  |  | 1 | 37,30 |
 |  | 2 | 1 475,88 |  |  |  | 2 | 72,50 |
@@ -297,27 +373,27 @@ Assim, nos termos do disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 421/
 |  | 9 | 1 762,78 |  |  |  | 9 | 359,40 |
 |  | 10 | 1 796,98 |  |  |  | 10 | 393,60 |
 | 15 | 0 | 1 494,98 |  |  | 15 | 0 | 0,00 |
-| 15 | 1 | 1 532,28 |  |  | 15 | 1 | 37,30 |
-| 15 | 2 | 1 588,68 |  |  | 15 | 2 | 93,70 |
-| 15 | 3 | 1 621,68 |  |  | 15 | 3 | 126,70 |
-| 15 | 4 | 1 653,08 |  |  | 15 | 4 | 158,10 |
-| 15 | 5 | 1 688,18 |  |  | 15 | 5 | 193,20 |
-| 15 | 6 | 1 720,78 |  |  | 15 | 6 | 225,80 |
-| 15 | 7 | 1 787,48 |  |  | 15 | 7 | 292,50 |
-| 15 | 8 | 1 822,08 |  |  | 15 | 8 | 327,10 |
-| 15 | 9 | 1 857,48 |  |  | 15 | 9 | 362,50 |
-| 15 | 10 | 1 893,58 |  |  | 15 | 10 | 398,60 |
+| 1 | 1 532,28 |  |  | 1 | 37,30 |  |  |
+| 2 | 1 588,68 |  |  | 2 | 93,70 |  |  |
+| 3 | 1 621,68 |  |  | 3 | 126,70 |  |  |
+| 4 | 1 653,08 |  |  | 4 | 158,10 |  |  |
+| 5 | 1 688,18 |  |  | 5 | 193,20 |  |  |
+| 6 | 1 720,78 |  |  | 6 | 225,80 |  |  |
+| 7 | 1 787,48 |  |  | 7 | 292,50 |  |  |
+| 8 | 1 822,08 |  |  | 8 | 327,10 |  |  |
+| 9 | 1 857,48 |  |  | 9 | 362,50 |  |  |
+| 10 | 1 893,58 |  |  | 10 | 398,60 |  |  |
 | 16 | 0 | 1 637,08 |  |  | 16 | 0 | 0,00 |
-| 16 | 1 | 1 669,08 |  |  | 16 | 1 | 32,00 |
-| 16 | 2 | 1 703,68 |  |  | 16 | 2 | 66,60 |
-| 16 | 3 | 1 736,08 |  |  | 16 | 3 | 99,00 |
-| 16 | 4 | 1 775,28 |  |  | 16 | 4 | 138,20 |
-| 16 | 5 | 1 819,28 |  |  | 16 | 5 | 182,20 |
-| 16 | 6 | 1 854,68 |  |  | 16 | 6 | 217,60 |
-| 16 | 7 | 1 926,38 |  |  | 16 | 7 | 289,30 |
-| 16 | 8 | 1 963,78 |  |  | 16 | 8 | 326,70 |
-| 16 | 9 | 2 001,98 |  |  | 16 | 9 | 364,90 |
-| 16 | 10 | 2 040,88 |  |  | 16 | 10 | 403,80 |
+| 1 | 1 669,08 |  |  | 1 | 32,00 |  |  |
+| 2 | 1 703,68 |  |  | 2 | 66,60 |  |  |
+| 3 | 1 736,08 |  |  | 3 | 99,00 |  |  |
+| 4 | 1 775,28 |  |  | 4 | 138,20 |  |  |
+| 5 | 1 819,28 |  |  | 5 | 182,20 |  |  |
+| 6 | 1 854,68 |  |  | 6 | 217,60 |  |  |
+| 7 | 1 926,38 |  |  | 7 | 289,30 |  |  |
+| 8 | 1 963,78 |  |  | 8 | 326,70 |  |  |
+| 9 | 2 001,98 |  |  | 9 | 364,90 |  |  |
+| 10 | 2 040,88 |  |  | 10 | 403,80 |  |  |
 | 17 | 0 | 1 731,58 |  |  | 17 | 0 | 0,00 |
 |  | 1 | 1 764,18 |  |  |  | 1 | 32,60 |
 |  | 2 | 1 801,18 |  |  |  | 2 | 69,60 |
@@ -330,27 +406,27 @@ Assim, nos termos do disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 421/
 |  | 9 | 2 145,68 |  |  |  | 9 | 414,10 |
 |  | 10 | 2 187,58 |  |  |  | 10 | 456,00 |
 | 18 | 0 | 1 843,68 |  |  | 18 | 0 | 0,00 |
-| 18 | 1 | 1 883,58 |  |  | 18 | 1 | 39,90 |
-| 18 | 2 | 1 952,68 |  |  | 18 | 2 | 109,00 |
-| 18 | 3 | 1 985,98 |  |  | 18 | 3 | 142,30 |
-| 18 | 4 | 2 021,08 |  |  | 18 | 4 | 177,40 |
-| 18 | 5 | 2 055,08 |  |  | 18 | 5 | 211,40 |
-| 18 | 6 | 2 095,08 |  |  | 18 | 6 | 251,40 |
-| 18 | 7 | 2 176,48 |  |  | 18 | 7 | 332,80 |
-| 18 | 8 | 2 218,88 |  |  | 18 | 8 | 375,20 |
-| 18 | 9 | 2 262,28 |  |  | 18 | 9 | 418,60 |
-| 18 | 10 | 2 306,38 |  |  | 18 | 10 | 462,70 |
+| 1 | 1 883,58 |  |  | 1 | 39,90 |  |  |
+| 2 | 1 952,68 |  |  | 2 | 109,00 |  |  |
+| 3 | 1 985,98 |  |  | 3 | 142,30 |  |  |
+| 4 | 2 021,08 |  |  | 4 | 177,40 |  |  |
+| 5 | 2 055,08 |  |  | 5 | 211,40 |  |  |
+| 6 | 2 095,08 |  |  | 6 | 251,40 |  |  |
+| 7 | 2 176,48 |  |  | 7 | 332,80 |  |  |
+| 8 | 2 218,88 |  |  | 8 | 375,20 |  |  |
+| 9 | 2 262,28 |  |  | 9 | 418,60 |  |  |
+| 10 | 2 306,38 |  |  | 10 | 462,70 |  |  |
 | 19 | 0 | 2 029,18 |  |  | 19 | 0 | 0,00 |
-| 19 | 1 | 2 062,08 |  |  | 19 | 1 | 32,90 |
-| 19 | 2 | 2 097,48 |  |  | 19 | 2 | 68,30 |
-| 19 | 3 | 2 131,98 |  |  | 19 | 3 | 102,80 |
-| 19 | 4 | 2 169,18 |  |  | 19 | 4 | 140,00 |
-| 19 | 5 | 2 210,38 |  |  | 19 | 5 | 181,20 |
-| 19 | 6 | 2 253,48 |  |  | 19 | 6 | 224,30 |
-| 19 | 7 | 2 341,18 |  |  | 19 | 7 | 312,00 |
-| 19 | 8 | 2 386,78 |  |  | 19 | 8 | 357,60 |
-| 19 | 9 | 2 433,48 |  |  | 19 | 9 | 404,30 |
-| 19 | 10 | 2 481,08 |  |  | 19 | 10 | 451,90 |
+| 1 | 2 062,08 |  |  | 1 | 32,90 |  |  |
+| 2 | 2 097,48 |  |  | 2 | 68,30 |  |  |
+| 3 | 2 131,98 |  |  | 3 | 102,80 |  |  |
+| 4 | 2 169,18 |  |  | 4 | 140,00 |  |  |
+| 5 | 2 210,38 |  |  | 5 | 181,20 |  |  |
+| 6 | 2 253,48 |  |  | 6 | 224,30 |  |  |
+| 7 | 2 341,18 |  |  | 7 | 312,00 |  |  |
+| 8 | 2 386,78 |  |  | 8 | 357,60 |  |  |
+| 9 | 2 433,48 |  |  | 9 | 404,30 |  |  |
+| 10 | 2 481,08 |  |  | 10 | 451,90 |  |  |
 | 20 | 0 | 2 148,68 |  |  | 20 | 0 | 0,00 |
 |  | 1 | 2 184,48 |  |  |  | 1 | 35,80 |
 |  | 2 | 2 221,58 |  |  |  | 2 | 72,90 |
@@ -363,27 +439,27 @@ Assim, nos termos do disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 421/
 |  | 9 | 2 630,68 |  |  |  | 9 | 482,00 |
 |  | 10 | 2 682,18 |  |  |  | 10 | 533,50 |
 | 21 | 0 | 2 286,78 |  |  | 21 | 0 | 0,00 |
-| 21 | 1 | 2 333,98 |  |  | 21 | 1 | 47,20 |
-| 21 | 2 | 2 416,38 |  |  | 21 | 2 | 129,60 |
-| 21 | 3 | 2 449,98 |  |  | 21 | 3 | 163,20 |
-| 21 | 4 | 2 488,08 |  |  | 21 | 4 | 201,30 |
-| 21 | 5 | 2 521,28 |  |  | 21 | 5 | 234,50 |
-| 21 | 6 | 2 570,28 |  |  | 21 | 6 | 283,50 |
-| 21 | 7 | 2 671,08 |  |  | 21 | 7 | 384,30 |
-| 21 | 8 | 2 724,14 |  |  | 21 | 8 | 437,36 |
-| 21 | 9 | 2 778,68 |  |  | 21 | 9 | 491,90 |
-| 21 | 10 | 2 834,36 |  |  | 21 | 10 | 547,58 |
+| 1 | 2 333,98 |  |  | 1 | 47,20 |  |  |
+| 2 | 2 416,38 |  |  | 2 | 129,60 |  |  |
+| 3 | 2 449,98 |  |  | 3 | 163,20 |  |  |
+| 4 | 2 488,08 |  |  | 4 | 201,30 |  |  |
+| 5 | 2 521,28 |  |  | 5 | 234,50 |  |  |
+| 6 | 2 570,28 |  |  | 6 | 283,50 |  |  |
+| 7 | 2 671,08 |  |  | 7 | 384,30 |  |  |
+| 8 | 2 724,14 |  |  | 8 | 437,36 |  |  |
+| 9 | 2 778,68 |  |  | 9 | 491,90 |  |  |
+| 10 | 2 834,36 |  |  | 10 | 547,58 |  |  |
 | 22 | 0 | 2 489,38 |  |  | 22 | 0 | 0,00 |
-| 22 | 1 | 2 524,38 |  |  | 22 | 1 | 35,00 |
-| 22 | 2 | 2 557,58 |  |  | 22 | 2 | 68,20 |
-| 22 | 3 | 2 602,38 |  |  | 22 | 3 | 113,00 |
-| 22 | 4 | 2 648,28 |  |  | 22 | 4 | 158,90 |
-| 22 | 5 | 2 698,80 |  |  | 22 | 5 | 209,42 |
-| 22 | 6 | 2 752,53 |  |  | 22 | 6 | 263,15 |
-| 22 | 7 | 2 862,86 |  |  | 22 | 7 | 373,48 |
-| 22 | 8 | 2 920,16 |  |  | 22 | 8 | 430,78 |
-| 22 | 9 | 2 978,59 |  |  | 22 | 9 | 489,21 |
-| 22 | 10 | 3 038,15 |  |  | 22 | 10 | 548,77 |
+| 1 | 2 524,38 |  |  | 1 | 35,00 |  |  |
+| 2 | 2 557,58 |  |  | 2 | 68,20 |  |  |
+| 3 | 2 602,38 |  |  | 3 | 113,00 |  |  |
+| 4 | 2 648,28 |  |  | 4 | 158,90 |  |  |
+| 5 | 2 698,80 |  |  | 5 | 209,42 |  |  |
+| 6 | 2 752,53 |  |  | 6 | 263,15 |  |  |
+| 7 | 2 862,86 |  |  | 7 | 373,48 |  |  |
+| 8 | 2 920,16 |  |  | 8 | 430,78 |  |  |
+| 9 | 2 978,59 |  |  | 9 | 489,21 |  |  |
+| 10 | 3 038,15 |  |  | 10 | 548,77 |  |  |
 | 23 | 0 | 2 634,78 |  |  | 23 | 0 | 0,00 |
 |  | 1 | 2 681,38 |  |  |  | 1 | 46,60 |
 |  | 2 | 2 729,96 |  |  |  | 2 | 95,18 |
@@ -396,27 +472,27 @@ Assim, nos termos do disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 421/
 |  | 9 | 3 194,64 |  |  |  | 9 | 559,86 |
 |  | 10 | 3 258,48 |  |  |  | 10 | 623,70 |
 | 24 | 0 | 2 818,62 |  |  | 24 | 0 | 0,00 |
-| 24 | 1 | 2 899,53 |  |  | 24 | 1 | 80,91 |
-| 24 | 2 | 2 936,71 |  |  | 24 | 2 | 118,09 |
-| 24 | 3 | 2 972,05 |  |  | 24 | 3 | 153,43 |
-| 24 | 4 | 3 008,62 |  |  | 24 | 4 | 190,00 |
-| 24 | 5 | 3 058,98 |  |  | 24 | 5 | 240,36 |
-| 24 | 6 | 3 120,27 |  |  | 24 | 6 | 301,65 |
-| 24 | 7 | 3 245,00 |  |  | 24 | 7 | 426,38 |
-| 24 | 8 | 3 310,17 |  |  | 24 | 8 | 491,55 |
-| 24 | 9 | 3 376,36 |  |  | 24 | 9 | 557,74 |
-| 24 | 10 | 3 443,99 |  |  | 24 | 10 | 625,37 |
+| 1 | 2 899,53 |  |  | 1 | 80,91 |  |  |
+| 2 | 2 936,71 |  |  | 2 | 118,09 |  |  |
+| 3 | 2 972,05 |  |  | 3 | 153,43 |  |  |
+| 4 | 3 008,62 |  |  | 4 | 190,00 |  |  |
+| 5 | 3 058,98 |  |  | 5 | 240,36 |  |  |
+| 6 | 3 120,27 |  |  | 6 | 301,65 |  |  |
+| 7 | 3 245,00 |  |  | 7 | 426,38 |  |  |
+| 8 | 3 310,17 |  |  | 8 | 491,55 |  |  |
+| 9 | 3 376,36 |  |  | 9 | 557,74 |  |  |
+| 10 | 3 443,99 |  |  | 10 | 625,37 |  |  |
 | 25 | 0 | 3 043,97 |  |  | 25 | 0 | 0,00 |
-| 25 | 1 | 3 085,44 |  |  | 25 | 1 | 41,47 |
-| 25 | 2 | 3 132,84 |  |  | 25 | 2 | 88,87 |
-| 25 | 3 | 3 176,87 |  |  | 25 | 3 | 132,90 |
-| 25 | 4 | 3 262,57 |  |  | 25 | 4 | 218,60 |
-| 25 | 5 | 3 302,61 |  |  | 25 | 5 | 258,64 |
-| 25 | 6 | 3 368,80 |  |  | 25 | 6 | 324,83 |
-| 25 | 7 | 3 503,54 |  |  | 25 | 7 | 459,57 |
-| 25 | 8 | 3 573,51 |  |  | 25 | 8 | 529,54 |
-| 25 | 9 | 3 645,12 |  |  | 25 | 9 | 601,15 |
-| 25 | 10 | 3 718,06 |  |  | 25 | 10 | 674,09 |
+| 1 | 3 085,44 |  |  | 1 | 41,47 |  |  |
+| 2 | 3 132,84 |  |  | 2 | 88,87 |  |  |
+| 3 | 3 176,87 |  |  | 3 | 132,90 |  |  |
+| 4 | 3 262,57 |  |  | 4 | 218,60 |  |  |
+| 5 | 3 302,61 |  |  | 5 | 258,64 |  |  |
+| 6 | 3 368,80 |  |  | 6 | 324,83 |  |  |
+| 7 | 3 503,54 |  |  | 7 | 459,57 |  |  |
+| 8 | 3 573,51 |  |  | 8 | 529,54 |  |  |
+| 9 | 3 645,12 |  |  | 9 | 601,15 |  |  |
+| 10 | 3 718,06 |  |  | 10 | 674,09 |  |  |
 | 26 | 0 | 3 228,04 |  |  | 26 | 0 | 0,00 |
 |  | 1 | 3 316,71 |  |  |  | 1 | 88,67 |
 |  | 2 | 3 353,48 |  |  |  | 2 | 125,44 |
@@ -429,68 +505,68 @@ Assim, nos termos do disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 421/
 |  | 9 | 3 834,92 |  |  |  | 9 | 606,88 |
 |  | 10 | 3 911,63 |  |  |  | 10 | 683,59 |
 | 27 | 0 | 3 485,56 |  |  | 27 | 0 | 0,00 |
-| 27 | 1 | 3 583,22 |  |  | 27 | 1 | 97,66 |
-| 27 | 2 | 3 621,52 |  |  | 27 | 2 | 135,96 |
-| 27 | 3 | 3 664,12 |  |  | 27 | 3 | 178,56 |
-| 27 | 4 | 3 702,84 |  |  | 27 | 4 | 217,28 |
-| 27 | 5 | 3 752,48 |  |  | 27 | 5 | 266,92 |
-| 27 | 6 | 3 827,56 |  |  | 27 | 6 | 342,00 |
-| 27 | 7 | 3 980,48 |  |  | 27 | 7 | 494,92 |
-| 27 | 8 | 4 060,16 |  |  | 27 | 8 | 574,60 |
-| 27 | 9 | 4 141,47 |  |  | 27 | 9 | 655,91 |
-| 27 | 10 | 4 224,41 |  |  | 27 | 10 | 738,85 |
+| 1 | 3 583,22 |  |  | 1 | 97,66 |  |  |
+| 2 | 3 621,52 |  |  | 2 | 135,96 |  |  |
+| 3 | 3 664,12 |  |  | 3 | 178,56 |  |  |
+| 4 | 3 702,84 |  |  | 4 | 217,28 |  |  |
+| 5 | 3 752,48 |  |  | 5 | 266,92 |  |  |
+| 6 | 3 827,56 |  |  | 6 | 342,00 |  |  |
+| 7 | 3 980,48 |  |  | 7 | 494,92 |  |  |
+| 8 | 4 060,16 |  |  | 8 | 574,60 |  |  |
+| 9 | 4 141,47 |  |  | 9 | 655,91 |  |  |
+| 10 | 4 224,41 |  |  | 10 | 738,85 |  |  |
 | 28 | 0 | 3 765,35 |  |  | 28 | 0 | 0,00 |
-| 28 | 1 | 3 870,46 |  |  | 28 | 1 | 105,11 |
-| 28 | 2 | 3 911,73 |  |  | 28 | 2 | 146,38 |
-| 28 | 3 | 3 958,31 |  |  | 28 | 3 | 192,96 |
-| 28 | 4 | 3 999,38 |  |  | 28 | 4 | 234,03 |
-| 28 | 5 | 4 053,01 |  |  | 28 | 5 | 287,66 |
-| 28 | 6 | 4 134,11 |  |  | 28 | 6 | 368,76 |
-| 28 | 7 | 4 299,49 |  |  | 28 | 7 | 534,14 |
-| 28 | 8 | 4 385,40 |  |  | 28 | 8 | 620,05 |
-| 28 | 9 | 4 473,15 |  |  | 28 | 9 | 707,80 |
-| 28 | 10 | 4 562,63 |  |  | 28 | 10 | 797,28 |
+| 1 | 3 870,46 |  |  | 1 | 105,11 |  |  |
+| 2 | 3 911,73 |  |  | 2 | 146,38 |  |  |
+| 3 | 3 958,31 |  |  | 3 | 192,96 |  |  |
+| 4 | 3 999,38 |  |  | 4 | 234,03 |  |  |
+| 5 | 4 053,01 |  |  | 5 | 287,66 |  |  |
+| 6 | 4 134,11 |  |  | 6 | 368,76 |  |  |
+| 7 | 4 299,49 |  |  | 7 | 534,14 |  |  |
+| 8 | 4 385,40 |  |  | 8 | 620,05 |  |  |
+| 9 | 4 473,15 |  |  | 9 | 707,80 |  |  |
+| 10 | 4 562,63 |  |  | 10 | 797,28 |  |  |
 | 29 | 0 | 4 066,39 |  |  | 29 | 0 | 0,00 |
-| 29 | 1 | 4 179,77 |  |  | 29 | 1 | 113,38 |
-| 29 | 2 | 4 224,52 |  |  | 29 | 2 | 158,13 |
-| 29 | 3 | 4 274,77 |  |  | 29 | 3 | 208,38 |
-| 29 | 4 | 4 319,51 |  |  | 29 | 4 | 253,12 |
-| 29 | 5 | 4 377,13 |  |  | 29 | 5 | 310,74 |
-| 29 | 6 | 4 464,77 |  |  | 29 | 6 | 398,38 |
-| 29 | 7 | 4 643,23 |  |  | 29 | 7 | 576,84 |
-| 29 | 8 | 4 736,08 |  |  | 29 | 8 | 669,69 |
-| 29 | 9 | 4 830,78 |  |  | 29 | 9 | 764,39 |
-| 29 | 10 | 4 927,41 |  |  | 29 | 10 | 861,02 |
+| 1 | 4 179,77 |  |  | 1 | 113,38 |  |  |
+| 2 | 4 224,52 |  |  | 2 | 158,13 |  |  |
+| 3 | 4 274,77 |  |  | 3 | 208,38 |  |  |
+| 4 | 4 319,51 |  |  | 4 | 253,12 |  |  |
+| 5 | 4 377,13 |  |  | 5 | 310,74 |  |  |
+| 6 | 4 464,77 |  |  | 6 | 398,38 |  |  |
+| 7 | 4 643,23 |  |  | 7 | 576,84 |  |  |
+| 8 | 4 736,08 |  |  | 8 | 669,69 |  |  |
+| 9 | 4 830,78 |  |  | 9 | 764,39 |  |  |
+| 10 | 4 927,41 |  |  | 10 | 861,02 |  |  |
 | 30 | 0 | 4 367,43 |  |  | 30 | 0 | 0,00 |
-| 30 | 1 | 4 489,08 |  |  | 30 | 1 | 121,65 |
-| 30 | 2 | 4 537,31 |  |  | 30 | 2 | 169,88 |
-| 30 | 3 | 4 591,23 |  |  | 30 | 3 | 223,80 |
-| 30 | 4 | 4 639,64 |  |  | 30 | 4 | 272,21 |
-| 30 | 5 | 4 701,25 |  |  | 30 | 5 | 333,82 |
-| 30 | 6 | 4 795,43 |  |  | 30 | 6 | 428,00 |
-| 30 | 7 | 4 986,97 |  |  | 30 | 7 | 619,54 |
-| 30 | 8 | 5 086,76 |  |  | 30 | 8 | 719,33 |
-| 30 | 9 | 5 188,41 |  |  | 30 | 9 | 820,98 |
-| 30 | 10 | 5 292,19 |  |  | 30 | 10 | 924,76 |
+| 1 | 4 489,08 |  |  | 1 | 121,65 |  |  |
+| 2 | 4 537,31 |  |  | 2 | 169,88 |  |  |
+| 3 | 4 591,23 |  |  | 3 | 223,80 |  |  |
+| 4 | 4 639,64 |  |  | 4 | 272,21 |  |  |
+| 5 | 4 701,25 |  |  | 5 | 333,82 |  |  |
+| 6 | 4 795,43 |  |  | 6 | 428,00 |  |  |
+| 7 | 4 986,97 |  |  | 7 | 619,54 |  |  |
+| 8 | 5 086,76 |  |  | 8 | 719,33 |  |  |
+| 9 | 5 188,41 |  |  | 9 | 820,98 |  |  |
+| 10 | 5 292,19 |  |  | 10 | 924,76 |  |  |
 
 * Montante absorvido pelo valor da RMMG aplicável.
 
 ## ANEXO II — (a que se refere o n.º 1)
 
-| Níveldirecçãochefias | N.ºdediuturn. | Remuneraçãobase2025 |  | NívelChefia | N.ºdiuturn. | Valor |
+| Níveldirecçãochefias | N.ºdediuturn. | Remuneraçãobase2025 |  | Diuturnidades |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Níveldirecçãochefias | N.ºdediuturn. | Remuneraçãobase2025 |  | Diuturnidades | Diuturnidades | Diuturnidades |
+| NívelChefia | N.ºdiuturn. | Valor |  |  |  |  |
 | I | 0 | 3 637,87 |  | I | 0 | 0,00 |
-| I | 1 | 3 693,34 |  | I | 1 | 55,47 |
-| I | 2 | 3 744,72 |  | I | 2 | 106,85 |
-| I | 3 | 3 797,83 |  | I | 3 | 159,96 |
-| I | 4 | 3 851,36 |  | I | 4 | 213,49 |
-| I | 5 | 3 902,33 |  | I | 5 | 264,46 |
-| I | 6 | 3 980,27 |  | I | 6 | 342,40 |
-| I | 7 | 4 139,53 |  | I | 7 | 501,66 |
-| I | 8 | 4 222,37 |  | I | 8 | 584,50 |
-| I | 9 | 4 306,85 |  | I | 9 | 668,98 |
-| I | 10 | 4 393,06 |  | I | 10 | 755,19 |
+| 1 | 3 693,34 |  | 1 | 55,47 |  |  |
+| 2 | 3 744,72 |  | 2 | 106,85 |  |  |
+| 3 | 3 797,83 |  | 3 | 159,96 |  |  |
+| 4 | 3 851,36 |  | 4 | 213,49 |  |  |
+| 5 | 3 902,33 |  | 5 | 264,46 |  |  |
+| 6 | 3 980,27 |  | 6 | 342,40 |  |  |
+| 7 | 4 139,53 |  | 7 | 501,66 |  |  |
+| 8 | 4 222,37 |  | 8 | 584,50 |  |  |
+| 9 | 4 306,85 |  | 9 | 668,98 |  |  |
+| 10 | 4 393,06 |  | 10 | 755,19 |  |  |
 | II | 0 | 3 133,66 |  | II | 0 | 0,00 |
 |  | 1 | 3 185,14 |  |  | 1 | 51,48 |
 |  | 2 | 3 236,62 |  |  | 2 | 102,96 |
@@ -503,34 +579,34 @@ Assim, nos termos do disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 421/
 |  | 9 | 3 740,22 |  |  | 9 | 606,56 |
 |  | 10 | 3 815,00 |  |  | 10 | 681,34 |
 | III | 0 | 2 540,38 |  | III | 0 | 0,00 |
-| III | 1 | 2 578,28 |  | III | 1 | 37,90 |
-| III | 2 | 2 618,08 |  | III | 2 | 77,70 |
-| III | 3 | 2 660,48 |  | III | 3 | 120,10 |
-| III | 4 | 2 703,60 |  | III | 4 | 163,22 |
-| III | 5 | 2 744,26 |  | III | 5 | 203,88 |
-| III | 6 | 2 799,01 |  | III | 6 | 258,63 |
-| III | 7 | 2 910,97 |  | III | 7 | 370,59 |
-| III | 8 | 2 969,19 |  | III | 8 | 428,81 |
-| III | 9 | 3 028,54 |  | III | 9 | 488,16 |
-| III | 10 | 3 089,22 |  | III | 10 | 548,84 |
+| 1 | 2 578,28 |  | 1 | 37,90 |  |  |
+| 2 | 2 618,08 |  | 2 | 77,70 |  |  |
+| 3 | 2 660,48 |  | 3 | 120,10 |  |  |
+| 4 | 2 703,60 |  | 4 | 163,22 |  |  |
+| 5 | 2 744,26 |  | 5 | 203,88 |  |  |
+| 6 | 2 799,01 |  | 6 | 258,63 |  |  |
+| 7 | 2 910,97 |  | 7 | 370,59 |  |  |
+| 8 | 2 969,19 |  | 8 | 428,81 |  |  |
+| 9 | 3 028,54 |  | 9 | 488,16 |  |  |
+| 10 | 3 089,22 |  | 10 | 548,84 |  |  |
 | IV | 0 | 2 187,28 |  | IV | 0 | 0,00 |
-| IV | 1 | 2 222,28 |  | IV | 1 | 35,00 |
-| IV | 2 | 2 261,48 |  | IV | 2 | 74,20 |
-| IV | 3 | 2 299,58 |  | IV | 3 | 112,30 |
-| IV | 4 | 2 344,58 |  | IV | 4 | 157,30 |
-| IV | 5 | 2 396,38 |  | IV | 5 | 209,10 |
-| IV | 6 | 2 442,98 |  | IV | 6 | 255,70 |
-| IV | 7 | 2 538,38 |  | IV | 7 | 351,10 |
-| IV | 8 | 2 588,18 |  | IV | 8 | 400,90 |
-| IV | 9 | 2 638,68 |  | IV | 9 | 451,40 |
-| IV | 10 | 2 690,53 |  | IV | 10 | 503,25 |
+| 1 | 2 222,28 |  | 1 | 35,00 |  |  |
+| 2 | 2 261,48 |  | 2 | 74,20 |  |  |
+| 3 | 2 299,58 |  | 3 | 112,30 |  |  |
+| 4 | 2 344,58 |  | 4 | 157,30 |  |  |
+| 5 | 2 396,38 |  | 5 | 209,10 |  |  |
+| 6 | 2 442,98 |  | 6 | 255,70 |  |  |
+| 7 | 2 538,38 |  | 7 | 351,10 |  |  |
+| 8 | 2 588,18 |  | 8 | 400,90 |  |  |
+| 9 | 2 638,68 |  | 9 | 451,40 |  |  |
+| 10 | 2 690,53 |  | 10 | 503,25 |  |  |
 
 ## ANEXO III — (a que se refere o n.º 1 e o n.º 3)
 
-| BR | N.ºdediuturn. | RemuneraçãoBase2025 |  | BR | N.ºdiuturn. | Valor |
+| BR | N.ºdediuturn. | RemuneraçãoBase2025 |  | Diuturnidades |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| BR | N.ºdediuturn. | RemuneraçãoBase2025 |  | Diuturnidades | Diuturnidades | Diuturnidades |
-| BR | N.ºdediuturn. | RemuneraçãoBase2025 |  | BR | N.ºdiuturn. | Valor |
+|  | BR | N.ºdiuturn. | Valor |  |  |  |
+|  |  |  |  |  |  |  |
 | 21 | 0 | 2 286,78 |  | 21 | 0 | 0,00 |
 |  | 1 | 2 333,98 |  |  | 1 | 47,20 |
 |  | 2 | 2 416,38 |  |  | 2 | 129,60 |
@@ -543,27 +619,27 @@ Assim, nos termos do disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 421/
 |  | 9 | 2 778,68 |  |  | 9 | 491,90 |
 |  | 10 | 2 834,36 |  |  | 10 | 547,58 |
 | 22 | 0 | 2 489,38 |  | 22 | 0 | 0,00 |
-| 22 | 1 | 2 524,38 |  | 22 | 1 | 35,00 |
-| 22 | 2 | 2 557,58 |  | 22 | 2 | 68,20 |
-| 22 | 3 | 2 600,88 |  | 22 | 3 | 111,50 |
-| 22 | 4 | 2 648,28 |  | 22 | 4 | 158,90 |
-| 22 | 5 | 2 698,09 |  | 22 | 5 | 208,71 |
-| 22 | 6 | 2 751,92 |  | 22 | 6 | 262,54 |
-| 22 | 7 | 2 862,14 |  | 22 | 7 | 372,76 |
-| 22 | 8 | 2 919,14 |  | 22 | 8 | 429,76 |
-| 22 | 9 | 2 977,67 |  | 22 | 9 | 488,29 |
-| 22 | 10 | 3 037,33 |  | 22 | 10 | 547,95 |
+| 1 | 2 524,38 |  | 1 | 35,00 |  |  |
+| 2 | 2 557,58 |  | 2 | 68,20 |  |  |
+| 3 | 2 600,88 |  | 3 | 111,50 |  |  |
+| 4 | 2 648,28 |  | 4 | 158,90 |  |  |
+| 5 | 2 698,09 |  | 5 | 208,71 |  |  |
+| 6 | 2 751,92 |  | 6 | 262,54 |  |  |
+| 7 | 2 862,14 |  | 7 | 372,76 |  |  |
+| 8 | 2 919,14 |  | 8 | 429,76 |  |  |
+| 9 | 2 977,67 |  | 9 | 488,29 |  |  |
+| 10 | 3 037,33 |  | 10 | 547,95 |  |  |
 | 23 | 0 | 2 635,28 |  | 23 | 0 | 0,00 |
-| 23 | 1 | 2 681,38 |  | 23 | 1 | 46,10 |
-| 23 | 2 | 2 729,96 |  | 23 | 2 | 94,68 |
-| 23 | 3 | 2 821,18 |  | 23 | 3 | 185,90 |
-| 23 | 4 | 2 856,83 |  | 23 | 4 | 221,55 |
-| 23 | 5 | 2 894,62 |  | 23 | 5 | 259,34 |
-| 23 | 6 | 2 952,44 |  | 23 | 6 | 317,16 |
-| 23 | 7 | 3 070,73 |  | 23 | 7 | 435,45 |
-| 23 | 8 | 3 131,92 |  | 23 | 8 | 496,64 |
-| 23 | 9 | 3 194,64 |  | 23 | 9 | 559,36 |
-| 23 | 10 | 3 258,48 |  | 23 | 10 | 623,20 |
+| 1 | 2 681,38 |  | 1 | 46,10 |  |  |
+| 2 | 2 729,96 |  | 2 | 94,68 |  |  |
+| 3 | 2 821,18 |  | 3 | 185,90 |  |  |
+| 4 | 2 856,83 |  | 4 | 221,55 |  |  |
+| 5 | 2 894,62 |  | 5 | 259,34 |  |  |
+| 6 | 2 952,44 |  | 6 | 317,16 |  |  |
+| 7 | 3 070,73 |  | 7 | 435,45 |  |  |
+| 8 | 3 131,92 |  | 8 | 496,64 |  |  |
+| 9 | 3 194,64 |  | 9 | 559,36 |  |  |
+| 10 | 3 258,48 |  | 10 | 623,20 |  |  |
 | 24 | 0 | 2 818,62 |  | 24 | 0 | 0,00 |
 |  | 1 | 2 900,04 |  |  | 1 | 81,42 |
 |  | 2 | 2 936,71 |  |  | 2 | 118,09 |
@@ -576,27 +652,27 @@ Assim, nos termos do disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 421/
 |  | 9 | 3 376,36 |  |  | 9 | 557,74 |
 |  | 10 | 3 443,99 |  |  | 10 | 625,37 |
 | 25 | 0 | 3 043,97 |  | 25 | 0 | 0,00 |
-| 25 | 1 | 3 085,44 |  | 25 | 1 | 41,47 |
-| 25 | 2 | 3 132,33 |  | 25 | 2 | 88,36 |
-| 25 | 3 | 3 176,87 |  | 25 | 3 | 132,90 |
-| 25 | 4 | 3 262,57 |  | 25 | 4 | 218,60 |
-| 25 | 5 | 3 301,90 |  | 25 | 5 | 257,93 |
-| 25 | 6 | 3 368,09 |  | 25 | 6 | 324,12 |
-| 25 | 7 | 3 502,83 |  | 25 | 7 | 458,86 |
-| 25 | 8 | 3 572,70 |  | 25 | 8 | 528,73 |
-| 25 | 9 | 3 644,10 |  | 25 | 9 | 600,13 |
-| 25 | 10 | 3 717,14 |  | 25 | 10 | 673,17 |
+| 1 | 3 085,44 |  | 1 | 41,47 |  |  |
+| 2 | 3 132,33 |  | 2 | 88,36 |  |  |
+| 3 | 3 176,87 |  | 3 | 132,90 |  |  |
+| 4 | 3 262,57 |  | 4 | 218,60 |  |  |
+| 5 | 3 301,90 |  | 5 | 257,93 |  |  |
+| 6 | 3 368,09 |  | 6 | 324,12 |  |  |
+| 7 | 3 502,83 |  | 7 | 458,86 |  |  |
+| 8 | 3 572,70 |  | 8 | 528,73 |  |  |
+| 9 | 3 644,10 |  | 9 | 600,13 |  |  |
+| 10 | 3 717,14 |  | 10 | 673,17 |  |  |
 | 26 | 0 | 3 228,04 |  | 26 | 0 | 0,00 |
-| 26 | 1 | 3 317,32 |  | 26 | 1 | 89,28 |
-| 26 | 2 | 3 352,77 |  | 26 | 2 | 124,73 |
-| 26 | 3 | 3 392,10 |  | 26 | 3 | 164,06 |
-| 26 | 4 | 3 428,15 |  | 26 | 4 | 200,11 |
-| 26 | 5 | 3 474,22 |  | 26 | 5 | 246,18 |
-| 26 | 6 | 3 543,69 |  | 26 | 6 | 315,65 |
-| 26 | 7 | 3 685,37 |  | 26 | 7 | 457,33 |
-| 26 | 8 | 3 759,02 |  | 26 | 8 | 530,98 |
-| 26 | 9 | 3 834,30 |  | 26 | 9 | 606,26 |
-| 26 | 10 | 3 911,02 |  | 26 | 10 | 682,98 |
+| 1 | 3 317,32 |  | 1 | 89,28 |  |  |
+| 2 | 3 352,77 |  | 2 | 124,73 |  |  |
+| 3 | 3 392,10 |  | 3 | 164,06 |  |  |
+| 4 | 3 428,15 |  | 4 | 200,11 |  |  |
+| 5 | 3 474,22 |  | 5 | 246,18 |  |  |
+| 6 | 3 543,69 |  | 6 | 315,65 |  |  |
+| 7 | 3 685,37 |  | 7 | 457,33 |  |  |
+| 8 | 3 759,02 |  | 8 | 530,98 |  |  |
+| 9 | 3 834,30 |  | 9 | 606,26 |  |  |
+| 10 | 3 911,02 |  | 10 | 682,98 |  |  |
 | 27 | 0 | 3 486,28 |  | 27 | 0 | 0,00 |
 |  | 1 | 3 583,22 |  |  | 1 | 96,94 |
 |  | 2 | 3 621,52 |  |  | 2 | 135,24 |
@@ -609,27 +685,27 @@ Assim, nos termos do disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 421/
 |  | 9 | 4 141,47 |  |  | 9 | 655,19 |
 |  | 10 | 4 224,41 |  |  | 10 | 738,13 |
 | 28 | 0 | 3 766,07 |  | 28 | 0 | 0,00 |
-| 28 | 1 | 3 870,46 |  | 28 | 1 | 104,39 |
-| 28 | 2 | 3 911,22 |  | 28 | 2 | 145,15 |
-| 28 | 3 | 3 957,29 |  | 28 | 3 | 191,22 |
-| 28 | 4 | 3 998,76 |  | 28 | 4 | 232,69 |
-| 28 | 5 | 4 053,01 |  | 28 | 5 | 286,94 |
-| 28 | 6 | 4 134,11 |  | 28 | 6 | 368,04 |
-| 28 | 7 | 4 299,49 |  | 28 | 7 | 533,42 |
-| 28 | 8 | 4 385,40 |  | 28 | 8 | 619,33 |
-| 28 | 9 | 4 473,15 |  | 28 | 9 | 707,08 |
-| 28 | 10 | 4 562,63 |  | 28 | 10 | 796,56 |
+| 1 | 3 870,46 |  | 1 | 104,39 |  |  |
+| 2 | 3 911,22 |  | 2 | 145,15 |  |  |
+| 3 | 3 957,29 |  | 3 | 191,22 |  |  |
+| 4 | 3 998,76 |  | 4 | 232,69 |  |  |
+| 5 | 4 053,01 |  | 5 | 286,94 |  |  |
+| 6 | 4 134,11 |  | 6 | 368,04 |  |  |
+| 7 | 4 299,49 |  | 7 | 533,42 |  |  |
+| 8 | 4 385,40 |  | 8 | 619,33 |  |  |
+| 9 | 4 473,15 |  | 9 | 707,08 |  |  |
+| 10 | 4 562,63 |  | 10 | 796,56 |  |  |
 | 29 | 0 | 4 067,00 |  | 29 | 0 | 0,00 |
-| 29 | 1 | 4 180,28 |  | 29 | 1 | 113,28 |
-| 29 | 2 | 4 224,52 |  | 29 | 2 | 157,52 |
-| 29 | 3 | 4 274,26 |  | 29 | 3 | 207,26 |
-| 29 | 4 | 4 318,80 |  | 29 | 4 | 251,80 |
-| 29 | 5 | 4 377,13 |  | 29 | 5 | 310,13 |
-| 29 | 6 | 4 464,77 |  | 29 | 6 | 397,77 |
-| 29 | 7 | 4 643,23 |  | 29 | 7 | 576,23 |
-| 29 | 8 | 4 736,08 |  | 29 | 8 | 669,08 |
-| 29 | 9 | 4 830,78 |  | 29 | 9 | 763,78 |
-| 29 | 10 | 4 927,41 |  | 29 | 10 | 860,41 |
+| 1 | 4 180,28 |  | 1 | 113,28 |  |  |
+| 2 | 4 224,52 |  | 2 | 157,52 |  |  |
+| 3 | 4 274,26 |  | 3 | 207,26 |  |  |
+| 4 | 4 318,80 |  | 4 | 251,80 |  |  |
+| 5 | 4 377,13 |  | 5 | 310,13 |  |  |
+| 6 | 4 464,77 |  | 6 | 397,77 |  |  |
+| 7 | 4 643,23 |  | 7 | 576,23 |  |  |
+| 8 | 4 736,08 |  | 8 | 669,08 |  |  |
+| 9 | 4 830,78 |  | 9 | 763,78 |  |  |
+| 10 | 4 927,41 |  | 10 | 860,41 |  |  |
 | 30 | 0 | 4 367,93 |  | 30 | 0 | 0,00 |
 |  | 1 | 4 490,10 |  |  | 1 | 122,17 |
 |  | 2 | 4 537,82 |  |  | 2 | 169,89 |
@@ -641,3 +717,7 @@ Assim, nos termos do disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 421/
 |  | 8 | 5 086,76 |  |  | 8 | 718,83 |
 |  | 9 | 5 188,41 |  |  | 9 | 820,48 |
 |  | 10 | 5 292,19 |  |  | 10 | 924,26 |
+
+119947637
+
+.Tbl2 { min-height:17px; } .Tbl3 { margin-top:0px; text-align:center; } .Tbl4 { border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl5 { min-height:26px; } .Tbl6 { min-height:18px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { text-align:center; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl11 { border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl12 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl14 { min-height:19px; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl16 { min-height:11px; } .Tbl17 { min-height:14px; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl19 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; }

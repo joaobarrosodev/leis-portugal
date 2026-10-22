@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/47-a/2026/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/47-a-2026-1063831109
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-27T00:00:00Z'
+  retrieved_at: '2026-10-22T18:34:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 751617d96bedb796f9226831042ce28a9578175242b807f934a98af390d1a9fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a01fcc533db4fe518ff762fdd4843212b9c1325d34d3ca9613bd420d94f19cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:34:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Comissão de Coordenação e Desenvolvimento Regional do Norte
-- Comissão de Coordenação e Desenvolvimento Regional de Lisboa e VALE do TEJO
-- Comissão de Coordenação e Desenvolvimento Regional do Algarve
 - Comissão de Coordenação e Desenvolvimento Regional
+- Comissão de Coordenação e Desenvolvimento Regional de Lisboa e VALE do TEJO
 - Comissão de Coordenação e Desenvolvimento Regional do Alentejo
+- Comissão de Coordenação e Desenvolvimento Regional do Algarve
 - Comissão de Coordenação e Desenvolvimento Regional do Centro
+- Comissão de Coordenação e Desenvolvimento Regional do Norte
 - Nomeação
 - Vice-presidente
 relationships:
@@ -86,16 +86,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/71/2007/03/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/71/2007/03/27/p/dre
+- type: cites
+  target: pt:dre:1038073214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213558633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:34:03Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +134,7 @@ Assim:
 
 Nos termos do n.º 1 do artigo 13.º da Orgânica das Comissões de Coordenação e Desenvolvimento Regional, aprovada em anexo ao [Decreto-Lei n.º 36/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2023-213558633), de 26 de maio, e da alínea e) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Designar, na sequência da conclusão do processo eleitoral realizado nos termos do disposto nos n.<sup>os</sup>3 e 4 do artigo 13.º da Lei Orgânica das CCDR, I. P., aprovada em anexo ao [Decreto-Lei n.º 36/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2023-213558633), de 26 de maio, respetivamente:
+1 - Designar, na sequência da conclusão do processo eleitoral realizado nos termos do disposto nos n.os3 e 4 do artigo 13.º da Lei Orgânica das CCDR, I. P., aprovada em anexo ao [Decreto-Lei n.º 36/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2023-213558633), de 26 de maio, respetivamente:
 
 a) Como vice-presidentes da CCDR Norte, I. P.:
 
@@ -226,7 +242,7 @@ Habilitações literárias:
 
 Doutor em Ciências de Engenharia pela Universidade de Trás-os-Montes e Alto Douro.
 
-# Parte Curricular do Mestrado em Engenharia Urbana pela Faculdade de Ciências e Tecnologia da Universidade de Coimbra.
+Parte Curricular do Mestrado em Engenharia Urbana pela Faculdade de Ciências e Tecnologia da Universidade de Coimbra.
 
 Licenciatura em Engenharia Civil na Universidade de Trás-os-Montes e Alto Douro.
 
@@ -278,7 +294,7 @@ Maria José da Silva Fernandes
 
 Habilitações literárias:
 
-## Título de Agregada em Gestão no Instituto Superior de Economia e Gestão, Universidade Técnica de Lisboa;
+Título de Agregada em Gestão no Instituto Superior de Economia e Gestão, Universidade Técnica de Lisboa;
 
 Doutoramento em Ciências Empresariais (ramo Contabilidade) na Universidade de Santiago de Compostela, Espanha.
 
@@ -306,7 +322,7 @@ Especialista em Educação para Adultos pela Universidade do Minho;
 
 Licenciatura em Economia pela Universidade do Minho;
 
-# Parte curricular do Mestrado concluída com tese suspensa.
+Parte curricular do Mestrado concluída com tese suspensa.
 
 Experiência profissional:
 
@@ -320,7 +336,7 @@ Experiência profissional:
 
 2009-2019 - Presidente da Câmara Municipal de Valença;
 
-1998-2009 - Consultor de economia, estratégia e avaliação imobiliária, desenvolvendo atividade profissional na PARTEX-CPS, S. A. (1989-1992), na CPU Consultores, S. A. (1992-1994) como diretor administrativo e financeiro e sócio-gerente da CIM - Valorização Estratégica de Patrimónios Imobiliários, L.<sup>da</sup> (1994-2009).
+1998-2009 - Consultor de economia, estratégia e avaliação imobiliária, desenvolvendo atividade profissional na PARTEX-CPS, S. A. (1989-1992), na CPU Consultores, S. A. (1992-1994) como diretor administrativo e financeiro e sócio-gerente da CIM - Valorização Estratégica de Patrimónios Imobiliários, L.da (1994-2009).
 
 1990-1998 - Assistente e professor convidado em várias instituições de ensino superior: INP - Instituto Superior de Novas Profissões (1990-1998); Faculdade de Ciências e Tecnologias da Universidade Nova de Lisboa (1996-1998) e ESAI - Escola Superior de Atividades Imobiliárias (1996-1998).
 
@@ -352,7 +368,7 @@ Experiência profissional:
 
 2011-2018 - Professora Auxiliar na Universidade Lusófona do Porto;
 
-2004-2007 - Diretora Comercial na Armando Flávio Alves Leite, L.<sup>da</sup>;
+2004-2007 - Diretora Comercial na Armando Flávio Alves Leite, L.da;
 
 2003-2004 - Assessora Administrativa e Financeira na Cotesi, S. A.;
 
@@ -608,7 +624,7 @@ Jorge Bruno da Silva Barbosa Gaspar
 
 Habilitações literárias:
 
-## Título de Especialista com Provas Públicas em Direito do Trabalho (PEpp), Instituto Politécnico de Leiria;
+Título de Especialista com Provas Públicas em Direito do Trabalho (PEpp), Instituto Politécnico de Leiria;
 
 Especialista em Segurança e Higiene no Trabalho reconhecido pelo Conselho Técnico-Científico do Instituto Superior de Educação e Ciências - ISEC Lisboa, nos termos do [DL n.º 115/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), de 7 de agosto;
 
@@ -622,7 +638,7 @@ Experiência profissional:
 
 2021-2026 - Diretor da Consulting by AIP - Unidade de Consultoria da Associação Industrial Portuguesa - AIP-CCI;
 
-2016-2026 - Sócio-gerente da Jorge Gaspar Consultores - Estratégia e Desenvolvimento, L.<sup>da</sup>;
+2016-2026 - Sócio-gerente da Jorge Gaspar Consultores - Estratégia e Desenvolvimento, L.da;
 
 2013 - Presidente do Conselho Diretivo do Instituto do Emprego e Formação Profissional (IEFP, IP) (por inerência, Presidente do Conselho de Administração do mesmo instituto);
 
@@ -632,7 +648,7 @@ Experiência profissional:
 
 2011-2011 - Secretário-Geral do Instituto Superior de Educação e Ciências - ISEC Lisboa;
 
-2007-2011 - Sócio-gerente da Inovvalor - Formação, Estudos e Consultoria, L.<sup>da</sup>;
+2007-2011 - Sócio-gerente da Inovvalor - Formação, Estudos e Consultoria, L.da;
 
 2007-2011 - Consultor de Empresas e Formador;
 
@@ -892,7 +908,7 @@ António Marciano Graça Lopes
 
 Habilitações literárias:
 
-## Título de Especialista na Área Científica da Gestão e Administração;
+Título de Especialista na Área Científica da Gestão e Administração;
 
 Pós-graduação em Gestão do Setor Público Administrativo;
 
@@ -968,7 +984,7 @@ Licenciatura em Engenharia Agrícola pela Universidade de Évora.
 
 Experiência profissional:
 
-2016-2026 - Diretora executiva na empresa ML Consultoria Agrícola, L.<sup>da</sup>;
+2016-2026 - Diretora executiva na empresa ML Consultoria Agrícola, L.da;
 
 2022-2025 - Coordenadora da Pós-Graduação Gestão Sustentável do Setor Olivícola no Instituto Politécnico de Beja;
 
@@ -1100,7 +1116,7 @@ Unidade Local de Saúde do Algarve, EPE;
 
 2002-2003 - Técnica Superior na Unidade Administrativa e Financeira do Instituto da Solidariedade e Segurança Social;
 
-2001-2002 - Assessora Financeira na PriceWaterHouse&Coopers;
+2001-2002 - Assessora Financeira na PriceWaterHouse&Coopers
 
 2000-2001 - Auditora Assistente no Departamento de Auditoria e Assessoria Financeira.
 
@@ -1120,17 +1136,17 @@ Licenciatura Faculdade de Arquitetura da Universidade de Lisboa.
 
 Experiência profissional:
 
-2017 - Arquiteta - Atelier Teresa Correia, Arquitetura e Urbanismo, L.<sup>da</sup>;
+2017 - Arquiteta - Atelier Teresa Correia, Arquitetura e Urbanismo, L.da;
 
 2013-2017 - Vereadora - Câmara Municipal de Faro;
 
 2009-2013 - Vereadora - Câmara Municipal de Faro;
 
-1996-2009 - Arquiteta - Atelier Teresa Correia, Arquitetura e Urbanismo, L.<sup>da</sup>;
+1996-2009 - Arquiteta - Atelier Teresa Correia, Arquitetura e Urbanismo, L.da;
 
 1994-2009 - Arquiteta - Trabalhador Independente;
 
-1992-1994 - Arquiteta - Atelier b.r. - Braula Reis, L.<sup>da</sup>
+1992-1994 - Arquiteta - Atelier b.r. - Braula Reis, L.da
 
 Bruno Miguel Martins Inácio
 
@@ -1185,3 +1201,5 @@ Experiência profissional:
 1987-1988 - Setor de Economia Projeto de Aprimoramento da Produção e Comercialização de Produtos Hortofrutícolas (Cooperação Luso-Alemã) na Direção Regional de Agricultura do Algarve, no Patacão, Faro;
 
 1986-1987 - Estágio curricular, no setor de economia do ex-Projeto de Aprimoramento da Produção e Comercialização de Produtos Hortofrutícolas (Cooperação Luso-Alemã) na Direção Regional de Agricultura do Algarve, no Patacão-Faro.
+
+119947871

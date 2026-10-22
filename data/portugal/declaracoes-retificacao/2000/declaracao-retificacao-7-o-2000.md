@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 175/2000, 5º Suplemento, Série I-B de 2000-07-31
   number: '175'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 3680-(30) a 3680-(30)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/07/175b05/00300030.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/7-o/2000/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-o-2000-316742
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:56:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0bafaf6e51b2e8b75f0d5b7f1439520746d0c7cc30a885dd0fd52906534cfd30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27c668574c5d0b156f92cf1be5126f59940b5c2ff7a3cc8adcbaf5e3a088be4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:56:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,43 +68,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Aquicultura
+- Artes de Pesca
 - Autoridade Nacional
-- Multa
 - Definição de Competências
 - Direcção Geral das Pescas e Aquicultura
-- Mar Territorial
-- União Europeia
+- Embarcação de Pesca
+- Espécie Protegida
 - Fiscalização
-- RIO TEJO
-- Pesca
 - Inspecção Geral das Pescas
 - Instituto de Investigação das Pescas e do Mar
 - Licenciamento
-- Recursos do Mar
-- Aquicultura
-- Peixe
-- Artes de Pesca
-- Espécie Protegida
 - Madeira.região Autónoma
-- Embarcação de Pesca
+- Mar Territorial
+- Multa
+- Peixe
+- Pesca
+- Recursos do Mar
+- RIO TEJO
 - Sinalização Marítima
-- Açores
 - Taxa
+- União Europeia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/7/2000/05/30/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/7/2000/05/30/p/dre
+- type: cites
+  target: pt:dre:292958:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:56:52Z'
   warnings: []
   errors: []
 ---

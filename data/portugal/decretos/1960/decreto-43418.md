@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1960/12/29400/27952798.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43418-1960-513577
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-09-26T00:00:00Z'
+  retrieved_at: '2026-10-22T19:21:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a62a025930cd5101549d33871a65bbe599da09c40e2c850ca9c5587315917aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d46c2c35a30df8d941a0732601f48bee26e60397d32a6bee07f2d25cd5c8fa40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:21:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Empresas
+- Fusão de Empresas
+- Indústria Agro-alimentar
+- Lacticínios
+- Leite
+- Madeira.ilha Adjacente
+- Ministério da Economia
+- Preço
+- Reestruturação Industrial
+- Secretaria de Estado da Indústria
 relationships:
 - type: amended_by
   target: pt:dre:264552:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518409:por
+  label: "Dada nova redacção aos arts. 5º, 7º, 9º e 20º pelo DEC.44183.09.02.1962.MECO, DG.IS [29] de 09.02.1962, que determinou\
+    \ que se passassem a contar a partir da data daquele diploma (09.02.1962) os prazos previstos nos arts. 17º e seguintes\
+    \ do presente.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/44183-1962-518409
+  date: '1962-02-09'
+- type: amended_by
+  target: pt:dre:508066:por
+  label: "Suspensa a execução das diposições contidas neste diploma pelo DEC.46782.22.12.1965.MECO, DG.IS [289] de 22.12.1965\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/46782-1965-508066
+  date: '1965-12-22'
+- type: cites
+  target: pt:dre:251851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:597284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614081:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:264552:por
+  label: "Revogado, a partir de 01.10.1968, pelo DEC LEI.48593.26.09.1968.MECO, DG.IS [228] de 26.09.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48593-1968-264552
+  date: '1968-09-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:21:43Z'
   warnings: []
   errors: []
 ---
@@ -118,11 +158,11 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 Reorganização da indústria de lacticínios da ilha da Madeira
 
-###### Artigo 1.º É reorganizada a indústria de lacticínios da ilha da Madeira nos termos constantes do presente diploma.
+Artigo 1.º É reorganizada a indústria de lacticínios da ilha da Madeira nos termos constantes do presente diploma.
 
-###### Art. 2.º A reorganização da indústria de lacticínios da ilha da Madeira será feita pela concentração das actuais empresas de produção de lacticínios existentes naquela ilha numa só empresa, que instalará e explorará uma nova unidade fabril, a construir especialmente para este efeito.
+Art. 2.º A reorganização da indústria de lacticínios da ilha da Madeira será feita pela concentração das actuais empresas de produção de lacticínios existentes naquela ilha numa só empresa, que instalará e explorará uma nova unidade fabril, a construir especialmente para este efeito.
 
-###### Art. 3.º A unidade fabril acima referida deverá obedecer às seguintes condições:
+Art. 3.º A unidade fabril acima referida deverá obedecer às seguintes condições:
 
 a) Ser construída e apetrechada segundo projecto aprovado pela Direcção-Geral dos Serviços Pecuários, nos termos do n.º 5.º do artigo 9.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), de 20 de Novembro de 1957;
 
@@ -132,9 +172,9 @@ c) Possuir equipamento para a produção de manteiga pasteurizada, queijo e outr
 
 d) Possuir equipamento para higienização de leite.
 
-###### Art. 4.º A empresa resultante da concentração das actualmente existentes deverá ser constituída pela União das Cooperativas Agrícolas de Lacticínios e Produtoras de Leite da Ilha da Madeira, como representante das empresas cooperativas agrícolas de lacticínios existentes ou que venham a criar-se, pelo agrupamento dos proprietários das empresas industriais, agrupados como acordarem, e pela Junta Geral do Distrito Autónomo do Funchal.
+Art. 4.º A empresa resultante da concentração das actualmente existentes deverá ser constituída pela União das Cooperativas Agrícolas de Lacticínios e Produtoras de Leite da Ilha da Madeira, como representante das empresas cooperativas agrícolas de lacticínios existentes ou que venham a criar-se, pelo agrupamento dos proprietários das empresas industriais, agrupados como acordarem, e pela Junta Geral do Distrito Autónomo do Funchal.
 
-###### Art. 5.º A empresa acima referida constituir-se-á sob a forma de uma sociedade por quotas, com o capital mínimo de 8000 contos, distribuindo-se nas seguintes proporções:
+Art. 5.º A empresa acima referida constituir-se-á sob a forma de uma sociedade por quotas, com o capital mínimo de 8000 contos, distribuindo-se nas seguintes proporções:
 
 49 por cento pela União das Cooperativas Agrícolas de Lacticínios e Produtoras de Leite da Ilha da Madeira.
 
@@ -152,13 +192,13 @@ d) Possuir equipamento para higienização de leite.
 
 3.º Pelo valor em dinheiro: ou produtos dos respectivos agrupamentos.
 
-###### Art. 6.º O objecto da nova sociedade será o fabrico e comércio de todos os produtos que tenham o leite como matéria-prima, tomando em conta as exigências higiénicas e tecnológicas que lhe foram impostas. Compete-lhe ainda explorar os postos de recolha ou desnatação existentes ou a criar.
+Art. 6.º O objecto da nova sociedade será o fabrico e comércio de todos os produtos que tenham o leite como matéria-prima, tomando em conta as exigências higiénicas e tecnológicas que lhe foram impostas. Compete-lhe ainda explorar os postos de recolha ou desnatação existentes ou a criar.
 
-###### Art. 7.º A gerência da nova sociedade será exercida por três membros, escolhidos um por cada sócio, entre os seus legais representantes, indicados por simples carta registada enviada com aviso de recepção.
+Art. 7.º A gerência da nova sociedade será exercida por três membros, escolhidos um por cada sócio, entre os seus legais representantes, indicados por simples carta registada enviada com aviso de recepção.
 
-###### Art. 8.º Durante o período fixado no artigo 12.º as deliberações referentes a alterações do pacto social que digam respeito a aumento de capital ou à dissolução da sociedade carecem de ser aprovadas pelo Secretário de Estado da Indústria.
+Art. 8.º Durante o período fixado no artigo 12.º as deliberações referentes a alterações do pacto social que digam respeito a aumento de capital ou à dissolução da sociedade carecem de ser aprovadas pelo Secretário de Estado da Indústria.
 
-###### Art. 9.º As actuais empresas de produção de lacticínios da ilha da Madeira têm, perante a nova sociedade, os seguintes direitos:
+Art. 9.º As actuais empresas de produção de lacticínios da ilha da Madeira têm, perante a nova sociedade, os seguintes direitos:
 
 a) As empresas industriais: participar na quota do respectivo agrupamento, na proporção do leite laborado durante o ano de 1959;
 
@@ -172,33 +212,33 @@ e) As empresas industriais que não quiserem fazer parte da nova sociedade e at�
 
 § único. Sem prejuízo do disposto na alínea d), as actuais empresas exportadoras não industriais gozarão de preferência semelhante à prevista naquela alínea perante quaisquer novas empresas exportadoras não industriais.
 
-###### Art. 10.º Após o início da laboração da nova unidade fabril todos os restantes estabelecimentos de produção de lacticínios da ilha da Madeira cessarão a laboração, nos termos da primeira parte da base XI da [Lei n.º 2005](https://diariodarepublica.pt/dr/detalhe/lei/2005-1945-614081) e da última parte da base VIII da [Lei n.º 2052](https://diariodarepublica.pt/dr/detalhe/lei/2052-1952-597284).
+Art. 10.º Após o início da laboração da nova unidade fabril todos os restantes estabelecimentos de produção de lacticínios da ilha da Madeira cessarão a laboração, nos termos da primeira parte da base XI da [Lei n.º 2005](https://diariodarepublica.pt/dr/detalhe/lei/2005-1945-614081) e da última parte da base VIII da [Lei n.º 2052](https://diariodarepublica.pt/dr/detalhe/lei/2052-1952-597284).
 
-###### Art. 11.º O Ministério da Economia, pela Secretaria de Estado da Indústria, adoptará as providências previstas no segundo parágrafo da base IX da [Lei n.º 2005](https://diariodarepublica.pt/dr/detalhe/lei/2005-1945-614081) se, nos prazos fixados, não for dada execução à presente concentração.
+Art. 11.º O Ministério da Economia, pela Secretaria de Estado da Indústria, adoptará as providências previstas no segundo parágrafo da base IX da [Lei n.º 2005](https://diariodarepublica.pt/dr/detalhe/lei/2005-1945-614081) se, nos prazos fixados, não for dada execução à presente concentração.
 
-###### Art. 12.º Durante o período de dez anos, a contar da data da constituição da nova sociedade, não será autorizada a instalação de qualquer outra unidade fabril de lacticínios na ilha da Madeira.
+Art. 12.º Durante o período de dez anos, a contar da data da constituição da nova sociedade, não será autorizada a instalação de qualquer outra unidade fabril de lacticínios na ilha da Madeira.
 
-###### Art. 13.º A nova sociedade poderá gozar, nos termos das alíneas a), b), c) e d) da base XVI da [Lei n.º 2005](https://diariodarepublica.pt/dr/detalhe/lei/2005-1945-614081), de concessão de créditos e de isenção do pagamento de direitos de importação sobre os maquinismos, utensílios, materiais e equipamento necessários à instalação da nova unidade fabril, bem como do pagamento de sisa, selo de traspasse e contribuição industrial, durante o período de organização e montagem.
+Art. 13.º A nova sociedade poderá gozar, nos termos das alíneas a), b), c) e d) da base XVI da [Lei n.º 2005](https://diariodarepublica.pt/dr/detalhe/lei/2005-1945-614081), de concessão de créditos e de isenção do pagamento de direitos de importação sobre os maquinismos, utensílios, materiais e equipamento necessários à instalação da nova unidade fabril, bem como do pagamento de sisa, selo de traspasse e contribuição industrial, durante o período de organização e montagem.
 
-###### Art. 14.º A nova sociedade ficará com a obrigação do construir e equipar, pelo menos, dez novos postos de recepção ou de desnatação por ano, de acordo com um plano a aprovar pelo Ministro da Economia e com as possibilidades que se vierem a verificar para o fabrico de outros lacticínios além de manteiga, bem como de substituir ou remodelar os existentes de forma a melhorar as respectivas condições higieno-técnicas de funcionamento.
+Art. 14.º A nova sociedade ficará com a obrigação do construir e equipar, pelo menos, dez novos postos de recepção ou de desnatação por ano, de acordo com um plano a aprovar pelo Ministro da Economia e com as possibilidades que se vierem a verificar para o fabrico de outros lacticínios além de manteiga, bem como de substituir ou remodelar os existentes de forma a melhorar as respectivas condições higieno-técnicas de funcionamento.
 
-###### Art. 15.º A nova unidade industrial disporá de instalações Laboratoriais adequadas para exercerem rigorosa fiscalização na qualidade da matéria-prima e dos produtos fabricados, ficando o Governo, por portaria do Ministro da Economia, com a faculdade de oficializar o serviço desse laboratório, mediante as condições a estabelecer, para o efeito de colaborar na campanha de higienização do leite.
+Art. 15.º A nova unidade industrial disporá de instalações Laboratoriais adequadas para exercerem rigorosa fiscalização na qualidade da matéria-prima e dos produtos fabricados, ficando o Governo, por portaria do Ministro da Economia, com a faculdade de oficializar o serviço desse laboratório, mediante as condições a estabelecer, para o efeito de colaborar na campanha de higienização do leite.
 
-###### Art. 16.º O preço do leite será fixado pelo Governo, por períodos não inferiores a um mês, tendo em atenção os preços de venda dos produtos e os justos interesses da indústria e dos produtores de leite. Esse preço poderá ser variável com o teor butiroso e o teor microbiano.
+Art. 16.º O preço do leite será fixado pelo Governo, por períodos não inferiores a um mês, tendo em atenção os preços de venda dos produtos e os justos interesses da indústria e dos produtores de leite. Esse preço poderá ser variável com o teor butiroso e o teor microbiano.
 
-###### Art. 17.º Nos 90 dias seguintes à entrada em vigor do presente diploma as entidades referidas no artigo. 5.º deverão apresentar na Direcção-Geral dos Serviços Industriais um projecto de escritura de constituição da nova sociedade, a qual, uma vez aprovado aquele projecto pelo Ministro da Economia, deverá ser celebrada nos 60 dias seguintes.
+Art. 17.º Nos 90 dias seguintes à entrada em vigor do presente diploma as entidades referidas no artigo. 5.º deverão apresentar na Direcção-Geral dos Serviços Industriais um projecto de escritura de constituição da nova sociedade, a qual, uma vez aprovado aquele projecto pelo Ministro da Economia, deverá ser celebrada nos 60 dias seguintes.
 
-###### Art. 18.º Nos 180 dias seguintes à celebração da escritura deverá a nova sociedade apresentar na Direcção-Geral dos Serviços Pecuários o projecto da nova unidade fabril, cuja instalação deverá ficar concluída nos 18 meses seguintes à sua aprovação.
+Art. 18.º Nos 180 dias seguintes à celebração da escritura deverá a nova sociedade apresentar na Direcção-Geral dos Serviços Pecuários o projecto da nova unidade fabril, cuja instalação deverá ficar concluída nos 18 meses seguintes à sua aprovação.
 
-###### Art. 19.º No prazo de doze meses, a contar da publicação deste diploma, a nova sociedade apresentará à aprovação dos Ministros da Economia e das Corporações e Previdência Social um projecto das condições de admissão de novo pessoal e despedimento do que for dispensado, conforme a lei geral e o previsto na base XV da [Lei n.º 2005](https://diariodarepublica.pt/dr/detalhe/lei/2005-1945-614081).
+Art. 19.º No prazo de doze meses, a contar da publicação deste diploma, a nova sociedade apresentará à aprovação dos Ministros da Economia e das Corporações e Previdência Social um projecto das condições de admissão de novo pessoal e despedimento do que for dispensado, conforme a lei geral e o previsto na base XV da [Lei n.º 2005](https://diariodarepublica.pt/dr/detalhe/lei/2005-1945-614081).
 
-###### Art. 20.º Se a Cooperativa Agrícola dos Produtores de Leite do Funchal transferir para a União das Cooperativas Agrícolas de Lacticínios e Produtoras de Leite da Ilha da Madeira, com os inerentes direitos, a concessão para o tratamento do leite a fornecer em regime de exclusivo, no concelho do Funchal, conforme se prevê no artigo 5.º do contrato de concessão aprovado em reunião de 21 de Agosto de 1958 da Câmara Municipal do Funchal, aquela terá direito a participar da quota da União das Cooperativas Agrícolas de Lacticínios e Produtoras de Leite da Ilha da Madeira na nova sociedade, em percentagem a acordar entre as duas e aprovada pelo Secretário de Estado da Indústria.
+Art. 20.º Se a Cooperativa Agrícola dos Produtores de Leite do Funchal transferir para a União das Cooperativas Agrícolas de Lacticínios e Produtoras de Leite da Ilha da Madeira, com os inerentes direitos, a concessão para o tratamento do leite a fornecer em regime de exclusivo, no concelho do Funchal, conforme se prevê no artigo 5.º do contrato de concessão aprovado em reunião de 21 de Agosto de 1958 da Câmara Municipal do Funchal, aquela terá direito a participar da quota da União das Cooperativas Agrícolas de Lacticínios e Produtoras de Leite da Ilha da Madeira na nova sociedade, em percentagem a acordar entre as duas e aprovada pelo Secretário de Estado da Indústria.
 
-###### Art. 21.º Dos lucros da sociedade, apurados após o pagamento das despesas de exploração e a reintegração do equipamentos e edificações, será retirada uma verba correspondente a 20 por cento, que se destina ao fomento da bovinicultura e ao melhoramento das condições higiénicas da produção do leite da ilha da Madeira. A orientação e execução do plano mais adequado à realização destes objectivos competirão à Junta Geral do Distrito Autónomo do Funchal, através da Intendência de Pecuária, após prévia aprovação da Direcção-Geral dos Serviços Pecuários.
+Art. 21.º Dos lucros da sociedade, apurados após o pagamento das despesas de exploração e a reintegração do equipamentos e edificações, será retirada uma verba correspondente a 20 por cento, que se destina ao fomento da bovinicultura e ao melhoramento das condições higiénicas da produção do leite da ilha da Madeira. A orientação e execução do plano mais adequado à realização destes objectivos competirão à Junta Geral do Distrito Autónomo do Funchal, através da Intendência de Pecuária, após prévia aprovação da Direcção-Geral dos Serviços Pecuários.
 
-###### Art. 22.º No prazo de dois anos, a contar da publicação do presente decreto, o Governo procederá à revisão da orgânica, atribuições e competência da Junta dos Lacticínios da Madeira, de forma a adaptar as suas funções de coordenação económica ao novo condicionalismo criado pela presente reorganização e ainda a estender a sua acção coordenadora a todos os produtos de origem animal.
+Art. 22.º No prazo de dois anos, a contar da publicação do presente decreto, o Governo procederá à revisão da orgânica, atribuições e competência da Junta dos Lacticínios da Madeira, de forma a adaptar as suas funções de coordenação económica ao novo condicionalismo criado pela presente reorganização e ainda a estender a sua acção coordenadora a todos os produtos de origem animal.
 
-###### Art. 23.º As quotas das empresas industriais previstas na alínea a) do artigo 9.º são fixadas na seguinte proporção:
+Art. 23.º As quotas das empresas industriais previstas na alínea a) do artigo 9.º são fixadas na seguinte proporção:
 
 ... Rateio
 
@@ -254,8 +294,8 @@ Martinho de Gouveia ... 0,182
 
 António Vieira Prioste ... 0,136
 
-###### Art. 24.º As dúvidas ou casos omissos que surjam na execução deste diploma serão resolvidos por despacho do Ministro da Economia.
+Art. 24.º As dúvidas ou casos omissos que surjam na execução deste diploma serão resolvidos por despacho do Ministro da Economia.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José do Nascimento Ferreira Dias Júnior.

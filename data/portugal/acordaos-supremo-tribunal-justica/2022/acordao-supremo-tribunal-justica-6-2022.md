@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/09/18400/0000500015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/6/2022/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/6-2022-201354551
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-22T00:00:00Z'
+  retrieved_at: '2026-10-22T17:54:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed15dbdacbf7fadd99584c9c7fda7f97370b24d6a65e1eb06b86b3dddaa684df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76367017f9185ac05ee48c222f0f0f752e11ebbf71ca583db486ff6d9b20903d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:54:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,6 +71,7 @@ subjects:
 - Amortização
 - Código Civil
 - Contrato de Mútuo
+- Direito Civil
 - Dívida
 - Interpretação do Direito
 - Juros
@@ -78,7 +79,6 @@ subjects:
 - Prazo
 - Prescrição
 - Prestações Pecuniárias
-- Direito Civil
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/acstj/7/2009/05/05/p/dre
@@ -88,16 +88,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/227/2012/10/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/227/2012/10/25/p/dre
+- type: cites
+  target: pt:dre:192425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607989:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:54:30Z'
   warnings: []
   errors: []
 ---
@@ -378,7 +386,7 @@ III
 
 A posição doutrinal que, em II, entendemos a mais adequada, ou seja, a aplicação da prescrição de 5 anos à acumulação das quotas de amortização do capital por perda de benefício do prazo (artigo 781.º CCiv), vem sustentada na quase totalidade da jurisprudência do Supremo Tribunal de Justiça, designadamente no Ac. S.T.J. 29/9/2016, revista n.º 201/13.1TBMIR-A.C1.S1 (Lopes do Rego) cit. e também nos Acs. S.T.J. 8/4/2021, revista n.º 5329/19.1T8STB-A.E1.S1 (Nuno Pinto Oliveira), S.T.J. 9/2/2021, revista n.º 15273/18.4T8SNT-A.L1.S1 (Fernando Samões), S.T.J. 14/1/2021, revista n.º 6238/16.1T8VNF-A.G1.S1 (Tibério Nunes da Silva), S.T.J. 12/11/2020, revista n.º 7214/18.5T8STB-A.E1.S1 (Maria do Rosário Morgado), S.T.J. 3/11/2020, revista n.º 8563/15.0T8STB-A.E1.S1 (Fátima Gomes), S.T.J. 23/1/2020, revista n.º 4518/17.8T8LOU-A.P1.S1 (Nuno Pinto Oliveira), S.T.J. 27/3/2014, revista n.º 189/12.6TBHRT-A.L1.S1 (Silva Gonçalves), e em numerosas decisões das Relações. (2)
 
-# Parte desta jurisprudência foi aliás oportunamente citada, seja na sentença, seja no acórdão recorrido, seja nas alegações e contra-alegações do processo - encontra-se uma recensão exaustiva de outra jurisprudência, também a propósito, no Ac. S.T.J. 10/9/2020, revista n.º 805/18.6T8OVR-A.P1.S1 (Rijo Ferreira).
+Parte desta jurisprudência foi aliás oportunamente citada, seja na sentença, seja no acórdão recorrido, seja nas alegações e contra-alegações do processo - encontra-se uma recensão exaustiva de outra jurisprudência, também a propósito, no Ac. S.T.J. 10/9/2020, revista n.º 805/18.6T8OVR-A.P1.S1 (Rijo Ferreira).
 
 Tal posição foi igualmente sustentada na sentença proferida em 1.ª instância, justificando-se tal posição por via de uma execução instaurada em 20/7/2019 e de um prazo de prescrição do direito interrompido cinco dias após.
 
@@ -449,3 +457,5 @@ Fixa-se finalmente a seguinte Uniformização de Jurisprudência:
 Oportunamente, remeta certidão do acórdão para publicação na 1.ª série do Diário da República.
 
 Lisboa e S.T.J., 30/6/2022. - José Manuel Cabrita Vieira e Cunha (revendo posição anterior) - Luís Filipe Espírito Santo - Jorge M. Arcanjo R. - António Isaías Pádua - Nuno Ataíde das Neves - António José Ferraz de Freitas Neto - Ana Maria Pereira de Moura Resende - Ana Paula Lobo - Maria dos Prazeres Beleza - Ana Paula Boularot - Maria Clara Sottomayor - Manuel Tomé Gomes - José Manso Rainho - Maria da Graça Trigo - Pedro de Lima Gonçalves - Maria Rosa Oliveira Tching - Fátima Gomes - Graça Amaral - Maria Olinda Garcia - António Oliveira Abreu - Maria João Vaz Tomé - Nuno Manuel Pinto Oliveira - António Moura de Magalhães - Ricardo Alberto Santos Costa - Fernando Jorge Dias - Rijo Ferreira (Declaro que voto em conformidade o acórdão) - assinado digitalmente por se encontrar em videoconferência - José Maria Ferreira Lopes - João Cura Mariano - Manuel Capelo - Tibério Nunes da Silva - António Barateiro Martins - Fernando Baptista de Oliveira.
+
+115692903

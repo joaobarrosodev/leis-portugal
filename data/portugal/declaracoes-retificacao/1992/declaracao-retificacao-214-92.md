@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 301/1992, 9º Suplemento, Série I-B de 1992-12-31
   number: '301'
   series: I
-  supplement: 9º Suplemento
+  supplement: null
   pages: 6056-(64) a 6056-(64)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/12/301b09/00640064.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/214/1992/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/214-1992-237453
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:34:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6397012a905820edb95b2f2a0222f4401a33bebc5bd1430930ec61e572383f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 391a09d2c4de988946031b6af58b10c978393987929e8f3fc3bb3c758cc8e69b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:34:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Orçamento
 - Ministério dos Negócios Estrangeiros
+- Orçamento
 - Transferência de Verbas
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decl/134/1992/11/25/p/dre
   label: null
   source: http://data.dre.pt/eli/decl/134/1992/11/25/p/dre
+- type: cites
+  target: pt:dre:598703:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:593685:por
+  label: "RECTIFICADA PELA DECLARAÇÃO DE RECTIFICAÇÃO 92/93, PUBLICADA NO DR.IS-B, 126, 4 SUPL, DE 930531.\0531.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/92-1993-593685
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:34:36Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 214/92
+# Declaração de rectificação n.º 214/92
 
 Segundo comunicação da 6.ª Delegação da Direcção-Geral da Contabilidade Pública, Ministério das Finanças, a [Declaração n.º 134/92](https://diariodarepublica.pt/dr/detalhe/declaracao/134-1992-598703), publicada no Diário da República, n.º 273, de 25 de Novembro de 1992, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
 

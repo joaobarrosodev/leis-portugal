@@ -47,26 +47,87 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/177/2026/09/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2026-1166969779
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-04T00:00:00Z'
+  retrieved_at: '2026-10-22T18:52:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 926717b4c9240069352ba31c787b06b1076a2b3320c8bd70e8a53c59c0040b1c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8b2e6535e35b14653eddb9a60cc87042bc3b55281e50b0d42fdfead27a015b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:52:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adjudicação de Obras Públicas
+- Ajuste Direto
+- Aquisição de Bens e Serviços
+- Autarquia Local
+- Autoridade da Concorrência
+- BEM Móvel
+- Caderno de Encargos
+- Código dos Contratos Públicos
+- Contratação Pública
+- Empreitada de Obras Públicas
+- Especificação Técnica
+- Financiamento
+- Fiscalização
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:18/2008
+  label: Altera, a partir de 1 de outubro de 2026, nos termos do artigo 10.º do presente diploma, os artigos 1.º-A, 2.º, 5.º,
+    5.º-A, 5.º-B, 11.º, 12.º, 13.º, 15.º, 16.º, 17.º, 18.º, 19.º, 20.º, 21.º, 24.º, 26.º, 27.º, 29.º, 30.º-A, 31.º, 32.º,
+    33.º, 34.º, 35.º-A, 36.º, 37.º, 39.º, 42.º, 43.º, 44.º, 46.º, 46.º-A, 47.º, 49.º, 54.º-A, 55.º, 55.º-A, 56.º, 57.º, 57.º-A,
+    58.º, 59.º, 62.º, 64.º, 67.º, 69.º, 70.º, 71.º, 72.º, 74.º, 76.º, 77.º, 78.º, 78.º-A, 79.º, 81.º, 83.º-A, 85.º, 86.º,
+    87.º-A, 88.º, 89.º, 91.º, 93.º, 95.º, 99.º, 102.º, 113.º, 114.º, 115.º, 116.º, 118.º, 122.º, 124.º, 127.º, 131.º, 132.º,
+    133.º, 146.º, 148.º, 149.º, 152.º, 155.º, 160.º, 164.º, 165.º, 168.º, 169.º, 180.º, 181.º, 184.º, 187.º, 188.º, 189.º,
+    196.º, 197.º, 208.º, 217.º, 219.º-C, 245.º, 250.º-B, 250.º-C, 280.º, 283.º, 283.º-A, 284.º, 285.º, 287.º, 289.º, 290.º-A,
+    300.º, 302.º, 311.º, 312.º, 313.º, 314.º, 315.º, 316.º, 318.º, 318.º-A, 321.º-A, 323.º, 327.º, 329.º, 333.º, 335.º, 358.º,
+    361.º-A, 370.º, 371.º, 372.º, 373.º, 374.º, 375.º, 385.º, 405.º, 407.º, 409.º, 414.º, 415.º, 416.º, 418.º, 419.º-A, 420.º,
+    424.º, 425.º, 429.º, 430.º, 456.º, 472.º, 473.º, 474.º e 475.º e o anexo xii, adita os artigos 1.º-B, 1.º-C, 17.º-A, 17.º-B,
+    35.º-B, 35.º-C, 35.º-D, 43.º-A, 49.º-B, 80.º-A, 127.º-A, 127.º-B, 127.º-C, 129.º-A, 161.º-A, 161.º-B, 161.º-C, 161.º-D,
+    161.º-E, 165.º-A, 314.º-A, 314.º-B, 319.º-A, 370.º-A, 388.º-A, 393.º-A, 407.º-A, 428.º-A, 464.º-B, 464.º-C, 464.º-D, 464.º-E,
+    464.º-F e 464.º-G, altera a denominação do capítulo ii do título i da parte ii, a denominação da secção i do capítulo
+    i do título iii da parte ii que passa a ser integrada pelos artigos 112.º, 113.º, 114.º, 115.º, 116.º, 117.º, 118.º, 119.º,
+    120.º, 121.º, 122.º, 123.º, 124.º, 125.º, 126.º e 127.º, a denominação do capítulo ii do título ii da parte iii, a denominação
+    da secção iii do capítulo ii do título ii da parte iii, a epígrafe do artigo 419.º e a denominação da parte iv, bem como
+    adita a secção iii ao capítulo i do título iii da parte ii que integra os artigos 127.º-A, 127.º-B e 127.º-C, sendo a
+    atual secção iii «Ajuste direto simplificado» renumerada para secção iv, a secção viii ao capítulo ii do título iii da
+    parte ii, que integra os artigos 161.º-A, 161.º-B, 161.º-C, 161.º-D e 161.º-E, e o capítulo iii à parte iv, que integra
+    os artigos 464.º-B, 464.º-C, 464.º-D, 464.º-E, 464.º-F e 464.º-G, e revoga o n.º 2 do artigo 1.º-A, a alínea b) do n.º
+    2 do artigo 2.º, o n.º 2 do artigo 5.º-B, o n.º 2 do artigo 6.º-A, os n.ºs 3, 4, 5, 6, 8 e 9 do artigo 17.º, o artigo
+    22.º, o n.º 2 do artigo 25.º, os n.ºs 2, 3 e 11 do artigo 43.º, os n.ºs 3, 4, 5 e 6 do artigo 47.º, o n.º 1 do artigo
+    55.º-A, a alínea a) do n.º 1 do artigo 57.º, os n.ºs 3 e 5 do artigo 57.º-A, os n.ºs 4 e 5 do artigo 60.º, a alínea i)
+    do n.º 2 do artigo 75.º, as alíneas a) e b) do n.º 1 do artigo 79.º, o n.º 4 do artigo 96.º, o n.º 4 do artigo 98.º, o
+    n.º 5 do artigo 132.º, os n.ºs 2, 3 e 4 do artigo 146.º, a alínea t) do n.º 1 e os n.ºs 2, 3, 4 e 5 do artigo 164.º, o
+    n.º 3 do artigo 165.º, os n.ºs 2, 3, 4 e 5 do artigo 187.º, a alínea k) do n.º 2 e os n.ºs 3 e 5 do artigo 189.º, o n.º
+    2 do artigo 250.º-C, a subalínea i) da alínea b) e a alínea c) do n.º 3 do artigo 256.º-A, o n.º 4 do artigo 275.º, os
+    artigos 276.º e 277.º, o n.º 3 do artigo 284.º, os n.ºs 2, 3 e 5 do artigo 313.º, o n.º 2 do artigo 314.º, os n.ºs 3,
+    4, 5 e 6 do artigo 318.º, o artigo 319.º, o n.º 2 do artigo 327.º, os n.ºs 2 e 4 do artigo 370.º, os artigos 410.º-A e
+    413.º, o n.º 2 do artigo 429.º, o artigo 464.º-A, o n.º 2 do artigo 469.º, o artigo 476.º e os anexos i, ii, v, e xiii
+    do Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro, Diário da República
+    n.º 20/2008, Série I e procede à sua republicação
+  source: null
+  date: '2008-01-29'
+- type: amends
+  target: pt:numero:decreto-lei:104/2011
+  label: Altera, a partir de 1 de outubro de 2026, o artigo 6.º do Decreto-Lei n.º 104/2011, de 6 de outubro, Diário da República
+    n.º 192/2011, Série I
+  source: null
+  date: '2011-10-05'
+- type: amends
+  target: pt:numero:portaria:372/2017
+  label: Mantém em vigor, nos termos do n.º 1 do artigo 7.º do presente diploma, a Portaria n.º 372/2017, de 14 de dezembro,
+    Diário da República n.º 239/2017, Série I
+  source: null
+  date: '2017-12-14'
 - type: cites
   target: celex:31989L0665
   label: null
@@ -183,20 +244,78 @@ relationships:
   target: eli:http://data.europa.eu/eli/dir/19
   label: null
   source: http://data.europa.eu/eli/dir/19
+- type: cites
+  target: pt:dre:108086621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114350958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163728569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213498830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67377968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:lei:30/2021
+  label: Revoga, a partir de 1 de outubro de 2026, os artigos 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º,
+    14.º, 15.º e 16.º da Lei n.º 30/2021, de 21 de maio, Diário da República n.º 99/2021, Série I
+  source: null
+  date: '2021-05-20'
 - type: transposes
   target: celex:32014L0055
   label: null
   source: null
 article_structure:
-  article_count: 767
-  section_count: 105
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 581
+  section_count: 110
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:52:19Z'
   warnings: []
   errors: []
 ---
@@ -275,7 +394,9 @@ Princípios gerais da atividade administrativa
 
 4 - [...]
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...]
 
@@ -291,7 +412,9 @@ d) As associações de que façam parte uma ou várias das pessoas coletivas ref
 
 3 - [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -335,7 +458,9 @@ l) Contratos celebrados indispensáveis à administração, gestão, conservaç�
 
 9 - A parte ii não é aplicável aos contratos celebrados pelo Banco Português de Fomento, S. A., quando o respetivo valor seja inferior aos limiares europeus previstos na [Diretiva 2014/24/UE](https://data.europa.eu/eli/dir/2014/24/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014.
 
-###### Artigo 5.º-A — [...]
+Artigo 5.º-A
+
+[...]
 
 1 - [...]
 
@@ -357,13 +482,17 @@ c) Não haja participação direta de capital privado na pessoa coletiva control
 
 7 - A celebração dos contratos a que se referem os números anteriores fica sujeita aos princípios gerais da atividade administrativa e deve ser publicitada no portal dos contratos públicos, nos termos definidos em portaria dos membros do Governo responsáveis pelas áreas das finanças e das obras públicas.
 
-###### Artigo 5.º-B — [...]
+Artigo 5.º-B
+
+[...]
 
 1 - Salvo aqueles que sejam abrangidos por regulamentação específica, na formação dos contratos a que se refere o artigo 5.º cujo objeto abranja prestações que estão ou sejam suscetíveis de estar submetidas à concorrência de mercado, devem ser respeitados os princípios gerais da atividade administrativa, devendo sempre ser feita menção à norma que fundamenta a não aplicação da parte ii ao contrato em causa.
 
 2 - [Revogado.]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - A parte ii do presente Código é aplicável à formação dos contratos a celebrar pelas entidades adjudicantes referidas no n.º 1 do artigo 7.º quando:
 
@@ -389,11 +518,15 @@ b) [...]
 
 3 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 À formação dos contratos a celebrar pelas entidades adjudicantes referidas no n.º 2 do artigo 2.º que exerçam uma ou várias atividades nos setores da água, da energia, dos transportes e dos serviços postais são aplicáveis as regras especiais previstas no presente Código relativas à formação dos contratos a celebrar pelas entidades adjudicantes referidas no n.º 1 do artigo 7.º, desde que esses contratos sejam celebrados no âmbito do exercício de uma ou de várias dessas atividades.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -419,13 +552,17 @@ f) [...]
 
 6 - [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
 2 - As entidades adjudicantes devem comunicar à Comissão Europeia, a pedido desta, os contratos celebrados ao abrigo do disposto na alínea a) do n.º 1 do artigo 13.º ou os que não sejam celebrados no âmbito do exercício de uma ou de várias das atividades exercidas por essas entidades nos setores da água, da energia, dos transportes e dos serviços postais.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -443,7 +580,9 @@ e) [...]
 
 f) [...]
 
-###### Artigo 17.º — Valor estimado do contrato
+Artigo 17.º
+
+Valor estimado do contrato
 
 1 - O valor estimado do contrato corresponde ao preço estimado a pagar pela entidade adjudicante e por terceiros, bem como ao valor de quaisquer contraprestações a efetuar em favor do adjudicatário e ainda ao valor das vantagens que decorram diretamente para este da execução do contrato e que possam ser configuradas como contrapartidas das prestações que lhe incumbem.
 
@@ -463,11 +602,15 @@ f) [...]
 
 9 - [Revogado.]
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 Sem prejuízo do disposto nos capítulos iii e iv do presente título, a escolha dos procedimentos de ajuste direto, de consulta prévia, de concurso público ou de concurso limitado por prévia qualificação deve ser feita tendo por base o valor estimado do contrato a celebrar, nos termos do disposto nos artigos seguintes do presente capítulo.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 [...]
 
@@ -479,7 +622,9 @@ c) Consulta prévia, quando o valor estimado do contrato for inferior a 1 000 00
 
 d) Ajuste direto, quando o valor estimado do contrato for inferior a 150 000 €.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -497,7 +642,9 @@ d) Ajuste direto, quando o valor estimado do contrato for inferior a 75 000 €.
 
 4 - [...]
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - No caso de contratos distintos dos previstos nos artigos anteriores, que não configurem contratos de concessão de obras públicas ou de concessão de serviços, ou contratos de sociedade, pode adotar-se um dos seguintes procedimentos:
 
@@ -509,7 +656,9 @@ c) Ajuste direto, quando o valor estimado do contrato seja inferior a 75 000 €
 
 2 - Para a formação de contratos cuja execução não gere qualquer contrapartida ou vantagem direta para o cocontratante pode ser adotado qualquer um dos procedimentos referidos no número anterior.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...]
 
@@ -549,7 +698,9 @@ f) [...]
 
 13 - O ajuste direto pode ser adotado com fundamento no número anterior apenas pelo período de um ano após o termo da vigência da declaração de estado de sítio, de estado de emergência ou de situação de calamidade.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]
 
@@ -573,7 +724,9 @@ b) [...]
 
 3 - [...]
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - [...]
 
@@ -617,7 +770,9 @@ j) Se trate de adquirir serviços de licenciamento informático prontos para uso
 
 7 - [...]
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...]
 
@@ -643,11 +798,15 @@ g) Em anterior concurso limitado por prévia qualificação, todas as candidatur
 
 5 - Na hipótese prevista na alínea f) do n.º 1, a entidade adjudicante pode não publicar os anúncios a que se referem os artigos 197.º e 208.º se convidar a apresentar candidaturas todos e exclusivamente os concorrentes do anterior concurso cujas propostas tenham sido excluídas apenas com fundamento na segunda parte da alínea a) ou nas alíneas b) a g) do n.º 3 do artigo 70.º
 
-###### Artigo 30.º-A — [...]
+Artigo 30.º-A
+
+[...]
 
 A entidade adjudicante pode adotar a parceria para a inovação quando pretenda a realização de atividades de investigação e o desenvolvimento de bens, serviços ou obras inovadoras, independentemente da sua natureza e das áreas de atividade, tendo em vista a sua aquisição posterior, desde que estes correspondam aos níveis de desempenho e custos máximos previamente acordados entre aquela e os participantes na parceria.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - Sem prejuízo do disposto nos artigos 24.º e 30.º-A, para a formação de contratos de concessão de obras públicas e de serviços, bem como de contratos de sociedade, pode ser adotado, em alternativa, o concurso público, o concurso limitado por prévia qualificação, o procedimento de negociação ou o diálogo concorrencial.
 
@@ -657,7 +816,9 @@ A entidade adjudicante pode adotar a parceria para a inovação quando pretenda 
 
 4 - Caso o valor estimado do contrato de concessão de obras públicas ou de serviços seja inferior a 1 000 000 € e a sua duração seja inferior a um ano, podem ser utilizados os procedimentos de consulta prévia ou ajuste direto.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - [...]
 
@@ -677,7 +838,9 @@ A entidade adjudicante pode adotar a parceria para a inovação quando pretenda 
 
 9 - [...]
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - Sem prejuízo do disposto nos artigos 24.º a 27.º, na formação de contratos a celebrar no âmbito do exercício de uma ou de várias das atividades dos setores da água, da energia, dos transportes e dos serviços postais pelas entidades adjudicantes referidas no n.º 1 do artigo 7.º, estas entidades devem adotar, em alternativa, o concurso público, o concurso limitado por prévia qualificação, o procedimento de negociação, o diálogo concorrencial, ou ainda, se cumpridos os pressupostos previstos no artigo 30.º-A, a parceria para a inovação.
 
@@ -687,7 +850,9 @@ A entidade adjudicante pode adotar a parceria para a inovação quando pretenda 
 
 4 - [...]
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - As entidades adjudicantes referidas no artigo 2.º podem enviar para publicação no Jornal Oficial da União Europeia um anúncio de pré-informação, nos termos do n.º 1 do artigo 48.º da [Diretiva 2014/24/UE](https://data.europa.eu/eli/dir/2014/24/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, no qual indicam:
 
@@ -711,7 +876,9 @@ b) No caso de contratos de empreitada ou concessão de obras públicas ou conces
 
 9 - [...]
 
-###### Artigo 35.º-A — Consulta preliminar ao mercado e participação de candidatos ou concorrentes
+Artigo 35.º-A
+
+Consulta preliminar ao mercado e participação de candidatos ou concorrentes
 
 1 - [...]
 
@@ -721,7 +888,9 @@ b) No caso de contratos de empreitada ou concessão de obras públicas ou conces
 
 4 - Para efeitos do disposto no número anterior, são consideradas medidas adequadas, entre outras, a comunicação aos restantes candidatos ou concorrentes de todas as informações pertinentes trocadas no âmbito da participação do candidato ou concorrente na preparação do procedimento de formação do contrato, bem como a fixação de prazos adequados para a apresentação de propostas.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - O procedimento de formação de qualquer contrato inicia-se com a decisão de contratar, a qual deve ser fundamentada e cabe ao órgão competente para autorizar a despesa inerente ao contrato a celebrar.
 
@@ -751,11 +920,15 @@ g) [Anterior alínea g) do n.º 3.]
 
 7 - [Anterior n.º 6.]
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 Quando o contrato a celebrar por uma das entidades adjudicantes referidas nas alíneas a), b) e d) do n.º 1 do artigo 2.º configure, nos termos de legislação própria, uma parceria público-privada, a decisão de contratar compete, conjuntamente, ao membro do Governo ou ao membro do Governo Regional responsável pela área das finanças e ao membro do Governo ou ao membro do Governo Regional da tutela setorial, consoante o caso.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - [...]
 
@@ -777,7 +950,9 @@ Quando o contrato a celebrar por uma das entidades adjudicantes referidas nas al
 
 10 - Nos casos das alíneas a) e b) do n.º 1, o procedimento de contratação pode ser efetuado na totalidade ou apenas numa parte em conjunto pelas entidades adjudicantes, caso em que a atuação conjunta dos órgãos competentes das entidades que integram o agrupamento se limita à parte objeto dessa junção.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - [...]
 
@@ -825,13 +1000,15 @@ m) A eficiência energética.
 
 10 - [...]
 
-11 - Para efeito do disposto nos n.<sup>os</sup>3 e 5, consideram-se aspetos da execução do contrato submetidos à concorrência aqueles que correspondam a fatores ou subfatores que densificam o critério de adjudicação, e aspetos não submetidos à concorrência todos os demais.
+11 - Para efeito do disposto nos n.os3 e 5, consideram-se aspetos da execução do contrato submetidos à concorrência aqueles que correspondam a fatores ou subfatores que densificam o critério de adjudicação, e aspetos não submetidos à concorrência todos os demais.
 
 12 - [...]
 
 13 - Os cadernos de encargos dos procedimentos de formação de contratos de concessão de obras públicas, de concessão de serviços e de aquisição de serviços devem incluir uma cláusula determinando a obrigatoriedade de cumprimento do disposto no artigo 419.º-A.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - Nos casos em que a conceção da empreitada não configure uma prestação do contrato a celebrar, o caderno de encargos do procedimento de formação de contratos de empreitada de obras públicas deve incluir um projeto de execução.
 
@@ -885,11 +1062,15 @@ c) Se, no prazo de cinco dias após notificação pelo tribunal para, querendo, 
 
 11 - [Revogado.]
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 Sem prejuízo do disposto no artigo 42.º, os cadernos de encargos dos procedimentos de formação de contratos de concessão de obras públicas e de concessão de serviços integram um código de exploração que contém os direitos e as obrigações das partes relativas à exploração, incluindo, quando for o caso, as normas de exploração que são estabelecidas também no interesse dos utentes da obra ou do serviço a explorar.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 [...]
 
@@ -901,7 +1082,9 @@ c) Por portaria do membro do Governo responsável pela área das finanças e do 
 
 d) Por portaria do membro do Governo responsável pela área da reforma do Estado, no caso de contratos de aquisição de bens móveis ou serviços relativos a sistemas e tecnologias de informação.
 
-###### Artigo 46.º-A — [...]
+Artigo 46.º-A
+
+[...]
 
 1 - [...]
 
@@ -917,7 +1100,9 @@ b) [...]
 
 5 - [...]
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - A entidade adjudicante pode fixar no convite ou no programa do procedimento um parâmetro base para o preço a pagar, designado preço base, que é o montante máximo que esta entidade se dispõe a pagar pela execução de todas as prestações que constituem o objeto do contrato, incluindo as eventuais prorrogações.
 
@@ -931,7 +1116,9 @@ b) [...]
 
 6 - [Revogado.]
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - [...]
 
@@ -969,7 +1156,9 @@ d) [...]
 
 14 - [...]
 
-###### Artigo 54.º-A — [...]
+Artigo 54.º-A
+
+[...]
 
 1 - [...]
 
@@ -987,7 +1176,9 @@ d) Startups reconhecidas nos termos do artigo 2.º da [Lei n.º 21/2023](https:/
 
 2 - [...]
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - [...]
 
@@ -1041,7 +1232,9 @@ b) O operador económico apresente declaração sob compromisso de honra de que,
 
 5 - As situações referidas nas alíneas b), c) e h) do n.º 1 geram impedimento quando imputadas às próprias pessoas coletivas ou aos titulares dos respetivos órgãos sociais de administração, direção ou gerência que se encontrem em efetividade de funções.
 
-###### Artigo 55.º-A — [...]
+Artigo 55.º-A
+
+[...]
 
 1 - [Revogado.]
 
@@ -1057,7 +1250,9 @@ c) [...]
 
 4 - Durante o período da proibição, não são suscetíveis de relevação os impedimentos resultantes de decisões judiciais de proibição de participação em procedimentos de formação de contratos públicos que tenham transitado em julgado ou de decisões administrativas insuscetíveis de impugnação judicial.
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - [...]
 
@@ -1075,7 +1270,9 @@ d) Se obriga a apresentar, quando a entidade adjudicante o solicite, os document
 
 4 - A apresentação de proposta por concorrente que se encontre numa das situações previstas no n.º 1 do artigo 55.º constitui prestação de falsas declarações para os efeitos previstos no artigo 456.º, salvo se tiver dado a conhecer tais situações à entidade adjudicante, designadamente para apuramento, por esta, da existência do impedimento ou para efeitos de relevação.
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - [...]
 
@@ -1111,7 +1308,9 @@ ii) Que cada um dos membros do agrupamento concorrente se propõe executar, se f
 
 6 - Nos procedimentos com publicação de anúncio no Jornal Oficial da União Europeia, é apresentado o Documento Europeu Único de Contratação Pública.
 
-###### Artigo 57.º-A — [...]
+Artigo 57.º-A
+
+[...]
 
 1 - [...]
 
@@ -1123,7 +1322,9 @@ ii) Que cada um dos membros do agrupamento concorrente se propõe executar, se f
 
 5 - [Revogado.]
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - [...]
 
@@ -1133,7 +1334,9 @@ ii) Que cada um dos membros do agrupamento concorrente se propõe executar, se f
 
 4 - [...]
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - [...]
 
@@ -1149,7 +1352,9 @@ ii) Que cada um dos membros do agrupamento concorrente se propõe executar, se f
 
 7 - [...]
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - Os documentos que constituem a proposta são apresentados diretamente em plataforma eletrónica utilizada pela entidade adjudicante, sem prejuízo do disposto na alínea h) do n.º 1 e no n.º 4 do artigo 115.º
 
@@ -1163,7 +1368,9 @@ ii) Que cada um dos membros do agrupamento concorrente se propõe executar, se f
 
 6 - [...]
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 1 - [...]
 
@@ -1173,9 +1380,11 @@ ii) Que cada um dos membros do agrupamento concorrente se propõe executar, se f
 
 4 - A pedido fundamentado de qualquer interessado, o prazo fixado para a apresentação das propostas pode ser prorrogado pelo período considerado adequado, o qual aproveita a todos os interessados.
 
-5 - As decisões de prorrogação nos termos do disposto nos números anteriores cabem ao órgão competente para a decisão de contratar e devem ser juntas às peças do procedimento, publicando-se imediatamente aviso daquelas decisões, nos termos do disposto no n.º 1 do artigo 130.º, nos n.<sup>os</sup>1 e 3 do artigo 131.º, no n.º 1 do artigo 167.º, no artigo 197.º e no artigo 208.º
+5 - As decisões de prorrogação nos termos do disposto nos números anteriores cabem ao órgão competente para a decisão de contratar e devem ser juntas às peças do procedimento, publicando-se imediatamente aviso daquelas decisões, nos termos do disposto no n.º 1 do artigo 130.º, nos n.os1 e 3 do artigo 131.º, no n.º 1 do artigo 167.º, no artigo 197.º e no artigo 208.º
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - [...]
 
@@ -1189,13 +1398,17 @@ ii) Que cada um dos membros do agrupamento concorrente se propõe executar, se f
 
 6 - É aplicável aos sujeitos referidos no número anterior o disposto nos artigos 69.º a 76.º do Código do Procedimento Administrativo.
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - [...]
 
 2 - Cabe ainda ao júri exercer a competência que lhe seja delegada pelo órgão competente para a decisão de contratar, não lhe podendo este, porém, delegar a competência para a decisão de qualificação dos candidatos ou a decisão de adjudicação.
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - [...]
 
@@ -1207,9 +1420,9 @@ b) Que sejam apresentadas por concorrentes em violação do disposto no n.º 2 d
 
 c) Que sejam apresentadas por concorrentes relativamente aos quais ou, no caso de agrupamentos concorrentes, relativamente a qualquer dos seus membros, a entidade adjudicante tenha conhecimento que se verifica alguma das situações previstas no artigo 55.º;
 
-d) Que não sejam constituídas por todos os documentos exigidos nos termos do disposto nos n.<sup>os</sup>1 e 2 do artigo 57.º e no n.º 1 do artigo 57.º-A;
+d) Que não sejam constituídas por todos os documentos exigidos nos termos do disposto nos n.os1 e 2 do artigo 57.º e no n.º 1 do artigo 57.º-A;
 
-e) Que não cumpram o disposto nos n.<sup>os</sup>4 e 5 do artigo 57.º ou nos n.<sup>os</sup>1 e 2 do artigo 58.º;
+e) Que não cumpram o disposto nos n.os4 e 5 do artigo 57.º ou nos n.os1 e 2 do artigo 58.º;
 
 f) Que sejam apresentadas como variantes quando estas não sejam admitidas pelo programa do concurso, ou em número superior ao número máximo por ele admitido;
 
@@ -1257,7 +1470,9 @@ i) Que, na avaliação técnica prevista no artigo 161.º-E, não atingem a pont
 
 7 - A exclusão de quaisquer propostas com fundamento no disposto na alínea e) do n.º 3, devido ao facto de o operador económico ter obtido um auxílio estatal e não poder provar que o mesmo é compatível com o mercado interno na aceção do artigo 107.º do Tratado sobre o Funcionamento da União Europeia, deve ser comunicada à Autoridade da Concorrência e, quando o anúncio do respetivo procedimento tenha sido publicado no Jornal Oficial da União Europeia, também à Comissão Europeia.
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - [...]
 
@@ -1281,7 +1496,9 @@ f) [...]
 
 g) Ao cumprimento das obrigações decorrentes da legislação em matéria ambiental, social e laboral, referidas no n.º 4 do artigo 1.º-B.
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 1 - [...]
 
@@ -1293,7 +1510,9 @@ g) Ao cumprimento das obrigações decorrentes da legislação em matéria ambie
 
 5 - [...]
 
-###### Artigo 74.º — [...]
+Artigo 74.º
+
+[...]
 
 1 - A adjudicação é feita de acordo com o critério da proposta mais vantajosa, determinado de modo a assegurar a melhor relação entre os custos suportados e os benefícios proporcionados pela execução do contrato, através de uma das seguintes modalidades:
 
@@ -1319,7 +1538,9 @@ c) Quando o critério de desempate aplicável não permita desempatar as propost
 
 7 - A utilização da modalidade prevista na alínea b) do n.º 1 implica que o caderno de encargos não submeta à concorrência todos os restantes aspetos da execução do contrato a celebrar.
 
-###### Artigo 76.º — [...]
+Artigo 76.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 1 do artigo 79.º e no n.º 1 do artigo 80.º-A, o órgão competente para a decisão de contratar deve tomar a decisão de adjudicação e notificá-la aos concorrentes até ao termo do prazo da obrigação de manutenção das propostas.
 
@@ -1327,7 +1548,9 @@ c) Quando o critério de desempate aplicável não permita desempatar as propost
 
 3 - [...]
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - [...]
 
@@ -1345,7 +1568,9 @@ e) [...]
 
 3 - [...]
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - [...]
 
@@ -1361,13 +1586,17 @@ e) [...]
 
 7 - Nas situações em que a publicitação do concurso tenha sido efetuada sob a forma de anúncio de pré-informação, ou de anúncio periódico indicativo, e a entidade adjudicante tenha decidido não celebrar mais contratos durante o período abrangido por esse anúncio, o anúncio da adjudicação deve conter uma indicação específica nesse sentido.
 
-###### Artigo 78.º-A — [...]
+Artigo 78.º-A
+
+[...]
 
 1 - [...]
 
 2 - Quando a entidade adjudicante pretenda divulgar a sua intenção de celebrar um contrato no Jornal Oficial da União Europeia, nos termos do número anterior, deve fazê-lo através de um anúncio conforme modelo constante do formulário-tipo ‘Pré-anúncio de adjudicação direta’ do [Regulamento de Execução (UE) 2019/1780](https://data.europa.eu/eli/reg/2019/1780/oj?locale=pt) da Comissão, de 23 de setembro de 2019, que estabelece os formulários-tipo para publicação de anúncios no âmbito dos processos de adjudicação de contratos públicos.
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 1 - [...]
 
@@ -1393,7 +1622,9 @@ h) Todas as propostas sejam consideradas insatisfatórias para a entidade adjudi
 
 4 - [...]
 
-###### Artigo 81.º — Habilitação para contratar
+Artigo 81.º
+
+Habilitação para contratar
 
 1 - Sem prejuízo do disposto no n.º 10, nos procedimentos de formação de quaisquer contratos, o adjudicatário deve apresentar os documentos comprovativos de que não se encontra nas situações previstas nas alíneas b), d), e) e h) do n.º 1 do artigo 55.º
 
@@ -1415,7 +1646,9 @@ h) Todas as propostas sejam consideradas insatisfatórias para a entidade adjudi
 
 10 - As entidades adjudicantes devem obter oficiosamente as informações e documentos necessários à comprovação da habilitação do adjudicatário através de sistemas de interoperabilidade com outras autoridades públicas, nomeadamente os referidos no n.º 1, apenas podendo solicitar a apresentação de documentos cuja obtenção oficiosa não seja possível.
 
-###### Artigo 83.º-A — [...]
+Artigo 83.º-A
+
+[...]
 
 1 - As entidades adjudicantes devem aceitar como prova bastante de que o adjudicatário não se encontra abrangido por nenhuma das situações referidas nas alíneas b) e h) do n.º 1 do artigo 55.º um certificado de registo criminal, um documento equivalente emitido pela autoridade judicial ou administrativa competente, ou informação obtida através de ferramentas de interoperabilidade do Estado, incluindo soluções que permitam a agregação e consulta centralizada de documentos, nomeadamente carteiras digitais, que evidencie que o adjudicatário não se encontra em nenhuma daquelas situações.
 
@@ -1423,7 +1656,9 @@ h) Todas as propostas sejam consideradas insatisfatórias para a entidade adjudi
 
 3 - [...]
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 1 - O órgão competente para a decisão de contratar notifica em simultâneo todos os concorrentes cujas propostas não tenham sido excluídas da habilitação do adjudicatário para contratar, indicando, se for o caso, o dia em que ocorreu a apresentação dos documentos comprovativos pelo adjudicatário.
 
@@ -1431,7 +1666,9 @@ h) Todas as propostas sejam consideradas insatisfatórias para a entidade adjudi
 
 3 - Os documentos de habilitação devem ser disponibilizados, para consulta de todos os concorrentes cujas propostas não tenham sido excluídas, em plataforma eletrónica utilizada pela entidade adjudicante.
 
-###### Artigo 86.º — [...]
+Artigo 86.º
+
+[...]
 
 1 - Sempre que possível, o órgão competente para a decisão de contratar deve solicitar ao adjudicatário que proceda ao suprimento de irregularidades formais relativas à sua habilitação, sendo aplicável o disposto no n.º 3 do artigo 72.º, com as devidas adaptações.
 
@@ -1451,17 +1688,21 @@ c) Não proceder ao suprimento de irregularidades nos termos do disposto no n.º
 
 6 - [Anterior n.º 4.]
 
-###### Artigo 87.º-A — [...]
+Artigo 87.º-A
 
-1 - Sem prejuízo de outras causas de caducidade previstas no presente Código ou resultantes de outra legislação aplicável, determina ainda a caducidade da adjudicação a ocorrência superveniente de circunstâncias que inviabilizem a celebração do contrato, designadamente por impossibilidade natural ou jurídica, extinção da entidade adjudicante ou do adjudicatário ou como efeito da verificação de que o adjudicatário se encontra em alguma das situações previstas no artigo 55.º, no n.º 6 do artigo 113.º ou nos n.<sup>os</sup>2 e 3 do artigo 114.º
+[...]
 
-2 - A caducidade da adjudicação com fundamento no facto de o adjudicatário se encontrar em alguma das situações previstas no artigo 55.º, no n.º 6 do artigo 113.º ou nos n.<sup>os</sup>2 e 3 do artigo 114.º não deve ser declarada antes de o órgão competente para a decisão de contratar notificar o adjudicatário, fixando-lhe um prazo, não superior a cinco dias, para que se pronuncie, por escrito, ao abrigo do direito de audiência prévia, podendo aplicar-se, se for o caso, o regime da relevação de impedimentos previsto no artigo 55.º-A.
+1 - Sem prejuízo de outras causas de caducidade previstas no presente Código ou resultantes de outra legislação aplicável, determina ainda a caducidade da adjudicação a ocorrência superveniente de circunstâncias que inviabilizem a celebração do contrato, designadamente por impossibilidade natural ou jurídica, extinção da entidade adjudicante ou do adjudicatário ou como efeito da verificação de que o adjudicatário se encontra em alguma das situações previstas no artigo 55.º, no n.º 6 do artigo 113.º ou nos n.os2 e 3 do artigo 114.º
+
+2 - A caducidade da adjudicação com fundamento no facto de o adjudicatário se encontrar em alguma das situações previstas no artigo 55.º, no n.º 6 do artigo 113.º ou nos n.os2 e 3 do artigo 114.º não deve ser declarada antes de o órgão competente para a decisão de contratar notificar o adjudicatário, fixando-lhe um prazo, não superior a cinco dias, para que se pronuncie, por escrito, ao abrigo do direito de audiência prévia, podendo aplicar-se, se for o caso, o regime da relevação de impedimentos previsto no artigo 55.º-A.
 
 3 - Quando as causas de caducidade da adjudicação referidas no n.º 1 respeitem ao adjudicatário, a entidade adjudicante deve adjudicar a proposta ordenada em lugar subsequente.
 
 4 - [Anterior n.º 3.]
 
-###### Artigo 88.º — [...]
+Artigo 88.º
+
+[...]
 
 1 - [...]
 
@@ -1477,7 +1718,9 @@ c) [...]
 
 4 - [...]
 
-###### Artigo 89.º — [...]
+Artigo 89.º
+
+[...]
 
 1 - [...]
 
@@ -1491,7 +1734,9 @@ c) [...]
 
 6 - [...]
 
-###### Artigo 91.º — [...]
+Artigo 91.º
+
+[...]
 
 1 - [...]
 
@@ -1503,7 +1748,9 @@ c) [...]
 
 5 - [Anterior n.º 3.]
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - [...]
 
@@ -1511,7 +1758,9 @@ c) [...]
 
 3 - Sem prejuízo do disposto no número anterior, no caso previsto no n.º 1, o órgão competente para a decisão de contratar deve adjudicar a proposta ordenada em lugar subsequente.
 
-###### Artigo 95.º — [...]
+Artigo 95.º
+
+[...]
 
 1 - [...]
 
@@ -1529,7 +1778,9 @@ d) Quando se trate de contrato de empreitada de obras públicas de complexidade 
 
 4 - [...]
 
-###### Artigo 99.º — [...]
+Artigo 99.º
+
+[...]
 
 1 - [...]
 
@@ -1537,7 +1788,9 @@ d) Quando se trate de contrato de empreitada de obras públicas de complexidade 
 
 3 - Os ajustamentos propostos nos termos do n.º 1 podem abranger a exclusão de termos ou condições constantes da proposta adjudicada que se reportem a aspetos da execução do contrato não regulados pelo caderno de encargos e que não sejam considerados necessários a essa execução ou sejam considerados desproporcionados.
 
-###### Artigo 102.º — [...]
+Artigo 102.º
+
+[...]
 
 1 - [...]
 
@@ -1547,7 +1800,9 @@ d) Quando se trate de contrato de empreitada de obras públicas de complexidade 
 
 4 - Fazem parte integrante do contrato os ajustamentos propostos nos termos do n.º 3 do artigo 99.º relativos à exclusão de termos ou condições constantes da proposta adjudicada considerados desnecessários ou desproporcionados, quando, recusados pelo adjudicatário, tenham sido confirmados pelo órgão competente para a decisão de contratar.
 
-###### Artigo 113.º — [...]
+Artigo 113.º
+
+[...]
 
 1 - [...]
 
@@ -1559,9 +1814,11 @@ d) Quando se trate de contrato de empreitada de obras públicas de complexidade 
 
 5 - [...]
 
-6 - Não podem também ser convidadas a apresentar propostas entidades criadas ou utilizadas com o propósito ou com o resultado de se defraudar o disposto nos n.<sup>os</sup>2 e 5.
+6 - Não podem também ser convidadas a apresentar propostas entidades criadas ou utilizadas com o propósito ou com o resultado de se defraudar o disposto nos n.os2 e 5.
 
-###### Artigo 114.º — [...]
+Artigo 114.º
+
+[...]
 
 1 - [...]
 
@@ -1577,7 +1834,9 @@ c) Se encontrem em relação de simples participação, participação recíproc
 
 4 - [Anterior n.º 3.]
 
-###### Artigo 115.º — [...]
+Artigo 115.º
+
+[...]
 
 1 - [...]
 
@@ -1589,7 +1848,7 @@ c) [...]
 
 d) O valor estimado do contrato ou, se for o caso, o preço base;
 
-e) Os documentos referidos nos n.<sup>os</sup>1 e 2 do artigo 57.º e, se for o caso, no artigo 57.º-A;
+e) Os documentos referidos nos n.os1 e 2 do artigo 57.º e, se for o caso, no artigo 57.º-A;
 
 f) [Anterior alínea e).]
 
@@ -1615,11 +1874,15 @@ m) Uma lista, meramente indicativa e tendo por referência o momento do início 
 
 5 - [...]
 
-###### Artigo 116.º — [...]
+Artigo 116.º
+
+[...]
 
 Quando o prazo fixado para a apresentação da proposta seja inferior a seis dias, os esclarecimentos sobre as peças do procedimento podem ser prestados e as retificações das mesmas podem ser efetuadas até ao dia anterior ao termo daquele prazo.
 
-###### Artigo 118.º — [...]
+Artigo 118.º
+
+[...]
 
 1 - [...]
 
@@ -1627,17 +1890,21 @@ Quando o prazo fixado para a apresentação da proposta seja inferior a seis dia
 
 3 - [...]
 
-###### Artigo 122.º — [...]
+Artigo 122.º
+
+[...]
 
 1 - [...]
 
-2 - No relatório preliminar a que se refere o número anterior, o júri deve também propor, fundamentadamente, a exclusão das propostas por qualquer dos motivos previstos nos n.<sup>os</sup>2 e 3 do artigo 70.º, aplicáveis com as necessárias adaptações, bem como das que sejam apresentadas em violação do disposto na parte final do n.º 1 do artigo anterior.
+2 - No relatório preliminar a que se refere o número anterior, o júri deve também propor, fundamentadamente, a exclusão das propostas por qualquer dos motivos previstos nos n.os2 e 3 do artigo 70.º, aplicáveis com as necessárias adaptações, bem como das que sejam apresentadas em violação do disposto na parte final do n.º 1 do artigo anterior.
 
 3 - [...]
 
-###### Artigo 124.º — [...]
+Artigo 124.º
 
-1 - Cumprido o disposto no artigo anterior, o júri elabora um relatório final fundamentado, no qual pondera as observações dos concorrentes efetuadas ao abrigo do direito de audiência prévia, mantendo ou modificando o teor e as conclusões do relatório preliminar, podendo ainda propor a exclusão de propostas se verificar, nesta fase, a ocorrência de qualquer dos motivos previstos nos n.<sup>os</sup>2 e 3 do artigo 70.º
+[...]
+
+1 - Cumprido o disposto no artigo anterior, o júri elabora um relatório final fundamentado, no qual pondera as observações dos concorrentes efetuadas ao abrigo do direito de audiência prévia, mantendo ou modificando o teor e as conclusões do relatório preliminar, podendo ainda propor a exclusão de propostas se verificar, nesta fase, a ocorrência de qualquer dos motivos previstos nos n.os2 e 3 do artigo 70.º
 
 2 - [...]
 
@@ -1645,7 +1912,9 @@ Quando o prazo fixado para a apresentação da proposta seja inferior a seis dia
 
 4 - [...]
 
-###### Artigo 127.º — [...]
+Artigo 127.º
+
+[...]
 
 1 - [...]
 
@@ -1653,7 +1922,9 @@ Quando o prazo fixado para a apresentação da proposta seja inferior a seis dia
 
 3 - A publicitação referida no n.º 1 é condição de eficácia do respetivo contrato para efeitos de quaisquer pagamentos, independentemente da sua redução ou não a escrito.
 
-###### Artigo 131.º — [...]
+Artigo 131.º
+
+[...]
 
 1 - Quando a entidade adjudicante tenha de publicitar o concurso público no Jornal Oficial da União Europeia deve fazê-lo através de um anúncio contendo as menções previstas na parte C do anexo v da [Diretiva 2014/24/UE](https://data.europa.eu/eli/dir/2014/24/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014.
 
@@ -1671,7 +1942,9 @@ Quando o prazo fixado para a apresentação da proposta seja inferior a seis dia
 
 8 - [...]
 
-###### Artigo 132.º — [...]
+Artigo 132.º
+
+[...]
 
 1 - [...]
 
@@ -1691,7 +1964,7 @@ g) Os documentos de habilitação, diretamente relacionados com o objeto do cont
 
 h) O prazo para a apresentação dos documentos de habilitação pelo adjudicatário;
 
-i) Os documentos referidos nos n.<sup>os</sup>1 e 2 do artigo 57.º e, se for o caso, no artigo 57.º-A;
+i) Os documentos referidos nos n.os1 e 2 do artigo 57.º e, se for o caso, no artigo 57.º-A;
 
 j) [Anterior alínea i).]
 
@@ -1725,7 +1998,9 @@ t) Uma lista, meramente indicativa e tendo por referência o momento do início 
 
 6 - [...]
 
-###### Artigo 133.º — [...]
+Artigo 133.º
+
+[...]
 
 1 - [...]
 
@@ -1741,7 +2016,9 @@ t) Uma lista, meramente indicativa e tendo por referência o momento do início 
 
 7 - A decisão de prorrogação prevista no número anterior cabe ao órgão competente para a decisão de contratar e deve ser junta às peças do procedimento, publicando-se imediatamente aviso daquela decisão nos mesmos termos em que foi publicitado o anúncio do procedimento e na plataforma eletrónica.
 
-###### Artigo 146.º — [...]
+Artigo 146.º
+
+[...]
 
 1 - Após a análise das propostas, a utilização de um leilão eletrónico e a aplicação do critério de adjudicação, o júri elabora fundamentadamente um relatório preliminar, no qual deve constar:
 
@@ -1761,9 +2038,11 @@ c) A ordenação das propostas objeto de avaliação, com indicação das pontua
 
 6 - [Anterior n.º 5.]
 
-###### Artigo 148.º — [...]
+Artigo 148.º
 
-1 - Cumprido o disposto no artigo anterior, o júri elabora um relatório final fundamentado, no qual pondera as observações dos concorrentes efetuadas ao abrigo do direito de audiência prévia, mantendo ou modificando o teor e as conclusões do relatório preliminar, podendo ainda propor a exclusão de qualquer proposta se verificar, nesta fase, a ocorrência de qualquer dos motivos previstos nos n.<sup>os</sup>2 e 3 do artigo 70.º
+[...]
+
+1 - Cumprido o disposto no artigo anterior, o júri elabora um relatório final fundamentado, no qual pondera as observações dos concorrentes efetuadas ao abrigo do direito de audiência prévia, mantendo ou modificando o teor e as conclusões do relatório preliminar, podendo ainda propor a exclusão de qualquer proposta se verificar, nesta fase, a ocorrência de qualquer dos motivos previstos nos n.os2 e 3 do artigo 70.º
 
 2 - [...]
 
@@ -1771,7 +2050,9 @@ c) A ordenação das propostas objeto de avaliação, com indicação das pontua
 
 4 - [...]
 
-###### Artigo 149.º — [...]
+Artigo 149.º
+
+[...]
 
 1 - [...]
 
@@ -1783,17 +2064,21 @@ c) Na formação de contratos de locação ou aquisição de bens e aquisição 
 
 2 - [...]
 
-###### Artigo 152.º — [...]
+Artigo 152.º
 
-1 - Após a análise das versões finais das propostas e a aplicação do critério de adjudicação, o júri elabora fundamentadamente um segundo relatório preliminar, no qual deve propor a ordenação das mesmas, podendo ainda propor a exclusão de qualquer proposta se verificar, nesta fase, a ocorrência de qualquer dos motivos previstos nos n.<sup>os</sup>2 e 3 do artigo 70.º
+[...]
+
+1 - Após a análise das versões finais das propostas e a aplicação do critério de adjudicação, o júri elabora fundamentadamente um segundo relatório preliminar, no qual deve propor a ordenação das mesmas, podendo ainda propor a exclusão de qualquer proposta se verificar, nesta fase, a ocorrência de qualquer dos motivos previstos nos n.os2 e 3 do artigo 70.º
 
 2 - [...]
 
 3 - [...]
 
-4 - No caso previsto no número anterior, bem como no caso de o júri propor a exclusão das versões finais das propostas por ocorrer qualquer dos motivos previstos nos n.<sup>os</sup>2 e 3 do artigo 70.º, ou ainda no caso de não serem apresentadas versões finais das propostas, as respetivas versões iniciais mantêm-se para efeitos de adjudicação.
+4 - No caso previsto no número anterior, bem como no caso de o júri propor a exclusão das versões finais das propostas por ocorrer qualquer dos motivos previstos nos n.os2 e 3 do artigo 70.º, ou ainda no caso de não serem apresentadas versões finais das propostas, as respetivas versões iniciais mantêm-se para efeitos de adjudicação.
 
-###### Artigo 155.º — [...]
+Artigo 155.º
+
+[...]
 
 [...]
 
@@ -1801,13 +2086,17 @@ a) O valor estimado do contrato a celebrar não exceda os limiares referidos no 
 
 b) [...]
 
-###### Artigo 160.º — [...]
+Artigo 160.º
 
-1 - Da decisão de adjudicação devem constar os motivos da exclusão de propostas previstos nos n.<sup>os</sup>2 e 3 do artigo 70.º
+[...]
+
+1 - Da decisão de adjudicação devem constar os motivos da exclusão de propostas previstos nos n.os2 e 3 do artigo 70.º
 
 2 - [...]
 
-###### Artigo 164.º — [...]
+Artigo 164.º
+
+[...]
 
 1 - [...]
 
@@ -1865,7 +2154,9 @@ u) [...]
 
 6 - O programa do concurso pode ainda conter regras destinadas a proteger o caráter confidencial das informações contidas nas peças do procedimento, bem como quaisquer regras específicas sobre o procedimento de concursos públicos consideradas convenientes pela entidade adjudicante, desde que não tenham por efeito impedir, restringir ou falsear a concorrência.
 
-###### Artigo 165.º — Requisitos mínimos de capacidade técnica e financeira
+Artigo 165.º
+
+Requisitos mínimos de capacidade técnica e financeira
 
 1 - As entidades adjudicantes podem impor requisitos mínimos de capacidade técnica, os quais devem ser adequados à natureza das prestações objeto do contrato a celebrar, descrevendo situações, qualidades, características ou outros elementos de facto relativos, designadamente:
 
@@ -1895,7 +2186,9 @@ e) [...]
 
 9 - Para os efeitos do disposto no número anterior, o volume de negócios anual mínimo exigido não pode exceder o dobro do valor estimado do contrato, salvo em casos devidamente justificados.
 
-###### Artigo 168.º — [...]
+Artigo 168.º
+
+[...]
 
 1 - A candidatura é constituída por uma declaração na qual o candidato manifesta a sua vontade de ser qualificado ou pelo Documento Europeu Único de Contratação Pública nos procedimentos com publicação de anúncio no Jornal Oficial da União Europeia.
 
@@ -1913,7 +2206,9 @@ b) Quando o candidato recorra a terceiros para efeitos do preenchimento dos requ
 
 6 - A apresentação de candidatura por candidato que se encontre numa das situações previstas no n.º 1 do artigo 55.º constitui prestação de falsas declarações para os efeitos previstos no artigo 456.º, salvo se tiver dado a conhecer tais situações à entidade adjudicante, designadamente para apuramento, por esta, da existência do impedimento ou para efeitos de relevação.
 
-###### Artigo 169.º — [...]
+Artigo 169.º
+
+[...]
 
 1 - [...]
 
@@ -1921,7 +2216,9 @@ b) Quando o candidato recorra a terceiros para efeitos do preenchimento dos requ
 
 3 - Em função da especificidade técnica dos documentos destinados à qualificação dos candidatos, o programa do procedimento pode admitir que alguns dos documentos referidos nas alíneas j) e l) do n.º 1 do artigo 164.º sejam redigidos em língua estrangeira, indicando os idiomas admitidos.
 
-###### Artigo 180.º — [...]
+Artigo 180.º
+
+[...]
 
 1 - [...]
 
@@ -1929,7 +2226,9 @@ b) Quando o candidato recorra a terceiros para efeitos do preenchimento dos requ
 
 3 - [...]
 
-###### Artigo 181.º — [...]
+Artigo 181.º
+
+[...]
 
 1 - [...]
 
@@ -1939,7 +2238,9 @@ b) Quando o candidato recorra a terceiros para efeitos do preenchimento dos requ
 
 4 - [...]
 
-###### Artigo 184.º — [...]
+Artigo 184.º
+
+[...]
 
 1 - [...]
 
@@ -1975,7 +2276,9 @@ l) [...]
 
 5 - [Anterior n.º 4.]
 
-###### Artigo 187.º — [...]
+Artigo 187.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 6, o órgão competente para a decisão de contratar deve tomar a decisão de qualificação e notificá-la aos candidatos, acompanhada do relatório final da fase de qualificação, no prazo máximo de 44 dias após o termo do prazo fixado para a apresentação das candidaturas, sem prejuízo da possibilidade de fixação de um prazo superior no programa do concurso.
 
@@ -1997,7 +2300,9 @@ b) Todas as candidaturas tenham sido excluídas.
 
 8 - As decisões de não qualificação ou de extinção do procedimento, no caso da alínea b) do número anterior, devem ser notificadas a todos os candidatos.
 
-###### Artigo 188.º — [...]
+Artigo 188.º
+
+[...]
 
 1 - O órgão competente para a decisão de contratar notifica todos os candidatos da decisão de qualificação.
 
@@ -2015,11 +2320,13 @@ b) Não demonstre o cumprimento dos requisitos mínimos de capacidade técnica e
 
 c) Não apresente a confirmação dos compromissos assumidos por terceiras entidades.
 
-4 - Sempre que se verifique um facto que determine a caducidade da qualificação nos termos do número anterior, o órgão competente para a decisão de contratar deve notificar o candidato relativamente ao qual o facto ocorreu, fixando-lhe um prazo, não superior a cinco dias, para que se pronuncie, por escrito, ao abrigo do direito de audiência prévia, sendo aplicável, com as necessárias adaptações, o disposto nos n.<sup>os</sup>1, 4 e 6 do artigo 86.º
+4 - Sempre que se verifique um facto que determine a caducidade da qualificação nos termos do número anterior, o órgão competente para a decisão de contratar deve notificar o candidato relativamente ao qual o facto ocorreu, fixando-lhe um prazo, não superior a cinco dias, para que se pronuncie, por escrito, ao abrigo do direito de audiência prévia, sendo aplicável, com as necessárias adaptações, o disposto nos n.os1, 4 e 6 do artigo 86.º
 
 5 - Os candidatos qualificados passam à fase seguinte em condições de igualdade.
 
-###### Artigo 189.º — [...]
+Artigo 189.º
+
+[...]
 
 1 - [...]
 
@@ -2055,7 +2362,9 @@ k) [Revogada.]
 
 6 - [...]
 
-###### Artigo 196.º — [...]
+Artigo 196.º
+
+[...]
 
 Para além dos elementos previstos na alínea a) do n.º 1 do artigo 150.º e nas alíneas a) a s) e u) do n.º 1 do artigo 164.º, o programa do procedimento de negociação deve ainda indicar:
 
@@ -2065,7 +2374,9 @@ b) [...]
 
 c) [...]
 
-###### Artigo 197.º — [...]
+Artigo 197.º
+
+[...]
 
 1 - [...]
 
@@ -2073,23 +2384,29 @@ c) [...]
 
 3 - [...]
 
-###### Artigo 208.º — [...]
+Artigo 208.º
+
+[...]
 
 1 - [...]
 
-2 - No caso de contratos de empreitada ou de concessão de obras públicas, de concessão de serviços, de contratos de locação ou de aquisição de bens móveis ou de contratos de aquisição de serviços, deve ainda ser publicado anúncio do diálogo concorrencial nos termos do disposto nos n.<sup>os</sup>1 e 2 ou no n.º 2 do artigo 131.º
+2 - No caso de contratos de empreitada ou de concessão de obras públicas, de concessão de serviços, de contratos de locação ou de aquisição de bens móveis ou de contratos de aquisição de serviços, deve ainda ser publicado anúncio do diálogo concorrencial nos termos do disposto nos n.os1 e 2 ou no n.º 2 do artigo 131.º
 
 3 - [...]
 
-###### Artigo 217.º — [...]
+Artigo 217.º
+
+[...]
 
 1 - [...]
 
-2 - Para além dos elementos previstos nos n.<sup>os</sup>2 e 4 do artigo 189.º, o convite à apresentação das propostas deve ainda indicar o modelo de avaliação das mesmas.
+2 - Para além dos elementos previstos nos n.os2 e 4 do artigo 189.º, o convite à apresentação das propostas deve ainda indicar o modelo de avaliação das mesmas.
 
 3 - [...]
 
-###### Artigo 219.º-C — [...]
+Artigo 219.º-C
+
+[...]
 
 1 - [...]
 
@@ -2099,7 +2416,9 @@ c) [...]
 
 4 - [...]
 
-###### Artigo 245.º — [...]
+Artigo 245.º
+
+[...]
 
 1 - [...]
 
@@ -2113,7 +2432,9 @@ c) [...]
 
 6 - [...]
 
-###### Artigo 250.º-B — [...]
+Artigo 250.º-B
+
+[...]
 
 1 - [...]
 
@@ -2125,7 +2446,9 @@ b) [...]
 
 3 - [...]
 
-###### Artigo 250.º-C — [...]
+Artigo 250.º-C
+
+[...]
 
 1 - [...]
 
@@ -2137,7 +2460,9 @@ a) [...]
 
 b) [...]
 
-###### Artigo 280.º — [...]
+Artigo 280.º
+
+[...]
 
 1 - [...]
 
@@ -2147,7 +2472,9 @@ b) [...]
 
 4 - [...]
 
-###### Artigo 283.º — [...]
+Artigo 283.º
+
+[...]
 
 1 - Os contratos são nulos se a nulidade do ato procedimental em que tenha assentado a sua celebração tiver sido judicialmente declarada ou possa ainda sê-lo.
 
@@ -2157,7 +2484,9 @@ b) [...]
 
 4 - O efeito anulatório previsto no n.º 2 pode ser afastado por decisão judicial ou arbitral, quando, ponderados os interesses públicos e privados em presença e a gravidade da ofensa geradora do vício do ato procedimental em causa, tais efeitos se revelem desproporcionados ou contrários à boa-fé.
 
-###### Artigo 283.º-A — [...]
+Artigo 283.º-A
+
+[...]
 
 1 - [...]
 
@@ -2171,7 +2500,9 @@ b) [...]
 
 4 - Não constitui razão de interesse geral o interesse económico diretamente relacionado com o contrato em causa, quando tal interesse assente, designadamente, nos custos resultantes de atraso na execução do contrato, de abertura de um novo procedimento de formação do contrato, de mudança do cocontratante ou de obrigações legais resultantes da anulação.
 
-###### Artigo 284.º — [...]
+Artigo 284.º
+
+[...]
 
 1 - [...]
 
@@ -2185,7 +2516,9 @@ c) Na falta do ato ou dos atos em que, nos termos da lei, tenha de assentar a re
 
 3 - [Revogado.]
 
-###### Artigo 285.º — [...]
+Artigo 285.º
+
+[...]
 
 1 - Aos contratos públicos aplica-se o regime de invalidade definido no presente Código, sem prejuízo do que se encontre previsto em legislação especial.
 
@@ -2199,7 +2532,9 @@ c) Na falta do ato ou dos atos em que, nos termos da lei, tenha de assentar a re
 
 6 - Aos contratos com objeto passível de ato administrativo e outros contratos sobre o exercício de poderes públicos é aplicável o regime de invalidade previsto para o ato administrativo.
 
-###### Artigo 287.º — [...]
+Artigo 287.º
+
+[...]
 
 1 - [...]
 
@@ -2229,13 +2564,17 @@ iii) Quando tenha sido adotado qualquer outro procedimento previsto na parte ii,
 
 8 - [...]
 
-###### Artigo 289.º — [...]
+Artigo 289.º
+
+[...]
 
 1 - Na execução dos contratos e nas relações entre si, as partes devem pautar-se pelo princípio da boa-fé e da confiança mútua.
 
 2 - As partes estão vinculadas pelo dever de colaboração mútua, designadamente no tocante à prestação recíproca de informações necessárias à boa execução do contrato.
 
-###### Artigo 290.º-A — [...]
+Artigo 290.º-A
+
+[...]
 
 1 - [...]
 
@@ -2251,11 +2590,15 @@ iii) Quando tenha sido adotado qualquer outro procedimento previsto na parte ii,
 
 7 - O gestor do contrato está obrigado a atuar de forma imparcial, sendo-lhe aplicável o disposto nos artigos 69.º a 76.º do Código do Procedimento Administrativo e não pode encontrar-se em situação de conflito de interesses tal como identificada no n.º 4 do artigo 1.º-A do presente Código.
 
-###### Artigo 300.º — [...]
+Artigo 300.º
+
+[...]
 
 Sem prejuízo do disposto nos artigos 282.º, 341.º e 382.º, há lugar à revisão de preços quando o contrato o determinar e fixar os respetivos termos, nomeadamente o método de cálculo e a periodicidade.
 
-###### Artigo 302.º — [...]
+Artigo 302.º
+
+[...]
 
 [...]
 
@@ -2271,7 +2614,9 @@ e) Resolver unilateralmente o contrato, a título sancionatório ou por razões 
 
 f) [...]
 
-###### Artigo 311.º — [...]
+Artigo 311.º
+
+[...]
 
 1 - [...]
 
@@ -2283,11 +2628,13 @@ c) Ato administrativo do contraente público, conforme o disposto na alínea c) 
 
 2 - [...]
 
-###### Artigo 312.º — Permissões de modificação
+Artigo 312.º
+
+Permissões de modificação
 
 1 - A modificação do contrato pode ocorrer em qualquer dos seguintes casos:
 
-a) Se o respetivo valor for inferior aos limiares referidos nos n.<sup>os</sup>2, 3 e 4 do artigo 474.º, consoante o caso, e inferior a 10 % ou, em contratos de empreitada de obras públicas, a 15 % do preço contratual inicial;
+a) Se o respetivo valor for inferior aos limiares referidos nos n.os2, 3 e 4 do artigo 474.º, consoante o caso, e inferior a 10 % ou, em contratos de empreitada de obras públicas, a 15 % do preço contratual inicial;
 
 b) De acordo com os termos previstos em cláusulas contratuais que indiquem de forma clara, precisa e inequívoca o âmbito e a natureza das eventuais modificações, bem como as condições em que podem ser aplicadas;
 
@@ -2311,7 +2658,9 @@ b) Altera o equilíbrio económico do contrato a favor do cocontratante, colocan
 
 c) Alarga consideravelmente o âmbito do contrato.
 
-###### Artigo 313.º — [...]
+Artigo 313.º
+
+[...]
 
 1 - A modificação não pode alterar a natureza global do contrato, considerando as prestações principais que constituem o seu objeto, nem pode configurar uma forma de impedir, restringir ou falsear a concorrência.
 
@@ -2325,7 +2674,9 @@ c) Alarga consideravelmente o âmbito do contrato.
 
 6 - [...]
 
-###### Artigo 314.º — [...]
+Artigo 314.º
+
+[...]
 
 1 - A modificação gera, para o cocontratante, o direito à reposição do equilíbrio financeiro do contrato, nos termos previstos no artigo 282.º
 
@@ -2333,7 +2684,9 @@ c) Alarga consideravelmente o âmbito do contrato.
 
 3 - [...]
 
-###### Artigo 315.º — [...]
+Artigo 315.º
+
+[...]
 
 1 - [...]
 
@@ -2341,11 +2694,15 @@ c) Alarga consideravelmente o âmbito do contrato.
 
 3 - A publicitação referida nos números anteriores ou, nos casos previstos no n.º 2 do artigo 375.º, a declaração unilateral ali referida, é condição de eficácia dos atos ou acordos modificativos para efeitos de quaisquer pagamentos.
 
-###### Artigo 316.º — [...]
+Artigo 316.º
+
+[...]
 
 Quando outra coisa não resultar da natureza do contrato ou de estipulação contratual, são admitidas a cessão da posição contratual e a subcontratação, nos termos do disposto nos artigos seguintes.
 
-###### Artigo 318.º — Cessão da posição contratual
+Artigo 318.º
+
+Cessão da posição contratual
 
 1 - A substituição do cocontratante originário por um novo cocontratante pode ser autorizada pelo contraente público nas seguintes situações:
 
@@ -2371,7 +2728,9 @@ b) Do preenchimento, por parte do potencial cessionário, dos requisitos de habi
 
 6 - [Revogado.]
 
-###### Artigo 318.º-A — [...]
+Artigo 318.º-A
+
+[...]
 
 1 - [...]
 
@@ -2389,7 +2748,9 @@ b) Do preenchimento, por parte do potencial cessionário, dos requisitos de habi
 
 8 - [...]
 
-###### Artigo 321.º-A — [...]
+Artigo 321.º-A
+
+[...]
 
 1 - [...]
 
@@ -2403,13 +2764,17 @@ b) Do preenchimento, por parte do potencial cessionário, dos requisitos de habi
 
 6 - A presente disposição não se aplica aos contratos de concessão de obras públicas ou de serviços, nem aos contratos que configurem parcerias público-privadas.
 
-###### Artigo 323.º — [...]
+Artigo 323.º
+
+[...]
 
 1 - Nos casos em que o cocontratante deva constituir-se sob a forma de sociedade, o contrato pode sujeitar a autorização do contraente público qualquer alteração do contrato constitutivo da sociedade, bem como a alienação ou oneração das participações no respetivo capital social.
 
 2 - A autorização só pode ser recusada se houver fundado receio de que a alteração societária envolve um aumento de risco de incumprimento das obrigações emergentes do contrato ou de grave lesão do interesse público.
 
-###### Artigo 327.º — [...]
+Artigo 327.º
+
+[...]
 
 1 - Nos contratos bilaterais, quando o incumprimento seja imputável ao contraente público, o cocontratante, independentemente do direito de resolução do contrato que lhe assista, nos termos do disposto no artigo 332.º, pode invocar a exceção de não cumprimento, nos termos dos números seguintes.
 
@@ -2421,7 +2786,9 @@ b) Do preenchimento, por parte do potencial cessionário, dos requisitos de habi
 
 5 - Se a realização das prestações contratuais puser manifestamente em causa a sua viabilidade económico-financeira ou se revelar excessivamente onerosa, o cocontratante pode pedir ao tribunal competente a anulação da resolução fundamentada, bem como a suspensão dos respetivos efeitos.
 
-###### Artigo 329.º — [...]
+Artigo 329.º
+
+[...]
 
 1 - [...]
 
@@ -2433,7 +2800,9 @@ b) Do preenchimento, por parte do potencial cessionário, dos requisitos de habi
 
 5 - Quando as sanções aplicadas atingirem o valor a que se refere o n.º 2, o contraente público deve comunicar tal facto ao Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P., no prazo de 10 dias após os atos que as aplicaram se tornarem inimpugnáveis, para publicação na área pública do portal dos contratos públicos.
 
-###### Artigo 333.º — [...]
+Artigo 333.º
+
+[...]
 
 1 - [...]
 
@@ -2443,13 +2812,17 @@ b) Do preenchimento, por parte do potencial cessionário, dos requisitos de habi
 
 4 - Quando se verificar a situação prevista na alínea a) do n.º 1, o contraente público deve comunicar tal facto ao Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P., no prazo de 10 dias após os atos que as aplicaram se tornarem inimpugnáveis, para publicação na área pública do portal dos contratos públicos.
 
-###### Artigo 335.º — [...]
+Artigo 335.º
+
+[...]
 
 1 - O contraente público tem o direito de resolver o contrato com fundamento na alteração anormal e imprevisível das circunstâncias que fundaram a decisão de contratar.
 
 2 - [...]
 
-###### Artigo 358.º — [...]
+Artigo 358.º
+
+[...]
 
 1 - [...]
 
@@ -2463,7 +2836,9 @@ d) Quando as peças do procedimento prevejam a execução da empreitada por fase
 
 2 - [...]
 
-###### Artigo 361.º-A — [...]
+Artigo 361.º-A
+
+[...]
 
 1 - [...]
 
@@ -2473,7 +2848,9 @@ d) Quando as peças do procedimento prevejam a execução da empreitada por fase
 
 4 - O disposto no presente artigo não se aplica nos casos previstos no n.º 2 do artigo 43.º-A.
 
-###### Artigo 370.º — [...]
+Artigo 370.º
+
+[...]
 
 1 - São trabalhos complementares os trabalhos executados ao abrigo de uma modificação do contrato de empreitada, nos termos da alínea c) do n.º 1 do artigo 312.º
 
@@ -2485,7 +2862,9 @@ d) Quando as peças do procedimento prevejam a execução da empreitada por fase
 
 5 - [...]
 
-###### Artigo 371.º — [...]
+Artigo 371.º
+
+[...]
 
 1 - O empreiteiro tem a obrigação de executar os trabalhos complementares, desde que tal lhe seja ordenado por escrito pelo dono da obra e lhe sejam entregues as alterações aos elementos da solução da obra necessárias à sua execução, quando os mesmos tenham integrado o caderno de encargos relativo ao procedimento de formação do contrato.
 
@@ -2495,7 +2874,9 @@ d) Quando as peças do procedimento prevejam a execução da empreitada por fase
 
 4 - O empreiteiro não está sujeito à obrigação prevista no n.º 1 quando opte por exercer o direito de resolução do contrato ou quando, sendo os trabalhos complementares de espécie diferente dos previstos no contrato ou da mesma espécie de outros nele previstos, mas a executar em condições diferentes, o empreiteiro não disponha dos meios humanos ou técnicos indispensáveis para a sua execução.
 
-###### Artigo 372.º — [...]
+Artigo 372.º
+
+[...]
 
 1 - Para efeitos do disposto no n.º 4 do artigo anterior, bem como quando entenda não estarem verificados os pressupostos constantes da alínea c) do n.º 1 do artigo 312.º, o empreiteiro pode, no prazo de 10 dias a contar da receção da ordem do dono da obra de execução dos trabalhos complementares, reclamar da mesma fundamentadamente.
 
@@ -2505,7 +2886,7 @@ d) Quando as peças do procedimento prevejam a execução da empreitada por fase
 
 a) Notificar o empreiteiro com, pelo menos, cinco dias de antecedência, para execução dos trabalhos complementares; ou
 
-b) Optar pela execução dos trabalhos complementares, diretamente ou por intermédio de terceiro, quando o empreiteiro tenha manifestado de forma perentória a intenção de não os executar, sendo aplicável, com as necessárias adaptações, o disposto nos n.<sup>os</sup>2 a 4 do artigo 325.º
+b) Optar pela execução dos trabalhos complementares, diretamente ou por intermédio de terceiro, quando o empreiteiro tenha manifestado de forma perentória a intenção de não os executar, sendo aplicável, com as necessárias adaptações, o disposto nos n.os2 a 4 do artigo 325.º
 
 4 - [...]
 
@@ -2513,7 +2894,9 @@ a) [...]
 
 b) Optar pela execução dos trabalhos complementares, diretamente ou por intermédio de terceiro.
 
-###### Artigo 373.º — Preço e prazo de execução dos trabalhos complementares
+Artigo 373.º
+
+Preço e prazo de execução dos trabalhos complementares
 
 1 - Na falta de estipulação contratual, o preço a pagar pelos trabalhos complementares e o respetivo prazo de execução são fixados nos seguintes termos:
 
@@ -2533,13 +2916,17 @@ b) [...]
 
 7 - [Anterior n.º 5.]
 
-###### Artigo 374.º — [...]
+Artigo 374.º
+
+[...]
 
 1 - Quando haja lugar à execução de trabalhos complementares, o prazo de execução da obra é proporcionalmente prorrogado de acordo com os prazos definidos nos termos do disposto no artigo 373.º
 
 2 - O disposto no número anterior não é aplicável quando estejam em causa trabalhos complementares cuja execução não prejudique o normal desenvolvimento do plano de trabalhos.
 
-###### Artigo 375.º — Formalização dos trabalhos complementares
+Artigo 375.º
+
+Formalização dos trabalhos complementares
 
 1 - Definidos todos os termos e condições a que deve obedecer a execução dos trabalhos complementares, o dono da obra e o empreiteiro devem proceder à respetiva formalização por escrito.
 
@@ -2547,17 +2934,21 @@ b) [...]
 
 3 - Sem prejuízo da publicitação referida no número anterior, logo que haja um eventual acordo entre o dono da obra e o empreiteiro sobre o preço e prazo para execução dos trabalhos complementares, esse acordo deve ser publicitado nos termos e para os efeitos do disposto no artigo 315.º
 
-###### Artigo 385.º — [...]
+Artigo 385.º
+
+[...]
 
 1 - [...]
 
 2 - [...]
 
-3 - Salvo nos casos previstos no número anterior, aos quais é aplicável, com as necessárias adaptações, o disposto nos n.<sup>os</sup>2 a 5 do artigo 320.º, o empreiteiro deve, no prazo de cinco dias após a celebração de cada contrato de subempreitada, comunicar esse facto por escrito ao dono da obra, remetendo-lhe cópia do contrato em causa.
+3 - Salvo nos casos previstos no número anterior, aos quais é aplicável, com as necessárias adaptações, o disposto nos n.os2 a 5 do artigo 320.º, o empreiteiro deve, no prazo de cinco dias após a celebração de cada contrato de subempreitada, comunicar esse facto por escrito ao dono da obra, remetendo-lhe cópia do contrato em causa.
 
 4 - [...]
 
-###### Artigo 405.º — [...]
+Artigo 405.º
+
+[...]
 
 1 - [...]
 
@@ -2569,7 +2960,9 @@ b) [...]
 
 5 - Resolvido o contrato, o dono da obra toma logo, com a assistência do empreiteiro, posse administrativa da obra.
 
-###### Artigo 407.º — [...]
+Artigo 407.º
+
+[...]
 
 1 - Entende-se por concessão de obras públicas o contrato pelo qual um contraente público encarrega um cocontratante da execução ou da conceção e execução de obras públicas, cuja contrapartida consiste no direito de exploração da obra que constitui o objeto do contrato ou nesse direito acompanhado do pagamento de um preço.
 
@@ -2577,7 +2970,9 @@ b) [...]
 
 3 - Nos contratos referidos nos números anteriores, o contraente público é o concedente e o cocontratante é o concessionário.
 
-###### Artigo 409.º — [...]
+Artigo 409.º
+
+[...]
 
 1 - As entidades adjudicantes podem conceder a execução ou a conceção e execução de obras públicas, bem como gestão e exploração de serviços, incluindo serviços públicos.
 
@@ -2589,7 +2984,9 @@ b) Utilização, proteção e gestão das infraestruturas afetas aos serviços c
 
 c) [...]
 
-###### Artigo 414.º — [...]
+Artigo 414.º
+
+[...]
 
 [...]
 
@@ -2601,7 +2998,9 @@ c) [...]
 
 d) [...]
 
-###### Artigo 415.º — [...]
+Artigo 415.º
+
+[...]
 
 [...]
 
@@ -2613,17 +3012,23 @@ c) [...]
 
 d) [...]
 
-###### Artigo 416.º — [...]
+Artigo 416.º
+
+[...]
 
 O contrato só pode atribuir ao concessionário o direito a prestações económico-financeiras desde que as mesmas não violem as regras da União Europeia e nacionais da concorrência, sejam essenciais à viabilidade económico-financeira da concessão e não eliminem a efetiva e significativa transferência de um risco de exploração para o concessionário.
 
-###### Artigo 418.º — [...]
+Artigo 418.º
+
+[...]
 
 1 - Salvo quando incompatível ou desnecessário em face da natureza da obra pública ou do serviço concedidos, o contrato deve estabelecer indicadores de acompanhamento e de avaliação do desempenho do concessionário, da perspetiva do utilizador e do interesse público, bem como procedimentos de cálculo para a sua aferição periódica, designadamente no que respeita ao número de utilizadores e seus níveis de satisfação.
 
 2 - [...]
 
-###### Artigo 419.º-A — [...]
+Artigo 419.º-A
+
+[...]
 
 1 - [...]
 
@@ -2631,9 +3036,11 @@ O contrato só pode atribuir ao concessionário o direito a prestações económ
 
 3 - [...]
 
-4 - O disposto nos n.<sup>os</sup>1 e 2 não se aplica a trabalhadores que executem tarefas ocasionais ou serviços específicos e não duradouros, ou serviços que pela sua própria natureza sejam habitualmente realizados por profissionais liberais.
+4 - O disposto nos n.os1 e 2 não se aplica a trabalhadores que executem tarefas ocasionais ou serviços específicos e não duradouros, ou serviços que pela sua própria natureza sejam habitualmente realizados por profissionais liberais.
 
-###### Artigo 420.º — [...]
+Artigo 420.º
+
+[...]
 
 [...]
 
@@ -2647,13 +3054,17 @@ d) [...]
 
 e) [...]
 
-###### Artigo 424.º — [...]
+Artigo 424.º
+
+[...]
 
 1 - Quando resultem de facto que lhe seja imputável, o concedente responde por danos causados pelo concessionário a terceiros no desenvolvimento das atividades concedidas.
 
 2 - [...]
 
-###### Artigo 425.º — [...]
+Artigo 425.º
+
+[...]
 
 1 - No termo do contrato, não são oponíveis ao concedente os contratos celebrados pelo concessionário com terceiros para efeitos do desenvolvimento das atividades concedidas, sem prejuízo do disposto na lei e no número seguinte.
 
@@ -2663,7 +3074,9 @@ e) [...]
 
 4 - [...]
 
-###### Artigo 429.º — Princípios gerais e regime especial da concessão de serviços públicos
+Artigo 429.º
+
+Princípios gerais e regime especial da concessão de serviços públicos
 
 1 - Na gestão e exploração de atividades de serviço público, o concessionário está sujeito aos seguintes princípios:
 
@@ -2675,15 +3088,19 @@ c) [...]
 
 2 - [Revogado.]
 
-###### Artigo 430.º — [...]
-
-Os princípios do serviço público referidos no artigo anterior, bem como o regime definido na secção i do presente capítulo, são aplicáveis, com as necessárias adaptações, a contratos afins do contrato de concessão de serviços.
-
-###### Artigo 456.º — [...]
+Artigo 430.º
 
 [...]
 
-a) A participação de candidato ou de concorrente que se encontre em alguma das situações previstas no artigo 55.º, no n.º 6 do artigo 113.º ou nos n.<sup>os</sup>2 e 3 do artigo 114.º no momento da apresentação da respetiva candidatura ou proposta, da adjudicação ou da celebração do contrato;
+Os princípios do serviço público referidos no artigo anterior, bem como o regime definido na secção i do presente capítulo, são aplicáveis, com as necessárias adaptações, a contratos afins do contrato de concessão de serviços.
+
+Artigo 456.º
+
+[...]
+
+[...]
+
+a) A participação de candidato ou de concorrente que se encontre em alguma das situações previstas no artigo 55.º, no n.º 6 do artigo 113.º ou nos n.os2 e 3 do artigo 114.º no momento da apresentação da respetiva candidatura ou proposta, da adjudicação ou da celebração do contrato;
 
 b) [...]
 
@@ -2695,7 +3112,9 @@ e) [...]
 
 f) [...]
 
-###### Artigo 472.º — [...]
+Artigo 472.º
+
+[...]
 
 1 - Para efeitos do cumprimento das obrigações previstas no artigo 45.º da [Diretiva 2014/23/UE](https://data.europa.eu/eli/dir/2014/23/oj?locale=pt), nos artigos 83.º e 85.º da [Diretiva 2014/24/UE](https://data.europa.eu/eli/dir/2014/24/oj?locale=pt) e nos artigos 99.º e 101.º da [Diretiva 2014/25/UE](https://data.europa.eu/eli/dir/2014/25/oj?locale=pt), todas do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, compete ao Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P., elaborar e remeter à Comissão Europeia, de três em três anos, um relatório relativo aos contratos de aquisição e locação de bens e de aquisição de serviços, um relatório estatístico relativo aos contratos de empreitada de obras públicas e um relatório estatístico relativo aos contratos de concessão de obras públicas e serviços, os quais devem conter dados de monitorização adequados, incluindo, se for o caso, informações sobre as situações de dúvidas mais frequentes ou de aplicação incorreta das regras de contratação pública, sobre o nível de participação das pequenas e médias empresas e a prevenção, deteção e notificação dos casos de fraude, corrupção, conflitos de interesses e outras irregularidades graves no domínio da contratação pública.
 
@@ -2705,11 +3124,15 @@ f) [...]
 
 4 - [...]
 
-###### Artigo 473.º — [...]
+Artigo 473.º
+
+[...]
 
 Todas as quantias previstas no presente Código, bem como o valor estimado do contrato, o preço base e o preço contratual, não incluem o imposto sobre o valor acrescentado.
 
-###### Artigo 474.º — [...]
+Artigo 474.º
+
+[...]
 
 1 - [...]
 
@@ -2735,7 +3158,9 @@ c) [...]
 
 5 - [...]
 
-###### Artigo 475.º — [...]
+Artigo 475.º
+
+[...]
 
 1 - [...]
 
@@ -2777,7 +3202,9 @@ Princípios gerais da contratação pública
 
 4 - As entidades adjudicantes devem assegurar, na formação e na execução dos contratos públicos, que os operadores económicos respeitam as normas aplicáveis em vigor em matéria social, laboral, ambiental, de igualdade de género e de prevenção e combate à corrupção, decorrentes do direito internacional, da União Europeia, nacional ou regional.
 
-###### Artigo 1.º-C — Contratação pública digital
+Artigo 1.º-C
+
+Contratação pública digital
 
 1 - No planeamento, na preparação e na condução do procedimento de formação, bem como na execução de contratos públicos, as entidades adjudicantes devem utilizar sistemas digitais, incluindo de inteligência artificial, com o objetivo de garantir a máxima eficiência do procedimento e da execução dos contratos.
 
@@ -2793,7 +3220,9 @@ d) Supervisão e contributo humano, não dispensando a intervenção dos titular
 
 e) Garantia de interoperabilidade entre os sistemas digitais utilizados e plataformas agregadoras do Estado.
 
-###### Artigo 17.º-A — Regras especiais de cálculo do valor estimado do contrato
+Artigo 17.º-A
+
+Regras especiais de cálculo do valor estimado do contrato
 
 1 - No caso de contratos de empreitada de obras públicas, o cálculo do valor estimado do contrato inclui o custo da obra e o valor total dos bens móveis e serviços que são postos à disposição do adjudicatário pela entidade adjudicante, desde que sejam necessários à execução da obra.
 
@@ -2815,7 +3244,9 @@ e) A receita da venda de ativos que façam parte do estabelecimento da concessã
 
 f) O valor de todos os fornecimentos e serviços postos à disposição do concessionário pelas entidades adjudicantes, desde que sejam necessários à execução das obras ou à prestação dos serviços.
 
-###### Artigo 17.º-B — Fracionamento e regras de agregação do valor estimado do contrato
+Artigo 17.º-B
+
+Fracionamento e regras de agregação do valor estimado do contrato
 
 1 - O valor estimado do contrato não pode ser calculado, nem o objeto do contrato pode ser fracionado, com o intuito de excluir a observância de quaisquer exigências legais, designadamente das constantes do presente Código.
 
@@ -2837,7 +3268,9 @@ a) Do mesmo tipo, as prestações que se revelem aptas a satisfazer a mesma nece
 
 b) Suscetíveis de constituir objeto de um único contrato, as prestações que, no seu conjunto, revelem uma função unitária económica e técnica.
 
-###### Artigo 35.º-B — Iniciativas espontâneas
+Artigo 35.º-B
+
+Iniciativas espontâneas
 
 1 - Qualquer operador económico interessado pode apresentar à entidade adjudicante competente uma iniciativa espontânea para efetuar quaisquer prestações ao abrigo de contratos públicos.
 
@@ -2849,15 +3282,17 @@ b) Suscetíveis de constituir objeto de um único contrato, as prestações que,
 
 5 - Se a entidade adjudicante entender que a pretensão é viável e tiver interesse na sua concretização, pode utilizar o estudo técnico na preparação das peças do procedimento de formação de um contrato público, devendo ser dado cumprimento ao disposto no artigo 49.º
 
-6 - A versão original do estudo técnico referido no número anterior deve ser disponibilizada aos candidatos ou concorrentes, sendo aplicável o disposto nos n.<sup>os</sup>3 e 4 do artigo 35.º-A.
+6 - A versão original do estudo técnico referido no número anterior deve ser disponibilizada aos candidatos ou concorrentes, sendo aplicável o disposto nos n.os3 e 4 do artigo 35.º-A.
 
 7 - Se participar no procedimento de formação do contrato e a sua proposta não for excluída nem adjudicada, o autor da iniciativa espontânea tem direito a ser reembolsado pelos encargos comprovadamente incorridos com a elaboração do estudo técnico apresentado.
 
 8 - No caso de não existir acordo quanto ao montante do reembolso referido no número anterior, podem as partes recorrer a meios judiciais ou arbitrais.
 
-9 - Aos procedimentos de formação de contratos iniciados na sequência de apresentação de iniciativas espontâneas aplica-se o disposto nos n.<sup>os</sup>2, 3 e 4 do artigo 35.º-A.
+9 - Aos procedimentos de formação de contratos iniciados na sequência de apresentação de iniciativas espontâneas aplica-se o disposto nos n.os2, 3 e 4 do artigo 35.º-A.
 
-###### Artigo 35.º-C — Período de teste de sistemas e tecnologias de informação
+Artigo 35.º-C
+
+Período de teste de sistemas e tecnologias de informação
 
 1 - Para efeitos de preparação de procedimento de formação de contrato público que tenha por objeto a aquisição ou subscrição de sistemas e tecnologias de informação, a entidade adjudicante pode promover ou aceitar a disponibilização gratuita e temporária desses sistemas para fins de avaliação técnica, funcional, de interoperabilidade, de segurança e de adequação às necessidades públicas subjacentes.
 
@@ -2883,13 +3318,17 @@ g) A indicação expressa de que não existe obrigação de contratar, nem qualq
 
 5 - Decorrido o período de teste, se a entidade adjudicante pretender contratar a solução, deve promover o procedimento pré-contratual legalmente aplicável, não podendo a realização do teste, por si só, constituir fundamento para a adoção de procedimento menos concorrencial.
 
-6 - É aplicável o disposto nos n.<sup>os</sup>2, 3 e 4 do artigo 35.º-A.
+6 - É aplicável o disposto nos n.os2, 3 e 4 do artigo 35.º-A.
 
-###### Artigo 35.º-D — Identificação das necessidades de contratação
+Artigo 35.º-D
+
+Identificação das necessidades de contratação
 
 As entidades adjudicantes não devem iniciar procedimentos de formação de contratos públicos sem determinar previamente, de forma clara, objetiva e funcional, a natureza e extensão das necessidades que pretendem satisfazer.
 
-###### Artigo 43.º-A — Caderno de encargos do procedimento de formação de contratos de empreitada de conceção-construção
+Artigo 43.º-A
+
+Caderno de encargos do procedimento de formação de contratos de empreitada de conceção-construção
 
 1 - Nos casos em que a entidade adjudicante preveja a elaboração do projeto de execução como aspeto da execução do contrato a celebrar, o caderno de encargos deve ser integrado apenas por um programa preliminar e o valor estimado indicado no convite ou programa do procedimento deve discriminar separadamente os montantes correspondentes à conceção e à execução da obra.
 
@@ -2899,11 +3338,15 @@ As entidades adjudicantes não devem iniciar procedimentos de formação de cont
 
 4 - No caso previsto no n.º 1, o contrato a celebrar não é considerado um contrato misto para os efeitos do disposto no artigo 32.º
 
-###### Artigo 49.º-B — Especificações técnicas e prioridade à eficiência energética
+Artigo 49.º-B
+
+Especificações técnicas e prioridade à eficiência energética
 
 Na definição das especificações técnicas no âmbito da formação de contratos de valor estimado superior aos limiares referidos no artigo 474.º, a entidade adjudicante deve ter em conta a preocupação de eficiência energética, nomeadamente através da consideração por bens, serviços e obras de elevado desempenho energético.
 
-###### Artigo 80.º-A — Extinção do procedimento por impossibilidade de adjudicação
+Artigo 80.º-A
+
+Extinção do procedimento por impossibilidade de adjudicação
 
 1 - O procedimento extingue-se por impossibilidade de adjudicação, quando:
 
@@ -2915,17 +3358,21 @@ b) Todas as propostas tenham sido excluídas.
 
 3 - Na adjudicação por lotes, a impossibilidade de adjudicação relativa a um ou mais lotes implica a extinção do procedimento apenas quanto a esse ou esses lotes.
 
-###### Artigo 127.º-A — Noção e regime de consulta prévia especial
+Artigo 127.º-A
+
+Noção e regime de consulta prévia especial
 
 1 - A consulta prévia especial é o procedimento em que a entidade adjudicante convida diretamente pelo menos cinco entidades à sua escolha a apresentar proposta.
 
 2 - A consulta prévia especial rege-se, com as necessárias adaptações, pelas disposições que regulam a consulta prévia de regime geral, em tudo o que não esteja especialmente previsto na presente secção.
 
-3 - À consulta prévia especial é aplicável o disposto nos n.<sup>os</sup>2 a 6 do artigo 161.º-B.
+3 - À consulta prévia especial é aplicável o disposto nos n.os2 a 6 do artigo 161.º-B.
 
-###### Artigo 127.º-B — Âmbito e condicionalismos de adoção da consulta prévia especial
+Artigo 127.º-B
 
-O procedimento de consulta prévia especial pode ser adotado para a formação de contratos, quando o valor estimado do contrato for, simultaneamente, inferior aos limiares referidos nos n.<sup>os</sup>2, 3 ou 4 do artigo 474.º, consoante o caso, e inferior a 2 000 000 euros, que tenham por objeto:
+Âmbito e condicionalismos de adoção da consulta prévia especial
+
+O procedimento de consulta prévia especial pode ser adotado para a formação de contratos, quando o valor estimado do contrato for, simultaneamente, inferior aos limiares referidos nos n.os2, 3 ou 4 do artigo 474.º, consoante o caso, e inferior a 2 000 000 euros, que tenham por objeto:
 
 a) A execução de projetos financiados ou cofinanciados por fundos europeus;
 
@@ -2939,9 +3386,11 @@ e) A locação ou aquisição de bens móveis, a aquisição de serviços ou a r
 
 f) A promoção de intervenções que, por despacho do membro do Governo responsável pelo respetivo setor de atividade, sejam consideradas prioritárias ou estratégicas para o desenvolvimento regional ou nacional.
 
-###### Artigo 127.º-C — Escolha das entidades convidadas
+Artigo 127.º-C
 
-1 - Além das referidas nos n.<sup>os</sup>5 e 6 do artigo 113.º, também não podem ser convidadas a apresentar propostas em procedimentos de consulta prévia especial entidades às quais a entidade adjudicante já tenha adjudicado, no ano económico em curso e nos dois anos económicos anteriores, na sequência de consulta prévia especial, propostas para a celebração de contratos cujo objeto seja constituído por prestações do mesmo tipo das do contrato a celebrar e cujo preço contratual acumulado seja:
+Escolha das entidades convidadas
+
+1 - Além das referidas nos n.os5 e 6 do artigo 113.º, também não podem ser convidadas a apresentar propostas em procedimentos de consulta prévia especial entidades às quais a entidade adjudicante já tenha adjudicado, no ano económico em curso e nos dois anos económicos anteriores, na sequência de consulta prévia especial, propostas para a celebração de contratos cujo objeto seja constituído por prestações do mesmo tipo das do contrato a celebrar e cujo preço contratual acumulado seja:
 
 a) Igual ou superior a 2 000 000 €, no caso de empreitadas e concessões de obras públicas ou de concessões de serviços;
 
@@ -2949,7 +3398,9 @@ b) Igual ou superior aos limiares referidos nas alíneas b) ou c) do n.º 3 ou n
 
 2 - Para efeitos do disposto no número anterior, são do mesmo tipo as prestações que se revelem aptas a satisfazer uma mesma necessidade da entidade adjudicante.
 
-###### Artigo 129.º-A — Contratação em situações excecionais
+Artigo 129.º-A
+
+Contratação em situações excecionais
 
 1 - As entidades adjudicantes podem ainda adotar o procedimento previsto na presente secção para a realização das intervenções necessárias à reconstrução e reabilitação de áreas afetadas e à prestação de apoio a pessoas singulares e coletivas na sequência da verificação de eventos que impliquem uma declaração de estado de sítio, de estado de emergência ou de situação de calamidade, até aos seguintes limiares:
 
@@ -2961,7 +3412,7 @@ b) 100 000 € na formação de contratos de locação ou aquisição de bens m�
 
 3 - Com fundamento no presente artigo, o ajuste direto pode ser adotado apenas pelo período de um ano após o termo da vigência da declaração de estado de sítio, de estado de emergência ou de situação de calamidade.
 
-4 - Aos procedimentos de formação de contratos previstos no n.º 1 não se aplica o disposto nos n.<sup>os</sup>2 a 4 e 6 do artigo 113.º
+4 - Aos procedimentos de formação de contratos previstos no n.º 1 não se aplica o disposto nos n.os2 a 4 e 6 do artigo 113.º
 
 5 - Os contratos cujo preço contratual seja igual ou superior ao previsto no n.º 1 do artigo 128.º devem ser publicitados no portal dos contratos públicos, mediante formulário eletrónico no qual se identifique:
 
@@ -2979,7 +3430,9 @@ f) O prazo de execução.
 
 6 - Sem prejuízo do disposto no n.º 2, sempre que a necessidade de dar imediata execução às prestações contratuais o justifique, a estipulação e redução a escrito ali prevista pode ocorrer no prazo máximo de 30 dias a contar do início da execução material do contrato, ou concomitantemente com a emissão da primeira fatura, consoante o que ocorrer primeiro.
 
-###### Artigo 161.º-A — Âmbito e condicionalismos de aplicação
+Artigo 161.º-A
+
+Âmbito e condicionalismos de aplicação
 
 1 - Na formação de quaisquer contratos cujo valor estimado seja inferior aos limiares referidos no artigo 474.º, as entidades adjudicantes podem adotar um regime de flexibilização do concurso público.
 
@@ -2995,7 +3448,9 @@ c) Recorrer a leilão eletrónico, nos termos do artigo 140.º e seguintes;
 
 d) Adotar uma fase de negociação das propostas, nos termos do artigo 149.º e seguintes.
 
-###### Artigo 161.º-B — Regras especiais
+Artigo 161.º-B
+
+Regras especiais
 
 1 - A adoção do regime de flexibilização do concurso público autoriza a entidade adjudicante:
 
@@ -3013,7 +3468,9 @@ b) Obtenha seguro da execução do contrato a celebrar ou declaração de assun�
 
 4 - Os prazos de apresentação de impugnações, de pronúncia dos contrainteressados e de decisão de impugnações administrativas previstos nos artigos 270.º, 273.º e 274.º são de três dias.
 
-###### Artigo 161.º-C — Programa do concurso
+Artigo 161.º-C
+
+Programa do concurso
 
 Além dos elementos indicados no artigo 132.º, sendo adotado o regime de flexibilização do concurso público, o programa do concurso deve indicar as regras específicas que a entidade adjudicante decida adotar, bem como, quando seja o caso:
 
@@ -3021,13 +3478,17 @@ a) Os requisitos mínimos de capacidade técnica e ou financeira que os candidat
 
 b) A pontuação mínima na avaliação técnica, se for adotada a avaliação faseada das propostas.
 
-###### Artigo 161.º-D — Requisitos mínimos de capacidade técnica e financeira
+Artigo 161.º-D
+
+Requisitos mínimos de capacidade técnica e financeira
 
 1 - Sendo exigido o preenchimento pelos concorrentes de requisitos mínimos de capacidade técnica e, ou financeira, aplica-se, com as necessárias adaptações, o disposto nos artigos 165.º-A e 182.º
 
 2 - A análise das propostas nos termos do n.º 1 do artigo 70.º contempla a verificação do preenchimento dos requisitos de capacidade exigidos.
 
-###### Artigo 161.º-E — Avaliação faseada das propostas
+Artigo 161.º-E
+
+Avaliação faseada das propostas
 
 1 - A avaliação faseada das propostas consiste na separação entre a avaliação técnica, que abrange todas as propostas apresentadas, e a avaliação global, que abrange as propostas que atinjam uma pontuação mínima na avaliação técnica.
 
@@ -3037,21 +3498,29 @@ a) Avaliação técnica da proposta, a avaliação, efetuada nos termos do n.º 
 
 b) Avaliação global das propostas, a avaliação, efetuada de acordo com o modelo previsto no artigo 139.º, em todos os fatores correspondentes a aspetos da execução do contrato a celebrar submetidos à concorrência pelo caderno de encargos, das propostas que tenham atingido a pontuação mínima na avaliação técnica.
 
-###### Artigo 165.º-A — Recurso às capacidades de terceiros
+Artigo 165.º-A
+
+Recurso às capacidades de terceiros
 
 Para efeitos da verificação do cumprimento dos requisitos mínimos de capacidade técnica, os candidatos podem recorrer às capacidades de outras entidades, independentemente do vínculo que com elas estabeleça.
 
-###### Artigo 314.º-A — Alteração das circunstâncias
+Artigo 314.º-A
+
+Alteração das circunstâncias
 
 1 - Se as circunstâncias em que as partes fundaram a decisão de contratar tiverem sofrido uma alteração anormal e imprevisível, tem a parte lesada direito a uma compensação financeira, desde que a exigência das obrigações por ela assumida afete gravemente os princípios da boa-fé e não esteja coberta pelos riscos próprios do contrato.
 
 2 - A compensação financeira a que se refere o número anterior é fixada segundo critérios de equidade, por acordo entre as partes ou por decisão judicial ou arbitral.
 
-###### Artigo 314.º-B — Alteração das circunstâncias imputável a decisão do contraente público
+Artigo 314.º-B
+
+Alteração das circunstâncias imputável a decisão do contraente público
 
 O cocontratante tem um direito à reposição do equilíbrio financeiro, nos termos do artigo 282.º, se a alteração anormal e imprevisível das circunstâncias for imputável a decisão do contraente público, adotada fora do exercício dos seus poderes de conformação da relação contratual, mas com uma repercussão específica na situação contratual do cocontratante.
 
-###### Artigo 319.º-A — Subcontratação
+Artigo 319.º-A
+
+Subcontratação
 
 1 - A subcontratação pode ser autorizada no contrato ou no decurso da execução do contrato.
 
@@ -3073,7 +3542,9 @@ b) Do preenchimento, por parte do potencial subcontratado, de requisitos mínimo
 
 8 - Se o contraente público não efetuar nenhuma comunicação ao cocontratante dentro do prazo previsto no número anterior, considera-se que a proposta deste foi atendida.
 
-###### Artigo 370.º-A — Alterações ao projeto da iniciativa do empreiteiro
+Artigo 370.º-A
+
+Alterações ao projeto da iniciativa do empreiteiro
 
 1 - Em qualquer momento da execução dos trabalhos, e obtida a anuência do autor do projeto, o empreiteiro pode propor ao dono da obra alterações ao projeto de execução relativamente a parte ou partes dele ainda não executadas.
 
@@ -3083,17 +3554,23 @@ b) Do preenchimento, por parte do potencial subcontratado, de requisitos mínimo
 
 4 - Às alterações propostas pelo empreiteiro aplica-se o disposto no n.º 2 do artigo 378.º
 
-###### Artigo 388.º-A — Cumprimento de marcos de execução
+Artigo 388.º-A
+
+Cumprimento de marcos de execução
 
 Caso o caderno de encargos determine o pagamento do preço contratual com base em marcos de execução nos termos do n.º 2 do artigo 43.º-A, a medição dos trabalhos tem como finalidade a verificação do cumprimento desses marcos.
 
-###### Artigo 393.º-A — Liquidação e pagamento por marcos de execução
+Artigo 393.º-A
+
+Liquidação e pagamento por marcos de execução
 
 1 - Caso o caderno de encargos determine o pagamento do preço contratual com base em marcos de execução, esse pagamento é realizado faseadamente, de acordo com o cumprimento dos marcos de execução definidos no caderno de encargos nos termos do n.º 2 do artigo 43.º-A.
 
 2 - Nos casos previstos no número anterior não se aplica o disposto nos artigos 389.º, 392.º e 393.º
 
-###### Artigo 407.º-A — Transferência de risco de exploração
+Artigo 407.º-A
+
+Transferência de risco de exploração
 
 1 - O contrato de concessão envolve uma significativa e efetiva transferência para o concessionário de um risco de exploração das obras públicas ou dos serviços, podendo consistir num risco ligado à procura ou à oferta, ou a ambos.
 
@@ -3103,17 +3580,23 @@ a) Em condições normais de exploração, não há garantia de que recupere os 
 
 b) A parte do risco transferido para o concessionário envolve uma exposição real às incertezas do mercado.
 
-###### Artigo 428.º-A — Objeto da concessão de serviços
+Artigo 428.º-A
+
+Objeto da concessão de serviços
 
 1 - O contrato de concessão de serviços tem como objeto a gestão e exploração, em nome próprio do concessionário, de qualquer atividade de serviço que satisfaça necessidades próprias do concedente ou em cujos resultados este tenha um interesse direto.
 
 2 - A concessão de serviços pode ter por objeto a gestão e exploração de atividades de serviço público, cuja titularidade pertence ao concedente.
 
-###### Artigo 464.º-B — Princípio geral
+Artigo 464.º-B
+
+Princípio geral
 
 O recurso à arbitragem ou a outros meios de resolução alternativa de litígios é permitido, nos termos da lei, para a resolução de litígios emergentes de procedimentos de formação de contratos públicos e de contratos aos quais se aplique o presente Código.
 
-###### Artigo 464.º-C — Arbitragem
+Artigo 464.º-C
+
+Arbitragem
 
 1 - Nos termos da lei, podem ser constituídos tribunais arbitrais para a resolução de litígios emergentes de procedimentos ou contratos aos quais se aplique o presente Código.
 
@@ -3129,13 +3612,17 @@ c) A necessidade de aceitação, por parte dos candidatos ou concorrentes, do re
 
 4 - Caso o procedimento se destine à formação de algum dos contratos previstos no n.º 1 do artigo 100.º do Código de Processo nos Tribunais Administrativos, as regras de funcionamento do tribunal arbitral devem observar o regime do contencioso pré-contratual urgente previsto naquele Código.
 
-###### Artigo 464.º-D — Prevenção e resolução amigável de litígios
+Artigo 464.º-D
+
+Prevenção e resolução amigável de litígios
 
 1 - Com o propósito de prevenir ou de resolver litígios contratuais, qualquer uma das partes de contratos públicos ou administrativos pode requerer a constituição de uma comissão técnica de conciliação.
 
 2 - Os membros da comissão indicados pelas partes devem ter qualificação técnica ou experiência profissional adequada em face do objeto do litígio.
 
-###### Artigo 464.º-E — Processo da conciliação
+Artigo 464.º-E
+
+Processo da conciliação
 
 1 - Na falta de disposição contratual que regule o processo de conciliação, o requerimento para a constituição da comissão é enviado à parte requerida, devendo conter a exposição dos factos referentes ao pedido e a sua fundamentação.
 
@@ -3149,11 +3636,15 @@ c) A necessidade de aceitação, por parte dos candidatos ou concorrentes, do re
 
 6 - Todas as notificações e convocatórias são feitas por meios eletrónicos.
 
-###### Artigo 464.º-F — Acordo
+Artigo 464.º-F
+
+Acordo
 
 Havendo conciliação, é lavrado auto, do qual constam todos os termos e condições do acordo.
 
-###### Artigo 464.º-G — Interrupção de prazos de prescrição e de caducidade
+Artigo 464.º-G
+
+Interrupção de prazos de prescrição e de caducidade
 
 O requerimento de tentativa de conciliação interrompe os prazos de prescrição do direito e de caducidade das ações judiciais ou arbitrais, que voltam a correr 30 dias depois da data em que a parte requerente seja notificada da impossibilidade de realização ou da inviabilidade da conciliação.»
 
@@ -3191,7 +3682,7 @@ i) É aditada a parte iv do capítulo iii, denominado «Resolução alternativa 
 
 São revogados:
 
-a) O n.º 2 do artigo 1.º-A, a alínea b) do n.º 2 do artigo 2.º, o n.º 2 do artigo 5.º-B, o n.º 2 do artigo 6.º-A, os n.<sup>os</sup>3, 4, 5, 6, 8 e 9 do artigo 17.º, o artigo 22.º, o n.º 2 do artigo 25.º, os n.<sup>os</sup>2, 3 e 11 do artigo 43.º, os n.<sup>os</sup>3, 4, 5 e 6 do artigo 47.º, o n.º 1 do artigo 55.º-A, a alínea a) do n.º 1 do artigo 57.º, os n.<sup>os</sup>3 e 5 do artigo 57.º-A, os n.<sup>os</sup>4 e 5 do artigo 60.º, a alínea i) do n.º 2 do artigo 75.º, as alíneas a) e b) do n.º 1 do artigo 79.º, o n.º 4 do artigo 96.º, o n.º 4 do artigo 98.º, o n.º 5 do artigo 132.º, os n.<sup>os</sup>2, 3 e 4 do artigo 146.º, a alínea t) do n.º 1 e os n.<sup>os</sup>2, 3, 4 e 5 do artigo 164.º, o n.º 3 do artigo 165.º, os n.<sup>os</sup>2, 3, 4 e 5 do artigo 187.º, a alínea k) do n.º 2 e os n.<sup>os</sup>3 e 5 do artigo 189.º, o n.º 2 do artigo 250.º-C, a subalínea i) da alínea b) e a alínea c) do n.º 3 do artigo 256.º-A, o n.º 4 do artigo 275.º, os artigos 276.º e 277.º, o n.º 3 do artigo 284.º, os n.<sup>os</sup>2, 3 e 5 do artigo 313.º, o n.º 2 do artigo 314.º, os n.<sup>os</sup>3, 4, 5 e 6 do artigo 318.º, o artigo 319.º, o n.º 2 do artigo 327.º, os n.<sup>os</sup>2 e 4 do artigo 370.º, os artigos 410.º-A e 413.º, o n.º 2 do artigo 429.º, o artigo 464.º-A, o n.º 2 do artigo 469.º, o artigo 476.º e os anexos i, ii, v, e xiii do Código dos Contratos Públicos;
+a) O n.º 2 do artigo 1.º-A, a alínea b) do n.º 2 do artigo 2.º, o n.º 2 do artigo 5.º-B, o n.º 2 do artigo 6.º-A, os n.os3, 4, 5, 6, 8 e 9 do artigo 17.º, o artigo 22.º, o n.º 2 do artigo 25.º, os n.os2, 3 e 11 do artigo 43.º, os n.os3, 4, 5 e 6 do artigo 47.º, o n.º 1 do artigo 55.º-A, a alínea a) do n.º 1 do artigo 57.º, os n.os3 e 5 do artigo 57.º-A, os n.os4 e 5 do artigo 60.º, a alínea i) do n.º 2 do artigo 75.º, as alíneas a) e b) do n.º 1 do artigo 79.º, o n.º 4 do artigo 96.º, o n.º 4 do artigo 98.º, o n.º 5 do artigo 132.º, os n.os2, 3 e 4 do artigo 146.º, a alínea t) do n.º 1 e os n.os2, 3, 4 e 5 do artigo 164.º, o n.º 3 do artigo 165.º, os n.os2, 3, 4 e 5 do artigo 187.º, a alínea k) do n.º 2 e os n.os3 e 5 do artigo 189.º, o n.º 2 do artigo 250.º-C, a subalínea i) da alínea b) e a alínea c) do n.º 3 do artigo 256.º-A, o n.º 4 do artigo 275.º, os artigos 276.º e 277.º, o n.º 3 do artigo 284.º, os n.os2, 3 e 5 do artigo 313.º, o n.º 2 do artigo 314.º, os n.os3, 4, 5 e 6 do artigo 318.º, o artigo 319.º, o n.º 2 do artigo 327.º, os n.os2 e 4 do artigo 370.º, os artigos 410.º-A e 413.º, o n.º 2 do artigo 429.º, o artigo 464.º-A, o n.º 2 do artigo 469.º, o artigo 476.º e os anexos i, ii, v, e xiii do Código dos Contratos Públicos;
 
 b) Os artigos 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.º e 16.º da [Lei n.º 30/2021](https://diariodarepublica.pt/dr/detalhe/lei/30-2021-163728569), de 21 de maio.
 
@@ -3217,15 +3708,15 @@ O presente decreto-lei entra em vigor a 1 de outubro de 2026.
 
 Visto e aprovado em Conselho de Ministros de 25 de junho de 2026. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Joaquim Miranda Sarmento - António Leitão Amaro - Manuel Castro Almeida - Gonçalo Nuno da Cruz Saraiva Matias - Miguel Martinez de Castro Pinto Luz.
 
-**Promulgado em 28 de agosto de 2026.**
+Promulgado em 28 de agosto de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 31 de agosto de 2026.**
+Referendado em 31 de agosto de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -3245,7 +3736,7 @@ Republicação do Código dos Contratos Públicos
 
 CÓDIGO DOS CONTRATOS PÚBLICOS
 
-# PARTE I — ÂMBITO DE APLICAÇÃO
+## PARTE I — ÂMBITO DE APLICAÇÃO
 
 ## TÍTULO I — DISPOSIÇÕES GERAIS
 
@@ -3543,7 +4034,7 @@ ii) Os serviços relativos a envios postais não incluídos na alínea anterior,
 
 ###### Artigo 10.º — Atividades excecionadas nos setores da água, da energia e dos transportes
 
-1 - Excetua-se do disposto nos n.<sup>os</sup>1 e 2 do artigo anterior a atividade de alimentação de redes fixas de prestação de serviços ao público no domínio da produção de eletricidade e água potável quando:
+1 - Excetua-se do disposto nos n.os1 e 2 do artigo anterior a atividade de alimentação de redes fixas de prestação de serviços ao público no domínio da produção de eletricidade e água potável quando:
 
 a) A produção de água potável ou de eletricidade pela entidade adjudicante seja necessária ao exercício de uma atividade diferente das referidas no artigo anterior;
 
@@ -3639,7 +4130,7 @@ c) Outros elementos que a Comissão Europeia considere necessários para provar 
 
 2 - As entidades adjudicantes devem comunicar à Comissão Europeia, a pedido desta, os contratos celebrados ao abrigo do disposto na alínea a) do n.º 1 do artigo 13.º ou os que não sejam celebrados no âmbito do exercício de uma ou de várias das atividades exercidas por essas entidades nos setores da água, da energia, dos transportes e dos serviços postais.
 
-# PARTE II — CONTRATAÇÃO PÚBLICA
+## PARTE II — CONTRATAÇÃO PÚBLICA
 
 ## TÍTULO I — TIPOS E ESCOLHA DE PROCEDIMENTOS
 
@@ -3805,7 +4296,7 @@ A escolha do procedimento nos termos do disposto no presente capítulo permite a
 
 a) Em anterior concurso público ou concurso limitado por prévia qualificação, nenhum concorrente tenha apresentado proposta, todas as propostas tenham sido excluídas com fundamento na primeira parte da alínea a) do n.º 3 do artigo 70.º, nenhum candidato se haja apresentado, ou todas as candidaturas tenham sido excluídas com fundamento nas alíneas c), j) ou l) do n.º 2 do artigo 184.º;
 
-b) Em anterior concurso público ou concurso limitado por prévia qualificação para a formação de contratos de valor inferior aos limiares referidos nos n.<sup>os</sup>2, 3 ou 4 do artigo 474.º, consoante o caso, todas as propostas ou todas as candidaturas tenham sido excluídas;
+b) Em anterior concurso público ou concurso limitado por prévia qualificação para a formação de contratos de valor inferior aos limiares referidos nos n.os2, 3 ou 4 do artigo 474.º, consoante o caso, todas as propostas ou todas as candidaturas tenham sido excluídas;
 
 c) Na medida do estritamente necessário e por motivos de urgência imperiosa resultante de acontecimentos imprevisíveis pela entidade adjudicante, não possam ser cumpridos os prazos inerentes aos demais procedimentos, e desde que as circunstâncias invocadas não sejam, em caso algum, imputáveis à entidade adjudicante;
 
@@ -4015,7 +4506,7 @@ A entidade adjudicante pode adotar a parceria para a inovação quando pretenda 
 
 5 - Se um dos tipos contratuais em causa na situação do número anterior for abrangido pelo regime do [Decreto-Lei n.º 104/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2011-671231), de 6 de outubro, à formação do contrato é aplicável esse regime.
 
-6 - Sem prejuízo do disposto nos n.<sup>os</sup>1 a 4, a formação do contrato misto está sujeita ao cumprimento dos trâmites procedimentais e outros requisitos legais específicos, devidamente conjugados, aplicáveis aos vários tipos contratuais abrangidos pelo contrato.
+6 - Sem prejuízo do disposto nos n.os1 a 4, a formação do contrato misto está sujeita ao cumprimento dos trâmites procedimentais e outros requisitos legais específicos, devidamente conjugados, aplicáveis aos vários tipos contratuais abrangidos pelo contrato.
 
 7 - [Revogado.]
 
@@ -4045,11 +4536,11 @@ a) No caso de contratos de locação ou de aquisição de bens móveis ou de con
 
 b) No caso de contratos de empreitada ou concessão de obras públicas ou concessão de serviços, as respetivas características essenciais, quando o preço contratual estimado de todos os contratos a celebrar durante os 12 meses seguintes seja igual ou superior aos limiares referidos no artigo 474.º
 
-2 - As entidades adjudicantes referidas no artigo 2.º podem enviar para publicação no Jornal Oficial da União Europeia um anúncio de pré-informação, nos termos dos n.<sup>os</sup>2 e 3 do artigo 31.º da [Diretiva 2014/23/UE](https://data.europa.eu/eli/dir/2014/23/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, quando se trate de concessão de serviços sociais ou outros serviços específicos enumerados no anexo iv daquela diretiva.
+2 - As entidades adjudicantes referidas no artigo 2.º podem enviar para publicação no Jornal Oficial da União Europeia um anúncio de pré-informação, nos termos dos n.os2 e 3 do artigo 31.º da [Diretiva 2014/23/UE](https://data.europa.eu/eli/dir/2014/23/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, quando se trate de concessão de serviços sociais ou outros serviços específicos enumerados no anexo iv daquela diretiva.
 
 3 - O período abrangido pelo anúncio de pré-informação não pode ser superior a 12 meses a contar da data em que o anúncio é enviado para publicação, exceto no caso dos contratos de serviços sociais e outros serviços específicos, em que o referido período pode ser superior a 12 meses.
 
-4 - Os preços contratuais estimados de todos os contratos a celebrar previstos nos n.<sup>os</sup>1 e 2 incluem o valor estimado dos acordos-quadro que as entidades adjudicantes estejam dispostas a celebrar naquele período e cujo objeto abranja prestações típicas dos contratos referidos no n.º 1.
+4 - Os preços contratuais estimados de todos os contratos a celebrar previstos nos n.os1 e 2 incluem o valor estimado dos acordos-quadro que as entidades adjudicantes estejam dispostas a celebrar naquele período e cujo objeto abranja prestações típicas dos contratos referidos no n.º 1.
 
 5 - O preço contratual estimado de todos os contratos a celebrar para cuja formação as entidades adjudicantes adotem os procedimentos de consulta prévia ou ajuste direto em função de critérios materiais não é contabilizado para efeitos do preço contratual estimado de todos os contratos a celebrar previsto no n.º 1.
 
@@ -4057,7 +4548,7 @@ b) No caso de contratos de empreitada ou concessão de obras públicas ou conces
 
 7 - Os anúncios de pré-informação relativos aos contratos referidos na alínea b) do n.º 1 são enviados imediatamente após a aprovação do plano de atividades em que se inserem.
 
-8 - O cálculo dos preços contratuais estimados referidos nos n.<sup>os</sup>1 a 3 deve ser efetuado de acordo com as regras previstas no artigo 5.º da [Diretiva 2014/24/UE](https://data.europa.eu/eli/dir/2014/24/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014.
+8 - O cálculo dos preços contratuais estimados referidos nos n.os1 a 3 deve ser efetuado de acordo com as regras previstas no artigo 5.º da [Diretiva 2014/24/UE](https://data.europa.eu/eli/dir/2014/24/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014.
 
 9 - O anúncio de pré-informação não pode ser publicado num perfil de adquirente antes do envio ao Serviço das Publicações da União Europeia do anúncio da sua publicação sob essa forma, devendo constar expressamente do primeiro anúncio a data de envio do segundo.
 
@@ -4091,13 +4582,13 @@ b) No caso de contratos de empreitada ou concessão de obras públicas ou conces
 
 5 - Se a entidade adjudicante entender que a pretensão é viável e tiver interesse na sua concretização, pode utilizar o estudo técnico na preparação das peças do procedimento de formação de um contrato público, devendo ser dado cumprimento ao disposto no artigo 49.º
 
-6 - A versão original do estudo técnico referido no número anterior deve ser disponibilizada aos candidatos ou concorrentes, sendo aplicável o disposto nos n.<sup>os</sup>3 e 4 do artigo 35.º-A.
+6 - A versão original do estudo técnico referido no número anterior deve ser disponibilizada aos candidatos ou concorrentes, sendo aplicável o disposto nos n.os3 e 4 do artigo 35.º-A.
 
 7 - Se participar no procedimento de formação do contrato e a sua proposta não for excluída nem adjudicada, o autor da iniciativa espontânea tem direito a ser reembolsado pelos encargos comprovadamente incorridos com a elaboração do estudo técnico apresentado.
 
 8 - No caso de não existir acordo quanto ao montante do reembolso referido no número anterior, podem as partes recorrer a meios judiciais ou arbitrais.
 
-9 - Aos procedimentos de formação de contratos iniciados na sequência de apresentação de iniciativas espontâneas aplica-se o disposto nos n.<sup>os</sup>2, 3 e 4 do artigo 35.º-A.
+9 - Aos procedimentos de formação de contratos iniciados na sequência de apresentação de iniciativas espontâneas aplica-se o disposto nos n.os2, 3 e 4 do artigo 35.º-A.
 
 ###### Artigo 35.º-C — Período de teste de sistemas e tecnologias de informação
 
@@ -4125,7 +4616,7 @@ g) A indicação expressa de que não existe obrigação de contratar, nem qualq
 
 5 - Decorrido o período de teste, se a entidade adjudicante pretender contratar a solução, deve promover o procedimento pré-contratual legalmente aplicável, não podendo a realização do teste, por si só, constituir fundamento para a adoção de procedimento menos concorrencial.
 
-6 - É aplicável o disposto nos n.<sup>os</sup>2, 3 e 4 do artigo 35.º-A.
+6 - É aplicável o disposto nos n.os2, 3 e 4 do artigo 35.º-A.
 
 ###### Artigo 35.º-D — Identificação das necessidades de contratação
 
@@ -4289,7 +4780,7 @@ m) A eficiência energética.
 
 10 - [Revogado.]
 
-11 - Para efeito do disposto nos n.<sup>os</sup>3 e 5, consideram-se aspetos da execução do contrato submetidos à concorrência aqueles que correspondam a fatores ou subfatores que densificam o critério de adjudicação e aspetos não submetidos à concorrência todos os demais.
+11 - Para efeito do disposto nos n.os3 e 5, consideram-se aspetos da execução do contrato submetidos à concorrência aqueles que correspondam a fatores ou subfatores que densificam o critério de adjudicação e aspetos não submetidos à concorrência todos os demais.
 
 12 - A inclusão no caderno de encargos das condições elencadas no n.º 6 pode contemplar, nomeadamente, a fixação de quantidades mínimas de fornecimento de bens ou de prestação de serviços destinadas à promoção desses objetivos.
 
@@ -4577,7 +5068,7 @@ j) Tenham diligenciado no sentido de influenciar indevidamente a decisão de con
 
 k) Estejam abrangidas por conflitos de interesses que não possam ser eficazmente corrigidos por outras medidas menos gravosas que a exclusão;
 
-l) Tenham acusado deficiências significativas ou persistentes na execução de, pelo menos, um contrato público anterior nos últimos três anos, tendo tal facto conduzido à resolução desse contrato por incumprimento, ao pagamento de indemnização resultante de incumprimento, à aplicação de sanções que tenham atingido os valores máximos aplicáveis nos termos dos n.<sup>os</sup>2 e 3 do artigo 329.º, ou a outras sanções equivalentes;
+l) Tenham acusado deficiências significativas ou persistentes na execução de, pelo menos, um contrato público anterior nos últimos três anos, tendo tal facto conduzido à resolução desse contrato por incumprimento, ao pagamento de indemnização resultante de incumprimento, à aplicação de sanções que tenham atingido os valores máximos aplicáveis nos termos dos n.os2 e 3 do artigo 329.º, ou a outras sanções equivalentes;
 
 m) Existam fortes indícios da prática de atos, da participação em acordos ou da troca de informações suscetíveis de falsear as regras de concorrência em procedimentos anteriores.
 
@@ -4659,7 +5150,7 @@ ii) Que cada um dos membros do agrupamento concorrente se propõe executar, se f
 
 3 - Integram também a proposta quaisquer outros documentos, incluindo documentos que contenham termos ou condições relativos a aspetos de execução do contrato não regulados pelo caderno de encargos, que o concorrente apresente por os considerar indispensáveis para a execução do contrato.
 
-4 - Os documentos referidos nos n.<sup>os</sup>1 e 2 devem ser assinados pelo concorrente ou por representante que tenha poderes para o obrigar.
+4 - Os documentos referidos nos n.os1 e 2 devem ser assinados pelo concorrente ou por representante que tenha poderes para o obrigar.
 
 5 - Quando a proposta seja apresentada por um agrupamento concorrente, os documentos referidos no n.º 1 devem ser assinados pelo representante comum dos membros que o integram, caso em que devem ser juntos à proposta os instrumentos de mandato emitidos por cada um dos seus membros ou, não existindo representante comum, devem ser assinados por todos os seus membros ou respetivos representantes.
 
@@ -4757,13 +5248,13 @@ c) Cuja receção deve ser registada por referência à respetiva data e hora.
 
 1 - Quando as retificações ou os esclarecimentos previstos no artigo 50.º sejam comunicados para além do prazo estabelecido para o efeito, o prazo fixado para a apresentação das propostas deve ser prorrogado, no mínimo, por período equivalente ao do atraso verificado.
 
-2 - Quando o anúncio do procedimento tiver sido publicado no Jornal Oficial da União Europeia, o período de prorrogação não pode ser inferior a seis dias ou, nas situações previstas no n.º 3 do artigo 136.º e nos n.<sup>os</sup>2 e 3 do artigo 174.º, a quatro dias.
+2 - Quando o anúncio do procedimento tiver sido publicado no Jornal Oficial da União Europeia, o período de prorrogação não pode ser inferior a seis dias ou, nas situações previstas no n.º 3 do artigo 136.º e nos n.os2 e 3 do artigo 174.º, a quatro dias.
 
 3 - Quando as retificações ou a aceitação de erros ou de omissões das peças do procedimento referidas no artigo 50.º, independentemente do momento da sua comunicação, implicarem alterações de aspetos fundamentais das peças do procedimento, o prazo fixado para a apresentação das propostas deve ser prorrogado, no mínimo, por período equivalente ao tempo decorrido desde o início daquele prazo até à comunicação das retificações ou à publicitação da decisão de aceitação de erros ou de omissões.
 
 4 - A pedido fundamentado de qualquer interessado, o prazo fixado para a apresentação das propostas pode ser prorrogado pelo período considerado adequado, o qual aproveita a todos os interessados.
 
-5 - As decisões de prorrogação nos termos do disposto nos números anteriores cabem ao órgão competente para a decisão de contratar e devem ser juntas às peças do procedimento, publicando-se imediatamente aviso daquelas decisões, nos termos do disposto no n.º 1 do artigo 130.º, nos n.<sup>os</sup>1 e 3 do artigo 131.º, no n.º 1 do artigo 167.º, no artigo 197.º e no artigo 208.º
+5 - As decisões de prorrogação nos termos do disposto nos números anteriores cabem ao órgão competente para a decisão de contratar e devem ser juntas às peças do procedimento, publicando-se imediatamente aviso daquelas decisões, nos termos do disposto no n.º 1 do artigo 130.º, nos n.os1 e 3 do artigo 131.º, no n.º 1 do artigo 167.º, no artigo 197.º e no artigo 208.º
 
 ###### Artigo 65.º — Prazo da obrigação de manutenção das propostas
 
@@ -4843,9 +5334,9 @@ b) Que sejam apresentadas por concorrentes em violação do disposto no n.º 2 d
 
 c) Que sejam apresentadas por concorrentes relativamente aos quais ou, no caso de agrupamentos concorrentes, relativamente a qualquer dos seus membros, a entidade adjudicante tenha conhecimento que se verifica alguma das situações previstas no artigo 55.º;
 
-d) Que não sejam constituídas por todos os documentos exigidos nos termos do disposto nos n.<sup>os</sup>1 e 2 do artigo 57.º e no n.º 1 do artigo 57.º-A;
+d) Que não sejam constituídas por todos os documentos exigidos nos termos do disposto nos n.os1 e 2 do artigo 57.º e no n.º 1 do artigo 57.º-A;
 
-e) Que não cumpram o disposto nos n.<sup>os</sup>4 e 5 do artigo 57.º ou nos n.<sup>os</sup>1 e 2 do artigo 58.º;
+e) Que não cumpram o disposto nos n.os4 e 5 do artigo 57.º ou nos n.os1 e 2 do artigo 58.º;
 
 f) Que sejam apresentadas como variantes quando estas não sejam admitidas pelo programa do concurso, ou em número superior ao número máximo por ele admitido;
 
@@ -4869,7 +5360,7 @@ n) Que não sejam constituídas pelos documentos comprovativos do preenchimento 
 
 a) Que desrespeitam manifestamente o objeto do contrato a celebrar, ou que não apresentam algum dos atributos ou algum dos termos ou condições, nos termos, respetivamente, do disposto nas alíneas b) e c) do n.º 1 do artigo 57.º;
 
-b) Que apresentam algum dos atributos que violem os parâmetros base fixados no caderno de encargos ou que apresentem quaisquer termos ou condições que violem aspetos da execução do contrato a celebrar por aquele não submetidos à concorrência, sem prejuízo do disposto nos n.<sup>os</sup>10 a 12 do artigo 49.º;
+b) Que apresentam algum dos atributos que violem os parâmetros base fixados no caderno de encargos ou que apresentem quaisquer termos ou condições que violem aspetos da execução do contrato a celebrar por aquele não submetidos à concorrência, sem prejuízo do disposto nos n.os10 a 12 do artigo 49.º;
 
 c) A impossibilidade de avaliação das mesmas em virtude da forma de apresentação de algum dos respetivos atributos;
 
@@ -4933,7 +5424,7 @@ c) A falta ou insuficiência da assinatura, incluindo a assinatura eletrónica, 
 
 4 - O júri procede à retificação oficiosa de erros de escrita ou de cálculo contidos nas candidaturas ou propostas, desde que seja evidente para qualquer destinatário a existência do erro e os termos em que o mesmo deve ser corrigido.
 
-5 - Os pedidos do júri formulados nos termos dos n.<sup>os</sup>1 e 3, bem como as respetivas respostas, devem ser disponibilizados em plataforma eletrónica utilizada pela entidade adjudicante, devendo todos os candidatos e concorrentes ser imediatamente notificados desse facto.
+5 - Os pedidos do júri formulados nos termos dos n.os1 e 3, bem como as respetivas respostas, devem ser disponibilizados em plataforma eletrónica utilizada pela entidade adjudicante, devendo todos os candidatos e concorrentes ser imediatamente notificados desse facto.
 
 ###### Artigo 73.º — Noção de adjudicação
 
@@ -5193,13 +5684,13 @@ c) Não proceder ao suprimento de irregularidades nos termos do disposto no n.º
 
 ###### Artigo 87.º — Falsidade de documentos e declarações
 
-Sem prejuízo da participação à entidade competente para efeitos de procedimento criminal, a falsificação de qualquer documento de habilitação ou a prestação culposa de falsas declarações determina a caducidade da adjudicação, sendo aplicável o disposto nos n.<sup>os</sup>3 e 4 do artigo anterior.
+Sem prejuízo da participação à entidade competente para efeitos de procedimento criminal, a falsificação de qualquer documento de habilitação ou a prestação culposa de falsas declarações determina a caducidade da adjudicação, sendo aplicável o disposto nos n.os3 e 4 do artigo anterior.
 
 ###### Artigo 87.º-A — Outras causas de caducidade da adjudicação
 
-1 - Sem prejuízo de outras causas de caducidade previstas no presente Código ou resultantes de outra legislação aplicável, determina ainda a caducidade da adjudicação a ocorrência superveniente de circunstâncias que inviabilizem a celebração do contrato, designadamente por impossibilidade natural ou jurídica, extinção da entidade adjudicante ou do adjudicatário ou como efeito da verificação de que o adjudicatário se encontra em alguma das situações previstas no artigo 55.º, no n.º 6 do artigo 113.º ou nos n.<sup>os</sup>2 e 3 do artigo 114.º
+1 - Sem prejuízo de outras causas de caducidade previstas no presente Código ou resultantes de outra legislação aplicável, determina ainda a caducidade da adjudicação a ocorrência superveniente de circunstâncias que inviabilizem a celebração do contrato, designadamente por impossibilidade natural ou jurídica, extinção da entidade adjudicante ou do adjudicatário ou como efeito da verificação de que o adjudicatário se encontra em alguma das situações previstas no artigo 55.º, no n.º 6 do artigo 113.º ou nos n.os2 e 3 do artigo 114.º
 
-2 - A caducidade da adjudicação com fundamento no facto de o adjudicatário se encontrar em alguma das situações previstas no artigo 55.º, no n.º 6 do artigo 113.º ou nos n.<sup>os</sup>2 e 3 do artigo 114.º não deve ser declarada antes de o órgão competente para a decisão de contratar notificar o adjudicatário, fixando-lhe um prazo, não superior a cinco dias, para que se pronuncie, por escrito, ao abrigo do direito de audiência prévia, podendo aplicar-se, se for o caso, o regime da relevação de impedimentos previsto no artigo 55.º-A.
+2 - A caducidade da adjudicação com fundamento no facto de o adjudicatário se encontrar em alguma das situações previstas no artigo 55.º, no n.º 6 do artigo 113.º ou nos n.os2 e 3 do artigo 114.º não deve ser declarada antes de o órgão competente para a decisão de contratar notificar o adjudicatário, fixando-lhe um prazo, não superior a cinco dias, para que se pronuncie, por escrito, ao abrigo do direito de audiência prévia, podendo aplicar-se, se for o caso, o regime da relevação de impedimentos previsto no artigo 55.º-A.
 
 3 - Quando as causas de caducidade da adjudicação referidas no n.º 1 respeitem ao adjudicatário, a entidade adjudicante deve adjudicar a proposta ordenada em lugar subsequente.
 
@@ -5233,9 +5724,9 @@ c) Quando se trate dos contratos previstos na alínea c) do n.º 1 do artigo 95.
 
 4 - Quando o contrato previr prorrogações, o valor da caução tem por referência o preço do seu período de vigência inicial e cada prorrogação deve ser condicionada à prestação de nova caução, que terá por referência o preço de cada um dos respetivos períodos de vigência.
 
-5 - No caso de contratos de execução duradoura superior a cinco anos, o valor de referência para a aplicação das percentagens referidas nos n.<sup>os</sup>1 e 2 limita-se ao primeiro terço da duração do contrato.
+5 - No caso de contratos de execução duradoura superior a cinco anos, o valor de referência para a aplicação das percentagens referidas nos n.os1 e 2 limita-se ao primeiro terço da duração do contrato.
 
-6 - Na falta de fixação, o valor da caução previsto nos n.<sup>os</sup>1 e 2 é de 5 % ou de 10 % do preço contratual, respetivamente.
+6 - Na falta de fixação, o valor da caução previsto nos n.os1 e 2 é de 5 % ou de 10 % do preço contratual, respetivamente.
 
 ###### Artigo 90.º — Modo de prestação da caução
 
@@ -5395,7 +5886,7 @@ c) Prémios por antecipação do cumprimento das prestações objeto do contrato
 
 2 - [Revogado.]
 
-3 - A aprovação da minuta do contrato a celebrar tem por objetivo verificar se o seu conteúdo está conforme à decisão de contratar e a todos os documentos que o integram nos termos do disposto nos n.<sup>os</sup>2 e 5 do artigo 96.º, sem prejuízo de serem propostos ajustamentos nos termos do disposto no artigo seguinte.
+3 - A aprovação da minuta do contrato a celebrar tem por objetivo verificar se o seu conteúdo está conforme à decisão de contratar e a todos os documentos que o integram nos termos do disposto nos n.os2 e 5 do artigo 96.º, sem prejuízo de serem propostos ajustamentos nos termos do disposto no artigo seguinte.
 
 4 - [Revogado.]
 
@@ -5423,7 +5914,7 @@ A minuta do contrato a celebrar e os ajustamentos propostos consideram-se aceite
 
 ###### Artigo 102.º — Reclamação da minuta do contrato
 
-1 - As reclamações da minuta do contrato a celebrar só podem ter por fundamento a previsão de obrigações que contrariem ou que não constem dos documentos que integram o contrato nos termos do disposto nos n.<sup>os</sup>2 e 5 do artigo 96.º ou ainda a recusa dos ajustamentos propostos.
+1 - As reclamações da minuta do contrato a celebrar só podem ter por fundamento a previsão de obrigações que contrariem ou que não constem dos documentos que integram o contrato nos termos do disposto nos n.os2 e 5 do artigo 96.º ou ainda a recusa dos ajustamentos propostos.
 
 2 - No prazo de 10 dias a contar da receção da reclamação, o órgão que aprovou a minuta do contrato notifica o adjudicatário da sua decisão, equivalendo o silêncio à rejeição da reclamação.
 
@@ -5575,7 +6066,7 @@ b) A entidade adjudicante demonstre fundamentadamente que, nesse território, a 
 
 5 - Não podem igualmente ser convidadas a apresentar propostas entidades que tenham executado obras, fornecido bens móveis ou prestado serviços à entidade adjudicante, a título gratuito, no ano económico em curso ou nos dois anos económicos anteriores, exceto se o tiverem feito ao abrigo do Estatuto do Mecenato.
 
-6 - Não podem também ser convidadas a apresentar propostas entidades criadas ou utilizadas com o propósito ou com o resultado de se defraudar o disposto nos n.<sup>os</sup>2 e 5.
+6 - Não podem também ser convidadas a apresentar propostas entidades criadas ou utilizadas com o propósito ou com o resultado de se defraudar o disposto nos n.os2 e 5.
 
 #### SECÇÃO II — REGIME GERAL
 
@@ -5607,7 +6098,7 @@ c) O fundamento da escolha do procedimento de consulta prévia ou de ajuste dire
 
 d) O valor estimado do contrato ou, se for o caso, o preço base;
 
-e) Os documentos referidos nos n.<sup>os</sup>1 e 2 do artigo 57.º e, se for o caso, no artigo 57.º-A;
+e) Os documentos referidos nos n.os1 e 2 do artigo 57.º e, se for o caso, no artigo 57.º-A;
 
 f) Os documentos que constituem a proposta que podem ser redigidos em língua estrangeira, nos termos do disposto no n.º 2 do artigo 58.º;
 
@@ -5693,7 +6184,7 @@ Os concorrentes devem fazer-se representar nas sessões de negociação pelos se
 
 1 - Após a análise das versões iniciais e finais das propostas e a aplicação do critério de adjudicação, o júri elabora um relatório preliminar fundamentado no prazo de três dias, no qual deve propor a ordenação das mesmas, salvo no caso previsto no n.º 4 do artigo 67.º
 
-2 - No relatório preliminar a que se refere o número anterior, o júri deve também propor, fundamentadamente, a exclusão das propostas por qualquer dos motivos previstos nos n.<sup>os</sup>2 e 3 do artigo 70.º, aplicáveis com as necessárias adaptações, bem como das que sejam apresentadas em violação do disposto na parte final do n.º 1 do artigo anterior.
+2 - No relatório preliminar a que se refere o número anterior, o júri deve também propor, fundamentadamente, a exclusão das propostas por qualquer dos motivos previstos nos n.os2 e 3 do artigo 70.º, aplicáveis com as necessárias adaptações, bem como das que sejam apresentadas em violação do disposto na parte final do n.º 1 do artigo anterior.
 
 3 - Do relatório preliminar deve ainda constar referência aos esclarecimentos prestados pelos concorrentes nos termos do disposto no artigo 72.º
 
@@ -5705,7 +6196,7 @@ Os concorrentes devem fazer-se representar nas sessões de negociação pelos se
 
 ###### Artigo 124.º — Relatório final
 
-1 - Cumprido o disposto no artigo anterior, o júri elabora um relatório final fundamentado, no qual pondera as observações dos concorrentes efetuadas ao abrigo do direito de audiência prévia, mantendo ou modificando o teor e as conclusões do relatório preliminar, podendo ainda propor a exclusão de propostas se verificar, nesta fase, a ocorrência de qualquer dos motivos previstos nos n.<sup>os</sup>2 e 3 do artigo 70.º
+1 - Cumprido o disposto no artigo anterior, o júri elabora um relatório final fundamentado, no qual pondera as observações dos concorrentes efetuadas ao abrigo do direito de audiência prévia, mantendo ou modificando o teor e as conclusões do relatório preliminar, podendo ainda propor a exclusão de propostas se verificar, nesta fase, a ocorrência de qualquer dos motivos previstos nos n.os2 e 3 do artigo 70.º
 
 2 - No caso previsto na parte final do número anterior, bem como quando do relatório final resulte uma alteração da ordenação das propostas constante do relatório preliminar, o júri procede a nova audiência prévia, nos termos previstos no artigo anterior, restrita aos concorrentes interessados, sendo subsequentemente aplicável o disposto no número anterior.
 
@@ -5739,11 +6230,11 @@ Os concorrentes devem fazer-se representar nas sessões de negociação pelos se
 
 2 - A consulta prévia especial rege-se, com as necessárias adaptações, pelas disposições que regulam a consulta prévia de regime geral, em tudo o que não esteja especialmente previsto na presente secção.
 
-3 - À consulta prévia especial é aplicável o disposto nos n.<sup>os</sup>2 a 6 do artigo 161.º-B.
+3 - À consulta prévia especial é aplicável o disposto nos n.os2 a 6 do artigo 161.º-B.
 
 ###### Artigo 127.º-B — Âmbito e condicionalismos de adoção da consulta prévia especial
 
-O procedimento de consulta prévia especial pode ser adotado para a formação de contratos, quando o valor estimado do contrato for, simultaneamente, inferior aos limiares referidos nos n.<sup>os</sup>2, 3 ou 4 do artigo 474.º, consoante o caso, e inferior a 2 000 000 €, que tenham por objeto:
+O procedimento de consulta prévia especial pode ser adotado para a formação de contratos, quando o valor estimado do contrato for, simultaneamente, inferior aos limiares referidos nos n.os2, 3 ou 4 do artigo 474.º, consoante o caso, e inferior a 2 000 000 €, que tenham por objeto:
 
 a) A execução de projetos financiados ou cofinanciados por fundos europeus;
 
@@ -5759,7 +6250,7 @@ f) A promoção de intervenções que, por despacho do membro do Governo respons
 
 ###### Artigo 127.º-C — Escolha das entidades convidadas
 
-1 - Além das referidas nos n.<sup>os</sup>5 e 6 do artigo 113.º, também não podem ser convidadas a apresentar propostas em procedimentos de consulta prévia especial entidades às quais a entidade adjudicante já tenha adjudicado, no ano económico em curso e nos dois anos económicos anteriores, na sequência de consulta prévia especial, propostas para a celebração de contratos cujo objeto seja constituído por prestações do mesmo tipo das do contrato a celebrar e cujo preço contratual acumulado seja:
+1 - Além das referidas nos n.os5 e 6 do artigo 113.º, também não podem ser convidadas a apresentar propostas em procedimentos de consulta prévia especial entidades às quais a entidade adjudicante já tenha adjudicado, no ano económico em curso e nos dois anos económicos anteriores, na sequência de consulta prévia especial, propostas para a celebração de contratos cujo objeto seja constituído por prestações do mesmo tipo das do contrato a celebrar e cujo preço contratual acumulado seja:
 
 a) Igual ou superior a 2 000 000 €, no caso de empreitadas e concessões de obras públicas ou de concessões de serviços;
 
@@ -5799,7 +6290,7 @@ b) 100 000 € na formação de contratos de locação ou aquisição de bens m�
 
 3 - Com fundamento no presente artigo, o ajuste direto pode ser adotado apenas pelo período de um ano após o termo da vigência da declaração de estado de sítio, de estado de emergência ou de situação de calamidade.
 
-4 - Aos procedimentos de formação de contratos previstos no n.º 1 não se aplica o disposto nos n.<sup>os</sup>2 a 4 e 6 do artigo 113.º
+4 - Aos procedimentos de formação de contratos previstos no n.º 1 não se aplica o disposto nos n.os2 a 4 e 6 do artigo 113.º
 
 5 - Os contratos cujo preço contratual seja igual ou superior ao previsto no n.º 1 do artigo 128.º devem ser publicitados no portal dos contratos públicos, mediante formulário eletrónico no qual se identifique:
 
@@ -5865,7 +6356,7 @@ g) Os documentos de habilitação, diretamente relacionados com o objeto do cont
 
 h) O prazo para a apresentação dos documentos de habilitação pelo adjudicatário;
 
-i) Os documentos referidos nos n.<sup>os</sup>1 e 2 do artigo 57.º e, se for o caso, no artigo 57.º-A;
+i) Os documentos referidos nos n.os1 e 2 do artigo 57.º e, se for o caso, no artigo 57.º-A;
 
 j) Os documentos que constituem a proposta que podem ser redigidos em língua estrangeira, nos termos do disposto no n.º 2 do artigo 58.º;
 
@@ -5875,7 +6366,7 @@ l) O prazo para a apresentação das propostas;
 
 m) O prazo da obrigação de manutenção das propostas, quando superior ao previsto no artigo 65.º;
 
-n) A modalidade do critério de adjudicação, bem como, se necessário, o modelo ou a grelha de avaliação das propostas, nos termos dos n.<sup>os</sup>2 e 3 do artigo 74.º, respetivamente;
+n) A modalidade do critério de adjudicação, bem como, se necessário, o modelo ou a grelha de avaliação das propostas, nos termos dos n.os2 e 3 do artigo 74.º, respetivamente;
 
 o) O modo de prestação da caução ou os termos em que não seja exigida essa prestação de acordo com o disposto no n.º 4 do artigo 88.º;
 
@@ -5941,7 +6432,7 @@ b) O anúncio de pré-informação tenha incluído todas as informações, dispo
 
 4 - [Revogado.]
 
-5 - Na situação prevista no n.º 2 do artigo 133.º, os prazos mínimos referidos nos n.<sup>os</sup>1 e 2 do presente artigo são prorrogados por cinco dias.
+5 - Na situação prevista no n.º 2 do artigo 133.º, os prazos mínimos referidos nos n.os1 e 2 do presente artigo são prorrogados por cinco dias.
 
 ###### Artigo 137.º — Retirada da proposta
 
@@ -5957,7 +6448,7 @@ b) O anúncio de pré-informação tenha incluído todas as informações, dispo
 
 3 - O interessado que não tenha sido incluído na lista dos concorrentes pode reclamar desse facto, no prazo de três dias contados da publicitação da lista, devendo para o efeito apresentar comprovativo da tempestiva apresentação da sua proposta.
 
-4 - Caso a reclamação prevista no número anterior seja deferida mas não se encontre a proposta do reclamante, o júri fixa-lhe um novo prazo para a apresentar, sendo aplicável, com as necessárias adaptações, o disposto nos n.<sup>os</sup>1 e 2.
+4 - Caso a reclamação prevista no número anterior seja deferida mas não se encontre a proposta do reclamante, o júri fixa-lhe um novo prazo para a apresentar, sendo aplicável, com as necessárias adaptações, o disposto nos n.os1 e 2.
 
 #### SECÇÃO III — AVALIAÇÃO DAS PROPOSTAS
 
@@ -6061,7 +6552,7 @@ Elaborado o relatório preliminar, o júri envia-o a todos os concorrentes, fixa
 
 ###### Artigo 148.º — Relatório final
 
-1 - Cumprido o disposto no artigo anterior, o júri elabora um relatório final fundamentado, no qual pondera as observações dos concorrentes efetuadas ao abrigo do direito de audiência prévia, mantendo ou modificando o teor e as conclusões do relatório preliminar, podendo ainda propor a exclusão de qualquer proposta se verificar, nesta fase, a ocorrência de qualquer dos motivos previstos nos n.<sup>os</sup>2 e 3 do artigo 70.º
+1 - Cumprido o disposto no artigo anterior, o júri elabora um relatório final fundamentado, no qual pondera as observações dos concorrentes efetuadas ao abrigo do direito de audiência prévia, mantendo ou modificando o teor e as conclusões do relatório preliminar, podendo ainda propor a exclusão de qualquer proposta se verificar, nesta fase, a ocorrência de qualquer dos motivos previstos nos n.os2 e 3 do artigo 70.º
 
 2 - No caso previsto na parte final do número anterior, bem como quando do relatório final resulte uma alteração da ordenação das propostas constante do relatório preliminar, o júri procede a nova audiência prévia, nos termos previstos no artigo anterior, sendo subsequentemente aplicável o disposto no número anterior.
 
@@ -6101,13 +6592,13 @@ c) Se a negociação decorrerá, parcial ou totalmente, por via eletrónica e os
 
 ###### Artigo 152.º — Segundo relatório preliminar
 
-1 - Após a análise das versões finais das propostas e a aplicação do critério de adjudicação, o júri elabora fundamentadamente um segundo relatório preliminar, no qual deve propor a ordenação das mesmas, podendo ainda propor a exclusão de qualquer proposta se verificar, nesta fase, a ocorrência de qualquer dos motivos previstos nos n.<sup>os</sup>2 e 3 do artigo 70.º
+1 - Após a análise das versões finais das propostas e a aplicação do critério de adjudicação, o júri elabora fundamentadamente um segundo relatório preliminar, no qual deve propor a ordenação das mesmas, podendo ainda propor a exclusão de qualquer proposta se verificar, nesta fase, a ocorrência de qualquer dos motivos previstos nos n.os2 e 3 do artigo 70.º
 
 2 - O júri deve também propor a exclusão das versões finais das propostas que sejam apresentadas em violação do disposto na parte final do n.º 1 do artigo 121.º
 
 3 - Quando seja adotada uma fase de negociação restringida aos concorrentes cujas propostas sejam ordenadas nos primeiros lugares, o júri deve ainda propor a exclusão das versões finais cuja pontuação global seja inferior à das respetivas versões iniciais.
 
-4 - No caso previsto no número anterior, bem como no caso de o júri propor a exclusão das versões finais das propostas por ocorrer qualquer dos motivos previstos nos n.<sup>os</sup>2 e 3 do artigo 70.º, ou ainda no caso de não serem apresentadas versões finais das propostas, as respetivas versões iniciais mantêm-se para efeitos de adjudicação.
+4 - No caso previsto no número anterior, bem como no caso de o júri propor a exclusão das versões finais das propostas por ocorrer qualquer dos motivos previstos nos n.os2 e 3 do artigo 70.º, ou ainda no caso de não serem apresentadas versões finais das propostas, as respetivas versões iniciais mantêm-se para efeitos de adjudicação.
 
 ###### Artigo 153.º — Audiência prévia
 
@@ -6149,7 +6640,7 @@ O prazo da obrigação de manutenção das propostas é de 10 dias, não havendo
 
 ###### Artigo 160.º — Adjudicação
 
-1 - Da decisão de adjudicação devem constar os motivos da exclusão de propostas previstos nos n.<sup>os</sup>2 e 3 do artigo 70.º
+1 - Da decisão de adjudicação devem constar os motivos da exclusão de propostas previstos nos n.os2 e 3 do artigo 70.º
 
 2 - [Revogado.]
 
@@ -6275,7 +6766,7 @@ p) O prazo para a decisão de qualificação, quando superior ao previsto no art
 
 q) Se há lugar a um leilão eletrónico e, em caso afirmativo, estabelecer as indicações previstas no artigo 141.º;
 
-r) A modalidade do critério de adjudicação, bem como, se necessário, o modelo ou a grelha de avaliação das propostas, nos termos dos n.<sup>os</sup>2 e 3 do artigo 74.º, respetivamente;
+r) A modalidade do critério de adjudicação, bem como, se necessário, o modelo ou a grelha de avaliação das propostas, nos termos dos n.os2 e 3 do artigo 74.º, respetivamente;
 
 s) A possibilidade de adoção de um ajuste direto nos termos do disposto na alínea a) do n.º 1 do artigo 25.º ou na alínea a) do n.º 1 do artigo 27.º, quando for o caso;
 
@@ -6431,7 +6922,7 @@ Quando o anúncio do concurso limitado por prévia qualificação não seja publ
 
 3 - Quando o contrato a celebrar diga direta e principalmente respeito a uma ou a várias das atividades exercidas nos setores da água, da energia, dos transportes e dos serviços postais pelas entidades adjudicantes referidas no n.º 1 do artigo 7.º, o prazo mínimo para a apresentação das candidaturas é, em regra, de 30 dias a contar da data do envio do anúncio para publicação, não podendo em caso algum ser inferior a 15 dias desde aquele envio.
 
-4 - Se as peças procedimentais não puderem, total ou parcialmente, ser disponibilizadas sem restrições de acesso, designadamente por motivos de segurança, devem ser disponibilizadas por meios adequados, sendo, nesse caso, os prazos mínimos previstos nos n.<sup>os</sup>1 e 3 do presente artigo prorrogados por cinco dias.
+4 - Se as peças procedimentais não puderem, total ou parcialmente, ser disponibilizadas sem restrições de acesso, designadamente por motivos de segurança, devem ser disponibilizadas por meios adequados, sendo, nesse caso, os prazos mínimos previstos nos n.os1 e 3 do presente artigo prorrogados por cinco dias.
 
 ###### Artigo 175.º — Prorrogação do prazo fixado para a apresentação das candidaturas
 
@@ -6441,7 +6932,7 @@ Quando o anúncio do concurso limitado por prévia qualificação não seja publ
 
 3 - A pedido fundamentado de qualquer interessado que tenha adquirido as peças do concurso, o prazo fixado para a apresentação das candidaturas pode ser prorrogado pelo período considerado adequado, o qual aproveita a todos os interessados.
 
-4 - As decisões de prorrogação nos termos do disposto nos números anteriores cabem ao órgão competente para a decisão de contratar e devem ser juntas às peças do concurso e notificadas a todos os interessados que as tenham adquirido, publicando-se imediatamente aviso daquelas decisões, nos termos do disposto nos n.<sup>os</sup>1 a 3 do artigo 131.º e no n.º 1 do artigo 167.º
+4 - As decisões de prorrogação nos termos do disposto nos números anteriores cabem ao órgão competente para a decisão de contratar e devem ser juntas às peças do concurso e notificadas a todos os interessados que as tenham adquirido, publicando-se imediatamente aviso daquelas decisões, nos termos do disposto nos n.os1 a 3 do artigo 131.º e no n.º 1 do artigo 167.º
 
 ###### Artigo 176.º — Retirada da candidatura
 
@@ -6461,7 +6952,7 @@ Quando o anúncio do concurso limitado por prévia qualificação não seja publ
 
 3 - O interessado que não tenha sido incluído na lista dos candidatos pode reclamar desse facto, no prazo de três dias contados da publicitação da lista, devendo para o efeito apresentar comprovativo da tempestiva apresentação da sua candidatura.
 
-4 - Caso a reclamação prevista no número anterior seja deferida mas não se encontre a candidatura do reclamante, o júri fixa-lhe um novo prazo para a apresentar, sendo aplicável, com as necessárias adaptações, o disposto nos n.<sup>os</sup>1 e 2.
+4 - Caso a reclamação prevista no número anterior seja deferida mas não se encontre a candidatura do reclamante, o júri fixa-lhe um novo prazo para a apresentar, sendo aplicável, com as necessárias adaptações, o disposto nos n.os1 e 2.
 
 ###### Artigo 178.º — Análise das candidaturas
 
@@ -6531,7 +7022,7 @@ d) Que sejam apresentadas por candidatos que não preencham os requisitos referi
 
 e) Que não sejam constituídas por todos os documentos exigidos pelo programa do concurso, salvo por aqueles que se refiram ao requisito de capacidade financeira e tenha sido apresentado o Documento Europeu Único de Contratação Pública ou um dos documentos previstos no n.º 3 do artigo 179.º;
 
-f) Que não cumpram o disposto nos n.<sup>os</sup>2 e 3 do artigo 168.º;
+f) Que não cumpram o disposto nos n.os2 e 3 do artigo 168.º;
 
 g) Que sejam constituídas por documentos destinados à qualificação não redigidos em língua portuguesa ou, nos casos previstos no n.º 2 do artigo 169.º, não acompanhados de tradução devidamente legalizada;
 
@@ -6605,7 +7096,7 @@ b) Não demonstre o cumprimento dos requisitos mínimos de capacidade técnica e
 
 c) Não apresente a confirmação dos compromissos assumidos por terceiras entidades.
 
-4 - Sempre que se verifique um facto que determine a caducidade da qualificação nos termos do número anterior, o órgão competente para a decisão de contratar deve notificar o candidato relativamente ao qual o facto ocorreu, fixando-lhe um prazo, não superior a cinco dias, para que se pronuncie, por escrito, ao abrigo do direito de audiência prévia, sendo aplicável, com as necessárias adaptações, o disposto nos n.<sup>os</sup>1, 4 e 6 do artigo 86.º
+4 - Sempre que se verifique um facto que determine a caducidade da qualificação nos termos do número anterior, o órgão competente para a decisão de contratar deve notificar o candidato relativamente ao qual o facto ocorreu, fixando-lhe um prazo, não superior a cinco dias, para que se pronuncie, por escrito, ao abrigo do direito de audiência prévia, sendo aplicável, com as necessárias adaptações, o disposto nos n.os1, 4 e 6 do artigo 86.º
 
 5 - Os candidatos qualificados passam à fase seguinte em condições de igualdade.
 
@@ -6619,7 +7110,7 @@ c) Não apresente a confirmação dos compromissos assumidos por terceiras entid
 
 a) A identificação do concurso;
 
-b) A referência ao anúncio do concurso previsto no n.º 1 do artigo 167.º e, quando for o caso, ao previsto nos n.<sup>os</sup>1 a 3 do artigo 131.º;
+b) A referência ao anúncio do concurso previsto no n.º 1 do artigo 167.º e, quando for o caso, ao previsto nos n.os1 a 3 do artigo 131.º;
 
 c) Os documentos referidos na alínea c) do n.º 1 do artigo 57.º, se for o caso;
 
@@ -6665,7 +7156,7 @@ b) O anúncio de pré-informação tenha incluído todas as informações, dispo
 
 3 - Quando o contrato a celebrar diga direta e principalmente respeito a uma ou a várias das atividades exercidas nos setores da água, da energia, dos transportes e dos serviços postais pelas entidades adjudicantes referidas no n.º 1 do artigo 7.º, o prazo mínimo para a apresentação das propostas previsto no n.º 1 é de 10 dias a contar da data do envio do convite.
 
-4 - Aos prazos mínimos para a apresentação das propostas previstos nos n.<sup>os</sup>1 a 3 não é aplicável a redução prevista no n.º 3 do artigo 136.º
+4 - Aos prazos mínimos para a apresentação das propostas previstos nos n.os1 a 3 não é aplicável a redução prevista no n.º 3 do artigo 136.º
 
 5 - O prazo mínimo previsto no n.º 1 pode ser reduzido para 10 dias nos casos em que uma situação de urgência devidamente fundamentada pela entidade adjudicante inviabilize o cumprimento do prazo mínimo de 25 dias.
 
@@ -6677,7 +7168,7 @@ b) O anúncio de pré-informação tenha incluído todas as informações, dispo
 
 3 - Se, no prazo de dois dias a contar da receção do convite, nenhum dos candidatos qualificados manifestar discordância sobre o prazo fixado para a apresentação das propostas fixado nos termos do disposto nos números anteriores, considera-se o mesmo aceite para todos os efeitos.
 
-4 - Se, no prazo referido no número anterior, algum dos candidatos qualificados manifestar, por qualquer meio escrito, discordância sobre o prazo fixado nos termos do disposto nos n.<sup>os</sup>1 e 2, a entidade adjudicante deve notificar imediatamente todos os candidatos qualificados de que o prazo fixado para a apresentação das propostas passa a ser de 19 dias a contar da data do envio do convite.
+4 - Se, no prazo referido no número anterior, algum dos candidatos qualificados manifestar, por qualquer meio escrito, discordância sobre o prazo fixado nos termos do disposto nos n.os1 e 2, a entidade adjudicante deve notificar imediatamente todos os candidatos qualificados de que o prazo fixado para a apresentação das propostas passa a ser de 19 dias a contar da data do envio do convite.
 
 5 - No caso previsto no n.º 3, ao prazo fixado para a apresentação das propostas não é aplicável o disposto no artigo 64.º
 
@@ -6807,9 +7298,9 @@ c) Apresentação e análise das propostas e adjudicação.
 
 1 - O procedimento do diálogo concorrencial é publicitado no Diário da República através de anúncio conforme modelo aprovado por portaria dos membros do Governo responsáveis pela edição do Diário da República e pelas áreas das finanças e das obras públicas.
 
-2 - No caso de contratos de empreitada ou de concessão de obras públicas, de concessão de serviços, de contratos de locação ou de aquisição de bens móveis ou de contratos de aquisição de serviços, deve ainda ser publicado anúncio do diálogo concorrencial nos termos do disposto nos n.<sup>os</sup>1 e 2 ou no n.º 2 do artigo 131.º
+2 - No caso de contratos de empreitada ou de concessão de obras públicas, de concessão de serviços, de contratos de locação ou de aquisição de bens móveis ou de contratos de aquisição de serviços, deve ainda ser publicado anúncio do diálogo concorrencial nos termos do disposto nos n.os1 e 2 ou no n.º 2 do artigo 131.º
 
-3 - Ao anúncio referido no número anterior é aplicável, com as necessárias adaptações, o disposto nos n.<sup>os</sup>5 a 7 do artigo 131.º
+3 - Ao anúncio referido no número anterior é aplicável, com as necessárias adaptações, o disposto nos n.os5 a 7 do artigo 131.º
 
 #### SECÇÃO III — FASE DA APRESENTAÇÃO DAS SOLUÇÕES E DE DIÁLOGO COM OS CANDIDATOS QUALIFICADOS
 
@@ -6873,7 +7364,7 @@ O júri do procedimento estabelece com os candidatos qualificados cujas soluçõ
 
 3 - As soluções apresentadas ou outras informações que, no todo ou em parte, tenham sido transmitidas com caráter de confidencialidade pelos candidatos durante as sessões da fase de diálogo, só com o consentimento expresso e por escrito dos mesmos é que podem ser divulgadas aos outros candidatos ou a terceiros.
 
-4 - Às sessões da fase de diálogo é aplicável, com as necessárias adaptações, o disposto nos n.<sup>os</sup>3 e 5 do artigo 120.º
+4 - Às sessões da fase de diálogo é aplicável, com as necessárias adaptações, o disposto nos n.os3 e 5 do artigo 120.º
 
 5 - O diálogo com os candidatos prossegue até o júri:
 
@@ -6901,7 +7392,7 @@ O órgão competente para a decisão de contratar notifica todos os candidatos q
 
 1 - Caso tenha sido identificada uma solução suscetível de satisfazer as necessidades e as exigências da entidade adjudicante, o órgão competente para a decisão de contratar envia a todos os candidatos qualificados cujas soluções tenham sido admitidas, simultaneamente com a notificação referida no artigo anterior, um convite à apresentação de propostas.
 
-2 - Para além dos elementos previstos nos n.<sup>os</sup>2 e 4 do artigo 189.º, o convite à apresentação das propostas deve ainda indicar o modelo de avaliação das mesmas.
+2 - Para além dos elementos previstos nos n.os2 e 4 do artigo 189.º, o convite à apresentação das propostas deve ainda indicar o modelo de avaliação das mesmas.
 
 3 - O convite à apresentação das propostas deve ser acompanhado do caderno de encargos ou da indicação do endereço do sítio da Internet onde este é disponibilizado.
 
@@ -7119,7 +7610,7 @@ O concurso de conceção simplificado segue as formalidades determinadas nos res
 
 4 - A participação no concurso de ideias deve ser feita de forma anónima.
 
-5 - O anúncio do procedimento prevê a atribuição de um prémio razoável, o qual não pode exceder os limiares estabelecidos nos n.<sup>os</sup>2 e 3 do artigo 474.º, à pessoa ou pessoas que desenvolverem as ideias consideradas mais adequadas ao fim público a prosseguir.
+5 - O anúncio do procedimento prevê a atribuição de um prémio razoável, o qual não pode exceder os limiares estabelecidos nos n.os2 e 3 do artigo 474.º, à pessoa ou pessoas que desenvolverem as ideias consideradas mais adequadas ao fim público a prosseguir.
 
 6 - A ideia ou ideias escolhidas implicam a transferência dos respetivos direitos de propriedade intelectual para a entidade adjudicante, após aceitação pelo concorrente e pagamento do respetivo prémio.
 
@@ -7309,9 +7800,9 @@ A entidade adjudicante pode, durante a vigência do sistema de aquisição dinâ
 
 4 - Deve ainda ser publicado no Jornal Oficial da União Europeia um anúncio do sistema de qualificação, formulário-tipo «Concurso» constante do [Regulamento de Execução (UE) 2019/1780](https://data.europa.eu/eli/reg/2019/1780/oj?locale=pt) da Comissão de 23 de setembro de 2019.
 
-5 - Quando o sistema de qualificação tiver uma duração superior a três anos, os anúncios previstos nos n.<sup>os</sup>2 e 4 devem ser republicados anualmente.
+5 - Quando o sistema de qualificação tiver uma duração superior a três anos, os anúncios previstos nos n.os2 e 4 devem ser republicados anualmente.
 
-6 - Aos anúncios previstos nos números anteriores é aplicável, com as necessárias adaptações, o disposto nos n.<sup>os</sup>5 a 7 do artigo 131.º
+6 - Aos anúncios previstos nos números anteriores é aplicável, com as necessárias adaptações, o disposto nos n.os5 a 7 do artigo 131.º
 
 ###### Artigo 246.º — Regras dos sistemas de qualificação
 
@@ -7565,7 +8056,7 @@ b) Aos aspetos da execução do contrato a celebrar submetidos à concorrência 
 
 ###### Artigo 260.º — Centrais de compras
 
-1 - As entidades adjudicantes referidas nos n.<sup>os</sup>1 e 2 do artigo 2.º podem constituir centrais de compras para centralizar a contratação de empreitadas de obras públicas, de locação e de aquisição de bens móveis e de aquisição de serviços.
+1 - As entidades adjudicantes referidas nos n.os1 e 2 do artigo 2.º podem constituir centrais de compras para centralizar a contratação de empreitadas de obras públicas, de locação e de aquisição de bens móveis e de aquisição de serviços.
 
 2 - As entidades adjudicantes referidas no número anterior podem ainda constituir centrais de compras exclusivamente destinadas a um determinado setor de atividade.
 
@@ -7755,7 +8246,7 @@ b) Contratos de serviços subsidiados diretamente em mais de 50 % do respetivo p
 
 [Revogado.]
 
-# PARTE III — REGIME SUBSTANTIVO DOS CONTRATOS ADMINISTRATIVOS
+## PARTE III — REGIME SUBSTANTIVO DOS CONTRATOS ADMINISTRATIVOS
 
 ## TÍTULO I — REGIME SUBSTANTIVO DOS CONTRATOS ADMINISTRATIVOS
 
@@ -7997,7 +8488,7 @@ e) No final do quinto ano, os 10 % restantes.
 
 7 - Nos contratos sujeitos, nos termos do disposto no n.º 2 do artigo 397.º, a diferentes prazos de garantia e, consequentemente, a receções provisórias e definitivas parciais, a liberação parcial da caução, nos termos do disposto nos números anteriores, é promovida na proporção do valor respeitante a cada um dos conjuntos de elementos que compõem a obra, designadamente estruturais, construtivos não estruturais ou instalações técnicas e equipamentos.
 
-8 - A liberação da caução prevista nos n.<sup>os</sup>4 a 7 depende da inexistência de defeitos da prestação do cocontratante ou da correção daqueles que hajam sido detetados até ao momento da liberação, sem prejuízo de o contraente público poder decidir diferentemente, designadamente por considerar que os defeitos identificados e não corrigidos são de pequena importância e não justificam a não liberação.
+8 - A liberação da caução prevista nos n.os4 a 7 depende da inexistência de defeitos da prestação do cocontratante ou da correção daqueles que hajam sido detetados até ao momento da liberação, sem prejuízo de o contraente público poder decidir diferentemente, designadamente por considerar que os defeitos identificados e não corrigidos são de pequena importância e não justificam a não liberação.
 
 9 - Decorrido o prazo previsto nos números anteriores para a liberação da caução sem que esta tenha ocorrido, o cocontratante pode notificar o contraente público para que este cumpra a obrigação de liberação da caução, ficando autorizado a promovê-la, a título parcial ou integral, se, 15 dias após a notificação, o contraente público não tiver dado cumprimento à referida obrigação.
 
@@ -8229,7 +8720,7 @@ c) Ato administrativo do contraente público, conforme o disposto na alínea c) 
 
 1 - A modificação do contrato pode ocorrer em qualquer dos seguintes casos:
 
-a) Se o respetivo valor for inferior aos limiares referidos nos n.<sup>os</sup>2, 3 e 4 do artigo 474.º, consoante o caso, e inferior a 10 % ou, em contratos de empreitada de obras públicas, a 15 % do preço contratual inicial;
+a) Se o respetivo valor for inferior aos limiares referidos nos n.os2, 3 e 4 do artigo 474.º, consoante o caso, e inferior a 10 % ou, em contratos de empreitada de obras públicas, a 15 % do preço contratual inicial;
 
 b) De acordo com os termos previstos em cláusulas contratuais que indiquem de forma clara, precisa e inequívoca o âmbito e a natureza das eventuais modificações, bem como as condições em que podem ser aplicadas;
 
@@ -8449,7 +8940,7 @@ A cessão da posição contratual pelo contraente público só pode ser recusada
 
 1 - Em caso de atraso do contraente público no cumprimento de obrigações pecuniárias, tem o cocontratante direito aos juros de mora sobre o montante em dívida à taxa legalmente fixada para o efeito pelo período correspondente à mora.
 
-2 - A obrigação de pagamento de juros de mora vence-se automaticamente, sem necessidade de novo aviso, consoante o caso, uma vez vencida a obrigação pecuniária nos termos do n.º 1 do artigo 299.º ou decorrido o prazo previsto nos n.<sup>os</sup>3 e 4 do mesmo artigo.
+2 - A obrigação de pagamento de juros de mora vence-se automaticamente, sem necessidade de novo aviso, consoante o caso, uma vez vencida a obrigação pecuniária nos termos do n.º 1 do artigo 299.º ou decorrido o prazo previsto nos n.os3 e 4 do mesmo artigo.
 
 3 - São nulas as cláusulas contratuais que excluam a responsabilidade pela mora, bem como as cláusulas contratuais que, sem motivo atendível e justificado face às circunstâncias concretas, limitem a responsabilidade pela mora.
 
@@ -8483,7 +8974,7 @@ O disposto no artigo anterior é aplicável, com as necessárias adaptações, �
 
 3 - Nos casos em que seja atingido o limite previsto no número anterior e o contraente público decida não proceder à resolução do contrato, por dela resultar grave dano para o interesse público, aquele limite é elevado para 30 %.
 
-4 - Para efeitos dos limites previstos nos n.<sup>os</sup>2 e 3, quando o contrato previr prorrogações expressas ou tácitas, o valor das sanções a aplicar deve ter por referência o preço do seu período de vigência inicial.
+4 - Para efeitos dos limites previstos nos n.os2 e 3, quando o contrato previr prorrogações expressas ou tácitas, o valor das sanções a aplicar deve ter por referência o preço do seu período de vigência inicial.
 
 5 - Quando as sanções aplicadas atingirem o valor a que se refere o n.º 2, o contraente público deve comunicar tal facto ao Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P., no prazo de 10 dias após os atos que as aplicaram se tornarem inimpugnáveis, para publicação na área pública do portal dos contratos públicos.
 
@@ -8913,7 +9404,7 @@ A suspensão é sempre formalizada em auto, cujo conteúdo deve compreender, no 
 
 a) Notificar o empreiteiro com, pelo menos, cinco dias de antecedência, para execução dos trabalhos complementares; ou
 
-b) Optar pela execução dos trabalhos complementares, diretamente ou por intermédio de terceiro, quando o empreiteiro tenha manifestado de forma perentória a intenção de não os executar, sendo aplicável, com as necessárias adaptações, o disposto nos n.<sup>os</sup>2 a 4 do artigo 325.º
+b) Optar pela execução dos trabalhos complementares, diretamente ou por intermédio de terceiro, quando o empreiteiro tenha manifestado de forma perentória a intenção de não os executar, sendo aplicável, com as necessárias adaptações, o disposto nos n.os2 a 4 do artigo 325.º
 
 4 - No caso previsto na alínea a) do número anterior, quando o empreiteiro não dê início à execução dos trabalhos, pode o dono da obra, sem prejuízo do poder de resolução do contrato:
 
@@ -8979,7 +9470,7 @@ b) Tratando-se de trabalhos de espécie diferente ou da mesma espécie de outros
 
 a) Deve o dono da obra exercer obrigatoriamente o direito que lhe assista de ser indemnizado por parte destes terceiros;
 
-b) Fica o empreiteiro sub-rogado no direito de indemnização que assiste ao dono da obra perante esses terceiros até ao limite do montante que deva ser por si suportado em virtude do disposto nos n.<sup>os</sup>3, 4 e 5.
+b) Fica o empreiteiro sub-rogado no direito de indemnização que assiste ao dono da obra perante esses terceiros até ao limite do montante que deva ser por si suportado em virtude do disposto nos n.os3, 4 e 5.
 
 7 - No caso previsto no número anterior, a responsabilidade dos terceiros perante o dono da obra ou o empreiteiro, quando fundada em título contratual, é limitada ao triplo dos honorários a que tenham direito ao abrigo do respetivo contrato, salvo se a responsabilidade em causa tiver resultado de dolo ou de negligência grosseira no cumprimento das suas obrigações.
 
@@ -9049,7 +9540,7 @@ f) O prazo de execução das prestações objeto do subcontrato.
 
 2 - Quando as particularidades da obra justifiquem uma especial qualificação técnica do empreiteiro e a mesma tenha sido exigida ao empreiteiro na fase de formação do contrato, o contrato pode subordinar expressamente a subcontratação na fase de execução a autorização do dono da obra, dependente da verificação da capacidade técnica do potencial subcontratado em moldes semelhantes aos que hajam sido exigidos em relação ao empreiteiro.
 
-3 - Salvo nos casos previstos no número anterior, aos quais é aplicável, com as necessárias adaptações, o disposto nos n.<sup>os</sup>2 a 5 do artigo 320.º, o empreiteiro deve, no prazo de cinco dias após a celebração de cada contrato de subempreitada, comunicar esse facto por escrito ao dono da obra, remetendo-lhe cópia do contrato em causa.
+3 - Salvo nos casos previstos no número anterior, aos quais é aplicável, com as necessárias adaptações, o disposto nos n.os2 a 5 do artigo 320.º, o empreiteiro deve, no prazo de cinco dias após a celebração de cada contrato de subempreitada, comunicar esse facto por escrito ao dono da obra, remetendo-lhe cópia do contrato em causa.
 
 4 - Na comunicação prevista no número anterior, o empreiteiro fundamenta a decisão de recorrer à subempreitada e atesta a observância dos limites fixados no artigo 383.º
 
@@ -9177,7 +9668,7 @@ c) Quaisquer condições que o dono da obra julgue necessário impor, nos termos
 
 2 - O prazo fixado para correção de defeitos da obra que se revele necessária após a realização de vistoria não começa a contar antes do decurso do prazo para apresentação de reclamação ou reservas pelo empreiteiro ou da decisão do dono da obra que sobre elas incida.
 
-3 - Se a correção dos defeitos ordenada não for executada no prazo fixado, o dono da obra pode optar pela execução dos referidos trabalhos, diretamente ou por intermédio de terceiro, sendo aplicável, com as necessárias adaptações, o disposto nos n.<sup>os</sup>2 a 4 do artigo 325.º
+3 - Se a correção dos defeitos ordenada não for executada no prazo fixado, o dono da obra pode optar pela execução dos referidos trabalhos, diretamente ou por intermédio de terceiro, sendo aplicável, com as necessárias adaptações, o disposto nos n.os2 a 4 do artigo 325.º
 
 4 - Logo que os trabalhos de correção de defeitos estejam concluídos, há lugar a novo procedimento de receção provisória.
 
@@ -9277,7 +9768,7 @@ c) Um mapa de todos os trabalhos e valores sobre os quais subsistam reclamaçõe
 
 2 - Realizada a notificação prevista no número anterior, se o empreiteiro não apresentar um plano de trabalhos modificado em moldes considerados adequados pelo dono da obra, este pode elaborar novo plano de trabalhos, acompanhado de uma memória justificativa da sua viabilidade, devendo notificá-lo ao empreiteiro.
 
-3 - Caso se verifiquem novos desvios, seja relativamente ao plano de trabalhos modificado pelo empreiteiro ou ao plano de trabalhos notificado pelo dono da obra nos termos do disposto no número anterior, este pode tomar a posse administrativa da obra, bem como dos bens móveis e imóveis à mesma afetos, e executar a obra, diretamente ou por intermédio de terceiro, nos termos previstos nos n.<sup>os</sup>2 a 4 do artigo 325.º, procedendo aos inventários, medições e avaliações necessários.
+3 - Caso se verifiquem novos desvios, seja relativamente ao plano de trabalhos modificado pelo empreiteiro ou ao plano de trabalhos notificado pelo dono da obra nos termos do disposto no número anterior, este pode tomar a posse administrativa da obra, bem como dos bens móveis e imóveis à mesma afetos, e executar a obra, diretamente ou por intermédio de terceiro, nos termos previstos nos n.os2 a 4 do artigo 325.º, procedendo aos inventários, medições e avaliações necessários.
 
 4 - Sem prejuízo do disposto nos números anteriores, o empreiteiro é responsável perante o dono da obra ou perante terceiros pelos danos decorrentes do desvio injustificado do plano de trabalhos, quer no que respeita ao conteúdo da respetiva prestação quer no que respeita ao prazo de execução da obra.
 
@@ -9461,7 +9952,7 @@ O contrato só pode atribuir ao concessionário o direito a prestações económ
 
 3 - O disposto no n.º 1 não se aplica aos trabalhadores com contrato a termo de substituição celebrado nas situações previstas nas alíneas a) a d) do n.º 2 do artigo 140.º do Código do Trabalho.
 
-4 - O disposto nos n.<sup>os</sup>1 e 2 não se aplica a trabalhadores que executem tarefas ocasionais ou serviços específicos e não duradouros, ou serviços que pela sua própria natureza sejam habitualmente realizados por profissionais liberais.
+4 - O disposto nos n.os1 e 2 não se aplica a trabalhadores que executem tarefas ocasionais ou serviços específicos e não duradouros, ou serviços que pela sua própria natureza sejam habitualmente realizados por profissionais liberais.
 
 ###### Artigo 420.º — Direitos do concedente
 
@@ -9721,7 +10212,7 @@ Na falta de estipulação contratual e salvo quando outra coisa resultar da natu
 
 2 - Se o contraente público vier a ser demandado por ter infringido, na execução do contrato ou na posterior utilização dos bens objeto do mesmo, qualquer dos direitos referidos no número anterior, terá direito de regresso contra o fornecedor por quaisquer quantias pagas, seja a que título for.
 
-3 - Os encargos e a responsabilidade civil perante terceiros decorrentes dos factos mencionados nos n.<sup>os</sup>1 e 2 não correm por conta do fornecedor se este demonstrar que os mesmos são imputáveis ao contraente público ou a terceiros que não sejam seus subcontratados.
+3 - Os encargos e a responsabilidade civil perante terceiros decorrentes dos factos mencionados nos n.os1 e 2 não correm por conta do fornecedor se este demonstrar que os mesmos são imputáveis ao contraente público ou a terceiros que não sejam seus subcontratados.
 
 ###### Artigo 447.º-A — Modificações ao contrato
 
@@ -9773,7 +10264,7 @@ Na falta de estipulação contratual, as instalações, os equipamentos e quaisq
 
 6 - [Revogado.]
 
-# PARTE IV — GOVERNAÇÃO E REGIME SANCIONATÓRIO E RESOLUÇÃO DE LITÍGIOS
+## PARTE IV — GOVERNAÇÃO E REGIME SANCIONATÓRIO E RESOLUÇÃO DE LITÍGIOS
 
 ### CAPÍTULO I — GOVERNAÇÃO
 
@@ -9803,7 +10294,7 @@ A auditoria e a fiscalização dos contratos públicos compete ao Tribunal de Co
 
 Constitui contraordenação punível com coima de 2000 € a 3700 € ou de 7500 € a 44 800 €, consoante seja aplicada a pessoa singular ou a pessoa coletiva:
 
-a) A participação de candidato ou de concorrente que se encontre em alguma das situações previstas no artigo 55.º, no n.º 6 do artigo 113.º ou nos n.<sup>os</sup>2 e 3 do artigo 114.º no momento da apresentação da respetiva candidatura ou proposta, da adjudicação ou da celebração do contrato;
+a) A participação de candidato ou de concorrente que se encontre em alguma das situações previstas no artigo 55.º, no n.º 6 do artigo 113.º ou nos n.os2 e 3 do artigo 114.º no momento da apresentação da respetiva candidatura ou proposta, da adjudicação ou da celebração do contrato;
 
 b) A não apresentação pelo adjudicatário, no prazo fixado para o efeito, de quaisquer documentos de habilitação exigidos no presente Código ou pelo órgão competente para a decisão de contratar;
 
@@ -9929,7 +10420,7 @@ Havendo conciliação, é lavrado auto, do qual constam todos os termos e condi�
 
 O requerimento de tentativa de conciliação interrompe os prazos de prescrição do direito e de caducidade das ações judiciais ou arbitrais, que voltam a correr 30 dias depois da data em que a parte requerente seja notificada da impossibilidade de realização ou da inviabilidade da conciliação.
 
-# PARTE V — DISPOSIÇÕES FINAIS
+## PARTE V — DISPOSIÇÕES FINAIS
 
 ###### Artigo 465.º — Publicitação dos contratos
 
@@ -10119,13 +10610,15 @@ c) «Norma nacional»: uma norma aprovada por um organismo nacional de normaliza
 
 [a que se referem o artigo 6.º-A, a subalínea v) da alínea b) do n.º 1 do artigo 11.º, o artigo 250.º-A, a alínea d) do n.º 3 e a alínea c) do n.º 4 do artigo 474.º]
 
-![](https://files.diariodarepublica.pt/images/1166969779/1166958386.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1166969779/1166958386.png) |
+| --- |
 
 ## ANEXO X — Lista de serviços de saúde, serviços sociais e serviços culturais que podem participar em procedimentos reservados
 
 (a que se refere o n.º 1 do artigo 250.º-D)
 
-![](https://files.diariodarepublica.pt/images/1166969779/1166958387.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1166969779/1166958387.png) |
+| --- |
 
 ## ANEXO XI — Lista de atividades de construção civil
 
@@ -10133,11 +10626,14 @@ c) «Norma nacional»: uma norma aprovada por um organismo nacional de normaliza
 
 Em caso de divergências de interpretação entre a CPV e a NACE, é aplicável a nomenclatura CPV.
 
-![](https://files.diariodarepublica.pt/images/1166969779/1166958388.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1166969779/1166958388.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1166969779/1166958389.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1166969779/1166958389.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1166969779/1166958390.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1166969779/1166958390.png) |
+| --- |
 
 ## ANEXO XII — Modelos para a aceitação da jurisdição de centro de arbitragem
 
@@ -10180,3 +10676,5 @@ c) A entidade adjudicante recolhe a informação, compõe o objeto contratual pr
 d) O ou os participantes no acordo-quadro podem escusar-se a apresentar proposta, indicando, de forma fundamentada, que a concreta combinação de prestações escolhida pela entidade adjudicante apresenta erros, ou é técnica ou funcionalmente inexequível;
 
 e) Nos casos do artigo 259.º, a entidade adjudicante adota as medidas que assegurem que este modo de utilização de catálogos eletrónicos não viola ou restringe a concorrência ou a igualdade de tratamento, designadamente no que diz respeito à comparabilidade entre propostas.
+
+119949521

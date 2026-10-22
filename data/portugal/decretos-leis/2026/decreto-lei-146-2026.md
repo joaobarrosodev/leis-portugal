@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/146/2026/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2026-1148792658
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-17T00:00:00Z'
+  retrieved_at: '2026-10-22T18:46:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85e6f011bc133464dd6c041ef28adde7c3724055c31b00cad89a3e633ef737f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4fc797efdcdc930b0996b29ccf96972ae0d0d4a37811e687e521a41deb55b7b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:46:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
+- Associação
 - Associação de Estudantes
 - Autonomia Administrativa
 - Autonomia Científica
+- Ensino Superior
 - Ensino Superior Politécnico
+- Escola Superior de Hotelaria e Turismo do Estoril
 - Estatuto
-- Universidade NOVA de Lisboa
 - Gestão Escolar
 - Integração de Trabalhadores
-- Escola Superior de Hotelaria e Turismo do Estoril
 - Orgânica
-- Ensino Superior
-- Associação
+- Universidade NOVA de Lisboa
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/20/2017/02/21/p/dre
@@ -116,16 +116,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
+- type: cites
+  target: pt:dre:105263348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106499600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107094720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162825338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1782383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:46:56Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +212,7 @@ A ESHTE tem vindo a exercer a sua atividade de ensino, de investigação e de se
 
 Nestes termos, a integração da ESHTE na UNL proporciona, do ponto de vista patrimonial e infraestrutural, benefícios significativos para ambas as instituições e para os seus atuais e futuros estudantes, os quais passam a dispor do acesso a instalações especializadas, a laboratórios de inovação e tecnologia de ponta nas áreas de ensino, desde a gastronomia à hotelaria, contribuindo, desta forma, para a melhoria da qualidade do ensino e da investigação nestas áreas. Por outro lado, a integração da ESHTE na UNL propicia a concertação de esforços e robustece as vantagens competitivas em relação a outras instituições, nacionais e internacionais, contribuindo, designadamente, para afirmar Portugal como uma referência global na formação de profissionais qualificados na área do turismo e para consolidar o seu papel no desenvolvimento do turismo sustentável e inovador no século xxi. A integração da ESHTE na UNL justifica-se, ainda, em função da localização da ESHTE, do seu trajeto de colaboração com a UNL e do alinhamento estratégico das duas instituições de ensino superior.
 
-Desta forma, o presente decreto-lei procede à integração da ESHTE na UNL, mantendo aquela a sua natureza politécnica para todos os demais efeitos legais, no quadro estabelecido no n.º 3 do artigo 17.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de outubro, tendo por habilitação legal as disposições conjugadas do n.º 6 do artigo 13.º e dos n.<sup>os</sup>2 e 3 do artigo 55.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, e à luz do objetivo consagrado no Programa do XXV Governo Constitucional de ter sistemas de ensino superior e científico e tecnológico que respondam às necessidades de formação da economia e que estabeleçam relações próximas com as empresas que promovam a difusão do conhecimento e a inovação.
+Desta forma, o presente decreto-lei procede à integração da ESHTE na UNL, mantendo aquela a sua natureza politécnica para todos os demais efeitos legais, no quadro estabelecido no n.º 3 do artigo 17.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de outubro, tendo por habilitação legal as disposições conjugadas do n.º 6 do artigo 13.º e dos n.os2 e 3 do artigo 55.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, e à luz do objetivo consagrado no Programa do XXV Governo Constitucional de ter sistemas de ensino superior e científico e tecnológico que respondam às necessidades de formação da economia e que estabeleçam relações próximas com as empresas que promovam a difusão do conhecimento e a inovação.
 
 De acordo com o parecer da Direção-Geral do Ensino Superior, encontram-se reunidas as condições para a integração da ESHTE na UNL.
 
@@ -166,7 +222,7 @@ Foram ouvidos, ainda, o Conselho de Reitores das Universidades Portuguesas, o Co
 
 Assim:
 
-Nos termos dos n.<sup>os</sup>2 e 3 do artigo 55.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, e da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Nos termos dos n.os2 e 3 do artigo 55.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, e da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
 
 ### CAPÍTULO I — DISPOSIÇÕES GERAIS
 
@@ -266,18 +322,21 @@ O presente decreto-lei procede à integração da Escola Superior de Hotelaria e
 
 Visto e aprovado em Conselho de Ministros de 21 de maio de 2026. - Paulo Artur dos Santos de Castro de Campos Rangel - Joaquim Miranda Sarmento - Manuel Castro Almeida - Fernando Alexandre.
 
-**Promulgado em 7 de julho de 2026.**
+Promulgado em 7 de julho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 9 de julho de 2026.**
+Referendado em 9 de julho de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
-## ANEXO — (a que se referem os n.<sup>os</sup>4 e 5 do artigo 6.º)
+## ANEXO — (a que se referem os n.os4 e 5 do artigo 6.º)
 
 O património imobiliário do Instituto do Turismo de Portugal, I. P., no qual a Escola Superior de Hotelaria e Turismo do Estoril prossegue a sua atividade de ensino, de investigação e de serviço à comunidade, e melhor delimitado com uma linha contínua de cor azul na planta constante do presente anexo, é constituído pelo prédio urbano sito em Limites do Alto do Estoril, Estrada de Bicesse, Avenida dos Condes de Barcelona, n.º 808, 2769-510 Estoril, descrito na 2.ª Conservatória do Registo Predial de Cascais sob o n.º 4425, da freguesia de Cascais, e inscrito na matriz predial urbana sob o artigo matricial n.º 17802, da União das Freguesias de Cascais e Estoril, tendo origem na matriz predial rústica sob o artigo matricial n.º 1084, secção 48-58, da União das Freguesias de Cascais e Estoril.
 
-![](https://files.diariodarepublica.pt/images/1148792658/1148792705.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1148792658/1148792705.png) |
+| --- |
+
+119949046

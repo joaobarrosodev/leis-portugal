@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/15/2007/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-2007-517983
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-19T00:00:00Z'
+  retrieved_at: '2026-10-22T19:07:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0e9bdaa1eba8cba9374757a092f40e82113ac2cc8b725ef9b531fa1e9f127c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33013e5541e9383ed0cc8236eafceba244e5cb5e8e4d9deaf3a8cabd9e8ff6b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:07:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,33 +67,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Açores
 - Casa Degradada
-- Construção Civil
 - Concurso Público
+- Construção Civil
 - Crédito à Habitação
 - Direito de Preferência
+- Financiamento
 - Fiscalização
-- Regime Jurídico
 - Habitação
+- Regime Jurídico
 - Regulamento Geral das Edificações Urbanas
 - Sanção
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/59/2006/12/29/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/59/2006/12/29/a/dre
+- type: cites
+  target: pt:dre:552336:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:07:42Z'
   warnings: []
   errors: []
 ---
@@ -106,13 +110,13 @@ TABELA III
 
 Majoração com base na composição do agregado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03500/12521252.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03500/12521252.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03500/12521252.pdf)
 
 TABELA III
 
 Majoração com base na composição do agregado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03500/12521252.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03500/12521252.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03500/12521252.pdf)
 
 deve ler-se:
 
@@ -120,10 +124,10 @@ TABELA III
 
 Majoração com base na composição do agregado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03500/12521252.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03500/12521252.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03500/12521252.pdf)
 
 ## ANEXO V — Zonas e percentagens
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03500/12521252.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03500/12521252.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03500/12521252.pdf)
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 8 de Janeiro de 2007. - Pelo Secretário-Geral, a Secretária-Geral-Adjunta, Ana Almeida.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/02/03100/0006400083.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/79/2026/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/79-2026-1049254423
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-13T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83995f7c94d6c41b99f77d001ed806ddb6db7db3ce68b21fe7edc7f9f739bd88
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9a3b47543d6e946955d596fd173dbe39c71f2089ff844ab046462c4d66d143b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Proteção dos Animais
-- Pagamento
-- IFAP
 - Baldio
+- Financiamento
+- Fundo Ambiental
+- IFAP
+- Pagamento
+- Proteção dos Animais
 - Regulamento CE
 - Transferência de Verbas
-- Fundo Ambiental
 relationships:
 - type: cites
   target: celex:32013R1408
@@ -103,16 +103,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/54-q/2023/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/54-q/2023/02/27/p/dre
+- type: cites
+  target: pt:dre:207942898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75150234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:993270096:por
+  label: null
+  source: null
 article_structure:
   article_count: 24
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:18Z'
   warnings: []
   errors: []
 ---
@@ -307,7 +331,7 @@ Os apoios financeiros previstos na presente portaria são concedidos nas condiç
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2026.
 
-**A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 4 de fevereiro de 2026. - O Ministro da Agricultura e Mar, José Manuel Fernandes, em 5 de fevereiro de 2026.**
+A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 4 de fevereiro de 2026. - O Ministro da Agricultura e Mar, José Manuel Fernandes, em 5 de fevereiro de 2026.
 
 ## ANEXO I — [a que se referem as alíneas a), e) e f) do artigo 2.º e as alíneas b) dos artigos 7.º e 13.º]
 
@@ -332,18 +356,18 @@ Freguesias do Alentejo
 | Almodôvar | São Barnabé |
 | Castelo de Vide | Todas as freguesias |
 | Gavião | Belver |
-| Gavião | União das Freguesias de Gavião e Atalaia |
+| União das Freguesias de Gavião e Atalaia |  |
 | Marvão | Todas as freguesias |
 | Nisa | Montalvão |
-| Nisa | Santana |
-| Nisa | São Matias |
+| Santana |  |
+| São Matias |  |
 | Odemira | São Martinho das Amoreiras |
 | Ourique | Santana da Serra |
 | Portalegre | Alagoa |
-| Portalegre | Alegrete |
+| Alegrete |  |
 |  | União das Freguesias da Sé e São Lourenço |
-|  | União das Freguesias de Reguengo e São Julião |
-|  | União das Freguesias de Ribeira de Nisa e Carreiras |
+| União das Freguesias de Reguengo e São Julião |  |
+| União das Freguesias de Ribeira de Nisa e Carreiras |  |
 
 Freguesias do Algarve
 
@@ -352,99 +376,99 @@ Freguesias do Algarve
 | Alcoutim | Vaqueiros |
 | Aljezur | Todas as freguesias |
 | Loulé | Alte |
-| Loulé | Ameixial |
-| Loulé | Salir |
-| Loulé | Benafim |
-| Loulé | Querença |
-| Loulé | Tôr |
+| Ameixial |  |
+| Salir |  |
+| Benafim |  |
+| Querença |  |
+| Tôr |  |
 | Monchique | Todas as freguesias |
 | São Brás de Alportel | Todas as freguesias |
 | Silves | São Marcos da Serra |
-| Silves | Silves |
+| Silves |  |
 | Tavira | Cachopo |
-| Tavira | Santa Catarina da Fonte do Bispo |
-| Tavira | União das Freguesias de Tavira (Santa Maria e Santiago) |
-| Tavira | Conceição |
+| Santa Catarina da Fonte do Bispo |  |
+| União das Freguesias de Tavira (Santa Maria e Santiago) |  |
+| Conceição |  |
 
 Freguesias do Centro
 
 | Município | Freguesia |
 | --- | --- |
 | Águeda | União das Freguesias do Préstimo e Macieira de Alcoba |
-| Águeda | Agadão |
-| Águeda | Belazaima do Chão |
-| Águeda | Castanheira do Vouga |
+| Agadão |  |
+| Belazaima do Chão |  |
+| Castanheira do Vouga |  |
 | Aguiar da Beira | Todas as freguesias |
 | Albergaria-a-Velha | Ribeira de Fráguas |
 | Almeida | Todas as freguesias |
 | Alvaiázere | Todas as freguesias |
 | Anadia | Avelãs de Cima |
-| Anadia | Moita |
-| Anadia | Vila Nova de Monsarros |
+| Moita |  |
+| Vila Nova de Monsarros |  |
 | Ansião | Todas as freguesias |
 | Arganil | Todas as freguesias |
 | Batalha | Reguengo do Fetal |
-| Batalha | São Mamede |
+| São Mamede |  |
 | Belmonte | Todas as freguesias |
 | Carregal do Sal | Todas as freguesias |
 | Castanheira de Pera | Todas as freguesias |
 | Castelo Branco | Almaceda |
-| Castelo Branco | Benquerenças |
-| Castelo Branco | Louriçal do Campo |
-| Castelo Branco | Salgueiro do Campo |
-| Castelo Branco | Santo André das Tojeiras |
-| Castelo Branco | São Vicente da Beira |
-| Castelo Branco | Sarzedas |
-| Castelo Branco | União das Freguesias de Cebolais de Cima e Retaxo |
-| Castelo Branco | União das Freguesias de Freixial e Juncal do Campo |
-| Castelo Branco | Ninho do Açor |
-| Castelo Branco | Sobral do Campo |
+| Benquerenças |  |
+| Louriçal do Campo |  |
+| Salgueiro do Campo |  |
+| Santo André das Tojeiras |  |
+| São Vicente da Beira |  |
+| Sarzedas |  |
+| União das Freguesias de Cebolais de Cima e Retaxo |  |
+| União das Freguesias de Freixial e Juncal do Campo |  |
+| Ninho do Açor |  |
+| Sobral do Campo |  |
 | Castro Daire | Todas as freguesias |
 | Celorico da Beira | Todas as freguesias |
 | Coimbra | Almalaguês |
-| Coimbra | Brasfemes |
-| Coimbra | Ceira |
-| Coimbra | Torres do Mondego |
-| Coimbra | União das Freguesias de Eiras e São Paulo de Frades |
+| Brasfemes |  |
+| Ceira |  |
+| Torres do Mondego |  |
+| União das Freguesias de Eiras e São Paulo de Frades |  |
 | Condeixa-a-Nova | Furadouro |
-| Condeixa-a-Nova | Zambujal |
-| Condeixa-a-Nova | União das Freguesias de Vila Seca e Bem da Fé |
+| Zambujal |  |
+| União das Freguesias de Vila Seca e Bem da Fé |  |
 | Covilhã | Todas as freguesias |
 | Figueira de Castelo Rodrigo | Todas as freguesias |
 | Figueiró dos Vinhos | Todas as freguesias |
 | Fornos de Algodres | Todas as freguesias |
 | Fundão | Alcaide |
-| Fundão | Alcaria |
-| Fundão | Alcongosta |
-| Fundão | Alpedrinha |
+| Alcaria |  |
+| Alcongosta |  |
+| Alpedrinha |  |
 |  | Barroca |
-|  | Bogas de Cima |
-|  | Capinha |
-|  | Castelejo |
-|  | Castelo Novo |
-|  | Fatela |
-|  | Lavacolhos |
-|  | Pêro Viseu |
-|  | Silvares |
-|  | Souto da Casa |
-|  | Telhado |
-|  | Enxames |
-|  | Três Povos |
-|  | União das Freguesias de Janeiro de Cima e Bogas de Baixo |
-|  | União das Freguesias de Fundão, Valverde, Donas, Aldeia de Joanes e Aldeia Nova do Cabo |
-|  | União das Freguesias de Vale de Prazeres e Mata da Rainha |
+| Bogas de Cima |  |
+| Capinha |  |
+| Castelejo |  |
+| Castelo Novo |  |
+| Fatela |  |
+| Lavacolhos |  |
+| Pêro Viseu |  |
+| Silvares |  |
+| Souto da Casa |  |
+| Telhado |  |
+| Enxames |  |
+| Três Povos |  |
+| União das Freguesias de Janeiro de Cima e Bogas de Baixo |  |
+| União das Freguesias de Fundão, Valverde, Donas, Aldeia de Joanes e Aldeia Nova do Cabo |  |
+| União das Freguesias de Vale de Prazeres e Mata da Rainha |  |
 | Góis | Todas as freguesias |
 | Gouveia | Todas as freguesias |
 | Guarda | Todas as freguesias |
 | Idanha-a-Nova | Aldeia de Santa Margarida |
-| Idanha-a-Nova | Medelim |
-| Idanha-a-Nova | Penha Garcia |
-| Idanha-a-Nova | Proença-a-Velha |
-| Idanha-a-Nova | São Miguel de Acha |
-| Idanha-a-Nova | União das Freguesias de Monsanto e Idanha-a-Velha |
+| Medelim |  |
+| Penha Garcia |  |
+| Proença-a-Velha |  |
+| São Miguel de Acha |  |
+| União das Freguesias de Monsanto e Idanha-a-Velha |  |
 | Leiria | Arrabal |
-| Leiria | União das Freguesias de Colmeias e Memória |
-| Leiria | União das Freguesias de Santa Catarina da Serra e Chainça |
+| União das Freguesias de Colmeias e Memória |  |
+| União das Freguesias de Santa Catarina da Serra e Chainça |  |
 | Lousã | Todas as freguesias |
 | Mangualde | Todas as freguesias |
 | Manteigas | Todas as freguesias |
@@ -464,16 +488,16 @@ Freguesias do Centro
 | Penela | Todas as freguesias |
 | Pinhel | Todas as freguesias |
 | Pombal | Abiul |
-| Pombal | Redinha |
-| Pombal | Vila Cã |
-| Pombal | Albergaria dos Doze |
+| Redinha |  |
+| Vila Cã |  |
+| Albergaria dos Doze |  |
 | Porto de Mós | Alqueidão da Serra |
-| Porto de Mós | Mira de Aire |
-| Porto de Mós | São Bento |
-| Porto de Mós | Serro Ventoso |
-| Porto de Mós | Porto de Mós - São João Baptista e São Pedro |
-| Porto de Mós | União das Freguesias de Alvados e Alcaria |
-| Porto de Mós | União das Freguesias de Arrimal e Mendiga |
+| Mira de Aire |  |
+| São Bento |  |
+| Serro Ventoso |  |
+| Porto de Mós - São João Baptista e São Pedro |  |
+| União das Freguesias de Alvados e Alcaria |  |
+| União das Freguesias de Arrimal e Mendiga |  |
 | Proença-a-Nova | Todas as freguesias |
 | Sabugal | Todas as freguesias |
 | Santa Comba Dão | Todas as freguesias |
@@ -483,7 +507,7 @@ Freguesias do Centro
 | Sertã | Todas as freguesias |
 | Sever do Vouga | Todas as freguesias |
 | Soure | Tapéus |
-| Soure | União das Freguesias de Degracias e Pombalinho |
+| União das Freguesias de Degracias e Pombalinho |  |
 | Tábua | Todas as freguesias |
 | Tondela | Todas as freguesias |
 | Trancoso | Todas as freguesias |
@@ -491,8 +515,8 @@ Freguesias do Centro
 | Vila Nova de Paiva | Todas as freguesias |
 | Vila Nova de Poiares | Todas as freguesias |
 | Vila Velha de Ródão | Fratel |
-| Vila Velha de Ródão | Sarnadas de Ródão |
-| Vila Velha de Ródão | Vila Velha de Ródão |
+| Sarnadas de Ródão |  |
+| Vila Velha de Ródão |  |
 | Viseu | Todas as freguesias |
 | Vouzela | Todas as freguesias |
 
@@ -501,29 +525,29 @@ Freguesias do Oeste e Vale do Tejo
 | Município | Freguesia |
 | --- | --- |
 | Abrantes | Martinchel |
-| Abrantes | Fontes |
-| Abrantes | Carvalhal |
-| Abrantes | União das Freguesias de Aldeia do Mato e Souto |
+| Fontes |  |
+| Carvalhal |  |
+| União das Freguesias de Aldeia do Mato e Souto |  |
 | Alcanena | Minde |
-| Alcanena | Moitas Venda |
-| Alcanena | Monsanto |
-| Alcanena | Serra de Santo António |
+| Moitas Venda |  |
+| Monsanto |  |
+| Serra de Santo António |  |
 | Ferreira do Zêzere | Todas as freguesias |
 | Mação | Todas as freguesias |
 | Ourém | Alburitel |
-| Ourém | Atouguia |
-| Ourém | Espite |
-| Ourém | Fátima |
-| Ourém | Urqueira |
-| Ourém | União das Freguesias de Freixianda, Ribeira do Fárrio e Formigais |
-| Ourém | Cercal |
-| Ourém | Matas |
+| Atouguia |  |
+| Espite |  |
+| Fátima |  |
+| Urqueira |  |
+| União das Freguesias de Freixianda, Ribeira do Fárrio e Formigais |  |
+| Cercal |  |
+| Matas |  |
 | Rio Maior | Alcobertas |
 | Sardoal | Alcaravela |
-| Sardoal | Santiago de Montalegre |
-| Sardoal | Sardoal |
+| Santiago de Montalegre |  |
+| Sardoal |  |
 | Tomar | Sabacheira |
-| Tomar | União das Freguesias de Além da Ribeira e Pedreira |
+| União das Freguesias de Além da Ribeira e Pedreira |  |
 | Torres Novas | Pedrógão |
 
 Freguesias do Norte
@@ -533,81 +557,81 @@ Freguesias do Norte
 | Alfândega da Fé | Todas as freguesias |
 | Alijó | Todas as freguesias |
 | Amarante | Ansiães |
-| Amarante | Candemil |
-| Amarante | Fregim |
-| Amarante | Fridão |
-| Amarante | Gondar |
-| Amarante | Jazente |
-| Amarante | Lomba |
-| Amarante | Louredo |
-| Amarante | Lufrei |
-| Amarante | Mancelos |
-| Amarante | Padronelo |
-| Amarante | Rebordelo |
-| Amarante | Salvador do Monte |
-| Amarante | Gouveia (São Simão) |
-| Amarante | Telões |
-| Amarante | Vila Caiz |
-| Amarante | Vila Chã do Marão |
-| Amarante | União das Freguesias de Aboadela, Sanche e Várzea |
-| Amarante | União das Freguesias de Amarante (São Gonçalo), Madalena, Cepelos e Gatão |
-| Amarante | União das Freguesias de Bustelo, Carneiro e Carvalho de Rei |
-| Amarante | União das Freguesias de Freixo de Cima e de Baixo |
-| Amarante | União das Freguesias de Olo e Canadelo |
-| Amarante | União das Freguesias de Vila Garcia, Aboim e Chapa |
+| Candemil |  |
+| Fregim |  |
+| Fridão |  |
+| Gondar |  |
+| Jazente |  |
+| Lomba |  |
+| Louredo |  |
+| Lufrei |  |
+| Mancelos |  |
+| Padronelo |  |
+| Rebordelo |  |
+| Salvador do Monte |  |
+| Gouveia (São Simão) |  |
+| Telões |  |
+| Vila Caiz |  |
+| Vila Chã do Marão |  |
+| União das Freguesias de Aboadela, Sanche e Várzea |  |
+| União das Freguesias de Amarante (São Gonçalo), Madalena, Cepelos e Gatão |  |
+| União das Freguesias de Bustelo, Carneiro e Carvalho de Rei |  |
+| União das Freguesias de Freixo de Cima e de Baixo |  |
+| União das Freguesias de Olo e Canadelo |  |
+| União das Freguesias de Vila Garcia, Aboim e Chapa |  |
 | Amares | Caires |
-| Amares | Bouro (Santa Maria) |
-| Amares | Bouro (Santa Marta) |
-| Amares | União das Freguesias de Caldelas, Sequeiros e Paranhos |
-| Amares | União das Freguesias de Torre e Portela |
-| Amares | União das Freguesias de Vilela, Seramil e Paredes Secas |
+| Bouro (Santa Maria) |  |
+| Bouro (Santa Marta) |  |
+| União das Freguesias de Caldelas, Sequeiros e Paranhos |  |
+| União das Freguesias de Torre e Portela |  |
+| União das Freguesias de Vilela, Seramil e Paredes Secas |  |
 | Arcos de Valdevez | Aboim das Choças |
-| Arcos de Valdevez | Aguiã |
-| Arcos de Valdevez | Ázere |
-| Arcos de Valdevez | Cabana Maior |
+| Aguiã |  |
+| Ázere |  |
+| Cabana Maior |  |
 |  | Cabreiro |
-|  | Cendufe |
-|  | Couto |
-|  | Gavieira |
-|  | Gondoriz |
-|  | Miranda |
-|  | Monte Redondo |
-|  | Oliveira |
-|  | Paçô |
-|  | Padroso |
-|  | Prozelo |
-|  | Rio Frio |
-|  | Rio de Moinhos |
-|  | Sabadim |
-|  | Senharei |
-|  | Sistelo |
-|  | Soajo |
-|  | Vale |
-|  | União das Freguesias de Alvora e Loureda |
-|  | União das Freguesias de Arcos de Valdevez (São Paio) e Giela |
-|  | União das Freguesias de Arcos de Valdevez (Salvador), Vila Fonche e Parada |
-|  | União das Freguesias de Eiras e Mei |
-|  | União das Freguesias de Grade e Carralcova |
-|  | União das Freguesias de Guilhadeses e Santar |
-|  | União das Freguesias de Jolda (Madalena) e Rio Cabrão |
-|  | União das Freguesias de Padreiro (Salvador e Santa Cristina) |
-|  | União das Freguesias de Portela e Extremo |
-|  | União das Freguesias de São Jorge e Ermelo |
-|  | União das Freguesias de Souto e Tabaçô |
-|  | União das Freguesias de Távora (Santa Maria e São Vicente) |
-|  | União das Freguesias de Vilela, São Cosme e São Damião e Sá |
+| Cendufe |  |
+| Couto |  |
+| Gavieira |  |
+| Gondoriz |  |
+| Miranda |  |
+| Monte Redondo |  |
+| Oliveira |  |
+| Paçô |  |
+| Padroso |  |
+| Prozelo |  |
+| Rio Frio |  |
+| Rio de Moinhos |  |
+| Sabadim |  |
+| Senharei |  |
+| Sistelo |  |
+| Soajo |  |
+| Vale |  |
+| União das Freguesias de Alvora e Loureda |  |
+| União das Freguesias de Arcos de Valdevez (São Paio) e Giela |  |
+| União das Freguesias de Arcos de Valdevez (Salvador), Vila Fonche e Parada |  |
+| União das Freguesias de Eiras e Mei |  |
+| União das Freguesias de Grade e Carralcova |  |
+| União das Freguesias de Guilhadeses e Santar |  |
+| União das Freguesias de Jolda (Madalena) e Rio Cabrão |  |
+| União das Freguesias de Padreiro (Salvador e Santa Cristina) |  |
+| União das Freguesias de Portela e Extremo |  |
+| União das Freguesias de São Jorge e Ermelo |  |
+| União das Freguesias de Souto e Tabaçô |  |
+| União das Freguesias de Távora (Santa Maria e São Vicente) |  |
+| União das Freguesias de Vilela, São Cosme e São Damião e Sá |  |
 | Armamar | Todas as freguesias |
 | Arouca | Todas as freguesias |
 | Baião | Todas as freguesias |
 | Boticas | Todas as freguesias |
 | Braga | Espinho |
-| Braga | Esporões |
-| Braga | Pedralva |
-| Braga | Sobreposta |
-| Braga | União das Freguesias de Escudeiros e Penso (Santo Estêvão e São Vicente) |
-| Braga | União das Freguesias de Este (São Pedro e São Mamede) |
-| Braga | União das Freguesias de Guisande e Oliveira (São Pedro) |
-| Braga | União das Freguesias de Morreira e Trandeiras |
+| Esporões |  |
+| Pedralva |  |
+| Sobreposta |  |
+| União das Freguesias de Escudeiros e Penso (Santo Estêvão e São Vicente) |  |
+| União das Freguesias de Este (São Pedro e São Mamede) |  |
+| União das Freguesias de Guisande e Oliveira (São Pedro) |  |
+| União das Freguesias de Morreira e Trandeiras |  |
 | Bragança | Todas as freguesias |
 | Cabeceiras de Basto | Todas as freguesias |
 | Caminha | Todas as freguesias |
@@ -618,46 +642,46 @@ Freguesias do Norte
 | Cinfães | Todas as freguesias |
 | Fafe | Todas as freguesias |
 | Felgueiras | Friande |
-| Felgueiras | Jugueiros |
-| Felgueiras | Pinheiro |
-| Felgueiras | Sendim |
-| Felgueiras | União das Freguesias de Macieira da Lixa e Caramos |
-| Felgueiras | União das Freguesias de Vila Cova da Lixa e Borba de Godim |
+| Jugueiros |  |
+| Pinheiro |  |
+| Sendim |  |
+| União das Freguesias de Macieira da Lixa e Caramos |  |
+| União das Freguesias de Vila Cova da Lixa e Borba de Godim |  |
 | Freixo de Espada à Cinta | Todas as freguesias |
 | Gondomar | Lomba |
-| Gondomar | União das Freguesias de Foz do Sousa e Covelo |
-| Gondomar | União das Freguesias de Melres e Medas |
+| União das Freguesias de Foz do Sousa e Covelo |  |
+| União das Freguesias de Melres e Medas |  |
 | Guimarães | Costa |
-| Guimarães | Gonça |
-| Guimarães | Infantas |
-| Guimarães | Longos |
-| Guimarães | São Torcato |
-| Guimarães | União das Freguesias de Abação e Gémeos |
-| Guimarães | União das Freguesias de Arosa e Castelões |
-| Guimarães | União das Freguesias de Atães e Rendufe |
-| Guimarães | União das Freguesias de Briteiros São Salvador e Briteiros Santa Leocádia |
+| Gonça |  |
+| Infantas |  |
+| Longos |  |
+| São Torcato |  |
+| União das Freguesias de Abação e Gémeos |  |
+| União das Freguesias de Arosa e Castelões |  |
+| União das Freguesias de Atães e Rendufe |  |
+| União das Freguesias de Briteiros São Salvador e Briteiros Santa Leocádia |  |
 |  | União das Freguesias de Leitões, Oleiros e Figueiredo |
-|  | União das Freguesias de Sande São Lourenço e Balazar |
-|  | União das Freguesias de Souto Santa Maria, Souto São Salvador e Gondomar |
-|  | Calvos |
-|  | Sande (São Clemente) |
-|  | São Faustino |
-|  | Tabuadelo |
+| União das Freguesias de Sande São Lourenço e Balazar |  |
+| União das Freguesias de Souto Santa Maria, Souto São Salvador e Gondomar |  |
+| Calvos |  |
+| Sande (São Clemente) |  |
+| São Faustino |  |
+| Tabuadelo |  |
 | Lamego | Todas as freguesias |
 | Macedo de Cavaleiros | Todas as freguesias |
 | Marco de Canaveses | Banho e Carvalhosa |
-| Marco de Canaveses | Soalhães |
-| Marco de Canaveses | Tabuado |
-| Marco de Canaveses | Vila Boa do Bispo |
-| Marco de Canaveses | Alpendorada, Várzea e Torrão |
-| Marco de Canaveses | Avessadas e Rosém |
-| Marco de Canaveses | Bem Viver |
-| Marco de Canaveses | Paredes de Viadores e Manhuncelos |
-| Marco de Canaveses | Sande e São Lourenço do Douro |
-| Marco de Canaveses | Várzea, Aliviada e Folhada |
-| Marco de Canaveses | Vila Boa de Quires e Maureles |
-| Marco de Canaveses | Paços de Gaiolo |
-| Marco de Canaveses | Penha Longa |
+| Soalhães |  |
+| Tabuado |  |
+| Vila Boa do Bispo |  |
+| Alpendorada, Várzea e Torrão |  |
+| Avessadas e Rosém |  |
+| Bem Viver |  |
+| Paredes de Viadores e Manhuncelos |  |
+| Sande e São Lourenço do Douro |  |
+| Várzea, Aliviada e Folhada |  |
+| Vila Boa de Quires e Maureles |  |
+| Paços de Gaiolo |  |
+| Penha Longa |  |
 | Melgaço | Todas as freguesias |
 | Mesão Frio | Todas as freguesias |
 | Miranda do Douro | Todas as freguesias |
@@ -669,81 +693,81 @@ Freguesias do Norte
 | Montalegre | Todas as freguesias |
 | Murça | Todas as freguesias |
 | Oliveira de Azeméis | Carregosa |
-| Oliveira de Azeméis | Cesar |
-| Oliveira de Azeméis | Fajões |
-| Oliveira de Azeméis | Ossela |
+| Cesar |  |
+| Fajões |  |
+| Ossela |  |
 |  | União das Freguesias de Pinheiro da Bemposta, Travanca e Palmaz |
-|  | Pindelo |
+| Pindelo |  |
 | Paredes | Aguiar de Sousa |
-| Paredes | Recarei |
-| Paredes | Sobreira |
+| Recarei |  |
+| Sobreira |  |
 | Paredes de Coura | Todas as freguesias |
 | Penafiel | Abragão |
-| Penafiel | Boelhe |
-| Penafiel | Cabeça Santa |
-| Penafiel | Canelas |
-| Penafiel | Capela |
-| Penafiel | Croca |
-| Penafiel | Duas Igrejas |
-| Penafiel | Eja |
-| Penafiel | Oldrões |
-| Penafiel | Perozelo |
-| Penafiel | Rio de Moinhos |
-| Penafiel | Sebolido |
-| Penafiel | Valpedre |
-| Penafiel | Rio Mau |
-| Penafiel | Luzim e Vila Cova |
-| Penafiel | Lagares e Figueira |
-| Penafiel | Termas de São Vicente |
+| Boelhe |  |
+| Cabeça Santa |  |
+| Canelas |  |
+| Capela |  |
+| Croca |  |
+| Duas Igrejas |  |
+| Eja |  |
+| Oldrões |  |
+| Perozelo |  |
+| Rio de Moinhos |  |
+| Sebolido |  |
+| Valpedre |  |
+| Rio Mau |  |
+| Luzim e Vila Cova |  |
+| Lagares e Figueira |  |
+| Termas de São Vicente |  |
 | Penedono | Todas as freguesias |
 | Peso da Régua | Todas as freguesias |
 | Ponte da Barca | Todas as freguesias |
 | Ponte de Lima | Anais |
-| Ponte de Lima | São Pedro d’Arcos |
-| Ponte de Lima | Beiral do Lima |
-| Ponte de Lima | Boalhosa |
-| Ponte de Lima | Calheiros |
-| Ponte de Lima | Estorãos |
-| Ponte de Lima | Facha |
-| Ponte de Lima | Gondufe |
-| Ponte de Lima | Labruja |
-| Ponte de Lima | Poiares |
+| São Pedro d’Arcos |  |
+| Beiral do Lima |  |
+| Boalhosa |  |
+| Calheiros |  |
+| Estorãos |  |
+| Facha |  |
+| Gondufe |  |
+| Labruja |  |
+| Poiares |  |
 |  | Refóios do Lima |
-|  | Rebordões (Santa Maria) |
-|  | Seara |
-|  | Serdedelo |
-|  | Rebordões (Souto) |
-|  | Bárrio e Cepões |
-|  | Cabaços e Fojo Lobal |
-|  | Cabração e Moreira do Lima |
-|  | Fornelos e Queijada |
-|  | Labrujó, Rendufe e Vilar do Monte |
-|  | Navió e Vitorino dos Piães |
+| Rebordões (Santa Maria) |  |
+| Seara |  |
+| Serdedelo |  |
+| Rebordões (Souto) |  |
+| Bárrio e Cepões |  |
+| Cabaços e Fojo Lobal |  |
+| Cabração e Moreira do Lima |  |
+| Fornelos e Queijada |  |
+| Labrujó, Rendufe e Vilar do Monte |  |
+| Navió e Vitorino dos Piães |  |
 | Póvoa de Lanhoso | Covelas |
-| Póvoa de Lanhoso | Ferreiros |
-| Póvoa de Lanhoso | Galegos |
-| Póvoa de Lanhoso | Garfe |
-| Póvoa de Lanhoso | Geraz do Minho |
-| Póvoa de Lanhoso | Lanhoso |
-| Póvoa de Lanhoso | Póvoa de Lanhoso (Nossa Senhora do Amparo) |
-| Póvoa de Lanhoso | Rendufinho |
-| Póvoa de Lanhoso | São João de Rei |
-| Póvoa de Lanhoso | Serzedelo |
-| Póvoa de Lanhoso | Sobradelo da Goma |
-| Póvoa de Lanhoso | Taíde |
-| Póvoa de Lanhoso | Travassos |
-| Póvoa de Lanhoso | Vilela |
-| Póvoa de Lanhoso | União das Freguesias de Calvos e Frades |
-| Póvoa de Lanhoso | União das Freguesias de Esperança e Brunhais |
-| Póvoa de Lanhoso | União das Freguesias de Fonte Arcada e Oliveira |
-| Póvoa de Lanhoso | União das Freguesias de Verim, Friande e Ajude |
+| Ferreiros |  |
+| Galegos |  |
+| Garfe |  |
+| Geraz do Minho |  |
+| Lanhoso |  |
+| Póvoa de Lanhoso (Nossa Senhora do Amparo) |  |
+| Rendufinho |  |
+| São João de Rei |  |
+| Serzedelo |  |
+| Sobradelo da Goma |  |
+| Taíde |  |
+| Travassos |  |
+| Vilela |  |
+| União das Freguesias de Calvos e Frades |  |
+| União das Freguesias de Esperança e Brunhais |  |
+| União das Freguesias de Fonte Arcada e Oliveira |  |
+| União das Freguesias de Verim, Friande e Ajude |  |
 | Resende | Todas as freguesias |
 | Ribeira de Pena | Todas as freguesias |
 | Sabrosa | Todas as freguesias |
 | Santa Maria da Feira | Romariz |
-| Santa Maria da Feira | Canedo |
-| Santa Maria da Feira | Louredo |
-| Santa Maria da Feira | Vale |
+| Canedo |  |
+| Louredo |  |
+| Vale |  |
 | Santa Marta de Penaguião | Todas as freguesias |
 | São João da Pesqueira | Todas as freguesias |
 | Sernancelhe | Todas as freguesias |
@@ -756,15 +780,15 @@ Freguesias do Norte
 | Valongo | Valongo |
 | Valpaços | Todas as freguesias |
 | Viana do Castelo | Afife |
-| Viana do Castelo | Amonde |
-| Viana do Castelo | Areosa |
-| Viana do Castelo | Carreço |
-| Viana do Castelo | Freixieiro de Soutelo |
-| Viana do Castelo | Montaria |
-| Viana do Castelo | Outeiro |
-| Viana do Castelo | Perre |
-| Viana do Castelo | União das Freguesias de Nogueira, Meixedo e Vilar de Murteda |
-| Viana do Castelo | Carvoeiro |
+| Amonde |  |
+| Areosa |  |
+| Carreço |  |
+| Freixieiro de Soutelo |  |
+| Montaria |  |
+| Outeiro |  |
+| Perre |  |
+| União das Freguesias de Nogueira, Meixedo e Vilar de Murteda |  |
+| Carvoeiro |  |
 | Vieira do Minho | Todas as freguesias |
 | Vila Flor | Todas as freguesias |
 | Vila Nova de Cerveira | Todas as freguesias |
@@ -772,15 +796,19 @@ Freguesias do Norte
 | Vila Pouca de Aguiar | Todas as freguesias |
 | Vila Real | Todas as freguesias |
 | Vila Verde | Dossãos |
-| Vila Verde | Prado (São Miguel) |
-| Vila Verde | Valdreu |
-| Vila Verde | Aboim da Nóbrega e Gondomar |
-| Vila Verde | União das Freguesias da Ribeira do Neiva |
-| Vila Verde | União das Freguesias de Esqueiros, Nevogilde e Travassós |
-| Vila Verde | União das Freguesias de Oriz (Santa Marinha) e Oriz (São Miguel) |
-| Vila Verde | União das Freguesias de Pico de Regalados, Gondiães e Mós |
-| Vila Verde | União das Freguesias de Sande, Vilarinho, Barros e Gomide |
+| Prado (São Miguel) |  |
+| Valdreu |  |
+| Aboim da Nóbrega e Gondomar |  |
+| União das Freguesias da Ribeira do Neiva |  |
+| União das Freguesias de Esqueiros, Nevogilde e Travassós |  |
+| União das Freguesias de Oriz (Santa Marinha) e Oriz (São Miguel) |  |
+| União das Freguesias de Pico de Regalados, Gondiães e Mós |  |
+| União das Freguesias de Sande, Vilarinho, Barros e Gomide |  |
 |  | União das Freguesias de Valbom (São Pedro), Passô e Valbom (São Martinho) |
-|  | União das Freguesias do Vade |
+| União das Freguesias do Vade |  |
 | Vimioso | Todas as freguesias |
 | Vinhais | Todas as freguesias |
+
+119947629
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:18px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl8 { border-collapse:collapse; border-width:1px; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl11 { min-height:19px; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; }

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44624-1962-156670
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-10-12T00:00:00Z'
+  retrieved_at: '2026-10-22T19:31:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d137fe7d2cbd9a6a17b947fe1fb33c8b4248f0dd39c96a59ac4b44d3bfa398cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 543b65fcbc7f67c95aacc23f8e81b672026e815e0fa052f3f509fb961922a45d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:31:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:31:31Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +92,9 @@ Verificando-se a urgência prevista na alínea a) do n.º IV da base X da Lei Or
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São criadas três escolas técnicas elementares, localizadas em João Belo, em Tete e em Vila Cabral.
+Artigo 1.º São criadas três escolas técnicas elementares, localizadas em João Belo, em Tete e em Vila Cabral.
 
-###### Art. 2.º Cada uma das escolas a que se refere o artigo anterior terá o seguinte pessoal:
+Art. 2.º Cada uma das escolas a que se refere o artigo anterior terá o seguinte pessoal:
 
 a) Do quadro comum:
 
@@ -134,17 +134,17 @@ b) Assalariado:
 
 4 serventes de 3.ª classe (sendo 1 feminino).
 
-###### Art. 3.º Além do pessoal indicado no artigo anterior é criado o lugar de dactilógrafa para cada uma das escolas.
+Art. 3.º Além do pessoal indicado no artigo anterior é criado o lugar de dactilógrafa para cada uma das escolas.
 
-###### Art. 4.º São aplicáveis às Escolas Técnicas Elementares de João Belo, Tete e Vila Cabral as disposições legais vigentes sobre gratificação por exercício de cargos desempenhados pelos professores dessas escolas.
+Art. 4.º São aplicáveis às Escolas Técnicas Elementares de João Belo, Tete e Vila Cabral as disposições legais vigentes sobre gratificação por exercício de cargos desempenhados pelos professores dessas escolas.
 
-###### Art. 5.º (transitório). No ano lectivo de 1962-1963 os requerentes à matrícula nas Escolas Técnicas Elementares de João Belo, Tete e Vila Cabral são dispensados das provas de exame de admissão, substituindo-o a certidão de aprovação no exame da 4.ª classe do ensino primário ou habilitação equivalente.
+Art. 5.º (transitório). No ano lectivo de 1962-1963 os requerentes à matrícula nas Escolas Técnicas Elementares de João Belo, Tete e Vila Cabral são dispensados das provas de exame de admissão, substituindo-o a certidão de aprovação no exame da 4.ª classe do ensino primário ou habilitação equivalente.
 
-###### Art. 6.º O governador-geral de Moçambique fica desde já autorizado, observadas as disposições legais aplicáveis, a abrir os créditos especiais necessários para solver os encargos criados pelo presente decreto, incluindo os que se referem à instalação e apetrechamento das escolas, servindo de contrapartida disponibilidades ou recursos orçamentais.
+Art. 6.º O governador-geral de Moçambique fica desde já autorizado, observadas as disposições legais aplicáveis, a abrir os créditos especiais necessários para solver os encargos criados pelo presente decreto, incluindo os que se referem à instalação e apetrechamento das escolas, servindo de contrapartida disponibilidades ou recursos orçamentais.
 
-###### Art. 7.º Este decreto entra imediatamente em vigor.
+Art. 7.º Este decreto entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Outubro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

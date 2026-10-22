@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 75/1997, 2º Suplemento, Série I-B de 1997-03-31
   number: '75'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1424-(8) a 1424-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/03/075b02/00080013.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/6-q/1997/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/6-q-1997-602495
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-28T00:00:00Z'
+  retrieved_at: '2026-10-22T18:50:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1b9a65819ac887b5dcff8bf9f1c7581583865b4f9740297f3981964d6c6ffc4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 527311013e9e6da8a18853387437f860074c3c777c0980039150a5d5d9413407
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:50:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conservador
-- Serviços de Registo e Notariado
 - Emolumento do Notariado
-- Registos e Notariado
 - Registo Civil
+- Registos e Notariado
+- Serviços de Registo e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:583796:por
@@ -81,16 +81,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/184/1997/03/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/184/1997/03/17/p/dre
+- type: cites
+  target: pt:dre:517384:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:583796:por
+  label: "Rectificada pela DECL-RECT.10-H/97.1997.05.28.PCM, DR.IS-B [125]2ºSupl de 1997.05.31\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-h-1997-583796
+  date: '1997-05-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:50:09Z'
   warnings: []
   errors: []
 ---
@@ -177,10 +186,10 @@ No espaço em branco após anota c) das instruções à certidão de óbito, dev
 
 Após o modelo do verbete onomástico de nascimento deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/075b02/00080013.pdf))](https://files.diariodarepublica.pt/1s/1997/03/075b02/00080013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/075b02/00080013.pdf)
 
 Por conterem inexactidões várias, novamente se publica afrente dos modelos dos livros de assentos de nascimento, de declaração de maternidade e de perfilhação, casamento, óbito e de transcrições, bem como o modelo do auto de declaração de nascimento prestada em conservatória intermediária:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/075b02/00080013.pdf))](https://files.diariodarepublica.pt/1s/1997/03/075b02/00080013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/075b02/00080013.pdf)
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 31 de Março de 1997. - O Secretário-Geral, Alexandre Figueiredo.

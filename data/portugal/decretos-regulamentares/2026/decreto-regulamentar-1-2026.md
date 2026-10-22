@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/1/2026/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2026-1017369023
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-21T00:00:00Z'
+  retrieved_at: '2026-10-22T18:29:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88a8c114c97051d64b6f45c055935693894b550bf6efd5653ea567ca2e936b56
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c2836825c952a0858e8a3b16fc2ce6d23e7f7bc49e7ee2ecbb90ded974db25d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:29:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Conselho Consultivo
 - Definição de Competências
-- Regulamentação de Atos Legislativos
+- Direção Geral de Coordenação e Planeamento
 - Diretor Geral
 - Extinção de Serviços
 - Gabinete de Estratégia e Planeamento
-- Conselho Consultivo
 - Orgânica
+- Pessoal Dirigente
+- Regulamentação de Atos Legislativos
 - Segurança Social
 - Subdirector Geral
-- Direção Geral de Coordenação e Planeamento
 relationships:
+- type: amends
+  target: pt:numero:portaria:66/2021
+  label: A partir de 1 de fevereiro de 2026, nos termos do n.º 1 do artigo 14.º do presente diploma, a Direção-Geral da Solidariedade
+    e Segurança Social sucede nas atribuições previstas no artigo 16.º da Portaria n.º 66/2021, de 17 de março, Diário da
+    República n.º 53/2021, Série I
+  source: null
+  date: '2021-03-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/200/2006/10/25/p/dre
   label: null
@@ -102,16 +109,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/66/2021/03/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/66/2021/03/17/p/dre
+- type: cites
+  target: pt:dre:107094720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159614843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-regulamentar:24/2012
+  label: Revoga, a partir de 1 de fevereiro de 2026, nos termos do artigo 18.º do presente diploma, o Decreto Regulamentar
+    n.º 24/2012, de 13 de fevereiro, Diário da República n.º 31/2012, Série I
+  source: null
+  date: '2012-02-13'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:29:37Z'
   warnings: []
   errors: []
 ---
@@ -336,15 +373,15 @@ O presente decreto regulamentar entra em vigor no primeiro dia do mês seguinte 
 
 Visto e aprovado em Conselho de Ministros de 28 de novembro de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro - Rosário Palma Ramalho.
 
-**Promulgado em 2 de janeiro de 2026.**
+Promulgado em 2 de janeiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 5 de janeiro de 2026.**
+Referendado em 5 de janeiro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 12.º)
 
@@ -353,3 +390,7 @@ Visto e aprovado em Conselho de Ministros de 28 de novembro de 2025. - Luís Mon
 | Diretor-geral | Direção superior | 1.º | 1 |
 | Subdiretor-geral | Direção superior | 2.º | 2 |
 | Diretor de serviços | Direção intermédia | 1.º | 7 |
+
+119947335
+
+.Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-top-color:rgb(0,0,0); border-right-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-left-style:solid; border-right-width:1px; border-top-style:solid; vertical-align:middle; } .Tbl4 { text-align:justify; text-align-last:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { text-align:center; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-left-style:solid; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); vertical-align:middle; } .Tbl8 { min-height:18px; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; }

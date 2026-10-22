@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/04/07300/0000300003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/20/2025/04/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/20-2025-914891319
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-14T00:00:00Z'
+  retrieved_at: '2026-10-22T19:15:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf69384d3e239c0ee28a1b2908e17d7c6e95456fd473d5a6794e74145e61a7f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 585352355b0338df43598b148cbb3bfa89f1009f3a7be55c59f7d5b109c13d05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:15:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,8 +70,8 @@ subjects:
 - Acolhimento Familiar
 - Adopção
 - Comissão de Protecção de Crianças e Jovens
-- Criança
 - Comissão Nacional de Protecção das Crianças e Jovens em Risco
+- Criança
 - Direitos da Criança
 - Jovem
 - Menoridade
@@ -91,16 +91,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/2025/03/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/2025/03/31/p/dre
+- type: cites
+  target: pt:dre:124716448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:913048481:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:15:53Z'
   warnings: []
   errors: []
 ---
@@ -120,3 +132,5 @@ deve ler-se:
 «Segunda alteração ao [Decreto-Lei n.º 139/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2019-124716448), de 16 de setembro, que estabelece o regime de execução do acolhimento familiar, medida de promoção dos direitos e de proteção das crianças e jovens em perigo, revogando a impossibilidade de haver grau de parentesco e candidatura à adoção para os critérios de elegibilidade a família de acolhimento.»
 
 Assembleia da República, 9 de abril de 2025. - Em substituição da Secretária-Geral, a Adjunta da Secretária-Geral, Susana Martins.
+
+118934637

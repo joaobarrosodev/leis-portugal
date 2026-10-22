@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44151-1962-642679
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-01-11T00:00:00Z'
+  retrieved_at: '2026-10-22T19:27:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0a301eeb85a6ecd9291835f102e0ad6c1cf29dbc790bcb34937fbac2964e428
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ec1a56d15666b1c0d85a42aee196284d1abaa3dd34f647a19e07a037436faee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:27:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:27:50Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +94,9 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 Zona de protecção
 
-###### Artigo 1.º É estabelecida uma zona geral de protecção em volta do conjunto das instalações da base aérea n.º 11, em Beja, com a largura de 3 km, medidos em toda a extensão, a partir do perímetro da área ocupada por aquelas instalações. Esta zona está indicada na planta a que se refere o artigo 12.º do presente decreto.
+Artigo 1.º É estabelecida uma zona geral de protecção em volta do conjunto das instalações da base aérea n.º 11, em Beja, com a largura de 3 km, medidos em toda a extensão, a partir do perímetro da área ocupada por aquelas instalações. Esta zona está indicada na planta a que se refere o artigo 12.º do presente decreto.
 
-###### Art. 2.º Dentro da zona definida no artigo 1.º são estabelecidas duas zonas, designadas por «1.ª zona de protecção» e «2.ª zona de protecção».
+Art. 2.º Dentro da zona definida no artigo 1.º são estabelecidas duas zonas, designadas por «1.ª zona de protecção» e «2.ª zona de protecção».
 
 A 1.ª zona de protecção é constituída pela área, com a largura de 1 km, medido, em toda a extensão, a partir do perímetro da área ocupada pela base aérea.
 
@@ -100,7 +104,7 @@ A 2.ª zona de protecção é constituída pela parte restante da zona geral def
 
 Trabalhos e construções dentro das zonas de protecção
 
-###### Art. 3.º Na 1.ª zona de protecção, definida no artigo 2.º, é proibida, sem autorização prévia da autoridade militar competente, a execução dos trabalhos e actividades seguintes:
+Art. 3.º Na 1.ª zona de protecção, definida no artigo 2.º, é proibida, sem autorização prévia da autoridade militar competente, a execução dos trabalhos e actividades seguintes:
 
 a) Construções de qualquer natureza, mesmo que sejam enterradas, subterrâneas ou aquáticas;
 
@@ -120,7 +124,7 @@ h) Outros trabalhos ou actividades que possam inequìvocamente prejudicar a segu
 
 § único. A proibição exarada no corpo deste artigo não abrange as obras de conservação de edificações porventura existentes.
 
-###### Art. 4.º Na 2.ª zona de protecção, definida no artigo 2.º, serão permitidas as construções isoladas e outros trabalhos que não infrinjam o disposto no artigo 6.º, mas, sem autorização prévia da autoridade militar competente, são proibidos:
+Art. 4.º Na 2.ª zona de protecção, definida no artigo 2.º, serão permitidas as construções isoladas e outros trabalhos que não infrinjam o disposto no artigo 6.º, mas, sem autorização prévia da autoridade militar competente, são proibidos:
 
 a) Trabalhos de levantamento topográfico, fotográfico ou hidrográfico;
 
@@ -134,11 +138,11 @@ e) Outros trabalhos ou actividades que possam inequìvocamente prejudicar a segu
 
 Área de desobstrução
 
-###### Art. 5.º É estabelecida para o aeródromo da base aérea n.º 11, de Beja, uma superfície de desobstrução que abrangerá a área delimitada por um círculo com o raio de 5 km e o centro no ponto de referência (P. R.) do aeródromo, a qual se prolongará, segundo os eixos das pistas, por corredores com 2,5 km de largura e 10 km de comprimento, contados para um e outro lado, a partir do limite exterior do referido círculo.
+Art. 5.º É estabelecida para o aeródromo da base aérea n.º 11, de Beja, uma superfície de desobstrução que abrangerá a área delimitada por um círculo com o raio de 5 km e o centro no ponto de referência (P. R.) do aeródromo, a qual se prolongará, segundo os eixos das pistas, por corredores com 2,5 km de largura e 10 km de comprimento, contados para um e outro lado, a partir do limite exterior do referido círculo.
 
 Obstáculos dentro da área de desobstrução
 
-###### Art. 6.º A área de desobstrução definida no artigo 5.º é, para efeitos de contrôle da altura dos obstáculos fixos ou móveis nela existentes, dividida em zonas cujos limites vão indicados no mapa a que se refere o artigo 12.º do presente decreto e cujas cotas em relação ao nível médio das águas do mar são as seguintes:
+Art. 6.º A área de desobstrução definida no artigo 5.º é, para efeitos de contrôle da altura dos obstáculos fixos ou móveis nela existentes, dividida em zonas cujos limites vão indicados no mapa a que se refere o artigo 12.º do presente decreto e cujas cotas em relação ao nível médio das águas do mar são as seguintes:
 
 a) Corredores de acesso à pista:
 
@@ -168,25 +172,25 @@ Zona E - variável de 235 m a 340 m.
 
 Zona F (índice 1) - variável de 250 m a 340 m.
 
-###### Art. 7.º Dentro das zonas referidas no artigo 6.º não é permitida a existência de quaisquer plantações, estruturas, fios ou cabos aéreos e outros obstáculos, fixos ou móveis, cujas alturas excedam as cotas nela indicadas para as zonas em patamar ou as calculadas para as zonas de cota variável, considerando uniforme a variação destas dentro dos limites assinalados no mesmo artigo 6.º
+Art. 7.º Dentro das zonas referidas no artigo 6.º não é permitida a existência de quaisquer plantações, estruturas, fios ou cabos aéreos e outros obstáculos, fixos ou móveis, cujas alturas excedam as cotas nela indicadas para as zonas em patamar ou as calculadas para as zonas de cota variável, considerando uniforme a variação destas dentro dos limites assinalados no mesmo artigo 6.º
 
-###### Art. 8.º A construção de edifícios ou outros obstáculos que não excedam as cotas indicadas no artigo 7.º não carece de autorização prévia da autoridade militar competente, excepto se estiver abrangida pelo disposto nos artigos 3.º e 4.º deste decreto ou no caso de se tratar de chaminés, cabos de alta tensão, zona de urbanização ou centros industriais.
+Art. 8.º A construção de edifícios ou outros obstáculos que não excedam as cotas indicadas no artigo 7.º não carece de autorização prévia da autoridade militar competente, excepto se estiver abrangida pelo disposto nos artigos 3.º e 4.º deste decreto ou no caso de se tratar de chaminés, cabos de alta tensão, zona de urbanização ou centros industriais.
 
 Outras limitações
 
-###### Art. 9.º Além das restrições impostas nos artigos anteriores, referentes à área de desobstrução, ficam ainda proibidas, não podendo executar-se sem aprovação prévia da autoridade militar competente, todas as construções, instalações ou quaisquer trabalhos, dentro daquela área, que sejam susceptíveis de: criar interferências nas comunicações por rádio entre o aeródromo e os aviões; tornar difícil do ar a distinção entre as luzes do aeródromo e outras; provocar o encandeamento dos pilotos; produzir poeiras ou fumos que possam diminuir as condições de visibilidade na vizinhança do aeródromo; de qualquer modo prejudicar as aterragens, descolagens e manobra dos aviões.
+Art. 9.º Além das restrições impostas nos artigos anteriores, referentes à área de desobstrução, ficam ainda proibidas, não podendo executar-se sem aprovação prévia da autoridade militar competente, todas as construções, instalações ou quaisquer trabalhos, dentro daquela área, que sejam susceptíveis de: criar interferências nas comunicações por rádio entre o aeródromo e os aviões; tornar difícil do ar a distinção entre as luzes do aeródromo e outras; provocar o encandeamento dos pilotos; produzir poeiras ou fumos que possam diminuir as condições de visibilidade na vizinhança do aeródromo; de qualquer modo prejudicar as aterragens, descolagens e manobra dos aviões.
 
-###### Art. 10.º Dentro da área de desobstrução e nos corredores de aproximação das pistas, embora não se excedam as cotas dos obstáculos admitidas, são proibidos, sem autorização prévia, o estabelecimento de locais onde haja concentração de público e a construção de escolas, igrejas, hospitais, abarracamentos e aglomerados de habitações.
+Art. 10.º Dentro da área de desobstrução e nos corredores de aproximação das pistas, embora não se excedam as cotas dos obstáculos admitidas, são proibidos, sem autorização prévia, o estabelecimento de locais onde haja concentração de público e a construção de escolas, igrejas, hospitais, abarracamentos e aglomerados de habitações.
 
 Marcação e iluminação de obstáculos
 
-###### Art. 11.º Os proprietários ou utentes de quaisquer obstáculos existentes dentro das áreas abrangidas pelo presente decreto poderão ser obrigados a estabelecer, operar e manter à sua custa as marcas e luzes que se tornem necessárias para indicar aos pilotos dos aviões a presença desses obstáculos, se isso for imposto por razões de segurança aérea.
+Art. 11.º Os proprietários ou utentes de quaisquer obstáculos existentes dentro das áreas abrangidas pelo presente decreto poderão ser obrigados a estabelecer, operar e manter à sua custa as marcas e luzes que se tornem necessárias para indicar aos pilotos dos aviões a presença desses obstáculos, se isso for imposto por razões de segurança aérea.
 
 Plantas de servidão
 
-###### Art. 12.º As zonas de protecção e áreas referidas nos artigos 1.º, 2.º, 3.º e 4.º e, bem assim, a área de desobstrução e as zonas com as cotas permitidas, indicadas nos artigos 5.º e 6.º, estão delimitadas numa planta, elaborada na escala 1:25000.
+Art. 12.º As zonas de protecção e áreas referidas nos artigos 1.º, 2.º, 3.º e 4.º e, bem assim, a área de desobstrução e as zonas com as cotas permitidas, indicadas nos artigos 5.º e 6.º, estão delimitadas numa planta, elaborada na escala 1:25000.
 
-###### Art. 13.º Da planta anteriormente referida serão produzidas nove cópias com a classificação de confidencial, que terão os seguintes destinos:
+Art. 13.º Da planta anteriormente referida serão produzidas nove cópias com a classificação de confidencial, que terão os seguintes destinos:
 
 a) Uma para o Secretariado-Geral da Defesa Nacional;
 
@@ -202,22 +206,22 @@ f) Uma para cada uma das câmaras municipais dos concelhos cujos limites são af
 
 Autorizações e disposições diversas
 
-###### Art. 14.º A autorização da entidade militar competente, nos casos em que é exigida por este decreto, será requerida ao comandante da 1.ª região aérea, devendo o pedido ser acompanhado de uma planta com a localização da obra ou trabalhos que se pretende realizar, descrição do fim a que se destinam e os cortes ou alçados cotados, que permitam verificar a sua conformidade com as disposições estabelecidas.
+Art. 14.º A autorização da entidade militar competente, nos casos em que é exigida por este decreto, será requerida ao comandante da 1.ª região aérea, devendo o pedido ser acompanhado de uma planta com a localização da obra ou trabalhos que se pretende realizar, descrição do fim a que se destinam e os cortes ou alçados cotados, que permitam verificar a sua conformidade com as disposições estabelecidas.
 
 § 1.º Os projectos dos trabalhos a executar serão apreciados exclusivamente para os efeitos expressos no presente decreto.
 
 § 2.º Das decisões tomadas pelas autoridades militares poderá o interessado recorrer para o Secretário de Estado da Aeronáutica.
 
-###### Art. 15.º As câmaras municipais em cujas áreas administrativas se situam as zonas de servidão da base aérea n.º 11, de Beja, não poderão executar nem conceder licença para qualquer obra ou trabalho que, nos termos do presente decreto, necessite de autorização prévia, sem que esta tenha sido efectivamente concedida.
+Art. 15.º As câmaras municipais em cujas áreas administrativas se situam as zonas de servidão da base aérea n.º 11, de Beja, não poderão executar nem conceder licença para qualquer obra ou trabalho que, nos termos do presente decreto, necessite de autorização prévia, sem que esta tenha sido efectivamente concedida.
 
-###### Art. 16.º Nenhuma obra pública poderá ter execução nas zonas de servidão da base aérea n.º 11, de Beja, senão nos termos deste decreto, e depois de obtido o parecer favorável do comando da 1.ª região aérea nos casos em que esteja estabelecida a necessidade de autorização prévia.
+Art. 16.º Nenhuma obra pública poderá ter execução nas zonas de servidão da base aérea n.º 11, de Beja, senão nos termos deste decreto, e depois de obtido o parecer favorável do comando da 1.ª região aérea nos casos em que esteja estabelecida a necessidade de autorização prévia.
 
-###### Art. 17.º É da atribuição do comando da base aérea n.º 11, de Beja, velar pelo exacto cumprimento das disposições do presente decreto, bem como aplicar as sanções legais aos infractores daquelas disposições.
+Art. 17.º É da atribuição do comando da base aérea n.º 11, de Beja, velar pelo exacto cumprimento das disposições do presente decreto, bem como aplicar as sanções legais aos infractores daquelas disposições.
 
 § único. Das decisões tomadas poderão os interessados recorrer para o comandante da 1.ª região aérea e destas para o Secretário de Estado da Aeronáutica. Das decisões deste cabe recurso contencioso para o Supremo Tribunal Administrativo.
 
-###### Art. 18.º As restrições deste decreto não se aplicam às construções ou instalações já existentes ou iniciadas à data da sua publicação, desde que venham a ser concluídas dentro de um ano, mas a Secretaria de Estado da Aeronáutica poderá, quanto a estas últimas, proibir a sua continuação ou limitar o seu desenvolvimento, concedendo-se aos interessados a indemnização correspondente aos prejuízos por este facto sofridos.
+Art. 18.º As restrições deste decreto não se aplicam às construções ou instalações já existentes ou iniciadas à data da sua publicação, desde que venham a ser concluídas dentro de um ano, mas a Secretaria de Estado da Aeronáutica poderá, quanto a estas últimas, proibir a sua continuação ou limitar o seu desenvolvimento, concedendo-se aos interessados a indemnização correspondente aos prejuízos por este facto sofridos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 11 de Janeiro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Eduardo de Arantes e Oliveira - Carlos Gomes da Silva Ribeiro - Kaulza Oliveira de Arriaga.

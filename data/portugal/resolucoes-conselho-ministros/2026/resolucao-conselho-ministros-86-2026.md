@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/86/2026/05/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/86-2026-1124493232
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-20T00:00:00Z'
+  retrieved_at: '2026-10-22T18:41:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3cc2cd0a385e33006c95411e2eff0ca7d63f13a9790c90dbe45459c8db61fe6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd17cdd4800ff54b2c106c0bc087ce84dc53344eacc9d99ac5dce46e0d27c6b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:41:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comissão para o Acompanhamento dos Auxiliares da Justiça
 - Nomeação
 - Vogal
-- Comissão para o Acompanhamento dos Auxiliares da Justiça
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/77/2013/11/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/77/2013/11/21/p/dre
+- type: cites
+  target: pt:dre:503832:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:41:25Z'
   warnings: []
   errors: []
 ---
@@ -136,3 +140,5 @@ Técnica superior da Direção-Geral da Administração e do Emprego Público, d
 Inspetora na Inspeção-Geral do Ministério do Trabalho, Solidariedade e Segurança Social, de 2015 a 2018;
 
 Técnica superior no Instituto da Segurança Social, IP, de 2010 a 2015.
+
+119948552

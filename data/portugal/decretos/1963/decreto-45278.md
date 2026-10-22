@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45278-1963-686653
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-09-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:36:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b13f3b45a1dc7df8ce946fc267d6775396c8f2c7c52986a909929c17ed9eb59d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 512682ddfca2cb70206628e2b62f6783474dad4ddfe7d0a156e05aea3dd2b7c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:36:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:36:56Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +95,9 @@ Tendo em vista o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, o seguinte:
 
-###### Artigo 1.º Fica a Administração-Geral do Porto de Lisboa autorizada a celebrar contrato com a Sociedade de Empreitadas Moniz da Maia & Vaz Guedes, Lda., para execução da empreitada de ampliação da doca de Pedrouços, pela importância de 16815834$90, acrescida da quantia de 1584165$10, para ocorrer a eventuais aumentos das quantidades de trabalho previstas no projecto ou de encargos provenientes de possíveis alterações do mesmo projecto.
+Artigo 1.º Fica a Administração-Geral do Porto de Lisboa autorizada a celebrar contrato com a Sociedade de Empreitadas Moniz da Maia & Vaz Guedes, Lda., para execução da empreitada de ampliação da doca de Pedrouços, pela importância de 16815834$90, acrescida da quantia de 1584165$10, para ocorrer a eventuais aumentos das quantidades de trabalho previstas no projecto ou de encargos provenientes de possíveis alterações do mesmo projecto.
 
-###### Art. 2.º Seja qual for o valor das obras a realizar, não poderá a Administração-Geral do Porto de Lisboa ser obrigada a despender com pagamentos relativos a trabalhos executados por força do contrato mais de:
+Art. 2.º Seja qual for o valor das obras a realizar, não poderá a Administração-Geral do Porto de Lisboa ser obrigada a despender com pagamentos relativos a trabalhos executados por força do contrato mais de:
 
 Em 1963 ... 4000000$00
 
@@ -103,6 +107,6 @@ Em 1965 ... 4400000$00
 
 § único. Às importâncias fixadas para cada ano acrescem os saldos dos anos anteriores.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Setembro de 1963. - ANTÓNIO DE OLIVEIRA SALAZAR - António Manuel Pinto Barbosa - Carlos Gomes da Silva Ribeiro.

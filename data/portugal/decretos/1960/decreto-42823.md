@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/42823-1960-279261
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-01-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:17:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9d4ac587442b6d78d92fdadc768327671726a10b4cb55b5bb8295a859d99224
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff9502ee8dbb025024c76d20ba34fd60eececb26e461885bd94c81c11ceea115
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:17:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:17:11Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +90,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O artigo 162.º do Regulamento de Transportes em Automóveis passa a ter a seguinte redacção:
+Artigo 1.º O artigo 162.º do Regulamento de Transportes em Automóveis passa a ter a seguinte redacção:
 
-###### Art. 162.º - 1. O bilhete confere ao passageiro o direito a um lugar sentado no veículo que efectuar a carreira para que foi adquirido, salvo em carreiras urbanas, em que a Direcção-Geral. de Transportes Terrestres poderá permitir que alguns passageiros viagem de pé, em condições compatíveis com a sua segurança.
+Art. 162.º - 1. O bilhete confere ao passageiro o direito a um lugar sentado no veículo que efectuar a carreira para que foi adquirido, salvo em carreiras urbanas, em que a Direcção-Geral. de Transportes Terrestres poderá permitir que alguns passageiros viagem de pé, em condições compatíveis com a sua segurança.
 
 2. Consideram-se cativos para passageiros inválidos, doentes ou idosos e senhoras grávidas dois lugares, correspondentes aos primeiros bancos, a partir da entrada dos veículos com plataforma, utilizados em carreiras urbanas de transporte colectivo de passageiros. Estes lugares serão devidamente assinalados por meio de um letreiro com a seguinte indicação: «Reservado nos termos do Decreto n.º 42823».
 
@@ -100,8 +100,8 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 4. Os condutores dos veículos farão desocupar os aludidos lugares pela ordem de ocupação dos mesmos.
 
-###### Art. 2.º Este decreto entra em vigor no dia 1 de Abril de 1960.
+Art. 2.º Este decreto entra em vigor no dia 1 de Abril de 1960.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Janeiro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Carlos Gomes da Silva Ribeiro.

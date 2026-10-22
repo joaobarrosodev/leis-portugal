@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/06/11700/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/28/2025/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/28-2025-921942045
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-06-20T00:00:00Z'
+  retrieved_at: '2026-10-22T19:16:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 236a805b32e735ffdaf61ebe56b580005823cd16176dbb2be14c0680e1113ddc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a64491e64c89a01946503f00e0d91e2f50bbe7d751887d442769d37f544154a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:16:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/43/2004/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/43/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:480712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:920456235:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:declaracao:6/2025
+  label: Retifica a Declaração n.º 6/2025/1, de 4 de junho, Diário da República n.º 107/2025, Série I
+  source: null
+  date: '2025-06-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:16:00Z'
   warnings: []
   errors: []
 ---
@@ -106,3 +119,5 @@ deve ler-se:
 «Declara-se, nos termos da alínea c) do n.º 1 do artigo 3.º da [Lei n.º 43/2004](https://diariodarepublica.pt/dr/detalhe/lei/43-2004-480712), de 18 de agosto, que foi designado vogal da Comissão Nacional de Proteção de Dados, pelo Conselho Superior do Ministério Público, o Procurador-Geral Adjunto José Mário Nogueira da Costa, com efeitos a partir de 1 de setembro de 2025, em substituição da Procuradora-Geral Adjunta Maria da Conceição Diniz.»
 
 Assembleia da República, 6 de junho de 2025. - A Secretária-Geral, Anabela Cabral Ferreira.
+
+119198973

@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 25/2000, 1º Suplemento, Série I-A de 2000-01-31
   number: '25'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 430-(4) a 430-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/01/025a01/00040005.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/4-i/2000/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-i-2000-596731
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-21T00:00:00Z'
+  retrieved_at: '2026-10-22T18:56:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c5c94d2ee0216b991f86b2acf8d7c6508933df7bca9f2c80629f794a9acf898
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c09acf745be78279d0c52b4877c710cb51f971c575e071c9b44cad93833fa7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:56:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,35 +67,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Álcool
 - Armazenagem
-- Região Autónoma
 - Bebida Alcoólica
 - CE Países
 - Código dos Impostos Especiais de Consumo
-- Imposto Especial sobre o Álcool
-- Imposto Especial sobre o Consumo de Tabaco
-- Imposto sobre Produtos Petrolíferos
-- Vinho
-- Política Fiscal
-- Álcool
-- SELO Fiscal
+- Comércio
+- Embalagem
+- Exportação
 - Fiscalização
-- Pagamento
+- Imposto Especial sobre o Álcool
 - Imposto Especial sobre o Consumo
 - Imposto Especial sobre o Consumo de Bebidas Alcoólicas
+- Imposto Especial sobre o Consumo de Tabaco
+- Imposto sobre Produtos Petrolíferos
 - Infracção Fiscal
 - Isenção Fiscal
-- Embalagem
+- Mercadoria
+- Pagamento
 - Pagamento a Prestações
+- Política Fiscal
 - Preço Máximo
-- Exportação
 - Produção
 - Reembolso
+- Região Autónoma
 - Regime Fiscal
-- Mercadoria
+- SELO Fiscal
 - Taxa
-- Comércio
 - TEOR Álcoolico
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:335474:por
@@ -113,16 +113,23 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/566/1999/12/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/566/1999/12/22/p/dre
+- type: repealed_by
+  target: pt:dre:335474:por
+  label: "Revogado, a partir de 21.07.2010, e com excepção dos arts 32.º a 36.º do Código dos Impostos Especiais de Consumo,\
+    \ os quais se mantêm em vigor até 31.12.2010, o Dec Lei 566/99, de 22-Dez, rectificado pela presente declaração, pelo\
+    \ DEC LEI.73/2010.21.06.2010.MFAP, DR.IS [118] de 21.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-2010-335474
+  date: '2010-06-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:56:02Z'
   warnings: []
   errors: []
 ---

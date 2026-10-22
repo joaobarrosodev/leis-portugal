@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 201/1994, 2º Suplemento, Série I-B de 1994-08-31
   number: '201'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 5058-(9) a 5058-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/08/201b02/00090010.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/133/1994/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/133-1994-305606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-08-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:40:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8959bea0e3b1993f3fc30440c7f5b39dcd7a0d78e2306b1f512f5ef7e4ead5b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39cf22a9366b8d1f99fd5f72e9765c3c886acc90669a4524fa5301abf1ab042f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:40:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,52 +67,56 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alteração Orçamental
-- Ministério da Defesa Nacional
 - Ministério da Administração Interna
 - Ministério da Agricultura
-- Ministério do Planeamento e da Administração do Território
-- Ministério das Obras Públicas Transportes e Comunicações
-- Ministério das Finanças
+- Ministério da Defesa Nacional
 - Ministério da Justiça
-- Ministério do Ambiente e Recursos Naturais
 - Ministério da Saúde
+- Ministério das Finanças
+- Ministério das Obras Públicas Transportes e Comunicações
+- Ministério do Ambiente e Recursos Naturais
+- Ministério do Planeamento e da Administração do Território
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decl/90/1994/08/05/p/dre
   label: null
   source: http://data.dre.pt/eli/decl/90/1994/08/05/p/dre
+- type: cites
+  target: pt:dre:223261:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:40:26Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 133/94
+# Declaração de rectificação n.º 133/94
 
 Segundo comunicação do Ministério das Finanças (14.ª Delegação da Direcção-Geral da Contabilidade Pública), a [Declaração n.º 90/94](https://diariodarepublica.pt/dr/detalhe/declaracao/90-1994-223261), publicada no Diário da República, n.º 180, de 5 de Agosto de 1994, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 
 Em «02 - Ministério da Defesa Nacional», onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/08/201b02/00090010.pdf))](https://files.diariodarepublica.pt/1s/1994/08/201b02/00090010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/08/201b02/00090010.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/08/201b02/00090010.pdf))](https://files.diariodarepublica.pt/1s/1994/08/201b02/00090010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/08/201b02/00090010.pdf)
 
 Em «10 - Ministério do Planeamento e da Administração do Território», onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/08/201b02/00090010.pdf))](https://files.diariodarepublica.pt/1s/1994/08/201b02/00090010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/08/201b02/00090010.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/08/201b02/00090010.pdf))](https://files.diariodarepublica.pt/1s/1994/08/201b02/00090010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/08/201b02/00090010.pdf)
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 24 de Agosto de 1994. - Pelo Secretário-Geral, a Directora dos Serviços de Documentação e Relações Públicas, Maria Guiomar Cruz.

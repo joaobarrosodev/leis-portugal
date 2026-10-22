@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/10/2026/06/05/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2026-1129514958
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-05T00:00:00Z'
+  retrieved_at: '2026-10-22T18:43:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eeef414d53f9ad51cdefa58a89ac50c05f81b0bd21a2becdde1759bf753279db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1bef6a9ca05116f2c5b98d565225b77c176ac9d159153e52c99401574126c4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:43:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
+- Assembleia Legislativa
 - Assembleia Legislativa Regional
 - Cidadão Nacional
 - Comissão
 - Iniciativa Legislativa
-- Assembleia Legislativa
 - Presidente da Assembleia Legislativa Regional
+- Região Autónoma
 - Região Autónoma da Madeira
 relationships:
 - type: cites
@@ -90,16 +90,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-legislativo-regional:23/2000/M
+  label: Revoga, a partir de 6 de junho de 2026, o Decreto Legislativo Regional n.º 23/2000/M, de 1 de setembro, Diário da
+    República n.º 202/2000, Série I-A
+  source: null
+  date: '2000-09-01'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:43:11Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +142,7 @@ O presente diploma visa conferir ao regime uma estrutura normativa mais clara e 
 
 Trata-se, em suma, de um passo no reforço da relação entre os cidadãos e as instituições autonómicas, contribuindo para uma maior abertura do processo legislativo à participação cívica, e prosseguindo o caminho de aperfeiçoamento da democracia autonómica, no reconhecimento de que a qualidade do sistema democrático se constrói através da permanente qualificação das suas instituições.
 
-Assim, a Assembleia Legislativa da Região Autónoma da Madeira, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º, no n.º 1 do artigo 228.º e no n.º 1 do artigo 232.º da Constituição da República Portuguesa, na alínea c) do n.º 1 do artigo 37.º, na alínea vv) do artigo 40.º, no n.º 1 do artigo 41.º e no n.º 1 do artigo 44.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, decreta o seguinte:
+Assim, a Assembleia Legislativa da Região Autónoma da Madeira, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º, no n.º 1 do artigo 228.º e no n.º 1 do artigo 232.º da Constituição da República Portuguesa, na alínea c) do n.º 1 do artigo 37.º, na alínea vv) do artigo 40.º, no n.º 1 do artigo 41.º e no n.º 1 do artigo 44.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, decreta o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -186,13 +208,13 @@ a) Tratar matérias não incluídas no seu objeto legal;
 
 b) Não respeitar os limites consignados no artigo 4.º;
 
-c) Não cumprir os requisitos previstos nos n.<sup>os</sup>1 e 2 do artigo 6.º
+c) Não cumprir os requisitos previstos nos n.os1 e 2 do artigo 6.º
 
 2 - No prazo de 20 dias a contar da data de receção da iniciativa, o Presidente da Assembleia Legislativa comunica à comissão representativa dos cidadãos subscritores, à Assembleia Legislativa e ao Governo Regional a decisão de admissão, rejeição ou para serem supridas as deficiências encontradas.
 
 3 - Nos casos previstos na alínea c) do n.º 1, a comissão representativa dos cidadãos subscritores deve, no prazo máximo de 10 dias a contar da receção da notificação a que se refere o número anterior, suprir as deficiências encontradas.
 
-4 - Da decisão de não admissão cabe recurso para o Plenário da Assembleia Legislativa, nos termos do disposto nos n.<sup>os</sup>2 e 3 do artigo 139.º do Regimento da Assembleia Legislativa da Região Autónoma da Madeira (doravante abreviadamente designado por Regimento), com as devidas adaptações, podendo o requerimento ser apresentado também pela comissão representativa dos cidadãos subscritores.
+4 - Da decisão de não admissão cabe recurso para o Plenário da Assembleia Legislativa, nos termos do disposto nos n.os2 e 3 do artigo 139.º do Regimento da Assembleia Legislativa da Região Autónoma da Madeira (doravante abreviadamente designado por Regimento), com as devidas adaptações, podendo o requerimento ser apresentado também pela comissão representativa dos cidadãos subscritores.
 
 ###### Artigo 9.º — Apreciação em comissão
 
@@ -204,7 +226,7 @@ c) Não cumprir os requisitos previstos nos n.<sup>os</sup>1 e 2 do artigo 6.º
 
 1 - Recebido o parecer da comissão ou esgotado o prazo referido no n.º 1 do artigo anterior, o Presidente da Assembleia Legislativa promove o agendamento da iniciativa para uma das reuniões plenárias seguintes.
 
-2 - A comissão representativa dos cidadãos subscritores pode fixar o agendamento de uma reunião plenária para discussão da iniciativa legislativa apresentada, durante cada sessão legislativa, sendo aplicado com as devidas adaptações o previsto nos n.<sup>os</sup>2 a 5 do artigo 71.º do Regimento.
+2 - A comissão representativa dos cidadãos subscritores pode fixar o agendamento de uma reunião plenária para discussão da iniciativa legislativa apresentada, durante cada sessão legislativa, sendo aplicado com as devidas adaptações o previsto nos n.os2 a 5 do artigo 71.º do Regimento.
 
 3 - A comissão representativa dos cidadãos subscritores é sempre notificada da data da reunião e pode participar, nos termos do Regimento.
 
@@ -238,10 +260,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 7 de maio de 2026.
 
-**A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.**
+A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.
 
-**Assinado em 1 de junho de 2026.**
+Assinado em 1 de junho de 2026.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Paulo Duarte Barreto Ferreira.
+
+119948702

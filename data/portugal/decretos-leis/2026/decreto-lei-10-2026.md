@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/10/2026/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2026-1017369016
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-21T00:00:00Z'
+  retrieved_at: '2026-10-22T18:29:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c30bdf1e086614a10da3b3d796a2b7a46bc3437c82adc6c9d1faab3311148945
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e67cb6d65c36885a6b9a5f34240616aca8b2fe739d8680305ad3cab5a4548830
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:29:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autoridade para as Condições do Trabalho
+- CEJURE
+- Centro Jurídico do Estado
+- Direção Geral de Coordenação e Planeamento
 - Direção Geral do Livro dos Arquivos e das Bibliotecas
+- Entidade de Serviços Partilhados da Administração Pública
 - Estamo-participações Imobiliárias
 - Extinção de Serviços
-- Secretaria Geral
-- Entidade de Serviços Partilhados da Administração Pública
 - Ministério do Trabalho Solidariedade e Segurança Social
-- Autoridade para as Condições do Trabalho
+- Secretaria Geral
 - Secretaria-Geral do Governo
-- Centro Jurídico do Estado
-- CEJURE
-- Direção Geral de Coordenação e Planeamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/200/2006/10/25/p/dre
@@ -101,16 +101,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:107094720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-regulamentar:21/2012
+  label: Revoga, a partir de 22 de janeiro de 2026, o Decreto Regulamentar n.º 21/2012, de 8 de fevereiro, Diário da República
+    n.º 28/2012, Série I
+  source: null
+  date: '2012-02-08'
 article_structure:
   article_count: 25
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:29:27Z'
   warnings: []
   errors: []
 ---
@@ -261,7 +291,7 @@ iii) Gerir o património imobiliário, através da Unidade de Gestão Patrimonia
 
 3 - Os trabalhadores são reafetos aos serviços e entidades integradores com efeitos à data do despacho do dirigente máximo desses serviços e entidades e dos coordenadores executivos responsáveis pelo processo de fusão da SGMTSSS.
 
-4 - Com exceção das situações previstas nos n.<sup>os</sup>3 e 5 do artigo 14.º do presente decreto-lei, o disposto no n.º 1 determina a integração dos trabalhadores em postos de trabalho não ocupados ou a prever no mapa de pessoal dos serviços e entidades integradores.
+4 - Com exceção das situações previstas nos n.os3 e 5 do artigo 14.º do presente decreto-lei, o disposto no n.º 1 determina a integração dos trabalhadores em postos de trabalho não ocupados ou a prever no mapa de pessoal dos serviços e entidades integradores.
 
 #### SECÇÃO II — CRITÉRIOS DE SELEÇÃO DE PESSOAL
 
@@ -351,7 +381,7 @@ São fixados como critérios gerais e abstratos de seleção de pessoal necessá
 
 8 - Os termos e condições do contrato de trabalho a celebrar são os vigentes na ESTAMO, S. A., em obediência à legislação e instrumentos de regulamentação coletiva em vigor.
 
-9 - A cessação do vínculo do contrato de trabalho em funções públicas, para os trabalhadores que optarem pela celebração de contrato de trabalho, nos termos dos n.<sup>os</sup>6, 7 e 8, torna-se efetiva com a sua publicação na 2.ª série do Diário da República.
+9 - A cessação do vínculo do contrato de trabalho em funções públicas, para os trabalhadores que optarem pela celebração de contrato de trabalho, nos termos dos n.os6, 7 e 8, torna-se efetiva com a sua publicação na 2.ª série do Diário da República.
 
 10 - Relativamente aos trabalhadores que não tenham optado pelo regime do contrato de trabalho e que mantenham o regime de proteção social convergente, a ESTAMO, S. A., assegura o pagamento das contribuições a título de entidade empregadora para a Caixa Geral de Aposentações, I. P., e suporta as despesas devidas à Direção-Geral de Proteção Social aos Trabalhadores em Funções Públicas, quando aplicável.
 
@@ -457,12 +487,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de novembro de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro - Rosário Palma Ramalho.
 
-**Promulgado em 2 de janeiro de 2026.**
+Promulgado em 2 de janeiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 5 de janeiro de 2026.**
+Referendado em 5 de janeiro de 2026.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119947334

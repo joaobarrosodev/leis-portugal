@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/06/11800/0000300025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/5/2022/06/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/5-2022-184965300
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-06-21T00:00:00Z'
+  retrieved_at: '2026-10-22T17:54:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 045a63b83567e63add6bfff91f94f9434377edf6a8f223f297a3d1ff3a41800c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7599d8bc18532af7a8349edcd58cbe568757f18c531d8fdd7209234bb1e96883
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:54:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,22 @@ reuse:
 subjects:
 - Acesso ao Direito
 - Advogado
-- Jurisdição
+- Cobrança de Dívidas
 - Competência Jurisdicional
+- Contratação Pública
 - Contrato Administrativo
 - Contrato de Prestação de Serviços
 - Empresa Pública
 - Injunção
 - Interpretação do Direito
+- Jurisdição
 - Jurisprudencia
 - Processo Administrativo
 - Processo Administrativo Contencioso
-- Cobrança de Dívidas
 - Processo de Execução
 - Tribunal Administrativo
 - Tribunal Administrativo e Fiscal
 - Tribunal Judicial
-- Contratação Pública
 relationships:
 - type: cites
   target: celex:32004L0017
@@ -125,16 +125,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/62/2013/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/62/2013/08/26/p/dre
+- type: cites
+  target: pt:dre:108086621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70236273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70423756:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:54:29Z'
   warnings: []
   errors: []
 ---
@@ -712,3 +748,5 @@ Custas pela A. («Z... e Associados, Sociedade de Advogados, R.I.»).
 Notifique e oportunamente remeta certidão do acórdão para publicação na 1.ª série do Diário da República.
 
 Lisboa, 26 de abril de 2022. - António Barateiro Martins (relator) - Fernando Baptista de Oliveira - José Manuel Cabrita Vieira e Cunha - Luís Filipe Castelo Branco do Espírito Santo - Jorge Manuel Arcanjo Rodrigues - António Isaías Pádua - Nuno Ataíde das Neves - António José Ferraz de Freitas Neto - Ana Maria Resende - Ana Paula Lobo - Maria dos Prazeres Beleza - Ana Paula Boularot - Maria Clara Sottomayor - Manuel Tomé Soares Gomes - José Rainho - Maria da Graça Trigo - Pedro de Lima Gonçalves - Maria Rosa Oliveira Tching - Fátima Gomes - Graça Amaral - Maria Olinda Garcia - Oliveira Abreu - Maria João Vaz Tomé - Nuno Manuel Pinto de Oliveira - António Magalhães - Ricardo Alberto Santos Costa - Fernando Jorge Dias - Rijo Ferreira - José Maria Ferreira Lopes - João Cura Mariano - Manuel Capelo - Tibério Nunes da Silva.
+
+115409176

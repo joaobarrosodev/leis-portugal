@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/144/2026/06/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/144-2026-1131112491
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-11T00:00:00Z'
+  retrieved_at: '2026-10-22T18:43:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5bc608266a036adc2942746b4b9d7d7345240b767e61d438cb6418e17068e460
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9937eb2d13db097c7d6c8f5d326ebcd4afd35585991d3a954917257852ec2e67
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:43:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Bruxelas
 - CE Países
-- Política Fiscal
 - Convenção
 - Cooperação Aduaneira
-- Política de Cooperação
-- União Europeia
 - Cooperação Económica
 - Cooperação Judiciária
 - Cooperação Política
+- Política de Cooperação
 - Política Económica e Social Comum
-- Bruxelas
+- Política Fiscal
+- União Europeia
 - Uzbequistão
 relationships:
 - type: cites
@@ -153,14 +153,14 @@ relationships:
   source: http://data.europa.eu/
 article_structure:
   article_count: 373
-  section_count: 73
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 74
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:43:25Z'
   warnings: []
   errors: []
 ---
@@ -173,7 +173,7 @@ A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Con
 
 Aprovada em 10 de abril de 2026.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar-Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar-Branco.
 
 Acordo de Parceria e Cooperação Reforçadas entre a União Europeia e os Seus Estados-Membros, por um lado, e a República do Usbequistão, por outro
 
@@ -397,7 +397,7 @@ b) Cada Estado-Membro aceita readmitir os seus nacionais que não preencham ou t
 
 c) Os Estados-Membros e a República do Usbequistão emitem aos respetivos nacionais os documentos de viagem adequados para o efeito no prazo de 30 dias a contar da data de apresentação, inclusive por via eletrónica, do pedido de readmissão pela Parte requerente, redigido em conformidade com o modelo que consta do anexo 3 (incluindo, se possível, os documentos comprovativos da nacionalidade).
 
-Se o documento de viagem não for emitido dentro desse prazo, as Partes podem utilizar o «documento de viagem europeu para o regresso dos nacionais de países terceiros em situação irregular», tal como estabelecido no anexo do [Regulamento (UE) 2016/1953](https://data.europa.eu/eli/reg/2016/1953/oj?locale=pt) do Parlamento Europeu e do Conselho<sup>1</sup> ou um documento de viagem similar da República do Usbequistão.
+Se o documento de viagem não for emitido dentro desse prazo, as Partes podem utilizar o «documento de viagem europeu para o regresso dos nacionais de países terceiros em situação irregular», tal como estabelecido no anexo do [Regulamento (UE) 2016/1953](https://data.europa.eu/eli/reg/2016/1953/oj?locale=pt) do Parlamento Europeu e do Conselho1 ou um documento de viagem similar da República do Usbequistão.
 
 Se a pessoa a readmitir não possuir documentos ou outro comprovativo da sua nacionalidade, as representações diplomáticas e consulares competentes do Estado-Membro em causa ou da República do Usbequistão prestam, a pedido da República do Usbequistão ou do Estado-Membro em causa, toda a cooperação necessária para determinar a nacionalidade dessa pessoa.
 
@@ -527,9 +527,9 @@ g) «GATT de 1994», o Acordo Geral sobre Pautas Aduaneiras e Comércio de 1994 
 
 h) «GATS», o Acordo Geral sobre o Comércio de Serviços constante do anexo 1B do Acordo OMC;
 
-i) «Medida», qualquer medida, sob a forma de lei, regulamentação, regra, procedimento, decisão, ação administrativa ou qualquer outra forma<sup>2</sup>;
+i) «Medida», qualquer medida, sob a forma de lei, regulamentação, regra, procedimento, decisão, ação administrativa ou qualquer outra forma2;
 
-j) «Medidas adotadas por uma Parte», as medidas adotadas ou mantidas em vigor por:<sup>3</sup>
+j) «Medidas adotadas por uma Parte», as medidas adotadas ou mantidas em vigor por:3
 
 i) Administrações ou autoridades públicas centrais, regionais ou locais; e
 
@@ -749,7 +749,7 @@ As Partes concedem-se mutuamente a isenção de encargos e direitos de importaç
 
 3 - A pedido de uma das Partes, a outra Parte presta sem tardar as informações pertinentes, incluindo as referidas no artigo 5.º, n.º 2, do Acordo sobre os Procedimentos em Matéria de Licenças de Importação, sobre qualquer procedimento em matéria de licenças de importação que tencione adotar, tenha adotado ou mantenha em vigor, bem como sobre eventuais alterações dos procedimentos em vigor em matéria de licenças de importação.
 
-###### Artigo 44.º — Procedimentos em matéria de licenças de exportação<sup>4</sup>
+###### Artigo 44.º — Procedimentos em matéria de licenças de exportação4
 
 1 - Cada Parte publica qualquer novo procedimento em matéria de licenças de exportação, ou qualquer alteração de um procedimento desse tipo já existente, de um modo que permita que os governos, os comerciantes e as outras partes interessadas dele possam tomar conhecimento. Essa publicação deve ter lugar, sempre que possível, o mais tardar 45 dias antes de um novo procedimento em matéria de licenças de exportação ou qualquer alteração de um procedimento desse tipo já existente produzirem efeitos e, em qualquer caso, o mais tardar na data em que esse procedimento ou alteração produzir efeitos.
 
@@ -777,7 +777,7 @@ i) As eventuais isenções ou derrogações do requisito de obtenção de uma li
 
 ###### Artigo 45.º — Comércio de materiais nucleares
 
-A cooperação em matéria de trocas comerciais de material nuclear é regida pelo Acordo de cooperação entre a Comunidade Europeia da Energia Atómica (Euratom) e o Governo da República do Usbequistão no domínio das utilizações pacíficas da energia nuclear<sup>5</sup>, celebrado em Bruxelas em de 6 de outubro de 2003.
+A cooperação em matéria de trocas comerciais de material nuclear é regida pelo Acordo de cooperação entre a Comunidade Europeia da Energia Atómica (Euratom) e o Governo da República do Usbequistão no domínio das utilizações pacíficas da energia nuclear5, celebrado em Bruxelas em de 6 de outubro de 2003.
 
 ### CAPÍTULO 3 — VIAS DE RECURSO EM MATÉRIA COMERCIAL
 
@@ -807,7 +807,7 @@ Salvaguardas multilaterais
 
 3 - Para efeitos do presente artigo, considera-se que uma Parte tem um interesse económico considerável se figurar entre os cinco maiores fornecedores do produto importado durante o período de três anos imediatamente anterior à data de início do inquérito de salvaguarda, em termos de volume ou de valor absolutos.
 
-4 - Não obstante o disposto nos n.<sup>os</sup>2, 3 e 5, mediante pedido da outra Parte, a Parte que tiver dado início ao inquérito de salvaguarda e que tenciona aplicar medidas de salvaguarda deve:
+4 - Não obstante o disposto nos n.os2, 3 e 5, mediante pedido da outra Parte, a Parte que tiver dado início ao inquérito de salvaguarda e que tenciona aplicar medidas de salvaguarda deve:
 
 a) Transmitir imediatamente por escrito à outra Parte todas as informações pertinentes que tenham levado ao início do inquérito de salvaguarda e à instituição de medidas de salvaguarda, incluindo, se for caso disso, informações sobre o início do inquérito, assim como sobre as suas conclusões provisórias e finais; e
 
@@ -965,7 +965,7 @@ a) Limita as taxas de avaliação da conformidade ao custo aproximado dos servi�
 
 b) Divulga ao público as taxas cobradas pela avaliação da conformidade.
 
-6 - Não obstante o disposto nos n.<sup>os</sup>2 a 5, as Partes aceitam a declaração de conformidade de um fornecedor como prova do cumprimento dos regulamentos técnicos em vigor nos domínios e em conformidade com as modalidades práticas especificadas no anexo 5-B.
+6 - Não obstante o disposto nos n.os2 a 5, as Partes aceitam a declaração de conformidade de um fornecedor como prova do cumprimento dos regulamentos técnicos em vigor nos domínios e em conformidade com as modalidades práticas especificadas no anexo 5-B.
 
 ###### Artigo 58.º — Cooperação no domínio dos obstáculos técnicos ao comércio
 
@@ -1061,7 +1061,7 @@ f) Atividades relacionadas com a normalização; e
 
 g) Intercâmbio de funcionários.
 
-4 - A União Europeia pode facultar à República do Usbequistão informações selecionadas do seu sistema de alerta rápido respeitantes a produtos de consumo, como previsto na [Diretiva 2001/95/CE](https://data.europa.eu/eli/dir/2001/95/oj?locale=pt) do Parlamento Europeu e do Conselho<sup>6</sup>, ou do ato jurídico que lhe suceder, e a República do Usbequistão pode facultar à União Europeia informações pertinentes sobre a segurança de produtos de consumo não alimentares e sobre medidas preventivas, restritivas e corretivas adotadas em relação a produtos de consumo, como previsto na legislação pertinente da República do Usbequistão. O intercâmbio de informações pode assumir a forma de:
+4 - A União Europeia pode facultar à República do Usbequistão informações selecionadas do seu sistema de alerta rápido respeitantes a produtos de consumo, como previsto na [Diretiva 2001/95/CE](https://data.europa.eu/eli/dir/2001/95/oj?locale=pt) do Parlamento Europeu e do Conselho6, ou do ato jurídico que lhe suceder, e a República do Usbequistão pode facultar à União Europeia informações pertinentes sobre a segurança de produtos de consumo não alimentares e sobre medidas preventivas, restritivas e corretivas adotadas em relação a produtos de consumo, como previsto na legislação pertinente da República do Usbequistão. O intercâmbio de informações pode assumir a forma de:
 
 a) Intercâmbio pontual, nos casos devidamente justificados, com exceção de dados pessoais; ou
 
@@ -1069,11 +1069,11 @@ b) Intercâmbio sistemático, com base num acordo estabelecido por decisão do C
 
 5 - O Comité de Cooperação pode estabelecer, no anexo 5-D, um acordo sobre o intercâmbio periódico de informações, incluindo por meios eletrónicos, sobre as medidas adotadas em relação a produtos não alimentares não conformes, com exceção das informações abrangidas pelo n.º 4.
 
-6 - As Partes utilizam as informações obtidas ao abrigo dos n.<sup>os</sup>3, 4 e 5 exclusivamente para proteger os consumidores, a saúde, a segurança ou o ambiente.
+6 - As Partes utilizam as informações obtidas ao abrigo dos n.os3, 4 e 5 exclusivamente para proteger os consumidores, a saúde, a segurança ou o ambiente.
 
-7 - Cada Parte trata confidencialmente as informações obtidas ao abrigo dos n.<sup>os</sup>3, 4 e 5.
+7 - Cada Parte trata confidencialmente as informações obtidas ao abrigo dos n.os3, 4 e 5.
 
-8 - Os acordos a que se referem os n.<sup>os</sup>4 e 5 devem especificar o tipo de informações a trocar, as modalidades práticas de intercâmbio e a aplicação das regras de confidencialidade e de proteção de dados pessoais. O Comité de Cooperação tem competência para adotar decisões, a fim de determinar ou alterar os acordos estabelecidos nos anexos 5-C e 5-D.
+8 - Os acordos a que se referem os n.os4 e 5 devem especificar o tipo de informações a trocar, as modalidades práticas de intercâmbio e a aplicação das regras de confidencialidade e de proteção de dados pessoais. O Comité de Cooperação tem competência para adotar decisões, a fim de determinar ou alterar os acordos estabelecidos nos anexos 5-C e 5-D.
 
 9 - Para efeitos do presente capítulo, entende-se por «fiscalização do mercado» as atividades levadas a cabo e as medidas adotadas por autoridades públicas, incluindo as adotadas em cooperação com os agentes económicos, com base em procedimentos de uma Parte para permitir à mesma acompanhar ou analisar a segurança dos produtos e a sua conformidade com os requisitos previstos nas respetivas disposições legislativas e regulamentares. No que se refere à República do Usbequistão, entende-se por «agente económico» o fabricante, representante autorizado, importador ou vendedor.
 
@@ -1113,7 +1113,7 @@ d) Trocar informação sobre os progressos registados no âmbito de instâncias 
 
 ###### Artigo 64.º — Período de transição
 
-No que respeita à República do Usbequistão, o artigo 55.º, n.<sup>os</sup>3, 6 e 7, o artigo 56.º, n.º 1, alíneas b) e c), o artigo 57.º, n.º 3, alíneas b) e d), e o artigo 57.º, n.º 5, assim como o anexo 5-B, serão aplicáveis cinco anos após a data de entrada em vigor do presente Acordo.
+No que respeita à República do Usbequistão, o artigo 55.º, n.os3, 6 e 7, o artigo 56.º, n.º 1, alíneas b) e c), o artigo 57.º, n.º 3, alíneas b) e d), e o artigo 57.º, n.º 5, assim como o anexo 5-B, serão aplicáveis cinco anos após a data de entrada em vigor do presente Acordo.
 
 ### CAPÍTULO 6 — QUESTÕES SANITÁRIAS E FITOSSANITÁRIAS
 
@@ -1227,7 +1227,7 @@ c) Assegurar um nível adequado e efetivo de proteção e aplicação efetiva do
 
 ###### Artigo 77.º — Tratamento nacional
 
-1 - No que respeita aos direitos de propriedade intelectual abrangidos pelo presente capítulo, cada Parte concede aos nacionais da outra Parte um tratamento não menos favorável do que o concedido aos seus próprios nacionais no que respeita à proteção<sup>7</sup> dos direitos de propriedade intelectual, sob reserva das derrogações previstas:
+1 - No que respeita aos direitos de propriedade intelectual abrangidos pelo presente capítulo, cada Parte concede aos nacionais da outra Parte um tratamento não menos favorável do que o concedido aos seus próprios nacionais no que respeita à proteção7 dos direitos de propriedade intelectual, sob reserva das derrogações previstas:
 
 a) Na Convenção de Paris;
 
@@ -1279,7 +1279,7 @@ d) A locação comercial ao público de originais ou cópias das suas obras.
 
 As Partes conferem aos artistas intérpretes ou executantes o direito exclusivo de autorizar ou proibir:
 
-a) A fixação<sup>8</sup> das suas prestações;
+a) A fixação8 das suas prestações;
 
 b) A reprodução direta ou indireta, provisória ou permanente, total ou parcial, por quaisquer meios e sob qualquer forma, da fixação das suas prestações;
 
@@ -1449,7 +1449,7 @@ b) Qualquer sinal relativamente ao qual, devido à sua identidade ou semelhança
 
 ###### Artigo 94.º — Marcas comerciais notoriamente conhecidas
 
-Para efeitos de aplicação da proteção concedida a marcas notoriamente conhecidas, a que se referem o artigo 6.º-A da Convenção de Paris e o artigo 16, n.<sup>os</sup>2 e 3, do Acordo TRIPS, as Partes aplicam a Recomendação Conjunta sobre Disposições relativas à Proteção de Marcas Notoriamente Conhecidas, adotada pela Assembleia da União de Paris para a Proteção da Propriedade Industrial e pela Assembleia Geral da OMPI na 34.ª série de reuniões das Assembleias dos Estados-Membros da OMPI, que decorreu entre 20 e 29 de setembro de 1999.
+Para efeitos de aplicação da proteção concedida a marcas notoriamente conhecidas, a que se referem o artigo 6.º-A da Convenção de Paris e o artigo 16, n.os2 e 3, do Acordo TRIPS, as Partes aplicam a Recomendação Conjunta sobre Disposições relativas à Proteção de Marcas Notoriamente Conhecidas, adotada pela Assembleia da União de Paris para a Proteção da Propriedade Industrial e pela Assembleia Geral da OMPI na 34.ª série de reuniões das Assembleias dos Estados-Membros da OMPI, que decorreu entre 20 e 29 de setembro de 1999.
 
 ###### Artigo 95.º — Exceções aos direitos conferidos por marcas
 
@@ -1545,7 +1545,7 @@ Cada Parte assegura que os desenhos ou modelos beneficiam da proteção conferid
 
 ###### Artigo 105.º — Aditamento de novas indicações geográficas
 
-As Partes podem alterar a lista de indicações geográficas a proteger constante do anexo 7-C, em conformidade com o artigo 136.º Podem ser aditadas novas indicações geográficas na sequência da realização do procedimento de oposição e de as mesmas terem sido examinadas nos termos do artigo 104.º, n.<sup>os</sup> 3 ou 4.
+As Partes podem alterar a lista de indicações geográficas a proteger constante do anexo 7-C, em conformidade com o artigo 136.º Podem ser aditadas novas indicações geográficas na sequência da realização do procedimento de oposição e de as mesmas terem sido examinadas nos termos do artigo 104.º, n.os 3 ou 4.
 
 ###### Artigo 106.º — Âmbito de proteção das indicações geográficas
 
@@ -1633,13 +1633,13 @@ Cada Parte assegura que estão disponíveis no respetivo território os procedim
 
 2 - Cada Parte prevê um período de proteção suplementar dos medicamentos ou produtos fitofarmacêuticos protegidos por patentes que sejam objeto de um procedimento de autorização administrativa, com uma duração equivalente ao período de tempo a que se refere o segundo período do n.º 1. O período suplementar pode ser reduzido por um período máximo de cinco anos.
 
-3 - A duração do período de proteção suplementar não pode exceder cinco anos<sup>9</sup>.
+3 - A duração do período de proteção suplementar não pode exceder cinco anos9.
 
 ##### SUBSECÇÃO 6 — PROTEÇÃO DE INFORMAÇÕES NÃO DIVULGADAS
 
 ###### Artigo 115.º — Âmbito da proteção em matéria de segredo comercial
 
-1 - Ao dar cumprimento à obrigação de respeitar o Acordo TRIPS, nomeadamente o artigo 39.º, n.<sup>os</sup>1 e 2, desse acordo, cada Parte prevê procedimentos e vias de recurso judicial cível adequados para permitir aos titulares de um qualquer segredo comercial impedir a aquisição, utilização ou divulgação ilegais do segredo comercial ou obter reparação por tal aquisição, utilização ou divulgação ilegais, sempre que estas sejam contrárias às práticas comerciais honestas.
+1 - Ao dar cumprimento à obrigação de respeitar o Acordo TRIPS, nomeadamente o artigo 39.º, n.os1 e 2, desse acordo, cada Parte prevê procedimentos e vias de recurso judicial cível adequados para permitir aos titulares de um qualquer segredo comercial impedir a aquisição, utilização ou divulgação ilegais do segredo comercial ou obter reparação por tal aquisição, utilização ou divulgação ilegais, sempre que estas sejam contrárias às práticas comerciais honestas.
 
 2 - Para efeitos da presente subsecção, entende-se por:
 
@@ -1707,7 +1707,7 @@ e) Impor sanções às pessoas que participem nos processos judiciais que não c
 
 1 - As Partes protegem as informações comercialmente confidenciais apresentadas para a obtenção de uma autorização de introdução de medicamentos no mercado («autorização de introdução no mercado») contra a sua divulgação a terceiros, salvo se forem tomadas medidas para assegurar a proteção dos dados contra uma utilização comercial desleal ou se a divulgação for necessária devido a um interesse público superior.
 
-2 - As Partes asseguram que, durante um período de pelo menos seis anos a contar da data da primeira autorização de introdução no mercado na Parte em causa, a autoridade responsável por conceder a autorização não aceita nenhum pedido subsequente de autorização de introdução no mercado que se baseie nos resultados de ensaios clínicos ou pré-clínicos apresentados no pedido de primeira autorização de introdução no mercado, sem o consentimento explícito do titular da mesma, salvo disposição em contrário nos acordos internacionais de que tanto a União Europeia como a República do Usbequistão sejam Partes. Esta regra é aplicável independentemente de as informações a que se referem os n.<sup>os</sup> 1 ou 2 terem ou não sido disponibilizadas ao público.
+2 - As Partes asseguram que, durante um período de pelo menos seis anos a contar da data da primeira autorização de introdução no mercado na Parte em causa, a autoridade responsável por conceder a autorização não aceita nenhum pedido subsequente de autorização de introdução no mercado que se baseie nos resultados de ensaios clínicos ou pré-clínicos apresentados no pedido de primeira autorização de introdução no mercado, sem o consentimento explícito do titular da mesma, salvo disposição em contrário nos acordos internacionais de que tanto a União Europeia como a República do Usbequistão sejam Partes. Esta regra é aplicável independentemente de as informações a que se referem os n.os 1 ou 2 terem ou não sido disponibilizadas ao público.
 
 3 - O presente artigo não prejudica os períodos de proteção suplementares que cada uma das Partes possa estabelecer no respetivo direito.
 
@@ -1729,7 +1729,7 @@ b) Ser certificado como conforme aos princípios das boas práticas de laborató
 
 5 - Se tal for necessário para a renovação ou revisão de uma autorização, os relatórios de ensaio ou de estudo também podem ser objeto de proteção. Nesses casos, o prazo de proteção dos dados é de 30 meses.
 
-6 - Não obstante o disposto nos n.<sup>os</sup>3, 4 e 5, o organismo público responsável pela concessão de uma autorização de introdução no mercado não pode ter em conta as informações a que se referem os n.<sup>os</sup>1 e 2 para qualquer autorização de introdução no mercado posterior, independentemente de esta ter ou não sido disponibilizada ao público.
+6 - Não obstante o disposto nos n.os3, 4 e 5, o organismo público responsável pela concessão de uma autorização de introdução no mercado não pode ter em conta as informações a que se referem os n.os1 e 2 para qualquer autorização de introdução no mercado posterior, independentemente de esta ter ou não sido disponibilizada ao público.
 
 7 - As Partes adotam medidas para obrigar os requerentes e os titulares de autorizações anteriores, estabelecidos nos respetivos territórios, a partilhar informações de que disponham a fim de evitar a duplicação de ensaios em animais vertebrados.
 
@@ -1801,7 +1801,7 @@ a) Os nomes e endereços dos produtores, fabricantes, distribuidores, fornecedor
 
 b) Informações sobre as quantidades produzidas, fabricadas, entregues, recebidas ou encomendadas, bem como sobre o preço obtido pelas mercadorias ou pelos serviços em causa.
 
-4 - O disposto nos n.<sup>os</sup>1 e 2 é aplicável sem prejuízo de disposições legislativas de uma Parte que:
+4 - O disposto nos n.os1 e 2 é aplicável sem prejuízo de disposições legislativas de uma Parte que:
 
 a) Confiram ao titular dos direitos o direito a receber informações mais pormenorizadas;
 
@@ -1889,7 +1889,7 @@ Na medida em que, na sequência de um procedimento administrativo quanto ao mér
 
 7 - Cada Parte assegura que as respetivas autoridades aduaneiras recorrem a análises de risco para identificar as mercadorias suspeitas, para além de outros métodos de identificação, se for caso disso.
 
-8 - Cada Parte pode adotar ou manter em vigor procedimentos que permitam às respetivas autoridades competentes determinar, dentro de um prazo razoável após o início dos procedimentos referidos nos n.<sup>os</sup>1 e 5, se as mercadorias suspeitas se encontram em infração. Nesse caso, as autoridades competentes devem ter poderes para ordenar a destruição das mercadorias uma vez determinado que se encontram em infração. As Partes podem adotar procedimentos que permitam a destruição das mercadorias suspeitas sem que seja necessário proceder a uma determinação de infração, desde que as pessoas interessadas concordem com a sua destruição ou não a contestem.
+8 - Cada Parte pode adotar ou manter em vigor procedimentos que permitam às respetivas autoridades competentes determinar, dentro de um prazo razoável após o início dos procedimentos referidos nos n.os1 e 5, se as mercadorias suspeitas se encontram em infração. Nesse caso, as autoridades competentes devem ter poderes para ordenar a destruição das mercadorias uma vez determinado que se encontram em infração. As Partes podem adotar procedimentos que permitam a destruição das mercadorias suspeitas sem que seja necessário proceder a uma determinação de infração, desde que as pessoas interessadas concordem com a sua destruição ou não a contestem.
 
 9 - Cada Parte pode adotar procedimentos que permitam a rápida destruição de marcas de contrafação ou de mercadorias pirateadas enviadas em remessas postais ou por correio expresso.
 
@@ -1981,7 +1981,7 @@ As Partes aplicam o presente capítulo a todas as empresas, quer as mesmas sejam
 
 ###### Artigo 139.º — Enquadramento legislativo
 
-Cada Parte adota ou mantém em vigor legislação da concorrência que seja aplicável a todas as empresas de todos os setores da economia<sup>10</sup> e que responda eficazmente às seguintes práticas:
+Cada Parte adota ou mantém em vigor legislação da concorrência que seja aplicável a todas as empresas de todos os setores da economia10 e que responda eficazmente às seguintes práticas:
 
 a) Acordos horizontais e verticais entre empresas, decisões de associações de empresas e práticas concertadas entre as mesmas que tenham por objetivo ou efeito impedir, restringir ou falsear a concorrência;
 
@@ -2015,7 +2015,7 @@ O capítulo 14 não se aplica à presente secção.
 
 ###### Artigo 144.º — Definição e âmbito de aplicação
 
-1 - Para efeitos da presente secção, entende-se por «subvenção» qualquer medida que satisfaça as condições enunciadas no artigo 1.º, n.º 1, do Acordo SMC independentemente de ter sido concedida a uma empresa para fornecer produtos ou prestar serviços<sup>11</sup>.
+1 - Para efeitos da presente secção, entende-se por «subvenção» qualquer medida que satisfaça as condições enunciadas no artigo 1.º, n.º 1, do Acordo SMC independentemente de ter sido concedida a uma empresa para fornecer produtos ou prestar serviços11.
 
 2 - A presente secção aplica-se unicamente às subvenções com caráter específico, na aceção do artigo 2.º do Acordo SMC. Qualquer subvenção abrangida pelo disposto no artigo 148.º do presente Acordo tem caráter específico.
 
@@ -2039,7 +2039,7 @@ c) Se possível, o montante global ou o montante anual inscrito no orçamento pa
 
 a) Apresentando uma notificação nos termos do artigo 25.º do Acordo SMC, a efetuar pelo menos de dois em dois anos;
 
-b) Apresentando uma notificação nos termos do artigo 18.º do Acordo sobre a Agricultura; ou<sup>12</sup>
+b) Apresentando uma notificação nos termos do artigo 18.º do Acordo sobre a Agricultura; ou12
 
 c) Assegurando que as informações a que se refere o n.º 1 são publicadas, por si própria ou em seu nome, num sítio web acessível ao público até 31 de dezembro do ano civil seguinte àquele em que a subvenção tenha sido concedida ou mantida em vigor.
 
@@ -2089,7 +2089,7 @@ ii) A empresa contribua para os custos da reestruturação; as pequenas e média
 
 A partir da adesão da República do Usbequistão à OMC e salvo nos casos previstos no Acordo sobre a Agricultura, serão proibidas as seguintes subvenções a produtos industriais:
 
-a) Subvenções subordinadas, de direito ou de facto<sup>13</sup>, e exclusivamente ou como uma entre outras condições, aos resultados das exportações; e
+a) Subvenções subordinadas, de direito ou de facto13, e exclusivamente ou como uma entre outras condições, aos resultados das exportações; e
 
 b) Subvenções subordinadas, exclusivamente ou entre outras condições, à utilização de produtos nacionais em detrimento de produtos importados.
 
@@ -2105,7 +2105,7 @@ Para efeitos da presente secção, entende-se por:
 
 1) «Convénio», o Convénio relativo aos Créditos à Exportação que Beneficiam de Apoio Oficial da Organização de Cooperação e de Desenvolvimento Económicos (OCDE) ou um compromisso que o substitua, independentemente de ter ou não sido estabelecido no âmbito da OCDE, que tenha sido adotado por, no mínimo, 12 membros iniciais da OMC que eram participantes no Convénio em 1 de janeiro de 1979;
 
-2) «Atividades comerciais», as atividades cujo objetivo final é a produção de uma mercadoria ou a prestação de um serviço a comercializar em quantidades e a preços a determinar por uma empresa, exercidas de forma orientada para a obtenção de lucros<sup>14</sup>;
+2) «Atividades comerciais», as atividades cujo objetivo final é a produção de uma mercadoria ou a prestação de um serviço a comercializar em quantidades e a preços a determinar por uma empresa, exercidas de forma orientada para a obtenção de lucros14;
 
 3) «Considerações comerciais», preços, qualidade, disponibilidade, viabilidade comercial, transporte e outras condições de aquisição ou de venda, ou outros fatores que, normalmente, seriam tidos em conta nas decisões comerciais de uma empresa privada que exerça a sua atividade em conformidade com os princípios da economia de mercado no setor ou na indústria pertinente;
 
@@ -2125,7 +2125,7 @@ b) Controla, direta ou indiretamente, o exercício de mais de 50 % dos direitos 
 
 c) Tem poder para nomear a maioria dos membros do conselho de administração ou de qualquer outro órgão de gestão equivalente; ou
 
-d) Tem poder para exercer controlo<sup>15</sup> sobre a empresa.
+d) Tem poder para exercer controlo15 sobre a empresa.
 
 ###### Artigo 151.º — Âmbito de aplicação
 
@@ -2133,7 +2133,7 @@ d) Tem poder para exercer controlo<sup>15</sup> sobre a empresa.
 
 2 - A presente secção é aplicável às empresas públicas, às empresas às quais foram concedidos direitos especiais ou privilégios e aos monopólios designados a todos os níveis da administração pública.
 
-3 - A presente secção não é aplicável às empresas públicas, às empresas às quais foram concedidos direitos especiais ou privilégios ou aos monopólios designados quando atuem como entidades adjudicantes abrangidas pelos anexos de cada Parte do apêndice i do Acordo sobre Contratos Públicos, celebrado em Marraquexe, em 15 de abril de 1994, incluído no anexo 4 do Acordo OMC<sup>16</sup> e no anexo 9 do presente Acordo, quando esses contratos públicos sejam adjudicados para dar resposta a necessidades dos poderes públicos, e não com vista à revenda numa perspetiva comercial dos bens ou serviços a adquirir ou com vista à sua utilização na produção de mercadorias ou da prestação de serviços numa perspetiva comercial.
+3 - A presente secção não é aplicável às empresas públicas, às empresas às quais foram concedidos direitos especiais ou privilégios ou aos monopólios designados quando atuem como entidades adjudicantes abrangidas pelos anexos de cada Parte do apêndice i do Acordo sobre Contratos Públicos, celebrado em Marraquexe, em 15 de abril de 1994, incluído no anexo 4 do Acordo OMC16 e no anexo 9 do presente Acordo, quando esses contratos públicos sejam adjudicados para dar resposta a necessidades dos poderes públicos, e não com vista à revenda numa perspetiva comercial dos bens ou serviços a adquirir ou com vista à sua utilização na produção de mercadorias ou da prestação de serviços numa perspetiva comercial.
 
 4 - A presente secção não é aplicável aos serviços prestados no exercício de poderes públicos.
 
@@ -2159,7 +2159,7 @@ c) For assegurada em condições consentâneas com o Convénio, desde que se ins
 
 ###### Artigo 152.º — Relação com o Acordo OMC
 
-1 - Os n.<sup>os</sup>1 a 3 do artigo xvii do GATT de 1994, o Memorando de Entendimento sobre a interpretação do artigo xvii do GATT de 1994 e os n.<sup>os</sup>1, 2 e 5 do artigo viii do GATS são incorporados no presente Acordo, com as devidas adaptações, fazendo dele parte integrante.
+1 - Os n.os1 a 3 do artigo xvii do GATT de 1994, o Memorando de Entendimento sobre a interpretação do artigo xvii do GATT de 1994 e os n.os1, 2 e 5 do artigo viii do GATS são incorporados no presente Acordo, com as devidas adaptações, fazendo dele parte integrante.
 
 2 - O presente artigo é aplicável a partir da data de adesão da República do Usbequistão à OMC ou seis anos após a data de entrada em vigor do presente Acordo, consoante o que ocorrer primeiro.
 
@@ -2187,7 +2187,7 @@ i) Concedem às empresas da outra Parte um tratamento não menos favorável do q
 
 ii) Concedem às empresas que constituam investimentos de investidores da outra Parte, um tratamento não menos favorável do que o concedido às empresas que sejam investimentos de investidores dessa Parte no seu mercado relevante.
 
-3 - O disposto nos n.<sup>os</sup> 1 e 2 não impede as empresas públicas, as empresas às quais foram concedidos direitos especiais ou privilégios ou os monopólios designados de:
+3 - O disposto nos n.os 1 e 2 não impede as empresas públicas, as empresas às quais foram concedidos direitos especiais ou privilégios ou os monopólios designados de:
 
 a) Adquirirem ou fornecerem bens ou serviços em termos ou condições diferentes, inclusive em matéria de preços, desde que esses termos ou condições diferentes ou essa recusa sejam aplicadas em conformidade com considerações comerciais; ou
 
@@ -2203,7 +2203,7 @@ b) Recusarem a aquisição ou o fornecimento de bens ou serviços, desde que ess
 
 a) São independentes de outras empresas reguladas por esse organismo e não são obrigados a prestar contas às mesmas; e
 
-b) Atuam com imparcialidade<sup>17</sup> em relação a todas as empresas por eles reguladas, incluindo as empresas públicas, as empresas às quais foram concedidos direitos especiais ou privilégios e os monopólios designados<sup>18</sup>.
+b) Atuam com imparcialidade17 em relação a todas as empresas por eles reguladas, incluindo as empresas públicas, as empresas às quais foram concedidos direitos especiais ou privilégios e os monopólios designados18.
 
 3 - Sem prejuízo das respetivas reservas indicadas nos anexos 12-A, 12-B, 12-C e 12-D, cada Parte aplica as suas disposições legislativas e regulamentares às empresas públicas, às empresas às quais foram concedidos direitos especiais ou privilégios e aos monopólios designados de uma forma coerente e não discriminatória.
 
@@ -2227,7 +2227,7 @@ f) Quaisquer isenções, imunidades e medidas conexas de que a entidade benefici
 
 g) Quaisquer informações adicionais relativas à entidade que tenham sido publicadas, incluindo relatórios financeiros anuais e auditorias por terceiros.
 
-3 - O disposto nos n.<sup>os</sup>2 e 3, não obriga as Partes a divulgarem informações confidenciais cuja divulgação seja incompatível com as suas disposições legislativas e regulamentares, impeça a aplicação coerciva da lei ou, de outra forma, contrarie o interesse público ou prejudique os interesses comerciais legítimos de empresas concretas.
+3 - O disposto nos n.os2 e 3, não obriga as Partes a divulgarem informações confidenciais cuja divulgação seja incompatível com as suas disposições legislativas e regulamentares, impeça a aplicação coerciva da lei ou, de outra forma, contrarie o interesse público ou prejudique os interesses comerciais legítimos de empresas concretas.
 
 4 - Caso a Parte requerida não disponha das informações solicitadas, justifica-o por escrito à Parte que solicitou as informações.
 
@@ -2295,7 +2295,7 @@ ii) Que não se destinem a venda ou revenda comercial, nem a ser utilizados na p
 
 b) Por quaisquer meios contratuais, incluindo a compra, o arrendamento ou a locação-venda, com ou sem opção de compra;
 
-c) Cujo valor, tal como estimado em conformidade com os n.<sup>os</sup>6 a 8, seja igual ou superior ao limiar relevante especificado no anexo 9, no momento da publicação de um anúncio em conformidade com o artigo 162.º;
+c) Cujo valor, tal como estimado em conformidade com os n.os6 a 8, seja igual ou superior ao limiar relevante especificado no anexo 9, no momento da publicação de um anúncio em conformidade com o artigo 162.º;
 
 d) Por uma entidade adjudicante; e
 
@@ -2431,7 +2431,7 @@ Compensações
 
 Medidas não especificamente ligadas à adjudicação de contratos
 
-7 - Os n.<sup>os</sup>1 e 2 não se aplicam:
+7 - Os n.os1 e 2 não se aplicam:
 
 a) Aos direitos aduaneiros ou a qualquer tipo de encargos aplicados às importações ou relacionados com as mesmas;
 
@@ -2697,7 +2697,7 @@ Esses prazos, incluindo as eventuais prorrogações, devem ser os mesmos para to
 
 2 - Quando recorra a um concurso seletivo, a entidade adjudicante fixa o prazo para a apresentação dos pedidos de participação, o qual, em princípio, não poderá ser inferior a 25 dias a contar da data de publicação do anúncio de concurso previsto. Se uma situação de urgência, devidamente fundamentada pela entidade adjudicante, inviabilizar esse prazo, o mesmo pode ser reduzido para um mínimo de 10 dias.
 
-3 - Salvo nos casos previstos nos n.<sup>os</sup>4, 5, 7 e 8, a entidade adjudicante estabelece que o prazo-limite para a apresentação de propostas não pode ser inferior a 40 dias a contar da data na qual:
+3 - Salvo nos casos previstos nos n.os4, 5, 7 e 8, a entidade adjudicante estabelece que o prazo-limite para a apresentação de propostas não pode ser inferior a 40 dias a contar da data na qual:
 
 a) No caso de um concurso aberto, o anúncio de concurso previsto tenha sido publicado; ou
 
@@ -2751,7 +2751,7 @@ b) Uma vez concluídas as negociações, estabelece um prazo comum para a aprese
 
 ###### Artigo 168.º — Concursos limitados
 
-1 - Desde que não utilize a presente disposição para impedir a concorrência entre os fornecedores ou de uma forma que discrimine os fornecedores da outra Parte ou proteja os fornecedores nacionais, a entidade adjudicante pode recorrer a procedimentos de concurso limitado e optar por não aplicar os artigos 162.º a 164.º, o artigo 165.º, n.<sup>os</sup>7 a 11, e os artigos 166.º, 167.º, 169.º e 170.º, em qualquer das seguintes circunstâncias:
+1 - Desde que não utilize a presente disposição para impedir a concorrência entre os fornecedores ou de uma forma que discrimine os fornecedores da outra Parte ou proteja os fornecedores nacionais, a entidade adjudicante pode recorrer a procedimentos de concurso limitado e optar por não aplicar os artigos 162.º a 164.º, o artigo 165.º, n.os7 a 11, e os artigos 166.º, 167.º, 169.º e 170.º, em qualquer das seguintes circunstâncias:
 
 a) Desde que os requisitos da documentação do concurso não tenham sido substancialmente alterados, se:
 
@@ -2833,7 +2833,7 @@ b) Se o preço for o único critério, o preço mais baixo.
 
 Informações prestadas aos fornecedores
 
-1 - A entidade adjudicante informa de imediato os fornecedores participantes das decisões que tomar quanto à adjudicação de contratos e, se tal lhe for solicitado por um fornecedor, fá-lo-á por escrito. Sem prejuízo do disposto no artigo 172.º, n.<sup>os</sup>2 e 3, e mediante pedido, a entidade adjudicante comunica a qualquer fornecedor que não tenha sido aceite os motivos pelos quais a proposta não foi aceite e as vantagens relativas da proposta do fornecedor selecionado.
+1 - A entidade adjudicante informa de imediato os fornecedores participantes das decisões que tomar quanto à adjudicação de contratos e, se tal lhe for solicitado por um fornecedor, fá-lo-á por escrito. Sem prejuízo do disposto no artigo 172.º, n.os2 e 3, e mediante pedido, a entidade adjudicante comunica a qualquer fornecedor que não tenha sido aceite os motivos pelos quais a proposta não foi aceite e as vantagens relativas da proposta do fornecedor selecionado.
 
 Publicação de informações sobre a adjudicação
 
@@ -3081,7 +3081,7 @@ O presente capítulo não prejudica a aplicação de quaisquer regras específic
 
 3 - O presente capítulo não é aplicável às medidas que afetem as pessoas singulares de uma Parte que pretendam ter acesso ao mercado de trabalho da outra Parte, nem às medidas referentes à nacionalidade ou cidadania, à residência ou ao emprego numa base permanente.
 
-4 - O presente capítulo não impede que uma Parte aplique medidas para regulamentar a entrada ou a estada temporária de pessoas singulares no seu território, incluindo as necessárias para proteger a integridade das suas fronteiras e para assegurar que a transposição das fronteiras por pessoas singulares se processa de forma ordenada, desde que as mesmas não sejam aplicadas de modo a anular ou comprometer os benefícios<sup>19</sup> que advêm para a outra Parte das disposições do presente capítulo.
+4 - O presente capítulo não impede que uma Parte aplique medidas para regulamentar a entrada ou a estada temporária de pessoas singulares no seu território, incluindo as necessárias para proteger a integridade das suas fronteiras e para assegurar que a transposição das fronteiras por pessoas singulares se processa de forma ordenada, desde que as mesmas não sejam aplicadas de modo a anular ou comprometer os benefícios19 que advêm para a outra Parte das disposições do presente capítulo.
 
 5 - O presente capítulo não é aplicável a medidas de uma Parte respeitantes a contratos públicos referentes a mercadorias e serviços adquiridos para dar resposta a necessidades dos poderes públicos, e não com vista a uma revenda comercial ou com vista à sua utilização no âmbito do fornecimento de mercadorias ou da prestação de serviços para venda comercial, independentemente de se tratar de um «contrato abrangido» na aceção do capítulo 9.
 
@@ -3089,7 +3089,7 @@ O presente capítulo não prejudica a aplicação de quaisquer regras específic
 
 7 - O presente capítulo não é aplicável a:
 
-a) Serviços aéreos ou serviços conexos de apoio a serviços aéreos<sup>20</sup>, exceto:
+a) Serviços aéreos ou serviços conexos de apoio a serviços aéreos20, exceto:
 
 i) Serviços de reparação e manutenção de aeronaves;
 
@@ -3103,7 +3103,7 @@ b) Serviços audiovisuais;
 
 c) Vias navegáveis interiores; e
 
-d) Cabotagem marítima nacional<sup>21</sup>.
+d) Cabotagem marítima nacional21.
 
 ###### Artigo 189.º — Definições
 
@@ -3135,11 +3135,11 @@ j) «Serviços de assistência em escala», a prestação num aeroporto, à comi
 
 k) «Pessoa coletiva», qualquer entidade jurídica devidamente constituída ou organizada de outra forma nos termos da legislação em vigor, com ou sem fins lucrativos, cuja propriedade seja privada ou do Estado, incluindo qualquer sociedade de capitais, sociedade gestora de patrimónios, sociedade de pessoas, empresa comum, sociedade em nome individual ou associação;
 
-l) «Pessoa coletiva de uma Parte»<sup>22</sup>:
+l) «Pessoa coletiva de uma Parte»22:
 
 i) Para a União Europeia:
 
-A) Uma pessoa coletiva constituída ou organizada ao abrigo do direito da União Europeia ou de pelo menos um dos seus Estados-Membros e que realiza um volume significativo de operações comerciais<sup>23</sup> no território da União Europeia; e
+A) Uma pessoa coletiva constituída ou organizada ao abrigo do direito da União Europeia ou de pelo menos um dos seus Estados-Membros e que realiza um volume significativo de operações comerciais23 no território da União Europeia; e
 
 B) Uma companhia de transporte marítimo estabelecida fora da União Europeia e controlada por uma pessoa singular de um Estado-Membro, cujo navio esteja registado num Estado-Membro e arvore o respetivo pavilhão;
 
@@ -3149,7 +3149,7 @@ A) Uma pessoa coletiva constituída ou organizada ao abrigo da legislação da R
 
 B) Uma companhia de transporte marítimo estabelecida fora da República do Usbequistão e controlada por uma pessoa singular deste país, cujo navio esteja registado na República do Usbequistão e arvore o respetivo pavilhão;
 
-m) «Medidas adotadas por uma Parte», as medidas adotadas ou mantidas em vigor por<sup>24</sup>:
+m) «Medidas adotadas por uma Parte», as medidas adotadas ou mantidas em vigor por24:
 
 i) Administrações ou autoridades públicas centrais, regionais ou locais; e
 
@@ -3157,7 +3157,7 @@ ii) Organismos não governamentais no exercício dos poderes delegados pelas adm
 
 n) «Pessoa singular de uma Parte»:
 
-i) Para a União Europeia, um nacional de um dos Estados-Membros em conformidade com o respetivo direito<sup>25</sup>; e
+i) Para a União Europeia, um nacional de um dos Estados-Membros em conformidade com o respetivo direito25; e
 
 ii) Para a República do Usbequistão, um nacional da República do Usbequistão, em conformidade com o seu direito;
 
@@ -3219,7 +3219,7 @@ b) Medidas sobre o reconhecimento, incluindo de normas ou critérios para a auto
 
 5 - Para maior clareza, o «tratamento» a que se refere o n.º 1 não inclui os procedimentos de resolução de litígios estabelecidos noutros acordos internacionais.
 
-6 - Para maior clareza, as disposições materiais constantes de outros acordos internacionais celebrados por uma das Partes com um país terceiro não constituem, por si só, um «tratamento» nos termos do n.º 1. As medidas de uma Parte nos termos de tais disposições<sup>26</sup> podem constituir tratamento nessa aceção e, por conseguinte, dar origem a uma violação do presente artigo.
+6 - Para maior clareza, as disposições materiais constantes de outros acordos internacionais celebrados por uma das Partes com um país terceiro não constituem, por si só, um «tratamento» nos termos do n.º 1. As medidas de uma Parte nos termos de tais disposições26 podem constituir tratamento nessa aceção e, por conseguinte, dar origem a uma violação do presente artigo.
 
 ###### Artigo 195.º — Quadros superiores e membros dos conselhos de administração
 
@@ -3293,15 +3293,15 @@ ii) Não ofereçam nem prestem serviços nem exerçam qualquer outra atividade e
 
 iii) Não sejam remuneradas por uma fonte situada na outra Parte;
 
-b) «Prestadores de serviços por contrato», as pessoas singulares contratadas por uma pessoa coletiva de uma Parte, sem ser através de uma agência de serviços de colocação e de fornecimento de pessoal, que não possua estabelecimento no território da outra Parte e que tenha celebrado um contrato de prestação de serviços de boa-fé<sup>27</sup> para prestar serviços a um consumidor final na outra Parte, exigindo a presença temporária dos seus trabalhadores<sup>28</sup>, e que:
+b) «Prestadores de serviços por contrato», as pessoas singulares contratadas por uma pessoa coletiva de uma Parte, sem ser através de uma agência de serviços de colocação e de fornecimento de pessoal, que não possua estabelecimento no território da outra Parte e que tenha celebrado um contrato de prestação de serviços de boa-fé27 para prestar serviços a um consumidor final na outra Parte, exigindo a presença temporária dos seus trabalhadores28, e que:
 
 i) Tenham oferecido esses serviços enquanto empregados da pessoa coletiva durante um período não inferior a um ano imediatamente anterior à data do seu pedido de entrada e de estada temporária;
 
 ii) Possuam, à data:
 
-A) Pelo menos três anos de experiência profissional, no caso das pessoas singulares da União Europeia, e de pelo menos cinco anos, no caso das pessoas singulares da República do Usbequistão, no exercício da atividade em causa<sup>29</sup>,
+A) Pelo menos três anos de experiência profissional, no caso das pessoas singulares da União Europeia, e de pelo menos cinco anos, no caso das pessoas singulares da República do Usbequistão, no exercício da atividade em causa29,
 
-B) Um diploma universitário ou habilitações de nível equivalente<sup>30</sup>; e
+B) Um diploma universitário ou habilitações de nível equivalente30; e
 
 C) As qualificações profissionais legalmente exigidas para exercer essa atividade na outra Parte; e
 
@@ -3313,11 +3313,11 @@ i) Tenham sido empregadas por uma pessoa coletiva de uma Parte ou por uma sua su
 
 ii) No momento do pedido, residam fora do território da outra Parte;
 
-iii) Sejam temporariamente transferidas para uma empresa da pessoa coletiva no território da outra Parte<sup>31</sup> que faça parte do mesmo grupo que a pessoa coletiva originária, incluindo a respetiva representação, filial, sucursal ou sociedade-mãe; e
+iii) Sejam temporariamente transferidas para uma empresa da pessoa coletiva no território da outra Parte31 que faça parte do mesmo grupo que a pessoa coletiva originária, incluindo a respetiva representação, filial, sucursal ou sociedade-mãe; e
 
 iv) Que, para a União Europeia, pertençam às categorias de:
 
-A) Quadros superiores, cuja função principal consiste em assegurar a gestão da empresa<sup>32</sup> na outra Parte, sob a supervisão ou direção gerais principalmente do conselho de administração ou dos acionistas da empresa ou seus homólogos, e cujas responsabilidades incluem:
+A) Quadros superiores, cuja função principal consiste em assegurar a gestão da empresa32 na outra Parte, sob a supervisão ou direção gerais principalmente do conselho de administração ou dos acionistas da empresa ou seus homólogos, e cujas responsabilidades incluem:
 
 1) A direção da empresa ou de um dos seus departamentos ou subdivisões;
 
@@ -3337,7 +3337,7 @@ C) Auferir um salário anual (remuneração) na República do Usbequistão de mo
 
 ###### Artigo 202.º — Trabalhadores transferidos dentro de uma empresa e visitantes de negócios para fins de estabelecimento
 
-1 - Nos setores, subsetores e atividades enumerados nas listas de compromissos específicos da União Europeia no âmbito do GATS ou no anexo 12-B do presente acordo e sem prejuízo das eventuais reservas aí enumeradas<sup>33</sup>:
+1 - Nos setores, subsetores e atividades enumerados nas listas de compromissos específicos da União Europeia no âmbito do GATS ou no anexo 12-B do presente acordo e sem prejuízo das eventuais reservas aí enumeradas33:
 
 a) As Partes permitem:
 
@@ -3347,11 +3347,11 @@ ii) O emprego no respetivo território de trabalhadores transferidos dentro de u
 
 b) As Partes não podem adotar nem manter em vigor, seja em relação a uma subdivisão territorial ou à totalidade do respetivo território, limitações ao número total de pessoas singulares que uma empresa pode empregar enquanto trabalhadores transferidos dentro de uma empresa e visitantes de negócios para fins de estabelecimento, num determinado setor, sob a forma de quotas numéricas ou de um exame das necessidades económicas, ou outras limitações discricionárias.
 
-2 - A duração da estada permitida é de, no máximo, 3 anos para os trabalhadores transferidos dentro da empresa e de 90 dias<sup>34</sup> para os visitantes de negócios para fins de estabelecimento.
+2 - A duração da estada permitida é de, no máximo, 3 anos para os trabalhadores transferidos dentro da empresa e de 90 dias34 para os visitantes de negócios para fins de estabelecimento.
 
 ###### Artigo 203.º — Prestadores de serviços por contrato
 
-1 - Nos setores, subsetores e atividades enumerados nas listas de compromissos específicos da União Europeia no âmbito do GATS ou no anexo 12-D do presente acordo e sem prejuízo das reservas aí enumeradas<sup>35</sup>, uma Parte não pode adotar nem manter em vigor limitações do número total de prestadores de serviços por contrato da outra Parte a quem seja permitida a entrada temporária, sob a forma de quotas numéricas ou de um exame das necessidades económicas, ou quaisquer outras limitações discricionárias.
+1 - Nos setores, subsetores e atividades enumerados nas listas de compromissos específicos da União Europeia no âmbito do GATS ou no anexo 12-D do presente acordo e sem prejuízo das reservas aí enumeradas35, uma Parte não pode adotar nem manter em vigor limitações do número total de prestadores de serviços por contrato da outra Parte a quem seja permitida a entrada temporária, sob a forma de quotas numéricas ou de um exame das necessidades económicas, ou quaisquer outras limitações discricionárias.
 
 2 - O acesso concedido ao abrigo do disposto no presente artigo refere-se exclusivamente ao serviço objeto do contrato, não conferindo o direito de exercer essa profissão na Parte onde o serviço é prestado.
 
@@ -3415,7 +3415,7 @@ e) «Requisitos de qualificação», os requisitos substantivos relativos à com
 
 ###### Artigo 207.º — Procedimentos de licenciamento e de qualificação
 
-1 - Os procedimentos e formalidades de licenciamento e de qualificação devem ser claros e divulgados com antecedência, não podendo restringir, por si mesmos, a prestação de um serviço ou o exercício de qualquer atividade económica. Cada Parte assegura que esses procedimentos e formalidades são tão simples quanto possível e não complicam ou atrasam indevidamente a prestação do serviço ou o exercício de outra atividade económica. As taxas de licenciamento ou autorização<sup>36</sup> devem ser razoáveis e transparentes, não podendo, por si só, restringir a prestação do serviço ou o exercício da atividade económica em causa.
+1 - Os procedimentos e formalidades de licenciamento e de qualificação devem ser claros e divulgados com antecedência, não podendo restringir, por si mesmos, a prestação de um serviço ou o exercício de qualquer atividade económica. Cada Parte assegura que esses procedimentos e formalidades são tão simples quanto possível e não complicam ou atrasam indevidamente a prestação do serviço ou o exercício de outra atividade económica. As taxas de licenciamento ou autorização36 devem ser razoáveis e transparentes, não podendo, por si só, restringir a prestação do serviço ou o exercício da atividade económica em causa.
 
 2 - Cada Parte assegura que os procedimentos utilizados pela respetiva autoridade competente e as decisões da mesma são imparciais em relação a todos os candidatos. A autoridade competente toma as suas decisões de forma independente e não responde perante qualquer pessoa que preste um serviço ou exerça outra atividade económica que seja objeto da licença ou autorização solicitada.
 
@@ -3463,7 +3463,7 @@ g) «Serviço universal», a prestação permanente de um serviço de entrega co
 
 ###### Artigo 210.º — Financiamento do serviço universal
 
-As Partes não podem impor taxas ou outros encargos à prestação de um serviço de entrega não universal para efeitos de financiar a prestação de um serviço universal<sup>37</sup>.
+As Partes não podem impor taxas ou outros encargos à prestação de um serviço de entrega não universal para efeitos de financiar a prestação de um serviço universal37.
 
 ###### Artigo 211.º — Prevenção de práticas que distorçam o mercado
 
@@ -3571,7 +3571,7 @@ Cada Parte assegura que os fornecedores de redes ou serviços públicos de telec
 
 ###### Artigo 219.º — Acesso e utilização
 
-1 - Cada Parte assegura que qualquer empresa estabelecida por uma pessoa singular da outra Parte ou qualquer prestador de serviços da outra Parte têm acesso e utilizam redes ou serviços públicos de telecomunicações em termos e condições razoáveis e não discriminatórios<sup>38</sup>. Esta obrigação é aplicada, nomeadamente, através do disposto nos n.<sup>os</sup>2 a 5.
+1 - Cada Parte assegura que qualquer empresa estabelecida por uma pessoa singular da outra Parte ou qualquer prestador de serviços da outra Parte têm acesso e utilizam redes ou serviços públicos de telecomunicações em termos e condições razoáveis e não discriminatórios38. Esta obrigação é aplicada, nomeadamente, através do disposto nos n.os2 a 5.
 
 2 - Cada Parte assegura que as empresas estabelecidas por pessoas coletivas da outra Parte ou os prestadores de serviços da outra Parte têm acesso e utilizam quaisquer redes ou serviços públicos de telecomunicações disponibilizados dentro ou além das respetivas fronteiras, incluindo circuitos privados alugados, e para esse efeito, sem prejuízo do disposto no n.º 5, garante que é permitido a tais empresas e prestadores:
 
@@ -3599,7 +3599,7 @@ b) Para proteger a integridade técnica das redes ou serviços públicos de tele
 
 2 - A decisão da autoridade reguladora das telecomunicações é tornada pública, tendo em conta os requisitos de sigilo comercial. As partes em causa recebem a fundamentação circunstanciada da decisão e podem interpor recurso nos termos do artigo 217.º, n.º 4.
 
-3 - O procedimento a que se referem os n.<sup>os</sup>1 e 2 não impede qualquer das partes de intentar uma ação junto de uma autoridade judiciária.
+3 - O procedimento a que se referem os n.os1 e 2 não impede qualquer das partes de intentar uma ação junto de uma autoridade judiciária.
 
 ###### Artigo 221.º — Salvaguardas em matéria de concorrência em relação aos prestadores principais
 
@@ -3813,7 +3813,7 @@ b) Abolem e abstêm-se de introduzir medidas unilaterais e obstáculos administr
 
 ###### Artigo 234.º — Balança de transações correntes e movimentos de capitais
 
-1 - Sem prejuízo de outras disposições do presente Acordo, cada Parte autoriza, numa moeda livremente convertível<sup>39</sup> e em conformidade com os artigos do Acordo relativo ao Fundo Monetário Internacional, adotado na Conferência Monetária e Financeira das Nações Unidas, em 22 de julho de 1944, conforme aplicável, quaisquer pagamentos ou transferências relativos a transações da balança de transações correntes abrangidas pelo âmbito de aplicação do presente Acordo.
+1 - Sem prejuízo de outras disposições do presente Acordo, cada Parte autoriza, numa moeda livremente convertível39 e em conformidade com os artigos do Acordo relativo ao Fundo Monetário Internacional, adotado na Conferência Monetária e Financeira das Nações Unidas, em 22 de julho de 1944, conforme aplicável, quaisquer pagamentos ou transferências relativos a transações da balança de transações correntes abrangidas pelo âmbito de aplicação do presente Acordo.
 
 2 - Sem prejuízo de outras disposições do presente Acordo, cada Parte autoriza, no que diz respeito às transações da conta de capital e financeira da balança de pagamentos, a livre circulação de capitais respeitantes a investimentos diretos efetuados em conformidade com o direito aplicável no seu território e com o capítulo 12, assim como a liquidação ou repatriamento desses investimentos e de quaisquer lucros deles resultantes.
 
@@ -3823,7 +3823,7 @@ b) Abolem e abstêm-se de introduzir medidas unilaterais e obstáculos administr
 
 ###### Artigo 235.º — Aplicação de disposições legislativas e regulamentares relativas à circulação de capitais, pagamentos ou transferências
 
-1 - O disposto no artigo 234.º, n.<sup>os</sup>1, 2 e 3, não pode ser interpretado no sentido de impedir uma Parte de aplicar as respetivas disposições legislativas e regulamentares em matéria de:
+1 - O disposto no artigo 234.º, n.os1, 2 e 3, não pode ser interpretado no sentido de impedir uma Parte de aplicar as respetivas disposições legislativas e regulamentares em matéria de:
 
 a) Falência, insolvência ou proteção dos direitos dos credores;
 
@@ -3847,7 +3847,7 @@ f) Segurança social, regimes de pensão públicos ou regimes obrigatórios de p
 
 ###### Artigo 237.º — Restrições em caso de dificuldades a nível da balança de pagamentos ou do financiamento externo
 
-1 - Uma Parte que se deparar com dificuldades graves a nível da balança de pagamentos ou da posição financeira externa, ou sob tal ameaça, pode adotar ou manter em vigor medidas restritivas quanto aos movimentos de capitais, pagamentos ou transferências<sup>40</sup>.
+1 - Uma Parte que se deparar com dificuldades graves a nível da balança de pagamentos ou da posição financeira externa, ou sob tal ameaça, pode adotar ou manter em vigor medidas restritivas quanto aos movimentos de capitais, pagamentos ou transferências40.
 
 2 - As medidas a que se refere o n.º 1:
 
@@ -3865,7 +3865,7 @@ e) Não são discriminatórias em relação a países terceiros em situações s
 
 4 - No caso das trocas comerciais de serviços, as Partes podem adotar medidas restritivas a fim de salvaguardar a situação da sua balança de pagamentos ou a sua posição financeira externa. Essas medidas devem ser compatíveis com o disposto no artigo xii do GATS.
 
-5 - Uma Parte que mantenha ou adote as medidas a que se referem os n.<sup>os</sup>1 e 2 informa imediatamente desse facto a outra Parte.
+5 - Uma Parte que mantenha ou adote as medidas a que se referem os n.os1 e 2 informa imediatamente desse facto a outra Parte.
 
 6 - Quando sejam adotadas ou mantidas em vigor restrições nos termos do presente artigo, as Partes procedem de imediato a consultas no âmbito do Comité de Cooperação, caso as mesmas não estejam já a ter lugar no âmbito de outras instâncias. As consultas devem servir para avaliar as dificuldades a nível da balança de pagamentos ou da posição financeira externa que conduziram à adoção das medidas em apreço, tendo em conta, nomeadamente, os seguintes fatores:
 
@@ -3875,7 +3875,7 @@ b) O ambiente económico e comercial externo; e
 
 c) Eventuais medidas corretivas alternativas a que seja possível recorrer.
 
-7 - No âmbito das consultas a que se refere o n.º 6, deve ser analisada a conformidade das medidas restritivas com o disposto nos n.<sup>os</sup>1 e 2. Sempre que disponíveis, devem ser aceites todos os dados pertinentes de natureza estatística ou factual apresentados pelo Fundo Monetário Internacional, devendo as conclusões ter em conta a avaliação efetuada pelo Fundo Monetário Internacional quanto à situação da balança de pagamentos e da posição financeira externa da Parte em causa.
+7 - No âmbito das consultas a que se refere o n.º 6, deve ser analisada a conformidade das medidas restritivas com o disposto nos n.os1 e 2. Sempre que disponíveis, devem ser aceites todos os dados pertinentes de natureza estatística ou factual apresentados pelo Fundo Monetário Internacional, devendo as conclusões ter em conta a avaliação efetuada pelo Fundo Monetário Internacional quanto à situação da balança de pagamentos e da posição financeira externa da Parte em causa.
 
 ### CAPÍTULO 14 — RESOLUÇÃO DE LITÍGIOS
 
@@ -3913,7 +3913,7 @@ Salvo disposição em contrário no presente Acordo, o presente capítulo aplica
 
 a) A Parte requerida não responder ao pedido de consultas no prazo de 10 dias a contar da data em que o pedido tiver sido apresentado;
 
-b) Não tiverem sido realizadas consultas dentro dos prazos fixados no artigo 240.º, n.<sup>os</sup>3 e 4;
+b) Não tiverem sido realizadas consultas dentro dos prazos fixados no artigo 240.º, n.os3 e 4;
 
 c) As Partes decidirem não realizar consultas; ou
 
@@ -4259,7 +4259,7 @@ O Comité de Cooperação pode alterar os anexos 14-A e 14-B.
 
 2 - Desde que as medidas em causa não sejam aplicadas de um modo que constitua um meio de discriminação arbitrária ou injustificável entre as Partes quando existam condições idênticas, ou uma restrição dissimulada aos investimentos ou ao comércio de serviços, nenhuma disposição dos capítulos 8 e 12 pode ser interpretada no sentido de impedir uma Parte de adotar ou aplicar medidas necessárias para:
 
-a) Proteger a segurança pública ou a moralidade pública, ou manter a ordem pública<sup>41</sup>;
+a) Proteger a segurança pública ou a moralidade pública, ou manter a ordem pública41;
 
 b) Proteger a vida e a saúde humana, animal ou vegetal;
 
@@ -4273,7 +4273,7 @@ iii) À proteção da privacidade das pessoas quanto ao tratamento e à divulga�
 
 iv) À segurança.
 
-3 - Para maior clareza, as Partes partilham o mesmo entendimento quanto à aplicação dos n.<sup>os</sup>1 e 2 no sentido de que:
+3 - Para maior clareza, as Partes partilham o mesmo entendimento quanto à aplicação dos n.os1 e 2 no sentido de que:
 
 a) As medidas a que se refere o artigo xx, alínea b), do GATT de1994 e o n.º 2, alínea b), do presente artigo incluem as medidas ambientais necessárias para proteger a vida e a saúde humana, animal e vegetal;
 
@@ -4917,7 +4917,7 @@ d) Realização de ações de formação.
 
 1 - Para alcançar os objetivos do presente Acordo, a República do Usbequistão pode beneficiar da assistência financeira da União Europeia, sob a forma de subvenções e empréstimos, eventualmente em parceria com o Banco Europeu de Investimento ou com outras instituições financeiras internacionais. A República do Usbequistão pode também beneficiar de assistência técnica.
 
-2 - Pode ser prestada assistência financeira em conformidade com os instrumentos de financiamento pertinentes da União Europeia relativos à ação externa. O [Regulamento (UE, Euratom) 2018/1046](https://data.europa.eu/eli/reg/2018/1046/oj?locale=pt) do Parlamento Europeu e do Conselho<sup>42</sup> e o [Regulamento Delegado (UE) n.º 1268/2012](https://data.europa.eu/eli/reg/2012/1268/oj?locale=pt) da Comissão<sup>43</sup> são aplicáveis ao financiamento da União Europeia.
+2 - Pode ser prestada assistência financeira em conformidade com os instrumentos de financiamento pertinentes da União Europeia relativos à ação externa. O [Regulamento (UE, Euratom) 2018/1046](https://data.europa.eu/eli/reg/2018/1046/oj?locale=pt) do Parlamento Europeu e do Conselho42 e o [Regulamento Delegado (UE) n.º 1268/2012](https://data.europa.eu/eli/reg/2012/1268/oj?locale=pt) da Comissão43 são aplicáveis ao financiamento da União Europeia.
 
 3 - A assistência financeira tem por base programas de ação anuais elaborados pela União Europeia após consultas com a República do Usbequistão.
 
@@ -4945,7 +4945,7 @@ Quando forem incumbidas da execução de fundos da União Europeia ou forem bene
 
 ###### Artigo 335.º — Cooperação com o OLAF
 
-1 - No âmbito do presente Acordo, o OLAF fica autorizado a efetuar verificações e inspeções no local a fim de verificar a ocorrência de fraudes, corrupção ou outras atividades ilegais suscetíveis de lesarem os interesses financeiros da União Europeia, nos termos do [Regulamento (UE, Euratom) n.º 883/2013](https://data.europa.eu/eli/reg/2013/883/oj?locale=pt) do Parlamento Europeu e do Conselho<sup>44</sup> e dos Regulamentos (Euratom, CE) n.º 2185/96<sup>45</sup> e (CE, Euratom) n.º 2988/95<sup>46</sup> do Conselho.
+1 - No âmbito do presente Acordo, o OLAF fica autorizado a efetuar verificações e inspeções no local a fim de verificar a ocorrência de fraudes, corrupção ou outras atividades ilegais suscetíveis de lesarem os interesses financeiros da União Europeia, nos termos do [Regulamento (UE, Euratom) n.º 883/2013](https://data.europa.eu/eli/reg/2013/883/oj?locale=pt) do Parlamento Europeu e do Conselho44 e dos Regulamentos (Euratom, CE) n.º 2185/9645 e (CE, Euratom) n.º 2988/9546 do Conselho.
 
 2 - As inspeções e verificações no local são preparadas pelo OLAF em estreita cooperação com as autoridades competentes da República do Usbequistão, tendo em conta os requisitos impostos pela sua legislação nacional.
 
@@ -5037,7 +5037,7 @@ b) No território sob a soberania da República do Usbequistão, em que esta exe
 
 3 - As referências a «território» no presente Acordo incluem o espaço aéreo e as águas territoriais, conforme previsto na Convenção das Nações Unidas sobre o Direito do Mar, celebrada em Montego Bay, em 10 de dezembro de 1982.
 
-4 - No que diz respeito às disposições do presente Acordo relativas à cooperação aduaneira, o presente Acordo aplica-se igualmente, no que se refere à União Europeia, às zonas do seu território aduaneiro, na aceção do artigo 4.º do [Regulamento (UE) n.º 952/2013](https://data.europa.eu/eli/reg/2013/952/oj?locale=pt) do Parlamento Europeu e do Conselho<sup>47</sup>, que estabelece o Código Aduaneiro da União, não abrangidas pelo n.º 1, alínea a), do presente artigo.
+4 - No que diz respeito às disposições do presente Acordo relativas à cooperação aduaneira, o presente Acordo aplica-se igualmente, no que se refere à União Europeia, às zonas do seu território aduaneiro, na aceção do artigo 4.º do [Regulamento (UE) n.º 952/2013](https://data.europa.eu/eli/reg/2013/952/oj?locale=pt) do Parlamento Europeu e do Conselho47, que estabelece o Código Aduaneiro da União, não abrangidas pelo n.º 1, alínea a), do presente artigo.
 
 ###### Artigo 343.º — Cumprimento das obrigações e suspensão
 
@@ -5047,9 +5047,9 @@ b) No território sob a soberania da República do Usbequistão, em que esta exe
 
 3 - Se uma das Partes considerar que a outra Parte não cumpriu qualquer das obrigações consagradas como elementos essenciais do presente Acordo no artigo 2.º e no artigo 11.º, notifica de imediato a outra Parte da sua intenção de adotar medidas adequadas. A pedido de qualquer das Partes, são realizadas consultas durante um período máximo de 15 dias a contar da data de notificação pela Parte que manifestou a intenção de adotar medidas adequadas. No termo desse prazo, podem ser adotadas medidas adequadas. Para efeitos do presente número, as «medidas adequadas» podem incluir a suspensão, total ou parcial, do presente Acordo.
 
-4 - Se uma das Partes considerar que a outra Parte não cumpriu qualquer das obrigações previstas no presente Acordo, com exceção das abrangidas pelo âmbito de aplicação dos n.<sup>os</sup> 2 e 3, notifica desse facto a outra Parte. As Partes procedem a consultas no âmbito do Conselho de Cooperação, a fim de encontrar uma solução mutuamente aceitável. Se o Comité de Cooperação não conseguir encontrar uma solução mutuamente aceitável, a Parte notificante pode tomar as medidas adequadas. Para efeitos do presente número, as «medidas adequadas» podem incluir a suspensão unicamente dos títulos i, ii, iii, v, vi, vii, viii e ix do presente Acordo.
+4 - Se uma das Partes considerar que a outra Parte não cumpriu qualquer das obrigações previstas no presente Acordo, com exceção das abrangidas pelo âmbito de aplicação dos n.os 2 e 3, notifica desse facto a outra Parte. As Partes procedem a consultas no âmbito do Conselho de Cooperação, a fim de encontrar uma solução mutuamente aceitável. Se o Comité de Cooperação não conseguir encontrar uma solução mutuamente aceitável, a Parte notificante pode tomar as medidas adequadas. Para efeitos do presente número, as «medidas adequadas» podem incluir a suspensão unicamente dos títulos i, ii, iii, v, vi, vii, viii e ix do presente Acordo.
 
-5 - As «medidas adequadas» a que se referem os n.<sup>os</sup> 3 e 4 são adotadas no pleno respeito pelo direito internacional e devem ser proporcionais ao incumprimento das obrigações previstas no presente Acordo. É atribuída prioridade às medidas que menos afetem o funcionamento do presente Acordo.
+5 - As «medidas adequadas» a que se referem os n.os 3 e 4 são adotadas no pleno respeito pelo direito internacional e devem ser proporcionais ao incumprimento das obrigações previstas no presente Acordo. É atribuída prioridade às medidas que menos afetem o funcionamento do presente Acordo.
 
 ###### Artigo 344.º — Derrogações por motivos de segurança
 
@@ -5147,113 +5147,118 @@ As notificações efetuadas nos termos dos artigos 345.º, 346.º e 353,º do pr
 
 O presente Acordo é redigido em duplo exemplar nas línguas alemã, búlgara, croata, checa, dinamarquesa, eslovaca, eslovena, espanhola, estónia, finlandesa, francesa, grega, irlandesa, húngara, inglesa, irlandesa, italiana, letã, lituana, maltesa, neerlandesa, polaca, portuguesa, romena, sueca e usbeque, fazendo igualmente fé todos os textos.
 
-<sup>1</sup> [Regulamento (UE) 2016/1953](https://data.europa.eu/eli/reg/2016/1953/oj?locale=pt) do Parlamento Europeu e do Conselho, de 26 de outubro de 2016, relativo ao estabelecimento de um documento de viagem europeu para o regresso dos nacionais de países terceiros em situação irregular, e que revoga a Recomendação do Conselho de 30 de novembro de 1994 (JO UE L 311 de 17 de novembro de 2016, p. 13, ELI: http://data.europa.eu/eli/reg/2016/1953/oj).
+1 [Regulamento (UE) 2016/1953](https://data.europa.eu/eli/reg/2016/1953/oj?locale=pt) do Parlamento Europeu e do Conselho, de 26 de outubro de 2016, relativo ao estabelecimento de um documento de viagem europeu para o regresso dos nacionais de países terceiros em situação irregular, e que revoga a Recomendação do Conselho de 30 de novembro de 1994 (JO UE L 311 de 17 de novembro de 2016, p. 13, ELI: http://data.europa.eu/eli/reg/2016/1953/oj).
 
-<sup>2</sup> Para maior clareza, o termo «medida» abrange as omissões.
+2 Para maior clareza, o termo «medida» abrange as omissões.
 
-<sup>3</sup> Para maior clareza, a expressão «medidas adotadas por uma Parte» abrange as medidas adotadas pelas entidades enumeradas na alínea j), subalíneas i) e ii), que sejam adotadas ou mantidas em vigor instruindo, dirigindo ou controlando, direta ou indiretamente, a conduta de outras entidades no que diz respeito a essas medidas.
+3 Para maior clareza, a expressão «medidas adotadas por uma Parte» abrange as medidas adotadas pelas entidades enumeradas na alínea j), subalíneas i) e ii), que sejam adotadas ou mantidas em vigor instruindo, dirigindo ou controlando, direta ou indiretamente, a conduta de outras entidades no que diz respeito a essas medidas.
 
-<sup>4</sup> Para maior clareza, o disposto no presente artigo não exige a uma Parte que conceda licenças de exportação ou impede a mesma de dar cumprimento às obrigações ou compromissos assumidos a título das Resoluções do Conselho de Segurança das Nações Unidas ou de regimes multilaterais de não proliferação e acordos de controlo das exportações.
+4 Para maior clareza, o disposto no presente artigo não exige a uma Parte que conceda licenças de exportação ou impede a mesma de dar cumprimento às obrigações ou compromissos assumidos a título das Resoluções do Conselho de Segurança das Nações Unidas ou de regimes multilaterais de não proliferação e acordos de controlo das exportações.
 
-<sup>5</sup> JO UE L 269 de 21 de outubro de 2003, p. 9, ELI: http://data.europa.eu/eli/agree_internation/2003/744/oj.
+5 JO UE L 269 de 21 de outubro de 2003, p. 9, ELI: http://data.europa.eu/eli/agree_internation/2003/744/oj.
 
-<sup>6</sup> [Diretiva 2001/95/CE](https://data.europa.eu/eli/dir/2001/95/oj?locale=pt) do Parlamento Europeu e do Conselho, de 3 de dezembro de 2001, relativa à segurança geral dos produtos (JO L 11 de 15 de janeiro de 2002, p. 4, ELI: http://data.europa.eu/eli/dir/2001/95/oj).
+6 [Diretiva 2001/95/CE](https://data.europa.eu/eli/dir/2001/95/oj?locale=pt) do Parlamento Europeu e do Conselho, de 3 de dezembro de 2001, relativa à segurança geral dos produtos (JO L 11 de 15 de janeiro de 2002, p. 4, ELI: http://data.europa.eu/eli/dir/2001/95/oj).
 
-<sup>7</sup> Para efeitos do presente número, o termo «proteção» abrange as questões relativas à existência, aquisição, âmbito, manutenção e aplicação efetiva dos direitos de propriedade intelectual, bem como as relativas ao exercício desses direitos expressamente contempladas no presente capítulo. Inclui ainda, para efeitos do presente número, as medidas de prevenção da violação de medidas de caráter tecnológico eficazes e as relativas a informações para a gestão dos direitos.
+7 Para efeitos do presente número, o termo «proteção» abrange as questões relativas à existência, aquisição, âmbito, manutenção e aplicação efetiva dos direitos de propriedade intelectual, bem como as relativas ao exercício desses direitos expressamente contempladas no presente capítulo. Inclui ainda, para efeitos do presente número, as medidas de prevenção da violação de medidas de caráter tecnológico eficazes e as relativas a informações para a gestão dos direitos.
 
-<sup>8</sup> Entende-se por «fixação» a corporização de sons, ou de representação de sons, ou a corporização de imagens em movimento, acompanhadas ou não de sons ou das respetivas representações, a partir da qual estes possam ser apreendidos, reproduzidos ou comunicados por meio de um dispositivo.
+8 Entende-se por «fixação» a corporização de sons, ou de representação de sons, ou a corporização de imagens em movimento, acompanhadas ou não de sons ou das respetivas representações, a partir da qual estes possam ser apreendidos, reproduzidos ou comunicados por meio de um dispositivo.
 
-<sup>9</sup> No caso de medicamentos que tenham sido objeto de estudos pediátricos e cujos resultados se encontrem refletidos na informação sobre o produto, pode ser previsto um possível período de proteção suplementar em relação ao prazo de proteção previsto no n.º 2.
+9 No caso de medicamentos que tenham sido objeto de estudos pediátricos e cujos resultados se encontrem refletidos na informação sobre o produto, pode ser previsto um possível período de proteção suplementar em relação ao prazo de proteção previsto no n.º 2.
 
-<sup>10</sup> Para maior clareza, nos termos do artigo 42.º do Tratado sobre o Funcionamento da União Europeia, o direito da concorrência da União Europeia é aplicável ao setor da agricultura, em conformidade com o [Regulamento (UE) n.º 1308/2013](https://data.europa.eu/eli/reg/2013/1308/oj?locale=pt)[1308/2013](https://data.europa.eu/eli/reg/2013/1308/oj?locale=pt) do Parlamento Europeu e do Conselho que estabelece uma organização comum dos mercados dos produtos agrícolas e que revoga os Regulamentos (CEE) n.º [922/72](https://data.europa.eu/eli/reg/1972/922/oj?locale=pt), (CEE) n.º [234/79](https://data.europa.eu/eli/reg/1979/234/oj?locale=pt), (CE) n.º [1037/2001](https://data.europa.eu/eli/reg/2001/1037/oj?locale=pt) e (CE) n.º [1234/2007](https://data.europa.eu/eli/reg/2007/1234/oj?locale=pt) do Conselho (JO UE L 347/2013, de 20 de dezembro de 2013, p. 671, ELI: http://data.europa.eu/eli/reg/2013/1308/oj).
+10 Para maior clareza, nos termos do artigo 42.º do Tratado sobre o Funcionamento da União Europeia, o direito da concorrência da União Europeia é aplicável ao setor da agricultura, em conformidade com o [Regulamento (UE) n.º 1308/2013](https://data.europa.eu/eli/reg/2013/1308/oj?locale=pt)[1308/2013](https://data.europa.eu/eli/reg/2013/1308/oj?locale=pt) do Parlamento Europeu e do Conselho que estabelece uma organização comum dos mercados dos produtos agrícolas e que revoga os Regulamentos (CEE) n.º [922/72](https://data.europa.eu/eli/reg/1972/922/oj?locale=pt), (CEE) n.º [234/79](https://data.europa.eu/eli/reg/1979/234/oj?locale=pt), (CE) n.º [1037/2001](https://data.europa.eu/eli/reg/2001/1037/oj?locale=pt) e (CE) n.º [1234/2007](https://data.europa.eu/eli/reg/2007/1234/oj?locale=pt) do Conselho (JO UE L 347/2013, de 20 de dezembro de 2013, p. 671, ELI: http://data.europa.eu/eli/reg/2013/1308/oj).
 
-<sup>11</sup> Para maior clareza, esta definição não prejudica os resultados de futuras discussões no âmbito da OMC sobre a definição de subvenções no domínio dos serviços. Em função dos progressos alcançados nas discussões a nível da OMC, as Partes podem decidir atualizar o presente Acordo a esse respeito.
+11 Para maior clareza, esta definição não prejudica os resultados de futuras discussões no âmbito da OMC sobre a definição de subvenções no domínio dos serviços. Em função dos progressos alcançados nas discussões a nível da OMC, as Partes podem decidir atualizar o presente Acordo a esse respeito.
 
-<sup>12</sup> Para maior clareza, os requisitos de notificação previstos no artigo 145.º, n.º 2, alíneas a) e b), serão aplicáveis à República do Usbequistão a partir da data em que o país aderir à OMC.
+12 Para maior clareza, os requisitos de notificação previstos no artigo 145.º, n.º 2, alíneas a) e b), serão aplicáveis à República do Usbequistão a partir da data em que o país aderir à OMC.
 
-<sup>13</sup> Considera-se que esta condição está preenchida sempre que os factos demonstrem que a concessão de uma subvenção, apesar de não estar juridicamente subordinada aos resultados das exportações, se encontra na realidade ligada às exportações ou às receitas reais ou previstas das exportações. O simples facto de uma subvenção ser concedida a empresas exportadoras não significa que, apenas por essa razão, se trate de uma subvenção à exportação na aceção da presente disposição.
+13 Considera-se que esta condição está preenchida sempre que os factos demonstrem que a concessão de uma subvenção, apesar de não estar juridicamente subordinada aos resultados das exportações, se encontra na realidade ligada às exportações ou às receitas reais ou previstas das exportações. O simples facto de uma subvenção ser concedida a empresas exportadoras não significa que, apenas por essa razão, se trate de uma subvenção à exportação na aceção da presente disposição.
 
-<sup>14</sup> Para maior clareza, as atividades realizadas por uma empresa sem fins lucrativos ou numa base de recuperação de custos não são atividades exercidas de forma orientada para a obtenção de lucros.
+14 Para maior clareza, as atividades realizadas por uma empresa sem fins lucrativos ou numa base de recuperação de custos não são atividades exercidas de forma orientada para a obtenção de lucros.
 
-<sup>15</sup> Para maior clareza, no estabelecimento do controlo, devem ser tidos em conta todos os elementos jurídicos e factuais pertinentes, numa base casuística.
+15 Para maior clareza, no estabelecimento do controlo, devem ser tidos em conta todos os elementos jurídicos e factuais pertinentes, numa base casuística.
 
-<sup>16</sup> A República do Usbequistão não é parte no Acordo sobre Contratos Públicos [UE: à data da assinatura do presente Acordo].
+16 A República do Usbequistão não é parte no Acordo sobre Contratos Públicos [UE: à data da assinatura do presente Acordo].
 
-<sup>17</sup> Para maior clareza, a imparcialidade com que o organismo exerce as suas funções de regulação deve ser avaliada tendo como referência um padrão ou prática geral desse organismo.
+17 Para maior clareza, a imparcialidade com que o organismo exerce as suas funções de regulação deve ser avaliada tendo como referência um padrão ou prática geral desse organismo.
 
-<sup>18</sup> Para maior clareza, no que se refere aos setores em relação aos quais as Partes acordaram obrigações específicas relacionadas com esse organismo noutros capítulos, prevalecem as disposições aplicáveis desses capítulos.
+18 Para maior clareza, no que se refere aos setores em relação aos quais as Partes acordaram obrigações específicas relacionadas com esse organismo noutros capítulos, prevalecem as disposições aplicáveis desses capítulos.
 
-<sup>19</sup> O simples facto de se exigir um visto para as pessoas singulares de certos países e não para as pessoas singulares de outros países não deve ser considerado uma medida que anula ou compromete os benefícios que advêm do presente capítulo.
+19 O simples facto de se exigir um visto para as pessoas singulares de certos países e não para as pessoas singulares de outros países não deve ser considerado uma medida que anula ou compromete os benefícios que advêm do presente capítulo.
 
-<sup>20</sup> Para maior clareza, os serviços aéreos ou serviços conexos de apoio a serviços aéreos incluem, entre outros, os seguintes serviços: transporte aéreo; serviços prestados através da utilização de uma aeronave cuja principal finalidade não seja o transporte de mercadorias ou de passageiros, tais como voos de combate a incêndios, formação, turismo, pulverização, levantamento topográfico, cartografia, fotografia, saltos de paraquedas, reboque de planadores, transporte por helicóptero na exploração florestal e na construção, bem como outros serviços aéreos para fins agrícolas, industriais e de inspeção; aluguer de aeronaves com tripulação e serviços de exploração de aeroportos.
+20 Para maior clareza, os serviços aéreos ou serviços conexos de apoio a serviços aéreos incluem, entre outros, os seguintes serviços: transporte aéreo; serviços prestados através da utilização de uma aeronave cuja principal finalidade não seja o transporte de mercadorias ou de passageiros, tais como voos de combate a incêndios, formação, turismo, pulverização, levantamento topográfico, cartografia, fotografia, saltos de paraquedas, reboque de planadores, transporte por helicóptero na exploração florestal e na construção, bem como outros serviços aéreos para fins agrícolas, industriais e de inspeção; aluguer de aeronaves com tripulação e serviços de exploração de aeroportos.
 
-<sup>21</sup> Sem prejuízo do âmbito de atividades que podem ser consideradas cabotagem ao abrigo da respetiva legislação nacional, a cabotagem marítima nacional prevista no presente capítulo abrange, no que respeita à União Europeia, o transporte de passageiros ou de mercadorias entre um porto ou ponto situado num Estado-Membro da União Europeia e outro porto ou ponto situado no mesmo Estado-Membro da União Europeia, incluindo na sua plataforma continental, como previsto na Convenção das Nações Unidas sobre o Direito do Mar, e o tráfego com origem e destino no mesmo porto ou ponto situado num Estado-Membro da União Europeia.
+21 Sem prejuízo do âmbito de atividades que podem ser consideradas cabotagem ao abrigo da respetiva legislação nacional, a cabotagem marítima nacional prevista no presente capítulo abrange, no que respeita à União Europeia, o transporte de passageiros ou de mercadorias entre um porto ou ponto situado num Estado-Membro da União Europeia e outro porto ou ponto situado no mesmo Estado-Membro da União Europeia, incluindo na sua plataforma continental, como previsto na Convenção das Nações Unidas sobre o Direito do Mar, e o tráfego com origem e destino no mesmo porto ou ponto situado num Estado-Membro da União Europeia.
 
-<sup>22</sup> Para maior clareza, as companhias de transporte marítimo referidas nesta alínea só são consideradas pessoas coletivas de uma Parte no que respeita às respetivas atividades relacionadas com a prestação de serviços de transporte marítimo.
+22 Para maior clareza, as companhias de transporte marítimo referidas nesta alínea só são consideradas pessoas coletivas de uma Parte no que respeita às respetivas atividades relacionadas com a prestação de serviços de transporte marítimo.
 
-<sup>23</sup> Em consonância com a sua notificação do Tratado que institui a Comunidade Europeia à OMC (doc. WT/REG39/1), a União Europeia entende que o conceito de «ligação efetiva e contínua» com a economia de um Estado-Membro da União Europeia consagrado no artigo 54.º do TFUE é equivalente ao conceito de «volume significativo de operações comerciais».
+23 Em consonância com a sua notificação do Tratado que institui a Comunidade Europeia à OMC (doc. WT/REG39/1), a União Europeia entende que o conceito de «ligação efetiva e contínua» com a economia de um Estado-Membro da União Europeia consagrado no artigo 54.º do TFUE é equivalente ao conceito de «volume significativo de operações comerciais».
 
-<sup>24</sup> Para maior clareza, a definição de «medidas adotadas por uma Parte» abrange as medidas das entidades enumeradas na alínea l), subalíneas i) e ii), que sejam adotadas ou mantidas em vigor instruindo, dirigindo ou controlando, direta ou indiretamente, a conduta de outras entidades no que diz respeito a essas medidas.
+24 Para maior clareza, a definição de «medidas adotadas por uma Parte» abrange as medidas das entidades enumeradas na alínea l), subalíneas i) e ii), que sejam adotadas ou mantidas em vigor instruindo, dirigindo ou controlando, direta ou indiretamente, a conduta de outras entidades no que diz respeito a essas medidas.
 
-<sup>25</sup> Para a União Europeia, a definição de «pessoa singular de uma Parte» inclui igualmente as pessoas que tenham residência permanente na República da Letónia mas não sejam cidadãos deste país nem de qualquer outro Estado e que tenham direito, ao abrigo do direito da República da Letónia, a receber um passaporte de «não cidadão».
+25 Para a União Europeia, a definição de «pessoa singular de uma Parte» inclui igualmente as pessoas que tenham residência permanente na República da Letónia mas não sejam cidadãos deste país nem de qualquer outro Estado e que tenham direito, ao abrigo do direito da República da Letónia, a receber um passaporte de «não cidadão».
 
-<sup>26</sup> Para maior clareza, a mera transposição para o direito nacional de disposições materiais constantes de outros acordos internacionais celebrados por uma Parte com um país terceiro, na medida em que seja necessária para incorporar essas disposições no seu ordenamento jurídico interno, não pode ser considerada, por si só, como uma medida.
+26 Para maior clareza, a mera transposição para o direito nacional de disposições materiais constantes de outros acordos internacionais celebrados por uma Parte com um país terceiro, na medida em que seja necessária para incorporar essas disposições no seu ordenamento jurídico interno, não pode ser considerada, por si só, como uma medida.
 
-<sup>27</sup> Para a União Europeia, o contrato celebrado de boa-fé não pode exceder 12 meses.
+27 Para a União Europeia, o contrato celebrado de boa-fé não pode exceder 12 meses.
 
-<sup>28</sup> O contrato de prestação de serviços a que se refere a alínea b) deve cumprir os requisitos das disposições legislativas da Parte em que é executado.
+28 O contrato de prestação de serviços a que se refere a alínea b) deve cumprir os requisitos das disposições legislativas da Parte em que é executado.
 
-<sup>29</sup> Obtida após a maioridade.
+29 Obtida após a maioridade.
 
-<sup>30</sup> Nos casos em que o diploma ou as habilitações não tenham sido obtidos na Parte em que o serviço é prestado, essa Parte pode avaliar se são equivalentes ao diploma universitário exigido no seu território.
+30 Nos casos em que o diploma ou as habilitações não tenham sido obtidos na Parte em que o serviço é prestado, essa Parte pode avaliar se são equivalentes ao diploma universitário exigido no seu território.
 
-<sup>31</sup> Para maior clareza, pode exigir-se que os gestores e especialistas demonstrem que possuem as qualificações profissionais e a experiência necessárias na pessoa coletiva para a qual são transferidos.
+31 Para maior clareza, pode exigir-se que os gestores e especialistas demonstrem que possuem as qualificações profissionais e a experiência necessárias na pessoa coletiva para a qual são transferidos.
 
-<sup>32</sup> Para maior clareza, se bem que os gestores ou diretores não desempenhem tarefas relacionadas com a prestação efetiva dos serviços, tal não os impede, no exercício das suas funções, como acima descrito, de desempenhar tarefas que possam ser necessárias para a prestação dos serviços.
+32 Para maior clareza, se bem que os gestores ou diretores não desempenhem tarefas relacionadas com a prestação efetiva dos serviços, tal não os impede, no exercício das suas funções, como acima descrito, de desempenhar tarefas que possam ser necessárias para a prestação dos serviços.
 
-<sup>33</sup> Para maior clareza, se uma Parte tiver formulado uma reserva no anexo 12-D ou no anexo 12-A, a mesma constitui igualmente uma reserva ao disposto no presente artigo desde que a medida estabelecida ou autorizada por essa reserva afete o tratamento das pessoas singulares que, por motivos profissionais, pretendam entrar ou permanecer temporariamente no território da outra Parte.
+33 Para maior clareza, se uma Parte tiver formulado uma reserva no anexo 12-D ou no anexo 12-A, a mesma constitui igualmente uma reserva ao disposto no presente artigo desde que a medida estabelecida ou autorizada por essa reserva afete o tratamento das pessoas singulares que, por motivos profissionais, pretendam entrar ou permanecer temporariamente no território da outra Parte.
 
-<sup>34</sup> No que respeita à União Europeia, o prazo de 90 dias é calculado em função de cada período de 6 meses.
+34 No que respeita à União Europeia, o prazo de 90 dias é calculado em função de cada período de 6 meses.
 
-<sup>35</sup> Para maior clareza, se uma Parte tiver formulado uma reserva no anexo 12-A ou no anexo 12-B, a mesma constitui igualmente uma reserva ao disposto no presente artigo desde que a medida estabelecida ou autorizada por essa reserva afete o tratamento das pessoas singulares que, por motivos profissionais, pretendam entrar ou permanecer temporariamente no território da outra Parte.
+35 Para maior clareza, se uma Parte tiver formulado uma reserva no anexo 12-A ou no anexo 12-B, a mesma constitui igualmente uma reserva ao disposto no presente artigo desde que a medida estabelecida ou autorizada por essa reserva afete o tratamento das pessoas singulares que, por motivos profissionais, pretendam entrar ou permanecer temporariamente no território da outra Parte.
 
-<sup>36</sup> As taxas de licenciamento ou autorização não incluem pagamentos para leilões, concursos ou outros meios não discriminatórios de atribuição de concessões, nem as contribuições obrigatórias para a prestação do serviço universal.
+36 As taxas de licenciamento ou autorização não incluem pagamentos para leilões, concursos ou outros meios não discriminatórios de atribuição de concessões, nem as contribuições obrigatórias para a prestação do serviço universal.
 
-<sup>37</sup> Para maior clareza, este número não se aplica às medidas de caráter fiscal ou às taxas administrativas geralmente aplicáveis.
+37 Para maior clareza, este número não se aplica às medidas de caráter fiscal ou às taxas administrativas geralmente aplicáveis.
 
-<sup>38</sup> Para efeitos do presente artigo, entende-se por «não discriminatórios» o tratamento da nação mais favorecida e o tratamento nacional, tal como definidos no artigo 194.º, bem como o tratamento em termos e condições não menos favoráveis do que os concedidos a outro utilizador de serviços ou de redes públicas de telecomunicações similares em situações semelhantes.
+38 Para efeitos do presente artigo, entende-se por «não discriminatórios» o tratamento da nação mais favorecida e o tratamento nacional, tal como definidos no artigo 194.º, bem como o tratamento em termos e condições não menos favoráveis do que os concedidos a outro utilizador de serviços ou de redes públicas de telecomunicações similares em situações semelhantes.
 
-<sup>39</sup> Para efeitos do presente capítulo, entende-se por «moeda livremente convertível» uma moeda que pode ser livremente trocada por divisas que são largamente negociadas em mercados internacionais de divisas e amplamente utilizadas em transações internacionais. Para maior clareza, as moedas que são largamente negociadas em mercados internacionais de divisas e amplamente utilizadas em transações internacionais incluem as moedas utilizáveis livremente designadas pelo Fundo Monetário Internacional, em conformidade com o disposto no Acordo relativo ao Fundo Monetário Internacional.
+39 Para efeitos do presente capítulo, entende-se por «moeda livremente convertível» uma moeda que pode ser livremente trocada por divisas que são largamente negociadas em mercados internacionais de divisas e amplamente utilizadas em transações internacionais. Para maior clareza, as moedas que são largamente negociadas em mercados internacionais de divisas e amplamente utilizadas em transações internacionais incluem as moedas utilizáveis livremente designadas pelo Fundo Monetário Internacional, em conformidade com o disposto no Acordo relativo ao Fundo Monetário Internacional.
 
-<sup>40</sup> No caso da União Europeia, tais medidas podem ser adotadas por qualquer dos Estados Membros em situações distintas das referidas no artigo 236.º e que afetem a respetiva economia. Para maior clareza, as dificuldades graves, ou tal ameaça, a nível da balança de pagamentos ou da posição financeira externa podem ser causadas, entre outros fatores, por graves dificuldades ou ameaças de graves dificuldades relacionadas com as políticas monetárias e cambiais.
+40 No caso da União Europeia, tais medidas podem ser adotadas por qualquer dos Estados Membros em situações distintas das referidas no artigo 236.º e que afetem a respetiva economia. Para maior clareza, as dificuldades graves, ou tal ameaça, a nível da balança de pagamentos ou da posição financeira externa podem ser causadas, entre outros fatores, por graves dificuldades ou ameaças de graves dificuldades relacionadas com as políticas monetárias e cambiais.
 
-<sup>41</sup> As exceções relativas à segurança pública e à ordem pública só podem ser invocadas se existir uma ameaça real e suficientemente grave a um interesse fundamental da sociedade.
+41 As exceções relativas à segurança pública e à ordem pública só podem ser invocadas se existir uma ameaça real e suficientemente grave a um interesse fundamental da sociedade.
 
-<sup>42</sup> [Regulamento (UE, Euratom) 2018/1046](https://data.europa.eu/eli/reg/2018/1046/oj?locale=pt) do Parlamento Europeu e do Conselho, de 18 de julho de 2018, relativo às disposições financeiras aplicáveis ao orçamento geral da União, que altera os Regulamentos (UE) n.º [1296/2013](https://data.europa.eu/eli/reg/2013/1296/oj?locale=pt), (UE) n.º [1301/2013](https://data.europa.eu/eli/reg/2013/1301/oj?locale=pt), (UE) n.º [1303/2013](https://data.europa.eu/eli/reg/2013/1303/oj?locale=pt), (UE) n.º [1304/2013](https://data.europa.eu/eli/reg/2013/1304/oj?locale=pt), (UE) n.º [1309/2013](https://data.europa.eu/eli/reg/2013/1309/oj?locale=pt), (UE) n.º [1316/2013](https://data.europa.eu/eli/reg/2013/1316/oj?locale=pt), (UE) n.º [223/2014](https://data.europa.eu/eli/reg/2014/223/oj?locale=pt) e (UE) n.º [283/2014](https://data.europa.eu/eli/reg/2014/283/oj?locale=pt), e a [Decisão n.º 541/2014/UE](https://data.europa.eu/eli/dec/2014/541/oj?locale=pt), e revoga o [Regulamento (UE, Euratom) n.º 966/2012](https://data.europa.eu/eli/reg/2012/966/oj?locale=pt) (JO UE L 139, de 30 de julho de 2017, p. 1, ELI: http://data.europa.eu/eli/reg/2018/1046/oj).
+42 [Regulamento (UE, Euratom) 2018/1046](https://data.europa.eu/eli/reg/2018/1046/oj?locale=pt) do Parlamento Europeu e do Conselho, de 18 de julho de 2018, relativo às disposições financeiras aplicáveis ao orçamento geral da União, que altera os Regulamentos (UE) n.º [1296/2013](https://data.europa.eu/eli/reg/2013/1296/oj?locale=pt), (UE) n.º [1301/2013](https://data.europa.eu/eli/reg/2013/1301/oj?locale=pt), (UE) n.º [1303/2013](https://data.europa.eu/eli/reg/2013/1303/oj?locale=pt), (UE) n.º [1304/2013](https://data.europa.eu/eli/reg/2013/1304/oj?locale=pt), (UE) n.º [1309/2013](https://data.europa.eu/eli/reg/2013/1309/oj?locale=pt), (UE) n.º [1316/2013](https://data.europa.eu/eli/reg/2013/1316/oj?locale=pt), (UE) n.º [223/2014](https://data.europa.eu/eli/reg/2014/223/oj?locale=pt) e (UE) n.º [283/2014](https://data.europa.eu/eli/reg/2014/283/oj?locale=pt), e a [Decisão n.º 541/2014/UE](https://data.europa.eu/eli/dec/2014/541/oj?locale=pt), e revoga o [Regulamento (UE, Euratom) n.º 966/2012](https://data.europa.eu/eli/reg/2012/966/oj?locale=pt) (JO UE L 139, de 30 de julho de 2017, p. 1, ELI: http://data.europa.eu/eli/reg/2018/1046/oj).
 
-<sup>43</sup> [Regulamento Delegado (UE) n.º 1268/2012](https://data.europa.eu/eli/reg/2012/1268/oj?locale=pt) da Comissão, de 29 de outubro de 2012, sobre as normas de execução do [Regulamento (UE, Euratom) n.º 966/2012](https://data.europa.eu/eli/reg/2012/966/oj?locale=pt) do Parlamento Europeu e do Conselho, relativo às disposições financeiras aplicáveis ao orçamento geral da União Europeia (JO L 362, de 31 de dezembro de 2012, p. 1, ELI: http://data.europa.eu/eli/reg_del/2012/1268/oj).
+43 [Regulamento Delegado (UE) n.º 1268/2012](https://data.europa.eu/eli/reg/2012/1268/oj?locale=pt) da Comissão, de 29 de outubro de 2012, sobre as normas de execução do [Regulamento (UE, Euratom) n.º 966/2012](https://data.europa.eu/eli/reg/2012/966/oj?locale=pt) do Parlamento Europeu e do Conselho, relativo às disposições financeiras aplicáveis ao orçamento geral da União Europeia (JO L 362, de 31 de dezembro de 2012, p. 1, ELI: http://data.europa.eu/eli/reg_del/2012/1268/oj).
 
-<sup>44</sup> [Regulamento (UE, Euratom) n.º 883/2013](https://data.europa.eu/eli/reg/2013/883/oj?locale=pt) do Parlamento Europeu e do Conselho, de 11 de setembro de 2013, relativo aos inquéritos efetuados pelo Organismo Europeu de Luta Antifraude (OLAF) e que revoga o [Regulamento (CE) n.º 1073/1999](https://data.europa.eu/eli/reg/1999/1073/oj?locale=pt) do Parlamento Europeu e do Conselho e o [Regulamento (Euratom) n.º 1074/1999](https://data.europa.eu/eli/reg/1999/1074/oj?locale=pt) do Conselho (JO L 248, de 18 de setembro de 2013, p. 1, ELI: http://data.europa.eu/eli/reg/2013/883/oj), com a última redação que lhe foi dada pelo [Regulamento (UE, Euratom) 2016/2030](https://data.europa.eu/eli/reg/2016/2030/oj?locale=pt) de 26 de outubro de 2016 (JO UE L 317, de 23 de novembro de 2016, p. 1, ELI: http://data.europa.eu/eli/reg/2016/2030/oj).
+44 [Regulamento (UE, Euratom) n.º 883/2013](https://data.europa.eu/eli/reg/2013/883/oj?locale=pt) do Parlamento Europeu e do Conselho, de 11 de setembro de 2013, relativo aos inquéritos efetuados pelo Organismo Europeu de Luta Antifraude (OLAF) e que revoga o [Regulamento (CE) n.º 1073/1999](https://data.europa.eu/eli/reg/1999/1073/oj?locale=pt) do Parlamento Europeu e do Conselho e o [Regulamento (Euratom) n.º 1074/1999](https://data.europa.eu/eli/reg/1999/1074/oj?locale=pt) do Conselho (JO L 248, de 18 de setembro de 2013, p. 1, ELI: http://data.europa.eu/eli/reg/2013/883/oj), com a última redação que lhe foi dada pelo [Regulamento (UE, Euratom) 2016/2030](https://data.europa.eu/eli/reg/2016/2030/oj?locale=pt) de 26 de outubro de 2016 (JO UE L 317, de 23 de novembro de 2016, p. 1, ELI: http://data.europa.eu/eli/reg/2016/2030/oj).
 
-<sup>45</sup> [Regulamento (Euratom, CE) n.º 2185/96](https://data.europa.eu/eli/reg/1996/2185/oj?locale=pt) do Conselho, de 11 de novembro de 1996, relativo às inspeções e verificações no local efetuadas pela Comissão para proteger os interesses financeiros das Comunidades Europeias contra a fraude e outras irregularidades (JO UE L 292, de 15 de novembro de 1996, p. 2, ELI: http://data.europa.eu/eli/reg/1996/2185/oj).
+45 [Regulamento (Euratom, CE) n.º 2185/96](https://data.europa.eu/eli/reg/1996/2185/oj?locale=pt) do Conselho, de 11 de novembro de 1996, relativo às inspeções e verificações no local efetuadas pela Comissão para proteger os interesses financeiros das Comunidades Europeias contra a fraude e outras irregularidades (JO UE L 292, de 15 de novembro de 1996, p. 2, ELI: http://data.europa.eu/eli/reg/1996/2185/oj).
 
-<sup>46</sup> [Regulamento (CE, Euratom) n.º 2988/95](https://data.europa.eu/eli/reg/1995/2988/oj?locale=pt) do Conselho, de 18 de dezembro de 1995, relativo à proteção dos interesses financeiros das Comunidades Europeias (JO L 312, de 23 de dezembro de 1995, p. 1, ELI: http://data.europa.eu/eli/reg/1995/2988/oj).
+46 [Regulamento (CE, Euratom) n.º 2988/95](https://data.europa.eu/eli/reg/1995/2988/oj?locale=pt) do Conselho, de 18 de dezembro de 1995, relativo à proteção dos interesses financeiros das Comunidades Europeias (JO L 312, de 23 de dezembro de 1995, p. 1, ELI: http://data.europa.eu/eli/reg/1995/2988/oj).
 
-<sup>47</sup> [Regulamento (UE) n.º 952/2013](https://data.europa.eu/eli/reg/2013/952/oj?locale=pt) do Parlamento Europeu e do Conselho, de 9 de outubro de 2013, que estabelece o Código Aduaneiro da União (JO L 269, de 10 de outubro de 2013, p. 1, ELI: http://data.europa.eu/eli/reg/2013/952/oj).
+47 [Regulamento (UE) n.º 952/2013](https://data.europa.eu/eli/reg/2013/952/oj?locale=pt) do Parlamento Europeu e do Conselho, de 9 de outubro de 2013, que estabelece o Código Aduaneiro da União (JO L 269, de 10 de outubro de 2013, p. 1, ELI: http://data.europa.eu/eli/reg/2013/952/oj).
 
 Em fé do que, os plenipotenciários abaixo assinados, devidamente autorizados para o efeito, assinaram o presente Acordo.
 
 ## ANEXO 3
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225584.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225584.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225585.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225585.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225586.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225586.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225587.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225587.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225588.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225588.png) |
+| --- |
 
 ## ANEXO 5-A — Organizações Internacionais de Normalização
 
@@ -5369,7 +5374,9 @@ Em conformidade com o artigo 61.º, n.º 8, do Acordo, o referido acordo deve es
 
 ## ANEXO 6 — Quadro que estabelece o reconhecimento da equivalência a que se refere o artigo 68.º, n.º 2
 
-## ANEXO 7-A — SECÇÃO A
+## ANEXO 7-A
+
+#### SECÇÃO A
 
 LEGISLAÇÃO DAS PARTES
 
@@ -5383,11 +5390,11 @@ c) Lei n.º 757 da República do Usbequistão relativa às indicações geográf
 
 Legislação da União Europeia:
 
-a) [Regulamento (UE) n.º 2024/1143](https://data.europa.eu/eli/reg/2024/1143/oj?locale=pt) do Parlamento Europeu e do Conselho, de 11 de abril de 2024, relativo às indicações geográficas para o vinho, as bebidas espirituosas e os produtos agrícolas, bem como às especialidades tradicionais garantidas e às menções de qualidade facultativas para os produtos agrícolas, que altera os Regulamentos (UE) n.<sup>os</sup> [1308/2013](https://data.europa.eu/eli/reg/2013/1308/oj?locale=pt), (UE) [2019/787](https://data.europa.eu/eli/reg/2019/787/oj?locale=pt) e (UE) [2019/1753](https://data.europa.eu/eli/reg/2019/1753/oj?locale=pt) e que revoga o [Regulamento (UE) n.º 1151/2012](https://data.europa.eu/eli/reg/2012/1151/oj?locale=pt)<sup>1</sup>;
+a) [Regulamento (UE) n.º 2024/1143](https://data.europa.eu/eli/reg/2024/1143/oj?locale=pt) do Parlamento Europeu e do Conselho, de 11 de abril de 2024, relativo às indicações geográficas para o vinho, as bebidas espirituosas e os produtos agrícolas, bem como às especialidades tradicionais garantidas e às menções de qualidade facultativas para os produtos agrícolas, que altera os Regulamentos (UE) n.os [1308/2013](https://data.europa.eu/eli/reg/2013/1308/oj?locale=pt), (UE) [2019/787](https://data.europa.eu/eli/reg/2019/787/oj?locale=pt) e (UE) [2019/1753](https://data.europa.eu/eli/reg/2019/1753/oj?locale=pt) e que revoga o [Regulamento (UE) n.º 1151/2012](https://data.europa.eu/eli/reg/2012/1151/oj?locale=pt)1;
 
-b) [Regulamento (UE) n.º 1308/2013](https://data.europa.eu/eli/reg/2013/1308/oj?locale=pt)[1308/2013](https://data.europa.eu/eli/reg/2013/1308/oj?locale=pt) do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece uma organização comum dos mercados dos produtos agrícolas e que revoga os Regulamentos (CEE) n.º [922/72](https://data.europa.eu/eli/reg/1972/922/oj?locale=pt), (CEE) n.º [234/79](https://data.europa.eu/eli/reg/1979/234/oj?locale=pt), (CE) n.º [1037/2001](https://data.europa.eu/eli/reg/2001/1037/oj?locale=pt) e (CE) n.º [1234/2007](https://data.europa.eu/eli/reg/2007/1234/oj?locale=pt) do Conselho<sup>2</sup>, nomeadamente os artigos 92.º a 111.º relativos às denominações de origem e indicações geográficas e respetivos atos de execução;
+b) [Regulamento (UE) n.º 1308/2013](https://data.europa.eu/eli/reg/2013/1308/oj?locale=pt)[1308/2013](https://data.europa.eu/eli/reg/2013/1308/oj?locale=pt) do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece uma organização comum dos mercados dos produtos agrícolas e que revoga os Regulamentos (CEE) n.º [922/72](https://data.europa.eu/eli/reg/1972/922/oj?locale=pt), (CEE) n.º [234/79](https://data.europa.eu/eli/reg/1979/234/oj?locale=pt), (CE) n.º [1037/2001](https://data.europa.eu/eli/reg/2001/1037/oj?locale=pt) e (CE) n.º [1234/2007](https://data.europa.eu/eli/reg/2007/1234/oj?locale=pt) do Conselho2, nomeadamente os artigos 92.º a 111.º relativos às denominações de origem e indicações geográficas e respetivos atos de execução;
 
-c) [Regulamento (UE) 2019/787](https://data.europa.eu/eli/reg/2019/787/oj?locale=pt)[2019/787](https://data.europa.eu/eli/reg/2019/787/oj?locale=pt) do Parlamento Europeu e do Conselho, de 17 de abril de 2019, relativo à definição, designação, apresentação e rotulagem das bebidas espirituosas, à utilização das denominações das bebidas espirituosas na apresentação e rotulagem de outros géneros alimentícios e à proteção das indicações geográficas das bebidas espirituosas, à utilização de álcool etílico e de destilados de origem agrícola na produção de bebidas alcoólicas, e que revoga o [Regulamento (CE) n.º 110/2008](https://data.europa.eu/eli/reg/2008/110/oj?locale=pt)<sup>3</sup> e respetivos atos de execução.
+c) [Regulamento (UE) 2019/787](https://data.europa.eu/eli/reg/2019/787/oj?locale=pt)[2019/787](https://data.europa.eu/eli/reg/2019/787/oj?locale=pt) do Parlamento Europeu e do Conselho, de 17 de abril de 2019, relativo à definição, designação, apresentação e rotulagem das bebidas espirituosas, à utilização das denominações das bebidas espirituosas na apresentação e rotulagem de outros géneros alimentícios e à proteção das indicações geográficas das bebidas espirituosas, à utilização de álcool etílico e de destilados de origem agrícola na produção de bebidas alcoólicas, e que revoga o [Regulamento (CE) n.º 110/2008](https://data.europa.eu/eli/reg/2008/110/oj?locale=pt)3 e respetivos atos de execução.
 
 #### SECÇÃO B — ELEMENTOS PARA REGISTO E CONTROLO DAS INDICAÇÕES GEOGRÁFICAS
 
@@ -5411,11 +5418,11 @@ c) [Regulamento (UE) 2019/787](https://data.europa.eu/eli/reg/2019/787/oj?locale
 
 10 - Um procedimento de oposição que permita tomar em consideração os legítimos interesses de anteriores utilizadores das denominações, quer essas denominações sejam ou não protegidas sob a forma de propriedade intelectual.
 
-<sup>1</sup> JO UE L 2024/1143, 23 de abril de 2024, ELI: http://data.europa.eu/eli/reg/2024/1143/oj.
+1 JO UE L 2024/1143, 23 de abril de 2024, ELI: http://data.europa.eu/eli/reg/2024/1143/oj.
 
-<sup>2</sup> JO UE L 347, de 20 de dezembro de 2013, p. 671, ELI: http://data.europa.eu/eli/reg/2013/1308/oj.
+2 JO UE L 347, de 20 de dezembro de 2013, p. 671, ELI: http://data.europa.eu/eli/reg/2013/1308/oj.
 
-<sup>3</sup> JO UE L 130, de 17 de maio de 2019, p. 1, ELI: http://data.europa.eu/eli/reg/2019/787/oj.
+3 JO UE L 130, de 17 de maio de 2019, p. 1, ELI: http://data.europa.eu/eli/reg/2019/787/oj.
 
 ## ANEXO 7-B — Critérios para o procedimento de oposição
 
@@ -5513,7 +5520,7 @@ e) Especifica elementos que indiquem que a denominação cuja proteção e regis
 | IT | Grana Padano | Queijos |  |
 | IT | Mortadella Bologna | Produtos à base de carne (aquecidos, salgados, fumados, etc.) |  |
 | IT | Mozzarella di Bufala Campana | Queijos |  |
-| IT | Parmigiano Reggiano<sup>1</sup> | Queijos |  |
+| IT | Parmigiano Reggiano1 | Queijos |  |
 | IT | Pecorino Romano | Queijos |  |
 | IT | Prosciutto di Parma | Produtos à base de carne (aquecidos, salgados, fumados, etc.) |  |
 | IT | Prosciutto di San Daniele | Produtos à base de carne (aquecidos, salgados, fumados, etc.) |  |
@@ -5529,7 +5536,7 @@ e) Especifica elementos que indiquem que a denominação cuja proteção e regis
 | SI | Kranjska Klobasa | Produtos à base de carne (aquecidos, salgados, fumados, etc.) |  |
 | SI | Kraški pršut | Produtos à base de carne (aquecidos, salgados, fumados, etc.) |  |
 
-<sup>1</sup> Nos termos do artigo X.34, n.º 1, alínea b), o termo «parmesão» é considerado uma referência indevida à indicação geográfica «Parmigiano Reggiano» quando seja utilizado em relação a um produto que não cumpre o caderno de especificações da referida indicação geográfica.
+1 Nos termos do artigo X.34, n.º 1, alínea b), o termo «parmesão» é considerado uma referência indevida à indicação geográfica «Parmigiano Reggiano» quando seja utilizado em relação a um produto que não cumpre o caderno de especificações da referida indicação geográfica.
 
 2 - Lista de bebidas espirituosas
 
@@ -5735,7 +5742,7 @@ b) 6 000 000 direitos de saque especiais (DSE) para todos os serviços de constr
 
 Entidades abrangidas:
 
-Todas as autoridades adjudicantes regionais de todos os Estados-Membros, das unidades administrativas dos níveis NUTS 1 e 2 referidas no [Regulamento (CE) n.º 1059/2003](https://data.europa.eu/eli/reg/2003/1059/oj?locale=pt) do Parlamento Europeu e do Conselho<sup>1</sup>.
+Todas as autoridades adjudicantes regionais de todos os Estados-Membros, das unidades administrativas dos níveis NUTS 1 e 2 referidas no [Regulamento (CE) n.º 1059/2003](https://data.europa.eu/eli/reg/2003/1059/oj?locale=pt) do Parlamento Europeu e do Conselho1.
 
 ##### SUBSECÇÃO B — REPÚBLICA DO USBEQUISTÃO
 
@@ -6187,7 +6194,7 @@ Sob reserva das notas gerais e das derrogações previstas na secção 7, o cap�
 
 #### SECÇÃO 5 — SERVIÇOS
 
-Sob reserva das notas gerais e das derrogações previstas na secção 7, o capítulo 9 abrange os contratos adjudicados por qualquer das entidades abrangidas pelas secções 1 a 3 relativos aos serviços a seguir indicados, identificados em conformidade com a Classificação Central dos Produtos Provisória das Nações Unidas (CPC Prov), tal como consta da Lista de Classificação Setorial de Serviços da OMC (MTN.GNS/W/120)<sup>2</sup>:
+Sob reserva das notas gerais e das derrogações previstas na secção 7, o capítulo 9 abrange os contratos adjudicados por qualquer das entidades abrangidas pelas secções 1 a 3 relativos aos serviços a seguir indicados, identificados em conformidade com a Classificação Central dos Produtos Provisória das Nações Unidas (CPC Prov), tal como consta da Lista de Classificação Setorial de Serviços da OMC (MTN.GNS/W/120)2:
 
 | Número | Tipo de serviços | CPC Prov |
 | --- | --- | --- |
@@ -6199,7 +6206,7 @@ Sob reserva das notas gerais e das derrogações previstas na secção 7, o cap�
 | 6. | Serviços integrados de engenharia | 8673 |
 | 7. | Serviços de planeamento urbano e de arquitetura paisagística e serviços conexos de consultoria científica e técnica | 8674 |
 | 8. | Serviços de estudos de mercado e sondagens de opinião | 8640 |
-| 9. | Serviços de consultoria de gestão e serviços conexos | 865/866<sup>3</sup> |
+| 9. | Serviços de consultoria de gestão e serviços conexos | 865/8663 |
 | 10. | Serviços conexos de consultoria científica e técnica | 8675 |
 | 11. | Eliminação de águas residuais e de resíduos; serviços de saneamento e serviços conexos | 94 |
 
@@ -6681,11 +6688,11 @@ Os meios de comunicação designados e utilizados pela República do Usbequistã
 
 Sítio web oficial: Portal informativo especial sobre os contratos públicos - xarid.mf.uz.
 
-<sup>1</sup> [Regulamento (CE) n.º 1059/2003](https://data.europa.eu/eli/reg/2003/1059/oj?locale=pt) do Parlamento Europeu e do Conselho, de 26 de maio de 2003, relativo à instituição de uma Nomenclatura Comum das Unidades Territoriais Estatísticas (NUTS) (JO UE L 154, de 21 de junho de 2003, p. 1, ELI: http://data.europa.eu/eli/reg/2003/1059/oj).
+1 [Regulamento (CE) n.º 1059/2003](https://data.europa.eu/eli/reg/2003/1059/oj?locale=pt) do Parlamento Europeu e do Conselho, de 26 de maio de 2003, relativo à instituição de uma Nomenclatura Comum das Unidades Territoriais Estatísticas (NUTS) (JO UE L 154, de 21 de junho de 2003, p. 1, ELI: http://data.europa.eu/eli/reg/2003/1059/oj).
 
-<sup>2</sup> Com exceção dos contratos de serviços que as entidades devam celebrar com outra entidade nos termos de um direito exclusivo estabelecido por força de uma lei, regulamento ou disposição administrativa que tenha sido objeto de publicação.
+2 Com exceção dos contratos de serviços que as entidades devam celebrar com outra entidade nos termos de um direito exclusivo estabelecido por força de uma lei, regulamento ou disposição administrativa que tenha sido objeto de publicação.
 
-<sup>3</sup> Com exceção dos serviços de arbitragem e conciliação.
+3 Com exceção dos serviços de arbitragem e conciliação.
 
 ## ANEXO 12-A — Compromissos e reservas da União Europeia
 
@@ -6729,7 +6736,7 @@ No que diz respeito ao tratamento nacional e ao tratamento de nação mais favor
 
 Em alguns Estados-Membros, podem ser impostas limitações ao tratamento nacional e à condição de reciprocidade na aquisição de bens imóveis, incluindo terrenos, por pessoas singulares ou coletivas de países terceiros ou por entidades por elas detidas ou controladas.
 
-2 - Lista dos setores sujeitas a compromissos<sup>1</sup>:
+2 - Lista dos setores sujeitas a compromissos1:
 
 i) Agricultura, caça e silvicultura (ISIC Rev 3.1: 01 e 02):
 
@@ -6747,7 +6754,7 @@ Fabricação de produtos petrolíferos refinados: Não consolidado.
 
 Armas, munições e material de guerra: Não consolidado.
 
-<sup>1</sup> Para efeitos do anexo 12-A, os compromissos relativos às atividades económicas são indicados com base na Classificação Industrial Internacional Tipo de Todas as Atividades Económicas (ISIC), série M, n.º 4, Rev. 3.1.
+1 Para efeitos do anexo 12-A, os compromissos relativos às atividades económicas são indicados com base na Classificação Industrial Internacional Tipo de Todas as Atividades Económicas (ISIC), série M, n.º 4, Rev. 3.1.
 
 ## ANEXO 12-B — Reservas da República do Usbequistão
 
@@ -6755,7 +6762,7 @@ O artigo 194.º, n.º 2, e o artigo 195.º não se aplicam às medidas sujeitas 
 
 Bens imóveis
 
-É proibida a propriedade privada de qualquer tipo de parcelas de terreno. As pessoas singulares estrangeiras, as pessoas coletivas estrangeiras e as respetivas sucursais, assim como as empresas com capital estrangeiro<sup>1</sup>, só podem arrendar parcelas de terreno pelo prazo máximo de 25 anos, prazo que é prorrogável. O arrendamento de parcelas de terreno situadas nas zonas fronteiriças ou em territórios fronteiriços pode ser sujeito a restrições.
+É proibida a propriedade privada de qualquer tipo de parcelas de terreno. As pessoas singulares estrangeiras, as pessoas coletivas estrangeiras e as respetivas sucursais, assim como as empresas com capital estrangeiro1, só podem arrendar parcelas de terreno pelo prazo máximo de 25 anos, prazo que é prorrogável. O arrendamento de parcelas de terreno situadas nas zonas fronteiriças ou em territórios fronteiriços pode ser sujeito a restrições.
 
 Privatizações
 
@@ -6767,7 +6774,7 @@ Os escritórios de representação não são autorizados a exercer atividades co
 
 No setor dos serviços financeiros não são permitidas sucursais de pessoas coletivas estrangeiras.
 
-Os advogados<sup>2</sup>, os notários e os agentes oficiais da propriedade industrial devem ser nacionais da República do Usbequistão.
+Os advogados2, os notários e os agentes oficiais da propriedade industrial devem ser nacionais da República do Usbequistão.
 
 Presença de pessoas singulares
 
@@ -6777,7 +6784,7 @@ Pelo menos 80 % do pessoal contratado para aplicar um acordo de partilha da prod
 
 Pelo menos um dos membros do conselho de supervisão e dois dos membros do conselho de administração dos bancos devem ser fluentes na língua oficial da República do Usbequistão.
 
-Serviços de consultoria jurídica prestados mediante presença comercial: se a empresa só tiver um único cargo de assessoria jurídica, o mesmo deve ser exercido por um nacional usbeque. Se a empresa dispuser de vários cargos de assessoria jurídica, pelo menos 50 % do número total de consultores jurídicos<sup>3</sup> dessa empresa deve ser constituída por nacionais usbeques.
+Serviços de consultoria jurídica prestados mediante presença comercial: se a empresa só tiver um único cargo de assessoria jurídica, o mesmo deve ser exercido por um nacional usbeque. Se a empresa dispuser de vários cargos de assessoria jurídica, pelo menos 50 % do número total de consultores jurídicos3 dessa empresa deve ser constituída por nacionais usbeques.
 
 Serviços de telecomunicações
 
@@ -6787,11 +6794,11 @@ Todas as atividades económicas relacionadas com armamento, munições e materia
 
 Todas as atividades económicas relacionadas com a produção e a distribuição de estupefacientes, substâncias psicotrópicas e precursores: não consolidado.
 
-<sup>1</sup> Tal como definido na legislação da República do Usbequistão.
+1 Tal como definido na legislação da República do Usbequistão.
 
-<sup>2</sup> As pessoas singulares estrangeiras que não sejam consideradas «advogados» ao abrigo da legislação da República do Usbequistão podem prestar consultoria jurídica.
+2 As pessoas singulares estrangeiras que não sejam consideradas «advogados» ao abrigo da legislação da República do Usbequistão podem prestar consultoria jurídica.
 
-<sup>3</sup> Os consultores jurídicos prestam consultoria sobre a legislação de um país estrangeiro e sobre direito internacional (exceto nas fases de processo pré-contencioso ou contencioso).
+3 Os consultores jurídicos prestam consultoria sobre a legislação de um país estrangeiro e sobre direito internacional (exceto nas fases de processo pré-contencioso ou contencioso).
 
 ## ANEXO 12-C — Compromissos e limitações da República do Usbequistão
 
@@ -6799,61 +6806,61 @@ Compromissos e limitações da República do Usbequistão (com exceção do aces
 
 | Setor ou subsetor | Limitações em matéria de tratamento nacional |
 | --- | --- |
-| I - Compromissos horizontais | I - Compromissos horizontais |
-| Na presente lista:Os asteriscos (<sup>*</sup>) e (<sup>**</sup>) significam «parte» de um setor ou subsetor de serviços conexos;Os números CPC indicados em relação aos setores ou subsetores de serviços remetem para a Classificação Central dos Produtos das Nações Unidas (Estudos Estatísticos n.º 77, Classificação Central dos Produtos Provisória, Departamento de Assuntos Económicos e Sociais Internacionais, Serviço de Estatística das Nações Unidas, Nova Iorque, 1991), bem como para o documento MTN.GNS/W/120. | Na presente lista:Os asteriscos (<sup>*</sup>) e (<sup>**</sup>) significam «parte» de um setor ou subsetor de serviços conexos;Os números CPC indicados em relação aos setores ou subsetores de serviços remetem para a Classificação Central dos Produtos das Nações Unidas (Estudos Estatísticos n.º 77, Classificação Central dos Produtos Provisória, Departamento de Assuntos Económicos e Sociais Internacionais, Serviço de Estatística das Nações Unidas, Nova Iorque, 1991), bem como para o documento MTN.GNS/W/120. |
-| Todos os setores ou subsetores incluídos na presente lista | Todos os setores ou subsetores incluídos na presente lista |
+| I - Compromissos horizontais |  |
+| Na presente lista:Os asteriscos (*) e (**) significam «parte» de um setor ou subsetor de serviços conexos;Os números CPC indicados em relação aos setores ou subsetores de serviços remetem para a Classificação Central dos Produtos das Nações Unidas (Estudos Estatísticos n.º 77, Classificação Central dos Produtos Provisória, Departamento de Assuntos Económicos e Sociais Internacionais, Serviço de Estatística das Nações Unidas, Nova Iorque, 1991), bem como para o documento MTN.GNS/W/120. |  |
+| Todos os setores ou subsetores incluídos na presente lista |  |
 | Acordos de partilha da produção relacionados com a exploração, o desenvolvimento ou a produção de recursos minerais | (1), (2) As pessoas coletivas da República do Usbequistão têm direito de preferência na participação na execução dos acordos enquanto empreiteiros, fornecedores, transportadores ou quaisquer outras funções ao abrigo dos acordos (contratos) celebrados com investidores.Pelo menos 80 % do pessoal contratado envolvido na aplicação de acordos de partilha da produção deve ser constituído por cidadãos da República do Usbequistão. |
-| II - Compromissos setoriais específicos em matéria de comércio transnacional de serviços | II - Compromissos setoriais específicos em matéria de comércio transnacional de serviços |
-| 1 - Serviços às empresas | 1 - Serviços às empresas |
-| Serviços profissionais | Serviços profissionais |
+| II - Compromissos setoriais específicos em matéria de comércio transnacional de serviços |  |
+| 1 - Serviços às empresas |  |
+| Serviços profissionais |  |
 | 86190 Outros serviços de informação e consultoria jurídica | (1) Nenhum(2) Nenhum |
 | 862 Serviços de contabilidade, auditoria e escrituração, exceto 86220 Serviços de escrituração, exceto declarações de impostos | (1) (2) Nenhum, exceto no que se refere ao seguinte:Os relatórios de auditoria devem ser assinados por um auditor certificado nos termos da legislação da República do Usbequistão, que trabalhe para uma pessoa coletiva usbeque autorizada a efetuar auditorias e que esteja enumerada na lista das entidades de auditoria. |
 | 86220 Serviços de escrituração, exceto declarações de impostos | (1) Nenhum(2) Nenhum |
 | 863 Serviços fiscais | (1) Nenhum(2) Nenhum |
 | 8671 Serviços de arquitetura8672 Serviços de engenharia8673 Serviços integrados de engenharia86742 Serviços de planeamento urbano e de arquitetura paisagística | (1) (2) Nenhum, exceto no que se refere ao seguinte:A prestação de serviços só é permitida se tiver sido celebrado um contrato com uma pessoa coletiva usbeque que seja uma entidade comercial devidamente licenciada pela autoridade competente da República do Usbequistão. |
 | 9320 Serviços veterinários | (1) Nenhum(2) Nenhum |
-| B. Serviços de informática e serviços conexos | B. Serviços de informática e serviços conexos |
+| B. Serviços de informática e serviços conexos |  |
 | 84 Serviços informáticos e afins | (1) Nenhum(2) Nenhum |
-| D. Serviços imobiliários | D. Serviços imobiliários |
+| D. Serviços imobiliários |  |
 | 82101 Serviços de arrendamento de propriedades residenciais próprias ou em locação82102 Serviços de arrendamento de propriedades não residenciais próprias ou em locação | (1) Nenhum(2) Nenhum |
-| F. Outros serviços às empresas | F. Outros serviços às empresas |
+| F. Outros serviços às empresas |  |
 | 87120 Serviços de planeamento, conceção e colocação de publicidade | (1) Nenhum(2) Nenhum |
 | 86401 Serviços de estudos de mercado865 Serviços de consultoria em gestão86601 Serviços de gestão de projetos, exceto projetos de construção | (1) Nenhum(2) Nenhum |
-| 2 - Serviços de comunicação | 2 - Serviços de comunicação |
-| Serviços de correio rápido | Serviços de correio rápido |
+| 2 - Serviços de comunicação |  |
+| Serviços de correio rápido |  |
 | 75121 Serviços postais multimodais | (1) Nenhum(2) Nenhum |
-| 2 - Serviços de telecomunicações | 2 - Serviços de telecomunicações |
-| Os compromissos assumidos em matéria de serviços de telecomunicações têm em conta o disposto nos seguintes documentos: «Notes for Scheduling Basic Telecom Services Commitments» (S/GBT/W/2/Rev.1) e «Market Access Limitations on Spectrum Availability» (S/GBT/W/3).Para efeitos da presente lista, os serviços de telecomunicações não incluem os serviços de transmissão de programas de rádio e/ou televisão<sup>1</sup>. | Os compromissos assumidos em matéria de serviços de telecomunicações têm em conta o disposto nos seguintes documentos: «Notes for Scheduling Basic Telecom Services Commitments» (S/GBT/W/2/Rev.1) e «Market Access Limitations on Spectrum Availability» (S/GBT/W/3).Para efeitos da presente lista, os serviços de telecomunicações não incluem os serviços de transmissão de programas de rádio e/ou televisão<sup>1</sup>. |
-| 7521 a) Serviços telefónicos públicos7523<sup>**</sup> b) Serviços de transmissão de dados com comutação de pacotes7523<sup>**</sup> c) Serviços de transmissão de dados com comutação de circuitos7523<sup>**</sup> d) Serviços de telex7522 e) Serviços de telegrafia7521<sup>**</sup>+7529<sup>**</sup> f) Serviços de fax7522<sup>**</sup>+7523<sup>**</sup> g) Serviços privados de circuitos alugados7523<sup>**</sup> h) Serviços de correio eletrónico | (1), (2) Nenhum, exceto no que se refere ao seguinte:A ligação às redes de telecomunicações internacionais é efetuada exclusivamente através dos meios técnicos da JSC «Uzbektelecom»;Não consolidado no que se refere às comunicações locais;Não consolidado no que se refere aos serviços de redes de comunicações por satélite. |
-| 7523<sup>**</sup> i) Serviços de correio vocal7523<sup>**</sup> j) Serviços de informação e de pesquisa de bases dados em linha7523<sup>**</sup> k) Serviços de intercâmbio eletrónico de dados7523<sup>**</sup> l) Serviços de fax melhorados/de valor acrescentado, incluindo armazenamento e expedição, armazenamento e extração843<sup>**</sup> n) Processamento de dados e/ou informações em linha (incluindo processamento de transações) |  |
-| 3 - Serviços de construção e serviços de engenharia conexos | 3 - Serviços de construção e serviços de engenharia conexos |
-| Trabalhos de construção geral de edifícios | Trabalhos de construção geral de edifícios |
+| 2 - Serviços de telecomunicações |  |
+| Os compromissos assumidos em matéria de serviços de telecomunicações têm em conta o disposto nos seguintes documentos: «Notes for Scheduling Basic Telecom Services Commitments» (S/GBT/W/2/Rev.1) e «Market Access Limitations on Spectrum Availability» (S/GBT/W/3).Para efeitos da presente lista, os serviços de telecomunicações não incluem os serviços de transmissão de programas de rádio e/ou televisão1. |  |
+| 7521 a) Serviços telefónicos públicos7523** b) Serviços de transmissão de dados com comutação de pacotes7523** c) Serviços de transmissão de dados com comutação de circuitos7523** d) Serviços de telex7522 e) Serviços de telegrafia7521**+7529** f) Serviços de fax7522**+7523** g) Serviços privados de circuitos alugados7523** h) Serviços de correio eletrónico | (1), (2) Nenhum, exceto no que se refere ao seguinte:A ligação às redes de telecomunicações internacionais é efetuada exclusivamente através dos meios técnicos da JSC «Uzbektelecom»;Não consolidado no que se refere às comunicações locais;Não consolidado no que se refere aos serviços de redes de comunicações por satélite. |
+| 7523** i) Serviços de correio vocal7523** j) Serviços de informação e de pesquisa de bases dados em linha7523** k) Serviços de intercâmbio eletrónico de dados7523** l) Serviços de fax melhorados/de valor acrescentado, incluindo armazenamento e expedição, armazenamento e extração843** n) Processamento de dados e/ou informações em linha (incluindo processamento de transações) |  |
+| 3 - Serviços de construção e serviços de engenharia conexos |  |
+| Trabalhos de construção geral de edifícios |  |
 | A. 512 Trabalhos de construção de edifíciosC. 514 Montagem e edificação de estruturas prefabricadas51660 Instalação de vedações e de barreiras de proteçãoD. 517 Obras de acabamento de edifíciosE. 511 Trabalhos preparatórios em estaleiros de construção (exceto 5113 Trabalhos de montagem de estaleiro e limpeza do terreno, e 5115 Trabalhos de preparação do estaleiro para mineração515 Trabalhos especializados de construção | (1) Não consolidado, por motivos técnicos(2) Nenhum |
-| 5 - Serviços de educação | 5 - Serviços de educação |
+| 5 - Serviços de educação |  |
 | 92390 Outros serviços de ensino superior | (1) Não consolidado(2) Nenhum |
-| 6 - Serviços ambientaisEstes compromissos aplicam-se apenas aos serviços prestados por empresas privadas numa base comercial. | 6 - Serviços ambientaisEstes compromissos aplicam-se apenas aos serviços prestados por empresas privadas numa base comercial. |
+| 6 - Serviços ambientaisEstes compromissos aplicam-se apenas aos serviços prestados por empresas privadas numa base comercial. |  |
 | d) Outros serviços9404 Serviços de limpeza de gases de escape9405 Serviços de redução do ruídoReabilitação e limpeza do solo e das águas, parte da CPC 9406 Serviços de proteção natural e paisagística | (1) Não consolidado, exceto no que se refere aos serviços relacionados com consultoria(2) Nenhum |
-| 7 - Serviços financeiros | 7 - Serviços financeiros |
-| Serviços de seguros e serviços conexos | Serviços de seguros e serviços conexos |
+| 7 - Serviços financeiros |  |
+| Serviços de seguros e serviços conexos |  |
 | A.(b) 8129 Serviços de seguro não vida | (1), (2) NenhumApenas no que se refere a riscos relacionados com o transporte marítimo, o transporte aéreo comercial e o lançamento espacial, devendo o seguro em causa cobrir, no todo ou em parte, as mercadorias transportadas, o veículo que as transporta e a responsabilidade correspondente. |
-| Serviços bancários e outros serviços financeiros (excluindo seguros): | Serviços bancários e outros serviços financeiros (excluindo seguros): |
-| v) Aceitação de depósitos e outros fundos reembolsáveis da parte do público (81115-81119)vi) Concessão de qualquer tipo de crédito, nomeadamente crédito ao consumo, crédito hipotecário, factoring e financiamento de transações comerciais (8113)viii) Todos os serviços de pagamentos e de transferências monetárias, incluindo os cartões de crédito, de débito e de débito diferido (81339**)ix) Garantias e compromissos (81199<sup>**</sup>) | (1) Não consolidado(2) Nenhum |
-| 9 - Serviços relacionados com o turismo e viagens | 9 - Serviços relacionados com o turismo e viagens |
+| Serviços bancários e outros serviços financeiros (excluindo seguros): |  |
+| v) Aceitação de depósitos e outros fundos reembolsáveis da parte do público (81115-81119)vi) Concessão de qualquer tipo de crédito, nomeadamente crédito ao consumo, crédito hipotecário, factoring e financiamento de transações comerciais (8113)viii) Todos os serviços de pagamentos e de transferências monetárias, incluindo os cartões de crédito, de débito e de débito diferido (81339**)ix) Garantias e compromissos (81199**) | (1) Não consolidado(2) Nenhum |
+| 9 - Serviços relacionados com o turismo e viagens |  |
 | 64110 Serviços de alojamento em hotéis64120 Serviços de alojamento em motéis | (1) Nenhum(2) Nenhum |
 | 74710 Serviços de agências de viagens e de operadores turísticos | (1) Nenhum(2) Nenhum |
-| 10 - Serviços recreativos, culturais e desportivos | 10 - Serviços recreativos, culturais e desportivos |
+| 10 - Serviços recreativos, culturais e desportivos |  |
 | 96194 Serviços de circo, parques de diversões e atrações similares | (1) Nenhum(2) Nenhum |
-| 11 - Serviços de transporte | 11 - Serviços de transporte |
-| C. Serviços de transporte aéreo | C. Serviços de transporte aéreo |
-| Manutenção e reparação de aeronaves, parte da CPC 8868<sup>**</sup>Venda e comercialização de serviços de transporte aéreoServiços de sistemas informatizados de reserva | (1) Nenhum(2) Nenhum |
-| E. Serviços de transporte ferroviário | E. Serviços de transporte ferroviário |
-| d) Serviços de manutenção e reparação de equipamento de transporte ferroviário, parte da CPC 8868<sup>**</sup> | (1) Não consolidado(2) Nenhum |
-| F. Serviços de transporte rodoviário | F. Serviços de transporte rodoviário |
+| 11 - Serviços de transporte |  |
+| C. Serviços de transporte aéreo |  |
+| Manutenção e reparação de aeronaves, parte da CPC 8868**Venda e comercialização de serviços de transporte aéreoServiços de sistemas informatizados de reserva | (1) Nenhum(2) Nenhum |
+| E. Serviços de transporte ferroviário |  |
+| d) Serviços de manutenção e reparação de equipamento de transporte ferroviário, parte da CPC 8868** | (1) Não consolidado(2) Nenhum |
+| F. Serviços de transporte rodoviário |  |
 | d) Serviços de manutenção e reparação de equipamento de transporte rodoviário, 6112 + 8867 | (1) Não consolidado(2) Nenhum |
-| H. Serviços auxiliares de todos os modos de transporte | H. Serviços auxiliares de todos os modos de transporte |
-| a) Serviços de carga e descarga CPC 741<sup>*</sup>, apenas no que se refere aos serviços de transporte rodoviário e ferroviáriob) Serviços de armazenagem e depósito CPC 742<sup>*</sup>, apenas no que se refere aos serviços de transporte rodoviário e ferroviárioc) Serviços de agências de transporte de mercadorias CPC 748<sup>*</sup>, apenas no que se refere aos serviços de transporte rodoviário e ferroviário | (1) Não consolidado(2) Nenhum |
+| H. Serviços auxiliares de todos os modos de transporte |  |
+| a) Serviços de carga e descarga CPC 741*, apenas no que se refere aos serviços de transporte rodoviário e ferroviáriob) Serviços de armazenagem e depósito CPC 742*, apenas no que se refere aos serviços de transporte rodoviário e ferroviárioc) Serviços de agências de transporte de mercadorias CPC 748*, apenas no que se refere aos serviços de transporte rodoviário e ferroviário | (1) Não consolidado(2) Nenhum |
 
-<sup>1</sup> A transmissão de programas de rádio e televisão consiste na transmissão ininterrupta do sinal necessário para a distribuição desses programas ao público, não incluindo a ligação entre operadores.
+1 A transmissão de programas de rádio e televisão consiste na transmissão ininterrupta do sinal necessário para a distribuição desses programas ao público, não incluindo a ligação entre operadores.
 
 ## ANEXO 12-D — Compromissos em matéria de prestadores de serviços por contrato assumidos pela República do Usbequistão
 
@@ -7233,7 +7240,7 @@ g) Outros pormenores que permitam à autoridade requerida satisfazer o pedido.
 
 3 - Os pedidos são apresentados numa língua oficial da autoridade requerida ou numa língua aceite pela mesma, sendo sempre aceite a língua inglesa. Este requisito não se aplica aos documentos que acompanham os pedidos a que se refere o n.º 1.
 
-4 - Se o pedido não satisfizer os requisitos formais estabelecidos nos n.<sup>os</sup>1 a 3, a autoridade requerida pode solicitar que seja corrigido ou completado; podendo, entretanto, ser decretadas medidas cautelares.
+4 - Se o pedido não satisfizer os requisitos formais estabelecidos nos n.os1 a 3, a autoridade requerida pode solicitar que seja corrigido ou completado; podendo, entretanto, ser decretadas medidas cautelares.
 
 ###### Artigo 6.º — Execução dos pedidos
 
@@ -7295,7 +7302,7 @@ c) Viola um segredo industrial, comercial ou profissional.
 
 3 - Se a autoridade requerente solicitar assistência que ela própria não poderia prestar se lhe fosse solicitada, chama a atenção para esse facto no respetivo pedido. Cabe, então, à autoridade requerida decidir como responder a esse pedido.
 
-4 - Nos casos referidos nos n.<sup>os</sup>1 e 2, a autoridade requerida comunica sem demora à autoridade requerente a sua decisão e a respetiva fundamentação.
+4 - Nos casos referidos nos n.os1 e 2, a autoridade requerida comunica sem demora à autoridade requerente a sua decisão e a respetiva fundamentação.
 
 ###### Artigo 12.º — Intercâmbio de informações e confidencialidade
 
@@ -7315,7 +7322,7 @@ A autoridade requerida pode autorizar os seus funcionários a comparecer, nos li
 
 ###### Artigo 14.º — Despesas de assistência
 
-1 - Sob reserva do disposto nos n.<sup>os</sup>2 e 3, as Partes renunciam a eventuais créditos que detenham sobre a outra Parte quanto ao reembolso de despesas incorridas com a aplicação do presente Protocolo.
+1 - Sob reserva do disposto nos n.os2 e 3, as Partes renunciam a eventuais créditos que detenham sobre a outra Parte quanto ao reembolso de despesas incorridas com a aplicação do presente Protocolo.
 
 2 - As eventuais despesas e subsídios pagos a peritos, testemunhas, intérpretes e tradutores que não sejam funcionários dos serviços públicos são suportados pela Parte requerente.
 
@@ -7337,7 +7344,8 @@ O presente Protocolo prevalece sobre qualquer acordo bilateral de assistência a
 
 No que respeita à interpretação e à aplicação do presente Protocolo, as Partes consultam-se mutuamente sempre que necessário no âmbito do Comité de Cooperação criado ao abrigo do artigo 338.º do presente Acordo.
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225589.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225589.png) |
+| --- |
 
 Voor het Koninkrijk België:
 
@@ -7345,7 +7353,8 @@ Pour le Royaume de Belgique:
 
 Für das Königreich Belgien:
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225590.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225590.png) |
+| --- |
 
 Deze handtekening verbindt eveneens de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest.
 
@@ -7355,111 +7364,137 @@ Diese Unterschrift bindet zugleich die Deutschsprachige Gemeinschaft, die Flämi
 
 За Република България:
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225591.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225591.png) |
+| --- |
 
 Ζa Českou republiku:
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225592.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225592.png) |
+| --- |
 
 For Kongeriget Damnark:
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225593.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225593.png) |
+| --- |
 
 Für die Bundesrepublik Deutschland:
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225594.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225594.png) |
+| --- |
 
 Eesti Vabariigi nimel:
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225595.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225595.png) |
+| --- |
 
 Thar cheann na hÉireann:
 
 For Ireland:
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225596.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225596.png) |
+| --- |
 
 Για την Eλληνική Δημοκρατία:
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225597.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225597.png) |
+| --- |
 
 Por el Reino de España:
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225598.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225598.png) |
+| --- |
 
 Pour la République française:
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225599.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225599.png) |
+| --- |
 
 Za Republiku Hrvatsku:
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225600.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225600.png) |
+| --- |
 
 Per la Repubblica italiana:
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225601.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225601.png) |
+| --- |
 
 Για την Κυπριακή Δημοκρατία:
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225602.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225602.png) |
+| --- |
 
 Latvijas Republikas vārdā -:
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225603.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225603.png) |
+| --- |
 
 Lietuvos Respublikos vardu:
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225604.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225604.png) |
+| --- |
 
 Pour le Grand-Duché de Luxembourg:
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225605.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225605.png) |
+| --- |
 
 Magyarország részéről:
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225606.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225606.png) |
+| --- |
 
 Għar-Repubblika ta‘ Malta:
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225607.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225607.png) |
+| --- |
 
 Voor het Koninkrijk der Nederlanden:
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225608.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225608.png) |
+| --- |
 
 Für die Republik Österreich:
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225609.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225609.png) |
+| --- |
 
 W imieniu Rzeczypospolitej Polskiej:
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225610.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225610.png) |
+| --- |
 
 Pela República Portuguesa:
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225611.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225611.png) |
+| --- |
 
 Pentru România:
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225612.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225612.png) |
+| --- |
 
 Za Republiko Slovenijo:
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225613.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225613.png) |
+| --- |
 
 Ζa Slovenskú republiku:
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225614.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225614.png) |
+| --- |
 
 Suomen tasavallan puolesta:
 
 För Republiken Finland:
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225615.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225615.png) |
+| --- |
 
 För Konungariket Sverige:
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225616.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225616.png) |
+| --- |
 
 Зa Eвpoпeйcκия сьюз:
 
@@ -7509,10 +7544,17 @@ Euroopan unionin puolesta:
 
 För Europeiska unionen:
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225617.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225617.png) |
+| --- |
 
 O’zbekiston Respublikasi nomidan:
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225618.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225618.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1131112491/1131225619.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1131112491/1131225619.png) |
+| --- |
+
+119948329
+
+.Tbl2 { min-height:26px; } .Tbl3 { text-align:center; } .Tbl4 { min-height:30px; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl8 { min-height:19px; } .Tbl9 { min-height:40px; } .Tbl10 { min-height:35px; } .Tbl11 { min-height:29px; } .Tbl12 { min-height:18px; } .Tbl13 { min-height:37px; } .Tbl14 { min-height:33px; } .Tbl15 { min-height:47px; } .Tbl16 { min-height:28px; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl19 { min-height:85px; } .Tbl20 { min-height:90px; } .Tbl21 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl22 { min-height:36px; } .Tbl23 { text-indent:3px; } .Tbl24 { min-height:69px; } .Tbl25 { margin-left:3px; } .Tbl26 { min-height:75px; } .Tbl27 { min-height:34px; } .Tbl28 { min-height:53px; } .Tbl29 { min-height:59px; } .Tbl30 { min-height:63px; } .Tbl31 { min-height:156px; } .Tbl32 { min-height:153px; } .Tbl33 { min-height:21px; } .Tbl34 { min-height:159px; } .Tbl35 { min-height:93px; } .Tbl36 { min-height:70px; } .Tbl37 { min-height:128px; } .Tbl38 { min-height:71px; } .Tbl39 { min-height:39px; } .Tbl40 { min-height:112px; }

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/42821-1960-279273
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-01-26T00:00:00Z'
+  retrieved_at: '2026-10-22T19:17:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 786dc3fb3b69886f7ff89b9703633258a6aa9aee825d5595daffe5380d2ee5f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 80cd19463827a400fe944028280e4454766db3cc678390d997b81a522f5d59ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:17:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563179:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
-  section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:17:09Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +98,9 @@ Ouvido o Conselho Ultramarino:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovado o Regulamento para a Execução do Serviço de Estatística Postal nas Províncias Ultramarinas, que, assinado pelo Ministro do Ultramar, faz parte integrante deste decreto.
+Artigo único. É aprovado o Regulamento para a Execução do Serviço de Estatística Postal nas Províncias Ultramarinas, que, assinado pelo Ministro do Ultramar, faz parte integrante deste decreto.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 26 de Janeiro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 
@@ -102,29 +110,29 @@ Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - Va
 
 ... Artigos
 
-### Capítulo I - Disposições gerais ... 1.º a 5.º
+Capítulo I - Disposições gerais ... 1.º a 5.º
 
-### Capítulo II - Boletins estatísticos ... 6.º a 36.º
+Capítulo II - Boletins estatísticos ... 6.º a 36.º
 
-### Capítulo III - Contagem periódica de correspondências ordinárias ... 37.º a 51.º
+Capítulo III - Contagem periódica de correspondências ordinárias ... 37.º a 51.º
 
-### Capítulo IV - Apuramento anual dos dados estatísticos e sua enumeração ... 52.º a 131.º
+Capítulo IV - Apuramento anual dos dados estatísticos e sua enumeração ... 52.º a 131.º
 
-### Capítulo V - Elaboração estatística ... 132.º a 136.º
+Capítulo V - Elaboração estatística ... 132.º a 136.º
 
-### Capítulo VI - Apresentação e publicação da estatística ... 137.º a 140.º
+Capítulo VI - Apresentação e publicação da estatística ... 137.º a 140.º
 
-### Capítulo VII - Apreciação superior dos resultados estatísticos ... 141.º a 144.º
+Capítulo VII - Apreciação superior dos resultados estatísticos ... 141.º a 144.º
 
-### Capítulo VIII - Arquivo de documentos ... 145.º a 148.º
+Capítulo VIII - Arquivo de documentos ... 145.º a 148.º
 
-### Capítulo IX - Disposições finais ... 149.º a 154.º
+Capítulo IX - Disposições finais ... 149.º a 154.º
 
 Regulamento para a Execução do Serviço de Estatística Postal nas Províncias Ultramarinas
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º A estatística dos serviços dos correios, telégrafos e telefones abrange a observação e a enumeração de todos os factos relacionados com os mesmos serviços e a sequente elaboração e crítica dos dados assim obtidos.
+Artigo 1.º A estatística dos serviços dos correios, telégrafos e telefones abrange a observação e a enumeração de todos os factos relacionados com os mesmos serviços e a sequente elaboração e crítica dos dados assim obtidos.
 
 § 1.º Consideram-se relacionados com os serviços dos correios, telégrafos e telefones os dados relativos:
 
@@ -146,7 +154,7 @@ g) Ao tráfego das telecomunicações.
 
 § 3.º As normas especiais para a execução do serviço da estatística relativa às operações da Caixa Económica Postal e ao tráfego das telecomunicações serão estabelecidas nos respectivos regulamentos.
 
-###### Art. 2.º As fontes de observação para a colheita de elementos destinados à estatística são:
+Art. 2.º As fontes de observação para a colheita de elementos destinados à estatística são:
 
 Quanto à organização dos serviços e pessoal:
 
@@ -212,15 +220,15 @@ ad) As relações de assinaturas de jornais e publicações periódicas feitas n
 
 ae) As reclamações apresentadas contra quaisquer serviços postal.
 
-###### Art. 3.º A estatística é organizada com base nos elementos transportados das fontes de observação enumeradas no artigo anterior para boletins estatísticos, nas condições estabelecidas nos capítulos II e III.
+Art. 3.º A estatística é organizada com base nos elementos transportados das fontes de observação enumeradas no artigo anterior para boletins estatísticos, nas condições estabelecidas nos capítulos II e III.
 
-###### Art. 4.º Além da estatística referida no artigo 3.º, os serviços dos correios organizam estatísticas especiais para o apuramento dos direitos de trânsito devidos nos termos da Convenção Postal Universal, nas condições estabelecidas no regulamento para a execução da mesma convenção, e fornecem, extraídos daquela estatística, nos prazos estabelecidos, os dados necessários à elaboração das estatísticas gerais da província e os destinados ao Instituto Nacional de Estatística e à Secretaria da União Postal Universal.
+Art. 4.º Além da estatística referida no artigo 3.º, os serviços dos correios organizam estatísticas especiais para o apuramento dos direitos de trânsito devidos nos termos da Convenção Postal Universal, nas condições estabelecidas no regulamento para a execução da mesma convenção, e fornecem, extraídos daquela estatística, nos prazos estabelecidos, os dados necessários à elaboração das estatísticas gerais da província e os destinados ao Instituto Nacional de Estatística e à Secretaria da União Postal Universal.
 
-###### Art. 5.º O Governo Central e os governos provinciais poderão ordenar, por portaria devidamente fundamentada, que os serviços dos correios, telégrafos e telefones organizem outras estatísticas além das elaboradas nos termos dos artigos 3.º e 4.º, concedendo-lhes para esse efeito os necessários elementos materiais e financeiros.
+Art. 5.º O Governo Central e os governos provinciais poderão ordenar, por portaria devidamente fundamentada, que os serviços dos correios, telégrafos e telefones organizem outras estatísticas além das elaboradas nos termos dos artigos 3.º e 4.º, concedendo-lhes para esse efeito os necessários elementos materiais e financeiros.
 
 ### CAPÍTULO II — Boletins estatísticos
 
-###### Art. 6.º Para a colheita de elementos destinados aos apuramentos estatísticos são criados os boletins anexos a este diploma, a preencher por todos os órgãos centrais (dirigentes), fiscalizadores e de exploração que executam os serviços pelos mesmos abrangidos.
+Art. 6.º Para a colheita de elementos destinados aos apuramentos estatísticos são criados os boletins anexos a este diploma, a preencher por todos os órgãos centrais (dirigentes), fiscalizadores e de exploração que executam os serviços pelos mesmos abrangidos.
 
 § 1.º Os boletins são assinados pelos chefes dos respectivos serviços, depois de conferidos de um modo geral e de verificada a exactidão das suas somas totais.
 
@@ -230,7 +238,7 @@ ae) As reclamações apresentadas contra quaisquer serviços postal.
 
 § 4.º Os modelos dos boletins que abrangem partes distintas para o registo dos tráfegos de expedição, de recepção e de trânsito podem ser impressos separadamente em relação a cada uma dessas partes, no caso de se reconhecer conveniente.
 
-###### Art. 7.º Os boletins estatísticos preenchem-se em duplicado, sendo a cópia extraída, sempre que for possível, a decalque, por meio de papel químico, nos seguintes prazos:
+Art. 7.º Os boletins estatísticos preenchem-se em duplicado, sendo a cópia extraída, sempre que for possível, a decalque, por meio de papel químico, nos seguintes prazos:
 
 a) Os que se refiram a todo o ano considerado (m/EP 1 a m/EP 10 e m/EP 21) - até ao fim do mês de Fevereiro seguinte;
 
@@ -242,17 +250,17 @@ c) Os que se refiram aos períodos fixados para a contagem das correspondências
 
 § 2.º Quando for pequeno o movimento a registar nos boletins abrangidos pela alínea b), o director ou chefe de repartição provincial dos correios, telégrafos e telefones poderá autorizar, por meio de ordem de serviço, que os mesmos sejam preenchidos trimestral, semestral ou anualmente. Neste caso, os períodos a que os boletins se refiram devem ser indicados destacadamente nos mesmos boletins, de preferência a tinta encarnada.
 
-###### Art. 8.º Os duplicados dos boletins são coleccionados nos serviços organizadores e os originais são enviados, relacionados numa guia de remessa, pelo primeiro correio e com as formalidades de registo, inclusos num sobrescrito ou maço directamente endereçado ao «Encarregado da Organização de Estatística Postal» na direcção ou repartição provincial dos correios, telégrafos e telefones. No alto do rosto do sobrescrito ou maço devem indicar-se os números dos modelos dos boletins nele inclusos.
+Art. 8.º Os duplicados dos boletins são coleccionados nos serviços organizadores e os originais são enviados, relacionados numa guia de remessa, pelo primeiro correio e com as formalidades de registo, inclusos num sobrescrito ou maço directamente endereçado ao «Encarregado da Organização de Estatística Postal» na direcção ou repartição provincial dos correios, telégrafos e telefones. No alto do rosto do sobrescrito ou maço devem indicar-se os números dos modelos dos boletins nele inclusos.
 
 § único. Nas províncias de Angola e Moçambique, os directores de serviço poderão determinar que os boletins sejam enviados por intermédio das repartições regionais, que serão neste caso incumbidas de os compilar e conferir. A remessa dos boletins das repartições regionais à direcção dos serviços deve efectuar-se logo em seguida à sua conferência, nas condições estabelecidas no corpo do artigo.
 
-###### Art. 9.º Não se devem organizar boletins mensais negativos. Quando não houver movimento a registar, deve indicar-se o facto na respectiva guia de remessa nos termos seguintes: «Não se enviam os boletins modelos ..., por não haver movimento a registar». Além disto, no primeiro boletim que se preencher do modelo anteriormente não enviado por falta de movimento a registar deve-se mencionar o seguinte: «Não se preencheu o boletim deste modelo relativo ao mês de ..., por falta de movimento a registar».
+Art. 9.º Não se devem organizar boletins mensais negativos. Quando não houver movimento a registar, deve indicar-se o facto na respectiva guia de remessa nos termos seguintes: «Não se enviam os boletins modelos ..., por não haver movimento a registar». Além disto, no primeiro boletim que se preencher do modelo anteriormente não enviado por falta de movimento a registar deve-se mencionar o seguinte: «Não se preencheu o boletim deste modelo relativo ao mês de ..., por falta de movimento a registar».
 
-###### Art. 10.º No caso de encerramento de serviços deve mencionar-se o facto nas guias de remessa dos últimos boletins a enviar e bem assim nas guias de remessa dos primeiros boletins a enviar após o restabelecimento dos mesmos serviços, nos termos seguintes: «Por motivo de encerramento dos serviços ... e até à sua reabertura não serão enviados boletins modelos ... a partir de ...» ou «Restabelecidos em ... os serviços cujo encerramento foi comunicado na guia de ..., são enviados os primeiros boletins modelos ...».
+Art. 10.º No caso de encerramento de serviços deve mencionar-se o facto nas guias de remessa dos últimos boletins a enviar e bem assim nas guias de remessa dos primeiros boletins a enviar após o restabelecimento dos mesmos serviços, nos termos seguintes: «Por motivo de encerramento dos serviços ... e até à sua reabertura não serão enviados boletins modelos ... a partir de ...» ou «Restabelecidos em ... os serviços cujo encerramento foi comunicado na guia de ..., são enviados os primeiros boletins modelos ...».
 
-###### Art. 11.º O director ou chefe de repartição provincial dos correios, telégrafos e telefones pode dispensar, por meio de ordem de serviço, a extracção de duplicados dos boletins fàcilmente reconstituíveis, no caso de seu eventual extravio, em face das fontes de observação permanentes donde os respectivos elementos são colhidos.
+Art. 11.º O director ou chefe de repartição provincial dos correios, telégrafos e telefones pode dispensar, por meio de ordem de serviço, a extracção de duplicados dos boletins fàcilmente reconstituíveis, no caso de seu eventual extravio, em face das fontes de observação permanentes donde os respectivos elementos são colhidos.
 
-###### Art. 12.º No preenchimento dos boletins estatísticos relativos ao tráfego postal devem observar-se os seguintes preceitos:
+Art. 12.º No preenchimento dos boletins estatísticos relativos ao tráfego postal devem observar-se os seguintes preceitos:
 
 a) A classificação e a discriminação dos serviços e objectos faz-se de harmonia com o que sobre o assunto está estabelecido nos respectivos regulamentos de execução dos serviços;
 
@@ -282,99 +290,99 @@ n) Os objectos não entregues e devolvidos às estações de sua procedência ou
 
 o) Os objectos recebidos devolvidos conservam, para os efeitos de registo a fazer nos termos da alínea i), os mesmos regimes em que devam agrupar-se quando da sua expedição de harmonia com a alínea j), independentemente da procedência das malas em que sejam recebidos.
 
-###### Art. 13.º No boletim m/EP 1 registam-se os dados anuais relativos ao movimento do pessoal dos CTT no que se refere ao número de unidades entradas, saídas e que em média trabalharam, e bem assim a louvores e castigos, dentro de cada quadro e de cada categoria de empregados e no seu conjunto.
+Art. 13.º No boletim m/EP 1 registam-se os dados anuais relativos ao movimento do pessoal dos CTT no que se refere ao número de unidades entradas, saídas e que em média trabalharam, e bem assim a louvores e castigos, dentro de cada quadro e de cada categoria de empregados e no seu conjunto.
 
-###### Art. 14.º No boletim m/EP 2 registam-se os dados anuais relativos ao movimento do pessoal dos CTT no que se refere a faltas e licenças, dentro de cada quadro e de cada categoria de empregados e no seu conjunto.
+Art. 14.º No boletim m/EP 2 registam-se os dados anuais relativos ao movimento do pessoal dos CTT no que se refere a faltas e licenças, dentro de cada quadro e de cada categoria de empregados e no seu conjunto.
 
-###### Art. 15.º O boletim m/EP 3 destina-se ao registo dos dados anuais relativos ao movimento do pessoal dos CTT no que se refere à assistência prestada aos tuberculosos, nos termos da lei especial aplicável, dentro de cada quadro e de cada categoria de empregados e no seu conjunto.
+Art. 15.º O boletim m/EP 3 destina-se ao registo dos dados anuais relativos ao movimento do pessoal dos CTT no que se refere à assistência prestada aos tuberculosos, nos termos da lei especial aplicável, dentro de cada quadro e de cada categoria de empregados e no seu conjunto.
 
-###### Art. 16.º O boletim m/EP 4 destina-se ao registo dos dados anuais relativos ao movimento do pessoal dos CTT no que se refere a desastres ocorridos durante o trabalho, com a discriminação do número de sinistrados e da natureza dos sinistros e bem assim das suas consequências, dentro de cada quadro e de cada categoria de empregados e no seu conjunto.
+Art. 16.º O boletim m/EP 4 destina-se ao registo dos dados anuais relativos ao movimento do pessoal dos CTT no que se refere a desastres ocorridos durante o trabalho, com a discriminação do número de sinistrados e da natureza dos sinistros e bem assim das suas consequências, dentro de cada quadro e de cada categoria de empregados e no seu conjunto.
 
-###### Art. 17.º O boletim m/EP 5 destina-se ao registo dos dados anuais relativos ao movimento do pessoal dos CTT no que se refere a serviços médicos, com a discriminação da natureza desses serviços, quando privativos dos CTT, prestados a homens e mulheres e no seu conjunto, agrupados segundo as três formas do seu recrutamento (nomeação vitalícia, por contrato e por assalariamento).
+Art. 17.º O boletim m/EP 5 destina-se ao registo dos dados anuais relativos ao movimento do pessoal dos CTT no que se refere a serviços médicos, com a discriminação da natureza desses serviços, quando privativos dos CTT, prestados a homens e mulheres e no seu conjunto, agrupados segundo as três formas do seu recrutamento (nomeação vitalícia, por contrato e por assalariamento).
 
-###### Art. 18.º O boletim m/EP 6 destina-se ao registo dos dados anuais relativos ao número de notas, ofícios e telegramas expedidos e recebidos, de informações prestadas e propostas apresentadas a superiores hierárquicos, de ordens e instruções de serviço distribuídas, de avisos ao público e alvarás emitidos, de licenças concedidas, de guias de entrega de rendimentos organizadas, de títulos e ordens de pagamento processados e de notas de lançamento elaboradas.
+Art. 18.º O boletim m/EP 6 destina-se ao registo dos dados anuais relativos ao número de notas, ofícios e telegramas expedidos e recebidos, de informações prestadas e propostas apresentadas a superiores hierárquicos, de ordens e instruções de serviço distribuídas, de avisos ao público e alvarás emitidos, de licenças concedidas, de guias de entrega de rendimentos organizadas, de títulos e ordens de pagamento processados e de notas de lançamento elaboradas.
 
-###### Art. 19.º O boletim m/EP 7 destina-se ao registo dos dados anuais relativos às importâncias das receitas dos CCT arrecadadas e entregues nos cofres competentes segundo a sua classificação orçamental, e bem assim às importâncias de direitos aduaneiros cobradas e entregues nas alfândegas e dos 5 por cento deles deduzidos, e ainda ao registo do número dos bilhetes de despacho alfandegário cobrados e devolvidos durante cada um dos meses do ano considerado.
+Art. 19.º O boletim m/EP 7 destina-se ao registo dos dados anuais relativos às importâncias das receitas dos CCT arrecadadas e entregues nos cofres competentes segundo a sua classificação orçamental, e bem assim às importâncias de direitos aduaneiros cobradas e entregues nas alfândegas e dos 5 por cento deles deduzidos, e ainda ao registo do número dos bilhetes de despacho alfandegário cobrados e devolvidos durante cada um dos meses do ano considerado.
 
-###### Art. 20.º O boletim m/EP 8 destina-se ao registo dos dados anuais relativos ao movimento de máquinas de franquiar, com a discriminação do número de utentes de máquinas, de máquinas utilizadas, de objectos franquiados por meio de máquinas, e bem assim das importâncias arrecadadas por licenças de máquinas e por taxas de franquia impressas.
+Art. 20.º O boletim m/EP 8 destina-se ao registo dos dados anuais relativos ao movimento de máquinas de franquiar, com a discriminação do número de utentes de máquinas, de máquinas utilizadas, de objectos franquiados por meio de máquinas, e bem assim das importâncias arrecadadas por licenças de máquinas e por taxas de franquia impressas.
 
-###### Art. 21.º O boletim m/EP 9 destina-se ao registo dos dados anuais relativos a «boletins de verificação» organizados e recebidos, a reclamações recebidas, a caixas de apartado existentes e alugadas, a assinantes do serviço de sacos de apartado, a bilhetes de identidade emitidos, a avisos de fecho de malas distribuídos, a receptáculos postais ao dispor do público, e bem assim a sacos de malas e aos meios de transporte que o órgão possui para seu serviço.
+Art. 21.º O boletim m/EP 9 destina-se ao registo dos dados anuais relativos a «boletins de verificação» organizados e recebidos, a reclamações recebidas, a caixas de apartado existentes e alugadas, a assinantes do serviço de sacos de apartado, a bilhetes de identidade emitidos, a avisos de fecho de malas distribuídos, a receptáculos postais ao dispor do público, e bem assim a sacos de malas e aos meios de transporte que o órgão possui para seu serviço.
 
-###### Art. 22.º O boletim m/EP 10 destina-se ao registo dos dados anuais relativos ao movimento de malas expedidas, recebidas e em trânsito por intermédio de cada estação de permuta, com a discriminação das vias terrestre, marítima e aérea de seu encaminhamento e dos sacos e sobrescritos de que se compõem.
+Art. 22.º O boletim m/EP 10 destina-se ao registo dos dados anuais relativos ao movimento de malas expedidas, recebidas e em trânsito por intermédio de cada estação de permuta, com a discriminação das vias terrestre, marítima e aérea de seu encaminhamento e dos sacos e sobrescritos de que se compõem.
 
-###### Art. 23.º O boletim m/EP 11 destina-se ao registo do movimento de correspondências ordinárias expedidas, recebidas e em trânsito a descoberto durante o período de sua contagem, em relação a cada regime e a cada província ou país por ele abrangido, com a discriminação do número de objectos de cada uma das suas várias classes sujeitos a taxas e do número total de objectos isentos das mesmas taxas e ainda do número total de objectos a distribuir por próprio especial, do número total dos reexpedidos para outras estações, do número total dos devolvidos às estações de sua procedência e do número total dos recebidos devolvidos de outras estações.
+Art. 23.º O boletim m/EP 11 destina-se ao registo do movimento de correspondências ordinárias expedidas, recebidas e em trânsito a descoberto durante o período de sua contagem, em relação a cada regime e a cada província ou país por ele abrangido, com a discriminação do número de objectos de cada uma das suas várias classes sujeitos a taxas e do número total de objectos isentos das mesmas taxas e ainda do número total de objectos a distribuir por próprio especial, do número total dos reexpedidos para outras estações, do número total dos devolvidos às estações de sua procedência e do número total dos recebidos devolvidos de outras estações.
 
 § único. São preenchidos dois boletins nos termos deste artigo: um relativo a correspondências encaminhadas por via aérea e outro relativo a correspondências encaminhadas por todas as outras vias terrestres e marítimas.
 
-###### Art. 24.º O boletim m/EP 12 destina-se ao registo dos dados mensais do movimento de correspondências registadas expedidas, recebidas e em trânsito a descoberto, em relação a cada regime e a cada província ou país por ele abrangido, com a discriminação do número de objectos de cada uma das suas várias classes sujeitos a taxas e do número dos objectos isentos das mesmas taxas.
+Art. 24.º O boletim m/EP 12 destina-se ao registo dos dados mensais do movimento de correspondências registadas expedidas, recebidas e em trânsito a descoberto, em relação a cada regime e a cada província ou país por ele abrangido, com a discriminação do número de objectos de cada uma das suas várias classes sujeitos a taxas e do número dos objectos isentos das mesmas taxas.
 
 § 1.º Para a contagem das correspondências a distribuir pela própria estação ou posto de sua origem e a considerar no boletim como tráfego de expedição pode-se utilizar subsidiàriamente o impresso m/EP 24.
 
 § 2.º No preenchimento deste boletim deve observar-se o disposto no § único do artigo anterior.
 
-###### Art. 25.º O boletim m/EP 13 destina-se ao registo, em relação a cada regime e a cada província ou país por ele abrangido, dos dados mensais do movimento de correspondências registadas expedidas, recebidas e em trânsito a descoberto segundo os serviços acessórios a que estão ligados (cobranças, embolsos, valores declarados e outros registos simples sujeitos a taxas e isentos de taxas), com a discriminação do número de objectos sujeitos a cada um desses serviços acessórios e com a indicação do número total de objectos registados reexpedidos para outras estações, do número total dos devolvidos às estações de sua procedência e do número total dos recebidos devolvidos de outras estações.
+Art. 25.º O boletim m/EP 13 destina-se ao registo, em relação a cada regime e a cada província ou país por ele abrangido, dos dados mensais do movimento de correspondências registadas expedidas, recebidas e em trânsito a descoberto segundo os serviços acessórios a que estão ligados (cobranças, embolsos, valores declarados e outros registos simples sujeitos a taxas e isentos de taxas), com a discriminação do número de objectos sujeitos a cada um desses serviços acessórios e com a indicação do número total de objectos registados reexpedidos para outras estações, do número total dos devolvidos às estações de sua procedência e do número total dos recebidos devolvidos de outras estações.
 
 § único. No preenchimento deste boletim deve observar-se o disposto no § único do artigo 23.º
 
-###### Art. 26.º O boletim m/EP 14 destina-se ao registo dos dados mensais do movimento de cobranças, em relação a cada regime e a cada província ou país por ele abrangido, com a discriminação do número de sobrescritos recebidos e dos títulos para cobrança neles incluídos, das importâncias a cobrar, do número de títulos liquidados por meio de vales e por meio de depósitos e dos não liquidados, das importâncias liquidadas por meio de vales e por meio de depósitos, e bem assim das comissões de depósito arrecadadas.
+Art. 26.º O boletim m/EP 14 destina-se ao registo dos dados mensais do movimento de cobranças, em relação a cada regime e a cada província ou país por ele abrangido, com a discriminação do número de sobrescritos recebidos e dos títulos para cobrança neles incluídos, das importâncias a cobrar, do número de títulos liquidados por meio de vales e por meio de depósitos e dos não liquidados, das importâncias liquidadas por meio de vales e por meio de depósitos, e bem assim das comissões de depósito arrecadadas.
 
-###### Art. 27.º O boletim m/EP 15 destina-se ao registo dos dados mensais do movimento de embolsos expedidos e recebidos, em relação a cada regime e a cada província ou país por ele abrangido, com a discriminação do número dos objectos de cada uma das suas categorias (cartas e caixas com valor declarado, encomendas e registos simples), do número total de embolsos reexpedidos para outras estações, do número total dos devolvidos às estações de sua procedência e do número total dos recebidos devolvidos de outras estações, do produto de emissão dos vales de embolso, dos prémios cobrados pelos vales emitidos, das comissões de depósito cobradas e das importâncias pagas na moeda local por vales de embolso emitidos noutras estações.
+Art. 27.º O boletim m/EP 15 destina-se ao registo dos dados mensais do movimento de embolsos expedidos e recebidos, em relação a cada regime e a cada província ou país por ele abrangido, com a discriminação do número dos objectos de cada uma das suas categorias (cartas e caixas com valor declarado, encomendas e registos simples), do número total de embolsos reexpedidos para outras estações, do número total dos devolvidos às estações de sua procedência e do número total dos recebidos devolvidos de outras estações, do produto de emissão dos vales de embolso, dos prémios cobrados pelos vales emitidos, das comissões de depósito cobradas e das importâncias pagas na moeda local por vales de embolso emitidos noutras estações.
 
-###### Art. 28.º O boletim m/EP 16 destina-se ao registo dos dados mensais do movimento de valores declarados expedidos e recebidos, em relação a cada regime e a cada província ou país por ele abrangido, com a discriminação do número dos objectos de cada uma das suas categorias (cartas e caixas ou encomendas) segundo as vias de seu encaminhamento e dos seus valores, e bem assim do número total de valores declarados reexpedidos para outras estações, do número total dos devolvidos às estações de sua procedência e do número total dos recebidos devolvidos de outras estações.
+Art. 28.º O boletim m/EP 16 destina-se ao registo dos dados mensais do movimento de valores declarados expedidos e recebidos, em relação a cada regime e a cada província ou país por ele abrangido, com a discriminação do número dos objectos de cada uma das suas categorias (cartas e caixas ou encomendas) segundo as vias de seu encaminhamento e dos seus valores, e bem assim do número total de valores declarados reexpedidos para outras estações, do número total dos devolvidos às estações de sua procedência e do número total dos recebidos devolvidos de outras estações.
 
-###### Art. 29.º O boletim m/EP 17 destina-se ao registo dos dados mensais do movimento de encomendas postais expedidas, recebidas e em trânsito a descoberto, em relação a cada regime e a cada província ou país por ele abrangido, com a discriminação do número de encomendas segundo as suas classes (ordinárias e com valor declarado) e segundo as vias de seu encaminhamento, e bem assim do número total de encomendas reexpedidas para outras estações, do número total das devolvidas às estações de sua procedência e do número total das recebidas devolvidas de outras estações.
+Art. 29.º O boletim m/EP 17 destina-se ao registo dos dados mensais do movimento de encomendas postais expedidas, recebidas e em trânsito a descoberto, em relação a cada regime e a cada província ou país por ele abrangido, com a discriminação do número de encomendas segundo as suas classes (ordinárias e com valor declarado) e segundo as vias de seu encaminhamento, e bem assim do número total de encomendas reexpedidas para outras estações, do número total das devolvidas às estações de sua procedência e do número total das recebidas devolvidas de outras estações.
 
-###### Art. 30.º O boletim m/EP 18 destina-se ao registo dos dados mensais do movimento de avisos de recepção e de objectos a distribuir por próprio especial, em relação a cada regime e a cada província ou país por ele abrangido, com a discriminação segundo as suas categorias (registos e encomendas) do número dos objectos expedidos e recebidos em que esses serviços foram requisitados.
+Art. 30.º O boletim m/EP 18 destina-se ao registo dos dados mensais do movimento de avisos de recepção e de objectos a distribuir por próprio especial, em relação a cada regime e a cada província ou país por ele abrangido, com a discriminação segundo as suas categorias (registos e encomendas) do número dos objectos expedidos e recebidos em que esses serviços foram requisitados.
 
-###### Art. 31.º O boletim m/EP 19 destina-se ao registo dos dados mensais do movimento de vales postais e telegráficos, em relação a cada regime e a cada província ou país por ele abrangido, com a discriminação do número e da importância dos vales emitidos e do número e da importância dos vales pagos segundo a sua natureza postal ou telegráfica, do número dos avisos de recepção e do número dos avisos de pagamento requisitados, e bem assim dos prémios cobrados pela emissão dos vales.
+Art. 31.º O boletim m/EP 19 destina-se ao registo dos dados mensais do movimento de vales postais e telegráficos, em relação a cada regime e a cada província ou país por ele abrangido, com a discriminação do número e da importância dos vales emitidos e do número e da importância dos vales pagos segundo a sua natureza postal ou telegráfica, do número dos avisos de recepção e do número dos avisos de pagamento requisitados, e bem assim dos prémios cobrados pela emissão dos vales.
 
 § único. As importâncias dos vales a registar no boletim são as correspondentes na moeda local às quantias dos vales emitidos e às quantias dos vales pagos.
 
-###### Art. 32.º O boletim m/EP 20 destina-se ao registo dos dados mensais do movimento de ordens postais, em relação a cada regime e a cada província ou país por ele abrangido, com a discriminação do número das ordens de cada valor emitidas e pagas e das suas importâncias totais, e bem assim dos prémios cobrados pela emissão das ordens.
+Art. 32.º O boletim m/EP 20 destina-se ao registo dos dados mensais do movimento de ordens postais, em relação a cada regime e a cada província ou país por ele abrangido, com a discriminação do número das ordens de cada valor emitidas e pagas e das suas importâncias totais, e bem assim dos prémios cobrados pela emissão das ordens.
 
-###### Art. 33.º O boletim m/EP 21 destina-se ao registo dos dados anuais do movimento de assinaturas de jornais e publicações periódicas, em relação a cada regime e a cada província ou país por ele abrangido, com a discriminação do número de publicações que aceitam assinaturas por intermédio do correio, do número de publicações para que foram feitas assinaturas e do número de assinaturas feitas.
+Art. 33.º O boletim m/EP 21 destina-se ao registo dos dados anuais do movimento de assinaturas de jornais e publicações periódicas, em relação a cada regime e a cada província ou país por ele abrangido, com a discriminação do número de publicações que aceitam assinaturas por intermédio do correio, do número de publicações para que foram feitas assinaturas e do número de assinaturas feitas.
 
-###### Art. 34.º O boletim m/EP 22 destina-se ao registo, em relação a cada regime, das correspondências caídas em refugo recebidas em cada mês na estação central postal da sede da província, e bem assim ao registo de encomendas postais abandonadas.
+Art. 34.º O boletim m/EP 22 destina-se ao registo, em relação a cada regime, das correspondências caídas em refugo recebidas em cada mês na estação central postal da sede da província, e bem assim ao registo de encomendas postais abandonadas.
 
 § único. O registo das correspondências ordinárias caídas em refugo é efectuado com base em contagens feitas para esse efeito e apontadas em impressos m/EP 25 especiais, para o efeito adaptados, contagem que poderá ser realizada sòmente durante os períodos referidos nos artigos 37.º e 38.º, se o director ou chefe de repartição provincial dos correios, telégrafos e telefones assim o determinar por meio de ordem de serviço, por verificar ser grande o número de correspondências em refugo.
 
-###### Art. 35.º Os países do regime internacional a discriminar nos boletins estatísticos devem ser limitados aos sujeitos a regimes especiais e a mais dez, com os quais se mantenham relações postais de maior intensidade, a fixar em ordem de serviço do director ou chefe de repartição provincial dos correios, telégrafos e telefones. Os restantes países serão englobados nos boletins sob designação de «Outros países».
+Art. 35.º Os países do regime internacional a discriminar nos boletins estatísticos devem ser limitados aos sujeitos a regimes especiais e a mais dez, com os quais se mantenham relações postais de maior intensidade, a fixar em ordem de serviço do director ou chefe de repartição provincial dos correios, telégrafos e telefones. Os restantes países serão englobados nos boletins sob designação de «Outros países».
 
 § único. Havendo relações postais intensas com mais de dez países, pode o director ou chefe de repartição provincial indicar na ordem de serviço de sua fixação mais nomes, por forma a serem abrangidos todos os países que interesse considerar isoladamente.
 
-###### Art. 36.º O director ou chefe de repartição provincial dos correios, telégrafos e telefones poderá determinar, por meio de ordem de serviço, que sejam acrescentadas aos impressos dos boletins referidos no artigo 6.º mais colunas ou linhas destinadas a registar certos dados adicionais que interesse também considerar nos mapas de enumeração da estatística postal, principalmente quando destinados à Secretaria da União Postal Universal. Neste caso, a numeração das colunas acrescentadas corresponderá à numeração das colunas imediatamente anteriores seguida das letras A, B, C, etc.
+Art. 36.º O director ou chefe de repartição provincial dos correios, telégrafos e telefones poderá determinar, por meio de ordem de serviço, que sejam acrescentadas aos impressos dos boletins referidos no artigo 6.º mais colunas ou linhas destinadas a registar certos dados adicionais que interesse também considerar nos mapas de enumeração da estatística postal, principalmente quando destinados à Secretaria da União Postal Universal. Neste caso, a numeração das colunas acrescentadas corresponderá à numeração das colunas imediatamente anteriores seguida das letras A, B, C, etc.
 
 ### CAPÍTULO III — Contagem periódica de correspondências ordinárias
 
-###### Art. 37.º O director ou chefe de repartição provincial dos correios, telégrafos e telefones deve fixar, oportunamente, por meio de ordem de serviço, um período de vinte e oito dias para se proceder à contagem, em todas as estações, ambulâncias e postos, das correspondências ordinárias a registar nos boletins estatísticos m/EP 11.
+Art. 37.º O director ou chefe de repartição provincial dos correios, telégrafos e telefones deve fixar, oportunamente, por meio de ordem de serviço, um período de vinte e oito dias para se proceder à contagem, em todas as estações, ambulâncias e postos, das correspondências ordinárias a registar nos boletins estatísticos m/EP 11.
 
 § 1.º Esta escolha deve recair num período considerado na província de movimento normal, convenientemente afastado das épocas festivas do Natal, da Páscoa ou de quaisquer outras em que se verifiquem sensíveis aumentos do tráfego das correspondências.
 
 § 2.º Se for reconhecido conveniente, poderão fixar-se dois períodos de vinte e oito dias, um para a contagem da correspondência da via aérea e outro para a contagem da correspondência da via de superfície (terrestre e marítima).
 
-###### Art. 38.º Para a contagem de correspondências ordinárias nas estações, ambulâncias e postos abertos posteriormente ao período ou períodos referidos no artigo anterior ou que tenham estado encerrados durante os mesmos períodos, o director ou o chefe de repartição provincial dos correios, telégrafos e telefones deve fixar períodos especiais quando reconhecer haver conveniência em incluir na estatística do ano considerado os dados relativos a esses órgãos a obter pela contagem directa, e não por comparação com os dados dos anos anteriores ou com os dados de outras estações de idêntico movimento.
+Art. 38.º Para a contagem de correspondências ordinárias nas estações, ambulâncias e postos abertos posteriormente ao período ou períodos referidos no artigo anterior ou que tenham estado encerrados durante os mesmos períodos, o director ou o chefe de repartição provincial dos correios, telégrafos e telefones deve fixar períodos especiais quando reconhecer haver conveniência em incluir na estatística do ano considerado os dados relativos a esses órgãos a obter pela contagem directa, e não por comparação com os dados dos anos anteriores ou com os dados de outras estações de idêntico movimento.
 
-###### Art. 39.º As estações, ambulâncias e postos que durante os períodos estatísticos fixados para a contagem das correspondências ordinárias fecharem malas destinadas à própria província devem juntar a cada carta de aviso dessas malas um impresso m/EP 23, mencionando o facto na mesma carta com a observação seguinte: «Junto um modelo EP 23».
+Art. 39.º As estações, ambulâncias e postos que durante os períodos estatísticos fixados para a contagem das correspondências ordinárias fecharem malas destinadas à própria província devem juntar a cada carta de aviso dessas malas um impresso m/EP 23, mencionando o facto na mesma carta com a observação seguinte: «Junto um modelo EP 23».
 
 § 1.º No impresso devem registar-se, com todos os pormenores dele constantes, as quantidades totais dos objectos de cada uma das classes incluídos na mala, riscando-se no cabeçalho os dizeres relativos aos apuramentos parciais referidos no artigo seguinte.
 
 § 2.º Antes da expedição das malas devem extrair-se duplicados dos impressos m/EP 23, para os efeitos do disposto no artigo 45.º
 
-###### Art. 40.º Para maior facilidade de preenchimento do impresso referido no artigo anterior pode o director ou chefe de repartição provincial dos correios, telégrafos e telefones determinar, por meio de ordem de serviço, que em cada saco de que se componham as malas permutadas dentro da província durante os períodos estatísticos seja incluído um impresso m/EP 23 com o apuramento parcial dos objectos nele expedidos. No cabeçalho destes impressos de apuramentos parciais devem riscar-se os dizeres relativos ao apuramento total das correspondências incluídas na mala.
+Art. 40.º Para maior facilidade de preenchimento do impresso referido no artigo anterior pode o director ou chefe de repartição provincial dos correios, telégrafos e telefones determinar, por meio de ordem de serviço, que em cada saco de que se componham as malas permutadas dentro da província durante os períodos estatísticos seja incluído um impresso m/EP 23 com o apuramento parcial dos objectos nele expedidos. No cabeçalho destes impressos de apuramentos parciais devem riscar-se os dizeres relativos ao apuramento total das correspondências incluídas na mala.
 
 § único. Duplicados destes impressos de apuramento parciais devem ser extraídos e juntos ao duplicado do impresso de apuramento total referido no § 2.º do artigo 39.º
 
-###### Art. 41.º As estações e ambulâncias que durante os períodos estatísticos fixados para a contagem das correspondências ordinárias fecharem malas destinadas ao exterior devem preencher em relação a cada uma dessas malas, nos termos estabelecidos no § 1.º do artigo 39.º, um impresso m/EP 23, que terá o destino indicado no artigo 45.º
+Art. 41.º As estações e ambulâncias que durante os períodos estatísticos fixados para a contagem das correspondências ordinárias fecharem malas destinadas ao exterior devem preencher em relação a cada uma dessas malas, nos termos estabelecidos no § 1.º do artigo 39.º, um impresso m/EP 23, que terá o destino indicado no artigo 45.º
 
-###### Art. 42.º Nos rótulos dos maços de correspondências ordinárias incluídos nos sacos das malas fechadas durante os períodos estatísticos deve indicar-se a quantidade dos objectos de cada uma das classes de que se compõem, cuja soma, acrescida da quantidade dos objectos isolados expedidos nos mesmos sacos, servirá de base ao preenchimento dos impressos referidos nos artigos 39.º, 40.º e 41.º
+Art. 42.º Nos rótulos dos maços de correspondências ordinárias incluídos nos sacos das malas fechadas durante os períodos estatísticos deve indicar-se a quantidade dos objectos de cada uma das classes de que se compõem, cuja soma, acrescida da quantidade dos objectos isolados expedidos nos mesmos sacos, servirá de base ao preenchimento dos impressos referidos nos artigos 39.º, 40.º e 41.º
 
-###### Art. 43.º As correspondências ordinárias recolhidas dos receptáculos postais durante o período estatístico fixado para a via de superfície e a distribuir directamente aos seus destinatários devem ser contadas à medida que derem entrada na estação, ambulância ou posto, classe por classe, e registadas num impresso m/EP 24, que terá o destino indicado no artigo 45.º
+Art. 43.º As correspondências ordinárias recolhidas dos receptáculos postais durante o período estatístico fixado para a via de superfície e a distribuir directamente aos seus destinatários devem ser contadas à medida que derem entrada na estação, ambulância ou posto, classe por classe, e registadas num impresso m/EP 24, que terá o destino indicado no artigo 45.º
 
-###### Art. 44.º As correspondências recolhidas dos receptáculos antes do início do período estatístico e bem assim as recebidas em trânsito a descoberto também antes desse início são consideradas e incluídas na contagem quando expedidas em malas fechadas dentro do mesmo período; contràriamente, as correspondências recolhidas dos receptáculos e bem assim as recebidas em trânsito a descoberto dentro do período estatístico não são contadas quando expedidas ou reexpedidas em malas fechadas depois de findo o mesmo período.
+Art. 44.º As correspondências recolhidas dos receptáculos antes do início do período estatístico e bem assim as recebidas em trânsito a descoberto também antes desse início são consideradas e incluídas na contagem quando expedidas em malas fechadas dentro do mesmo período; contràriamente, as correspondências recolhidas dos receptáculos e bem assim as recebidas em trânsito a descoberto dentro do período estatístico não são contadas quando expedidas ou reexpedidas em malas fechadas depois de findo o mesmo período.
 
-###### Art. 45.º Os duplicados dos impressos m/EP 23 mencionados no § 2.º do artigo 39.º, com os seus justificativos apensos nos termos do § único do artigo 40.º, e bem assim os impressos m/EP 23 e m/EP 24 preenchidos de harmonia com os artigos 41.º e 43.º, devem ser devidamente coleccionados em pastas especiais para cada modelo, por sua ordem cronológica.
+Art. 45.º Os duplicados dos impressos m/EP 23 mencionados no § 2.º do artigo 39.º, com os seus justificativos apensos nos termos do § único do artigo 40.º, e bem assim os impressos m/EP 23 e m/EP 24 preenchidos de harmonia com os artigos 41.º e 43.º, devem ser devidamente coleccionados em pastas especiais para cada modelo, por sua ordem cronológica.
 
-###### Art. 46.º Findo o período estatístico e o prazo calculado necessário para a recepção de eventuais correcções feitas de harmonia com os parágrafos do artigo 47.º, devem somar-se os dados constantes dos impressos coleccionados nos termos do artigo anterior, utilizando-se para esse efeito um novo impresso m/EP 23 para cada via, regime, província ou país, com a coluna (1) adaptada à indicação dos vários dias de contagem a que aqueles impressos se refiram.
+Art. 46.º Findo o período estatístico e o prazo calculado necessário para a recepção de eventuais correcções feitas de harmonia com os parágrafos do artigo 47.º, devem somar-se os dados constantes dos impressos coleccionados nos termos do artigo anterior, utilizando-se para esse efeito um novo impresso m/EP 23 para cada via, regime, província ou país, com a coluna (1) adaptada à indicação dos vários dias de contagem a que aqueles impressos se refiram.
 
 § 1.º Achadas as somas referentes a cada via, regime, província e país, transportam-se essas somas para um boletim m/EP 11, preenchido em duplicado, para cada via aérea ou de superfície, nas partes relativas ao tráfego de expedição, ao de trânsito a descoberto e às colunas (56) e (57), e abrangendo os dados relativos a todos os regimes e a todo o período de contagem. As outras partes do boletim são preenchidas conforme estabelece o § 1.º do artigo 51.º
 
@@ -382,13 +390,13 @@ o) Os objectos recebidos devolvidos conservam, para os efeitos de registo a faze
 
 § 3.º Os impressos recapitulativos m/EP 23 referidos no corpo do artigo devem ser atados em maços com os impressos m/EP 23 e m/EP 24 mencionados no artigo 45.º e com os «boletins de verificação» aludidos nos parágrafos do artigo 47.º, e enviados com os originais dos respectivos boletins m/EP 11 nos termos estabelecidos no artigo 8.º
 
-###### Art. 47.º As estações, ambulâncias e postos que receberem de outras estações, ambulâncias ou postos da mesma província malas cujas cartas de aviso estejam datadas de dias compreendidos no período estatístico fixado para a contagem das correspondências ordinárias devem proceder à contagem de todos os objectos recebidos e ao confronto dos números assim obtidos com os registados nos impressos m/EP 23 inclusos nos respectivos sacos e juntos às mesmas cartas de aviso nos termos dos artigos 39.º e 40.º
+Art. 47.º As estações, ambulâncias e postos que receberem de outras estações, ambulâncias ou postos da mesma província malas cujas cartas de aviso estejam datadas de dias compreendidos no período estatístico fixado para a contagem das correspondências ordinárias devem proceder à contagem de todos os objectos recebidos e ao confronto dos números assim obtidos com os registados nos impressos m/EP 23 inclusos nos respectivos sacos e juntos às mesmas cartas de aviso nos termos dos artigos 39.º e 40.º
 
 § 1.º Notando-se divergências entre as quantidades das correspondências contadas e as registadas nos impressos m/EP 23, superiores ou inferiores a 5 por cento das quantidades registadas, devem as mesmas ser acusadas por meio de «boletins de verificação» nas condições estabelecidas para a acusação de irregularidades no regulamento para a execução do serviço de correspondências postais.
 
 § 2.º Quando as divergências forem em número ou de natureza que não possam ser discriminadas nos «boletins de verificação» e ainda quando não sejam recebidos junto às cartas de aviso os impressos referidos no artigo 39.º, devem organizar-se impressos m/EP 23 rectificativos dos recebidos ou suplementares, em tantos exemplares quantos forem necessários para se juntar um a cada exemplar do respectivo «boletim de verificação».
 
-###### Art. 48.º Feito o confronto nos termos do artigo 47.º e separadas as correspondências ordinárias destinadas a serem distribuídas, isto é, as do tráfego de recepção, devem as mesmas ser contadas, classe por classe, e registadas em impressos m/EP 25, embora a distribuição se faça findo o período estatístico fixado.
+Art. 48.º Feito o confronto nos termos do artigo 47.º e separadas as correspondências ordinárias destinadas a serem distribuídas, isto é, as do tráfego de recepção, devem as mesmas ser contadas, classe por classe, e registadas em impressos m/EP 25, embora a distribuição se faça findo o período estatístico fixado.
 
 § 1.º As correspondências recebidas em malas procedentes da própria província não são incluídas na contagem quando tenham sido expedidas antes do período estatístico fixado, embora sejam distribuídas dentro do mesmo período.
 
@@ -396,13 +404,13 @@ o) Os objectos recebidos devolvidos conservam, para os efeitos de registo a faze
 
 § 3.º Para cada mala recebida deve corresponder um impresso m/EP 25, preenchido com todos os pormenores do mesmo constantes.
 
-###### Art. 49.º As estações e ambulâncias que receberem durante o período estatístico correspondências ordinárias em malas procedentes do exterior da província, embora expedidas antes do mesmo período, devem contar as destinadas a serem distribuídas, isto é, as do tráfego de recepção, classe por classe, e registá-las em impressos m/EP 25.
+Art. 49.º As estações e ambulâncias que receberem durante o período estatístico correspondências ordinárias em malas procedentes do exterior da província, embora expedidas antes do mesmo período, devem contar as destinadas a serem distribuídas, isto é, as do tráfego de recepção, classe por classe, e registá-las em impressos m/EP 25.
 
 § único. É aplicável ao registo destas correspondências o disposto nos parágrafos 2.º e 3.º do artigo anterior.
 
-###### Art. 50.º Os impressos m/EP 25, preenchidos nos termos dos artigos 48.º e 49.º, devem ser devidamente coleccionados em pastas especiais, pela ordem cronológica dos dias de contagem.
+Art. 50.º Os impressos m/EP 25, preenchidos nos termos dos artigos 48.º e 49.º, devem ser devidamente coleccionados em pastas especiais, pela ordem cronológica dos dias de contagem.
 
-###### Art. 51.º Findo o período estatístico e o prazo calculado necessário para a recepção de todas as malas expedidas da província dentro desse período, devem somar-se os dados constantes dos impressos coleccionados nos termos do artigo anterior, utilizando-se para esse efeito um novo impresso m/EP 25 para cada via, regime, província ou país, com a coluna (1) adaptada à indicação dos vários dias de contagem a que aqueles impressos se refiram.
+Art. 51.º Findo o período estatístico e o prazo calculado necessário para a recepção de todas as malas expedidas da província dentro desse período, devem somar-se os dados constantes dos impressos coleccionados nos termos do artigo anterior, utilizando-se para esse efeito um novo impresso m/EP 25 para cada via, regime, província ou país, com a coluna (1) adaptada à indicação dos vários dias de contagem a que aqueles impressos se refiram.
 
 § 1.º Achadas as somas referentes a cada via, regime, província e país, transportam-se essas somas para a parte relativa ao tráfego de recepção e para a coluna (58) do boletim m/EP 11 referido no § 1.º do artigo 46.º, abrangendo os dados relativos a todos os regimes e a todo o período de contagem. As outras partes do boletim são preenchidas e completadas conforme dispõe o mencionado § 1.º do artigo 46.º
 
@@ -410,17 +418,17 @@ o) Os objectos recebidos devolvidos conservam, para os efeitos de registo a faze
 
 ### CAPÍTULO IV — Apuramento anual dos dados estatísticos e sua enumeração
 
-###### Art. 52.º O trabalho do apuramento anual dos dados estatísticos relativos a toda a província e sua conveniente enumeração em mapas é executado na secretaria da direcção ou repartição provincial, a cargo de um funcionário reconhecidamente idóneo.
+Art. 52.º O trabalho do apuramento anual dos dados estatísticos relativos a toda a província e sua conveniente enumeração em mapas é executado na secretaria da direcção ou repartição provincial, a cargo de um funcionário reconhecidamente idóneo.
 
 § 1.º Para coadjuvar o funcionário encarregado da organização da estatística devem ser colocadas na secretaria as necessárias unidades de trabalho, em número suficiente para que se possa apresentar a estatística de cada ano até ao fim do mês de Junho do ano seguinte.
 
 § 2.º O funcionário encarregado da organização da estatística será abonado da gratificação especial estabelecida para os chefes de secção.
 
-###### Art. 53.º Quando nas províncias de Angola e Moçambique os boletins estatísticos forem enviados por intermédio das repartições regionais, nos termos do § único do artigo 8.º, o director dos correios, telégrafos e telefones poderá determinar, por meio de ordem de serviço, que certos apuramentos anuais relativos às regiões delas dependentes sejam efectuados nas mesmas repartições, no caso de disporem para isso do necessário pessoal.
+Art. 53.º Quando nas províncias de Angola e Moçambique os boletins estatísticos forem enviados por intermédio das repartições regionais, nos termos do § único do artigo 8.º, o director dos correios, telégrafos e telefones poderá determinar, por meio de ordem de serviço, que certos apuramentos anuais relativos às regiões delas dependentes sejam efectuados nas mesmas repartições, no caso de disporem para isso do necessário pessoal.
 
 § único. É aplicável quanto aos apuramentos anuais a efectuar nas repartições regionais o disposto no artigo anterior e seus parágrafos.
 
-###### Art. 54.º O encarregado da organização da estatística postal deve coleccionar ou promover que sejam coleccionados todos os boletins recebidos, depois de conferidos, em pastas especiais para cada modelo, pela ordem seguinte:
+Art. 54.º O encarregado da organização da estatística postal deve coleccionar ou promover que sejam coleccionados todos os boletins recebidos, depois de conferidos, em pastas especiais para cada modelo, pela ordem seguinte:
 
 a) Os da secretaria da direcção ou repartição provincial;
 
@@ -430,17 +438,17 @@ c) Os de cada uma das repartições regionais das províncias de Angola e Moçam
 
 d) Os das estações, ambulâncias e postos, pela sua ordem alfabética dentro de cada distrito.
 
-###### Art. 55.º Para os efeitos do disposto no artigo anterior deve elaborar-se, por forma a estar sempre presente, uma lista de todos os órgãos aos quais compete preencher boletins estatísticos, com a indicação dos números de impresso destes boletins que a cada um pertence enviar.
+Art. 55.º Para os efeitos do disposto no artigo anterior deve elaborar-se, por forma a estar sempre presente, uma lista de todos os órgãos aos quais compete preencher boletins estatísticos, com a indicação dos números de impresso destes boletins que a cada um pertence enviar.
 
 § único. Os boletins estatísticos recebidos devem ser convenientemente anotados na lista, de modo a poder fiscalizar-se oportunamente o seu envio.
 
-###### Art. 56.º O encarregado da organização da estatística postal deve promover que todos os órgãos sejam periódica e oportunamente lembrados da obrigação do preenchimento e remessa de boletins estatísticos, e bem assim que sejam organizados processos de apuramento de responsabilidades contra os agentes que se mostrem retardatários nessa remessa ou negligentes no preenchimento dos boletins.
+Art. 56.º O encarregado da organização da estatística postal deve promover que todos os órgãos sejam periódica e oportunamente lembrados da obrigação do preenchimento e remessa de boletins estatísticos, e bem assim que sejam organizados processos de apuramento de responsabilidades contra os agentes que se mostrem retardatários nessa remessa ou negligentes no preenchimento dos boletins.
 
-###### Art. 57.º Não se recebendo em tempo oportuno qualquer boletim estatístico, deve solicitar-se, preferentemente em telegrama de serviço, a sua imediata remessa.
+Art. 57.º Não se recebendo em tempo oportuno qualquer boletim estatístico, deve solicitar-se, preferentemente em telegrama de serviço, a sua imediata remessa.
 
 § único. No caso de já ter sido enviado o boletim solicitado e de se presumir o seu eventual extravio, deve enviar-se, pelo primeiro correio mais rápido, uma cópia do mesmo boletim, extraída do seu duplicado ou, não havendo duplicado, preenchida com base nas fontes de observação donde têm de ser colhidos os elementos estatísticos a registar.
 
-###### Art. 58.º A conferência dos boletins estatísticos tem em vista corrigir tanto quanto seja possível os erros «acidentais» que neles se verifiquem e que em regra se neutralizam uns com os outros, e bem assim todos os erros «sistemáticos» que possam influir unilateralmente os resultados numa determinada direcção. Assim deve abranger a verificação:
+Art. 58.º A conferência dos boletins estatísticos tem em vista corrigir tanto quanto seja possível os erros «acidentais» que neles se verifiquem e que em regra se neutralizam uns com os outros, e bem assim todos os erros «sistemáticos» que possam influir unilateralmente os resultados numa determinada direcção. Assim deve abranger a verificação:
 
 a) De que foram preenchidos devidamente e em todos os seus pormenores;
 
@@ -454,21 +462,21 @@ d) Da natureza das correcções feitas nos termos dos §§ 1.º e 2.º do artigo
 
 § 2.º O director ou chefe de repartição provincial dos correios, telégrafos e telefones pode determinar, por meio de ordem de serviço, que o serviço de conferência dos boletins estatísticos abranja a verificação mais completa dos seus elementos ou que a conferência referida no parágrafo anterior se estenda a mais de três órgãos.
 
-###### Art. 59.º Para a conferência das somas dos dados estatísticos e para os apuramentos globais devem utilizar-se, sempre que seja possível, máquinas apropriadas do modelo mais conveniente que a técnica oferecer.
+Art. 59.º Para a conferência das somas dos dados estatísticos e para os apuramentos globais devem utilizar-se, sempre que seja possível, máquinas apropriadas do modelo mais conveniente que a técnica oferecer.
 
-###### Art. 60.º Conferidos os boletins e feitas as correcções julgadas necessárias, devem somar-se os números representativos de cada facto estatístico registado, tendo em vista apurá-lo e apresentá-lo em relação a toda a província e ao ano considerado. Para este efeito fazem-se listas especiais dos números constantes de todos os boletins do mesmo modelo em relação a cada facto a apresentar separadamente nos mapas de enumeração estatística ou perfuram-se cartões apropriados destinados a máquinas estatísticas especiais, quando as houver para utilização.
+Art. 60.º Conferidos os boletins e feitas as correcções julgadas necessárias, devem somar-se os números representativos de cada facto estatístico registado, tendo em vista apurá-lo e apresentá-lo em relação a toda a província e ao ano considerado. Para este efeito fazem-se listas especiais dos números constantes de todos os boletins do mesmo modelo em relação a cada facto a apresentar separadamente nos mapas de enumeração estatística ou perfuram-se cartões apropriados destinados a máquinas estatísticas especiais, quando as houver para utilização.
 
 § único. Os apuramentos obtidos com a soma dos números constantes de boletins m/EP 11, sendo relativos ao período de vinte e oito dias referido no artigo 37.º, devem ser multiplicados por 13, a fim de se obterem os números correspondentes ao ano estatístico considerado. Este produto, achado com base em elementos colhidos num período de tráfego normal de correspondências, deve ser corrigido para mais ou para menos, por forma a considerarem-se todos os períodos de tráfego superior ao normal que se verificar durante o ano, em especial nas épocas festivas do Natal e Páscoa, ou de tráfego inferior ao normal que eventualmente se notem, conforme o caso. Para este efeito, deve o encarregado da organização da estatística postal procurar averiguar junto das estações, ambulâncias e postos em que proporção aproximada se verificaram os aumentos e as diminuições do tráfego das correspondências ordinárias durante os referidos períodos de movimento anormal.
 
-###### Art. 61.º Os mapas de enumeração da estatística são organizados de harmonia com os modelos n.os 1 a 68 anexos a este regulamento.
+Art. 61.º Os mapas de enumeração da estatística são organizados de harmonia com os modelos n.os 1 a 68 anexos a este regulamento.
 
 § 1.º O director ou chefe de repartição provincial dos correios, telégrafos e telefones pode determinar, em ordem de serviço, que nos mapas sejam apresentados outros elementos não constantes do seu modelo que interesse conhecer, extraídos dos boletins estatísticos ou directamente das fontes de observação existentes, ou que sejam organizados com esses elementos mais mapas em desenvolvimento dos estabelecidos.
 
 § 2.º Nos mapas estatísticos em que o movimento das estações esteja agrupado por distritos, deve este movimento, nas províncias não divididas em distritos, ser indicado por agrupamentos relacionados com ilhas ou zonas, conforme for julgado mais conveniente.
 
-###### Art. 62.º Os mapas n.os 2 a 18 devem, em regra, ser organizados pelos serviços centrais que tratam dos assuntos pelos mesmos abrangidos, para o que lhes serão enviados, por protocolo, os boletins estatísticos que registem os dados a aproveitar para essa organização e que devem ser conferidos, sempre que for possível, com as fontes de informação existentes nos mesmos serviços.
+Art. 62.º Os mapas n.os 2 a 18 devem, em regra, ser organizados pelos serviços centrais que tratam dos assuntos pelos mesmos abrangidos, para o que lhes serão enviados, por protocolo, os boletins estatísticos que registem os dados a aproveitar para essa organização e que devem ser conferidos, sempre que for possível, com as fontes de informação existentes nos mesmos serviços.
 
-###### Art. 63.º No mapa n.º 1 enumeram-se resumidamente os resultados estatísticos mais importantes dos últimos dez anos, que interesse conhecer, sob as rubricas seguintes:
+Art. 63.º No mapa n.º 1 enumeram-se resumidamente os resultados estatísticos mais importantes dos últimos dez anos, que interesse conhecer, sob as rubricas seguintes:
 
 I) Organização dos serviços;
 
@@ -480,13 +488,13 @@ IV) Resultados financeiros;
 
 V) Tráfego postal.
 
-###### Art. 64.º No mapa n.º 2 enumera-se o pessoal dotado e o existente nos correios, telégrafos e telefones em 31 de Dezembro do ano a que a estatística se refere, discriminado por quadros e categorias.
+Art. 64.º No mapa n.º 2 enumera-se o pessoal dotado e o existente nos correios, telégrafos e telefones em 31 de Dezembro do ano a que a estatística se refere, discriminado por quadros e categorias.
 
-###### Art. 65.º No mapa n.º 3 enumera-se o pessoal existente em 31 de Dezembro do ano a que a estatística se refere, em cada um dos órgãos centrais (dirigentes) e de exploração dos correios, telégrafos e telefones, agrupado nas duas classes seguintes: a do pessoal maior e a do pessoal subalterno. Dentro de cada uma destas classes são discriminadas as unidades do sexo masculino e as do sexo feminino.
+Art. 65.º No mapa n.º 3 enumera-se o pessoal existente em 31 de Dezembro do ano a que a estatística se refere, em cada um dos órgãos centrais (dirigentes) e de exploração dos correios, telégrafos e telefones, agrupado nas duas classes seguintes: a do pessoal maior e a do pessoal subalterno. Dentro de cada uma destas classes são discriminadas as unidades do sexo masculino e as do sexo feminino.
 
 § único. Na classe do pessoal maior devem incluir-se todos os funcionários e empregados que tenham categoria igual ou superior à do grupo U referido no § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956, e na classe do pessoal subalterno todos os que tenham categoria inferior à do mesmo grupo.
 
-###### Art. 66.º No mapa n.º 4 enumera-se o pessoal admitido em cada quadro dos correios, telégrafos e telefones e dele saído durante o ano a que a estatística se refere, com a discriminação do:
+Art. 66.º No mapa n.º 4 enumera-se o pessoal admitido em cada quadro dos correios, telégrafos e telefones e dele saído durante o ano a que a estatística se refere, com a discriminação do:
 
 a) Número de unidades novas admitidas (mulheres e homens, separadamente);
 
@@ -494,11 +502,11 @@ b) Número de unidades saídas por cada um dos seguintes motivos: transferência
 
 c) Número médio de unidades que trabalharam (mulheres e homens, separadamente).
 
-###### Art. 67.º No mapa n.º 5 enumeram-se os louvores concedidos ao pessoal de cada quadro dos correios, telégrafos e telefones durante o ano a que a estatística se refere, e bem assim os castigos que lhe foram aplicados.
+Art. 67.º No mapa n.º 5 enumeram-se os louvores concedidos ao pessoal de cada quadro dos correios, telégrafos e telefones durante o ano a que a estatística se refere, e bem assim os castigos que lhe foram aplicados.
 
-###### Art. 68.º No mapa n.º 6 enumeram-se as faltas por doença e outras justificadas e não justificadas dadas pelo pessoal de cada quadro dos correios, telégrafos e telefones durante o ano a que a estatística se refere, e bem assim as licenças de cada natureza gozadas pelo mesmo pessoal.
+Art. 68.º No mapa n.º 6 enumeram-se as faltas por doença e outras justificadas e não justificadas dadas pelo pessoal de cada quadro dos correios, telégrafos e telefones durante o ano a que a estatística se refere, e bem assim as licenças de cada natureza gozadas pelo mesmo pessoal.
 
-###### Art. 69.º No mapa n.º 7 enumeram-se as unidades de cada quadro dos correios, telégrafos e telefones assistidas ao abrigo da legislação sobre tuberculosos durante o ano a que a estatística se refere, discriminadas por sexos e pelos três grupos de idades seguintes:
+Art. 69.º No mapa n.º 7 enumeram-se as unidades de cada quadro dos correios, telégrafos e telefones assistidas ao abrigo da legislação sobre tuberculosos durante o ano a que a estatística se refere, discriminadas por sexos e pelos três grupos de idades seguintes:
 
 a) Até 24 anos;
 
@@ -506,13 +514,13 @@ b) De 25 a 44 anos;
 
 c) De mais de 45 anos.
 
-###### Art. 70.º No mapa n.º 8 enumeram-se as unidades de cada quadro dos correios, telégrafos e telefones que sofreram desastres no trabalho durante o ano a que a estatística se refere, com a discriminação da natureza dos sinistros e das suas consequências (dias de incapacidade, número de unidades com incapacidade permanente e número de unidades falecidas).
+Art. 70.º No mapa n.º 8 enumeram-se as unidades de cada quadro dos correios, telégrafos e telefones que sofreram desastres no trabalho durante o ano a que a estatística se refere, com a discriminação da natureza dos sinistros e das suas consequências (dias de incapacidade, número de unidades com incapacidade permanente e número de unidades falecidas).
 
-###### Art. 71.º No mapa n.º 9 enumeram-se os concursos de admissão e de promoção do pessoal de cada quadro dos correios, telégrafos e telefones realizados durante o ano a que a estatística se refere, e bem assim os concorrentes de cada sexo admitidos, submetidos a provas e aprovados nesses concursos e as percentagens de aprovação verificadas.
+Art. 71.º No mapa n.º 9 enumeram-se os concursos de admissão e de promoção do pessoal de cada quadro dos correios, telégrafos e telefones realizados durante o ano a que a estatística se refere, e bem assim os concorrentes de cada sexo admitidos, submetidos a provas e aprovados nesses concursos e as percentagens de aprovação verificadas.
 
-###### Art. 72.º No mapa n.º 10 enumeram-se os serviços médicos privativos dos correios, telégrafos e telefones prestados ao pessoal, discriminado por sexos e pela natureza do seu recrutamento, durante o ano a que a estatística se refere, sob as rubricas constantes do modelo, e bem assim o número de doenças participadas e o de doenças confirmadas por médico e ainda o número de empregados submetidos à junta médica.
+Art. 72.º No mapa n.º 10 enumeram-se os serviços médicos privativos dos correios, telégrafos e telefones prestados ao pessoal, discriminado por sexos e pela natureza do seu recrutamento, durante o ano a que a estatística se refere, sob as rubricas constantes do modelo, e bem assim o número de doenças participadas e o de doenças confirmadas por médico e ainda o número de empregados submetidos à junta médica.
 
-###### Art. 73.º No mapa n.º 11 enumeram-se, em relação ao ano a que a estatística se refere, os ofícios, notas e telegramas expedidos e recebidos, as informações prestadas e as propostas apresentadas a superiores hierárquicos, as ordens e instruções de serviço distribuídas, os avisos feitos ao público, os alvarás emitidos, as licenças concedidas, as guias de entrega de rendimentos organizadas, os títulos e ordens de pagamento processados e as notas de lançamento elaboradas pelos vários órgãos de cada um dos três grupos seguintes:
+Art. 73.º No mapa n.º 11 enumeram-se, em relação ao ano a que a estatística se refere, os ofícios, notas e telegramas expedidos e recebidos, as informações prestadas e as propostas apresentadas a superiores hierárquicos, as ordens e instruções de serviço distribuídas, os avisos feitos ao público, os alvarás emitidos, as licenças concedidas, as guias de entrega de rendimentos organizadas, os títulos e ordens de pagamento processados e as notas de lançamento elaboradas pelos vários órgãos de cada um dos três grupos seguintes:
 
 a) Direcção ou repartição provincial;
 
@@ -520,151 +528,151 @@ b) Repartições regionais;
 
 c) Estações, ambulâncias e postos.
 
-###### Art. 74.º No mapa n.º 12 enumeram-se as receitas de exploração, extraordinárias e consignadas arrecadadas pelos serviços dos correios, telégrafos e telefones durante os últimos dez ou cinco anos, conforme for possível, e bem assim os subsídios do Estado recebidos e os fundos em consignação depositados nos mesmos anos.
+Art. 74.º No mapa n.º 12 enumeram-se as receitas de exploração, extraordinárias e consignadas arrecadadas pelos serviços dos correios, telégrafos e telefones durante os últimos dez ou cinco anos, conforme for possível, e bem assim os subsídios do Estado recebidos e os fundos em consignação depositados nos mesmos anos.
 
-###### Art. 75.º No mapa n.º 13 enumeram-se as receitas arrecadadas sob a rubrica de rendimento postal durante os últimos dez ou cinco anos, conforme for possível, discriminadas pelas várias subrrubricas do mesmo rendimento.
+Art. 75.º No mapa n.º 13 enumeram-se as receitas arrecadadas sob a rubrica de rendimento postal durante os últimos dez ou cinco anos, conforme for possível, discriminadas pelas várias subrrubricas do mesmo rendimento.
 
-###### Art. 76.º No mapa n.º 14 enumeram-se as quantidades de selos, cupões-resposta e outras fórmulas de franquia vendidas em cada estação, ambulância e posto durante o ano a que a estatística se refere, e bem assim os rendimentos provenientes dessas vendas.
+Art. 76.º No mapa n.º 14 enumeram-se as quantidades de selos, cupões-resposta e outras fórmulas de franquia vendidas em cada estação, ambulância e posto durante o ano a que a estatística se refere, e bem assim os rendimentos provenientes dessas vendas.
 
-###### Art. 77.º No mapa n.º 15 enumeram-se as quantidades de selos vendidos em cada distrito durante os últimos dez ou cinco anos, conforme for possível, e bem assim os rendimentos provenientes dessa venda, da venda de cupões-resposta e da venda de outras fórmulas de franquia.
+Art. 77.º No mapa n.º 15 enumeram-se as quantidades de selos vendidos em cada distrito durante os últimos dez ou cinco anos, conforme for possível, e bem assim os rendimentos provenientes dessa venda, da venda de cupões-resposta e da venda de outras fórmulas de franquia.
 
-###### Art. 78.º No mapa n.º 16 enumeram-se as quantidades de bilhetes de despacho aduaneiros cobrados e devolvidos por cada estação durante o ano a que a estatística se refere, e bem assim as importâncias dos direitos e outras imposições cobradas e entregues nas alfândegas e os 5 por cento dos mesmos direitos arrecadados pelo correio.
+Art. 78.º No mapa n.º 16 enumeram-se as quantidades de bilhetes de despacho aduaneiros cobrados e devolvidos por cada estação durante o ano a que a estatística se refere, e bem assim as importâncias dos direitos e outras imposições cobradas e entregues nas alfândegas e os 5 por cento dos mesmos direitos arrecadados pelo correio.
 
-###### Art. 79.º No mapa n.º 17 enumeram-se as despesas de exploração, extraordinárias e de consignação feitas pelos serviços dos correios, telégrafos e telefones nos últimos dez ou cinco anos, conforme for possível, discriminadas por cada uma das várias rubricas orçamentais.
+Art. 79.º No mapa n.º 17 enumeram-se as despesas de exploração, extraordinárias e de consignação feitas pelos serviços dos correios, telégrafos e telefones nos últimos dez ou cinco anos, conforme for possível, discriminadas por cada uma das várias rubricas orçamentais.
 
-###### Art. 80.º No mapa n.º 18 enumeram-se as despesas feitas com o pessoal de cada quadro dos correios, telégrafos e telefones durante o ano de que a estatística se refere e por cada uma das várias rubricas orçamentais, e bem assim as unidades de trabalho pagas, a despesa média correspondente a cada uma dessas unidades e ainda a percentagem da despesa com o pessoal em relação à despesa ordinária total e à receita ordinária total.
+Art. 80.º No mapa n.º 18 enumeram-se as despesas feitas com o pessoal de cada quadro dos correios, telégrafos e telefones durante o ano de que a estatística se refere e por cada uma das várias rubricas orçamentais, e bem assim as unidades de trabalho pagas, a despesa média correspondente a cada uma dessas unidades e ainda a percentagem da despesa com o pessoal em relação à despesa ordinária total e à receita ordinária total.
 
-###### Art. 81.º No mapa n.º 19 enumeram-se, em relação a cada estação, os utentes de máquinas de franquiar existentes em 31 de Dezembro do ano a que a estatística se refere, e bem assim as máquinas utilizadas e os objectos franquiados com essas máquinas e ainda os rendimentos arrecadados por licenças concedidas para a venda, o aluguer e a utilização das mesmas máquinas e por franquias por elas impressas.
+Art. 81.º No mapa n.º 19 enumeram-se, em relação a cada estação, os utentes de máquinas de franquiar existentes em 31 de Dezembro do ano a que a estatística se refere, e bem assim as máquinas utilizadas e os objectos franquiados com essas máquinas e ainda os rendimentos arrecadados por licenças concedidas para a venda, o aluguer e a utilização das mesmas máquinas e por franquias por elas impressas.
 
-###### Art. 82.º No mapa n.º 20 enumeram-se, em relação a cada estação, ambulância e posto e a 31 de Dezembro do ano a que a estatística se refere, os receptáculos postais (marcos e caixas) existentes, as caixas de apartado existentes e alugadas, os assinantes do serviço de sacos de apartado e os sacos de malas distribuídos.
+Art. 82.º No mapa n.º 20 enumeram-se, em relação a cada estação, ambulância e posto e a 31 de Dezembro do ano a que a estatística se refere, os receptáculos postais (marcos e caixas) existentes, as caixas de apartado existentes e alugadas, os assinantes do serviço de sacos de apartado e os sacos de malas distribuídos.
 
-###### Art. 83.º No mapa n.º 21 enumeram-se, em relação a cada estação e posto, os meios de transporte de que dispunham em 31 de Dezembro do ano a que a estatística se refere, e bem assim os bilhetes de identidade emitidos e os assinantes de «avisos de fecho de malas» existentes.
+Art. 83.º No mapa n.º 21 enumeram-se, em relação a cada estação e posto, os meios de transporte de que dispunham em 31 de Dezembro do ano a que a estatística se refere, e bem assim os bilhetes de identidade emitidos e os assinantes de «avisos de fecho de malas» existentes.
 
-###### Art. 84.º No mapa 22 enumeram-se os «boletins de verificação» organizados e recebidos por cada estação, ambulância e posto durante o ano a que a estatística se refere, e bem assim as reclamações apresentadas sobre os serviços.
+Art. 84.º No mapa 22 enumeram-se os «boletins de verificação» organizados e recebidos por cada estação, ambulância e posto durante o ano a que a estatística se refere, e bem assim as reclamações apresentadas sobre os serviços.
 
-###### Art. 85.º No mapa n.º 23 enumeram-se, em relação a cada regime, as malas expedidas, recebidas e em trânsito, pelas vias terrestre, marítima e aérea, por cada estação, ambulância e posto e durante o ano a que a estatística se refere, e bem assim os sacos e sobrescritos de que as mesmas malas se compõem.
+Art. 85.º No mapa n.º 23 enumeram-se, em relação a cada regime, as malas expedidas, recebidas e em trânsito, pelas vias terrestre, marítima e aérea, por cada estação, ambulância e posto e durante o ano a que a estatística se refere, e bem assim os sacos e sobrescritos de que as mesmas malas se compõem.
 
 § 1.º Para os efeitos do disposto neste artigo elabora-se um mapa para cada um dos quatro regimes, que poderá ser desdobrado, tratando-se do regime interprovincial ou internacional, por forma a apresentar-se o movimento em relação a cada província ou a cada país, se for julgado conveniente.
 
 § 2.º Os directores e chefes de repartições provinciais poderão estabelecer que todas as estações de 3.ª classe e todos os postos sejam englobados nos mapas apenas em dois agrupamentos, designados, respectivamente, por «Estações de 3.ª classe» e «Postos».
 
-###### Art. 86.º No mapa n.º 24 enumeram-se, em relação a cada regime, as malas expedidas, recebidas e em trânsito pelas vias terrestre, marítima e aérea durante os últimos dez ou cinco anos, conforme for possível, e bem assim os sacos e sobrescritos de que as mesmas malas se compõem.
+Art. 86.º No mapa n.º 24 enumeram-se, em relação a cada regime, as malas expedidas, recebidas e em trânsito pelas vias terrestre, marítima e aérea durante os últimos dez ou cinco anos, conforme for possível, e bem assim os sacos e sobrescritos de que as mesmas malas se compõem.
 
-###### Art. 87.º No mapa n.º 25 enumeram-se, discriminadas por classes, as correspondências ordinárias do regime provincial manipuladas em cada distrito da província durante o ano a que a estatística se refere, em relação a cada natureza do tráfego (expedição, recepção e trânsito), e bem assim os objectos a distribuir por próprio expedidos e recebidos compreendidos nos números apresentados e ainda os objectos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos mesmos números.
+Art. 87.º No mapa n.º 25 enumeram-se, discriminadas por classes, as correspondências ordinárias do regime provincial manipuladas em cada distrito da província durante o ano a que a estatística se refere, em relação a cada natureza do tráfego (expedição, recepção e trânsito), e bem assim os objectos a distribuir por próprio expedidos e recebidos compreendidos nos números apresentados e ainda os objectos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos mesmos números.
 
-###### Art. 88.º No mapa n.º 26 enumeram-se, discriminadas por classes, as correspondências ordinárias do regime interprovincial manipuladas na província durante o ano a que a estatística se refere, em relação a cada uma das outras províncias e a cada natureza do tráfego (expedição, recepção e trânsito), e bem assim os objectos a distribuir por próprio expedidos e recebidos compreendidos nos números apresentados e ainda os objectos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos mesmos números.
+Art. 88.º No mapa n.º 26 enumeram-se, discriminadas por classes, as correspondências ordinárias do regime interprovincial manipuladas na província durante o ano a que a estatística se refere, em relação a cada uma das outras províncias e a cada natureza do tráfego (expedição, recepção e trânsito), e bem assim os objectos a distribuir por próprio expedidos e recebidos compreendidos nos números apresentados e ainda os objectos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos mesmos números.
 
-###### Art. 89.º No mapa n.º 27 enumeram-se, discriminadas por classes, as correspondências ordinárias do regime ultramarino, pelo modo estabelecido para a enumeração das correspondências ordinárias do regime provincial no artigo 87.º
+Art. 89.º No mapa n.º 27 enumeram-se, discriminadas por classes, as correspondências ordinárias do regime ultramarino, pelo modo estabelecido para a enumeração das correspondências ordinárias do regime provincial no artigo 87.º
 
-###### Art. 90.º No mapa n.º 28 enumeram-se, discriminadas por classes, as correspondências ordinárias do regime internacional manipuladas na província durante o ano a que a estatística se refere, em relação a cada país e a cada natureza do tráfego (expedição, recepção e trânsito), e bem assim os objectos a distribuir por próprio expedidos e recebidos compreendidos nos números apresentados e ainda os objectos reexpedidos, devolvidos o recebidos devolvidos não compreendidos nos mesmos números.
+Art. 90.º No mapa n.º 28 enumeram-se, discriminadas por classes, as correspondências ordinárias do regime internacional manipuladas na província durante o ano a que a estatística se refere, em relação a cada país e a cada natureza do tráfego (expedição, recepção e trânsito), e bem assim os objectos a distribuir por próprio expedidos e recebidos compreendidos nos números apresentados e ainda os objectos reexpedidos, devolvidos o recebidos devolvidos não compreendidos nos mesmos números.
 
-###### Art. 91.º No mapa n.º 29 enumeram-se, em relação a cada regime, as correspondências ordinárias sujeitas a taxas e isentas de taxas expedidas, recebidas e em trânsito a descoberto por cada estação, ambulância e posto da província, durante o ano a que a estatística se refere, e bem assim os objectos a distribuir por próprio expedidos e recebidos compreendidos nos números apresentados e ainda os objectos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos mesmos números.
+Art. 91.º No mapa n.º 29 enumeram-se, em relação a cada regime, as correspondências ordinárias sujeitas a taxas e isentas de taxas expedidas, recebidas e em trânsito a descoberto por cada estação, ambulância e posto da província, durante o ano a que a estatística se refere, e bem assim os objectos a distribuir por próprio expedidos e recebidos compreendidos nos números apresentados e ainda os objectos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos mesmos números.
 
 § 1.º Para os efeitos do disposto neste artigo deve elaborar-se um mapa para cada um dos quatro regimes e um outro, correspondente à soma dos números deles constantes, representativo do tráfego total manipulado em relação a todos os regimes.
 
 § 2.º É aplicável em relação a estes mapas o disposto no § 2.º do artigo 85.º
 
-###### Art. 92.º No mapa n.º 30 enumeram-se os totais das correspondências ordinárias manipuladas na província em relação a cada regime e a cada natureza do tráfego (expedição, recepção e trânsito), nos últimos dez ou cinco anos, conforme for possível, e bem assim os objectos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nesses totais.
+Art. 92.º No mapa n.º 30 enumeram-se os totais das correspondências ordinárias manipuladas na província em relação a cada regime e a cada natureza do tráfego (expedição, recepção e trânsito), nos últimos dez ou cinco anos, conforme for possível, e bem assim os objectos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nesses totais.
 
-###### Art. 93.º No mapa n.º 31 enumeram-se, discriminadas por classes, as correspondências registadas do regime provincial manipuladas em cada distrito da província durante o ano a que a estatística se refere, em relação a cada natureza do tráfego (expedição, recepção e trânsito), e bem assim os objectos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos números apresentados.
+Art. 93.º No mapa n.º 31 enumeram-se, discriminadas por classes, as correspondências registadas do regime provincial manipuladas em cada distrito da província durante o ano a que a estatística se refere, em relação a cada natureza do tráfego (expedição, recepção e trânsito), e bem assim os objectos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos números apresentados.
 
-###### Art. 94.º No mapa n.º 32 enumeram-se, discriminadas por classes, as correspondências registadas do regime interprovincial manipuladas na província durante o ano a que a estatística se refere, em relação a cada uma das outras províncias e a cada natureza do tráfego (expedição, recepção e trânsito), e bem assim os objectos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos números apresentados.
+Art. 94.º No mapa n.º 32 enumeram-se, discriminadas por classes, as correspondências registadas do regime interprovincial manipuladas na província durante o ano a que a estatística se refere, em relação a cada uma das outras províncias e a cada natureza do tráfego (expedição, recepção e trânsito), e bem assim os objectos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos números apresentados.
 
-###### Art. 95.º No mapa n.º 33 enumeram-se, discriminadas por classes, as correspondências registadas do regime ultramarino, pelo modo estabelecido para a enumeração das correspondências registadas do regime provincial no artigo 93.º
+Art. 95.º No mapa n.º 33 enumeram-se, discriminadas por classes, as correspondências registadas do regime ultramarino, pelo modo estabelecido para a enumeração das correspondências registadas do regime provincial no artigo 93.º
 
-###### Art. 96.º No mapa n.º 34 enumeram-se, discriminadas por classes, as correspondências registadas do regime internacional manipuladas na província durante o ano a que a estatística se refere, em relação a cada país e a cada natureza do tráfego (expedição, recepção e trânsito), e bem assim os objectos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos números apresentados.
+Art. 96.º No mapa n.º 34 enumeram-se, discriminadas por classes, as correspondências registadas do regime internacional manipuladas na província durante o ano a que a estatística se refere, em relação a cada país e a cada natureza do tráfego (expedição, recepção e trânsito), e bem assim os objectos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos números apresentados.
 
-###### Art. 97.º No mapa n.º 35 enumeram-se, discriminadas segundo os serviços acessórios e as condições de sujeição ou não sujeição a taxas, as correspondências registadas do regime provincial manipuladas em cada distrito da província durante o ano a que a estatística se refere, em relação a cada natureza do tráfego (expedição, recepção e trânsito), e bem assim os objectos com aviso de recepção e os a distribuir por próprio compreendidos nos números apresentados.
+Art. 97.º No mapa n.º 35 enumeram-se, discriminadas segundo os serviços acessórios e as condições de sujeição ou não sujeição a taxas, as correspondências registadas do regime provincial manipuladas em cada distrito da província durante o ano a que a estatística se refere, em relação a cada natureza do tráfego (expedição, recepção e trânsito), e bem assim os objectos com aviso de recepção e os a distribuir por próprio compreendidos nos números apresentados.
 
-###### Art. 98.º No mapa n.º 36 enumeram-se, discriminadas segundo os serviços acessórios e as condições de sujeição ou não sujeição a taxas, as correspondências registadas do regime interprovincial manipuladas na província durante o ano a que a estatística se refere, em relação a cada uma das outras províncias e a cada natureza do tráfego (expedição, recepção e trânsito), e bem assim os objectos com aviso de recepção e os a distribuir por próprio compreendidos nos números apresentados.
+Art. 98.º No mapa n.º 36 enumeram-se, discriminadas segundo os serviços acessórios e as condições de sujeição ou não sujeição a taxas, as correspondências registadas do regime interprovincial manipuladas na província durante o ano a que a estatística se refere, em relação a cada uma das outras províncias e a cada natureza do tráfego (expedição, recepção e trânsito), e bem assim os objectos com aviso de recepção e os a distribuir por próprio compreendidos nos números apresentados.
 
-###### Art. 99.º No mapa n.º 37 enumeram-se, discriminadas segundo os serviços acessórios e as condições de sujeição ou não sujeição a taxas, as correspondências registadas do regime ultramarino, pelo modo estabelecido para a enumeração das correspondências registadas do regime provincial no artigo 97.º
+Art. 99.º No mapa n.º 37 enumeram-se, discriminadas segundo os serviços acessórios e as condições de sujeição ou não sujeição a taxas, as correspondências registadas do regime ultramarino, pelo modo estabelecido para a enumeração das correspondências registadas do regime provincial no artigo 97.º
 
-###### Art. 100.º No mapa n.º 38 enumeram-se, discriminadas segundo os serviços acessórios e as condições de sujeição ou não sujeição a taxas, as correspondências registadas do regime internacional manipuladas na província durante o ano a que a estatística se refere, em relação a cada país e a cada natureza do tráfego (expedição, recepção e trânsito), e bem assim os objectos com aviso de recepção e os a distribuir por próprio compreendidos nos números apresentados.
+Art. 100.º No mapa n.º 38 enumeram-se, discriminadas segundo os serviços acessórios e as condições de sujeição ou não sujeição a taxas, as correspondências registadas do regime internacional manipuladas na província durante o ano a que a estatística se refere, em relação a cada país e a cada natureza do tráfego (expedição, recepção e trânsito), e bem assim os objectos com aviso de recepção e os a distribuir por próprio compreendidos nos números apresentados.
 
-###### Art. 101.º No mapa n.º 39 enumeram-se, em relação a cada regime, as correspondências registadas sujeitas a taxas e isentas de taxas expedidas, recebidas e em trânsito a descoberto por cada estação, ambulância e posto da província, durante o ano a que a estatística se refere, e bem assim os objectos com aviso de recepção e os a distribuir por próprio compreendidos nos números apresentados e ainda os objectos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos mesmos números.
+Art. 101.º No mapa n.º 39 enumeram-se, em relação a cada regime, as correspondências registadas sujeitas a taxas e isentas de taxas expedidas, recebidas e em trânsito a descoberto por cada estação, ambulância e posto da província, durante o ano a que a estatística se refere, e bem assim os objectos com aviso de recepção e os a distribuir por próprio compreendidos nos números apresentados e ainda os objectos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos mesmos números.
 
 § único. Aplica-se para a elaboração deste mapa o disposto nos §§ 1.º e 2.º do artigo 91.º
 
-###### Art. 102.º No mapa n.º 40 enumeram-se os totais das correspondências registadas manipuladas na província em relação a cada regime e a cada natureza do tráfego (expedição, recepção e trânsito), nos últimos dez ou cinco anos, conforme for possível, e bem assim os objectos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nesses totais.
+Art. 102.º No mapa n.º 40 enumeram-se os totais das correspondências registadas manipuladas na província em relação a cada regime e a cada natureza do tráfego (expedição, recepção e trânsito), nos últimos dez ou cinco anos, conforme for possível, e bem assim os objectos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nesses totais.
 
-###### Art. 103.º No mapa n.º 41 enumeram-se, em relação a cada regime, os títulos a cobrança recebidos e liquidados em cada estação da província durante o ano a que a estatística se refere, com a discriminação dos sobrescritos recebidos, dos títulos neles incluídos, das importâncias totais a cobrar por esses títulos, dos vales emitidos e depósitos feitos para a liquidação dos títulos cobrados, das quantias totais desses vales e depósitos na moeda local, dos títulos não liquidados e da receita arrecadada por comissões de depósitos realizados.
-
-§ único. Aplica-se para a elaboração deste mapa o disposto no § 1.º do artigo 85.º
-
-###### Art. 104.º No mapa n.º 42 enumeram-se os títulos a cobrança recebidos e liquidados na província em relação a cada regime, nos últimos dez ou cinco anos, conforme for possível, com os elementos de discriminação mencionados no artigo anterior.
-
-###### Art. 105.º No mapa n.º 43 enumeram-se as correspondências e encomendas postais sujeitas a embolso do regime provincial, incluindo as cartas e caixas com valor declarado, expedidas e recebidas em cada distrito da província durante o ano a que a estatística se refere, com a discriminação das suas quantidades e das importâncias a cobrar, do produto dos vales de embolso emitidos em liquidação das cobranças efectuadas, dos prémios arrecadados por esses vales, das comissões de depósito arrecadadas pelas quantias das cobranças realizadas e depositadas, das importâncias pagas por vales de embolso, e bem assim os embolsos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos números apresentados.
-
-###### Art. 106.º No mapa n.º 44 enumeram-se as correspondências e encomendas postais sujeitas a embolso do regime interprovincial, incluindo as cartas e caixas com valor declarado, expedidas e recebidas na província durante o ano a que a estatística se refere, em relação a cada uma das outras províncias, com os elementos de discriminação mencionados no artigo anterior, e bem assim os embolsos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos números apresentados.
-
-###### Art. 107.º No mapa n.º 45 enumeram-se as correspondências e encomendas postais sujeitas a embolso do regime ultramarino, incluindo as cartas e caixas com valor declarado, pelo modo estabelecido para a enumeração das correspondências e encomendas postais sujeitas a embolso do regime provincial no artigo 105.º
-
-###### Art. 108.º No mapa n.º 46 enumeram-se as correspondências e encomendas postais sujeitas a embolso do regime internacional, incluindo as cartas e caixas com valor declarado, expedidas e recebidas na província durante o ano a que a estatística se refere, em relação a cada país, com os elementos de discriminação mencionados no artigo 105.º, e bem assim os embolsos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos números apresentados.
-
-###### Art. 109.º No mapa n.º 47 enumeram-se, em relação a cada regime, as correspondências e encomendas postais sujeitas a embolso, incluindo as cartas e caixas com valor declarado, expedidas e recebidas por cada estação da província durante o ano a que a estatística se refere, com os elementos de discriminação mencionados no artigo 105.º, e bem assim os embolsos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos números apresentados.
+Art. 103.º No mapa n.º 41 enumeram-se, em relação a cada regime, os títulos a cobrança recebidos e liquidados em cada estação da província durante o ano a que a estatística se refere, com a discriminação dos sobrescritos recebidos, dos títulos neles incluídos, das importâncias totais a cobrar por esses títulos, dos vales emitidos e depósitos feitos para a liquidação dos títulos cobrados, das quantias totais desses vales e depósitos na moeda local, dos títulos não liquidados e da receita arrecadada por comissões de depósitos realizados.
 
 § único. Aplica-se para a elaboração deste mapa o disposto no § 1.º do artigo 85.º
 
-###### Art. 110.º No mapa n.º 48 enumeram-se as correspondências e encomendas postais sujeitas a embolso, incluindo as cartas e caixas com valor declarado, expedidas e recebidas na província em relação a cada regime, nos últimos dez ou cinco anos, conforme for possível, com os elementos de discriminação mencionados no artigo 105.º, e bem assim os embolsos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos números apresentados.
+Art. 104.º No mapa n.º 42 enumeram-se os títulos a cobrança recebidos e liquidados na província em relação a cada regime, nos últimos dez ou cinco anos, conforme for possível, com os elementos de discriminação mencionados no artigo anterior.
 
-###### Art. 111.º No mapa n.º 49 enumeram-se as cartas, caixas e encomendas postais com valor declarado do regime provincial expedidas e recebidas em cada distrito da província durante o ano a que a estatística se refere, pela via aérea e por outras vias, e bem assim o seu valor seguro e ainda os objectos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos números apresentados.
+Art. 105.º No mapa n.º 43 enumeram-se as correspondências e encomendas postais sujeitas a embolso do regime provincial, incluindo as cartas e caixas com valor declarado, expedidas e recebidas em cada distrito da província durante o ano a que a estatística se refere, com a discriminação das suas quantidades e das importâncias a cobrar, do produto dos vales de embolso emitidos em liquidação das cobranças efectuadas, dos prémios arrecadados por esses vales, das comissões de depósito arrecadadas pelas quantias das cobranças realizadas e depositadas, das importâncias pagas por vales de embolso, e bem assim os embolsos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos números apresentados.
 
-###### Art. 112.º No mapa n.º 50 enumeram-se as cartas, caixas e encomendas postais com valor declarado do regime interprovincial expedidas e recebidas na província durante o ano a que a estatística se refere, pela via aérea e por outras vias, em relação a cada uma das outras províncias, e bem assim o seu valor seguro e ainda os objectos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos números apresentados.
+Art. 106.º No mapa n.º 44 enumeram-se as correspondências e encomendas postais sujeitas a embolso do regime interprovincial, incluindo as cartas e caixas com valor declarado, expedidas e recebidas na província durante o ano a que a estatística se refere, em relação a cada uma das outras províncias, com os elementos de discriminação mencionados no artigo anterior, e bem assim os embolsos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos números apresentados.
 
-###### Art. 113.º No mapa n.º 51 enumeram-se as cartas, caixas e encomendas postais com valor declarado do regime ultramarino, pelo modo estabelecido para a enumeração das cartas, caixas e encomendas postais com valor declarado do regime provincial no artigo 111.º
+Art. 107.º No mapa n.º 45 enumeram-se as correspondências e encomendas postais sujeitas a embolso do regime ultramarino, incluindo as cartas e caixas com valor declarado, pelo modo estabelecido para a enumeração das correspondências e encomendas postais sujeitas a embolso do regime provincial no artigo 105.º
 
-###### Art. 114.º No mapa n.º 52 enumeram-se as cartas, caixas e encomendas postais com valor declarado do regime internacional, expedidas e recebidas na província durante o ano a que a estatística se refere, pela via aérea e por outras vias, em relação a cada país, e bem assim o seu valor seguro e ainda os objectos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos números apresentados.
+Art. 108.º No mapa n.º 46 enumeram-se as correspondências e encomendas postais sujeitas a embolso do regime internacional, incluindo as cartas e caixas com valor declarado, expedidas e recebidas na província durante o ano a que a estatística se refere, em relação a cada país, com os elementos de discriminação mencionados no artigo 105.º, e bem assim os embolsos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos números apresentados.
 
-###### Art. 115.º No mapa n.º 53 enumeram-se, em relação a cada regime, as cartas, caixas e encomendas postais com valor declarado expedidas e recebidas por cada estação da província durante o ano a que a estatística se refere, pela via aérea e por outras vias, e bem assim o seu valor seguro e ainda os objectos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos números apresentados.
+Art. 109.º No mapa n.º 47 enumeram-se, em relação a cada regime, as correspondências e encomendas postais sujeitas a embolso, incluindo as cartas e caixas com valor declarado, expedidas e recebidas por cada estação da província durante o ano a que a estatística se refere, com os elementos de discriminação mencionados no artigo 105.º, e bem assim os embolsos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos números apresentados.
 
 § único. Aplica-se para a elaboração deste mapa o disposto no § 1.º do artigo 85.º
 
-###### Art. 116.º No mapa n.º 54 enumeram-se as cartas, caixas e encomendas postais com valor declarado expedidas e recebidas na província em relação a cada regime, durante os últimos dez ou cinco anos, conforme for possível, e bem assim o seu valor seguro e ainda os objectos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos números apresentados.
+Art. 110.º No mapa n.º 48 enumeram-se as correspondências e encomendas postais sujeitas a embolso, incluindo as cartas e caixas com valor declarado, expedidas e recebidas na província em relação a cada regime, nos últimos dez ou cinco anos, conforme for possível, com os elementos de discriminação mencionados no artigo 105.º, e bem assim os embolsos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos números apresentados.
 
-###### Art. 117.º No mapa n.º 55 enumeram-se as encomendas postais ordinárias e com valor declarado do regime provincial, incluindo as sujeitas a embolso, manipuladas em cada distrito da província durante o ano a que a estatística se refere, em relação a cada natureza do tráfego (expedição, recepção e trânsito), com a discriminação das vias de seu encaminhamento (aérea e de superfície), e bem assim as encomendas com aviso de recepção e as encomendas a distribuir por próprio compreendidas nos números apresentados e ainda as encomendas reexpedidas, devolvidas e recebidas devolvidas não compreendidas nos mesmos números.
+Art. 111.º No mapa n.º 49 enumeram-se as cartas, caixas e encomendas postais com valor declarado do regime provincial expedidas e recebidas em cada distrito da província durante o ano a que a estatística se refere, pela via aérea e por outras vias, e bem assim o seu valor seguro e ainda os objectos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos números apresentados.
 
-###### Art. 118.º No mapa n.º 56 enumeram-se as encomendas postais ordinárias e com valor declarado do regime interprovincial, incluindo as sujeitas a embolso, manipuladas na província durante o ano a que a estatística se refere, em relação a cada uma das outras províncias e a cada natureza do tráfego (expedição, recepção e trânsito), com a discriminação das vias de seu encaminhamento (aérea e de superfície), e bem assim as encomendas com aviso de recepção e as encomendas a distribuir por próprio compreendidas nos números apresentados e ainda as encomendas reexpedidas, devolvidas e recebidas devolvidas não compreendidas nos mesmos números.
+Art. 112.º No mapa n.º 50 enumeram-se as cartas, caixas e encomendas postais com valor declarado do regime interprovincial expedidas e recebidas na província durante o ano a que a estatística se refere, pela via aérea e por outras vias, em relação a cada uma das outras províncias, e bem assim o seu valor seguro e ainda os objectos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos números apresentados.
 
-###### Art. 119.º No mapa n.º 57 enumeram-se as encomendas postais ordinárias e com valor declarado do regime ultramarino, incluindo as sujeitas a embolso, pelo modo estabelecido para a enumeração das encomendas postais do regime provincial no artigo 117.º
+Art. 113.º No mapa n.º 51 enumeram-se as cartas, caixas e encomendas postais com valor declarado do regime ultramarino, pelo modo estabelecido para a enumeração das cartas, caixas e encomendas postais com valor declarado do regime provincial no artigo 111.º
 
-###### Art. 120.º No mapa n.º 58 enumeram-se as encomendas postais ordinárias e com valor declarado do regime internacional, incluindo as sujeitas a embolso, manipuladas na província durante o ano a que a estatística se refere, em relação a cada país e a cada natureza do tráfego (expedição, recepção e trânsito), com a discriminação das vias de seu encaminhamento (aérea e de superfície), e bem assim as encomendas com aviso de recepção e as encomendas a distribuir por próprio compreendidas nos números apresentados e ainda as encomendas reexpedidas, devolvidas e recebidas devolvidas não compreendidas nos mesmos números.
+Art. 114.º No mapa n.º 52 enumeram-se as cartas, caixas e encomendas postais com valor declarado do regime internacional, expedidas e recebidas na província durante o ano a que a estatística se refere, pela via aérea e por outras vias, em relação a cada país, e bem assim o seu valor seguro e ainda os objectos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos números apresentados.
 
-###### Art. 121.º No mapa n.º 59 enumeram-se, em relação a cada regime, as encomendas postais ordinárias e com valor declarado, incluindo as sujeitas a embolso, expedidas, recebidas e em trânsito a descoberto por cada estação da província, durante o ano a que a estatística se refere, e bem assim as encomendas com aviso de recepção e as encomendas a distribuir por próprio compreendidas nos números apresentados e ainda as encomendas reexpedidas, devolvidas e recebidas devolvidas não compreendidas nos mesmos números.
+Art. 115.º No mapa n.º 53 enumeram-se, em relação a cada regime, as cartas, caixas e encomendas postais com valor declarado expedidas e recebidas por cada estação da província durante o ano a que a estatística se refere, pela via aérea e por outras vias, e bem assim o seu valor seguro e ainda os objectos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos números apresentados.
+
+§ único. Aplica-se para a elaboração deste mapa o disposto no § 1.º do artigo 85.º
+
+Art. 116.º No mapa n.º 54 enumeram-se as cartas, caixas e encomendas postais com valor declarado expedidas e recebidas na província em relação a cada regime, durante os últimos dez ou cinco anos, conforme for possível, e bem assim o seu valor seguro e ainda os objectos reexpedidos, devolvidos e recebidos devolvidos não compreendidos nos números apresentados.
+
+Art. 117.º No mapa n.º 55 enumeram-se as encomendas postais ordinárias e com valor declarado do regime provincial, incluindo as sujeitas a embolso, manipuladas em cada distrito da província durante o ano a que a estatística se refere, em relação a cada natureza do tráfego (expedição, recepção e trânsito), com a discriminação das vias de seu encaminhamento (aérea e de superfície), e bem assim as encomendas com aviso de recepção e as encomendas a distribuir por próprio compreendidas nos números apresentados e ainda as encomendas reexpedidas, devolvidas e recebidas devolvidas não compreendidas nos mesmos números.
+
+Art. 118.º No mapa n.º 56 enumeram-se as encomendas postais ordinárias e com valor declarado do regime interprovincial, incluindo as sujeitas a embolso, manipuladas na província durante o ano a que a estatística se refere, em relação a cada uma das outras províncias e a cada natureza do tráfego (expedição, recepção e trânsito), com a discriminação das vias de seu encaminhamento (aérea e de superfície), e bem assim as encomendas com aviso de recepção e as encomendas a distribuir por próprio compreendidas nos números apresentados e ainda as encomendas reexpedidas, devolvidas e recebidas devolvidas não compreendidas nos mesmos números.
+
+Art. 119.º No mapa n.º 57 enumeram-se as encomendas postais ordinárias e com valor declarado do regime ultramarino, incluindo as sujeitas a embolso, pelo modo estabelecido para a enumeração das encomendas postais do regime provincial no artigo 117.º
+
+Art. 120.º No mapa n.º 58 enumeram-se as encomendas postais ordinárias e com valor declarado do regime internacional, incluindo as sujeitas a embolso, manipuladas na província durante o ano a que a estatística se refere, em relação a cada país e a cada natureza do tráfego (expedição, recepção e trânsito), com a discriminação das vias de seu encaminhamento (aérea e de superfície), e bem assim as encomendas com aviso de recepção e as encomendas a distribuir por próprio compreendidas nos números apresentados e ainda as encomendas reexpedidas, devolvidas e recebidas devolvidas não compreendidas nos mesmos números.
+
+Art. 121.º No mapa n.º 59 enumeram-se, em relação a cada regime, as encomendas postais ordinárias e com valor declarado, incluindo as sujeitas a embolso, expedidas, recebidas e em trânsito a descoberto por cada estação da província, durante o ano a que a estatística se refere, e bem assim as encomendas com aviso de recepção e as encomendas a distribuir por próprio compreendidas nos números apresentados e ainda as encomendas reexpedidas, devolvidas e recebidas devolvidas não compreendidas nos mesmos números.
 
 § único. Aplica-se para a elaboração deste mapa o disposto no § 1.º do artigo 91.º
 
-###### Art. 122.º No mapa n.º 60 enumeram-se os totais das encomendas postais ordinárias e com valor declarado, incluindo as sujeitas a embolso, manipuladas na província em relação a cada regime e a cada natureza do tráfego (expedição, recepção e trânsito), nos últimos dez ou cinco anos, conforme for possível, e bem assim as encomendas reexpedidas, devolvidas e recebidas devolvidas não compreendidas nesses totais.
+Art. 122.º No mapa n.º 60 enumeram-se os totais das encomendas postais ordinárias e com valor declarado, incluindo as sujeitas a embolso, manipuladas na província em relação a cada regime e a cada natureza do tráfego (expedição, recepção e trânsito), nos últimos dez ou cinco anos, conforme for possível, e bem assim as encomendas reexpedidas, devolvidas e recebidas devolvidas não compreendidas nesses totais.
 
-###### Art. 123.º No mapa n.º 61 enumeram-se, em relação a cada regime, os vales postais e telegráficos e os seus quantitativos emitidos e pagos por cada estação da província, durante o ano a que a estatística se refere, com a discriminação dos que são de serviço e dos que o não são, e bem assim os avisos de recepção e os avisos de pagamento solicitados por esses vales e ainda os prémios arrecadados pela sua emissão.
-
-§ único. Aplica-se para a elaboração deste mapa o disposto no § 1.º do artigo 85.º
-
-###### Art. 124.º No mapa n.º 62 enumeram-se os totais dos vales postais e telegráficos e os seus quantitativos emitidos e pagos na província em cada regime, nos últimos dez ou cinco anos, conforme for possível, e bem assim os prémios arrecadados pela sua emissão.
-
-###### Art. 125.º No mapa n.º 63 enumeram-se, em relação a cada regime, as ordens postais de cada valor emitidas e pagas por cada estação da província, durante o ano a que a estatística se refere, e bem assim os seus totais e ainda os prémios arrecadados pela sua emissão.
+Art. 123.º No mapa n.º 61 enumeram-se, em relação a cada regime, os vales postais e telegráficos e os seus quantitativos emitidos e pagos por cada estação da província, durante o ano a que a estatística se refere, com a discriminação dos que são de serviço e dos que o não são, e bem assim os avisos de recepção e os avisos de pagamento solicitados por esses vales e ainda os prémios arrecadados pela sua emissão.
 
 § único. Aplica-se para a elaboração deste mapa o disposto no § 1.º do artigo 85.º
 
-###### Art. 126.º No mapa n.º 64 enumeram-se os totais das ordens postais emitidas e pagas na província em cada regime, nos últimos dez ou cinco anos, conforme for possível, e bem assim os seus quantitativos e ainda os prémios arrecadados pela sua emissão.
+Art. 124.º No mapa n.º 62 enumeram-se os totais dos vales postais e telegráficos e os seus quantitativos emitidos e pagos na província em cada regime, nos últimos dez ou cinco anos, conforme for possível, e bem assim os prémios arrecadados pela sua emissão.
 
-###### Art. 127.º No mapa n.º 65 enumeram-se, em relação a cada regime, as assinaturas de jornais e publicações periódicas feitas por cada estação da província durante o ano a que a estatística se refere, e bem assim as publicações que aceitam assinaturas por intermédio do correio e ainda as publicações para que foram feitas assinaturas.
+Art. 125.º No mapa n.º 63 enumeram-se, em relação a cada regime, as ordens postais de cada valor emitidas e pagas por cada estação da província, durante o ano a que a estatística se refere, e bem assim os seus totais e ainda os prémios arrecadados pela sua emissão.
 
 § único. Aplica-se para a elaboração deste mapa o disposto no § 1.º do artigo 85.º
 
-###### Art. 128.º No mapa n.º 66 enumeram-se os totais das assinaturas de jornais e publicações periódicas feitas na província em cada regime, nos últimos dez ou cinco anos, conforme for possível, e bem assim os totais das publicações periódicas que aceitam assinaturas por intermédio do correio e ainda os totais das publicações para que foram feitas assinaturas.
+Art. 126.º No mapa n.º 64 enumeram-se os totais das ordens postais emitidas e pagas na província em cada regime, nos últimos dez ou cinco anos, conforme for possível, e bem assim os seus quantitativos e ainda os prémios arrecadados pela sua emissão.
 
-###### Art. 129.º No mapa n.º 67 enumeram-se as correspondências ordinárias, registadas e encomendas postais de cada regime caídas em refugo na província durante o ano a que a estatística se refere.
+Art. 127.º No mapa n.º 65 enumeram-se, em relação a cada regime, as assinaturas de jornais e publicações periódicas feitas por cada estação da província durante o ano a que a estatística se refere, e bem assim as publicações que aceitam assinaturas por intermédio do correio e ainda as publicações para que foram feitas assinaturas.
 
-###### Art. 130.º No mapa n.º 68 enumeram-se os totais das correspondências ordinárias, registadas e encomendas postais de cada regime caídas em refugo nos últimos dez ou cinco anos, conforme for possível.
+§ único. Aplica-se para a elaboração deste mapa o disposto no § 1.º do artigo 85.º
 
-###### Art. 131.º Os mapas n.os 25 a 40, enumerativos das correspondências ordinárias e registadas, devem ser desdobrados por forma a apresentarem os dados estatísticos relativos ao seu encaminhamento pela via aérea em separado dos relativos ao seu encaminhamento pelas vias de superfície.
+Art. 128.º No mapa n.º 66 enumeram-se os totais das assinaturas de jornais e publicações periódicas feitas na província em cada regime, nos últimos dez ou cinco anos, conforme for possível, e bem assim os totais das publicações periódicas que aceitam assinaturas por intermédio do correio e ainda os totais das publicações para que foram feitas assinaturas.
+
+Art. 129.º No mapa n.º 67 enumeram-se as correspondências ordinárias, registadas e encomendas postais de cada regime caídas em refugo na província durante o ano a que a estatística se refere.
+
+Art. 130.º No mapa n.º 68 enumeram-se os totais das correspondências ordinárias, registadas e encomendas postais de cada regime caídas em refugo nos últimos dez ou cinco anos, conforme for possível.
+
+Art. 131.º Os mapas n.os 25 a 40, enumerativos das correspondências ordinárias e registadas, devem ser desdobrados por forma a apresentarem os dados estatísticos relativos ao seu encaminhamento pela via aérea em separado dos relativos ao seu encaminhamento pelas vias de superfície.
 
 § único. Quando os dados relativos à via aérea não sejam necessários para o preenchimento de mapas estatísticos a publicar pela secretaria da União Postal Universal e quando a sua apresentação nas estatísticas nacionais em separado dos dados relativos a outras vias de encaminhamento for reconhecida dispensável, poderá o governador da província, sobre proposta do director ou chefe de repartição provincial dos correios, telégrafos e telefones, autorizar, por meio de despacho, que se deixem de fazer os desdobramentos de mapas, nos termos do corpo deste artigo.
 
 ### CAPÍTULO V — Elaboração estatística
 
-###### Art. 132.º Enumerados em mapas os dados apurados pela forma como dispõe o capítulo IV, deve o encarregado da organização da estatística extrair das séries dos números apresentados conclusões que interessem à sua apreciação e compreensão, do modo seguinte:
+Art. 132.º Enumerados em mapas os dados apurados pela forma como dispõe o capítulo IV, deve o encarregado da organização da estatística extrair das séries dos números apresentados conclusões que interessem à sua apreciação e compreensão, do modo seguinte:
 
 a) Pelo agrupamento de números de séries em valores médios que os representem;
 
@@ -686,7 +694,7 @@ d) Por meio de números-índices referidos a 100 que indiquem os resultados das 
 
 e) Por meio de representações gráficas dos números constantes dos mapas estatísticos, dos seus valores médios e dos obtidos da sua comparação relativa nos termos das alíneas c) e d) anteriores.
 
-###### Art. 133.º No relatório referido na alínea a) do § único do artigo anterior devem destacar-se, entre outros factos que interesse fazer sobressair, os seguintes:
+Art. 133.º No relatório referido na alínea a) do § único do artigo anterior devem destacar-se, entre outros factos que interesse fazer sobressair, os seguintes:
 
 a) O número médio de indivíduos que em cada 100 habitantes utilizam os serviços dos correios, telégrafos e telefones;
 
@@ -732,7 +740,7 @@ v) A forma como os números representativos dos factos mencionados nas alíneas 
 
 § único. As conclusões a extrair em relação aos habitantes devem referir-se ao conjunto de todos os indivíduos, indígenas e não indígenas, e, também, em separado, ùnicamente aos não indígenas.
 
-###### Art. 134.º O processo de apresentação dos factos por meio de percentagens ou permilagens, referido na alínea c) do § único do artigo 132.º, deve utilizar-se de preferência para a apreciação de dados estatísticos que se relacionem uns com os outros, em conformidade com as seguintes normas:
+Art. 134.º O processo de apresentação dos factos por meio de percentagens ou permilagens, referido na alínea c) do § único do artigo 132.º, deve utilizar-se de preferência para a apreciação de dados estatísticos que se relacionem uns com os outros, em conformidade com as seguintes normas:
 
 a) Por cada escudo da receita total de exploração arrecadada pelos correios, telégrafos e telefones, quanto correspondeu a cada um dos serviços;
 
@@ -766,7 +774,7 @@ p) Por cada 100 objectos de correspondência expedidas, quantos foram registados
 
 q) Por cada 100 objectos de correspondência recebidos, quantos eram com registo e quantos sem registo.
 
-###### Art. 135.º O processo de apresentação dos factos por meio de números-índices, referido na alínea d) do § único do artigo 132.º, deve utilizar-se de preferência para a apreciação das variações de dados estatísticos nos últimos anos, se possível nos últimos dez anos, em conformidade com as seguintes normas:
+Art. 135.º O processo de apresentação dos factos por meio de números-índices, referido na alínea d) do § único do artigo 132.º, deve utilizar-se de preferência para a apreciação das variações de dados estatísticos nos últimos anos, se possível nos últimos dez anos, em conformidade com as seguintes normas:
 
 a) Representando por 100 o número de estações, ambulâncias e postos existentes num determinado ano tomado como base, quantas estações, ambulâncias e postos passaram proporcionalmente a existir nos anos seguintes;
 
@@ -806,7 +814,7 @@ s) Representando por 100 as quantidades de vales postais pagos em cada regime nu
 
 t) Representando por 100 o produto da emissão de vales postais arrecadado em cada regime num determinado ano tomado como base, qual o produto proporcionalmente arrecadado nos anos seguintes em cada um dos mesmos regimes.
 
-###### Art. 136.º Para as representações gráficas dos dados estatísticos devem usar-se sòmente diagramas lineares, de barras ou colunas e de superfície, traçados em obediência às regras seguintes:
+Art. 136.º Para as representações gráficas dos dados estatísticos devem usar-se sòmente diagramas lineares, de barras ou colunas e de superfície, traçados em obediência às regras seguintes:
 
 1.ª A sua leitura deve avançar da esquerda para a direita;
 
@@ -832,55 +840,55 @@ t) Representando por 100 o produto da emissão de vales postais arrecadado em ca
 
 ### CAPÍTULO VI — Apresentação e publicação da estatística
 
-###### Art. 137.º Os mapas estatísticos, com os trabalhos de sua apreciação referidos nos artigos 132.º a 136.º, devem ser apresentados ao governo da província, logo que fiquem concluídos, pelo director ou chefe de repartição provincial dos correios, telégrafos e telefones, acompanhados de um relatório circunstanciado em que se apreciem todos os elementos que interessem à compreensão do estado e desenvolvimento dos serviços a seu cargo.
+Art. 137.º Os mapas estatísticos, com os trabalhos de sua apreciação referidos nos artigos 132.º a 136.º, devem ser apresentados ao governo da província, logo que fiquem concluídos, pelo director ou chefe de repartição provincial dos correios, telégrafos e telefones, acompanhados de um relatório circunstanciado em que se apreciem todos os elementos que interessem à compreensão do estado e desenvolvimento dos serviços a seu cargo.
 
 § único. Uma cópia dos mapas, gráficos, trabalhos de sua apreciação e relatório deve ser acto contínuo enviada ao Ministério do Ultramar, acompanhada de ofício do governo da província. Uma outra cópia deve ser enviada ao serviço encarregado da estatística geral da província ou, na sua falta, à Imprensa Nacional, para publicação, nos termos do artigo 139.º Ainda uma outra cópia dos mapas que interessem à referida estatística geral da província deve ser enviada ao mencionado serviço encarregado de sua organização e publicação. Os originais devem permanecer em arquivo na direcção ou repartição provincial dos correios, telégrafos e telefones, de harmonia com o artigo 147.º
 
-###### Art. 138.º No relatório anual do director ou chefe de repartição provincial dos correios, telégrafos e telefones devem fazer-se apreciações relacionadas com os números apurados e apresentados nos mapas estatísticos que se julgue de interesse destacar.
+Art. 138.º No relatório anual do director ou chefe de repartição provincial dos correios, telégrafos e telefones devem fazer-se apreciações relacionadas com os números apurados e apresentados nos mapas estatísticos que se julgue de interesse destacar.
 
-###### Art. 139.º O serviço da estatística geral da província ou, na sua falta, a Imprensa Nacional, deve promover que os mapas e os gráficos estatísticos, e bem assim o relatório de sua apresentação, sejam publicados em edição oficial o mais ràpidamente que for possível.
+Art. 139.º O serviço da estatística geral da província ou, na sua falta, a Imprensa Nacional, deve promover que os mapas e os gráficos estatísticos, e bem assim o relatório de sua apresentação, sejam publicados em edição oficial o mais ràpidamente que for possível.
 
 § único. Quando os meios ao dispor não permitam a publicação em tempo conveniente de todos os documentos mencionados neste artigo, o governador da província poderá autorizar, por meio de despacho fundamentado e especial dado para cada caso, que apenas seja publicado o relatório do director ou chefe de repartição provincial dos correios, telégrafos e telefones, acompanhado do mapa n.º 1 (resumo geral) referido no artigo 63.º e de extractos de outros mapas organizados com as somas e os totais deles constantes.
 
-###### Art. 140.º Além dos exemplares de distribuição obrigatória nos termos que estiverem estabelecidos por disposições especiais, devem ser enviados ao Ministério do Ultramar pelo menos seis exemplares da edição oficial do relatório e estatística referida no artigo anterior, destinados aos órgãos e agentes que no mesmo Ministério têm funções de orientação, direcção, estudo, coordenação e fiscalização dos serviços dos correios, telégrafos e telefones.
+Art. 140.º Além dos exemplares de distribuição obrigatória nos termos que estiverem estabelecidos por disposições especiais, devem ser enviados ao Ministério do Ultramar pelo menos seis exemplares da edição oficial do relatório e estatística referida no artigo anterior, destinados aos órgãos e agentes que no mesmo Ministério têm funções de orientação, direcção, estudo, coordenação e fiscalização dos serviços dos correios, telégrafos e telefones.
 
 ### CAPÍTULO VII — Apreciação superior dos resultados estatísticos
 
-###### Art. 141.º Em face da cópia recebida nos termos do § único do artigo 137.º e dos exemplares da edição oficial aludidos no artigo 140.º, devem os inspectores dos serviços dos correios, telégrafos e telefones, em relação às províncias onde têm a sua sede ou onde estejam a exercer a sua actividade, e os órgãos que no Ministério do Ultramar tratam desses serviços proceder à apreciação dos resultados estatísticos apresentados.
+Art. 141.º Em face da cópia recebida nos termos do § único do artigo 137.º e dos exemplares da edição oficial aludidos no artigo 140.º, devem os inspectores dos serviços dos correios, telégrafos e telefones, em relação às províncias onde têm a sua sede ou onde estejam a exercer a sua actividade, e os órgãos que no Ministério do Ultramar tratam desses serviços proceder à apreciação dos resultados estatísticos apresentados.
 
-###### Art. 142.º Os inspectores dos correios, telégrafos e telefones devem promover, em face dos estudos de apreciação a realizar nos termos do artigo anterior, o cumprimento das disposições regulamentares vigentes, quando se reconhecer não estarem a ser acatadas, e bem assim transmitir aos órgãos referidos no mesmo artigo os resultados dos seus estudos e as providências tomadas.
+Art. 142.º Os inspectores dos correios, telégrafos e telefones devem promover, em face dos estudos de apreciação a realizar nos termos do artigo anterior, o cumprimento das disposições regulamentares vigentes, quando se reconhecer não estarem a ser acatadas, e bem assim transmitir aos órgãos referidos no mesmo artigo os resultados dos seus estudos e as providências tomadas.
 
 § único. Se os assuntos a regularizar ou a aperfeiçoar já tiverem sido objecto de providências anteriormente tomadas sem que se haja alcançado uma solução satisfatória, nem por isso se deixarão de tomar novas providências que as circunstâncias aconselharem, embora a sua solução dependa do Governo Central, e de expor o facto ao Ministro do Ultramar ou aos governadores das províncias interessadas, conforme o caso.
 
-###### Art. 143.º Os órgãos aludidos no artigo 141.º devem, em complemento dos estudos de apreciação a realizar nos termos do mesmo artigo, dar seguimento às propostas de soluções contidas nos relatórios ou separadamente apresentadas, promovendo a introdução das modificações aconselhadas por esses estudos e pelos realizados sobre as informações dos inspectores dos correios, telégrafos e telefones recebidas em obediência ao disposto no artigo anterior.
+Art. 143.º Os órgãos aludidos no artigo 141.º devem, em complemento dos estudos de apreciação a realizar nos termos do mesmo artigo, dar seguimento às propostas de soluções contidas nos relatórios ou separadamente apresentadas, promovendo a introdução das modificações aconselhadas por esses estudos e pelos realizados sobre as informações dos inspectores dos correios, telégrafos e telefones recebidas em obediência ao disposto no artigo anterior.
 
 § único. É aplicável em relação às providências a tomar pelos órgãos referidos neste artigo o disposto no § único do artigo anterior.
 
-###### Art. 144.º Os inspectores e os órgãos referidos no artigo 141.º devem promover que os governos das províncias e os serviços dos correios, telégrafos e telefones sejam informados, oportuna e convenientemente, das conclusões dos estudos realizados sobre os respectivos relatórios e estatísticas, e bem assim das providências tomadas sobre as propostas que as acompanharam, no caso de a sua solução depender do Governo Central.
+Art. 144.º Os inspectores e os órgãos referidos no artigo 141.º devem promover que os governos das províncias e os serviços dos correios, telégrafos e telefones sejam informados, oportuna e convenientemente, das conclusões dos estudos realizados sobre os respectivos relatórios e estatísticas, e bem assim das providências tomadas sobre as propostas que as acompanharam, no caso de a sua solução depender do Governo Central.
 
 ### CAPÍTULO VIII — Arquivo de documentos
 
-###### Art. 145.º Os duplicados dos boletins estatísticos referidos no artigo 8.º devem ser conservados em arquivo pelos serviços organizadores até à conclusão dos trabalhos de apuramento e de sua enumeração em mapas nos termos dos artigos 60.º e 61.º
+Art. 145.º Os duplicados dos boletins estatísticos referidos no artigo 8.º devem ser conservados em arquivo pelos serviços organizadores até à conclusão dos trabalhos de apuramento e de sua enumeração em mapas nos termos dos artigos 60.º e 61.º
 
-###### Art. 146.º Os originais dos boletins estatísticos, as listas e os cartões de seu apuramento referidos no artigo 60.º e bem assim os registos das máquinas de somar utilizadas nos termos do artigo 59.º devem conservar-se em arquivo, convenientemente coleccionados, durante o prazo de cinco anos, a contar da data da apresentação dos mapas estatísticos e relatório ao governo da província.
+Art. 146.º Os originais dos boletins estatísticos, as listas e os cartões de seu apuramento referidos no artigo 60.º e bem assim os registos das máquinas de somar utilizadas nos termos do artigo 59.º devem conservar-se em arquivo, convenientemente coleccionados, durante o prazo de cinco anos, a contar da data da apresentação dos mapas estatísticos e relatório ao governo da província.
 
-###### Art. 147.º Os originais dos mapas e gráficos estatísticos e bem assim dos trabalhos de sua apreciação e do relatório de sua apresentação ao governo da província, referidos no § único do artigo 137.º, e ainda um exemplar da sua edição oficial, feita nos termos do artigo 139.º, devem conservar-se, convenientemente acondicionados, em arquivo permanente.
+Art. 147.º Os originais dos mapas e gráficos estatísticos e bem assim dos trabalhos de sua apreciação e do relatório de sua apresentação ao governo da província, referidos no § único do artigo 137.º, e ainda um exemplar da sua edição oficial, feita nos termos do artigo 139.º, devem conservar-se, convenientemente acondicionados, em arquivo permanente.
 
-###### Art. 148.º Findos os prazos de arquivo referidos nos artigos 145.º e 146.º e no caso de os documentos neles mencionados não serem necessários para quaisquer averiguações eventualmente em curso, deve o encarregado da organização da estatística promover a sua inutilização por meio de fogo ou, de preferência, por trituração numa fábrica de papel que compre a matéria-prima, nos termos estabelecidos para a inutilização de documentos em arquivo no Regulamento para a Execução do Serviço de Correspondências Postais.
+Art. 148.º Findos os prazos de arquivo referidos nos artigos 145.º e 146.º e no caso de os documentos neles mencionados não serem necessários para quaisquer averiguações eventualmente em curso, deve o encarregado da organização da estatística promover a sua inutilização por meio de fogo ou, de preferência, por trituração numa fábrica de papel que compre a matéria-prima, nos termos estabelecidos para a inutilização de documentos em arquivo no Regulamento para a Execução do Serviço de Correspondências Postais.
 
 ### CAPÍTULO IX — Disposições finais
 
-###### Art. 149.º Os governadores das províncias tomarão, em portaria, as providências reconhecidas necessárias para dotar os serviços dos correios, telégrafos e telefones do pessoal indispensável para os trabalhos de estatística regulados por este diploma, no caso de ser imperioso o aumento para esse efeito do número de funcionários existentes nos quadros constituídos ou orçamentados.
+Art. 149.º Os governadores das províncias tomarão, em portaria, as providências reconhecidas necessárias para dotar os serviços dos correios, telégrafos e telefones do pessoal indispensável para os trabalhos de estatística regulados por este diploma, no caso de ser imperioso o aumento para esse efeito do número de funcionários existentes nos quadros constituídos ou orçamentados.
 
-###### Art. 150.º Não podendo os trabalhos de estatística ser executados, com o pessoal disponível, exclusivamente dentro das horas normais de expediente, o que exceder a duração máxima de trinta e seis horas por semana fixada para cada funcionário será considerado extraordinário e remunerado nos termos dos artigos 160.º a 162.º do Estatuto do Funcionalismo Ultramarino.
+Art. 150.º Não podendo os trabalhos de estatística ser executados, com o pessoal disponível, exclusivamente dentro das horas normais de expediente, o que exceder a duração máxima de trinta e seis horas por semana fixada para cada funcionário será considerado extraordinário e remunerado nos termos dos artigos 160.º a 162.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 151.º Os serviços dos correios, telégrafos e telefones das províncias ultramarinas devem publicar as instruções complementares que forem julgadas necessárias e convenientes para o cumprimento deste diploma e uma mais perfeita e eficiente execução do serviço de estatística, e bem assim destacar agentes especializados nos trabalhos de estatística para instruir o pessoal encarregado das contagens e do preenchimento de boletins e ainda para fiscalizar directamente o seu serviço durante os períodos referidos no artigo 37.º
+Art. 151.º Os serviços dos correios, telégrafos e telefones das províncias ultramarinas devem publicar as instruções complementares que forem julgadas necessárias e convenientes para o cumprimento deste diploma e uma mais perfeita e eficiente execução do serviço de estatística, e bem assim destacar agentes especializados nos trabalhos de estatística para instruir o pessoal encarregado das contagens e do preenchimento de boletins e ainda para fiscalizar directamente o seu serviço durante os períodos referidos no artigo 37.º
 
-###### Art. 152.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro do Ultramar.
+Art. 152.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro do Ultramar.
 
-###### Art. 153.º O presente diploma entra em vigor no dia 1 de Janeiro de 1960, realizando-se a estatística postal no mesmo ano de harmonia com os novos preceitos estabelecidos.
+Art. 153.º O presente diploma entra em vigor no dia 1 de Janeiro de 1960, realizando-se a estatística postal no mesmo ano de harmonia com os novos preceitos estabelecidos.
 
-###### Art. 154.º Fica revogada toda a legislação relativa à matéria abrangida por este diploma, designadamente o Regulamento para o Serviço de Estatística Postal nas Províncias Ultramarinas, aprovado pelo Decreto de 18 de Junho de 1902.
+Art. 154.º Fica revogada toda a legislação relativa à matéria abrangida por este diploma, designadamente o Regulamento para o Serviço de Estatística Postal nas Províncias Ultramarinas, aprovado pelo Decreto de 18 de Junho de 1902.
 
 Ministério do Ultramar, 26 de Janeiro de 1960. - O Ministro do Ultramar, Vasco Lopes Alves.
 
@@ -936,7 +944,7 @@ Modelo EP 24 - Contagem das correspondências a distribuir pela própria estaç�
 
 Modelo EP 25 - Contagem total das correspondências ordinárias recebidas na mala procedente de ... e a distribuir aos seus destinatários.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/01/02000/00810175.pdf))](https://files.diariodarepublica.pt/1s/1960/01/02000/00810175.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/01/02000/00810175.pdf)
 
 Relação dos mapas estatísticos anexos
 
@@ -1076,6 +1084,6 @@ Mapa n.º 67 - Correspondências e encomendas postais em refugo.
 
 Mapa n.º 68 - Correspondências e encomendas postais em refugo nos últimos ... anos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/01/02000/00810175.pdf))](https://files.diariodarepublica.pt/1s/1960/01/02000/00810175.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/01/02000/00810175.pdf)
 
 Ministério do Ultramar, 26 de Janeiro de 1960. - O Ministro do Ultramar, Vasco Lopes Alves.

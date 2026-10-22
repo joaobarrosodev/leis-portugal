@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/331-b/2026/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2026-1155188919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-10T00:00:00Z'
+  retrieved_at: '2026-10-22T18:49:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33c4f13f3ee52892191a3e3530468a7cbe38db0d27a4316b68954eec2b8f2130
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83fbf42f0cf7fbef7989d339d41a9dff7a94d010eb976dd98c0c63de4a5750b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:49:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ação Social Escolar
+- Bolsa de Estudos
+- Ensino Superior
+- Estudante
+- Estudante deslocado
+- Instituto para o Ensino Superior
+- Propinas
 - Regulamentação de Atos Legislativos
 - Regulamento de Atribuição de Bolsas de Estudo a Estudantes do Ensino Superior
-- Estudante
-- Propinas
-- Ensino Superior
-- Bolsa de Estudos
-- Instituto para o Ensino Superior
-- Estudante deslocado
 relationships:
 - type: cites
   target: celex:32016R0679
@@ -120,16 +120,144 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/2003/08/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/2003/08/23/p/dre
+- type: cites
+  target: pt:dre:107524771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1138713377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1149265695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1149265697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117503936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124392062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:143719224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171672330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187049894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210543862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216008556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216008557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2363021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3058633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56359898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67591182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870653197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:884568056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:886919624:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:despacho:8442-A/2012
+  label: Revoga o Regulamento de Atribuição de Bolsas de Estudo a Estudantes do Ensino Superior, aprovado pelo Despacho n.º
+    8442-A/2012, de 22 de junho, Diário da República n.º 120/2012, 1º Suplemento, Série II, mantendo contudo o Regulamento
+    em vigor até ao final do ano letivo de 2026-202712, nas matérias não reguladas no artigo 2.º do presente diploma e no
+    que não contrariar esse artigo
+  source: null
+  date: '2012-06-22'
 article_structure:
   article_count: 57
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:49:44Z'
   warnings: []
   errors: []
 ---
@@ -178,7 +306,7 @@ b) Da bolsa de incentivo para os estudantes beneficiários do 1.º escalão do a
 
 5 - O complemento previsto no n.º 2, bem como a majoração correspondente à diferença entre esse complemento e o valor do alojamento privado no concelho onde frequenta o curso, aplicável nos termos previstos no artigo 11.º do regulamento constante do anexo à presente portaria, substituem, no ano letivo de 2026-2027, os apoios ao alojamento e à deslocação previstos no regime aplicável no ano letivo de 2025-2026.
 
-6 - Nos casos a que se referem os n.<sup>os</sup>2 e 5, o estudante bolseiro pode utilizar livremente o complemento mensal de alojamento de que beneficia, independentemente de optar por alojamento em residência de estudantes ou por alojamento privado, mantendo-se a prioridade de acesso às residências prevista na lei.
+6 - Nos casos a que se referem os n.os2 e 5, o estudante bolseiro pode utilizar livremente o complemento mensal de alojamento de que beneficia, independentemente de optar por alojamento em residência de estudantes ou por alojamento privado, mantendo-se a prioridade de acesso às residências prevista na lei.
 
 7 - O complemento de alojamento para estudantes não bolseiros, previsto no regime aplicável no ano letivo de 2025-2026, aplica-se no ano letivo de 2026-2027 nos mesmos termos, passando o limite máximo previsto de 50 % a ser fixado nos termos do anexo ii do regulamento constante do anexo à presente portaria.
 
@@ -234,7 +362,7 @@ l) O [Despacho n.º 7994/2026](https://diariodarepublica.pt/dr/detalhe/despacho/
 
 A presente portaria entra em vigor no primeiro dia útil seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 10 de agosto de 2026. - O Ministro da Educação, Ciência e Inovação, Fernando Alexandre, em 6 de agosto de 2026.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 10 de agosto de 2026. - O Ministro da Educação, Ciência e Inovação, Fernando Alexandre, em 6 de agosto de 2026.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -274,7 +402,7 @@ g) «Estudante deslocado», o estudante que, em consequência da distância, do 
 
 h) «Estudante em regime de tempo parcial», o estudante inscrito num curso ao abrigo do regime a que se refere o artigo 46.º-C do [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de março, na sua redação atual;
 
-i) «Estudante abrangido por regimes de proteção humanitária», o estudante que seja beneficiário de proteção internacional, nos termos da [Lei n.º 27/2008](https://diariodarepublica.pt/dr/detalhe/lei/27-2008-456263), de 30 de junho, beneficiário de proteção temporária, nos termos da [Lei n.º 67/2003](https://diariodarepublica.pt/dr/detalhe/lei/67-2003-655969), de 23 de agosto, ou se encontre numa das condições previstas nos n.<sup>os</sup>2 e 3 do artigo 8.º-A do [Decreto-Lei n.º 36/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2014-572431), de 10 de março, todos na sua redação atual;
+i) «Estudante abrangido por regimes de proteção humanitária», o estudante que seja beneficiário de proteção internacional, nos termos da [Lei n.º 27/2008](https://diariodarepublica.pt/dr/detalhe/lei/27-2008-456263), de 30 de junho, beneficiário de proteção temporária, nos termos da [Lei n.º 67/2003](https://diariodarepublica.pt/dr/detalhe/lei/67-2003-655969), de 23 de agosto, ou se encontre numa das condições previstas nos n.os2 e 3 do artigo 8.º-A do [Decreto-Lei n.º 36/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2014-572431), de 10 de março, todos na sua redação atual;
 
 j) «Limiar de risco de pobreza», o valor de rendimento abaixo do qual se considera que um agregado familiar se encontra em risco de pobreza, correspondente a 60 % da mediana do rendimento disponível por adulto equivalente, sendo calculado, para cada composição do agregado familiar, de acordo com a seguinte fórmula:
 
@@ -376,7 +504,7 @@ b) Não se aplica o requisito fixado no n.º 1 se, no ano letivo a que o mesmo s
 
 4 - Os rendimentos referidos nos números anteriores reportam-se ao ano civil anterior ao da data da apresentação do requerimento, desde que os meios de prova se encontrem disponíveis, e, quando tal se não verifique, reportam-se ao ano imediatamente anterior àquele.
 
-5 - O agregado familiar é definido nos termos dos n.<sup>os</sup>4 e 5 do artigo 13.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, por força do disposto no artigo 6.º do [Decreto-Lei n.º 120/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2018-117503936), de 27 de dezembro.
+5 - O agregado familiar é definido nos termos dos n.os4 e 5 do artigo 13.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, por força do disposto no artigo 6.º do [Decreto-Lei n.º 120/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2018-117503936), de 27 de dezembro.
 
 ###### Artigo 8.º — Situação tributária e contributiva regularizada
 
@@ -430,7 +558,7 @@ b) Nos restantes casos, determinado de forma progressiva, nos termos do anexo II
 
 6 - Não há lugar à atribuição de bolsa de estudo quando o valor apurado nos termos do n.º 4 for igual ou inferior a zero.
 
-7 - O valor apurado nos termos dos n.<sup>os</sup>4 e 5 é majorado, nos termos do artigo seguinte, quando o estudante deslocado tenha requerido alojamento em residência de estudantes e não lhe tenha sido atribuído lugar.
+7 - O valor apurado nos termos dos n.os4 e 5 é majorado, nos termos do artigo seguinte, quando o estudante deslocado tenha requerido alojamento em residência de estudantes e não lhe tenha sido atribuído lugar.
 
 8 - O cálculo referido no n.º 4 e a majoração prevista no número anterior, quando aplicável, são efetuados em base mensal, sendo o montante anual da bolsa correspondente à soma dos valores mensais devidos, até ao limite de 10 meses, sem prejuízo do disposto no n.º 2 do artigo 13.º
 
@@ -444,7 +572,7 @@ b) Nos restantes casos, determinado de forma progressiva, nos termos do anexo II
 
 ###### Artigo 11.º — Custos com alojamento incluídos na bolsa
 
-1 - Os estudantes bolseiros deslocados têm prioridade no acesso às residências das instituições de ensino superior, nos termos previstos nos n.<sup>os</sup>4 e 5 do artigo 18.º do [Decreto-Lei n.º 148/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2026-1149265697), de 20 de julho.
+1 - Os estudantes bolseiros deslocados têm prioridade no acesso às residências das instituições de ensino superior, nos termos previstos nos n.os4 e 5 do artigo 18.º do [Decreto-Lei n.º 148/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2026-1149265697), de 20 de julho.
 
 2 - No cálculo dos custos da bolsa dos estudantes bolseiros deslocados inclui-se o montante estimado por cama nas residências das instituições de ensino superior, correspondente a 30 % do indexante dos apoios sociais em vigor no início de cada ano letivo.
 
@@ -472,7 +600,7 @@ b) Nos restantes casos, determinado de forma progressiva, nos termos do anexo II
 
 a) Os casos em que o bolseiro esteja inscrito em período letivo com duração inferior a um ano letivo, em que o valor da bolsa é proporcional à duração daquele período;
 
-b) Os casos a que se referem os n.<sup>os</sup>2 e 4 do artigo 30.º, em que o valor da bolsa é fixado nos termos neles previstos;
+b) Os casos a que se referem os n.os2 e 4 do artigo 30.º, em que o valor da bolsa é fixado nos termos neles previstos;
 
 c) Os casos a que se refere o n.º 3 do artigo 39.º, em que o valor da bolsa é proporcional ao período que medeia entre o mês da regularização da situação fiscal ou contributiva e o fim do período letivo.
 
@@ -552,7 +680,7 @@ b) Quando um estudante transite do regime de tempo parcial para o regime de temp
 
 5 - Em caso de transição de regime de inscrição no decurso do ano letivo, o valor da bolsa de estudo é determinado em função dos ECTS em que o estudante esteve inscrito em cada regime.
 
-6 - O disposto nos n.<sup>os</sup>3 a 5 é aplicável, com as necessárias adaptações, aos estudantes inscritos em número de ECTS inferior a 30 por se encontrarem a concluir o curso.
+6 - O disposto nos n.os3 a 5 é aplicável, com as necessárias adaptações, aos estudantes inscritos em número de ECTS inferior a 30 por se encontrarem a concluir o curso.
 
 ###### Artigo 19.º — Estudante em mobilidade
 
@@ -652,7 +780,7 @@ c) A calcular o valor da bolsa;
 
 d) A assegurar o fornecimento dos elementos necessários às atividades de monitorização, avaliação e desenvolvimento de estudos, nos termos do disposto na alínea k) do n.º 1 do artigo 15.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, na sua redação atual, e no artigo 31.º do [Decreto-Lei n.º 148/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2026-1149265697), de 20 de julho, ou de estudos que visem a melhoria do sistema de atribuição dos apoios sociais.
 
-4 - Sempre que o rendimento ou a composição do agregado familiar não possa ser devidamente determinado com base na informação fiscal e contributiva do candidato à bolsa, os serviços podem solicitar ao requerente que esclareça a composição do seu agregado familiar, tal como definido nos n.<sup>os</sup>4 e 5 do artigo 13.º do Código do Imposto sobre o Rendimento das Pessoas Singulares.
+4 - Sempre que o rendimento ou a composição do agregado familiar não possa ser devidamente determinado com base na informação fiscal e contributiva do candidato à bolsa, os serviços podem solicitar ao requerente que esclareça a composição do seu agregado familiar, tal como definido nos n.os4 e 5 do artigo 13.º do Código do Imposto sobre o Rendimento das Pessoas Singulares.
 
 5 - Para o efeito do disposto no número anterior, todos os elementos do agregado familiar devem autorizar o acesso à respetiva informação fiscal e contributiva.
 
@@ -684,7 +812,7 @@ a) Submeterem o requerimento através do procedimento normal e dentro dos prazos
 
 b) Se não forem colocados através do concurso nacional de acesso, submeterem o requerimento através do procedimento normal e dentro dos prazos fixados para este nos termos do artigo anterior.
 
-5 - O disposto nos n.<sup>os</sup>2, 3 e 4 é aplicável, com as necessárias adaptações, aos candidatos aos concursos institucionais para ingresso em estabelecimentos de ensino superior privado, ficando a submissão definitiva do requerimento condicionada à comunicação da matrícula e da inscrição no par instituição/curso em que o estudante respetivo for colocado.
+5 - O disposto nos n.os2, 3 e 4 é aplicável, com as necessárias adaptações, aos candidatos aos concursos institucionais para ingresso em estabelecimentos de ensino superior privado, ficando a submissão definitiva do requerimento condicionada à comunicação da matrícula e da inscrição no par instituição/curso em que o estudante respetivo for colocado.
 
 ###### Artigo 28.º — Tratamento e conservação de dados pessoais
 
@@ -976,7 +1104,7 @@ O sistema de apoios sociais diretos previsto no presente regulamento é objeto d
 
 Custos mensais de frequência do ensino superior, excluindo propina e alojamento
 
-Valor mensal dos custos mensais de frequência do ensino superior, excluindo propina e alojamento, para o ano letivo 2026-2027<sup>a,b</sup>
+Valor mensal dos custos mensais de frequência do ensino superior, excluindo propina e alojamento, para o ano letivo 2026-2027a,b
 
 | Concelho onde tem lugar a atividade de ensino | Estudante não deslocado, 2026-2027 |
 | --- | --- |
@@ -1046,15 +1174,15 @@ Valor mensal dos custos mensais de frequência do ensino superior, excluindo pro
 | Vila Real | 162 € |
 | Viseu | 164 € |
 
-<sup>a</sup> Fonte dos dados: Instituto Nacional de Estatística, I. P. - Inquérito às Despesas das Famílias 2022; Rendas por m² de novos contratos de arrendamento de alojamentos familiares (€) por localização geográfica; Índice de preços no consumidor, sem habitação, por localização geográfica; População residente por concelho, Censos 2021.
+a Fonte dos dados: Instituto Nacional de Estatística, I. P. - Inquérito às Despesas das Famílias 2022; Rendas por m² de novos contratos de arrendamento de alojamentos familiares (€) por localização geográfica; Índice de preços no consumidor, sem habitação, por localização geográfica; População residente por concelho, Censos 2021.
 
-<sup>b</sup> Estes valores são atualizados anualmente de acordo com a taxa de variação média do índice de preços no consumidor, sem habitação, sendo os valores atualizados publicados, antes do início das candidaturas para o ano letivo seguinte e com uso dos valores mais recentes do indicador em questão disponíveis, no sítio na Internet do Instituto para o Ensino Superior, I. P.
+b Estes valores são atualizados anualmente de acordo com a taxa de variação média do índice de preços no consumidor, sem habitação, sendo os valores atualizados publicados, antes do início das candidaturas para o ano letivo seguinte e com uso dos valores mais recentes do indicador em questão disponíveis, no sítio na Internet do Instituto para o Ensino Superior, I. P.
 
-## ANEXO II — (a que se referem os n.<sup>os</sup>4 e 7 do artigo 11.º)
+## ANEXO II — (a que se referem os n.os4 e 7 do artigo 11.º)
 
 Valores mensais de alojamento privado aplicáveis aos estudantes deslocados
 
-Valor mensal dos custos de alojamento privado para o ano letivo 2026-2027<sup>a,b</sup>
+Valor mensal dos custos de alojamento privado para o ano letivo 2026-2027a,b
 
 | Concelho onde tem lugar a atividade de ensino | Custo de alojamento privado |
 | --- | --- |
@@ -1124,9 +1252,9 @@ Valor mensal dos custos de alojamento privado para o ano letivo 2026-2027<sup>a,
 | Vila Real | 295 € |
 | Viseu | 303 € |
 
-<sup>a</sup> Fontes dos dados: Instituto Nacional de Estatística, I. P. - Rendas por m² de novos contratos de arrendamento de alojamentos familiares (€) por localização geográfica; Índice de preços no consumidor, sem habitação, por localização geográfica; População residente por concelho, Censos 2021.
+a Fontes dos dados: Instituto Nacional de Estatística, I. P. - Rendas por m² de novos contratos de arrendamento de alojamentos familiares (€) por localização geográfica; Índice de preços no consumidor, sem habitação, por localização geográfica; População residente por concelho, Censos 2021.
 
-<sup>b</sup>Estes valores são atualizados anualmente de acordo com a taxa de variação do indicador «Rendas por m² de novos contratos de arrendamento de alojamentos familiares (€) por localização geográfica» para cada concelho, e os novos valores são publicados, antes do início das candidaturas para o ano letivo seguinte e com uso dos valores mais recentes do indicador em questão disponíveis, no sítio na Internet do Instituto para o Ensino Superior, I. P.
+bEstes valores são atualizados anualmente de acordo com a taxa de variação do indicador «Rendas por m² de novos contratos de arrendamento de alojamentos familiares (€) por localização geográfica» para cada concelho, e os novos valores são publicados, antes do início das candidaturas para o ano letivo seguinte e com uso dos valores mais recentes do indicador em questão disponíveis, no sítio na Internet do Instituto para o Ensino Superior, I. P.
 
 ## ANEXO III — [a que se refere a alínea b) do n.º 3 do artigo 10.º]
 
@@ -1144,7 +1272,8 @@ d) Ao valor assim apurado aplica-se uma regra progressiva, nos termos dos númer
 
 2 - O rendimento per capita deduzido corresponde ao rendimento do agregado familiar que excede o limiar de risco de pobreza, dividido pelo número de elementos do agregado familiar, de acordo com a seguinte fórmula:
 
-![](https://files.diariodarepublica.pt/images/1155188919/1155335795.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1155188919/1155335795.png) |
+| --- |
 
 em que:
 
@@ -1158,7 +1287,8 @@ N corresponde ao número de elementos do agregado familiar.
 
 3 - O rendimento que o agregado familiar pode disponibilizar ao estudante, designado por RD, é determinado da seguinte forma:
 
-![](https://files.diariodarepublica.pt/images/1155188919/1155335796.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1155188919/1155335796.png) |
+| --- |
 
 em que:
 
@@ -1222,11 +1352,13 @@ Procedimento
 
 Calcular a média nacional ponderada das rendas em t:
 
-![](https://files.diariodarepublica.pt/images/1155188919/1155335797.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1155188919/1155335797.png) |
+| --- |
 
-Com W<sub>m</sub>sendo o peso da população do município m no total nacional segundo os censos mais recentes e
+Com Wmsendo o peso da população do município m no total nacional segundo os censos mais recentes e
 
-![](https://files.diariodarepublica.pt/images/1155188919/1155335798.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1155188919/1155335798.png) |
+| --- |
 
 o valor de rendas por m² de novos contratos de arrendamento de alojamentos familiares do município m no ano t.
 
@@ -1234,35 +1366,41 @@ o valor de rendas por m² de novos contratos de arrendamento de alojamentos fami
 
 Construir um indicador municipal de preços de habitação:
 
-![](https://files.diariodarepublica.pt/images/1155188919/1155335799.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1155188919/1155335799.png) |
+| --- |
 
 3 - Referência nacional do IPC não-habitação (base em t).
 
 Construir o IPC nacional não habitação com base t,
 
-![](https://files.diariodarepublica.pt/images/1155188919/1155335800.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1155188919/1155335800.png) |
+| --- |
 
 , como média ponderada do IPC NUTS II n,
 
-![](https://files.diariodarepublica.pt/images/1155188919/1159103175.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1155188919/1159103175.png) |
+| --- |
 
-com pesos populacionais por NUTS II π<sub>n</sub>, segundo os censos mais recentes:
+com pesos populacionais por NUTS II πn, segundo os censos mais recentes:
 
-![](https://files.diariodarepublica.pt/images/1155188919/1155335801.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1155188919/1155335801.png) |
+| --- |
 
 4 - Indicador regional de preços não habitação (base em t).
 
 Calcular o indicador regional de preços não-habitação e atribuir ao município m o valor da sua região n (m):
 
-![](https://files.diariodarepublica.pt/images/1155188919/1155335802.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1155188919/1155335802.png) |
+| --- |
 
 5 - Indicador municipal de preços relativos.
 
-Combinar as duas componentes (indicador municipal de preços habitação e indicador regional de preços não-habitação), usando o peso regional α<sub>n(</sub><sub>m</sub><sub>)</sub>:
+Combinar as duas componentes (indicador municipal de preços habitação e indicador regional de preços não-habitação), usando o peso regional αn(m):
 
-![](https://files.diariodarepublica.pt/images/1155188919/1155335803.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1155188919/1155335803.png) |
+| --- |
 
-sendo α<sub>n(</sub><sub>m</sub><sub>)</sub> peso da componente de despesas com habitação (COICOP 04) no total das despesas das famílias por NUTS II conforme apuradas no IDF.
+sendo αn(m) peso da componente de despesas com habitação (COICOP 04) no total das despesas das famílias por NUTS II conforme apuradas no IDF.
 
 O indicador municipal de preços relativos será utilizado mais adiante, aquando da imputação de despesas ao nível dos municípios.
 
@@ -1324,9 +1462,10 @@ Especificação Base
 
 A relação entre o número de estudantes do ensino superior e as despesas familiares é estimada através da seguinte especificação:
 
-![](https://files.diariodarepublica.pt/images/1155188919/1155335804.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1155188919/1155335804.png) |
+| --- |
 
-onde E<sub>i</sub> representa a componente de despesa do agregado i, S<sub>i</sub> é o número de estudantes do ensino superior no agregado, e δ é o parâmetro de interesse. Este coeficiente mede a despesa anual adicional associada a um estudante adicional, mantendo constantes o rendimento, a composição do agregado e as características parentais.
+onde Ei representa a componente de despesa do agregado i, Si é o número de estudantes do ensino superior no agregado, e δ é o parâmetro de interesse. Este coeficiente mede a despesa anual adicional associada a um estudante adicional, mantendo constantes o rendimento, a composição do agregado e as características parentais.
 
 Estimador
 
@@ -1384,28 +1523,35 @@ Imputação de despesas ao nível dos municípios, excluindo alojamento
 
 A presente secção descreve o procedimento utilizado para imputar, ao nível municipal, as despesas adicionais associadas à frequência do ensino superior, excluindo a componente de alojamento. O método parte de uma despesa nacional de referência, estimada com base no IDF - conforme exposto na secção anterior - e atualizada para o ano de referência através do IPC. Para as componentes de despesa em que se admite a existência de variação territorial relevante, esse valor nacional é posteriormente ajustado pelo indicador municipal de preços relativos. Desta forma, obtêm-se valores diferenciados por município, refletindo de forma aproximada as diferenças territoriais no custo de vida, sem introduzir variação que não esteja ancorada nas estatísticas oficiais disponíveis.
 
-Assim, para a imputação da despesa D<sub>m,t</sub> no município m e ano t utiliza-se uma despesa de referência nacional D<sub>ref,t</sub> no ano t tal que:
+Assim, para a imputação da despesa Dm,t no município m e ano t utiliza-se uma despesa de referência nacional Dref,t no ano t tal que:
 
-![](https://files.diariodarepublica.pt/images/1155188919/1155335805.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1155188919/1155335805.png) |
+| --- |
 
-em que D<sub>ref,2022</sub>, apurado com base nos dados do IDF 2022, é atualizado para o ano t via IPC.
+em que Dref,2022, apurado com base nos dados do IDF 2022, é atualizado para o ano t via IPC.
 
 Despesas com alojamento privado e imputação ao nível dos municípios
 
 A imputação da componente de alojamento privado ao nível municipal assenta na utilização de um fator espacial relativo anual, que permite converter a renda que é considerada para um município de referência em valores equivalentes para os restantes municípios. Este procedimento procura assegurar que as rendas imputadas refletem a variação territorial observada nas estatísticas oficiais de mercado de arrendamento, mantendo simultaneamente uma regra uniforme, transparente e atualizável ao longo do tempo.
 
-Para cada município m e ano t, define-se o fator espacial relativo anual F<sub>m,t</sub> como a razão entre o indicador municipal de preços relativos do município m, P<sub>m,t</sub>, já definido na equação (5), e o mesmo indicador correspondente ao município de referência, P<sub>m ref, t</sub>:
+Para cada município m e ano t, define-se o fator espacial relativo anual Fm,t como a razão entre o indicador municipal de preços relativos do município m, Pm,t, já definido na equação (5), e o mesmo indicador correspondente ao município de referência, Pmref,t:
 
-![](https://files.diariodarepublica.pt/images/1155188919/1155335806.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1155188919/1155335806.png) |
+| --- |
 
 Este fator mede a posição relativa de cada município face ao município de referência no ano considerado.
 
-A renda municipal imputada R<sub>m,t</sub> é então obtida multiplicando a renda fixada para o município de referência, R<sub>m ref, t</sub>, pelo respetivo fator espacial relativo:
+A renda municipal imputada Rm,t é então obtida multiplicando a renda fixada para o município de referência, Rmref,t, pelo respetivo fator espacial relativo:
 
-![](https://files.diariodarepublica.pt/images/1155188919/1155335807.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1155188919/1155335807.png) |
+| --- |
 
-Deste modo, a metodologia parte de uma renda de referência definida normativamente e distribui-a pelos restantes municípios de acordo com a sua posição relativa no indicador municipal de preços relativos. O município de Lisboa é utilizado como município de referência, m<sub>ref</sub>.
+Deste modo, a metodologia parte de uma renda de referência definida normativamente e distribui-a pelos restantes municípios de acordo com a sua posição relativa no indicador municipal de preços relativos. O município de Lisboa é utilizado como município de referência, mref.
 
 A opção por ancorar a metodologia neste município permite aproximar com maior rigor o valor considerado para o caso territorialmente mais gravoso, evitando que a estimativa de referência subavalie os custos de alojamento nos mercados mais pressionados. Neste sentido, a renda de referência fixada para Lisboa, no montante de 500 euros, foi informada pela evidência disponível sobre custos de alojamento estudantil, designadamente a informação produzida pelo Observatório do Alojamento Estudantil.
 
-A renda correspondente a Lisboa, R<sub>m ref, t</sub>, fixada no anexo I do regulamento a que pertence o presente anexo, deve ser atualizada anualmente com base na taxa de variação anual do valor mediano das rendas por metro quadrado dos novos contratos de arrendamento de alojamentos familiares, publicado pelo INE para esse município.
+A renda correspondente a Lisboa, Rmref,t, fixada no anexo I do regulamento a que pertence o presente anexo, deve ser atualizada anualmente com base na taxa de variação anual do valor mediano das rendas por metro quadrado dos novos contratos de arrendamento de alojamentos familiares, publicado pelo INE para esse município.
+
+119949312
+
+.Tbl2 { min-height:26px; } .Tbl3 { text-align:center; } .Tbl4 { min-height:18px; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; }

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45295-1963-687400
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-10-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:37:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 557f869598ba4164f0e8ea8f65d130539a2bee87d028f737c66d22aa19e464fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: abab9b79be537f44a72245cd1b158b0195a70d31dcb6e6550bd78c7978115fcb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:37:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:158239:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:37:01Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +96,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º do Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, o seguinte:
 
-###### Artigo único. Os artigos 28.º e 29.º do [Decreto n.º 35667](https://diariodarepublica.pt/dr/detalhe/decreto/35667-1946-158239), de 28 de Maio de 1946, passam a ter a seguinte redacção:
+Artigo único. Os artigos 28.º e 29.º do [Decreto n.º 35667](https://diariodarepublica.pt/dr/detalhe/decreto/35667-1946-158239), de 28 de Maio de 1946, passam a ter a seguinte redacção:
 
-###### Art. 28.º Normalmente nenhum militar pode ser condecorado com a 1.ª classe da medalha de mérito militar sem ser oficial superior e ter, pelo menos, vinte anos de serviço.
+Art. 28.º Normalmente nenhum militar pode ser condecorado com a 1.ª classe da medalha de mérito militar sem ser oficial superior e ter, pelo menos, vinte anos de serviço.
 
 Para se poder ser condecorado com a medalha de mérito militar de 2.ª classe é, normalmente, exigido o posto de capitão ou de primeiro-tenente e quinze anos de serviço militar.
 
@@ -104,7 +108,7 @@ A 4.ª classe pode ser concedida a sargentos e praças com, pelo menos, três an
 
 § único. O agraciamento com qualquer das classes da medalha de mérito militar, por actos praticados em campanha, é independente do tempo do serviço.
 
-###### Art. 29.º Para se poder ser agraciado com qualquer das classes da medalha de mérito militar é necessário:
+Art. 29.º Para se poder ser agraciado com qualquer das classes da medalha de mérito militar é necessário:
 
 a) Ter exemplar comportamento;
 
@@ -116,6 +120,6 @@ d) Ser proposto pelo major general do Exército ou da Armada, pelo comandante de
 
 § único. O agraciamento com qualquer das classes da medalha de mérito militar, por actos praticados em campanha, é independente do número de louvores individuais registados, exigindo-se, porém, que o militar a galardoar esteja, pelo menos, na 2.ª classe de comportamento, sem punição.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Outubro de 1963. - ANTÓNIO DE OLIVEIRA SALAZAR - Manuel Gomes de Araújo - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Francisco António das Chagas.

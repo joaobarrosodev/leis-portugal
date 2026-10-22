@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/07/12900/0000700009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/133/2026/07/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2026-1144685808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-07T00:00:00Z'
+  retrieved_at: '2026-10-22T18:46:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ea104631b6136b161540cf2d311216f2405c9fd8221f581785597b6c8fd076b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca19069a821bfc42fcf76e242bec8391c85d0a438bf34cbcc54ce4540d31492b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:46:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/172-a/2014/11/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/172-a/2014/11/14/p/dre
+- type: cites
+  target: pt:dre:311401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58900566:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:46:07Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +154,9 @@ c) Apresentação de certificado do registo criminal.
 
 6 - A falta de comprovação da inexistência da causa de não elegibilidade obsta à reeleição ou nova designação do titular em causa, sem prejuízo do suprimento de deficiências nos termos regulamentares aplicáveis.
 
-###### Artigo 21.º-C — [...]
+Artigo 21.º-C
+
+[...]
 
 1 - [...]
 
@@ -176,12 +186,14 @@ d) Por razões excecionais de continuidade institucional, como projetos estrutur
 
 Visto e aprovado em Conselho de Ministros de 7 de maio de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Rosário Palma Ramalho.
 
-**Promulgado em 19 de junho de 2026.**
+Promulgado em 19 de junho de 2026.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António José Martins Seguro.**
+O Presidente da República, António José Martins Seguro.
 
-**Referendado em 23 de junho de 2026.**
+Referendado em 23 de junho de 2026.
 
 Pelo Primeiro-Ministro, Joaquim Miranda Sarmento, Ministro de Estado e das Finanças.
+
+119948977

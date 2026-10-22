@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/09/17500/0000700026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/11/2024/09/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/11-2024-887319192
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-09-10T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 684bf03361368867c6a40e5bfb516a203d9f70d9ea3bddd72ee9513e749cc6da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62c45537c85fbbfb76ba321830424a622e3ba379089279d99232eb98e468d230
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,12 +69,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Processo Penal
-- Código de Processo Penal
 - Arguido
+- Código de Processo Penal
 - Direito de Audição
 - Execução de Penas
 - Interpretação do Direito
+- Processo Penal
 - Supremo Tribunal de Justiça
 relationships:
 - type: cites
@@ -93,16 +93,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/94/2017/08/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/94/2017/08/23/p/dre
+- type: cites
+  target: pt:dre:108038373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1238986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171727059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3469908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70186239:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:07Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +145,7 @@ Acordam, em conferência, no Pleno das secções criminais:
 
 I - Relatório
 
-1 - O Ministério Público junto do Tribunal da Relação de Coimbra veio, nos termos das disposições conjugadas dos arts. 437.º, n.<sup>os</sup>2, 3, 4 e 5 e 438.º n.<sup>os</sup>1 e 2, ambos do C.P.P., interpor recurso extraordinário para fixação de jurisprudência do acórdão do Tribunal da Relação de Coimbra, de 12 de abril de 2023, transitado em julgado a 27 de abril de 2023.
+1 - O Ministério Público junto do Tribunal da Relação de Coimbra veio, nos termos das disposições conjugadas dos arts. 437.º, n.os2, 3, 4 e 5 e 438.º n.os1 e 2, ambos do C.P.P., interpor recurso extraordinário para fixação de jurisprudência do acórdão do Tribunal da Relação de Coimbra, de 12 de abril de 2023, transitado em julgado a 27 de abril de 2023.
 
 Invoca, como acórdão fundamento, o igualmente proferido pelo Tribunal da Relação de Coimbra, de 25 de setembro de 2019, no processo n.º 121/13.0JALRA-A.C1, transitado em julgado em 10.10.2019.
 
@@ -205,7 +233,7 @@ Invoca-se, como acórdão fundamento, o igualmente proferido pelo Tribunal da Re
 
 O recurso foi interposto pelo Ministério Público, no dia 29.05.2023, dentro do prazo de 30 dias a contar do trânsito em julgado do acórdão recorrido, previsto no n.º 1 do artigo 438.º do CPP. O recorrente tem legitimidade, os acórdãos em conflito são ambos de Tribunal da Relação e transitaram em julgado, não sendo admissível recurso ordinário do acórdão recorrido.
 
-Estão assim verificados os pressupostos formais do recurso, a que se referem os artigos 437.º, n.<sup>os</sup>1, 2, 4 e 5, e 438.º, n.º 1, do CPP.
+Estão assim verificados os pressupostos formais do recurso, a que se referem os artigos 437.º, n.os1, 2, 4 e 5, e 438.º, n.º 1, do CPP.
 
 Cumpre, pois, verificar a mesmidade da questão de direito e a oposição relevante.
 
@@ -321,9 +349,9 @@ B. Apreciando
 
 1 - Sobre a suspensão de execução da pena
 
-A natureza da suspensão de execução da pena (tal como das outras penas de substituição) é a de verdadeira pena que incorpora os mesmos fins preventivos, e, apenas, estes, da pena que substitui.<sup>1</sup>
+A natureza da suspensão de execução da pena (tal como das outras penas de substituição) é a de verdadeira pena que incorpora os mesmos fins preventivos, e, apenas, estes, da pena que substitui.1
 
-Mostra-se dotada de autonomia relativamente à pena principal, pressupondo, contudo, a prévia determinação desta. Autonomia que decorre de moldura penal própria, reposta com a reforma de 2017<sup>2</sup> que fixou o período de suspensão entre 1 e 5 anos, sem relação com a pena de prisão aplicada (art. 50.º, n.º 5 do CP).
+Mostra-se dotada de autonomia relativamente à pena principal, pressupondo, contudo, a prévia determinação desta. Autonomia que decorre de moldura penal própria, reposta com a reforma de 20172 que fixou o período de suspensão entre 1 e 5 anos, sem relação com a pena de prisão aplicada (art. 50.º, n.º 5 do CP).
 
 A pena principal funciona como pressuposto formal da sua escolha e constitui a pena a cumprir, em caso de revogação da pena de substituição.
 
@@ -345,7 +373,7 @@ Na sua forma simples, a suspensão de execução da pena está sujeita a condiç
 
 Pode afirmar-se que, na forma simples de suspensão, a única condição para a não execução da pena principal constitui esse não cometimento de qualquer crime.
 
-Nas palavras de Figueiredo Dias<sup>3</sup>: “Entre as condições da suspensão de execução da prisão avulta, naturalmente, a de o condenado não cometer qualquer crime durante o período da suspensão: se a finalidade precípua desta pena de substituição é, como vimos, a de "afastar o delinquente da criminalidade" (art. 48.º-2), então, o cometimento de um crime durante o período de suspensão é a circunstância que mais claramente pode pôr em causa o prognóstico favorável que a aplicação da pena de suspensão sempre supõe. Viu-se, em todo o caso, que esta condição de suspensão (subjacente mesmo ao que chamámos a suspensão "simples") pode não ser a única, antes a suspensão pode ser decretada com deveres e regras de conduta que, para este efeito, reentram na categoria das condições em sentido amplo.”
+Nas palavras de Figueiredo Dias3: “Entre as condições da suspensão de execução da prisão avulta, naturalmente, a de o condenado não cometer qualquer crime durante o período da suspensão: se a finalidade precípua desta pena de substituição é, como vimos, a de "afastar o delinquente da criminalidade" (art. 48.º-2), então, o cometimento de um crime durante o período de suspensão é a circunstância que mais claramente pode pôr em causa o prognóstico favorável que a aplicação da pena de suspensão sempre supõe. Viu-se, em todo o caso, que esta condição de suspensão (subjacente mesmo ao que chamámos a suspensão "simples") pode não ser a única, antes a suspensão pode ser decretada com deveres e regras de conduta que, para este efeito, reentram na categoria das condições em sentido amplo.”
 
 Conclui-se, assim, que a suspensão de execução da pena é sempre condicionada, mesmo na sua modalidade simples, pelo menos, ao não cometimento de crimes no período da sua execução.
 
@@ -355,11 +383,11 @@ O cumprimento das condições, na disponibilidade do condenado, é um elemento d
 
 A pena principal, no período de suspensão, encontra-se em estado de latência, aguardando o desenvolvimento da fase de cumprimento e suas eventuais incidências.
 
-Como expõe André Lamas Leite: <sup>4</sup> “Aqui, na pena de substituição, é esta mesma - e só ela - que deve ser adimplida, sem que, não obstante, a sanção principal desapareça. Ela encontra-se em estado que poderíamos qualificar de "reserva", de "quiescência", aguardando pelo modo como o condenado se comportará em face da pena de substituição.
+Como expõe André Lamas Leite: 4 “Aqui, na pena de substituição, é esta mesma - e só ela - que deve ser adimplida, sem que, não obstante, a sanção principal desapareça. Ela encontra-se em estado que poderíamos qualificar de "reserva", de "quiescência", aguardando pelo modo como o condenado se comportará em face da pena de substituição.
 
 Nos casos de incumprimento, a pena principal não renasce propriamente, pois ela nunca deixou de existir do prisma jurídico, mas pura e simplesmente aplica-se com toda a legitimidade político-criminal e dogmática de que estava investida desde o início”
 
-É esse <sup>5</sup>“facto futuro e incerto do cumprimento da pena substitutiva” integrante, já, da decisão condenatória, que define a relação, do ponto de vista da execução, entre a pena substituída e a substitutiva.
+É esse 5“facto futuro e incerto do cumprimento da pena substitutiva” integrante, já, da decisão condenatória, que define a relação, do ponto de vista da execução, entre a pena substituída e a substitutiva.
 
 Verificando-se o inadimplemento de alguma das condições a que a suspensão se mostra sujeita, tem início um espaço de formação de decisão judicial que integra a recolha de elementos, o contraditório e a decisão, podendo esta não constituir a pronúncia final no âmbito da execução da pena de substituição.
 
@@ -389,7 +417,7 @@ A decisão judicial pondera a verificação dos pressupostos de revogação e co
 
 - No caso da al. b), a prática do crime for julgada como reveladora de que as finalidades que estavam na base da suspensão não puderam, por meio dela, ser alcançada.
 
-As opções disponíveis à revogação da suspensão referidas e as decisões que, ao abrigo daquelas, assumem sentido alternativo à revogação visam o aproveitamento, até ao limite das probabilidades de sucesso da pena de substituição, sempre em função, e tendo essa prognose como critério, da expectativa favorável dos seus efeitos. <sup>6</sup>
+As opções disponíveis à revogação da suspensão referidas e as decisões que, ao abrigo daquelas, assumem sentido alternativo à revogação visam o aproveitamento, até ao limite das probabilidades de sucesso da pena de substituição, sempre em função, e tendo essa prognose como critério, da expectativa favorável dos seus efeitos. 6
 
 A revogação, não sendo automática e implicando a ponderação da natureza e reiteração do incumprimento dos deveres ou regras de conduta ou do plano de reinserção social, ou, no caso de cometimento de crime pelo qual o beneficiário da suspensão venha a ser condenado, da frustração dos fins da suspensão, impõe-se, mesmo assim, ao juiz, como consequência da resposta positiva a que tenha chegado sobre a verificação em concreto das condições previstas nas als. a) e b), do art. 56.º
 
@@ -423,27 +451,27 @@ A audição tem, ainda, como propósito que o contraditório se exerça pessoalm
 
 5 - Contraditório
 
-Em anotação ao art. 32.º da CRP, Gomes Canotilho e Vital Moreira expõem a dimensão constitucional do princípio do contraditório: <sup>7</sup> “Relativamente aos destinatârios ele significa: (a) dever e direito de o juiz ouvir as razões das partes (da acusação e da defesa) em relação a assuntos sobre os quais tenha de proferir uma decisão; (b) direito de audiência de todos os sujeitos processuais que possam vir a ser afectados pela decisão, de forma a garantir-lhes uma influência efectiva no desenvolvimento do processo; (c) em particular, direito do arguido de intervir no processo e de se pronunciar e contraditar todos os testemunhos, depoimentos ou outros ele-mentos de prova ou argumentos jurídicos trazidos ao processo, o que impõe designadamente que ele seja o último a intervir no processo (cf. AcsTC nos 54/87 e 154/87); (d) proibição por crime diferente do da acusação, sem o arguido ter podido contraditar os respectivos fundamentos (AcTC n.º 173/92).
+Em anotação ao art. 32.º da CRP, Gomes Canotilho e Vital Moreira expõem a dimensão constitucional do princípio do contraditório: 7 “Relativamente aos destinatârios ele significa: (a) dever e direito de o juiz ouvir as razões das partes (da acusação e da defesa) em relação a assuntos sobre os quais tenha de proferir uma decisão; (b) direito de audiência de todos os sujeitos processuais que possam vir a ser afectados pela decisão, de forma a garantir-lhes uma influência efectiva no desenvolvimento do processo; (c) em particular, direito do arguido de intervir no processo e de se pronunciar e contraditar todos os testemunhos, depoimentos ou outros ele-mentos de prova ou argumentos jurídicos trazidos ao processo, o que impõe designadamente que ele seja o último a intervir no processo (cf. AcsTC nos 54/87 e 154/87); (d) proibição por crime diferente do da acusação, sem o arguido ter podido contraditar os respectivos fundamentos (AcTC n.º 173/92).
 
 Quanto à sua extensão processual, o princípio abrange todos os actos susceptíveis de afectar a sua posição, e em especial, a audiência de discussão e julgamento e os actos instrutórios que a lei determinar, devendo estes ser seleccionados sobretudo de acordo com o princípio da máxima garantia de defesa do arguido (cf. n.º 1 e nota II, supra).”
 
-Em aproximação à CEDH e, em particular, sobre o direito de audiência, nota Henriques Gaspar <sup>8</sup>: “O princípio do contraditório enquadra, no conteúdo fundamental, o direito de audiência (audiatur et altera pars), no sentido de ouvir tanto a acusação como a defesa; os sujeitos processuais devem ser ouvidos antes de ser tomada qualquer decisão que pessoalmente os afete, e têm o direito de interrogar e contra-interrogar as testemunhas e de contestar um meio de prova apresentado.
+Em aproximação à CEDH e, em particular, sobre o direito de audiência, nota Henriques Gaspar 8: “O princípio do contraditório enquadra, no conteúdo fundamental, o direito de audiência (audiatur et altera pars), no sentido de ouvir tanto a acusação como a defesa; os sujeitos processuais devem ser ouvidos antes de ser tomada qualquer decisão que pessoalmente os afete, e têm o direito de interrogar e contra-interrogar as testemunhas e de contestar um meio de prova apresentado.
 
 O contraditório constitui um elemento essencial (ou um subprincípio) do princípio do processo equitativo; o contraditório é, por isso, diretamente assumido na CEDH como garantia central do processo penal.
 
 Na jurisprudência do TEDH, a noção de contraditório significa que as partes devem poder conhecer de todas as posições processuais ou observações (requerimentos; petições; pareceres; alegações) apresentadas por outros sujeitos processuais e terem a possibilidade de as discutir antes da decisão do juiz, aplicando-se qualquer que seja a natureza do processo e em todas as fases do processo.
 
-[...] O respeito pelo contraditório e pela igualdade de armas (a distinção entre contraditório e igualdade de armas nem sempre é clara), bem como da integridade da defesa, pressupõe um justo equilíbrio entre os interesses contraditórios da investigação e da defesa, nomeadamente o acesso aos elementos do processo necessários à defesa do direito à liberdade." <sup>9</sup>
+[...] O respeito pelo contraditório e pela igualdade de armas (a distinção entre contraditório e igualdade de armas nem sempre é clara), bem como da integridade da defesa, pressupõe um justo equilíbrio entre os interesses contraditórios da investigação e da defesa, nomeadamente o acesso aos elementos do processo necessários à defesa do direito à liberdade." 9
 
 Decorre, pois, da CEDH, uma ligação intrínseca entre as obrigações de um processo justo e a garantia de o arguido ter oportunidade efetiva de se defender e de exercer o contraditório, em particular no âmbito do processo criminal.
 
-Nas palavras de Figueiredo Dias<sup>10</sup> “Por isso mesmo o esclarecimento da situação jurídica material em caso de conflito supõe, não só a garantia formal da preservação do direito de cada um nos processos judiciais, mas a comprovação objectiva de todas as circunstâncias, de facto e de direito, do caso concreto - comprovação inalcançável sem uma audiência esgotante de todos os participantes processuais. Isto significa que a actual compreensão do processo penal, à luz das concepções do Homem, do Direito e do Estado que nos regem, implica que a declaração do direito do caso penal concreto não seja apenas tarefa do juiz ou do tribunal (concepção "carismática" do processo), mas tenha de ser tarefa de todos os que participam no processo (concepção "democrática" do processo) e se encontrem em situação de influir naquela declaração do direito, de acordo com a posição e função processuais que cada um assuma.”
+Nas palavras de Figueiredo Dias10 “Por isso mesmo o esclarecimento da situação jurídica material em caso de conflito supõe, não só a garantia formal da preservação do direito de cada um nos processos judiciais, mas a comprovação objectiva de todas as circunstâncias, de facto e de direito, do caso concreto - comprovação inalcançável sem uma audiência esgotante de todos os participantes processuais. Isto significa que a actual compreensão do processo penal, à luz das concepções do Homem, do Direito e do Estado que nos regem, implica que a declaração do direito do caso penal concreto não seja apenas tarefa do juiz ou do tribunal (concepção "carismática" do processo), mas tenha de ser tarefa de todos os que participam no processo (concepção "democrática" do processo) e se encontrem em situação de influir naquela declaração do direito, de acordo com a posição e função processuais que cada um assuma.”
 
-Em síntese, o direito do arguido a ser ouvido e estar presente (al. a) do n.º 1 do art. 61.º do CPP), previamente às decisões que o afetem, constitui uma das garantias de defesa em processo criminal (art. 32.º, n.º 5 da CRP) e elemento do direito a um processo equitativo (art. 6.º , n.<sup>os</sup>1 e 3, da CEDH), sendo através deste que se materializa a igualdade na administração da justiça.
+Em síntese, o direito do arguido a ser ouvido e estar presente (al. a) do n.º 1 do art. 61.º do CPP), previamente às decisões que o afetem, constitui uma das garantias de defesa em processo criminal (art. 32.º, n.º 5 da CRP) e elemento do direito a um processo equitativo (art. 6.º , n.os1 e 3, da CEDH), sendo através deste que se materializa a igualdade na administração da justiça.
 
 O direito de audição presencial encontra-se, como vimos, estabelecido na. al. a), do n.º 1, do art. 61.º do CPP.
 
-Como elucida Henriques Gaspar<sup>11</sup>: “O direito de presença nos atos processuais que respeitem ao arguido é instrumental do exercício do contraditório e do direito de defesa; a presença do arguido, presença pessoal - assistido de defensor, possibilita o conhecimento directo de algum elemento que o afecte, permite a prestação de esclarecimentos, possibilita-lhe controlar o decurso do ato e deduzir qualquer oposição que entende oportuna, bem como informar-se dos factos e circunstâncias que possam constituir fundamento de defesa.”
+Como elucida Henriques Gaspar11: “O direito de presença nos atos processuais que respeitem ao arguido é instrumental do exercício do contraditório e do direito de defesa; a presença do arguido, presença pessoal - assistido de defensor, possibilita o conhecimento directo de algum elemento que o afecte, permite a prestação de esclarecimentos, possibilita-lhe controlar o decurso do ato e deduzir qualquer oposição que entende oportuna, bem como informar-se dos factos e circunstâncias que possam constituir fundamento de defesa.”
 
 O n.º 6 do art. 32.º da CRP remete para a lei ordinária a definição dos casos em que se impõe a presença do arguido e aqueles em que pode ser dispensada.
 
@@ -451,7 +479,7 @@ O n.º 1 do art. 61.º do CPP ressalva do primeiro dos direitos do arguido enume
 
 Neste quadro, é possível configurar consequências da decisão subsequente (a condenação, a prisão preventiva, ou a revogação da pena de substituição - a perda da liberdade) que, pela dimensão gravosa, no contexto dos direitos, liberdades e garantias, exijam que o direito de audição se exerça pessoalmente. Seja o direito de audição pessoal imposto ou não pela lei processual penal.
 
-Como ensina Figueiredo Dias<sup>12</sup>: “nem relativamente à sentença, nem relativamente a qualquer outra decisão que tenha de tomar no decurso do processo, encontra o juiz o sentido dela previamente inscrito e fixado na lei.”
+Como ensina Figueiredo Dias12: “nem relativamente à sentença, nem relativamente a qualquer outra decisão que tenha de tomar no decurso do processo, encontra o juiz o sentido dela previamente inscrito e fixado na lei.”
 
 6 - Sobre o modo de exercício do contraditório no caso
 
@@ -575,7 +603,7 @@ O exercício do contraditório na forma de audição presencial do condenado, em
 
 No caso de suspensão não sujeita a outras condições além da condição de não cometimento de crimes durante o prazo da suspensão, não sendo a revogação automática e impondo-se ao juíz o dever de averiguar se foi quebrada, de modo definitivo, a expectativa gerada, aquando da sentença, sobre os efeitos favoráveis da pena substitutiva, é o condenado que pode acrescentar valor ao registo criminal e influenciar positivamente uma decisão que, de outra forma, se tornaria, em regra, automárica.
 
-A norma dá, assim, na interpretação que julgamos corresponder ao texto da lei e à conformação constitucional, cumprimento aos n.<sup>os</sup>1 e 5 do art. 32.º da CRP e aos n.<sup>os</sup>1 e 3 do art. 6.º da CEDH, respeitando o direito a um processo equitativo, como meio procedimental de alcançar uma decisão justa.
+A norma dá, assim, na interpretação que julgamos corresponder ao texto da lei e à conformação constitucional, cumprimento aos n.os1 e 5 do art. 32.º da CRP e aos n.os1 e 3 do art. 6.º da CEDH, respeitando o direito a um processo equitativo, como meio procedimental de alcançar uma decisão justa.
 
 Note-se, a final, que as penas de substituição, embora implicando menor sofrimento para o condenado, não constituem um benefício que lhe é concedido, mas a concretização do interesse da Justiça na sua reinserção social e um instrumento de política criminal.
 
@@ -593,17 +621,17 @@ Ora, como o Tribunal também já afirmou, "se o direito de audição tem uma ext
 
 Concluindo pela inconstitucionalidade da “norma interpretativamente extraída do artigo 495.º, n.º 2, e do artigo 119.º, ambos do CPP, que permite a revogação da suspensão da pena de prisão não sujeita a condições ou acompanhada de regime de prova, com dispensa de audição presencial do arguido/condenado”
 
-Embora tendo como objeto a necessidade de notificação pessoal do condenado da decisão de revogação da pena de suspensão, já o AFJ n.º 6/2010, de 15.04. 2010<sup>13</sup>, indiciava o mesmo sentido interpretativo e invocava, no sentido do contacto pessoal com o condenado, o argumento da difusão ou perda de contacto entre arguido e defensor, após a condenação:
+Embora tendo como objeto a necessidade de notificação pessoal do condenado da decisão de revogação da pena de suspensão, já o AFJ n.º 6/2010, de 15.04. 201013, indiciava o mesmo sentido interpretativo e invocava, no sentido do contacto pessoal com o condenado, o argumento da difusão ou perda de contacto entre arguido e defensor, após a condenação:
 
 “É o que acontece com a exigência de audição presencial do condenado antes da decisão em que se coloca a possibilidade de revogação da suspensão, por falta de cumprimento das obrigações impostas, prevista no artigo 495.º, n.º 2. Na verdade, essa solução de impor que o condenado se pronuncie pessoalmente na presença do juiz, e não por meio de alegação escrita do defensor, traduz um especial acautelamento do contraditório, que, relevando do interesse em jogo - a liberdade - , tem, em coerência, de estender -se à notificação da decisão, na medida em que só o conhecimento do seu conteúdo lhe possibilita a defesa.
 
 O elemento pessoal exigido em acto preparatório da decisão, porque releva da necessidade de garantir um efectivo direito de defesa, não pode deixar de ser também querido no momento da comunicação da decisão, até por maioria de razão, uma vez que, tendo -se passado da mera possibilidade de ser determinado o cumprimento da pena de prisão à certeza, se coloca então com mais acuidade a necessidade de assegurar a defesa do condenado, designadamente o direito ao recurso, objectivo que só é cabalmente conseguido se àquele for possibilitado o conhecimento do conteúdo da decisão, o que se não pode ter como certo apenas com a notificação do defensor, pelas razões já apontadas.”
 
-No mesmo sentido do citado acórdão do TC, se pronunciam Conceição Cunha e Paulo Pinto de Albuquerque<sup>14</sup>: “O arguido deve ser ouvido pessoal e presencialmente, sendo irrelevante o motivo da revogação da suspensão, sob pena da nulidade do artigo 119.º, al. c), uma vez que a lei não relaciona a audição do arguido com nenhum motivo em especial.
+No mesmo sentido do citado acórdão do TC, se pronunciam Conceição Cunha e Paulo Pinto de Albuquerque14: “O arguido deve ser ouvido pessoal e presencialmente, sendo irrelevante o motivo da revogação da suspensão, sob pena da nulidade do artigo 119.º, al. c), uma vez que a lei não relaciona a audição do arguido com nenhum motivo em especial.
 
 Caso aquele, regularmente notificado (v. a propósito os pontos II e III do acórdão de fixação de jurisprudência n.º 6/2010, publicado no Diário da República, 1.ª série, n.º 99, de 21 de maio de 2010), não compareça nem justifique a falta à diligência de audição, então, aí sim, o tribunal decidirá com os elementos de prova que constem no processo.”
 
-Como observa André Lamas Leite<sup>15</sup>: “Para nós, a exigência constitucional do exercício do contraditório (art. 32.º, n.º 5, in fine) e as previsões normativas dos artigos 61.º, n.º 1, al. b), e 495.º, n.º 2, ambos do CPP, só admitem a conclusão de que é obrigatório que o tribunal, antes de determinar a revogação da suspensão de execução da pena privativa de liberdade, envide todos os esforços necessários à audição do condenado. Basta que estejam documentadas nos autos as diligências frustradas para notificar o agente ou a prova de que este, apesar de notificado, não compareceu em juízo. Assim, o mandamento constitucional e legal acha-se preenchido, visto que esse direito à audição não pode nunca ser usado como um inaceitável instrumento dilatório e, muito menos, impeditivo da aplicação do art. 56.º; numa palavra, o essencial é que o tribunal tenha dado a oportunidade ao agente de se pronunciar sobre aquela consequência jurídica que lhe é desfavorável. Só assim pode o condenado exercer o direito subjectivo de explicar os motivos do incumprimento das obrigações impostas, seja qual for a sua natureza (a obrigação comum a todas as modalidades de suspensão de não cometer novos delitos e as regras de conduta, injunções ou deveres atinentes ao regime de prova). Não se concebe, aliás, como estaria o juiz em condições de concluir pela infracção grosseira ou repetida das imposições ou pela impossibilidade de as finalidades da suspensão serem alcançadas em caso de um outro delito ser praticado (art. 56.º, n.º 1) sem ouvir primeiro o condenado. A imediação e a oralidade desempenham, aqui, um papel não despiciendo.”
+Como observa André Lamas Leite15: “Para nós, a exigência constitucional do exercício do contraditório (art. 32.º, n.º 5, in fine) e as previsões normativas dos artigos 61.º, n.º 1, al. b), e 495.º, n.º 2, ambos do CPP, só admitem a conclusão de que é obrigatório que o tribunal, antes de determinar a revogação da suspensão de execução da pena privativa de liberdade, envide todos os esforços necessários à audição do condenado. Basta que estejam documentadas nos autos as diligências frustradas para notificar o agente ou a prova de que este, apesar de notificado, não compareceu em juízo. Assim, o mandamento constitucional e legal acha-se preenchido, visto que esse direito à audição não pode nunca ser usado como um inaceitável instrumento dilatório e, muito menos, impeditivo da aplicação do art. 56.º; numa palavra, o essencial é que o tribunal tenha dado a oportunidade ao agente de se pronunciar sobre aquela consequência jurídica que lhe é desfavorável. Só assim pode o condenado exercer o direito subjectivo de explicar os motivos do incumprimento das obrigações impostas, seja qual for a sua natureza (a obrigação comum a todas as modalidades de suspensão de não cometer novos delitos e as regras de conduta, injunções ou deveres atinentes ao regime de prova). Não se concebe, aliás, como estaria o juiz em condições de concluir pela infracção grosseira ou repetida das imposições ou pela impossibilidade de as finalidades da suspensão serem alcançadas em caso de um outro delito ser praticado (art. 56.º, n.º 1) sem ouvir primeiro o condenado. A imediação e a oralidade desempenham, aqui, um papel não despiciendo.”
 
 Em síntese, e concordando com o sentido das alegações do Recorrente neste Tribunal, o n.º 2 do artigo 495.º do CPP refere-se ao incumprimento de qualquer das condições de suspensão, incluindo a de não cometer crimes no respetivo período.
 
@@ -615,7 +643,7 @@ E que respeita a fase do processo em que, em regra, a relação entre arguido e 
 
 Constituindo solução que, proporcionalmente, se traduz em peso de menor relevo para a efetivação da função punitiva e habilita o juiz a decidir, na posse de todos os dados, se “as finalidades que estavam na base da suspensão não puderam, por meio dela, ser alcançadas”(al. b) do n.º 1 do art. 56.º do CP).
 
-Apenas a impossibilidade de notificação ou a não comparência injustificada do condenado regularmente notificado, ambas por violação dos deveres que mantém (arts 214.º, n.º 1, alínea e) e 61.º, n.º 6,al.a), ambos do CPP) <sup>16</sup> permitem a prolação do despacho previsto no art. 495.º, n.º 2, do CPP, sem prévia audição presencial.
+Apenas a impossibilidade de notificação ou a não comparência injustificada do condenado regularmente notificado, ambas por violação dos deveres que mantém (arts 214.º, n.º 1, alínea e) e 61.º, n.º 6,al.a), ambos do CPP) 16 permitem a prolação do despacho previsto no art. 495.º, n.º 2, do CPP, sem prévia audição presencial.
 
 7 - Efeito da violação do n.º 2 do art. 495.º do CPP
 
@@ -625,7 +653,7 @@ O vício consistente na violação do dever de audição pessoal do condenado in
 
 Compreende-se que assim seja, face à dimensão constitucional do direito de defesa atingido e a relação direta com decisão que pode implicar a privação da liberdade.
 
-Como afirma João Conde Correia<sup>17</sup> “Nuns casos, de menor gravidade, os ideais de economia, certeza e segurança processual ganham preponderância de tal modo que o legislador tenderá a desenvolver instrumentos de eliminação dos efeitos práticos ou jurídicos produzidos muito limitados. Na prática estes mecanismos acabam, muitas vezes, por permitir a recuperação do valor jurídico dos efeitos produzidos. [...] Noutros casos, de maior gravidade, os ideais de justiça processual impõem amplos mecanismos de destruição dos atos violadores dos direitos, liberdades e garantias individuais, de tal forma que estes, só com muita dificuldade, podem escapar. Aliás, em casos extremos, o poder destrutivo do instrumento utilizado é tão grande que nem sequer respeita os efeitos pacificadores do caso julgado. [...] Não basta indicar, por via geral ou especial, quais os atos que podem ser destruídos. É necessário definir qual o instrumento correspondente a cada um deles, por forma adequar a sua gravidade às potencialidades daquele. Aos vícios mais graves devem corresponder os mecanismos mais amplos e aos vícios mais leves os mecanismos mais restritivos. Se não fosse assim o legislador estaria a violar o princípio da proporcionalidade, criando um sistema injusto e desfasado da realidade. Quanto maior for a gravidade do vício maior deve ser a sanção processual utilizada e, em consequência, menor a probabilidade de sobrevivência do ato praticado".”
+Como afirma João Conde Correia17 “Nuns casos, de menor gravidade, os ideais de economia, certeza e segurança processual ganham preponderância de tal modo que o legislador tenderá a desenvolver instrumentos de eliminação dos efeitos práticos ou jurídicos produzidos muito limitados. Na prática estes mecanismos acabam, muitas vezes, por permitir a recuperação do valor jurídico dos efeitos produzidos. [...] Noutros casos, de maior gravidade, os ideais de justiça processual impõem amplos mecanismos de destruição dos atos violadores dos direitos, liberdades e garantias individuais, de tal forma que estes, só com muita dificuldade, podem escapar. Aliás, em casos extremos, o poder destrutivo do instrumento utilizado é tão grande que nem sequer respeita os efeitos pacificadores do caso julgado. [...] Não basta indicar, por via geral ou especial, quais os atos que podem ser destruídos. É necessário definir qual o instrumento correspondente a cada um deles, por forma adequar a sua gravidade às potencialidades daquele. Aos vícios mais graves devem corresponder os mecanismos mais amplos e aos vícios mais leves os mecanismos mais restritivos. Se não fosse assim o legislador estaria a violar o princípio da proporcionalidade, criando um sistema injusto e desfasado da realidade. Quanto maior for a gravidade do vício maior deve ser a sanção processual utilizada e, em consequência, menor a probabilidade de sobrevivência do ato praticado".”
 
 Pronunciando-se sobre a natureza do vício em causa, afirmou o Tribunal Constitucional no Ac. [491/2021](https://diariodarepublica.pt/dr/detalhe/acordao-extrato/491-2021-171727059), citado:
 
@@ -637,9 +665,9 @@ E, em desenvolvimento: “A norma sub judice apresenta, todavia, uma dimensão p
 
 Concluindo ser inconstitucional a norma interpretativamente extraída do artigo 495.º, n.º 2, e do artigo 119.º, ambos do CPP, que permite a dispensa de audição presencial do arguido/condenado e sem que lhe tenha sido previamente dada a oportunidade de sobre a mesma se pronunciar, “por esta preterição redundar em mera irregularidade”.
 
-Dizem, sobre este ponto, Conceição Cunha e Paulo Pinto de Albuquerque<sup>18</sup>: “Salientando o direito constitucional de contraditório e de audiência, que deverá ser assegurado em qualquer caso (quer a revogação tenha por causa o incumprimento de condições de suspensão, quer se fique a dever à prática de um crime), sob pena de nulidade insanável do artigo 119.º, alínea c do CPP.”
+Dizem, sobre este ponto, Conceição Cunha e Paulo Pinto de Albuquerque18: “Salientando o direito constitucional de contraditório e de audiência, que deverá ser assegurado em qualquer caso (quer a revogação tenha por causa o incumprimento de condições de suspensão, quer se fique a dever à prática de um crime), sob pena de nulidade insanável do artigo 119.º, alínea c do CPP.”
 
-Com idêntica posição, André Lamas Leite<sup>19</sup>: “Donde a sua inobservância conduz a uma nulidade insanável do art. 119.º, alínea c) do CPP, dado o art. 495.º, n.º 2 do mesmo diploma exigir a comparência do arguido, não somente entendida em sentido físico, mas também processual, perante o juiz, antes de este se decidir pela revogação ou não da pena suspensa. Mais se verificando que o n.º 2, do art. 495.º tem de ser lido em conjunto com o n. 1, o qual remete para o art. 56.º, in totum, no qual figura a não comissão de um novo delito como uma das obrigações impostas ao condenado.”
+Com idêntica posição, André Lamas Leite19: “Donde a sua inobservância conduz a uma nulidade insanável do art. 119.º, alínea c) do CPP, dado o art. 495.º, n.º 2 do mesmo diploma exigir a comparência do arguido, não somente entendida em sentido físico, mas também processual, perante o juiz, antes de este se decidir pela revogação ou não da pena suspensa. Mais se verificando que o n.º 2, do art. 495.º tem de ser lido em conjunto com o n. 1, o qual remete para o art. 56.º, in totum, no qual figura a não comissão de um novo delito como uma das obrigações impostas ao condenado.”
 
 Considerando o exposto, conclui-se que a preterição injustificada da audição presencial do condenado, prevista no n.º 2 do art. 495.º do CPP se inclui na cominação da alínea c) do art. 119.º do CPP, correspondendo à sanção de nulidade insanável.
 
@@ -655,44 +683,46 @@ b) Confirmar o acórdão recorrido;
 
 Oportunamente, cumpra-se o disposto no artigo 444.º, n.º 1, do Código de Processo Penal.
 
-<sup>1</sup> Cfr. Maria João Antunes, “Penas e Medidas de Segurança”, Almedina, 2.ª Edição, 2022, pág. 38, Figueiredo Dias, Direito Penal Português, Parte Geral II, As Consequências Jurídicas do Crime”, Reimpressão, Coimbra Editora, 2005, pág. 335; Ana Pais, “O Código Penal e as penas alternativas à prisão: o regresso às origens e a renovação da discussão em torno da necessidade de uma verdadeira teoria geral das penas de substituição”, pág. 35, in “Congresso Internacional - 40 anos do Código Penal, Atas e Intervenções”, Faculdade de Direito da Universidade de Coimbra.
+1 Cfr. Maria João Antunes, “Penas e Medidas de Segurança”, Almedina, 2.ª Edição, 2022, pág. 38, Figueiredo Dias, Direito Penal Português, Parte Geral II, As Consequências Jurídicas do Crime”, Reimpressão, Coimbra Editora, 2005, pág. 335; Ana Pais, “O Código Penal e as penas alternativas à prisão: o regresso às origens e a renovação da discussão em torno da necessidade de uma verdadeira teoria geral das penas de substituição”, pág. 35, in “Congresso Internacional - 40 anos do Código Penal, Atas e Intervenções”, Faculdade de Direito da Universidade de Coimbra.
 
-<sup>2</sup> Art. 2.º da [Lei n.º 94/2017](https://diariodarepublica.pt/dr/detalhe/lei/94-2017-108038373), de 23 de agosto.
+2 Art. 2.º da [Lei n.º 94/2017](https://diariodarepublica.pt/dr/detalhe/lei/94-2017-108038373), de 23 de agosto.
 
-<sup>3</sup> Direito Penal Português - Parte Geral II - As Consequências Jurídicas do Crime, Aequitas, Editorial Notícias, 1993, pág. 355.
+3 Direito Penal Português - Parte Geral II - As Consequências Jurídicas do Crime, Aequitas, Editorial Notícias, 1993, pág. 355.
 
-<sup>4</sup> “As "penas de substituição" e figuras afins: traços distintivos”, in RPCC, ano 30, Separata, 2020, pág. 320.
+4 “As "penas de substituição" e figuras afins: traços distintivos”, in RPCC, ano 30, Separata, 2020, pág. 320.
 
-<sup>5</sup> A. Lamas Leite, ob. cit., pág. 324.
+5 A. Lamas Leite, ob. cit., pág. 324.
 
-<sup>6</sup> Acompanha-se, neste particular, o AFJ n.º 1/2024, de 2 de fevereiro, DR n.º 24/2024, Série I de 2024-02-02, páginas 31 - 50.
+6 Acompanha-se, neste particular, o AFJ n.º 1/2024, de 2 de fevereiro, DR n.º 24/2024, Série I de 2024-02-02, páginas 31 - 50.
 
-<sup>7</sup> Constituição da República Portuguesa Anotada, Volume I, 4a edição revista, Coimbra Editora 2007, pág. 522.
+7 Constituição da República Portuguesa Anotada, Volume I, 4a edição revista, Coimbra Editora 2007, pág. 522.
 
-<sup>8</sup> “Princípios do processo penal português e a Convenção” in Comentário da Convenção Europeia dos Direitos Humanos e dos Protocolos Adicionais, org. Paulo Pinto de Albuquerque, Universidade Católica, 2019, vol. II, ponto 5.
+8 “Princípios do processo penal português e a Convenção” in Comentário da Convenção Europeia dos Direitos Humanos e dos Protocolos Adicionais, org. Paulo Pinto de Albuquerque, Universidade Católica, 2019, vol. II, ponto 5.
 
-<sup>9</sup> Cfr., entre outros, os Acórdãos do TEDH Craxi c. Itália, de 05.12.2002, S. N. c. Suécia, de 02.07.2002, Ibrahim e Outros c. Reino Unido, de 13.09.2016, e Murtazaliyeva c. Rússia, de 18.12.2018.
+9 Cfr., entre outros, os Acórdãos do TEDH Craxi c. Itália, de 05.12.2002, S. N. c. Suécia, de 02.07.2002, Ibrahim e Outros c. Reino Unido, de 13.09.2016, e Murtazaliyeva c. Rússia, de 18.12.2018.
 
-<sup>10</sup> Direito Processual Penal, 1.º Volume, Coimbra Editora, L.<sup>da</sup>, 1981, pág. 157.
+10 Direito Processual Penal, 1.º Volume, Coimbra Editora, L.da, 1981, pág. 157.
 
-<sup>11</sup> Código de Processo Penal Comentado, António Henriques Gaspar et alii, Almedina, 3.ª Edição Revista, 2021, págs. 170-171.
+11 Código de Processo Penal Comentado, António Henriques Gaspar et alii, Almedina, 3.ª Edição Revista, 2021, págs. 170-171.
 
-<sup>12</sup> Direito Processual Penal, I Volume, Coimbra Editora, 1981, págs. 356-357.
+12 Direito Processual Penal, I Volume, Coimbra Editora, 1981, págs. 356-357.
 
-<sup>13</sup> Proc. n.º 312/09.8YFLSB - 5.ª secção, Relator Carmona da Mota, publicado no Diário da República n.º 99, 1.ª série I, de 21.05.2010.
+13 Proc. n.º 312/09.8YFLSB - 5.ª secção, Relator Carmona da Mota, publicado no Diário da República n.º 99, 1.ª série I, de 21.05.2010.
 
-<sup>14</sup> Comentário do Código de Processo Penal à luz da Constituição da República e da Convenção Europeia dos Direitos do Homem, Volume II, 5.ª edição atualizada, UCP Editora, pág. 816.
+14 Comentário do Código de Processo Penal à luz da Constituição da República e da Convenção Europeia dos Direitos do Homem, Volume II, 5.ª edição atualizada, UCP Editora, pág. 816.
 
-<sup>15</sup> A Suspensão da Execução da Pena Privativa da Liberdade sob Pretexto da Revisão de 2007 do Código Penal, Boletim da Faculdade de Direito, Universidade de Coimbra, Estudos em Homenagem ao Prof. Doutor Jorge de Figueiredo Dias, Volume II, 2009, Coimbra editora, págs. 621-623.
+15 A Suspensão da Execução da Pena Privativa da Liberdade sob Pretexto da Revisão de 2007 do Código Penal, Boletim da Faculdade de Direito, Universidade de Coimbra, Estudos em Homenagem ao Prof. Doutor Jorge de Figueiredo Dias, Volume II, 2009, Coimbra editora, págs. 621-623.
 
-<sup>16</sup> Ver AFJ n.º 6/2010, de 21 de maio.
+16 Ver AFJ n.º 6/2010, de 21 de maio.
 
-<sup>17</sup> Contributo para a Análise da Inexistência e das Nulidades Processuais Penais, Coimbra Editora, 1999, págs. 193-194.
+17 Contributo para a Análise da Inexistência e das Nulidades Processuais Penais, Coimbra Editora, 1999, págs. 193-194.
 
-<sup>18</sup> Loc. cit.
+18 Loc. cit.
 
-<sup>19</sup> Loc. cit.
+19 Loc. cit.
 
 Sem custas.
 
 Supremo Tribunal de Justiça, 26 de junho de 2024. - Teresa de Jesus Oliveira de Almeida (Relatora) - Agostinho Soares Torres - António Latas - Jorge Gonçalves - João António Gonçalves Fernandes Rato - Heitor Vasques Osório - Jorge Manuel Almeida dos Reis Bravo - Albertina das Dores Nunes Aveiro Pereira - Helena Isabel Gonçalves Moniz Falcão de Oliveira - José Luís Lopes da Mota - Nuno A. Gonçalves - Maria Teresa Féria Gonçalves de Almeida - Ana Maria Barata de Brito - Maria do Carmo da Silva Dias - Pedro B. Ferreira Dias - Leonor Furtado.
+
+118088884

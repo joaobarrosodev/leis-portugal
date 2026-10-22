@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 26/1991, 1º Suplemento, Série I-B de 1991-01-31
   number: '26'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 512-(12) a 512-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/026b01/00120012.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/21/1991/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/21-1991-444261
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:30:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37727ff02bfe351030643300954e4c430b9e135be7949968eeb0e89b9e62c4bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aaa0e6bd9383f5432ececeeb71e31d620740773c14c433c73857f0967eff2afb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:30:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Arrendamento Rural
-- Pagamento
 - Exploração Agrícola
+- Pagamento
+- Política Agrícola
 - Política de Solos
 - Prédio Rústico
-- Política Agrícola
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:564792:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:30:20Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 21/91
+# Declaração de rectificação n.º 21/91
 
 Segundo comunicação do Ministério da Agricultura, Pescas e Alimimentação, a [Portaria n.º 1152/90](https://diariodarepublica.pt/dr/detalhe/portaria/1152-1990-564792), publicada no Diário da República, 1.ª série, n.º 270, de 22 de Novembro de 1990, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 

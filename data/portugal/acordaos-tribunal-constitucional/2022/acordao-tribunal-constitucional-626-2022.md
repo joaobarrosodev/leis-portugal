@@ -29,7 +29,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/11/21700/0000800050.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/626/2022/11/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/626-2022-203283192
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-10T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa19f7436a702d57e6e45274637c76e86aac2aa70ad9d3f1b9bba4b2d16e8289
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a3370bdf8a1483c051584cf78a2f9a060c7ef0b1aca737d9722f154cc08b7e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
 - Admissão de Pessoal
 - Colocação de Professores
 - Concurso
-- Recrutamento de Pessoal
+- Ensino Artístico
+- Gestão de Recursos Humanos
 - Inconstitucionalidade
+- Mobilidade de Pessoal
 - Pessoal Docente
 - Promoção Profissional
-- Mobilidade de Pessoal
-- Gestão de Recursos Humanos
+- Recrutamento de Pessoal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/actconst/214/2011/05/16/p/dre
@@ -121,16 +121,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/47/2021/07/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/47/2021/07/23/p/dre
+- type: cites
+  target: pt:dre:114825661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1494334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:167133014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168184695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2389593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604625:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:23Z'
   warnings: []
   errors: []
 ---
@@ -956,3 +1032,5 @@ O princípio da separação de poderes, na vertente negativa de divisão de pode
 Não obstante a norma sindicada não consubstanciar o ato inicial do procedimento concursal, existe uma apropriação legislativa da atividade administrativa extraprocedimental necessária ao exercício da competência governamental exclusiva fixada naquela norma constitucional. O eventual exercício daquela competência depende de uma atuação preparatória que avalie as necessidades de recrutamento, a existência dos lugares no quadro de pessoal dos estabelecimentos de ensino e os meios financeiros disponíveis. Ora, o desenvolvimento dessa atividade cognitiva, valorativa e organizatória, ainda que não se exprima através de atos administrativos, pertence ao órgão que tem o poder de praticar o ato inicial do procedimento de abertura do concurso. Mas quem atuou para o exercício dessa competência, condicionando o respetivo exercício, foi o Parlamento através da ordem ou comando extraído da norma sindicada.
 
 O Parlamento pode fiscalizar os atos da Administração (artigo 162, º, alínea a) da CRP), em concretização do princípio da interdependência de poderes. Mas, nos casos em que o legislador constituinte enuncia em termos expressos e taxativos a exclusividade competencial do Governo, a emanação de ordens em forma de lei da AR para o exercício dessa competência perverte o sentido normativo da separação de poderes. Como se referiu no [Acórdão n.º 214/2011](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/214-2011-287816), «as «[a]s relações do Governo com a Assembleia da República são relações de autonomia e de prestação de contas e de responsabilidade; não são relações de subordinação hierárquica ou de superintendência». Assim, não pode o Governo ser vinculado a exercer o seu poder administrativo (regulamentar ou legislativo) por instruções ou injunções da Assembleia da República. Como se refere no mesmo Acórdão, o poder de «chamar a si» do Parlamento não pode transmudar «a forma legislativa num meio enviesado de exercício de competências de fiscalização com esvaziamento, pelo controlo democrático-parlamentar e pela regra da maioria, do núcleo essencial da posição constitucional do Governo enquanto órgão superior da administração pública (artigo 182.º da CRP), encarregado de dirigir os serviços da administração direta do Estado [artigo 199.º, alínea d) da CRP]». - Lino José Batista Rodrigues Ribeiro.
+
+115841457

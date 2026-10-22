@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/08/16800/0000300003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/22/2022/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/22-2022-200474801
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-08-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:13:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10f0e95913ef8d4625f0f0180f1cb3909980a966351d2e9a885b3c8bdb90746c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 428e1b6d1d21fb521a240dd8a43d2518d946d37299439fdfe69fe94ebc18ab4a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:13:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Especialização
 - Enfermagem
 - Ensino Superior Politécnico
 - Escola Superior de Enfermagem
+- Plano de Estudos
 - Universidade do Minho
 relationships:
 - type: cites
@@ -94,16 +94,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/186/2022/07/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/186/2022/07/21/p/dre
+- type: cites
+  target: pt:dre:105579672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159432383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186429711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:13:49Z'
   warnings: []
   errors: []
 ---
@@ -126,6 +146,8 @@ QUADRO N.º 2
 
 1.º ano/1.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/08/16800/0000300003.pdf))](https://files.diariodarepublica.pt/1s/2022/08/16800/0000300003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/08/16800/0000300003.pdf)
 
 Secretaria-Geral, 23 de agosto de 2022. - A Secretária-Geral Adjunta, Catarina Romão Gonçalves.
+
+115635085

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/123-e/2026/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/123-e-2026-1075293599
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-20T00:00:00Z'
+  retrieved_at: '2026-10-22T18:36:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2da5fb5f95b9a860123f0fe4aaab1d7ea77f510f9e0f3f1925d5c0e2283af980
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4012ad69d07727bbbaba79eec0acaf328c0cc5be35e914a980f0d0f070c458f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:36:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vida Selvagem
-- Ordenamento do Território
-- Proteção dos Animais
-- Regulamentação de Atos Legislativos
-- Leiria
-- Proteção do Ambiente
 - Diversidade Biológica
 - Espécie Protegida
+- Leiria
+- Ordenamento do Território
+- Proteção do Ambiente
+- Proteção dos Animais
 - Rede Natura 2000
+- Regulamentação de Atos Legislativos
+- Vida Selvagem
 - Zona Especial de Conservação
 relationships:
 - type: cites
@@ -100,16 +100,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
+- type: cites
+  target: pt:dre:1066993464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130273578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:36:09Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +142,7 @@ validation:
 
 de 20 de março
 
-O [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, procedeu à designação como Zona Especial de Conservação (ZEC) do Sítio de Importância Comunitária (SIC) Azabuxo/Leiria (PTCON0046), identificando a respetiva área e coordenadas geográficas, assim como a sua localização e limites geográficos. O referido diploma determinou, ainda, que as medidas e ações complementares de conservação de habitats e espécies são definidas em planos de gestão, a aprovar por portaria nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.<sup>os</sup>[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro.
+O [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, procedeu à designação como Zona Especial de Conservação (ZEC) do Sítio de Importância Comunitária (SIC) Azabuxo/Leiria (PTCON0046), identificando a respetiva área e coordenadas geográficas, assim como a sua localização e limites geográficos. O referido diploma determinou, ainda, que as medidas e ações complementares de conservação de habitats e espécies são definidas em planos de gestão, a aprovar por portaria nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.os[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro.
 
 Posteriormente, o [Decreto-Lei n.º 70/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2026-1066993464), de 5 de março, completou o processo de classificação da ZEC Azabuxo/Leiria, ao contemplar no respetivo plano de gestão a identificação dos tipos de habitat naturais e seminaturais e das espécies da flora e fauna selvagens protegidos, constantes dos anexos i e ii da Diretiva Habitats com presença significativa na sua área, e fixar, em função das características específicas do seu território e das exigências ecológicas desses tipos de habitat e espécies, objetivos de conservação direcionados à manutenção ou ao restabelecimento do seu estado de conservação favorável. Com vista à prossecução dos objetivos fixados, o referido decreto-lei definiu, ainda, medidas de conservação de natureza preventiva e regulamentar, necessárias para evitar a deterioração dos tipos de habitat naturais e seminaturais e dos habitats das espécies protegidas e com presença significativa na ZEC, assim como a perturbação significativa dessas espécies, as quais se tipificam em medidas de ordenamento do território e medidas de gestão.
 
@@ -142,7 +166,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 19 de março de 2026.
 
-**O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho. - O Ministro da Agricultura e Mar, José Manuel Fernandes.**
+O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho. - O Ministro da Agricultura e Mar, José Manuel Fernandes.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -154,9 +178,11 @@ A ZEC Azabuxo/Leiria, com uma área total aproximada de 136 ha, localiza-se no c
 
 Quadro 1 - Unidades territoriais abrangidas pela ZEC Azabuxo/Leiria
 
-![](https://files.diariodarepublica.pt/images/1075293599/1075464105.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293599/1075464105.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293599/1075464106.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293599/1075464106.png) |
+| --- |
 
 CARACTERIZAÇÃO
 
@@ -172,11 +198,13 @@ A ZEC assume especial relevância para a conservação do habitat Charnecas húm
 
 Quadro 2 - Tipos de habitat do anexo I da Diretiva Habitats com presença significativa na ZEC
 
-![](https://files.diariodarepublica.pt/images/1075293599/1075464107.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293599/1075464107.png) |
+| --- |
 
 Quadro 3 - Espécies da flora do anexo II da Diretiva Habitats com presença significativa na ZEC
 
-![](https://files.diariodarepublica.pt/images/1075293599/1075464108.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293599/1075464108.png) |
+| --- |
 
 OBJETIVOS DE CONSERVAÇÃO
 
@@ -188,7 +216,8 @@ A integridade ecológica da ZEC fica, deste modo, enquadrada pelo conjunto dos o
 
 Quadro 4 - Objetivos de conservação para a gestão da ZEC
 
-![](https://files.diariodarepublica.pt/images/1075293599/1075464109.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293599/1075464109.png) |
+| --- |
 
 MEDIDAS DE CONSERVAÇÃO COMPLEMENTARES
 
@@ -202,9 +231,11 @@ Considerando que determinadas medidas de conservação complementares (MC1, MC3,
 
 Quadro 5 - Quadro operacional das medidas de conservação complementares
 
-![](https://files.diariodarepublica.pt/images/1075293599/1075464110.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293599/1075464110.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293599/1075464111.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293599/1075464111.png) |
+| --- |
 
 MEDIDAS DE CONSERVAÇÃO REGULAMENTARES
 
@@ -230,7 +261,8 @@ O Quadro 6 estabelece a correspondência entre as medidas de conservação compl
 
 Quadro 6 - Modelo de matriz de avaliação final da implementação do plano de gestão
 
-![](https://files.diariodarepublica.pt/images/1075293599/1075464112.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293599/1075464112.png) |
+| --- |
 
 FICHAS DE MEDIDAS DE CONSERVAÇÃO COMPLEMENTARES
 
@@ -252,36 +284,54 @@ OM - Orçamento Municipal;
 
 PNA-PNGIFR - Programa Nacional de Ação do Plano Nacional de Gestão Integrada de Fogos Rurais.
 
-![](https://files.diariodarepublica.pt/images/1075293599/1075464113.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293599/1075464113.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293599/1075464114.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293599/1075464114.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293599/1075464115.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293599/1075464115.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293599/1075464116.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293599/1075464116.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293599/1075464117.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293599/1075464117.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293599/1075464118.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293599/1075464118.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293599/1075464119.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293599/1075464119.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293599/1075464120.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293599/1075464120.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293599/1075464121.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293599/1075464121.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293599/1075464122.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293599/1075464122.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293599/1075464123.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293599/1075464123.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293599/1075464124.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293599/1075464124.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293599/1075464125.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293599/1075464125.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293599/1075464126.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293599/1075464126.png) |
+| --- |
 
 CARTAS DE LOCALIZAÇÃO DE MEDIDAS DE CONSERVAÇÃO COMPLEMENTARES
 
-![](https://files.diariodarepublica.pt/images/1075293599/1075464127.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293599/1075464127.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1075293599/1075464128.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293599/1075464128.png) |
+| --- |
+
+119948064

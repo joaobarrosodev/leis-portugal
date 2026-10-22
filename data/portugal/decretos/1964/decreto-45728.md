@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45728-1964-576739
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-05-25T00:00:00Z'
+  retrieved_at: '2026-10-22T19:40:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a98d3ad96d096e69cd5da3c51e63957d3e75b7943944e9faa3eeaf579cda77ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: afeb5b36056a760c5418f7959dbf6910738f559569ad0b157b61bb625e4aae2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:40:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694009:por
+  label: null
+  source: null
 article_structure:
-  article_count: 21
-  section_count: 32
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:40:37Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +113,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos dos seguintes Ministérios:
+Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos dos seguintes Ministérios:
 
 Ministério das Finanças
 
@@ -141,43 +165,43 @@ N.º 1) «Gratificações pela acumulação do serviço de regências» ... +752
 
 N.º 2) «Gratificações pela regência de trabalhos práticos» ... +21000$00
 
-###### Art. 2.º São abertos no Ministério das Finanças créditos especiais, no montante de 29664478$60, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças créditos especiais, no montante de 29664478$60, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Encargos Gerais da Nação
 
-### Capítulo 8.º «Secretaria de Estado da Aeronáutica - Força Aérea»:
+Capítulo 8.º «Secretaria de Estado da Aeronáutica - Força Aérea»:
 
-###### Artigo 163.º, n.º 1) «De imóveis», alínea 1 «Prédios rústicos e urbanos» ... 700000$00
+Artigo 163.º, n.º 1) «De imóveis», alínea 1 «Prédios rústicos e urbanos» ... 700000$00
 
-###### Artigo 167.º, n.º 1) «Rendas de prédios ...» ... 350000$00
+Artigo 167.º, n.º 1) «Rendas de prédios ...» ... 350000$00
 
 ... 1050000$00
 
 Ministério das Finanças
 
-### Capítulo 8.º «Direcção-Geral da Fazenda Pública - Tesouraria dos concelhos e bairros»:
+Capítulo 8.º «Direcção-Geral da Fazenda Pública - Tesouraria dos concelhos e bairros»:
 
-###### Artigo 87.º, n.º 2) «Pessoal assalariado»: «Propostos e auxiliares» ... 1093000$00
+Artigo 87.º, n.º 2) «Pessoal assalariado»: «Propostos e auxiliares» ... 1093000$00
 
 Ministério do Interior
 
-### Capítulo 8.º «Junta da Emigração»:
+Capítulo 8.º «Junta da Emigração»:
 
-###### Artigo 113.º, n.º 1) «Rendas de casa» ... 80000$00
+Artigo 113.º, n.º 1) «Rendas de casa» ... 80000$00
 
 Ministério da Justiça
 
-### Capítulo 3.º «Direcção-Geral da Justiça - Polícia Judiciária - Subdirectoria de Lisboa - Subinspecção do Funchal»:
+Capítulo 3.º «Direcção-Geral da Justiça - Polícia Judiciária - Subdirectoria de Lisboa - Subinspecção do Funchal»:
 
-###### Artigo 134.º, n.º 1) «Luz, ...» ... 3500$00
+Artigo 134.º, n.º 1) «Luz, ...» ... 3500$00
 
-### Capítulo 5.º «Direcção-Geral dos Serviços Tutelares de Menores»:
+Capítulo 5.º «Direcção-Geral dos Serviços Tutelares de Menores»:
 
 Tribunal Central de Menores de Coimbra
 
 Centro de observação anexo ao Tribunal Central de Menores de Coimbra
 
-###### Artigo 368.º «Remunerações certas ao pessoal em exercício», n.º 2) «Pessoal assalariado»:
+Artigo 368.º «Remunerações certas ao pessoal em exercício», n.º 2) «Pessoal assalariado»:
 
 1 serventuário auxiliar ... 9516$00
 
@@ -187,69 +211,69 @@ Centro de observação anexo ao Tribunal Central de Menores de Coimbra
 
 Instituto de Reeducação de Vila Fernando
 
-###### Artigo 411.º, n.º 2) «Abono para falhas» ... 1200$00
+Artigo 411.º, n.º 2) «Abono para falhas» ... 1200$00
 
 ... 29588$00
 
 Ministério do Exército
 
-### Capítulo 2.º «Estado-Maior do Exército - Missões e comissões de serviço e de estudo no estrangeiro»:
+Capítulo 2.º «Estado-Maior do Exército - Missões e comissões de serviço e de estudo no estrangeiro»:
 
-###### Artigo 37.º «Remunerações acidentais», n.º 1) «Despesas de representação», alínea 8 «Adido militar no Rio de Janeiro» ... 22500$00
+Artigo 37.º «Remunerações acidentais», n.º 1) «Despesas de representação», alínea 8 «Adido militar no Rio de Janeiro» ... 22500$00
 
-###### Artigo 38.º «Outras despesas com o pessoal», n.º 3) «Subsídios para transportes», alínea 7 «Adido militar no Rio de Janeiro» ... 20250$00
+Artigo 38.º «Outras despesas com o pessoal», n.º 3) «Subsídios para transportes», alínea 7 «Adido militar no Rio de Janeiro» ... 20250$00
 
-### Capítulo 5.º «Serviço do quartel-mestre - Direcção do Serviço de Fortificações e Obras Militares»:
+Capítulo 5.º «Serviço do quartel-mestre - Direcção do Serviço de Fortificações e Obras Militares»:
 
-###### Artigo 254.º, n.º 1) «Rendas de prédios rústicos ...» ... 432000$00
+Artigo 254.º, n.º 1) «Rendas de prédios rústicos ...» ... 432000$00
 
-### Capítulo 8.º «Encargos gerais do Ministério - Despesas gerais»:
+Capítulo 8.º «Encargos gerais do Ministério - Despesas gerais»:
 
-###### Artigo 342.º, n.º 1) «Remunerações ao pessoal menor civil ...» ... 6000$00
+Artigo 342.º, n.º 1) «Remunerações ao pessoal menor civil ...» ... 6000$00
 
-###### Artigo 343.º, n.º 5) «Ajudas de custo ...» ... 12000$00
+Artigo 343.º, n.º 5) «Ajudas de custo ...» ... 12000$00
 
-###### Artigo 351.º «Outros encargos», n.º 6) «Despepesas com estudos técnicos da reorganização territorial do Exército» ... 194000$00
+Artigo 351.º «Outros encargos», n.º 6) «Despepesas com estudos técnicos da reorganização territorial do Exército» ... 194000$00
 
 ... 686750$00
 
 Ministério da Marinha
 
-### Capítulo 8.º «Arsenal do Alfeite»:
+Capítulo 8.º «Arsenal do Alfeite»:
 
-###### Artigo 243.º «Material e outras despesas» ... 13050462$90
+Artigo 243.º «Material e outras despesas» ... 13050462$90
 
 Ministério das Obras Públicas
 
-### Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
+Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
 
-###### Artigo 51.º «Construções e obras novas», n.º 3) «Construções e melhoramentos a efectuar por contrapartida da inscrição de iguais quantias no orçamento das receitas do Estado, incluindo despesas de pessoal», alínea 6 «Edifício destinado às instalações da Provedoria da Casa Pia de Lisboa, em Belém» ... 250000$00
+Artigo 51.º «Construções e obras novas», n.º 3) «Construções e melhoramentos a efectuar por contrapartida da inscrição de iguais quantias no orçamento das receitas do Estado, incluindo despesas de pessoal», alínea 6 «Edifício destinado às instalações da Provedoria da Casa Pia de Lisboa, em Belém» ... 250000$00
 
-###### Artigo 53.º «Despesas de conservação e aproveitamento do material», n.º 3) «Despesas de conservação, reparação e melhoramentos de que o Estado será, total ou parcialmente, reembolsado», alínea 9 «Hospital de Júlio de Matos (ampliação e beneficiação do serviço de farmácia)» ... 370147$00
+Artigo 53.º «Despesas de conservação e aproveitamento do material», n.º 3) «Despesas de conservação, reparação e melhoramentos de que o Estado será, total ou parcialmente, reembolsado», alínea 9 «Hospital de Júlio de Matos (ampliação e beneficiação do serviço de farmácia)» ... 370147$00
 
-### Capítulo 13.º «Outros investimentos»:
+Capítulo 13.º «Outros investimentos»:
 
-###### Artigo 129.º, n.º 1) «Para as despesas com a construção e equipamento, no Museu de Marinha, do Planetário Calouste Gulbenkien, ...» ... 2175050$80
+Artigo 129.º, n.º 1) «Para as despesas com a construção e equipamento, no Museu de Marinha, do Planetário Calouste Gulbenkien, ...» ... 2175050$80
 
 ... 2795197$80
 
 Ministério da Educação Nacional
 
-### Capítulo 2.º «Secretaria-Geral - Instituto de Alta Cultura»:
+Capítulo 2.º «Secretaria-Geral - Instituto de Alta Cultura»:
 
-###### Artigo 36.º, n.º 1) «Subsídios ...», alínea 18 «Centro de Estudos de Pedagogia Áudio-Visual» ... 1000000$00
+Artigo 36.º, n.º 1) «Subsídios ...», alínea 18 «Centro de Estudos de Pedagogia Áudio-Visual» ... 1000000$00
 
-### Capítulo 3.º «Direcção-Geral do Ensino Superior e das Belas-Artes - Instrução universitária - Universidade de Lisboa - Faculdade de Direito»:
+Capítulo 3.º «Direcção-Geral do Ensino Superior e das Belas-Artes - Instrução universitária - Universidade de Lisboa - Faculdade de Direito»:
 
-###### Artigo 237.º-A «Outros encargos», n.º 1) «Subsídios a cofres ou organizações metropolitanas, ultramarinas ou estrangeiras», alínea 1 «Comemoração do cinquentenário da Faculdade de Direito de Lisboa» ... 300000$00
+Artigo 237.º-A «Outros encargos», n.º 1) «Subsídios a cofres ou organizações metropolitanas, ultramarinas ou estrangeiras», alínea 1 «Comemoração do cinquentenário da Faculdade de Direito de Lisboa» ... 300000$00
 
 ... 1300000$00
 
 Ministério da Saúde e Assistência
 
-### Capítulo 4.º «Direcção-Geral da Assistência»:
+Capítulo 4.º «Direcção-Geral da Assistência»:
 
-###### Artigo 65.º «Outros encargos»:
+Artigo 65.º «Outros encargos»:
 
 N.º 1) «Subsídios a cofres ...», alínea 6 «Assistência à família: ...» ... 5000000$00
 
@@ -259,69 +283,69 @@ N.º 5) «Encargos com a assistência a diminuídos físicos ...» ... 4579479$9
 
 ... 29664478$60
 
-###### Art. 3.º Como compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+Art. 3.º Como compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 1.º, artigo 1.º «Contribuição industrial» ... 1800000$00
+Capítulo 1.º, artigo 1.º «Contribuição industrial» ... 1800000$00
 
-### Capítulo 4.º, artigo 68.º «Diversas receitas não classificadas» ... 432000$00
+Capítulo 4.º, artigo 68.º «Diversas receitas não classificadas» ... 432000$00
 
-### Capítulo 7.º, artigo 165.º «Reembolso das despesas com a Subinspecção da Polícia Judiciária do Funchal» ... 3500$00
+Capítulo 7.º, artigo 165.º «Reembolso das despesas com a Subinspecção da Polícia Judiciária do Funchal» ... 3500$00
 
-### Capítulo 7.º, artigo 167.º «Reembolso do abono para falhas a pessoal do Ministério da Justiça» ... 1200$00
+Capítulo 7.º, artigo 167.º «Reembolso do abono para falhas a pessoal do Ministério da Justiça» ... 1200$00
 
-### Capítulo 7.º, artigo 171.º «Reembolso das importâncias entregues pelo Ministério da Marinha ao Arsenal do Alfeite» ... 13050462$90
+Capítulo 7.º, artigo 171.º «Reembolso das importâncias entregues pelo Ministério da Marinha ao Arsenal do Alfeite» ... 13050462$90
 
-### Capítulo 7.º, artigo 176.º «Reembolso das despesas com a construção, conservação, reparação e melhoramento de edifícios» ... 620147$00
+Capítulo 7.º, artigo 176.º «Reembolso das despesas com a construção, conservação, reparação e melhoramento de edifícios» ... 620147$00
 
-### Capítulo 8.º, artigo 202.º «Instituto de Assistência à Família» ... 5000000$00
+Capítulo 8.º, artigo 202.º «Instituto de Assistência à Família» ... 5000000$00
 
-### Capítulo 8.º, artigo 203 «Assistência a diminuídos físicos» ... 4579479$90
+Capítulo 8.º, artigo 203 «Assistência a diminuídos físicos» ... 4579479$90
 
-### Capítulo 9.º, artigo 294.º «Encargos a efectuar pela Fundação Gulbenkian e Fundo de Desemprego, nos termos do [Decreto-Lei n.º 45211](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45211-1963-694009), ...» ... 375050$80
+Capítulo 9.º, artigo 294.º «Encargos a efectuar pela Fundação Gulbenkian e Fundo de Desemprego, nos termos do [Decreto-Lei n.º 45211](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45211-1963-694009), ...» ... 375050$80
 
 ... 25861840$60
 
 Encargos Gerais da Nação
 
-### Capítulo 8.º, artigo 148.º, n.º 1) ... 350000$00
+Capítulo 8.º, artigo 148.º, n.º 1) ... 350000$00
 
-### Capítulo 8.º, artigo 233.º, n.º 1) ... 700000$00
+Capítulo 8.º, artigo 233.º, n.º 1) ... 700000$00
 
 ... 1050000$00
 
 Ministério das Finanças
 
-### Capítulo 1.º, artigo 12.º ... 1393000$00
+Capítulo 1.º, artigo 12.º ... 1393000$00
 
 Ministério do Interior
 
-### Capítulo 8.º, artigo 105.º, n.º 1) ... 20000$00
+Capítulo 8.º, artigo 105.º, n.º 1) ... 20000$00
 
-### Capítulo 8.º, artigo 105, n.º 2) ... 60000$00
+Capítulo 8.º, artigo 105, n.º 2) ... 60000$00
 
 ... 80000$00
 
 Ministério da Justiça
 
-### Capítulo 5.º, artigo 368.º, n.º 1) ... 1830$00
+Capítulo 5.º, artigo 368.º, n.º 1) ... 1830$00
 
-### Capítulo 5.º, artigo 368.º, n.º 2) ... 23058$00
+Capítulo 5.º, artigo 368.º, n.º 2) ... 23058$00
 
 ... 24888$00
 
 Ministério do Exército
 
-### Capítulo 3.º, artigo 181.º, n.º 1) ... 254750$00
+Capítulo 3.º, artigo 181.º, n.º 1) ... 254750$00
 
 Ministério da Educação Nacional
 
-### Capítulo 6.º, artigo 902.º, n.º 1) ... 1000000$00
+Capítulo 6.º, artigo 902.º, n.º 1) ... 1000000$00
 
 ... 29664478$60
 
-###### Art. 4.º São autorizadas as seguintes alterações de rubrica nos orçamentos:
+Art. 4.º São autorizadas as seguintes alterações de rubrica nos orçamentos:
 
 Do Ministério da Justiça
 
@@ -345,6 +369,6 @@ Sujeita a duplo cabimento a importância de 36000000$00 ...
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Maio de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

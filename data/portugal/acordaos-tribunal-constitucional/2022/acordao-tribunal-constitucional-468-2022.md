@@ -31,7 +31,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/07/14100/0001700058.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -53,18 +53,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/468/2022/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/468-2022-186522365
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-07-22T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c54383866e11e6d5361163db67e2eba70032624f6c6b9f0450ba70c3119e025e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd5bacd26fe126aa8f0e321da22b5f1f6122c15a5f5a5154bec2638e04cffd31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- BENS Imóveis
 - Arrendamento Urbano não Habitacional
-- Gestão Orçamental
-- Inconstitucionalidade
-- Doença Infecciosa
-- Epidemia
-- Política Económica
-- Política Social
+- BENS Imóveis
 - Comércio
 - Comissão Eventual para o Acompanhamento da Aplicação das Medidas de Resposta à Pandemia da Doença Covid-19
+- Doença Infecciosa
+- Epidemia
+- Gestão Orçamental
+- Inconstitucionalidade
+- Política Económica
+- Política Social
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/2015/01/16/p/dre
@@ -123,16 +123,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/9/1991/04/09/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/9/1991/04/09/p/dre
+- type: cites
+  target: pt:dre:124417106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130399862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130473161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131068115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131068124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131193441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131908497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131908499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:134762424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138762310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140631236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:143189682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156125155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66229856:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:23Z'
   warnings: []
   errors: []
 ---
@@ -646,3 +714,5 @@ Por último, e como já se adiantou, no que respeita ao juízo de proporcionalid
 Evidentemente, reconhece-se o esforço argumentativo feito no Acórdão (ponto 23), com o intuito de traçar critérios justificativos da possibilidade da suposta redução efetuada. Todavia, não partilhamos parte das premissas e respetivas conclusões. Por um lado, a afirmação de que a redução corresponde ao pensamento legislativo, ou seja, àquela que teria sido a opção do legislador para preencher o vazio legal resultante de uma declaração de inconstitucionalidade total é verosímil, mas não comprovada. Trata-se de um juízo ex post facto, levado a cabo em circunstâncias em que a informação sobre a epidemia de Covid 19 e, sobretudo, sobre a sua evolução e consequências económicas é muito distinta daquela de que o legislador de 2020 dispunha. O argumento segundo o qual a solução pela qual se optou no dispositivo tem origem legislativa não é, assim, suficiente para obstar à objeção que sustenta que, independentemente da fonte primária - que é uma norma aprovada pelo legislador num contexto não inteiramente coincidente com o da norma fiscalizada -, tal solução corresponde, nesta sede, a uma opção feita pelo Tribunal (e não pelo legislador democrático), de entre várias outras que teriam sido possíveis. Uma opção, aliás, com um nível de detalhe na definição do standard aceitável de repartição do sacrifício entre as partes do contrato de exploração de loja em centro comercial - determinando-se a percentagem concreta de redução da renda e o critério de determinação do volume de vendas mensal relevante - inédito na jurisprudência constitucional, e que estabelece um precedente difícil de justificar.
 
 É evidente que o nosso juízo de não inconstitucionalidade da norma nos leva a partilhar a afirmação nos termos da qual o significativo risco de tutela deficitária recomenda "que os efeitos jurídicos da norma sindicada sejam conservados". Todavia, a Constituição da República Portuguesa atribui a este Tribunal poderes específicos para atender a este tipo de preocupações, permitindo, nos termos do artigo 282.º da CRP, a restrição dos efeitos da declaração de inconstitucionalidade. Dada a latitude desta previsão constitucional, cremos que deveria ter sido essa a opção do Tribunal, permitindo obter idêntica proteção dos direitos e valores constitucionais relevantes, com evidente fundamento constitucional e sem gerar dúvidas quanto à observância do princípio da separação de poderes. - Mariana Canotilho, Assunção Raimundo e António Ascensão Ramos.
+
+115526229

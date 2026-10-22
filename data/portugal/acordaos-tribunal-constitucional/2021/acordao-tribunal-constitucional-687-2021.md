@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/09/18500/0000300051.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/687/2021/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/687-2021-171674458
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-09-22T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d405aa1377d971215fa7e724f81a6edf3c55c03fd34691674858e01dfae72e77
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42e4ed965885b439324915872d3845a01205dbb7368d857d76e15c9aa7da0ca6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ficheiro Informático
-- Interconexão de Dados
-- Correio Electrónico
-- Formulário Eletrónico
-- Inconstitucionalidade
 - Cibercrime
-- Segurança da Informação
-- Interpretação do Direito
+- Correio Electrónico
+- Ficheiro Informático
+- Formulário Eletrónico
 - Gestão de Direitos Digitais
+- Inconstitucionalidade
+- Interconexão de Dados
+- Interpretação do Direito
+- Segurança da Informação
 relationships:
 - type: cites
   target: celex:31995L0046
@@ -162,16 +162,104 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/92/2019/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/92/2019/06/05/p/dre
+- type: cites
+  target: pt:dre:108052020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122498962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124220738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125515884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132883356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70300353:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:18Z'
   warnings: []
   errors: []
 ---
@@ -194,7 +282,9 @@ Os artigos 3.º, 6.º, 17.º, 19.º, 20.º, 21.º, 25.º e 30.º da [Lei n.º 10
 
 «(...)
 
-###### Artigo 17.º — Apreensão de mensagens de correio eletrónico ou de natureza semelhante
+Artigo 17.º
+
+Apreensão de mensagens de correio eletrónico ou de natureza semelhante
 
 1 - Quando, no decurso de uma pesquisa informática ou de outro acesso legítimo a um sistema informático, forem encontradas, armazenadas nesse sistema informático ou noutro a que seja permitido o acesso legítimo a partir do primeiro, mensagens de correio eletrónico ou de natureza semelhante que sejam necessárias à produção de prova, tendo em vista a descoberta da verdade, a autoridade judiciária competente autoriza ou ordena por despacho a sua apreensão.
 
@@ -318,7 +408,7 @@ Com tais fundamentos, o Presidente da República requer ao Tribunal Constitucion
 
 4 - Notificado para o efeito previsto no artigo 54.º da Lei de Organização, Funcionamento e Processo do Tribunal Constitucional (doravante, «LTC»), o Presidente da Assembleia da República ofereceu o merecimento dos autos, enviando em anexo uma nota sobre os trabalhos preparatórios, elaborada pelos Serviços de Apoio à Comissão Parlamentar de Assuntos Constitucionais, Direitos, Liberdades e Garantias e informando que os trabalhos preparatórios que conduziram à aprovação do Decreto em questão se encontram disponíveis na página de Internet do Parlamento.
 
-**O Presidente da Assembleia da República juntou ainda aos autos uma pronúncia da direção do Grupo Parlamentar do Partido Socialista, que apresenta argumentos no sentido da conformidade constitucional das normas questionadas. Os fundamentos para tal posição são, em síntese, os seguintes:**
+O Presidente da Assembleia da República juntou ainda aos autos uma pronúncia da direção do Grupo Parlamentar do Partido Socialista, que apresenta argumentos no sentido da conformidade constitucional das normas questionadas. Os fundamentos para tal posição são, em síntese, os seguintes:
 
 «A pronúncia do Grupo Parlamentar do Partido Socialista sobre o requerimento feito pelo Exmo. Senhor Presidente da República visando a apreciação da conformidade com a Constituição da norma constante do artigo 5.º do Decreto n.º 167/XIV da Assembleia da República, na parte em que altera o artigo 17.º da [Lei n.º 109/2009](https://diariodarepublica.pt/dr/detalhe/lei/109-2009-489693), de 15 de setembro, evidencia, resumidamente, o seguinte:
 
@@ -985,3 +1075,5 @@ Remetemos aqui para o que se refere, a propósito da chamada Verizon Order do FI
 (14) "A Diretiva 2016/680 estabelece mínimos de harmonização, permitindo aos Estados membros a adoção de padrões mais elevados (artigo 1(2) da Diretiva [...]. Os Estados membros são instados a estabelecer limites de tempo para o apagamento de dados pessoais ou para uma revisão periódica da necessidade de permanência do armazenamento destes. E são também instados a estabelecer tratamentos diferenciados, e outras partes no processo, como entre os dados pessoais de suspeitos do cometimento de crimes, de condenados, de vítimas ou de possíveis vítimas e terceiros envolvidos, como sucede com testemunhas" (Marcus Klamert, anotação indicada na nota 10, supra, pp. 409/410; cf. artigos 5.º e 6.º da Diretiva 2016/680).
 
 J. A. Teles Pereira. Maria José Rangel de Mesquita.
+
+114561576

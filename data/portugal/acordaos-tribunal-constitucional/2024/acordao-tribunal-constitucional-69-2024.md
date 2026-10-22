@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/02/03700/0000500017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/69/2024/02/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/69-2024-853269379
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-21T00:00:00Z'
+  retrieved_at: '2026-10-22T18:25:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b75172d1de18da85833b0b4e64f2314487dbb6a6cf8172ffc989cfe9044ad5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0898b04472e4a2e191bc017497702510c1e3fab3fe4ef8a540307e0fd2c0952f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pagamento
+- Custas Judiciais
 - Inconstitucionalidade
+- Pagamento
 - Regulamento
 - Taxa
-- Custas Judiciais
 relationships:
+- type: amends
+  target: pt:numero:lei:7/2012
+  label: Declara a inconstitucionalidade, com força obrigatória geral, da norma que impõe a obrigatoriedade de pagamento do
+    remanescente da taxa de justiça ao réu que venceu totalmente o processo, obrigando-a a pedir o montante que pagou em sede
+    de custas de parte, resultante do n.º 9 do artigo 14.º (na redação introduzida pela Lei n.º 7/2012, de 13 de fevereiro)
+    do Regulamento das Custas Processuais, aprovado pelo Decreto-Lei n.º 34/2008, de 26 de fevereiro, Diário da República
+    n.º 40/2008, Série I
+  source: null
+  date: '2008-02-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/actconst/367/2018/10/17/p/dre
   label: null
@@ -114,16 +123,164 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/11/2015/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/11/2015/08/28/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1145622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116043536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116698945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116809383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117620917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1195425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:121665678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128792817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128865464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130887265:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1457133:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1739916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2065814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2240533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2245266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2717392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56388820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70133803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73958532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:968610:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:25:34Z'
   warnings: []
   errors: []
 ---
@@ -335,3 +492,5 @@ III - Decisão
 3.1 - Sem custas.
 
 Lisboa, 23 de janeiro de 2024. - José Teles Pereira - Carlos Medeiros de Carvalho - Gonçalo Almeida Ribeiro - Dora Lucas Neto - Mariana Canotilho - Joana Fernandes Costa - Afonso Patrão - António José da Ascensão Ramos - João Carlos Loureiro - José Eduardo Figueiredo Dias - Rui Guerra da Fonseca - Maria Benedita Urbano - José João Abrantes.
+
+117369474

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45907-1964-537384
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-09-09T00:00:00Z'
+  retrieved_at: '2026-10-22T19:41:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6dc58351febc0291a6a9b67293f819aa84adb63e59a2df7afe5026cbd944c2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e32e75548d9710994a1ef2761cdb3f1cde27a5d57f8761efb69d82bf110b4e7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:41:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:41:55Z'
   warnings: []
   errors: []
 ---
@@ -92,15 +92,15 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o conselho de administração dos serviços autónomos dos correios, telégrafos e telefones da província de Cabo Verde a contrair na Caixa Económica Postal da mesma província um empréstimo de 800000$00, destinado à ampliação das centrais telefónicas automáticas das cidades da Praia e do Mindelo.
+Artigo 1.º É autorizado o conselho de administração dos serviços autónomos dos correios, telégrafos e telefones da província de Cabo Verde a contrair na Caixa Económica Postal da mesma província um empréstimo de 800000$00, destinado à ampliação das centrais telefónicas automáticas das cidades da Praia e do Mindelo.
 
-###### Art. 2.º Este empréstimo, que poderá ser levantado de uma só vez, vence juro de 6 por cento ao ano sobre a quantia em dívida e será reembolsado em cinco anuidades, vencendo-se a primeira em 31 de Dezembro de 1964.
+Art. 2.º Este empréstimo, que poderá ser levantado de uma só vez, vence juro de 6 por cento ao ano sobre a quantia em dívida e será reembolsado em cinco anuidades, vencendo-se a primeira em 31 de Dezembro de 1964.
 
-###### Art. 3.º O governador de Cabo Verde poderá determinar a antecipação das amortizações sempre que o julgar conveniente.
+Art. 3.º O governador de Cabo Verde poderá determinar a antecipação das amortizações sempre que o julgar conveniente.
 
-###### Art. 4.º Os encargos do empréstimo a que este diploma se refere constituem despesa obrigatória dos serviços autónomos dos correios, telégrafos e telefones da província de Cabo Verde, devendo ser anualmente inscritas nos respectivos orçamentos, como despesa ordinária, as verbas necessárias à sua liquidação.
+Art. 4.º Os encargos do empréstimo a que este diploma se refere constituem despesa obrigatória dos serviços autónomos dos correios, telégrafos e telefones da província de Cabo Verde, devendo ser anualmente inscritas nos respectivos orçamentos, como despesa ordinária, as verbas necessárias à sua liquidação.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Setembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

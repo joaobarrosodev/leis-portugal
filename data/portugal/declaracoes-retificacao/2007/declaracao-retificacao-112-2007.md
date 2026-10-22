@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/112/2007/12/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/112-2007-627788
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-14T00:00:00Z'
+  retrieved_at: '2026-10-22T19:07:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52f19dc956120743eb4a557d2f08f4bb6e6e29f2c13f206406ab5a8333483ce8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae3d145538b3a5e9aadeea611be65e34ecd9a7c5d288a4df488e68ee4c6c4d4a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:07:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
 - Ordenamento do Território
-- Plano Director Municipal
 - Paredes
-- Política de Solos
 - Plano de Urbanização
+- Plano Director Municipal
+- Política de Solos
 - Regulamento
+- Reserva Ecológica Nacional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
@@ -83,16 +83,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/165/2007/10/15/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/165/2007/10/15/p/dre
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641431:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:resolucao-conselho-ministros:165/2007
+  label: "Rectifica o Regulamento do Plano de Urbanização de Rebordosa e Parcial de Lordelo, Vilela e Astromil, anexo à Resolução\
+    \ do Conselho de Ministros n.º 165/2007, de 15 de Outubro, DR.IS [198], e procede à publicação do capítulo VI do citado\
+    \ Regulamento, para cuja área de intervenção se encontra em vigor o PDM de Paredes ratificado pela Resolução do Conselho\
+    \ de Ministros n.º 40/94, de 8 de Junho, com alterações ratificadas pelas Resoluções do Conselho de Ministros n.ºs 132/2004,\
+    \ de 14 de Setembro, 139/2004, de 6 de Outubro, 153/2004, de 2 de Novembro e 79/2007, de 15 de Junho \0 \0"
+  source: null
+  date: '2007-10-15'
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:07:30Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +180,9 @@ deve ler-se:
 
 Disposições finais
 
-###### Artigo 55.º — Projectos de interesse público municipal
+Artigo 55.º
+
+Projectos de interesse público municipal
 
 1 - Em projectos de interesse público municipal, incluindo intervenções no âmbito da habitação social (ou do INH), admite-se um índice máximo de construção superior em 50 % ao índice previsto para a zona onde se insere e uma cércea superior em um piso à máxima permitida para a zona de ocupação urbana que o projecto integra.
 
@@ -171,17 +190,23 @@ Disposições finais
 
 3 - Em nenhum caso pode ser excedido o índice máximo de utilização de 1,9 m2/m2 e a cércea de oito pisos (rés-do-chão mais sete).
 
-###### Artigo 56.º — Infra-estruturas urbanas
+Artigo 56.º
+
+Infra-estruturas urbanas
 
 O licenciamento de construções, para qualquer que seja o fim, poderá ser recusado nos casos em que não seja garantido o acesso, o abastecimento de água potável ou a evacuação de esgotos e águas residuais.
 
-###### Artigo 57.º — Regime de cedências
+Artigo 57.º
+
+Regime de cedências
 
 1 - Nas operações de loteamento, os proprietários são obrigados a ceder ao município, a título gratuito e nos termos da legislação aplicável, as áreas necessárias à construção e ou alargamento das vias de circulação, as áreas de estacionamento público, passeios, áreas de espaços verdes e de equipamentos de utilização colectiva.
 
 2 - Sempre que seja licenciada uma edificação confrontando o terreno com a via pública, deverá proceder-se ao alargamento da via e à execução do passeio e parqueamento automóvel em conformidade com as disposições do presente Plano, sendo recuado o respectivo muro de vedação.
 
-###### Artigo 58.º — Entrada em vigor
+Artigo 58.º
+
+Entrada em vigor
 
 O presente Plano entra em vigor no dia seguinte ao da sua publicação no Diário da República.»
 

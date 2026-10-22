@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/229/2012/05/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/229-2012-177866
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-23T00:00:00Z'
+  retrieved_at: '2026-10-22T18:24:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 266135cb7383602c4c68872612a017f058bd852d5613459dc3c031b2ad0e7de9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 145db7bff3011117cea784cf62d1d87e79e2dfad526c4305e52f85b4a258e8b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:24:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Infracção Disciplinar
-- Inconstitucionalidade
 - Forças Armadas
-- Sanção Penal
-- Regulamento de Disciplina Militar
+- Inconstitucionalidade
+- Infracção Disciplinar
 - Militar
+- Recurso
+- Regulamento de Disciplina Militar
+- Sanção Penal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/2/2009/01/12/p/dre
@@ -93,16 +93,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/2/2009/07/22/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2009/07/22/p/dre
+- type: cites
+  target: pt:dre:374846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636948:por
+  label: null
+  source: null
 article_structure:
-  article_count: 35
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:24:03Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +151,9 @@ Infração disciplinar
 
 Constitui infração disciplinar o facto, comissivo ou omissivo, ainda que negligente, praticado em violação de qualquer dos deveres militares.
 
-###### Artigo 11.º — Deveres gerais e especiais
+Artigo 11.º
+
+Deveres gerais e especiais
 
 1 - O militar deve, em todas as circunstâncias, pautar o seu procedimento pelos princípios da ética e da honra, conformando os seus atos pela obrigação de guardar e fazer guardar a Constituição e a lei, pela sujeição à condição militar e pela obrigação de assegurar a dignidade e o prestígio das Forças Armadas, aceitando, se necessário com sacrifício da própria vida, os riscos decorrentes das suas missões de serviço.
 
@@ -159,7 +185,9 @@ m) O dever de correção;
 
 n) O dever de aprumo.
 
-###### Artigo 12.º — Dever de obediência
+Artigo 12.º
+
+Dever de obediência
 
 1 - O dever de obediência consiste em cumprir, completa e prontamente, as ordens e instruções dimanadas de superior hierárquico, dadas em matéria de serviço, desde que o seu cumprimento não implique a prática de um crime.
 
@@ -181,7 +209,9 @@ g) Aceitar alojamento, alimentação, equipamento ou armamento que lhe tenha sid
 
 h) Não aceitar quaisquer homenagens a que não tenha direito ou que não sejam autorizadas superiormente.
 
-###### Artigo 13.º — Dever de autoridade
+Artigo 13.º
+
+Dever de autoridade
 
 1 - O dever de autoridade consiste em promover a disciplina, a coesão, a segurança, o valor e a eficácia das Forças Armadas, mantendo uma conduta esclarecida e respeitadora da dignidade humana e das regras de direito.
 
@@ -199,7 +229,9 @@ e) Não abusar da autoridade inerente à sua graduação, posto ou função;
 
 f) Presenciando crime punível com pena de prisão, procurar deter o seu autor, quando não estiver presente qualquer autoridade judiciária ou entidade policial, nem puderem estas ser chamadas em tempo útil.
 
-###### Artigo 14.º — Dever de disponibilidade
+Artigo 14.º
+
+Dever de disponibilidade
 
 1 - O dever de disponibilidade consiste na permanente prontidão para o serviço, ainda que com sacrifício dos interesses pessoais.
 
@@ -217,11 +249,15 @@ e) Conservar-se pronto e apto, física e intelectualmente, para o serviço, nome
 
 f) Comunicar com os seus superiores quando detido por qualquer autoridade, devendo esta facultar-lhe os meios necessários para o efeito.
 
-###### Artigo 15.º — Dever de tutela
+Artigo 15.º
+
+Dever de tutela
 
 O dever de tutela consiste em zelar pelos interesses dos subordinados e dar conhecimento, através da via hierárquica, dos problemas de que o militar tenha conhecimento e àqueles digam respeito.
 
-###### Artigo 16.º — Dever de lealdade
+Artigo 16.º
+
+Dever de lealdade
 
 1 - O dever de lealdade consiste em guardar e fazer guardar a Constituição e demais leis e no desempenho de funções em subordinação aos objetivos de serviço na perspetiva da prossecução das missões das Forças Armadas.
 
@@ -239,7 +275,9 @@ e) Não se servir, sem para isso estar autorizado, dos meios de comunicação so
 
 f) Informar previamente o superior hierárquico quando apresente queixa contra este.
 
-###### Artigo 17.º — Dever de zelo
+Artigo 17.º
+
+Dever de zelo
 
 1 - O dever de zelo consiste na dedicação integral e permanente ao serviço, no conhecimento das leis, regulamentos e instruções aplicáveis e no aperfeiçoamento dos conhecimentos, através de um processo de formação contínua, por forma a melhorar o desempenho das Forças Armadas no cumprimento das missões que lhes forem cometidas.
 
@@ -259,13 +297,17 @@ f) Velar pela conservação dos bens patrimoniais que lhe estejam confiados;
 
 g) Participar, sem delongas, à autoridade competente a existência de algum crime ou infração disciplinar que descubra ou de que tenha conhecimento.
 
-###### Artigo 18.º — Dever de camaradagem
+Artigo 18.º
+
+Dever de camaradagem
 
 1 - O dever de camaradagem consiste na adoção de um comportamento que privilegie a coesão, a solidariedade e a coordenação de esforços individuais, de modo a consolidar o espírito de corpo e a valorizar a eficiência das Forças Armadas.
 
 2 - Em cumprimento do dever de camaradagem incumbe ao militar, designadamente, manter toda a correção e boa convivência nas relações com os camaradas, evitando rixas, contendas ou discussões prejudiciais à harmonia que deve existir nas Forças Armadas.
 
-###### Artigo 19.º — Dever de responsabilidade
+Artigo 19.º
+
+Dever de responsabilidade
 
 1 - O dever de responsabilidade consiste em assumir uma conduta e uma postura éticas que respeitem integralmente o conteúdo dos deveres militares, com aceitação da autoria, da responsabilidade dos atos e dos riscos físicos e morais decorrentes das missões de serviço.
 
@@ -275,15 +317,21 @@ a) Assumir a responsabilidade dos atos que praticar por sua iniciativa e dos pra
 
 b) Não interferir no serviço de qualquer autoridade.
 
-###### Artigo 20.º — Dever de isenção política
+Artigo 20.º
+
+Dever de isenção política
 
 O dever de isenção dos militares consiste no seu rigoroso apartidarismo, não podendo usar a sua arma, o seu posto ou a sua função para qualquer intervenção política, partidária ou sindical.
 
-###### Artigo 21.º — Dever de sigilo
+Artigo 21.º
+
+Dever de sigilo
 
 O dever de sigilo consiste em guardar segredo relativamente a factos e matérias de que o militar tenha ou tenha tido conhecimento, em virtude do exercício das suas funções, e que não devam ser revelados, nomeadamente os referentes ao dispositivo, à capacidade militar, ao equipamento e à atividade operacional das Forças Armadas, bem como, os elementos constantes de centros de dados e demais registos sobre o pessoal que não devam ser do conhecimento público.
 
-###### Artigo 22.º — Dever de honestidade
+Artigo 22.º
+
+Dever de honestidade
 
 1 - O dever de honestidade consiste em atuar com independência em relação aos interesses em presença e em não retirar vantagens, diretas ou indiretas, das funções exercidas.
 
@@ -295,7 +343,9 @@ b) Não se apoderar de bens que não lhe pertençam, nem utilizar bens do Estado
 
 c) Não se valer da sua autoridade, posto ou função, nem invocar o nome de superior para obter qualquer lucro ou vantagem.
 
-###### Artigo 23.º — Dever de correção
+Artigo 23.º
+
+Dever de correção
 
 1 - O dever de correção consiste no tratamento respeitoso entre militares, bem como entre estes e as pessoas em geral.
 
@@ -317,7 +367,9 @@ g) Não advertir qualquer militar na presença de militar de graduação inferio
 
 h) Qualquer que seja a sua graduação, não elogiar ou advertir os seus subordinados ou inferiores hierárquicos na presença de superior, sem previamente pedir a este autorização.
 
-###### Artigo 24.º — Dever de aprumo
+Artigo 24.º
+
+Dever de aprumo
 
 1 - O dever de aprumo consiste na correta apresentação pessoal, em serviço ou fora dele, nomeadamente quando se faça uso de uniforme.
 
@@ -327,7 +379,9 @@ a) Apresentar-se devidamente uniformizado, quando faça uso do uniforme;
 
 b) Cuidar da limpeza e conservação dos artigos de fardamento, armamento, viaturas, equipamento e quaisquer outros que lhe forem distribuídos ou estejam a seu cargo, bem como cuidar com zelo de qualquer animal que lhe tenha sido entregue para serviço ou tratamento.
 
-###### Artigo 30.º — Penas aplicáveis
+Artigo 30.º
+
+Penas aplicáveis
 
 1 - As penas aplicáveis pela prática de infração disciplinar são, por ordem crescente de gravidade, as seguintes:
 
@@ -353,11 +407,15 @@ b) Separação de serviço.
 
 5 - Aos alunos a que se refere o n.º 2 do artigo 6.º que à data do seu ingresso nos estabelecimentos de ensino não sejam militares são aplicáveis, por violação dos deveres militares, as penas de repreensão, repreensão agravada ou proibição de saída.
 
-###### Artigo 31.º — Repreensão
+Artigo 31.º
+
+Repreensão
 
 A pena de repreensão consiste na declaração feita ao infrator, em particular, de que sofre reparo por ter praticado uma infração disciplinar.
 
-###### Artigo 32.º — Repreensão agravada
+Artigo 32.º
+
+Repreensão agravada
 
 A pena de repreensão agravada consiste na declaração feita ao infrator de que sofre reparo por ter praticado uma infração disciplinar, sendo efetuada nos seguintes termos:
 
@@ -365,7 +423,9 @@ a) A repreensão agravada a oficiais e sargentos é dada na presença de outros 
 
 b) A repreensão agravada a cabos é dada na presença de praças do mesmo posto, de antiguidade superior à sua, e às outras praças é dada em formatura da companhia, ou equivalente da unidade, estabelecimento ou órgão a que pertencerem ou em que estiverem apresentadas.
 
-###### Artigo 33.º — Proibição de saída
+Artigo 33.º
+
+Proibição de saída
 
 1 - A pena de proibição de saída consiste na permanência continuada do militar punido no aquartelamento ou navio a que pertencer durante o seu cumprimento, com duração não superior a 20 dias, sem dispensa das formaturas e do serviço que, por escala, lhe competir.
 
@@ -375,15 +435,21 @@ b) A repreensão agravada a cabos é dada na presença de praças do mesmo posto
 
 4 - Na Marinha, o cumprimento desta pena é interrompido durante o tempo de navegação.
 
-###### Artigo 34.º — Suspensão de serviço
+Artigo 34.º
+
+Suspensão de serviço
 
 A pena de suspensão de serviço traduz-se no afastamento completo do serviço pelo período que for fixado, entre cinco e 90 dias.
 
-###### Artigo 35.º — Prisão disciplinar
+Artigo 35.º
+
+Prisão disciplinar
 
 A pena de prisão disciplinar consiste na retenção do infrator por um período de um a 30 dias, em instalação militar, designadamente no quartel ou a bordo do navio.
 
-###### Artigo 36.º — Reforma compulsiva
+Artigo 36.º
+
+Reforma compulsiva
 
 1 - A pena de reforma compulsiva consiste na passagem à situação de reforma, por motivo disciplinar.
 
@@ -391,19 +457,25 @@ A pena de prisão disciplinar consiste na retenção do infrator por um período
 
 3 - Quando o infrator não reúna o condicionalismo estatutário para a reforma é abatido aos quadros das Forças Armadas, contando-se-lhe para efeito de reforma, nos termos gerais, todo o tempo de serviço prestado.
 
-###### Artigo 37.º — Separação de serviço
+Artigo 37.º
+
+Separação de serviço
 
 1 - A separação de serviço consiste no afastamento definitivo das Forças Armadas, com perda da condição de militar, abate aos quadros permanentes e privação do uso de uniforme, distintivos, insígnias e medalhas militares, sem prejuízo do direito à pensão de reforma.
 
 2 - A pena de separação de serviço é aplicável ao militar cujo comportamento, pela sua excecional gravidade, se revele incompatível com a permanência nos quadros das Forças Armadas.
 
-###### Artigo 38.º — Cessação compulsiva dos regimes de voluntariado ou de contrato
+Artigo 38.º
+
+Cessação compulsiva dos regimes de voluntariado ou de contrato
 
 1 - A pena de cessação compulsiva do regime de voluntariado ou de contrato consiste no termo do vínculo funcional que liga o militar que preste serviço num desses regimes.
 
 2 - A pena referida no número anterior é aplicável por violação grave de deveres militares que revele incompatibilidade com a sua permanência nas Forças Armadas.
 
-###### Artigo 39.º — Escolha e medida das penas
+Artigo 39.º
+
+Escolha e medida das penas
 
 Na escolha da pena a aplicar e na medida desta atender-se-á, segundo juízos de proporcionalidade:
 
@@ -423,7 +495,9 @@ g) Aos resultados perturbadores na disciplina;
 
 h) Às demais circunstâncias em que a infração tiver sido cometida, que militem contra ou a favor do infrator.
 
-###### Artigo 40.º — Circunstâncias agravantes
+Artigo 40.º
+
+Circunstâncias agravantes
 
 1 - São circunstâncias agravantes da responsabilidade disciplinar:
 
@@ -453,17 +527,23 @@ j) A premeditação.
 
 4 - A premeditação consiste no desígnio formado vinte e quatro horas antes, pelo menos, da prática da infração.
 
-###### Artigo 45.º — Produção dos efeitos das penas
+Artigo 45.º
+
+Produção dos efeitos das penas
 
 1 - As penas disciplinares produzem unicamente os efeitos declarados no presente Regulamento, sem prejuízo das consequências no âmbito da avaliação de mérito, nos termos da lei.
 
 2 - Quando não haja possibilidade de fazer cumprir efetivamente as penas disciplinares, todos os seus efeitos se produzem, como se tivessem sido cumpridas.
 
-###### Artigo 46.º — Efeitos da pena de proibição de saída
+Artigo 46.º
+
+Efeitos da pena de proibição de saída
 
 A pena de proibição de saída pode implicar, quando imposta a oficial ou sargento, a transferência da unidade, estabelecimento ou órgão a que pertencer, após o cumprimento da pena, a pedido do punido ou sob proposta do comandante, diretor ou chefe, quando, face à natureza ou gravidade da falta, a sua presença no meio em que cometeu a infração for considerada incompatível com o decoro, a disciplina, a boa ordem do serviço ou o prestígio das Forças Armadas.
 
-###### Artigo 47.º — Efeitos da pena de suspensão de serviço
+Artigo 47.º
+
+Efeitos da pena de suspensão de serviço
 
 A pena de suspensão de serviço implica para todos os militares:
 
@@ -475,7 +555,9 @@ c) A perda, durante o período da sua execução, de suplementos, subsídios e d
 
 d) A impossibilidade de ser promovido durante o período de execução da pena.
 
-###### Artigo 48.º — Efeitos da pena de prisão disciplinar
+Artigo 48.º
+
+Efeitos da pena de prisão disciplinar
 
 A pena de prisão disciplinar implica, para todos os militares:
 
@@ -487,17 +569,23 @@ c) A perda, durante o período da sua execução, de suplementos e subsídios e 
 
 d) A impossibilidade de ser promovido durante o período de execução da pena.
 
-###### Artigo 49.º — Efeitos da pena de cessação compulsiva dos regimes de voluntariado ou de contrato
+Artigo 49.º
+
+Efeitos da pena de cessação compulsiva dos regimes de voluntariado ou de contrato
 
 Sem prejuízo do disposto em legislação especial, a pena de cessação compulsiva dos regimes de voluntariado ou de contrato implica a impossibilidade do infrator ser opositor a concursos para ingresso nos quadros permanentes das Forças Armadas.
 
-###### Artigo 51.º — Momento do cumprimento da pena
+Artigo 51.º
+
+Momento do cumprimento da pena
 
 1 - Sem prejuízo do disposto no número seguinte, as penas disciplinares militares são cumpridas logo que expirado o prazo para a interposição do recurso hierárquico sem que este tenha sido apresentado ou, tendo-o sido, logo que lhe seja negado provimento.
 
 2 - As penas de repreensão e de repreensão agravada são cumpridas imediatamente a seguir à decisão que as aplicou.
 
-###### Artigo 76.º — Natureza secreta do processo
+Artigo 76.º
+
+Natureza secreta do processo
 
 1 - O processo disciplinar é de natureza secreta até à notificação da acusação.
 
@@ -507,7 +595,9 @@ Sem prejuízo do disposto em legislação especial, a pena de cessação compuls
 
 4 - O indeferimento do requerimento referido no número anterior deve ser fundamentado e comunicado ao interessado no prazo de sete dias.
 
-###### Artigo 94.º — Diligências
+Artigo 94.º
+
+Diligências
 
 1 - O instrutor autua a participação, queixa, denúncia, auto ou ofício que contenha o despacho liminar de instauração e procederá às diligências convenientes para a instrução, designadamente ouvindo o participante, o queixoso, o denunciante e as testemunhas conhecidas, procedendo a exames e mais diligências que possam esclarecer a verdade e fazendo juntar aos autos o certificado do registo disciplinar do arguido.
 
@@ -521,7 +611,9 @@ Sem prejuízo do disposto em legislação especial, a pena de cessação compuls
 
 6 - O instrutor pode solicitar a realização de diligências de prova a outros serviços e organismos da administração central, regional ou local, quando o julgue conveniente, designadamente por razões de proximidade e de celeridade, sempre que as não possa realizar no âmbito das Forças Armadas.
 
-###### Artigo 103.º — Diligências de prova
+Artigo 103.º
+
+Diligências de prova
 
 1 - O instrutor deve realizar as diligências requeridas pelo arguido no prazo de 15 dias, prorrogável por despacho fundamentado da entidade que mandou instaurar o processo.
 
@@ -531,7 +623,9 @@ Sem prejuízo do disposto em legislação especial, a pena de cessação compuls
 
 4 - Finda a produção da prova oferecida pelo arguido, o instrutor pode ainda ordenar, em despacho fundamentado, as diligências consideradas indispensáveis para o completo esclarecimento da verdade.
 
-###### Artigo 123.º — Subida e efeitos
+Artigo 123.º
+
+Subida e efeitos
 
 1 - O recurso hierárquico interposto de decisão que não ponha termo ao processo sobe com a decisão final, e apenas se dela se recorrer.
 

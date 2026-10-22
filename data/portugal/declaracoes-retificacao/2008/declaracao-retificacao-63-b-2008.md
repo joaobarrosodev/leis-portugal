@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 204/2008, 1º Suplemento, Série I de 2008-10-21
   number: '204'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7486-(2) a 7486-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/10/20401/0000200006.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/63-b/2008/10/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/63-b-2008-155867
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:10:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15e28899b01ebc9cf9ba51ee49e76c5ba5f05742993bbbf7d6bcb05742b0eccf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e15e58a1a4fe878545109c42accfbff19d4ca0ab140867ad0fbea3bbfc30474e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:10:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
-- Ordenamento do Território
 - Definição de Competências
-- Fiscalização
 - Direcção Geral do Ordenamento do Território e Desenvolvimento Urbano
+- Fiscalização
+- Ordenamento do Território
 - Regime Jurídico
+- Reserva Ecológica Nacional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
@@ -82,16 +82,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/166/2008/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/166/2008/08/22/p/dre
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:166/2008
+  label: "Rectifica o Decreto-Lei n.º 166/2008, de 22 de Agosto, DR.IS [162], e republica na integra o anexo II, na versão\
+    \ corrigida\0\0"
+  source: null
+  date: '2008-08-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:10:37Z'
   warnings: []
   errors: []
 ---
@@ -114,6 +128,6 @@ deve ler-se:
 
 Usos e acções compatíveis com os objectivos de protecção ecológica e ambiental e de prevenção e redução de riscos naturais de áreas integradas na REN
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/20401/0000200006.pdf))](https://files.diariodarepublica.pt/1s/2008/10/20401/0000200006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/20401/0000200006.pdf)
 
 Centro Jurídico, 21 de Outubro de 2008. - O Director-Adjunto, Pedro Delgado Alves.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/16/1996/11/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-1996-166775
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-28T00:00:00Z'
+  retrieved_at: '2026-10-22T18:47:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae1320b9960d1ea484b87e055e357401bb87b6a4a91bb4271dba31309096a569
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1961eb447232f01981efbf457c88833a168c2aba3c3c51b8e9f6c7847f71d62f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:47:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,46 +66,60 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Administração Pública
 - Aquisição de Bens e Serviços
-- Região Autónoma
 - Associação de Consumidores
+- Autarquia Local
 - Conselho Nacional do Consumo
 - Consumo
 - Cooperativa de Consumo
 - Criação de Serviços
 - Definição de Competências
 - Direito à Educação
+- Direito à Informação
 - Direitos Económicos
 - Direitos Sociais
-- Administração Pública
-- Instituto do Consumidor
-- Direito à Informação
 - Informação do Consumidor
-- Prestação de Serviços
+- Instituto do Consumidor
 - Madeira.região Autónoma
+- Prestação de Serviços
 - Proteção do Consumidor
+- Região Autónoma
 - Regime Jurídico
-- Açores
-- Autarquia Local
 relationships:
 - type: amended_by
   target: pt:dre:55021031:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:55021031:por
+  label: Alterado o art. 9º da Lei 24/96, de 31-jul, na redação do presente diploma pelo(a) Lei n.º 47/2014 - Diário da República
+    n.º 143/2014, Série I de 2014-07-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/47-2014-55021031
+  date: '2014-07-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/24/1996/07/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/24/1996/07/31/p/dre
+- type: cites
+  target: pt:dre:406882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575922:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:47:25Z'
   warnings: []
   errors: []
 ---

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/83/2026/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/83-2026-1053378384
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-19T00:00:00Z'
+  retrieved_at: '2026-10-22T18:32:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8006a39c42ffbfd04327fcd987d41f746acc9852bbf479bd078108f9277d9071
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d1fa90e382c5162cdea2676adafa7837b2f84544e277b84d9839fbf404b441b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Ajuda Comunitária
 - Beneficiário
-- Regulamentação de Atos Legislativos
 - Feader
 - Formulário Eletrónico
-- Pagamento
 - IFAP
+- Pagamento
+- Plano Estratégico da Política Agrícola Comum de Portugal
+- Regulamentação de Atos Legislativos
 - Regulamento CE
-- Agricultura
 - Subsídio
 - Subsídio a Agricultores
-- Plano Estratégico da Política Agrícola Comum de Portugal
 relationships:
+- type: amends
+  target: pt:numero:portaria:142/2025
+  label: Altera, a partir de 20 de fevereiro de 2026, com efeitos a 1 de abril de 2025, os artigos 5.º, 8.º, 9.º, 10.º, 11.º,
+    15.º, 16.º e 20.º e adita o artigo 21.º-A à Portaria n.º 142/2025/1, de 31 de março, Diário da República n.º 63/2025,
+    Série I
+  source: null
+  date: '2025-03-31'
 - type: cites
   target: celex:32021R1060
   label: null
@@ -100,16 +107,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/142/2025/03/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/142/2025/03/31/p/dre
+- type: cites
+  target: pt:dre:206478423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207760041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:913048494:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:32:43Z'
   warnings: []
   errors: []
 ---
@@ -272,7 +291,7 @@ As presentes tipologias de atividades contribuem para os objetivos específicos 
 
 O presente diploma entra em vigor no dia útil seguinte ao da sua publicação e produz efeitos a 1 de abril de 2025.
 
-**O Ministro da Agricultura e Mar, José Manuel Fernandes, em 13 de fevereiro de 2026.**
+O Ministro da Agricultura e Mar, José Manuel Fernandes, em 13 de fevereiro de 2026.
 
 ## ANEXO I — [...]
 
@@ -357,19 +376,19 @@ O presente diploma entra em vigor no dia útil seguinte ao da sua publicação e
 | Artigo 13.º DL [12/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2023-207760041) | Obrigações dos beneficiários | Número de incumprimentos verificados | Consequências do incumprimento |
 | --- | --- | --- | --- |
 | [...] | [...] | [...] | [...] |
+| [...] | [...] |  |  |
+| [...] | [...] | [...] | [...] |
+| [...] | [...] |  |  |
 | [...] | [...] | [...] | [...] |
 | [...] | [...] | [...] | [...] |
 | [...] | [...] | [...] | [...] |
+| [...] | [...] |  |  |
+| [...] | [...] | [...] | [...] |
+| [...] | [...] |  |  |
 | [...] | [...] | [...] | [...] |
 | [...] | [...] | [...] | [...] |
 | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] |  |  |
 | Artigo 9.º da presente portaria | Obrigações dos beneficiários | Número de incumprimentos verificados | Consequências do incumprimento |
 | [...] | [...] | [...] | [...] |
 | [...] | Divulgar todas as atividades promovidas e produtos desenvolvidos, no âmbito da operação, no portal da RNPAC, em www.rederural.gov.pt/, e na plataforma do AKIS, em https://akisportugal.pt/; | [...] | [...] |
@@ -377,4 +396,8 @@ O presente diploma entra em vigor no dia útil seguinte ao da sua publicação e
 | [...] | [...] | [...] | [...] |
 | n.º 3 d) | Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas em sede de pedido de pagamento; | Não aplicável | Exclusão dos pagamentos do apoio já realizados ou a realizar, relativos à operação pagos por conta que não a conta única e não exclusiva, em situações não devidamente justificadas |
 | n.º 3 e) | Garantir a execução das operações de acordo com o previsto no respetivo plano de ação, podendo, excecionalmente, a Autoridade de Gestão ou as entidades com competências delegadas para o efeito, prorrogar o prazo de conclusão do plano. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 % |
-| n.º 3 e) | Garantir a execução das operações de acordo com o previsto no respetivo plano de ação, podendo, excecionalmente, a Autoridade de Gestão ou as entidades com competências delegadas para o efeito, prorrogar o prazo de conclusão do plano. | 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 % |
+| 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 % |  |  |
+
+119947695
+
+.Tbl1 { margin-left:auto; } .Tbl2 { height:34px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:18px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { min-height:28px; } .Tbl10 { min-height:57px; } .Tbl11 { min-height:76px; } .Tbl12 { min-height:37px; } .Tbl13 { min-height:38px; }

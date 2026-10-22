@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 76/1994, 3º Suplemento, Série I-B de 1994-03-31
   number: '76'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 1586-(12) a 1586-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/03/076b03/00120012.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/42/1994/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/42-1994-517461
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:42:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0bef6a7e5343370334803aedf1ad1dd974ae36c27ee207b97a9efb34114c186f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77ca83a19c0fd1265491230ec43d7423f61adece529fc257a964df0a5b4009fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:42:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,20 +69,20 @@ reuse:
 subjects:
 - Actualização de Pensões
 - Administração Central
-- Função Pública
-- Ajudas de Custo
-- Pessoal Dirigente
+- Administração Local
 - Administração Pública
+- Administração Regional
+- Ajudas de Custo
+- Função Pública
+- Funcionário Público
+- Gratificação
 - Pensão de Aposentação
 - Pensão de Invalidez
 - Pensão de Preço de Sangue
-- Pensão de Sobrevivência
 - Pensão de Reforma
-- Administração Local
-- Gratificação
+- Pensão de Sobrevivência
+- Pessoal Dirigente
 - Remuneração
-- Funcionário Público
-- Administração Regional
 - Subsídio de Refeição
 - Subsídio de Viagem e Marcha
 relationships:
@@ -90,21 +90,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/79-a/1994/02/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/79-a/1994/02/04/p/dre
+- type: cites
+  target: pt:dre:501637:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:42:52Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 42/94
+# Declaração de rectificação n.º 42/94
 
 Segundo comunicação do Ministério das Finanças, a [Portaria n.º 79-A/94](https://diariodarepublica.pt/dr/detalhe/portaria/79-a-1994-501637), publicada no Diário da República, 1.ª série, n.º 29 (2.º suplemento), de 4 de Fevereiro de 1994, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 

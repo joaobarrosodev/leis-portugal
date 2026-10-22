@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 100/1998, 1º Suplemento, Série I-A de 1998-04-30
   number: '100'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1946-(2) a 1946-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/04/100a01/00020002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/9-b/1998/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-b-1998-276576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-30T00:00:00Z'
+  retrieved_at: '2026-10-22T18:52:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 255ef23818e79c3191a9424584db4c6e3c9568242b95b65660d886bde1f5fe91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3cc69c2e429df4b8cf839ed55b58bff2eb75faf59b9f7138962d0bc83910166d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:52:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,50 +70,54 @@ subjects:
 - Aposentação Bonificada
 - Autonomia Administrativa
 - Autonomia Financeira
-- Médico
 - Carreira de Especialista Superior de Medicina Legal
 - Carreira de Técnico-ajudante de Medicina Legal
+- Carreira Docente Universitária
 - Carreira Médica
 - Carreira Médica de Medicina Legal
-- Pessoal Dirigente
 - Conselho Médico-legal
 - Conselho Superior de Medicina Legal
-- Sistema Retributivo
+- Exame Médico
 - Exame Médico-forense
 - Formas de Provimento
 - Gabinete Médico-legal
-- Ministério da Justiça
 - Horas Extraordinárias
 - Instituto de Medicina Legal
 - Internato Complementar
 - Medicina Legal
-- Exame Médico
-- Carreira Docente Universitária
+- Médico
+- Ministério da Justiça
+- Óbito
 - Orgânica
 - Pessoa Coletiva
+- Pessoal Dirigente
 - Pessoal Técnico
 - Pessoal Técnico Auxiliar de Diagnóstico e Terapêutica
-- Serviço Público
 - Quadro de Pessoal
 - Receita Própria
 - Regime Jurídico
+- Serviço Público
 - Serviços Médico-legais
-- Óbito
+- Sistema Retributivo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/1998/01/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/11/1998/01/24/p/dre
+- type: cites
+  target: pt:dre:222631:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:52:21Z'
   warnings: []
   errors: []
 ---

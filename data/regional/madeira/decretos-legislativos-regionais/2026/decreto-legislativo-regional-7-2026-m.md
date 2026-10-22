@@ -139,6 +139,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/89/2019/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/89/2019/09/03/p/dre
+- type: cites
+  target: pt:dre:108010874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108041483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124392061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169175945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187136675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220219335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66071363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70128394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74226540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:899721506:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-legislativo-regional:27/2017/M
+  label: Revoga, a partir de 29 de maio de 2026, o Decreto Legislativo Regional n.º 27/2017/M, de 23 de agosto, Diário da
+    República n.º 162/2017, Série I
+  source: null
+  date: '2017-08-23'
 article_structure:
   article_count: 67
   section_count: 14

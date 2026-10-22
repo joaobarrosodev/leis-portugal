@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43880-1961-173965
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-11-08T00:00:00Z'
+  retrieved_at: '2026-10-22T19:25:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c2e93cf452f2e2bc7b57925c200d4fc16c27fae1d0bde6be8837467e5c6f1a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42dea692eeb333a562d60be835b3c9eeaf5fa91d38e8e8a82935378c2a3c46b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:25:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Angola
+- Cabo Verde
+- Criação de Serviços
+- Educação
+- Estabelecimento de Ensino
+- Guiné-Bissau
+- Moçambique
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:215774:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:251184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281455:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:215774:por
+  label: "Revogado o artigo 5.º e mantido o gabinete criado pelo artigo 1.º do presente diploma pelo Dec Lei.49367.08.11.1969.MU,\
+    \ DG.IS [262] de 08.11.1969\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49367-1969-215774
+  date: '1969-11-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:25:17Z'
   warnings: []
   errors: []
 ---
@@ -104,27 +126,27 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 Direcções dos Serviços de Instrução de Angola e Moçambique
 
-###### Artigo 1.º Para coadjuvar os directores de serviços na coordenação das actividades das repartições a que se refere o artigo 8.º do [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184), de 23 de Dezembro de 1957, e executar o expediente que pela sua natureza não deve ser atribuído às mesmas repartições, haverá nas Direcções dos Serviços de Instrução de Angola e Moçambique, subordinado ao respectivo director, um gabinete, constituído por um chefe de secção, um terceiro-oficial e um dactilógrafo ou dactilógrafa, para o que serão correspondentemente aumentados os quadros burocráticos dos serviços de instrução das duas províncias.
+Artigo 1.º Para coadjuvar os directores de serviços na coordenação das actividades das repartições a que se refere o artigo 8.º do [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184), de 23 de Dezembro de 1957, e executar o expediente que pela sua natureza não deve ser atribuído às mesmas repartições, haverá nas Direcções dos Serviços de Instrução de Angola e Moçambique, subordinado ao respectivo director, um gabinete, constituído por um chefe de secção, um terceiro-oficial e um dactilógrafo ou dactilógrafa, para o que serão correspondentemente aumentados os quadros burocráticos dos serviços de instrução das duas províncias.
 
 § único. O chefe de secção é provido por promoção entre os primeiros-oficiais por antiguidade nesta categoria.
 
 Repartições provinciais dos serviços de instrução
 
-###### Art. 2.º Para o exercício das atribuições que o [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184) confere às repartições provinciais de administração civil haverá, nas províncias em que forem criadas, repartições provinciais dos serviços de instrução, dirigidas por chefes de serviços provinciais, da categoria E, providos nos termos do § 1.º do artigo 36.º do Estatuto do Funcionalismo Ultramarino.
+Art. 2.º Para o exercício das atribuições que o [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184) confere às repartições provinciais de administração civil haverá, nas províncias em que forem criadas, repartições provinciais dos serviços de instrução, dirigidas por chefes de serviços provinciais, da categoria E, providos nos termos do § 1.º do artigo 36.º do Estatuto do Funcionalismo Ultramarino.
 
 § único. Quando assim tenha sido proposto pelo governador, justificando conveniência do serviço, podem as funções de chefe de serviços provinciais ser desempenhadas, em acumulação, pelo reitor do liceu ou director de escola técnica da capital da província, que receberá, em vez do vencimento do lugar de chefe de serviços, uma gratificação fixada pelo Ministro, ouvido o governador.
 
-###### Art. 3.º Ficam desde já criadas as Repartições Provinciais dos Serviços de Instrução das províncias de Cabo Verde e Guiné, em cada uma das quais fica extinto o lugar de adjunto do chefe dos serviços de instrução, e é criado um de inspector escolar.
+Art. 3.º Ficam desde já criadas as Repartições Provinciais dos Serviços de Instrução das províncias de Cabo Verde e Guiné, em cada uma das quais fica extinto o lugar de adjunto do chefe dos serviços de instrução, e é criado um de inspector escolar.
 
-###### Art. 4.º As Repartições Provinciais dos Serviços de Instrução de Cabo Verde e da Guiné terão o seguinte pessoal burocrático: um segundo-oficial, um terceiro-oficial, um aspirante e dois dactilógrafos.
+Art. 4.º As Repartições Provinciais dos Serviços de Instrução de Cabo Verde e da Guiné terão o seguinte pessoal burocrático: um segundo-oficial, um terceiro-oficial, um aspirante e dois dactilógrafos.
 
 § único. Estes funcionários, assim como os de secretaria dos liceus e escolas de ensino profissional, formam o «quadro burocrático dos serviços de instrução da província».
 
-###### Art. 5.º Na província de Cabo Verde pode o governador determinar a constituição, nas ilhas em que o volume dos serviços do ensino primário o torne necessário, de delegações da repartição provincial, a cargo de um professor daquele ensino, nomeado pelo mesmo governador e que actuará segundo instruções daquela repartição, podendo ser dispensado do serviço lectivo e ter direito a uma gratificação fixada pelo governador em portaria.
+Art. 5.º Na província de Cabo Verde pode o governador determinar a constituição, nas ilhas em que o volume dos serviços do ensino primário o torne necessário, de delegações da repartição provincial, a cargo de um professor daquele ensino, nomeado pelo mesmo governador e que actuará segundo instruções daquela repartição, podendo ser dispensado do serviço lectivo e ter direito a uma gratificação fixada pelo governador em portaria.
 
 Chefes das repartições das Direcções de Serviços de Instrução
 
-###### Art. 6.º Na falta de concorrentes com as habilitações exigidas no artigo 46.º do [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184) poderão ser admitidos aos concursos:
+Art. 6.º Na falta de concorrentes com as habilitações exigidas no artigo 46.º do [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184) poderão ser admitidos aos concursos:
 
 1.ª Repartição: directores, inspectores, subdirectores escolares do ultramar, ou inspectores ou directores escolares da metrópole, em efectivo serviço;
 
@@ -140,43 +162,43 @@ Chefes das repartições das Direcções de Serviços de Instrução
 
 § 2.º Os chefes de repartição a que se refere este artigo que possuam as habilitações exigidas pelo artigo 46.º do [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184), têm, além de vencimento igual ao mais elevado dos professores efectivos dos liceus, ou do 2.º grau do ensino técnico, uma gratificação igual à mais elevada dos reitores dos liceus da mesma província, acrescida de 50 por cento.
 
-###### Art. 7.º Os lugares de chefes da 1.ª Repartição dos Serviços de Instrução de Angola e Moçambique podem ser providos, com dispensa de concurso e de habilitações académicas, mediante propostas dos governadores, nos inspectores escolares que serviam à data da entrada em vigor do [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184).
+Art. 7.º Os lugares de chefes da 1.ª Repartição dos Serviços de Instrução de Angola e Moçambique podem ser providos, com dispensa de concurso e de habilitações académicas, mediante propostas dos governadores, nos inspectores escolares que serviam à data da entrada em vigor do [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184).
 
-###### Art. 8.º Na escolha a que se refere o § único do artigo 6.º do [Decreto n.º 42954](https://diariodarepublica.pt/dr/detalhe/decreto/42954-1960-281455), de 27 de Abril de 1960, o qual é também aplicável aos inspectores a que se refere o artigo 6.º do mesmo decreto, deve ser atendida sómente a qualidade dos serviços prestados pela pessoa escolhida, em funções anteriores, sem qualquer exigência de habilitações académicas.
+Art. 8.º Na escolha a que se refere o § único do artigo 6.º do [Decreto n.º 42954](https://diariodarepublica.pt/dr/detalhe/decreto/42954-1960-281455), de 27 de Abril de 1960, o qual é também aplicável aos inspectores a que se refere o artigo 6.º do mesmo decreto, deve ser atendida sómente a qualidade dos serviços prestados pela pessoa escolhida, em funções anteriores, sem qualquer exigência de habilitações académicas.
 
 Secções administrativas dos distritos escolares de 1.ª classe
 
-###### Art. 9.º Os governadores-gerais podem determinar a constituição, nas repartições escolares distritais de 1.ª classe, de secções administrativas, nas quais estejam representados os serviços de Fazenda e obras públicas, destinadas a prover às necessidades urgentes da manutenção, conservação das instalações escolares, mobiliário e material.
+Art. 9.º Os governadores-gerais podem determinar a constituição, nas repartições escolares distritais de 1.ª classe, de secções administrativas, nas quais estejam representados os serviços de Fazenda e obras públicas, destinadas a prover às necessidades urgentes da manutenção, conservação das instalações escolares, mobiliário e material.
 
 § único. As secções administrativas funcionarão sob a superintendência dos directores escolares distritais e terão orçamentos, anualmente aprovados pelos governos-gerais, os quais poderão autorizar a admissão do pessoal técnico indispensável para a execução dos serviços compreendidos na competência daquelas secções.
 
 Distritos escolares de Luanda, Lourenço Marques, Benguela e Huambo
 
-###### Art. 10.º São dotados de repartições escolares os distritos de Luanda e Lourenço Marques.
+Art. 10.º São dotados de repartições escolares os distritos de Luanda e Lourenço Marques.
 
-###### Art. 11.º Além dos referidos no artigo 54.º do [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184), são de 1.ª classe os distritos escolares de Benguela, e Huambo.
+Art. 11.º Além dos referidos no artigo 54.º do [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184), são de 1.ª classe os distritos escolares de Benguela, e Huambo.
 
 Directores escolares distritais e inspectores escolares; pessoal dos quadros burocráticos de Angola e Moçambique
 
-###### Art. 12.º Os directores escolares distritais passam a ser de 1.ª ou 2.ª classe.
+Art. 12.º Os directores escolares distritais passam a ser de 1.ª ou 2.ª classe.
 
 § 1.º Os directores de 1.ª classe têm a categoria F e são providos mediante concursos de provas públicas, cujo regime de admissão é o estabelecido para os lugares de chefes das Repartições 1.ª a 5.ª
 
 § 2.º Aplicam-se aos directores de 1.ª classe as disposições do corpo do artigo 6.º e seu § 2.º deste decreto-lei.
 
-###### Art. 13.º A direcção dos distritos escolares de 1.ª classe só pode ser exercida por directores de 1.ª classe e não haverá neles subdirectores, competindo as correspondentes funções a adjuntos, que são providos em directores escolares de 2.ª classe.
+Art. 13.º A direcção dos distritos escolares de 1.ª classe só pode ser exercida por directores de 1.ª classe e não haverá neles subdirectores, competindo as correspondentes funções a adjuntos, que são providos em directores escolares de 2.ª classe.
 
-###### Art. 14.º Os directores escolares de 2.ª classe são providos mediante concurso de provas públicas, a que são admitidos subdirectores em exercício com boas informações.
+Art. 14.º Os directores escolares de 2.ª classe são providos mediante concurso de provas públicas, a que são admitidos subdirectores em exercício com boas informações.
 
 § único. O disposto no § único do artigo 47.º do [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184) respeita sòmente a directores escolares de 2.ª classe.
 
-###### Art. 15.º Para satisfação dos artigos 9.º, 10.º e 12.º do presente decreto, e ainda da elevação à 2.ª classe dos distritos escolares de Gaza e Inhambane, já determinada ao abrigo do § 2.º do artigo 9.º do [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184), são criados os seguintes lugares:
+Art. 15.º Para satisfação dos artigos 9.º, 10.º e 12.º do presente decreto, e ainda da elevação à 2.ª classe dos distritos escolares de Gaza e Inhambane, já determinada ao abrigo do § 2.º do artigo 9.º do [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184), são criados os seguintes lugares:
 
 Em Angola: quatro directores escolares de 1.ª classe.
 
 Em Moçambique: dois directores escolares de 1.ª classe, dois de 2.ª classe e dois de subdirectores.
 
-###### Art. 16.º São aumentados os seguintes lugares nos quadros burocráticos dos serviços de instrução:
+Art. 16.º São aumentados os seguintes lugares nos quadros burocráticos dos serviços de instrução:
 
 Em Angola:
 
@@ -194,31 +216,31 @@ Para o distrito escolar de Gaza: um segundo-oficial, um terceiro-oficial, um asp
 
 Para o distrito escolar de Inhambane: um segundo-oficial e um dactilógrafo ou dactilógrafa.
 
-###### Art. 17.º É elevado a cinco em cada uma das províncias de Angola e Moçambique o número de inspectores escolares a que se refere o artigo 42.º do [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184), de 23 de Dezembro de 1957.
+Art. 17.º É elevado a cinco em cada uma das províncias de Angola e Moçambique o número de inspectores escolares a que se refere o artigo 42.º do [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184), de 23 de Dezembro de 1957.
 
 Instituição de subinspectores escolares em Angola e Moçambique
 
-###### Art. 18.º Na inspecção dos serviços do ensino primário, tanto comum como de adaptação, os inspectores escolares serão, nas mesmas províncias, coadjuvados por subinspectores escolares, em número de quinze em cada uma delas.
+Art. 18.º Na inspecção dos serviços do ensino primário, tanto comum como de adaptação, os inspectores escolares serão, nas mesmas províncias, coadjuvados por subinspectores escolares, em número de quinze em cada uma delas.
 
-###### Art. 19.º Os subinspectores escolares têm a categoria L e são providos por meio de concursos de provas públicas, regulamentados pelos governadores e a que podem ser admitidos professores do ensino primário com, pelo menos, 14 valores de diploma e cinco anos de bom serviço.
+Art. 19.º Os subinspectores escolares têm a categoria L e são providos por meio de concursos de provas públicas, regulamentados pelos governadores e a que podem ser admitidos professores do ensino primário com, pelo menos, 14 valores de diploma e cinco anos de bom serviço.
 
-###### Art. 20.º É aplicável aos subinspectores escolares o disposto no artigo 50.º do [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184), entendendo-se que, em regra, a cada inspector escolar correspondem três subinspectores.
+Art. 20.º É aplicável aos subinspectores escolares o disposto no artigo 50.º do [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184), entendendo-se que, em regra, a cada inspector escolar correspondem três subinspectores.
 
-###### Art. 21.º Os subinspectores escolares com cinco anos de bom serviço podem ser admitidos aos concursos para subdirectores escolares.
+Art. 21.º Os subinspectores escolares com cinco anos de bom serviço podem ser admitidos aos concursos para subdirectores escolares.
 
 Disposições gerais e transitórias
 
-###### Art. 22.º O Ministro do Ultramar e os governadores em portaria podem atribuir gratificações aos componentes dos júris de concursos a que se refere o [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184) e o presente.
+Art. 22.º O Ministro do Ultramar e os governadores em portaria podem atribuir gratificações aos componentes dos júris de concursos a que se refere o [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184) e o presente.
 
 § único. Os respectivos encargos recaiem sobre as províncias a que respeitem os lugares a prover, devendo ser rateados segundo despacho ministerial quando respeitem a mais de uma.
 
-###### Art. 23.º Serão contratados dois contínuos para a Direcção dos Serviços da província de Moçambique.
+Art. 23.º Serão contratados dois contínuos para a Direcção dos Serviços da província de Moçambique.
 
-###### Art. 24.º Os governadores das províncias a que se refere este decreto ficam autorizados a abrir, observadas as disposições legais aplicáveis, os créditos especiais necessários para suportarem os encargos por ele criados, servindo de contrapartida disponibilidades ou recursos orçamentais.
+Art. 24.º Os governadores das províncias a que se refere este decreto ficam autorizados a abrir, observadas as disposições legais aplicáveis, os créditos especiais necessários para suportarem os encargos por ele criados, servindo de contrapartida disponibilidades ou recursos orçamentais.
 
-###### Art. 25.º São revogados os diplomas legislativos ministeriais n.os 12 e 15, dados em Luanda em 1 de Abril de 1961.
+Art. 25.º São revogados os diplomas legislativos ministeriais n.os 12 e 15, dados em Luanda em 1 de Abril de 1961.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Agosto de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

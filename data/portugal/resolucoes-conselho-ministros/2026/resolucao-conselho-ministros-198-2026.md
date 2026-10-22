@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/10/19900/0001300021.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,25 +47,53 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/198/2026/10/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/198-2026-1180100661
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-10-14T00:00:00Z'
+  retrieved_at: '2026-10-22T18:54:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61ee2cdb7a8e2f2d0c3c83783e76f3d3b16ba6b11c68e233d97c32f4097c6b9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78ed64a400c3bf510b72e2440288288b92c310720ce5063a3057514b48cd6a33
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:54:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autarquia Local
+- Autorização de Despesas
+- Código dos Contratos Públicos
+- Combustível
+- Conselho de Ministros
+- Delegação de Competências
+- Empresa Municipal
+- Entidade de Serviços Partilhados da Administração Pública
+- Governo XXV
+- Lista de Entidades
+- Ministro da Administração Interna
+- Ministro da Agricultura e Mar
+- Ministro da Cultura Juventude e Desporto
+- Ministro da Defesa Nacional
+- Ministro da Economia e da Coesão Territorial
+- Ministro da Educação Ciência e Inovação
+- Ministro da Justiça
+- Ministro da Presidência
+- Ministro da Reforma do Estado e da Administração Pública
+- Ministro da Saúde
+- Ministro das Finanças
+- Ministro das Finanças e Plano
+- Ministro do Ambiente e Energia
+- Ministro do Trabalho Solidariedade e Segurança Social
+- Ministro dos Negócios Estrangeiros
+- Supremo Tribunal Administrativo
+- Supremo Tribunal da Justiça
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/117-a/2012/06/14/p/dre
@@ -99,16 +127,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/78/2017/06/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/78/2017/06/06/p/dre
+- type: cites
+  target: pt:dre:107477149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:54:51Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +203,7 @@ Nos termos da alínea e) do n.º 1 do artigo 17.º, do n.º 1 do artigo 22.º e 
 
 Presidência do Conselho de Ministros, 1 de outubro de 2026. - O Primeiro-Ministro, Luís Montenegro.
 
-## ANEXO — (a que se referem os n.<sup>os</sup> 1, 2 e 4)
+## ANEXO — (a que se referem os n.os 1, 2 e 4)
 
 | Número de identificação de pessoa coletiva | Designação da entidade | Valor sem IVA 2027 |
 | --- | --- | --- |
@@ -386,4 +446,8 @@ Presidência do Conselho de Ministros, 1 de outubro de 2026. - O Primeiro-Minist
 |  | Tribunais (órgão de soberania) |  |
 | 600006638 | Supremo Tribunal Administrativo | 16 385,00 € |
 | 600019039 | Supremo Tribunal de Justiça | 3 607,40 € |
-|  | Total (sem IVA) | 44 958 100,30 € |
+|  | **Total (sem IVA)** | **44 958 100,30 €** |
+
+119949702
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:34px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:24px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl9 { text-align:right; } .Tbl10 { min-height:18px; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl14 { min-height:31px; } .Tbl15 { min-height:20px; } .Tbl16 { min-height:21px; } .Tbl17 { min-height:25px; } .Tbl18 { min-height:28px; } .Tbl19 { min-height:23px; } .Tbl20 { text-align:justify; text-align-last:justify; } .Tbl21 { min-height:29px; } .Tbl22 { min-height:22px; } .Tbl23 { text-align:justify; text-align-last:center; }

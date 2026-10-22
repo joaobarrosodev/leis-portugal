@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 252/1994, 2º Suplemento, Série I-B de 1994-10-31
   number: '252'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 6554-(4) a 6554-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/10/252b02/00040004.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/184/1994/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/184-1994-533198
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-10-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:41:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 528595bc5461792eb3e49515394b44ecb88c75465f78f8baa5463c8204ee4ca3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c3c85b35a437bd9cd90807b4024b0e3f18381311a7865ea614306c2cf139cc8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:41:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviço Nacional de Saúde
 - Gestão Orçamental
 - Instituto de Gestão Informática e Financeira da Saúde
 - Orgânica
+- Serviço Nacional de Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/308/1993/09/02/p/dre
@@ -81,21 +81,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/832/1994/09/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/832/1994/09/17/p/dre
+- type: cites
+  target: pt:dre:586826:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:41:12Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 184/94
+# Declaração de rectificação n.º 184/94
 
 Segundo comunicação do Ministério da Saúde, a [Portaria n.º 832/94](https://diariodarepublica.pt/dr/detalhe/portaria/832-1994-586826), publicada no Diário da República, 1.ª série, n.º 216, de 17 de Setembro de 1994, cujo original se encontra nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/2/2026/01/21/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-21T00:00:00Z'
+  retrieved_at: '2026-10-22T18:29:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd52ad4466c5d8e1cce792c4d8174a7b6adc7ae5480394a473910cd1f230341a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4fce0038252b3de9102c0fb293a7fe2d92e72cda6f158db1082f8910771dceb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:29:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Energia Elétrica
+- Açores
 - Contrato de Aquisição de Energia
-- Licenciamento
+- Energia Elétrica
 - Entidade Reguladora dos Serviços Energéticos
-- Serviço Público
+- Licenciamento
+- Operador de Energia Elétrica
 - Produção de Energia Elétrica
 - Proteção do Consumidor
-- Açores
-- Sistema Elétrico Nacional
-- Operador de Energia Elétrica
+- Serviço Público
 - Sistema Elétrico
+- Sistema Elétrico Nacional
 relationships:
 - type: cites
   target: celex:32019L0944
@@ -126,16 +126,102 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/24/1996/07/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/24/1996/07/31/p/dre
+- type: cites
+  target: pt:dre:143320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177634016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204502328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216251910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216251911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216251912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216251913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216251914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216305856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216305857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216305858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-legislativo-regional:5/2010/A
+  label: Revoga, a partir de 20 de julho de 2026, o n.º 2 do artigo 15.º do Decreto Legislativo Regional n.º 5/2010/A, de
+    23 de fevereiro, Diário da República n.º 37/2010, Série I
+  source: null
+  date: '2010-02-23'
 article_structure:
   article_count: 121
   section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:29:47Z'
   warnings: []
   errors: []
 ---
@@ -950,7 +1036,7 @@ A direção regional competente em matéria de energia exerce as competências d
 
 5 - A produção de energia elétrica através da valorização energética de resíduos sólidos urbanos, pelas empresas das Associações de Municípios das ilhas de São Miguel e Terceira, pela sua relevância no processo de gestão dos resíduos da Região, e pela sua natureza tecnológica, tem prioridade de injeção na rede, sendo esta precedida apenas pela produção de eletricidade com base em fontes de energia geotérmica e hídrica.
 
-6 - Sem prejuízo do disposto nos n.<sup>os</sup>4 e 5, é dada prioridade à integração da produção das restantes instalações de produção independente de acordo com os critérios estabelecidos em decreto regulamentar regional, até ao limite referido no n.º 3.
+6 - Sem prejuízo do disposto nos n.os4 e 5, é dada prioridade à integração da produção das restantes instalações de produção independente de acordo com os critérios estabelecidos em decreto regulamentar regional, até ao limite referido no n.º 3.
 
 7 - A gestão da injeção de energia elétrica na RESPA deve observar, ainda, critérios de custo, eficiência económica, ordem de mérito económico e redução de emissões, garantindo a segurança, estabilidade e qualidade de serviço do sistema elétrico, em conformidade com a regulamentação aplicável e as orientações da ERSE.
 
@@ -1310,7 +1396,7 @@ Sem prejuízo da legislação aplicável à criação de ZLT, compete aos membro
 
 2 - A quota de capacidade a atribuir às ZLT, referenciada no número anterior, não deve prejudicar a injeção da produção de instalações de produção a partir de fontes renováveis e recursos endógenos da RAA em exploração.
 
-3 - No âmbito das atividades de produção em ZLT, a injeção na RESPA referida nos números anteriores deve respeitar os critérios de injeção de energia elétrica estabelecidos nos n.<sup>os</sup>4 e 5 do artigo 54.º, bem como no decreto regulamentar regional referido no n.º 6 do mesmo artigo.
+3 - No âmbito das atividades de produção em ZLT, a injeção na RESPA referida nos números anteriores deve respeitar os critérios de injeção de energia elétrica estabelecidos nos n.os4 e 5 do artigo 54.º, bem como no decreto regulamentar regional referido no n.º 6 do mesmo artigo.
 
 ###### Artigo 90.º — Infraestruturas
 
@@ -1628,10 +1714,12 @@ O presente diploma entra em vigor no prazo de 180 dias após a sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 9 de dezembro de 2025.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 19 de janeiro de 2026.**
+Assinado em Angra do Heroísmo em 19 de janeiro de 2026.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+119947328

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/asst/17/1994/12/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/assento/17-1994-568535
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-12-03T00:00:00Z'
+  retrieved_at: '2026-10-22T18:27:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb71b2fb596dc7cd0f8d91627ebbe994ba9d9349e4f1b1384ea722869b4acf0d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 670eb9220a58e661c411d13f6fbde1b1e18a0d5618ee09b293861e7a10969744
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:27:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assinatura Reconhecida
-- Instituição de Crédito
-- Contrato
-- Documento Autentico
 - Banca
-- Interpretação do Direito
-- Direito Comercial
-- Letras e Livranças
-- Títulos de Crédito
+- Contrato
 - Crédito Bancário
+- Direito Comercial
+- Documento Autentico
+- Instituição de Crédito
+- Interpretação do Direito
+- Letras e Livranças
 - Profissão Comercial
+- Títulos de Crédito
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/181/1992/08/22/p/dre
@@ -86,16 +86,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/298/1992/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/298/1992/12/31/p/dre
+- type: cites
+  target: pt:dre:196752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612404:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:27:54Z'
   warnings: []
   errors: []
 ---

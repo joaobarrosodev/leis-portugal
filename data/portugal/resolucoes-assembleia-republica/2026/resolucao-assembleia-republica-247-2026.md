@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/09/17700/0000400050.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,26 +47,41 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/247/2026/09/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/247-2026-1169277025
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-11T00:00:00Z'
+  retrieved_at: '2026-10-22T18:53:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb22920741838784afd0b6f21edf39c531a1648168c942beceb61d8bd74f9557
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab4bb818912e89214c03fa6bc39037330042c4337f8b12dae399558258b2c46a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:53:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acordo
+- Arménia
+- Bruxelas
+- CE Países
+- Convenção
+- Espaço de Aviação Comum Europeu
+- ROTA Aérea
+- Transporte Aéreo
+- União Europeia
 relationships:
+- type: amended_by
+  target: pt:dre:1169277023:por
+  label: Ratificado pelo(a) Decreto do Presidente da República n.º 141/2026 - Diário da República n.º 177/2026, Série I de
+    2026-09-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/141-2026-1169277023
+  date: '2026-09-10'
 - type: cites
   target: celex:31989L0391
   label: null
@@ -526,13 +541,13 @@ relationships:
 article_structure:
   article_count: 31
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:53:02Z'
   warnings: []
   errors: []
 ---
@@ -545,7 +560,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 17 de julho de 2026.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar-Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar-Branco.
 
 Acordo Relativo ao Espaço de Aviação Comum entre a União Europeia e os Seus Estados-Membros, por um lado, e a República da Arménia, por outro
 
@@ -659,11 +674,11 @@ a) Direito de sobrevoar o seu território sem aterrar;
 
 b) Direito de efetuar escalas no seu território para fins não comerciais;
 
-c) Direito de realizar o transporte aéreo internacional de passageiros, de carga e misto, através de serviços aéreos regulares e não regulares, entre pontos <sup>1</sup> nas seguintes rotas:
+c) Direito de realizar o transporte aéreo internacional de passageiros, de carga e misto, através de serviços aéreos regulares e não regulares, entre pontos 1 nas seguintes rotas:
 
 i) No caso das transportadoras aéreas da União Europeia:
 
-Pontos na União Europeia - pontos intermédios nos territórios dos parceiros da Política Europeia de Vizinhança <sup>2</sup>, partes no Acordo Multilateral que estabelece um Espaço de Aviação Comum <sup>3</sup>, ou Estados-Membros da Associação Europeia de Comércio Livre <sup>4</sup> - pontos na Arménia - pontos além;
+Pontos na União Europeia - pontos intermédios nos territórios dos parceiros da Política Europeia de Vizinhança 2, partes no Acordo Multilateral que estabelece um Espaço de Aviação Comum 3, ou Estados-Membros da Associação Europeia de Comércio Livre 4 - pontos na Arménia - pontos além;
 
 ii) No caso das transportadoras aéreas da Arménia:
 
@@ -807,11 +822,11 @@ Essa decisão pode especificar as condições aplicáveis à operação dos serv
 
 8 - Cada Parte fornece à outra Parte, a seu pedido, dentro de um prazo razoável, relatórios financeiros relativos às entidades sob a jurisdição da primeira Parte e outras informações que possam razoavelmente ser exigidas pela outra Parte a fim de garantir o cumprimento do disposto no presente artigo. Tal pode incluir informações pormenorizadas sobre subvenções ou ajudas. Essas informações podem ser sujeitas a tratamento confidencial pela Parte que solicita o acesso à informação em causa.
 
-9 - Sem prejuízo de toda e qualquer medida tomada pela autoridade competente responsável em matéria de concorrência ou pelo tribunal responsável pela aplicação das regras referidas nos n.<sup>os</sup>5 e 6:
+9 - Sem prejuízo de toda e qualquer medida tomada pela autoridade competente responsável em matéria de concorrência ou pelo tribunal responsável pela aplicação das regras referidas nos n.os5 e 6:
 
-a) Se uma das Partes considerar que uma transportadora aérea é alvo de discriminação ou de práticas desleais na aceção dos n.<sup>os</sup>5 ou 6 e puder comprová-lo, pode apresentar observações escritas à outra Parte. Após informar a outra Parte, uma Parte pode igualmente dirigir-se aos poderes públicos competentes no território da outra Parte, incluindo entidades públicas nacionais, regionais ou locais, a fim de debater questões relacionadas com o presente artigo. Além disso, qualquer uma das Partes pode solicitar a realização de consultas sobre esta matéria com a outra Parte, a fim de resolver a questão. Essas consultas realizar-se-ão no prazo de 30 dias a contar da data de receção do pedido. Entretanto, as Partes procedem ao intercâmbio de informações suficientes para permitir um exame completo das preocupações expressas por uma delas;
+a) Se uma das Partes considerar que uma transportadora aérea é alvo de discriminação ou de práticas desleais na aceção dos n.os5 ou 6 e puder comprová-lo, pode apresentar observações escritas à outra Parte. Após informar a outra Parte, uma Parte pode igualmente dirigir-se aos poderes públicos competentes no território da outra Parte, incluindo entidades públicas nacionais, regionais ou locais, a fim de debater questões relacionadas com o presente artigo. Além disso, qualquer uma das Partes pode solicitar a realização de consultas sobre esta matéria com a outra Parte, a fim de resolver a questão. Essas consultas realizar-se-ão no prazo de 30 dias a contar da data de receção do pedido. Entretanto, as Partes procedem ao intercâmbio de informações suficientes para permitir um exame completo das preocupações expressas por uma delas;
 
-b) Se as Partes não conseguirem resolver a questão através de consultas no prazo de 30 dias a contar do início das consultas ou se as consultas não tiverem início no prazo de trinta 30 dias a contar da receção do pedido relativo a uma alegada infração aos n.<sup>os</sup>5 ou 6, a Parte que solicitou as consultas tem o direito de suspender o exercício dos direitos concedidos ao abrigo do presente Acordo às transportadoras aéreas da outra Parte, ao recusar, retirar, revogar ou suspender a autorização de exploração, sujeitar o exercício desses direitos às condições que entender necessárias, cobrar direitos ou tomar outras medidas. As medidas adotadas nos termos do presente número devem ser adequadas, proporcionadas e limitadas ao estritamente necessário no tocante ao seu âmbito de aplicação e à sua duração.
+b) Se as Partes não conseguirem resolver a questão através de consultas no prazo de 30 dias a contar do início das consultas ou se as consultas não tiverem início no prazo de trinta 30 dias a contar da receção do pedido relativo a uma alegada infração aos n.os5 ou 6, a Parte que solicitou as consultas tem o direito de suspender o exercício dos direitos concedidos ao abrigo do presente Acordo às transportadoras aéreas da outra Parte, ao recusar, retirar, revogar ou suspender a autorização de exploração, sujeitar o exercício desses direitos às condições que entender necessárias, cobrar direitos ou tomar outras medidas. As medidas adotadas nos termos do presente número devem ser adequadas, proporcionadas e limitadas ao estritamente necessário no tocante ao seu âmbito de aplicação e à sua duração.
 
 10 - Ambas as Partes aplicam efetivamente a legislação antitrust, em conformidade com o n.º 2, e proíbem as transportadoras aéreas de:
 
@@ -905,15 +920,15 @@ d) O material impresso, previsto na legislação aduaneira de cada uma das Parte
 
 3 - Nada no presente Acordo impede uma Parte de cobrar impostos, imposições, direitos aduaneiros, emolumentos ou taxas sobre o combustível fornecido no seu território numa base não discriminatória para utilização numa aeronave de uma transportadora aérea que opere entre dois pontos no seu território.
 
-4 - O equipamento habitual das aeronaves, bem como os materiais, provisões e peças sobressalentes a que se referem os n.<sup>os</sup>1 e 2, habitualmente conservados a bordo das aeronaves utilizadas pelas transportadoras aéreas de uma Parte, só podem ser descarregados no território da outra Parte mediante autorização prévia das autoridades aduaneiras dessa Parte, podendo ser exigida a sua colocação sob a supervisão ou o controlo dessas autoridades até serem reexportados ou cedidos, em conformidade com a regulamentação aduaneira.
+4 - O equipamento habitual das aeronaves, bem como os materiais, provisões e peças sobressalentes a que se referem os n.os1 e 2, habitualmente conservados a bordo das aeronaves utilizadas pelas transportadoras aéreas de uma Parte, só podem ser descarregados no território da outra Parte mediante autorização prévia das autoridades aduaneiras dessa Parte, podendo ser exigida a sua colocação sob a supervisão ou o controlo dessas autoridades até serem reexportados ou cedidos, em conformidade com a regulamentação aduaneira.
 
-5 - As isenções previstas no presente artigo também estão disponíveis nos casos em que as transportadoras aéreas de uma Parte tenham contratado com outra transportadora aérea que também beneficie dessas isenções junto da outra Parte quer o empréstimo quer a transferência para o território da outra Parte dos artigos especificados nos n.<sup>os</sup>1 e 2.
+5 - As isenções previstas no presente artigo também estão disponíveis nos casos em que as transportadoras aéreas de uma Parte tenham contratado com outra transportadora aérea que também beneficie dessas isenções junto da outra Parte quer o empréstimo quer a transferência para o território da outra Parte dos artigos especificados nos n.os1 e 2.
 
 6 - Nenhuma disposição do presente Acordo impede as Partes de cobrar impostos, imposições, direitos aduaneiros, emolumentos ou taxas sobre as mercadorias vendidas aos passageiros, que não as destinadas ao consumo a bordo, num segmento do serviço aéreo entre dois pontos situados no seu território em que seja permitido embarque ou desembarque.
 
 7 - As bagagens e a carga em trânsito direto no território de uma Parte estão isentas de impostos, direitos aduaneiros, emolumentos e taxas equiparadas que não sejam calculados em função do custo dos serviços prestados.
 
-8 - Pode ser exigido que os equipamentos e aprovisionamentos referidos nos n.<sup>os</sup>1 e 2 sejam mantidos sob a vigilância ou controlo das autoridades competentes.
+8 - Pode ser exigido que os equipamentos e aprovisionamentos referidos nos n.os1 e 2 sejam mantidos sob a vigilância ou controlo das autoridades competentes.
 
 9 - O disposto no presente Acordo não afeta o regime do imposto sobre o valor acrescentado (IVA).
 
@@ -927,7 +942,7 @@ d) O material impresso, previsto na legislação aduaneira de cada uma das Parte
 
 3 - Cada Parte certifica-se de que as taxas de utilização suscetíveis de ser aplicadas pelas autoridades ou organismos competentes em matéria de cobrança às transportadoras aéreas da outra Parte pela utilização de infraestruturas e serviços aeroportuários, bem como de segurança da aviação, e serviços e infraestruturas conexos, com exceção dos direitos cobrados pela prestação dos serviços descritos no artigo 9.º, n.º 7, não sejam injustamente discriminatórias, não discriminem em razão da nacionalidade e sejam equitativamente repartidas pelas categorias de utilizadores. Sem prejuízo do disposto no artigo 16.º, n.º 1, estas taxas de utilização devem refletir, mas não exceder, o custo completo para as autoridades ou organismos competentes em matéria de taxas do fornecimento das infraestruturas e dos serviços aeroportuários e de segurança da aviação adequados no aeroporto ou aeroportos com o mesmo regime de tarifação. Essas taxas podem incluir uma razoável rendibilidade dos ativos, após amortização. As infraestruturas e os serviços sujeitos a taxas de utilização devem ser oferecidos segundo critérios de eficácia e economia. Em qualquer caso, as condições de aplicação dessas taxas às transportadoras aéreas da outra Parte não devem ser menos favoráveis do que as mais favoráveis concedidas a qualquer outra transportadora aérea no momento da sua aplicação.
 
-4 - As Partes exigem que as autoridades ou organismos competentes em matéria de taxas no seu território e as transportadoras aéreas que utilizam serviços e infraestruturas procedam a consultas e ao intercâmbio das informações necessárias para permitir uma análise precisa da razoabilidade das taxas de utilização, em conformidade com os princípios enunciados nos n.<sup>os</sup>2 e 3. Cada Parte certifica-se de que as autoridades ou os organismos competentes em matéria de taxas informem os utilizadores, num prazo razoável, sobre quaisquer propostas de alteração das taxas de utilização, a fim de permitir que estes possam exprimir os seus pontos de vista e apresentar as suas observações.
+4 - As Partes exigem que as autoridades ou organismos competentes em matéria de taxas no seu território e as transportadoras aéreas que utilizam serviços e infraestruturas procedam a consultas e ao intercâmbio das informações necessárias para permitir uma análise precisa da razoabilidade das taxas de utilização, em conformidade com os princípios enunciados nos n.os2 e 3. Cada Parte certifica-se de que as autoridades ou os organismos competentes em matéria de taxas informem os utilizadores, num prazo razoável, sobre quaisquer propostas de alteração das taxas de utilização, a fim de permitir que estes possam exprimir os seus pontos de vista e apresentar as suas observações.
 
 ###### Artigo 12.º — Tarifas para passageiros e carga
 
@@ -1255,13 +1270,13 @@ b) Depósito do instrumento de ratificação ou de aprovação pela Arménia, ta
 
 Este Acordo é redigido em duplo exemplar nas línguas alemã, búlgara, checa, croata, dinamarquesa, eslovaca, eslovena, espanhola, estónia, finlandesa, francesa, grega, húngara, inglesa, irlandesa, italiana, letã, lituana, maltesa, neerlandesa, polaca, portuguesa, romena, sueca e arménia, fazendo igualmente fé todos os textos.
 
-<sup>1</sup> A referência a pontos no presente artigo deve ser entendida enquanto referência a aeroportos reconhecidos internacionalmente.
+1 A referência a pontos no presente artigo deve ser entendida enquanto referência a aeroportos reconhecidos internacionalmente.
 
-<sup>2</sup> Ver: Conclusões do Conselho de 16 de junho de 2003, em conjugação com a Comunicação relativa à Política Europeia de Vizinhança de 12 de maio de 2004, defendida pelo Conselho nas suas conclusões de 14 de junho de 2004.
+2 Ver: Conclusões do Conselho de 16 de junho de 2003, em conjugação com a Comunicação relativa à Política Europeia de Vizinhança de 12 de maio de 2004, defendida pelo Conselho nas suas conclusões de 14 de junho de 2004.
 
-<sup>3</sup> Acordo Multilateral entre a Comunidade Europeia e os seus Estados-Membros, a República da Albânia, a Bósnia e Herzegovina, a República da Bulgária, a República da Croácia, a República da Islândia, a antiga República jugoslava da Macedónia, a República de Montenegro, o Reino da Noruega, a Roménia, a República da Sérvia e a Missão de Administração Provisória das Nações Unidas para o Kosovo (1) sobre o estabelecimento de um Espaço de Aviação Comum Europeu (JO UE L 285 de 16.10.2006, p. 3) (1 De acordo com a Resolução 1244 do Conselho de Segurança das Nações Unidas, de 10 de junho de 1999).
+3 Acordo Multilateral entre a Comunidade Europeia e os seus Estados-Membros, a República da Albânia, a Bósnia e Herzegovina, a República da Bulgária, a República da Croácia, a República da Islândia, a antiga República jugoslava da Macedónia, a República de Montenegro, o Reino da Noruega, a Roménia, a República da Sérvia e a Missão de Administração Provisória das Nações Unidas para o Kosovo (1) sobre o estabelecimento de um Espaço de Aviação Comum Europeu (JO UE L 285 de 16.10.2006, p. 3) (1 De acordo com a Resolução 1244 do Conselho de Segurança das Nações Unidas, de 10 de junho de 1999).
 
-<sup>4</sup> República da Islândia, Principado do Listenstaine, Reino da Noruega e Confederação Suíça.
+4 República da Islândia, Principado do Listenstaine, Reino da Noruega e Confederação Suíça.
 
 Em caso de divergência entre as versões linguísticas, o Comité Misto decidirá da língua do texto a utilizar.
 
@@ -1499,7 +1514,7 @@ N.º 376/2014
 
 [Regulamento (UE) n.º 376/2014](https://data.europa.eu/eli/reg/2014/376/oj?locale=pt) do Parlamento Europeu e do Conselho, de 3 de abril de 2014, relativo à comunicação, à análise e ao seguimento de ocorrências na aviação civil, que altera o [Regulamento (UE) n.º 996/2010](https://data.europa.eu/eli/reg/2010/996/oj?locale=pt) do Parlamento Europeu e do Conselho e revoga a [Diretiva 2003/42/CE](https://data.europa.eu/eli/dir/2003/42/oj?locale=pt) do Parlamento Europeu e do Conselho, e os Regulamentos (CE) n.º [1321/2007](https://data.europa.eu/eli/reg/2007/1321/oj?locale=pt) e (CE) n.º [1330/2007](https://data.europa.eu/eli/reg/2007/1330/oj?locale=pt) da Comissão
 
-Disposições aplicáveis: artigos 1.º a 7.º; artigo 9.º, n.º 3; artigo 10.º, n.<sup>os</sup>2 a 4: artigo 11.º, n.º 1 e n.º 7; artigo 13.º, com exceção do artigo 13.º n.º 9; artigos 14.º a 16.º; artigo 21.º e anexos i a iii.
+Disposições aplicáveis: artigos 1.º a 7.º; artigo 9.º, n.º 3; artigo 10.º, n.os2 a 4: artigo 11.º, n.º 1 e n.º 7; artigo 13.º, com exceção do artigo 13.º n.º 9; artigos 14.º a 16.º; artigo 21.º e anexos i a iii.
 
 N.º 2015/1018
 
@@ -1769,7 +1784,7 @@ N.º 219/2007
 
 [Regulamento (CE) n.º 721/2014](https://data.europa.eu/eli/reg/2014/721/oj?locale=pt) do Conselho, de 16 de junho de 2014.
 
-Disposições aplicáveis: artigo 1.º, n.<sup>os</sup>1, 2 e 5 a 7 e artigos 2.º, 3.º e 4.º, n.º 1, e anexo.
+Disposições aplicáveis: artigo 1.º, n.os1, 2 e 5 a 7 e artigos 2.º, 3.º e 4.º, n.º 1, e anexo.
 
 N.º 409/2013
 
@@ -1881,7 +1896,8 @@ N.º 2003/88
 
 Disposições aplicáveis - só se aplicáveis à aviação civil: artigos 1.º a 20.º, 22.º a 23.º
 
-![](https://files.diariodarepublica.pt/images/1169277025/1169276940.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277025/1169276940.png) |
+| --- |
 
 Voor het Koninkrijk België:
 
@@ -1889,7 +1905,8 @@ Pοur le Royaume de Belgique:
 
 Für das Königreich Belgien:
 
-![](https://files.diariodarepublica.pt/images/1169277025/1169276941.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277025/1169276941.png) |
+| --- |
 
 Deze handtekening verbindt eveneens het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest.
 
@@ -1899,111 +1916,137 @@ Diese Unterschrift bindet zugleich die Wallonische Region, die Flämische Region
 
 За Република България:
 
-![](https://files.diariodarepublica.pt/images/1169277025/1169276942.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277025/1169276942.png) |
+| --- |
 
 Ζa Českou republiku:
 
-![](https://files.diariodarepublica.pt/images/1169277025/1169276943.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277025/1169276943.png) |
+| --- |
 
 For Kongeriget Danmark:
 
-![](https://files.diariodarepublica.pt/images/1169277025/1169276944.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277025/1169276944.png) |
+| --- |
 
 Für die Bundesrepublik Deutschland:
 
-![](https://files.diariodarepublica.pt/images/1169277025/1169276945.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277025/1169276945.png) |
+| --- |
 
 Eesti Vabariigi nimel:
 
-![](https://files.diariodarepublica.pt/images/1169277025/1169276946.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277025/1169276946.png) |
+| --- |
 
 Thar cheann Na hÉireann:
 
 For Ireland:
 
-![](https://files.diariodarepublica.pt/images/1169277025/1169276947.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277025/1169276947.png) |
+| --- |
 
 Για την Eλληνική Δηµοκρατία:
 
-![](https://files.diariodarepublica.pt/images/1169277025/1169276948.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277025/1169276948.png) |
+| --- |
 
 Por el Reino de España:
 
-![](https://files.diariodarepublica.pt/images/1169277025/1169276949.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277025/1169276949.png) |
+| --- |
 
 Pour la République française:
 
-![](https://files.diariodarepublica.pt/images/1169277025/1169276950.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277025/1169276950.png) |
+| --- |
 
 Za Republiku Hrvatsku:
 
-![](https://files.diariodarepublica.pt/images/1169277025/1169276951.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277025/1169276951.png) |
+| --- |
 
 Per la Repubblica italiana:
 
-![](https://files.diariodarepublica.pt/images/1169277025/1169276952.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277025/1169276952.png) |
+| --- |
 
 Για την Κυπριακή Δηµοκρατία:
 
-![](https://files.diariodarepublica.pt/images/1169277025/1169276953.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277025/1169276953.png) |
+| --- |
 
 Latvijas Republikas vārdā -:
 
-![](https://files.diariodarepublica.pt/images/1169277025/1169276954.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277025/1169276954.png) |
+| --- |
 
 Lietuvos Respublikos vardu:
 
-![](https://files.diariodarepublica.pt/images/1169277025/1169276955.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277025/1169276955.png) |
+| --- |
 
 Pour le Grand-Duché de Luxembourg:
 
-![](https://files.diariodarepublica.pt/images/1169277025/1169276956.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277025/1169276956.png) |
+| --- |
 
 Magyarország részéről:
 
-![](https://files.diariodarepublica.pt/images/1169277025/1169276957.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277025/1169276957.png) |
+| --- |
 
 Għal-Repubblika ta’ Malta:
 
-![](https://files.diariodarepublica.pt/images/1169277025/1169276958.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277025/1169276958.png) |
+| --- |
 
 Voor het Koninkrijk der Nederlanden:
 
-![](https://files.diariodarepublica.pt/images/1169277025/1169276959.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277025/1169276959.png) |
+| --- |
 
 Für die Republik Österreich:
 
-![](https://files.diariodarepublica.pt/images/1169277025/1169276960.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277025/1169276960.png) |
+| --- |
 
 W imieniu Rzeczypospolitej Polskiej:
 
-![](https://files.diariodarepublica.pt/images/1169277025/1169276961.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277025/1169276961.png) |
+| --- |
 
 Pela República Portuguesa:
 
-![](https://files.diariodarepublica.pt/images/1169277025/1169276962.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277025/1169276962.png) |
+| --- |
 
 Pentru România:
 
-![](https://files.diariodarepublica.pt/images/1169277025/1169276963.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277025/1169276963.png) |
+| --- |
 
 Ζa Republiko Slovenijo:
 
-![](https://files.diariodarepublica.pt/images/1169277025/1169276964.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277025/1169276964.png) |
+| --- |
 
 Ζa Slovenskú republiku:
 
-![](https://files.diariodarepublica.pt/images/1169277025/1169276965.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277025/1169276965.png) |
+| --- |
 
 Suοmen tasavallan puolesta:
 
 För Republiken Finland:
 
-![](https://files.diariodarepublica.pt/images/1169277025/1169276966.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277025/1169276966.png) |
+| --- |
 
 För Konungariket Sverige:
 
-![](https://files.diariodarepublica.pt/images/1169277025/1169276967.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277025/1169276967.png) |
+| --- |
 
 Зa Евpoпeйския съюз:
 
@@ -2053,10 +2096,16 @@ Pentru Uniunea Europeană:
 
 För Europeiska unionen:
 
-![](https://files.diariodarepublica.pt/images/1169277025/1169276968.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277025/1169276968.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1169277025/1169276969.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277025/1169276969.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1169277025/1169276970.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277025/1169276970.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/1169277025/1169276971.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1169277025/1169276971.png) |
+| --- |
+
+119949230

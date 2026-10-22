@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43302-1960-514251
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-04-18T00:00:00Z'
+  retrieved_at: '2026-10-22T19:20:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d14fb13c9ea50f0ac22b22e4dc4ccc5639b894ee1ff4957c56e29260337ccaa8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5dff44b66af3b7bcf55a71ea3b76fb6a634139ce6ec74ab3f57c1101df112ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:20:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,20 @@ relationships:
   target: pt:dre:196518:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:429848:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:20:47Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +99,7 @@ Reconhecida a vantagem, para maior eficiência e economia, de confiar os trabalh
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º As missões de inquérito agrícola, criadas pelo artigo 6.º do [Decreto n.º 42562](https://diariodarepublica.pt/dr/detalhe/decreto/42562-1959-429848), de 6 de Outubro de 1959, têm a faculdade de fazer todos os inquéritos e indagações necessários ao bom exercício das funções que lhes pertencem e podem exigir de todos os funcionários, autoridades, repartições e organismos públicos e todas as pessoas, singulares ou colectivas, com permanência ou actividade em território português as informações convenientes.
+Artigo 1.º As missões de inquérito agrícola, criadas pelo artigo 6.º do [Decreto n.º 42562](https://diariodarepublica.pt/dr/detalhe/decreto/42562-1959-429848), de 6 de Outubro de 1959, têm a faculdade de fazer todos os inquéritos e indagações necessários ao bom exercício das funções que lhes pertencem e podem exigir de todos os funcionários, autoridades, repartições e organismos públicos e todas as pessoas, singulares ou colectivas, com permanência ou actividade em território português as informações convenientes.
 
 § 1.º Quando as informações lhes não forem fornecidas nos prazos fixados, poderão as missões de inquérito agrícola proceder, por meio de funcionários seus, à recolha directa dos elementos pedidos, correndo as despesas por conta das entidades que, devendo tê-las fornecido, o não fizeram em tempo.
 
@@ -103,7 +107,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § 3.º As missões de inquérito ficam, para efeitos de aplicação deste artigo e seus parágrafos, bem como para efeitos de instauração de processos por transgressões estatísticas, equiparadas aos serviços de estatística de cada uma das províncias, por cuja legislação especial se regerão.
 
-###### Art. 2.º Os elementos estatísticos de ordem individual recolhidos pelas missões de inquérito agrícola são de natureza confidencial, não podem ser discriminadamente insertos em quaisquer publicações, nem deles pode ser passada certidão; constituem segredo profissional para todos os funcionários das missões de inquérito agrícola; nenhum tribunal, repartição ou autoridade pode ordenar ou autorizar exame a qualquer elemento ou informação recolhidos pelas missões de inquérito agrícola.
+Art. 2.º Os elementos estatísticos de ordem individual recolhidos pelas missões de inquérito agrícola são de natureza confidencial, não podem ser discriminadamente insertos em quaisquer publicações, nem deles pode ser passada certidão; constituem segredo profissional para todos os funcionários das missões de inquérito agrícola; nenhum tribunal, repartição ou autoridade pode ordenar ou autorizar exame a qualquer elemento ou informação recolhidos pelas missões de inquérito agrícola.
 
 § único. Exceptuam-se:
 
@@ -113,19 +117,19 @@ b) Os casos de instauração de processos por transgressão estatística, em rel
 
 c) Os casos em que os elementos individuais devam ser publicados por disposição expressa de lei.
 
-###### Art. 3.º As alusões contidas no [Decreto n.º 42562](https://diariodarepublica.pt/dr/detalhe/decreto/42562-1959-429848), de 6 de Outubro de 1959, a missões ou brigadas de inquérito agrícola passam a entender-se como respeitando apenas a missões de inquérito agrícola.
+Art. 3.º As alusões contidas no [Decreto n.º 42562](https://diariodarepublica.pt/dr/detalhe/decreto/42562-1959-429848), de 6 de Outubro de 1959, a missões ou brigadas de inquérito agrícola passam a entender-se como respeitando apenas a missões de inquérito agrícola.
 
-###### Art. 4.º A alínea b) do artigo 6.º, os artigos 8.º e 9.º e seu § único e o § 3.º que é adicionado ao artigo 20.º do [Decreto n.º 42562](https://diariodarepublica.pt/dr/detalhe/decreto/42562-1959-429848) passam a ter a seguinte redacção:
+Art. 4.º A alínea b) do artigo 6.º, os artigos 8.º e 9.º e seu § único e o § 3.º que é adicionado ao artigo 20.º do [Decreto n.º 42562](https://diariodarepublica.pt/dr/detalhe/decreto/42562-1959-429848) passam a ter a seguinte redacção:
 
-###### Art. 6.º ...
+Art. 6.º ...
 
 b) Nas restantes províncias, respectivamente, da missão de inquérito agrícola de Cabo Verde, Guiné e S. Tomé e Príncipe e da missão de inquérito agrícola do Estado da Índia e Timor, sendo de aplicar a estas missões o disposto na alínea anterior.
 
 ...
 
-###### Art. 8.º Os chefes de missão de inquérito agrícola são de nomeação do Ministro do Ultramar, sob proposta da Comissão para os Inquéritos Agrícolas no Ultramar, ouvidos os governadores das províncias interessadas.
+Art. 8.º Os chefes de missão de inquérito agrícola são de nomeação do Ministro do Ultramar, sob proposta da Comissão para os Inquéritos Agrícolas no Ultramar, ouvidos os governadores das províncias interessadas.
 
-###### Art. 9.º O restante pessoal das missões de inquérito agrícola, previsto nas alíneas a) e b) do artigo 6.º, será nomeado, contratado ou requisitado, nos termos da lei, sob proposta dos respectivos chefes de missão.
+Art. 9.º O restante pessoal das missões de inquérito agrícola, previsto nas alíneas a) e b) do artigo 6.º, será nomeado, contratado ou requisitado, nos termos da lei, sob proposta dos respectivos chefes de missão.
 
 Quando se trate de pessoal cuja nomeação, contrato ou requisição seja da competência do Ministro do Ultramar, a proposta deverá ser informada com os pareceres dos governadores das províncias interessadas e apresentada através da Comissão para os Inquéritos Agrícolas no Ultramar.
 
@@ -133,11 +137,11 @@ Quando se trate de pessoal cuja nomeação, contrato ou requisição seja da com
 
 ...
 
-###### Art. 20.º ...
+Art. 20.º ...
 
 § 3.º A administração das verbas atribuídas à Comissão para os Inquéritos Agrícolas no Ultramar compete a um conselho administrativo, constituído pelo presidente ou vice-presidente, por um dos vogais designado pelo Ministro do Ultramar e pelo secretário.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Novembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

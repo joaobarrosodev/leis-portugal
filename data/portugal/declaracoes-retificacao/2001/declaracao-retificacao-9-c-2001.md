@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 77/2001, 2º Suplemento, Série I-A de 2001-03-31
   number: '77'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1876-(11) a 1876-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/03/077a02/00110011.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/9-c/2001/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-c-2001-337857
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:59:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: abdd68f6034dea23a74e99a5c0611a7def51c60c4ae2b579a3ac454e0cb21dde
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 643fffb078586463e5b9c387a2484292efc14f3ada8bb66333ec4a0e49b8efdf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:59:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,36 +68,40 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Academia da Força Aérea
-- Ministério da Defesa Nacional
-- Ensino Superior Militar
+- Academia Militar
+- Avaliação de Conhecimentos
+- Ensino
 - Ensino Oficial
+- Ensino Superior Militar
 - Ensino Superior Politécnico
 - Escola do Serviço de Saúde Militar
 - Escola Naval
 - Escola Superior de Tecnologias Navais
 - Escola Superior Politécnica do Exército
-- Academia Militar
-- Instituto Militar dos Pupilos do Exército
-- Universidade
-- Política de Educação
-- Ensino
 - Estabelecimento de Ensino
-- Avaliação de Conhecimentos
+- Instituto Militar dos Pupilos do Exército
+- Ministério da Defesa Nacional
+- Política de Educação
+- Universidade
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/88/2001/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/88/2001/03/23/p/dre
+- type: cites
+  target: pt:dre:347952:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:59:28Z'
   warnings: []
   errors: []
 ---

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/05/09600/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/26/2025/05/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/26-2025-918700389
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-20T00:00:00Z'
+  retrieved_at: '2026-10-22T19:15:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 00a1f63ab350721649efc240b0f0d81a0ceb7f11e46d8d3e0bded1acc942a35e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22ed34b3672b305f094f7dcd222db5faaec0f7ea8c2f57a1072914c08f380765
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:15:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
 - Criação de Freguesias
 - Extinção de Serviços
 - Freguesia
-- Autarquia Local
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declretif/23-a/2025/05/12/p/dre
@@ -88,16 +88,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/39/2021/06/24/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/39/2021/06/24/p/dre
+- type: cites
+  target: pt:dre:165723198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:910933580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:917817243:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:declaracao-retificacao:23-A/2025
+  label: Retifica a Declaração de Retificação n.º 23-A/2025/1, de 12 de maio, Diário da República n.º 90/2025, Suplemento,
+    Série I
+  source: null
+  date: '2025-05-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:15:58Z'
   warnings: []
   errors: []
 ---
@@ -112,20 +134,24 @@ Onde se lê:
 
 «deve ler-se:
 
-| AMunicípio | BFreguesias existentes | CFreguesias a restaurar | CFreguesias a restaurar |
-| --- | --- | --- | --- |
-| … | … | … | … |
-| Marco de Canaveses | União das Freguesias de Penha Longa e Paços de Gaiolo | Freguesia de Penha Longa | Freguesia de Penha Longa |
-| Marco de Canaveses | União das Freguesias de Penha Longa e Paços de Gaiolo | Freguesia de Paços de Gaiolo | » |
+| AMunicípio | BFreguesias existentes | CFreguesias a restaurar |
+| --- | --- | --- |
+| … | … | … |
+| Marco de Canaveses | União das Freguesias de Penha Longa e Paços de Gaiolo | Freguesia de Penha Longa |
+| Freguesia de Paços de Gaiolo | » |  |
 
 deve ler-se:
 
 «deve ler-se:
 
-| AMunicípio | BFreguesias existentes | CFreguesias a restaurar | CFreguesias a restaurar |
-| --- | --- | --- | --- |
-| … | … | … | … |
-| Marco de Canaveses | Freguesia de Penha Longa e Paços de Gaiolo | Freguesia de Penha Longa | Freguesia de Penha Longa |
-| Marco de Canaveses | Freguesia de Penha Longa e Paços de Gaiolo | Freguesia de Paços de Gaiolo | » |
+| AMunicípio | BFreguesias existentes | CFreguesias a restaurar |
+| --- | --- | --- |
+| … | … | … |
+| Marco de Canaveses | Freguesia de Penha Longa e Paços de Gaiolo | Freguesia de Penha Longa |
+| Freguesia de Paços de Gaiolo | » |  |
 
 Assembleia da República, 16 de maio de 2025. - A Secretária-Geral, Anabela Cabral Ferreira.
+
+119068279
+
+.Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:18px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl12 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; }

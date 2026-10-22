@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/34/2026/01/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/34-2026-1023994552
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-26T00:00:00Z'
+  retrieved_at: '2026-10-22T18:29:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc27dc2e249dddd2a4083de36c8cd736bea340ca7b0727caa499d76d08e46a4d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e3216541278f9b62364167fb2fb9e3d7c70960e662077e0d0bdc4d1ee6fcc53
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:29:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Água
-- Recursos Hídricos
-- Proteção do Ambiente
-- Zona de Proteção
-- Portel
-- Águas Subterrâneas
 - Abastecimento de Água
+- Água
+- Águas Subterrâneas
+- Portel
+- Proteção do Ambiente
+- Recursos Hídricos
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/20/2022/01/28/p/dre
@@ -98,16 +98,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/702/2009/07/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/702/2009/07/06/p/dre
+- type: cites
+  target: pt:dre:178264070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220113533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:911488699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928479767:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:29:57Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +164,7 @@ Nos termos e para os efeitos do disposto no n.º 1 do artigo 4.º do [Decreto-Le
 
 2 - A massa de água onde se localizam as captações, Maciço Antigo Indiferenciado da Bacia do Guadiana (PTA0X1RH7_C2), foi classificada, no âmbito do Plano de Gestão da Região Hidrográfica do Guadiana, com estado global Medíocre.
 
-3 - As captações mencionadas no n.º 1 abastecem 1084 habitantes com um volume médio de 242,41 m<sup>3</sup>/dia.
+3 - As captações mencionadas no n.º 1 abastecem 1084 habitantes com um volume médio de 242,41 m3/dia.
 
 ###### Artigo 2.º — Zona de proteção imediata
 
@@ -150,7 +178,7 @@ Nos termos e para os efeitos do disposto no n.º 1 do artigo 4.º do [Decreto-Le
 
 1 - A zona de proteção intermédia respeitante aos perímetros de proteção das captações de águas subterrâneas mencionadas no artigo 1.º corresponde à área da superfície do terreno delimitada através de polígono que resulta da união dos vértices cujas coordenadas são indicadas nos quadros constantes do anexo ii à presente portaria, que dela faz parte integrante.
 
-2 - Na zona de proteção intermédia a que se refere o número anterior são interditas, nos termos dos n.<sup>os</sup>2 e 3 do artigo 6.º do [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de setembro, na sua redação atual, as seguintes atividades e instalações:
+2 - Na zona de proteção intermédia a que se refere o número anterior são interditas, nos termos dos n.os2 e 3 do artigo 6.º do [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de setembro, na sua redação atual, as seguintes atividades e instalações:
 
 a) Infraestruturas aeronáuticas;
 
@@ -202,7 +230,7 @@ g) Fossas séticas, que apenas podem ser permitidas caso respeitem rigorosos cri
 
 1 - A zona de proteção alargada respeitante aos perímetros de proteção das captações de águas subterrâneas mencionadas no artigo 1.º corresponde à área da superfície do terreno delimitada através de polígono que resulta da união dos vértices cujas coordenadas são indicadas nos quadros constantes do anexo iii à presente portaria, que dela faz parte integrante.
 
-2 - Na zona de proteção alargada referida no número anterior são interditas, nos termos dos n.<sup>os</sup>4 e 5 do artigo 6.º do [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de setembro, na sua redação atual, as seguintes atividades e instalações:
+2 - Na zona de proteção alargada referida no número anterior são interditas, nos termos dos n.os4 e 5 do artigo 6.º do [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de setembro, na sua redação atual, as seguintes atividades e instalações:
 
 a) Transporte de hidrocarbonetos, de materiais radioativos ou de outras substâncias perigosas;
 
@@ -244,7 +272,7 @@ A planta de localização respeitante aos perímetros de proteção mencionados 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Ambiente, João Manuel do Amaral Esteves, em 21 de janeiro de 2026.**
+O Secretário de Estado do Ambiente, João Manuel do Amaral Esteves, em 21 de janeiro de 2026.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 2.º)
 
@@ -324,4 +352,9 @@ Planta de localização das zonas de proteção
 
 Captação Monte do Trigo (Furo) (481/56) e Captação Monte do Trigo (Poço) (481/57)
 
-![](https://files.diariodarepublica.pt/images/1023994552/1024337699.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1023994552/1024337699.png) |
+| --- |
+
+119947392
+
+.Tbl1 { border-collapse:collapse; } .Tbl2 { min-height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:18px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl9 { text-align:justify; text-align-last:center; }

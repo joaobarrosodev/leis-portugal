@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/11/21900/0530605315.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/6/2018/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/6-2018-116967080
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-11-14T00:00:00Z'
+  retrieved_at: '2026-10-22T17:54:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17aa1c7135179cc58acdef35c518f6a7b4ff7806eb6c04bc540e7d17e7d37e21
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c724b9ee99dd2a09e42f71c3b17ee46c2952a323b4ec2f23a15115659369e63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:54:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
 - Contra-ordenação
 - Interpretação do Direito
-- Proteção do Ambiente
-- Poluição Industrial
 - Poluição
+- Poluição Industrial
+- Proteção do Ambiente
+- Recurso
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/126/2006/07/03/p/dre
@@ -109,16 +109,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/80/2006/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/80/2006/01/23/p/dre
+- type: cites
+  target: pt:dre:115487878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70133806:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:54:14Z'
   warnings: []
   errors: []
 ---
@@ -458,3 +510,5 @@ Paralelamente, referem Reinhart Maurach, Karl Gossel e Hein Zipf (Derecho Penal 
 Significa o exposto, em nosso entendimento, que, não obstante a integração dum tipo legal de ilícito contra-ordenacional definido em abstracto como sendo grave, as circunstâncias do caso concreto podem apontar em concreto para uma diminuta ilicitude e gravidade. A integração dum tipo de ilícito contra-ordenacional, reputado como grave em abstracto pela norma, assume uma natureza indiciária dessa mesma gravidade a qual não é necessariamente coincidente com as concretas circunstâncias sujeitas a julgamento.
 
 Nesta sequência não vislumbramos razão para que, existindo uma integração dos pressupostos para que aponta o artigo 51 do Regime Geral das Contra-Ordenações e Coimas, não se aplique o mesmo ao caso concreto (confrontar a propósito Notas ao Regime Geral das Contra Ordenações e Coimas de António de Oliveira Mendes e José dos Santos Cabral, edições Almedina 2006 pág. 58 e seg. e 143 e seg.) - Santos Cabral.
+
+111793911

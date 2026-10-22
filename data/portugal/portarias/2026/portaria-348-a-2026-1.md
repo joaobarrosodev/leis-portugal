@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/348-a/2026/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/348-a-2026-1159784841
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-17T00:00:00Z'
+  retrieved_at: '2026-10-22T18:50:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b261a43400c3593f0d5fbf6fcbad0cf3bc0621926fac3c49643ebd413d9dbbf1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 190021c1c6dd90da7f2fce50157caebb1ef617489f3ae7e95fcbb925dc1f6e78
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:50:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Ensino não Superior
+- Agência para a Gestão do Sistema Educativo
 - Definição de Competências
-- Regulamentação de Atos Legislativos
+- Ensino Básico
 - Ensino Cooperativo
+- Ensino não Superior
 - Ensino Particular
 - Ensino Secundário
 - Estabelecimento de Ensino
-- Ensino Básico
-- Subsídio
+- Financiamento
 - Ministério da Educação Ciência e Inovação
-- Agência para a Gestão do Sistema Educativo
+- Regulamentação de Atos Legislativos
+- Subsídio
 relationships:
+- type: amends
+  target: pt:numero:portaria:172-A/2015
+  label: Altera, a partir de 19 de agosto de 2026, nos termos do artigo 5.º do presente diploma, os artigos 1.º, 2.º, 5.º,
+    7.º, 9.º, 10.º, 12.º, 14.º, 15.º, 16.º, 17.º e 19.º e os anexos i e ii e revoga o artigo 6.º da Portaria n.º 172-A/2015,
+    de 5 de junho, Diário da República n.º 109/2015, 1º Suplemento, Série I
+  source: null
+  date: '2015-06-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/152/2013/11/04/p/dre
   label: null
@@ -107,16 +114,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/285-a/2025/08/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/285-a/2025/08/13/p/dre
+- type: cites
+  target: pt:dre:107038204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165036155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67429780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:873920265:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928936484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:933527232:por
+  label: null
+  source: null
 article_structure:
-  article_count: 17
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:50:49Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +162,7 @@ de 17 de agosto
 
 A [Portaria n.º 172-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/172-a-2015-67429780), de 5 de junho, fixa as regras e os procedimentos aplicáveis à atribuição de apoio financeiro pelo Estado a estabelecimentos de ensino particular e cooperativo de nível não superior, nos termos do Estatuto do Ensino Particular e Cooperativo de nível não superior, aprovado em anexo ao [Decreto-Lei n.º 152/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2013-504756), de 4 de novembro, e alterado pela [Lei n.º 36/2021](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), de 14 de junho.
 
-A regulamentação dos procedimentos destinados à formação e à celebração dos contratos de associação é fixada por portaria dos membros do Governo responsáveis pelas áreas das finanças e da educação, de acordo com o disposto no n.º 4 do artigo 9.º e nos n.<sup>os</sup>1 e 3 do artigo 17.º do Estatuto do Ensino Particular e Cooperativo de nível não superior.
+A regulamentação dos procedimentos destinados à formação e à celebração dos contratos de associação é fixada por portaria dos membros do Governo responsáveis pelas áreas das finanças e da educação, de acordo com o disposto no n.º 4 do artigo 9.º e nos n.os1 e 3 do artigo 17.º do Estatuto do Ensino Particular e Cooperativo de nível não superior.
 
 Considerando que, em 2025, o Índice de Preços no Consumidor (IPC) registou uma variação média anual de 2,1 %, importa proceder à atualização do valor do apoio financeiro a conceder, no âmbito de contratos de associação, por turma e por ano escolar.
 
@@ -137,11 +172,11 @@ Foram ouvidas as estruturas representativas das entidades titulares do sector, n
 
 Assim:
 
-Nos termos do disposto na alínea c) do n.º 1 e no n.º 4 do artigo 9.º, no n.º 6 do artigo 10.º e nos n.<sup>os</sup>1 e 3 do artigo 17.º do Estatuto do Ensino Particular e Cooperativo de nível não superior, aprovado em anexo ao [Decreto-Lei n.º 152/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2013-504756), de 4 de novembro, e alterado pela [Lei n.º 36/2021](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), de 14 de junho, manda o Governo, pelo Ministro de Estado e das Finanças e pelo Ministro da Educação, Ciência e Inovação, o seguinte:
+Nos termos do disposto na alínea c) do n.º 1 e no n.º 4 do artigo 9.º, no n.º 6 do artigo 10.º e nos n.os1 e 3 do artigo 17.º do Estatuto do Ensino Particular e Cooperativo de nível não superior, aprovado em anexo ao [Decreto-Lei n.º 152/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2013-504756), de 4 de novembro, e alterado pela [Lei n.º 36/2021](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), de 14 de junho, manda o Governo, pelo Ministro de Estado e das Finanças e pelo Ministro da Educação, Ciência e Inovação, o seguinte:
 
 ###### Artigo 1.º — Objeto
 
-A presente portaria procede à quarta alteração à [Portaria n.º 172-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/172-a-2015-67429780), de 5 de junho, que fixa as regras e os procedimentos aplicáveis à atribuição de apoio financeiro pelo Estado a estabelecimentos de ensino particular e cooperativo de nível não superior, alterada pelas Portarias n.<sup>os</sup>[165/2017](https://diariodarepublica.pt/dr/detalhe/portaria/165-2017-107038204), de 19 de maio, [176-A/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/176-a-2024-873920265), de 30 de julho, e [285-A/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/285-a-2025-928936484), de 13 de agosto.
+A presente portaria procede à quarta alteração à [Portaria n.º 172-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/172-a-2015-67429780), de 5 de junho, que fixa as regras e os procedimentos aplicáveis à atribuição de apoio financeiro pelo Estado a estabelecimentos de ensino particular e cooperativo de nível não superior, alterada pelas Portarias n.os[165/2017](https://diariodarepublica.pt/dr/detalhe/portaria/165-2017-107038204), de 19 de maio, [176-A/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/176-a-2024-873920265), de 30 de julho, e [285-A/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/285-a-2025-928936484), de 13 de agosto.
 
 ###### Artigo 2.º — Alteração à [Portaria n.º 172-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/172-a-2015-67429780), de 5 de junho
 
@@ -155,11 +190,15 @@ Os artigos 1.º, 2.º, 5.º, 7.º, 9.º, 10.º, 12.º, 14.º, 15.º, 16.º, 17.�
 
 2 - A atribuição de apoio financeiro referido no número anterior é formalizada através da celebração de contratos de associação, da extensão do contrato a um novo ciclo de ensino ou da sua renovação entre o Ministério da Educação, Ciência e Inovação (MECI), através da Agência para a Gestão do Sistema Educativo, I. P. (AGSE, I. P.), e entidades titulares de estabelecimentos de ensino particular e cooperativo.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 Podem beneficiar do apoio financeiro a que se refere o artigo anterior as entidades titulares de estabelecimentos do ensino particular e cooperativo de nível não superior que, nos termos do EEPC, apresentem candidaturas que concorram para a prossecução dos objetivos previstos nos artigos 10.º e 16.º do EEPC e que sejam selecionadas pelo MECI na sequência do procedimento de apresentação, apreciação e seleção de candidaturas, ou cujos contratos em execução sejam objeto de extensão ou renovação, nos termos da presente portaria.
 
-###### Artigo 5.º — Competências em geral
+Artigo 5.º
+
+Competências em geral
 
 1 - Compete ao membro do Governo responsável pela área do ensino particular e cooperativo (doravante, designado ‘membro do Governo’):
 
@@ -177,7 +216,9 @@ d) Homologar a lista final de avaliação e de seleção das candidaturas.
 
 4 - Os contratos de associação são celebrados entre o Estado, através da AGSE, I. P., e as entidades titulares de estabelecimentos do ensino particular e cooperativo, selecionadas nos termos da presente portaria.
 
-###### Artigo 7.º — Competências da Agência para a Gestão do Sistema Educativo, I. P.
+Artigo 7.º
+
+Competências da Agência para a Gestão do Sistema Educativo, I. P.
 
 Compete à AGSE, I. P.:
 
@@ -197,7 +238,9 @@ g) [...]
 
 h) [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Os procedimentos com vista à celebração de contratos são abertos pelo presidente do conselho diretivo da AGSE, I. P., mediante aviso de abertura publicado no sítio na Internet da referida agência.
 
@@ -219,7 +262,9 @@ d) [...]
 
 6 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O processo de candidatura deve ser formalizado, dentro do prazo indicado no aviso de abertura, por via eletrónica, mediante o preenchimento de formulário próprio disponível no sítio na Internet da AGSE, I. P.
 
@@ -229,7 +274,9 @@ d) [...]
 
 4 - Todas as comunicações entre a AGSE, I. P., e as entidades candidatas, designadamente em matéria de notificações, são efetuadas para o endereço eletrónico indicado por estas.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - A avaliação e a seleção das candidaturas são feitas pela AGSE, I. P., nos termos da presente portaria e do aviso de abertura.
 
@@ -237,7 +284,9 @@ d) [...]
 
 3 - [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Sem prejuízo das obrigações previstas no EEPC e no contrato, as entidades titulares dos estabelecimentos de ensino estão sujeitas às seguintes obrigações:
 
@@ -259,7 +308,9 @@ h) Enviar à AGSE, I. P., até 15 de setembro de cada ano, a lista com os alunos
 
 2 - As entidades titulares dos estabelecimentos de ensino devem, também, cumprir as demais obrigações previstas no artigo 18.º do EEPC.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -275,19 +326,25 @@ h) Enviar à AGSE, I. P., até 15 de setembro de cada ano, a lista com os alunos
 
 7 - [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - O valor do apoio financeiro a conceder, no âmbito dos contratos de associação, é fixado no montante de 90 097,61 €, por turma e por ano escolar.
 
 2 - [...]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - O apoio financeiro é pago pela AGSE, I. P., mensalmente, através de transferência bancária.
 
 2 - [...]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - A resolução do contrato, verificada nos termos do artigo anterior, obriga a entidade infratora a assegurar aos alunos abrangidos pelo contrato o cumprimento do ano letivo.
 
@@ -313,7 +370,7 @@ O valor do apoio financeiro a conceder, por turma e por ano escolar, nos termos 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 17 de agosto de 2026. - O Ministro da Educação, Ciência e Inovação, Fernando Alexandre, em 5 de agosto de 2026.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 17 de agosto de 2026. - O Ministro da Educação, Ciência e Inovação, Fernando Alexandre, em 5 de agosto de 2026.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -430,3 +487,5 @@ g) [...]
 2 - [...]
 
 [...]
+
+119949438

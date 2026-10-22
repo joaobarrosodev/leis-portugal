@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/6/2005/02/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/6-2005-605327
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-17T00:00:00Z'
+  retrieved_at: '2026-10-22T19:05:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec1c52eb1e4d423869e7a5da872e0e605d70fbfb378fabfbdebd2313b80514b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c76981be1a9f25ef7a4fd580e7d7a0b0c2dac0692fd9d1e39e21236759631e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:05:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,38 +66,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Localização de Empresas
 - CE Países
+- Cisão de Empresas
 - Código do Notariado
 - Código do Registo Comercial
-- Serviços de Registo e Notariado
 - Constituição de Sociedade
-- Cisão de Empresas
 - Empresa Europeia
-- Sociedade Anónima Europeia
 - Estatuto
 - Fusão de Sociedades
-- Publicitação
+- Localização de Empresas
 - Pessoa Coletiva
+- Publicitação
 - Regime Jurídico
+- Registo Comercial
 - Registo Nacional de Pessoas Coletivas
 - Regulamento CE
-- Registo Comercial
+- Serviços de Registo e Notariado
+- Sociedade Anónima Europeia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/2/2005/01/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/2/2005/01/04/p/dre
+- type: cites
+  target: pt:dre:457217:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:2/2005
+  label: "Rectifica o Decreto-Lei n.º 2/2005, de 4 de Janeiro, DR.IS-A [2]\0\0"
+  source: null
+  date: '2005-01-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:05:20Z'
   warnings: []
   errors: []
 ---

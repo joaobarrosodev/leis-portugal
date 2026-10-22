@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/actconst/338/2010/11/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/338-2010-309052
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-08T00:00:00Z'
+  retrieved_at: '2026-10-22T18:23:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 904e0749a474f13bf190648b8bac94da8795b4f8edb9cc804f01ef53150ca044
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 475bdff3073dbeec6af1d2c53dacdcb800c738bd87b0c550d1df412c7db122f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:23:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Código do Trabalho
 - Despedimento
 - Direito do Trabalho
-- Código do Trabalho
 - Inconstitucionalidade
 - Prova
 - Trabalhador
 relationships:
+- type: amends
+  target: pt:numero:lei:7/2009
+  label: "Declara a inconstitucionalidade, com força obrigatória geral, da norma constante do art. 356.º, n.º 1, do Código\
+    \ do Trabalho, aprovado pela Lei n.º 7/2009, de 12-Fev., DR IS [30]\00]\0"
+  source: null
+  date: '2009-02-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/ac/306/2003/07/18/p/dre
   label: null
@@ -107,16 +113,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
+- type: cites
+  target: pt:dre:157052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671046:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:23:53Z'
   warnings: []
   errors: []
 ---
@@ -175,7 +229,9 @@ n) Direitos dos representantes eleitos dos trabalhadores.
 
 5 - Sempre que uma norma legal reguladora de contrato de trabalho determine que a mesma pode ser afastada por instrumento de regulamentação colectiva de trabalho entende-se que o não pode ser por contrato de trabalho.
 
-###### Artigo 140.º — Admissibilidade de contrato de trabalho a termo resolutivo
+Artigo 140.º
+
+Admissibilidade de contrato de trabalho a termo resolutivo
 
 4 - Além das situações previstas no n.º 1, pode ser celebrado contrato de trabalho a termo certo para:
 
@@ -183,15 +239,21 @@ a) Lançamento de nova actividade de duração incerta, bem como início de labo
 
 b) Contratação de trabalhador à procura de primeiro emprego, em situação de desemprego de longa duração ou noutra prevista em legislação especial de política de emprego.
 
-###### Artigo 163.º — Cessação de comissão de serviço
+Artigo 163.º
+
+Cessação de comissão de serviço
 
 1 - Qualquer das partes pode pôr termo à comissão de serviço, mediante aviso prévio por escrito, com a antecedência mínima de 30 ou 60 dias, consoante aquela tenha durado, respectivamente, até dois anos ou período superior.
 
-###### Artigo 205.º — Adaptabilidade individual
+Artigo 205.º
+
+Adaptabilidade individual
 
 4 - O acordo pode ser celebrado mediante proposta, por escrito, do empregador, presumindo-se a aceitação por parte de trabalhador que a ela não se oponha, por escrito, nos 14 dias seguintes ao conhecimento da mesma, aí incluídos os períodos a que se refere o n.º 2 do artigo 217.º
 
-###### Artigo 206.º — Adaptabilidade grupal
+Artigo 206.º
+
+Adaptabilidade grupal
 
 1 - O instrumento de regulamentação colectiva de trabalho que institua o regime de adaptabilidade previsto no artigo 204.º pode prever que:
 
@@ -207,7 +269,9 @@ b) O disposto na alínea anterior se aplique enquanto os trabalhadores da equipa
 
 5 - Constitui contra-ordenação grave a prática de horário de trabalho em violação do disposto neste artigo.
 
-###### Artigo 208.º — Banco de horas
+Artigo 208.º
+
+Banco de horas
 
 1 - Por instrumento de regulamentação colectiva de trabalho, pode ser instituído um regime de banco de horas, em que a organização do tempo de trabalho obedeça ao disposto nos números seguintes.
 
@@ -225,7 +289,9 @@ c) O período em que a redução do tempo de trabalho para compensar trabalho pr
 
 5 - Constitui contra-ordenação grave a prática de horário de trabalho em violação do disposto neste artigo.
 
-###### Artigo 209.º — Horário concentrado
+Artigo 209.º
+
+Horário concentrado
 
 1 - O período normal de trabalho diário pode ter aumento até quatro horas diárias:
 
@@ -237,11 +303,15 @@ b) Por instrumento de regulamentação colectiva para estabelecer um horário de
 
 3 - O instrumento de regulamentação colectiva de trabalho que institua o horário concentrado regula a retribuição e outras condições da sua aplicação.
 
-###### Artigo 356.º — Instrução
+Artigo 356.º
+
+Instrução
 
 1 - Cabe ao empregador decidir a realização das diligências probatórias requeridas na resposta à nota de culpa.
 
-###### Artigo 392.º — Indemnização em substituição de reintegração a pedido do empregador
+Artigo 392.º
+
+Indemnização em substituição de reintegração a pedido do empregador
 
 1 - Em caso de microempresa ou de trabalhador que ocupe cargo de administração ou de direcção, o empregador pode requerer ao tribunal que exclua a reintegração, com fundamento em factos e circunstâncias que tornem o regresso do trabalhador gravemente prejudicial e perturbador do funcionamento da empresa.
 
@@ -249,7 +319,9 @@ b) Por instrumento de regulamentação colectiva para estabelecer um horário de
 
 3 - Caso o tribunal exclua a reintegração, o trabalhador tem direito a indemnização, determinada pelo tribunal entre 30 e 60 dias de retribuição base e diuturnidades por cada ano completo ou fracção de antiguidade, nos termos estabelecidos nos n.os 1 e 2 do artigo anterior, não podendo ser inferior ao valor correspondente a seis meses de retribuição base e diuturnidades.
 
-###### Artigo 497.º — Escolha de convenção aplicável
+Artigo 497.º
+
+Escolha de convenção aplicável
 
 1 - Caso sejam aplicáveis, no âmbito de uma empresa, uma ou mais convenções colectivas ou decisões arbitrais, o trabalhador que não seja filiado em qualquer associação sindical pode escolher qual daqueles instrumentos lhe passa a ser aplicável.
 
@@ -259,7 +331,9 @@ b) Por instrumento de regulamentação colectiva para estabelecer um horário de
 
 4 - O trabalhador pode revogar a escolha, sendo neste caso aplicável o disposto no n.º 4 do artigo anterior.
 
-###### Artigo 501.º — Sobrevigência e caducidade de convenção colectiva
+Artigo 501.º
+
+Sobrevigência e caducidade de convenção colectiva
 
 1 - A cláusula de convenção que faça depender a cessação da vigência desta da substituição por outro instrumento de regulamentação colectiva de trabalho caduca decorridos cinco anos sobre a verificação de um dos seguintes factos:
 

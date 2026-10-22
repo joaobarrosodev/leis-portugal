@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2026/09/18400/0000400012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,36 +48,50 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/249/2026/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/249-2026-1172319749
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-22T00:00:00Z'
+  retrieved_at: '2026-10-22T18:53:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06ff8dcea65dc7b1d26b057f8356b8c604d5ec47663a90834ed5c3413fef0436
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f712e4af7abbaa227a1cf8cacbcdd0a245295f7f5c3983c7a4833aef379a775e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:53:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Água
+- Bacia Hidrográfica
+- Convenção
+- Espanha
+- Portugal
+- Proteção do Ambiente
+relationships:
+- type: amended_by
+  target: pt:dre:1172319748:por
+  label: Ratificado o Segundo Protocolo de Revisão da Convenção sobre Cooperação para a Proteção e o Aproveitamento Sustentável
+    das Águas das Bacias Hidrográficas Luso-Espanholas e do Protocolo Adicional, aprovado pela pela presente Resolução da
+    Assembleia da República, pelo(a) Decreto do Presidente da República n.º 145/2026 - Diário da República n.º 184/2026, Série
+    I de 2026-09-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/145-2026-1172319748
+  date: '2026-09-21'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:53:40Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +104,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 17 de julho de 2026.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar-Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar-Branco.
 
 SEGUNDO PROTOCOLO DE REVISÃO DA CONVENÇÃO SOBRE COOPERAÇÃO PARA A PROTEÇÃO E O APROVEITAMENTO SUSTENTÁVEL DAS ÁGUAS DAS BACIAS HIDROGRÁFICAS LUSO-ESPANHOLAS E DO PROTOCOLO ADICIONAL, FEITOS EM ALBUFEIRA A 30 DE NOVEMBRO DE 1998, ENTRE A REPÚBLICA PORTUGUESA E O REINO DE ESPANHA, RELATIVO AO REGIME DE CAUDAIS DO RIO GUADIANA NA SECÇÃO DE POMARÃO.
 
@@ -128,7 +142,7 @@ Até que se defina uma curva de vazão ou em caso de avaria na estação de Poma
 
 a) Para a estação de monitorização do Açude de Badajoz (a montante do rio Caia):
 
-i) Os caudais integrais anuais não se aplicam aos casos de exceções previstos na subalínea i) da alínea a) do n.º 4 do Segundo Anexo ao Protocolo Adicional. A situação de exceção cessa no primeiro mês a seguir ao mês de dezembro em que o volume total armazenado nas albufeiras de referência seja superior a 3150 hm<sup>3</sup>;
+i) Os caudais integrais anuais não se aplicam aos casos de exceções previstos na subalínea i) da alínea a) do n.º 4 do Segundo Anexo ao Protocolo Adicional. A situação de exceção cessa no primeiro mês a seguir ao mês de dezembro em que o volume total armazenado nas albufeiras de referência seja superior a 3150 hm3;
 
 ii) Os caudais integrais trimestrais não se aplicam aos casos de exceções indicados na subalínea ii) da alínea a) do n.º 4 do Segundo Anexo ao Protocolo Adicional;
 
@@ -136,7 +150,7 @@ b) Para a estação de monitorização de Pomarão (a montante do rio Chança): 
 
 ###### Artigo 2.º — Revisão das bases do regime de caudais
 
-Os n.<sup>os</sup>2 e 3 do Anexo ao Protocolo Adicional passam a ter a seguinte redação:
+Os n.os2 e 3 do Anexo ao Protocolo Adicional passam a ter a seguinte redação:
 
 «2 - As Partes poderão rever por comum acordo, no seio da Comissão, o regime de caudais regulado no âmbito da Convenção de Albufeira.
 
@@ -156,13 +170,13 @@ Nas futuras revisões do regime de caudais, as Partes terão em conta os regimes
 
 A redação do n.º 6 é alterada e é adicionado um n.º 7 ao Anexo ao Protocolo Adicional, que assume a redação do anterior n.º 6:
 
-«6 - O regime de caudais do rio Guadiana na secção de Pomarão inclui o regime de caudais ecológicos estabelecido por Portugal em 2005, acrescido do volume a garantir para utilizações socioeconómicas, que poderá atingir em anos hidrologicamente mais favoráveis um valor máximo de 90 hm<sup>3</sup>.
+«6 - O regime de caudais do rio Guadiana na secção de Pomarão inclui o regime de caudais ecológicos estabelecido por Portugal em 2005, acrescido do volume a garantir para utilizações socioeconómicas, que poderá atingir em anos hidrologicamente mais favoráveis um valor máximo de 90 hm3.
 
 Tendo como primeira prioridade garantir a utilização sustentável do troço final do rio Guadiana e, por conseguinte, o bom estado das massas de água, as Partes acordam na distribuição equitativa dos caudais disponíveis e reconhecem as captações de Pomarão e Bocachança, que poderão captar água para usos socioeconómicos de acordo com a seguinte distribuição equitativa:
 
-a) Captação de Pomarão para o reforço do abastecimento de água ao Algarve: este aproveitamento no troço português do Guadiana, corresponde à captação de um volume anual máximo de 30 hm<sup>3</sup>, nada obstando a que, mais tarde, o volume a captar seja ampliado até 60 hm<sup>3</sup>, tal como a captação de Bocachança, sem, no entanto, comprometer o regime de caudais definido para a secção de Pomarão, nem os usos previstos em Bocachança.
+a) Captação de Pomarão para o reforço do abastecimento de água ao Algarve: este aproveitamento no troço português do Guadiana, corresponde à captação de um volume anual máximo de 30 hm3, nada obstando a que, mais tarde, o volume a captar seja ampliado até 60 hm3, tal como a captação de Bocachança, sem, no entanto, comprometer o regime de caudais definido para a secção de Pomarão, nem os usos previstos em Bocachança.
 
-b) Bombagem de Bocachança para o reforço do abastecimento de água a Huelva: este aproveitamento no troço internacional do Guadiana, corresponde à captação de um volume anual máximo de 60 hm<sup>3</sup>, podendo em situações de caudais muito elevados captar volumes superiores, sem que tal prejudique a realização da operação de libertação dos caudais de cheia, tal como descrito na subalínea i) da alínea b) do n.º 4 do Segundo Anexo ao Protocolo Adicional.
+b) Bombagem de Bocachança para o reforço do abastecimento de água a Huelva: este aproveitamento no troço internacional do Guadiana, corresponde à captação de um volume anual máximo de 60 hm3, podendo em situações de caudais muito elevados captar volumes superiores, sem que tal prejudique a realização da operação de libertação dos caudais de cheia, tal como descrito na subalínea i) da alínea b) do n.º 4 do Segundo Anexo ao Protocolo Adicional.
 
 As captações de Pomarão e de Bocachança apenas podem captar entre os meses de outubro e abril de cada ano, sem prejuízo do disposto na alínea b) do presente número.
 
@@ -186,11 +200,11 @@ A alínea b) do n.º 4 do Segundo Anexo ao Protocolo Adicional passa a ter segui
 
 i) Caudal integral mensal:
 
-| Caudais (hm<sup>3</sup>) | out | nov | dez | jan | fev | mar | abr | mai | jun | jul | ago | set | Total anual |
+| Caudais (hm3) | out | nov | dez | jan | fev | mar | abr | mai | jun | jul | ago | set | Total anual |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Mês seco | 12,5 | 28,5 | 33 | 33,5 | 31,5 | 27 | 25 | 16 | 8 | 8 | 8 | 8 | 239 |
-| Mês médio | 33 | 58 | 65 | 66 | 62 | 65 | 48 | 35 | 24 | 16 | 16 | 16 | 504 |
-| Mês húmido | 35 | 69 | 104 | 105 | 95 | 94 | 64 | 40 | 30 | 24 | 24 | 24 | 708 |
+| Mês seco | 12,5 | 28,5 | 33 | 33,5 | 31,5 | 27 | 25 | 16 | 8 | 8 | 8 | 8 | **239** |
+| Mês médio | 33 | 58 | 65 | 66 | 62 | 65 | 48 | 35 | 24 | 16 | 16 | 16 | **504** |
+| Mês húmido | 35 | 69 | 104 | 105 | 95 | 94 | 64 | 40 | 30 | 24 | 24 | 24 | **708** |
 
 A classificação hidrológica de cada mês baseia-se nos registos de precipitação das estações de referência, considerando os percentis (P) da série histórica do período de 1959/60 a 2021/2022 que serão atualizados a cada cinco anos e realiza-se da seguinte forma:
 
@@ -211,21 +225,21 @@ A classificação hidrológica de cada mês baseia-se nos registos de precipita�
 
 Caudais de cheia:
 
-Em anos não secos (definidos pela precipitação de referência a 31 de janeiro) deve promover-se a descarga contínua de caudais de valor igual ou superior a 300 m<sup>3</sup>/s durante 2 dias, no mês de fevereiro, correspondendo a um volume de 45,8 hm<sup>3</sup>, caso não tenham ocorrido desde o início de novembro afluências desta ordem de grandeza na secção de Pulo do Lobo. O caudal a descarregar deve aumentar gradualmente durante cerca de 3 horas e diminuir gradualmente com idêntica duração na fase final. Esta condição é designada por caudais de cheia gerados pelo Sistema Alqueva-Pedrogão e deve ser devidamente comunicada previamente pela concessionária às Partes.
+Em anos não secos (definidos pela precipitação de referência a 31 de janeiro) deve promover-se a descarga contínua de caudais de valor igual ou superior a 300 m3/s durante 2 dias, no mês de fevereiro, correspondendo a um volume de 45,8 hm3, caso não tenham ocorrido desde o início de novembro afluências desta ordem de grandeza na secção de Pulo do Lobo. O caudal a descarregar deve aumentar gradualmente durante cerca de 3 horas e diminuir gradualmente com idêntica duração na fase final. Esta condição é designada por caudais de cheia gerados pelo Sistema Alqueva-Pedrogão e deve ser devidamente comunicada previamente pela concessionária às Partes.
 
-ii) Caudal médio diário - 2,7 m<sup>3</sup>/s.
+ii) Caudal médio diário - 2,7 m3/s.
 
 iii) Exceções:
 
-- Sempre que o volume total da albufeira do Alqueva seja igual ou inferior a 2500 hm<sup>3</sup>é declarada situação de exceção e apenas são garantidos os seguintes caudais mensais:
+- Sempre que o volume total da albufeira do Alqueva seja igual ou inferior a 2500 hm3é declarada situação de exceção e apenas são garantidos os seguintes caudais mensais:
 
-| Caudais (hm<sup>3</sup>) | out | nov | dez | jan | fev | mar | abr | mai | jun | jul | ago | set | Total |
+| Caudais (hm3) | out | nov | dez | jan | fev | mar | abr | mai | jun | jul | ago | set | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Mês seco | 8 | 24 | 26 | 26 | 24 | 20 | 18 | 16 | 8 | 8 | 8 | 8 | 194 |
-| Mês médio | 24 | 49 | 51 | 51 | 47 | 51 | 34 | 35 | 24 | 16 | 16 | 16 | 414 |
-| Mês húmido | 26 | 60 | 90 | 90 | 80 | 80 | 50 | 40 | 30 | 24 | 24 | 24 | 618 |
+| Mês seco | 8 | 24 | 26 | 26 | 24 | 20 | 18 | 16 | 8 | 8 | 8 | 8 | **194** |
+| Mês médio | 24 | 49 | 51 | 51 | 47 | 51 | 34 | 35 | 24 | 16 | 16 | 16 | **414** |
+| Mês húmido | 26 | 60 | 90 | 90 | 80 | 80 | 50 | 40 | 30 | 24 | 24 | 24 | **618** |
 
-- Sempre que a precipitação acumulada seja inferior ou igual à precipitação de referência para o percentil 5 %, apenas é garantido o caudal diário de 2,7 m<sup>3</sup>/s.
+- Sempre que a precipitação acumulada seja inferior ou igual à precipitação de referência para o percentil 5 %, apenas é garantido o caudal diário de 2,7 m3/s.
 
 - Nos meses classificados como secos (percentil ≤ 25 %) apenas é garantido 50 % do volume para os usos socioeconómicos.»
 
@@ -237,7 +251,7 @@ O presente Protocolo entrará em vigor de acordo com o disposto no artigo 31.º 
 
 A Parte em cujo território o presente Acordo for assinado, submetê-lo-á para registo junto do Secretariado das Nações Unidas, imediatamente após a sua entrada em vigor, nos termos do Artigo 102.º da Carta das Nações Unidas, devendo, igualmente, notificar a outra Parte da conclusão deste procedimento e indicar-lhe o número de registo atribuído.
 
-**Assinado em Madrid, em 24 de fevereiro de 2026, em dois originais, nas línguas portuguesa e espanhola, sendo todos os textos igualmente autênticos.**
+Assinado em Madrid, em 24 de fevereiro de 2026, em dois originais, nas línguas portuguesa e espanhola, sendo todos os textos igualmente autênticos.
 
 Pela República Portuguesa:
 
@@ -283,7 +297,7 @@ b) Estación hidrométrica de Pomarão (aguas arriba de la confluencia del río 
 
 a) Para la estación de control Azud de Badajoz (aguas arriba del río Caya):
 
-i) Los caudales integrales anuales no se aplican en los casos de excepciones previstos en el subapartado i) del apartado a) del punto 4 del Segundo Anexo al Protocolo Adicional. La situación de excepción se considerará concluida a partir del primer mes siguiente a diciembre en que el volumen total almacenado en los embalses de referencia sea superior a 3.150 hm<sup>3</sup>;
+i) Los caudales integrales anuales no se aplican en los casos de excepciones previstos en el subapartado i) del apartado a) del punto 4 del Segundo Anexo al Protocolo Adicional. La situación de excepción se considerará concluida a partir del primer mes siguiente a diciembre en que el volumen total almacenado en los embalses de referencia sea superior a 3.150 hm3;
 
 ii) Los caudales integrales trimestrales no se aplican en los casos de excepciones previstos en el subapartado ii) del apartado a) del punto 4 del Segundo Anexo al Protocolo Adicional.
 
@@ -317,7 +331,7 @@ Bases para el reparto equitativo de caudales
 
 Se modifica la redacción del punto 6 y se añade un punto 7 al anexo al Protocolo Adicional, que recoge la redacción del anterior punto 6:
 
-«6 - El régimen de caudales del río Guadiana en la sección de Pomarão incluye el régimen de caudales ecológicos establecido por Portugal en 2005, al que se añade el volumen que se debe garantizar para usos socioeconómicos, que podrá alcanzar en años hidrológicamente más favorables, un valor máximo de 90 hm<sup>3</sup>.
+«6 - El régimen de caudales del río Guadiana en la sección de Pomarão incluye el régimen de caudales ecológicos establecido por Portugal en 2005, al que se añade el volumen que se debe garantizar para usos socioeconómicos, que podrá alcanzar en años hidrológicamente más favorables, un valor máximo de 90 hm3.
 
 Teniendo como primera prioridad garantizar el uso sostenible del tramo final del río Guadiana y, en consecuencia, el buen estado de las masas de agua, las Partes acuerdan el reparto equitativo de los caudales disponibles y reconocen las captaciones de Pomarão y Bocachanza. que podrán captar agua para usos socioeconómicos conforme a la siguiente distribución equitativa:
 
@@ -349,7 +363,7 @@ El apartado b) del punto 4 del Segundo Anexo al Protocolo Adicional queda redact
 
 i) Caudal integral mensual:
 
-| Caudales (hm<sup>3</sup>) | Oct | Nov | Dic | Ene | Feb | Mar | Abr | May | Jun | Jul | Ago | Sep | Total anual |
+| Caudales (hm3) | Oct | Nov | Dic | Ene | Feb | Mar | Abr | May | Jun | Jul | Ago | Sep | Total anual |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Mes seco | 12,5 | 28,5 | 33 | 33,5 | 31,5 | 27 | 25 | 16 | 8 | 8 | 8 | 8 | 239 |
 | Mes medio | 33 | 58 | 65 | 66 | 62 | 65 | 48 | 35 | 24 | 16 | 16 | 16 | 504 |
@@ -376,13 +390,13 @@ Caudales de crecida:
 
 En años no secos (definidos por la precipitación de referencia a fecha de 31 de enero), se debe promover la descarga continua de caudales con un valor igual o mayor a 300 m³/s durante 2 días, en el mes de febrero, lo que corresponde a un volumen de 45,8 hm³, en caso de que no hayan ocurrido desde principios de noviembre afluencias de esta magnitud en la sección de Pulo do Lobo. El caudal que ha de liberarse debe aumentar gradualmente durante unas 3 horas y disminuir gradualmente durante el mismo tiempo en la fase final. Esta condición se denomina caudales de crecida generados por el Sistema Alqueva - Pedrogão y ha de ser debidamente comunicada con antelación por el concesionario a las Partes.
 
-ii) Caudal medio diario - 2,7 m<sup>3</sup>/s.
+ii) Caudal medio diario - 2,7 m3/s.
 
 iii) Excepciones:
 
-- Siempre que el volumen total del embalse de Alqueva sea menor o igual a 2500 hm<sup>3</sup>, se declara una situación de excepción, y solo se garantizan los siguientes caudales mensuales:
+- Siempre que el volumen total del embalse de Alqueva sea menor o igual a 2500 hm3, se declara una situación de excepción, y solo se garantizan los siguientes caudales mensuales:
 
-| Caudales (hm<sup>3</sup>) | Oct | Nov | Dic | Ene | Feb | Mar | Abr | May | Jun | Jul | Ago | Sep | Total |
+| Caudales (hm3) | Oct | Nov | Dic | Ene | Feb | Mar | Abr | May | Jun | Jul | Ago | Sep | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Mes. seco | 8 | 24 | 26 | 26 | 24 | 20 | 18 | 16 | 8 | 8 | 8 | 8 | 194 |
 | Mes medio | 24 | 49 | 51 | 51 | 47 | 51 | 34 | 35 | 24 | 16 | 16 | 16 | 414 |
@@ -413,3 +427,7 @@ José Augusto Duarte, Embajador Extraordinario y Plenipotenciario de la Repúbli
 Por el Reino de España:
 
 Sara Aagesen Muñoz, Vicepresidenta Tercera y Ministra para la Transición Ecológica y el Reto Demográfico del Reino de España.
+
+119949210
+
+.Tbl2 { height:26px; } .Tbl3 { background-color:rgb(213,220,228); } .Tbl4 { text-align:center; } .Tbl5 { min-height:49px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:top; } .Tbl9 { border-collapse:collapse; border-width:1px; } .Tbl10 { min-height:18px; } .Tbl11 { min-height:27px; }

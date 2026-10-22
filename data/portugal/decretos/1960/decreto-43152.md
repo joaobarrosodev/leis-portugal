@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43152-1960-514644
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-09-06T00:00:00Z'
+  retrieved_at: '2026-10-22T19:19:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2da867dcc51cda0ebfb04340cbb078b825615f0e589487abad0d67ac907926f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 748bbeb4209344e4146990a90e178963c7d03fad3f16e379b17112feec896c66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:19:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:19:32Z'
   warnings: []
   errors: []
 ---
@@ -93,17 +97,17 @@ Tendo presente a urgência de providenciar no sentido exposto, e ao abrigo do qu
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o Governo-Geral de Angola a dar o aval da província até ao montante de 30000 contos para uma operação de empréstimo a contrair no Banco de Angola pelo Fundo de Apoio à Pesca, nas condições prèviamente aceites pela comissão administrativa do citado Fundo.
+Artigo 1.º É autorizado o Governo-Geral de Angola a dar o aval da província até ao montante de 30000 contos para uma operação de empréstimo a contrair no Banco de Angola pelo Fundo de Apoio à Pesca, nas condições prèviamente aceites pela comissão administrativa do citado Fundo.
 
-###### Art. 2.º À responsabilidade decorrente para a província de Angola do aval referido no artigo anterior será aplicado o seguinte regime:
+Art. 2.º À responsabilidade decorrente para a província de Angola do aval referido no artigo anterior será aplicado o seguinte regime:
 
 a) Se a comissão administrativa do Fundo reconhecer que não está habilitada a satisfazer os encargos da amortização e juros nas datas fixadas para o respectivo pagamento, dará do facto conhecimento ao Governo-Geral de Angola, com a antecipação de 40 dias do vencimento dos referidos encargos;
 
 b) O Governo-Geral de Angola, com base no aviso a que se refere a alínea antecedente, ou, na sua falta, por aviso do banco credor, abrirá, pela forma designada no artigo 16.º do [Decreto n.º 35770](https://diariodarepublica.pt/dr/detalhe/decreto/35770-1946-155234), de 29 de Julho de 1946, o crédito especial necessário para poder satisfazer a respectiva prestação.
 
-###### Art. 3.º A província de Angola gozará do privilégio creditório, nos termos do artigo 878.º do Código Civil, pelas quantias que despender para cumprimento das responsabilidades que assumir nos termos deste decreto.
+Art. 3.º A província de Angola gozará do privilégio creditório, nos termos do artigo 878.º do Código Civil, pelas quantias que despender para cumprimento das responsabilidades que assumir nos termos deste decreto.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Setembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.
 

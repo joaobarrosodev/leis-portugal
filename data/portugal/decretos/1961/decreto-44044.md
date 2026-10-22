@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44044-1961-181604
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-11-20T00:00:00Z'
+  retrieved_at: '2026-10-22T19:26:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14d9758564769454dce6dce0b2907dd4ac4d04a14636ccd44100ca35d0bd8bfb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d1d6af1f2316ddf698bf18c29cf3fa89ce0fb39d807c4e535bafdc1e6d4e24d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:26:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 15
-  section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:26:47Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +103,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São transferidas as quantias adiante indicadas dentro do orçamento do Ministério do Exército:
+Artigo 1.º São transferidas as quantias adiante indicadas dentro do orçamento do Ministério do Exército:
 
 No capítulo 2.º:
 
@@ -109,94 +125,94 @@ N.º 1) «Alimentação» ... +226496$00
 
 N.º 2), alínea a) «Fardamento do pessoal menor (civil)» ... +15000$00
 
-###### Art. 2.º São abertos no Ministério das Finanças, a favor do Ministério do Exército, créditos especiais no montante de 5522610$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças, a favor do Ministério do Exército, créditos especiais no montante de 5522610$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
-### Capítulo 1.º «Gabinete do Ministro - Serviço Mecanográfico do Exército (Lisboa)»:
+Capítulo 1.º «Gabinete do Ministro - Serviço Mecanográfico do Exército (Lisboa)»:
 
-###### Artigo 10.º «Outros encargos», n.º 2) «Encargos resultantes da execução dos artigos 144.º e 146.º do Decreto n.º 42564, de 7 de Outubro de 1959» ... 30000$00
+Artigo 10.º «Outros encargos», n.º 2) «Encargos resultantes da execução dos artigos 144.º e 146.º do Decreto n.º 42564, de 7 de Outubro de 1959» ... 30000$00
 
-### Capítulo 2.º «Estado-Maior do Exército»:
+Capítulo 2.º «Estado-Maior do Exército»:
 
 Órgãos centrais
 
-###### Artigo 13.º, n.º 2) «Artigos de expediente ...» ... 40000$00
+Artigo 13.º, n.º 2) «Artigos de expediente ...» ... 40000$00
 
-###### Artigo 14.º, n.º 1) «Luz, ...» ... 110000$00
+Artigo 14.º, n.º 1) «Luz, ...» ... 110000$00
 
 Missões e comissões de serviço e de estudo no estrangeiro
 
-###### Artigo 38.º, n.º 2) «Manutenção dos serviços dos adidos militares» ... 300000$00
+Artigo 38.º, n.º 2) «Manutenção dos serviços dos adidos militares» ... 300000$00
 
-### Capítulo 3.º «Serviços de instrução»:
+Capítulo 3.º «Serviços de instrução»:
 
 Academia Militar (Lisboa)
 
-###### Artigo 56.º, n.º 2) «De semoventes», alínea a) «Veículos com motor» ... 100000$00
+Artigo 56.º, n.º 2) «De semoventes», alínea a) «Veículos com motor» ... 100000$00
 
-###### Artigo 57.º, n.º 2) «Artigos de expediente ...» ... 40000$00
+Artigo 57.º, n.º 2) «Artigos de expediente ...» ... 40000$00
 
-###### Artigo 58.º, n.º 2) «Luz, ...» ... 332000$00
+Artigo 58.º, n.º 2) «Luz, ...» ... 332000$00
 
 Colégio Militar (Lisboa)
 
-###### Artigo 137.º «Despesas de conservação e aproveitamento do material»:
+Artigo 137.º «Despesas de conservação e aproveitamento do material»:
 
 N.º 1), alínea a) «Veículos com motor» ... 20000$00
 
 N.º 2) «De móveis» ... 50000$00
 
-###### Artigo 138.º, n.º 2) «Impressos» ... 40000$00
+Artigo 138.º, n.º 2) «Impressos» ... 40000$00
 
-###### Artigo 140.º «Encargos administrativos»:
+Artigo 140.º «Encargos administrativos»:
 
 N.º 2) «Excursões escolares» ... 50000$00
 
 N.º 3) «Exercícios finais» ... 20000$00
 
-###### Artigo 141.º, n.º 2), alínea a) «Diplomas e prémios» ... 13000$00
+Artigo 141.º, n.º 2), alínea a) «Diplomas e prémios» ... 13000$00
 
-### Capítulo 7.º «Órgãos hospitalares - Hospital Militar Principal (Lisboa)»:
+Capítulo 7.º «Órgãos hospitalares - Hospital Militar Principal (Lisboa)»:
 
-###### Artigo 265.º, n.º 2) «Pessoal assalariado», alínea b) «Pessoal eventual» ... 269610$00
+Artigo 265.º, n.º 2) «Pessoal assalariado», alínea b) «Pessoal eventual» ... 269610$00
 
-### Capítulo 8.º «Encargos gerais do Ministério - Despesas gerais»:
+Capítulo 8.º «Encargos gerais do Ministério - Despesas gerais»:
 
-###### Artigo 326.º, n.º 4) «Alimentação e alojamento a oficiais, ...» ... 4000000$00
+Artigo 326.º, n.º 4) «Alimentação e alojamento a oficiais, ...» ... 4000000$00
 
-###### Artigo 329.º, n.º 2), alínea a) «Animais», n.º 4) «Alimentação, ...» ... 108000$00
+Artigo 329.º, n.º 2), alínea a) «Animais», n.º 4) «Alimentação, ...» ... 108000$00
 
 ... 5522610$00
 
-###### Art. 3.º Como compensação dos créditos designados no artigo anterior, são efectuadas as seguintes anulações no vigente orçamento do Ministério do Exército:
+Art. 3.º Como compensação dos créditos designados no artigo anterior, são efectuadas as seguintes anulações no vigente orçamento do Ministério do Exército:
 
-### Capítulo 1.º, artigo 5.º, n.º 1 ... 500000$00
+Capítulo 1.º, artigo 5.º, n.º 1 ... 500000$00
 
-### Capítulo 1.º, artigo 9.º, n.º 1 ... 30000$00
+Capítulo 1.º, artigo 9.º, n.º 1 ... 30000$00
 
-### Capítulo 2.º, artigo 17.º, n.º 1) ... 184750$00
+Capítulo 2.º, artigo 17.º, n.º 1) ... 184750$00
 
-### Capítulo 2.º, artigo 17.º, n.º 2), alínea a) ... 80000$00
+Capítulo 2.º, artigo 17.º, n.º 2), alínea a) ... 80000$00
 
-### Capítulo 2.º, artigo 35.º, n.º 1), alínea c) ... 21000$00
+Capítulo 2.º, artigo 35.º, n.º 1), alínea c) ... 21000$00
 
-### Capítulo 2.º, artigo 36.º, n.º 1), alínea c) ... 164250$00
+Capítulo 2.º, artigo 36.º, n.º 1), alínea c) ... 164250$00
 
-### Capítulo 3.º, artigo 52.º, n.º 1) ... 472000$00
+Capítulo 3.º, artigo 52.º, n.º 1) ... 472000$00
 
-### capítulo 3.º, artigo 133.º, n.º 1) ... 193000$00
+capítulo 3.º, artigo 133.º, n.º 1) ... 193000$00
 
-### Capítulo 8.º, artigo 310.º, n.º 2), alínea a) ... 3008000$00
+Capítulo 8.º, artigo 310.º, n.º 2), alínea a) ... 3008000$00
 
-### Capítulo 8.º, artigo 313.º, n.º 1) ... 600000$00
+Capítulo 8.º, artigo 313.º, n.º 1) ... 600000$00
 
-### Capítulo 9.º, artigo 335.º, n.º 1) ... 169610$00
+Capítulo 9.º, artigo 335.º, n.º 1) ... 169610$00
 
-### Capítulo 9.º, artigo 337.º, n.º 2) ... 100000$00
+Capítulo 9.º, artigo 337.º, n.º 2) ... 100000$00
 
 ... 5522610$00
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Publica, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Novembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

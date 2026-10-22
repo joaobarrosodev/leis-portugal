@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43259-1960-513780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-10-19T00:00:00Z'
+  retrieved_at: '2026-10-22T19:20:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3554f2b40f7d07c09a90a9256c6c8c074efa8774d07438f04a51d24d420bef4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c3095c39edf42d1d97abcc5989d1bd812749778e5d02b9228e5b62eb5742801
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:20:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:20:27Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +91,7 @@ Tendo em vista o disposto no artigo 22.º e seu § 1.º do Decreto-lei n.º 4137
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção-Geral da Aeronáutica Civil a celebrar contratos no corrente ano económico com as firmas a seguir mencionadas para o fornecimento dos equipamentos para emissores que para cada um se indica:
+Artigo 1.º É autorizada a Direcção-Geral da Aeronáutica Civil a celebrar contratos no corrente ano económico com as firmas a seguir mencionadas para o fornecimento dos equipamentos para emissores que para cada um se indica:
 
 E. Dias Serras, Lda. - Fornecimento de 20 transformadores de impedância TMC, pela importância total de 74100$00;
 
@@ -101,8 +101,8 @@ Standard Eléctrica, S. A. R. L. - Fornecimento de acessórios para máquinas te
 
 Standard Eléctrica, S. A. R. L. - Fornecimento de diversos acessórios para máquinas teleimpressoras Teletype, pela importância total de 84012$50.
 
-###### Art. 2.º O encargo total com a celebração destes contratos é de 255137$30 e será liquidado, na sua totalidade, no ano económico de 1961.
+Art. 2.º O encargo total com a celebração destes contratos é de 255137$30 e será liquidado, na sua totalidade, no ano económico de 1961.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços de Governo da República, 19 de Outubro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Carlos Gomes da Silva Ribeiro.

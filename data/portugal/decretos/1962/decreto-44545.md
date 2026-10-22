@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44545-1962-165413
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-11-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:30:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ace3ea7edd1cb0d2f027805baa9f8e5d03dcc3c751ecd060ba78ad0c261b07e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5af7423bfb05383b23e4caa231f8cd6d057b5904241dc1227c0e5f4112c797c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:30:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cunhagem de Moeda
+- Moçambique.Colónia Portuguesa
+- Moeda
 relationships:
 - type: amended_by
   target: pt:dre:155410:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:155410:por
+  label: "Alterado o § único do art. 1º pelo DEC.44736.28.11.1962.MU, DG.IS [274] de 28.11.1962\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/44736-1962-155410
+  date: '1962-11-28'
+- type: cites
+  target: pt:dre:603040:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:30:59Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +107,7 @@ Tendo em conta a urgência de se legislar em conformidade e de harmonia com o §
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a emissão de moedas metálicas destinadas à província de Moçambique, no montante de 65000 contos, sendo:
+Artigo 1.º É autorizada a emissão de moedas metálicas destinadas à província de Moçambique, no montante de 65000 contos, sendo:
 
 1000000 de moedas de 20$00, no valor de 20000 contos.
 
@@ -107,19 +119,19 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § único. As características serão idênticas às das moedas mandadas cunhar pelo [Decreto n.º 38609](https://diariodarepublica.pt/dr/detalhe/decreto/38609-1952-603040), de 21 de Janeiro de 1952.
 
-###### Art. 2.º À medida que as moedas forem sendo recebidas o Governo-Geral da província colocá-las-á à disposição do Banco Nacional Ultramarino, contra a entrega de notas do correspondente valor nominal ou comunicação de que a respectiva importância foi creditada ao mesmo Governo-Geral.
+Art. 2.º À medida que as moedas forem sendo recebidas o Governo-Geral da província colocá-las-á à disposição do Banco Nacional Ultramarino, contra a entrega de notas do correspondente valor nominal ou comunicação de que a respectiva importância foi creditada ao mesmo Governo-Geral.
 
-###### Art. 3.º O Governo-Geral de Moçambique fixará, por meio de portaria, o prazo a partir do qual deixarão de ter curso legal as moedas substituídas.
+Art. 3.º O Governo-Geral de Moçambique fixará, por meio de portaria, o prazo a partir do qual deixarão de ter curso legal as moedas substituídas.
 
-###### Art. 4.º Na Direcção dos Serviços de Fazenda da província será aberta uma conta de operações de tesouraria, sob a epígrafe «Cunhagem de moeda divisionária», pela qual serão satisfeitos todos os encargos resultantes do custo, frete, despacho, seguro e despesas de amoedação, tendo como contrapartida as quantias recebidas do Banco Nacional Ultramarino, nos termos do artigo 2.º deste diploma.
+Art. 4.º Na Direcção dos Serviços de Fazenda da província será aberta uma conta de operações de tesouraria, sob a epígrafe «Cunhagem de moeda divisionária», pela qual serão satisfeitos todos os encargos resultantes do custo, frete, despacho, seguro e despesas de amoedação, tendo como contrapartida as quantias recebidas do Banco Nacional Ultramarino, nos termos do artigo 2.º deste diploma.
 
 § 1.º Será oportunamente publicada no Boletim Oficial da província de Moçambique a conta definitiva das operações de tesouraria a que se refere este artigo.
 
 § 2.º O Governo-Geral de Moçambique dará conhecimento ao Ministério do Ultramar da conta e seus resultados dentro de 60 dias após o seu encerramento.
 
-###### Art. 5.º Ficam revogados os Decretos n.os 24368, 28640, 30701, 36014, 37363 e 37619, respectivamente de 16 de Agosto de 1934, 7 de Maio de 1938, 28 de Agosto de 1940, 6 de Dezembro de 1946, 4 de Abril de 1949 e 17 de Novembro de 1949.
+Art. 5.º Ficam revogados os Decretos n.os 24368, 28640, 30701, 36014, 37363 e 37619, respectivamente de 16 de Agosto de 1934, 7 de Maio de 1938, 28 de Agosto de 1940, 6 de Dezembro de 1946, 4 de Abril de 1949 e 17 de Novembro de 1949.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Agosto de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
 

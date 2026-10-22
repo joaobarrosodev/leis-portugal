@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/11/22700/0000200041.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/acstj/9/2022/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-justica/9-2022-203840767
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-24T00:00:00Z'
+  retrieved_at: '2026-10-22T17:54:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bfb963241060b9d2e470e8ac07459a78216b399f589f4e2e97ec7ccf6c604d19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3b9c6373b425b9956932101ea54822e0ce78e914ad8e8e00e89b2d1b3c8b2b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:54:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Processo Civil
-- Contrato de Seguro
-- Valores Mobiliários
-- Incêndio
 - Código do Processo Civil
+- Companhia de Seguros
+- Contrato de Seguro
+- Incêndio
 - Indemnização
 - Interpretação do Direito
+- Processo Civil
+- Recurso
 - Supremo Tribunal de Justiça
-- Companhia de Seguros
+- Valores Mobiliários
 relationships:
 - type: cites
   target: celex:31993L0013
@@ -114,16 +114,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/94-b/1998/04/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/94-b/1998/04/17/p/dre
+- type: cites
+  target: pt:dre:177869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3193236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041391:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T17:54:30Z'
   warnings: []
   errors: []
 ---
@@ -1171,3 +1215,5 @@ O facto de, na definição pela positiva, dos riscos seguros, se adjetivar a com
 Por essa razão teria uniformizado uniformizaria a jurisprudência, a entender-se, por mera hipótese de raciocínio, que essa uniformização era possível, em sentido oposto ao que foi seguido.
 
 João Cura Mariano.
+
+115893224

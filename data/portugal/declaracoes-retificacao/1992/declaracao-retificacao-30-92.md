@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 76/1992, 2º Suplemento, Série I-B de 1992-03-31
   number: '76'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1512-(3) a 1512-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/03/076b02/00030003.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/30/1992/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/30-1992-647964
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:34:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 323f99c31cf61fdeb077ee641387bd875f9c66305c99fda82c96025538666116
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 873b6ccbbe4b355c8d9c08c5c22eaa08d4be3763713c44ff1ad32c43e7617f87
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:34:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Angra do Heroísmo
-- Reestruturação de Serviços
 - CASA de Etnografia
 - Criação de Serviços
 - Definição de Competências
 - Direcção Regional dos Assuntos Culturais
 - Horta
 - ILHA das Flores
+- ILHA de Santa Maria
 - Ilha de São Jorge
+- Ilha do Pico
+- Ilha Graciosa
 - Museu
 - Orgânica
-- ILHA de Santa Maria
-- Ilha do Pico
 - Política Cultural
 - Ponta Delgada
 - Quadro de Pessoal
-- Ilha Graciosa
+- Reestruturação de Serviços
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
@@ -93,21 +93,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/40/1991/11/25/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/40/1991/11/25/a/dre
+- type: cites
+  target: pt:dre:306946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:34:50Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 30/92
+# Declaração de rectificação n.º 30/92
 
 Para os devidos efeitos se declara que o [Decreto Regulamentar Regional n.º 40/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-1991-306946), publicado no Diário da República, n.º 271, de 25 de Novembro de 1991 cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 

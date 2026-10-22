@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43380-1960-512662
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-05-04T00:00:00Z'
+  retrieved_at: '2026-10-22T19:21:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f7678d0e3013707e76ae788f5e726b2e719b4255de63bbce159cc4be4ac6e47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a4c493e5d46cbf1198db9908f805f981ee58c8503f42c1aeddc72268d60669b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:21:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arsenal do Alfeite
+- Definição de Competências
+- Quadro de Pessoal
+- Regulamento
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:251775:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632030:por
+  label: "Dada nova redacção aos art.ºs 15.º, 16.º, 22.º, 24.º, 28.º, 29.º, 37.º e seu § 2.º, 39.º e seu § 2.º, 44.º, bem\
+    \ como aos mapas anexos ao Regulamento do Arsenal do Alfeite, aprovado pelo Dec 31873, de 27-Jan 1942, na redacção dada\
+    \ pelo presente diploma, pelo DEC.533/71.03.12.1971.MMAR, DG.IS [283] de 03.12.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/533-1971-632030
+  date: '1971-12-03'
+- type: amended_by
+  target: pt:dre:251775:por
+  label: "Reposto em vigor, tansitoriamente, o mapa anexo ao Dec 31873 de 27-Jan de 1942, com as alterações introduzidas pelo\
+    \ presente diploma, pelo DEC LEI.179/77.04.05.1977.CR, DR.IS [103] de 04.05.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/179-1977-251775
+  date: '1977-05-04'
+- type: cites
+  target: pt:dre:168826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668912:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:21:25Z'
   warnings: []
   errors: []
 ---
@@ -91,25 +117,25 @@ Convindo actualizar algumas das disposições do Regulamento do Arsenal do Alfei
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 15.º, § único do artigo 16.º, 21.º, 22.º, 24.º, 27.º, 28.º, 29.º, 37.º, 38.º, 39.º, 40.º, 41.º, 42.º, 43.º, 44.º, 45.º, 46.º, 47.º e 58.º do Regulamento do Arsenal do Alfeite, aprovado pelo [Decreto n.º 31873](https://diariodarepublica.pt/dr/detalhe/decreto/31873-1942-168826), de 27 de Janeiro de 1942, bem como os mapas I e II anexos, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 15.º, § único do artigo 16.º, 21.º, 22.º, 24.º, 27.º, 28.º, 29.º, 37.º, 38.º, 39.º, 40.º, 41.º, 42.º, 43.º, 44.º, 45.º, 46.º, 47.º e 58.º do Regulamento do Arsenal do Alfeite, aprovado pelo [Decreto n.º 31873](https://diariodarepublica.pt/dr/detalhe/decreto/31873-1942-168826), de 27 de Janeiro de 1942, bem como os mapas I e II anexos, passam a ter a seguinte redacção:
 
-###### Art. 3.º Os serviços do Arsenal do Alfeite são superiormente dirigidos por um administrador e administrados através de um conselho de administração, que terá como presidente o administrador e como vogais os directores.
+Art. 3.º Os serviços do Arsenal do Alfeite são superiormente dirigidos por um administrador e administrados através de um conselho de administração, que terá como presidente o administrador e como vogais os directores.
 
 § único. Junto do conselho de administração haverá um representante do Tribunal de Contas, ao qual compete fiscalizar os actos de administração desse conselho, segundo o determinado nas leis e regulamentos que regem o referido Tribunal.
 
 ...
 
-###### Art. 15.º Os serviços técnicos e administrativos do Arsenal do Alfeite distribuem-se pelo Serviço de Estudos (S. E.), pela Direcção Fabril (D. F.), pela Direcção Comercial (D. C.) e pela Direcção Adjunta da Administração (D. A. A.).
+Art. 15.º Os serviços técnicos e administrativos do Arsenal do Alfeite distribuem-se pelo Serviço de Estudos (S. E.), pela Direcção Fabril (D. F.), pela Direcção Comercial (D. C.) e pela Direcção Adjunta da Administração (D. A. A.).
 
-###### Art. 16.º ...
+Art. 16.º ...
 
 § único. A Direcção Fabril, a Direcção Comercial e a Direcção Adjunta da Administração darão a necessária assistência ao Serviço de Estudos, principalmente em informações sobre mão-de-obra, prazos de entrega de material, pregos e data provável de conclusão dos trabalhos.
 
 ...
 
-###### Art. 21.º A Direcção Fabril tem a seu cargo a parte industrial do Arsenal do Alfeite e compete-lhe, em especial, organizar, centralizar, e dirigir de perto os serviços de construção e de reparações.
+Art. 21.º A Direcção Fabril tem a seu cargo a parte industrial do Arsenal do Alfeite e compete-lhe, em especial, organizar, centralizar, e dirigir de perto os serviços de construção e de reparações.
 
-###### Art. 22.º A Direcção Fabril compreende:
+Art. 22.º A Direcção Fabril compreende:
 
 1.º Oficinas. - Serviços oficinais.
 
@@ -117,7 +143,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 24.º ...
+Art. 24.º ...
 
 #### Secção 4:
 
@@ -151,9 +177,9 @@ Oficina de galvanoplastia e cromagem.
 
 ...
 
-###### Art. 27.º Só poderão ser executados pelos serviços da Direcção Fabril os trabalhos ordenados pelo director.
+Art. 27.º Só poderão ser executados pelos serviços da Direcção Fabril os trabalhos ordenados pelo director.
 
-###### Art. 28.º A Direcção Comercial compreende os seguintes serviços:
+Art. 28.º A Direcção Comercial compreende os seguintes serviços:
 
 a) Secretaria, abrangendo:
 
@@ -185,7 +211,7 @@ e) Tesouraria.
 
 #### SECÇÃO IV — Da Direcção Adjunta da Administração
 
-###### Art. 29.º A Direcção Adjunta da Administração, além das funções que especialmente lhe sejam atribuídas pela Administração, tem a seu cargo os seguintes serviços:
+Art. 29.º A Direcção Adjunta da Administração, além das funções que especialmente lhe sejam atribuídas pela Administração, tem a seu cargo os seguintes serviços:
 
 a) Armazém de abastecimentos, constituído por:
 
@@ -213,7 +239,7 @@ f) Estação de serviço automóvel.
 
 ...
 
-###### Art. 37.º A admissão dos engenheiros faz-se na categoria equivalente à 3.ª classe, sendo a sua promoção à 2.ª e à 1.ª classe feita, respectivamente, depois de decorridos quatro e onze anos, a contar da data da admissão.
+Art. 37.º A admissão dos engenheiros faz-se na categoria equivalente à 3.ª classe, sendo a sua promoção à 2.ª e à 1.ª classe feita, respectivamente, depois de decorridos quatro e onze anos, a contar da data da admissão.
 
 § 1.º Só poderão, no entanto, ser promovidos aqueles que tenham mostrado zelo e aptidão no serviço e hajam prestado provas julgadas satisfatórias.
 
@@ -221,7 +247,7 @@ f) Estação de serviço automóvel.
 
 § 3.º Para a admissão de engenheiros cuja especialidade se não professe nas escolas portuguesas de engenharia será suficiente a prova da sua inscrição na Ordem dos Engenheiros.
 
-###### Art. 38.º O provimento dos lugares de agente técnico será feito mediante concurso entre indivíduos habilitados com o curso de agente técnico de engenharia professado nos institutos industriais ou estabelecimentos equivalentes, da especialidade a que se destinam.
+Art. 38.º O provimento dos lugares de agente técnico será feito mediante concurso entre indivíduos habilitados com o curso de agente técnico de engenharia professado nos institutos industriais ou estabelecimentos equivalentes, da especialidade a que se destinam.
 
 § 1.º Enquanto não houver indivíduos diplomados com o curso de agente técnico de engenharia naval, o recrutamento de agentes técnicos desta especialidade será feito mediante concurso entre indivíduos com prática e com as habilitações julgadas indispensáveis, podendo, no entanto, ser dispensado o concurso quando se reconheça haver nisso conveniência.
 
@@ -229,7 +255,7 @@ f) Estação de serviço automóvel.
 
 § 3.º A designação de agente técnico é para todos os efeitos equivalente à de agente técnico de engenharia e à de condutor.
 
-###### Art. 39.º A admissão de desenhadores far-se-á, em regra, por concurso entre ajudantes de desenhador com cinco anos de prática efectiva na sala de desenho e que tenham boas informações de serviço.
+Art. 39.º A admissão de desenhadores far-se-á, em regra, por concurso entre ajudantes de desenhador com cinco anos de prática efectiva na sala de desenho e que tenham boas informações de serviço.
 
 § 1.º Em caso de manifesta conveniência, poderão ser contratados directamente desenhadores nacionais ou estrangeiros de reconhecida competência, com dispensa para estes últimos de concurso e das habilitações legais.
 
@@ -237,13 +263,13 @@ f) Estação de serviço automóvel.
 
 § 3.º Para a promoção de desenhadores, referida no corpo deste artigo, contar-se-á todo o tempo de serviço prestado na sala de desenho, mesmo que o tenha sido nas situações de assalariado ou de contratado ao abrigo do disposto no § único do artigo 32.º, podendo também ser contado o que tiver sido prestado noutras salas de desenho que, para o efeito e por proposta do chefe do Serviço de Estudos, a Administração considere equivalente à do Arsenal.
 
-###### Art. 40.º A admissão de ajudantes de desenhador será feita, em regra, na categoria equivalente à 2.ª classe, de entre os praticantes que durante um ano hajam revelado nítida aptidão para o futuro desempenho das funções de desenhador.
+Art. 40.º A admissão de ajudantes de desenhador será feita, em regra, na categoria equivalente à 2.ª classe, de entre os praticantes que durante um ano hajam revelado nítida aptidão para o futuro desempenho das funções de desenhador.
 
 § 1.º No caso de entre os decalcadores algum revelar a aptidão a que se refere o corpo deste artigo, poderá vir a ser admitido, mediante proposta do chefe do Serviço de Estudos, na categoria de ajudante de desenhador a que corresponder o tempo de serviço efectivo já prestado na sala de desenho.
 
 § 2.º A colocação ou promoção de ajudantes de desenhador na 1.ª classe será feita por proposta do chefe do Serviço de Estudos e por escolha, só podendo esta recair, contudo, em indivíduos que hajam confirmado as aptidões referidas e contem pelo menos três anos de serviço efectivo na sala de desenho.
 
-###### Art. 41.º A admissão dos decalcadores far-se-á na categoria equivalente à 2.ª classe, e, em regra, de entre os praticantes que, durante um ano, hajam revelado aptidão para o exercício das respectivas funções.
+Art. 41.º A admissão dos decalcadores far-se-á na categoria equivalente à 2.ª classe, e, em regra, de entre os praticantes que, durante um ano, hajam revelado aptidão para o exercício das respectivas funções.
 
 § 1.º Em caso de manifesta conveniência poderão ser admitidos como decalcadores indivíduos estranhos ao Arsenal habilitados com um curso das escolas industriais.
 
@@ -251,31 +277,31 @@ f) Estação de serviço automóvel.
 
 § 3.º De entre os decalcadores de 1.ª classe que tenham revelado as indispensáveis qualidades serão escolhidos os indivíduos que, por proposta do chefe do Serviço de Estudos, desempenharão as funções de calculadores.
 
-###### Art. 42.º A admissão dos praticantes far-se-á, em regra, de entre o pessoal fabril do Arsenal habilitado com o curso das escolas industriais, que manterá o salário que já auferia, devendo regressar à anterior situação no caso de as provas prestadas durante o período máximo de um ano não serem consideradas satisfatórias.
+Art. 42.º A admissão dos praticantes far-se-á, em regra, de entre o pessoal fabril do Arsenal habilitado com o curso das escolas industriais, que manterá o salário que já auferia, devendo regressar à anterior situação no caso de as provas prestadas durante o período máximo de um ano não serem consideradas satisfatórias.
 
 § único. Em caso de manifesta conveniência, poderão ser admitidos como praticantes indivíduos estranhos ao Arsenal habilitados com um curso das escolas industriais.
 
-###### Art. 43.º Nas propostas e informações do chefe do Serviço de Estudos para efeitos de promoção ou designação por escolha do pessoal técnico desse Serviço deverão constar explìcitamente as qualidades reveladas durante o exercício das funções anteriores quanto a disciplina, assiduidade, aplicação e competência.
+Art. 43.º Nas propostas e informações do chefe do Serviço de Estudos para efeitos de promoção ou designação por escolha do pessoal técnico desse Serviço deverão constar explìcitamente as qualidades reveladas durante o exercício das funções anteriores quanto a disciplina, assiduidade, aplicação e competência.
 
-###### Art. 44.º O director comercial e o chefe da contabilidade serão licenciados em Ciências Económicas e Financeiras. O chefe do contencioso será licenciado em Direito.
+Art. 44.º O director comercial e o chefe da contabilidade serão licenciados em Ciências Económicas e Financeiras. O chefe do contencioso será licenciado em Direito.
 
-###### Art. 45.º O provimento dos lugares de adjunto do chefe de serviço será feito, de preferência, de entre os primeiros-oficiais, havendo-os que reúnam as condições julgadas necessárias para o exercício do cargo.
+Art. 45.º O provimento dos lugares de adjunto do chefe de serviço será feito, de preferência, de entre os primeiros-oficiais, havendo-os que reúnam as condições julgadas necessárias para o exercício do cargo.
 
-###### Art. 46.º A promoção a segundo e primeiro-oficial será feita, em regra, mediante concurso aberto respectivamente entre os terceiros e segundos-oficiais, podendo também aos concursos para segundos-oficiais ser admitidos os correspondentes em línguas estrangeiras. A admissão dos terceiros-oficiais far-se-á por concurso entre os escriturários de 1.ª classe.
+Art. 46.º A promoção a segundo e primeiro-oficial será feita, em regra, mediante concurso aberto respectivamente entre os terceiros e segundos-oficiais, podendo também aos concursos para segundos-oficiais ser admitidos os correspondentes em línguas estrangeiras. A admissão dos terceiros-oficiais far-se-á por concurso entre os escriturários de 1.ª classe.
 
 § único. No caso de a Administração o entender conveniente, poderão os concursos a que se refere o corpo deste artigo ser extensivos a indivíduos estranhos ao Arsenal, e, tratando-se de terceiros oficiais, também aos escriturários de 2.ª classe.
 
-###### Art. 47.º Os escriturários de 2.ª classe serão contratados, precedendo ou não concurso, e ascenderão à 1.ª classe por concurso, desde que possuam as necessárias habilitações e tenham revelado aptidão e zelo.
+Art. 47.º Os escriturários de 2.ª classe serão contratados, precedendo ou não concurso, e ascenderão à 1.ª classe por concurso, desde que possuam as necessárias habilitações e tenham revelado aptidão e zelo.
 
 ...
 
-###### Art. 58.º As penas de despedimento serão sempre aplicadas pela entidade que tiver competência para admitir; as restantes penalidades podem ser aplicadas por qualquer engenheiro ou pelo chefe do armazém, quando se trate de pessoal sob as suas ordens, com aprovação dos respectivos directores ou do administrador.
+Art. 58.º As penas de despedimento serão sempre aplicadas pela entidade que tiver competência para admitir; as restantes penalidades podem ser aplicadas por qualquer engenheiro ou pelo chefe do armazém, quando se trate de pessoal sob as suas ordens, com aprovação dos respectivos directores ou do administrador.
 
-###### Art. 2.º São suprimidos os artigos 73.º e 74.º do Regulamento do Arsenal do Alfeite, aprovado pelo [Decreto n.º 31873](https://diariodarepublica.pt/dr/detalhe/decreto/31873-1942-168826), de 27 de Janeiro de 1942.
+Art. 2.º São suprimidos os artigos 73.º e 74.º do Regulamento do Arsenal do Alfeite, aprovado pelo [Decreto n.º 31873](https://diariodarepublica.pt/dr/detalhe/decreto/31873-1942-168826), de 27 de Janeiro de 1942.
 
-###### Art. 3.º O presente decreto entra em vigor em 1 de Janeiro de 1961.
+Art. 3.º O presente decreto entra em vigor em 1 de Janeiro de 1961.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Fernando Quintanilha Mendonça Dias.
 

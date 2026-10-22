@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 200/1992, 2º Suplemento, Série I-B de 1992-08-31
   number: '200'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4168-(8) a 4168-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/08/200b02/00080008.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/140/1992/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/140-1992-159141
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:33:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a664eca1f1067d3aa064bf17c989ca7c18a8426ef2bb7eac0115238dd687058e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7173127749f6760c0865d6d828258fb78141bfd5528ba898dbdf4d66cf9dbd06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:33:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,21 +75,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/750/1992/08/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/750/1992/08/01/p/dre
+- type: cites
+  target: pt:dre:275236:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:33:27Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 140/92
+# Declaração de rectificação n.º 140/92
 
 Segundo comunicação do Ministério da Saúde, a [Portaria n.º 750/92](https://diariodarepublica.pt/dr/detalhe/portaria/750-1992-275236), publicada no Diário da República, 1.ª série, n.º 176, de 1 de Agosto de 1992, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
 

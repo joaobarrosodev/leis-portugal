@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/17/2026/01/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17-2026-1011550853
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-16T00:00:00Z'
+  retrieved_at: '2026-10-22T18:29:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b57fbd63e9208d0462a1a9ac396f9a2177c575b901607f30ca8aa8f0a6e75b1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8173e30984b5e52b7215d7a08c2123f185da3c6da10a5d6356d835b9b3656d04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:29:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Admissão de Pessoal
+- Carreira Profissional
 - Concurso
 - Concurso de Ingresso
 - Corpo da Guarda Prisional
-- Carreira Profissional
-- Recrutamento de Pessoal
+- Direcção Geral de Reinserção e Serviços Prisionais
 - Guarda Prisional
 - Publicitação
-- Direcção Geral de Reinserção e Serviços Prisionais
+- Recrutamento de Pessoal
 relationships:
+- type: amends
+  target: pt:numero:portaria:299/2016
+  label: Altera, a partir de 1 de fevereiro de 2026, nos termos do artigo 3.º do presente diploma, os artigos 4.º, 7.º, 12.º,
+    19.º, 20.º a 22.º, 26.º, 28.º e 31.º e revoga a alínea b) do n.º 5 do artigo 4.º, o n.º 3 do artigo 10.º e os n.ºs 4 e
+    5 do artigo 20.º da da Portaria n.º 299/2016, de 29 de novembro, Diário da República n.º 229/2016, Série I
+  source: null
+  date: '2016-11-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/3/2014/01/09/p/dre
   label: null
@@ -88,16 +95,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/299/2016/11/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/299/2016/11/29/p/dre
+- type: cites
+  target: pt:dre:105276964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606115:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:29:12Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +181,9 @@ c) Entrevista de avaliação de competências.
 
 6 - Os métodos de seleção referidos nos números anteriores podem ser aplicados de forma agregada nos respetivos procedimentos concursais de recrutamento.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -170,7 +191,9 @@ c) Entrevista de avaliação de competências.
 
 3 - As provas físicas, as condições específicas da sua realização, assim como os parâmetros de avaliação das mesmas, constam de regulamento a aprovar por despacho do diretor-geral da Reinserção e Serviços Prisionais e são obrigatoriamente publicitados no procedimento concursal.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -194,11 +217,15 @@ c) Entrevista de avaliação de competências.
 
 11 - (Anterior n.º 10.)
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 O prazo de apresentação de candidaturas é de 10 dias úteis contados da data da publicação do aviso de abertura no Diário da República.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Salvo indicação expressa e devidamente fundamentada quando da publicação do início do procedimento concursal, a apresentação da candidatura é efetuada em suporte eletrónico, através do preenchimento de formulário que contém, entre outros, os seguintes elementos:
 
@@ -218,7 +245,9 @@ d) [...]
 
 5 - (Revogado.)
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...]
 
@@ -234,7 +263,9 @@ d) [...]
 
 7 - [...]
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Terminado o prazo para apresentação de candidaturas, o júri procede, nos 10 dias úteis seguintes, à verificação dos elementos apresentados pelos candidatos, designadamente a reunião dos requisitos exigidos e a apresentação dos documentos essenciais à admissão ou avaliação.
 
@@ -244,7 +275,9 @@ d) [...]
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]
 
@@ -258,15 +291,19 @@ d) [...]
 
 6 - [...]
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - A publicitação dos resultados obtidos em cada método de seleção é efetuada através de lista, ordenada alfabeticamente, afixada em local visível e público das instalações onde funcione o júri do concurso e disponibilizada na página eletrónica da DGRSP.
 
 2 - [...]
 
-###### Artigo 31.º — [...]
+Artigo 31.º
 
-1 - À lista de ordenação final dos candidatos aprovados é aplicável, com as necessárias adaptações, o disposto nos n.<sup>os</sup>1 e 2 do artigo 25.º e nos n.<sup>os</sup>1 a 5 do artigo 26.º
+[...]
+
+1 - À lista de ordenação final dos candidatos aprovados é aplicável, com as necessárias adaptações, o disposto nos n.os1 e 2 do artigo 25.º e nos n.os1 a 5 do artigo 26.º
 
 2 - [...]
 
@@ -290,4 +327,6 @@ São revogados a alínea b) do n.º 5 do artigo 4.º, o n.º 3 do artigo 10.º e
 
 A presente portaria entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 13 de janeiro de 2026. - A Ministra da Justiça, Rita Alarcão Júdice, em 12 de janeiro de 2026.**
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 13 de janeiro de 2026. - A Ministra da Justiça, Rita Alarcão Júdice, em 12 de janeiro de 2026.
+
+119947275

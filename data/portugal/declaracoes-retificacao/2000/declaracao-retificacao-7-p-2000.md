@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 201/2000, 2º Suplemento, Série I-A de 2000-08-31
   number: '201'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4486-(17) a 4486-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/08/201a02/00170017.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/7-p/2000/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-p-2000-336710
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-08-31T00:00:00Z'
+  retrieved_at: '2026-10-22T18:56:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32a13120ff8ba1f7768fc729b760bafbc713fc69713a1f3f01bd94b32e196f1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 591bc65a5dd71bdd069cc4ad270c8c0e9b5b420e91a9e1f4f1f4a777e81cbdaa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:56:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,53 +66,57 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Património
-- Direcção Geral dos Serviços Prisionais
+- Auditoria Jurídica
 - Centro de Estudos Judiciários
-- Pessoal Dirigente
+- Comissão de Protecção às Vítimas de Crimes
+- Conselho Consultivo da Justiça
 - Conselho de Dirigentes do Ministério da Justiça
-- Instituto Nacional de Medicina Legal
+- Conselho Superior de Assuntos Criminais
 - Definição de Competências
+- Direcção Geral da Administração da Justiça
 - Direcção Geral da Administração Extrajudicial
 - Direcção Geral dos Registos e do Notariado
+- Direcção Geral dos Serviços Prisionais
 - Extinção de Serviços
-- Secretaria Geral
-- Gabinete de Política Legislativa e Planeamento
-- Ministério da Justiça
-- Instituto de Gestão Financeira e Patrimonial da Justiça
-- Instituto de Medicina Legal
-- Instituto de Reinserção Social
-- Integração de Trabalhadores
-- Conselho Superior de Assuntos Criminais
-- Auditoria Jurídica
-- Conselho Consultivo da Justiça
 - Gabinete de Auditoria e Modernização
+- Gabinete de Política Legislativa e Planeamento
 - Gabinete para as Relações Internacionais Europeias e de Cooperação
 - Inspecção Geral dos Serviços de Justiça
 - Instituto das Tecnologias de Informação na Justiça
+- Instituto de Gestão Financeira e Patrimonial da Justiça
+- Instituto de Medicina Legal
+- Instituto de Reinserção Social
+- Instituto Nacional de Medicina Legal
+- Integração de Trabalhadores
+- Ministério da Justiça
+- Ministério Público
 - Núcleo de Coordenação do Programa de Informatização Judiciária
 - Orgânica
-- Comissão de Protecção às Vítimas de Crimes
-- Quadro de Pessoal
-- Direcção Geral da Administração da Justiça
-- Ministério Público
+- Património
+- Pessoal Dirigente
 - Polícia Judiciária
+- Quadro de Pessoal
+- Secretaria Geral
 - Serviços Sociais
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/146/2000/07/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/146/2000/07/18/p/dre
+- type: cites
+  target: pt:dre:320560:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:56:53Z'
   warnings: []
   errors: []
 ---

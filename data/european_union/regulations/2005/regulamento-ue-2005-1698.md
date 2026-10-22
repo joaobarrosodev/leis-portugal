@@ -36,6 +36,191 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-01-01'
+version_history:
+  file: regulamento-ue-2005-1698.versoes.json
+  count: 6
+  source_lastmod: '2014-01-01'
+  versions:
+  - date: '2007-01-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-01-01'
+    amending: null
+    amending_title: Regulamento (CE) n. o 146/2008 do Conselho de 14 de Fevereiro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 28.º
+    - Altera Artigo 37.º
+    - Altera Artigo 51.º
+    - Altera Artigo 62.º
+    - Altera Artigo 66.º
+    - Altera Artigo 69.º
+    - Altera Artigo 71.º
+    - Altera Artigo 84.º
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2009-01-01'
+    amending: null
+    amending_title: Regulamento (CE) n. o 74/2009 do Conselho de 19 de Janeiro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 11.º
+    - Altera Artigo 17.º
+    - Altera Artigo 20.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
+    - Altera Artigo 43.º
+    - Altera Artigo 44.º
+    - Altera Artigo 45.º
+    - Altera Artigo 46.º
+    - Altera Artigo 47.º
+    - Altera Artigo 51.º
+    - Altera Artigo 62.º
+    - Altera Artigo 66.º
+    - Altera Artigo 69.º
+    - Altera Artigo 70.º
+    - Altera Artigo 71.º
+    - Altera Artigo 78.º
+    - Altera Artigo 84.º
+    - Altera Artigo 88.º
+    - Altera Notas
+    - Adita Artigo 12.º-A — Revisão
+    - Adita Artigo 16.º-A — Operações específicas relacionadas com certas prioridades
+    - Adita Artigo 35.º-A — Explorações em vias de reestruturação em virtude da reforma de uma organização comum de mercado
+    - Adita Artigo 50.º-A — Principais requisitos
+  - date: '2010-01-01'
+    amending: null
+    amending_title: Regulamento (CE) n. o 473/2009 do Conselho de 25 de Maio de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 12.º-A — Revisão
+    - Altera Artigo 16.º-A — Operações específicas relacionadas com certas prioridades
+    - Altera Artigo 17.º
+    - Altera Artigo 28.º
+    - Altera Artigo 37.º
+    - Altera Artigo 51.º
+    - Altera Artigo 56.º
+    - Altera Artigo 62.º
+    - Altera Artigo 66.º
+    - Altera Artigo 69.º
+    - Altera Artigo 70.º
+    - Altera Artigo 71.º
+    - Altera Artigo 84.º
+    - Altera [►M5](http://publications.europa.eu/resource/celex/309R0074) ANEXO I◄
+    - Altera Notas
+    - Adita [►M6](http://publications.europa.eu/resource/celex/309R0473) Lista indicativa dos tipos de operações e efeitos
+      potenciais relacionados com as prioridades referidas nas alíneas a) a f) do n.º 1 do artigo 16.º-A.◄
+    - Adita ANEXO III
+    - Suprime Lista indicativa dos tipos de operações e efeitos potenciais relacionados com as prioridades a que se refere
+      o artigo 16.º-A
+  - date: '2011-12-21'
+    amending: eu:celex:32006R1463:por
+    amending_title: Regulamento (CE) n. o 1463/2006 do Conselho de 19 de Junho de 2006; Regulamento (CE) n. o 1944/2006 do
+      Conselho de 19 de Dezembro de 2006; M3; Regulamento (CE) n. o 146/2008 do Conselho de 14 de Fevereiro de 2008; Regulamento
+      (CE) n. o 74/2009 do Conselho de 19 de Janeiro de 2009; Regulamento (CE) n. o 473/2009 do Conselho de 25 de Maio de
+      2009; Regulamento (UE) n. o 1312/2011 do Parlamento Europeu e do Conselho de 19 de Dezembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 17.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
+    - Altera Artigo 43.º
+    - Altera Artigo 44.º
+    - Altera Artigo 45.º
+    - Altera Artigo 46.º
+    - Altera Artigo 47.º
+    - Altera Artigo 51.º
+    - Altera Artigo 56.º
+    - Altera Artigo 62.º
+    - Altera Artigo 66.º
+    - Altera Artigo 69.º
+    - Altera Artigo 70.º
+    - Altera Artigo 71.º
+    - Altera Artigo 84.º
+    - Altera Artigo 88.º
+    - Altera Notas
+    - Adita [►M5](http://publications.europa.eu/resource/celex/32009R0074) ANEXO I◄
+    - Adita [►M6](http://publications.europa.eu/resource/celex/32009R0473) Lista indicativa dos tipos de operações e efeitos
+      potenciais relacionados com as prioridades referidas nas alíneas a) a f) do n.º 1 do artigo 16.º-A.◄
+    - Suprime [►M5](http://publications.europa.eu/resource/celex/309R0074) ANEXO I◄
+    - Suprime [►M6](http://publications.europa.eu/resource/celex/309R0473) Lista indicativa dos tipos de operações e efeitos
+      potenciais relacionados com as prioridades referidas nas alíneas a) a f) do n.º 1 do artigo 16.º-A.◄
+  - date: '2014-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime OBJECTIVOS E REGRAS GERAIS DAS INTERVENÇÕES
+    - Suprime CAPÍTULO I
+    - Suprime ÂMBITO
+    - Suprime DE APLICAÇÃO E DEFINIÇÕES
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime CAPÍTULO II
+    - Suprime MISSÕES E OBJECTIVOS
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime CAPÍTULO III
+    - Suprime PRINCÍPIOS DA INTERVENÇÃO
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime TÍTULO II
+    - Suprime ABORDAGEM ESTRATÉGICA PARA O DESENVOLVIMENTO RURAL
+    - Suprime ORIENTAÇÕES ESTRATÉGICAS COMUNITÁRIAS
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime PLANOS ESTRATÉGICOS NACIONAIS
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 12.º-A — Revisão
+    - Suprime ACOMPANHAMENTO ESTRATÉGICO
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime TÍTULO III
+    - Suprime PROGRAMAÇÃO
+    - Suprime CONTEÚDO DA PROGRAMAÇÃO
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 16.º-A — Operações específicas relacionadas com certas prioridades
+    - Suprime Artigo 17.º
+    - Suprime PREPARAÇÃO, APROVAÇÃO E REVISÃO
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
 identifiers:
   celex: 32005R1698
   eli: http://data.europa.eu/eli/reg/2005/1698/oj
@@ -50,7 +235,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/66e23393-08dd-4716-8fc9-141694e60ca6.0016
   content_url: http://publications.europa.eu/resource/cellar/a6869e7c-d1c9-4dd5-8a62-0edf80066301.0018.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005R1698-20140101
-  retrieved_at: '2026-10-22T02:23:54Z'
+  retrieved_at: '2026-10-22T17:38:46Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-02T09:33:21.674+01:00'
 integrity:
@@ -59,9 +244,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:23:54Z'
-  notes: Texto consolidado 02005R1698-20140101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:38:46Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2005-1698.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -645,16 +830,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:23:54Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T17:38:46Z'
+  warnings: []
   errors: []
 ---
 

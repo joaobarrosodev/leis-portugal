@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45524-1964-222198
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-01-03T00:00:00Z'
+  retrieved_at: '2026-10-22T19:39:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0dd44d6624fdc5e8deb27caa8c15d3c65f5f68658d93f5ac9e783451f70490e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48bf91d5c5b783ddfb957875a23490e9efef99de6ae08d2c1617d4e4ba9be7dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:39:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232373:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:39:07Z'
   warnings: []
   errors: []
 ---
@@ -90,13 +94,13 @@ Ouvidos os governos das províncias ultramarinas e o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento de Disciplina dos Corpos de Polícia de Segurança Pública do Ultramar, que, junto a este decreto, baixa assinado pelo Ministro do Ultramar.
+Artigo 1.º É aprovado o Regulamento de Disciplina dos Corpos de Polícia de Segurança Pública do Ultramar, que, junto a este decreto, baixa assinado pelo Ministro do Ultramar.
 
-###### Art. 2.º O regulamento começará a vigorar em todas as províncias ultramarinas no dia 1 de Março de 1964.
+Art. 2.º O regulamento começará a vigorar em todas as províncias ultramarinas no dia 1 de Março de 1964.
 
-###### Art. 3.º A partir do início da sua vigência fica revogada toda a legislação anterior, geral ou especial, que tenha por objecto a matéria nele especialmente visada.
+Art. 3.º A partir do início da sua vigência fica revogada toda a legislação anterior, geral ou especial, que tenha por objecto a matéria nele especialmente visada.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 3 de Janeiro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 
@@ -108,13 +112,13 @@ REGULAMENTO DISCIPLINAR DOS CORPOS DE POLÍCIA DE SEGURANÇA PÚBLICA DO ULTRAMA
 
 #### SECÇÃO I — Disposições fundamentais
 
-###### Artigo 1.º O pessoal da Polícia de Segurança Pública é disciplinarmente responsável, perante os seus superiores hierárquicos, pelas infracções que cometa.
+Artigo 1.º O pessoal da Polícia de Segurança Pública é disciplinarmente responsável, perante os seus superiores hierárquicos, pelas infracções que cometa.
 
 § único. Os superiores são sempre responsáveis pelas faltas dos seus subordinados ou inferiores, quando resultem de outras por aqueles cometidas ou das ordens por eles dadas.
 
-###### Art. 2.º Considera-se infracção disciplinar o facto voluntário praticado pelos elementos do pessoal da Polícia de Segurança Pública com violação dos deveres gerais ou especiais decorrentes da função ou com ofensa dos deveres dos cidadãos impostos pela lei ou pela moral social.
+Art. 2.º Considera-se infracção disciplinar o facto voluntário praticado pelos elementos do pessoal da Polícia de Segurança Pública com violação dos deveres gerais ou especiais decorrentes da função ou com ofensa dos deveres dos cidadãos impostos pela lei ou pela moral social.
 
-###### Art. 3.º São princípios fundamentais de disciplina:
+Art. 3.º São princípios fundamentais de disciplina:
 
 1.º Obediência pronta e completa às ordens conformes à lei e regulamentos policiais;
 
@@ -124,9 +128,9 @@ REGULAMENTO DISCIPLINAR DOS CORPOS DE POLÍCIA DE SEGURANÇA PÚBLICA DO ULTRAMA
 
 #### SECÇÃO II — Deveres disciplinares
 
-###### Art. 4.º O pessoal da Polícia de Segurança Pública deve regular o seu procedimento pelos ditames da virtude e da honra, amar a Pátria, guardar e fazer guardar a Constituição Política e as demais leis do País.
+Art. 4.º O pessoal da Polícia de Segurança Pública deve regular o seu procedimento pelos ditames da virtude e da honra, amar a Pátria, guardar e fazer guardar a Constituição Política e as demais leis do País.
 
-###### Art. 5.º São especialmente deveres do pessoal da Polícia de Segurança Pública:
+Art. 5.º São especialmente deveres do pessoal da Polícia de Segurança Pública:
 
 1.º Cumprir prontamente as ordens dos superiores relativas ao serviço;
 
@@ -232,7 +236,7 @@ REGULAMENTO DISCIPLINAR DOS CORPOS DE POLÍCIA DE SEGURANÇA PÚBLICA DO ULTRAMA
 
 52.º Não fazer, em caso algum, declarações falsas, ainda que com o fim de ocultar actos praticados por camaradas ou superiores seus contra as disposições regulamentares.
 
-###### Art. 6.º São especialmente deveres de todo o pessoal graduado da Polícia de Segurança Pública, que procurará servir de exemplo permanente aos seus subordinados, os seguintes:
+Art. 6.º São especialmente deveres de todo o pessoal graduado da Polícia de Segurança Pública, que procurará servir de exemplo permanente aos seus subordinados, os seguintes:
 
 a) Conduzir-se modelarmente em serviço ou fora dele;
 
@@ -250,7 +254,7 @@ g) Punir as infracções, de harmonia com o preceituado neste regulamento, abste
 
 #### SECÇÃO III — Recompensas e seus efeitos
 
-###### Art. 7.º Pelo seu comportamento disciplinar, aos agentes de polícia podem ser concedidas as seguintes recompensas:
+Art. 7.º Pelo seu comportamento disciplinar, aos agentes de polícia podem ser concedidas as seguintes recompensas:
 
 1.º Elogio;
 
@@ -260,19 +264,19 @@ g) Punir as infracções, de harmonia com o preceituado neste regulamento, abste
 
 4.º Promoção por distinção.
 
-###### Art. 8.º O elogio destina-se a distinguir os que pela sua compostura e aprumo se tornem notados pelo seus superiores ou por outras entidades e é publicado em ordem de serviço e averbado na folha de matrícula.
+Art. 8.º O elogio destina-se a distinguir os que pela sua compostura e aprumo se tornem notados pelo seus superiores ou por outras entidades e é publicado em ordem de serviço e averbado na folha de matrícula.
 
-###### Art. 9.º O louvor é publicado em ordem de serviço, averbado na folha de matrícula e destina-se a recompensar actos importantes e procedimentos dignos de relevo.
+Art. 9.º O louvor é publicado em ordem de serviço, averbado na folha de matrícula e destina-se a recompensar actos importantes e procedimentos dignos de relevo.
 
 § 1.º O louvor poderá ser acompanhado da licença a que se refere o n.º 3.º do artigo 7.º
 
 § 2.º A licença de prémio simultânea com o louvor é concedida pelo comandante-geral, directamente ou sob proposta dos comandantes distritais.
 
-###### Art. 10.º O elogio e o louvor serão considerados tanto mais importantes quanto maior for a graduação ou categoria da entidade que os conceder.
+Art. 10.º O elogio e o louvor serão considerados tanto mais importantes quanto maior for a graduação ou categoria da entidade que os conceder.
 
-###### Art. 11.º A licença de prémio, até quinze dias em cada ano, é concedida, embora com prejuízo do serviço, mas sem perda do direito aos vencimentos, àqueles que se distingam por actos considerados importantes e a sua concessão é da competência do comandante-geral e dos comandos distritais.
+Art. 11.º A licença de prémio, até quinze dias em cada ano, é concedida, embora com prejuízo do serviço, mas sem perda do direito aos vencimentos, àqueles que se distingam por actos considerados importantes e a sua concessão é da competência do comandante-geral e dos comandos distritais.
 
-###### Art. 12.º A promoção por distinção é concedida pelo governador, sob proposta do comandante-geral, ouvido o conselho de disciplina, e destina-se a galardoar condutas excepcionais de reconhecida valentia ou extraordinária abnegação, comprovadas em processo organizado para o efeito.
+Art. 12.º A promoção por distinção é concedida pelo governador, sob proposta do comandante-geral, ouvido o conselho de disciplina, e destina-se a galardoar condutas excepcionais de reconhecida valentia ou extraordinária abnegação, comprovadas em processo organizado para o efeito.
 
 § único. A promoção por distinção anula todas as penas anteriores e seus efeitos.
 
@@ -280,7 +284,7 @@ g) Punir as infracções, de harmonia com o preceituado neste regulamento, abste
 
 #### SECÇÃO I — Penas disciplinares
 
-###### Art. 13.º As penas aplicáveis ao pessoal da Polícia de Segurança Pública são as seguintes:
+Art. 13.º As penas aplicáveis ao pessoal da Polícia de Segurança Pública são as seguintes:
 
 a) Penas aplicáveis a oficiais:
 
@@ -390,33 +394,33 @@ i) Penas aplicáveis ao pessoal de secretaria e ao pessoal contratado:
 
 As do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 14.º A repreensão simples e a repreensão agravada consistem em se declarar ao infractor que é repreendido por haver praticado qualquer acto que constitua infracção disciplinar. A primeira é dada em particular e a segunda na presença de pessoal de igual ou superior categoria dos comandos, comissariados, esquadras, postos ou serviços a que pertença o infractor.
+Art. 14.º A repreensão simples e a repreensão agravada consistem em se declarar ao infractor que é repreendido por haver praticado qualquer acto que constitua infracção disciplinar. A primeira é dada em particular e a segunda na presença de pessoal de igual ou superior categoria dos comandos, comissariados, esquadras, postos ou serviços a que pertença o infractor.
 
 § único. No acto da repreensão será entregue ao infractor uma nota assinada pelo superior que puniu, da qual deve constar o facto que motivou a punição, com indicação dos deveres violados.
 
-###### Art. 15.º A ronda consiste em o agente policial punido executar nas horas de folga um turno de quatro horas, não podendo, contudo, fazer mais de quatro horas seguidas.
+Art. 15.º A ronda consiste em o agente policial punido executar nas horas de folga um turno de quatro horas, não podendo, contudo, fazer mais de quatro horas seguidas.
 
-###### Art. 16.º A guarda, piquete, patrulha ou turno de serviço consiste em o infractor executar nas horas de folga o castigo imposto, em dias não seguidos.
+Art. 16.º A guarda, piquete, patrulha ou turno de serviço consiste em o infractor executar nas horas de folga o castigo imposto, em dias não seguidos.
 
-###### Art. 17.º A pena de multa implica a perda dos vencimentos pelo tempo por que tiver sido imposta.
+Art. 17.º A pena de multa implica a perda dos vencimentos pelo tempo por que tiver sido imposta.
 
-###### Art. 18.º A detenção consiste na permanência do punido nas dependências da esquadra, posto ou serviço a que pertencer, ou no local que for designado, sendo, porém, obrigado a desempenhar todo o serviço que lhe pertença por escala ou o serviço normal a seu cargo, fazendo a sua apresentação ao respectivo superior de que dependa às 8 horas do dia seguinte àquele em que teve conhecimento da punição.
+Art. 18.º A detenção consiste na permanência do punido nas dependências da esquadra, posto ou serviço a que pertencer, ou no local que for designado, sendo, porém, obrigado a desempenhar todo o serviço que lhe pertença por escala ou o serviço normal a seu cargo, fazendo a sua apresentação ao respectivo superior de que dependa às 8 horas do dia seguinte àquele em que teve conhecimento da punição.
 
-###### Art. 19.º A suspensão consiste na interrupção das funções e perda do vencimento, devendo, porém, o punido fazer diàriamente, e em traje civil, a sua apresentação na esquadra, posto ou serviço a que pertencer, à hora a que o respectivo superior de que dependa lhe determinar, mas dentro das horas de serviço normal.
+Art. 19.º A suspensão consiste na interrupção das funções e perda do vencimento, devendo, porém, o punido fazer diàriamente, e em traje civil, a sua apresentação na esquadra, posto ou serviço a que pertencer, à hora a que o respectivo superior de que dependa lhe determinar, mas dentro das horas de serviço normal.
 
-###### Art. 20.º A prisão disciplinar consiste na reclusão em recinto fechado e para esse fim destinado no edifício do comissariado, esquadra ou posto ou em local a determinar.
+Art. 20.º A prisão disciplinar consiste na reclusão em recinto fechado e para esse fim destinado no edifício do comissariado, esquadra ou posto ou em local a determinar.
 
-###### Art. 21.º A reforma compulsiva consiste na passagem à classe dos reformados, e é da competência do governador da província, sob proposta do comandante-geral, ouvido o conselho de disciplina.
+Art. 21.º A reforma compulsiva consiste na passagem à classe dos reformados, e é da competência do governador da província, sob proposta do comandante-geral, ouvido o conselho de disciplina.
 
-###### Art. 22.º A expulsão consiste em abater o agente ao efectivo da Polícia de Segurança, e é aplicada nas condições do artigo anterior.
+Art. 22.º A expulsão consiste em abater o agente ao efectivo da Polícia de Segurança, e é aplicada nas condições do artigo anterior.
 
 #### SECÇÃO II — Factos a que são aplicáveis as diferentes penas disciplinares
 
-###### Art. 23.º As penas de repreensão serão aplicáveis por faltas leves de serviço e sempre no intuito do melhoramento da disciplina e dos serviços.
+Art. 23.º As penas de repreensão serão aplicáveis por faltas leves de serviço e sempre no intuito do melhoramento da disciplina e dos serviços.
 
-###### Art. 24.º As penas de ronda, guarda, patrulha, turno de serviço e multa serão aplicáveis, em geral, nos casos de negligência ou má compreensão dos deveres especiais de disciplina.
+Art. 24.º As penas de ronda, guarda, patrulha, turno de serviço e multa serão aplicáveis, em geral, nos casos de negligência ou má compreensão dos deveres especiais de disciplina.
 
-###### Art. 25.º As penas de dentenção, suspensão e prisão são aplicáveis nos casos:
+Art. 25.º As penas de dentenção, suspensão e prisão são aplicáveis nos casos:
 
 1.º De negligência grave e demonstrativa da falta de zelo pelo serviço;
 
@@ -426,7 +430,7 @@ As do Estatuto do Funcionalismo Ultramarino.
 
 4.º De infracção ao n.º 7.º do artigo 5.º desde que a ausência ilegítima se prolongue por mais de 24 horas depois da publicação em ordem de serviço.
 
-###### Art. 26.º As penas de aposentação compulsiva e de expulsão são aplicáveis em geral nos casos:
+Art. 26.º As penas de aposentação compulsiva e de expulsão são aplicáveis em geral nos casos:
 
 1.º De procedimento gravemente atentatório da dignidade e prestígio do agente ou da função policial;
 
@@ -456,11 +460,11 @@ As do Estatuto do Funcionalismo Ultramarino.
 
 Não se verificando esses requisitos, será aplicada a pena de expulsão.
 
-###### Art. 27.º Na aplicação das penas atender-se-á aos critérios gerais enunciados nos artigos precedentes, à natureza do serviço, à categoria do agente e, de um modo geral, a todas as circunstâncias em que a infracção tiver sido cometida.
+Art. 27.º Na aplicação das penas atender-se-á aos critérios gerais enunciados nos artigos precedentes, à natureza do serviço, à categoria do agente e, de um modo geral, a todas as circunstâncias em que a infracção tiver sido cometida.
 
 § único. A falta é tanto mais grave quanto mais elevada é a graduação daquele que a praticar.
 
-###### Art. 28.º São circunstâncias antenuantes da responsabilidade disciplinar:
+Art. 28.º São circunstâncias antenuantes da responsabilidade disciplinar:
 
 1.ª A prestação de serviços relevantes à sociedade;
 
@@ -484,7 +488,7 @@ Não se verificando esses requisitos, será aplicada a pena de expulsão.
 
 § único. Não será considerada como atenuante da falta cometida a alegação do desconhecimento das disposições regulamentares ou das instruções de carácter permanente.
 
-###### Art. 29.º São circunstâncias agravantes da responsabilidade disciplinar:
+Art. 29.º São circunstâncias agravantes da responsabilidade disciplinar:
 
 1.ª Ser a infracção cometida em ocasião de rebelião contra os poderes constituídos ou de alteração grave da ordem pública;
 
@@ -510,17 +514,17 @@ Não se verificando esses requisitos, será aplicada a pena de expulsão.
 
 #### SECÇÃO III — Efeitos das penas
 
-###### Art. 30.º A detenção até 20 dias, a suspensão até 10 dias e a prisão até 5 dias têm como consequência a transferência de esquadra, posto ou serviço pelo período mínimo de 60 dias.
+Art. 30.º A detenção até 20 dias, a suspensão até 10 dias e a prisão até 5 dias têm como consequência a transferência de esquadra, posto ou serviço pelo período mínimo de 60 dias.
 
 § único. As penas de detenção, suspensão e prisão que excederem os limites indicados no corpo deste artigo implicarão transferência de esquadra, posto ou serviço por 120 dias ou transferência para outro comando ou comissariado, quando devidamente proposta.
 
-###### Art. 31.º A pena de reforma compulsiva tem como consequência a passagem à classe de reformado.
+Art. 31.º A pena de reforma compulsiva tem como consequência a passagem à classe de reformado.
 
-###### Art. 32. A pena de expulsão importa a perda de todos os direitos resultantes do lugar ocupado e a impossibilidade de vir a ser provido em qualquer outro cargo público.
+Art. 32. A pena de expulsão importa a perda de todos os direitos resultantes do lugar ocupado e a impossibilidade de vir a ser provido em qualquer outro cargo público.
 
-###### Art. 33.º A pena de repreensão agravada e as dos artigos 15.º e seguintes serão sempre registadas no processo individual do punido e serão publicadas em ordem de serviço, devendo as dos artigos 21.º e 22.º, quanto ao pessoal do quadro e contratado, ser prèviamente publicadas no Boletim Oficial.
+Art. 33.º A pena de repreensão agravada e as dos artigos 15.º e seguintes serão sempre registadas no processo individual do punido e serão publicadas em ordem de serviço, devendo as dos artigos 21.º e 22.º, quanto ao pessoal do quadro e contratado, ser prèviamente publicadas no Boletim Oficial.
 
-###### Art. 34.º Para efeitos de abono de vencimentos as penas de suspensão e prisão, implicam:
+Art. 34.º Para efeitos de abono de vencimentos as penas de suspensão e prisão, implicam:
 
 1.º Suspensão, a perda de vencimento-base e complementar durante o período da punição;
 
@@ -528,15 +532,15 @@ Não se verificando esses requisitos, será aplicada a pena de expulsão.
 
 § único. Tratando-se de pessoal assalariado, a pena de prisão implica a perda de 1/6 do salário-base durante o período do cumprimento da pena.
 
-###### Art. 35.º As amnistias não destroem os efeitos já produzidos pela aplicação da pena nem determinam, relativamente ao castigo aplicado, o cancelamento do registo, que servirá para apreciação da conduta do agente, mas nele se averbará que, por virtude de amnistia, a pena deixou de produzir no futuro os efeitos legais.
+Art. 35.º As amnistias não destroem os efeitos já produzidos pela aplicação da pena nem determinam, relativamente ao castigo aplicado, o cancelamento do registo, que servirá para apreciação da conduta do agente, mas nele se averbará que, por virtude de amnistia, a pena deixou de produzir no futuro os efeitos legais.
 
-###### Art. 36.º As penas de detenção, suspensão e prisão disciplinar começam a ser executadas às 8 horas do dia seguinte àquele em que foram publicadas em ordem de serviço.
+Art. 36.º As penas de detenção, suspensão e prisão disciplinar começam a ser executadas às 8 horas do dia seguinte àquele em que foram publicadas em ordem de serviço.
 
 § 1.º A apresentação do punido deverá fazer-se até às 11 horas e 30 minutos do dia em que acabou o cumprimento da pena.
 
 § 2.º Quando por qualquer motivo não haja ocasião de fazer cumprir efectivamente as penas disciplinares, todos os seus efeitos se produzirão como se elas fossem realmente cumpridas.
 
-###### Art. 37.º As penas disciplinares, além de outros efeitos previstos na lei, influem na determinação da classe de comportamento, nos termos do artigo seguinte.
+Art. 37.º As penas disciplinares, além de outros efeitos previstos na lei, influem na determinação da classe de comportamento, nos termos do artigo seguinte.
 
 § 1.º O período de licença disciplinar varia consoante a classe de comportamento do pessoal, correspondendo:
 
@@ -552,7 +556,7 @@ e) À 4.ª classe, 8 dias;
 
 § 2.º O pessoal que esteja classificado na 1.ª classe de comportamento e nela se mantenha, pelo menos, por dois anos considera-se na classe de exemplar comportamento, mas apenas para efeitos de licença disciplinar.
 
-###### Art. 38.º As classes de comportamento são as seguintes:
+Art. 38.º As classes de comportamento são as seguintes:
 
 a) Comportamento exemplar, determinada pela ausência de punições;
 
@@ -612,35 +616,35 @@ Louvor no Boletim Oficial - dez dias de detenção.
 
 ### CAPÍTULO III — Da competência disciplinar
 
-###### Art. 39.º Qualquer graduado pode admoestar um seu inferior por qualquer acto por este praticado que não deva ser punido nos termos deste regulamento.
+Art. 39.º Qualquer graduado pode admoestar um seu inferior por qualquer acto por este praticado que não deva ser punido nos termos deste regulamento.
 
 § único. A admoestação é verbal, dada sempre em particular, não é publicada nem averbada e não produz quaisquer efeitos.
 
-###### Art. 40.º A competência disciplinar, quer para imposição de penas, quer para a concessão de recompensas, pertence aos superiores hierárquicos, de harmonia com os quadros anexos a este regulamento.
+Art. 40.º A competência disciplinar, quer para imposição de penas, quer para a concessão de recompensas, pertence aos superiores hierárquicos, de harmonia com os quadros anexos a este regulamento.
 
 § 1.º A competência do superior abrange sempre a do subordinado.
 
 § 2.º O agente que, em virtude de quaisquer circunstâncias, assumir a chefia ou exercer o cargo pertencente a outro de grau superior terá, enquanto durar aquela situação, a competência disciplinar correspondente.
 
-###### Art. 41.º O superior que tenha de recompensar ou punir um inferior por acto a que julgue corresponder recompensa ou pena superior à da sua competência, participará o facto por escrito ao superior imediato, o qual recompensará ou punirá o inferior ou ordenará que o participante use da sua competência.
+Art. 41.º O superior que tenha de recompensar ou punir um inferior por acto a que julgue corresponder recompensa ou pena superior à da sua competência, participará o facto por escrito ao superior imediato, o qual recompensará ou punirá o inferior ou ordenará que o participante use da sua competência.
 
-###### Art. 42.º As participações dadas pelos chefes de esquadra, comandantes de postos ou encarregados de secções ou serviços contra subordinados seus devem ser dirigidas confidencial e directamente ao respectivo superior hierárquico, a fim de que este proceda ou mande proceder às averiguações ou investigações que julgar convenientes. As participações dadas pelos subchefes ou guardas serão sempre informadas pelo chefe de esquadra, comandante de posto ou encarregados de secções ou serviços a que pertencer o acusado e terão, também confidencialmente, o mesmo destino.
+Art. 42.º As participações dadas pelos chefes de esquadra, comandantes de postos ou encarregados de secções ou serviços contra subordinados seus devem ser dirigidas confidencial e directamente ao respectivo superior hierárquico, a fim de que este proceda ou mande proceder às averiguações ou investigações que julgar convenientes. As participações dadas pelos subchefes ou guardas serão sempre informadas pelo chefe de esquadra, comandante de posto ou encarregados de secções ou serviços a que pertencer o acusado e terão, também confidencialmente, o mesmo destino.
 
-###### Art. 43.º O superior tem competência disciplinar para intimar a ordem de prisão ou detensão aos inferiores, quando o exigir o serviço ou a disciplina.
+Art. 43.º O superior tem competência disciplinar para intimar a ordem de prisão ou detensão aos inferiores, quando o exigir o serviço ou a disciplina.
 
 § 1.º O superior que intimar ordem de prisão ou detenção deverá dar imediatamente parte por escrito e pelas vias competentes ao comandante distrital ou comissário de polícia sob cujas ordens sirva.
 
 § 2.º O superior que tiver recorrido a meios extraordinários para manter a disciplina participará logo, por escrito e pelas vias competentes, ao comandante de que depende, os factos praticados pelo inferior e meios que empregou para a sua repressão.
 
-###### Art. 44.º O superior que recompensar ou punir o agente que pertencer a qualquer outro comando, mas que esteja sob as suas ordens imediatas, dará logo conhecimento ao respectivo comandante das resoluções que tomar.
+Art. 44.º O superior que recompensar ou punir o agente que pertencer a qualquer outro comando, mas que esteja sob as suas ordens imediatas, dará logo conhecimento ao respectivo comandante das resoluções que tomar.
 
-###### Art. 45.º O superior poderá determinar a qualquer subordinado a recompensa de um acto ou a imposição de uma pena, quando o último tenha competência para tal e o facto a recompensar ou a punir não tenha sido verificado pelo primeiro.
+Art. 45.º O superior poderá determinar a qualquer subordinado a recompensa de um acto ou a imposição de uma pena, quando o último tenha competência para tal e o facto a recompensar ou a punir não tenha sido verificado pelo primeiro.
 
-###### Art. 46.º Nenhum superior, qualquer que seja a sua graduação, poderá admoestar qualquer inferior na presença de um superior seu ou inferior do admoestado, ou ainda de indivíduos estranhos à corporação.
+Art. 46.º Nenhum superior, qualquer que seja a sua graduação, poderá admoestar qualquer inferior na presença de um superior seu ou inferior do admoestado, ou ainda de indivíduos estranhos à corporação.
 
-###### Art. 47.º O superior que usar da própria competência disciplinar comunicará, por escrito, ao comandante de que depende, a pena que aplicar, para a sua aprovação ou alteração.
+Art. 47.º O superior que usar da própria competência disciplinar comunicará, por escrito, ao comandante de que depende, a pena que aplicar, para a sua aprovação ou alteração.
 
-###### Art. 48.º O comandante-geral, o 2.º comandante e os comandantes distritais têm a faculdade de atenuar, agravar ou substituir as penas impostas pelos seus subordinados e a de alterar ou anular as recompensas concedidas ou propostas por estes, quando, seguidamente à sua aplicação, reconheçam a conveniência disciplinar de usar dessa faculdade.
+Art. 48.º O comandante-geral, o 2.º comandante e os comandantes distritais têm a faculdade de atenuar, agravar ou substituir as penas impostas pelos seus subordinados e a de alterar ou anular as recompensas concedidas ou propostas por estes, quando, seguidamente à sua aplicação, reconheçam a conveniência disciplinar de usar dessa faculdade.
 
 § único. O comandante-geral poderá, para solenizar qualquer feriado nacional, facto notável ou data histórica, determinar o não cumprimento, total ou parcial, das penas impostas por si ou pelos seus subordinados por faltas cometidas até ao dia em que esta determinação for publicada em ordem de serviço.
 
@@ -648,23 +652,23 @@ Louvor no Boletim Oficial - dez dias de detenção.
 
 #### SECÇÃO I — Princípios fundamentais
 
-###### Art. 49.º O processo disciplinar é de investigação sumária, devendo remover-se os obstáculos contrários ao seu rápido e regular andamento, recusar-se o que for impertinente, inútil ou dilatório e ordenar-se o que for necessário para o seguimento do processo.
+Art. 49.º O processo disciplinar é de investigação sumária, devendo remover-se os obstáculos contrários ao seu rápido e regular andamento, recusar-se o que for impertinente, inútil ou dilatório e ordenar-se o que for necessário para o seguimento do processo.
 
-###### Art. 50.º O procedimento disciplinar é independente do procedimento criminal no que respeita à aplicação das penas disciplinares.
+Art. 50.º O procedimento disciplinar é independente do procedimento criminal no que respeita à aplicação das penas disciplinares.
 
 § 1.º Sempre que em processo disciplinar se apure a existência de infracção que à face da lei penal seja também punível, far-se-á a devida comunicação ao foro competente, para ser instaurado o respectivo processo.
 
 § 2.º Sempre que se verifique a inexistência de responsabilidade criminal dos agentes policiais, mas houver motivo para procedimento disciplinar, serão os autos de corpo de delito submetidos à apreciação do conselho de disciplina referido neste regulamento.
 
-###### Art. 51.º O processo disciplinar, desde que não resulte da observação directa dos factos puníveis pelos superiores com competência para aplicação das respectivas penas, só pode ter como fundamento participação ou queixa devidamente testemunhada ou despacho conveniente exarado em averiguações.
+Art. 51.º O processo disciplinar, desde que não resulte da observação directa dos factos puníveis pelos superiores com competência para aplicação das respectivas penas, só pode ter como fundamento participação ou queixa devidamente testemunhada ou despacho conveniente exarado em averiguações.
 
 § único. Exceptuam-se as faltas presenciadas pelos superiores quando no exercício das suas funções, em que será dispensada a indicação de testemunha, sempre que as circunstâncias de verificação não permitam obtê-las.
 
-###### Art. 52.º As penas de repreensão, rondas, patrulhas, guardas e piquetes podem ser aplicadas sem dependência de processo disciplinar, mas com audiência, mesmo verbal, do agente arguido.
+Art. 52.º As penas de repreensão, rondas, patrulhas, guardas e piquetes podem ser aplicadas sem dependência de processo disciplinar, mas com audiência, mesmo verbal, do agente arguido.
 
-###### Art. 53.º As penas disciplinares de detenção e mais graves só serão aplicadas precedendo apuramento dos factos em processo disciplinar, salvo o disposto no artigo 57.º
+Art. 53.º As penas disciplinares de detenção e mais graves só serão aplicadas precedendo apuramento dos factos em processo disciplinar, salvo o disposto no artigo 57.º
 
-###### Art. 54.º O processo disciplinar será organizado por um oficial, comissário ou chefe de esquadra, servindo de escrivão, sempre que possível, um agente de categoria igual ou superior à do arguido.
+Art. 54.º O processo disciplinar será organizado por um oficial, comissário ou chefe de esquadra, servindo de escrivão, sempre que possível, um agente de categoria igual ou superior à do arguido.
 
 O processo compreenderá:
 
@@ -702,7 +706,7 @@ A mesma entidade poderá ordenar, antes da decisão final, a realização de qua
 
 § 6.º Pela acusação e pela defesa não poderão ser dadas mais de três testemunhas por cada facto, salvo o caso, devidamente justificado, em que sejam indispensáveis mais para que se possa estabelecer a prova.
 
-###### Art. 55.º Enquanto correr o processo ou até julgamento final, o agente acusado poderá ser suspenso do exercício ou preso, incomunicável ou não, segundo a gravidade da acusação, por despacho do comandante-geral em proposta do investigador e pelo tempo julgado necessário.
+Art. 55.º Enquanto correr o processo ou até julgamento final, o agente acusado poderá ser suspenso do exercício ou preso, incomunicável ou não, segundo a gravidade da acusação, por despacho do comandante-geral em proposta do investigador e pelo tempo julgado necessário.
 
 § 1.º Durante os primeiros 90 dias de suspensão preventiva o agente não perceberá vencimento ou ser-lhe-á abonado parte dele até 50 por cento.
 
@@ -712,21 +716,21 @@ A mesma entidade poderá ordenar, antes da decisão final, a realização de qua
 
 § 4.º A perda de vencimentos resultante das situações previstas no corpo do artigo será reparada ou levada em conta na decisão do processo.
 
-###### Art. 56.º A falta de audiência do arguido constitui a única nulidade insuprível do processo disciplinar.
+Art. 56.º A falta de audiência do arguido constitui a única nulidade insuprível do processo disciplinar.
 
-###### Art. 57.º As infracções de disciplina que sejam directamente presenciadas por um oficial em serviço na Polícia de Segurança Pública poderão ser por si punidas mediante simples audiência, mesmo verbal, do arguido.
+Art. 57.º As infracções de disciplina que sejam directamente presenciadas por um oficial em serviço na Polícia de Segurança Pública poderão ser por si punidas mediante simples audiência, mesmo verbal, do arguido.
 
 § único. Se o oficial não tiver competência disciplinar para punir o infractor, a participação correspondente poderá ser atendida pela entidade competente sem dependência de averiguações ou outro testemunho exterior.
 
-###### Art. 58.º O superior que use da sua competência disciplinar nos casos previstos no artigo anterior e seu § único deverá:
+Art. 58.º O superior que use da sua competência disciplinar nos casos previstos no artigo anterior e seu § único deverá:
 
 1.º Ouvir o infractor ou mandá-lo ouvir por um oficial, quando possível, ou, na falta deste, por um comissário ou chefe acerca da falta cometida e dos motivos que lhe deram causa, do que será apresentado sempre relatório;
 
 2.º Descrever de forma sumária a falta ou as faltas cometidas e aplicar a punição proporcionada a elas, nos termos, respectivamente, dos n.os 1.º e 2.º do § 2.º do artigo 54.º
 
-###### Art. 59.º O participante de uma infracção disciplinar deve procurar esclarecer-se prèviamente acerca dos pormenores que a caracterizam e relatá-la com toda a verdade, sem paixão ou ressentimento.
+Art. 59.º O participante de uma infracção disciplinar deve procurar esclarecer-se prèviamente acerca dos pormenores que a caracterizam e relatá-la com toda a verdade, sem paixão ou ressentimento.
 
-###### Art. 60.º O direito de exigir responsabilidade disciplinar em que qualquer agente haja incorrido prescreve passados cinco anos sobre a data em que a falta tiver sido cometida, salvo o disposto nos parágrafos seguintes.
+Art. 60.º O direito de exigir responsabilidade disciplinar em que qualquer agente haja incorrido prescreve passados cinco anos sobre a data em que a falta tiver sido cometida, salvo o disposto nos parágrafos seguintes.
 
 § 1.º Se o facto classificado de infracção disciplinar for também considerado infracção penal, aplicar-se-ão ao procedimento disciplinar os prazos estabelecidos pelo Código Penal.
 
@@ -734,7 +738,7 @@ A mesma entidade poderá ordenar, antes da decisão final, a realização de qua
 
 #### SECÇÃO II — Reclamações, recursos e queixas
 
-###### Art. 61.º O agente policial que considerar injusta a pena disciplinar que lhe tiver sido imposta poderá reclamar ou recorrer dela nos seguintes casos:
+Art. 61.º O agente policial que considerar injusta a pena disciplinar que lhe tiver sido imposta poderá reclamar ou recorrer dela nos seguintes casos:
 
 1.º Quando entenda não haver cometido a falta;
 
@@ -746,21 +750,21 @@ A mesma entidade poderá ordenar, antes da decisão final, a realização de qua
 
 5.º Quando a descrição da infracção ou a redacção da punição não corresponderem à falta cometida.
 
-###### Art. 62.º A reclamação deve ser singular, formulada por escrito, em termos respeitosos, apresentada dentro do prazo de cinco dias, contados a partir daquele em que o infractor foi notificado da punição ou esta foi publicada em ordem de serviço.
+Art. 62.º A reclamação deve ser singular, formulada por escrito, em termos respeitosos, apresentada dentro do prazo de cinco dias, contados a partir daquele em que o infractor foi notificado da punição ou esta foi publicada em ordem de serviço.
 
-###### Art. 63.º Da decisão das reclamações há recurso para a autoridade imediatamente superior na hierarquia policial àquela que a resolveu, a qual julga em última instância.
+Art. 63.º Da decisão das reclamações há recurso para a autoridade imediatamente superior na hierarquia policial àquela que a resolveu, a qual julga em última instância.
 
 § 1.º Os prazos de recurso são de cinco dias a contar da data em que o interessado foi notificado da decisão da reclamação ou a mesma foi publicada em ordem de serviço.
 
 § 2.º O acusado ou quem legìtimamente o represente, quando interpuser, tem direito de consultar o processo para organização da sua defesa, nos termos do § único do artigo 49.º
 
-###### Art. 64.º O superior tem por dever atender, como for de justiça, as reclamações que lhe forem feitas ou dar seguimento, no prazo de cinco dias, aos recursos que devem ser resolvidos pela autoridade superior, ouvindo o reclamante, fazendo ou mandando fazer todas as diligências que julgar convenientes para esclarecimento da verdade.
+Art. 64.º O superior tem por dever atender, como for de justiça, as reclamações que lhe forem feitas ou dar seguimento, no prazo de cinco dias, aos recursos que devem ser resolvidos pela autoridade superior, ouvindo o reclamante, fazendo ou mandando fazer todas as diligências que julgar convenientes para esclarecimento da verdade.
 
 § único. O averiguante procederá às indagações que julgar conveniente, concluindo sempre por apresentar em relatório o seu parecer acerca do fundamento da reclamação ou recurso.
 
-###### Art. 65.º Se do processo resultar que a injustiça da punição ou o indeferimento da reclamação tiveram origem na inexactidão intencional ou culposa de informações ou declarações, proceder-se-á disciplinarmente contra o autor das mesmas, sem prejuízo da responsabilidade criminal que possa caber.
+Art. 65.º Se do processo resultar que a injustiça da punição ou o indeferimento da reclamação tiveram origem na inexactidão intencional ou culposa de informações ou declarações, proceder-se-á disciplinarmente contra o autor das mesmas, sem prejuízo da responsabilidade criminal que possa caber.
 
-###### Art. 66.º É admitida a revisão dos processos disciplinares quando se verifiquem circunstâncias ou meios de prova susceptíveis de demonstrar a não existência dos factos pelos quais o arguido foi castigado ou a sua menor culpabilidade que não pudessem ter sido utilizados por ele na defesa ou em recurso.
+Art. 66.º É admitida a revisão dos processos disciplinares quando se verifiquem circunstâncias ou meios de prova susceptíveis de demonstrar a não existência dos factos pelos quais o arguido foi castigado ou a sua menor culpabilidade que não pudessem ter sido utilizados por ele na defesa ou em recurso.
 
 § 1.º O prazo para o pedido de revisão é de 90 dias a partir do conhecimento das circunstâncias ou dos meios de prova a que se refere o corpo do artigo.
 
@@ -770,21 +774,21 @@ A mesma entidade poderá ordenar, antes da decisão final, a realização de qua
 
 § 4.º Verificando-se o provimento, no todo ou em parte, em processo de revisão, será o arguido indemnizado do vencimento que houver perdido ou do tempo que lhe tenha sido descontado.
 
-###### Art. 67.º A todo o agente assiste o direito de queixa contra o superior, quando por este for praticado qualquer acto de que resulte para o queixoso lesão de direitos prescritos nas leis e nos regulamentos.
+Art. 67.º A todo o agente assiste o direito de queixa contra o superior, quando por este for praticado qualquer acto de que resulte para o queixoso lesão de direitos prescritos nas leis e nos regulamentos.
 
 § único. A queixa é independente de autorização, mas antecedida pela comunicação do queixoso àquele de quem tenha de se queixar e será singular, feita por escrito no prazo de 48 horas e dirigida, pelas vias competentes, ao comandante sob cujas ordens o acusado servir, cabendo das decisões deste recurso nos termos do artigo 63.º
 
 #### SECÇÃO III — Conselho de disciplina
 
-###### Art. 68.º Haverá junto do Comando-Geral da Polícia de Segurança Pública um conselho de disciplina, constituído por cinco membros a nomear anualmente pelo governador da província sob proposta do comandante-geral, dos quais três, pelo menos, são oficiais do Exército em serviço no corpo.
+Art. 68.º Haverá junto do Comando-Geral da Polícia de Segurança Pública um conselho de disciplina, constituído por cinco membros a nomear anualmente pelo governador da província sob proposta do comandante-geral, dos quais três, pelo menos, são oficiais do Exército em serviço no corpo.
 
 § único. O conselho de disciplina será secretariado por um comissário-chefe ou chefe de secretaria, sem direito a voto e nomeado anualmente pelo comandante-geral.
 
-###### Art. 69.º Os componentes do conselho serão substituídos, na falta ou impedimento legal, por funcionários da Polícia de Segurança Pública a nomear pelo governador da província sob proposta do comandante-geral.
+Art. 69.º Os componentes do conselho serão substituídos, na falta ou impedimento legal, por funcionários da Polícia de Segurança Pública a nomear pelo governador da província sob proposta do comandante-geral.
 
-###### Art. 70.º A reunião do conselho far-se-á por convocação do comandante-geral, sendo as suas deliberações tomadas por maioria de votos, não podendo nenhum membro assinar vencido sem justificar por escrito a razão do seu voto.
+Art. 70.º A reunião do conselho far-se-á por convocação do comandante-geral, sendo as suas deliberações tomadas por maioria de votos, não podendo nenhum membro assinar vencido sem justificar por escrito a razão do seu voto.
 
-###### Art. 71.º É da competência dos conselhos de disciplina:
+Art. 71.º É da competência dos conselhos de disciplina:
 
 a) Apreciar e dar parecer sobre todos os processos disciplinares e reclamações de recursos em que o comandante-geral entenda dever ouvi-lo;
 
@@ -810,22 +814,22 @@ g) Emitir parecer nos processos de promoção por escolha a comissário-chefe e 
 
 h) Emitir parecer sobre todos os assuntos de natureza disciplinar ou outros sujeitos a sua consulta.
 
-###### Art. 72.º Haverá um livro de actas das sessões do conselho de disciplina, que será rubricado e terá termo de abertura e de encerramento, assinado pelo comandante-geral.
+Art. 72.º Haverá um livro de actas das sessões do conselho de disciplina, que será rubricado e terá termo de abertura e de encerramento, assinado pelo comandante-geral.
 
 § único. Das actas devem constar, na íntegra, todos os factos que ocorrerem no decurso das sessões e serão lavradas pelo secretário e assinadas por todos os membros do conselho.
 
 ### CAPÍTULO V — Disposições diversas
 
-###### Art. 73.º A equivalência dos castigos e recompensas inscritas nas folhas de matrícula à data da entrada em vigor deste regulamento será considerada nos termos deste mesmo diploma ou da legislação anteriormente vigente, conforme for mais favorável para os interesses, não podendo, porém, ser simultâneamente consideradas as duas equivalências.
+Art. 73.º A equivalência dos castigos e recompensas inscritas nas folhas de matrícula à data da entrada em vigor deste regulamento será considerada nos termos deste mesmo diploma ou da legislação anteriormente vigente, conforme for mais favorável para os interesses, não podendo, porém, ser simultâneamente consideradas as duas equivalências.
 
-###### Art. 74.º Os corpos de Polícia de Segurança Pública do ultramar conservarão as suas designações próprias, independentemente da nomenclatura adoptada no presente regulamento disciplinar.
+Art. 74.º Os corpos de Polícia de Segurança Pública do ultramar conservarão as suas designações próprias, independentemente da nomenclatura adoptada no presente regulamento disciplinar.
 
-###### Art. 75.º Ficam os governos das províncias ultramarinas autorizados a resolver, por portaria, as dificuldades emergentes da aplicação, nas mesmas províncias, do presente regulamento.
+Art. 75.º Ficam os governos das províncias ultramarinas autorizados a resolver, por portaria, as dificuldades emergentes da aplicação, nas mesmas províncias, do presente regulamento.
 
 Ministério do Ultramar, 3 de Janeiro de 1964. - O Ministro do Ultramar, António Angusto Peixoto Correia.
 
 Quadro a que se refere o artigo 40.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/01/00200/00100019.pdf))](https://files.diariodarepublica.pt/1s/1964/01/00200/00100019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/01/00200/00100019.pdf)
 
 Ministério do Ultramar, 3 de Janeiro de 1964. - O Ministro do Ultramar, António Augusto Peixoto Correia.

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/42/2025/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/42-2025-943647415
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:16:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a09ff1b7d15175a7dfd23b1fdde9d02a02fbf9fd35c4d8c384578b8185a4d376
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b7304bf861f5e178afbd9d14714ae9a49c5bb10cce80f1fed5489c2f4734a21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:16:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,21 +69,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
+- Base de Dados
 - Comissão Coordenadora
 - Comissão de Acompanhamento
 - Coordenador
+- Estágio de Formação
+- Formação Profissional
+- Garantia Jovem
+- Instituto do Emprego e Formação Profissional
 - Jovem
-- Base de Dados
 - Orientação Escolar
 - Orientação Profissional
-- Sistema de Informação
-- Primeiro Emprego
-- Estágio de Formação
 - Política de Emprego
 - Política de Juventude
-- Garantia Jovem
+- Primeiro Emprego
+- Sistema de Informação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/43-b/2024/07/02/p/dre
@@ -109,16 +109,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/188/2021/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/188/2021/12/30/p/dre
+- type: cites
+  target: pt:dre:176811777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:934502552:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:resolucao-conselho-ministros:134/2025
+  label: Retifica o sumário da Resolução do Conselho de Ministros n.º 134/2025, de 9 de setembro, Diário da República n.º
+    173/2025, Série I
+  source: null
+  date: '2025-09-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:16:16Z'
   warnings: []
   errors: []
 ---
@@ -129,10 +163,12 @@ Ao abrigo do disposto na alínea f) do n.º 3 do artigo 5.º do Anexo I do [Decr
 
 No sumário onde se lê:
 
-«Cria o modelo de governação para a concretização da Recomendação do Conselho, de 30 de setembro de 2020, 2020/C 372/01, e revoga as Resoluções do Conselho de Ministros n.<sup>os</sup> [188/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/188-2021-176811777), de 30 de dezembro, e [104/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/104-2013-483892), de 31 de dezembro, que reforça a Garantia para a Juventude e tem como objetivo promover uma resposta integrada, eficaz e adaptada à realidade dos jovens em Portugal.»
+«Cria o modelo de governação para a concretização da Recomendação do Conselho, de 30 de setembro de 2020, 2020/C 372/01, e revoga as Resoluções do Conselho de Ministros n.os [188/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/188-2021-176811777), de 30 de dezembro, e [104/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/104-2013-483892), de 31 de dezembro, que reforça a Garantia para a Juventude e tem como objetivo promover uma resposta integrada, eficaz e adaptada à realidade dos jovens em Portugal.»
 
 deve ler-se:
 
 «Cria o modelo de governação para a concretização da Recomendação do Conselho, de 30 de outubro de 2020, 2020/C 372/01, e altera o Plano Nacional de Implementação de Uma Garantia Jovem (PNI-GJ), aprovado pela [Resolução do Conselho de Ministros n.º 104/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/104-2013-483892), de 31 de dezembro, alterada pela [Resolução do Conselho de Ministros n.º 188/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/188-2021-176811777), de 30 de dezembro.»
 
 Secretaria-Geral do Governo, 29 de outubro de 2025. - O Secretário-Geral Adjunto, Joaquim Cruz.
+
+119711207

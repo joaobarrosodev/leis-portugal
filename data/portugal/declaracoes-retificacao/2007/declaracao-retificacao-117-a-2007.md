@@ -31,7 +31,7 @@ publication:
   reference: Diário da República n.º 250/2007, 3º Suplemento, Série I de 2007-12-28
   number: '250'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 9114-(60) a 9114-(69)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/12/25003/0006000069.pdf
 entry_into_force_dates: []
@@ -58,18 +58,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declrectif/117-a/2007/12/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/117-a-2007-227273
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-05-30T00:00:00Z'
+  retrieved_at: '2026-10-22T19:07:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9572fb13c7efc4cce4cda9262ae45c91f106d9c64080e7fde708d2e12739a14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0bc64d11808685f070867f48157c18ff02a63e752efeac80b9e433a4e2ffd5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:07:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,25 +77,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Seguradora
-- Contrato de Seguro
 - Aproximação das Legislações
-- Valores Mobiliários
-- Sociedade Anónima
-- Instituição de Crédito
-- Sociedade Comercial
+- Atividade Seguradora
+- Banco de Portugal
 - Bolsa de Valores
-- Publicidade
 - Capital Social
+- CMVM
 - Código das Sociedades Comerciais
 - Código dos Valores Mobiliários
+- Companhia de Seguros
 - Consultoria
+- Contrato de Seguro
 - Cotação na Bolsa
 - Definição de Competências
 - Fundo de Investimento Imobiliário
 - Fundo de Investimento Mobiliário
 - Fundo de Pensões
-- Banco de Portugal
+- Informação do Consumidor
+- Instituição de Crédito
+- Instituição Financeira
 - Instituto de Seguros de Portugal
 - Isenção Fiscal
 - Mercado de Capitais
@@ -103,24 +103,49 @@ subjects:
 - Mercado Financeiro
 - Operações de Bolsa
 - Organismo de Investimento Colectivo
-- Sociedade Gestora de Fundos de Pensões
-- Informação do Consumidor
 - Prestação de Serviços
+- Publicidade
 - Regime Geral das Instituições de Crédito e Sociedades Financeiras
 - Regime Jurídico
-- Companhia de Seguros
-- CMVM
-- Instituição Financeira
+- Sociedade Anónima
+- Sociedade Comercial
 - Sociedade Corretora
 - Sociedade de Investimento
 - Sociedade Financeira de Corretagem
 - Sociedade Gestora de Fundos de Investimento
+- Sociedade Gestora de Fundos de Pensões
 - Sucursal
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:107094723:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:107094723:por
+  label: Alterados os arts. 2.º (na redação do Dec Lei 63-A/2013 de 10-mai), 12.º-A, 182.º-A, 211.º, 248.º, 248.º-A, 248.º-B,
+    250.º, 304.º-C, 305.º (na redação do Dec Lei 63-A/2013 de 10-mai), 305.º-A, 309.º-D, 309.º-E (na redação do Dec Lei 63-A/2013
+    de 10-mai), 309.º-F, 311.º, 349.º, 353.º, 359.º (na redação dos Decs Leis 18/2013 de 06-fev e 40/2014 de 18-mar e da Lei
+    16/2015 de 24-fev), 367.º (na redação do Dec Lei 22/2016 de 03-jun), 377.º-B (aditado pelo Dec Lei 18/2013 de 06-fev),
+    378.º, 379.º (os dois últimos na redação da Lei 28/2009 de 19-jun), 380.º, 380.º-A, 388.º (na redação da Lei 28/2009 de
+    19-jun e do Dec Lei 40/2014 de 18-mar), 400.º (na redação dos Decs Leis 18/2013 de 06-fev e 40/2014 de 18-mar), 401.º
+    (na redação do Dec Lei 211-A/2008 de 03-nov), 403.º, 404.º, 405.º, 408.º (na redação da Lei 28/2009 de 19-jun), 409.º,
+    414.º, 416.º, 418.º, 420.º e 422.º (na redação da Lei 28/2009 de 19-jun), aditados os arts. 197.º-A, 205.º-A, 257.º-A,
+    257.º-B, 257.º-C, 257.º-D, 304.º-D, 305.º-F, 368.º-A, 368.º-B, 368.º-C, 368.º-D, 368.º-E, 377.º-C, 378.º-A, 379.º-A, 379.º-B,
+    379.º-C, 379.º-D, 379.º-E, 386.º-A, 399.º-A, 402.º-A, 405.º-A, 408.º-A, 410.º-A, 414.º-A, 414.º-B e 422.º-A, alterada
+    a sistemática da subsec. vi da sec. ii do cap. ii do título iv, com a epígrafe «Informação relativa a valores mobiliários
+    admitidos à negociação» (que passa a ser a sec. iii, com a epígrafe «Informação relativa a instrumentos financeiros admitidos
+    à negociação», que compreende os arts. 244.º a 251.º), do título iv (a que é aditado o cap. iv, com a epígrafe «Negociação
+    e informação relativa a licenças de emissão», que compreende os arts. 257.º-A a 257.º-D) e do título vii (a cujo cap.
+    ii são aditadas a sec. i, com a epígrafe «Disposições gerais», que compreende os arts. 358.º a 368.º, bem como a sec.
+    ii, com a epígrafe «Comunicação de informação para efeitos de supervisão», que compreende os arts. 368.º-A a 368.º-E),
+    e revogados o art. 12.º, o n.º 2 do art. 12.º-A, os arts. 12.º-B, 12.º-C, 12.º-D e 12.º-E, a al. h) do art. 247.º, os
+    n.ºs 5, 6 e 7 do art. 248.º, o n.º 6 do art. 379.º, a al. e) do n.º 3 do art. 389.º e a al. i) do n.º 1 do art. 394.º,
+    todos do Código dos Valores Mobiliários aprovado pelo Dec Lei 486/99 de 13-nov, na versão republicada do Código pelo Dec
+    Lei 357-A/2007 de 31-out e retificada pela presente Declaração de Retificação, pelo(a) Lei n.º 28/2017 - Diário da República
+    n.º 104/2017, Série I de 2017-05-30 nos termos dos seus arts. 8.º e 10.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2017-107094723
+  date: '2017-05-30'
 - type: cites
   target: celex:32004L0039
   label: null
@@ -177,16 +202,149 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/357-a/2007/10/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/357-a/2007/10/31/p/dre
+- type: cites
+  target: pt:dre:186546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197355:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:209605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:589335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682983:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-lei:357-A/2007
+  label: "Rectifica o Decreto-Lei n.º 357-A/2007, de 31 de Outubro, DR.IS [210]2ºSupl, que altera o Regime Geral das Instituições\
+    \ de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, na redacção dos Decretos-Leis\
+    \ n.ºs 232/96, de 5 de Dezembro, 222/99, de 22 de Junho, 250/2000, de 13 de Outubro, 285/2001, de 3 de Novembro, 252/2003,\
+    \ de 17 de Outubro, 145/2006, de 31 de Julho, e 104/2007, de 3 de Abril, o Código das Sociedades Comerciais, aprovado\
+    \ pelo Decreto-Lei n.º 262/86, de 2 de Setembro, o Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99,\
+    \ de 13 de Novembro, com as alterações introduzidas pelos Decretos-Leis n.ºs 61/2002, de 20 de Março, 107/2003, de 4 de\
+    \ Junho, 66/2004, de 24 de Março, 52/2006, de 15 de Março, e 219/2006, de 2 de Novembro, e respectiva republicação, o\
+    \ Decreto-Lei n.º 94-B/98, de 17 de Abril, na redacção dos Decretos-Leis n.ºs 8-C/2002, de 11 de Janeiro e 90/2003, de\
+    \ 30 de Abril, e o Decreto-Lei n.º 12/2006, de 20 de Janeiro\0ro\0"
+  source: null
+  date: '2007-10-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:07:38Z'
   warnings: []
   errors: []
 ---

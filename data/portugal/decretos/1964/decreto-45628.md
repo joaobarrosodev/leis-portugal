@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45628-1964-470471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-01-09T00:00:00Z'
+  retrieved_at: '2026-10-22T19:39:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 705c37821ee082ce338474101affb138aa96544b8a32e960352448557a4e60c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49cefcc5a999cbc770656abef0d51d790b2557d05788b8099d91716a3cb1f502
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:39:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,64 @@ relationships:
   target: pt:dre:241058:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:156470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585817:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:39:59Z'
   warnings: []
   errors: []
 ---
@@ -106,41 +154,41 @@ Disposições especiais
 
 A) Cabo Verde
 
-###### Artigo 1.º Fica o Governo da província autorizado a abrir um crédito especial de 600000$00, a adicionar á tabela de despesa ordinária do orçamento geral em vigor, destinado a suportar os encargos com a exploração do navio Santo Antão, tomando como contrapartida o saldo das contas de exercícios findos.
+Artigo 1.º Fica o Governo da província autorizado a abrir um crédito especial de 600000$00, a adicionar á tabela de despesa ordinária do orçamento geral em vigor, destinado a suportar os encargos com a exploração do navio Santo Antão, tomando como contrapartida o saldo das contas de exercícios findos.
 
 B) Guiné
 
-###### Art. 2.º Fica o Governo da província autorizado a estabelecer, a título excepcional, em benefício do pessoal da Companhia Móvel de Polícia, o subsídio de alimentação nos termos e até aos limites fixados para o pessoal das forças do Exército, não podendo, contudo, o aumento dos respectivos encargo, exceder a importância anual de 1344000$00.
+Art. 2.º Fica o Governo da província autorizado a estabelecer, a título excepcional, em benefício do pessoal da Companhia Móvel de Polícia, o subsídio de alimentação nos termos e até aos limites fixados para o pessoal das forças do Exército, não podendo, contudo, o aumento dos respectivos encargo, exceder a importância anual de 1344000$00.
 
 § único. Os abonos a realizar de harmonia com o uso da autorização concedida retrotrair-se-ão a 1 de Janeiro de 1964.
 
-###### Art. 3.º É reconhecido aos membros do conselho de administração do porto de Bissau o direito ao abono de senhas de presença, nos termos estabelecidos pela Portaria Provincial n.º 1554, de 8 de Junho de 1963.
+Art. 3.º É reconhecido aos membros do conselho de administração do porto de Bissau o direito ao abono de senhas de presença, nos termos estabelecidos pela Portaria Provincial n.º 1554, de 8 de Junho de 1963.
 
 § único. Os encargos resultantes do cumprimento do preceituado no corpo do artigo serão satisfeitos pelos orçamentos privativos do mencionado serviço autónomo.
 
-###### Art. 4.º É autorizado o conselho de administração dos serviços autónomos dos correios, telégrafos e telefones a contrair na Caixa Económica Postal da província um empréstimo até à importância de 4368000$00, destinado à construção de moradias para os seus agentes, amortizável em vinte anuidades, vencendo o juro anual de 4 por cento.
+Art. 4.º É autorizado o conselho de administração dos serviços autónomos dos correios, telégrafos e telefones a contrair na Caixa Económica Postal da província um empréstimo até à importância de 4368000$00, destinado à construção de moradias para os seus agentes, amortizável em vinte anuidades, vencendo o juro anual de 4 por cento.
 
 § único. As cláusulas e condições que forem ajustadas entre os serviços dos correios, telégrafos e telefones e a Caixa Económica Postal para a realização da operação financeira referida no corpo do artigo serão prèviamente aprovadas pelo Governo da província.
 
-###### Art. 5.º Os encargos derivados do empréstimo de que trata o artigo anterior constituem despesa obrigatória dos serviços dos correios, telégrafos e telefones, devendo anualmente ser inscritas nos respectivos orçamentos, como despesa ordinária, as verbas necessárias à sua amortização e pagamento dos correspondentes juros.
+Art. 5.º Os encargos derivados do empréstimo de que trata o artigo anterior constituem despesa obrigatória dos serviços dos correios, telégrafos e telefones, devendo anualmente ser inscritas nos respectivos orçamentos, como despesa ordinária, as verbas necessárias à sua amortização e pagamento dos correspondentes juros.
 
 C) S. Tomé e Príncipe
 
-###### Art. 6.º Enquanto não for promulgada a reforma tributária são autorizados os órgãos legislativos da província a alterar o regime de incidência da contribuição predial rústica estabelecido pelos artigos 26.º do [Decreto n.º 39028](https://diariodarepublica.pt/dr/detalhe/decreto/39028-1952-305459), de 6 de Dezembro de 1952, e 4.º do [Decreto n.º 40144](https://diariodarepublica.pt/dr/detalhe/decreto/40144-1955-540443), de 26 de Abril de 1955.
+Art. 6.º Enquanto não for promulgada a reforma tributária são autorizados os órgãos legislativos da província a alterar o regime de incidência da contribuição predial rústica estabelecido pelos artigos 26.º do [Decreto n.º 39028](https://diariodarepublica.pt/dr/detalhe/decreto/39028-1952-305459), de 6 de Dezembro de 1952, e 4.º do [Decreto n.º 40144](https://diariodarepublica.pt/dr/detalhe/decreto/40144-1955-540443), de 26 de Abril de 1955.
 
-###### Art. 7.º Passa a ter a seguinte redacção o artigo 5.º do [Decreto n.º 42223](https://diariodarepublica.pt/dr/detalhe/decreto/42223-1959-585817), de 18 de Abril de 1959:
+Art. 7.º Passa a ter a seguinte redacção o artigo 5.º do [Decreto n.º 42223](https://diariodarepublica.pt/dr/detalhe/decreto/42223-1959-585817), de 18 de Abril de 1959:
 
-###### Art. 5.º Os lugares de chefe e subchefe da banda de música serão providos por concurso de provas documentais entre indivíduos de comprovado mérito musical.
+Art. 5.º Os lugares de chefe e subchefe da banda de música serão providos por concurso de provas documentais entre indivíduos de comprovado mérito musical.
 
 § único. O chefe e subchefe da banda, à entrada em vigor desta alteração, poderão transitar para o quadro, se assim o requererem e for autorizado pelo Ministério do Exército.
 
 D) Angola
 
-###### Art. 8.º É delegada no Governo-Geral da província a competência para a execução do disposto no artigo 16.º do [Decreto n.º 44651](https://diariodarepublica.pt/dr/detalhe/decreto/44651-1962-156470), de 27 de Outubro de 1962, na parte respeitante ao pessoal dos serviços de administração civil, não podendo, contudo, os respectivos encargos exceder o montante das verbas inscritas no orçamento geral para 1963 destinadas ao pagamento de remunerações acessórias aos funcionários dos mesmos serviços, incluindo as gratificações relativas ao serviço de recenseamento e cobrança do imposto geral mínimo.
+Art. 8.º É delegada no Governo-Geral da província a competência para a execução do disposto no artigo 16.º do [Decreto n.º 44651](https://diariodarepublica.pt/dr/detalhe/decreto/44651-1962-156470), de 27 de Outubro de 1962, na parte respeitante ao pessoal dos serviços de administração civil, não podendo, contudo, os respectivos encargos exceder o montante das verbas inscritas no orçamento geral para 1963 destinadas ao pagamento de remunerações acessórias aos funcionários dos mesmos serviços, incluindo as gratificações relativas ao serviço de recenseamento e cobrança do imposto geral mínimo.
 
-###### Art. 9.º São extintas as gratificações especiais constantes do mapa anexo à Portaria Ministerial n.º 3, publicada em Angola em 30 de Junho de 1962.
+Art. 9.º São extintas as gratificações especiais constantes do mapa anexo à Portaria Ministerial n.º 3, publicada em Angola em 30 de Junho de 1962.
 
-###### Art. 10.º São criados no quadro de pessoal de nomeação do Instituto do Trabalho, Previdência e Acção Social os seguintes lugares:
+Art. 10.º São criados no quadro de pessoal de nomeação do Instituto do Trabalho, Previdência e Acção Social os seguintes lugares:
 
 3 de inspector do trabalho;
 
@@ -148,7 +196,7 @@ D) Angola
 
 4 de condutor de automóveis de 3.ª classe.
 
-###### Art. 11.º Consideram-se rectificados para os seguintes os números de lugares previstos no mapa I anexo ao [Decreto n.º 44247](https://diariodarepublica.pt/dr/detalhe/decreto/44247-1962-516677), de 22 de Março de 1962, para a Direcção de Exploração de Transportes Aéreos da província, das categorias que se indicam:
+Art. 11.º Consideram-se rectificados para os seguintes os números de lugares previstos no mapa I anexo ao [Decreto n.º 44247](https://diariodarepublica.pt/dr/detalhe/decreto/44247-1962-516677), de 22 de Março de 1962, para a Direcção de Exploração de Transportes Aéreos da província, das categorias que se indicam:
 
 N
 
@@ -162,15 +210,15 @@ R
 
 Motoristas de viaturas automóveis ... 9
 
-###### Art. 12.º O artigo 14.º do [Decreto n.º 43340](https://diariodarepublica.pt/dr/detalhe/decreto/43340-1960-514185), de 21 de Novembro de 1960, passa a ter a seguinte redacção:
+Art. 12.º O artigo 14.º do [Decreto n.º 43340](https://diariodarepublica.pt/dr/detalhe/decreto/43340-1960-514185), de 21 de Novembro de 1960, passa a ter a seguinte redacção:
 
-###### Art. 14.º Ficam autorizados os órgãos legislativos da província a criar os quadros de pessoal médico, técnico e de secretaria necessários ao funcionamento do Centro de Estudos e Medicina Desportiva de Luanda e outros centros de medicina desportiva que venham a ser criados ao abrigo do artigo 24.º do Diploma Legislativo n.º 3208, de 17 de Janeiro de 1962, com a composição e remunerações propostas pelo Conselho Provincial de Educação Física.
+Art. 14.º Ficam autorizados os órgãos legislativos da província a criar os quadros de pessoal médico, técnico e de secretaria necessários ao funcionamento do Centro de Estudos e Medicina Desportiva de Luanda e outros centros de medicina desportiva que venham a ser criados ao abrigo do artigo 24.º do Diploma Legislativo n.º 3208, de 17 de Janeiro de 1962, com a composição e remunerações propostas pelo Conselho Provincial de Educação Física.
 
-###### Art. 13.º Os aspirantes e apontadores de 2.ª classe dos serviços dos portos, caminhos de ferro e transportes admitidos até à data da publicação deste decreto poderão concorrer a lugares do quadro de secretaria dos mesmos serviços superiores à letra R do artigo 91.º do Estatuto do Funcionalismo Ultramarino, desde que possuam o 1.º ciclo dos liceus ou equivalente.
+Art. 13.º Os aspirantes e apontadores de 2.ª classe dos serviços dos portos, caminhos de ferro e transportes admitidos até à data da publicação deste decreto poderão concorrer a lugares do quadro de secretaria dos mesmos serviços superiores à letra R do artigo 91.º do Estatuto do Funcionalismo Ultramarino, desde que possuam o 1.º ciclo dos liceus ou equivalente.
 
 E) Moçambique
 
-###### Art. 14.º No Corpo de Polícia de Segurança Pública da província são criados e extintos os seguintes lugares:
+Art. 14.º No Corpo de Polícia de Segurança Pública da província são criados e extintos os seguintes lugares:
 
 a) Criação de lugares:
 
@@ -186,41 +234,41 @@ Pessoal dos quadros de nomeação:
 
 § único. Independentemente de qualquer formalidade de nomeação, visto e posse, transita para o lugar de chefe de esquadra o agente de 1.ª classe do Corpo de Polícia do Estado da Índia, colocado no Corpo de Polícia de Segurança Pública da província como subchefe-ajudante.
 
-###### Art. 15.º No quadro do pessoal inspectivo contabilista da Inspecção Provincial de Fazenda e Contabilidade da província são criados mais quatro lugares de inspector.
+Art. 15.º No quadro do pessoal inspectivo contabilista da Inspecção Provincial de Fazenda e Contabilidade da província são criados mais quatro lugares de inspector.
 
-###### Art. 16.º São ratificados os Diplomas Legislativos n.os 2160 e 2183, de, respectivamente, 27 de Novembro e 30 de Dezembro de 1961, publicados na província.
+Art. 16.º São ratificados os Diplomas Legislativos n.os 2160 e 2183, de, respectivamente, 27 de Novembro e 30 de Dezembro de 1961, publicados na província.
 
 § único. Ficam autorizados os órgãos legislativos da província a rever o diploma orgânico dos serviços autónomos de electricidade, incluindo a composição, recrutamento, atribuições e vencimentos, salários e outras formas de remuneração do pessoal dos quadros.
 
 F) Macau
 
-###### Art. 17.º Passa a ter a seguinte redacção o artigo 4.º do [Decreto n.º 41394](https://diariodarepublica.pt/dr/detalhe/decreto/41394-1957-251671), de 23 de Novembro de 1957:
+Art. 17.º Passa a ter a seguinte redacção o artigo 4.º do [Decreto n.º 41394](https://diariodarepublica.pt/dr/detalhe/decreto/41394-1957-251671), de 23 de Novembro de 1957:
 
-###### Art. 4.º As importâncias de que tratam os artigos anteriores serão escrituradas pelos serviços de Fazenda em conta especial de operações de tesouraria e ficam consignadas à amortização do empréstimo contraído ao abrigo do [Decreto-Lei n.º 39179](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39179-1953-528266), de 21 de Abril de 1953, e do subsídio reembolsável, concedido nos termos do [Decreto-Lei n.º 40379](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40379-1955-248070), de 15 de Novembro de 1955.
+Art. 4.º As importâncias de que tratam os artigos anteriores serão escrituradas pelos serviços de Fazenda em conta especial de operações de tesouraria e ficam consignadas à amortização do empréstimo contraído ao abrigo do [Decreto-Lei n.º 39179](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39179-1953-528266), de 21 de Abril de 1953, e do subsídio reembolsável, concedido nos termos do [Decreto-Lei n.º 40379](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40379-1955-248070), de 15 de Novembro de 1955.
 
-###### Art. 18.º Ficam autorizados os órgãos legislativos da província a conceder autonomia administrativa, e financeira à Obra Social dos Serviços de Marinha, a criar por diploma legislativo que também definirá as condições de funcionamento da instituição.
+Art. 18.º Ficam autorizados os órgãos legislativos da província a conceder autonomia administrativa, e financeira à Obra Social dos Serviços de Marinha, a criar por diploma legislativo que também definirá as condições de funcionamento da instituição.
 
 G) Timor
 
-###### Art. 19.º Fica o Governo da província autorizado a abrir um crédito especial de 1000000$00, tomando como contrapartida os saldos das contas de exercícios findos, destinado a regularizar despesas feitas de 1959 a 1963, sem existência de recursos orçamentais.
+Art. 19.º Fica o Governo da província autorizado a abrir um crédito especial de 1000000$00, tomando como contrapartida os saldos das contas de exercícios findos, destinado a regularizar despesas feitas de 1959 a 1963, sem existência de recursos orçamentais.
 
 II
 
 H) Disposições comuns
 
-###### Art. 20.º Aos mapas V e VI anexos ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, é aditada a seguinte gratificação especial mensal:
+Art. 20.º Aos mapas V e VI anexos ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, é aditada a seguinte gratificação especial mensal:
 
 Inspecção Provincial de Fazenda e Contabilidade:
 
 Ao chefe da secretaria ... 300$00
 
-###### Art. 21.º São criados no quadro comum dos engenheiros dos serviços dos portos, caminhos de ferro e transportes do ultramar os cargos de subchefe de serviço e de subchefe de brigada.
+Art. 21.º São criados no quadro comum dos engenheiros dos serviços dos portos, caminhos de ferro e transportes do ultramar os cargos de subchefe de serviço e de subchefe de brigada.
 
-###### Art. 22.º É aprovado o quadro comum dos engenheiros dos serviços dos portos, caminhos de ferro e transportes do ultramar, constante do mapa anexo a este decreto, que, na parte respeitante a Angola e Moçambique, substitui o referido no artigo 1.º do [Decreto n.º 44227](https://diariodarepublica.pt/dr/detalhe/decreto/44227-1962-518188), de 9 de Março de 1962.
+Art. 22.º É aprovado o quadro comum dos engenheiros dos serviços dos portos, caminhos de ferro e transportes do ultramar, constante do mapa anexo a este decreto, que, na parte respeitante a Angola e Moçambique, substitui o referido no artigo 1.º do [Decreto n.º 44227](https://diariodarepublica.pt/dr/detalhe/decreto/44227-1962-518188), de 9 de Março de 1962.
 
-###### Art. 23.º As nomeações para os lugares do quadro comum a que se refere o artigo antecedente e a colocação dos engenheiros directores são da competência do Ministro do Ultramar. Os engenheiros das restantes categorias serão colocados por portaria do governador-geral, sob proposta do director dos serviços.
+Art. 23.º As nomeações para os lugares do quadro comum a que se refere o artigo antecedente e a colocação dos engenheiros directores são da competência do Ministro do Ultramar. Os engenheiros das restantes categorias serão colocados por portaria do governador-geral, sob proposta do director dos serviços.
 
-###### Art. 24.º Os cargos constantes do mapa referido no artigo 22.º serão desempenhados por engenheiros das categorias seguintes:
+Art. 24.º Os cargos constantes do mapa referido no artigo 22.º serão desempenhados por engenheiros das categorias seguintes:
 
 a) Engenheiro-director: inspector provincial, director e subdirector dos serviços;
 
@@ -234,7 +282,7 @@ d) Engenheiros de 2.ª classe: adjuntos do chefe de serviço e adjunto do chefe 
 
 § 2.º Na falta de engenheiros de 2.ª classe podem os cargos referidos na alínea d) ser desempenhados, interinamente, por agentes técnicos de engenharia.
 
-###### Art. 25.º O provimento dos cargos do mapa referido no artigo 22.º será feito:
+Art. 25.º O provimento dos cargos do mapa referido no artigo 22.º será feito:
 
 a) Por engenheiros civis:
 
@@ -258,15 +306,15 @@ Chefes e adjuntos dos serviços de electricidade, de material e tracção, de si
 
 § 3.º Os cargos de chefe e subchefe da Divisão dos Serviços Técnicos devem ser exercidos por engenheiros de especialidades diferentes: quando um for electrotécnico, o outro será mecânico.
 
-###### Art. 26.º Compete aos subchefes de serviço e subchefes de brigada coadjuvar os respectivos chefes de serviço e de brigada, executar as funções que estes lhes deleguem e substituí-los nas suas faltas ou impedimentos.
+Art. 26.º Compete aos subchefes de serviço e subchefes de brigada coadjuvar os respectivos chefes de serviço e de brigada, executar as funções que estes lhes deleguem e substituí-los nas suas faltas ou impedimentos.
 
-###### Art. 27.º Ao mapa II anexo ao [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959, é introduzida a seguinte alteração, além das referidas no artigo 10.º do [Decreto n.º 44227](https://diariodarepublica.pt/dr/detalhe/decreto/44227-1962-518188), de 9 de Março de 1962:
+Art. 27.º Ao mapa II anexo ao [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959, é introduzida a seguinte alteração, além das referidas no artigo 10.º do [Decreto n.º 44227](https://diariodarepublica.pt/dr/detalhe/decreto/44227-1962-518188), de 9 de Março de 1962:
 
 Acrescentar:
 
 Engenheiros de 1.ª classe, quando exercendo funções de subchefes de serviço ou de subchefes de brigada ... 500$00
 
-###### Art. 28.º São extintos, nos serviços dos portos, caminhos de ferro e transportes de Angola, os seguintes lugares criados pelo [Decreto n.º 44227](https://diariodarepublica.pt/dr/detalhe/decreto/44227-1962-518188), de 9 de Março de 1962:
+Art. 28.º São extintos, nos serviços dos portos, caminhos de ferro e transportes de Angola, os seguintes lugares criados pelo [Decreto n.º 44227](https://diariodarepublica.pt/dr/detalhe/decreto/44227-1962-518188), de 9 de Março de 1962:
 
 Adjunto do chefe de serviço de movimento e tráfego, 1;
 
@@ -274,13 +322,13 @@ Adjunto do chefe de serviço de via e obras, 2;
 
 Adjunto de chefe de brigada de estudos e construção, 1.
 
-###### Art. 29.º São revogados os artigos 1.º, 2.º, 3.º e 5.º do [Decreto n.º 44227](https://diariodarepublica.pt/dr/detalhe/decreto/44227-1962-518188), de 9 de Março de 1962.
+Art. 29.º São revogados os artigos 1.º, 2.º, 3.º e 5.º do [Decreto n.º 44227](https://diariodarepublica.pt/dr/detalhe/decreto/44227-1962-518188), de 9 de Março de 1962.
 
-###### Art. 30.º Constituem encargo dos orçamentos privativos dos serviços referidos no artigo 21.º as despesas resultantes da execução do disposto nos artigos 21.º a 28.º, inclusive, do presente decreto.
+Art. 30.º Constituem encargo dos orçamentos privativos dos serviços referidos no artigo 21.º as despesas resultantes da execução do disposto nos artigos 21.º a 28.º, inclusive, do presente decreto.
 
-###### Art. 31.º Ficam os governos-gerais e de província autorizados a abrir, observadas as disposições legais aplicáveis, os créditos especiais necessários à satisfação do disposto neste decreto, tomando como contrapartida disponibilidades ou recursos orçamentais.
+Art. 31.º Ficam os governos-gerais e de província autorizados a abrir, observadas as disposições legais aplicáveis, os créditos especiais necessários à satisfação do disposto neste decreto, tomando como contrapartida disponibilidades ou recursos orçamentais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Março de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 
@@ -290,6 +338,6 @@ MAPA
 
 Quadro comum dos engenheiros dos serviços dos portos, caminhos de ferro e transportes do ultramar, a que se refere o artigo 22.º do Decreto n.º 45628, de 28 de Março de 1964
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/03/07500/04470450.pdf))](https://files.diariodarepublica.pt/1s/1964/03/07500/04470450.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/03/07500/04470450.pdf)
 
 Ministério do Ultramar, 28 de Março de 1964. - O Ministro do Ultramar, António Augusto Peixoto Correia.

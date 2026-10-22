@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/156/2026/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/156-2026-1152781825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-29T00:00:00Z'
+  retrieved_at: '2026-10-22T18:48:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dffa3a354150520e110617c69965afbed61a488462afd3cd6c4b08f89b4f09ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95364ba22743364fabe46db514801df6b68da8f0fffdea0dda62aac7abb5437c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:48:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
-- Ministério da Administração Interna
 - Conselho de Ministros
 - Contrato
 - Delegação de Competências
 - Despesas Públicas
 - Empreitada de Obras Públicas
-- Secretaria Geral
-- Ministro da Administração Interna
 - Governo XXV
+- Ministério da Administração Interna
+- Ministro da Administração Interna
+- PSP
+- Secretaria Geral
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
@@ -93,16 +93,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/54/2022/08/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/54/2022/08/12/p/dre
+- type: cites
+  target: pt:dre:151173018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173593662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187413390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210931888:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:915864425:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:301/2025
+  label: Revoga, a partir de 3 de agosto de 2026, com efeitos a 15 de dezembro de 2020, nos termos do n.º 4 do presente diploma,
+    a Portaria n.º 301/2025/2, de 24 de abril de 2025, Diário da República n.º 80/2025, Série II
+  source: null
+  date: '2025-04-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T18:48:18Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +153,7 @@ A programação referida prevê os encargos com investimentos, designadamente, e
 
 Neste contexto, foi identificada a necessidade de realização de uma empreitada de reabilitação e adaptação do edifício da Rua de José Estêvão, 137, em Lisboa - Direção Nacional da Polícia de Segurança Pública, tendo sido celebrado contrato, em 2022, no valor de 2 651 920,00 €, ao qual acresceu imposto sobre valor acrescentado (IVA) à taxa legal em vigor.
 
-Considerando que estavam previstos encargos orçamentais em ano económico diferente da sua contratação, a assunção dos mesmos foi autorizada através da [Portaria n.º 734/2020](https://diariodarepublica.pt/dr/detalhe/portaria/734-2020-151173018), de 15 de dezembro, para os anos de 2020 a 2023, reprogramada através das Portarias n.<sup>os</sup> [505/2021](https://diariodarepublica.pt/dr/detalhe/portaria/505-2021-173593662), de 2 de novembro, para os anos de 2021 a 2024, [143/2023](https://diariodarepublica.pt/dr/detalhe/portaria/143-2023-210931888), de 24 de março, para os anos de 2021 a 2025, e [301/2025/2](https://diariodarepublica.pt/dr/detalhe/portaria/301-2025-915864425), de 24 de abril de 2025, no valor de 3 470 856,41 €, ao qual acresce IVA à taxa legal em vigor, para os anos de 2021 a 2026.
+Considerando que estavam previstos encargos orçamentais em ano económico diferente da sua contratação, a assunção dos mesmos foi autorizada através da [Portaria n.º 734/2020](https://diariodarepublica.pt/dr/detalhe/portaria/734-2020-151173018), de 15 de dezembro, para os anos de 2020 a 2023, reprogramada através das Portarias n.os [505/2021](https://diariodarepublica.pt/dr/detalhe/portaria/505-2021-173593662), de 2 de novembro, para os anos de 2021 a 2024, [143/2023](https://diariodarepublica.pt/dr/detalhe/portaria/143-2023-210931888), de 24 de março, para os anos de 2021 a 2025, e [301/2025/2](https://diariodarepublica.pt/dr/detalhe/portaria/301-2025-915864425), de 24 de abril de 2025, no valor de 3 470 856,41 €, ao qual acresce IVA à taxa legal em vigor, para os anos de 2021 a 2026.
 
 Considerando que irá haver a necessidade de um acréscimo do valor contratual, em consequência de execução de trabalhos complementares e revisão de preços, torna-se necessário reprogramar e autorizar despesa adicional à prevista na [Portaria n.º 301/2025/2](https://diariodarepublica.pt/dr/detalhe/portaria/301-2025-915864425), publicada no Diário da República, 2.ª série, n.º 80, de 24 de abril de 2025.
 
@@ -148,3 +186,5 @@ f) 2026 - 2 263 818,46 €.
 6 - Determinar que a presente resolução produz efeitos a 15 de dezembro de 2020.
 
 Presidência do Conselho de Ministros, 17 de julho de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119949158
